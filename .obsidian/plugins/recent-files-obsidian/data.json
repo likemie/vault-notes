@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Trautwein_2007_CEP",
+      "path": "wiki/arguments/journal-articles/Contemporary Educational Psychology/Argument_Trautwein_2007_CEP.md"
+    },
+    {
+      "basename": "Argument_Stephan_2013_NBER",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
+    },
+    {
+      "basename": "Blackstone's Ratio",
+      "path": "wiki/concepts/ethics-of-technology/Blackstone's Ratio.md"
+    },
+    {
       "basename": "Argument_Custer_2021_AidData",
       "path": "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md"
     },
@@ -97,10 +109,6 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_Streeck_Thelen_2005_OUP.md"
     },
     {
-      "basename": "Argument_Stephan_2013_NBER",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
-    },
-    {
       "basename": "Regulatory Impact Analysis",
       "path": "wiki/concepts/educational-policy-reform/Regulatory Impact Analysis.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "template-argument-textbook",
       "path": "wiki/templates/template-argument-textbook.md"
-    },
-    {
-      "basename": "Culturally Sustaining Practices",
-      "path": "wiki/concepts/educational-psychology/Culturally Sustaining Practices.md"
-    },
-    {
-      "basename": "Argument_Jansen_2026_EPR",
-      "path": "wiki/arguments/journal-articles/Educational Psychology Review/Argument_Jansen_2026_EPR.md"
     }
   ],
   "omittedPaths": [],

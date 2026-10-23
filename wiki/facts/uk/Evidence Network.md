@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 24
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "network"
 headquarters: "London, UK"
@@ -29,21 +29,26 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[What Works Movement]]"
   - "[[School Leadership]]"
+  - "[[Discourse]]"
+  - "[[Research Utilization]]"
   - "[[Paradigm]]"
-  - "[[Evidence Ecosystem]]"
+  - "[[Research Impact]]"
+  - "[[Gatekeepers]]"
+  - "[[Champ]]"
   - "[[Evidence-Based Education]]"
 related_theories:
   - "[[Typology of Factors Influencing Research Use]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[UK Centre for Evidence-based Policy]]"
   - "[[EPPI-Centre]]"
   - "[[What Works Network]]"
+  - "[[Africa Evidence Network]]"
   - "[[National Strategy for Educational Research and Enquiry]]"
+  - "[[UNESCO]]"
   - "[[Education Endowment Foundation]]"
   - "[[Research Schools Network]]"
 related_arguments:
@@ -72,7 +77,7 @@ updated: 2026-10-23
 > [!dev-timeline] 组织发展历程
 > - **1999–2009 — ESRC 资助下的实体网络探索期** 依托英国循证政策与实践中心建立专门在线门户，广泛整合教育、公共卫生与刑事司法领域的实证证据，发布系列政策工作文稿与循证方法指南，成为英国跨界知识动员的先驱实验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, pp. 331–333)]]
 > - **2010s — 职能内嵌与高校政策研究所转型** 随着 ESRC 专项资助周期结束，原网络职能逐渐由各大学内部常设智库实体承接——以伦敦国王学院政策研究所（Policy Institute at King's College London）为代表，大学将证据网络功能制度化，持续为中央政府与国际组织提供政策咨询。
-> - **2010s–2020s — 现代国家网络与跨国生态扩散** 关系型证据网络模式在全球广泛扩散：在英国本土催生了涵盖教育、医疗等多领域的国家级“何者有效网络”（[[What Works Network]]）以及 2025 年创立的“证据交换联盟”（Evidence Exchange）；在国际上，非洲证据网络（Africa Evidence Network, AEN）等区域性跨部门网络迅速崛起；在威尔士政府 2021 年发布的《[[National Strategy for Educational Research and Enquiry|国家教育研究与探究战略]]》（[[National Strategy for Educational Research and Enquiry|NSERE]]）中，“积极融入国际证据网络”被正式确立为四大国家战略支柱之一。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]; [[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 44–46)]]
+> - **2010s–2020s — 现代国家网络与跨国生态扩散** 关系型证据网络模式在全球广泛扩散：在英国本土催生了涵盖教育、医疗等多领域的国家级“何者有效网络”（[[What Works Network]]）以及 2025 年创立的“证据交换联盟”（Evidence Exchange）；在国际上，[[Africa Evidence Network|非洲证据网络]]（Africa Evidence Network, AEN）等区域性跨部门网络迅速崛起；在威尔士政府 2021 年发布的《[[National Strategy for Educational Research and Enquiry|国家教育研究与探究战略]]》（[[National Strategy for Educational Research and Enquiry|NSERE]]）中，“积极融入国际证据网络”被正式确立为四大国家战略支柱之一。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]; [[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 44–46)]]
 
 ---
 
@@ -95,19 +100,19 @@ updated: 2026-10-23
 > - **跨界研讨与专业对话平台** 常态化举办学术界、智库与政府官员共同参与的政策研讨会，构建非交易性的制度化互动空间。
 
 > [!citation-card] 证据网络对关系型知识动员的界定
-> 实证研究成果在公共决策中的有效利用，本质上不取决于纸面报告的单向印发，而取决于研究生产者、政策制定者与专业实践者之间建立起长期、制度化的互动网络与信任资本。这种关系型网络能够打破学术话语与行政行话的区隔，使严谨证据真正嵌入政策议程的形成过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, p. 330)]]
+> 实证研究成果在公共决策中的有效利用，本质上不取决于纸面报告的单向印发，而取决于研究生产者、政策制定者与专业实践者之间建立起长期、制度化的互动网络与信任资本。这种关系型网络能够打破学术[[Discourse|话语]]与行政行话的区隔，使严谨证据真正嵌入政策议程的形成过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, p. 330)]]
 >
-> *The effective use of research evidence in public policy depends fundamentally not on the linear transmission of static reports, but on the cultivation of enduring institutional networks and trust capital among researchers, policymakers, and practitioners.*
+> *The effective [[Research Utilization|use of research evidence]] in public policy depends fundamentally not on the linear transmission of static reports, but on the cultivation of enduring institutional networks and trust capital among researchers, policymakers, and practitioners.*
 
 ---
 
 > [!indicators] 影响力维度与指标
-> - **跨部门中介范式确立** 证据网络打破了“研究生产—单向传递—被动采纳”的传统线性流水线设想，确立了多方长期互动与深层信任在知识动员中的中枢地位。
+> - **跨部门中介[[Paradigm|范式]]确立** 证据网络打破了“研究生产—单向传递—被动采纳”的传统线性流水线设想，确立了多方长期互动与深层信任在知识动员中的中枢地位。
 > - **高校智库化转型塑造** 为英国高校普遍设立政策研究所（Policy Institutes）并直接服务国家公共治理提供了组织示范。
-> - **跨国战略与民间网络吸纳** 威尔士 NSERE 战略将融入国际证据网络确立为国家支柱；教科文组织全球战略审查进一步强调，政府行政部门亟须吸纳民间社会组织已建立的多元证据网络，并肯定了非洲证据网络（AEN）等区域实体汇聚数千名研究者与行政官员的人际信任纽带作用。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]; [[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 27, 44–46)]]
+> - **跨国战略与民间网络吸纳** 威尔士 NSERE 战略将融入国际证据网络确立为国家支柱；[[UNESCO|教科文组织]]全球战略审查进一步强调，政府行政部门亟须吸纳民间社会组织已建立的多元证据网络，并肯定了非洲证据网络（AEN）等区域实体汇聚数千名研究者与行政官员的人际信任纽带作用。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]; [[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 27, 44–46)]]
 
 > [!finding-cards] 关键成效与辐射影响
-> - **推动英国国家循证网络成型** 早期证据网络的实践直接启发了后续涵盖教育、医疗等多领域的国家级“何者有效网络”（What Works Network）与英国教育捐赠基金会（EEF）的制度设计。
+> - **推动英国国家循证网络成型** 早期证据网络的实践直接启发了后续涵盖教育、医疗等多领域的国家级“何者有效网络”（What Works Network）与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）的制度设计。
 > - **改善研究利用类型学中的互动维度** 在证据利用影响因素框架中，证据网络被公认为通过本地协同与非正式接触克服官僚阻力的制度范式。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, pp. 106, 122)]]
 
 > [!stat-cards]- 核心规模数据
@@ -130,7 +135,7 @@ updated: 2026-10-23
 > > 传统大学学术评价偏向同行评议期刊成果发表，对学者在证据网络中耗费大量精力从事的跨界沟通、政策简报撰写与非正式咨询缺乏相应的激励认可。
 > >
 > > - **学者处境** 青年与资深学者参与网络协作面临职业晋升与时间分配的结构性压力。
-> > - **制度改革倡导** 倡导科研评价体系纳入“社会影响力”（Research Impact）与政策转化指标。
+> > - **制度改革倡导** 倡导科研评价体系纳入“社会影响力”（[[Research Impact]]）与政策转化指标。
 >
 > > [!axis] 政策政治化与证据选择性采纳风险
 > > 在高度政治化、充满利益博弈的决策环境中，网络所提供的中立严谨证据往往面临被决策者工具化剪裁（Cherry-picking）或因不符合既定政治立场而被刻意搁置的风险。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 123)]]
@@ -138,8 +143,8 @@ updated: 2026-10-23
 > > - **政治社会学批判** 政策制定往往遵循政治适宜性逻辑，严谨实证容易沦为政策合理化的象征符号。
 > > - **中介防守** 强调透明的数据开放与多元利益相关方共同参与，以此抵御单向政治操弄。
 
-> [!citation-card] 托雷斯论证据网络与政策把关人博弈
-> 即使建立了紧密的证据网络，实证知识进入决策议程的深度依然受制于政策场域中的意识形态与官僚把关人；中介机构必须直面证据被选择性利用的政治现实。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 123)]]
+> [!citation-card] 托雷斯论证据网络与[[Gatekeepers|政策把关人]]博弈
+> 即使建立了紧密的证据网络，实证知识进入决策议程的深度依然受制于政策[[Champ|场域]]中的意识形态与官僚把关人；中介机构必须直面证据被选择性利用的政治现实。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 123)]]
 >
 > *Even within established evidence networks, the uptake of empirical insights remains mediated by ideological predispositions and gatekeeping mechanisms within political arenas.*
 
@@ -154,7 +159,7 @@ updated: 2026-10-23
 > | [[Typology of Factors Influencing Research Use]] | Theory | 证据网络体现了类型学中“互动维度”的核心促成机制（本地协同与长期伙伴关系）。 |
 > | [[National Strategy for Educational Research and Enquiry]] | Fact (Policy) | 威尔士国家战略将“积极融入国际证据网络”列为其第四大核心支柱。 |
 > | [[What Works Network]] | Fact (Organization) | 英国当代跨部门证据清算与应用网络，直接承接了早期证据网络的制度探索。 |
-> | [[Education Endowment Foundation]] | Fact (Organization) | 英国循证教育旗舰机构，依托研究学校网络建立一线证据实践网络。 |
+> | [[Education Endowment Foundation]] | Fact (Organization) | 英国循证教育旗舰机构，依托[[Research Schools Network\|研究学校网络]]建立一线证据实践网络。 |
 > | [[UK Centre for Evidence-based Policy]] | Fact (Organization) | 证据网络设立初期的依托母体与跨学科研究中心。 |
 > | [[EPPI-Centre]] | Fact (Organization) | 与证据网络同属英国循证政策与实践运动早期的核心学术支撑机构。 |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011)]] | Argument | 记录英国 ESRC 资助建立证据网络与跨部门知识动员先驱实验的教育研究经典。 |

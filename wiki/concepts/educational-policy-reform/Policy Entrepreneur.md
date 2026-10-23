@@ -188,6 +188,7 @@ updated: 2026-10-22
 > - **2012 — 全网化治理与跨国[[Policy Network|政策网络]]拓展** 斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将概念拓展至全球[[Network Governance|网络治理]]视阈，揭示跨国政策企业家与智库如何穿透民族国家边界输出新自由主义商业规训。
 > - **2013 — 政策生命周期中的循证去政治化模型** 洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013]]）构建了政策企业家在政策周期中动态整合实证证据、指标数据与价值叙事的模型，揭示其如何筑牢技术护栏并打破[[Punctuated Equilibrium Theory|政策垄断]]。
 > - **2016 — 公私混合创业与 [[Educational Management Organisation|EMO]] 制度套利诊断** [[John O'Neill|约翰·奥尼尔]]等人（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）通过对新西兰公立教育改革的深度实证考察，揭示政策企业家在公共服务、非营利慈善与商业营利间无缝切换的微观运作路径与财务沉淀机制。
+> - **2020 — 跨国政策流动与[[Policy Ambassador|政策大使]]拓展** 戴安·斯通等人（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）将政策企业家理论延伸至国际发展合作与全球南方语境，提炼出兼具跨文化穿透力、多语言斡旋能力与深厚国内实践声望的“政策大使”以及在印尼等国引介外来政策的“学术-行政企业家”构念。
 
 ---
 
@@ -230,3 +231,4 @@ updated: 2026-10-22
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰公立教育中政策企业家跨界无缝切换的机制，揭示[[Dual-Entity Legal Structure|双层法人架构]]与学术资本商业化变现路径。
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 将政策企业家理论与多阶段证据利用结合，揭示跨界行动者动员实证差距指标突破[[Punctuated Equilibrium Theory|政策垄断]]并推动 [[Common Core State Standards|CCSS]] 采纳。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将政策企业家引入理性主义比较教育发展框架，解释分散权威空间中基于基准数据的[[Governing at a Distance|远处治理]]协调机制。
+> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 将政策企业家概念拓展至跨国发展合作与南南政策转移，提炼出推动治理模式跨国流动的“政策大使”与学术-行政企业家机制（pp. 6, 12–13）。

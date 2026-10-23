@@ -1487,6 +1487,15 @@
     ]
   },
   {
+    "title": "Policy Ambassador",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Policy Ambassador.md",
+    "aliases": [
+      "政策大使",
+      "Policy Ambassadors"
+    ]
+  },
+  {
     "title": "Policy Borrowing",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Policy Borrowing.md",
@@ -1645,6 +1654,15 @@
       "关系性空间",
       "关系空间",
       "relational notions of space"
+    ]
+  },
+  {
+    "title": "Representational Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Representational Knowledge.md",
+    "aliases": [
+      "代表性知识",
+      "代议性知识"
     ]
   },
   {
@@ -31083,6 +31101,16 @@
     ]
   },
   {
+    "title": "Africa Evidence Network",
+    "type": "fact",
+    "path": "wiki/facts/africa/Africa Evidence Network.md",
+    "aliases": [
+      "非洲证据网络",
+      "Africa Evidence Network (AEN)",
+      "AEN"
+    ]
+  },
+  {
     "title": "Africa Network Campaign on Education for All",
     "type": "fact",
     "path": "wiki/facts/africa/Africa Network Campaign on Education for All.md",
@@ -31101,6 +31129,15 @@
       "快速证据综合中心",
       "Center for Rapid Evidence Synthesis (ACRES)",
       "马凯雷雷大学快速证据综合中心"
+    ]
+  },
+  {
+    "title": "Education Sub Saharan Africa",
+    "type": "fact",
+    "path": "wiki/facts/africa/Education Sub Saharan Africa.md",
+    "aliases": [
+      "撒哈拉以南非洲教育倡议",
+      "Education Sub Saharan Africa (ESSA)"
     ]
   },
   {
@@ -33703,6 +33740,16 @@
     ]
   },
   {
+    "title": "Center for Global Development",
+    "type": "fact",
+    "path": "wiki/facts/global/Center for Global Development.md",
+    "aliases": [
+      "全球发展中心",
+      "Center for Global Development (CGD)",
+      "CGD"
+    ]
+  },
+  {
     "title": "Centre for Educational Research and Innovation",
     "type": "fact",
     "path": "wiki/facts/global/Centre for Educational Research and Innovation.md",
@@ -34002,6 +34049,17 @@
       "教科文组织统计研究所",
       "联合国教科文组织统计研究所",
       "UNESCO UIS"
+    ]
+  },
+  {
+    "title": "UNESCO UNEVOC",
+    "type": "fact",
+    "path": "wiki/facts/global/UNESCO UNEVOC.md",
+    "aliases": [
+      "联合国教科文组织国际职业技术教育与培训中心",
+      "UNESCO-UNEVOC",
+      "UNEVOC",
+      "International Centre for Technical and Vocational Education and Training"
     ]
   },
   {
@@ -35171,6 +35229,16 @@
       "美国对俄文化关系协会",
       "ASCRR",
       "美苏文化交流协会"
+    ]
+  },
+  {
+    "title": "Asia South Pacific Association for Basic and Adult Education",
+    "type": "fact",
+    "path": "wiki/facts/multi/Asia South Pacific Association for Basic and Adult Education.md",
+    "aliases": [
+      "亚太基础与成人教育协会",
+      "Asia South Pacific Association for Basic and Adult Education (ASPBAE)",
+      "ASPBAE"
     ]
   },
   {

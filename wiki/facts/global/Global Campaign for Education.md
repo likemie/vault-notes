@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "国际民间社会教育同盟"
 headquarters: "约翰内斯堡（南非）"
@@ -36,6 +36,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[Africa Network Campaign on Education for All]]"
   - "[[Latin American Campaign for the Right to Education]]"
+  - "[[Asia South Pacific Association for Basic and Adult Education]]"
   - "[[Education for All]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Achieve]]"
@@ -62,7 +63,7 @@ updated: 2026-10-23
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1999 年在达喀尔世界教育论坛前夕由国际非政府组织与教师工会联合创设，旨在终结以往民间社会在[[International Education|国际教育]]决策中各自为政、难以形成合力的分散局面。
-> - **总部地点 / 业务辐射** 国际秘书处设于南非约翰内斯堡，在全球设有区域办事处，网络覆盖非洲（[[Africa Network Campaign on Education for All|ANCEFA]]）、拉美（[[Latin American Campaign for the Right to Education|CLADE]]）、亚太（ASPBAE）、阿拉伯国家以及欧美各主权国别联盟。
+> - **总部地点 / 业务辐射** 国际秘书处设于南非约翰内斯堡，在全球设有区域办事处，网络覆盖非洲（[[Africa Network Campaign on Education for All|ANCEFA]]）、拉美（[[Latin American Campaign for the Right to Education|CLADE]]）、亚太（[[Asia South Pacific Association for Basic and Adult Education|ASPBAE]]）、阿拉伯国家以及欧美各主权国别联盟。
 > - **法人属性与经费基础** 独立的国际非政府组织同盟，由会员联盟会费与国际发展援助专属倡导基金共同维系。
 > - **核心宗旨与法定职责** 确保实现[[Education for All|全民教育]]（EFA）与[[UN Sustainable Development Goals|联合国可持续发展目标]] 4（SDG 4）；促使政府将国内生产总值的至少 4%–6% 或公共预算的 15%–20% 投入公立教育体系。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 74)]]
 

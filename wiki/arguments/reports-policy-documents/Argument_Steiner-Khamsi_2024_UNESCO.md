@@ -7,7 +7,7 @@ title: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_key: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_display_title: "Strategic review: Improving the use of evidence for education policy, planning and implementation"
 argument_kind: "report"
-argument_related_count: 72
+argument_related_count: 78
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -102,8 +102,10 @@ related_facts:
   - "[[UNICEF]]"
   - "[[Latin American Campaign for the Right to Education]]"
   - "[[Africa Network Campaign on Education for All]]"
+  - "[[Asia South Pacific Association for Basic and Adult Education]]"
   - "[[NORRAG]]"
   - "[[SUMMA]]"
+  - "[[Education Sub Saharan Africa]]"
   - "[[PISA]]"
   - "[[International Institute for Educational Planning]]"
   - "[[Global Partnership for Education]]"
@@ -111,12 +113,16 @@ related_facts:
   - "[[UNESCO Institute for Statistics]]"
   - "[[INEE]]"
   - "[[Global Campaign for Education]]"
+  - "[[Center for Global Development]]"
+  - "[[UNESCO UNEVOC]]"
   - "[[RISE Programme]]"
   - "[[Education Endowment Foundation]]"
   - "[[Evidence Network]]"
   - "[[EVIPNet]]"
   - "[[Center for Rapid Evidence Synthesis]]"
   - "[[PISA for Development]]"
+  - "[[Africa Evidence Network]]"
+  - "[[Every Student Succeeds Act]]"
   - "[[Bill & Melinda Gates Foundation]]"
 status: draft
 created: 2026-10-22
@@ -166,7 +172,7 @@ updated: 2026-10-23
 > | **问卷调查样本** | 共回收 898 份完整问卷；306 名受访者披露居住国，覆盖教科文组织划分的全部五大区域共 103 个国家（亚太 33%、非洲 25%、欧洲与北美 23%、拉美及加勒比 14%、阿拉伯国家 8%）；受访者专业背景涵盖高校与智库研究者（22%）、教育部委官员（19%）、民间社会组织代表（18%）、教师组织与教学专业人员（14%）以及国际组织官员（10%）（pp. 18–19）。 |
 > | **网络拓扑分析子样本** | 在全部 898 名受访者中，共有 286 位决策者与研究者在问卷第三题（Q3）中填报了具体经常调阅的证据源，累计映射出 432 个独立的证据主体与平台（国家级 234 个、国际级 124 个、区域级 74 个），构成图 3.2 拓扑网络的数据实体（pp. 21–24）。 |
 > | **文献计量样本** | 纳入 1999 年后发表在引文索引库中的 1,660 篇公共卫生政策证据利用文献与 1,825 篇教育政策证据利用文献，分别提取关键词共现频次与参考文献共引矩阵，形成包含 510 个高连接度节点的拓扑图谱（pp. 30–32, 64–65）。 |
-> | **定性访谈样本** | 涵盖全球多边机构、区域性民间社会网络（如[[Latin American Campaign for the Right to Education\|拉丁美洲受教育权运动]]（Latin American Campaign for the Right to Education, CLADE）、[[Africa Network Campaign on Education for All\|全非全民教育网络运动]]（Africa Network Campaign on Education for All, ANCEFA）、亚太基础与成人教育协会（Asia South Pacific Association for Basic and Adult Education, ASPBAE））与智库平台（如[[NORRAG\|国际教育与培训合作政策研究网络]]（Network for International Policies and Cooperation in Education and Training, NORRAG）、拉丁美洲教育创新与研究中心（[[SUMMA]]）、撒哈拉以南非洲教育倡议（Education Sub Saharan Africa））的领导层专家（pp. 19–20）。 |
+> | **定性访谈样本** | 涵盖全球多边机构、区域性民间社会网络（如[[Latin American Campaign for the Right to Education\|拉丁美洲受教育权运动]]（Latin American Campaign for the Right to Education, CLADE）、[[Africa Network Campaign on Education for All\|全非全民教育网络运动]]（Africa Network Campaign on Education for All, ANCEFA）、[[Asia South Pacific Association for Basic and Adult Education\|亚太基础与成人教育协会]]（Asia South Pacific Association for Basic and Adult Education, ASPBAE））与智库平台（如[[NORRAG\|国际教育与培训合作政策研究网络]]（Network for International Policies and Cooperation in Education and Training, NORRAG）、拉丁美洲教育创新与研究中心（[[SUMMA]]）、[[Education Sub Saharan Africa\|撒哈拉以南非洲教育倡议]]（Education Sub Saharan Africa））的领导层专家（pp. 19–20）。 |
 
 ---
 
@@ -256,9 +262,9 @@ updated: 2026-10-23
 > | [[UNESCO Institute for Statistics\|联合国教科文组织统计研究所]]（UIS） | 8 | 8 | 联合国统计（蒙特利尔） | SDG 4 官方基准数据与全球教育统计监测的唯一法定托管机构 |
 > | [[INEE\|机构间危机教育网络]]（Inter-agency Network for Education in Emergencies, INEE） | 6 | 6 | 专题协作网络 | 战乱与人道危机情境下教育应急响应标准的国际事实基准 |
 > | [[Global Campaign for Education\|全球教育运动]]（Global Campaign for Education, GCE） | 6 | 10 | 民间联盟（约翰内斯堡） | 代表草根与民间社会发声，推动受教育权公共倡导与监督 |
-> | 全球发展中心（Center for Global Development, CGD） | 5 | >15 | 发展智库（华盛顿/伦敦） | 以严谨发展经济学与实证政策评估著称，在政策专家中调阅频次高 |
+> | [[Center for Global Development\|全球发展中心]]（Center for Global Development, CGD） | 5 | >15 | 发展智库（华盛顿/伦敦） | 以严谨发展经济学与实证政策评估著称，在政策专家中调阅频次高 |
 > | [[Latin American Campaign for the Right to Education\|拉丁美洲受教育权运动]]（Latin American Campaign for the Right to Education, CLADE） | 5 | 9 | 区域网络（拉美） | 高频调阅榜中唯一的区域实体，深耕拉美受教育权与公平监测 |
-> | 联合国教科文组织国际职业技术教育与培训中心（UNEVOC） | 5 | >15 | 联合国专门（波恩） | 全球职业技术教育与终身技能培训证据的专门转化中枢 |
+> | [[UNESCO UNEVOC\|联合国教科文组织国际职业技术教育与培训中心]]（UNEVOC） | 5 | >15 | 联合国专门（波恩） | 全球职业技术教育与终身技能培训证据的专门转化中枢 |
 > | [[RISE Programme\|提高教育系统成效研究项目]]（Research on Improving Systems of Education, RISE） | ≤4 | 10 | 跨校研究（牛津等） | 系统思维与教育治理宏观研究知名度高，但基层常规调阅相对分流 |
 > | 世界经济论坛（World Economic Forum, WEF） | ≤4 | 10 | 基金会/智库（日内瓦） | 未来技能与劳动力市场报告知名度高，但在教育实务中调阅频次有限 |
 > | [[Africa Network Campaign on Education for All\|全非全民教育网络运动]]（ANCEFA） | ≤4 | 13 | 区域网络（达喀尔） | 非洲大陆草根教育维权与民间监督网络，具有较强区域知名度 |
@@ -431,9 +437,9 @@ updated: 2026-10-23
 > | **全球与国家多边配合** | **5.2.6 全球主体遴选并授权区域枢纽** | 联合国教科文组织全球合作机制协同各盟友，通过非竞争性协作方式正式委任成熟区域网络为常设枢纽（p. 45）。 |
 > | | **5.2.7 各成员国建立长效 MEL 报告机制** | 成员国依据[[Theory of Change\|变革理论]]定期向区域与全球反馈国家循证体系建设成效，确立自适应管理机制（p. 45）。 |
 
-> [!case] 区域中介组织的桥梁运作：[[SUMMA]]、撒哈拉以南非洲教育倡议与非洲证据网络（AEN）
+> [!case] 区域中介组织的桥梁运作：[[SUMMA]]、[[Education Sub Saharan Africa|撒哈拉以南非洲教育倡议]]与[[Africa Evidence Network|非洲证据网络]]
 > - **拉丁美洲实践：SUMMA Chile** 作为拉美与加勒比地区首个教育创新与研究实验室，SUMMA 与该区域数十国教育部紧密结盟，研制符合西语与葡语情境的干预实践指南，展现出极强的政策吸收转化力（pp. 43–45）。
-> - **非洲实践：撒哈拉以南非洲教育倡议与非洲证据网络（AEN）** 撒哈拉以南非洲教育倡议（Education Sub Saharan Africa）专注于非洲高等教育与教师师资大数据的整合；而成立于南非的非洲证据网络（Africa Evidence Network, AEN）汇聚了全非数千名研究者与行政官员，通过定期举办 Evidence 大会与实地工作坊，形成了深厚的人际信任网络（pp. 44–46）。
+> - **非洲实践：撒哈拉以南非洲教育倡议与非洲证据网络** [[Education Sub Saharan Africa|撒哈拉以南非洲教育倡议]]（Education Sub Saharan Africa, [[Every Student Succeeds Act|ESSA]]）专注于非洲高等教育与教师师资大数据的整合；而成立于南非的[[Africa Evidence Network|非洲证据网络]]（Africa Evidence Network, AEN）汇聚了全非数千名研究者与行政官员，通过定期举办 Evidence 大会与实地工作坊，形成了深厚的人际信任网络（pp. 44–46）。
 > - **全球教育伙伴关系 KIX 项目的区域部署** 全球教育伙伴关系知识与创新交流机制（GPE KIX）在非洲、亚太与拉美设立四大区域枢纽，有效打通了跨国资金支持与本土教育政策试点的连接通道（p. 44）。
 
 ---

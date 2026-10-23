@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_persons: []
 related_facts:
   - "[[Research in Schools Evaluation]]"
   - "[[Bill & Melinda Gates Foundation]]"
+  - "[[Center for Global Development]]"
   - "[[Achieve]]"
   - "[[UNESCO]]"
   - "[[World Bank]]"
@@ -53,7 +54,7 @@ updated: 2026-10-23
 ---
 
 > [!claim] 项目定位
-> 提高教育系统成效研究项目（Research on Improving Systems of Education, [[Research in Schools Evaluation|RISE]] Programme）是由英国国际发展部（现英国外交联邦及发展事务部, FCDO）、澳大利亚外交贸易部（DFAT）以及比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]联合设立的全球多国旗舰研究计划，由牛津大学布拉瓦特尼克政府学院与全球发展中心（CGD）统筹运营。该项目旨在探索发展中国家虽然大幅提高了儿童入学率、但大量学童仍未能掌握基本读写算技能的“[[Learning Crisis|学习危机]]”深层根源，建立以问责机制与系统协同为核心的综合治理框架。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 15, 23, 74)]]
+> 提高教育系统成效研究项目（Research on Improving Systems of Education, [[Research in Schools Evaluation|RISE]] Programme）是由英国国际发展部（现英国外交联邦及发展事务部, FCDO）、澳大利亚外交贸易部（DFAT）以及比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]联合设立的全球多国旗舰研究计划，由牛津大学布拉瓦特尼克政府学院与[[Center for Global Development|全球发展中心]]（CGD）统筹运营。该项目旨在探索发展中国家虽然大幅提高了儿童入学率、但大量学童仍未能掌握基本读写算技能的“[[Learning Crisis|学习危机]]”深层根源，建立以问责机制与系统协同为核心的综合治理框架。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 15, 23, 74)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2015 年正式启动立项，系统性实证研究与跨国国别团队调研持续推进至 2023 年完成结项总结。

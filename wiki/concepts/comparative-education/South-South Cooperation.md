@@ -179,6 +179,7 @@ updated: 2026-10-22
 > - **2000 — [[Forum on China-Africa Cooperation|中非合作论坛]]机制化建制** [[Forum on China-Africa Cooperation|中非合作论坛]]（FOCAC）正式成立，系统将留学生奖学金、官员研修与技术培训制度化，奠定新世纪中非南南教育合作格局。[[Argument_King_2020_ECNUROE|(King, 2020, p. 222)]]
 > - **2015–2018 — 实体化机构与旗舰项目落地** 中非合作论坛约翰内斯堡峰会与北京峰会相继推出庞大的人力资源开发指标，[[Institute of South-South Cooperation and Development|南南合作与发展学院]]以及非洲[[Luban Workshop|鲁班工坊]]相继落地运营。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 224–227)]]
 > - **2016 至今 — “[[Belt and Road Initiative|一带一路]]”教育共同体拓展** 中国教育部发布《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，推动南南教育合作向亚非欧多边协同网络、高校智库联盟与国际职业技术标准对接拓展。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 228–232)]]
+> - **2020 — 政策转移与发展合作双向流通转向** 戴安·斯通等人（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）在《政策与社会》专刊导论中指出，南南合作正从早期的双边项目援助转向深度的制度与政策模式互鉴；发展中国家依托技术协助而非单向资金贷款，在有条件现金转移支付、城市交通与基层治理等领域实现了从南向南、乃至向全球北方的创新经验反向流动。
 > - **2025 — 政产学协同与南南[[Knowledge Diplomacy|知识外交]]实体化** 刘文等学者（[[Argument_Liu_2025_IndHE|Liu et al., 2025]]）基于中亚油气管道、老挝电网及非洲交通基建三大重点工程，实证阐发了双边政府、骨干企业、行业高校与留学生四方协同的南南定向[[Engineering Education|工程教育]]模式，论证了以实体基建为依托、以[[Capability Approach|能力进路]]培育本土工程技术骨干的互惠共生机制。
 > - **2025 — 经贸主导与制度落地实证检视** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）基于对中国与东南亚高教合作的[[Fieldwork|田野调查]]，检视了南南教育合作中治国理政经验分享、高层次官员研修（如北京大学南南合作与发展学院）以及校企联动的实效，揭示了经贸外交驱动下校际协议易流于形式、硬性基建投资远超文教投入等深层机制张力。
 
@@ -223,3 +224,4 @@ updated: 2026-10-22
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 运用政策[[Discourse Analysis|话语分析]]系统比对[[Forum on China-Africa Cooperation|中非合作论坛]]第六届与第七届行动计划及教育部《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，剖析南南合作框架下教育与人力资源开发[[Discourse|话语]]由传统单向奖学金培训向全面能力合作与跨大陆互联互通的演进机制。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 基于[[University Alliance of the Silk Road|丝绸之路大学联盟]]旗下三所中国行业高校面向中亚、东南亚与非洲开展的跨国定向[[Engineering Education|工程教育]]实录，运用[[Knowledge Diplomacy|知识外交]]与[[Capability Approach|能力进路]]框架解构双边政府、中外企业、高校与学生四方协同网络，实证论证了南南合作中实体基础设施能力建设与互惠共生机制。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 结合新朝贡框架与实证[[Fieldwork|田野调查]]，分析中国面向东南亚的高教输出实践，考察北京大学[[Institute of South-South Cooperation and Development|南南合作与发展学院]]等经验分享机制，揭示经贸外交主导下协议虚置与基建/文教投入失衡等机制性张力。
+> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 将南南合作置于全球政策转移与扩散的核心位置，揭示全球南方国家通过技术援助与“政策大使”在多边机构中输出治理模型的制度路径。
