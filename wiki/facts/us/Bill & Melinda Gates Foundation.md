@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 23
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -45,6 +45,8 @@ related_facts:
   - "[[UNESCO]]"
   - "[[Global Education Cooperation Mechanism]]"
   - "[[Common Core State Standards]]"
+  - "[[Jacobs Foundation]]"
+  - "[[Mastercard Foundation]]"
   - "[[Hunt Institute]]"
   - "[[Race to the Top]]"
   - "[[Achieve]]"
@@ -77,7 +79,7 @@ updated: 2026-10-23
 > - **2000–2008 — 小学校运动的受挫与战略转型** 早期投入逾 20 亿美元资助将巨型公立高中拆解为小型自主学校；后续实证评估表明该举措未能稳定提升全美统考成绩，促使基金会从学校物理形态改造转向聚焦课程标准与教师效能的系统性政策路径。
 > - **2008–2014 — 巨额注资推动[[Common Core State Standards|共同核心标准]]运动（CCSS）** 确立以[[College and Career Readiness|大学与职业就绪]]为核心的国家学术标准战略，成为推动跨州通用标准研制、推广与采纳的核心资金中枢，直接催化了全美 45 个州的法定通过。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
 > - **2015–2019 — 教师评价深化、应对地方反弹与课程多元化** 面对全美对标准化统考与高利害问责的反弹，基金会逐步优化资助结构，转向支持高质量本土化教材库建设、[[Personalized Learning|个性化学习]]以及弱势学区支持。
-> - **2020–至今 — 全球多边循证治理协同与长效资助联盟** 跨越国内 K–12 改革边界，深度融入联合国教科文组织全球合作机制（GCM），与雅各布斯基金会、万事达卡基金会及双边发展援助机构（USAID、AFD 等）组建长效循证资助者联盟，探索克服传统短期援助碎片化、系统性支持全球南方国家循证基础设施建设的跨国慈善协同[[Paradigm|范式]]。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 46–48)]]
+> - **2020–至今 — 全球多边循证治理协同与长效资助联盟** 跨越国内 K–12 改革边界，深度融入联合国教科文组织全球合作机制（GCM），与[[Jacobs Foundation|雅各布斯基金会]]、[[Mastercard Foundation|万事达卡基金会]]及双边发展援助机构（USAID、AFD 等）组建长效循证资助者联盟，探索克服传统短期援助碎片化、系统性支持全球南方国家循证基础设施建设的跨国慈善协同[[Paradigm|范式]]。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 46–48)]]
 
 ---
 

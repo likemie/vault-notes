@@ -7,9 +7,9 @@ title: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_key: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_display_title: "Strategic review: Improving the use of evidence for education policy, planning and implementation"
 argument_kind: "report"
-argument_related_count: 78
-argument_related_level: 7
-argument_related_stars: "💎💎⭐"
+argument_related_count: 81
+argument_related_level: 8
+argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Gita Steiner-Khamsi|Steiner-Khamsi, G.]]"
@@ -100,6 +100,8 @@ related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[UNICEF]]"
+  - "[[Jacobs Foundation]]"
+  - "[[Mastercard Foundation]]"
   - "[[Latin American Campaign for the Right to Education]]"
   - "[[Africa Network Campaign on Education for All]]"
   - "[[Asia South Pacific Association for Basic and Adult Education]]"
@@ -123,6 +125,7 @@ related_facts:
   - "[[PISA for Development]]"
   - "[[Africa Evidence Network]]"
   - "[[Every Student Succeeds Act]]"
+  - "[[System Development Corporation]]"
   - "[[Bill & Melinda Gates Foundation]]"
 status: draft
 created: 2026-10-22
@@ -161,7 +164,7 @@ updated: 2026-10-23
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **全球问卷调查**<br>[[Survey Research\|Survey Research]] | 采用多语种在线问卷调查，在联合国六种官方语言（阿拉伯语、中文、英语、法语、俄语、西班牙语）下收集 898 名全球受访者对现有证据平台使用习惯与 SDG 4 目标支撑度的评估（pp. 18–20）。 |
-> | **关键知情人访谈**<br>Semi-structured Interview | 组织 14 场专题会议对 33 位跨国教育政策决策者、国际组织官员（来自 [[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）、[[World Bank\|世界银行]]（World Bank）、[[UNICEF\|联合国儿童基金会]]（United Nations Children's Fund, UNICEF）、美国国际开发署（United States Agency for International Development, USAID））、区域网络负责人与基金会代表展开深度访谈（pp. 19–20）。 |
+> | **关键知情人访谈**<br>Semi-structured Interview | 组织 14 场专题会议对 33 位跨国教育政策决策者、国际组织官员（来自 [[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）、[[World Bank\|世界银行]]（World Bank）、[[UNICEF\|联合国儿童基金会]]（United Nations Children's Fund, UNICEF）、美国国际开发署（United States Agency for International Development, USAID））、区域网络负责人与基金会代表（如[[Jacobs Foundation\|雅各布斯基金会]]、[[Mastercard Foundation\|万事达卡基金会]]等）展开深度访谈（pp. 19–20, 59）。 |
 > | **证据咨询二部网络分析**<br>[[Two-Mode Network Analysis\|Two-Mode Network Analysis]] | 提取问卷第三题（Q3）中受访者实际经常调阅的机构实体，构建“受访者—被查阅证据源”两模二部网络（Bipartite Affiliation Network），通过度中心度（Degree Centrality）、网络密度（Network Density）与连通分量分解（Component Analysis）测绘全球教育证据利用的拓扑结构（pp. 22–24, 60–61）。该网络刻画受访者的实际咨询行为，独立于第四章基于引文数据的共被引分析。 |
 > | **对照案例比较**<br>[[Comparative Case Study\|Comparative Case Study]] | 选取全球公共卫生领域作为对照部门，考察循证医学与卫生[[Policy Network\|政策网络]]在处理证据层级、跨国转化与多利益相关者协调中的长效治理经验（pp. 28–29）。 |
 > | **文献计量与共被引网络**<br>[[Bibliometric Analysis\|Bibliometric Analysis]] | 检索 Web of Science 数据库中关于教育（1,825篇）与公共卫生（1,660篇）政策证据利用的[[Systematic Review\|系统综述]]文献，测算年均复合增长率、高被引文献分布并绘制共被引拓扑网络（pp. 29–32, 64–65）。 |
@@ -440,6 +443,7 @@ updated: 2026-10-23
 > [!case] 区域中介组织的桥梁运作：[[SUMMA]]、[[Education Sub Saharan Africa|撒哈拉以南非洲教育倡议]]与[[Africa Evidence Network|非洲证据网络]]
 > - **拉丁美洲实践：SUMMA Chile** 作为拉美与加勒比地区首个教育创新与研究实验室，SUMMA 与该区域数十国教育部紧密结盟，研制符合西语与葡语情境的干预实践指南，展现出极强的政策吸收转化力（pp. 43–45）。
 > - **非洲实践：撒哈拉以南非洲教育倡议与非洲证据网络** [[Education Sub Saharan Africa|撒哈拉以南非洲教育倡议]]（Education Sub Saharan Africa, [[Every Student Succeeds Act|ESSA]]）专注于非洲高等教育与教师师资大数据的整合；而成立于南非的[[Africa Evidence Network|非洲证据网络]]（Africa Evidence Network, AEN）汇聚了全非数千名研究者与行政官员，通过定期举办 Evidence 大会与实地工作坊，形成了深厚的人际信任网络（pp. 44–46）。
+> - **资助本土化改革：万事达卡基金会与双边机构的下沉实践** 报告特别指出，[[Mastercard Foundation|万事达卡基金会]]、法国开发署（AFD）与瑞士发展合作署（[[System Development Corporation|SDC]]）率先推进运营去中心化，主动削减欧美总部人员编制，将资金与决策权深度下沉至非洲在地分支与区域枢纽，成为打破“全球北方垄断与南方脱节”的制度先例（p. 42）。
 > - **全球教育伙伴关系 KIX 项目的区域部署** 全球教育伙伴关系知识与创新交流机制（GPE KIX）在非洲、亚太与拉美设立四大区域枢纽，有效打通了跨国资金支持与本土教育政策试点的连接通道（p. 44）。
 
 ---
@@ -470,7 +474,7 @@ updated: 2026-10-23
 
 > [!case] 破解知识生产不平等的长效资助机制：长效循证资助者联盟（Funder Coalition for URE）
 > - **传统国际援助的项目偏颇** 传统国际援助偏好资助由北方学者领衔的短期研究项目，直接加剧了全球知识生产的不平等与碎片化（p. 46）。
-> - **多边长效资助联盟组建** 全球合作机制动员包括比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]（Bill & Melinda Gates Foundation, BMGF）、雅各布斯基金会、万事达卡基金会以及法国开发署（Agence Française de Développement, AFD）、瑞士发展合作署（Swiss Agency for Development and Cooperation, SDC）、美国国际开发署（USAID）等双多边资助方，组建长效循证资助者联盟。
+> - **多边长效资助联盟组建** 全球合作机制动员包括比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]（Bill & Melinda Gates Foundation, BMGF）、[[Jacobs Foundation|雅各布斯基金会]]、[[Mastercard Foundation|万事达卡基金会]]以及法国开发署（Agence Française de Développement, AFD）、瑞士发展合作署（Swiss Agency for Development and Cooperation, SDC）、美国国际开发署（USAID）等双多边资助方，组建长效循证资助者联盟。
 > - **长效使能资金投向** 将资金重点转向国家循证机构能力建设、本土语言转译以及长效政学互动网络，保障循证改革的可持续性（pp. 46–47）。
 
 ---

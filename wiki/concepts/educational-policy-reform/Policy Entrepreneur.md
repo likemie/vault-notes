@@ -6,7 +6,7 @@ aliases:
 summary: "指在教育系统内外通过建立跨界网络、识别政策机会窗口并策略性整合实证证据与价值话语推动政策变迁的能动主体。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络中开展远处治理的核心协调力量；在公共政策生命周期中，他们动态整合实证差距指标与两党核心价值以打破既有体制垄断；在新自由主义教育私有化改革中，他们依托教育管理组织（EMO）的双层法人架构，在公共行政、非营利信托与营利性商业公司之间无缝切换，实现学术知识产权的品牌化变现与制度套利，进而对传统代议制民主问责构成严峻挑战。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 44
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -34,6 +34,8 @@ related_concepts:
   - "[[Dual-Entity Legal Structure]]"
   - "[[School Choice]]"
   - "[[Policy Network]]"
+  - "[[Policy Ambassador]]"
+  - "[[Construct]]"
   - "[[Variable]]"
 related_theories:
   - "[[Governing at a Distance]]"
@@ -64,13 +66,14 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Klerides_2023_CE]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
   - "[[Visible Classroom]]"
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -111,7 +114,7 @@ updated: 2026-10-22
 ---
 
 > [!feature] 核心要素
-> - **政策机会窗口敏锐捕捉（[[Policy Window]] Coupling）** 密切监控社会矛盾、宏观政治动向与政府资助激励，在危机舆论爆发或财政拨款开启的短暂窗口期，迅速将预设的改革方案与社会痛点精准耦合。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
+> - **政策机会窗口敏锐捕捉（[[Policy Window]] Coupling）** 密切监控社会矛盾、宏观政治动向与政府资助激励，在危机舆论爆发或财政拨款开启的短暂窗口期，迅速将预设的改革方案与社会痛点精准对接。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
 > - **跨界网络协同与多边同盟（Cross-Sector Networked Coalition）** 依托资深政界精英人脉、智库研究资源与学术领袖威望，绕过传统官僚[[Bureaucracy|科层制]]阻隔，组建跨越两党政要、商业领袖、基金会与专业组织的多元协同网络。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 73–74)]]
 > - **实证指标与核心价值策略性打包（Strategic Framing & Evidence Packaging）** 善于将冷峻的量化差距指标（如全美学生成绩评估 [[National Assessment of Educational Progress|NAEP]] 鸿沟、国际数学和科学评测 [[TIMSS]] 课程差距）与国家经济安全、阶层流动及社会正义等根本价值符号深度绑定，制造改革共识。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 10–12)]]
 > - **诉诸实证研究的技术性防卫（Technocratic Shielding）** 高举以证据为基础的专业旗帜，将高度政治化、涉及利益分配的改革方案定义为中立客观的学术研发与专业[[Homework|作业]]，筑牢抵御外部意识形态争议的制度护栏。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13, 19)]]
@@ -183,12 +186,12 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 概念演变
-> - **1984 — [[Multiple Streams Framework|多源流模型]]与概念首创** [[John W. Kingdon|约翰·W·金登]]（John W. Kingdon, 1984）在其经典著作《议程、备选方案与公共政策》中首创政策企业家概念，描述其如何将问题、方案与政治三条溪流在机会窗口期耦合。
+> - **1984 — [[Multiple Streams Framework|多源流模型]]与概念首创** [[John W. Kingdon|约翰·W·金登]]（John W. Kingdon, 1984）在其经典著作《议程、备选方案与公共政策》中首创政策企业家概念，描述其如何将问题、方案与政治三条溪流在机会窗口期对接整合。
 > - **2000 — 教育系统内自下而上政策创业** 迈克尔·明特罗姆（Michael Mintrom, 2000）将概念系统引入教育政策领域，探讨教育系统内部行动者如何打破[[Bureaucracy|科层制]]惯性，推动[[School Autonomy|学校自主]]（[[School Autonomy]]）与[[School Choice|择校]]（[[School Choice]]）创新。
 > - **2012 — 全网化治理与跨国[[Policy Network|政策网络]]拓展** 斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将概念拓展至全球[[Network Governance|网络治理]]视阈，揭示跨国政策企业家与智库如何穿透民族国家边界输出新自由主义商业规训。
 > - **2013 — 政策生命周期中的循证去政治化模型** 洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013]]）构建了政策企业家在政策周期中动态整合实证证据、指标数据与价值叙事的模型，揭示其如何筑牢技术护栏并打破[[Punctuated Equilibrium Theory|政策垄断]]。
-> - **2016 — 公私混合创业与 [[Educational Management Organisation|EMO]] 制度套利诊断** [[John O'Neill|约翰·奥尼尔]]等人（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）通过对新西兰公立教育改革的深度实证考察，揭示政策企业家在公共服务、非营利慈善与商业营利间无缝切换的微观运作路径与财务沉淀机制。
-> - **2020 — 跨国政策流动与[[Policy Ambassador|政策大使]]拓展** 戴安·斯通等人（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）将政策企业家理论延伸至国际发展合作与全球南方语境，提炼出兼具跨文化穿透力、多语言斡旋能力与深厚国内实践声望的“政策大使”以及在印尼等国引介外来政策的“学术-行政企业家”构念。
+> - **2016 — 公私混合创业与 [[Educational Management Organisation|EMO]] 制度套利诊断** [[John O'Neill|约翰·奥尼尔]]等人（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）通过对新西兰公立教育改革的深度实证考察，揭示政策企业家在公共服务、非营利慈善与商业营利间无缝切换的微观运作路径与资金留存机制。
+> - **2020 — 跨国政策流动与[[Policy Ambassador|政策大使]]拓展** 戴安·斯通等人（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）将政策企业家理论延伸至国际发展合作与全球南方语境，提炼出兼具跨文化穿透力、多语言斡旋能力与深厚国内实践声望的“政策大使”以及在印尼等国引介外来政策的“学术-行政企业家”[[Construct|构念]]。
 
 ---
 
@@ -211,7 +214,7 @@ updated: 2026-10-22
 > - **公共资金流失与商业价值抽取** 财务审计表明，许多由政策企业家引领的[[Educational Management Organisation|教育管理组织]]（EMO），以提供循证优质服务为名吸纳巨额公共采购预算，但在扣除运营成本、管理咨询费及个人版税后，真正向公立薄弱学校返还的慈善服务微乎其微，构成了制度性的公共资源抽取。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. xv, 47–51)]]
 
 > [!warning] 适用局限
-> 政策企业家的解释力高度依赖于国家治理向[[Network Governance|网络化治理]]、合同承包或准市场机制开放的制度环境；在高度集权、行政指令严格闭环且排斥外部多元中介的传统刚性科层制体制下，政策企业家的活动空间极其受限。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xv)]]
+> 政策企业家的解释力高度依赖于国家治理向[[Network Governance|网络化治理]]、合同承包或准市场机制开放的制度环境；在高度集权、行政指令纵向垄断且排斥外部多元中介的传统刚性科层制体制下，政策企业家的活动空间极其受限。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xv)]]
 
 ---
 

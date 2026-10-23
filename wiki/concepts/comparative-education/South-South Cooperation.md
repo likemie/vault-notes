@@ -8,7 +8,7 @@ aliases:
 summary: "发展中国家之间基于平等互利、不附加政治条件与共同发展原则开展的跨国合作范式，在教育领域强调能力建设、双向人文交流与发展经验互鉴，构成对传统南北援助供求二元结构的制度替代。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Knowledge Diplomacy]]"
   - "[[Engineering Education]]"
   - "[[Variable]]"
+  - "[[Policy Ambassador]]"
 related_theories:
   - "[[Capability Approach]]"
 related_methods:
@@ -55,10 +56,11 @@ related_arguments:
   - "[[Argument_King_2020_ECNUROE]]"
   - "[[Argument_Liu_2025_IndHE]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -224,4 +226,4 @@ updated: 2026-10-22
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 运用政策[[Discourse Analysis|话语分析]]系统比对[[Forum on China-Africa Cooperation|中非合作论坛]]第六届与第七届行动计划及教育部《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，剖析南南合作框架下教育与人力资源开发[[Discourse|话语]]由传统单向奖学金培训向全面能力合作与跨大陆互联互通的演进机制。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 基于[[University Alliance of the Silk Road|丝绸之路大学联盟]]旗下三所中国行业高校面向中亚、东南亚与非洲开展的跨国定向[[Engineering Education|工程教育]]实录，运用[[Knowledge Diplomacy|知识外交]]与[[Capability Approach|能力进路]]框架解构双边政府、中外企业、高校与学生四方协同网络，实证论证了南南合作中实体基础设施能力建设与互惠共生机制。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 结合新朝贡框架与实证[[Fieldwork|田野调查]]，分析中国面向东南亚的高教输出实践，考察北京大学[[Institute of South-South Cooperation and Development|南南合作与发展学院]]等经验分享机制，揭示经贸外交主导下协议虚置与基建/文教投入失衡等机制性张力。
-> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 将南南合作置于全球政策转移与扩散的核心位置，揭示全球南方国家通过技术援助与“政策大使”在多边机构中输出治理模型的制度路径。
+> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 将南南合作置于全球政策转移与扩散的核心位置，揭示全球南方国家通过技术援助与“[[Policy Ambassador|政策大使]]”在多边机构中输出治理模型的制度路径。

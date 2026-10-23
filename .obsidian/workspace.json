@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/journal-articles/Contemporary Educational Psychology/Argument_Trautwein_2007_CEP.md",
+                "file": "wiki/concepts/ethics-of-technology/Blackstone's Ratio.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Trautwein_2007_CEP"
+              "title": "Blackstone's Ratio"
             }
           },
           {
@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -288,13 +288,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1938c14344215b35",
+  "active": "d7b750b1933da6ff",
   "lastOpenFiles": [
+    "wiki/facts/global/EdStats.md",
+    "wiki/concepts/ethics-of-technology/Blackstone's Ratio.md",
+    "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md",
+    "wiki/arguments/journal-articles/Contemporary Educational Psychology/Argument_Trautwein_2007_CEP.md",
+    "wiki/facts/canada/Mastercard Foundation.md",
+    "wiki/facts/switzerland/Jacobs Foundation.md",
+    "sources/Stone_2020_PolSoc.md",
+    "sources/Stone_2020_PolSoc.pdf",
+    "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md",
+    "wiki/arguments/journal-articles/Policy and Society",
     "wiki/concepts/comparative-education/Representational Knowledge.md",
     "wiki/concepts/comparative-education/Policy Ambassador.md",
-    "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md",
     "wiki/facts/multi/Asia South Pacific Association for Basic and Adult Education.md",
-    "wiki/concepts/ethics-of-technology/Blackstone's Ratio.md",
     "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md",
     "wiki/facts/africa/Education Sub Saharan Africa.md",
     "wiki/facts/africa/Africa Evidence Network.md",
@@ -308,9 +316,7 @@
     "output/related-updates/Argument_Campbell_2026_JPCC-5acb0bfd/batch-004/result.json",
     "output/related-updates/Argument_Campbell_2026_JPCC-5acb0bfd/batch-003/result.json",
     "output/related-updates/Argument_Campbell_2026_JPCC-5acb0bfd/batch-002/result.json",
-    "output/related-updates/Argument_Campbell_2026_JPCC-5acb0bfd/batch-001/result.json",
     "output/related-updates/Argument_Campbell_2026_JPCC-5acb0bfd/batch-009/prompt.md",
-    "output/related-updates/Argument_Campbell_2026_JPCC-5acb0bfd/batch-009/batch-result.schema.json",
     "output/related-updates/Argument_Campbell_2026_JPCC-5acb0bfd/batch-008/prompt.md",
     "output/related-updates/Argument_Campbell_2026_JPCC-5acb0bfd/batch-007/prompt.md",
     "output/related-updates/Argument_Campbell_2026_JPCC-5acb0bfd/batch-006/prompt.md",
@@ -320,15 +326,9 @@
     "output/related-updates/Argument_Campbell_2026_JPCC-5acb0bfd/batch-001/prompt.md",
     "output/related-updates/Argument_Campbell_2026_JPCC-5acb0bfd/batch-002/prompt.md",
     "wiki/facts/africa/Center for Rapid Evidence Synthesis.md",
-    "wiki/facts/global/Global Campaign for Education.md",
-    "wiki/facts/africa/Africa Network Campaign on Education for All.md",
-    "wiki/facts/latin-america/Latin American Campaign for the Right to Education.md",
-    "wiki/facts/global/RISE Programme.md",
     "sources/Campbell_2026_JPCC/figures/Campbell_2026_JPCC_Fig3_Revised_Conceptual_Framework.png",
     "sources/Campbell_2026_JPCC/figures/Campbell_2026_JPCC_Fig2_Framework_For_Analysis.png",
     "sources/Campbell_2026_JPCC/figures/Campbell_2026_JPCC_Fig1_Conceptualising_Research_Evidence_Use.png",
-    "sources/Campbell_2026_JPCC/Campbell_2026_JPCC.md",
-    "sources/Campbell_2026_JPCC.md",
     "sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig5-2_Summary_Recommendations_Tracks.jpg",
     "sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig4-2_CoCitation_Analysis_Clusters.jpg",
     "sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig4-1_Annual_Scientific_Production.jpg",

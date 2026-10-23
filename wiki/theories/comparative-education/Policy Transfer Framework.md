@@ -8,10 +8,10 @@ aliases:
 summary: "由戴维·多洛维茨与戴维·马什（Dolowitz & Marsh）系统建构的政策科学与比较公共政策分析框架，通过‘谁转移、为何转移、转移什么、从何处转移、转移程度与转移约束/失败原因’六大核心问题维度，解构知识、信息、政策工具与制度安排跨时间、空间与治理管辖权的跨国流动机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 27
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 32
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/policy-transfer
   - subject/comparative-education
@@ -24,6 +24,8 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
+  - "[[Policy Ambassador]]"
+  - "[[Representational Knowledge]]"
   - "[[Heterogeneity]]"
   - "[[Welfare-to-Work]]"
   - "[[Policy Conditionalities]]"
@@ -34,6 +36,8 @@ related_concepts:
   - "[[Soft Policy Transfer]]"
   - "[[Knowledge Power]]"
   - "[[Positivism]]"
+  - "[[Technical Rationality]]"
+  - "[[South-South Cooperation]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -51,6 +55,7 @@ related_facts:
   - "[[Employment Retention and Advancement]]"
 related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
 confidence: high
 status: completed
 created: 2026-10-19
@@ -80,7 +85,7 @@ updated: 2026-10-23
 > - **2000年 — 框架整合与深化** 多洛维茨与马什（Dolowitz & Marsh, 2000）进一步明确了转移连续谱（自愿性借用、直接施加与协商性强制）及政策转移失败的三类根源（非知情转移、不完整转移与不恰当转移）。
 > - **2011年 — 经验检验反思** 本森与乔丹（Benson & Jordan, 2011）对政策转移文献展开系统评估，指出既有框架虽具较强描述分类能力，但对行动者“为何在特定情境启动转移”的动力机制解释仍显不足。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 330)]]
 > - **2012年 — [[Epistemology|认识论]]动力拓展** 蒂莫西·勒格朗（Timothy Legrand）指出政策转移不仅受意识形态与权力驱动，更受实证证据与方法论规程的结构性塑动，揭示出证据本位政策[[Paradigm|范式]]对政策转移的制度性催化作用。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 333–335)]]
-> - **2020年 — 发展合作视角的南向拓展与跨国政策循环** 戴安·斯通、奥斯曼尼·波尔图·德奥利维拉与莱斯利·A.·帕尔（Stone, Porto de Oliveira, & Pal, 2020）反思既有框架植根于经合组织国家的“北方中心”与技术官僚偏见，引入国际发展合作视角，阐明全球南方不仅是政策接受者更是创新输出国，揭示出[[Policy Ambassador|政策大使]]、[[Representational Knowledge|代表性知识]]以及从线性双边转移向多标量跨国政策循环的演进。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 1–4)]]
+> - **2020年 — 发展合作视角的南向拓展与跨国政策循环** 戴安·斯通、奥斯曼尼·波尔图·德奥利维拉与莱斯利·A.·帕尔（Stone, Porto de Oliveira, & Pal, 2020）反思既有框架植根于[[OECD|经合组织]]国家的“北方中心”与技术官僚偏见，引入国际发展合作视角，阐明全球南方不仅是政策接受者更是创新输出国，揭示出[[Policy Ambassador|政策大使]]、[[Representational Knowledge|代表性知识]]以及从线性双边转移向多标量跨国政策循环的演进。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 1–4)]]
 
 ---
 
@@ -154,7 +159,7 @@ updated: 2026-10-23
 > > - **框架辩护与[[Epistemology|认识论]]拓展（[[Argument_Legrand_2012_PolStud|Legrand, 2012]]）** 辩护者指出该框架提供了跨体系比较的通用语言；结合[[Evidence-Based Policy-Making|循证决策]]机会结构，可有效揭示证据位阶与方法论[[Paradigm|范式]]如何充当跨国借用的微观因果驱动力，弥合宏观结构与微观动机之间的解释鸿沟。
 >
 > > [!axis] 北方中心与技术官僚偏见 vs. 南方政策循环
-> > 围绕政策转移框架是否隐含“发达国家向发展中国家单向输出”、“中央部委垄断决策”与“技术理性至上”的规范性偏见展开论争。
+> > 围绕政策转移框架是否隐含“发达国家向发展中国家单向输出”、“中央部委垄断决策”与“[[Technical Rationality|技术理性]]至上”的规范性偏见展开论争。
 > >
 > > - **传统框架的北方国家中心假设（Dolowitz & Marsh, 2000; Evans, 2010）** 聚焦经合组织国家内部或由北向南的制度借鉴，将政策转移预设为以中央政府部门官僚与技术专家为主导的线性学习过程。
 > > - **发展合作与跨国循环批判（[[Argument_Stone_2020_PolSoc|Stone et al., 2020, pp. 2–4, 15–16]]）** 指出全球南方国家在参与式治理、减贫与公共服务领域具备显著的政策创新与对外输出动能；依托[[South-South Cooperation|南南合作]]、多边峰会与[[Policy Ambassador|政策大使]]，政策流动呈现出多中心、去官僚化与多标量的跨国循环网络形态。

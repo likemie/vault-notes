@@ -31588,6 +31588,14 @@
     ]
   },
   {
+    "title": "Mastercard Foundation",
+    "type": "fact",
+    "path": "wiki/facts/canada/Mastercard Foundation.md",
+    "aliases": [
+      "万事达卡基金会"
+    ]
+  },
+  {
     "title": "Schlegel-UW Research Institute for Aging",
     "type": "fact",
     "path": "wiki/facts/canada/Schlegel-UW Research Institute for Aging.md",
@@ -36197,6 +36205,14 @@
     "aliases": [
       "国际学校考试辛迪加",
       "ISES"
+    ]
+  },
+  {
+    "title": "Jacobs Foundation",
+    "type": "fact",
+    "path": "wiki/facts/switzerland/Jacobs Foundation.md",
+    "aliases": [
+      "雅各布斯基金会"
     ]
   },
   {
@@ -42147,6 +42163,11 @@
     "title": "Argument_Jovchevski_2026_PT",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Philosophy & Technology/Argument_Jovchevski_2026_PT.md"
+  },
+  {
+    "title": "Argument_Stone_2020_PolSoc",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
   },
   {
     "title": "Argument_Legrand_2012_PolStud",
