@@ -10,7 +10,7 @@
 - 先根据材料判断需要建立或更新哪些知识对象，再读 `wiki/index.json` 检索候选条目是否已存在。
 - `wiki/index.json`、`wiki/index.md` 和各类型索引页由 `scripts/wiki_index.py` 自动生成，不手动维护。不手动维护生成字段：`related_*`、Argument YAML `sources`、source record 的 `extracted_to`。Source 记录与阅读页面由 `scripts/source_record.py` 生成。
 - 修改已有条目必须先读取文件，判断目标章节、子主题与插入位置，再使用 `str_replace` 精确替换相关段落，不重写整个文件。
-- Argument 条目引用当前对应文献时只写页码，如（pp.147–148）。其他条目需按照APA格式严格引用。非 Argument 条目不写 YAML `sources` 和正文 `## 来源`；
+- 期刊 Argument 不记录本篇自引，不写作者与年份，也不写指向本篇的页码。书籍、教材、论文集章节和报告引用当前文献时只写页码，如（pp.147–148）。其他条目按 APA 格式引用。非 Argument 条目不写 YAML `sources` 和正文 `## 来源`；
 - “相关研究索引”中，只有同一本专著或教材的分章节 Argument 合并为一个顶层来源条目；论文集章节按各章作者与独立论证分别列出，不合并，也不用论文集 overview 替代章节证据。每个顶层索引条目只写一句话，可见文字不超过 150 个字符；脚本只提醒超限，不自动压缩正文。
 - 不使用来源以外的知识；
 
@@ -262,7 +262,7 @@ Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板�
 - 括号式：`(Ball, 2008a)`、`(Ball, 2008a, p. 12)`、`(Ball, 2008a, pp. 12–15)`。
 - 叙述式：`Ball (2008a)`、`Ball (2008a, p. 12)`、`Ball (2008a, pp. 12–15)`。
 
-Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.147–148）；正文以裸文本括注写出本文献（含 `part_of` 继承的全书）`citation_aliases` 的，`vault_lint.py` 以 `ARGUMENT_RAW_SELF_ALIAS` 提示简化为纯页码。`vault_lint.py` 检查 citation 字段、`a/b/c` 冲突、正文 APA 短引用格式和歧义引用核验。可引用 Argument 的完整 `citation` 不得缺失或为空；专著和教材的章节 Argument 可继承全书引用，论文集 overview 不作为可引用单元。`citation_index.py --check` 同样检查完整引用是否为空。
+期刊 Argument 不记录本篇自引。判定只认本篇 `citation_aliases` 的完整括注形式，保留 `a`/`b`/`c` 后缀；同一作者同一年的另一篇文章，以及不带后缀的作者年份，都不是本篇自引，按原引用保留并照常索引。本篇自引整段删除，不收成页码。只含页码、表号、图号或脚注号的括注，`vault_lint.py` 以 `JOURNAL_SELF_PAGE` 提示删除。书籍、教材、论文集章节和报告引用当前文献时只写页码，如（p.147）或（pp.147–148）；正文以裸文本括注写出本文献（含 `part_of` 继承的全书）完整 `citation_aliases` 的，`vault_lint.py` 以 `ARGUMENT_RAW_SELF_ALIAS` 收成纯页码，不把另一篇同年文献收成页码。`vault_lint.py` 检查 citation 字段、`a/b/c` 冲突、正文 APA 短引用格式和歧义引用核验。可引用 Argument 的完整 `citation` 不得缺失或为空；专著和教材的章节 Argument 可继承全书引用，论文集 overview 不作为可引用单元。`citation_index.py --check` 同样检查完整引用是否为空。
 
 非 Argument 条目（Concept、Theory、Method、Instrument、Person、Fact）引用 Argument 时，wikilink 显示文本必须包含作者与年份，可继续附页码或章节，例如 `[[Argument_Author_Year_Journal|Author, Year, p. 12]]` 或 `[[Argument_Author_Year_Journal|Author (Year, Ch. 1)]]`；不得只写 `p. 12`、`pp. 12–15`、`Ch. 1` 或裸 `[[Argument_...]]`。
 
@@ -515,9 +515,10 @@ Argument 的 `## 论证结构` 中，每一个论证步骤都应独立成段，�
 
 Argument 引用规则：
 
-- 引用当前 Argument 对应文献时，只写页码，如（p.147）或（pp.147–148），不写作者与年份。
-- 当前文献引用其他文献时，按原引用内容直接记录，不额外添加二手引文标记，使用APA引用
-- 只有引用当前 Argument 对应文献之外的独立来源时，才写作者、年份与页码。
+- 期刊 Argument 不记录本篇自引，不写作者与年份，也不写指向本篇的页码、表号、图号或脚注号。本篇引用其他文献时，按该文原有 APA 短引用写下，被引文献自带的页码保留。同一作者同一年的另一篇文章按原引用保留。
+- 书籍、教材、论文集章节和报告引用当前文献时，只写页码，如（p.147）或（pp.147–148），不写作者与年份。
+- 当前文献引用其他文献时，按原引用内容直接记录，不额外添加二手引文标记，使用 APA 引用。
+- 书籍、教材、论文集章节和报告只有引用当前文献之外的独立来源时，才写作者、年份与页码。
 
 全库引用格式（APA 规范）：
 
@@ -617,7 +618,7 @@ ID 必须为不重复的 16 位小写十六进制字符串。例外绑定条目�
 - 有分歧时放入“争议与批评”，不要覆盖原观点。
 - 新旧内容之间加过渡句，保持段落自然。
 - 插入位置优先级：同主题已有段落或列表 → 对应章节末尾 → 新增 `###` 子主题 → 新增模板允许的章节。
-- 每条新增信息附来源页码。
+- 期刊 Argument 的新增信息不附本篇页码。书籍、教材、论文集章节和报告的新增信息附来源页码。
 - `updated` 由 `vault_index.py` 自动维护：正文相对上次提交有改动的条目会被设为当天日期，不需要手动修改；需要时更新 `confidence`。
 - 不手动更新 `related_*`、Argument `sources`、source record `extracted_to`，交由脚本同步。
 - 所有七类条目的关联亮度使用同一规则：每 10 个关联计 1 星，每 3 星显示为 1 枚钻石，余数继续计星，不足 10 个显示 ☆；数值 level 保留总星数，不封顶。由 `vault_index.py` 统一重算。

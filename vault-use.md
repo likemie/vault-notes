@@ -439,7 +439,7 @@ Concept / Theory / Fact / Method / Instrument / Person
 
 1. **短引用以 Argument YAML 为准。** 优先读取 Argument frontmatter 的 `citation_aliases`、`authors` 和 `year`，使用其中已经确定的作者—年份形式，例如 `(Ball, 2008)`、`(Li et al., 2026)`。不要自行翻译作者姓名或重新判断 `et al.`。
 2. **一般使用 APA 后引。** 先以连贯的学术语言直接陈述主张、证据及论证过程，再把作者—年份引用放在相关句子或段落之后。通常写“某种制度安排会改变行动者获得资源的方式（Author, Year）”，不写“Author（Year）说／认为／指出某种制度安排会改变行动者获得资源的方式”。只有在比较不同作者的立场、追踪概念归属、讨论学术争论或作者身份本身具有分析意义时，才使用叙述式引用。
-3. **精确主张带页码。** 若知识条目或 Argument 正文已经提供页码，应写成 `(Author, Year, p. 12)` 或 `(Author, Year, pp. 12–15)`。Argument 内部针对当前文献只写的 `(p. 12)`，在对外写作时必须结合该 Argument YAML 恢复为完整作者—年份后引。
+3. **精确主张带页码。** 若知识条目或书籍、报告 Argument 正文已经提供页码，应写成 `(Author, Year, p. 12)` 或 `(Author, Year, pp. 12–15)`。书籍与报告 Argument 内部针对当前文献只写的 `(p. 12)`，在对外写作时必须结合该 Argument YAML 恢复为完整作者—年份后引。期刊 Argument 不记录本篇页码，引用该文时写作者与年份。
 4. **完整参考文献以 `citation` 为准。** 文末参考文献表直接采用 Argument YAML 的完整 `citation` 字段，不凭记忆补写作者、刊名、卷期、出版社或 DOI。
 5. **同作者同年以后缀为准。** 出现 `2008a`、`2008b` 等情形时，使用 Argument 的 `citation_aliases` 或 `citation/citation_full.json` 已确定的后缀，不自行分配。
 6. **一个综合判断可有多个来源。** 多篇文献共同支持时，在同一括号中列出并以分号分隔，例如 `(Author, 2020; Author & Author, 2022)`；页码分别附在各自文献之后。

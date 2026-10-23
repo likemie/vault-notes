@@ -3120,8 +3120,10 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
 
 
 # ARGUMENT_RAW_SELF_ALIAS: an Argument page citing its own source as raw text,
-# e.g. "(Ball, 2008, p. 12)". The linker never links self-citations and
-# ARGUMENT_SELF_CITATION only sees wikilinks, so this form slipped through.
+# e.g. "(Ball, 2008, p. 12)". Books and reports become page locators. Journal
+# articles drop the self-cite, including its pages. A same-year sibling such as
+# "(Ball, 2008b)" is a different work and is left for the citation linker.
+# ARGUMENT_SELF_CITATION only sees wikilinks, so this raw form slipped through.
 PAREN_GROUP_RE = re.compile(r"[（(]([^（）()\n]{2,300})[）)]")
 PAGE_LOCATOR_RE = re.compile(r"^(pp?)\.?\s*(\d[\d\s,–—-]*\d|\d)$", re.IGNORECASE)
 SELF_PART_OF_RE = re.compile(r"^part_of:\s*[\"']?\[\[([^\]|#]+)", re.M)
@@ -3146,15 +3148,10 @@ def argument_self_parenthetical_aliases(path: Path, fm: Optional[str], data: Dic
     for target in targets:
         info = argument_citations.get(target) or {}
         aliases.update(a for a in info.get("aliases", []) if isinstance(a, str))
-        stem = info.get("citation_stem")
-        if isinstance(stem, str) and stem.strip():
-            aliases.add(stem.strip())
     # Narrative forms ("Ball (2008)") are not parenthetical citations.
-    result = {_norm_citation_text(a) for a in aliases if a.strip() and not re.search(r"[（(）)]", a)}
-    for a in list(result):
-        stem = re.sub(r"(\b\d{4})[a-z]\b", r"\1", a)
-        result.add(stem)
-    return result
+    # Keep a/b/c on the year. "Author, 2008" is not a self-cite of "Author, 2008a",
+    # and citation_stem is the unsuffixed form, so it is not added here.
+    return {_norm_citation_text(a) for a in aliases if a.strip() and not re.search(r"[（(）)]", a)}
 
 
 SELF_PREFIX_RE = re.compile(r"^(?:据|基于|根据|nach|based on|adapted from)\s*", re.IGNORECASE)
@@ -3179,14 +3176,17 @@ def _self_alias_locator(segment: str, aliases: Set[str]) -> Optional[str]:
     return None
 
 
-def self_alias_rewrite(group: str, aliases: Set[str]) -> Optional[Tuple[str, str]]:
+def self_alias_rewrite(group: str, aliases: Set[str], drop_pages: bool = False) -> Optional[Tuple[str, str]]:
     """Rewrite a parenthetical group that cites this Argument's own source.
 
     Returns (replacement, kind) or None. The replacement keeps the original
     bracket style; "" means the parenthetical should be removed.
-      self      (Ball, 2008, p. 3)                       -> (p.3)
+      self      (Ball, 2008, p. 3)                       -> (p. 3)   books and reports
+      journal   (Ball, 2008a, p. 3)                      -> delete    drop_pages
       mixed     (Law, 1992; Ball, 2008, p. 3)            -> (Law, 1992)
       cited_in  (Law, 1992, p. 9; cited in Ball, 2008)   -> (Law, 1992, p. 9)
+    A different work by the same author and year ("Ball, 2008b") does not match
+    the suffixed alias and is left unchanged.
     """
     opening, closing = ("（", "）") if group.startswith("（") else ("(", ")")
     segments = re.split(r"[;；]", group[1:-1])
@@ -3219,9 +3219,53 @@ def self_alias_rewrite(group: str, aliases: Set[str]) -> Optional[Tuple[str, str
         # Cite the original source directly; this source's pages are dropped.
         return (f"{opening}{sep.join(kept)}{closing}" if kept else "", "cited_in")
     if not kept:
+        if drop_pages:
+            return ("", "self")
         return (f"{opening}{'; '.join(pages)}{closing}" if pages else "", "self")
     # Mixed with other sources: keep the others; this source's pages are dropped.
     return (f"{opening}{sep.join(kept)}{closing}", "mixed")
+
+
+def is_journal_argument(path: Path, data: Optional[Dict[str, Any]]) -> bool:
+    """Journal article arguments omit self-citation, including page locators."""
+    if not is_argument_entry(data) or "journal-articles" not in path.parts:
+        return False
+    markers = [
+        str((data or {}).get(key) or "").strip()
+        for key in ("argument_kind", "subtype", "publication_type")
+    ]
+    present = [item for item in markers if item]
+    return bool(present) and all(item == "journal-article" for item in present)
+
+
+# A journal self-locator is a parenthetical that contains only this article's
+# page, table, figure, or footnote tokens. "p=0.011" and "p<0.05" are statistics.
+_JOURNAL_LOCATOR_TOKEN_RE = re.compile(
+    r"(?:(?<![\w.])pp?\.\s*\d[\d\s,，、–—\-]*"
+    r"|tables?\s*\d+[A-Za-z]?"
+    r"|figures?\s*\d+[A-Za-z]?"
+    r"|figs?\.\s*\d+[A-Za-z]?"
+    r"|fn\.?\s*\d+"
+    r"|footnotes?\s*\d+"
+    r"|脚注\s*\d+"
+    r"|图表\s*\d+"
+    r"|表\s*\d+"
+    r"|图\s*\d+)",
+    re.IGNORECASE,
+)
+_JOURNAL_LOCATOR_GLUE_RE = re.compile(r"[\s,，;；、.。:：\-–—()（）]+")
+_STAT_P_RE = re.compile(r"(?<![\w.])p\s*[=<>≤≥]", re.IGNORECASE)
+
+
+def is_journal_self_page_group(group: str) -> bool:
+    """True when the whole parenthetical only locates the current journal article."""
+    if len(group) < 3 or group[0] not in "（(" or group[-1] not in "）)":
+        return False
+    inner = group[1:-1]
+    if _STAT_P_RE.search(inner) or not _JOURNAL_LOCATOR_TOKEN_RE.search(inner):
+        return False
+    rest = _JOURNAL_LOCATOR_GLUE_RE.sub("", _JOURNAL_LOCATOR_TOKEN_RE.sub(" ", inner))
+    return rest == ""
 
 
 def check_argument_raw_self_alias(path: Path, text: str, data: Optional[Dict[str, Any]], argument_citations: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:
@@ -3235,14 +3279,17 @@ def check_argument_raw_self_alias(path: Path, text: str, data: Optional[Dict[str
     aliases = argument_self_parenthetical_aliases(path, fm, data or {}, argument_citations)
     if not aliases:
         return
+    journal = is_journal_argument(path, data)
     scan = strip_existing_wikilinks(mask_markdown_code(mask_h2_sections_preserve(body, ["来源", "Sources", "Source"])))
     for m in PAREN_GROUP_RE.finditer(scan):
-        result = self_alias_rewrite(m.group(0), aliases)
+        result = self_alias_rewrite(m.group(0), aliases, drop_pages=journal)
         if result is None:
             continue
         replacement, kind = result
         if kind == "cited_in":
             advice = f"转引改为直接引用原来源 {replacement}" if replacement else "转引改为直接引用原来源"
+        elif journal and kind == "self":
+            advice = f"删除本篇自引，保留 {replacement}" if replacement else "删除该括注（期刊论证不记本篇自引）"
         elif replacement:
             advice = f"简化为 {replacement}"
         else:
@@ -3254,6 +3301,26 @@ def check_argument_raw_self_alias(path: Path, text: str, data: Optional[Dict[str
             f"Argument 页以裸文本括注引用了本文献 {m.group(0)!r}；{advice}",
             line=line_of_pos(body, m.start(), body_start_line),
             code="ARGUMENT_RAW_SELF_ALIAS",
+        ))
+
+
+def check_journal_self_pages(path: Path, text: str, data: Optional[Dict[str, Any]], issues: List[Issue]) -> None:
+    if not is_journal_argument(path, data) or not is_wiki_entry_path(path):
+        return
+    if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path):
+        return
+    fm, body, body_start_line = split_frontmatter(text)
+    if fm is None:
+        return
+    scan = strip_existing_wikilinks(mask_markdown_code(mask_h2_sections_preserve(body, ["来源", "Sources", "Source"])))
+    for m in PAREN_GROUP_RE.finditer(scan):
+        if not is_journal_self_page_group(m.group(0)):
+            continue
+        issues.append(Issue(
+            "WARN", rel(path),
+            f"期刊论证不记本篇页码或图表脚注定位 {m.group(0)!r}；删除该括注",
+            line=line_of_pos(body, m.start(), body_start_line),
+            code="JOURNAL_SELF_PAGE",
         ))
 
 
@@ -3570,6 +3637,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_path_and_index_consistency(path, data, path_to_title, issues)
     check_citation_links(path, text, data, argument_citations, issues)
     check_argument_raw_self_alias(path, text, data, argument_citations, issues)
+    check_journal_self_pages(path, text, data, issues)
     check_duplicate_citations(path, text, data, issues)
     check_related_research_duplicate_books(path, text, by_title, issues)
     check_related_research_entry_length(path, text, issues)
@@ -3907,8 +3975,33 @@ def fix_alias_title_duplicates(text: str) -> Tuple[str, int]:
     return text.replace(fm, new_fm, 1), removed
 
 
+def _replace_parentheticals(head: str, rewrite) -> Tuple[str, int]:
+    """Apply rewrite(group) -> replacement or None. Empty replacement deletes the group."""
+    scan = strip_existing_wikilinks(mask_markdown_code(head))
+    edits: List[Tuple[int, int, str]] = []
+    for m in PAREN_GROUP_RE.finditer(scan):
+        replacement = rewrite(m.group(0))
+        if replacement is None:
+            continue
+        start, end = m.start(), m.end()
+        if not replacement:
+            while start > 0 and head[start - 1] in " \t":
+                start -= 1
+        edits.append((start, end, replacement))
+    if not edits:
+        return head, 0
+    for start, end, repl in sorted(edits, key=lambda item: item[0], reverse=True):
+        head = head[:start] + repl + head[end:]
+    return head, len(edits)
+
+
+def _split_body_before_sources(body: str) -> Tuple[str, str]:
+    src = _SOURCE_SECTION_RE.search(body)
+    return (body[:src.start()], body[src.start():]) if src else (body, "")
+
+
 def fix_argument_raw_self_aliases(path: Path, text: str, argument_citations: Dict[str, Dict[str, Any]]) -> Tuple[str, int]:
-    """Rewrite parenthetical self-citations in Argument pages to page locators (ARGUMENT_RAW_SELF_ALIAS)."""
+    """Rewrite parenthetical self-citations. Books and reports keep page locators; journals delete them."""
     if not is_wiki_entry_path(path):
         return text, 0
     fm, body, _ = split_frontmatter(text)
@@ -3920,25 +4013,36 @@ def fix_argument_raw_self_aliases(path: Path, text: str, argument_citations: Dic
     aliases = argument_self_parenthetical_aliases(path, fm, data or {}, argument_citations)
     if not aliases:
         return text, 0
-    src = _SOURCE_SECTION_RE.search(body)
-    head, tail = (body[:src.start()], body[src.start():]) if src else (body, "")
-    scan = strip_existing_wikilinks(mask_markdown_code(head))
-    edits: List[Tuple[int, int, str]] = []
-    for m in PAREN_GROUP_RE.finditer(scan):
-        res = self_alias_rewrite(m.group(0), aliases)
-        if res is None:
-            continue
-        replacement, _ = res
-        start, end = m.start(), m.end()
-        if not replacement:
-            while start > 0 and head[start - 1] in " \t":
-                start -= 1
-        edits.append((start, end, replacement))
-    if not edits:
+    journal = is_journal_argument(path, data)
+    head, tail = _split_body_before_sources(body)
+
+    def rewrite(group: str) -> Optional[str]:
+        res = self_alias_rewrite(group, aliases, drop_pages=journal)
+        return None if res is None else res[0]
+
+    new_head, count = _replace_parentheticals(head, rewrite)
+    if not count:
         return text, 0
-    for start, end, repl in sorted(edits, key=lambda x: x[0], reverse=True):
-        head = head[:start] + repl + head[end:]
-    return text[: len(text) - len(body)] + head + tail, len(edits)
+    return text[: len(text) - len(body)] + new_head + tail, count
+
+
+def fix_journal_self_pages(path: Path, text: str) -> Tuple[str, int]:
+    """Delete page, table, figure, and footnote locators on journal arguments (JOURNAL_SELF_PAGE)."""
+    if not is_wiki_entry_path(path):
+        return text, 0
+    fm, body, _ = split_frontmatter(text)
+    if fm is None:
+        return text, 0
+    data = entry_metadata(path)
+    if not is_journal_argument(path, data):
+        return text, 0
+    head, tail = _split_body_before_sources(body)
+    new_head, count = _replace_parentheticals(
+        head, lambda group: "" if is_journal_self_page_group(group) else None
+    )
+    if not count:
+        return text, 0
+    return text[: len(text) - len(body)] + new_head + tail, count
 
 
 def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]) -> Tuple[int, int]:
@@ -3969,7 +4073,8 @@ def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]
             new_text, n6 = fix_alias_title_duplicates(new_text)
             new_text, n7 = fix_duplicate_parenthetical_links(new_text)
             new_text, n8 = fix_argument_raw_self_aliases(path, new_text, argument_citations)
-            n6 += n7 + n8
+            new_text, n9 = fix_journal_self_pages(path, new_text)
+            n6 += n7 + n8 + n9
         if new_text != text:
             path.write_text(new_text, encoding="utf-8")
             changed_files += 1
