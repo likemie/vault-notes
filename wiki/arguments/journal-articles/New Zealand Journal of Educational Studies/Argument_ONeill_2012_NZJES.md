@@ -45,7 +45,7 @@ sources:
 part_of: ''
 status: published
 created: '2026-05-06'
-updated: 2026-10-22
+updated: 2026-10-23
 year: 2012
 doi: ""
 citation_aliases:
@@ -73,30 +73,30 @@ citation_aliases:
 > 3. **结论** Treasury 建议充其量不完整，最坏情况下可能有害，尤其对毛利和太平洋岛民学生等优先群体不公
 
 > [!success] 主要发现
-> - Hattie VL 中"教学质量"（quality of teaching，排名 56/138）的[[Meta-analysis\|元分析]]证据全部来自大学生评教，按此定义对学校教育政策无任何可证明的相关性(pp.154-155)
-> - "优质教学"(quality teaching, Alton-Lee, 2003)和"教学质量"(quality of teaching, Hattie, 2009a)在学术和政策[[Discourse|话语]]中日益被当作口号使用，引发基于词汇熟悉度而非理性的膝跳反射式赞同或反对(p.155)
+> - Hattie VL 中"教学质量"（quality of teaching，排名 56/138）的[[Meta-analysis\|元分析]]证据全部来自大学生评教，按此定义对学校教育政策无任何可证明的相关性
+> - "优质教学"(quality teaching, Alton-Lee, 2003)和"教学质量"(quality of teaching, Hattie, 2009a)在学术和政策[[Discourse|话语]]中日益被当作口号使用，引发基于词汇熟悉度而非理性的膝跳反射式赞同或反对
 > - Treasury 将"教学质量"用作代理概念（proxy concept），以包装更具争议的政策目的（如教师绩效管理），使其获得接受
-> - Hattie 的综合涵盖早教、学校教育和高等教育所有阶段，非学校阶段的研究对学校教育政策无已证明的相关性，但其纳入扭曲了特定主题的平均[[Effect Size\|效应量]]和排名位置(pp.155-156)
-> - Hattie 本人承认的若干重要警示被 Treasury 忽略：相关不等于因果(p.3)、成功效应多来自创新而非日常课堂(p.6)、该书"不涉及课堂生活"（p.viii）、非元分析研究可提供更丰富细致的证据(p.255)(pp.156-157)
-> - [[Class Size\|班级规模]]不是单纯的"工作条件"或"课堂构成效应"（Hattie 的分类），而是教学与学习的"条件"——Blatchford et al.的自然主义研究证明班级规模实质性地影响课堂中实际发生的教与学过程(p.155, 157-158)
-> - Treasury 建议增加生师比与 Hattie 本人的结论矛盾：Hattie 明确写道"效应量的正向符号表明增加班级规模是糟糕的政策"(p.88)(p.157)
+> - Hattie 的综合涵盖早教、学校教育和高等教育所有阶段，非学校阶段的研究对学校教育政策无已证明的相关性，但其纳入扭曲了特定主题的平均[[Effect Size\|效应量]]和排名位置
+> - Hattie 本人承认的若干重要警示被 Treasury 忽略：相关不等于因果(p.3)、成功效应多来自创新而非日常课堂(p.6)、该书"不涉及课堂生活"（p.viii）、非元分析研究可提供更丰富细致的证据(p.255)
+> - [[Class Size\|班级规模]]不是单纯的"工作条件"或"课堂构成效应"（Hattie 的分类），而是教学与学习的"条件"——Blatchford et al.的自然主义研究证明班级规模实质性地影响课堂中实际发生的教与学过程
+> - Treasury 建议增加生师比与 Hattie 本人的结论矛盾：Hattie 明确写道"效应量的正向符号表明增加班级规模是糟糕的政策"(p.88)
 > - [[OECD]] 数据（2011, Table D2.2）显示新西兰小学和初中生师比（16.3 和 12.8）高于 OECD 均值，不存在增加比率的证据基础
 
 > [!quote] 关键引用
 > > “逻辑中的[[Material Fallacies\|实质谬误]]是‘在理解术语的含义或用法方面的错误’(Kreeft, 2010, p. 85)。正如在实践逻辑中一样，当所使用的术语模棱两可、不清晰或模糊时，公共政策论述就会变得有问题。”
-> ("[[Material Fallacies]] in logic are 'mistakes in understanding the meaning or use of terms'. Just as in practical logic, public policy discourse becomes problematic when the terms used are ambiguous, unclear or vague.")(p.153)
+> ("[[Material Fallacies]] in logic are 'mistakes in understanding the meaning or use of terms'. Just as in practical logic, public policy discourse becomes problematic when the terms used are ambiguous, unclear or vague.")
 >
 > > “关于教学质量的[[Meta-analysis\|元分析]]证据与学校政策没有可证实的关联。此外，如果按字面理解，这意味着部长和官员们断言应该通过让在校学生对他们的教师进行评级来提高学业成就，这是不合逻辑的。”
-> ("the [[Meta-analysis]] evidence on the quality of teaching has no demonstrable relevance to schooling policy. Moreover, taken literally, it would mean that the Minister and officials assert that achievement should be raised by asking school students to rate their teachers, which is incoherent.")(p.154)
+> ("the [[Meta-analysis]] evidence on the quality of teaching has no demonstrable relevance to schooling policy. Moreover, taken literally, it would mean that the Minister and officials assert that achievement should be raised by asking school students to rate their teachers, which is incoherent.")
 >
 > > “当一种表达‘被用来仅仅基于词语的熟悉度而非理性，去产生不假思索的、膝跳反射般的同意或不同意反应时’，它就成了一个口号 (Kreeft, 2010, p. 78)。”
-> ("an expression becomes a slogan 'when it is used to produce a thoughtless knee-jerk reaction of agreement or disagreement simply on the basis of the [[Familiarization\|familiarity]] of the words rather than on the basis of reason' ")(pp.154-155)
+> ("an expression becomes a slogan 'when it is used to produce a thoughtless knee-jerk reaction of agreement or disagreement simply on the basis of the [[Familiarization\|familiarity]] of the words rather than on the basis of reason' ")
 >
 > > “平均[[Effect Size\|效应量]]的正号表明，增加[[Class Size\|班级规模]]是一项糟糕的政策(Hattie, 2009a, p. 88)。”
-> ("the positive sign of the average [[Effect Size]] suggests that increasing [[Class Size]] is poor policy (Hattie, 2009a, p. 88)")(p.157)
+> ("the positive sign of the average [[Effect Size]] suggests that increasing [[Class Size]] is poor policy (Hattie, 2009a, p. 88)")
 >
 > > “研究者有一种特殊的责任：一方面要警惕实质性谬误以及政策参与者对其的错误使用；另一方面，当有缺陷的公共教育政策辩论发生时，他们必须准备好随时打断并挑战它。”
-> ("researchers have a particular responsibility to be watchful both for material fallacies and their mistaken use by policy actors, and on the other hand, they must be prepared to interrupt and challenge flawed public education policy debates whenever they occur.")(p.159)
+> ("researchers have a particular responsibility to be watchful both for material fallacies and their mistaken use by policy actors, and on the other hand, they must be prepared to interrupt and challenge flawed public education policy debates whenever they occur.")
 
 > [!warning] 局限性与批评
 > - 论文自身为评论（commentary）体裁，仅分析单一案例，未声称系统性或代表性

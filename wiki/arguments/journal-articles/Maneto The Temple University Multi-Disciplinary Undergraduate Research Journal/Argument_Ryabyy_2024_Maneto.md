@@ -52,7 +52,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-23
 year: 2024
 doi: ""
 citation_aliases:
@@ -60,12 +60,12 @@ citation_aliases:
   - "Ryabyy (2024)"
 ---
 > [!info] [[Research Question\|研究问题]]
-> [[John Dewey]] 1928 年夏季率领 24 名美国教育者访问苏联——这次访问是如何被组织起来的？Dewey 在苏联期间做了什么、见了谁？它对苏联教育者、美国公众舆论和美国政府分别产生了什么影响？(pp.102–103)
+> [[John Dewey]] 1928 年夏季率领 24 名美国教育者访问苏联——这次访问是如何被组织起来的？Dewey 在苏联期间做了什么、见了谁？它对苏联教育者、美国公众舆论和美国政府分别产生了什么影响？
 >
 > 一个被忽视的经验谜题是：Dewey 回国后在 Impressions of the Revolutionary World 中只讲了苏联教育的部分情况，并未完整记录其行程细节和人际互动。但他在此期间的私人通信(The Correspondence of John Dewey, 1871–1952)中保存了大量未出版的互动记录；纽约时报从 1928 年 5 月到 7 月对这次访问进行了连续追踪报道；美国国务院的外交档案中则保留了监控和评估此行的内部函件。三组资料如能合在一起相互参照，可以部分重建这次访问的多向影响——不仅是美国人怎么看苏联，也包括苏联人怎么看 Dewey。
 
 > [!abstract] 理论框架
-> 该研究没有使用显式的理论框架，它的分析逻辑是"多源资料交叉验证"（cross-referencing of multiple archival sources）——围绕三组行动者，分别从他们的视角阅读档案，然后比对同一个事件在不同来源中如何呈现(pp.102–103, 107–109)：
+> 该研究没有使用显式的理论框架，它的分析逻辑是"多源资料交叉验证"（cross-referencing of multiple archival sources）——围绕三组行动者，分别从他们的视角阅读档案，然后比对同一个事件在不同来源中如何呈现：
 >
 > - **美国教育者代表团（以 [[John Dewey]] 为核心）**——作为文化使者进入苏联，其私人通信是研究的主要一手资料
 > - **苏联教育者与官员（[[Stanislav Shatskii]]、[[Anatoly Lunacharsky]]、Kalashnikov et al.）**——视 Dewey 为他们长期研读的对象，接待代表团的同时也在传递自己的诉求
@@ -74,19 +74,19 @@ citation_aliases:
 > > 打个比方：这就像一起事件有三个不同立场的目击者——当事人写的日记、记者写的新闻报道、警察写的内部报告。三者单独看都有偏向，但合在一起比对，就能看到更接近全貌的画面。
 
 > [!info] 研究方法
-> - **[[Archival Correspondence Analysis\|档案通信分析]]** 以 Dewey 在 1928 年 5–8 月的私人通信为核心一手资料，包括他收到的和发出的信件，逐日重建其行程和会面对象(p.102)
-> - **报纸报道追踪** 系统检索纽约时报 1928 年 5 月 14 日至 7 月 22 日期间关于此行的连续报道（至少六篇），分析此行如何被公众舆论呈现(pp.104–106)
-> - **外交函件分析** 使用美国国务院档案中的三份关键文件——Welsh 1928 年 5 月 16 日的指控信、助理国务卿 Castle 5 月 29 日的监控指示、驻德外交官 Schurman 7 月 26 日的总结报告——重建政府层面对此行的态度(pp.107–109)
+> - **[[Archival Correspondence Analysis\|档案通信分析]]** 以 Dewey 在 1928 年 5–8 月的私人通信为核心一手资料，包括他收到的和发出的信件，逐日重建其行程和会面对象
+> - **报纸报道追踪** 系统检索纽约时报 1928 年 5 月 14 日至 7 月 22 日期间关于此行的连续报道（至少六篇），分析此行如何被公众舆论呈现
+> - **外交函件分析** 使用美国国务院档案中的三份关键文件——Welsh 1928 年 5 月 16 日的指控信、助理国务卿 Castle 5 月 29 日的监控指示、驻德外交官 Schurman 7 月 26 日的总结报告——重建政府层面对此行的态度
 > - **[[Primary and Secondary Documents\|二手文献]]补充** Dewey 传记（Martin 2003; Dykhuizen 1973）、苏联教育史研究（Fitzpatrick; Holmes; Kirschenbaum; Partlett 2011）和 Dewey 在俄接受史研究（Mchitarjan 2000; Gorshkova 2015）提供历史背景和解读框架
 >
-> 该研究的核心方法操作是：将三组不同来源的资料按时间线对齐，对比同一事件在私人通信、公开报道和政府档案中的不同呈现，从中识别出每一方的视角偏向和利益(pp.102–103)。
+> 该研究的核心方法操作是：将三组不同来源的资料按时间线对齐，对比同一事件在私人通信、公开报道和政府档案中的不同呈现，从中识别出每一方的视角偏向和利益。
 
 > [!example] 论证结构
 > 论证可以拆解为十四个步骤，从背景铺设到组织逻辑，再到三组行动者的不同反应，最终合龙为一个多向影响的结论。
 >
 > ### 1. 背景：两国没有外交关系，但民间交流没有中断
 >
-> 1917 年 12 月，美国威尔逊政府决定不承认布尔什维克领导的苏俄新政府——原因是苏俄拒绝偿还沙皇时代的债务，还没收了美国在俄资产。此后三位美国总统延续了这一不承认政策，直到 1933 年罗斯福才正式承认苏联(p.102)。
+> 1917 年 12 月，美国威尔逊政府决定不承认布尔什维克领导的苏俄新政府——原因是苏俄拒绝偿还沙皇时代的债务，还没收了美国在俄资产。此后三位美国总统延续了这一不承认政策，直到 1933 年罗斯福才正式承认苏联。
 >
 > 但关键的是：没有外交关系不等于没有交流。在这十六年间，美国人持续前往苏联并写下见闻。1928 年夏天，一个由 25 名美国教育者组成的代表团访问了苏联，其中最具影响力的人物就是哥伦比亚大学哲学教授 [[John Dewey]]。
 >
@@ -97,7 +97,7 @@ citation_aliases:
 >
 > ### 2. 访问的组织者：一个以书籍交换为主的文化交流机构
 >
-> 此行的官方组织方是[[American Society for Cultural Relations with Russia\|美国对俄文化关系协会]]（American Society for Cultural Relations with Russia，以下简称 ASCRR），Dewey 本人是它的副主席之一。ASCRR 的上级机构是苏联的全联盟对外文化关系协会（VOKS），VOKS 的公开目标是"在苏联与外国文化和科学机构之间建立更密切的关系"(p.104)。
+> 此行的官方组织方是[[American Society for Cultural Relations with Russia\|美国对俄文化关系协会]]（American Society for Cultural Relations with Russia，以下简称 ASCRR），Dewey 本人是它的副主席之一。ASCRR 的上级机构是苏联的全联盟对外文化关系协会（VOKS），VOKS 的公开目标是"在苏联与外国文化和科学机构之间建立更密切的关系"。
 >
 > 关键证据：ASCRR 的主要活动不是政治宣传，而是 **书籍和期刊交换**——成立仅九个月，就在美国收到 41,040 册苏联出版物，向苏联发送了 18,572 册。这个巨大的交换量说明：文化产品（书籍、报告、期刊）是当时美苏民间接触的主要载体。访问只不过是这种既有交流模式的延伸——把人送过去和把书送过去的逻辑是一样的。
 >
@@ -108,7 +108,7 @@ citation_aliases:
 >
 > ### 3. 邀请的双重性质：组织安排 + 个人邀请
 >
-> 访问的组织结构之外还有一层：苏联教育人民委员 [[Anatoly Lunacharsky]] 亲自邀请了 Dewey(p.105)。纽约时报 1928 年 6 月 24 日报道称 Dewey"受 Lunacharsky 亲自邀请"，将"受到热烈欢迎和大量官方款待"。
+> 访问的组织结构之外还有一层：苏联教育人民委员 [[Anatoly Lunacharsky]] 亲自邀请了 Dewey。纽约时报 1928 年 6 月 24 日报道称 Dewey"受 Lunacharsky 亲自邀请"，将"受到热烈欢迎和大量官方款待"。
 >
 > Lunacharsky 为什么特别关注 Dewey？因为 Dewey 的著作——尤其是 School and Society and The School and the Child——已经被翻译成俄文，"被用作建设新苏联学校体系的指南"。这意味着 Lunacharsky 邀请的不是一个陌生人，而是他已经在"纸上"认识多年的理论家。
 >
@@ -140,7 +140,7 @@ citation_aliases:
 >
 > ### 6. Dewey 的行为模式：他不是"纪律严明的代表团团长"
 >
-> 这一步利用了 Dewey 私人通信中一个在公开报道中完全缺失的细节：Dewey 并没有直接从美国去苏联。他于 1928 年 5 月 27 日乘船抵达英国，随后花了 **三周时间** 游览伦敦、巴黎和柏林的美术馆(pp.105–106)。到达列宁格勒后，离其他团员抵达还有五天，他又独自逛了列宁格勒的美术馆——以致 VOKS 主席对此"感到不满"，试图为这位不按计划行动的贵客安排行程(p.106)。
+> 这一步利用了 Dewey 私人通信中一个在公开报道中完全缺失的细节：Dewey 并没有直接从美国去苏联。他于 1928 年 5 月 27 日乘船抵达英国，随后花了 **三周时间** 游览伦敦、巴黎和柏林的美术馆。到达列宁格勒后，离其他团员抵达还有五天，他又独自逛了列宁格勒的美术馆——以致 VOKS 主席对此"感到不满"，试图为这位不按计划行动的贵客安排行程。
 >
 > 这个细节在论证中起什么作用？它打破了两种对立叙事：
 > - 反共叙事（"Dewey 是共产党的工具"）——一个被人操控的工具不会在欧洲逛三周美术馆只因为自己喜欢
@@ -156,7 +156,7 @@ citation_aliases:
 >
 > - 7 月 15 日：苏联马匹繁育与种马总管 Assaoultshenko 邀请 Dewey 参加 **全苏大跑马德比（Great USSR Trotting Derby）**。这显然不是教育考察的标配活动——它说明苏联政府在"娱乐招待"上投入了大量资源
 > - 7 月 21 日：托洛茨基的姐妹 Kameneff 为代表团举办派对
-> - Lunacharsky 亲自出席发言(p.107)
+> - Lunacharsky 亲自出席发言
 >
 > > [!example] 日常类比
 > > 一个外国教授来中国考察中小学，结果被邀请去参加全运会开幕式，还有部长的姐妹亲自开派对招待。这表明邀请方把这次访问的重要性放在了非常高的级别——超出了"学术交流"的正常规格。
@@ -168,7 +168,7 @@ citation_aliases:
 > 在 Kameneff 举办的派对上，Kameneff 对代表团说了一段话，这段话被纽约时报记者 Walter Duranty 记录下来：
 >
 > > [!quote|notitle]
-> > "我们不求你们回国后赞扬我们，也不怕你们批评——只请你们告诉人民事实，让他们自己判断。我们知道我们的工作才刚刚开始，知道还有很多错误和不足。但我希望你们的访问有助于扫除长期遮蔽我国的偏见之云，让美国人民相信——尽管有种种缺点——我们确在真诚地努力将这个落后国家转变为进步和开明的人民国度。"(p.106–107)
+> > "我们不求你们回国后赞扬我们，也不怕你们批评——只请你们告诉人民事实，让他们自己判断。我们知道我们的工作才刚刚开始，知道还有很多错误和不足。但我希望你们的访问有助于扫除长期遮蔽我国的偏见之云，让美国人民相信——尽管有种种缺点——我们确在真诚地努力将这个落后国家转变为进步和开明的人民国度。"
 >
 > Lunacharsky 的发言则更具体地辩解：希望美国人理解苏联"因战争威胁"而限制个人自由的做法。
 >
@@ -195,9 +195,9 @@ citation_aliases:
 >
 > ### 10. 美国反共势力的指控：访问还没开始就被定性了
 >
-> 现在论证转向美国一方的反应。一个关键的时间节点引人注目：Francis Ralston Welsh 于 **1928 年 5 月 16 日** 致信美国国务院，指控 Dewey 此行为共产党的宣传操作——而此时代表团 **尚未出发**（6 月 23 日才从纽约启程）(pp.107–108)。
+> 现在论证转向美国一方的反应。一个关键的时间节点引人注目：Francis Ralston Welsh 于 **1928 年 5 月 16 日** 致信美国国务院，指控 Dewey 此行为共产党的宣传操作——而此时代表团 **尚未出发**（6 月 23 日才从纽约启程）。
 >
-> Welsh 的逻辑链是(p.108)：
+> Welsh 的逻辑链是：
 > 1. 莫斯科的"文化关系局"派了一名共产党员 Roman Weller 来美国建立"文化关系类"的宣传组织
 > 2. ASCRR 很快就在此之后成立了
 > 3. 因此 ASCRR 是共产党的外围组织
@@ -211,7 +211,7 @@ citation_aliases:
 >
 > ### 11. Welsh 对 Dewey 的人身攻击：用过去的行为给现在定罪
 >
-> Welsh 信件中最长的段落是关于 Dewey 的。他对 Dewey 的指控包括(pp.108)：
+> Welsh 信件中最长的段落是关于 Dewey 的。他对 Dewey 的指控包括：
 > - 在"共产党的 Sacco and Vanzetti 请愿书"上签名
 > - 支持 Norman Hapgood 的 Professional Patriots
 > - 支持因"不忠言论"被解雇的教师
@@ -230,14 +230,14 @@ citation_aliases:
 >
 > ### 12. 美国国务院的回应：嘴上说"非政治"，手上在监控
 >
-> 助理国务卿 William Richards Castle Jr. 于 1928 年 5 月 29 日致信驻波罗的海国家公使 Frederick W. B. Coleman，信中承认此行为"非政治性质"，由 ASCRR 安排。但同一封信中，他指示 Coleman(p.108–109)：
+> 助理国务卿 William Richards Castle Jr. 于 1928 年 5 月 29 日致信驻波罗的海国家公使 Frederick W. B. Coleman，信中承认此行为"非政治性质"，由 ASCRR 安排。但同一封信中，他指示 Coleman：
 >
 > > [!quote|notitle]
 > > "随时向国务院报告你所能获得的关于上述人员在俄期间的活动和印象的任何信息。"
 >
 > 这个操作很微妙：官方口径是"我们知道这是非政治的，不需要阻止"，但实际操作是"我们还是要监控他们做了什么、见了谁、回来后说了什么"。换句话说，国务院在公开层面与 Welsh 的激进指控保持距离——没有阻止访问——但在实际操作中与 Welsh 做了同样一件事：**把这批教育者当作情报收集对象**。
 >
-> 三个月后，驻德外交官 Jacob Gould Schurman 于 1928 年 7 月 26 日向国务卿 Frank B. Kellogg 提交了总结报告。报告中有两个值得注意的细节(p.109)：
+> 三个月后，驻德外交官 Jacob Gould Schurman 于 1928 年 7 月 26 日向国务卿 Frank B. Kellogg 提交了总结报告。报告中有两个值得注意的细节：
 > - 报告特别强调这批人"**自费**"前往——这个细节增强了访问的可[[Reliability\|信度]]，因为"自费"意味着不是苏联出钱收买的
 > - 报告引述了明尼苏达[[Grandes Ecoles|大学校]]长 Coffman et al.的正面印象：苏联人民"衣着简陋但吃得饱，看起来满足"，苏联的普及教育努力"规模巨大、意义深远，在道德和政治上都具有最高意义"
 >
@@ -278,32 +278,32 @@ citation_aliases:
 > 真实情况在这两种叙事的中间地带：一次有政治色彩的文化交流、一次有战略计算的学术访问、一次"谁也说服不了谁但没有停止交谈"的跨国对话。
 
 > [!success] 主要发现
-> 1. Dewey 的私人通信揭示了他已出版著作未记录的大量行程细节——包括在欧洲三周的美术馆之旅、参加苏联跑马德比、与苏联教育者的具体通信内容——这些细节打破了 Dewey 作为"纪律严明的代表团团长"的形象(pp.104–107)。
-> 2. 苏联教育者在革命前就已系统性地阅读和吸收 Dewey 的著作，将他的 School and Society and The School and the Child 翻译为俄文并用作新教育体系的建设指南。1928 年的访问不是[[Knowledge Exchange\|知识交流]]的起点，而是长期单向吸收的高峰时刻——访问开启了双向互动(pp.103–104)。
-> 3. 苏联方面对代表团的核心诉求不是请求赞美，而是请求"传递事实"以消除美国公众对苏联的"偏见之云"（Kameneff 语，p.106）。Shatskii 在告别信中刻意使用了"民主"（democracy）一词——这是他在用 Dewey 的语言与 Dewey 对话(p.107)。
+> 1. Dewey 的私人通信揭示了他已出版著作未记录的大量行程细节——包括在欧洲三周的美术馆之旅、参加苏联跑马德比、与苏联教育者的具体通信内容——这些细节打破了 Dewey 作为"纪律严明的代表团团长"的形象。
+> 2. 苏联教育者在革命前就已系统性地阅读和吸收 Dewey 的著作，将他的 School and Society and The School and the Child 翻译为俄文并用作新教育体系的建设指南。1928 年的访问不是[[Knowledge Exchange\|知识交流]]的起点，而是长期单向吸收的高峰时刻——访问开启了双向互动。
+> 3. 苏联方面对代表团的核心诉求不是请求赞美，而是请求"传递事实"以消除美国公众对苏联的"偏见之云"（Kameneff 语，p.106）。Shatskii 在告别信中刻意使用了"民主"（democracy）一词——这是他在用 Dewey 的语言与 Dewey 对话。
 > 4. Kalashnikov 写给 Dewey 的信同时包含了崇敬和异议——"您的著作极大地影响了俄国教育学"与"我不同意您的哲学-社会主义教育理论观念"并存。这种张力预示了 1930 年代苏联对 Dewey 的全面拒绝。(p.104;Mchitarjan 2000; Gorshkova 2015,引自 pp.103–104)
-> 5. 美国反共势力（以 Welsh 为代表）在访问开始前就将其定性为共产党的宣传工具。Welsh 的核心论证策略是 guilt by association——通过 Dewey 过去签过的请愿书、支持过的人、出现过的报告来给一次尚未发生的旅行定罪(pp.107–108)。
-> 6. 美国国务院在公开层面承认此行为"非政治性质"，但在操作层面指示驻外外交官系统监控代表团的言行——揭示了教育交流在[[Geopolitics|地缘政治]]对立时期无法真正脱离政治监视(pp.108–109)。
-> 7. 美国观察者（包括 Dewey、Coffman 和 [[Sherwood Eddy]]）倾向于将"苏联在教育"等同于"苏联在走向共和制"——这是一种将美国政治经验投射到苏联社会之上的乐观主义判断(p.109)。
+> 5. 美国反共势力（以 Welsh 为代表）在访问开始前就将其定性为共产党的宣传工具。Welsh 的核心论证策略是 guilt by association——通过 Dewey 过去签过的请愿书、支持过的人、出现过的报告来给一次尚未发生的旅行定罪。
+> 6. 美国国务院在公开层面承认此行为"非政治性质"，但在操作层面指示驻外外交官系统监控代表团的言行——揭示了教育交流在[[Geopolitics|地缘政治]]对立时期无法真正脱离政治监视。
+> 7. 美国观察者（包括 Dewey、Coffman 和 [[Sherwood Eddy]]）倾向于将"苏联在教育"等同于"苏联在走向共和制"——这是一种将美国政治经验投射到苏联社会之上的乐观主义判断。
 
 > [!quote] 关键引用
 > > “当你们回到家乡时，我们不奢求你们的赞美，也不惧怕你们的责备，只要你们做一件事，那就是告诉你们的人民事实，让他们自己去评判。”
-> ("We do not ask your praise, when you reach home, nor fear your blame, if you will do one thing only, tell your people the facts and let them judge.") — Kameneff, 引自 Walter Duranty, New York Times, July 22, 1928(pp.106–107)
+> ("We do not ask your praise, when you reach home, nor fear your blame, if you will do one thing only, tell your people the facts and let them judge.") — Kameneff, 引自 Walter Duranty, New York Times, July 22, 1928
 >
 > > “您的著作，尤其是《学校与社会》和《学校与儿童》，极大地影响了俄罗斯教育学的发展，在革命的最初几年，您是最著名的作家之一。”
-> ("Your works, especially 'School and Society' and 'The School and the Child' have very much influenced the development of the Russian pedagogy and in the first years of revolution you were one of the most renowned writers.") — Kalashnikov to [[John Dewey]](p.104)
+> ("Your works, especially 'School and Society' and 'The School and the Child' have very much influenced the development of the Russian pedagogy and in the first years of revolution you were one of the most renowned writers.") — Kalashnikov to [[John Dewey]]
 >
 > > “我们必须开始这项伟大的事业——世界上更民主国家的走到一起。”
-> ("We must begin this great undertaking — the coming together of the more democratic nations of the world.") — Shatskii to John Dewey, July 23, 1928(p.107)
+> ("We must begin this great undertaking — the coming together of the more democratic nations of the world.") — Shatskii to John Dewey, July 23, 1928
 >
 > > “那么，这个美国教育家访问俄罗斯的代表团，仅仅是过去那些被证明是共产主义者顺从工具的人所策划的共产主义宣传游戏中的又一个举动，并拉拢了各种非共产主义者进来，以掩盖在底层运作的共产主义机器。”
-> ("This American educators' mission to Russia, then, is simply one more move in the Communist propaganda game engineered by those who have proved willing tools of the Communists in the past and with various non-Communists drawn in to hide the Communist machinery working underneath.") — Francis Ralston Welsh to U.S. State Department, May 16, 1928(p.108)
+> ("This American educators' mission to Russia, then, is simply one more move in the Communist propaganda game engineered by those who have proved willing tools of the Communists in the past and with various non-Communists drawn in to hide the Communist machinery working underneath.") — Francis Ralston Welsh to U.S. State Department, May 16, 1928
 
 > [!warning] 自述局限
 > 论文未设专门局限章节。以下局限性可从研究和写作方式中辨识：
 >
 > - **视角不对称** 论文依赖的三组档案资料——Dewey 通信集、纽约时报、国务院函件——均为美国视角的英文资料。苏联方面的俄文档案（如 VOKS 的内部报告、Shatskii 的俄文通信、苏方接待记录）未被系统纳入。这导致对苏联一方的分析是以英文资料中"苏联人说了什么"为边界，而不是以苏联人自己留存的一手记录为边界。
-> - **分析广度有限** 论文自述可围绕 Dewey 在苏联接触的每一个人物写一整本书，但仅聚焦于少数几位（Shatskii、Lunacharsky、Kameneff、Kalashnikov）。Dewey 还会见的其他苏联教育者——如报告列举的代表团 25 人中的其余 24 人——在文中均未展开(p.106)。
+> - **分析广度有限** 论文自述可围绕 Dewey 在苏联接触的每一个人物写一整本书，但仅聚焦于少数几位（Shatskii、Lunacharsky、Kameneff、Kalashnikov）。Dewey 还会见的其他苏联教育者——如报告列举的代表团 25 人中的其余 24 人——在文中均未展开。
 > - **篇幅和学术层级的限制** 该研究发表在本科生研究期刊（Maneto）上，分析和论证深度受到论文篇幅和本科生研究经验的限制。文中一些论证——比如 Welsh 指控信和国务院回应之间的关系——仍有进一步深挖的空间。
 > - **Dewey 已出版著作与私信之间的"缺失环节"未被直接解释** 论文论证的前提是 Dewey 的已出版著作没有完整记录他的行程——但论文没有追问为什么 Dewey 选择省略这些细节。是出版篇幅限制？是政治敏感？还是 Dewey 认为那些美术馆之旅不重要？这个"为什么省略"的问题本身可以构成另一个研究。
 

@@ -11,9 +11,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 109
-fact_related_level: 10
-fact_related_stars: "💎💎💎⭐"
+fact_related_count: 112
+fact_related_level: 11
+fact_related_stars: "💎💎💎⭐⭐"
 fact_related_color: "#fecdd3"
 org_type: multilateral-development-bank
 headquarters: "华盛顿特区（美国）"
@@ -131,6 +131,8 @@ related_facts:
   - "[[EdStats]]"
   - "[[World Education Reform Database]]"
   - "[[Business Roundtable]]"
+  - "[[Policy Ambassador]]"
+  - "[[South-South Cooperation]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -144,6 +146,7 @@ related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -200,6 +203,8 @@ updated: 2026-10-23
 >   - **1996** 正式宣布向知识银行（Knowledge Bank）转型，输出涵盖分权、[[School Autonomy|学校自主]]、教师专业化、能力本位与中央测评五大支柱的制度愿景；教育部门率先设立[[Educational Knowledge Management System|教育知识管理系统]]（EKMS）与教育咨询服务部开展数字化知识集散先导试验。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–5)]]
 >   - **1999** 创设[[Global Development Network|全球发展网络]]（Global Development Network，GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但很快被华盛顿总部集权的工具所取代。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024b, p. 543)]]
 >   - **2000s** 在公共服务提供上日益绕过受援国政府，直接委托非政府组织提供教育，架空国家公共权威，促使非政府组织转变为去政治化的影子国家。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004; Kamat, 2004, cited in Arnove, 2009, pp. 111–112)]]
+>   - **2000s** 将巴西阿雷格里港首创的参与式预算（Participatory Budgeting）正式写入世行公民参与治理指南，确立南方城市微观民主创新在全球治理中的开拓者地位；同时全面吸纳拉美有条件现金转移支付（CCTs）模型（如巴西家庭补贴与墨西哥发展计划），将其作为旗舰减贫方案向撒哈拉以南非洲与东南亚推广。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 200, 204)]]
+>   - **2010s** 形成拉美减贫专家向世行等国际多边机构的人事循环通道，曾主导拉美本土减贫与社会发展的高级技术官僚进入世行担任高级官员或长期核心顾问，推动南方本土政策社群参与重塑全球旗舰议程。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 241–244)]]
 >   - **2010–2014** 启动开放发展倡议与[[Open Knowledge Repository|开放知识库]]（OKR），实施 [[Skills Toward Employment and Productivity|STEP]] 成人技能测试，并将集中化政策诊断体系升级为涵盖 13 个领域的 [[Systems Approach for Better Education Results|SABER]] 系统。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
 >   - **2011** 推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（Systems Approach for Better Education Results，SABER），并联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（Building Evidence in Education，BE2），确立自指性政策仓库。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 545, 548)]]
 >   - **21 世纪** 拉美与亚洲中等收入国家主权信用提升、可直接在国际私人资本市场低成本融资，世行面临从卖方市场转向买方市场的业务缩水危机，被迫推出基于成果的框架贷款（Program-for-Results，PforR）与分步递进式信贷，以降低借款国的官僚合规交易成本。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 475–476)]]
@@ -218,6 +223,7 @@ updated: 2026-10-23
 > - **执行机构（行长 / 教育全球业务局）** 传统上由美国提名行长领导庞大官僚官制，下设教育全球业务局（Education Global Practice, EGP），配备数百名专职教育经济学家与任务团队负责人（TTL），直接主导国别教育贷款准备与政策对话。
 > - **专家与审议委员会** [[Development Economics Vice Presidency|发展经济学研究局]]（DEC）、独立评价局（IEG），负责开展微观计量经济学评估、[[Randomised Controlled Trials|RCT]] 评估及对已结项教育贷款的问责审计。
 > - **会员与外部利益相关者** 189 个成员国教育部主要作为借款方与政策谈判对手，通过国别伙伴关系框架（CPF）接受世行政策审议。
+> - **南方政策社群与政策大使网络** 吸引并吸纳曾亲自主导巴西、智利、哥伦比亚与墨西哥减贫和教育改革的本土高级技术官僚与政策学者，担任常驻高级官员或核心顾问，在机构内部形成深具影响力的政策社群。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 241–244)]]
 
 世界银行在组织官僚文化上呈现出与区域开发银行截然不同的智识特征与政策推行风格：
 
@@ -232,7 +238,7 @@ updated: 2026-10-23
 > [!pathways] 业务运行机制
 > - **议程设置** 依据全球宏观经济动态与自身发展指标库，将战略重点依次锁定于“初等教育普及”、“女童教育”、“[[Learning Crisis|学习贫困]]（Learning Poverty）”与“基础素养”，通过全球旗舰报告引领受援国改革议程。
 > - **研究与开发** 依托内部 DEC 团队开展大规模微观计量与田野 RCT 实验，将各借贷国的试点数据回流华盛顿总部清洗，提炼为具有普适指导意义的最佳政策组合（Best Practice Portfolio）。
-> - **[[Policy Brokerage|政策中介]]与跨国政策转移（Policy Brokerage and Transfer）** 在跨国[[Policy Borrowing|政策借用]]多维连续谱中，世界银行扮演着兼具协商性转移与条件性受迫转移的双重中介枢纽（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）：一方面依托专属的最佳实践政策工具库与 [[Systems Approach for Better Education Results|SABER]] 诊断基准引导借款国协商采纳外部经验；另一方面在结构调整与紧急援助时将制度改革捆绑为放贷附加条件，促成受迫性政策转移。
+> - **[[Policy Brokerage|政策中介]]与跨国政策转移（Policy Brokerage and Transfer）** 在跨国[[Policy Borrowing|政策借用]]多维连续谱中，世界银行扮演着兼具协商性转移与条件性受迫转移的双重中介枢纽（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）：一方面依托专属的最佳实践政策工具库与 [[Systems Approach for Better Education Results|SABER]] 诊断基准引导借款国协商采纳外部经验，在结构调整与紧急援助时捆绑贷款附加条件促成受迫转移；另一方面也扮演吸纳全球南方微观政策创新（如参与式预算、有条件现金转移支付）的多标量聚合中枢，依托南方政策大使穿梭推动多向度跨国政策循环。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 200, 204, 237–244)]]
 > - **质量控制与透明度** 实行严格的项目周期监管（识别、准备、评估、谈判、执行监督、后评价），所有借贷协议与实证工作报告公开归档，但评估标准具有鲜明的华盛顿经济学主导色彩。
 
 在实际借贷生命周期中，世界银行在组织学习能力与评估链条上面临深刻的结构性失调：
@@ -349,6 +355,12 @@ updated: 2026-10-23
 > > - **批判学者（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 指出世行主导的实证话语将证据塑造成资源约束下的“智能购买”，高度倚重量化实验与因果评估模型；该技术理性框架将教育简化为具有明确价格标签的商品，在假定一线教师能力不足的赤字视角下开出标准处方，压抑了[[Teacher Professional Agency|教师专业能动性]]，并割裂了全球实证供给与地方实践生态。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 346–348)]]
 > > - **世行循证倡导** 强调在受援国财政空间极度逼仄的背景下，依托前沿因果证据与成本效益核算能帮助发展中国家精准规避低效支出，确保资金优先投向经过严谨检验的高回报教学干预。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 >
+> > [!axis] 多边机构知识聚合 vs 本土异质性抹平与“援助国度”官僚封闭
+> > 探讨世界银行等国际多边机构在吸纳南方政策创新时究竟是促进了全球扩散，还是造成了本土经验的技术化剪裁与异质性抹平。
+> >
+> > - **批判政策流动视角（Mosse, 2011; [[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）** 指出世行虽然投入庞大智力资本搜寻与筛选全球前沿方案并赋予其全球合法性，但往往将复杂多元的地方实践强行剪裁为标准化的“最佳实践清单”（Best Practice），抹平了本土制度情境的异质性；同时滋生“援助国度”（Aidland）封闭官僚文化，将南方政策大使收编入主流新自由主义话语体系，导致扎根基层的原初经验被技术化稀释。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 237–239)]]
+> > - **多边机构治理辩护** 强调将地方创新提炼为标准化操作手册与量规是跨国规模化推广、确保项目可问责性与防范治理失败的必要技术手段。
+>
 > > [!citation-card] 卡诺伊与比奇论世行成本效益模型与知识银行的制度愿景借贷
 > > 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）与卡诺伊（Carnoy, 1999）指出，世界银行在 1995 年宣称其教育研究在广度与严谨性上无可匹敌，确立了成本效益分析与[[Return on Investment|投资回报率]]的最高统治地位。然而其贷款资金仅占南方国家教育总支出的 0.5%，转型为“知识银行”实质上迫使借款国在获得微量贷款的同时，必须成套借入西方设计的分权化、[[School Autonomy|学校自主权]]与能力本位等制度愿景；卡诺伊进一步揭示，在该模型下，教材与黑板被定为最划算教学物资，而教师薪酬却被视作削减成本的主要障碍。[[Argument_Beech_2009_GlobalGarden|(World Bank, 1995; Carnoy, 1999, cited in Beech, 2009b, pp. 345–347)]]
 > >
@@ -415,3 +427,6 @@ updated: 2026-10-23
 > | [[Argument_Zapp_2017_IJED\|Zapp (2017)]] | Argument | 通过半个世纪纵向统计实证解构世界银行从资金放贷实体转型为全球教育[[Epistemic Governance\|认知治理]]中枢的三维机制。 |
 > | [[Global Education Evidence Advisory Panel]] | 事实 (机构) | 世界银行联合发起的独立咨询机构，负责研制“智能购买”分级循证建议。 |
 > | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] | Argument | 剖析世界银行与 GEEAP 的职责规程，批判其“智能购买”话语背后的技术理性与教师赤字预设。 |
+> | [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] | Argument | 剖析世界银行吸纳拉美有条件现金转移支付与参与式预算的机制，揭示南方政策大使的人事循环与多标量政策扩散。 |
+> | [[Policy Ambassador]] | 概念 | 主导南方本土减贫与教育创新并进入世行等机构推动全球议程设置的跨国政策使者。 |
+> | [[South-South Cooperation]] | 概念 | 世行在多边技术援助与三方合作中逐步吸纳的南方互学互鉴合作模式。 |

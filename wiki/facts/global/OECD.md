@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 156
+fact_related_count: 153
 fact_related_level: 15
 fact_related_stars: "💎💎💎💎💎"
 fact_related_color: "#fecdd3"
@@ -98,27 +98,27 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[PISA Shock]]"
   - "[[Mediatised Governance]]"
-  - "[[Media Logic]]"
   - "[[Rashomon Effect]]"
-  - "[[Construct]]"
-  - "[[Test Production]]"
-related_theories:
   - "[[Governing at a Distance]]"
+  - "[[Construct]]"
+  - "[[South-South Cooperation]]"
+  - "[[Policy Ambassador]]"
+related_theories:
   - "[[Human Capital Theory]]"
   - "[[Evolutionary Economics]]"
-  - "[[Systems of Innovation]]"
-  - "[[Napoleonic Administrative Tradition]]"
   - "[[New Growth Theory]]"
-  - "[[Governmentality]]"
   - "[[Wight's Three Traditions of International Theory]]"
+  - "[[Governmentality]]"
   - "[[Panopticism]]"
   - "[[Beech's Model of Discourse Circulation]]"
 related_methods:
-  - "[[Peer Debriefing]]"
   - "[[Item Response Theory]]"
   - "[[Questionnaire]]"
+  - "[[Peer Debriefing]]"
   - "[[Network Analysis]]"
   - "[[Analytic Framework]]"
+  - "[[Test Production]]"
+related_instruments: []
 related_persons:
   - "[[George Papadopoulos]]"
   - "[[Chris Freeman]]"
@@ -130,21 +130,16 @@ related_persons:
   - "[[Michael Gove]]"
   - "[[Steen Nepper Larsen]]"
   - "[[Andreas Schleicher]]"
+  - "[[Wolfgang Mitter]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
-  - "[[David Coleman]]"
-  - "[[Wolfgang Mitter]]"
   - "[[Jason Beech]]"
+  - "[[David Coleman]]"
 related_facts:
-  - "[[PISA]]"
-  - "[[Organisation for European Economic Co-operation]]"
-  - "[[Economics of Education Movement]]"
   - "[[Sputnik Shock 1957]]"
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[Mediterranean Regional Project]]"
-  - "[[International Institute for Educational Planning]]"
   - "[[Frascati Manual]]"
-  - "[[UNESCO]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Programme on Educational Building]]"
   - "[[Institutional Management in Higher Education]]"
@@ -152,7 +147,7 @@ related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
   - "[[Delors Report]]"
-  - "[[World Bank]]"
+  - "[[PISA]]"
   - "[[PISA Governing Board]]"
   - "[[OECD AHELO Project]]"
   - "[[World Education Indicators]]"
@@ -161,16 +156,18 @@ related_facts:
   - "[[PISA for Development]]"
   - "[[Strengthening the Impact of Education Research Project]]"
   - "[[EU]]"
-  - "[[Whole Earth Catalog]]"
   - "[[Education GPS]]"
-  - "[[Achieve]]"
-  - "[[UNICEF]]"
   - "[[Lisbon Strategy]]"
   - "[[Definition and Selection of Competencies]]"
   - "[[Baby PISA]]"
   - "[[PISA for Schools]]"
   - "[[Building Evidence in Education]]"
   - "[[Learning Data Compact]]"
+  - "[[Economics of Education Movement]]"
+  - "[[International Institute for Educational Planning]]"
+  - "[[UNESCO]]"
+  - "[[World Bank]]"
+  - "[[UNICEF]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -189,9 +186,10 @@ related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-confidence: medium
-status: draft
-created: 2026-06-08
+  - "[[Argument_Stone_2020_PolSoc]]"
+confidence: high
+status: active
+created: 2026-10-14
 updated: 2026-10-23
 ---
 
@@ -208,10 +206,6 @@ updated: 2026-10-23
 > - **核心宗旨与法定职责** 致力于促进实现成员国最高水平的可持续经济增长、充分就业、科学技术创新及民众生活水平提升；在科技与教育领域旨在提供客观且高度跨国可比的统计标准与循证证据，引导科技与公共教育投资的合理化配置。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 422)]]; [[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–9)]]
 
 ---
-
-## 历史沿革与组织演变
-
-经合组织的全球治理职能是在冷战地缘博弈、科技研发标准化竞赛、比较教育学科[[Paradigm|范式]]转换与新自由主义全球治理技术的演进中逐步确立并分化的。它在科技创新政策与教育人力治理两大领域分别开创了具有全球垄断性的量化基准。
 
 > [!org-evolution] 组织发展历程
 > - **1948–1960** **[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）的奠基**
@@ -260,23 +254,19 @@ updated: 2026-10-23
 >   - **2000s–2010s** 测评版图扩展至[[Teaching and Learning International Survey|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）、[[Programme for the International Assessment of Adult Competencies|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（[[PISA for Development]]，PISA-D）。
 >   - **2007** CERI 出版旗舰专著《Evidence in Education》。
 >   - **2010** 推出《The Nature of Learning》学习科学工程，其后开展教师知识调查（Teacher Knowledge Survey，TKS）。
+>   - **2011** 在韩国釜山举行经合组织发展援助委员会（Development Assistance Committee, DAC）第四届援助效益高层论坛。大会标志着国际援助哲学的重大转折，传统由西方供资方单向主导的附带政治约束援助模式遭遇普遍抵制，强调技术协作与互学互鉴的[[South-South Cooperation|南南合作]]理念及三方合作机制确立国际合法性。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 210–211)]]
 >   - **2018** 丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（[[Kerstin Martens]]）提出“硬事实软治理”（[[Soft Power by Hard Facts|Soft governance by hard facts]]）命题，揭示经合组织如何依托跨国量化统测生产客观硬事实以确立[[Cognitive Authority|认知权威]]并充当[[Boundary Spanner|知识经纪人]]，通过[[Inquisitive Mode of Governance|探究模式]]定义问题与[[Meditative Mode of Governance|调解模式]]推介最佳实践，打破主权国家教育管辖权边界，展现出全球教育政策的“[[OECD-fication|经合组织化]]”（OECD-fication）。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271, 277–279)]]
 >   - **2021** 启动[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]，推动成员国从被动接受指标排名转向主动建构国家级[[Evidence Ecosystem|证据生态系统]]。
 
 ---
 
-## 治理架构与运行机制
-
-经合组织形成了由成员国常驻代表决议、专业司局日常执行、外部顶尖学术网络技术支撑的多层次治理体制。
-
 > [!actor-grid] 组织治理架构
 > - **最高决策中枢（理事会 Council）** 由全体成员国常驻大使代表及[[EU|欧盟]]代表组成的高级别权力机构，负责审议工作规划、战略重点与财政预算，采取全体协商一致（Consensus）决策原则。
 > - **专业领导机构（教育政策委员会，EDPC 与 [[Centre for Educational Research and Innovation|CERI]] 理事会）** 由各成员国教育部高级官员与政策代表组成的常设专门委员会，统筹制定教育领域的跨国战略优先项与大型项目启动决议；早期教育委员会（1970 年设立）与[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI，1968 年由福特基金会与壳牌资助创立）长期分工并立，包容成员国不同政策取向。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–442)]]
 > - **常设执行部门（教育与技能司，Directorate for Education and Skills）** 位于巴黎总部的常设专业研究与行政管理团队。2002 年前从属于教育、就业、劳工与社会事务司（DEELSA），2002 年正式分立为独立教育司，确立了秘书处强大的自主议程设置权与跨国统筹能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442–444)]]
+> - **发展合作与多边援助审议机构（发展援助委员会，DAC）** 专门负责协调成员国官方发展援助（ODA）政策、制定国际援助统计标准并推动援助效益评估的常设专门机构；2011 年釜山第四届援助效益高层论坛推动国际发展援助框架向包容南南合作与三方合作机制转型。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 210–211)]]
 > - **全球外联中枢（非成员经济体合作处，Unit for Cooperation with Non-member Economies, NME）** 设立专门的全球外联机构，依托“全球关系项目”（Global Relations Programme）将非成员国（如中国、印度、巴西、俄罗斯）纳入 OECD 指标网络与跨国政策对话，并与[[UNESCO|联合国教科文组织]]、[[World Bank|世界银行]]联合推行“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators|WEI]]）项目，使 OECD 跨越成员国地理边界成为全球性政策行动者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442–443)]]
 > - **外部方法论与统计顾问网络** 汇聚全球顶尖心理测量学家、统计学家与比较教育学者的独立专家委员会，负责量化测评框架研发、[[Item Response Theory|项目反应理论]]建模与跨国等值性质控。
-
-在日常业务层面，OECD 通过精密的技术程序将复杂的各国内部教育实践转化为标准化的国际指标。
 
 > [!pathways] 业务运行机制
 > - **议程设置与跨国[[Space of Equivalence|等值空间]]虚构** 研判全球宏观经济转型与劳动力技能演进趋势，运用法国统计学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières）所称的“制造等值空间”（fabricating spaces of equivalence），直接生产可跨国[[Commensuration|通约]]的测试情境，以统计[[Reliability|信度]]（reliability）压倒本土效度（validity），使数字本身成为免于实质辩论的客观政策依据。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
@@ -288,10 +278,6 @@ updated: 2026-10-23
 > - **双轨发布与媒介定制策略** 数据发布采取技术中立的国别简报（Country Notes）与高度倡导性的[[Whole Earth Catalog|全球概览]]（[[PISA]] in Focus 及演示幻灯片）双轨分流：前者呈现统计指标，声明数据不直接推导具体政策处方；后者面向大众媒体定制口号化警句与图表分类，为国内行动者选择性剪裁留出缝隙。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 114–116)]]
 
 ---
-
-## 核心业务与旗舰产出
-
-经合组织的业务网络覆盖了从学前教育、基础教育到高等教育与成年人[[Lifelong Learning|终身学习]]的完整生命周期。
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **跨国大规模学业与技能测评体系** 主导实施 [[PISA]]（15岁学生阅读、数学、[[Scientific Literacy\|科学素养]]测验）、[[Teaching and Learning International Survey\|TALIS]]（初中教师教学实践与[[School Leadership\|学校领导力]]调查）及 [[Programme for the International Assessment of Adult Competencies\|PIAAC]]（成年人核心认知技能调查），构建起全球最庞大的教育实证数据基准。
@@ -317,10 +303,6 @@ updated: 2026-10-23
 
 ---
 
-## 影响与体系成效
-
-经合组织通过其强大的量化技术与跨国声誉网络，深刻重构了当代全球教育治理的基本图景。
-
 > [!indicators] 影响力维度与指标
 > - **成员覆盖与全球代表性** 从成立初期的 20 个欧美成员国扩张至当前 38 个成员国，[[PISA]] 测评覆盖逾 80 个国家和经济体，参与国经济总量占全球 80% 以上。
 > - **国际组织网络核心度** 战争关联（COW）国际组织数据库普查显示，在全球 495 个政府间组织中，仅 20 个（4.0%）深度介入教育治理，经合组织成为全球教育治理网络的核心枢纽。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 278)]]
@@ -340,11 +322,13 @@ updated: 2026-10-23
 
 ---
 
-## 争议、批评与反思
-
-经合组织在享有巨大治理威权的同时，其政治合法性、[[Epistemology|认识论假设]]与测量方法在学术界引发了持续激烈的批判交锋。
-
 > [!debates] 核心争议交锋
+>
+> > [!axis] 北方中心主义与国家科层偏见 vs 南向多标量政策循环
+> > 质询以经合组织为典型代表的跨国政策借用理论是否预设了单向的北方技术官僚主导偏见。
+> >
+> > - **全球南方与批判政策流动视角（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）** 批评比较公共政策与政策转移研究长期深植于经合组织发达工业化国家的治理经验，预设政策创新单向由全球北方流向全球南方、由中央政府部委科层主导且依赖纯粹技术理性；忽视了全球南方依托本土微观治理实验（如参与式预算、快速公交、有条件现金转移支付）、政策大使穿梭与南南合作网络正在实质重构跨国政策流动的拓扑结构。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 84, 210–211, 237–239)]]
+> > - **经合组织多边治理立场** 强调经合组织不仅服务于发达成员国，亦通过“全球关系项目”与发展援助委员会为广大非成员国提供客观证据与技术协作平台，其指标体系旨在提供超越意识形态的去政治化标准。
 >
 > > [!axis] 国际政治理论透镜下的[[Governmentality\|治理性]]质交锋
 > > 批判学者从不同[[Wight's Three Traditions of International Theory\|国际关系理论]]视角对 OECD 的角色性质与权力运作展开了深刻剖析。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 420–425)]]
@@ -447,24 +431,28 @@ updated: 2026-10-23
 > | [[Rashomon Effect]] | Concept | 解释同一批 OECD 评估数据被国际组织、本土政客与大众媒体赋予多重冲突真实的[[Epistemology\|认识论]]效应。 |
 > | [[Navigation Metaphor in Comparative Education]] | Concept | 战后比较教育坚持的超然政策咨询范式，后遭 OECD 经济主义与指标治理体系深度解构。 |
 > | [[Wolfgang Mitter]] | Person | 揭示 OECD 经济导向教育政策对欧洲比较教育学科自主性与认识论侵蚀的代表学者。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | Argument | 剖析数字治理 2.0 时代 OECD 如何通过政策中介工具打包与经验横向借鉴实现远处治理。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] | Argument | 在全球 654 个证据平台测绘中将经合组织定位于多边核心层第 4 位，揭示其与多边机构紧密交织的中心网络特征。 |
-> | [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] | Argument | 总结 [[Centre for Educational Research and Innovation\|CERI]] 二十年循证政策与[[Epistemic Governance\|知识治理]]研究脉络，基于跨国政策调查构建五维证据生态[[Analytic Framework\|分析框架]]。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | Argument | 从学科史维度批判 OECD 经济主义政策对比较教育学者自主性与航海隐喻的侵蚀。 |
+> | [[South-South Cooperation]] | 概念 | 经合组织发展援助委员会 2011 年釜山论坛确立合法性的南南互学互鉴与技术协作模式。 |
+> | [[Policy Ambassador]] | 概念 | 穿梭于多边组织网络、打破经合组织单向政策转移预设的跨国政策使者。 |
+> | [[Technical Rationality]] | 概念 | 经合组织政策转移框架所预设的纯粹工具理性与科学实证主义技术范式。 |
 > | [[Strengthening the Impact of Education Research Project]] | Fact (Program) | OECD CERI 启动的旗舰跨国调查项目，覆盖 29 国 37 个教育系统，系统摸排[[Knowledge Mobilisation\|知识动员]]与证据生态治理机制。 |
 > | [[Evidence Ecosystem]] | Concept | OECD 倡导的新一代知识治理核心[[Construct\|构念]]，超越线性传递与点状网络，强调全系统动态反馈与使能机制。 |
 > | [[National Innovation System]] | Concept | OECD 于 1990 年代官方采纳的科技政策新范式，超越单一研发投入指标，关注多主体互动学习。 |
 > | [[Chris Freeman]] | Person | [[Evolutionary Economics\|演化经济学]]家，受 OECD 委托撰写早期跨国研发统计报告，后推动 OECD 科技政策转向[[Innovation Policy Paradigms\|创新系统范式]]。 |
-> | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] | Argument | 从历史与演化视角系统梳理 OECD 科技统计与国家[[Systems of Innovation\|创新系统]]概念的演进脉络，反思研发联赛榜的局限。 |
 > | [[Social Imaginary]] | Concept | OECD 自 1990 年代中期起围绕[[Knowledge-Based Economy\|知识经济]]建构并跨国传播的核心话语与规范图景。 |
 > | [[Fazal Rizvi]] | Person | 批判政策社会学家，深入剖析 OECD 知识经济社会想象与全球教育政策转向的代表学者。 |
 > | [[Bob Lingard]] | Person | 教育政策社会学家，揭示 OECD 数字治理、PISA 等值空间与远处治理机制的核心学者。 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | Argument | 系统梳理 OECD 从 1960–1990 年社会民主主义妥协向 1990 年代中期后知识经济社会想象与 PISA 数字治理转型的历史脉络。 |
 > | [[Global Educational Discourse]] | 概念 | 经合组织与世行、教科文组织深度参与建构并捆绑推销的“信息时代”五大支柱全球标准化模型。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 348–349)]] |
 > | [[Beech's Model of Discourse Circulation]] | 理论 | 比奇构建的五位置流通模型，揭示经合组织等国际机构受紧迫实用主义驱动过度简化知识并参与话语中介。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 350–353)]] |
 > | [[Jason Beech]] | 人物 | 比较教育学者；实证剖析经合组织 1964 年拉美规划报告、五大支柱[[Discourse\|话语]]共谋及对[[UNESCO\|教科文组织]]领导权挤压的代表学者。 |
 > | [[Steen Nepper Larsen]] | 人物 | 批判经合组织[[Panopticism\|全景敞视]]式量化测评体制与存在性自由剥夺的丹麦批判哲学家。 |
 > | [[Andreas Schleicher]] | 人物 | 经合组织教育与技能司司长、PISA 项目核心主导者，在 2018 哥本哈根会议倡导[[Metacognition\|元认知]]反思思维。 |
+> | [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] | Argument | 批判公共政策转移研究中的经合组织中心主义与北方技术官僚偏见，剖析 2011 釜山论坛对南南技术协作规范的确立。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | Argument | 剖析数字治理 2.0 时代 OECD 如何通过政策中介工具打包与经验横向借鉴实现远处治理。 |
+> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] | Argument | 在全球 654 个证据平台测绘中将经合组织定位于多边核心层第 4 位，揭示其与多边机构紧密交织的中心网络特征。 |
+> | [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] | Argument | 总结 [[Centre for Educational Research and Innovation\|CERI]] 二十年循证政策与[[Epistemic Governance\|知识治理]]研究脉络，基于跨国政策调查构建五维证据生态[[Analytic Framework\|分析框架]]。 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | Argument | 从学科史维度批判 OECD 经济主义政策对比较教育学者自主性与航海隐喻的侵蚀。 |
+> | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] | Argument | 从历史与演化视角系统梳理 OECD 科技统计与国家[[Systems of Innovation\|创新系统]]概念的演进脉络，反思研发联赛榜的局限。 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | Argument | 系统梳理 OECD 从 1960–1990 年社会民主主义妥协向 1990 年代中期后知识经济社会想象与 PISA 数字治理转型的历史脉络。 |
 > | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] | Argument | 剖析经合组织全视凝视、量化监控悖论与施莱歇尔未来思维反思主张的丹麦批判文献。 |
 > | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 揭示政客对 PISA 数据的双轨选择性剪裁，以及经合组织默许扭曲以维系品牌霸权的象征性共谋。 |
 > | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] | Argument | 考察中国对标经合组织国际标准建立全国教育质量监测系统与循证督导体制的实践进路。 |
