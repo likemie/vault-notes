@@ -10,10 +10,10 @@ aliases:
 summary: "指涉政策观念、治理技术与制度模型在跨国、跨区域及公私异质网络中被解构、转译、变异和再情境化的动态过程；强调政策并非在真空或纯粹地理空间中的静态线性转移，而是伴随社会-技术中介、权力拓扑与资本纽带的流动性装配。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 67
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/policy-mobility
   - theme/governance
@@ -38,11 +38,14 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Social Impact Investing]]"
+  - "[[Policy Ambassador]]"
+  - "[[Representational Knowledge]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence Standards]]"
   - "[[Return on Investment]]"
   - "[[Public-Private Partnership]]"
   - "[[Infrastructures of Immobility]]"
+  - "[[Construct]]"
   - "[[School Autonomy]]"
   - "[[Methodological Nationalism]]"
   - "[[Rich and Thick Description]]"
@@ -52,6 +55,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Hard Policy Transfer]]"
+  - "[[South-South Cooperation]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
@@ -79,15 +83,19 @@ related_facts:
   - "[[BHP Foundation]]"
   - "[[World Bank]]"
   - "[[MDRC]]"
+  - "[[OECD]]"
+  - "[[Inter-American Development Bank]]"
+  - "[[Business Roundtable]]"
 related_arguments:
   - "[[Argument_Rowe_2022_IJER]]"
   - "[[Argument_Rowe_2023_ECNUROE]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Keddie_2020_IJLE]]"
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -187,6 +195,9 @@ updated: 2026-10-22
 > [!claim] [[Stephen Ball\|Ball, S.]] J.
 > **网络拓扑对政策内容的再造** 政策流动并非发生于平坦的国家版图之上，而是依托于跨国异质网络展开；在这一流动拓扑中，政策的内涵被跨国[[Policy Entrepreneur\|政策企业家]]、慈善资本家与技术官僚的利益[[Co-affiliation\|共同从属]]性所重新编码，使公共教育治理彻底卷入以市场逻辑为导向的企业化重构过程（Ball, 2016；Ball et al., 2017）。
 
+> [!claim] [[Argument_Stone_2020_PolSoc\|Stone, Porto de Oliveira, and Pal (2020)]]
+> **多标量政策循环与全球南方自主外溢** 斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）将政策流动透镜引入国际发展合作，打破传统北方主导、中心-边缘单向度扩散与国家中心借用预设。政策流动呈现出多标量、多向度的网络循环形态，全球南方国家不仅是政策试验的被动受体，更依托[[Policy Ambassador|政策大使]]与扎根本土的[[Representational Knowledge|代表性知识]]，向跨国多边平台输出快速公交、有条件现金转移支付与参与式预算等前沿创新，重构了跨国政策流动的治理生态与权力拓扑。（pp. 1–6, 11–13）
+
 ---
 
 ### 命题二　政策跨国流动依赖耐用物质材料的锚定与法律技术装置的特许装配
@@ -221,7 +232,7 @@ updated: 2026-10-22
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **变异生成命题** | 政策在跨界流动中必然遭遇地方摩擦与[[Recontextualization\|再情境化]]，呈现突变而非机械复制 | 跨国教育改革方案向本土制度转译的动态追踪 | Peck and Theodore (2015); Ball (2016) |
+> | **变异生成命题** | 政策在跨界流动中必然遭遇地方摩擦与[[Recontextualization\|再情境化]]，呈现突变而非机械复制 | 跨国教育改革方案向本土制度转译的动态追踪 | Peck and Theodore (2015); Ball (2016); [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] |
 > | **物质装配命题** | 政策流动必须通过公司法注册、立法特许与因果量规等耐用材料实现长程控制 | 循证中介机构、准市场化实体与数字化平台的创生解析 | Law and Singleton (2005); [[Argument_Rowe_2022_IJER\|Rowe (2022, p. 2)]] |
 > | **资本纽带命题** | 跨国金融与风险慈善资本是驱动快速政策穿梭流动与公私网络聚合的深层引擎 | 跨国基金会注资、[[Public-Private Partnership\|公私伙伴关系]]及教育财政外包研究 | Ball et al. (2017); [[Argument_Rowe_2022_IJER\|Rowe (2022, p. 6)]]; [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, p. 522)]] |
 
@@ -232,6 +243,7 @@ updated: 2026-10-22
 > - **2000s — 比较教育[[Policy Borrowing\|政策借用]]与本土化转向** 比较教育学界（Phillips & Ochs, 2003；Steiner-Khamsi, 2004）提出政策借用（Policy Borrowing）四阶段模型与外生[[Van Leeuwen's Legitimation Theory\|合法化理论]]，强调政策借用往往受国内政治危机驱动，并重点关注政策抵达成后的本土折射（Refraction）与变形。
 > - **2010–2015 — 地理学空间转向与“快速政策”兴起** 批判地理学家（Peck & Theodore, 2010, 2015；McCann & Ward, 2012）正式确立“政策流动”（Policy Mobilities）框架，提出“突变”（mutation）与“快速政策”（fast policy）概念，指出政策是通过由智库、商业顾问构成的跨国[[Infrastructures of Immobility\|流动基础设施]]穿梭的去中心化装配体。
 > - **2016–2017 — 教育[[Network Ethnography\|政策网络民族志]]的系统融合** [[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball）及其研究伙伴将政策流动框架全面引入教育政策研究，出版专著《Edu.net》（Ball et al., 2017），开创结合[[Network Ethnography\|网络民族志]]追踪资本、人、思想与技术跨国流动的新范式。
+> - **2020 — 发展合作视阈下多标量跨国政策循环框架的确立** [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] 引入国际发展合作透镜反思政策流动研究的西方中心主义，提出政策大使与代表性知识[[Construct|构念]]，揭示全球南方在参与式治理与减贫领域的制度创新如何反向外溢并重塑跨国政策循环生态。（pp. 1–6）
 > - **2021–2022 — 物质性转向与[[Venture Philanthropy\|风险慈善]]金融化综合** 埃玛·罗威（Emma Rowe）将[[Actor-Network Theory\|行动者网络理论]]的耐用材料与无生命客体概念融入教育政策流动研究，揭示跨国政策流动如何通过企业法注册与公私特许立法在国家内部固化为看似客观中立的证据经纪实体。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–4]]
 > - **2023 — 国家催化平台与风险慈善异层网络装配** [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] 进一步揭示政策流动中民族国家作为“催化平台”与“市场缔造者”的双重角色；展示跨国政策流动如何通过 [[Deductible Gift Recipient\|DGR1]] 免税特许管道与 [[Social Ventures Australia\|SVA]] 四层控股公司架构，将英美风险慈善与私营商业中介深度装配至公共教育体系，并导致财政资源逆向流动与[[School Autonomy\|学校自主权]]受制。
 
@@ -277,3 +289,4 @@ updated: 2026-10-22
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统绘制澳大利亚公共教育中[[Venture Philanthropy\|风险慈善]]与国家催化网络的崛起图景，揭示 [[Social Ventures Australia\|SVA]] 作为政策流动中枢装配 [[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]] 与 AERO 的演进机制，以及税法特许与异层再分配对公共教育民主基石的侵蚀。
 > - [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] — 探讨 Gonski 拨款改革在全澳流动与落地过程中的政策折射，揭示资源需求基准如何在各州自治分权语境下遭遇体制摩擦。
 > - [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] — 以英国新工党福利改革为案例，证明[[Evidence-Based Policy-Making|循证决策]]要求驱动英国系统性地优先借鉴拥有大量量化实验评估数据的美国，不仅引入政策理念，更将[[Random Assignment|随机分配]]规程与美国评估机构（[[MDRC]]）整套带入英国，揭示评估技术本身作为跨国政策流动独立载体的机制（pp. 342–344）。
+> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 结合拉美创新经验，揭示跨国政策流动如何依托政策大使与代表性知识走向多向度、多标量政策循环（pp. 1–6）。

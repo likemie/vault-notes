@@ -7,7 +7,7 @@ summary: "英国伦敦大学学院教育学院（UCL Institute of Education, UCL
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Educational Brokerage Agency]]"
+  - "[[Science of Using Science]]"
   - "[[Knowledge Mediation]]"
   - "[[Evidence Standards]]"
   - "[[Positivism]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-10-22
 > [!person-profile] 人物档案
 > - **身份位置** 英国资深社会科学家、循证政策与方法学专家，伦敦大学学院教育学院（UCL Institute of Education）社会科学研究部（Social Science Research Unit, SSRU）实证政策与实践荣休教授，证据知情政策与实践信息与协调中心（[[EPPI-Centre\|Evidence for Policy and Practice Information and Co-ordinating Centre]], [[EPPI-Centre]]）前主任。
 > - **核心角色** 国际证据知情政策与实践（Evidence-Informed Policy and Practice, EIPP）运动与社会科学[[Systematic Review\|系统综述]]方法论的领军人物，开创性构建了多维[[Evidence Ecosystem\|证据生态系统]]框架、证据权重评价体系（[[Weight of Evidence Framework\|Weight of Evidence]]）以及[[Educational Brokerage Agency\|知识中介机构]]的自我循证评价标准。
-> - **代表贡献** 领衔主持[[EU|欧盟]]跨国教育循证项目（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]），系统构建摆脱单纯线性推送的[[Evidence Ecosystem\|证据生态系统]][[Analytic Framework\|分析框架]]，系统提出研究应用之科学（The Science of Using Science）元研究议程。
+> - **代表贡献** 领衔主持[[EU|欧盟]]跨国教育循证项目（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]），系统构建摆脱单纯线性推送的[[Evidence Ecosystem\|证据生态系统]][[Analytic Framework\|分析框架]]，系统提出研究应用之科学（The [[Science of Using Science]]）元研究议程。
 
 > [!citation-card] [[Knowledge Mediation\|知识中介]]自我循证的核心关切
 > 知识中介机构旨在促进决策者对研究证据的利用；如果在自身运作中不采取循证进路，它们不仅可能削弱实际成效，更会因未能遵循自己倡导的循证原则而丧失公信力与信任。必须将明确的循证视角贯穿于需求分析、系统情境整合、[[Theory of Change\|变革理论]]、[[Evidence Standards\|证据标准]]与自我评估五大核心领域。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 147)]]

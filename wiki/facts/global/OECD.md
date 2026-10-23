@@ -10,13 +10,14 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 149
-fact_related_level: 14
-fact_related_stars: "💎💎💎💎⭐⭐"
+fact_related_count: 156
+fact_related_level: 15
+fact_related_stars: "💎💎💎💎💎"
 fact_related_color: "#fecdd3"
 org_type: intergovernmental
 headquarters: 巴黎（法国）
 established: 1961
+official_website: "https://www.oecd.org/"
 tags:
   - theme/international-organizations
   - theme/global-governance
@@ -48,6 +49,9 @@ related_concepts:
   - "[[Soft Power by Hard Facts]]"
   - "[[Cognitive Authority]]"
   - "[[Boundary Spanner]]"
+  - "[[Inquisitive Mode of Governance]]"
+  - "[[Meditative Mode of Governance]]"
+  - "[[OECD-fication]]"
   - "[[Evidence Ecosystem]]"
   - "[[Space of Equivalence]]"
   - "[[Commensuration]]"
@@ -61,6 +65,7 @@ related_concepts:
   - "[[Social-Emotional Learning]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Innovation Hub]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[Knowledge Production]]"
   - "[[Evidence-Based Education]]"
   - "[[Positivism]]"
@@ -86,6 +91,7 @@ related_concepts:
   - "[[Democratic Education]]"
   - "[[Educational Multilateralism]]"
   - "[[Technical Rationality]]"
+  - "[[Knowledge Mediation]]"
   - "[[Academic Achievement]]"
   - "[[Soft Power]]"
   - "[[Public Value]]"
@@ -111,6 +117,7 @@ related_methods:
   - "[[Peer Debriefing]]"
   - "[[Item Response Theory]]"
   - "[[Questionnaire]]"
+  - "[[Network Analysis]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[George Papadopoulos]]"
@@ -157,6 +164,7 @@ related_facts:
   - "[[Whole Earth Catalog]]"
   - "[[Education GPS]]"
   - "[[Achieve]]"
+  - "[[UNICEF]]"
   - "[[Lisbon Strategy]]"
   - "[[Definition and Selection of Competencies]]"
   - "[[Baby PISA]]"
@@ -164,23 +172,23 @@ related_facts:
   - "[[Building Evidence in Education]]"
   - "[[Learning Data Compact]]"
 related_arguments:
-  - "[[Argument_Beech_2009_GlobalGarden]]"
-  - "[[Argument_Freeman_1995_CJE]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
-  - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Klerides_2023_CE]]"
-  - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Legrand_2012_PolStud]]"
-  - "[[Argument_Li_2025_HSSC]]"
+  - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Freeman_1995_CJE]]"
+  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
+  - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_Mitter_2009_Europe]]"
+  - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
   - "[[Argument_Niemann_Martens_2018_GSP]]"
-  - "[[Argument_Revai_2022_ChangingLandscape]]"
-  - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
-  - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
-  - "[[Argument_Verger_2019_Discourse]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Campbell_2026_JPCC]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Li_2025_HSSC]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Larsen_2019_EducSci]]"
 confidence: medium
 status: draft
 created: 2026-06-08
@@ -194,6 +202,7 @@ updated: 2026-10-23
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1961年正式改组成立（其前身为 1948 年为管理马歇尔计划而设立的[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（Organisation for European Economic Co-operation，OEEC））；深层背景为冷战前沿[[Geopolitics|地缘政治]]对抗与美国[[Economics of Education Movement\|教育经济学运动]]的兴起。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 420)]]
+> - **官方门户与数据检索平台** 经合组织官方在线门户为 [OECD Official Website](https://www.oecd.org/)（教育领域专属监测分析门户为 [OECD Education GPS](https://gpseducation.oecd.org/)），提供各成员国宏观经济、科技创新及教育测评的官方数据库与旗舰出版物检索。
 > - **总部地点 / 业务辐射** 总部位于法国巴黎；业务直接覆盖 38 个正式成员国及全球数十个伙伴国家和经济体，对世界经济、科技创新政策及教育议程具有全局性辐射力。
 > - **法人属性与经费基础** 超国家政府间国际组织（Intergovernmental Organization）；由各成员国按国民经济规模按比例分摊的核心法定预算、自愿性专项捐款及各国出资的测评与指标研发项目联合经费维持运作。
 > - **核心宗旨与法定职责** 致力于促进实现成员国最高水平的可持续经济增长、充分就业、科学技术创新及民众生活水平提升；在科技与教育领域旨在提供客观且高度跨国可比的统计标准与循证证据，引导科技与公共教育投资的合理化配置。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 422)]]; [[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–9)]]
@@ -251,7 +260,7 @@ updated: 2026-10-23
 >   - **2000s–2010s** 测评版图扩展至[[Teaching and Learning International Survey|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）、[[Programme for the International Assessment of Adult Competencies|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（[[PISA for Development]]，PISA-D）。
 >   - **2007** CERI 出版旗舰专著《Evidence in Education》。
 >   - **2010** 推出《The Nature of Learning》学习科学工程，其后开展教师知识调查（Teacher Knowledge Survey，TKS）。
->   - **2018** 丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（[[Kerstin Martens]]）提出“硬事实软治理”（[[Soft Power by Hard Facts|Soft governance by hard facts]]）命题，揭示经合组织如何依托跨国量化统测生产客观硬事实以确立[[Cognitive Authority|认知权威]]并充当[[Boundary Spanner|知识经纪人]]，通过探究模式定义问题与调解模式推介最佳实践，打破主权国家教育管辖权边界，展现出全球教育政策的“经合组织化”（OECD-fication）。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271, 277–279)]]
+>   - **2018** 丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（[[Kerstin Martens]]）提出“硬事实软治理”（[[Soft Power by Hard Facts|Soft governance by hard facts]]）命题，揭示经合组织如何依托跨国量化统测生产客观硬事实以确立[[Cognitive Authority|认知权威]]并充当[[Boundary Spanner|知识经纪人]]，通过[[Inquisitive Mode of Governance|探究模式]]定义问题与[[Meditative Mode of Governance|调解模式]]推介最佳实践，打破主权国家教育管辖权边界，展现出全球教育政策的“[[OECD-fication|经合组织化]]”（OECD-fication）。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271, 277–279)]]
 >   - **2021** 启动[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]，推动成员国从被动接受指标排名转向主动建构国家级[[Evidence Ecosystem|证据生态系统]]。
 
 ---
@@ -275,7 +284,7 @@ updated: 2026-10-23
 > - **研究开发与跨国标准化施测** 研制标准化测评框架与背景[[Questionnaire|问卷]]，指导各参与国设立的国家项目中心（National Project Centers）进行严密的本土化双向翻译、抽样与计算机化施测。
 > - **质量控制与同行审查** 采用项目反应理论（Item Response Theory，IRT）与潜[[Variable|变量]]模型消除跨文化题项偏差，通过发布国别政策[[Peer Debriefing|同行审议]]报告（Peer Review）形成具有广泛舆论反响的国际比较结论。
 > - **协商性政策转移与软法治理机制（Negotiated Policy Transfer）** 在跨国[[Policy Borrowing|政策借用]]连续谱中，经合组织扮演典型的协商性转移中介枢纽（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）。区别于超国家金融机构的直接附带条件强制，经合组织主要依托不具法律约束力的软法建议（soft law）、国别同行审议（peer review）以及对标最佳实践（best practice），通过营造横向[[Peer Pressure|同侪压力]]推动主权国家在多边协商与自愿吸纳中开展制度调适与政策改革。
-> - **探究模式与调解模式协同（Inquiry and Mediation Modes）** 经合组织将治理运作分解为两大互补模式：探究模式（Inquiry Mode）负责加工复杂的原始数据并建立因果解释与问题定义；调解模式（Mediation Mode）则向各国游说并推介基于[[Human Capital Theory|人力资本理论]]的最佳实践。双模协同使经合组织在不具备行政强制力与司法管辖权的情况下，通过向国内行动者提供无可争议的实证论据，间接重构主权国家内部的政治博弈与权力格局。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 269–271, 277–278)]]
+> - **[[Inquisitive Mode of Governance|探究模式]]与[[Meditative Mode of Governance|调解模式]]协同（Inquiry and Mediation Modes）** 经合组织将治理运作分解为两大互补模式：探究模式（Inquiry Mode）负责加工复杂的原始数据并建立因果解释与问题定义；调解模式（Mediation Mode）则向各国游说并推介基于[[Human Capital Theory|人力资本理论]]的最佳实践。双模协同使经合组织在不具备行政强制力与司法管辖权的情况下，通过向国内行动者提供无可争议的实证论据，间接重构主权国家内部的政治博弈与权力格局。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 269–271, 277–278)]]
 > - **双轨发布与媒介定制策略** 数据发布采取技术中立的国别简报（Country Notes）与高度倡导性的[[Whole Earth Catalog|全球概览]]（[[PISA]] in Focus 及演示幻灯片）双轨分流：前者呈现统计指标，声明数据不直接推导具体政策处方；后者面向大众媒体定制口号化警句与图表分类，为国内行动者选择性剪裁留出缝隙。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 114–116)]]
 
 ---
@@ -291,7 +300,7 @@ updated: 2026-10-23
 > - **前沿技能与课程框架研制** 研制并推广“学习罗盘2030”（Learning Compass 2030）与[[Social-Emotional Learning\|社会情感能力]]测评（Survey on Social and Emotional Skills，SSES），持续引导全球基础教育课程改革的价值走向。
 > - **[[Policy Brokerage|政策中介]]与跨国经验横向借鉴** 以 PISA 基准测验为枢纽，打包同行评议、国别政策审查与教育全球定位系统（[[Education GPS]]）数字平台，系统推介高表现国家改革经验，为成员国提供定制化政策方案。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 543–545)]]
 > - **科技创新指标与[[National Innovation System|国家创新系统]]评价体系（DSTI 业务线）** 依托经合组织科学、技术与创新司（Directorate for Science, Technology and Innovation, DSTI）及其下属科技政策委员会（CSTP），制定并持续修订《[[Frascati Manual|弗拉斯卡蒂手册]]》（研发统计）、《奥斯陆手册》（创新数据收集）与《专利统计手册》；发布两年度旗舰报告《OECD 科学、技术与工业记分牌》（*OECD Science, Technology and Industry Scoreboard*），构建包括研发强度、企业技术改造、高技术产业贸易以及国家[[Systems of Innovation|创新系统]]互动学习在内的多维评估指标。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–11)]]
-> - **教育[[Epistemic Governance\|知识治理]]与[[Knowledge Mobilisation\|知识动员]]体系研发（[[Centre for Educational Research and Innovation\|CERI]] 业务线）** 依托教育研究与[[Innovation Hub\|创新中心]]（CERI）长期推进教育研发（R&D）与知识管理议程。相继推出 2007 年旗舰专著《Evidence in Education》、2010 年《The Nature of Learning》学习科学工程、教师知识调查（Teacher Knowledge Survey，TKS），并于 2021 年立项实施跨越 29 国 37 个教育系统的[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]，开创涵盖结构、关系、质量、文化与能力的[[Evidence Ecosystem\|证据生态系统]]宏观政策诊断工具；2024 年发布政策报告《大臣，是的，有证据》（*Yes Minister, Yes Evidence*），探讨促进教育政策证据利用的组织结构与公职人员方法技能；2025 年发布全球调查综合报告《有时人人都关心使用教育研究》（*Everybody Cares About Using Education Research Sometimes*），综合全球 288 家知识中介机构调研结果，绘制知识动员活动、制度障碍与自适应证据生态系统图景。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–27)]]; [[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, p. 344)]]
+> - **教育[[Epistemic Governance\|知识治理]]与[[Knowledge Mobilisation\|知识动员]]体系研发（[[Centre for Educational Research and Innovation\|CERI]] 业务线）** 依托教育研究与[[Innovation Hub\|创新中心]]（CERI）长期推进教育研发（R&D）与知识管理议程。相继推出 2007 年旗舰专著《Evidence in Education》、2010 年《The Nature of Learning》学习科学工程、教师知识调查（Teacher Knowledge Survey，TKS），并于 2021 年立项实施跨越 29 国 37 个教育系统的[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]，开创涵盖结构、关系、质量、文化与能力的[[Evidence Ecosystem\|证据生态系统]]宏观政策诊断工具；2024 年发布政策报告《大臣，是的，有证据》（*Yes Minister, Yes Evidence*），探讨促进教育政策证据利用的组织结构与公职人员方法技能；2025 年发布全球调查综合报告《有时人人都关心使用教育研究》（*Everybody Cares About Using Education Research Sometimes*），综合全球 288 家[[Educational Brokerage Agency|知识中介机构]]调研结果，绘制知识动员活动、制度障碍与自适应证据生态系统图景。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–27)]]; [[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, p. 344)]]
 
 > [!citation-card] 《经济合作与发展组织公约》第一条（1960年）
 > 经合组织（OECD）的宗旨应为促进旨在实现以下目标的政策：
@@ -315,7 +324,7 @@ updated: 2026-10-23
 > [!indicators] 影响力维度与指标
 > - **成员覆盖与全球代表性** 从成立初期的 20 个欧美成员国扩张至当前 38 个成员国，[[PISA]] 测评覆盖逾 80 个国家和经济体，参与国经济总量占全球 80% 以上。
 > - **国际组织网络核心度** 战争关联（COW）国际组织数据库普查显示，在全球 495 个政府间组织中，仅 20 个（4.0%）深度介入教育治理，经合组织成为全球教育治理网络的核心枢纽。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 278)]]
-> - **全球证据中介网络中枢地位** 在针对全球 654 个证据平台与机构的拓扑网络分析中，经合组织居于中心主群第 4 位（网络连接度 18，核心伙伴为联合国儿童基金会），牢牢占据全球多边知识生产与标准扩散的核心位置。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 20–22)]]
+> - **全球证据中介网络中枢地位** 在针对全球 654 个证据平台与机构的拓扑[[Network Analysis|网络分析]]中，经合组织居于中心主群第 4 位（网络连接度 18，核心伙伴为[[UNICEF|联合国儿童基金会]]），牢牢占据全球多边[[Knowledge Production|知识生产]]与标准扩散的核心位置。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 20–22)]]
 > - **[[Knowledge Production\|知识生产]]与学术渗透度** 发布的各类年度报告与实证微观数据库成为全球比较教育、教育经济学及公共政策学者最重要的实证来源，单年度成果引用量稳居跨国教育智库之首。
 > - **制度问责与国家治理重塑** 推动挪威、瑞士、德国及中国等数十个国家建立与国际标准对接的全国教育质量监测系统与循证督导评估体制。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]
 
@@ -397,7 +406,7 @@ updated: 2026-10-23
 > > [!axis] 公务员实证素养包装 vs 官僚政治周期与使能制度瓶颈
 > > 质询经合组织近年倡导的政策制定者证据技能框架是否将系统性制度供给缺陷转嫁为个体能力赤字。
 > >
-> > - **批判学者视角（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 经合组织在 2024 年《Yes Minister, Yes Evidence》报告中详细列出政策制定者应掌握的证据技能清单，将循证政策短板归结为公务员队伍的方法论素养不足；然而行政人员普遍受制于碎片化的政治咨询周期和对立党派的舆论压力，将系统性制度供给不足替换为个体胜任力缺失，导致基层官员在缺乏时间保障和容错机制的情境下承受双重问责压力。同时，经合组织 2025 年针对全球 288 家中介机构的调查亦证实，现实中象征性利用往往压倒工具性利用，知识中介生态系统仍面临严重的资源匮乏与制度断裂。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 346–348)]]
+> > - **批判学者视角（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 经合组织在 2024 年《Yes Minister, Yes Evidence》报告中详细列出政策制定者应掌握的证据技能清单，将循证政策短板归结为公务员队伍的方法论素养不足；然而行政人员普遍受制于碎片化的政治咨询周期和对立党派的舆论压力，将系统性制度供给不足替换为个体胜任力缺失，导致基层官员在缺乏时间保障和容错机制的情境下承受双重问责压力。同时，经合组织 2025 年针对全球 288 家中介机构的调查亦证实，现实中象征性利用往往压倒工具性利用，[[Knowledge Mediation|知识中介]]生态系统仍面临严重的资源匮乏与制度断裂。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 346–348)]]
 > > - **经合组织官方治理立场** 强调系统文化建设与公职人员证据能力的双轮驱动，主张建立长效反馈机制与差异化传播方案，通过有机自适应的中介生态系统连接学术研究与政策制定。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 346–347)]]
 
 > [!citation-card] 琼斯与科尔曼论经合组织在北方扩张对教科文组织的挤压

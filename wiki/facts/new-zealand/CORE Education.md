@@ -17,6 +17,7 @@ fact_related_color: "#dcfce7"
 org_type: Educational Consultancy & Charitable Trust
 headquarters: "Christchurch, New Zealand"
 established: 2003
+official_website: "https://core-ed.org/"
 related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
@@ -46,7 +47,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -56,6 +57,7 @@ updated: 2026-10-22
 
 > [!org-context] 成立背景与制度环境
 > - **成立时间 / 创设背景** 1998 年由德里克·温茅斯（Derek Wenmouth）与尼克·比洛斯（Nick Billowes）联合英国超媒体实验室（Ultralab UK）学者发起筹划；2004 年在基督城注册成立“南方超媒体实验室有限公司”（Ultralab South Ltd），并在 2006 年与坎特伯雷教育服务（Canterbury Education Services, [[Comparative and International Education Society|CES]]）合并重组为核心教育（CORE Education）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 76)]]
+> - **官方平台与在线门户** 官方在线门户为 [Tātai Aho Rau Core Education](https://core-ed.org/)，提供新西兰中小学与学前教育数字化资源、教师专业发展（PLD）方案与科研咨询服务。
 > - **总部地点 / 业务辐射** 总部设于新西兰基督城，在奥克兰与惠灵顿设有分部，业务覆盖新西兰全国公立中小学及学前教育机构。
 > - **法人属性与经费基础** 注册慈善信托（CORE Education Charitable Trust）全资控股商业有限责任公司（CORE Education Ltd）的双层法人架构；经费高度依附于新西兰教育部（Ministry of Education, MoE）的公办采购合同。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 76–82)]]
 > - **核心宗旨与法定职责** 组织章程规定其宗旨为：研究、应用并推广新型学习技术以促进教育发展；开发创新与富有成效的学习环境；协助教育机构与教师获取并理解现代教育资源。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 76)]]

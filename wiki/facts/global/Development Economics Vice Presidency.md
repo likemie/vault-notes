@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[World Bank]]"
+  - "[[World Bank Economic Review]]"
   - "[[Open Knowledge Repository]]"
   - "[[EdStats]]"
   - "[[OECD]]"
@@ -68,7 +69,7 @@ updated: 2026-10-23
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 伴随世界银行向发展实证研究转型的制度化进程，于 1980 年代在高级副行长兼首席经济学家建制下正式组建常设研究局。
-> - **官方平台与科研成果库** 官方专属科研与出版门户为 [World Bank Research & Publications](https://www.worldbank.org/en/research)，集中发布发展经济学前沿研究论文、政策研究工作报告（WPS）与数据工具。
+> - **官方平台与科研成果库** 官方专属科研与出版门户为 [World Bank Research & Publications](https://www.worldbank.org/en/research)，集中发布发展经济学前沿学术成果、政策研究工作报告（WPS）与数据工具。
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区世界银行集团大楼，业务辐射全球所有成员国及国际发展学术界。
 > - **法人属性与经费基础** 隶属于世界银行集团的最高常设科研部门；拥有独立的专属科研预算，在 2009 至 2012 年间研发支出达 2.44 亿美元，占全行行政预算的 2.9%。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 5)]]
 > - **核心宗旨与法定职责** 开展不受短期借贷业务干扰的基础性独立学术研究，构建全球发展指标标准，为国际多边援助与国家经济政策提供严密实证支撑。
@@ -80,7 +81,7 @@ updated: 2026-10-23
 > [!org-evolution] 组织发展历程
 > - **1982–1996** **实体化学术建制奠基期**
 >
->   整合分散的国别经济调查力量，确立专职研究员制度与首席经济学家领衔机制；1986 年创办旗舰学术期刊《[[World Bank|世界银行]]经济评论》（WBER）与《世界银行研究观察》（WBRO）。
+>   整合分散的国别经济调查力量，确立专职研究员制度与首席经济学家领衔机制；1986 年创办旗舰学术期刊《[[World Bank|世界银行]]经济评论》（[[World Bank Economic Review|WBER]]）与《世界银行研究观察》（WBRO）。
 >
 >   - **1982** 正式确立发展经济学研究副行长建制，强化独立研究职能。
 >   - **1986** 创刊出版 WBER，确立面向全球南方学界的学术赠阅体系。
@@ -120,7 +121,7 @@ updated: 2026-10-23
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **旗舰综合性发展报告** 统筹编写并按年度发布《世界发展报告》（WDR），引领全球发展议程与理论[[Paradigm|范式]]演进。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4, 7)]]
-> - **顶级同行评议学术期刊** 主办《[[World Bank|世界银行]]经济评论》（The World Bank Economic Review, WBER）与《世界银行研究观察》（The World Bank Research Observer, WBRO），直接影响发展经济学学术[[Discourse|话语]]。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
+> - **顶级同行评议学术期刊** 主办《[[World Bank|世界银行]]经济评论》（[[World Bank Economic Review|The World Bank Economic Review]], WBER）与《世界银行研究观察》（The World Bank Research Observer, WBRO），直接影响发展经济学学术[[Discourse|话语]]。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
 > - **跨国微观与宏观[[Data Infrastructure|数据基础设施]]** 主导构建[[EdStats]]、全球微观生活水平测量调查（LSMS）等实证数据资产。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4, 7)]]
 > - **政策研究工作文稿系列** 持续分发政策研究工作文稿（Policy Research Working Papers, PRWP），年发文量远超传统大学同类院系。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
 
@@ -136,7 +137,7 @@ updated: 2026-10-23
 > [!indicators] 影响力维度与指标
 > - **专职编制与预算强度** 专职研究人员数（122 名）、四年期专属研发预算规模（2.44 亿美元）。
 > - **学术文献产出总量** 累计专著、期刊与工作文稿规模（全行逾 19,000 份，教育领域逾 6,900 份）。
-> - **学术网络辐射与免费赠阅** WBER 向非[[OECD|经合组织]]国家学术人员及公共机构免费赠阅量（9,500 余份）。
+> - **学术网络辐射与免费赠阅** [[World Bank Economic Review|WBER]] 向非[[OECD|经合组织]]国家学术人员及公共机构免费赠阅量（9,500 余份）。
 
 > [!finding-cards] 关键成效与辐射影响
 > - **发文量全面超越全球顶尖大学** 扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017]]）的文献计量显示，[[World Bank|世行]]在教育领域的学术产出强度达到 13 所世界顶尖大学平均产出水平的 3 倍，在总量上大幅领先斯坦福大学、哥伦比亚大学与牛津大学等传统名校。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 5–6)]]

@@ -11,9 +11,9 @@ aliases:
 summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动与战术模型；经历从单向推送、协同生产到系统生态的三代演进，并在当代走向权力共享的证据民主化与长效伙伴关系；在宏观政策生命周期中面临政治过滤，在中观上受治理机制制约，在微观上表现为知觉控制驱动的专业教学整合行为。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 121
-related_level: 12
-related_stars: "💎💎💎💎"
+related_count: 131
+related_level: 13
+related_stars: "💎💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - field/educational-policy-reform
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Performativity]]"
   - "[[School Inspection]]"
   - "[[Democratising Evidence]]"
+  - "[[Science of Using Science]]"
   - "[[Metascience]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Research Translation]]"
@@ -54,6 +55,9 @@ related_concepts:
   - "[[Evidence Era]]"
   - "[[Policy-Based Evidence-Making]]"
   - "[[Gatekeepers]]"
+  - "[[Evidence Culture]]"
+  - "[[Data Literacy]]"
+  - "[[Evidence-Informed Decision-Making]]"
   - "[[School Leadership]]"
   - "[[Strategic Compliance]]"
   - "[[Contributory Expertise]]"
@@ -65,6 +69,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Internal Validity]]"
   - "[[Knowledge Production]]"
+  - "[[Tacit Knowledge]]"
   - "[[Deficit Framing]]"
   - "[[Methodological Individualism]]"
   - "[[Self-report Bias]]"
@@ -76,7 +81,6 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Falsification]]"
   - "[[Surplus of Evidence]]"
-  - "[[Evidence-Informed Decision-Making]]"
   - "[[Evidence-Informed Practice]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
@@ -88,6 +92,7 @@ related_theories:
   - "[[Theory of Planned Behavior]]"
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Interpretive Policy Analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Framework Synthesis]]"
@@ -120,14 +125,18 @@ related_facts:
   - "[[Education International]]"
   - "[[National Education Association]]"
   - "[[National Education]]"
+  - "[[OECD]]"
+  - "[[UNESCO]]"
+  - "[[World Bank]]"
+  - "[[International Institute for Educational Planning]]"
   - "[[Education Endowment Foundation]]"
   - "[[Literacy Octopus]]"
   - "[[Swedish Schools Inspectorate]]"
   - "[[Common Core State Standards]]"
-  - "[[OECD]]"
   - "[[Strengthening the Impact of Education Research Project]]"
   - "[[What Works Network]]"
   - "[[Centre for Educational Research and Innovation]]"
+  - "[[Global Education Evidence Advisory Panel]]"
   - "[[UN Sustainable Development Goals]]"
 related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
@@ -142,6 +151,7 @@ related_arguments:
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Mausethagen_2025_ERR]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
@@ -237,7 +247,7 @@ updated: 2026-10-23
 为了破除宏观技术理性垄断与微观表演性异化，当代研究利用理论开启了以[[Democratising Evidence|证据民主化]]、伙伴关系与元治理为标志的深层价值重构。
 
 > [!concept-lens] 当代价值范式重构与元治理生态
-> - **研究利用之科学元治理框架（Science of Using Science）** 研究利用不是依靠良好意愿或常识直觉自发实现的机械过程，而是一门需要专门研究的跨学科科学（[[Metascience|Research on Research]] Use）；[[Knowledge Mobilisation\|知识动员]]与中介机构自身必须构建严密的[[Theory of Change\|变革理论]]，扎根行为科学厘清[[Research Translation\|研究转化]]的微观因果机制，并对最终受益人成效开展独立因果检验。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 146–148, 157–158)]]
+> - **研究利用之科学元治理框架（[[Science of Using Science]]）** 研究利用是一门需要专门深入探究的跨学科科学（[[Metascience|Research on Research]] Use），无法仅凭良好意愿或常识直觉自发达成；[[Knowledge Mobilisation\|知识动员]]与中介机构自身必须构建严密的[[Theory of Change\|变革理论]]，扎根行为科学厘清[[Research Translation\|研究转化]]的微观因果机制，并对最终受益人成效开展独立因果检验。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 146–148, 157–158)]]
 > - **关系驱动型证据利用与反采矿式科研（Relational URE & Anti-extractive Research）** [[Vivian Tseng\|薇薇安·曾]]（Vivian Tseng；[[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022, pp. 219–222]]）提出反思传统学术界把实践一线和弱势社群视作数据采矿场的单向提取模式，主张超越一次性产出交付，依托研究与实践伙伴关系（[[Research-Practice Partnership]]，RPP）建立平等互信、权力共有与长效共生机制，并通过高校暂停终身教职评审计时钟等制度改革支持跨界协作。
 > - **[[Third Space Discourse\|第三空间话语]]机制（Third-Space [[Discourse]]）** 蒂娜·S·普罗伊茨（Tine S. Prøitz；[[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022, pp. 226–228]]）强调在学术研究界、政策制定者与教学实践界之间开辟中介性的第三空间，通过跨界行动者促成超越二元对立的杂合话语，协同平衡学术严谨性、政策紧迫性与实践情境性。
 > - **一线实践者知识主权与工会自主循证（Practitioner Ownership & Union-led Inquiry）** [[John Bangs\|约翰·班斯]]与埃梅谢·K·纳吉（John Bangs & Emese K. Nagy；[[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al., 2022, pp. 233–236]]）强调教师绝非外部研究证据的被动消费者，而是证据的协同创造者与所有者；以教育国际（[[Education International]]，EI）和[[National Education Association\|全美教育协会]]（[[National Education]] Association，NEA）为代表的教师专业组织通过开展独立实证研究，赋能一线专业自主权，抵御自上而下自发技术理性的行政规训。
@@ -295,7 +305,7 @@ updated: 2026-10-23
 > **双重反馈断裂与三维利用治理路径** 针对 103 国教育政策规划的实证审查表明，宏观政策层面的研究利用面临学术生产与决策实践之间、全球集中供给与本土情境需求之间的[[Two Broken Feedback Loops|双重反馈回路断裂]]。决策官员身处快节奏政治应对中，普遍缺乏研读长篇技术报告的时间与技能；克服断裂要求超越单向产品推送，通过适切产品、协同关系与制度使能（法定前置审核与高校考评改革）三维联动，并依托区域支持枢纽重塑政策研究利用生态。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 21–25, 41–42)]]
 
 > [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
-> **超国家话语隐喻、象征性利用与包容性生态重构** 基于对经合组织（OECD）、教科文组织（UNESCO）与世界银行（World Bank）6 份核心政策文本的解释性政策分析，超国家组织通过“爵士乐队”、“智能购买”等修辞隐喻塑造证据文化，将量化综合证据确立为优先认知层级；证据利用在行政实践中常异化为后置合法化的象征性辩护与仪式性重复（如 UNESCO IIEP 诊断建议的年复一年空转），且话语将政策转化阻碍个体化归咎于官员数据素养不足；真正的证据知情决策要求超越单向处方，确立涵盖宏观体制张力与认知正义的包容性证据生态模型。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 340, 347–351)]]
+> **超国家[[Discourse|话语]]隐喻、象征性利用与包容性生态重构** 基于对[[OECD|经合组织]]（OECD）、[[UNESCO|教科文组织]]（UNESCO）与[[World Bank|世界银行]]（World Bank）6 份核心政策文本的[[Interpretive Policy Analysis|解释性政策分析]]，超国家组织通过“爵士乐队”、“智能购买”等修辞隐喻塑造[[Evidence Culture|证据文化]]，将量化综合证据确立为优先认知层级；证据利用在行政实践中常异化为后置合法化的象征性辩护与仪式性重复（如 [[International Institute for Educational Planning|UNESCO IIEP]] 诊断建议的年复一年空转），且话语将政策转化阻碍个体化归咎于官员[[Data Literacy|数据素养]]不足；真正的[[Evidence-Informed Decision-Making|证据知情决策]]要求超越单向处方，确立涵盖宏观体制张力与认知正义的包容性证据生态模型。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 340, 347–351)]]
 
 ---
 
@@ -387,7 +397,7 @@ updated: 2026-10-23
 > - **2018 — 自发改善学校系统（[[Self-Improving School System|SISS]]）中的组织准备度与“[[Activity Traps|活动陷阱]]”批判** [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] 聚焦英格兰小学系统，揭示高意愿（76%–86%）与结构性准备不足（评价机制缺失 67%、假设反思匮乏 55%、分享平台缺乏 61%）之间的结构性割裂，并指出高利害问责导致学校陷入缺乏反思的“活动陷阱”。
 > - **2020s — 跨层治理机制、行为因果链条与程序性过滤** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 提炼出跨越个体、组织与系统的四类治理机制；Kazancı Tınmaz & Sezgin (2023) 将[[Theory of Planned Behavior|计划行为理论]]（TPB）融入研究利用量化测评，开发出包含研究使用子维度的 20 题 [[Research Literacy Scale for Teachers|RLS]] 工具；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] 开启程序性证据利用（Procedural research use）研究，实证揭示北欧五国政策制定中专家咨询与行政决策两阶段的剧烈证据过滤机制；[[Argument_Torres_2022_KMModels|Torres (2022b)]] 综合梳理微观行为改变框架（Langer et al., 2016）与教师三种声音冲突（Cain, 2015）。
 > - **2022 — [[OECD|经合组织]]跨国实证调查揭示促成机制与结构障壁的错配断裂** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Torres_2022_BarriersMechanisms|Torres, 2022a]]）全面测度 29 国 37 个教育系统教育部委在政策与实践维度的促成机制、结构性障壁与利用形态，实证揭示方案设计高频使用（70%）与多方审议对话萎缩（47%）的交易型病理，并诊断机制数量与障壁感知的错配悖论，倡导从碎片化单一项目走向高位系统协调与科研动力学管理。
-> - **2022 — 研究利用之科学与多臂因果试验裁决** [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] 提出“研究利用之科学”（Science of Using Science）元治理框架，确立以需求为牵引的生态拓扑模型（Figure 7.1）；依托全英[[What Works Network|有效性网络]]实践与[[Literacy Octopus|识字八爪鱼试验]]（Lord et al., 2017）多臂 [[Randomised Controlled Trials|RCT]] 因果实证，彻底推翻单向推送的信息赤字假说，确立了基于行为改变科学（[[COM-B Model|COM-B]]）与外部高利害问责制度咬合的研究利用新[[Paradigm|范式]]。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 148–153; Lord et al., 2017)]]
+> - **2022 — 研究利用之科学与多臂因果试验裁决** [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] 提出“研究利用之科学”（[[Science of Using Science]]）元治理框架，确立以需求为牵引的生态拓扑模型（Figure 7.1）；依托全英[[What Works Network|有效性网络]]实践与[[Literacy Octopus|识字八爪鱼试验]]（Lord et al., 2017）多臂 [[Randomised Controlled Trials|RCT]] 因果实证，彻底推翻单向推送的信息赤字假说，确立了基于行为改变科学（[[COM-B Model|COM-B]]）与外部高利害问责制度咬合的研究利用新[[Paradigm|范式]]。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 148–153; Lord et al., 2017)]]
 > - **2022 — 七大利益相关者全景论辩与[[Democratising Evidence|证据民主化]]转向** [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 50 周年专著（[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）汇聚来自资助机构、政府首脑、学术中介与教师组织的多元视角，全面反思[[Technical Rationality|技术理性]]下单一[[Evidence Standards|证据标准]]的霸权，正式确立以[[Democratising Evidence|证据民主化]]、研究与实践伙伴关系（[[Research-Practice Partnership|RPP]]）、[[Third Space Discourse|第三空间话语]]与教师专业主权为支柱的深层关系型研究利用进路。
 > - **2022 — 从证据质量向使用质量的范式跨越与 [[Quality Use of Research Evidence Framework|QURE]] 框架建构** [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] 在《教育研究》（*Educational Research*）发表里程碑论文，[[Systematic Review|系统综述]]跨卫生、社工、教育与政策四大领域 112 篇核心文献，正式提出“教育研究证据质量使用框架”（QURE），确立适切证据与审慎实施双核构件及个体-组织-系统三层使能机制，开辟了从二元采纳走向质态卓越的全新范式。
 > - **2011–2013 / 2022 — 政策组织内部的研究选择与文本化规程** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 依据 2011–2013 年[[Swedish Schools Inspectorate|瑞典学校督察局]]的访谈、会议观察与文件，[[Cohort Study|追踪研究]]知识如何被选择、转译为评估领域、写入知识综述并在报告定稿前被重写，把研究使用研究从“用了没有”推进到组织内部“谁选择、谁转译、谁删改”的流程分析。
@@ -429,7 +439,7 @@ updated: 2026-10-23
 > >
 > > - **技术专家与[[Evidence Standards|证据标准]]规训立场（Schneider, 2022）** 强调依托高阶因果证据库与标准化认证机制，严格规范循证干预的遴选与复制推广。
 > > - **证据民主化与实践者主权立场（Tseng, 2022; [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）** 批判外部研究者的采矿式数据索取与技术专家治理对一线专业自主权的侵蚀，主张通过 [[Research-Practice Partnership|RPP]] 共享[[Knowledge Production|知识生产]]权力，确立教师作为证据所有者而非被动消费者的主体地位。
-> > - **认知正义与多源包容立场（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 批判超国家组织将全球量化综合证据（如 GEEAP 智能购买清单）普遍主义化对地方实践情境的压制，主张在决策社群中为本土默会知识与边缘群体开辟审议空间，推进认识论正义。
+> > - **认知正义与多源包容立场（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 批判超国家组织将全球量化综合证据（如 [[Global Education Evidence Advisory Panel|GEEAP]] 智能购买清单）普遍主义化对地方实践情境的压制，主张在决策社群中为本土[[Tacit Knowledge|默会知识]]与边缘群体开辟审议空间，推进认识论正义。
 
 > [!tension] 核心张力：工具性处方套用 vs 专业[[Phronesis|实践智慧]]整合
 > - **外源处方执行立场（蓝方）** 主张教师应当严格依据高质量实证证据（如 [[Randomised Controlled Trials|RCT]] 与[[Meta-analysis|元分析]]处方）标准化重构教学流程，视偏差为忠实度不足。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, p. 131)]]

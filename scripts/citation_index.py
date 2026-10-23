@@ -12,6 +12,9 @@ Default behavior:
   4. Write citation/citation_full.json and citation/citation_ambiguous.json
      (same author-year groups with their APA 7 disambiguation rule, plus
      external author-year collisions recorded by scripts/metax_sync.py).
+  5. Collect unlinked short citations into citation/external_identities.json
+     and write citation/citation_external.json. MetaX collisions are not
+     part of that collection. --check does not scan or write those files.
 
 This script does not link body text. Use scripts/wiki_linker.py sync --citations-only for that.
 """
@@ -23,6 +26,7 @@ import json
 import os
 import re
 import subprocess
+import sys
 import unicodedata
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -807,6 +811,24 @@ def main() -> int:
     write_json(full, ambiguous, dry_run=args.dry_run)
     print(f"🔎 citation aliases: {len(full['items'])}")
     print(f"⚖️ ambiguous groups: {len(ambiguous['items'])}")
+
+    scripts = str(Path(__file__).resolve().parent)
+    if scripts not in sys.path:
+        sys.path.insert(0, scripts)
+    import citation_external
+    works = [
+        {
+            "base_key": item.base_key,
+            "aliases": item.aliases,
+            "doi": item.doi,
+            "isbn": item.isbn,
+            "citation": item.citation,
+        }
+        for item in items
+    ]
+    external_stats = citation_external.sync_external(works, dry_run=args.dry_run)
+    if external_stats.get("error"):
+        return 1
     return 1 if errors else 0
 
 

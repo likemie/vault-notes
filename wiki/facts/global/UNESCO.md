@@ -10,13 +10,14 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 89
-fact_related_level: 8
-fact_related_stars: "💎💎⭐⭐"
+fact_related_count: 90
+fact_related_level: 9
+fact_related_stars: "💎💎💎"
 fact_related_color: "#fecdd3"
 org_type: specialized-un-agency
 headquarters: "巴黎（法国）"
 established: "1945"
+official_website: "https://www.unesco.org/"
 tags:
   - fact/organization
   - theme/unesco
@@ -69,6 +70,7 @@ related_theories:
   - "[[Beech's Model of Discourse Circulation]]"
 related_methods:
   - "[[Classroom Observation]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Ideology Critique]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
@@ -86,6 +88,7 @@ related_persons:
 related_facts:
   - "[[Education for All]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[Global Education Monitoring Report]]"
   - "[[International Labour Organization]]"
   - "[[International Institute for Educational Planning]]"
   - "[[World Bank]]"
@@ -97,7 +100,6 @@ related_facts:
   - "[[UOE Data Collection]]"
   - "[[Lisbon Strategy]]"
   - "[[UNESCO Institute for Statistics]]"
-  - "[[Global Education Monitoring Report]]"
   - "[[International Monetary Fund]]"
   - "[[UNICEF]]"
   - "[[Learning Data Compact]]"
@@ -117,8 +119,8 @@ related_arguments:
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Wu_2025_ER]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
-  - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
   - "[[Argument_Campbell_2026_JPCC]]"
+  - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -133,6 +135,7 @@ updated: 2026-10-23
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1945 年 11 月 16 日由 37 个创始国在伦敦签署《联合国教科文组织宪章》，1946 年正式运作，作为反思二战浩劫的制度产物，确立“战争起源于人之思想，故务需于人之思想中筑起保卫和平之屏障”的立宪初衷。
+> - **官方门户与数据检索平台** 联合国教科文组织官方在线门户为 [UNESCO Official Website](https://www.unesco.org/)（中文主页：[联合国教科文组织](https://www.unesco.org/zh)），提供国际教育公约、可持续发展目标4（SDG 4）指标监测及《[[Global Education Monitoring Report|全球教育监测报告]]》（GEM Report）免费获取。
 > - **总部地点 / 业务辐射** 总部设于法国巴黎枫特努瓦广场，设有 53 个区域办事处及多个专业一类研究所，拥有 194 个成员国及 12 个准会员，具有普遍性的全球政府间合法代表权。
 > - **法人属性与经费基础** 独立的联合国专门政府间机构，经费由成员国按照联合国分摊比例缴纳的法定经常性预算（Assessed Contributions）与自愿性专项自愿捐款（Voluntary Contributions）共同构成。
 > - **核心宗旨与法定职责** 通过教育、科学、文化与传播促进国际合作，捍卫受教育权作为不可剥夺的基本人权，推动教育包容、性别平等与[[Lifelong Learning|终身学习]]，守护教育作为全球共同利益（Global Common Good）的公共属性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 541)]]
@@ -287,7 +290,7 @@ updated: 2026-10-23
 > > [!axis] 全球顶层实证供给垄断 vs 全球南方本土实践生态与知识公平
 > > 探讨联合国教科文组织下属机构在反思全球证据霸权与确立本土审议权方面的制度努力与现实瓶颈。
 > >
-> > - **全球南方本土困境与批判视角（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 教科文组织达喀尔办事处（UNESCO IIEP Dakar, 2025）指出，全球顶层证据库对大样本随机对照试验的偏好造成了认知排斥，将大量非洲本土高适应性草根创新排除在官方证据清单之外；同时 IIEP (2025)《战略审议》尖锐揭示外部宏观诊断报告在受援国往往陷入年年雷同却从未落地的仪式性重复，暴露出全球证据供给与地方治理现实的深刻断层。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 346–348)]]
+> > - **全球南方本土困境与批判视角（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 教科文组织达喀尔办事处（UNESCO IIEP Dakar, 2025）指出，全球顶层证据库对大样本[[Randomised Controlled Trials|随机对照试验]]的偏好造成了认知排斥，将大量非洲本土高适应性草根创新排除在官方证据清单之外；同时 IIEP (2025)《战略审议》尖锐揭示外部宏观诊断报告在受援国往往陷入年年雷同却从未落地的仪式性重复，暴露出全球证据供给与地方治理现实的深刻断层。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 346–348)]]
 > > - **教科文组织知识公平倡导** 教科文组织及其规划机构主张将证据界定为人际协作与系统共建的产物，倡导在发展中国家搭建扎根本土的常设政策审议与专业协调机制，通过确立区域自主权与一线实践者深度参与实现知识公平。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 346)]]
 >
 > > [!citation-card] 琼斯与科尔曼论《德洛尔报告》作为教科文组织应对南北夹击的地缘政治反击

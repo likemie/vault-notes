@@ -16,6 +16,7 @@ fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1995–至今"
 initiator_organization: "联合国教科文组织国际教育规划研究所与南部和东部非洲15国教育部"
+official_website: "https://www.seacmeq.org/"
 tags:
   - fact/program
   - region/africa
@@ -52,6 +53,7 @@ updated: 2026-10-23
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1995 年正式立项并启动首轮调查，常态化按多年度周期推进，已先后完成 SACMEQ I、II、III、IV 四轮跨国大规模调查。
+> - **官方平台与数据发布** 官方在线门户为 [SEACMEQ (SACMEQ)](https://www.seacmeq.org/)（亦可查阅教科文组织国际教育规划研究所专题库 [IIEP-UNESCO SACMEQ](https://www.iiep.unesco.org/)），提供历轮东南非区域测评报告、政策简报与抽样技术文档。
 > - **发起方与资助机制** 发起方为 [[UNESCO]] IIEP 及 15 个非洲成员国教育部，运行经费依托成员国教育部常态会费分摊，并获得荷兰政府、瑞士发展合作署及多边机构定向赠款资助。
 > - **覆盖范围与对象** 覆盖博茨瓦纳、肯尼亚、莱索托、马拉维、毛里求斯、莫桑比克、纳米比亚、塞舌尔、南非、斯威士兰、坦桑尼亚、乌干达、赞比亚与津巴布韦等 15 个国家，每轮抽样数万名小学六年级学生及其教师与校长。
 > - **核心问题导向** 针对[[Education for All|全民教育]]（EFA）普及背景下非洲学校生师比失衡、教材匮乏、读写算术能力下滑及城乡教育资源极端不均衡等严峻挑战。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 16)]]

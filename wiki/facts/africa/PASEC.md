@@ -16,6 +16,7 @@ fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "1991–至今"
 initiator_organization: "法语国家教育部部长会议（CONFEMEN）"
+official_website: "https://pasec.confemen.org/"
 tags:
   - fact/program
   - region/africa
@@ -51,6 +52,7 @@ updated: 2026-10-23
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1991 年发起成立，早期以国别诊断为主，2014 年起改组为四年至五年一轮的跨国标准化同步测评，已成功实施 PASEC2014 与 PASEC2019 等大型跨国轮次。
+> - **官方平台与数据发布** 官方在线门户为 [PASEC CONFEMEN](https://pasec.confemen.org/)，提供历轮非洲跨国测评报告、分析框架及微观数据集公开获取。
 > - **发起方与资助机制** 由拥有 40 余个成员国和政府的法语国家教育部长会议（CONFEMEN）主导，法国开发署（AFD）、[[Global Partnership for Education|全球教育伙伴关系]]（GPE）与瑞士发展合作署提供长期资助。
 > - **覆盖范围与对象** 重点覆盖贝宁、布基纳法索、布隆迪、喀麦隆、科特迪瓦、几内亚、马达加斯加、尼日尔、塞内加尔、多哥、刚果（布）、刚果（金）等十余个法语非洲国家，抽样数千所学校的数万名小学生。
 > - **核心问题导向** 针对法语西非与中非地区极高的小学[[Grade Retention|留级]]率、早期识字困难、法语教学语言与本土母语转换障碍及合格小学师资匮乏等长期困境。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 16)]]

@@ -18,6 +18,7 @@ fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "1994–至今"
 initiator_organization: "联合国教科文组织拉丁美洲和加勒比地区教育办事处（UNESCO OREALC）与拉美19国教育部"
+official_website: "https://www.unesco.org/santiago"
 tags:
   - fact/program
   - region/latin-america
@@ -52,6 +53,7 @@ updated: 2026-10-23
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1994 年在墨西哥正式发起成立，以 6–7 年为一大周期持续推行，已相继完成 PERCE（1997）、SERCE（2006）、TERCE（2013）与 ERCE（2019）四轮大规模跨国测评。
+> - **官方平台与数据发布** 官方研究与数据门户依托联合国教科文组织圣地亚哥办事处 [UNESCO Santiago (LLECE)](https://www.unesco.org/santiago) 运营，提供历次拉美学业调查（ERCE）报告与数据库公开检索。
 > - **发起方与资助机制** 由 UNESCO OREALC 担任常设协调秘书处，各成员国教育部指派常任国家协调员并分摊测试费用，获得美洲开发银行（[[Inter-American Development Bank|IDB]]）等多边机构赠款资助。
 > - **覆盖范围与对象** 覆盖阿根廷、巴西、智利、哥伦比亚、哥斯达黎加、古巴、厄瓜多尔、危地马拉、洪都拉斯、墨西哥、巴拿马、巴拉圭、秘鲁、多米尼加、乌拉圭等 19 国，每轮样本覆盖逾十万名中小学生。
 > - **核心问题导向** 针对拉丁美洲极端的社会阶层贫富差距在教育系统中的投射，系统诊断边缘原住民、农村儿童与城市贫困阶层的学业差距。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 16)]]

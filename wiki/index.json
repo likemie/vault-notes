@@ -6090,6 +6090,17 @@
     ]
   },
   {
+    "title": "Horses for Courses Principle",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Horses for Courses Principle.md",
+    "aliases": [
+      "证据适切性原则",
+      "问题与证据匹配原则",
+      "Horses for Courses",
+      "证据问题适切性原则"
+    ]
+  },
+  {
     "title": "Iatrogenic Effects in Education",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Iatrogenic Effects in Education.md",
@@ -6841,6 +6852,17 @@
       "教学督导",
       "外部学校督导",
       "educational inspection"
+    ]
+  },
+  {
+    "title": "Science of Using Science",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Science of Using Science.md",
+    "aliases": [
+      "使用科学的科学",
+      "证据利用科学",
+      "证据利用机制分类学",
+      "Science of Using Science Framework"
     ]
   },
   {
@@ -19228,6 +19250,17 @@
     ]
   },
   {
+    "title": "Complex Systems Model of Evidence",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Complex Systems Model of Evidence.md",
+    "aliases": [
+      "复杂系统证据模型",
+      "复杂系统证据框架",
+      "Complex Systems Model",
+      "证据的复杂系统模型"
+    ]
+  },
+  {
     "title": "Critical Pluralism",
     "type": "theory",
     "path": "wiki/theories/educational-policy-reform/Critical Pluralism.md",
@@ -19339,6 +19372,18 @@
       "研究使用治理机制",
       "研究使用的跨层治理机制",
       "Four Governing Mechanisms"
+    ]
+  },
+  {
+    "title": "Knowledge-to-Action Cycle",
+    "type": "theory",
+    "path": "wiki/theories/educational-policy-reform/Knowledge-to-Action Cycle.md",
+    "aliases": [
+      "KTA Cycle",
+      "知识到行动循环",
+      "KTA 循环",
+      "KTA Process Model",
+      "知识到行动过程模型"
     ]
   },
   {

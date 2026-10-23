@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -105,6 +105,179 @@ updated: 2026-10-22
 >     F --> G["核心纳入文献集<br>(绘制文献地图 / 结构化摘要)"]
 >     G --> H["文献综述论证建构"]
 > ```
+
+---
+
+### 检索资源与学术数据库
+
+> [!index-table] 主要学术数据库
+> | 数据库 | 特征 |
+> |---|---|
+> | [ERIC](https://eric.ed.gov) | 教育学期刊、报告、会议论文；免费，含在线词表可精确检索，1966 年至今 140 万条 |
+> | [Google Scholar](https://scholar.google.com) | 跨学科学术搜索，含论文、学位论文、图书；免费，自动统计引用次数 |
+> | [PubMed](https://pubmed.ncbi.nlm.nih.gov) | 生物医学与生命科学；免费，1700 万条引文 |
+> | [ProQuest](https://www.proquest.com) | 综合学术内容库，全球最大的学位论文收藏；机构订阅 |
+> | [EBSCO](https://www.ebsco.com) | 综合性数据库，350+ 专业子库；机构订阅，含 British Education Index |
+> | [Scopus](https://www.scopus.com) | 同行评审文献摘要与引文数据库；机构订阅，支持引文追踪 |
+> | [DOAJ](https://doaj.org) | 开放获取期刊目录，700 万篇文章全免费；无需订阅 |
+> | [知网（CNKI）](https://www.cnki.net) | 中文学术期刊、硕博论文、会议、年鉴；[高级检索](https://kns.cnki.net/kns8s/AdvSearch?classid=YSTT4HG0) 支持多字段组合 |
+> | [SCI-Hub](https://sci-hub.sg) | 通过 DOI 获取付费论文全文；域名可能变动 |
+
+> [!index-table] 研究协会与组织
+> | 组织 | 说明 |
+> |---|---|
+> | [AERA](https://www.aera.net) | 美国教育研究协会，年会、期刊（AERJ, RER, EEPA 等）、研究网络 |
+> | [BERA](https://www.bera.ac.uk) | [[British Educational Research Association\|英国教育研究协会]]，年会、期刊（BERJ）、伦理指南 |
+> | [EERA](https://www.eera.ac.uk) | 欧洲教育研究协会，欧洲教育研究年会（ECER） |
+> | [ACER](https://www.acer.edu.au) | 澳大利亚教育研究理事会，[[PISA]] 澳洲实施方、[[Evaluation Research\|评估研究]] |
+> | [SERA](https://www.sera.ac.uk) | 苏格兰教育研究协会，年会、网络 |
+> | [NFER](https://www.nfer.ac.uk) | 英国国家教育研究基金会，大规模教育评估与政策研究 |
+> | [CEM](https://www.cem.org) | 课程评估与监测中心，全球最大的教育监测机构之一 |
+> | [HKERA](https://www.hkera.org) | 香港教育研究协会 |
+> | [WERA](https://www.weraonline.org) | 世界教育研究协会，[[International Education\|国际教育]]研究网络 |
+> | [ESRC](https://www.ukri.org/councils/esrc) | 英国经济与社会研究理事会，教育研究资助机构 |
+
+> [!index-table] 政府与统计网站
+> | 资源 | 说明 |
+> |---|---|
+> | [ONS](https://www.ons.gov.uk) | 英国国家统计署，人口、经济、社会统计数据 |
+> | [UK Data Service](https://ukdataservice.ac.uk) | 英国社会科学数据仓储，含大型追踪调查数据 |
+> | [UNESCO](https://www.unesco.org) | 全球教育、科学、文化统计与政策报告 |
+> | [OECD Education](https://www.oecd.org/education) | PISA、TALIS、[[Education at a Glance]] 等国际比较数据 |
+> | [NCES](https://nces.ed.gov) | 美国教育统计，含 [[National Assessment of Educational Progress\|NAEP]]、Digest of Education Statistics |
+> | [World Bank](https://www.worldbank.org) | 全球发展数据，含教育支出、入学率等跨国指标 |
+> | [EU Gateway](https://european-union.europa.eu) | [[EU\|欧盟]]政策、统计（Eurostat）与法律文件 |
+> | [CESSDA](https://www.cessda.org) | 欧洲社会科学数据档案联盟，跨国数据检索 |
+> | [Council of Europe](https://www.coe.int) | 欧洲人权、教育、文化政策 |
+> | [HESA](https://www.hesa.ac.uk) | 英国高等教育统计局，学生、教职工、财务数据 |
+> | [GSR](https://www.gsr.gov.uk) | 英国政府社会研究，方法论与数据服务 |
+> | [ICPSR](https://www.icpsr.umich.edu) | 美国校际政治与社会研究数据联盟，需机构订阅 |
+> | [Eurydice](https://eurydice.eacea.ec.europa.eu) | 欧盟教育制度比较数据 |
+> | [CLS](https://www.cls.ioe.ac.uk) | 英国[[Cohort Study\|队列研究]]，纵向追踪数据（1958、1970、2000+） |
+> | [data.gov.uk](https://data.gov.uk) | 英国政府开放数据，含 DfE 教育统计 |
+> | [TIMSS / PIRLS](https://nces.ed.gov/timss/) | 国际数学与科学[[Trend Study\|趋势研究]]数据 |
+
+> [!index-table] 图书馆与档案
+> | 资源 | 说明 |
+> |---|---|
+> | [Internet Archive](https://archive.org) | 全球最大的互联网数字档案库，含网页回溯（Wayback Machine）、千万册图书、音视频、软件 |
+> | [Library of Congress](https://www.loc.gov) | 美国国会图书馆，全球最大图书馆，海量数字化馆藏 |
+> | [British Library](https://explore.bl.uk) | 大英图书馆，1.5 亿件藏品，集成目录 |
+> | [Library Hub Discover](https://discover.libraryhub.jisc.ac.uk) | 英国 170+ 高校图书馆联合目录，原 COPAC |
+> | [Virtual Library](http://vlib.org) | 在线虚拟图书馆目录 |
+> | [NDLTD](https://www.ndltd.org/find) | 全球学位论文数字图书馆，跨国检索 |
+> | [Aslib Index to Theses](https://www.theses.com) | 英国学位论文索引 |
+> | [AbeBooks](https://www.abebooks.com) | 旧书、绝版书与珍本检索 |
+
+> [!index-table] 期刊与出版平台
+> | 平台 | 说明 |
+> |---|---|
+> | [Springer](https://link.springer.com) | 科学、技术、医学（STM）文献，含图书、期刊、参考工具书 |
+> | [Elsevier](https://www.elsevier.com) | 科学、技术、医学文献，含 ScienceDirect 全文平台 |
+> | [Wiley](https://onlinelibrary.wiley.com) | 多学科期刊与在线图书，含 Cochrane Library |
+> | [JSTOR](https://www.jstor.org) | 人文社科回溯期刊全文库，含艺术、历史、教育等领域 |
+> | [Sage](https://uk.sagepub.com) | 社会科学与教育学期刊，研究方法丛书 |
+> | [Taylor & Francis](https://taylorfrancis.com) | 教育、社科等人文领域期刊平台 |
+> | [Emerald](https://www.emeraldinsight.com) | 管理学、教育、图书馆学等期刊 |
+
+> [!index-table] CSSCI（2025–2026）来源期刊（教育学）
+> | 期刊名称 | 主办单位与定位 |
+> |---|---|
+> | [北京大学教育评论](https://navi.cnki.net/knavi/journals/BJPL/detail) | 北京大学主办，综合性高等教育学术评论 |
+> | [比较教育研究](https://navi.cnki.net/knavi/journals/BJJY/detail) | 北京师范大学主办，国际与比较教育研究核心期刊 |
+> | [大学教育科学](https://navi.cnki.net/knavi/journals/JXGJ/detail) | 湖南大学、中国机械工业教育协会主办，高等教育理论与实践研究 |
+> | [电化教育研究](https://navi.cnki.net/knavi/journals/DHJY/detail) | 西北师范大学、中国电化教育研究会主办，教育技术学核心期刊 |
+> | [复旦教育论坛](https://navi.cnki.net/knavi/journals/GWZX/detail) | 复旦大学主办，高等教育改革与大学治理学术论坛 |
+> | [高等工程教育研究](https://navi.cnki.net/knavi/journals/GDGJ/detail) | 华中科技大学主办，[[Engineering Education\|工程教育]]理论与工程创新研究 |
+> | [高等教育研究](https://navi.cnki.net/knavi/journals/HIGH/detail) | 华中科技大学、中国高等教育学会主办，高等教育学综合性期刊 |
+> | [高校教育管理](https://navi.cnki.net/knavi/journals/ZJSK/detail) | 江苏大学主办，高校内部治理与高等教育管理政策研究 |
+> | [国家教育行政学院学报](https://navi.cnki.net/knavi/journals/GJXZ/detail) | 国家教育行政学院主办，教育行政体制与教育治理现代化研究 |
+> | [湖南师范大学教育科学学报](https://navi.cnki.net/knavi/journals/FLJY/detail) | 湖南师范大学主办，教育基础理论与多学科交叉研究 |
+> | [华东师范大学学报（教育科学版）](https://navi.cnki.net/knavi/journals/HDXK/detail) | 华东师范大学主办，教育部名刊工程入选学术期刊 |
+> | [江苏高教](https://navi.cnki.net/knavi/journals/JSGJ/detail) | 江苏省高等教育学会主办，地方高校改革与高等教育区域发展研究 |
+> | [教师教育研究](https://navi.cnki.net/knavi/journals/GDSZ/detail) | 北京师范大学、华东师范大学主办，教师专业发展与教师教育理论 |
+> | [教育发展研究](https://navi.cnki.net/knavi/journals/SHGJ/detail) | 上海市[[Institute of Education Sciences\|教育科学研究院]]主办，宏观教育政策分析与教育战略规划 |
+> | [教育科学](https://navi.cnki.net/knavi/journals/JYKO/detail) | 辽宁师范大学主办，教育学基础理论与经验实证研究 |
+> | [教育科学研究](https://navi.cnki.net/knavi/journals/JYKY/detail) | 北京市教育科学研究院主办，侧重基础教育改革与教育实证探索 |
+> | [教育实践与研究](https://jepr.ntue.edu.tw/) | 国立台北教育大学主办，教育实务与课程教学研究（TSSCI / CSSCI 来源） |
+> | [教育学报](https://navi.cnki.net/knavi/journals/XKJY/detail) | 北京师范大学主办，教育学一级学科综合性学术期刊 |
+> | [教育研究](https://navi.cnki.net/knavi/journals/JYYJ/detail) | 中国教育科学研究院主办，全国教育科学综合性权威学术期刊 |
+> | [教育研究与实验](https://navi.cnki.net/knavi/journals/YJSY/detail) | 华中师范大学主办，侧重教育实验探索与实证研究方法 |
+> | [教育与经济](https://navi.cnki.net/knavi/journals/JYJI/detail) | 华中师范大学、中国教育经济学研究会主办，教育经济学专业期刊 |
+> | [开放教育研究](https://navi.cnki.net/knavi/journals/KFJY/detail) | 上海开放大学主办，开放远程学习与[[Lifelong Learning\|终身教育]]理论研究 |
+> | [课程·教材·教法](https://navi.cnki.net/knavi/journals/KJJF/detail) | 人民教育出版社主办，中小学课程改革与教材教法理论研究 |
+> | [清华大学教育研究](https://navi.cnki.net/knavi/journals/QHDJ/detail) | 清华大学主办，高等教育理论与工程教育学科前沿 |
+> | [全球教育展望](https://navi.cnki.net/knavi/journals/WGJN/detail) | 华东师范大学主办，比较课程论与国际教育发展前沿 |
+> | [苏州大学学报（教育科学版）](https://navi.cnki.net/knavi/journals/SZJK/detail) | 苏州大学主办，教育哲学、实证探索与[[Comparative Education as a Cross-Sectional Area\|交叉学科]]研究 |
+> | [特殊教育研究学刊](https://specedu.ntnu.edu.tw/) | 国立台湾师范大学特殊教育学系主办，特殊教育核心学术期刊（TSSCI / CSSCI 来源） |
+> | [外国教育研究](https://navi.cnki.net/knavi/journals/WGJY/detail) | 东北师范大学主办，各国教育制度变革与国际比较研究 |
+> | [现代大学教育](https://navi.cnki.net/knavi/journals/YSJG/detail) | 中南大学、湖南省高等教育学会主办，高等教育理论与文化研究 |
+> | [现代教育技术](https://navi.cnki.net/knavi/journals/XJJS/detail) | 清华大学主办，教育[[Informationalization\|信息化]]、[[Intelligent Tutoring Systems\|智能教学系统]]与多媒体学习研究 |
+> | [现代远程教育研究](https://navi.cnki.net/knavi/journals/XDYC/detail) | 四川开放大学主办，终身教育体系与远程数字化学习 |
+> | [现代远距离教育](https://navi.cnki.net/knavi/journals/YUAN/detail) | 黑龙江开放大学主办，远程开放教育与终身学习理论 |
+> | [学前教育研究](https://navi.cnki.net/knavi/journals/XQJY/detail) | 中国学前教育研究会、长沙[[Normal School\|师范学院]]主办，幼儿教育学术期刊 |
+> | [学位与研究生教育](https://navi.cnki.net/knavi/journals/XWYY/detail) | 国务院学位委员会主办，研究生教育管理与学科建设研究 |
+> | [研究生教育研究](https://navi.cnki.net/knavi/journals/JIAO/detail) | 中国学位与研究生教育学会、中国科学技术大学主办，拔尖创新人才培养研究 |
+> | [远程教育杂志](https://navi.cnki.net/knavi/journals/YCJY/detail) | 浙江开放大学主办，开放教育技术与数字化教学前沿 |
+> | [中国大学教学](https://navi.cnki.net/knavi/journals/JXCY/detail) | 高等教育出版社主办，高校本科教学改革与专业课程建设 |
+> | [中国电化教育](https://navi.cnki.net/knavi/journals/ZDJY/detail) | 中央电化教育馆主办，教育信息化推进与智能教学应用 |
+> | [中国高等教育](https://navi.cnki.net/knavi/journals/ZGDJ/detail) | 中华人民共和国教育部主管，高校办学方向与高教政策指导 |
+> | [中国高教研究](https://navi.cnki.net/knavi/journals/ZGGJ/detail) | 中国高等教育学会主办，高等教育宏观政策与学术研究 |
+> | [中国教育学刊](https://navi.cnki.net/knavi/journals/ZJYX/detail) | 中国教育学会主办，面向基础教育理论与教育实践创新 |
+> | [中国特殊教育](https://navi.cnki.net/knavi/journals/ZDTJ/detail) | 中国教育科学研究院主办，特殊儿童心理发展与融合教育理论 |
+> | [中国远程教育](https://navi.cnki.net/knavi/journals/DDJY/detail) | 国家开放大学主办，数字化终身教育与开放远程教育发展 |
+
+> [!index-table] 学科特色期刊：中文教学
+> | 期刊名称 | 主办单位与定位 |
+> |---|---|
+> | [华文教学与研究](https://navi.cnki.net/knavi/journals/JNHW/detail) | 暨南大学华文学院主办，国际中文教育与华语传承核心期刊（CSSCI 来源） |
+> | [世界汉语教学](https://navi.cnki.net/knavi/journals/SJHY/detail) | 北京语言大学主办，教育部名刊工程入选，汉语二语教学与汉语研究权威期刊（CSSCI / 北大核心） |
+> | [语文建设](https://navi.cnki.net/knavi/journals/YWJS/detail) | 教育部语言文字报刊社主办，全国中文核心期刊，聚焦语文课程改革与中小学语文教学 |
+
+> [!index-table] 学科特色期刊：地理教学
+> | 期刊名称 | 主办单位与定位 |
+> |---|---|
+> | [地理教学](https://navi.cnki.net/knavi/journals/DLJX/detail) | 华东师范大学主办，中国教育学会地理教学专业委员会会刊，全国中文核心期刊 |
+> | [地理教育](https://navi.cnki.net/knavi/journals/DLJY/detail) | 重庆师范大学主办，聚焦中学地理课堂教学、地理研学与复习备考 |
+> | [中学地理教学参考](https://navi.cnki.net/knavi/journals/ZDCK/detail) | 陕西师范大学主办，教育部主管，全国中文核心期刊，专注于中学地理教学实践 |
+> | [历史地理研究](https://navi.cnki.net/knavi/journals/LSDL/detail) | 复旦大学、中国地理学会主办，教育部主管，CSSCI 来源期刊，聚焦历史地理学与人地关系研究 |
+
+> [!index-table] 学科特色期刊：比较教育
+> | 刊物名称 | 原名 / 中文名 | 创刊时间 | 主办单位与定位 |
+> |---|---|---|---|
+> | [比较教育研究](https://navi.cnki.net/knavi/journals/BJJY/detail) | 外国教育动态 | 1965 | 北京师范大学主办，国际与比较教育研究核心期刊（CSSCI 来源） |
+> | [全球教育展望](https://navi.cnki.net/knavi/journals/WGJN/detail) | 外国教育资料 | 1972 | 华东师范大学主办，比较课程论与国际教育发展前沿（CSSCI 来源） |
+> | [外国教育研究](https://navi.cnki.net/knavi/journals/WGJY/detail) | — | 1974 | 东北师范大学主办，各国教育制度变革与国际比较研究（CSSCI 来源） |
+> | [比较教育学报](https://navi.cnki.net/knavi/journals/BJJX/detail) | — | 1982 | 上海师范大学主办，比较教育理论与国别区域教育研究（CSSCI 扩展版） |
+> | [Comparative Education Review](https://www.journals.uchicago.edu/toc/cer/current) | 比较教育评论 | 1957 | 美国[[Comparative and International Education Society\|比较与国际教育学会]]（Comparative and International Education Society, CIES）主办，芝加哥大学出版社出版 |
+> | [Comparative Education](https://www.tandfonline.com/toc/cced20/current) | 比较教育 | 1964 | 英国牛津大学与伦敦国王学院学者主编，Taylor & Francis 出版 |
+> | [Compare](https://www.tandfonline.com/toc/pcom20/current) | 比较 | 1970 | 英国国际与比较教育协会（[[British Association for International and Comparative Education]], BAICE）主办，Taylor & Francis 出版 |
+> | [Globalisation, Societies and Education](https://www.tandfonline.com/toc/cgse20/current) | 全球化、社会与教育 | 2003 | Taylor & Francis 出版，聚焦全球化背景下的教育、社会与国际政治经济学前沿 |
+
+> [!index-table] 搜索引擎
+> | 引擎 | 说明 |
+> |---|---|
+> | [Google](https://www.google.com) | 通用搜索，含学术、图书、新闻等垂直搜索 |
+> | [Google Scholar](https://scholar.google.com) | 学术文献专用搜索，含引用追踪 |
+> | [Perplexity](https://www.perplexity.ai) | AI 驱动搜索与问答，自动引用来源 |
+
+> [!index-table] 开放电子书与文献
+> | 资源 | 说明 |
+> |---|---|
+> | [Anna's Archive](https://zh.annas-archive.gl) | 聚合 Z-Library、Library Genesis 等多个来源，支持 ISBN/DOI 检索 |
+> | [Library Genesis](https://libgen.bz) | 学术书籍与论文免费资源库 |
+> | [Z-Library](https://z-library.sk) | 最大的免费电子书库之一 |
+> | [Memory of the World](https://library.memoryoftheworld.org) | 保存被遗忘和稀缺的书籍与文献 |
+> | [Ocean of PDF](https://oceanofpdf.com) | 免费 PDF 电子书搜索 |
+> | [Liber3](https://liber3.eth.limo) | Web3 去中心化电子书检索，通过 ENS 域名访问 |
+
+> [!index-table] 中文阅读平台
+> | 资源 | 说明 |
+> |---|---|
+> | [微信读书](https://weread.qq.com) | 腾讯电子书平台，支持划线、笔记、社交阅读，部分免费 |
+> | [京东读书](https://e.jd.com) | 京东电子书平台，畅读会员制，含学术与专业书籍 |
+> | [掌阅](https://m.zhangyue.com) | 国内主流电子书平台，支持多端同步阅读 |
+> | [雅书](https://yabook.blog) | 电子书资源分享与推荐博客 |
 
 ---
 

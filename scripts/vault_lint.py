@@ -135,6 +135,8 @@ INDEX_JSON = WIKI_DIR / "index.json"
 CITATION_DIR = ROOT / "citation"
 CITATION_FULL_JSON = CITATION_DIR / "citation_full.json"
 CITATION_AMBIGUOUS_JSON = CITATION_DIR / "citation_ambiguous.json"
+CITATION_EXTERNAL_JSON = CITATION_DIR / "citation_external.json"
+EXTERNAL_CITATION_IDENTITY = "EXTERNAL_CITATION_IDENTITY"
 ASSET_BASE_URL = "https://img.mylikemie.icu"
 
 GENERATED_INDEX_FILES = {
@@ -3118,6 +3120,93 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
     for line_no, display in citation_linker_suggestions(path, text):
         issues.append(Issue("WARN", rel(path), f"APA short citation is not linked to an Argument (run scripts/vault_index.py to auto-link): {display}", line=line_no, code="CITATION_UNLINKED"))
 
+    check_external_citation_identity(path, text, issues)
+
+
+# EXTERNAL_CITATION_IDENTITY is INFO. Existing entries already contain unlinked
+# short citations with no DOI or title. A WARN would become a new finding on
+# every touched old file and block sync. Incremental lint still lists a citation
+# that was not in the baseline file. --full collapses the backlog to one line.
+_EXTERNAL_IDENTITY_LOOKUP: Optional[Dict[str, Dict[str, Any]]] = None
+
+
+def external_identity_message(key: str) -> str:
+    return (
+        f"库外引用 {key!r} 还没有 DOI、ISBN 或篇名。"
+        "可在来源原文的参考文献中补记，写入 citation/external_identities.json。"
+    )
+
+
+def external_identity_lookup() -> Dict[str, Dict[str, Any]]:
+    global _EXTERNAL_IDENTITY_LOOKUP
+    if _EXTERNAL_IDENTITY_LOOKUP is not None:
+        return _EXTERNAL_IDENTITY_LOOKUP
+    result: Dict[str, Dict[str, Any]] = {}
+    if CITATION_EXTERNAL_JSON.exists():
+        try:
+            data = json.loads(CITATION_EXTERNAL_JSON.read_text(encoding="utf-8"))
+        except (OSError, ValueError):
+            data = {}
+        items = data.get("items") if isinstance(data, dict) else None
+        by_identity = data.get("by_identity") if isinstance(data, dict) else None
+        if isinstance(items, dict):
+            for alias, entry in items.items():
+                if isinstance(entry, dict):
+                    result.setdefault(str(alias), entry)
+            if isinstance(by_identity, dict):
+                for key, canonical in by_identity.items():
+                    entry = items.get(canonical)
+                    if isinstance(entry, dict):
+                        result[str(key)] = entry
+    _EXTERNAL_IDENTITY_LOOKUP = result
+    return result
+
+
+def check_external_citation_identity(path: Path, text: str, issues: List[Issue]) -> None:
+    if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path) or not is_wiki_entry_path(path):
+        return
+    lookup = external_identity_lookup()
+    if not lookup:
+        return
+    scripts_dir = str(Path(__file__).resolve().parent)
+    if scripts_dir not in sys.path:
+        sys.path.insert(0, scripts_dir)
+    import citation_external
+
+    for key, offset in citation_external.first_sightings(text):
+        entry = lookup.get(key)
+        if not entry:
+            continue
+        if str(entry.get("doi") or "").strip() or str(entry.get("isbn") or "").strip() or str(entry.get("title") or "").strip():
+            continue
+        issues.append(Issue(
+            "INFO",
+            rel(path),
+            external_identity_message(key),
+            line=line_of_pos(text, offset),
+            code=EXTERNAL_CITATION_IDENTITY,
+        ))
+
+
+def collapse_external_identity_issues(issues: List[Issue]) -> List[Issue]:
+    """--full keeps one backlog line instead of one INFO per old citation."""
+    kept: List[Issue] = []
+    count = 0
+    for issue in issues:
+        if issue.code == EXTERNAL_CITATION_IDENTITY:
+            count += 1
+            continue
+        kept.append(issue)
+    if count:
+        kept.append(Issue(
+            "INFO",
+            rel(CITATION_DIR / "external_identities.json"),
+            f"库外引用有 {count} 处还没有 DOI、ISBN 或篇名。"
+            "这是存量提示，不阻挡已有条目同步；补记写入 citation/external_identities.json。",
+            code=EXTERNAL_CITATION_IDENTITY,
+        ))
+    return kept
+
 
 # ARGUMENT_RAW_SELF_ALIAS: an Argument page citing its own source as raw text,
 # e.g. "(Ball, 2008, p. 12)". Books and reports become page locators. Journal
@@ -4249,6 +4338,8 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix:
         baseline = baseline_warning_keys(unique_files, by_title, path_to_title, argument_citations)
 
     file_issues = lint_files(unique_files, by_title, path_to_title, argument_citations)
+    if full:
+        file_issues = collapse_external_identity_issues(file_issues)
     hidden = 0
     hidden_writing = 0
     if baseline:
@@ -4337,7 +4428,7 @@ def main() -> int:
         for issue in issues:
             if args.quiet and issue.severity != "ERROR":
                 continue
-            if issue.severity == "INFO" and not args.show_info:
+            if issue.severity == "INFO" and not args.show_info and issue.code != EXTERNAL_CITATION_IDENTITY:
                 continue
             print(issue.format())
         print()

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Literature Search",
+      "path": "wiki/concepts/research-methodology/Literature Search.md"
+    },
+    {
+      "basename": "Literature Review",
+      "path": "wiki/concepts/research-methodology/Literature Review.md"
+    },
+    {
       "basename": "Argument_Campbell_2026_JPCC",
       "path": "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "Critique of Meta-analysis",
       "path": "wiki/concepts/research-methodology/Critique of Meta-analysis.md"
-    },
-    {
-      "basename": "Literature Search",
-      "path": "wiki/concepts/research-methodology/Literature Search.md"
     },
     {
       "basename": "Argument_Steiner-Khamsi_2024_UNESCO",
@@ -195,10 +199,6 @@
     {
       "basename": "Self-Efficacy",
       "path": "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
-    },
-    {
-      "basename": "template-fact-event",
-      "path": "wiki/templates/template-fact-event.md"
     }
   ],
   "omittedPaths": [],

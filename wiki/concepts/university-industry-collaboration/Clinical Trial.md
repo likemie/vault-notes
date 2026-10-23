@@ -10,10 +10,10 @@ aliases:
 summary: "以人为研究对象、按预设试验方案分阶段评估新药、医疗器械或前沿疗法安全性、有效性与风险收益比的前瞻性干预研究。在产学合作中构成生物医药领域资金体量最大、规制约束最严苛的转化载体；当代规制科学正通过接受真实世界证据、推行单项高统计效力确证性研究、设立受控监管沙盒以及搭建公私伙伴加速平台重塑临床试验范式。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 38
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/university-industry-collaboration
   - theme/clinical-research
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Cooperative Research and Development Agreement]]"
   - "[[Meta-Representational Competence]]"
   - "[[Informed Consent]]"
+  - "[[Professional Judgment]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[External Validity]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Permissionless Innovation]]"
 related_theories:
   - "[[Developmental Network State]]"
+  - "[[Complex Systems Model of Evidence]]"
 related_methods:
   - "[[Intervention Research]]"
   - "[[Blinding]]"
@@ -50,6 +52,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Sample Size Determination]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Meta-analysis]]"
 related_persons:
   - "[[Fred Block]]"
   - "[[Michael Kratsios]]"
@@ -67,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -165,7 +168,7 @@ updated: 2026-10-22
 > - **1970s–1990s — 分期标准与伦理规范制度化** 《贝尔蒙报告》（Belmont Report）确立[[Informed Consent|知情同意]]与受试者保护伦理准则；国际人用药品注册技术协调会（ICH）出台临床试验管理规范（GCP），确立 I–IV 期标准开发路径。
 > - **2000s–2010s — 产学网络扩张与 [[Contract Research Organization|CRO]] 全球化崛起** [[Academic Medical Center|学术医学中心]]与合同研究组织（CRO）形成庞大外包生态；[[Clinical Trials Transformation Initiative]]（CTTI）等跨界联盟成立，发布 30 余套提升试验质量与启动效率的循证框架。
 > - **2008 年 — 早期临床试验公共风险托底与利益倒挂批判** [[Fred Block|弗雷德·布洛克]]（Fred Block）基于紫杉醇等重大医药案例，系统揭示联邦公共资金在临床试验早期去风险（De-risking）中的决定性支撑，批判新自由主义下“公共承担临床风险、私人垄断商业暴利”的制度失衡，呼吁建立公共收益分享信托机制。[[Argument_Block_2008_PS|(Block, 2008, pp. 196–198)]]
-> - **2024 年 — 循证医学层级局限与复杂系统证据模型反思** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al., 2024a, pp. 28–29]]）系统梳理公共卫生循证演进历程，反思过度套用临床试验因果金字塔对临床医师专业判断的边缘化、试验招募内置的社会不平等与对健康社会决定因素的忽视，提出向包容多元学科经验的复杂系统模型演进。
+> - **2024 年 — 循证医学层级局限与[[Complex Systems Model of Evidence|复杂系统证据模型]]反思** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al., 2024a, pp. 28–29]]）系统梳理公共卫生循证演进历程，反思过度套用临床试验因果金字塔对临床医师[[Professional Judgment|专业判断]]的边缘化、试验招募内置的社会不平等与对健康社会决定因素的忽视，提出向包容多元学科经验的复杂系统模型演进。
 > - **2026 年 — 真实世界证据、单项确证研究与[[Regulatory Sandbox|监管沙盒]]新[[Paradigm|范式]]** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），推动 FDA 实质性监管改革：推行单项高功效确证试验、接受真实世界证据、设立前沿生物医疗监管沙盒，并深化公私伙伴（[[Accelerating Medicines Partnership|AMP]]）协同开发机制。
 
 ---
@@ -187,7 +190,7 @@ updated: 2026-10-22
 > > [!axis] 临床试验因果阶梯至上 vs 复杂系统与健康社会决定因素（循证医学局限反思）
 > > 探讨在公共卫生与政策评估中，应严格固守以随机对照临床试验为顶端的因果证据阶梯，还是转向包容多元经验与社会决定因素的复杂系统模型。
 > >
-> > - **因果阶梯至上立场** 将随机双盲临床试验与定量元分析置于因果证据金字塔顶端，主张公共干预与诊疗决策必须严格遵循高等级临床试验裁决。
+> > - **因果阶梯至上立场** 将随机双盲临床试验与定量[[Meta-analysis|元分析]]置于因果证据金字塔顶端，主张公共干预与诊疗决策必须严格遵循高等级临床试验裁决。
 > > - **复杂系统与社会决定因素反思（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al., 2024a]]）** 指出过度套用临床试验阶梯导致一线医师专业判断与伦理关怀边缘化、试验招募内置社会不平等（边缘群体代表性缺失），并系统性漠视深层健康社会决定因素；在公共危机治理中，临床试验仅能提供部分生物医学答案，公共政策必须转向整合流行病学、人类学与社会科学的复杂系统证据模型。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 28–29, 32–33)]]
 >
 > > [!axis] 公共出资临床试验风险托底 vs 私营药企独占商业定价权

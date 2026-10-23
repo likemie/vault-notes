@@ -10,9 +10,9 @@ aliases:
 summary: "将专业实践与教育治理窄化为手段-目的因果计算与去情境化技术控制的实证主义模型；在微观教学中剥夺教师专业判断，在宏观政策与比较教育中将教育退化为劳动力技能规训并侵蚀全人教化"
 type: concept
 domain: "educational-philosophy"
-related_count: 125
-related_level: 12
-related_stars: "💎💎💎💎"
+related_count: 131
+related_level: 13
+related_stars: "💎💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/technical-rationality
@@ -56,7 +56,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Dynamic Assessment]]"
   - "[[Neo-Taylorism]]"
-  - "[[Self-Efficacy]]"
   - "[[Visible Learning]]"
   - "[[Problem Finding]]"
   - "[[New Public Management]]"
@@ -70,6 +69,11 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
+  - "[[Research Problem]]"
+  - "[[Geopolitics]]"
+  - "[[Policy Mobility]]"
+  - "[[Policy Ambassador]]"
+  - "[[Representational Knowledge]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Subjectivism]]"
   - "[[Evidence-Informed Practice]]"
@@ -79,29 +83,30 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[What Works Movement]]"
   - "[[Classroom Debate]]"
-  - "[[School Inspection]]"
-  - "[[Literature Review]]"
   - "[[Effective Teaching]]"
   - "[[Causality]]"
   - "[[Champ]]"
+  - "[[School Inspection]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Behaviorism]]"
   - "[[Legitimation Crisis]]"
+  - "[[Policy Transfer Framework]]"
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Critical Theory]]"
   - "[[Navigational Framework for Educational Researchers]]"
+  - "[[Policy Instrumentation Theory]]"
+  - "[[Governing at a Distance]]"
 related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Moderator Analysis]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Meta-analysis]]"
   - "[[Comparative Case Study]]"
-  - "[[Narrative Synthesis]]"
   - "[[Questionnaire]]"
   - "[[Discourse Analysis]]"
   - "[[Documentary Analysis]]"
-  - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
   - "[[Donald A. Schön]]"
@@ -128,10 +133,10 @@ related_facts:
   - "[[Common Core State Standards]]"
   - "[[American Federation of Teachers]]"
   - "[[National Education Association]]"
+  - "[[Global Education Evidence Advisory Panel]]"
+  - "[[World Bank]]"
   - "[[ResearchED]]"
   - "[[Education Endowment Foundation]]"
-  - "[[Massachusetts Department of Elementary and Secondary Education]]"
-  - "[[Institute for Educational Monitoring and Quality Improvement]]"
 related_arguments:
   - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
@@ -148,10 +153,11 @@ related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Eacott_2017_SLM]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
-  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high
 status: active
 created: 2026-05-03
@@ -221,7 +227,7 @@ updated: 2026-10-23
 > - **“非理论化统计中立”与[[Behaviorism|行为主义]]隐匿包装（Atheoretical Pretense & Latent Behaviorism）** 将自身标榜为纯粹统计测量专家、声明不持[[Theoretical Standpoint|理论立场]]（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]），以此宣称数据能够客观反映真实；实质上却在[[Epistemology|认识论]]深层全盘承袭[[B. F. Skinner|伯尔赫斯·弗雷德里克·斯金纳]]（Burrhus Frederic Skinner）与[[Robert Glaser|罗伯特·格拉泽]]（Robert Glaser）的行为主义逻辑，将教学过程机械降格为外部刺激输入、目标行为输出与纠错反馈的技术控制回路。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 3–5)]]
 > - **单变量因果孤岛与阶级盲还原（Single-Variable Isolating & Class-Blind Reductionism）** 违背社会生态的复杂交互本质，将学校教育拆解为离散独立的单变量因果孤岛；在实证建模中刻意将[[Socioeconomic Status|社会经济地位]]（SES）排除出[[Moderator Analysis|调节变量分析]]，炮制出免除社会结构不平等冲击的“阶级盲教学思维”（class-blind pedagogical thinking）；同时依靠主观叙事设定 $d = 0.40$ 的[[Zone of Desired Effects|期望效应区]]门槛，抹平了关键的发展阶段差异。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 5–9)]]
 > - **[[Construct|构念]]拼贴混淆与通量幻觉（Construct Misalignment & False Equivalence）** 在证据合成过程中将属于不同维度的异质构念（如代币行为强化、教师身体亲和力与[[Dynamic Assessment|动态测验]]提示）粗暴拼凑为单一输入变量，制造高通量均值，掩盖了干预措施中高达 38% 的负向抑制效应。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 9–13)]]
-> - **[[Neo-Taylorism|新泰勒主义]]规训与主体间承认消解（Neo-Taylorist Surveillance & Disregard of Intersubjective Recognition）** 技术理性将学习者窄化为去情境的认知客体，将[[Self-Efficacy|自我效能]]等认知术语降解为促使学生自我调试的技术手段；借助量化效能气压计将师生降格为流水线上的纠错元件，剥夺了[[Axel Honneth|阿克塞尔·霍耐特]]（Axel Honneth）式的主体间承认，沦为教育行政体系自上而下标准化规训与监控教师劳动的新泰勒主义工具。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 13–15)]]
+> - **[[Neo-Taylorism|新泰勒主义]]规训与主体间承认消解（Neo-Taylorist Surveillance & Disregard of Intersubjective Recognition）** 技术理性将学习者窄化为去情境的认知客体，将自我效能等认知术语降解为促使学生自我调试的技术手段；借助量化效能气压计将师生降格为流水线上的纠错元件，剥夺了[[Axel Honneth|阿克塞尔·霍耐特]]（Axel Honneth）式的主体间承认，沦为教育行政体系自上而下标准化规训与监控教师劳动的新泰勒主义工具。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 13–15)]]
 
 > [!logic-map]- 要素关系与批判逻辑
 > ```mermaid
@@ -292,7 +298,10 @@ updated: 2026-10-23
 > **[[Socioeconomic Status|阶级盲教学思维]]、[[Construct|构念]]拼贴混淆与[[Neo-Taylorism|新泰勒主义]]规训** 尼尔森与克利特默勒通过审查哈蒂实证体系揭示了技术理性在当代教育中的三重异化：其一，在[[Variable|变量]]处理上，故意将最具决定性的社会阶层（SES）排除出[[Moderator Analysis|调节变量分析]]，将学生预设为均质白板，炮制出免除社会不平等冲击的“阶级盲教学思维”（class-blind pedagogical thinking）；其二，在数据汇总上，将行为强化、教师身体亲和力与测验提示等异质构念拼凑为单一反馈均值，掩盖了高达 38% 的负效应；其三，在治理实质上，正如埃考特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）所指出的，以中立客观科学修辞建构的新泰勒主义（Neo-Taylorism），为教育行政官僚自上而下标准化监控教师劳动、剥夺教师专业裁量权提供了技术理性借口。[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, pp. 5–15)]]
 
 > [!claim] [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]
-> **超国家循证咨询的技术理性神话与去政治化治理** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）深入解构了全球教育证据咨询小组（GEEAP）与世界银行等超国家机构推行技术理性的机制。咨询小组宣称自身决策纯粹依托客观证据、超脱于各方利益，将科研严谨性等同于量化实验与元分析因果评估，借助“智能购买”等成本效益排位将教育改革转化为去情境化的方案采购。这种技术理性将一线教师的实践智慧与本土传统贬低为非正规经验，同时以中立科学修辞掩盖了研究议题遴选与资金流向背后深层的地缘政治诉求与权力不对称，构筑了去政治化的虚假客观表象。[[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, pp. 347–348)]]
+> **超国家循证咨询的技术理性神话与去政治化治理** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）深入解构了[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP）与[[World Bank|世界银行]]等超国家机构推行技术理性的机制。咨询小组宣称自身决策纯粹依托客观证据、超脱于各方利益，将科研严谨性等同于量化实验与[[Meta-analysis|元分析]]因果评估，借助“智能购买”等成本效益排位将教育改革转化为去情境化的方案采购。这种技术理性将一线教师的[[Phronesis|实践智慧]]与本土传统贬低为非正规经验，同时以中立科学修辞掩盖了[[Research Problem|研究议题]]遴选与资金流向背后深层的[[Geopolitics|地缘政治]]诉求与权力不对称，构筑了去政治化的虚假客观表象。[[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, pp. 347–348)]]
+
+> [!claim] [[Argument_Stone_2020_PolSoc\|Stone, Porto de Oliveira, and Pal (2020)]]
+> **跨国政策转移中的中立理性借鉴偏误与权力遮蔽** 戴安·斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，经典[[Policy Transfer Framework|政策转移框架]]深嵌于技术理性预设之中，将跨国[[Policy Mobility|政策流动]]窄化为技术性的中立经验汲取（Lesson-Drawing）与最佳实践复制，预设政策知识属于去政治化的工具性要素。这种技术理性假定不仅将流动方向单向锁定于由西方发达国家向落后边缘地区的扩散，更赋予自然科学与计量学科专家以独占性权威，完全漠视扎根于地方发展现场的经验智慧；国际发展合作实践表明，跨国政策借鉴必然嵌入于地缘政治的非对称权力网络之中，必须依托[[Policy Ambassador|政策大使]]与扎根本土的[[Representational Knowledge|代表性知识]]打破技术官僚理性垄断。[[Argument_Stone_2020_PolSoc\|(Stone et al., 2020, pp. 2–5, 8–10)]]
 
 ---
 
@@ -313,7 +322,7 @@ updated: 2026-10-23
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认识论批判命题** | 揭示技术理性手段-目的计算在复杂、不确定专业情境中的失效与错配 | 课堂教学、临床诊断等不确定性专业实践 | Schön; Nielsen & Klitmøller |
-> | **社会学与治理批判命题** | 揭示技术理性在教育治理中引发的[[Cognitive Deskilling\|去技能化]]、认识论断裂、人本精神失落与合法化危机 | [[Evidence-Based Education\|循证教育]]问责、新公共管理、数字化监测基础设施、国际指标测度与国家课程标准研制 | Habermas; Biesta; Kazamias; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]; [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]]; Helgetun and Menter; Serpell; Raudenbush; [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]]; [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]]; [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]]; [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]; [[Argument_Eacott_2017_SLM\|Eacott (2017)]]; [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
+> | **社会学与治理批判命题** | 揭示技术理性在教育治理中引发的[[Cognitive Deskilling\|去技能化]]、认识论断裂、人本精神失落与合法化危机 | [[Evidence-Based Education\|循证教育]]问责、新公共管理、数字化监测基础设施、国际指标测度与国家课程标准研制 | Habermas; Biesta; Kazamias; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]; [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]]; Helgetun and Menter; Serpell; Raudenbush; [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]]; [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]]; [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]]; [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]; [[Argument_Eacott_2017_SLM\|Eacott (2017)]]; [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]; [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] |
 > | **实践重构与替代命题** | 倡导以专业判断为枢纽、破除“证据自身发声”迷误，转向适切证据与深思熟虑参与双核互构 | 证据知情学校改进、[[Research-Practice Partnership\|研究-实践伙伴关系]]、高质量证据使用 | Nelson and Campbell; Bryk; Rickinson et al.; Coburn et al. |
 
 ---
@@ -333,6 +342,7 @@ updated: 2026-10-23
 > - **2019 — 数字化学校监测中技术理性修辞的批判性解构** [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] 展开美德跨国[[Comparative Case Study|比较案例研究]]，揭示全域监测系统中自动化即时反馈回路的技术理性修辞如何被即兴试错烹饪、算法选择性与五维做数据张力深刻击碎。
 > - **2019 — 德语区学校改进反思新治理调控工具的技术理性成效缺失** 马尼蒂乌斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）系统审视德语区二十年新治理改革，指出基于全域测评回传与外部督导的技术理性假定在单体学校遭遇成效缺失，重申教育改进不能依赖机械数据灌输。
 > - **2020 — [[Navigational Framework for Educational Researchers|政策导航框架]]对单一黄金标准的技术理性批判** 塞佩尔（[[Argument_Serpell_2020_EducPsychol|Serpell, 2020]]）基于国会立法实务，全面反思规制型进路与单一实验金标准在宏观治理中的方法论脱节，呼吁转向考量地方情境的发展型政策进路（Developmental Approach）。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 41–42)]]
+> - **2020 — 跨国政策流动视阈下对技术理性中立借鉴假设的批判** 戴安·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）系统批判传统政策转移研究对技术理性的依赖，指出将跨国借鉴简化为中立经验汲取与最佳实践复制遮蔽了地缘权力非对称，论证代表性知识与南南互学互鉴对单一技术官僚专长垄断的深层重构。
 > - **2021 — 证据合成中的技术理性解构与合法化危机防御机制** [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] 结合舍恩与哈贝马斯的理论，系统解构[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》背后的技术理性结构，揭示其如何将复杂动态的课堂简化为孤立[[Behaviorism|行为主义]][[Variable|变量]]与去情境化的手段-目的因果链条；确证教育行政系统引入这一标准化模型，实质上是将技术理性作为防御丹麦 2014 年公立学校改革引发的[[Legitimation Crisis|合法化危机]]的工具掩体。
 > - **2021 — 证据合成中的实证主义技术理性、[[Construct|构念]]混淆与[[Neo-Taylorism|新泰勒主义]]批判** [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] 结合舍恩对技术理性作为实证主义遗产的定位，解构《可见的学习》的非理论化修辞与实证还原论；揭示其在变量建模中剔除社会阶层造成[[Socioeconomic Status|阶级盲教学思维]]、在数据汇总中混淆异质构念，确证其效能气压计实质上演化为对教师劳动实施自上而下标准化监控的新泰勒主义工具。
 > - **2022 — 教师教育[[Evidence Era|证据时代]]的[[Epistemological Break|认识论断裂]]与[[Rationalized Myth|合理化神话]]** [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] 揭示技术理性在当代政策中演进为主导性合理化神话，通过自上而下的[[Policy-Based Evidence-Making|逆向证据生产]]（PBEM）维系国家对教师教育准入的集权控制。
@@ -382,7 +392,8 @@ updated: 2026-10-23
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] — 解构超国家组织（GEEAP、世界银行）以客观中立与纯粹证据为名推行的技术理性治理，揭示成本效益排位对本土实践智慧的边缘化及对地缘政治议程的遮蔽（pp. 347–348）。
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 结合政策工具社会学，揭示经合组织如何运用技术理性排位将政治价值抉择置换为客观数据以推进跨国远距治理。
+> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 批判经典政策转移研究的技术理性与中立借鉴预设，论证代表性知识与南南对等协商对技术官僚专长垄断的解构。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 结合[[Policy Instrumentation Theory|政策工具社会学]]，揭示经合组织如何运用技术理性排位将政治价值抉择置换为客观数据以推进跨国[[Governing at a Distance|远距治理]]。
 > - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用舍恩与哈贝马斯的批判理论，解构可见学习的技术理性结构，揭示其在丹麦教改中充当合法化危机防御工具的机制。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 细读哈蒂反馈效应底层数据，揭示其非理论化修辞掩盖下的行为主义预设、阶级盲还原、构念混淆与新泰勒主义监控机制。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] — 历史解构经合组织教育政策转向，揭示技术官僚理性如何以投入产出效率与数字测评遮蔽教育目的哲学辩论。
@@ -394,7 +405,7 @@ updated: 2026-10-23
 > - [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] — 剖析英格兰教师教育改革中技术理性的认识论断裂，揭示证据作为合理化神话在政策逆向生产中的政治把关功能。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 思想史批判指出战后实证转型以技术官僚理性取代历史-哲学-文化传统，将教育异化为狭隘的学校技能规训。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 剖析美国卓越阅读法案立法中的技术理性规制机制，揭示法定科学本位研究如何剥夺教师专业判断并掩盖利益垄断。
-> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 审视德语区全域统考与学校督导的技术理性成效缺失，揭示数据自动倒逼改进假说的破产与理论-实践困境重现。
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 审视德语区全域统考与[[School Inspection|学校督导]]的技术理性成效缺失，揭示数据自动倒逼改进假说的破产与理论-实践困境重现。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析国际机构推行普适社会技术（教育规划、课程）的技术理性机制，揭示其如何塑造中立客观专家形象并去政治化掩盖冲突。
 > - Schön (1983) — 奠基性著作《反思性实践者》，系统界定技术理性并阐明反思性实践作为专业认识论的替代方案。
 > - Habermas (1976) — 阐明技术理性作为晚期资本主义治理媒介对生活世界的侵蚀与合法化危机生成机制。

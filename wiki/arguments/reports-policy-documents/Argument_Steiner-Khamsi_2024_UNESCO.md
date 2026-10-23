@@ -7,9 +7,9 @@ title: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_key: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_display_title: "Strategic review: Improving the use of evidence for education policy, planning and implementation"
 argument_kind: "report"
-argument_related_count: 99
-argument_related_level: 9
-argument_related_stars: "💎💎💎"
+argument_related_count: 104
+argument_related_level: 10
+argument_related_stars: "💎💎💎⭐"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Gita Steiner-Khamsi|Steiner-Khamsi, G.]]"
@@ -63,14 +63,16 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[Clinical Trial]]"
   - "[[Paradigm]]"
+  - "[[Commensuration]]"
+  - "[[Policy Science in Comparative Education]]"
   - "[[Discipline-Based Theory]]"
   - "[[Professional Judgment]]"
   - "[[Variable]]"
   - "[[Phronesis]]"
-  - "[[Policy Science in Comparative Education]]"
   - "[[Policy Fellowships and Placements]]"
   - "[[Transfer Science]]"
   - "[[Research Translation]]"
+  - "[[Science of Using Science]]"
   - "[[Knowledge Co-production]]"
   - "[[Knowledge Exchange]]"
   - "[[Boundary Spanner]]"
@@ -81,6 +83,8 @@ related_concepts:
   - "[[Funder Coalition for URE]]"
 related_theories:
   - "[[Two-Communities Theory]]"
+  - "[[Knowledge-to-Action Cycle]]"
+  - "[[Complex Systems Model of Evidence]]"
   - "[[Theory of Change]]"
 related_methods:
   - "[[Questionnaire]]"
@@ -136,6 +140,7 @@ related_facts:
   - "[[International Initiative for Impact Evaluation]]"
   - "[[EVIPNet]]"
   - "[[Center for Rapid Evidence Synthesis]]"
+  - "[[EPPI-Centre]]"
   - "[[Early Childhood Development Action Network]]"
   - "[[Better Early Learning and Development at Scale]]"
   - "[[PISA for Development]]"
@@ -364,8 +369,8 @@ updated: 2026-10-23
 > ![图4.2：政策证据研究共被引知识聚类图谱（公共卫生 vs 教育）](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig4-2_CoCitation_Analysis_Clusters.jpg)
 
 > [!tension] 政策证据共被引知识聚类的学科结构分化（pp. 31–32）
-> - **公共卫生共被引网络（图 4.2a）** 呈现高密度互联态势，学界围绕保罗·凯尔尼（Paul Cairney, 2016）的政策制定政治学理论、约翰·拉维斯（John Lavis et al., 2006）的知识转化理论以及世界卫生组织健康系统框架，形成了公认的分析[[Paradigm|范式]]与跨界理论共识。
-> - **教育学共被引网络（图 4.2b）** 高度碎片化，分裂为若干孤立的小规模聚类；各派学者偏好在狭窄的次级学术社群内部闭门自引，长期缺乏通约性的理论骨架，与主流公共政策科学及组织社会学存在严重的学科壁垒。
+> - **公共卫生共被引网络（图 4.2a）** 呈现高密度互联态势，学界围绕保罗·凯尔尼（Paul Cairney, 2016）的政策制定政治学理论、约翰·拉维斯（John Lavis et al., 2006）的知识转化理论、伊恩·格雷厄姆等人的[[Knowledge-to-Action Cycle|知识到行动循环]]（Knowledge-to-Action Cycle, KTA）以及世界卫生组织健康系统框架，形成了公认的分析[[Paradigm|范式]]与跨界理论共识。
+> - **教育学共被引网络（图 4.2b）** 高度碎片化，分裂为若干孤立的小规模聚类；各派学者偏好在狭窄的次级学术社群内部闭门自引，长期缺乏[[Commensuration|通约]]性的理论骨架与流程模型，与主流公共[[Policy Science in Comparative Education|政策科学]]及组织社会学存在严重的学科壁垒。
 
 > [!contrast-table] 公共卫生与教育领域政策证据利用的计量与知识结构对比
 > | 比较维度 | 全球公共卫生领域 | 全球教育领域 | 治理启示与制度差距 |
@@ -383,11 +388,11 @@ updated: 2026-10-23
 >
 > - **循证医学金字塔的局限**
 >
->   早期循证医学（Evidence-based Medicine, EBM）严格尊崇随机对照试验（Randomised Controlled Trial, RCT）与定量[[Meta-analysis|元分析]]，将其置于因果证据金字塔的顶端；然而在公共卫生实践中，这种过度狂热的实证阶梯导致了一线医师临床[[Professional Judgment|专业判断]]受损、边缘群体在临床试验中缺乏代表性以及对深层健康社会决定因素（Social Determinants of Health）的系统性漠视。
+>   早期循证医学（Evidence-based Medicine, EBM）严格尊崇随机对照试验（Randomised Controlled Trial, RCT）与定量[[Meta-analysis|元分析]]，将其置于因果证据金字塔的顶端；然而在公共卫生实践中，这种过度狂热的实证阶梯导致了一线医师临床[[Professional Judgment|专业判断]]受损、边缘群体在临床试验中缺乏代表性以及对深层健康社会决定因素（Social Determinants of Health）的系统性漠视。流行病学界据此提出[[Horses for Courses Principle|证据与问题适切性原则]]（Petticrew & Roberts, 2003），强调证据评价必须基于具体政策关切，反对单一因果金字塔的机械统治。
 >
-> - **复杂系统证据模型转向**
+> - **[[Complex Systems Model of Evidence|复杂系统证据模型]]转向**
 >
->   面对埃博拉病毒爆发与 COVID-19 大流行等公共卫生危机，卫生学界清醒认识到单纯的生物医学干预无法独立解决问题，必须转向由流行病学、人类学、社会学、行为科学与社区行动构成的复杂系统证据模型（Rutter et al., 2017）。
+>   面对埃博拉病毒爆发与 COVID-19 大流行等公共卫生危机，卫生学界清醒认识到单纯的生物医学干预无法独立解决问题，必须转向由流行病学、人类学、社会学、行为科学与社区行动构成的[[Complex Systems Model of Evidence|复杂系统证据模型]]（Rutter et al., 2017），将政策环境视为多[[Variable|变量]]交织、具有自适应与非线性反馈特性的开放复杂系统。
 >
 > - **教育领域的盲目移植教训**
 >
@@ -429,7 +434,7 @@ updated: 2026-10-23
 #### 1. 单向印发简报难以推动改革，必须同步培育政学互信与制度约束
 
 > [!row-contrast] 驱动研究证据深度转化的三维行动路径与具体举措（表 5.1）
-> 全球教育合作机制为克服单一线性自上而下的政策简报供给，系统规划了三维变革路径，强调适切产品、协同关系与制度环境必须同时推进；同时在全球与区域层级确立系统领导力（pp. 39–43）。
+> 全球教育合作机制为克服单一线性自上而下的政策简报供给，系统规划了三维变革路径，强调适切产品、协同关系与制度环境必须同时推进；同时在全球与区域层级确立系统领导力。该框架直接依托伦敦大学学院 [[EPPI-Centre|EPPI]] 中心[[Science of Using Science|使用科学的科学]]（Langer, Tripney, & Gough, 2016）对决策者意识、技能、动机与制度机会六大机制的实证元综述，推动证据利用从盲目宣讲走向科学干预（pp. 39–43, 68–69）。
 >
 > | 变革维度 | 核心行动模块 | 具体举措与推进机制 |
 > |---|---|---|

@@ -10,12 +10,13 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 38
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "1995–至今"
 initiator_organization: "International Association for the Evaluation of Educational Achievement"
+official_website: "https://timssandpirls.bc.edu/"
 tags:
   - fact/program
   - fact/global
@@ -28,21 +29,29 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Evaluation Research]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Interaction Effect]]"
+  - "[[Homework]]"
   - "[[School Inspection]]"
   - "[[Variable]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Competitiveness]]"
   - "[[Research Utilization]]"
+  - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
 related_theories: []
 related_methods:
   - "[[Trend Study]]"
   - "[[Questionnaire]]"
   - "[[Item Response Theory]]"
+  - "[[Sampling Frame]]"
+  - "[[Back Translation]]"
+  - "[[Hierarchical Linear Model]]"
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
   - "[[William H. Schmidt]]"
+  - "[[John Hattie]]"
 related_facts:
   - "[[IEA]]"
   - "[[PIRLS]]"
@@ -54,6 +63,7 @@ related_facts:
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Australian Council for Educational Research]]"
   - "[[Vergleichsarbeiten]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Dedering_2009_EERJ]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
@@ -62,7 +72,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -72,6 +82,7 @@ updated: 2026-10-22
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 始于 1995 年首轮全球测评，此后以 4 年为固定周期常态化实施（1995、1999、2003、2007、2011、2015、2019、2023……）。
+> - **官方平台与数据发布** 官方研究与测评数据门户为 [TIMSS & PIRLS International Study Center](https://timssandpirls.bc.edu/)（国际主办方主页：[IEA TIMSS](https://www.iea.nl/studies/iea/timss)），提供历届跨国评测框架、题目样卷与综合数据库开放下载。
 > - **发起方与国际网络** 由国际非政府学术组织 IEA 发起并统筹，波士顿学院 TIMSS & [[PIRLS]] 国际研究中心负责试题开发与技术实施，各国教育部与国家研究协调中心联合承办。
 > - **覆盖范围与对象** 覆盖全球 60 多个国家与经济体，针对小学 4 年级（约 9–10 岁）与初中 8 年级（约 13–14 岁）学生，采取两阶段分层整班抽样。
 > - **课程导向特质** 与 [[PISA]]（侧重 15 岁学生适应未来社会的跨学科综合素养与 [[OECD]] 经济导向）不同，TIMSS 严格采取**基于课程的评估框架（Curriculum-based Framework）**，系统考察“预定课程（Intended Curriculum）”、“实施课程（Implemented Curriculum）”与“习得课程（Attained Curriculum）”的三联契合度。
@@ -109,26 +120,26 @@ updated: 2026-10-22
 > [!actor-grid] 实施协同矩阵
 > - **主办与国际统筹方（IEA 秘书处与阿姆斯特丹/汉堡中心）** 负责总体政策指导、成员国接纳、数据清洗与国际比较数据库发布。
 > - **国际研发中枢（波士顿学院 TIMSS & PIRLS 国际研究中心）** 统领框架编制、试题研制、问卷设计与心理测量学参数标定。
-> - **跨国技术承包商（ACER 与北美专业机构）** [[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）及北美机构长期承担核心分析与试题开发合同，提供复杂心理测量技术支撑，但亦因合同垄断引发欧洲官方的反弹抗议。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 33)]]
-> - **国家执行中枢（各国教育部与国家研究协调员 NRCs）** 负责国家抽样框设计、多语种试卷翻译回译质控、主试培训与现场施测监督。
+> - **跨国技术承包商（[[Australian Council for Educational Research|ACER]] 与北美专业机构）** [[Australian Council for Educational Research|澳大利亚教育研究委员会]]（ACER）及北美机构长期承担核心分析与试题开发合同，提供复杂心理测量技术支撑，但亦因合同垄断引发欧洲官方的反弹抗议。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 33)]]
+> - **国家执行中枢（各国教育部与国家研究协调员 NRCs）** 负责国家[[Sampling Frame|抽样框]]设计、多语种试卷翻译[[Back Translation|回译]]质控、主试培训与现场施测监督。
 
 > [!pathways] 实施路径与管理
 > - **测试-课程匹配分析（TCMA）规程** 各国专家在测评前详细审定试题与本国国家大纲的契合度，通过专门统计分析校准由于教学进度差异带来的结构性分数偏差。
 > - **严格两阶段分层整班抽样** 第一阶段抽取学校样本，第二阶段完整抽取特定班级全体在读学生，确保样本对国家课程落地效果的高度代表性。
-> - **多层背景问卷关联分析** 将学生测试得分与教师资历、教学时长及学校资源进行层次线性模型（HLM）联动，揭示课程实施的背景调节效应。
+> - **多层背景问卷关联分析** 将学生测试得分与教师资历、教学时长及学校资源进行层次线性模型（[[Hierarchical Linear Model|HLM]]）联动，揭示课程实施的背景[[Interaction Effect|调节效应]]。
 
 ---
 
 > [!indicators] 评估指标体系
 > - **投入与背景指标** 国家课程大纲覆盖率、各学段周均数理课时、任课教师专业对口率、学校实验室与教学硬件配置。
-> - **过程与教学法指标** 课堂讲解与练习时长分配、实验探究频次、家庭作业布置与批改规范。
+> - **过程与教学法指标** 课堂讲解与练习时长分配、实验探究频次、[[Homework|家庭作业]]布置与批改规范。
 > - **产出与学力指标** 跨国平均分（均值 500、标准差 100）及初级、中级、高级、卓越四级国际能力基准达成率。
 
 > [!finding-cards] 核心实证结论
 > - **宏观方位导向价值** 为参与国在国际数理教育格局中提供客观坐标，明确本国课程标准在全球视野中的高低位置。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 494)]]
 > - **国家课程病理诊断与议程设置催化** 跨国课程分析揭示不同教育体制的课程广度与深度差异。例如在推进美国 CCSS 运动中，TIMSS 比较课程数据被政策企业家转化为诊断美国各州数学标准缺乏连贯性与深度的核心实证工具，有力推动建立精简、连贯且严格之国家级标准的政策共识。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 11–13)]]
 > - **微观治理指导效力不足** 定性跟踪研究表明，教育官员清醒认识到 TIMSS 仅具宏观参考价值；由于其依赖抽样、概括性强且解释空间过大，无法直接指导单体学校的教学微调与薄弱校干预，其实际治理价值显著低于覆盖全量学校的[[Vergleichsarbeiten|校际比较测试]]（VERA）与过程性[[School Inspection|学校督导]]。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 494–495)]]
-> - **作为学业自然成长基准的纵向实证功能** 德国实证教育研究者（Roppelt et al., 2013; Köller, 2012; [[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p. 33]]）指出，TIMSS 与 PISA 的跨期纵向跟踪为评估教学干预成效提供了客观的常态成长标尺：在学校真实情境下，一学年的平均学业能力进展仅在 $0.20–0.40$ 个标准差之间（每学期约 $0.15–0.20$）。这一基准有力纠正了宏观证据综合中脱离现实将 $d = 0.40$ 设为不可逾越“基线”的偏误，确立了 $0.20–0.30$ [[Effect Size|效应量]]在数理与科学教育中的实质政策价值。
+> - **作为学业自然成长基准的纵向实证功能** 德国实证教育研究者（Roppelt et al., 2013; Köller, 2012; [[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p. 33]]）指出，TIMSS 与 PISA 的跨期纵向跟踪为评估教学干预成效提供了客观的常态成长标尺：在学校真实情境下，一学年的平均学业能力进展仅在 $0.20–0.40$ 个标准差之间（每学期约 $0.15–0.20$）。这一基准有力纠正了宏观[[Research Synthesis|证据综合]]中脱离现实将 $d = 0.40$ 设为不可逾越“基线”的偏误，确立了 $0.20–0.30$ [[Effect Size|效应量]]在数理与科学教育中的实质政策价值。
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="fact-other-empirical-table-marker" aria-hidden="true"></span>
@@ -152,7 +163,7 @@ updated: 2026-10-22
 > > [!axis] 跨国测评合同垄断与大洋洲/北美技术霸权争议
 > > 批评以 ACER、美国与加拿大机构为代表的组织长期包揽 TIMSS 与 PISA 的核心研发合同。
 > >
-> > - **欧洲反弹批评视角** 欧盟官员（EU3）与法国等成员国强烈抗议，指出每次重大国际评估发布，卷走巨额财政资金的永远是澳大利亚、加拿大与美国机构；以 ACER 为代表的机构垄断了大型调查合同，将盎格鲁-撒克逊的技术规范强加于多元体系，呼吁欧洲建立自身的技术研发能力以摆脱依赖。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 33)]]
+> > - **欧洲反弹批评视角** [[EU|欧盟]]官员（EU3）与法国等成员国强烈抗议，指出每次重大国际评估发布，卷走巨额财政资金的永远是澳大利亚、加拿大与美国机构；以 ACER 为代表的机构垄断了大型调查合同，将盎格鲁-撒克逊的技术规范强加于多元体系，呼吁欧洲建立自身的技术研发能力以摆脱依赖。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 33)]]
 > > - **机构与主办方辩解** 强调大型跨国测评对心理测量工程与国际协调经验要求极高，专业机构胜出体现了测量科学的高标准化门槛。
 >
 > > [!axis] 课程对标的公允性与文化偏倚
@@ -193,9 +204,9 @@ updated: 2026-10-22
 > | [[Vergleichsarbeiten]] | Fact (Program) | 德国全域校际比较测试，与 TIMSS 在宏观抽样 vs 微观全域上形成功能分工。 |
 > | [[William H. Schmidt]] | Person | 密歇根州立大学教授，利用 TIMSS 数据诊断全美课程病理的关键政策企业家。 |
 > | [[Policy Entrepreneur]] | Concept | 运用 TIMSS 证据将课程缺陷与国家竞争力危机相联系以推动政策议程的行动者理论。 |
-> | [[Research Utilization]] | Concept | 阐释 TIMSS 数据在宏观议程设置中发挥概念性与象征性使用功能的理论框架。 |
+> | [[Research Utilization]] | Concept | 阐释 TIMSS 数据在宏观议程设置中发挥概念性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]功能的理论框架。 |
 > | [[School Inspection]] | Concept | 现场过程督导机制，弥补 TIMSS 纯量化产出测试的机制缺失。 |
 > | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 剖析 TIMSS 数据在全美议程设置与 CCSS 课程改革中充当概念催化剂的实证文献。 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证评估 TIMSS 在德国教育部行政决策中宏观方位功能与治理局限性的期刊文献。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | Argument | 引用 TIMSS 与 PISA 纵向常态成长实证数据反驳哈蒂 0.40 关节点神话的方法学审计文献。 |
+> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | Argument | 引用 TIMSS 与 PISA 纵向常态成长实证数据反驳[[John Hattie\|哈蒂]] 0.40 关节点神话的方法学审计文献。 |
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 记录 ACER 等机构垄断 TIMSS 核心合同引发欧洲抗议及 TIMSS 震荡催生 SINUS 的机制。 |

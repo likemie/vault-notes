@@ -112,6 +112,8 @@ citation/
   journals.json              AI 命名用期刊全名到唯一代码的最小注册表
   citation_full.json          可引用 Argument 的全量索引
   citation_ambiguous.json     同作者同年歧义组（含 APA 7 区分建议）与库外作者年份撞车
+  external_identities.json    条目正文中的库外短引用，可手填 doi、isbn 或篇名
+  citation_external.json      库外短引用生成索引；同一作者同一年多篇时分配 a/b/c
 metax/                       Visible Learning MetaX 数据（不进 wiki、不补链）
   metax.json                  studies（书目与匹配状态）+ influences（总览、明细行、挂载条目）
   errata.json                 单篇／整合勘误，须有来源
@@ -232,12 +234,14 @@ OECD_2018_GlobalCompetence
 
 ### Citation Index Rules
 
-`citation/` 存放可引用 Argument 的引用索引，由 `scripts/citation_index.py` 生成。
+`citation/` 存放可引用 Argument 的引用索引，由 `scripts/citation_index.py` 生成。`external_identities.json` 可以由人补 `doi`、`isbn` 或篇名，脚本不覆盖这些已填字段。
 
 ```text
 citation/
   citation_full.json          可引用 Argument 的全量索引
   citation_ambiguous.json     同一作者同一年多篇可引用文献的歧义索引
+  external_identities.json    条目正文中的库外短引用，可手填 doi、isbn 或篇名
+  citation_external.json      库外短引用生成索引；同一作者同一年多篇时分配 a/b/c
 ```
 
 Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板执行。Argument 保留 `source_language`、`year`、`doi`、可选 `isbn`、`citation_aliases` 与完整 `citation`。`citation_aliases` 由 `scripts/citation_index.py` 根据原始出版语言、`authors`、`year` 和完整 `citation` 自动生成。英文原始文献生成英文 APA author-year 形式。中文原始文献的 `authors` 使用中英双语显示，但完整 `citation` 和 `citation_aliases` 只使用中文；`wiki_linker.py` 也只按这些中文 aliases 匹配该文献。中文期刊论文使用 `source_language: zh`，citation 采用中文作者、中文篇名和中文期刊名，`argument_display_title` 保留中文原题；英文作者转写只存在于 `authors`，不进入 citation 索引。英文文献的作者无论在中文正文还是括注中，三位及以上一律写 `et al.`，不写“等”或“等人”（如 `Hopkins et al., 1996`、`Cai et al.（2025）`、`Hattie et al. 指出`）。基础索引对改动过的条目自动改写：拉丁字母姓氏后接年份，或姓氏属于已知人物（Person 条目与已处理文献作者）时，“等/等人”改为 `et al.`；全大写缩写与机构（`OECD、PISA 等`）、非人名（`Teach 等工具`）、并列多人（`Mignolo、Dussel 等`、`Holmes 和 King 等人`）、“等级/等同”等词与中文作者（`王等, 2025`）不改。英文基本形式为 `Author, Year` 与 `Author (Year)`：单作者用第一作者英文姓氏或机构英文简称，如 `Ball, 2008`；双作者用 `&`，如 `Lindblad & Popkewitz, 2004`；三位及以上作者用 `et al.`，如 `Wang et al., 2025`。中文基本形式只保留 `作者, 年份` 与 `作者 (年份)`；中文双作者用“和”，如 `林德布拉德和波普凯维茨, 2004`；中文三位及以上作者用“等”，如 `王等, 2025`。同一作者同一年多篇可引用文献时，`citation_index.py` 按完整 `citation`、`title`、文件路径稳定排序后自动分配 `a`、`b`、`c` 后缀。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
@@ -256,6 +260,14 @@ Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板�
 正文引用当前 Argument 之外的已处理文献时，优先沿用原始文献的 author-year 格式。英文文献使用英文 APA，叙述式如 `Lindblad and Popkewitz (2004)`，括号式如 `(Lindblad & Popkewitz, 2004)`；中文文献可以使用中文作者年，如 `郑雅君 (2023)`、双作者 `作者甲和作者乙 (2023)`、三位及以上 `作者甲等 (2023)`。如果原文采用 APA 引用格式，优先保留原文中的短引用，再由 `wiki_linker.py` 自动补链。
 
 原文已有 `Author (YearSuffix: page)` 或 `Author, YearSuffix: page` 这类内部参考文献编号时，清除原文后缀，只保留作者、年份和页码，例如将 `Tandon (2005c: 30)` 写作 `Tandon (2005: 30)`。这类原文编号不写入 `citation_aliases`，不放入 `citation_ambiguous.json`，也不自动补链；只有该文献被独立处理为 Argument 后，才由本库 citation 流程重新决定是否需要 `a/b/c` 后缀。
+
+条目正文里尚未链到 Argument 的 APA 短引用，由 `scripts/citation_index.py` 收集进 `citation/external_identities.json`。每条保留作者和年份。能确定文献时优先写 `doi`；书籍没有 DOI 时写 `isbn`；两者都没有时写篇名。写了 `doi` 或 `isbn` 之后，篇名可以留着便于辨认。期刊名和出版社不作为必填，也不用来区分同年文献。脚本只刷新 `seen_in`，已填写的 `doi`、`isbn` 和篇名保持原样。
+
+同一作者同一年在库外只对应一篇时，`citation_external.json` 里的短引用不加 `a`/`b`/`c`。`doi`、`isbn` 或篇名显示为不同文献，或原文同时写出不同的年份字母时，按篇名、`doi`、`isbn` 和身份键稳定排序后分配 `a`、`b`、`c`，规则与库内相同。生成索引里的字母按这次排序决定，不必与原文里的字母相同。原文年份字母留在 `external_identities.json` 的身份键上，不写入 Argument 的 `citation_aliases`。单独一个带字母的短引用仍生成不带字母的规范形式。
+
+文献入库后，下一次 `citation_index.py` 删除对应库外记录。对上的方式是：`doi` 或 `isbn` 与 Argument 相同；或者身份键已经是该 Argument 的 `citation_aliases`；或者篇名出现在同一作者年份的 Argument 完整 `citation` 里。只含作者和年份的记录继续保留，直到补上能与某篇 Argument 对上的 `doi`、`isbn`、篇名或完整短引用。
+
+`vault_lint.py` 用 INFO `EXTERNAL_CITATION_IDENTITY` 提示还没有 `doi`、`isbn` 或篇名的库外短引用。这条提示不计入必须处理的 WARN，不阻挡已有条目同步。增量检查只列出相对基线新出现的短引用；`--full` 把存量收成一行，工作清单在 `citation/external_identities.json`。补记时看来源原文的参考文献。`citation_ambiguous.json` 的 `external` 仍只记录 MetaX 里作者年份相同、篇名不同的撞车，不存放这套库外短引用。
 
 正文引用当前 Argument 之外的已处理文献时，统一使用 APA 短引用：
 
@@ -400,7 +412,7 @@ Frontmatter 中同一 YAML 映射内不得重复声明键，包括嵌套映射�
 
 本地不使用 git pre-commit 钩子：Obsidian Git 每 10 分钟自动提交备份，钩子会让含未完成内容的备份静默失败。门禁分两层：
 
-1. 本地：`vault_lint.py` 即提交门禁。除内容检查外，它并行检查 wiki 索引是否最新（`INDEX_STALE`）、引用索引是否一致（`CITATION_INDEX_STALE`），本地与 CI 共用这一入口。结束任务前先运行 `vault_index.py` 再运行 lint，任何 ERROR 和新引入的 WARN 都必须解决。增量模式与 `--path` 隐藏基线已有的普通警告（按检查项与提示内容比对，行号变化不影响），未审查的写作用词与句式命中始终列出；`--all-warnings` 显示全部，`--full` 始终显示全部，用于盘点存量。`--no-gate` 只用于调试。
+1. 本地：`vault_lint.py` 即提交门禁。除内容检查外，它并行检查 wiki 索引是否最新（`INDEX_STALE`）、引用索引是否一致（`CITATION_INDEX_STALE`），本地与 CI 共用这一入口。结束任务前先运行 `vault_index.py` 再运行 lint，任何 ERROR 和新引入的 WARN 都必须解决。`EXTERNAL_CITATION_IDENTITY` 是 INFO，不在此列：它提示新出现的库外短引用补 DOI、ISBN 或篇名，不阻挡已有条目同步。增量模式与 `--path` 隐藏基线已有的普通警告（按检查项与提示内容比对，行号变化不影响），未审查的写作用词与句式命中始终列出；`--all-warnings` 显示全部，`--full` 始终显示全部，用于盘点存量。`--no-gate` 只用于调试。
 
 `vault_index.py` 在刷新引用索引后，对 git 中有改动的文件自动执行机械性修复，不需要手动处理，也不再出现在 lint 中：英文双作者引用连接词（叙述用 and、括号内用 &）、加粗边界、summary 引号、`[!axis]` 分隔符、引用链接缺失的 a/b/c 年份后缀、非 Argument 条目中裸 `[[Argument_…]]` 链接补作者年份、与标题重复的 alias、同一段落或 callout 内重复的括号式引用链接、英文作者引用中的“等/等人”（改为 et al.）；随后把正文有改动的条目 `updated` 设为当天。手动执行同样的修复可用 `vault_lint.py --fix`。
 2. 发布：GitHub Actions 运行 `scripts/vault_lint.py`（期刊注册表、只读 wiki 索引检查、完整引用检查和增量 lint），未通过则不发布。CI 使用 `--base` 模式时，写作审查只拦截相对推送基准新增或改写的命中（按条目路径、检查项与去链接后的可见语境比对）；基准中已存在的未审查命中不阻断发布，仍由本地 lint 列出，按本地门禁要求处理。

@@ -59,6 +59,7 @@ related_methods:
   - "[[Statistical Significance]]"
 related_concepts:
   - "[[Educational Brokerage Agency]]"
+  - "[[Science of Using Science]]"
   - "[[Evidence Ecosystem]]"
   - "[[Evidence Standards]]"
   - "[[Knowledge Mediation]]"
@@ -83,7 +84,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Initial Teacher Training]]"
   - "[[Deficit Model of Science Communication]]"
-  - "[[Self-Efficacy]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Operationalization]]"
   - "[[Reliability]]"
@@ -117,14 +117,14 @@ related_instruments:
   - "[[EMMIE Framework]]"
 status: draft
 created: 2026-09-13
-updated: 2026-10-22
+updated: 2026-10-23
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch07_Gough_2022|Ch07_Gough_2022]]"
 ---
 ---
 
 > [!question]
-> 为什么旨在向政策制定者与教育实践者推广循证理念的[[Educational Brokerage Agency\|知识中介机构]]（Knowledge Brokerage Intermediaries, KBIs），自身在制定工作目标、选择干预方法、确立证据评价准则以及评估服务成效时，却频繁陷入缺乏实证依据支持的循证赤字？中介机构应如何建立自省性的元研究[[Analytic Framework\|分析框架]]，使自身的设计、运作与制度协同真正建立在研究应用之科学（The Science of Using Science）的基础之上？（pp. 146–147, 157–158）
+> 为什么旨在向政策制定者与教育实践者推广循证理念的[[Educational Brokerage Agency\|知识中介机构]]（Knowledge Brokerage Intermediaries, KBIs），自身在制定工作目标、选择干预方法、确立证据评价准则以及评估服务成效时，却频繁陷入缺乏实证依据支持的循证赤字？中介机构应如何建立自省性的元研究[[Analytic Framework\|分析框架]]，使自身的设计、运作与制度协同真正建立在研究应用之科学（The [[Science of Using Science]]）的基础之上？（pp. 146–147, 157–158）
 
 > [!claim] 核心主张
 > 知识中介机构的公信力与有效性取决于其自身是否践行所倡导的循证原则。中介机构必须超越单向信息推介与朴素常识假设，将其实践系统构筑在五大循证支柱之上：对既有[[Evidence Ecosystem\|证据生态系统]]的严密需求分析、与外层社会政治及问责制度的深度对齐、扎根于行为改变科学的显性[[Theory of Change\|变革理论]]、透明且高度分化的[[Evidence Standards\|证据标准]]以支撑合法的功效主张，以及对最终受益者成效的因果评估与元知识库积累。（pp. 147–148, 158–159）
@@ -401,7 +401,7 @@ sources:
 > - **制度机会（Opportunity）**
 >   涵盖外部环境赋予的客观条件，包括充裕的教学研讨工时、校领导层的明确授权与物质支持、同侪协同机制以及包容试错的评价文化。
 > - **内在动机（Motivation）**
->   涵盖使用者的内在专业认同感、对循证反思价值的深层信念、对[[Self-Efficacy\|自我效能感]]的期待，以及通过改进教学切实提升学生学业的内在驱动力。
+>   涵盖使用者的内在专业认同感、对循证反思价值的深层信念、对自我效能感的期待，以及通过改进教学切实提升学生学业的内在驱动力。
 > - **行为转化（Behaviour）**
 >   三者共同构成行为改变的必要与[[Necessary and Sufficient Conditions\|充分条件]]网，任何单个维度的缺失都会导致变革链条中断，促使中介干预必须采取综合施策。
 

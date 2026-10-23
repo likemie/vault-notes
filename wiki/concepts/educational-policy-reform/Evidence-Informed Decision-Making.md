@@ -7,7 +7,7 @@ aliases:
 summary: "在规划、实施或调整政策、项目与服务前系统咨询最佳可用研究证据的审议过程，强调通过六大因果机制改变决策者行为与心理状态的系统框架。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 31
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -33,8 +33,13 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Knowledge Production]]"
   - "[[Research Translation]]"
+  - "[[Epistemology]]"
+  - "[[Data Literacy]]"
+  - "[[Phronesis]]"
+  - "[[Science of Using Science]]"
   - "[[Policy Network]]"
   - "[[Paradigm]]"
+  - "[[Tacit Knowledge]]"
   - "[[Evidence-Informed Practice]]"
 related_theories:
   - "[[COM-B Model]]"
@@ -47,12 +52,14 @@ related_persons: []
 related_facts:
   - "[[UNESCO]]"
   - "[[EVIPNet]]"
-  - "[[EPPI-Centre]]"
   - "[[OECD]]"
+  - "[[World Bank]]"
+  - "[[EPPI-Centre]]"
 related_arguments:
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high
 status: active
 created: '2026-09-12'
@@ -164,11 +171,11 @@ updated: 2026-10-23
 
 ### 命题三　真实的证据知情决策依赖制度使能环境与认识论正义，反对将政策转化阻碍个体责任化归咎于官员素养
 
-> [!concept-lens] 制度使能环境与认识论正义
-> 探讨超国家话语中证据知情决策的个体化偏颇，论证系统使能条件与地方包容性审议对推进实质性证据知情决策的核心价值。
+> [!concept-lens] 制度使能环境与[[Epistemology|认识论]]正义
+> 探讨超国家[[Discourse|话语]]中证据知情决策的个体化偏颇，论证系统使能条件与地方包容性审议对推进实质性证据知情决策的核心价值。
 
 > [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
-> **超越个体责任化与重塑包容性证据知情生态** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对经合组织、教科文组织与世界银行政策文本的分析指出，主流超国家话语常将证据知情决策的推进瓶颈归咎于决策官员缺乏数据素养与分析技能，从而将原本深嵌于科层体制与政治环境的系统性阻碍转化为公职人员的个体能力缺陷（个体责任化）；推进真实的证据知情决策，必须超越单纯的个体技能培训，着力重构涵盖行政时间保障、跨界对话空间与制度激励的使能环境，并在全球实证证据与本土实践智慧之间确立认识论正义与包容性审议空间。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 340, 347–351)]]
+> **超越个体责任化与重塑包容性证据知情生态** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对[[OECD|经合组织]]、教科文组织与[[World Bank|世界银行]]政策文本的分析指出，主流超国家话语常将证据知情决策的推进瓶颈归咎于决策官员缺乏[[Data Literacy|数据素养]]与分析技能，从而将原本深嵌于科层体制与政治环境的系统性阻碍转化为公职人员的个体能力缺陷（个体责任化）；推进真实的证据知情决策，必须超越单纯的个体技能培训，着力重构涵盖行政时间保障、跨界对话空间与制度激励的使能环境，并在全球实证证据与本土[[Phronesis|实践智慧]]之间确立认识论正义与包容性审议空间。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 340, 347–351)]]
 
 ---
 
@@ -184,7 +191,7 @@ updated: 2026-10-23
 > [!dev-timeline] 概念演变
 > - **1990s — 证据为本决策（Evidence-Based Policymaking）的兴起** 受循证医学启发，英国布莱尔政府提出“什么有效即是真理”，开启了追求高等级实证证据指导政策的时代。
 > - **2000s — 从 Evidence-Based 向 Evidence-Informed 的现实转向** 政策学者意识到政治博弈、价值冲突与行政情境的制约，“证据知情”（Evidence-Informed）取代“证据为本”，承认证据是决策审议的多元输入之一而非唯一决定者。
-> - **2016 — Langer 等人提出 EIDM 行为改变因果框架** [[EPPI-Centre]] 的 Laurenz Langer 等人发表《The Science of Using Science》，整合行为科学与心理学理论，首次构建以行为改变为终极目标、包含六大机制与 [[COM-B Model\|COM-B]] 中介心理[[Construct\|构念]]的 EIDM 分析模型。
+> - **2016 — Langer 等人提出 EIDM 行为改变因果框架** [[EPPI-Centre]] 的 Laurenz Langer 等人发表《The [[Science of Using Science]]》，整合行为科学与心理学理论，首次构建以行为改变为终极目标、包含六大机制与 [[COM-B Model\|COM-B]] 中介心理[[Construct\|构念]]的 EIDM 分析模型。
 > - **2022 — [[OECD]] [[Knowledge Mobilisation\|知识动员]]比较中的理论定位** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 将 EIDM 确立为补充宏观动员模型理论盲区的前沿微观机制典范，强调其填补了决策端行动者微观因果转化机制的长期空白。
 > - **2024 — 全球教育治理反思与常设知情网络（EVIPNet）借镜** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al., 2024a, pp. 36–37, 48–49]]）跨界对比公共卫生与教育的证据利用架构，指出证据知情决策不能停留在自上而下的政策简报分发，而必须借镜世卫组织证据知情[[Policy Network|政策网络]]（EVIPNet）模式，在国家行政体制内部建立常设的知识转化平台与长效监测、评估与学习（MEL）规程。
 > - **2026 — 超国家话语解构与证据知情决策的制度使能与认知正义转向** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 批判超国家话语将证据知情决策阻碍个体化归咎于官员数据素养的偏颇，提出必须通过制度使能环境建设与包容性审议确立地方认识论正义。
@@ -203,7 +210,7 @@ updated: 2026-10-23
 > > 探讨推进证据知情决策的核心是强化官员个人素养，还是重塑制度环境与承认地方实践知识。
 > >
 > > - **个体胜任力本位** 侧重培训决策者的统计素养、数据解读能力与证据搜寻技能。
-> > - **制度使能与认知正义立场（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 强调决策受制于行政体制与政治现实，必须破除责任个体化，建立保障审议工时与容纳地方默会知识的制度环境。
+> > - **制度使能与认知正义立场（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 强调决策受制于行政体制与政治现实，必须破除责任个体化，建立保障审议工时与容纳地方[[Tacit Knowledge|默会知识]]的制度环境。
 
 ---
 
