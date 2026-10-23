@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "PISA",
+      "path": "wiki/facts/global/PISA.md"
+    },
+    {
       "basename": "Argument_Steiner-Khamsi_2024_UNESCO",
       "path": "wiki/arguments/reports-policy-documents/Argument_Steiner-Khamsi_2024_UNESCO.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Visible Learning Meta-X",
       "path": "wiki/facts/new-zealand/Visible Learning Meta-X.md"
-    },
-    {
-      "basename": "template-concept",
-      "path": "wiki/templates/template-concept.md"
     }
   ],
   "omittedPaths": [],
