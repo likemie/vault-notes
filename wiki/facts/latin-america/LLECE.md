@@ -4,6 +4,8 @@ aliases:
   - 拉丁美洲教育质量评估实验室
   - Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación
   - LLECE Assessment
+  - SERCE
+  - Segundo Estudio Regional Comparativo y Explicativo
 summary: "1994年由联合国教科文组织拉丁美洲和加勒比地区教育办事处联合拉美19国教育部成立的区域教育质量评价网络，先后实施PERCE、SERCE、TERCE与ERCE四轮大规模跨国学业测评，是拉美地区历史最久、公信力最高的区域教育公平与学力测量系统。"
 type: fact
 subtype: program

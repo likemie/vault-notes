@@ -30213,6 +30213,16 @@
     ]
   },
   {
+    "title": "Martha Finnemore",
+    "type": "person",
+    "path": "wiki/persons/us/Martha Finnemore.md",
+    "aliases": [
+      "玛莎·费丽莫",
+      "费丽莫",
+      "Finnemore, M."
+    ]
+  },
+  {
     "title": "Martha Nussbaum",
     "type": "person",
     "path": "wiki/persons/us/Martha Nussbaum.md",
@@ -30786,6 +30796,7 @@
     "aliases": [
       "斯蒂芬·海尼曼",
       "海尼曼",
+      "Stephen Heyneman",
       "Heyneman, S. P.",
       "Heyneman, S."
     ]
@@ -34687,6 +34698,18 @@
     ]
   },
   {
+    "title": "Knowledge for Development",
+    "type": "fact",
+    "path": "wiki/facts/global/Knowledge for Development.md",
+    "aliases": [
+      "1998/1999年世界发展报告：知识与发展",
+      "世界发展报告1998/1999",
+      "World Development Report 1998/1999",
+      "WDR 1998/99",
+      "Knowledge for Development Report"
+    ]
+  },
+  {
     "title": "Learning Data Compact",
     "type": "fact",
     "path": "wiki/facts/global/Learning Data Compact.md",
@@ -34843,6 +34866,17 @@
       "提高教育系统成效研究项目",
       "RISE项目",
       "Research on Improving Systems of Education"
+    ]
+  },
+  {
+    "title": "Robert S. McNamara Fellowships Program",
+    "type": "fact",
+    "path": "wiki/facts/global/Robert S. McNamara Fellowships Program.md",
+    "aliases": [
+      "麦克纳马拉研究员奖学金项目",
+      "麦克纳马拉研究员计划",
+      "McNamara Fellowships",
+      "RSMFP"
     ]
   },
   {
@@ -35369,7 +35403,9 @@
     "aliases": [
       "拉丁美洲教育质量评估实验室",
       "Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación",
-      "LLECE Assessment"
+      "LLECE Assessment",
+      "SERCE",
+      "Segundo Estudio Regional Comparativo y Explicativo"
     ]
   },
   {

@@ -12,6 +12,10 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
+fact_related_count: 8
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#ede9fe"
 period: "1998"
 initiator_organization: "世界银行（World Bank）与发展经济学研究局（DEC）"
 tags:
@@ -24,19 +28,16 @@ tags:
 related_concepts:
   - "[[Knowledge Bank]]"
   - "[[Epistemic Governance]]"
-  - "[[Knowledge Production]]"
-  - "[[Cognitive Authority]]"
-related_theories:
-  - "[[Human Capital Theory]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[James Wolfensohn]]"
 related_facts:
   - "[[World Bank]]"
-  - "[[Strategic Compact]]"
   - "[[Development Economics Vice Presidency]]"
   - "[[Educational Knowledge Management System]]"
+  - "[[Strategic Compact]]"
 related_arguments:
   - "[[Argument_Zapp_2017_IJED]]"
 confidence: high
@@ -63,12 +64,12 @@ updated: 2026-10-23
 
 > [!policy-design] 方案设计与理论分类
 > - **发展知识的核心两分法**
->   - **技术知识（Knowledge about technology）**：涉及农业、健康、工程、教育教学法等领域的技术诀窍（Know-how）；发达国家与发展中国家在此维度的差距构成了“知识差距（Knowledge Gaps）”；
->   - **属性知识（Knowledge about attributes）**：涉及产品质量、劳动者技能资质、借款人信誉及环境风险的信息与认证；信息缺乏与信息不对称引发“信息问题（Information Problems）”，导致市场失灵与逆向选择。
+>   - **技术知识（Knowledge about technology）** 涉及农业、健康、工程、教育教学法等领域的技术诀窍（Know-how）；发达国家与发展中国家在此维度的差距构成了“知识差距（Knowledge Gaps）”；
+>   - **属性知识（Knowledge about attributes）** 涉及产品质量、劳动者技能资质、借款人信誉及环境风险的信息与认证；信息缺乏与信息不对称引发“信息问题（Information Problems）”，导致市场失灵与逆向选择。
 > - **发展中国家知识战略三支柱**
->   - **获取知识（Acquiring Knowledge）**：通过对外贸易、引进外资以及接入全球电信互联网，引入国际前沿技术与科学知识；
->   - **吸收知识（Absorbing Knowledge）**：通过建立普惠的高质量基础教育体系与终身学习网络，大幅提升全体国民消化与本土化改造先进知识的能力；
->   - **沟通知识（Communicating Knowledge）**：依托现代信息通信技术（ICT）与信息公开法规，降低全社会交易成本与市场信息壁垒。
+>   - **获取知识（Acquiring Knowledge）** 通过对外贸易、引进外资以及接入全球电信互联网，引入国际前沿技术与科学知识；
+>   - **吸收知识（Absorbing Knowledge）** 通过建立普惠的高质量基础教育体系与终身学习网络，大幅提升全体国民消化与本土化改造先进知识的能力；
+>   - **沟通知识（Communicating Knowledge）** 依托现代信息通信技术（ICT）与信息公开法规，降低全社会交易成本与市场信息壁垒。
 > - **教育的战略再定位** 将公共教育从传统的非生产性社会福利支出，重塑为决定一国吸收全球科学知识存量能力的决定性生产要素与国家安全支柱。
 
 > [!citation-card] 知识作为发展核心的论断
@@ -114,7 +115,7 @@ updated: 2026-10-23
 > > 批判政治经济学家指出，该报告将复杂的全球南北贫富差距与历史不平等简化为纯粹的“技术知识差距”与“信息流动不足”。
 > >
 > > - **批评观点** 批评指出报告回避了全球资本积累体制、不平等贸易交换与债务危机的政治根源，试图通过给发展中国家提供电脑和信息连接掩盖深层制度剥削。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 3–4)]]
-> > - **报告辩护** 报告作者群强调，知识并不取代资本投资，而是赋能资本利用效率的杠杆；忽视信息与知识流动只会导致传统物质援助陷入低效与贪腐泥潭。
+> > - **报告团队辩护** 斯蒂格利茨等主笔学者强调，知识与实物投资形成功能互补，知识能够系统提升资本利用效率；忽视信息流动与吸收能力会导致传统实物援助陷入低效困境。
 >
 > > [!axis] 普适西方科学对本土情境知识的挤压
 > > 人类学者与后殖民比较教育学者批评该报告所指的“知识”几乎等同于欧美主导的实证经济学与西方技术，忽视甚至边缘化了全球南方的本土传统知识。
@@ -122,7 +123,7 @@ updated: 2026-10-23
 > > - **反思学者** 指出世行所谓的“获取全球知识”实质上构建了单向的知识流动渠道，借款国被客体化为被动吸收西方标准模型的容器。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 10)]]
 
 > [!lessons] 经验教训与启示
-> - **政策理论化能够产生深远治理权力** 国际组织最持久的影响力不在于资金借贷的硬性附加条件，而在于通过宏大报告重构全球思考问题的方式与词汇体系。
+> - **政策理论化能够产生深远治理权力** 国际组织通过宏大报告重构全球思考发展问题的方式与核心范畴，形成超越短期贷款附加条件的深层认知权力。
 > - **必须警惕知识霸权与认知单一化** 真正的知识发展战略必须尊重文化多样性与本土知识生态，避免以全球普遍度量衡抹杀本土实践的异质价值。
 
 ---

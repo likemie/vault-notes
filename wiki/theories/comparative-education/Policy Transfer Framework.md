@@ -168,6 +168,6 @@ updated: 2026-10-23
 
 > [!theory-studies] 代表性实证研究
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 运用政策转移[[Analytic Framework|分析框架]]结合英国[[Evidence-Based Policy-Making|循证决策]]转向，解构新工党为何从美国借用福利政策与随机实验评估规程。
-> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 在《政策与社会》（Policy and Society）专刊导论中审视发展合作与跨国政策转移的交织机制，提出政策大使、代表性知识与多向政策循环框架。
+> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 结合国际发展合作审视跨国政策转移的交织机制，提出政策大使、代表性知识与多向政策循环框架。
 
 ---

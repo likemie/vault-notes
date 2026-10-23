@@ -8,6 +8,10 @@ summary: "美国著名建构主义国际关系学者，乔治华盛顿大学国�
 type: person
 nationality: us
 person_region: "us"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1959"
 died: ""
 lifespan: "1959–至今"
@@ -22,10 +26,7 @@ tags:
 related_concepts:
   - "[[Cognitive Authority]]"
   - "[[Epistemic Governance]]"
-  - "[[Inquisitive Mode of Governance]]"
-  - "[[Knowledge Mediation]]"
 related_theories:
-  - "[[Constructivist Paradigm]]"
   - "[[World Society Theory]]"
 related_methods: []
 related_instruments: []
@@ -60,7 +61,7 @@ updated: 2026-10-23
 > - **1982 年** 获哈佛大学历史与文学学士学位。
 > - **1991 年** 获斯坦福大学政治学博士学位，深受斯坦福社会学系约翰·迈耶（John Meyer）[[World Society Theory|世界社会理论]]与理性化理论的深层熏陶。
 > - **1991 年起** 任教于乔治华盛顿大学政治科学系与埃利奥特国际事务学院。
-> - **1993 年** 在《International Organization》发表划时代奠基论文《International Organizations as Teachers of Norms: The United Nations Educational, Scientific, and Cultural Organization and Science Policy》。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 2)]]
+> - **1993 年** 在《International Organization》发表奠基论著《International Organizations as Teachers of Norms: The United Nations Educational, Scientific, and Cultural Organization and Science Policy》。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 2)]]
 > - **1996 年** 出版经典专著《National Interests in International Society》（康奈尔大学出版社），实证剖析国际规范如何重塑国家安全与科学政策偏好。
 > - **1999 年** 与 Michael Barnett 在《International Organization》发表《The Politics, Power, and Pathologies of International Organizations》。
 > - **2004 年** 与 Michael Barnett 合作出版代表作《Rules for the World: International Organizations in Global Politics》（康奈尔大学出版社）。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 3)]]
@@ -116,7 +117,7 @@ updated: 2026-10-23
 > > 现实主义政治学家与后殖民批判学者质疑，国际组织所教导的“普遍规范”往往是大国战略利益与西方启蒙理性话语的包装。
 > >
 > > - **批评学者** 指出规范从中心向边缘的单向流动掩盖了国际组织内部投票权垄断与资源不对等，所谓的“教师”角色实质上构成了对发展中国家政策自主权的温和剥夺。
-> > - **费丽莫辩护** 强调规范的采纳并非纯粹强制服从，主权国家往往通过能动性选择在国际社会寻求现代合法性认可，规范在本土化过程中亦会经历重塑与杂糅。
+> > - **费丽莫辩护** 强调主权国家对规范的采纳包含主动的能动选择，国家通过接纳国际规范在国际社会确立现代合法性，规范在本土化过程中亦经历重塑与杂糅。
 >
 > > [!axis] 官僚自主性与大国控制边界的争论
 > > 新现实主义学者认为国际组织官僚一旦触及大国核心地缘利益便会迅速退化为无能中介。
