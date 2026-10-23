@@ -104,7 +104,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -123,7 +123,7 @@ updated: 2026-10-22
 > [!dev-timeline] 六十年技术使命演化与突破历程
 > - **1958–1960s — 太空竞争突围与计算机科学建制奠基** [[Dwight D. Eisenhower|艾森豪威尔]]总统因应苏联斯普特尼克危机设立高级研究计划局（ARPA）；早期短暂主导美国航天计划（后移交[[National Aeronautics and Space Administration|美国国家航空航天局]] [NASA]）；1962 年设立信息处理技术办公室（IPTO），资助分时操作系统、图形交互与分组交换网络；1968 年底突破传统垄断电信巨头，将首个[[ARPANET|阿帕网]]（ARPANET）接口信息处理机关键制造合同授予麻省理工学院教授创办的小型工程咨询公司 BBN，直接催生阿帕网；并系统资助麻省理工学院、斯坦福大学、卡内基梅隆大学与加州大学伯克利分校等高校计算机科学系所的学科奠基。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 38–39)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 175–176, 183)]]
 > - **1970s — [[Mansfield Amendment 1969|曼斯菲尔德修正案]]、TCP/IP 公共领域确立与战术隐身突防** 国会通过《曼斯菲尔德修正案》，强制要求国防研发紧密挂钩直接军事需求；机构改组为国防高级研究计划局（DARPA），重点资助战术防御技术；启动“海弗蓝”（Have Blue）验证机项目，突破机身雷达散射截面积计算理论与吸波材料工艺，最终催生 F-117 隐身攻击机。同期在网络通信领域，资助卡恩与瑟夫研制 TCP/IP 协议，并坚持将其完全置于公共领域（Public Domain），不申请排他性专利，联合全美逾 100 所大学和科研节点进行大规模实体部署，奠定了全球开放互联网架构。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 39–40)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
-> - **1980s — 战略计算倡议、[[VLSI Project|VLSI]] 设计革命、[[MOSIS]] 流片平台与 [[Sematech]] 联合体** 面对日本半导体与高科技产业的严峻竞争挑战，DARPA 成为美国构建[[Developmental Network State|发展型网络国家]]（DNS）的核心试验田与制度模板。发起战略计算倡议（SCI）；资助康韦（Lynn Conway）与米德（Carver Mead）的超大规模集成电路（VLSI）结构化设计方法论革命；于 1981 年设立 **[[MOSIS]]（金属氧化物半导体集成服务）** 原型流片平台，首创[[Multi-Project Wafer|多项目晶圆]]（MPW）拼版代工机制，将芯片设计与制造物理环节彻底解耦；资助伯克利与斯坦福开发精简指令集（RISC）架构；在 1980–1989 年间资助 9 亿美元实施甚高速集成电路（VHSIC）计划；并在 1984 年《国家合作研究法》（NCRA）支持下，于 1987 年联合全美 14 家芯片制造龙头设立 **[[Sematech]]** 研发联合体，由国防部通过 DARPA 每年提供 1 亿美元对等匹配资助，攻坚前竞争共性光刻与制造装备工艺，成功逆转美国半导体制造劣势；全力推进全球定位系统（GPS）的军民部署。[[Argument_Block_2008_PS|(Block, 2008, pp. 175–176, 178–181)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–183)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–730)]]
+> - **1980s — 战略计算倡议、[[VLSI Project|VLSI]] 设计革命、[[MOSIS]] 流片平台与 [[Sematech]] 联合体** 面对日本半导体与高科技产业的严峻竞争挑战，DARPA 成为美国构建[[Developmental Network State|发展型网络国家]]（DNS）的核心试验田与制度模板。发起战略计算倡议（SCI）；资助康韦（Lynn Conway）与米德（Carver Mead）的超大规模集成电路（VLSI）结构化设计方法论革命；于 1981 年设立 **[[MOSIS]]（金属氧化物半导体集成服务）** 原型流片平台，首创[[Multi-Project Wafer|多项目晶圆]]（MPW）拼版代工机制，将芯片设计与制造物理环节分开；资助伯克利与斯坦福开发精简指令集（RISC）架构；在 1980–1989 年间资助 9 亿美元实施甚高速集成电路（VHSIC）计划；并在 1984 年《国家合作研究法》（NCRA）支持下，于 1987 年联合全美 14 家芯片制造龙头设立 **[[Sematech]]** 研发联合体，由国防部通过 DARPA 每年提供 1 亿美元对等匹配资助，攻坚前竞争共性光刻与制造装备工艺，成功逆转美国半导体制造劣势；全力推进全球定位系统（GPS）的军民部署。[[Argument_Block_2008_PS|(Block, 2008, pp. 175–176, 178–181)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–183)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–730)]]
 > - **1990s — 冷战后军民两用转型与微系统基础探索** 在登曼、林恩与费尔南德斯领导下，DARPA 重点转向军民两用（Dual-use）技术开发与跨学科基础探索；微系统技术办公室（MTO）依托开放广泛领域公告（[[Broad Agency Announcement|BAA]]），前瞻性资助硅锗（SiGe）异质结晶体管与应变硅材料研发，突破硅基物理极限，为后摩尔时代微处理器奠定核心工艺基石。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138)]]
 > - **2000s — [[Tony Tether|托尼·瑟瑟]]采办改革、“弥合鸿沟”与自主系统挑战赛** 2001 年托尼·瑟瑟出任局长，确立“弥合鸿沟”施政纲领，推行采办机制变革；资助重心由大学转向工业界传统国防巨头，引入 12–16 个月硬性里程碑审查（Go/No-Go）与涉密限制；微观层面项目经理继续运用[[Embedded Network Governance|嵌入型网络治理]]攻克 3D 封装与芯片光互连；同期资助 CALO 项目（孵化出 Siri），并在 2004 与 2005 年举办两届无人车大挑战赛（Grand Challenge），开创了现代自动驾驶产业生态。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138, 1142–1144)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 28)]]
 > - **2010s–至今 — 生物技术拓展、[[Joint University Microelectronics Program 2.0|JUMP 2.0]] 与《[[CHIPS and Science Act|芯片法案]]》跨机构研发衔接** 设立生物技术办公室（BTO），在新冠疫情暴发前数年即通过 ADEPT 计划前瞻资助莫德纳（Moderna）等团队研发 mRNA 疫苗平台与核酸递送技术；在空战领域推行“小妖精”（Gremlins）低成本无人机群空中回收验证。2023 年联合半导体研究联盟（[[Semiconductor Research Corporation|SRC]]）发起[[Joint University Microelectronics Program 2.0|联合大学微电子2.0计划]]（JUMP 2.0），依托宾夕法尼亚州立大学牵头的 14 所顶尖高校攻坚微电子[[Heterogeneous Integration|异构集成]]与先进封装。在《芯片与科学法案》（[[CHIPS and Science Act]]）与白宫《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》框架下，DARPA 推进电子复兴计划（ERI 2.0）与[[Embedded Entrepreneurship Initiative|嵌入式创业倡议]]（EEI），其工具箱共享机制（[[DARPA Toolbox Initiative|DARPA Toolbox]]）与国防部微电子公有云（[[Microelectronics Commons]]）、商务部[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）及[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）实现全链条研发协同与技术进阶衔接；同时，DARPA 在芯片安全架构（AISS/SSITH）上的前期积累直接奠定了国家战略第四支柱（[[Hardware Security|硬件安全]]与根信任）的技术基石。DARPA 的项目经理制、挑战赛模式与前竞争公私协同机制亦直接启发了美国卫生高级研究计划署（[[ARPA-H]]）、高级能源研究计划署（[[ARPA-E]]）、国家科学基金会 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会以及[[Focused Research Organization|聚焦研究组织]]（FRO）等新型科研建制。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 807)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 26, 32)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8, 24–25)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–29, 37–44)]]
@@ -137,8 +137,13 @@ updated: 2026-10-22
 > - **前瞻科技智囊网络（[[Information Science and Technology Study Group|ISAT]] 研究小组）** 设立由顶尖学者与产业界研发领袖组成的信息科学与技术研究小组（ISAT）等常设学术顾问网络（如克里斯·拉明等专家长期担任顾问），充当机构感知前沿技术[[Paradigm|范式]]转移的外部雷达。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 239)]]
 > - **外包执行与网络节点定位** 本身不设任何下属实体实验室或测试车间，全部研发任务通过契约合同直接发包给全美顶尖大学、国家实验室、初创企业与工业巨头。
 
+> [!feature] 正式采办制度变化与非正式治理延续
+> 1992–2000 年间，招标允许大学与初创企业担任主承包商；2001–2008 年间，许多招标要求由成熟企业担任主承包商，高校和初创企业通过团队参与。多阶段拨款也与预设交付物的审查挂钩。这些变化调整了参与者及其合同地位。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1138, Table 2)]]
+>
+> 对硅锗、应变硅、三维封装及光互连项目的追踪发现，项目经理识别方向、组织交流、提供第三方背书和适时退出等非正式机制，在领导期与资助结构变化前后仍然存在。这些案例支持区分正式采办规则与项目经理日常治理，避免仅凭合同结构判断治理机制是否终结。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1139–1146)]]
+
 > [!proc] 项目经理微观[[Embedded Network Governance|嵌入型网络治理]]的五大非正式运行机制（[[Argument_Fuchs_2010_RP|Fuchs, 2010, pp. 1144–1146]]）
-> 1. **前瞻识别与播撒技术构想（Identifying and Seeding Ideas）** 项目经理深度沉浸于学术前沿与产业网络，敏锐捕捉处于萌芽期的非共识构想，通过小额[[Seed Funding|种子基金]]播撒共同技术主题，催化产业界认知跃迁。
+> 1. **前瞻识别与播撒技术构想（Identifying and Seeding Ideas）** 项目经理深度沉浸于学术前沿与产业网络，敏锐捕捉处于萌芽期的非共识构想，通过小额[[Seed Funding|种子基金]]播撒共同技术主题，改变产业界对技术可行性的判断。
 > 2. **闭门[[Brainstorming|头脑风暴]]与引导[[Technological Trajectories|技术轨道]]（Brainstorming and Shaping Trajectories）** 绕开传统同行评议的均值化保守偏好，密集组织跨学科闭门研讨会，直面技术瓶颈与物理极限，自下而上共同确立国家战略技术轨道。
 > 3. **构建共生研发共同体与强制跨界知识流动（Creating Symbiotic Research Communities & Mandatory Information [[Flow]]）** 在垂直[[Vertical Disintegration|纵向离散]]的产业生态中，将大学科学家、晶圆代工厂、材料供应商与系统巨头编织进共享团队，利用合同权力强制知识跨壁垒流动。
 > 4. **提供独立第三方背书与商业信誉加持（Providing Third-Party Commercial/Strategic Legitimacy）** 项目经理充当客观中立的技术裁判与早期战略投资人，为前沿颠覆性路线提供国家信誉背书，有效撬动私营风险资本与军方主战部队后续投资。
@@ -148,6 +153,7 @@ updated: 2026-10-22
 
 > [!finding-cards] 颠覆性技术策源矩阵
 > - **数字时代信息基础设施** 互联网前身 [[ARPANET]]、TCP/IP 协议族、分时计算系统、计算机图形界面与鼠标早期研发资助。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 38–40)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 175–176)]]
+>   与英法同期网络项目相比，ARPANET 的区别包括大规模部署与参与机构的多样性；DARPA 同时资助多所大学和私营实验室探索不同技术路线，并向小企业提供开发与采购合同。这些安排共同促进了配套技术、应用和新企业的发展。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 39–40)]]
 > - **微电子设计革命与 [[MOSIS]] 原型流片平台** 资助结构化 [[VLSI Project|VLSI]] 设计方法论革命，于 1981 年设立 **[[MOSIS]]** 服务平台。该平台允许全美数十所大学与初创企业的数百名设计师通过网络提交数字设计文件，DARPA 统筹将其拼版在同一块[[Multi-Project Wafer|多项目晶圆]]（MPW）上交由商业代工厂集中流片，单次试制成本由数万美元骤降至数百美元。这一制度与工程创新直接打破了 IBM、AT&T 等垂直整合大公司对芯片制造产线的垄断，奠定了硅谷无晶圆厂（Fabless）设计产业蓬勃发展的基石。进入 2020 年代，DARPA 推行的“DARPA 工具箱”（[[DARPA Toolbox Initiative|DARPA Toolbox]]）直接成为商务部[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）设计赋能网关（DEG）与中试服务的制度蓝本。[[Argument_Block_2008_PS|(Block, 2008, pp. 175–176, 178–180)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 24–25)]]
 > - **半导体制造共性技术联盟（[[Sematech]]）** 1987 年面对日本在 DRAM 存储器芯片制造良率上的压倒性优势，DARPA 牵头为 Sematech 联合体提供对等财政匹配资助，攻关前竞争共性光刻与半导体制造设备，促使美国半导体设备行业重新夺回全球领先地位。[[Argument_Block_2008_PS|(Block, 2008, pp. 180–181)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–730)]]
 > - **深科技早期创业与风险分担机制** 实施[[Embedded Entrepreneurship Initiative|嵌入式创业倡议]]（EEI），为国防研发团队派驻资深连续创业导师，并通过小企业创新研究（[[SBIR and STTR Programs|SBIR]]）资金与私营风险投资按比例匹配，系统性化解深科技初创企业跨越中试“[[Valley of Death|死亡之谷]]”的早期融资瓶颈。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 26–27)]]
@@ -164,7 +170,7 @@ updated: 2026-10-22
 > *DARPA's success lies in its culture of welcoming high-risk technological exploration and its flexible, non-bureaucratic structure... DARPA project managers have full autonomy to identify and fund radical ideas and the authority to quickly pull the plug on underperforming projects.*
 
 > [!citation-card] 卡普与扎米斯卡论 DARPA 与硅谷[[Historical Amnesia|历史健忘症]]的对质
-> 个人电脑、互联网与现代数字革命并非纯粹由自由市场孕育，而是冷战时期美国国防部高级研究计划局（DARPA）等公共机构长期战略投资与订单托底的直接产物。科技巨头改写历史、将自己置于创新宇宙中心叙事的行为，反映出公共契约精神的严重断裂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
+> 个人电脑、互联网与现代数字革命是冷战时期美国国防部高级研究计划局（DARPA）等公共机构长期战略投资与订单托底的直接产物。科技巨头改写历史、将自己置于创新宇宙中心叙事的行为，反映出公共契约精神的严重断裂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
 >
 > *The entire digital infrastructure, from computing architecture to the internet itself, traces its lineage directly back to DARPA and cold-war defense investments. For modern software oligarchs to claim sole credit while turning their backs on national security is a profound act of historical amnesia.*
 
@@ -177,6 +183,9 @@ updated: 2026-10-22
 > >
 > > - **早期军民需求重合期的成功（COBOL [[Paradigm|范式]]）** 在软件产业萌芽期（1950–1960年代），国防部作为全美最大计算机买家，主导设立的 COBOL 语言标准迅速扩散为全美企业与军方的通用商业编程标准。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–181)]]
 > > - **后期民用市场成熟期的规制受挫（Ada 语言教训）** 到了 1980 年代，国防部试图通过行政命令强制推行专为复杂嵌入式军用系统设计的 Ada 编程语言；然而此时商用软件已进入个人计算机与独立软件供应商驱动的繁荣期，Ada 语言因脱离民用商业生态而遭到全面弃用。Mowery 指出，随着民用市场规模与技术多样性的成熟，政府难以再凭单一意志规制[[General Purpose Technology|通用技术]]的发展轨迹。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–182)]]
+>
+> > [!axis] 向社会挑战推广 DARPA 模式的适用边界
+> > 使命政策的历史比较将 DARPA 列为第二代技术使命的代表。气候变化、公共健康与老龄化等社会挑战还涉及跨部门协调、公众参与和服务使用者反馈，需要发展相应的政策设计与学习能力。推广时应同时考察这些条件，不能仅凭项目经理授权和技术里程碑安排推定能够解决社会问题。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–796)]]
 >
 > > [!axis] 风险社会化 vs 收益私有化的分配失衡与历史健忘
 > > 批评公共资金承担了极早期颠覆性创新的绝大部分失败风险，而商业化超额利润与创新光环却完全归于私营巨头。
@@ -212,6 +221,8 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 将 DARPA 作为美国[[Developmental Network State|发展型网络国家]]的枢纽，剖析 [[MOSIS]] 与 [[Sematech]] 托底早期技术开发的机制。
+> - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 比较美英法网络研发与部署，分析多机构资助、公开协议和小企业采购合同如何支持互联网产业形成。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 比较不同代际使命政策的组织能力要求，为讨论 DARPA 模式向社会挑战推广的边界提供依据。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 阐释 DARPA 作为探索型去中心化公共网络在颠覆性技术突破与[[Market Shaping and Creating|市场塑造]]中的引领机制。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 详尽剖析联邦国防部与 DARPA 资助对美国微电子、软件架构与计算产业历史形成的结构性贡献与规制边界。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 深入揭示 DARPA 项目经理如何通过[[Embedded Network Governance|嵌入型网络治理]]推动 SiGe 材料、3D 封装与光芯片等微系统前沿突破。

@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -78,10 +78,10 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心学术思想
-> 杰罗姆·E·施尼（Jerome E. Schnee）的核心洞见在于：大型国家公共项目对新兴产业的核心驱动力，不在于政府自身去发明基础科学原理，而在于在技术商业化初期充当敢于支付早期溢价的确定性首购买家（[[Assured Demand|确定性需求]]），通过保障规模订单推动企业跨越学习曲线并释放 20%–30% 的制造成本暴跌，同时坚持技术指标择优发包以打破传统垄断巨头格局，辅以容忍人才跨企业离职创业的[[Human Capital Theory|人力资本]]流动机制，多维协同催生了具有全球主导力的高科技产业生态。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 20–22)]]
+> 杰罗姆·E·施尼（Jerome E. Schnee）的核心洞见在于：大型国家公共项目通过采购促进产业发展的作用，与政府自身发明基础科学原理的作用有所区别；这些项目在技术商业化初期充当敢于支付早期溢价的确定性首购买家（[[Assured Demand|确定性需求]]），通过保障规模订单推动企业跨越学习曲线并释放 20%–30% 的制造成本暴跌，同时坚持技术指标择优发包以打破传统垄断巨头格局，辅以容忍人才跨企业离职创业的[[Human Capital Theory|人力资本]]流动机制，多维协同催生了具有全球主导力的高科技产业生态。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 20–22)]]
 
 > [!citation-card] 施尼论公共项目对高技术产业成长的复合塑造机制
-> 空间与国防大项目对高技术产业的推动并非单一研发维度的刺激，而是由需求保障、竞争促进与人力资本流动构成的协同系统。公共部门通过早期包揽全部产能，承担了商业市场无法承受的初期高昂成本，使得微观生产经验得以迅速累积并促成价格暴跌，从而为后续民用通用市场的爆发奠定了基础。
+> 空间与国防大项目对高技术产业的推动涵盖研发支持与需求保障，并结合竞争促进和人力资本流动形成协同系统。公共部门通过早期包揽全部产能，承担了商业市场无法承受的初期高昂成本，使得微观生产经验得以迅速累积并促成价格暴跌，从而为后续民用通用市场的爆发奠定了基础。
 >
 > *The impact of government programs on high-technology industries is multifaceted, encompassing direct R&D support, assured market demand, stimulation of competition, technological demonstration, and manpower development. Government procurement underwrote the early high-cost learning phase, enabling radical price declines that paved the way for commercial takeoff.* [[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 20–21)]]
 

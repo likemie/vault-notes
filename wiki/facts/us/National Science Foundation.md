@@ -123,7 +123,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -175,6 +175,7 @@ updated: 2026-10-22
 > - **TIP [[NSF X-Labs|X-Labs]] 与新型科研组织直接资助** 突破传统仅向大学系所拨款的限制，TIP X-Labs 开始直接资助具备全职工程师团队的独立[[Focused Research Organization|聚焦研究组织]]（FRO），围绕全脑神经动机环路绘制等中等规模公共品科学开展攻关。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 26)]]
 > - **可携带式早期学者奖学金（[[Portable Fellowship|Portable Fellowships]]）** 改革研究生资助机制，扩大 NSF GRFP 资助并将经费直接赋权博士生本人，允许学者自主选择导师并跨校跨组携带，摆脱对单一 PI 课题组劳务的依附。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 > - **与 [[DARPA]] 的跨机构资助接力（Institutional Relay）** 对于颠覆性新构想（如应变硅技术），通常由 DARPA 率先承担早期概念验证风险；可行性确立后，学者转入 NSF 申请基金开展深入机理研究。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1143)]]
+> - **研究者的政策实践与资助优先事项** AAAS 科学与技术政策研究员项目及 AERA 对教育研究者的支持，为学者提供为期一年的政策实践机会。相关讨论提出，部分研究员此后可能进入 NSF 或 IES 等联邦机构，参与研究资助优先事项的设定；这是政策实践经历可能延伸出的职业路径。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
 
 ---
 
@@ -188,6 +189,7 @@ updated: 2026-10-22
 > - **国家超级计算机中心与网络基础设施** 1980 年代在 5 所大学设立超算中心，为早期互联网（NSFNET）与现代前沿计算奠定基石。
 > - **NSF 创新兵团（[[NSF I-Corps]]）** 高校[[Academic Entrepreneurship|学术创业]]标杆，累计孵化超 1,000 家科技初创企业，撬动逾 7.6 亿美元商业化融资。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
 > - **[[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会与[[NSF Regional Innovation Engines|区域创新引擎]]** 依据《[[CHIPS and Science Act|芯片法案]]》向 10 个区域创新合作体授予高达 1.6 亿美元十年期资助，并设立 [[NSF X-Labs|X-Labs]] 攻坚前沿中等规模工程科学。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 26)]]
+> - **STEM 与人文社科融合** “人类技术前沿的工作未来”（Future of Work at the Human-Technology Frontier）项目被列为[[Convergence Research|融合研究]]的案例。社会科学和人文学科可帮助理解技术变迁中的商业模式与社会实践；产学参与也为这些研究者提供企业数据、研发资源及学生实习机会。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 14–15)]]
 > - **国家人工智能研究院网络** 联合教育部等部门围绕 10 余个重点方向设立 25 所国家 AI 研究院，实现算法突破与芯片、教育场景的双向赋能。[[Argument_Cheng_2026_KeJiChuangXin|(程楠等, 2026, p. 40)]]
 
 > [!citation-card] 创设宪章与法定使命宣言
@@ -271,6 +273,8 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid] 相关研究索引
+> - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 讨论政策研究员经历如何促进研究者理解政策过程，以及进入 NSF 等联邦机构参与资助决策的可能路径。
+> - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 以工作未来项目说明 STEM 与人文社科融合，并讨论产学参与对不同学科的双向价值。
 > - [[Argument_Block_2008_PS|Block (2008)]] — 系统梳理 NSF 设立 [[Industry-University Cooperative Research Centers|I/UCRC]] 与 [[Engineering Research Centers|ERC]] 的制度突破，揭示其物理学家罗兰·蒂贝茨首创 [[SBIR and STTR Programs|SBIR]] 的历史源流，并反思[[Market Fundamentalism|市场原教旨主义]]对基金会公共资助正当性的极端否定。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统诊断 NSF 1950 年代学科壁垒与行政合规负担（42%–44%），提出设立[[Metascience|元科学]]单元、金券制、[[Directorate for Technology, Innovation and Partnerships|TIP]] [[NSF X-Labs|X-Labs]] 直接资助 [[Focused Research Organization|FRO]] 与可携带奖学金的改革方案。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，系统阐述 2025 年起美国科技政策转向[[Technology-Oriented Social Contract|技术型社会契约]]后，NSF 传统大学自由探索资助模式面临的边缘化与受限自治危机。
