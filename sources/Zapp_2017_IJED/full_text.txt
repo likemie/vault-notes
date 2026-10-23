@@ -1,0 +1,1212 @@
+--- PAGE 1 ---
+The World Bank and Education: Governing (through) knowledge
+Mike Zapp
+Institute of Education and Society, University of Luxembourg, 11, Porte des Sciences, L-4366 Esch-sur-Alzette, Luxembourg
+A R T I C L E I N F O
+Article history:
+Received 21 October 2016
+Accepted 29 November 2016
+Available online 23 December 2016
+Keywords:
+World Bank
+Global education
+Epistemic governance
+Educational knowledge production,
+management and dissemination
+A B S T R A C T
+The World Bank has become one of the most inﬂuential actors in global education governance. Much
+research on the World Bank’s role in education has focused on coercive and regulative mechanisms. The
+paper examines the WB’s epistemic inﬂuence in shaping educational knowledge. This article analyses its
+activities as producer, manager and transmitter of knowledge. Analyzing the evolution of the WB’s
+research and publication record, its knowledge management and project outreach since its creation, the
+article will show how it has become one of the world’s most important research producers in education.
+Through disseminating, teaching, applying and celebrating speciﬁc kinds of educational knowledge, its
+role as an educational knowledge clearinghouse has expanded to change the global education discourse.
+© 2016 Elsevier Ltd. All rights reserved.
+1. Introduction
+The World Bank (WB), initially the International Bank for
+Reconstruction and Development (IBRD), had been founded in
+1944 to assist in post-war reconstruction. With the founding of the
+International Development Association (IDA) in 1960, it extended
+its mission to global development.1 Compared to other interna-
+tional organizations (IOs), the WB today features the highest
+number in staff (more than 10,000 employees), widest geographic
+scope (genuinely global) and broadest substantive coverage
+(including all human development areas).
+In the decades following its founding and growth, the WB has
+gradually evolved from a global ﬁnancial facilitator into an
+important global agency involved in funding, advising and
+planning educational policies worldwide. While its early work
+in education prioritized on providing resources for infrastructure
+and ﬁnancing manpower training, its focus shifted, along with the
+general development discourse, to basic education and early
+childhood education in the 1970s and 1980s (Chabbott, 2003;
+Jones, 2007). Today, the WB is, by far, the largest funding institution
+in education in the world covering all educational sectors from
+early childhood care and education to tertiary education and
+lifelong learning.
+Studies dealing with the WB’s role in education are often
+interested in unearthing the ideological underpinnings of its
+education recommendations and in tracing its effects on public
+education systems and learning opportunities. As the major global
+lending institution, its loan conditionality has been shown to
+systematically involve reforms in education. In these studies, the
+WB is primarily analysed in terms of its coercive or regulative
+power (Jones, 1997; Klees, 2002; Klees and Edwards, 2014).
+More recently, scholarly contributions have started to take into
+account the normative inﬂuence of the WB by focusing on such
+mechanisms as agenda-setting and policy-design in education.
+Yet, despite this shift towards ‘softer governance’, little
+attention has been given to the cognitive or epistemic role of
+the WB. Thus, here the WB would primarily be understood as a
+producer, manager and transmitter of educational knowledge
+worldwide. Since 1996, when then-president James Wolfensohn
+announced that the World Bank is to become the ‘Knowledge
+Bank’, the organization has implemented a series of strategies to
+reform its internal management and operational portfolio. This
+‘knowledge turn’ did not only involve major changes in the use and
+provision of its knowledge management systems. The WB has
+invested heavily in knowledge production, namely research, in all
+its units, particularly in education. The Bank (as it calls itself) has
+become, in the last 15 years, the most productive scientiﬁc
+institution and data generator for a wide array of research areas
+including education. Its Development Research Group was nomi-
+nated ‘best government-afﬁliated think tank in the world’ in 2015,
+and the associated World Bank Institute comes ﬁfth in the same
+report published by the Think Tanks and Civil Societies Program
+(University of Pennsylvania).
+E-mail address: mike.zapp@uni.lu (M. Zapp).
+1 Together, IBRD and IDA are referred to as the World Bank (WB) and they are
+dealt with in this paper. In addition, the World Bank Group comprises the
+International Finance Corporation (1956), the International Centre for Settlement of
+Investment Disputes (1966) and the Multilateral Investment Guarantee Agency
+(1988).
+http://dx.doi.org/10.1016/j.ijedudev.2016.1 1.007
+0738-0593/© 2016 Elsevier Ltd. All rights reserved.
+International Journal of Educational Development 53 (2017) 1– 11
+Contents lists available at ScienceDirect
+International Journal of Educational Development
+journal  homepage:  www.else  vie  r.com/locate  /ijedudev
+
+--- PAGE 2 ---
+Drawing on its own, rapidly growing, body of research, the WB
+now also actively seeks to disseminate its gathered knowledge.
+Such dissemination occurs through publications (books, journals,
+conferences), databases and, to an increasing extent, through
+offering seminars, courses and on-line learning formats, more and
+more resembling a conventional (yet global) higher education
+research institution. It also directly applies its knowledge in the
+ﬁeld through a drastically growing number of projects with an
+explicit focus on education around the globe.
+These and other novel practices, discussed in this paper, have
+the potential to fundamentally alter the kind of inﬂuence the WB
+exerts worldwide. As a consequence, scholarship on global
+education has to rethink the analytical apparatus applied to the
+study of global educational governance.
+In the ﬁrst part of the paper, available literature on global
+educational governance from comparative education scholarship
+enables the identiﬁcation of mechanisms and rationales of
+governance found in IOs in general and for the WB in particular.
+Then, I trace the ‘knowledge turn’ in education at the WB from
+its incipient stage in the mid-1990s to its most recent innovation,
+the Systems Approach for Better Educational Results (SABER) in 2014.
+Empirically, the analysis draws on various sources of quantitative
+data to provide evidence supporting the hypothesis of an emerging
+focus on knowledge within the Bank’s (educational) work. This
+‘knowledge turn’ is analysed in terms of the WB’s research,
+scientiﬁc output, scientisation of output, increase in knowledge-
+assembling and application and its burgeoning teaching portfolio.
+The ﬁnal section discusses the WB’s epistemic practices in
+educational knowledge governance as a showcase of epistemic
+governance deﬁned as the production, processing, diffusion and use
+of policy-relevant knowledge.
+2. International organizations in the study of global educational
+governance
+In recent years, global or international dimensions in the guise
+of international organizations (IOs) have been systematically
+introduced into the study of educational governance and policy-
+making. Important macro-approaches emphasizing the role of IOs
+in globalizing education include, for instance, Mundy’s (2007:20)
+concept of educational multilateralism depicting IOs as ‘a new
+venue for political contests over shared norms and institutions’. In
+a similar vein, Parreira do Amaral (201 1) sees an international
+regime rising in education with governmental and non-govern-
+mental, national and international organisations institutionalizing
+education globally.
+Further, research from ﬁelds such as comparative and
+international (development) education interested in the move-
+ment of educational policies investigate the roles of individual
+international actors. Here, IOs are treated, at times, as ‘hard’ players
+that regulate, fund and, hereby, impose education by tricking states
+into new policies (Dale, 2005), at times, more softly, as ‘teachers of
+norms’ (Finnemore, 1993) or ‘knowledge brokers’ (Jakobi, 2006a,
+b). In the latter case, as the ‘sociology of measurement in education
+policy’ (Gorur, 2014) takes shape paying particular attention to
+international organizations (IOs) and their diverse roles in national
+policy making (Fenwick et al., 2014) governance mechanisms may
+include coordination and comparison (Martens and Niemann,
+2010), agenda-setting (Jakobi, 2006a,b) and evaluation (Rivera
+2006, 2009). The whole ﬁeld is understood to be in a ‘metrological
+mood’ (Power, 2004) entering an ‘age of measurement’ (Biesta,
+2009; also Heyneman and Lykins, 2008; Meyer and Benavot, 2013).
+Such approaches are highly useful in providing a fresh
+perspective on how to rethink educational planning in a globalized
+world, acknowledging the critical importance IOs have acquired in
+the past two decades. These contributions have added up to a ﬁne-
+grained analytical apparatus helping to understand how IOs
+inﬂuence national and other IOs’ educational policy-making.
+Against the backdrop of these analyses, we can considerably
+extend Jakobi’s (2009) classiﬁcation on governance instruments
+discussed in the context of lifelong learning from UNESCO, EU,
+OECD and WB (Table 1) loosely borrowing a classical sociological
+scheme to distinguish between different processes of institution-
+alization (Scott, 2001).
+In a regulative perspective, Dale (2005), for example, proposes
+to look at funding, provision, ownership and regulation as key
+activities in EU educational governance. In his pluri-scalar
+governance of education these activities are renegotiated along
+subnational, national and supranational levels. Further, the
+notorious Structural Adjustment Programs (SAPs) and more
+recently Poverty Reduction Strategy Papers (PRSPs), as part of
+the ‘Washington Consensus’ (Held, 2005) imply hefty conditional-
+ity tied to loans and might serve as an example of coercive
+governance (Reimers, 1994; Jones, 1997; Heyneman, 2003; Mundy
+and Verger, 2015).
+WTO/GATS might be another example of (controversial)
+regulation in education. Although actual effects on national
+education systems remain still limited, implications are thought
+to be far-reaching (Robertson et al., 2002; Scherrer, 2007). The
+recent Trade in Services Agreement (TiSA) negotiated between the
+EU, the USA and some other 20 Asian and Latin American countries
+has not yet been discussed in the literature in its potential
+Table 1
+Governance mechanisms of international organizations.
+Mechanism coercive/regulative normative cognitive/epistemic
+Practices provision
+ownership
+funding
+ conditionality
+treaties/sanctions
+standard-setting
+coordination
+surveillance
+persuasion
+knowledge
+ production & dissemination
+theorization
+mimesis
+Basis
+ of
+legitimacy
+legally sanctioned & enforced morally governed cultural
+Examples GATS & TiSA
+WB & IMF Structural Adjustment and Poverty
+Reduction Strategies
+EU Open Method of
+Coordination
+OECD
+ Peer Reviewing &
+Benchmarks
+UNESCO
+ Recommendations
+common development models & organizational principles &
+action frameworks
+knowledge diffusion among IOs
+Type of
+governance
+(Source: authors’ own depiction)
+2 M. Zapp / International Journal of Educational Development 53 (2017) 1– 11
+--- PAGE 3 ---
+consequences for national educational systems (but see Robertson
+and Komljenovic, 2015).
+More recently, researchers have directed their attention
+towards more normative mechanisms. Again in the context of
+the EU, Martens (2007) and Jakobi (2006a), for instance, analyse
+the Open Method of Coordination as a soft mechanism serving to
+surveil member states’ compliance with European deﬁnitions of
+best practice (see also Dale, 2005). Similarly, Kallo (2006: 282)
+analyses OECD soft governance in terms of ‘strategic consulting,
+peer pressure, public studies and direct and indirect agenda-
+setting’. In a seminal article from contructivist international
+relations (IR) scholarship, Finnemore (1993) analysed the spread of
+science bureaucracies worldwide by UNESCO, even where there
+seems to be no need (also Barnett and Finnemore, 2004).
+While these mechanisms continue to have much impact and
+deserve further ongoing examination, much less attention has
+been given to cognitive or epistemic mechanisms. A notable
+exception is Chabbott’s (2003) and Zapp's and Dahmen's
+(forthcoming) work on the global organizational ﬁeld of educa-
+tional development arguing that knowledge production helps to
+explain the diffusion of education and development models among
+IOs by structuring the ﬁeld into core and periphery. While the
+knowledge producers (IOs with professional staff, professional
+schools, journals and so on) sit at the core, the knowledge users
+that depend on this knowledge (smaller organizations) occupy
+more peripheral positions leading to isomorphic processes in
+positions and practices among highly diverse actors in the ﬁeld. In
+becoming more similar, mimetic processes and the role of
+professionals in spreading common development models, com-
+mon organisational principles and common action frameworks
+among organizations.
+The argument of isomorphism is all the more important if
+considered that, in this perspective, world development in
+education works in a top-down direction, from IOs to national
+policy-making. Here, IOs serve as ‘theorists’ providing rationalized
+accounts of social organization. Rationalization, scientization and
+educationalization have become major cultural transformations of
+the world polity in the 20th century and are embodied by IOs
+(Meyer et al., 1997; Bromley 2010; Ramirez et al., 2016). In this
+cognitive or epistemic view, the shared understandings, establish-
+ing of orthodoxies and their mimetic diffusion supported by a
+cultural ideology of functionalism become main theoretical tenets.
+3. The world bank and education
+Education has become one of the key Global Practices (WB
+operational units) in the WB portfolio (Psacharopoulus 2006).
+Since the Education for All initiative (1990), WB education lending
+has seen signiﬁcant and steady increase up until today in the two
+major organizational members (IBRD and IDA; Fig. 1). A similar
+increase can be reported for educational lending as a share of the
+total WB lending portfolio (Fig. 2).
+Most research done on the WB’s work in education has focused
+on two aspects. First, the WB’s particular understanding of or
+approach to education has been widely discussed. We, here, ﬁnd a
+number of contributions stressing the WB’s neoliberal take on
+education where education is only ‘handmaiden of the market’
+(Rivera, 2009: 289). Such a line of thinking has been applied to WB
+education work in general (Klees, 2012; Verger and Bonal, 2012)
+and particular educational sector work as, for example, for lifelong
+learning, adult education and technical and vocational education
+(Klees, 2002; Schemmann, 2007; Rutkowski, 2007).
+Fig. 1. Amount of World Bank Education Lending, 1962– 2010.
+(Source: EdStats; own calculation)
+Fig. 2. Education as Percentage of Total World Bank Lending, 1962– 2010.
+(Source: EdStats; own calculation)
+M. Zapp / International Journal of Educational Development 53 (2017) 1– 11 3
+--- PAGE 4 ---
+These studies derive much of their importance in claiming that
+the underlying economistic paradigm heavily affects WB’s
+educational lending practices and the policy prescriptions coupled
+to them as in structural adjustment or, since 1999, poverty
+reduction mentioned above (Heyneman, 2003; Caillods and Hallak,
+2004; Jones, 2007).
+Secondly, and more recently, scholarship with a fresh research
+perspective on governance has begun to look at the emerging
+knowledge work done at the WB in general and in its work on
+education in particular (St. Clair, 2006). Using the continuum
+introduced above, these important studies are situated at the soft,
+i.e. cognitive, end of the array of governance mechanisms (see
+Table 1). Among the speciﬁc instruments under scrutiny in these
+contributions are the neoliberal implications of decentralized WB
+knowledge management (Plehwe, 2007), the biased generation
+and deployment of research-based knowledge (Lauglo, 1996;
+Broad, 2007; Dethier, 2007; Rao and Woolcock, 2007), the far-
+reaching classiﬁcation of educational systems around the world
+through educational indicators (Steiner-Khamsi, 2009) and the use
+of quantitative methods as a technology of governance in general
+(Klees and Edwards. 2014).
+This work is valuable as it pays attention to the new approach to
+education taken by the WB in the last 20 years pointing to the
+potential consequences of such a shift. What remains somewhat
+underrepresented in these studies is, however, the scope and wider
+implications of these important shifts towards a more knowledge-
+based international actor in the internal organization of the WB
+knowledge management (vis-à-vis its own staff) and its external
+communication and operation (vis-à-vis clients and stakeholders
+around the world).
+More importantly, this new philosophy of creating, managing
+and sharing knowledge affects the WB’s way to approach work in
+its 19 Global Practices, especially in education. In its latest
+education sector strategy, the WB (201 1: 1) announced that it
+would not only be needed to have a ‘global knowledge base
+powerful enough to guide’, but that it should also have the
+‘aspirations to be both a generator of new knowledge and a
+synthesizer of existing knowledge’. This has far-reaching implica-
+tions for the strategies pursued by the WB in education and, as I
+will show in my empirical part, for the global landscape of
+educational research as a whole. In the following part, I trace the
+main WB reforms and initiatives to build its knowledge base and
+the strategies to put it to use.
+4. The world bank’s ‘knowledge turn’
+In October 1996, at the Annual Meetings Address, then-
+president James Wolfensohn announced the WB’s new mandate:
+‘We have been in the business of researching and disseminating
+the lessons of development for a long time. [ . . . ] we need to
+invest in the necessary systems, in Washington and worldwide,
+that will enhance our ability to gather development informa-
+tion and experience, and share it with our clients. We need to
+become, in effect, the Knowledge Bank.’ (Wolfensohn, 1996).
+One year later, at the ﬁrst Global Knowledge Conference in
+Toronto, the WB brought together participants from 144 countries
+paving the way for the Global Knowledge Partnership by linking all
+local ofﬁces to global communications. As an internal reform
+strategy, the Strategic Compact was launched the same year aiming
+at investing in additional resources over a three-year period ‘to
+respond more effectively /C0 through a fundamentally transformed
+institution /C0 in reducing poverty’ (WB, 2001). Also in 1997, the WB
+launched the African Virtual University (AVU). Since 2003, the AVU
+is an independent intergovernmental organizations supported by
+18 African countries, now comprising 53 institutions in 27
+countries (AVU, 2016).
+Remarkably, education was soon to become the pilot sector
+within the WB to be transformed into a knowledge management
+system. The same year Wolfensohn announced the advent of the
+‘Knowledge Bank’, Maris O’Rourke, the then-director of the
+education department (or thematic groups as they came to be
+called after 1996), took on the task to set up an Educational
+Knowledge Management System (EKMS) as ‘a way of organizing to
+create, capture, distill and disseminate relevant development
+knowledge on education’ (Carayannis and Laporte, 2002: 6). The
+core of the EKMS was the Education Advisory Service, as a ﬁrst point
+of contact for WB staff (250 at that time2) and ‘clients’. Here, ideas
+for electronic, archival, and documentary usability were ﬁrst
+developed and tested, before they were later implemented in other
+sectors of the WB. By 1998, the ﬁrst user interface for internal and
+external educational knowledge transfer was established, becom-
+ing the basis of the now far more complex general knowledge
+management system.
+Other education-related programs followed suit, such as the
+Indigenous Knowledge for Development Program, the Global Distance
+Learning Program and the Development Gateway (King, 2002).
+A signiﬁcant step was the launch of the Open Development
+Strategy in 2010 consisting of open knowledge and open data
+approaches including free visualization and mapping tools and
+access to global data sets on all WB sectors. The Open Knowledge
+Repository and the Open Learning Campus that followed few years
+later are part of the same strategy and marked a signiﬁcant turn in
+the role of the WB from a data-gathering and data-compiling
+institution to, in addition, a data-disseminator. They will be
+discussed below. The year 2010 also saw the WB’s ﬁrst self-
+designed large-scale assessment program with a strong educa-
+tional component, Skills Toward Employment and Productivity
+(STEP), piloted in 9 countries (see below).
+The most recent innovation is the Systems Approach for Better
+Educational Results (SABER), which has the potential to become the
+world’s most comprehensive and integrating country-level ac-
+count on educational data and policy information given its
+thorough collection of data and exhaustive number of indicators.
+SABER will also be part of a more detailed discussion below
+(Table 2).
+The series of measures described here have transformed both
+the WB’s internal management (e.g. gathering data and exchanging
+data between units), display (e.g. wider availability and usability)
+Table 2
+Key steps in the World Bank’s ‘knowledge turn’.
+1996 WB president James Wolfensohn announces ‘Knowledge Bank’
+1997 First WB-sponsored Global Knowledge Conference in Toronto
+1997 Launch of the Strategic Compact
+1997 Launch of the African Virtual University
+1998 World Development Report is themed Knowledge for Development
+1998 Finalizing the Educational Knowledge Management System (EKMS)
+1998 Launch of the Indigenous Knowledge for Development Program
+2000 Launch of the Global Distance Learning Network
+2004 Shanghai Global Learning Program
+2010 Launch of the Open Knowledge and Open Data (Open Development
+Strategy)
+2010 Launch of Skills Towards Employment and Productivity (STEP)
+2012 Launch of the Open Knowledge Repository
+2013 Launch of the Open Learning Campus
+2014 Launch of Systems Approach for Better Educational Results (SABER)
+(Source: authors’ own depiction)
+2 This number applies to the Education Advisory Service. The actual number of
+WB staff working on education is not available, but can be estimated to be
+considerably higher.
+4 M. Zapp / International Journal of Educational Development 53 (2017) 1– 11
+--- PAGE 5 ---
+and transfer of educational knowledge (e.g. universal implement-
+ability). The WB has actively sought to increase its potential to
+become the global one-stop-shop for educational knowledge.
+Analysing this new mandate and the capacities that have been built
+to comply with it requires a new approach that captures this
+knowledge turn and the novel activities at the WB. Thus, I propose
+a typology of mechanisms of what I term epistemic governance
+deﬁned as the production, processing, diffusion and use of policy-
+relevant knowledge. I prefer the term epistemic over cognitive as
+the latter carries much psychological connotation with it, while
+epistemic refers to the cultural and collective structures of
+knowledge (Ruggie, 1975 for a similar use).3 I also prefer epistemic
+over knowledge as the latter is used by the bank itself to designate
+its strategic changes in internal management.
+In the following sections, this typology will serve to guide my
+analysis of WB work on educational knowledge (Table 3).
+5. Mechanisms and practices of epistemic governance
+5.1. Knowledge production
+‘Only Harvard University comes close’
+5.1.1. Funding research
+First, the WB has long been collaborating with traditional
+educational institutions through fellowships and other supporting
+programs. Since the 1980s, it offers The Joint Japan/World Bank
+Graduate Scholarship Program, the Robert S. McNamara Fellowships
+Program or the Japan Indonesia Presidential Scholarship Program.
+Usually, these funding schemes target developing countries
+nationals with excellent proposals and ﬁnance travelling, studying
+abroad, data collection and so on. The number of beneﬁciaries is
+well above 5000 students, which, as alumni, become part of a
+network supported by the WB (WB, 2016a). In addition, the WB is
+among the main sponsors of the African Virtual University (AVU; see
+above). The AVU has trained more than 43,000 students since its
+start in 1997 (AVU, 2016)
+5.1.2. Conducting research
+More important than these indirect funding mechanisms is,
+however, research conducted by the WB itself. Obtaining reliable
+data on the WB's volume and outcome of internal research on
+education is difﬁcult as the organization has speciﬁc criteria in
+deﬁning what research and education refer to and what is made
+publicly available.
+WB research is organized within eight research programs under
+the general direction of the senior vice-president and chief
+economist by the Development Economics Vice-Presidency (DEC;
+staff: 122 researchers on short-term and tenured contracts). The
+DEC is divided into three main groups, among which the Research
+Group and the Data Group are mainly tasked with primary
+knowledge generation.
+By the WB deﬁnition, activities classiﬁed as research at the WB
+do not include the quantitatively much more important so-called
+Economic and Sector Work and Policy Analysis carried out by Bank
+staff to support pre-investment operations in countries all over the
+world. Nor are the World Development Reports or the World Bank
+Institute outputs (responsible for staff and client learning; see
+below) included. With all these being excluded, the epistemic
+inﬂuence if judged by the limited numbers provided by the WB
+itself may actually be understated.
+For the most recent period (2009– 201 1), for which data is
+available, over 360 research projects covering a wide array of topics
+were being implemented each year. Although very strong in
+absolute terms (US$ 244 million in 2009– 2012), the DEC’s research
+budget as a share of the total net administrative budget is still low
+(2.9%) compared to other organizations (e.g. the IMF with 6.8%)
+(WB, 2012). Between 2001 and 2010, it spent $49 million on
+educational research producing 280 pieces of research and other
+analytical work (WB, 201 1).4
+Although education is touched upon in numerous projects
+within all of the eight programs, the programs with the strongest
+education component is the Human Development and Public
+Services program. In order to obtain a longitudinal depiction of
+the evolution of the number of WB-ﬁnanced research projects, I
+collected and analysed annual research compendia in the period
+for which data is available (1973– 2009). Overall, the number of
+ofﬁcial research projects increased considerably from 54 projects
+Table 3
+Mechanisms and practices in global epistemic governance of educational knowledge (own account).
+Mechanisms Practices Function Examples
+Knowledge
+production
+funding research supporting the generation of research
+knowledge
+Robert S. McNamara Fellowships Program
+conducting research generating research knowledge ‘Increasing Access to Education in Mozambique: Analysis of Barriers and Effects
+of Recent Reforms’
+publishing research cognitive development of scientiﬁc discourse books, articles, Policy Research Working Papers & Discussion Papers
+Knowledge
+management
+assembling
+knowledge
+assembling the state of the art creating
+centralized databases and publications
+Open Knowledge Repository, Education Knowledge Management System; WB
+Reviews
+standardizing
+knowledge
+creating,
+ comparing and evaluating
+theoretically-equal social units
+indicators, benchmarks, best practices (Skills Toward Employment and
+Productivity; System Approach for Better Educational Results)
+Knowledge
+transmission
+disseminating
+knowledge
+making available knowledge to scientiﬁc,
+policy and lay audiences
+publications, conferences, forums, workshops, (social/new) media
+teaching and
+certifying
+knowledge
+initiating professionals and policy-makers in
+WB knowledge
+trainings, workshops, seminars, e-courses
+applying knowledge projects as incubative socio-scientiﬁc
+laboratories
+Third Elementary Education Project in India ($1 Billion; 2014-2014)
+Romania Secondary Education Project ($ 200 Million; 2015– 2022)
+celebrating
+knowledge
+ceremonial
+ legitimation of knowledge Skoll Award, Big Data Challenge Award, museums, exhibitions, art
+3 It shall also be noted that the term epistemic governance has been used by
+Alasuutari and Qadir (2014) in a Focauldian perspective to describe practices policy-
+makers deploy to alter actors' perceptions of the world. The main tenets of their
+work differ, however, considerably from the approach chosen here.
+4 If we calculate the average for these 280 pieces of work, each piece of work costs
+$1 75,000 (sic).
+M. Zapp / International Journal of Educational Development 53 (2017) 1– 11 5
+--- PAGE 6 ---
+in 1973 to 247 in 2009. Among these, the total number of education
+projects more than doubled (from 4 in 1973 to 10 in 2009), while
+the share of projects with a clear education component5 remains
+fairly stable at an average 5% (or 7,5 absolute N).
+5.1.3. Publishing research
+Just like at universities, most WB research is not conducted as
+part of particular programs or projects, but by individual scientists
+and then published in various formats. The WB has produced over
+19,000 publications since 1973. Nearly 2000 books and 9000
+journal articles have been published by WB staff, and close to 4000
+working papers have been produced, most of them in the Policy
+Research Working Papers series. A database of publications
+compiled from several major bibliographical indices also includes
+nearly 5000 book chapters authored by Bank staff and 500 edited
+volumes published by the Bank (WB, 2012). According to an
+internal survey, education sector staff in the WB is with a share of
+69% also the second-most research-afﬁnitive staff in the entire
+organization (WB, 2012).6
+In the period 2009– 201 1 alone, Bank staff and consultants
+produced over 3000 publications, including over 200 books, 1300
+scholarly articles in peer-reviewed journals, and 1 000 Policy
+Research Working Papers.
+For education, the WB (2012) mentions 500 journal articles,
+500 books, book chapters and working papers. The WB is far ahead
+of all of the top universities and all of the development agencies or
+international organizations in the volume of its papers on
+development topics, ranking ﬁrst in growth, poverty, and, most
+importantly, education. It produces three times as much on
+education as the 13 most productive universities in the world do on
+average.
+In order to get a more longitudinal trend on publications,
+Ravallion and Wagstaff (2012) analysed the increase in published
+articles, books, chapters, and working papers in general for the
+period 1978– 2006 (Fig. 3). Two results are striking. Not only has
+the overall portfolio expanded, now including books and working
+papers. More importantly, all types of publications display a
+remarkable upward trend, particularly from the late 1980s and
+early 1990s on.
+I complement this data with an analysis of publications
+containing relevant education-related terms7 in their title or
+keywords in the period 1977– 2013 drawing on the bibliographic
+database Scopus (Elsevier) (Fig. 4). We can see two considerable
+boosts starting in the mid-1990s and, even more striking, in the
+early 2000s.8 Growth rates of scientiﬁc output multiply by factor
+ﬁve to six in less than two decades. In the period 1992– 2005 alone,
+education-related publications skyrocketed from 4 to 81 publica-
+tions, now reaching 106 publications (2013). In these publications,
+general socio-scientiﬁc approaches make for almost 55%, while
+econometric and economic approaches (including management)
+account for 54%.
+Not only have the absolute numbers of publications risen
+considerably, the documentary portfolio as a whole, too. WB
+publications now fall into 10 collections or categories, which are
+further divided into 484 sub-collections. Among the ten categories,
+we ﬁnd various types of books and WB-edited journals. The World
+Bank Economic Review, for example, is the most widely read
+scholarly economic journal worldwide with a 5-year impact factor
+of 2.48. The Review is freely distributed to more than 9500
+subscribers in non-OECD countries. Other journals include the WB
+Research Observer, Development Outreach or Handshake, which all
+add up to the fact that WB journals enjoy the largest worldwide
+circulation in that category. Other types of publication include
+annual reports, evaluations, serial publications, technical papers,
+country strategy documents, economic and sector work studies,
+working papers and knowledge notes.
+Regarding theimpactof WB output, aggregated publications from
+the WB rank among IMF, Berkeley, Chicago, Harvard and MIT. Its
+working papers series reaches a download count of 1.4 million.
+Based on Google Scholar data, Ravallion and Wagstaff (2012)
+compare the aggregated impact of WB research staff with a set of
+high-performing universities and international organizations in the
+period 1995– 2010. The WB comes ﬁrst with regard to the percentage
+of articles cited, third with regard to average citations (behind
+Harvard and Chicago universities) and sixth with regard to its
+aggregate h-index and ahead of all other IOs. Educational articles are
+the sixth most cited articles within the WB portfolio behind more
+economic issues and governance (total citations N = 7824). Com-
+pared to university departments, the WB ranks ﬁrst in education if
+based on article count and second if based on the h-index.
+Fig. 3. WB publication portfolio evolution, 1978– 2006 (Ravallion and Wagstaff, 2012).
+5 Projects are deﬁned as education-related if their title contains an explicit
+reference to education, schooling, learning, training, teaching, skills and competences
+(competencies).
+6 The original question in the survey was, ‘How familiar would you say you are with
+World Bank research products/services on a scale from 1 to 10 where 1 means not
+familiar at all and 10 means extremely familiar?’. The share indicated above refers to
+the proportion highly familiar with research (% of responses above 5 on scale).
+7 Publications are deﬁned as education-related if their title or keywords contain
+an explicit reference to education, schooling, learning, training, teaching, skills and
+competences/competencies.
+8 More recent numbers are lower as it usually takes some time for SCOPUS to
+update its databases.
+6 M. Zapp / International Journal of Educational Development 53 (2017) 1– 11
+--- PAGE 7 ---
+5.2. Knowledge management
+‘The World Bank is the largest single source of development
+knowledge.’ WB (2016b)
+5.2.1. Assembling knowledge
+As part of its Open Development Agenda, the WB launched the
+Open Knowledge Repository (OKR) in 2012. It currently contains
+more than 6900 freely available scientiﬁc publications dealing
+with education from 1980 up to today including externally-
+published, peer-reviewed journal articles written by WB research-
+ers. The OKR site statistics count almost 9 million downloads since
+its launch in 2012 equalling a daily download rate of more than
+6164 publications (January 2016).
+In its education strategy paper in 1999, the WB (1999)
+announced its ﬁrst move towards a stronger role for knowledge
+in its approach. An Education Knowledge Management System
+(EKMS) was called for that ‘creates, captures, distils, and
+disseminates relevant development knowledge on education’
+(WB, 1999: 42). The EKMS has gradually evolved since then,
+now synthesized within SABER, a Systems Approach for Better
+Education Results. SABER is thought to ‘help the World Bank and its
+development partners to collect and analyse information on
+policies and identify priorities for strengthening education
+systems’ (WB, 2013: 4). By 2014, that is, within one year, SABER
+diagnostics had been applied more than 200 times in more than
+100 countries, and more than 55 country reports and related data
+are available focussing on particular aspects of education systems
+(e.g. early childhood education, tertiary education) (WB, 2014: 2).
+Diagnostic tools from SABER are used for virtually any aspect of
+educational governance, assessment, planning and management
+and on all educational levels. Remarkably, SABER is not thought of
+as an analytic apparatus for low- and middle-income countries
+only. Among the participant countries (it is voluntary) are high-
+income countries such as Finland, France and Singapore (Fig. 5).
+Moreover, the WB does not only organize and publish its own
+data, it increasingly assembles the general ‘state of the art’ in a
+speciﬁc subject area or sector, but also with regard to development
+in general. The ﬁrst World Development Report (WDR), published in
+1978, had less than 125 pages and no scientiﬁc references. A typical
+WDR, as published in the last ten years, might have up to 500 pages
+and an average of 850 scientiﬁc references. The WDR from 2013,
+dealing with jobs, training and skills, for example had an
+astonishing 1330 scientiﬁc References
+A similar pattern can be found for key education documents.
+The ﬁrst Education Sector Working Paper published in 1971
+resembled more an organizational statement on the topic than
+rigorous analytical work. This has changed in the subsequent Policy
+Paper Update (1974), Education Sector Policy Paper (1980), Education
+Sector Strategy (1999), Education Sector Strategy Update (2006) and,
+above all, the latest Education Sector Strategy from 201 1.8 The
+Primary Education Policy Paper (1990) is omitted due to its sector-
+speciﬁc scope. If not for the Update 2006, which is usually a much
+less comprehensive work, the rise in the number of references is
+dramatic for both the references to scientiﬁc sources, other IOs and
+to itself.
+5.2.2. Standardizing knowledge
+The WB also comes into play as a ‘standardizer of standards’ by
+creating and assembling indicators in use worldwide. The WB
+Education Statistics Query contains around 3261 (sic) internation-
+ally comparable education indicators for a wide array of domains
+such as access, progression, completion, literacy, teachers,
+population, and expenditures. The indicators cover education
+systems in more than 242 countries (including older territories)
+from pre-primary to tertiary education. The query also holds equity
+data from household surveys (1970 to 2050 projections) organized
+in ﬁve indicator groups (learning outcomes, core indicators,
+education equality, educational attainment, and education expen-
+ditures) and learning outcome data from international assess-
+ments (PISA, TIMSS, etc.).
+Here, the WB is also the IO most actively attempting to compile
+the ﬁrst genuinely global and (and perhaps some day globally-
+comparable) dataset on student achievement. It brought together
+high-income area studies such as PISA (Programme for Interna-
+tional Student Assessment) and TIMSS (Trends in International
+Mathematics and Science Study) with lower-income area studies
+like SAQMEQ, PASEC, LLECE and SERCE.9
+What is also less known, is that the WB has recently started its
+own international assessment program. On October 2010, the WB
+launched its Skills Toward Employment and Productivity (STEP)
+program. It measures cognitive skills (reading literacy based on
+PIAAC), technical skills and personality and behavioural factors
+from both employees and employers. A ﬁrst round (2012– 2014)
+gathered data from adult participants (15– 64 years old) in 9
+countries10 on personal background, education, employment and
+compensation, household wealth, household size and composi-
+tion, personality, time and risk preferences and personal health.
+Moreover, the aforementioned SABER not only assembles
+country data, it also benchmarks education policies and institu-
+tions. Each policy area is rated on a four-point scale, from ‘Latent’ to
+Fig. 4. WB publications in education, 1977– 2013 (Scopus 2016).
+9 SAQMEQ (South and Eastern African Consortium for Monitoring of Educational
+Quality), PASEC (Programme d’Analyse des Systèmes Educatifs de la Confemen;
+French-speaking countries), LLECE (the Laboratorio Latinoamericano de Evaluacion
+de la Calidad de la Educación) and SERCE (Segundo Estudio Regional Comparativo y
+Explicativo).
+10 Armenia, Bolivia, Colombia, Georgia, Ghana, Lao PDR, Sri Lanka, Vietnam, and
+the Yunnan Province in China.
+M. Zapp / International Journal of Educational Development 53 (2017) 1– 11 7
+--- PAGE 8 ---
+‘Emerging’ to ‘Established’ and ‘Advanced’. These ratings aim at
+highlighting a country’s areas of strength and weakness to
+promote cross-country learning. SABER also assesses policy
+choices by asking how well a country’s education system is
+performing in relation to global good practice. For the ﬁrst time,
+thus, a single multivariate educational benchmarking and ranking
+tool is about to be applied to all countries worldwide.
+Further, the WB is about to create, manage and apply global ‘big
+data’ in the social sciences taking care of issues like data gathering,
+organization, sharing, storage, transfer, analysis and presentation.
+In its Big Data in Action for Development (2014), the WB recently
+begun to discuss the use of vast amounts of data from such sources
+as satellites, mobile phones, social media, internet search queries,
+and ﬁnancial transactions for policy advice in economic forecast-
+ing, health, labor market, migration etc. in collaboration with
+commercial IT consultancies. In July 2014, the WB launched a new
+program called Innovations in Big Data & Analytics for Development
+to identify opportunities for using big data in WB-funded
+operations and to promote the adoption of big data analytics in
+WB operations.
+5.3. Knowledge transmission
+‘The World Bank Group’s Open Learning Campus accelerates
+development solutions by transforming global knowledge into
+actionable learning’
+5.3.1. Disseminating knowledge
+Just as publications soar up and their impact grows (see above),
+international conferences in general and on education in particular
+have exploded since WWII and especially since the 1990s
+(Chabbott, 2003). They are obvious forums of knowledge exchange
+and distribution. In 2015 alone, WB-sponsored conferences and
+other events like talks, seminars, lectures and workshops, often
+organized by DEC, have been held throughout the year all over the
+world on 99 occasions on a wide array of topics ranging from
+agriculture to urban planning (WB, 2016c). It is rarely noticed that
+the WB has, since the early 2000s, started to organize large,
+international education conferences on its own behalf and no
+longer in the shadow of UNESCO, OECD or regional IOs. It holds
+regular regional conferences in Asia, Central Europe, Africa and
+Latin America and, less visibly, sponsors large global conferences
+such as the Making Systems Work: A Global Conference on Education
+Systems (February 2016 in Sydney). A typical year has up to nine
+regional conferences in such places as Delhi, Cairo, Santiago de
+Chile, Ouagadougou, Buenos Aires, Saint Lucia, Issyk-Kul, Almaty
+and Samarkand all dealing with latest educational issues and
+accompanied by a wide array of capacity development workshops.
+Other, less well-known channels of diffusion might include
+ﬁlms (e.g. the WB Africa Film Series with the ﬁlm The First Grader
+dealing with primary education), radio (e.g. the WB Radio
+Instruction to Strengthen Education in Zanzibar), social media (e.g.
+the World Development Report App or the WB Education Blog,
+Twitter, Flipboard etc.) and educational material on virtually any of
+its so called Global Practices including on education itself.
+5.3.2. Teaching knowledge
+The WB has begun to be much more directly involved in
+teaching and training. Obviously, the WB teaches its own staff. It
+has also created training centres, platforms and networks, it
+delivers educational material and sends out experts to workshops
+and seminars to teach students, professionals, consultants, policy-
+makers, researchers and practitioners and private sector repre-
+sentatives from countries around the world.
+The key role in this training mandate has been given to the WB
+Institute (WBI, 2016), which ‘codiﬁes global knowledge into
+training programs to help its clients master tested development
+know-how’, the Global Development Learning Network and the
+Justice Sector Peer-Assisted Learning.
+Most recently and remarkably, the WB launched its e-institute
+and Open Learning Campus offering ‘affordable, innovative, and
+practitioner-focused training on the ‘how to’ of policy reform and
+proven good practices customized to local needs’ (WBI, 2016). The
+institute offers more than a 100 e-learning courses and webinars
+and provides participants with free monthly podcasts, mobile
+apps, games, video success stories, multimedia toolkits and other
+learning materials and even hands out certiﬁcates after successful
+completion, of which some are academically-accredited. E-
+courses, webinars and e-communities hosted and taught by the
+WB also include education-related on-line courses such as ‘School
+Autonomy and Accountability’, ‘Early Childhood Development’,
+‘Student Assessment’ and ‘Teacher Policies’. The WB describes its
+teaching style as ‘solution-focused, game-infused, interactive and
+participatory, peer-based and experiential’ (WB 2016 WBI), while
+partnering with institutions like Cambridge University, Emerson
+College, Coursera and EdX.
+Fig. 5. Reference pattern in key WB education publications.
+(Source: own calculation).
+8 M. Zapp / International Journal of Educational Development 53 (2017) 1– 11
+--- PAGE 9 ---
+5.3.3. Applying knowledge
+Dissemination also takes place in the ﬁeld when directly
+applied to countries’ education systems. As development cooper-
+ation has traditionally been carried out in the project mode for
+more than six decades, it would be a paper in its own right to do full
+justice to the role of projects in educational governance. Evidence
+can only be selective here. The World Bank has launched more than
+10,000 projects in education since 1947 estimating its project-
+based investments to be about $69 billion (WB, 201 1). During the
+period 1998– 2013 alone, it has been active in the reform of
+education systems in 110 countries (WB, 2014b) (Fig. 6).
+Similar to the trend shown above for publications on education,
+the WB had a considerable increase in education projects with the
+beginning of the EFA initiative and another momentum around the
+millennium before reaching an all-time high in the mid-2000s.11
+Among the most prominent projects are both those in
+developing and developed countries alike. For example, in 2014,
+the WB’s Board approved the $1 billion Third Elementary Education
+Project in India to be implemented over three years. This basic
+education project is the WB’s largest education project in the world
+and in its own history, allegedly serving the needs of 200 million
+children and 4.5 million teachers (WB, 2016e). In the ﬁscal year
+2015 alone, the WB approved operations in India amounting to
+$3.785 billion. It is currently working on 152 projects in 2271
+locations across the country, of which 44 have an explicit
+educational component.
+Other large WB projects include countries like Romania, where,
+in 2015, the WB ofﬁcially launched the implementation of the
+Romania Secondary Education Project. The project, funded with a
+s200 million loan, aims at supporting 80 percent of Romania’s
+public high schools and 85 percent of faculties to address factors
+preventing students from successfully transitioning from upper
+secondary to tertiary education and completing the ﬁrst year of
+university (WB, 2016e).
+5.3.4. Celebrating knowledge
+Finally, the WB praises and prizes knowledge. It grants the
+Human Nutrition Award, the Award for Business Incubators and the
+Global Gas Flare Reduction Excellence Award. In education, the
+leading Gambian educationist, Baboucarr Bouy, received the WB’s
+Jit Gill Memorial Award for Outstanding Public Service in 2012. The
+Skoll Award for Social Entrepreneurship was recently handed out for
+providing law education for Chinese farmers. Given the sheer
+amount of research produced across the WB Group, the organiza-
+tion invited researchers in 2013 to a call for papers by the Research
+Academy, a WB award for promoting excellence in internal
+research. Among the winning contributions were also educa-
+tion-related research projects.12
+In the context of the recent big data initiative, the WB now
+offers the Big Data Innovation Challenge. Among the ﬁnalists were
+also educational ideas.13 Other initiatives include the Marketplace
+for Ideas and the Development Marketplace, both supporting early
+stage projects related to social and economic development.
+6. Discussion
+In this analysis, the WB comes into play as an epistemic actor
+that produces, manages and transmits knowledge in and about
+education. Its practices, I argue, add up to a particular form of
+educational governance, epistemic educational governance, which
+derives its relevance from the systematic production, processing,
+diffusion and use of policy relevant (scientiﬁc) educational
+knowledge. Given the scope, diversity and leverage of WB
+outreach, this global organization represents a particularly large
+number of mechanisms and associated practices and does so
+particularly visibly.
+While the funding and conducting of original research by the
+WB in general has received some attention from scholarship on IOs
+(Broad, 2007; Dethier, 2007; Rao and Woolcock, 2007), its volume
+and impact in education has been largely ignored. As shown above,
+these turn out to be immense and growing, making the WB already
+the world’s most productive and most inﬂuential educational
+research institute with the potential to sustainably change, for the
+better or the worse, the cognitive development of the scientiﬁc and
+(by implication) policy discourse on education worldwide, but,
+perhaps, particularly in countries where educational research
+infrastructure is weak.
+Yet, the Bank not only produces knowledge through its own
+research or ﬁnances its production, it, above all, assembles, stocks,
+organizes and makes available the ‘state of research’ that is already
+out there and that has been produced by itself (sometimes
+presented as the same). Here, the WB appears as a massive
+repository or clearing house that gathers, distils and publishes
+scientiﬁc knowledge. In this sense, the WB is also a global (digital)
+library, archive and museum of socioscientiﬁc knowledge pro-
+duced by generations of researchers. The growing rationalization
+in its own publications, as documented through a dramatic rise in
+Fig. 6. Total N of Projects with an Education Component, 1962– 2010.
+(Source: EdStats)
+11 Latest years are lower since ongoing projects are not included.
+12 The Impact of Providing School and Child Test Scores on Educational Markets by
+J. Das.
+13 M. F. Crawford for Using Big Data to Predict Student Achievement in Low-
+Income School Settings and Sh. Nomura for Real Time Forecasting of Skills Demand
+and Supply: Analytics of Big Data from Babajob in India.
+M. Zapp / International Journal of Educational Development 53 (2017) 1– 11 9
+--- PAGE 10 ---
+scientiﬁc references, is further fuelled by its own growing research
+record in education (with the risk of becoming self-referential in its
+knowledge production).
+On a global level, the Bank spearheads and catalyses the trend of
+quantiﬁcation and evaluation for the sake of country-comparabili-
+ty already institutionalized in regional contexts (Wiseman and
+Baker, 2005; Heyneman and Lykins, 2008; Gorur, 2014). In the WB
+context, such data-based assessments (SABER), when applied to
+entire educational systems, are not a mere methodological
+exercise, but have serious implications for policy reform recom-
+mendations and lending decisions and is, therefore, by principle a
+much more powerful tool in inﬂuencing educational systems than,
+for example, much-discussed PISA and deserve further scrutiny in
+future studies (Steiner-Khamsi, 2009; Klees and Edwards, 2014;
+Meyer and Benavot, 2013). Moreover, the WB’s effort to bring
+together and merge numerous regional student achievement tests
+from across the world within one centralized database represents a
+signiﬁcant leap towards worldwide standardized testing and
+comparability. Its own emerging skills measurement program
+(STEP) further contributes to such an educational life course-
+metric by including sectors less studied (e.g. technical and
+vocational training and education) and countries less covered by
+other educational assessment programs (e.g. China and Sri Lanka).
+With STEP, the WB enters a new phase of data acquisition and has
+the potential to become in low- and middle income countries what
+the OECD already is in high-income countries.
+The WB also considerably expands and diversiﬁes its global
+outreach beyond the scientiﬁc community. It is at the forefront of
+disseminating its ﬁndings and positions through old and new
+media, at conferences and policy forums aiming to get together the
+full array of ‘stakeholders’, from science and policy making,
+business and NGOs to social movements. Largely unnoticed is the
+WB’s growing teaching mission as a novel aspect of epistemic
+governance. With its free-of-charge Open Learning Campus, the
+organization enters a new arena, proselytizing its ideas, ﬁndings
+and stocks of knowledge in a global virtual classroom.
+A very direct form of transmission is the application of WB
+knowledge ‘in the ﬁeld’ through the thousands of projects the WB
+has carried out in recent decades. Some important projects greatly
+exceed single national projects and in many cases the long
+presence of WB and other consultancies implementing lengthy
+project series and cycles is not only likely to determine the
+cognitive and policy direction of the national discourse, but may
+have lasting repercussions on the social stratiﬁcation of affected
+areas, involved occupational groups, and other organizations
+(Gasper, 1999; Chabbott, 2003; Kovach and Kucerova, 2005).
+Finally, perhaps in its impact the least tangible practice for the
+transmission of educational knowledge, the WB practices ceremo-
+nial legitimation of (a speciﬁc type of) knowledge through prizes
+and awards. Here, the WB becomes a curator of ideas, a jury for
+judging creativity, originality and excellence in science. These
+symbolic practices might serve as mnemotechnic aides consoli-
+dating a speciﬁc set of thoughts and views in a global collective
+memory (Assmann and Czaplicka, 1995). They help to popularize,
+routinize, trivialize and rememorize the value of certain knowl-
+edge stocks.
+I argue that such practices should prompt us to complement the
+predominant views of IOs in comparative education. These views
+have largely been inherited from the study of IOs in IR where they
+are either seen as tools and toys of powerful states (Ikenberry 2001
+in general; Rivera, 2009 on education), promoters of good (or bad)
+norms (Keohane & Nye 2000 in general, Klees and Edwards, 2014
+on education) or meaning-generating bureaucracies (Barnett and
+Finnemore, 2004 in general, Jakobi, 2009 on education). These
+(critical) contributions are highly valuable in revealing the
+ideological underpinning and real world consequences of WB
+work, yet they neglect the mechanisms related to knowledge,
+which transform ideology into social change. Instead, the analysis
+of IOs’ nature, evolution, contemporary role and impact has to
+exceed these limited notions by attributing them the autonomy
+and authority they have acquired over the course of their existence.
+Such an analysis would need to reconceptualise the WB and IOs,
+in general, as epistemic actors or ‘theorists’ embodying wider
+transformations of the rationalization and scientisation of human
+development (Strang and Meyer, 1993:493; Meyer et al., 1997;
+Baker 2014). To view them as mere agenda-setters would mean to
+considerably understate the qualities they have developed in over
+two decades, the product of highly professionalized and scientised
+socio-scientiﬁc personnel (both applied and more theoretical
+sciences) whose knowledge is channelled in discourses for which
+IOs not only provide the bureaucratic structure or organizational
+forum, but the original engine (Drori et al., 2003). The analytical
+thrust proposed by a strong focus on knowledge production in such
+a world-cultural perspective may provide a reply to Mundy’s &
+Ghali’s (2009) plea to better and more effectively model IO actors
+and their behaviour.
+7. Conclusion
+This paper identiﬁed the role ascribed to the World Bank in the
+discussion on mechanisms of global educational governance and
+institutionally traced and empirically supported the case for the
+‘knowledge turn’ within the World Bank as the globe’s most
+signiﬁcant think tank.
+In contrast to the predominant focus on regulative and
+normative mechanisms in IOs’ educational governance, interest
+in their role as epistemic actors is growing. Here, soft mechanisms
+prevail. This burgeoning body of literature is, however, still limited
+in that it is mainly focused on standard-setting, discourse-steering
+and the various uses of quantitative methods in education.
+As argued here, a wider scope is needed to adequately capture
+IOs’ diverse production and diffusion of ideas in and through
+education. The WB’s ‘knowledge turn’ pioneers and exempliﬁes
+this expanding scope. After a series of internal reforms and
+restructuring measures, the Bank is now among the world’s most
+important producers and providers, organizers, managers, users
+and teachers of educational knowledge. Future studies on global
+educational governance could beneﬁt from the systematic
+analytical framework applied here, while further reﬁning and
+extending it by enlarging the empirical basis to other organizations
+and domains. Sociologists of knowledge and organizations (
+interested in different levels of analysis might beneﬁt from the
+inclusion of IOs as a novel analytical opportunity, with the WB, as
+an ever-more inﬂuential global knowledge producer, a promising
+start in that direction.
+References
+Alasuutari Pertti, Ali Qadir, 2014. Epistemic governance: An approach to the politics
+of policy-making. European Journal of Cultural and Political Sociology 1 (1), 67–
+84.
+African Virtual University, 2016. About. . (last access 15th December 2015) http://
+www.avu.org/About-AVU/introduction.html.
+Assmann, J., Czaplicka, J., 1995. Collective memory and cultural identity: cultural
+History/Cultural studies. New German Critique 65, 125– 133.
+Baker, D.P., 2014. The Schooled Society. Stanford University Press, Stanford.
+Barnett, M., Finnemore, M., 2004. Rules for the World: International Organizations
+in Global Politics. Cornell University Press, Ithaca, NY.
+Biesta, G., 2009. Good education in an age of measurement: on the need to
+reconnect with the question of purpose in education. Educ. Assess. Eval.
+Account. 21 (1), 33– 46.
+Broad, R., 2007. ‘Knowledge Management‘: a case study of the World Bank‘s
+research department. Dev. Pract. 17 (4– 5), 700– 7008.
+Bromley, P., 2010. The rationalization of educational development: scientiﬁc
+activities among international non-Governmental organizations. Comp. Educ.
+Rev. 54 (4), 577– 601.
+10 M. Zapp / International Journal of Educational Development 53 (2017) 1– 11
+--- PAGE 11 ---
+Caillods, F., Hallak, J., 2004. Education and PRSPs: A Review of Experiences.
+International Institute for Educational Planning, Paris.
+Carayannis, E.G., Laporte, B., 2002. By Decree or By Choice? A Case Study
+Implementing Knowledge Management and Sharing at the Education Sector of
+the World Bank Group. World Bank Institute.
+Chabbott, C., 2003. Constructing Education for Development: International
+Organizations and Education for All. Routledge Falmer, New York.
+Dale, R., 2005. Globalisation, knowledge economy and comparative education.
+Comp. Educ. 41 (2), 117– 149.
+Dethier, J.-J., 2007 . Producing knowledge for development: research at the world
+bank. Global Gov. 13, 469– 478.
+Drori, G.S., et al., 2003. Science in the Modern World Polity: Institutionalization and
+Globalization. Stanford University Press, Stanford, CA.
+Fenwick, T., Mangez, E., Ozga, J., 2014. Governing knowledge. comparison,
+knowledge-Based technologies and expertise in the regulation of education. In:
+Fenwick, T., Mangez, E., Ozga, J. (Eds.), World Yearbook of Education 2014, 8217.
+Routledge, London and New York, pp. 3– 10.
+Finnemore, M., 1993. International organizations as teachers of norms: the united
+nations educational, scientiﬁc, and cultural organization and science policy. Int.
+Organ. 47 (4), 565– 597.
+Gasper, D., 1999. Problems in the Logical Framework Approach and challenges for
+‘Project Cycle Management’. The Courier n 173 january-february pp. 75– 77 .
+Gorur, R., 2014. Towards a sociology of measurement in education policy. Eur. Educ.
+Res. J. 13 (1), 58– 72.
+Held, D., 2005. At the global crossroads: the end of the Washington Consensus?
+Globalizations 2 (1), 95– 113.
+Heyneman, S.P., Lykins, C., 2008. The evolution of comparative and international
+education statistics. In: Ladd, H.F., Fiske, E.B. (Eds.), Handbook of Research in
+Education Finance and Policy. Routledge, NewYork, pp. 105– 127.
+Heyneman, S.P., 2003. The history and problems in the making of education policy at
+the world bank, 1960– 2000. Int. J. Educ. Dev. 23, 315– 337.
+Jakobi, A., 2006a. The Worldwide Norm of Lifelong Learning. A Study of Global
+Policy Development. University of Bielefeld (Dissertation).
+Jakobi, A., 2006b. The internationality of lifelong learning. In: Kallo, J., Rinne, R.
+(Eds.), Supranational Regimes and National Education Policies. Encountering
+Challenge. Finnish Educational Research Association, pp. 115– 138.
+Jakobi, A.P., 2009. International Organizations and Lifelong Learning, 4th edition
+Palgrave Macmillan, Basingstoke.
+Jones, P.W., 1997. On world bank education ﬁnancing. Comp. Educ. 33 (1), 117– 130.
+Jones, P.W., 2007 . On World Bank Financing of Education. Lending, Learning and
+Development. Routledge, London.
+Kallo, J., 2006. Soft governance and hard values: a review of OECD operational
+processes within educational policy and relations with member states. In: Kallo,
+J., Rinne, R. (Eds.), Supranational Regimes and National Education Policies ?
+Encountering Challenge. Finnish Educational Research Association, Turku, pp.
+261– 352.
+King, K., 2002. Banking on Knowledge: the new knowledge projects of the World
+Bank. Compare 32 (3), 311– 326.
+Klees, S., Edwards, D.B., 2014. Knowledge production and technologies of
+governance. In: Fenwick, T., Mangez, E., Ozga, J. (Eds.), Governing Knowledge.
+Routledge, London, pp. 31– 43.
+Klees, S.J., 2002. World bank education policy: new rhetoric old ideology. Int. J. Educ.
+Dev. 22, 451– 474.
+Klees, S., 2012. World Bank and education: ideological premises and ideological
+conclusions. In: Klees, S.S., Samoff, J., Stromquist, N. (Eds.), The World Bank and
+Education: Critiques and Alternatives. Sense, Boston.
+Kovach, I., Kucerova, E., 2005. The project class in central europe: the czech and
+hungarian cases. Sociologia Ruralis 46 (1), 3– 21.
+Lauglo, J., 1996. Banking on education and the uses of research. a critique of world
+bank priorities and strategies for education. Int. J. Educ. Dev. 16 (3), 221– 233.
+Martens, K., Niemann, D., 2010. Governance by Comparison. Transstate Working
+Papers, Bremen 139.
+Martens, K., 2007 . How to become an inﬂuential actor ?the ‘Comparative turn’ in
+OECD education policy. In: Martens, K., Rusconi, A., Leuze, K. (Eds.), New Arenas
+of Education Governance ?The Impact of International Organisations and
+Markets on Educational Policymaking. Palgrave, Basingstoke, pp. 40– 56.
+Meyer, H.D., Benavot, A., 2013. PISA, Power, and Policy: The Emergence of Global
+Educational Governance. Symposium Books, Oxford.
+Meyer, J.W., et al., 1997. World society and the nation-State. Am. J. Sociol. 103 (1),
+144– 181.
+Mundy, K., Ghali, M., 2009. International and transnational policy actors in
+education: a review of the research. In: Plank, D., Sykes, G., Schneider, B. (Eds.),
+Handbook on Educational Policy Research. The American Education Research
+Association & Routledge Press, pp. 717– 734.
+Mundy, K., Verger, A., 2015. The World Bank and the global governance of education
+in a changing world order. Int. J. Educ. Dev. 40, 9– 18.
+Mundy, K., 2007 . Educational multilateralism —  origins and indications for global
+governance. In: Martens, K., Rusconi, A., Leuze, K. (Eds.), New Arenas of
+Education Governance. The Impact of International Organizations and Markets
+on Educational Policy Making. Palgrave Macmillan, Basingstoke, pp. 19– 40.
+Parreira do Amaral, M., 201 1. Emergenz Eines Internationalen Bildungsregimes?
+Waxmann, Münster.
+Plehwe, D., 2007. A global knowledge bank? The world bank and bottom-up efforts
+to reinforce neoliberal development perspectives in the Post-Washington
+Consensus Era. Globalizations 4 (4), 514– 528.
+Power, M., 2004. Counting, control and calculation: reﬂections on measuring and
+management. Human Relations 57, 765– 783.
+Ramirez, F.O., Meyer, J.W., Lerch, J., et al., 2016. World society and the globalization
+of education policy. In: Mundy, K. (Ed.), The Handbook of Global Education
+Policy. Wiley-Blackwell, New Jersey, pp. 43– 63.
+Rao, V., Woolcock, M., 2007 . The disciplinary monopoly in development research at
+the world bank. Global Gov. 13, 479– 484.
+Ravallion, M., Wagstaff, A., 2012. The world bank’s publication record. Rev. Int.
+Organ. 7, 343– 368.
+Reimers, F., 1994. Education and structural adjustment in Latin America and Sub-
+Saharan Africa. Int. J. Educ. Dev. 14 (2), 119– 129.
+Rivera, W.M., 2006. International strategies for the development of adult education:
+a review and critique. Int. J. Lifelong Educ. 2 (2), 111– 132.
+Rivera, W.M., 2009. The World Bank’s view of lifelong learning: handmaiden of the
+market. In: Jarvis, P. (Ed.), The Routledge International Handbook of Lifelong
+Learning. Routledge, London & New York, pp. 281– 291.
+Robertson, S.L., Komljenovic, J., 2015. Forum shifting and shape making in europe’s
+negotiations on trade in (Education). Services. Presented to the Education and
+Trade Panel ECPR, Montreal 26– 28th August, 2015.
+Robertson, S., Bonal, X., Dale, R., 2002. GATS and the Education Service Industry: the
+politics of scale and global reterritorialization. Comparative Education Review
+46 (4), 472– 496.
+Rutkowski, D., 2007 . Converging us softly: how intergovernmental organisations
+promote neoliberal education policy. Crit. Stud. Educ. 48 (2), 303– 326.
+Ruggie, J.G., 1975. International Responses to Technology. International
+Organization 29 (3), 557– 584.
+Schemmann, M., 2007 . Internationale Weiterbildungspolitik Und Globalisierung.
+Bertelsmann, Bielefeld.
+Scherrer, Ch., 2007 . ‘GATS —  Commodifying Education via Trade Treaties.’ In:
+Martens, K., Rusconi, A., Leuze, K., (eds.). New Arenas of Education Governance.
+Scott, W.R., 2001. Institutions and Organizations, 2nd edition Sage, Thousand Oaks.
+St. Clair, A.L., 2006. The world bank as a transnational expertised institution. Global
+Gov. 12, 77– 95.
+Steiner-Khamsi, G., 2009. International knowledge banks in education. In: Junker,
+D., Mausbach, W., Thunert, M. (Eds.), State and Market in a Globalized World.
+Winter, Heidelberg.
+Strang, D., Meyer, J.W., 1993. Institutional conditions for diffusion. Theory Soc. 22,
+487– 511.
+Verger, A., Bonal, X., 2012. All things being equal? Policy options, shortfalls, and
+absences in the World Bank Education Strategy 2020. In: Klees, S.S., Samoff, J.,
+Stromquist, N. (Eds.), The World Bank and Education: Critiques and Alternatives.
+Sense, Boston.
+World Bank, 1999. Education Sector Strategy Paper. World Bank, Washington, DC.
+World Bank, 2001. Assessment of the Strategic Compact. World Bank, Washington,
+DC http://documents.worldbank.org/curated/en/2001/03/2501287/
+assessment-strategic-compact. (Accessed December 1 2015).
+World Bank, 201 1. Education Sector Strategy. World Bank, Washington, DC.
+World Bank, 2012. Research at Work. Assessing the Inﬂuence of World Bank
+Research. World Bank, Washington, DC.
+World Bank, 2013. The What, Why, and How of the Systems Approach for Better
+Education Results. World Bank, Washington, DC.
+World Bank, 2014a. SABER in Action. World Bank, Washington, DC.
+World Bank, 2014b. World Bank Education Projects Database. http://datatopics.
+worldbank.org/education/wDataQuery/QProjects.aspx. (Accessed December 22
+2015).
+World Bank, 2016a. Overview of JJ/WBGS Program. World Bank, Washington, DC
+http://web.worldbank.org/WBSITE/EXTERNAL/WBI/EXTWBISFP/EXTJJWBGSP/
+0, contentMDK:20276784?menuPK:551652?pagePK:64168427?
+piPK:64168435?theSitePK:551644 00.html. (Accessed December 2 2015).
+World Bank, 2016b. Open Knowledge Repository. https://openknowledge.
+worldbank.org/about. (Accessed: December 3 2015).
+World Bank, 2016c. Open Learning Campus. World Bank, Washington, DC http://
+wbi.worldbank.org/wbi/node/103. (Accessed December 3 2015).
+World Bank, 2016e. Projects: Third Elementary Education. World Bank, Washington,
+DC http://www.worldbank.org/projects/P004602/third-elementary-
+education?lang=en. (Accessed December 4 2015).
+World Bank Institute, 2016. About WBI 2014. , pp. 2016 http://wbi.worldbank.org/
+wbi/about. (Accessed December 12 2015).
+Wolfensohn, J.D., 1996. Annual Meetings Address. http://web.worldbank.org/
+WBSITE/EXTERNAL/EXTABOUTUS/ORGANIZATION/EXTPRESIDENT/
+EXTPASTPRESIDENTS/PRESIDENTEXTERNAL/0,contentMDK:20025269/C24
+menuPK:232083/C24pagePK:159837/C24piPK:159808/C24theSitePK:227585,00.html.
+(Accessed December 1 2015).
+Wiseman, A.W., Baker, D.P., 2005. Global Trends in Education Policy, Vol. 6. Elsevier,
+Amsterdam, pp. 1– 21.
+Zapp M., Dahmen C., (forthcoming) The Diffusion of Educational Ideas among
+International Organizations. An Event History Analysis of Lifelong Learning,
+1990-2013. Comparative Education Review.
+M. Zapp / International Journal of Educational Development 53 (2017) 1– 11 11
