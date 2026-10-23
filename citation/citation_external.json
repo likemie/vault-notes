@@ -11084,6 +11084,8 @@
     "Pinto & Fernandes, 2021": "Pinto & Fernandes, 2021",
     "Pinto (2000)": "Pinto, 2000",
     "Pinto, 2000": "Pinto, 2000",
+    "Pintrich & De Groot (1990)": "Pintrich & De Groot, 1990",
+    "Pintrich & De Groot, 1990": "Pintrich & De Groot, 1990",
     "Pintrich (2000)": "Pintrich, 2000",
     "Pintrich (2002)": "Pintrich, 2002",
     "Pintrich et al. (1993)": "Pintrich et al., 1993",
@@ -15969,6 +15971,8 @@
     "迈耶等, 1997": "迈耶等, 1997",
     "运用卢曼与肖尔 (1979)": "运用卢曼与肖尔, 1979",
     "运用卢曼与肖尔, 1979": "运用卢曼与肖尔, 1979",
+    "迪克勒等 (2021)": "迪克勒等, 2021",
+    "迪克勒等, 2021": "迪克勒等, 2021",
     "郑辉和李路路 (2009)": "郑辉和李路路, 2009",
     "郑辉和李路路, 2009": "郑辉和李路路, 2009",
     "里兹维与林加德 (2009)": "里兹维与林加德, 2009",
@@ -20846,6 +20850,7 @@
         "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2009_CE.md",
         "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
         "wiki/concepts/comparative-education/Revolutionism.md",
+        "wiki/concepts/comparative-education/Structural Adjustment Programs.md",
         "wiki/concepts/educational-philosophy/Enlightenment.md",
         "wiki/concepts/research-methodology/Unit of Analysis.md",
         "wiki/facts/global/World Bank.md",
@@ -23254,7 +23259,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/competency-and-assessment/Creative Self-Efficacy.md"
+        "wiki/concepts/competency-and-assessment/Creative Self-Efficacy.md",
+        "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
       ],
       "title": ""
     },
@@ -32337,7 +32343,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/reports-policy-documents/Argument_Bergeron_2015_TeachingTOK.md"
+        "wiki/arguments/reports-policy-documents/Argument_Bergeron_2015_TeachingTOK.md",
+        "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
       ],
       "title": ""
     },
@@ -34921,7 +34928,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
+        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md",
+        "wiki/concepts/comparative-education/Structural Adjustment Programs.md"
       ],
       "title": ""
     },
@@ -44639,6 +44647,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md",
         "wiki/concepts/educational-technology/Intelligent Tutoring Systems.md",
+        "wiki/facts/us/Inq-Blotter.md",
         "wiki/facts/us/Inq-ITS.md"
       ],
       "title": ""
@@ -57907,6 +57916,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/facts/us/Inq-Blotter.md",
         "wiki/facts/us/Inq-ITS.md"
       ],
       "title": ""
@@ -57924,6 +57934,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research Review/Argument_DeJong_2023_ERR.md",
         "wiki/concepts/educational-technology/Intelligent Tutoring Systems.md",
+        "wiki/facts/us/Inq-Blotter.md",
         "wiki/facts/us/Inq-ITS.md"
       ],
       "title": ""
@@ -65889,6 +65900,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md",
+        "wiki/concepts/comparative-education/Structural Adjustment Programs.md",
         "wiki/facts/global/World Bank.md",
         "wiki/persons/brazil/Claudio de Moura Castro.md",
         "wiki/persons/us/Stephen P. Heyneman.md"
@@ -94732,6 +94744,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Unterrichtswissenschaft/Argument_Besa_2024_UW.md",
+        "wiki/concepts/competency-and-assessment/Self-Efficacy.md",
         "wiki/concepts/learning-science-cognitive-science/Learning Styles.md"
       ],
       "title": ""
@@ -103480,6 +103493,21 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02.md",
         "wiki/methods/qualitative/Participatory Research.md"
+      ],
+      "title": ""
+    },
+    "Pintrich & De Groot, 1990": {
+      "aliases": [
+        "Pintrich & De Groot, 1990",
+        "Pintrich & De Groot (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pintrich & De Groot, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
       ],
       "title": ""
     },
@@ -112463,6 +112491,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/comparative-education/Structural Adjustment Programs.md",
         "wiki/persons/us/Joel Samoff.md"
       ],
       "title": ""
@@ -121260,7 +121289,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md"
+        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md",
+        "wiki/concepts/comparative-education/Structural Adjustment Programs.md"
       ],
       "title": ""
     },
@@ -132200,7 +132230,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/educational-policy-reform/STEM Education.md"
+        "wiki/concepts/educational-policy-reform/STEM Education.md",
+        "wiki/facts/us/PhET Interactive Simulations.md"
       ],
       "title": ""
     },
@@ -138030,6 +138061,7 @@
         "wiki/concepts/political-economy-geopolitics/Bonsai Army.md",
         "wiki/concepts/political-economy-geopolitics/Bureaucracy.md",
         "wiki/concepts/political-economy-geopolitics/Edge Autonomy.md",
+        "wiki/concepts/political-economy-geopolitics/Engineering Mindset.md",
         "wiki/concepts/political-economy-geopolitics/Long Peace.md",
         "wiki/concepts/political-economy-geopolitics/Organizational Culture Change.md",
         "wiki/concepts/political-economy-geopolitics/Red Tape.md",
@@ -141619,6 +141651,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/germany/Niklas Luhmann.md"
+      ],
+      "title": ""
+    },
+    "迪克勒等, 2021": {
+      "aliases": [
+        "迪克勒等, 2021",
+        "迪克勒等 (2021)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "迪克勒等, 2021"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/us/Inq-Blotter.md"
       ],
       "title": ""
     },

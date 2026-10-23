@@ -50,8 +50,8 @@ updated: 2026-10-23
 
 ---
 
-> [!def] 核心定义
-> 学习者特征（IB Learner Profile）是[[International Baccalaureate\|国际文凭]]教育的核心使命宣言，包含 10 项特质（如探究者、思考者、反思者、胸襟开阔者等），旨在培养具有国际情怀的[[Lifelong Learning\|终身学习]]者。在课程实践中，它不仅是单一学科的德育目标，更是贯穿于所有学术科目与核心组件（[[Theory of Knowledge\|TOK]]、[[Chinese Academy of Sciences|CAS]]、EE）的统一价值观，为跨学科[[Concurrency of Learning\|并发学习]]提供了稳定的教育导向。[[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, pp. 227–228)]]
+> [!def] IB Learner Profile
+> 学习者特征（IB Learner Profile）是[[International Baccalaureate\|国际文凭]]教育的核心使命宣言，包含 10 项特质（如探究者、思考者、反思者、胸襟开阔者等），旨在培养具有国际情怀的[[Lifelong Learning\|终身学习]]者。在课程实践中，它不仅是单一学科的德育目标，更是贯穿于所有学术科目与核心组件（[[Theory of Knowledge\|TOK]]、[[Creativity, Action, Service|CAS]]、EE）的统一价值观，为跨学科[[Concurrency of Learning\|并发学习]]提供了稳定的教育导向。[[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, pp. 227–228)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学习者特征将抽象的教育使命（如国际情怀、[[Global Citizenship\|全球公民]]）[[Operationalization\|操作化]]为师生应具备的 10 个具体认知与行为特质。
@@ -116,7 +116,7 @@ updated: 2026-10-23
 
 > [!claim] Metli, A. & Akış, D.
 > **通过学习者特征促进[[Concurrency of Learning\|并发学习]]** 
-> 将“学习者特征”融入全校范围的推广中，有助于提升[[Concurrency of Learning\|并发学习]]的效果。鼓励师生共同展现这些特质，能加深其对跨学科学习的理解。例如，“探究者”特质能够发展研究技能，鼓励学生去调查不同学科并发现其内在联系；而“反思者”则是并发学习中不可或缺的一环，反思经验能够引导学生发展[[Creativity\|创造性]]与[[Critical Thinking\|批判性思维]]，从而将知识从一个学科迁移到另一个学科，以及在 [[Chinese Academy of Sciences|CAS]] 和 [[Theory of Knowledge\|TOK]] 之间形成反思互文。[[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, p. 228)]]
+> 将“学习者特征”融入全校范围的推广中，有助于提升[[Concurrency of Learning\|并发学习]]的效果。鼓励师生共同展现这些特质，能加深其对跨学科学习的理解。例如，“探究者”特质能够发展研究技能，鼓励学生去调查不同学科并发现其内在联系；而“反思者”则是并发学习中不可或缺的一环，反思经验能够引导学生发展[[Creativity\|创造性]]与[[Critical Thinking\|批判性思维]]，从而将知识从一个学科迁移到另一个学科，以及在 [[Creativity, Action, Service|CAS]] 和 [[Theory of Knowledge\|TOK]] 之间形成反思互文。[[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, p. 228)]]
 
 ### 命题二　探究性课程能有效激活并重塑师生双向的学习者特质
 
@@ -125,7 +125,7 @@ updated: 2026-10-23
 
 > [!claim] Bergeron, L. & Rogers, L.
 > **胸襟开阔与教学信念的转变**
-> [[Theory of Knowledge\|知识论]]（TOK）不仅使学习者特征变得“鲜活（brings it to life）”，拓宽了学生的思维，使学生变得更具“[[Reflexivity\|反思性]]”和“胸襟开阔”（在遇到不同观点时不直接轻信或拒斥，而是愿意倾听并处理分歧）；它同时也强烈地作用于教师。研究发现，在教授探究课程的过程中，教师也被迫在课堂上亲自示范（model）“探究者”和“冒险者”等特质，这种实践深刻重塑了教师自身的教学哲学，打破了传统指令性教学的局限。[[Argument_Bergeron_2015_TeachingTOK\|(Bergeron & Rogers, 2015, pp. 4, 30, 55)]]
+> [[Theory of Knowledge\|知识论]]（TOK）不仅使学习者特征变得“鲜活（brings it to life）”，拓宽了学生的思维，使学生变得更具“[[Reflexivity\|反思性]]”和“胸襟开阔”（在遇到不同观点时不直接轻信或拒斥，并愿意倾听和处理分歧）；它同时也强烈地作用于教师。研究发现，在教授探究课程的过程中，教师也被迫在课堂上亲自示范（model）“探究者”和“冒险者”等特质，这种实践深刻重塑了教师自身的教学哲学，打破了传统指令性教学的局限。[[Argument_Bergeron_2015_TeachingTOK\|(Bergeron & Rogers, 2015, pp. 4, 30, 55)]]
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |

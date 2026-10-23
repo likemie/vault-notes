@@ -140,7 +140,7 @@ updated: 2026-10-23
 > |:-----|:-----|:-----|
 > | [[World Bank]] | 事实 (机构) | WDI 的主办与维护机构，世界银行[[Policy Brokerage\|政策中介]]影响力的核心数据工具。 |
 > | [[UNESCO Institute for Statistics]] | 事实 (机构) | WDI [[Performance Indicators\|教育指标]]数据的主要供应方，双方建立法定数据共享协议。 |
-> | [[Systems Approach for Better Education Results]] | 事实 (项目) | 直接采用 WDI 指标作为国别政策绩效基准，形成世行数据的内部自引闭环。 |
+> | [[Systems Approach for Better Education Results]] | 事实 (项目) | 直接采用 WDI 指标作为国别政策绩效基准，形成世行数据内部自我引证的实证支持循环。 |
 > | [[UN Sustainable Development Goals]] | 事实 (政策) | WDI 是 SDG 监测体系多项指标的全球汇总数据来源之一。 |
 > | [[Governing by Numbers]] | 概念 | WDI 是全球教育治理[[Governing by Numbers\|数字化规制]]的核心底层数据基础设施。 |
 > | [[Return on Investment]] | 概念 | 世界银行 Psacharopoulos 教育回报率系列研究高度依赖 WDI 数据，形成数字治理的政策化用。 |

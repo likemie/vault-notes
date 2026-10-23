@@ -90,7 +90,7 @@ updated: 2026-10-23
 
 ---
 
-> [!def] 核心定义
+> [!def] Self-Efficacy
 > 自我效能感（Self-Efficacy）是指个体在面对**特定任务情境**时，对自身能否成功调动认知、动机与行为资源以达成预期表现的主观胜任信念。[[Albert Bandura|阿尔伯特·班杜拉]]（Albert Bandura）在社会认知理论中强调，感到自我有效（feeling efficacious）是驱动个体走向积极探索与技能掌握的直接动力；反之，低自我效能感会引发任务逃避与[[Learned Helplessness\|习得性无助]]。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 58)]]；[[Argument_Bergeron_2015_TeachingTOK\|(Bergeron & Rogers, 2015, p. 9)]]
 
 > [!concept-lens] 概念透镜

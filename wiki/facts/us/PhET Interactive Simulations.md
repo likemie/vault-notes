@@ -82,7 +82,7 @@ updated: 2026-10-23
 >   4. **与显性教学时序无缝嵌合** 提倡“最小指导探索 ➔ 认知冲突暴露 ➔ 教师显性精讲 ➔ 模拟进阶验证”的混合流程。
 
 > [!citation-card] 威曼等论 PhET 模拟对科学心理表征的重构功能
-> PhET 模拟旨在促进概念理解而非[[Rote Learning\|死记硬背]]。模拟使看不见的科学实体可视化，为学生操纵物理世界提供了高度动态的互动隐喻。学生不再是被动的听众，而是通过操纵滑块、观察反馈自主建构起物理学家的思维模型。（Wieman, Adams, & Perkins, 2008）
+> PhET 模拟旨在促进概念理解而非[[Rote Learning\|死记硬背]]。模拟使看不见的科学实体可视化，为学生操纵物理世界提供了高度动态的互动隐喻。学生通过操纵滑块、观察反馈自主建构起物理学家的思维模型。（Wieman, Adams, & Perkins, 2008）
 >
 > *PhET simulations are designed to animate invisible physical phenomena, providing students with interactive visual mental models that support deep conceptual understanding and inquiry.*
 
@@ -118,7 +118,7 @@ updated: 2026-10-23
 > > 争论焦点在于纯虚拟模拟是否会导致学生丧失对真实科学误差的敬畏。
 > >
 > > - **误差缺失论** 批评者担忧学生习惯了理想无摩擦的物理世界，在面对真实仪器的接触电阻或测量浮动时无所适从。
-> > - **分工协同论** PhET 团队指出，模拟定位并非彻底消灭实体实验，而是在概念初建期剥离无关噪音，使学生先建立牢固的认知因果锚点，再进入实体实验学习误差处理（Wieman et al., 2008）。
+> > - **分工协同论** PhET 团队指出，模拟在概念初建期剥离无关噪音，使学生先建立牢固的认知因果锚点，再进入实体实验学习误差处理，两者分工协同（Wieman et al., 2008）。
 
 ---
 

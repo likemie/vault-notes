@@ -110,7 +110,7 @@ updated: 2026-10-23
 
 ---
 
-> [!def] 核心定义
+> [!def] Theory of Knowledge
 > 知识论（Theory of Knowledge，TOK）是[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）文凭项目（Diploma Programme，DP）的跨学科核心课程。课程至少安排 100 学时，以[[Knowledge Questions\|知识问题]]组织学生对认识过程的探究，要求学生比较不同[[Areas of Knowledge\|知识领域]]如何形成、支持和限制知识。TOK 以[[Critical Thinking\|批判性思维]]为课程主张，其实际内容同时具有鲜明的[[Epistemology\|认识论]]取向。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 30, 35–36)]]
 
 > [!concept-lens] 概念透镜
@@ -159,7 +159,7 @@ updated: 2026-10-23
 > - **迁移到新问题** 学科原则在学习者头脑中变得明确以后，才更可能用于新的政治、商业、社会或个人情境。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 46–48)]]
 
 > [!warrant]- 学科结构为什么必须进入显性反思
-> 杰罗姆·布鲁纳（Jerome Bruner）从三个方面说明统整课程的必要性。孤立教授题目和技能，会使学生难以把学习推广到后来遇到的情境；没有掌握一般原则的知识也较少产生智识兴趣，因为它无法在最初课堂之外继续用于思考；缺少结构联系的事实还会迅速遗忘。TOK 因而不替代学科学习，而是帮助学生从已经获得的学科经验中辨认一般原则、比较适用范围，并形成能够带往新情境的知识结构。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 47–48)]]
+> 杰罗姆·布鲁纳（Jerome Bruner）从三个方面说明统整课程的必要性。孤立教授题目和技能，会使学生难以把学习推广到后来遇到的情境；没有掌握一般原则的知识也较少产生智识兴趣，因为它无法在最初课堂之外继续用于思考；缺少结构联系的事实还会迅速遗忘。TOK 因而在保留学科学习的基础上，帮助学生从已经获得的学科经验中辨认一般原则、比较适用范围，并形成能够带往新情境的知识结构。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 47–48)]]
 
 > [!actor-grid] 初始课程形态中的角色分工
 > - **Alec Peterson 与牛津团队** 把通识教育解释为学习多种思考方式，并提供统整学科经验的课程草图。
@@ -183,7 +183,7 @@ updated: 2026-10-23
 > 这些板块显示，最初 TOK 已经形成跨学科认识论取向，课程组织也没有采用哲学史缩编。牛津先行草图的每年不超过 60 小时属于前身设计，不能直接等同于后来正式指南的 100 学时要求。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, p. 48)]]
 
 > [!boundary]- 原始框架、早期指南与成熟版本
-> - **1965 年制度决定** 原文确认 Gerard Renaud 促成哲学选修与 TOK 全体必修的组合，但没有转载他的第一版教学大纲。
+> - **1965 年制度决定** 相关记述确认 Gerard Renaud 促成哲学选修与 TOK 全体必修的组合，但没有转载他的第一版教学大纲。
 > - **第四版指南的八板块** 这是书中最接近初始课程框架的内容目录。Alec Peterson 说明，Gerard Renaud 与 Dina Dreyfus 塑造的初始形态在最初十五年中变化很少，因此可作为早期设计的近似重建，不能视为原稿复刻。
 > - **1987 年附录一** 课程已整理为语言与思想、逻辑严谨性、知识体系、价值判断、知识与真理五组主题，并明确规定至少 100 小时、两年实施、教师评价和外部调节；它是成熟版本，不应倒推为 1965 年原貌。制度起点见 [[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 29–30)]]，早期课程形态见 [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 46–48)]]，成熟规范见 [[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Appendix 1, pp. 221–224)]]。
 
@@ -206,7 +206,7 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > - **共同质量（红方）** 自由度过大时，课程可能退化为缺少连续结构的时事讲座。[[International Baccalaureate|国际文凭组织]]（International Baccalaureate Organization，IBO）需要通过学术顾问讨论、教师培训和评价调节，确保不同学校仍然围绕知识、证据、判断和学科方法开展反思。
 
 > [!case] 暑期学校把抽象课程理念转化为教师共同实践
-> TOK 得到教师支持的重要迹象，是世界各地暑期学校持续吸引教师和学生参加，每次平均约 35–40 人。苏·巴斯蒂安（Sue Bastian）在联合国[[International Schools|国际学校]]、卢博尔·韦莱茨基（Lubor Velecky）在南安普敦大学，帮助不熟悉法国哲学传统的英美学校教师理解课程。培训既解释 TOK 不是什么，也让教师共同讨论怎样把[[Knowledge Questions|知识问题]]组织成连续课程。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 179)]]
+> TOK 得到教师支持的重要迹象，是世界各地暑期学校持续吸引教师和学生参加，每次平均约 35–40 人。苏·巴斯蒂安（Sue Bastian）在联合国[[International Schools|国际学校]]、卢博尔·韦莱茨基（Lubor Velecky）在南安普敦大学，帮助不熟悉法国哲学传统的英美学校教师理解课程。培训既解释 TOK 的课程边界，也让教师共同讨论怎样把[[Knowledge Questions|知识问题]]组织成连续课程。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 179)]]
 
 > [!question] 共同题目既评价学生，也向新教师示范课程边界
 > - 如果道德规范只是特定社会的惯例，追求更公正的社会是否仍有意义？
@@ -536,4 +536,4 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > - **学校实施与批判性思维表现** 以[[Mixed Methods Research\|混合方法]]检验澳大利亚学校的 TOK 实施与批判性思维表现。[[Argument_Cole_2015_AJE\|Cole et al. (2015)]]
 > - **评估与科学教育议程** 分析 TOK 评估、教科书和科学教育议程之间的结构性冲突。[[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]
 > - **[[Teacher Beliefs\|教师信念]]与实施挑战** 以混合方法考察 TOK 课程如何重塑教师信念，以及在评估与时间管理上面临的系统性阻力。[[Argument_Bergeron_2019_JRIE\|Bergeron and Rogers (2019)]]
-> - **核心课程的[[Concurrency of Learning\|并发学习]]策略** 以混合方法探讨 TOK 与创造、行动与服务（[[Creativity, Action, Service]]，[[Chinese Academy of Sciences|CAS]]）、[[Extended Essay\|拓展论文]]（Extended Essay，EE）之间的跨组件连贯性及实践挑战。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]]
+> - **核心课程的[[Concurrency of Learning\|并发学习]]策略** 以混合方法探讨 TOK 与创造、行动与服务（[[Creativity, Action, Service]]，[[Creativity, Action, Service|CAS]]）、[[Extended Essay\|拓展论文]]（Extended Essay，EE）之间的跨组件连贯性及实践挑战。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]]

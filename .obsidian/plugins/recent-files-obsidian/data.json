@@ -5,6 +5,10 @@
       "path": "wiki/concepts/research-methodology/Literature Search.md"
     },
     {
+      "basename": "World Development Indicators",
+      "path": "wiki/facts/global/World Development Indicators.md"
+    },
+    {
       "basename": "Literature Review",
       "path": "wiki/concepts/research-methodology/Literature Review.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Family Structure and Achievement",
       "path": "wiki/concepts/sociology-of-education/Family Structure and Achievement.md"
-    },
-    {
-      "basename": "Self-Efficacy",
-      "path": "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
     }
   ],
   "omittedPaths": [],

@@ -1045,7 +1045,14 @@
   {
     "title": "Import Substitution Industrialisation",
     "type": "concept",
-    "path": "wiki/concepts/comparative-education/Import Substitution Industrialisation.md"
+    "path": "wiki/concepts/comparative-education/Import Substitution Industrialisation.md",
+    "aliases": [
+      "进口替代工业化",
+      "ISI",
+      "Import Substitution Industrialization",
+      "进口替代",
+      "进口替代发展模式"
+    ]
   },
   {
     "title": "Influences Across Cultures",
@@ -1864,7 +1871,13 @@
   {
     "title": "Structural Adjustment Programs",
     "type": "concept",
-    "path": "wiki/concepts/comparative-education/Structural Adjustment Programs.md"
+    "path": "wiki/concepts/comparative-education/Structural Adjustment Programs.md",
+    "aliases": [
+      "结构调整方案",
+      "SAPs",
+      "Structural Adjustment",
+      "结构调整政策"
+    ]
   },
   {
     "title": "Student Mobility",
@@ -2634,7 +2647,14 @@
   {
     "title": "Self-Efficacy",
     "type": "concept",
-    "path": "wiki/concepts/competency-and-assessment/Self-Efficacy.md"
+    "path": "wiki/concepts/competency-and-assessment/Self-Efficacy.md",
+    "aliases": [
+      "自我效能感",
+      "perceived self-efficacy",
+      "自我效能",
+      "teacher self-efficacy",
+      "教师自我效能感"
+    ]
   },
   {
     "title": "Self-Regulated Learning",
@@ -3073,7 +3093,12 @@
   {
     "title": "IB Learner Profile",
     "type": "concept",
-    "path": "wiki/concepts/curriculum/IB Learner Profile.md"
+    "path": "wiki/concepts/curriculum/IB Learner Profile.md",
+    "aliases": [
+      "Learner Profile",
+      "学习者培养目标",
+      "IB学习者特征"
+    ]
   },
   {
     "title": "Immersion Approach",
@@ -3487,7 +3512,13 @@
   {
     "title": "Theory of Knowledge",
     "type": "concept",
-    "path": "wiki/concepts/curriculum/Theory of Knowledge.md"
+    "path": "wiki/concepts/curriculum/Theory of Knowledge.md",
+    "aliases": [
+      "TOK",
+      "Theory of Knowledge (ToK)",
+      "IB Theory of Knowledge",
+      "知识论"
+    ]
   },
   {
     "title": "Tyler Rationale",
@@ -12059,7 +12090,11 @@
   {
     "title": "Engineering Mindset",
     "type": "concept",
-    "path": "wiki/concepts/political-economy-geopolitics/Engineering Mindset.md"
+    "path": "wiki/concepts/political-economy-geopolitics/Engineering Mindset.md",
+    "aliases": [
+      "工程思维",
+      "工程心智"
+    ]
   },
   {
     "title": "Engineering Pragmatism",
@@ -40428,6 +40463,17 @@
     ]
   },
   {
+    "title": "Inq-Blotter",
+    "type": "fact",
+    "path": "wiki/facts/us/Inq-Blotter.md",
+    "aliases": [
+      "探究警报看板",
+      "探究教师仪表盘",
+      "Inq-Blotter Dashboard",
+      "AI-based Teacher Dashboard"
+    ]
+  },
+  {
     "title": "Inq-ITS",
     "type": "fact",
     "path": "wiki/facts/us/Inq-ITS.md",
@@ -40732,6 +40778,17 @@
       "同伴互助学习策略",
       "PALS",
       "Peer-Assisted Learning Strategies (PALS)"
+    ]
+  },
+  {
+    "title": "PhET Interactive Simulations",
+    "type": "fact",
+    "path": "wiki/facts/us/PhET Interactive Simulations.md",
+    "aliases": [
+      "PhET",
+      "PhET Simulations",
+      "交互式科学仿真",
+      "物理教育技术项目"
     ]
   },
   {
@@ -41052,16 +41109,6 @@
       "全球目录",
       "WEC"
     ]
-  },
-  {
-    "title": "Inq-Blotter",
-    "type": "fact",
-    "path": "wiki/facts/us/Inq-Blotter.md"
-  },
-  {
-    "title": "PhET Interactive Simulations",
-    "type": "fact",
-    "path": "wiki/facts/us/PhET Interactive Simulations.md"
   },
   {
     "title": "Simon Bolivar United World Institute of Experimental Agriculture",
