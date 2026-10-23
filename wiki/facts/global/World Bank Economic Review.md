@@ -10,6 +10,10 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
+fact_related_count: 8
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#ede9fe"
 period: "1986–至今"
 initiator_organization: "世界银行发展经济学研究局（DEC）与牛津大学出版社（Oxford University Press）"
 tags:
@@ -25,10 +29,10 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Cognitive Authority]]"
 related_theories: []
-related_methods:
-  - "[[Quantitative Research]]"
+related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Robin Broad]]"
 related_facts:
   - "[[World Bank]]"
   - "[[Development Economics Vice Presidency]]"
@@ -59,7 +63,7 @@ updated: 2026-10-23
 
 > [!policy-design] 方案设计与学术规程
 > - **严谨的外部双盲同行评审** 稿件来源面向全球学者公开征集（约半数稿件由外部学者撰写，半数由世行专职研究员撰写），采用严苛的国际双盲同行审议标准，确保期刊维持世界一流学术声誉。
-> - **微观计量与实证因果推断导向** 重点发表关于教育收益率、条件现金转移支付（CCT）、随机对照试验（RCT）、劳动市场动态及贫困测度的微观实证论文，塑造了发展经济学的实证研究典范。
+> - **微观计量与实证因果推断导向** 重点发表关于教育收益率、条件现金转移支付（CCT）、随机对照试验（RCT）、劳动市场动态及贫困测度的微观实证成果，塑造了发展经济学的实证研究典范。
 > - **与政策研究工作文稿的联动机制** 与世行政策研究工作文稿（Policy Research Working Papers, PRWP）形成两级筛选网络，工作文稿经过实践检验与修订后择优在 WBER 正式刊发，加速研究成果向国际公认知识的转化。
 > - **全面融入数字开放仓储** 期刊所有历史卷期全面收录入[[Open Knowledge Repository|开放知识库]]（OKR），实现向全球公众无偿开放全文下载。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
 
@@ -80,7 +84,7 @@ updated: 2026-10-23
 > [!actor-grid] 实施协同矩阵
 > - **主办与学术把关方** 世行 DEC 局长与主编团队负责办刊方向与编委会构成。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
 > - **出版与数字发行方** 牛津大学出版社负责全球印刷发行与数字版权合作。
-> - **全球作者群体** 世界银行内部研究员、哈佛、芝加哥等顶尖大学经济学家及借款国本土实证学者。
+> - **撰稿学者群体** 世界银行内部研究员、哈佛、芝加哥等顶尖大学经济学家及借款国本土实证学者。
 > - **目标读者群** 9,500+ 非 OECD 成员国科研机构、各发展中国家央行与教育部政策分析师。
 
 ---

@@ -59,6 +59,8 @@ related_persons:
   - "[[Maris O'Rourke]]"
   - "[[Stephen P. Heyneman]]"
   - "[[Martin Ravallion]]"
+  - "[[Jishnu Das]]"
+  - "[[Robin Broad]]"
 related_facts:
   - "[[World Bank]]"
   - "[[Development Economics Vice Presidency]]"
@@ -72,10 +74,12 @@ related_facts:
   - "[[African Virtual University]]"
   - "[[Knowledge for Development]]"
   - "[[Global Development Learning Network]]"
+  - "[[Development Gateway]]"
   - "[[Poverty Reduction Strategy Papers]]"
   - "[[OECD]]"
   - "[[UNESCO]]"
   - "[[Robert S. McNamara Fellowships Program]]"
+  - "[[World Bank Economic Review]]"
   - "[[EdStats]]"
   - "[[PISA]]"
   - "[[TIMSS]]"
@@ -97,7 +101,7 @@ title: "Argument_Zapp_2017_IJED"
 argument_key: "Argument_Zapp_2017_IJED"
 argument_display_title: "The World Bank and education: Governing (through) knowledge"
 argument_kind: "journal-article"
-argument_related_count: 60
+argument_related_count: 64
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -229,7 +233,7 @@ issuing_organization: ""
 > - **1996** 行长詹姆斯·沃尔芬森在年会演讲中正式宣布世界银行转型为知识银行。
 > - **1997** 在多伦多赞助召开首届全球知识大会并建立全球知识伙伴网络；启动[[Strategic Compact|战略契约]]内部改革；创立[[African Virtual University|非洲虚拟大学]]（African [[Virtual University]], AVU）。
 > - **1998** 《世界发展报告》（WDR）以[[Knowledge for Development|知识与发展]]（Knowledge for Development）为主题；正式建成[[Educational Knowledge Management System|教育知识管理系统]]（EKMS）；启动本土知识促进发展计划。
-> - **2000** 创立[[Global Development Learning Network|全球发展学习网络]]（Global Development Learning Network, GDLN）。
+> - **2000** 创立[[Global Development Learning Network|全球发展学习网络]]（Global Development Learning Network, GDLN）；启动[[Development Gateway|发展网关]]（Development Gateway）推进全球发展数据与援助透明化。
 > - **2004** 在上海举办全球扶贫大会并启动全球学习计划。
 > - **2010** 推出开放发展战略，开启开放知识与开放数据倡议；启动[[Skills Toward Employment and Productivity|就业与生产力技能项目]]（STEP）。
 > - **2012** [[Open Knowledge Repository|开放知识库]]（OKR）正式上线运行，实现全球文献免费开放下载。
@@ -282,6 +286,7 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 > - **总量规模庞大** [[Martin Ravallion|马丁·拉瓦利安]]与瓦格斯塔夫（Ravallion & Wagstaff, 2012）统计显示，世行累计生产逾 19,000 份出版物（近 2,000 部学术专著、9,000 篇期刊篇目、4,000 篇政策研究工作文稿及 5,000 篇图书章节）；内部调查显示，69% 的教育部门专业人员具有极高科研倾向。
 > - **学科发表起飞** Scopus 数据库教育学术发表自 1990 年代中期起步并在 2000 年代初爆发式增长；1992 至 2005 年间年发文量由 4 篇增至 81 篇，2013 年达 106 篇，其中社会科学与经济管理学路径各占逾半数。
 > - **顶尖大学对比优势** 世界银行在教育领域的学术成果发表量达到全球 13 所最具产出能力顶尖大学平均水平的 3 倍；在高校对比测算中，仅哈佛大学在部分指标上接近世行产出水平，哥伦比亚大学、斯坦福大学与牛津大学均在发表总量上明显落后。
+> - **旗舰学术期刊网络** 世行出版物细分为 10 大类别与 484 个子系列，其中旗舰期刊[[World Bank Economic Review|《世界银行经济评论》]]（WBER，5 年影响因子 2.48）向非 OECD 国家 9,500 多个机构免费流通，与《世界银行研究观察》（WBRO）共同构成了全球覆盖面最广的专业发展经济学期刊阵地。
 
 ---
 
@@ -365,7 +370,7 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 
 > [!feature] 仪式性赞誉与学术声誉激励机制
 > - **政治与社会荣誉赋权** 设立吉特·吉尔杰出公共服务纪念奖（2012 年授予冈比亚教育常务秘书巴布卡尔·布伊 Baboucarr Bouy）与斯科尔社会创业奖（表彰中国农民法律教育培训），将符合世行理念的本土官员树立为全球改革楷模。
-> - **内部学术激励与竞赛** 设立内部研究科学院奖（如贾什努·达斯 Jishnu Das 测算学校竞争与儿童成绩微观计量成果获奖）以及大数据促发展创新挑战赛（如利用大数据实时预测印度技能供求分析获奖），以学术声誉机制引导知识创新方向。
+> - **内部学术激励与竞赛** 设立内部研究科学院奖（如[[Jishnu Das|吉什努·达斯]] [Jishnu Das] 测算学校竞争与儿童学业成绩微观计量成果获奖）以及大数据促发展创新挑战赛（如利用大数据实时预测印度技能供求分析获奖），以学术声誉机制引导知识创新方向。
 
 世界银行通过知识生产、知识管理与知识传播三大维度行使认知治理，其核心功能与典型实真实践归纳如下：
 
@@ -391,7 +396,7 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 > [!finding-cards] 核心发现
 > 1. **国际组织[[Epistemic Governance|认知治理]][[Analytic Framework|分析框架]]的理论奠基** Scott (2001) 制度化三支柱理论与 Jakobi (2009) 治理工具分类在此拓展为涵盖[[Knowledge Production|知识生产]]、知识管理与知识传播三维机制的全球教育认知治理模型，填补了以往研究偏重硬性制裁与规范议程的分析缺口。
 > 2. **教育部门作为世行知识转向的核心试验田** 自[[James Wolfensohn|沃尔芬森]] 1996 年提出[[Knowledge Bank|知识银行]]战略以来，教育部门率先通过建立[[Educational Knowledge Management System|教育知识管理系统]]（EKMS）开展数字化知识集散试验，推动世界银行演进为全球规模最大的教育科研生产基地，其文献发表量达到顶尖大学均值的三倍。
-> 3. **政策[[Discourse|话语]]的高度学术化与自指性封闭风险** 战略文献纵向引文分析显示，世行报告已从 1970 年代缺乏引证的行政文本演进为拥有上千条引文的学术巨著；然而其高密度的自引特征形成了自我引证的实证支持循环，强化了特定微观计量[[Paradigm|范式]]的[[Epistemology|认识论]]统治地位。
+> 3. **政策[[Discourse|话语]]的高度学术化与自指性封闭风险** 战略文献纵向引文分析显示，世行报告已从 1970 年代缺乏引证的行政文本演进为拥有上千条引文的学术巨著；然而正如批判学者[[Robin Broad|罗宾·布罗德]]（[[Robin Broad]], 2006）所揭示的“范式维护”机制，世行高密度的自引特征形成了自我引证的实证支持循环，强化了特定微观计量[[Paradigm|范式]]的[[Epistemology|认识论]]统治地位。
 > 4. **标准化度量与虚拟培训实现全球认知常识塑造** 依托 [[Open Knowledge Repository|OKR]] 文献库、[[Systems Approach for Better Education Results|SABER]] 政策诊断量规、[[Skills Toward Employment and Productivity|STEP]] 技能测试以及[[Open Learning Campus|开放学习园区]]（OLC）在线培训，世行实现了从数据采集、标准确立、人员认证到项目贷款的全链条覆盖，确立了全球教育改革常识的定义权。
 
 > [!stat-cards]- 核心数据

@@ -11,6 +11,10 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dcfce7"
 org_type: "国际非营利组织 / 全球发展数据与数字治理机构"
 headquarters: "Washington, D.C., United States"
 established: "2000"
@@ -23,8 +27,6 @@ tags:
   - theme/knowledge-management
 related_concepts:
   - "[[Knowledge Bank]]"
-  - "[[Epistemic Governance]]"
-  - "[[Cognitive Authority]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -32,8 +34,8 @@ related_persons:
   - "[[James Wolfensohn]]"
 related_facts:
   - "[[World Bank]]"
-  - "[[AidData]]"
   - "[[Strategic Compact]]"
+  - "[[AidData]]"
 related_arguments:
   - "[[Argument_Zapp_2017_IJED]]"
 confidence: high

@@ -3,10 +3,14 @@ title: Jishnu Das
 aliases:
   - 吉什努·达斯
   - Das, J.
-summary: "乔治城大学麦考特公共政策学院教授、前世界银行发展经济学研究局（DEC）首席经济学家，古根海姆学者。长期主持巴基斯坦 LEAPS 追踪实验，开创性通过大规模随机对照试验揭示向家长与学校发放学生学业报告单（Report Cards）打破信息不对称、促使私立学校提质降费的因果机制，荣获世界银行首届研究科学院杰出论文奖，在扎普认知治理模型中作为多边机构行使“知识表彰”与微观实证治理的标杆学者。"
+summary: "乔治城大学麦考特公共政策学院教授、前世界银行发展经济学研究局（DEC）首席经济学家，古根海姆学者。长期主持巴基斯坦 LEAPS 追踪实验，开创性通过大规模随机对照试验揭示向家长与学校发放学生学业报告单（Report Cards）打破信息不对称、促使私立学校提质降费的因果机制，荣获世界银行首届研究科学院杰出科研奖，在扎普认知治理模型中作为多边机构行使“知识表彰”与微观实证治理的标杆学者。"
 type: person
 nationality: us
 person_region: "us"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "c. 1972"
 died: ""
 lifespan: "c. 1972–至今"
@@ -19,12 +23,9 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Epistemic Governance]]"
-  - "[[Cognitive Authority]]"
-  - "[[Accountability]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Quantitative Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -43,7 +44,7 @@ updated: 2026-10-23
 > [!person-profile] 人物档案
 > - **身份位置** 发展经济学家与教育微观计量学者，乔治城大学麦考特公共政策学院教授、沃尔什外交学院全球健康教授，古根海姆学者，曾任[[World Bank|世界银行]][[Development Economics Vice Presidency|发展经济学研究局]]（DEC）首席经济学家长达十余年。
 > - **核心角色** 发展中国家初等教育市场化治理与循证政策实验前沿开拓者；长期领导巴基斯坦旁遮普学校学业成就纵向追踪项目（LEAPS），开创性应用大规模随机对照试验（RCT）检验教育信息透明度对学校办学竞争的因果影响。
-> - **代表贡献** 确立了教育市场学业成绩公开报告单（Report Cards）对打破择校信息壁垒与刺激学校提质降费的因果机制；荣获世界银行首届研究科学院杰出论文奖，被迈克·扎普（Mike Zapp）作为世界银行行使“知识表彰（Celebrating Knowledge）”维度的顶级代表成果。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
+> - **代表贡献** 确立了教育市场学业成绩公开报告单（Report Cards）对打破择校信息壁垒与刺激学校提质降费的因果机制；荣获世界银行首届研究科学院杰出科研奖，被迈克·扎普（Mike Zapp）作为世界银行行使“知识表彰（Celebrating Knowledge）”维度的顶级代表成果。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
 
 > [!citation-card] 达斯论教育市场中的学业成绩信息披露
 > 在信息严重不对称的发展中国家低收费私立教育市场中，向家长提供清晰标准化的学校与儿童学业测评报告单，能够消除家长的搜寻与监督成本，激励私立学校通过降低学费与提高教学质量展开良性竞争，使全体学生学业表现平均提升 0.11 个标准差。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
@@ -58,7 +59,7 @@ updated: 2026-10-23
 > - **2001 年** 获哈佛大学经济学博士学位（师从著名发展经济学家与公共经济学家）。
 > - **2002–2019 年** 入职[[World Bank|世界银行]][[Development Economics Vice Presidency|发展经济学研究局]]（DEC）研究部，历任高级经济学家、首席经济学家，主持巴基斯坦、印度等国的教育与卫生实证研究。
 > - **2003 年起** 联合塔希尔·安德拉比（Tahir Andrabi）与阿西姆·卡瓦贾（Asim Ijaz Khwaja）共同启动巴基斯坦旁遮普学校学习与教育成就项目（LEAPS），构建涵盖数百所乡村学校的长期面板追踪体系。
-> - **2013 年** 凭借关于教育市场测试分数信息披露的实证论文，斩获世界银行首届研究科学院杰出论文奖（Research Academy Award）。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
+> - **2013 年** 凭借关于教育市场测试分数信息披露的实证论著，斩获世界银行首届研究科学院杰出科研奖（Research Academy Award）。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
 > - **2017 年** 代表作《Report Cards: The Impact of Providing School and Child Test Scores on Educational Markets》在国际顶尖经济学期刊《American Economic Review》正式发表。
 > - **2019 年** 加盟乔治城大学麦考特公共政策学院担任终身正教授。
 > - **2021 年** 荣获古根海姆学者奖（Guggenheim Fellowship）。
@@ -77,7 +78,7 @@ updated: 2026-10-23
 ---
 
 > [!claim] 核心思想
-> 发展中国家教育质量困境的核心并不单纯在于财政硬件投资匮乏，而在于普遍存在的信息摩擦与前线问责机制失灵；通过向家庭与社区提供真实、可比的学生学业评价信息，能够打破传统行政封闭与市场垄断，促使公立与私立办学机构在透明竞争中内生性改进教学效能。
+> 发展中国家教育质量困境深层植根于普遍存在的信息摩擦与前线问责机制失灵；通过向家庭与社区提供真实、可比的学生学业评价信息，能够打破传统行政封闭与市场垄断，促使公立与私立办学机构在透明竞争中内生性改进教学效能。
 
 > [!citation-card] 达斯论发展中国家教育政策实验
 > 改善基础教育的政策设计必须建立在对本土教育市场微观行为主体的严谨实证理解之上。简单的资金补贴若脱离了透明的质量度量与激励约束，往往无法转化为真实的学习产出增益。

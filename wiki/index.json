@@ -29904,6 +29904,15 @@
     ]
   },
   {
+    "title": "Jishnu Das",
+    "type": "person",
+    "path": "wiki/persons/us/Jishnu Das.md",
+    "aliases": [
+      "吉什努·达斯",
+      "Das, J."
+    ]
+  },
+  {
     "title": "Joel Samoff",
     "type": "person",
     "path": "wiki/persons/us/Joel Samoff.md",
@@ -30706,6 +30715,15 @@
       "Ulich, R.",
       "罗伯特·乌利希",
       "乌利希"
+    ]
+  },
+  {
+    "title": "Robin Broad",
+    "type": "person",
+    "path": "wiki/persons/us/Robin Broad.md",
+    "aliases": [
+      "罗宾·布罗德",
+      "Broad, R."
     ]
   },
   {
@@ -33918,6 +33936,17 @@
     ]
   },
   {
+    "title": "Development Gateway",
+    "type": "fact",
+    "path": "wiki/facts/global/Development Gateway.md",
+    "aliases": [
+      "发展网关",
+      "发展门户",
+      "Development Gateway (DG)",
+      "DG: An IREX Venture"
+    ]
+  },
+  {
     "title": "Early Childhood Development Action Network",
     "type": "fact",
     "path": "wiki/facts/global/Early Childhood Development Action Network.md",
@@ -34963,6 +34992,16 @@
       "UNESCO-OECD-Eurostat",
       "UOE 联合数据收集机制",
       "UNESCO-OECD-Eurostat joint data collection"
+    ]
+  },
+  {
+    "title": "World Bank Economic Review",
+    "type": "fact",
+    "path": "wiki/facts/global/World Bank Economic Review.md",
+    "aliases": [
+      "世界银行经济评论",
+      "WBER",
+      "The World Bank Economic Review"
     ]
   },
   {

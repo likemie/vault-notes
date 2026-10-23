@@ -7,6 +7,10 @@ summary: "美国著名国际政治经济学家，美利坚大学国际服务学�
 type: person
 nationality: us
 person_region: "us"
+person_related_count: 6
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1954"
 died: ""
 lifespan: "1954–至今"
@@ -19,16 +23,15 @@ tags:
   - region/us
 related_concepts:
   - "[[Epistemic Governance]]"
-  - "[[Knowledge Production]]"
-  - "[[Cognitive Authority]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Knowledge Production]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[World Bank]]"
   - "[[Development Economics Vice Presidency]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Zapp_2017_IJED]]"
 confidence: high
@@ -45,7 +48,7 @@ updated: 2026-10-23
 > - **代表贡献** 提出并实证解构了世界银行[[Development Economics Vice Presidency|发展经济学研究局]]（DEC）的“范式维护”四重机制；其关于世行科研偏向性与自我引证的剖析，被迈克·扎普（Mike Zapp）作为论证世行[[Epistemic Governance|认知治理]]内在张力与学术控制的核心批判理论基准。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4, 10)]]
 
 > [!citation-card] 布罗德论世界银行的范式维护机制
-> 世界银行研究局并非价值中立的知识殿堂。世行通过定向分配研究课题预算、设置倾向性匿名同行评审、内部晋升考核绑定以及外部公关过滤等机制，系统性维护以新自由主义华盛顿共识为主导的正统经济学学说，并将质疑自由化教条的实证异见边缘化。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
+> 世界银行研究局带有明确的政策导向。世行通过定向分配研究课题预算、设置倾向性匿名同行评审、内部晋升考核绑定以及外部公关过滤等机制，系统性维护以新自由主义华盛顿共识为主导的正统经济学学说，并将质疑自由化教条的实证异见边缘化。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
 >
 > *The World Bank uses the art of 'paradigm maintenance' through funding, promotion, peer review and public relations to reinforce its neoliberal development agenda and filter out dissenting empirical evidence.*
 
@@ -58,7 +61,7 @@ updated: 2026-10-23
 > - **1980 年代中** 深入菲律宾田野开展博士课题研究，调查世界银行与国际货币基金组织推行的[[Structural Adjustment Programs|结构调整计划]]（SAPs）对后殖民国家工业化与生态环境的深层冲击。
 > - **1988 年** 出版经典专著《Unequal Alliance: The World Bank, the International Monetary Fund, and the Philippines》（加州大学出版社）。
 > - **1990 年起** 任教于美利坚大学国际服务学院，长年讲授国际政治经济学与全球治理。
-> - **2006 年** 在国际顶级期刊《Review of International Political Economy》（RIPE）发表划时代论文《Research, knowledge, and the art of 'paradigm maintenance': The World Bank's Development Economics Vice-Presidency (DEC)》。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
+> - **2006 年** 在国际顶级期刊《Review of International Political Economy》（RIPE）发表开创性论著《Research, knowledge, and the art of 'paradigm maintenance': The World Bank's Development Economics Vice-Presidency (DEC)》。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
 > - **2007 年** 发表《'Knowledge,' progress, and the new World Bank》，进一步剖析世行向“知识银行”转型中的认知权力垄断。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 11)]]
 > - **2019 年** 荣获古根海姆学者奖。
 
@@ -78,8 +81,8 @@ updated: 2026-10-23
 > [!claim] 核心思想
 > 国际金融组织最隐蔽的权力不仅在于其发放贷款时的强硬附加条件，更在于其通过垄断发展科学研究资金与发表渠道所行使的话语定义权；世界银行通过建制化的组织过滤机制，确保其产出的实证知识始终与新自由主义资本积累逻辑保持一致，使受援国决策者陷入认知依附。
 
-> [!citation-card] 布罗德论知识作为全球治理的隐形杠杆
-> 当国际组织掌握了全球最大规模的实证研究预算与数据汇聚平台时，知识便从启蒙工具转变为行使规训权力的手段。研究报告不再只是客观描摹世界，而是在积极建构何为不可更改的政策现实。
+> [!citation-card] 布罗德论知识作为全球治理的权力机制
+> 当国际组织掌握了全球最大规模的实证研究预算与数据汇聚平台时，知识便从启蒙工具转变为行使规训权力的手段。研究报告在客观描摹世界的同时，积极建构着具有约束力的政策现实。
 >
 > *When an international financial institution commands the world's largest development research budget, knowledge generation becomes an instrument of discipline. Research does not merely describe policy reality; it constructs what is seen as legitimate.*
 
@@ -121,5 +124,5 @@ updated: 2026-10-23
 > | [[Knowledge Production]] | 概念 | 系统提出并阐明大型多边机构知识生产中的范式维护过滤机制。 |
 > | [[Epistemic Governance]] | 概念 | 为扎普解构世界银行通过研究话语行使认知权威提供关键批判武器。 |
 > | [[Structural Adjustment Programs]] | 概念 | 早期深入田野揭露其对借款国经济与社会公平造成结构性创伤的经典成果。 |
-> | [[Development Economics Vice Presidency]] | 组织事实 | 布罗德 2006 年里程碑论文的核心微观实证解构对象。 |
+> | [[Development Economics Vice Presidency]] | 组织事实 | 布罗德 2006 年里程碑论著的核心微观实证解构对象。 |
 > | [[World Bank]] | 组织事实 | 持续追踪并批判其从结构调整向知识银行演进的国际组织社会学客体。 |
