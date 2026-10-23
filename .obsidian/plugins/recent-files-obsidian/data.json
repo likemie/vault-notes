@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "03-outline",
+      "path": "output/global-evidence-education-governance/03-outline.md"
+    },
+    {
+      "basename": "01-evidence-map",
+      "path": "output/global-evidence-education-governance/01-evidence-map.md"
+    },
+    {
       "basename": "OECD",
       "path": "wiki/facts/global/OECD.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "template-concept",
       "path": "wiki/templates/template-concept.md"
-    },
-    {
-      "basename": "Argument_McDonnell_2013_AmJE",
-      "path": "wiki/arguments/journal-articles/American Journal of Education/Argument_McDonnell_2013_AmJE.md"
-    },
-    {
-      "basename": "Conectar Igualdad",
-      "path": "wiki/facts/argentina/Conectar Igualdad.md"
     }
   ],
   "omittedPaths": [],

@@ -499,7 +499,7 @@
     },
     {
       "number": 8,
-      "status": "pending",
+      "status": "done",
       "type": "person",
       "template": "wiki/templates/template-person.md",
       "entries": [
@@ -517,7 +517,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-23T15:33:52.262823+00:00"
     },
     {
       "number": 9,
