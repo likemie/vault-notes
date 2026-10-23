@@ -91,7 +91,7 @@ sources:
   - "[[sources/Greene_2018_JEP/Greene_2018_JEP|Greene_2018_JEP]]"
 status: draft
 created: 2026-08-19
-updated: 2026-10-22
+updated: 2026-10-23
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Greene_2018_JEP"
@@ -214,7 +214,7 @@ issuing_organization: ""
 > 并非所有的[[Epistemology\|认识论]]构念都与成绩同等相关。那些指向知识发展和多源证成的构念，其效应量远高于简单的“盲信权威”观念。
 
 > [!chain-link] 证据到判断
-> - **知识发展与多元证成的强预测力** 在拆解具体构念时（Table 7），指向知识发展的构念（$r = .274$）、Kuhn 的层次模型（$r = .241$）和多源证成（$r = .225$）表现出最高的效应量。
+> - **知识发展与多元证成的强预测力** 在拆解具体构念时，指向知识发展的构念（$r = .274$）、Kuhn 的层次模型（$r = .241$）和多源证成（$r = .225$）表现出最高的效应量。
 > - **对“权威”单向理解的低预测力** 指向“全知权威”（$r = .083$）和“仅靠权威证成”（$r = .110$）的构念预测力最弱。
 
 > [!debates] 构念边界之争：非认识论因素是否扭曲了结果？
@@ -389,14 +389,14 @@ issuing_organization: ""
 >   - **驱动概念转变（Conceptual Change）** 科学与人文学科的核心概念往往反直觉（如牛顿力学、进化论、历史相对性）。持有静态简单知识观的学生倾向于将新信息曲解并塞入旧经验中或直接排斥；只有具备高阶知识演化观与反思意识的学生，才愿意经历认知失衡，推翻旧图式并实现深层概念重构。
 >   - **赋能多源证据协调与批判性论证（Argumentation）** 论证的本质是处理不确定性（Uncertainty）与学术争议。当面对互斥的信息源时，朴素者容易滑向盲信权威或虚无主义的“人人皆有理”；成熟的认识论认知（如评价主义、多源证成）则为学生提供了**确证规则（[[Justificatory Standards\|Justificatory Standards]]）**，驱动他们比较证据权重、识别论证漏洞、评估作者立场与方法可靠性。
 > - **机制三：因果边界与双向互惠演进模型（Reciprocal Model）**
->   - *实证推断边界*：本元分析纳入的绝大多数为一级[[Correlational Research\|相关性研究]]，不能直接得出“单向绝对因果”结论。（p. 1103）
+>   - *实证推断边界*：本元分析纳入的绝大多数为一级[[Correlational Research\|相关性研究]]，不能直接得出“单向绝对因果”结论。
 >   - *双向互惠机制*：认识论认知与高阶思维并非单向决定，而是呈现**螺旋互惠演进**
 >     1. **赋能路径（认识论认知 → 高阶思维）** 成熟认识论信念自发驱动学生调动[[Surface and Deep Learning\|深层学习]]策略（Deep Learning Strategies），从而在高阶任务中取得卓越表现；
 >     2. **塑造路径（高阶思维实践 → 认识论认知）** 课堂中开放式探究、辩论和[[Wicked Problem|劣构问题]]（Ill-structured problems）的解决实践，制造了持续的认知冲突，打破了学生的二元论平衡，迫使其在“做中学”（Inquiry-in-practice），最终反哺了认识论认知向更高阶段成熟（正如 Perry 图式 所揭示的大学涵化机制）。
 > - **机制四：构念特异性与确证[[Theoretical Validity\|理论有效性]]（Theoretical Validity）**
 >   - 这一实证断层有力反驳了长期以来怀疑论者认为“认识论认知只是宽泛学习动机、一般智力或[[Socioeconomic Status|社会经济地位]]的虚假代理变量”的观点。
 >   - 如果认识论认知只是泛化智力或动机的代理，它应该对所有考试（包括死记硬背与机械计算）均表现出均匀的中等相关；
->   - 唯独与高阶任务强相关、与低阶任务脱节的阶梯断层，恰恰证明了认识论认知具有精确、独立的构念解释边界，其核心功能正是为高阶认知加工提供元认知监控与规范性导引。（p. 1102）
+>   - 唯独与高阶任务强相关、与低阶任务脱节的阶梯断层，恰恰证明了认识论认知具有精确、独立的构念解释边界，其核心功能正是为高阶认知加工提供元认知监控与规范性导引。
 
 ---
 ### 步骤五：方法学影响与信度决定论
@@ -446,11 +446,11 @@ issuing_organization: ""
 ---
 
 > [!finding-cards] 核心发现
-> 1. **基线相关确立** [[Epistemic Cognition\|认识论认知]]与[[Academic Achievement\|学业成绩]]存在小幅但有价值的正相关（$r = .162$），打破了长期以来因研究结果不一而产生的疑虑。（p.1096）
-> 2. **对齐（Alignment）法则** 当测量工具的特异性与其预测的成绩任务在颗粒度上严格匹配时，预测效力大幅提升。（p.1098）
-> 3. **年龄解构** 中小学阶段的[[Effect Size\|效应量]]反而高于大学，反驳了“低龄儿童缺乏高级认识论认知”的传统发展阶段论断。（p.1101）
+> 1. **基线相关确立** [[Epistemic Cognition\|认识论认知]]与[[Academic Achievement\|学业成绩]]存在小幅但有价值的正相关（$r = .162$），打破了长期以来因研究结果不一而产生的疑虑。
+> 2. **对齐（Alignment）法则** 当测量工具的特异性与其预测的成绩任务在颗粒度上严格匹配时，预测效力大幅提升。
+> 3. **年龄解构** 中小学阶段的[[Effect Size\|效应量]]反而高于大学，反驳了“低龄儿童缺乏高级认识论认知”的传统发展阶段论断。
 > 4. **高阶加工特异性** 认识论认知与高阶概念理解（$r = .190$）及论证表现（$r = .154$）高度挂钩，而与低阶[[Rote Learning\|机械记忆]]（$r = .077$）完全脱节，确证了其作为[[Higher-Order Thinking Skills\|高阶思维]][[Metacognition\|元认知]]内核的[[Theoretical Validity\|理论有效性]]。
-> 5. **[[Reliability\|信度]][[Determinism\|决定论]]** 测量的工具信度极大地预测了效应量大小（$b = .300$）。所谓“通用工具效果好”，可能只是统计幻象，掩盖了理论上的粗糙。（p.1102）
+> 5. **[[Reliability\|信度]][[Determinism\|决定论]]** 测量的工具信度极大地预测了效应量大小（$b = .300$）。所谓“通用工具效果好”，可能只是统计幻象，掩盖了理论上的粗糙。
 
 > [!stat-cards]- 核心数据
 > - **r = .162** 整体相关系数（[[Random-Effects Model\|随机效应模型]]）。
@@ -460,7 +460,7 @@ issuing_organization: ""
 ---
 
 > [!citation-card] 对齐与高阶认知的教育启示
-> 此外，当[[Academic Achievement\|学业成就]]衡量的是概念性知识或论证，而不是陈述性或[[Procedural Knowledge\|程序性知识]]时，[[Effect Size\|效应量]]的估计值更高。概念知识和论证成就测量捕捉到了被认为需要[[Epistemic Cognition\|认识论认知]]的高阶认知处理类型。这些发现可以被预期，但也至关重要。它们支持了这样一种观点：研究人员应认真对待论证、概念理解和认识论认知中的领域差异，并考虑针对特定领域的规范性认识实践、[[Epistemic Ideals\|认识理想]]和[[Reliable Epistemic Processes\|可靠过程]]来定制其测量工具。 (p. 1102)
+> 此外，当[[Academic Achievement\|学业成就]]衡量的是概念性知识或论证，而不是陈述性或[[Procedural Knowledge\|程序性知识]]时，[[Effect Size\|效应量]]的估计值更高。概念知识和论证成就测量捕捉到了被认为需要[[Epistemic Cognition\|认识论认知]]的高阶认知处理类型。这些发现可以被预期，但也至关重要。它们支持了这样一种观点：研究人员应认真对待论证、概念理解和认识论认知中的领域差异，并考虑针对特定领域的规范性认识实践、[[Epistemic Ideals\|认识理想]]和[[Reliable Epistemic Processes\|可靠过程]]来定制其测量工具。
 >
 > *Furthermore, effect size estimates were higher when the academic achievement measure captured conceptual knowledge or argumentation, as opposed to declarative or [[Procedural Knowledge]]. Conceptual knowledge and argumentation achievement measures capture the kinds of higher order processing posited to require epistemic cognition. These findings may be expected, but they are important. They bolster arguments that researchers should take domain differences in argumentation, conceptual understanding, and epistemic cognition seriously, and consider tailoring their instruments to the kinds of [[Epistemic Practices]], epistemic ideals, and reliable processes considered normative in particular domains.*
 
@@ -469,7 +469,7 @@ issuing_organization: ""
 > [!warning] 自述局限
 > - **[[Causality\|因果推断]]受限** 由于仅纳入了非实验性研究，无法推断[[Epistemic Cognition\|认识论认知]]与成绩之间的直接因果关系。
 > - **垃圾进，垃圾出（Garbage in, garbage out）** 该领域的自陈[[Questionnaire\|问卷]]长期存在[[Reliability\|信度]]偏低的问题，这不仅衰减了相关性，也使得通过[[Meta-analysis\|元分析]]得到的数据可能低估了真实的潜在效应。
-> - **[[Meta-regression\|元回归]]的稀疏数据限制** 由于部分[[Construct\|构念]]和调节[[Variable\|变量]]的组合[[Sample Size Determination\|样本量]]极小，无法对所有变量组合进行同时的元回归以剥离深层混杂变量。（p.1103）
+> - **[[Meta-regression\|元回归]]的稀疏数据限制** 由于部分[[Construct\|构念]]和调节[[Variable\|变量]]的组合[[Sample Size Determination\|样本量]]极小，无法对所有变量组合进行同时的元回归以剥离深层混杂变量。
 
 ---
 

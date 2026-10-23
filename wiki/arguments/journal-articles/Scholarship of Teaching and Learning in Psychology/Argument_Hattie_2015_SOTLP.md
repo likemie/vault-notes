@@ -39,7 +39,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: 2026-10-22
+updated: 2026-10-23
 year: 2015
 doi: ""
 citation_aliases:
@@ -58,29 +58,29 @@ citation_aliases:
 > - 数据来源：虽大多数来自 K-12 领域，但论文论证各学段成功教学的基本信息高度相似
 
 > [!example] 核心论证
-> 1. **前提** 几乎所有教学干预都呈现正面效果——"almost everything works"(p.80)。因此正确的问题不是"什么有效？"而是"什么最有效？"
+> 1. **前提** 几乎所有教学干预都呈现正面效果——"almost everything works"。因此正确的问题不是"什么有效？"而是"什么最有效？"
 > 2. **论证** 基于 1200 项[[Meta-analysis\|元分析]]的综合，识别出六项提升教学影响的关键因素：（1）教师视评估自身影响力为主要角色（d=0.91）；（2）教师合作了解和评估自身影响力（d=0.91）；（3）基于学生先前学习进行教学（d=0.85）；（4）在系列课程开始时明确告知学生[[Success Criteria\|成功标准]]（d=0.77）；（5）实施具有最优表层/[[Surface and Deep Learning\|深层学习]]比例的方案（d=0.71）；（6）设置适当挑战水平，永远不要求"尽力而为"（d=0.57）
 > 3. **结论** 教学方法本身（讲座 vs PBL vs 在线）不如教学属性重要——教师的思维框架（mind frames）才是关键调节[[Variable\|变量]]。"教师是 DIE for"：Diagnose（诊断学生起点状态）、Intervene（实施多重干预）、Evaluate（评估学生对干预的反应）
 
 > [!success] 主要发现
-> - **PBL 的低[[Effect Size\|效应量]]** 9 项[[Meta-analysis\|元分析]]综合得 d≈0.08，PBL 在低年级（学生尚未具备表层知识时）效果尤差；PBL 对知识获取可能产生显著负面效果（d=−0.79, Dochy et al., 2003）(p.84-85)
-> - **在线 vs 面授无差异** 17 项元分析综合得 d≈0.12，"方法不重要"——更重要的是教师如何明确[[Success Criteria\|成功标准]]、提供挑战和反馈、确保师生互动的质量(p.85-86)
-> - **学生评教的高效度** 7 项元分析综合得 d=0.47，学生评教与教师有效性高度相关。但关键问题不是评教的准确性，而是教师是否实际使用这些信息改进教学(p.86-87)
-> - **学习方差分解** 约 50% 的方差来自学生自身因素、20–25% 来自教师质量、其余来自结构因素（讲座 vs 在线等）、同伴效应和领导力(p.87-88, Figure 2)
-> - **八项教师思维框架（mind frames）** (1) Know thy impact；(2) I am a change agent；(3) I explicitly inform students what successful impact looks like；(4) I see assessment as providing [[Feedback]] about my impact；(5) I work with other teachers to develop common conceptions of progress；(6) I engage in dialogue not monologue；(7) I strive for challenge and not 'doing your best'；(8) I use the language of learning; I see errors as opportunities for learning(p.88-89)
+> - **PBL 的低[[Effect Size\|效应量]]** 9 项[[Meta-analysis\|元分析]]综合得 d≈0.08，PBL 在低年级（学生尚未具备表层知识时）效果尤差；PBL 对知识获取可能产生显著负面效果（d=−0.79, Dochy et al., 2003）
+> - **在线 vs 面授无差异** 17 项元分析综合得 d≈0.12，"方法不重要"——更重要的是教师如何明确[[Success Criteria\|成功标准]]、提供挑战和反馈、确保师生互动的质量
+> - **学生评教的高效度** 7 项元分析综合得 d=0.47，学生评教与教师有效性高度相关。但关键问题不是评教的准确性，而是教师是否实际使用这些信息改进教学
+> - **学习方差分解** 约 50% 的方差来自学生自身因素、20–25% 来自教师质量、其余来自结构因素（讲座 vs 在线等）、同伴效应和领导力
+> - **八项教师思维框架（mind frames）** (1) Know thy impact；(2) I am a change agent；(3) I explicitly inform students what successful impact looks like；(4) I see assessment as providing [[Feedback]] about my impact；(5) I work with other teachers to develop common conceptions of progress；(6) I engage in dialogue not monologue；(7) I strive for challenge and not 'doing your best'；(8) I use the language of learning; I see errors as opportunities for learning
 
 > [!quote] 关键引用
 > > “当教师透过学生的眼睛来看待教与学，并且当学生成为他们自己的老师时，成果和参与度就会最大化。”
-> ("When teachers see teaching and learning through the eyes of their students, and when students become their own teachers then outcomes and engagement are maximized.") (p.79)
+> ("When teachers see teaching and learning through the eyes of their students, and when students become their own teachers then outcomes and engagement are maximized.")
 >
 > > “由于几乎所有的干预措施都能显示出一些成功的证据，我们需要问的不是‘什么有效？’而是‘什么最有效’，并寻求对影响学生学习的不同方式进行比较。”
 > ("As nearly every intervention can show some evidence of success, we need to ask not 'What works?' but 'What works best' and seek comparisons between different ways of influencing student learning.")
 >
 > > “这较少关乎教师在教学中做了什么，而更多关乎他们如何思考自己的角色。他们对教与学的心智框架或思维方式，才是最关键的。”
-> ("It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical.") (p.81)
+> ("It is less what teachers do in their teaching, but more how they think about their role. It is their mind frames, or ways of thinking about teaching and learning, that are most critical.")
 >
 > > “可见的学习的基本前提是，当教育工作者专注于定义、评估和理解他们的影响时，这会导致学生学习和成就的最大化。”
-> ("The fundamental premise of [[Visible Learning]] is that when educators focus on defining, evaluating, and understanding their impact this leads to maximizing student learning and achievement.") (p.89)
+> ("The fundamental premise of [[Visible Learning]] is that when educators focus on defining, evaluating, and understanding their impact this leads to maximizing student learning and achievement.")
 
 > [!warning] 局限性与批评
 > - 大部分数据来自 K-12 而非高等教育领域，跨学段推广的有效性尚需验证
