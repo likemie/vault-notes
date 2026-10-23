@@ -84,42 +84,42 @@ citation_aliases:
 >
 > ### 1. 因果效应的定义
 >
-> [[Potential Outcomes Framework\|潜在结果框架]]的核心进步在于区分因果效应的**定义**与**估计**。但实践中不同的平均处理效应定义（总体 vs. 样本、处理组 vs. 全体）常被忽视，导致估计目标不明——"可信的证据不太可能产生"(p.194)。
+> [[Potential Outcomes Framework\|潜在结果框架]]的核心进步在于区分因果效应的**定义**与**估计**。但实践中不同的平均处理效应定义（总体 vs. 样本、处理组 vs. 全体）常被忽视，导致估计目标不明——"可信的证据不太可能产生"。
 >
 > ### 2. 随机实验的优势与局限
 >
 > 随机实验的[[Internal Validity\|内部效度]]优势被认可(Campbell, 1969; Campbell & Stanley, 1963)，但广泛使用导致两个不良后果：
-> - **集群[[Random Assignment\|随机化]]问题** 随机化单位（教室）与政策兴趣单位（学生）不一致，导致[[Sample Size Determination\|样本量]]不足、[[Stable Unit Treatment Value Assumption\|SUTVA]] 违反——"单一的因果效应不再存在"(p.195)
+> - **集群[[Random Assignment\|随机化]]问题** 随机化单位（教室）与政策兴趣单位（学生）不一致，导致[[Sample Size Determination\|样本量]]不足、[[Stable Unit Treatment Value Assumption\|SUTVA]] 违反——"单一的因果效应不再存在"
 > - **非随机研究被断然否定** "这是一个严重错误"，因为内部效度只是多种效度之一——没有[[External Validity\|外部效度]]，[[Randomised Controlled Trials\|RCT]] 结果对政策毫无用处
 >
-> Berk 的平衡立场：RCT 的最强理由并非其方法论优越性，而是"比其它设计更能防止研究者犯严重的[[Type I and Type II Errors\|统计错误]]"(p.196)——同时承认设计不如 RCT 但具有更好外部效度的观察性研究"有时可以提供有启发性的结果"。
+> Berk 的平衡立场：RCT 的最强理由并非其方法论优越性，而是"比其它设计更能防止研究者犯严重的[[Type I and Type II Errors\|统计错误]]"——同时承认设计不如 RCT 但具有更好外部效度的观察性研究"有时可以提供有启发性的结果"。
 >
 > ### 3. [[Causal Modeling\|因果建模]]（SEM）的过度使用
 >
-> 因果建模承诺整合理论与统计，但其过度承诺在 1980-1990 年代才逐渐显现。Berk 将问题归因于：模型选择使统计推断无效、缺乏明确的经验边界、点按软件使复杂方法"看似容易"(p.197)。引用了 Freedman (2005, p.195) 的修辞性回应清单作为因果建模支持者回避批评的证据。
+> 因果建模承诺整合理论与统计，但其过度承诺在 1980-1990 年代才逐渐显现。Berk 将问题归因于：模型选择使统计推断无效、缺乏明确的经验边界、点按软件使复杂方法"看似容易"。引用了 Freedman (2005, p.195) 的修辞性回应清单作为因果建模支持者回避批评的证据。
 >
 > ### 4. 匹配作为替代方法
 >
-> 匹配回避了因果建模的模型选择问题（匹配[[Variable\|变量]]在不参考[[Dependent Variable\|结果变量]]的情况下确定），但需要满足与随机实验相同的假设（无干扰、条件独立于未观测变量）——Berk 警告这些假设在匹配应用中也常被违反(pp.197–199)。
+> 匹配回避了因果建模的模型选择问题（匹配[[Variable\|变量]]在不参考[[Dependent Variable\|结果变量]]的情况下确定），但需要满足与随机实验相同的假设（无干扰、条件独立于未观测变量）——Berk 警告这些假设在匹配应用中也常被违反。
 >
 > ### 5. [[Meta-analysis\|元分析]]的过度评价
 >
-> 元分析"从一个好主意开始"——当有可比的随机实验时，合并结果可以获得统计功效(p.198)。但当研究不可比较（不同处理、不同结果、不同主体）、非随机实验被合并（有偏估计不会相互抵消）、以及统计推断不成立（研究不独立——研究者互相阅读、交流、合作）时，元分析"开始脱轨"。
+> 元分析"从一个好主意开始"——当有可比的随机实验时，合并结果可以获得统计功效。但当研究不可比较（不同处理、不同结果、不同主体）、非随机实验被合并（有偏估计不会相互抵消）、以及统计推断不成立（研究不独立——研究者互相阅读、交流、合作）时，元分析"开始脱轨"。
 >
 > > “简而言之，元分析对于估计因果效应的重要性被严重高估了。传统的[[Literature Review\|文献综述]]通常会做得更好。”
-> ("In short, the importance of meta-analysis for estimating causal effects has been grossly overrated. A conventional [[Literature Review]] will often do better.") (p.199)
+> ("In short, the importance of meta-analysis for estimating causal effects has been grossly overrated. A conventional [[Literature Review]] will often do better.")
 
 > [!success] 主要发现
-> 1. **"证据"的定义真空** 政策制定过程往往不明确说明什么算作证据——"into this vacuum has been drawn a mix of evaluations ranging from excellent to terrible"(p.199)
-> 2. **垃圾科学的两类制造者** 一类不知道自己在做什么但使用表面特征；另一类明知故犯并使用表面特征掩盖(p.192)
-> 3. **不存在简单的[[Decodification\|解码]]装置** 任何易于实施的规则集都可能扼杀创新(pp.192–193)
-> 4. **随机实验的社会保护功能**[[Randomised Controlled Trials\|RCT]] 的最强理由不是方法论的，而是制度性的——它比其它设计更能防止研究者"以各种方式陷入统计列车事故"(p.196)
-> 5. **[[Causal Modeling\|因果建模]]的韧性** 尽管被反复批评，因果建模之所以存留，部分原因是它承诺整合理论与统计——且"有时难以准确具体说明风险"(p.197)
+> 1. **"证据"的定义真空** 政策制定过程往往不明确说明什么算作证据——"into this vacuum has been drawn a mix of evaluations ranging from excellent to terrible"
+> 2. **垃圾科学的两类制造者** 一类不知道自己在做什么但使用表面特征；另一类明知故犯并使用表面特征掩盖
+> 3. **不存在简单的[[Decodification\|解码]]装置** 任何易于实施的规则集都可能扼杀创新
+> 4. **随机实验的社会保护功能**[[Randomised Controlled Trials\|RCT]] 的最强理由不是方法论的，而是制度性的——它比其它设计更能防止研究者"以各种方式陷入统计列车事故"
+> 5. **[[Causal Modeling\|因果建模]]的韧性** 尽管被反复批评，因果建模之所以存留，部分原因是它承诺整合理论与统计——且"有时难以准确具体说明风险"
 > 6. **[[Meta-analysis\|元分析]]被严重过度评价** 常规[[Literature Review\|文献综述]]"通常做得更好"——至少读者不会被"伪装成统计炫技的统计不当行为"所影响
 
 > [!quote] 关键引用
 > > “对于每一项做得好且有用的研究，至少存在另一项研究在做著名的道伯特裁决（Daubert ruling）所称的垃圾科学。”
-> ("For every well done and useful study there is at least one other doing what under the famous Daubert ruling would be called junk science.") (p.192)
+> ("For every well done and useful study there is at least one other doing what under the famous Daubert ruling would be called junk science.")
 >
 > > “有时很难分辨孰是孰非。一些垃圾科学的兜售者不知道自己在做什么，却带着高质量工作的所有表面特征继续前进。另一些兜售者则清楚地知道自己在做什么，并利用同样的特征来掩盖他们的踪迹。”
 > ("It is sometimes difficult to determine which is which. Some purveyors of junk do not know what they are doing but proceed with all of the superficial trappings of high-quality work. Other purveyors of junk know well what they are doing and use those same trappings to cover their tracks.")
@@ -128,17 +128,17 @@ citation_aliases:
 > ("There can be one causal effect for each possible shuffling of the study units, and a single causal effect no longer exists.") (p.195, on [[Stable Unit Treatment Value Assumption\|SUTVA]] violation)
 >
 > > “任何评估的基准都是现有的知识，而不是完美。因此，[[Internal Validity\|内部效度]]低于随机实验的设计有时也具有证明力。”
-> ("The benchmark for any evaluation is current knowledge, not perfection. Hence, designs with less internal validity than randomized experiments can sometimes be probative.") (p.195)
+> ("The benchmark for any evaluation is current knowledge, not perfection. Hence, designs with less internal validity than randomized experiments can sometimes be probative.")
 >
 > > “[[Meta-analysis\|元分析]]对于估计因果效应的重要性被严重高估了。传统的[[Literature Review\|文献综述]]通常会做得更好。”
-> ("The importance of [[Meta-analysis]] for estimating causal effects has been grossly overrated. A conventional [[Literature Review]] will often do better.") (p.199)
+> ("The importance of [[Meta-analysis]] for estimating causal effects has been grossly overrated. A conventional [[Literature Review]] will often do better.")
 
 > [!success] 建议与对策
-> Berk (p.199-200) 提出的三条建议：
+> Berk 提出的三条建议：
 >
 > 1. **中立专家委员会审查** 在有重要政策问题和矛盾证据时，由知识渊博的中立委员会（如[[National Academy of Sciences|美国国家科学院]]国家研究理事会）进行审查。Pew Charitable Trust 等基金会有时也支持独立小组或员工审查。
 >
-> 2. **团队[[Evaluation Research\|评估研究]]** 评估研究最好由包含**真正具备统计程序专业知识**的个人的团队进行。Rand、[[MDRC]] and Mathematica 等大型研究公司通常尝试这样做——"当然不能保证在任一环境中所需的专业知识都会被恰当地代表，但至少存在一种可以让其发生的结构"(p.200)。
+> 2. **团队[[Evaluation Research\|评估研究]]** 评估研究最好由包含**真正具备统计程序专业知识**的个人的团队进行。Rand、[[MDRC]] and Mathematica 等大型研究公司通常尝试这样做——"当然不能保证在任一环境中所需的专业知识都会被恰当地代表，但至少存在一种可以让其发生的结构"。
 >
 > 3. **保持与"数据科学"同步** 评估研究者需要跟上统计学、计量经济学和计算机科学的发展。Berk 预测计算机科学将在未来十年对评估研究产生影响，正如统计学在 1970 年代所做的那样——"因为数据科学如此受到计算能力和大型数据集日益可用性的推动，变化将非常迅速地到来"。在社会科学的评估研究相关研究生培养中，至少需要硕士水平的数据科学训练。
 

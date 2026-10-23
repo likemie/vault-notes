@@ -146,67 +146,67 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 ---
 
 > [!claim] 论证步骤一　单纯依赖科研自发扩散无法消解实践阻滞，必须依托专业中介机构重构转移通道
-> 现代教师专业化要求教学决策建立在坚实科研证据之上，但由于学术研究侧重理论生产而实践现场面临严峻资源约束，造成了结构性[[Research-Practice Gap\|转移困境]]（Transferproblem），必须由第三方专业中介机构建立系统连接。（pp. 13–14）
+> 现代教师专业化要求教学决策建立在坚实科研证据之上，但由于学术研究侧重理论生产而实践现场面临严峻资源约束，造成了结构性[[Research-Practice Gap\|转移困境]]（Transferproblem），必须由第三方专业中介机构建立系统连接。
 
 #### 1. 教师专业化循证转向与结构性转移困境
 
-现代教师专业化发展日益借鉴医学等成熟专业领域，要求教师不仅依赖个人主观经验或直觉惯性，而应面向可靠科学证据作出理性决策（Bauer & Kollar, 2023）。科学立论的行动能够提升教学有效性并更可靠地达成培养目标（Knogler et al., 2022a, 2022b），但在学校日常教学中推进[[Evidence-Informed Practice|证据知情实践]]（Stark, 2017）面临深刻的结构性障碍。（pp. 13–14）
+现代教师专业化发展日益借鉴医学等成熟专业领域，要求教师不仅依赖个人主观经验或直觉惯性，而应面向可靠科学证据作出理性决策（Bauer & Kollar, 2023）。科学立论的行动能够提升教学有效性并更可靠地达成培养目标（Knogler et al., 2022a, 2022b），但在学校日常教学中推进[[Evidence-Informed Practice|证据知情实践]]（Stark, 2017）面临深刻的结构性障碍。
 
 > [!feature] 教师专业决策转向与转移困境的双重表征
 > - **科学立论的专业化诉求** 教师日常面临常规测试效用、[[Critical Thinking\|批判性思维]]培养路径、数字化工具应用边界等微观抉择；实证教学研究（如[[Inquiry-Based Learning\|探究学习]]与问题导向学习）虽已积累大量有效因果证据，但多散见于专业期刊，难以直接转化为微观决策支撑。
-> - **结构性转移困境的成因** 转移难题（Gräsel, 2010）并非源于证据匮乏，而是学术生产通常以理论推进与科学知识演进为目标，不直接提供行动方案（Shavelson, 2020）；同时，学术出版物质量良莠不齐，一线实践者既缺乏计量文献鉴别能力，又承受着繁重课务与时间挤压，导致科研产出与实践需求长期脱节。（p. 13）
+> - **结构性转移困境的成因** 转移难题（Gräsel, 2010）并非源于证据匮乏，而是学术生产通常以理论推进与科学知识演进为目标，不直接提供行动方案（Shavelson, 2020）；同时，学术出版物质量良莠不齐，一线实践者既缺乏计量文献鉴别能力，又承受着繁重课务与时间挤压，导致科研产出与实践需求长期脱节。
 
-面对此种系统性脱节，[[Knowledge Transfer|知识转移]]绝非学术论文发表后的自发扩散过程，必须由专业中介机构承担连接与重构职能。（pp. 13–14）
+面对此种系统性脱节，[[Knowledge Transfer|知识转移]]绝非学术论文发表后的自发扩散过程，必须由专业中介机构承担连接与重构职能。
 
 > [!figure] 图1：[[Clearing House Unterricht\|德国教学研究清算中心]]（CHU）作为研究与实践的中间媒介机构
 > ![](https://img.mylikemie.icu/sources/Knogler_2025_BB/figures/Knogler_2025_BB_Fig1_Clearing_House_Unterricht_Brokerage_Model.jpg)
 
-清算中心在教育生态系统中承担枢纽职能，其运行架构由三个有机衔接的功能节点构成：（p. 14）
+清算中心在教育生态系统中承担枢纽职能，其运行架构由三个有机衔接的功能节点构成：
 
 > [!proc] CHU 三阶段[[Knowledge Mediation\|知识中介]]运行架构
 > 1. **课堂与教学研究端（Unterrichtsforschung）** 针对中小学有效数学与自然科学等重点学科教学以及其他前沿议题，系统生产可靠的实证科学知识。
 > 2. **清算中心中介端（Clearing House Unterricht）** 专家团队依据统一标准筛选前沿研究，针对目标受众的认知与应用特征进行系统性通俗化转译加工。
-> 3. **师资培育与教学实践端（Lehrkräftebildung & Unterrichtspraxis）** 将转译后的循证知识系统嵌入职前与职后教学培养方案，落实证据知情实践原则。（p. 14）
+> 3. **师资培育与教学实践端（Lehrkräftebildung & Unterrichtspraxis）** 将转译后的循证知识系统嵌入职前与职后教学培养方案，落实证据知情实践原则。
 
 ---
 
 > [!claim] 论证步骤二　以元分析为高信度证据基底，通过分层加工显著降低实践者的认知与应用门槛
-> 破除学术壁垒的关键在于以因果[[Reliability\|信度]]最高的[[Meta-analysis\|元分析]]为证据源头，通过制定统一学术质量规程开展通俗化二次加工，将厚重计量文献转化为分层分级的决策[[Scaffolding\|脚手架]]。（pp. 14–15）
+> 破除学术壁垒的关键在于以因果[[Reliability\|信度]]最高的[[Meta-analysis\|元分析]]为证据源头，通过制定统一学术质量规程开展通俗化二次加工，将厚重计量文献转化为分层分级的决策[[Scaffolding\|脚手架]]。
 
 #### 1. 专家规程制定与多层次中介服务矩阵
 
-美国[[What Works Clearinghouse|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）与英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）的运行实践表明，高质量综合概览能够实质性降低实践者获取科研证据的门槛；慕尼黑工业大学[[Tina Seidel|蒂娜·赛德尔]]（Tina Seidel）团队于 2017 年依托[[Federal Ministry of Education and Research|BMBF]]与[[Qualitätsoffensive Lehrerbildung|QLB]]计划立项设立的[[Clearing House Unterricht|德国教学研究清算中心]]（CHU）（Seidel, Knogler et al., 2017; Seidel, Mok et al., 2017），通过专家标准与产品分层填补了德语区中介机制的空白。（p. 14）
+美国[[What Works Clearinghouse|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）与英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation, EEF）的运行实践表明，高质量综合概览能够实质性降低实践者获取科研证据的门槛；慕尼黑工业大学[[Tina Seidel|蒂娜·赛德尔]]（Tina Seidel）团队于 2017 年依托[[Federal Ministry of Education and Research|BMBF]]与[[Qualitätsoffensive Lehrerbildung|QLB]]计划立项设立的[[Clearing House Unterricht|德国教学研究清算中心]]（CHU）（Seidel, Knogler et al., 2017; Seidel, Mok et al., 2017），通过专家标准与产品分层填补了德语区中介机制的空白。
 
 > [!proc] 教学证据中介转化的四大业务支撑
 > 1. **严苛标准与高质量证据筛选** 专家团队制定统一规范，[[FocusMath\|聚焦数学]]与自然科学等学科中探讨教学有效性的当代[[Meta-analysis\|元分析]]，重点吸收基于[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials, RCT）的高因果信度成果。
 > 2. **轻量化科研简要评价（Kurzreviews）** 将厚重复杂的元分析原著二次加工为结构明晰的简评（Kurzreviews），直观呈现教学策略的效能大小、实施条件与[[Recommendations for Practice\|实践建议]]。
 > 3. **多媒体与概念普及资源** 配套推出专题学术播客，并针对[[Effect Size\|效应量]]（Effektstärke）等核心概念开发教学指南与在线术语表（Online-Glossar），扫清理解障碍。
-> 4. **体系化数字学院课程（CHU-Academy）** 设立在线自学培训模块，涵盖科学证据通识课以及针对探究学习等具体循证教学策略的深化课程。（pp. 14–15）
+> 4. **体系化数字学院课程（CHU-Academy）** 设立在线自学培训模块，涵盖科学证据通识课以及针对探究学习等具体循证教学策略的深化课程。
 
 #### 2. 循证转化案例剖析：数字化教学工具元分析的实践转译
 
-Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表的中学理科数字化工具元分析向 CHU 简要评价（Kurzreview）的转化过程，系统呈现了证据中介加工的技术路径。（p. 15）
+Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表的中学理科数字化工具元分析向 CHU 简要评价（Kurzreview）的转化过程，系统呈现了证据中介加工的技术路径。
 
 > [!figure] 图2：Clearing House Unterricht 对元分析的循证加工示例（左为原始出版物，右为配套简要评价）
 > ![](https://img.mylikemie.icu/sources/Knogler_2025_BB/figures/Knogler_2025_BB_Fig2_Meta_Analysis_to_Kurzreview_Translation.jpg)
 
-转译过程将高密度英文计量文献解构重塑为面向德语中小学教师的实践指南《课堂中的数字化工具：有哪些类型以及如何有效应用？》，消除了语言与统计学认知壁垒。（p. 15）
+转译过程将高密度英文计量文献解构重塑为面向德语中小学教师的实践指南《课堂中的数字化工具：有哪些类型以及如何有效应用？》，消除了语言与统计学认知壁垒。
 
 > [!case] 典范转化案例：从数字工具元分析到 Kurzreview
 > - **[[Primary and Secondary Documents\|原始文献]]基底** Hillmayr et al. (2020) 检索了 2000 年以来全球针对中学数学与自然科学教学的 92 项实验与准[[Experimental Research\|实验研究]]（$k = 92$），检验数字化工具对学生[[Academic Achievement\|学业成就]]与[[Attitude Towards Content Domains|学科态度]]的影响。
 > - **转译标题主张化** 原始标题为学术性描述，CHU 简评将其改写为行动导向的实践发问：“课堂中的数字化工具：有哪些类型以及如何有效应用？”（*Digitale Tools im Unterricht: Welche Typen gibt es und wie kommen sie effektiv zum Einsatz?*）。
 > - **核心概念超级链接** 简评正文中所有专业统计术语均带有下划线，直接超链接至平台在线术语表（Online-Glossar），实现即时概念脚手架。
-> - **配套多媒体扩展** 简评右上角直接内嵌播客图标，受众可一键收听专访学者对该研究微观教学机制的深度对话。（p. 15）
+> - **配套多媒体扩展** 简评右上角直接内嵌播客图标，受众可一键收听专访学者对该研究微观教学机制的深度对话。
 
-在简要评价首页，清算中心将复杂的[[Meta-regression|元回归]]与[[Heterogeneity|异质性]]检验提炼为结构化决策参数：（p. 15）
+在简要评价首页，清算中心将复杂的[[Meta-regression|元回归]]与[[Heterogeneity|异质性]]检验提炼为结构化决策参数：
 
 > [!effect-summary]- 元分析核心证据概览（METAANALYSE IM ÜBERBLICK）
 > - **研究焦点（Fokus der Studie）** 检验数字化工具对学业成绩以及对数学与自然科学学科态度的综合因果影响。
 > - **调查目标群体（Untersuchte Zielgruppe）** 中学阶段学生。
 > - **平均效应量（Durchschnittliche Effektstärke）** 对学业成绩产生中等程度且统计显著的正向效应（Hedges' $g = 0.65, p < .001$）；对学科态度产生较小但统计显著的正向效应（Hedges' $g = 0.45$）。
-> - **其他重要发现（Weitere Befunde）** 教师专业培训对数字化工具的教学效果具有极显著的[[Interaction Effect\|调节效应]]；[[Intelligent Tutoring Systems\|智能辅导系统]]（Intelligent Tutoring Systems, ITS）与动态模拟软件的效果显著优于传统超媒体系统。（p. 15）
+> - **其他重要发现（Weitere Befunde）** 教师专业培训对数字化工具的教学效果具有极显著的[[Interaction Effect\|调节效应]]；[[Intelligent Tutoring Systems\|智能辅导系统]]（Intelligent Tutoring Systems, ITS）与动态模拟软件的效果显著优于传统超媒体系统。
 
-同时，简要评价借鉴 Hillmayr et al. (2017) 与 Nattland and Kerres (2009) 的理论分类，将繁杂的技术软件划分为六大具名功能类型，并明确标定其认知效能机制与适用边界：（p. 15）
+同时，简要评价借鉴 Hillmayr et al. (2017) 与 Nattland and Kerres (2009) 的理论分类，将繁杂的技术软件划分为六大具名功能类型，并明确标定其认知效能机制与适用边界：
 
 > [!index-table] 数字化教学工具的六大功能类型与促学效能边界（Hillmayr et al., 2020）
 > | 工具类型（Typen digitaler Tools） | 核心界定与功能机制 | 促学特征与实践边界 |
@@ -221,11 +221,11 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 ---
 
 > [!claim] 论证步骤三　以师资培训者为辐射支点并健全双向反馈机制，推动循证理念深层融入教学常态
-> 知识转移并非面向个别分散实践者的单向技术输出，必须以师资培训者这一骨干群体为中枢支点实现规模化扩散，并建立包含持续评估与多层级支持的双向反馈迭代机制。（pp. 15–16）
+> 知识转移并非面向个别分散实践者的单向技术输出，必须以师资培训者这一骨干群体为中枢支点实现规模化扩散，并建立包含持续评估与多层级支持的双向反馈迭代机制。
 
 #### 1. 教师教育者作为核心乘数的杠杆放大机制
 
-清算中心不采取直接穿透全量在职教师的线性策略，而是聚焦教师教育者（Lehrkräftebildende）、师范生与第二阶段见习教师（Referendare）；通过将中介产品嵌入高校学科教学法研讨课与教师进修课程，在专业化源头建立证据知情素养，实现学术影响力的倍增扩散。（p. 15）
+清算中心不采取直接穿透全量在职教师的线性策略，而是聚焦教师教育者（Lehrkräftebildende）、师范生与第二阶段见习教师（Referendare）；通过将中介产品嵌入高校学科教学法研讨课与教师进修课程，在专业化源头建立证据知情素养，实现学术影响力的倍增扩散。
 
 > [!row-contrast] 教师教育者对清算服务平台的多维效用评估（Diery et al., 2021; p. 16）
 > | 评价维度 | 评价特征与实证表现 | 机制价值 |
@@ -238,48 +238,48 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 
 #### 2. 面向教师教育与职业教育的三项制度化启示
 
-基于运行实践与用户评估数据，作者总结出克服实践断层与应用压力的三项核心机制原则：（p. 16）
+基于运行实践与用户评估数据，作者总结出克服实践断层与应用压力的三项核心机制原则：
 
 > [!lessons] 德语区教师教育与职业教育知识转移的三大启示（Lessons Learned）
 > 1. **受众适配、通俗易懂且切合实际的加工** 仅凭科学结论本身的可用性不足以改变实践；在应用与时间压力巨大的职业培训中，必须依赖结构精炼的 Kurzreviews、概览与数字模块降低认知负荷。
 > 2. **聚焦师资培训骨干群体的杠杆放大效应** 面向高校师资培训者与在职进修负责人开展重点支持，是推动循证理念广泛落实的关键策略；但这批骨干群体同样需要通俗易用的教学材料、精心设计的培训形式以及与现有培养体制的深度嵌入，无法脱离制度支持自发运转。
-> 3. **知识转移的非线性特征与持续反馈迭代** 知识转移绝非一次性推介的线性流程，而需依托常态化的需求评估与双向反馈，在长效制度支持下动态优化服务形态。（p. 16）
+> 3. **知识转移的非线性特征与持续反馈迭代** 知识转移绝非一次性推介的线性流程，而需依托常态化的需求评估与双向反馈，在长效制度支持下动态优化服务形态。
 
-这一机制体系表明，证据知情实践的建立必须依托结构化中介链条的层层推进：（p. 16）
+这一机制体系表明，证据知情实践的建立必须依托结构化中介链条的层层推进：
 
 > [!chain-link] 教师教育循证转化的非线性机制推进
 > - **前提：受众适配与专业精炼** 仅有研究成果不足以促成采纳；在面临高时间压力与应用约束的职后培训与职业教育中，必须提供高度精炼、通俗可行的结构化载体。
 > - **枢纽：聚焦战略乘数节点** 将资源重点配置于教师教育者与进修主管等关键中介群体，能够依托既有师资培养网络实现循证知识的规模化辐射。
-> - **保障：双向反馈与长效机制支持** 转化过程非一次性终结，必须依赖持续的实践用户反馈循环、需求导向的产品迭代，以及稳定的制度性与跨机构平台支持。（p. 16）
+> - **保障：双向反馈与长效机制支持** 转化过程非一次性终结，必须依赖持续的实践用户反馈循环、需求导向的产品迭代，以及稳定的制度性与跨机构平台支持。
 
 ---
 
 > [!finding-cards] 核心发现
-> 1. **科学立论职业诉求与[[Research-Practice Gap\|转移困境]]共存** 教师专业决策向科学证据立论的转型趋势明确，但学术研究的理论导向性与实践现场的资源匮乏导致[[Knowledge Transfer\|知识转移]]长期受阻。（pp. 13–14）
-> 2. **专业化中介二次加工不可替代** 依托严谨标准筛选[[Effective Teaching\|有效教学]][[Meta-analysis\|元分析]]，并将其二次加工为德语 Kurzreviews、播客与数字化学院模块，是消除认知壁垒的关键路径。（pp. 14–15）
-> 3. **骨干中介群体的战略辐射功能** 聚焦高校师资培训者与师范生，不仅能从源头培育教师的循证思维习惯，更能依托大学研讨课与职后研修平台实现学术成果的规模化传递。（pp. 15–16）
-> 4. **循证知识转移的双向反馈与动态迭代** 知识转移并非简单的数据单向分发，必须建立常态化用户反馈回路、需求评估机制与跨机构平台协同网络。（p. 16）
+> 1. **科学立论职业诉求与[[Research-Practice Gap\|转移困境]]共存** 教师专业决策向科学证据立论的转型趋势明确，但学术研究的理论导向性与实践现场的资源匮乏导致[[Knowledge Transfer\|知识转移]]长期受阻。
+> 2. **专业化中介二次加工不可替代** 依托严谨标准筛选[[Effective Teaching\|有效教学]][[Meta-analysis\|元分析]]，并将其二次加工为德语 Kurzreviews、播客与数字化学院模块，是消除认知壁垒的关键路径。
+> 3. **骨干中介群体的战略辐射功能** 聚焦高校师资培训者与师范生，不仅能从源头培育教师的循证思维习惯，更能依托大学研讨课与职后研修平台实现学术成果的规模化传递。
+> 4. **循证知识转移的双向反馈与动态迭代** 知识转移并非简单的数据单向分发，必须建立常态化用户反馈回路、需求评估机制与跨机构平台协同网络。
 
 > [!stat-cards]- 核心数据
-> - **4–5 / 6** 教师教育者在个体效用、教学适用性、知识深化与时间减负等维度对 [[Clearing House Unterricht\|CHU]] 平台的平均打分。（p. 16）
-> - **2017** 德语区首个教育科学[[Educational Evidence Clearinghouses\|证据清算中心]] Clearing House Unterricht 正式上线运营。（p. 14）
+> - **4–5 / 6** 教师教育者在个体效用、教学适用性、知识深化与时间减负等维度对 [[Clearing House Unterricht\|CHU]] 平台的平均打分。
+> - **2017** 德语区首个教育科学[[Educational Evidence Clearinghouses\|证据清算中心]] Clearing House Unterricht 正式上线运营。
 > - **0.65 / 0.45** 数字化工具对中学生理科[[Academic Achievement\|学业成就]]（Hedges' g）与[[Attitude Towards Content Domains|学科态度]]的综合因果[[Effect Size\|效应量]]。
-> - **92** 数字化工具元分析所纳入的国际实验与准实验实证研究总数（k）。（p. 15）
+> - **92** 数字化工具元分析所纳入的国际实验与准实验实证研究总数（k）。
 
 ---
 
 > [!citation-card] 教师职业的科学立论转向与循证行动假设
-> 类似于医学中成熟的专业，教学职业也越来越被理解为一个具有科学立论基础的专门职业。伴随这一理解的是一种期待：教师不应仅凭个人经验或信念作出决策，而应尽可能面向可靠的科学知识。其潜在假设是：具有科学立论基础的行动有助于提高教学有效性，并更可靠地达成学习目标。（p. 13）
+> 类似于医学中成熟的专业，教学职业也越来越被理解为一个具有科学立论基础的专门职业。伴随这一理解的是一种期待：教师不应仅凭个人经验或信念作出决策，而应尽可能面向可靠的科学知识。其潜在假设是：具有科学立论基础的行动有助于提高教学有效性，并更可靠地达成学习目标。
 >
 > *Ähnlich wie in etablierten Professionen in der Medizin wird auch der Lehrberuf zunehmend als wissenschaftlich fundierte Profession verstanden (Bauer & Kollar 2023). Damit geht die Erwartung einher, dass Lehrkräfte ihre Entscheidungen nicht allein auf persönliche Erfahrungen oder Überzeugungen stützen, sondern sich möglichst an gesicherten wissenschaftlichen Erkenntnissen orientieren. Die zugrunde liegende Annahme: Wissenschaftlich fundiertes Handeln kann dazu beitragen, Unterricht effektiver zu gestalten und Lernziele zuverlässiger zu erreichen (Knogler, Hetmanek & Seidel 2022a, 2022b).*
 
 > [!citation-card] 知识可用性与实践情境化的转化壁垒
-> 首先，事实表明，关键不仅在于科学结论本身的可用性，更在于对其进行契合受众、通俗易懂且切合实际的加工整理。尤其是在承受高度应用与时间压力的职业培训与[[Further Education\|继续教育]]领域，像简评、概览或数字学习模块这样精炼且结构良好的形式愈发重要。（p. 16）
+> 首先，事实表明，关键不仅在于科学结论本身的可用性，更在于对其进行契合受众、通俗易懂且切合实际的加工整理。尤其是在承受高度应用与时间压力的职业培训与[[Further Education\|继续教育]]领域，像简评、概览或数字学习模块这样精炼且结构良好的形式愈发重要。
 >
 > *Erstens zeigt sich, dass nicht allein die Verfügbarkeit wissenschaftlicher Befunde entscheidend ist, sondern vor allem deren adressatengerechte, verständliche und praxistaugliche Aufbereitung. Gerade in der beruflichen Aus- und Weiterbildung, in der unter hohem Anwendungs- und Zeitdruck gearbeitet wird, gewinnen prägnante und gut strukturierte Formate wie Kurzreviews, Übersichten oder digitale Lernmodule an Bedeutung.*
 
 > [!citation-card] 循证转化的非线性与用户反馈机制
-> 第三，这个例子表明，转移过程既非线性推进，也非一次性终结。相反，它需要反馈回路、持续的评估以及制度性的框架条件，以便进一步发展服务内容并在长远上实现有效扎根。教学清算中心的经验表明，只有严肃对待用户视角并将其系统地融入服务开发中，才能产生可持续的服务形式。（p. 16）
+> 第三，这个例子表明，转移过程既非线性推进，也非一次性终结。相反，它需要反馈回路、持续的评估以及制度性的框架条件，以便进一步发展服务内容并在长远上实现有效扎根。教学清算中心的经验表明，只有严肃对待用户视角并将其系统地融入服务开发中，才能产生可持续的服务形式。
 >
 > *Drittens legt das Beispiel nahe, dass Transferprozesse weder linear verlaufen noch einmalig abgeschlossen sind. Vielmehr bedarf es Rückkopplungsschleifen, kontinuierlicher Evaluation und institutioneller Rahmenbedingungen, um Angebote weiterzuentwickeln und langfristig wirksam zu verankern. Die Erfahrungen mit dem [[Clearing House Unterricht]] zeigen, dass tragfähige Formate dort entstehen, wo Nutzerperspektiven ernst genommen und systematisch in die Angebotsentwicklung einbezogen werden.*
 
@@ -287,7 +287,7 @@ Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表�
 
 > [!warning] 自述局限
 > - **证据与情境的批判性反思要求** 清算中心提供的中介产品虽然提供了行之有效的实践模型与启发，但在迁移至职业教育等具体情境时，仍需进行批判性审视与情境化调整，不可机械套用。
-> - **乘数群体的多重依赖性** 尽管聚焦教师教育者成效显著，但该群体对高质量、易获取的教学法材料与外在机构化支持具有极高依赖性，若缺乏深度的制度嵌入与常态化支持，转移的可持续性将受制约。（p. 16）
+> - **乘数群体的多重依赖性** 尽管聚焦教师教育者成效显著，但该群体对高质量、易获取的教学法材料与外在机构化支持具有极高依赖性，若缺乏深度的制度嵌入与常态化支持，转移的可持续性将受制约。
 
 ---
 

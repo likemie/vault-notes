@@ -197,12 +197,12 @@ journal: "Australian Journal of Education"
 > 已有的[[Meta-analysis\|元分析]]证据和[[Randomised Controlled Trials\|随机对照实验]]一致表明：
 
 > [!evidence-grid-a] 显性教学的实证优势
-> - **Abrami et al.（2008）元分析** 汇总 117 项研究（$N = 20,698$）。[[Critical Thinking\|批判性思维]]技能在显性教学条件下增益最大，隐性融入时效果最低。教师接受专门培训且教学受评估时学生获益最高。（p. 250）
-> - **Marin and Halpern（2011）随机对照实验** 在弱势学校的美国高中生中比较显性与隐性教学。接受显性CT教学的学生在前[[Pre-test and Post-test\|后测]]和组间比较中均表现出更大、显著的技能增益。该研究仍是高中阶段比较两种路径的唯一 RCT。（p. 249）
-> - **Coca et al.（2011）芝加哥[[Longitudinal Study\|纵向研究]]** DP 毕业生完成四年大学课程的可能性高 $40\%$，进入更选拔性大学的可能性高 $50\%$，持续就读两年以上概率显著更高。获益最大的是非裔和拉丁裔学生。（pp. 250–251）
+> - **Abrami et al.（2008）元分析** 汇总 117 项研究（$N = 20,698$）。[[Critical Thinking\|批判性思维]]技能在显性教学条件下增益最大，隐性融入时效果最低。教师接受专门培训且教学受评估时学生获益最高。
+> - **Marin and Halpern（2011）随机对照实验** 在弱势学校的美国高中生中比较显性与隐性教学。接受显性CT教学的学生在前[[Pre-test and Post-test\|后测]]和组间比较中均表现出更大、显著的技能增益。该研究仍是高中阶段比较两种路径的唯一 RCT。
+> - **Coca et al.（2011）芝加哥[[Longitudinal Study\|纵向研究]]** DP 毕业生完成四年大学课程的可能性高 $40\%$，进入更选拔性大学的可能性高 $50\%$，持续就读两年以上概率显著更高。获益最大的是非裔和拉丁裔学生。
 
 > [!evidence-grid-b] 隐性融入路径的制度风险
-> - **教师自陈与实际教学的巨大鸿沟** $90\%$–$97\%$ 教师声称重视 CT 教学，但仅 $19\%$ 能清晰定义 CT，仅 $9\%$ 实际教授。教师倾向于认为 CT 仅与高成就学生相关。（Paul et al., 1997; Dweck, 2002; Halpern, 2003）（p. 250）
+> - **教师自陈与实际教学的巨大鸿沟** $90\%$–$97\%$ 教师声称重视 CT 教学，但仅 $19\%$ 能清晰定义 CT，仅 $9\%$ 实际教授。教师倾向于认为 CT 仅与高成就学生相关。（Paul et al., 1997; Dweck, 2002; Halpern, 2003）
 > - **隐性路径的制度性挤占** 在以内容为本的传统课程中，CT 作为隐性期望更易在课程需求增加时被挤出，尤其当它不定位为可测量成果时。弱势学生最可能被排除在 CT 教育受益范围之外。（p. 249; Stanton-Salazar, 1997）
 
 > [!warrant]- 推理桥梁
@@ -269,7 +269,7 @@ journal: "Australian Journal of Education"
 > | **核心风险** | — | 退化为学生聊天课，隐性融入披 ToK 外衣 | CT 局限在哲学领域，忽视科学和社会科学中的推理应用 | — |
 
 > [!warrant]- 解读：ToK 课程框架 vs 学校实施
-> 学校 1 和 4 证明：当 ToK 被定位为全校教学文化的组织原则，且配备合适的教学法和教师团队时，批判性思维教学效果最强。学校 4 已将 ToK 模式复制给非 IB 学生，构成对课程价值最有力的实践背书（p. 259）。学校 2 则提供了最具警示意义的反例：当教师缺乏专门的批判性思维教学法训练、实际教学退化为无结构的全班讨论时，ToK 沦为隐性融入路径的变体。学校 3 代表了中间路线：哲学严谨性提供了深度，但可能牺牲了跨学科迁移的广度。
+> 学校 1 和 4 证明：当 ToK 被定位为全校教学文化的组织原则，且配备合适的教学法和教师团队时，批判性思维教学效果最强。学校 4 已将 ToK 模式复制给非 IB 学生，构成对课程价值最有力的实践背书。学校 2 则提供了最具警示意义的反例：当教师缺乏专门的批判性思维教学法训练、实际教学退化为无结构的全班讨论时，ToK 沦为隐性融入路径的变体。学校 3 代表了中间路线：哲学严谨性提供了深度，但可能牺牲了跨学科迁移的广度。
 >
 > 核心结论：**ToK 课程框架本身并不自动保证批判性思维的有效培养。学校的实施方式——包括教师培训、学校文化、教学法设计和跨学科整合程度——是决定 ToK 教学效果的关键调节变量。**
 
@@ -310,10 +310,10 @@ journal: "Australian Journal of Education"
 ---
 
 > [!finding-cards] 核心发现
-> 1. **ToK 学生在两年课程期间[[Critical Thinking\|批判性思维]]技能显著增长** 12 年级在 [[Critical Thinking Strategies Scale\|CTSS]] 14 项技能中的 11 项上显著高于 11 年级，且在 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]] 批判性思维分量表上同样表现出显著增长。效应最大的技能是"评估主张"（$p < .001$），三项未达显著的技能（基于证据得出结论、限制主张范围、呈现论证）可能代表了需要更长时间发展的高阶能力（pp. 254–255）
-> 2. **DP 毕业生的[[Critical Thinking Disposition\|批判性思维倾向]]均值和大学学术指标均高于非 DP 毕业生** DP 毕业生在 [[California Critical Thinking Disposition Inventory\|CCTDI]] 七个维度上的得分均值都更高（推理自信差异最大），但原文未报告显著性检验；ATAR（$+4.84$分）、[[Academic Self-Concept\|学术自我概念]]和预期大学成果则均显著更高（pp. 257–258）
-> 3. **ToK 的批判性思维教学效果高度依赖学校实施方式** 四所案例学校展示了从全校整合（学校 1 和 4）到过度依赖讨论（学校 2）的四种截然不同的实施模式。课程框架本身不能自动保证批判性思维培养。学校文化、教师经验和知识传统是关键调节[[Variable\|变量]]。其中一所学校已将 ToK 模式复制给非 IB 学生，构成对课程价值的"揭示的偏好"（pp. 256–259）
-> 4. **学生经历"ToK 冲击"后长期获益** 学生在 ToK 课程初期可能遇到困难（"ToK-shock"），因为这是他们第一次被要求在没有标准答案的情况下思考，但许多学生日后重新肯定这门课程的价值，认识到它培养了一种以成熟方式批判性思考的能力（p. 259）
+> 1. **ToK 学生在两年课程期间[[Critical Thinking\|批判性思维]]技能显著增长** 12 年级在 [[Critical Thinking Strategies Scale\|CTSS]] 14 项技能中的 11 项上显著高于 11 年级，且在 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]] 批判性思维分量表上同样表现出显著增长。效应最大的技能是"评估主张"（$p < .001$），三项未达显著的技能（基于证据得出结论、限制主张范围、呈现论证）可能代表了需要更长时间发展的高阶能力
+> 2. **DP 毕业生的[[Critical Thinking Disposition\|批判性思维倾向]]均值和大学学术指标均高于非 DP 毕业生** DP 毕业生在 [[California Critical Thinking Disposition Inventory\|CCTDI]] 七个维度上的得分均值都更高（推理自信差异最大），但原文未报告显著性检验；ATAR（$+4.84$分）、[[Academic Self-Concept\|学术自我概念]]和预期大学成果则均显著更高
+> 3. **ToK 的批判性思维教学效果高度依赖学校实施方式** 四所案例学校展示了从全校整合（学校 1 和 4）到过度依赖讨论（学校 2）的四种截然不同的实施模式。课程框架本身不能自动保证批判性思维培养。学校文化、教师经验和知识传统是关键调节[[Variable\|变量]]。其中一所学校已将 ToK 模式复制给非 IB 学生，构成对课程价值的"揭示的偏好"
+> 4. **学生经历"ToK 冲击"后长期获益** 学生在 ToK 课程初期可能遇到困难（"ToK-shock"），因为这是他们第一次被要求在没有标准答案的情况下思考，但许多学生日后重新肯定这门课程的价值，认识到它培养了一种以成熟方式批判性思考的能力
 
 > [!stat-cards]- 核心数据汇总
 >
@@ -347,26 +347,26 @@ journal: "Australian Journal of Education"
 > *"only $19\%$ [of interviewees] gave a clear explanation of what critical thinking is . . . [and] only $9\%$ of the respondents were clearly teaching for critical thinking on a typical day in class."*
 
 > [!citation-card] ToK 作为不受学科内容约束的思维空间
-> ToK 成功的关键在于"它不依赖课程知识的学习来运作……相反，ToK 允许学生通过结构化的思维练习和跨学科活动，充分使用和探索他们的知识"。案例学校中有一所已经复制了 ToK 课程（出于版权原因重新命名），并将其作为所有学生（包括非 IB 学生）的必修大学预科课程。（p. 259）
+> ToK 成功的关键在于"它不依赖课程知识的学习来运作……相反，ToK 允许学生通过结构化的思维练习和跨学科活动，充分使用和探索他们的知识"。案例学校中有一所已经复制了 ToK 课程（出于版权原因重新命名），并将其作为所有学生（包括非 IB 学生）的必修大学预科课程。
 >
 > *"key to ToK's success . . . lies in the fact that the ToK subject is not subsidiary to any other subject, as it does not have learnt curriculum knowledge tied to its functioning; instead, ToK allows students to fully use and explore their knowledge through structured thinking exercises and cross-curricula activities."*
 
 ---
 
 > [!warning] 研究设计局限
-> - **无法分离 ToK 与整个 DP 的效果** DP 毕业生完成的是整个 [[IB Diploma Programme\|IB DP]] 课程（六门学科 + EE + [[Chinese Academy of Sciences|CAS]] + ToK），横断研究设计无法将 ToK 的独立贡献从 DP 的整体效果中分离。这是该研究最根本的推断限制（pp. 256–257）
-> - **横断设计限制[[Causality\|因果推断]]** 11 年级与 12 年级的比较是横断快照而非纵向追踪。即使两组之间存在系统性差异，也无法排除队列效应（cohort effect）或选择性流失的替代解释（p. 256）
-> - **选课效应无法排除** 选择 [[IB Diploma Programme\|IB DP]] 的学生可能在入学前就具有更高的学术能力、更强的学习动机或更支持性的家庭背景。ATAR 差异（$+4.84$分）可能部分或全部反映的是选课效应而非 DP 的培养效应（p. 258）
+> - **无法分离 ToK 与整个 DP 的效果** DP 毕业生完成的是整个 [[IB Diploma Programme\|IB DP]] 课程（六门学科 + EE + [[Chinese Academy of Sciences|CAS]] + ToK），横断研究设计无法将 ToK 的独立贡献从 DP 的整体效果中分离。这是该研究最根本的推断限制
+> - **横断设计限制[[Causality\|因果推断]]** 11 年级与 12 年级的比较是横断快照而非纵向追踪。即使两组之间存在系统性差异，也无法排除队列效应（cohort effect）或选择性流失的替代解释
+> - **选课效应无法排除** 选择 [[IB Diploma Programme\|IB DP]] 的学生可能在入学前就具有更高的学术能力、更强的学习动机或更支持性的家庭背景。ATAR 差异（$+4.84$分）可能部分或全部反映的是选课效应而非 DP 的培养效应
 
 > [!warning] 样本与测量局限
-> - **大学阶段 [[California Critical Thinking Disposition Inventory\|CCTDI]] [[Sample Size Determination\|样本量]]小且非代表性** 仅 42 名 DP 毕业生和 126 名非 DP 毕业生完成 CCTDI（商业量表需额外登录致[[Attrition|样本流失]]）。样本为[[Convenience Sampling\|便利抽样]]，来自仅两所大学（悉尼大学、QUT），限制了向更广泛的澳大利亚大学新生群体的推广。因此大学阶段的发现仅能提供**初步（tentative）而非确凿（unequivocal）** 的证据（pp. 257–258）
-> - **[[Critical Thinking Strategies Scale\|CTSS]] 为自编量表** 虽然 Cronbach's $\alpha$=.96 显示优秀的内部[[Reliability\|信度]]，但该量表在本文中首次使用，缺乏独立的[[External Validity\|外部效度]]验证和跨样本交叉验证（p. 252）
+> - **大学阶段 [[California Critical Thinking Disposition Inventory\|CCTDI]] [[Sample Size Determination\|样本量]]小且非代表性** 仅 42 名 DP 毕业生和 126 名非 DP 毕业生完成 CCTDI（商业量表需额外登录致[[Attrition|样本流失]]）。样本为[[Convenience Sampling\|便利抽样]]，来自仅两所大学（悉尼大学、QUT），限制了向更广泛的澳大利亚大学新生群体的推广。因此大学阶段的发现仅能提供**初步（tentative）而非确凿（unequivocal）** 的证据
+> - **[[Critical Thinking Strategies Scale\|CTSS]] 为自编量表** 虽然 Cronbach's $\alpha$=.96 显示优秀的内部[[Reliability\|信度]]，但该量表在本文中首次使用，缺乏独立的[[External Validity\|外部效度]]验证和跨样本交叉验证
 > - **自报数据的固有限制** CTSS 和 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]] 均测量学生对自己[[Critical Thinking\|批判性思维]]行为的**自我报告**，而非实际表现，两者之间可能存在系统性的高估或低估
 
 > [!warning] 未来研究方向
-> - **需要纵向追踪设计** 跟踪 DP 学生在 ToK 课程前、中、后的纵向数据，以分离 ToK 对批判性思维和学术成果的预测性影响（p. 257）
-> - **需要进一步研究最佳教学法和实施条件** [[Case Study\|案例研究]]表明学校层面的实施差异是批判性思维教学效果的关键调节[[Variable\|变量]]，但哪些具体的教学法策略和学校条件能够最有效地促进"从[[Epistemology\|认识论]]概念到新思维方式的转化"，仍需更多研究（pp. 258–259）
-> - **需要更广泛的大学样本** 未来研究应在更具代表性、统计匹配的大学新生样本中复制 DP 与非 DP 的比较（p. 258）
+> - **需要纵向追踪设计** 跟踪 DP 学生在 ToK 课程前、中、后的纵向数据，以分离 ToK 对批判性思维和学术成果的预测性影响
+> - **需要进一步研究最佳教学法和实施条件** [[Case Study\|案例研究]]表明学校层面的实施差异是批判性思维教学效果的关键调节[[Variable\|变量]]，但哪些具体的教学法策略和学校条件能够最有效地促进"从[[Epistemology\|认识论]]概念到新思维方式的转化"，仍需更多研究
+> - **需要更广泛的大学样本** 未来研究应在更具代表性、统计匹配的大学新生样本中复制 DP 与非 DP 的比较
 
 ---
 

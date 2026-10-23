@@ -164,7 +164,7 @@ issuing_organization: ""
 > | **[[Educational Affordances\|教育技术可供性框架（Kirschner, 2004; Bower, 2008）]]**<br>[[Educational Affordances]] | 作为核心分析透镜，系统解构 ChatGPT 在批判性与[[Creativity\|创造性思维]]维度上的 10 大认知使能可供性与 10 大限制风险。 |
 
 > [!warrant]- 理论如何支撑论证
-> 论文通过整合认知加工（认知负荷理论与自我调节学习）、社会文化情境（[[Third Generation Activity Theory\|活动理论]]与边界对象）及网络技术（连通主义与分布式认知），构建了多层次解释体系。分布式认知与活动理论揭示了人类思维并非孤立发生在颅骨内部，而是延伸并中介于技术工具中；认知负荷理论精确刻画了外在负荷释放与有害认知卸载的生理界限；自我调节学习与 AI 素养则为学习者在算法流畅性与[[Illusion of Competence\|能力错觉]]面前维持“[[Epistemic Friction\|认识论摩擦]]”（Epistemic Friction）提供了主体性防线。这些理论工具的交织，使综述能够严密解释为什么相同的技术介入会在不同[[Scaffolding\|教学脚手架]]下分化出协同增益与认知侵蚀两种截然相反的心智后果（pp. 2–3, 10–11）。
+> 论文通过整合认知加工（认知负荷理论与自我调节学习）、社会文化情境（[[Third Generation Activity Theory\|活动理论]]与边界对象）及网络技术（连通主义与分布式认知），构建了多层次解释体系。分布式认知与活动理论揭示了人类思维并非孤立发生在颅骨内部，而是延伸并中介于技术工具中；认知负荷理论精确刻画了外在负荷释放与有害认知卸载的生理界限；自我调节学习与 AI 素养则为学习者在算法流畅性与[[Illusion of Competence\|能力错觉]]面前维持“[[Epistemic Friction\|认识论摩擦]]”（Epistemic Friction）提供了主体性防线。这些理论工具的交织，使综述能够严密解释为什么相同的技术介入会在不同[[Scaffolding\|教学脚手架]]下分化出协同增益与认知侵蚀两种截然相反的心智后果。
 
 ---
 
@@ -279,7 +279,7 @@ issuing_organization: ""
 > | **风险限制** | **高阶[[Socrates\|苏格拉底]]推理局限（n = 10）** | 复杂概念辨析、高等数学证明、哲学深度辩难 | 算法知识黑箱、任务要求超越模型真实推理能力 | Urhan et al. (2024); Fakour and Imani (2025) |
 
 > [!evidence-grid-a] 批判性思维赋能维度与实证案例细析（[[Educational Affordances\|affordances]], 5 大核心主题）
-> - **元认知监控与反思性审思** 在德语高级 L2 学术写作课程中，Strobl et al. (2024) 设计了将 ChatGPT 作为“写作搭档”的双轨修改任务，迫使学生对比自身草稿与 AI 修改版的句式逻辑，学生在反思日志中展现出极高的元认知监控深度；Tseng and Lin (2024) 与 Zhan and Yan (2025) 同样证实引导性提示能有效激发对机器产出的分析性审视。（pp. 6–7）
+> - **元认知监控与反思性审思** 在德语高级 L2 学术写作课程中，Strobl et al. (2024) 设计了将 ChatGPT 作为“写作搭档”的双轨修改任务，迫使学生对比自身草稿与 AI 修改版的句式逻辑，学生在反思日志中展现出极高的元认知监控深度；Tseng and Lin (2024) 与 Zhan and Yan (2025) 同样证实引导性提示能有效激发对机器产出的分析性审视。
 > - **论证结构与辩证深度拓宽** Sykes (2024) 在普适计算学术写作实验中发现，利用 ChatGPT 充当“辩难对手”（Counterargument Generator）并结合[[Argument Mapping\|论证图]]谱量规，使学生论文在反驳力与反思严密性得分上显著优于传统无技术辅助组；Chen et al. (2025) 与 Darmawansah et al. (2025) 也指出结构化对话显著促进了论据整合。
 > - **事实核查与[[Epistemology\|认识论]]怀疑激发** Archila et al. (2024) 在科学写作任务中引导学生专门针对 AI 生成的文献与数据进行“红队测试”（Red-teaming），主动识别出 14 处事实幻觉与逻辑漏洞；Michalon & Camacho-Zúñiga (2023) 与 Šedlbauer et al. (2024) 亦证实显性幻觉识别训练能有效激发学生的实证核验习惯与[[Epistemological Vigilance\|认识论警觉]]。
 > - **自我调节学习与策略监控** Yang et al. (2025) 对非传统大学生的追踪表明，经过提示词工程引导的学生学会了根据任务难度分阶段调配 AI 资源，展现出明确的前瞻计划、过程诊断与策略微调能力；Lee et al. (2024) 及 Shen and Chen (2025) 进一步指出反思规程能够促进策略性认知监控。
@@ -320,7 +320,7 @@ issuing_organization: ""
 > | **风险限制** | **教学指导赤字与探索迷航（n = 14）** | 开放探究论文、无约束头脑风暴、通识作业 | 缺乏教师介入、无提示词技巧指导、任务模糊 | Mejri et al. (2024) |
 
 > [!evidence-grid-a] 创造性思维赋能维度与实证案例细析（Affordances, 5 大核心主题）
-> - **发散思维与构想广度爆发** 在[[Problem Solving\|复杂问题解决]]任务中，捷克高校实验（Urban et al., 2024）表明，使用 ChatGPT 作为构想拓展伙伴的实验组在托兰斯创造思维测验（[[Torrance Tests of Creative Thinking\|TTCT]]）及[[Alternate Uses Test\|另类用途测验]]（AUT）的发散流畅性与精致性得分上显著高于控制组；Sarwanti et al. (2024)、Villarino (2025) 与 Xu (2025) 亦证实了早期发散探索的有效性。（pp. 7–8）
+> - **发散思维与构想广度爆发** 在[[Problem Solving\|复杂问题解决]]任务中，捷克高校实验（Urban et al., 2024）表明，使用 ChatGPT 作为构想拓展伙伴的实验组在托兰斯创造思维测验（[[Torrance Tests of Creative Thinking\|TTCT]]）及[[Alternate Uses Test\|另类用途测验]]（AUT）的发散流畅性与精致性得分上显著高于控制组；Sarwanti et al. (2024)、Villarino (2025) 与 Xu (2025) 亦证实了早期发散探索的有效性。
 > - **篇章结构与跨语言表达支架** 在学术英语写作中，Kurt and Kurt (2024) 发现非英语母语学生借助 ChatGPT 克服了“词汇贫乏壁垒”，能够自由尝试多样化修辞风格并重组专业概念；Avsheniuk et al. (2024) 与 Werdiningsih et al. (2024) 同样报告了表达支架对写作流畅性的促进。
 > - **角色扮演与认知视角多维转换** Lee et al. (2024) 让学生指示 ChatGPT 扮演不同文化背景的利益攸关方进行模拟辩论，学生在多重视角碰撞中打破了思维定势；Darmawansah et al. (2025) 与 [[Argument_Li_2025_HSSC\|Li et al. (2025)]] 也发现多角度模拟能显著拓展解题思路。
 > - **情感激发与创作焦虑破冰** George-Reyes et al. (2024) 质性报告表明，面对空白文档的“起始创作焦虑”是阻碍创造力的首要心理门槛，ChatGPT 充当低威胁性的“头脑风暴玩伴”显著提升了创作意愿；Gervacio (2024)、Jayasinghe (2024) 与 Alzubi et al. (2025) 均证实了其情感赋能价值。
@@ -366,18 +366,18 @@ issuing_organization: ""
 > [[Argument_Li_2025_HSSC\|Li et al. (2025)]] 开发并检验了面向 [[STEM Education\|STEM]] 大学生的定制化生成式系统 **InquiryGPT**。该系统在技术底层内置了“探究脚手架状态机”：
 > 1. 当学生提出初步研究猜想时，系统拒绝直接给出结论，而是调用[[Connectivism\|连通主义]]知识图谱生成 3 个可能的技术路径，激发学生的发散构想（CrT ↑）；
 > 2. 当学生选择某一路径后，系统自动切换为“苏格拉底质疑者”角色，要求学生输入至少两条支持该路径的实证证据，并对潜在的反例进行逻辑反驳（CT ↑）；
-> 3. 最终方案的生成必须由学生手动确认每一次修改的理由。实证评测显示，该系统使学生在创造性假设构建和实证论证严密性两个维度上均取得了显著超越对照组的成效，量化确立了技术支架对高阶思维的协同放大机制。（p. 9）
+> 3. 最终方案的生成必须由学生手动确认每一次修改的理由。实证评测显示，该系统使学生在创造性假设构建和实证论证严密性两个维度上均取得了显著超越对照组的成效，量化确立了技术支架对高阶思维的协同放大机制。
 
 > [!exegesis]- 轨迹二典型案例深析：学术论文撰写中的“虚假繁荣”陷阱
 > Wang et al. (2024) 对 120 名使用 ChatGPT 辅助学期论文写作的大学生进行了细致的行为日志追踪与文本解构：
 > - 学生普遍报告使用 ChatGPT 使写作变得前所未有的“轻松与充满灵感”，论文的题目丰富度、发散观点数量与小标题修辞形式得分显著提高（CrT 维度的发散指标繁荣）；
-> - 然而，专家对终稿的盲审评分却显示，这些论文在“论据[[Reliability\|可靠性]]”、“逻辑推理深度”以及“对反方立场的辨析”上得分全面崩塌（CT 维度萎缩）。追踪访谈揭示，学生被 AI 生成文本的语法严密性所蒙蔽，误以为“读起来流畅就等于论证严谨”，放弃了去图书馆查阅[[Primary and Secondary Documents\|一手文献]]核实数据的认知努力。（p. 9）
+> - 然而，专家对终稿的盲审评分却显示，这些论文在“论据[[Reliability\|可靠性]]”、“逻辑推理深度”以及“对反方立场的辨析”上得分全面崩塌（CT 维度萎缩）。追踪访谈揭示，学生被 AI 生成文本的语法严密性所蒙蔽，误以为“读起来流畅就等于论证严谨”，放弃了去图书馆查阅[[Primary and Secondary Documents\|一手文献]]核实数据的认知努力。
 
 > [!exegesis]- 轨迹三典型案例深析：全球 2.3 万名大学生调查中的认知外包危机
 > Ravšelj et al. (2025) 联合全球多所高校对 23,000 余名大学生开展的大规模实证普查揭示了非结构化环境下的严重认知危机：
 > - 在缺乏明确教学规范与过程指导的高校中，超过三分之一的学生将 ChatGPT 仅仅作为“作业代工工具”；
 > - 结构方程模型（[[Causal Modeling\|SEM]]）检验表明，这种工具主义的被动调用行为与学生的批判性反思倾向呈现高度显著的负向关断（$\beta = -0.34, p < .001$）；
-> - 更为严峻的是，长期全盘外包导致学生在面对需要自主头脑风暴的现场闭卷任务时产生严重的认知无助感与创意思维阻滞，批判与创造能力陷入恶性循环的双重萎缩。（p. 9）
+> - 更为严峻的是，长期全盘外包导致学生在面对需要自主头脑风暴的现场闭卷任务时产生严重的认知无助感与创意思维阻滞，批判与创造能力陷入恶性循环的双重萎缩。
 
 > [!warrant]- 步骤三推理桥梁
 > 认知心理学与学习科学表明，发散思维（创造）负责开拓可能性的解空间，而[[Convergent Thinking\|收敛思维]]（批判）负责在该空间内建立严密的评价标准并筛选最优解。两者如同心智呼吸的一呼一吸：只有发散没有收敛，思维就会变成虚妄的语言泡沫（非对称模式）；既无发散又无收敛，主体性便彻底沦丧于机器算法之中（双重侵蚀模式）。教学系统必须通过活动规则的重组，在人机交互界面维持良性的“认识论摩擦”，使创造性生成与批判性裁决形成动态自平衡回路。
@@ -387,7 +387,7 @@ issuing_organization: ""
 > [!claim] 论证步骤四　重构生成式 AI 时代的教学干预规制与多源反馈生态
 > 为化解[[Generative Artificial Intelligence\|生成式人工智能]]整合中的认知卸载危机并释放其高阶思维潜能，高等教育必须超越单纯的“技术接纳”或“机械禁令”的二元对立，依据[[Third Generation Activity Theory\|活动理论]]全面重组教学规制，构建涵盖六大干预维度的教学法生态。
 
-> [!feature] 促进高阶思维发展的六大教学干预规制（pp. 11–13）
+> [!feature] 促进高阶思维发展的六大教学干预规制
 > - **嵌入目标对齐的结构化认知支架（Aligned Cognitive Scaffolds）** 避免无边界的泛化使用，依据分析或生成目标提供分步指引：先要求学生拟定大纲，再用大模型拓展视角，继而对照评分量规开展自我批判。
 > - **显性培育人工智能素养以激发认识论警觉（Epistemic Vigilance）** 将大模型的概率生成机制、数据偏见、幻觉识别与伦理边界显性纳入通识必修课，建立实证核查习惯，破除对表面语义流畅性的迷信。
 > - **设计递归式探究任务以协同激活发散与收敛思维（Recursive Inquiry Tasks）** 打破传统单向作业模式，构建“人脑初始构想 → AI 发散扩展 → 人脑批判核查 → 迭代提示重构 → 方案综合辩护”的递归探究闭环。
@@ -415,42 +415,42 @@ issuing_organization: ""
 ---
 
 > [!finding-cards] 核心发现
-> 1. **认知效应的情境依赖性** ChatGPT 对大学生思维的影响非技术固有，[[Structured Teaching\|结构化教学]]设计驱动认知增益，非结构化使用导致思维惰性。（pp. 1, 9–10）
-> 2. **[[Critical Thinking\|批判性思维]]的双刃剑机制** 显性反思支架激活[[Metacognition\|元认知]]监控与论证推理（27 项研究），缺乏引导则诱发严重[[Cognitive Offloading\|认知卸载]]与盲目盲从（21 项研究）。（pp. 6–7）
-> 3. **[[Creativity\|创造性思维]]的赋能与均质化** 显著提升构想流畅性与发散广度（31 项研究），但全盘代写会削弱个人学术声音与情感真实性（15 项研究）。（pp. 7–8）
-> 4. **三大认知共现演进模型** 实证文献确立了双向协同增益（n = 18）、非对称发展（n = 8）与双重认知侵蚀（n = 4）三种典型轨迹。（pp. 9–10）
+> 1. **认知效应的情境依赖性** ChatGPT 对大学生思维的影响非技术固有，[[Structured Teaching\|结构化教学]]设计驱动认知增益，非结构化使用导致思维惰性。
+> 2. **[[Critical Thinking\|批判性思维]]的双刃剑机制** 显性反思支架激活[[Metacognition\|元认知]]监控与论证推理（27 项研究），缺乏引导则诱发严重[[Cognitive Offloading\|认知卸载]]与盲目盲从（21 项研究）。
+> 3. **[[Creativity\|创造性思维]]的赋能与均质化** 显著提升构想流畅性与发散广度（31 项研究），但全盘代写会削弱个人学术声音与情感真实性（15 项研究）。
+> 4. **三大认知共现演进模型** 实证文献确立了双向协同增益（n = 18）、非对称发展（n = 8）与双重认知侵蚀（n = 4）三种典型轨迹。
 
 > [!stat-cards]- 核心数据
-> - **67** （项） 纳入综述的实证研究总量（2022–2025 年）。（p. 4）
-> - **38.8% vs 29.9% vs 31.3%** 量化（26 项）、质性（20 项）与[[Mixed Methods Research\|混合方法]]（21 项）研究比例。（p. 5）
+> - **67** （项） 纳入综述的实证研究总量（2022–2025 年）。
+> - **38.8% vs 29.9% vs 31.3%** 量化（26 项）、质性（20 项）与[[Mixed Methods Research\|混合方法]]（21 项）研究比例。
 > - **58.2%** 亚洲地区研究占比（39 项），欧洲占 17.9%，北美占 10.5%。
 > - **87%** 纳入研究在 [[Mixed Methods Appraisal Tool\|MMAT]] 质量评价中达到 80% 及以上高分（58 项）。
-> - **18** （项） 实现批判性与创造性思维双向协同增益的结构化实证案例。（p. 9）
+> - **18** （项） 实现批判性与创造性思维双向协同增益的结构化实证案例。
 
 ---
 
 > [!citation-card] 教学设计决定认知走向
-> 这些研究发现表明，ChatGPT 对学生认知的影响并非该工具自身所固有，而是依存于[[Framework for Teaching|教学框架]]、任务设计和[[Scaffolding\|教学脚手架]]。在缺乏教学支架的情境中，研究者观察到[[Creativity\|创造力]]优于[[Critical Thinking\|批判性思维]]的非对称模式以及双重认知侵蚀，二者往往都由[[Cognitive Offloading\|认知卸载]]所引发。（pp. 1, 10）
+> 这些研究发现表明，ChatGPT 对学生认知的影响并非该工具自身所固有，而是依存于[[Framework for Teaching|教学框架]]、任务设计和[[Scaffolding\|教学脚手架]]。在缺乏教学支架的情境中，研究者观察到[[Creativity\|创造力]]优于[[Critical Thinking\|批判性思维]]的非对称模式以及双重认知侵蚀，二者往往都由[[Cognitive Offloading\|认知卸载]]所引发。
 >
 > *These divergent findings suggest that the influence of ChatGPT on student cognition is not intrinsic to the tool itself but contingent upon pedagogical framing, task design, and instructional scaffolding... unstructured implementation frequently led to asymmetrical or diminished cognitive engagement.*
 
 > [!citation-card] 对话伙伴而非便利工具
-> 我们建议嵌入显性支架——如[[Reflexivity\|反思性]]提示、量规引导评估和 AI 素养培训——以发挥 ChatGPT 作为对话伙伴而非便利工具的潜能。教学设计的启示在于通过递归探究任务和多源反馈回路协同激活批判性与创造性过程。（p. 1）
+> 我们建议嵌入显性支架——如[[Reflexivity\|反思性]]提示、量规引导评估和 AI 素养培训——以发挥 ChatGPT 作为对话伙伴而非便利工具的潜能。教学设计的启示在于通过递归探究任务和多源反馈回路协同激活批判性与创造性过程。
 >
 > *We recommend embedding explicit scaffolds — such as reflective prompts, rubric-guided evaluation, and AI-literacy training — to harness ChatGPT's potential as a dialogic partner rather than a convenience tool.*
 
 > [!citation-card] [[Epistemology\|认识论]]摩擦与高阶心智
-> 这种不平衡凸显了批判性思维与创造性思维协同发展的脆弱性，并强调了“[[Epistemic Friction\|认识论摩擦]]”（Medina, 2013）的重要性——即维持高阶认知所必需的生产性张力。一旦缺乏这种摩擦，AI 生成的流畅性就会轻易绕过[[Surface and Deep Learning\|深层学习]]所不可或缺的反思性挣扎。（p. 10）
+> 这种不平衡凸显了批判性思维与创造性思维协同发展的脆弱性，并强调了“[[Epistemic Friction\|认识论摩擦]]”（Medina, 2013）的重要性——即维持高阶认知所必需的生产性张力。一旦缺乏这种摩擦，AI 生成的流畅性就会轻易绕过[[Surface and Deep Learning\|深层学习]]所不可或缺的反思性挣扎。
 >
 > *This imbalance underscores the fragility of CT–CrT co-development and highlights the importance of "epistemic friction" (Medina, 2013) — the productive tension that sustains higher-order cognition. Absent such friction, AI-generated fluency can bypass the reflective struggle central to deep learning.*
 
 ---
 
 > [!warning] 自述局限
-> - **语言与文献类型检索边界** 仅纳入以英文发表的同行评议期刊文献（截至 2025 年 4 月），排除了会议论文（如 LAK、AIED、L@S 等前沿阵地）、专著、预印本及非英语数据库文献，可能存在潜在的[[Publication Bias\|发表偏倚]]并错失最新的方法学创新试点。（pp. 12–13）
-> - **初级研究的方法学[[Heterogeneity\|异质性]]** 纳入文献在研究设计、[[Construct\|构念]]界定与测量工具上存在极大异质性（定性反思、主观自陈调查与实验测验并存），绝大多数研究缺乏对照组、标准化测验或长期纵向追踪，限制了因果效应推断与量化[[Meta-analysis\|元分析]]的开展。（p. 12）
+> - **语言与文献类型检索边界** 仅纳入以英文发表的同行评议期刊文献（截至 2025 年 4 月），排除了会议论文（如 LAK、AIED、L@S 等前沿阵地）、专著、预印本及非英语数据库文献，可能存在潜在的[[Publication Bias\|发表偏倚]]并错失最新的方法学创新试点。
+> - **初级研究的方法学[[Heterogeneity\|异质性]]** 纳入文献在研究设计、[[Construct\|构念]]界定与测量工具上存在极大异质性（定性反思、主观自陈调查与实验测验并存），绝大多数研究缺乏对照组、标准化测验或长期纵向追踪，限制了因果效应推断与量化[[Meta-analysis\|元分析]]的开展。
 > - **技术迭代与横断时间敏感性** 大语言模型技术演进迅猛，不同研究测试的模型版本差异显著（[[General Purpose Technology|GPT]]-3.5、GPT-4 等）；随着多模态与[[AI Agent in Education\|智能体]]技术的融合，部分早期静态文本交互的实证结论可能面临重构需求。
-> - **测量不对称性与自陈偏倚** [[Critical Thinking Assessment\|批判性思维评估]]过多依赖学生的间接自我报告与主观反思[[Questionnaire\|问卷]]，而[[Creativity\|创造性思维]]则较多采用客观行为测验，测量维度的不对称性可能放大了不同领域效应稳健性的表观差异。（p. 6）
+> - **测量不对称性与自陈偏倚** [[Critical Thinking Assessment\|批判性思维评估]]过多依赖学生的间接自我报告与主观反思[[Questionnaire\|问卷]]，而[[Creativity\|创造性思维]]则较多采用客观行为测验，测量维度的不对称性可能放大了不同领域效应稳健性的表观差异。
 
 ---
 
