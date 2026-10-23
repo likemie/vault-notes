@@ -7,7 +7,7 @@ aliases:
 summary: "将积分、徽章、排行榜与即时反馈等游戏机制应用于非游戏情境以激发参与和行为塑造的设计策略；在教育与治理中，一方面作为行为主义调节与商业黏性技术被广泛嵌入数字平台，另一方面在批判教育学视域下面临解构知识逻辑、异化师生评价与压缩深层教化反思空间的结构性危机。"
 type: concept
 domain: "educational-technology"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -48,13 +48,15 @@ related_persons:
   - "[[Ralph Waldo Emerson]]"
 related_facts:
   - "[[World Bank]]"
+  - "[[World Bank Institute]]"
+  - "[[Open Learning Campus]]"
 related_arguments:
   - "[[Argument_Jornitz_2022_Bildung_algorithmic]]"
   - "[[Argument_Zapp_2017_IJED]]"
 confidence: high
 status: completed
 created: 2026-05-20
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -172,7 +174,7 @@ updated: 2026-10-22
 > 探讨国际金融组织如何将游戏化技术用于受援国官员的专业[[Further Education|继续教育]]，重构全球知识传播形态。
 
 > [!claim] [[Argument_Zapp_2017_IJED|Zapp (2017)]]
-> **游戏化培训与全球技术官僚常识塑造** 扎普针对[[World Bank|世界银行]][[Epistemic Governance|认知治理]]实证研究指出，[[Knowledge Bank|知识银行]]的知识传播功能在数字化转型中高度依赖前沿交互技术。世界银行学院（WBI）与开放学习园区（OLC）联手剑桥大学、edX 以及 Coursera 等国际知名平台，开发了包含上百门在线课程的数字化培训网络。世行不仅提供移动应用、播客与多媒体工具包，更广泛引入游戏化通关设计、体验式情境模拟与同行互评机制，向完成任务的借款国学员颁发获得权威学术认证的专业资格证书。这种高互动、低门槛的游戏化培训模块，有效强化了[[Development Education|发展中国家教育]]官员与技术官僚对世行倡导的[[School Autonomy|学校自主权]]、量化测评与教师绩效方案的认知认同，实现了超国家政策常识的深层渗透。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 8)]]
+> **游戏化培训与全球技术官僚常识塑造** 扎普针对[[World Bank|世界银行]][[Epistemic Governance|认知治理]]实证研究指出，[[Knowledge Bank|知识银行]]的知识传播功能在数字化转型中高度依赖前沿交互技术。[[World Bank Institute|世界银行学院]]（WBI）与[[Open Learning Campus|开放学习园区]]（OLC）联手剑桥大学、edX 以及 Coursera 等国际知名平台，开发了包含上百门在线课程的数字化培训网络。世行不仅提供移动应用、播客与多媒体工具包，更广泛引入游戏化通关设计、体验式情境模拟与同行互评机制，向完成任务的借款国学员颁发获得权威学术认证的专业资格证书。这种高互动、低门槛的游戏化培训模块，有效强化了[[Development Education|发展中国家教育]]官员与技术官僚对世行倡导的[[School Autonomy|学校自主权]]、量化测评与教师绩效方案的认知认同，实现了超国家政策常识的深层渗透。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 8)]]
 
 ---
 

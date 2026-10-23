@@ -39,6 +39,7 @@ related_concepts:
   - "[[Evidence-Based School Development]]"
   - "[[Determinism]]"
   - "[[Bureaucracy]]"
+  - "[[Reform Fatigue]]"
   - "[[School Effectiveness]]"
   - "[[Causal Processes]]"
 related_theories:
@@ -68,14 +69,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-23
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Altrichter_2019_ZfB"
 argument_key: "Argument_Altrichter_2019_ZfB"
 argument_display_title: "Schulleitungen und evidenzbasierte Bildungsreform im Schulwesen"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -104,7 +105,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Educational Governance Framework\|教育治理分析框架]]（Educational Governance Framework）**<br>Schimank (2007); Altrichter and Maag Merki (2016) | 将治理界定为教育系统多层级决策形成与行动者协调的核心机制；提炼出从投入导向向产出导向演进（A1）与系统各层级行动者分工协作重组（A2）两大分析维度，为剖析宏观政策变迁与组织内部权力再配置提供理论坐标。（pp. 18–20） |
-> | **再情境化理论（Recontextualisation Theory）**<br>[[Helmut Fend\|Fend (2006)]]; Ball et al. (2012); Spillane (2012) | 揭示宏观政策并非单向度线性落实，而是制度结构供给在学校现场被行动者感知、转译与重构的复杂过程；校长作为学校变革的[[Gatekeepers\|把关人]]，其价值态度直接决定了政策意图能否转化为日常组织实践。（pp. 20–21） |
+> | **再情境化理论（Recontextualisation Theory）**<br>[[Helmut Fend\|Fend (2006)]]; Ball et al. (2012); Spillane (2012) | 揭示宏观政策在学校现场呈现为制度结构供给被行动者感知、转译与重构的复杂过程，有别于单向度线性落实；校长作为学校变革的[[Gatekeepers\|把关人]]，其价值态度直接决定了政策意图能否转化为日常组织实践。（pp. 20–21） |
 > | **学校效能与领导力理论**<br>Day et al. (2016); Hallinger (2011) | 确立[[School Leadership\|学校领导]]者的价值信念、知识结构与管理行为是塑造[[Organizational Culture\|组织文化]]、教师教学实践并最终间接影响学生[[Academic Achievement\|学业成就]]的关键驱动机制。（p. 21） |
 > | **行动者数据利用类型学（Typologies of Data Use）**<br>Stamm (2003); Wurster & Gärtner (2013); Higham and Earley (2013) | 归纳一线学校应对评估与督导数据的[[Heterogeneity\|异质性]]模式（如抵触阻断、象征借口、被动应付、积极创新），为实证识别校长分群提供经验形态参照。（pp. 21–22） |
 
@@ -156,7 +157,7 @@ issuing_organization: ""
 ---
 
 > [!claim] 论证步骤一　产出导向治理通过重组权力配置与信息流向塑造了学校领导者的制度预期
-> 德语区学校系统在过去二十年经历的治理现代化并非单纯的行政分权，而是通过确立国家教育标准与数据监测强化目标导向，同时赋予单所学校在实施路径上的组织自主权，由此将校长从传统听命于科层指令的行政办事员，转变为协调循证改进的中枢纽带。（pp. 18–21）
+> 德语区学校系统在过去二十年经历的治理现代化超越了单纯的行政分权，通过确立国家教育标准与数据监测强化目标导向，同时赋予单所学校在实施路径上的组织自主权，由此将校长从传统听命于科层指令的行政办事员，转变为协调循证改进的中枢纽带。（pp. 18–21）
 
 #### 1. 投入导向向产出导向转型的制度演进与路径自主原则
 
@@ -170,7 +171,7 @@ issuing_organization: ""
 > | **权力分配原则** | 行政集权统辖，对单校微观教学与组织运行实施详细控制 | 目标的统一设定与路径的自主探索原则（Heid, 2003），中央管目标、单校掌路径 |
 > | **学校领导角色** | 听命于上级行政指令的科层办事员与兼任行政的资深教师 | 协调校本循证改进的[[Gatekeepers\|把关人]]、组织变革中枢与教育企业管理者 |
 
-德语区教育治理的宏观转型并非一蹴而就，而是在政策与实践互动中经历了长达二十余年的三阶段演化历程：（p. 19）
+德语区教育治理的宏观转型在政策与实践互动中经历了长达二十余年的三阶段演化历程：（p. 19）
 
 > [!phase] 德语区学校系统治理现代化的三阶段演进
 > - **阶段一：1990 年代中叶的[[School Autonomy\|学校自主权]]（Schulautonomie）** 逐步放宽中央对规范性投入的过细限制，允许单校在课程微调、校舍出租、赞助获取等事务上拥有自决权。这一阶段确立了[[Helmut Fend\|赫尔穆特·芬德]]（Helmut Fend）自 1980 年代倡导的单校自主发展（Einzelschulentwicklung）理念，督导部门逐渐淡出日常微观干预，从规则稽查者逐步转向后台支持。（p. 19）
@@ -208,7 +209,7 @@ issuing_organization: ""
 > | **核心价值取向** | 全面赋权型发展取向，对绝大多数治理工具均赋予较高改进潜力 | 物质与师资投入[[Determinism\|决定论]]，高度聚焦外部财政与人事保障 | 改革怀疑与防卫取向，对外部自上而下的政策工具持普遍保留态度 |
 > | **对循证监控的态度** | **唯独该群体**对教育标准、统一测试、国家报告和国际比较赋予实质发展潜能 | 显著怀疑数据反馈与测试监控，评分大幅低于其对资源投入的评价 | 极度怀疑跨国统考与国家教育报告，仅认可最贴近日常教学的传统手段 |
 > | **对校本工具与合作的态度** | 高度认可学校自我评估、发展规划以及与家长和社区的协作网络 | 认可度居中，但坚信没有资源追加任何校本工具均难以奏效 | 对校本评估工具表现冷淡，呈现出明显的自主防卫与行政应付倾向 |
-> | **理论契合度** | 高度契合新治理政策所倡导的理性循证改进者理想形态 | 固守传统[[Bureaucracy\|科层制]]中资源投入至质量产出的直觉因果链 | 契合阻断或象征应付型（Alibi-Verhalten）应对模式，显现出改革疲惫感 |
+> | **理论契合度** | 高度契合新治理政策所倡导的理性循证改进者理想形态 | 固守传统[[Bureaucracy\|科层制]]中资源投入至质量产出的直觉因果链 | 契合阻断或象征应付型（Alibi-Verhalten）应对模式，显现出[[Reform Fatigue\|改革疲惫]]感 |
 
 聚类判别分析与各维度的标准化剖面走势，直观展现了三类群体的价值分歧：（p. 28）
 
@@ -233,7 +234,7 @@ issuing_organization: ""
 ---
 
 > [!claim] 论证步骤三　循证治理态度驱动学校教学改进活动并重构校长为教育企业管理者
-> 校长的治理态度绝非空洞的主观意向，而是直接转化为具体的微观改进实践与日常时间分配：循证型校长报告了显著更多的教学改进活动与同侪协作，并在日常时间配置中大幅削减课堂授课负担（减少近 14 个百分点），将宝贵精力转向深入课堂听课观摩、教学研讨与自我评估，从而在实践中转型为具有专业经营意识的教育企业管理者。（pp. 29–32）
+> 校长的治理态度直接转化为具体的微观改进实践与日常时间分配：循证型校长报告了显著更多的教学改进活动与同侪协作，并在日常时间配置中大幅削减课堂授课负担（减少近 14 个百分点），将宝贵精力转向深入课堂听课观摩、教学研讨与自我评估，从而在实践中转型为具有专业经营意识的教育企业管理者。（pp. 29–32）
 
 #### 1. 循证导向对教学发展与协同能力的实证驱动
 
@@ -246,7 +247,7 @@ issuing_organization: ""
 > | **教学发展/[[School Effectiveness\|学校效能]]（Schuleffektivität）** | $3.83 (0.06)^a$ | $3.58 (0.05)^b$ | $3.56 (0.05)^b$ | $7.99 (2, 301)$ | $< .001$ | $0.04$ | 循证 vs 资源 $d = 0.48$；循证 vs 弱发展 $d = 0.45$ |
 > | **协同发展能力（Entwicklungskapazität）** | $3.95 (0.06)^a$ | $3.79 (0.06)^b$ | $3.60 (0.05)^c$ | $9.66 (2, 291)$ | $< .001$ | $0.06$ | 循证 vs 资源 $d = 0.31$；循证 vs 弱发展 $d = 0.62$ |
 >
-> *注：$M$ 为均值，$SE$ 为[[Standard Error\|标准误]]，$df$ 为自由度；字母下标（$a, b, c$）不同表示事后 $t$ 检验两两差异显著（$p < .05$）。数据源自原论文 Tab. 1（p. 29）。*
+> *注：$M$ 为均值，$SE$ 为[[Standard Error\|标准误]]，$df$ 为自由度；字母下标（$a, b, c$）不同表示事后 $t$ 检验两两差异显著（$p < .05$）。数据源自 Tab. 1（p. 29）。*
 
 方差分析与事后两两检验揭示出价值观念向学校微观实践转化的两项核心规律：
 
@@ -269,7 +270,7 @@ issuing_organization: ""
 > | **校本自我评估与质量保障** | $7.68^a$ | $6.70^{a,b}$ | $6.13^b$ | $3.40 (2, 299)$ | $.035$ | $0.02$ | 循证 vs 弱发展 $d = 0.39$（显著更多） |
 > | **其他杂项事务** | $3.73^a$ | $2.92^a$ | $3.74^a$ | $1.18 (2, 299)$ | $.308$ | $0.00$ | 组间无统计差异 |
 >
-> *注：$df$ 为自由度；字母下标（$a, b$）不同表示事后检验两两差异显著（$p < .05$）。数据源自原论文 Tab. 2（p. 30）。*
+> *注：$df$ 为自由度；字母下标（$a, b$）不同表示事后检验两两差异显著（$p < .05$）。数据源自 Tab. 2（p. 30）。*
 
 三类校长在各项任务上的实际工时分配，展现出深层的角色范式分野：
 
@@ -289,7 +290,7 @@ issuing_organization: ""
 ---
 
 > [!finding-cards] 核心发现
-> 1. **校长治理态度分化为三类经验形态** 运用 $k$ 均值聚类提炼出[[Evidence-Based School Development\|循证学校发展]]型（27.5%）、资源驱动发展型（37.5%）与弱发展取向型（35.0%）三类群体，证实一线校长对新治理工具并非均质接受。（pp. 27–28）
+> 1. **校长治理态度分化为三类经验形态** 运用 $k$ 均值聚类提炼出[[Evidence-Based School Development\|循证学校发展]]型（27.5%）、资源驱动发展型（37.5%）与弱发展取向型（35.0%）三类群体，证实一线校长对新治理工具的接受程度存在显著异质性。（pp. 27–28）
 > 2. **循证态度切实驱动学校教学改进与同侪协同** 循证型校长报告了显著更多的教学改进活动（$d = 0.48$）与教师协同发展能力建设（$d = 0.62$），证实了治理价值取向对学校微观行动的直接塑造效应。（pp. 29–30）
 > 3. **领导工时发生由直接授课向教学管理的结构性置换** 循证型校长将课堂直接授课工时压缩至 19.87%（对照组为 29%–34%），显著增加课堂听课观摩（$d = 0.47$）与教学对话时间，转型为教育企业管理者。（pp. 30–31）
 > 4. **新治理政策面临严峻的一线文化惯性与制度阻抗** 超过七成的中小学校长依然固守外部资源依赖诉求、或对外部评价监控持冷漠怀疑态度，凸显出循证改革在专业文化层面的[[Recontextualization|再情境化]]瓶颈。（pp. 31–33）
@@ -309,7 +310,7 @@ issuing_organization: ""
 > *In dieser Phase werden also Instrumente zur Umsetzung von Outputorientierung (oft auch als evidenzbasierte Steuerung bezeichnet) ausgearbeitet, auf ganzer Breite bereitgestellt und als wesentliche Elemente des Entscheidens und Entwickelns auf allen Systemebenen postuliert... Die Berufstätigen in den Einzelschulen sollen weiterhin Energien in autonome Schulentwicklung kanalisieren, diese jedoch – in einer Autonomie der Wege, nicht der Ziele – stärker auf die vorgegebenen Kompetenz- und Prozessziele ausrichten. Schulleitungen werden noch bedeutsamer, weil sie – damit zielgerichtete und ergebnisorientierte Entwicklung geschieht – die Lehrpersonen zur Beachtung von Zielen, zur Interpretation von Datenfeedback und zu unterrichtsbezogenen Entwicklungshandlungen motivieren, koordinieren und unterstützen müssen.*
 
 > [!citation-card] 校长从兼课教师向教育企业管理者的角色转型
-> 这些校长在课堂听课观摩以及自我评估与质量保障上投入了更高比例的工作时间，他们也更加频繁地主动与教师就教育教学问题开展深入对话，而不是将这些事务完全推给一线教师独自承担。总体而言，他们似乎更倾向于将自己理解为教育企业的管理者和引领者，而非附带兼任额外行政琐事的兼课教师。（p. 31）
+> 这些校长在课堂听课观摩以及自我评估与质量保障上投入了更高比例的工作时间，他们也更加频繁地主动与教师就教育教学问题开展深入对话，未将这些事务完全推给一线教师独自承担。总体而言，他们似乎更倾向于将自己理解为教育企业的管理者和引领者，而非附带兼任额外行政琐事的兼课教师。（p. 31）
 >
 > *Diese Schulleiter/innen investieren einen höheren Anteil ihrer Arbeitszeit in Unterrichtsbeobachtungen... sowie Selbstevaluierung und Qualitätssicherung... Sie suchen auch häufiger das Gespräch mit Lehrpersonen über die pädagogische Arbeit... statt diese allein den Lehrkräften zu überantworten. Insgesamt scheinen sie sich eher als Manager/innen und Leiter/innen eines pädagogischen Betriebs denn als Unterrichtende mit Zusatzaufgaben zu verstehen.*
 

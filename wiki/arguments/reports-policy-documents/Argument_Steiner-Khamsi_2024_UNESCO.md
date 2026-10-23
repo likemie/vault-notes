@@ -7,9 +7,9 @@ title: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_key: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_display_title: "Strategic review: Improving the use of evidence for education policy, planning and implementation"
 argument_kind: "report"
-argument_related_count: 81
-argument_related_level: 8
-argument_related_stars: "💎💎⭐⭐"
+argument_related_count: 91
+argument_related_level: 9
+argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Gita Steiner-Khamsi|Steiner-Khamsi, G.]]"
@@ -57,6 +57,8 @@ related_concepts:
   - "[[Cultural Validity]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Absorptive Capacity]]"
+  - "[[Regional Large-Scale Assessments]]"
+  - "[[Reform Fatigue]]"
   - "[[Normal School]]"
   - "[[Global Citizenship]]"
   - "[[Clinical Trial]]"
@@ -72,7 +74,9 @@ related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[Knowledge Exchange]]"
   - "[[Boundary Spanner]]"
+  - "[[Regional URE Hubs]]"
   - "[[Communities of Practice]]"
+  - "[[Funder Coalition for URE]]"
 related_theories:
   - "[[Two-Communities Theory]]"
   - "[[Theory of Change]]"
@@ -108,6 +112,12 @@ related_facts:
   - "[[NORRAG]]"
   - "[[SUMMA]]"
   - "[[Education Sub Saharan Africa]]"
+  - "[[IEA]]"
+  - "[[SACMEQ]]"
+  - "[[PASEC]]"
+  - "[[LLECE]]"
+  - "[[SEA-PLM]]"
+  - "[[PILNA]]"
   - "[[PISA]]"
   - "[[International Institute for Educational Planning]]"
   - "[[Global Partnership for Education]]"
@@ -234,6 +244,8 @@ updated: 2026-10-23
 > [!case] 政策全生命周期中的实施科学赤字与规模化框架（McLean & Gargani, 2019）
 > - **政策周期的实施盲区** 罗伯特·麦克莱恩（Robert McLean）与约翰·加尔加尼（John Gargani, 2019）的规模化[[Analytic Framework|分析框架]]指出，公共干预从概念验证走向全面推广包含向上拓展（Scaling Up，政策制度化）、向外拓展（Scaling Out，覆盖人数与地域扩大）以及向深拓展（Scaling Deep，价值观念与文化规范重塑）（p. 17）。
 > - **微观实证脱离中观规划** 当前绝大多数实验干预（如小型[[Randomised Controlled Trials|随机对照试验]]）仅能证明微观试点在理想受控状态下的有效性；一旦面对庞大的国家公立教育系统，由于缺乏对财政[[Absorptive Capacity|吸收能力]]、教师工作负荷以及地方官僚博弈的中观规划研究，这些试验结论往往在推广阶段彻底失效（pp. 17–18）。
+> - **区域大规模测评的动员潜能（[[Regional Large-Scale Assessments|RLSAs]]）** 报告指出，经合组织与[[IEA|国际教育成就评价协会]]的全球测评，或者[[Regional Large-Scale Assessments|区域大规模学业成就测评]]（Regional Large-Scale Assessments, RLSAs，如非洲的 [[SACMEQ]] 与 [[PASEC]]、拉丁美洲的 [[LLECE]]、东南亚的 [[SEA-PLM]] 及太平洋岛国的 [[PILNA]]），高度适合用于激发公众意识并为重大变革争取政治支持，在动员政治关注方面展现出极强的情境合法性（p. 16）。
+> - **全球[[Reform Fatigue|改革疲惫]]与中观治理转向（Bromley et al., 2021）** 帕特丽夏·布罗姆利等学者对 1960–2017 年间 147 国 6,700 项教育改革的大数据分析表明，新自由主义全球宏观教育改革在 2000 年左右达峰后陷入停滞，全球教育治理步入深度的[[Reform Fatigue|教育改革疲惫]]（Reform Fatigue）与消化巩固期；多边机构因而从推动自上而下的宏观新立法，转向聚焦于中观层级（meso-level）与基层学校的创新规模化（pp. 16–17）。
 
 ---
 
@@ -428,7 +440,7 @@ updated: 2026-10-23
 #### 2. 授权现有的成熟区域组织充当枢纽，能够准确对接国家真实需求
 
 > [!row-contrast] 依托区域支持枢纽贯通全球与本土治理的行动矩阵（表 5.2）
-> 针对全球北方平台垄断与全球南方国家需求脱节的第二重断裂，跨国治理评估明确反对自上而下另起炉灶设立昂贵的跨国新机构；核心方案是正式授权已有公信力与地缘根基的成熟区域组织，将其转型为区域证据利用枢纽（Regional URE Hubs）（pp. 43–46）。
+> 针对全球北方平台垄断与全球南方国家需求脱节的第二重断裂，跨国治理评估明确反对自上而下另起炉灶设立昂贵的跨国新机构；核心方案是正式授权已有公信力与地缘根基的成熟区域组织，将其转型为[[Regional URE Hubs|区域证据利用枢纽]]（Regional URE Hubs）（pp. 43–46）。
 >
 > | 治理层面 | 核心职能模块 | 具体行动举措 |
 > |---|---|---|
@@ -472,9 +484,9 @@ updated: 2026-10-23
 >
 >   各成员国设立常设证据评估处室与专职[[Boundary Spanner|知识经纪人]]，落实法律规程中的循证审核约束；各国政策优先需求通过区域枢纽自下而上反馈至全球治理高层，形成具有长效自我造血能力的全球循证治理生态（pp. 48–49）。
 
-> [!case] 破解知识生产不平等的长效资助机制：长效循证资助者联盟（Funder Coalition for URE）
+> [!case] 破解知识生产不平等的长效资助机制：[[Funder Coalition for URE|长效循证资助者联盟]]（Funder Coalition for URE）
 > - **传统国际援助的项目偏颇** 传统国际援助偏好资助由北方学者领衔的短期研究项目，直接加剧了全球知识生产的不平等与碎片化（p. 46）。
-> - **多边长效资助联盟组建** 全球合作机制动员包括比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]（Bill & Melinda Gates Foundation, BMGF）、[[Jacobs Foundation|雅各布斯基金会]]、[[Mastercard Foundation|万事达卡基金会]]以及法国开发署（Agence Française de Développement, AFD）、瑞士发展合作署（Swiss Agency for Development and Cooperation, SDC）、美国国际开发署（USAID）等双多边资助方，组建长效循证资助者联盟。
+> - **多边长效资助联盟组建** 全球合作机制动员包括比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]（Bill & Melinda Gates Foundation, BMGF）、[[Jacobs Foundation|雅各布斯基金会]]、[[Mastercard Foundation|万事达卡基金会]]以及法国开发署（Agence Française de Développement, AFD）、瑞士发展合作署（Swiss Agency for Development and Cooperation, SDC）、美国国际开发署（USAID）等双多边资助方，组建[[Funder Coalition for URE|长效循证资助者联盟]]。
 > - **长效使能资金投向** 将资金重点转向国家循证机构能力建设、本土语言转译以及长效政学互动网络，保障循证改革的可持续性（pp. 46–47）。
 
 ---

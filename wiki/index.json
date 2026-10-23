@@ -1647,6 +1647,29 @@
     ]
   },
   {
+    "title": "Reform Fatigue",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Reform Fatigue.md",
+    "aliases": [
+      "教育改革疲惫",
+      "改革疲惫",
+      "改革巩固期",
+      "Policy Fatigue"
+    ]
+  },
+  {
+    "title": "Regional Large-Scale Assessments",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Regional Large-Scale Assessments.md",
+    "aliases": [
+      "区域大规模学业成就测评",
+      "区域大规模教育评估",
+      "区域大规模学生评估",
+      "RLSAs",
+      "RLSA"
+    ]
+  },
+  {
     "title": "Relational Space",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Relational Space.md",
@@ -6013,6 +6036,17 @@
     ]
   },
   {
+    "title": "Funder Coalition for URE",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Funder Coalition for URE.md",
+    "aliases": [
+      "循证教育长效资助者联盟",
+      "长效循证资助者联盟",
+      "Funder Coalition",
+      "Coalition of Funders for URE"
+    ]
+  },
+  {
     "title": "Global Education Reform Movement",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Global Education Reform Movement.md",
@@ -6629,6 +6663,17 @@
     "path": "wiki/concepts/educational-policy-reform/Recommendations for Practice.md",
     "aliases": [
       "实践建议"
+    ]
+  },
+  {
+    "title": "Regional URE Hubs",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Regional URE Hubs.md",
+    "aliases": [
+      "区域研究证据利用枢纽",
+      "区域证据利用枢纽",
+      "Regional Hubs for URE",
+      "Regional URE Hub"
     ]
   },
   {
@@ -31152,6 +31197,26 @@
     ]
   },
   {
+    "title": "PASEC",
+    "type": "fact",
+    "path": "wiki/facts/africa/PASEC.md",
+    "aliases": [
+      "法语国家教育部部长会议教育系统分析计划",
+      "Programme d’Analyse des Systèmes Éducatifs de la CONFEMEN",
+      "PASEC Assessment"
+    ]
+  },
+  {
+    "title": "SACMEQ",
+    "type": "fact",
+    "path": "wiki/facts/africa/SACMEQ.md",
+    "aliases": [
+      "东南非教育质量监测联盟",
+      "Southern and Eastern Africa Consortium for Monitoring Educational Quality",
+      "SACMEQ Assessment"
+    ]
+  },
+  {
     "title": "Conectar Igualdad",
     "type": "fact",
     "path": "wiki/facts/argentina/Conectar Igualdad.md",
@@ -31159,6 +31224,27 @@
       "平等连接",
       "Conectar Igualdad Program",
       "PCI"
+    ]
+  },
+  {
+    "title": "SEA-PLM",
+    "type": "fact",
+    "path": "wiki/facts/asia/SEA-PLM.md",
+    "aliases": [
+      "东南亚初等教育学习指标",
+      "Southeast Asia Primary Learning Metrics",
+      "SEA-PLM Assessment"
+    ]
+  },
+  {
+    "title": "Third Elementary Education Project in India",
+    "type": "fact",
+    "path": "wiki/facts/asia/Third Elementary Education Project in India.md",
+    "aliases": [
+      "印度第三期基础教育项目",
+      "印度基础教育三期项目",
+      "Third Elementary Education Project",
+      "India Third Elementary Education Project"
     ]
   },
   {
@@ -33769,6 +33855,17 @@
     ]
   },
   {
+    "title": "Development Economics Vice Presidency",
+    "type": "fact",
+    "path": "wiki/facts/global/Development Economics Vice Presidency.md",
+    "aliases": [
+      "发展经济学研究局",
+      "世界银行发展经济学研究局",
+      "World Bank DEC",
+      "Development Economics Vice Presidency (DEC)"
+    ]
+  },
+  {
     "title": "Education International",
     "type": "fact",
     "path": "wiki/facts/global/Education International.md",
@@ -34368,6 +34465,18 @@
     ]
   },
   {
+    "title": "EdStats",
+    "type": "fact",
+    "path": "wiki/facts/global/EdStats.md",
+    "aliases": [
+      "教育统计查询系统",
+      "世界银行教育统计数据库",
+      "Education Statistics",
+      "World Bank EdStats",
+      "EdStats (World Bank)"
+    ]
+  },
+  {
     "title": "Education at a Glance",
     "type": "fact",
     "path": "wiki/facts/global/Education at a Glance.md",
@@ -34544,6 +34653,17 @@
       "OKR",
       "世界银行开放知识库",
       "Open Knowledge Repository (OKR)"
+    ]
+  },
+  {
+    "title": "Open Learning Campus",
+    "type": "fact",
+    "path": "wiki/facts/global/Open Learning Campus.md",
+    "aliases": [
+      "开放学习园区",
+      "OLC",
+      "世界银行开放学习园区",
+      "Open Learning Campus (OLC)"
     ]
   },
   {
@@ -35141,6 +35261,16 @@
     ]
   },
   {
+    "title": "LLECE",
+    "type": "fact",
+    "path": "wiki/facts/latin-america/LLECE.md",
+    "aliases": [
+      "拉丁美洲教育质量评估实验室",
+      "Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación",
+      "LLECE Assessment"
+    ]
+  },
+  {
     "title": "Mexican Educational Modernization of 1992",
     "type": "fact",
     "path": "wiki/facts/mexico/Mexican Educational Modernization of 1992.md",
@@ -35342,6 +35472,16 @@
       "国际文凭营养科学课程",
       "IB Nutritional Science Course",
       "International Baccalaureate Nutritional Science Programme"
+    ]
+  },
+  {
+    "title": "PILNA",
+    "type": "fact",
+    "path": "wiki/facts/multi/PILNA.md",
+    "aliases": [
+      "太平洋岛国读写与计算能力测评",
+      "Pacific Islands Literacy and Numeracy Assessment",
+      "PILNA Assessment"
     ]
   },
   {

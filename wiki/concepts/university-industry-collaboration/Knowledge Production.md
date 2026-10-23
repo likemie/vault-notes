@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程。在宏观治理与地缘场域揭示资本偏向、跨国指标自指性、国家教育督导对单一范式知识的行政建构与清洗，以及大国脱钩对知识策源地地位的冲击；在微观教学场域指向学习者在协商共同体中依托证据协调自主生成新知并内化审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 126
+related_count: 128
 related_level: 12
 related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Theoretical Knowledge]]"
   - "[[Research Utilization]]"
+  - "[[Funder Coalition for URE]]"
   - "[[National Innovation System]]"
   - "[[Gold Standard Science]]"
   - "[[Pilot Scale Platform]]"
@@ -121,6 +122,7 @@ related_facts:
   - "[[National Institutes of Health]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[World Bank]]"
+  - "[[Development Economics Vice Presidency]]"
   - "[[UNESCO]]"
   - "[[Office of Science and Technology Policy]]"
   - "[[Genesis Mission]]"
@@ -206,7 +208,7 @@ updated: 2026-10-23
 > - **大学职能的研教合一（Research-Teaching Nexus）** 现代[[Research Universities|研究型大学]]确立了知识生产与传播兼备的双重使命，经由研究生院制度将前沿科学知识生产与青年学者[[Apprenticeship|学徒制]]培养深度绑定。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
 > - **同行评审竞争与分散资助机制** 美国战后科研体制确立了联邦基金（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]）直接面向学者个人竞争性下拨的模式，构成了推动基础科研高产出的制度动力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **成果知识产权与商业化归属博弈** 伴随《[[Bayh-Dole Act of 1980|拜杜法案]]》出台与[[Academic Capitalism|学术资本主义]]扩张，大学基础研究产出的大量专利法律所有权被工业资本捕获，改变了科研成果的公有属性。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 71)]]
-> - **超国家组织的自主知识生产与自指性指标体系** 跨国机构（如[[World Bank|世界银行]]、[[OECD]]）脱离外部大学，依托专职科研编制（如发展经济学研究局 122 名研究员）与专属预算自主开展基础实证研究，年发文量达到顶尖大学均值的三倍，并结合自研量化指标与专题评估形成自指性政策[[Epistemic Governance|知识治理]]网络。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 5–7)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]
+> - **超国家组织的自主知识生产与自指性指标体系** 跨国机构（如[[World Bank|世界银行]]、[[OECD]]）脱离外部大学，依托专职科研编制（如[[Development Economics Vice Presidency|发展经济学研究局]] 122 名研究员）与专属预算自主开展基础实证研究，年发文量达到顶尖大学均值的三倍，并结合自研量化指标与专题评估形成自指性政策[[Epistemic Governance|知识治理]]网络。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 5–7)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]
 > - **科层行政中的知识生产与规范重塑（Bureaucratic Knowledge Production & Redrafting）** 国家治理机构在行政工作中通过定向挑选学术流派、预先编制单一范式知识综述排除学术争端，并在终审定稿中清洗体制批判，人为生产出“无可争议的知识状态”，赋予行政规制以科学合法性。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648–653)]]
 > - **地缘博弈下的技术能力降维与脱钩冲击** 在大国地缘博弈背景下，知识生产从好奇心驱动的认知蓄水池降维为技术主权工具；战略科技脱钩与[[Research Security|科研安全]]审查阻断了跨国科研合作网络，削弱了新兴强国获取西方前沿知识的管道。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1061–1064)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
 > - **智能时代自动化核验基础设施** 人工智能大幅降低了假说生成边际成本，倒逼科学体制推行包含数据与代码的[[Dynamic Research Notebook|动态研究笔记本]]、云端自动化实验室与专职机器复现审计。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 62–70)]]
@@ -281,13 +283,13 @@ updated: 2026-10-23
 > **自指性指标体系与比较教育知识[[Paradigm|范式]]位移** 跨国组织在教育领域的知识生产表现出强烈的自指性（Self-referential）特征；[[OECD]] 与[[World Bank|世界银行]]不仅研发测度指标，更在组织内部自行开展研究、撰写专题评估并绑定贷款项目，将知识生产、[[Policy Brokerage|政策中介]]与资金资助熔铸为排他性的自给自足体系。这种量化实证指标生产彻底改变了比较教育学科从早期大学席位主导的“历史-文化[[Interpretive Paradigm|诠释范式]]”向“跨国标准化评测范式”的根本位移。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]; [[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94–98)]]
 
 > [!claim] [[Argument_Zapp_2017_IJED|Zapp (2017)]]
-> **专职科研建制与国际组织学术发表扩张** 扎普论证指出，世界银行在信贷资本规模见顶后确立了[[Knowledge Bank|知识银行]]转型战略，通过发展经济学研究局（DEC）建立起不依赖外部大学的专职科研编制与自主研发预算。其学术产出在 Scopus 等主流索引中呈爆发式增长，在教育领域的发文量达到全球顶尖大学均值的三倍；这种实体科研能力确保了国际组织能够摆脱外部学术中介，在微观计量层面自主生成支撑全球发展模型的实证知识，确立起发展研究领域的学术发表[[Discourse|话语]]权。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 5–7)]]
+> **专职科研建制与国际组织学术发表扩张** 扎普论证指出，世界银行在信贷资本规模见顶后确立了[[Knowledge Bank|知识银行]]转型战略，通过[[Development Economics Vice Presidency|发展经济学研究局]]（DEC）建立起不依赖外部大学的专职科研编制与自主研发预算。其学术产出在 Scopus 等主流索引中呈爆发式增长，在教育领域的发文量达到全球顶尖大学均值的三倍；这种实体科研能力确保了国际组织能够摆脱外部学术中介，在微观计量层面自主生成支撑全球发展模型的实证知识，确立起发展研究领域的学术发表[[Discourse|话语]]权。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 5–7)]]
 
 > [!claim] [[Jason Beech|Beech, J.]]
 > **过度简化机制与外围学术空间边缘化** 比奇（[[Jason Beech]]）在其全球教育[[Champ|场域]]五位置模型中论证指出，跨国政策知识的生产与流通呈现高度非均质性，始终受到不同结构位置权力的层层过滤与[[Recontextualization|再情境化]]加工。位于第二位置的国际组织受紧迫[[Pragmatic Paradigm|实用主义]]驱动，将第一位置（全球学术空间）中原本复杂争鸣的[[Theoretical Knowledge|理论知识]]深度删剪与过度简化，包装为普适通用的五大支柱“最佳实践”处方；而在第四位置（本土学术空间），由于外围发展中国家科研资源匮乏且高度依附外部开发贷款，兼具学者、官员与顾问三重身份的“[[Gatekeepers|守门人]]”网络垄断了合法政策[[Discourse|话语]]的解释权与课题资源。这不仅导致借贷国全盘借入外部制度愿景，更彻底压制了本土高校与学者基于自身历史脉络开展独立知识生产的可能性，造成本土传统知识体系在[[Epistemology|认识论]]上的系统性贬抑。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–353)]]
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]]
-> **全球南北知识生产结构性不平等与援助偏颇** 施泰纳-哈姆西等在[[UNESCO|教科文组织]]全球循证[[Research Utilization|研究利用]]报告中指出，传统国际发展援助高度偏好资助由全球北方机构领衔的短期研究项目，直接造成全球南方本土知识生产的碎片化与外部依附。全球北方智库与国际机构集中生产被标榜为普适规律的实证综述，由于脱离本土政治经济约束、财政支付能力与文化脉络，造成全球知识集中生产端与国家规划实施端之间双重反馈回路的断裂；必须建立长效循证资助者联盟并改革学术评价机制，保障边缘化研究者与决策官员在知识生产与[[Research Synthesis|证据综合]]中的实质代表权。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 14, 38, 46)]]
+> **全球南北知识生产结构性不平等与援助偏颇** 施泰纳-哈姆西等在[[UNESCO|教科文组织]]全球循证[[Research Utilization|研究利用]]报告中指出，传统国际发展援助高度偏好资助由全球北方机构领衔的短期研究项目，直接造成全球南方本土知识生产的碎片化与外部依附。全球北方智库与国际机构集中生产被标榜为普适规律的实证综述，由于脱离本土政治经济约束、财政支付能力与文化脉络，造成全球知识集中生产端与国家规划实施端之间双重反馈回路的断裂；必须建立[[Funder Coalition for URE|长效循证资助者联盟]]并改革学术评价机制，保障边缘化研究者与决策官员在知识生产与[[Research Synthesis|证据综合]]中的实质代表权。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 14, 38, 46)]]
 
 ---
 

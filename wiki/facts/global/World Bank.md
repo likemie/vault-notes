@@ -11,9 +11,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 99
-fact_related_level: 9
-fact_related_stars: "💎💎💎"
+fact_related_count: 108
+fact_related_level: 10
+fact_related_stars: "💎💎💎⭐"
 fact_related_color: "#fecdd3"
 org_type: multilateral-development-bank
 headquarters: "华盛顿特区（美国）"
@@ -54,7 +54,6 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
-  - "[[Structural Adjustment Programs]]"
   - "[[Market Fundamentalism]]"
   - "[[International Education]]"
   - "[[Selective Affinity]]"
@@ -65,14 +64,18 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Champ]]"
   - "[[Encyclopaedic Definition of Knowledge]]"
+  - "[[Technical Rationality]]"
+  - "[[Teacher Professional Agency]]"
   - "[[Social Imaginary]]"
   - "[[Soft Power by Hard Facts]]"
+  - "[[Structural Adjustment Programs]]"
   - "[[Educational Privatisation]]"
   - "[[Endogenous Privatisation]]"
   - "[[Exogenous Privatisation]]"
   - "[[Global Educational Discourse]]"
   - "[[Gatekeepers]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Epistemic Governance]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Evolutionary Economics]]"
@@ -95,6 +98,7 @@ related_persons:
   - "[[Robert Arnove]]"
   - "[[Chris Freeman]]"
   - "[[Martin Carnoy]]"
+  - "[[James Wolfensohn]]"
   - "[[Claudio de Moura Castro]]"
   - "[[Stephen P. Heyneman]]"
   - "[[Fazal Rizvi]]"
@@ -109,30 +113,35 @@ related_facts:
   - "[[World Education Indicators]]"
   - "[[Poverty Reduction Strategy Papers]]"
   - "[[Global Development Network]]"
+  - "[[Open Knowledge Repository]]"
+  - "[[Skills Toward Employment and Productivity]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[Building Evidence in Education]]"
   - "[[UNESCO Institute for Statistics]]"
+  - "[[Development Economics Vice Presidency]]"
   - "[[Inter-American Development Bank]]"
+  - "[[Global Education Evidence Advisory Panel]]"
   - "[[English Schools Foundation Hong Kong]]"
   - "[[World Development Indicators]]"
   - "[[UNICEF]]"
   - "[[Learning Data Compact]]"
   - "[[Chartered College of Teaching]]"
+  - "[[EdStats]]"
   - "[[World Education Reform Database]]"
   - "[[Business Roundtable]]"
-  - "[[Global Education Evidence Advisory Panel]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
-  - "[[Argument_Beech_2009_GlobalGarden]]"
+  - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
   - "[[Argument_Freeman_1995_CJE]]"
-  - "[[Argument_Legrand_2012_PolStud]]"
-  - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
-  - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Zapp_2017_IJED]]"
   - "[[Argument_WorldBank_2019_Teach]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Campbell_2026_JPCC]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -183,12 +192,12 @@ updated: 2026-10-23
 >
 > - **1999–2018** **[[Knowledge Bank|知识银行]]转型、[[Shadow State|影子国家]]外包与买方市场危机**
 >
->   詹姆斯·沃尔芬森（James Wolfensohn）主导世行转型为知识银行。比奇指出，这意味着借款国在获得有限资金的同时，被迫成套借入西方技术官僚量身打造的整套教育制度愿景；而[[Claudio de Moura Castro|卡斯特罗]]（Castro）的实务观察表明，借款国重视世行建议的根本原因在于背后捆绑的主权贷款支持，脱离资金的纯政策咨询会重蹈教科文组织的无效覆辙。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–346)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 472–473)]]
+>   [[James Wolfensohn|詹姆斯·沃尔芬森]]（James Wolfensohn）主导世行转型为知识银行。比奇指出，这意味着借款国在获得有限资金的同时，被迫成套借入西方技术官僚量身打造的整套教育制度愿景；而[[Claudio de Moura Castro|卡斯特罗]]（Castro）的实务观察表明，借款国重视世行建议的根本原因在于背后捆绑的主权贷款支持，脱离资金的纯政策咨询会重蹈教科文组织的无效覆辙。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–346)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 472–473)]]
 >
 >   - **1996** 正式宣布向知识银行（Knowledge Bank）转型，输出涵盖分权、[[School Autonomy|学校自主]]、教师专业化、能力本位与中央测评五大支柱的制度愿景；教育部门率先设立教育知识管理系统（EKMS）与教育咨询服务部开展数字化知识集散先导试验。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–5)]]
 >   - **1999** 创设[[Global Development Network|全球发展网络]]（Global Development Network，GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但很快被华盛顿总部集权的工具所取代。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024b, p. 543)]]
 >   - **2000s** 在公共服务提供上日益绕过受援国政府，直接委托非政府组织提供教育，架空国家公共权威，促使非政府组织转变为去政治化的影子国家。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004; Kamat, 2004, cited in Arnove, 2009, pp. 111–112)]]
->   - **2010–2014** 启动开放发展倡议与开放知识库（OKR），实施 STEP 成人技能测试，并将集中化政策诊断体系升级为涵盖 13 个领域的 SABER 系统。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
+>   - **2010–2014** 启动开放发展倡议与[[Open Knowledge Repository|开放知识库]]（OKR），实施 [[Skills Toward Employment and Productivity|STEP]] 成人技能测试，并将集中化政策诊断体系升级为涵盖 13 个领域的 [[Systems Approach for Better Education Results|SABER]] 系统。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
 >   - **2011** 推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（Systems Approach for Better Education Results，SABER），并联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（Building Evidence in Education，BE2），确立自指性政策仓库。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 545, 548)]]
 >   - **21 世纪** 拉美与亚洲中等收入国家主权信用提升、可直接在国际私人资本市场低成本融资，世行面临从卖方市场转向买方市场的业务缩水危机，被迫推出基于成果的框架贷款（Program-for-Results，PforR）与分步递进式信贷，以降低借款国的官僚合规交易成本。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 475–476)]]
 >
@@ -204,7 +213,7 @@ updated: 2026-10-23
 > [!actor-grid] 组织治理架构
 > - **决策机构（理事会 / 执行董事会）** 理事会为最高权力机构（各成员国财长或央行行长担任），25 名常驻华盛顿的执行董事组成董事会，按出资份额分配加权投票权（美国拥有唯一实质一票否决权），决定重大国别贷款与行业政策战略。
 > - **执行机构（行长 / 教育全球业务局）** 传统上由美国提名行长领导庞大官僚官制，下设教育全球业务局（Education Global Practice, EGP），配备数百名专职教育经济学家与任务团队负责人（TTL），直接主导国别教育贷款准备与政策对话。
-> - **专家与审议委员会** 发展经济学研究局（DEC）、独立评价局（IEG），负责开展微观计量经济学评估、[[Randomised Controlled Trials|RCT]] 评估及对已结项教育贷款的问责审计。
+> - **专家与审议委员会** [[Development Economics Vice Presidency|发展经济学研究局]]（DEC）、独立评价局（IEG），负责开展微观计量经济学评估、[[Randomised Controlled Trials|RCT]] 评估及对已结项教育贷款的问责审计。
 > - **会员与外部利益相关者** 189 个成员国教育部主要作为借款方与政策谈判对手，通过国别伙伴关系框架（CPF）接受世行政策审议。
 
 世界银行在组织官僚文化上呈现出与区域开发银行截然不同的智识特征与政策推行风格：
@@ -271,12 +280,12 @@ updated: 2026-10-23
 > - **189** （个） 截至目前的正式成员国总数。
 > - **15–30 yr** 主权开发贷款的典型偿还周期，还款期限远超商业银行。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–457)]]
 > - **1 pp** 在国际债券融资成本基础上额外加收的转贷利差，仅用于维系机构日常人员薪资开销以实现保本运营。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 456)]]
-> - **1/3** 1980 年代世界银行激进强推[[Structural Adjustment Programs|结构调整政策]]附加条件时期，陷入低效与停摆危机的教育借贷项目组合比例。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
+> - **1/3** 1980 年代世界银行激进强推结构调整政策附加条件时期，陷入低效与停摆危机的教育借贷项目组合比例。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
 > - **1,120** （项） 教育投资回报率数据库整合的 139 国微观计量估算总数。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 542, 548)]]
 > - **1,600** （项） [[World Development Indicators|世界发展指标]]（WDI）数据库涵盖的宏观指标总数。
 > - **3×** 世界银行教育学术产出达到全球前 13 所高产大学均值的倍数。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
 > - **6,900+** （份） 开放知识库（OKR）收录的免费教育学术文献总数，累计下载近 900 万次。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
-> - **3,261** （项） 教育统计查询系统（EdStats）整合的跨国可比教育指标数量。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
+> - **3,261** （项） [[EdStats|教育统计查询系统]]（EdStats）整合的跨国可比教育指标数量。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
 > - **10,000+** （个） 1947 年以来世界银行发起的教育项目总数，总投资累计达 690 亿美元。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 9)]]
 
 ---
@@ -331,7 +340,7 @@ updated: 2026-10-23
 > > - **批判政治经济学与语篇[[Champ|场域]]视角（比奇与卡诺伊）** 比奇指出，截至 1995 年世行虽是南方国家最大单一外部教育资金源，其实际资金供给仅占发展中国家教育总开支的 0.5%；然而世行却通过 1996 年“[[Knowledge Bank|知识银行]]”转型，实现了“借入边际资金等于借入整套西方教育制度愿景”的超额治理效应。[[Martin Carnoy|马丁·卡诺伊]]（Carnoy, 1999）进一步批评世行纯粹的成本效益模型：将黑板、粉笔与教材判定为最划算的投入，而将教师薪酬定性为削减办学成本的核心障碍，不仅压抑了教师队伍建设，更通过五大支柱模型（分权、自主、能力本位、评估等）全面贬低受援国本土的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–349)]]
 > > - **世界银行政策立场** 辩称 0.5% 的公共资金主要发挥战略性“催化剂”（catalytic）效能，旨在以有限外部资源激活更大规模的系统变革，同时知识银行旨在将经受全球实证检验的最佳实践组合与循证量规输送给缺乏独立研发能力的借贷国，防范公共教育资源在低效体制中被持续浪费。
 >
-> > [!axis] “智能购买”循证清算与技术理性赤字视角
+> > [!axis] “智能购买”循证清算与[[Technical Rationality|技术理性]]赤字视角
 > > 质询世界银行通过 GEEAP 推行的成本效益清单与实证因果层级是否构成对受援国复杂实践生态的去情境化简化。
 > >
 > > - **批判学者（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）** 指出世行主导的实证话语将证据塑造成资源约束下的“智能购买”，高度倚重量化实验与因果评估模型；该技术理性框架将教育简化为具有明确价格标签的商品，在假定一线教师能力不足的赤字视角下开出标准处方，压抑了[[Teacher Professional Agency|教师专业能动性]]，并割裂了全球实证供给与地方实践生态。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 346–348)]]
@@ -400,6 +409,6 @@ updated: 2026-10-23
 > | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] | Argument | 运用世界体系分析透视世界银行等机构的教育援助政策，揭示其防卫性规训与扶植影子国家的政治经济学后果。 |
 > | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] | Argument | 实证反思世界银行结构调整方案与外债危机对拉美教育投入和产业研发的负面制度锁定。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 解构世界银行在拉美依托守门人垄断[[Discourse\|话语]]与制度愿景借贷的微观知识流动悖论。 |
-> | [[Argument_Zapp_2017_IJED\|Zapp (2017)]] | Argument | 通过半个世纪纵向统计实证解构世界银行从资金放贷实体转型为全球教育认知治理中枢的三维机制。 |
+> | [[Argument_Zapp_2017_IJED\|Zapp (2017)]] | Argument | 通过半个世纪纵向统计实证解构世界银行从资金放贷实体转型为全球教育[[Epistemic Governance\|认知治理]]中枢的三维机制。 |
 > | [[Global Education Evidence Advisory Panel]] | 事实 (机构) | 世界银行联合发起的独立咨询机构，负责研制“智能购买”分级循证建议。 |
 > | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] | Argument | 剖析世界银行与 GEEAP 的职责规程，批判其“智能购买”话语背后的技术理性与教师赤字预设。 |
