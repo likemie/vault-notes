@@ -18,6 +18,7 @@ fact_related_color: "#dcfce7"
 org_type: 国际金融组织直属高级发展研究与统计智库机构
 headquarters: 美国华盛顿（Washington, D.C., United States）
 established: "1982"
+official_website: "https://www.worldbank.org/en/research"
 tags:
   - org/research-institute
   - theme/world-bank
@@ -67,6 +68,7 @@ updated: 2026-10-23
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 伴随世界银行向发展实证研究转型的制度化进程，于 1980 年代在高级副行长兼首席经济学家建制下正式组建常设研究局。
+> - **官方平台与科研成果库** 官方专属科研与出版门户为 [World Bank Research & Publications](https://www.worldbank.org/en/research)，集中发布发展经济学前沿研究论文、政策研究工作报告（WPS）与数据工具。
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区世界银行集团大楼，业务辐射全球所有成员国及国际发展学术界。
 > - **法人属性与经费基础** 隶属于世界银行集团的最高常设科研部门；拥有独立的专属科研预算，在 2009 至 2012 年间研发支出达 2.44 亿美元，占全行行政预算的 2.9%。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 5)]]
 > - **核心宗旨与法定职责** 开展不受短期借贷业务干扰的基础性独立学术研究，构建全球发展指标标准，为国际多边援助与国家经济政策提供严密实证支撑。

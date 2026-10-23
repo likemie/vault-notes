@@ -18,6 +18,7 @@ fact_related_color: "#fecdd3"
 org_type: multilateral-development-bank
 headquarters: "华盛顿特区（美国）"
 established: "1944"
+official_website: "https://www.worldbank.org/"
 tags:
   - fact/organization
   - theme/world-bank
@@ -156,6 +157,7 @@ updated: 2026-10-23
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1944 年 7 月布雷顿森林会议倡议成立国际复兴开发银行（IBRD），1945 年正式运作，最初旨在资助战后欧洲重建，冷战时期转入对亚非拉新独立发展中国家的经济与社会基础设施开发贷款。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 541)]]
+> - **官方门户与检索平台** 官方在线门户为 [World Bank](https://www.worldbank.org/)（中文主页：[世界银行](https://www.worldbank.org/zh/home)），提供全球信贷项目、经济统计数据与研究出版物公开检索。
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区，在全球设立 130 余个国别代表处，业务覆盖 189 个成员国，是主导全球南方国家宏观经济与公共部门改革的最高多边信贷实体。
 > - **法人属性与经费基础** 由 189 个成员国政府持股的特许多边金融机构，经费来自国际金融市场发债筹资、成员国认缴股本以及[[International Development Association|国际开发协会]]（IDA）由发达捐助国定期补充的软贷款赠款；其金融运作依赖美、英、德、日等发达出资国的 AAA 级信用担保获得最低融资利率，在借款利率基础上加收约 1 个百分点以支付员工薪酬并维持保本，依托[[International Monetary Fund|国际货币基金组织]]（IMF）违约黑名单机制确保零坏账，并要求借款国财政部强制按比例匹配[[Counterpart Funds|对等配套资金]]（Counterpart Funds）。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456–458)]]
 > - **核心宗旨与法定职责** 消除绝对贫困、促进共享繁荣；在教育领域主张通过[[Human Capital Theory|人力资本]]投资促进经济生产率与个人收入增长，将教育规划与借贷国宏观财政平衡紧密捆绑。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]

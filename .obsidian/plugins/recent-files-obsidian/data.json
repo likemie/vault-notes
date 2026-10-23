@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Argument_Steiner-Khamsi_2024_UNESCO",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Steiner-Khamsi_2024_UNESCO.md"
+      "basename": "Argument_Campbell_2026_JPCC",
+      "path": "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
+    },
+    {
+      "basename": "Justified Warrants",
+      "path": "wiki/concepts/research-methodology/Justified Warrants.md"
     },
     {
       "basename": "Blackstone's Ratio",
       "path": "wiki/concepts/ethics-of-technology/Blackstone's Ratio.md"
+    },
+    {
+      "basename": "Critique of Meta-analysis",
+      "path": "wiki/concepts/research-methodology/Critique of Meta-analysis.md"
+    },
+    {
+      "basename": "Literature Search",
+      "path": "wiki/concepts/research-methodology/Literature Search.md"
+    },
+    {
+      "basename": "Argument_Steiner-Khamsi_2024_UNESCO",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Steiner-Khamsi_2024_UNESCO.md"
     },
     {
       "basename": "Argument_Stephan_2013_NBER",
@@ -165,10 +181,6 @@
       "path": "wiki/arguments/journal-articles/Chinese Studies Journal/Argument_Velasco_2022_CSJ.md"
     },
     {
-      "basename": "Critique of Meta-analysis",
-      "path": "wiki/concepts/research-methodology/Critique of Meta-analysis.md"
-    },
-    {
       "basename": "Educational Diplomacy",
       "path": "wiki/concepts/political-economy-geopolitics/Educational Diplomacy.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "template-fact-event",
       "path": "wiki/templates/template-fact-event.md"
-    },
-    {
-      "basename": "template-fact-policy",
-      "path": "wiki/templates/template-fact-policy.md"
-    },
-    {
-      "basename": "template-person",
-      "path": "wiki/templates/template-person.md"
-    },
-    {
-      "basename": "template-argument-textbook",
-      "path": "wiki/templates/template-argument-textbook.md"
     }
   ],
   "omittedPaths": [],

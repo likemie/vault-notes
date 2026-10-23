@@ -19,6 +19,7 @@ fact_related_color: "#dcfce7"
 org_type: 国际金融组织直属培训与发展能力建设机构
 headquarters: 美国华盛顿（Washington, D.C., United States）
 established: "1955"
+official_website: "https://academy.worldbank.org"
 tags:
   - org/training-institute
   - theme/world-bank
@@ -69,6 +70,7 @@ updated: 2026-10-23
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 前身为 1955 年设立的经济发展学院（Economic Development Institute, EDI），2000 年在世界银行“[[Knowledge Bank|知识银行]]”战略深化背景下正式改组为世界银行学院。
+> - **官方门户与数字化学习平台** 官方能力建设与培训承接门户为 [World Bank Group Academy](https://academy.worldbank.org) 与在线数字化平台 [World Bank Open Learning Campus](https://olc.worldbank.org/)，提供全球发展专业研修微课程与领导力培训项目。
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区，业务辐射覆盖全球所有接受世界银行信贷支持与技术援助的成员国。
 > - **法人属性与经费基础** 隶属于世界银行集团的专门事业机构，常态化运营由世界银行内部行政拨款及双边捐助信托基金提供稳定支持。
 > - **核心宗旨与法定职责** 破除受援国在制度设计与政策执行层面的能力瓶颈，将外部实证[[Research Translation|研究转化]]为在地官员能够有效操作的治理方案。
