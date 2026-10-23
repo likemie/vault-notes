@@ -8,13 +8,13 @@ aliases:
   - 可持续发展目标
   - 2030年可持续发展议程
   - SDG 4
-summary: "2015年联合国193个成员国一致通过的17项全球发展倡议与行动议程。在基础教育与跨国治理领域，它经由教科文组织与世界银行被建构为规制全球南方的量化指标体系与基准监测帝国；在高等教育领域，它催化了大学以世界社会影响为导向的新型第三使命；在科技与产业政策领域，它成为第三代使命导向创新政策确立跨部门技术与社会变革方向、克服复杂性悖论并驱动引领与学习范式治理的核心战略罗盘。"
+summary: "2015年联合国193个成员国一致通过的17项全球发展倡议与行动议程。在基础教育与跨国治理领域，它经由教科文组织与世界银行被建构为规制全球南方的量化指标体系与基准监测帝国，同时成为全球南方本土治理方案合法化输出的多边制度窗口；在高等教育领域，它催化了大学以世界社会影响为导向的新型第三使命；在科技与产业政策领域，它成为第三代使命导向创新政策确立跨部门技术与社会变革方向、克服复杂性悖论并驱动引领与学习范式治理的核心战略罗盘。"
 type: fact
 subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 60
+fact_related_count: 63
 fact_related_level: 6
 fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
@@ -56,6 +56,8 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Epistemology]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Policy Ambassador]]"
+  - "[[South-South Cooperation]]"
 related_theories:
   - "[[Three Generations of Mission-Oriented Policy]]"
   - "[[ROAR Framework]]"
@@ -93,10 +95,11 @@ related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-10-23
+updated: 2026-10-24
 ---
 
 ---
@@ -105,18 +108,18 @@ updated: 2026-10-23
 > - **发布时间 / 发布主体** 2015 年 9 月由联合国（United Nations, UN）全数 193 个成员国在纽约可持续发展峰会上一致通过，正式发布题为《改变我们的世界：2030年可持续发展议程》（*Transforming our world: the 2030 Agenda for Sustainable Development*）的决议。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 150)]]
 > - **适用地区 / 对象** 覆盖全球所有主权国家、跨国国际组织、公民社会、高等教育机构以及科技产业界；特别在基础教育阶段针对全球南方借款国实施密集监测，在高等教育与科技政策阶段覆盖全球[[Research Universities|研究型大学]]与国家[[Innovation Ecosystem|创新生态]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 541)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 > - **问题背景** 全球面临气候危机、环境退化、贫困不公、公共健康与教育公平等多重复合[[Wicked Problem|复杂社会难题]]；继 1990 年[[Education for All|全民教育]]（Education for All, EFA）与 2000–2015 年千年发展目标（Millennium Development Goals, MDGs）之后，国际社会亟需一套具有普遍约束力且兼顾社会技术系统转型的全球统领性行动纲领。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 151)]]
-> - **制度位置** 取代 MDGs 成为 2015–2030 年全球最高发展纲领；在教育领域确立第四个可持续发展目标（SDG 4: 优质教育），在科技创新政策领域确立第三代使命导向政策统领性方向（涵盖 SDG 13 气候行动、SDG 14 海洋保护、SDG 7 清洁能源、SDG 3 良好健康等），成为全球[[Mission-Oriented Innovation Policy|使命导向创新政策]]从二代[[Technological Catch-up|技术追赶]]迈向三代社会技术转型的顶层战略罗盘。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
+> - **制度位置** 取代 MDGs 成为 2015–2030 年全球最高发展纲领；在教育领域确立第四个可持续发展目标（SDG 4: 优质教育），在科技创新政策领域确立第三代使命导向政策统领性方向（涵盖 SDG 13 气候行动、SDG 14 海洋保护、SDG 7 清洁能源、SDG 3 良好健康等），成为全球[[Mission-Oriented Innovation Policy|使命导向创新政策]]从二代[[Technological Catch-up|技术追赶]]迈向三代社会技术转型的顶层战略罗盘，并为全球南方的本土治理试验提供了多边合法化制度窗口。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]; [[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 187)]]
 
 ---
 
 > [!claim] 政策核心
-> 联合国可持续发展目标（Sustainable Development Goals, SDGs）共设定 17 项宏观目标与 169 项具体指标；在跨国基础教育领域，它通过海量国际基准与指标问责构建起规制全球南方的量化治理体制；在高等教育领域，它驱动大学将科研与教学重新锚定于世界社会影响，确立超越传统职能的新型[[Third Mission|第三使命]]；在科技产业政策领域，它标志着第三代使命导向政策的确立，为国家打破狭隘行业补贴、实施跨部门[[Market Shaping and Creating|市场塑造]]以及由被动测量走向主动引领提供了方向性指引。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 150–154)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–792)]]
+> 联合国可持续发展目标（Sustainable Development Goals, SDGs）共设定 17 项宏观目标与 169 项具体指标；在跨国基础教育领域，它通过海量国际基准与指标问责构建起规制全球南方的量化治理体制，同时也为南方本土治理经验提供了上升为全球公共产品的多边制度窗口；在高等教育领域，它驱动大学将科研与教学重新锚定于世界社会影响，确立超越传统职能的新型[[Third Mission|第三使命]]；在科技产业政策领域，它标志着第三代使命导向政策的确立，为国家打破狭隘行业补贴、实施跨部门[[Market Shaping and Creating|市场塑造]]以及由被动测量走向主动引领提供了方向性指引。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 150–154)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–792)]]; [[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 187)]]
 
 > [!policy-design] 政策设计与工具组合
 > - **政策目标** 致力于到 2030 年消除贫困、保护地球生态并确保全民享有和平与繁荣；教育子目标（SDG 4）旨在“确保包容和公平的优质教育，促进全民享有[[Lifelong Learning|终身学习]]机会”；创新与生态子目标驱动经济与社会技术系统的全面绿色包容转型。
 > - **适用对象** 主权国家政府、跨国多边机构、国际援助捐助方、公立与私立高等院校、产业界企业、社会企业与民间公益团体。
 > - **政策工具** 国际指标基准体系、[[Global Education Monitoring Report|全球教育监测报告]]（GEMR）、自愿国别评估（VNR）、第三代使命导向政策组合（跨部门研发协同、战略采购、示范项目、规制标准与自下而上社会试验）。
-> - **约束与激励机制** 基于指标排名的软法规制与横向[[Peer Debriefing|同行审议]]、国际发展援助与优惠贷款的前置条件挂钩（Lending Conditionality）、基于[[Lead-and-Learn Paradigm|引领与学习范式]]的试验性治理网络，以及可持续创新市场的战略匹配激励。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 543, 545)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 799–801)]]
+> - **约束机制** 基于指标排名的软法规制与横向[[Peer Debriefing|同行审议]]、国际发展援助与优惠贷款的前置条件挂钩（Lending Conditionality）、基于[[Lead-and-Learn Paradigm|引领与学习范式]]的试验性治理网络，以及可持续创新市场的战略匹配激励。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 543, 545)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 799–801)]]
 
 > [!citation-card] 扎普论可持续发展压倒一切的全球议程地位
 > 自 2015 年 193 个联合国成员国达成 17 项可持续发展目标以来，可持续发展已成为压倒一切的全球议程。
@@ -137,7 +140,7 @@ updated: 2026-10-23
 > - **2018 — 三代使命演进与[[Public Dynamic Capabilities|公共动态能力]]治理构建** 雷纳·[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]系统提出三代[[Mission-Oriented Innovation Policy|使命导向创新政策]]演进框架，将联合国 SDGs 界定为典型的第三代使命，指出应对 SDGs 必须突破[[Complexity Paradox|复杂性悖论]]与传统[[New Public Management|新公共管理]]（NPM）束缚，培育公共部门动态能力以践行[[Lead-and-Learn Paradigm|引领与学习范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–791)]]
 > - **2018 — SDGs 使命化转化与[[EU|欧盟]]地平线计划吸纳** 马祖卡托向欧盟委员会提交报告，正式将联合国 SDGs 确立为“[[Horizon Europe|地平线欧洲]]”（Horizon Europe, 1000 亿欧元）五大核心使命的顶层锚点。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 > - **2018–2020 — 指标垄断深化与多边数据联盟分化** 伴随 SDG 4 监测需求激增，五大多边组织（[[Global Partnership for Education|GPE]], [[OECD]], UNESCO, UNICEF, World Bank）展开激烈的数据主导权博弈；世界银行联合英美援助机构组建打造教育成效证据联盟（[[Building Evidence in Education|BE2]]），联合国教科文组织、儿童基金会与世行则另立“[[Learning Data Compact|学习数据协定]]”（LDC）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]
-> - **2020 至今 — 危机叠加与多维转型重塑** 全球公共卫生与气候危机暴露出单一量化指标与僵化行政规制的局限；全球高校与产业界系统制度化 SDGs，但同时面临主权国家地缘科技竞争“再领土化”的逆流冲击。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 155–157)]]
+> - **2020 至今 — 危机叠加、南方治理经验制度化与多维转型重塑** 全球公共卫生与气候危机暴露出单一量化指标与僵化行政规制的局限；与此同时，SDGs 与二十国集团（G20）、金砖国家合作机制等新兴多边平台互嵌，为全球南方的微观政策实验与南南技术协作提供了制度化的合法性展示窗口。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 155–157)]]; [[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 187)]]
 
 ---
 
@@ -146,12 +149,13 @@ updated: 2026-10-23
 > - **硬性规制与放贷主体** [[World Bank|世界银行]]及各区域开发银行，通过发展政策贷款附带条件将 SDG 指标转化为受援国刚性执行标准。
 > - **科技创新与产业塑造主体** 各国科技与产业创新署（如[[EU|欧盟]]委员会、[[KfW|德国复兴信贷银行]] KfW、英国科研与创新署 UKRI），将 SDGs 解构为绿色脱碳与公共健康战略使命组合，依托遴选意愿者机制拉动跨部门协同投资。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 798–800)]]
 > - **知识与人才载体** 全球[[Research Universities|研究型大学]]与科研机构，负责生产前沿科技与政策知识、培养全球治理专业人才。
-> - **基层执行主体** 主权国家教育部、地方学区、基础学校、环保组织、社会企业以及民间非政府组织。
+> - **基层执行与南方政策实践主体** 主权国家教育部、地方学区、基础学校、环保组织、社会企业以及民间非政府组织；广大全球南方政策实践团队在微观治理中输出本土方案。
 
 > [!pathways] 实施路径与组织形态
 > - **第三代使命的“孩童”（Child）形态与[[Network Governance|网络化治理]]** 区别于第一代[[Apollo Program|阿波罗计划]]与第二代 [[DARPA]] 具备严密层级或强力项目经理威权的“狮子”（Lion）形态，落实 SDGs 这一第三代使命依赖去中心化、灵活试验、涵盖广泛利益相关者的网络化组织形态，要求公共部门具备动态协调、跨界意愿激发与自下而上共创能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–797)]]
 > - **全球南方基础教育层面的量化基准转译** 通过将 SDG 4 的 10 项具体目标分解为一系列微观基准，国际多边组织直接介入借款国的国家中期教育部门规划（ESDP），强制推动行政数据和测评指标的对接。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 541)]]
 > - **[[Global Education Cooperation Mechanism|全球教育合作机制]]与跨层级区域桥梁** 在联合国教科文组织全球教育合作机制（GCM）与高级别指导委员会（HLSC）统筹下，全球审查主张克服自上而下单向推送，依托区域常设支持枢纽与跨国证据中心，贯通全球平台与本土决策需求。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 38, 45)]]
+> - **多边平台制度窗口与南向政策流动** 结合二十国集团（G20）与金砖国家合作机制，SDGs 成为南方国家依托互学互鉴原则输出本土治理经验（如快速公交、参与式预算与现金转移支付）的制度化多边窗口，推动政策转移从单向借用演化为多标量政策循环。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 187, 208–211)]]
 > - **科技与产业层面的四层使命分解金字塔** 国家与国际组织通过“宏大挑战（SDGs） $\to$ 战略使命（Missions） $\to$ 跨部门研发与创新项目（R&I Projects） $\to$ 自下而上协同探索”的四层架构，将气候中和（SDG 13）、海洋治理（SDG 14）转化为跨越材料、化工、数字、航运与废弃物管理的跨产业联合行动。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 811)]]
 > - **高等教育系统多渠道嵌入与对齐** 大学通过三大支柱全面融入 SDGs 治理框架（[[Argument_Zapp_2022_Springer|Zapp, 2022, pp. 150–154]]）：
 >   - **研究对齐（Research Alignment）** 全球大学主动将前沿研究重定向至 SDGs 优先领域（如曼彻斯特大学碳足迹计算工具、苏黎世联邦理工学院“2000瓦特社会”能效试验）。
@@ -163,17 +167,30 @@ updated: 2026-10-23
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 核心规制与资源配置中枢** [[UNESCO|联合国教科文组织]]（法定指标协调中枢）、[[World Bank|世界银行]]（依托贷款与数据库推行硬性合规）、[[EU|欧盟]]委员会及多国国家科技研发署（将 SDGs 转化为千亿级创新资助方向与动态试验平台）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790)]]
 > - **高权力 · 低/中利益 — 准外部标杆与资助垄断方** [[OECD|经合组织]]（依托 [[PISA]] 输出标准）、美欧跨国私人慈善基金会（比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]等）。
-> - **低权力 · 高利益 — 政策承受者与知识执行体** 全球南方主权受援国教育部门、跨国[[Research Universities|研究型大学]]师生、中小创新企业群体、基层社会公益组织。
+> - **低权力 · 高利益 — 政策承受者、知识执行体与南方创新主体** 全球南方主权受援国教育部门、跨国[[Research Universities|研究型大学]]师生、中小创新企业群体、基层社会公益组织与南南合作实务团队。
 > - **低权力 · 低利益 — 传统非教育区域协调组织** 单一专业性边缘多边实体。
 
 ---
+
+> [!indicators] 评价指标体系
+> - **投入指标** 官方发展援助（Official Development Assistance, ODA）教育与可持续发展专项拨款总额、多边发展银行优惠贷款分配规模、各国公共财政中教育与绿色研发支出占 GDP 的比重。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 541)]]
+> - **过程指标** 自愿国别评估（VNR）年度提交率、各级教育学龄儿童净入学率与留存率、跨部门战略创新使命立项数与公私协同参与度。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 150–154)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 799–801)]]
+> - **结果指标** SDG 4.1 基础读写算最低能力标准达成率、气候减排与绿色能源转型达标率、全球南方微观治理方案向跨国公共产品转化数量。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 22–25)]]; [[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 187)]]
 
 > [!finding-cards] 关键成效与治理影响
 > - **确立全球可持续发展最高共识体系** SDGs 成功将分散的气候、扶贫、公共卫生与教育改革熔铸为一个不可分割的跨国[[Grand Theory|元叙事]]，为跨国[[Policy Mobility|政策流动]]提供了普遍通行的度量语言。
 > - **驱动科技与产业政策向第三代社会技术转型演进** 彻底改变了传统科技政策仅关注研发投入规模或单一狭隘[[Technological Catch-up|技术追赶]]的局限，为绿色脱碳与应对老龄化等[[Wicked Problem|复杂社会难题]]树立了跨部门协同创新的全球导向。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–792)]]
 > - **催化[[Third Mission|大学第三使命]]从经济化向世界社会价值转向** 促使高等教育机构摆脱单纯服务于商业技术专利转移的狭隘视野，将解决人类共同面临的宏大挑战确立为合法性基石。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 150–154)]]
+> - **为全球南方政策创新提供制度化合法性窗口** SDGs 框架与 G20、金砖机制互嵌，打破了传统单向附带条件的援助模式，为拉美、亚洲与非洲发展中国家输出有条件现金转移支付与基层民主预算等本土创新方案提供了多边对接渠道。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 187)]]
 > - **加剧跨国[[Policy Brokerage|政策中介]]的多边竞争与数据圈地** 刺激了多大多边国际组织在慈善基金资助与排他性数据协定上的领地争夺。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]
 > - **SDG 4 目标实证支撑呈现极化失衡** 联合国教科文组织全球战略审查显示，SDG 4 各子目标所获得的政策研究支撑极不均衡：学前与初等教育（4.1、4.2）获得压倒性密集实证，而职业技术教育、高等教育（4.3、4.4）与奖学金（4.b）等关键领域面临深层实证赤字。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 22–25)]]
+
+> [!stat-cards]- 核心数据
+> - **17** （项） 联合国可持续发展目标（SDGs）设定的宏观战略领域总数。
+> - **169** （项） 《2030 年可持续发展议程》统领的具体目标与量化指标总数。
+> - **193** （个） 2015 年 9 月在纽约峰会上一致通过该议程的主权成员国总数。[[Argument_Zapp_2022_Springer|(Zapp, 2022, p. 150)]]
+> - **2015–2030** （年） 可持续发展议程确定的跨国行动推进与达标检验周期。
+> - **€100B** 欧盟“地平线欧洲”以 SDGs 为战略罗盘规划的跨部门使命导向研发预算总额。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, p. 803)]]
 
 ---
 
@@ -203,9 +220,14 @@ updated: 2026-10-23
 > > - **世界社会与地缘政治学者** 学界识别出一个根本悖论：大学在价值追求上越是拥抱世界主义与 SDGs 全球影响，民族国家政策制定者越是急切地将大学“再领土化”为保障国家经济引擎、科技主权与地缘战略声望的竞争性工具。[[Argument_Zapp_2022_Springer|(Zapp, 2022, pp. 155–157)]]
 > > - **[[Internationalization of Higher Education|高等教育国际化]]乐观派** 坚信大学依托全球学术网络能够有效超越狭隘民族国家边界。
 
+> [!citation-card] 施泰纳-哈姆西论国际协定量化规制对受援国自主性的侵蚀
+> 国际协定所确立的所谓全球统一基准，在实践中往往演化为西方金融与多边机构针对全球南方的量化规制网络，将发展中国家的教育规划牢牢锁定在外部设定的指标合规框架内，削弱了本土政策创新的空间。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 541)]]
+>
+> *International agreements establishing global benchmarks frequently translate into quantitative regulatory mechanisms governing the Global South, constraining domestic policy autonomy.*
+
 ---
 
-> [!entry-map] 相关条目网络
+> [!entry-map] 相关概念／理论
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
@@ -224,13 +246,16 @@ updated: 2026-10-23
 > | [[World Society Theory]] | Theory | 解释主权国家与大学普遍采纳并宣誓效忠 SDGs 全球共同规范的核心宏观社会学理论。 |
 > | [[THE Impact Ranking]] | Instrument | 专门依据联合国 17 项 SDGs 对全球大学社会与生态影响力进行测度的量化工具。 |
 > | [[SDG 4 High-Level Steering Committee]] | Fact | 统筹全球 SDG 4 政策[[Output-Oriented Governance\|循证治理]]与区域支持枢纽建设的最高跨国协调机构。 |
+> | [[South-South Cooperation]] | 概念 | SDGs 框架下获得国际合法性、推动对等互学与技术协作的新型发展合作形态。 |
+> | [[Policy Ambassador]] | 概念 | 穿梭于 SDGs 等多边平台、推动南方治理经验上升为全球旗舰方案的政策专家。 |
+> | [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] | Argument | 剖析可持续发展目标等多边平台为全球南方政策经验合法化与跨国循环提供的制度化窗口。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 系统阐明将 SDGs 界定为第三代使命导向政策的理论逻辑，指出必须摆脱[[New Public Management|新公共管理]]的“支持并测量”指标陷阱，培育[[Public Dynamic Capabilities|公共动态能力]]以践行[[Lead-and-Learn Paradigm|引领与学习]]治理[[Paradigm|范式]]。
-> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统论述如何将联合国可持续发展目标（SDGs）作为战略罗盘，通过四层分解金字塔转化为具备可量化指标与跨部门参与的[[Mission-Oriented Innovation Policy|使命导向创新政策]]组合。
-> - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 运用[[World Society Theory|世界社会理论]]系统剖析大学通过研究、教学、内部政策及学术网络四重机制全面嵌入 SDGs 的历程，并尖锐警示科学政治化与[[Geopolitics|地缘政治]]再领土化风险。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 阐明国际协定如何推动针对全球南方的量化规制转向，揭示 [[UNESCO]] 与[[World Bank|世界银行]]在基准统筹与合规执法上的分工，以及五大多边组织在资金与数据协定上的排他性博弈。
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 针对 103 国战略审查揭示 SDG 4 目标实证极化失衡，提出依托区域支持枢纽与常设证据中心打破反馈断裂。
-
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 阐明将 SDGs 界定为第三代使命的逻辑，强调摆脱新公共管理指标陷阱，培育公共动态能力以践行引领与学习范式。
+> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 论述如何将 SDGs 作为战略罗盘，通过四层分解金字塔转化为跨部门参与的使命导向创新政策组合。
+> - [[Argument_Zapp_2022_Springer|Zapp (2022)]] — 剖析大学通过研究、教学与运营四重机制嵌入 SDGs 的历程，警示科学政治化与地缘政治再领土化风险。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 阐明国际协定推动针对全球南方的量化规制转向，揭示教科文组织与世界银行的分工及多边数据博弈。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 揭示 SDG 4 各目标所获实证支撑的极化失衡，主张依托区域常设证据中心打破反馈断裂。
+> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 揭示 SDGs 等新兴多边平台如何为全球南方政策创新与南南政策大使的经验流动提供制度化合法性窗口。
