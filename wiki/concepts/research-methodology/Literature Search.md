@@ -165,8 +165,11 @@ updated: 2026-10-23
 > | [ERIC](https://eric.ed.gov) | 教育学期刊、报告、会议论文；免费，含在线词表可精确检索，1966 年至今 140 万条 |
 > | [Google Scholar](https://scholar.google.com) | 跨学科学术搜索，含论文、学位论文、图书；免费，自动统计引用次数 |
 > | [PubMed](https://pubmed.ncbi.nlm.nih.gov) | 生物医学与生命科学；免费，1700 万条引文 |
-> | [ProQuest](https://www.proquest.com) | 综合学术内容库，全球最大的学位论文收藏；机构订阅 |
-> | [EBSCO](https://www.ebsco.com) | 综合性数据库，350+ 专业子库；机构订阅，含 British Education Index |
+> | [ProQuest (PQDT)](https://www.pqdtcn.com/) | 综合学术内容库，全球最大的学位论文收藏；机构订阅 |
+> | [EBSCO](https://research.ebsco.com/c/bebykj/search/advanced) | 综合性学术数据库与高级检索平台，350+ 专业子库；机构订阅，含 British Education Index |
+> | [EBSCO 电子书](https://research.ebsco.com/c/ecno37/search?defaultdb=nlebk&auth-callid=6b65a620-85a1-4c6b-a07e-adcc2ecc345f) | EBSCO 专著与学术电子书库（eBook Collection），支持专著检索与全文借阅；机构订阅 |
+> | [爱学术（iResearch）](https://www.iresearchbook.cn/f) | 外文原版学术电子书平台（中国教育图书进出口），集成数百家国际出版机构专著与教材全文；机构订阅 |
+> | [ScienceDirect](https://www.sciencedirect.com/) | Elsevier 旗下同行评审全文数据库，涵盖社科、教育、工程与医学高水平期刊与专著；机构订阅 |
 > | [Scopus](https://www.scopus.com) | 同行评审文献摘要与引文数据库；机构订阅，支持引文追踪 |
 > | [DOAJ](https://doaj.org) | 开放获取期刊目录，700 万篇文章全免费；无需订阅 |
 > | [Open Knowledge Repository (OKR)](https://openknowledge.worldbank.org/) | [[World Bank\|世界银行]]官方[[Open Knowledge Repository\|开放知识库]]，收录数万份旗舰研究报告、政策工作底稿（WPS）与学术专著，提供全文开放获取 |
@@ -232,7 +235,7 @@ updated: 2026-10-23
 > | [Elsevier](https://www.elsevier.com) | 科学、技术、医学文献，含 ScienceDirect 全文平台 |
 > | [Wiley](https://onlinelibrary.wiley.com) | 多学科期刊与在线图书，含 Cochrane Library |
 > | [JSTOR](https://www.jstor.org) | 人文社科回溯期刊全文库，含艺术、历史、教育等领域 |
-> | [Sage](https://uk.sagepub.com) | 社会科学与教育学期刊，研究方法丛书 |
+> | [Sage](https://sage.cnpereading.com/) | 社会科学与教育学期刊，研究方法丛书 |
 > | [Taylor & Francis](https://taylorfrancis.com) | 教育、社科等人文领域期刊平台 |
 > | [Emerald](https://www.emeraldinsight.com) | 管理学、教育、图书馆学等期刊 |
 
