@@ -7,7 +7,7 @@ title: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_key: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_display_title: "Strategic review: Improving the use of evidence for education policy, planning and implementation"
 argument_kind: "report"
-argument_related_count: 91
+argument_related_count: 99
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -74,8 +74,10 @@ related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[Knowledge Exchange]]"
   - "[[Boundary Spanner]]"
+  - "[[Effective Teaching]]"
   - "[[Regional URE Hubs]]"
   - "[[Communities of Practice]]"
+  - "[[South-South Cooperation]]"
   - "[[Funder Coalition for URE]]"
 related_theories:
   - "[[Two-Communities Theory]]"
@@ -120,6 +122,7 @@ related_facts:
   - "[[PILNA]]"
   - "[[PISA]]"
   - "[[International Institute for Educational Planning]]"
+  - "[[Planipolis]]"
   - "[[Global Partnership for Education]]"
   - "[[Knowledge and Innovation Exchange]]"
   - "[[UNESCO Institute for Statistics]]"
@@ -130,11 +133,16 @@ related_facts:
   - "[[RISE Programme]]"
   - "[[Education Endowment Foundation]]"
   - "[[Evidence Network]]"
+  - "[[International Initiative for Impact Evaluation]]"
   - "[[EVIPNet]]"
   - "[[Center for Rapid Evidence Synthesis]]"
+  - "[[Early Childhood Development Action Network]]"
+  - "[[Better Early Learning and Development at Scale]]"
   - "[[PISA for Development]]"
   - "[[Africa Evidence Network]]"
+  - "[[ANTRIEP]]"
   - "[[Every Student Succeeds Act]]"
+  - "[[CORE Education]]"
   - "[[System Development Corporation]]"
   - "[[Bill & Melinda Gates Foundation]]"
 status: draft
@@ -272,7 +280,7 @@ updated: 2026-10-23
 > | [[OECD\|经济合作与发展组织（OECD）]] | 23 | 4 | 跨国协调（巴黎） | 依托 [[PISA]] 等标准化指标，在决策层日常调阅中展现极高实用粘性 |
 > | [[World Bank\|世界银行（World Bank）]] | 19 | 2 | 国际金融（华盛顿） | 全球最大教育援助与贷款方，主导基础读写与因果[[Intervention Research\|干预研究]] |
 > | [[UNICEF\|联合国儿童基金会（UNICEF）]] | 18 | 3 | 国际发展（纽约） | 深耕全球南方基层教育项目与女童保护，国家现场调阅广泛 |
-> | [[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（IIEP） | 17 | 5 | 联合国专门（巴黎） | 专注于国家教育行业规划（ESP）与教育官员规划能力建设 |
+> | [[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（IIEP） | 17 | 5 | 联合国专门（巴黎） | 专注于国家教育行业规划（ESP）与教育官员规划能力建设，维护全球政策门户 [[Planipolis]] |
 > | [[Global Partnership for Education\|全球教育伙伴关系]]（GPE） | 13 | 7 | 多边基金（华盛顿） | 低收入国家教育资助核心机制，依托 [[Knowledge and Innovation Exchange\|KIX]] 项目推动同侪互学 |
 > | [[UNESCO Institute for Statistics\|联合国教科文组织统计研究所]]（UIS） | 8 | 8 | 联合国统计（蒙特利尔） | SDG 4 官方基准数据与全球教育统计监测的唯一法定托管机构 |
 > | [[INEE\|机构间危机教育网络]]（Inter-agency Network for Education in Emergencies, INEE） | 6 | 6 | 专题协作网络 | 战乱与人道危机情境下教育应急响应标准的国际事实基准 |
@@ -349,6 +357,9 @@ updated: 2026-10-23
 > - **全球公共卫生领域** 1999 年至 2021 年发文复合年均增长率（Compound Annual Growth Rate, CAGR）高达 30.5%，累计产出 520 篇高被引经典文献，形成了公认的知识坐标体系。
 > - **全球教育研究领域** 同期发文复合年均增长率为 23.6%，高被引经典文献仅有 66 篇，高质量实证积累与学科辐射力明显滞后。
 
+> [!benchmark] 全球南方教育干预合成证据基准：[[International Initiative for Impact Evaluation|3ie]] 系统综述（pp. 31, 65, 77）
+> 在跨部门对照纳入深入分析的教育领域标志性系统综述中，由[[International Initiative for Impact Evaluation|国际影响评估倡议]]（3ie）资助发布的 Snilstveit et al.（2016）研究，汇总了 52 个低收入与中等收入国家 216 项教育干预计划（惠及 1,600 万名学童）。该研究确立了全球南方教育干预的基准认知：因地制宜的按学生实际水平分层教学（Teaching at the Right Level）、校餐与营养支持能稳定改善学习与出勤，但教育系统改善“不存在普遍适用的万灵丹（No Magic Bullets）”，单纯依赖计算机等硬件配发往往收效甚微，政策制定必须紧密结合治理情境审慎决策。
+
 > [!figure]- 图 4.2　政策证据研究共被引知识聚类图谱（公共卫生 vs 教育）
 > ![图4.2：政策证据研究共被引知识聚类图谱（公共卫生 vs 教育）](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig4-2_CoCitation_Analysis_Clusters.jpg)
 
@@ -422,7 +433,7 @@ updated: 2026-10-23
 >
 > | 变革维度 | 核心行动模块 | 具体举措与推进机制 |
 > |---|---|---|
-> | **产品型路径** | **5.1.1 [[Knowledge Co-production\|协同生产]]与分发适切成果** | 研制契合本土与未受充分服务目标的政策简报、事实清单与干预效果摘要；搭建在线开放数据库与交互平台；撰写学者博客与可视化政策图谱（p. 41）。 |
+> | **产品型路径** | **5.1.1 [[Knowledge Co-production\|协同生产]]与分发适切成果** | 研制契合本土与未受充分服务目标的政策简报、事实清单与干预效果摘要；搭建在线开放数据库与交互平台（如 IIEP 旗下的全球教育规划门户 [[Planipolis]]）；撰写学者博客与可视化政策图谱（pp. 41, 51）。 |
 > | | **5.1.2 建立正式机构证据咨询渠道** | 设立法定咨询委员会与常设听证程序；设立议会研究处及政府内部证据咨询服务机构，规范官方咨询机制（p. 41）。 |
 > | | **5.1.3 畅通学术成果获取途径** | 推行政府委托课题全流程科研支持；落实开放获取（Open Access）与科研信息公开，破除学术获取壁垒（p. 41）。 |
 > | **关系型路径** | **5.1.4 提升决策官员的循证技能** | 面向决策者开展证据评估研修班、[[Policy Fellowships and Placements\|政策研修驻访与沉浸式研习活动]]（Policy Fellowships or Placements），培养政策官员对实证材料的甄别能力（p. 42）。 |
@@ -434,6 +445,12 @@ updated: 2026-10-23
 > | **跨领域领导力** | **5.1.10 全球与区域战略领导力** | 2022 年由 UNESCO 全球合作机制统筹标准，2023 年移交区域枢纽；统筹推进三维路径，捍卫知识本土化与知识公平（p. 42）。 |
 > | | **5.1.11 维持生态响应性与互补共生** | 建立跨机构协调机制，促进证据组织互补合作而非恶性竞争；自适应调动去中心化循证资金（p. 42）。 |
 > | | **5.1.12 嵌入长效 MEL 自适应学习** | 建立契合系统性变革的监测、评估与学习（Monitoring, Evaluation, and Learning, MEL）指标体系，确立政策自适应管理机制（p. 42）。 |
+
+> [!case] 三维干预路径的代表性实践形态（pp. 15, 51, 74）
+> 报告依据研究证据利用的三维分类，提炼出跨国教育生态中的典型中介形态：
+> - **产品型线性供给** 聚焦研究成果向决策者的单向分发与检索便利，如[[Effective Teaching|有效教学]]信息库（What Works Clearinghouses）、[[RISE Programme]] 系统诊断工具包，以及 IIEP 建立的国家教育行业规划官方文献库 [[Planipolis]]。
+> - **关系型网络协同** 促进知识生产者与使用者之间的双向人际互动与跨界学习。例如[[Early Childhood Development Action Network|早期儿童发展行动网络]]（Early Childhood Development Action Network, ECDAN），将各国决策官员、科研专家、多边机构与民间社会联合接入同一行动空间，依托常设同行研讨推进 SDG 4.2 早期发展议题。
+> - **系统型制度嵌入** 致力于改善决策机构接纳实证的制度承载力与财政约束。例如全球教育伙伴关系 KIX 与联合国儿童基金会联合推进的[[Better Early Learning and Development at Scale|大规模优质早期学习与发展计划]]（Better Early Learning and Development at Scale, BELDS），通过制度化介入推动成员国教育部将严谨的早期儿童实证指标与成本预算模型深度嵌入国家教育部门规划（ESP）编制流程。
 
 ---
 
@@ -452,9 +469,10 @@ updated: 2026-10-23
 > | **全球与国家多边配合** | **5.2.6 全球主体遴选并授权区域枢纽** | 联合国教科文组织全球合作机制协同各盟友，通过非竞争性协作方式正式委任成熟区域网络为常设枢纽（p. 45）。 |
 > | | **5.2.7 各成员国建立长效 MEL 报告机制** | 成员国依据[[Theory of Change\|变革理论]]定期向区域与全球反馈国家循证体系建设成效，确立自适应管理机制（p. 45）。 |
 
-> [!case] 区域中介组织的桥梁运作：[[SUMMA]]、[[Education Sub Saharan Africa|撒哈拉以南非洲教育倡议]]与[[Africa Evidence Network|非洲证据网络]]
+> [!case] 区域中介组织的桥梁运作：[[SUMMA]]、[[Education Sub Saharan Africa|撒哈拉以南非洲教育倡议]]、[[Africa Evidence Network|非洲证据网络]]与 [[ANTRIEP]]
 > - **拉丁美洲实践：SUMMA Chile** 作为拉美与加勒比地区首个教育创新与研究实验室，SUMMA 与该区域数十国教育部紧密结盟，研制符合西语与葡语情境的干预实践指南，展现出极强的政策吸收转化力（pp. 43–45）。
 > - **非洲实践：撒哈拉以南非洲教育倡议与非洲证据网络** [[Education Sub Saharan Africa|撒哈拉以南非洲教育倡议]]（Education Sub Saharan Africa, [[Every Student Succeeds Act|ESSA]]）专注于非洲高等教育与教师师资大数据的整合；而成立于南非的[[Africa Evidence Network|非洲证据网络]]（Africa Evidence Network, AEN）汇聚了全非数千名研究者与行政官员，通过定期举办 Evidence 大会与实地工作坊，形成了深厚的人际信任网络（pp. 44–46）。
+> - **亚洲实践：亚洲教育规划培训与研究机构网络（[[ANTRIEP]]）** 聚合中国、印度等亚洲十余国[[CORE Education|核心教育]]规划科研院所，依托本土同行互助提升教育行政官员规划与实证治理能力，成为[[South-South Cooperation|南南合作]]与区域知识转化的长效范例（p. 8）。
 > - **资助本土化改革：万事达卡基金会与双边机构的下沉实践** 报告特别指出，[[Mastercard Foundation|万事达卡基金会]]、法国开发署（AFD）与瑞士发展合作署（[[System Development Corporation|SDC]]）率先推进运营去中心化，主动削减欧美总部人员编制，将资金与决策权深度下沉至非洲在地分支与区域枢纽，成为打破“全球北方垄断与南方脱节”的制度先例（p. 42）。
 > - **全球教育伙伴关系 KIX 项目的区域部署** 全球教育伙伴关系知识与创新交流机制（GPE KIX）在非洲、亚太与拉美设立四大区域枢纽，有效打通了跨国资金支持与本土教育政策试点的连接通道（p. 44）。
 

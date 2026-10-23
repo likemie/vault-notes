@@ -9,7 +9,7 @@ summary: "世界银行第九任行长（1995–2005），知名投资银行家�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 23
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -40,6 +40,7 @@ related_facts:
   - "[[International Monetary Fund]]"
   - "[[Poverty Reduction Strategy Papers]]"
   - "[[Global Development Network]]"
+  - "[[Educational Knowledge Management System]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[Open Knowledge Repository]]"
   - "[[Development Economics Vice Presidency]]"
@@ -51,6 +52,8 @@ related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+related_persons:
+  - "[[Maris O'Rourke]]"
 confidence: high
 status: active
 created: 2026-10-22
@@ -77,7 +80,7 @@ updated: 2026-10-23
 > - **1990 年代初** 深度介入公共文化与国际政策事务，出任纽约肯尼迪表演艺术中心与卡内基音乐厅董事会主席。
 > - **1995 年** 经美国总统比尔·克林顿提名，正式就任世界银行集团第九任行长。
 > - **1996 年** 在世行与 IMF 年会发表标志性演说，首次向国际社会提出建立“[[Knowledge Bank|知识银行]]”的战略纲领，并直言谴责阻碍发展的“腐败之癌”。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
-> - **1997–1999 年** 推出为期三年的内部组织改革“战略契约”（Strategic Compact），启动重债穷国（HIPC）债务减免倡议，设立教育知识管理系统（EKMS），并确立[[Poverty Reduction Strategy Papers|减贫战略文件]]（PRSPs）机制。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–5)]]
+> - **1997–1999 年** 推出为期三年的内部组织改革“战略契约”（Strategic Compact），启动重债穷国（HIPC）债务减免倡议，设立[[Educational Knowledge Management System|教育知识管理系统]]（EKMS），并确立[[Poverty Reduction Strategy Papers|减贫战略文件]]（PRSPs）机制。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–5)]]
 > - **2005 年** 结束十年世行行长任期，转任中东问题四方特使，专注于巴勒斯坦经济重建与加沙脱离接触事务。
 > - **2020 年** 在美国纽约曼哈顿逝世，享年 86 岁。
 
@@ -111,7 +114,7 @@ updated: 2026-10-23
 
 > [!person-network] 关系网络
 > - **政策前任与继承者** 罗伯特·麦克纳马拉（Robert McNamara）— 早期奠定世行关注贫困与基础教育的前任行长；保罗·沃尔福威茨（Paul Wolfowitz）— 沃尔芬森的继任者。
-> - **关键业务执行者** 玛丽斯·奥罗克（Maris O'Rourke）— 沃尔芬森任内任命的时任教育局局长，具体主导创建全行首个教育知识管理系统（EKMS）。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
+> - **关键业务执行者** [[Maris O'Rourke|玛丽斯·奥罗克]]（Maris O'Rourke）— 沃尔芬森任内任命的时任教育局局长，具体主导创建全行首个教育知识管理系统（EKMS）。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
 > - **合作多边机构** [[International Monetary Fund|国际货币基金组织]]（IMF）— 联合发起 HIPC 债务减免倡议与 PRSP 制度。
 > - **核心组织与项目** [[World Bank|世界银行]]、[[Global Development Network|全球发展网络]]、[[African Virtual University|非洲虚拟大学]]。
 

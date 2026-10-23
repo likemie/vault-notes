@@ -8,7 +8,7 @@ summary: "美国比较教育学者，政策借用与借出政治分析代表人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 42
+person_related_count: 45
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -55,6 +55,7 @@ related_methods:
 related_persons:
   - "[[Niklas Luhmann]]"
   - "[[Jurgen Schriewer]]"
+  - "[[Maris O'Rourke]]"
   - "[[Kerstin Martens]]"
   - "[[Christian Ydesen]]"
   - "[[Jeremy Rappleye]]"
@@ -64,15 +65,17 @@ related_facts:
   - "[[Comparative Education Society in Europe]]"
   - "[[Comparative and International Education Society]]"
   - "[[World Bank]]"
+  - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
   - "[[Argument_Rappleye_2006_RCIE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -91,22 +94,22 @@ updated: 2026-10-22
 
 > [!timeline] 生平与职涯
 > - **1990年代–2000年代初** 长期任教于哥伦比亚大学教师学院，并在日内瓦高等国际关系与发展研究院担任双聘教授，致力于后社会主义转型国家与全球南方国家的教育改革与国际援助政策研究。
-> - **2000** 在尤尔根·施里弗（[[Jurgen Schriewer|Jürgen Schriewer]]）主编的[[Discourse|话语]]形成论文集中发表奠基论文，系统阐明教育转移的政治维度与冲突移位机制。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, p. 224)]]
+> - **2000** 在尤尔根·施里弗（[[Jurgen Schriewer|Jürgen Schriewer]]）主编的[[Discourse|话语]]形成专著中发表奠基篇章，系统阐明教育转移的政治维度与冲突移位机制。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, p. 224)]]
 > - **2004** 出版纲领性论著《[[Policy Borrowing\|教育借用]]与借出的全球政治》（*The Global Politics of Educational Borrowing and Lending*），奠定当代跨国政策借用分析的基准[[Paradigm\|范式]]。
-> - **2004** 在德国教育研究协会苏黎世会议上发表论文，创新性结合社会[[Network Analysis\|网络分析]]与创新扩散理论，提出跨国教育政策中的马里斯·奥罗克效应（Maris O'Rourke Effect）。
+> - **2004** 在德国教育研究协会苏黎世会议上报告重要研究，创新性结合社会[[Network Analysis\|网络分析]]与创新扩散理论，提出跨国教育政策中的马里斯·[[Maris O'Rourke|奥罗克]]效应（Maris O'Rourke Effect）。
 > - **2009** 在 Cowen 与 Kazamias 主编的《比较教育学国际手册》中，不仅系统概念化了比较教育的历史演进，还率先推动运用口述史方法抢救被遮蔽的学科个人与学会记忆。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
 > - **2012** 与弗洛里安·瓦尔多（Florian Waldow）共同主编《世界教育年鉴 2012：教育中的政策借用》（*World Yearbook of Education 2012*），进一步将政策借用理论扩展至实证比较。
-> - **2024** 与 [[Kerstin Martens]] 及 [[Christian Ydesen]] 在 *Comparative Education* 合作发表重要论文，正式提出“[[Governing by Numbers\|数字治理]] 2.0”与[[Policy Brokerage\|政策中介]]跨学科比较研究议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024)]]
+> - **2024** 与 [[Kerstin Martens]] 及 [[Christian Ydesen]] 在 *Comparative Education* 合作发表重要成果，正式提出“[[Governing by Numbers\|数字治理]] 2.0”与[[Policy Brokerage\|政策中介]]跨学科比较研究议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b)]]
 
 ---
 
 > [!work-line] 主要著作
-> - **2000 — *Transferring education, displacing reforms*（收录于 [[Jurgen Schriewer|Jürgen Schriewer]] 编 *[[Discourse]] Formation in Comparative Education*）** 系统论证教育转移并非中立技术复制，而是国内行动者用以解决本土政治合法性危机、以借用外来改革置换国内意识形态僵局的“改革置换（Reform [[Institutional Displacement|displacement]]）”策略（如以中国大学引入美国大学学分制为例证），提出必须聚焦抵制、颠倒或本土化教育进口的微观能动者与政治意图。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 227)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
+> - **2000 — *Transferring education, displacing reforms*（收录于 [[Jurgen Schriewer|Jürgen Schriewer]] 编 *[[Discourse]] Formation in Comparative Education*）** 系统论证教育转移实质是国内行动者用以解决本土政治合法性危机、以借用外来改革置换国内意识形态僵局的“改革置换（Reform [[Institutional Displacement|displacement]]）”策略（如以中国大学引入美国大学学分制为例证），区别于中立的技术复制，提出必须聚焦抵制、颠倒或本土化教育进口的微观能动者与政治意图。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 227)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
 > - **2004a — *The Global Politics of [[Policy Borrowing|Educational Borrowing]] and Lending*** 确立跨国教育政策转移政治分析的理论纲领，系统探讨[[World Bank|世界银行]]等国际组织与受援国之间的非对称权力博弈。
-> - **2004b — *[[Network Analysis|social network analysis]] and Diffusion of Innovation Revisited: The Maris O'Rourke Effect in [[International Education]]*** 引入社会网络分析方法，揭示关键政策能动者在跨国政策扩散网络中的[[Structural Holes|结构洞]]与杠杆作用。
+> - **2004b — *[[Network Analysis|social network analysis]] and Diffusion of Innovation Revisited: The Maris O'Rourke Effect in [[International Education]]*** 引入社会网络分析方法，揭示关键政策能动者在跨国政策扩散网络中的[[Structural Holes|结构洞]]与核心中介功能。
 > - **2009 — *Comparison and Conceptualisation in Comparative Education*** 系统概念化比较教育学科的发展脉络，为构建全景式的[[Comparative History of Comparative Education|比较教育学比较史]]提供分析[[Paradigm|范式]]。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 8)]]
 > - **2012 — *Understanding policy borrowing and lending*** 与 Florian Waldow 合作，提炼跨国政策借用的多阶段分析工具，深度整合外在化、情境化与本土杂糅机制。
-> - **2024 — *[[Governing by Numbers|governance by numbers]] 2.0: [[Policy Brokerage]] as an instrument of global governance in the era of information overload*** 与 Martens 和 Ydesen 合作，提出数字治理 2.0 研究纲领，系统论证信息过量时代国际组织[[Soft Power by Hard Facts|以硬事实施展软权力]]的政策中介与工具打包机制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024)]]
+> - **2024 — *[[Governing by Numbers|governance by numbers]] 2.0: [[Policy Brokerage]] as an instrument of global governance in the era of information overload*** 与 Martens 和 Ydesen 合作，提出数字治理 2.0 研究纲领，系统论证信息过量时代国际组织[[Soft Power by Hard Facts|以硬事实施展软权力]]的政策中介与工具打包机制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b)]]
 
 ---
 
@@ -129,7 +132,7 @@ updated: 2026-10-22
 > *Unless we recognize that educational transfer can involve discourses rather than practices, we are unlikely to detect these international movements (Steiner-Khamsi, 2000, p. 181).*
 
 > [!citation-card] [[Surplus of Evidence|证据过剩]]与政策中介兴起
-> 更多知识并未减少歧义性并促进[[Evidence-Based Policy-Making|循证政策制定]]，反之亦然。当今的信息过载为那些能够选择性吸纳研究、将研究发现转化为证据并为政策所用的机构与个人提供了繁茂生长的土壤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
+> 更多知识并未减少歧义性并促进[[Evidence-Based Policy-Making|循证政策制定]]，反之亦然。当今的信息过载为那些能够选择性吸纳研究、将研究发现转化为证据并为政策所用的机构与个人提供了繁茂生长的土壤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 540)]]
 >
 > *It would be wrong to assume that more knowledge reduces ambiguity and facilitates evidence-informed policymaking. The opposite applies. Today's information overload constitutes fertile ground for the flourishing of individuals and institutions that selectively draw on research, transform research findings into evidence, and then translate that evidence for policy use.*
 
@@ -147,7 +150,7 @@ updated: 2026-10-22
 > - **学术对话者** [[Jurgen Schriewer|Jürgen Schriewer]] 共同推进基于系统论的[[Policy Borrowing|教育借用]]外在化（Externalisation）理论对话。
 > - **理论延伸者** [[Jeremy Rappleye]] 在 2006 年[[Concept Mapping|概念地图]]中将施泰纳-卡姆西的能动者分析整合为[[Pre-Transfer Agency|前转移能动性]]模型。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 224)]]
 > - **合作主编** Florian Waldow 共同主编《世界教育年鉴 2012》，推进比较政策借用分析工具标准化。
-> - **跨国治理合作者** [[Kerstin Martens]] 与 [[Christian Ydesen]] 共同开拓[[Governing by Numbers|数字治理]] 2.0 与[[Global Education Governing Complex|全球教育治理复合体]]研究。
+> - **跨国治理合作学者** [[Kerstin Martens]] 与 [[Christian Ydesen]] 共同开拓[[Governing by Numbers|数字治理]] 2.0 与[[Global Education Governing Complex|全球教育治理复合体]]研究。
 > - **史学对话者** [[Robert Cowen]] 高度评价其口述史开创性工作与学科演进概念化，呼吁欧洲学会全面跟进口述史方法。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]
 > - **[[Pluri-Scalar Governance|多标度治理]]对话者** [[Jason Beech]] 借用其关于中国大学引入美国学分制与改革置换的历史分析，对比当代跨国公司网络对教育空间的商业化重构。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
 > - **学术机构** 哥伦比亚大学教师学院、日内瓦高等国际关系与发展研究院、[[Comparative Education Society in Europe]]（CESE）。
@@ -190,6 +193,6 @@ updated: 2026-10-22
 > | [[Argument_Rappleye_2006_RCIE\|Rappleye (2006)]] | 在比较教育[[Concept Mapping\|概念地图]]中将其本土情境焦点与能动者转向作为[[Pre-Transfer Agency\|前转移能动性]]的核心基石，强调关注借用发生前国内政治行动者的冲突移位动机。 |
 > | [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] | 在学科史演进中高度赞誉其在口述史方法上的先锋探索，主张将口述史与概念化研究相结合以抢救学会和学者的隐性历史记忆。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 在[[Pluri-Scalar Governance\|多标度教育治理]]研究中引用其中国大学引入美国学分制案例，将其作为主权国家主导的双边借用典范，反衬当代跨国营利网络对治理[[Champ\|场域]]的重塑。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 提出[[Governing by Numbers\|数字治理]] 2.0 框架，论证在信息过剩时代国际组织如何凭借[[Policy Brokerage\|政策中介]]与硬事实数据施展[[Soft Power\|软权力]]，推动全球量化[[Disciplina and Doctrina\|规训]]。 |
-| [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024)]] | 主持教科文组织战略审查，提出超越线性证据汇总的三维变革路径（产品、关系与系统）以及连通全球与本土的区域知识枢纽路线图。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | 提出[[Governing by Numbers\|数字治理]] 2.0 框架，论证在信息过剩时代国际组织如何凭借[[Policy Brokerage\|政策中介]]与硬事实数据施展[[Soft Power\|软权力]]，推动全球量化[[Disciplina and Doctrina\|规训]]。 |
+| [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024)]] | 主持[[UNESCO\|教科文组织]]战略审查，提出超越线性证据汇总的三维变革路径（产品、关系与系统）以及连通全球与本土的区域知识枢纽路线图。 |
 

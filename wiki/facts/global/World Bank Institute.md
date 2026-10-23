@@ -12,7 +12,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
 related_facts:
   - "[[World Bank]]"
+  - "[[Global Development Learning Network]]"
   - "[[Open Learning Campus]]"
   - "[[Systems Approach for Better Education Results]]"
 related_arguments:
@@ -95,7 +96,7 @@ updated: 2026-10-23
 >
 >   依托卫星通信与早期互联网基础设施，打破华盛顿面对面研讨的物理限制。
 >
->   - **2000** 启动全球发展学习网络（Global Development Learning Network, GDLN），在数十个发展中国家高校建立远程视讯学习中心。
+>   - **2000** 启动[[Global Development Learning Network|全球发展学习网络]]（Global Development Learning Network, GDLN），在数十个发展中国家高校建立远程视讯学习中心。
 >   - **2004** 联合中国财政部在上海设立亚太财经与发展学院（AFDI），探索南南知识共享网络。
 >
 > - **2013–至今** **数字化学习园区与微认证生态**
@@ -113,7 +114,7 @@ updated: 2026-10-23
 > - **领导体制与监管中枢** 由[[World Bank|世界银行]]常务副行长兼首席经济学家直接管辖，设世界银行学院院长（Vice President / Director）统筹全院事务。
 > - **核心业务职能群** 分设领导力与能力发展局、全球知识网络局及数字化教学[[Innovation Hub|创新中心]]。
 > - **跨国高校与平台联盟** 与剑桥大学、[[Ralph Waldo Emerson|爱默生]]学院、Coursera、edX 等国际知名学府及[[Online Education|在线教育]]机构建立课程联培伙伴关系。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 8)]]
-> - **在地交付执行网络** 依托设在各成员国公立大学与国家行政学院的 GDLN 学习中心，开展混合式实地教学。
+> - **在地交付执行网络** 依托设在各成员国公立大学与国家行政学院的 [[Global Development Learning Network|GDLN]] 学习中心，开展混合式实地教学。
 
 > [!pathways] 业务运行机制
 > - **知识编码与模块化转译** 将世行前沿学术成果、国别经济备忘录及[[Systems Approach for Better Education Results|SABER]] 政策量规，提炼转译为模块化工作坊、[[Role-playing|角色扮演]]与微视频课件。
@@ -127,7 +128,7 @@ updated: 2026-10-23
 > [!finding-cards] 核心产品与业务矩阵
 > - **[[Open Learning Campus|开放学习园区]]（Open Learning Campus, OLC）** 常设 100 余门涵盖教育、卫生、财政与环境的高质量在线微课程与网络研讨会，月度分发多媒体政策播客与视频案例。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 8)]]
 > - **教育治理专题高层研讨班** 围绕“[[School Autonomy|学校自主]]与问责”、“儿童早期发展”、“学生测评体系”及“教师政策与管理”等核心领域开办专题研修班。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 8)]]
-> - **全球发展学习网络（GDLN）** 跨国联合 100 多个分支学习站点，运用高带宽视频会议系统组织多国官员开展南南经验互鉴与跨国政策对话。
+> - **[[Global Development Learning Network|全球发展学习网络]]（GDLN）** 跨国联合 100 多个分支学习站点，运用高带宽视频会议系统组织多国官员开展南南经验互鉴与跨国政策对话。
 > - **领导力与反腐败能力提升项目** 针对受援国反贪局官员、司法人员与青年领袖开设廉政建设、采购审计与透明度监督实战技能培训。
 
 > [!citation-card] [[World Bank|世行]]教学与知识传播的核心中枢
@@ -150,7 +151,7 @@ updated: 2026-10-23
 
 > [!stat-cards]- 核心规模数据
 > - **100+** [[Open Learning Campus|开放学习园区]]（OLC）面向全球常态化开设的在线课程与数字化研修模块总数。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 8)]]
-> - **100+** 覆盖全球各大区加盟合作的全球发展学习网络（GDLN）专属视讯站点数量。
+> - **100+** 覆盖全球各大区加盟合作的[[Global Development Learning Network|全球发展学习网络]]（GDLN）专属视讯站点数量。
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "戴安娜·斯通（Diane Stone）于 2000 年提出的概念，指世界银行在 1990 年代詹姆斯·沃尔芬森任内从传统基建项目放贷机构向以知识生产、研究分发与政策咨询为核心业务的全球智识中枢转型的制度性演变。该模式将教育研究、指标评估与政策处方深度绑定，构成了其推行自指性政策中介的制度基础；然而圈内实务分析表明，纯粹依靠政策咨询收费的设想在现实中难以成立，知识建议的实质约束力与推行效能根本上依赖于巨额主权信贷的资金撬动与约束，且其倡导的政策信条呈现出长达数十年的成熟时滞与周期性摇摆。"
 type: concept
 domain: "comparative-education"
-related_count: 55
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -58,6 +58,7 @@ related_persons:
   - "[[Claudio de Moura Castro]]"
   - "[[Gita Steiner-Khamsi]]"
   - "[[Jason Beech]]"
+  - "[[Maris O'Rourke]]"
 related_facts:
   - "[[World Bank]]"
   - "[[UNESCO]]"
@@ -67,6 +68,7 @@ related_facts:
   - "[[Global Education Monitoring Report]]"
   - "[[Education at a Glance]]"
   - "[[Skills Toward Employment and Productivity]]"
+  - "[[Educational Knowledge Management System]]"
   - "[[Open Knowledge Repository]]"
   - "[[Open Learning Campus]]"
   - "[[Inter-American Development Bank]]"
@@ -153,7 +155,7 @@ updated: 2026-10-23
 > **微弱资金比重与成套西方制度蓝图的输出** [[Jason Beech|杰森·比奇]]（Jason Beech）指出，世界银行自 1963 年发放首笔教育贷款后，至 1995 年已成为发展中国家最大的单一外部出资方；然而，其资金实际占[[Development Education|发展中国家教育]]总开支的比重不足 0.5%。正是因为资金份额有限、无法单靠资本体量主导全局，行长[[James Wolfensohn|沃尔芬森]]才在 1996 年正式宣布转型为“知识银行”。这一转型的制度实质在于：借款国在接受微弱外部信贷的同时，引入了整套由世行统一设计的去情境化教育制度模型。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–346)]]
 
 > [!claim] [[Argument_Zapp_2017_IJED|Zapp (2017)]]
-> **认知治理网络与全球教育研究的垄断性生产** 扎普基于长时段纵向数据论证指出，知识银行的实质在于通过庞大的实体化科研机构（DEC）与出版网络行使认知治理权威。世界银行教育部门自 1996 年起充当全行知识管理系统（EKMS）试点的先导部门；其教育学术产出在 2000 年代初出现爆发式增长，年发文量达到顶尖大学均值的三倍，并依托[[Open Knowledge Repository|开放知识库]]（OKR）与[[Open Learning Campus|开放学习园区]]（OLC）实现了从科学研究生产、指标标准化到全球官员培训的全流程认知覆盖。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–8)]]
+> **认知治理网络与全球教育研究的垄断性生产** 扎普基于长时段纵向数据论证指出，知识银行的实质在于通过庞大的实体化科研机构（DEC）与出版网络行使认知治理权威。世界银行教育部门自 1996 年起充当全行知识管理系统（[[Educational Knowledge Management System|EKMS]]）试点的先导部门；其教育学术产出在 2000 年代初出现爆发式增长，年发文量达到顶尖大学均值的三倍，并依托[[Open Knowledge Repository|开放知识库]]（OKR）与[[Open Learning Campus|开放学习园区]]（OLC）实现了从科学研究生产、指标标准化到全球官员培训的全流程认知覆盖。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–8)]]
 
 ---
 
@@ -183,7 +185,7 @@ updated: 2026-10-23
 > - **1980 — 《教育部门政策文件》与[[UNESCO|教科文组织]]决裂** 世行正式发布具有里程碑意义的政策白皮书，单方面终结此前与联合国教科文组织长达 16 年的《合作协定》，确立了以[[Human Capital Theory|人力资本理论]]与[[Cost-Benefit Analysis|成本效益分析]]为核心的自主教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024, p. 542)]]
 > - **1989 — [[World Development Indicators|世界发展指标]]（World Development Indicators, WDI）确立[[Governing by Numbers|数字治理]]基础** 正式以数据库形式发布世界发展指标，[[Performance Indicators|教育指标]]从最初的 116 项扩展至 1,600 余项，开创跨国量化监测先河，构成了知识银行依托数据重塑全球政策议程的统计基础。
 > - **1995–1996 — 0.5% 资金比重与沃尔芬森“知识银行”战略转型** 1995 年世行成为南方国家最大外部出资方，但其资金占借款国教育总支出不足 0.5%；由于无法仅靠资本体量主导全局，行长沃尔芬森于 1996 年正式宣布转型为“知识银行”，开启以较小资金推动借款国引入成套西方制度方案的时期。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–346)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 472–473)]]
-> - **1996–1998 — 教育部门先导试验与教育知识管理系统（EKMS）奠基** 教育部门率先被确立为全行知识管理系统试点的关键领域；奥鲁克（Maris O'Rourke）主持构建教育知识管理系统（EKMS）与教育咨询服务部，开创了电子化档案与知识仓储转化模板。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–5)]]
+> - **1996–1998 — 教育部门先导试验与教育知识管理系统（EKMS）奠基** 教育部门率先被确立为全行知识管理系统试点的关键领域；奥鲁克（[[Maris O'Rourke]]）主持构建教育知识管理系统（EKMS）与教育咨询服务部，开创了电子化档案与知识仓储转化模板。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–5)]]
 > - **1999 — [[Global Development Network|全球发展网络]]（Global Development Network, GDN）去中心化构想的实践起伏** 建立全球发展网络以期培育全球南方本土研究能力；然而在华盛顿总部的组织惯性下，GDN 逐渐被边缘化，决策权力仍高度集中于总部统筹的评估工具中。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 543)]]
 > - **2000s–至今 — [[Systems Approach for Better Education Results|SABER]] 量规体系、买方市场竞争与自指性中介** 推出改善教育成果系统分析法（SABER）等 13 领域基准诊断量规，确立自指性最佳实践知识库；与此同时，新兴市场国家自主融资能力提升使世行面临更激烈的业务竞争，促使知识银行探索基于成果的信贷等新型治理工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 543–545)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 475–476)]]
 > - **2010–2014 — 开放发展战略、[[Skills Toward Employment and Productivity|STEP]] 跨国技能测评与全球知识集散地成型** 启动开放知识与开放数据倡议，设立开放知识库（OKR）与开放学习园区（OLC），配合 STEP 成人技能测试与 SABER 全球评估，实现从微观借贷向全方位跨国认知治理的系统升级。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]

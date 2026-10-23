@@ -25836,6 +25836,17 @@
     ]
   },
   {
+    "title": "Martin Ravallion",
+    "type": "person",
+    "path": "wiki/persons/australia/Martin Ravallion.md",
+    "aliases": [
+      "马丁·拉瓦利安",
+      "拉瓦利安",
+      "Ravallion, M.",
+      "Martin N. Ravallion"
+    ]
+  },
+  {
     "title": "Michael Traill",
     "type": "person",
     "path": "wiki/persons/australia/Michael Traill.md",
@@ -27441,6 +27452,17 @@
     "aliases": [
       "约翰·奥尼尔",
       "John G. O'Neill"
+    ]
+  },
+  {
+    "title": "Maris O'Rourke",
+    "type": "person",
+    "path": "wiki/persons/new-zealand/Maris O'Rourke.md",
+    "aliases": [
+      "玛丽斯·奥罗克",
+      "奥罗克",
+      "O'Rourke, M.",
+      "Maris L. O'Rourke"
     ]
   },
   {
@@ -31227,6 +31249,15 @@
     ]
   },
   {
+    "title": "ANTRIEP",
+    "type": "fact",
+    "path": "wiki/facts/asia/ANTRIEP.md",
+    "aliases": [
+      "Asian Network of Training and Research Institutions in Educational Planning",
+      "亚洲教育规划培训与研究机构网络"
+    ]
+  },
+  {
     "title": "SEA-PLM",
     "type": "fact",
     "path": "wiki/facts/asia/SEA-PLM.md",
@@ -33786,6 +33817,16 @@
     ]
   },
   {
+    "title": "Planipolis",
+    "type": "fact",
+    "path": "wiki/facts/global/Planipolis.md",
+    "aliases": [
+      "IIEP Planipolis",
+      "UNESCO Planipolis",
+      "全球教育政策门户"
+    ]
+  },
+  {
     "title": "African Orphan Crops Consortium",
     "type": "fact",
     "path": "wiki/facts/global/African Orphan Crops Consortium.md",
@@ -33863,6 +33904,15 @@
       "世界银行发展经济学研究局",
       "World Bank DEC",
       "Development Economics Vice Presidency (DEC)"
+    ]
+  },
+  {
+    "title": "Early Childhood Development Action Network",
+    "type": "fact",
+    "path": "wiki/facts/global/Early Childhood Development Action Network.md",
+    "aliases": [
+      "ECDAN",
+      "早期儿童发展行动网络"
     ]
   },
   {
@@ -33980,6 +34030,15 @@
     "aliases": [
       "国际开发协会",
       "IDA"
+    ]
+  },
+  {
+    "title": "International Initiative for Impact Evaluation",
+    "type": "fact",
+    "path": "wiki/facts/global/International Initiative for Impact Evaluation.md",
+    "aliases": [
+      "3ie",
+      "国际影响评估倡议"
     ]
   },
   {
@@ -34422,6 +34481,16 @@
     ]
   },
   {
+    "title": "Better Early Learning and Development at Scale",
+    "type": "fact",
+    "path": "wiki/facts/global/Better Early Learning and Development at Scale.md",
+    "aliases": [
+      "BELDS",
+      "优质早期学习与规模化发展倡议",
+      "大规模优质早期学习与发展计划"
+    ]
+  },
+  {
     "title": "Build Back Better World",
     "type": "fact",
     "path": "wiki/facts/global/Build Back Better World.md",
@@ -34503,6 +34572,29 @@
       "EPO",
       "教育政策展望",
       "OECD Education Policy Outlook"
+    ]
+  },
+  {
+    "title": "Educational Knowledge Management System",
+    "type": "fact",
+    "path": "wiki/facts/global/Educational Knowledge Management System.md",
+    "aliases": [
+      "教育知识管理系统",
+      "EKMS",
+      "世界银行教育知识管理系统",
+      "World Bank EKMS",
+      "Education Knowledge Management System"
+    ]
+  },
+  {
+    "title": "Global Development Learning Network",
+    "type": "fact",
+    "path": "wiki/facts/global/Global Development Learning Network.md",
+    "aliases": [
+      "全球发展学习网络",
+      "全球远程学习网络",
+      "GDLN",
+      "Global Development Learning Network (GDLN)"
     ]
   },
   {

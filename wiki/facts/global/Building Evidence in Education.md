@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -52,6 +52,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[UNICEF]]"
   - "[[UNESCO]]"
+  - "[[International Initiative for Impact Evaluation]]"
   - "[[Start Making a Reader Today]]"
   - "[[Learning Data Compact]]"
   - "[[Systems Approach for Better Education Results]]"
@@ -67,7 +68,7 @@ updated: 2026-10-23
 ---
 
 > [!claim] 核心定位
-> 构建教育证据工作组（Building Evidence in Education Working Group，简称 BE2）是由主要双边援助署、[[Multilateral Development Bank|多边发展银行]]及联合国机构组成的高级别捐助国协同组织，旨在通过统一实证证据评估规程、协调科研资助标准与推行严格评估技术，主导[[International Education\|国际教育]]发展领域的循证政策议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> 构建教育证据工作组（Building Evidence in Education Working Group，简称 BE2）是由主要双边援助署、[[Multilateral Development Bank|多边发展银行]]及联合国机构组成的高级别捐助国协同组织，旨在通过统一实证证据评估规程、协调科研资助标准与推行严格评估技术，主导[[International Education\|国际教育]]发展领域的循证政策议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 545–546)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2012 年在伦敦由[[World Bank\|世界银行]]、英国国际发展部（DFID，现 FCDO）与美国国际开发署（USAID）共同发起设立。当时正值新自由主义[[Output-Oriented Governance\|结果导向治理]]深化，主要出资国要求对动辄数十亿美元的跨国教育援助项目实施更加严苛的证据审查与成本效益核算。
@@ -79,13 +80,13 @@ updated: 2026-10-23
 
 > [!dev-timeline] 组织发展历程
 > - **2012–2014 — 联盟创设与标准统一** [[World Bank\|世界银行]]联手英美双边发展机构正式组建 BE2，发布首版评估方法论指导框架，力推[[Randomised Controlled Trials\|随机对照试验]]（RCTs）作为教育干预有效性的核心基准。
-> - **2015–2020 — 扩容与指南体系建设** 吸收澳大利亚外交贸易部（DFAT）、[[UNICEF\|联合国儿童基金会]]（UNICEF）、[[UNESCO\|联合国教科文组织]]（UNESCO）等机构以观察员或轮值成员身份加入；联合国际影响评估倡议（3ie）等机构发布教育干预[[Cost-Benefit Analysis|成本效益分析]]标准指南。
-> - **2021–至今 — [[Governing by Numbers\|数字治理]] 2.0 时代的同盟强化** 在全球证据供给过量与多边竞争加剧的背景下，BE2 进一步强化排他性协作网络，通过共同资助与证据准入白名单机制，巩固捐助方在[[International Education\|国际教育]][[Policy Brokerage\|政策中介]]中的[[Discourse|话语]]霸权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> - **2015–2020 — 扩容与指南体系建设** 吸收澳大利亚外交贸易部（DFAT）、[[UNICEF\|联合国儿童基金会]]（UNICEF）、[[UNESCO\|联合国教科文组织]]（UNESCO）等机构以观察员或轮值成员身份加入；联合[[International Initiative for Impact Evaluation|国际影响评估倡议]]（3ie）等机构发布教育干预[[Cost-Benefit Analysis|成本效益分析]]标准指南。
+> - **2021–至今 — [[Governing by Numbers\|数字治理]] 2.0 时代的同盟强化** 在全球证据供给过量与多边竞争加剧的背景下，BE2 进一步强化排他性协作网络，通过共同资助与证据准入白名单机制，巩固捐助方在[[International Education\|国际教育]][[Policy Brokerage\|政策中介]]中的[[Discourse|话语]]霸权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 545–546)]]
 
 ---
 
 > [!actor-grid] 组织治理架构
-> - **三驾马车核心领导层** [[World Bank\|世界银行]]集团（World Bank Group）、英国外交联邦及发展事务部（FCDO）与美国国际开发署（USAID）— 长期掌控工作组核心议程设置权与资金导向。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
+> - **三驾马车核心领导层** [[World Bank\|世界银行]]集团（World Bank Group）、英国外交联邦及发展事务部（FCDO）与美国国际开发署（USAID）— 长期掌控工作组核心议程设置权与资金导向。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 546)]]
 > - **轮值多边合作方** 包括 [[UNICEF]]、[[UNESCO]] 等联合国系统机构，实行轮值席位机制，参与特定专题指南的联合审议。
 > - **技术专家与循证网络** 紧密链接阿卜杜勒·拉蒂夫·贾米尔贫困行动实验室（J-PAL）、创新贫困行动组织（[[Interpretive Policy Analysis|IPA]]）等顶尖实证评估智库。
 
@@ -107,13 +108,13 @@ updated: 2026-10-23
 ---
 
 > [!indicators] 影响力维度与指标
-> - **资金调配杠杆** BE2 成员机构掌控着全球超过 60% 的官方双边与多边基础教育发展援助资金，其标准直接决定了巨额资金的投放去向。
+> - **资金调配枢纽功能** BE2 成员机构掌控着全球超过 60% 的官方双边与多边基础教育发展援助资金，其标准直接决定了巨额资金的投放去向。
 > - **[[Paradigm\|研究范式]]重塑** 迫使全球发展中国家及从事[[International Education\|国际教育]]研究的高校学者全面转向实验设计与微观经济计量学，极大边缘化了传统比较教育学的历史与[[Qualitative Research\|质性研究]]范式。
 > - **政策转移强制力** 经由 BE2 审核通过的“最佳实践”被无缝嵌入[[World Bank\|世界银行]]与受援国签署的贷款发展政策目标中，具备强烈的准法律约束力。
 
 > [!finding-cards] 关键成效与辐射影响
 > - **巩固[[Positivism\|实证主义]]霸权** 将[[Randomised Controlled Trials\|随机对照实验]]（RCT）与定量影响评估彻底塑造成国际教育发展治理的唯一科学合法来源。
-> - **重构跨国[[Policy Brokerage\|政策中介]]** 改变了以往各机构各自为战的局面，形成高度协同的跨国捐助方联合战线，以硬事实筑起统一的政策干预战壕。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> - **重构跨国[[Policy Brokerage\|政策中介]]** 改变了以往各机构各自为战的局面，形成高度协同的跨国捐助方联合战线，以硬事实筑起统一的政策干预战壕。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 545–546)]]
 
 ---
 
@@ -122,11 +123,11 @@ updated: 2026-10-23
 > > [!axis] 排他性同盟与多边民主赤字
 > > 批判学者指责 BE2 是西方富国出资方与跨国金融寡头组建的排他性俱乐部；官方捍卫者则坚称其只是技术专家提升援助效率的专业协作网络。
 > >
-> > - **批判学者立场** 揭示其在表面开放透明的数字时代组建排他同盟，将全球南方国家及其本土学者彻底排除在知识标准制定之外，实质是新自由主义证据霸权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> > - **批判学者立场** 揭示其在表面开放透明的数字时代组建排他同盟，将全球南方国家及其本土学者彻底排除在知识标准制定之外，实质是新自由主义证据霸权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 545–546)]]
 > > - **捐助机构立场** 强调面对受援国紧迫的[[Learning Crisis|学习贫困]]危机，出资方必须对本国纳税人负责，依靠最高科学标准的实证证据优化稀缺资金配置。
 
 > [!citation-card] 排他性同盟与[[Evidence Standards\|证据标准]]垄断批判
-> 数字化经济时代的信息过量造成了一种看似矛盾的格局：即便国际组织之间在资金与影响力上激烈竞争，它们仍依赖数据共享与网络化平台来维持受众。然而，在普遍开放的表象之下，[[Emergence\|涌现]]出在排斥其他组织的前提下组建同盟与网络的浪潮，例如由[[World Bank\|世界银行]]、英国外交联邦及发展事务部（FCDO）、美国国际开发署（USAID）与一个轮值联合国机构构成的构建教育证据联盟（BE2）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> 数字化经济时代的信息过量造成了一种看似矛盾的格局：即便国际组织之间在资金与影响力上激烈竞争，它们仍依赖数据共享与网络化平台来维持受众。然而，在普遍开放的表象之下，[[Emergence\|涌现]]出在排斥其他组织的前提下组建同盟与网络的浪潮，例如由[[World Bank\|世界银行]]、英国外交联邦及发展事务部（FCDO）、美国国际开发署（USAID）与一个轮值联合国机构构成的构建教育证据联盟（BE2）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 545–546)]]
 >
 > *As a result, there is a surge in coalition building and networking activities among some IOs at the exclusion of others, such as in the Building Evidence in Education (BE2) (World Bank Group, FCDO, USAID, and one rotating UN agency) or the [[Learning Data Compact]] ([[UNESCO]], [[UNICEF]], World Bank).*
 

@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_persons:
 related_facts:
   - "[[World Bank]]"
   - "[[World Bank Institute]]"
+  - "[[Global Development Learning Network]]"
   - "[[Open Knowledge Repository]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[Development Economics Vice Presidency]]"
@@ -98,7 +99,7 @@ updated: 2026-10-23
 ## 推进历程与阶段演进
 
 > [!dev-timeline] 项目推进历程
-> - **2000–2012 — [[Distance Education|远程教育]]网络与电子学院探索期** 依托全球发展学习网络（GDLN）与电子学院（e-Institute）开展小范围视频连线研修。
+> - **2000–2012 — [[Distance Education|远程教育]]网络与电子学院探索期** 依托[[Global Development Learning Network|全球发展学习网络]]（GDLN）与电子学院（e-Institute）开展小范围视频连线研修。
 > - **2013–2016 — OLC 平台创设与名校生态拓展期** 2013 年正式挂牌 OLC，接入 Coursera 与 edX 生态，开设百余门教育与治理微课程。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4, 8)]]
 > - **2016–至今 — 云端泛在学习与微证书常态化运行期** 2016 年全行发布新版 OLC，深度联动[[Open Knowledge Repository|开放知识库]]文献与[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）诊断案例，构建全天候数字化培训生态。
 

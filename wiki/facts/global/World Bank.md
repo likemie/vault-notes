@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 108
+fact_related_count: 109
 fact_related_level: 10
 fact_related_stars: "💎💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -112,6 +112,7 @@ related_facts:
   - "[[International Monetary Fund]]"
   - "[[World Education Indicators]]"
   - "[[Poverty Reduction Strategy Papers]]"
+  - "[[Educational Knowledge Management System]]"
   - "[[Global Development Network]]"
   - "[[Open Knowledge Repository]]"
   - "[[Skills Toward Employment and Productivity]]"
@@ -194,7 +195,7 @@ updated: 2026-10-23
 >
 >   [[James Wolfensohn|詹姆斯·沃尔芬森]]（James Wolfensohn）主导世行转型为知识银行。比奇指出，这意味着借款国在获得有限资金的同时，被迫成套借入西方技术官僚量身打造的整套教育制度愿景；而[[Claudio de Moura Castro|卡斯特罗]]（Castro）的实务观察表明，借款国重视世行建议的根本原因在于背后捆绑的主权贷款支持，脱离资金的纯政策咨询会重蹈教科文组织的无效覆辙。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–346)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 472–473)]]
 >
->   - **1996** 正式宣布向知识银行（Knowledge Bank）转型，输出涵盖分权、[[School Autonomy|学校自主]]、教师专业化、能力本位与中央测评五大支柱的制度愿景；教育部门率先设立教育知识管理系统（EKMS）与教育咨询服务部开展数字化知识集散先导试验。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–5)]]
+>   - **1996** 正式宣布向知识银行（Knowledge Bank）转型，输出涵盖分权、[[School Autonomy|学校自主]]、教师专业化、能力本位与中央测评五大支柱的制度愿景；教育部门率先设立[[Educational Knowledge Management System|教育知识管理系统]]（EKMS）与教育咨询服务部开展数字化知识集散先导试验。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–5)]]
 >   - **1999** 创设[[Global Development Network|全球发展网络]]（Global Development Network，GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但很快被华盛顿总部集权的工具所取代。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024b, p. 543)]]
 >   - **2000s** 在公共服务提供上日益绕过受援国政府，直接委托非政府组织提供教育，架空国家公共权威，促使非政府组织转变为去政治化的影子国家。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004; Kamat, 2004, cited in Arnove, 2009, pp. 111–112)]]
 >   - **2010–2014** 启动开放发展倡议与[[Open Knowledge Repository|开放知识库]]（OKR），实施 [[Skills Toward Employment and Productivity|STEP]] 成人技能测试，并将集中化政策诊断体系升级为涵盖 13 个领域的 [[Systems Approach for Better Education Results|SABER]] 系统。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 7–8)]]
