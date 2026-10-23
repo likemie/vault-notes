@@ -16,6 +16,7 @@ fact_related_color: "#dcfce7"
 org_type: "国际独立教育政策实证中介智库与非营利基金会"
 headquarters: "苏黎世（瑞士）"
 established: "2020"
+official_website: "https://education.org/"
 tags:
   - fact/organization
   - region/global
@@ -59,6 +60,7 @@ updated: 2026-10-23
 > - **总部地点 / 国际团队** 法定注册地位于瑞士苏黎世，核心专业团队分布于日内瓦、伦敦、巴黎及内罗毕等多地。
 > - **法人属性与管理领导** 独立的免税国际慈善信托基金会，由前 UNESCO [[International Institute for Educational Planning|国际教育规划研究所]]（IIEP）所长苏珊·格兰特·路易斯（Dr. Suzanne Grant Lewis）出任教育科学与政策负责人，汇聚了前教育部官员、发展经济学家与资深规划师。
 > - **核心宗旨与法定职责** 汇聚同行评审文献与未发表的优质前线实践证据，通过严谨方法学提炼出可操作的政策洞见，辅助中低收入国家决策者优化公共预算与改革设计。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 14, 57)]]
+> - **官方平台与在线门户** 官方门户为 [Education.org](https://education.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

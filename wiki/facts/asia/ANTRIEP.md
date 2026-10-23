@@ -16,6 +16,7 @@ fact_related_color: "#dcfce7"
 org_type: "区域教育规划科研与培训机构网络"
 headquarters: "新德里（印度，常设秘书处）"
 established: "1995"
+official_website: "http://www.antriep.net/"
 tags:
   - fact/organization
   - region/asia
@@ -53,6 +54,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 常设协调机构设于印度国立教育规划与行政大学（NIEPA，新德里），成员网络覆盖中国、印度、孟加拉国、印度尼西亚、马来西亚、尼泊尔、巴基斯坦、菲律宾、斯里兰卡、泰国、越南等国。
 > - **法人属性与经费基础** 区域非营利学术与培训联合体，依托各成员机构自有国库预算分担，并获得 UNESCO IIEP 及多边发展基金会的课题支持。
 > - **核心宗旨与法定职责** 促进亚洲教育规划机构之间的信息共享、合作研究与师资交流，提升国家部委中层与督导人员的循证规划能力。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 8)]]
+> - **官方平台与在线门户** 官方门户为 [Asian Network of Training and Research Institutions in Educational Planning (ANTRIEP)](http://www.antriep.net/)，提供核心业务信息与公开资源检索。
 
 ---
 

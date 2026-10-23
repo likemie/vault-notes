@@ -18,6 +18,7 @@ fact_related_color: "#dcfce7"
 org_type: intergovernmental-steering-body
 headquarters: "Paris, France"
 established: "2021"
+official_website: "https://www.unesco.org/en/education/high-level-steering-committee"
 tags:
   - fact/organization
   - region/global
@@ -65,6 +66,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 秘书处设于法国巴黎联合国教科文组织总部，业务统领覆盖教科文组织全球五大区域（非洲、阿拉伯国家、亚太、欧洲与北美、拉美及加勒比）的全体成员国。
 > - **法人属性与经费基础** 依托联合国专门机构法权设立的跨政府与多利益相关者常设协调机制；运作由教科文组织常规预算、专项信托基金以及多边发展伙伴协同注资支持。
 > - **核心宗旨与法定职责** 确保全球教育合作围绕共同优先事项紧密协同，促进政策制定层面的多边经验共享，保障对教育目标的战略问责，并动员全球政治与财务承诺。
+> - **官方平台与在线门户** 官方门户为 [SDG 4 High-Level Steering Committee (HLSC)](https://www.unesco.org/en/education/high-level-steering-committee)，提供核心业务信息与公开资源检索。
 
 ---
 

@@ -18,6 +18,7 @@ fact_related_color: "#dcfce7"
 org_type: "联合国教科文组织一类机构（Category 1 Centre）"
 headquarters: "波恩（德国）"
 established: "2000"
+official_website: "https://unevoc.unesco.org/"
 tags:
   - fact/organization
   - region/global
@@ -59,6 +60,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 设于德国波恩，通过全球 UNEVOC 网络直接辐射欧洲、北美、亚太、非洲、阿拉伯国家以及拉丁美洲和加勒比地区的 160 多个成员国。
 > - **法人属性与经费基础** 联合国教科文组织专门机构，依托[[Federal Ministry of Education and Research|德国联邦教育与研究部]]（BMBF）、联邦经济合作与发展部（BMZ）的主办国常态财政支持，以及国际多边捐赠与项目赠款。
 > - **核心宗旨与法定职责** 提升成员国职业教育政策的实证基础，支持各国推进[[UN Sustainable Development Goals|可持续发展目标]]第 4 项第 4 款（SDG 4.4，青年与成年人就业技能），通过技能预测、数字转型与绿色技能开发支持职业教育体系制度变革。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 23, 44)]]
+> - **官方平台与在线门户** 官方门户为 [UNESCO-UNEVOC International Centre for TVET](https://unevoc.unesco.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

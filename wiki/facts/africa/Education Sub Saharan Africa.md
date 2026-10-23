@@ -16,6 +16,7 @@ fact_related_color: "#dcfce7"
 org_type: "区域教育研究中介组织与慈善智库"
 headquarters: "阿克拉（加纳）与海威科姆（英国）"
 established: "2016"
+official_website: "https://essa-africa.org/"
 tags:
   - fact/organization
   - region/africa
@@ -55,6 +56,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 在加纳阿克拉设立非洲区域办事处，并在英国海威科姆设立联络处，业务辐射加纳、肯尼亚、尼日利亚、卢旺达、坦桑尼亚等撒哈拉以南非洲多数国家。
 > - **法人属性与经费基础** 英国注册慈善机构（Registered Charity）及非洲本土非营利法人，资金主要来自国际慈善基金会（如[[Mastercard Foundation|万事达卡基金会]]、卡内基公司、[[Jacobs Foundation|雅各布斯基金会]]）及多边研究资助。
 > - **核心宗旨与法定职责** 聚合与合成撒哈拉以南非洲高等教育领域的本土实证，解决青年就业、师资匮乏与教育公平等结构性问题，提升政策决策的数据驱动力。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 19, 58)]]
+> - **官方平台与在线门户** 官方门户为 [Education Sub Saharan Africa (ESSA)](https://essa-africa.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

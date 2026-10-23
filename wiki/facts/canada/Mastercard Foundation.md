@@ -15,6 +15,7 @@ fact_related_color: "#dcfce7"
 org_type: "独立私立慈善基金会"
 headquarters: "多伦多（加拿大）与基加利（卢旺达，非洲运营总部）"
 established: "2006"
+official_website: "https://mastercardfdn.org/"
 tags:
   - fact/organization
   - region/canada
@@ -53,6 +54,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 法定总部位于加拿大多伦多，非洲运营中枢设立于卢旺达基加利，并在加纳、肯尼亚、塞内加尔、埃塞俄比亚、乌干达、尼日利亚等国设立常设区域办公室。
 > - **法人属性与经费基础** 加拿大独立非营利慈善信托机构，拥有数百亿美元的捐赠资产规模，依托股权信托增值实现长期常态化资助。
 > - **核心宗旨与法定职责** 推进“非洲青年就业战略（Young Africa Works）”，计划到 2030 年支持 3000 万非洲青年（特别是年轻女性）获得体面与有尊严的工作，强化非洲高等教育与职业技能实证研究。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 19, 42)]]
+> - **官方平台与在线门户** 官方门户为 [Mastercard Foundation](https://mastercardfdn.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

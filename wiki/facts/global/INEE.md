@@ -17,6 +17,7 @@ fact_related_color: "#dcfce7"
 org_type: 国际政府与非政府专题协作网络（International Inter-Agency Collaborative Network）
 headquarters: 纽约 / 日内瓦（分布式秘书处）
 established: "2000"
+official_website: "https://inee.org/"
 tags:
   - fact/organization
   - region/global
@@ -58,6 +59,7 @@ updated: 2026-10-23
 > - **总部地点与网络规模** 秘书处采取分布式运作，在纽约、日内瓦等地设立常设联络机制；拥有覆盖全球 170 多个国家逾 18,000 名跨部门个人会员与机构代表。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 73)]]
 > - **法人属性与合作机制** 属于非实体化的全球自愿性多边协作平台，日常运作由指导小组（Steering Group）的多边机构席位共同维持，接受多国双边援助署与国际基金会的专项资助。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 22, 73)]]
 > - **核心使命** 确保所有处于紧急状态和危机恢复期的儿童与青少年享有安全、优质与有尊严的受教育机会。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 73)]]
+> - **官方平台与在线门户** 官方门户为 [Inter-agency Network for Education in Emergencies (INEE)](https://inee.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

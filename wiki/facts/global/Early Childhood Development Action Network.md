@@ -16,6 +16,7 @@ fact_related_color: "#dcfce7"
 org_type: "全球多利益相关方循证倡导与实践网络"
 headquarters: "华盛顿特区（美国）"
 established: "2016"
+official_website: "https://ecdan.org/"
 tags:
   - fact/organization
   - region/global
@@ -57,6 +58,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 秘书处常设于美国华盛顿特区，业务网络覆盖全球 100 多个国家，下设非洲、亚洲、拉丁美洲等区域分支工作组。
 > - **法人属性与经费基础** 独立的非营利国际伙伴关系网络，依托比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]、儿童投资基金会（CIFF）以及世界银行等多边机构专项基金托管运营。
 > - **核心宗旨与法定职责** 倡导基于科学实证的儿童早期投资，促进脑神经科学研究向国家公共政策转化，确保每个儿童在认知、身体与社会情感方面获得充分发展。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 15)]]
+> - **官方平台与在线门户** 官方门户为 [Early Childhood Development Action Network (ECDAN)](https://ecdan.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

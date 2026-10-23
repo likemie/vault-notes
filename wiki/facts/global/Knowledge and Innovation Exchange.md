@@ -16,6 +16,7 @@ fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2019–至今"
+official_website: "https://www.gpekix.org/"
 initiator_organization: "[[Global Partnership for Education]]"
 tags:
   - fact/program
@@ -67,6 +68,7 @@ updated: 2026-10-23
 > - **发起方与资助机制** 由全球教育伙伴关系与加拿大国际发展研究中心联合设立，初期获得 GPE 划拨的约 7,500 万美元专项基金及 IDRC 配套研发资金。
 > - **覆盖范围与对象** 覆盖全球 70 余个具备 GPE 资助资格的低收入与中低收入主权国家，按地理分布设立四大区域知识中介枢纽。
 > - **核心问题导向** 应对海量跨国研究证据与政策实践脱节的“[[Research Utilization|知识利用]]赤字”，改变以往国际组织仅在华盛顿或日内瓦总部被动储存报告的静态模式，主动打通全球证据下沉至国家教育决策部门的通道。
+> - **官方平台与在线门户** 官方门户为 [GPE Knowledge and Innovation Exchange (KIX)](https://www.gpekix.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

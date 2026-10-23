@@ -15,6 +15,7 @@ fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "2012–至今"
+official_website: "https://pilna.eqap.spc.int/"
 initiator_organization: "太平洋共同体教育质量与评估项目（EQAP/SPC）"
 tags:
   - fact/program
@@ -52,6 +53,7 @@ updated: 2026-10-23
 > - **发起方与资助机制** 由太平洋共同体（SPC）常设的教育质量与评估项目（EQAP）主导，主要资金依托澳大利亚政府外交贸易部（DFAT）及新西兰外交贸易部（MFAT）的长期区域援助计划。
 > - **覆盖范围与对象** 覆盖库克群岛、密克罗尼西亚联邦、斐济、基里巴斯、瑙鲁、纽埃、帕劳、巴布亚新几内亚、马绍尔群岛、萨摩亚、所罗门群岛、托克劳、汤加、图瓦卢、瓦努阿图等 15 个太平洋岛国，抽样逾千所岛屿学校的数万名学生。
 > - **核心问题导向** 针对小岛屿国家地广人稀、外岛交通极其不便、偏远岛屿复式教学师资匮乏及气候脆弱性等对基础学力的深层制约。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 16)]]
+> - **官方平台与在线门户** 官方门户为 [Pacific Islands Literacy and Numeracy Assessment (PILNA)](https://pilna.eqap.spc.int/)，提供核心业务信息与公开资源检索。
 
 ---
 

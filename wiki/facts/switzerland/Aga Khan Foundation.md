@@ -16,6 +16,7 @@ fact_related_color: "#dcfce7"
 org_type: "国际非教派私立发展与慈善基金会"
 headquarters: "日内瓦（瑞士）"
 established: "1967"
+official_website: "https://www.akdn.org/our-agencies/aga-khan-foundation"
 tags:
   - fact/organization
   - region/switzerland
@@ -61,6 +62,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 总部常设于瑞士日内瓦，在阿富汗、孟加拉国、印度、吉尔吉斯斯坦、莫桑比克、巴基斯坦、塔吉克斯坦、肯尼亚、坦桑尼亚、乌干达等国设立了常设国家办事处与教育支持网络。
 > - **法人属性与经费基础** 独立的国际私立慈善基金会，依托私立禀赋基金、全球捐赠伙伴及与国际多边组织（[[World Bank|世界银行]]、[[EU|欧盟]]等）的联合赠款协同运作。
 > - **核心宗旨与法定职责** 破除代际贫困循环，通过支持全人发展、包容性幼教与优质基础教育，提升国家教育系统的制度弹性与公平性。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 14)]]
+> - **官方平台与在线门户** 官方门户为 [Aga Khan Foundation (AKF)](https://www.akdn.org/our-agencies/aga-khan-foundation)，提供核心业务信息与公开资源检索。
 
 ---
 

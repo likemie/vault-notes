@@ -62,7 +62,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-23
 year: 2019
 doi: ""
 citation_aliases:
@@ -73,7 +73,7 @@ citation_aliases:
 > 为什么以 [[Randomised Controlled Trials\|RCT]] 和[[Systematic Review\|系统综述]]为核心的[[Evidence-Based Education\|证据本位教育]]（EBE）在教育中占据主导地位，尽管其[[Epistemology\|认识论]]局限（如 Biesta 2010 的系统批判）已被充分论证？EBE 究竟在为谁服务，以及它为何在已知缺陷的情况下仍对决策者有吸引力？
 >
 > > “我在这里提出的是，EBE（循证教育）的某些特征使其对政策制定者具有吸引力，或者至少是无争议和安全的。”
-> ("What I propose here is that there are features of EBE that make it attractive, or at least uncontroversial and safe, to policymakers.") (p. 3)
+> ("What I propose here is that there are features of EBE that make it attractive, or at least uncontroversial and safe, to policymakers.")
 
 > [!abstract] 理论框架
 > - **Tullock 的[[Tullock's Bureaucracy Theory\|官僚制理论]](Tullock, 2005)** — [[Bureaucracy|官僚制]]是信息处理金字塔，主权者面临的核心难题是[[Knowledge Questions\|知识问题]]和委托困境，而非简单的自利/机会主义
@@ -102,7 +102,7 @@ citation_aliases:
 > - 元分析 "成功" 可能只是因为方便采样的人口和环境具有系统性共性，而非干预的普遍有效性
 >
 > > “即使是对许多高质量 RCT 进行的[[Systematic Review\|系统综述]]或元分析，也不能为将其应用于新人群提供多少认识论保证。”
-> ("Even a systematic review or meta-analysis of many high-quality RCTs provides little epistemic warrant for applying to a new population.") (p. 5)
+> ("Even a systematic review or meta-analysis of many high-quality RCTs provides little epistemic warrant for applying to a new population.")
 >
 > 其他方法（准实验、自然实验、工具[[Variable\|变量]]、差异中差、定性方法如[[Process Tracing|过程追踪]]和分析性叙事）在特定条件下可能提供更准确的政策效应估计。
 >
@@ -119,7 +119,7 @@ citation_aliases:
 > - 研究结果以简化的[[Effect Size\|效应量]]呈现 → 可直接转化为问责反馈
 >
 > > “正式标准对统治者（决策者）的优势在于，她不必探索研究证据的细节，不必对特定干预做出判断，也不必评估个别专家的途径和行为。”
-> ("The advantage of formal criteria for the sovereign is that she does not have to explore the details of research evidence, pass judgement on specific interventions, or evaluate the approach and conduct of individual experts.") (p. 10)
+> ("The advantage of formal criteria for the sovereign is that she does not have to explore the details of research evidence, pass judgement on specific interventions, or evaluate the approach and conduct of individual experts.")
 >
 > ### 3. 透明幻象的代价
 >
@@ -132,7 +132,7 @@ citation_aliases:
 > 因此 EBE 产生的结果 **"对政策制定者透明，对教学专业人员不相关"**——它解决了主权者的委托问题，但牺牲了教育实践的有效性。
 >
 > > “在[[Research Utilization\|证据使用]]上挑挑拣拣是很容易的……但是，政策制定者越来越多地不仅决定承认哪些证据、忽略哪些证据。他们现在制定政策来界定首先什么类型的研究证据值得生产。”
-> ("Being selective about one's use of evidence is easy enough... But, increasingly, policymakers do more than determine what evidence to acknowledge and which to ignore. They now develop policies defining what sort of research evidence is worth producing in the first place.") (pp. 2–3)
+> ("Being selective about one's use of evidence is easy enough... But, increasingly, policymakers do more than determine what evidence to acknowledge and which to ignore. They now develop policies defining what sort of research evidence is worth producing in the first place.")
 >
 > ### 4. 系统层面的盲区
 >
@@ -142,7 +142,7 @@ citation_aliases:
 > - 伦敦弱势学生成绩改善的谜题——长期跨党派政治承诺、地理位置邻近决策中心——在 EBE 框架内无法解释
 >
 > > “EBE 的出发点是存在既定的可用资源……这就回避了教育学术研究的一个重要结论：资源很重要。”
-> ("The point of departure for EBE is that there are given resources available... This avoids an important conclusion of academic research in education: Resources matter.") (p. 13)
+> ("The point of departure for EBE is that there are given resources available... This avoids an important conclusion of academic research in education: Resources matter.")
 
 > [!success] 主要发现
 > 1. **[[Evidence-Based Education\|EBE]] 的持续影响力不能用[[Epistemology\|认识论]]优越性来解释**——需要从制度逻辑（官僚委托需求）来理解
@@ -157,16 +157,16 @@ citation_aliases:
 
 > [!quote] 关键引用
 > > “实验范式对政策制定者产生了不成比例的影响，因为它在指导中央集权官僚机构政策方面能发挥特殊作用。”
-> ("The experimental paradigm exerts disproportionate influence on policymakers because of the particular role it can play in guiding the policy of a centralised bureaucracy.") (p. 14)
+> ("The experimental paradigm exerts disproportionate influence on policymakers because of the particular role it can play in guiding the policy of a centralised bureaucracy.")
 >
 > > “新奇性的吸引力也提供了一些解释。新政府倾向于通过指出前任失败的政策来取代他们，因此引入创新性改革有着强烈的必要性。”
-> ("The attraction of novelty also offers some explanation. New governments tend to displace incumbents by pointing out their failed policies so there is a strong imperative to introduce innovative reforms.") (p. 10)
+> ("The attraction of novelty also offers some explanation. New governments tend to displace incumbents by pointing out their failed policies so there is a strong imperative to introduce innovative reforms.")
 >
 > > “‘不是你花了多少钱，而是你花钱的方式……那才是产生结果的原因。’这回避了一个重要结论：资源很重要。投入学校的资金越多，就能带来可预测的成绩提升。”
-> ("It's not what you spend, it's the way that you spend it …that's what gets results.' This avoids an important conclusion: Resources matter. More funding going into schools leads to predictably improved results.") (pp. 13–14)
+> ("It's not what you spend, it's the way that you spend it …that's what gets results.' This avoids an important conclusion: Resources matter. More funding going into schools leads to predictably improved results.")
 >
 > > “如果能切断（或至少放宽）[[Evidence-Based Education\|证据本位教育]]（EBE）与行政问责机制之间的这种关联，同时减少对实验证据的依赖，EBE 可能会变得更有用。”
-> ("[[Evidence-Based Education\|EBE]] could become substantially more useful if this link with administrative accountability was severed, or at least loosened, along with the reliance on experimental evidence.") (p. 11)
+> ("[[Evidence-Based Education\|EBE]] could become substantially more useful if this link with administrative accountability was severed, or at least loosened, along with the reliance on experimental evidence.")
 
 > [!warning] 局限性与批评
 > ### 行为主体的动机假设未充分展开
@@ -181,7 +181,7 @@ citation_aliases:
 >
 > **批评内容** Cowen 的三项政策建议——(a) 切断 EBE 与行政问责机制的捆绑；(b) 拥抱从准实验到定性分析的方法多元论；(c) 承认物质资源的系统性影响——在分析上具有说服力，但其政治可行性在文章中未得到充分讨论。切断 EBE 与问责的捆绑意味着改变整个公共部门治理逻辑（从"基于证据的问责"转向什么？），这需要替代性的问责机制。
 >
-> **Cowen 的自我限定** Cowen (p. 14) 承认其分析主要用于"诊断"而非"处方"——揭示 EBE 的制度功能比提供完整的替代方案更为紧迫。
+> **Cowen 的自我限定** Cowen 承认其分析主要用于"诊断"而非"处方"——揭示 EBE 的制度功能比提供完整的替代方案更为紧迫。
 >
 > **目前状态** 此批评指出了从诊断到处方的鸿沟——这是许多批判性制度分析的共同局限。
 >
@@ -195,7 +195,7 @@ citation_aliases:
 >
 > ### "为什么是现在"的解释有限
 >
-> **批评内容** Cowen (p. 10) 坦承其模型只能对"为什么 EBE 在此刻（21 世纪初）而非其他时期占据主导"提供尝试性假说——指向英国 1988 年以来的中央化教育改革（创造了需要"远程控制"学校的决策者）和行为经济学的兴起（为 RCT 提供了方法论合法性）。但 Tullock 模型本身是**结构性/功能性**的——它擅长解释 EBE 解决什么问题（制度功能），不擅长解释时机（为什么是现在）。
+> **批评内容** Cowen 坦承其模型只能对"为什么 EBE 在此刻（21 世纪初）而非其他时期占据主导"提供尝试性假说——指向英国 1988 年以来的中央化教育改革（创造了需要"远程控制"学校的决策者）和行为经济学的兴起（为 RCT 提供了方法论合法性）。但 Tullock 模型本身是**结构性/功能性**的——它擅长解释 EBE 解决什么问题（制度功能），不擅长解释时机（为什么是现在）。
 >
 > **可能的扩展方向** 将 Tullock 模型与[[Policy Borrowing\|政策借用]]框架(Steiner-Khamsi, 2012)或[[Historical Institutionalism|历史制度主义]](Thelen, 2004)结合——前者解释时机选择和全球扩散，后者解释制度功能的持续性。
 >

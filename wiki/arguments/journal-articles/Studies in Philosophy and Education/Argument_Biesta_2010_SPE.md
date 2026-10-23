@@ -54,7 +54,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-23
 year: 2010
 doi: ""
 citation_aliases:
@@ -65,7 +65,7 @@ citation_aliases:
 > [[Evidence-Based Education\|证据本位教育]]（Evidence-Based Education）的设想——专业实践（如教育）应以科学研究证据为基础——在何种意义上是可行的？它对证据的期待在[[Epistemology\|认识论]]、存在论和实践论三个维度上存在什么结构性缺陷？如果证据本位不可行，什么应该取而代之？
 >
 > > “因此，重要的问题不在于证据在专业行动中是否应该发挥作用，而在于它应该发挥什么样的作用。”
-> ("The important question, therefore, is not whether or not there should be a role for evidence in professional action, but what kind of role it should play.") (p. 492)
+> ("The important question, therefore, is not whether or not there should be a role for evidence in professional action, but what kind of role it should play.")
 
 > [!abstract] 理论框架
 > - **Dewey 的交易[[Epistemology\|认识论]]（[[Transactional Epistemology]]）** — 替代表象认识论（representational epistemology），论证[[Experimental Research\|实验研究]]无法产生未来确定性的知识
@@ -93,7 +93,7 @@ citation_aliases:
 > - 因此存在结构性的知识缺口：研究证据只能提供**可能性**，无法提供**确定性**
 >
 > > “一种交互性认识论允许我们对过去什么曾经有效做出有保证的断言，但不能对未来什么将会有效做出断言。”
-> ("A [[Transactional Epistemology]] allows us to make warranted assertions about what has worked in the past but not about what will work in the future.") (p. 495)
+> ("A [[Transactional Epistemology]] allows us to make warranted assertions about what has worked in the past but not about what will work in the future.")
 >
 > **第二重：效力缺陷（Efficacy Deficit）——存在论维度**
 >
@@ -105,7 +105,7 @@ citation_aliases:
 > - 因此，干预与效果之间的联系**至多是概率性的、非线性的**——这与医学或农业的因果逻辑截然不同
 >
 > > “许多关于‘什么有效’的谈论都是在机械论本体论的假设下运作的，而这在人类互动领域实际上是个例外，并非寻常状态。”
-> ("Much talk about 'what works' operates on the assumption of a mechanistic ontology that is actually the exception, not the norm in the domain of human interaction.") (p. 497)
+> ("Much talk about 'what works' operates on the assumption of a mechanistic ontology that is actually the exception, not the norm in the domain of human interaction.")
 >
 > **第三重：应用缺陷（Application Deficit）——实践论维度**
 >
@@ -127,7 +127,7 @@ citation_aliases:
 > - 因此，**价值优先于证据**——这不是在否认证据，而是将其定位为从属角色
 >
 > > “关于‘什么有效’的问题——也就是关于教育行动有效性的问题——总是次于关于目的的问题。”
-> ("Questions about 'what works' — that is questions about the effectiveness of educational actions — are always secondary to questions of purpose.") (p. 500)
+> ("Questions about 'what works' — that is questions about the effectiveness of educational actions — are always secondary to questions of purpose.")
 >
 > ### 两种价值判断
 >
@@ -147,19 +147,19 @@ citation_aliases:
 
 > [!quote] 关键引用
 > > “总而言之，这些缺陷不仅对循证实践的理念本身提出了一些重要问题，而且还凸显了规范性、权力和价值观的作用。”
-> ("Taken together these deficits not only raise some important questions about the very idea of evidence-based practice but also highlight the role of normativity, power and values.") (p. 491)
+> ("Taken together these deficits not only raise some important questions about the very idea of evidence-based practice but also highlight the role of normativity, power and values.")
 >
 > > “教育系统通常是开放系统……干预与效果之间的联系是非线性的，并且最多只是概率性的。”
-> ("Educational systems are generally open systems... the connections between intervention and effect are non-linear and, at most, probabilistic.") (p. 497)
+> ("Educational systems are generally open systems... the connections between intervention and effect are non-linear and, at most, probabilistic.")
 >
 > > “因此，化简复杂性应当被理解为一种政治行为。”
-> ("[[Complexity Reduction]] should therefore be understood as a political act.") (p. 498)
+> ("[[Complexity Reduction]] should therefore be understood as a political act.")
 >
 > > “如果没有规范性的导向，没有关于什么是教育上可取之物的决策，没有对教育实践最终目的（telos）的阐明，这些实践根本就不存在——或者至少它们不会作为教育实践而存在。”
-> ("Without normative orientations, without decisions about what is educationally desirable, without an articulation of the telos of educational practices, these practices simply do not exist — or at least they do not exist as educational practices.") (p. 500–501)
+> ("Without normative orientations, without decisions about what is educationally desirable, without an articulation of the telos of educational practices, these practices simply do not exist — or at least they do not exist as educational practices.")
 >
 > > “如果证据是教育实践的唯一基础，教育实践将完全失去方向。这就是为什么在教育中，价值观必须放在首位的一个原因。”
-> ("If evidence were the only base for educational practice, educational practice would be entirely without direction. This is one reason why, in education, values come first.") (p. 500)
+> ("If evidence were the only base for educational practice, educational practice would be entirely without direction. This is one reason why, in education, values come first.")
 
 > [!warning] 局限性与批评
 > ### 哲学论证的实操距离
@@ -174,7 +174,7 @@ citation_aliases:
 >
 > **批评内容** Biesta 将教育定义为 teleological practice（目的性实践），但未充分展开回答一个关键政治问题：在多元社会中，教育的目的（telos）由谁来决定？如何处理不同群体之间的价值冲突（如宗教群体 vs. 世俗群体对性教育的目的分歧）？
 >
-> **Biesta 可能的回应** Biesta (p. 500) 强调教育目的需要通过民主协商来确定——这暗示价值判断不是技术官僚或研究者的特权，而是民主公共领域的事务。但这更多是方向性指引，而非具体的冲突解决机制。
+> **Biesta 可能的回应** Biesta 强调教育目的需要通过民主协商来确定——这暗示价值判断不是技术官僚或研究者的特权，而是民主公共领域的事务。但这更多是方向性指引，而非具体的冲突解决机制。
 >
 > **目前状态** 此批评在教育政治哲学领域持续。Gutmann & Thompson 的审议民主（deliberative democracy）框架可能为价值冲突问题提供补充资源，但 Biesta 在本文中未进行这一对接。
 >
@@ -190,7 +190,7 @@ citation_aliases:
 >
 > **批评内容** 批评者（如 Slavin, 2019）可能指出 Biesta 低估了在特定条件下——如强控制的学校情境（高复杂性化简情境）——量化证据的实际效用。当学校已通过时间表、课程、评估等方式大幅减少了系统的[[Open-Mindedness|开放性]]后，[[Randomised Controlled Trials\|RCT]] 产生的[[Causality\|因果推断]]在类似条件下的可迁移性可能比 Biesta 承认的更高。
 >
-> **Biesta 的回应线索** Biesta (pp. 497–498) 会回应说，高度化简的学校情境恰恰依赖权力运作来维持其"封闭性"——这不是自然的因果规律，而是政治建构——因此"有效"既是技术问题也是政治问题。但这一回应可能承认了在给定的化简条件下量化证据具有一定的局部效用。
+> **Biesta 的回应线索** Biesta 会回应说，高度化简的学校情境恰恰依赖权力运作来维持其"封闭性"——这不是自然的因果规律，而是政治建构——因此"有效"既是技术问题也是政治问题。但这一回应可能承认了在给定的化简条件下量化证据具有一定的局部效用。
 >
 > **目前状态** 此张力是 EBE 辩论中认识论与政治经济学的核心交汇点之一——量化证据在何种条件下有效，与其说是方法论问题，不如说是制度条件问题（参见 Cowen, 2019 对 EBE 官僚功能的制度分析）。
 

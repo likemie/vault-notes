@@ -10,13 +10,14 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "国际民间社会教育同盟"
 headquarters: "约翰内斯堡（南非）"
 established: "1999"
+official_website: "https://campaignforeducation.org/"
 tags:
   - fact/organization
   - region/global
@@ -26,6 +27,7 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Quality Education]]"
+  - "[[Structural Adjustment Programs]]"
 related_theories: []
 related_methods:
   - "[[Two-Mode Network Analysis]]"
@@ -66,6 +68,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 国际秘书处设于南非约翰内斯堡，在全球设有区域办事处，网络覆盖非洲（[[Africa Network Campaign on Education for All|ANCEFA]]）、拉美（[[Latin American Campaign for the Right to Education|CLADE]]）、亚太（[[Asia South Pacific Association for Basic and Adult Education|ASPBAE]]）、阿拉伯国家以及欧美各主权国别联盟。
 > - **法人属性与经费基础** 独立的国际非政府组织同盟，由会员联盟会费与国际发展援助专属倡导基金共同维系。
 > - **核心宗旨与法定职责** 确保实现[[Education for All|全民教育]]（EFA）与[[UN Sustainable Development Goals|联合国可持续发展目标]] 4（SDG 4）；促使政府将国内生产总值的至少 4%–6% 或公共预算的 15%–20% 投入公立教育体系。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 74)]]
+> - **官方平台与在线门户** 官方门户为 [Global Campaign for Education (GCE)](https://campaignforeducation.org/)，提供核心业务信息与公开资源检索。
 
 ---
 
@@ -78,7 +81,7 @@ updated: 2026-10-23
 
 > [!dev-timeline] 组织发展历程
 > - **1999–2005 全球联盟创设与全民行动周（GAWE）创立期** 发起一年一度的全球教育行动周活动，动员数千万青年与教师签署请愿书，成为联合国教育领域规模最大的草根动员网络。
-> - **2006–2015 财政监督与私有化批判深化期** 聚焦跨国援助承诺履约监测，批评[[International Monetary Fund|国际货币基金组织]]（IMF）结构调整方案对教师工资预算的压制。
+> - **2006–2015 财政监督与私有化批判深化期** 聚焦跨国援助承诺履约监测，批评[[International Monetary Fund|国际货币基金组织]]（IMF）[[Structural Adjustment Programs|结构调整方案]]对教师工资预算的压制。
 > - **2016–至今 SDG 4 治理深度参与与公民实证转型期** 正式作为主要非政府组织代表入驻联合国教科文组织高级别指导委员会（HLSC），主导发布公民生成数据报告，弥合官方统计监测漏洞。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 23, 74)]]
 
 ---

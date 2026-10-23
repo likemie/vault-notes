@@ -10,13 +10,14 @@ subtype: organization
 region: africa
 fact_region: "africa"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "泛非民间社会协作网络"
 headquarters: "达喀尔（塞内加尔）"
 established: "2000"
+official_website: "https://ancefa.org/"
 tags:
   - fact/organization
   - region/africa
@@ -26,6 +27,7 @@ tags:
 related_concepts:
   - "[[Quality Education]]"
   - "[[Incubation]]"
+  - "[[Structural Adjustment Programs]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -56,6 +58,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 区域协调秘书处设于塞内加尔达喀尔，业务网络按地缘语言划分为西非、东非、中非与南部非洲四大子区域，深度覆盖全非 39 个主权国家。
 > - **法人属性与经费基础** 独立的非营利国际非政府组织网络，资金来源于国际发展伙伴项目资助（如[[Global Partnership for Education|全球教育伙伴关系]]民事赋权基金、开放社会基金会等）。
 > - **核心宗旨与法定职责** 赋能非洲国家级教育联盟，监督政府兑现将至少 20% 国家财政预算或 4%–6% 国内生产总值投入公共教育的基准指标；消除女童受教育障碍与战乱冲突地区的失学危机。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 74)]]
+> - **官方平台与在线门户** 官方门户为 [ANCEFA](https://ancefa.org/)，提供核心业务信息与公开资源检索。
 
 ---
 
@@ -68,7 +71,7 @@ updated: 2026-10-23
 
 > [!dev-timeline] 组织发展历程
 > - **2000–2007 组织创设与国家级联盟[[Incubation|孵化期]]** 协助非洲 20 余国组建首个全国性民间教育联合会，确立非盟与次区域经济共同体的观察员地位。
-> - **2008–2016 教育公共财政监测与透明度深化期** 联合国际学者研制非洲教育财政追踪工具，发布全非国家教育投入基准晴雨表，监督结构调整政策对公立学校的紧缩影响。
+> - **2008–2016 教育公共财政监测与透明度深化期** 联合国际学者研制非洲教育财政追踪工具，发布全非国家教育投入基准晴雨表，监督[[Structural Adjustment Programs|结构调整政策]]对公立学校的紧缩影响。
 > - **2017–至今 [[UN Sustainable Development Goals|SDG 4]] 区域中介与知识去殖民化转型期** 深度介入教科文组织与非盟联合主导的非洲大陆教育战略（CESA 16-25），推动教学实证研究的本土化与母语化转译。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 20, 74)]]
 
 ---

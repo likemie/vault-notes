@@ -18,6 +18,7 @@ fact_related_color: "#dcfce7"
 org_type: 国际政府间专题循证中介网络（International Evidence Intermediary Network）
 headquarters: 日内瓦（Geneva, WHO 总部）
 established: "2005"
+official_website: "https://www.who.int/initiatives/evidence-informed-policy-network"
 tags:
   - fact/organization
   - region/global
@@ -64,6 +65,7 @@ updated: 2026-10-23
 > - **总部地点与辐射范围** 全球协调秘书处设于瑞士日内瓦世界卫生组织总部，辐射覆盖美洲（EVIPNet Americas）、非洲（EVIPNet Africa）、东地中海、欧洲（EVIPNet Europe）等全球数十个国家。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 29, 82)]]
 > - **组织属性与经费基础** 属于由世界卫生组织总部与各区域办事处联合主导、多边捐助方协同支持的国际网络体系。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 34–37)]]
 > - **核心宗旨** 通过增强国家政策制定者、研究人员与社会各界对本土情境化证据的获取、评估与吸纳能力，建立常设性的[[Evidence-Based Policy-Making|循证决策]]制度化基础设施。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 35, 82)]]
+> - **官方平台与在线门户** 官方门户为 [WHO Evidence-informed Policy Network (EVIPNet)](https://www.who.int/initiatives/evidence-informed-policy-network)，提供核心业务信息与公开资源检索。
 
 ---
 

@@ -17,6 +17,7 @@ fact_related_color: "#dcfce7"
 org_type: "独立国际发展政策智库"
 headquarters: "华盛顿特区（美国）与伦敦（英国）"
 established: "2001"
+official_website: "https://www.cgdev.org/"
 tags:
   - fact/organization
   - region/global
@@ -64,6 +65,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 设于美国华盛顿特区，并在英国伦敦设立欧洲办事处，其研究网络与政策建言深度影响世界银行、[[International Monetary Fund|国际货币基金组织]]、美国国际开发署、英国外交联邦及发展事务部（FCDO）以及全球南方发展中国家政府。
 > - **法人属性与经费基础** 独立的非营利、无党派研究机构（501(c)(3) 法人），经费主要来源于国际慈善基金会（如比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]、威廉与弗洛拉·休利特基金会）以及主权政府竞争性研究赠款。
 > - **核心宗旨与法定职责** 开展基于实证的发展经济学研究，将学术洞见转译为可落地的政策设计（“Ideas to Action”），提升全球发展投资的有效性与透明度。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 58)]]
+> - **官方平台与在线门户** 官方门户为 [Center for Global Development (CGD)](https://www.cgdev.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

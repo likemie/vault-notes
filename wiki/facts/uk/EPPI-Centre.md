@@ -18,6 +18,7 @@ fact_related_color: "#dcfce7"
 org_type: "academic-clearinghouse"
 headquarters: "London, UK"
 established: "1995"
+official_website: "https://eppi.ioe.ac.uk/"
 issuing_organization: University College London Institute of Education
 tags:
   - region/uk
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -85,6 +86,7 @@ updated: 2026-10-22
 > - **总部地点 / 业务辐射** 英国伦敦；业务深度融入英国中央政府、地方教育当局，并作为欧洲教育证据知情政策与实践网络（Evidence Informed Policy and Practice in [[Education in Europe]], [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]）的核心发起方与协调枢纽辐射全球。
 > - **法人属性与经费依托** 依托顶尖大学学术机构设立的非营利专业研究中心；经费采取“政府经常性专项合同 $+$ 国家科研理事会（如 ESRC）竞争性课题 $+$ 国际组织委托（WHO、OECD） $+$ 软件商业授权许可”的多元混合资助模式，成功规避了单一政府部门换届撤资的致命脆弱性([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
 > - **核心宗旨与法定职责** 研制适应复杂社会系统的系统综述新方法，生产高严谨性跨领域实证[[Research Synthesis|证据综合]]成果，为政策制定者、专业实践者与公众提供[[Research Utilization\|证据使用]]指南，深入探究证据进入政策与基层决策的互动机制。
+> - **官方平台与在线门户** 官方门户为 [EPPI-Centre (IOE, UCL)](https://eppi.ioe.ac.uk/)，提供核心业务信息与公开资源检索。
 
 ---
 

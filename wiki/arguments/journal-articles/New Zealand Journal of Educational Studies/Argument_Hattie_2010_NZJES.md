@@ -51,7 +51,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: 2026-10-22
+updated: 2026-10-23
 year: 2010
 doi: ""
 citation_aliases:
@@ -62,7 +62,7 @@ citation_aliases:
 > 本文并非传统研究论文，而是 Hattie 以第一人称反思教育学者在公共辩论中的角色。核心问题：学者如何以"[[Critic and Conscience of Society\|社会的批评者与良知]]"（critic and conscience of society）的身份参与公共政策讨论，同时应对媒体的简化倾向、人身攻击和误读？
 
 > [!abstract] 理论框架
-> 以新西兰《教育法》赋予学者的"[[Critic and Conscience of Society]]"法定角色为制度基础，以 Emerson (1837) 和 Said (1993) 的公共知识分子论述为思想资源。Hattie 的实践框架为三条自我约束原则：（1）仅在专业领域内发言；（2）基于自身阅读和对研究的解读；（3）始终以展示尊重和谨慎来提升专业(p.86)。
+> 以新西兰《教育法》赋予学者的"[[Critic and Conscience of Society]]"法定角色为制度基础，以 Emerson (1837) 和 Said (1993) 的公共知识分子论述为思想资源。Hattie 的实践框架为三条自我约束原则：（1）仅在专业领域内发言；（2）基于自身阅读和对研究的解读；（3）始终以展示尊重和谨慎来提升专业。
 
 > [!info] 研究方法
 > - 方法：个人经验[[Reflexivity\|反思性]]叙述（reflective personal narrative），非实证研究
@@ -70,16 +70,16 @@ citation_aliases:
 > - [[Analytic Framework\|分析框架]]：以 Alexander (2010) 的四种腐蚀性[[Discourse|话语]]（dichotomy, derision, myth, meaninglessness）分析当代公共批评的特征
 
 > [!example] 核心论证
-> 1. **学者参与公共辩论的必要性** 学术期刊固然重要，但其时效性和可及性不足；学者应当利用媒体将学术声音传达给更广泛的公众，但须承受媒体简化复杂性和人身攻击的风险(pp.85–86)
-> 2. **学术批评的原则** 批评应当针对观点而非个人、仔细考量前提与假设、旨在拓展而非终结辩论；批评不应提出虚假前提或纠缠细节而忽略主旨(p.87)
-> 3. **VL 遭受的批评多为误读** Hattie 逐一回应了关于研究方法、偏差、研究排除、结果狭隘性、[[Class Size\|班级规模]]、[[Performance Pay\|绩效工资]]、顾问角色、非黑即白思维、人身攻击和利益冲突的十类批评(pp.88–94)
+> 1. **学者参与公共辩论的必要性** 学术期刊固然重要，但其时效性和可及性不足；学者应当利用媒体将学术声音传达给更广泛的公众，但须承受媒体简化复杂性和人身攻击的风险
+> 2. **学术批评的原则** 批评应当针对观点而非个人、仔细考量前提与假设、旨在拓展而非终结辩论；批评不应提出虚假前提或纠缠细节而忽略主旨
+> 3. **VL 遭受的批评多为误读** Hattie 逐一回应了关于研究方法、偏差、研究排除、结果狭隘性、[[Class Size\|班级规模]]、[[Performance Pay\|绩效工资]]、顾问角色、非黑即白思维、人身攻击和利益冲突的十类批评
 
 > [!success] 主要发现
 > ### 对 VL 方法论批评的回应
 >
-> **关于研究质量** Hattie 澄清 VL 前言中"不是一本关于研究批评的书"被误读为"忽视研究质量"。实际上，凡已知研究质量对特定主题有影响之处均已标注，对低质量[[Meta-analysis\|元分析]]明确批评（如[[Learning Styles|学习风格]]研究的"可怕状态"），且元分析方法本身的优势之一正是处理质量问题(p.88)。
+> **关于研究质量** Hattie 澄清 VL 前言中"不是一本关于研究批评的书"被误读为"忽视研究质量"。实际上，凡已知研究质量对特定主题有影响之处均已标注，对低质量[[Meta-analysis\|元分析]]明确批评（如[[Learning Styles|学习风格]]研究的"可怕状态"），且元分析方法本身的优势之一正是处理质量问题。
 >
-> **关于偏差与[[External Validity\|可推广性]]** [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 声称元分析中偏差不受控制——Hattie 回应 Schulze (2004) 等文献表明控制偏差是元分析方法的核心关切。关于新西兰的特殊性，Hattie 反问：如果没有足够的新西兰本地研究来确定差异，"翻译现有研究可能比根本不依赖任何研究更有价值"(p.89)。
+> **关于偏差与[[External Validity\|可推广性]]** [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 声称元分析中偏差不受控制——Hattie 回应 Schulze (2004) 等文献表明控制偏差是元分析方法的核心关切。关于新西兰的特殊性，Hattie 反问：如果没有足够的新西兰本地研究来确定差异，"翻译现有研究可能比根本不依赖任何研究更有价值"。
 >
 > **关于 d=0.40 关节点** Hattie 承认该截断值"perhaps it was arbitrary, but it was certainly not capricious"——这是基于 800+ 元分析的经验平均值，用作理解"高于和低于此效应的共同特征"的叙事工具，而非不可逾越的绝对阈值。书中多处强调不应做非此即彼的截断结论。
 >
@@ -87,28 +87,28 @@ citation_aliases:
 >
 > ### 对特定议题的澄清
 >
-> **[[Class Size\|班级规模]]** Hattie 重申 VL 的核心观点——班级缩减确实提高成绩（d≈0.20），但相对于所有可能效应的平均值（d≈0.40），花费数十亿可能不值得。关键发现是教师很少因班级规模变化而改变教学方法，因此"如果政策是缩减班级规模，应该伴随不同的教学"(pp.90–91)。
+> **[[Class Size\|班级规模]]** Hattie 重申 VL 的核心观点——班级缩减确实提高成绩（d≈0.20），但相对于所有可能效应的平均值（d≈0.40），花费数十亿可能不值得。关键发现是教师很少因班级规模变化而改变教学方法，因此"如果政策是缩减班级规模，应该伴随不同的教学"。
 >
-> **[[Performance Pay\|绩效工资]]** Hattie 澄清其立场并非简单支持绩效工资，而是认为"质疑如何根据专业水平差异付酬是适当和值得的"。教师目前已经按经验差异付酬。虽然完美方案尚未出现，但这应鼓励持续质疑和研究(p.91)。
+> **[[Performance Pay\|绩效工资]]** Hattie 澄清其立场并非简单支持绩效工资，而是认为"质疑如何根据专业水平差异付酬是适当和值得的"。教师目前已经按经验差异付酬。虽然完美方案尚未出现，但这应鼓励持续质疑和研究。
 >
-> **非学校因素** Hattie 承认社会经济因素"可能比书中讨论的许多问题更重要"，但他将[[Research Scope\|研究范围]]限定在"教育者能控制的因素"，而非否认非学校因素的重要性(pp.89–90)。
+> **非学校因素** Hattie 承认社会经济因素"可能比书中讨论的许多问题更重要"，但他将[[Research Scope\|研究范围]]限定在"教育者能控制的因素"，而非否认非学校因素的重要性。
 >
 > ### 政策顾问角色的复杂性
 >
-> Hattie 详细说明了他在[[New Zealand National Standards\|新西兰国家标准]]的参与程度：被邀加入技术顾问组但两次会议均未出席（因出国六个月）；新西兰评估学会（NZ Assessment Academy）受教育部邀请对标准的技术层面提供评论——这是众多专家意见之一，部分但非全部建议被采纳。他强调"提供黑与白的答案不是学术批评的性质"(pp.91–93)。同时主张[[Academic Engagement\|学术参与]]政策制定是合理的——"作为解决方案的一部分比从旁边批评更难，在我看来两种视角对有价值的社会都至关重要"(p.93)。
+> Hattie 详细说明了他在[[New Zealand National Standards\|新西兰国家标准]]的参与程度：被邀加入技术顾问组但两次会议均未出席（因出国六个月）；新西兰评估学会（NZ Assessment Academy）受教育部邀请对标准的技术层面提供评论——这是众多专家意见之一，部分但非全部建议被采纳。他强调"提供黑与白的答案不是学术批评的性质"。同时主张[[Academic Engagement\|学术参与]]政策制定是合理的——"作为解决方案的一部分比从旁边批评更难，在我看来两种视角对有价值的社会都至关重要"。
 
 > [!quote] 关键引用
 > > “学术批判的基本原则是：它针对的是思想而非个人；仔细考量那些原则和假设；目的是为辩论提供信息并加以扩展——而不是因为思想不受欢迎或不符合某些批评者的教条就试图将其扼杀。”
-> ("The fundamentals of academic critique are that it relates to the idea not the person; takes careful consideration of the tenets and assumptions; and is aimed at informing and extending the debate – not shutting it down because the ideas are not welcome or are not part of some critics' dogma.") (p.87)
+> ("The fundamentals of academic critique are that it relates to the idea not the person; takes careful consideration of the tenets and assumptions; and is aimed at informing and extending the debate – not shutting it down because the ideas are not welcome or are not part of some critics' dogma.")
 >
 > > “我相信，学者们就其专业领域内的话题发声，并认真对待他们作为社会批评家和良知的角色，是非常重要的。”
-> ("It is my belief that it is important for academics to speak out on topics within their expertise and take seriously their role as critics and conscience of society.") (p.85)
+> ("It is my belief that it is important for academics to speak out on topics within their expertise and take seriously their role as critics and conscience of society.")
 >
 > > “成为解决方案的一部分比在旁指手画脚要困难得多——而在我看来，这两种观点对于一个有价值的社会来说都是至关重要的。”
-> ("Being part of the solution is a lot harder than critiquing from the side – and both views, in my opinion, are critical to a worthwhile society.") (p.93)
+> ("Being part of the solution is a lot harder than critiquing from the side – and both views, in my opinion, are critical to a worthwhile society.")
 >
 > > “提供非黑即白的答案并非学术批判的本质。”
-> ("Providing black and white answers is not the nature of academic critique.") (p.92)
+> ("Providing black and white answers is not the nature of academic critique.")
 
 > [!warning] 局限性与批评
 > - 论文为第一人称叙事，无法声称[[Value Neutrality\|价值中立]]或系统性

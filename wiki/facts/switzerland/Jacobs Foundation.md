@@ -15,6 +15,7 @@ fact_related_color: "#dcfce7"
 org_type: "独立私立慈善基金会"
 headquarters: "苏黎世（瑞士）"
 established: "1989"
+official_website: "https://jacobsfoundation.org/"
 tags:
   - fact/organization
   - region/switzerland
@@ -55,6 +56,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 总部设于瑞士苏黎世，在科特迪瓦、加纳、哥伦比亚、瑞士及全球数十个国家开展实地项目与政策研究合作。
 > - **法人属性与经费基础** 瑞士独立注册非营利慈善法人，资产规模超过数亿瑞士法郎，资金来自创始家族捐赠收益与专业信托投资。
 > - **核心宗旨与法定职责** 资助严谨的学习科学基础研究，支持教育干预证据的合成、转译与规模化应用，协助政府重塑[[Evidence-Based Education|循证教育]]政策。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 14, 59)]]
+> - **官方平台与在线门户** 官方门户为 [Jacobs Foundation](https://jacobsfoundation.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

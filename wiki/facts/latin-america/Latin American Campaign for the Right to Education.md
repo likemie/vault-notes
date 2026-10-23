@@ -17,6 +17,7 @@ fact_related_color: "#dcfce7"
 org_type: "区域民间社会协作网络"
 headquarters: "圣保罗（巴西）"
 established: "2000"
+official_website: "https://redclade.org/"
 tags:
   - fact/organization
   - region/latin-america
@@ -59,6 +60,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 区域协调秘书处设于巴西圣保罗，其组织网络全面覆盖阿根廷、玻利维亚、巴西、智利、哥伦比亚、危地马拉、海地、墨西哥、秘鲁等 18 个拉美与加勒比国家。
 > - **法人属性与经费基础** 独立的区域非营利国际非政府组织网络，由成员自筹与国际发展援助基金（如[[Global Partnership for Education|全球教育伙伴关系]]、乐施会等慈善基金会）共同资助。
 > - **核心宗旨与法定职责** 确保不带任何歧视地实现普及、免费与高质量的公立教育；促进公民社会参与国家教育立法规程，抵制教育营利化与市场化侵蚀。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 73)]]
+> - **官方平台与在线门户** 官方门户为 [CLADE](https://redclade.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

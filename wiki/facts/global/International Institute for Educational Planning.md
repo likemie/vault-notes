@@ -13,13 +13,14 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 35
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: "international-organization"
 headquarters: "法国巴黎（Paris, France）"
 established: "1963"
+official_website: "https://www.iiep.unesco.org/"
 tags:
   - subject/comparative-education
   - theme/development
@@ -47,6 +48,7 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
+  - "[[Randomised Controlled Trials]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
@@ -60,15 +62,16 @@ related_facts:
   - "[[Mediterranean Regional Project]]"
   - "[[Advanced Technology Program]]"
   - "[[Educational Services Australia]]"
+  - "[[UNICEF]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
   - "[[Comparative Education Center at Chicago 1958]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Campbell_2026_JPCC]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
 status: draft
 created: 2026-06-08
@@ -85,6 +88,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 总部设于法国巴黎（后在阿根廷布宜诺斯艾利斯设立拉美办事处，在塞内加尔达喀尔设立非洲办事处）；业务辐射覆盖全球所有联合国教科文组织会员国。
 > - **法人属性与经费基础** 享有半自主章程地位的联合国专门机构分支；早期核心启动资金由[[World Bank|世界银行]]（World Bank）和美国福特基金会（Ford Foundation）定向注入，后续由联合国教科文组织核心预算拨款与各成员国自愿专项信托基金联合维系。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
 > - **核心宗旨与法定职责** 强化成员国教育规划与行政管理机构的系统容量，开展前沿应用政策研究，输出宏观教育成本核算、人力需求预测、学校布局规划与危机情境应急治理方案。
+> - **官方平台与在线门户** 官方门户为 [IIEP-UNESCO](https://www.iiep.unesco.org/)，提供核心业务信息与公开资源检索。
 
 ---
 
@@ -94,7 +98,7 @@ updated: 2026-10-23
 > - **1964–1980 — [[World Bank|世行]]—[[UNESCO|教科文组织]]合作期与实证扩张** 1964 年世界银行与联合国教科文组织签署合作协议借道入场，IIEP 深度参与世界银行向第三世界提供基础设施贷款的前期规划与学校建筑设计；同时为亚非拉数十个新独立国家编制国家五年教育扩张规划。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 541)]]
 > - **1980 年代 — 世行决裂与规划理性危机反思** 1980 年世界银行发布首份独立《教育部门政策文件》，依托自身建立的 1,120 项教育投资收益率数据库彻底与联合国教科文组织合作机制决裂，自立实证放贷门户；同时伴随全球经济滞胀与文凭贬值，战后机械人力预测承诺破灭，IIEP 陷入方法论反思，逐步放弃僵化中央规划，转向基础教育普及、弱势群体公平与分权化行政治理。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 68–69)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 548)]]
 > - **2000 年代至今 — 危机情境治理与数字化规划转型** 面对全球冲突、气候灾害与数字鸿沟，IIEP 重构其核心使命，将业务重点转移至受危机影响地区的韧性教育规划、教育反腐败与伦理平台（Ethics and Corruption in Education，ETICO）审计、以及利用地理信息系统（Geographic Information System，GIS）进行学校网络布局优化。
-> - **2025 — 全球证据采纳审议与本土实施断层反思** IIEP 发布《战略审议》（*Strategic Review*），尖锐揭示各国教育系统陷入“周期性宏观诊断结论高度雷同、初始改革建议从未得到有效贯彻”的执行断层困境；达喀尔非洲办事处（IIEP Dakar）发布第 6 号政策简报，揭示国际主流证据库对大样本随机对照试验的偏好严重边缘化了非洲本土具有高度适应性的创新实践，呼吁打破全球证据供给垄断并确立区域政策协调常设机制。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 346–348)]]
+> - **2025 — 全球证据采纳审议与本土实施断层反思** IIEP 发布《战略审议》（*Strategic Review*），尖锐揭示各国教育系统陷入“周期性宏观诊断结论高度雷同、初始改革建议从未得到有效贯彻”的执行断层困境；达喀尔非洲办事处（IIEP Dakar）发布第 6 号政策简报，揭示国际主流证据库对大样本[[Randomised Controlled Trials|随机对照试验]]的偏好严重边缘化了非洲本土具有高度适应性的创新实践，呼吁打破全球证据供给垄断并确立区域政策协调常设机制。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 344, 346–348)]]
 
 ---
 
@@ -136,7 +140,7 @@ updated: 2026-10-23
 ---
 
 > [!indicators] 影响力维度与指标
-> - **全球证据知名度与调阅权威** 在涵盖 103 国教育政策制定者与规划师的全球战略审查中，IIEP 名列全球认知度最高的证据主体第 5 位（仅次于 UNESCO、世行、UNICEF、OECD 四大跨国巨头），并在经常查阅频次最高的证据源中同样高居第 5 位（17 次独立提名），彰显其作为联合国教育规划专门机构在发展中国家公共行政系统中的极高声誉。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 22–24)]]
+> - **全球证据知名度与调阅权威** 在涵盖 103 国教育政策制定者与规划师的全球战略审查中，IIEP 名列全球认知度最高的证据主体第 5 位（仅次于 UNESCO、世行、[[UNICEF]]、OECD 四大跨国巨头），并在经常查阅频次最高的证据源中同样高居第 5 位（17 次独立提名），彰显其作为联合国教育规划专门机构在发展中国家公共行政系统中的极高声誉。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 22–24)]]
 > - **专业官员培训规模** 累计为全球超过 160 个国家培训了逾 8,000 名教育部核心规划与统计主管。
 > - **国家规划编制渗透率** 深度主导或深度参与了非洲与拉丁美洲数十个后殖民国家首份独立国家教育发展规划的起草。
 > - **学科[[Paradigm|范式]]重构** 强力驱动战后比较教育学告别传统的人文历史主义，全面转向以实证量化与技术援助为核心的“[[Development Turn in Comparative Education|发展转向]]”。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 422–423)]]
@@ -181,7 +185,7 @@ updated: 2026-10-23
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Development Turn in Comparative Education]] | Concept | IIEP 的创立是战后比较教育学转向第三世界技术援助的最重要制度里程碑。 |
-> | [[Scientific Paradigm]] | Concept | 支撑战后 IIEP 宏观人力规划与投入产出预测的核心[[Epistemology|认识论]][[Paradigm|范式]]。 |
+> | [[Scientific Paradigm]] | Concept | 支撑战后 IIEP 宏观人力规划与投入产出预测的核心[[Epistemology\|认识论]][[Paradigm\|范式]]。 |
 > | [[Human Capital Theory]] | Theory | IIEP 战后初期推行教育投资驱动经济增长的核心理论支柱。 |
 > | [[Sputnik Shock 1957]] | Fact (Event) | 触发大西洋两岸对科技人力规划狂热的源头事件。 |
 > | [[OECD]] | Fact (Organization) | 与 IIEP 共同构成二战后推动跨国教育规划与统计规制的西方“双翼”。 |

@@ -16,6 +16,7 @@ fact_related_color: "#dcfce7"
 org_type: "独立私立教育慈善基金会"
 headquarters: "圣保罗（巴西）"
 established: "2002"
+official_website: "https://fundacaolemann.org.br/"
 tags:
   - fact/organization
   - region/brazil
@@ -55,6 +56,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 总部设于巴西圣保罗，其支持的公共教育创新与市县级教育局管理网络覆盖全巴西 26 个州、联邦区及数千个基层市政学区。
 > - **法人属性与资产规模** 纯粹由私人禀赋资助的独立非营利组织，年均项目投入达数千万美元，是拉美地区最具资金实力的本土教育慈善实体。
 > - **核心宗旨与法定职责** 确保所有巴西儿童都能获得高质量公共教育，倡导基于严谨实证的课程与教学改革，并在全球名校资助培养未来的国家公共治理精英。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 14)]]
+> - **官方平台与在线门户** 官方门户为 [Fundação Lemann](https://fundacaolemann.org.br/)，提供核心业务信息与公开资源检索。
 
 ---
 

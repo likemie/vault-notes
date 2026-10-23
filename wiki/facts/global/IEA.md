@@ -13,6 +13,7 @@ fact_related_count: 54
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
+official_website: "https://www.iea.nl/"
 tags:
   - theme/international-organizations
   - theme/comparative-methodology
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---
@@ -94,6 +95,7 @@ updated: 2026-10-22
 > - **制度背景与冷战[[Scientism|科学主义]]** 二战后西方国家经历教育大扩张，中央计划体制与[[Human Capital Theory|人力资本]]投资兴起，跨国学者急切希望将全世界视作天然的“教育实验室”，通过客观实证数据检验不同课程与教学制度的实际效能。卡扎米亚斯（[[Andreas Kazamias|Andreas Kazamias]]）指出，[[International Education|国际教育]]成就评价协会（IEA）的大规模跨国测评，构成了战后第三代际实证科学主义运动（Discourse 3, 1960–1980）的核心经验数据基石，使“用[[Variable|变量]]名称替代国家系统名称”的通则化研究成为可能。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 68)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 > - **学社外部演进与双轨分化** [[Wolfgang Mitter|沃尔夫冈·米特]]（[[Wolfgang Mitter|Wolfgang Mitter]]）指出，IEA 跨国大规模[[Academic Achievement|学业成就]]测评运动在其制度演进上整体脱离于传统的欧洲大学比较教育学术社团（如[[Comparative Education Society in Europe|欧洲比较教育学会]]，CESE）；仅有极少数具有双重学术身份的学者充当“桥梁建造者”（如瑞典学者胡森和英德学者内维尔·波斯尔斯韦特 T. Neville Postlethwaite），这导致大规模经验量化评测体系与大学教席主导的历史文化诠释传统在战后欧洲形成了平行的双轨格局。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
 > - **触发条件** 冷战时期东西方阵营在科技与教育效能上的“军备竞赛”，以及实证社会科学家摆脱战前主观哲学描述、确立可量化与可检验[[Scientific Paradigm|科学范式]]的学科自立诉求。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 330–331)]]
+> - **官方平台与在线门户** 官方门户为 [IEA (International Association for the Evaluation of Educational Achievement)](https://www.iea.nl/)，提供核心业务信息与公开资源检索。
 
 ---
 

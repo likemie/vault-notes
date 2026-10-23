@@ -18,6 +18,7 @@ fact_related_color: "#dcfce7"
 org_type: multilateral-donor-coalition
 headquarters: Washington, D.C.
 established: "2012"
+official_website: "https://be2.org/"
 tags:
   - fact/organization
   - theme/evidence-based-policy
@@ -75,6 +76,7 @@ updated: 2026-10-23
 > - **业务辐射** 辐射全球国际教育发展合作领域，特别针对撒哈拉以南非洲、南亚等低收入和中等收入受援国的教育政策方案制定。
 > - **法人属性与经费基础** 非实体化的捐助机构政策工作组网络，日常运行依托世界银行教育局与轮值主席机构的联合资助，参与方均为西方主要捐助国与官方国际金融实体。
 > - **核心宗旨** 推动高质量教育研究的生产与利用，提升教育援助支出的实证有效性，确立跨国教育评估的黄金标准与统一方法论指引。
+> - **官方平台与在线门户** 官方门户为 [Building Evidence in Education (BE2)](https://be2.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

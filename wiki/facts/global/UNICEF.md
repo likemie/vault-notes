@@ -17,6 +17,7 @@ fact_related_color: "#dcfce7"
 org_type: specialized-un-fund
 headquarters: "纽约（美国）"
 established: "1946"
+official_website: "https://www.unicef.org/"
 tags:
   - fact/organization
   - theme/unicef
@@ -82,6 +83,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 总部设于美国纽约，在佛罗伦萨设有因诺琴蒂研究中心（Innocenti），在全球 190 多个国家和地区设有办事处与国家委员会，是深入底层社区毛细血管最广的联合国实体。
 > - **法人属性与经费基础** 联合国大会附属发展方案基金，完全不依靠联合国法定经常预算分摊，100% 依赖成员国政府自愿捐款、私营企业赞助以及民间普通公众慈善筹款。
 > - **核心宗旨与法定职责** 全面落实《联合国儿童权利公约》（UNCRC），捍卫每个儿童受教育的基本权利，优先保障女童、残障儿童、难民和危机冲突情境中处境不利儿童公平获取高质量早期与基础教育。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 544)]]
+> - **官方平台与在线门户** 官方门户为 [UNICEF](https://www.unicef.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

@@ -45,7 +45,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-22
+updated: 2026-10-23
 year: 2017
 doi: ""
 citation_aliases:
@@ -53,7 +53,7 @@ citation_aliases:
   - "Møller (2017)"
 ---
 > [!info] [[Research Question\|研究问题]]
-> 论文试图回答两个核心问题(p.375-376)：
+> 论文试图回答两个核心问题：
 >
 > 1. 政治家和行政人员在做出教育改进决策时，**使用和优先考虑什么类型的知识**？
 > 2. 为了**解决公平相关的进步和改进（equity-relevant progress and improvement）**，我们需要知道什么？
@@ -61,7 +61,7 @@ citation_aliases:
 > 隐含的第三个问题：教育领导力研究如何超越"什么有效"议程？
 
 > [!abstract] 理论框架
-> Møller 综合了三个理论资源(p.381)：
+> Møller 综合了三个理论资源：
 >
 > - [[Transformative Leadership]](Shields, 2010, 2011)— 以权力为调查起点，将专业工作定位于权力结构之中
 > - 批判性教育政策视角(Gunter, 2016)— 将教育领导力视为多元人群和利益的[[Champ\|场域]]
@@ -78,7 +78,7 @@ citation_aliases:
 > **1. 诊断：[[OECD]] 主导的研究议程存在去政治化问题**
 >
 > OECD 的 ISL 项目将[[School Leadership\|学校领导力]]呈现为去政治化的"最佳实践"，但：
-> - 表面上政治中立的模型仍然是政治化的(p.377)
+> - 表面上政治中立的模型仍然是政治化的
 > - 对绩效问责氛围没有实质性批评
 > - 两个矛盾[[Discourse|话语]]并行运作：专业化共同体 vs [[New Public Management\|新公共管理]]的外部控制
 > - [[PISA]] 嵌入 OECD 的政府间结构，塑造国家教育系统内部的绩效和风险管理
@@ -86,7 +86,7 @@ citation_aliases:
 >
 > **2. [[Reflexivity\|反思性]]批判：ISSPP 类型研究的方法论局限**
 >
-> 尽管 ISSPP 提供了最全面的跨国学校领导力知识基础，但(p.380-381)：
+> 尽管 ISSPP 提供了最全面的跨国学校领导力知识基础，但：
 > - 叙事容易沦为英雄故事（"I did it my way"），回到"伟人"领导力理论
 > - 过度关注个人能力，遮蔽了权力结构
 > - 设计不容许对更广泛权力结构的批判性分析
@@ -94,30 +94,30 @@ citation_aliases:
 >
 > **3. 方案：用双重批判透镜重新定向领导力研究**
 >
-> 建议通过以下两个框架研究教育领导力(p.381)：
+> 建议通过以下两个框架研究教育领导力：
 > - [[Transformative Leadership]](Shields, 2010, 2011)— 权力为起点
 > - 批判性教育政策(Gunter, 2016)— 将专业工作定位于权力结构中
 
 > [!success] 主要发现
-> 1. **[[OECD]] 的两面性** OECD 同时推广分布式领导的"专业共同体"[[Discourse|话语]]和[[New Public Management\|新公共管理]]的"外部控制"话语，二者并行运作构成悖论(p.377)
+> 1. **[[OECD]] 的两面性** OECD 同时推广分布式领导的"专业共同体"[[Discourse|话语]]和[[New Public Management\|新公共管理]]的"外部控制"话语，二者并行运作构成悖论
 >
-> 2. **ISSPP 的共同主题** 跨 20+ 国的成功校长叙事呈现共同主题——伦理关怀、道德使命感、关系信任、对社会正义的承诺(p.380)。但 Møller 提醒这些发现基于自我报告，校长可能知道"正确答案"
+> 2. **ISSPP 的共同主题** 跨 20+ 国的成功校长叙事呈现共同主题——伦理关怀、道德使命感、关系信任、对社会正义的承诺。但 Møller 提醒这些发现基于自我报告，校长可能知道"正确答案"
 >
-> 3. **高 stakes vs 低 stakes 的差异** 英语国家（高 stakes 问责）与北欧国家（低 stakes 福利传统）的政策环境根本不同，但校长表达的价值观相似性多于差异性(p.379-380)
+> 3. **高 stakes vs 低 stakes 的差异** 英语国家（高 stakes 问责）与北欧国家（低 stakes 福利传统）的政策环境根本不同，但校长表达的价值观相似性多于差异性
 >
-> 4. **"什么有效"的议程局限性** OECD 2007 年报告强化了"什么有效"议程，但2016年报告承认了"未使用、误用、滥用"问题，却仍然主张更多更好的数据——Møller 追问：更多更好的数据真的提供了解决公平相关改进所需的知识吗？(p.378)
+> 4. **"什么有效"的议程局限性** OECD 2007 年报告强化了"什么有效"议程，但2016年报告承认了"未使用、误用、滥用"问题，却仍然主张更多更好的数据——Møller 追问：更多更好的数据真的提供了解决公平相关改进所需的知识吗？
 >
 > 5. **问责制的双重标准** 那些塑造学校问责体系的人也应该为其负责——"将问责体系写入立法和官僚实践的速度超越了支持它的证据"(Henig, 2013, p.383)
 
 > [!quote] 关键引用
 > > “为了引领教育超越‘什么有效’的议程，我们需要不同的研究途径，包括[[Reflexivity\|反思性]]途径以及探讨权力结构的批判性研究。”
-> ("To lead education beyond the agenda of what works, we need different approaches to research, including reflective approaches and critical studies addressing the power structures.")(p.382)
+> ("To lead education beyond the agenda of what works, we need different approaches to research, including reflective approaches and critical studies addressing the power structures.")
 >
 > > “急于将问责制纳入立法和官僚实践的冲动，已经跑在了支持它的证据前面；尽管问责制的架构师们也是基于科学决策的大声疾呼者，但这一事实依然存在。”
 > ("The rush to get accountability systems enshrined in legislation and bureaucratic practice is running ahead of the evidence on its behalf, and this is true despite the fact that the architects of the accountability systems are also vocal proponents of scientifically based decision making.")(Henig, 2013: xi, p.383)
 >
 > > “教育现在是、而且永远将是一个充满争议的[[Champ\|场域]]。”
-> ("Education is and always will be a contested [[Champ\|field]].")(p.383)
+> ("Education is and always will be a contested [[Champ\|field]].")
 >
 > > “成功要求我们追问：在什么方面或为了什么的成功，为谁而成功，谁获益，以及在什么条件下成功？”
 > ("Success requires that we ask: success in or for what, success for whom, who benefits, and success under what conditions?")

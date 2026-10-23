@@ -17,6 +17,7 @@ fact_related_color: "#dcfce7"
 org_type: foundation
 headquarters: "美国华盛顿州西雅图"
 established: "2000"
+official_website: "https://www.gatesfoundation.org/"
 tags:
   - fact/organization
   - fact/us
@@ -73,6 +74,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿州西雅图，教育战略核心专注于美国 K–12 公立教育改革以及全球高等教育机会均等，并在[[UNESCO|联合国教科文组织]][[Global Education Cooperation Mechanism|全球教育合作机制]]中承担跨国资助协同职能。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 46–48)]]
 > - **法人属性与经费基础** 独立的免税私立慈善基金会（501(c)(3)）；拥有数百亿美元的资产信托本金，年度对外慈善赠款规模长期位居全球民间资本之首。
 > - **核心宗旨与法定职责** 秉持“所有人享有平等机会过上健康且富有成效生活”的信条，在美国国内致力于通过提高公立中小学学术严谨度与大学升学准入消除学业差距，在国际上推动教育[[Output-Oriented Governance|循证治理]]体系的长期可持续发展。
+> - **官方平台与在线门户** 官方门户为 [Bill & Melinda Gates Foundation](https://www.gatesfoundation.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

@@ -16,6 +16,7 @@ fact_related_color: "#dcfce7"
 org_type: "国际独立发展实证清算与因果评估中介机构"
 headquarters: "新德里（印度）、华盛顿特区（美国）、伦敦（英国）"
 established: "2008"
+official_website: "https://www.3ieimpact.org/"
 tags:
   - fact/organization
   - region/global
@@ -64,6 +65,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 在印度新德里设立主办事处，在华盛顿特区和伦敦常设区域办公室，业务网络覆盖非洲、亚洲及拉丁美洲超过 100 个发展中国家。
 > - **法人属性与经费基础** 独立的国际非政府组织与慈善信托，获得盖茨基金会、休利特基金会、[[World Bank|世界银行]]、美国国际开发署（USAID）等多边与双边资助方的资金支持。
 > - **核心宗旨与法定职责** 资助高标准[[Causality|因果推断]]实证研究（包括[[Randomised Controlled Trials|随机对照试验]]与准实验评估），构建全球发展实证证据库，并向发展中国家决策者提供适切政策简报与转化支持。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 65, 77)]]
+> - **官方平台与在线门户** 官方门户为 [International Initiative for Impact Evaluation (3ie)](https://www.3ieimpact.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

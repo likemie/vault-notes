@@ -18,6 +18,7 @@ fact_related_color: "#dcfce7"
 org_type: "加拿大公法人法定国际发展研究资助机构（Crown Corporation）"
 headquarters: "渥太华（加拿大）"
 established: "1970"
+official_website: "https://idrc-crdi.ca/"
 tags:
   - fact/organization
   - region/canada
@@ -62,6 +63,7 @@ updated: 2026-10-23
 > - **总部地点 / 全球网络** 总部设于加拿大渥太华，在肯尼亚内罗毕（东非及南非）、塞内加尔达喀尔（西非及中非）、约旦安曼（中东及北非）、印度新德里（南亚及东南亚）以及乌拉圭蒙得维的亚（拉美及加勒比）设有常设区域办事处。
 > - **法人属性与经费基础** 加拿大联邦国有公法人，经费主要源自加拿大议会官方发展援助（ODA）法定拨款，并协同多边组织及全球慈善基金会设立联合资助信托池。
 > - **核心宗旨与法定职责** 增强发展中国家本土研究能力，促进严谨科学证据在卫生、教育、粮食安全与气候适应等重大国家公共政策中的实际转化。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 16, 74)]]
+> - **官方平台与在线门户** 官方门户为 [International Development Research Centre (IDRC)](https://idrc-crdi.ca/)，提供核心业务信息与公开资源检索。
 
 ---
 

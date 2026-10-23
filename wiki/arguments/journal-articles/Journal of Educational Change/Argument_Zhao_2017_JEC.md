@@ -47,7 +47,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: 2026-10-22
+updated: 2026-10-23
 year: 2017
 doi: ""
 citation_aliases:
@@ -74,14 +74,14 @@ citation_aliases:
 > 5. **结论** 教育研究必须将副作用作为效果研究的组成部分，提出 6 项行动建议
 
 > [!success] 主要发现
-> - 没有发现任何教育产品附带类似药品的警告标签——如"本项目能提高阅读成绩，但可能使学生永远厌恶阅读"(p.4)
-> - 教育中的正反双方长期争论不休，因为各自只看硬币的一面——正方看到效果，反方看到副作用，两者都既对又错(p.5)
+> - 没有发现任何教育产品附带类似药品的警告标签——如"本项目能提高阅读成绩，但可能使学生永远厌恶阅读"
+> - 教育中的正反双方长期争论不休，因为各自只看硬币的一面——正方看到效果，反方看到副作用，两者都既对又错
 > - [[No Child Left Behind Act 2001\|NCLB]] 的副作用（作弊、排斥、课程窄化）本可依据 Campbell's Law 预测——"任何定量社会指标越被用于社会决策，就越容易受到腐败压力"
 > - 东亚教育体系可能是"最好"的（考试成绩），同时也是"最坏"的（学生信心和态度）——取决于被测量的维度
 
 > [!quote] 关键引用
 > > “我还没有发现哪个教育产品带有一个包含类似信息的警告标签：‘该项目在提高你学生的阅读考试分数方面有效，但可能会让他们永远讨厌阅读。’”
-> ("I have not yet found an educational product that comes with a warning label carrying information such as 'this program works in raising your students' test scores in reading, but may make them hate reading forever.'") (p.4)
+> ("I have not yet found an educational product that comes with a warning label carrying information such as 'this program works in raising your students' test scores in reading, but may make them hate reading forever.'")
 >
 > > “任何量化社会指标越是被用于社会决策，它就越容易受到腐败压力的影响，也就越容易扭曲和腐蚀它旨在监控的社会过程。”
 > ("The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor.") (Campbell, 1976, p.49, cited p.15)

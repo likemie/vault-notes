@@ -50,7 +50,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-22
+updated: 2026-10-23
 year: 2019
 doi: ""
 citation_aliases:
@@ -58,7 +58,7 @@ citation_aliases:
   - "Qvortrup (2019)"
 ---
 > [!info] [[Research Question\|研究问题]]
-> 论文试图回答三个问题(p.3)：
+> 论文试图回答三个问题：
 > 1. 为什么 Hattie 及其支持者在丹麦被如此彻底地误读？
 > 2. 为什么在教育科学中定量方法与定性方法之间产生了冲突？
 > 3. [[Visible Learning]] 声称提供"假设"而非"食谱"，声称相关不等于因果——这背后的理论原因是什么？
@@ -76,25 +76,25 @@ citation_aliases:
 > - [[Epistemology\|认识论]]立场："观察位置"(von Foerster, 1984; Thyssen, 2012)——不同的理论代表不同的观察位置和透镜，不同观察产生不同图像，相互补充而非排斥
 
 > [!example] 核心论证
-> 1. **前提／观察** 在丹麦，Hattie 的 [[Visible Learning]] 引发了大量但主要是批评性的反应——包括情绪化的（"不喜欢数字和统计"）和基于表面阅读的（将 Hattie et al.于古典[[Behaviorism|行为主义]]）批评。一个由研究者、政治家和工会代表组成的解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人;2017 年出版的批评文集 [[Hattie på dansk]] 汇集了多篇强烈反对 Hattie 的文章，是这场争议走向制度化扩散的节点(p.3-4, 7)
+> 1. **前提／观察** 在丹麦，Hattie 的 [[Visible Learning]] 引发了大量但主要是批评性的反应——包括情绪化的（"不喜欢数字和统计"）和基于表面阅读的（将 Hattie et al.于古典[[Behaviorism|行为主义]]）批评。一个由研究者、政治家和工会代表组成的解释社群在短期内形成，将 Hattie 从教育英雄转变为教育敌人;2017 年出版的批评文集 [[Hattie på dansk]] 汇集了多篇强烈反对 Hattie 的文章，是这场争议走向制度化扩散的节点
 >
 > 2. **论证步骤**
->    - **步骤一** 批评者的误读并非偶然——某些批评使用 Alexander 识别的"二分法[[Discourse|话语]]"（统计 vs 独特性）和"嘲弄话语"（歪曲、嘲笑、人身攻击），将自己置于 Popper 所定义的"科学游戏"之外(p.3-4)
->    - **步骤二** 定量与定性方法的对立源于将[[Epistemology\|认识论]]与[[Ontology\|本体论]]混淆——"真理"是认识论问题而非本体论问题。不同的观察透镜（phenomenological vs statistical）产生不同的图像，只要都遵循高效度标准，它们相互补充而非相互排斥(p.5)
->    - **步骤三** 教学与学习之间不存在简单的[[Causality\|因果关系]]——两者是通过[[Structural Coupling\|结构耦合]]链接的两个封闭系统的关系。教学干预必须经过学生闭合的、自我指涉的、复杂的和不可预测的反思循环。因此，教师必须运用[[Professional Judgment\|专业判断]]——基于研究知识和方法知识、在理性赤字的条件下、通过反馈持续修正(p.6-7)
+>    - **步骤一** 批评者的误读并非偶然——某些批评使用 Alexander 识别的"二分法[[Discourse|话语]]"（统计 vs 独特性）和"嘲弄话语"（歪曲、嘲笑、人身攻击），将自己置于 Popper 所定义的"科学游戏"之外
+>    - **步骤二** 定量与定性方法的对立源于将[[Epistemology\|认识论]]与[[Ontology\|本体论]]混淆——"真理"是认识论问题而非本体论问题。不同的观察透镜（phenomenological vs statistical）产生不同的图像，只要都遵循高效度标准，它们相互补充而非相互排斥
+>    - **步骤三** 教学与学习之间不存在简单的[[Causality\|因果关系]]——两者是通过[[Structural Coupling\|结构耦合]]链接的两个封闭系统的关系。教学干预必须经过学生闭合的、自我指涉的、复杂的和不可预测的反思循环。因此，教师必须运用[[Professional Judgment\|专业判断]]——基于研究知识和方法知识、在理性赤字的条件下、通过反馈持续修正
 >
 > 3. **结论** Visible Learning 的目的不是提供"什么有效食谱"，而是为教师提供"智能[[Problem Solving\|问题解决]]的假设"(Hattie, 2009, p.247)。专业判断是 VL 中教学干预与学习成果之间的"缺失环节"——它将研究证据（知道什么最可能有效）与具体情境（在特定情况下需要什么）连接起来
 
 > [!success] 主要发现
-> - 丹麦 Hattie 批评中存在将学术争论转化为"文化战争"的倾向——对手先被解除武装（如通过嘲笑），然后被诉诸最低大众偏见公约数的打击致死(p.5)
-> - 对 VL 的辩护框架：VL 是支持而非取代教师[[Professional Judgment\|专业判断]]的工具——[[Effect Size\|效应量]]提供概率信息，反馈作为修正机制(p.6-7)
+> - 丹麦 Hattie 批评中存在将学术争论转化为"文化战争"的倾向——对手先被解除武装（如通过嘲笑），然后被诉诸最低大众偏见公约数的打击致死
+> - 对 VL 的辩护框架：VL 是支持而非取代教师[[Professional Judgment\|专业判断]]的工具——[[Effect Size\|效应量]]提供概率信息，反馈作为修正机制
 
 > [!quote] 关键引用
 > > “可见的学习提供了‘一个解释性的故事，而不是一个“什么有效”的食谱’（Hattie，2009，p. 3），也就是说，这本书的目的是‘发展出一个关于学生学习关键影响因素的解释性故事（……），而不是建立另一个“什么有效”的食谱’。”
 > ("[[Visible Learning]] provides 'an explanatory story, not a \"what works\" recipe' (Hattie, 2009, p. 3), i.e. that the aim of the book 'is to develop an explanatory story about the key influences on student learning (…), not to build yet another \"what works\" recipe.'")(Hattie, 2009, p.6, p.7)
 >
 > > “可见的学习（Visible Learning）的目的是支持教师的[[Professional Judgment\|专业判断]]。教育研究的贡献之一是尽可能准确地识别哪些干预措施和条件最有可能带来学习和个人发展。其目的并不是为教师提供‘什么最有效’的食谱。其目的是为教师提供‘智能解决问题的假设’ (Hattie, 2009, p. 247)。”
-> ("The aim of Visible Learning is to support teachers' professional judgement. One of the contributions of educational research is, as accurate as possible, to identify, which interventions and conditions with the greatest probability will lead to learning and personal development. The aim is not to provide teachers with what works best recipes. The aim is to provide teachers with '[[Hypothesis\|hypotheses]] for intelligent problem solving'.")(p.7)
+> ("The aim of Visible Learning is to support teachers' professional judgement. One of the contributions of educational research is, as accurate as possible, to identify, which interventions and conditions with the greatest probability will lead to learning and personal development. The aim is not to provide teachers with what works best recipes. The aim is to provide teachers with '[[Hypothesis\|hypotheses]] for intelligent problem solving'.")
 
 > [!warning] 局限性与批评
 > - 论文为讨论论文（discussion paper），非实证研究——论点未经过系统数据检验

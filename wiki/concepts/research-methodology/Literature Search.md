@@ -8,7 +8,7 @@ aliases:
 summary: "运用系统策略与数据库工具从多元渠道定位、筛选和获取相关研究文献的操作性环节（Creswell & Creswell, 2022; Cohen et al., 2011）；服务于理论框架构建与信效度奠基，在大规模系统综述中其语言与数据库检索覆盖边界直接限定实证证据的外部效度（Verger et al., 2019）。"
 type: concept
 domain: "research-methodology"
-related_count: 66
+related_count: 69
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -30,6 +30,9 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Evaluation Research]]"
   - "[[International Education]]"
+  - "[[Online Education]]"
+  - "[[Performance Indicators]]"
+  - "[[School Autonomy]]"
   - "[[Engineering Education]]"
   - "[[Lifelong Learning]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
@@ -61,19 +64,18 @@ related_persons:
   - "[[Michael Kratsios]]"
 related_facts:
   - "[[Education Resources Information Center]]"
-  - "[[Open Knowledge Repository]]"
   - "[[World Bank]]"
-  - "[[UNESCO Institute for Statistics]]"
-  - "[[UNESCO]]"
-  - "[[Education GPS]]"
-  - "[[OECD]]"
-  - "[[EdStats]]"
-  - "[[Systems Approach for Better Education Results]]"
-  - "[[World Education Reform Database]]"
-  - "[[World Development Indicators]]"
+  - "[[Open Knowledge Repository]]"
   - "[[British Educational Research Association]]"
   - "[[PISA]]"
+  - "[[UNESCO Institute for Statistics]]"
+  - "[[UN Sustainable Development Goals]]"
+  - "[[Education at a Glance]]"
+  - "[[OECD]]"
+  - "[[Teaching and Learning International Survey]]"
+  - "[[Programme for the International Assessment of Adult Competencies]]"
   - "[[National Assessment of Educational Progress]]"
+  - "[[World Development Indicators]]"
   - "[[EU]]"
   - "[[Institute of Education Sciences]]"
   - "[[Comparative and International Education Society]]"
@@ -88,6 +90,8 @@ related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_Kratsios_2026_OSTP]]"
+related_theories:
+  - "[[Human Capital Theory]]"
 confidence: high
 status: active
 created: 2026-06-21
@@ -165,19 +169,9 @@ updated: 2026-10-23
 > | [EBSCO](https://www.ebsco.com) | 综合性数据库，350+ 专业子库；机构订阅，含 British Education Index |
 > | [Scopus](https://www.scopus.com) | 同行评审文献摘要与引文数据库；机构订阅，支持引文追踪 |
 > | [DOAJ](https://doaj.org) | 开放获取期刊目录，700 万篇文章全免费；无需订阅 |
-> | [[Open Knowledge Repository\|OKR]] | [[World Bank\|世界银行]]官方开放知识库，收录数万份旗舰研究报告、政策工作底稿（WPS）与学术专著，提供全文开放获取 |
+> | [Open Knowledge Repository (OKR)](https://openknowledge.worldbank.org/) | [[World Bank\|世界银行]]官方[[Open Knowledge Repository\|开放知识库]]，收录数万份旗舰研究报告、政策工作底稿（WPS）与学术专著，提供全文开放获取 |
 > | [知网（CNKI）](https://www.cnki.net) | 中文学术期刊、硕博论文、会议、年鉴；[高级检索](https://kns.cnki.net/kns8s/AdvSearch?classid=YSTT4HG0) 支持多字段组合 |
 > | [SCI-Hub](https://sci-hub.sg) | 通过 DOI 获取付费论文全文；域名可能变动 |
-
-> [!index-table] 超国家组织政策与指标数据库
-> | 数据库 / 资源 | 机构与定位 | 核心收录与检索价值 |
-> |---|---|---|
-> | [[UNESCO Institute for Statistics\|UIS]]（联合国教科文组织统计研究所） | [[UNESCO\|教科文组织]]（加拿大蒙特利尔） | 全球教育数据法定中枢，提供 200 余国宏观教育普查、教师配置、完成率及可持续发展目标（SDG 4）监测基准 |
-> | [[Education GPS\|OECD Education GPS]] | [[OECD\|经合组织]]（法国巴黎） | 经合组织在线教育政策导航门户，集成 PISA、TALIS、PIAAC 及《教育概览》全量指标，支持多国横向雷达图对标 |
-> | [[EdStats]] | [[World Bank\|世界银行]]（美国华盛顿） | 全球综合教育统计数据库，汇集 242 个国家和地区的 3,261 项指标及 PISA、TIMSS、SACMEQ 等多源测评 |
-> | [[Systems Approach for Better Education Results\|SABER]] | [[World Bank\|世界银行]]（美国华盛顿） | 教育政策系统性诊断基准库，提供涵盖师资政策、学校自主权、教育评估等维度的政策量规与国别定性诊断报告 |
-> | [[World Education Reform Database\|WERD]]（全球教育改革数据库） | 斯坦福大学 / Harvard Dataverse | 收录 1960 至 2017 年间全球 147 个国家颁布的 6,700 余项教育立法与政策法令，支持政策趋同与跨国借用实证检验 |
-> | [[World Development Indicators\|WDI]]（世界发展指标） | [[World Bank\|世界银行]]（美国华盛顿） | 全球权威综合发展统计库，涵盖 200 余个经济体 1,600 项宏观经济、社会支出与人力资本指标 |
 
 > [!index-table] 研究协会与组织
 > | 组织 | 说明 |
@@ -198,7 +192,16 @@ updated: 2026-10-23
 > |---|---|
 > | [ONS](https://www.ons.gov.uk) | 英国国家统计署，人口、经济、社会统计数据 |
 > | [UK Data Service](https://ukdataservice.ac.uk) | 英国社会科学数据仓储，含大型追踪调查数据 |
+> | [UNESCO](https://www.unesco.org) | 全球教育、科学、文化统计与政策报告 |
+> | [UIS](https://uis.unesco.org) | [[UNESCO Institute for Statistics\|联合国教科文组织统计研究所]]，全球教育数据法定中枢，提供 200 余国宏观教育普查与 [[UN Sustainable Development Goals\|SDG 4]] 监测指标 |
+> | [OECD Education](https://www.oecd.org/education) | PISA、TALIS、[[Education at a Glance]] 等国际比较数据 |
+> | [OECD Education GPS](https://gpseducation.oecd.org) | [[OECD\|经合组织]][[Online Education\|在线教育]]政策导航平台，集成 PISA、[[Teaching and Learning International Survey\|TALIS]]、[[Programme for the International Assessment of Adult Competencies\|PIAAC]] 及《教育概览》全量指标与雷达图对标 |
 > | [NCES](https://nces.ed.gov) | 美国教育统计，含 [[National Assessment of Educational Progress\|NAEP]]、Digest of Education Statistics |
+> | [World Bank](https://www.worldbank.org) | 全球发展数据，含教育支出、入学率等跨国指标 |
+> | [EdStats](https://datatopics.worldbank.org/education/) | 世界银行教育统计综合数据库，汇聚全球 242 个国家和地区的 3,261 项[[Performance Indicators\|教育指标]]及国际与区域测评数据 |
+> | [SABER](https://saber.worldbank.org/) | 世界银行改善教育成果系统分析法，涵盖师资、评估、[[School Autonomy\|学校自主权]]等制度政策基准量规与国别诊断报告 |
+> | [WDI](https://datatopics.worldbank.org/world-development-indicators/) | 世界银行[[World Development Indicators\|世界发展指标库]]，涵盖全球 200 余个经济体 1,600 项宏观经济、社会支出与[[Human Capital Theory\|人力资本]]指标 |
+> | [WERD](https://doi.org/10.7910/DVN/C0TWXM) | 全球教育改革数据库（斯坦福大学/Harvard Dataverse），收录 1960–2017 年 147 国 6,700 项教育政策法令 |
 > | [EU Gateway](https://european-union.europa.eu) | [[EU\|欧盟]]政策、统计（Eurostat）与法律文件 |
 > | [CESSDA](https://www.cessda.org) | 欧洲社会科学数据档案联盟，跨国数据检索 |
 > | [Council of Europe](https://www.coe.int) | 欧洲人权、教育、文化政策 |

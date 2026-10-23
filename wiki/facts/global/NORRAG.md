@@ -16,6 +16,7 @@ fact_related_color: "#dcfce7"
 org_type: 国际非营利政策研究智库与学术协作网络（International Policy Research Network & Think Tank）
 headquarters: 日内瓦（Geneva, 瑞士）
 established: "1986"
+official_website: "https://www.norrag.org/"
 tags:
   - fact/organization
   - region/global
@@ -67,6 +68,7 @@ updated: 2026-10-23
 > - **总部地点与辐射范围** 实体秘书处常设于瑞士日内瓦高级国际关系及发展学院，业务辐射全球 160 个国家，拥有超过 4,600 名跨国学者、国际组织官员、智库研究员与社会活动家个人会员。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 8, 60)]]
 > - **法人属性与资助结构** 属于非营利性学术与[[Policy Brokerage|政策中介]]实体，获得瑞士发展合作署（[[System Development Corporation|SDC]]）、国际开放社会基金会、各多边信托基金以及瑞士联邦政府的长期研究资助。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 17, 60)]]
 > - **核心使命** 挑战国际多边机构推行的[[Technical Rationality|技术理性]]与新自由主义政策处方，倡导全球教育知识生产的去中心化、本土化与社会正义，捍卫全球南方的教育政策议程设定权。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 21–24, 46)]]
+> - **官方平台与在线门户** 官方门户为 [NORRAG](https://www.norrag.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

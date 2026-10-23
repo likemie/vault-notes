@@ -51,7 +51,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-22
+updated: 2026-10-23
 year: 2020
 doi: ""
 citation_aliases:
@@ -61,10 +61,10 @@ citation_aliases:
 > [!info] [[Research Question\|研究问题]]
 > [[Visible Learning]] 作为一种全球教育论述，在文化政治层面"运作"（puts to work）了什么？具体而言：Visible Learning 的隐喻本身与哪些权力关系结盟？它在性别、能力和新自由主义议程方面产生了什么效应？
 >
-> 作者并非攻击 Hattie 本人，而是关注 Visible Learning 如何被论述性地建构以及这种建构的政治后果(p.33)。
+> 作者并非攻击 Hattie 本人，而是关注 Visible Learning 如何被论述性地建构以及这种建构的政治后果。
 
 > [!abstract] 理论框架
-> 论文以文化政治（cultural politics）为总体分析视角，即"承认人们的价值观、信仰和意见塑造社会并创造我们所工作于其中并与之对抗的教育治理结构"(p.33)。具体理论资源包括：
+> 论文以文化政治（cultural politics）为总体分析视角，即"承认人们的价值观、信仰和意见塑造社会并创造我们所工作于其中并与之对抗的教育治理结构"。具体理论资源包括：
 >
 > - **新自由主义批判**Ball(2003)的"新管理全景监狱主义"和"[[Ontology\|本体论]]不安全"概念；Springer(2016)的新自由主义暴力分析四问框架（什么在凝结？暴力是什么？资本流向何处？抵抗在哪里？）
 > - **女性主义视觉文化理论**Berger(1972)的"看的方式"——看与被看历史上是男性的领域；Mulvey(1975)的"男性凝视"——女性被定位为凝视的对象；Lakoff and Johnson(1980)的隐喻政治理论
@@ -74,9 +74,9 @@ citation_aliases:
 > - **课程研究与教师专业主义** Apple（1986/2013）的女性化职业分析；Sachs(2003)的行动主义教师专业主义；Locke(2015)的民主专业主义
 
 > [!info] 研究方法
-> - **方法** 理论性／批判性[[Discourse Analysis\|话语分析]]（非实证[[Lesson Study\|课堂研究]]）。作者明确指出"这不是一项关于 [[Visible Learning]] 实施的课堂研究，而是对其意涵的理论性参与"，"我们的重点不是统计，而是语言"(p.34)
+> - **方法** 理论性／批判性[[Discourse Analysis\|话语分析]]（非实证[[Lesson Study\|课堂研究]]）。作者明确指出"这不是一项关于 [[Visible Learning]] 实施的课堂研究，而是对其意涵的理论性参与"，"我们的重点不是统计，而是语言"
 > - **分析对象** Visible Learning 作为论述／隐喻／品牌，以及其文本（书籍、宣传册、访谈、媒体报道）
-> - **分析视角** 作者的立场来自包容性教育（inclusive education），具体领域为残疾研究和性别研究(p.33)
+> - **分析视角** 作者的立场来自包容性教育（inclusive education），具体领域为残疾研究和性别研究
 > - **数据来源** Hattie 的出版物、[[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]]对 Hattie 的访谈、维多利亚州 DET 宣传册、媒体报道、VL 培训材料
 > - **局限性（作者自认）** 由于专门批评 VL 文化政治的文献匮乏，论文直接进入批评而非常规[[Literature Review\|文献综述]]
 
@@ -105,34 +105,34 @@ citation_aliases:
 > "只有可见的才重要"——对人们应具备何种能力才能被算作成功做出了规范性和能力主义的假设。能力主义设定"两个截然不同的本体论区域"(Campbell, 2009)。有视觉障碍的人在本体论和[[Epistemology\|认识论]]上被抹除。视觉长期以来承载着作为意识的"定义性和统治性能力"的"粗暴声誉"(Rorty, 1979)。排斥被包装为对多样化学习者的"集体冷漠"(Slee, 2011)。
 
 > [!success] 主要发现
-> 1. [[Visible Learning]] 的论述与新自由主义、性别歧视和能力主义议程深度结盟，这三者在学校中"运作以实施排斥并在女性化工作中去专业化教师"(p.32)
+> 1. [[Visible Learning]] 的论述与新自由主义、性别歧视和能力主义议程深度结盟，这三者在学校中"运作以实施排斥并在女性化工作中去专业化教师"
 > 2. "Visible Learning"这一隐喻本身需要更多仔细审视——它是一种殖民性隐喻，将视觉特权化并抹除其他感知方式
 > 3. 对 VL 的批评远不如使用指南那样普遍——这本身即是 VL 所创造的监控/服从文化的证据
-> 4. 教师和学者私下表达怀疑但公开保持沉默——"服从是霸权性的并许可被认可为专业人士"(p.34)
+> 4. 教师和学者私下表达怀疑但公开保持沉默——"服从是霸权性的并许可被认可为专业人士"
 > 5. VL 是一种"多平台资本主义"，将教师知识商品化后卖回给教师；它将教师从[[Knowledge Production\|知识生产]]者重新定位为顺从的消费者
-> 6. 结论并非全盘否定 Hattie 的统计学术贡献，而是论证 VL 论述转移了对教育中平等问题的关注(p.42)
+> 6. 结论并非全盘否定 Hattie 的统计学术贡献，而是论证 VL 论述转移了对教育中平等问题的关注
 
 > [!quote] 关键引用
 > > “‘可见的学习’是实现‘新管理全景敞视主义’(Ball, 2003, p. 219)的完美工具，而这种主义现在已经不再那么新鲜了；当学习必须变得可见时，每个人都可以监视其他人。”
-> ("[[Visible Learning]] is the perfect tool for the 'new management panopticism' that is not so new anymore; when learning must be visible, everyone can spy on everyone else.")(p.34)
+> ("[[Visible Learning]] is the perfect tool for the 'new management panopticism' that is not so new anymore; when learning must be visible, everyone can spy on everyone else.")
 >
 > > “在‘可见的学习’的[[Meta-analysis\|元分析]]中，教师的智慧被夺取、加工，并以一定的代价被重新提供回来。在一个女性化的职业中(Apple, 1986/2013)，教师们屈服于教育中异性恋正统的、性别歧视的和能力歧视的构建。”
-> ("In Visible Learning's [[Meta-analysis]], the wisdom of teachers is taken, processed, and served back, at a price. Teachers, in a feminised profession (Apple, 1986/2013), submit to heteronormative, sexist and ableist constructions of education.")(p.35)
+> ("In Visible Learning's [[Meta-analysis]], the wisdom of teachers is taken, processed, and served back, at a price. Teachers, in a feminised profession (Apple, 1986/2013), submit to heteronormative, sexist and ableist constructions of education.")
 >
 > > “我们雇人来传达它（VL培训），只有五分之一的人能通过。那是因为几乎每位老师都想站起来谈论他们的故事、轶事和他们的课堂。我们不允许那样，因为一旦你允许了，你就让房间里的每位老师谈论他们的‘战争故事’、他们的观点、他们的孩子变得合法化了。”
 > ("We hire people to deliver it and only one in five passes. That is because almost every teacher wants to get up and talk about their story, their anecdotes and their classrooms. We will not allow that, because as soon as you allow that, you legitimise every teacher in the room talking about their war stories, their views, their kids.")(Hattie, in Knudsen, 2017, p.254,引自 p.37)
 >
 > > “眼睛，局限于单一的视觉功能，将自己的不足隐藏在傲慢背后，并坚持认为‘看见’是唯一的方式。……眼睛需要具有好斗性，因为它本质上是由玻璃体冻胶构成的。”
-> ("The eye, limited to that single function of sight, hides its inadequacies behind arrogance, and insists that seeing is the only way. ... The eye needs to be belligerent, as it is essentially made of vitreous jelly.")(p.40-41)
+> ("The eye, limited to that single function of sight, hides its inadequacies behind arrogance, and insists that seeing is the only way. ... The eye needs to be belligerent, as it is essentially made of vitreous jelly.")
 >
 > > “‘可见的学习’，尽管有着所有复杂的[[Effect Size\|效应量]]、方程式和数字，最终仍是一个过于简单的咒语。”
-> ("Visible Learning, despite all its complicated effect sizes, equations and figures, is ultimately too simple a mantra.")(p.39)
+> ("Visible Learning, despite all its complicated effect sizes, equations and figures, is ultimately too simple a mantra.")
 >
 > > “我们希望我们在这里的思考能够激发围绕‘可见的学习’和教师专业精神的对话，并鼓励其他人加入这场争论。”
-> ("We hope our thoughts here may energise dialogue around Visible Learning and teacher professionalism and encourage others to enter the fray.")(p.42)
+> ("We hope our thoughts here may energise dialogue around Visible Learning and teacher professionalism and encourage others to enter the fray.")
 
 > [!warning] 局限性与批评
-> - **论文自认局限** 非实证[[Lesson Study\|课堂研究]]，而是理论性参与；由于专门批评 VL 文化政治的文献匮乏，未进行常规[[Literature Review\|文献综述]](p.34)；作者承认自己也可能同样"将教师定位为匮乏者、未被意识到的被接管者、被学者发声的腹语术人偶"(p.42)
+> - **论文自认局限** 非实证[[Lesson Study\|课堂研究]]，而是理论性参与；由于专门批评 VL 文化政治的文献匮乏，未进行常规[[Literature Review\|文献综述]]；作者承认自己也可能同样"将教师定位为匮乏者、未被意识到的被接管者、被学者发声的腹语术人偶"
 > - **立场** 作者来自包容性教育领域（残疾研究和性别研究），其文化政治立场明确，不声称[[Value Neutrality\|价值中立]]
 > - **可能被驳回的方式** 作者预见到批评可能被"方便地驳回或边缘化，而不充分参与我们的想法"，并呼吁"不回避审问论述的文化政治的、有力的辩论"
 

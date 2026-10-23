@@ -17,6 +17,7 @@ fact_related_color: "#dcfce7"
 org_type: "区域民间社会教育倡导网络与联盟"
 headquarters: "马尼拉（菲律宾）与孟买（印度）"
 established: "1964"
+official_website: "https://aspbae.org/"
 tags:
   - fact/organization
   - region/multi
@@ -59,6 +60,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 秘书处主要设于菲律宾马尼拉与印度孟买，并在南亚、东南亚、东亚与南太平洋设有次区域联络协调枢纽，业务辐射 30 余个亚太国家。
 > - **法人属性与经费基础** 非政府国际非营利组织（INGO），享有联合国经社理事会（ECOSOC）特别咨商地位，经费主要来自国际发展伙伴（如教育不能等待基金、乐施会）、双边援助机构及成员网络会费。
 > - **核心宗旨与法定职责** 促进普及全包容、高质量的基础教育与成人教育，保护原住民、女性、残障群体及流动人口的终身学习权利，监督政府履行教育财政承诺并抵御教育过度商业化。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 8, 10)]]
+> - **官方平台与在线门户** 官方门户为 [ASPBAE](https://aspbae.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

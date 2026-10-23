@@ -17,6 +17,7 @@ fact_related_color: "#dcfce7"
 org_type: 国际多边治理协调机制（Global Multi-Stakeholder Coordinating Mechanism）
 headquarters: 巴黎（Paris, UNESCO 总部）
 established: "2021"
+official_website: "https://www.unesco.org/en/education/cooperation-mechanism"
 tags:
   - fact/organization
   - region/global
@@ -60,6 +61,7 @@ updated: 2026-10-23
 > - **总部地点与辐射范围** 协调秘书处常设于法国巴黎联合国教科文组织总部，辐射覆盖联合国 193 个成员国及全体系多边教育发展机构。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 8, 60)]]
 > - **法人属性与运转模式** 属于由联合国教科文组织大会与执行局授权的国际多利益相关方非实体化协调机制，依托成员国会费、信托基金与多边专项拨款维持运转。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 45–47)]]
 > - **核心使命** 打破传统国际组织各自为政的条块分割，通过促进[[Evidence-Based Policy-Making|循证政策制定]]、强化数据追踪与动员战略融资三大支柱，确保全球教育承诺有效转化为国家规划与基层实践。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 7, 39–40)]]
+> - **官方平台与在线门户** 官方门户为 [Global Education Cooperation Mechanism (GCM)](https://www.unesco.org/en/education/cooperation-mechanism)，提供核心业务信息与公开资源检索。
 
 ---
 

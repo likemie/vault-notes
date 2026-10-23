@@ -15,6 +15,7 @@ fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2014–至今"
+official_website: "https://www.seaplm.org/"
 initiator_organization: "东南亚教育部长组织（SEAMEO）与联合国儿童基金会东亚及太平洋区域办事处（UNICEF EAPRO）"
 tags:
   - fact/program
@@ -62,6 +63,7 @@ updated: 2026-10-23
 > - **发起方与资助机制** 由 SEAMEO 秘书处（设于泰国曼谷）与 UNICEF EAPRO 联合共建，澳大利亚外交贸易部（DFAT）等区域发展伙伴提供大额核心资金支持。
 > - **覆盖范围与对象** 首轮深度覆盖柬埔寨、老挝、马来西亚、缅甸、菲律宾与越南等 6 个东盟成员国，抽样逾 3 万名小学五年级学生及数千名教师与校长。
 > - **核心问题导向** 针对东盟内部巨大的国家间与国家内部发展差距、儿童早期失学率、多民族语言教学转化困难及基础教育[[Learning Crisis|学习危机]]。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 16)]]
+> - **官方平台与在线门户** 官方门户为 [Southeast Asia Primary Learning Metrics (SEA-PLM)](https://www.seaplm.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

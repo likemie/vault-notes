@@ -17,6 +17,7 @@ fact_related_color: "#dcfce7"
 org_type: "泛非循证决策实践共同体与知识中介网络"
 headquarters: "约翰内斯堡（南非）"
 established: "2012"
+official_website: "https://www.africaevidencenetwork.org/"
 tags:
   - fact/organization
   - region/africa
@@ -56,6 +57,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 秘书处设于南非约翰内斯堡大学，业务与会员网络辐射东非、西非、南部非洲及中非等主要区域。
 > - **法人属性与经费基础** 依托大学的非营利性学术与政策协作网络，经费主要依托国际发展基金会（如休利特基金会、威康信托基金）、南非国家研究基金会及成员协作项目资助。
 > - **核心宗旨与法定职责** 促进非洲实证知识的生产、共享与政策应用，倡导本土知识主权与多元知识体系，支持非洲各国消除贫困与不平等。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 15)]]
+> - **官方平台与在线门户** 官方门户为 [Africa Evidence Network (AEN)](https://www.africaevidencenetwork.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

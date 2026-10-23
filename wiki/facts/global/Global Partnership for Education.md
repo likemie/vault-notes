@@ -18,6 +18,7 @@ fact_related_color: "#dcfce7"
 org_type: 国际多利益相关方伙伴组织（Multi-Stakeholder Partnership）
 headquarters: 华盛顿特区（Washington, D.C.）
 established: "2002"
+official_website: "https://www.globalpartnership.org/"
 tags:
   - global-governance
   - educational-aid
@@ -68,6 +69,7 @@ updated: 2026-10-23
 > - **总部地点 / 业务辐射** 秘书处设于美国华盛顿特区（托管于世界银行总部），业务辐射全球近 90 个低收入和中低收入发展中国家，涵盖超 10 亿儿童与青少年群体。
 > - **法人属性与经费基础** 名义上为多利益相关方国际伙伴机制（非传统政府间组织），由捐助国政府财政拨款、私人慈善基金会（如比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]）与私营企业捐赠构成多边信托基金。
 > - **核心宗旨与法定职责** 确保处于最脆弱、战乱及边缘处境的儿童享有优质公平的免费基础教育，推动实现[[UN Sustainable Development Goals|联合国可持续发展目标]]第四项（SDG 4: 优质教育）。
+> - **官方平台与在线门户** 官方门户为 [Global Partnership for Education (GPE)](https://www.globalpartnership.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

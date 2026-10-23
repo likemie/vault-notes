@@ -19,6 +19,7 @@ fact_related_color: "#dcfce7"
 org_type: "全球非营利独立科学研究与国际发展实施智库"
 headquarters: "北卡罗来纳州三角研究园区（美国）"
 established: "1958"
+official_website: "https://www.rti.org/"
 tags:
   - fact/organization
   - region/us
@@ -67,6 +68,7 @@ updated: 2026-10-23
 > - **总部区位与业务辐射** 设址于美国北卡罗来纳州[[Research Triangle Park|研究三角园区]]，在全球 75 个以上国家和地区常设分支机构或执行驻场项目，拥有数千名研究员与项目规划技术专家。
 > - **法人性质与经费结构** 独立的 501(c)(3) 非营利应用科研机构，主要经费依托美国联邦与国际多边机构竞争性科研合同、赠款及发展援助项目资金维持。
 > - **核心使命与业务主线** 致力于将客观严谨的科学[[Research Translation|研究转化]]为改善人类福祉的实践方案，在国际教育板块深耕早期读写能力测评、[[Structured Teaching|结构化教学]]法改革及教育治理系统诊断。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 17, 19, 57)]]
+> - **官方平台与在线门户** 机构官方门户为 [RTI International](https://www.rti.org/)，提供全球教育项目成果库、早期测验工具技术指南与实地评估报告检索。
 
 ---
 

@@ -15,6 +15,7 @@ fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2015–2023"
+official_website: "https://riseprogramme.org/"
 initiator_organization: "英国外交联邦及发展事务部（FCDO）、澳大利亚外交贸易部（DFAT）、比尔及梅琳达·盖茨基金会"
 tags:
   - fact/program
@@ -61,6 +62,7 @@ updated: 2026-10-23
 > - **发起方与资助机制** 由英国政府主导发起，联合澳大利亚政府与盖茨基金会投入数千万英镑专属基金，采取竞争性遴选与长期国别驻扎资助模式。
 > - **覆盖范围与对象** 在埃塞俄比亚、印度、印度尼西亚、尼日利亚、巴基斯坦、坦桑尼亚与越南七个主要发展中国家设立了跨国国别研究团队（Country Research Teams, CRTs）。
 > - **核心问题导向** 直面全球南方普及初等教育后的“重入学、轻学习”结构性困局，反思以往仅依靠增加校舍、教材与桌椅等单一硬件投入无法提升实际学习质量的教训。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 74)]]
+> - **官方平台与在线门户** 官方门户为 [Research on Improving Systems of Education (RISE)](https://riseprogramme.org/)，提供核心业务信息与公开资源检索。
 
 ---
 

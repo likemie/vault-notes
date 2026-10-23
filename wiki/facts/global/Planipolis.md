@@ -15,6 +15,7 @@ fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#e5e7eb"
 period: "2006–至今"
+official_website: "https://planipolis.iiep.unesco.org/"
 initiator_organization: "联合国教科文组织国际教育规划研究所（UNESCO IIEP）"
 tags:
   - fact/infrastructure
@@ -53,6 +54,7 @@ updated: 2026-10-23
 > - **发起方与管理机制** 由 UNESCO IIEP 全权主导，各成员国教育部官方联络官（National Focal Points）直接报送本国官方政策文本，确保文献的官方权威性与法律真实性。
 > - **覆盖范围与语种** 覆盖全球教科文组织全部五大区域的 190 余个国家和地区，收录阿拉伯语、英语、法语、西班牙语、葡萄牙语及各国官方语言的数千份政策一手案卷。
 > - **核心问题导向** 克服[[Development Education|发展中国家教育]]政策文本散落各部委暗箱、国际发展伙伴重复调研以及跨国横向政策借鉴缺乏权威信源的结构性瓶颈。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 51)]]
+> - **官方平台与在线门户** 官方门户为 [Planipolis (IIEP-UNESCO)](https://planipolis.iiep.unesco.org/)，提供核心业务信息与公开资源检索。
 
 ---
 
