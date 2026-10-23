@@ -51,6 +51,9 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Posthumanism]]"
   - "[[Central Phenomenon]]"
+  - "[[Representational Knowledge]]"
+  - "[[Policy Ambassador]]"
+  - "[[South-South Cooperation]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Post-colonial Theory]]"
@@ -68,6 +71,8 @@ related_persons:
   - "[[Val D. Rust]]"
   - "[[Michael W. Apple]]"
   - "[[Jürgen Habermas]]"
+  - "[[Julius Nyerere]]"
+  - "[[Diane Stone]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[Education for All]]"
@@ -78,10 +83,11 @@ related_arguments:
   - "[[Argument_Smith_2026_SPE]]"
   - "[[Argument_Partaken_2022_Springer]]"
   - "[[Argument_Rust_2009_Reflections]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 ---

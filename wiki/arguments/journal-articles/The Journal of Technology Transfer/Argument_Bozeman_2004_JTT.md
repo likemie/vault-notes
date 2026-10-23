@@ -64,7 +64,7 @@ related_facts:
   - "[[National Aeronautics and Space Administration]]"
 status: active
 created: 2026-10-06
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 ---
 
@@ -130,31 +130,31 @@ updated: 2026-10-22
 ---
 
 > [!claim] 论证步骤一　国际产业技术竞争压力迫使联邦科研资助转向产学协同的大科学中心模式
-> 1980 年代初美国面临的产业国际[[Competitiveness|竞争力]]危机，打破了战后 [[National Science Foundation|NSF]] 仅资助同行评议、个人科学家自由探索小科学的传统教条，推动联邦科研资助正式转向以跨学科[[Big Science|大科学]]中心（Center-based）为载体、产业界深度嵌入的战略资助[[Paradigm|范式]]。（pp.365–367）
+> 1980 年代初美国面临的产业国际[[Competitiveness|竞争力]]危机，打破了战后 [[National Science Foundation|NSF]] 仅资助同行评议、个人科学家自由探索小科学的传统教条，推动联邦科研资助正式转向以跨学科[[Big Science|大科学]]中心（Center-based）为载体、产业界深度嵌入的战略资助[[Paradigm|范式]]。
 
 #### 1. 国际竞争焦虑暴露传统大学科研与工程实践的脱节
 
 > [!policy-context] 国际竞争焦虑与传统科研资助的脱节
-> - **外生危机倒逼** 1970 年代末至 1980 年代初，新兴工业化国家（如日本、韩国）在高科技与制造领域的崛起，打破了美国在二战后长期保持的技术垄断优势；美国传统制造与半导体产业在微电子等关键领域感受到生存威胁。（pp.367, 370）
-> - **内部学科边缘化** 在 NSF 内部，工程学科长期被视作继子地位（Step-child），缺乏独立的行政学部；而大学[[Engineering Education|工程教育]]普遍偏向理论讲授，严重脱离产业实际工程与动手设计需求。（pp.365, 367）
+> - **外生危机倒逼** 1970 年代末至 1980 年代初，新兴工业化国家（如日本、韩国）在高科技与制造领域的崛起，打破了美国在二战后长期保持的技术垄断优势；美国传统制造与半导体产业在微电子等关键领域感受到生存威胁。
+> - **内部学科边缘化** 在 NSF 内部，工程学科长期被视作继子地位（Step-child），缺乏独立的行政学部；而大学[[Engineering Education|工程教育]]普遍偏向理论讲授，严重脱离产业实际工程与动手设计需求。
 
 #### 2. 从个人课题拨款转向多机构合作协议的制度设计
 
 > [!proc] [[Engineering Research Centers|ERC]] 政策动议与方案成型路径
-> 1. **1983 年国家[[Chinese Academy of Sciences|科学院]]建议** 针对竞争力危机，[[National Academy of Sciences|NAS]] 专家组明确建言 NSF 设立多学科工程研究中心，探索打破个人课题资助的新路径。（p.365）
-> 2. **1984 年国家工程院指南确立** 由高校与工业领袖组成的 NAE 小组发布《工程研究中心指南》，明确将提升美国工程师协助工业竞争的能力作为核心检验标准。（p.367）
-> 3. **管理机制根本创新** 彻底打破传统单纯资助个人 PI 的标准科研拨款机制，改用带有深度政府监管与战略协同属性的合作研究协议（Cooperative Research Agreements），使联邦资助从单纯事后报销转变为全程协同治理。（p.366）
+> 1. **1983 年国家[[Chinese Academy of Sciences|科学院]]建议** 针对竞争力危机，[[National Academy of Sciences|NAS]] 专家组明确建言 NSF 设立多学科工程研究中心，探索打破个人课题资助的新路径。
+> 2. **1984 年国家工程院指南确立** 由高校与工业领袖组成的 NAE 小组发布《工程研究中心指南》，明确将提升美国工程师协助工业竞争的能力作为核心检验标准。
+> 3. **管理机制根本创新** 彻底打破传统单纯资助个人 PI 的标准科研拨款机制，改用带有深度政府监管与战略协同属性的合作研究协议（Cooperative Research Agreements），使联邦资助从单纯事后报销转变为全程协同治理。
 
 #### 3. 基础科学自主性与国家经济目标导向的办学路线分歧
 
 > [!tension] 纯基础[[Scientific Autarky|科学自主]]性 vs 国家战略竞争力取向
-> - **小科学保守阵营的恐慌** 许多大学传统学者深感忧虑，担心为国家竞争力设立集中化大中心会背离 NSF 守护自由探索纯科学的崇高神殿，甚至抽干个人科学家小额资助经费池。（p.366）
-> - **产业工程改革派的进取** 以[[Erich Bloch|埃里希·布洛赫]]（Erich Bloch）与[[Nam Pyo Suh|徐南杓]]（Nam Pyo Suh）为代表的倡导者则坚信，现代工程学天然具有高度交叉融合特征，必须通过中心模式重塑工程教育与产业创新的制度纽带。（pp.365, 370–371）
+> - **小科学保守阵营的恐慌** 许多大学传统学者深感忧虑，担心为国家竞争力设立集中化大中心会背离 NSF 守护自由探索纯科学的崇高神殿，甚至抽干个人科学家小额资助经费池。
+> - **产业工程改革派的进取** 以[[Erich Bloch|埃里希·布洛赫]]（Erich Bloch）与[[Nam Pyo Suh|徐南杓]]（Nam Pyo Suh）为代表的倡导者则坚信，现代工程学天然具有高度交叉融合特征，必须通过中心模式重塑工程教育与产业创新的制度纽带。
 
 ---
 
 > [!claim] 论证步骤二　工程研究中心在关键工业领域完成战略布局并展现出近八成历史存续率
-> 经过二十年发展，ERC 成为 NSF 工程资助中最核心的资金载体之一，覆盖生物工程、微电子、先进制造等核心产业前沿，保持了近八成的历史存续率，并在国内催生出[[Science and Technology Centers|科学技术中心]]（Science and Technology Centers, STC）以及在英爱等国引发广泛的制度移植。（pp.368–370）
+> 经过二十年发展，ERC 成为 NSF 工程资助中最核心的资金载体之一，覆盖生物工程、微电子、先进制造等核心产业前沿，保持了近八成的历史存续率，并在国内催生出[[Science and Technology Centers|科学技术中心]]（Science and Technology Centers, STC）以及在英爱等国引发广泛的制度移植。
 
 #### 1. 覆盖全美核心产业前沿的跨学科中心网络
 
@@ -190,7 +190,7 @@ updated: 2026-10-22
 > ![](https://img.mylikemie.icu/sources/Bozeman_2004_JTT/figures/Bozeman_2004_JTT_Fig1_ERC_Awards_by_Year.jpg)
 
 > [!result-reading]- 历年资助批复与历史存续特征
-> 历年批复资助数与当前接受资助的中心总数之间存在显著落差。自 1984 年至 2004 年，NSF 累计颁发 56 项资助设立 ERC，呈现周期性波动态势。截至 2003 年底，NSF 累计资助了 41 所标准 ERC 和 3 所地震工程 ERC，存活率达到 79%（44/56）。部分中心资助期满后毕业并实现自给自足，但也有部分中心在严格的期中审核与续约竞争中遭遇淘汰。（p.369）
+> 历年批复资助数与当前接受资助的中心总数之间存在显著落差。自 1984 年至 2004 年，NSF 累计颁发 56 项资助设立 ERC，呈现周期性波动态势。截至 2003 年底，NSF 累计资助了 41 所标准 ERC 和 3 所地震工程 ERC，存活率达到 79%（44/56）。部分中心资助期满后毕业并实现自给自足，但也有部分中心在严格的期中审核与续约竞争中遭遇淘汰。
 
 #### 2. 联邦种子资金与产业配套投入的资金杠杆机制
 
@@ -209,99 +209,99 @@ updated: 2026-10-22
 > [!result-reading]- 经费配置格局与资金杠杆效应
 > - **资金杠杆配比** NSF [[Seed Funding|种子资助]]约占 ERC 中心年均运营总预算的 30%，其余约 70% 由工业界、其他联邦机构、大学及州政府共同配比提供，杠杆放大效应显著。
 > - **学部内部统领地位** 在工程学学部各子业务中，工程教育与中心处（EEC）经费体量远超生物工程与环境系统处（BES）、化学与运输系统处（CTS）、土木与机械系统处（CMS）、设计制造与工业创新处（DMII）及电气与通信系统处（ECS），仅次于小企业创新研究（[[SBIR and STTR Programs|SBIR]]）。
-> - **预算绝对权重** 在 2003 财年，EEC 总预算 1.327 亿美元中近半数（6,572 万美元）划拨给 ERC；若计入地震、纳米及科学技术中心，中心类总支出达 8,571 万美元，占 EEC 总经费的 65%，约占工程学学部总预算的六分之一（85.71/541.7）。（p.369）
+> - **预算绝对权重** 在 2003 财年，EEC 总预算 1.327 亿美元中近半数（6,572 万美元）划拨给 ERC；若计入地震、纳米及科学技术中心，中心类总支出达 8,571 万美元，占 EEC 总经费的 65%，约占工程学学部总预算的六分之一（85.71/541.7）。
 
 #### 3. 产学中心制度原型在国内外科技政策体系中的扩散
 
 > [!dev-timeline] ERC 模式的多向制度扩散
-> - **1987 — 催生 NSF [[Science and Technology Centers|科学技术中心计划]]** 布洛赫在致国家科学院院长弗兰克·普雷斯的信件中明确指出，[[Science and Technology Centers|STC]] 正是 ERC 机制向更广泛自然科学领域的直接衍生。（p.369）
-> - **1980 年代末 — 海外工业国家模式移植** 英国在 ERC 启动数年后迅速设立了明确借鉴其架构的同类计划；[[Science Foundation Ireland|爱尔兰科学基金会]]（Science Foundation Ireland, SFI）设立科学工程与技术中心（Centers for Science, Engineering, and Technology, CSET），并直接聘请前 NSF 官员威廉·哈里斯担任总干事。（pp.369–370）
-> - **2003 — 跨联邦机构政策扩散** [[National Aeronautics and Space Administration|美国国家航空航天局]]（National Aeronautics and Space Administration, NASA）与高校联合工作组起草白皮书，建议完全参照 NSF ERC 模式构建基于大学的航空航天研究中心。（p.370）
+> - **1987 — 催生 NSF [[Science and Technology Centers|科学技术中心计划]]** 布洛赫在致国家科学院院长弗兰克·普雷斯的信件中明确指出，[[Science and Technology Centers|STC]] 正是 ERC 机制向更广泛自然科学领域的直接衍生。
+> - **1980 年代末 — 海外工业国家模式移植** 英国在 ERC 启动数年后迅速设立了明确借鉴其架构的同类计划；[[Science Foundation Ireland|爱尔兰科学基金会]]（Science Foundation Ireland, SFI）设立科学工程与技术中心（Centers for Science, Engineering, and Technology, CSET），并直接聘请前 NSF 官员威廉·哈里斯担任总干事。
+> - **2003 — 跨联邦机构政策扩散** [[National Aeronautics and Space Administration|美国国家航空航天局]]（National Aeronautics and Space Administration, NASA）与高校联合工作组起草白皮书，建议完全参照 NSF ERC 模式构建基于大学的航空航天研究中心。
 
 ---
 
 > [!claim] 论证步骤三　关键决策者口述复盘：国会立法妥协、早期果断淘汰与十年日落条款的治理哲学
-> 前 NSF 主任布洛赫的完整口述访谈揭示出，ERC 制度的建立伴随着与国会独立工程基金会动议的激烈政治博弈，其长期生命力依托于不惧政治压力的淘汰问责与十年[[Sunset Provisions|日落条款]]，但也折射出联邦问责与高校自治之间难以消除的行政微观管理张力。（pp.370–374）
+> 前 NSF 主任布洛赫的完整口述访谈揭示出，ERC 制度的建立伴随着与国会独立工程基金会动议的激烈政治博弈，其长期生命力依托于不惧政治压力的淘汰问责与十年[[Sunset Provisions|日落条款]]，但也折射出联邦问责与高校自治之间难以消除的行政微观管理张力。
 
 #### 1. 突破十九世纪工程学科思维与国会立法妥协
 
 > [!citation-card] 布洛赫论破除 19 世纪工程学科思维
-> 当时科学研究与工程学没有结合在一起。我对这种将工程学非黑即白地割裂开来的陈旧观念感到震惊。工程学依然停留在 19 世纪。现实中根本不存在孤立的化学工程或机械工程，在面对实际技术难题时它们必须深度交融。我们就是要打破这种黑白分明的割裂观念，同时改变科学界与工程界的生态。（pp.370–371, 373）
+> 当时科学研究与工程学没有结合在一起。我对这种将工程学非黑即白地割裂开来的陈旧观念感到震惊。工程学依然停留在 19 世纪。现实中根本不存在孤立的化学工程或机械工程，在面对实际技术难题时它们必须深度交融。我们就是要打破这种黑白分明的割裂观念，同时改变科学界与工程界的生态。
 >
 > *We came to the conclusion that engineering was still in the 19th century... There is no such thing as chemical engineering or mechanical engineering by themselves. They meld. (Bloch in Bozeman & Boardman, 2004, pp. 371, 373)*
 
 > [!tension] 设立独立的国家工程基金会 vs NSF 内部自我革新
-> - **国会独立派主张** 众议院科学与技术委员会主席乔治·布朗（George Brown）强力游说脱离 NSF 设立独立的国家工程基金会（National Engineering Foundation），将全部工程项目从 NSF 剥离。（p.371）
-> - **妥协与内部革新** 布洛赫与白宫科技顾问[[George A. Keyworth II|乔治·凯沃思]]（George Keyworth II）及徐南杓紧密配合，在击败独立基金会方案的同时促成妥协：在 NSF 内部创设独立的工程学学部并大规模上马 ERC 项目；而白宫行政管理和预算局（Office of Management and Budget, OMB）局长斯托克曼（David Stockman）则因紧缩预算在中间百般阻挠。（pp.371–372）
+> - **国会独立派主张** 众议院科学与技术委员会主席乔治·布朗（George Brown）强力游说脱离 NSF 设立独立的国家工程基金会（National Engineering Foundation），将全部工程项目从 NSF 剥离。
+> - **妥协与内部革新** 布洛赫与白宫科技顾问[[George A. Keyworth II|乔治·凯沃思]]（George Keyworth II）及徐南杓紧密配合，在击败独立基金会方案的同时促成妥协：在 NSF 内部创设独立的工程学学部并大规模上马 ERC 项目；而白宫行政管理和预算局（Office of Management and Budget, OMB）局长斯托克曼（David Stockman）则因紧缩预算在中间百般阻挠。
 
 #### 2. 通用需求导向申报与首批试点中心淘汰的制度震慑
 
 > [!policy-design] 自由申报机制与淘汰问责威慑
-> - **不指定具体研发领域的申报机制** 布洛赫指出，NSF 过去搞过自上而下指定技术领域的资助计划，结果招致极大抱怨却毫无成效。ERC 采用通用申报指南，因为学术界本身具备敏锐嗅觉，扔出指南即可精准命中核心产业技术方向。（p.372）
-> - **订书机包装法的警惕与早期淘汰关闭** 布洛赫严厉批评部分大学搞订书机做法（Stapling approach）——仅仅把教师现有的零碎科研用订书机订在一起重新包装申报，而没有真正的跨学科协同。在首批设立的 6 所中心中，特拉华大学与加州大学圣巴巴拉分校两所中心在期中审核后未获续约被果断关停。布洛赫强调这一失败产生了无可估量的积极威慑：向全美高校传递了中心必须兑现承诺、具备扎实执行规划否则必遭淘汰的明确信号。（p.373）
+> - **不指定具体研发领域的申报机制** 布洛赫指出，NSF 过去搞过自上而下指定技术领域的资助计划，结果招致极大抱怨却毫无成效。ERC 采用通用申报指南，因为学术界本身具备敏锐嗅觉，扔出指南即可精准命中核心产业技术方向。
+> - **订书机包装法的警惕与早期淘汰关闭** 布洛赫严厉批评部分大学搞订书机做法（Stapling approach）——仅仅把教师现有的零碎科研用订书机订在一起重新包装申报，而没有真正的跨学科协同。在首批设立的 6 所中心中，特拉华大学与加州大学圣巴巴拉分校两所中心在期中审核后未获续约被果断关停。布洛赫强调这一失败产生了无可估量的积极威慑：向全美高校传递了中心必须兑现承诺、具备扎实执行规划否则必遭淘汰的明确信号。
 
 #### 3. 十年日落机制遏制实体机构膨胀与行政微观管理摩擦
 
 > [!citation-card] 布洛赫论日落条款的防膨胀初衷与自我造血逻辑
-> 日落条款的逻辑非常简单：首先是为了确保中心真正学会依靠自己站稳脚跟；第二是为了遏制大兴土木、搞无限扩张实体中心的冲动。当时的理念是中心必须在规定期限内结出硕果，否则就该死亡……大学如果希望中心持续运转，就必须接过接力棒去寻找新的赞助商与资金。日落条款的目的不是为了炸毁中心，而是迫使中心开辟多元化的外部支撑。（p.374）
+> 日落条款的逻辑非常简单：首先是为了确保中心真正学会依靠自己站稳脚跟；第二是为了遏制大兴土木、搞无限扩张实体中心的冲动。当时的理念是中心必须在规定期限内结出硕果，否则就该死亡……大学如果希望中心持续运转，就必须接过接力棒去寻找新的赞助商与资金。日落条款的目的不是为了炸毁中心，而是迫使中心开辟多元化的外部支撑。
 >
 > *First, the sunset is very simple. It was put in place to make sure that centers find their feet. The second reason was to deflect from the idea of promoting bricks and mortar centers and ever-expanding centers. The idea of the sunset was at that time was that the centers should show fruit or die... A third good reason for the sunset is that the university should take over if they want the centers to continue. (Bloch, 2004, p. 374)*
 
 > [!tension] 联邦资助问责的微观管理 vs 学术界只要经费不要干预的自治诉求
 > - **大学中心主任的抱怨** 许多中心主任抱怨 NSF 存在严重的微观管理（Micromanagement），行政[[Red Tape|繁文缛节]]耗费了科学家过多的科研精力。
-> - **布洛赫的尖锐回应** 布洛赫直言像 NSF 这样管理公共财政的机构不可能没有微观管理；大学学术界在心态上表现得极不成熟，总是幻想着把钱打给我，然后离我远点，这在面对纳税人与产业实际问责时根本无法成立。（p.373）
+> - **布洛赫的尖锐回应** 布洛赫直言像 NSF 这样管理公共财政的机构不可能没有微观管理；大学学术界在心态上表现得极不成熟，总是幻想着把钱打给我，然后离我远点，这在面对纳税人与产业实际问责时根本无法成立。
 
 ---
 
 > [!claim] 论证步骤四　双重聘任体制与传统院系科层的深层治理困境
-> ERC 在大学基层的落地受到双重雇佣制度的结构性制约，使中心主任在缺乏人事[[Hard Power|硬权力]]的情况下不得不依靠微弱的利益诱导艰难维系跨学科协作，折射出新型组织设计与数百年大学传统科层之间的深层冲突。（pp.373–374）
+> ERC 在大学基层的落地受到双重雇佣制度的结构性制约，使中心主任在缺乏人事[[Hard Power|硬权力]]的情况下不得不依靠微弱的利益诱导艰难维系跨学科协作，折射出新型组织设计与数百年大学传统科层之间的深层冲突。
 
 #### 1. 双重雇佣制度导致科研人员承担双重考评负担
 
 > [!chain-link] 双重聘任体制引发的治理困境链
-> - **前提：中心教职必须隶属于传统院系** 制度杜绝纯中心编制，强制要求学者必须归属于具体的化学、机械等传统系所，以便维系教学根基，防止中心脱离院系孤立存在。（p.373）
+> - **前提：中心教职必须隶属于传统院系** 制度杜绝纯中心编制，强制要求学者必须归属于具体的化学、机械等传统系所，以便维系教学根基，防止中心脱离院系孤立存在。
 > - **中间推论：科研人员陷入双重职责负料** 学者被迫在院系的晋升教学要求与中心的跨学科高强度工业攻坚之间两头奔波，形同承担两份全职工作。
 > - **机制：中心主任缺乏行政支配权** 中心主任无法掌控教师的薪资定级与终身教职评定，无法施加行政刚性约束，仅能凭借项目资金作为微弱的利益诱饵。
-> - **结论：跨学科协同高度脆弱** 中心主任被置于胡萝卜大而棒子小的窘境中，学者往往仅在符合自身个体利益时才选择协作，跨学科大科学中心的运转严重依赖主任的个人魅力与协调风格。（p.374）
+> - **结论：跨学科协同高度脆弱** 中心主任被置于胡萝卜大而棒子小的窘境中，学者往往仅在符合自身个体利益时才选择协作，跨学科大科学中心的运转严重依赖主任的个人魅力与协调风格。
 
 #### 2. 中心主任缺乏人事权力与柔性协调的局限
 
 > [!citation-card] 中心主任论胡萝卜加大棒的管理困境
-> 我是靠着一根大胡萝卜和一根小棒子在进行管理。作为主任，除了晃荡资金外没有任何诱导手段；主任完全没有院系所拥有的那种人事权力与影响力。人们只有在自己想合作的时候才会合作……最大的挑战就是教师利益的多样性以及如何让他们协同工作。（p.374）
+> 我是靠着一根大胡萝卜和一根小棒子在进行管理。作为主任，除了晃荡资金外没有任何诱导手段；主任完全没有院系所拥有的那种人事权力与影响力。人们只有在自己想合作的时候才会合作……最大的挑战就是教师利益的多样性以及如何让他们协同工作。
 >
 > *I'm managing on the basis of a big carrot and a little stick. The director has no way to entice other than dangling money. The director has no power and influence like the departments have. People work together when they want to work together. (Center Director, 2004, p. 374)*
 
 > [!conclusion] 传统院系科层与跨学科中心模式的未竟磨合
-> 传统学术院系经历了数百年的制度演化，具有极其强大的组织惯性与文化韧性；新型大学跨学科研究中心的创设虽然拉开了科研范式革命的序幕，但因双重聘任机制造成的职责冲突与权力悬殊，其与古老大学院系科层结构的磨合与共存远未画上句号。（p.374）
+> 传统学术院系经历了数百年的制度演化，具有极其强大的组织惯性与文化韧性；新型大学跨学科研究中心的创设虽然拉开了科研范式革命的序幕，但因双重聘任机制造成的职责冲突与权力悬殊，其与古老大学院系科层结构的磨合与共存远未画上句号。
 
 ---
 
 > [!finding-cards] 核心发现
-> 1. **确立多学科大学研究中心支柱地位** [[Engineering Research Centers|ERC]] 计划代表了美国战后科技政策最重要的组织创新，促成了从院系孤立 PI 资助向跨学科[[Big Science|大科学]]中心模式的历史性转变。（pp.365–366）
-> 2. **建立高存续度与产业多元配比机制** ERC 保持了高达 79% 的历史存续率，中心年度总预算中产业界与地方资金占比高达约 70%，成功验证了政府种子引导与产业放大支撑的可行性。（pp.368–369）
+> 1. **确立多学科大学研究中心支柱地位** [[Engineering Research Centers|ERC]] 计划代表了美国战后科技政策最重要的组织创新，促成了从院系孤立 PI 资助向跨学科[[Big Science|大科学]]中心模式的历史性转变。
+> 2. **建立高存续度与产业多元配比机制** ERC 保持了高达 79% 的历史存续率，中心年度总预算中产业界与地方资金占比高达约 70%，成功验证了政府种子引导与产业放大支撑的可行性。
 > 3. **[[Sunset Provisions|日落条款]]与竞争淘汰奠定制度公信力** 布洛赫顶住压力对未达标早期中心的果断关停与十年日落条款的刚性执行，确立了严肃的绩效规划约束，杜绝了公帑长期依赖现象。
-> 4. **揭示[[Dual Appointment|双重聘任制]]下的组织治理张力** 中心必须嵌入传统院系的刚性规定导致学者承担双重工作负荷，中心主任在缺乏人事[[Hard Power|硬权力]]的情况下只能依托利益诱导维系跨学科协作。（pp.373–374）
+> 4. **揭示[[Dual Appointment|双重聘任制]]下的组织治理张力** 中心必须嵌入传统院系的刚性规定导致学者承担双重工作负荷，中心主任在缺乏人事[[Hard Power|硬权力]]的情况下只能依托利益诱导维系跨学科协作。
 
 > [!stat-cards]- 核心数据
-> - **56** 自 1984 年至 2004 年 [[National Science Foundation|NSF]] 累计资助成立的 ERC 数量（含地震工程专项中心）。（pp.368–369）
+> - **56** 自 1984 年至 2004 年 [[National Science Foundation|NSF]] 累计资助成立的 ERC 数量（含地震工程专项中心）。
 > - **0.79** 截至 2003 年底 ERC 项目的历史存活率（44/56）。
 > - **65.72** 2003 财年 NSF 向 ERC 项目直接划拨的经费总额（百万美元）。
-> - **≈ 30%** NSF 拨款在 ERC 中心年均运营总预算中所占的平均比例。（p.369）
+> - **≈ 30%** NSF 拨款在 ERC 中心年均运营总预算中所占的平均比例。
 
 ---
 
 > [!citation-card] 1984 年国家工程院指南核心定位
-> 中心的目标是改进工程研究，使美国工程师能够更好地协助美国工业提升在全球市场上的[[Competitiveness|竞争力]]。因此，工程研究与[[Engineering Education|工程教育]]必须以其在实现这一产学联动纽带上的成效作为评价标准。（p.367）
+> 中心的目标是改进工程研究，使美国工程师能够更好地协助美国工业提升在全球市场上的[[Competitiveness|竞争力]]。因此，工程研究与[[Engineering Education|工程教育]]必须以其在实现这一产学联动纽带上的成效作为评价标准。
 >
 > *The goal of the centers is to improve engineering research so that U.S. engineers will be better prepared to assist U.S. industry in becoming more competitive in world markets. Thus, engineering research and education must be judged by their success in achieving this linkage. (Mayfield, 1987, p. 131; p. 367)*
 
 > [!citation-card] 布洛赫论[[Sunset Provisions|日落条款]]的防膨胀初衷
-> 日落条款的逻辑非常明确：首先是为了确保中心真正学会依靠自己站稳脚跟；第二是为了遏制大兴土木、搞无限扩张实体的冲动。中心必须在规定期限内结出硕果，否则就该退出；大学如果希望中心持续运转，就必须接过接力棒去寻找新的资助方与资金。（p.374）
+> 日落条款的逻辑非常明确：首先是为了确保中心真正学会依靠自己站稳脚跟；第二是为了遏制大兴土木、搞无限扩张实体的冲动。中心必须在规定期限内结出硕果，否则就该退出；大学如果希望中心持续运转，就必须接过接力棒去寻找新的资助方与资金。
 >
 > *First, the sunset is very simple. It was put in place to make sure that centers find their feet. The second reason was to deflect from the idea of promoting bricks and mortar centers and ever-expanding centers. The idea of the sunset was at that time was that the centers should show fruit or die... A third good reason for the sunset is that the university should take over if they want the centers to continue. (Bloch, 2004, p. 374)*
 
 > [!citation-card] 大学中心主任论多学科协调的终极挑战
-> 我最大的挑战在于教师利益的多样性以及如何让他们团结协作。毫无疑问这个问题是最耗费时间与精力的大难题。当我们试图在他们的科研议程中添加新方向时，他们必须主动权衡放弃原有的一些东西……人们天然受自身利益驱动，只有当他们意识到我们要他们做的事情正是他们自己想做的时候，协作才会真正发生。（p.374）
+> 我最大的挑战在于教师利益的多样性以及如何让他们团结协作。毫无疑问这个问题是最耗费时间与精力的大难题。当我们试图在他们的科研议程中添加新方向时，他们必须主动权衡放弃原有的一些东西……人们天然受自身利益驱动，只有当他们意识到我们要他们做的事情正是他们自己想做的时候，协作才会真正发生。
 >
 > *My biggest challenge is the diversity of faculty interests and getting people to work together. There is no question that this issue is the biggest struggle and requires the most time and commitment. When we are trying to add something else to their agenda, they have to be convinced to give up something else... People are driven by their own self-interests. (Center Director, 2004, p. 374)*
 
@@ -309,7 +309,7 @@ updated: 2026-10-22
 
 > [!warning] 自述局限
 > - 作者明确指出，对于这些诞生仅二十余年的新型研究与教育制度能否最终同拥有数百年历史且根深蒂固的传统大学院系结构完美共存，学界目前仍难下定论（The jury is still out）。
-> - 布洛赫在访谈最后直陈当前科技政策与管理学界的关键认知盲区：尽管全美各级机构资助了海量中心（仅 [[National Science Foundation|NSF]] 就资助了 350 余所），但学界至今无人能确切说出大学研究中心的全美总数与具体分布；亟需构建统一的中心形态学与分类学（Morphology / Typology of centers），否则政策制定者根本无法系统研判资助布局的合理性与结构性缺口。（p.374）
+> - 布洛赫在访谈最后直陈当前科技政策与管理学界的关键认知盲区：尽管全美各级机构资助了海量中心（仅 [[National Science Foundation|NSF]] 就资助了 350 余所），但学界至今无人能确切说出大学研究中心的全美总数与具体分布；亟需构建统一的中心形态学与分类学（Morphology / Typology of centers），否则政策制定者根本无法系统研判资助布局的合理性与结构性缺口。
 
 ---
 
