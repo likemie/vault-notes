@@ -272,7 +272,7 @@ updated: 2026-10-23
 >     P1["初级研究未严格筛选质量"] -. "Snook et al., 2009" .-> PS
 >     P2["先验理论偏见驱动选择性删改"] -. "O'Connor, 2020" .-> PS
 >     P3["概念异质性：不同现象混入同一标签"] -. "Nielsen & Klitmøller, 2021" .-> MA
->     P4["六项慢性问题（GIGO、发表偏倚等）"] -. "Golovchin, 2019" .-> MA
+>     P4["发表偏倚与文献时效滞后"] -. "Snook et al., 2009; Terhart, 2011" .-> MA
 >     P5["跨层级叠加导致经验信息系统性损失"] -. "Terhart, 2011" .-> SMA
 >     P6["固定效应模型同质性假设系统违背"] -. "Wecker et al., 2016" .-> SMA
 >     P7["容忍高达 93% 样本重叠未作中和"] -. "Wecker et al., 2016" .-> SMA
@@ -285,6 +285,11 @@ updated: 2026-10-23
 
 > [!critique-method] 底层初级研究质控缺位与粗糙输入导致荒谬输出（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 94–96]]）
 > [[Ivan Snook|伊万·斯努克]]等新西兰学者指出，依据证据知情[[Policy Network|政策网络]]（[[EVIPNet|Evidence-Informed Policy Network]], EVIPNet）标准，严谨的[[Research Synthesis|研究综合]]（Research Synthesis）必须包含系统且显式的[[Primary and Secondary Documents|初级文献]]质量评估规程。[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中公开声明不评价原始研究优劣，导致低质研究被无差别纳入二阶聚合，陷入心理学界汉斯·艾森克所批驳的粗糙输入导致荒谬输出（Garbage in, garbage out, GIGO）困境。更严重的是，哈蒂在正文实践中呈现出双重标准：在[[Charter Schools|特许学校]]（报告 $d=0.20$）中承认剔除劣质研究后效应降至零；在[[Learning Styles|学习风格]]（报告 $d=0.41$）中又因商业动机断然否定该数据。这证实纯粹数字效应量根本无法脱离研究设计质量单独讨论，缺乏客观准入标准的二阶聚合严重破坏了科学客观性。
+
+> [!critique-method] 发表偏倚与文献时效的独立审查
+> 验证有效的研究较容易发表，无显著效果的尝试可能没有进入公开文献；汇总已发表研究因而可能高估效果。这一问题需要在原始研究质量审查之外单独考虑。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 97)]]
+>
+> 二阶综合还存在时间滞后：纳入的元分析多发表于 1980 至 1990 年代，其中初级研究通常更早。评估结论的适用性时，需要核查基础文献的时间范围，以及教师知识等研究领域后续的发展。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 428–429)]]
 
 > [!case] [[Homework|家庭作业]]效应量的逆向还原与加权缺失（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 25–26]]）
 > [[John Hattie|哈蒂]]仅用一段文字交代方法，综合 5 项元分析（涵盖 161 项研究、逾 10 万名学生）得出典型效应量 $d=0.29$。然而正文中完全未公布具体计算公式：
