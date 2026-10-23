@@ -17,6 +17,7 @@ fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2010–至今"
 initiator_organization: "World Bank"
+official_website: "https://microdata.worldbank.org/index.php/catalog/step/about"
 tags:
   - fact/program
   - field/comparative-education
@@ -55,6 +56,7 @@ updated: 2026-10-22
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2010 年作为世界银行开放知识与技能战略的核心实证支撑启动先导测试，并在全球数十个发展中国家持续常态化推进。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
+> - **官方平台与微观数据门户** 官方微观数据查询门户为世界银行数据总库 [World Bank Microdata Library: STEP Skills Measurement Program](https://microdata.worldbank.org/index.php/catalog/step/about)，提供分国别个人与雇主调查微观数据集。
 > - **发起方与资助机制** 由世界银行教育全球实践局（Education Global Practice）与社会保护及劳动实践局跨部门联合设计，设立多边受托信托基金联合国际援助机构共同注资。
 > - **覆盖范围与对象** 聚焦全球南方发展中经济体（如玻利维亚、哥伦比亚、格鲁吉亚、加纳、肯尼亚、老挝、斯里兰卡、乌克兰、越南等），样本覆盖 15–64 岁非机构化常住城乡劳动力人口及企业雇主。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
 > - **核心问题导向** 摆脱以往国际大规模测评（如 [[PISA]]、[[TIMSS]]）仅局限于在校中小学生及高收入国家的局限，填补广大发展中国家非正规就业与低技能环境中劳动者真实技能存量及供需错配的实证数据空白。

@@ -17,6 +17,7 @@ fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2013–至今"
 initiator_organization: "World Bank"
+official_website: "https://olc.worldbank.org/"
 tags:
   - fact/program
   - theme/world-bank
@@ -72,6 +73,7 @@ updated: 2026-10-23
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2013 年在原电子学院（e-Institute）基础上全面升级创设，2016 年正式完成新一代多媒体云平台重构并持续常态化运营。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4, 8)]]
+> - **官方平台与研修门户** 官方在线学习门户为 [World Bank Open Learning Campus](https://olc.worldbank.org/)，提供涵盖 WB Talks、WB Courses 与 WB Connect 的多维在线研修资源。
 > - **发起方与资助机制** 由世界银行统筹立项，世界银行学院具体承办，由世行行政运营预算及全球发展伙伴信托基金联合资助。
 > - **覆盖范围与对象** 面向全球 140 余个发展中国家的政策制定者、公务员队伍、发展项目经理、民间社会领袖及青年学生。
 > - **核心问题导向** 解决发展中国家政策官员缺乏接触前沿发展实证知识的物理壁垒，克服传统跨国面授培训成本高昂、辐射范围狭窄的瓶颈。

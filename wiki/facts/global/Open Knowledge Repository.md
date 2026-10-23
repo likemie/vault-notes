@@ -17,6 +17,7 @@ fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2012–至今"
 initiator_organization: "World Bank"
+official_website: "https://openknowledge.worldbank.org/"
 tags:
   - fact/program
   - theme/world-bank
@@ -62,6 +63,7 @@ updated: 2026-10-23
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2010 年世界银行宣布开放发展战略（Open Development Strategy），2012 年 4 月 OKR 平台正式挂牌上线，常态化持续更新运行至今。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
+> - **官方平台与检索门户** 官方在线仓储门户为 [World Bank Open Knowledge Repository](https://openknowledge.worldbank.org/)，提供全文免注册开放检索与批量下载。
 > - **发起方与资助机制** 由世界银行执行董事会批准开放知识决议，华盛顿总部知识管理与信息技术局统筹开发，运营与版权维护经费完全纳入世行常设行政预算保障。
 > - **覆盖范围与对象** 面向全球所有主权国家政策制定者、学术研究人员、教师学生及社会公众，提供完全免受付费壁垒限制的全文开放获取（Open Access）。
 > - **核心问题导向** 破除广大发展中国家因高昂的学术数据库订阅费用而长期承受的知识获取壁垒，终结发展研究成果滞留于世行内部档案系统的历史，加速实证研究在全球政策生态中的扩散。

@@ -18,6 +18,7 @@ fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "1998"
 initiator_organization: "世界银行（World Bank）与发展经济学研究局（DEC）"
+official_website: "https://openknowledge.worldbank.org/handle/10986/5981"
 tags:
   - fact/program
   - region/global
@@ -53,6 +54,7 @@ updated: 2026-10-23
 
 > [!program-context] 项目背景
 > - **研制周期与发布** 1997 年初由世行首席经济学家办公室组建专题跨学科研究团队，经过全球多轮学者咨询与同行审议，于 1998 年 10 月全球同步出版发行。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
+> - **官方报告发布与全文获取** 世界银行官方开放知识库收录主页为 [World Development Report 1998/1999: Knowledge for Development](https://openknowledge.worldbank.org/handle/10986/5981)（亦可参见世行永久文献记录 [WB Documents & Reports](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/179521468765285770/world-development-report-1998-1999-knowledge-for-development)），提供全书多语种全文与各章附录免费下载。
 > - **发起方与智力支撑** 由世界银行[[Development Economics Vice Presidency|发展经济学研究局]]（DEC）牵头研制，汇聚了全球顶尖发展经济学家、教育学家、信息社会学家与借款国政策官员。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
 > - **覆盖范围与受众** 面向联合国会员国、借款国政府首脑、财长与教育部长、国际援助机构、学术界及公民社会。
 > - **核心问题导向** 解释二战后数十年来单纯依靠巨额基础设施贷款和实物资本转移为何未能根本缩小南北贫富差距，指出发展中国家深陷贫困的关键症结在于获取前沿科学知识的制度壁垒与市场信息不对称。

@@ -16,6 +16,7 @@ fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "1986–至今"
 initiator_organization: "世界银行发展经济学研究局（DEC）与牛津大学出版社（Oxford University Press）"
+official_website: "https://academic.oup.com/wber"
 tags:
   - fact/program
   - region/global
@@ -52,6 +53,7 @@ updated: 2026-10-23
 
 > [!program-context] 项目背景
 > - **创刊时间与发行周期** 1986 年正式创刊，每年出版 3 至 4 期，常态化稳定发行至今。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
+> - **官方主页与出版门户** 官方期刊主页为牛津大学出版社 [The World Bank Economic Review](https://academic.oup.com/wber)，提供当期成果检索与历史卷期开放获取。
 > - **主办与出版主体** 由世界银行发展经济学研究局（DEC）主持编审委员会，牛津大学出版社负责全球实体印制与数字化发行。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
 > - **覆盖范围与赠阅机制** 采取独特的跨国分发策略，向非 OECD 成员国（中低收入发展中国家）的 9,500 多个大学图书馆、政策智库与政府规划机构免费邮寄赠阅，使其成为全球南方流通最广的经济学学术期刊。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 6)]]
 > - **办刊宗旨** 搭建连接前沿微观计量经济学实证研究与现实发展政策干预的高水准学术桥梁，向国际社会系统输出经世行方法论筛选的实证证据。

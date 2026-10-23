@@ -17,6 +17,7 @@ fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "1982–至今"
 initiator_organization: "世界银行执行董事会（World Bank Board of Executive Directors）"
+official_website: "https://www.worldbank.org/en/programs/scholarships#3"
 tags:
   - fact/program
   - region/global
@@ -50,6 +51,7 @@ updated: 2026-10-23
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 1982 年经世行执董会决议设立，长年持续稳定运行至今。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 5)]]
+> - **官方平台与申请门户** 官方项目主页为世界银行奖学金平台 [World Bank Scholarships: Robert S. McNamara Fellowships Program](https://www.worldbank.org/en/programs/scholarships#3)，发布年度资助指南、遴选标准与入选公示。
 > - **发起方与资助机制** 由世界银行执行董事会统筹，设立专门捐赠基金管理，资金收益全额用于支付受资助学者的境外研究津贴、往返国际旅费、健康保险及科研经费（单人资助额度最高达 40,000 至 45,000 美元）。
 > - **覆盖范围与对象** 专门面向来自世界银行中低收入借款国的青年学者（通常要求年龄在 35 周岁以下、正在攻读发展政策相关博士学位或具有同等实证研究背景）。
 > - **核心问题导向** 破解全球南方国家在实证发展经济学、教育财政与公共政策前沿研究领域的基础设施匮乏，改变发展中国家青年学者缺乏顶尖国际学术交流平台与前沿微观计量训练的困境。

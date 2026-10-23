@@ -81,9 +81,19 @@
               "icon": "lucide-file",
               "title": "Argument_Steiner-Khamsi_2024_UNESCO"
             }
+          },
+          {
+            "id": "85560c43055928d4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -288,8 +298,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "d7b750b1933da6ff",
+  "active": "85560c43055928d4",
   "lastOpenFiles": [
+    "wiki/arguments/reports-policy-documents/Argument_Steiner-Khamsi_2024_UNESCO.md",
     "wiki/facts/global/World Bank Economic Review.md",
     "wiki/facts/global/Development Gateway.md",
     "wiki/persons/us/Robin Broad.md",
@@ -319,7 +330,6 @@
     "wiki/concepts/educational-policy-reform/Funder Coalition for URE.md",
     "wiki/facts/asia/Third Elementary Education Project in India.md",
     "wiki/facts/asia",
-    "wiki/concepts/comparative-education/Reform Fatigue.md",
     "sources/Stone_2020_PolSoc.pdf",
     "wiki/arguments/journal-articles/Policy and Society",
     "output/related-updates/Argument_Campbell_2026_JPCC-5acb0bfd/batch-009/result.json",

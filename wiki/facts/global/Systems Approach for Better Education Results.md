@@ -17,6 +17,7 @@ fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2011–至今"
 initiator_organization: "World Bank"
+official_website: "https://saber.worldbank.org/"
 tags:
   - fact/program
   - field/comparative-education
@@ -59,6 +60,7 @@ updated: 2026-10-22
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2011 年作为世界银行《2020 年教育部门战略：全民学习》（*Learning for All: Investing in People's Knowledge and Skills to Promote Development*）的核心支撑技术正式启动，持续运行至今。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
+> - **官方平台与量规门户** 官方在线对标门户为 [World Bank SABER](https://saber.worldbank.org/)，提供 13 个政策领域的诊断框架、国别报告库与指标数据。
 > - **发起方与资助机制** 世界银行华盛顿总部教育全球实践局主导研发，联合英国国际发展部（现 FCDO）、澳大利亚外交贸易部等双边援助机构设立多边信托基金共同资助。
 > - **覆盖范围与对象** 覆盖全球 100 余个低收入与中等收入国家，系统诊断学前教育、基础教育至高等教育各层级教育管理体系。
 > - **核心问题导向** 摆脱以往仅聚焦校舍建造或生均课本等单一物质“投入指标”的援助弊端，转向对国家整体教育治理制度效能与系统配套能力的标准化量化评估。

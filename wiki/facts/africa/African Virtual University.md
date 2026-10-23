@@ -17,6 +17,7 @@ fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "1997–至今"
 initiator_organization: "World Bank"
+official_website: "https://www.avu.org/"
 tags:
   - fact/program
   - field/comparative-education
@@ -50,6 +51,7 @@ updated: 2026-10-22
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1997 年作为世界银行知识银行战略的关键试点项目正式启动，2003 年实现独立政府间法人化改组并常态化运营。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
+> - **官方平台与检索门户** 官方在线门户为 [African Virtual University (AVU)](https://www.avu.org/)，提供跨国开放教育资源（OER）知识库、多语种数字课程与机构协作网络资讯。
 > - **发起方与资助机制** 由世界银行直接策划并提供启动贷款，联合非洲开发银行（AfDB）、联合国开发计划署（UNDP）及多个双边发展援助机构建立专项基金共同资助。
 > - **覆盖范围与对象** 辐射覆盖撒哈拉以南非洲 27 个主权国家的 53 所公立高等院校，服务对象主要为非洲在校本科生、急需职后学历提升的中学数理师资及公职人员。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4, 5)]]
 > - **核心问题导向** 针对 1990 年代非洲高等教育在结构调整后普遍遭遇的财政枯竭、实体大学校园容量饱和、适龄毛入学率畸低（仅约 5%）以及中学理工科（[[STEM Education|STEM]]）教师极端匮乏的结构性危机。

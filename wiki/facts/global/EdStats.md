@@ -18,6 +18,7 @@ fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1998–至今"
 initiator_organization: "World Bank"
+official_website: "https://datatopics.worldbank.org/education/"
 tags:
   - fact/program
   - theme/world-bank
@@ -75,6 +76,7 @@ updated: 2026-10-23
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1998 年由世界银行正式启动构建，历经多次架构升级与开放数据改革，常态化持续更新运行至今。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
+> - **官方平台与查询门户** 官方在线门户为 [World Bank EdStats](https://datatopics.worldbank.org/education/)（亦可访问世行数据目录收录页 [Data Catalog: Education Statistics](https://datacatalog.worldbank.org/search/dataset/0038411)），提供全球指标检索、微观数据下载与交互式图表。
 > - **发起方与资助机制** 由世界银行高级副行长兼首席经济学家管辖下的[[Development Economics Vice Presidency|发展经济学研究局]]（DEC）数据部与教育全球实践局联合发起并运营，全额纳入世行常设统计与科研预算保障。
 > - **覆盖范围与对象** 覆盖全球 242 个国家和经济体的宏观与微观教育数据，直接服务于借款国教育行政部门、学术科研人员及国际多边援助机构。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 7)]]
 > - **核心问题导向** 解决全球教育统计口径碎片化、跨国学业测评标准难以横向对接的瓶颈，为基于证据的教育政策干预提供统一数据基准。

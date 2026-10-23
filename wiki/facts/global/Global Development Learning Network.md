@@ -17,6 +17,7 @@ fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2000–至今"
 initiator_organization: "World Bank"
+official_website: "https://gdln.org/"
 tags:
   - fact/program
   - theme/world-bank
@@ -65,6 +66,7 @@ updated: 2026-10-23
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2000 年世界银行在华盛顿正式宣布启动 GDLN 倡议，伴随通信基础设施迭代持续常态化拓展与运营至今。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
+> - **官方平台与合作门户** 官方全球网络门户为 [Global Development Learning Network](https://gdln.org/)，提供全球 120 余个远程学习中心目录与南南研讨活动发布。
 > - **发起方与资助机制** 由世界银行学院牵头设计并提供核心资助，广泛动员双边官方发展援助机构及全球伙伴高校共同出资建设在地站点。
 > - **覆盖范围与对象** 遍布全球亚非拉 80 余个国家的 120 多个合作中心，直接受众涵盖发展中国家政府高级公职人员、议会议员、[[Grandes Ecoles|大学校]]长及地方发展规划人员。
 > - **核心问题导向** 克服广大发展中国家官员因国际差旅成本高昂而难以获得国际前沿政策研修的地理瓶颈，打破信息闭塞，加速跨国知识流动。

@@ -18,6 +18,7 @@ fact_related_color: "#dcfce7"
 org_type: "国际非营利组织 / 全球发展数据与数字治理机构"
 headquarters: "Washington, D.C., United States"
 established: "2000"
+official_website: "https://developmentgateway.org/"
 tags:
   - fact/organization
   - region/global
@@ -51,6 +52,7 @@ updated: 2026-10-23
 
 > [!org-context] 机构背景
 > - **创立时间与历史渊源** 1999 年由沃尔芬森在世行年会正式提出构想，作为[[Strategic Compact|战略契约]]与知识银行战略的对外开放载体；2000 年正式上线运行；2004 年世行执董会批准其剥离为独立的非政府国际组织（总部设于华盛顿特区）。[[Argument_Zapp_2017_IJED|(Zapp, 2017, p. 4)]]
+> - **官方门户与数据工具** 官方机构门户为 [Development Gateway: An IREX Venture](https://developmentgateway.org/)，提供援助管理平台（AMP）与数字数据治理工具。
 > - **法律性质与治理架构** 国际非营利组织（501(c)(3)）；由世界银行高级代表、借款国政府官员、私营部门技术领袖与国际民间社会代表组成联合理事会。
 > - **总部与全球辐射** 总部设于美国华盛顿特区，在塞内加尔达喀尔、阿根廷布宜诺斯艾利斯等地设有区域办公室，服务覆盖全球逾 40 个中低收入国家。
 > - **核心使命** 打破发展援助领域长期存在的数据垄断与信息不对称，通过构建开源数据工具、援助管理平台（AMP）与决策支持系统，将全球发展知识转化为受援国一线的数字化治理能力。
