@@ -30,7 +30,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[World Bank]]"
-  - "[[Chartered College of Teaching]]"
+  - "[[Inter-American Development Bank]]"
 related_arguments:
   - "[[Argument_Stone_2020_PolSoc]]"
 confidence: medium
