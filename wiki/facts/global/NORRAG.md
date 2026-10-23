@@ -9,9 +9,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 国际非营利政策研究智库与学术协作网络（International Policy Research Network & Think Tank）
 headquarters: 日内瓦（Geneva, 瑞士）
@@ -42,6 +42,7 @@ related_instruments: []
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
+  - "[[International Development Research Centre]]"
   - "[[System Development Corporation]]"
   - "[[World Bank]]"
   - "[[UNESCO]]"
@@ -62,7 +63,7 @@ updated: 2026-10-23
 > [[International Education|国际教育]]与培训合作政策研究网络（Network for International Policies and Cooperation in Education and Training, NORRAG）是设于日内瓦高级国际关系及发展学院（IHEID）的全球性独立政策研究智库与学术网络，旨在通过提供批判性[[Knowledge Production|知识生产]]、监测国际教育援助及搭建多边政策对话平台，弥合全球南方与全球北方在教育治理中的[[Knowledge Power|知识权力]]鸿沟。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 2, 8, 60)]]
 
 > [!org-context] 机构背景
-> - **成立时间与历史渊源** 其源头可追溯至 1977 年由加拿大国际发展研究中心（IDRC）支持成立的“研究审查与咨询小组”（Research Review and Advisory Group, RRAG）；1986 年正式改组重构为北部研究审查与咨询小组（Northern Research Review and Advisory Group, NORRAG），后确立为当今的常设性国际政策研究网络。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 8, 60)]]
+> - **成立时间与历史渊源** 其源头可追溯至 1977 年由[[International Development Research Centre|加拿大国际发展研究中心]]（IDRC）支持成立的“研究审查与咨询小组”（Research Review and Advisory Group, RRAG）；1986 年正式改组重构为北部研究审查与咨询小组（Northern Research Review and Advisory Group, NORRAG），后确立为当今的常设性国际政策研究网络。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 8, 60)]]
 > - **总部地点与辐射范围** 实体秘书处常设于瑞士日内瓦高级国际关系及发展学院，业务辐射全球 160 个国家，拥有超过 4,600 名跨国学者、国际组织官员、智库研究员与社会活动家个人会员。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 8, 60)]]
 > - **法人属性与资助结构** 属于非营利性学术与[[Policy Brokerage|政策中介]]实体，获得瑞士发展合作署（[[System Development Corporation|SDC]]）、国际开放社会基金会、各多边信托基金以及瑞士联邦政府的长期研究资助。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 17, 60)]]
 > - **核心使命** 挑战国际多边机构推行的[[Technical Rationality|技术理性]]与新自由主义政策处方，倡导全球教育知识生产的去中心化、本土化与社会正义，捍卫全球南方的教育政策议程设定权。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 21–24, 46)]]

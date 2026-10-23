@@ -11,7 +11,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Global Partnership for Education]]"
+  - "[[International Development Research Centre]]"
   - "[[UNESCO]]"
   - "[[SUMMA]]"
   - "[[OECD]]"
@@ -59,7 +60,7 @@ updated: 2026-10-23
 ---
 
 > [!claim] 项目定位
-> 知识与创新交流机制（Knowledge and Innovation Exchange，简称 KIX）是[[Global Partnership for Education|全球教育伙伴关系]]（Global Partnership for Education，GPE）与加拿大国际发展研究中心（International Development Research Centre，IDRC）联合发起的旗舰[[Knowledge Mediation|知识中介]]与政策促进项目，旨在通过区域同侪交流与本土证据转化，提升发展中国家国家教育部门规划与政策落地的实证基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]
+> 知识与创新交流机制（Knowledge and Innovation Exchange，简称 KIX）是[[Global Partnership for Education|全球教育伙伴关系]]（Global Partnership for Education，GPE）与[[International Development Research Centre|加拿大国际发展研究中心]]（International Development Research Centre，IDRC）联合发起的旗舰[[Knowledge Mediation|知识中介]]与政策促进项目，旨在通过区域同侪交流与本土证据转化，提升发展中国家国家教育部门规划与政策落地的实证基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2019 年正式启动，一期执行至 2023 年，2024 年启动 KIX 2.0 深化阶段并持续常态化运行。

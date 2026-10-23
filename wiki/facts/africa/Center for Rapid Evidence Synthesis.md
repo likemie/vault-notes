@@ -11,9 +11,9 @@ subtype: organization
 region: africa
 fact_region: "africa"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "大学附属知识转化平台"
 headquarters: "坎帕拉（乌干达）"
@@ -48,6 +48,7 @@ related_persons:
 related_facts:
   - "[[EVIPNet]]"
   - "[[UNESCO]]"
+  - "[[International Development Research Centre]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
@@ -64,7 +65,7 @@ updated: 2026-10-23
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创设于 2010 年，依托世界卫生组织与乌干达国家卫生政策与系统研究信息交流所的合作框架，旨在解决非洲国家在面临突发公共危机或法律修订时科研证据供给严重滞后于行政时间窗口的痛点。
 > - **总部地点 / 业务辐射** 设于乌干达首都坎帕拉马凯雷雷大学主校区，业务深度嵌入乌干达卫生部与议会常设委员会，并为东非及撒哈拉以南非洲多国知识转化团队提供技术输出。
-> - **法人属性与经费基础** 嵌入公立[[Research Universities|研究型大学]]建制内部的半独立专业智库与转化中介，经费由大学经常性预算、乌干达政府委托课题及国际发展基金（加拿大国际发展研究中心 IDRC、英国惠康基金会等）共同资助。
+> - **法人属性与经费基础** 嵌入公立[[Research Universities|研究型大学]]建制内部的半独立专业智库与转化中介，经费由大学经常性预算、乌干达政府委托课题及国际发展基金（[[International Development Research Centre|加拿大国际发展研究中心]] IDRC、英国惠康基金会等）共同资助。
 > - **核心宗旨与法定职责** 确保政策制定者在需要的时刻获得经过严格质量评估与情境化转译的高质量证据；推动公共卫生与民生政策走向证据知情治理。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 35)]]
 
 ---

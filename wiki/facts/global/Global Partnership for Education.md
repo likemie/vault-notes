@@ -11,9 +11,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 国际多利益相关方伙伴组织（Multi-Stakeholder Partnership）
 headquarters: 华盛顿特区（Washington, D.C.）
@@ -45,6 +45,8 @@ related_facts:
   - "[[Bill & Melinda Gates Foundation]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Knowledge and Innovation Exchange]]"
+  - "[[International Development Research Centre]]"
+  - "[[International Institute for Educational Planning]]"
   - "[[OECD]]"
   - "[[PISA]]"
 related_arguments:
@@ -72,7 +74,7 @@ updated: 2026-10-23
 > [!dev-timeline] 组织发展历程
 > - **2002–2010 — [[Education for All|全民教育]]快车道倡议（EFA-FTI）奠基期** 2002 年在蒙特雷发展筹资国际会议上发起成立，作为[[World Bank|世界银行]]与[[UNESCO|联合国教科文组织]]加速落实全民教育达喀尔目标的紧密合作工具；初期高度依附于世界银行放贷审批流程，重点资助初等教育完成率考核达标的发展中国家。
 > - **2011–2018 — 机构独立重组与 GPE 多边治理确立** 2011 年彻底脱离单纯依靠世行托管的运作模式，正式更名为全球教育伙伴关系（GPE）；吸纳发展中国家、教师工会与国际非政府组织代表进入董事会，建立起首个多利益相关方联合治理架构。
-> - **2019–至今 — [[Knowledge and Innovation Exchange|KIX]] 枢纽建立与[[Policy Brokerage|政策中介]]深化** 2019 年联合加拿大国际发展研究中心（IDRC）正式设立“知识与创新交流”（Knowledge and Innovation Exchange，KIX）机制，在全球南方设立 4 大区域中介枢纽，推动从传统的外部援助赠款向系统性支持区域同侪互学与本土证据利用演变。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]
+> - **2019–至今 — [[Knowledge and Innovation Exchange|KIX]] 枢纽建立与[[Policy Brokerage|政策中介]]深化** 2019 年联合[[International Development Research Centre|加拿大国际发展研究中心]]（IDRC）正式设立“知识与创新交流”（Knowledge and Innovation Exchange，KIX）机制，在全球南方设立 4 大区域中介枢纽，推动从传统的外部援助赠款向系统性支持区域同侪互学与本土证据利用演变。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]
 
 ---
 
@@ -103,7 +105,7 @@ updated: 2026-10-23
 ---
 
 > [!indicators] 影响力维度与指标
-> - **全球证据知名度与经常调阅枢纽** 在涵盖 103 国教育决策者与规划师的全球战略审查中，GPE 名列全球认知度最高的证据主体第 7 位，并在经常查阅频次最高的证据源中高居第 6 位（13 次独立提名，仅次于四大跨国巨头与 IIEP）；其设立的 KIX 机制亦跻身全球最知名证据转化机制前 15 位。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 22–24)]]
+> - **全球证据知名度与经常调阅枢纽** 在涵盖 103 国教育决策者与规划师的全球战略审查中，GPE 名列全球认知度最高的证据主体第 7 位，并在经常查阅频次最高的证据源中高居第 6 位（13 次独立提名，仅次于四大跨国巨头与 [[International Institute for Educational Planning|IIEP]]）；其设立的 KIX 机制亦跻身全球最知名证据转化机制前 15 位。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 22–24)]]
 > - **资源与网络规模** 汇聚全球数十个双边捐助国与多边机构资金，累计动员超 80 亿美元多边赠款，覆盖近 90 个伙伴发展中国家。
 > - **[[Knowledge Production|知识生产]]与同侪中介** 依托 [[Knowledge and Innovation Exchange|KIX]] 机制资助设立 4 大区域知识枢纽，支持 70 余个国家开展本土应用政策研究与跨国经验交流。
 > - **政策与制度渗透** 通过地方教育集团（LEG）与年度联合部门审查（JSR），深度介入发展中国家国家教育部门规划（ESP）的起草与财政预算分配。
@@ -140,9 +142,9 @@ updated: 2026-10-23
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Global Education Governing Complex]] | Concept | GPE 是全球教育治理复合体五大多边核心机构之一。 |
-> | [[Policy Brokerage]] | Concept | GPE 依托 [[Knowledge and Innovation Exchange|KIX]] 区域枢纽在全球南方国家扮演关键的政策中介角色。 |
+> | [[Policy Brokerage]] | Concept | GPE 依托 [[Knowledge and Innovation Exchange\|KIX]] 区域枢纽在全球南方国家扮演关键的政策中介角色。 |
 > | [[OECD]] | Fact (Organization) | 与 GPE 共同争夺有限私人慈善资本的全球规制巨头。 |
 > | [[UN Sustainable Development Goals]] | Fact (Policy) | GPE 的核心法定使命是推进落实 SDG 4 优质教育目标。 |
 > | [[PISA]] | Fact (Program) | GPE 协调受援国基础教育评估时参考的国际测评标准。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] | Argument | 战略审查实证确认 GPE 在全球经常调阅证据源中位列第 6，并依托 KIX 四大区域枢纽连接多边资金与本土试点。 |
-> | [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] | Argument | 剖析 GPE 的区域同侪经验汲取模式、KIX 枢纽运作及其与经合组织、世界银行围绕慈善资本的利基竞争。 |
+> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] | Argument | 战略审查实证确认 GPE 在全球经常调阅证据源中位列第 6，并依托 KIX 四大区域枢纽连接多边资金与本土试点。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | Argument | 剖析 GPE 的区域同侪经验汲取模式、KIX 枢纽运作及其与经合组织、世界银行围绕慈善资本的利基竞争。 |

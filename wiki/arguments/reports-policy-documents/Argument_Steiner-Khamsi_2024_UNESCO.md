@@ -7,9 +7,9 @@ title: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_key: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_display_title: "Strategic review: Improving the use of evidence for education policy, planning and implementation"
 argument_kind: "report"
-argument_related_count: 104
-argument_related_level: 10
-argument_related_stars: "💎💎💎⭐"
+argument_related_count: 111
+argument_related_level: 11
+argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Gita Steiner-Khamsi|Steiner-Khamsi, G.]]"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Cultural Validity]]"
   - "[[Educational Brokerage Agency]]"
+  - "[[Knowledge Mediation]]"
   - "[[Absorptive Capacity]]"
   - "[[Regional Large-Scale Assessments]]"
   - "[[Reform Fatigue]]"
@@ -110,6 +111,8 @@ related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[UNICEF]]"
+  - "[[RTI International]]"
+  - "[[FHI 360]]"
   - "[[Jacobs Foundation]]"
   - "[[Mastercard Foundation]]"
   - "[[Latin American Campaign for the Right to Education]]"
@@ -118,6 +121,9 @@ related_facts:
   - "[[NORRAG]]"
   - "[[SUMMA]]"
   - "[[Education Sub Saharan Africa]]"
+  - "[[Education.org]]"
+  - "[[Global Education Evidence Advisory Panel]]"
+  - "[[Building Evidence in Education]]"
   - "[[IEA]]"
   - "[[SACMEQ]]"
   - "[[PASEC]]"
@@ -149,7 +155,10 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[CORE Education]]"
   - "[[System Development Corporation]]"
+  - "[[International Development Research Centre]]"
   - "[[Bill & Melinda Gates Foundation]]"
+  - "[[Aga Khan Foundation]]"
+  - "[[Lemann Foundation]]"
 status: draft
 created: 2026-10-22
 updated: 2026-10-23
@@ -187,7 +196,7 @@ updated: 2026-10-23
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **全球问卷调查**<br>[[Survey Research\|Survey Research]] | 采用多语种在线问卷调查，在联合国六种官方语言（阿拉伯语、中文、英语、法语、俄语、西班牙语）下收集 898 名全球受访者对现有证据平台使用习惯与 SDG 4 目标支撑度的评估（pp. 18–20）。 |
-> | **关键知情人访谈**<br>Semi-structured Interview | 组织 14 场专题会议对 33 位跨国教育政策决策者、国际组织官员（来自 [[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）、[[World Bank\|世界银行]]（World Bank）、[[UNICEF\|联合国儿童基金会]]（United Nations Children's Fund, UNICEF）、美国国际开发署（United States Agency for International Development, USAID））、区域网络负责人与基金会代表（如[[Jacobs Foundation\|雅各布斯基金会]]、[[Mastercard Foundation\|万事达卡基金会]]等）展开深度访谈（pp. 19–20, 59）。 |
+> | **关键知情人访谈**<br>Semi-structured Interview | 组织 14 场专题会议对 33 位跨国教育政策决策者、国际组织官员（来自 [[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）、[[World Bank\|世界银行]]（World Bank）、[[UNICEF\|联合国儿童基金会]]（United Nations Children's Fund, UNICEF）、美国国际开发署（United States Agency for International Development, USAID））、实施智库与测评研发机构代表（来自[[RTI International\|三角研究园区国际研究所]]（RTI International）、[[FHI 360\|家庭健康国际 360]]（FHI 360））、区域网络负责人与基金会代表（如[[Jacobs Foundation\|雅各布斯基金会]]、[[Mastercard Foundation\|万事达卡基金会]]等）展开深度访谈（pp. 19–20, 57–59）。 |
 > | **证据咨询二部网络分析**<br>[[Two-Mode Network Analysis\|Two-Mode Network Analysis]] | 提取问卷第三题（Q3）中受访者实际经常调阅的机构实体，构建“受访者—被查阅证据源”两模二部网络（Bipartite Affiliation Network），通过度中心度（Degree Centrality）、网络密度（Network Density）与连通分量分解（Component Analysis）测绘全球教育证据利用的拓扑结构（pp. 22–24, 60–61）。该网络刻画受访者的实际咨询行为，独立于第四章基于引文数据的共被引分析。 |
 > | **对照案例比较**<br>[[Comparative Case Study\|Comparative Case Study]] | 选取全球公共卫生领域作为对照部门，考察循证医学与卫生[[Policy Network\|政策网络]]在处理证据层级、跨国转化与多利益相关者协调中的长效治理经验（pp. 28–29）。 |
 > | **文献计量与共被引网络**<br>[[Bibliometric Analysis\|Bibliometric Analysis]] | 检索 Web of Science 数据库中关于教育（1,825篇）与公共卫生（1,660篇）政策证据利用的[[Systematic Review\|系统综述]]文献，测算年均复合增长率、高被引文献分布并绘制共被引拓扑网络（pp. 29–32, 64–65）。 |
@@ -198,7 +207,7 @@ updated: 2026-10-23
 > | **问卷调查样本** | 共回收 898 份完整问卷；306 名受访者披露居住国，覆盖教科文组织划分的全部五大区域共 103 个国家（亚太 33%、非洲 25%、欧洲与北美 23%、拉美及加勒比 14%、阿拉伯国家 8%）；受访者专业背景涵盖高校与智库研究者（22%）、教育部委官员（19%）、民间社会组织代表（18%）、教师组织与教学专业人员（14%）以及国际组织官员（10%）（pp. 18–19）。 |
 > | **网络拓扑分析子样本** | 在全部 898 名受访者中，共有 286 位决策者与研究者在问卷第三题（Q3）中填报了具体经常调阅的证据源，累计映射出 432 个独立的证据主体与平台（国家级 234 个、国际级 124 个、区域级 74 个），构成图 3.2 拓扑网络的数据实体（pp. 21–24）。 |
 > | **文献计量样本** | 纳入 1999 年后发表在引文索引库中的 1,660 篇公共卫生政策证据利用文献与 1,825 篇教育政策证据利用文献，分别提取关键词共现频次与参考文献共引矩阵，形成包含 510 个高连接度节点的拓扑图谱（pp. 30–32, 64–65）。 |
-> | **定性访谈样本** | 涵盖全球多边机构、区域性民间社会网络（如[[Latin American Campaign for the Right to Education\|拉丁美洲受教育权运动]]（Latin American Campaign for the Right to Education, CLADE）、[[Africa Network Campaign on Education for All\|全非全民教育网络运动]]（Africa Network Campaign on Education for All, ANCEFA）、[[Asia South Pacific Association for Basic and Adult Education\|亚太基础与成人教育协会]]（Asia South Pacific Association for Basic and Adult Education, ASPBAE））与智库平台（如[[NORRAG\|国际教育与培训合作政策研究网络]]（Network for International Policies and Cooperation in Education and Training, NORRAG）、拉丁美洲教育创新与研究中心（[[SUMMA]]）、[[Education Sub Saharan Africa\|撒哈拉以南非洲教育倡议]]（Education Sub Saharan Africa））的领导层专家（pp. 19–20）。 |
+> | **定性访谈样本** | 涵盖全球多边机构、区域性民间社会网络（如[[Latin American Campaign for the Right to Education\|拉丁美洲受教育权运动]]（Latin American Campaign for the Right to Education, CLADE）、[[Africa Network Campaign on Education for All\|全非全民教育网络运动]]（Africa Network Campaign on Education for All, ANCEFA）、[[Asia South Pacific Association for Basic and Adult Education\|亚太基础与成人教育协会]]（Asia South Pacific Association for Basic and Adult Education, ASPBAE））、全球实施智库（如[[RTI International]]、[[FHI 360]]）与区域平台（如[[NORRAG\|国际教育与培训合作政策研究网络]]（Network for International Policies and Cooperation in Education and Training, NORRAG）、拉丁美洲教育创新与研究中心（[[SUMMA]]）、[[Education Sub Saharan Africa\|撒哈拉以南非洲教育倡议]]（Education Sub Saharan Africa））的领导层专家（pp. 19–20, 57–58）。 |
 
 ---
 
@@ -245,7 +254,7 @@ updated: 2026-10-23
 > - **慢车道**
 >   由大学教授、独立科研机构学者构成。该车道专注于探索基础规律、检验理论模型以及开展漫长严苛的同行评议，通常对行政决策的瞬时需求响应迟缓。
 > - **中间车道**
->   由政策中介与[[Educational Brokerage Agency|知识经纪]]机构构成，其职能是将慢车道产出的复杂深奥学术文献提炼包装为适配快车道节奏的政策摘要。
+>   由政策中介与[[Educational Brokerage Agency|知识经纪]]机构构成（如全球教育[[Knowledge Mediation|知识中介]]组织 [[Education.org]]、[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP）以及 教育实证构建工作组（[[Building Evidence in Education|BE2]]）），其职能是将慢车道产出的复杂深奥学术文献提炼包装为适配快车道节奏的政策摘要（p. 14）。
 
 > [!case] 知识中介机构填补政学鸿沟的职能演化（Lubienski, 2019）
 > - **中介网络入场填补认知鸿沟** 教育政策学者[[Christopher Lubienski|克里斯托弗·卢宾斯基]]（Christopher Lubienski, 2019）指出，在学术研究生产与政府政策制定之间的巨大鸿沟中，涌现出大量咨询公司、智库与基金会等中介网络。这些机构主动搜集、包装并推销实证材料，试图直接干预并引导决策官员的方案选择（p. 14）。
@@ -256,7 +265,7 @@ updated: 2026-10-23
 
 > [!case] 政策全生命周期中的实施科学赤字与规模化框架（McLean & Gargani, 2019）
 > - **政策周期的实施盲区** 罗伯特·麦克莱恩（Robert McLean）与约翰·加尔加尼（John Gargani, 2019）的规模化[[Analytic Framework|分析框架]]指出，公共干预从概念验证走向全面推广包含向上拓展（Scaling Up，政策制度化）、向外拓展（Scaling Out，覆盖人数与地域扩大）以及向深拓展（Scaling Deep，价值观念与文化规范重塑）（p. 17）。
-> - **微观实证脱离中观规划** 当前绝大多数实验干预（如小型[[Randomised Controlled Trials|随机对照试验]]）仅能证明微观试点在理想受控状态下的有效性；一旦面对庞大的国家公立教育系统，由于缺乏对财政[[Absorptive Capacity|吸收能力]]、教师工作负荷以及地方官僚博弈的中观规划研究，这些试验结论往往在推广阶段彻底失效（pp. 17–18）。
+> - **微观实证脱离中观规划** 当前绝大多数实验干预（如小型[[Randomised Controlled Trials|随机对照试验]]）仅能证明微观试点在理想受控状态下的有效性；在实施智库与测评研发机构（如研发早期阅读评估的 [[RTI International]] 以及深耕危机情境教育数据建模的 [[FHI 360]]）协助双边多边机构推进的国际发展项目中，一旦面对庞大的国家公立教育系统，由于缺乏对财政[[Absorptive Capacity|吸收能力]]、教师工作负荷以及地方官僚博弈的中观规划研究，这些试验结论往往在推广阶段彻底失效（pp. 17–19, 57）。
 > - **区域大规模测评的动员潜能（[[Regional Large-Scale Assessments|RLSAs]]）** 报告指出，经合组织与[[IEA|国际教育成就评价协会]]的全球测评，或者[[Regional Large-Scale Assessments|区域大规模学业成就测评]]（Regional Large-Scale Assessments, RLSAs，如非洲的 [[SACMEQ]] 与 [[PASEC]]、拉丁美洲的 [[LLECE]]、东南亚的 [[SEA-PLM]] 及太平洋岛国的 [[PILNA]]），高度适合用于激发公众意识并为重大变革争取政治支持，在动员政治关注方面展现出极强的情境合法性（p. 16）。
 > - **全球[[Reform Fatigue|改革疲惫]]与中观治理转向（Bromley et al., 2021）** 帕特丽夏·布罗姆利等学者对 1960–2017 年间 147 国 6,700 项教育改革的大数据分析表明，新自由主义全球宏观教育改革在 2000 年左右达峰后陷入停滞，全球教育治理步入深度的[[Reform Fatigue|教育改革疲惫]]（Reform Fatigue）与消化巩固期；多边机构因而从推动自上而下的宏观新立法，转向聚焦于中观层级（meso-level）与基层学校的创新规模化（pp. 16–17）。
 
@@ -388,7 +397,7 @@ updated: 2026-10-23
 >
 > - **循证医学金字塔的局限**
 >
->   早期循证医学（Evidence-based Medicine, EBM）严格尊崇随机对照试验（Randomised Controlled Trial, RCT）与定量[[Meta-analysis|元分析]]，将其置于因果证据金字塔的顶端；然而在公共卫生实践中，这种过度狂热的实证阶梯导致了一线医师临床[[Professional Judgment|专业判断]]受损、边缘群体在临床试验中缺乏代表性以及对深层健康社会决定因素（Social Determinants of Health）的系统性漠视。流行病学界据此提出[[Horses for Courses Principle|证据与问题适切性原则]]（Petticrew & Roberts, 2003），强调证据评价必须基于具体政策关切，反对单一因果金字塔的机械统治。
+>   早期循证医学（Evidence-based Medicine, EBM）严格尊崇随机对照试验（Randomised Controlled Trial, RCT）与定量[[Meta-analysis|元分析]]，将其置于因果证据金字塔的顶端；然而在公共卫生实践中，这种过度狂热的实证阶梯导致了一线医师临床[[Professional Judgment|专业判断]]受损、边缘群体在临床试验中缺乏代表性以及对深层健康社会决定因素（Social Determinants of Health）的系统性漠视。流行病学界据此提出证据与问题适切性原则（Petticrew & Roberts, 2003），强调证据评价必须基于具体政策关切，反对单一因果金字塔的机械统治。
 >
 > - **[[Complex Systems Model of Evidence|复杂系统证据模型]]转向**
 >
@@ -479,7 +488,7 @@ updated: 2026-10-23
 > - **非洲实践：撒哈拉以南非洲教育倡议与非洲证据网络** [[Education Sub Saharan Africa|撒哈拉以南非洲教育倡议]]（Education Sub Saharan Africa, [[Every Student Succeeds Act|ESSA]]）专注于非洲高等教育与教师师资大数据的整合；而成立于南非的[[Africa Evidence Network|非洲证据网络]]（Africa Evidence Network, AEN）汇聚了全非数千名研究者与行政官员，通过定期举办 Evidence 大会与实地工作坊，形成了深厚的人际信任网络（pp. 44–46）。
 > - **亚洲实践：亚洲教育规划培训与研究机构网络（[[ANTRIEP]]）** 聚合中国、印度等亚洲十余国[[CORE Education|核心教育]]规划科研院所，依托本土同行互助提升教育行政官员规划与实证治理能力，成为[[South-South Cooperation|南南合作]]与区域知识转化的长效范例（p. 8）。
 > - **资助本土化改革：万事达卡基金会与双边机构的下沉实践** 报告特别指出，[[Mastercard Foundation|万事达卡基金会]]、法国开发署（AFD）与瑞士发展合作署（[[System Development Corporation|SDC]]）率先推进运营去中心化，主动削减欧美总部人员编制，将资金与决策权深度下沉至非洲在地分支与区域枢纽，成为打破“全球北方垄断与南方脱节”的制度先例（p. 42）。
-> - **全球教育伙伴关系 KIX 项目的区域部署** 全球教育伙伴关系知识与创新交流机制（GPE KIX）在非洲、亚太与拉美设立四大区域枢纽，有效打通了跨国资金支持与本土教育政策试点的连接通道（p. 44）。
+> - **全球教育伙伴关系 KIX 项目的区域部署** 全球教育伙伴关系知识与创新交流机制（GPE KIX，由 GPE 与[[International Development Research Centre|加拿大国际发展研究中心]]联合出资并运营）在非洲、亚太与拉美设立四大区域枢纽，有效打通了跨国资金支持与本土教育政策试点的连接通道（p. 44）。
 
 ---
 
@@ -509,7 +518,7 @@ updated: 2026-10-23
 
 > [!case] 破解知识生产不平等的长效资助机制：[[Funder Coalition for URE|长效循证资助者联盟]]（Funder Coalition for URE）
 > - **传统国际援助的项目偏颇** 传统国际援助偏好资助由北方学者领衔的短期研究项目，直接加剧了全球知识生产的不平等与碎片化（p. 46）。
-> - **多边长效资助联盟组建** 全球合作机制动员包括比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]（Bill & Melinda Gates Foundation, BMGF）、[[Jacobs Foundation|雅各布斯基金会]]、[[Mastercard Foundation|万事达卡基金会]]以及法国开发署（Agence Française de Développement, AFD）、瑞士发展合作署（Swiss Agency for Development and Cooperation, SDC）、美国国际开发署（USAID）等双多边资助方，组建[[Funder Coalition for URE|长效循证资助者联盟]]。
+> - **多边长效资助联盟组建** 全球合作机制动员包括比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]（Bill & Melinda Gates Foundation, BMGF）、[[Jacobs Foundation|雅各布斯基金会]]、[[Mastercard Foundation|万事达卡基金会]]、[[Aga Khan Foundation|阿迦汗基金会]]（Aga Khan Foundation, AKF）与巴西[[Lemann Foundation|雷曼基金会]]（Fundação Lemann），以及法国开发署（Agence Française de Développement, AFD）、瑞士发展合作署（Swiss Agency for Development and Cooperation, SDC）、美国国际开发署（USAID）等双多边资助方，组建[[Funder Coalition for URE|长效循证资助者联盟]]（pp. 14, 46–47）。
 > - **长效使能资金投向** 将资金重点转向国家循证机构能力建设、本土语言转译以及长效政学互动网络，保障循证改革的可持续性（pp. 46–47）。
 
 ---

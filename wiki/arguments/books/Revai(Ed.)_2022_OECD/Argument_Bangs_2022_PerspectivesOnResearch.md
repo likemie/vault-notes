@@ -59,7 +59,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Conatus]]"
   - "[[Knowledge Co-production]]"
-  - "[[Theory of Knowledge]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Research Scope]]"
   - "[[Internal Validity]]"
@@ -125,7 +124,6 @@ related_facts:
   - "[[Complex Instruction Programme]]"
   - "[[Swedish ULF Project]]"
   - "[[William T. Grant Foundation]]"
-  - "[[Chinese Academy of Sciences]]"
   - "[[Education Sciences Reform Act 2002]]"
   - "[[PISA]]"
   - "[[National Education Association]]"
@@ -135,7 +133,7 @@ related_arguments:
   - "[[Argument_Wrigley_2018_BERJ]]"
 status: completed
 created: 2026-09-14
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 ---
 
@@ -166,7 +164,7 @@ updated: 2026-10-22
 > | **[[Action Research]]**<br>校本合作行动研究 | 揭示一线学校教师作为[[Knowledge Co-production\|知识共创]]者而非被动受试者的微观机制，阐明校本行动研究如何与国家教师职业生涯阶梯相结合，驱动薄弱学校转型为内生型的知识创造型组织。（pp. 213–216） |
 
 > [!warrant]- 理论透镜如何支撑多方论辩推导
-> 上述理论透镜构成了环环相扣的推导桥梁：[[Dirk Van Damme\|范达默]]与施奈德从实证科学与[[Theory of Knowledge\|知识论]]高度出发，确立了教育研究摆脱认识论危机必须依赖高标准的 **[[Disciplinary Institutionalization|学科建制]]规范**；班斯、亨利与纳吉引入教师专业性与行动研究视角，证明了缺乏实践者**主体所有权**的科研注定陷入应用瘫痪；普勒茨与[[Vivian Tseng\|曾薇薇安]]则借助伙伴关系与证据民主化理论，从权力关系重组与资助机制重构的高度打破了研究者对[[Knowledge Production\|知识生产]]的**排他性垄断**；最后友利田运用批判社会学与专业伦理透镜，对狭隘工具主义的可用性[[Discourse|话语]]提出警告，确保教育研究始终承担起**捍卫社会弱势群体**的根本受托使命。（pp. 201–202, 227–231）
+> 上述理论透镜构成了环环相扣的推导桥梁：[[Dirk Van Damme\|范达默]]与施奈德从实证科学与知识论高度出发，确立了教育研究摆脱认识论危机必须依赖高标准的 **[[Disciplinary Institutionalization|学科建制]]规范**；班斯、亨利与纳吉引入教师专业性与行动研究视角，证明了缺乏实践者**主体所有权**的科研注定陷入应用瘫痪；普勒茨与[[Vivian Tseng\|曾薇薇安]]则借助伙伴关系与证据民主化理论，从权力关系重组与资助机制重构的高度打破了研究者对[[Knowledge Production\|知识生产]]的**排他性垄断**；最后友利田运用批判社会学与专业伦理透镜，对狭隘工具主义的可用性[[Discourse|话语]]提出警告，确保教育研究始终承担起**捍卫社会弱势群体**的根本受托使命。（pp. 201–202, 227–231）
 
 ---
 
@@ -258,7 +256,7 @@ updated: 2026-10-22
 
 作为全球最大的官方教育科研出资机构负责人，[[Mark Schneider|马克·施奈德]]从资助实践出发，证实了供给侧单纯追求因果内部效度的局限：[[Institute of Education Sciences|美国教育科学院]]（IES）在成立的前二十年中全力推动随机对照试验（RCT），但实践证明，仅仅知道某项干预有效远远不够（simply knowing that something works is not enough）。必须通过构建更高维度的科学标准体系，全面重构知识供给质量。
 
-> [!policy-context] Box 10.1　美国教育[[Chinese Academy of Sciences|科学院]]（Institute of Education Sciences, IES）
+> [!policy-context] Box 10.1　美国教育科学院（Institute of Education Sciences, IES）
 > **机构性质** 美国联邦教育部（US Department of Education）内部设立的核心官方科学办公室，依据《2002 年[[Education Sciences Reform Act 2002|教育科学改革法]]案》（Education Sciences Reform Act of 2002）组建。
 > **投资规模** 年度教育科研专属投资预算约为 **1.5 亿美元**，系全球资金规模最大的官方教育科研出资主体之一。
 > **业务覆盖** 资助范围横跨学前教育、初等教育、中等教育、高等教育以及成人[[Lifelong Learning\|终身教育]]的全生命周期教育科学研究。

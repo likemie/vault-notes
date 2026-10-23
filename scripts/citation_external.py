@@ -67,14 +67,14 @@ LEADING_STOPWORDS = frozenset({
     "equation", "box", "panel", "note", "source", "volume", "issue", "page",
     "part", "example", "study", "paper", "article", "report", "book",
 })
-# Longer words first. These introduce a name; they are not part of it.
+# Words that introduce a name. A word is removed only when the remainder is still a name,
+# so a real surname such as 将 is left intact.
 CJK_LEADING = (
-    "转引自", "引自", "参见", "另见", "详见", "见图", "见表", "如图", "如表",
     "这些工作已由", "正式收录于", "类似于", "改编自", "示例见", "综合自", "转引自",
-    "引自", "引述", "援引", "参见", "另见", "详见", "亦见", "例如", "如图", "如表",
-    "见图", "见表", "根据", "基于", "通过", "对于", "关于", "呼应", "回应", "涵盖",
-    "用于", "综述", "审查", "审计", "重审", "纳入", "依托", "借鉴", "资助", "正如",
-    "结合", "同时", "以及", "已相继", "见", "引", "述", "在", "由", "据", "从", "对",
+    "引述", "援引", "参见", "另见", "详见", "亦见", "例如", "如图", "如表", "见图",
+    "见表", "根据", "基于", "通过", "对于", "关于", "呼应", "回应", "涵盖", "用于",
+    "综述", "审查", "审计", "重审", "纳入", "依托", "借鉴", "资助", "正如", "结合",
+    "同时", "以及", "已相继", "引自", "见", "引", "述", "在", "由", "据", "从", "对",
     "如", "于", "的", "了", "与", "和", "及", "将",
 )
 TRAILING_CJK = ("指出", "认为", "提出", "合作", "专题", "所示", "一文", "一书")
@@ -154,20 +154,41 @@ def plausible_author(author: str) -> bool:
     return bool(words) and len(words) <= 6 and len(author) <= 80
 
 
+def _remainder_is_author(rest: str) -> bool:
+    if not rest:
+        return False
+    if rest[0].isupper() and not _has_cjk(rest[0]):
+        return True
+    return bool(CJK_NAME_RE.match(rest))
+
+
 def strip_leading_stopwords(author: str) -> str:
     parts = author.split()
     while len(parts) > 1 and parts[0].casefold().strip(".") in LEADING_STOPWORDS:
         parts = parts[1:]
     text = " ".join(parts)
-    if not _has_cjk(text):
-        return text
     changed = True
-    while changed and text:
+    while changed and text and _has_cjk(text):
         changed = False
         for word in sorted(CJK_LEADING, key=len, reverse=True):
-            if text.startswith(word) and len(text) > len(word):
-                rest = text[len(word):].lstrip()
-                if rest and (_has_cjk(rest[0]) or rest[0].isupper()):
+            if not text.startswith(word) or len(text) <= len(word):
+                continue
+            rest = text[len(word):].lstrip()
+            if _remainder_is_author(rest):
+                text = rest
+                changed = True
+                break
+        if changed:
+            continue
+        bilingual = re.match(r"^[\u3400-\u9fff]{1,30}\s+([A-Z].+)$", text)
+        if bilingual and _remainder_is_author(bilingual.group(1)):
+            text = bilingual.group(1)
+            changed = True
+            continue
+        for word in sorted(TRAILING_CJK, key=len, reverse=True):
+            if text.endswith(word) and len(text) > len(word):
+                rest = text[:-len(word)].rstrip()
+                if _remainder_is_author(rest) or (rest[:1].isupper() and not _has_cjk(rest)):
                     text = rest
                     changed = True
                     break
@@ -190,6 +211,11 @@ def accept_author(author: str) -> str:
         return ""
     if _has_cjk(author) and not _has_latin(author):
         return cjk_name(author)
+    if _has_cjk(author) and _has_latin(author):
+        latin_only = re.sub(r"[与和]", "", author)
+        if re.fullmatch(r"[A-Z][^，,]*\s(?:与|和)\s[A-Z].*", author) and not _has_cjk(latin_only):
+            return author
+        return ""
     if not plausible_author(author):
         return ""
     return author

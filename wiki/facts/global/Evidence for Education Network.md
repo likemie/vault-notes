@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -58,6 +58,7 @@ related_facts:
   - "[[BHP Foundation]]"
   - "[[Building a Global Evidence Ecosystem for Teaching]]"
   - "[[Global Partnership for Education]]"
+  - "[[International Development Research Centre]]"
   - "[[Social Ventures Australia]]"
   - "[[Evidence for Learning]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -83,7 +84,7 @@ updated: 2026-10-23
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2023 年正式制度化设立。前身为 EEF 自 2014 年起逐步拓展的国际双边合作网络，以及 2018–2025 年由必和必拓基金会全额资助的“构建全球教学[[Evidence Ecosystem\|证据生态系统]]”战略项目；为推动项目成果长效维系，各主权伙伴决定将松散的阶段性资助项目升格为常设的全球多边机制。
 > - **总部协调 / 业务辐射** 秘书处由英国伦敦的 EEF 国际团队承担协调职能，网络官方平台面向全球开放；常态业务辐射欧洲、拉丁美洲、中东与北非、撒哈拉以南非洲及大洋洲等 20 个国家和地区。
-> - **法人属性与经费基础** 采用去中心化、多中心的跨国伙伴联盟网络架构。早期依托必和必拓基金会专项战略慈善资金（BHP Foundation Education Equity Programme）孵化支持，各成员机构依托所在国主权财政拨款、多边国际组织竞争性资助（如 [[Global Partnership for Education\|GPE]]、IDRC）与本国独立慈善资本共同维持日常运转。
+> - **法人属性与经费基础** 采用去中心化、多中心的跨国伙伴联盟网络架构。早期依托必和必拓基金会专项战略慈善资金（BHP Foundation Education Equity Programme）孵化支持，各成员机构依托所在国主权财政拨款、多边国际组织竞争性资助（如 [[Global Partnership for Education\|GPE]]、[[International Development Research Centre|IDRC]]）与本国独立慈善资本共同维持日常运转。
 > - **核心宗旨与法定职责** 确立教育公平为最高价值基石；依托“[[Research Utilization\|证据使用]]、证据动员、证据生成”三大支柱，制定跨国通用的实证合成标准，支持发展中国家与中等收入国家建立自主可控的本土“[[Educational Brokerage Agency\|证据经纪人]]”，阻遏伪科学和商业低效软件对公共教育的侵害。
 
 ---

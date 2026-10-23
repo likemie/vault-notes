@@ -31684,6 +31684,15 @@
     ]
   },
   {
+    "title": "Lemann Foundation",
+    "type": "fact",
+    "path": "wiki/facts/brazil/Lemann Foundation.md",
+    "aliases": [
+      "Fundação Lemann",
+      "雷曼基金会"
+    ]
+  },
+  {
     "title": "Brazilian Secondary Education Curriculum Reform 1998",
     "type": "fact",
     "path": "wiki/facts/brazil/Brazilian Secondary Education Curriculum Reform 1998.md",
@@ -31776,6 +31785,17 @@
       "弗雷泽研究所",
       "菲沙研究所",
       "The Fraser Institute"
+    ]
+  },
+  {
+    "title": "International Development Research Centre",
+    "type": "fact",
+    "path": "wiki/facts/canada/International Development Research Centre.md",
+    "aliases": [
+      "IDRC",
+      "加拿大国际发展研究中心",
+      "Centre de recherches pour le développement international",
+      "CRDI"
     ]
   },
   {
@@ -34006,6 +34026,15 @@
     "path": "wiki/facts/global/Education International.md",
     "aliases": [
       "国际教育协会"
+    ]
+  },
+  {
+    "title": "Education.org",
+    "type": "fact",
+    "path": "wiki/facts/global/Education.org.md",
+    "aliases": [
+      "全球教育知识中介基金会",
+      "Education.org Foundation"
     ]
   },
   {
@@ -36551,6 +36580,15 @@
     ]
   },
   {
+    "title": "Aga Khan Foundation",
+    "type": "fact",
+    "path": "wiki/facts/switzerland/Aga Khan Foundation.md",
+    "aliases": [
+      "AKF",
+      "阿迦汗基金会"
+    ]
+  },
+  {
     "title": "International School of Geneva",
     "type": "fact",
     "path": "wiki/facts/switzerland/International School of Geneva.md",
@@ -38834,6 +38872,17 @@
     ]
   },
   {
+    "title": "FHI 360",
+    "type": "fact",
+    "path": "wiki/facts/us/FHI 360.md",
+    "aliases": [
+      "家庭健康国际 360",
+      "家庭健康国际",
+      "Family Health International 360",
+      "FHI360"
+    ]
+  },
+  {
     "title": "Homebrew Computer Club",
     "type": "fact",
     "path": "wiki/facts/us/Homebrew Computer Club.md",
@@ -39281,6 +39330,18 @@
     "aliases": [
       "承诺社区研究联盟",
       "PNRC"
+    ]
+  },
+  {
+    "title": "RTI International",
+    "type": "fact",
+    "path": "wiki/facts/us/RTI International.md",
+    "aliases": [
+      "三角研究园区国际研究所",
+      "三角研究国际研究所",
+      "Research Triangle Institute",
+      "RTI 国际",
+      "RTI International Inc."
     ]
   },
   {

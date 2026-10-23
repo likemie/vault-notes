@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_facts:
   - "[[Knowledge and Innovation Exchange]]"
   - "[[Global Partnership for Education]]"
   - "[[UNICEF]]"
+  - "[[International Development Research Centre]]"
   - "[[UNESCO]]"
   - "[[Early Childhood Development Action Network]]"
 related_arguments:
@@ -53,7 +54,7 @@ updated: 2026-10-23
 
 > [!program-context] 计划背景
 > - **立项时间 / 运营周期** 2019 年作为 GPE 与 UNICEF 的战略联合倡议立项启动，第一阶段于 2019 至 2022 年在重点发展中国家试点落地，随后常态化嵌入 GPE KIX 四大区域枢纽运转。
-> - **发起主体与出资渠道** 由全球教育伙伴关系（GPE）出资支持，国际发展研究中心（IDRC）负责联合监管，UNICEF 早期儿童发展处与 GPE 秘书处协同执行运营。
+> - **发起主体与出资渠道** 由全球教育伙伴关系（GPE）出资支持，国际发展研究中心（[[International Development Research Centre|IDRC]]）负责联合监管，UNICEF 早期儿童发展处与 GPE 秘书处协同执行运营。
 > - **覆盖国家与重点区域** 试点覆盖吉尔吉斯斯坦、加纳、莱索托、塞拉利昂、南苏丹、塔吉克斯坦等亚非低收入与脆弱国家，并通过区域同侪研讨网络辐射数十个受援国。
 > - **核心问题导向** 克服早期儿童教育领域长期存在的“碎片化小规模试点陷阱”，解决科研机构与国际非政府组织的早期干预成果难以进入国家教育核心预算与行政规划体系的结构性断裂。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 15, 74)]]
 

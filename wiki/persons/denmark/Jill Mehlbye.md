@@ -7,7 +7,7 @@ summary: "丹麦教育研究者，高绩效学校与弱势学生提升研究者�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 6
+person_related_count: 7
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -30,10 +30,11 @@ related_arguments:
 related_facts:
   - "[[Science Foundation Ireland]]"
   - "[[SFI Report]]"
+  - "[[Aga Khan Foundation]]"
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-10-22
+updated: 2026-10-23
 ---
 
 > [!person-profile] 人物档案
@@ -50,7 +51,7 @@ updated: 2026-10-22
 
 > [!abstract] 主要著作
 > - Mehlbye, J. (2004). *Sammenfatning af undersøgelsen "De gode eksempler"*. Undervisningsministeriet. — 总结丹麦学校"好例子"研究，呈现高要求、[[Academic Achievement\|学业表现]]取向和[[Classroom Management\|课堂管理]]等高绩效学校特征([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.37–38, p.40]])。
-> - Mehlbye, J. (2010). *Den højt præsterende skole. Hvordan kan skolen løfte elever med svag social baggrund*. AKF. — 聚焦高绩效学校如何提升弱社会背景学生，并记录频繁测试受到丹麦学生欢迎的发现([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.38–39, p.40]])。
+> - Mehlbye, J. (2010). *Den højt præsterende skole. Hvordan kan skolen løfte elever med svag social baggrund*. [[Aga Khan Foundation|AKF]]. — 聚焦高绩效学校如何提升弱社会背景学生，并记录频繁测试受到丹麦学生欢迎的发现([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.38–39, p.40]])。
 
 > [!warning] 争议与批评
 > - 现有来源只提供 Mehlbye 研究的主要发现，没有提供研究设计、样本或因果强度等方法细节；这些内容需待直接处理 Mehlbye 原始报告后再补充([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.37–40]])。

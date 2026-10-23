@@ -11,13 +11,14 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: specialized-un-institute
 headquarters: "蒙特利尔（加拿大）"
 established: "1999"
+official_website: "https://uis.unesco.org/"
 tags:
   - fact/organization
   - theme/unesco
@@ -32,6 +33,8 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Learning Crisis]]"
   - "[[Commensuration]]"
+  - "[[Educational Multilateralism]]"
+  - "[[Religious Schools]]"
   - "[[International Large-Scale Assessments]]"
 related_theories: []
 related_methods:
@@ -50,6 +53,8 @@ related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[World Development Indicators]]"
   - "[[Education at a Glance]]"
+  - "[[PISA]]"
+  - "[[TIMSS]]"
   - "[[International Institute for Educational Planning]]"
   - "[[IEA]]"
 related_arguments:
@@ -68,6 +73,7 @@ updated: 2026-10-23
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1999 年由联合国教科文组织大会决议通过、在加拿大蒙特利尔正式设立，作为回应 1990 年《[[Education for All|全民教育]]》（EFA）宣言后国际社会对权威跨国可比教育数据的迫切需求而建立。
+> - **官方平台与数据中心** 官方在线门户为 [UNESCO Institute for Statistics](https://uis.unesco.org/)（数据中心：[UIS Data Centre](https://data.uis.unesco.org/)），提供全球 200 余个国家和地区的教育宏观普查、教师配置及 SDG 4 指标全量公开检索。
 > - **总部地点 / 业务辐射** 总部设于加拿大蒙特利尔，为全球 200 余个国家和地区定期收集、核查并发布教育统计年报数据；UIS 数据库（UIS Databank）是联合国所有监测系统的官方统计权威来源。
 > - **法人属性与经费基础** 作为[[UNESCO|联合国教科文组织]]下设具有独立预算的一类专业统计研究所，经费由成员国缴款与多方捐助共同构成；与[[World Bank|世界银行]]、[[OECD|经合组织]]等建立数据共享与联合发布协议。
 > - **核心职责** 制定并维护[[International Education|国际教育]]标准分类法（International Standard Classification of Education，ISCED），为全球教育政策比较分析提供统一的分类口径基准，是国家间教育统计可比性的根本保障。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 543)]]
@@ -113,8 +119,8 @@ updated: 2026-10-23
 > - **数据垄断地位** 在涉及全球学龄人口入学率、失学率、完成率等基础指标时，UIS 数据是绝大多数双边援助机构、学术研究和国际政策文件唯一认可的权威来源。
 
 > [!finding-cards] 关键成效与辐射影响
-> - **确立全球教育通约化量化标尺** 通过推广 ISCED 国际教育分类法与标准化数据报告规程，UIS 消除了全球各国定义学段边界与入学指标的混乱局面，为跨国政策比较与多边援助分配提供了统一通约基准。
-> - **支撑全球旗舰监测与政策问责** 持续为《全球教育监测报告》（GEMR）、世界银行《世界发展指标》（WDI）与经合组织《教育概览》提供核心底层数据，直接奠定了全球多边教育治理“以数据治理”（Governing by Numbers）的技术前提。
+> - **确立全球教育[[Commensuration|通约化]]量化标尺** 通过推广 ISCED 国际教育分类法与标准化数据报告规程，UIS 消除了全球各国定义学段边界与入学指标的混乱局面，为跨国政策比较与多边援助分配提供了统一通约基准。
+> - **支撑全球旗舰监测与政策问责** 持续为《全球教育监测报告》（GEMR）、世界银行《世界发展指标》（WDI）与经合组织《教育概览》提供核心底层数据，直接奠定了全球[[Educational Multilateralism|多边教育治理]]“以数据治理”（Governing by Numbers）的技术前提。
 > - **推动脆弱情境与边缘群体数据能见度** 与联合国儿童基金会等伙伴联合开发入户调查与行政数据交叉校准模型，逐步提升了全球南方低收入国家和冲突脆弱区域失学儿童与女童教育的数据可见性。
 
 > [!stat-cards]- 核心规模数据
@@ -137,14 +143,14 @@ updated: 2026-10-23
 > > [!axis] 技术标准化的文化[[Commensuration|通约化]]代价
 > > 统一 ISCED 分类标准对非西方教育形式的削足适履。
 > >
-> > - **比较教育批评** 将全球各异的教育制度强行纳入西方学段结构的 ISCED 框架，导致伊斯兰宗教学校、土著民族传统知识传授以及非正规劳动力培训等重要教育形式长期处于统计盲区。
+> > - **比较教育批评** 将全球各异的教育制度强行纳入西方学段结构的 ISCED 框架，导致伊斯兰[[Religious Schools|宗教学校]]、土著民族传统知识传授以及非正规劳动力培训等重要教育形式长期处于统计盲区。
 > > - **方法论回应** ISCED 2011 修订版新增“早期儿童教育”（ISCED 0）和“短周期高等教育”（ISCED 5）等更细分类别，以更好地捕捉非西方情境的多样性。
 >
 > > [!axis] 行政填报数据与真实学习成效测量张力
 > > 官方行政普查难以穿透微观教学过程以衡量真实的认知获得。
 > >
 > > - **批评视角** UIS 传统指标偏重学校入学率、师生比与财政经费等宏观投入-产出维度，难以穿透微观课堂评估学生的实际读写算能力，催生了独立测评工具对“学习贫困”与学习危机的补充。
-> > - **统计机构应对** UIS 近年主导开发学习成果全球报告最低基准（Global Proficiency Framework），深度融合区域测评与大规模国际评估（如 PISA、TIMSS），推动行政统计向因果学习质量指标跨越。
+> > - **统计机构应对** UIS 近年主导开发学习成果全球报告最低基准（Global Proficiency Framework），深度融合区域测评与大规模国际评估（如 [[PISA]]、[[TIMSS]]），推动行政统计向因果学习质量指标跨越。
 
 ---
 
@@ -153,11 +159,11 @@ updated: 2026-10-23
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[UNESCO]] | 事实 (机构) | UIS 的上级主管联合国机构与行政托管方。 |
-> | [[Global Education Monitoring Report]] | 事实 (项目) | GEMR 的全球跨国数据主要来源，依赖 UIS 进行 [[UN Sustainable Development Goals|SDG 4]] 年度监测。 |
+> | [[Global Education Monitoring Report]] | 事实 (项目) | GEMR 的全球跨国数据主要来源，依赖 UIS 进行 [[UN Sustainable Development Goals\|SDG 4]] 年度监测。 |
 > | [[International Institute for Educational Planning]] | 事实 (机构) | 同属 UNESCO 一类机构，与 UIS 在国别政策规划层面形成功能互补。 |
 > | [[UN Sustainable Development Goals]] | 事实 (政策) | UIS 是 SDG 4 全球监测指标的法定托管数据机构。 |
 > | [[Multiple Indicator Cluster Surveys]] | 事实 (项目) | [[UNICEF]] 的 MICS 是 UIS 填补最脆弱群体教育统计缺口的重要补充数据源。 |
-> | [[Governing by Numbers]] | 概念 | UIS 提供的跨国可比数字构成全球教育[[Governing by Numbers|数字治理]]的核心数据基础设施。 |
+> | [[Governing by Numbers]] | 概念 | UIS 提供的跨国可比数字构成全球教育[[Governing by Numbers\|数字治理]]的核心数据基础设施。 |
 > | [[International Large-Scale Assessments]] | 概念 | UIS 与 [[OECD]]、[[IEA]] 的大规模测评数据共同构成全球教育治理的量化证据体系。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] | Argument | 战略审查实证确认 UIS 在全球经常调阅证据源中名列第 7，作为多边统计中枢支撑全球教育规划。 |
-> | [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] | Argument | 剖析 UIS 依托 ISCED 标准与 SDG 4 法定托管职能构建全球教育数字治理基础设施的演进历程。 |
+> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] | Argument | 战略审查实证确认 UIS 在全球经常调阅证据源中名列第 7，作为多边统计中枢支撑全球教育规划。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | Argument | 剖析 UIS 依托 ISCED 标准与 SDG 4 法定托管职能构建全球教育数字治理基础设施的演进历程。 |
