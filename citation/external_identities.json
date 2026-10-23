@@ -6845,7 +6845,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/educational-philosophy/Banking Model of Education.md"
+        "wiki/concepts/educational-philosophy/Banking Model of Education.md",
+        "wiki/concepts/educational-philosophy/Conscientization.md"
       ],
       "title": ""
     },
@@ -21331,6 +21332,7 @@
         "wiki/concepts/comparative-education/Pedagogical Subject.md",
         "wiki/concepts/comparative-education/Representational Knowledge.md",
         "wiki/concepts/educational-philosophy/Banking Model of Education.md",
+        "wiki/concepts/educational-philosophy/Critical Pedagogy.md",
         "wiki/concepts/educational-philosophy/Education as Growth.md",
         "wiki/concepts/educational-philosophy/Politicity of Education.md",
         "wiki/concepts/educational-philosophy/Praxis.md",
@@ -23278,6 +23280,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17.md"
+      ],
+      "title": ""
+    },
+    "Glass, 1987": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Value Neutrality.md"
       ],
       "title": ""
     },
@@ -25461,6 +25471,7 @@
         "wiki/concepts/educational-philosophy/Epistemology.md",
         "wiki/concepts/educational-philosophy/Positivism.md",
         "wiki/concepts/educational-philosophy/Scientism.md",
+        "wiki/concepts/educational-philosophy/Value Neutrality.md",
         "wiki/methods/qualitative/Emancipatory Action Research.md",
         "wiki/methods/qualitative/Ideology Critique.md",
         "wiki/persons/france/Auguste Comte.md",
@@ -46942,6 +46953,7 @@
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings.md",
         "wiki/concepts/educational-philosophy/Enlightenment.md",
+        "wiki/concepts/educational-philosophy/Value Neutrality.md",
         "wiki/concepts/educational-psychology/Faculty Psychology.md",
         "wiki/facts/france/Esquisse d'un ouvrage sur l'éducation comparée.md",
         "wiki/facts/france/Revue encyclopédique.md",
@@ -64363,6 +64375,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Thompson_2022_Promising_Student.md"
+      ],
+      "title": ""
+    },
+    "Weber, 1917": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Value Neutrality.md"
       ],
       "title": ""
     },
