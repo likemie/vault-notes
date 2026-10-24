@@ -8,7 +8,7 @@ aliases:
 summary: "在信息过载与教育决策多重不确定性背景下，跨国组织、智库或国家官方扶植机构通过筛选、转译和打包研究证据以施展软治理或服务政策落地的政治化机制。"
 type: concept
 domain: "comparative-education"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -33,13 +33,14 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Discourse]]"
   - "[[Soft Power]]"
-  - "[[Conditional Cash Transfers]]"
   - "[[Fast and Slow Lanes Model]]"
   - "[[Surplus of Evidence]]"
   - "[[Epistemic Governance]]"
   - "[[Gatekeepers]]"
   - "[[Rationalized Myth]]"
   - "[[Policy-Based Evidence-Making]]"
+  - "[[Policy Ambassador]]"
+  - "[[Conditional Cash Transfers]]"
   - "[[Going Native]]"
   - "[[Research Utilization]]"
   - "[[Network Governance]]"
@@ -53,7 +54,6 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Variable]]"
   - "[[Educational Brokerage Agency]]"
-  - "[[Policy Ambassador]]"
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
   - "[[Ian Menter]]"
@@ -61,8 +61,8 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
-  - "[[Argument_Niemann_Martens_2018_GSP]]"
   - "[[Argument_Stone_2020_PolSoc]]"
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
 related_theories:
   - "[[Two-Communities Theory]]"
 related_methods:
@@ -77,6 +77,7 @@ related_facts:
   - "[[Chartered College of Teaching]]"
   - "[[Teaching Schools]]"
   - "[[Carter Review of Initial Teacher Training]]"
+  - "[[Participatory Budgeting]]"
 confidence: high
 status: draft
 created: 2026-09-11
@@ -119,11 +120,13 @@ updated: 2026-10-25
 > - **[[Soft Power by Hard Facts\|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 政策中介依靠数字而非叙事构筑理性、精确与普适的制度表象，通过可测量、可比较、标准化的测评指标形成软性比较压力与规制手段。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–539)]]
 > - **差异化中介工具打包（Instrument Bundling）** 各国际组织将核心评测工具与不同辅助产品打包，形成组织利基：[[OECD\|经合组织]]以 [[PISA]] 为核心绑定同行评议与国别经验横向对照；[[World Bank\|世界银行]]则依靠系统性基准工具搭配自指性最佳实践仓库。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 543–545)]]
 > - **政策周期的多阶段介入** 政策中介在政策周期的不同阶段承担异质功能：在议程设置阶段通过国际比较制造危机感并动员资源；在法案起草与决策阶段则面临主权国家行政官僚体系的高度筛选与策略性过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 546–547)]]
-> - **国内[[Policy Network\|政策网络]]中的官方扶植与机构中介（State-Sponsored Insider Brokerage）** 国家行政当局通过财政资助与法规划定创设专属中介机构（如2010年白皮书后成立的[[Chartered College of Teaching\|特许教学学院]]（Chartered College of Teaching, [[Conditional Cash Transfers|CCT]]）与[[Teaching Schools\|教学学校]]理事会（Teaching Schools Council, TSC）），将证据转译锁定在官方主导的专业化话语体系内，排斥传统大学等体制外力量。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–613)]]
+> - **国内[[Policy Network\|政策网络]]中的官方扶植与机构中介（State-Sponsored Insider Brokerage）** 国家行政当局通过财政资助与法规划定创设专属中介机构（如2010年白皮书后成立的[[Chartered College of Teaching\|特许教学学院]]（Chartered College of Teaching, [[Chartered College of Teaching|CCT]]）与[[Teaching Schools\|教学学校]]理事会（Teaching Schools Council, TSC）），将证据转译锁定在官方主导的专业化话语体系内，排斥传统大学等体制外力量。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–613)]]
 > - **系统领袖与审查组的定向委托（Selective Commission of System Leaders）** 政府直接委托政治认同度高的体制内系统领袖牵头专项审查（如[[Carter Review of Initial Teacher Training\|卡特初始教师培训审查]]），利用其从业者身份为自上而下的循证政策改革背书并加速落地。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 612–613)]]
 > - **文官流转下的非正式中介与口口相传（Informal Word-of-Mouth Mediation）** 在部门高流动性与高压决策环境中，去情境化的学术结论或单篇研究成果化为口口相传的口碑传播与社交网络碎片，成为政策中介绕过严谨同行评审的非正式通道。[[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, pp. 614–615)]]
 > - **[[Fast and Slow Lanes Model|快慢车道模型]]中的中间车道转译与拥堵异化（Middle-Lane Brokerage Dynamics）** 政策中介处于快慢车道治理架构的核心中间车道，承担将慢车道学者复杂的实证研究转化为快车道决策者可消化的政策摘要的转译功能；然而，当政策中介仅从事自上而下的单向产品推销而缺乏双向交互与本土情境适切时，会进一步加剧[[Surplus of Evidence|证据过剩]]，导致中间车道发生“信息拥堵”。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 10–12, 15–16)]]
 > - **制度化常设中介与区域支持枢纽（Embedded Brokerage & Regional Support Hubs）** 针对全球 74% 证据平台未与中介网络连接、54% 平台孤立的结构性断裂，政策中介超越单纯依靠外部短期咨询的被动模式，走向在教育部委内部嵌入常设证据评估处室与专职知识经纪人，并依托区域支持枢纽搭建连接全球资源与本土政策规划的制度化中介网络。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 21–25, 41–42, 46–49)]]
+> - **跨国智库与大型管理咨询公司的政策经纪机制（Think Tanks & Management Consultancies as Policy Brokers）** 政策中介不仅由政府间国际组织与国家扶植机构承担，更由跨国智库与大型跨国管理咨询公司（Large Management Consultancies）深度驱动；作为“软行动者”，智库与咨询公司穿梭于不同国家，将复杂的公共治理与社会改革经验打包转化为可移植的标准模型与技术指南。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 8–10, 14)]]
+> - **穿梭政策大使的跨文化转译与桥梁机制（Transnational Policy Ambassadors as Brokers）** 具备跨文化沟通力与多语言斡旋能力的能动个体担任政策中介者，穿梭于母国行政官僚体制、多边国际组织与民间社会网络之间，打通制度信任壁垒，推动特定治理方案的跨国合法化与转译。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 6, 12, 14)]]
 
 > [!logic-map]- 政策中介运行机制逻辑图
 > ```mermaid
@@ -132,8 +135,10 @@ updated: 2026-10-25
 >     B --> C["政策中介介入：<br>选择性提取、证据包装与理性修辞"]
 >     D --> E["国家政府响应：<br>议程设置阶段动员 vs 决策出台阶段过滤"]
 >     D2 --> E2["国内政策落地：<br>守门人筛选 + 适宜性逻辑 + PBEM 自证"]
+>     D3 --> E3["跨国政策流动：<br>多标量政策循环 + 方案转译与去政治化"]
 >     C --> D["跨国工具打包：<br>经合组织（PISA + 经验对照）<br>世界银行（SABER + 实践仓库）"]
 >     C --> D2["国内网络中介：<br>官方扶植机构（CCT / TSC）<br>系统领袖审查组 + 口口相传"]
+>     C --> D3["跨国转移中介：<br>智库与跨国咨询公司<br>穿梭政策大使跨文化转译"]
 > ```
 
 ---
@@ -191,7 +196,17 @@ updated: 2026-10-25
 > 探讨在主权国家内部治理中，行政当局如何通过[[Gatekeepers\|守门人]]机制、官方资助中介机构与非正式口碑网络实现基于政策的证据转译。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
-> **官方中介扶植、证据守门与落地偏好** 在国家层面的[[Policy Network\|政策网络]]中，政策中介不仅体现为跨国组织的外部输入，更表现为主权政府[[Gatekeepers\|守门人]]对本土中介生态的主动重塑。英国教育部高级官员与部长通过创设或资助专属专业组织（如[[Chartered College of Teaching\|特许教学学院]]（[[Conditional Cash Transfers|CCT]]）、[[Teaching Schools\|教学学校]]理事会（TSC））、任命认同官方路线的系统领袖牵头政策审查（如[[Carter Review of Initial Teacher Training\|卡特审查]]），构建起自成体系的内部中介网络；伴随文官系统的频繁流转，中介过程高度依赖口口相传和强烈的“落地偏好”（landing preference），选择性放大符合政治议程的去情境化结论，将研究证据转化为服务于行政合法性的[[Rationalized Myth\|合理化神话]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–615)]]
+> **官方中介扶植、证据守门与落地偏好** 在国家层面的[[Policy Network\|政策网络]]中，政策中介不仅体现为跨国组织的外部输入，更表现为主权政府[[Gatekeepers\|守门人]]对本土中介生态的主动重塑。英国教育部高级官员与部长通过创设或资助专属专业组织（如[[Chartered College of Teaching\|特许教学学院]]（Chartered College of Teaching, [[Chartered College of Teaching|CCT]]）、[[Teaching Schools\|教学学校]]理事会（TSC））、任命认同官方路线的系统领袖牵头政策审查（如[[Carter Review of Initial Teacher Training\|卡特审查]]），构建起自成体系的内部中介网络；伴随文官系统的频繁流转，中介过程高度依赖口口相传和强烈的“落地偏好”（landing preference），选择性放大符合政治议程的去情境化结论，将研究证据转化为服务于行政合法性的[[Rationalized Myth\|合理化神话]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–615)]]
+
+---
+
+### 命题六　跨国政策经纪人通过智库、咨询网络与政策大使推动政策方案的跨文化转译与混杂
+
+> [!concept-lens] 跨国中介生态与多向转译
+> 探讨智库、跨国管理咨询公司与穿梭政策大使如何在全球南方与北方之间开展非对称中介，重塑政策流动的知识形态。
+
+> [!claim] [[Argument_Stone_2020_PolSoc|Stone, D., Porto de Oliveira, O., & Pal, L. A. (2020)]]
+> **软行动者网络与多阶段政策转译** 跨国政策流动高度依托由智库、大型跨国管理咨询公司与具有个人魅力的[[Policy Ambassador|政策大使]]构成的中介网络。政策中介在流动各阶段表现为持续展开的[[Research Translation|转译]]（Translation）过程；中介主体在方案输出前即对知识展开异质化解读与混合剪裁，推动南方治理方案（如[[Participatory Budgeting|参与式预算]]、[[Conditional Cash Transfers|有条件现金转移支付]]）向全球公共产品转化，同时伴随国际多边科层对地方扎根经验的去政治化包装与工具化吸收。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 8–10, 14, 16)]]
 
 ---
 
@@ -203,6 +218,7 @@ updated: 2026-10-25
 > | **组织利基与自指性分化** | 辨析经合组织横向借鉴与世界银行自指性方案库的路径分歧 | 国际组织比较与跨国治理机制分析 | Steiner-Khamsi et al. |
 > | **两阶段行政过滤断裂** | 揭示主权国家在议程动员与法定颁行之间对中介知识的剧烈筛选与特定偏好 | 国家政策借用与[[Going Native\|本土化]]立法转化 | Steiner-Khamsi et al. |
 > | **官方扶植与网络守门** | 揭示国家行政体系通过资助专属中介、遴选系统领袖审查组及口碑网络操控证据转译 | 国内政策网络与国家教师教育改革 | [[Ian Menter\|Menter]] & Helgetun |
+> | **跨国多主体转译** | 揭示智库、跨国咨询公司与政策大使在跨国政策中介中的桥接、混杂与转译机制 | 跨国政策转移与南南/南北多向政策流动 | Stone, D.; Porto de Oliveira, O.; Pal, L. A. |
 
 ---
 
@@ -210,6 +226,7 @@ updated: 2026-10-25
 > - **1979 — [[Two-Communities Theory|双社群理论]]奠基** Caplan 提出科学社群与政治社群之间存在文化壁垒与认知鸿沟，强调需要桥梁行动者克服知识流动阻碍。
 > - **2010 — 知识-行动联结三代模型** Best & Holmes 梳理[[Research Utilization|知识利用]]演进阶段：第一代单向推送模式、第二代行动者关系共建模式，以及第三代关注组织生态、制度能力与政策周期的系统性程序模式。
 > - **2018 — 跨国[[Network Governance|网络治理]]与[[Soft Power by Hard Facts|硬事实软权力]]** [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] 指出以[[OECD|经合组织]]为代表的国际组织凭借量化指标体系充当[[Boundary Spanner|知识经纪人]]，通过探究与[[Meditative Mode of Governance|调解模式]]行使软治理。
+> - **2020 — 跨国政策转移经纪人与政策大使网络** [[Argument_Stone_2020_PolSoc|Stone, Porto de Oliveira, & Pal (2020)]] 突破传统以国家官僚与西方国际组织为中心的视角，阐明智库、大型管理咨询公司及穿梭[[Policy Ambassador|政策大使]]作为政策转移经纪人的核心作用，揭示发展合作情境下中介活动的多阶段转译与去政治化特征。
 > - **2022 — 国内[[Policy Network|政策网络]]与制度化政策中介解剖** [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] 将政策中介视角引入主权国家内部政策[[Network Analysis|网络分析]]，基于新制度主义揭示英格兰教育治理从测量时代迈向[[Evidence Era|证据时代]]后，政府[[Gatekeepers|守门人]]如何通过扶植专属中介（[[Chartered College of Teaching|CCT]]、TSC）与非正式人际网络实现[[Policy-Based Evidence-Making|基于政策的证据制造]]。
 > - **2024 — [[Governing by Numbers|数字治理]] 2.0 与政策中介理论成型** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] 正式提出数字治理 2.0 议程，将研究焦点从去情境化的测验指标推进至信息过载时代的“政策中介”，揭示国际组织自我生产、推销与资助方案的一体化运作。
 > - **2024 — 快慢车道模型与区域中介枢纽架构** [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] 基于 103 国调查提出快慢车道模型，将政策中介定位为连接快车道决策者与慢车道研究者的中间车道枢纽，并倡导以常设中介处室与区域支持枢纽弥合全球中介网络与本土政策周期的断裂。
