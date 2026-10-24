@@ -8,7 +8,7 @@ aliases:
 summary: "由戴维·多洛维茨与戴维·马什系统建构的比较公共政策与政策科学分析框架，围绕转移主体、动机、客体、来源、程度与制约因素六大维度，解构知识、制度安排与治理工具跨越管辖边界的流动与本土重塑机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 32
+theory_related_count: 35
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -19,26 +19,28 @@ tags:
   - theme/policy-learning
 related_concepts:
   - "[[Determinism]]"
+  - "[[Policy Mobility]]"
+  - "[[Technical Rationality]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Policy Borrowing]]"
-  - "[[Policy Mobility]]"
   - "[[Epistemology]]"
-  - "[[Paradigm]]"
   - "[[Policy Ambassador]]"
   - "[[Representational Knowledge]]"
+  - "[[Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Welfare-to-Work]]"
   - "[[Policy Conditionalities]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Hard Policy Transfer]]"
+  - "[[South-South Cooperation]]"
+  - "[[Triangular Cooperation]]"
   - "[[Research Question]]"
   - "[[Discourse]]"
   - "[[Soft Policy Transfer]]"
-  - "[[Knowledge Power]]"
+  - "[[Geopolitics]]"
   - "[[Positivism]]"
-  - "[[Technical Rationality]]"
-  - "[[South-South Cooperation]]"
 related_theories:
+  - "[[Institutional Isomorphism]]"
   - "[[Phenomenology]]"
 related_methods:
   - "[[Analytic Framework]]"
@@ -53,31 +55,32 @@ related_facts:
   - "[[International Monetary Fund]]"
   - "[[MDRC]]"
   - "[[Employment Retention and Advancement]]"
+  - "[[Participatory Budgeting]]"
 related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Stone_2020_PolSoc]]"
 confidence: high
 status: completed
 created: 2026-10-19
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---
 
 > [!theory-position] 理论定位
 > - **解释对象** 知识、信息、政策理念、制度结构与行政工具跨越不同时间、政治系统或管辖边界的流动、采纳与本土调适机制。
-> - **理论问题** 克服早期政策研究中单纯关注孤立国家内部决策或宏观政策趋同（Policy Convergence）的结构[[Determinism|决定论]]，打开跨国政策流动微观过程的黑箱，反思西方中心与技术理性偏误。
+> - **理论问题** 克服早期政策研究中单纯关注孤立国家内部决策或宏观政策趋同（Policy Convergence）的结构[[Determinism|决定论]]，打开跨国[[Policy Mobility|政策流动]]微观过程的黑箱，反思西方中心与[[Technical Rationality|技术理性]]偏误。
 > - **理论类型** [[Analytic Framework|分析框架]]与解释性综合模型。
 > - **知识位置** 比较公共政策与[[Policy Science in Comparative Education|政策科学]]，与[[Policy Borrowing|政策借用]]（Policy Borrowing）、政策扩散（Policy Diffusion）和政策流动（[[Policy Mobility]]）构成紧密对话。
 
 > [!claim] 核心判断
-> 政策转移涵盖自愿性经验借鉴到强制性外部施加的权力连续谱系；跨国政策流动不仅受意识形态与权力驱动，更受认识论规程与发展合作网络重塑，正由传统西方中心、官僚主导的线性双边借用，扩展为涵盖全球南方创新、[[Policy Ambassador|政策大使]]与[[Representational Knowledge|代表性知识]]的多标量跨国政策循环生态。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 331–333)]]; [[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 1–4)]]
+> 政策转移涵盖自愿性经验借鉴到强制性外部施加的权力连续谱系；跨国政策流动不仅受意识形态与权力驱动，更受[[Epistemology|认识论]]规程与发展合作网络重塑，正由传统西方中心、官僚主导的线性双边借用，扩展为涵盖全球南方创新、[[Policy Ambassador|政策大使]]与[[Representational Knowledge|代表性知识]]的多标量跨国政策循环生态。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 331–333)]]; [[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 1–4)]]
 
 ---
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 戴维·多洛维茨与戴维·马什（David Dolowitz & David Marsh）在 1996 年与 2000 年的奠基性文献中确立该框架（Dolowitz & Marsh, 1996, 2000）。
-> - **原初问题** 既有政策文献在解释政策跨辖区扩散时，往往割裂微观能动者的经验借鉴（如[[Richard Rose|理查德·罗斯]]的主张）与宏观结构的制度同构压力。
+> - **原初问题** 既有政策文献在解释政策跨辖区扩散时，往往割裂微观能动者的经验借鉴（如[[Richard Rose|理查德·罗斯]]的主张）与宏观结构的[[Institutional Isomorphism|制度同构]]压力。
 > - **理论资源与材料** 综合了理查德·罗斯（Richard Rose）关于经验借鉴（Lesson-Drawing）的规范探讨、新制度主义政治学以及跨国公共行政变革的多国实证案例。
 > - **形成路径** 将跨国政策采纳过程拆解为谁、为何、何物、何处、程度、限制与失败 6 个相互关联的核心设问，构建起系统化的多维分析矩阵。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 331–333)]]
 
@@ -98,8 +101,8 @@ updated: 2026-10-23
 > | 转移载体（Objects of Transfer） | 分类 / 框架 | 涵盖政策目标、具体方案规程、行政组织结构、思想理念、评估技术规程及负面教训六大层次。 |
 > | 战略行动者（Strategic Agents） | 概念 | 解释官僚与政策制定者如何有意识地搜寻、筛选与借用外来范例。 |
 > | 转移失败归因（Transfer Failure） | 机制 | 诊断由于认知不足（非知情）、要素遗漏（不完整）或制度情境[[Heterogeneity\|异质性]]（不恰当）导致的政策移植失灵。 |
-> | [[Policy Ambassador|政策大使]]（Policy Ambassadors） | 概念 | 具备地方实务经验或政治声誉、主动跨越国界推介本土制度创新与代表性知识的能动主体。 |
-> | [[Representational Knowledge|代表性知识]]（Representational Knowledge） | 概念 | 植根于地方斗争与社会实践经验、具备高度政治合法性与道德号召力的非编码化经验知识。 |
+> | [[Policy Ambassador\|政策大使]]（Policy Ambassadors） | 概念 | 具备地方实务经验或政治声誉、主动跨越国界推介本土制度创新与代表性知识的能动主体。 |
+> | [[Representational Knowledge\|代表性知识]]（Representational Knowledge） | 概念 | 植根于地方斗争与社会实践经验、具备高度政治合法性与道德号召力的非编码化经验知识。 |
 > | 跨国政策循环（Transnational Policy Circulation） | 机制 | 政策理念与制度模型通过多边峰会、发展援助与跨国网络在多标量、多向度空间中持续转译与流动的过程。 |
 
 ---
@@ -126,9 +129,9 @@ updated: 2026-10-23
 ---
 
 > [!theory-proposition] 命题四｜跨国政策流动呈现多标量循环生态，全球南方依托政策大使与代表性知识推动制度外溢
-> **解释** 斯通、波尔图·德奥利维拉与帕尔（Stone, Porto de Oliveira, & Pal, 2020）指出，传统政策转移框架主要关注发达国家内部或由北向南的单向借鉴，且聚焦于中央政府部委官僚；然而在国际发展合作情境下，跨国政策流动呈现多中心与多标量的循环网络形态。全球南方国家在公共治理与社会减贫领域具备自主创新动能，通过[[Policy Ambassador|政策大使]]（如具有实务声誉的地方市长、社区领袖与社会运动活动家）将植根于本土实践的[[Representational Knowledge|代表性知识]]带入国际多边平台；借助[[South-South Cooperation|南南合作]]、三方合作与多边峰会，地方政策模型得以向其他发展中国家、国际组织乃至发达国家逆向扩散。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 1–4, 15–16)]]
+> **解释** 斯通、波尔图·德奥利维拉与帕尔（Stone, Porto de Oliveira, & Pal, 2020）指出，传统政策转移框架主要关注发达国家内部或由北向南的单向借鉴，且聚焦于中央政府部委官僚；然而在国际发展合作情境下，跨国政策流动呈现多中心与多标量的循环网络形态。全球南方国家在公共治理与社会减贫领域具备自主创新动能，通过[[Policy Ambassador|政策大使]]（如具有实务声誉的地方市长、社区领袖与社会运动活动家）将植根于本土实践的[[Representational Knowledge|代表性知识]]带入国际多边平台；借助[[South-South Cooperation|南南合作]]、[[Triangular Cooperation|三方合作]]与多边峰会，地方政策模型得以向其他发展中国家、国际组织乃至发达国家逆向扩散。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 1–4, 15–16)]]
 >
-> **应用实例** 巴西阿雷格里港首创的参与式预算制度，通过基层社区居民直接审议市政基建投资优先序；在地方官员与社会活动家充当政策大使的积极推介下，该实践在二十年内扩散至全球数千个城市，并被[[World Bank|世界银行]]吸纳为官方公民参与指南。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 7–8)]]
+> **应用实例** 巴西阿雷格里港首创的[[Participatory Budgeting|参与式预算]]制度，通过基层社区居民直接审议市政基建投资优先序；在地方官员与社会活动家充当政策大使的积极推介下，该实践在二十年内扩散至全球数千个城市，并被[[World Bank|世界银行]]吸纳为官方公民参与指南。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 7–8)]]
 
 ---
 
@@ -153,7 +156,7 @@ updated: 2026-10-23
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 跨国与跨区域教育政策借用、公共政策扩散与跨体系学习过程；揭示政策行动者在不同权力梯度（自愿到强制）下的搜寻动力与制度扩散网络。
 > - **成立条件** 需要较为详尽的公开政策文本、行政档案、决策官员[[In-depth Interview|深度访谈]]记录或实地田野资料，以追踪政策搜寻与本土转译的微观过程。
-> - **解释不足** 传统框架对高度非理性决策、突发性危机应急响应以及地缘政治权力非对称性解释不足；将政策转移预设为以中央官僚为主导的线性借用，忽视了全球南方微观制度创新向外逆向外溢的循环生态（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）。
+> - **解释不足** 传统框架对高度非理性决策、突发性危机应急响应以及[[Geopolitics|地缘政治]]权力非对称性解释不足；将政策转移预设为以中央官僚为主导的线性借用，忽视了全球南方微观制度创新向外逆向外溢的循环生态（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）。
 > - **转化困难** 政策转移程度（照搬、杂糅、启发）与转移失灵机制（非知情、不完整、不恰当）在经验研究中界限较为模糊，需要大量微观实证材料方能细致区分。
 > - **不能直接推出** 不能将[[Analytic Framework|分析框架]]简化为静态的概念分类清单，单凭概念归类无法直接推导出政策转移的具体因果机制与最终落地成效；需要结合认识论机会结构与地方微观权力博弈展开深度解释。
 

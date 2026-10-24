@@ -8,7 +8,7 @@ aliases:
 summary: "在信息过载与教育决策多重不确定性背景下，跨国组织、智库或国家官方扶植机构通过筛选、转译和打包研究证据以施展软治理或服务政策落地的政治化机制。"
 type: concept
 domain: "comparative-education"
-related_count: 51
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Discourse]]"
   - "[[Soft Power]]"
+  - "[[Conditional Cash Transfers]]"
   - "[[Fast and Slow Lanes Model]]"
   - "[[Surplus of Evidence]]"
   - "[[Epistemic Governance]]"
@@ -52,6 +53,7 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Variable]]"
   - "[[Educational Brokerage Agency]]"
+  - "[[Policy Ambassador]]"
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
   - "[[Ian Menter]]"
@@ -60,6 +62,7 @@ related_arguments:
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Niemann_Martens_2018_GSP]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
 related_theories:
   - "[[Two-Communities Theory]]"
 related_methods:
@@ -77,7 +80,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---
@@ -116,7 +119,7 @@ updated: 2026-10-23
 > - **[[Soft Power by Hard Facts\|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 政策中介依靠数字而非叙事构筑理性、精确与普适的制度表象，通过可测量、可比较、标准化的测评指标形成软性比较压力与规制手段。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 538–539)]]
 > - **差异化中介工具打包（Instrument Bundling）** 各国际组织将核心评测工具与不同辅助产品打包，形成组织利基：[[OECD\|经合组织]]以 [[PISA]] 为核心绑定同行评议与国别经验横向对照；[[World Bank\|世界银行]]则依靠系统性基准工具搭配自指性最佳实践仓库。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 543–545)]]
 > - **政策周期的多阶段介入** 政策中介在政策周期的不同阶段承担异质功能：在议程设置阶段通过国际比较制造危机感并动员资源；在法案起草与决策阶段则面临主权国家行政官僚体系的高度筛选与策略性过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 546–547)]]
-> - **国内[[Policy Network\|政策网络]]中的官方扶植与机构中介（State-Sponsored Insider Brokerage）** 国家行政当局通过财政资助与法规划定创设专属中介机构（如2010年白皮书后成立的[[Chartered College of Teaching\|特许教学学院]]（Chartered College of Teaching, CCT）与[[Teaching Schools\|教学学校]]理事会（Teaching Schools Council, TSC）），将证据转译锁定在官方主导的专业化话语体系内，排斥传统大学等体制外力量。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–613)]]
+> - **国内[[Policy Network\|政策网络]]中的官方扶植与机构中介（State-Sponsored Insider Brokerage）** 国家行政当局通过财政资助与法规划定创设专属中介机构（如2010年白皮书后成立的[[Chartered College of Teaching\|特许教学学院]]（Chartered College of Teaching, [[Conditional Cash Transfers|CCT]]）与[[Teaching Schools\|教学学校]]理事会（Teaching Schools Council, TSC）），将证据转译锁定在官方主导的专业化话语体系内，排斥传统大学等体制外力量。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–613)]]
 > - **系统领袖与审查组的定向委托（Selective Commission of System Leaders）** 政府直接委托政治认同度高的体制内系统领袖牵头专项审查（如[[Carter Review of Initial Teacher Training\|卡特初始教师培训审查]]），利用其从业者身份为自上而下的循证政策改革背书并加速落地。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 612–613)]]
 > - **文官流转下的非正式中介与口口相传（Informal Word-of-Mouth Mediation）** 在部门高流动性与高压决策环境中，去情境化的学术结论或单篇研究成果化为口口相传的口碑传播与社交网络碎片，成为政策中介绕过严谨同行评审的非正式通道。[[Argument_Helgetun_2022_JEdPolicy|(Helgetun & Menter, 2022, pp. 614–615)]]
 > - **[[Fast and Slow Lanes Model|快慢车道模型]]中的中间车道转译与拥堵异化（Middle-Lane Brokerage Dynamics）** 政策中介处于快慢车道治理架构的核心中间车道，承担将慢车道学者复杂的实证研究转化为快车道决策者可消化的政策摘要的转译功能；然而，当政策中介仅从事自上而下的单向产品推销而缺乏双向交互与本土情境适切时，会进一步加剧[[Surplus of Evidence|证据过剩]]，导致中间车道发生“信息拥堵”。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 10–12, 15–16)]]
@@ -188,7 +191,7 @@ updated: 2026-10-23
 > 探讨在主权国家内部治理中，行政当局如何通过[[Gatekeepers\|守门人]]机制、官方资助中介机构与非正式口碑网络实现基于政策的证据转译。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
-> **官方中介扶植、证据守门与落地偏好** 在国家层面的[[Policy Network\|政策网络]]中，政策中介不仅体现为跨国组织的外部输入，更表现为主权政府[[Gatekeepers\|守门人]]对本土中介生态的主动重塑。英国教育部高级官员与部长通过创设或资助专属专业组织（如[[Chartered College of Teaching\|特许教学学院]]（CCT）、[[Teaching Schools\|教学学校]]理事会（TSC））、任命认同官方路线的系统领袖牵头政策审查（如[[Carter Review of Initial Teacher Training\|卡特审查]]），构建起自成体系的内部中介网络；伴随文官系统的频繁流转，中介过程高度依赖口口相传和强烈的“落地偏好”（landing preference），选择性放大符合政治议程的去情境化结论，将研究证据转化为服务于行政合法性的[[Rationalized Myth\|合理化神话]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–615)]]
+> **官方中介扶植、证据守门与落地偏好** 在国家层面的[[Policy Network\|政策网络]]中，政策中介不仅体现为跨国组织的外部输入，更表现为主权政府[[Gatekeepers\|守门人]]对本土中介生态的主动重塑。英国教育部高级官员与部长通过创设或资助专属专业组织（如[[Chartered College of Teaching\|特许教学学院]]（[[Conditional Cash Transfers|CCT]]）、[[Teaching Schools\|教学学校]]理事会（TSC））、任命认同官方路线的系统领袖牵头政策审查（如[[Carter Review of Initial Teacher Training\|卡特审查]]），构建起自成体系的内部中介网络；伴随文官系统的频繁流转，中介过程高度依赖口口相传和强烈的“落地偏好”（landing preference），选择性放大符合政治议程的去情境化结论，将研究证据转化为服务于行政合法性的[[Rationalized Myth\|合理化神话]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–615)]]
 
 ---
 
@@ -242,6 +245,7 @@ updated: 2026-10-23
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 揭示经合组织作为跨国政策知识经纪人，如何通过探究与调解双模协同推介最佳实践处方以施展软治理。
+> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 阐述智库、跨国管理咨询公司与[[Policy Ambassador|政策大使]]作为政策转移经纪人，在全球南方与北方之间搭建桥梁并推动方案跨国流通的运作机制。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 提出[[Governing by Numbers|数字治理]] 2.0 框架，系统解构[[OECD|经合组织]]与[[World Bank|世界银行]]将政策中介作为全球治理工具的演进逻辑与国家回应机制。
 > - [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] — 揭示英格兰教育[[Policy Network|政策网络]]中政府[[Gatekeepers|守门人]]、官方扶植中介机构与口口相传转译的运作机制。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 提出快慢车道模型，阐明政策中介在连接慢车道研究与快车道政策中的中间车道功能，诊断单向中介导致的证据拥堵与网络孤立，确立区域支持枢纽与部委常设中介机制。

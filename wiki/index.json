@@ -467,6 +467,16 @@
     ]
   },
   {
+    "title": "Aidland",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Aidland.md",
+    "aliases": [
+      "援助国度",
+      "国际援助生态圈",
+      "发展援助生态圈"
+    ]
+  },
+  {
     "title": "Alumnus Effect",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Alumnus Effect.md",
@@ -595,6 +605,17 @@
       "comprehensive schooling",
       "comprehensive principle",
       "comprehensive school system"
+    ]
+  },
+  {
+    "title": "Conditional Cash Transfers",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Conditional Cash Transfers.md",
+    "aliases": [
+      "有条件现金转移支付",
+      "CCTs",
+      "有条件现金转移支付计划",
+      "Conditional Cash Transfer Programs"
     ]
   },
   {
@@ -2027,6 +2048,18 @@
       "travelling policies",
       "travelling reforms",
       "旅途改革"
+    ]
+  },
+  {
+    "title": "Triangular Cooperation",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Triangular Cooperation.md",
+    "aliases": [
+      "三方合作",
+      "南南与三方合作",
+      "SSTC",
+      "Trilateral Cooperation",
+      "Triangular Development Cooperation"
     ]
   },
   {
@@ -31731,6 +31764,18 @@
     ]
   },
   {
+    "title": "Bolsa Familia",
+    "type": "fact",
+    "path": "wiki/facts/brazil/Bolsa Familia.md",
+    "aliases": [
+      "Bolsa Família",
+      "家庭补贴计划",
+      "巴西家庭补贴计划",
+      "Programa Bolsa Família",
+      "PBF"
+    ]
+  },
+  {
     "title": "Brazilian Secondary Education Curriculum Reform 1998",
     "type": "fact",
     "path": "wiki/facts/brazil/Brazilian Secondary Education Curriculum Reform 1998.md",
@@ -31748,6 +31793,17 @@
       "ENADE",
       "巴西全国学生学业成就测试",
       "巴西全国学生成绩考试"
+    ]
+  },
+  {
+    "title": "Participatory Budgeting",
+    "type": "fact",
+    "path": "wiki/facts/brazil/Participatory Budgeting.md",
+    "aliases": [
+      "参与式预算",
+      "Orçamento Participativo",
+      "阿雷格里港参与式预算",
+      "Porto Alegre Participatory Budgeting"
     ]
   },
   {
@@ -33946,6 +34002,16 @@
       "Education Sector Policy Paper 1980",
       "世界银行1980年教育部门政策文件",
       "World Bank 1980 Education Paper"
+    ]
+  },
+  {
+    "title": "World Social Forum",
+    "type": "fact",
+    "path": "wiki/facts/global/World Social Forum.md",
+    "aliases": [
+      "世界社会论坛",
+      "WSF",
+      "Fórum Social Mundial"
     ]
   },
   {

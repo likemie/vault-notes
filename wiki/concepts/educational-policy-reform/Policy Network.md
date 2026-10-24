@@ -12,7 +12,7 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构。在批判政策社会学中揭示国家作为市场缔造者与私营中介协同重构再分配与理念编排的异层治理，在实证治理中测度政务网络规模与互动深度的非线性脱节。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 84
+related_count: 87
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -25,8 +25,6 @@ tags:
   - theme/policy-network
 related_concepts:
   - "[[Knowledge Mediation]]"
-  - "[[Policy Ambassador]]"
-  - "[[South-South Cooperation]]"
   - "[[Theoretical Perspective]]"
   - "[[Discourse]]"
   - "[[Co-affiliation]]"
@@ -45,6 +43,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Gatekeepers]]"
+  - "[[Conditional Cash Transfers]]"
   - "[[Performativity]]"
   - "[[Normal School]]"
   - "[[Policy-Based Evidence-Making]]"
@@ -54,6 +53,9 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Network Governance]]"
   - "[[Paradigm]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Triangular Cooperation]]"
+  - "[[Policy Ambassador]]"
   - "[[Social Impact Investing]]"
   - "[[Philanthrocapitalism]]"
   - "[[Steering at a Distance]]"
@@ -67,6 +69,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Epistemic Coloniality]]"
   - "[[Research Impact]]"
+  - "[[South-South Cooperation]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
   - "[[Path Dependence]]"
@@ -111,12 +114,12 @@ related_arguments:
   - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
-  - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Stone_2020_PolSoc]]"
+  - "[[Argument_Revai_2022_ChangingLandscape]]"
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---
@@ -171,7 +174,7 @@ updated: 2026-10-23
 > - **连锁董事治理同盟（Interlocking Directorates & Policy Coalitions）** 跨界精英通过同时出任非营利中介、商业公司、慈善基金会与咨询委员会董事形成密集连锁网络（如前教育部高官、对冲基金合伙人、跨国广告巨头高管与地方信托负责人共同进入理事会），绕过常规科层审批与公立大学认证壁垒，强推非传统政策方案（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp. 49–54]]）。
 > - **学术商标特许与跨国商业代理网络（Academic Franchise & Intermediary Marketing Networks）** 由权威学者、本土 [[Educational Management Organisation|EMO]]、跨国商业出版集团与科技分包商构成的跨界资本联盟，将公立科研成果包装为具有排他性法律壁垒的注册商标，并在数十国推行商业特许经营与咨询认证，实现跨国资本积累与个人版税分红（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp. 65–70]]）。
 > - **金融化[[Epistemology\|认识论]]粘合剂（Financialised Epistemic Bindings）** 政策网络以“买入”（buy in）、“[[Educational Brokerage Agency\|证据经纪人]]”（evidence broker）及“金钱是对话的通用货币”等金融从业话语作为共同认识论纽带，将商业投资逻辑植入公共教育（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）。
-> - **政治把关与排他性授权（Political Gatekeeping & Selective Empowerment）** 中央教育行政部门作为网络[[Gatekeepers\|守门人]]，通过排他性授权设立官方代言机构（如[[Chartered College of Teaching\|特许教学学院]] CCT、[[Teaching Schools\|教学学校]]理事会 TSC）并定向委任审查专家，系统筛选证据准入与咨询声音（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 93]]）。
+> - **政治把关与排他性授权（Political Gatekeeping & Selective Empowerment）** 中央教育行政部门作为网络[[Gatekeepers\|守门人]]，通过排他性授权设立官方代言机构（如[[Chartered College of Teaching\|特许教学学院]] [[Conditional Cash Transfers|CCT]]、[[Teaching Schools\|教学学校]]理事会 TSC）并定向委任审查专家，系统筛选证据准入与咨询声音（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 93]]）。
 > - **非正式中介与口口相传网络（Informal Intermediaries & Word-of-Mouth Ties）** 面对官僚高频轮岗，决策者极度依赖社交媒体意见领袖、博客博主与口口相传的人际中介网络获取去语境化的研究结论，替代了正式的文献审查机制（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, pp. 94–96]]）。
 > - **网络规模与联结强度（Network Size & Tie Strength）** 测度部委定期征询的组织类型广度（0–16 类）与日常互动的频度深度（1–6 点量表），揭示网络广覆盖与弱互动之间的结构性脱离（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 84–85]]）。
 > - **生产依附偏误（Production Dependency Bias）** 决策网络习惯性依附于传统学术生产者（大学、公共研究机构），而在体制上系统性排斥专注于转译与传播的纯中介机构（智库、专业协会）（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, p. 86]]）。
@@ -295,10 +298,10 @@ updated: 2026-10-23
 ### 命题十　多标量跨国政策网络依托去中心化协作与政策大使重构中心边缘的单向依附
 
 > [!concept-lens] 跨国政策循环与南南网络拓扑
-> 探讨政策网络超越北方主导的单向知识转移模式，依托跨国城际网络、专业实务网络与南南多边协作，实现南方本土治理经验的反向扩散与多向循环。
+> 探讨政策网络超越北方主导的单向[[Knowledge Transfer|知识转移]]模式，依托跨国城际网络、专业实务网络与南南多边协作，实现南方本土治理经验的反向扩散与多向循环。
 
 > [!claim] [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]]
-> **去中心化跨国政策网络对中心-边缘知识依附的重构** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，跨国政策网络超越了全球北方资本向南方单向输出规程的异层通道，成为全球南方制度创新实现跨国扩散与多向循环的关键依托。拉美城市与减贫改革经验表明，去中心化的跨国市政网络（如城际联盟）、专业实务人员网络与南南三方合作平台，依托[[Policy Ambassador|政策大使]]的跨文化斡旋，将深植于发展中国家治理边缘的草根默会经验转化为国际多边平台的政策议程，打破了传统中心-边缘政策网络中单向输出的知识等级与依附关系。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 2–6)]]
+> **去中心化跨国政策网络对中心-边缘知识依附的重构** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，跨国政策网络超越了全球北方资本向南方单向输出规程的异层通道，成为全球南方制度创新实现跨国扩散与多向循环的关键依托。拉美城市与减贫改革经验表明，去中心化的跨国市政网络（如城际联盟）、专业实务人员网络与南南[[Triangular Cooperation|三方合作]]平台，依托[[Policy Ambassador|政策大使]]的跨文化斡旋，将深植于发展中国家治理边缘的草根默会经验转化为国际多边平台的政策议程，打破了传统中心-边缘政策网络中单向输出的知识等级与依附关系。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 2–6)]]
 
 ---
 
@@ -439,4 +442,4 @@ updated: 2026-10-23
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 将关系与网络确立为 [[OECD]] 强化教育[[Research Impact\|研究影响力]]五维[[Analytic Framework\|分析框架]]的核心支柱。
 > - [[Argument_Kickert_1995_Governance\|Kickert (1995)]] — 从欧陆公共行政与组织网络理论出发，系统解构韦伯科层命令假定在半自治专业人员构成的政策网络中的结构性失灵，论证向间接激励与理性对话转型的制度必要性。
 > - [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] — 解构新西兰替代性教师培训（[[Teach First New Zealand|TFNZ]]）跨界董事会网络及 [[Visible Learning]] 跨国特许代理网络，揭示政策网络如何绕过代议制科层实现政策突破与隐性商业化。
-> - [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] — 结合拉美城市与减贫治理经验，揭示去中心化跨国市政网络与南南合作平台如何依托政策大使重构传统中心-边缘知识依附（pp. 2–6）。
+> - [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] — 结合拉美城市与减贫治理经验，揭示去中心化跨国市政网络与[[South-South Cooperation|南南合作]]平台如何依托政策大使重构传统中心-边缘知识依附（pp. 2–6）。

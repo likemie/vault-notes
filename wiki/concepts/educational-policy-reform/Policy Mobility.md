@@ -10,7 +10,7 @@ aliases:
 summary: "指涉政策观念、治理技术与制度模型在跨国、跨区域及公私异质网络中被解构、转译、变异和再情境化的动态过程；强调政策并非在真空或纯粹地理空间中的静态线性转移，而是伴随社会-技术中介、权力拓扑与资本纽带的流动性装配。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 67
+related_count: 65
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Social Impact Investing]]"
   - "[[Policy Ambassador]]"
   - "[[Representational Knowledge]]"
+  - "[[Conditional Cash Transfers]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence Standards]]"
   - "[[Return on Investment]]"
@@ -55,7 +56,6 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Hard Policy Transfer]]"
-  - "[[South-South Cooperation]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[Van Leeuwen's Legitimation Theory]]"
@@ -80,12 +80,10 @@ related_facts:
   - "[[Evidence for Learning]]"
   - "[[Australian Schools Plus]]"
   - "[[Australian Education Research Organisation]]"
+  - "[[Participatory Budgeting]]"
   - "[[BHP Foundation]]"
   - "[[World Bank]]"
   - "[[MDRC]]"
-  - "[[OECD]]"
-  - "[[Inter-American Development Bank]]"
-  - "[[Business Roundtable]]"
 related_arguments:
   - "[[Argument_Rowe_2022_IJER]]"
   - "[[Argument_Rowe_2023_ECNUROE]]"
@@ -95,7 +93,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---
@@ -196,7 +194,7 @@ updated: 2026-10-23
 > **网络拓扑对政策内容的再造** 政策流动并非发生于平坦的国家版图之上，而是依托于跨国异质网络展开；在这一流动拓扑中，政策的内涵被跨国[[Policy Entrepreneur\|政策企业家]]、慈善资本家与技术官僚的利益[[Co-affiliation\|共同从属]]性所重新编码，使公共教育治理彻底卷入以市场逻辑为导向的企业化重构过程（Ball, 2016；Ball et al., 2017）。
 
 > [!claim] [[Argument_Stone_2020_PolSoc\|Stone, Porto de Oliveira, and Pal (2020)]]
-> **多标量政策循环与全球南方自主外溢** 斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）将政策流动透镜引入国际发展合作，打破传统北方主导、中心-边缘单向度扩散与国家中心借用预设。政策流动呈现出多标量、多向度的网络循环形态，全球南方国家不仅是政策试验的被动受体，更依托[[Policy Ambassador|政策大使]]与扎根本土的[[Representational Knowledge|代表性知识]]，向跨国多边平台输出快速公交、有条件现金转移支付与参与式预算等前沿创新，重构了跨国政策流动的治理生态与权力拓扑。（pp. 1–6, 11–13）
+> **多标量政策循环与全球南方自主外溢** 斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）将政策流动透镜引入国际发展合作，打破传统北方主导、中心-边缘单向度扩散与国家中心借用预设。政策流动呈现出多标量、多向度的网络循环形态，全球南方国家不仅是政策试验的被动受体，更依托[[Policy Ambassador|政策大使]]与扎根本土的[[Representational Knowledge|代表性知识]]，向跨国多边平台输出快速公交、[[Conditional Cash Transfers|有条件现金转移支付]]与[[Participatory Budgeting|参与式预算]]等前沿创新，重构了跨国政策流动的治理生态与权力拓扑。（pp. 1–6, 11–13）
 
 ---
 

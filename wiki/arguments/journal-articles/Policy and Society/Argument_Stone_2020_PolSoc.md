@@ -25,16 +25,20 @@ related_concepts:
   - "[[Policy Ambassador]]"
   - "[[Representational Knowledge]]"
   - "[[South-South Cooperation]]"
+  - "[[Triangular Cooperation]]"
   - "[[Construct]]"
   - "[[Artefact]]"
   - "[[Tacit Knowledge]]"
+  - "[[Aidland]]"
   - "[[Champ]]"
   - "[[Constructivist Paradigm]]"
   - "[[Policy Science in Comparative Education]]"
+  - "[[Conditional Cash Transfers]]"
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
   - "[[Policy Network]]"
   - "[[Knowledge Mediation]]"
+  - "[[Policy Brokerage]]"
   - "[[Knowledge Production]]"
   - "[[Intellectual Capital]]"
   - "[[Heterogeneity]]"
@@ -56,8 +60,11 @@ related_persons:
   - "[[Paulo Freire]]"
 related_facts:
   - "[[OECD]]"
+  - "[[Participatory Budgeting]]"
   - "[[World Bank]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[World Social Forum]]"
+  - "[[Bolsa Familia]]"
   - "[[Inter-American Development Bank]]"
 related_arguments: []
 sources:
@@ -65,16 +72,16 @@ sources:
 part_of: ''
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-25
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Stone_2020_PolSoc"
 argument_key: "Argument_Stone_2020_PolSoc"
 argument_display_title: "Transnational policy transfer: The circulation of ideas, power and development models"
 argument_kind: "journal-article"
-argument_related_count: 34
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 41
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: Policy and Society
 ---
@@ -84,7 +91,7 @@ journal: Policy and Society
 > 比较公共政策与政策转移研究长期植根于[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）发达工业化国家的治理经验，预设政策创新单向由全球北方流向全球南方、由中央政府部委科层主导，且依赖纯粹的[[Technical Rationality|技术理性]]与科学实证。然而，国际发展合作实践表明，跨国[[Policy Mobility|政策流动]]高度嵌入于充满非对称权力的多元网络中。国际发展合作如何打破传统国家中心主义与北方主导的理论盲区，重塑政策转移的行动主体、专业知识形态与跨国流通拓扑结构？
 
 > [!claim] 核心主张
-> 跨国政策流动正经历从传统北方主导、国家中心与技术官僚式的线性借用，向以国际发展合作与全球南方为关键中枢、依托[[Policy Ambassador|政策大使]]与[[Representational Knowledge|代表性知识]]的多标量、多向度跨国政策循环演进；全球南方国家通过[[South-South Cooperation|南南合作]]、三方合作与多边峰会输出本土创新方案，深刻重构了全球政策知识生态与治理权力关系。
+> 跨国政策流动正经历从传统北方主导、国家中心与技术官僚式的线性借用，向以国际发展合作与全球南方为关键中枢、依托[[Policy Ambassador|政策大使]]与[[Representational Knowledge|代表性知识]]的多标量、多向度跨国政策循环演进；全球南方国家通过[[South-South Cooperation|南南合作]]、[[Triangular Cooperation|三方合作]]与多边峰会输出本土创新方案，深刻重构了全球政策知识生态与治理权力关系。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 国际发展合作中的跨国政策转移（Transnational Policy Transfer）、政策扩散（Policy Diffusion）与多中心知识流动生态。
@@ -98,7 +105,7 @@ journal: Policy and Society
 > |---|---|
 > | **[[Policy Transfer Framework\|政策转移分析框架]]**<br>[[Policy Transfer Framework]] | 梳理多洛维茨与马什（Dolowitz & Marsh, 1996, 2000）确立的借用主体、客体、动机与失败归因维度，作为反思传统假定与推进理论重构的基础参照系。 |
 > | **[[Interpretive Policy Analysis\|解释性政策分析]]**<br>[[Interpretive Policy Analysis]] | 采纳亚诺（Yanow, 2009）的社会建构论与诠释学进路，解构政策[[Artefact\|人工制品]]背后的意义阐释、隐喻修辞与[[Tacit Knowledge\|默会知识]]，克服预测性因果实证模型的局限。 |
-> | **援助国度与排他性俱乐部理论**<br>Aidland & Exclusive Clubs Framework | 结合莫斯（Mosse, 2011）关于国际援助生态圈的田野人类学发现，以及普利奥特与泰里安（Pouliot & Thérien, 2018）对全球治理中俱乐部外交排他性与规范同质化倾向的批判，透视国际组织内部的权力再生产。 |
+> | **援助国度与排他性俱乐部理论**<br>Aidland & Exclusive Clubs Framework | 结合莫斯（Mosse, 2011）关于[[Aidland\|国际援助生态圈]]的田野人类学发现，以及普利奥特与泰里安（Pouliot & Thérien, 2018）对全球治理中俱乐部外交排他性与规范同质化倾向的批判，透视国际组织内部的权力再生产。 |
 
 > [!warrant]- 理论如何支撑论证
 > 解释性政策分析视角将跨国政策流动定位为特定政治文化[[Champ|场域]]中的持续意义转译与权力博弈；结合对国际发展合作非对称制度架构的批判，论证得以穿透国际组织的形式化技术报告，将分析焦点下沉至地方城市边缘、一线实务网络以及基于本土扎根经验的代表性知识。
@@ -110,14 +117,14 @@ journal: Policy and Society
 > |---|---|
 > | **研究性质／理论建构与述评**<br>Conceptual and Review Synthesis | 系统综合 2018 年在巴西圣保罗召开的“政策扩散与发展合作国际研讨会”成果，开展跨学科概念建构，整合发展合作与比较公共政策文献。 |
 > | **认识论立场／解释建构主义**<br>Interpretivist and Social Constructivist Stance | 采纳解释[[Constructivist Paradigm\|建构主义]]立场，认为政策因果关联深受中介网络、本土拼贴（Bricolage）、政策实验（Policy Experimentalism）与制度转译的重塑，聚焦知识主体在权力场域中的能动性。 |
-> | **分析策略／主题综合与跨案映射**<br>Thematic Mapping and Cross-Case Analysis | 提炼发展合作与政策转移交织的六大新兴动态，横向映射拉美（巴西参与式预算、智利养老金改革）、亚洲（印尼行政改革、中国互学互鉴）及全球卫生治理（毒品减害网络）的多尺度经验案例。 |
+> | **分析策略／主题综合与跨案映射**<br>Thematic Mapping and Cross-Case Analysis | 提炼发展合作与政策转移交织的六大新兴动态，横向映射拉美（巴西[[Participatory Budgeting\|参与式预算]]、智利养老金改革）、亚洲（印尼行政改革、中国互学互鉴）及全球卫生治理（毒品减害网络）的多尺度经验案例。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
 > | **专题研讨与文献材料** | 2018 年 5 月在巴西圣保罗联邦大学举办的政策扩散与发展合作国际研讨会成果，涵盖跨国发展援助与[[Policy Science in Comparative Education\|政策科学]]交叉前沿。 |
 > | **经验案例覆盖** | 深度分析巴西、智利、哥伦比亚、墨西哥、印度尼西亚、中国等南方国家，以及经合组织（OECD）、[[World Bank\|世界银行]]、联合国系统等多边组织。 |
-> | **政策领域横跨** | 涵盖城市公共交通（快速公交系统）、社会保障（有条件现金转移支付与养老金私有化）、基层治理（参与式预算）及公共卫生（毒品减害政策）。 |
+> | **政策领域横跨** | 涵盖城市公共交通（快速公交系统）、社会保障（[[Conditional Cash Transfers\|有条件现金转移支付]]与养老金私有化）、基层治理（参与式预算）及公共卫生（毒品减害政策）。 |
 
 ---
 
@@ -197,10 +204,10 @@ journal: Policy and Society
 
 > [!case] 巴西城市公共治理创新的全球扩散
 > - **库里蒂巴快速公交系统（Bus Rapid Transit）** 1974 年巴西库里蒂巴市首创快速公交系统（Bus Rapid Transit），通过专用车道、封闭式站台与预售票机制，以极低财政成本实现了媲美地铁的高运力通勤。该模式随后不仅在拉丁美洲各国广泛铺开，更被哥伦比亚波哥大、印度乃至欧美发达城市争相效仿。
-> - **阿雷格里港参与式预算（Participatory Budgeting）** 1989 年巴西阿雷格里港由劳工党推行的参与式预算制度，让社区居民直接审议决定市政基础设施投资优先序。这一源自南美地方城市的微观民主创新，在二十年内跨越国界扩散至全球数千个城市，甚至被写入[[World Bank|世界银行]]的公民参与治理指南，确立了南方城市在公共治理创新中的开拓者地位。
+> - **[[Participatory Budgeting|阿雷格里港参与式预算]]（Participatory Budgeting）** 1989 年巴西阿雷格里港由劳工党推行的[[Participatory Budgeting|参与式预算]]制度，让社区居民直接审议决定市政基础设施投资优先序。这一源自南美地方城市的微观民主创新，在 2001 年首届[[World Social Forum|世界社会论坛]]（World Social Forum, WSF）集中展示后跨越国界扩散至全球数千个城市，甚至被写入[[World Bank|世界银行]]的公民参与治理指南，确立了南方城市在公共治理创新中的开拓者地位。
 
-> [!case] 拉美有条件现金转移支付模型的制度化输出
-> - **制度原型与运作机制** 20 世纪 90 年代末至 21 世纪初，巴西家庭补贴（Bolsa Família）与墨西哥发展（Oportunidades/Progresa）项目彻底改变了传统社会救助[[Paradigm|范式]]。该有条件现金转移支付（Conditional Cash Transfers, CCTs）模型将现金发放与儿童按期接种疫苗、保证学校出勤率等明确的[[Human Capital Theory|人力资本]]投资行为直接绑定。
+> [!case] 拉美[[Conditional Cash Transfers|有条件现金转移支付]]模型的制度化输出
+> - **制度原型与运作机制** 20 世纪 90 年代末至 21 世纪初，巴西家庭补贴（[[Bolsa Familia]]）与墨西哥发展（Oportunidades/Progresa）项目彻底改变了传统社会救助[[Paradigm|范式]]。该[[Conditional Cash Transfers|有条件现金转移支付]]（Conditional Cash Transfers, CCTs）模型将现金发放与儿童按期接种疫苗、保证学校出勤率等明确的[[Human Capital Theory|人力资本]]投资行为直接绑定。
 > - **跨国扩散与多边吸纳** 这种源自拉美本土的发展政策工具，不仅在智利、哥伦比亚等国落地生根，更作为成熟范式被国际金融机构吸纳并推向撒哈拉以南非洲和东南亚。
 
 #### 4. 釜山会议与多边峰会打破了传统单向附带条件的援助模式
@@ -208,7 +215,7 @@ journal: Policy and Society
 > [!case] 釜山高层论坛与南南技术协作规范的确立
 > 国际发展合作的制度框架自身也在经历深层权力解构，推动政策借鉴由单向输入走向对等合作：
 > - **国际援助哲学转折** 2011 年在韩国釜山举行的[[OECD|经合组织]]发展援助委员会第四届援助效益高层论坛标志着国际援助哲学的重大转折。传统由西方供资方单向主导的附带政治约束援助模式遭遇普遍抵制，强调技术协作而非单纯资金借贷的[[South-South Cooperation|南南合作]]理念获得国际合法性。
-> - **三方合作与互学互鉴机制** 在这一背景下，新兴国家推行互学互鉴合作原则，结合由国际组织提供资金协调、南方国家提供技术专长的三方合作（Triangular Cooperation）机制，显著拓展了南方治理方案在亚非拉地区的落地渠道。
+> - **[[Triangular Cooperation|三方合作]]与互学互鉴机制** 在这一背景下，新兴国家推行互学互鉴合作原则，结合由国际组织提供资金协调、南方国家提供技术专长的三方合作（Triangular Cooperation）机制，显著拓展了南方治理方案在亚非拉地区的落地渠道。
 
 ---
 
@@ -219,7 +226,7 @@ journal: Policy and Society
 
 > [!feature] 跨国政策流动中的个体能动者谱系
 > 政策流动的速度与方向高度受制于具体行动者的社会资本与说服技能：
-> - **政策大使（Policy Ambassadors）** 具备国际声望、跨文化穿透力与多语言斡旋能力的[[Knowledge Mediation|知识中介]]，穿梭于母国行政体制与国际多边平台，以个人魅力和实践经验推动政策模式的跨界制度化。
+> - **政策大使（Policy Ambassadors）** 具备国际声望、跨文化穿透力与多语言斡旋能力的[[Knowledge Mediation|知识中介]]与[[Policy Brokerage|政策经纪人]]，穿梭于母国行政体制与国际多边平台，以个人魅力和实践经验推动政策模式的跨界制度化。
 > - **学术-行政企业家（Academic-Administrator Entrepreneurs）** 兼具大学学者与高级行政官僚双重身份的知识行动者（如印度尼西亚的高校公共管理学者），巧妙整合专业学术权威与科层审批职权，打通外国治理方案的本土化通道。
 > - **顶尖学术领袖的政策号召力** 著名学者直接充当跨国思想流通的核心媒介，如约翰·梅纳德·凯恩斯（John Maynard Keynes）对国家干预宏观经济理论的奠基，以及诺贝尔和平奖得主穆罕默德·尤努斯（Muhammad Yunus）对微型金融信贷模式的全球倡导。
 > - **日常科层技术官僚的经验汲取** 科层内部的统计官、法律顾问与议会研究员，通过日常的跨国规程比对与案例筛查，在操作层面推进具体政策法规的微观调适。
@@ -235,7 +242,7 @@ journal: Policy and Society
 > | 运作维度 | 制度赋能与扩散效应 | 规范同质化与权力约束 |
 > |---|---|---|
 > | **[[Knowledge Production\|知识生产]]与分配** | 投入庞大[[Intellectual Capital\|智力资本]]搜寻、筛选全球前沿方案，通过评估报告与旗舰出版物赋予本土模型以全球合法性。 | 将复杂多元的地方实践强行剪裁为标准化的最佳实践清单（Best Practice），抹平本土制度情境的[[Heterogeneity\|异质性]]。 |
-> | **机构科层网络** | 依托多边贷款与技术援助网络，将政策方案迅速规模化铺展至数十个成员国。 | 滋生莫斯（Mosse, 2011）所指认的援助国度（Aidland）封闭官僚文化，排斥具有颠覆性或激进批判色彩的替代性治理构想。 |
+> | **机构科层网络** | 依托多边贷款与技术援助网络，将政策方案迅速规模化铺展至数十个成员国。 | 滋生莫斯（Mosse, 2011）所指认的[[Aidland\|援助国度（Aidland）]]封闭官僚文化，排斥具有颠覆性或激进批判色彩的替代性治理构想。 |
 > | **人事循环通道** | 为全球南方实践专家提供进入国际多边体系的职业上升通道，拓宽南向政策建言渠道。 | 容易将南方政策精英收编入新自由主义[[Discourse\|话语]]体系，导致其原初扎根经验的技术化稀释。 |
 
 > [!case] 拉美减贫专家向国际多边机构的人事循环
@@ -270,7 +277,7 @@ journal: Policy and Society
 
 > [!case] 保罗·弗莱雷被压迫者教育学在西方民主政体的回流
 > 代表性知识具备强烈的规范批判潜能，不仅能够抵御外部干预，更能向全球北方反向流动：
-> - **本土扎根与意识化教育发轫** 20 世纪 60 年代，巴西教育家保罗·弗莱雷（Freire, 1970）在巴西东北部贫困地区开展成人扫盲实践，发展出强调意识化（[[Conscientization|Conscientização]]）与批判性对话的[[Critical Pedagogy|批判教育学]]。弗莱雷的理论权威扎根于同底层失地农民休戚与共的生存体验与解放道德信念。
+> - **本土扎根与[[Conscientization|意识化]]教育发轫** 20 世纪 60 年代，巴西教育家保罗·弗莱雷（Freire, 1970）在巴西东北部贫困地区开展成人扫盲实践，发展出强调意识化（[[Conscientization|Conscientização]]）与批判性对话的[[Critical Pedagogy|批判教育学]]。弗莱雷的理论权威扎根于同底层失地农民休戚与共的生存体验与解放道德信念。
 > - **跨国回流与全球范式重构** 这种代表性知识在 20 世纪 70 年代伴随学者的流亡与国际交流迅速走向全球，不仅在第三世界去殖民化运动中产生深远反响，更反向冲击了欧美成熟民主政体传统的科层教育体系，被欧美平民教育与社区行动广泛借鉴，展现了南方批判思想重塑全球主流政策范式的生命力。
 
 #### 3. 多标量跨国政策循环彻底打破了中心对边缘的单向度知识依附

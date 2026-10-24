@@ -9,11 +9,19 @@ aliases:
 summary: "一种由传统北方出资国或多边国际组织提供资金支持与宏观协调、由具备成熟实践经验的全球南方枢纽国提供专业技术与政策模型、共同向第三方受援国实施方案输出的发展合作与政策转移治理模式。"
 type: concept
 domain: "comparative-education"
+related_count: 2
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/governance
   - theme/development-cooperation
   - theme/policy-transfer
   - comparative-education
+related_concepts:
+  - "[[South-South Cooperation]]"
+related_arguments:
+  - "[[Argument_Stone_2020_PolSoc]]"
 confidence: medium
 status: draft
 created: 2026-10-25
@@ -27,7 +35,7 @@ updated: 2026-10-25
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向打破传统南北二元单向受援关系的复合型多边制度协作构架。
-> - **用途** 帮助研究者透视全球南方国家在国际发展治理中的制度输出能力，以及国际多边组织如何通过资金配比吸纳并规约南方经验。
+> - **用途** 帮助研究者透视全球南方国家在国际发展治理中的制度输出能力，以及国际多边组织如何通过资金配比吸纳并约束南方经验。
 > - **边界** 区别于纯粹双边性质的南南合作或传统的南北单向发展援助。
 
 > [!citation-card] 三方合作作为政策流动的新兴载体
@@ -36,7 +44,7 @@ updated: 2026-10-25
 > *Moreover, practices of triangular cooperation, which can involve development cooperation among countries from the South, with mediation and part funding from an international organisation, have gained relevance as well. The changing nature of development cooperation continues to be an important driver of South–South and South–North policy transfers.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[South-South Cooperation|南南合作（South-South Cooperation）]] 南南合作由发展中国家自主开展双边或区域互助，强调对等互助且不附带外部政治规约；三方合作则引入了北方国家或国际组织的财政介入与规范协调。
+> - 不等于 [[South-South Cooperation|南南合作（South-South Cooperation）]] 南南合作由发展中国家自主开展双边或区域互助，强调对等互助且不附带外部政治附加条件；三方合作则引入了北方国家或国际组织的财政介入与规范协调。
 > - 不等于 传统南北发展援助（North-South Aid） 传统援助由西方发达经济体单向主导受援指标并常附带结构性调整条件；三方合作中核心政策方案与技术专长来自全球南方枢纽国。
 
 ---
@@ -82,10 +90,10 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　三方合作的多边介入兼具放大创新与施加科层规约的双重张力
+### 命题二　三方合作的多边介入兼具放大创新与施加科层约束的双重张力
 
 > [!concept-lens] 国际组织的中介效应
-> 探讨国际多边组织在资助和评估三方合作时对南方方案产生的标准化裁剪与话语规约。
+> 探讨国际多边组织在资助和评估三方合作时对南方方案产生的标准化裁剪与话语约束。
 
 > [!claim] Stone, D., Porto de Oliveira, O., & Pal, L. A.
 > **科层过滤与规范同质化** 国际金融组织在资助与调解三方合作时，容易将多元扎根的南方方案强行裁剪为标准化的最佳实践清单，从而抹平本土制度情境的异质性。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 12–13)]]
@@ -96,7 +104,7 @@ updated: 2026-10-25
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **知识权力重构** | 三方合作赋权全球南方国家从受援体向知识输出体转化 | 国际发展援助与南南互学互鉴机制 | Stone, D.; Porto de Oliveira, O.; Pal, L. A. |
-> | **科层规约张力** | 国际多边机构在放大扩散的同时施加规范剪裁 | 国际组织对三方合作项目的资金监管与监测评估 | Stone, D.; Porto de Oliveira, O.; Pal, L. A. |
+> | **科层约束张力** | 国际多边机构在放大扩散的同时施加规范剪裁 | 国际组织对三方合作项目的资金监管与监测评估 | Stone, D.; Porto de Oliveira, O.; Pal, L. A. |
 
 ---
 

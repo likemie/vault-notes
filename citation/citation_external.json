@@ -2514,6 +2514,8 @@
     "Cavan, 1977": "Cavan, 1977",
     "Cave & Rowell (2015)": "Cave & Rowell, 2015",
     "Cave & Rowell, 2015": "Cave & Rowell, 2015",
+    "Cecilia Osorio Gonnet (2018)": "Cecilia Osorio Gonnet, 2018",
+    "Cecilia Osorio Gonnet, 2018": "Cecilia Osorio Gonnet, 2018",
     "Center Director (2004)": "Center Director, 2004",
     "Center Director, 2004": "Center Director, 2004",
     "Centers for Disease Control & Prevention (1996)": "Centers for Disease Control & Prevention, 1996",
@@ -2979,6 +2981,8 @@
     "Connolly, 2017": "Connolly, 2017",
     "Connor (1978)": "Connor, 1978",
     "Connor, 1978": "Connor, 1978",
+    "Constantine & Shankland (2017)": "Constantine & Shankland, 2017",
+    "Constantine & Shankland, 2017": "Constantine & Shankland, 2017",
     "Contract Accord 14 (2020)": "Contract Accord 14, 2020",
     "Contract Accord 14, 2020": "Contract Accord 14, 2020",
     "Conzelmann (2008)": "Conzelmann, 2008",
@@ -35878,6 +35882,21 @@
       ],
       "title": ""
     },
+    "Cecilia Osorio Gonnet, 2018": {
+      "aliases": [
+        "Cecilia Osorio Gonnet, 2018",
+        "Cecilia Osorio Gonnet (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cecilia Osorio Gonnet, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Conditional Cash Transfers.md"
+      ],
+      "title": ""
+    },
     "Center Director, 2004": {
       "aliases": [
         "Center Director, 2004",
@@ -39490,6 +39509,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Xu_2024_CE.md"
+      ],
+      "title": ""
+    },
+    "Constantine & Shankland, 2017": {
+      "aliases": [
+        "Constantine & Shankland, 2017",
+        "Constantine & Shankland (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Constantine & Shankland, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/brazil/Bolsa Familia.md"
       ],
       "title": ""
     },
@@ -93306,6 +93340,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md",
+        "wiki/concepts/comparative-education/Aidland.md",
         "wiki/facts/global/World Bank.md",
         "wiki/facts/latin-america/Inter-American Development Bank.md"
       ],
@@ -104386,7 +104421,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/comparative-education/Policy Ambassador.md"
+        "wiki/concepts/comparative-education/Policy Ambassador.md",
+        "wiki/facts/brazil/Participatory Budgeting.md",
+        "wiki/facts/global/World Social Forum.md"
       ],
       "title": ""
     },
@@ -127786,7 +127823,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/persons/argentina/Atilio Borón.md"
+        "wiki/persons/argentina/Atilio Borón.md"
       ],
       "title": ""
     },
