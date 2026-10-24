@@ -588,6 +588,8 @@
     "Archer, 2000": "Archer, 2000",
     "Archila et al. (2024)": "Archila et al., 2024",
     "Archila et al., 2024": "Archila et al., 2024",
+    "Ardila (2020)": "Ardila, 2020",
+    "Ardila, 2020": "Ardila, 2020",
     "Arditti (2002)": "Arditti, 2002",
     "Arditti, 2002": "Arditti, 2002",
     "Areas which rank highly in Marzano (1998)": "Areas which rank highly in Marzano, 1998",
@@ -3049,6 +3051,8 @@
     "Corbin & Strauss, 2015": "Corbin & Strauss, 2015",
     "Corbin (1990)": "Corbin, 1990",
     "Corbin, 1990": "Corbin, 1990",
+    "Cordeiro (2020)": "Cordeiro, 2020",
+    "Cordeiro, 2020": "Cordeiro, 2020",
     "Cordingley (2008)": "Cordingley, 2008",
     "Cordingley (2013)": "Cordingley, 2013",
     "Cordingley (2016)": "Cordingley, 2016",
@@ -3435,6 +3439,8 @@
     "Day et al., 2016": "Day et al., 2016",
     "De Bruychere et al. (2015)": "De Bruychere et al., 2015",
     "De Bruychere et al., 2015": "De Bruychere et al., 2015",
+    "De Francesco & Guaschino (2020)": "De Francesco & Guaschino, 2020",
+    "De Francesco & Guaschino, 2020": "De Francesco & Guaschino, 2020",
     "De Ketele (2008)": "De Ketele, 2008",
     "De Ketele, 2008": "De Ketele, 2008",
     "De Laine (2000)": "De Laine, 2000",
@@ -9698,6 +9704,8 @@
     "Morgan (2005)": "Morgan, 2005",
     "Morgan (2007)": "Morgan, 2007",
     "Morgan (2019)": "Morgan, 2019",
+    "Morgan et al. (2019)": "Morgan et al., 2019",
+    "Morgan et al., 2019": "Morgan et al., 2019",
     "Morgan, 1988": "Morgan, 1988",
     "Morgan, 1999": "Morgan, 1999",
     "Morgan, 2005": "Morgan, 2005",
@@ -10634,6 +10642,8 @@
     "Painter & Pierre, 2005": "Painter & Pierre, 2005",
     "Pakulski (1986)": "Pakulski, 1986",
     "Pakulski, 1986": "Pakulski, 1986",
+    "Pal & Spence (2020)": "Pal & Spence, 2020",
+    "Pal & Spence, 2020": "Pal & Spence, 2020",
     "Palantir v. United States Army (2016)": "Palantir v. United States Army, 2016",
     "Palantir v. United States Army, 2016": "Palantir v. United States Army, 2016",
     "Palgrave (2006)": "Palgrave, 2006",
@@ -20556,6 +20566,21 @@
         "wiki/arguments/journal-articles/Computers and Education Artificial Intelligence/Argument_Li_2026_CEAI.md",
         "wiki/concepts/educational-philosophy/Epistemological Vigilance.md",
         "wiki/concepts/educational-technology/AI Hallucination.md"
+      ],
+      "title": ""
+    },
+    "Ardila, 2020": {
+      "aliases": [
+        "Ardila, 2020",
+        "Ardila (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ardila, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
       ],
       "title": ""
     },
@@ -40059,6 +40084,21 @@
       ],
       "title": ""
     },
+    "Cordeiro, 2020": {
+      "aliases": [
+        "Cordeiro, 2020",
+        "Cordeiro (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cordeiro, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
+      ],
+      "title": ""
+    },
     "Cordingley et al., 2003": {
       "aliases": [
         "Cordingley et al., 2003",
@@ -43107,6 +43147,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_McPhail_2023_JCS.md"
+      ],
+      "title": ""
+    },
+    "De Francesco & Guaschino, 2020": {
+      "aliases": [
+        "De Francesco & Guaschino, 2020",
+        "De Francesco & Guaschino (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "De Francesco & Guaschino, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
       ],
       "title": ""
     },
@@ -92515,6 +92570,21 @@
       ],
       "title": ""
     },
+    "Morgan et al., 2019": {
+      "aliases": [
+        "Morgan et al., 2019",
+        "Morgan et al. (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Morgan et al., 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
+      ],
+      "title": ""
+    },
     "Morgan, 1988": {
       "aliases": [
         "Morgan, 1988",
@@ -99515,7 +99585,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md",
         "wiki/concepts/comparative-education/Policy Ambassador.md"
       ],
       "title": ""
@@ -99949,6 +100018,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Intersect/Argument_Chan_2015_Intersect.md"
+      ],
+      "title": ""
+    },
+    "Pal & Spence, 2020": {
+      "aliases": [
+        "Pal & Spence, 2020",
+        "Pal & Spence (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pal & Spence, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
       ],
       "title": ""
     },
