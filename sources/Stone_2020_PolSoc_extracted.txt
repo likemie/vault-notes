@@ -1,0 +1,871 @@
+=== PAGE 1 ===
+ARTICLE
+Transnational policy transfer: the circulation of ideas, power
+and development models
+Diane Stone a, Osmany Porto de Oliveira b and Leslie A. Pal c,d
+aSchool of Public Policy, Central European University, Budapest, Hungary; bInternational Relations
+Department, Federal University of São Paulo, Osasco - SP, Brazil; cCarleton University, Ottawa, Canada;
+dHamad Bin Khalifa University, Doha, Qatar
+ABSTRACT
+The study of policy transfer initially focused on transfers and transmis-
+sions among developed countries or from developed countries to the
+developing world. Today the circulation of policy and knowledge has
+become more dense and complex. The articles in the special issue
+concentrate on the growing velocity of policy innovations spreading
+from the developing world to other parts of the developing as well as
+into developed countries and towards international organisations. The
+context of international development cooperation has been particu-
+larly fertile in the cross-pollination of ideas, models and policy experi-
+ments, and the articles in this Special Issue draw deeply on this insight.
+Using a ‘development lens’ e n a b l e st h ea u t h o r st ov i e wp r o c e s s e so f
+knowledge diﬀusion and policy transfer not from the centre, in the
+ministries of national governments, but from policy perimeters, in cities
+and local government, among those outside political power in opposi-
+tion groups and movements, and bottom-up from policy
+implementers.
+KEYWORDS
+Development cooperation;
+international organisation;
+policy di ﬀusion; policy
+network; policy transfer;
+South-South exchange
+Introduction
+Knowledge diﬀusion fuels policy transfer. And in a recursive process, policy transfer lays
+down routes for the continuous circulation of knowledge. Our focus in these articles is the role
+of the “power” of ideas and knowledge in the transfer/diﬀusion process, and how that role
+changes or is modiﬁed in development contexts as opposed to the conventional advanced
+industrial policies that tend to preoccupy transfer and diﬀusion studies. We elaborate on this
+in the next section, but the logic of exploring this theme is three-fold. First, we consider in this
+Special Issue transfer/diﬀusion process at its basic level, which can be understood as the
+displacement of information, knowledge, ideas, paradigms, and so on (for simplicity from this
+point, we will use the term “knowledge”). Even policy models and instruments have
+a component which is abstract and conceptual, later elaborated in institutions and
+practices. Second, much of the literature to date has focused on western, or developed
+world, organisations and fairly conventional forms of knowledge (policy paradigms, technical
+policy models in terms of problem-objective -instruments). It is our aim to expand and
+complement this perspective by bringing new cases, in particular from the South, and
+CONTACT Diane Stone stone@ceu.edu Central European University, Budapest, Hungary
+This article has been republished with minor changes. These changes do not impact the academic content of the article.
+POLICY AND SOCIETY
+2020, VOL. 39, NO. 1, 1 –18
+https://doi.org/10.1080/14494035.2019.1619325
+© 2019 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial License (http://
+creativecommons.org/licenses/by-nc/4.0/), which permits unrestricted non-commercial use, distribution, and reproduction in any
+medium, provided the original work is properly cited.
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 2 ===
+advanced dimensions of transfer/di ﬀusion processes, that have been overlooked by the
+mainstream. Third, and most importantly, the development cooperation policy context has
+distinctive features from conventional, state-to-state, international relations context.
+The articles in this issue of Policy & Society were selected from a wider pool of papers
+ﬁrst presented at the International Conference on Policy Di ﬀusion and Development
+Cooperation in São Paulo, Brazil, in May 2018. The conference was devoted to explor-
+ing how policy di ﬀusion and transfer are entangled in processes and institutions of
+development cooperation and international aid. The conference ’s inspiration was that
+the two ﬁelds have distinct and rich research agendas but rarely connect with each
+other, despite the fact that a good deal of transfer and di ﬀusion takes place through
+international development programming. In the view of the editors and contributors to
+this issue of Policy & Society , there is great potential for fresh insights about key issues
+in policy di ﬀusion and transfer if we use a “development lens.”
+The development context has not been ignored in the literature (think of the studies
+on the World Bank, loan conditionalities, the spread of conditional cash transfers and
+so forth). Yet, it is fair to say that mainstream studies have been focused mostly on
+policy transfers and di ﬀusion among the states of the Organisation of Economic
+Cooperation and Development (OECD), as well as from states and international
+organisations (IOs) from the North to the global south. The depictions of the organisa-
+tions and actors that predominate in these states and these IOs, and the species of
+knowledge and ideas that they produce, have converged around some shared assump-
+tions, which we will term here the “conventional approaches” to policy transfer (see also
+Draude, 2017). Those assumptions are:
+(1) The policies being transferred and di ﬀused are characteristic of developed states.
+Notable examples are of health and pension schemes, environmental and tax
+regulations.
+(2) The governmental actors are roughly equal in state capacity, sovereign authority,
+and formal status.
+(3) Non-governmental actors are diverse, networked, reasonably resourced, capable
+and professional.
+(4) Non-governmental actors have formalised access to decision-
+makers and can inﬂ uence policy formation and the development of ideas.
+Indeed, they often help devise standards and participate in implementation.
+(5) Knowledge tends to be technocratic – that is, generated by experts in recognised
+disciplines and/or professions, using sophisticated research tools, yielding theo-
+retically and empirically robust results.
+(6) The “directionality” of transfer is two-fold: ﬁrst, the circulation among
+a restricted set (OECD-type countries, principally in the global north) of states,
+and second, from North to South, as the spread of “best practices, ” informed by
+research and modelled on the best of aspirational circumstances.
+There are notable exceptions to these approaches, but we think it captures the core
+assumptions of a great deal of the classical and even contemporary research. However,
+the empirical scenario of policy transfers/di ﬀusion has changed with the rise of
+Southern countries and their presence in the international arena, and the resulting
+2 D. STONE ET AL.
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 3 ===
+new forces driving the ﬂow of policies across countries. Northern states have learned
+from the South, and practices of South-South knowledge exchange have become more
+frequent. In this context, the aforementioned assumptions need to be revisited. Even if
+there are certain “universal” elements in the transfer process, such as the transfer agents,
+translations and instruments – as described extensively by Dolowitz and Marsh (2000 ),
+Stone (2017 ) and Evans (2010 ) – expanding the empirical context of analysis to the
+South implies bringing to these analytical tools consideration of other dynamics.
+In shifting our focus from Northern countries to include the South, as well as the
+development cooperation context, we shift our attention away from OECD-type countries.
+That is, from relatively wealthy political and social systems, to a wider and heterogeneous
+group of countries, thus more representative of the current global environment of policy
+transfer and diﬀusion. These states have diﬀerent needs, diﬀerent capacities and patterns of
+interactions, let alone diverse political cultures. They have their own way of interacting among
+themselves and establishing relations with a heterogeneous constellation of leader and laggard
+states, and with discontinuities and dispersions of power. Not only are they often markedly
+unequal among themselves (for example, a Brazil versus a Mozambique), but they are on
+unequal footing when confronting the global North. Moreover, the balance of local and
+national, national and global, will be di ﬀerent. This leads us to a rich universe of transfer
+patterns, dynamics and mechanisms, that are rarely addressed in the current literature.
+Even this brief and stylised sketch suggests that ideas and knowledge will drive the
+policy transfer process in radically di ﬀerent ways. To begin with, there will be a struggle
+to characterise policy problems in ways more consistent with local circumstances.
+Health issues in sub-Saharan Africa or urban transport in Latin American cities need
+to be articulated and de ﬁned without the unconscious ﬁlters forged from a Western
+European or North American experience. Within that development context, who are
+the actors – whether they be policy entrepreneurs, epistemic communities or non-
+governmental organisations (NGOs) – who can articulate these di ﬀerent models and
+successfully oppose them to ones imported from abroad? What type of expertise is
+validated and legitimate, when local knowledge becomes indispensable, and lived
+experience becomes the measuring stick? We can hypothesise as well that knowledge
+producers, knowledge brokers, and knowledge networks will be conﬁgured in di ﬀerent
+ways, through di ﬀerent types of networks. For example, an often-overlooked channel of
+policy transfer in the developed world is among former colonies, and within language
+groups (the two of course overlap to some extent). Moreover, new institutional innova-
+tions at global and regional levels provide greater scope for the circulation of policy.
+A few examples of such dynamics are the fact that some of these governments from
+the South, such as Brazil, and others in Latin America have invested on 'policy transfer'
+as a local or national strategy, with the 'export ’ of cycling lanes (Bogotá), Participatory
+Budgeting (Porto Alegre), Conditional Cash Transfers (Brazil, Mexico and Chile), just
+to mention a few (Porto de Oliveira, Osorio, Monteiro, Leite, forthcoming). However, if
+in the past 20 years Latin American social policy di ﬀusion and expertise was focused on
+ﬁghting poverty and hunger, this scenario is taking shape via the ‘conservative wave’ or
+‘blue tide ’ in the region – in contrast to the previous progressive ‘pink tide’– with the
+rise of right-wing populism. Keeping with the Brazilian example, Bolsonaro ’s new
+presidency is moving the country ’s policy transfers (international cooperation and
+foreign policy) pattern to an approximation with OECD countries (in contrast to
+POLICY AND SOCIETY 3
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 4 ===
+previous alliances made with the BRICS and other Global South nations). It is possible
+that in the future, countries like Italy, Hungary, Philippines and the United States –
+where there appears to be an ideological alignment – may draw lessons from each other.
+In this special issue, we are not arguing for a completely separate and distinct
+world of policy transfer – our conventional tools and theories are still eminently
+useful. In fact, our proposal is inspired by classic studies and their contributions
+to the understanding the transnational mo vement of policies, such as Hugh Heclo
+on social learning, Peter Hall on poli cy paradigms, John Kingdon on policy
+entrepreneurs and Richard Rose on lesson-drawing. However, we believe that
+these classic concepts need revisiting in the development and South –South and
+South –North context, in order to be more sharp and precise to access, understand
+and explain contemporary policy transfer/di ﬀusion dynamics.
+1 This can be seen
+through the notion of policy entrepreneurs, that will be discussed later in this
+introduction. The role of policy entrepr eneurs remains an analysis of the role of
+élites , but their characteristics, performance, skills and roles are no longer limited
+to national and local levels of policy change. To have an accurate and more
+comprehensive analysis of their agenc y (which includes the role of Southern
+agents), we need new concepts like “policy ambassadors ’ to take account of
+their transnational roles. Our intent in this Special Issue is to build on the
+work we have summarised under the rubric of the ‘conventional model/
+approaches, ’ to complement and address blindspots in the literature, providing
+empirical cases that show new or di ﬀerent policy transfer dynamics, and that
+invites the research to move forward. In this sense, the articles in this issue
+provide arresting examples of how these theories and tools need to be tweaked
+and calibrated – along the lines we itemise below – to better capture the
+dynamics of transfer outside the conve ntional cases that have dominated the
+literature.
+(1) The growing cohort of ‘policy ambassadors ’, and other speci ﬁc types of transfer
+agents operating in complex transnational networks;
+(2) Policy transfer is increasingly used as an instrument of ‘foreign policy ’;
+(3) Global re-ordering is driven by new norms and practices development
+cooperation;
+(4) New global policy venues appear, such as the SDGs, G20 processes, the BRICs or
+other forms of summitry;
+(5) Policy transfer shifts from being an expert or technocratic process to including
+manifestations of ‘everyday’ or subaltern exercises of power and resistance;
+(6) Directionality of transfer as linear, bilateral or multilateral mobilities moves towards
+continuous, transnational, multi-scalar, and multi-stakeholder circulations.
+We highlight this set of new dynamics as a complement to the earlier approaches.
+1There is no need to do another literature review of the ﬁeld; these have been outlined extensively by (Dolowitz &
+Marsh, 2000; Elkins & Simmons, 2005; Evans, 2010; Graham et al., 2013; Hadjiisky, Pal, & Walker 2017; Porto & Pal,
+2018).
+4 D. STONE ET AL.
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 5 ===
+Knowledge di ﬀusion and policy transfer
+Social scientists have long been puzzled by how, why and when policy advice and expertise
+are incorporated into government deliberations and bureaucratic activity. A contemporary
+version of this question concerns how policy knowledge is transferred and utilised between
+and among countries or for purposes of global governance. In the case of both questions, the
+causal nexus between the impact and inﬂuence of ideas is muddied by many other factors,
+events and interests which also impinge upon policymaking. The‘soft’ transfer of ideas and
+policy knowledge is relatively straightforward, but the constant re-circulation of ideas
+through many contexts makes it a more di ﬃ cult endeavour ﬁrst to map such ideas and
+how they structure thinking and reform policy agendas of governments, and then secondly,
+whether the same recommendations become institutionalised and implemented.
+The kaleidoscope of policy circulations points to a methodological problem in policy
+transfer studies. Establishing causality is fundamentally complicated not only by the
+many intermediaries in transfer processes among countries but also by the unique
+pathways of policy tinkering and adjustment, hybridisation and customisation that
+unfold within countries. Accordingly, the general stance adopted by the contributors
+to this special edition are social constructivist or interpretivist positions (Yannow,
+2009). Rather than seeing ‘regularities’ in policy transfer or seeking to predict patterns,
+we identify unique ecologies of densely networked experts and decision-makers both
+inside government and international organisations, and outside in universities and
+policy labs or in thinks tanks, business associations and the professions.
+Despite ongoing debates about the degree and depth of ideational impact, knowledge
+agents have some intrinsic governance capacities in their propensity to deﬁ ne problems,
+shape the climate of debate or engage in standard-setting, rule-making or other
+advisory activity. However, the knowledge utilisation literature has been criticised for
+assumptions that paradigmatic shifts or policy learning occur as ideas are ‘diﬀused’ into
+the policy atmosphere. There has been an insu ﬃ cient explanation of the mechanisms
+and agents through which change occurs (Campbell & Pedersen, 2011). The agency of
+(teams of) individuals, organisations and networks is central to understanding the speed
+and direction of the circulation of policy ideas. Knowledge is not simply neutral
+‘evidence’ or data functioning as a technical input to governance in the global order
+but also represents a form of (technocratic) power working to shape ‘who gets what ’
+policy design and outcome, that is, those communities and countries that receive
+certain, and often times ‘imposed’ policy reforms.
+It is a complex ecology. Expert actors and government agencies create ‘codiﬁed
+knowledge’, that is, a concrete intellectual and scientiﬁ c product found in publications,
+conferences, websites and declarations of advisory groups. However, knowledge agen-
+cies also produce ‘tacit knowledge’– shared understandings, on-the-ground knowledge
+and common identities that take shape and sustenance in ‘epistemic communities ’ or
+‘interpretative communities ’ (Yanow, 2009).
+To help navigate the ecologies of knowledge di ﬀusion, a three-part order of knowl-
+edge actors (individuals), knowledge institutions (in their organisational format) and
+knowledge networks are outlined. The contributors to this issue discuss in various ways,
+how individuals, organisations and networks are not simple technocratic ‘transmitters’
+of foreign models: They are also interpreters, resisters and transformers of policy
+POLICY AND SOCIETY 5
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 6 ===
+transfer who develop new circuits of ‘revised’ policy transfer (Porto de Oliveira & Pal,
+2018; Stone, 2017).
+Individuals
+The renowned economist John Maynard Keynes was one person who traversed the
+international scholarly and policy worlds alike. His statement on ideational in ﬂuence is
+famous and incanted regularly: ‘The ideas of economists and political philosophers . . . are
+more powerful than is commonly understood. Indeed, the world is ruled by little else ’
+(Keynes, 1936, p. 383). Other notable examples of scholars who have spread policy ideas to
+other countries and communities include the sociologist and former President of Brazil,
+Fernando Henrique Cardoso and Nobel laureates such as economists Muhammed Yunus
+(spreading micro-credit practices) and Joseph Stiglitz (in his capacity as Chief Economist of
+the World Bank). They might also be thought of as ‘policy ambassadors’, a notion devel-
+oped by Osmany Porto de Oliveira in his article and discussed below.
+At an ‘everyday’ level of bureaucratic lesson-drawing, public servants such as statis-
+ticians, lawyers or parliamentary researchers facilitate the exchange of policy lessons.
+Political advisors have an impact on the direction of policy even if it only means
+‘screening’ or ‘editing’ the types of international evidence that is promoted. Other
+‘policy entrepreneurs ’ advocate policy lessons and target decision-making elites in
+political parties, government, development assistance agencies or in (transnational)
+policy communities with their solutions in the form of international standards or
+‘best practice ’. ‘Academic-administrator entrepreneurs ’ importing foreign policy ideas
+has been highlighted in the Indonesian case (Wicaksono, 2018). Policy entrepreneurs
+hold signiﬁcant personal resources in their powers of persuasion. Such resources can be
+a mix of epistemic authority (such as that held by economists), former government
+service or policy experience in the ﬁeld combined with personal passion and persever-
+ance and the political skills to push global knowledge into policy debate (Maxwell, 2005;
+Nay, 2012). Identifying policy entrepreneurs who work internationally, the ‘policy
+ambassador’ idea also draws attention to charismatic individuals who are cosmopolitan
+and can traverse di ﬀerent cultures, operating as brokers building bridges among
+diﬀerent countries, and they often speak more than their native language.
+The inﬂuence of individuals as policy ambassadors, entrepreneurs, or advisors depends
+on many factors, not least their organisational and network a ﬃ liations (see below).
+However, from the narrow perspective of their roles as knowledge brokers, the emphasis
+has typically been on technocratic expertise (part of the conventional approaches described
+above). If for the moment we abstract this expertise from all other factors, technocratic
+expertise relies on some recognised mastery of a ﬁeld of science and evidence. One is an
+expert ‘in something’– and one would naturally look to economists for advice on economic
+issues, or agronomists for advice on food production and security.
+In the development cooperation context, we would argue that there are some
+unacknowledged but powerful ‘markers’ of expertise that shade o ﬀ from the purely
+technocratic into what we might term ‘representational knowledge. ’ One example is
+location or rootedness. Eyebrows today will often arch when ‘experts’ from the global
+North lecture their colleagues from developing countries on their best interests and
+preferred policy options. Technocratic expertise might still trump the lack of
+6 D. STONE ET AL.
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 7 ===
+representational quali ﬁcations, but there is often a tussle. The presumption is that
+a ‘true’ expert will have a rich grounding in the experiences and realities of development
+in a given country or even more speci ﬁcally a given region. This extends to another
+example of representational knowledge – solidarity with the oppressed, a solidarity that
+may come from evident moral conviction, life experiences that would have educated the
+expert to the reality, or an expertise ﬁltered through an emancipatory ideology like
+Marxism. An example of ‘representational knowledge ’ can be observed in the power of
+ideas from individuals like Paulo Freire, priests who have championed liberation
+theology, or radical economists highlighting inequities and advocating social progress
+through redistribution. Their ideas have sometimes gained traction in well-established
+democracies seeking renewal in their traditional ways of policymaking.
+Nevertheless, it is also the case that the organisational aﬃ liations of individuals
+contribute to the value acceptability of their ideas for policy reform. Notwithstanding
+some exceptional cases, most development experts, scientiﬁsts and consultants do not
+operate alone. Instead, they have built ‘communities of practice ’ and transnational
+knowledge networks to circulate policy models and speed ideational di ﬀusion. These
+are diverse sets of engagements that are often bankrolled by international foundations,
+universities, international organisations and other development agencies.
+Organisations
+The European Union (EU), the World Bank, the OECD and the United Nations (UN)
+agencies are just some of the international organisations that are forceful agents of policy
+transfer. The rise of the BRICs, the G20 and other informal international organisations
+alongside a growing gaggle of issue-speci ﬁc global and regional public –private partner-
+ships (like GAVI in the ﬁeld of vaccines and immunisation) ramps up the circulation of
+policy models globally. And regionally, there is fertile cross-communication within
+regional arrangements like the Association of Southeast East Asian Nations (ASEAN)
+including attempts of the di ﬀusion of regionalisation (Beeson & Stone, 2013).
+There are also unoﬃ cial global dialogues and elite meetings such as the World
+Economic Forum in Davos that broadcast policy ideas alongside global taskforces
+from the Club di Roma in the 1970s to the Intergovernmental Panel on Climate
+Change today. The organisation of both regular global conferences and ad hoc global
+taskforces convening multiple actors from business, the NGO world, businesses, trade
+unions and academia has become commonplace since the UN ﬁrst embarked on
+‘conference diplomacy ’ in the 1970s. Prominent examples include the Millennium
+Summit, the Rio Conferences on the Environment, and G20 Engagement Groups, all
+of which are increasingly important venues for the circulation and development of new
+policy ideas, building networks and constituencies of (donor) support, and constructing
+consensus around ‘ways of doing things’ in ‘global policymaking ’ (Cooper, 2019;
+Pouliot & Thérien, 2018, p. 9).
+At the subnational level, local governments have also created and developed their
+own international instituti ons, summits and networks to advocate their interests in
+a global scale. Regular meetings like the World Mayors Assembly, as well as
+structures such as the United Cities and Local Governments (UCLG) and the
+Global Task Force of Local and Regional Governments are spaces where local actors,
+POLICY AND SOCIETY 7
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 8 ===
+sometimes in cooperation, others in resist ance with traditional international organi-
+sations, pledge their participation in th e discussion of global issues. These arenas
+and organisations have constituted impo rtant platforms for policy transfer among
+subnational units, with a strong capillari ty across cities in the world. With funding
+for urban management transfer coming of ten from development cooperation or
+international organisations, these arenas and institutions have not only become the
+locus where ‘best practices ’ are established, but also serve as showcases for urban
+policies.
+The multi-level architecture of governance is paralleled in some degree by the trans-
+nationalisation of socio-economic organisations. Universities, for instance, share and
+spread governance knowledge, and university social scientists were directly involved in
+the world-wide spread of ‘new public management’ ideas in the 1980s. The international
+exchange through scholarship schemes, secondment of staﬀ to international organisations
+or their participation in government delegations further imbricates universities and
+colleges in policy transfer. Likewise, a range of other organisations in business and civil
+society have been proactive agents of policy transfer. The World Social Forum, ﬁrst held
+in Porto Alegre in 2001 (as a counter-event to Davos-based World Economic Forum), has
+performed as a global platform for civil society to create, legitimate and di ﬀuse ideas,
+techniques and solutions for public action to deal with social problems, show-casing
+Participatory Budgeting (Porto de Oliveira, 2017).
+Notable are the large international philanthropic foundations such as Ford, Nuﬃ eld,
+Aga Khan, McArthur and Sasakawa in spreading policy paradigms through funding
+instruments. The Gates Foundation is a signi ﬁcant player in global health policy (and
+was the key instigator of GAVI), while Open Society Foundations promotes ‘open
+society’ liberal values through the advocacy and transfer of policy recommendations
+on civil liberties, freedom of law, budget transparency or early childhood programs
+amongst many other initiatives.
+Part of the modus operandi of think tanks is to spread international policy lessons.
+International consortia of think tanks such as Think20 (which revolves around the
+G20 – see Cooper, 2019) or the BRICs Think Tank Summit has emerged. The think
+tank theme is developed by Diego Silva Ardila in his article discussing how two think
+tanks became key policy transfer brokers of the Columbian model of bus rapid trans-
+port (BRT). Surprisingly overlooked in the increasingly vast literature on policy di ﬀu-
+sion and transfer is the role of the large management consultancy ﬁrms, such as
+McKinsey, PWC and Accenture, most of which are headquartered in the US and the
+UK with networks of o ﬃ ces spread across the most important economic centres of the
+world. Many have been instrumental in the international spread and application of
+ideas concerning the ‘new public management’ or other kinds of global programmes
+such as the REDD Initiative sponsored by the UN Framework Convention on Climate
+Change (Morgan, Sturdy, & Frenkel, 2019).
+The non-governmental status of these types of ‘soft actors ’ is a major structural
+constraint to their role in policy transfer. They cannot bring about policy transfer alone
+but are dependent on governments and international organisations to see policy
+transfer instituted. But by the same token, while government organisations – ranging
+from line departments to quangos or a specialised o ﬃ ce within a ministry – are central
+to the ‘hard’ transfer of policy tools, legislation or structural adjustment programmes
+8 D. STONE ET AL.
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 9 ===
+through formal decision-making procedures – the ‘soft’ transfer actors are often
+essential to legitimising and normalising policy practices with foreign origins.
+This tangled relationship between o ﬃ cial bureaux and ‘soft actors’ is further compli-
+cated in a development context. For the sake of brevity, we highlight only three aspects.
+First, the ecology of think tanks, universities and other soft actors varies by country but
+generally is less extensively institutionalised in developing contexts – the range of
+organisations is more limited, as are the pools of expertise. This can lead to paradoxical
+outcomes: (1) weak knowledge resources may mean that receiving countries lack the
+capacity to modify transfer or critique it, raising the chances of inappropriate transfer or
+outright failure; (2) the scarcity of expertise makes the existing resources – as i n g l e ,
+leading think tank, for example – more inﬂuential since there is no other game in town.
+International organisations will target the ‘soft actors ’ as ‘partners’ because they need
+them for credibility with both northern donors and client governments.
+Second, the inﬂ uence of ‘soft actors ’ is misconstrued if it is calibrated entirely in
+terms of ‘outcomes’. Think tanks, global summits, the endless rounds of conferences of
+the great and the good earnestly seeking solutions to the world ’s problems all contribute
+to a global ‘ideational space’ that reinforces a common-sense of the right ‘ways of doing
+things.’ It is very di ﬃ cult for actors from the developing world to substantially con-
+tribute to this ideational space unless explicitly invited to do so. Unlike conventional
+approaches that focus on the horizontal country-to-country exchange of policy, the
+global ‘ideational spaces ’–international summits, dialogues in locations like Porte
+Alegre and Davos, or deliberations in transnational public –private partnerships –
+have become important venues for multi-scalar circulation of policy ideas and instru-
+ments and the generation of consensus.
+Third, the conﬁ guration of organisations generating policy knowledge (and hence
+facilitating or impeding transfer) di ﬀers substantially in the development context. Think
+tanks and foundations are routine features of advanced states and economies that have
+the resources to support them. In developing country contexts, ‘soft actors ’ like trade
+unions, community associations, agrarian co-ops, and the not-for-pro ﬁt sector can have
+higher pro ﬁles than they do in developed countries. Once again, conventional
+approaches to policy transfer may underplay the importance of these subaltern actors
+in the circulation of alternative policy lessons (Draude, 2017).
+Networks
+Network forms are complex. Knowledge networks are distinct from but often overlap
+with policy networks. Knowledge networks are epitomised by a shared scientiﬁ c interest
+and set of norms that consolidate around intellectual exchange and coordinated
+research, systematic dissemination and publication of results, as well as pooling of
+resources and ﬁnancing across national boundaries. Many are temporary arrangements
+that last as long as the funding ﬂows. Some are loose relationships to exchange
+information with like-minded policy institutes, university centres and government
+agencies, in a given issue area. At other times, expert advisors and their institutes act
+as policy entrepreneurs within tighter networks such as an epistemic community.
+By contrast, (transnational) policy networks are multi-actor entities that oscillate
+around a common or shared policy problem. These networks are comprised of various
+POLICY AND SOCIETY 9
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 10 ===
+actors from civil society, governments, government agencies, industry, industry groups,
+and the professions. Their activities cover the gamut of the policy process – agenda
+setting, policy formulation, negotiation, rule-making, coordination, implementation,
+and evaluation – and are now seen to operate at global and regional levels often with
+the participation of an international organisation or multilateral body.
+Networks are a vehicle for knowledge di ﬀusion and policy transfer, a social technol-
+ogy to broadcast and accelerate global norms, best practice and policy models – which
+some call ‘fast policy’ (Peck & Theodore, 2015). But networks have also become a locus
+for policy transfer (Nay, 2012). When observed as a transnational structure, policy
+networks can unite transfer agents sharing a similar cause and connecting a vast
+number of heterogeneous people, with di ﬀerent political culture backgrounds and
+policy interests, enabling the translation and legitimation of policies. Where conven-
+tional approaches treated policy models spreading geographically, a transnational net-
+work approach is multi-scalar (local to global) and multi-stakeholder (soft and hard
+actors). The network itself becomes a site for policy design and innovation rather than
+simply a mechanism for ‘sending’ pre-formed policy ideals and instruments.
+Transferring power
+Individuals, organisations and networks transfer the intellectual matter that underpins
+policies. They leverage their intellectual authority or professional expertise to reinforce
+certain policy paradigms or to legitimate some normative standards as ‘best practice’,a s
+well as to establish those examples that the government should not follow. The politics
+of knowledge is never far away.
+Advocates of policy transfer may be ignored or patronised at will by governments.
+Some bureaucracies lack the capacity to absorb e ﬀectively either global or local knowl-
+edge (Maxwell, 2005). Moreover, experts disagree. Rarely is there a single body of
+thinking, data or literature that is consensually recognised and accepted without
+demur as the rationale for policy change. To the contrary, there are struggles between
+diﬀerent modes of ‘knowledge’ or what are often described as ‘discourses’, ‘worldviews’
+and ‘regimes of truth’ (Jacobsen, 2007). Finally, while summits and transnational
+public–private partnerships may have a multi-stakeholder character and often appear
+‘inclusionary’, many of these new institutional developments for the spread of ideas and
+policy models ‘also encourage cooptation, non-transparency and normative homoge-
+neity’ (Pouliot & Thérien, 2018, p. 9) and the exclusion of dissenting perspectives or
+radical positions.
+Technical cooperation, overseas training and the role of international consultants in
+institutional development can be a ‘one-way transaction ’ from aid organisations or
+developed countries to recipient countries. Advocacy of ‘best practice ’ does not con-
+front deep-rooted asymmetries of power that may undermine policy transfer in devel-
+oping and transition countries. Such ‘lessons’ and ‘best practice ’ represent codi ﬁed,
+formal and technical knowledge to be found in the reports, evaluations and websites of
+governments and international organisations. This codi ﬁed knowledge can over-ride
+tacit and practical knowledge that is generated in local settings. Traditional, ‘grass-roots
+’ and practitioner knowledge rooted in communal understandings or local practices
+does not always dovetail with the technocratic order of governance emanating from
+10 D. STONE ET AL.
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 11 ===
+development agencies of donor governments or international organisations, as the next
+section elaborates.
+In our view, what all this points to is a more serious analysis of the nature of
+networks, and not just the key organisations that comprise them. Within the conven-
+tional approaches, it is the large and prominent international organisations such as the
+World Bank and the OECD that dominate the discussion and which has possibly
+encouraged the study of single organisations (even while framing them as networked
+organisations). Much less work has been done at the network level (though that is
+beginning, see Paterson, Ho ﬀman, Betsill, & Bernstein, 2014). As noted above, networks
+have di ﬀerent topographical characteristics (some are ﬂatter, some are more hierarch-
+ical with key nodes); they have di ﬀerent types of members; they may be formed and
+evolve in contrast to and in conﬂ ict with other networks; their transfer and di ﬀusion
+mechanisms and practices will di ﬀer. And again, we need to be aware of how network
+dynamics di ﬀer in developing contexts. We would expect, for example, distinct net-
+works around policy issues that are relevant to developing countries to be active and
+vibrant channels of di ﬀusion, but possibly unconnected to similar networks in the
+global North (for example, bus transportation policy networks versus mass transit).
+On the other hand, in some cases, we might see networks organised around shared but
+often latent or unarticulated interests – such as ‘mountain communities’ or other kinds
+of subaltern groups such as those involved in the spread of harm reduction approaches
+that Tom Baker et al. discuss in this Special Issue.
+The development context: a fresh lens on transfer
+Flows and dynamics of policy exchange among Northern states have been a fertile
+ground for advancing hypotheses, concepts and theories for understanding the circula-
+tion of knowledge among countries with a degree of homogeneity. Development
+cooperation is also an important site for policy transfer/diﬀusion, but it deals with
+heterogeneous countries, with di ﬀerent power relations, resources and social capital. If
+‘Aid Policy ’ is often about sending funds or supplies to developing countries, there is
+also a signi ﬁcant part that is about sharing policy knowledge, as well as inducing the
+adoption of models and best-practices.
+Until recently it was common that international organisations, such as the World
+Bank, and donors insisted on the adoption of Northern models in Southern countries.
+It was believed that these models that were self-evidently successful in overcoming
+social problems in the North would have the same result in the South. Modernisation
+theory and ‘transition-ology’ both implied a linear directionality to development.
+However, the di ﬀerences of political culture, institutional design, state capacity, econ-
+omy and social environment between these countries often led to inappropriate,
+incomplete and inadequate transfers. In the past few years, especially after the Fourth
+High Level Forum on Aid and E ﬀectiveness promoted by the Committee of
+Cooperation and Development of the OECD in Busan in 2011 (Mawdsley, 2017),
+there was a turn towards the South in development cooperation. The way these
+countries provide development cooperation is often through o ﬀering technical assis-
+tance, rather than direct funding, owing to their limited resources available for foreign
+aid. The idea of ‘mutual learning ’ in development cooperation is also an important
+POLICY AND SOCIETY 11
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 12 ===
+component for countries like China (Constantine & Shankland, 2017). Moreover,
+practices of triangular cooperation, which can involve development cooperation
+among countries from the South, with mediation and part funding from an interna-
+tional organisation, have gained relevance as well. The changing nature of development
+cooperation continues to be an important driver of South– South and South– North
+policy transfers.
+While there are some notable examples of policies developed in the South that
+circulated internationally – such as the transport system of Curitiba (Brazil), developed
+in 1974 (Mejía-Dugand, Hjelm, Baas, & Ríos, 2013)a n dt h ed i ﬀerent actions for state
+reforms, especially in the pension sector, conducted by Chile during the Pinochet Regime
+in the 1980s (Dezalay & Garth, 2002; Weyland, 2006) – this cannot be compared in terms
+of quantity, intensity and legitimacy to Global North policy transfers to the rest of the
+world. The case of Chile is particularly illustrative of a dynamic where the role of
+individuals in the di ﬀusion of the model has been an important feature. The circulation
+of national elites to the United States – where they undertook PhDs at the University of
+Chicago, with Milton Friedman – and back to their home country – where they achieved
+high-level state positions – was crucial to ‘import’ ideas and implement them in the State
+(Dezalay & Garth, 2002). Chile became a laboratory of neo-liberal reforms, not only
+throughout Latin America but to the world. These Chilean policy ambassadors – the so-
+called ‘Chicago-Boys’–were the ‘prime movers in the di ﬀusion of pension privatisation
+in Latin America’ in the late 1980s and early 1990s, being hired as consultants in several
+countries and evincing a sort of ‘missionary zeal’ (Weyland, 2006,p .8 6 ) .E v e nt h eU n i t e d
+States during Bush ’s administration ‘proposed using the Chilean model as the basis for
+a reshaping of Social Security, calling the system here “a great example ” and saying the
+United States could “take some lessons from Chile”’ (Rohter, 2006). However, as arresting
+an example that this is of policies circulating in the South and to a certain extent to the
+North, this particular type of circulation and mutual emulation was rare. Indeed, some
+suggest that it was actually the World Bank that propelled the worldwide dissemination of
+the Chilean experience (Orenstein, 2005).
+In the past 20 years, not only did ‘best practices’ developed in the South start to ﬂow
+internationally but policy transfer also became a foreign policy instrument to strengthen
+relations among countries. This is the case with multiple projects that Brazil launched
+with Latin American and sub-Saharan African countries (Porto de Oliveira, Osorio,
+Montero, Leite, forthcoming). Brazil established an arrangement for development
+cooperation, involving di ﬀerent national agencies (sectorial Ministries, public banks,
+national funds, public research institutes) and international organisations (Pomeroy,
+Suyama, & Waisbich, Forthcoming). From the perspective of international organisa-
+tions, the practice of scanning and copying successful models in the South and adapting
+them to be implemented on a larger scale also increased. Moreover, the so-called
+‘aidland’, by Mosse (2011 ) has its own way of operation, as well as actors. Individual
+advocates, or ‘policy ambassadors ’ from the South, increased their access to this world,
+both inside international organisations and via their own national governmental agen-
+cies of bilateral development cooperation promoting similar models across regions, as
+in Latin America, Africa and Asia. For example, Cecilia Osorio Gonnet (2018 , p. 172)
+traced the di ﬀerent experts and bureaucrats who worked with the design and imple-
+mentation of Conditional Cash Transfers programs in Brazil, Chile, Colombia and
+12 D. STONE ET AL.
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 13 ===
+Mexico, and who began to work – in a later stage – at the World Bank, United Nations
+Development Fund, Inter-American Development Bank and other agencies of the UN
+system. Not only were these agents incorporated in the sta ﬀ of international organisa-
+tions but also a dense constellation of consultants from the South with a similar pro ﬁle
+were hired periodically by these institutions.
+In addition, the Sustainable Development Goals created an important ‘market’ for
+the development cooperation ‘industry’, creating opportunities for the advocacy of
+policy designs from the South (Constantine & Shankland, 2017). Here again, the role
+of the South and development cooperation is important, considering that, for example,
+SDG #1 is No Poverty, and SDG #2 is Zero Hunger. The second goal, in particular,
+carries the same name as the Brazilian policy to ﬁght against hunger launched in 2003,
+during Lula’s administration (see Osmany Porto de Oliveira in this issue) and is a clear
+instance of transfer into global policy venues.
+By analysing development cooperation and policy transfer together, new mechan-
+isms operating within these processes can be seen. Policies need inevitably to be
+translated to adapt to such contexts, informal cooperation is often displayed among
+countries, and there can be di ﬀerent forms of resistance such as peasants ﬁghting
+against agricultural technology transfers. Power relations between countries and inter-
+national organisations also inﬂ uenced the adoption of models, producing unexpected
+results. The role of the political will of the adopter is also crucial for a transfer to take
+place, and changes in the executive can undermine a transfer project and its continuity.
+Moreover, communities of ‘policy ambassadors ’ can trigger di ﬀusion of similar models
+across regions.
+These are just hints of what can be di ﬀerent in the development context with respect
+to policy transfer: government structures will be di ﬀerent, donors and international
+organisations often have the whip hand; and ‘aid’ is itself a speci ﬁc type of policy
+transfer with its own agencies, networks, and professional knowledge. There are also
+unique circumstances around the credibility of knowledge in a development context,
+credibility that goes beyond mere technical expertise. The articles in this Special Issue
+(brieﬂy described below) provide rich insights on these and other features of transfer
+and development cooperation.
+Cross-cutting themes and concepts
+Power – in di ﬀerent guises – is a common theme among the articles of this issue.
+That is (i) the power of individuals, (ii) the power of networks, (iii) ideational power
+having a structuring e ﬀect upon policy agendas and practices or (iv) whether or not,
+these modes of power are subsidiary to, or tools in the hands of, material interests.
+With a mini-set of three papers on Brazil in this special issue, geo-strategic power
+shifts shape policy transfer circuits. As a member of the BRICs, Brazil is a rapidly
+rising power in the world. One that now has the power, capacity and authority to
+spread its policy experiences not only to other parts of the so-called developing
+world, but also with advocacy towards the mul tilateral institutions in order to shape
+and reconﬁ gure the policy paradigms that bodies like the Food and Agriculture
+Organisation (FAO), World Bank and UN work with. This was both true of the
+Lula period and the Bolsonaro one.
+POLICY AND SOCIETY 13
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 14 ===
+The power of individuals as persuaders through advocacy or their consultant roles or
+through o ﬃ cial appointment is a crucial albeit quixotic feature in the circulation of
+certain policy models. Diego Silva Ardila identi ﬁes the ‘policy mobiliser ’ Enrique
+Peñalosa in his study of the global spread of the Columbian model of Bus Rapid
+Transit; Osmany Porto de Oliveira identi ﬁes ‘policy ambassadors ’ while Tom Baker
+and his co-authors provide an important corrective by looking at ‘non-elites’ who also
+wield some power in their ability to create and broadcast alternative visions and ‘ways
+of doing things’ .
+A further cross-cutting theme is the hybridity of global discourses, both in terms of
+the actors and networks that contribute to them, and the content of the ideas them-
+selves. The role of translation in policy transfer and ‘customisation’ of policy tools in
+order to improve ‘ﬁt’ with local conditions has been recognised for many years (see
+inter alia, Graham, Shipan and Voldern, 2013; Stone, 2017). The articles in this Special
+Issue remind us that we need to extend this concept of translation in several directions.
+First, almost every article shows how di ﬀerent actors will bring di ﬀerent interpretations
+(translations) into the process, well before anything has been transferred. Consequently,
+an idea consists of hybrid mixes, amalgams, and alloys, or possibly even the unac-
+knowledged co-existence of contradictory principles. Second, translation happens as
+policies move, before they have even ‘landed’. The transfer scholarly community has
+possibly placed too much emphasis on the consummated act of transfer, without paying
+suﬃ cient attention to the ideational foreplay that takes place in the venues discussed
+above – summits, conferences, meetings, forums – as ideas circulate and move.
+In the case of transportation policy, Diego Ardilla argues that the evolution of an
+epistemic community paralleled ﬁrst experimentation with a speci ﬁc model in Bogotá
+(Colombia) known as TRANSMILENIO spreading to a few key Latin American cities
+and later to the rest of the world. The BRT epistemic community becomes more
+networked internationally once the BRT idea was popularised through the complex
+global interactions among renowned consultants, knowledge experts, think-tanks and
+multilateral banks.
+Rather than a tight issue-speci ﬁc epistemic community, Carolina Milhorance notes
+the role of a regional civil society network for food and nutrition security. With
+patronage from the Brazilian government, this network helped broadcast Brazilian
+experience throughout a range of NGOs and civil society bodies. Milhorance also
+recasts policy transfer not only as a policy process but also as having a diplomatic
+orientation. That is, Brazil was able to promote not only its experience with certain
+policy tools and instruments into multilateral arenas but also its national standing and
+foreign policy ambition to become an exemplar nation. For instance, in her article,
+Beatriz Cordeiro examines the policy mobility of microcredit (or more broadly, micro-
+ﬁnance), where Brazil was a pioneer in the ﬁeld, actually pre-dating the Grameen Bank,
+and carving a policy pathway that diverged from the putative international consensus
+that subsequently developed on microcredit.
+The diplomacy theme develops into a key conceptual category of ‘policy ambassa-
+dors’ in the article by Osmany Porto de Oliveira focusing on the critical role of elite
+individuals, who hold di ﬀerent forms of power, varying from a formalised political
+authority, technical knowledge and practical experience. Through these policy ambas-
+sadors, he discusses how Brazil moved from developing local policy innovations to
+14 D. STONE ET AL.
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 15 ===
+becoming an international reference point on social policies, recognised by the World
+Bank and UN specialised agencies. The role of ‘policy ambassadors’ is a key element to
+understanding the individual agency on the transnationalisation of public policies.
+Using a historical institutionalist approach, Fabrizio De Francesco and Edoardo
+Guaschino compare the public governance discourses of the World Bank and the
+OECD, showing the evolution of those discourses, their di ﬀerences and their simila-
+rities. The patterns and adjustments over time in the two organisations represent
+important paradigm shifts in global discourses on public governance, given their
+prominence and inﬂ uence. The OECD has had more ﬂexibility as an international
+knowledge institution, and more consistency over time, than the World Bank, which
+has had to ‘prove’ the connection between institutions and growth in a way that the
+OECD has not. While the World Bank would naturally be assumed to be the leader on
+this issue in the global South, given its mandate for development and poverty reduction,
+the OECD has made important inroads through its own networks and data generation
+eﬀorts. Not all Northern international organisations di ﬀuse the same way, even when
+they labour in the same vineyard – in this case, public governance.
+Leslie A. Pal and Jennifer Spence trace the networking of anti-corruption norms and
+the role of the OECD to illustrate a new method of studying global policy networks,
+what they call ‘event-focused network analysis ’. Networks are hard to ‘see’, though they
+can be sketched in various ways. This method takes an organisation that is globally
+prominent in the network around a policy issue, builds a database of ‘events’ (meetings,
+conferences, etc.) and their participants over time, and then uses the tools of social
+network analysis to trace the contours and characteristics of the network. This article
+focuses on anti-corruption networks, something of interest to the global North (donors)
+and the global South (usually a ﬄ icted most deeply), and for which the OECD has been
+a leader since the 1970s and particularly since the 1997 OECD Convention on
+Combating Bribery of Foreign Public O ﬃ cials in International Business Transactions.
+Tom Baker, Eugene McCann and Cristina Temenos do not focus on the Global
+South and development context but do take a non-elite perspective. They address
+‘every-day’ or ordinary actors involved in circulating policy knowledge concerning
+‘harm reduction’ and drug policy. This is a ‘bottom-up’ view of transfer and circulation
+from local government and NGOs at the ‘front-line’ of policy delivery and implementa-
+tion with ‘on-the-ground’ knowledge from where they are circulated and experimented
+with before ideas are moved ‘up’ to contest orthodox approaches in national govern-
+ment and international organisations. This is a paper that reminds us that power
+disparities are hard-wired not only into which policy ideas or models move but also
+in the avenues and forums through which they circulate.
+To conclude, this collection of articles extends and deepens the policy transfer literature
+by seriously considering transfer dynamics through the lens of development cooperation
+and international aid. Most of our intellectual tools in the ﬁeld – acquired from conven-
+tional approaches – continue to serve us well. Nevertheless, we also see a ‘normative bias
+towards global norms and Western institutions ’, and a tendency to see developing
+countries or the ‘local’ as disruptive and non-compliant (Draude, 2017,p .5 7 9 ) .T h i s
+tendency has in many instances clouded analytical sight of the policy innovations initiated
+within developing countries, and which have been successfully injected into international
+institutions and the policy arenas of the Global North by Southern policy ambassadors and
+POLICY AND SOCIETY 15
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 16 ===
+other political actors. The fast-changing world of development cooperation accelerates the
+scope for policy transfer entrepreneurialism. These entrepreneurs and ambassadors are
+more engaged and innovative than simply ‘translating’ global norms to their own context.
+Instead, changing dynamics in ‘aid land’ and development cooperation places prospects
+for agency, leadership and policy initiative as much in the circuitry of the Global South as
+in the ideational spaces of the Global North.
+Disclosure statement
+No potential conﬂ ict of interest was reported by the authors.
+Notes on contributors
+Diane Stone is Dean School of Public Policy at the Central European University in Budapest and
+Vienna. She is a Vice President of the International Public Policy Association and consultant
+editor of the journal, ‘Policy and Politics ’. Her most recent book is The Oxford Handbook of
+Global Policy and Transnational Administration (with Kim Moloney, Oxford University Press
+2019).
+Osmany Porto de Oliveira is Assistant Professor at the Federal University of São Paulo, in Brazil.
+He coordinates the Global Platform of International Public Policies. His most recent book is
+International Policy Di ﬀusion and Participatory Budgeting: Ambassadors of Participation,
+International Institutions and Transnational Networks , Palgrave McMillan (2017).
+Leslie A. Pal is Dean, College of Public Policy at Hamad Bin Khalifa University in Doha, Qatar.
+His most recent book is Beyond Policy Analysis (with Graeme Auld and Alexandra Mallet,
+Nelson, 2020).
+ORCID
+Diane Stone http://orcid.org/0000-0003-3783-3789
+Osmany Porto de Oliveira http://orcid.org/0000-0002-7930-5784
+Leslie A. Pal http://orcid.org/0000-0002-3906-6846
+References
+Beeson, M., & Stone, D. (2013 ). The European Union model ’si n ﬂuence in Asia after the global
+ﬁnancial crisis. European Journal of East Asian Studies , 12(2), 167 –190.
+Campbell, J. L., & Pedersen, O. K. (2011 ). Knowledge regimes and comparative political
+economy. Ideas and Politics in Social Science Research, 167, 172 –190.
+Constantine, J., & Shankland, A. (2017 ). From policy transfer to mutual learning? Novos Estudos-
+CEBRAP, 36(1), 99 –124.
+Cooper, A. F. (2019 ). Global summitry as sites of transnational technocratic management and
+policy contestation. In K. Moloney & D. Stone (Eds.), Oxford handbook of global policy and
+transnational administration (pp. 638 –654). Oxford: Oxford University.
+Dezalay, Y., & Garth, B. G. (2002 ). La mondialisation des guerres de palais: La restructuration du
+pouvoir d’ État en Amérique Latine, entre noblesse du droit et “chicago boys ”. Saint-Amand-
+Montrond: Éditions du Seuil.
+Dolowitz, D. P., & Marsh, D. (2000 ). Learning from abroad: The role of policy transfer in
+contemporary policy making. Governance, 13(1), 5 –25.
+16 D. STONE ET AL.
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 17 ===
+Draude, A. (2017 ). The agency of the governed in transfer and di ﬀusion studies. Third World
+Thematics: A TWQ Journal , 2(5), 577 –587.
+Elkins, Z., & Simmons, B. (2005 ). On waves, clusters, and di ﬀusion: A conceptual framework.
+Annals of the American Academy of Political and Social Science , (598), 33 –51.
+Evans, M. (Ed.). (2010 ). New directions in the study of policy transfer . Oxfordshire: Routledge.
+Graham, E. R., Shipan, C. R., & Volden, C. (2013 ). The di ﬀusion of policy di ﬀusion research in
+political science. British Journal of Political Science , 43(3), 673 –701.
+Hadjiisky, M., Pal, L. A., & Christopher, W. (Eds). (2017 ). Public policy transfer: Micro-dynamics
+and macro-e ﬀects. Cheltenham, UK: Edward Elgar Publishing.
+Jacobson, N. (2007 ). Social epistemology: Theory for the “Fourth Wave” of knowledge transfer
+and exchange research. Science Communication , 29, 116 –127.
+Keynes, J. M. (1936 ). The general theory of employment, interest, and money. New York,
+Harcourt: Brace & World.
+Mawdsley, E. (2017 ). Development geography 1: Cooperation, competition and convergence
+between ‘North’ and ‘South’. Progress in Human Geography , 41(1), 108 –117.
+Maxwell, S. (2005 ). Policy entrepreneurship for poverty reduction: Bridging research and policy
+in international development. Journal of International Development, 17(6), 713 –725.
+Mejía-Dugand, S., Hjelm, O., Baas, L., & Ríos, R. A. (2013 ). Lessons from the spread of bus rapid
+transit in Latin America. Journal of Cleaner Production , 50(julho), 82–90.
+Morgan, G., Sturdy, A., & Frenkel, M. (2019 ). The role of large management consultancy ﬁrms in
+global public policy. In D. Stone & K. Moloney (Eds.), Oxford handbook of global policy and
+transnational administration (pp. 583 –598). Oxford: Oxford University Press.
+Mosse, D. (2011 ). Adventures in Aidland: The anthropology of professionals in international
+development. New York, NY: Berghahn Books.
+Nay, O. (2012 ). How do policy ideas spread among international administrations? Policy
+entrepreneurs and bureaucratic in ﬂuence in the UN response to AIDS. Journal of Public
+Policy, 32(1), 53– 76.
+Orenstein, M. A. (2005 ). The new pension reform as global policy. Global Social Policy , 5(2),
+175–202.
+Osorio Gonnet, C. (2018 ). Aprendiendo o emulando? Cómo se difunden las políticas sociales en
+América Latina . Santiago: LOM ediciones.
+Paterson, M., Ho ﬀman, M., Betsill, M., & Bernstein, S. (2014 ). The micro foundations of policy
+diﬀusion toward complex global governance: An analysis of the transnational carbon emission
+trading network. Comparative Political Studies , 47(3), 420 –449.
+Peck, J., & Theodore, N. (2015 ). Fast policy: Experimental statecraft at the thresholds of neoliber-
+alism. Minneapolis, MN: University of Minnesota Press.
+Pomeroy, M., Suyama, B., & Waisbich, L. T. (Forthcoming ). The di ﬀusion of social protection
+and food security policies: Emerging issues in Brazilian South-South cooperation for devel-
+opment. In O. Porto de Oliveira, C. Osorio Gonnet, S. Montero, C. Leite, & D. S. Kerches
+(Eds.), Latin America and policy di ﬀusion: From import to export . Routledge. https://www.
+routledge.com/Latin-America-and-Policy-Di ﬀusion-From-Import-and-Export/Oliveira-
+Gonnet-Montero-Leite/p/book/9781138333161
+Porto de Oliveira, O. (2017 ). International policy di ﬀusion and participatory budgeting:
+Ambassadors of participation, international organizations and transnational networks . Cham,
+Switzerland: Palgrave Mcmillan.
+Porto de Oliveira, O., Osorio Gonnet, C., Montero, S., & Leite, Da. Silva Leite. C. K.
+(Forthcoming). Latin America and policy di ﬀusion: From import to export . Routledge.
+https://www.routledge.com/La tin-America-and-Policy-Di ﬀusion-From-Import-and-Export/
+Oliveira-Gonnet-Montero-Leite/p/book/9781138333161
+Porto de Oliveira, O., & Pal, L. A. (2018 ). New frontiers and directions in policy transfer,
+diﬀusion and circulation research: Agents, spaces, resistance, and translation. Revista De
+Administração Pública , 52(2), 199 –220.
+Pouliot, V., & Thérien, J. P. (2018 ). Global governance in practice. Global Policy , 9(2), 163 –172.
+POLICY AND SOCIETY 17
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
+
+
+=== PAGE 18 ===
+Rohter, L. (2006 , dezembro 26). Chile proposes to reform pension system. The New York Times .
+seç. Americas. https://www.nytimes.com/2006/12/26/world/americas/26chile.html
+Stone, D. (2017 ). Understanding the transfer of policy failure: Bricolage, experimentalism and
+translation. Policy & Politics , 45(1), 55– 70.
+Weyland, K. ( 2006). Bounded rationality and policy di ﬀusion. Princeton, NJ: Princeton University
+Press.
+Wicaksono, A. (2018 ). The role of policy transfer in Indonesian governance: The case of
+academic administrative entrepreneurs. Policy Studies , 39(6), 622 –637.
+Yanow, D. (2009 ). Dear author, dear reader: The third hermeneutic in writing and reviewing
+ethnography. In E. Schatz (Ed.), Political ethnography: What Immersion contributes to the
+study of power (pp. 275 –302). University of Chicago Press.
+18 D. STONE ET AL.
+Downloaded from academic.oup.com/policyandsociety/article/39/1/1/6403955 by guest on 20 October 2026
