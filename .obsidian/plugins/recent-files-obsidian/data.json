@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Campbell_2026_JPCC",
+      "path": "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
+    },
+    {
+      "basename": "Campbell_2026_JPCC",
+      "path": "sources/Campbell_2026_JPCC/Campbell_2026_JPCC.md"
+    },
+    {
+      "basename": "Literature Search",
+      "path": "wiki/concepts/research-methodology/Literature Search.md"
+    },
+    {
       "basename": "Argument_Stone_2020_PolSoc",
       "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "Gita Steiner-Khamsi",
       "path": "wiki/persons/us/Gita Steiner-Khamsi.md"
-    },
-    {
-      "basename": "Literature Search",
-      "path": "wiki/concepts/research-methodology/Literature Search.md"
     },
     {
       "basename": "Critique of Meta-analysis",
@@ -75,10 +83,6 @@
     {
       "basename": "Literature Review",
       "path": "wiki/concepts/research-methodology/Literature Review.md"
-    },
-    {
-      "basename": "Argument_Campbell_2026_JPCC",
-      "path": "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
     },
     {
       "basename": "Justified Warrants",
@@ -195,10 +199,6 @@
     {
       "basename": "Effect Size",
       "path": "wiki/methods/quantitative/Effect Size.md"
-    },
-    {
-      "basename": "Argument_Greene_2018_JEP",
-      "path": "wiki/arguments/journal-articles/Journal of Educational Psychology/Argument_Greene_2018_JEP.md"
     }
   ],
   "omittedPaths": [],

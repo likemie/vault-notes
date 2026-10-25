@@ -146,10 +146,10 @@ issuing_organization: ""
 
 ---
 
-> [!figure] 图1：教育政策制定中研究与证据使用的初始概念[[Analytic Framework|分析框架]]
+> [!figure]- 图1：教育政策制定中研究与证据使用的初始概念[[Analytic Framework|分析框架]]
 > ![](https://img.mylikemie.icu/sources/Campbell_2026_JPCC/figures/Campbell_2026_JPCC_Fig1_Conceptualising_Research_Evidence_Use.png)
 
-> [!figure] 图2：解释性政策分析分析框架（改编自 Yanow, 2000; Campbell, 2025）
+> [!figure]- 图2：解释性政策分析分析框架（改编自 Yanow, 2000; Campbell, 2025）
 > ![](https://img.mylikemie.icu/sources/Campbell_2026_JPCC/figures/Campbell_2026_JPCC_Fig2_Framework_For_Analysis.png)
 
 ---
@@ -259,7 +259,7 @@ issuing_organization: ""
 > [!theory-framework] 包容性证据生态模型的理论演进
 > 基于对 6 份超国家核心文本的质性分析，初始五维概念框架在经验材料的检验下获得了理论重塑。修订后的包容性证据生态模型确立了四重外围宏观边界：全球—本土动力学、公平与包容、政策紧迫性与科研周期错位、工具性与象征性利用张力；把证据属性、多元行动者、政策转化过程、机制与基础设施、制度使能条件整合为非线性的动态回路，并将认识论正义与平等审议空间置于生态核心。决策社群在实践中必须同时驾驭基础设施与修辞网络，在制度赋权与批判审议中推动教育变革走向深度公平。
 
-> [!figure] 图3：修订后的教育政策制定中研究与证据使用理论框架
+> [!figure]- 图3：修订后的教育政策制定中研究与证据使用理论框架
 > ![](https://img.mylikemie.icu/sources/Campbell_2026_JPCC/figures/Campbell_2026_JPCC_Fig3_Revised_Conceptual_Framework.png)
 
 > [!tension-table] 证据知情教育决策的四重外围宏观制度张力
