@@ -3025,6 +3025,22 @@
     ]
   },
   {
+    "title": "Early Literacy Approaches",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Early Literacy Approaches.md",
+    "aliases": [
+      "早期读写教学"
+    ]
+  },
+  {
+    "title": "Early Numeracy Approaches",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Early Numeracy Approaches.md",
+    "aliases": [
+      "早期数学教学"
+    ]
+  },
+  {
     "title": "Ecomuseology",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Ecomuseology.md",

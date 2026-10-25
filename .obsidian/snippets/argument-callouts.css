@@ -23389,3 +23389,8 @@ body .callout.callout.callout[data-callout][data-callout="empirical-divider"] > 
   background: var(--background-primary) !important; color: rgb(var(--callout-color)) !important; font-family: var(--ac-sans, var(--font-text));
   font-size: 11px !important; font-weight: 700 !important; letter-spacing: .14em !important; line-height: 16px !important; text-transform: uppercase; animation: none !important; }
 body .callout.callout.callout[data-callout][data-callout="empirical-divider"] > .callout-content { display: none !important; }
+/* 16d · EEF 早期教育工具包卡片：[!eef|ey]，版式同 [!eef]，眉标改为 Early Years，色轨偏青 */
+body .callout.callout.callout[data-callout][data-callout="eef"]:is([data-callout-metadata="ey"], [data-callout-metadata^="ey|"], [data-callout-metadata$="|ey"], [data-callout-metadata*="|ey|"]) > .callout-title .callout-title-inner::before { content: "EEF Early Years Toolkit" !important; }
+.callout[data-callout="eef"]:is([data-callout-metadata="ey"], [data-callout-metadata^="ey|"]) { --callout-color: 41, 112, 160; }
+/* 分割线标签改为机构名：两套工具包共用一条线 */
+body .callout.callout.callout[data-callout][data-callout="eef-divider"] > .callout-title .callout-title-inner::before { content: "Education Endowment Foundation" !important; }

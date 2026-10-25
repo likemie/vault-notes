@@ -19,6 +19,7 @@ tags:
   - theme/educational-psychology
   - paradigm/cognitive
   - metax
+  - eef
 related_concepts:
   - "[[Metacognition]]"
   - "[[Scaffolding]]"
@@ -231,6 +232,37 @@ updated: 2026-10-22
 > > | Hitt (2023) | Self-regulation interventions | 60 | NA | 60 | 0.46 |  |
 > > | Cheng et al. (2022) | Self-regulated strategies on on-line | 21 | 1,327 | 18 | 0.85 |  |
 > > | Kurucay et al. (2015) | Self-regulated learning | 18 | 11,750 | 18 | 0.11 |  |
+
+> [!eef-divider]
+
+> [!eef|ey] [自我调节策略（早期） · Self-regulation strategies](https://educationendowmentfoundation.org.uk/early-years/toolkit/self-regulation-strategies)
+> EEF 早期教育工具包 · 更新于 2024-04-03 · 阅读 8 · 数学 5
+>
+> | imp | cost | evi | n | smd | ci | i2 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | +3 个月 中等影响 | ●○○○○ 极低 | ●○○○○ 极有限 | 15 | 0.24 | 0.12 ~ 0.36 | 38% |
+>
+> > [!eef-studies]- 14 条效应量 · 14 项研究
+> > | ref | type | smd | ci | w | e |
+> > | --- | --- | --- | --- | --- | --- |
+> > | Ford (2009) | 期刊论文 | 0.90 | 0.36 ~ 1.43 | 4.1% |  |
+> > | Liu (2015) | 期刊论文 | 0.75 | 0.07 ~ 1.43 | 2.7% |  |
+> > | Flook (2015) | 期刊论文 | 0.55 | 0.02 ~ 1.07 | 4.1% |  |
+> > | Hong (2012) | 期刊论文 | 0.50 | 0.01 ~ 0.99 | 4.7% |  |
+> > | Pozuelos (2019) | 期刊论文 | 0.48 | −0.01 ~ 0.97 | 4.6% |  |
+> > | Pears (2014) | 期刊论文 | 0.24 | −0.42 ~ 0.90 | 2.9% |  |
+> > | Peskin (2004) <span class="eef-tag">MSR</span> | 期刊论文 | 0.24 | −0.33 ~ 0.81 | 3.6% |  |
+> > | Barnett (2008) | 期刊论文 | 0.22 | 0.01 ~ 0.43 | 13.1% |  |
+> > | Blair (2014) | 期刊论文 | 0.15 | 0.01 ~ 0.30 | 16.3% |  |
+> > | Raver (2011) | 期刊论文 | 0.12 | −0.06 ~ 0.31 | 14.5% |  |
+> > | Rueda (2012) | 期刊论文 | 0.12 | −0.54 ~ 0.79 | 2.8% |  |
+> > | Schmitt (2015) | 期刊论文 | 0.11 | −0.17 ~ 0.40 | 9.6% |  |
+> > | Zhang (2019) | 期刊论文 | 0.11 | −0.48 ~ 0.71 | 3.3% |  |
+> > | O'Connor (2014) | 期刊论文 | −0.04 | −0.26 ~ 0.18 | 12.7% |  |
+>
+> > [!eef-errata] 2 条
+> > - ∑ **自动核算 · 研究数不一致** 页面“How secure is the evidence?”一节称纳入 15 项研究；参考文献列表为 14 条效应量，来自 14 项研究，合并效应量据后者计算。
+> > - ∑ **自动核算 · 权重不闭合** 各研究权重合计 99.0%，应为 100%。
 
 > [!empirical-divider]
 

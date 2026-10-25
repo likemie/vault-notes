@@ -379,6 +379,15 @@
       "seen_in": [],
       "title": "The influence of a big brothers program on the adjustment of boys in single-parent families"
     },
+    "Abbott-Shim, 2003": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.1207/S15327671ESPR0802_2",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A comparison of school readiness outcomes for children randomly assigned to a head start program and the program's wait list"
+    },
     "Abd-El-Khalick & Lederman, 2000": {
       "doi": "",
       "isbn": "",
@@ -491,6 +500,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Influence of Mind Mapping on Eighth Graders’ Science Achievement"
+    },
+    "Aboud, 2006": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.1016/j.ecresq.2006.01.008",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Evaluation of an early childhood preschool program in rural Bangladesh"
     },
     "Abraham Maslow, 1966": {
       "doi": "",
@@ -2604,6 +2622,15 @@
       ],
       "title": ""
     },
+    "Alper, 1979": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A comparison of extended day kindergarten and traditional kindergarten programs"
+    },
     "Alpizar et al., 2020": {
       "datasets": [
         "metax:S2095"
@@ -3064,6 +3091,15 @@
       ],
       "title": ""
     },
+    "Ametjian, 1965": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effects of a pre-school program upon the intellectual development and social competency of lower-class children"
+    },
     "Amirbek & Ydyrys, 2014": {
       "doi": "",
       "isbn": "",
@@ -3306,6 +3342,15 @@
         "wiki/theories/political-economy-geopolitics/Imagined Community.md"
       ],
       "title": ""
+    },
+    "Anderson, 1994": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effect of preschool education on academic achievement of at risk children"
     },
     "Anderson, 2001": {
       "datasets": [
@@ -3573,6 +3618,15 @@
         "wiki/concepts/educational-technology/Computer Simulation.md"
       ],
       "title": ""
+    },
+    "Angerilli, 1999": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Teaching phonological awareness through supported invented spelling"
     },
     "Angermuller, 2013": {
       "doi": "",
@@ -4087,7 +4141,8 @@
     },
     "Aral, 2011": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.2224/sbp.2011.39.2.241",
       "isbn": "",
@@ -4096,7 +4151,8 @@
     },
     "Aram, 2004": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1016/j.ecresq.2004.10.003",
       "isbn": "",
@@ -4105,7 +4161,8 @@
     },
     "Aram, 2006": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1007/s11145-006-9005-2",
       "isbn": "",
@@ -4540,6 +4597,15 @@
       ],
       "title": ""
     },
+    "Arnold, 2002": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1037/0022-0663.94.4.762",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Accelerating math development in Head Start classrooms"
+    },
     "Arnold, 2011": {
       "doi": "",
       "isbn": "",
@@ -4843,7 +4909,8 @@
     },
     "Ashdown, 2011": {
       "datasets": [
-        "eef:social-and-emotional-learning"
+        "eef:social-and-emotional-learning",
+        "eef-ey:social-and-emotional-learning-strategies"
       ],
       "doi": "https://doi.org/10.1007/s10643-011-0481-x",
       "isbn": "",
@@ -5206,6 +5273,15 @@
         "wiki/concepts/research-methodology/Retrodiction.md"
       ],
       "title": ""
+    },
+    "Aunio, 2005": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1080/08856250500055578",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Mathematical thinking intervention programmes for preschool children with normal and low number sense"
     },
     "Aunio, 2021": {
       "datasets": [
@@ -6183,7 +6259,8 @@
     },
     "Baker, 1998": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1016/S0885-2006(99)80061-1",
       "isbn": "",
@@ -6306,6 +6383,15 @@
       "seen_in": [],
       "title": "Performance pay, test scores, and student learning objectives"
     },
+    "Baldus, 2001": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effect of extended-day kindergarten on academic achievement of at-risk students"
+    },
     "Balduzzi et al., 2019": {
       "doi": "",
       "isbn": "",
@@ -6407,7 +6493,8 @@
     },
     "Ball, 1991": {
       "datasets": [
-        "eef:phonics"
+        "eef:phonics",
+        "eef-ey:early-literacy-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -7192,6 +7279,15 @@
       ],
       "title": ""
     },
+    "Barnett, 1987": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.3102/01623737010001037",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The efficacy of public preschool programs and the relationship of program quality to efficacy"
+    },
     "Barnett, 2002": {
       "doi": "",
       "isbn": "",
@@ -7203,7 +7299,8 @@
     },
     "Barnett, 2008": {
       "datasets": [
-        "eef:metacognition-and-self-regulation"
+        "eef:metacognition-and-self-regulation",
+        "eef-ey:play-based-learning"
       ],
       "doi": "https://doi.org/10.1016/j.ecresq.2008.03.001",
       "isbn": "",
@@ -7234,6 +7331,15 @@
         "wiki/concepts/educational-psychology/Open-Mindedness.md"
       ],
       "title": ""
+    },
+    "Baroody, 2009": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1080/10409280802206619",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Fostering at-risk preschoolers' number sense"
     },
     "Baroutsis & Lingard, 2016": {
       "doi": "",
@@ -7614,6 +7720,15 @@
       ],
       "title": ""
     },
+    "Baskett, 2005": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "https://doi.org/10.1080/0300443042000266259",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Half-day to full-day kindergarten: An analysis of educational change scores and demonstration of an educational research collaboration"
+    },
     "Baskin et al., 2010": {
       "datasets": [
         "metax:S0764"
@@ -7738,7 +7853,8 @@
     },
     "Battaglia, 2019": {
       "datasets": [
-        "eef:physical-activity"
+        "eef:physical-activity",
+        "eef-ey:physical-development-approaches"
       ],
       "doi": "https://doi.org/10.3389/FPSYG.2018.02694",
       "isbn": "",
@@ -7895,6 +8011,15 @@
         "wiki/concepts/learning-science-cognitive-science/Self-control.md"
       ],
       "title": ""
+    },
+    "Baumer, 2005": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "https://doi.org/10.1016/j.cogdev.2005.08.003",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Promoting narrative competence through adult-child joint pretense: Lessons from the Scandinavian educational practice of playworld"
     },
     "Baumert et al., 2010": {
       "doi": "",
@@ -8057,7 +8182,8 @@
     },
     "Beach, 2004": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:early-literacy-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -8172,7 +8298,8 @@
     },
     "Beck, 2007a": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1086/511706",
       "isbn": "",
@@ -8292,6 +8419,15 @@
       "seen_in": [],
       "title": "A systematic review and meta-analysis on the effects of physically active classrooms on outcomes in school age children. https://doi.org/10.1371/journal. educational and enjoyment"
     },
+    "Bedard, 2020": {
+      "datasets": [
+        "eef-ey:physical-development-approaches"
+      ],
+      "doi": "10.1080/17408989.2019.1690645",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Evaluation of the Move 2 Learn program, a community-based movement and pre-literacy intervention for young children"
+    },
     "Bediou et al., 2018": {
       "datasets": [
         "metax:S1733"
@@ -8317,6 +8453,15 @@
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Beech_2015_GSE.md"
       ],
       "title": ""
+    },
+    "Beech, 1994": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "https://doi.org/10.1007/BF02686798",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Training letter-to-sound connections: The efficacy of tracing"
     },
     "Beech, 2002": {
       "doi": "",
@@ -8478,7 +8623,8 @@
     },
     "Bekman, 2004": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1207/s19309325nhsa0701_4",
       "isbn": "",
@@ -9349,6 +9495,15 @@
       ],
       "title": ""
     },
+    "Berlinski, 2009": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.1016/j.jpubeco.2008.09.002",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effect of pre-primary education on primary school performance"
+    },
     "Berman, 2000": {
       "doi": "",
       "isbn": "",
@@ -10073,12 +10228,22 @@
     },
     "Bierman, 2008": {
       "datasets": [
-        "eef:social-and-emotional-learning"
+        "eef:social-and-emotional-learning",
+        "eef-ey:early-literacy-approaches"
       ],
       "doi": "https://doi.org/10.1111/j.1467-8624.2008.01227.x",
       "isbn": "",
       "seen_in": [],
       "title": "Promoting academic and social-emotional school readiness  The Head Start REDI program"
+    },
+    "Bierman, 2015": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "https://doi.org/10.1111/cdev.12448",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Helping Head Start parents promote their children's kindergarten adjustment: The research-based developmentally informed parent program"
     },
     "Biesinger, 2008": {
       "datasets": [
@@ -10456,7 +10621,8 @@
     },
     "Blachman, 1994a": {
       "datasets": [
-        "eef:phonics"
+        "eef:phonics",
+        "eef-ey:early-literacy-approaches"
       ],
       "doi": "https://doi.org/10.1007/BF01027275",
       "isbn": "",
@@ -10565,7 +10731,8 @@
     },
     "Blair, 2014": {
       "datasets": [
-        "eef:metacognition-and-self-regulation"
+        "eef:metacognition-and-self-regulation",
+        "eef-ey:self-regulation-strategies"
       ],
       "doi": "https://doi.org/10.1371/journal.pone.0112393",
       "isbn": "",
@@ -10733,6 +10900,15 @@
         "wiki/methods/qualitative/Non-participant Observation.md"
       ],
       "title": ""
+    },
+    "Bleses, 2020": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "https://doi.org/10.1016/j.ecresq.2020.03.001",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Low-cost teacher-implemented intervention improves toddlers' language and math skills"
     },
     "Bless et al., 1992": {
       "doi": "",
@@ -11117,7 +11293,8 @@
     },
     "Bochna, 2006": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -11874,7 +12051,8 @@
     },
     "Bortnem, 2005": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -11899,6 +12077,15 @@
         "wiki/concepts/research-methodology/Type I and Type II Errors.md"
       ],
       "title": ""
+    },
+    "Borzekowski, 2009": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "https://doi.org/10.1177/0165025410380983",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The impact of Jalan Sesama on the educational and healthy development of Indonesian preschool children: An experimental study"
     },
     "Borón, 2002": {
       "doi": "",
@@ -12394,6 +12581,15 @@
       ],
       "title": ""
     },
+    "Bower, 1985": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Academic and social effects of half-day and all-day kindergarten"
+    },
     "Bower, 2008": {
       "doi": "",
       "isbn": "",
@@ -12465,6 +12661,15 @@
       ],
       "title": ""
     },
+    "Bowman, 1992": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The long-term academic performance of at risk students: A five year longitudinal study of half-day versus full-day prekindergarten/kindergarten programs in South Carolina"
+    },
     "Bowman, 2010": {
       "datasets": [
         "metax:S0598"
@@ -12494,7 +12699,8 @@
     },
     "Bowyer‐Crane, 2008": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1111/j.1469-7610.2007.01849.x",
       "isbn": "",
@@ -12545,6 +12751,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of a cognitive mapping strategy on the literal and inferential comprehension of students with mild disabilities"
+    },
+    "Boyle, 2006": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effects of a parent-child early literacy intervention on children's phonemic awareness and preliteracy skills"
     },
     "Boyne & Beadle, 2017": {
       "doi": "",
@@ -13236,7 +13451,8 @@
     },
     "Brickman, 2002": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "",
       "isbn": "",
@@ -13289,7 +13505,8 @@
     },
     "Brigman, 1999": {
       "datasets": [
-        "eef:social-and-emotional-learning"
+        "eef:social-and-emotional-learning",
+        "eef-ey:social-and-emotional-learning-strategies"
       ],
       "doi": "https://doi.org/10.1080/00220679909597615",
       "isbn": "",
@@ -13307,7 +13524,8 @@
     },
     "Brigman, 2003a": {
       "datasets": [
-        "eef:social-and-emotional-learning"
+        "eef:social-and-emotional-learning",
+        "eef-ey:social-and-emotional-learning-strategies"
       ],
       "doi": "https://doi.org/10.1080/00220670309597641",
       "isbn": "",
@@ -13536,7 +13754,8 @@
     },
     "Brooks, 2006": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -14505,6 +14724,15 @@
       "seen_in": [],
       "title": "A study of the relationship of class size and student achievement on the Michigan Educational Assessment Program fourth grade test"
     },
+    "Burden, 1982": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effects of differential kindergarten program length on achievement among developmentally ready and not-ready children"
+    },
     "Burgess et al., 2018": {
       "doi": "",
       "isbn": "",
@@ -15091,6 +15319,15 @@
       ],
       "title": ""
     },
+    "Byrne, 1967": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Head Start Evaluation and Research Center, University of Kansas. Report No. III, Effects of a language program on children in a Head Start nursery"
+    },
     "Byrne, 1991": {
       "datasets": [
         "eef:phonics"
@@ -15498,7 +15735,8 @@
     },
     "Cadieux, 2005": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "",
       "isbn": "",
@@ -15737,7 +15975,8 @@
     },
     "Callcott, 2015": {
       "datasets": [
-        "eef:physical-activity"
+        "eef:physical-activity",
+        "eef-ey:physical-development-approaches"
       ],
       "doi": "https://doi.org/10.1007/s10643-014-0652-7",
       "isbn": "",
@@ -16022,6 +16261,15 @@
       "seen_in": [],
       "title": "Effects of teacher training in the individualized science materials on achievement of first grade students"
     },
+    "Campbell, 1990": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.1016/0160-2896(90)90020-T",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The relationship between piagetian cognitive development, mental test performance, and academic achievement in high-risk students with and without early educational experience"
+    },
     "Campbell, 1994": {
       "datasets": [
         "eef:extending-school-time"
@@ -16163,6 +16411,15 @@
       ],
       "title": ""
     },
+    "Cannon, 2006": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "https://doi.org/10.1002/pam.20174",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Is full better than half? Examining the longitudinal effects of full-day kindergarten attendance"
+    },
     "Cantrell, 2010": {
       "datasets": [
         "eef:metacognition-and-self-regulation"
@@ -16297,6 +16554,15 @@
         "wiki/theories/educational-policy-reform/Two-Communities Theory.md"
       ],
       "title": ""
+    },
+    "Capobianco, 1966": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.1177/002246696600100210",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A pilot project for culturally disadvantaged preschool children1"
     },
     "Cappon, 2015": {
       "doi": "",
@@ -17084,6 +17350,15 @@
       "seen_in": [],
       "title": "Immediate and long-term effects of tier 2 reading instruction for first-grade students with a high probability of reading failure"
     },
+    "Casey, 2008": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1080/07370000802177177",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The development of spatial skills through interventions involving block building activities"
+    },
     "Cash et al., 2002": {
       "doi": "",
       "isbn": "",
@@ -17237,7 +17512,8 @@
     },
     "Castle, 1994": {
       "datasets": [
-        "eef:phonics"
+        "eef:phonics",
+        "eef-ey:early-literacy-approaches"
       ],
       "doi": "https://doi.org/10.1037/0022-0663.86.3.350",
       "isbn": "",
@@ -17322,6 +17598,15 @@
       ],
       "title": ""
     },
+    "Cattan, 2014": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The economic effects of pre-school education and quality"
+    },
     "Catts, 1992": {
       "datasets": [
         "metax:S1371"
@@ -17386,6 +17671,15 @@
       "seen_in": [],
       "title": "The effectiveness of interactive distance education technologies in K-12 learning: A meta-analysis."
     },
+    "Cavanaugh, 2017": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "https://doi.org/10.1007/s10643-016-0832-8",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Kindergarten scores, storytelling, executive function, and motivation improved through literacy-rich guided play"
+    },
     "Cave & Rowell, 2015": {
       "doi": "",
       "isbn": "",
@@ -17402,6 +17696,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Math performance and academic anxiety forms, from sociodemographic to cognitive aspects: A meta-analysis on 906,311 participants."
+    },
+    "Cawley, 1970": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.2307/2966836",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Performance of Head Start and non-Head Start participants at first grade"
     },
     "Cecilia Osorio Gonnet, 2018": {
       "doi": "",
@@ -17448,7 +17751,8 @@
     },
     "Center, 1997": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1080/0156655970440103",
       "isbn": "",
@@ -17533,7 +17837,8 @@
     },
     "Chacko, 2017": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1080/15374416.2016.1266648",
       "isbn": "",
@@ -17946,7 +18251,8 @@
     },
     "Chao, 2006": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1007/s10643-005-0032-4",
       "isbn": "",
@@ -18015,6 +18321,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "A synthesis of research on effective interventions for building reading fluency with elementary students with learning disabilities"
+    },
+    "Chard, 2008": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.2307/30035522",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Preventing early mathematics difficulties: The feasibility of a rigorous kindergarten mathematics curriculum"
     },
     "Chargois, 2008": {
       "datasets": [
@@ -18764,7 +19079,8 @@
     },
     "Cheung, 2017": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1080/10409289.2016.1258932",
       "isbn": "",
@@ -19179,7 +19495,8 @@
     },
     "Chow, 2003": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1207/s15566935eed1402_6",
       "isbn": "",
@@ -19188,7 +19505,8 @@
     },
     "Chow, 2008": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1037/0012-1649.44.1.233",
       "isbn": "",
@@ -19237,6 +19555,15 @@
         "wiki/concepts/comparative-education/Global Education Governing Complex.md"
       ],
       "title": ""
+    },
+    "Christie, 1983": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "https://doi.org/10.1080/00220671.1983.10885477",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effects of play tutoring on young children's cognitive performance"
     },
     "Christina, 2001": {
       "doi": "",
@@ -19423,6 +19750,15 @@
       "seen_in": [],
       "title": "Research on the impact of educational games on students' academic achievement."
     },
+    "Ciancio, 2001": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1016/S0193-3973(01)00096-X",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Teaching oddity and insertion to Head Start children: An economical cognitive intervention"
+    },
     "Cicchetti, 1991": {
       "doi": "",
       "isbn": "",
@@ -19500,6 +19836,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "A systematic review and meta-analysis of the associations between perceived teacher-based racial–ethnic discrimination and student well-being and academic outcomes."
+    },
+    "Claessens, 2014": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.1016/j.ecresq.2014.06.006",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The role of early childhood settings for 4-5 year old children in early academic skills and later achievement in Australia"
     },
     "Clandinin & Connelly, 2000": {
       "doi": "",
@@ -19626,6 +19971,15 @@
         "wiki/concepts/educational-philosophy/Cultural Relativism.md"
       ],
       "title": ""
+    },
+    "Clark, 1979": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of the project Head Start and Title I preschool programs on vocabulary and reading achievement measured at the kindergarten and fourth grade levels"
     },
     "Clark, 1983": {
       "doi": "",
@@ -19792,6 +20146,15 @@
       "seen_in": [],
       "title": "Ameliorating Children's Reading-Comprehension Difficulties  A Randomized Controlled Trial"
     },
+    "Clarke, 2011": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1086/659033",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The impact of a comprehensive Tier I core kindergarten program on the achievement of students at risk in mathematics"
+    },
     "Clarke, 2014": {
       "datasets": [
         "eef:small-group-tuition"
@@ -19803,7 +20166,8 @@
     },
     "Clarke, 2016": {
       "datasets": [
-        "eef:small-group-tuition"
+        "eef:small-group-tuition",
+        "eef-ey:early-numeracy-approaches"
       ],
       "doi": "https://doi.org/10.1080/19345747.2015.1116034",
       "isbn": "",
@@ -19932,6 +20296,24 @@
       ],
       "title": ""
     },
+    "Clements, 2007": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.2307/30034954",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of a preschool mathematics curriculum: Summative research on the building blocks project"
+    },
+    "Clements, 2008": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.310/0002831207312908",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Experimental evaluation of the effects of a research-based preschool mathematics curriculum"
+    },
     "Clements, 2011": {
       "doi": "",
       "isbn": "",
@@ -19940,6 +20322,15 @@
         "wiki/concepts/curriculum/Learning Progression.md"
       ],
       "title": ""
+    },
+    "Clements, 2011a": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.5951/jresematheduc.42.2.0127",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Mathematics learned by young children in an intervention based on learning trajectories: A large-scale cluster randomized trial"
     },
     "Clerkin et al., 2022": {
       "datasets": [
@@ -20138,7 +20529,8 @@
     },
     "Codding, 2011": {
       "datasets": [
-        "eef:peer-tutoring"
+        "eef:peer-tutoring",
+        "eef-ey:early-numeracy-approaches"
       ],
       "doi": "https://doi.org/10.1037/a0022661",
       "isbn": "",
@@ -20520,6 +20912,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of the effects of teaching innovations on achievement in college economics"
+    },
+    "Cohrssen, 2019": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "https://doi.org/10.1080/09669760.2019.1629882",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Using mathematics games in preschool settings to support the development of children's numeracy skills"
     },
     "Colclough, 2004": {
       "doi": "",
@@ -21005,7 +21406,8 @@
     },
     "Conner, 2011": {
       "datasets": [
-        "eef:social-and-emotional-learning"
+        "eef:social-and-emotional-learning",
+        "eef-ey:social-and-emotional-learning-strategies"
       ],
       "doi": "https://doi.org/10.1177/1049731511408115",
       "isbn": "",
@@ -21552,6 +21954,15 @@
       "seen_in": [],
       "title": "Homework research and policy: A review of the literature"
     },
+    "Cooper, 2007": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "https://doi.org/10.1080/10901020701555564",
+      "isbn": "",
+      "seen_in": [],
+      "title": "One authentic early literacy practice and three standardized tests: Can a storytelling curriculum measure up?"
+    },
     "Cooper, 2010": {
       "doi": "",
       "isbn": "",
@@ -21761,7 +22172,8 @@
     },
     "Correll, 2008": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -21784,6 +22196,15 @@
         "wiki/concepts/sociology-of-education/Grand Theory.md"
       ],
       "title": ""
+    },
+    "Cosgrove, 2006": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Randomized field trial of an early literacy curriculum and instructional support system"
     },
     "Cosso et al., 2022": {
       "datasets": [
@@ -22033,7 +22454,8 @@
     },
     "Coyne, 2004": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1207/s15327035ex1203_3",
       "isbn": "",
@@ -22051,7 +22473,8 @@
     },
     "Coyne, 2007": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.2307/30035543",
       "isbn": "",
@@ -22060,7 +22483,8 @@
     },
     "Coyne, 2010": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1080/19345741003592410",
       "isbn": "",
@@ -22416,7 +22840,8 @@
     },
     "Crevecoeur, 2008": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -22841,6 +23266,15 @@
         "wiki/facts/us/Quantum Opportunity Program.md"
       ],
       "title": ""
+    },
+    "Curtis, 2009": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1016/j.ecresq.2009.04.003",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Preschoolers' use of count information to judge relative quantity"
     },
     "Cutler & Hay, 2000": {
       "doi": "",
@@ -23915,7 +24349,8 @@
     },
     "Davidson, 2009": {
       "datasets": [
-        "eef:phonics"
+        "eef:phonics",
+        "eef-ey:early-literacy-approaches"
       ],
       "doi": "https://doi.org/10.1080/19345740902770028",
       "isbn": "",
@@ -24055,7 +24490,8 @@
     },
     "Davis, 2004": {
       "datasets": [
-        "eef:homework"
+        "eef:homework",
+        "eef-ey:parental-engagement"
       ],
       "doi": "",
       "isbn": "",
@@ -24242,7 +24678,8 @@
     },
     "DeBaryshe, 2007": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1080/10409280701274741",
       "isbn": "",
@@ -24559,6 +24996,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Are Fourth and Fifth Grade Children Better Scientists through Metacognitive Learning?"
+    },
+    "Dejonckheere, 2016": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "https://doi.org/10.12973/eu-jer.5.3.149",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Exploring the classroom: Teaching science in early childhood"
     },
     "Deke et al., 2012": {
       "doi": "",
@@ -25614,6 +26060,15 @@
       ],
       "title": ""
     },
+    "Dickinson, 2019": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "https://doi.org/10.1080/15248372.2018.1483373",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of teacher-delivered book reading and play on vocabulary learning and self-regulation among low-income preschool children"
+    },
     "Dickler et al., 2021": {
       "doi": "",
       "isbn": "",
@@ -25935,7 +26390,8 @@
     },
     "Dimova, 2020": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -26109,7 +26565,8 @@
     },
     "Doabler, 2016": {
       "datasets": [
-        "eef:small-group-tuition"
+        "eef:small-group-tuition",
+        "eef-ey:early-numeracy-approaches"
       ],
       "doi": "https://doi.org/10.1177/0014402916660084",
       "isbn": "",
@@ -26564,6 +27021,15 @@
         "wiki/concepts/higher-education/T-Shaped Skills.md"
       ],
       "title": ""
+    },
+    "Donofrio, 1989": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effects of the all-day everyday kindergarten program versus the halfday everyday kindergarten on student developmental gains in language, auditory, and visual skills"
     },
     "Donovan & Radosevich, 1998": {
       "datasets": [
@@ -27156,6 +27622,15 @@
       "seen_in": [],
       "title": "Reading and language intervention for children at risk of dyslexia  A randomised controlled trial"
     },
+    "Duffy, 1996": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Modified kindergarten: Does it have an effect upon achievement results?"
+    },
     "Duffy, 2016": {
       "datasets": [
         "eef:homework"
@@ -27247,7 +27722,8 @@
     },
     "Dulay, 2019": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1037/EDU0000315",
       "isbn": "",
@@ -27727,6 +28203,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effectiveness of reading and mathematics software products  Findings from the first student cohort."
+    },
+    "Dyson, 2011": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1177/0022219411410233",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A number sense intervention for low-income kindergartners at risk for mathematics difficulties"
     },
     "Dyson, 2013": {
       "datasets": [
@@ -28210,6 +28695,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Teacher performance incentives and student outcomes"
+    },
+    "Ebin, 2014": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Growth in math skills and response to math intervention in kindergarten"
     },
     "Eby et al., 2008": {
       "datasets": [
@@ -29084,6 +29578,15 @@
       "seen_in": [],
       "title": "A quantitative review of the effects of self-regulation interventions on primary and secondary student academic achievement"
     },
+    "Elicker, 1997": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "https://doi.org/10.1016/S0885-2006(97)90022-3",
+      "isbn": "",
+      "seen_in": [],
+      "title": "What do they do all day? Comprehensive evaluation of a full-day kindergarten"
+    },
     "Elizabeth Anderson, 2012": {
       "doi": "",
       "isbn": "",
@@ -29170,6 +29673,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Effects of Non-CAS Graphing Calculators on Student Achievement and Attitude Levels in Mathematics: A Meta-Analysis"
+    },
+    "Ellinwood, 1971": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Early school admissions program: 1969-70 evaluation"
     },
     "Elliott Eisner, 1983": {
       "doi": "",
@@ -29270,9 +29782,19 @@
       ],
       "title": ""
     },
+    "Elofsson, 2016": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1016/j.jmathb.2016.07.003",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Playing number board games supports 5-year-old children's early mathematical development"
+    },
     "Elofsson, 2018": {
       "datasets": [
-        "eef:physical-activity"
+        "eef:physical-activity",
+        "eef-ey:physical-development-approaches"
       ],
       "doi": "https://doi.org/10.1080/03004279.2016.1273250",
       "isbn": "",
@@ -29605,6 +30127,15 @@
       ],
       "title": ""
     },
+    "Entwisle, 1987": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "https://doi.org/10.3102/00028312024003337",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Kindergarten experience: Cognitive effects or socialization?"
+    },
     "Entwistle & Ramsden, 1983": {
       "doi": "",
       "isbn": "",
@@ -29641,6 +30172,15 @@
         "wiki/facts/global/World Council of Comparative Education Societies.md"
       ],
       "title": ""
+    },
+    "Epstein, 1994": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Accelerating the literacy development of disadvantaged preschool children: An experimental evaluation of a Head Start emergent literacy curriculum"
     },
     "Epstein, 1996": {
       "doi": "",
@@ -30462,7 +31002,8 @@
     },
     "Evangelou, 2007": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1080/03054980701476477",
       "isbn": "",
@@ -31336,7 +31877,8 @@
     },
     "Farran, 2015": {
       "datasets": [
-        "eef:social-and-emotional-learning"
+        "eef:social-and-emotional-learning",
+        "eef-ey:social-and-emotional-learning-strategies"
       ],
       "doi": "",
       "isbn": "",
@@ -31548,7 +32090,8 @@
     },
     "Feitelson, 1993": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.2307/747817",
       "isbn": "",
@@ -31706,6 +32249,15 @@
         "wiki/concepts/university-industry-collaboration/UIC Impact Measurement.md"
       ],
       "title": ""
+    },
+    "Fernandez, 1995": {
+      "datasets": [
+        "eef-ey:parental-engagement"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Paired reading: An investigation into using parents as tutors in one mainstream high school"
     },
     "Fernandez-Rio et al., 2022": {
       "doi": "",
@@ -31934,7 +32486,8 @@
     },
     "Fielding-Barnsley, 2002": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1080/19404150209546703",
       "isbn": "",
@@ -31943,12 +32496,22 @@
     },
     "Fielding-Barnsley, 2003": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1111/1467-9604.00284",
       "isbn": "",
       "seen_in": [],
       "title": "Early intervention in the home for children at risk of reading failure"
+    },
+    "Fields, 1989": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effects of full-day everyday kindergarten on academic achievement and self-esteem."
     },
     "Fien et al., 2021": {
       "doi": "",
@@ -32338,6 +32901,15 @@
       "seen_in": [],
       "title": "Effects of a development drama-inquiry process on creative and critical thinking skills in early adolescent students"
     },
+    "Fischer, 1990": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.2307/749374",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A part-part-whole curriculum for teaching number in the kindergarten"
+    },
     "Fischer, 2003": {
       "doi": "",
       "isbn": "",
@@ -32414,6 +32986,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Cross age tutoring  Alternatives to the reading resources room for struggling adolescent readers"
+    },
+    "Fisher, 2013": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "https://doi.org/10.1111/cdev.12091",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Taking shape: Supporting preschoolers' acquisition of geometric knowledge through guided play"
     },
     "Fishman et al., 2013": {
       "doi": "",
@@ -32851,7 +33432,8 @@
     },
     "Flook, 2015": {
       "datasets": [
-        "eef:social-and-emotional-learning"
+        "eef:social-and-emotional-learning",
+        "eef-ey:self-regulation-strategies"
       ],
       "doi": "https://doi.org/10.1037/a0038256",
       "isbn": "",
@@ -33119,7 +33701,8 @@
     },
     "Ford, 2009": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1348/000712609X406762",
       "isbn": "",
@@ -33256,6 +33839,15 @@
         "wiki/concepts/research-methodology/Document.md"
       ],
       "title": ""
+    },
+    "Foster, 2016": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A randomized control trial evaluating the effectiveness of computer assisted instruction in numeracy on math outcomes for monolingual English speaking kindergartners from Title 1 schools"
     },
     "Fothergill, 1974": {
       "doi": "",
@@ -34151,7 +34743,8 @@
     },
     "Fricke, 2013": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1111/jcpp.12010",
       "isbn": "",
@@ -34400,7 +34993,8 @@
     },
     "Fryer, 2020": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.3386/w27913",
       "isbn": "",
@@ -34612,7 +35206,8 @@
     },
     "Fuchs, 2001a": {
       "datasets": [
-        "eef:phonics"
+        "eef:phonics",
+        "eef-ey:early-literacy-approaches"
       ],
       "doi": "https://doi.org/10.1037/0022-0663.93.2.251",
       "isbn": "",
@@ -36418,6 +37013,15 @@
       "seen_in": [],
       "title": "Effects of error correction on third graders' spelling"
     },
+    "Gettinger, 2008": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "https://doi.org/10.1177/0271121407311238",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Applying a response-to-intervention model for early literacy development in low-income children"
+    },
     "Getzels & Csikszentmihalyi, 1976": {
       "doi": "",
       "isbn": "",
@@ -37713,7 +38317,8 @@
     },
     "Goldfeld, 2012": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1001/archpediatrics.2012.1099",
       "isbn": "",
@@ -38055,6 +38660,15 @@
       ],
       "title": ""
     },
+    "Good, 2003": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Developing early literacy skills in young children with symptoms of inattention and hyperactivity"
+    },
     "Goodling, 1997": {
       "doi": "",
       "isbn": "",
@@ -38137,7 +38751,8 @@
     },
     "Goodson, 2011": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -38473,6 +39088,15 @@
         "wiki/concepts/educational-technology/Digital Self.md"
       ],
       "title": ""
+    },
+    "Gormley, 2005": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.1037/0012-1649.41.6.872",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effects of universal pre-K on cognitive development"
     },
     "Gormley, 2011": {
       "doi": "",
@@ -40222,6 +40846,24 @@
       "seen_in": [],
       "title": "The Effect of Goal Orientation on Student Achievement"
     },
+    "Gullo, 1986": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "https://doi.org/10.1080/02568548609594910",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A comparative study of “all-day,”“alternate-day,” and “half-day” kindergarten schedules: Effects on achievement and classroom social behaviors"
+    },
+    "Gullo, 2000": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "https://doi.org/10.1080/0030443001600102",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The long term educational effects of half-day vs full-day kindergarten"
+    },
     "Gulson et al., 2017": {
       "doi": "",
       "isbn": "",
@@ -41054,7 +41696,8 @@
     },
     "Hadeed, 2011": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1080/03004430.2010.524299",
       "isbn": "",
@@ -41273,7 +41916,8 @@
     },
     "Haley, 2017": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1111/1460-6984.12257",
       "isbn": "",
@@ -41378,6 +42022,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "A multi-level meta-analysis to determine the association of school district consolidation on student performance on state assessments."
+    },
+    "Hall-Kenyon, 2009": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "https://doi.org/10.1080/10409280802206593",
+      "isbn": "",
+      "seen_in": [],
+      "title": "How do linguistically diverse students fare in full-and half-day kindergarten? Examining academic achievement, instructional quality, and attendance"
     },
     "Hallaq, 2020": {
       "datasets": [
@@ -41788,7 +42441,8 @@
     },
     "Hampton, 1998": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1177/0042085998033003006",
       "isbn": "",
@@ -41847,6 +42501,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Evidence-based reading instruction for English language learners in preschool through sixth grades: a meta-analysis of group design studies."
+    },
+    "Han, 2010": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Does play make a difference? Effects of play intervention on at-risk preschoolers' vocabulary learning"
     },
     "Han, 2017": {
       "datasets": [
@@ -42216,7 +42879,8 @@
     },
     "Hargrave, 2000": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1016/S0885-2006(99)00038-1",
       "isbn": "",
@@ -42592,6 +43256,15 @@
       "seen_in": [],
       "title": "Nothing lost, something gained? Impact of a universal social-emotional learning program on future state test performance"
     },
+    "Hartford City Board of Education, 1973": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Child Development - Headstart Program."
+    },
     "Hartley & Betts, 2010": {
       "doi": "",
       "isbn": "",
@@ -42770,7 +43443,8 @@
     },
     "Harvey, 2002": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -42832,7 +43506,8 @@
     },
     "Hassinger-Das, 2015": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:early-numeracy-approaches"
       ],
       "doi": "https://doi.org/10.1086/683986",
       "isbn": "",
@@ -42855,6 +43530,15 @@
         "wiki/facts/norway/Nasjonale prøver.md"
       ],
       "title": ""
+    },
+    "Hatcher, 1979": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A study of the cognitive, affective, and psychomotor development of children attending half-day and full-day state-supported kindergartens."
     },
     "Hatcher, 1994": {
       "datasets": [
@@ -43577,6 +44261,15 @@
       ],
       "title": ""
     },
+    "Hebbeler, 1985": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.3102/01623737007003207",
+      "isbn": "",
+      "seen_in": [],
+      "title": "An old and a new question on the effects of early education for children from low income families"
+    },
     "Hebert et al., 2013": {
       "datasets": [
         "metax:S1116"
@@ -43597,7 +44290,8 @@
     },
     "Hecht, 2002": {
       "datasets": [
-        "eef:phonics"
+        "eef:phonics",
+        "eef-ey:early-literacy-approaches"
       ],
       "doi": "https://doi.org/10.1016/S0022-0965(02)00001-2",
       "isbn": "",
@@ -44755,6 +45449,15 @@
       ],
       "title": ""
     },
+    "Hildebrand, 1997": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of all-day and half-day kindergarten programming on reading, writing, math, and classroom social behaviors"
+    },
     "Hilger, 2000": {
       "datasets": [
         "eef:peer-tutoring"
@@ -45835,6 +46538,15 @@
       ],
       "title": ""
     },
+    "Hong, 1996": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1016/S0885-2006(96)90018-6",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of mathematics learning through children's literature on math achievement and dispositional outcomes"
+    },
     "Hong, 2005": {
       "datasets": [
         "eef:repeating-a-year"
@@ -45861,6 +46573,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis on the effects of problem-based learning"
+    },
+    "Hong, 2012": {
+      "datasets": [
+        "eef-ey:self-regulation-strategies"
+      ],
+      "doi": "https://doi.org/10.1016/j.ecresq.2011.09.006",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Two approaches to teaching young children science concepts, vocabulary, and scientific problem-solving skills"
     },
     "Honig & Coburn, 2007": {
       "doi": "",
@@ -46200,6 +46921,15 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md"
       ],
       "title": ""
+    },
+    "Hough, 1996": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effects of full-day kindergarten on student achievement and affect"
     },
     "Houghton, 1991": {
       "doi": "",
@@ -46656,6 +47386,15 @@
       ],
       "title": ""
     },
+    "Hubbard, 1967": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "An exploratory study of oral language development among culturally different children (Final report on head start evaluation and research--1966-67 to the institute for educational development. Section iv)"
+    },
     "Huber & Kuncel, 2016": {
       "doi": "",
       "isbn": "",
@@ -46987,6 +47726,24 @@
         "wiki/theories/research-methodology/Realist Evaluation.md"
       ],
       "title": ""
+    },
+    "Humphrey, 1980": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A study of the effectiveness of full-day kindergarten"
+    },
+    "Humphrey, 1988": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A longitudinal study of the consequences of full-day kindergarten: Kindergarten through grade eight"
     },
     "Humphrey, 2018": {
       "datasets": [
@@ -47652,7 +48409,8 @@
     },
     "Ihmeideh, 2020": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1016/j.childyouth.2020.105462",
       "isbn": "",
@@ -47905,6 +48663,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Is Asthma Associated with Cognitive Impairments? A Meta-Analytic Review"
+    },
+    "Irlen, 2003": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The impact of video viewing and retelling on preliterate children's narrative comprehension"
     },
     "Irving Kristol, 1994": {
       "doi": "",
@@ -48374,6 +49141,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "The impact of computer-assisted instruction on the mathematics achievement of elementary school children grades three through six"
+    },
+    "Jackson, 2006": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "https://doi.org/10.1016/j.ecresq.2006.04.005",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The impact of HeadsUp! Reading on early childhood educators' literacy practices and preschool children's literacy skills"
     },
     "Jackson, 2011": {
       "datasets": [
@@ -48877,6 +49653,15 @@
       ],
       "title": ""
     },
+    "Jarvis, 1988": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Third-grade follow-up of the long-term effects of all-day kindergarten"
+    },
     "Jasanoff, 2004": {
       "doi": "",
       "isbn": "",
@@ -49107,6 +49892,15 @@
         "wiki/arguments/journal-articles/SAGE Open/Argument_Kazanci_Tinmaz_Sezgin_2023_SO.md"
       ],
       "title": ""
+    },
+    "Jemutai, 2019": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "https://doi.org/10.4102/sajce.v9i1.634",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of a 6 Brick Duplo Block guided play intervention on pre-literate learners' visual perception"
     },
     "Jen Webb, 2003": {
       "doi": "",
@@ -50231,6 +51025,15 @@
       ],
       "title": ""
     },
+    "Johnson, 1974": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "An experimental study of the comparison of pupil achievement in the all day kindergarten and one half day control group"
+    },
     "Johnson, 1976": {
       "datasets": [
         "eef:collaborative-learning-approaches"
@@ -50696,7 +51499,8 @@
     },
     "Jordan, 2000": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1598/RRQ.35.4.5",
       "isbn": "",
@@ -50705,7 +51509,8 @@
     },
     "Jordan, 2012": {
       "datasets": [
-        "eef:small-group-tuition"
+        "eef:small-group-tuition",
+        "eef-ey:early-numeracy-approaches"
       ],
       "doi": "https://doi.org/10.1037/a0029018",
       "isbn": "",
@@ -50997,7 +51802,8 @@
     },
     "Justice, 2005": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1044/0161-1461(2005/003)",
       "isbn": "",
@@ -51006,7 +51812,8 @@
     },
     "Justice, 2010": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1044/0161-1461(2010/09-0056)",
       "isbn": "",
@@ -52237,6 +53044,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "AfterZone  Outcomes for youth participating in Providence’s citywide after-school system"
+    },
+    "Kaul, 1991": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Starting children too early on number work: A mismatch of developmental and academic priorities"
     },
     "Kaur, 2023": {
       "datasets": [
@@ -53593,6 +54409,15 @@
       ],
       "title": ""
     },
+    "Kidd, 2008": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.4219/jaa-2008-780",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Enhancing early numeracy by promoting the abstract thought involved in the oddity principle, seriation, and conservation"
+    },
     "Kidron & Lindsay, 2014": {
       "datasets": [
         "metax:S1374"
@@ -54342,7 +55167,8 @@
     },
     "Kirk, 2014": {
       "datasets": [
-        "eef:physical-activity"
+        "eef:physical-activity",
+        "eef-ey:physical-development-approaches"
       ],
       "doi": "https://doi.org/10.1007/s10643-013-0596-3",
       "isbn": "",
@@ -54351,7 +55177,8 @@
     },
     "Kirk, 2016": {
       "datasets": [
-        "eef:physical-activity"
+        "eef:physical-activity",
+        "eef-ey:physical-development-approaches"
       ],
       "doi": "https://doi.org/10.1111/josh.12363",
       "isbn": "",
@@ -54718,12 +55545,22 @@
     },
     "Klein, 2008": {
       "datasets": [
-        "eef:small-group-tuition"
+        "eef:small-group-tuition",
+        "eef-ey:early-numeracy-approaches"
       ],
       "doi": "https://doi.org/10.1080/19345740802114533",
       "isbn": "",
       "seen_in": [],
       "title": "Effects of a pre-kindergarten mathematics intervention  A randomized experiment"
+    },
+    "Klein, 2012": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Establishing and sustaining an effective pre-kindergarten math intervention at scale"
     },
     "Klerides et al., 2014": {
       "doi": "",
@@ -55394,6 +56231,15 @@
       "seen_in": [],
       "title": "A Study of Achievement as a Function of Homogeneous Grouping"
     },
+    "Koopsman, 1991": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A study of the longitudinal effects of all-day kindergarten attendance on achievement"
+    },
     "Kopelman-Rubin, 2020": {
       "datasets": [
         "eef:social-and-emotional-learning"
@@ -55431,7 +56277,8 @@
     },
     "Korat, 2007": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1111/j.1365-2729.2006.00213.x",
       "isbn": "",
@@ -55458,7 +56305,8 @@
     },
     "Korat, 2013": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1177/0142723713503148",
       "isbn": "",
@@ -55597,7 +56445,8 @@
     },
     "Kotaman, 2020": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "",
       "isbn": "",
@@ -55774,7 +56623,8 @@
     },
     "Kraft, 2001": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "",
       "isbn": "",
@@ -56246,6 +57096,15 @@
         "wiki/concepts/political-economy-geopolitics/National Competitive Advantage.md"
       ],
       "title": ""
+    },
+    "Kruse, 2007": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Academic growth in kindergarten: The effects of child-level and school-level factors on learning outcomes"
     },
     "Krutka & Carpenter, 2016": {
       "doi": "",
@@ -57147,6 +58006,15 @@
       "seen_in": [],
       "title": "What matters for student learning outcomes: A meta-analysis of studies exploring factors of effective teaching"
     },
+    "Kyttälä, 2015": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1111/sjop.12221",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Training counting skills and working memory in preschool"
+    },
     "Käll, 2014": {
       "datasets": [
         "eef:physical-activity"
@@ -57550,7 +58418,8 @@
     },
     "Lam, 2013": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1016/j.cedpsych.2012.12.003",
       "isbn": "",
@@ -57573,6 +58442,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis with examination of moderators of student cognition, affect, and learning outcomes while using serious educational games, serious games, and simulations."
+    },
+    "Lamb, 1986": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effects of a read-aloud program with language interaction (early childhood, preschool, children's literature)"
     },
     "Lambert & Barley, 2001": {
       "doi": "",
@@ -57664,7 +58542,8 @@
     },
     "Landry, 2014": {
       "datasets": [
-        "eef:social-and-emotional-learning"
+        "eef:social-and-emotional-learning",
+        "eef-ey:social-and-emotional-learning-strategies"
       ],
       "doi": "https://doi.org/10.1037/a0033494",
       "isbn": "",
@@ -57878,6 +58757,15 @@
       ],
       "title": ""
     },
+    "Larsen, 1989": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.1016/S0885-2006(89)90142-7",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Later effects of preschool on low-risk children"
+    },
     "Larsen, 2001": {
       "doi": "",
       "isbn": "",
@@ -57913,6 +58801,15 @@
         "wiki/concepts/educational-philosophy/Research Cage.md"
       ],
       "title": ""
+    },
+    "Larson, 1972": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Stability of gains in intellectual functioning among white children who attended a preschool program in rural Minnesota. Final report."
     },
     "Larsson, 2009": {
       "doi": "",
@@ -58480,6 +59377,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "National Evaluation of Family Support Programs"
+    },
+    "Layzer, 2007": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Evaluation of child care subsidy strategies: Findings from project upgrade in Miami-Dade County"
     },
     "Lazarowitz, 1988": {
       "datasets": [
@@ -59468,7 +60374,8 @@
     },
     "Lennon, 1999": {
       "datasets": [
-        "eef:small-group-tuition"
+        "eef:small-group-tuition",
+        "eef-ey:early-literacy-approaches"
       ],
       "doi": "https://doi.org/10.1080/02796015.1999.12085970",
       "isbn": "",
@@ -59660,7 +60567,8 @@
     },
     "Leung, 2008": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1080/02702710801964090",
       "isbn": "",
@@ -59678,7 +60586,8 @@
     },
     "Leung, 2019": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1177/1049731518786578",
       "isbn": "",
@@ -59778,7 +60687,8 @@
     },
     "Levin, 2012": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1007/s11145-010-9254-y",
       "isbn": "",
@@ -60061,6 +60971,15 @@
         "wiki/methods/qualitative/Group Interview.md"
       ],
       "title": ""
+    },
+    "Lewis, 2000": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Academic and social effects of placement in full-day kindergarten for students at risk"
     },
     "Lewis, 2004": {
       "doi": "",
@@ -61221,6 +62140,15 @@
       ],
       "title": ""
     },
+    "Lipsey, 2009": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of a literacy focused curriculum and a developmental curriculum on school readiness and subsequent state achievement test outcomes in rural prekindergarten classrooms"
+    },
     "Lisa Anne Dack, 2013": {
       "doi": "",
       "isbn": "",
@@ -61502,7 +62430,8 @@
     },
     "Liu, 2015": {
       "datasets": [
-        "eef:metacognition-and-self-regulation"
+        "eef:metacognition-and-self-regulation",
+        "eef-ey:self-regulation-strategies"
       ],
       "doi": "https://doi.org/10.1038/srep14200",
       "isbn": "",
@@ -61910,7 +62839,8 @@
     },
     "Lonigan, 1998": {
       "datasets": [
-        "eef:homework"
+        "eef:homework",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1016/s0885-2006(99)80038-6",
       "isbn": "",
@@ -61919,7 +62849,8 @@
     },
     "Lonigan, 1999": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1177/105381519902200406",
       "isbn": "",
@@ -61928,12 +62859,22 @@
     },
     "Lonigan, 2003": {
       "datasets": [
-        "eef:phonics"
+        "eef:phonics",
+        "eef-ey:early-literacy-approaches"
       ],
       "doi": "https://doi.org/10.1177/105381510302500402",
       "isbn": "",
       "seen_in": [],
       "title": "A Computer-Assisted Instruction Phonological Sensitivity Program for Preschool Children At-Risk for Reading Problems"
+    },
+    "Lonigan, 2011": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "https://doi.org/10.1007/s11145-009-9214-6",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Promoting the development of preschool children's emergent literacy skills: A randomized evaluation of a literacy-focused curriculum and two professional development models"
     },
     "Lonigan, 2012": {
       "datasets": [
@@ -61955,7 +62896,8 @@
     },
     "Lonigan, 2015": {
       "datasets": [
-        "eef:social-and-emotional-learning"
+        "eef:social-and-emotional-learning",
+        "eef-ey:social-and-emotional-learning-strategies"
       ],
       "doi": "https://doi.org/10.1111/cdev.12460",
       "isbn": "",
@@ -62193,6 +63135,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "An Investigation of Co-Teaching to Improve Academic Achievement of Students with Disabilities: A Meta-Analysis."
+    },
+    "Lotowycz, 1984": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "An investigation of achievement and self-concept in all-day kindergartens and traditional half-day kindergartens"
     },
     "Lott, 1983": {
       "datasets": [
@@ -62618,7 +63569,8 @@
     },
     "Lucas, 2006": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -63526,6 +64478,24 @@
         "wiki/arguments/journal-articles/Leadership and Policy in Schools/Argument_Brown_Greany_2018_LPS.md"
       ],
       "title": ""
+    },
+    "MacRae, 1990": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Kindergarten education: Full-day versus partial day"
+    },
+    "Macdonald, 2017": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "https://doi.org/10.1596/1813-9450-7944",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Pedagogy versus school readiness: The impact of a randomized reading instruction intervention and community-based playgroup intervention on early grade reading outcomes in Tonga"
     },
     "Macdonald, 2018": {
       "datasets": [
@@ -64435,7 +65405,8 @@
     },
     "Mantzicopoulos, 2013": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1080/07370008.2012.742087",
       "isbn": "",
@@ -65549,7 +66520,8 @@
     },
     "Mason, 1990": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -65636,6 +66608,15 @@
         "wiki/concepts/research-methodology/Catalytic Validity.md"
       ],
       "title": ""
+    },
+    "Massetti, 2002": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Dynamic assessment as an intervention for emergent literacy in Head Start"
     },
     "Massey, 2003": {
       "doi": "",
@@ -65901,16 +66882,27 @@
     },
     "Mautte, 1990": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "",
       "isbn": "",
       "seen_in": [],
       "title": "The Effects of Adult-Interactive Behaviors within the Context of Repeated Storybook Readings upon the Language Development and Selected Prereading Skills of Prekindergarten At-Risk Students"
     },
+    "Mavilidi, 2015": {
+      "datasets": [
+        "eef-ey:physical-development-approaches"
+      ],
+      "doi": "https://doi.org/10.1007/s10648-015-9337-z",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of integrated physical exercises and gestures on preschool children's foreign language vocabulary learning"
+    },
     "Mavilidi, 2016": {
       "datasets": [
-        "eef:physical-activity"
+        "eef:physical-activity",
+        "eef-ey:physical-development-approaches"
       ],
       "doi": "https://doi.org/10.1111/mbe.12131",
       "isbn": "",
@@ -65919,7 +66911,8 @@
     },
     "Mavilidi, 2017": {
       "datasets": [
-        "eef:physical-activity"
+        "eef:physical-activity",
+        "eef-ey:physical-development-approaches"
       ],
       "doi": "https://doi.org/10.1002/acp.3325",
       "isbn": "",
@@ -65928,7 +66921,8 @@
     },
     "Mavilidi, 2018": {
       "datasets": [
-        "eef:physical-activity"
+        "eef:physical-activity",
+        "eef-ey:physical-development-approaches"
       ],
       "doi": "https://doi.org/10.1016/j.jecp.2017.09.009",
       "isbn": "",
@@ -66772,6 +67766,15 @@
       "seen_in": [],
       "title": "A meta-analysis of the relation between class size and achievement."
     },
+    "McGivern, 2007": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Improving preliteracy and pre-math skills of Head Start children with classroom computer games"
+    },
     "McGrath et al., 2015": {
       "doi": "",
       "isbn": "",
@@ -66842,6 +67845,15 @@
         "wiki/concepts/research-methodology/Researching Up and Researching Down.md"
       ],
       "title": ""
+    },
+    "McIntosh, 2006": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Does a day make a difference? A comparison of half-day and all-day kindergarten programs in two Ohio school districts"
     },
     "McIntyre & MacLeod, 1978": {
       "doi": "",
@@ -67130,6 +68142,15 @@
       "seen_in": [],
       "title": "ABRA  Online reading support (Arm 2 - Non-ICT) - Evaluation report and executive summary"
     },
+    "McNamara, 1968": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Evaluation of the effects of Head Start experience in the area of self-concept, social skills, and language skills: Pre-publication draft."
+    },
     "McNamara, 2006": {
       "datasets": [
         "eef:individualised-instruction"
@@ -67400,9 +68421,19 @@
       "seen_in": [],
       "title": "The effectiveness of online and blended learning: A meta-analysis of the empirical literature"
     },
+    "Mears, 2001": {
+      "datasets": [
+        "eef-ey:physical-development-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of combining reading and physical education skill instruction on the development of selected locomotor movement skills, letter sound association and sight word recognition in kindergarten students"
+    },
     "Mears, 2007": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "",
       "isbn": "",
@@ -67639,6 +68670,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Cross-linguistic transfer of oral language, decoding, phonological awareness and reading comprehension: A meta-analysis of the correlational evidence"
+    },
+    "Melhuish, 2002": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Pre-school experience and cognitive development at the start of primary school"
     },
     "Melitz & Redding, 2021": {
       "doi": "",
@@ -68391,6 +69431,15 @@
       ],
       "title": ""
     },
+    "Meyer, 1989": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "How entering ability and instructional settings and not the length of the school day mediate kindergartners' reading performance: Technical report no. 466"
+    },
     "Meyer, 2002": {
       "datasets": [
         "eef:reading-comprehension-strategies"
@@ -69072,7 +70121,8 @@
     },
     "Miller, 2020": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "",
       "isbn": "",
@@ -69268,6 +70318,15 @@
         "wiki/concepts/instruction-pedagogy/Inquiry-Based Learning.md"
       ],
       "title": ""
+    },
+    "Minor, 2001": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The relationship between full-day and half-day kindergarten on the reading and mathematic scores of first grade students"
     },
     "Mintrom, 2000": {
       "doi": "",
@@ -69918,6 +70977,15 @@
       ],
       "title": ""
     },
+    "Monahan, 2007": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Emergent Numeracy and Cultural Orientations (ENCO) project: Examining approaches to meaningful and contextual mathematics instruction"
+    },
     "Monge & Contractor, 2003": {
       "doi": "",
       "isbn": "",
@@ -70427,7 +71495,8 @@
     },
     "Morris, 2013": {
       "datasets": [
-        "eef:social-and-emotional-learning"
+        "eef:social-and-emotional-learning",
+        "eef-ey:social-and-emotional-learning-strategies"
       ],
       "doi": "https://doi.org/10.1080/10409289.2013.825187",
       "isbn": "",
@@ -70436,7 +71505,8 @@
     },
     "Morris, 2013a": {
       "datasets": [
-        "eef:social-and-emotional-learning"
+        "eef:social-and-emotional-learning",
+        "eef-ey:social-and-emotional-learning-strategies"
       ],
       "doi": "",
       "isbn": "",
@@ -70714,12 +71784,22 @@
     },
     "Morrow, 1990a": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1080/10862969009547710",
       "isbn": "",
       "seen_in": [],
       "title": "Effects of a Story Reading Program on the Literacy Development of At-Risk Kindergarten Children"
+    },
+    "Morrow, 1990b": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "https://doi.org/10.1016/0885-2006(90)90018-V",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Preparing the classroom environment to promote literacy during play"
     },
     "Morrow, 1992": {
       "datasets": [
@@ -70732,7 +71812,8 @@
     },
     "Morrow, 1997": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1080/0300443971270103",
       "isbn": "",
@@ -71393,6 +72474,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Class size reduction in a large urban school district  A mixed methodology evaluation research study"
+    },
+    "Munoz, 2001a": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The critical years of education for at-risk students: The impact of an early childhood program on student learning"
     },
     "Munoz, 2006": {
       "datasets": [
@@ -73489,6 +74579,33 @@
       "seen_in": [],
       "title": "Effects of Parent And Volunteer Tutoring on Reading Achievement of Third Grade At-Risk Students"
     },
+    "Nieman, 1971": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Early childhood education project evaluation, 1970-71. ESEA Title I"
+    },
+    "Nieman, 1971a": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Early childhood education project evaluation, 1969-70. ESEA Title I"
+    },
+    "Nieman, 1975": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Preschool plus all day kindergarten: Cumulative effects of early childhood programs on cognitive growth of four and five year old children"
+    },
     "Niemann et al., 2017": {
       "doi": "",
       "isbn": "",
@@ -74130,6 +75247,15 @@
       ],
       "title": ""
     },
+    "Nummedal, 1971": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Head start graduates: One year later"
+    },
     "Nunes et al., 2022": {
       "datasets": [
         "metax:S0221"
@@ -74498,6 +75624,15 @@
       ],
       "title": ""
     },
+    "O'Brien, 2006": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Parent -delivered instruction in phoneme identification: Effects on phonemic awareness and letter knowledge of preschool-aged children"
+    },
     "O'Brien, 2011": {
       "doi": "",
       "isbn": "",
@@ -74554,6 +75689,15 @@
       "seen_in": [],
       "title": "Unpacking Phonological Awareness  Comparing Treatment Outcomes for Low-Skilled Kindergarten Children"
     },
+    "O'Connor, 1996": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "https://doi.org/10.1177/001440299606300110",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Ladders to literacy: The effects of teacher-led phonological activities for kindergarten children with and without disabilities"
+    },
     "O'Connor, 2002": {
       "datasets": [
         "eef:one-to-one-tuition"
@@ -74562,6 +75706,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Teaching Reading To Poor Readers In The Intermediate Grades  A Comparison of Text Difficulty"
+    },
+    "O'Connor, 2014": {
+      "datasets": [
+        "eef-ey:self-regulation-strategies"
+      ],
+      "doi": "https://doi.org/10.1037/a0036615",
+      "isbn": "",
+      "seen_in": [],
+      "title": "An examination of the efficacy of INSIGHTS in enhancing the academic and behavioral development of children in early grades"
     },
     "O'Connor, 2017": {
       "datasets": [
@@ -75627,6 +76780,15 @@
       ],
       "title": ""
     },
+    "Oliver, 2008": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The relationship between length of kindergarten day and student literacy and math achievement"
+    },
     "Oliver, 2013": {
       "doi": "",
       "isbn": "",
@@ -75938,7 +77100,8 @@
     },
     "Ornaghi, 2015": {
       "datasets": [
-        "eef:social-and-emotional-learning"
+        "eef:social-and-emotional-learning",
+        "eef-ey:social-and-emotional-learning-strategies"
       ],
       "doi": "https://doi.org/10.1111/sode.12091",
       "isbn": "",
@@ -76537,6 +77700,15 @@
       ],
       "title": ""
     },
+    "PCER, 2008": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of preschool curriculum programs on school readiness: Report from the Preschool Curriculum Evaluation Research initiative"
+    },
     "PERCE, 1997": {
       "doi": "",
       "isbn": "",
@@ -76970,6 +78142,15 @@
       ],
       "title": ""
     },
+    "Papic, 2011": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.5951/jresematheduc.42.3.0237",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Assessing the development of preschoolers' mathematical patterning"
+    },
     "Pappas, 1979": {
       "datasets": [
         "eef:arts-participation"
@@ -77102,6 +78283,15 @@
         "wiki/concepts/educational-philosophy/Narrative Knowledge.md"
       ],
       "title": ""
+    },
+    "Park, 2016": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1016/j.jecp.2016.07.011",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Non-symbolic approximate arithmetic training improves math performance in preschoolers"
     },
     "Park, 2018": {
       "doi": "",
@@ -77401,6 +78591,24 @@
         "wiki/concepts/educational-policy-reform/Global Education Reform Movement.md"
       ],
       "title": ""
+    },
+    "Pasnak, 1991": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1080/00220671.1991.10702807",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Cognitive and achievement gains for kindergartners instructed in Piagetian operations"
+    },
+    "Pasnak, 1996": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1002/(SICI)1520-6807(199601)33:1<70::AID-PITS9>3.0.CO;2-%23",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Differential results of instruction at the preoperational/concrete operational transition"
     },
     "Passin, 1965": {
       "doi": "",
@@ -77844,6 +79052,15 @@
       ],
       "title": ""
     },
+    "Pawk, 2003": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A quantitative analysis of full-day kindergarten in rural elementary schools: A measure of academic and social outcomes for children at-risk in the Armstrong School District"
+    },
     "Pawson & Tilley, 1997": {
       "doi": "",
       "isbn": "",
@@ -77951,7 +79168,8 @@
     },
     "Pears, 2014": {
       "datasets": [
-        "eef:metacognition-and-self-regulation"
+        "eef:metacognition-and-self-regulation",
+        "eef-ey:self-regulation-strategies"
       ],
       "doi": "https://doi.org/10.1353/etc.2014.0021",
       "isbn": "",
@@ -78162,6 +79380,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effective programs in elementary mathematics: A best-evidence synthesis."
+    },
+    "Pellegrini, 1982": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "https://doi.org/10.3102/00028312019003443",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effects of thematic-fantasy play training on the development of children's story comprehension"
     },
     "Pellegrino & Hilton, 2012": {
       "doi": "",
@@ -78502,6 +79729,15 @@
       ],
       "title": ""
     },
+    "Perry, 1999": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A study to determine the effects of pre-kindergarten on kindergarten readiness and achievement in mathematics."
+    },
     "Pert, 2017": {
       "datasets": [
         "eef:social-and-emotional-learning"
@@ -78530,7 +79766,8 @@
     },
     "Peskin, 2004": {
       "datasets": [
-        "eef:metacognition-and-self-regulation"
+        "eef:metacognition-and-self-regulation",
+        "eef-ey:self-regulation-strategies"
       ],
       "doi": "https://doi.org/10.1016/j.cogdev.2004.01.003",
       "isbn": "",
@@ -78878,6 +80115,15 @@
       "seen_in": [],
       "title": "Open versus traditional classrooms"
     },
+    "Peterson, 1992": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "https://doi.org/10.1080/10862969209547764",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Orthographic analogy training with kindergarten children: Effects on analogy use, phonemic segmentation, and letter-sound knowledge"
+    },
     "Petkovic et al., 2010": {
       "doi": "",
       "isbn": "",
@@ -79196,7 +80442,8 @@
     },
     "Phillips, 1990": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -79430,6 +80677,15 @@
       ],
       "title": ""
     },
+    "Pienaar, 2011": {
+      "datasets": [
+        "eef-ey:physical-development-approaches"
+      ],
+      "doi": "https://doi.org/10.10520/EJC108959",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effect of a Kinderkinetics programme on components of children's perceptual-motor and cognitive functioning"
+    },
     "Pieper et al., 2014": {
       "doi": "",
       "isbn": "",
@@ -79529,6 +80785,15 @@
       ],
       "title": ""
     },
+    "Pietrangelo, 1999": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Outcomes of an enhanced literacy curriculum on the emergent literacy skills of Head Start preschoolers"
+    },
     "Pigott et al., 2013": {
       "doi": "",
       "isbn": "",
@@ -79625,6 +80890,15 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27.md"
       ],
       "title": ""
+    },
+    "Pinkelton, 1976": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A comparison of referred Head Start, non-referred Head Start and non-Head Start groups of primary school children on achievement, language processing, and classroom behavior"
     },
     "Pinker, 2011": {
       "doi": "",
@@ -80038,7 +81312,8 @@
     },
     "Pollard-Durodola, 2011": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1177/001440291107700202",
       "isbn": "",
@@ -80133,6 +81408,15 @@
         "wiki/methods/mixed/Narrative Synthesis.md"
       ],
       "title": ""
+    },
+    "Pope, 1995": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The difference in mathematics and reading performance between children attending half-day and full-day Parochial kindergarten programs"
     },
     "Popkewitz & Lindblad, 2000": {
       "doi": "",
@@ -80293,6 +81577,15 @@
       ],
       "title": ""
     },
+    "Porter, 1965": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Evaluation of headstart educational program in Cambridge, Massachusetts. Final report"
+    },
     "Porter, 1990": {
       "doi": "",
       "isbn": "",
@@ -80438,6 +81731,15 @@
       ],
       "title": ""
     },
+    "Powell, 2010": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "https://doi.org/10.1037/a0017763",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of an early literacy professional development intervention on Head Start teachers and children"
+    },
     "Powell, 2015": {
       "datasets": [
         "eef:one-to-one-tuition"
@@ -80531,7 +81833,8 @@
     },
     "Pozuelos, 2019": {
       "datasets": [
-        "eef:metacognition-and-self-regulation"
+        "eef:metacognition-and-self-regulation",
+        "eef-ey:self-regulation-strategies"
       ],
       "doi": "https://doi.org/10.1111/desc.12756",
       "isbn": "",
@@ -81806,6 +83109,15 @@
       "seen_in": [],
       "title": "The impact of school-wide professional development on student achievement: a meta-analysis from an effective schools perspective."
     },
+    "Raisor, 2006": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A comparison of phonological awareness intervention approaches"
+    },
     "Rajalo & Vadi, 2017": {
       "doi": "",
       "isbn": "",
@@ -81892,6 +83204,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Meta-Analysis on the Effectiveness of Argument-Based Learning on Students' Conceptual Understanding"
+    },
+    "Ramani, 2008": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1111/j.1467-8624.2007.01131.x",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Promoting broad and stable improvements in low-income children's numerical knowledge through playing number board games"
     },
     "Ramaswami, 1994": {
       "datasets": [
@@ -82227,7 +83548,8 @@
     },
     "Raver, 2011": {
       "datasets": [
-        "eef:metacognition-and-self-regulation"
+        "eef:metacognition-and-self-regulation",
+        "eef-ey:self-regulation-strategies"
       ],
       "doi": "https://doi.org/10.1111/j.1467-8624.2010.01561.x",
       "isbn": "",
@@ -82604,7 +83926,8 @@
     },
     "Reese, 2010": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1080/10409289.2010.481552",
       "isbn": "",
@@ -84475,6 +85798,15 @@
       ],
       "title": ""
     },
+    "Robin, 2006": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Is more better? The effects of full- day vs. half-day preschool on early school achievement"
+    },
     "Robinson & Kelley, 2007": {
       "doi": "",
       "isbn": "",
@@ -84598,7 +85930,8 @@
     },
     "Robinson-Smith, 2019": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "",
       "isbn": "",
@@ -85008,7 +86341,8 @@
     },
     "Rolla, 2006": {
       "datasets": [
-        "eef:one-to-one-tuition"
+        "eef:one-to-one-tuition",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1016/j.ijer.2006.11.002",
       "isbn": "",
@@ -85214,6 +86548,15 @@
       ],
       "title": ""
     },
+    "Rosa, 2019": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.1016/j.econedurev.2018.10.010",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Achievement gains from reconfiguring early schooling: The case of Brazil's primary education reform"
+    },
     "Rosbach et al., 2025": {
       "doi": "",
       "isbn": "",
@@ -85400,7 +86743,8 @@
     },
     "Rosemberg, 2011": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "",
       "isbn": "",
@@ -85528,7 +86872,8 @@
     },
     "Rosenstreich, 2021": {
       "datasets": [
-        "eef:physical-activity"
+        "eef:physical-activity",
+        "eef-ey:physical-development-approaches"
       ],
       "doi": "https://doi.org/10.1007/S10643-020-01150-5",
       "isbn": "",
@@ -85636,7 +86981,8 @@
     },
     "Roskos, 2011": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1080/02568543.2011.580041",
       "isbn": "",
@@ -86187,7 +87533,8 @@
     },
     "Rueda, 2012": {
       "datasets": [
-        "eef:metacognition-and-self-regulation"
+        "eef:metacognition-and-self-regulation",
+        "eef-ey:self-regulation-strategies"
       ],
       "doi": "https://doi.org/10.1016/j.dcn.2011.09.004",
       "isbn": "",
@@ -86949,6 +88296,15 @@
       "seen_in": [],
       "title": "The effects of creative drama methods on mathematics achievement, attitudes and creativity"
     },
+    "Saam, 2005": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "https://doi.org/10.1080/02568540509594548",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effects of full-day versus half-day kindergarten on the achievement of students with low/moderate income status"
+    },
     "Saatci et al., 2020": {
       "datasets": [
         "metax:S0170"
@@ -87384,6 +88740,15 @@
       "seen_in": [],
       "title": "Effectiveness of an SRSD Writing Intervention for Low- and High-SES Children"
     },
+    "Salaway, 2008": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Efficacy of a direct instruction approach to promote early learning"
+    },
     "Salcedo-Gonzalez, 2012": {
       "datasets": [
         "eef:within-class-attainment-grouping"
@@ -87437,6 +88802,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Reading comprehension on handheld devices versus on paper: A narrative review and meta-analysis of the medium effect and its moderators."
+    },
+    "Salminen, 2015": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1016/j.lindif.2015.09.002",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Individual variance in responsiveness to early computerized mathematics intervention"
     },
     "Salmon, 1976": {
       "doi": "",
@@ -87550,6 +88924,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of math anxiety interventions."
+    },
+    "Sammons, 2004": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.1080/0141192042000234656",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The impact of pre-school on young children's cognitive attainments at entry to reception"
     },
     "Samoff, 1990": {
       "doi": "",
@@ -87931,7 +89314,8 @@
     },
     "Saracho, 1997": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.2466/pms.1997.85.1.185",
       "isbn": "",
@@ -87961,6 +89345,24 @@
         "wiki/arguments/journal-articles/ECNU Review of Education/Argument_Rowe_2023_ECNUROE.md"
       ],
       "title": ""
+    },
+    "Sarama, 2008": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1080/19345740801941332",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Scaling up the implementation of a pre-kindergarten mathematics curriculum: Teaching for understanding with trajectories and technologies"
+    },
+    "Sarama, 2012": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1016/j.ecresq.2011.12.002",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The impacts of an early mathematics curriculum on oral language and literacy"
     },
     "Saran, 1985": {
       "doi": "",
@@ -88638,7 +90040,8 @@
     },
     "Schenke, 2020": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1016/j.compedu.2019.103749",
       "isbn": "",
@@ -88692,7 +90095,8 @@
     },
     "Schetz, 1994": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.2190%2F237D-T6CG-8D8H-DWPD",
       "isbn": "",
@@ -89004,7 +90408,8 @@
     },
     "Schmitt, 2015": {
       "datasets": [
-        "eef:metacognition-and-self-regulation"
+        "eef:metacognition-and-self-regulation",
+        "eef-ey:self-regulation-strategies"
       ],
       "doi": "https://doi.org/10.1016/j.ecresq.2014.08.001",
       "isbn": "",
@@ -89019,6 +90424,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Learning through play  The impact of web-based games on early literacy development"
+    },
+    "Schmitt, 2018a": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "https://doi.org/10.1016/j.ecresq.2018.04.006",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Using block play to enhance preschool children's mathematics and executive functioning: A randomized controlled trial"
     },
     "Schmitter, 1979": {
       "doi": "",
@@ -89109,9 +90523,19 @@
       "seen_in": [],
       "title": "Didactic methods for enhancing children's peer relations: A quantitative review."
     },
+    "Schneider, 2000": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "https://doi.org/10.1037/0022-0663.92.2.284",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Training phonological skills and letter knowledge in children at risk for dyslexia: A comparison of three kindergarten intervention programs"
+    },
     "Schneider, 2018": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.3390/nu10101394",
       "isbn": "",
@@ -90054,6 +91478,15 @@
       ],
       "title": ""
     },
+    "Scott, 2007": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effectiveness of a full-day kindergarten program for at-risk children"
+    },
     "Scott, 2009": {
       "doi": "",
       "isbn": "",
@@ -90252,6 +91685,15 @@
         "wiki/concepts/research-methodology/Research Ethics.md"
       ],
       "title": ""
+    },
+    "Seefeldt, 1977": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Montessori and responsive environment models: A longitudinal study of two preschool programs, phase two."
     },
     "Seferian, 2021": {
       "datasets": [
@@ -90666,7 +92108,8 @@
     },
     "Seward, 2009": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "",
       "isbn": "",
@@ -90895,7 +92338,8 @@
     },
     "Shannonhouse, 2012": {
       "datasets": [
-        "eef:physical-activity"
+        "eef:physical-activity",
+        "eef-ey:physical-development-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -91231,7 +92675,8 @@
     },
     "Sheets, 1999": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "",
       "isbn": "",
@@ -91362,7 +92807,8 @@
     },
     "Sheridan, 2011": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1016/j.jsp.2011.03.001",
       "isbn": "",
@@ -91894,7 +93340,8 @@
     },
     "Sibieta, 2016b": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -91911,6 +93358,15 @@
       "title": "REACH_1"
     },
     "Sibieta, 2016d": {
+      "datasets": [
+        "eef:one-to-one-tuition"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "REACH_1"
+    },
+    "Sibieta, 2016e": {
       "datasets": [
         "eef:one-to-one-tuition"
       ],
@@ -92011,6 +93467,15 @@
         "wiki/concepts/competency-and-assessment/Critical Thinking Disposition.md"
       ],
       "title": ""
+    },
+    "Siegler, 2008": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1111/j.1467-7687.2008.00714.x",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Playing linear numerical board games promotes low-income children's numerical development"
     },
     "Siemens, 2001": {
       "datasets": [
@@ -92241,7 +93706,8 @@
     },
     "Sim, 2014": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1080/03004430.2013.862532",
       "isbn": "",
@@ -92352,7 +93818,8 @@
     },
     "Simon, 2003": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -93520,6 +94987,24 @@
       "seen_in": [],
       "title": "The effects of consultation-based family-school engagement on student and parent outcomes: A meta-analysis."
     },
+    "Smith, 1968": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.1080/00220671.1968.10883697",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Intellectual differences in five-year-old underprivileged girls and boys with and without pre-kindergarten school experience"
+    },
+    "Smith, 1970": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.17763/haer.40.1.f3h6164m816t2552",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Report analysis: The impact of Head Start"
+    },
     "Smith, 1975": {
       "doi": "",
       "isbn": "",
@@ -94115,6 +95600,15 @@
       ],
       "title": ""
     },
+    "Solity, 1999": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "https://doi.org/10.1080/0144341990190401",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Raising Literacy Attainments in the Early Years: the impact of instructional psychology"
+    },
     "Solomon & Lewin, 2016": {
       "doi": "",
       "isbn": "",
@@ -94325,6 +95819,33 @@
       ],
       "title": ""
     },
+    "Sontag, 1969": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.1080/00220671.1969.10883876",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effect of Head Start training on the cognitive growth of disadvantaged children"
+    },
+    "Sood, 2009": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Teaching number sense: Examining the effects of number sense instruction on mathematics competence of kindergarten students"
+    },
+    "Sood, 2011": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "http://doi.org/10.1177/0022219411422380",
+      "isbn": "",
+      "seen_in": [],
+      "title": "An exploratory study of a number sense program to develop kindergarten students' number proficiency"
+    },
     "Sopamena et al., 2022": {
       "datasets": [
         "metax:S2002"
@@ -94333,6 +95854,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effectiveness of flipped classroom model on mathematics achievement at the University level: A meta-analysis study."
+    },
+    "Sophian, 2004": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1016/j.ecresq.2004.01.015",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Mathematics for the future: Developing a Head Start curriculum to support mathematics learning"
     },
     "Sorace, 2021": {
       "doi": "",
@@ -94966,7 +96496,8 @@
     },
     "St Pierre, 1995": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "",
       "isbn": "",
@@ -94984,7 +96515,8 @@
     },
     "St Pierre, 2003": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "",
       "isbn": "",
@@ -94993,7 +96525,8 @@
     },
     "St Pierre, 2005": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1037/0012-1649.41.6.953",
       "isbn": "",
@@ -95346,12 +96879,22 @@
     },
     "Starkey, 2000": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1207/s15566935eed1105_7",
       "isbn": "",
       "seen_in": [],
       "title": "Fostering parental support for children's mathematical development  An intervention with Head Start families"
+    },
+    "Starkey, 2004": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1016/j.ecresq.2004.01.002",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Enhancing young children's mathematical knowledge through a pre-kindergarten mathematics intervention"
     },
     "Starks, 2002": {
       "datasets": [
@@ -95364,7 +96907,8 @@
     },
     "Starnes, 2017": {
       "datasets": [
-        "eef:social-and-emotional-learning"
+        "eef:social-and-emotional-learning",
+        "eef-ey:social-and-emotional-learning-strategies"
       ],
       "doi": "",
       "isbn": "",
@@ -95523,6 +97067,15 @@
         "wiki/concepts/educational-philosophy/Constructivist Paradigm.md"
       ],
       "title": ""
+    },
+    "Steglich, 1965": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Report of the effectiveness of project Head Start, Lubbock, Texas. Parts I, II, and appendices."
     },
     "Stein et al., 2007": {
       "doi": "",
@@ -95913,6 +97466,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Environmental, Motivational, and Cognitive Predictors of Emergent Literacy and Reading Skills."
+    },
+    "Stern, 1969": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The Effectiveness of a Standard Language Readiness Program as a Function of Teacher Differences."
     },
     "Sternberg & Halpern, 2020": {
       "doi": "",
@@ -96769,7 +98331,8 @@
     },
     "Strouse, 2013": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1037/a0032463",
       "isbn": "",
@@ -96820,6 +98383,15 @@
         "wiki/concepts/higher-education/Student Involvement.md"
       ],
       "title": ""
+    },
+    "Stubits, 2005": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effects of full-day and half-day kindergarten on student achievement"
     },
     "Stuebing et al., 2015": {
       "datasets": [
@@ -97092,6 +98664,15 @@
         "wiki/concepts/research-methodology/Cross-cultural Validity.md"
       ],
       "title": ""
+    },
+    "Sumbler, 1999": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Phonological awareness combined with explicit alphabetic coding instruction in kindergarten: Classroom observations and evaluation"
     },
     "Sumi, 2013": {
       "datasets": [
@@ -97852,7 +99433,8 @@
     },
     "Sylva, 2008": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1348/000709907X255718",
       "isbn": "",
@@ -97922,7 +99504,8 @@
     },
     "Sénéchal, 1997": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1017/S0305000996003005",
       "isbn": "",
@@ -98851,7 +100434,8 @@
     },
     "Teepe, 2019": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1016/j.ecresq.2019.03.001",
       "isbn": "",
@@ -99621,6 +101205,15 @@
       ],
       "title": ""
     },
+    "Thompson, 1990": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A longitudinal study comparing the achievement of students who attended full-day or half-day kindergarten programs"
+    },
     "Thompson, 1991": {
       "doi": "",
       "isbn": "",
@@ -99725,6 +101318,15 @@
         "wiki/concepts/research-methodology/Halo Effect.md"
       ],
       "title": ""
+    },
+    "Thorndike, 1966": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Head start evaluation and research center, teachers college, Columbia University. Annual report (1st), september 1966-august 1967"
     },
     "Thorndike, 1997": {
       "doi": "",
@@ -100341,16 +101943,27 @@
     },
     "Toll, 2012": {
       "datasets": [
-        "eef:small-group-tuition"
+        "eef:small-group-tuition",
+        "eef-ey:early-numeracy-approaches"
       ],
       "doi": "https://doi.org/10.1177/1053815113477205",
       "isbn": "",
       "seen_in": [],
       "title": "Early numeracy intervention for low-performing kindergartners"
     },
+    "Toll, 2013": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1016/j.ridd.2012.09.003",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Accelerating the early numeracy development of kindergartners with limited working memory skills through remedial education"
+    },
     "Toll, 2014": {
       "datasets": [
-        "eef:small-group-tuition"
+        "eef:small-group-tuition",
+        "eef-ey:early-numeracy-approaches"
       ],
       "doi": "https://doi.org/10.1016/j.learninstruc.2014.03.003",
       "isbn": "",
@@ -100432,7 +102045,8 @@
     },
     "Tominey, 2011": {
       "datasets": [
-        "eef:social-and-emotional-learning"
+        "eef:social-and-emotional-learning",
+        "eef-ey:social-and-emotional-learning-strategies"
       ],
       "doi": "https://doi.org/10.1080/10409289.2011.574258",
       "isbn": "",
@@ -101084,6 +102698,15 @@
       "seen_in": [],
       "title": "SPOKES"
     },
+    "Tracey, 2016c": {
+      "datasets": [
+        "eef:parental-engagement"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "SPOKES"
+    },
     "Trachtenburg & Ferruggia, 1989": {
       "doi": "",
       "isbn": "",
@@ -101371,6 +102994,15 @@
       ],
       "title": ""
     },
+    "Trout, 2003": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "https://doi.org/10.1177/019874290302800315",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of a reading intervention for kindergarten students at risk for emotional disturbance and reading deficits"
+    },
     "Trow, 1976": {
       "doi": "",
       "isbn": "",
@@ -101433,6 +103065,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effect of error correction on learners' ability to write accurately"
+    },
+    "Truss, 2001": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effects of half-day kindergarten versus full-day kindergarten on third grade TAAS scores"
     },
     "Tröhler, 2013": {
       "doi": "",
@@ -101987,6 +103628,15 @@
       "seen_in": [],
       "title": "Cognitive and Motivational Modifiability as a Function of the Instrumental Enrichment (IE) Program"
     },
+    "Tzuriel, 1999": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1016/S0885-2006(99)80009-X",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of the “Bright Start” program in kindergarten on transfer and academic achievement"
+    },
     "Táíwò, 2022": {
       "doi": "",
       "isbn": "",
@@ -102430,7 +104080,8 @@
     },
     "Ulutaş, 2018": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.14704/NQ.2018.16.11.1263",
       "isbn": "",
@@ -102556,7 +104207,8 @@
     },
     "Upshur, 2017": {
       "datasets": [
-        "eef:social-and-emotional-learning"
+        "eef:social-and-emotional-learning",
+        "eef-ey:social-and-emotional-learning-strategies"
       ],
       "doi": "https://doi.org/10.1016/j.appdev.2017.03.004",
       "isbn": "",
@@ -102904,6 +104556,15 @@
       "seen_in": [],
       "title": "Longer term effects of a Tier 2 kindergarten vocabulary intervention for English learners"
     },
+    "Vahidi, 2017": {
+      "datasets": [
+        "eef-ey:parental-engagement"
+      ],
+      "doi": "https://doi.org/10.5964/ejop.v13i3.1381",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effectiveness of a parent-training program for promoting cognitive performance in preschool children"
+    },
     "Vaisey, 2009": {
       "doi": "",
       "isbn": "",
@@ -103043,6 +104704,15 @@
         "wiki/concepts/educational-policy-reform/Democratising Evidence.md"
       ],
       "title": ""
+    },
+    "Van De Rijt, 1998": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1023/A:1003180411209",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effectiveness of the Additional Early Mathematics program for teaching children early mathematics"
     },
     "Van Den Bos, 1998": {
       "datasets": [
@@ -103296,6 +104966,15 @@
       "seen_in": [],
       "title": "The effectiveness of Tier 1 digital interventions for early reading: A meta-analysis."
     },
+    "Vance, 1967": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effect of preschool group experience on various language and social skills in disadvantaged children. Final report."
+    },
     "Vandecandelaere, 2014": {
       "datasets": [
         "eef:repeating-a-year"
@@ -103331,6 +105010,24 @@
       "isbn": "",
       "seen_in": [],
       "title": "The classroom as a developmental context for cognitive development: A meta-analysis on the importance of teacher–student interactions for children's executive functions"
+    },
+    "Vandervelden, 1997": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "https://doi.org/10.2307/1511215",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Teaching phonological processing skills in early literacy: A developmental approach"
+    },
+    "Vaquero, 2014": {
+      "datasets": [
+        "eef-ey:parental-engagement"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "An exploratory study of a shared-book reading intervention involving Spanish-speaking Latino families"
     },
     "Varela, 1999": {
       "doi": "",
@@ -104107,6 +105804,15 @@
       "seen_in": [],
       "title": "Three meta-analyses of children's emotion knowledge and their school success"
     },
+    "Vondrak, 1996": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effect of preschool education on math achievement"
+    },
     "Vosniadou, 2013": {
       "doi": "",
       "isbn": "",
@@ -104802,6 +106508,15 @@
       ],
       "title": ""
     },
+    "Walkowiak, 2007": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Longitudinal academic growth and the kindergarten schedule"
+    },
     "Wallace, 1989": {
       "datasets": [
         "metax:S0848"
@@ -104881,7 +106596,8 @@
     },
     "Walsh, 2009": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "",
       "isbn": "",
@@ -105434,7 +107150,8 @@
     },
     "Wasik, 1990": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1111/j.1467-8624.1990.tb03559.x",
       "isbn": "",
@@ -105443,7 +107160,8 @@
     },
     "Wasik, 2001": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1037/0022-0663.93.2.243",
       "isbn": "",
@@ -105452,7 +107170,8 @@
     },
     "Wasik, 2006": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1037/0022-0663.98.1.63",
       "isbn": "",
@@ -105975,6 +107694,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of creative dramatics activities on the story retellings of kindergartners"
+    },
+    "Weiland, 2013": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "2112-2130\thttps://doi.org/10.1111/cdev.12099",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Impacts of a prekindergarten program on children's mathematics, language, literacy, executive function, and emotional skills"
     },
     "Weiler, 1996": {
       "doi": "",
@@ -106550,6 +108278,15 @@
       "seen_in": [],
       "title": "Does research support claims about the benefits of involving parents in early intervention programs?"
     },
+    "White, 1986": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1207/s1532690xci0303_6",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of training on four-year-ols' ability to solve geometric analogy problems"
+    },
     "White, 1988": {
       "doi": "",
       "isbn": "",
@@ -106641,16 +108378,27 @@
     },
     "Whitehurst, 1994": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1037/0012-1649.30.5.679",
       "isbn": "",
       "seen_in": [],
       "title": "A Picture Book Reading Intervention in Day Care and Home for Children from Low-Income Families"
     },
+    "Whitehurst, 1994a": {
+      "datasets": [
+        "eef-ey:early-literacy-approaches"
+      ],
+      "doi": "https://doi.org/10.1037/0022-0663.86.4.542",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Outcomes of an emergent literacy intervention in Head Start"
+    },
     "Whitehurst, 1999": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:early-literacy-approaches"
       ],
       "doi": "https://doi.org/10.1037/0022-0663.91.2.261",
       "isbn": "",
@@ -107115,6 +108863,15 @@
       ],
       "title": ""
     },
+    "Wilkens-King, 1984": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Comparison of the impact of the extended day kindergarten program with the non-extended day kindergarten program in area D of the Detroit Public Schools"
+    },
     "Wilkes & Stark, 2022": {
       "doi": "",
       "isbn": "",
@@ -107564,6 +109321,15 @@
         "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Susalka_Carbone_2025_IP_Web.md"
       ],
       "title": ""
+    },
+    "Wilson, 2009": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "http://doi.org/10.1111/j.1751-228X.2009.01075.x",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of an adaptive game intervention on accessing number sense in low-socioeconomic-status kindergarten children"
     },
     "Wilson, 2014": {
       "datasets": [
@@ -108115,6 +109881,15 @@
       ],
       "title": ""
     },
+    "Wolgemuth, 2006": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "https://doi.org/10.3200/JOER.99.5.260-270",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Comparing longitudinal academic achievement of full-day and half-day kindergarten students"
+    },
     "Wolraich et al., 1995": {
       "datasets": [
         "metax:S0188"
@@ -108437,6 +110212,15 @@
         "wiki/methods/quantitative/Seasonal Comparison.md"
       ],
       "title": ""
+    },
+    "Worku, 2018": {
+      "datasets": [
+        "eef-ey:play-based-learning"
+      ],
+      "doi": "https://doi.org/10.1186/s12887-018-1023-0",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects of home-based play-assisted stimulation on developmental performances of children living in extreme poverty: A randomized single-blind controlled trial"
     },
     "World Bank Group, 2018": {
       "doi": "",
@@ -108901,6 +110685,15 @@
         "wiki/concepts/political-economy-geopolitics/Infrastructures of Immobility.md"
       ],
       "title": ""
+    },
+    "Xiang, 2002": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Effects five years later: The Michigan school readiness program evaluation through age 10."
     },
     "Xiao & Watson, 2019": {
       "doi": "",
@@ -110557,6 +112350,15 @@
       "seen_in": [],
       "title": "Meta-analysis of the relationship between academic achievement and broad abilities of the Cattell-Horn-Carroll theory."
     },
+    "Zach, 2015": {
+      "datasets": [
+        "eef-ey:physical-development-approaches"
+      ],
+      "doi": "https://doi.org/10.1016/j.cogdev.2015.08.003",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effect of physical activity on spatial perception and attention in early childhood"
+    },
     "Zacharia et al., 2015": {
       "doi": "",
       "isbn": "",
@@ -110645,6 +112447,15 @@
       ],
       "title": ""
     },
+    "Zakaluk, 2005": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The efficacy of an all-day, every-day kindergarten program: A seven year cumulative report for the St. James-Assiniboia school division"
+    },
     "Zambrano, 2015": {
       "datasets": [
         "eef:peer-tutoring"
@@ -110706,6 +112517,15 @@
         "wiki/concepts/sociology-of-education/Otherhood.md"
       ],
       "title": ""
+    },
+    "Zaranis, 2016": {
+      "datasets": [
+        "eef-ey:early-numeracy-approaches"
+      ],
+      "doi": "https://doi.org/10.1007/s10639-014-9342-8",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The use of ICT in kindergarten for teaching addition based on realistic mathematics education"
     },
     "Zavale & Schneijderberg, 2021": {
       "doi": "",
@@ -110836,7 +112656,8 @@
     },
     "Zevenbergen, 2003": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1016/S0193-3973(03)00021-2",
       "isbn": "",
@@ -111030,7 +112851,8 @@
     },
     "Zhang, 2019": {
       "datasets": [
-        "eef:metacognition-and-self-regulation"
+        "eef:metacognition-and-self-regulation",
+        "eef-ey:self-regulation-strategies"
       ],
       "doi": "https://doi.org/10.1111/desc.12748",
       "isbn": "",
@@ -111450,7 +113272,8 @@
     },
     "Zigler, 2008": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1007/S10935-008-0132-1",
       "isbn": "",
@@ -111680,7 +113503,8 @@
     },
     "Zucker, 2021": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1016/j.ecresq.2020.09.001",
       "isbn": "",
@@ -111803,6 +113627,24 @@
       ],
       "title": ""
     },
+    "da Costa, 2000": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "Full day kindergarten at an inner city elementary school: Perceived and actual effects"
+    },
+    "da Costa, 2001": {
+      "datasets": [
+        "eef-ey:extra-hours"
+      ],
+      "doi": "",
+      "isbn": "",
+      "seen_in": [],
+      "title": "A comparison of the literacy effects of full day vs. half-day kindergarten: Helping children from disadvantaged backgrounds"
+    },
     "de Acedo, 2010": {
       "datasets": [
         "eef:metacognition-and-self-regulation"
@@ -111865,6 +113707,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "Improving text comprehension strategies in upper primary school children  A design experiment"
+    },
+    "de Felício, 2012": {
+      "datasets": [
+        "eef-ey:earlier-starting-age"
+      ],
+      "doi": "https://doi.org/10.1590/S0101-41612012000100004",
+      "isbn": "",
+      "seen_in": [],
+      "title": "The effects of early childhood education on literacy scores using data from a new Brazilian assessment tool"
     },
     "de Graaff, 2009": {
       "datasets": [
@@ -112107,7 +113958,8 @@
     },
     "van Kleeck, 2006": {
       "datasets": [
-        "eef:oral-language-interventions"
+        "eef:oral-language-interventions",
+        "eef-ey:communication-and-language-approaches"
       ],
       "doi": "https://doi.org/10.1044/1058-0360(2006/009)",
       "isbn": "",
@@ -112143,7 +113995,8 @@
     },
     "van Tuijl, 2001": {
       "datasets": [
-        "eef:parental-engagement"
+        "eef:parental-engagement",
+        "eef-ey:parental-engagement"
       ],
       "doi": "https://doi.org/10.1080/01650250042000159",
       "isbn": "",

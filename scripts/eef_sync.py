@@ -58,6 +58,12 @@ MAPPING = {
     "small-group-tuition": "Small Group Tuition", "social-and-emotional-learning": "Social-Emotional Learning",
     "summer-schools": "Summer School", "teaching-assistant-interventions": "Teaching Assistant",
     "within-class-attainment-grouping": "Within-Class Grouping",
+    "ey:communication-and-language-approaches": "Oral Language Interventions",
+    "ey:earlier-starting-age": "Preschool Education Programs", "ey:extra-hours": "Preschool Education Programs",
+    "ey:early-literacy-approaches": "Early Literacy Approaches", "ey:early-numeracy-approaches": "Early Numeracy Approaches",
+    "ey:parental-engagement": "Parental Involvement in Education", "ey:physical-development-approaches": "Perceptual-motor Programs",
+    "ey:play-based-learning": "Play Programs", "ey:self-regulation-strategies": "Self-Regulated Learning",
+    "ey:social-and-emotional-learning-strategies": "Social-Emotional Learning",
 }
 NEW_ENTRY = {  # title -> (folder, Chinese alias)
     "Aspiration Interventions": ("educational-psychology", "抱负干预"),
@@ -65,6 +71,8 @@ NEW_ENTRY = {  # title -> (folder, Chinese alias)
     "Oral Language Interventions": ("curriculum", "口语干预"),
     "School Uniform": ("educational-leadership-administration", "学校校服政策"),
     "Small Group Tuition": ("instruction-pedagogy", "小组辅导"),
+    "Early Literacy Approaches": ("curriculum", "早期读写教学"),
+    "Early Numeracy Approaches": ("curriculum", "早期数学教学"),
 }
 OVERVIEW_FIELDS = ["imp", "cost", "evi", "n", "smd", "ci", "i2"]
 FIELD_ZH = {"imp": "影响（月）", "cost": "成本", "evi": "证据强度", "n": "研究数", "smd": "合并效应量", "ci": "95% 置信区间",
@@ -83,8 +91,18 @@ ZH_NAMES = {
     "repeating-a-year": "留级", "school-uniform": "校服", "setting-and-streaming": "分层与分流",
     "small-group-tuition": "小组辅导", "social-and-emotional-learning": "社会情感学习", "summer-schools": "暑期学校",
     "teaching-assistant-interventions": "助教干预", "within-class-attainment-grouping": "班内按成绩分组",
+    # Early Years Toolkit (keys prefixed ey:)
+    "ey:communication-and-language-approaches": "沟通与语言教学", "ey:earlier-starting-age": "提早入园年龄",
+    "ey:early-literacy-approaches": "早期读写教学", "ey:early-numeracy-approaches": "早期数学教学", "ey:extra-hours": "增加在园时长",
+    "ey:parental-engagement": "家长参与（早期）", "ey:physical-development-approaches": "身体发展教学",
+    "ey:play-based-learning": "游戏化学习（早期）", "ey:self-regulation-strategies": "自我调节策略（早期）",
+    "ey:social-and-emotional-learning-strategies": "社会情感学习策略（早期）",
 }
-IMPACT_ZH = {"High": "高影响", "Moderate": "中等影响", "Low": "低影响", "Unclear": "影响不明", "Negative": "负向影响", "No": "无影响"}
+TOOLKITS = {
+    "tlt": {"prefix": "", "url": "https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit", "zh": "EEF 教与学工具包", "meta": ""},
+    "ey": {"prefix": "ey:", "url": "https://educationendowmentfoundation.org.uk/early-years/toolkit", "zh": "EEF 早期教育工具包", "meta": "|ey"},
+}
+IMPACT_ZH = {"Very high": "极高影响", "High": "高影响", "Moderate": "中等影响", "Low": "低影响", "Unclear": "影响不明", "Negative": "负向影响", "No": "无影响"}
 COST_ZH = {"very low": "极低", "low": "低", "moderate": "中等", "high": "高", "very high": "极高"}
 EVIDENCE_ZH = {"insufficient": "不足", "very limited": "极有限", "limited": "有限", "moderate": "中等", "extensive": "充分"}
 TYPE_ZH = {"Journal, Article": "期刊论文", "Dissertation": "学位论文", "Report": "报告", "Conference Proceedings": "会议论文",
@@ -123,13 +141,15 @@ def icon_counts(card_html: str) -> dict:
 
 def cmd_import(args) -> int:
     raw = load_json(Path(args.raw), None)
+    kit = TOOLKITS[args.toolkit]
     topics = {t["slug"]: t for t in raw.get("topics", [])}
     strands = {}
-    for slug, ov in raw["overview"].items():
-        det = raw["details"].get(slug, {})
-        rd = (((topics.get(slug) or {}).get("data") or {}).get("strand") or {}).get("reference_data") or {}
+    for slug0, ov in raw["overview"].items():
+        slug = kit["prefix"] + slug0
+        det = raw["details"].get(slug0, {})
+        rd = (((topics.get(slug0) or {}).get("data") or {}).get("strand") or {}).get("reference_data") or {}
         text = ov.get("card_text", "")
-        m = re.search(r"(High|Moderate|Low|Unclear|Negative|No) impact for ([\w ]+?) cost based on ([\w ]+?) evidence", text)
+        m = re.search(r"(Very high|High|Moderate|Low|Unclear|Negative|No) impact for ([\w ]+?) cost based on ([\w ]+?) evidence", text)
         months = re.search(r"Impact \(months\)\s*([+−-]?\s*\d+)", text)
         icons = icon_counts(ov.get("card_html", ""))
         body = det.get("body_text", "")
@@ -152,7 +172,7 @@ def cmd_import(args) -> int:
             })
         pooled = rd.get("pooledData") or {}
         strands[slug] = {
-            "name": name, "url": f"{TOOLKIT_URL}/{slug}",
+            "name": name, "url": det.get("source_url") or f"{kit['url']}/{slug0}", "toolkit": args.toolkit, "slug": slug0,
             "impact": m.group(1) if m else None, "cost_label": m.group(2) if m else None, "evidence_label": m.group(3) if m else None,
             "months": int(months.group(1).replace("−", "-").replace(" ", "")) if months else None,
             "cost": icons.get("Cost"), "evidence": icons.get("Evidence"),
@@ -168,8 +188,13 @@ def cmd_import(args) -> int:
     for slug, s in strands.items():
         prev = old["strands"].get(slug, {})
         s["entries"] = prev.get("entries", [])
+    # Keep the other toolkit's strands; replace only this toolkit's.
+    merged = {k: v for k, v in old.get("strands", {}).items() if (v.get("toolkit") or "tlt") != args.toolkit}
+    merged.update(strands)
+    exported = dict(old.get("exported", {}))
+    exported[args.toolkit] = raw.get("exported_at")
     data = {"_note": "Generated by scripts/eef_sync.py import; edit only entries.",
-            "source": TOOLKIT_URL, "exported_at": raw.get("exported_at"), "strands": dict(sorted(strands.items()))}
+            "sources": {k: v["url"] for k, v in TOOLKITS.items()}, "exported": exported, "strands": dict(sorted(merged.items()))}
     dump_json(DATA_JSON, data)
     if not ERRATA_JSON.exists():
         dump_json(ERRATA_JSON, [])
@@ -291,7 +316,8 @@ def render_strand(slug: str, s: dict, errata: list, meta: dict | None = None) ->
     title = f"{zh} · {s['name']}" if zh else s["name"]
     chips = [f"{z} {s['phase'].get(k)}" for k, z in PHASE_ZH if s["phase"].get(k)]
     chips += [f"{z} {s['subject'].get(k)}" for k, z in SUBJECT_ZH if s["subject"].get(k)]
-    info = "EEF 教与学工具包" + (f" · 更新于 {s['modified']}" if s.get("modified") else "")
+    kit = TOOLKITS[s.get("toolkit") or "tlt"]
+    info = kit["zh"] + (f" · 更新于 {s['modified']}" if s.get("modified") else "")
     if chips:
         info += " · " + " · ".join(chips)
     p = s.get("pooled") or {}
@@ -308,7 +334,7 @@ def render_strand(slug: str, s: dict, errata: list, meta: dict | None = None) ->
         fl("ci", f"{d2(p.get('lo'))} ~ {d2(p.get('hi'))}" if has else "NA"),
         fl("i2", i2),
     ]
-    lines = [f"> [!eef] [{esc(title)}]({s['url']})", f"> {info}", ">",
+    lines = [f"> [!eef{kit['meta']}] [{esc(title)}]({s['url']})", f"> {info}", ">",
              "> | imp | cost | evi | n | smd | ci | i2 |", "> | --- | --- | --- | --- | --- | --- | --- |",
              "> | " + " | ".join(cells) + " |"]
     study_err = [e for e in own if e.get("level") == "study"]
@@ -367,7 +393,7 @@ updated: 2026-10-25
 
 
 # ----------------------------------------------------------------- entries
-EEF_TOP_RE = re.compile(r"^> \[!eef\][^\n]*\n(?:>[^\n]*(?:\n|\Z))*\n*", re.M)
+EEF_TOP_RE = re.compile(r"^> \[!eef(?:\|[^\]]*)?\][^\n]*\n(?:>[^\n]*(?:\n|\Z))*\n*", re.M)
 DIVIDER = "> [!eef-divider]"
 DIVIDER_RE = re.compile(r"^> \[!eef-divider\][^\n]*(?:\n>[^\n]*)*\n*", re.M)
 METAX_TOP_RE = re.compile(r"^> \[!metax\][^\n]*\n(?:>[^\n]*(?:\n|\Z))*", re.M)
@@ -453,7 +479,7 @@ def cmd_render(args, data=None) -> int:
             continue
         text = path.read_text(encoding="utf-8")
         if slugs:
-            module = DIVIDER + "\n\n" + "\n\n".join(render_strand(s_, data["strands"][s_], errata, meta) for s_ in sorted(slugs)) + "\n"
+            module = DIVIDER + "\n\n" + "\n\n".join(render_strand(s_, data["strands"][s_], errata, meta) for s_ in sorted(slugs, key=lambda k: (k.startswith("ey:"), k))) + "\n"
             new = insert_module(text, module)
         else:
             new = remove_module(text)
@@ -545,7 +571,7 @@ def cmd_register_external(args) -> int:
             seen_eef.add(key)
             base = ce.comma_key(r["cite"])
             if base:
-                works.append((base, {"doi": norm_doi(r.get("doi")) and r["doi"] or "", "title": r.get("title") or "", "dataset": f"eef:{slug}"}))
+                works.append((base, {"doi": norm_doi(r.get("doi")) and r["doi"] or "", "title": r.get("title") or "", "dataset": ("eef-ey:" + slug[3:]) if slug.startswith("ey:") else f"eef:{slug}"}))
     mx = load_json(METAX_JSON, {"studies": {}})
     for sid, st in mx.get("studies", {}).items():
         if st.get("argument") or not st.get("title") or not st.get("authors"):
@@ -595,7 +621,9 @@ def cmd_register_external(args) -> int:
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     sub = ap.add_subparsers(dest="cmd", required=True)
-    p = sub.add_parser("import"); p.add_argument("--raw", required=True); p.set_defaults(func=cmd_import)
+    p = sub.add_parser("import"); p.add_argument("--raw", required=True)
+    p.add_argument("--toolkit", choices=sorted(TOOLKITS), default="tlt", help="tlt = Teaching and Learning Toolkit; ey = Early Years Toolkit")
+    p.set_defaults(func=cmd_import)
     p = sub.add_parser("template"); p.add_argument("--slug", default="feedback"); p.set_defaults(func=cmd_template)
     for name, fn in (("render", cmd_render), ("sync", cmd_sync)):
         p = sub.add_parser(name); p.add_argument("--check", action="store_true"); p.set_defaults(func=fn)

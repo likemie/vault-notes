@@ -648,7 +648,7 @@ def insert_module(body: str, module: str) -> str:
     lines = body.splitlines(keepends=True)
     # EEF blocks ([!eef], scripts/eef_sync.py) follow MetaX: if present, MetaX goes right before them.
     for i, l in enumerate(lines):
-        if l.startswith(("> [!eef]", "> [!eef-divider]")):
+        if l.startswith("> [!eef"):
             head = "".join(lines[:i]).rstrip("\n")
             return head + "\n\n" + module.rstrip("\n") + "\n\n" + "".join(lines[i:])
     # 实证数据组内 MetaX 排在最前：有实证表格时插在第一张实证表正前方

@@ -240,6 +240,7 @@ updated: 2026-10-21
 | 证据列表 / 支持证据并列 | `[!evidence-grid]` |
 | 元分析 / meta-analysis / 跨研究汇总 d 值 | `[!ma-table]-` |
 | Visible Learning MetaX 因素数据（脚本生成，勿手写） | `[!metax]` + `[!metax-ma]-` + `[!metax-errata]`，见 `template-metax.md` |
+| 数据组分割线（空 callout，线与标签由 CSS 绘制） | `[!metax-divider]`、`[!eef-divider]`（脚本生成）、`[!empirical-divider]`（条目自有实证表格之前） |
 | 效应量汇总表（含前测后测 CI） | `[!effect-table]-` |
 | 主要发现 + 结论合并 / 影响 / 成效 | `[!success]` |
 

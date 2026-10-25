@@ -3491,7 +3491,7 @@ def academic_prose_scan(text: str) -> str:
     scan = re.sub(r"(?P<ticks>`+)(?!`)[^\n]*?(?P=ticks)(?!`)", blank, scan)
     scan = mask_h2_sections_preserve(scan, ["来源", "Sources", "Source", "References", "参考文献"])
     # Generated data blocks (MetaX / EEF modules) are tables, not prose.
-    scan = re.sub(r"^>[ \t]*\[!(?:metax|eef)[\w-]*\][^\n]*(?:\n>[^\n]*)*", blank, scan, flags=re.M)
+    scan = re.sub(r"^>[ \t]*\[!(?:metax|eef)[\w-]*(?:\|[^\]]*)?\][^\n]*(?:\n>[^\n]*)*", blank, scan, flags=re.M)
     scan = EMBED_RE.sub(blank, scan)
     scan = re.sub(r"!\[[^\]\n]*\]\([^\n]*?\)", blank, scan)
 
