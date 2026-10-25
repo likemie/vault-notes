@@ -13109,12 +13109,13 @@
       "title": ""
     },
     "Constantine & Shankland, 2017": {
-      "doi": "",
+      "doi": "10.25091/S01013300201700010006",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/comparative-education/Mutual Learning.md",
         "wiki/facts/brazil/Bolsa Familia.md"
       ],
-      "title": ""
+      "title": "From policy transfer to mutual learning?"
     },
     "Contract Accord 14, 2020": {
       "doi": "",
@@ -15895,6 +15896,14 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md"
       ],
       "title": ""
+    },
+    "Dezalay & Garth, 2002": {
+      "doi": "10.3406/arss.2002.2847",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/chile/Chicago Boys.md"
+      ],
+      "title": "La mondialisation des guerres de palais: La restructuration du pouvoir d'État en Amérique latine, entre notables du droit et 'Chicago boys'"
     },
     "DfE, 2010": {
       "doi": "",
@@ -40289,6 +40298,14 @@
       ],
       "title": ""
     },
+    "Mawdsley, 2017": {
+      "doi": "10.1177/0309132515601776",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Mutual Learning.md"
+      ],
+      "title": "Development geography 1: Cooperation, competition and convergence between ‘North’ and ‘South’"
+    },
     "Max Eckstein, 1969": {
       "doi": "",
       "isbn": "",
@@ -40355,15 +40372,16 @@
       "title": ""
     },
     "Maxwell, 2005": {
-      "doi": "",
+      "doi": "10.1002/jid.1234",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11.md",
+        "wiki/concepts/comparative-education/Academic-Administrator Entrepreneurs.md",
         "wiki/concepts/research-methodology/Rapport in Qualitative Research.md",
         "wiki/theories/research-methodology/Maxwell's Interactive Model of Research Design.md"
       ],
-      "title": ""
+      "title": "Policy entrepreneurship for poverty reduction: Bridging research and policy in international development"
     },
     "Maxwell, 2013": {
       "doi": "",
@@ -44262,12 +44280,13 @@
       "title": ""
     },
     "Nay, 2012": {
-      "doi": "",
+      "doi": "10.1017/S0143814X1200004X",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md"
+        "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md",
+        "wiki/concepts/comparative-education/Academic-Administrator Entrepreneurs.md"
       ],
-      "title": ""
+      "title": "How do policy ideas spread among international administrations? Policy entrepreneurs and bureaucratic influence in the UN response to AIDS"
     },
     "Naylor & Bell, 2015": {
       "doi": "",
@@ -62495,7 +62514,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/persons/argentina/Atilio Borón.md"
+        "wiki/persons/argentina/Atilio Borón.md"
       ],
       "title": ""
     },
@@ -64963,6 +64982,14 @@
         "wiki/persons/us/William Foote Whyte.md"
       ],
       "title": ""
+    },
+    "Wicaksono, 2018": {
+      "doi": "10.1080/01442872.2018.1534106",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Academic-Administrator Entrepreneurs.md"
+      ],
+      "title": "The role of policy transfer in Indonesian governance: The case of academic administrative entrepreneurs"
     },
     "Wichter & Busch, 2006": {
       "doi": "",

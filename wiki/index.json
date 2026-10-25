@@ -457,6 +457,18 @@
     ]
   },
   {
+    "title": "Academic-Administrator Entrepreneurs",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Academic-Administrator Entrepreneurs.md",
+    "aliases": [
+      "学术行政企业家",
+      "学者型官员",
+      "学者官员",
+      "学术行政企业家构念",
+      "Academic-Administrative Entrepreneurs"
+    ]
+  },
+  {
     "title": "Agendas of Attention",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Agendas of Attention.md",
@@ -1321,6 +1333,17 @@
       "多边发展银行",
       "MDBs",
       "Multilateral Development Banks"
+    ]
+  },
+  {
+    "title": "Mutual Learning",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Mutual Learning.md",
+    "aliases": [
+      "互学互鉴",
+      "相互学习",
+      "发展合作中的互学互鉴",
+      "Mutual Learning in Development Cooperation"
     ]
   },
   {
@@ -31949,6 +31972,17 @@
       "智利停止 SIMCE 运动",
       "Stop SIMCE",
       "Alto al SIMCE Campaign"
+    ]
+  },
+  {
+    "title": "Chicago Boys",
+    "type": "fact",
+    "path": "wiki/facts/chile/Chicago Boys.md",
+    "aliases": [
+      "芝加哥男孩",
+      "智利芝加哥男孩",
+      "Chicago-Boys",
+      "The Chicago Boys"
     ]
   },
   {

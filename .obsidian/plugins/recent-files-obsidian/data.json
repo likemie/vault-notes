@@ -9,6 +9,10 @@
       "path": "sources/Campbell_2026_JPCC/Campbell_2026_JPCC.md"
     },
     {
+      "basename": "Argument_Bouckaert_2023_OECD",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md"
+    },
+    {
       "basename": "Literature Search",
       "path": "wiki/concepts/research-methodology/Literature Search.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Effect Size Conversion",
       "path": "wiki/methods/quantitative/Effect Size Conversion.md"
-    },
-    {
-      "basename": "Effect Size",
-      "path": "wiki/methods/quantitative/Effect Size.md"
     }
   ],
   "omittedPaths": [],

@@ -170,7 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.7265625
+    "width": 399.18359375
   },
   "right": {
     "id": "ec50234132d5cb15",
@@ -306,7 +306,11 @@
   "active": "85560c43055928d4",
   "lastOpenFiles": [
     "sources/Campbell_2026_JPCC/Campbell_2026_JPCC.md",
+    "wiki/concepts/comparative-education/Academic-Administrator Entrepreneurs.md",
     "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
+    "wiki/concepts/comparative-education/Mutual Learning.md",
+    "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md",
+    "wiki/facts/chile/Chicago Boys.md",
     "wiki/concepts/research-methodology/Literature Search.md",
     "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md",
     "output/global-evidence-education-governance/03-outline.md",
@@ -334,13 +338,9 @@
     "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md",
     "tmp/callout-design-backup-v4/idp-before/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md",
     "output/related-updates/Argument_Stone_2020_PolSoc-22753cef/batch-006/result.json",
-    "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Grek_2009_JEdPolicy.md",
-    "wiki/facts/us/A Nation at Risk 1983.md",
-    "wiki/concepts/educational-policy-reform/Class Size.md",
     "output/related-updates/Argument_Stone_2020_PolSoc-22753cef/batch-005/result.json",
     "output/related-updates/Argument_Stone_2020_PolSoc-22753cef/batch-004/result.json",
     "output/related-updates/Argument_Stone_2020_PolSoc-22753cef/batch-003/result.json",
-    "wiki/facts/global/World Development Indicators.md",
     "sources/Campbell_2026_JPCC/figures/Campbell_2026_JPCC_Fig3_Revised_Conceptual_Framework.png",
     "sources/Campbell_2026_JPCC/figures/Campbell_2026_JPCC_Fig2_Framework_For_Analysis.png",
     "sources/Campbell_2026_JPCC/figures/Campbell_2026_JPCC_Fig1_Conceptualising_Research_Evidence_Use.png",
