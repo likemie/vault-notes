@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Champ]]"
   - "[[Theory of Knowledge]]"
+  - "[[Liberation Theology]]"
   - "[[Banking Model of Education]]"
   - "[[Problem-Posing Education]]"
   - "[[Praxis]]"
@@ -91,7 +92,7 @@ updated: 2026-10-23
 ---
 
 > [!def] Critical Pedagogy
-> 批判教育学（Critical Pedagogy，亦作解放教育学）是一种将学校课程、知识传递与师生互动界定为文化政治[[Champ|场域]]的规范性教育哲学。它源于法兰克福学派[[Critical Theory|批判理论]]与[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）的解放实践，主张教育必须从学生的真实活经验出发，审视日常压迫与被沉默体验中蕴含的意识形态控制。在[[Theory of Knowledge|知识论]]层面，批判教育学坚决拒斥将学生视为空容器的[[Banking Model of Education|储蓄式教育]]（Banking Model of Education），倡导通过[[Problem-Posing Education|提问式教育]]（Problem-Posing Education）与反思实践（[[Praxis]]）唤醒批判意识（[[Conscientization|conscientização]]）；在当代数智技术背景下，它进一步拓展为抵抗算法全流程代劳的批判工具，致力于打破对[[Generative Artificial Intelligence|生成式人工智能]]的权威迷信，捍卫学生的[[Epistemic Agency|认识主体性]]与社会解放自主性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 145–148)]]; [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 5–9)]]; [[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
+> 批判教育学（Critical Pedagogy，亦作解放教育学）是一种将学校课程、知识传递与师生互动界定为文化政治[[Champ|场域]]的规范性教育哲学。它源于法兰克福学派[[Critical Theory|批判理论]]、拉美[[Liberation Theology|解放神学]]与[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）的解放实践，主张教育必须从学生的真实活经验出发，审视日常压迫与被沉默体验中蕴含的意识形态控制。在[[Theory of Knowledge|知识论]]层面，批判教育学坚决拒斥将学生视为空容器的[[Banking Model of Education|储蓄式教育]]（Banking Model of Education），倡导通过[[Problem-Posing Education|提问式教育]]（Problem-Posing Education）与反思实践（[[Praxis]]）唤醒批判意识（[[Conscientization|conscientização]]）；在当代数智技术背景下，它进一步拓展为抵抗算法全流程代劳的批判工具，致力于打破对[[Generative Artificial Intelligence|生成式人工智能]]的权威迷信，捍卫学生的[[Epistemic Agency|认识主体性]]与社会解放自主性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 145–148)]]; [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 5–9)]]; [[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]; [[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 7)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 课程与教学是不同社会阶层与文化群体争夺[[Discourse|话语]]权与合法性的文化政治场域，排除了价值中立的技术传递假定。
@@ -137,6 +138,7 @@ updated: 2026-10-23
 > - **[[Problem-Posing Education|提问式教育]]取代[[Banking Model of Education|储蓄式教育]]模式（Problem-Posing vs. Banking）** 坚决废黜自上而下单向灌输的知识存款模式，建立师生平等的对话机制，在共同面对真实问题的生成性探究中[[Constructed Knowledge|建构知识]]。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]]
 > - **可能性的语言与文化政治[[Champ|场域]]（Language of Possibility & Cultural Politics）** 视学校为不同[[Discourse|话语]]争夺合法性的政治场域（[[Champ|场域]]），以赋权与希望的可能性的语言，取代消极被动的支配性叙事。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 147–148)]]
 > - **[[Alien Intelligence|异己智能]]定位与思维全外显防御（Alien Intelligence & Showing Steps）** 将批判教育学的对话解放精神投射于智能时代：拒绝把 AI 视为共情伙伴，将其明确界定为缺乏人类具身生活与道德意图的异己智能，通过强制外显思考过程构筑认识防御。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
+> - **[[Liberation Theology|解放神学]]的教牧根基与代表性知识反哺（Preferential Option & Representational Knowledge）** 批判教育学深植于拉美解放神学“对穷人的优先选择”理念，依托基层教会识字网络培育被压迫者的觉醒意识；其依托道德连带建立的[[Representational Knowledge|代表性知识]]，打破了北方实证技术官僚对专业专长的垄断，反向启发了欧美主流社会的教育与治理变革。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 7, 12)]]
 > - **跨国宏观维度的全球化批判与结构再生产透视（Global Reproduction & Liberation Praxis）** 吸收[[Henry Giroux|吉鲁]]（Henry Giroux）与[[Paulo Freire|弗莱雷]]的批判思想，将批判教育学投射于跨国教育治理与比较研究：揭示核心国家通过附带条件的跨国援助推行资本主义制度强制再生产，倡导以主权自决与人道主义解放实践（praxis of liberation）取代盲目追求西方资本主义现代性。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
 
 > [!logic-map]- 批判教育学的要素联动与时代延伸

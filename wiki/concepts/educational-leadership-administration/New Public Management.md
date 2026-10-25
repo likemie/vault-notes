@@ -96,6 +96,7 @@ related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Verger_2019_Discourse]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
 confidence: high
 status: active
 created: 2026-05-02
@@ -158,6 +159,7 @@ updated: 2026-10-22
 > - **准市场竞争与供给多元化** 推动学校、大学与研究机构为生源与科研经费展开竞争，引入多元民营与社会供给主体。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 96–97)]]
 > - **管理主义问责替代专业自主** 要求机构领导者对运行效率承担直接责任，使专业人员身份演变为国家改革政令的执行交付者。[[Argument_Eacott_2011_JEAH|(Eacott, 2011, p. 52)]]
 > - **[[Public-Private Partnership|公私合作伙伴关系]]与广泛外包** 促进公共机构与私营资本、商业中介及外部咨询公司的深度整合，形成庞大的服务外包生态。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
+> - **跨国管理咨询巨头的知识商品化与全球扩散中介** 以麦肯锡（McKinsey）、普华永道（PwC）与埃森哲（Accenture）为代表的英美跨国管理咨询公司，通过全球分支网络将新公共管理的绩效审计、外包评估与私有化重构打包为标准化国际商品，在跨国治理、教育改革与公共部门中广泛推销，充当了新公共管理理念向全球渗透的关键商业推动者。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 8; citing Morgan et al., 2019)]]
 > - **组织[[Cognitive Deskilling|去技能化]]与“青蛙视角”** 长期将核心战略与评估职能[[Externalization|外部化]]，剥离了公共部门内生解决问题的实践机会，导致公共管理者陷入只看眼前微观指标的认知局限。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–792)]]
 
 > [!logic-map]- 要素关系
@@ -340,5 +342,24 @@ updated: 2026-10-22
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 探讨[[Internationalization of Higher Education|高等教育国际化]]中 NPM 驱动的留学生市场化依赖与企业化转型。
 > - [[Argument_Eacott_2011_JEAH|Eacott (2011)]] — 批判领导力培训项目中管理主义能力框架对校长专业身份的规训。
 > - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 比较英德高等教育中 NPM 绩效评估与[[Research Excellence Framework|研究卓越框架]]对资源分层的强化。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 结合[[OECD|经合组织]]1995年报告剖析新公共管理如何借“良治”修辞将教育治理从目的辩论置换为比较[[Performance Indicators|绩效指标]]与远处掌舵。
+> - **[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]]** — 结合[[OECD|经合组织]]1995年报告剖析新公共管理如何借“良治”修辞将教育治理从目的辩论置换为比较[[Performance Indicators|绩效指标]]与远处掌舵。
+> - **[[Argument_Stone_2020_PolSoc|Stone et al. (2020, p. 8)]]** — 揭示英美跨国管理咨询巨头（麦肯锡、普华永道）如何将新公共管理技术包装为全球通用商品，充当跨国治理与公共教育改革商业推销中介。
+
+---
+
+## 来源
+
+- [[Argument_Møller_2017_EERJ]]
+- [[Argument_Helgetun_2022_JEdPolicy]]
+- [[Argument_Kattel_Mazzucato_2018_ICC]]
+- [[Argument_Amos_2022_Springer]]
+- [[Argument_Kickert_1995_Governance]]
+- [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]
+- [[Argument_Rizvi_2022_Springer]]
+- [[Argument_Eacott_2011_JEAH]]
+- [[Argument_Schulze-Cleven_2017_HE]]
+- [[Argument_Mazzucato_2018_ICC]]
+- [[Argument_Verger_2019_Discourse]]
+- [[Argument_Legrand_2012_PolStud]]
+- [[Argument_Stone_2020_PolSoc]]
 

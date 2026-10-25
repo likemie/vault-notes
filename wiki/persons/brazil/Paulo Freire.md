@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Conscientization]]"
+  - "[[Liberation Theology]]"
   - "[[Praxis]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
@@ -82,7 +83,7 @@ updated: 2026-10-23
 
 > [!person-profile] 人物档案
 > - **身份位置** 巴西教育家、哲学家，[[Critical Pedagogy|批判教育学]]奠基人，20 世纪最具世界声誉的平民教育与解放哲学思想家之一。
-> - **核心角色** 在解放哲学与教育政治学网络中开创提问式对话模型，终结教育价值中立神话；在当代知识地缘政治与国际发展合作中，充当全球南方[[Representational Knowledge|代表性知识]]向西方主流科层范式反向输出的标志性知识权威。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 11–13)]]
+> - **核心角色** 在解放哲学与教育政治学网络中开创提问式对话模型，终结教育价值中立神话；深度融合[[Liberation Theology|解放神学]]“对穷人的优先选择”理念与基层教会基体实践，在当代知识地缘政治与国际发展合作中，充当全球南方[[Representational Knowledge|代表性知识]]向西方主流科层范式反向输出的标志性知识权威。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 7, 11–13)]]
 > - **代表贡献** 奠定[[Critical Pedagogy|批判教育学]]理论体系，提出[[Banking Model of Education|储蓄式教育]]批判、[[Problem-Posing Education|提问式教育]]模型与[[Conscientization|批判意识觉醒]]机制。
 
 > [!citation-card] 斯通论弗莱雷代表性知识对全球主流范式的反向输出
@@ -156,6 +157,7 @@ updated: 2026-10-23
 ---
 
 > [!person-network] 关系网络
+> - **思想渊源与社会教牧背景** [[Liberation Theology|解放神学]]（古斯塔沃·古铁雷斯、埃尔德·卡马拉）— 确立“对穷人的优先选择”与基层教会基体（CEBs）网络，为弗莱雷平民识字圈与意识化觉醒提供了教牧实践母体。
 > - **合作学者** 伊拉·肖尔（Ira Shor）— 共同合著《解放教育学》（1987），推动批判教育学在高等教育课堂的落地。
 > - **思想继承者** [[Henry Giroux|亨利·吉鲁]]（Henry Giroux）、[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple）、彼得·麦克拉伦（Peter McLaren）— 继承其文化政治与反思实践脉络，拓展当代批判教育学与课程论。
 > - **批评者与反思者** 阿金·阿德科亚（Akin Adekoya）、[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 批评其关于暴力从未由弱者发起的二元预设，警惕道德屈尊。

@@ -40,6 +40,7 @@ related_facts:
   - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -96,6 +97,11 @@ updated: 2026-10-22
 > [!claim] 经验汲取的触发条件：内部危机优先于外部吸引
 > 罗斯的核心论点之一是：政策学习从外部寻找经验的冲动，往往由国内政策危机、公众对现行政策的强烈不满或日益迫切的政策失败感所触发，而非单纯来自对他国成功案例的仰慕。这意味着"外部参照"本质上是一种主权国家自主建构的政治合法化工具，而非被动的知识输入。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 
+> [!claim] 经验汲取在微观科层与发展情境下的延伸与边界
+> 戴安·斯通等人拓展并审视了罗斯的经验汲取构念在跨国流动中的多维表现：
+> - **微观行政科层中的日常经验汲取** 在重大立法与政治倡议之外，政府内部的统计分析师、法务顾问与议会研究员通过日常比对跨国规章条例与实操案例，在操作细节上稳步推进规程微调，构成了政策经验汲取最普遍的日常机制。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 6)]]
+> - **非对称权力情境下的理论适用边界** 罗斯经典经验汲取模型预设了主权国家具备充分行政能力开展自主理性的方案搜寻与自由采择；但在全球南方与低收入国家情境下，国家能力的局限与多边援助机构的资金绑定，常使经验汲取异化为对外部标准化模板的被动依附。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 4, 11–12)]]
+
 ---
 
 > [!influence-path] 影响路径
@@ -120,3 +126,10 @@ updated: 2026-10-22
 > | [[Externalization]] | 概念 | Steiner-Khamsi 在 Rose 框架基础上发展的"外化"概念，揭示主权国家主动建构外部参照的政治逻辑。 |
 > | [[Transfer Translation Transformation]] | 概念 | [[Nikolas Rose\|罗斯]]的类型学是理解政策"转移—转译—转化"全过程的理论前驱。 |
 > | [[Gita Steiner-Khamsi]] | 人物 | 比较教育领域将 Rose 经验汲取理论批判性引入并发展最深入的学者。 |
+
+---
+
+## 来源
+
+- [[Argument_Steiner-Khamsi_2024_CE]]
+- [[Argument_Stone_2020_PolSoc]]
