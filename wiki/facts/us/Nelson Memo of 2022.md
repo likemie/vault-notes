@@ -15,7 +15,7 @@ fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
-issuing_organization: "White House Office of Science and Technology Policy (OSTP)"
+issuing_organization: "[[Office of Science and Technology Policy|White House Office of Science and Technology Policy (OSTP)]]"
 tags:
   - "region/us"
   - "level/higher-education"

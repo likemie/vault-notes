@@ -11,7 +11,7 @@ argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#e5e7eb"
-issuing_organization: "Australian Council for Educational Research"
+issuing_organization: "[[Australian Council for Educational Research]]"
 authors:
   - "[[John Hattie|Hattie, J.]]"
 source_language: en
@@ -24,7 +24,7 @@ citation_aliases:
 isbn: ""
 status: active
 created: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-26
 tags:
   - theme/accountability
   - theme/formative-assessment

@@ -15,7 +15,7 @@ fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
-issuing_organization: "挪威教育质量保障局（NOKUT）"
+issuing_organization: "[[Norwegian Agency for Quality Assurance in Education|挪威教育质量保障局（NOKUT）]]"
 tags:
   - policy/higher-education
   - region/norway
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

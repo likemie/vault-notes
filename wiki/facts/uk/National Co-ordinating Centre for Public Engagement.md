@@ -14,7 +14,7 @@ fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
-issuing_organization: Higher Education Funding Council for England, Research Councils UK, Wellcome Trust, University of Bristol, University of the West of England
+issuing_organization: "[[Higher Education Funding Council for England]], Research Councils UK, Wellcome Trust, University of Bristol, University of the West of England"
 tags:
   - region/uk
   - level/higher-education
@@ -35,7 +35,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-16
+updated: 2026-10-26
 ---
 
 ---

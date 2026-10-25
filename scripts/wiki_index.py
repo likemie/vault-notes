@@ -260,6 +260,9 @@ def third_folder_from_path(path: Path, entry_type: str) -> str:
     return parts[2]
 
 
+from org_registry import ORG_REGISTRY_JSON, render_registry, strip_wikilinks  # noqa: E402
+
+
 def third_level(entry: dict[str, Any]) -> str:
     typ = entry["type"]
     second = entry.get("second_level", "")
@@ -320,7 +323,7 @@ def collect_entries() -> list[dict[str, Any]]:
             # These are only used to generate index.md group headings.
             "journal": str(fm.get("journal") or "").strip(),
             "book_title": str(fm.get("book_title") or "").strip(),
-            "issuing_organization": str(fm.get("issuing_organization") or "").strip(),
+            "issuing_organization": strip_wikilinks(str(fm.get("issuing_organization") or "").strip()),
             "nationality": str(fm.get("nationality") or "").strip(),
             "created": str(fm.get("created") or "").strip(),
             "updated": str(fm.get("updated") or "").strip(),
@@ -360,6 +363,7 @@ def write_json(entries: list[dict[str, Any]], *, dry_run: bool = False, check: b
     - Provide the file path if it needs to open the entry.
     - Include aliases for matching Chinese names / abbreviations.
     - Include type so wiki_relations.py can classify links safely.
+    - Include subtype for Fact entries so organization links can be resolved.
 
     Do not store tags, status, journal, book_title, citation fields, sources, or related_* here.
     Citation metadata is maintained separately under citation/.
@@ -373,6 +377,10 @@ def write_json(entries: list[dict[str, Any]], *, dry_run: bool = False, check: b
         }
         if e.get("aliases"):
             item["aliases"] = e["aliases"]
+        # Fact subtype lets wiki_linker.py link YAML issuing_organization to
+        # Fact(subtype=organization) entries, as authors link to Person entries.
+        if e["type"] == "fact" and e.get("subtype"):
+            item["subtype"] = e["subtype"]
         compact.append(item)
 
     return write_if_changed(
@@ -645,6 +653,9 @@ def main() -> int:
     if write_markdown(entries, dry_run=args.dry_run, check=args.check):
         changed.append(INDEX_MD)
     changed.extend(write_local_indexes(entries, dry_run=args.dry_run, check=args.check))
+    # Organization registry for issuing_organization links (keeps editable variants).
+    if write_if_changed(ORG_REGISTRY_JSON, render_registry(entries), dry_run=args.dry_run, check=args.check):
+        changed.append(ORG_REGISTRY_JSON)
 
     action = "Would update" if args.dry_run or args.check else "Generated"
     for path in changed:

@@ -29,7 +29,7 @@ citation_aliases:
   - "Custer et al., 2021"
   - "Custer et al. (2021)"
 isbn: ""
-issuing_organization: AidData at William & Mary
+issuing_organization: "[[AidData|AidData at William & Mary]]"
 publication_place: Williamsburg, VA
 publisher: AidData at William & Mary
 tags:
@@ -73,7 +73,7 @@ related_facts:
   - "[[China-Pakistan Economic Corridor]]"
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 ---
 

@@ -17,7 +17,7 @@ fact_related_color: "#dcfce7"
 org_type: "intermediary"
 headquarters: "Sydney, Australia"
 established: "2014"
-issuing_organization: Social Ventures Australia
+issuing_organization: "[[Social Ventures Australia]]"
 tags:
   - policy/evidence-based
   - region/australia
@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

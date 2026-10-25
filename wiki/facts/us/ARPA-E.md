@@ -18,7 +18,7 @@ fact_related_color: "#dcfce7"
 org_type: 联邦前沿能源科技颠覆性资助机构
 headquarters: 美国华盛顿特区（Washington, D.C.）
 established: "2009"
-issuing_organization: "美国能源部"
+issuing_organization: "[[Department of Energy|美国能源部]]"
 tags:
   - org/government-agency
   - theme/technology-innovation
@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

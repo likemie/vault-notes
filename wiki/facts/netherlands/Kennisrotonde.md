@@ -17,7 +17,7 @@ fact_related_color: "#dcfce7"
 org_type: "国家教育研究所下设知识中介门户"
 headquarters: "荷兰乌得勒支（Utrecht）"
 established: "2015"
-issuing_organization: Netherlands Initiative for Education Research
+issuing_organization: "[[Netherlands Initiative for Education Research]]"
 tags:
   - region/netherlands
   - theme/knowledge-brokerage
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

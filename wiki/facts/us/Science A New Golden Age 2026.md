@@ -15,7 +15,7 @@ fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
-issuing_organization: Office of Science and Technology Policy
+issuing_organization: "[[Office of Science and Technology Policy]]"
 period: 2026年7月21日呈交发布
 tags:
   - region/us
@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

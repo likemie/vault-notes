@@ -15,7 +15,7 @@ fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "National Science Foundation"
+issuing_organization: "[[National Science Foundation]]"
 tags:
   - fact/policy
   - region/us
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

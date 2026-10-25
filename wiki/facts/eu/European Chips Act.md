@@ -15,7 +15,7 @@ fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "European Union"
+issuing_organization: "[[EU|European Union]]"
 tags:
   - fact/policy
   - region/eu
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

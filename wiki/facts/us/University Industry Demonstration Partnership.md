@@ -17,7 +17,7 @@ fact_related_color: "#dcfce7"
 org_type: 产学合作专业非营利组织与实践者联盟
 headquarters: 美国南卡罗来纳州哥伦比亚（Columbia, South Carolina）
 established: "2004"
-issuing_organization: "美国国家科学院（创设发起）"
+issuing_organization: "[[National Academy of Sciences|美国国家科学院（创设发起）]]"
 tags:
   - org/non-profit
   - theme/university-industry-collaboration
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

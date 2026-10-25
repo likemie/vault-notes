@@ -16,7 +16,7 @@ fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
-issuing_organization: "马克斯·普朗克学会"
+issuing_organization: "[[Max Planck Society|马克斯·普朗克学会]]"
 tags:
   - organization/research-institute
   - region/germany
@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-21
+updated: 2026-10-26
 ---
 
 ---

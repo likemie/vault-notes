@@ -13,7 +13,7 @@ fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
-issuing_organization: Institute of Education Sciences (IES)
+issuing_organization: "[[Institute of Education Sciences|Institute of Education Sciences (IES)]]"
 tags:
   - region/us
   - theme/research-use
@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-20
+updated: 2026-10-26
 ---
 
 ---

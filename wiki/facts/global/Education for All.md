@@ -15,7 +15,7 @@ fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
-issuing_organization: "UNESCO, World Bank, UNICEF, UNDP"
+issuing_organization: "[[UNESCO]], [[World Bank]], [[UNICEF]], UNDP"
 tags:
   - fact/policy
   - field/comparative-education
@@ -70,13 +70,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1990 年 3 月由[[UNESCO\|联合国教科文组织]]（UNESCO）、[[World Bank\|世界银行]]（World Bank）、[[UNICEF\|联合国儿童基金会]]（UNICEF）与联合国开发计划署（UNDP）联合在泰国宗滴恩（Jomtien）世界全民教育大会上正式发布《世界全民教育宣言：满足基本学习需求》（*World Declaration on Education for All: Meeting Basic Learning Needs*）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **发布时间 / 发布主体** 1990 年 3 月由[[UNESCO\|联合国教科文组织]]（UNESCO）、[[World Bank\|世界银行]]（World Bank）、[[UNICEF\|联合国儿童基金会]]（UNICEF）与联合国开发计划署（UNDP）联合在泰国宗滴恩（Jomtien）世界全民教育大会上正式发布《世界全民教育宣言：满足基本学习需求》（*World Declaration on Education for All: Meeting Basic Learning Needs*）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 541)]]
 > - **适用地区 / 对象** 全球联合国成员国，重点覆盖撒哈拉以南非洲、南亚与拉丁美洲等全球南方发展中国家。
 > - **问题背景** 经历 1980 年代第三世界结构调整与严重债务危机，全球逾 1 亿学龄儿童流落街头或失学，近 10 亿成年人处于文盲状态；伴随冷战对抗降温，国际社会迫切需要跨越意识形态对抗，就基础教育权利凝聚全球共识。
 > - **制度位置** 战后[[International Education\|国际教育]]发展史上最具标志性的制度分水岭；它不仅促成国际受教育权从抽象伦理倡导向具体量化行动的转向，更标志着全球南方国家首次被统一纳入多边国际组织的量化指标规制网络，直接孕育了后续《达喀尔行动纲领》（2000）、联合国千年发展目标（MDGs）与 [[UN Sustainable Development Goals\|SDG 4]] 监测框架。
@@ -85,7 +85,7 @@ updated: 2026-10-23
 ---
 
 > [!claim] 政策核心
-> 《世界全民教育宣言》确立了基础教育作为不可剥夺之基本人权的全球共识，主张突破传统正规学校系统的狭隘视野，致力于满足全体儿童、青年与成人的“基本学习需求”；同时确立了以[[UNESCO\|联合国教科文组织]]负责规范协调与指标统计、[[World Bank\|世界银行]]掌握放贷条件与财政执行的跨国多边治理架构。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> 《世界全民教育宣言》确立了基础教育作为不可剥夺之基本人权的全球共识，主张突破传统正规学校系统的狭隘视野，致力于满足全体儿童、青年与成人的“基本学习需求”；同时确立了以[[UNESCO\|联合国教科文组织]]负责规范协调与指标统计、[[World Bank\|世界银行]]掌握放贷条件与财政执行的跨国多边治理架构。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 541)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 承诺到 2000 年（后在达喀尔峰会延至 2015 年）实现初等义务教育全面普及（Universal Primary Education，UPE）、大幅削减成人文盲率、彻底消除女童基础教育性别不平等，并显著改善可测量的学习成效。

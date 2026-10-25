@@ -15,7 +15,7 @@ fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "Council of Chief State School Officers"
+issuing_organization: "[[Council of Chief State School Officers]]"
 tags:
   - policy/teacher-education
   - region/us
@@ -34,14 +34,14 @@ related_instruments:
   - "[[Test of Teaching Knowledge]]"
 related_persons: []
 related_facts:
-  - "[[Council of Chief State School Officers]]"
+  - "Council of Chief State School Officers"
   - "[[Educational Testing Service]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

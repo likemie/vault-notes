@@ -21,7 +21,7 @@ citation_aliases:
   - "World Bank Group, 2019"
   - "World Bank Group (2019)"
 isbn: ""
-issuing_organization: "World Bank"
+issuing_organization: "[[World Bank]]"
 tags:
   - theme/classroom-observation
   - theme/teaching-quality
@@ -85,7 +85,7 @@ sources:
   - "[[sources/WorldBank_2019_Teach/WorldBank_2019_Teach|WorldBank_2019_Teach]]"
 status: active
 created: 2026-10-15
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 ---
 

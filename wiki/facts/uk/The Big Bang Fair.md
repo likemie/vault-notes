@@ -15,7 +15,7 @@ fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
-issuing_organization: EngineeringUK
+issuing_organization: "[[EngineeringUK]]"
 tags:
   - region/uk
   - theme/stem-education
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

@@ -13,7 +13,7 @@ fact_related_count: 43
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "National Science and Technology Council"
+issuing_organization: "[[National Science and Technology Council]]"
 tags:
   - policy/national-strategy
   - theme/semiconductor
@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

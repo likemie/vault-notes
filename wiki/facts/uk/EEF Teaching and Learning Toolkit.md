@@ -14,7 +14,7 @@ fact_related_count: 75
 fact_related_level: 7
 fact_related_stars: "💎💎⭐"
 fact_related_color: "#fecdd3"
-issuing_organization: Education Endowment Foundation
+issuing_organization: "[[Education Endowment Foundation]]"
 tags:
   - fact/policy
   - eef

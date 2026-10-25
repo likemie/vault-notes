@@ -18,7 +18,7 @@ fact_related_color: "#dcfce7"
 org_type: 联邦资助的微电子原型制造与公共科研基础设施平台
 headquarters: 美国加利福尼亚州玛丽安德尔湾（Marina del Rey, California）
 established: "1981"
-issuing_organization: "DARPA / 南加州大学信息科学研究所（USC/ISI）"
+issuing_organization: "[[DARPA]] / 南加州大学信息科学研究所（USC/ISI）"
 tags:
   - org/research-infrastructure
   - theme/semiconductor
@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

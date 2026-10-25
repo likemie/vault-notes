@@ -16,7 +16,7 @@ fact_related_count: 40
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "National Governors Association & Council of Chief State School Officers"
+issuing_organization: "[[National Governors Association]] & [[Council of Chief State School Officers]]"
 tags:
   - policy/us-standards
   - theme/curriculum-reform
@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-24
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

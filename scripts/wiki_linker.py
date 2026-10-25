@@ -19,6 +19,9 @@ from pathlib import Path
 from typing import Any, Iterable
 
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import org_registry  # noqa: E402
+
 ROOT = Path(__file__).resolve().parents[1]
 WIKI_DIR = ROOT / "wiki"
 INDEX_JSON = WIKI_DIR / "index.json"
@@ -46,6 +49,7 @@ URL_RE = re.compile(r"https?://\S+|doi:\s*\S+|10\.\d{4,9}/\S+", re.IGNORECASE)
 HTML_TAG_RE = re.compile(r"<[^>]+>")
 SOURCE_SECTION_NAMES = {"来源", "sources", "source"}
 YAML_AUTHOR_LINK_KEYS = {"authors", "editors"}
+YAML_ORGANIZATION_LINK_KEYS = {"issuing_organization"}
 CITATION_AUTHOR_PATTERN = r"[A-Z\u3400-\u9fff][A-Za-zÀ-ÖØ-öø-ÿ\u3400-\u9fff0-9'’ .&和等-]*(?:\s+(?:&|and)\s+[A-Z][A-Za-zÀ-ÖØ-öø-ÿ0-9'’ .-]+|\s+et\s+al\.)?"
 CITATION_PAREN_GROUP_RE = re.compile(r"(?<!\[)\([^()\n]*\b\d{4}[a-z]?[^()\n]*\)")
 CITATION_FULLWIDTH_PAREN_GROUP_RE = re.compile(r"（[^（）\n]*\b\d{4}[a-z]?[^（）\n]*）")
@@ -385,6 +389,7 @@ class Entry:
     path: str
     aliases: tuple[str, ...]
     type: str = ""
+    subtype: str = ""
 
 
 def is_argument_entry(entry: Entry | None) -> bool:
@@ -498,8 +503,9 @@ def load_entries() -> list[Entry]:
         path = str(item.get("path") or "").strip()
         aliases = tuple(str(x).strip() for x in item.get("aliases", []) if str(x).strip())
         entry_type = str(item.get("type") or "").strip()
+        subtype = str(item.get("subtype") or "").strip()
         if title and path:
-            entries.append(Entry(title=title, path=path, aliases=aliases, type=entry_type))
+            entries.append(Entry(title=title, path=path, aliases=aliases, type=entry_type, subtype=subtype))
     return entries
 
 
@@ -1366,6 +1372,76 @@ def link_yaml_author_fields(fm: str, author_map: dict[str, str]) -> tuple[str, i
     return "".join(out), additions
 
 
+# --- Organization links in YAML `issuing_organization` -----------------------
+#
+# Like `authors` -> Person, `issuing_organization` -> Fact(subtype=organization).
+# Names come from organization titles, aliases and the editable `variants` in
+# wiki/organizations.json (see scripts/org_registry.py). The field stays a YAML
+# scalar; matched names are linked inside it:
+#
+#   Education Endowment Foundation        -> [[Education Endowment Foundation]]
+#   爱尔兰高等教育局（HEA）               -> [[Higher Education Authority|爱尔兰高等教育局（HEA）]]
+#   World Bank & UNESCO                   -> [[World Bank]] & [[UNESCO]]
+
+
+def make_yaml_organization_term_map(entries: list[Entry]) -> dict[str, str]:
+    """Return normalized organization names to Fact(subtype=organization) targets."""
+    return org_registry.build_name_map(
+        ((e.title, e.aliases) for e in entries if e.type == "fact" and e.subtype == "organization"),
+        org_registry.load_variants(),
+    )
+
+
+def link_yaml_organization_value(value: str, org_map: dict[str, str]) -> tuple[str, int]:
+    """Link one issuing_organization scalar; org_map should exclude the current entry."""
+    raw = value.strip()
+    if not raw or raw in {"[]", "null", "~", '""', "''"}:
+        return value, 0
+    if "[[" in raw:
+        return value, 0
+    if " #" in raw or raw.startswith(("{", "[", "|", ">")):
+        return value, 0
+    display = strip_yaml_scalar(raw)
+    parts = org_registry.resolve(display, org_map)
+    count = sum(1 for _, target, _ in parts if target)
+    if not count:
+        return value, 0
+    out: list[str] = []
+    for piece, target, _is_sep in parts:
+        if not target:
+            out.append(piece)
+            continue
+        lead = piece[: len(piece) - len(piece.lstrip())]
+        trail = piece[len(piece.rstrip()):]
+        out.append(lead + link_text(piece.strip(), target) + trail)
+    return yaml_quote("".join(out)), count
+
+
+def link_yaml_organization_fields(fm: str, org_map: dict[str, str], current_title: str = "") -> tuple[str, int]:
+    """Link organization names in YAML `issuing_organization` (scalar) only.
+
+    An organization entry never links to itself (e.g. the EEF page whose
+    issuing_organization is Education Endowment Foundation).
+    """
+    if not fm or not org_map:
+        return fm, 0
+    if current_title:
+        org_map = {k: v for k, v in org_map.items() if v != current_title}
+    lines = fm.splitlines(keepends=True)
+    additions = 0
+    for i, line in enumerate(lines):
+        line_no_nl = line.rstrip("\r\n")
+        newline = line[len(line_no_nl):]
+        m = re.match(r"^(\s*)([A-Za-z_][A-Za-z0-9_-]*):(.*)$", line_no_nl)
+        if not m or m.group(2) not in YAML_ORGANIZATION_LINK_KEYS:
+            continue
+        indent, key, rest = m.groups()
+        linked, count = link_yaml_organization_value(rest, org_map)
+        if count:
+            lines[i] = f"{indent}{key}: {linked}" + newline
+            additions += count
+    return "".join(lines), additions
+
 def link_plain_text(
     chunk: str,
     terms: list[Term],
@@ -1672,6 +1748,7 @@ def sync_file(
     citation_stats: dict[str, int] | None = None,
     missing_citations: list[str] | None = None,
     exclusions: list[dict[str, str]] | None = None,
+    org_map: dict[str, str] | None = None,
 ) -> tuple[bool, int, int, int, int]:
     original = path.read_text(encoding="utf-8", errors="ignore")
     working = original
@@ -1694,6 +1771,8 @@ def sync_file(
         removed = 0
     else:
         linked_fm, yaml_added = link_yaml_author_fields(fm, author_map)
+        linked_fm, org_added = link_yaml_organization_fields(linked_fm, org_map or {}, current_title)
+        yaml_added += org_added
         original_link_count = len(WIKILINK_RE.findall(body)) if exclusions else 0
         body, excluded_spans = mask_link_exceptions(body, exclusions or [],
                                                    entries_by_title.values(), valid_boundary)
@@ -2257,7 +2336,7 @@ _SYNC_SHARED: tuple = ()
 def _sync_one(path: Path, shared: tuple, citation_stats: dict[str, int], missing: list[str]):
     (terms, term_matcher, source_pattern, source_links, entries_by_title, path_to_title,
      author_map, person_prefix_registry, dry_run, tables_only, citation_lookup,
-     citation_targets, exclusions) = shared
+     citation_targets, exclusions, org_map) = shared
     return sync_file(
         path, terms, term_matcher, source_pattern, source_links, entries_by_title,
         path_to_title, author_map, person_prefix_registry, dry_run,
@@ -2265,6 +2344,7 @@ def _sync_one(path: Path, shared: tuple, citation_stats: dict[str, int], missing
         citation_targets=citation_targets, citation_stats=citation_stats,
         missing_citations=missing,
         exclusions=exclusions.get(path.relative_to(ROOT).as_posix(), []),
+        org_map=org_map,
     )
 
 
@@ -2341,6 +2421,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
     term_matcher = TermMatcher(terms)
     person_prefix_registry = build_person_prefix_registry(terms)
     author_map = make_yaml_author_term_map(entries)
+    org_map = make_yaml_organization_term_map(entries)
     for source in source_entries:
         entries_by_title.setdefault(source.title, source)
     source_pattern = make_source_pattern({source.title for source in source_entries})
@@ -2349,7 +2430,7 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
     stats = LinkStats()
     shared = (terms, term_matcher, source_pattern, source_links, entries_by_title, path_to_title,
               author_map, person_prefix_registry, dry_run, tables_only, citation_lookup,
-              citation_targets, exclusions)
+              citation_targets, exclusions, org_map)
     for path, result in sync_files(files, shared, citation_stats, missing_citations):
         changed, added, removed, table_pipes_escaped, heading_styles_normalized = result
         if changed:
@@ -2627,7 +2708,7 @@ def build_parser() -> argparse.ArgumentParser:
     sync = sub.add_parser("sync", help="Clean invalid links and add missing wikilinks.")
     modes = sync.add_mutually_exclusive_group()
     modes.add_argument("--citations-only", action="store_true", help="Only link APA citations; no ordinary wikilinks or YAML author changes.")
-    modes.add_argument("--wiki-only", action="store_true", help="Only synchronize ordinary wikilinks and YAML authors/editors.")
+    modes.add_argument("--wiki-only", action="store_true", help="Only synchronize ordinary wikilinks, YAML authors/editors and issuing_organization.")
     sync.add_argument("--fix-display", action="store_true", help="Fix citation display year suffixes using the current citation index.")
     sync.add_argument("paths", nargs="*", help="Optional file or directory paths relative to vault root.")
     sync.add_argument("--dry-run", action="store_true", help="Show changes without writing files.")

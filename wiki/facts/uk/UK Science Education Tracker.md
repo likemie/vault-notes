@@ -15,7 +15,7 @@ fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
-issuing_organization: The Royal Society, EngineeringUK
+issuing_organization: "The Royal Society, [[EngineeringUK]]"
 tags:
   - region/uk
   - theme/stem-education
@@ -35,7 +35,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

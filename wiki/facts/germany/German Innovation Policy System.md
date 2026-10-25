@@ -16,7 +16,7 @@ fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
-issuing_organization: "Bundesministerium für Bildung und Forschung (BMBF)"
+issuing_organization: "[[Federal Ministry of Education and Research|Bundesministerium für Bildung und Forschung (BMBF)]]"
 tags:
   - region/germany
   - policy/innovation
@@ -35,7 +35,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 背景

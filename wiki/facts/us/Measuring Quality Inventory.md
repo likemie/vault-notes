@@ -15,7 +15,7 @@ fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
-issuing_organization: AIR, ACE, NILOA
+issuing_organization: "AIR, [[American Council on Education|ACE]], NILOA"
 tags:
   - theme/assessment-methods
   - theme/quality-assurance
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

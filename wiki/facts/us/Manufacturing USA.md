@@ -19,7 +19,7 @@ fact_related_color: "#dcfce7"
 org_type: 联邦跨部门制造业公私伙伴创新网络（PPP）
 headquarters: 美国马里兰州盖瑟斯堡（NIST AMNPO 协调办公室）及全美各研究所专属基地
 established: "2014"
-issuing_organization: "美国商务部（NIST）/ 美国国防部 / 美国能源部"
+issuing_organization: "美国商务部（NIST）/ 美国国防部 / [[Department of Energy|美国能源部]]"
 tags:
   - region/us
   - policy/innovation-policy
@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

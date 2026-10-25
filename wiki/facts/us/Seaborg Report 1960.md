@@ -16,7 +16,7 @@ fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: 美国总统科学顾问委员会（President's Science Advisory Committee, PSAC）
+issuing_organization: "[[President's Science Advisory Committee|美国总统科学顾问委员会（President's Science Advisory Committee, PSAC）]]"
 tags:
   - theme/science-policy
   - region/us
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

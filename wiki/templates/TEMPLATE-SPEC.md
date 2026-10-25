@@ -70,6 +70,7 @@ updated: 2026-10-15
 - 著作、教材、论文集及论文集章节填写 `publication_place` 和 `publisher`；完整 citation 的出版项写作 `Place: Publisher.`，如 `北京: 高等教育出版社.`。
 - `related_*`、Argument YAML `sources`、source record 的 `extracted_to` 都是生成字段，不手动维护。
 - `part_of` 若引用条目，必须写成带引号的 wikilink。
+- `issuing_organization`（Fact policy 与报告、政策文件类 Argument）保持单个字符串，照常写机构名称；补链方式与 `authors` 链 Person 相同。机构登记表 `wiki/organizations.json` 由 `wiki_index.py` 生成：`organizations` 列出全部 `subtype: organization` 的 Fact 及其可匹配名称（title、aliases、variants）；`unresolved` 列出尚未匹配任何机构的写法及 `seen_in`；`variants` 可手动编辑，把某种写法映射到已有机构条目 title（如 `"White House Office of Science and Technology Policy": "Office of Science and Technology Policy"`），重建时保留；目标不是机构条目的写法列入 `invalid_variants`。`wiki_linker.py` 据此把完全一致的机构名补成带引号的 wikilink，如 `"[[Education Endowment Foundation]]"`、`"[[Higher Education Authority|爱尔兰高等教育局（HEA）]]"`。多个机构用 `, `、`;`、` & `、` / ` 或“与”分隔，各自匹配，如 `"[[World Bank]] & [[UNESCO]]"`；`中文名（English Name, ABBR）` 按中文名或英文全称匹配，括号内仅有缩写不足以匹配；机构条目不链接自身。处理 `unresolved`：属于同一机构的不同写法加入 `variants` 或条目 aliases，尚无条目的机构新建 organization Fact。
 
 ---
 

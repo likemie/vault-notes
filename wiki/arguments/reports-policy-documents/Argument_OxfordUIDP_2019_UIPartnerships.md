@@ -11,7 +11,7 @@ argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
-issuing_organization: University of Oxford and University-Industry Demonstration Partnership (UIDP)
+issuing_organization: "University of Oxford and [[University Industry Demonstration Partnership|University-Industry Demonstration Partnership (UIDP)]]"
 citation: "University of Oxford & University-Industry Demonstration Partnership (UIDP). (2019). Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019."
 authors:
   - Oxford

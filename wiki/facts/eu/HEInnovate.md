@@ -14,7 +14,7 @@ fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
-issuing_organization: "European Commission & OECD"
+issuing_organization: "European Commission & [[OECD]]"
 tags:
   - policy/higher-education
   - region/europe
@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

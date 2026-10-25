@@ -15,7 +15,7 @@ fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
-issuing_organization: "德国联邦教育与研究部（BMBF）"
+issuing_organization: "[[Federal Ministry of Education and Research|德国联邦教育与研究部（BMBF）]]"
 tags:
   - policy/higher-education
   - region/germany
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

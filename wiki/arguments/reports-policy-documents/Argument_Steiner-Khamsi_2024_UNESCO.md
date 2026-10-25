@@ -25,7 +25,7 @@ citation_aliases:
   - "Steiner-Khamsi et al., 2024a"
   - "Steiner-Khamsi et al. (2024a)"
 isbn: "978-92-3-100653-1"
-issuing_organization: "UNESCO"
+issuing_organization: "[[UNESCO]]"
 tags:
   - field/comparative-education
   - theme/evidence-informed-policy
@@ -161,7 +161,7 @@ related_facts:
   - "[[Lemann Foundation]]"
 status: draft
 created: 2026-10-22
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 ---
 

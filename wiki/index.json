@@ -31492,7 +31492,8 @@
       "非洲证据网络",
       "Africa Evidence Network (AEN)",
       "AEN"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Africa Network Campaign on Education for All",
@@ -31502,7 +31503,8 @@
       "ANCEFA",
       "全非全民教育网络运动",
       "African Network Campaign on Education for All"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Center for Rapid Evidence Synthesis",
@@ -31513,7 +31515,8 @@
       "快速证据综合中心",
       "Center for Rapid Evidence Synthesis (ACRES)",
       "马凯雷雷大学快速证据综合中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Education Sub Saharan Africa",
@@ -31522,7 +31525,8 @@
     "aliases": [
       "撒哈拉以南非洲教育倡议",
       "Education Sub Saharan Africa (ESSA)"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "African Virtual University",
@@ -31533,7 +31537,8 @@
       "AVU",
       "非洲虚拟大学项目",
       "African Virtual University (AVU)"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "PASEC",
@@ -31543,7 +31548,8 @@
       "法语国家教育部部长会议教育系统分析计划",
       "Programme d’Analyse des Systèmes Éducatifs de la CONFEMEN",
       "PASEC Assessment"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "SACMEQ",
@@ -31553,7 +31559,8 @@
       "东南非教育质量监测联盟",
       "Southern and Eastern Africa Consortium for Monitoring Educational Quality",
       "SACMEQ Assessment"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Conectar Igualdad",
@@ -31563,7 +31570,8 @@
       "平等连接",
       "Conectar Igualdad Program",
       "PCI"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "ANTRIEP",
@@ -31572,7 +31580,8 @@
     "aliases": [
       "Asian Network of Training and Research Institutions in Educational Planning",
       "亚洲教育规划培训与研究机构网络"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "SEA-PLM",
@@ -31582,7 +31591,8 @@
       "东南亚初等教育学习指标",
       "Southeast Asia Primary Learning Metrics",
       "SEA-PLM Assessment"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Third Elementary Education Project in India",
@@ -31593,7 +31603,8 @@
       "印度基础教育三期项目",
       "Third Elementary Education Project",
       "India Third Elementary Education Project"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Australian Council for Educational Research",
@@ -31603,7 +31614,8 @@
       "澳大利亚教育研究委员会",
       "澳大利亚教育研究理事会",
       "ACER"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Australian Education Research Organisation",
@@ -31612,7 +31624,8 @@
     "aliases": [
       "AERO",
       "澳大利亚教育研究组织"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Australian Institute for Teaching and School Leadership",
@@ -31622,7 +31635,8 @@
       "澳大利亚教学与学校领导力协会",
       "澳大利亚教学与学校领导力研究院",
       "AITSL"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Australian Philanthropic Services",
@@ -31631,7 +31645,8 @@
     "aliases": [
       "澳大利亚慈善服务社",
       "Australian Philanthropic Services Limited"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Australian Schools Plus",
@@ -31641,7 +31656,8 @@
       "Schools Plus",
       "澳大利亚学校加计划",
       "澳大利亚学校加慈善基金会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "BHP Foundation",
@@ -31649,7 +31665,8 @@
     "path": "wiki/facts/australia/BHP Foundation.md",
     "aliases": [
       "必和必拓基金会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Centre for Educational Statistics and Evaluation",
@@ -31659,7 +31676,8 @@
       "新南威尔士州教育统计与评估中心",
       "新州教育统计与评估中心",
       "CESE NSW"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Centre for Evidence and Implementation",
@@ -31668,7 +31686,8 @@
     "aliases": [
       "CEI",
       "证据与实施中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Centre for Independent Studies",
@@ -31676,7 +31695,8 @@
     "path": "wiki/facts/australia/Centre for Independent Studies.md",
     "aliases": [
       "澳大利亚独立研究中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Educational Services Australia",
@@ -31685,7 +31705,8 @@
     "aliases": [
       "澳大利亚教育服务公司",
       "ESA"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Evidence for Learning",
@@ -31695,7 +31716,8 @@
       "E4L",
       "证据学习中心",
       "澳大利亚证据学习中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Social Ventures Australia",
@@ -31706,7 +31728,8 @@
       "澳大利亚社会创投",
       "澳大利亚社会风险投资组织",
       "Social Ventures Australia Limited"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Australian Curriculum",
@@ -31714,7 +31737,8 @@
     "path": "wiki/facts/australia/Australian Curriculum.md",
     "aliases": [
       "澳大利亚课程"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Gonski 2.0",
@@ -31726,7 +31750,8 @@
       "Gonski Review 2.0",
       "Through Growth to Achievement",
       "Review to Achieve Educational Excellence in Australian Schools"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Gonski Reforms",
@@ -31734,7 +31759,8 @@
     "path": "wiki/facts/australia/Gonski Reforms.md",
     "aliases": [
       "冈斯基改革"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Graduate Outcomes Survey",
@@ -31743,7 +31769,8 @@
     "aliases": [
       "毕业生结果调查",
       "GOS"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Independent Public Schools Western Australia",
@@ -31752,7 +31779,8 @@
     "aliases": [
       "西澳独立公立学校",
       "IPS"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Karmel Report",
@@ -31761,7 +31789,8 @@
     "aliases": [
       "Karmel Report 1973",
       "卡梅尔报告"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "LANTITE",
@@ -31770,7 +31799,8 @@
     "aliases": [
       "初始教师教育学生读写和算术测试",
       "Literacy and Numeracy Test for Initial Teacher Education"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Local Schools Local Decisions",
@@ -31779,7 +31809,8 @@
     "aliases": [
       "地方学校地方决策",
       "LSLD"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Melbourne Declaration",
@@ -31789,7 +31820,8 @@
       "墨尔本宣言",
       "墨尔本青年教育目标宣言",
       "Melbourne Declaration on Educational Goals for Young Australians"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "My School Website",
@@ -31798,7 +31830,8 @@
     "aliases": [
       "My School",
       "我的学校网站"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "National Education Evidence Base Inquiry",
@@ -31809,7 +31842,8 @@
       "生产力委员会国家教育证据基础审查",
       "Inquiry into the National Education Evidence Base",
       "National Education Evidence Base Report"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Strong Beginnings Report",
@@ -31819,7 +31853,8 @@
       "Strong Beginnings",
       "强劲开端报告",
       "Strong Beginnings: Report of the Teacher Education Expert Panel"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Teacher Education Ministerial Advisory Group",
@@ -31832,7 +31867,8 @@
       "Action Now",
       "Classroom Ready Teachers",
       "Action Now: Classroom Ready Teachers"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Victorian HITS and Literacy Toolkit",
@@ -31843,7 +31879,8 @@
       "维州HITS与读写工具包",
       "HITS",
       "High Impact Teaching Strategies"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Monash Q Project",
@@ -31854,7 +31891,8 @@
       "Q Project",
       "Monash Q",
       "The Monash Q Project"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "NAPLAN",
@@ -31865,7 +31903,8 @@
       "全国读写与计算能力测评计划",
       "National Assessment Program – Literacy and Numeracy",
       "National Assessment Program - Literacy and Numeracy"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Schulqualität Allgemeinbildung",
@@ -31876,7 +31915,8 @@
       "奥地利普通学校质量管理体系",
       "奥地利普通学校质量保障体系",
       "Schulqualität Allgemeinbildung (SQA)"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "New Teacher Education Scheme",
@@ -31886,7 +31926,8 @@
       "PädagogInnenbildung Neu",
       "奥地利新教师教育方案",
       "奥地利新教师教育改革"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "French-Speaking Belgium Education System",
@@ -31896,7 +31937,8 @@
       "法语比利时教育系统",
       "French-speaking Community of Belgium education system",
       "Wallonia-Brussels Federation education system"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Grade Retention in French-Speaking Belgium",
@@ -31906,7 +31948,8 @@
       "法语比利时留级",
       "grade repetition in French-speaking Belgium",
       "redoublement in French-speaking Belgium"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Pact for Educational Excellence",
@@ -31915,7 +31958,8 @@
     "aliases": [
       "教育卓越公约",
       "Pacte pour un Enseignement d'Excellence"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Bolivian Education Reform 1994",
@@ -31924,7 +31968,8 @@
     "aliases": [
       "玻利维亚教育改革",
       "玻利维亚1994年教育改革"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Lemann Foundation",
@@ -31933,7 +31978,8 @@
     "aliases": [
       "Fundação Lemann",
       "雷曼基金会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Bolsa Familia",
@@ -31945,7 +31991,8 @@
       "巴西家庭补贴计划",
       "Programa Bolsa Família",
       "PBF"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Brazilian Secondary Education Curriculum Reform 1998",
@@ -31955,7 +32002,8 @@
       "巴西中等教育课程改革",
       "巴西1998年课程改革",
       "Resolução Ceb Cne 03 98"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Exame Nacional de Desempenho dos Estudantes",
@@ -31965,7 +32013,8 @@
       "ENADE",
       "巴西全国学生学业成就测试",
       "巴西全国学生成绩考试"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Participatory Budgeting",
@@ -31976,7 +32025,8 @@
       "Orçamento Participativo",
       "阿雷格里港参与式预算",
       "Porto Alegre Participatory Budgeting"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "SIMAVE",
@@ -31987,7 +32037,8 @@
       "米纳斯吉拉斯绩效问责改革",
       "Sistema Mineiro de Avaliação da Educação Básica",
       "PROEB"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Jerudong International School Establishment",
@@ -31997,7 +32048,8 @@
       "Jerudong International School",
       "JIS",
       "文莱 Jerudong International School 建校项目"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Founding of Lester B. Pearson College",
@@ -32007,7 +32059,8 @@
       "莱斯特·B·皮尔逊书院创办",
       "皮尔逊书院创办",
       "Founding of Pearson College"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "University of Waterloo Global Futures Framework",
@@ -32018,7 +32071,8 @@
       "Global Futures Framework",
       "滑铁卢大学全球未来框架",
       "UW Global Futures"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "University of Waterloo Inventor-Owned IP Policy",
@@ -32031,7 +32085,8 @@
       "inventor-owned IP policy",
       "发明人自有IP政策",
       "发明人自有知识产权政策"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Canadian Council on Learning",
@@ -32041,7 +32096,8 @@
       "CCL",
       "加拿大终身学习委员会",
       "Conseil canadien sur l'apprentissage"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Fraser Institute",
@@ -32051,7 +32107,8 @@
       "弗雷泽研究所",
       "菲沙研究所",
       "The Fraser Institute"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "International Development Research Centre",
@@ -32062,7 +32119,8 @@
       "加拿大国际发展研究中心",
       "Centre de recherches pour le développement international",
       "CRDI"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Mastercard Foundation",
@@ -32070,7 +32128,8 @@
     "path": "wiki/facts/canada/Mastercard Foundation.md",
     "aliases": [
       "万事达卡基金会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Schlegel-UW Research Institute for Aging",
@@ -32081,7 +32140,8 @@
       "Schlegel-UW老龄化研究所",
       "Research Institute for Aging",
       "滑铁卢大学老龄化研究所"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Elementary Teachers' Federation of Ontario",
@@ -32090,7 +32150,8 @@
     "aliases": [
       "ETFO",
       "安大略小学教师联合会"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Knowledge Network for Applied Education Research",
@@ -32100,7 +32161,8 @@
       "KNAER",
       "安大略应用教育研究知识网络",
       "应用教育研究知识网络"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Canadian Education Indicators Program",
@@ -32110,7 +32172,8 @@
       "加拿大教育指标计划",
       "CEIP",
       "Programme d'indicateurs de l'éducation au Canada"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Alto al SIMCE",
@@ -32121,7 +32184,8 @@
       "智利停止 SIMCE 运动",
       "Stop SIMCE",
       "Alto al SIMCE Campaign"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Chicago Boys",
@@ -32132,7 +32196,8 @@
       "智利芝加哥男孩",
       "Chicago-Boys",
       "The Chicago Boys"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Chilean Educational Reform of 1981",
@@ -32144,7 +32209,8 @@
       "智利新自由主义教育改革",
       "Chilean Voucher Reform of 1981",
       "1981年智利新自由主义教育改革"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "SUMMA",
@@ -32156,7 +32222,8 @@
       "Laboratorio de Investigación e Innovación en Educación para América Latina y el Caribe",
       "Laboratory of Research and Innovation in Education for Latin America and the Caribbean",
       "Fundación SUMMA"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Ley SEP",
@@ -32168,7 +32235,8 @@
       "Ley de Subvención Escolar Preferencial",
       "Ley 20.248",
       "Preferential School Subsidy Law"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Asistencias Técnicas Educativas",
@@ -32181,7 +32249,8 @@
       "ATE (智利)",
       "Registro ATE",
       "Educational Technical Assistance"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Docentemás",
@@ -32192,7 +32261,8 @@
       "Docentemas",
       "Sistema de Evaluación del Desempeño Profesional Docente",
       "Chilean Teacher Evaluation System"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "SIMCE",
@@ -32203,7 +32273,8 @@
       "智利国家教育评估系统",
       "Sistema de Medición de la Calidad de la Educación",
       "Education Quality Measurement System"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "SNED",
@@ -32214,7 +32285,8 @@
       "国家学校绩效评估系统",
       "Sistema Nacional de Evaluación del Desempeño",
       "National System of School Performance Assessment"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Academic Ranking of World Universities",
@@ -32225,7 +32297,8 @@
       "ARWU",
       "上海排名",
       "Shanghai Ranking"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "China Social Credit System",
@@ -32235,7 +32308,8 @@
       "中国社会信用体系",
       "社会信用体系",
       "Social Credit System"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Civil Service Examination",
@@ -32246,7 +32320,8 @@
       "科举制度",
       "imperial examination",
       "keju"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Confucian Revival in China",
@@ -32256,7 +32331,8 @@
       "中国儒家复兴",
       "儒学复兴",
       "儒家文化复兴"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "ECNU Declaration on Evidence-Based Research",
@@ -32266,7 +32342,8 @@
       "ECNU Declaration on Evidence-Based Research 2017",
       "华东师大循证研究宣言",
       "华东师范大学循证研究宣言"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Fudan University Budapest Campus",
@@ -32277,7 +32354,8 @@
       "复旦大学布达佩斯分校事件",
       "复旦大学匈牙利分校",
       "Fudan Budapest Campus"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Great Firewall of China",
@@ -32287,7 +32365,8 @@
       "中国防火长城",
       "中国国家防火墙",
       "GFW"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Late Qing Borrowing of Japanese Education",
@@ -32296,7 +32375,8 @@
     "aliases": [
       "晚清借鉴日本教育",
       "清末日本教育借用"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "May Fourth Movement",
@@ -32307,7 +32387,8 @@
       "wusi yundong",
       "May Fourth Incident",
       "五四爱国运动"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "National Assessment of Education Quality China 2007",
@@ -32318,7 +32399,8 @@
       "NAEQ",
       "教育部基础教育质量监测中心",
       "National Assessment of Education Quality"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "New Culture Movement",
@@ -32328,7 +32410,8 @@
       "新文化运动",
       "xinwenhua yundong",
       "五四新文化运动"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "New Education Movement",
@@ -32338,7 +32421,8 @@
       "新教育运动",
       "xinjiaoyu yundong",
       "The New Education"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Wuhu Ruhua",
@@ -32346,7 +32430,8 @@
     "path": "wiki/facts/china/Wuhu Ruhua.md",
     "aliases": [
       "五胡入华"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Schools for Migrant Children",
@@ -32360,7 +32445,8 @@
       "随迁子女学校",
       "Migrant Worker Schools",
       "Migrant Schools"
-    ]
+    ],
+    "subtype": "institution"
   },
   {
     "title": "Asian Universities Alliance",
@@ -32369,7 +32455,8 @@
     "aliases": [
       "亚洲大学联盟",
       "AUA"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Center for Research on Chinese-ASEAN Vocational Education",
@@ -32378,7 +32465,8 @@
     "aliases": [
       "中国—东盟职业教育研究中心",
       "CCAVEC"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "China Scholarship Council",
@@ -32389,7 +32477,8 @@
       "国家留学基金委",
       "留基委",
       "CSC"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "China-ASEAN Federation for Vocational Education",
@@ -32399,7 +32488,8 @@
       "中国—东盟职业教育联合会",
       "CAFEV",
       "China-ASEAN Vocational Education Federation"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Chinese Academy of Sciences",
@@ -32409,7 +32499,8 @@
       "中国科学院",
       "中科院",
       "CAS"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Institute of South-South Cooperation and Development",
@@ -32419,7 +32510,8 @@
       "南南合作与发展学院",
       "ISSCAD",
       "南南学院"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Natural Science Foundation of China",
@@ -32432,7 +32524,8 @@
       "自然科学基金委",
       "NSFC",
       "National Natural Science Foundation of China, NSFC"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Sino-Africa Joint Research Center",
@@ -32441,7 +32534,8 @@
     "aliases": [
       "中非联合研究中心",
       "SAJOREC"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "University Alliance of the Silk Road",
@@ -32450,7 +32544,8 @@
     "aliases": [
       "丝绸之路大学联盟",
       "UASR"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Xiamen University Malaysia",
@@ -32460,7 +32555,8 @@
       "厦门大学马来西亚分校",
       "厦大马校",
       "XMUM"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "1904 Educational System",
@@ -32472,7 +32568,8 @@
       "1904 school system",
       "1904 education system",
       "奏定学堂章程"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "1922 Educational System Reform",
@@ -32483,7 +32580,8 @@
       "壬戌学制",
       "1922 educational system",
       "1922 school system reform"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "2014 Hukou Reform",
@@ -32494,7 +32592,8 @@
       "2014户籍制度改革",
       "关于进一步推进户籍制度改革的意见",
       "2014 household registration reform"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "2020 Inner Mongolia Bilingual Education Reform",
@@ -32504,7 +32603,8 @@
       "2020 年内蒙古双语教育改革",
       "Inner Mongolia bilingual education policy 2020",
       "内蒙古双语教育改革"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Belt and Road Education Action Plan",
@@ -32515,7 +32615,8 @@
       "“一带一路”教育行动",
       "BRI Education Action Plan",
       "BRI Education Plan"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "China Basic Education Curriculum Reform",
@@ -32526,7 +32627,8 @@
       "中国基础教育课程改革2001",
       "基础教育课程改革纲要",
       "Zhongguo Jichu Jiaoyu Kecheng Gaige Gangyao"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "China College Graduate Employment Reform",
@@ -32537,7 +32639,8 @@
       "中国高校毕业生就业制度改革 1986-1997",
       "双向选择制度",
       "并轨招生"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "China S&T Innovation Policy Evolution",
@@ -32548,7 +32651,8 @@
       "中国科技体制改革",
       "China science and technology innovation policy",
       "China S&T system reform"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Double First-Class Initiative",
@@ -32561,7 +32665,8 @@
       "Double First Class",
       "Double World-Class Initiative",
       "World-Class Universities and First-Class Disciplines"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Gaokao",
@@ -32571,7 +32676,8 @@
       "高考",
       "普通高等学校招生全国统一考试",
       "National College Entrance Examination"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Guangdong-Hong Kong-Macau Greater Bay Area",
@@ -32582,7 +32688,8 @@
       "GBA",
       "Greater Bay Area",
       "大湾区"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Hukou System",
@@ -32594,7 +32701,8 @@
       "hukou",
       "household registration system",
       "hukou reform"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Made in China 2025",
@@ -32604,7 +32712,8 @@
       "中国制造2025",
       "Made-in-China 2025",
       "MIC 2025"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Open Competition Mechanism",
@@ -32613,7 +32722,8 @@
     "aliases": [
       "揭榜挂帅",
       "Jiebang Guashuai"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Recommendation-Based Graduate Admission System",
@@ -32624,7 +32734,8 @@
       "推免制度",
       "推免",
       "recommendation-based admission"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Rural School Consolidation",
@@ -32635,7 +32746,8 @@
       "农村学校布局调整",
       "rural school closure",
       "school merger in rural China"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Three Excellences",
@@ -32646,7 +32758,8 @@
       "三好学生",
       "Students with Three Excellences",
       "san hao sheng"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Xinjiang Vocational Education and Training Centers",
@@ -32657,7 +32770,8 @@
       "新疆教培中心",
       "Xinjiang re-education camps",
       "新疆再教育营"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "17+1 Cooperation",
@@ -32669,7 +32783,8 @@
       "17+1合作",
       "China-CEEC Cooperation",
       "Cooperation between China and Central and Eastern European Countries"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "20+20 Cooperation Plan for Chinese and African Institutions of Higher Education",
@@ -32679,7 +32794,8 @@
       "中非高校20+20合作计划",
       "中非高校20加20合作计划",
       "China-Africa 20+20 Cooperation Plan"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Autonomous Drone Swarms",
@@ -32692,7 +32808,8 @@
       "自主无人机蜂群",
       "Swarm of Micro Flying Robots in the Wild",
       "浙大野外微型飞行机器人集群"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Belt and Road Initiative",
@@ -32705,7 +32822,8 @@
       "丝绸之路经济带和21世纪海上丝绸之路",
       "Belt and Road",
       "One Belt One Road"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "China Integrated Circuit Industry Investment Fund",
@@ -32717,7 +32835,8 @@
       "Big Fund",
       "国家大基金",
       "National Integrated Circuit Industry Investment Fund"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "China-ASEAN Education Cooperation Week",
@@ -32727,7 +32846,8 @@
       "中国—东盟教育交流周",
       "东盟教育交流周",
       "CAECW"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Chinese-ASEAN Modern Craftsmanship Institute",
@@ -32737,7 +32857,8 @@
       "中国—东盟现代工匠学院",
       "现代工匠学院",
       "Modern Craftsmanship Institute"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Confucius Institute",
@@ -32747,7 +32868,8 @@
       "孔子学院",
       "孔院",
       "Confucius Institutes"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Luban Workshop",
@@ -32756,7 +32878,8 @@
     "aliases": [
       "鲁班工坊",
       "Luban Workshops"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "MOFCOM Scholarship",
@@ -32767,7 +32890,8 @@
       "商务部援外奖学金",
       "中华人民共和国商务部奖学金",
       "MOFCOM Scholarship Program"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Project 211",
@@ -32777,7 +32901,8 @@
       "211工程",
       "211 工程",
       "国家211工程"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Project 985",
@@ -32788,7 +32913,8 @@
       "985 工程",
       "国家985工程",
       "World-Class University Project"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Silk Road Scholarship",
@@ -32798,7 +32924,8 @@
       "丝绸之路奖学金",
       "一带一路奖学金",
       "Silk Road Scholarship Program"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Study in China",
@@ -32809,7 +32936,8 @@
       "留学中国计划",
       "打造“留学中国”品牌",
       "Study in China Plan"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Thousand Talents Program",
@@ -32819,7 +32947,8 @@
       "千人计划",
       "Thousand Talents Plan",
       "TTP"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Hattie på dansk",
@@ -32828,7 +32957,8 @@
     "aliases": [
       "Hattie på dansk 2017",
       "丹麦版可见的学习"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "SFI Report",
@@ -32837,7 +32967,8 @@
     "aliases": [
       "SFI Report 2013",
       "SFI报告2013"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Danish Clearinghouse for Educational Research",
@@ -32846,7 +32977,8 @@
     "aliases": [
       "丹麦教育研究清算中心",
       "Danish Clearinghouse"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Danish Act on Transparency 2002",
@@ -32857,7 +32989,8 @@
       "Lov om gennemsigtighed og åbenhed i uddannelserne",
       "Act on Transparency and Openness in Education",
       "Danish Act on Transparency"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Danish Public School Reform",
@@ -32869,7 +33002,8 @@
       "丹麦公立学校改革",
       "Folkeskolereformen 2014",
       "Folkeskole Reform 2014"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Nationale test",
@@ -32881,7 +33015,8 @@
       "Danish National Tests",
       "Folkeskole National Tests",
       "丹麦自适应全国测试"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Taiwan Semiconductor Manufacturing Corporation",
@@ -32892,7 +33027,8 @@
       "台湾积体电路制造公司",
       "TSMC",
       "Taiwan Semiconductor Manufacturing Co."
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Fifth Generation Computer Systems",
@@ -32904,7 +33040,8 @@
       "Fifth Generation Computer Systems Project",
       "第五代计算机系统项目",
       "新一代计算机技术研究所"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "VLSI Project",
@@ -32917,7 +33054,8 @@
       "VLSI",
       "VLSI Research Association",
       "Very Large Scale Integration Project"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Estonian STEM Education Model",
@@ -32928,7 +33066,8 @@
       "爱沙尼亚教育体系",
       "Estonian STEM Education",
       "Estonian Science Education"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Waterford Kamhlaba Admission to United World Colleges",
@@ -32938,7 +33077,8 @@
       "沃特福德卡姆拉巴加入联合世界书院",
       "沃特福德卡姆拉巴关联与正式加入",
       "Waterford Kamhlaba UWC Admission"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Lund Declaration 2009",
@@ -32949,7 +33089,8 @@
       "Lund Declaration",
       "《隆德宣言》",
       "隆德宣言 2009"
-    ]
+    ],
+    "subtype": "document"
   },
   {
     "title": "Lisbon Strategy",
@@ -32960,7 +33101,8 @@
       "里斯本议程",
       "Lisbon Agenda",
       "Estratégia de Lisboa"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "YOUNG_ADULLLT",
@@ -32969,7 +33111,8 @@
     "aliases": [
       "YOUNG_ADULLLT 项目",
       "YOUNG_ADULLLT project"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Comparative Education Society in Europe",
@@ -32979,7 +33122,8 @@
       "欧洲比较教育学会",
       "欧洲比较教育学会成立",
       "CESE"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "EU",
@@ -32991,7 +33135,8 @@
       "欧盟",
       "European Community",
       "欧洲共同体"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Eurydice",
@@ -33001,7 +33146,8 @@
       "Eurydice Network",
       "欧洲教育信息网络",
       "欧洲教育信息网"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Critical Raw Materials Act",
@@ -33012,7 +33158,8 @@
       "欧盟关键原材料法案",
       "CRMA",
       "Critical Raw Materials Regulation"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "EU Evidence-Informed Education Policy Initiatives",
@@ -33023,7 +33170,8 @@
       "European evidence-informed education policy",
       "evidence-informed education in Europe",
       "EIPPEE"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "EU Key Competences for Lifelong Learning",
@@ -33034,7 +33182,8 @@
       "Council Recommendation of 22 May 2018 on Key Competences for Lifelong Learning",
       "欧盟终身学习关键能力建议2018",
       "EU key competences"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "EU Skills Agenda",
@@ -33044,7 +33193,8 @@
       "欧盟技能议程",
       "Skills Agenda",
       "New Skills Agenda for Europe"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Europe 2020 Strategy",
@@ -33055,7 +33205,8 @@
       "欧洲2020战略",
       "EU 2020 Strategy",
       "Europe 2020"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "European Chips Act",
@@ -33066,7 +33217,8 @@
       "EU Chips Act",
       "欧盟芯片法案",
       "European Chips Act of 2023"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "European Qualifications Framework",
@@ -33078,7 +33230,8 @@
       "欧洲资格框架",
       "欧洲高等教育区资格框架",
       "European Qualifications Framework for Lifelong Learning"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "European Standards and Guidelines",
@@ -33089,7 +33242,8 @@
       "ESG 2015",
       "欧洲高等教育区质量保障标准与准则",
       "Standards and Guidelines for Quality Assurance in the European Higher Education Area"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "HEInnovate",
@@ -33099,7 +33253,8 @@
       "欧洲创新型高校评估框架",
       "创新型高等教育机构自我评估工具",
       "HEInnovate Initiative"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Horizon 2020 SSH Integration",
@@ -33109,7 +33264,8 @@
       "Horizon SSH Integration",
       "地平线2020 SSH整合",
       "Horizon 2020 SSH"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Horizon Europe",
@@ -33120,7 +33276,8 @@
       "欧盟第九研发框架计划",
       "Horizon Europe Framework Programme",
       "FP9"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Horizon Europe Missions",
@@ -33132,7 +33289,8 @@
       "欧盟地平线使命",
       "EU Missions",
       "Horizon Europe EU Missions"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Innovation Union",
@@ -33141,7 +33299,8 @@
     "aliases": [
       "欧盟创新联盟",
       "EU Innovation Union"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "CALOHEE Project",
@@ -33151,7 +33310,8 @@
       "CALOHEE",
       "欧洲高等教育学习成果测度与比较项目",
       "Measuring and Comparing Achievements of Learning Outcomes in European Higher Education"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "CREATES Project",
@@ -33161,7 +33321,8 @@
       "CREATES",
       "欧洲共创自主学习项目",
       "Creating Responsive, Engaging and Active Tertiary Education with Students"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "CRITHINKEDU Project",
@@ -33171,7 +33332,8 @@
       "CRITHINKEDU",
       "高等教育课程批判性思维项目",
       "Critical Thinking in Higher Education Curricula"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Erasmus Programme",
@@ -33183,7 +33345,8 @@
       "ERASMUS",
       "Erasmus+",
       "European Community Action Scheme for the Mobility of University Students"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "European Research Area",
@@ -33192,7 +33355,8 @@
     "aliases": [
       "欧洲研究区",
       "欧洲科研区"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Fabricating Quality in European Education",
@@ -33202,7 +33366,8 @@
       "FabQ",
       "制造欧洲教育质量项目",
       "制造欧洲教育质量"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Important Projects of Common European Interest",
@@ -33214,7 +33379,8 @@
       "Important Project of Common European Interest",
       "IPCEI ME/CT",
       "微电子与通信技术欧洲共同利益重要项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Peer-Learning Activities",
@@ -33225,7 +33391,8 @@
       "PLA",
       "Peer Learning Activities",
       "欧盟同伴学习活动"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "TEMPUS",
@@ -33236,7 +33403,8 @@
       "泛欧大学机动性合作计划",
       "Trans-European Mobility Programme for University Studies",
       "Trans-European Mobility Scheme for University Studies"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Tuning Project",
@@ -33247,7 +33415,8 @@
       "欧洲调整项目",
       "欧洲高校课程结构调整项目",
       "Tuning Educational Structures in Europe"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Youth Guarantee Scheme",
@@ -33256,7 +33425,8 @@
     "aliases": [
       "欧盟青年保障计划",
       "EU Youth Guarantee"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Community Innovation Survey",
@@ -33264,7 +33434,8 @@
     "path": "wiki/facts/europe/Community Innovation Survey.md",
     "aliases": [
       "欧洲社区创新调查"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "League of European Research Universities",
@@ -33273,7 +33444,8 @@
     "aliases": [
       "LERU",
       "欧洲研究型大学联盟"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Sectoral Innovation Database",
@@ -33282,7 +33454,8 @@
     "aliases": [
       "SID",
       "部门创新数据库"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "CERN",
@@ -33293,7 +33466,8 @@
       "欧洲核子研究中心",
       "European Organization for Nuclear Research",
       "Organisation européenne pour la recherche nucléaire"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Mediterranean Society of Comparative Education",
@@ -33304,7 +33478,8 @@
       "地中海比较教育学会",
       "地中海比较教育学社",
       "Mediterranean Society of Comparative Education (MESCE)"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Synthesis and Solid State Pharmaceutical Centre",
@@ -33313,7 +33488,8 @@
     "aliases": [
       "SSPC",
       "爱尔兰合成与固态制药中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Bologna Process",
@@ -33325,7 +33501,8 @@
       "Bologna Declaration",
       "European Higher Education Area",
       "EHEA"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Dublin Descriptors",
@@ -33336,7 +33513,8 @@
       "欧洲高等教育区学位描述符",
       "博洛尼亚都柏林描述符",
       "Dublin Cycle Descriptors"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "European Convention on the Equivalence of Diplomas Leading to Admission to Universities 1953",
@@ -33346,7 +33524,8 @@
       "1953年欧洲大学入学文凭等值公约",
       "European Convention on the Equivalence of Diplomas 1953",
       "欧洲文凭等值公约"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "ESPRIT",
@@ -33358,7 +33537,8 @@
       "European Strategic Program for Research and Development in Information Technologies",
       "ESPRIT I",
       "ESPRIT II"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "JESSI",
@@ -33367,7 +33547,8 @@
     "aliases": [
       "联合欧洲亚微米硅计划",
       "Joint European Submicron Silicon Initiative"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Oxford Council of Europe Studies in Curriculum and Examinations",
@@ -33376,7 +33557,8 @@
     "aliases": [
       "牛津—欧洲委员会课程与考试研究",
       "OCESCE"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Finnish PISA Miracle",
@@ -33389,7 +33571,8 @@
       "芬兰PISA现象",
       "Finnish PISA Phenomenon",
       "Finnish PISA Success"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Finnish National Core Curriculum",
@@ -33398,7 +33581,8 @@
     "aliases": [
       "Finnish National Core Curriculum 2014",
       "芬兰国家核心课程2014"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "SveaSus Project",
@@ -33406,7 +33590,8 @@
     "path": "wiki/facts/finland/SveaSus Project.md",
     "aliases": [
       "SveaSus项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "1967 Sevres International Conference on the IB",
@@ -33416,7 +33601,8 @@
       "1967年塞夫尔IB国际会议",
       "塞夫尔国际文凭会议",
       "1967 Sèvres Conference"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Revue encyclopédique",
@@ -33428,7 +33614,8 @@
       "Revue encyclopédique ou Analyse raisonnée",
       "Encyclopedic Review",
       "Jullien's Revue encyclopédique"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "French Modernisation Commissions",
@@ -33440,7 +33627,8 @@
       "Modernisation Commissions",
       "Commissariat Général du Plan",
       "法国战后指导性计划"
-    ]
+    ],
+    "subtype": "institution"
   },
   {
     "title": "CNRS",
@@ -33449,7 +33637,8 @@
     "aliases": [
       "法国国家科学研究中心",
       "Centre National de la Recherche Scientifique"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Esquisse d'un ouvrage sur l'éducation comparée",
@@ -33464,7 +33653,8 @@
       "Plan for Comparative Education",
       "Plan and Preliminary Views on Comparative Education",
       "Esquisse et vues préliminaires sur un ouvrage d'éducation comparée"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "French Baccalaureat 2021 Reform",
@@ -33475,7 +33665,8 @@
       "法国2021年高中会考改革",
       "法国高考大口试改革",
       "Grand Oral Reform"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "French Class Size Reduction",
@@ -33484,7 +33675,8 @@
     "aliases": [
       "French Class Size Reduction 2017",
       "法国2017年班额缩减政策"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Guizot Law of 1833",
@@ -33495,7 +33687,8 @@
       "基佐法案",
       "Loi Guizot",
       "Guizot Law"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Loi Fillon 2005",
@@ -33507,7 +33700,8 @@
       "Fillon Law",
       "Loi Fillon",
       "Loi n° 2005-380 du 23 avril 2005"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Report on the State of Public Instruction in Prussia",
@@ -33522,7 +33716,8 @@
       "Cousin's Prussian Report",
       "Rapport sur l'état de l'instruction publique en Prusse",
       "Report on Public Instruction in Prussia"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "StraNES",
@@ -33532,7 +33727,8 @@
       "法国国家高等教育战略白皮书",
       "法国高教战略",
       "Stratégie Nationale de l'Enseignement Supérieur"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "International Option of the French Baccalaureate",
@@ -33542,7 +33738,8 @@
       "法国业士文凭国际选项",
       "Option internationale du baccalauréat",
       "OIB"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Eck Swarm Experiment",
@@ -33553,7 +33750,8 @@
       "埃克蜂群观测",
       "埃克蜂群",
       "Eck Swarm"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "PISA Shock in Germany",
@@ -33564,7 +33762,8 @@
       "德国国际学生评估项目冲击",
       "PISA-Schock in Deutschland",
       "German PISA Shock"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Positivist Dispute in German Sociology",
@@ -33577,7 +33776,8 @@
       "Positivismusstreit",
       "German Positivist Dispute",
       "Positivist Dispute"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "TOSCA",
@@ -33587,7 +33787,8 @@
       "中等教育系统转型与学术职业发展追踪",
       "Transformation des Sekundarschulsystems und akademische Karrieren",
       "Transformation of the Secondary School System and Academic Careers"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Walser-Bubis Debate",
@@ -33598,7 +33799,8 @@
       "瓦尔泽与布比斯之争",
       "Walser-Bubis-Debatte",
       "1998 Walser-Bubis controversy"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "System Althoff",
@@ -33609,7 +33811,8 @@
       "Althoff-System",
       "Althoff System",
       "普鲁士阿尔托夫体制"
-    ]
+    ],
+    "subtype": "institution"
   },
   {
     "title": "Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung",
@@ -33621,7 +33824,8 @@
       "BLK",
       "Bund-Länder-Kommission",
       "Commission of the Federation and the Länder for Educational Planning and Research Promotion"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Clearing House Unterricht",
@@ -33631,7 +33835,8 @@
       "德国教学研究清算中心",
       "慕尼黑工业大学教学清算中心",
       "CHU"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Federal Ministry of Education and Research",
@@ -33642,7 +33847,8 @@
       "德国联邦教育及研究部",
       "BMBF",
       "Bundesministerium für Bildung und Forschung"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Forschungsmonitor Schule",
@@ -33652,7 +33858,8 @@
       "学校研究监测平台",
       "德国学校研究监测网",
       "FMS"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Fraunhofer Society Model",
@@ -33665,7 +33872,8 @@
       "Fraunhofer Society",
       "Fraunhofer-Gesellschaft",
       "弗劳恩霍夫模式"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "German State Educational Institutes and Quality Agencies",
@@ -33678,7 +33886,8 @@
       "Landesinstitute und Qualitätseinrichtungen der Länder",
       "德国州立教育研究所",
       "州立学校研究所"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Gewerbe-Institut",
@@ -33691,7 +33900,8 @@
       "Gewerbeinstitut",
       "Royal Gewerbe-Institut",
       "Gewerbeinstitut Berlin"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Institute for Educational Monitoring and Quality Improvement",
@@ -33702,7 +33912,8 @@
       "IfBQ",
       "Institut für Bildungsmonitoring und Qualitätsentwicklung",
       "Institute for Educational Monitoring and Quality Development"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Institute for Educational Quality Improvement",
@@ -33714,7 +33925,8 @@
       "柏林教育质量发展研究所",
       "IQB",
       "Institut zur Qualitätsentwicklung im Bildungswesen"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "KfW",
@@ -33725,7 +33937,8 @@
       "Kreditanstalt für Wiederaufbau",
       "KfW Bankengruppe",
       "德国开发银行"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Leibniz Institute for Educational Research and Educational Information",
@@ -33740,7 +33953,8 @@
       "Leibniz-Institut für Bildungsforschung und Bildungsinformation",
       "Deutsches Institut für Internationale Pädagogische Forschung",
       "DIPF-Kompass"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Max Planck Institute for Human Development",
@@ -33752,7 +33966,8 @@
       "柏林马克斯·普朗克教育研究所",
       "Max-Planck-Institut für Bildungsforschung",
       "马克斯·普朗克人类发展研究所"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Max Planck Society",
@@ -33764,7 +33979,8 @@
       "马克斯·普朗克科学促进学会",
       "MPG",
       "Max-Planck-Gesellschaft"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Standing Conference of the Ministers of Education and Cultural Affairs",
@@ -33776,7 +33992,8 @@
       "州文化部长会议",
       "Kultusministerkonferenz",
       "KMK"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Zentrum für internationale Bildungsvergleichsstudien",
@@ -33786,7 +34003,8 @@
       "德国国际教育比较研究中心",
       "ZIB",
       "Centre for International Student Assessment"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "German Innovation Policy System",
@@ -33798,7 +34016,8 @@
       "German High-Tech Strategy",
       "German Cluster Policy",
       "德国集群政策"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Gesamtstrategie zum Bildungsmonitoring",
@@ -33809,7 +34028,8 @@
       "德国国家教育监测总体战略",
       "KMK Gesamtstrategie",
       "Gesamtstrategie der KMK zum Bildungsmonitoring"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Prussian Draft Education Law of 1819",
@@ -33824,7 +34044,8 @@
       "Süvern Draft",
       "1819 Süvern Law",
       "Preußischer Bildungsgesetzentwurf von 1819"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Chemie im Kontext",
@@ -33834,7 +34055,8 @@
       "情境中的化学",
       "CHiK",
       "CHiK-Projekt"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "COACTIV",
@@ -33845,7 +34067,8 @@
       "Project COACTIV",
       "教师专业能力与认知激活教学项目",
       "Professional Competence of Teachers, Cognitively Activating Instruction, and the Development of Students' Mathematical Literacy"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "German Excellence Initiative",
@@ -33857,7 +34080,8 @@
       "德国卓越计划",
       "Exzellenzinitiative",
       "Excellence Strategy"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "IQB-Bildungstrend",
@@ -33870,7 +34094,8 @@
       "Ländervergleich",
       "IQB-Ländervergleich",
       "IQB Educational Trend"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "KoKoHs Program",
@@ -33881,7 +34106,8 @@
       "德国高等教育能力建模与测量计划",
       "德国能力建模与测量计划",
       "Kompetenzmodellierung und Kompetenzerfassung im Hochschulsektor"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Lernen vor Ort",
@@ -33891,7 +34117,8 @@
       "地方学习计划",
       "Local Learning",
       "Kommunales Bildungsmanagement"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "National Educational Panel Study",
@@ -33901,7 +34128,8 @@
       "德国国家教育发展追踪研究",
       "NEPS",
       "Nationales Bildungspanel"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "NuBiL",
@@ -33913,7 +34141,8 @@
       "NuBiL-Projekt",
       "Nutzung von Bildungsforschung durch Lehrpersonen",
       "Teachers' Use of Educational Research"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Physik im Kontext",
@@ -33923,7 +34152,8 @@
       "PIKO",
       "语境中的物理",
       "语境物理教学项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Qualitätsoffensive Lehrerbildung",
@@ -33933,7 +34163,8 @@
       "教师教育质量攻坚计划",
       "QLB",
       "Quality Campaign for Teacher Education"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Schulen im Team",
@@ -33945,7 +34176,8 @@
       "鲁尔区校际网络项目",
       "Schulen im Team – Unterricht gemeinsam entwickeln",
       "SiT"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "SINUS",
@@ -33956,7 +34188,8 @@
       "SINUS-Transfer",
       "SINUS-Programm",
       "Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Vergleichsarbeiten",
@@ -33968,7 +34201,8 @@
       "德国校际比较测试",
       "VERA-3",
       "VERA-8"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "German Dual Education System",
@@ -33981,7 +34215,8 @@
       "Duales Ausbildungssystem",
       "dual vocational training",
       "德国双元制职业教育体系"
-    ]
+    ],
+    "subtype": "system"
   },
   {
     "title": "1960 Bellagio Conference",
@@ -33992,7 +34227,8 @@
       "贝拉吉奥会议",
       "Bellagio Conference",
       "Bellagio Conference on Education and Economic Development"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "1961 Policy Conference on Economic Growth and Investment in Education",
@@ -34004,7 +34240,8 @@
       "1961 OECD Policy Conference on Economic Growth and Investment in Education",
       "1961 Washington Policy Conference",
       "经合组织华盛顿政策会议"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "1967 Williamsburg Conference on the World Crisis in Education",
@@ -34016,7 +34253,8 @@
       "弗吉尼亚威廉斯堡世界教育危机国际会议",
       "Williamsburg Conference on the World Crisis in Education",
       "1967 Williamsburg Conference"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "1976 Hague Intergovernmental Conference on the International Baccalaureate",
@@ -34025,7 +34263,8 @@
     "aliases": [
       "1976年国际文凭海牙政府间会议",
       "1976 Hague Conference on the International Baccalaureate"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "1980 Ditchley Park United World Colleges Conference",
@@ -34036,7 +34275,8 @@
       "Ditchley Park Conference",
       "UWC Indaba",
       "Indaba Conference"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "1981 Brussels Intergovernmental Conference on the International Baccalaureate",
@@ -34046,7 +34286,8 @@
       "1981年布鲁塞尔国际文凭政府间会议",
       "第三次国际文凭政府间会议",
       "Third Intergovernmental Conference on the International Baccalaureate"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "1983 International Baccalaureate Financial Crisis",
@@ -34056,7 +34297,8 @@
       "1983年国际文凭财政危机",
       "1983 IBO Financial Crisis",
       "国际文凭组织1983年财政危机"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "1985 Trieste Intergovernmental Conference on the International Baccalaureate",
@@ -34067,7 +34309,8 @@
       "1985 年的里雅斯特国际文凭政府间会议",
       "第四次国际文凭政府间会议",
       "Fourth Intergovernmental Conference on the International Baccalaureate"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "1985 United World Colleges International Council Meeting",
@@ -34077,7 +34320,8 @@
       "1985年联合世界书院国际理事会会议",
       "Tenth Meeting of the International Council of the United World Colleges",
       "第十次联合世界书院国际理事会会议"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "2014 Open Letter on PISA",
@@ -34090,7 +34334,8 @@
       "Open Letter to Andreas Schleicher on PISA",
       "PISA Open Letter 2014",
       "2014 Open Letter to Andreas Schleicher"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Education City Doha",
@@ -34099,7 +34344,8 @@
     "aliases": [
       "多哈教育城",
       "Education City"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Evidence-Based Education Institutions",
@@ -34107,7 +34353,8 @@
     "path": "wiki/facts/global/Evidence-Based Education Institutions.md",
     "aliases": [
       "循证教育机构"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Huntington-Wallace Line",
@@ -34116,7 +34363,8 @@
     "aliases": [
       "亨廷顿-华莱士线",
       "Wallace Line of Western Christianity"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "INES Lugano General Assembly 1991",
@@ -34125,7 +34373,8 @@
     "aliases": [
       "INES Lugano General Assembly",
       "INES卢加诺大会1991"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "International Baccalaureate Six-Year Experiment",
@@ -34134,7 +34383,8 @@
     "aliases": [
       "国际文凭六年试验",
       "IB six-year experiment"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Nobel Prize in Physiology or Medicine",
@@ -34144,7 +34394,8 @@
       "诺贝尔生理学或医学奖",
       "Nobel Prize in Medicine",
       "Nobel Prize Physiology or Medicine"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Pause Giant AI Experiments Open Letter",
@@ -34155,7 +34406,8 @@
       "2023年暂停超级人工智能公开信",
       "FLI Open Letter 2023",
       "AI Pause Open Letter"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Regional University Alliances",
@@ -34163,7 +34415,8 @@
     "path": "wiki/facts/global/Regional University Alliances.md",
     "aliases": [
       "区域大学联盟"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Research Strategies in Comparative Education",
@@ -34176,7 +34429,8 @@
       "加州大学洛杉矶分校比较教育期刊元研究",
       "1999 年比较教育方法调查",
       "Rust et al. 1999 Study"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Stanford Prison Experiment",
@@ -34186,7 +34440,8 @@
       "斯坦福监狱实验",
       "Stanford Prison Experiment (SPE)",
       "Zimbardo Prison Experiment"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "World Bank Education Sector Policy Paper 1980",
@@ -34196,7 +34451,8 @@
       "Education Sector Policy Paper 1980",
       "世界银行1980年教育部门政策文件",
       "World Bank 1980 Education Paper"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "World Social Forum",
@@ -34206,7 +34462,8 @@
       "世界社会论坛",
       "WSF",
       "Fórum Social Mundial"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Planipolis",
@@ -34216,7 +34473,8 @@
       "IIEP Planipolis",
       "UNESCO Planipolis",
       "全球教育政策门户"
-    ]
+    ],
+    "subtype": "infrastructure"
   },
   {
     "title": "African Orphan Crops Consortium",
@@ -34225,7 +34483,8 @@
     "aliases": [
       "非洲孤儿作物联盟",
       "AOCC"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "ASEAN",
@@ -34235,7 +34494,8 @@
       "东南亚国家联盟",
       "东盟",
       "Association of Southeast Asian Nations"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Asian Infrastructure Investment Bank",
@@ -34245,7 +34505,8 @@
       "亚洲基础设施投资银行",
       "亚投行",
       "AIIB"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Building Evidence in Education",
@@ -34256,7 +34517,8 @@
       "构建教育证据工作组",
       "构建教育证据联盟",
       "Building Evidence in Education Working Group"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Campbell Collaboration",
@@ -34264,7 +34526,8 @@
     "path": "wiki/facts/global/Campbell Collaboration.md",
     "aliases": [
       "坎贝尔协作组织"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Center for Global Development",
@@ -34274,7 +34537,8 @@
       "全球发展中心",
       "Center for Global Development (CGD)",
       "CGD"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Centre for Educational Research and Innovation",
@@ -34285,7 +34549,8 @@
       "教育研究与创新中心",
       "经合组织教育研究与创新中心",
       "OECD CERI"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Development Economics Vice Presidency",
@@ -34296,7 +34561,8 @@
       "世界银行发展经济学研究局",
       "World Bank DEC",
       "Development Economics Vice Presidency (DEC)"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Development Gateway",
@@ -34307,7 +34573,8 @@
       "发展门户",
       "Development Gateway (DG)",
       "DG: An IREX Venture"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Early Childhood Development Action Network",
@@ -34316,7 +34583,8 @@
     "aliases": [
       "ECDAN",
       "早期儿童发展行动网络"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Education International",
@@ -34324,7 +34592,8 @@
     "path": "wiki/facts/global/Education International.md",
     "aliases": [
       "国际教育协会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Education.org",
@@ -34333,7 +34602,8 @@
     "aliases": [
       "全球教育知识中介基金会",
       "Education.org Foundation"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Evidence for Education Network",
@@ -34343,7 +34613,8 @@
       "教育证据网络",
       "EEN",
       "Evidence for Education Network (EEN)"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "EVIPNet",
@@ -34354,7 +34625,8 @@
       "Evidence-informed Policy Network",
       "证据知情决策网络",
       "WHO EVIPNet"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "GEMS Education",
@@ -34365,7 +34637,8 @@
       "环球教育集团",
       "Global Education Management Systems",
       "GEMS"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Global Campaign for Education",
@@ -34375,7 +34648,8 @@
       "GCE",
       "全球教育运动",
       "全球教育运动同盟"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Global Development Network",
@@ -34384,7 +34658,8 @@
     "aliases": [
       "全球发展网络",
       "GDN"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Global Education Cooperation Mechanism",
@@ -34394,7 +34669,8 @@
       "全球教育合作机制",
       "GCM",
       "全球协调机制"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Global Education Evidence Advisory Panel",
@@ -34403,7 +34679,8 @@
     "aliases": [
       "全球教育证据咨询小组",
       "GEEAP"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Global Partnership for Education",
@@ -34414,7 +34691,8 @@
       "GPE",
       "全民教育快车道倡议",
       "EFA-FTI"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "IEA",
@@ -34423,7 +34701,8 @@
     "aliases": [
       "国际教育成就评价协会",
       "International Association for the Evaluation of Educational Achievement"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "INEE",
@@ -34433,7 +34712,8 @@
       "机构间危机教育网络",
       "Inter-agency Network for Education in Emergencies",
       "危机教育机构间网络"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "International Development Association",
@@ -34442,7 +34722,8 @@
     "aliases": [
       "国际开发协会",
       "IDA"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "International Initiative for Impact Evaluation",
@@ -34451,7 +34732,8 @@
     "aliases": [
       "3ie",
       "国际影响评估倡议"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "International Institute for Educational Planning",
@@ -34464,7 +34746,8 @@
       "联合国教科文组织国际教育规划研究所",
       "教育规划研究所",
       "联合国教科文组织教育规划研究所"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "International Labour Organization",
@@ -34475,7 +34758,8 @@
       "国际劳工组织",
       "国际劳工局",
       "International Labour Office"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "International Monetary Fund",
@@ -34485,7 +34769,8 @@
       "国际货币基金组织",
       "货币基金组织",
       "IMF"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "International Schools Association",
@@ -34494,7 +34779,8 @@
     "aliases": [
       "国际学校协会",
       "ISA"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Minerva University",
@@ -34502,7 +34788,8 @@
     "path": "wiki/facts/global/Minerva University.md",
     "aliases": [
       "密涅瓦大学"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Mixed Methods International Research Association",
@@ -34512,7 +34799,8 @@
       "MMIRA",
       "混合方法国际研究协会",
       "Mixed Methods International Research Association (MMIRA)"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Network of Academic Corporate Relations Officers",
@@ -34521,7 +34809,8 @@
     "aliases": [
       "NACRO",
       "大学企业关系官网络"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Nord Anglia Education",
@@ -34533,7 +34822,8 @@
       "诺德安达教育集团",
       "Nord Anglia",
       "Nord Anglia Education PLC"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "NORRAG",
@@ -34542,7 +34832,8 @@
     "aliases": [
       "国际教育与培训合作政策研究网络",
       "Network for International Policies and Cooperation in Education and Training"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "OECD",
@@ -34552,7 +34843,8 @@
       "经济合作与发展组织",
       "Organisation for Economic Co-operation and Development",
       "经合组织"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Organisation for European Economic Co-operation",
@@ -34562,7 +34854,8 @@
       "OEEC",
       "欧洲经济合作组织",
       "European Economic Co-operation"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "PISA Governing Board",
@@ -34574,7 +34867,8 @@
       "Board of Participating Countries",
       "参测国委员会",
       "BPC"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Royal University of Phnom Penh",
@@ -34584,7 +34878,8 @@
       "金边皇家大学",
       "RUPP",
       "皇家金边大学"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "SDG 4 High-Level Steering Committee",
@@ -34595,7 +34890,8 @@
       "SDG 4 HLSC",
       "全球教育合作机制高级别指导委员会",
       "High-Level Steering Committee for SDG 4"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Standing Conference of Governments of the International Baccalaureate",
@@ -34604,7 +34900,8 @@
     "aliases": [
       "国际文凭政府常设会议",
       "Standing Conference of Governments"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "UNESCO",
@@ -34614,7 +34911,8 @@
       "联合国教科文组织",
       "教科文组织",
       "United Nations Educational, Scientific and Cultural Organization"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "UNESCO Institute for Statistics",
@@ -34625,7 +34923,8 @@
       "教科文组织统计研究所",
       "联合国教科文组织统计研究所",
       "UNESCO UIS"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "UNESCO UNEVOC",
@@ -34636,7 +34935,8 @@
       "UNESCO-UNEVOC",
       "UNEVOC",
       "International Centre for Technical and Vocational Education and Training"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "UNICEF",
@@ -34646,7 +34946,8 @@
       "联合国儿童基金会",
       "儿童基金会",
       "United Nations Children's Fund"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "United World Colleges",
@@ -34655,7 +34956,8 @@
     "aliases": [
       "联合世界书院",
       "UWC"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "University Industry Innovation Network",
@@ -34664,7 +34966,8 @@
     "aliases": [
       "UIIN",
       "大学产业创新网络"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "World Bank",
@@ -34675,7 +34978,8 @@
       "World Bank Group",
       "世行",
       "国际复兴开发银行"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "World Bank Institute",
@@ -34687,7 +34991,8 @@
       "经济发展学院",
       "EDI",
       "World Bank Institute (WBI)"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "World Council of Comparative Education Societies",
@@ -34698,7 +35003,8 @@
       "世界比较教育学会联合会",
       "世界比较教育学社联合会",
       "World Council of Comparative Education"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "World Trade Organization",
@@ -34709,7 +35015,8 @@
       "世贸组织",
       "WTO",
       "World Trade Organisation"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "1964 UNESCO-World Bank Cooperative Agreement",
@@ -34720,7 +35027,8 @@
       "教科文组织-世界银行合作协定",
       "UNESCO-World Bank Cooperative Agreement 1964",
       "UNESCO-World Bank Cooperative Agreement"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Australia in the Asian Century White Paper",
@@ -34732,7 +35040,8 @@
       "Asian Century White Paper",
       "Henry Report 2012",
       "亚洲世纪白皮书"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Childhood Obesity Governance",
@@ -34743,7 +35052,8 @@
       "儿童肥胖行动计划",
       "Childhood Obesity Plan for Action",
       "Governance of Childhood Obesity"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Declaration on Research Assessment",
@@ -34754,7 +35064,8 @@
       "旧金山科研评估宣言",
       "San Francisco Declaration on Research Assessment",
       "科研评估宣言"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Delors Report",
@@ -34768,7 +35079,8 @@
       "学习：内在的财富",
       "Learning: The Treasure Within",
       "Report to UNESCO of the International Commission on Education for the Twenty-first Century"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Education for All",
@@ -34779,7 +35091,8 @@
       "全民教育倡议",
       "全民教育运动",
       "Education for All (EFA)"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Frascati Manual",
@@ -34790,7 +35103,8 @@
       "弗拉斯卡蒂定义",
       "Frascati Manual 1963",
       "Frascati definitions"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "GATS and Trade in Education Services",
@@ -34801,7 +35115,8 @@
       "General Agreement on Trade in Services",
       "服务贸易总协定",
       "教育服务贸易"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "ICMJE Data Sharing Requirements 2018",
@@ -34811,7 +35126,8 @@
       "ICMJE 数据共享要求",
       "ICMJE clinical trial registration requirement",
       "ICMJE data sharing statement"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Nagoya Protocol",
@@ -34822,7 +35138,8 @@
       "Nagoya Protocol (2014)",
       "Nagoya Protocol on Access and Benefit-sharing",
       "遗传资源获取与惠益分享名古屋议定书"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Poverty Reduction Strategy Papers",
@@ -34833,7 +35150,8 @@
       "减贫战略规划",
       "PRSPs",
       "PRSP"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "THE Impact Ranking",
@@ -34844,7 +35162,8 @@
       "THE世界大学影响力排名",
       "Times Higher Education Impact Ranking",
       "THE SDG ranking"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "UN Sustainable Development Goals",
@@ -34858,7 +35177,8 @@
       "可持续发展目标",
       "2030年可持续发展议程",
       "SDG 4"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "United World Colleges Associated Schools Policy 1977",
@@ -34868,7 +35188,8 @@
       "联合世界书院关联学校政策",
       "1977年联合世界书院关联学校政策",
       "UWC Associated Schools Policy"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "1982 United World Colleges Scholarship Endowment Proposal",
@@ -34877,7 +35198,8 @@
     "aliases": [
       "1982年联合世界书院永久奖学金基金方案",
       "UWC permanent scholarship endowment proposal"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Baby PISA",
@@ -34890,7 +35212,8 @@
       "国际早期学习和儿童福祉研究",
       "国际早期学习与儿童福祉研究",
       "幼儿版国际学生评估项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Better Early Learning and Development at Scale",
@@ -34900,7 +35223,8 @@
       "BELDS",
       "优质早期学习与规模化发展倡议",
       "大规模优质早期学习与发展计划"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Build Back Better World",
@@ -34911,7 +35235,8 @@
       "重建更美好世界",
       "B3W",
       "Build Back Better World Partnership"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Building a Global Evidence Ecosystem for Teaching",
@@ -34921,7 +35246,8 @@
       "构建全球教学证据生态系统",
       "Global Evidence Ecosystem for Teaching",
       "EEF-BHP Global Evidence Ecosystem"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Critical Assessment of Structure Prediction",
@@ -34932,7 +35258,8 @@
       "CASP",
       "国际蛋白质结构预测竞赛",
       "蛋白质结构盲测评估"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Definition and Selection of Competencies",
@@ -34943,7 +35270,8 @@
       "能力界定与选择",
       "DeSeCo",
       "DeSeCo Project"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "EdStats",
@@ -34955,7 +35283,8 @@
       "Education Statistics",
       "World Bank EdStats",
       "EdStats (World Bank)"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Education at a Glance",
@@ -34964,7 +35293,8 @@
     "aliases": [
       "教育概览",
       "EAG"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Education GPS",
@@ -34974,7 +35304,8 @@
       "OECD Education GPS",
       "教育全球政策调查",
       "OECD Education GPS platform"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Education Policy Outlook",
@@ -34984,7 +35315,8 @@
       "EPO",
       "教育政策展望",
       "OECD Education Policy Outlook"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Educational Knowledge Management System",
@@ -34996,7 +35328,8 @@
       "世界银行教育知识管理系统",
       "World Bank EKMS",
       "Education Knowledge Management System"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Global Development Learning Network",
@@ -35007,7 +35340,8 @@
       "全球远程学习网络",
       "GDLN",
       "Global Development Learning Network (GDLN)"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Global Education Monitoring Report",
@@ -35019,7 +35353,8 @@
       "全民教育全球监测报告",
       "EFA Global Monitoring Report",
       "UNESCO GEMR"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Institutional Management in Higher Education",
@@ -35030,7 +35365,8 @@
       "经合组织高等教育机构管理计划",
       "IMHE",
       "Programme on Institutional Management in Higher Education"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "International Adult Literacy Survey",
@@ -35040,7 +35376,8 @@
       "国际成人识字率调查",
       "国际成人读写能力调查",
       "IALS"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "International Baccalaureate Applied Chemistry Course",
@@ -35050,7 +35387,8 @@
       "国际文凭应用化学课程",
       "IB Applied Chemistry Course",
       "International Baccalaureate Applied Chemistry Programme"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "International Indicators of Education Systems",
@@ -35066,7 +35404,8 @@
       "国际教育系统指标项目",
       "国际教育系统指标网络",
       "Project for International Indicators of Education Systems"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "International Summits on the Teaching Profession",
@@ -35077,7 +35416,8 @@
       "ISTP",
       "International Summit on the Teaching Profession",
       "国际教师职业高峰会"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "ISSPP Project",
@@ -35085,7 +35425,8 @@
     "path": "wiki/facts/global/ISSPP Project.md",
     "aliases": [
       "ISSPP项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Knowledge and Innovation Exchange",
@@ -35096,7 +35437,8 @@
       "KIX",
       "全球教育伙伴关系知识与创新交流机制",
       "知识与创新交流机制"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Knowledge for Development",
@@ -35108,7 +35450,8 @@
       "World Development Report 1998/1999",
       "WDR 1998/99",
       "Knowledge for Development Report"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Learning Data Compact",
@@ -35118,7 +35461,8 @@
       "学习数据契约",
       "学习数据协定",
       "LDC"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Mediterranean Regional Project",
@@ -35129,7 +35473,8 @@
       "MRP",
       "OECD MRP",
       "地中海地区教育规划项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Multiple Indicator Cluster Surveys",
@@ -35139,7 +35484,8 @@
       "MICS",
       "多指标聚类调查",
       "UNICEF MICS"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "OECD AHELO Project",
@@ -35149,7 +35495,8 @@
       "AHELO",
       "高等教育学习成果评估",
       "Assessment of Higher Education Learning Outcomes"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "OECD Improving School Leadership Project",
@@ -35158,7 +35505,8 @@
     "aliases": [
       "OECD Improving School Leadership Project 2006",
       "OECD改进学校领导力项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Open Knowledge Repository",
@@ -35169,7 +35517,8 @@
       "OKR",
       "世界银行开放知识库",
       "Open Knowledge Repository (OKR)"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Open Learning Campus",
@@ -35180,7 +35529,8 @@
       "OLC",
       "世界银行开放学习园区",
       "Open Learning Campus (OLC)"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "PIRLS",
@@ -35190,7 +35540,8 @@
       "国际阅读素养研究",
       "国际阅读素养进展研究",
       "Progress in International Reading Literacy Study"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "PISA",
@@ -35200,7 +35551,8 @@
       "国际学生评估项目",
       "Programme for International Student Assessment",
       "国际学生评价项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "PISA for Development",
@@ -35211,7 +35563,8 @@
       "发展中国家国际学生评估项目",
       "发展型国际学生评估",
       "OECD PISA-D"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "PISA for Schools",
@@ -35223,7 +35576,8 @@
       "校级国际学生评估项目",
       "PISA-based Test for Schools",
       "PBTS"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Programme for the International Assessment of Adult Competencies",
@@ -35234,7 +35588,8 @@
       "国际成人能力评估项目",
       "成人能力国际评估",
       "OECD PIAAC"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Programme on Educational Building",
@@ -35246,7 +35601,8 @@
       "PEB",
       "Centre for Effective Learning Environments",
       "CELE"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Protein Data Bank",
@@ -35257,7 +35613,8 @@
       "PDB",
       "wwPDB",
       "蛋白质数据银行"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "RISE Programme",
@@ -35267,7 +35624,8 @@
       "提高教育系统成效研究项目",
       "RISE项目",
       "Research on Improving Systems of Education"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Robert S. McNamara Fellowships Program",
@@ -35278,7 +35636,8 @@
       "麦克纳马拉研究员计划",
       "McNamara Fellowships",
       "RSMFP"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Skills Toward Employment and Productivity",
@@ -35289,7 +35648,8 @@
       "STEP",
       "STEP项目",
       "Skills Toward Employment and Productivity (STEP)"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Starting Strong",
@@ -35301,7 +35661,8 @@
       "Starting Strong 系列报告",
       "OECD Starting Strong",
       "经合组织早期教育质量工具箱"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Strategic Compact",
@@ -35311,7 +35672,8 @@
       "战略契约",
       "世界银行战略契约",
       "World Bank Strategic Compact"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Strengthening the Impact of Education Research Project",
@@ -35321,7 +35683,8 @@
       "强化教育研究影响力项目",
       "OECD Strengthening the Impact of Education Research",
       "SIER Project"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Systems Approach for Better Education Results",
@@ -35332,7 +35695,8 @@
       "SABER",
       "系统性教育成效提升法",
       "Systems Approach for Better Education Results (SABER)"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Teaching and Learning International Survey",
@@ -35343,7 +35707,8 @@
       "教师教学国际调查",
       "国际教学与学习调查",
       "OECD TALIS"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "TIMSS",
@@ -35353,7 +35718,8 @@
       "国际数学与科学趋势研究",
       "国际数学与科学趋势调查",
       "Trends in International Mathematics and Science Study"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "UOE Data Collection",
@@ -35364,7 +35730,8 @@
       "UNESCO-OECD-Eurostat",
       "UOE 联合数据收集机制",
       "UNESCO-OECD-Eurostat joint data collection"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "World Bank Economic Review",
@@ -35374,7 +35741,8 @@
       "世界银行经济评论",
       "WBER",
       "The World Bank Economic Review"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "World Development Indicators",
@@ -35385,7 +35753,8 @@
       "世界发展指标",
       "世界发展指标库",
       "World Development Indicators database"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "World Education Indicators",
@@ -35397,7 +35766,8 @@
       "WEI",
       "World Education Indicators Programme",
       "World Education Indicators Project"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "World Education Reform Database",
@@ -35407,7 +35777,8 @@
       "世界教育改革数据库",
       "WERD",
       "World Education Reform Database (WERD)"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "2012 Moral and National Education Controversy",
@@ -35416,7 +35787,8 @@
     "aliases": [
       "Moral and National Education Controversy",
       "2012国民教育争议"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "2019 Hong Kong Protests",
@@ -35427,7 +35799,8 @@
       "反修例运动",
       "2019 Hong Kong Protests and Education",
       "Hong Kong Protests and Education"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "National Security Law",
@@ -35437,7 +35810,8 @@
       "香港国安法",
       "国安法对香港教育的影响",
       "National Security Law Impact on Hong Kong Education"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Symposium on International Teaching",
@@ -35446,7 +35820,8 @@
     "aliases": [
       "Symposium on International Teaching 2007",
       "国际教学研讨会2007"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "English Schools Foundation Hong Kong",
@@ -35457,7 +35832,8 @@
       "英基学校协会",
       "英基学校基金会",
       "ESF Hong Kong"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "2009 Hong Kong NSS Curriculum Reform",
@@ -35468,7 +35844,8 @@
       "3+3+4 学制改革",
       "Hong Kong NSS Reform",
       "New Senior Secondary Curriculum"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Citizenship and Social Development",
@@ -35478,7 +35855,8 @@
       "公民与社会发展科",
       "CSD",
       "公社科"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Liberal Studies",
@@ -35486,7 +35864,8 @@
     "path": "wiki/facts/hong-kong/Liberal Studies.md",
     "aliases": [
       "香港通识教育科"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "My Pledge to Act",
@@ -35494,7 +35873,8 @@
     "path": "wiki/facts/hong-kong/My Pledge to Act.md",
     "aliases": [
       "我的行动承诺"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "National Education",
@@ -35504,7 +35884,8 @@
       "香港国民教育",
       "国民教育",
       "National Education in Hong Kong"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Youth Development Blueprint",
@@ -35513,7 +35894,8 @@
     "aliases": [
       "青年发展蓝图",
       "香港青年发展蓝图"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Hungarian Researcher Teacher Scheme",
@@ -35524,7 +35906,8 @@
       "Kutatótanár",
       "Hungarian Researcher Teacher Category",
       "匈牙利研究型教师计划"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Indian Council for Cultural Relations",
@@ -35534,7 +35917,8 @@
       "印度文化关系委员会",
       "ICCR",
       "印度文化中心网络"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Higher Education Authority",
@@ -35544,7 +35928,8 @@
       "爱尔兰高等教育局",
       "爱尔兰高教局",
       "An tÚdarás um Ard-Oideachas"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Science Foundation Ireland",
@@ -35553,7 +35938,8 @@
     "aliases": [
       "爱尔兰科学基金会",
       "SFI"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Hunt Report",
@@ -35563,7 +35949,8 @@
       "亨特报告",
       "爱尔兰面向2030年国家高等教育战略",
       "National Strategy for Higher Education to 2030"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Irish Survey of Student Engagement",
@@ -35574,7 +35961,8 @@
       "StudentSurvey.ie",
       "爱尔兰学生投入调查",
       "爱尔兰大学生参与调查"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Founding of United World College of the Adriatic",
@@ -35584,7 +35972,8 @@
       "亚得里亚海联合世界书院创办",
       "亚得里亚海书院创办",
       "Founding of UWC Adriatic"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "INVALSI",
@@ -35594,7 +35983,8 @@
       "意大利国家教育培训系统评估研究院",
       "意大利国家教育评估院",
       "Istituto Nazionale per la Valutazione del Sistema Educativo di Istruzione e di Formazione"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Azione LIM",
@@ -35604,7 +35994,8 @@
       "Azione LIM 2008",
       "Interactive Whiteboard Action",
       "意大利互动白板行动"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "La Buona Scuola",
@@ -35616,7 +36007,8 @@
       "Legge 107/2015",
       "The Good School Reform",
       "Riforma della Buona Scuola"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Progetto Valorizza",
@@ -35628,7 +36020,8 @@
       "Project Valorizza",
       "Valorizza Experiment",
       "意大利唯才主义教育评价试点"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "TECO Project",
@@ -35639,7 +36032,8 @@
       "意大利大学生素养测验",
       "意大利素养测验项目",
       "Test sulle Competenze"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Kokutai no Hongi",
@@ -35648,7 +36042,8 @@
     "aliases": [
       "国体之本义",
       "Cardinal Principles of the National Entity of Japan"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Meiji Educational Reform",
@@ -35661,7 +36056,8 @@
       "1872年学制",
       "Meiji Education Reform",
       "Gakusei 1872"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "PISA Shock in Japan",
@@ -35672,7 +36068,8 @@
       "日本国际学生评估项目冲击",
       "PISAショック",
       "Japanese PISA Shock"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Imperial Universities",
@@ -35684,7 +36081,8 @@
       "帝国大学体制",
       "旧帝国大学",
       "Imperial Universities of Japan"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Ministry of International Trade and Industry",
@@ -35695,7 +36093,8 @@
       "日本通商产业省",
       "通产省",
       "通商产业省"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Institute for Educational Policy Research",
@@ -35705,7 +36104,8 @@
       "NIER",
       "国立教育政策研究所",
       "日本国立教育政策研究所"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "300,000 Foreign Students Plan",
@@ -35717,7 +36117,8 @@
       "留学生30万人计划（日本）",
       "300,000 International Students Plan",
       "Plan for 300,000 Exchange Students"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Act on the Promotion of Technology Transfer from Universities to Private Business Operators",
@@ -35731,7 +36132,8 @@
       "大学技术转让促进法",
       "TLO Act",
       "Act on the Promotion of Technology Transfer from Universities"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Article 9 of the Japanese Constitution",
@@ -35742,7 +36144,8 @@
       "Japanese Constitution Article 9",
       "日本和平宪法第九条",
       "和平宪法第九条"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Japan Innovation Policy System",
@@ -35752,7 +36155,8 @@
       "日本创新政策体系",
       "Japan Innovation Policy",
       "日本科技创新立国"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Tsukuba Science City",
@@ -35761,7 +36165,8 @@
     "aliases": [
       "筑波科学城",
       "Tsukuba"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Latin American Debt Crisis of 1982",
@@ -35773,7 +36178,8 @@
       "拉美失去的十年",
       "Latin American Debt Crisis",
       "拉美债务危机"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Inter-American Development Bank",
@@ -35784,7 +36190,8 @@
       "IDB",
       "BID",
       "Banco Interamericano de Desarrollo"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Latin American Campaign for the Right to Education",
@@ -35794,7 +36201,8 @@
       "CLADE",
       "拉丁美洲受教育权运动",
       "Campaña Latinoamericana por el Derecho a la Educación"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Alliance for Progress",
@@ -35805,7 +36213,8 @@
       "进步同盟",
       "进步联盟",
       "Alianza para el Progreso"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "LLECE",
@@ -35817,7 +36226,8 @@
       "LLECE Assessment",
       "SERCE",
       "Segundo Estudio Regional Comparativo y Explicativo"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Mexican Educational Modernization of 1992",
@@ -35829,7 +36239,8 @@
       "基础教育现代化国家协定",
       "Acuerdo Nacional para la Modernización de la Educación Básica",
       "墨西哥1992年教育改革"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Centro Nacional de Evaluación para la Educación Superior",
@@ -35839,7 +36250,8 @@
       "CENEVAL",
       "墨西哥国家高等教育评估中心",
       "墨西哥高等教育评估中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "INEA",
@@ -35850,7 +36262,8 @@
       "Instituto Nacional para la Educación de los Adultos",
       "全国成人教育学会",
       "National Institute for Adult Education"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "SNTE",
@@ -35861,7 +36274,8 @@
       "Sindicato Nacional de Trabajadores de la Educación",
       "全国教育工作者工会",
       "National Union of Education Workers"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Cram Schools",
@@ -35877,7 +36291,8 @@
       "活部",
       "课后补习",
       "private tutoring academies"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "IB Expansion in North American Public High Schools 1977-1984",
@@ -35886,7 +36301,8 @@
     "aliases": [
       "1977至1984年国际文凭在北美公立高中的扩张",
       "North American public high school IB expansion"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "John Dewey's 1928 Visit to the Soviet Union",
@@ -35896,7 +36312,8 @@
       "杜威1928年访苏",
       "Dewey 1928 Soviet visit",
       "1928年杜威访问苏联"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Sino-American Trade War",
@@ -35906,7 +36323,8 @@
       "中美贸易战",
       "中美贸易摩擦",
       "US-China Trade War"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "American Society for Cultural Relations with Russia",
@@ -35916,7 +36334,8 @@
       "美国对俄文化关系协会",
       "ASCRR",
       "美苏文化交流协会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Asia South Pacific Association for Basic and Adult Education",
@@ -35926,7 +36345,8 @@
       "亚太基础与成人教育协会",
       "Asia South Pacific Association for Basic and Adult Education (ASPBAE)",
       "ASPBAE"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Forum on China-Africa Cooperation",
@@ -35935,7 +36355,8 @@
     "aliases": [
       "中非合作论坛",
       "FOCAC"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "International Baccalaureate North America",
@@ -35945,7 +36366,8 @@
       "国际文凭北美公司",
       "IB North America",
       "IBNA"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Best Evidence in Brief",
@@ -35954,7 +36376,8 @@
     "aliases": [
       "最佳证据简报",
       "BEiB"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Korea Innovation Policy System",
@@ -35964,7 +36387,8 @@
       "韩国创新政策体系",
       "Korea Innovation Policy",
       "韩国科技立国"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Regional Comprehensive Economic Partnership",
@@ -35973,7 +36397,8 @@
     "aliases": [
       "区域全面经济伙伴关系协定",
       "RCEP"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Southeast Asian Higher Education Common Space",
@@ -35983,7 +36408,8 @@
       "东南亚高等教育共同空间",
       "ASEAN Common Space in Higher Education",
       "Southeast Asian Higher Education Common Space Declaration"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Swiss Innovation Policy System",
@@ -35993,7 +36419,8 @@
       "瑞士创新政策体系",
       "Swiss Innovation Policy",
       "瑞士创新体系"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Asia-Africa Growth Corridor",
@@ -36002,7 +36429,8 @@
     "aliases": [
       "亚非增长走廊",
       "AAGC"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "China-Pakistan Economic Corridor",
@@ -36011,7 +36439,8 @@
     "aliases": [
       "中巴经济走廊",
       "CPEC"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "International Baccalaureate Nutritional Science Course",
@@ -36021,7 +36450,8 @@
       "国际文凭营养科学课程",
       "IB Nutritional Science Course",
       "International Baccalaureate Nutritional Science Programme"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "PILNA",
@@ -36031,7 +36461,8 @@
       "太平洋岛国读写与计算能力测评",
       "Pacific Islands Literacy and Numeracy Assessment",
       "PILNA Assessment"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Science Technology and Social Change Curriculum Pilot",
@@ -36041,7 +36472,8 @@
       "科学技术与社会变迁课程试点",
       "Science Technology and Social Change",
       "科学、技术与社会变迁"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Sino-Soviet Educational Cooperation",
@@ -36055,7 +36487,8 @@
       "1960年苏联撤走在华专家事件",
       "Sino-Soviet Scientific and Educational Cooperation",
       "Withdrawal of Soviet Experts from China"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Transnationalism and America Project SYSU",
@@ -36064,7 +36497,8 @@
     "aliases": [
       "跨国主义与美国项目",
       "SYSU Transnationalism and America"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Pacification of 1917",
@@ -36077,7 +36511,8 @@
       "学校论争的终结",
       "The Pacification of 1917",
       "Schoolstrijd Pacification"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "HBO-Raad",
@@ -36090,7 +36525,8 @@
       "Vereniging Hogescholen",
       "HBO Council",
       "荷兰应用科技大学协会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Kenniskamer",
@@ -36100,7 +36536,8 @@
       "Dutch Knowledge Chamber",
       "知识室",
       "荷兰教育部知识室"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Kennisrotonde",
@@ -36110,7 +36547,8 @@
       "NRO Kennisrotonde",
       "Knowledge Roundabout",
       "知识环岛"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Netherlands Initiative for Education Research",
@@ -36121,7 +36559,8 @@
       "Nationaal Regieorgaan Onderwijsonderzoek",
       "荷兰国家教育研究所",
       "荷兰教育研究倡议"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Top Institute for Evidence-Based Education Research",
@@ -36129,7 +36568,8 @@
     "path": "wiki/facts/netherlands/Top Institute for Evidence-Based Education Research.md",
     "aliases": [
       "荷兰证据本位教育研究顶尖研究所"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "VSNU",
@@ -36141,7 +36581,8 @@
       "Universiteiten van Nederland",
       "UNL",
       "Vereniging van Samenwerkende Nederlandse Universiteiten"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Higher Education and Research Act 1992",
@@ -36154,7 +36595,8 @@
       "WHW Act",
       "Wet op het hoger onderwijs en wetenschappelijk onderzoek",
       "1992年高等教育与科学研究法"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Higher Education and Research Plan",
@@ -36167,7 +36609,8 @@
       "HOOP Plan",
       "Hoger Onderwijs en Onderzoek Plan",
       "对话式规划"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Higher Education Autonomy and Quality",
@@ -36181,7 +36624,8 @@
       "HOAK White Paper",
       "Hoger Onderwijs: Autonomie en Kwaliteit",
       "1985年荷兰高等教育自主与质量白皮书"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Netherlands Top-sector Policy",
@@ -36190,7 +36634,8 @@
     "aliases": [
       "Dutch Top-sector Policy",
       "荷兰顶级行业政策"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Data Team Intervention",
@@ -36201,7 +36646,8 @@
       "数据团队",
       "Data Team",
       "Data Team Model"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Doctoral Grant for Teachers",
@@ -36211,7 +36657,8 @@
       "荷兰教师博士资助计划",
       "Promotiebeurs voor leraren",
       "Doctoral Grant for Teachers programme"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Treasury Briefing on Student-Teacher Ratios",
@@ -36219,7 +36666,8 @@
     "path": "wiki/facts/new-zealand/Treasury Briefing on Student-Teacher Ratios.md",
     "aliases": [
       "财政部师生比简报"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Visible Learning Branding and Global Influences",
@@ -36229,7 +36677,8 @@
       "可见的学习品牌化与全球影响",
       "Visible Learningplus",
       "VLplus"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Cognition Education",
@@ -36243,7 +36692,8 @@
       "认知教育",
       "认知教育集团",
       "认知教育信托"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "COMET Auckland",
@@ -36254,7 +36704,8 @@
       "Community Education Trust Auckland",
       "City of Manukau Education Trust",
       "COMET"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "CORE Education",
@@ -36264,7 +36715,8 @@
       "核心教育",
       "CORE Education Charitable Trust",
       "CORE Education Limited"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Foundation North",
@@ -36275,7 +36727,8 @@
       "ASB Community Trust",
       "ASB 社区信托",
       "Foundation North Group"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "KidsCan",
@@ -36284,7 +36737,8 @@
     "aliases": [
       "儿童之友",
       "KidsCan Charitable Trust"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Manaiakalani Education Trust",
@@ -36293,7 +36747,8 @@
     "aliases": [
       "Manaiakalani教育信托",
       "马奈卡拉尼教育信托"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "New Zealand Initiative",
@@ -36304,7 +36759,8 @@
       "新西兰倡议智库",
       "NZI",
       "The New Zealand Initiative"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "NEXT Foundation",
@@ -36313,7 +36769,8 @@
     "aliases": [
       "内克斯特基金会",
       "NEXT 基金会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Springboard Trust",
@@ -36322,7 +36779,8 @@
     "aliases": [
       "跳板信托",
       "新西兰跳板信托"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Contestable School Support Services",
@@ -36330,7 +36788,8 @@
     "path": "wiki/facts/new-zealand/Contestable School Support Services.md",
     "aliases": [
       "可竞争学校支持服务"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Learning for Life Report",
@@ -36340,7 +36799,8 @@
       "Learning for Life Report 1989",
       "为生活而学习报告",
       "Learning for Life"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "New Zealand National Standards",
@@ -36349,7 +36809,8 @@
     "aliases": [
       "新西兰国家标准",
       "National Standards"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "NZ Curriculum Refresh 2021-2026",
@@ -36360,7 +36821,8 @@
       "NZ curriculum refresh",
       "Te Mātaiaho",
       "新西兰课程刷新"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Partnership Schools Kura Hourua",
@@ -36372,7 +36834,8 @@
       "PSKH",
       "新西兰特许学校",
       "特许学校（新西兰）"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "The New Zealand Curriculum",
@@ -36380,7 +36843,8 @@
     "path": "wiki/facts/new-zealand/The New Zealand Curriculum.md",
     "aliases": [
       "新西兰课程"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "The Scott Report",
@@ -36390,7 +36854,8 @@
       "The Scott Report 1986",
       "斯科特报告",
       "Report on the Enquiry into the Quality of Teaching"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Tomorrow's Schools Reforms",
@@ -36399,7 +36864,8 @@
     "aliases": [
       "明日学校改革",
       "Tomorrow's Schools"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Best Evidence Synthesis",
@@ -36410,7 +36876,8 @@
       "最佳证据综合项目",
       "Best Evidence Synthesis Iteration",
       "NZ BES"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Foundation North Māori and Pasifika Education Initiative",
@@ -36422,7 +36889,8 @@
       "毛利与太平洋岛民教育倡议",
       "MPEI",
       "Foundation North MPEI"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Picking Up the Pace",
@@ -36433,7 +36901,8 @@
       "PACE 项目",
       "PACE Project",
       "Picking up the Pace Project"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Te Kotahitanga",
@@ -36444,7 +36913,8 @@
       "Te Kotahitanga Project",
       "毛利中学生关系教学干预项目",
       "毛利学生教育改进计划"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Teach First New Zealand",
@@ -36455,7 +36925,8 @@
       "Ako Mātātupu",
       "Teach First New Zealand Ako Mātātupu",
       "新西兰先行者教育"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Teaching and Learning Research Initiative",
@@ -36465,7 +36936,8 @@
       "TLRI",
       "新西兰教学与学习研究倡议",
       "教学与学习研究倡议"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Visible Learning Meta-X",
@@ -36475,7 +36947,8 @@
       "Visible Learning MetaX",
       "可见的学习元分析数据库",
       "VL Meta-X"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Kunnskapssenter for utdanning",
@@ -36487,7 +36960,8 @@
       "挪威知识中心",
       "Knowledge Centre for Education",
       "KSU"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Norwegian Agency for Quality Assurance in Education",
@@ -36498,7 +36972,8 @@
       "挪威教育质量保障局",
       "挪威教育质量保证局",
       "Nasjonalt organ for kvalitet i utdanningen"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Studiebarometeret",
@@ -36509,7 +36984,8 @@
       "挪威大学生学业体验晴雨表",
       "Norwegian National Student Survey",
       "Studiebarometeret Survey"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Nasjonale prøver",
@@ -36522,7 +36998,8 @@
       "Norwegian National Tests",
       "National Tests (Norway)",
       "Nasjonale prover"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Programme for Research and Innovation in the Educational Sector",
@@ -36532,7 +37009,8 @@
       "FINNUT",
       "挪威教育部门研究与创新计划",
       "挪威教育研究与创新计划"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Public Sector PhD Scheme",
@@ -36543,7 +37021,8 @@
       "OFFPHD",
       "Offentlig sektor-ph.d.",
       "Public Sector PhD Scheme in Norway"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "National Education Policy 2009 Pakistan",
@@ -36553,7 +37032,8 @@
       "Pakistan National Education Policy 2009",
       "巴基斯坦 2009 年国家教育政策",
       "NEP 2009"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Programa de Avaliação Externa das Escolas",
@@ -36564,7 +37044,8 @@
       "Portuguese Schools Evaluation Programme",
       "学校外部评估计划",
       "PEE (葡萄牙)"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Akademgorodok",
@@ -36574,7 +37055,8 @@
       "阿卡德姆戈罗多克",
       "Akademgorodok Science City",
       "新西伯利亚科学城"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Lysenkoism",
@@ -36584,7 +37066,8 @@
       "李森科主义",
       "李森科事件",
       "Lysenko affair"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Russian Translation of Visible Learning",
@@ -36594,7 +37077,8 @@
       "Russian Translation of Visible Learning 2017",
       "俄文版可见的学习",
       "《可见的学习》俄译本"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Consolidation of Russian State Science Funds",
@@ -36606,7 +37090,8 @@
       "РНФ и РФФИ",
       "Consolidation of Russian Scientific Funds",
       "国家竞争性基金的行政垄断化整合"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Federal Law No. 121-FZ on Foreign Agents",
@@ -36618,7 +37103,8 @@
       "Федеральный закон № 121-ФЗ",
       "Foreign Agent Law",
       "Federal Law No. 121-FZ"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Federal Law No. 129-FZ on Undesirable Organizations",
@@ -36630,7 +37116,8 @@
       "俄罗斯非友好组织法",
       "Федеральный закон № 129-ФЗ",
       "Federal Law No. 129-FZ"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Federal Law No. 85-FZ on Enlightenment Activities",
@@ -36642,7 +37129,8 @@
       "俄罗斯启盟活动法",
       "Федеральный закон № 85-ФЗ",
       "Law on Enlightenment Activities"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Project 5-100",
@@ -36654,7 +37142,8 @@
       "Проект 5-100",
       "Russian Academic Excellence Project",
       "Project 5-top 100"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Transformation of Singapore International School into United World College of South East Asia",
@@ -36664,7 +37153,8 @@
       "新加坡国际学校转为东南亚联合世界书院",
       "东南亚联合世界书院加入联合世界书院",
       "UWC South East Asia Admission 1975"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Goh Report",
@@ -36675,7 +37165,8 @@
       "1979年新加坡教育部报告",
       "Report on the Ministry of Education Singapore",
       "1979 Goh Report"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Singapore Civil Service Salary Benchmarking Policy",
@@ -36686,7 +37177,8 @@
       "新加坡部长与高级公务员薪酬基准政策",
       "White Paper on Competitive Salaries for Competent Government",
       "Singapore Ministerial Salary Benchmarking"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Singapore Education Hub Policy",
@@ -36698,7 +37190,8 @@
       "Global Schoolhouse",
       "东方波士顿",
       "Boston of the East"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Speak Mandarin Campaign",
@@ -36707,7 +37200,8 @@
     "aliases": [
       "讲华语运动",
       "Singapore Speak Mandarin Campaign"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Free Semester System",
@@ -36718,7 +37212,8 @@
       "韩国初中自由学期制",
       "자유학기制",
       "자유학기제"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "PISA Response in Spain",
@@ -36729,7 +37224,8 @@
       "西班牙国际学生评估项目应对",
       "PISA in Spain",
       "Spanish PISA Response"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Centros Concertados",
@@ -36742,7 +37238,8 @@
       "公共资助民办学校",
       "协约中心",
       "Escuelas concertadas"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "General Act of Education of 1970",
@@ -36754,7 +37251,8 @@
       "LGE",
       "Ley General de Educación",
       "General Education Act of 1970"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Moyano Law of 1857",
@@ -36766,7 +37264,8 @@
       "莫亚诺法案",
       "Ley Moyano",
       "Public Instruction Act of 1857"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Organic Law on Education 2006",
@@ -36778,7 +37277,8 @@
       "LOE",
       "Ley Orgánica de Educación",
       "Organic Law 2/2006"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Organic Law on the General Organization of the Education System 1990",
@@ -36790,7 +37290,8 @@
       "LOGSE",
       "Ley Orgánica de Ordenación General del Sistema Educativo",
       "Organic Law 1/1990"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Prueba CDI",
@@ -36802,7 +37303,8 @@
       "Prueba de Conocimientos y Destrezas Indispensables",
       "Madrid CDI Test",
       "Prueba CDI Madrid"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Visible Learning in Sweden",
@@ -36810,7 +37312,8 @@
     "path": "wiki/facts/sweden/Visible Learning in Sweden.md",
     "aliases": [
       "瑞典的可见的学习"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Swedish Institute for Educational Research",
@@ -36819,7 +37322,8 @@
     "aliases": [
       "瑞典教育研究所",
       "Skolforskningsinstitutet"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Swedish National Agency for Education",
@@ -36832,7 +37336,8 @@
       "Skolverket",
       "National Agency for Education",
       "NAE"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Swedish Schools Inspectorate",
@@ -36842,7 +37347,8 @@
       "瑞典学校督察局",
       "瑞典教育督导局",
       "Skolinspektionen"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Swedish ULF Project",
@@ -36855,7 +37361,8 @@
       "ULF-avtalet",
       "ULF Project",
       "Utveckling, Lärande, Forskning"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Founding of the International Baccalaureate",
@@ -36864,7 +37371,8 @@
     "aliases": [
       "国际文凭创立",
       "IB founding"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "HarmoS",
@@ -36875,7 +37383,8 @@
       "Interkantonale Vereinbarung über die Harmonisierung der obligatorischen Schule",
       "Interstate Compulsory Education Harmonization Agreement",
       "HarmoS-Konkordat"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Aga Khan Foundation",
@@ -36884,7 +37393,8 @@
     "aliases": [
       "AKF",
       "阿迦汗基金会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "International School of Geneva",
@@ -36894,7 +37404,8 @@
       "日内瓦国际学校",
       "École internationale de Genève",
       "Ecolint"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "International Schools Examination Syndicate",
@@ -36903,7 +37414,8 @@
     "aliases": [
       "国际学校考试辛迪加",
       "ISES"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Jacobs Foundation",
@@ -36911,7 +37423,8 @@
     "path": "wiki/facts/switzerland/Jacobs Foundation.md",
     "aliases": [
       "雅各布斯基金会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Swiss Coordination Centre for Research in Education",
@@ -36923,7 +37436,8 @@
       "Centre suisse de coordination pour la recherche en éducation",
       "Schweizerische Koordinationsstelle für Bildungsforschung",
       "瑞士教育研究协调中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Education Reform Initiative",
@@ -36933,7 +37447,8 @@
       "ERG",
       "Eğitim Reformu Girişimi",
       "土耳其教育改革倡议"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "UAE Education Hub Projects",
@@ -36943,7 +37458,8 @@
       "阿联酋教育枢纽项目",
       "阿联酋教育枢纽",
       "UAE Education Hub"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "1970s Methodology Debates in Comparative Education",
@@ -36955,7 +37471,8 @@
       "King-Archer debates",
       "金-阿彻论战",
       "1970年代方法论断裂"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Areopagitica",
@@ -36964,7 +37481,8 @@
     "aliases": [
       "论出版自由",
       "Milton's Areopagitica"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "BERA-RSA Inquiry into the Role of Research in Teacher Education",
@@ -36975,7 +37493,8 @@
       "英国教师教育与科研调查报告",
       "BERA-RSA Inquiry",
       "BERA-RSA 2014"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Founding of Atlantic College",
@@ -36984,7 +37503,8 @@
     "aliases": [
       "大西洋学院创办",
       "Atlantic College founding"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Hargreaves 1996 TTA Lecture",
@@ -36993,7 +37513,8 @@
     "aliases": [
       "Hargreaves TTA Lecture",
       "哈格里夫斯1996年TTA演讲"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Oxford UIDP Summit 2019",
@@ -37003,7 +37524,8 @@
       "2019 牛津 UIDP 峰会",
       "Oxford UIDP Summit",
       "UK-UIDP Summit"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "PISA Response in England",
@@ -37015,7 +37537,8 @@
       "英国PISA应对",
       "英国国际学生评估项目反应",
       "England PISA Debate"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Playing for Success",
@@ -37023,7 +37546,8 @@
     "path": "wiki/facts/uk/Playing for Success.md",
     "aliases": [
       "Playing for Success计划"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Research Informed Practice Site",
@@ -37031,12 +37555,14 @@
     "path": "wiki/facts/uk/Research Informed Practice Site.md",
     "aliases": [
       "研究知情实践网站"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "ResearchED",
     "type": "fact",
-    "path": "wiki/facts/uk/ResearchED.md"
+    "path": "wiki/facts/uk/ResearchED.md",
+    "subtype": "event"
   },
   {
     "title": "The Big Bang Fair",
@@ -37047,7 +37573,8 @@
       "英国大爆炸科技博览会",
       "The Big Bang UK Young Scientists & Engineers Fair",
       "Big Bang Fair"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Times Higher Education World University Rankings",
@@ -37059,7 +37586,8 @@
       "THE World University Rankings",
       "THE Rankings",
       "Times Higher Education Rankings"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Advanced Manufacturing Research Centre",
@@ -37071,7 +37599,8 @@
       "谢菲尔德大学先进制造研究中心",
       "AMRC with Boeing",
       "University of Sheffield Advanced Manufacturing Research Centre"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Association for Science and Discovery Centres",
@@ -37081,7 +37610,8 @@
       "ASDC",
       "英国科学与探索中心协会",
       "Association for Science and Discovery Centres (ASDC)"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Association of Medical Research Charities",
@@ -37091,7 +37621,8 @@
       "AMRC UK",
       "英国医学研究慈善联合会",
       "医学研究慈善协会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "British Association for International and Comparative Education",
@@ -37102,7 +37633,8 @@
       "英国国际与比较教育学会",
       "英国比较与国际教育学会",
       "British Association for International and Comparative Education (BAICE)"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "British Educational Research Association",
@@ -37112,7 +37644,8 @@
       "英国教育研究学会",
       "英国教育研究协会",
       "BERA"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "CEM Centre",
@@ -37122,7 +37655,8 @@
       "Curriculum, Evaluation and Management Centre",
       "课程评估与管理中心",
       "Cambridge CEM"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Centre for the Use of Research and Evidence in Education",
@@ -37132,7 +37666,8 @@
       "CUREE",
       "教育研究与证据使用中心",
       "循证教育研究与使用中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Chartered College of Teaching",
@@ -37144,7 +37679,8 @@
       "英国特许教师学院",
       "CCT",
       "CCOT"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Committee for the Accreditation of Teacher Education",
@@ -37154,7 +37690,8 @@
       "CATE",
       "教师教育认证委员会",
       "Council for the Accreditation of Teacher Education"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Early Intervention Foundation",
@@ -37164,7 +37701,8 @@
       "EIF",
       "英国早期干预基金会",
       "早期干预基金会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Education Endowment Foundation",
@@ -37173,7 +37711,8 @@
     "aliases": [
       "EEF",
       "教育捐赠基金会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Education Media Centre",
@@ -37183,7 +37722,8 @@
       "EMC",
       "英国教育媒体中心",
       "教育媒体中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "EngineeringUK",
@@ -37192,7 +37732,8 @@
     "aliases": [
       "英国工程协会",
       "英国工程学会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "EPPI-Centre",
@@ -37203,7 +37744,8 @@
       "政策与实践证据信息协调中心",
       "EPPI Centre",
       "EPPI"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Evidence Network",
@@ -37213,7 +37755,8 @@
       "证据网络",
       "UK Evidence Network",
       "ESRC Evidence Network"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "General Teaching Council for Scotland",
@@ -37223,7 +37766,8 @@
       "苏格兰通用教学总署",
       "GTCS",
       "苏格兰教学委员会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Government Digital Service",
@@ -37233,7 +37777,8 @@
       "GDS",
       "英国政府数字服务局",
       "英国政府数字服务中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Higher Education Funding Council for England",
@@ -37243,7 +37788,8 @@
       "HEFCE",
       "英格兰高等教育拨款委员会",
       "英国高教拨款委员会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Impetus",
@@ -37254,7 +37800,8 @@
       "动力信托",
       "Impetus Trust",
       "Impetus - The Private Equity Foundation"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Institute for Effective Education",
@@ -37263,7 +37810,8 @@
     "aliases": [
       "IEE",
       "有效教育研究所"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Institute for Research in Schools",
@@ -37272,7 +37820,8 @@
     "aliases": [
       "学校科研研究所",
       "Institute for Research in Schools (IRIS)"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "International Baccalaureate Examinations Office",
@@ -37282,7 +37831,8 @@
       "国际文凭考试办公室",
       "IB Examinations Office",
       "IBO Examinations Office"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Co-ordinating Centre for Public Engagement",
@@ -37292,7 +37842,8 @@
       "NCCPE",
       "英国国家公众参与协调中心",
       "国家公众参与协调中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Institute for Health and Care Excellence",
@@ -37303,7 +37854,8 @@
       "英国国家卫生与临床优化研究所",
       "英国国家临床优化研究所",
       "国家健康与临床卓越研究所"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Office of Special Inquiries and Reports",
@@ -37316,7 +37868,8 @@
       "Special Inquiries and Reports",
       "Educational Intelligence Office",
       "特别查询与报告办公室"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Ofsted",
@@ -37325,7 +37878,8 @@
     "aliases": [
       "英国教育标准办公室",
       "Office for Standards in Education, Children's Services and Skills"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Research Schools Network",
@@ -37335,7 +37889,8 @@
       "RSN",
       "英国研究学校网络",
       "研究学校网络"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Science Media Centre",
@@ -37346,7 +37901,8 @@
       "科学媒体中心",
       "UK Science Media Centre",
       "英国科学媒体中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Scientific Advisory Group for Emergencies",
@@ -37358,7 +37914,8 @@
       "英国紧急科技顾问小组",
       "UK SAGE",
       "Independent SAGE"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Sense about Science",
@@ -37368,7 +37925,8 @@
       "科学认知组织",
       "科学常识组织",
       "SAS"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Sutton Trust",
@@ -37378,7 +37936,8 @@
       "萨顿信托",
       "The Sutton Trust",
       "萨顿教育信托"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Teacher Training Agency",
@@ -37390,7 +37949,8 @@
       "学校培训与发展署",
       "Training and Development Agency for Schools",
       "TDA"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "UK Centre for Evidence-based Policy",
@@ -37398,7 +37958,8 @@
     "path": "wiki/facts/uk/UK Centre for Evidence-based Policy.md",
     "aliases": [
       "英国循证政策中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "United Kingdom Metascience Unit",
@@ -37407,7 +37968,8 @@
     "aliases": [
       "英国元科学单元",
       "UK Metascience Unit"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Academy Programme in England",
@@ -37419,7 +37981,8 @@
       "Academy Programme",
       "Academies Programme",
       "英格兰学院化"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Areas of Research Interest",
@@ -37430,7 +37993,8 @@
       "ARIs",
       "重点研究领域",
       "Areas of Research Interest (ARIs)"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Beyond 2000 Report",
@@ -37439,7 +38003,8 @@
     "aliases": [
       "Beyond 2000",
       "Beyond 2000 Science Education for the Future"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Big Butterfly Count",
@@ -37449,7 +38014,8 @@
       "大蝴蝶计数",
       "英国大蝴蝶计数调查",
       "The Big Butterfly Count"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Bodmer Report 1985",
@@ -37460,7 +38026,8 @@
       "1985年博德默尔报告",
       "The Bodmer Report",
       "Public Understanding of Science Report 1985"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "British Sociological Association Statement on Visual Research Ethics",
@@ -37470,7 +38037,8 @@
       "英国社会学协会视觉研究伦理声明",
       "BSA visual research ethics statement",
       "2006 BSA ethical statement"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Carter Review of Initial Teacher Training",
@@ -37481,7 +38049,8 @@
       "卡特审查",
       "卡特报告",
       "卡特初始教师培训审查"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "CREST Awards",
@@ -37490,7 +38059,8 @@
     "aliases": [
       "CREST",
       "Creativity in Science and Technology Awards"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Dippy on Tour",
@@ -37499,7 +38069,8 @@
     "aliases": [
       "迪皮恐龙巡展",
       "Dippy on Tour: A Natural History Adventure"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "EDEXCEL Perspectives on Science",
@@ -37508,7 +38079,8 @@
     "aliases": [
       "EDEXCEL AS Perspectives on Science",
       "Perspectives on Science course"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Education and Inspections Act 2006",
@@ -37517,7 +38089,8 @@
     "aliases": [
       "Education and Inspections Act",
       "2006教育与督察法案"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Education Reform Act 1988",
@@ -37529,7 +38102,8 @@
       "英国教育改革法1988",
       "ERA 1988",
       "Education Reform Act"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "EEF Teaching and Learning Toolkit",
@@ -37539,7 +38113,8 @@
       "Teaching and Learning Toolkit",
       "教学与学习工具包",
       "EEF Toolkit"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Eleven-plus Exam",
@@ -37548,7 +38123,8 @@
     "aliases": [
       "11+考试",
       "Eleven-plus"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "ESRC Review of Ethical Issues in Visual Research",
@@ -37558,7 +38134,8 @@
       "英国经济与社会研究理事会视觉研究伦理综述",
       "2008 ESRC visual research ethics review",
       "NCRM-011 Methods Review"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Evidence-Based Teachers Network",
@@ -37567,7 +38144,8 @@
     "aliases": [
       "EBTN",
       "证据本位教师网络"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Gatsby Benchmarks",
@@ -37577,7 +38155,8 @@
       "盖茨比基准",
       "盖茨比职业生涯指导基准",
       "Gatsby Benchmarks of Good Career Guidance"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Government Office for Science",
@@ -37587,7 +38166,8 @@
       "GO-Science",
       "英国政府科学办公室",
       "政府科学办公室"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Grammar School",
@@ -37595,7 +38175,8 @@
     "path": "wiki/facts/uk/Grammar School.md",
     "aliases": [
       "文法学校"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Industrial Strategy Challenge Fund",
@@ -37604,7 +38185,8 @@
     "aliases": [
       "ISCF",
       "英国产业战略挑战基金"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Initial Teacher Training Core Content Framework",
@@ -37615,7 +38197,8 @@
       "ITT CCF",
       "Core Content Framework",
       "CCF"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Modernising Government",
@@ -37627,7 +38210,8 @@
       "现代化政府白皮书",
       "Modernising Government White Paper",
       "Cm 4310"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "N and F Proposals",
@@ -37638,7 +38222,8 @@
       "Normal and Further Proposals",
       "普通与进阶课程方案",
       "Schools Council N and F Proposals"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "National Strategy for Educational Research and Enquiry",
@@ -37648,7 +38233,8 @@
       "NSERE",
       "威尔士国家教育研究与探究战略",
       "国家教育研究与探究战略"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Parliamentary Office of Science and Technology",
@@ -37658,7 +38244,8 @@
       "英国议会科学与技术办公室",
       "议会科学技术办公室",
       "POSTnote"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Public Attitudes to Science",
@@ -37670,7 +38257,8 @@
       "英国公众对科学态度调查",
       "PAS 2025",
       "Public Attitudes to Science 2025"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Pupil Equity Funding",
@@ -37680,7 +38268,8 @@
       "学童公平资助",
       "苏格兰学童公平资助",
       "PEF"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Pupil Premium",
@@ -37691,7 +38280,8 @@
       "学生津贴",
       "Pupil Premium Grant",
       "PPG"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Research Excellence Framework",
@@ -37702,7 +38292,8 @@
       "Research Assessment Exercise",
       "研究卓越框架",
       "研究评估考核"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Rose Report",
@@ -37711,7 +38302,8 @@
     "aliases": [
       "Rose Report 2006",
       "罗斯报告"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Rothschild Report 1971",
@@ -37723,7 +38315,8 @@
       "The Rothschild Report",
       "Customer-Contractor Principle",
       "客户-承包商原则"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Science Learning Centres Network",
@@ -37735,7 +38328,8 @@
       "Science Learning Centres",
       "SLC Network",
       "STEM Learning"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Selective Schools Expansion Fund",
@@ -37744,7 +38338,8 @@
     "aliases": [
       "Selective Schools Expansion Fund 2018",
       "选择性学校扩张基金"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Strength in Places Fund",
@@ -37752,7 +38347,8 @@
     "path": "wiki/facts/uk/Strength in Places Fund.md",
     "aliases": [
       "英国地方优势基金"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "The Green Book",
@@ -37763,7 +38359,8 @@
       "英国财政部绿皮书",
       "HM Treasury Green Book",
       "Treasury Green Book"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "The Importance of Teaching",
@@ -37774,7 +38371,8 @@
       "教学的重要性",
       "The Importance of Teaching White Paper",
       "Importance of Teaching White Paper"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "The Perception Census",
@@ -37784,7 +38382,8 @@
       "感知普查",
       "英国感知多样性普查",
       "Dreamachine and the Perception Census"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "The Social Value Model",
@@ -37795,7 +38394,8 @@
       "Social Value Model",
       "英国社会价值模型",
       "PPN 06/20"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Twenty First Century Science",
@@ -37805,7 +38405,8 @@
       "21世纪科学课程",
       "21世纪科学",
       "Twenty First Century Science Project"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "UK Knowledge Exchange Framework",
@@ -37815,7 +38416,8 @@
       "英国知识交流框架",
       "KEF",
       "Knowledge Exchange Framework"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "UK Science Education Tracker",
@@ -37826,7 +38428,8 @@
       "Science Education Tracker",
       "SET 2023",
       "SET Survey"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "What Works Network",
@@ -37837,7 +38440,8 @@
       "有效性网络",
       "What Works Centres",
       "WWCs"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "1979 Schools Council International Baccalaureate Feasibility Study",
@@ -37847,7 +38451,8 @@
       "1979年学校委员会国际文凭可行性研究",
       "Schools Council IB Feasibility Study",
       "British Schools Council International Baccalaureate Feasibility Study"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Alvey Programme",
@@ -37857,7 +38462,8 @@
       "阿尔维计划",
       "The Alvey Programme",
       "UK Alvey Programme"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Atlantic College Curriculum 1962",
@@ -37867,7 +38473,8 @@
       "1962年大西洋学院课程方案",
       "Atlantic College College Courses",
       "大西洋学院学院课程"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Butterfly Phonics",
@@ -37877,7 +38484,8 @@
       "蝴蝶自然拼读",
       "蝴蝶自然拼读方案",
       "Real Coaching Butterfly Phonics"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Catch Up Numeracy",
@@ -37888,7 +38496,8 @@
       "小学数学干预",
       "Catch Up Numeracy Trial",
       "Catch Up Numeracy Project"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Employment Retention and Advancement",
@@ -37900,7 +38509,8 @@
       "英国就业留任与晋升示范项目",
       "UK ERA",
       "Employment Retention and Advancement Demonstration"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Feedback Action Research Trial",
@@ -37911,7 +38521,8 @@
       "教师反馈行动研究试验",
       "Durham Feedback Action Research Trial",
       "See et al. 2016 Feedback Trial"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Girls Into Science and Technology Project",
@@ -37923,7 +38534,8 @@
       "GIST行动研究",
       "Girls Into Science and Technology",
       "Girls Into Science and Technology (GIST) Project"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "HEFCE Learning Gain Project",
@@ -37934,7 +38546,8 @@
       "英国学习增益项目",
       "英格兰高等教育学习增益项目",
       "Learning Gain Project"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Incentivised Pay and Coaching Trial",
@@ -37945,7 +38558,8 @@
       "教师绩效激励与辅导试验",
       "绩效激励与教学辅导试验",
       "Incentivised Pay and Coaching"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "ISRCTN",
@@ -37956,7 +38570,8 @@
       "ISRCTN registry",
       "国际标准随机对照试验注册库",
       "International Standard Randomised Controlled Trial Number"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Literacy Octopus",
@@ -37967,7 +38582,8 @@
       "识字八爪鱼试验",
       "八爪鱼试验",
       "Literacy Octopus Trial"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "National Pupil Database",
@@ -37977,7 +38593,8 @@
       "国家学生数据库",
       "英国国家学生数据库",
       "NPD Database"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Numbers Count",
@@ -37987,7 +38604,8 @@
       "数数算算",
       "数数算算项目",
       "Every Child Counts Numbers Count"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "PANDA",
@@ -38000,7 +38618,8 @@
       "Pupil Achievement Tracker",
       "PANDA Reports",
       "RAISEonline"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Perry Beeches",
@@ -38010,7 +38629,8 @@
       "佩里比奇斯辅导",
       "佩里比奇斯辅导方案",
       "Perry Beeches Coaching Program"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Post-Compulsory Education Project",
@@ -38021,7 +38641,8 @@
       "埃德蒙·金后义务教育项目",
       "King's Post-Compulsory Education Project",
       "Post-Compulsory Education in Western Europe"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "RAiSE Programme",
@@ -38030,7 +38651,8 @@
     "aliases": [
       "苏格兰科学教育抱负提升计划",
       "Raising Aspirations in Science Education"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Reach",
@@ -38041,7 +38663,8 @@
       "Reach Reading",
       "触及方案",
       "小初衔接读写干预"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Research in Schools Evaluation",
@@ -38051,7 +38674,8 @@
       "RISE Project",
       "英国学校研究评估项目",
       "RISE"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Research Learning Communities",
@@ -38061,7 +38685,8 @@
       "研究学习共同体",
       "RLC",
       "Research Learning Community"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Researchfish",
@@ -38070,7 +38695,8 @@
     "aliases": [
       "英国科研影响力追踪平台",
       "英国科研成果与影响追踪系统"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Researching School Choices",
@@ -38081,7 +38707,8 @@
       "学校选择资助流",
       "School Choices",
       "Researching School Choices Programme"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Sciencewise",
@@ -38092,7 +38719,8 @@
       "科学智慧项目",
       "科学智慧计划",
       "Sciencewise Public Dialogue"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "SPECTRUM",
@@ -38104,7 +38732,8 @@
       "社会、心理、情感、自我概念与韧性：理解与测量",
       "SPECTRUM Database",
       "Social, Psychological, Emotional, Concepts of Self, and Resilience: Understanding and Measurement"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Strategic School Improvement Fund",
@@ -38114,7 +38743,8 @@
       "SSIF",
       "战略学校改进基金",
       "Strategic School Improvement Fund (SSIF)"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Teacher Choices",
@@ -38124,7 +38754,8 @@
       "教师选择",
       "教师选择试验",
       "Teacher Choices Trials"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Teaching and Learning Research Programme",
@@ -38135,7 +38766,8 @@
       "教与学研究计划",
       "英国教与学研究计划",
       "教学与学习研究项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Teaching Schools",
@@ -38148,7 +38780,8 @@
       "Teaching School Alliances",
       "教学学校网络",
       "Teaching Schools Council"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Teensleep",
@@ -38159,7 +38792,8 @@
       "中学延迟上学试验",
       "青少年睡眠干预试验",
       "延迟到校试验"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "TESTA Project",
@@ -38170,7 +38804,8 @@
       "全课程评价体验项目",
       "英国全课程评价体验项目",
       "Transforming the Experience of Students Through Assessment"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Thinking, Doing, Talking Science",
@@ -38181,7 +38816,8 @@
       "TDTS",
       "思考、操作、对话科学",
       "Thinking Doing Talking Science"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "1968 Stanford Western Civ Reform",
@@ -38193,7 +38829,8 @@
       "Stanford Western Civ Abolition",
       "Packer Committee Report",
       "1968年斯坦福大学教育研究委员会报告"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "1970 Yale May Day Crisis",
@@ -38205,7 +38842,8 @@
       "耶鲁五一集会",
       "Yale May Day Crisis",
       "1970 Yale May Day"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "1981 New York IB Heads of School Conference",
@@ -38214,7 +38852,8 @@
     "aliases": [
       "1981年纽约国际文凭校长会议",
       "1981 IB Heads Conference New York"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "2023 Congressional Hearing on Campus Antisemitism",
@@ -38225,7 +38864,8 @@
       "国会高校反犹听证会",
       "2023年美国大学校长国会听证会",
       "2023 university presidents congressional testimony"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "A Nation at Risk 1983",
@@ -38235,7 +38875,8 @@
       "A Nation at Risk",
       "国家处于危险中",
       "国家在危机中"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "American Attraction to Japanese Education 1980s",
@@ -38245,7 +38886,8 @@
       "American Attraction to Japanese Education",
       "1980年代美国对日本教育的兴趣",
       "美国对日本教育的跨国吸引力1980s"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Asch Conformity Experiment",
@@ -38256,7 +38898,8 @@
       "阿施从众研究",
       "Asch Line Experiment",
       "Asch Experiment"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Blueprints for Healthy Youth Development",
@@ -38265,7 +38908,8 @@
     "aliases": [
       "健康青年发展蓝图",
       "Blueprints"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Boston Schoolmasters Controversy",
@@ -38279,7 +38923,8 @@
       "波士顿学监争议",
       "Horace Mann and Boston Masters Controversy",
       "Remarks on the Seventh Annual Report Controversy"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "California Class Size Reduction 1996",
@@ -38288,7 +38933,8 @@
     "aliases": [
       "California Class Size Reduction",
       "加州缩小班额政策"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "California Master Plan for Higher Education",
@@ -38299,7 +38945,8 @@
       "California Master Plan",
       "加州总体规划",
       "Master Plan for Higher Education"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Central Florida Research Park",
@@ -38308,7 +38955,8 @@
     "aliases": [
       "中佛罗里达研究园",
       "CFRP"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Checkers Speech",
@@ -38318,7 +38966,8 @@
       "跳棋演讲",
       "尼克松跳棋演讲",
       "Fund speech"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "CNCS Evidence Exchange",
@@ -38328,7 +38977,8 @@
       "国家与社区服务公司证据交流中心",
       "CNCS EE",
       "AmeriCorps Evidence Exchange"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Coleman Report 1966",
@@ -38337,7 +38987,8 @@
     "aliases": [
       "Coleman Report",
       "科尔曼报告"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Collaborative for Academic Social and Emotional Learning Guide",
@@ -38346,7 +38997,8 @@
     "aliases": [
       "学术社会与情感学习协作指南",
       "CASEL"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Common School Movement",
@@ -38358,7 +39010,8 @@
       "Common School",
       "American Common School Movement",
       "common school reform"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Communities in Schools",
@@ -38368,7 +39021,8 @@
       "学校中的社区",
       "校内社区",
       "Communities in Schools (CIS)"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Comparative Education Center at Chicago 1958",
@@ -38378,7 +39032,8 @@
       "芝加哥大学比较教育中心",
       "Comparative Education Center",
       "Chicago Comparative Education Center"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Creation of REES",
@@ -38387,7 +39042,8 @@
     "aliases": [
       "Creation of REES 2018",
       "REES设立"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Dartmouth Summer Research Project on Artificial Intelligence",
@@ -38398,7 +39054,8 @@
       "达特茅斯会议",
       "Dartmouth AI Conference",
       "Dartmouth Conference 1956"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Daubert v Merrell Dow Pharmaceuticals 1993",
@@ -38408,7 +39065,8 @@
       "Daubert v Merrell Dow Pharmaceuticals",
       "道伯特诉默雷尔道制药案",
       "Daubert案"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Dot-Com Bubble",
@@ -38419,7 +39077,8 @@
       "科技股泡沫",
       "dot-com crash",
       "dot-bomb"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Economics of Education Movement",
@@ -38428,7 +39087,8 @@
     "aliases": [
       "教育经济学运动",
       "economics of education"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Einstein-Szilard Letter",
@@ -38439,7 +39099,8 @@
       "爱因斯坦致罗斯福总统信",
       "1939年爱因斯坦信件",
       "Einstein–Szilárd letter"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "First Look SoCal",
@@ -38448,7 +39109,8 @@
     "aliases": [
       "First Look SoCal showcase",
       "南加州创新展示会"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Francis Lewis High School Adoption of the International Baccalaureate",
@@ -38457,7 +39119,8 @@
     "aliases": [
       "弗朗西斯·刘易斯高中采用国际文凭",
       "Francis Lewis IB adoption"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Hatch Act of 1887",
@@ -38466,7 +39129,8 @@
     "aliases": [
       "Hatch Act",
       "哈奇法案"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Home Visiting Evidence of Effectiveness",
@@ -38475,7 +39139,8 @@
     "aliases": [
       "家访成效证据",
       "HomVEE"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Kendall Square",
@@ -38487,7 +39152,8 @@
       "剑桥创新中心",
       "CIC",
       "Kendall Square CIC"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "March for Science 2017",
@@ -38497,7 +39163,8 @@
       "为科学而游行",
       "科学大游行",
       "March for Science"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Measuring Quality Inventory",
@@ -38508,7 +39175,8 @@
       "测量质量清单",
       "高等教育质量评测工具库",
       "NILOA Inventory"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Microsoft IVAS Contract Protest",
@@ -38521,7 +39189,8 @@
       "微软员工抗议陆军虚拟头显合同",
       "Microsoft HoloLens Defense Contract Protest",
       "Integrated Visual Augmentation System Protest"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Milgram Obedience Experiment",
@@ -38533,7 +39202,8 @@
       "耶鲁权威服从实验",
       "Milgram Experiment",
       "Obedience to Authority Experiment"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Morrill Land-Grant Act of 1862",
@@ -38546,7 +39216,8 @@
       "Land-Grant Act",
       "Morrill Land-Grant College Act",
       "莫里尔赠地法案"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Open Classroom Movement",
@@ -38559,7 +39230,8 @@
       "英国幼儿学校借用",
       "Open Classroom",
       "Informal Education Movement"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Opt-Out Movement",
@@ -38570,7 +39242,8 @@
       "退考运动",
       "罢考运动",
       "National Opt-Out Movement"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Pajaro Dunes Statement of 1982",
@@ -38580,7 +39253,8 @@
       "Pajaro Dunes Statement",
       "Pajaro Dunes Conference",
       "帕哈罗沙丘声明"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "PISA Shock in the United States",
@@ -38593,7 +39267,8 @@
       "美国新卫星时刻",
       "PISA Response in the United States",
       "American PISA Debate"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "PRACCIS",
@@ -38602,7 +39277,8 @@
     "aliases": [
       "促进科学推理与概念转变项目",
       "Promoting Reasoning and Conceptual Change in Science"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Promising Practices Network",
@@ -38610,7 +39286,8 @@
     "path": "wiki/facts/us/Promising Practices Network.md",
     "aliases": [
       "前景广阔的实践网络"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Purdue Discovery Park",
@@ -38622,7 +39299,8 @@
       "Purdue Discovery District",
       "Discovery District",
       "普渡发现区"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Research Triangle Park",
@@ -38632,7 +39310,8 @@
       "RTP",
       "研究三角园区",
       "Research Triangle"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Rising Above the Gathering Storm 2007",
@@ -38642,7 +39321,8 @@
       "Rising Above the Gathering Storm",
       "迎接风暴",
       "NASEM 2007 Rising Above the Gathering Storm"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Rockland Community College IB Experiments",
@@ -38651,7 +39331,8 @@
     "aliases": [
       "洛克兰社区学院国际文凭实验",
       "Rockland IB experiments"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Science, The Endless Frontier 1945",
@@ -38663,7 +39344,8 @@
       "Vannevar Bush report",
       "无尽的前沿",
       "布什报告"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Skokie Free Speech Case",
@@ -38675,7 +39357,8 @@
       "Skokie case",
       "National Socialist Party of America v. Village of Skokie",
       "Collin v. Smith"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Smith Lever Act of 1914",
@@ -38685,7 +39368,8 @@
       "Smith Lever Act",
       "史密斯-利弗法案",
       "Smith-Lever Act"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Social Programs That Work",
@@ -38694,12 +39378,14 @@
     "aliases": [
       "行之有效的社会项目",
       "SPTW"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Social Science One",
     "type": "fact",
-    "path": "wiki/facts/us/Social Science One.md"
+    "path": "wiki/facts/us/Social Science One.md",
+    "subtype": "event"
   },
   {
     "title": "Sputnik Shock 1957",
@@ -38711,7 +39397,8 @@
       "Sputnik",
       "人造卫星冲击",
       "苏联卫星危机"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Sunshine Act",
@@ -38722,7 +39409,8 @@
       "Physician Payments Sunshine Act",
       "Open Payments",
       "开放支付"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Tech Square at Georgia Tech",
@@ -38732,7 +39420,8 @@
       "Tech Square",
       "Georgia Tech Tech Square",
       "Technology Square"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "The Middle Americans",
@@ -38743,7 +39432,8 @@
       "Middle Americans",
       "1970年《时代》周刊中间美国人",
       "1970 Time Person of the Year: The Middle Americans"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Theory Movement in Educational Administration",
@@ -38751,7 +39441,8 @@
     "path": "wiki/facts/us/Theory Movement in Educational Administration.md",
     "aliases": [
       "教育行政理论运动"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "TUFF",
@@ -38760,7 +39451,8 @@
     "aliases": [
       "大学融资基金会",
       "The University Financing Foundation"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "UCSD Innovation and Commercialization Office",
@@ -38771,7 +39463,8 @@
       "UCSD 创新中心",
       "UCSD innovation center",
       "UCSD Office of Innovation and Commercialization"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "University Inc",
@@ -38782,7 +39475,8 @@
       "University, Inc.",
       "大学公司化批判",
       "Washburn 大学公司化"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "University of Illinois Research Park",
@@ -38792,7 +39486,8 @@
       "伊利诺伊大学研究园",
       "UIUC Research Park",
       "UIUC 研究园"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "University of Kentucky Top-20 Plan",
@@ -38801,7 +39496,8 @@
     "aliases": [
       "肯塔基大学Top-20计划",
       "Kentucky Top-20 Plan"
-    ]
+    ],
+    "subtype": "event"
   },
   {
     "title": "Achieve",
@@ -38811,7 +39507,8 @@
       "阿奇夫",
       "阿奇夫组织",
       "Achieve, Inc."
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "AidData",
@@ -38821,7 +39518,8 @@
       "威廉与玛丽学院AidData实验室",
       "AidData研究实验室",
       "AidData at William & Mary"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Albany NanoTech Complex",
@@ -38833,7 +39531,8 @@
       "NY CREATES",
       "纽约州立大学理工学院纳米综合体",
       "Albany 300mm Wafer Complex"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Alliance for Southern California Innovation",
@@ -38843,7 +39542,8 @@
       "南加州创新联盟",
       "Alliance for SoCal Innovation",
       "the Alliance"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "American Association for the Advancement of Science",
@@ -38852,7 +39552,8 @@
     "aliases": [
       "AAAS",
       "美国科学促进会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "American Association of Colleges for Teacher Education",
@@ -38862,7 +39563,8 @@
       "AACTE",
       "美国师范教育学院协会",
       "美国教师教育学院协会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "American Council on Education",
@@ -38871,7 +39573,8 @@
     "aliases": [
       "ACE",
       "美国教育理事会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "American Educational Research Association",
@@ -38880,7 +39583,8 @@
     "aliases": [
       "AERA",
       "美国教育研究学会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "American Federation of Teachers",
@@ -38891,7 +39595,8 @@
       "美国教师联合会",
       "美国教师联盟",
       "AFT"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Armand Hammer United World College of the American West",
@@ -38900,7 +39605,8 @@
     "aliases": [
       "阿曼德·哈默美国西部联合世界书院",
       "United World College of the American West"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "ARPA-E",
@@ -38911,7 +39617,8 @@
       "美国高级能源研究计划局",
       "Advanced Research Projects Agency-Energy",
       "Advanced Research Projects Agency - Energy"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "ARPA-H",
@@ -38921,7 +39628,8 @@
       "高级健康研究计划局",
       "美国高级健康研究计划局",
       "Advanced Research Projects Agency for Health"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Bell Labs",
@@ -38932,7 +39640,8 @@
       "Bell Telephone Laboratories",
       "AT&T Bell Laboratories",
       "贝尔电话实验室"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Best Evidence Encyclopedia",
@@ -38941,7 +39650,8 @@
     "aliases": [
       "最佳证据百科全书",
       "BEE"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Bill & Melinda Gates Foundation",
@@ -38951,7 +39661,8 @@
       "比尔与梅琳达·盖茨基金会",
       "盖茨基金会",
       "Gates Foundation"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Brookings Institution",
@@ -38961,7 +39672,8 @@
       "布鲁金斯学会",
       "布鲁金斯研究所",
       "Brookings"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Business Roundtable",
@@ -38971,7 +39683,8 @@
       "商业圆桌会",
       "美国商业圆桌会",
       "BRT"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "California Evidence Based Clearinghouse for Child Social and Economic Welfare",
@@ -38981,7 +39694,8 @@
       "加利福尼亚儿童福利循证清算中心",
       "加州儿童福利循证清算中心",
       "CEBC"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Center for Integrated Systems",
@@ -38992,7 +39706,8 @@
       "斯坦福集成系统中心",
       "Stanford Center for Integrated Systems",
       "Stanford CIS"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Clearinghouse for Military Family Readiness Continuum of Evidence",
@@ -39001,7 +39716,8 @@
     "aliases": [
       "军人家庭准备清算中心",
       "CMFR"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Cold Spring Harbor Laboratory",
@@ -39010,7 +39726,8 @@
     "aliases": [
       "冷泉港实验室",
       "CSHL"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Comparative and International Education Society",
@@ -39021,7 +39738,8 @@
       "CIES",
       "Comparative Education Society",
       "CES"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Computing Research Association",
@@ -39031,7 +39749,8 @@
       "美国计算机研究协会",
       "计算机研究协会",
       "CRA"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Corwin Press",
@@ -39040,7 +39759,8 @@
     "aliases": [
       "考文出版社",
       "Corwin"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Council for Aid to Education",
@@ -39050,7 +39770,8 @@
       "CAE",
       "美国援助教育理事会",
       "援助教育理事会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Council of Chief State School Officers",
@@ -39060,7 +39781,8 @@
       "州首席教育官理事会",
       "全美州首席教育官理事会",
       "CCSSO"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "DARPA",
@@ -39071,7 +39793,8 @@
       "Defense Advanced Research Projects Agency",
       "国防高级研究计划局",
       "ARPA"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Defense Sciences Research Council",
@@ -39081,7 +39804,8 @@
       "国防科学研究理事会",
       "DSRC",
       "DARPA Defense Sciences Research Council"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Department of Energy",
@@ -39092,7 +39816,8 @@
       "DOE",
       "United States Department of Energy",
       "U.S. Department of Energy"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Directorate for Technology, Innovation and Partnerships",
@@ -39105,7 +39830,8 @@
       "TIP",
       "Directorate for TIP",
       "Technology, Innovation and Partnerships Directorate"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Education Resources Information Center",
@@ -39115,7 +39841,8 @@
       "ERIC",
       "教育资源信息中心",
       "Educational Resources Information Center"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Educational Testing Service",
@@ -39125,7 +39852,8 @@
       "ETS",
       "美国教育考试服务中心",
       "教育考试服务中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "EUV LLC",
@@ -39134,7 +39862,8 @@
     "aliases": [
       "极紫外有限责任公司",
       "Extreme Ultraviolet Limited Liability Company"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Fairchild Semiconductor",
@@ -39145,7 +39874,8 @@
       "仙童半导体公司",
       "快捷半导体",
       "Fairchild Semiconductor Corporation"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "FairTest",
@@ -39155,7 +39885,8 @@
       "美国国家公正与公开测试中心",
       "国家公正与公开测试中心",
       "National Center for Fair & Open Testing"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Federally Funded Research and Development Centers",
@@ -39167,7 +39898,8 @@
       "FFRDCs",
       "美国国家实验室",
       "联邦资助研究开发中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "FHI 360",
@@ -39178,7 +39910,8 @@
       "家庭健康国际",
       "Family Health International 360",
       "FHI360"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Homebrew Computer Club",
@@ -39188,7 +39921,8 @@
       "家酿计算机俱乐部",
       "自制计算机俱乐部",
       "Homebrew Club"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "House Committee on Education and the Workforce",
@@ -39198,7 +39932,8 @@
       "Committee on Education and the Workforce",
       "众议院教育与劳动力委员会",
       "众议院教育和劳工委员会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Hunt Institute",
@@ -39209,7 +39944,8 @@
       "亨特教育领导力与政策研究所",
       "詹姆斯·B·亨特教育领导力与政策研究所",
       "The Hunt Institute"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Industrial Advisory Committee",
@@ -39219,7 +39955,8 @@
       "美国半导体工业咨询委员会",
       "IAC",
       "工业咨询委员会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Information Science and Technology Study Group",
@@ -39230,7 +39967,8 @@
       "ISAT",
       "DARPA ISAT",
       "ISAT Study Group"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Innovation Institute for Food and Health",
@@ -39239,7 +39977,8 @@
     "aliases": [
       "食品与健康创新研究所",
       "IIFH"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Institute for Advanced Study",
@@ -39250,7 +39989,8 @@
       "高等研究院",
       "IAS",
       "Princeton IAS"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Institute of Education Sciences",
@@ -39261,7 +40001,8 @@
       "美国教育部教育科学研究院",
       "教育科学研究院",
       "IES"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "International Reading Association",
@@ -39273,7 +40014,8 @@
       "国际读写协会",
       "International Literacy Association",
       "ILA"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Loan Programs Office",
@@ -39285,7 +40027,8 @@
       "LPO",
       "DOE Loan Programs Office",
       "能源部贷款办公室"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Manufacturing USA",
@@ -39297,7 +40040,8 @@
       "NNMI",
       "Manufacturing USA Initiative",
       "制造美国网络"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Massachusetts Department of Elementary and Secondary Education",
@@ -39308,7 +40052,8 @@
       "DESE",
       "Massachusetts DESE",
       "马州中小学教育部"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "McGovern Center for Venture Development",
@@ -39319,7 +40064,8 @@
       "康奈尔大学麦戈文孵化器",
       "McGovern Center",
       "McGovern Center for Venture Development in the Life Sciences"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "MDRC",
@@ -39328,7 +40074,8 @@
     "aliases": [
       "人力示范研究公司",
       "Manpower Demonstration Research Corporation"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Microelectronics and Computer Technology Corporation",
@@ -39338,7 +40085,8 @@
       "微电子与计算机技术公司",
       "微电子与计算机技术联合体",
       "Microelectronics and Computer Technology Consortium"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "MIT Radiation Laboratory",
@@ -39348,7 +40096,8 @@
       "麻省理工学院辐射实验室",
       "辐射实验室",
       "Rad Lab"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "MOSIS",
@@ -39359,7 +40108,8 @@
       "金属氧化物半导体实现服务平台",
       "多项目晶圆流片服务",
       "Metal Oxide Semiconductor Implementation Service"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Natcast",
@@ -39369,7 +40119,8 @@
       "国家半导体技术推进中心",
       "National Center for the Advancement of Semiconductor Technology",
       "Natcast (NSTC Operator)"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Academy of Sciences",
@@ -39378,7 +40129,8 @@
     "aliases": [
       "美国国家科学院",
       "NAS"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Aeronautics and Space Administration",
@@ -39389,7 +40141,8 @@
       "国家航空航天局",
       "NASA",
       "美国航空航天局"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Center for Education Evaluation and Regional Assistance",
@@ -39400,7 +40153,8 @@
       "NCEE",
       "IES NCEE",
       "National Center for Education Evaluation"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Center for Research in Policy and Practice",
@@ -39409,7 +40163,8 @@
     "aliases": [
       "NCRPP",
       "全美政策与实践研究中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Council of Teachers of English",
@@ -39419,7 +40174,8 @@
       "NCTE",
       "全美英语教师委员会",
       "全国英语教师协会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Dropout Prevention Center",
@@ -39428,7 +40184,8 @@
     "aliases": [
       "国家预防辍学中心",
       "NDPC"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Education Association",
@@ -39438,7 +40195,8 @@
       "全美教育协会",
       "美国全国教育协会",
       "NEA"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Education Policy Center",
@@ -39447,7 +40205,8 @@
     "aliases": [
       "国家教育政策中心",
       "NEPC"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Governors Association",
@@ -39458,7 +40217,8 @@
       "美国全国州长协会",
       "全美州长协会",
       "NGA"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Institute of Child Health and Human Development",
@@ -39469,7 +40229,8 @@
       "国家儿童健康与人类发展研究所",
       "尤妮斯·肯尼迪·施莱佛国家儿童健康与人类发展研究所",
       "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Institutes of Health",
@@ -39480,7 +40241,8 @@
       "NIH",
       "美国国家卫生研究院",
       "U.S. National Institutes of Health"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Reading Panel",
@@ -39490,7 +40252,8 @@
       "NRP",
       "国家阅读委员会",
       "全美阅读专家小组"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Research and Resource Facility for Submicron Structures",
@@ -39503,7 +40266,8 @@
       "康奈尔纳米加工设施",
       "Cornell Nanofabrication Facility",
       "CNF"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Research Council",
@@ -39514,7 +40278,8 @@
       "国家科学研究委员会",
       "国家研究委员会",
       "NRC"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Science and Technology Council",
@@ -39524,7 +40289,8 @@
       "国家科学技术委员会",
       "NSTC",
       "白宫国家科学技术委员会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Science Board",
@@ -39534,7 +40300,8 @@
       "国家科学委员会",
       "美国国家科学委员会",
       "NSB"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Science Foundation",
@@ -39545,7 +40312,8 @@
       "NSF",
       "NSF TIP",
       "NSF TIP Directorate"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "National Semiconductor Technology Center",
@@ -39555,7 +40323,8 @@
       "国家半导体技术中心",
       "美国国家半导体技术中心",
       "美国国家半导体中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Office of Educational Research and Improvement",
@@ -39565,7 +40334,8 @@
       "教育研究与改进办公室",
       "美国教育部教育研究与改进办公室",
       "OERI"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Office of Naval Research",
@@ -39575,7 +40345,8 @@
       "海军研究办公室",
       "ONR",
       "美国海军研究办公室"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Office of Science and Technology Policy",
@@ -39587,7 +40358,8 @@
       "OSTP",
       "Office of Science and Technology",
       "OST"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Office of Scientific Research and Development",
@@ -39597,7 +40369,8 @@
       "科学研究与开发办公室",
       "战时科学研究与开发办公室",
       "OSRD"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Palantir Technologies",
@@ -39609,7 +40382,8 @@
       "帕兰提尔科技公司",
       "Palantir",
       "Palantir Technologies Inc."
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "President's Science Advisory Committee",
@@ -39619,7 +40393,8 @@
       "总统科学顾问委员会",
       "PSAC",
       "总统科学咨询委员会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Promise Neighborhoods Research Consortium",
@@ -39628,7 +40403,8 @@
     "aliases": [
       "承诺社区研究联盟",
       "PNRC"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "RTI International",
@@ -39640,7 +40416,8 @@
       "Research Triangle Institute",
       "RTI 国际",
       "RTI International Inc."
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Sematech",
@@ -39650,7 +40427,8 @@
       "半导体制造技术战略联盟",
       "美国半导体制造技术战略联盟",
       "Semiconductor Manufacturing Technology"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Semiconductor Research Corporation",
@@ -39660,7 +40438,8 @@
       "半导体研究公司",
       "SRC",
       "半导体研究联合体"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Silicon Structures Project",
@@ -39671,7 +40450,8 @@
       "SSP",
       "加州理工硅结构计划",
       "Caltech Silicon Structures Project"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Society for Research in Child Development",
@@ -39680,7 +40460,8 @@
     "aliases": [
       "SRCD",
       "儿童发展研究学会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Stanford Research Park",
@@ -39691,7 +40472,8 @@
       "斯坦福研究园",
       "Stanford Industrial Park",
       "SRP"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Subcommittee on Microelectronics Leadership",
@@ -39701,7 +40483,8 @@
       "微电子领导力小组委员会",
       "SML",
       "NSTC SML"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "System Development Corporation",
@@ -39711,7 +40494,8 @@
       "系统开发公司",
       "SDC",
       "System Development Corp"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Texas A&M Semiconductor Institute",
@@ -39722,7 +40506,8 @@
       "得州农工半导体研究院",
       "TAMU Semiconductor Institute",
       "Semiconductor Institute"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "The Education Trust",
@@ -39731,7 +40516,8 @@
     "aliases": [
       "EdTrust",
       "美国教育信托"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "Thomas B. Fordham Institute",
@@ -39743,7 +40529,8 @@
       "福特汉姆研究所",
       "Thomas B. Fordham Foundation",
       "Fordham Institute"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "University City Science Center",
@@ -39752,7 +40539,8 @@
     "aliases": [
       "大学城科学中心",
       "费城大学城科学中心"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "University Industry Demonstration Partnership",
@@ -39762,7 +40550,8 @@
       "UIDP",
       "大学产业示范伙伴关系",
       "产学示范伙伴"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "US-China Economic and Security Review Commission",
@@ -39771,7 +40560,8 @@
     "aliases": [
       "USCC",
       "美中经济与安全审查委员会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "What Works Clearinghouse",
@@ -39783,7 +40573,8 @@
       "实用有效清算中心",
       "强效作为清算所",
       "WWC"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "William T. Grant Foundation",
@@ -39794,7 +40585,8 @@
       "WT Grant Foundation",
       "W. T. Grant Foundation",
       "格兰特基金会"
-    ]
+    ],
+    "subtype": "organization"
   },
   {
     "title": "1956 AT&T Consent Decree",
@@ -39807,7 +40599,8 @@
       "AT&T Consent Decree of 1956",
       "Western Electric Consent Decree of 1956",
       "1956 Western Electric Consent Decree"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "1956 IBM Consent Decree",
@@ -39818,7 +40611,8 @@
       "1956年国际商业机器公司同意令",
       "国际商业机器公司反垄断同意令",
       "IBM Consent Decree of 1956"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "1986 U.S.-Japan Semiconductor Trade Agreement",
@@ -39831,7 +40625,8 @@
       "U.S.-Japan Semiconductor Trade Agreement",
       "1986 STA",
       "Semiconductor Trade Agreement"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "A Strategy for American Innovation 2011",
@@ -39842,7 +40637,8 @@
       "美国创新战略2011",
       "A Strategy for American Innovation",
       "Strategy for American Innovation"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Adequate Yearly Progress",
@@ -39853,7 +40649,8 @@
       "适度年度进展",
       "AYP",
       "学年充分进展"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "America COMPETES Act",
@@ -39865,7 +40662,8 @@
       "America COMPETES Act of 2007",
       "America COMPETES Reauthorization Act of 2010",
       "COMPETES Act"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Bayh-Dole Act of 1980",
@@ -39876,7 +40674,8 @@
       "拜杜法案",
       "Bayh-Dole",
       "Patent and Trademark Law Amendments Act"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Build America, Buy America Act",
@@ -39888,7 +40687,8 @@
       "买美国货条款",
       "BABA Act",
       "Build America Buy America"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "CHIPS and Science Act",
@@ -39900,7 +40700,8 @@
       "CHIPS Act",
       "Creating Helpful Incentives to Produce Semiconductors Act",
       "创造有益激励以生产半导体法案"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Common Core State Standards",
@@ -39912,7 +40713,8 @@
       "共同核心国家标准",
       "共同核心课程标准",
       "CCSS"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Common Rule 2018",
@@ -39923,7 +40725,8 @@
       "Federal Policy for the Protection of Human Subjects",
       "人类受试者保护通用规则",
       "OHRP Common Rule"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Education in Europe",
@@ -39936,7 +40739,8 @@
       "Report on Education in Europe",
       "Bache's Report on Education in Europe",
       "Education in Europe (1839)"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Education Sciences Reform Act 2002",
@@ -39948,7 +40752,8 @@
       "ESRA",
       "ESRA 2002",
       "Education Sciences Reform Act"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Elementary and Secondary Education Act of 1965",
@@ -39960,7 +40765,8 @@
       "初等与中等教育法",
       "1965年初等与中等教育法",
       "美国初等与中等教育法"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Every Student Succeeds Act",
@@ -39976,7 +40782,8 @@
       "ESSA Evidence Standards",
       "每一个学生成功法证据标准",
       "每个学生成功法证据标准"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Federal Acquisition Streamlining Act of 1994",
@@ -39988,7 +40795,8 @@
       "FASA",
       "FASA 1994",
       "Federal Acquisition Streamlining Act"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Foundations for Evidence-Based Policymaking Act of 2018",
@@ -40000,7 +40808,8 @@
       "Evidence Act",
       "Foundations for Evidence-Based Policymaking Act",
       "FEBPA"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Higher Education Act of 1965",
@@ -40012,7 +40821,8 @@
       "高等教育法",
       "1965年高等教育法",
       "美国高等教育法"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Inflation Reduction Act",
@@ -40022,7 +40832,8 @@
       "通胀削减法案",
       "通胀削减法",
       "Inflation Reduction Act of 2022"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Infrastructure Investment and Jobs Act",
@@ -40035,7 +40846,8 @@
       "Bipartisan Infrastructure Law",
       "BIL",
       "Infrastructure Investment and Jobs Act of 2021"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "InTASC Standards",
@@ -40046,7 +40858,8 @@
       "州际新教师评估与支持联盟标准",
       "InTASC Model Core Teaching Standards",
       "InTASC Consortium"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Mansfield Amendment 1969",
@@ -40058,7 +40871,8 @@
       "Mansfield Amendment",
       "1969年曼斯菲尔德修正案",
       "Section 203"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "National Defense Education Act of 1958",
@@ -40069,7 +40883,8 @@
       "国防教育法",
       "NDEA",
       "1958年国防教育法"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "National Education in Europe",
@@ -40083,7 +40898,8 @@
       "Barnard's National Education in Europe",
       "National Education: Systems, Institutions and Statistics of Public Instruction in Different Countries",
       "National Education in Europe: Being an Account of the Organization, Administration, Instruction, and Statistics of Public Schools"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "National Research Service Award Act of 1974",
@@ -40095,7 +40911,8 @@
       "NRSA",
       "National Research Service Award",
       "国家研究服务奖"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "National Strategy on Microelectronics Research",
@@ -40104,7 +40921,8 @@
     "aliases": [
       "国家微电子研究战略",
       "美国国家微电子研究战略"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Nelson Memo of 2022",
@@ -40115,7 +40933,8 @@
       "OSTP Nelson Memorandum",
       "Nelson Memorandum 2022",
       "纳尔逊备忘录"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "No Child Left Behind Act 2001",
@@ -40125,7 +40944,8 @@
       "No Child Left Behind Act",
       "不让一个孩子掉队法案",
       "NCLB"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "NSF Broader Impacts Criterion",
@@ -40136,7 +40956,8 @@
       "更广泛影响准则",
       "Broader Impacts",
       "Broader Impacts Criterion"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Nuclear Regulatory Reform Executive Orders 2025",
@@ -40146,7 +40967,8 @@
       "2025年核监管改革行政令",
       "2025 nuclear executive orders",
       "2025年核能监管改革总统行政令"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "October 2022 US Semiconductor Export Controls",
@@ -40159,7 +40981,8 @@
       "2022 BIS Export Controls",
       "美国半导体出口管制",
       "October 2022 Export Controls"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "OMB Uniform Guidance for Federal Awards",
@@ -40169,7 +40992,8 @@
       "Uniform Guidance",
       "OMB Uniform Guidance",
       "2 CFR 200"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Plyler v. Doe 1982",
@@ -40179,7 +41003,8 @@
       "普莱勒诉多伊案",
       "Plyler v. Doe",
       "457 U.S. 202"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Public Impact-Focused Research",
@@ -40188,7 +41013,8 @@
     "aliases": [
       "PIR",
       "公共影响导向研究"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Reading Excellence Act",
@@ -40198,7 +41024,8 @@
       "卓越阅读法案",
       "卓越阅读法",
       "REA"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Report on Elementary Public Instruction in Europe",
@@ -40211,7 +41038,8 @@
       "Stowe's Report on Elementary Public Instruction in Europe",
       "Stowe's Report",
       "Report on Elementary Instruction in Europe"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Restoring Gold Standard Science Executive Order",
@@ -40222,7 +41050,8 @@
       "恢复黄金标准科学行政令",
       "Restoring Gold Standard Science",
       "Executive Order on Restoring Gold Standard Science"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Science A New Golden Age 2026",
@@ -40233,7 +41062,8 @@
       "科学新黄金时代",
       "Kratsios report",
       "克拉齐奥斯报告"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Science in the National Interest 1994",
@@ -40243,7 +41073,8 @@
       "科学与国家利益",
       "科学在国家利益中",
       "Science in the National Interest"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Seaborg Report 1960",
@@ -40255,7 +41086,8 @@
       "Scientific Progress, the Universities, and the Federal Government",
       "PSAC 1960 Report",
       "1960年西博格报告"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Seventh Annual Report of the Massachusetts Board of Education",
@@ -40268,7 +41100,8 @@
       "Mann's Seventh Annual Report",
       "Seventh Annual Report",
       "Seventh Annual Report of the Secretary of the Board of Education"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Spellings Report",
@@ -40279,7 +41112,8 @@
       "美国高等教育未来委员会报告",
       "A Test of Leadership",
       "Commission on the Future of Higher Education Report"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Students and Teachers Accessing Tomorrow",
@@ -40287,7 +41121,8 @@
     "path": "wiki/facts/us/Students and Teachers Accessing Tomorrow.md",
     "aliases": [
       "STAT"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Title I of the Elementary and Secondary Education Act",
@@ -40300,7 +41135,8 @@
       "联邦第一条款",
       "初等与中等教育法第一条款",
       "Title 1"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "US Innovation Policy System",
@@ -40311,7 +41147,8 @@
       "美国科技创新政策",
       "US Innovation Policy",
       "American Innovation Policy"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Voluntary System of Accountability",
@@ -40322,7 +41159,8 @@
       "美国自愿问责体系",
       "自愿问责体系",
       "Voluntary System of Accountability (VSA)"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Workforce Pell Grants 2025",
@@ -40333,7 +41171,8 @@
       "劳动力助学金",
       "Workforce Pell",
       "Workforce Pell Grants"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "WWC SCD Pilot Standards",
@@ -40343,7 +41182,8 @@
       "WWC SCD Pilot Standards 2010",
       "WWC单一个案设计试行标准",
       "WWC SCD标准"
-    ]
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Accelerating Medicines Partnership",
@@ -40352,7 +41192,8 @@
     "aliases": [
       "加速药物伙伴关系",
       "AMP"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Activate Fellowship",
@@ -40366,7 +41207,8 @@
       "创业型博士后计划",
       "Activate",
       "Cyclotron Road"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Advanced Technological Education",
@@ -40379,7 +41221,8 @@
       "NSF ATE",
       "社区学院技术教育计划",
       "半导体技师培养计划"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Advanced Technology Program",
@@ -40390,7 +41233,8 @@
       "先进技术计划",
       "美国先进技术计划",
       "Advanced Technology Program (NIST)"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Advancement Via Individual Determination",
@@ -40400,7 +41244,8 @@
       "AVID",
       "个体决定促进计划",
       "通过个体决定获得成功计划"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "AERA Congressional Fellowship Program",
@@ -40411,7 +41256,8 @@
       "国会研究员计划",
       "AERA Congressional Fellowship",
       "Congressional Fellowship Program"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "AFVentures",
@@ -40423,7 +41269,8 @@
       "空军商业风投计划",
       "空军风险投资计划",
       "AFWERX AFVentures"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "American Diploma Project",
@@ -40432,7 +41279,8 @@
     "aliases": [
       "美国文凭项目",
       "ADP"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "American Spaces",
@@ -40444,7 +41292,8 @@
       "美国角",
       "American Centers",
       "American Corners"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "APLU Innovation and Economic Prosperity Program",
@@ -40454,7 +41303,8 @@
       "APLU IEP",
       "创新与经济繁荣项目",
       "APLU 经济参与认证"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Apollo Program",
@@ -40465,7 +41315,8 @@
       "Project Apollo",
       "美国阿波罗载人登月计划",
       "NASA Apollo Program"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Applied Sciences NYC",
@@ -40477,7 +41328,8 @@
       "纽约应用科学倡议",
       "Applied Sciences Initiative",
       "Applied Sciences New York"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "ARPANET",
@@ -40487,7 +41339,8 @@
       "阿帕网",
       "高级研究计划局网络",
       "Advanced Research Projects Agency Network"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Clinical Trials Transformation Initiative",
@@ -40496,7 +41349,8 @@
     "aliases": [
       "CTTI",
       "临床试验转型倡议"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Competitive Semiconductor Manufacturing Program",
@@ -40507,7 +41361,8 @@
       "CSM",
       "Berkeley CSM",
       "CSM Program"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Complex Instruction Programme",
@@ -40520,7 +41375,8 @@
       "复合教学方案",
       "复杂教学法",
       "Komplex Instrukciós Program"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Comprehensive School Reform Program",
@@ -40528,7 +41384,8 @@
     "path": "wiki/facts/us/Comprehensive School Reform Program.md",
     "aliases": [
       "综合学校改革项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "DARPA Toolbox Initiative",
@@ -40539,7 +41396,8 @@
       "国防预研局工具箱计划",
       "DARPA Toolbox",
       "Toolbox Initiative"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Early Reading Intervention",
@@ -40550,7 +41408,8 @@
       "早期阅读干预方案",
       "Scott Foresman ERI",
       "Early Reading Intervention ERI"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Early Steps",
@@ -40561,7 +41420,8 @@
       "Early Steps-Next Steps",
       "早期起步",
       "早期起步与后续起步"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Early Warning Indicator System",
@@ -40571,7 +41431,8 @@
       "早期预警指标系统",
       "EWIS",
       "Early Warning Indicator System (EWIS)"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Education Innovation and Research",
@@ -40584,7 +41445,8 @@
       "EIR",
       "EIR Program",
       "Education Innovation and Research Program"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Embedded Entrepreneurship Initiative",
@@ -40596,7 +41458,8 @@
       "EEI",
       "DARPA EEI",
       "嵌入式商业化加速计划"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Engineering Research Centers",
@@ -40608,7 +41471,8 @@
       "NSF ERC",
       "工程研究中心计划",
       "Gen-4 ERC"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Enhanced Core Reading Instruction",
@@ -40617,7 +41481,8 @@
     "aliases": [
       "增强型核心阅读教学",
       "ECRI"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Evidence for ESSA",
@@ -40626,7 +41491,8 @@
     "aliases": [
       "联邦循证教育平台",
       "全美教育证据库"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Fast Grants",
@@ -40637,7 +41503,8 @@
       "极速科研资助",
       "Fast Grants Initiative",
       "极速资助"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Focus Center Research Program",
@@ -40649,7 +41516,8 @@
       "焦点聚焦研究中心计划",
       "Focus Center Research",
       "FRC"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "FocusMath",
@@ -40660,7 +41528,8 @@
       "聚焦数学方案",
       "FocusMath Intervention",
       "Pearson FocusMath"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Fraction Face-Off!",
@@ -40671,7 +41540,8 @@
       "分数对决",
       "分数对决项目",
       "分数干预项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Fulbright Program",
@@ -40681,7 +41551,8 @@
       "富布莱特计划",
       "富布赖特计划",
       "富布莱特项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Galaxy Math",
@@ -40692,7 +41563,8 @@
       "银河数学辅导方案",
       "Galaxy Math Tutoring",
       "First-Grade Galaxy Math"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Genesis Mission",
@@ -40703,7 +41575,8 @@
       "创世任务",
       "美国科学与安全平台",
       "American Science and Security Platform"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Human Genome Project",
@@ -40712,7 +41585,8 @@
     "aliases": [
       "人类基因组计划",
       "HGP"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Industry-University Cooperative Research Centers",
@@ -40723,7 +41597,8 @@
       "I/UCRC",
       "NSF I/UCRC",
       "大学-工业界合作研究中心计划"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Inq-Blotter",
@@ -40734,7 +41609,8 @@
       "探究教师仪表盘",
       "Inq-Blotter Dashboard",
       "AI-based Teacher Dashboard"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Inq-ITS",
@@ -40743,7 +41619,8 @@
     "aliases": [
       "探究智能导师系统",
       "Inquiry Intelligent Tutoring System"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Intensive Reading Remediation",
@@ -40753,7 +41630,8 @@
       "密集阅读补救",
       "密集阅读补救方案",
       "Blachman Reading Remediation"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Investing in Innovation Program",
@@ -40764,7 +41642,8 @@
       "创新投资计划",
       "Investing in Innovation",
       "i3 Program"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Joint University Microelectronics Program 2.0",
@@ -40775,7 +41654,8 @@
       "JUMP 2.0",
       "Joint University Microelectronics Program",
       "联合大学微电子计划"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Khanmigo",
@@ -40785,7 +41665,8 @@
       "可汗学院智能导师",
       "Khanmigo AI",
       "Khan Academy Khanmigo"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Lab-Embedded Entrepreneurship Program",
@@ -40797,7 +41678,8 @@
       "实验室嵌入式创业倡议",
       "LEEP",
       "DOE LEEP"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Lightning Squad",
@@ -40808,7 +41690,8 @@
       "闪电读写小组",
       "计算机辅助读写辅导项目",
       "Technology-Assisted Tutoring"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Lindamood Phoneme Sequencing",
@@ -40818,7 +41701,8 @@
       "LiPS",
       "林达穆德音素序列项目",
       "Lindamood Phoneme Sequencing Program"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Local Innovation Systems Project",
@@ -40827,7 +41711,8 @@
     "aliases": [
       "LIS Project",
       "本地创新系统项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Manhattan Project",
@@ -40838,7 +41723,8 @@
       "曼哈顿计划",
       "Manhattan District",
       "Manhattan Engineer District"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Materials Genome Initiative",
@@ -40849,7 +41735,8 @@
       "MGI",
       "材料基因工程",
       "Materials Innovation Infrastructure"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Math Recovery",
@@ -40860,7 +41747,8 @@
       "数学恢复方案",
       "Math Recovery Program",
       "US Math Recovery"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Microelectronics Commons",
@@ -40872,7 +41760,8 @@
       "DOD Microelectronics Commons",
       "微电子通用平台",
       "Microelectronics Commons Hubs"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "MN-IP Create",
@@ -40881,7 +41770,8 @@
     "aliases": [
       "明尼苏达大学IP创新计划",
       "University of Minnesota MN-IP Create"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "National Advanced Packaging Manufacturing Program",
@@ -40891,7 +41781,8 @@
       "国家先进封装制造计划",
       "NAPMP",
       "美国国家先进封装制造计划"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "National Assessment of Educational Progress",
@@ -40903,7 +41794,8 @@
       "国家成绩单",
       "The Nation's Report Card",
       "NAEP"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "National Diffusion Network",
@@ -40912,7 +41804,8 @@
     "aliases": [
       "国家扩散网络",
       "NDN"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "National Nanotechnology Coordinated Infrastructure",
@@ -40922,7 +41815,8 @@
       "国家纳米技术协调基础设施",
       "NNCI",
       "美国国家纳米技术协调基础设施"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "National Nanotechnology Initiative",
@@ -40932,7 +41826,8 @@
       "国家纳米技术倡议",
       "NNI",
       "国家纳米技术计划"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "National Quantum Initiative",
@@ -40943,7 +41838,8 @@
       "国家量子计划",
       "NQI",
       "国家量子倡议法案"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Next-Generation Microsystems Manufacturing",
@@ -40955,7 +41851,8 @@
       "NGMM Program",
       "下一代微系统制造",
       "三维异构集成国家中试中心"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "NSF I-Corps",
@@ -40967,7 +41864,8 @@
       "美国国家科学基金会创新兵团",
       "国家科学基金会创新军团",
       "Innovation Corps"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "NSF Regional Innovation Engines",
@@ -40979,7 +41877,8 @@
       "NSF Regional Innovation Engines Program",
       "国家科学基金会区域创新引擎",
       "Regional Innovation Engines"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "NSF Supercomputer Centers",
@@ -40990,7 +41889,8 @@
       "超级计算中心计划",
       "NSF Supercomputer Centers Program",
       "国家超级计算中心"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "NSF X-Labs",
@@ -41000,7 +41900,8 @@
       "X实验室",
       "X-Labs",
       "NSF X Labs"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Number Rockets",
@@ -41009,7 +41910,8 @@
     "aliases": [
       "数字火箭",
       "数字火箭项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Open Court Reading",
@@ -41020,7 +41922,8 @@
       "Open Court Reading (OCR)",
       "开放式阅读",
       "OCR"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Operation Paperclip",
@@ -41030,7 +41933,8 @@
       "回形针行动",
       "纸夹行动",
       "Paperclip Project"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Peer-Assisted Learning Strategies",
@@ -41041,7 +41945,8 @@
       "同伴互助学习策略",
       "PALS",
       "Peer-Assisted Learning Strategies (PALS)"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "PhET Interactive Simulations",
@@ -41052,7 +41957,8 @@
       "PhET Simulations",
       "交互式科学仿真",
       "物理教育技术项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Pirate Math",
@@ -41062,7 +41968,8 @@
       "海盗数学",
       "海盗数学方程探索",
       "Pirate Math Equation Quest"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Project Maven",
@@ -41073,7 +41980,8 @@
       "算法战跨职能小组",
       "Algorithmic Warfare Cross-Functional Team",
       "AWCFT"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Quantum Opportunity Program",
@@ -41085,7 +41993,8 @@
       "QOP",
       "Eisenhower Quantum Opportunities Program",
       "EQOP"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "QuickReads",
@@ -41095,7 +42004,8 @@
       "Quick Reads",
       "极速阅读",
       "快速阅读项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Race to the Top",
@@ -41107,7 +42017,8 @@
       "争向顶峰",
       "争向顶峰计划",
       "RTTT"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Rainbow Project",
@@ -41117,7 +42028,8 @@
       "彩虹项目",
       "斯腾伯格彩虹项目",
       "Sternberg Rainbow Project"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Rapid Assessment and Response Strategy",
@@ -41127,7 +42039,8 @@
       "快速评估与响应战略",
       "RARS",
       "SRCD RARS"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Read, Write, & Type",
@@ -41137,7 +42050,8 @@
       "Read, Write, and Type",
       "读写与打字",
       "读写打字方案"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Reading Recovery",
@@ -41148,7 +42062,8 @@
       "阅读复原计划",
       "雷丁复原方案",
       "Reading Recovery Program"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Reading Rescue",
@@ -41157,7 +42072,8 @@
     "aliases": [
       "阅读营救",
       "阅读营救项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Regional Technology and Innovation Hubs",
@@ -41170,7 +42086,8 @@
       "Tech Hubs Program",
       "EDA Tech Hubs",
       "Regional Technology and Innovation Hubs Program"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "ROI Initiative for Unleashing American Innovation",
@@ -41179,7 +42096,8 @@
     "aliases": [
       "ROI Initiative",
       "美国释放创新倡议"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "ROOTS",
@@ -41188,7 +42106,8 @@
     "aliases": [
       "数学根基方案",
       "ROOTS Math"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "SBIR and STTR Programs",
@@ -41202,7 +42121,8 @@
       "小企业创新研究计划",
       "小企业技术转移计划",
       "小企业创新研究与技术转移计划"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Science and Technology Centers",
@@ -41214,7 +42134,8 @@
       "NSF STC",
       "科学技术中心计划",
       "Science and Technology Centers Integrative Partnerships"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Sematech Centers of Excellence",
@@ -41225,7 +42146,8 @@
       "SCOE",
       "大学卓越技术中心网络",
       "Sematech Centers of Excellence Network"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Semi-Automatic Ground Environment",
@@ -41234,7 +42156,8 @@
     "aliases": [
       "半自动地面防空系统",
       "半自动地面防空工程"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Sound Partners",
@@ -41243,7 +42166,8 @@
     "aliases": [
       "声音伙伴",
       "声音伙伴读写项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "SPARK Literacy",
@@ -41254,7 +42178,8 @@
       "SPARK Reading",
       "星火读写方案",
       "早期读写辅导"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Start Making a Reader Today",
@@ -41265,7 +42190,8 @@
       "阅读伴读项目",
       "今日造就读者",
       "SMART Literacy"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Success for All",
@@ -41276,7 +42202,8 @@
       "Success for All (SFA)",
       "人人成功",
       "SFA"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Targeted Reading Intervention",
@@ -41286,7 +42213,8 @@
       "目标阅读干预",
       "TRI",
       "目标阅读干预项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Tennessee STAR Project 1985-1989",
@@ -41297,7 +42225,8 @@
       "STAR Project",
       "Project STAR",
       "田纳西学生教师成就比项目"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Transformational AI Models Consortium",
@@ -41308,7 +42237,8 @@
       "变革性人工智能模型联合体",
       "TAMC",
       "转型基础模型联合体"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Tutor-Assisted Math Problem Solving",
@@ -41319,7 +42249,8 @@
       "助教辅助数学应用题辅导",
       "Tutor-Assisted Mathematical Problem Solving",
       "TAMPS"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Universal Parallel Computing Research Centers",
@@ -41329,7 +42260,8 @@
       "通用并行计算研究中心",
       "UPCRC",
       "Intel Microsoft UPCRC"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Using Data Intervention",
@@ -41340,7 +42272,8 @@
       "佛罗里达数据使用干预试验",
       "佛罗里达数据使用干预",
       "Florida Using Data Trial"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "USS Nautilus Submarine Development",
@@ -41352,7 +42285,8 @@
       "USS Nautilus",
       "SSN-571",
       "美国海军核动力推进计划"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Web-based Inquiry Science Environment",
@@ -41361,7 +42295,8 @@
     "aliases": [
       "网络探究科学环境",
       "WISE Platform"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Whole Earth Catalog",
@@ -41371,7 +42306,8 @@
       "全球概览",
       "全球目录",
       "WEC"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Simon Bolivar United World Institute of Experimental Agriculture",
@@ -41380,7 +42316,8 @@
     "aliases": [
       "西蒙·玻利瓦尔联合世界实验农业学院",
       "Simon Bolivar United World College of Agriculture"
-    ]
+    ],
+    "subtype": "program"
   },
   {
     "title": "Argument_Bates_2017_CognitionEducationTrust",

@@ -15,7 +15,7 @@ fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "White House Office of Science and Technology Policy"
+issuing_organization: "[[Office of Science and Technology Policy|White House Office of Science and Technology Policy]]"
 tags:
   - region/us
   - policy/innovation

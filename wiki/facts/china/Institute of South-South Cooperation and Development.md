@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -114,6 +114,7 @@ updated: 2026-10-22
 > - **自主发展[[Knowledge Production|知识生产]]与国际传播** 依托北京大学深厚的学科积淀，学院成功构建了一套不同于[[Washington Consensus|华盛顿共识]]的发展政策[[Discourse|话语]]，为全球南方探索独立自主的发展道路提供了系统的知识参照体系。
 > - **跨国战略互信与[[People-to-People Connectivity|民心相通]]的深层纽带** 培育了一大批深刻理解中国改革开放逻辑、认同[[South-South Cooperation|南南合作]]平权理念的国际青年治理领袖，构成了跨国重大经贸与产能投资最坚实的社会精英桥梁。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 228–229)]]
 > - **[[Pragmatic Paradigm|实用主义]]中国治理经验的文化认同** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）实证指出，南南学院通过深度比较中国经济体制改革、对外开放及[[Belt and Road Initiative|一带一路倡议]]实践，有效促进了东南亚及全球南方学员对中国当代发展模式与治理道路的实质性认同，成为展示实用主义[[Chinese Exceptionalism|中国例外论]]卓越与善意的代表性窗口（pp. 1051–1052）。
+> - **发展阶段同频共鸣与特区模式学习意愿** 朱克金与杨锐（[[Argument_Zhu_Yang_2023_HEP|Zhu & Yang, 2023]]）基于中柬案例实证发现，南南学院专门为国际学员定制的经济特区开发与社会转型研讨课程获得受训官员高度评价；柬埔寨受访官员明确指出本国公务员系统普遍认为自身发展阶段类似于中国三十年前的改革开放初期，展现出对中国兼顾政治稳定与经济繁荣治理经验的自发共鸣与主动学习意向（pp. 649–650）。
 
 ---
 
@@ -136,4 +137,6 @@ updated: 2026-10-22
 > | [[Forum on China-Africa Cooperation]] | Fact (Organization) | 宣布设立南南学院并持续提供多边指标与高端生源依托的重要平台。 |
 > | [[Belt and Road Initiative]] | Fact (Policy) | 学院人才培养与智库成果深度服务的高质量跨国共建网络。 |
 > | [[Kenneth King]] | Person | 将南南学院作为对非合作向治理经验互学深化典型案例进行论证的比较教育学者。 |
+| [[MOFCOM Scholarship]] | Fact (Program) | 资助发展中国家中青年官员入读学院 MPA 与博士项目的国家级全额专项奖学金。 |
+| [[Argument_Zhu_Yang_2023_HEP\|Zhu and Yang (2023)]] | Argument | 实证记录柬埔寨政府受训官员对南南学院发展治理研讨课程与特区规划经验的微观评价。 |
 | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 实证审视南南学院中国浸润项目在推动发展中国家精英认同中国治理经验与展示[[Pragmatic Paradigm\|实用主义]]例外论中的功能。 |

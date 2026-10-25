@@ -148,10 +148,10 @@ related_facts:
 related_arguments: []
 sources:
   - "[[sources/Bouckaert_2023_OECD/Bouckaert_2023_OECD|Bouckaert_2023_OECD]]"
-issuing_organization: "OECD"
+issuing_organization: "[[OECD]]"
 status: draft
 created: 2026-08-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 ---
 

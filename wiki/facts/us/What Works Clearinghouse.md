@@ -19,7 +19,7 @@ fact_related_color: "#fecdd3"
 org_type: "government-clearinghouse"
 headquarters: "Washington, D.C., USA"
 established: "2002"
-issuing_organization: Institute of Education Sciences, U.S. Department of Education
+issuing_organization: "[[Institute of Education Sciences]], U.S. Department of Education"
 tags:
   - what-works-clearinghouse
   - wwc
@@ -125,7 +125,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

@@ -83,7 +83,7 @@ related_arguments:
 confidence: medium
 status: stable
 created: '2026-05-11'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -266,6 +266,7 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 实证揭示国际学科排名的位次提升（如清华、北大在 THE 与 QS 工程学科排名前十）对东南亚优秀学生跨国流向的强劲吸纳效能，促使国际生源以学科排行榜为依据放弃本国顶尖高校转学中国理工名校（pp. 646–648）。
 > - [[Argument_Boyadjieva_2022_Springer|Boyadjieva (2022, pp. 125–139)]] — 宏观综述全球大学排名的兴起动因、系统性方法学偏见及新制度主义体制不可避免性机制。
 > - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022, pp. 219–226)]] — 揭示全球排名作为[[Geopolitics|地缘政治]]装置的基础设施属性，以及高校开发[[Online Self-Assessment|在线自评工具]]开展[[Preemptive Governance|预判性治理]]的微观实践。
 > - [[Argument_Marginson_2025_ECNUROE|Marginson (2025, pp. 4–19)]] — 阐释全球排名作为[[Space-Making|高等教育空间制造]]的机制，分析澳大利亚高校利用留学生学费资助科研推高排名的循环效应。

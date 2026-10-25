@@ -15,7 +15,7 @@ fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "爱尔兰高等教育局（HEA）"
+issuing_organization: "[[Higher Education Authority|爱尔兰高等教育局（HEA）]]"
 tags:
   - policy/higher-education
   - region/ireland
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
