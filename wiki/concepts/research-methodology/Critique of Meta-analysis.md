@@ -5,9 +5,9 @@ aliases:
 summary: "围绕元分析方法论前提、证据库与操作程序、统计推断、聚合后的政策用途和认识论立场形成的批评体系，并对照各项批评的方法学回应与遗留问题"
 type: concept
 domain: "research-methodology"
-related_count: 77
-related_level: 7
-related_stars: "💎💎⭐"
+related_count: 80
+related_level: 8
+related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - meta-analysis
@@ -35,13 +35,16 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Attrition]]"
   - "[[Learning Styles]]"
+  - "[[Teacher Effects]]"
   - "[[Scientific Method]]"
   - "[[Sampling Error]]"
   - "[[Literature Review]]"
   - "[[Business as Usual]]"
   - "[[Developer-Made Measures]]"
+  - "[[Extending School Time]]"
   - "[[Interaction Effect]]"
   - "[[Direct Instruction]]"
+  - "[[Web-Based Learning]]"
   - "[[Cargo Cult Science]]"
   - "[[Bildung]]"
   - "[[Discourse]]"
@@ -100,7 +103,7 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -198,7 +201,7 @@ updated: 2026-10-22
 > **文件抽屉问题** Wolf (1986) 把发表偏倚列为第三项批评：已发表研究更受青睐，结果不显著的未发表研究难以纳入。Glass et al. (1981) 回应称，未发表研究（尤其是博士和硕士学位研究）报告的效应往往较弱，纳入它们可以对冲已发表研究。Rosenthal (1991) 提出计算推翻显著结论所需的零效应未发表研究数，但该方法假定未发表研究的平均效应为零，这一假设本身可能不成立。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17)]]
 
 > [!claim] [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]
-> **有利结论更易发表，证据来源偏窄** 支持有利结论的研究更可能发表，在药企资助研究与利润丰厚的教育时尚（如[[Learning Styles\|学习风格]]）中尤其明显。此外，大多数研究来自美国等英语国家，不能直接推广到非英语或发展中国家，后者学校效应相对教师效应要大得多。[[Argument_Snook_2009_NZJES\|(Snook et al., 2009, pp. 97–98)]]
+> **有利结论更易发表，证据来源偏窄** 支持有利结论的研究更可能发表，在药企资助研究与利润丰厚的教育时尚（如[[Learning Styles\|学习风格]]）中尤其明显。此外，大多数研究来自美国等英语国家，不能直接推广到非英语或发展中国家，后者学校效应相对[[Teacher Effects|教师效应]]要大得多。[[Argument_Snook_2009_NZJES\|(Snook et al., 2009, pp. 97–98)]]
 
 > [!claim] [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]
 > **出版体制造成的数据黑箱** 期刊偏好显著结果，零效应与负效应被锁进抽屉；版面限制又使原始研究省略[[Sample Size Determination|样本量]]与标准差等关键信息，后续综合只能猜测或拼凑。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 34–35)]]
@@ -252,7 +255,7 @@ updated: 2026-10-22
 > - **范围限制** 样本越窄方差越小，效应量随之放大；模拟显示中等能力组的效应量可膨胀约 40% (pp. 8–9)。
 > - **测量设计** [[Developer-Made Measures|研究者自编测验]]的效应量比标准化测验平均高约 40%，测验长度翻倍可使效应量膨胀 20% 至 100% 以上 (p. 12)。
 >
-> 这些偏差随研究领域系统变化：反馈研究容易使用无反馈对照、窄化样本、设计聚焦测验，延长在校时间或校服研究做不到。合并效应量实际合并的是不同领域操纵研究设计的不同自由度 [[Argument_Simpson_2017_JEdPolicy\|(Simpson, 2017, pp. 5–14)]]。
+> 这些偏差随研究领域系统变化：反馈研究容易使用无反馈对照、窄化样本、设计聚焦测验，[[Extending School Time|延长在校时间]]或校服研究做不到。合并效应量实际合并的是不同领域操纵研究设计的不同自由度 [[Argument_Simpson_2017_JEdPolicy\|(Simpson, 2017, pp. 5–14)]]。
 
 > [!claim] Morris and DeShon (2002); [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]
 > **不同设计估计不同的总体参数** 组间设计的效应量以个体间变异标准化，组内前[[Pre-test and Post-test|后测]]设计的效应量取决于前后测相关与变化分数的标准差，两者估计的是不同参数，未经换算不能直接平均 (Morris & DeShon, 2002)。[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] 发现，《[[Visible Learning|可见的学习]]》只有 30% 的影响因素纯粹基于组间实验，27%（82 项）把组间实验与相关研究混在一起，另有 10% 混入了全部三类设计。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 7–8, 15–16)]]
@@ -287,7 +290,7 @@ updated: 2026-10-22
 > **信息损耗、时效滞后与双重困境** Terhart 指出，元分析把不同项目、方法与背景的研究结果当作可自由兑换的“通用货币”，层层累加中原始研究的情境与机制不可逆地流失。从原始研究到一阶元分析约有 5 年滞后，再到二阶综合又有 10 至 20 年，巨型证据库反映的多是数十年前的学校。他还提出稳定性/变异性双重困境：若教学规律稳定，综合得出的高效因素不过重申了教科书常识；若规律随情境变化，依赖陈旧文献的某些结论（如教师专业知识影响微弱）已被 [[COACTIV]] 等新研究推翻 (Baumert et al., 2010)。巨型综合因此无法成为终结争议的“圣杯”，更像一座需要不断修补的金字塔。[[Argument_Terhart_2011_JCS\|(Terhart, 2011)]]
 
 > [!claim] [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]
-> **伪[[Standard Error|标准误]]与文献重叠** Haas (2005) [[Direct Instruction\|直接教学]]元分析缺少原始[[Sample Size Determination|样本量]]，后续综合以[[Effect Size|效应量]]离散标准差除以 $\sqrt{19}$ 拼出标准误 0.135，使其权重只有约 54.9；按原始样本量推算的标准误为 0.092（权重约 118.1），权重被削减 53.5%。网络学习条目中，Olson and Wisher (2002) 的 15 项研究有 14 项（93.3%）与 Sitzmann et al. (2006) 重复；忽略重复并简单平均得到 $d = 0.59$（第 26 位），去重并[[Inverse-Variance Weighting\|逆方差加权]]后降至 $d = 0.23$（第 98 位）。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 29–30)]]
+> **伪[[Standard Error|标准误]]与文献重叠** Haas (2005) [[Direct Instruction\|直接教学]]元分析缺少原始[[Sample Size Determination|样本量]]，后续综合以[[Effect Size|效应量]]离散标准差除以 $\sqrt{19}$ 拼出标准误 0.135，使其权重只有约 54.9；按原始样本量推算的标准误为 0.092（权重约 118.1），权重被削减 53.5%。[[Web-Based Learning|网络学习]]条目中，Olson and Wisher (2002) 的 15 项研究有 14 项（93.3%）与 Sitzmann et al. (2006) 重复；忽略重复并简单平均得到 $d = 0.59$（第 26 位），去重并[[Inverse-Variance Weighting\|逆方差加权]]后降至 $d = 0.23$（第 98 位）。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 29–30)]]
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]; LeLorier et al. (1997)
 > **重复计数固化陈旧证据** 后期元分析常重新纳入早期元分析收录过的经典实验，二阶综合简单相加时，1980 年代的实验被计入数次甚至数十次，获得不成比例的权重，使新近的严谨实验难以改变平均值 [[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 16–18, 21)]]。医学文献中 LeLorier et al. (1997) 也已警告偏倚会在聚合层级间传播。

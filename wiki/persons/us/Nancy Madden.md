@@ -10,7 +10,7 @@ summary: "美国当代著名教育心理学家、约翰斯·霍普金斯大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Evidence Standards]]"
+  - "[[Small Group Tuition]]"
   - "[[Champ]]"
   - "[[Paradigm]]"
   - "[[Structured Teaching]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-17'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -56,7 +57,7 @@ updated: 2026-10-22
 > - **核心角色** [[Cooperative Learning\|合作学习]]理论与全校循证教学方案的核心架构师，与[[Robert Slavin\|罗伯特·斯莱文]]（Robert E. Slavin）共同开创了全美最具实证影响力的全校阅读改革模型。
 > - **代表贡献** 联合研发了全员成功方案（SFA）、[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作]]（CIRC）以及技术辅助小组阅读辅导项目（[[Lightning Squad]]），在 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]下取得显著成效。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
 
-> [!citation-card] 全校改革与小组辅导的联合研发
+> [!citation-card] 全校改革与[[Small Group Tuition|小组辅导]]的联合研发
 > 斯莱文与马登长期合作研发并系统评估了包括全员成功方案与技术辅助小组辅导在内的多种循证阅读干预模式。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 28, 30)]]
 >
 > *Slavin and Madden co-developed and rigorously evaluated comprehensive school reform and technology-assisted small-group tutoring programs.*

@@ -9,9 +9,9 @@ title: "Argument_Slavin_2019_EducPsychol"
 argument_key: "Argument_Slavin_2019_EducPsychol"
 argument_display_title: "How evidence-based reform will transform research and practice in education"
 argument_kind: "journal-article"
-argument_related_count: 96
-argument_related_level: 9
-argument_related_stars: "💎💎💎"
+argument_related_count: 100
+argument_related_level: 10
+argument_related_stars: "💎💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: Educational Psychologist
 citation: Slavin, R. E. (2019). How evidence-based reform will transform research and practice in education. Educational Psychologist, 55(1), 21–31. https://doi.org/10.1080/00461520.2019.1611432
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Effective Teaching]]"
   - "[[Active Learning]]"
+  - "[[Differentiated Instruction]]"
   - "[[Formative Assessment]]"
   - "[[Counterfactual]]"
   - "[[School Choice]]"
@@ -61,6 +62,8 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Academic Achievement]]"
   - "[[Cooperative Learning]]"
+  - "[[Small Group Tuition]]"
+  - "[[Tutoring Interventions]]"
   - "[[External Validity]]"
   - "[[Replication in Education Research]]"
   - "[[Internal Validity]]"
@@ -80,6 +83,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Random Assignment]]"
   - "[[Intraclass Correlation Coefficient]]"
+  - "[[Experimental Research]]"
   - "[[Qualitative Research]]"
   - "[[Cluster Analysis]]"
   - "[[Sample Size Determination]]"
@@ -133,7 +137,7 @@ related_persons:
   - "[[Nancy Madden]]"
 status: draft
 created: 2026-05-01
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 ---
 
@@ -218,7 +222,7 @@ updated: 2026-10-23
 > | **现代农业** | 联邦农业试验站与推广站网络建设 | 田间对照试验与良种筛选 | 半个世纪内农作物单产实现成倍增长 |
 > | **传统教育** | 缺乏基于严格对照实验的循证准入机制 | 依靠人际口碑、商业营销与行政指令 | 陷入[[Whole Language\|全语言]]与自然拼读、开放与传统讲授的时尚钟摆 |
 
-在教育决策中，管理者往往倾向于推广[[Effective Teaching|有效教学]]的一般原则（如促进[[Active Learning|主动学习]]、差异化教学、[[Formative Assessment|形成性评价]]等），但实证研究表明通用原则极难直接转化为课堂成效。
+在教育决策中，管理者往往倾向于推广[[Effective Teaching|有效教学]]的一般原则（如促进[[Active Learning|主动学习]]、[[Differentiated Instruction|差异化教学]]、[[Formative Assessment|形成性评价]]等），但实证研究表明通用原则极难直接转化为课堂成效。
 
 > [!critique-method] 抽象通用原则在实践转化中的双重壁垒
 > - **教师转化负担与惯性回退** 一线教师在面对抽象原则时，极难在繁重的日常备课中自行研发对应的完整教材、课堂活动、测评工具与分层方案；在短暂尝试遭遇挫折后，往往迅速退回最熟悉的传统教条与个人习惯。
@@ -277,7 +281,7 @@ updated: 2026-10-23
 2015 年通过的《每一个学生成功法》（[[Every Student Succeeds Act|ESSA]]）正式确立了四级证据体系，并将联邦和州财政拨款与证据等级硬性挂钩。
 
 > [!policy-design] 政策财政杠杆传导机制与历史先例
-> - **早期技术扩散先驱：[[National Diffusion Network\|国家扩散网络]]（NDN 1974–1995）** 联邦教育部设立国家扩散网络（National Diffusion Network, NDN），通过各州设立“州促进员”网络跨区域推广 500+ 个经审查的教学模型，覆盖数以万计的学校，从实践上证实了基层学校对外部成熟优质模型的规模化采纳意愿。（pp. 6–7）
+> - **早期技术扩散先驱：[[National Diffusion Network\|国家扩散网络]]（NDN 1974–1995）** 联邦教育部设立国家扩散网络（National Diffusion Network, NDN），通过各州设立“州促进员”网络跨区域推广 500+ 个经审查的教学模型，覆盖数以万计的学校，从实践上证实了基层学校对外部成熟优质模型的规模化采纳意愿。
 > - **财政激励先例：全面学校改革计划（CSR 1997/1998）** 联邦国会通过 Obey-Porter 修正案设立 CSR 专项基金，每年拨付 2 亿美元专项补贴采纳经过实证检验的全校改革方案（如 [[Success for All]]、[[Direct Instruction]] 等）的薄弱学校；该政策直接撬动了全美数百所学校的主动转型，证明财政激励对重塑实践具有决定性作用。
 > - **ESSA [[Title I of the Elementary and Secondary Education Act\|Title I]] 薄弱学校刚性约束** 各州必须设立 7% 的 Title I 学校改进专项基金；[[Academic Achievement\|学业表现]]处于全州倒数 5% 的综合支持与改进学校（Comprehensive Support and Improvement, CSI），申请资助时必须强制采纳符合 ESSA 强（Strong）、中等（Moderate）或有希望（Promising）证据标准的干预项目。
 > - **Title II 竞争性加分与州级扩散** 联邦教师专业发展拨款给予采纳循证方案的学区竞争性加分；亚利桑那、路易斯安那、明尼苏达、马里兰及俄亥俄等州更进一步将 ESSA 标准扩展至州级财政拨款与项目准入目录。
@@ -311,7 +315,7 @@ updated: 2026-10-23
 > | **多层全校方案（Tier 1 + 辅导）** | [[Enhanced Core Reading Instruction]] | 1 年级 | 1 所/批学校 | 1 项 | $+0.22$ | 强证据（Strong） |
 > | **全班教学方案（Tier 1）** | [[Cooperative Integrated Reading and Composition\|合作整合阅读与写作（CIRC）]] | 3–6 年级 | 班级 | 4 项 | $+0.19$ | 中等证据（Moderate） |
 > | **全班教学方案（Tier 1）** | [[Peer-Assisted Learning Strategies\|同伴辅助学习策略（PALS）]] | 1 年级 | 班级 | 1 项 | $+0.58$ | 中等证据（Moderate） |
-> | **小组辅导：专业教师（Tier 2）** | [[Lindamood Phoneme Sequencing\|LiPS]] | 1 年级 | 1:3 小组 | 1 项 | $+0.64$ | 强证据（Strong） |
+> | **[[Small Group Tuition\|小组辅导]]：专业教师（Tier 2）** | [[Lindamood Phoneme Sequencing\|LiPS]] | 1 年级 | 1:3 小组 | 1 项 | $+0.64$ | 强证据（Strong） |
 > | **小组辅导：专业教师（Tier 2）** | [[Read, Write, & Type]] | 1 年级 | 1:3 小组 | 1 项 | $+0.42$ | 强证据（Strong） |
 > | **小组辅导：专业教师（Tier 2）** | [[Butterfly Phonics]] | 6 年级 | 1:6/8 小组 | 1 项 | $+0.30$ | 强证据（Strong） |
 > | **小组辅导：教学助教（Tier 2）** | [[QuickReads\|Quick Reads]] | 2–3 年级 | 1:3 小组 | 2 项 | $+0.22$ | 强证据（Strong） |
@@ -330,7 +334,7 @@ updated: 2026-10-23
 
 #### 3. 数学领域循证项目存量与代表性干预方案
 
-在小学数学领域，辅导干预同样呈现出高度稳健的实证效益。
+在小学数学领域，[[Tutoring Interventions|辅导干预]]同样呈现出高度稳健的实证效益。
 
 > [!contrast-table] 初等数学领域符合 ESSA 强与中等证据标准的代表性干预方案（原表 2）
 > | 教学层级与模式 | 项目名称 | 验证学段 | 验证单位 | 核心研究数 | 平均效应量（$ES$） | ESSA 证据等级 |
@@ -379,7 +383,7 @@ updated: 2026-10-23
 > - **针对[[Replication in Education Research\|复现危机]]** 早期研究不复现主要源于小样本、开发者自评及[[Developer-Made Measures\|开发者自编测验]]；随着 i3、EIR 与 EEF 全面推行第三方独立评估、大样本[[Preregistration\|预注册]]与标准化测试，合规项目的复现[[Reliability\|可靠性]]大幅提升。
 > - **针对薄弱学校实施承载力不足论** 实证评估绝大多数恰恰是在高贫困 Title I 学校完成；高贫困学校完全有能力高保真实施方案，真正的阻碍是学区层面的政治动荡与拨款反复，而非教师能力。
 > - **针对短期[[Fade-out Effect\|效应衰减]]** 单次短期干预的效果确实易衰减；解决之道不是放弃循证，而是推行[[Cumulative Dosage Principle\|累积剂量原则]]——让学生从学前班到 12 年级连年接受经过验证的教学方案，实现学业优势的终身累积。
-> - **针对实验特权论与方法排他性疑虑** 遵循方法匹配问题原则（Method-to-Question [[Matching]]）——当核心问题是"使用某方案是否比常规做法带来更高学业产出"时，实验设计是最佳设计；这并不否定[[Qualitative Research\|质性研究]]在揭示实施过程、发现问题中的不可替代性。
+> - **针对实验特权论与方法排他性疑虑** 遵循方法匹配问题原则（Method-to-Question [[Matching]]）——当核心问题是"使用某方案是否比常规做法带来更高学业产出"时，[[Experimental Research|实验设计]]是最佳设计；这并不否定[[Qualitative Research\|质性研究]]在揭示实施过程、发现问题中的不可替代性。
 
 ---
 

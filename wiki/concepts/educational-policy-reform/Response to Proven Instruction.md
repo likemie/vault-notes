@@ -6,7 +6,7 @@ aliases:
 summary: "罗伯特·斯莱文于 2019 年提出的循证教育改革实施方案，主张以达到 ESSA 强与中等证据标准的经验证具体干预产品刚性填充干预反应模型（RTI）三层架构，从根本上解决传统 RTI 因缺乏具体方案支撑而流于形式的系统失效问题。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Implementation Fidelity]]"
   - "[[Cooperative Integrated Reading and Composition]]"
+  - "[[Small Group Tuition]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
@@ -74,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -112,7 +113,7 @@ updated: 2026-10-22
 
 > [!feature] RTPI 三层循证干预架构
 > - **TIER 1 — 全员核心通用教学（Core Classroom Instruction）** 面向全体学生的日常高质量课堂教学，应采用达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的全校/全班改革方案（如[[Success for All]]、[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作]]（CIRC）、[[Peer-Assisted Learning Strategies\|同伴辅助学习策略]]（PALS）），有效预防 80%–85% 学生出现学业困难。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
-> - **Tier 2 — 小组针对性补充辅导（Targeted Small-Group Tutoring）** 针对在 Tier 1 中仍出现轻度落后的约 10%–15% 处境不利学生，采用结构化小组辅导方案（师生比 1:2–6），可由认证教师或经过 1–2 天系统培训并使用高度脚本化教材的教学助教实施；阅读[[Effect Size\|效应量]] $ES = +0.22 \sim +0.64$，数学效应量 $ES = +0.24 \sim +0.51$。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
+> - **Tier 2 — 小组针对性补充辅导（Targeted Small-Group Tutoring）** 针对在 Tier 1 中仍出现轻度落后的约 10%–15% 处境不利学生，采用结构化[[Small Group Tuition|小组辅导]]方案（师生比 1:2–6），可由认证教师或经过 1–2 天系统培训并使用高度脚本化教材的教学助教实施；阅读[[Effect Size\|效应量]] $ES = +0.22 \sim +0.64$，数学效应量 $ES = +0.24 \sim +0.51$。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
 > - **Tier 3 — 密集个别辅导（Intensive One-to-One Tutoring）** 针对经历 Tier 2 后仍有严重阅读或数学障碍的 2%–5% 高危学生，由专业教师或资深助教提供每日高强度 1:1 辅导，作为替代特殊教育转介的最后强效防线；阅读效应量 $ES = +0.42 \sim +0.86$，数学效应量 $ES = +0.21 \sim +0.42$。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!logic-map]- RTPI 循证干预反应的梯级金字塔
@@ -158,7 +159,7 @@ updated: 2026-10-22
 > 探讨将经实验验证的具体干预方案系统化嵌入三层教学支持架构后，对高危学生学业失败率的预防效能。
 
 > [!claim] [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]
-> **具体方案填充三层架构的系统性学业保障** 在现有约 100 个达到 [[Every Student Succeeds Act\|ESSA]] 强或中等[[Evidence Standards\|证据标准]]的阅读与数学方案中，TIER 1 层级的全校方案（如[[Success for All]]，$ES = +0.41$）可有效预防绝大多数学生出现学业困难；Tier 2 小组辅导（[[Effect Size\|效应量]] +0.22 至 +0.64）可在 Tier 1 的基础上再次降低落后率；Tier 3 的高强度个别辅导（效应量 +0.42 至 +0.86）则能在转入特殊教育前拦截绝大多数高危学生。若将三层架构均以达到法定证据标准的产品填充，处境不利学生将"几乎必然获得学业成功"——这一系统性预防效果是传统 RTI 抽象原则所根本无法实现的。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–29)]]
+> **具体方案填充三层架构的系统性学业保障** 在现有约 100 个达到 [[Every Student Succeeds Act\|ESSA]] 强或中等[[Evidence Standards\|证据标准]]的阅读与数学方案中，TIER 1 层级的全校方案（如[[Success for All]]，$ES = +0.41$）可有效预防绝大多数学生出现学业困难；Tier 2 [[Small Group Tuition|小组辅导]]（[[Effect Size\|效应量]] +0.22 至 +0.64）可在 Tier 1 的基础上再次降低落后率；Tier 3 的高强度个别辅导（效应量 +0.42 至 +0.86）则能在转入特殊教育前拦截绝大多数高危学生。若将三层架构均以达到法定证据标准的产品填充，处境不利学生将"几乎必然获得学业成功"——这一系统性预防效果是传统 RTI 抽象原则所根本无法实现的。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–29)]]
 
 ---
 

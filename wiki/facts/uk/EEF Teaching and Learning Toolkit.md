@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 74
+fact_related_count: 75
 fact_related_level: 7
 fact_related_stars: "💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[School Leadership]]"
   - "[[Metacognition]]"
+  - "[[Extending School Time]]"
   - "[[Tracking]]"
   - "[[Self-control]]"
   - "[[Causality]]"
@@ -107,7 +108,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -126,7 +127,7 @@ updated: 2026-10-22
 > [!policy-design] 架构设计与三大策略范畴
 > - **三大干预范畴（[[OECD]] 系统分类）** Toolkit 的证据摘要被系统界定为一系列整合的伞状综述，将广泛的学校与课堂干预解构为三大范畴共 30 余类策略：
 >   1. **教学策略（Pedagogical approaches）** 如[[Metacognition\|元认知]]与自我调节、同伴辅导、反馈策略、拼读教学；
->   2. **组织与制度策略（Institutional approaches）** 如延长在校时间、小班化教学、[[Tracking\|能力分组]]设置；
+>   2. **组织与制度策略（Institutional approaches）** 如[[Extending School Time|延长在校时间]]、小班化教学、[[Tracking\|能力分组]]设置；
 >   3. **人际与关系策略（Relational approaches）** 如家长参与、行为干预策略、导师指导计划。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 111)]]
 > - **学段与非学业指标横向扩充（2014 年拓展）** EEF 后续将工具包范畴系统延伸至学前早期教育阶段，开发独立的“早期教育工具包”（Early Years Toolkit）；同时突破单一统考成绩（attainment）限制，将[[Self-control\|自我控制]]、身心韧性与社会情感发展等非学业产出纳入综合评价视野。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 > - **三大设计灵感来源** 承袭[[John Hattie\|约翰·哈蒂]]（[[John Hattie]], 2008）的做法将多元异质发现置于统一量表横向比较；借鉴 Sipe and Curlette (1996) 优先采纳具有清晰[[Causality\|因果推断]]基础的实验与准[[Experimental Research\|实验研究]]；汲取[[Robert Marzano\|罗伯特·马扎诺]]（[[Robert Marzano]], 1998）的实践导向提供直接指导课堂行动的常识化表述。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 47)]]

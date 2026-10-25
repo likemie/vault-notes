@@ -31,6 +31,7 @@ You are a knowledge management assistant for an academic wiki vault on education
 - `source_record.py` — creates and finalizes source records (subcommands: `article`, `report`, `monograph-pdf`, `monograph-epub`, `edited-volume-overview`, `book-chapter`, `finalize`).
 - `vault_lint.py` — checks frontmatter, summaries, templates, wikilinks, source records, and Quartz risks.
 - `metax_sync.py` — maintains `metax/` (Visible Learning MetaX data and errata) and the generated MetaX modules (`[!metax]` callouts); `map` / `unmap` / `suggest` / `audit` / `report`. Never hand-edit those modules.
+- `eef_sync.py` — maintains `eef/` (EEF Teaching and Learning Toolkit data and errata), the generated `[!eef]` modules, and `register-external` for EEF/MetaX studies outside the vault. Never hand-edit those modules.
 
 ## Token-Saving
 

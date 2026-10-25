@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Business as Usual]]"
   - "[[Response to Intervention]]"
+  - "[[Small Group Tuition]]"
   - "[[Evidence Standards]]"
   - "[[Teaching Assistant]]"
   - "[[Response to Proven Instruction]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-22
 > - **助教 1:6–8 微组规模** 突破了传统干预严格局限于 1:1 或 1:2 的师生比限制，在同一辅导时段内覆盖更多学困学生，显著提升干预吞吐量。
 > - **紧密对接核心课程标准** 教学单元严格对标年级核心标准，确保干预内容直接赋能主流课堂的日常教学。
 
-> [!citation-card] 斯莱文论 FocusMath 助教小组辅导的实证效能
+> [!citation-card] 斯莱文论 FocusMath 助教[[Small Group Tuition|小组辅导]]的实证效能
 > 在小学数学辅导领域，助教主导的中等规模小组干预同样能够达到卓越的循证水准。例如在三、五年级开展的 FocusMath 方案，由教学助教带领 6 至 8 名学生的小组实施，在严格实证研究中取得了 +0.24 的学业[[Effect Size\|效应量]]，完全符合《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *FocusMath, evaluated with [[Teaching Assistant|Teaching Assistants]] working with groups of six to eight in Grades 3 and 5, produced an effect size of +0.24, qualifying for the Strong rating under ESSA.*

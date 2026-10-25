@@ -293,6 +293,17 @@ MetaX 数据只存在 `metax/`，条目中的 MetaX 模块（一组 `[!metax]` c
 - 关系字段例外：`[!metax*]` 块内的链接（MetaX 模块里的元分析引用、Meta-X 条目中的领域汇总与 440 个因素索引）由 `wiki_relations.py` 跳过，不写入 `related_*`，避免 frontmatter 膨胀。
 - 映射与存根：440 个因素按 `metax/mapping.json`（审核表 `metax/MetaX 映射审核.md`）挂载到已有条目，或由 `metax_sync.py apply-mapping` 新建存根条目。存根只含 frontmatter（`status: draft`、tag `metax`）、H1 与 MetaX 模块，不按完整模板撰写；带 `metax` tag 的新条目免于“须在 Argument 正文中链接”检查，由 [[Visible Learning Meta-X]] 的因素索引承担入口。新建标题避免过短或泛化的词，中文别名不用两字泛词，以减少误链。
 
+### EEF Teaching and Learning Toolkit Module
+
+EEF 数据存于 `eef/`（`eef.json` 由 `scripts/eef_sync.py import` 从浏览器导出整理），条目中的 EEF 模块（`[!eef]` 总览、`[!eef-studies]-` 研究列表、`[!eef-errata]` 勘误）由 `eef_sync.py` 生成，不手写。
+
+- 位置：同属实证数据组，紧跟 MetaX 模块之后；无 MetaX 时放在第一张实证表之前，规则与 MetaX 相同。两个脚本只删改各自的 callout，互不覆盖；挂载条目加 tag `eef`。30 个策略的对应条目见 `eef_sync.py` 的 `MAPPING`，无对应条目时建存根。
+- 总览：影响（月）、成本与证据强度（EEF 五级）、页面报告的研究数、合并效应量、95% 置信区间、异质性 I²。研究列表一行一个效应量，同一研究的多个效应以小标签区分；标题同时给出效应量条数与去重后的研究数。
+- 链接：研究按 DOI，或篇名加年份与库内 Argument 一致时才链接。
+- 勘误：自动核算报告页面研究数与参考文献列表不一致、权重不闭合、合并结果疑为占位；来源勘误写入 `eef/errata.json`，`level` 为 `strand`（总览数值旁标 ⚑）或 `study`（列表 e 列标 ①②，`study` 填效应量 id），须附来源。EEF 的合并模型无法用常规随机效应法复现，τ² 与合并值的差异不作为错误报告。
+- `[!eef*]` 块与 `[!metax*]` 块同样不参与补链、不写入 `related_*`，也不做写作审查；`vault_lint.py` 以 `EEF_STALE` 检查是否最新。
+- 外部文献：`eef_sync.py register-external` 把 EEF 与 MetaX 中尚未入库的研究登记到 `citation/external_identities.json`，有 DOI 写 DOI，否则写篇名，并以 `datasets`（如 `eef:feedback`、`metax:S0412`）注明来源；不改动已有行，同一作者同年的不同文献加年份字母，与库内 Argument 同作者同年时也加字母。入库为 Argument 后由 `citation_index.py` 自动移除。
+
 ### tags
 
 - tags 全部英文、小写连字符。

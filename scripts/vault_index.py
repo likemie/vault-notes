@@ -1670,6 +1670,13 @@ def run_base_index(
             return code
         _TEXT_CACHE.clear()
         _FM_CACHE.clear()
+    # EEF Toolkit modules ([!eef]) follow the same rules (scripts/eef_sync.py).
+    if (ROOT / "eef/eef.json").exists() and not (book_check or book_dry_run):
+        code = run_script("eef_sync.py", ["sync"])
+        if code:
+            return code
+        _TEXT_CACHE.clear()
+        _FM_CACHE.clear()
 
     if sync_links:
         # Ordinary linking and relation sync must see newly created / renamed

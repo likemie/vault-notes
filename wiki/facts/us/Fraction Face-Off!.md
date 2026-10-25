@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Scaffolding]]"
+  - "[[Small Group Tuition]]"
   - "[[Teaching Assistant]]"
   - "[[Business as Usual]]"
   - "[[Response to Proven Instruction]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -76,7 +77,7 @@ updated: 2026-10-22
 > - **双人竞赛动机系统（Face-Off Challenge）** 每节课后半段设置快节奏的分数卡牌比拼（如比较大小、快速通分），将沉闷的计算操练转化为同伴良性竞争，极大激发弱势学生的学习专注力。
 
 > [!citation-card] 斯莱文论 Fraction Face-Off! 在初等数学干预中的突出效能
-> 在初等数学方案中，Fraction Face-Off! 展现出令人瞩目的实证成效。由教学助教主导的双人小组辅导（Tier 2，4 年级，2 项严格研究）中，其平均学业[[Effect Size\|效应量]]高达 +0.51，达到了 [[Every Student Succeeds Act\|ESSA]] 的强证据最高等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> 在初等数学方案中，Fraction Face-Off! 展现出令人瞩目的实证成效。由教学助教主导的双人[[Small Group Tuition|小组辅导]]（Tier 2，4 年级，2 项严格研究）中，其平均学业[[Effect Size\|效应量]]高达 +0.51，达到了 [[Every Student Succeeds Act\|ESSA]] 的强证据最高等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Fraction Face-Off! evaluated in two randomized studies with [[Teaching Assistant|Teaching Assistants]] working with pairs of fourth graders (Tier 2) yielded a mean effect size of +0.51, meeting the strong evidence standard of ESSA.*
 

@@ -9,7 +9,7 @@ aliases:
 summary: "根据学术能力、测试成绩或职业取向将学生分配至不同课程轨道、教学班组或学校类型的制度化分流实践，在宏观上加剧社会阶层隔离并削弱公平与动机，在微观上强化能力固化信念与自我实现预言"
 type: concept
 domain: "sociology-of-education"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -20,6 +20,7 @@ tags:
   - theme/comparative-education
   - paradigm/critical
   - metax
+  - eef
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Differentiated Instruction]]"
@@ -54,6 +55,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Experimental Research]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_instruments: []
@@ -76,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!def] Tracking
@@ -163,7 +165,7 @@ updated: 2026-10-22
 > 探讨能力分组政策如何因触及学校文化与教师核心利益而引发对[[Random Assignment\|随机分配]]的系统性抵制，倒逼循证因果评估从单纯 [[Randomised Controlled Trials\|RCT]] 转向利用自然变异的[[Quasi-Experimental Designs\|准实验设计]]（QEDs）。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 55–56)]]
-> **能力分流决策刚性与自然变异准实验转向** 混合能力分组与基于能力的分轨分流（setting and streaming）属于学校深层的内生组织决策。[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）资助开展的“混合能力分组 vs 能力分组分流”大规模随机对照试验（Randomised Controlled Trials, RCT）因学校坚决拒绝被随机分配教学组织形态而遭遇彻底的招募失败（Roy et al., 2014）。这一实证挫败推翻了将所有政策问题均诉诸 RCT 验证的教条，促使 EEF 于 2019 年设立“研究[[School Choice\|学校选择]]（[[Researching School Choices]]）”专门资助序列，转向利用现实教育生态中客观存在的自然变异（natural variation），采用准实验设计（Quasi-Experimental Designs, QEDs）评估能力分组政策对学生学业产出与弱势群体的真实因果影响。
+> **能力分流决策刚性与自然变异准实验转向** 混合能力分组与基于能力的分轨分流（setting and streaming）属于学校深层的内生组织决策。[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）资助开展的“混合能力分组 vs 能力分组分流”大规模随机对照试验（Randomised Controlled Trials, RCT）因学校坚决拒绝被随机分配教学组织形态而遭遇彻底的招募失败（Roy et al., 2014）。这一实证挫败推翻了将所有政策问题均诉诸 RCT 验证的教条，促使 EEF 于 2019 年设立“研究[[School Choice\|学校选择]]（[[Researching School Choices]]）”专门资助序列，转向利用现实教育生态中客观存在的自然变异（natural variation），采用准[[Experimental Research|实验设计]]（Quasi-Experimental Designs, QEDs）评估能力分组政策对学生学业产出与弱势群体的真实因果影响。
 
 ---
 
@@ -270,6 +272,75 @@ updated: 2026-10-22
 > > | Steenberggen-Hu et al. (2016) | Ability grouping in RCT studies | 11 | NA | 11 | 0.03 |  |
 > > | Baker (2022) | Ability grouping with Black & Brown students | 11 | NA | 11 | -0.03 |  |
 > > | Terrin & Triventi (2023) | Ability grouping on achievement | 53 | NA | 213 | -0.02 |  |
+
+> [!eef] [分层与分流 · Setting and streaming](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/setting-and-streaming)
+> EEF 教与学工具包 · 更新于 2026-07-22 · 小学 41 · 中学 17
+>
+> | imp | cost | evi | n | smd | ci | i2 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | 0 个月 无影响 | ●○○○○ 极低 | ●○○○○ 极有限 | 58 | 0.03 | −0.09 ~ 0.14 | 92% |
+>
+> > [!eef-studies]- 58 条效应量 · 35 项研究
+> > | ref | type | smd | ci | w | e |
+> > | --- | --- | --- | --- | --- | --- |
+> > | Hart (1959) <span class="eef-tag">1_1</span> | 期刊论文 | 1.40 | 0.95 ~ 1.85 | 1.7% |  |
+> > | Hart (1959) <span class="eef-tag">1_2</span> | 期刊论文 | 1.36 | 0.91 ~ 1.82 | 1.6% |  |
+> > | Green (1963) <span class="eef-tag">1_1</span> | 期刊论文 | 0.73 | 0.47 ~ 0.99 | 2.0% |  |
+> > | Green (1963) <span class="eef-tag">1_2</span> | 期刊论文 | 0.69 | 0.32 ~ 1.05 | 1.8% |  |
+> > | Moorhouse (1964) <span class="eef-tag">1_1</span> | 期刊论文 | 0.62 | 0.23 ~ 1.01 | 1.8% |  |
+> > | Green (1963) <span class="eef-tag">1_3</span> | 期刊论文 | 0.61 | 0.10 ~ 1.13 | 1.5% |  |
+> > | Moorhouse (1964) <span class="eef-tag">1_3</span> | 期刊论文 | 0.52 | 0.11 ~ 0.92 | 1.7% |  |
+> > | Ingram (1960) | 期刊论文 | 0.50 | 0.24 ~ 0.76 | 2.0% |  |
+> > | Moorhouse (1964) <span class="eef-tag">1_2</span> | 期刊论文 | 0.48 | 0.13 ~ 0.82 | 1.8% |  |
+> > | Roy (2018) | 报告 | 0.46 | −0.47 ~ 1.40 | 0.9% |  |
+> > | Platz (1965) <span class="eef-tag">1_1</span> | 学位论文 | 0.37 | −0.10 ~ 0.84 | 1.6% |  |
+> > | Platz (1965) <span class="eef-tag">1_3</span> | 学位论文 | 0.36 | −0.11 ~ 0.83 | 1.6% |  |
+> > | Loomer (1962) <span class="eef-tag">1_3</span> | 学位论文 | 0.36 | −0.35 ~ 1.07 | 1.2% |  |
+> > | Platz (1965) <span class="eef-tag">1_2</span> | 学位论文 | 0.34 | −0.02 ~ 0.70 | 1.8% |  |
+> > | Burris (2006) | 期刊论文 | 0.32 | 0.09 ~ 0.56 | 2.0% |  |
+> > | Jones (1967) | 期刊论文 | 0.31 | −0.26 ~ 0.87 | 1.4% |  |
+> > | Loomer (1962) <span class="eef-tag">1_2</span> | 学位论文 | 0.27 | −0.37 ~ 0.91 | 1.3% |  |
+> > | Barton (1964) | 学位论文 | 0.22 | −0.05 ~ 0.50 | 1.9% |  |
+> > | Baiow (1963) | 期刊论文 | 0.20 | −0.14 ~ 0.53 | 1.9% |  |
+> > | Bent (1969) | 报告 | 0.14 | −0.26 ~ 0.55 | 1.7% |  |
+> > | Duflo (2011) <span class="eef-tag">SetS</span> | 期刊论文 | 0.14 | −0.01 ~ 0.29 | 2.1% |  |
+> > | Moses (1965) <span class="eef-tag">1_1</span> | 学位论文 | 0.11 | −0.29 ~ 0.50 | 1.8% |  |
+> > | Adamson (1972) | 学位论文 | 0.09 | 0.03 ~ 0.15 | 2.2% |  |
+> > | DeGrow (1964) | 学位论文 | 0.08 | −0.02 ~ 0.18 | 2.1% |  |
+> > | Koukeyan (1976) <span class="eef-tag">1_2</span> | 学位论文 | 0.04 | −0.38 ~ 0.46 | 1.7% |  |
+> > | Loomer (1962) <span class="eef-tag">1_1</span> | 学位论文 | 0.04 | −0.69 ~ 0.76 | 1.2% |  |
+> > | Koukeyan (1976) <span class="eef-tag">1_3</span> | 学位论文 | 0.04 | −0.47 ~ 0.55 | 1.5% |  |
+> > | Moses (1965) <span class="eef-tag">1_2</span> | 学位论文 | 0.03 | −0.36 ~ 0.43 | 1.7% |  |
+> > | Koukeyan (1976) <span class="eef-tag">1_1</span> | 学位论文 | 0.03 | −0.25 ~ 0.31 | 1.9% |  |
+> > | Fogelman (1978) | 期刊论文 | 0.01 | −0.31 ~ 0.32 | 1.9% |  |
+> > | Moses (1965) <span class="eef-tag">1_3</span> | 学位论文 | −0.01 | −0.40 ~ 0.38 | 1.8% |  |
+> > | Bicak (1962) <span class="eef-tag">1_1</span> | 学位论文 | −0.03 | −0.42 ~ 0.36 | 1.8% |  |
+> > | Kline (1963) | 学位论文 | −0.03 | −0.17 ~ 0.11 | 2.1% |  |
+> > | Bailey (1968) | 学位论文 | −0.05 | −0.44 ~ 0.34 | 1.8% |  |
+> > | Russell (1946) | 期刊论文 | −0.10 | −0.27 ~ 0.07 | 2.1% |  |
+> > | Flair (1964) | 学位论文 | −0.12 | −0.33 ~ 0.10 | 2.0% |  |
+> > | Hoffer (1991) | 期刊论文 | −0.15 | −0.24 ~ −0.07 | 2.2% |  |
+> > | Zweibelson (1965) | 期刊论文 | −0.17 | −0.46 ~ 0.12 | 1.9% |  |
+> > | Halliwell (1963) <span class="eef-tag">1_3</span> | 期刊论文 | −0.18 | −0.58 ~ 0.22 | 1.7% |  |
+> > | Thacker (1987) <span class="eef-tag">1_3</span> | 学位论文 | −0.19 | −0.79 ~ 0.41 | 1.4% |  |
+> > | Thacker (1987) <span class="eef-tag">1_1</span> | 学位论文 | −0.21 | −0.75 ~ 0.34 | 1.5% |  |
+> > | Daniels (1961) <span class="eef-tag">1_2</span> | 期刊论文 | −0.25 | −0.52 ~ 0.01 | 2.0% |  |
+> > | Halliwell (1963) <span class="eef-tag">1_2</span> | 期刊论文 | −0.27 | −0.66 ~ 0.12 | 1.7% |  |
+> > | Loomer (1962) <span class="eef-tag">1_4</span> | 学位论文 | −0.29 | −1.27 ~ 0.70 | 0.9% |  |
+> > | Daniels (1961) <span class="eef-tag">1_1</span> | 期刊论文 | −0.30 | −0.57 ~ −0.02 | 1.9% |  |
+> > | Loomer (1962) <span class="eef-tag">1_5</span> | 学位论文 | −0.30 | −1.34 ~ 0.73 | 0.8% |  |
+> > | Berkun (1966) | 期刊论文 | −0.32 | −0.44 ~ −0.20 | 2.1% |  |
+> > | Thacker (1987) <span class="eef-tag">1_2</span> | 学位论文 | −0.34 | −0.86 ~ 0.19 | 1.5% |  |
+> > | Breidenstine (1936) | 期刊论文 | −0.34 | −0.56 ~ −0.12 | 2.0% |  |
+> > | Koontz (1961) | 期刊论文 | −0.44 | −0.71 ~ −0.17 | 2.0% |  |
+> > | Cartwright (1972) <span class="eef-tag">1_3</span> | 期刊论文 | −0.44 | −1.01 ~ 0.13 | 1.4% |  |
+> > | Loomer (1962) <span class="eef-tag">1_6</span> | 学位论文 | −0.45 | −0.90 ~ −0.00 | 1.7% |  |
+> > | Cartwright (1972) <span class="eef-tag">1_2</span> | 期刊论文 | −0.45 | −0.96 ~ 0.06 | 1.5% |  |
+> > | Abadzi (1984) | 期刊论文 | −0.48 | −0.67 ~ −0.29 | 2.1% |  |
+> > | Bell (1959) <span class="eef-tag">1_1</span> | 学位论文 | −0.56 | −1.07 ~ −0.04 | 1.5% |  |
+> > | Cartwright (1972) <span class="eef-tag">1_1</span> | 期刊论文 | −0.75 | −1.25 ~ −0.24 | 1.5% |  |
+> > | Halliwell (1963) <span class="eef-tag">1_1</span> | 期刊论文 | −0.94 | −1.36 ~ −0.53 | 1.7% |  |
+> > | Nichols (1969) | 期刊论文 | −1.01 | −1.34 ~ −0.67 | 1.9% |  |
 
 > [!ref-table]- 经典与因果评估实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

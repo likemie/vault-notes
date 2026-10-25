@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Decodification]]"
+  - "[[Small Group Tuition]]"
   - "[[Evidence Standards]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Direct Instruction]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-22
 > - **教师 1:3 针对性点拨** 教师在学生戴耳机操作的同时在旁巡视，重点针对个别儿童的音素混淆给予唇舌口型纠正。
 
 > [!citation-card] 斯莱文论 Read, Write, & Type 的实证成效
-> 在初等阅读教师小组辅导中，结合技术的项目同样成效卓著。例如针对一年级开展的 Read, Write, & Type 辅导方案，在经过独立因果试验评估[[Pre-test and Post-test\|后测]]得了 +0.42 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> 在初等阅读教师[[Small Group Tuition|小组辅导]]中，结合技术的项目同样成效卓著。例如针对一年级开展的 Read, Write, & Type 辅导方案，在经过独立因果试验评估[[Pre-test and Post-test\|后测]]得了 +0.42 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Tutoring by teachers in small groups was effective in reading. Read, Write, & Type, evaluated with first graders in groups of three, produced an effect size of +0.42, meeting the ESSA Strong rating.*
 

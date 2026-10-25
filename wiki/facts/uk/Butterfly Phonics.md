@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
   - region/uk
 related_concepts:
   - "[[Decodification]]"
+  - "[[Small Group Tuition]]"
   - "[[Evidence Standards]]"
   - "[[Business as Usual]]"
   - "[[Response to Proven Instruction]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-10-22
 > - **1:6–8 师生比** 教师组织微型班级，穿插全组齐读、同伴互查与个别纠错。
 
 > [!citation-card] 斯莱文论 Butterfly Phonics 在高年级拼读中的强证据价值
-> 在初等阅读高年级（六年级）教师小组辅导中，Butterfly Phonics 在经过英国 [[Education Endowment Foundation\|EEF]] 严格的[[Randomised Controlled Trials\|随机对照试验]]评估[[Pre-test and Post-test\|后测]]得了 +0.30 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> 在初等阅读高年级（六年级）教师[[Small Group Tuition|小组辅导]]中，Butterfly Phonics 在经过英国 [[Education Endowment Foundation\|EEF]] 严格的[[Randomised Controlled Trials\|随机对照试验]]评估[[Pre-test and Post-test\|后测]]得了 +0.30 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Tutoring by certified teachers in small groups was also effective in Grade 6. Butterfly Phonics, evaluated in England with groups of six to eight students, produced an effect size of +0.30, qualifying for the Strong rating under ESSA.*
 

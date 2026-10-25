@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Meta-analysis",
+      "path": "wiki/methods/quantitative/Meta-analysis.md"
+    },
+    {
+      "basename": "03-outline",
+      "path": "output/global-evidence-education-governance/03-outline.md"
+    },
+    {
       "basename": "template-eef",
       "path": "wiki/templates/template-eef.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "Argument_Stone_2020_PolSoc",
       "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
-    },
-    {
-      "basename": "03-outline",
-      "path": "output/global-evidence-education-governance/03-outline.md"
     },
     {
       "basename": "Argument_Steiner-Khamsi_2024_UNESCO",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Wang_Liang_Chen_2025_CES",
       "path": "wiki/arguments/journal-articles/Chinese Education & Society/Argument_Wang_Liang_Chen_2025_CES.md"
-    },
-    {
-      "basename": "Academic Achievement",
-      "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
     }
   ],
   "omittedPaths": [],

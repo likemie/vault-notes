@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ tags:
   - essa-strong
   - region/us
 related_concepts:
+  - "[[Small Group Tuition]]"
   - "[[Gamification]]"
   - "[[Decodification]]"
   - "[[Zone of Proximal Development]]"
@@ -57,13 +58,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> **Lightning Squad（闪电突击队 / 闪电读写小组）** 是由约翰斯·霍普金斯大学教育研究与改革中心（CRRE）[[Nancy Madden\|南希·马登]]（Nancy A. Madden）与[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）联合研发的计算机技术辅助早期读写小组辅导项目；其核心目标是通过将[[Gamification\|游戏化]]智能自适应学习软件与低成本教学助教现场指导紧密结合，破解传统一对一辅导昂贵且难以向全校普惠的组织瓶颈，实现“1 名助教同时高质辅导 4 至 6 名弱势儿童”的规模化效能跃升。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28, 30)]]
+> **Lightning Squad（闪电突击队 / 闪电读写小组）** 是由约翰斯·霍普金斯大学教育研究与改革中心（CRRE）[[Nancy Madden\|南希·马登]]（Nancy A. Madden）与[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）联合研发的计算机技术辅助早期读写[[Small Group Tuition|小组辅导]]项目；其核心目标是通过将[[Gamification\|游戏化]]智能自适应学习软件与低成本教学助教现场指导紧密结合，破解传统一对一辅导昂贵且难以向全校普惠的组织瓶颈，实现“1 名助教同时高质辅导 4 至 6 名弱势儿童”的规模化效能跃升。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28, 30)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 2010 年代中期依托全员成功基金会（[[Success for All]] Foundation）与联邦创新资助启动研发，经多项多学区多中心[[Randomised Controlled Trials\|随机对照试验]]（RCT）验证并常态化应用至今。

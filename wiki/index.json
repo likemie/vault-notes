@@ -3320,6 +3320,14 @@
     ]
   },
   {
+    "title": "Oral Language Interventions",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Oral Language Interventions.md",
+    "aliases": [
+      "口语干预"
+    ]
+  },
+  {
     "title": "Outcomes-based Education",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Outcomes-based Education.md",
@@ -3845,6 +3853,14 @@
     ]
   },
   {
+    "title": "Extending School Time",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Extending School Time.md",
+    "aliases": [
+      "延长在校时间"
+    ]
+  },
+  {
     "title": "Free School Meals",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Free School Meals.md",
@@ -4036,6 +4052,14 @@
     "path": "wiki/concepts/educational-leadership-administration/School Size Effects.md",
     "aliases": [
       "学校规模效应"
+    ]
+  },
+  {
+    "title": "School Uniform",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/School Uniform.md",
+    "aliases": [
+      "学校校服政策"
     ]
   },
   {
@@ -7381,6 +7405,14 @@
     ]
   },
   {
+    "title": "Aspiration Interventions",
+    "type": "concept",
+    "path": "wiki/concepts/educational-psychology/Aspiration Interventions.md",
+    "aliases": [
+      "抱负干预"
+    ]
+  },
+  {
     "title": "Attitude to Math and Science",
     "type": "concept",
     "path": "wiki/concepts/educational-psychology/Attitude to Math and Science.md",
@@ -10662,6 +10694,14 @@
       "Questioning Skill",
       "Good Questioning",
       "Skill of Good Questioning"
+    ]
+  },
+  {
+    "title": "Small Group Tuition",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Small Group Tuition.md",
+    "aliases": [
+      "小组辅导"
     ]
   },
   {

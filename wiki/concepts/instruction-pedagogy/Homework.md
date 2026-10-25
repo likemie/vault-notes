@@ -8,7 +8,7 @@ aliases:
 summary: "教师布置并在校外非教学时段由学生独立或在支持下完成的学习任务，其学业效果受学段认知发展高度调节，并在元分析构念聚合与比较基线不对等上面临方法学争议"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 59
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -18,6 +18,7 @@ tags:
   - level/k12
   - paradigm/evidence-based
   - metax
+  - eef
 related_concepts:
   - "[[Self-Regulated Learning]]"
   - "[[Heterogeneity]]"
@@ -58,7 +59,6 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Meta-meta-analysis]]"
   - "[[Process Tracing]]"
-  - "[[Confidence Interval]]"
 related_facts:
   - "[[CREATES Project]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -86,7 +86,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!def] Homework
@@ -304,6 +304,64 @@ updated: 2026-10-22
 > > | Bishop et al. (2024) | Online vs. traditional homework | 18 | NA | 18 | 0.06 |  |
 > > | Guo et al. (2024) | Homework vs. no homework | 14 | 747 | 14 | 0.45 |  |
 
+> [!eef] [家庭作业 · Homework](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/homework)
+> EEF 教与学工具包 · 更新于 2025-05-21 · 小学 11 · 中学 33 · 阅读 5 · 数学 26 · 科学 7
+>
+> | imp | cost | evi | n | smd | ci | i2 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | +5 个月 中等影响 | ●○○○○ 极低 | ●○○○○ 极有限 | 43 | 0.39 | 0.23 ~ 0.55 | 94% |
+>
+> > [!eef-studies]- 44 条效应量 · 42 项研究
+> > | ref | type | smd | ci | w | e |
+> > | --- | --- | --- | --- | --- | --- |
+> > | Schwankl (2013) | 学位论文 | 2.46 | 1.68 ~ 3.25 | 1.7% |  |
+> > | Yousefzadeh (2015) | 期刊论文 | 1.83 | 1.16 ~ 2.49 | 1.9% |  |
+> > | Nordstrom (2012) | 学位论文 | 1.54 | 0.94 ~ 2.15 | 2.0% |  |
+> > | Wiginton (2013) <span class="eef-tag">1_2</span> | 学位论文 | 1.53 | 0.87 ~ 2.20 | 1.9% |  |
+> > | Lai (2018) | 期刊论文 | 1.25 | 0.75 ~ 1.74 | 2.3% |  |
+> > | Foyle (1984) <span class="eef-tag">1_1</span> | 学位论文 | 1.06 | 0.59 ~ 1.52 | 2.3% |  |
+> > | Al-Naqbi (2014) | 期刊论文 | 0.81 | 0.52 ~ 1.10 | 2.6% |  |
+> > | Chao (2015) | 期刊论文 | 0.78 | 0.35 ~ 1.21 | 2.4% |  |
+> > | Wiginton (2013) <span class="eef-tag">1_1</span> | 学位论文 | 0.74 | 0.10 ~ 1.39 | 2.0% |  |
+> > | Spilka (2014) | 会议论文 | 0.74 | 0.19 ~ 1.29 | 2.1% |  |
+> > | Robledo-Ramón (2013) <span class="eef-tag">HW</span> | 期刊论文 | 0.72 | 0.15 ~ 1.29 | 2.1% |  |
+> > | Foyle (1984) <span class="eef-tag">1_2</span> | 学位论文 | 0.70 | 0.27 ~ 1.13 | 2.4% |  |
+> > | Schultz (2014) | 期刊论文 | 0.68 | 0.16 ~ 1.20 | 2.2% |  |
+> > | Tsai (2015) | 期刊论文 | 0.59 | 0.18 ~ 0.99 | 2.4% |  |
+> > | Bartelet (2016) | 期刊论文 | 0.42 | 0.18 ~ 0.65 | 2.7% |  |
+> > | Van Voorhis (2011) | 期刊论文 | 0.40 | 0.04 ~ 0.75 | 2.5% |  |
+> > | Kirvan (2015) | 期刊论文 | 0.37 | −0.17 ~ 0.91 | 2.2% |  |
+> > | Ramaglia (2015) | 学位论文 | 0.34 | 0.16 ~ 0.53 | 2.8% |  |
+> > | Davis (2004) | 学位论文 | 0.32 | 0.10 ~ 0.54 | 2.8% |  |
+> > | Saunders (2014) | 学位论文 | 0.31 | −0.21 ~ 0.83 | 2.2% |  |
+> > | Montgomery (2015) | 学位论文 | 0.31 | −0.06 ~ 0.67 | 2.5% |  |
+> > | Bailey (2006) | 期刊论文 | 0.29 | −0.26 ~ 0.83 | 2.2% |  |
+> > | Hungi (2017) | 期刊论文 | 0.28 | 0.10 ~ 0.46 | 2.8% |  |
+> > | McGrath (1992) | 学位论文 | 0.19 | −0.35 ~ 0.72 | 2.2% |  |
+> > | Clark (2013) | 学位论文 | 0.17 | −0.26 ~ 0.60 | 2.4% |  |
+> > | Esperanza (2016) | 图书章节 | 0.16 | −0.25 ~ 0.57 | 2.4% |  |
+> > | Kırmızı (2019) | 期刊论文 | 0.14 | −0.37 ~ 0.66 | 2.2% |  |
+> > | Lonigan (1998) | 期刊论文 | 0.12 | −0.50 ~ 0.74 | 2.0% |  |
+> > | Metcalf (2015) | 学位论文 | 0.11 | −0.33 ~ 0.55 | 2.4% |  |
+> > | Smith (2015) | 学位论文 | 0.10 | −0.31 ~ 0.52 | 2.4% |  |
+> > | Flansburg (2016) | 学位论文 | 0.09 | 0.01 ~ 0.18 | 2.9% |  |
+> > | Özcan (2015) | 期刊论文 | 0.09 | −0.52 ~ 0.69 | 2.0% |  |
+> > | Glynn (2013) | 学位论文 | 0.06 | −0.35 ~ 0.46 | 2.4% |  |
+> > | Dadas (1976) | 学位论文 | 0.05 | −0.33 ~ 0.43 | 2.5% |  |
+> > | Bell (2015) | 学位论文 | 0.05 | 0.05 ~ 0.05 | 2.9% |  |
+> > | Flick (2019) | 学位论文 | 0.05 | −0.22 ~ 0.32 | 2.7% |  |
+> > | Ripley (2015) | 学位论文 | 0.03 | −0.34 ~ 0.40 | 2.5% |  |
+> > | Meloy (1987) | 学位论文 | 0.02 | −0.29 ~ 0.33 | 2.6% |  |
+> > | Kiesner (1997) | 学位论文 | 0.00 | −0.82 ~ 0.82 | 1.6% |  |
+> > | Duffy (2016) | 学位论文 | −0.09 | −0.51 ~ 0.33 | 2.4% |  |
+> > | Tamayo (1992) | 学位论文 | −0.17 | −0.87 ~ 0.54 | 1.8% |  |
+> > | Freet (2016) | 学位论文 | −0.34 | −1.13 ~ 0.45 | 1.7% |  |
+> > | Tupesis (1972) | 学位论文 | −0.72 | −1.34 ~ −0.10 | 2.0% |  |
+> > | Howell (2013) | 学位论文 | −1.98 | −3.49 ~ −0.46 | 0.8% |  |
+>
+> > [!eef-errata] 1 条
+> > - ∑ **自动核算 · 研究数不一致** 页面“How secure is the evidence?”一节称纳入 43 项研究；参考文献列表为 44 条效应量，来自 42 项研究，合并效应量据后者计算。
+
 > [!ma-table]- 一阶与二阶[[Meta-analysis|元分析]]结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
@@ -342,3 +400,4 @@ updated: 2026-10-22
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 记录英国 [[Education Endowment Foundation|EEF]] 启动的“[[Teacher Choices|教师选择]]”新型微型试验，探索以全班集中反馈替代教师逐本逐页批改作业的微观因果实证（p. 56）。
 > - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 记录丹麦教育机构依据哈蒂 $d=0.29$ 均值一刀切废除家庭作业的政策案例，批判无调节元分析对学段、学科与能力[[Heterogeneity|异质性]]的系统性遮蔽（pp. 8–9）。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 阐明[[Generative Artificial Intelligence|生成式人工智能]]对静态成品作业的颠覆性冲击，提出向全流程思维追踪、反思决策日志与无技术迁移测试转型的作业重构方案。
+

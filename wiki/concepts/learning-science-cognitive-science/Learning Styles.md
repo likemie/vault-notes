@@ -28,6 +28,7 @@ tags:
   - theme/teacher-beliefs
   - theme/science-communication
   - metax
+  - eef
 related_concepts:
   - "[[Habituation]]"
   - "[[Hypothesis]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!def] Learning Styles
@@ -248,6 +249,13 @@ updated: 2026-10-22
 > > | Kavale & Forness (1987) | Modality testing and teaching | 39 | 3,087 | 205 | 0.13 |  |
 > > | Phillips et al. (2016) | Reflection thinking styles on performance | 89 | 17,704 | 68 | 0.11 |  |
 > > | Peterson & Meissel (2015) | verbal-imagery vs holistic thinking | 15 | 1,457 | 15 | 0.16 |  |
+
+> [!eef] [学习风格 · Learning styles](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles)
+> EEF 教与学工具包 · 更新于 2026-01-13
+>
+> | imp | cost | evi | n | smd | ci | i2 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | NA 影响不明 | ●○○○○ 极低 | ○○○○○ 不足 | 0 | NA | NA | NA |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>

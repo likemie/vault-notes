@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,9 +25,11 @@ tags:
   - essa-strong
   - region/us
 related_concepts:
+  - "[[Small Group Tuition]]"
   - "[[Evidence Standards]]"
   - "[[Teaching Assistant]]"
   - "[[Implementation Fidelity]]"
+  - "[[Multi-tiered Systems of Support]]"
   - "[[Response to Proven Instruction]]"
   - "[[Problem Solving]]"
 related_theories: []
@@ -36,7 +38,8 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Implementation and Process Evaluation]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[James C. Scott]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Every Student Succeeds Act]]"
@@ -47,13 +50,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> **ROOTS（数学根基方案）** 是由俄勒冈大学教学与学习中心（University of Oregon Center on Teaching and Learning）本·克拉克（Ben Clarke）、克里斯蒂安·多布勒（Christian Doabler）、汉克·菲恩（Hank Fien）与斯科特·贝克（Scott K. Baker）等学者联合研发、受美国国家[[Institute of Education Sciences\|教育科学研究院]]（IES）重点资助的早期初等数学小组干预项目；其核心目标是在小学一年级（部分向幼儿园延伸）早期筛查出面临严重数学困难的高危儿童，依托高度显性、系统化的核心数感与整数概念微课程，在 Tier 2 层级阻断早期学业差距的持续扩大。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> **ROOTS（数学根基方案）** 是由俄勒冈大学教学与学习中心（University of Oregon Center on Teaching and Learning）本·克拉克（Ben Clarke）、克里斯蒂安·多布勒（Christian Doabler）、汉克·菲恩（Hank Fien）与[[James C. Scott|斯科特]]·贝克（Scott K. Baker）等学者联合研发、受美国国家[[Institute of Education Sciences\|教育科学研究院]]（IES）重点资助的早期初等数学小组干预项目；其核心目标是在小学一年级（部分向幼儿园延伸）早期筛查出面临严重数学困难的高危儿童，依托高度显性、系统化的核心数感与整数概念微课程，在 Tier 2 层级阻断早期学业差距的持续扩大。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 始于 2010 年代初，由美国联邦教育科学研究院（IES）设立专项资助课题连续支持，经过多中心大规模[[Randomised Controlled Trials\|随机对照试验]]迭代完善，至今常态化在全美各学区运行。
@@ -64,7 +67,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心干预假说
-> 通过教学助教对 2 至 5 名高危学生组成的小组开展 50 节高度显性化（Explicit Instruction）的数感微课，围绕具象实物操作向抽象数学符号表征过渡，非专业助教能够以极高保真度产生统计学显著且稳健的学业增益，达到专业教师小组辅导的同等效能。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 25, 28)]]
+> 通过教学助教对 2 至 5 名高危学生组成的小组开展 50 节高度显性化（Explicit Instruction）的数感微课，围绕具象实物操作向抽象数学符号表征过渡，非专业助教能够以极高保真度产生统计学显著且稳健的学业增益，达到专业教师[[Small Group Tuition|小组辅导]]的同等效能。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 25, 28)]]
 
 > [!policy-design] 方案设计与教学规程
 > - **50 节系统化螺旋递进微课** 课程全长 50 节，每节 20–30 分钟，严格按照以下三步法实施：
@@ -84,7 +87,7 @@ updated: 2026-10-22
 > [!dev-timeline] ROOTS 发展历程
 > - **2012–2015 — 原型研发与第一轮整群[[Randomised Controlled Trials\|随机对照试验]]** 俄勒冈大学团队在俄勒冈州多学区开展首期大规模整群 RCT（Clarke et al., 2014），验证由助教实施 ROOTS 对弱势一年级儿童数学概念掌握的因果净增益。
 > - **2015–2018 — 多中心大规模复现与小组规模对比试验** 在波士顿等更多城市学校开展第二轮大规模独立 RCT 试验（Clarke et al., 2016; Doabler et al., 2016），系统比较 1:2 与 1:5 组规模对[[Implementation Fidelity\|实施保真度]]与[[Effect Size\|效应量]]的影响，确认两类规模均能产生稳健效益。
-> - **2019–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据基石** 在斯莱文桑代克奖演说中被正式列为初等数学 Tier 2 小组辅导代表性强证据方案，成为全美学区构建多层支持系统（MTSS）时的优先选型。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> - **2019–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据基石** 在斯莱文桑代克奖演说中被正式列为初等数学 Tier 2 小组辅导代表性强证据方案，成为全美学区构建[[Multi-tiered Systems of Support|多层支持系统]]（MTSS）时的优先选型。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
 

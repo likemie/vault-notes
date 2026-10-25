@@ -2297,7 +2297,7 @@ def check_new_entries_mentioned_in_arguments(paths: List[Path], issues: List[Iss
         if typ not in ARGUMENT_REQUIRED_NEW_ENTRY_TYPES:
             continue
         tags = data.get("tags") or []
-        if isinstance(tags, list) and "metax" in tags:
+        if isinstance(tags, list) and ("metax" in tags or "eef" in tags):
             # MetaX stub entries are created from metax/mapping.json and indexed from the
             # Visible Learning Meta-X fact entry, not from an Argument page.
             continue
@@ -3490,6 +3490,8 @@ def academic_prose_scan(text: str) -> str:
     scan = re.sub(r"<!--.*?-->|%%.*?%%", blank, scan, flags=re.S)
     scan = re.sub(r"(?P<ticks>`+)(?!`)[^\n]*?(?P=ticks)(?!`)", blank, scan)
     scan = mask_h2_sections_preserve(scan, ["来源", "Sources", "Source", "References", "参考文献"])
+    # Generated data blocks (MetaX / EEF modules) are tables, not prose.
+    scan = re.sub(r"^>[ \t]*\[!(?:metax|eef)[\w-]*\][^\n]*(?:\n>[^\n]*)*", blank, scan, flags=re.M)
     scan = EMBED_RE.sub(blank, scan)
     scan = re.sub(r"!\[[^\]\n]*\]\([^\n]*?\)", blank, scan)
 
@@ -4190,6 +4192,7 @@ def start_gate_checks() -> List[Tuple[str, str, str, "subprocess.Popen[str]"]]:
         ("INDEX_STALE", "wiki/index.json", "run: python3 scripts/vault_index.py", ["scripts/wiki_index.py", "--check"]),
         ("CITATION_INDEX_STALE", "citation/citation_full.json", "run: python3 scripts/vault_index.py", ["scripts/citation_index.py", "--check"]),
         ("METAX_STALE", "metax/metax.json", "run: python3 scripts/vault_index.py", ["scripts/metax_sync.py", "sync", "--check"]),
+        ("EEF_STALE", "eef/eef.json", "run: python3 scripts/vault_index.py", ["scripts/eef_sync.py", "sync", "--check"]),
     ]
     env = dict(os.environ, **{GATE_SKIP_ENV: "1"})
     started = []

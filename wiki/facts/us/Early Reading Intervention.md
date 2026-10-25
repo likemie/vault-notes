@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,8 +27,11 @@ tags:
   - essa-strong
   - region/us
 related_concepts:
+  - "[[Multi-tiered Systems of Support]]"
+  - "[[Phonemic Awareness]]"
   - "[[Decodification]]"
   - "[[Corporate Venture Capital]]"
+  - "[[Small Group Tuition]]"
   - "[[Evidence Standards]]"
   - "[[Teaching Assistant]]"
   - "[[Paradigm]]"
@@ -51,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -60,7 +63,7 @@ updated: 2026-10-22
 > **Early Reading Intervention（早期阅读干预，简称 ERI）** 是由俄勒冈大学教学与学习中心（University of Oregon Center on Teaching and Learning）迈克尔·科因（Michael D. Coyne）、爱德华·卡梅埃努伊（Edward J. Kame'enui）与戴维·查德（David J. Chard）等学者联合研发、由培生斯考特·福斯曼（Scott Foresman）出版发行的幼儿园早期阅读小组干预方案；其核心目标是在学前与幼儿园阶段精准识别早期拼音意识与字母知识滞后的高危儿童，通过受训教学助教开展结构化显性教学，在儿童进入小学一年级前筑牢基础阅读防线。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
-> - **立项时间与周期** 研发始于 2000 年代初全美阅读卓越计划（Reading First）背景，经多中心田野[[Randomised Controlled Trials\|随机对照试验]]验证，作为全美各州幼儿园多层支持系统（MTSS）的标准干预材料常态化运行至今。
+> - **立项时间与周期** 研发始于 2000 年代初全美阅读卓越计划（Reading First）背景，经多中心田野[[Randomised Controlled Trials\|随机对照试验]]验证，作为全美各州幼儿园[[Multi-tiered Systems of Support|多层支持系统]]（MTSS）的标准干预材料常态化运行至今。
 > - **发起方与资助机制** 俄勒冈大学研发团队主持，美国联邦教育部特教项目办公室（OSEP）与[[Institute of Education Sciences\|教育科学研究院]]（IES）提供研发与对照试验资助，由培生教育出版集团协同转化发行。
 > - **覆盖范围与对象** 全美公立学校幼儿园（Kindergarten）经秋季通用筛查在音素分割与字母发音对应上处于全校后 20% 的高危弱势儿童。
 > - **核心问题导向** 攻克传统教学中将阅读干预推迟至二、三年级造成的“等待失败（Wait-to-Fail）”弊端，探索在幼儿园阶段由低成本非专业师资阻断阅读障碍的早筛早治路径。
@@ -72,14 +75,14 @@ updated: 2026-10-22
 
 > [!policy-design] 方案设计与教学规程
 > - **四大核心教学构件螺旋递进**
->   - **音素意识训练（Phonemic Awareness）** 口头开展音素分离、混合与替换活动。
+>   - **[[Phonemic Awareness|音素意识]]训练（Phonemic Awareness）** 口头开展音素分离、混合与替换活动。
 >   - **字母与发音对应（Letter-Sound Recognition）** 建立字母形状与发音的自动化联结。
 >   - **拼写与初等[[Decodification\|解码]]（Spelling and Decoding）** 借助磁性字母板进行简单 [[Corporate Venture Capital\|CVC]]（辅音-元音-辅音）单词的拼接。
 >   - **可解码连贯文本朗读（Decodable Book Reading）** 每日在助教点拨下朗读与当日拼读规则完全一致的分级小册子。
 > - **助教 1:3–5 微组授课** 助教手持高度脚本化的教学操作卡，遵循“示范（My Turn）—带领（Our Turn）—独立（Your Turn）”的标准步调，确保每名组员获得充分的口头应答机会。
 
 > [!citation-card] 斯莱文论 ERI 在幼儿园助教辅导中的实证效能
-> 在初等阅读小组辅导层面，助教主导的干预在幼儿园阶段同样展现出强劲效能。例如针对幼儿园高危儿童开展的 Early Reading Intervention 方案，在[[Randomised Controlled Trials\|随机对照试验]]中由教学助教在 1:3 至 1:5 的小组中实施，取得了 +0.31 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> 在初等阅读[[Small Group Tuition|小组辅导]]层面，助教主导的干预在幼儿园阶段同样展现出强劲效能。例如针对幼儿园高危儿童开展的 Early Reading Intervention 方案，在[[Randomised Controlled Trials\|随机对照试验]]中由教学助教在 1:3 至 1:5 的小组中实施，取得了 +0.31 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Small-group tutoring provided by [[Teaching Assistant|Teaching Assistants]] was effective in kindergarten reading. Early Reading Intervention, evaluated with paraprofessionals working with groups of three to five, produced an effect size of +0.31, qualifying for the Strong rating under ESSA.*
 

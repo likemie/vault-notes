@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,7 +24,10 @@ tags:
   - essa-strong
   - region/us
 related_concepts:
+  - "[[Multi-tiered Systems of Support]]"
+  - "[[Phonological Awareness]]"
   - "[[Decodification]]"
+  - "[[Small Group Tuition]]"
   - "[[Evidence Standards]]"
   - "[[Heterogeneity]]"
   - "[[Response to Proven Instruction]]"
@@ -36,7 +39,8 @@ related_methods:
   - "[[Efficacy Trial]]"
   - "[[Effectiveness Trial]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[James C. Scott]]"
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Success for All]]"
@@ -47,16 +51,16 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> **Enhanced Core Reading Instruction（增强型核心阅读教学，简称 ECRI）** 是由俄勒冈大学教学与学习中心（University of Oregon Center on Teaching and Learning）斯科特·贝克（Scott K. Baker）、汉克·菲恩（Hank Fien）、基思·斯莫尔科夫斯基（Keith Smolkowski）与爱德华·卡梅埃努伊（Edward J. Kame'enui）等学者联合研发、受美国[[Institute of Education Sciences\|教育科学研究院]]（IES）多期重点资助的小学一年级多层级核心阅读教学改革方案；其核心战略是在**不更换学校既有商业核心语文教材**的前提下，通过为普通班级教师与特教教师提供高度标准化的显性教学日常规程（Explicit Instructional Routines），在全校范围内构建 Tier 1 全班教学与 Tier 2 小组干预高度同构的多层支持体系。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> **Enhanced Core Reading Instruction（增强型核心阅读教学，简称 ECRI）** 是由俄勒冈大学教学与学习中心（University of Oregon Center on Teaching and Learning）[[James C. Scott|斯科特]]·贝克（Scott K. Baker）、汉克·菲恩（Hank Fien）、基思·斯莫尔科夫斯基（Keith Smolkowski）与爱德华·卡梅埃努伊（Edward J. Kame'enui）等学者联合研发、受美国[[Institute of Education Sciences\|教育科学研究院]]（IES）多期重点资助的小学一年级多层级核心阅读教学改革方案；其核心战略是在**不更换学校既有商业核心语文教材**的前提下，通过为普通班级教师与特教教师提供高度标准化的显性教学日常规程（Explicit Instructional Routines），在全校范围内构建 Tier 1 全班教学与 Tier 2 小组干预高度同构的多层支持体系。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
-> - **立项时间与周期** 研发始于 2000 年代后期，2010 年代经美国联邦教育科学研究院（IES）设立专门重点课题连续资助多轮跨学区大样本[[Cluster Randomized Trials\|整群随机试验]]，现已成为全美多州多层支持系统（MTSS）阅读教学的标准模块。
+> - **立项时间与周期** 研发始于 2000 年代后期，2010 年代经美国联邦教育科学研究院（IES）设立专门重点课题连续资助多轮跨学区大样本[[Cluster Randomized Trials\|整群随机试验]]，现已成为全美多州[[Multi-tiered Systems of Support|多层支持系统]]（MTSS）阅读教学的标准模块。
 > - **发起方与资助机制** 俄勒冈大学 CTL 牵头研发，美国联邦教育科学研究院（IES）提供研发、多中心田野试验及追踪评估的全额科研资助。
 > - **覆盖范围与对象** 全美公立小学一年级全体师生；重点惠及普通班级内处于阅读失败边缘的后 20% 高危儿童。
 > - **核心问题导向** 攻克美国基础教育学区在引进全校性改革时面临的巨大现实阻力——许多学区已投入巨资购买了主流商业核心阅读教材（如 Pearson 或 Houghton Mifflin Harcourt），难以全盘推倒重来；ECRI 旨在解决“如何在保留现有教科书的前提下实现循证升级”的重大现实问题。
@@ -64,7 +68,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心干预假说
-> 通过为普通班级教师配备标准化的显性教学日常规程，重塑核心教材中的语音意识、字母拼读、单词[[Decodification\|解码]]与听写环节，并确保 Tier 2 小组辅导采用完全一致的教学语言和练习规程进行双倍剂量补充，能够显著提升全校儿童特别是高危儿童的基础阅读技能，达到全校系统性干预的显著因果成效。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> 通过为普通班级教师配备标准化的显性教学日常规程，重塑核心教材中的[[Phonological Awareness|语音意识]]、字母拼读、单词[[Decodification\|解码]]与听写环节，并确保 Tier 2 [[Small Group Tuition|小组辅导]]采用完全一致的教学语言和练习规程进行双倍剂量补充，能够显著提升全校儿童特别是高危儿童的基础阅读技能，达到全校系统性干预的显著因果成效。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!policy-design] 方案设计与教学规程
 > - **全班 Tier 1 显性教学规程强化** 教师在日常 90 分钟语文大课中，嵌入 5 套经过严格心理测量学与认知科学验证的标准化教学微规程：

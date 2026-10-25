@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Problem Solving]]"
   - "[[Self-Efficacy]]"
+  - "[[Small Group Tuition]]"
   - "[[Evidence Standards]]"
   - "[[Working Memory]]"
   - "[[Response to Proven Instruction]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -81,7 +82,7 @@ updated: 2026-10-22
 > - **师生比控制** 严格限定在 1:2–3 的微型小组，确保教师能够即时捕捉每位学生的思维停顿并提供矫正反馈。
 
 > [!citation-card] 斯莱文论 Number Rockets 在教师辅导中的实证标杆地位
-> 在初等数学领域，专业教师主导的小组辅导干预同样能取得稳健的因果成效。例如针对一年级数学困难儿童开展的 Number Rockets 方案，在严格因果试验中测得 +0.34 的平均[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> 在初等数学领域，专业教师主导的[[Small Group Tuition|小组辅导]]干预同样能取得稳健的因果成效。例如针对一年级数学困难儿童开展的 Number Rockets 方案，在严格因果试验中测得 +0.34 的平均[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *In elementary mathematics, tutoring provided by certified teachers was effective in small groups. Number Rockets, evaluated in first grade with groups of two or three by trained instructors, produced an effect size of +0.34, qualifying for the Strong rating under ESSA.*
 

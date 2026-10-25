@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,11 +26,13 @@ tags:
   - region/us
 related_concepts:
   - "[[Structured Teaching]]"
+  - "[[Small Group Tuition]]"
   - "[[Evidence Standards]]"
   - "[[Teaching Assistant]]"
   - "[[Response to Proven Instruction]]"
   - "[[Response to Intervention]]"
   - "[[Business as Usual]]"
+  - "[[Teacher Qualifications]]"
   - "[[Problem Solving]]"
 related_theories: []
 related_methods:
@@ -49,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -77,7 +79,7 @@ updated: 2026-10-22
 > - **助教 1:1 脚本化授课** 教学助教手持高度详细的教学脚本，按“基础事实热身—基模新授—情境引导练习—独立寻宝解题”四步法实施，每次 30 分钟，每周 3 次，持续 16 周。
 
 > [!citation-card] 斯莱文论 Pirate Math 助教辅导的实证效能
-> 在初等数学领域，不仅小组辅导成效显著，由教学助教开展的一对一辅导同样被证明高度有效。例如在三年级开展的 Pirate Math 辅导项目，在严格[[Randomised Controlled Trials\|随机对照试验]]中取得了 +0.37 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> 在初等数学领域，不仅[[Small Group Tuition|小组辅导]]成效显著，由教学助教开展的一对一辅导同样被证明高度有效。例如在三年级开展的 Pirate Math 辅导项目，在严格[[Randomised Controlled Trials\|随机对照试验]]中取得了 +0.37 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Tutoring provided by paraprofessionals using structured approaches was also effective in mathematics. For example, Pirate Math, delivered by [[Teaching Assistant|Teaching Assistants]] to third graders in 1:1 sessions, produced an effect size of +0.37, qualifying for the Strong rating under ESSA.*
 
@@ -101,7 +103,7 @@ updated: 2026-10-22
 > [!finding-cards] 核心实证结论
 > - **显著的标准化应用题学业[[Effect Size\|效应量]]** 在独立第三方大样本[[Randomised Controlled Trials\|随机对照试验]]中，接受 Pirate Math 辅导的学生在全国标准化数学[[Problem Solving Inventory\|问题解决测验]]（如 Iowa Test of Basic Skills, KeyMath）上取得了平均 $+0.37$ 的显著效应量，达到 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **优异的认知基模远迁移能力** 追踪评估显示，学生不仅在直接受训的问题类型上表现优异，而且在面对从未练习过的新颖干扰情境与复合步骤应用题时，同样展现出远超[[Business as Usual\|常规对照组]]的结构迁移水平。
-> - **跨师资模式的稳健可复制性** 实证研究证明，教学助教与具备正规教师资质的认证专业人员在执行 Pirate Math 时取得的效应量未呈现统计学显著差异，充分证明了高质量脚本化方案对实施者专业门槛的解耦作用。
+> - **跨师资模式的稳健可复制性** 实证研究证明，教学助教与具备正规[[Teacher Qualifications|教师资质]]的认证专业人员在执行 Pirate Math 时取得的效应量未呈现统计学显著差异，充分证明了高质量脚本化方案对实施者专业门槛的解耦作用。
 
 > [!stat-cards]- 关键实证数据
 > - **+0.37** 随机对照试验测得的三年级数学[[Problem Solving\|问题解决]]标准化平均效应量（$ES$），获 ESSA 强证据最高评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

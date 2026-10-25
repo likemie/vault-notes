@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ tags:
 related_concepts:
   - "[[Decodification]]"
   - "[[Working Memory]]"
+  - "[[Small Group Tuition]]"
   - "[[Teaching Assistant]]"
   - "[[Evidence Standards]]"
   - "[[Self-Efficacy]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -79,7 +80,7 @@ updated: 2026-10-22
 > - **助教 1:3 微组辅导** 由教学助教主持 3 人微组，每位学生有充足轮流朗读与记录时间，总耗时精准控制在 15 分钟以内。
 
 > [!citation-card] 斯莱文论 Quick Reads 助教辅导的实证效益
-> 在初等阅读领域，由教学助教开展的小组辅导方案同样展现了卓越效能。例如针对二至三年级开展的 Quick Reads 辅导方案，在两项独立的[[Randomised Controlled Trials\|随机对照试验]]中由教学助教对 1:3 的小组实施，取得了 +0.22 的平均学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> 在初等阅读领域，由教学助教开展的[[Small Group Tuition|小组辅导]]方案同样展现了卓越效能。例如针对二至三年级开展的 Quick Reads 辅导方案，在两项独立的[[Randomised Controlled Trials\|随机对照试验]]中由教学助教对 1:3 的小组实施，取得了 +0.22 的平均学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Small-group tutoring by [[Teaching Assistant|Teaching Assistants]] was also effective in reading. Quick Reads, evaluated in two randomized trials with paraprofessionals working with groups of three in grades 2–3, yielded an effect size of +0.22, meeting the Strong [[Evidence Standards]] under ESSA.*
 

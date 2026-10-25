@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,7 +26,10 @@ tags:
   - region/us
 related_concepts:
   - "[[Decodification]]"
+  - "[[Phonological Awareness]]"
   - "[[Externalization]]"
+  - "[[Multi-tiered Systems of Support]]"
+  - "[[Small Group Tuition]]"
   - "[[Paradigm]]"
   - "[[Response to Intervention]]"
   - "[[Lifelong Learning]]"
@@ -49,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -60,7 +63,7 @@ updated: 2026-10-22
 > [!program-context] 项目背景
 > - **立项时间与周期** 方案雏形形成于 1970 年代初，经历 Lindamood-Bell 专业机构数十年的临床打磨与公立学校多中心试验，长盛不衰至今。
 > - **发起方与资助机制** 由 Lindamood-Bell 研发机构运营，美国国立儿童健康与人类发展研究所（[[National Institute of Child Health and Human Development|NICHD]]）与联邦教育部[[Institute of Education Sciences\|教育科学研究院]]（IES）提供多项重大[[Randomised Controlled Trials\|随机对照试验]]（RCT）科研资助。
-> - **覆盖范围与对象** 全美各州公立小学中在语音意识（Phonological Awareness）与音素切分上处于严重病理缺陷的高危学生，尤其是被诊断为发展性阅读障碍的儿童。
+> - **覆盖范围与对象** 全美各州公立小学中在[[Phonological Awareness|语音意识]]（Phonological Awareness）与音素切分上处于严重病理缺陷的高危学生，尤其是被诊断为发展性阅读障碍的儿童。
 > - **核心问题导向** 攻克传统“仅凭听觉和视觉”拼读教学对音素感知盲区儿童无效的顽疾，开创以发音口腔动觉为中介的神经认知补偿路径。
 
 ---
@@ -73,8 +76,8 @@ updated: 2026-10-22
 > - **彩色几何方块表征音素序列** 摆脱字母符号的初始干扰，让学生用不同颜色的方块代表口语中听到的连续音素，直观练习音素的添加、删除、替换与调换顺序。
 > - **字母符号与正字法映射** 在学生完全掌握口语动觉序列感知后，将发音动作精准映射到对应的正规印刷英文字母，进阶到假词与真实词汇的快速连贯拼读。
 
-> [!citation-card] 斯莱文论 LiPS 在多层支持系统中的突出效能
-> 在针对面临学业困境学生的阅读方案中，LiPS 展现出极为强劲的实证证据。在教师主导的小组辅导（Tier 2，1 年级，1 项研究）中其[[Effect Size\|效应量]]达到 +0.64，在教师主导的一对一密集个别辅导（Tier 3，K–2 年级，1 项研究）中其效应量更是高达 +0.69，在两层架构中均斩获了 [[Every Student Succeeds Act\|ESSA]] 的强证据评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> [!citation-card] 斯莱文论 LiPS 在[[Multi-tiered Systems of Support|多层支持系统]]中的突出效能
+> 在针对面临学业困境学生的阅读方案中，LiPS 展现出极为强劲的实证证据。在教师主导的[[Small Group Tuition|小组辅导]]（Tier 2，1 年级，1 项研究）中其[[Effect Size\|效应量]]达到 +0.64，在教师主导的一对一密集个别辅导（Tier 3，K–2 年级，1 项研究）中其效应量更是高达 +0.69，在两层架构中均斩获了 [[Every Student Succeeds Act\|ESSA]] 的强证据评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *LiPS meets the ESSA strong evidence rating across both one-to-small-group tutoring (Tier 2, effect size +0.64) and one-to-one tutoring (Tier 3, effect size +0.69).*
 

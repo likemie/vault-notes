@@ -6,7 +6,7 @@ aliases:
 summary: "班级学生人数这一关键教育组织变量，其对教学互动与学业成果的影响取决于人数变化、教师质量、物质资源、教学方式调整以及跨情境测量精度的系统协同。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 76
+related_count: 75
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -17,6 +17,7 @@ tags:
   - theme/assessment
   - method/research-methods
   - metax
+  - eef
 related_concepts:
   - "[[Variable]]"
   - "[[Heterogeneity]]"
@@ -33,16 +34,15 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Epistemology]]"
   - "[[Necessary and Sufficient Conditions]]"
-  - "[[Discourse]]"
   - "[[Neo-Taylorism]]"
   - "[[Visible Learning]]"
   - "[[Self-reported Grades]]"
   - "[[Global Education Reform Movement]]"
   - "[[Zone of Desired Effects]]"
   - "[[Socioeconomic Status]]"
+  - "[[Discourse]]"
   - "[[Performance Pay]]"
   - "[[Positivism]]"
-  - "[[Research Utilization]]"
   - "[[Public Value]]"
   - "[[Material Fallacies]]"
   - "[[Dependent Variable]]"
@@ -61,8 +61,8 @@ related_methods:
   - "[[Cohort Study]]"
   - "[[Moderator Analysis]]"
   - "[[Random Assignment]]"
-  - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Prediction Interval]]"
   - "[[Questionnaire]]"
   - "[[Chi-Squared Test]]"
   - "[[Ethnography]]"
@@ -103,7 +103,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!def] Class Size
@@ -141,7 +141,7 @@ updated: 2026-10-22
 > [!feature] 班级规模争论的四大核心基柱
 > - **测量方式与口径精细度** 评估班级人数是基于宏观注册名册、平均日常出勤，还是[[Classroom Observation|课堂观察]]当天的实际分性别在场人数。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 16–17)]]
 > - **微观课堂教与学生态** 人数变化如何重塑教师注意力分配、[[Individualised Instruction|个别化指导]]、任务在轨率及课堂纪律压力。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 157–158)]]
-> - **师资教学范式调适** 班级规模是教学行为展开的制度载体，其成效取决于教师能否从标准化全班讲授转向差异化与个别化诊断。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 5–7)]]
+> - **师资教学[[Paradigm|范式]]调适** 班级规模是教学行为展开的制度载体，其成效取决于教师能否从标准化全班讲授转向差异化与个别化诊断。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 5–7)]]
 > - **证据外推与物质约束边界** 实验室或局部优质实验（如 STAR 项目）结论在师资紧缺或极端大班额（60–100人）环境中的有效性限度。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
 
 > [!logic-map]- 要素关系与微观课堂交互回路
@@ -251,7 +251,7 @@ updated: 2026-10-22
 > | **对偶反向：大班 vs 小班** | $d = -0.20$ | 严格落入 $d < 0$ 区域，归入“逆向有害效应区” | 大班教学属于主动损害学生学业的危险实践，必须紧急整改干预 | 揭示单向基准依赖性，相同的数理事实因参照系选择导出完全相悖的价值判定 |
 
 > [!claim] [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]]; [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]]
-> **剔除社会阶级调节变量建构[[Socioeconomic Status|阶级盲教学思维]]** 尼尔森与克利特默勒指出，哈蒂虽然单独报告了社会经济地位（SES）的孤立效应量（$d=0.57$），却公开宣布不将 SES 作为调节变量纳入对教学干预与班额效应的模型中。伯杰龙与里瓦尔强调，对贫困与弱势学生而言，社会资本匮乏构成的是 $-0.57$ 的结构劣势。哈蒂将学生假设为同质无差别的技术受体，断言存在超越阶级而普适有效的技术教学法，客观上建构了一种阶级盲教学思维（class-blind pedagogical thinking），以技术中立话语掩盖了社会不平等对学校教育的冲击。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 6–7)]]
+> **剔除社会阶级调节变量建构[[Socioeconomic Status|阶级盲教学思维]]** 尼尔森与克利特默勒指出，哈蒂虽然单独报告了社会经济地位（SES）的孤立效应量（$d=0.57$），却公开宣布不将 SES 作为调节变量纳入对教学干预与班额效应的模型中。伯杰龙与里瓦尔强调，对贫困与弱势学生而言，社会资本匮乏构成的是 $-0.57$ 的结构劣势。哈蒂将学生假设为同质无差别的技术受体，断言存在超越阶级而普适有效的技术教学法，客观上建构了一种阶级盲教学思维（class-blind pedagogical thinking），以技术中立[[Discourse|话语]]掩盖了社会不平等对学校教育的冲击。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 6–7)]]
 
 > [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]; [[Argument_ONeill_2012_NZJES|O'Neill (2012)]]
 > **政客片面征用元分析平均值作为抗拒缩班的政策盾牌** 新西兰教育部长安妮·托利与财政部简报直接援引哈蒂《可见的学习》中班级规模的低效应量（$d=0.21$），公开主张“证据表明缩减班级规模无效”，并以此为由拒绝工会关于缩小班额的诉求、转而推行教师[[Performance Pay|绩效工资]]。斯努克与奥尼尔指出，托利的修辞犯下了严重的科学误导：部长刻意抽离教学方式这个决定性前提，将复杂的学术权衡粗暴简化为单向紧缩工具，将元分析结论异化为免除政府改善办学条件责任的政治护盾。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–104)]]; [[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 153–159)]]
@@ -298,7 +298,7 @@ updated: 2026-10-22
 > > 争论焦点在于能否将班级规模抽离出具体课堂情境作为独立的技术干预加以评估。
 > >
 > > - **[[Positivism|实证主义]]孤立还原论** 假设班级规模是独立可加的单项干预，通过汇总离散实验的平均效应量，直接指导宏观资源配置与优先级排序。
-> > - **复杂系统情境论（Berger, 1982; [[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 班级规模本身无法作为独立分析单元；人数减少必须与教师教学[[Paradigm|范式]]转型、[[Individualised Instruction|个别化指导]]及社会背景交互方能起效，脱离教学调适直接断言班额无效属于严重的归因偏误。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 5–7)]]
+> > - **复杂系统情境论（Berger, 1982; [[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）** 班级规模本身无法作为独立[[Unit of Analysis|分析单元]]；人数减少必须与教师教学[[Paradigm|范式]]转型、[[Individualised Instruction|个别化指导]]及社会背景交互方能起效，脱离教学调适直接断言班额无效属于严重的归因偏误。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 5–7)]]
 
 > [!critique] 外部批评与政策异化
 > - **分析单元混淆与反向选择假象** 许多学校策略性地将学业落后生编入小班，造成观察数据中“小班成绩反而更差”的反向选择假象；约翰逊与简森指出，[[John Hattie|哈蒂]]从格拉斯元分析中提取出非原研究认定的 $d = 0.09$，反映出元分析二次引述中的语境漂移现象。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–33)]]
@@ -330,6 +330,83 @@ updated: 2026-10-22
 > > | Dalgaard et al. (2022) | Class size in early childhood | 3 | 14,625 | 12 | -0.04 |  |
 > > | Opatrny et al. (2023) | Class size | 62 | NA | 1,767 | 0.08 |  |
 
+> [!eef] [缩小班额 · Reducing class size](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reducing-class-size)
+> EEF 教与学工具包 · 更新于 2026-01-13 · 学前 41 · 小学 39 · 中学 14 · 阅读 47 · 数学 40 · 科学 2
+>
+> | imp | cost | evi | n | smd | ci | i2 |
+> | --- | --- | --- | --- | --- | --- | --- |
+> | +1 个月 低影响 | ●●●●● 极高 | ●○○○○ 极有限 | 63 | 0.08 | 0.04 ~ 0.12 | 100% |
+>
+> > [!eef-studies]- 62 条效应量 · 55 项研究
+> > | ref | type | smd | ci | w | e |
+> > | --- | --- | --- | --- | --- | --- |
+> > | Sule (2016) | 期刊论文 | 1.79 | 1.39 ~ 2.18 | 0.7% |  |
+> > | Olasen (2020) | 期刊论文 | 1.08 | 0.45 ~ 1.71 | 0.4% |  |
+> > | Costello (1992) | 报告 | 0.74 | 0.21 ~ 1.26 | 0.5% |  |
+> > | Burde (1990) | 学位论文 | 0.40 | −0.04 ~ 0.83 | 0.6% |  |
+> > | Scudder (2002) <span class="eef-tag">1_1</span> | 会议论文 | 0.40 | 0.15 ~ 0.64 | 1.2% |  |
+> > | Boozer (2001) | 期刊论文 | 0.37 | 0.17 ~ 0.58 | 1.4% |  |
+> > | Haenn (2002) <span class="eef-tag">1_1</span> | 会议论文 | 0.27 | 0.03 ~ 0.52 | 1.2% |  |
+> > | Ding (2011) | 期刊论文 | 0.24 | 0.08 ~ 0.40 | 1.6% |  |
+> > | Kurecka (2000) | 报告 | 0.22 | 0.04 ~ 0.40 | 1.5% |  |
+> > | Word (1990) | 报告 | 0.21 | 0.05 ~ 0.37 | 1.6% |  |
+> > | Molnar (2001) | 报告 | 0.20 | 0.11 ~ 0.28 | 1.9% |  |
+> > | Adigun (2023) | 期刊论文 | 0.19 | 0.15 ~ 0.23 | 2.1% |  |
+> > | Konstantopoulos (2016) <span class="eef-tag">1_2</span> | 期刊论文 | 0.18 | −0.95 ~ 1.32 | 0.1% |  |
+> > | Sims (2009) | 期刊论文 | 0.17 | 0.13 ~ 0.21 | 2.1% |  |
+> > | Duflo (2012) | 报告 | 0.17 | −0.05 ~ 0.38 | 1.4% |  |
+> > | Monlar (1999) | 期刊论文 | 0.16 | 0.10 ~ 0.22 | 2.0% |  |
+> > | Angrist (1999) | 期刊论文 | 0.16 | 0.07 ~ 0.25 | 1.9% |  |
+> > | Ecalle (2006) | 期刊论文 | 0.16 | 0.02 ~ 0.29 | 1.7% |  |
+> > | Fidler (2001) <span class="eef-tag">1_1</span> | 报告 | 0.15 | 0.13 ~ 0.17 | 2.1% |  |
+> > | Scudder (2002) <span class="eef-tag">1_2</span> | 会议论文 | 0.15 | 0.04 ~ 0.26 | 1.9% |  |
+> > | Francis (2019) | 期刊论文 | 0.14 | 0.04 ~ 0.24 | 1.9% |  |
+> > | Maier (1997) | 报告 | 0.13 | 0.03 ~ 0.23 | 1.9% |  |
+> > | Watson (2016) | 期刊论文 | 0.13 | 0.09 ~ 0.17 | 2.1% |  |
+> > | Haenn (2002) <span class="eef-tag">1_3</span> | 会议论文 | 0.12 | −0.14 ~ 0.38 | 1.2% |  |
+> > | Sims (2003) | 其他 | 0.12 | −0.04 ~ 0.28 | 1.6% |  |
+> > | Molnar (1998) | 报告 | 0.10 | −0.01 ~ 0.20 | 1.9% |  |
+> > | Carro (2023) | 期刊论文 | 0.10 | −0.08 ~ 0.28 | 1.5% |  |
+> > | Haenn (2002) <span class="eef-tag">1_5</span> | 会议论文 | 0.08 | −0.18 ~ 0.34 | 1.2% |  |
+> > | Bressoux (2019) | 期刊论文 | 0.08 | −0.04 ~ 0.20 | 1.8% |  |
+> > | Krassel (2014) | 期刊论文 | 0.08 | 0.01 ~ 0.15 | 2.0% |  |
+> > | Dharmadasa (1995) | 报告 | 0.06 | −0.16 ~ 0.28 | 1.3% |  |
+> > | Merritt (2011) | 会议论文 | 0.06 | 0.03 ~ 0.08 | 2.1% |  |
+> > | Molnar (1999) | 报告 | 0.05 | −0.04 ~ 0.13 | 1.9% |  |
+> > | Dixon (2002) | 学位论文 | 0.05 | −0.05 ~ 0.14 | 1.9% |  |
+> > | Cho (2012) | 期刊论文 | 0.04 | 0.02 ~ 0.06 | 2.1% |  |
+> > | Kenni (2020) | 期刊论文 | 0.03 | −0.42 ~ 0.48 | 0.6% |  |
+> > | Heinesen (2009) | 期刊论文 | 0.03 | 0.01 ~ 0.04 | 2.1% |  |
+> > | Galton (2012) | 期刊论文 | 0.03 | 0.00 ~ 0.06 | 2.1% |  |
+> > | Konstantopoulos (2016) <span class="eef-tag">1_1</span> | 期刊论文 | 0.02 | −0.20 ~ 0.24 | 1.4% |  |
+> > | Haenn (2002) <span class="eef-tag">1_2</span> | 会议论文 | 0.02 | −0.19 ~ 0.22 | 1.4% |  |
+> > | Li (2017) | 期刊论文 | 0.01 | 0.00 ~ 0.03 | 2.1% |  |
+> > | Shen (2022) | 期刊论文 | 0.01 | 0.00 ~ 0.01 | 2.1% |  |
+> > | Hallaq (2020) | 期刊论文 | 0.01 | −0.19 ~ 0.20 | 1.4% |  |
+> > | Mitchell (1999) | 报告 | 0.01 | −0.03 ~ 0.03 | 2.1% |  |
+> > | Cohen-Zada (2009) | 期刊论文 | 0.01 | −0.02 ~ 0.03 | 2.1% |  |
+> > | Hudson (2011) | 期刊论文 | 0.00 | −0.47 ~ 0.48 | 0.6% |  |
+> > | Hojo (2019) | 期刊论文 | 0.00 | −0.00 ~ 0.01 | 2.1% |  |
+> > | Collins (2011) | 学位论文 | 0.00 | −0.01 ~ 0.01 | 2.1% |  |
+> > | Han (2017) | 期刊论文 | 0.00 | −0.00 ~ 0.00 | 2.1% |  |
+> > | Ito (2020) | 期刊论文 | 0.00 | −0.00 ~ 0.00 | 2.1% |  |
+> > | Chargois (2008) | 学位论文 | −0.00 | −0.18 ~ 0.17 | 1.5% |  |
+> > | Angrist (2019) | 期刊论文 | −0.01 | −0.04 ~ 0.03 | 2.1% |  |
+> > | Datta (2021) | 其他 | −0.01 | −0.01 ~ −0.01 | 2.1% |  |
+> > | Aransi (2017) | 期刊论文 | −0.06 | −0.35 ~ 0.24 | 1.0% |  |
+> > | Becker (2006) | 学位论文 | −0.07 | −0.48 ~ 0.34 | 0.7% |  |
+> > | Munoz (2001) | 报告 | −0.07 | −0.46 ~ 0.32 | 0.7% |  |
+> > | Chingos (2012) | 期刊论文 | −0.07 | −0.15 ~ 0.01 | 2.0% |  |
+> > | Milesi (2006) | 期刊论文 | −0.10 | −0.58 ~ 0.38 | 0.6% |  |
+> > | Davis (2000) | 学位论文 | −0.11 | −0.29 ~ 0.08 | 1.5% |  |
+> > | Haenn (2002) <span class="eef-tag">1_4</span> | 会议论文 | −0.20 | −0.45 ~ 0.04 | 1.2% |  |
+> > | Fidler (2001) <span class="eef-tag">1_2</span> | 报告 | −0.22 | −0.24 ~ −0.20 | 2.1% |  |
+> > | Peake (2001) | 学位论文 | −0.25 | −0.43 ~ −0.07 | 1.5% |  |
+>
+> > [!eef-errata] 2 条
+> > - ∑ **自动核算 · 研究数不一致** 页面“How secure is the evidence?”一节称纳入 63 项研究；参考文献列表为 62 条效应量，来自 55 项研究，合并效应量据后者计算。
+> > - ∑ **自动核算 · 权重不闭合** 各研究权重合计 98.2%，应为 100%。
+
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >
@@ -343,9 +420,9 @@ updated: 2026-10-22
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
 >
-> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
+> | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.21"><span class="b4"></span></span>0.21 | — | Cohen's $d$，二阶简单算术平均 | $M = 3\text{–}14$ / $E = 108$ / — / — | 干预因素：[[John Hattie\|哈蒂]]（Hattie, 2009）综合缩减班级规模对中小学生学业成就的二阶效应（位列第 108 位） | 未报告预测区间与模型异质性检验 | 机械平均抹平了高质量实验（STAR）与劣质研究的差异；排除了社会阶层调节变量（SES $d=0.57$），形成阶级盲技术偏见 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.21"><span class="b4"></span></span>0.21 | — | Cohen's $d$，二阶简单算术平均 | $M = 3\text{–}14$ / $E = 108$ / — / — | 干预因素：[[John Hattie\|哈蒂]]（Hattie, 2009）综合缩减班级规模对中小学生学业成就的二阶效应（位列第 108 位） | 未报告[[Prediction Interval\|预测区间]]与模型异质性检验 | 机械平均抹平了高质量实验（STAR）与劣质研究的差异；排除了社会阶层调节变量（SES $d=0.57$），形成阶级盲技术偏见 |
 
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
@@ -440,3 +517,4 @@ updated: 2026-10-22
 > | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 论证 | 理论与数据来源 | 重审可见学习底层逻辑，论证班级规模非独立[[Unit of Analysis\|分析单元]]属性并揭露[[Socioeconomic Status\|阶级盲教学思维]]。 |
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 论证 | 实证来源 | 提供发展中国家大样本计量模型中控制班额后的教学效能证据及超大班额快照测量反思。 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 批判来源 | 提供 95 次高频词频统计与格拉斯曲线复验，揭示班额无效论作为财政护盾的政治经济学证据。 |
+

@@ -10,7 +10,7 @@ aliases:
 summary: "在课程与教学论及应用语言学中，指学习者在第一语言（L1）或第二语言/外语（L2/FL）中理解、组织与表达意义的多维可测量能力构念，涵盖听、说、读、写四大技能及语法词汇、体裁结构与交际流利度。在教育技术与生成式人工智能干预实证中，该构念常作为核心产出变量，表现出对自然语言模型的强敏感性与显著促学效应（g+ = 2.331），但易受发表偏倚与小研究效应影响。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ tags:
   - level/higher-education
 related_concepts:
   - "[[Operationalization]]"
+  - "[[Foreign Languages]]"
   - "[[Academic Achievement]]"
   - "[[Metacognition]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -30,7 +31,9 @@ related_concepts:
   - "[[Decodification]]"
   - "[[Affective Outcomes]]"
   - "[[Publication Bias]]"
+  - "[[Text Generation]]"
   - "[[Critical Thinking]]"
+  - "[[Oral Language Interventions]]"
   - "[[AI Agent in Education]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
@@ -43,7 +46,6 @@ related_methods:
   - "[[Small Study Effects]]"
   - "[[Trim and Fill Method]]"
   - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
 related_instruments:
   - "[[California Critical Thinking Skills Test]]"
@@ -55,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 （语言技能）
@@ -63,7 +65,7 @@ updated: 2026-10-22
 ---
 
 > [!def] Language Skills
-> 语言技能（Language Skills）是衡量学习者在特定语言环境中运用口头与书面符号进行意义理解、信息提取与交际表达的[[Operationalization\|操作化]]能力系统。在现代二语习得（Second Language Acquisition, SLA）与外语教学（English as a Second/Foreign Language, ESL/EFL）中，它通常基于欧洲语言共同参考框架（Common European Framework of Reference for Languages, CEFR）或美国外语教学学会（American Council on the Teaching of Foreign Languages, ACTFL）准则，通过听力感知、阅读理解、书面产出（写作流利度、语法词汇纠错、体裁组织）以及口语即时交际对话表现进行综合测度。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 2–3, 10)]]
+> 语言技能（Language Skills）是衡量学习者在特定语言环境中运用口头与书面符号进行意义理解、信息提取与交际表达的[[Operationalization\|操作化]]能力系统。在现代二语习得（Second Language Acquisition, SLA）与外语教学（English as a Second/Foreign Language, ESL/EFL）中，它通常基于欧洲语言共同参考框架（Common European Framework of Reference for Languages, CEFR）或美国外语教学学会（American Council on the Teaching of [[Foreign Languages]], ACTFL）准则，通过听力感知、阅读理解、书面产出（写作流利度、语法词汇纠错、体裁组织）以及口语即时交际对话表现进行综合测度。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 2–3, 10)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向语言学习者对音韵、词法、句法、语篇与语用规则的综合内化与即时输出能力，强调在真实或模拟交际任务中的功能性落地。
@@ -110,7 +112,7 @@ updated: 2026-10-22
 ### 命题二　语言技能的表层符号流畅性并不自动等价于深层心智与元认知发展
 
 > [!concept-lens] 符号操纵与深层心智解耦
-> 文本生成的表观完善容易遮蔽学生在认知加工深度上的不足，语言技能维度的单向突进并不必然带动元认知监控与[[Critical Thinking\|批判性思维]]的同步提升。
+> [[Text Generation|文本生成]]的表观完善容易遮蔽学生在认知加工深度上的不足，语言技能维度的单向突进并不必然带动元认知监控与[[Critical Thinking\|批判性思维]]的同步提升。
 
 > [!claim] Chen & Cheung
 > **学习产出呈现语言技能向元认知单调递减的心智加工深度级差** 促学[[Effect Size\|效应量]]呈现“语言技能（$2.331$）$>$ 学业成绩（$0.633$）$>$ 情感动机（$0.617$）$>$ 高阶思维（$0.580$）$>$ 元认知（$0.078$，不显著）”的显著阶梯结构，推翻了技术全能主义假设。这证明智能工具对表层符号转换与规则模仿能提供强效杠杆，但若缺乏显性的反思与策略训练，学生往往难以将语言技能获益自动迁移为深层自我监控与高阶思维能力。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 15–16)]]
@@ -137,7 +139,7 @@ updated: 2026-10-22
 > - **文本表面繁荣遮蔽批判性缺陷** 学习者可借助大语言模型在数秒内生成结构严谨、词法高级的外语文章，但若缺乏对生成内容的批判性审查，极易形成被动的认知依赖与表层拼贴，使语言技能的真实习得大打折扣。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 15–16)]]
 
 > [!warning] 适用局限与小研究偏倚
-> - **小样本极端效应膨胀** 在二语写作与口语干预的初级研究中，往往存在较严重的小样本[[Publication Bias\|发表偏倚]]（Egger 检验显著），导致未校正前的原始汇总[[Effect Size\|效应量]]（$g^+ = 2.331$）存在乐观虚高，应用时须以[[Trim and Fill Method\|剪补法]]校正后的保守水平（$g^+_{\text{adj}} = 1.009$）作为决策基准。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 14)]]
+> - **小样本极端效应膨胀** 在二语写作与[[Oral Language Interventions|口语干预]]的初级研究中，往往存在较严重的小样本[[Publication Bias\|发表偏倚]]（Egger 检验显著），导致未校正前的原始汇总[[Effect Size\|效应量]]（$g^+ = 2.331$）存在乐观虚高，应用时须以[[Trim and Fill Method\|剪补法]]校正后的保守水平（$g^+_{\text{adj}} = 1.009$）作为决策基准。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 14)]]
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "起源于美国《个体残疾人教育法》（IDEA 2004）的三层教学支持与特殊教育筛查模型，通过核心通用教学（Tier 1）、小组针对性辅导（Tier 2）和高强度个别辅导（Tier 3）提供梯度干预，后经斯莱文发展为以强证据项目系统填充各层的循证干预反应（RTPI）改革方案"
 type: concept
 domain: "educational-policy-reform"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Grade Retention]]"
   - "[[Response to Proven Instruction]]"
   - "[[Evidence Standards]]"
+  - "[[Small Group Tuition]]"
   - "[[Peer-Supported Learning]]"
   - "[[Teaching Assistant]]"
   - "[[Implementation Fidelity]]"
@@ -78,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -92,7 +93,7 @@ updated: 2026-10-22
 > - **边界** 传统的 RTI 仅是通用组织架构原则；若各层级缺乏经过实验验证的具体项目与规程支撑，极易退化为形式主义的行政打勾，无法实质改善后进生成绩。
 
 > [!citation-card] [[Response to Proven Instruction\|循证干预反应]]方案
-> 传统干预反应模型之所以在大规模评估中未能显现预期成效，根源在于学校仅依凭抽象原则而未在各个层级部署经过严格实验检验的具体方案。若以达到《[[Every Student Succeeds Act\|每一个学生成功法]]》（Every Student Succeeds Act, ESSA）强[[Evidence Standards\|证据标准]]的项目分别充实 Tier 1（全校优质教学）、Tier 2（助教/教师小组辅导）与 Tier 3（一对一个别辅导），学生将几乎必然获得学业成功。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
+> 传统干预反应模型之所以在大规模评估中未能显现预期成效，根源在于学校仅依凭抽象原则而未在各个层级部署经过严格实验检验的具体方案。若以达到《[[Every Student Succeeds Act\|每一个学生成功法]]》（Every Student Succeeds Act, ESSA）强[[Evidence Standards\|证据标准]]的项目分别充实 Tier 1（全校优质教学）、Tier 2（助教/教师[[Small Group Tuition|小组辅导]]）与 Tier 3（一对一个别辅导），学生将几乎必然获得学业成功。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
 >
 > *Traditional RTI failed to produce effects because its principles are rarely fully implemented. Outfitting each tier with proven strategies according to ESSA Evidence Standards could virtually assure student success.*
 
@@ -158,7 +159,7 @@ updated: 2026-10-22
 ### 命题二　以循证个别与小组辅导充实 Tier 2 与 Tier 3 能有效缩小群体学业鸿沟
 
 > [!concept-lens] [[Tutoring Interventions|辅导干预]]的因果效能与成本效益
-> 分析不同师资类型（教师、助教、有偿志愿者）在一对一与小组辅导中的实证效能矩阵。
+> 分析不同师资类型（教师、助教、有偿志愿者）在一对一与[[Small Group Tuition|小组辅导]]中的实证效能矩阵。
 
 > [!claim] [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]
 > **经过专业培训的助教辅导效能逼近认证教师** 在阅读和数学领域，由经过系统培训并使用高度结构化材料的教学助教开展的小组辅导（TIER 2）和一对一辅导（Tier 3），其[[Effect Size\|效应量]]（+0.22 至 +0.81）与高成本的认证专业教师相当；这使得公立学校在现有财政约束下，完全有能力常态化铺设覆盖全员的高强度个别化辅导网络。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

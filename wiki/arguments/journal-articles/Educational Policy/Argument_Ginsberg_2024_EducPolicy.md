@@ -42,6 +42,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[School Autonomy]]"
+  - "[[Summer School]]"
   - "[[STEM Education]]"
   - "[[Experiential Learning]]"
   - "[[Advanced Placement Program]]"
@@ -50,6 +51,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Small Group Tuition]]"
   - "[[Champ]]"
 related_theories: []
 related_methods:
@@ -79,16 +81,16 @@ sources:
   - "[[sources/Ginsberg_2024_EducPolicy/Ginsberg_2024_EducPolicy|Ginsberg_2024_EducPolicy]]"
 status: stable
 created: 2026-09-17
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Ginsberg_2024_EducPolicy"
 argument_key: "Argument_Ginsberg_2024_EducPolicy"
 argument_display_title: "Does ESSA assure the use of evidence-based educational practices? Educational Policy, 38(1), 161–185"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 41
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Educational Policy"
 book_title: ""
@@ -177,7 +179,7 @@ issuing_organization: ""
 在以往的教育财政研究中，由于缺乏细粒度的账目穿透，学者往往难以厘清大规模联邦资金究竟采购了何种具体的课堂实践。
 
 > [!feature] 学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金的双轨分配与宏观支出结构
-> - **学区中心统筹与校本分配格局** SUD 学区每年将约三分之二（4,800 万至 4,900 万美元，约占总额 50%）的 Title I 资金直接下拨至各公立学校用于全校范围项目（Schoolwide Programs），由[[School Autonomy|学校自主]]采购人员编制（如专职干预教师）、购买服务（如教师专业发展）、课堂耗材与教学技术；其余约三分之一资金由学区中心办公室统筹，支持各校自愿参与的辅导项目、暑期学校及教师教练。
+> - **学区中心统筹与校本分配格局** SUD 学区每年将约三分之二（4,800 万至 4,900 万美元，约占总额 50%）的 Title I 资金直接下拨至各公立学校用于全校范围项目（Schoolwide Programs），由[[School Autonomy|学校自主]]采购人员编制（如专职干预教师）、购买服务（如教师专业发展）、课堂耗材与教学技术；其余约三分之一资金由学区中心办公室统筹，支持各校自愿参与的辅导项目、[[Summer School|暑期学校]]及教师教练。
 > - **通用行政与法定义务支出** 中心办公室每年支出约 500 万美元（三年累计 1,490 万美元）用于会计、预算、外部资助管理及研究与问责部（负责评估 Title I 项目成效）；此外，按联邦法规必须向辖区内私立非营利学校（Private Non-Profit, PNP）划拨专项资金。
 
 > [!figure] 图 1　SUD 学区 Title I 年度资金大致分配结构
@@ -298,7 +300,7 @@ issuing_organization: ""
 > [!challenges] 教育实证科研供给侧的三重结构性不足
 > - **目标学段实证研究全面断档** 样本学校采购的教育实践中，有多达 26 项实践在相关学段（小学、初中或高中）根本检索不到任何实证研究；学区中心办公室项目中有 7 项实践在部分学段无证据，5 项实践在全学段毫无证据。
 > - **微观实施形态缺乏细分证据** 虽有海量关于宏观教师专业发展的文献，但学区实际采购的驻校咨询辅导（on-site consulting）或针对特定学科微课的交付方式几乎没有独立因果检验。
-> - **有效性证据的情境迁移衰减** 即使某项小组辅导在小学三年级数学障碍儿童中被严谨证实有效（如 Jitendra et al., 2013），也无法外推保证其在学区全样本、其他学科或不同学段同样产生积极学业回报。现场考察（[[Champ\|field]] trips）被广泛纳入青少年项目并获 WWC 认可，但独立检验现场考察效用的研究仅有 Whitesell (2016) 一篇初中科学相关性研究，而学区却将其大量用于小学。
+> - **有效性证据的情境迁移衰减** 即使某项[[Small Group Tuition|小组辅导]]在小学三年级数学障碍儿童中被严谨证实有效（如 Jitendra et al., 2013），也无法外推保证其在学区全样本、其他学科或不同学段同样产生积极学业回报。现场考察（[[Champ\|field]] trips）被广泛纳入青少年项目并获 WWC 认可，但独立检验现场考察效用的研究仅有 Whitesell (2016) 一篇初中科学相关性研究，而学区却将其大量用于小学。
 
 上述多重视角共同收敛至深层因果链条，揭示了联邦循证政策面临的制度制约。
 
