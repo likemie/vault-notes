@@ -23238,3 +23238,98 @@ body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-ba
 body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b27 { width: 38.6px; }
 body .callout.callout.callout[data-callout][data-callout="metax-factors"] .mx-bar > .b28 { width: 40px; }
 body .callout.callout.callout[data-callout][data-callout="metax-factors"] > .callout-content :is(table):has(th:nth-child(6)) th:is(:nth-child(2), :nth-child(5), :nth-child(6))::before { text-align: left; }
+
+
+/* ── 16 · EEF 教与学工具包模块（[!eef] 总览 / [!eef-studies] 研究列表 / [!eef-errata] 勘误）2026-10-25 ──
+   与 MetaX 模块同一套版式，强调色为靛蓝；眉标与表头文字由 CSS 生成，Markdown 表头只写代号：
+   总览 imp cost evi n smd ci i2；研究 ref type smd ci w。由 scripts/eef_sync.py 生成。 */
+.callout[data-callout="eef"], .callout[data-callout="eef-studies"] { --callout-color: 59, 91, 169; --callout-icon: lucide-book-open-check; }
+.callout[data-callout="eef-errata"] { --callout-color: 190, 112, 34; --callout-icon: lucide-alert-triangle; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"], [data-callout="eef-errata"]) { padding: .8rem .95rem .85rem !important; background: var(--ac-paper, var(--background-secondary)) !important; background-image: none !important;
+  border: 1px solid var(--ac-hair, var(--background-modifier-border)) !important; border-radius: 10px !important; box-shadow: none !important; font-family: var(--ac-sans, var(--font-text)); }
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"], [data-callout="eef-errata"])::before, body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"], [data-callout="eef-errata"])::after { display: none !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-studies"], [data-callout="eef-errata"]) { margin: .7rem 0 0 !important; padding: .55rem .7rem .6rem !important; background: var(--ac-raised, var(--background-primary)) !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-errata"] { border-left: 3px solid rgb(190, 112, 34) !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"], [data-callout="eef-errata"]) > .callout-title { padding: 0 !important; margin: 0 0 .25rem; background: none !important; border: 0 !important; box-shadow: none !important; align-items: center; gap: .4rem; min-height: 0; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"], [data-callout="eef-errata"]).is-collapsed > .callout-title { margin-bottom: 0; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"], [data-callout="eef-errata"]) > .callout-title .callout-icon { display: none; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"], [data-callout="eef-errata"]) > .callout-title .callout-fold { padding: 0 !important; opacity: .55; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"], [data-callout="eef-errata"]) > .callout-title .callout-title-inner::before { display: block !important; width: max-content; margin: 0 0 .2rem !important; padding: 0 0 0 16px !important;
+  border: 0 !important; border-radius: 0 !important; box-shadow: none !important; background: linear-gradient(rgb(var(--callout-color)), rgb(var(--callout-color))) left center / 10px 2px no-repeat !important;
+  color: rgb(var(--callout-color)) !important; font-family: var(--ac-sans, sans-serif); font-size: 9px !important; font-weight: 650 !important; letter-spacing: .14em !important; line-height: 1.4; text-transform: uppercase; animation: none !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-title .callout-title-inner { font-family: var(--ac-serif, Georgia, serif); font-size: 1.05rem; font-weight: 600; line-height: 1.35; color: var(--text-normal) !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-title .callout-title-inner::before { content: "EEF Teaching and Learning Toolkit" !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-title .callout-title-inner a { color: inherit !important; text-decoration: none !important; background-image: none !important; padding-right: 0 !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-title .callout-title-inner a:hover { color: rgb(var(--callout-color)) !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-studies"], [data-callout="eef-errata"]) > .callout-title .callout-title-inner { font-size: 11px !important; font-weight: 500; color: var(--ac-muted, var(--text-muted)) !important; line-height: 1.4; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-studies"], [data-callout="eef-errata"]) > .callout-title .callout-title-inner::before { display: inline-block !important; margin: 0 .5rem 0 0 !important; vertical-align: baseline; }
+body .callout.callout.callout[data-callout][data-callout="eef-studies"] > .callout-title .callout-title-inner::before { content: "Studies · 研究" !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-errata"] > .callout-title .callout-title-inner::before { content: "Errata · 勘误" !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"], [data-callout="eef-errata"]) > .callout-content { padding: 0 !important; background: none !important; overflow-x: auto !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content > p:first-child { margin: 0 0 .55rem !important; font-size: 11px !important; line-height: 1.5; color: var(--ac-muted, var(--text-muted)); }
+
+/* 表格：固定列宽、11–12px、等宽数字；覆盖通用宽表规则 */
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"]) > .callout-content table { width: 100% !important; min-width: 0 !important; max-width: 100% !important; margin: 0 !important;
+  table-layout: fixed !important; border-collapse: collapse; background: transparent !important; font-variant-numeric: tabular-nums lining-nums; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"]) > .callout-content table :is(th, td) { min-width: 0 !important; max-width: none !important;
+  padding: 4px 6px !important; vertical-align: middle; text-align: right; border: 0 !important;
+  border-bottom: 1px solid var(--ac-hair-soft, var(--background-modifier-border)) !important; white-space: nowrap !important; overflow: hidden; text-overflow: ellipsis; background: transparent !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"]) > .callout-content table td, body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"]) > .callout-content table td * { font-size: 12px !important; line-height: 18px !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table td, body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table td * { font-size: 11px !important; line-height: 16px !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"]) > .callout-content table tbody tr:last-child td { border-bottom: 0 !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"]) > .callout-content table tbody tr:hover td { background: color-mix(in srgb, rgb(var(--callout-color)) 7%, transparent) !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"]) > .callout-content table th { font-size: 0 !important; line-height: 0 !important; color: transparent !important;
+  padding-top: 0 !important; padding-bottom: 5px !important; vertical-align: bottom; border-bottom: 1px solid var(--ac-hair, var(--background-modifier-border)) !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"]) > .callout-content table th * { font-size: 0 !important; color: transparent !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef"], [data-callout="eef-studies"]) > .callout-content table th::before { display: block; font-size: 10px; font-weight: 500; line-height: 13px; color: var(--ac-muted, var(--text-muted)); white-space: nowrap; text-align: inherit; }
+/* 总览：影响为主数值；成本琥珀点、证据靛蓝点 */
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table :is(th, td):nth-child(-n+3) { text-align: left; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table td:nth-child(1) { font-weight: 650; color: var(--text-normal); }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table td:nth-child(2) { color: rgb(196, 140, 40); letter-spacing: .02em; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table td:nth-child(3) { color: rgb(var(--callout-color)); letter-spacing: .02em; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table td:nth-child(5) { font-weight: 650; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table td:nth-child(n+6) { color: var(--ac-muted, var(--text-muted)); }
+/* 研究列表 */
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table :is(th, td):nth-child(-n+2) { text-align: left; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table td:nth-child(1) { white-space: normal !important; color: var(--text-normal); font-weight: 500; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table td:nth-child(2) { color: var(--ac-muted, var(--text-muted)); }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table td:nth-child(3) { font-weight: 650; text-align: right; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table td:nth-child(n+4) { color: var(--ac-muted, var(--text-muted)); }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] .eef-tag { display: inline-block; margin-left: 4px; padding: 0 4px; border: 1px solid var(--ac-hair, var(--background-modifier-border)); border-radius: 3px;
+  font-size: 9px !important; line-height: 13px !important; font-weight: 500; color: var(--ac-muted, var(--text-muted)); vertical-align: 1px; }
+/* 勘误 */
+body .callout.callout.callout[data-callout][data-callout="eef-errata"] > .callout-content > ul { margin: 0 !important; padding-left: 0 !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-errata"] > .callout-content > ul > li { list-style: none !important; padding: .3rem 0 !important; font-size: 11px; line-height: 1.6; border-bottom: 1px solid var(--ac-hair-soft, var(--background-modifier-border)); }
+body .callout.callout.callout[data-callout][data-callout="eef-errata"] > .callout-content > ul > li:last-child { border-bottom: 0; }
+body .callout.callout.callout[data-callout][data-callout="eef-errata"] > .callout-content > ul > li > strong { color: rgb(190, 112, 34); font-weight: 650; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table th:nth-child(1) { width: 17% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table th:nth-child(1)::before { content: "影响（月）"; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table th:nth-child(2) { width: 16% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table th:nth-child(2)::before { content: "成本"; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table th:nth-child(3) { width: 16% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table th:nth-child(3)::before { content: "证据强度"; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table th:nth-child(4) { width: 8% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table th:nth-child(4)::before { content: "研究数"; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table th:nth-child(5) { width: 12% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table th:nth-child(5)::before { content: "合并效应量"; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table th:nth-child(6) { width: 19% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table th:nth-child(6)::before { content: "95% 置信区间"; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table th:nth-child(7) { width: 12% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] > .callout-content table th:nth-child(7)::before { content: "异质性 I²"; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table th:nth-child(1) { width: 38% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table th:nth-child(1)::before { content: "研究"; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table th:nth-child(2) { width: 14% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table th:nth-child(2)::before { content: "类型"; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table th:nth-child(3) { width: 12% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table th:nth-child(3)::before { content: "效应量"; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table th:nth-child(4) { width: 24% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table th:nth-child(4)::before { content: "95% 置信区间"; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table th:nth-child(5) { width: 12% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table th:nth-child(5)::before { content: "权重"; }
+/* 16b · 研究列表复位：总览列样式不下沉 */
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table td { color: var(--text-normal); font-weight: 400; letter-spacing: 0; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table :is(th, td):nth-child(n+3) { text-align: right; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table th:nth-child(n+3)::before { text-align: right; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table td:nth-child(1) { font-weight: 500; }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table td:nth-child(2), body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table td:nth-child(n+4) { color: var(--ac-muted, var(--text-muted)); }
+body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content table td:nth-child(3) { font-weight: 650; }

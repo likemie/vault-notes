@@ -245,7 +245,7 @@ def is_media_target(target: str) -> bool:
 # [!metax-domain], [!metax-subdomain], [!metax-factors], [!metax-chips]) are data
 # tables maintained by scripts/metax_sync.py. Their links (cited meta-analyses,
 # the 440-influence index) must not become related_* YAML, or frontmatter explodes.
-METAX_BLOCK_RE = re.compile(r"^>[ \t]*\[!metax[\w-]*\][^\n]*(?:\n>[^\n]*)*", re.M)
+METAX_BLOCK_RE = re.compile(r"^>[ \t]*\[!(?:metax|eef)[\w-]*\][^\n]*(?:\n>[^\n]*)*", re.M)
 
 
 def strip_metax_blocks(text: str) -> str:
