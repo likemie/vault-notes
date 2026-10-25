@@ -184,7 +184,7 @@ updated: 2026-10-26
 
 ---
 
-> [!info] [[Epistemic Stances|认识论立场]]
+> [!concept-lens] [[Epistemic Stances|认识论立场]]
 > - **[[Ontology|本体论]]** 社会现实的基本组织形态从孤立实体（国家、机构、阶级）转向**流动的关系网络**——“存在”（Being）被“连接”（Connecting）所重新定义。
 > - **分析焦点** 从“谁拥有什么静态资源”转向“谁连接了谁”以及“连接节点的[[Commensuration|通约]]规则与资本流动如何规定了行动者的可能性边界”。
 > - **对比较与[[International Education|国际教育]]研究的启示** 彻底打破以单个国家为天然[[Unit of Analysis|分析单位]]的[[Methodological Nationalism|方法论民族主义]]，追踪知识、政策概念、人才、资金与象征资本在跨国[[Space of Flows|流动空间]]中的生成、转译与落地变异。

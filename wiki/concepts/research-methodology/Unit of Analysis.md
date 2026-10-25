@@ -131,7 +131,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -202,7 +202,7 @@ updated: 2026-10-22
 > - **命题单位（Propositional units）** 按照特定的命题结构或完整的因果/判断性陈述界定（包含主谓宾的独立判断）。
 > - **主题单位（Thematic units）** 围绕特定核心概念或[[Empiricism|经验论]]述展开的连贯文本组合，通常跨越句法边界但保持意义完整。
 
-> [!info] 意义单位与单位化（Unitizing）
+> [!concept-lens] 意义单位与单位化（Unitizing）
 > 林肯（[[Yvonna S. Lincoln]]）与古巴（[[Egon G. Guba]]）指出，质性分析的首要任务是实施单位化（unitizing）过程：研究者将原始转录文本切分成各自具备独立完整意涵的“意义单位（meaning unit）”，要求每个单位在脱离上下文时仍可被独立理解，作为后续范畴归纳的基本构件（Lincoln & Guba, 1985；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 565]]）。
 
 > [!logic-map]- 三层分析单位嵌套与[[Multi-phase Sampling|多阶段抽样]]机制

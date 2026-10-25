@@ -14891,8 +14891,6 @@
     "Maqsud, 1998": "Maqsud, 1998",
     "Marblestone et al. (2020)": "Marblestone et al., 2020",
     "Marblestone et al., 2020": "Marblestone et al., 2020",
-    "Marcel Mauss (1934)": "Marcel Mauss, 1934",
-    "Marcel Mauss, 1934": "Marcel Mauss, 1934",
     "March & Olsen (1989)": "March & Olsen, 1989",
     "March & Olsen, 1989": "March & Olsen, 1989",
     "March (1991)": "March, 1991",
@@ -47199,6 +47197,7 @@
         "wiki/concepts/educational-leadership-administration/Cult of the Guru.md",
         "wiki/concepts/sociology-of-education/Cultural Disembedding.md",
         "wiki/concepts/sociology-of-education/Doxa.md",
+        "wiki/concepts/sociology-of-education/Habitus.md",
         "wiki/concepts/sociology-of-education/Ontological Complicity.md",
         "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
       ],
@@ -47344,6 +47343,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Zheng_2023_ShanghaiSanlian/Argument_Zheng_2023_ShanghaiSanlian.md",
+        "wiki/concepts/sociology-of-education/Habitus.md",
         "wiki/concepts/sociology-of-education/The Shock of the Elite.md"
       ],
       "title": ""
@@ -134732,21 +134732,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/science-policy/Focused Research Organization.md"
-      ],
-      "title": ""
-    },
-    "Marcel Mauss, 1934": {
-      "aliases": [
-        "Marcel Mauss, 1934",
-        "Marcel Mauss (1934)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Marcel Mauss, 1934"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/sociology-of-education/Habitus.md"
       ],
       "title": ""
     },

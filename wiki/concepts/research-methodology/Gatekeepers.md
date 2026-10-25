@@ -120,7 +120,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -186,7 +186,7 @@ Bogdan and Biklen（1992）提出了把关人在审查研究方案时核心关�
 > 4. **适当信息披露** 提供研究目标与程序的充分信息，在避免结果偏倚的前提下保持程序透明。
 > 5. **持续维护人际关系** 准入是一个连续的动态过程而非一次性交易（Walford, 2001, p. 31），入场后仍须持续维护与把关人的专业互信。
 
-> [!info] Bell (1991) 的准入保证框架
+> [!guidelines] Bell (1991) 的准入保证框架
 > 研究者在准入阶段可向把关人提供六项基本保证（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 86–87]]）：
 > 1. 所有参与者必须享有完全匿名的权利
 > 2. 采集的所有原始数据必须严格保密

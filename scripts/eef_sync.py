@@ -59,9 +59,9 @@ MAPPING = {
     "summer-schools": "Summer School", "teaching-assistant-interventions": "Teaching Assistant",
     "within-class-attainment-grouping": "Within-Class Grouping",
     "ey:communication-and-language-approaches": "Oral Language Interventions",
-    "ey:earlier-starting-age": "Preschool Education Programs", "ey:extra-hours": "Preschool Education Programs",
+    "ey:earlier-starting-age": "Early Education Starting Age", "ey:extra-hours": "Extra Hours in Early Education",
     "ey:early-literacy-approaches": "Early Literacy Approaches", "ey:early-numeracy-approaches": "Early Numeracy Approaches",
-    "ey:parental-engagement": "Parental Involvement in Education", "ey:physical-development-approaches": "Perceptual-motor Programs",
+    "ey:parental-engagement": "Parental Involvement in Education", "ey:physical-development-approaches": "Physical Development Approaches",
     "ey:play-based-learning": "Play Programs", "ey:self-regulation-strategies": "Self-Regulated Learning",
     "ey:social-and-emotional-learning-strategies": "Social-Emotional Learning",
 }
@@ -73,6 +73,9 @@ NEW_ENTRY = {  # title -> (folder, Chinese alias)
     "Small Group Tuition": ("instruction-pedagogy", "小组辅导"),
     "Early Literacy Approaches": ("curriculum", "早期读写教学"),
     "Early Numeracy Approaches": ("curriculum", "早期数学教学"),
+    "Early Education Starting Age": ("educational-leadership-administration", "早期教育起始年龄"),
+    "Extra Hours in Early Education": ("educational-leadership-administration", "早期教育在园时长"),
+    "Physical Development Approaches": ("curriculum", "早期身体发展教学"),
 }
 OVERVIEW_FIELDS = ["imp", "cost", "evi", "n", "smd", "ci", "i2"]
 FIELD_ZH = {"imp": "影响（月）", "cost": "成本", "evi": "证据强度", "n": "研究数", "smd": "合并效应量", "ci": "95% 置信区间",
@@ -469,7 +472,7 @@ def cmd_render(args, data=None) -> int:
             by_entry.setdefault(e, []).append(slug)
     for path in (ROOT / "wiki").rglob("*.md"):
         rel = path.relative_to(ROOT).as_posix()
-        if rel not in by_entry and "templates" not in path.parts and "\n> [!eef] " in path.read_text(encoding="utf-8"):
+        if rel not in by_entry and "templates" not in path.parts and re.search(r"\n> \[!eef(?:\|[^\]]*)?\] ", path.read_text(encoding="utf-8")):
             by_entry[rel] = []
     stale = []
     for rel, slugs in sorted(by_entry.items()):
@@ -536,8 +539,7 @@ def cmd_apply_mapping(args) -> int:
         else:
             print(f"mapping target missing: {slug} -> {title}", file=sys.stderr)
             continue
-        if rel not in data["strands"][slug]["entries"]:
-            data["strands"][slug]["entries"].append(rel)
+        data["strands"][slug]["entries"] = [rel]
     dump_json(DATA_JSON, data)
     print(f"stub entries created: {created}")
     return cmd_sync(argparse.Namespace(check=False))

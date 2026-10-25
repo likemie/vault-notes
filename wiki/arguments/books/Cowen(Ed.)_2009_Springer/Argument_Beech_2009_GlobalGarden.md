@@ -61,7 +61,6 @@ related_concepts:
   - "[[Categorical Funding]]"
   - "[[Sadler's Garden Metaphor]]"
   - "[[Discursive Closure]]"
-  - "[[Abstract]]"
 related_theories:
   - "[[Beech's Model of Discourse Circulation]]"
   - "[[Network Society]]"
@@ -106,7 +105,7 @@ title: "Argument_Beech_2009_GlobalGarden"
 argument_key: "Argument_Beech_2009_GlobalGarden"
 argument_display_title: "Who is Strolling Through The Global Garden? International Agencies and Educational Transfer"
 argument_kind: "book-chapter"
-argument_related_count: 68
+argument_related_count: 67
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -372,7 +371,7 @@ issuing_organization: ""
 > [!citation-card] 花园采撷物即便枯萎亦会改变本土生态
 > 我们需要理解各机构如何将其他行动者的抽象建议转化为互动且可持续的实践。正是由于在学校、教师进修学院、大学及其他以实践为基础的机构层面，全球教育[[Champ|场域]]中话语流通的实际效果才得以彰显。正如萨德勒所指出的，采撷来的枝叶在植入新土壤时或许无法转化为‘鲜活的植物’，但这绝不意味着毫无影响。即使是一株枯死的植物，也携带着能够改变生态系统的微生物；作为比较教育学者，我们必须理解漫步在全球花园中的新孩子们正在如何影响我们的花园。（p. 356）
 >
-> *We need to understand how institutions transform the [[Abstract]] recommendations of other actors into interactive and sustainable practices... Probably, as Sadler noted, the gathered cuttings will not transform into a ‘living plant’ when they are implanted in a new soil, but that doesn’t mean that there are no effects. Even a dead plant carries micro organisms that can alter an ecosystem, and as comparativists we need to understand how the new kids [[Sadler's Garden Metaphor|Strolling Through The Global Garden]] are affecting ours.*
+> *We need to understand how institutions transform the abstract recommendations of other actors into interactive and sustainable practices... Probably, as Sadler noted, the gathered cuttings will not transform into a ‘living plant’ when they are implanted in a new soil, but that doesn’t mean that there are no effects. Even a dead plant carries micro organisms that can alter an ecosystem, and as comparativists we need to understand how the new kids [[Sadler's Garden Metaphor|Strolling Through The Global Garden]] are affecting ours.*
 
 ---
 
