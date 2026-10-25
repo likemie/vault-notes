@@ -35,7 +35,8 @@ updated: 2026-10-21
 | 形态 | 组件 | 设计 |
 | --- | --- | --- |
 | 文档型 | claim、warrant、def、citation-card、theory-proposition、question、implication、conclusion、case | 纸面底 + 左侧 3px 色轨；warrant 段首为衬线斜体 *because*；citation-card 原文用衬线斜体缩进；question 正文改衬线；case 条目以发丝线分隔、标签为强调色引导词 |
-| 提示型 | note、info、tip、success、warning、example、abstract、danger 等 | Notion 式色调底 + 同色细框；图标 + 标题一行，不再重复英文徽章 |
+| 提示型 | note、info、tip、success、warning、abstract、danger 等 | Notion 式色调底 + 同色细框；图标 + 标题一行，不再重复英文徽章 |
+| 示例 | example | 纸面底 + 发丝框，眉标 EXAMPLE · 示例 + 衬线标题；只放举例、情境案例与示范，不放原文图表（图片用 `[!figure]-`）；可折叠 `-`，`\|notitle` 时只显示眉标 |
 | 引文/目录 | quote、index-list | quote 无底色、细竖线、衬线斜体；index-list 中性细框、紧凑列表 |
 | 卡片网格 | concept-lens、feature、actor-grid、person-profile、stat-cards、finding-cards、evidence-grid、critique、dimension、policy-* / method-* / *-context 等 | 纸面容器 + 白卡 + 发丝线；卡片小标题用强调墨色；stat-cards 为大号等宽数字；finding-cards 衬线编号；critique / evidence 编号移到右上角 |
 | 表格面板 | entry-map、ref-table、contrast-table、row-contrast、ma-table、framework-table、method-panel、sample-panel 等 | 纸面容器 + 白底细框表格，表头灰阶小字，只留横向分隔线 |
