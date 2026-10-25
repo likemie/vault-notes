@@ -229,5 +229,6 @@ updated: 2026-10-22
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 采用多案例制度与财务报表追踪设计，深度解构跨国出版商、[[Educational Management Organisation|教育管理组织]]与慈善基金会等六大机构的隐性私有化机制。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 采用探索性比较案例研究设计，对比“[[Belt and Road Initiative|一带一路]]”框架下[[University Alliance of the Silk Road|丝绸之路大学联盟]]与[[Asian Universities Alliance|亚洲大学联盟]]在组织治理、准入门槛与资助模式上的制度异同与地缘战略逻辑（pp. 1698–1699）。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 采用叙事案例研究设计，通过[[Purposeful Sampling|目的性抽样]]选取三所丝绸之路大学联盟高校，运用跨案例分析评估高校在“一带一路”重点能源与基建合作中的[[Knowledge Diplomacy|知识外交]]实践。
+> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 采用定性案例研究（Case Study）设计，结合半结构化访谈与政策文本分析，深入解构中柬高等教育合作项目中软实力资源的当代变迁。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 采用定性案例研究设计，结合文档分析、机构数据与针对中柬高教项目 40 位受访者的半结构化访谈，评估新朝贡分析视角的解释效力。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 采用斯塔克式工具性个案研究，以[[Swedish Schools Inspectorate|瑞典学校督察局]]为总体个案，内嵌常规督导与质量审计两个迷你个案，结合 12 次半结构化访谈、两次内部会议观察与机构文件，追踪教育研究如何进入督导标准与报告（pp. 642–657）。

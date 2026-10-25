@@ -231,6 +231,7 @@ updated: 2026-10-22
 > - **2024 — 全球量化规制转型：“[[Soft Power by Hard Facts|以硬事实施展软权力]]”** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] 提出数字治理 2.0 框架，揭示经合组织与世界银行如何以量化指标为硬事实行使跨国软权力，将客观数据作为政策中介工具实现远处规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 537–538)]]
 > - **2022 — 高等教育作为对外影响工具的体系化投射** [[Argument_Velasco_2022_CSJ|Velasco (2022)]] 考察中国对东南亚的高等教育外交，确立了留学生扩招（校友效应与准外交中介）、境外办学分校与孔子学院三大支柱，揭示软实力投射与南海领土争端等地缘政治张力的共存困境。
 > - **2023 — [[South-South Cooperation|南南合作]]与[[Education Going Global|高教出海]]的经济依附解构** [[Argument_Woo_2023_HEP|Woo (2023)]] 将[[Critical Discourse Analysis|批判性话语分析]]引入[[Belt and Road Education Action Plan|“一带一路”教育行动]]，揭示非西方新兴大国在高等教育软实力投射中对经济[[Hard Power|硬实力]]诱因的深度寄生，拓展了软实力在外围国家落地面临的脆弱性与民意反弹机制。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
+> - **2023 — 教育软实力分析框架与新兴软实力资源** [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] 整合教育软实力运作机制与五维软实力模型，基于中柬高教项目 40 位关键受访者的案例研究，识别出当代生活吸引力、科技能力跃进、理工科教育声誉与经济发展模式四项新兴软实力资源。[[Argument_Zhu_Yang_2023_HEP|(Zhu & Yang, 2023, pp. 638–640, 651–653)]]
 > - **2025 — 战略现实主义与算法时代的反思** 科技[[Geopolitics|地缘政治]]研究（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska, 2025]]）重新审视软[[Hard Power|硬实力]]的辩证关系，指出在 21 世纪大国博弈中，仅靠道义吸引力的软实力无法自发维持自由民主秩序，软实力必须与以代码和算法为核心的[[Hard Power|硬实力]]深度嵌套，重构[[Technological Republic|技术共和国]]的战略威慑。
 > - **2025 — 软硬实力混合架构与[[Cultural Recognition|文化认同探索]]** [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] 结合中柬跨境高等教育实证，批判将对外拓展割裂为软实力与硬实力二元对立的传统视角，指出大学在[[Pragmatic Paradigm|实用主义]][[Chinese Exceptionalism|中国例外论]]中兼具展示科技卓越与提供礼遇关照的双重职能，跨国高教交流的实质在于探索当代国家治理经验的文化认同，而非传统软实力理论所预设的单向文化同化。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1043–1044, 1050–1051)]]
 
@@ -270,6 +271,7 @@ updated: 2026-10-22
 > | **日本学力低下论争与课程改革** | 经合组织（OECD）：PISA 排名与数据权威 | PISA 2003 日本阅读位次自第 8 位滑落至第 14 位，数学自第 1 位跌至第 6 位 | 日本中央教育行政部门借助国际排名下滑借题发挥，废止“宽裕教育”大纲并压制教师工会阻力 | [[Argument_Niemann_Martens_2018_GSP\|(Niemann & Martens, 2018)]] |
 > | **全球南方多边教育借用** | 世界银行与经合组织：SABER 工具箱与跨国指标 | 覆盖全球 100 余个低收入与中等收入国家的教育投入与师资绩效基准数据库 | 主权国家在无硬性贷款附加条件要求下，自愿依照国际常模对齐本国师资认证标准 | [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b)]] |
 > | **“一带一路”沿线高等教育合作** | 中国政府奖学金与校企涉外联合办学 | 沿线留学生中超过 60% 依赖中国国家或省部级专项奖学金资助；学业选择高度集中于经贸工程应用学科 | 软实力吸引力受宏观经济增长预期与就业红利强绑定，在当地草根社会面临可持续认同考验 | [[Argument_Woo_2023_HEP\|(Woo, 2023)]] |
+> | **中柬高教项目综合拓展** | 语言培训、高教援助、留学生流动与校际合作 | 访谈 40 名关键知情人；工程生比例自 8.55% 升至 16.69%，语言生自 55.74% 降至 37.68% | 识别出当代生活方式、科技突破、理工科教育声誉与经济发展模式四项新兴软实力资源 | [[Argument_Zhu_Yang_2023_HEP\|(Zhu & Yang, 2023)]] |
 > | **中柬跨境高等教育联合示范** | 综合性大学跨国分校与澜湄科技交流工坊 | 柬埔寨受援高校工程学科建设中中方师资与实验室设备占比逾 70% | 超越单向文化同化，在共建经贸走廊中实现科技卓越展演与国家发展治理经验的互构认同 | [[Argument_Zhu_Yang_2025_HE\|(Zhu & Yang, 2025)]] |
 > | **南亚与中亚教育公共外交** | 中国官方：251 项教育援助、35.8 万个奖学金名额、65 所孔子机构、高校全英文授课 | 52% 人文触点集聚于 16 个核心城市；86% 精英不会汉语但 64% 出于经贸就业意愿期望提升 | 创造实用技能红利但未能转化为深层政治互信，在地缘军事摩擦与族群政治敏感面前极为脆弱 | [[Argument_Custer_2021_AidData\|(Custer et al., 2021)]] |
 > | **东南亚高教外交与软实力指标** | 中国教育部、孔子学院与高校境外分校 | 2018 年东南亚在华留学生约 8 万人，设立 31 所孔院与厦大马校等；Soft Power 30 指数排第 27 位（文化/参与高但教育下滑） | 触发短期校友积极情感与长期准外交中介，但受南海领土争端与地缘历史戒心制约面临转化阻滞 | [[Argument_Velasco_2022_CSJ\|(Velasco, 2022)]] |
@@ -281,6 +283,7 @@ updated: 2026-10-22
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 提出[[Governing by Numbers|数字治理]] 2.0 框架，深度解构经合组织与[[World Bank|世界银行]]如何以量化指标为硬事实行使跨国软权力，实现[[Policy Brokerage|政策中介]]与远处规制。
 > - [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]] — 系统检视[[Geopolitics|地缘政治]]视域下跨境高等教育的软实力理论演化，批判其民族国家中心主义与零和博弈局限，提出[[Knowledge Diplomacy|知识外交]][[Paradigm|范式]]转型。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 基于[[Cultural Political Economy|文化政治经济学]]与[[Critical Discourse Analysis|批判话语分析]]，实证解构中国“[[Belt and Road Initiative|一带一路]]”高等[[Education Going Global|教育出海]]的软实力投射机制，揭示其对经济硬实力诱因的依附性及其在地缘博弈中的结构脆弱性。
+> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 整合教育软实力机制与五维模型考察中柬高教拓展，识别当代生活吸引力、科技能力、理工科声誉与经济发展模式四项新兴资源。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 论证 [[PISA]] 跨国学业测评如何充当[[OECD|经合组织]]软治理的核心工具，通过确立国际[[Reference Society|模范社会]]实现超国家教育政策趋同。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp and Zamiska (2025)]] — 阐释软实力作为国际权力必要非[[Necessary and Sufficient Conditions|充分条件]]的现实主义命题，批判脱离软件[[Hard Power|硬实力]]的[[Winner's Fallacy|胜者自满]]。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 实证检验东南亚跨境高教输出，指出传统软实力透镜难以解释经贸外交、科技展演与治理经验认同交织的微观机制，倡导将[[Neo-Tributary Perspective|新朝贡视角]]与[[Tianxia Heuristic|天下启发式]]及知识外交范式深度整合。

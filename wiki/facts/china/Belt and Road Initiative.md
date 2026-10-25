@@ -194,6 +194,7 @@ updated: 2026-10-22
 > | [[Comparative Case Study]] | Method | 学界用于实证比较一带一路框架下[[Multi-University\|多元大学]]联盟治理异同的[[Qualitative Research\|质性研究]]方法。 |
 > | [[Argument_Liu_2025_IndHE\|Liu et al. (2025)]] | Argument | 采用叙事[[Case Study\|案例研究]]系统评估中国行业特色高校在“一带一路”重点能源与交通工程中开展知识外交与四方协同定向培养的实证文献。 |
 > | [[Argument_King_2020_ECNUROE\|King (2020)]] | Argument | 剖析[[Forum on China-Africa Cooperation\|中非合作论坛]]与“一带一路”教育行动深度交织及多边教育互联互通机制的实证文献。 |
+> | [[Argument_Zhu_Yang_2023_HEP\|Zhu and Yang (2023)]] | Argument | 结合中柬高教个案实证揭示“一带一路”作为催化剂，在经贸投资拉动下放大现代生活、前沿科技与发展模式等软实力资源的机制。 |
 > | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 基于新朝贡与[[Tianxia Heuristic\|天下观]]视角实证评估“一带一路”东南亚高教合作网络成效与基建/文教投入失衡张力的代表性文献。 |
 > | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | Argument | 实证测度“一带一路”南亚与中亚走廊金融外交体量、教育与公共外交协同布局及精英/大众民意张力的代表性文献。 |
 > | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 结合区域自贸与全面战略伙伴关系大局，系统论述共建“一带一路”走廊下职业教育高水平开放的四级政策链条与产教生态协同路径（pp. 286–301）。 |
@@ -204,6 +205,7 @@ updated: 2026-10-22
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 探讨外向型高教国际化与国家地缘倡议协同演进的代表性研究。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 比较大众开放型（UASR）与精英排他型（AUA）跨国大学联盟的知识外交与知识权力机制。
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 剖析中非合作论坛与“一带一路”教育行动深度交织及多边教育互联互通机制。
+> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 实证揭示“一带一路”经贸与基建投资作为催化剂，放大高等教育领域新兴软实力资源的传导机制。
 > - [[Argument_Liu_2025_IndHE|Liu et al. (2025)]] — 针对中亚天然气管道等重大基建工程开展政产学研四方协同工程人才定向培养的实证文献。
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] — 实证评估“一带一路”东南亚高教合作网络成效与基建/文教投入失衡张力。
 > - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 实证测度“一带一路”南亚与中亚走廊金融外交体量、教育公共外交协同布局及精英/大众民意张力。
