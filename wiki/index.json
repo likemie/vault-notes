@@ -26650,6 +26650,16 @@
     ]
   },
   {
+    "title": "Rui Yang",
+    "type": "person",
+    "path": "wiki/persons/china/Rui Yang.md",
+    "aliases": [
+      "杨锐",
+      "Yang Rui",
+      "Yang, R."
+    ]
+  },
+  {
     "title": "Suyan Pan",
     "type": "person",
     "path": "wiki/persons/china/Suyan Pan.md",
@@ -32746,6 +32756,17 @@
     "aliases": [
       "鲁班工坊",
       "Luban Workshops"
+    ]
+  },
+  {
+    "title": "MOFCOM Scholarship",
+    "type": "fact",
+    "path": "wiki/facts/china/MOFCOM Scholarship.md",
+    "aliases": [
+      "商务部奖学金",
+      "商务部援外奖学金",
+      "中华人民共和国商务部奖学金",
+      "MOFCOM Scholarship Program"
     ]
   },
   {

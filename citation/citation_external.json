@@ -25320,6 +25320,7 @@
     "Yang (2016a)": "Yang, 2016a",
     "Yang (2016b)": "Yang, 2016b",
     "Yang (2017)": "Yang, 2017",
+    "Yang (2018)": "Yang, 2018",
     "Yang et al. (2018a)": "Yang et al., 2018a",
     "Yang et al. (2018b)": "Yang et al., 2018b",
     "Yang et al. (2019)": "Yang et al., 2019",
@@ -25353,6 +25354,7 @@
     "Yang, 2016a": "Yang, 2016b",
     "Yang, 2016b": "Yang, 2016b",
     "Yang, 2017": "Yang, 2017",
+    "Yang, 2018": "Yang, 2018",
     "Yannier et al. (2020)": "Yannier et al., 2020",
     "Yannier et al., 2020": "Yannier et al., 2020",
     "Yanow (2000)": "Yanow, 2000",
@@ -210215,7 +210217,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Chinese Studies Journal/Argument_Velasco_2022_CSJ.md",
         "wiki/concepts/political-economy-geopolitics/Educational Soft Power.md",
-        "wiki/concepts/political-economy-geopolitics/Para-Diplomatic Roles.md"
+        "wiki/concepts/political-economy-geopolitics/Para-Diplomatic Roles.md",
+        "wiki/persons/china/Rui Yang.md"
       ],
       "title": ""
     },
@@ -210302,6 +210305,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Chinese Studies Journal/Argument_Velasco_2022_CSJ.md"
+      ],
+      "title": ""
+    },
+    "Yang, 2018": {
+      "aliases": [
+        "Yang, 2018",
+        "Yang (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Yang, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/china/Rui Yang.md"
       ],
       "title": ""
     },
