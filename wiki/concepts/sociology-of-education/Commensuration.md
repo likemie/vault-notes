@@ -64,7 +64,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -112,7 +112,7 @@ updated: 2026-10-22
 > - **跨国“[[Space of Equivalence|等值空间]]”（Space of Equivalence）与[[Reliability|信度]]优先逻辑**
 >   [[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）与[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）、[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，在[[OECD]]主导的[[PISA]]等跨国大规模测评中，通约机制凭空创造出一个全球可比较的“等值空间”；为此，测量专家在方法论上将跨国信度（reliability）与可比性置于[[Construct Validity|构念效度]]（[[Construct]] validity）与[[Ontology|本体论]][[Heterogeneity|异质性]]之上，使复杂的价值决断隐形化[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 447–448)]]。
 > - **超国家软治理的基石**
->   [[Argument_Grek_2009_JEdPolicy|Grek (2009, p. 25)]] 指出，通约不仅是量化操作，更是构建跨国比较接口的政治技术；它通过将各国异质教育传统折算为单一通用标尺，使国际组织在没有法定管辖权的前提下建立起政策协调与排位权威。
+>   [[Argument_Grek_2009_JEdPolicy|Grek (2009, p. 25)]] 与[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等（2021）]]指出，通约不仅是量化操作，更是构建跨国比较接口的政治技术；它与去背景化、政策导向并列为经合组织树立跨国评价权威的三大技术支柱，通过将各国异质教育传统折算为单一通用标尺，在缺乏法定行政管辖权的情境下建立起强大的政策协调与排位权威。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -228,3 +228,4 @@ updated: 2026-10-22
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合等值空间理论，剖析经合组织如何通过 PISA 制造全球通约测量标尺并在方法上以信度压倒构念效度。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 揭示经合组织如何通过通约技术构建等值空间，将异质教育传统化约为通用标尺以实现跨国软治理。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判可见学习以效应量为公分母将多元教育过程通约化，阐明数量通约对师生具身关系与漫长教化过程的遮蔽。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 将跨国通约性界定为 PISA 规制权威的三大技术支柱之一，揭示其依托等价空间排位将新自由主义绩效治理包装为中立测量事实的机制。

@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-06
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -109,7 +109,7 @@ updated: 2026-10-25
 > - **外化的双向对称性（Dual Directions of Externalization）** 外化不仅表现为改革派“外化到世界趋势”（如借助 [[PISA]] 危机叙事丑闻化本国现状以推动改革），同样表现为保守派“外化到本国历史与文化传统”（如强调本国教育传统的独特性以抵制外部干预）。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, pp. 230–232)]]
 > - **情境的进化与语义双层结构（Two-Level Structure of Context）** 严格区分不受个体意志支配的“更广阔世界客观变化（进化过程）”，与行动者依托话语策略将特定事件包装为危机的“语义建构过程”（Schriewer & Martinez, 2004）。
 > - **[[Transfer Space|转移空间]]中的动员契机（Timing and Catalysts in Transfer Space）** 本土长期体制僵局、政党更迭、摆脱历史包袱以及外援财政依赖，是促使决策者高调动员外部参照的核心政治经济催化节点。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 540, 546)]]
-> - **治理指标的策略性外在化（Strategic Mobilisation of Global Metrics）** 跨国大规模评估排位充当国内精英协调政治改革的免责护盾，将国内争议置换为对国际科学事实的客观遵从。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 34–35)]]
+> - **治理指标的策略性外在化（Strategic Mobilisation of Global Metrics）** 跨国大规模评估排位充当国内精英协调政治改革的免责护盾，将国内争议置换为对国际科学事实的客观遵从；施瑞尔（Schriewer, 2000）与[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等（2021）]]进一步揭示，在本土政策系统深陷信任危机或党派对抗时，自我参照无法化解僵局，决策者必然诉诸全球化语义与模范社会借用来重塑改革正当性。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 34–35)]]; （[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等, 2021]]）
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -208,3 +208,4 @@ updated: 2026-10-25
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, p. 93)]] — 阐述施里韦尔在柏林洪堡大学结合[[Niklas Luhmann|卢曼]][[Autopoiesis|自创生]]理论与[[World-Systems Theory|世界体系理论]]创立“向世界参照外化”比较[[Paradigm|范式]]的学术史背景。
 > - [[American Attraction to Japanese Education 1980s]] — 20 世纪 80 年代美国借由外化日本学校管理模式来推动国内标准与问责改革的经典案例。
 > - [[Late Qing Borrowing of Japanese Education]] — 清末新政时期朝野精英借由外化明治维新教育制度来化解保守派阻力的历史实证。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 结合卢曼与施瑞尔的系统论外部化机制，剖析多国决策层在政治信任危机下如何启动外部化策略，诉诸全球化语义与模范社会来化解本土政治僵局。

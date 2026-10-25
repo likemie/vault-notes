@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -102,7 +102,7 @@ updated: 2026-10-23
 > - **共享规范与原则性信念（Shared Principled Beliefs）** 共同体成员对所涉领域的价值取向拥有高度共识（如[[OECD|经合组织]]认知共同体坚信教育首要服务于[[Knowledge-Based Economy|知识经济]]与[[Competitiveness|国家竞争力]]）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–445)]]
 > - **共享因果信念模型（Shared Causal Beliefs）** 对政策问题成因与解决路径拥有共同的理论推导框架（如将[[Academic Achievement|学业成绩]]与[[Human Capital Theory|人力资本]]、[[Lifelong Learning|终身学习]]与经济繁荣直接挂钩）。
 > - **共享效度检验标准（Shared Notions of Validity）** 采用同一套评价何为“有效证据”的[[Epistemology|认识论]]准则（如排他性推崇大样本[[Random Sampling|随机抽样]]、[[Item Response Theory|项目反应理论]][[Item Analysis|试题分析]]与跨国量化[[Space of Equivalence|等值空间]]）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–447)]]
-> - **共同政策介入企图（Common Policy Enterprise）** 致力于将专业学术见解系统转化为政府决策细则与跨国行动指南。
+> - **共同政策介入企图（Common Policy Enterprise）** 致力于将专业学术见解系统转化为政府决策细则与跨国行动指南（Haas, 1992；[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等, 2021]]）。
 
 ---
 
@@ -175,3 +175,4 @@ updated: 2026-10-23
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 444, 451)]] — 揭示[[OECD|经合组织]]如何构筑跨国统计与评测认知共同体，将技术测量升格为全球教育的自主议程权力。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 197–201)]] — 追踪经合组织在 [[PISA]] 与 [[OECD AHELO Project|AHELO]] [[Test Production|试题研发]]早期聚合跨国心理测量学家与学科专家组建认知共同体，将脱离具体课程的情境素养固化为全球测评微观规程。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026, pp. 341–343, 347–348)]] — 分析经合组织、[[UNESCO|联合国教科文组织]]与世界银行顾问小组等超国家守门机构如何依托认知共同体界定证据层级、建构证据文化与合法动员机制。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 结合哈斯理论阐述超国家教育认知共同体的四大支柱，揭示经合组织如何依托跨国认知共同体将 PISA 测评与经济产出相绑定以施加全球规范趋同压力。
