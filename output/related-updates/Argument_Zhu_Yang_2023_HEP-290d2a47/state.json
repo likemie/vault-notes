@@ -114,7 +114,7 @@
     },
     {
       "number": 4,
-      "status": "pending",
+      "status": "done",
       "type": "person",
       "template": "wiki/templates/template-person.md",
       "entries": [
@@ -131,11 +131,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-25T16:16:36.719106+00:00"
     },
     {
       "number": 5,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-program.md",
       "entries": [
@@ -168,11 +169,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-25T16:19:08.851915+00:00"
     },
     {
       "number": 6,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-organization.md",
       "entries": [
@@ -202,7 +204,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-25T16:21:01.521632+00:00"
     }
   ]
 }

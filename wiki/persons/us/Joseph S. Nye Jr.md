@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -107,6 +107,7 @@ updated: 2026-10-22
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp and Zamiska (2025)]] — 结合美国科技与防务战略，反思脱离硬实力支撑而单方面夸大软实力自足性所导致的[[Winner's Fallacy|赢家谬误]]。
 > - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 运用约瑟夫·奈的软实力理论，全景测度中国在南亚与中亚 13 国通过教育援助、留学生奖学金、全英文授课与孔子学院构建社会纽带的战略成效与转化困境（pp. 14, 20, 72–75）。
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 考察中国对约瑟夫·奈软实力理论的本土化重塑，揭示防御性文化软实力（ruan shili）与进取性国家软权力（ruan quanli）的制度分化，以及高教外交在东南亚面临的地缘安全转化阻滞（pp. 73–78, 85–86）。
+> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 拓展约瑟夫·奈传统的三要素框架，实证检验跨境高等教育中经济发展模式与前沿科技作为新型软实力吸引资源的效能与在地治理挑战。
 
 ---
 
