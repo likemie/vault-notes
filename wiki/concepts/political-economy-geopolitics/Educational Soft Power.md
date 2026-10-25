@@ -7,7 +7,7 @@ aliases:
 summary: "在国际关系与比较教育视域下，主权国家通过学术声誉、价值传播与外交工具三大机制，将高等教育国际化资源转化为塑造他者认同与政策偏好的非强制性权力形态"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,10 +17,22 @@ tags:
   - theme/soft-power
   - theme/higher-education
   - theme/geopolitics
+related_concepts:
+  - "[[Soft Power]]"
+  - "[[Educational Diplomacy]]"
+  - "[[Knowledge Diplomacy]]"
+related_persons:
+  - "[[Joseph S. Nye Jr.]]"
+  - "[[Jane Knight]]"
+related_arguments:
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
+  - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Woo_2023_HEP]]"
 confidence: high
 status: draft
 created: 2026-10-25
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

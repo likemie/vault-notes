@@ -11,9 +11,9 @@ subtype: event
 region: eu
 fact_region: "eu"
 fact_kind: "event"
-fact_related_count: 21
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 39
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
 tags:
   - region/eu
@@ -23,27 +23,45 @@ tags:
   - theme/knowledge-economy
   - theme/governance
 related_concepts:
+  - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Open Method of Coordination]]"
-  - "[[Competitiveness]]"
   - "[[Governing by Numbers]]"
   - "[[Subsidiarity Principle]]"
+  - "[[Total War]]"
+  - "[[Lifelong Learning]]"
   - "[[European Education Space]]"
   - "[[Performance Indicators]]"
+  - "[[State Educational Sovereignty]]"
+  - "[[Mutual Learning]]"
+  - "[[Paradigm]]"
+  - "[[Peer Pressure]]"
   - "[[Externalization]]"
+  - "[[Data Infrastructure]]"
+  - "[[Discursive Field]]"
+  - "[[Soft Power]]"
   - "[[Policy Borrowing]]"
-related_theories: []
-related_methods: []
+  - "[[Theoretical Perspective]]"
+related_theories:
+  - "[[Human Capital Theory]]"
+related_methods:
+  - "[[Systematic Review]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Sotiria Grek]]"
 related_facts:
   - "[[EU]]"
   - "[[OECD]]"
+  - "[[European Commission]]"
   - "[[International Indicators of Education Systems]]"
   - "[[PISA]]"
   - "[[UNESCO]]"
-  - "[[Europe 2020 Strategy]]"
+  - "[[UOE Data Collection]]"
   - "[[Australian Council for Educational Research]]"
+  - "[[Eurydice]]"
+  - "[[Peer-Learning Activities]]"
+  - "[[Europe 2020 Strategy]]"
+  - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Li_2025_HSSC]]"

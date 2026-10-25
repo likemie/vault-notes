@@ -53,8 +53,8 @@ related_persons:
   - "[[Horace Mann]]"
   - "[[Victor Cousin]]"
 related_facts:
-  - "[[Common School Movement]]"
   - "[[National Education]]"
+  - "[[Common School Movement]]"
   - "[[Guizot Law of 1833]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
   - "[[Report on the State of Public Instruction in Prussia]]"

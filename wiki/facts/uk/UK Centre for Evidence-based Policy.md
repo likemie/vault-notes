@@ -8,7 +8,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 6
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -22,7 +22,9 @@ related_concepts:
   - "[[What Works Movement]]"
   - "[[Evidence-Based Education]]"
 related_facts:
+  - "[[Economic and Social Research Council]]"
   - "[[EPPI-Centre]]"
+  - "[[UK Research and Innovation]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
 confidence: medium

@@ -9,7 +9,7 @@ aliases:
 summary: "解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学新制度主义理论，阐明组织趋同源于对制度合法性与合理化神话的追求而非纯粹的技术效率"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 38
+theory_related_count: 39
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -54,6 +54,7 @@ related_persons:
   - "[[Stanford School]]"
   - "[[John W. Meyer]]"
 related_facts:
+  - "[[Department for Education]]"
   - "[[Committee for the Accreditation of Teacher Education]]"
   - "[[Ofsted]]"
   - "[[National Research and Resource Facility for Submicron Structures]]"

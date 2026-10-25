@@ -8,10 +8,10 @@ aliases:
 summary: "欧洲教育空间是指在欧洲一体化与超国家治理进程中，由欧盟委员会与OECD通过数据基础设施、资格框架、开放协调机制以及学术流动项目共同建构的功能性与象征性治理空间；该概念打破了将欧洲教育视为单一主权国家集合的地理假定，揭示了数据互认与跨国流动如何既建构出共同的欧洲公民身份想象，又在后发成员国亲欧修辞对标下掩盖主权防御与学术近亲繁殖。"
 type: concept
 domain: "comparative-education"
-related_count: 42
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 51
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - europe
   - education-governance
@@ -25,14 +25,18 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Open Method of Coordination]]"
   - "[[Employability]]"
+  - "[[Social Imaginary]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Lifelong Learning]]"
   - "[[Performance Indicators]]"
   - "[[Governing by Numbers]]"
+  - "[[Subsidiarity Principle]]"
+  - "[[Soft Power]]"
   - "[[State Educational Sovereignty]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Avatar]]"
   - "[[Discourse]]"
+  - "[[Discursive Field]]"
   - "[[Student Mobility]]"
   - "[[Teacher Mobility]]"
   - "[[Plaintive Comparison]]"
@@ -42,9 +46,9 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Critical Pedagogy]]"
-  - "[[Social Imaginary]]"
   - "[[Variable]]"
 related_theories:
+  - "[[Governing at a Distance]]"
   - "[[Governmentality]]"
   - "[[Spatial Governmentality]]"
   - "[[Post-structuralism]]"
@@ -53,18 +57,23 @@ related_theories:
 related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
+  - "[[Elite Interview]]"
 related_instruments: []
 related_persons:
-  - "[[José Luis García Garrido]]"
   - "[[António Nóvoa]]"
+  - "[[José Luis García Garrido]]"
 related_facts:
   - "[[EU]]"
   - "[[OECD]]"
   - "[[Bologna Process]]"
   - "[[PISA]]"
+  - "[[World Bank]]"
+  - "[[UNESCO]]"
+  - "[[UOE Data Collection]]"
   - "[[Erasmus Programme]]"
   - "[[TEMPUS]]"
   - "[[Lisbon Strategy]]"
+  - "[[European Commission]]"
 related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
@@ -73,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

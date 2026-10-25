@@ -7,7 +7,7 @@ aliases:
 summary: "论辩推理模型中的基础认识论立场，视知识为绝对客观、存在唯一正确答案的事实；在人机共生学习中表现为将大模型视为确定性答案机而产生表面顺从与消极认知卸载。"
 type: concept
 domain: "educational-psychology"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,13 +35,14 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
   - "[[Argument_Wu_2025_ER]]"
   - "[[Argument_Kuhn_2000_CD]]"
+  - "[[Argument_Chinn_2011_EducPsychol]]"
 related_persons:
   - "[[Deanna Kuhn]]"
 related_methods:
   - "[[Chi-Squared Test]]"
 status: active
 created: 2026-08-15
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -96,7 +96,7 @@ updated: 2026-10-22
 > | 统一学校机器（Modern Schooling） | 制度化机制 | 国家通过统一课程与历史教科书将想象的共同体转化为代际传递的官方常识。 |
 > | 想象链接（Imagined Linkages） | 认知协作机制 | 突破[[Dunbar's Number\|邓巴数]]限制，使数百万陌生人能够围绕宏大国家工程协同攻坚。 |
 > | 情感民族边界（Emotional Nation Boundaries） | 政治文化防线 | 安德森界定的情感认同疆界；若放弃巡守该边界将导致公共空间被市场消费主义全面吞噬。 |
-> | 每日公民投票（[[Everyday Plebiscite\|Everyday Plebiscite]]） | 认同维系机制 | 勒南（Renan, 1882）提出的持续同意机制，构成想象共同体跨代际存续的活态根基。 |
+> | 每日公民投票（[[Everyday Plebiscite]]） | 认同维系机制 | 勒南（Renan, 1882）提出的持续同意机制，构成想象共同体跨代际存续的活态根基。 |
 > | [[Civic Rituals\|制造国家的公民仪式]]（Nation-Manufacturing Rituals） | 实践装置 | 兵役、公民教育、[[Civic Religion\|世俗公民宗教]]等维系陌生人间“想象亲密感”的实践纽带。 |
 
 ---

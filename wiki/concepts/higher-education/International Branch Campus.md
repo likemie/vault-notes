@@ -15,7 +15,7 @@ aliases:
 summary: "高等教育机构在母国境外部署全资或联合拥有的实体校园，提供全日制学位教育并冠以母校名称的跨境教育办学形态"
 type: concept
 domain: "higher-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -40,10 +40,11 @@ related_facts:
   - "[[Fudan University Budapest Campus]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Velasco_2022_CSJ]]"
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -9,7 +9,7 @@ aliases:
 summary: "由 Elliot Aronson（1978）开创、Robert Slavin 发展的角色互补型合作学习模式。通过任务信息不对称构建高度积极互赖，经历原属组分工、专家组研讨、原属组轮流传授与个体独立测评，实现学业提升、偏见消除与同伴支持。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -38,7 +38,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Jigsaw

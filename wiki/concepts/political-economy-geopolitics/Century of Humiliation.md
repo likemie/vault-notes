@@ -9,7 +9,7 @@ aliases:
 summary: "中国近现代政治与集体记忆中的核心历史创伤叙事，指代1840年至1949年受制于列强侵略的屈辱历程，构成了当代国家救亡图存、追求繁荣与实现民族复兴的深层心理机制与合法性根基"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -47,10 +47,11 @@ related_facts:
   - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Custer_2021_AidData]]"
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

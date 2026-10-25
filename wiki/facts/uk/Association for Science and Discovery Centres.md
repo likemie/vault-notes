@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 8
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 issuing_organization: Association for Science and Discovery Centres
 tags:
@@ -27,6 +27,9 @@ related_concepts:
   - "[[Informal Science Learning]]"
   - "[[Public Engagement with Science]]"
 related_facts:
+  - "[[Department for Education]]"
+  - "[[HM Treasury]]"
+  - "[[The Royal Society]]"
   - "[[The Social Value Model]]"
   - "[[Dippy on Tour]]"
 related_arguments:
@@ -64,7 +67,7 @@ updated: 2026-10-26
 > - **2. Valuing Inclusion [[Theory of Change]]（包容性变革理论与去中心化枢纽）**
 >   系统研制科学探索中心的包容性评价框架与变革路径理论，指导各成员场馆打破高[[Science Capital\|科学资本]]家庭的自选壁垒，主动走进欠发达社区、工薪阶层家庭与边缘群体，消除物理、经济与文化参与门槛。
 > - **3. 财税激励平权倡导（Tax Incentives Parity）**
->   协同[[Royal Society|英国皇家学会]]呼吁财政部修订税法，确保科学探索中心与科学节等非正式科学机构能够享受与国家美术馆、剧院及管弦乐团完全平等的剧场/展览税收减免（Theatre and Exhibition Tax Relief）政策，并在政府采购中全面落实 10% [[The Social Value Model\|社会价值模型]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 52)]]
+>   协同[[The Royal Society|英国皇家学会]]呼吁财政部修订税法，确保科学探索中心与科学节等非正式科学机构能够享受与国家美术馆、剧院及管弦乐团完全平等的剧场/展览税收减免（Theatre and Exhibition Tax Relief）政策，并在政府采购中全面落实 10% [[The Social Value Model\|社会价值模型]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 52)]]
 
 ---
 

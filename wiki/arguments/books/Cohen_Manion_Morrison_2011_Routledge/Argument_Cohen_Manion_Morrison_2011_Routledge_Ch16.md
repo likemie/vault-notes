@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_display_title: "Research Methods in Education · Ch16"
 argument_kind: "book-chapter"
-argument_related_count: 80
+argument_related_count: 81
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -74,7 +74,7 @@ related_concepts:
 related_theories:
   - "[[Complexity Theory]]"
 related_methods:
-  - "[[ABAB Design]]"
+  - "[[Single-Case Design]]"
   - "[[Design-Based Research]]"
   - "[[Internet-Based Experiments]]"
   - "[[Ex Post Facto Research]]"
@@ -100,6 +100,7 @@ related_methods:
   - "[[Repeated Measures Design]]"
   - "[[Non-Equivalent Control Group Design]]"
   - "[[Time Series Design]]"
+  - "[[ABAB Design]]"
   - "[[Internal Consistency]]"
   - "[[Longitudinal Study]]"
   - "[[Questionnaire]]"
@@ -124,7 +125,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-07-12
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 > [!knowledge-map] 第16章 [[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_16_Concept_Map.jpg)

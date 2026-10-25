@@ -12,9 +12,9 @@ subtype: policy
 region: spain
 fact_region: "spain"
 fact_kind: "policy"
-fact_related_count: 8
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: 西班牙王国政府
 tags:
@@ -25,6 +25,7 @@ tags:
   - theme/centralization
 related_concepts:
   - "[[Normal School]]"
+  - "[[School Finances]]"
   - "[[Comprehensive Education]]"
   - "[[Dual School System]]"
   - "[[State Educational Sovereignty]]"
@@ -35,6 +36,7 @@ related_instruments: []
 related_persons:
   - "[[José Luis García Garrido]]"
 related_facts:
+  - "[[National Education]]"
   - "[[General Act of Education of 1970]]"
 related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"

@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -35,6 +35,8 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[HM Treasury]]"
+  - "[[The Royal Society]]"
   - "[[The Social Value Model]]"
   - "[[Rothschild Report 1971]]"
 related_arguments:
@@ -77,7 +79,7 @@ updated: 2026-10-26
 > - **2003** 财政部全面改版绿皮书，正式引入社会[[Cost-Benefit Analysis|成本效益分析]]与全生命周期评估理念，并作为新工党政府推行[[Evidence-Based Policy-Making|循证决策]]（EBPM）与试点评估的法定行政规程。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 > - **2018–2020** 经历跨部门审查后重大修订，重点纠正长期存在的伦敦和东南部投资偏倚，强化对区域平衡发展、气候变化与证据稳健性的考量。
 > - **2025** 设立政府评估工作组（Government Evaluation Task Force, ETF），监督全政府对绿皮书循证原则的执行情况。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 81)]]
-> - **2026** [[Royal Society|英国皇家学会]]《科学为社会》报告明确呼吁，英国政府应依据绿皮书决策准则，强制政策文件同步附带通俗版《科学证据陈述》（Scientific Evidence Statements），详尽披露[[Scientific Uncertainty|科学不确定性]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 87)]]
+> - **2026** [[The Royal Society|英国皇家学会]]《科学为社会》报告明确呼吁，英国政府应依据绿皮书决策准则，强制政策文件同步附带通俗版《科学证据陈述》（Scientific Evidence Statements），详尽披露[[Scientific Uncertainty|科学不确定性]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, p. 87)]]
 
 ---
 

@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_instruments:
   - "[[ETS Proficiency Profile]]"
 related_persons: []
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[Voluntary System of Accountability]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"

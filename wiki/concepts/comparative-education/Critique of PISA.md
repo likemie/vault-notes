@@ -8,7 +8,7 @@ aliases:
 summary: "对经合组织国际学生评估项目（PISA）的系统性学术反思与理论批判，涵盖未来技能构念拟制与增长神话证伪、统计等值空间对本体效度的消解、“数字即政策”的去政治化规训、单一西方中心主义与狭隘经济主义扭曲、高分低趣低幸福感悖论、美化威权教育机制、比较教育学科航海隐喻侵蚀及本土政治罗生门推诿。"
 type: concept
 domain: "comparative-education"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -84,10 +84,11 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

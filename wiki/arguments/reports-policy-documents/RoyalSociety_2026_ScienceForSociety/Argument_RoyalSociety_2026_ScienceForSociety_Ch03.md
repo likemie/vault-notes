@@ -10,11 +10,11 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_display_title: "Chapter three: Mass media and misinformation"
 argument_kind: "book-chapter"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
-issuing_organization: "[[Royal Society|The Royal Society]]"
+issuing_organization: "[[The Royal Society]]"
 year: 2026
 isbn: 978-1-78252-829-6
 publication_place: London
@@ -70,9 +70,10 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[Science Media Centre]]"
+  - "[[UK Research and Innovation]]"
   - "[[Public Attitudes to Science]]"
+  - "[[The Royal Society]]"
   - "[[National Academy of Sciences]]"
-  - "[[Chinese Academy of Sciences]]"
 related_theories:
   - "[[Theory of Mind]]"
 status: draft
@@ -301,7 +302,7 @@ updated: 2026-10-26
 面对主流广播电视中传统科学节目排播收缩的危机，科学界必须打破孤立封闭的思维定势，主动借鉴艺术界的成熟模式，建立“联合出资、联合制作”（Co-funding & Co-production）的新型跨界合作生态。
 
 > [!case] 标志性案例三：科学界与公共广播机构的跨界联合制作——BBC《野性群岛》（*Wild Isles*）案例（p. 61）
-> - **多方跨界注资与学术赋能** 英国广播公司旗舰自然纪录片《野性群岛》（*Wild Isles*）开创了公共广播与科研公益机构协同制作的典范。该项目由英国皇家鸟类保护协会（[[Royal Society]] for the Protection of Birds, RSPB）、世界自然基金会（World Wide Fund for Nature, WWF）及英国开放大学（The Open University）与 BBC 联合注资并共同研发。
+> - **多方跨界注资与学术赋能** 英国广播公司旗舰自然纪录片《野性群岛》（*Wild Isles*）开创了公共广播与科研公益机构协同制作的典范。该项目由英国皇家鸟类保护协会（Royal Society for the Protection of Birds, RSPB）、世界自然基金会（World Wide Fund for Nature, WWF）及英国开放大学（The Open University）与 BBC 联合注资并共同研发。
 > - **坚守独立编辑主导权的核心原则** 合作明确立规：所有出资机构与科学家团队深度参与前期野外科学调研、物种行为实证把关与数据核验，但**最终的节目编辑控制权（Editorial Control）完全由广播机构独立行使**；这种制度设计既杜绝了赞助方软文公关的嫌疑，又确保了片中科学论述的无懈可击。
 > - **融媒体裂变与多渠道社会行动** 纪录片不仅在黄金时段电视频道引发轰动，更衍生出针对社交网络定制的短视频切片、针对学校的配套教学资源包以及公众在地化生物保护行动指南，实现了从线性电视收视向全民环保行动的跨越。
 > - **向艺术界取经的跨界启示** 报告深刻指出，艺术人文界长期擅长联合影视机构开展跨界制作；科学共同体必须打破偏见，积极推动将前沿科学探索与科学家命运融入历史剧、传记片、科幻电影乃至流行电子游戏中，让科学自然流淌在主流通俗文化叙事中。
@@ -318,7 +319,7 @@ updated: 2026-10-26
 科学传播生态的净化，不能仅仅寄望于受众端的事后事实核查，更必须倒逼至[[Knowledge Production|知识生产]]源头与学术机构传播链条的制度化规范。（pp. 61–64）
 
 > [!claim|lead] 步骤五核心主张
-> 大众媒体报道中耸人听闻的科学夸大结论，很大程度上直接植根于大学与科研机构自身新闻通稿（Press Releases）的过度营销；必须将科学传播正式纳入科研诚信（[[Responsible Conduct of Research]]）大框架，参照英国统计局标准制定科学传播《行为守则》（Code of Practice），并全面落实皇家学会五大系统性政策建议（建议 6 至建议 10）。（pp. 61–64）
+> 大众媒体报道中耸人听闻的科学夸大结论，很大程度上直接植根于大学与科研机构自身新闻通稿（Press Releases）的过度营销；必须将科学传播正式纳入科研诚信（[[Responsible Conduct of Research]]）大框架，参照英国统计局标准制定科学传播《行为守则》（Code of Practice），并全面落实[[The Royal Society|皇家学会]]五大系统性政策建议（建议 6 至建议 10）。（pp. 61–64）
 
 #### 主题一：科学新闻结论夸大的源头溯源与科研诚信合流
 

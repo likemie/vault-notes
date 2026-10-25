@@ -40,8 +40,11 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Response to Intervention]]"
   - "[[International Education]]"
+  - "[[Writing Programs]]"
   - "[[Incommensurability]]"
   - "[[Research Topic]]"
+  - "[[School Bullying]]"
+  - "[[Within-Class Grouping]]"
   - "[[Falsification]]"
   - "[[Classroom Management]]"
   - "[[Feedback]]"
@@ -54,6 +57,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
+  - "[[Experimental Research]]"
   - "[[Meta-meta-analysis]]"
   - "[[Umbrella Review]]"
   - "[[Research Synthesis]]"
@@ -63,7 +67,6 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Observation Method]]"
-  - "[[Experimental Research]]"
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
@@ -71,6 +74,7 @@ related_persons:
 related_facts:
   - "[[Education Resources Information Center]]"
   - "[[Campbell Collaboration]]"
+  - "[[Skills Toward Employment and Productivity]]"
 related_arguments: []
 sources:
   - "[[sources/Kalmendal_2025_PsyArXiv/Kalmendal_2025_PsyArXiv|Kalmendal_2025_PsyArXiv]]"
@@ -84,7 +88,7 @@ title: "Argument_Kalmendal_2025_PsyArXiv"
 argument_key: "Argument_Kalmendal_2025_PsyArXiv"
 argument_display_title: "Visible flaws: A comprehensive quality assessment of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"

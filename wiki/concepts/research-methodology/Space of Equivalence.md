@@ -7,10 +7,10 @@ aliases:
 summary: "指统计度量通过人为创设统一分类法、刻度与公分母，在异质社会事物间建立起可相互通约的均质度量空间；在跨国教育治理中以统计信度置换情境构念效度并悬置教育本体论，成为超国家远处掌舵的技术工具。"
 type: concept
 domain: "research-methodology"
-related_count: 24
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 37
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - measurement
   - commensuration
@@ -33,26 +33,39 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
+  - "[[Space Production]]"
+  - "[[European Education Space]]"
+  - "[[Deliberative Space]]"
+  - "[[Variable]]"
+  - "[[Performance Indicators]]"
 related_theories:
+  - "[[Governing at a Distance]]"
   - "[[Governmentality]]"
 related_methods:
   - "[[Questionnaire]]"
+  - "[[Effect Size]]"
+  - "[[Elite Interview]]"
 related_instruments: []
 related_persons:
   - "[[Alain Desrosières]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Nikolas Rose]]"
+  - "[[Sotiria Grek]]"
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[European Commission]]"
+  - "[[EU]]"
+  - "[[Lisbon Strategy]]"
+  - "[[UOE Data Collection]]"
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

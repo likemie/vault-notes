@@ -10,11 +10,11 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
-issuing_organization: "[[Higher Education Funding Council for England]], Research Councils UK, Wellcome Trust, University of Bristol, University of the West of England"
+issuing_organization: "[[Higher Education Funding Council for England]], Research Councils UK, [[Wellcome Trust]], University of Bristol, University of the West of England"
 tags:
   - region/uk
   - level/higher-education
@@ -28,6 +28,7 @@ related_concepts:
 related_facts:
   - "[[Higher Education Funding Council for England]]"
   - "[[Research Excellence Framework]]"
+  - "[[UK Research and Innovation]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
 related_methods:

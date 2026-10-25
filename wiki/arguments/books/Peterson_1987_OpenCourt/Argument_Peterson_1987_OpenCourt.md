@@ -79,7 +79,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 ---
 
@@ -108,7 +108,7 @@ updated: 2026-10-22
 > - **[[General Education|通识教育]]与[[Terminal Courses|终结性课程]]** 六学科以思维方式的分布提供广度，[[Paradigmatic Learning|范例学习]]及共同核心、深度选项提供深度。高级与辅助课程再按后续学习路径分工，协调专业准备与长期生活用途（第3、8章，pp. 38–48, 200–207）。
 > - **课程核心与[[Assessment Backwash|评估反拨]]** [[Extended Essay|拓展论文]]（Extended Essay，EE）、创造、审美与社会服务（[[Creativity, Action, Service|Creative, Aesthetic and Social Service]]，[[Creativity, Action, Service|CASS]]）、[[Theory of Knowledge|知识论]]（Theory of Knowledge，[[Theory of Knowledge|TOK]]）分别保护自主研究、直接经验和跨学科认识反思。评价形式又影响这些目标是否真正进入教学（第3、7章，pp. 45–57, 178–185）。
 > - **[[International Qualification Recognition|国际资格承认]]** 共同课程的跨境效力依赖大学录取、专业先修、政府等值与具体学校授权，不能由课程质量自动产生（第2、4、7章，pp. 27–31, 65–78, 189–191）。
-> - **分布式创制与[[Network Governance|网络治理]]** [[Bob Leach|鲍勃·利奇]]（[[Bob Leach|Bob Leach]]）发动教师网络，[[Gerard Renaud|杰拉德·雷诺]]（[[Gerard Renaud|Gerard Renaud]]）主导课程架构，[[John Goormaghtigh|约翰·戈尔马蒂赫]]（[[John Goormaghtigh|John Goormaghtigh]]）维持治理，[[Alec Peterson|亚历克·皮特森]]（[[Alec Peterson|Alec Peterson]]）整合筹资、试验和承认。各项工作相互依赖，后续扩展又需要中央、区域与学校分工（第2、4—7章，pp. 15–31, 83–190）。
+> - **分布式创制与[[Network Governance|网络治理]]** [[Bob Leach|鲍勃·利奇]]（[[Bob Leach]]）发动教师网络，[[Gerard Renaud|杰拉德·雷诺]]（[[Gerard Renaud]]）主导课程架构，[[John Goormaghtigh|约翰·戈尔马蒂赫]]（[[John Goormaghtigh]]）维持治理，[[Alec Peterson|亚历克·皮特森]]（[[Alec Peterson]]）整合筹资、试验和承认。各项工作相互依赖，后续扩展又需要中央、区域与学校分工（第2、4—7章，pp. 15–31, 83–190）。
 
 这些工具用于追踪制度形成和解释决策，材料性质限制了可得结论的强度。
 

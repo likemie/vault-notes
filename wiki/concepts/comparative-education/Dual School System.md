@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -103,7 +103,7 @@ updated: 2026-10-22
 双轨学制在世界教育史与教育社会学中构成了理解制度不平等演进的核心参照：
 
 > [!contrast-table] 概念辨析
-> | 维度 | 双轨学制（Dual School System） | 单轨学制（[[Common School Movement\|Common School System]]） | 校内分轨制（[[Tracking\|Tracking]]） |
+> | 维度 | 双轨学制（Dual School System） | 单轨学制（[[Common School Movement\|Common School System]]） | 校内分轨制（[[Tracking]]） |
 > |---|---|---|---|
 > | **历史发轫** | 19 世纪欧陆立宪君主国（法、德、英） | 19 世纪北美自由共和政体（美） | 20 世纪下半叶欧美现代综合中学 |
 > | **招[[Conatus\|生机]]制** | **出生阶级身份决定**，平民入初小，精英入预备班 | **社区地缘普遍准入**，不分阶层混合入学 | **标准化测试与学科学力分类** |

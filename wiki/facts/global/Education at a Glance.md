@@ -9,7 +9,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,12 +27,16 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Operationalization]]"
   - "[[Performativity]]"
+  - "[[Performance Indicators]]"
   - "[[Student Mobility]]"
   - "[[Class Size]]"
-  - "[[Performance Indicators]]"
+  - "[[International Education]]"
   - "[[Paradigm]]"
   - "[[Policy Brokerage]]"
+  - "[[Science and Technology Studies]]"
   - "[[Global Education Governing Complex]]"
+  - "[[Educational Multilateralism]]"
+  - "[[Test Production]]"
 related_theories:
   - "[[Governing at a Distance]]"
 related_methods: []
@@ -43,8 +47,10 @@ related_facts:
   - "[[International Indicators of Education Systems]]"
   - "[[IEA]]"
   - "[[PISA]]"
+  - "[[International Adult Literacy Survey]]"
   - "[[Education Policy Outlook]]"
   - "[[Education GPS]]"
+  - "[[United States Department of Education]]"
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"

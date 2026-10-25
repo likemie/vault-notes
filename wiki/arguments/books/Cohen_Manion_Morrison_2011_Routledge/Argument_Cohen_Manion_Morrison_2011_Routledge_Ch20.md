@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_display_title: "Research Methods in Education · Ch20"
 argument_kind: "book-chapter"
-argument_related_count: 45
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -71,7 +71,6 @@ related_methods:
   - "[[Semantic Differential]]"
   - "[[Likert Scale]]"
   - "[[Telephone Interview]]"
-  - "[[Contingency Questions]]"
   - "[[Cronbach's Alpha]]"
   - "[[Internal Consistency]]"
   - "[[Sample Size Determination]]"
@@ -82,7 +81,7 @@ related_facts:
   - "[[GEMS Education]]"
 status: draft
 created: 2026-07-20
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 > [!knowledge-map] 第20章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_20_Concept_Map.jpg)

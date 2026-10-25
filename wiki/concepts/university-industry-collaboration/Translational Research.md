@@ -9,7 +9,7 @@ aliases:
 summary: "将学术实验室的基础科学发现转化为可商业化产品、临床治疗或规模化工程制造的研究与工艺放大过程；在生物医学体现为从实验室到临床（bench-to-bedside），在微电子与硬科技体现为从实验室到代工厂（lab-to-fab），依赖于专有实验模型、中试验证平台、设计使能网关与跨界工程技能的系统协同。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -54,6 +54,7 @@ related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Department of Energy]]"
+  - "[[Department of Defense]]"
   - "[[National Science and Technology Council]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
   - "[[National Nanotechnology Coordinated Infrastructure]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

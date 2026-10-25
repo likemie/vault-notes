@@ -85,7 +85,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-06-08'
-updated: 2026-10-23
+updated: 2026-10-26
 year: 2016
 doi: ""
 citation_aliases:
@@ -124,7 +124,7 @@ citation_aliases:
 
 ### 2. Pearson(1904)的远见
 
-[[Karl Pearson|Karl Pearson]] 被视为数理统计学的奠基人之一。他发明的[[Pearson Product-Moment Correlation|积差相关]]系数和[[Chi-Squared Test|卡方检验]]至今仍是基础统计工具。1904年，他在《英国医学杂志》第二卷上发表了最早的跨研究合并分析，研究英国军队在印度和南非的伤寒疫苗接种效果。
+[[Karl Pearson]] 被视为数理统计学的奠基人之一。他发明的[[Pearson Product-Moment Correlation|积差相关]]系数和[[Chi-Squared Test|卡方检验]]至今仍是基础统计工具。1904年，他在《英国医学杂志》第二卷上发表了最早的跨研究合并分析，研究英国军队在印度和南非的伤寒疫苗接种效果。
 
 > [!note] Pearson 面对的数据困境
 > 接种数据来自自愿接种的士兵和未自愿接种的士兵。疫苗有时看起来有用，有时没有。Pearson 需要判断：合并多项小研究的数据，能否给出更可靠的结论？效果的变异又来自何处？
@@ -178,7 +178,7 @@ Ronald Fisher 在[[Analysis of Variance|方差分析]]等技术上的发展为�
 
 ### 7. Glass 命名元分析并挑战学术共识
 
-[[Meta-analysis|元分析]]在当前形式下的诞生并非来自医学研究。1976年，[[Gene Glass|Gene Glass]] 在美国教育研究协会主席演说中首次提出"元分析"一词，将其定义为对大量个别研究的分析结果进行统计分析以整合发现。
+[[Meta-analysis|元分析]]在当前形式下的诞生并非来自医学研究。1976年，[[Gene Glass]] 在美国教育研究协会主席演说中首次提出"元分析"一词，将其定义为对大量个别研究的分析结果进行统计分析以整合发现。
 
 > [!example] 心理治疗效果之争
 > Glass and Mary Lee Smith 合作，汇总了他们能找到的所有心理治疗效果研究，挑战当时由伦敦国王学院精神病学研究所的 Hans Eysenck 主导的共识——心理治疗无效。Eysenck 此前通过合并百分比分数和计算统计量来综述心理治疗效果(Eysenck, 1952)。Smith and Glass(1977)的分析表明，典型的治疗试验将治疗组提升到比未治疗对照组平均高约三分之二个标准差的水平，接受治疗的平均个体在实验结束时处于对照组第 75 百分位以上的位置。这代表 0.6 的[[Effect Size\|效应量]]，消除了对心理治疗价值的怀疑。
@@ -275,7 +275,7 @@ Glass 命名元分析几年后，医学领域开始将元分析作为综合研�
 
 ### 14. Fraser et al. (1987)：首次大规模元综合
 
-Glass 创造元分析术语 10 年后，Barry Fraser、[[Herbert Walberg]] 和 [[John Hattie|John Hattie]] 团队进行了一项广泛的[[Research Synthesis|证据综合]]，汇总了 226 项元分析的发现来检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]](Fraser et al., 1987)。这本身就说明了元分析作为新方法的快速普及。
+Glass 创造元分析术语 10 年后，Barry Fraser、[[Herbert Walberg]] 和 [[John Hattie]] 团队进行了一项广泛的[[Research Synthesis|证据综合]]，汇总了 226 项元分析的发现来检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]](Fraser et al., 1987)。这本身就说明了元分析作为新方法的快速普及。
 
 > [!note] Fraser et al.的研究结构
 > 该研究发表为《[[International Education\|国际教育]]研究杂志》的一篇 100 页专著。其中一章综合了数千项原始研究，识别持续且广泛影响学生学习的禀赋性、教学性和环境性[[Variable\|变量]]。另一章聚焦于科学教学的元分析，识别情境和交互影响。然后用当时学生学习模型中的各种显著特征来组织 134 项成就结果元分析和 92 项态度结果元分析的综合。最终结果用于检验 Walberg 的九因素教育生产力模型在多大程度上得到经验证据的支持。
@@ -305,7 +305,7 @@ Sipe and Curlette 发表了一项旨在发展元综合方法论的综述。他�
 
 ### 17. Marzano(1998)的理论驱动路径
 
-[[Robert Marzano|Robert Marzano]] 为美国政府资助的中大陆地区教育实验室发表了一项综合 100 多项元分析和其他研究的报告，涉及 4000 多个实验组和控制组的比较。
+[[Robert Marzano]] 为美国政府资助的中大陆地区教育实验室发表了一项综合 100 多项元分析和其他研究的报告，涉及 4000 多个实验组和控制组的比较。
 
 > [!warning] "品牌名"聚合的陷阱
 > Marzano 批评元综合中常见的做法，即用宽泛的教育方式标签代表包含多种"活性成分"的复杂干预。他以 Athappilly et al.(1983)的"现代数学"元分析为例。这一元分析被纳入 Fraser et al.(1987)，其中"现代数学"这个品牌名下包含多种不同成分：

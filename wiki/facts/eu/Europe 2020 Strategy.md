@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[EU]]"
+  - "[[European Commission]]"
   - "[[Lisbon Strategy]]"
   - "[[Start Making a Reader Today]]"
   - "[[Innovation Union]]"

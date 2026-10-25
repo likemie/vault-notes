@@ -9,7 +9,7 @@ title: "Argument_Rappleye_2006_RCIE"
 argument_key: "Argument_Rappleye_2006_RCIE"
 argument_display_title: "Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Interpretivism]]"
   - "[[Concept Mapping]]"
   - "[[Normal School]]"
+  - "[[Coding Education]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -50,6 +51,7 @@ related_facts:
   - "[[Civil Service Examination]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
   - "[[A Nation at Risk 1983]]"
+  - "[[United States Department of Education]]"
   - "[[American Attraction to Japanese Education 1980s]]"
 related_arguments: []
 sources:

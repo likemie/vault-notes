@@ -10,10 +10,10 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 63
-related_level: 6
-related_stars: "💎💎"
-related_color: "#ddd6fe"
+related_count: 59
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/pedagogy
   - theme/science-education
@@ -48,7 +48,6 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Nature of Science]]"
   - "[[Visible Learning]]"
-  - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
   - "[[Learnology]]"
   - "[[Interaction Effect]]"
@@ -65,10 +64,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Standard Error]]"
   - "[[Inverse-Variance Weighting]]"
-  - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
-  - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random-Effects Model]]"
   - "[[Systematic Review]]"
@@ -94,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Inquiry-Based Learning

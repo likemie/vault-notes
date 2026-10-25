@@ -9,9 +9,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 37
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 41
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
 period: "2017–至今"
 initiator_organization: "Johns Hopkins University Center for Research and Reform in Education"
@@ -35,7 +35,9 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Variable]]"
   - "[[Domain Specificity]]"
+  - "[[Personalized Learning]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Mathematics Intervention Programs]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
@@ -52,11 +54,13 @@ related_persons:
 related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
+  - "[[United States Congress]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Education Endowment Foundation]]"
   - "[[Education Resources Information Center]]"
+  - "[[United States Department of Education]]"
   - "[[Education Sciences Reform Act 2002]]"
   - "[[Success for All]]"
   - "[[Open Court Reading]]"
@@ -129,7 +133,7 @@ updated: 2026-10-26
 ---
 
 > [!contrast-table] 平台运行机制与服务导向对比：Evidence for [[Every Student Succeeds Act\|ESSA]] vs [[United States Department of Education|美国教育部]] [[What Works Clearinghouse\|WWC]]
-> | 比较维度 | Evidence for ESSA（JHU CRRE） | [[What Works Clearinghouse\|What Works Clearinghouse]]（WWC / IES） |
+> | 比较维度 | Evidence for ESSA（JHU CRRE） | [[What Works Clearinghouse]]（WWC / IES） |
 > |---|---|---|
 > | **创立背景与使命** | 针对 ESSA 2015 实施痛点设立，专为中小学校长与学区采购决策提供极简指引 | 依据 [[Education Sciences Reform Act 2002\|ESRA 2002]] 设立，作为联邦官方因果科学审查与方法学基准平台 |
 > | **评级呈现结构** | 采用整体项目瓷砖卡片（Tile），直接标注 ESSA [[Top Institute for Evidence-Based Education Research\|TIER]] 1/2/3 标签并附带成本与培训数据 | 采用微观结果域独立评级（如阅读理解、词汇分别定级），技术条文繁复晦涩 |

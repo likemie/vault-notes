@@ -13,9 +13,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: government-agency
 headquarters: "Arlington, Virginia, United States"
@@ -26,13 +26,26 @@ tags:
   - theme/semiconductor
   - theme/national-security
   - theme/cold-war
-related_concepts: []
+related_concepts:
+  - "[[Industry Affiliate Program]]"
+  - "[[Learning Analytics]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[DARPA]]"
+  - "[[Microelectronics Commons]]"
+  - "[[Sematech]]"
+  - "[[Project Maven]]"
+  - "[[Fairchild Semiconductor]]"
+related_arguments:
+  - "[[Argument_Fabrizio_Mowery_2005_REI]]"
+  - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
+  - "[[Argument_Bown_2024_JEconPersp]]"
+  - "[[Argument_Lecuyer_1999_HT]]"
+  - "[[Argument_Logar_2014_Minerva]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
 confidence: medium
 status: draft
 created: 2026-10-26

@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,8 @@ related_methods:
 related_persons:
   - "[[Fred Block]]"
 related_facts:
+  - "[[Department of Commerce]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[America COMPETES Act]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[DARPA]]"

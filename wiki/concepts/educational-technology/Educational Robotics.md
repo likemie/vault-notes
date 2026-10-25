@@ -9,10 +9,10 @@ aliases:
 summary: "具备物理具身或外显虚拟实体的人工智能交互系统，通过语音、表情、手势与多模态感知，在语言伴读、程序演练与跨学科探究中提供示范、协作与情感激励。"
 type: concept
 domain: "educational-technology"
-related_count: 21
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - educational-technology
   - ai-in-education
@@ -40,8 +40,6 @@ related_theories: []
 related_methods:
   - "[[Time Series Design]]"
   - "[[Meta-analysis]]"
-  - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -49,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Educational Robotics

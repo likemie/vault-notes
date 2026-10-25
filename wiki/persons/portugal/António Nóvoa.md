@@ -10,7 +10,7 @@ summary: "葡萄牙著名比较教育学家与历史学家，里斯本大学前�
 type: person
 nationality: portugal
 person_region: "portugal"
-person_related_count: 30
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Subsidiarity Principle]]"
   - "[[Enlightenment]]"
   - "[[Rich and Thick Description]]"
+  - "[[Data Infrastructure]]"
   - "[[Absorptive Capacity]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Performance Indicators]]"
@@ -50,7 +51,6 @@ related_persons:
   - "[[Jean Piaget]]"
   - "[[Jason Beech]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[UNESCO]]"
   - "[[EU]]"
   - "[[Comparative Education Society in Europe]]"
@@ -58,6 +58,8 @@ related_facts:
   - "[[Education in Europe]]"
   - "[[Bologna Process]]"
   - "[[PISA]]"
+  - "[[OECD]]"
+  - "[[European Commission]]"
   - "[[German Dual Education System]]"
 related_arguments:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"

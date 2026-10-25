@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
 related_facts:
+  - "[[United States Congress]]"
   - "[[Higher Education Act of 1965]]"
   - "[[Science A New Golden Age 2026]]"
   - "[[Office of Science and Technology Policy]]"

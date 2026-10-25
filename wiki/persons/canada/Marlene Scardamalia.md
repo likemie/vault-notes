@@ -8,10 +8,10 @@ summary: "加拿大著名学习科学家与教育心理学家，多伦多大学�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 28
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1944"
 lifespan: "1944–至今"
 tags:
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Knowledge Production]]"
   - "[[Metacognition]]"
+  - "[[Collaborative Learning]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemology]]"
@@ -46,6 +47,7 @@ related_instruments: []
 related_persons:
   - "[[Carl Bereiter]]"
 related_facts:
+  - "[[The Royal Society]]"
   - "[[SPECTRUM]]"
   - "[[Research in Schools Evaluation]]"
   - "[[UNESCO]]"
@@ -63,7 +65,7 @@ updated: 2026-10-26
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 加拿大[[Royal Society|皇家学会]]院士（FRSC）、多伦多大学安大略教育研究院（OISE）知识创新与技术中心（IKIT）主任、全球学习科学界领军学者。
+> - **身份位置** 加拿大[[The Royal Society|皇家学会]]院士（FRSC）、多伦多大学安大略教育研究院（OISE）知识创新与技术中心（IKIT）主任、全球学习科学界领军学者。
 > - **核心角色** [[Knowledge Building Theory|知识建构理论]]（Knowledge Building Theory）与计算机支持的[[Intentionality|意向性]]学习环境（CSILE / Knowledge Forum）的联合奠基人，在[[International Education\|国际教育]]学界首次界定并系统确立了“[[Epistemic Agency\|认识能动性]]（[[Epistemic Agency]]）”[[Construct\|构念]]。
 > - **代表贡献** 认识能动性理论、知识建构社群教学法（Knowledge Building Pedagogy）、CSILE/Knowledge Forum 协作[[Knowledge Production|知识生成]]平台。
 

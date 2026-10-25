@@ -7,7 +7,7 @@ title: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_key: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_display_title: "Perspectives on education research (N. Révai, Ed.)"
 argument_kind: "book-chapter"
-argument_related_count: 83
+argument_related_count: 85
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Conatus]]"
   - "[[Knowledge Co-production]]"
+  - "[[Theory of Knowledge]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Research Scope]]"
   - "[[Internal Validity]]"
@@ -124,6 +125,7 @@ related_facts:
   - "[[Complex Instruction Programme]]"
   - "[[Swedish ULF Project]]"
   - "[[William T. Grant Foundation]]"
+  - "[[United States Department of Education]]"
   - "[[Education Sciences Reform Act 2002]]"
   - "[[PISA]]"
   - "[[National Education Association]]"

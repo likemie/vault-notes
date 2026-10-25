@@ -8,7 +8,7 @@ aliases:
 summary: "个体、组织与公共治理系统通过实际行动、工程实践、政策试错与自适应排障获取并内化深层知识的认识与生产率演进机制。在杜威进步主义教育中指通过真实探究建构批判性思维的核心教学法；在产业组织与创新经济学中指随累积产量爬坡带来的动态良率提升与单位成本下降（学习曲线效应）；在现代产业战略中指通过执行中的自适应规制调整、审批改革与反馈纠偏实现政策实效的关键过程准则。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -56,6 +56,7 @@ related_persons:
   - "[[Chris Freeman]]"
 related_facts:
   - "[[Fairchild Semiconductor]]"
+  - "[[Department of Defense]]"
   - "[[Frascati Manual]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Infrastructure Investment and Jobs Act]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

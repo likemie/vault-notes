@@ -7,7 +7,7 @@ aliases:
 summary: "由 AidData 提出的空间地缘公共外交概念，指大国外交、教育援助与文化交流高度依附于关键实体基础设施、战略能源通道及经济特区，在次国家特定枢纽城市与省份形成高密度网络集聚。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,10 +16,15 @@ tags:
   - theme/public-diplomacy
   - theme/educational-aid
   - theme/spatial-analysis
+related_concepts:
+  - "[[Geopolitics]]"
+  - "[[Public Diplomacy]]"
+related_arguments:
+  - "[[Argument_Custer_2021_AidData]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

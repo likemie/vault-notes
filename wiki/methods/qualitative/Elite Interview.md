@@ -10,7 +10,7 @@ summary: "针对政策制定者、高级官员、学术领袖等具有高层决�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 39
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -57,12 +57,14 @@ related_methods:
   - "[[Process Tracing]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Evidence Network]]"
+  - "[[HM Treasury]]"
 related_arguments:
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Legrand_2012_PolStud]]"
-  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
 status: draft
 created: 2026-09-16

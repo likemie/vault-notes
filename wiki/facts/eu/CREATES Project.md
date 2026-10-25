@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -22,6 +22,8 @@ tags:
 related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Self-Directed Learning]]"
+  - "[[Scoring Rubrics]]"
+  - "[[Peer Assessment]]"
   - "[[Paradigm]]"
   - "[[Creativity]]"
   - "[[Liberal Education]]"

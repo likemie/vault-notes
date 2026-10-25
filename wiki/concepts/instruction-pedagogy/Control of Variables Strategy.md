@@ -39,8 +39,8 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Intervention Research]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
+  - "[[Confidence Interval]]"
   - "[[Pilot Testing]]"
 related_instruments: []
 related_persons: []

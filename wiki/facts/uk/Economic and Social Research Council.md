@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 16
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: government-research-agency
 headquarters: "Swindon, United Kingdom"
@@ -22,13 +22,29 @@ tags:
   - theme/science-policy
   - theme/research-funding
   - theme/research-ethics
-related_concepts: []
+related_concepts:
+  - "[[Research Ethics]]"
+  - "[[Knowledge Exchange]]"
+  - "[[Informed Consent]]"
+  - "[[Informal Science Learning]]"
+  - "[[Research Impact]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Visual Research Methods]]"
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[UK Research and Innovation]]"
+  - "[[What Works Network]]"
+  - "[[Wellcome Trust]]"
+  - "[[National Science Foundation]]"
+  - "[[Research Excellence Framework]]"
+  - "[[ESRC Review of Ethical Issues in Visual Research]]"
+related_arguments:
+  - "[[Argument_Gorard_2020_ROE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
+  - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
 confidence: medium
 status: draft
 created: 2026-10-26

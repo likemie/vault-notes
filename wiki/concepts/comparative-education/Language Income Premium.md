@@ -8,7 +8,7 @@ aliases:
 summary: "语言经济学与比较教育学中的核心假说，指学习者掌握某一特定外语后在劳动力市场中所能获取的超额薪资报酬与职业升迁预期，构成驱动个体克服文化距离与高昂学习成本的核心理性动机。"
 type: concept
 domain: "comparative-education"
-related_count: 0
+related_count: 1
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,10 +17,12 @@ tags:
   - theme/language-policy
   - theme/economics-of-education
   - theme/public-diplomacy
+related_arguments:
+  - "[[Argument_Custer_2021_AidData]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

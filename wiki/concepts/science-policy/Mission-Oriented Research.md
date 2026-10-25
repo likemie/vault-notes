@@ -56,7 +56,7 @@ related_methods: []
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -152,7 +152,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 任务导向研发组织[[Paradigm|范式]]的历史演化
-> - **1940s–1970s — 战时与冷战初期军事防务任务期** 以[[Manhattan Project|曼哈顿工程]]、美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）、雷达网、阿波罗登月工程及[[DARPA|DARPA]]信息处理办公室为代表，在国家存亡与阵营威慑统摄下，建立起由联邦政府资助（峰值占全美研发支出 2/3）的大规模战略攻坚与首要采购模式。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1057)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–8)]]
+> - **1940s–1970s — 战时与冷战初期军事防务任务期** 以[[Manhattan Project|曼哈顿工程]]、美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）、雷达网、阿波罗登月工程及[[DARPA]]信息处理办公室为代表，在国家存亡与阵营威慑统摄下，建立起由联邦政府资助（峰值占全美研发支出 2/3）的大规模战略攻坚与首要采购模式。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1057)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–8)]]
 > - **2010s — 重大社会挑战与使命导向扩张期** 以 2011 年《[[A Strategy for American Innovation 2011|美国创新战略]]》为标志，任务导向由纯国防工程扩展至气候变化、新能源、先进制造等宏大社会问题（[[Grand Challenges]]）。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 > - **2025s–至今 — 关键战略技术[[Zero-Sum Competition|排他性竞争]]与[[Technological Republic|技术共和国]]重构期** 在[[Technology-Oriented Social Contract|技术型社会契约]]与重塑[[Technological Republic|技术共和国]]诉求导向下，以[[Generative Artificial Intelligence|生成式人工智能]]、[[Autonomous Drone Swarms|自主无人机蜂群]]、先进制程与量子计算为核心，推行“[[Genesis Mission|创世纪计划]]”与敏捷软件采办，打破公共部门[[Innovation Desert|创新荒漠]]，确立确定性技术能力的绝对主导地位。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062, 1064)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 11–15)]]
 

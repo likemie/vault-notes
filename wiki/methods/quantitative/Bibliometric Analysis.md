@@ -12,7 +12,7 @@ summary: "运用数学与统计学方法对学术文献外部特征、引文网�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
+method_related_count: 4
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -21,10 +21,7 @@ tags:
   - method/bibliometrics
   - theme/scientometrics
   - theme/knowledge-production
-related_concepts:
-  - "[[Knowledge Production]]"
-  - "[[Unit of Analysis]]"
-  - "[[Operationalization]]"
+related_concepts: []
 related_theories: []
 related_methods:
   - "[[Network Analysis]]"
@@ -38,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---

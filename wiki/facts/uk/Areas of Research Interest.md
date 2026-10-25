@@ -12,9 +12,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Government Office for Science, [[Cabinet Office]]"
 tags:
@@ -35,6 +35,10 @@ related_persons: []
 related_facts:
   - "[[Government Office for Science]]"
   - "[[Rothschild Report 1971]]"
+  - "[[UK Research and Innovation]]"
+  - "[[Economic and Social Research Council]]"
+  - "[[Department for Education]]"
+  - "[[The Royal Society]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
 confidence: high
@@ -76,7 +80,7 @@ updated: 2026-10-26
 > - **2015** 保罗·纳斯爵士（Sir Paul Nurse）在《英国研究理事会审查报告》中正式建议政府各部委全面制度化发布 ARIs。
 > - **2017** 首批核心行政部委（包括教育部 DfE、环境署 Defra、卫生部 DHSC）正式公开发布第一代 ARIs。
 > - **2023** [[Government Office for Science\|政府科学办公室]]升级全政府 ARIs 交互式数据库，推进跨部门联合清单编制。
-> - **2026** [[Royal Society|英国皇家学会]]《科学为社会》报告肯定了 ARIs 在统筹科研需求中的作用，同时警示行政体制必须保持稳定投入，避免因短期政治动荡导致科研需求反复无常。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 81, 84)]]
+> - **2026** [[The Royal Society|英国皇家学会]]《科学为社会》报告肯定了 ARIs 在统筹科研需求中的作用，同时警示行政体制必须保持稳定投入，避免因短期政治动荡导致科研需求反复无常。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 81, 84)]]
 
 ---
 

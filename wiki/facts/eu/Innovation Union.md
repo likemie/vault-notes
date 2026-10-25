@@ -9,7 +9,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_persons: []
 related_facts:
   - "[[EU]]"
   - "[[Europe 2020 Strategy]]"
+  - "[[European Commission]]"
   - "[[Lisbon Strategy]]"
   - "[[Start Making a Reader Today]]"
   - "[[EU Skills Agenda]]"

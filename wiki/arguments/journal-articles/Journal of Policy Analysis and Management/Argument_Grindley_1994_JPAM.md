@@ -46,6 +46,7 @@ related_theories: []
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Statistical Process Control]]"
+  - "[[Experimental Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -54,6 +55,7 @@ related_facts:
   - "[[ESPRIT]]"
   - "[[JESSI]]"
   - "[[Microelectronics and Computer Technology Corporation]]"
+  - "[[Department of Defense]]"
   - "[[DARPA]]"
   - "[[Bell Labs]]"
   - "[[Sematech Centers of Excellence]]"
@@ -74,7 +76,7 @@ title: "Argument_Grindley_1994_JPAM"
 argument_key: "Argument_Grindley_1994_JPAM"
 argument_display_title: "SEMATECH and collaborative research: Lessons in the design of high-technology consortia"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"

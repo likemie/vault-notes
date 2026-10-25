@@ -6,7 +6,7 @@ aliases:
 summary: "认识论认知中衡量知识是驻留于外部权威还是由主体内部积极建构的核心维度，在数字多文本时代进一步拓展为对信息源资质、立场与可信度的批判性评估规程。"
 type: concept
 domain: "educational-psychology"
-related_count: 39
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -50,7 +50,6 @@ related_theories:
 related_methods:
   - "[[Research Synthesis]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
 related_instruments:
   - "[[Framework for Teaching]]"
@@ -62,7 +61,7 @@ related_arguments:
 status: active
 confidence: high
 created: 2026-08-14
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -8,9 +8,9 @@ summary: "新西兰教育统计学家，著有 Visible Learning，是元分析�
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 155
-person_related_level: 15
-person_related_stars: "💎💎💎💎💎"
+person_related_count: 160
+person_related_level: 16
+person_related_stars: "💎💎💎💎💎⭐"
 person_related_color: "#fef3c7"
 born: "1950"
 died: ""
@@ -46,13 +46,16 @@ related_concepts:
   - "[[Zone of Desired Effects]]"
   - "[[Deficit Framing]]"
   - "[[Implementation Fidelity]]"
+  - "[[Whole-School Improvement]]"
   - "[[Research Translation]]"
   - "[[Heterogeneity]]"
+  - "[[Learning Strategies]]"
   - "[[Structural Coupling]]"
   - "[[Problem-Based Learning]]"
   - "[[Problem Solving]]"
   - "[[Constructivist Paradigm]]"
   - "[[Direct Instruction]]"
+  - "[[Mastery Learning]]"
   - "[[Metacognition]]"
   - "[[Effective Teaching]]"
   - "[[Surface and Deep Learning]]"
@@ -74,6 +77,7 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Homework]]"
   - "[[Critic and Conscience of Society]]"
+  - "[[Web-Based Learning]]"
   - "[[Category Mistake]]"
   - "[[PICO Framework]]"
   - "[[Whole Language]]"
@@ -174,6 +178,7 @@ related_facts:
   - "[[New Zealand National Standards]]"
   - "[[Education Endowment Foundation]]"
   - "[[Danish Public School Reform]]"
+  - "[[Department for Education]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Victorian HITS and Literacy Toolkit]]"

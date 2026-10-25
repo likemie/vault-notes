@@ -35,6 +35,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Shape-Shifting]]"
   - "[[Normal School]]"
+  - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
   - "[[Unit of Analysis]]"
   - "[[School Effectiveness]]"
@@ -105,7 +106,7 @@ title: "Argument_Beech_2009_GlobalGarden"
 argument_key: "Argument_Beech_2009_GlobalGarden"
 argument_display_title: "Who is Strolling Through The Global Garden? International Agencies and Educational Transfer"
 argument_kind: "book-chapter"
-argument_related_count: 67
+argument_related_count: 68
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"

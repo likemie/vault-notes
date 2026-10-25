@@ -40,7 +40,9 @@ related_concepts:
   - "[[Instrument Constituencies]]"
   - "[[Discourse]]"
   - "[[Performance Indicators]]"
+  - "[[School Vouchers]]"
   - "[[Criterion-Referenced Test]]"
+  - "[[Charter Schools]]"
   - "[[Transparency Bypass]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Data Infrastructure]]"
@@ -109,9 +111,9 @@ title: "Argument_Verger_2019_Discourse"
 argument_key: "Argument_Verger_2019_Discourse"
 argument_display_title: "Reforming governance through policy instruments: how and to what extent standards, tests and accountability in education spread worldwide"
 argument_kind: "journal-article"
-argument_related_count: 69
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 71
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: "Discourse: Studies in the Cultural Politics of Education"
 book_title: ""

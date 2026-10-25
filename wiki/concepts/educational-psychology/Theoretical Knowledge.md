@@ -6,10 +6,10 @@ aliases:
 summary: "对支撑学科的基本概念、原理与理论的理解，是知识获取类学习结果；问题本位学习通过分析真实问题促进对理论概念的深层掌握。"
 type: concept
 domain: "educational-psychology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/theoretical-knowledge
   - theme/knowledge-outcomes
@@ -19,13 +19,10 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Clinical Skills]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Dependent Variable]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
-  - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -34,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -11,7 +11,7 @@ aliases:
 summary: "通过显性认知策略、启发式重构工具、建构主义探究环境与情境指导语，系统识别、激发与提升个体与群体创造潜能的教育教学干预方案。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 56
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -59,8 +59,6 @@ related_concepts:
   - "[[Criterion Problem]]"
   - "[[Heterogeneity]]"
   - "[[Project-Based Learning]]"
-  - "[[Dependent Variable]]"
-  - "[[Construct]]"
 related_theories:
   - "[[Creative Problem Solving]]"
   - "[[Knowledge Building Theory]]"
@@ -86,7 +84,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 > [!def] Creativity Training

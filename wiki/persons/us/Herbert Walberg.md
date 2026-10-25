@@ -8,7 +8,7 @@ summary: "美国当代著名教育心理学家与量化研究综合先驱，芝�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
+  - "[[Home Environment]]"
   - "[[Intentionality]]"
   - "[[Construct]]"
 related_theories:
@@ -47,7 +48,7 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Gene Glass]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
+  - "[[United States Department of Education]]"
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:

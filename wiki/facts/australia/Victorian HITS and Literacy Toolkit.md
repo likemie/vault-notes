@@ -11,7 +11,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 30
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -52,7 +52,9 @@ related_methods:
   - "[[Fieldwork]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[James C. Scott]]"
 related_facts:
+  - "[[NAPLAN]]"
   - "[[Corwin Press]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Thomas B. Fordham Institute]]"

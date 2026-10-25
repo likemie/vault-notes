@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: 联邦资助的微电子原型制造与公共科研基础设施平台
 headquarters: 美国加利福尼亚州玛丽安德尔湾（Marina del Rey, California）
@@ -55,6 +55,7 @@ related_facts:
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
+  - "[[Department of Commerce]]"
   - "[[Engineering Research Centers]]"
   - "[[1956 AT&T Consent Decree]]"
 related_arguments:

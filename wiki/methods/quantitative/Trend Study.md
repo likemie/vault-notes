@@ -11,7 +11,7 @@ summary: "在不同时间点抽取不同独立样本以持续追踪相同因素�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -23,18 +23,12 @@ tags:
   - research-design
 related_concepts:
   - "[[Unit of Analysis]]"
-  - "[[Variable]]"
   - "[[Epistemology]]"
-  - "[[Positivism]]"
-  - "[[Causality]]"
   - "[[Pre-test Sensitisation]]"
-  - "[[Study Population and Sample]]"
-  - "[[Sampling Error]]"
   - "[[Ecological Fallacy]]"
 related_methods:
-  - "[[Cross-sectional Study]]"
-  - "[[Questionnaire]]"
   - "[[Longitudinal Study]]"
+  - "[[Cross-sectional Study]]"
   - "[[Cohort Study]]"
   - "[[Survey Research]]"
 related_arguments:
@@ -45,7 +39,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -103,7 +97,7 @@ updated: 2026-10-22
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 监测宏观教育成就与政策产出的长时段变迁（如全国学业水平演进、国际组织学术出版规模增长）；敏感议题研究中需要规避重复测量带来的预试敏感化（[[Pre-test Sensitisation|Pre-test Sensitisation]]）；教育规划中基于历史轨迹开展中短期预测。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|(Cohen et al., 2011, pp. 267–269)]]
+> - **适合使用** 监测宏观教育成就与政策产出的长时段变迁（如全国学业水平演进、国际组织学术出版规模增长）；敏感议题研究中需要规避重复测量带来的预试敏感化（[[Pre-test Sensitisation]]）；教育规划中基于历史轨迹开展中短期预测。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13|(Cohen et al., 2011, pp. 267–269)]]
 > - **谨慎使用** 外部环境剧烈动荡或政策制度频繁重构的时期（历史趋势容易遭遇结构性断裂）；长期预测场景（不可预测扰动随时间跨度非线性放大）。
 > - **不适合使用** 需要追踪具体个体生命史发展轨迹或探究个体层面微观因果机制的研究（应选用面板研究或队列研究）。
 

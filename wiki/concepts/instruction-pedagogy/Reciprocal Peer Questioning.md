@@ -10,7 +10,7 @@ aliases:
 summary: "由 Alison King 提出的一种基于高阶提问句干脚手架的同伴教学策略，引导学习者在结对互动中相互质询并进行认知精细加工"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,7 +33,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

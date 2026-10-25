@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -178,7 +178,7 @@ updated: 2026-10-22
 > | **网络动态生产空间** | 确立空间由社会行动者与沟通网络动态生成的[[Ontology\|本体论]]定位 | 比较教育知识流动与跨国[[Network Analysis\|网络分析]] | [[Jason Beech\|Beech]] & Artopoulos (2015) |
 > | **相互依存与策略外化** | 揭示全球/国家共生关系与国内行动者假借外在权威打破政治僵局的手法 | 政策借用动机与本土危机合法化 | [[Gita Steiner-Khamsi\|Steiner-Khamsi]] et al. (2024) |
 > | **转移空间与阶段过滤** | 阐明政策知识在跨国转移空间中遭遇的组织打包与两阶段行政过滤断层 | 国家政策周期演进与咨询体系研究 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] |
-> | **耐用客体与异层装配** | 关系空间借由法律条文、法人注册与证据工具等耐用客体固化，生成排他性异层支配秩序 | 政策装配（[[Assemblage\|Assemblage]]）、证据经纪中介与资本主义国家实践 | Rowe (2022, 2023) |
+> | **耐用客体与异层装配** | 关系空间借由法律条文、法人注册与证据工具等耐用客体固化，生成排他性异层支配秩序 | 政策装配（[[Assemblage]]）、证据经纪中介与资本主义国家实践 | Rowe (2022, 2023) |
 
 ---
 

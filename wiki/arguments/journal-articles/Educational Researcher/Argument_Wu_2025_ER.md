@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemic Agency]]"
   - "[[Epistemic Cognition]]"
   - "[[Wicked Problem]]"
+  - "[[Web-Based Learning]]"
   - "[[Knowledge Production]]"
   - "[[Absolutist]]"
   - "[[Multiplist]]"
@@ -39,6 +40,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Epistemic Responsibility]]"
   - "[[Intelligent Tutoring Systems]]"
+  - "[[Text Generation]]"
   - "[[AI Hallucination]]"
   - "[[Metacognition]]"
   - "[[Open-Mindedness]]"
@@ -88,7 +90,7 @@ title: "Argument_Wu_2025_ER"
 argument_key: "Argument_Wu_2025_ER"
 argument_display_title: "Strengthening Human Epistemic Agency in the Symbiotic Learning Partnership With Generative Artificial Intelligence"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"

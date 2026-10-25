@@ -26,11 +26,13 @@ related_persons:
   - "[[James Madison]]"
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[EU]]"
   - "[[National Institutes of Health]]"
   - "[[World Bank]]"
   - "[[National Science Foundation]]"
   - "[[ICMJE Data Sharing Requirements 2018]]"
+  - "[[Department of Defense]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch16_Brock_2025|Ch16_Brock_2025]]"
@@ -45,7 +47,7 @@ title: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_key: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_display_title: "Data: Access, generation, use"
 argument_kind: "book"
-argument_related_count: 15
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"

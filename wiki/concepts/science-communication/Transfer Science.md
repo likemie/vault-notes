@@ -9,7 +9,7 @@ aliases:
 summary: "指将知识与创新从研究向实践、行政及政策领域流动的机制、条件与转化过程作为独立经验与理论对象的科学形态，强调突破单向线性传输与医学转化类比，致力于阐明转移对象、行动者网络配置与复杂情境中的作用假设。"
 type: concept
 domain: "science-communication"
-related_count: 39
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -41,30 +41,22 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Variable]]"
-  - "[[International Education]]"
-  - "[[Literature Review]]"
-  - "[[Absorptive Capacity]]"
-  - "[[Heterogeneity]]"
   - "[[Neuromyth]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Questionnaire]]"
   - "[[Typological Analysis]]"
-  - "[[Process Tracing]]"
 related_facts:
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Qualitätsoffensive Lehrerbildung]]"
   - "[[SINUS]]"
   - "[[Chemie im Kontext]]"
-  - "[[What Works Clearinghouse]]"
-  - "[[EPPI-Centre]]"
   - "[[NuBiL]]"
-  - "[[Schulen im Team]]"
   - "[[Clearing House Unterricht]]"
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Transfer Science

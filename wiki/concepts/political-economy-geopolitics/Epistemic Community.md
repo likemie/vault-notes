@@ -58,8 +58,8 @@ related_facts:
   - "[[UNESCO]]"
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
-  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
   - "[[Argument_Campbell_2026_JPCC]]"
+  - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: high
 status: completed
 created: 2026-10-14

@@ -11,7 +11,7 @@ aliases:
 summary: "资助方或放贷方在提供公共资金、优惠贷款或产业补贴时，依法或依契约向受助方施加的前置准入门槛、合规义务与制度重构约束。在超国家开发治理中，表现为主权借贷捆绑的宏观紧缩与体制改革条款（如世行与IMF的结构调整条件），其实际成效取决于借款国本土政治意愿而非外源性强制（Castro, 2009）；在现代国家产业战略中，表现为主权政府向受补贴私营企业绑定的公共价值护栏（劳工技能、托儿保障、禁止股票回购、超额利润分享与国家安全限制），旨在防范资本寻租并重塑公私社会契约（Reynolds, 2024）。"
 type: concept
 domain: "science-policy"
-related_count: 44
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -61,9 +61,12 @@ related_facts:
   - "[[European Chips Act]]"
   - "[[Important Projects of Common European Interest]]"
   - "[[EU]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[National Science and Technology Council]]"
   - "[[Natcast]]"
+  - "[[Strategic Compact]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
+  - "[[European Commission]]"
   - "[[Infrastructure Investment and Jobs Act]]"
   - "[[International Reading Association]]"
   - "[[Inter-American Development Bank]]"
@@ -78,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

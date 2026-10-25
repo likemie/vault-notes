@@ -11,7 +11,7 @@ aliases:
 summary: "指将传统的联邦学徒制前置输入型经费补助改造为与学徒实际录用、薪酬增长与长期留任率等真实产出严格绑定的按绩效付费资助机制。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -30,6 +30,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Workforce Pell Grants 2025]]"
+  - "[[United States Congress]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: medium
@@ -40,7 +41,7 @@ updated: 2026-10-26
 
 ---
 
-> [!def] Outcome-Based [[Apprenticeship]] Funding
+> [!def] Outcome-Based Apprenticeship Funding
 > **结果导向[[Apprenticeship|学徒制]]资助机制（Outcome-Based Apprenticeship Funding / Pay-for-Outcomes Apprenticeship Funding）** 是指由公共财政设立的新型职业教育与技能培训拨款模式，主张废除传统按照培训机构招生人数或课时量一次性前置拨付的输入型资助，转为依据经过独立核验的学徒真实录用上岗、薪资达标增长以及多期就业留任率等实质产出指标进行阶段性报销与绩效奖励。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 53)]]
 
 > [!concept-lens] 概念透镜

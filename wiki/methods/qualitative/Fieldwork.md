@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-25
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -87,7 +87,7 @@ updated: 2026-10-22
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 植根于[[Interpretivism|解释主义]]与[[Phenomenology|现象学]]认识论；否定存在抽离于情境的绝对纯客观真理，强调主客体间的双向互动与主体间性（Intersubjectivity），研究者自身是感知与建构意义的核心工具。
-> - **研究者角色** 局内人（Emic）与局外人（Etic）的持续张力调谐者，要求研究者在深度沉浸于研究对象生活世界的同时，保持长期的理论[[Reflexivity|反身性]]（[[Reflexivity|Reflexivity]]）。
+> - **研究者角色** 局内人（Emic）与局外人（Etic）的持续张力调谐者，要求研究者在深度沉浸于研究对象生活世界的同时，保持长期的理论[[Reflexivity|反身性]]（[[Reflexivity]]）。
 > - **有效性标准** 长期驻扎的充分浸润、多源资料的[[Triangulation|三角互证]]、成员检验（[[Member Checking]]）与富有情境厚度的[[Rich and Thick Description|深描]]。
 > - **不声称回答的问题** 不以统计[[Random Sampling|概率抽样]]为依据寻求大范围总体的无偏推论；不追求脱离历史情境的抽象因果普适规律。
 

@@ -7,7 +7,7 @@ title: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_key: "Argument_Steiner-Khamsi_2024_UNESCO"
 argument_display_title: "Strategic review: Improving the use of evidence for education policy, planning and implementation"
 argument_kind: "report"
-argument_related_count: 113
+argument_related_count: 114
 argument_related_level: 11
 argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -43,6 +43,7 @@ sources:
   - "[[sources/Steiner-Khamsi_2024_UNESCO/Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi_2024_UNESCO]]"
 related_concepts:
   - "[[Research Utilization]]"
+  - "[[Global Educational Policy Field]]"
   - "[[Surplus of Evidence]]"
   - "[[Two Broken Feedback Loops]]"
   - "[[Technical Rationality]]"
@@ -195,11 +196,11 @@ updated: 2026-10-26
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **全球问卷调查**<br>[[Survey Research\|Survey Research]] | 采用多语种在线问卷调查，在联合国六种官方语言（阿拉伯语、中文、英语、法语、俄语、西班牙语）下收集 898 名全球受访者对现有证据平台使用习惯与 SDG 4 目标支撑度的评估（pp. 18–20）。 |
+> | **全球问卷调查**<br>[[Survey Research]] | 采用多语种在线问卷调查，在联合国六种官方语言（阿拉伯语、中文、英语、法语、俄语、西班牙语）下收集 898 名全球受访者对现有证据平台使用习惯与 SDG 4 目标支撑度的评估（pp. 18–20）。 |
 > | **关键知情人访谈**<br>Semi-structured Interview | 组织 14 场专题会议对 33 位跨国教育政策决策者、国际组织官员（来自 [[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）、[[World Bank\|世界银行]]（World Bank）、[[UNICEF\|联合国儿童基金会]]（United Nations Children's Fund, UNICEF）、美国国际开发署（United States Agency for International Development, USAID））、实施智库与测评研发机构代表（来自[[RTI International\|三角研究园区国际研究所]]（RTI International）、[[FHI 360\|家庭健康国际 360]]（FHI 360））、区域网络负责人与基金会代表（如[[Jacobs Foundation\|雅各布斯基金会]]、[[Mastercard Foundation\|万事达卡基金会]]等）展开深度访谈（pp. 19–20, 57–59）。 |
-> | **证据咨询二部网络分析**<br>[[Two-Mode Network Analysis\|Two-Mode Network Analysis]] | 提取问卷第三题（Q3）中受访者实际经常调阅的机构实体，构建“受访者—被查阅证据源”两模二部网络（Bipartite Affiliation Network），通过度中心度（Degree Centrality）、网络密度（Network Density）与连通分量分解（Component Analysis）测绘全球教育证据利用的拓扑结构（pp. 22–24, 60–61）。该网络刻画受访者的实际咨询行为，独立于第四章基于引文数据的共被引分析。 |
-> | **对照案例比较**<br>[[Comparative Case Study\|Comparative Case Study]] | 选取全球公共卫生领域作为对照部门，考察循证医学与卫生[[Policy Network\|政策网络]]在处理证据层级、跨国转化与多利益相关者协调中的长效治理经验（pp. 28–29）。 |
-> | **文献计量与共被引网络**<br>[[Bibliometric Analysis\|Bibliometric Analysis]] | 检索 Web of Science 数据库中关于教育（1,825篇）与公共卫生（1,660篇）政策证据利用的[[Systematic Review\|系统综述]]文献，测算年均复合增长率、高被引文献分布并绘制共被引拓扑网络（pp. 29–32, 64–65）。 |
+> | **证据咨询二部网络分析**<br>[[Two-Mode Network Analysis]] | 提取问卷第三题（Q3）中受访者实际经常调阅的机构实体，构建“受访者—被查阅证据源”两模二部网络（Bipartite Affiliation Network），通过度中心度（Degree Centrality）、网络密度（Network Density）与连通分量分解（Component Analysis）测绘全球教育证据利用的拓扑结构（pp. 22–24, 60–61）。该网络刻画受访者的实际咨询行为，独立于第四章基于引文数据的共被引分析。 |
+> | **对照案例比较**<br>[[Comparative Case Study]] | 选取全球公共卫生领域作为对照部门，考察循证医学与卫生[[Policy Network\|政策网络]]在处理证据层级、跨国转化与多利益相关者协调中的长效治理经验（pp. 28–29）。 |
+> | **文献计量与共被引网络**<br>[[Bibliometric Analysis]] | 检索 Web of Science 数据库中关于教育（1,825篇）与公共卫生（1,660篇）政策证据利用的[[Systematic Review\|系统综述]]文献，测算年均复合增长率、高被引文献分布并绘制共被引拓扑网络（pp. 29–32, 64–65）。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -421,7 +422,7 @@ updated: 2026-10-26
 > |---|---|---|
 > | 倡导长期、可预测的稳定资金支持，促进研究人员、决策者与受影响群体共同生产适切证据（p. 38）。 | 联合国教科文组织全球教育合作机制、研究与教育资助方、证据供需各方 | 全球合作机制明确三维投资使命，设立长期专属资金流（p. 38）。 |
 > | 搭建横向贯通与纵向连接的跨层级协调空间，全方位提升各层级证据生产与转化能力（p. 38）。 | 联合国教科文组织全球教育合作机制 | 在国家与区域层面组织专业培训、学术研讨与同行经验互鉴（p. 38）。 |
-> | 打破多数中介组织仅单向面对学者或官员的局限，打造深度融合的政学协作机制（p. 38）。 | 资助机构、高等院校、公共行政管理部门 | 设立区域教育政策研修员与轮岗实习制度，推行学者与官员配对方案（[[Policy Fellowships and Placements\|Policy Fellowships and Placements]]）（p. 38）。 |
+> | 打破多数中介组织仅单向面对学者或官员的局限，打造深度融合的政学协作机制（p. 38）。 | 资助机构、高等院校、公共行政管理部门 | 设立区域教育政策研修员与轮岗实习制度，推行学者与官员配对方案（[[Policy Fellowships and Placements]]）（p. 38）。 |
 > | 构筑制度化使能环境，对开展跨界合作的学者与决策者给予实质性评价激励（p. 38）。 | 资助机构、高等院校、公共行政管理部门 | 设立 SDG 4 政策影响力学术专项奖，资助跨国政策制定者进入全球顶尖大学驻访（p. 38）。 |
 > | 大力投资政策相关实证合成能力，在证据分发的同时紧密跟进关系网络与系统支持（p. 38）。 | 研究资助机构与慈善基金会 | 依托大学与研究机构联合组建 SDG 4 证据中心（Evidence for SDG4 Centres）（p. 38）。 |
 > | 敦促教育学者拓宽分析视野，深度融合公共政策理论与知识[[Transfer Science\|转化科学]]（p. 38）。 | 教育科学研究界 | 组建跨学科知识转化课题群，主动吸纳政治学与公共管理学实证框架（p. 38）。 |

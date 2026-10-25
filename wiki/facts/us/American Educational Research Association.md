@@ -36,7 +36,7 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Theory of Knowledge]]"
   - "[[Value Neutrality]]"
-  - "[[Educational Brokerage Agency]]"
+  - "[[Knowledge Mediation]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"

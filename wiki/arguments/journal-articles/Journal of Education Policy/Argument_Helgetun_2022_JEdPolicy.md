@@ -45,6 +45,7 @@ related_theories:
   - "[[Institutional Isomorphism]]"
 related_methods:
   - "[[Elite Interview]]"
+  - "[[Experimental Research]]"
   - "[[Documentary Analysis]]"
   - "[[In-depth Interview]]"
   - "[[Triangulation]]"
@@ -60,8 +61,10 @@ related_facts:
   - "[[Committee for the Accreditation of Teacher Education]]"
   - "[[Initial Teacher Training Core Content Framework]]"
   - "[[Teacher Training Agency]]"
+  - "[[Department for Education]]"
   - "[[Teaching Schools]]"
   - "[[The Importance of Teaching]]"
+  - "[[The Royal Society]]"
   - "[[Education Endowment Foundation]]"
   - "[[Chartered College of Teaching]]"
   - "[[Carter Review of Initial Teacher Training]]"
@@ -78,7 +81,7 @@ title: "Argument_Helgetun_2022_JEdPolicy"
 argument_key: "Argument_Helgetun_2022_JEdPolicy"
 argument_display_title: "From an age of measurement to an evidence era? Policy-making in teacher education in England"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -194,7 +197,7 @@ issuing_organization: ""
 > [!row-contrast] 政策文本引文演化对比（1983 vs 2010）
 > | 比较维度 | 1983 年白皮书《教学质量》（*Teaching Quality*） | 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]（*The Importance of Teaching*） |
 > |---|---|---|
-> | **可追溯引文数量** | 仅 7 条参考文献（全部为内部委员会报告、皇家督学署 HMI 督导报告或[[Royal Society\|皇家学会]]报告） | 仅教师教育专属章节即包含 34 条引文，通篇密集引证 |
+> | **可追溯引文数量** | 仅 7 条参考文献（全部为内部委员会报告、皇家督学署 HMI 督导报告或[[The Royal Society\|皇家学会]]报告） | 仅教师教育专属章节即包含 34 条引文，通篇密集引证 |
 > | **文献来源构成** | 局限于教育部体系内部视导与行政调查成果 | 涵盖大学学者同行评议期刊、商业调研、国际组织与英国广播公司（BBC）媒体报道 |
 > | **合法化修辞基准** | 官僚科层与皇家督学署的行政法定权威 | 类似学术论文的标准引文格式与实证科学透明性 |
 > | **对证据类型的区分** | 侧重内部系统调查结论 | 未对严谨同行评议实证与非系统性媒体数据作[[Epistemology\|认识论]]区分 |

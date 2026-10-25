@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 32
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Performance Indicators]]"
   - "[[Socioeconomic Status]]"
+  - "[[Charter Schools]]"
   - "[[College and Career Readiness]]"
   - "[[Student Mobility]]"
   - "[[Transiency]]"
@@ -38,6 +39,8 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Scapegoat Mechanism]]"
   - "[[Migrant Children]]"
+  - "[[Policy Entrepreneur]]"
+  - "[[Policy Window]]"
 related_theories:
   - "[[Spatial Governmentality]]"
 related_methods:
@@ -48,10 +51,12 @@ related_persons:
   - "[[Yong Zhao]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
+  - "[[United States Department of Education]]"
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[A Nation at Risk 1983]]"
   - "[[National Assessment of Educational Progress]]"
+  - "[[EdStats]]"
   - "[[Common Core State Standards]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Race to the Top]]"

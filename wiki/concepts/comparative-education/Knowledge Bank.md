@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -117,9 +117,9 @@ updated: 2026-10-23
 ---
 
 > [!feature] 知识银行运作的核心制度构件
-> - **自指性最佳实践数据库（[[Warehousing of Good Practices|Warehousing of Good Practices]]）** 建立集中化政策数据库，将各借贷国的试点数据汇总至华盛顿总部清洗后归纳为通用处方，在后续国别借贷报告中反复循环引用自身既往项目，形成自我引证的实证支持体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 544–545)]]
+> - **自指性最佳实践数据库（[[Warehousing of Good Practices]]）** 建立集中化政策数据库，将各借贷国的试点数据汇总至华盛顿总部清洗后归纳为通用处方，在后续国别借贷报告中反复循环引用自身既往项目，形成自我引证的实证支持体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 544–545)]]
 > - **[[Epistemic Governance|认知治理]]三维架构（Epistemic Governance Triad）** 迈克·扎普（Mike Zapp）实证揭示，知识银行依托知识生产（自主科研与学术专著发表）、知识管理（文献库集中化与 SABER/[[Skills Toward Employment and Productivity|STEP]] 指标标准化）与知识传播（决策者培训、实地项目干预与仪式性赞誉）三维机制，构筑起系统化的全球认知治理网络，其教育学术产出达到全球顶尖大学均值的三倍。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 5–7)]]
-> - **[[Epistemology|认识论]]规训与指标诊断体系（[[Epistemic Governance|Epistemic Governance]] & [[Systems Approach for Better Education Results|SABER]]）** 推出涵盖 13 个领域的政策基准量规，将复杂的国家教育治理体制转译为可量化比较的标准指标，使外部政策干预呈现为客观、技术化的专业评估工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 542–543)]]
+> - **[[Epistemology|认识论]]规训与指标诊断体系（[[Epistemic Governance]] & [[Systems Approach for Better Education Results|SABER]]）** 推出涵盖 13 个领域的政策基准量规，将复杂的国家教育治理体制转译为可量化比较的标准指标，使外部政策干预呈现为客观、技术化的专业评估工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 542–543)]]
 > - **信贷资金作为政策推进支点（Funds as Policy Levers）** 资金注入构成了促使借款国政府协商并推进深层体制改革的关键机制；脱离贷款资金支持的单纯政策建议难以克服国内制度阻力（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 472–473]]）。然而批判学者指出，[[World Bank|世行]]资金在受援国教育总支出中的占比实际不足 0.5%，正是资金体量的有限性促成了其在 1996 年转向“知识银行”，转而以微小资金份额推动借款国采纳成套的外部制度模型。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–346)]]
 > - **理念成熟时滞与政策风潮更迭（Policy Fashion Cycles & Policy Maturation Lag）** 知识银行提出的前沿理念往往需要经历 10 至 20 年的漫长渗透方能被个别受援国在国家层面采纳（如学生学业评价、教科书标准化）；同时其政策优先项呈现出周期性的明显波动（从 20 世纪 60 年代大力资助高等教育，到暂停大学贷款十余年，再到在[[Knowledge-Based Economy|知识经济]]背景下重新支持高等教育）。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 473–474)]]
 

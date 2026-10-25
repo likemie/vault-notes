@@ -10,11 +10,11 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_display_title: "Chapter six: Academic scientific community"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
-issuing_organization: "[[Royal Society|The Royal Society]]"
+issuing_organization: "[[The Royal Society]]"
 year: 2026
 isbn: 978-1-78252-829-6
 publication_place: London
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Grandes Ecoles]]"
   - "[[Evidence Standards]]"
+  - "[[Social Support]]"
   - "[[Big Science]]"
   - "[[Academic Engagement]]"
   - "[[Knowledge Transfer]]"
@@ -63,6 +64,7 @@ related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Case Study]]"
+  - "[[Experimental Research]]"
   - "[[Longitudinal Study]]"
   - "[[Trend Study]]"
   - "[[In-depth Interview]]"
@@ -74,9 +76,11 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[The Perception Census]]"
+  - "[[The Royal Society]]"
+  - "[[Wellcome Trust]]"
   - "[[National Co-ordinating Centre for Public Engagement]]"
   - "[[UK Knowledge Exchange Framework]]"
-  - "[[Chinese Academy of Sciences]]"
+  - "[[UK Research and Innovation]]"
 related_arguments: []
 status: draft
 created: 2026-09-04
@@ -183,7 +187,7 @@ updated: 2026-10-26
 > - **战略功能** 为颠覆性前沿科技与医学突破赢得全社会理解接纳，避免大学陷入特权精英象牙塔危机。
 > - **制度要求** 超越单向公关宣传，要求大学在科研全生命周期中建立常态化、平权式的双向公众对话。（p. 93）
 
-为了解科研人员与高等教育机构在现实中如何看待与实施公众参与，[[Royal Society|英国皇家学会]]正式委托开展了《影响英国科研人员公众参与的因素调查 2025》（*Factors affecting public engagement by UK researchers 2025*），并同步组织全英大学高层领导圆桌会议，对学术共同体面临的微观实践与宏观体制张力进行了深度测度。（p. 93）
+为了解科研人员与高等教育机构在现实中如何看待与实施公众参与，[[The Royal Society|英国皇家学会]]正式委托开展了《影响英国科研人员公众参与的因素调查 2025》（*Factors affecting public engagement by UK researchers 2025*），并同步组织全英大学高层领导圆桌会议，对学术共同体面临的微观实践与宏观体制张力进行了深度测度。（p. 93）
 
 > [!contrast-table] 表6-1：一线科研人员微观参与动因与高等教育机构宏观战略诉求对比表（pp. 92–93）
 > | 比较维度 | 一线科研人员微观动因（Researcher Agency） | 高等教育机构宏观战略诉求（Institutional Strategy） | 互构共[[Conatus\|生机]]制与制度意义 |

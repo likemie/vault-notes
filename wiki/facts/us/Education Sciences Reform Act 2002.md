@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 23
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -43,7 +43,9 @@ related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[House Committee on Education and the Workforce]]"
   - "[[National Research Council]]"
+  - "[[United States Congress]]"
   - "[[What Works Clearinghouse]]"
+  - "[[United States Department of Education]]"
   - "[[American Educational Research Association]]"
   - "[[No Child Left Behind Act 2001]]"
 related_arguments:

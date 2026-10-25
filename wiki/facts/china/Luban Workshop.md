@@ -9,9 +9,9 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2016–至今"
 initiator_organization: "中华人民共和国教育部"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Engineering Education]]"
   - "[[Refined Mastery]]"
   - "[[People-to-People Connectivity]]"
+  - "[[Industry Affiliate Program]]"
   - "[[Technology Transfer]]"
   - "[[Beijing Consensus]]"
   - "[[South-South Cooperation]]"
@@ -40,6 +41,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[Belt and Road Initiative]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Forum on China-Africa Cooperation]]"
   - "[[Belt and Road Education Action Plan]]"
 related_arguments:

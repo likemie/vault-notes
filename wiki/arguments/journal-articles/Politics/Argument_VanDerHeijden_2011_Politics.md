@@ -55,6 +55,7 @@ related_persons:
   - "[[James Mahoney]]"
 related_facts:
   - "[[EU]]"
+  - "[[United States Congress]]"
 related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
 sources:
@@ -69,7 +70,7 @@ title: "Argument_VanDerHeijden_2011_Politics"
 argument_key: "Argument_VanDerHeijden_2011_Politics"
 argument_display_title: "Institutional layering: A review of the use of the concept"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"

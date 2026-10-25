@@ -1,7 +1,6 @@
 ---
-title: Royal Society
+title: The Royal Society
 aliases:
-  - The Royal Society
   - 英国皇家学会
   - 皇家学会
   - Royal Society of London
@@ -11,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: academic-society
 headquarters: "London, United Kingdom"
@@ -24,17 +23,31 @@ tags:
   - theme/science-communication
   - theme/public-engagement
   - theme/stem-education
-related_concepts: []
+related_concepts:
+  - "[[Informal Science Learning]]"
+  - "[[Reliability]]"
+  - "[[Scientific Attitude]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[American Association for the Advancement of Science]]"
+  - "[[Wellcome Trust]]"
+  - "[[UK Research and Innovation]]"
+  - "[[EngineeringUK]]"
+  - "[[UK Science Education Tracker]]"
+  - "[[Public Attitudes to Science]]"
+related_arguments:
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
 confidence: medium
 status: draft
 created: 2026-10-26
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

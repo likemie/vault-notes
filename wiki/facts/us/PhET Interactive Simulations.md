@@ -11,9 +11,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 21
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 19
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2002–至今"
 initiator_organization: "科罗拉多大学博尔德分校（University of Colorado Boulder）与卡尔·威曼（Carl E. Wieman，获 NSF 等资助）"
@@ -34,18 +34,16 @@ related_concepts:
   - "[[Computer Simulation]]"
   - "[[Academic Achievement]]"
   - "[[Self-Efficacy]]"
-  - "[[Dependent Variable]]"
+  - "[[Variable]]"
   - "[[Causality]]"
   - "[[STEM Education]]"
   - "[[Problem Solving]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Direct Instruction]]"
   - "[[Control of Variables Strategy]]"
-  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -56,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---

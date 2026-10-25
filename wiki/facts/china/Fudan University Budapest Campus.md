@@ -11,7 +11,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -41,6 +41,7 @@ related_facts:
   - "[[EU]]"
   - "[[Belt and Road Initiative]]"
   - "[[17+1 Cooperation]]"
+  - "[[European Commission]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
 confidence: high

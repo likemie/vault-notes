@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: government-research-agency
 headquarters: "Washington, D.C., USA"
@@ -33,6 +33,7 @@ related_instruments:
 related_persons:
   - "[[Richard J. Shavelson]]"
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[CORE Education]]"
   - "[[Education Resources Information Center]]"
   - "[[What Works Clearinghouse]]"
@@ -40,6 +41,7 @@ related_facts:
   - "[[National Assessment of Educational Progress]]"
   - "[[National Research Council]]"
   - "[[Education Sciences Reform Act 2002]]"
+  - "[[EdStats]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[No Child Left Behind Act 2001]]"

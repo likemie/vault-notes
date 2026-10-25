@@ -6,7 +6,7 @@ aliases:
 summary: "围绕数字平台、软件服务、数据基础设施和政策叙事形成的 EdTech 产业生态系统，通过利润、平等和专业发展等多重动机推动教育数字化、市场化和商业化。"
 type: concept
 domain: "educational-technology"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Virtual University]]"
   - "[[Lifelong Learning]]"
   - "[[Learning Analytics]]"
+  - "[[Personalized Learning]]"
   - "[[Self-Directed Learning]]"
 related_theories: []
 related_methods: []
@@ -35,12 +36,13 @@ related_facts:
   - "[[League of European Research Universities]]"
   - "[[EU]]"
   - "[[Bologna Process]]"
+  - "[[European Commission]]"
 related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 > [!info] 定义

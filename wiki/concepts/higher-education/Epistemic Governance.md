@@ -8,7 +8,7 @@ aliases:
 summary: "以规范、认知与知识体系为基石的全球与跨国治理机制；剖析高等教育机构与国际组织如何通过观念建构、议程设置与专业网络确立知识权威，并在地缘博弈中充当认识论规则重塑与软实力投射的制度载体。"
 type: concept
 domain: "higher-education"
-related_count: 54
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_theories:
   - "[[Radical Constructivism]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Trend Study]]"
   - "[[Content Analysis]]"
 related_persons: []
 related_facts:
@@ -77,10 +78,11 @@ related_arguments:
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
+  - "[[Argument_Zapp_2017_IJED]]"
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

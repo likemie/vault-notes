@@ -6,7 +6,7 @@ aliases:
 summary: "强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 42
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -43,6 +43,7 @@ related_theories:
   - "[[Cognitive Constructivism]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Action Research]]"
   - "[[Meta-meta-analysis]]"
@@ -60,6 +61,7 @@ related_facts:
   - "[[Open Court Reading]]"
   - "[[Reading Excellence Act]]"
   - "[[National Reading Panel]]"
+  - "[[United States Congress]]"
   - "[[No Child Left Behind Act 2001]]"
 related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
@@ -68,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 （全语言）

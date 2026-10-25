@@ -82,7 +82,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -207,7 +207,7 @@ updated: 2026-10-22
 
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]与方法含义
 > - **[[Ontology\|本体论]]** 社会文化历史[[Constructivist Paradigm\|建构主义]]——人类心理机能、行动与组织实践均嵌入在历史生成的活动系统中，由[[Artefact\|人工制品]]与符号工具所中介，不存在脱离情境的抽象个体认知。
-> - **[[Epistemology\|认识论]]** 辩证唯物主义认识论——矛盾是发展的根本动力，知识是在主体改造客体、跨越边界与解决系统矛盾的实践（[[Praxis\|Praxis]]）中动态生成的。
+> - **[[Epistemology\|认识论]]** 辩证唯物主义认识论——矛盾是发展的根本动力，知识是在主体改造客体、跨越边界与解决系统矛盾的实践（[[Praxis]]）中动态生成的。
 > - **方法含义** 倡导质性[[Case Study\|案例研究]]、[[Ethnography\|民族志]]、[[Systematic Review\|系统综述]]与发展性工作研究（Developmental Work Research, DWR），注重对活动六要素的动态编码与矛盾轨迹分析。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 593)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 3–5)]]
 > - **不能直接推出的东西** 本理论不能直接证明纯粹微观神经心理层面的因果反应，不能假设共享客体的建构必然自动带来系统和谐（可能存在权力遮蔽），更不能将“矛盾”简化为机械的[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]线性关系。
 

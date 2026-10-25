@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_facts:
   - "[[Inflation Reduction Act]]"
   - "[[Critical Raw Materials Act]]"
   - "[[Important Projects of Common European Interest]]"
+  - "[[European Commission]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[October 2022 US Semiconductor Export Controls]]"
 related_arguments:

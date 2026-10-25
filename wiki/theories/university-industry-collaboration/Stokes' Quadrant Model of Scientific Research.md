@@ -9,7 +9,7 @@ aliases:
 summary: "斯托克斯（Stokes, 1997）提出的二维科研动机分类框架，以追求基础机理理解与考虑现实实际应用两个独立维度正交构建四象限，打破了线性科技发展观与基础/应用二分法，为产学研协作、国家发展型网络国家干预与国际科研合作提供了认识论基石。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 40
+theory_related_count: 41
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -53,6 +53,7 @@ related_persons:
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Brookings Institution]]"
+  - "[[United States Congress]]"
   - "[[DARPA]]"
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
@@ -105,7 +106,7 @@ updated: 2026-10-26
 > | **基础理解维度（Quest for Fundamental Understanding）** | 动机坐标轴 | 考量研究是否致力于揭示自然规律、底层机理、因果结构与本质解释。 |
 > | **现实应用维度（Consideration of Use）** | 动机坐标轴 | 考量研究起点与终点是否直接服务于解决具体的生产、医疗、国防或社会实际瓶颈。 |
 > | **玻尔象限（Bohr's Quadrant）** | 理想类型 | 高理解、低应用；纯粹由智力好奇心驱动的[[Curiosity-Driven Research\|纯基础研究]]（如早期量子力学、理论物理、天体物理学）。 |
-> | **巴斯德象限（[[Pasteur's Quadrant\|Pasteur's Quadrant]]）** | 核心构件 | 高理解、高应用；**[[Use-Inspired Basic Research\|应用启发的基础研究]]**，在攻克重大现实难题的同时拓展人类深层科学规律认知。 |
+> | **巴斯德象限（[[Pasteur's Quadrant]]）** | 核心构件 | 高理解、高应用；**[[Use-Inspired Basic Research\|应用启发的基础研究]]**，在攻克重大现实难题的同时拓展人类深层科学规律认知。 |
 > | **爱迪生象限（Edison's Quadrant）** | 理想类型 | 低理解、高应用；追求实用成果但不对底层理论机制做系统溯源的纯[[Evaluation Research\|应用研究]]与试错开发（如白炽灯灯丝筛选试验）。 |
 > | **第四象限（Fourth Quadrant）** | 辅助类型 | 低理解、低应用；既不追求基础规律突破亦无即时应用目标的探索性观察、分类编目、常规数据采集与技能训练。 |
 

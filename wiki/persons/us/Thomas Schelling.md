@@ -11,7 +11,7 @@ summary: "美国著名经济学家、博弈论大师、诺贝尔经济学奖得�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -35,6 +35,8 @@ related_arguments:
 related_theories:
   - "[[Strategic Bargaining Theory]]"
 related_persons: []
+related_facts:
+  - "[[Department of Defense]]"
 confidence: high
 status: draft
 created: 2026-10-07

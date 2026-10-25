@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 110
+argument_related_count: 115
 argument_related_level: 11
 argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Construct Validity]]"
   - "[[Predictive Validity]]"
+  - "[[Scoring Rubrics]]"
   - "[[Divergent Thinking]]"
   - "[[Task Structure]]"
   - "[[Rote Learning]]"
@@ -70,6 +71,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Chain of Evidence]]"
   - "[[Scaffolding]]"
+  - "[[Peer Assessment]]"
   - "[[Communities of Practice]]"
   - "[[Feedback]]"
 related_theories:
@@ -127,6 +129,8 @@ related_facts:
   - "[[European Standards and Guidelines]]"
   - "[[Norwegian Agency for Quality Assurance in Education]]"
   - "[[StraNES]]"
+  - "[[Exame Nacional de Desempenho dos Estudantes]]"
+  - "[[Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[Council for Aid to Education]]"
   - "[[Higher Education Funding Council for England]]"
@@ -139,6 +143,7 @@ related_facts:
   - "[[French Baccalaureat 2021 Reform]]"
   - "[[Centro Nacional de Evaluación para la Educación Superior]]"
   - "[[Voluntary System of Accountability]]"
+  - "[[United States Department of Education]]"
   - "[[Spellings Report]]"
   - "[[Rainbow Project]]"
   - "[[TESTA Project]]"
@@ -290,6 +295,7 @@ updated: 2026-10-26
 > | **法国** | [[StraNES\|法国国家高教战略白皮书]]（2017）与《学士学位法令》（2018） | 强调跨学科批判素养、智识自主性与创新实践能力。 | 法律明令废除单一期末统考主导，强制推行平时过程性考核（Contrôle continu）。 |
 > | **美国（弗州）** | 弗吉尼亚州高等教育总体规划（SCHEV 政策） | 将批判性思维、书面沟通列为大学本科六大通识核心能力。 | 州高教委员会强制要求公立院校定期评估并呈报大学生的批判思维与通用能力增益。 |
 > | **奥地利** | 《新教师教育方案》（PädagogInnenbildung Neu, 2013） | 将创造力、批判反思与审美教育确立为师范生核心胜任力。 | 在初任教师国家标准中建立跨学段阶梯式观察指标与表现评价要求。 |
+> | **巴西** | [[Exame Nacional de Desempenho dos Estudantes\|全国学生学业成就测试]]（Exame Nacional de Desempenho dos Estudantes, ENADE, 2004 起） | 毕业统考考核通用核心素养（占 25%）与专业学科知识（占 75%）。 | 由[[Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira\|巴西国家教育研究院]]（INEP）对应届本科毕业生实施，成绩与大学质量评级挂钩。（p. 16） |
 >
 > （pp. 11–16）
 

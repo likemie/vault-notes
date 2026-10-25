@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Australian Curriculum]]"
+  - "[[NAPLAN]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Strong Beginnings Report]]"

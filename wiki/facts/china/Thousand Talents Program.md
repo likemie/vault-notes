@@ -10,9 +10,9 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 13
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2008–2018"
 initiator_organization: "中共中央组织部 / 中华人民共和国人力资源和社会保障部"
@@ -24,25 +24,33 @@ tags:
   - knowledge-transfer
   - higher-education
 related_concepts:
-  - "[[Geopolitics of Knowledge]]"
-  - "[[Knowledge Transfer]]"
-  - "[[Economic and Industrial Espionage]]"
+  - "[[Research Universities]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Paradigm]]"
   - "[[Geopolitics]]"
   - "[[Technology Transfer]]"
+  - "[[Academic Freedom]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Zhonghua Minzu]]"
+  - "[[Discourse]]"
+  - "[[Theoretical Perspective]]"
+  - "[[Economic and Industrial Espionage]]"
   - "[[Asymmetric Brain Circulation]]"
-  - "[[Research Universities]]"
-  - "[[Analytic Framework]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[US-China Economic and Security Review Commission]]"
-  - "[[Sino-American Trade War]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[Made in China 2025]]"
+  - "[[Sino-American Trade War]]"
+  - "[[US-China Economic and Security Review Commission]]"
+  - "[[United States Congress]]"
 related_arguments:
-  - "[[Argument_Partaken_2022_Springer]]"
   - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_Partaken_2022_Springer]]"
 confidence: high
 status: draft
 created: 2026-05-10

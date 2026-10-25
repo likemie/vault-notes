@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-21
+updated: 2026-10-26
 ---
 
 ---
@@ -288,7 +288,7 @@ updated: 2026-10-21
 > | [[National Strategy for Educational Research and Enquiry]] | 政策事实 | 威尔士教育科研战略，体现了复杂适应系统治理中跨层次协同与全域网络整合的先锋实践。 |
 > | [[Teaching and Learning Research Initiative]] | 项目事实 | 新西兰科研伙伴项目，体现了微观行动者之间基于伙伴关系的自组织共创与自适应演进。 |
 > | [[Absorptive Capacity]] | 概念 | 单体学校作为自组织系统吸收与转化外部实证知识的内在能力门槛。 |
-> | [[German State Educational Institutes and Quality Agencies\|German State Educational Institutes and Quality Agencies]] | 机构事实 | 德语区中层研训与质量机构，作为复杂多层级教育治理中的关键组织界面与缓冲实体。 |
+> | [[German State Educational Institutes and Quality Agencies]] | 机构事实 | 德语区中层研训与质量机构，作为复杂多层级教育治理中的关键组织界面与缓冲实体。 |
 > | [[Transfer Science]] | 理论 | 将复杂教育生态中的知识转化全过程确立为独立经验对象的元[[Scientific Paradigm\|科学范式]]。 |
 > | [[School Inspection]] | 机制概念 | 外部质量视导机制，在多层级复杂适应系统中常因基层自由裁量权与文化防御而遭遇成效衰减。 |
 > | [[Vergleichsarbeiten]] | 评估事实 | 德语区全州学业统测，其在单体学校层面的成效缺失反证了忽视学校自组织重构的线性数据治理之限。 |

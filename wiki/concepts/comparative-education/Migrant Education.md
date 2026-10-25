@@ -9,7 +9,7 @@ aliases:
 summary: "流动儿童教育是指面向因父母生计迁移、季节性务工或无证流动而处于迁徙过渡状态的学龄儿童所实施的教育供给与治理模式；在比较教育学与空间治理视野下，流动儿童教育不同于预设永久定居与文化同化的传统移民教育，而是深受身份登记、空间封闭与学籍准入制度的规制，体现了现代学校作为人口治理容器与向上流动资格筛选关卡的双重政治功能。"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,6 +21,7 @@ tags:
   - theme/student-mobility
 related_concepts:
   - "[[Migrant Children]]"
+  - "[[Immigrant Status]]"
   - "[[Intercultural Education]]"
   - "[[Language Skills]]"
   - "[[Student Mobility]]"
@@ -43,6 +44,7 @@ related_facts:
   - "[[Hukou System]]"
   - "[[Schools for Migrant Children]]"
   - "[[Plyler v. Doe 1982]]"
+  - "[[United States Department of Education]]"
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[No Child Left Behind Act 2001]]"
 related_arguments:
@@ -50,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

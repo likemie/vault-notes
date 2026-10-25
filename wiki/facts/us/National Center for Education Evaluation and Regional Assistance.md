@@ -11,7 +11,7 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 43
+fact_related_count: 46
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Evidence-Based Education]]"
   - "[[Evaluator Independence]]"
+  - "[[Charter Schools]]"
   - "[[Response to Intervention]]"
   - "[[Recommendations for Practice]]"
   - "[[Attrition]]"
@@ -58,6 +59,7 @@ related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[What Works Clearinghouse]]"
   - "[[Education Resources Information Center]]"
+  - "[[United States Congress]]"
   - "[[Education Sciences Reform Act 2002]]"
   - "[[Race to the Top]]"
   - "[[Every Student Succeeds Act]]"
@@ -68,6 +70,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Australian Education Research Organisation]]"
   - "[[Education Innovation and Research]]"
+  - "[[United States Department of Education]]"
   - "[[Investing in Innovation Program]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"

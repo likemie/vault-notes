@@ -11,9 +11,9 @@ summary: "一种用于将异质性样本依据多维变量特征相似度划分�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 20
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -41,10 +41,11 @@ related_methods:
   - "[[Cluster Sampling]]"
 related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
+  - "[[Argument_Custer_2021_AidData]]"
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

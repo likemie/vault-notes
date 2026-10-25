@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 66
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 71
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Research Purpose]]"
   - "[[Descriptive Research Question]]"
+  - "[[Student Motivation]]"
   - "[[Homework]]"
   - "[[Causality]]"
   - "[[Construct]]"
@@ -43,11 +44,13 @@ related_concepts:
   - "[[Covert Research]]"
   - "[[Research Question]]"
   - "[[Informed Consent]]"
+  - "[[Student Depression]]"
   - "[[Literature Review]]"
   - "[[Research Practicability]]"
   - "[[Research Scope]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
+  - "[[School Bullying]]"
   - "[[Self-Efficacy]]"
   - "[[Class Size]]"
   - "[[Policy Borrowing]]"
@@ -94,6 +97,8 @@ related_methods:
   - "[[Mixed Methods Research]]"
 related_persons: []
 related_facts:
+  - "[[Economic and Social Research Council]]"
+  - "[[National Research Council]]"
   - "[[PISA]]"
   - "[[Achieve]]"
   - "[[Research in Schools Evaluation]]"

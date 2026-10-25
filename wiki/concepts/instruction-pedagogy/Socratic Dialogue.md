@@ -10,7 +10,7 @@ aliases:
 summary: "以连续提问、澄清假设、呈现反例与暴露认知矛盾为核心的启发式教学对话策略，在哲学思辨与理科探究中作为关键言语支架促进概念重构与批判性思维发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 38
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -50,7 +50,6 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Experimental Research]]"
 related_instruments: []
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -6,7 +6,7 @@ aliases:
 summary: "指以创新为主导、以高科技、高效能、高质量为特征的先进生产力质态，以全要素生产率提升为标志，要求重塑技术技能人才素养结构与产教协同网络。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -14,10 +14,14 @@ tags:
   - economics/productivity
   - region/china
   - policy/innovation
+related_concepts:
+  - "[[Total Factor Productivity]]"
+related_arguments:
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

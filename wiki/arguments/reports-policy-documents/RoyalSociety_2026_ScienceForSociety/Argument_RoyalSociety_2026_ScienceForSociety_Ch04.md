@@ -10,11 +10,11 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_display_title: "Chapter four: Industry and business sector"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
-issuing_organization: "[[Royal Society|The Royal Society]]"
+issuing_organization: "[[The Royal Society]]"
 year: 2026
 isbn: 978-1-78252-829-6
 publication_place: London
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Informal Science Learning]]"
   - "[[Technology Habituation]]"
   - "[[Habituation]]"
+  - "[[Augmented Reality]]"
   - "[[Science Journalism]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Industry Affiliate Program]]"
@@ -75,9 +76,11 @@ related_facts:
   - "[[EU]]"
   - "[[Association for Science and Discovery Centres]]"
   - "[[Sciencewise]]"
+  - "[[UK Research and Innovation]]"
   - "[[Advanced Manufacturing Research Centre]]"
   - "[[Association of Medical Research Charities]]"
   - "[[Big Butterfly Count]]"
+  - "[[The Royal Society]]"
   - "[[Gatsby Benchmarks]]"
 status: draft
 created: 2026-09-04
@@ -300,7 +303,7 @@ updated: 2026-10-26
 > [!case] 案例研究五：Google DeepMind 与 OpenAI 前沿人工智能公众审议试验：商业实验室的“公民声音”（Groves, 2023; p. 73）
 > - **试验背景与动机** 鉴于公众对 AI 益处的认同度跌至 33%（PAS 2025），部分领先的商业人工智能实验室尝试开展“公民声音”（Citizen Voice）参与试验。
 > - **典型代表性探索**
->   - *DeepMind 伦理公民陪审团（Citizens' Jury）* 2018 年，Google DeepMind 联合英国皇家艺术、制造与商业学会（[[Royal Society]] of Arts, RSA）举办 AI 医疗伦理公民陪审团，邀请具有人口代表性的普通公民就算法辅助疾病诊断中的数据所有权与算法偏见进行多天封闭式深度质询与民主审议；
+>   - *DeepMind 伦理公民陪审团（Citizens' Jury）* 2018 年，Google DeepMind 联合英国皇家艺术、制造与商业学会（Royal Society of Arts, RSA）举办 AI 医疗伦理公民陪审团，邀请具有人口代表性的普通公民就算法辅助疾病诊断中的数据所有权与算法偏见进行多天封闭式深度质询与民主审议；
 >   - *OpenAI“AI 民主输入”（Democratic Inputs to AI）* 设立专项资助基金，邀请全球跨学科团队探索利用维基审议、公民议会等工具向大语言模型输入集体价值取向。
 > - **取得的试验成效** 为前沿实验室探索公众审议机制积累了一手经验，揭示了普通公民在充分信息赋权下对算法偏见与数据正义的敏锐洞察。
 > - **制度化局限与启示** 权威评估表明此类探索多具单次公关性质，未能与核心模型训练迭代产生长效闭环，商业 AI 亟需建立常态化、受外部独立审计的民主审议制度。
@@ -368,7 +371,7 @@ updated: 2026-10-26
 
 ### 论证步骤五：政策制度化协同与行动蓝图：采购激励、前沿去神秘化与科学家赋权（pp. 76–77）
 
-基于对产业研发体量、公众信任断层及第三部门成熟经验的系统诊断，英国皇家学会正式确立了三项具有针对性的国家级行动蓝图（Recommendations 11–13）：
+基于对产业研发体量、公众信任断层及第三部门成熟经验的系统诊断，[[The Royal Society|英国皇家学会]]正式确立了三项具有针对性的国家级行动蓝图（Recommendations 11–13）：
 
 > [!claim|lead] 步骤五核心主张
 > 解决产业研发与公众认知的深刻脱节，必须实现政策工具、企业治理与科学家赋权的三维协同：中央政府应通过采购制度法定 10% 社会价值与研发拨款挂钩考核，为企业参与提供硬性财税激励；新兴科技与人工智能企业必须主动打破神秘感、建立全生命周期的常态化民主审议；企业雇主则须将公众沟通培训与带薪激励内嵌于科学家职业发展通道，全面激发科技主力军的公共发声潜能。（pp. 76–77）

@@ -7,7 +7,7 @@ aliases:
 summary: "在政策制定、执行与监督全周期中，系统评估拟议或现行规制方案对社会、经济及制度环境产生的预期成效与合规成本的循证评估方法，旨在提升公共政策的适应性、前瞻性与制度质量。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 0
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,17 +17,20 @@ tags:
   - policy-evaluation
   - evidence-based-policy
   - governance
-related_concepts: []
+related_concepts:
+  - "[[Output-Oriented Governance]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Comparative Policy Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Regulatory Impact Analysis

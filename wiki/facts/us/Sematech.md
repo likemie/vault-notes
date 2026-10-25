@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 53
+fact_related_count: 55
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -62,11 +62,13 @@ related_persons:
   - "[[David C. Mowery]]"
   - "[[Erica Fuchs]]"
 related_facts:
+  - "[[Department of Defense]]"
   - "[[DARPA]]"
   - "[[EUV LLC]]"
   - "[[Human Genome Project]]"
   - "[[Sematech Centers of Excellence]]"
   - "[[Semiconductor Research Corporation]]"
+  - "[[Skills Toward Employment and Productivity]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"

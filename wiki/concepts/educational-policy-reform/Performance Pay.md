@@ -9,7 +9,7 @@ aliases:
 summary: "将教师薪酬与教学表现或测试产出挂钩的激励制度，新自由主义常视其为提升质量的手段，但面临跨国实证脱节、破坏合作文化及现场试验中遭教师强烈伦理抵制而流产等多重批判"
 type: concept
 domain: "educational-policy-reform"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -56,6 +56,7 @@ related_persons:
   - "[[Michael Gove]]"
   - "[[Ivan Snook]]"
 related_facts:
+  - "[[Department for Education]]"
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[Incentivised Pay and Coaching Trial]]"
@@ -74,7 +75,7 @@ related_instruments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 > [!def] Performance Pay

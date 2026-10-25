@@ -56,13 +56,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定性
-> 比较教育研究策略调查是由加州大学洛杉矶分校（UCLA）[[Val D. Rust|瓦尔·拉斯特]]（[[Val D. Rust|Val D. Rust]]）领衔的研究团队于 1990 年代末开展的标志性期刊计量元研究（Meta-research）。该调查通过对国际比较教育学界三大旗舰学术期刊数十年间发表的全部论文进行大规模[[Content Analysis|内容分析]]（Content Analysis），首次以无可辩驳的计量数据证实了学科已实质性告别缺乏规范方法的游记随笔与[[Primary and Secondary Documents|二手文献]]思辨，完成了向多元经验实证社会科学的根本转型，是学科史上被引用最广的方法论实证快照。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 130–131, 136 注 6)]]
+> 比较教育研究策略调查是由加州大学洛杉矶分校（UCLA）[[Val D. Rust|瓦尔·拉斯特]]（[[Val D. Rust]]）领衔的研究团队于 1990 年代末开展的标志性期刊计量元研究（Meta-research）。该调查通过对国际比较教育学界三大旗舰学术期刊数十年间发表的全部论文进行大规模[[Content Analysis|内容分析]]（Content Analysis），首次以无可辩驳的计量数据证实了学科已实质性告别缺乏规范方法的游记随笔与[[Primary and Secondary Documents|二手文献]]思辨，完成了向多元经验实证社会科学的根本转型，是学科史上被引用最广的方法论实证快照。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 130–131, 136 注 6)]]
 
 > [!event-context] 事件背景
 > - **时间节点** 1999 年正式发表于《比较教育评论》（*Comparative Education Review*, 43(1), 86–109），追踪范围覆盖 1960 年代至 1990 年代后期的长期跨度。

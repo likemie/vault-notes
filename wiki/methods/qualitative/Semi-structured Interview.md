@@ -8,9 +8,9 @@ summary: "在预先准备的话题提纲与开放式追问之间取得平衡的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 41
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Visible Learning]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Soft Power]]"
 related_methods:
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"
@@ -51,10 +52,12 @@ related_arguments:
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Logar_2014_Minerva]]"
   - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
 related_facts:
   - "[[OECD]]"
   - "[[Semiconductor Research Corporation]]"
+  - "[[HM Treasury]]"
   - "[[MDRC]]"
   - "[[Confucius Institute]]"
 related_persons:

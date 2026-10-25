@@ -13,7 +13,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -48,6 +48,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
+  - "[[The Royal Society]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
@@ -119,7 +120,7 @@ updated: 2026-10-26
 > [!debates] 机构路线争议
 >
 > > [!axis] 独立学术研究 vs 官僚行政附庸
-> > - **[[Michael Sadler|萨德勒]]理念** 坚信教育情报机构应当像[[Royal Society|皇家学会]]一样保持高度思想自主，其任务是提供客观、深入、具有批判性的深层分析，乃至指出本国政府政策的盲区，为整个国民社会凝聚远见。[[Argument_Kazamias_2009_ForgottenThemes|(Higginson, 1961; Kazamias, 2009: 45, 引自 Kazamias, 2009b)]]
+> > - **[[Michael Sadler|萨德勒]]理念** 坚信教育情报机构应当像[[The Royal Society|皇家学会]]一样保持高度思想自主，其任务是提供客观、深入、具有批判性的深层分析，乃至指出本国政府政策的盲区，为整个国民社会凝聚远见。[[Argument_Kazamias_2009_ForgottenThemes|(Higginson, 1961; Kazamias, 2009: 45, 引自 Kazamias, 2009b)]]
 > > - **莫兰特官僚立场** 认为政府下属机构的研究必须服从内阁大臣与常任次官的行政意志，报告只能作为现行立法改革与行政条令的论证注脚，严禁发表可能削弱官方立场的独立见解。这一根本冲突最终导致萨德勒出走。
 
 ---

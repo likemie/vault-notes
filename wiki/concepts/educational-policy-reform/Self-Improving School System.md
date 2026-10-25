@@ -8,7 +8,7 @@ aliases:
 summary: "英格兰基础教育治理转型中的核心政策取向，主张学校与教师承担自我改进的第一责任，依托多学院信托与教学学校联盟实现校际互助与证据扩散，将中央干预降至最低；其实践成效高度依赖学校的研究使用能力，并与延续的高压绩效问责体制存在深层结构性张力。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ tags:
   - region/uk
 related_concepts:
   - "[[Network Governance]]"
+  - "[[Mutual Learning]]"
   - "[[Paradigm]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Strategic Compliance]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Discourse]]"
   - "[[Variable]]"
+  - "[[Evidence Culture]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -59,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

@@ -13,7 +13,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -45,10 +45,13 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Department of Commerce]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Science Foundation]]"
   - "[[Department of Energy]]"
+  - "[[Department of Defense]]"
   - "[[NSF Regional Innovation Engines]]"
+  - "[[United States Congress]]"
   - "[[Albany NanoTech Complex]]"
 related_arguments:
   - "[[Argument_Zhuo_2026_ICE]]"

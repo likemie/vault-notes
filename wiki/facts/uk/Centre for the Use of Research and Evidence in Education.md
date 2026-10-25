@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Lesson Study]]"
   - "[[Formative Assessment]]"
+  - "[[Differentiated Instruction]]"
   - "[[Peer Mentoring]]"
   - "[[Classroom Management]]"
   - "[[Practice-Based Evidence]]"
@@ -61,6 +62,7 @@ related_facts:
   - "[[EPPI-Centre]]"
   - "[[What Works Clearinghouse]]"
   - "[[Best Evidence Synthesis]]"
+  - "[[Department for Education]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"

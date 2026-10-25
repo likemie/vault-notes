@@ -11,7 +11,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_persons:
   - "[[Johann Wilhelm Süvern]]"
 related_facts:
   - "[[Prussian Draft Education Law of 1819]]"
+  - "[[National Education]]"
 related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 confidence: high

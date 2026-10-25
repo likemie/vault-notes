@@ -7,9 +7,9 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 78
-related_level: 7
-related_stars: "💎💎⭐"
+related_count: 85
+related_level: 8
+related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/knowledge-based-economy
@@ -49,10 +49,13 @@ related_concepts:
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Procedural Knowledge]]"
   - "[[Subsidiarity Principle]]"
+  - "[[Open Method of Coordination]]"
+  - "[[Performance Indicators]]"
   - "[[Intellectual Capital]]"
   - "[[National Innovation System]]"
   - "[[Constructed Knowledge]]"
   - "[[STEM Education]]"
+  - "[[European Education Space]]"
   - "[[Technology Transfer]]"
   - "[[National Competitive Advantage]]"
   - "[[Public Value]]"
@@ -71,6 +74,7 @@ related_theories:
   - "[[Systems of Innovation]]"
   - "[[Cultural Political Economy]]"
 related_methods:
+  - "[[Single-Case Design]]"
   - "[[Discourse Analysis]]"
   - "[[Effect Size]]"
   - "[[Content Analysis]]"
@@ -81,6 +85,7 @@ related_persons:
   - "[[Fred Block]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Sotiria Grek]]"
   - "[[Friedrich List]]"
 related_facts:
   - "[[OECD]]"
@@ -90,6 +95,8 @@ related_facts:
   - "[[Melbourne Declaration]]"
   - "[[UNESCO]]"
   - "[[Lisbon Strategy]]"
+  - "[[European Commission]]"
+  - "[[PISA]]"
   - "[[Bologna Process]]"
   - "[[UAE Education Hub Projects]]"
 related_arguments:
@@ -106,7 +113,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

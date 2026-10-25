@@ -44,6 +44,7 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[Inflation Reduction Act]]"
   - "[[International Reading Association]]"
+  - "[[Department of Commerce]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
   - "[[NSF Regional Innovation Engines]]"
@@ -64,9 +65,9 @@ title: "Argument_Reynolds_2024_JICT"
 argument_key: "Argument_Reynolds_2024_JICT"
 argument_display_title: "U.S"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Journal of Industry, Competition and Trade"
 ---
@@ -100,7 +101,7 @@ journal: "Journal of Industry, Competition and Trade"
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **政策文献分析**<br>[[Documentary Analysis\|Documentary Analysis]] | 运用政策与法规文献分析方法，系统剖析美国三大联邦法案文本（[[Infrastructure Investment and Jobs Act\|IIJA]], [[CHIPS and Science Act]], [[International Reading Association\|IRA]]）的法定条款、实施细则及资助机会公告（Notice of Funding Opportunity, NOFO）。 |
+> | **政策文献分析**<br>[[Documentary Analysis]] | 运用政策与法规文献分析方法，系统剖析美国三大联邦法案文本（[[Infrastructure Investment and Jobs Act\|IIJA]], [[CHIPS and Science Act]], [[International Reading Association\|IRA]]）的法定条款、实施细则及资助机会公告（Notice of Funding Opportunity, NOFO）。 |
 > | **比较制度分析**<br>Comparative Institutional Analysis | 横向对比三大法案在政策目标（供应链韧性、再工业化、气候转型）、工具属性（直接拨款 vs. 税收抵免 vs. 政府采购）及约束机制（护栏 vs. 附加条件）上的异同。 |
 > | **过程治理框架建构**<br>Process-based Policy Evaluation | 综合[[Evolutionary Economics\|演化经济学]]、公共治理与产业政策文献，提炼出保障产业政策落地实施的七项操作性过程准则与成效评估维度。 |
 

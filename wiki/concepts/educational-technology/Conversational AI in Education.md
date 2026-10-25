@@ -11,7 +11,7 @@ aliases:
 summary: "依托自然语言处理与多轮语音文本交互技术，在教学情境中提供拟真会话演练、即时纠错反馈、启发式追问与自适应语料推送的交互中介系统。"
 type: concept
 domain: "educational-technology"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,11 +33,10 @@ related_concepts:
   - "[[Dependent Variable]]"
 related_theories: []
 related_methods:
-  - "[[Effect Size]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
+  - "[[Effect Size]]"
+  - "[[Meta-analysis]]"
 related_persons:
   - "[[Socrates]]"
 related_facts: []
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Conversational AI in Education

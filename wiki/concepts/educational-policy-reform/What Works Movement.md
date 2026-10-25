@@ -9,10 +9,10 @@ aliases:
 summary: "20世纪末兴起于英美澳等国的公共治理与教育改革运动，主张以因果推断量化证据识别有效干预，依托法定知识中介组织转化证据，重塑公共财政配置与专业实践。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 61
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - subject/educational-policy-reform
   - evidence-based-education
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Realism in International Relations]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Whole-School Improvement]]"
 related_theories:
   - "[[Realist Evaluation]]"
   - "[[Growth Mindset]]"
@@ -78,6 +79,7 @@ related_facts:
   - "[[National Pupil Database]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Education Sciences Reform Act 2002]]"
+  - "[[Department for Education]]"
 related_persons:
   - "[[Gert Biesta]]"
 related_arguments:
@@ -88,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

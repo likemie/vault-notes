@@ -69,7 +69,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-18
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Altrichter_2019_ZfB"
@@ -130,7 +130,7 @@ issuing_organization: ""
 > |---|---|
 > | **调查设计**<br>横截面问卷调查 | 依托欧盟资助的跨国比较项目 ISI-TL（Ehren et al., 2013; Gustafsson et al., 2015），对奥地利施泰尔马克州全部公立义务教育学校展开全覆盖在线[[Questionnaire\|问卷调查]]（2012 年 11 月至 2013 年 2 月）。 |
 > | **分类分析**<br>[[Cluster Analysis\|k 均值聚类分析]] | 运用 $k$ 均值聚类算法对 22 项治理态度题项展开无监督聚类；系统检验 2 至 5 类的聚类方案，在组间方差分离度与理论解释度之间权衡后选定最优的 3 聚类解，并借助组内相关系数（Intraclass Correlation Coefficient, ICC）检验各题项对聚类形成的判别效度。 |
-> | **组间差异检验与[[Effect Size\|效应量]]** | 运用单因素方差分析（Analysis of Variance, ANOVA）比较三类聚类群体在学校发展活动与工时分配上的均值差异；报告效应量 [[Omega-Squared\|Omega-Squared]]（$\omega^2$）评估实际效应大小，并报告事后 $t$ 检验的两两比较效应量 Cohen's $d$（$\omega^2 > 0.01$ 为弱效应、$0.06$ 为中等效应、$0.14$ 为强效应；$d = 0.20$ 为弱、$0.50$ 为中等、$0.80$ 为强）。 |
+> | **组间差异检验与[[Effect Size\|效应量]]** | 运用单因素方差分析（Analysis of Variance, ANOVA）比较三类聚类群体在学校发展活动与工时分配上的均值差异；报告效应量 [[Omega-Squared]]（$\omega^2$）评估实际效应大小，并报告事后 $t$ 检验的两两比较效应量 Cohen's $d$（$\omega^2 > 0.01$ 为弱效应、$0.06$ 为中等效应、$0.14$ 为强效应；$d = 0.20$ 为弱、$0.50$ 为中等、$0.80$ 为强）。 |
 > | **计算与软件工具** | 采用 R 语言（R Core Team, 2018）、SPSS 22 与 G*Power 3（Faul et al., 2007）进行统计建模、假设检验与统计功效测算。 |
 
 > [!sample-panel]- 样本与材料快照

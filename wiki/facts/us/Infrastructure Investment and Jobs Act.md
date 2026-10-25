@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_facts:
   - "[[Inflation Reduction Act]]"
   - "[[International Reading Association]]"
   - "[[Build America, Buy America Act]]"
+  - "[[United States Congress]]"
   - "[[Department of Energy]]"
 related_arguments:
   - "[[Argument_Reynolds_2024_JICT]]"

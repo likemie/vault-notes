@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -103,7 +103,7 @@ updated: 2026-10-22
 > - **动机成分（Motivational Component）** 认识主体对真理、知识、认知连贯性与深层理解抱有真诚的内在热爱与追求欲望，是主动发起探究与持续克服困难的心智动力。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, p. 273)]]
 > - **技能与能力构件（Skill / Competence Component）** 确保探究活动朝向成功的高效认知程序与智力技能（如[[Skill of Questioning|善于提问]]、逻辑审思、证据评估、发散构思等）。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 272–274)]]
 > - **认识善品导向性（Epistemic Goods Orientation）** 美德的成立必然以促进真实信念形成、纠正系统性错误或深化概念解释网络为规范导向。[[Argument_Chinn_2011_EducPsychol|(Chinn et al., 2011, p. 142)]]
-> - **[[Intellectual Emotions|理智情感]]中介纽带（[[Intellectual Emotions|Intellectual Emotions]] Mediation）** 好奇、惊异、着迷与理智敬畏等认识论情感充当心理催化剂，推动外在程序性练习内化升华为稳定的内在求真品格。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 278–282)]]
+> - **[[Intellectual Emotions|理智情感]]中介纽带（[[Intellectual Emotions]] Mediation）** 好奇、惊异、着迷与理智敬畏等认识论情感充当心理催化剂，推动外在程序性练习内化升华为稳定的内在求真品格。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 278–282)]]
 > - **情境敏感性与反思调节（Context Sensitivity）** 美德的展现高度依赖具体情境的证据结构。面对压倒性反面事实坚持己见属于思想封闭，面对不公压力捍卫真理则属于理智勇气。[[Argument_Chinn_2011_EducPsychol|(Chinn et al., 2011, p. 156)]]
 
 > [!logic-map]- 理智美德的生成与维系机制

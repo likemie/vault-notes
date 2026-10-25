@@ -7,7 +7,7 @@ aliases:
 summary: "区分学生在具体任务中采用的表层与深层学习方式，强调学习取向由学习意图、知识基础、任务活动、课程结构与评估情境共同塑造"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 42
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -32,8 +32,8 @@ related_concepts:
   - "[[Assessment Backwash]]"
   - "[[Paradox of the Chinese Learner]]"
   - "[[Student Learning Research]]"
-  - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
+  - "[[Dependent Variable]]"
   - "[[Chinese Learner]]"
   - "[[Dynamic Assessment]]"
   - "[[Academic Achievement]]"
@@ -49,7 +49,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Research Synthesis]]"
-  - "[[Confidence Interval]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[John Biggs]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -9,7 +9,7 @@ title: "Argument_Partaken_2022_Springer"
 argument_key: "Argument_Partaken_2022_Springer"
 argument_display_title: "Two faces of geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -68,6 +68,7 @@ related_persons:
   - "[[Aristotle]]"
   - "[[Confucius]]"
 related_facts:
+  - "[[United States Congress]]"
   - "[[US-China Economic and Security Review Commission]]"
   - "[[Made in China 2025]]"
   - "[[EU]]"

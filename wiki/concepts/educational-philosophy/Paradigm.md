@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -170,7 +170,7 @@ updated: 2026-10-22
 > 聚焦范式之间缺乏公认的中立评价尺度，以及范式胜出往往依托学术权威与制度建制的权力属性。
 
 > [!claim] Kuhn, T.
-> **范式间的不可[[Commensuration|通约]]性阻断了纯中立的优劣裁决** 库恩确立了经典的不可通约性论点（[[Incommensurability|Incommensurability]]）：不同范式植根于截然不同的实在观与方法公理，二者之间不存在超然的、共同的衡量尺度。选择一种范式意味着接纳一整套不可分割的世界观体系，因而学者无法在保留旧范式[[Ontology|本体论]]的同时无缝采纳新范式。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
+> **范式间的不可[[Commensuration|通约]]性阻断了纯中立的优劣裁决** 库恩确立了经典的不可通约性论点（[[Incommensurability]]）：不同范式植根于截然不同的实在观与方法公理，二者之间不存在超然的、共同的衡量尺度。选择一种范式意味着接纳一整套不可分割的世界观体系，因而学者无法在保留旧范式[[Ontology|本体论]]的同时无缝采纳新范式。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 
 > [!claim] Cohen, L. et al.
 > **范式的正统地位依赖学术建制的权威认可** 一个范式的确立不仅取决于经验证据的充沛性，更深刻受制于其在学术共同体权威与政治权力网络中的被认可程度；知识生产不仅是一项认知探索，更是一项镶嵌于大学教席、学术期刊与资助体制中的社会与政治行动。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]

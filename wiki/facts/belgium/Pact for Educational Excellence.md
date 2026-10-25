@@ -31,9 +31,9 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Case Study]]"
   - "[[Longitudinal Study]]"
-  - "[[Experimental Research]]"
   - "[[Qualitative Research]]"
 related_persons: []
 related_facts:

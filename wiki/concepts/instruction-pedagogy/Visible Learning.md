@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 156
+related_count: 154
 related_level: 15
 related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -96,7 +96,6 @@ related_theories:
   - "[[Behaviorism]]"
   - "[[Stability vs. Variability Dilemma]]"
   - "[[Radical Constructivism]]"
-  - "[[Critical Theory]]"
   - "[[Legitimation Crisis]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -112,7 +111,6 @@ related_methods:
   - "[[Philosophical Analysis in Education]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Correlational Research]]"
-  - "[[Confidence Interval]]"
   - "[[Content Analysis]]"
   - "[[Audit Trail]]"
   - "[[Randomised Controlled Trials]]"
@@ -180,7 +178,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!tip] 知识网络与子条目维护分流指引

@@ -63,7 +63,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 ---
 
@@ -101,7 +101,7 @@ updated: 2026-10-22
 > | 概念工具 | 在本章论证中的核心解释功能 |
 > |---|---|
 > | **[[Counterculture Computing\|反文化计算]]**<br>[[Stewart Brand\|Brand]] (1995); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) | **历史发生学解释** 阐明 1960–1970 年代反文化运动的反集权哲学如何构成了个人计算机革命与互联网的核心思想土壤，驱动先驱将技术定位于个体赋权而非国家工具（pp. 98–99）。 |
-> | **[[Hacker Ethic\|黑客伦理]]与缺陷系统**<br>[[Steven Levy\|Steven Levy]] (1984) | **组织与伦理批判工具** 揭示早期软件黑客如何将企业、政府与大学官僚科层定性为压制人类探索冲动的缺陷系统（Flawed Systems），主张以代码逻辑取代专断政治（pp. 99–100）。 |
+> | **[[Hacker Ethic\|黑客伦理]]与缺陷系统**<br>[[Steven Levy]] (1984) | **组织与伦理批判工具** 揭示早期软件黑客如何将企业、政府与大学官僚科层定性为压制人类探索冲动的缺陷系统（Flawed Systems），主张以代码逻辑取代专断政治（pp. 99–100）。 |
 > | **[[Consumer Internet\|消费互联网]]**<br>[[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) | **当代产业病理诊断** 批判 21 世纪初硅谷抛弃政治解放理想，滑向纯粹雇佣兵式侍奉微观物质消费欲望（广告算法、照片分享、即时外卖）的异化[[Paradigm\|范式]]（p. 102）。 |
 > | **[[Technological Agnosticism\|技术不可知论]]**<br>[[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) | **政治哲学批判工具** 揭示硅谷科技精英在国家认同解构后所形成的道德脱敏、政治冷漠与拒绝为民主政体[[Hard Power\|硬实力]]承担战略防卫责任的心态（pp. 98, 102）。 |
 

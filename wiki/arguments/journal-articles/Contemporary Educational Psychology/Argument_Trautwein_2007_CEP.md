@@ -55,6 +55,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Effective Sample Size]]"
   - "[[Domain Specificity]]"
+  - "[[Learning Strategies]]"
   - "[[Ecological Validity]]"
 related_theories:
   - "[[Perry's Scheme of Intellectual and Ethical Development]]"
@@ -73,6 +74,7 @@ related_methods:
   - "[[Multiple Regression]]"
   - "[[Cross-sectional Study]]"
   - "[[Standard Error]]"
+  - "[[Experimental Research]]"
   - "[[Likert Scale]]"
 related_instruments:
   - "[[Global Certainty Scale]]"
@@ -97,7 +99,7 @@ title: "Argument_Trautwein_2007_CEP"
 argument_key: "Argument_Trautwein_2007_CEP"
 argument_display_title: "Epistemological beliefs, school achievement, and college major: A large-scale longitudinal study on the impact of certainty beliefs"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 59
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -125,10 +127,10 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **认知发展阶段图式**<br>[[Perry's Scheme of Intellectual and Ethical Development\|Perry's Scheme of Intellectual and Ethical Development]] | 将[[Epistemology\|认识论]]发展界定为从二元论（非黑即白、权威掌握绝对真理）、多元论到相对主义与承诺的单向演进过程；主张教育环境通过“涵化（[[Enculturation]]）”机制重塑学生的认识论思维。 |
-> | **多维认识论信念体系**<br>[[Epistemological Beliefs\|Epistemological Beliefs]] | Schommer (1990) 打破阶段论假说，提出多维独立信念模型；[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 进一步提炼出“知识的本质”与“认知的本质”四大核心维度，确立[[Certainty of Knowledge\|知识的确定性]]（Certainty of Knowledge）为认知成熟度的核心指标。 |
+> | **认知发展阶段图式**<br>[[Perry's Scheme of Intellectual and Ethical Development]] | 将[[Epistemology\|认识论]]发展界定为从二元论（非黑即白、权威掌握绝对真理）、多元论到相对主义与承诺的单向演进过程；主张教育环境通过“涵化（[[Enculturation]]）”机制重塑学生的认识论思维。 |
+> | **多维认识论信念体系**<br>[[Epistemological Beliefs]] | Schommer (1990) 打破阶段论假说，提出多维独立信念模型；[[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 进一步提炼出“知识的本质”与“认知的本质”四大核心维度，确立[[Certainty of Knowledge\|知识的确定性]]（Certainty of Knowledge）为认知成熟度的核心指标。 |
 > | **反思性判断模型**<br>Reflective Judgment Model | King and Kitchener (1994) 构建反思性判断模型（Reflective Judgment Model，RJM），阐明个体如何从前反思阶段（确信知识是确定给定的）过渡到准反思阶段（承认知识具有不确定性），最终达成[[Reflexivity\|反思性]]判断（在语境与证据中建构概率性判断）。 |
-> | **学科分类与生命历程模型**<br>[[Biglan's Disciplinary Classification Scheme\|Biglan's Disciplinary Classification Scheme]] | [[Biglan's Disciplinary Classification Scheme\|Biglan (1973)]] 与 Jehng et al. (1993) 的“硬科学 vs. 软科学”学科文化分类，结合 Pulkkinen and Caspi (2002) 的生命历程发展模型，提供区分个体先验特质主动匹配（自我选择）与[[Disciplinary Socialization\|学科社会化]]（环境规范持续塑造）的分析框架。 |
+> | **学科分类与生命历程模型**<br>[[Biglan's Disciplinary Classification Scheme]] | [[Biglan's Disciplinary Classification Scheme\|Biglan (1973)]] 与 Jehng et al. (1993) 的“硬科学 vs. 软科学”学科文化分类，结合 Pulkkinen and Caspi (2002) 的生命历程发展模型，提供区分个体先验特质主动匹配（自我选择）与[[Disciplinary Socialization\|学科社会化]]（环境规范持续塑造）的分析框架。 |
 
 > [!warrant]- 理论如何支撑论证
 > 理论框架为研究提供了双重推论逻辑：一方面，认识论信念作为指导学习与认知加工的“个人理论”，其成熟度决定了学生在面对[[Wicked Problem|劣构问题]]和复杂学术材料时的[[Metacognition\|元认知]]监控与深层加工策略，因而能直接转化为[[Academic Achievement\|学业表现]]差距；另一方面，不同学科在知识确定性上的认识论文化差异，既成为中学生依据自身信念进行学科选择的过滤网（自我选择），又在入学后通过学科训练持续塑造和极化学生的认知取向（[[Disciplinary Socialization\|学科社会化]]）。
@@ -192,10 +194,10 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **追踪设计**<br>[[Longitudinal Study\|Longitudinal Study]] | 依托 [[TOSCA]] 项目采用两波前瞻性面板设计。时间点 1（T1）在高中毕业年（2002 年 2–5 月）进行学校现场施测；时间点 2（T2）在升入大学两年后通过邮寄问卷进行追踪调查。 |
-> | **信念测量**<br>[[Global Certainty Scale\|Global Certainty Scale]] | 使用改编自 Hofer (2000)、Schommer (1990) 及 Schiefele et al. (2002) 的 7 题全局确定性量表（详见 [[Global Certainty Scale]]），4 点李克特（Likert）计分。涵盖科学理论可证伪性与绝对真理信念，适用于泛科学领域。 |
-> | **能力与背景测量**<br>[[Cognitive Ability Test KFT\|Cognitive Ability Test KFT]] & Background Assessment | 认知推理能力采用德国认知能力测验（Kognitiver Fähigkeitstest，[[Cognitive Ability Test KFT\|KFT 4-13+R]]）（图形类比 Figure Analogies 25 题 + 言语类比 Verbal Analogies 20 题），通过 ConQuest 软件进行项目反应理论（Item Response Theory，IRT）潜变量估计（复本信度 $R_{TT} = .91$）并构建 5 个平衡题包（Test Parcels）；家庭 SES 依据国际标准职业分类（International Standard Classification of Occupations 1988，ISCO-88）转化为国际职业社会经济地位指数（International Socio-Economic Index of Occupational Status，ISEI）；[[Cultural Capital\|文化资本]]（Cultural Capital）采用家庭藏书量自陈指标；学业成就采用官方学校档案中的高中毕业总评成绩（Abiturgesamtnote）。 |
-> | **因果与结构建模**<br>[[Causal Modeling\|Causal Modeling]] | 使用 Mplus 3.1 软件构建潜[[Variable\|变量]]结构方程模型（Structural Equation Modeling，SEM）。利用复杂抽样校正（Type=Complex）校正学校层面的组内相关系数（Intraclass Correlation Coefficient，ICC < .10）聚类效应；在跨期回归中控制 T1 初始信念以估计学科对认识论信念变化的净效应。 |
+> | **追踪设计**<br>[[Longitudinal Study]] | 依托 [[TOSCA]] 项目采用两波前瞻性面板设计。时间点 1（T1）在高中毕业年（2002 年 2–5 月）进行学校现场施测；时间点 2（T2）在升入大学两年后通过邮寄问卷进行追踪调查。 |
+> | **信念测量**<br>[[Global Certainty Scale]] | 使用改编自 Hofer (2000)、Schommer (1990) 及 Schiefele et al. (2002) 的 7 题全局确定性量表（详见 [[Global Certainty Scale]]），4 点李克特（Likert）计分。涵盖科学理论可证伪性与绝对真理信念，适用于泛科学领域。 |
+> | **能力与背景测量**<br>[[Cognitive Ability Test KFT]] & Background Assessment | 认知推理能力采用德国认知能力测验（Kognitiver Fähigkeitstest，[[Cognitive Ability Test KFT\|KFT 4-13+R]]）（图形类比 Figure Analogies 25 题 + 言语类比 Verbal Analogies 20 题），通过 ConQuest 软件进行项目反应理论（Item Response Theory，IRT）潜变量估计（复本信度 $R_{TT} = .91$）并构建 5 个平衡题包（Test Parcels）；家庭 SES 依据国际标准职业分类（International Standard Classification of Occupations 1988，ISCO-88）转化为国际职业社会经济地位指数（International Socio-Economic Index of Occupational Status，ISEI）；[[Cultural Capital\|文化资本]]（Cultural Capital）采用家庭藏书量自陈指标；学业成就采用官方学校档案中的高中毕业总评成绩（Abiturgesamtnote）。 |
+> | **因果与结构建模**<br>[[Causal Modeling]] | 使用 Mplus 3.1 软件构建潜[[Variable\|变量]]结构方程模型（Structural Equation Modeling，SEM）。利用复杂抽样校正（Type=Complex）校正学校层面的组内相关系数（Intraclass Correlation Coefficient，ICC < .10）聚类效应；在跨期回归中控制 T1 初始信念以估计学科对认识论信念变化的净效应。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

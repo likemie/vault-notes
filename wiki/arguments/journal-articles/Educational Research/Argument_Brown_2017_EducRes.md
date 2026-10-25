@@ -72,6 +72,7 @@ related_facts:
   - "[[Data Team Intervention]]"
   - "[[Research Learning Communities]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[Department for Education]]"
   - "[[Sutton Trust]]"
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -87,10 +88,10 @@ title: "Argument_Brown_2017_EducRes"
 argument_key: "Argument_Brown_2017_EducRes"
 argument_display_title: "Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement"
 argument_kind: "journal-article"
-argument_related_count: 49
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: Educational Research
 ---
 ---

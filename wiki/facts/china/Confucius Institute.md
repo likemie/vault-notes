@@ -10,7 +10,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -44,10 +44,11 @@ related_facts:
   - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
-  - "[[Argument_King_2020_ECNUROE]]"
-  - "[[Argument_Zhu_Yang_2025_HE]]"
   - "[[Argument_Custer_2021_AidData]]"
   - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_King_2020_ECNUROE]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
 confidence: high
 status: active
 created: 2026-10-19

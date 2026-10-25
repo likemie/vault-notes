@@ -54,6 +54,7 @@ related_facts:
   - "[[Natcast]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
   - "[[Microelectronics Commons]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[Industrial Advisory Committee]]"
   - "[[Sematech]]"
   - "[[Semiconductor Research Corporation]]"
@@ -62,6 +63,7 @@ related_facts:
   - "[[Federally Funded Research and Development Centers]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[National Science Foundation]]"
+  - "[[Department of Defense]]"
   - "[[Manufacturing USA]]"
   - "[[DARPA Toolbox Initiative]]"
   - "[[National Institute for Health and Care Excellence]]"
@@ -78,7 +80,7 @@ title: "Argument_NIST_2023_NSTC"
 argument_key: "Argument_NIST_2023_NSTC"
 argument_display_title: "A vision and strategy for the National Semiconductor Technology Center"
 argument_kind: "report"
-argument_related_count: 41
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dcfce7"

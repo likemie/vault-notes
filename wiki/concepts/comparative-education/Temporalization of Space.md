@@ -7,7 +7,7 @@ aliases:
 summary: "空间的时间化是欧洲启蒙运动确立的一种单向演化认识论偏见，指将全球地理空间的横向并列与文化差异生硬地折算为垂直的文明演进历史时间阶梯；该观念将异域原住民与少数群体贬抑为处于低级发展阶段的原始人，为帝国殖民同化、文明开化工程以及现代教育中残留的欠缺补偿话语提供了正当性辩护。"
 type: concept
 domain: "comparative-education"
-related_count: 19
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,13 +29,11 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Commensuration]]"
   - "[[Cultural Relativism]]"
-  - "[[Variable]]"
 related_theories:
   - "[[Hegemony]]"
   - "[[Post-colonial Theory]]"
 related_methods:
   - "[[Social Cartography]]"
-  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Thomas S. Popkewitz]]"
@@ -45,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

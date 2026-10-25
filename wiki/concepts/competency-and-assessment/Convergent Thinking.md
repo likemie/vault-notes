@@ -11,7 +11,7 @@ aliases:
 summary: "基于逻辑规则与领域证据，对多重线索与信息进行批判性审视、筛选、演绎推导并收敛至唯一最优解的确定性认知加工过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 37
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
-  - "[[Variable]]"
   - "[[Generative Artificial Intelligence]]"
 related_theories:
   - "[[Creative Problem Solving]]"
@@ -52,7 +51,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Random-Effects Model]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Systematic Review]]"
   - "[[Meta-meta-analysis]]"
@@ -68,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 （聚合思维 / 收敛性认知加工）

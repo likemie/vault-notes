@@ -12,7 +12,7 @@ aliases:
 summary: "连接科学研究发现与实际应用的跨界转化过程。在产学合作中体现为成果商业化漏斗，在学校教育中体现为基于行动理论的再脉络化课例探究，在行政督导中体现为将成功学校研究编码为法定评估常模并服务于国家简化，在宏观立法中体现为依托政策简报的法条采纳，在前沿科技中体现为公共代理人依托嵌入型网络治理引导颠覆性轨道，在硬科技与安全治理中体现为依托共享试验场与首要买家拉动将前沿突破转化为本土实体制造与战略交付能力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 124
+related_count: 126
 related_level: 12
 related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
@@ -110,6 +110,7 @@ related_facts:
   - "[[DARPA]]"
   - "[[Project Maven]]"
   - "[[Office of Science and Technology Policy]]"
+  - "[[Department of Defense]]"
   - "[[Fairchild Semiconductor]]"
   - "[[Albany NanoTech Complex]]"
   - "[[Universal Parallel Computing Research Centers]]"
@@ -129,6 +130,7 @@ related_facts:
   - "[[Society for Research in Child Development]]"
   - "[[Rapid Assessment and Response Strategy]]"
   - "[[Joint University Microelectronics Program 2.0]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[Manhattan Project]]"
   - "[[Office of Scientific Research and Development]]"
   - "[[ARPANET]]"
@@ -415,7 +417,7 @@ updated: 2026-10-26
 > > 1. **平板显示与电池化学的外流教训** 战后“政府出资、学术公开发表、市场自然承接”的单向线性模型在当代彻底失效。美国科研界率先奠定了平板显示技术与先进锂电池化学的基础原理，但因本土缺乏持续的制造生态支持，量产工艺与供应链红利被竞争对手全面获取。回报与下一轮设计能力积累在转化与制造环节，而非仅在最初发表的实验室。
 > > 2. **打破规制枷锁与恢复[[Permissionless Innovation|无许可创新]]** 繁复严苛的行政许可在物理实体世界设立了极高的制度摩擦（如先进核能开工需经历近十年审批与数亿美元开支、创新医疗器械被迫赴海外开展[[Clinical Trial|临床试验]]）。政府必须推行[[Regulatory Sandbox|监管沙盒]]，将审批延迟导致的“不行动代价”纳入成本核算，以真实数据作为修订法律规章的依据。
 > > 3. **共享基础设施与洁净室共置跨越中试“[[Valley of Death|死亡之谷]]”** 莫哈韦非营利火箭试验场以极低费用开放加固设施与空域豁免，直接催生了重塑全球航天的商业火箭集群；在微电子与硬科技领域，纽约州立大学奥尔巴尼分校（[[Albany NanoTech Complex]]）运营全美唯一的 300 毫米晶圆研发中试线，MIT.nano 则提供开放共享洁净室与微纳表征平台，实现[[Research Universities|研究型大学]]师生与企业工程师在真实工业级设备上的“共置共研”（[[University-Industry Co-location|co-location]]），将初创企业与学术原型的中试验证周期从数年压缩至数周，有效跨越 [[Technology Readiness Level|TRL]] 4–6 死亡之谷。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–24)]]
-> > 4. **前竞争联合体化解跨行业共性风险** 对于单家企业无力承担但机理清晰的重大工程瓶颈，联邦政府应发挥战略召集力，借鉴[[Human Genome Project|人类基因组计划]]、极紫外光刻联合体（[[EUV LLC|EUV LLC]]）与 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 跨校联盟范式，协调多元主体共担风险，完成从科学突破到工业母机制造的战略贯通。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 38–45)]]
+> > 4. **前竞争联合体化解跨行业共性风险** 对于单家企业无力承担但机理清晰的重大工程瓶颈，联邦政府应发挥战略召集力，借鉴[[Human Genome Project|人类基因组计划]]、极紫外光刻联合体（[[EUV LLC]]）与 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 跨校联盟范式，协调多元主体共担风险，完成从科学突破到工业母机制造的战略贯通。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 38–45)]]
 
 ---
 

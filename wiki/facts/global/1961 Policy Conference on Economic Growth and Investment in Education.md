@@ -49,16 +49,16 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定性
-> 1961 年华盛顿政策会议是战后全球教育治理史上具有划时代意义的制度分水岭。会议不仅在西方世界全面确立了将教育视为经济增长核心生产要素的[[Human Capital Theory\|人力资本]][[Paradigm\|范式]]，而且正式奠定了非教育专门国际组织（[[OECD\|经合组织]]）将教育治理纳入自身经济协调法定使命（[[Education-for-Mandates\|Education-for-Mandates]]）的历史与法理基石。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> 1961 年华盛顿政策会议是战后全球教育治理史上具有划时代意义的制度分水岭。会议不仅在西方世界全面确立了将教育视为经济增长核心生产要素的[[Human Capital Theory\|人力资本]][[Paradigm\|范式]]，而且正式奠定了非教育专门国际组织（[[OECD\|经合组织]]）将教育治理纳入自身经济协调法定使命（[[Education-for-Mandates]]）的历史与法理基石。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 542)]]
 
 > [!event-context] 事件背景
-> - **时间跨度 / 空间地理** 1961 年 10 月 16–20 日，美国华盛顿特区。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> - **时间跨度 / 空间地理** 1961 年 10 月 16–20 日，美国华盛顿特区。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 542)]]
 > - **核心当事主体** 经济合作与发展组织（OECD）秘书处、美国肯尼迪政府（国务院与国际开发总署）、西方主要发达成员国教育与财政部长，以及以西奥多·舒尔茨（Theodore W. Schultz）、爱德华·丹尼森（Edward Denison）和扬·廷伯根（Jan Tinbergen）为代表的经济学家群体。
 > - **深层制度与社会背景** 冷战大西洋阵营[[Geopolitics|地缘政治]]对峙；1957 年苏联[[Sputnik Shock 1957\|斯普特尼克冲击]]引发西方技术人才恐慌；[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（OEEC）于 1960–1961 年正式改组为经合组织（OECD），急需开辟全新制度疆域以协调跨国资本积累与生产力规划。
 > - **直接导火索 / 触发事件** 1960 年意大利贝拉吉奥（Bellagio）跨国专家会议倡议各国将教育投资与国家发展规划挂钩；美国行政当局力促 OECD 确立十年经济增长 50% 的跨国宏伟目标，迫切需要对人力资源供给提供标准化模型测算。
@@ -75,14 +75,14 @@ updated: 2026-10-22
 ---
 
 > [!citation-card] 华盛顿会议宣言与教育作为生产性投资定性
-> 教育是一项对人的能力发展的至关重要的生产性投资，它在决定现代国家经济长期增长率方面发挥着不可替代的作用。公共政策必须打破将教育经费视作财政负担与纯粹消费性开支的传统偏见，将教育系统扩张与国民经济增长目标实施整体规划。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> 教育是一项对人的能力发展的至关重要的生产性投资，它在决定现代国家经济长期增长率方面发挥着不可替代的作用。公共政策必须打破将教育经费视作财政负担与纯粹消费性开支的传统偏见，将教育系统扩张与国民经济增长目标实施整体规划。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 542)]]
 >
 > *Education is an investment in human capability which is of fundamental importance for economic growth. Expenditure on education should no longer be seen merely as a financial burden or consumption, but as a primary agent for economic progress.*
 
 ---
 
 > [!actor-grid] 权力—立场矩阵
-> - **经济理性倡导者 / 跨界改革先锋** [[OECD\|经合组织]]秘书处、美国国际开发总署与芝加哥学派/计量经济学者 — 强调教育投入产出比、劳动力技能预测与经济增长函数，推动教育政策的技术官僚化。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> - **经济理性倡导者 / 跨界改革先锋** [[OECD\|经合组织]]秘书处、美国国际开发总署与芝加哥学派/计量经济学者 — 强调教育投入产出比、劳动力技能预测与经济增长函数，推动教育政策的技术官僚化。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 542)]]
 > - **人文传统维持者 / 部门防御方** 欧洲部分国家传统教育部官员与人文主义知识分子 — 担忧教育丧失伦理陶冶与自由探索本质，对将学校降格为“人力工厂”表达深切疑虑。
 > - **战略协调裁决者** 美国外交决策层（腊斯克、库姆斯）与 OECD 核心理事会 — 借冷战阵营竞争大局压制部门分歧，将教育投资包装为超越意识形态对抗与实现繁荣的普适科学。
 > - **发展中国家与地中海试点国** 亟需大规模外部贷款与技术援助，被迫接受将人力需求预测模型作为换取发展规划合法性的前置条件。
@@ -101,7 +101,7 @@ updated: 2026-10-22
 ---
 
 > [!indicators] 历史影响维度
-> - **制度创生与立法** 确立了经济协调类国际组织全面介入国家教育政策制定的常态化机制，推动各国普遍建立与国家经济计划委员会相配套的教育规划处室。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> - **制度创生与立法** 确立了经济协调类国际组织全面介入国家教育政策制定的常态化机制，推动各国普遍建立与国家经济计划委员会相配套的教育规划处室。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 542)]]
 > - **思想[[Paradigm\|范式]]变迁** 彻底扭转战后公共财政理念，使教育投资成为与实物资产投资等量齐观的经济公理，促成了战后教育的大扩张时代。
 > - **全球规制重构** 为 1960 年代末席卷西方的全球教育危机叙事奠定了前置逻辑，开启了通往 1967 年威廉斯堡世界教育危机国际会议与 1980 年代跨国指标运动的演进链条。
 
@@ -118,15 +118,15 @@ updated: 2026-10-22
 > > 主流制度主义教育史家肯定其打破教育阶级壁垒、推动公共教育经费翻倍扩张的积极意义；批判史学派则批判其代表了西方冷战地缘战略对第三世界的智识规训。
 > >
 > > - **自由主义现代化史学视角** 认为会议将教育政策从陈旧的精英人文主义中解放出来，提供了基于科学实证与经济理性的现代公共管理工具。
-> > - **修正主义／批判史学视角（Elfert & Ydesen, 2023）** 揭示华盛顿会议本质是美国主导的大西洋霸权网络，通过将教育还原为资本生产要素，架空了[[UNESCO\|联合国教科文组织]]（UNESCO）所倡导的人权与文化解放议程。转引自 [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> > - **修正主义／批判史学视角（Elfert & Ydesen, 2023）** 揭示华盛顿会议本质是美国主导的大西洋霸权网络，通过将教育还原为资本生产要素，架空了[[UNESCO\|联合国教科文组织]]（UNESCO）所倡导的人权与文化解放议程。转引自 [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 542)]]
 >
 > > [!axis] 长期[[Paradigm\|范式]]遗产：繁荣繁衍还是狭隘经济功利主义滥觞
 > > 当代比较教育学家评估华盛顿会议奠定的经济主义框架对当今全球量化治理的深层后果。
 > >
-> > - **[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]** 明确指出华盛顿会议是国际组织借“危机叙事”与硬事实构筑[[Policy Brokerage\|政策中介]]权力的关键始祖节点。
+> > - **[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]]** 明确指出华盛顿会议是国际组织借“危机叙事”与硬事实构筑[[Policy Brokerage\|政策中介]]权力的关键始祖节点。
 
 > [!citation-card] 史学界论华盛顿会议的治理范式转向
-> 1961 年 [[OECD]] 华盛顿政策会议标志着教育在全球治理中被正式加冕为经济增长的发动机。通过将教育紧紧绑缚在大西洋阵营经济扩张战车上，经合组织不仅为自身在教育领域的跨界干预确立了合法性，更为其数十年后发展成为以数字和指标统治全球教育政策的超级中介构筑了初始基因。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> 1961 年 [[OECD]] 华盛顿政策会议标志着教育在全球治理中被正式加冕为经济增长的发动机。通过将教育紧紧绑缚在大西洋阵营经济扩张战车上，经合组织不仅为自身在教育领域的跨界干预确立了合法性，更为其数十年后发展成为以数字和指标统治全球教育政策的超级中介构筑了初始基因。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 542)]]
 >
 > *The 1961 Washington Conference enshrined education as an engine of economic growth, establishing OECD's legitimate mandate to govern education through economic criteria.*
 

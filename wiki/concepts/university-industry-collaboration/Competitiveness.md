@@ -11,7 +11,7 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在新自由主义社会想象下，国家经济竞争力被假定为直接取决于由国际标准衡量的教育质量；在宏观上体现为长程战略计算、先进制造、跨国多边监测与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；创始人长期主义与全员股权模式构成了抵御短期金融化的深层制度基石。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 83
+related_count: 82
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -62,7 +62,6 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Variable]]"
-  - "[[Falsification]]"
   - "[[National Innovation System]]"
   - "[[International Education]]"
   - "[[Performance Indicators]]"
@@ -117,7 +116,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-19
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -336,7 +335,7 @@ updated: 2026-10-22
 > [!contrast-table] 竞争力核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **国家千年期长程决断** | 设立数百年乃至千年尺度的战略规划，以共同价值观与强大人力资本投资驱动现代化经济繁荣与地缘突破 | 资源匮乏国家的制度突围、长期战略规划与国家安全威慑 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 17); [[Lee Kuan Yew\|Lee Kuan Yew]] (1965); World Bank (2023) |
+> | **国家千年期长程决断** | 设立数百年乃至千年尺度的战略规划，以共同价值观与强大人力资本投资驱动现代化经济繁荣与地缘突破 | 资源匮乏国家的制度突围、长期战略规划与国家安全威慑 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 17); [[Lee Kuan Yew]] (1965); World Bank (2023) |
 > | **国家产业中心动员** | 宏观产业竞争力危机倒逼联邦资助打破学科壁垒，设立产学协同[[Big Science\|大科学]]中心 | 面对全球经贸竞争的国家科技战略与大学科研转型 | [[Argument_Bozeman_2004_JTT\|Bozeman and Boardman (2004, pp. 365, 367)]] |
 > | **实体承接制造锚定** | 单纯论文卓越无法维系国家竞争力，必须打破规制阻滞并锚定本土试验场与先进制造 | 国家硬科技战略、[[Regulatory Sandbox\|规制沙盒]]改革与前竞争联合体攻坚 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 33–46)]] |
 > | **微观工程组织学习** | 产业竞争力源于产线以人为本的组织数据学习与工程排障，优于纯硬件机械自动化 | 先进制造业工艺优化、半导体晶圆制造与组织学习 | [[Argument_Macher_1998_CMR\|Macher et al. (1998, pp. 108, 117–118)]] |

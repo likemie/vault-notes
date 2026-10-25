@@ -10,9 +10,9 @@ aliases:
 summary: "个体理解科学运作机制、批判性评估多源证据质量、接纳科学知识暂定性与不确定性，并在日常生活和公共审议中做出理性判断的核心公民素养，涵盖科学本质理解、证据辨析、认识论实践、抵御虚假信息与大模型幻觉，以及在公共政策中坚守基于客观实证可复现性与学术卓越的“金标准科学”评价心智。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 68
-related_level: 6
-related_stars: "💎💎"
+related_count: 73
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - field/curriculum
@@ -59,6 +59,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Variable]]"
+  - "[[Knowledge-Based Economy]]"
   - "[[Scientific Explanation]]"
   - "[[Discourse]]"
   - "[[Competitiveness]]"
@@ -66,14 +67,16 @@ related_concepts:
   - "[[Engineering Education]]"
   - "[[Socioscientific Issues]]"
 related_facts:
+  - "[[The Royal Society]]"
   - "[[National Science Foundation]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
-  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
-  - "[[Chemie im Kontext]]"
-  - "[[SINUS]]"
-  - "[[Beyond 2000 Report]]"
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
+  - "[[Chemie im Kontext]]"
+  - "[[Physik im Kontext]]"
+  - "[[SINUS]]"
+  - "[[Beyond 2000 Report]]"
   - "[[Office of Science and Technology Policy]]"
   - "[[UK Science Education Tracker]]"
   - "[[Public Attitudes to Science]]"
@@ -88,12 +91,14 @@ related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Experimental Research]]"
   - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Longitudinal Study]]"
   - "[[Questionnaire]]"
 related_persons:
+  - "[[Sotiria Grek]]"
   - "[[Michael Kratsios]]"
 confidence: high
 status: active
@@ -111,7 +116,7 @@ updated: 2026-10-26
 > - **用途** 为课程设计者提供打破应试[[Rote Learning|死记硬背]]的理论武器；在数字时代为公众构筑识别虚假信息与算法幻觉的认知防线；在国家治理中为科研管理与政策审议确立抵御非学术意识形态干扰、捍卫实证可复现性的质量准绳。
 > - **边界** 区别于面向专业管网（[[STEM Education|STEM]] Pipeline）的高精尖专才选拔；[[Citizen Science|公民科学]]素养聚焦于通用探究心智、实证辨析能力与公共理性。
 
-> [!citation-card] [[Royal Society|英国皇家学会]]官方五大支柱界定
+> [!citation-card] [[The Royal Society|英国皇家学会]]官方五大支柱界定
 > 科学素养意味着对科学具有充分的理解，从而能够领会：
 > 1. 什么是科学、科学如何运作、科学能够揭示什么以及不能揭示什么、其优势与局限性所在；
 > 2. 科学是逐步降低不确定性的演进过程，不同于对既定事实的突发性发现；
@@ -221,7 +226,7 @@ updated: 2026-10-26
 > 科学素养不仅涵盖中小学生或普通公民的通识素养，更是高级公共政策制定者与立法者履行公职、实现[[Output-Oriented Governance|循证治理]]的前提条件。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|The Royal Society (2026, Ch. 5)]]
-> **立法者信源偏误与全政策社群技能建设** YouGov 2025 针对 108 名英国国会议员的实证调查表明，高达 55% 的议员主要依赖带有立场倾向的智库，仅 22% 使用议会专属法定科技机构（POST），仅 12% 查阅国家学术院综合报告；面对开放互联网（47%）与生成式 AI 工具的隐性渗透，议员普遍缺乏判断证据可靠性与稳健性的规程；[[Royal Society|皇家学会]]建议十六明确强调，国家必须在整个政策社群（包括政府部委与议会两院）全面推行科学、技术、工程与数学（STEM）研究和数据分析技能培训。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 82–83, 88)]]
+> **立法者信源偏误与全政策社群技能建设** YouGov 2025 针对 108 名英国国会议员的实证调查表明，高达 55% 的议员主要依赖带有立场倾向的智库，仅 22% 使用议会专属法定科技机构（POST），仅 12% 查阅国家学术院综合报告；面对开放互联网（47%）与生成式 AI 工具的隐性渗透，议员普遍缺乏判断证据可靠性与稳健性的规程；[[The Royal Society|皇家学会]]建议十六明确强调，国家必须在整个政策社群（包括政府部委与议会两院）全面推行科学、技术、工程与数学（STEM）研究和数据分析技能培训。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 82–83, 88)]]
 
 ---
 

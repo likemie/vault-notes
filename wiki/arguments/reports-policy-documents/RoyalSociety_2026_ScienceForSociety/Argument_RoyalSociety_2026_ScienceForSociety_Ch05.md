@@ -10,11 +10,11 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_display_title: "Chapter five: Policy"
 argument_kind: "book-chapter"
-argument_related_count: 37
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
-issuing_organization: "[[Royal Society|The Royal Society]]"
+issuing_organization: "[[The Royal Society]]"
 year: 2026
 isbn: 978-1-78252-829-6
 publication_place: London
@@ -64,13 +64,16 @@ related_facts:
   - "[[Government Office for Science]]"
   - "[[Scientific Advisory Group for Emergencies]]"
   - "[[Parliamentary Office of Science and Technology]]"
+  - "[[The Royal Society]]"
   - "[[American Association for the Advancement of Science]]"
   - "[[Areas of Research Interest]]"
+  - "[[Cabinet Office]]"
   - "[[The Green Book]]"
+  - "[[HM Treasury]]"
   - "[[Public Attitudes to Science]]"
   - "[[Sciencewise]]"
-  - "[[Chinese Academy of Sciences]]"
   - "[[Sense about Science]]"
+  - "[[UK Research and Innovation]]"
 related_persons: []
 status: draft
 created: 2026-09-04
@@ -140,7 +143,7 @@ updated: 2026-10-26
 > 科学不仅进入议会辩论与政府行政，更深入渗透至司法裁判体系之中：
 > - **司法审判中的证据前沿** 在刑事与民事诉讼中，DNA 图谱分析、数字电子取证、流行病学归因以及法医病理学证据日益成为定罪量刑的核心依据。
 > - **法官与陪审团的科学理解短板** 复杂统计概率（如贝叶斯概率与匹配误差率）往往超出普通法官与公民陪审团的日常认知，历史上多次因对统计学不确定性的误读导致严重的司法误判（例如著名的萨莉·克拉克案中对婴儿猝死综合征概率的错误计算）。
-> - **[[Royal Society|皇家学会]]法官科学指引丛书（Science Primers for Judges）** 英国皇家学会联合司法界专门研制了通俗、中立的法官法庭科学指南，系统界定法医 DNA、隐形墨水法医鉴定与步态分析等前沿技术的科学[[Reliability\|可靠性]]边界，树立了科学界协助司法系统公正裁判的典范。（pp. 79–80）
+> - **[[The Royal Society|皇家学会]]法官科学指引丛书（Science Primers for Judges）** 英国皇家学会联合司法界专门研制了通俗、中立的法官法庭科学指南，系统界定法医 DNA、隐形墨水法医鉴定与步态分析等前沿技术的科学[[Reliability\|可靠性]]边界，树立了科学界协助司法系统公正裁判的典范。（pp. 79–80）
 
 > [!case] 案例研究二：动荡时代的跨国科学外交（Science Diplomacy in an Era of Disruption，p. 80, note 155）
 > 科学与决策的互动在全球化[[Geopolitics|地缘政治]]博弈中具备独特的战略通道价值：

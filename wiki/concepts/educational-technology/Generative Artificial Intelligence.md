@@ -9,7 +9,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介与通用目的技术；在教育中重构人机知识确证分工，其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦；在国家战略与地缘竞争中涌现出通用人工智能火花并引发软硬件层级逆转，成为决定21世纪大国均势与算法威慑的核心软件中枢。"
 type: concept
 domain: "educational-technology"
-related_count: 148
+related_count: 147
 related_level: 14
 related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -110,13 +110,12 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Publication Bias]]"
   - "[[Heterogeneity]]"
+  - "[[Affective Outcomes]]"
   - "[[Reflexivity]]"
-  - "[[Necessary and Sufficient Conditions]]"
   - "[[Moral Dualism]]"
   - "[[Technological Republic]]"
   - "[[Modern Industrial Policy]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Affective Outcomes]]"
 related_theories:
   - "[[Formative Epistemic Injustice]]"
   - "[[Epistemic Injustice]]"
@@ -134,7 +133,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Fieldwork]]"
   - "[[Trim and Fill Method]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Research Synthesis]]"
   - "[[Multimodal Discourse Analysis]]"
@@ -155,6 +153,7 @@ related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[Genesis Mission]]"
   - "[[Universal Parallel Computing Research Centers]]"
+  - "[[The Royal Society]]"
   - "[[What Works Clearinghouse]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[CORE Education]]"
@@ -344,7 +343,7 @@ updated: 2026-10-26
 > [!concept-lens] 课程评价变革与[[Epistemology\|认识论]]主体性维度
 > 该命题揭示了生成式技术对传统教育评估假设的根本颠覆，指明了未来课程设计与素养培养的重构方向。
 
-> [!claim] [[Royal Society|The Royal Society]]
+> [!claim] [[The Royal Society]]
 > **数智时代[[Scientific Literacy\|科学素养]]从事实复现向证据核验与 AI 素养的重构** 生成式人工智能的普及使得传统的静态事实记忆与套路化文本写作在评估中迅速贬值。科学与[[General Education\|通识教育]]必须转向以证据评估、模型偏见识别、数据批判性审读为核心的综合素养，将[[AI Literacy\|人工智能素养]]确立为现代公民的核心能力基石，推动学生从被动的信息消费者转变为具备[[Epistemological Vigilance\|认识论警觉]]的质询者。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 34–36)]]
 
 > [!claim] Medina, J.

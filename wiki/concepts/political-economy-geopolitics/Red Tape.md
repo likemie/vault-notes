@@ -8,7 +8,7 @@ aliases:
 summary: "指公共机构与大型组织中那些脱离实质目标、将繁琐程序合规、形式审查与道德虔敬绝对化，进而诱发规避问责博弈、扼杀敏捷创新、阻断顶尖人才流入并导致严重行政效率损失的官僚规章制度体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -52,6 +52,7 @@ related_facts:
   - "[[Higher Education Autonomy and Quality]]"
   - "[[Federal Acquisition Streamlining Act of 1994]]"
   - "[[Palantir Technologies]]"
+  - "[[Department of Defense]]"
   - "[[USS Nautilus Submarine Development]]"
   - "[[Singapore Civil Service Salary Benchmarking Policy]]"
 related_arguments:
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

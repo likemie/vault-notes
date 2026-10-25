@@ -8,7 +8,7 @@ summary: "质性研究中系统记录编码标签、操作化定义、纳入排�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 32
+method_related_count: 33
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -54,10 +54,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

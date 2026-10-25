@@ -5,7 +5,7 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习；亦在批判视角下聚焦技术清单与管理监视同关系型学习共同体建构之间的深刻张力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 94
+related_count: 93
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -79,7 +79,6 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Observation Protocol]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Inter-Rater Reliability]]"
 related_persons:
@@ -117,7 +116,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

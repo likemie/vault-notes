@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 24
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -34,11 +34,13 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
 related_theories: []
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Action Research]]"
 related_instruments: []
 related_persons:
   - "[[G. Reid Lyon]]"
 related_facts:
+  - "[[United States Congress]]"
   - "[[National Assessment of Educational Progress]]"
   - "[[House Committee on Education and the Workforce]]"
   - "[[CORE Education]]"
@@ -48,6 +50,7 @@ related_facts:
   - "[[National Institute of Child Health and Human Development]]"
   - "[[National Council of Teachers of English]]"
   - "[[International Reading Association]]"
+  - "[[United States Department of Education]]"
   - "[[Open Court Reading]]"
   - "[[Higher Education Act of 1965]]"
 related_arguments:

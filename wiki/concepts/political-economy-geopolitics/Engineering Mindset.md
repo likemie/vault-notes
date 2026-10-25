@@ -6,7 +6,7 @@ aliases:
 summary: "指在解决高度复杂现实危机与工程挑战过程中形成的一种以实战结果、系统演化、敏捷协作与权责对称机制为核心的组织文化与协同范式；在卡普与扎米斯卡（2025）的论证中，工程思维是互联网泡沫破裂与软件世纪洗礼后留下的最具颠覆性的组织制度遗产，它打破了官僚体制的避险合规与程序虔敬迷思，构成了重塑西方公共治理与重建技术共和国的核心组织基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 75
+related_count: 74
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -51,7 +51,7 @@ related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Competitiveness]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Dependent Variable]]"
+  - "[[Variable]]"
   - "[[Geopolitics]]"
   - "[[Commercial Off-The-Shelf]]"
   - "[[Luxury Belief]]"
@@ -63,7 +63,6 @@ related_theories:
 related_methods:
   - "[[Role-playing]]"
   - "[[Five Whys]]"
-  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"
@@ -102,7 +101,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---

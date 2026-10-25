@@ -8,7 +8,7 @@ aliases:
 summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策与演化科技政策中揭示国家并未空心化退场，而是表现为积极特许赋权、资助中介并缔造市场的异层担保人，以及通过去中心化探索网络引领使命导向创新的催化者。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 81
+related_count: 80
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -69,7 +69,6 @@ related_methods:
   - "[[Semi-structured Interview]]"
   - "[[Documentary Analysis]]"
   - "[[Discourse Analysis]]"
-  - "[[Process Tracing]]"
   - "[[Grounded Theory]]"
   - "[[Triangulation]]"
 related_instruments:
@@ -113,7 +112,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -255,7 +254,7 @@ updated: 2026-10-22
 > |---|---|---|---|
 > | **组织交付重构命题** | 网络治理通过公私伙伴、合同外包与多元主体协同置换单一科层垄断 | 公立学校服务采购、跨国书院组织与公立办学体制多元化 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; [[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987)]] |
 > | **异层国家缔造命题** | 国家并未空心化退场，而是运用立法特许与财政注入成为网络的市场缔造者 | 风险慈善兴起、税法修正特许与国家科研中介机构创设 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; Ball (2007) |
-> | **探索网络使命命题** | 去中心化探索网络与嵌入型网络治理能够统合顶层战略使命与微观多元试错 | 重大科技攻坚、后摩尔半导体材料、[[DARPA\|DARPA]] 模式扩散 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]]; [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] |
+> | **探索网络使命命题** | 去中心化探索网络与嵌入型网络治理能够统合顶层战略使命与微观多元试错 | 重大科技攻坚、后摩尔半导体材料、[[DARPA]] 模式扩散 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]]; [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] |
 > | **能力侵蚀与问责赤字命题** | 过度外包商业咨询抽空国家动态能力，公司法外壳规避公众监督与民主问责 | 教育与科技外包批判、科研议程闭环与公共能力空心化 | Ball (2012); Rhodes (2017) |
 > | **多理性网络自组织命题** | 揭示国家单向指令在复杂网络中的失能，论证宏观规则设计与网络自组织协商的替代效能 | 欧洲大陆公共管理改革、高等教育去中心化治理、高校大兼并 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
 

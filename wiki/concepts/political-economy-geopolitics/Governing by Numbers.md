@@ -7,10 +7,10 @@ aliases:
 summary: "指通过量化指标、跨国测评与数据比较实现全球教育治理的软性机制。Grek (2009) 奠基该概念，Rizvi 与 Lingard (2009) 揭示经合组织依托 PISA 自建跨国等价空间并推行“数字即政策”，以技术排位压制价值判断并维系知识经济社会想象；Steiner-Khamsi et al.（2024）进一步拓展为数字治理 2.0，聚焦信息过载下政策中介的证据包装与组织利基争夺。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 44
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 54
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - governance-by-numbers
   - pisa
@@ -34,12 +34,15 @@ related_concepts:
   - "[[Soft Power by Hard Facts]]"
   - "[[Soft Power]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Cognitive Authority]]"
   - "[[Relational Space]]"
   - "[[Heterogeneity]]"
   - "[[Epoché]]"
   - "[[Paradigm]]"
   - "[[Champ]]"
   - "[[Variable]]"
+  - "[[Space Production]]"
+  - "[[European Education Space]]"
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Governmentality]]"
@@ -47,6 +50,8 @@ related_theories:
   - "[[Institutional Isomorphism]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Elite Interview]]"
+  - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
   - "[[Alain Desrosières]]"
@@ -54,6 +59,7 @@ related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Gita Steiner-Khamsi]]"
+  - "[[Helmut Fend]]"
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
@@ -63,6 +69,10 @@ related_facts:
   - "[[Learning Data Compact]]"
   - "[[PISA for Development]]"
   - "[[Systems Approach for Better Education Results]]"
+  - "[[European Commission]]"
+  - "[[EU]]"
+  - "[[Lisbon Strategy]]"
+  - "[[UOE Data Collection]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -72,7 +82,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

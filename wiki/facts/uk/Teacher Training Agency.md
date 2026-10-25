@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_persons:
   - "[[Michael Gove]]"
 related_facts:
   - "[[Committee for the Accreditation of Teacher Education]]"
+  - "[[Department for Education]]"
   - "[[Higher Education Funding Council for England]]"
   - "[[Ofsted]]"
   - "[[The Importance of Teaching]]"

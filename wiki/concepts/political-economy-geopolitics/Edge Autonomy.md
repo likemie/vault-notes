@@ -7,7 +7,7 @@ aliases:
 summary: "指将关键决策权与行动自由最大程度下放给处于系统外部前沿与外围边界的个体（如蜂群侦察蜂、椋鸟群外围鸟只、一线软件工程师与战区作战人员），依靠一线最新感知敏捷驱动全系统响应，彻底打破中心层级管控与官僚信息中介的组织协同机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,12 +36,13 @@ related_persons:
   - "[[Giorgio Parisi]]"
 related_facts:
   - "[[Eck Swarm Experiment]]"
+  - "[[Department of Defense]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

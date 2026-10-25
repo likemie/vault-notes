@@ -7,9 +7,9 @@ title: "Argument_Zhu_Yang_2023_HEP"
 argument_key: "Argument_Zhu_Yang_2023_HEP"
 argument_display_title: "Emerging resources of China’s soft power: A case study of Cambodian participants from Chinese higher education programs"
 argument_kind: "journal-article"
-argument_related_count: 0
-argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_count: 39
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Higher Education Policy"
 authors:
@@ -33,6 +33,50 @@ tags:
   - source/journal-article
 sources:
   - "[[sources/Zhu_Yang_2023_HEP/Zhu_Yang_2023_HEP|Zhu_Yang_2023_HEP]]"
+related_concepts:
+  - "[[Soft Power]]"
+  - "[[Champ]]"
+  - "[[Emergence]]"
+  - "[[Grandes Ecoles]]"
+  - "[[Educational Soft Power]]"
+  - "[[Public Diplomacy]]"
+  - "[[Demonstration Effect]]"
+  - "[[Geopolitics]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[International Education]]"
+  - "[[Paradigm]]"
+  - "[[STEM Education]]"
+  - "[[South-South Cooperation]]"
+  - "[[Engineering Education]]"
+  - "[[Establishing One's Will]]"
+  - "[[Rote Learning]]"
+  - "[[People-to-People Connectivity]]"
+  - "[[Discourse]]"
+  - "[[Presence]]"
+  - "[[Heterogeneity]]"
+related_theories:
+  - "[[Educational Soft Power Framework]]"
+  - "[[Human Capital Theory]]"
+related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Case Study]]"
+  - "[[In-depth Interview]]"
+  - "[[Semi-structured Interview]]"
+  - "[[Triangulation]]"
+  - "[[Qualitative Interview]]"
+  - "[[Design-Based Research]]"
+related_persons:
+  - "[[Joseph S. Nye Jr.]]"
+  - "[[Rui Yang]]"
+related_facts:
+  - "[[Belt and Road Initiative]]"
+  - "[[Confucius Institute]]"
+  - "[[Luban Workshop]]"
+  - "[[Royal University of Phnom Penh]]"
+  - "[[MOFCOM Scholarship]]"
+  - "[[Institute of South-South Cooperation and Development]]"
+  - "[[ASEAN]]"
+  - "[[Asian Infrastructure Investment Bank]]"
 confidence: high
 status: draft
 created: 2026-10-25

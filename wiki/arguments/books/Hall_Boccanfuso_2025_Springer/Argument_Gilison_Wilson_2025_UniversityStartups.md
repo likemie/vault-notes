@@ -29,7 +29,9 @@ related_concepts:
   - "[[Mentorship]]"
   - "[[Professional Judgment]]"
   - "[[Entrepreneur in Residence]]"
+  - "[[Online Education]]"
   - "[[Innovation Hub]]"
+  - "[[Personalized Learning]]"
   - "[[Data Infrastructure]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Problem Solving]]"
@@ -50,6 +52,7 @@ related_facts:
   - "[[First Look SoCal]]"
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
+  - "[[Department of Defense]]"
   - "[[SBIR and STTR Programs]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[NSF I-Corps]]"
@@ -70,7 +73,7 @@ title: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_key: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_display_title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_kind: "book"
-argument_related_count: 40
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"

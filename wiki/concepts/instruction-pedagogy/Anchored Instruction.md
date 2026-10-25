@@ -7,7 +7,7 @@ aliases:
 summary: "由范德堡大学 CTGV 开发的经典情境教学范式，通过富含嵌入式数据的情节性宏观情境故事作为认知锚点，引导学生自主识别子问题并进行多步因果探究"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,7 +30,6 @@ related_theories:
   - "[[Situative Perspective]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -39,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 30
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Gold Standard Science]]"
   - "[[Metascience]]"
   - "[[Regulatory Sandbox]]"
+  - "[[Cognitive Authority]]"
   - "[[Industrial Commons]]"
   - "[[Competitiveness]]"
   - "[[Paradigm]]"
@@ -40,6 +41,7 @@ related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Social Contract of Science]]"
 related_facts:
+  - "[[United States Congress]]"
   - "[[National Science and Technology Council]]"
   - "[[Department of Energy]]"
   - "[[National Science Foundation]]"

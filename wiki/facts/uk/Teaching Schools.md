@@ -13,7 +13,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -45,6 +45,7 @@ related_instruments:
   - "[[Thinking Skills Assessment]]"
 related_persons: []
 related_facts:
+  - "[[Department for Education]]"
   - "[[Academy Programme in England]]"
   - "[[Partnership Schools Kura Hourua]]"
   - "[[The Importance of Teaching]]"

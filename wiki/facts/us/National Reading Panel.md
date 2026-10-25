@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 40
+fact_related_count: 44
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -28,8 +28,10 @@ related_concepts:
   - "[[Scientifically Based Research]]"
   - "[[Congressional Earmarks]]"
   - "[[Grandes Ecoles]]"
+  - "[[Phonological Awareness]]"
   - "[[Teacher Professional Agency]]"
   - "[[Causality]]"
+  - "[[Phonemic Awareness]]"
   - "[[Decodification]]"
   - "[[Evidence Standards]]"
   - "[[Clinical Trial]]"
@@ -59,6 +61,7 @@ related_persons:
   - "[[G. Reid Lyon]]"
   - "[[Joseph Schumpeter]]"
 related_facts:
+  - "[[United States Congress]]"
   - "[[National Institute of Child Health and Human Development]]"
   - "[[Reading Excellence Act]]"
   - "[[House Committee on Education and the Workforce]]"
@@ -67,6 +70,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Schulen im Team]]"
   - "[[Open Court Reading]]"
+  - "[[United States Department of Education]]"
   - "[[International Reading Association]]"
 related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"

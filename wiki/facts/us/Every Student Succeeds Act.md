@@ -16,7 +16,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 41
+fact_related_count: 43
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
@@ -58,6 +58,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
 related_persons: []
 related_facts:
+  - "[[United States Congress]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Adequate Yearly Progress]]"
@@ -65,6 +66,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Evidence for ESSA]]"
   - "[[Education Innovation and Research]]"
+  - "[[United States Department of Education]]"
   - "[[Institute of Education Sciences]]"
   - "[[Success for All]]"
   - "[[Investing in Innovation Program]]"

@@ -23,6 +23,7 @@ related_concepts:
   - "[[University-Based Research Center]]"
   - "[[Innovation Hub]]"
   - "[[Learning Analytics]]"
+  - "[[Artificial Intelligence in Education]]"
   - "[[Master Agreement]]"
   - "[[Technology Transfer Office]]"
   - "[[Workforce Development]]"
@@ -44,9 +45,11 @@ related_facts:
   - "[[Advanced Manufacturing Research Centre]]"
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
+  - "[[Department of Commerce]]"
   - "[[Manufacturing USA]]"
   - "[[Early Reading Intervention]]"
   - "[[Bill & Melinda Gates Foundation]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
 related_arguments: []
 sources:
   - "[[books/Hall_Boccanfuso_2025_Springer/Ch6_Hoffman_Radasch_Thorsell_2025|Ch6_Hoffman_Radasch_Thorsell_2025]]"
@@ -60,9 +63,9 @@ title: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_key: "Argument_Hoffman_2025_UI_Alliances_Consortia"
 argument_display_title: "University-Industry Alliances and Consortia"
 argument_kind: "book"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 32
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025

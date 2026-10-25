@@ -40,6 +40,7 @@ related_concepts:
   - "[[Washington Consensus]]"
   - "[[International Branch Campus]]"
   - "[[Education Going Global]]"
+  - "[[Total War]]"
   - "[[Research Universities]]"
   - "[[Technology Transfer]]"
   - "[[Social Imaginary]]"
@@ -55,6 +56,7 @@ related_concepts:
   - "[[Developmentalism]]"
   - "[[Grand Theory]]"
   - "[[Champ]]"
+  - "[[Public Diplomacy]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Cultural Political Economy]]"
@@ -70,6 +72,7 @@ related_persons:
   - "[[Confucius]]"
 related_facts:
   - "[[Belt and Road Initiative]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Belt and Road Education Action Plan]]"
   - "[[ASEAN]]"
   - "[[University Alliance of the Silk Road]]"
@@ -90,9 +93,9 @@ title: "Argument_Woo_2023_HEP"
 argument_key: "Argument_Woo_2023_HEP"
 argument_display_title: "Narrating the Belt and Road education policy: A critical policy discourse analysis"
 argument_kind: "journal-article"
-argument_related_count: 58
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 61
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: "Higher Education Policy"
 sources:

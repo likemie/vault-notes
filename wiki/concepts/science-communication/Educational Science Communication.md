@@ -10,7 +10,7 @@ aliases:
 summary: "面向教师、教育管理者与公众开展的教育研究成果阐释、中介与双向对话形态，主张超越单向线性传输与学术声誉顾虑，借助播客、清算平台及社交网络实现受众适配的证据转化。"
 type: concept
 domain: "science-communication"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,7 +40,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
-  - "[[Content Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

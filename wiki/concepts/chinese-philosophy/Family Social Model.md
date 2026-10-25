@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 定义
@@ -67,5 +67,5 @@ updated: 2026-10-22
 > - 相比之下，西方学校中同龄学生之间的帮助行为缺少这种文化制度化的支持，高成就者更容易被视为竞争者或炫耀者。
 
 > [!example] 相关案例／政策
-> - [[Peer-Supported Learning\|Peer-Supported Learning]] — Family Social Model 为东亚学校中的同伴互助学习提供了文化合法性和操作框架
+> - [[Peer-Supported Learning]] — Family Social Model 为东亚学校中的同伴互助学习提供了文化合法性和操作框架
 

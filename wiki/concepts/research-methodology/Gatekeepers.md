@@ -14,7 +14,7 @@ aliases:
 summary: "涵盖微观质性研究准入审查者、中观学校组织变革过滤者（如校长）、宏观政策生命周期中决定方案去留的制度把关人（政治领袖、同行专家与法定表决机构），以及跨国治理与知识生产中由国际组织、国家行政与学术精英多重身份重叠构成的依附性把关人群体（如拉美把关人网络）；其通过权力裁量、价值过滤与制度闭合，深刻决定了田野准入、校本变革转化、政策证据演变以及国家可思与不可思知识边界的划定。"
 type: concept
 domain: "research-methodology"
-related_count: 85
+related_count: 83
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -54,7 +54,6 @@ related_concepts:
   - "[[Activity Traps]]"
   - "[[Evidence-Based School Development]]"
   - "[[Dependent Variable]]"
-  - "[[Interactional Expertise]]"
   - "[[Policy Entrepreneur]]"
   - "[[Competitiveness]]"
   - "[[Heterogeneity]]"
@@ -74,6 +73,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Going Native]]"
   - "[[Contributory Expertise]]"
+  - "[[Interactional Expertise]]"
   - "[[Methodological Nationalism]]"
 related_methods:
   - "[[Fieldwork]]"
@@ -83,8 +83,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Cluster Analysis]]"
   - "[[Intraclass Correlation Coefficient]]"
-  - "[[Case Study]]"
-  - "[[In-depth Interview]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -122,7 +120,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

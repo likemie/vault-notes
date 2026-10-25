@@ -9,7 +9,7 @@ aliases:
 summary: "指知识中介机构与证据门户用于规范、筛选和评定研究证据可信度与相关性的方法学准则、报告标准及功效主张判定体系，用于防范未获充分实证支持的结论误导政策与教学实践"
 type: concept
 domain: "educational-policy-reform"
-related_count: 84
+related_count: 85
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -21,6 +21,7 @@ tags:
   - knowledge-brokerage
 related_concepts:
   - "[[Educational Brokerage Agency]]"
+  - "[[Knowledge Mediation]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Reliability]]"
   - "[[Operationalization]]"
@@ -30,7 +31,6 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
-  - "[[Knowledge Mediation]]"
   - "[[Publication Bias]]"
   - "[[Preregistration]]"
   - "[[Statistical Analysis Plan]]"
@@ -66,6 +66,7 @@ related_methods:
   - "[[Research Synthesis]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Narrative Synthesis]]"
+  - "[[Experimental Research]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Mixed Methods Research]]"
@@ -113,7 +114,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

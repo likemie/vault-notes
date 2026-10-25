@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -42,8 +42,11 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[CHIPS and Science Act]]"
+  - "[[Department of Commerce]]"
   - "[[National Science and Technology Council]]"
   - "[[Subcommittee on Microelectronics Leadership]]"
+  - "[[National Institute of Standards and Technology]]"
+  - "[[United States Congress]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[Natcast]]"
   - "[[National Advanced Packaging Manufacturing Program]]"

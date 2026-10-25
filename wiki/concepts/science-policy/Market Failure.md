@@ -7,7 +7,7 @@ aliases:
 summary: "新古典福利经济学核心概念，指由于公共品、外部性、信息不对称与不完全竞争导致自由市场价格机制无法实现帕累托最优资源配置；在科技政策中构成了传统研发资助与产业政策（集聚外部性、干中学效应）的基准依据，但在演化经济学与当代地缘政治产业政策实践中，该框架因无法指引演化方向并被国家安全与供应链保险动机所超越，成为理论反思与扩展的核心对象。"
 type: concept
 domain: "science-policy"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_facts:
   - "[[International Reading Association]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[National Science and Technology Council]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[VLSI Project]]"
   - "[[Sematech]]"
   - "[[CHIPS and Science Act]]"
@@ -81,7 +82,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

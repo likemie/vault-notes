@@ -14,7 +14,7 @@ subtype: policy
 region: japan
 fact_region: "japan"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Ministry of Education, Culture, Sports, Science and Technology]]"
   - "[[Ministry of International Trade and Industry]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Tsukuba Science City]]"

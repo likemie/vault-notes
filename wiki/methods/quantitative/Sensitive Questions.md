@@ -10,7 +10,7 @@ summary: "问卷设计与调查研究中针对受访者私密、威胁或具社�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
+method_related_count: 5
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -22,18 +22,16 @@ tags:
   - source/textbook
 related_concepts:
   - "[[Informed Consent]]"
-  - "[[Reliability]]"
   - "[[Leading Questions]]"
-  - "[[Response Bias]]"
-  - "[[Social Desirability Bias]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
 related_methods:
   - "[[Questionnaire]]"
+  - "[[Survey Research]]"
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

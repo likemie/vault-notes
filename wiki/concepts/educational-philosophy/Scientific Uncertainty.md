@@ -7,7 +7,7 @@ aliases:
 summary: "指在科学探究与知识生产过程中，由于测量误差、随机波动、模型简化、证据不完备及认知局限，导致科学结论、理论模型与未来预测偏离绝对确定性的客观认识论与方法论状态；现代科学认识论与传播学强调，不确定性并非科学的瑕疵，而是推动假说检验与共识迭代的内在驱动力，坦诚披露不确定性是维系公共信任与培育批判性科学素养的核心基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -57,6 +57,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Public Attitudes to Science]]"
+  - "[[The Royal Society]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
@@ -184,7 +185,7 @@ updated: 2026-10-26
 > [!contrast-table] 科学不确定性核心命题归纳
 > | 命题类别 | 核心理论断言 | 实践与政策抓手 | 代表文献 |
 > |---|---|---|---|
-> | **认识论内在命题** | 不确定性是科学暂定性与假说自我纠错的内在驱动力，而非瑕疵 | 重视重复研究与证据合成，避免将单一发表神圣化 | [[Royal Society\|The Royal Society]]; Cohen et al. |
+> | **认识论内在命题** | 不确定性是科学暂定性与假说自我纠错的内在驱动力，而非瑕疵 | 重视重复研究与证据合成，避免将单一发表神圣化 | [[The Royal Society]]; Cohen et al. |
 > | **透明增信命题** | 坦诚披露研究局限与不确定性显著增进公众对科学家的诚实信任 | 推广英国统计局 TQV 守则，普及带置信区间的透明沟通规范 | Kerr et al.; The Royal Society |
 > | **素养分水岭命题** | 理解不确定性是将公众引向评价主义批判思维与抵御虚假信息的关键 | 基础教育摒弃[[Rote Learning\|死记硬背]]，强化“科学如何运作”与证据评估教学 | Kuhn et al.; The Royal Society |
 > | **算法伪确定性批判** | 算法伪确定性抹平证据冲突，诱发探究过早闭合与不确定性耐受力退化 | 人机协同探究、界面透明性设计与[[Problem Solving\|复杂问题解决]]学习 | Du & Yuan |

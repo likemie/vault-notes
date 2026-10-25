@@ -8,7 +8,7 @@ summary: "一种按原始随机分配而非实际接受情况来分析结果的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 44
+method_related_count: 46
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Attrition]]"
   - "[[Academic Achievement]]"
+  - "[[Free School Meals]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Strategic Compliance]]"
@@ -61,6 +62,7 @@ related_facts:
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Social Programs That Work]]"
   - "[[Promise Neighborhoods Research Consortium]]"
+  - "[[United States Department of Education]]"
   - "[[What Works Clearinghouse]]"
 related_arguments:
   - "[[Argument_Pampaka_2016_IJRME]]"

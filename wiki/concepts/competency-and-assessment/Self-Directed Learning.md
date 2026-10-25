@@ -7,10 +7,10 @@ aliases:
 summary: "学习者主动设定目标、选择策略、监控与评价自身学习过程的学习方式；问题本位学习以识别知识缺口并自导填补为核心机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/self-directed-learning
   - theme/metacognition
@@ -26,7 +26,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Self-Directed Learning

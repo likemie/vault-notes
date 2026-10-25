@@ -7,10 +7,10 @@ aliases:
 summary: "指科技企业与风险资本在避险动机、道德不可知论与商业暴利驱使下，系统性放弃国防安全、公共治安、基础教育与重大医疗等具有高度政治争议与体制复杂性的硬核公共难题，转而将顶尖智力与资金集中于外卖、网购、打车与休闲游戏等微小消费级便利的产业与文化逃避倾向。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/political-economy
   - theme/technology-policy
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Market Triumphalism]]"
   - "[[Luxury Belief]]"
   - "[[Public Value]]"
+  - "[[Deliberative Space]]"
   - "[[Technological Republic]]"
   - "[[Engineering Mindset]]"
   - "[[Founder Culture]]"
@@ -39,6 +40,7 @@ related_persons:
   - "[[Nicholas Zamiska]]"
 related_facts:
   - "[[Dot-Com Bubble]]"
+  - "[[Department of Defense]]"
   - "[[ARPANET]]"
   - "[[Palantir Technologies]]"
 related_arguments:
@@ -46,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

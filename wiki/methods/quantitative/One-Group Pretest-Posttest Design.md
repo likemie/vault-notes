@@ -20,9 +20,9 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Causality]]"
 related_methods:
-  - "[[Pre-test and Post-test]]"
   - "[[Pre-Experimental Designs]]"
   - "[[Random Assignment]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Pretest-Posttest Control Group Design]]"
   - "[[Quasi-Experimental Designs]]"
 related_arguments:

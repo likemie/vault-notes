@@ -12,10 +12,10 @@ aliases:
 summary: "教育研究利用领域的全系统构念，指研究知识通过沟通传播、能力建设、伙伴关系与系统化方法进入政策与实践的社会交互与多方共创过程，旨在克服证据供需脱节与双向能力赤字。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 64
-related_level: 6
-related_stars: "💎💎"
-related_color: "#ddd6fe"
+related_count: 59
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - knowledge-mobilisation
   - evidence-informed-practice
@@ -59,9 +59,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Counterpart Funds]]"
   - "[[Variable]]"
-  - "[[Curiosity-Driven Research]]"
   - "[[Heterogeneity]]"
-  - "[[Necessary and Sufficient Conditions]]"
   - "[[Educational Brokerage Agency]]"
 related_theories: []
 related_methods:
@@ -69,9 +67,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[In-depth Interview]]"
-  - "[[Case Study]]"
   - "[[Questionnaire]]"
-  - "[[Framework Synthesis]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Stephen Gorard]]"
@@ -81,7 +77,6 @@ related_facts:
   - "[[Teaching and Learning Research Programme]]"
   - "[[EU]]"
   - "[[OECD]]"
-  - "[[Centre for the Use of Research and Evidence in Education]]"
 related_arguments:
   - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Nordahl_2015_Paideia]]"
@@ -89,14 +84,14 @@ related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Dean_2025_UICollaborationSupport]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Torres_2022_KMModels]]"
-  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---

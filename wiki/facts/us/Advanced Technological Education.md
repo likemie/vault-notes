@@ -13,7 +13,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Computer Simulation]]"
   - "[[Total War]]"
+  - "[[Inclusive Education]]"
   - "[[Scientific Literacy]]"
   - "[[Engineering Education]]"
   - "[[STEM Education]]"
@@ -32,6 +33,7 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods: []
 related_facts:
+  - "[[United States Congress]]"
   - "[[National Science Foundation]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Strategy on Microelectronics Research]]"

@@ -10,7 +10,7 @@ aliases:
 summary: "利用人工智能算法对学习者认知状态、知识掌握与解题步骤（以及科学探究过程）进行细致建模并提供自适应个性化教学指导的计算机系统，涵盖良构问题解题分步支架与探究式智能导师系统（Inq-ITS），由领域模型、学生模型、教学模型与交互界面四大经典构件组成。"
 type: concept
 domain: "educational-technology"
-related_count: 59
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -68,16 +68,13 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Chain-of-Thought Prompting]]"
-  - "[[Effect Size]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Confidence Interval]]"
   - "[[Critical Review]]"
 related_persons:
   - "[[Socrates]]"
 related_facts:
   - "[[Inq-Blotter]]"
   - "[[Inq-ITS]]"
-  - "[[Web-based Inquiry Science Environment]]"
 related_arguments:
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Wu_2025_ER]]"
@@ -88,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Intelligent Tutoring Systems

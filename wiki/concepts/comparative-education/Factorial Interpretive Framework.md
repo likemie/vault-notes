@@ -10,7 +10,7 @@ aliases:
 summary: "20世纪经典比较教育学中由汉斯集大成的核心分析范式，通过自然、宗教与世俗三维恒久力量解释民族国家教育制度的相貌生成与精神特质"
 type: concept
 domain: "comparative-education"
-related_count: 47
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Interpretive Validity]]"
   - "[[Scientific Explanation]]"
   - "[[Research Purpose]]"
-  - "[[Construct]]"
   - "[[Whiggism]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Educational Meliorism]]"
@@ -76,7 +75,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ## 定义
@@ -128,7 +127,7 @@ updated: 2026-10-22
 通过将因素解释框架与实证[[Variable|变量]]模型、传统[[Policy Borrowing|政策借用]]及[[Problem Solving|问题解决]]法进行多维对照，可以清晰确立其方法论坐标：
 
 > [!contrast-table] 比较教育分析[[Paradigm\|范式]]对比
-> | 维度 | 因素解释框架（Factorial Interpretive Framework） | 实证变量检验模型（Positivist Variable Model） | 描述性政策借用（Descriptive [[Policy Borrowing\|Policy Borrowing]]） | 问题解决分析法（[[Problem Solving\|Problem Approach]]） |
+> | 维度 | 因素解释框架（Factorial Interpretive Framework） | 实证变量检验模型（Positivist Variable Model） | 描述性政策借用（Descriptive [[Policy Borrowing]]） | 问题解决分析法（[[Problem Solving\|Problem Approach]]） |
 > |---|---|---|---|---|
 > | **核心旨趣** | 理解与解释民族国家教育体系何以如此生成及其精神原则 | 跨国检验假设、发现普遍共变规律并实现预测控制 | 搜集域外实绩以为本土立法与行政改革提供改良依据 | 诊断现实教育面临的社会困境并推导前瞻性政策方案 |
 > | **[[Unit of Analysis\|分析单位]]** | 民族国家、整体文化传统与国民教育体系 | [[Operationalization\|操作化]][[Variable\|变量]]、量化测验分数与跨国抽样指标 | 具体的外国学校规程、法规条文与教学法技术 | 处在特定社会断层与价值冲突中的教育问题情境 |

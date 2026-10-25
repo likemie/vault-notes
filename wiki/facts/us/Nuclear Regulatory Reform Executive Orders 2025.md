@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -36,6 +36,8 @@ related_persons:
   - "[[Michael Kratsios]]"
 related_facts:
   - "[[Department of Energy]]"
+  - "[[Department of Defense]]"
+  - "[[National Research Council]]"
   - "[[Office of Science and Technology Policy]]"
   - "[[Science A New Golden Age 2026]]"
   - "[[Genesis Mission]]"

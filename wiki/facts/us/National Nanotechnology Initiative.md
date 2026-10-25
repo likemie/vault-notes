@@ -10,9 +10,9 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 22
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2000–至今"
 initiator_organization: "National Science and Technology Council"
@@ -26,9 +26,12 @@ related_concepts:
   - "[[Megascience Installations]]"
 related_methods: []
 related_facts:
+  - "[[United States Congress]]"
   - "[[National Science and Technology Council]]"
   - "[[National Science Foundation]]"
   - "[[Department of Energy]]"
+  - "[[Department of Defense]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[National Nanotechnology Coordinated Infrastructure]]"
   - "[[CHIPS and Science Act]]"

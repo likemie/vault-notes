@@ -8,7 +8,7 @@ summary: "对已有数据集或官方行政与跨国评估数据库进行的进�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 31
+method_related_count: 32
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -54,10 +54,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
+  - "[[Argument_Zapp_2017_IJED]]"
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

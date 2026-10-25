@@ -8,7 +8,7 @@ aliases:
 summary: "产学联盟四种组织模式中介于企业联盟计划和创新中心之间的形态，大学先选定研究方向后产业基于对齐度加入，由政府与产业双重资助，产业成员获得前景知识产权的优先谈判权"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 43
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Counterpart Funds]]"
   - "[[Master Agreement]]"
   - "[[Foreground IP]]"
+  - "[[Teacher Collaboration]]"
   - "[[Sunset Provisions]]"
   - "[[Engineering Education]]"
   - "[[Dual Appointment]]"
@@ -57,6 +58,7 @@ related_facts:
   - "[[Science Foundation Ireland]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[NSF Regional Innovation Engines]]"
+  - "[[Department of Commerce]]"
   - "[[Manufacturing USA]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
 related_arguments:
@@ -68,7 +70,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

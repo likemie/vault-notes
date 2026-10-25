@@ -12,9 +12,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[United States Congress|美国国会]]与联邦政府（U.S. Congress & Executive Office of the President）"
 tags:
@@ -47,6 +47,7 @@ related_facts:
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Adequate Yearly Progress]]"
   - "[[Foundations for Evidence-Based Policymaking Act of 2018]]"
+  - "[[United States Department of Education]]"
   - "[[Institute of Education Sciences]]"
 related_arguments:
   - "[[Argument_Serpell_2020_EducPsychol]]"

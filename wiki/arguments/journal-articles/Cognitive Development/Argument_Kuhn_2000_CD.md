@@ -25,6 +25,7 @@ related_concepts:
   - "[[Multiplist]]"
   - "[[Evaluativist]]"
   - "[[Critical Thinking]]"
+  - "[[After-school Programs]]"
   - "[[Constructivist Paradigm]]"
   - "[[Areas of Knowledge]]"
   - "[[Pure Evaluation]]"
@@ -53,7 +54,7 @@ title: "Argument_Kuhn_2000_CD"
 argument_key: "Argument_Kuhn_2000_CD"
 argument_display_title: "The development of epistemological understanding"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

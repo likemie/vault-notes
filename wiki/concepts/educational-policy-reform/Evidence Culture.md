@@ -6,20 +6,47 @@ aliases:
 summary: "教育政策社会学与知识动员研究的核心概念，指在特定教育治理体系与制度环境中共同形成的关于证据的价值信念、认识论假定、制度规范与实践惯例；该构念界定了何种知识具备合法证据资格、证据应如何被评价与动员，并通过修辞隐喻、层级建构与权力分配形塑政策制定者与实践者的研究参与方式。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept
   - educational-policy-reform
   - evidence-based-policy
   - knowledge-mobilisation
   - governance
+related_concepts:
+  - "[[Communities of Practice]]"
+  - "[[Construct]]"
+  - "[[Epistemology]]"
+  - "[[Value Neutrality]]"
+  - "[[Knowledge Mobilisation]]"
+  - "[[Discourse]]"
+  - "[[Epistemological Beliefs]]"
+  - "[[Research Utilization]]"
+  - "[[Evidence Ecosystem]]"
+  - "[[Evidence-Based Policy-Making]]"
+  - "[[Paradigm]]"
+  - "[[Tacit Knowledge]]"
+  - "[[Champ]]"
+  - "[[Phronesis]]"
+  - "[[Technical Rationality]]"
+  - "[[Translational Research]]"
+related_methods:
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-analysis]]"
+  - "[[Interpretive Policy Analysis]]"
+related_facts:
+  - "[[OECD]]"
+  - "[[UNESCO]]"
+  - "[[World Bank]]"
+related_arguments:
+  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: medium
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---

@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -34,8 +34,10 @@ related_theories: []
 related_persons:
   - "[[Steven Brint]]"
 related_facts:
+  - "[[United States Congress]]"
   - "[[National Science Foundation]]"
   - "[[Department of Energy]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[National Academy of Sciences]]"
   - "[[Rising Above the Gathering Storm 2007]]"
   - "[[CHIPS and Science Act]]"

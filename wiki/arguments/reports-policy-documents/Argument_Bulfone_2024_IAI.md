@@ -23,9 +23,9 @@ title: "Argument_Bulfone_2024_IAI"
 argument_key: "Argument_Bulfone_2024_IAI"
 argument_display_title: "Adjusting to new geopolitical realities: Semiconductors industrial policy in the US and EU (IAI Papers 24 | 13)"
 argument_kind: "report"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 31
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dcfce7"
 sources:
   - "[[sources/Bulfone_2024_IAI/Bulfone_2024_IAI|Bulfone_2024_IAI]]"
@@ -56,12 +56,14 @@ related_facts:
   - "[[EU]]"
   - "[[CHIPS and Science Act]]"
   - "[[European Chips Act]]"
+  - "[[European Commission]]"
   - "[[Important Projects of Common European Interest]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Critical Raw Materials Act]]"
   - "[[World Trade Organization]]"
   - "[[Inflation Reduction Act]]"
   - "[[Horizon Europe]]"
+  - "[[National Institute of Standards and Technology]]"
 status: draft
 created: 2026-10-06
 updated: 2026-10-26

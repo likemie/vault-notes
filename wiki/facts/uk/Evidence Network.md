@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -43,11 +43,14 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Economic and Social Research Council]]"
   - "[[UK Centre for Evidence-based Policy]]"
   - "[[EPPI-Centre]]"
   - "[[What Works Network]]"
   - "[[Africa Evidence Network]]"
   - "[[National Strategy for Educational Research and Enquiry]]"
+  - "[[Department for Education]]"
+  - "[[Cabinet Office]]"
   - "[[UNESCO]]"
   - "[[Education Endowment Foundation]]"
   - "[[Research Schools Network]]"

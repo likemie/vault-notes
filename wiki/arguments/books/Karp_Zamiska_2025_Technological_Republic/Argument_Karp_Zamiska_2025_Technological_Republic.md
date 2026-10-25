@@ -7,7 +7,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_display_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 argument_kind: "book"
-argument_related_count: 218
+argument_related_count: 219
 argument_related_level: 21
 argument_related_stars: "💎💎💎💎💎💎💎"
 argument_related_color: "#fecdd3"
@@ -254,6 +254,7 @@ related_facts:
   - "[[Speak Mandarin Campaign]]"
   - "[[Walser-Bubis Debate]]"
   - "[[Goh Report]]"
+  - "[[Department of Defense]]"
 related_methods:
   - "[[Five Whys]]"
   - "[[Effectiveness Trial]]"

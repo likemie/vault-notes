@@ -9,7 +9,7 @@ summary: "质性研究与比较教育研究中超越参与者日常语言、运�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 77
+method_related_count: 76
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#dbeafe"
@@ -48,8 +48,6 @@ related_concepts:
   - "[[Knowledge Power]]"
   - "[[Policy Conditionalities]]"
   - "[[Policy Network]]"
-  - "[[Chinese Exceptionalism]]"
-  - "[[Cultural Recognition]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Organizational Culture]]"
@@ -86,11 +84,9 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Basil Bernstein]]"
-  - "[[Suyan Pan]]"
 related_facts:
   - "[[Belt and Road Initiative]]"
 related_arguments:
-  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
@@ -98,14 +94,17 @@ related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
-  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Zapp_2017_IJED]]"
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---

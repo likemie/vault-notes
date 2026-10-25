@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,11 +28,8 @@ related_concepts:
   - "[[Public Diplomacy]]"
   - "[[Soft Power]]"
   - "[[Student Mobility]]"
-  - "[[Geopolitics]]"
 related_theories: []
 related_methods:
-  - "[[Network Analysis]]"
-  - "[[Cluster Analysis]]"
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
@@ -46,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

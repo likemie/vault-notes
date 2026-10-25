@@ -11,9 +11,9 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 14
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 24
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2010–至今"
 initiator_organization: "中华人民共和国教育部"
@@ -32,19 +32,29 @@ related_concepts:
   - "[[People-to-People Connectivity]]"
   - "[[Further Education]]"
   - "[[Geopolitics]]"
+  - "[[STEM Education]]"
+  - "[[Alumnus Effect]]"
+  - "[[Para-Diplomatic Roles]]"
   - "[[Research Universities]]"
+  - "[[Rote Learning]]"
+  - "[[Public Diplomacy]]"
   - "[[Hard Power]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Analytic Framework]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Rui Yang]]"
 related_facts:
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Belt and Road Initiative]]"
   - "[[China Scholarship Council]]"
   - "[[Belt and Road Education Action Plan]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Liu_2025_IndHE]]"
+  - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
 confidence: high
 status: active
 created: 2026-10-19

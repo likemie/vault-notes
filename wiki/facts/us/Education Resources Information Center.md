@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_instruments: []
 related_persons:
   - "[[Mark Ginsburg]]"
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[Institute of Education Sciences]]"
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[Education Sciences Reform Act 2002]]"

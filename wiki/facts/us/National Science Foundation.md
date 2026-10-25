@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 85
-fact_related_level: 8
-fact_related_stars: "💎💎⭐⭐"
+fact_related_count: 91
+fact_related_level: 9
+fact_related_stars: "💎💎💎"
 fact_related_color: "#fecdd3"
 org_type: government-research-agency
 headquarters: "Alexandria, Virginia, USA"
@@ -82,6 +82,7 @@ related_facts:
   - "[[Subcommittee on Microelectronics Leadership]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[NSF Regional Innovation Engines]]"
+  - "[[United States Congress]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Board]]"
   - "[[Sputnik Shock 1957]]"
@@ -100,6 +101,9 @@ related_facts:
   - "[[NSF X-Labs]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[DARPA]]"
+  - "[[American Association for the Advancement of Science]]"
+  - "[[American Educational Research Association]]"
+  - "[[Institute of Education Sciences]]"
   - "[[Joint University Microelectronics Program 2.0]]"
   - "[[National Semiconductor Technology Center]]"
 related_arguments:
@@ -117,6 +121,8 @@ related_arguments:
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_NIST_2023_NSTC]]"
   - "[[Argument_Fuchs_2010_RP]]"
+  - "[[Argument_Serpell_2020_EducPsychol]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_Cheng_2026_KeJiChuangXin]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Stephan_2013_NBER]]"

@@ -42,13 +42,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1979 年 2 月 10 日，由新加坡副总理[[Goh Keng Swee|吴庆瑞]]（[[Goh Keng Swee|Goh Keng Swee]]）领衔的特别研究小组向新加坡教育部正式提交并发布。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
+> - **发布时间 / 发布主体** 1979 年 2 月 10 日，由新加坡副总理[[Goh Keng Swee|吴庆瑞]]（[[Goh Keng Swee]]）领衔的特别研究小组向新加坡教育部正式提交并发布。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 > - **适用地区 / 对象** 新加坡全国中小学教育体系、全体教师、在校学生及其家庭。
 > - **问题背景** 独立初期的新加坡由多元移民群体组成，多达 12 种汉语方言与英语、马来语、泰米尔语并存；调查发现 85% 的儿童在家中使用方言，导致学校双语教学流失率高、社群隔阂严重。
 > - **制度位置** 新加坡战后教育体制改革的奠基性白皮书，直接催生了能力分流制度与[[Speak Mandarin Campaign|讲华语运动]]。

@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 32
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -46,7 +46,9 @@ related_facts:
   - "[[National Nanotechnology Initiative]]"
   - "[[Subcommittee on Microelectronics Leadership]]"
   - "[[National Strategy on Microelectronics Research]]"
+  - "[[Department of Defense]]"
   - "[[Department of Energy]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[National Science Board]]"
   - "[[Industrial Advisory Committee]]"
   - "[[National Advanced Packaging Manufacturing Program]]"

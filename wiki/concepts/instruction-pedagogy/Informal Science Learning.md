@@ -10,7 +10,7 @@ aliases:
 summary: "发生在传统学校课堂之外、具有自愿性与情境化的科学学习形态，涵盖科技馆、探索中心与公民科学。既是维系公民科学素养的文化基建，也是国家微电子等战略产业开展早期启蒙、破除认知盲区并培育多元人才池的先导阵地。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -41,9 +41,12 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Curiosity-Driven Research]]"
 related_facts:
+  - "[[The Royal Society]]"
+  - "[[Wellcome Trust]]"
   - "[[Dippy on Tour]]"
   - "[[National Science and Technology Council]]"
   - "[[National Strategy on Microelectronics Research]]"
+  - "[[Department for Education]]"
   - "[[Public Attitudes to Science]]"
   - "[[Association for Science and Discovery Centres]]"
   - "[[National Science Foundation]]"
@@ -93,7 +96,7 @@ updated: 2026-10-26
 
 > [!dev-timeline] 40 年非正式科学参与的三次[[Paradigm\|范式]]跃迁
 > - **第一阶段（1980 年代中至 1990 年代）：单向知识普及与精英讲堂**
->   以 1985 年[[Royal Society|英国皇家学会]]《公众理解科学》（Bodmer 报告）为代表，主要依托公共讲座、少儿科普读物与传统国家博物馆，核心目标在于向被动公众灌输基础科技知识，受众处于认知赤字地位。（p. 42）
+>   以 1985 年[[The Royal Society|英国皇家学会]]《公众理解科学》（Bodmer 报告）为代表，主要依托公共讲座、少儿科普读物与传统国家博物馆，核心目标在于向被动公众灌输基础科技知识，受众处于认知赤字地位。（p. 42）
 > - **第二阶段（2000 年代初）：千禧年基建与科学中心网络兴起**
 >   在千禧年委员会（Millennium Commission）与[[Wellcome Trust|惠康信托]]（Wellcome Trust）巨额资助下，全英新建数十所大型互动科学探索中心（如格拉斯哥科学中心、我们好奇科学馆、伯明翰智囊科学中心），推动科学体验向具身互动实验全面升级。（pp. 44–45）
 > - **第三阶段（2020 年代中至今）：双向参与、在地化与社会文化基础设施确立**
@@ -174,7 +177,7 @@ updated: 2026-10-26
 > > [!axis] 公益普惠公共品 vs 商业化自选特权
 > > 非正式科学场馆究竟是面向全体公民的普惠基建，还是沦为中产阶层家庭的自选消费特权？
 > > - **新自由主义市场化导向** 削减政府经常性补贴，逼迫场馆提高门票以自负盈亏，导致工薪与弱势群体被经济门槛阻隔在外。
-> > - **社会文化基建主张与[[Royal Society|皇家学会]]建议四** 强调国家财政必须兜底经常性运营，通过税收抵免与政府采购补贴维持场馆普惠开放。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 52)]]
+> > - **社会文化基建主张与[[The Royal Society|皇家学会]]建议四** 强调国家财政必须兜底经常性运营，通过税收抵免与政府采购补贴维持场馆普惠开放。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 52)]]
 >
 > > [!axis] 短期即时成效 vs 全生命周期累积
 > > 如何科学评估非正式科学学习的实际价值？

@@ -161,7 +161,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -358,9 +358,9 @@ updated: 2026-10-23
 
 > [!claim] Tseng, V.; Prøitz, T. S.; Bangs, J.; Nagy, E. K.
 > **跨界伙伴关系、中介对话与实践者主体地位** 针对教育研究利用长期受制于单向输出与技术专家垄断的局限：
-> 1. **长效伙伴关系构建** [[Vivian Tseng\|Vivian Tseng]] (2022) 强调可持续的研究利用有赖于研究与实践伙伴关系（[[Research-Practice Partnership\|RPP]]），主张通过资助机制与高校制度改革支持长期的跨界互信合作；
+> 1. **长效伙伴关系构建** [[Vivian Tseng]] (2022) 强调可持续的研究利用有赖于研究与实践伙伴关系（[[Research-Practice Partnership\|RPP]]），主张通过资助机制与高校制度改革支持长期的跨界互信合作；
 > 2. **[[Third Space Discourse\|第三空间话语]]沟通** Tine S. Prøitz (2022) 强调在学术界、政策界与实践界之间开辟中介性[[Third Space Discourse\|第三空间]]，促进学术严谨性、政策紧迫性与实践情境性的对话协商；
-> 3. **实践者主体地位确立** [[John Bangs\|John Bangs]] 与 Emese K. Nagy (2022) 强调教师是知识的协同创造者而非被动消费者，教师专业组织通过开展独立研究将循证融入育人伦理，支持专业自主权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 219–222, 226–228, 233–236)]]
+> 3. **实践者主体地位确立** [[John Bangs]] 与 Emese K. Nagy (2022) 强调教师是知识的协同创造者而非被动消费者，教师专业组织通过开展独立研究将循证融入育人伦理，支持专业自主权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 219–222, 226–228, 233–236)]]
 
 ---
 

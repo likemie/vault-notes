@@ -6,10 +6,10 @@ aliases:
 summary: "学生对学习过程与学习环境的总体满意程度，是衡量教学模式情感与体验效果的重要指标；问题本位学习通过主动参与激发内在动机并提升满意度。"
 type: concept
 domain: "educational-psychology"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/student-satisfaction
   - theme/affective-outcomes
@@ -19,14 +19,11 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Academic Achievement]]"
   - "[[Student Attitude]]"
-  - "[[Dependent Variable]]"
   - "[[Variable]]"
   - "[[Clinical Skills]]"
 related_theories: []
 related_methods:
-  - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -35,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

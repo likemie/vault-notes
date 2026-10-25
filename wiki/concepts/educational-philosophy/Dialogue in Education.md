@@ -8,7 +8,7 @@ aliases:
 summary: "教育哲学与教学法中的核心中介，通过师生与生生间平等的经验共享、批判性质询与共同探究，克服单向灌输并促进批判性思维与意识觉醒"
 type: concept
 domain: "educational-philosophy"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,7 +40,6 @@ related_methods:
   - "[[Mother-Child Conversation]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Experimental Research]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

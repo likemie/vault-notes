@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -48,6 +48,7 @@ related_methods:
   - "[[External Auditor]]"
 related_persons: []
 related_facts:
+  - "[[Economic and Social Research Council]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HE]]"

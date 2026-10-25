@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_persons:
 related_facts:
   - "[[World Council of Comparative Education Societies]]"
   - "[[Comparative and International Education Society]]"
+  - "[[Department for Education]]"
   - "[[Comparative Education Society in Europe]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"

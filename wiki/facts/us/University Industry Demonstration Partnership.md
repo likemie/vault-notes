@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -52,7 +52,6 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[National Academy of Sciences]]"
-  - "[[Chinese Academy of Sciences]]"
   - "[[National Science Foundation]]"
   - "[[Network of Academic Corporate Relations Officers]]"
   - "[[University Industry Innovation Network]]"

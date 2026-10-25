@@ -8,10 +8,10 @@ summary: "香港比较教育与高等教育学者，香港大学教育学院讲�
 type: person
 nationality: "china"
 person_region: "china"
-person_related_count: 0
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1966"
 died: ""
 lifespan: "1966–至今"
@@ -22,6 +22,20 @@ tags:
   - field/higher-education
   - theme/soft-power
   - theme/geopolitics
+related_concepts:
+  - "[[Educational Soft Power]]"
+  - "[[Outward-Oriented Internationalization]]"
+  - "[[Soft Power]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[Chinese Exceptionalism]]"
+related_theories:
+  - "[[Educational Soft Power Framework]]"
+related_persons:
+  - "[[Joseph S. Nye Jr.]]"
+  - "[[Suyan Pan]]"
+related_arguments:
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: draft
 created: 2026-10-26

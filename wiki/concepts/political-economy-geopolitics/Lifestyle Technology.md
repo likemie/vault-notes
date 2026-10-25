@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -81,7 +81,7 @@ updated: 2026-10-22
 > [!feature] 核心要素
 > - **生活摩擦消除取向（Friction-Elimination Orientation）** 研发灵感高度依赖创始人自身日常生活的偶发不便（如找车位难、推杆练习场少、等餐时间长）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 104–106)]]
 > - **阶层购买力模拟机制（Purchasing-Power [[Computer Simulation|simulation]] Mechanism）** 通过算法整合廉价劳动力市场，让年轻白领以极低边际成本享受到过去仅属于贵族阶层的随身侍从服务。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 107–108)]]
-> - **[[Technological Pastiche|技术拼贴]]与衍生化（[[Technological Pastiche\|Technological Pastiche]]）** 援引[[David Graeber|大卫·格雷伯]]（[[David Graeber]]）的洞察，生活方式科技并非底层科学突破，而是对既有成熟通信网络与 GPS 技术的浅层包装与重复拼接。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 110)]]
+> - **[[Technological Pastiche|技术拼贴]]与衍生化（[[Technological Pastiche]]）** 援引[[David Graeber|大卫·格雷伯]]（[[David Graeber]]）的洞察，生活方式科技并非底层科学突破，而是对既有成熟通信网络与 GPS 技术的浅层包装与重复拼接。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 110)]]
 
 ---
 

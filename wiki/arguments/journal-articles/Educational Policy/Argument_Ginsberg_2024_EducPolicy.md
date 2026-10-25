@@ -69,6 +69,7 @@ related_persons: []
 related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
+  - "[[United States Department of Education]]"
   - "[[Success for All]]"
   - "[[What Works Clearinghouse]]"
   - "[[Evidence for ESSA]]"
@@ -88,7 +89,7 @@ title: "Argument_Ginsberg_2024_EducPolicy"
 argument_key: "Argument_Ginsberg_2024_EducPolicy"
 argument_display_title: "Does ESSA assure the use of evidence-based educational practices? Educational Policy, 38(1), 161–185"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"

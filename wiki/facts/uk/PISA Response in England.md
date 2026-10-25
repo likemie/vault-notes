@@ -12,7 +12,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 23
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Falling Standards Template]]"
   - "[[Mediatised Governance]]"
+  - "[[Teacher Trust]]"
   - "[[Discourse]]"
   - "[[Global Universities Rankings]]"
   - "[[Rashomon Effect]]"
@@ -46,6 +47,7 @@ related_persons:
   - "[[Andreas Schleicher]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Department for Education]]"
   - "[[OECD]]"
   - "[[The Importance of Teaching]]"
   - "[[Academy Programme in England]]"

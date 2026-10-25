@@ -8,7 +8,7 @@ aliases:
 summary: "由马丁·奥兰德（Martin Orland, 2009）提出的教育政策与知识动员经典修辞概念，用以形象化表征学术研究界与政治决策界相互割裂的运行生态；该隐喻主张科研社群与政策社群如同在各自独立的引力轨道上运转，在时间节奏、激励体制、评价标准及话语范式上存在不可通约的结构性分野；这一绝望图景成为知识中介、边界跨越者以及当代‘爵士乐队’即兴协同理论致力于打破的基准分析模型。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 9
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,20 +18,13 @@ tags:
   - theme/two-communities
   - theme/science-politics-nexus
   - theme/policy-research
-related_concepts:
-  - "[[Evidence Culture]]"
-  - "[[Boundary Spanner]]"
-  - "[[Knowledge Mobilisation]]"
-  - "[[Knowledge Mediation]]"
-  - "[[Educational Brokerage Agency]]"
+related_concepts: []
 related_theories:
   - "[[Two-Communities Theory]]"
-  - "[[Good Governance of Evidence]]"
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[OECD]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high

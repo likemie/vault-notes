@@ -9,7 +9,7 @@ aliases:
 summary: "一种具有跨部门广泛渗透性、内在持续技术动态性以及能诱发下游互补性创新与系统性生产率提升的基础技术范式。"
 type: concept
 domain: "economics"
-related_count: 53
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -66,6 +66,8 @@ related_facts:
   - "[[Semiconductor Research Corporation]]"
   - "[[National Science and Technology Council]]"
   - "[[National Strategy on Microelectronics Research]]"
+  - "[[National Institute of Standards and Technology]]"
+  - "[[Department of Commerce]]"
   - "[[Advanced Technology Program]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[CHIPS and Science Act]]"
@@ -81,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

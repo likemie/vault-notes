@@ -9,7 +9,7 @@ aliases:
 summary: "将教育系统理解为多层级行动者在制度结构中通过协商、博弈与制度工具共同达成决策与行动协调的宏观分析框架"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -52,10 +52,11 @@ related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
+  - "[[Argument_Zapp_2017_IJED]]"
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

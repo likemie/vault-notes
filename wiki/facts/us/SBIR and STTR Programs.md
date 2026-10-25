@@ -14,7 +14,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_persons:
   - "[[Fred Block]]"
 related_facts:
   - "[[National Science Foundation]]"
+  - "[[Department of Defense]]"
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
   - "[[National Aeronautics and Space Administration]]"

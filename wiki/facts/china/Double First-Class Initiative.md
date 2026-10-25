@@ -13,9 +13,9 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 24
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "中华人民共和国国务院 / [[Ministry of Education of the People's Republic of China|中华人民共和国教育部]] / 财政部 / 国家发展和改革委员会"
 tags:
@@ -26,22 +26,31 @@ tags:
   - soft-power
   - policy/national-strategy
 related_concepts:
+  - "[[Knowledge-Based Economy]]"
+  - "[[Competitiveness]]"
   - "[[Soft Power]]"
+  - "[[Megascience Installations]]"
   - "[[Research Universities]]"
   - "[[International Branch Campus]]"
+  - "[[Public Diplomacy]]"
+  - "[[Global Universities Rankings]]"
   - "[[Educational Diplomacy]]"
   - "[[Student Mobility]]"
+  - "[[English-Medium Instruction in Higher Education]]"
+  - "[[People-to-People Connectivity]]"
   - "[[Academic Freedom]]"
-  - "[[Public Diplomacy]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Critical Discourse Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[Project 211]]"
   - "[[Project 985]]"
   - "[[Thousand Talents Program]]"
+  - "[[National Natural Science Foundation of China]]"
   - "[[Belt and Road Initiative]]"
+  - "[[Academic Ranking of World Universities]]"
   - "[[Confucius Institute]]"
 related_arguments:
   - "[[Argument_Velasco_2022_CSJ]]"
@@ -150,8 +159,8 @@ updated: 2026-10-26
 > | [[International Branch Campus]] | Concept | 双一流高校如厦门大学与苏州大学在东南亚设立境外独立校区的制度实践。 |
 > | [[Academic Freedom]] | Concept | 围绕大学深度依附国家大战略导向而引发的大学自主权理论争议。 |
 > | [[Student Mobility]] | Concept | 双一流学科建设直接拉动的沿线国家留学生在华流动与国际化指标。 |
-> | [[Project 211\|Project 211]] | Fact (Program) | 双一流战略整合与重构的早期国家重点大学和学科建设计划。 |
-| [[Project 985\|Project 985]] | Fact (Program) | 双一流战略整合与重构的早期世界一流大学建设计划。 |
+> | [[Project 211]] | Fact (Program) | 双一流战略整合与重构的早期国家重点大学和学科建设计划。 |
+| [[Project 985]] | Fact (Program) | 双一流战略整合与重构的早期世界一流大学建设计划。 |
 | [[Thousand Talents Program]] | Fact (Program) | 与双一流学科建设深度协同、延揽海外高层次师资团队的国家引才工程。 |
 > | [[Belt and Road Initiative]] | Fact (Program) | 双一流高校定向配置丝路奖学金与共建大学联盟的宏观地缘战略环境。 |
 > | [[Confucius Institute]] | Fact (Program) | 双一流承办大学在海外输出语言教学与文化交流的合作网络。 |

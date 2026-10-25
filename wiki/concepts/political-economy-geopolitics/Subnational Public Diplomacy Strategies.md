@@ -7,7 +7,7 @@ aliases:
 summary: "基于次国家空间配置与地缘风险差异划分的大国公共外交三类战略范式：在能源过境国重点配置基建贷款的汲取型、在战略对抗敏感区倚重文化教育软性润滑的微调型，以及在战乱动荡区规避次国家纵深布局的规避型。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,10 +16,14 @@ tags:
   - theme/public-diplomacy
   - theme/educational-diplomacy
   - theme/comparative-strategy
+related_facts:
+  - "[[Confucius Institute]]"
+related_arguments:
+  - "[[Argument_Custer_2021_AidData]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

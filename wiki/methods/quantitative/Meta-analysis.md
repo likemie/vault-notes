@@ -146,7 +146,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -182,9 +182,9 @@ updated: 2026-10-22
 > - **辅助技术** Cochran's [[Cochran's Q Test|Q 检验]]、$I^2$ 统计量、[[Forest Plot|森林图]]、[[Funnel Plot|漏斗图]]、Egger 回归检验、[[Trim and Fill Method|剪补法]]（Trim & Fill）、[[Fail-Safe N|失安全数]]（Fail-Safe N）、[[Leave-One-Out Sensitivity Analysis|留一法敏感性分析]]。
 
 > [!dev-timeline] 元分析的历史演进脉络
-> - **1904 — 跨研究合并的先声** [[Karl Pearson|Karl Pearson]] 在 *BMJ* 发表伤寒疫苗接种统计报告，计算并比较多组接种数据中的相关系数并取其平均，是合并多项研究结果的早期尝试 ([[Argument_Higgins_2016_ROE|Higgins, 2016]])。
+> - **1904 — 跨研究合并的先声** [[Karl Pearson]] 在 *BMJ* 发表伤寒疫苗接种统计报告，计算并比较多组接种数据中的相关系数并取其平均，是合并多项研究结果的早期尝试 ([[Argument_Higgins_2016_ROE|Higgins, 2016]])。
 > - **1930s–1950s — 合并推断的统计基础** Fisher (1932) 提出合并独立 $p$ 值的方法；Cochran (1954) 提出检验多项研究结果同质性的 $Q$ 统计量。
-> - **1976–1977 — 命名与[[Paradigm|范式]]确立** [[Gene Glass|Gene Glass]] (1976) 在美国教育研究协会主席演说中提出 meta-analysis；Smith and Glass (1977) 综合 375 项心理治疗研究，得出平均效应量约 0.68 个标准差，确立以[[Effect Size|效应量]]为通用尺度的综合范式。
+> - **1976–1977 — 命名与[[Paradigm|范式]]确立** [[Gene Glass]] (1976) 在美国教育研究协会主席演说中提出 meta-analysis；Smith and Glass (1977) 综合 375 项心理治疗研究，得出平均效应量约 0.68 个标准差，确立以[[Effect Size|效应量]]为通用尺度的综合范式。
 > - **1979–1986 — 统计理论成形** Rosenthal (1979) 提出[[Fail-Safe N|失安全数]]；Hedges (1981) 给出效应量的抽样分布与小样本校正 $g$；Hedges (1983) 提出效应量的[[Random-Effects Model|随机效应模型]]；Orwin (1983) 提出基于效应量阈值的失安全数；Hedges and Olkin (1985) 出版系统的统计方法专著；DerSimonian and Laird (1986) 提出 $\tau^2$ 的矩估计。
 > - **1990s–2000s — 系统综述的制度化** Cochrane 协作网于 1993 年成立；QUOROM 声明 (1999) 及其后继 [[PRISMA]] 声明 (2009, 2020) 规范了[[Systematic Review|系统综述]]与元分析的报告；Higgins and Thompson (2002) 提出 $I^2$ 统计量。
 > - **2010s — 依赖效应量的建模** Hedges et al. (2010) 将[[Robust Variance Estimation|稳健方差估计]]（RVE）引入元分析；Van den Noortgate et al. (2013) 与 Cheung (2014) 建立[[Three-Level Meta-Analysis|三水平元分析]]；R 的 metafor 等软件形成完整计算生态。

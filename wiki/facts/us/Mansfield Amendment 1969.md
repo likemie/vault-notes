@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -35,6 +35,8 @@ related_persons:
   - "[[Vannevar Bush]]"
   - "[[Erica Fuchs]]"
 related_facts:
+  - "[[United States Congress]]"
+  - "[[Department of Defense]]"
   - "[[DARPA]]"
   - "[[National Science Foundation]]"
   - "[[ARPANET]]"

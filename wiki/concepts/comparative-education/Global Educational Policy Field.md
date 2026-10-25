@@ -7,10 +7,10 @@ aliases:
 summary: "教育政策社会学借助皮埃尔·布迪厄场域理论构建的分析构念，指由超国家组织、跨国政策网络与主权国家共同构成的相对自主跨国社会空间，通过统计等值空间、专家认知资本与标准化比较指标构建横向规训秩序，并与民族国家内部政策场域发生持续折冲。"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 5
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/comparative-education
   - theme/global-governance
@@ -18,30 +18,16 @@ tags:
   - theme/sociology-of-education
   - theory/bourdieu
 related_concepts:
-  - "[[Champ]]"
-  - "[[Cultural Capital]]"
-  - "[[Space of Equivalence]]"
-  - "[[Governing by Numbers]]"
-  - "[[Policy Network]]"
-  - "[[Comparative Turn in Education Policy]]"
-  - "[[Soft Power by Hard Facts]]"
   - "[[Global Education Governing Complex]]"
-  - "[[Epistemic Governance]]"
-related_theories:
-  - "[[World Society Theory]]"
-  - "[[Governmentality]]"
-  - "[[Spatial Governmentality]]"
-related_methods:
-  - "[[Critical Review]]"
-  - "[[Critical Policy Analysis]]"
-related_persons:
-  - "[[Pierre Bourdieu]]"
-  - "[[Stephen Ball]]"
-related_facts:
-  - "[[OECD]]"
-  - "[[PISA]]"
+  - "[[Policy Network]]"
+related_theories: []
+related_methods: []
+related_persons: []
+related_facts: []
 related_arguments:
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
+  - "[[Argument_Li_2025_HSSC]]"
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
 confidence: high
 status: draft
 created: 2026-10-26
@@ -59,7 +45,7 @@ updated: 2026-10-26
 > - **边界** 聚焦于宏观多边治理层面的政策博弈空间，区别于一国内部由行政部门与本土利益集团构成的民族国家政策场域。
 
 > [!citation-card] 全球教育政策场域的客观权力结构
-> 任何特定场域的结构都是权力关系的客观状态，由不同行动者占有的资本类型与资本量决定。在二战后逐步成型的全球教育政策场域中，经合组织等超国家组织并不具备直接制定国家法律的强制权限，亦缺乏直接干预主权国内部决策的财政杠杆；它们通过长期深耕教育统计、建立国际测量指标体系并汇聚跨国专家网络，将自身重组为全球政策知识与比较数据中心，凭借由此积累的象征资本与专家认知资本确立跨国教育仲裁权威。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021)]]
+> 任何特定场域的结构都是权力关系的客观状态，由不同行动者占有的资本类型与资本量决定。在二战后逐步成型的全球教育政策场域中，经合组织等超国家组织并不具备直接制定国家法律的强制权限，亦缺乏直接干预主权国内部决策的强制性财政支助机制；它们通过长期深耕教育统计、建立国际测量指标体系并汇聚跨国专家网络，将自身重组为全球政策知识与比较数据中心，凭借由此积累的象征资本与专家认知资本确立跨国教育仲裁权威。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021)]]
 
 > [!boundary]- 概念边界
 > - 不等于 [[Global Education Governing Complex]]：治理复合体侧重由主权国、多边机构、跨国商业公司与慈善基金会构成的跨部门实体治理联盟；全球教育政策场域强调按照特定资本类型（统计资本、象征资本、政治资本）展开等级化博弈与合法性争夺的关系性社会空间。
@@ -104,7 +90,7 @@ updated: 2026-10-26
 > 探讨无行政强制权的国际官僚机构如何依托心理测量指标与数据库建设，将专业知识转化为支配主权国家政策议程的象征权力。
 
 > [!claim] [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]]
-> **统计与认知资本转化机制** 经合组织（OECD）自身定位为跨政府网络中的关键节点，缺乏直接颁布法律的法定规制工具，亦无在成员国内部推行决策的财政杠杆。该机构通过长周期运作教育指标体系与 PISA 国际测评项目，系统地将自身塑造为全球唯一的政策知识与比较数据中枢。依靠专业技术官僚资源、数据汇聚能力与过去成功治理经验，OECD 成功地将心理测量分数转化为指导国家教育改革的认知标准与规范压力，在此基础上重构了全球教育政策场域的合法性规则。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021)]]
+> **统计与认知资本转化机制** 经合组织（OECD）自身定位为跨政府网络中的关键节点，缺乏直接颁布法律的法定规制工具，亦无在成员国内部推行决策的强制性财政支助机制。该机构通过长周期运作教育指标体系与 PISA 国际测评项目，系统地将自身塑造为全球唯一的政策知识与比较数据中枢。依靠专业技术官僚资源、数据汇聚能力与过去成功治理经验，OECD 成功地将心理测量分数转化为指导国家教育改革的认知标准与规范压力，在此基础上重构了全球教育政策场域的合法性规则。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021)]]
 
 ---
 

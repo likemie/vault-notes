@@ -9,7 +9,7 @@ summary: "美国著名外交家、国际政治学者，现实主义地缘战略�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Hard Power]]"
   - "[[Technological Republic]]"
+  - "[[Grit]]"
   - "[[Geopolitics]]"
   - "[[Analytical Stance]]"
 related_theories:
@@ -39,7 +40,8 @@ related_instruments: []
 related_persons:
   - "[[Lee Kuan Yew]]"
   - "[[Noam Chomsky]]"
-related_facts: []
+related_facts:
+  - "[[Department of Defense]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"

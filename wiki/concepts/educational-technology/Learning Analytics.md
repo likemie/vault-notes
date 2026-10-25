@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -139,7 +139,7 @@ updated: 2026-10-22
 > 算法在学生发生实际学业危机前便提前介入，将求助的自主权转化为被动接受算法调制的依附性。
 
 > [!claim] Thompson et al.
-> **[[Preemptive Governance\|先发制人治理]]重塑有前景学生的主体性** 在 在线自我评估（[[Online Self-Assessment\|OSA]]） 等场景中，学习分析在入学前即构建出“[[Digital Self\|数字自我]]”并对标“[[Digital Optimum\|数字最优]]”；当学生的日常行为偏离最优轨迹时，系统触发先发制人式干预（[[Preemptive Governance\|Preemptive Governance]]），迫使个体将自身不断修剪为符合算法预设的“[[Promising Student\|有前景的学生]]”，剥夺了学生在真实探索与犯错中生成主体性的空间。[[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, pp. 224–226)]]
+> **[[Preemptive Governance\|先发制人治理]]重塑有前景学生的主体性** 在 在线自我评估（[[Online Self-Assessment\|OSA]]） 等场景中，学习分析在入学前即构建出“[[Digital Self\|数字自我]]”并对标“[[Digital Optimum\|数字最优]]”；当学生的日常行为偏离最优轨迹时，系统触发先发制人式干预（[[Preemptive Governance]]），迫使个体将自身不断修剪为符合算法预设的“[[Promising Student\|有前景的学生]]”，剥夺了学生在真实探索与犯错中生成主体性的空间。[[Argument_Thompson_2022_Promising_Student\|(Thompson et al., 2022, pp. 224–226)]]
 
 ---
 

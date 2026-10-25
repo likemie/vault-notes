@@ -10,7 +10,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -33,7 +33,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Self-Regulated Learning]]"
-  - "[[Gamification]]"
+  - "[[Game-Based Learning]]"
   - "[[Didaktik]]"
   - "[[Effective Teaching]]"
   - "[[Flipped Classrooms]]"
@@ -62,6 +62,7 @@ related_facts:
   - "[[Qualitätsoffensive Lehrerbildung]]"
   - "[[Zentrum für internationale Bildungsvergleichsstudien]]"
   - "[[Fraunhofer Society Model]]"
+  - "[[Skills Toward Employment and Productivity]]"
   - "[[Leibniz Institute for Educational Research and Educational Information]]"
   - "[[OECD]]"
   - "[[PISA]]"

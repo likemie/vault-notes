@@ -11,9 +11,9 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 6
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1998–2019"
 initiator_organization: "中华人民共和国教育部 / 财政部"
@@ -26,14 +26,21 @@ tags:
   - world-class-universities
 related_concepts:
   - "[[Research Universities]]"
+  - "[[Competitiveness]]"
+  - "[[Counterpart Funds]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Megascience Installations]]"
+  - "[[Innovation Ecosystem]]"
+  - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Soft Power]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Project 211]]"
   - "[[Double First-Class Initiative]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
+  - "[[Project 211]]"
   - "[[Thousand Talents Program]]"
 related_arguments:
   - "[[Argument_Velasco_2022_CSJ]]"
@@ -134,9 +141,9 @@ updated: 2026-10-26
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Project 211\|Project 211]] | Fact (Program) | 985 工程赖以展开的基础工程，两者共同构成 1990 年代起中国高水平大学建设的双支柱。 |
-> | [[Double First-Class Initiative\|Double First-Class Initiative]] | Fact (Policy) | 统筹重组 985 工程与 211 工程的新一代国家高等教育战略。 |
-> | [[Thousand Talents Program\|Thousand Talents Program]] | Fact (Program) | 为 985 高校前沿学科提供全球顶尖领军人才保障的国家引智工程。 |
-> | [[Research Universities\|Research Universities]] | Concept | 985 工程的核心依托与创建标的。 |
-> | [[Soft Power\|Soft Power]] | Concept | 高水平大学国际学术声誉与全球引才能力所服务转化的国家战略能力。 |
+> | [[Project 211]] | Fact (Program) | 985 工程赖以展开的基础工程，两者共同构成 1990 年代起中国高水平大学建设的双支柱。 |
+> | [[Double First-Class Initiative]] | Fact (Policy) | 统筹重组 985 工程与 211 工程的新一代国家高等教育战略。 |
+> | [[Thousand Talents Program]] | Fact (Program) | 为 985 高校前沿学科提供全球顶尖领军人才保障的国家引智工程。 |
+> | [[Research Universities]] | Concept | 985 工程的核心依托与创建标的。 |
+> | [[Soft Power]] | Concept | 高水平大学国际学术声誉与全球引才能力所服务转化的国家战略能力。 |
 > | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 实证记录 985 工程创设国际公认高水平研究型大学进程的政策分析文献。 |

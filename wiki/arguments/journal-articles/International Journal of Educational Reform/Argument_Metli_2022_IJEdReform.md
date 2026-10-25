@@ -35,6 +35,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Concept Mapping]]"
   - "[[Approaches to Teaching and Learning]]"
+  - "[[Integrated Curriculum Programs]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -63,9 +64,9 @@ title: "Argument_Metli_2022_IJEdReform"
 argument_key: "Argument_Metli_2022_IJEdReform"
 argument_display_title: "Concurrency of Learning: Strategies and Challenges of Promoting Coherence in the Core in the International Baccalaureate Diploma Programme (IBDP)"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "International Journal of Educational Reform"
 book_title: ""

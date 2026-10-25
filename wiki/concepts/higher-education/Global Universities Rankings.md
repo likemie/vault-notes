@@ -9,7 +9,7 @@ aliases:
 summary: "对高等教育机构进行比较性评估和排序的量化工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。"
 type: concept
 domain: "higher-education"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -79,11 +79,12 @@ related_arguments:
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Marginson_2025_ECNUROE]]"
   - "[[Argument_Schulze-Cleven_2017_HE]]"
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: medium
 status: stable
 created: '2026-05-11'
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

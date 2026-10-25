@@ -9,7 +9,7 @@ summary: "一种广泛使用的调查研究工具，通过结构化或半结构�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 57
+method_related_count: 55
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Response Bias]]"
-  - "[[Flow]]"
   - "[[Causality]]"
   - "[[Heterogeneity]]"
   - "[[Common Method Variance]]"
@@ -70,20 +69,19 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Sensitive Questions]]"
   - "[[Likert Scale]]"
-  - "[[Meta-regression]]"
   - "[[Questionnaire Wording]]"
   - "[[Covering Letter]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20]]"
   - "[[Argument_Brown_Greany_2018_LPS]]"
+  - "[[Argument_Custer_2021_AidData]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 related_facts: []
-related_theories:
-  - "[[Societies of Control]]"
+related_theories: []
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---

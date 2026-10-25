@@ -9,9 +9,9 @@ aliases:
 summary: "一种主张真正知识唯独建立在感官经验、观察与实验基础之上的认识论立场，预设自然与社会遵循同质客观法则；在启蒙发轫期曾从属于全人道德教化与社会改良，而在20世纪演化为追求价值中立与法则概括的统治性实证范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 134
-related_level: 13
-related_stars: "💎💎💎💎⭐"
+related_count: 142
+related_level: 14
+related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - paradigm/positivism
@@ -57,6 +57,9 @@ related_concepts:
   - "[[Theoretical Standpoint]]"
   - "[[Intentionality]]"
   - "[[Construct]]"
+  - "[[Output-Oriented Governance]]"
+  - "[[Smart Buys]]"
+  - "[[Epistemic Inequality]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Knowledge Production]]"
   - "[[Comparative Educations]]"
@@ -68,12 +71,14 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Technological Republic]]"
   - "[[Performativity]]"
+  - "[[Self Explanation]]"
   - "[[Working Hypothesis]]"
   - "[[Grand Theory]]"
-  - "[[Discourse]]"
+  - "[[Deliberative Space]]"
   - "[[Big Science]]"
   - "[[Formal Epistemology]]"
   - "[[Practical Epistemology]]"
+  - "[[Discourse]]"
   - "[[Neo-Taylorism]]"
   - "[[Performance Indicators]]"
 related_theories:
@@ -134,9 +139,12 @@ related_persons:
 related_facts:
   - "[[PISA]]"
   - "[[ESPRIT]]"
-  - "[[IEA]]"
+  - "[[World Bank]]"
   - "[[OECD]]"
+  - "[[Global Education Evidence Advisory Panel]]"
+  - "[[IEA]]"
   - "[[Positivist Dispute in German Sociology]]"
+  - "[[United States Congress]]"
   - "[[Reading Excellence Act]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[National Research Council]]"
@@ -150,6 +158,7 @@ related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Nielsen_2021_NordPsych]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
@@ -158,11 +167,10 @@ related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Sandoval_2005_SE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ## 定义

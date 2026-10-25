@@ -10,9 +10,9 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 65
-method_related_level: 6
-method_related_stars: "💎💎"
+method_related_count: 76
+method_related_level: 7
+method_related_stars: "💎💎⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/documentary-analysis
@@ -45,6 +45,10 @@ related_concepts:
   - "[[Test Production]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Hard Policy Transfer]]"
+  - "[[Epistemic Governance]]"
+  - "[[Soft Power]]"
+  - "[[Educational Diplomacy]]"
+  - "[[Geopolitics]]"
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Case Study]]"
@@ -71,6 +75,8 @@ related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Zapp_2017_IJED]]"
+  - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 related_facts:
   - "[[DARPA]]"
@@ -84,7 +90,12 @@ related_facts:
   - "[[Infrastructure Investment and Jobs Act]]"
   - "[[CHIPS and Science Act]]"
   - "[[International Reading Association]]"
+  - "[[United States Congress]]"
   - "[[The Green Book]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
+  - "[[MOFCOM Scholarship]]"
+  - "[[World Bank]]"
+  - "[[ASEAN]]"
 related_theories:
   - "[[Beech's Model of Discourse Circulation]]"
   - "[[Developmental Network State]]"

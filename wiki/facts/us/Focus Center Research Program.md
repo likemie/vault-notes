@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -52,6 +52,7 @@ related_facts:
   - "[[Semiconductor Research Corporation]]"
   - "[[Joint University Microelectronics Program 2.0]]"
   - "[[Bell Labs]]"
+  - "[[Department of Defense]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"

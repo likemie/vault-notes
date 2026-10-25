@@ -59,7 +59,7 @@ related_persons:
   - "[[Peter A. Hall]]"
   - "[[Jeroen van der Heijden]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
+  - "[[United States Congress]]"
   - "[[Education Resources Information Center]]"
   - "[[EU]]"
 related_arguments:

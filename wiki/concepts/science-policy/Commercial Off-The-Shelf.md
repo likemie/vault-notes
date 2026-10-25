@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -66,7 +66,7 @@ updated: 2026-10-22
 
 > [!boundary]- 概念边界
 > - 不等于政府定制外包（Custom-built Government Procurement）— 后者由政府官员起草数百页技术规范并指定承包商从零编码制造，周期漫长且脱离实际用户；COTS 直接采购商业市场上经过用户实战检验的现成方案。
-> - 不等于双重用途技术（[[Dual-Use Technology|Dual-Use Technology]]）构想本身 — 双重用途强调技术在军事与民用层面的潜在功能兼顾，而 COTS 强调具体的商业采购机制与现货采纳原则。
+> - 不等于双重用途技术（[[Dual-Use Technology]]）构想本身 — 双重用途强调技术在军事与民用层面的潜在功能兼顾，而 COTS 强调具体的商业采购机制与现货采纳原则。
 
 ---
 

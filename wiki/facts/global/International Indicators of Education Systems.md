@@ -16,9 +16,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 31
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 42
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
 tags:
   - fact/program
@@ -37,14 +37,23 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[New Public Management]]"
   - "[[School Autonomy]]"
+  - "[[Science and Technology Studies]]"
   - "[[Commensuration]]"
+  - "[[Performativity]]"
   - "[[Reflexivity]]"
+  - "[[Comparative Turn in Education Policy]]"
   - "[[Knowledge Production]]"
   - "[[Ecological Fallacy]]"
   - "[[Performance Pay]]"
   - "[[Progressive Education]]"
-  - "[[Performativity]]"
+  - "[[Innovation Hub]]"
+  - "[[Reliability]]"
+  - "[[Variable]]"
+  - "[[Construct]]"
+  - "[[Paradigm]]"
   - "[[Global Education Governing Complex]]"
+  - "[[Educational Multilateralism]]"
+  - "[[Test Production]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -56,8 +65,10 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Education at a Glance]]"
   - "[[PISA]]"
+  - "[[United States Department of Education]]"
   - "[[A Nation at Risk 1983]]"
   - "[[EU]]"
+  - "[[European Commission]]"
   - "[[Teaching and Learning International Survey]]"
   - "[[IEA]]"
 related_arguments:

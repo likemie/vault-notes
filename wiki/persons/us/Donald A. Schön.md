@@ -9,10 +9,10 @@ summary: "美国哲学家与组织学习学者，反思性实践理论奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 39
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 40
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1930"
 died: "1997"
 lifespan: "1930–1997"
@@ -66,6 +66,7 @@ related_persons:
   - "[[Herbert A. Simon]]"
 related_facts:
   - "[[Research in Schools Evaluation]]"
+  - "[[Department of Commerce]]"
 related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Nielsen_2021_IRTP]]"

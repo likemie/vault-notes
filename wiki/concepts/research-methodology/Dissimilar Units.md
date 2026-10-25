@@ -50,13 +50,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] Dissimilar Units
-> 非同质单位困境（Dissimilar Units Constraint）是比较社会科学与比较教育学中的核心方法论命题与[[Epistemology|认识论]]限制，由社会学家[[Neil Smelser|尼尔·斯梅尔塞]]（Neil Smelser, 1976）系统阐发并由[[Val D. Rust|瓦尔·拉斯特]]（[[Val D. Rust|Val D. Rust]]）等人引入比较教育学。该命题指出，比较研究最根本的复杂性在于其[[Unit of Analysis|分析单位]]（通常为不同民族国家的教育体系或文化子系统）植根于根本异质的宏观历史、政治、经济与文化土壤中。名义上看似相同的制度指标、政策法令或[[Academic Achievement|学业表现]]，在不同的社会结构中承担着迥异的社会功能与价值意涵，因此不可脱离自然情境进行去语境化的机械测量或等值替换。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–129)]]
+> 非同质单位困境（Dissimilar Units Constraint）是比较社会科学与比较教育学中的核心方法论命题与[[Epistemology|认识论]]限制，由社会学家[[Neil Smelser|尼尔·斯梅尔塞]]（Neil Smelser, 1976）系统阐发并由[[Val D. Rust|瓦尔·拉斯特]]（[[Val D. Rust]]）等人引入比较教育学。该命题指出，比较研究最根本的复杂性在于其[[Unit of Analysis|分析单位]]（通常为不同民族国家的教育体系或文化子系统）植根于根本异质的宏观历史、政治、经济与文化土壤中。名义上看似相同的制度指标、政策法令或[[Academic Achievement|学业表现]]，在不同的社会结构中承担着迥异的社会功能与价值意涵，因此不可脱离自然情境进行去语境化的机械测量或等值替换。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 128–129)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向跨国跨文化比较研究中，分析单位之间由于内在制度生态与意义系统的[[Heterogeneity|异质性]]所导致的不可机械公度性。

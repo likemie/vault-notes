@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -188,7 +188,7 @@ updated: 2026-10-22
 > > [!axis] 归纳经验并列 vs 演绎[[Problem Approach\|问题法]]与科学假说检验
 > > 围绕比较教育学应当坚持经验事实归纳还是走向演绎假说检验的深刻论战。[[Brian Holmes\|布莱恩·霍姆斯]]批评贝雷迪的四步法本质上是“假说-归纳主义”（hypothetico-inductive），精心搜集的数据受制于研究者未经检视的直觉与前见，且无法推导出跨越不同社会情境的普遍法则；而哥大后继学者诺亚与埃克斯坦则主张彻底清洗主观叙述，以大[[Sample Size Determination\|样本量]]化统计与[[Independent Variable\|自变量]]/[[Dependent Variable\|因变量]]经验检验替代四步描述。
 > >
-> > - **[[Brian Holmes\|Brian Holmes]]（1965, 1981）** 指责四步归纳法忽视了概念[[Operationalization\|操作化]]背后的价值与意识形态预设，主张采用以[[John Dewey\|杜威]][[Reflective Thinking\|反思性思维]]与波普尔[[Critical Dualism\|批判二元论]]为基础的演绎问题法。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 66–67)]]
+> > - **[[Brian Holmes]]（1965, 1981）** 指责四步归纳法忽视了概念[[Operationalization\|操作化]]背后的价值与意识形态预设，主张采用以[[John Dewey\|杜威]][[Reflective Thinking\|反思性思维]]与波普尔[[Critical Dualism\|批判二元论]]为基础的演绎问题法。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 66–67)]]
 > > - **Harold Noah and Max Eckstein（1969）** 主张将比较教育带入经验社会科学，强调通过[[Variable\|变量]]操作化与协变分析克服研究偏见与任意性。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 65–66)]]
 >
 > > [!axis] 学科合法化叙事与深层历史评传的缺位

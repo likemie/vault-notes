@@ -45,6 +45,7 @@ related_methods:
   - "[[Comparative Policy Analysis]]"
   - "[[In-depth Interview]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Experimental Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -54,6 +55,8 @@ related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
+  - "[[Cabinet Office]]"
+  - "[[HM Treasury]]"
   - "[[MDRC]]"
 related_arguments: []
 sources:
@@ -68,7 +71,7 @@ title: "Argument_Legrand_2012_PolStud"
 argument_key: "Argument_Legrand_2012_PolStud"
 argument_display_title: "Overseas and over here: policy transfer and evidence-based policy-making"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"

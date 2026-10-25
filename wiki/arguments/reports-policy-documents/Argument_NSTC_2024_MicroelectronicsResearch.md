@@ -58,6 +58,7 @@ related_facts:
   - "[[National Strategy on Microelectronics Research]]"
   - "[[National Science and Technology Council]]"
   - "[[Subcommittee on Microelectronics Leadership]]"
+  - "[[Department of Commerce]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
   - "[[Microelectronics Commons]]"
@@ -67,6 +68,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[CHIPS and Science Act]]"
   - "[[Department of Energy]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[Next-Generation Microsystems Manufacturing]]"
   - "[[NSF I-Corps]]"
   - "[[Materials Genome Initiative]]"
@@ -96,9 +98,9 @@ title: "Argument_NSTC_2024_MicroelectronicsResearch"
 argument_key: "Argument_NSTC_2024_MicroelectronicsResearch"
 argument_display_title: "National strategy on microelectronics research (as amended April 2025)"
 argument_kind: "report"
-argument_related_count: 58
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 60
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 issuing_organization: "[[Subcommittee on Microelectronics Leadership]], [[National Science and Technology Council]]"
 publication_place: "Washington, D.C."

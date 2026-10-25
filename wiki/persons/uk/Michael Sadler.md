@@ -8,7 +8,7 @@ summary: "英国比较教育先驱与历史主义学派代表人物，主持教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 60
+person_related_count: 61
 person_related_level: 6
 person_related_stars: "💎💎"
 person_related_color: "#fef3c7"
@@ -72,6 +72,7 @@ related_persons:
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
 related_facts:
+  - "[[Department for Education]]"
   - "[[Office of Special Inquiries and Reports]]"
   - "[[OECD]]"
 related_arguments:

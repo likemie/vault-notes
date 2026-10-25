@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -98,7 +98,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 圣人与相近德性及治理原型的辨析
-> | 维度 | 儒家圣人（Sage） | 儒家君子（[[Junzi\|Junzi]]） | [[Plato\|柏拉图]]哲学王（Philosopher King） | 现代专业技术官僚（Technocrat） |
+> | 维度 | 儒家圣人（Sage） | 儒家君子（[[Junzi]]） | [[Plato\|柏拉图]]哲学王（Philosopher King） | 现代专业技术官僚（Technocrat） |
 > |:---|:---|:---|:---|:---|
 > | **德性境界** | 仁德圆满、通达天理、视天下为一体 | 自觉[[Self-Cultivation\|修身]]、克己复礼、道德自律 | 洞悉理念世界、掌握绝对理性与正义 | 具备专业[[Technical Rationality\|技术理性]]、中立执行规章 |
 > | **实践路径** | 格物致知、诚意正心、修齐治平 | 遵从礼法、慎独修身、弘道立身 | 严苛辩证法训练与城邦哲学统治 | 现代科层分工、数据分析与量化治理 |
@@ -135,7 +135,7 @@ updated: 2026-10-22
 > [!concept-lens] 儒家德性伦理与学习层级维度
 > 阐明圣人在儒家人格进阶（士 → [[Junzi|君子]] → 圣人）中的顶端位置，以及其超越血缘差序的普世关怀内核。
 
-> [!claim] [[Confucius|Confucius]], [[Mencius|Mencius]], & [[Jin Li|Li, J.]]
+> [!claim] [[Confucius]], [[Mencius]], & [[Jin Li|Li, J.]]
 > **德性最高阶梯与普世[[Benevolence|仁爱]]断言** 李瑾指出，在儒家传统的人格光谱中，“士”是初入德性之门的学徒，“[[Junzi|君子]]”是在日常生活中自发实践道德的模范，而“圣人”则是连孔子本人都自谦未能达到的终极境界；圣人的核心特质在于突破个体的家庭与宗族界限，将同理心与仁爱无差别地推及整个人类社会，成为历代学者矢志追求的精神灯塔。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–44)]]
 
 ---
@@ -145,7 +145,7 @@ updated: 2026-10-22
 > [!concept-lens] [[Neo-Confucianism|新儒家]][[Epistemology|认识论]]与成德工夫维度
 > 探讨程朱理学与陆王心学如何通过认识论变革，打破圣人的贵族与学问垄断，确立普遍成圣的实践路径。
 
-> [!claim] [[Cheng Brothers|Cheng Brothers]], [[Zhu Xi|Zhu, X.]], [[Wang Yangming|Wang, Y.]], & [[Jin Li|Li, J.]]
+> [!claim] [[Cheng Brothers]], [[Zhu Xi|Zhu, X.]], [[Wang Yangming|Wang, Y.]], & [[Jin Li|Li, J.]]
 > **平民化成圣路径与知行合一断言** 李瑾系统梳理宋明理学的转向指出：[[Cheng Brothers|二程]]将修养目标直接从君子提升为圣人，确立“格物致知”以“穷理”的路径；[[Zhu Xi|朱熹]]整合《大学》[[The Great Learning|八条目]]，将成圣确立为所有人天赋均等、无人没有资格的自我完善责任；[[Wang Yangming|王阳明]]进一步倡导“致良知”与“知行合一”，打破了书本学术造诣与社会阶层的壁垒，宣布凡夫俗子只要在事上磨练、扩充本心良知即可成圣，彻底实现了圣人概念的平民化与普及化。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 44–47)]]
 
 ---

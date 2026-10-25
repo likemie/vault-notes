@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -31,6 +31,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Every Student Succeeds Act]]"
+  - "[[United States Department of Education]]"
   - "[[Institute of Education Sciences]]"
   - "[[What Works Clearinghouse]]"
 related_arguments:

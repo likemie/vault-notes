@@ -10,7 +10,7 @@ subtype: organization
 region: brazil
 fact_region: "brazil"
 fact_kind: "organization"
-fact_related_count: 0
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -22,13 +22,20 @@ tags:
   - theme/student-assessment
   - theme/accountability
   - policy/higher-education
-related_concepts: []
+related_concepts:
+  - "[[Academic Achievement]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Learning Gain]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
-related_facts: []
-related_arguments: []
+related_persons:
+  - "[[Thomas D. Seeley]]"
+related_facts:
+  - "[[Exame Nacional de Desempenho dos Estudantes]]"
+  - "[[OECD]]"
+related_arguments:
+  - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: low
 status: draft
 created: 2026-10-26

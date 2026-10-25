@@ -24,21 +24,21 @@ tags:
   - theme/engineering-mindset
 related_concepts:
   - "[[Externalization]]"
-  - "[[Epistemology]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Engineering Mindset]]"
+  - "[[Technological Republic]]"
   - "[[Positivism]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Creativity]]"
-  - "[[Pragmatic Paradigm]]"
-  - "[[Technological Republic]]"
+  - "[[Epistemology]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Thomas Carlyle]]"
+  - "[[John Dewey]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
-  - "[[John Dewey]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"

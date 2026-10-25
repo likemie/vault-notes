@@ -9,10 +9,10 @@ aliases:
 summary: "指学生通过亲自动手实验、野外考察和真实科学问题探究，体验知识生成过程、发展实证思维并加深对科学本质理解的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/instruction-pedagogy
   - theme/stem-education
@@ -29,11 +29,12 @@ related_facts:
   - "[[CREST Awards]]"
   - "[[Institute for Research in Schools]]"
   - "[[UK Science Education Tracker]]"
-related_methods: []
+related_methods:
+  - "[[Experimental Research]]"
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

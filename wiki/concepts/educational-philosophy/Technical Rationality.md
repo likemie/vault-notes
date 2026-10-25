@@ -161,7 +161,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -202,7 +202,7 @@ updated: 2026-10-23
 ---
 
 > [!contrast-table] 技术理性 vs. [[Reflexivity\|反思性]]实践 vs. [[Phronesis\|实践智慧]] vs. 全人教化
-> | 维度 | 技术理性（Technical Rationality） | [[Reflexivity\|反思性实践]]（Reflective Practice） | 实践智慧（[[Phronesis\|Phronesis]]） | 古典全人教化（[[Bildung\|Paideia]]） |
+> | 维度 | 技术理性（Technical Rationality） | [[Reflexivity\|反思性实践]]（Reflective Practice） | 实践智慧（[[Phronesis]]） | 古典全人教化（[[Bildung\|Paideia]]） |
 > |---|---|---|---|---|
 > | **[[Epistemology\|认识论]]基础** | [[Positivism\|实证主义]]科学观；普遍因果律 | [[Pragmatic Paradigm\|实用主义]]；情境中的行动科学 | [[Aristotle\|亚里士多德]]伦理学；情境审议 | 广义[[Geisteswissenschaften\|人文科学]]（*Wissenschaft*）；文明思想史 |
 > | **实践者角色** | 技术员与执行者（应用外部处方） | 探究者与情境重构者（行动中反思） | 伦理行动主体（权衡育人价值之善） | 自由民主公民与受过教育的人（*Anthropos*） |

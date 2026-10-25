@@ -10,7 +10,7 @@ aliases:
 summary: "指个体在面对复杂问题时自发、持续运用批判性思维的内在动力、态度倾向与心智习性，与认知技能构成双元支柱；不仅包括求真、开放与审慎，还要求抵御平庸合群与脆弱性文化，具备直面认知不适的心理韧性与推翻既有理论的实验求实精神。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 33
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -34,8 +34,9 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Problem Finding]]"
   - "[[Paradigm]]"
-  - "[[Publication Bias]]"
+  - "[[Heterogeneity]]"
   - "[[Dialogue in Education]]"
+  - "[[Publication Bias]]"
   - "[[Creativity]]"
 related_theories:
   - "[[APA Delphi Consensus on Critical Thinking]]"
@@ -44,9 +45,6 @@ related_theories:
 related_methods:
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
-  - "[[True Experimental Design]]"
-  - "[[Quasi-Experimental Designs]]"
 related_instruments:
   - "[[California Critical Thinking Disposition Inventory]]"
 related_persons:
@@ -63,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

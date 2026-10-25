@@ -8,7 +8,7 @@ summary: "美国著名国际关系理论家、新自由制度主义奠基人之�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,11 +35,13 @@ related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[AidData]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
   - "[[Argument_Custer_2021_AidData]]"
   - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
 confidence: high
 status: draft
 created: 2026-10-08

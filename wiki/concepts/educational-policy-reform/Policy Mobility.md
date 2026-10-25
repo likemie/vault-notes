@@ -41,7 +41,7 @@ related_concepts:
   - "[[Policy Ambassador]]"
   - "[[Representational Knowledge]]"
   - "[[Conditional Cash Transfers]]"
-  - "[[Educational Brokerage Agency]]"
+  - "[[Boundary Spanner]]"
   - "[[Evidence Standards]]"
   - "[[Return on Investment]]"
   - "[[Public-Private Partnership]]"
@@ -207,7 +207,7 @@ updated: 2026-10-26
 > **网络在耐用材料中的固化机制** 异质行动者网络如果仅依赖转瞬即逝的人际话语或行政倡议，将极易瓦解溃散；唯有将关系网络刻写、固化并具身于无生命客体与耐用材料之中（如建筑、围栏、法定表格与技术工具），网络才能维系跨越时空的恒常形状，实现远距离治理（Law, 1992；Law & Singleton, 2005）。
 
 > [!claim] Rowe, E.
-> **国家[[Boundary Spanner|证据经纪人]]的无生命装配实践** 澳大利亚从英国引进证据中介模型的政策流动过程，绝非口头理念的宣传，而是高度依赖策略性的无生命客体装配。通过调取 17 份商业与监管档案证实，推动该政策落地的核心步骤包括：依《2001年公司法》将中介机构注册为担保有限公司、在《2013年公共治理、绩效与问责法》配套规程中悄然加入特许与[[Venture Philanthropy\|风险慈善]]合作的条款、以及将因果[[Evidence Standards\|证据标准]]化为评价量规。这些无生命材料犹如防野狗围栏，既隔绝了公众对私有化实质的审视，又确保了跨国政策模型在本土制度环境中的刚性运作。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 5, 10]]
+> **国家[[Boundary Spanner|证据经纪人]]的无生命装配实践** 澳大利亚从英国引进证据中介模型的政策流动过程高度依赖策略性的无生命客体装配，超越单纯口头理念的宣传。通过调取 17 份商业与监管档案证实，推动该政策落地的核心步骤包括：依《2001年公司法》将中介机构注册为担保有限公司、在《2013年公共治理、绩效与问责法》配套规程中悄然加入特许与[[Venture Philanthropy\|风险慈善]]合作的条款、以及将因果[[Evidence Standards\|证据标准]]化为评价量规。这些无生命材料犹如防野狗围栏，既隔绝了公众对私有化实质的审视，又确保了跨国政策模型在本土制度环境中的刚性运作。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 5, 10]]
 
 ---
 

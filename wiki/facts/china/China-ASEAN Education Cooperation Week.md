@@ -10,7 +10,7 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -25,17 +25,16 @@ tags:
   - region/southeast-asia
   - level/international
 related_concepts:
-  - "[[Educational Diplomacy]]"
-  - "[[Internationalization of Vocational Education]]"
-  - "[[Education Going Global]]"
   - "[[People-to-People Connectivity]]"
-  - "[[Soft Power]]"
+  - "[[Strategic Partnership]]"
+  - "[[New Quality Productive Forces]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[ASEAN]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Belt and Road Initiative]]"
   - "[[Luban Workshop]]"
 related_arguments:

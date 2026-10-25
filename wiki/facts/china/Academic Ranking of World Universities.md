@@ -11,7 +11,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 35
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -48,11 +48,14 @@ related_persons:
   - "[[José Luis García Garrido]]"
   - "[[Pierre Bourdieu]]"
 related_facts:
+  - "[[Project 985]]"
   - "[[Times Higher Education World University Rankings]]"
   - "[[National Research Council]]"
   - "[[Bologna Process]]"
+  - "[[Double First-Class Initiative]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
+  - "[[Ministry of Education, Culture, Sports, Science and Technology]]"
   - "[[CNRS]]"
   - "[[OECD]]"
   - "[[OECD AHELO Project]]"

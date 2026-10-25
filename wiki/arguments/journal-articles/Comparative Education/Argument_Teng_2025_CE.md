@@ -71,7 +71,7 @@ sources:
 part_of:
 status: draft
 created: 2026-05-26
-updated: 2026-10-23
+updated: 2026-10-26
 year: 2025
 doi: "10.1080/03050068.2024.2398342"
 citation_aliases:
@@ -98,7 +98,7 @@ source_language: en
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **布迪厄的资本理论**<br>[[Pierre Bourdieu\|Pierre Bourdieu]] | 借助经济资本（家庭年收入、陪读房租与生活成本、课外补习投入）、[[Cultural Capital\|文化资本]]（包括父母学历与教育观念）以及社会资本（教职工与政府公职人员关系网络）来量化并定性展示农村家庭进城择校的资本转换与阶层筛选。 |
+> | **布迪厄的资本理论**<br>[[Pierre Bourdieu]] | 借助经济资本（家庭年收入、陪读房租与生活成本、课外补习投入）、[[Cultural Capital\|文化资本]]（包括父母学历与教育观念）以及社会资本（教职工与政府公职人员关系网络）来量化并定性展示农村家庭进城择校的资本转换与阶层筛选。 |
 > | **择校作为社会分层实践**<br>[[School Choice\|School Choice as Social Stratification]] | 择校并非[[Value Neutrality\|价值中立]]（Value Neutrality）的选择游戏，而是沿着社会阶层界限进行的分层竞争。拥有资本优势的阶级往往借助教育选择实现代际传递与优势再生产，而弱势阶层则常因资本匮乏被锁死在薄弱学校。 |
 > | **撤点并校与教育城镇化**<br>[[Rural School Consolidation\|Educational Urbanisation]] | 地方政府通过撤销农村村小（推力）与扩建城镇标准化学校（拉力）的交互运作，将教育作为推动城镇人口吸纳和繁荣城镇地产与经济的政策工具，从而构成择校的核心政策背景。 |
 
@@ -110,9 +110,9 @@ source_language: en
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **混合方法研究**<br>[[Mixed Methods Research\|Mixed Methods Research]] | 结合问卷调查、半结构化[[Qualitative Interview\|深度访谈]]（Qualitative Interview）以及学校档案与政府统计数据。于 2018 年首次进行深入实地调研，并于 2023 年进行追踪回访。 |
+> | **混合方法研究**<br>[[Mixed Methods Research]] | 结合问卷调查、半结构化[[Qualitative Interview\|深度访谈]]（Qualitative Interview）以及学校档案与政府统计数据。于 2018 年首次进行深入实地调研，并于 2023 年进行追踪回访。 |
 > | **[[Questionnaire\|问卷调查]]（Questionnaire Survey）** | 面向选定小学的农村家庭发放并回收有效问卷共 814 份，用以收集家庭社会经济地位（Socio-Economic Status）、年收入、居住与[[Peidu\|陪读]]开支、课外辅导投入及社会联系特征等定量指标。 |
-> | **深度访谈**<br>[[Qualitative Interview\|Qualitative Interview]] | 采用[[Snowball Sampling\|雪球抽样]]（Snowball Sampling），对 128 名家庭成员以及 95 名城乡教师与校长、8 名当地教育局官员进行多主体半结构化深度访谈。 |
+> | **深度访谈**<br>[[Qualitative Interview]] | 采用[[Snowball Sampling\|雪球抽样]]（Snowball Sampling），对 128 名家庭成员以及 95 名城乡教师与校长、8 名当地教育局官员进行多主体半结构化深度访谈。 |
 > | **统计分析** | 采用独立样本t检验比较不同居住组别（县城陪读、乡镇陪读、农村非陪读）及学校类型（重点学校与普通公立学校）的家庭综合社会经济地位差异；建立三个[[Binary Logistic Regression\|二元逻辑回归]]（Binary Logistic Regression）模型，分析经济资本、[[Cultural Capital\|文化资本]]及社会资本对于是否陪读、是否进城陪读以及是否进入重点小学的第一预测力。 |
 
 > [!sample-panel]- 样本与材料快照 (含原始研究参与人分布表)

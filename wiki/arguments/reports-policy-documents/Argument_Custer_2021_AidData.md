@@ -7,9 +7,9 @@ title: "Argument_Custer_2021_AidData"
 argument_key: "Argument_Custer_2021_AidData"
 argument_display_title: "Corridors of Power: How Beijing uses economic, social, and network ties to exert influence along the Silk Road"
 argument_kind: "report"
-argument_related_count: 22
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 39
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dcfce7"
 authors:
   - "[[Samantha Custer|Custer, S.]]"
@@ -48,19 +48,33 @@ sources:
 related_concepts:
   - "[[Soft Power]]"
   - "[[Public Diplomacy]]"
-  - "[[Pragmatic Paradigm]]"
-  - "[[Student Mobility]]"
+  - "[[Educational Diplomacy]]"
+  - "[[Corridors of Power]]"
+  - "[[Subnational Public Diplomacy Strategies]]"
+  - "[[Paradigm]]"
+  - "[[Power Conversion Dilemma]]"
   - "[[Geopolitics]]"
+  - "[[Language Income Premium]]"
+  - "[[Foreign Languages]]"
+  - "[[Student Mobility]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
+  - "[[Educational Assistance Modalities]]"
+  - "[[English-Medium Instruction in Higher Education]]"
+  - "[[Engineering Education]]"
   - "[[Heterogeneity]]"
-  - "[[Homework]]"
+  - "[[Discourse]]"
+  - "[[Sage]]"
   - "[[Century of Humiliation]]"
+  - "[[Study Abroad]]"
   - "[[Education Going Global]]"
 related_methods:
+  - "[[Analytic Framework]]"
+  - "[[Cluster Analysis]]"
+  - "[[Tracking Underreported Financial Flows]]"
   - "[[Questionnaire]]"
-  - "[[Sensitive Questions]]"
+  - "[[Network Analysis]]"
 related_persons:
   - "[[Confucius]]"
   - "[[Joseph S. Nye Jr.]]"
@@ -68,8 +82,11 @@ related_facts:
   - "[[Luban Workshop]]"
   - "[[Confucius Institute]]"
   - "[[AidData]]"
+  - "[[American Spaces]]"
+  - "[[Indian Council for Cultural Relations]]"
   - "[[Belt and Road Initiative]]"
   - "[[Belt and Road Education Action Plan]]"
+  - "[[Silk Road Scholarship]]"
   - "[[China-Pakistan Economic Corridor]]"
 status: draft
 created: 2026-10-22

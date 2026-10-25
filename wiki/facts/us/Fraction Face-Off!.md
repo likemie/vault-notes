@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -44,6 +44,7 @@ related_persons:
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Every Student Succeeds Act]]"
+  - "[[United States Department of Education]]"
   - "[[What Works Clearinghouse]]"
   - "[[Evidence for ESSA]]"
   - "[[Catch Up Numeracy]]"

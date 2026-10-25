@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -151,7 +151,7 @@ updated: 2026-10-23
 > > 争论焦点在于直接引入源自英国的因果工具箱是否会助长新自由主义下的[[Positivism|实证主义]][[Technical Rationality|技术理性]]。
 > >
 > > - **批评视角（[[Critical Pedagogy|批判教育学]]者）** 质疑将英国 EEF 的实证主义[[Effect Size|效应量]]指标直接移植至贫富差距悬殊、基础设施严重匮乏的拉美学校，存在将复杂的结构性社会不平等降维为单纯“课堂干预技巧”的风险，可能加剧“技术治理迷信”。
-> > - **机构立场（SUMMA 与合作学者）** 强调工具包经过深度语境本土化（[[Going Native|Going Native]]），且配套设立 EDU-LAC 基金专攻本土 [[Randomised Controlled Trials|RCT]] 试验，其根本目的在于运用科学实证保护弱势学生免受无根据的政治拍板与无效商业教育软件侵害。
+> > - **机构立场（SUMMA 与合作学者）** 强调工具包经过深度语境本土化（[[Going Native]]），且配套设立 EDU-LAC 基金专攻本土 [[Randomised Controlled Trials|RCT]] 试验，其根本目的在于运用科学实证保护弱势学生免受无根据的政治拍板与无效商业教育软件侵害。
 >
 > > [!axis] 矿业跨国资本注资与[[Venture Philanthropy|风险慈善]]异层治理
 > > 审视[[BHP Foundation|必和必拓基金会]]（BHP Foundation）巨额资助对拉美公共教育研究自主性的潜在影响。

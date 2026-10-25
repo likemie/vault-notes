@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 92
+method_related_count: 93
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
@@ -101,6 +101,7 @@ related_arguments:
   - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Liu_2025_IndHE]]"
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
@@ -117,7 +118,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

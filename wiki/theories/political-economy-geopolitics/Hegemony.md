@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-13
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 （霸权理论 / 文化霸权）
@@ -123,7 +123,7 @@ updated: 2026-10-22
 > | 文化部门半自主性（[[Semi-Autonomy of Higher Education\|Semi-Autonomy]]） | 结构特征 | 科学、教育与大学相对于政治经济保持部分自主，这种自主性使其比粗暴宣传更能赢得可信共识。 |
 > | 有机知识分子（Organic Intellectuals） | 行动主体 | 代表特定阶级利益、在市民社会中生产与传播正当化意识形态的知识阶层，与传统知识分子相对。 |
 > | [[Official Knowledge\|官方知识]]与空间等级 | 符号装置 | 国家通过教科书与课程设置将支配群体文化自然化为国族共识，并将多元文化编排为中心—边缘等级。 |
-> | 霸权性社会想象（Hegemonic [[Social Imaginary\|Social Imaginary]]） | 超国家治理装置 | 跨国组织将[[Knowledge-Based Economy\|知识经济]]与市场规则建构为[[Doxa\|自明真理]]，剥夺公众构想替代性发展道路的能力。 |
+> | 霸权性社会想象（Hegemonic [[Social Imaginary]]） | 超国家治理装置 | 跨国组织将[[Knowledge-Based Economy\|知识经济]]与市场规则建构为[[Doxa\|自明真理]]，剥夺公众构想替代性发展道路的能力。 |
 > | 反霸权（Counter-Hegemony） | 抵抗机制 | 边缘群体立足自身经验直觉、母语与多元信仰，对支配性文化常识进行的批判反思与解构。 |
 > | 算法文化霸权（Algorithmic Hegemony） | 智能时代机制 | 生成式模型固化主流语言与精英学科[[Paradigm\|范式]]，通过机构平台强制绑定再生产文化特权并压制边缘声音。 |
 

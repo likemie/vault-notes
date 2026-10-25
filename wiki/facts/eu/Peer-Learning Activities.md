@@ -11,7 +11,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -42,8 +42,10 @@ related_persons:
 related_facts:
   - "[[EU]]"
   - "[[Lisbon Strategy]]"
+  - "[[European Commission]]"
   - "[[PISA]]"
   - "[[ROOTS]]"
+  - "[[Finnish PISA Miracle]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"

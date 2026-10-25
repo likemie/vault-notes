@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -136,7 +136,7 @@ updated: 2026-10-22
 > [!concept-lens] 哲学本体与公民政治维度
 > 该命题探讨古希腊教化如何超越近代[[Pragmatic Paradigm\|实用主义]]技能分工，将教育定位于塑造具有城邦公共奉献精神的整全人。
 
-> [!claim] [[Plato\|Plato]]
+> [!claim] [[Plato]]
 > **灵魂转向作为教化的最高本体** 柏拉图在《理想国》第七卷中指出，教化并非像某些智者所宣称的那样将知识硬塞进空无一物的灵魂，而是让整个灵魂伴随着视线发生根本性的转向（*periagoge*），从变动不居的感官生灭之物转向对真实存在与至善之光（*to agathon*）的智性观照。唯有经历这种深层心智洗礼的哲人，才具备为城邦执政的公义品格。
 
 > [!claim] Mattheou, D.

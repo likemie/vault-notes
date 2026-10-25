@@ -899,7 +899,7 @@ def is_source_section_heading(heading: str) -> bool:
     return title in SOURCE_SECTION_NAMES
 
 
-def split_protected_spans(text: str, protect_wikilinks: bool = True) -> list[tuple[bool, str]]:
+def split_protected_spans(text: str, protect_wikilinks: bool = True, current_title: str = "") -> list[tuple[bool, str]]:
     """
     Split section text into (protected, chunk).
 
@@ -963,6 +963,14 @@ def split_protected_spans(text: str, protect_wikilinks: bool = True) -> list[tup
             marker_start = start + (len(line) - len(stripped)) + marker.start()
             marker_end = start + (len(line) - len(stripped)) + marker.end()
             add(marker_start, marker_end)
+            # A main-definition title that is the entry name itself must stay
+            # verbatim (vault_lint DEF_TITLE): with the current title excluded,
+            # sub-terms such as "Case Study" in "Comparative Case Study" would
+            # otherwise be linked inside it.
+            if current_title:
+                dm = re.match(r"^(?:>\s*)+\[!def\][+-]?\s*(.*?)\s*$", stripped, re.IGNORECASE)
+                if dm and dm.group(1).casefold() == current_title.casefold():
+                    add(start, end)
         # Quote callouts and generated MetaX modules ([!metax], [!metax-ma],
         # [!metax-errata]) are never linked; metax_sync.py writes their links.
         if re.match(r"^>\s*\[!(?:quote|metax[\w-]*|eef[\w-]*)(?:\|[^\]]*)?\]", stripped, re.IGNORECASE):
@@ -1397,15 +1405,33 @@ def link_yaml_organization_value(value: str, org_map: dict[str, str]) -> tuple[s
     raw = value.strip()
     if not raw or raw in {"[]", "null", "~", '""', "''"}:
         return value, 0
-    if "[[" in raw:
-        return value, 0
-    if " #" in raw or raw.startswith(("{", "[", "|", ">")):
+    if " #" in raw or raw.startswith(("{", "|", ">")) or (raw.startswith("[") and not raw.startswith("[[")):
         return value, 0
     display = strip_yaml_scalar(raw)
-    parts = org_registry.resolve(display, org_map)
+    if "[[" in display:
+        # Partly linked already: link only the plain-text stretches between links.
+        chunks = re.split(r"(\[\[[^\]]*\]\])", display)
+        count = 0
+        for i in range(0, len(chunks), 2):
+            if chunks[i].strip(" ,，、;；&/"):
+                linked_chunk, n = _link_organization_text(chunks[i], org_map)
+                chunks[i] = linked_chunk
+                count += n
+        return (yaml_quote("".join(chunks)), count) if count else (value, 0)
+    linked_text, count = _link_organization_text(display, org_map)
+    return (yaml_quote(linked_text), count) if count else (value, 0)
+
+
+def _link_organization_text(display: str, org_map: dict[str, str]) -> tuple[str, int]:
+    lead_ws = display[: len(display) - len(display.lstrip())]
+    trail_ws = display[len(display.rstrip()):]
+    core = display.strip()
+    if not core:
+        return display, 0
+    parts = org_registry.resolve(core, org_map)
     count = sum(1 for _, target, _ in parts if target)
     if not count:
-        return value, 0
+        return display, 0
     out: list[str] = []
     for piece, target, _is_sep in parts:
         if not target:
@@ -1414,7 +1440,7 @@ def link_yaml_organization_value(value: str, org_map: dict[str, str]) -> tuple[s
         lead = piece[: len(piece) - len(piece.lstrip())]
         trail = piece[len(piece.rstrip()):]
         out.append(lead + link_text(piece.strip(), target) + trail)
-    return yaml_quote("".join(out)), count
+    return lead_ws + "".join(out) + trail_ws, count
 
 
 def link_yaml_organization_fields(fm: str, org_map: dict[str, str], current_title: str = "") -> tuple[str, int]:
@@ -1642,7 +1668,7 @@ def link_section(
     term_matcher: TermMatcher | None = None,
 ) -> tuple[str, int]:
     additions = 0
-    chunks = split_protected_spans(section)
+    chunks = split_protected_spans(section, current_title=current_title)
     out: list[str] = []
 
     for protected, chunk in chunks:

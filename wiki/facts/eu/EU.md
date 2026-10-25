@@ -12,9 +12,9 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 28
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 36
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: supranational
 headquarters: "布鲁塞尔（比利时）"
@@ -38,9 +38,12 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Academic Attrition]]"
   - "[[Peer Pressure]]"
+  - "[[Policy Network]]"
   - "[[European Education Space]]"
+  - "[[Governing by Numbers]]"
   - "[[Performance Indicators]]"
   - "[[Champ]]"
+  - "[[Knowledge Mediation]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
 related_methods: []
@@ -49,12 +52,17 @@ related_persons:
   - "[[Jason Beech]]"
 related_facts:
   - "[[Bologna Process]]"
+  - "[[European Commission]]"
+  - "[[Eurydice]]"
   - "[[Erasmus Programme]]"
   - "[[Lisbon Strategy]]"
   - "[[OECD]]"
+  - "[[European Qualifications Framework]]"
+  - "[[European Standards and Guidelines]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[Evidence Network]]"
   - "[[Horizon Europe]]"
+  - "[[National Education]]"
   - "[[EU Skills Agenda]]"
 related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"

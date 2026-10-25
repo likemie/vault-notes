@@ -13,9 +13,9 @@ title: "Argument_UIDP_2012_PartnershipContinuum"
 argument_key: "Argument_UIDP_2012_PartnershipContinuum"
 argument_display_title: "The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement"
 argument_kind: "report"
-argument_related_count: 18
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 20
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
 issuing_organization: "[[University Industry Demonstration Partnership|University-Industry Demonstration Partnership (UIDP)]]"
 citation: "Southerton, J., Umberger, G., Matijasevic, G., Steele, S., & Johnson, W. (2012). The Partnership Continuum: Understanding & Developing the Pathways for Beneficial University-Industry Engagement. University-Industry Demonstration Partnership (UIDP)."
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Clinical Trial]]"
   - "[[Grandes Ecoles]]"
+  - "[[Distance Education]]"
   - "[[Executive Education]]"
   - "[[Workforce Development]]"
   - "[[Research Universities]]"
@@ -42,6 +43,7 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Conatus]]"
   - "[[Further Education]]"
+  - "[[Triangular Cooperation]]"
 related_theories: []
 related_methods: []
 related_persons: []

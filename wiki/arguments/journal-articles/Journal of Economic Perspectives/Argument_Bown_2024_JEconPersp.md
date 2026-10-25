@@ -33,11 +33,12 @@ related_concepts:
   - "[[Market Shaping and Creating]]"
   - "[[Fair Market Value]]"
   - "[[Assemblage]]"
+  - "[[Mobile Devices]]"
+  - "[[Technological Catch-up]]"
   - "[[Lean Production]]"
   - "[[Workforce Development]]"
   - "[[Knowledge Exchange]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Technological Catch-up]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -49,16 +50,19 @@ related_facts:
   - "[[European Chips Act]]"
   - "[[Bell Labs]]"
   - "[[Fairchild Semiconductor]]"
+  - "[[Department of Defense]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Ministry of International Trade and Industry]]"
   - "[[VLSI Project]]"
   - "[[1986 U.S.-Japan Semiconductor Trade Agreement]]"
+  - "[[Department of Commerce]]"
   - "[[Sematech]]"
   - "[[DARPA]]"
   - "[[Advanced Technology Program]]"
   - "[[China Integrated Circuit Industry Investment Fund]]"
   - "[[Sino-American Trade War]]"
   - "[[October 2022 US Semiconductor Export Controls]]"
+  - "[[United States Congress]]"
   - "[[EU]]"
 related_arguments: []
 sources:
@@ -73,7 +77,7 @@ title: "Argument_Bown_2024_JEconPersp"
 argument_key: "Argument_Bown_2024_JEconPersp"
 argument_display_title: "Semiconductors and modern industrial policy"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -190,7 +194,7 @@ issuing_organization: ""
 > [!policy-design] [[1986 U.S.-Japan Semiconductor Trade Agreement|1986年美日半导体贸易协定]]的核心机制与市场扭曲
 > - **[[Fair Market Value|公平市场价值]]（Fair Market Value, FMV）价格底线** 由[[Department of Commerce|美国商务部]]定期测算日本企业的生产成本并核定季度最低出口价格，严禁日本企业低于此价格在美销售或向第三方市场转口。
 > - **外国芯片市场准入指标** 设立非公开目标，要求日本政府督促国内企业增加采购，在 1991 年前使外国半导体在日本市场的份额提高到 20%。
-> - **产业共性技术联盟** 1987 年美国联邦政府与半导体企业联合成立 [[Sematech]] 半导体制造技术战略联盟，由美国国防部高级研究计划局（[[DARPA|Defense Advanced Research Projects Agency]], DARPA）提供匹配资金，资助制造设备前沿研发。
+> - **产业共性技术联盟** 1987 年美国联邦政府与半导体企业联合成立 [[Sematech]] 半导体制造技术战略联盟，由[[DARPA|美国国防部高级研究计划局]]（[[DARPA|Defense Advanced Research Projects Agency]], DARPA）提供匹配资金，资助制造设备前沿研发。
 > - **非预期市场扭曲与竞争者崛起** 价格底线与 MITI 的产量限制措施导致 1987 至 1988 年间全球 DRAM 出现严重供给短缺和价格飙升；这不仅让日本厂商获得了巨额超额利润用于补贴新制程开发，还大幅推高了美国下游计算机厂商的硬件采购成本；更具讽刺意味的是，人为维系的高昂价格为当时技术尚不成熟的韩国三星（Samsung）、现代电子（Hyundai）以及台湾代工企业提供了极为优渥的价格保护伞，间接促成了东亚其他经济体半导体制造业的迅速崛起。
 
 ---

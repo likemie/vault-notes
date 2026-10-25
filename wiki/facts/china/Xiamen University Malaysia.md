@@ -10,7 +10,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,20 +25,27 @@ tags:
   - international-branch-campus
   - educational-diplomacy
 related_concepts:
-  - "[[International Branch Campus]]"
-  - "[[Educational Diplomacy]]"
-  - "[[Soft Power]]"
   - "[[Research Universities]]"
+  - "[[Educational Diplomacy]]"
+  - "[[Innovation Hub]]"
+  - "[[Grandes Ecoles]]"
+  - "[[International Education]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[Student Mobility]]"
+  - "[[Public Diplomacy]]"
+  - "[[International Branch Campus]]"
+  - "[[Soft Power]]"
+  - "[[South-South Cooperation]]"
+  - "[[People-to-People Connectivity]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Ministry of Education of the People's Republic of China]]"
+  - "[[Double First-Class Initiative]]"
   - "[[ASEAN]]"
   - "[[Belt and Road Initiative]]"
-  - "[[Double First-Class Initiative]]"
+  - "[[Confucius Institute]]"
 related_arguments:
   - "[[Argument_Velasco_2022_CSJ]]"
 confidence: high

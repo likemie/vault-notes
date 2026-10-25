@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_instruments:
   - "[[Thinking Skills Assessment]]"
 related_persons: []
 related_facts:
+  - "[[Department for Education]]"
   - "[[Carter Review of Initial Teacher Training]]"
   - "[[Ofsted]]"
   - "[[Teaching Schools]]"

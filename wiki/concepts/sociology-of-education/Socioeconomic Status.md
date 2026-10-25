@@ -10,10 +10,10 @@ aliases:
 summary: "个体或家庭在社会结构中所处层级位置与资源占有状况的综合度量指标，在教育实证中是学业表现最强的解释变量，其在元分析中被剔除为调节变量引发了阶级盲教学思维批判"
 type: concept
 domain: "sociology-of-education"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 38
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - educational-sociology
   - inequality
@@ -53,8 +53,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Stratified Sampling]]"
-  - "[[Hierarchical Linear Model]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -71,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 （社会经济地位）

@@ -7,7 +7,7 @@ aliases:
 summary: "人类认知由独立的非言语视觉表象与言语符号双通道构成，图文协同表征能显著降低工作记忆负荷并强化长时记忆整合的认知学习理论"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 16
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_theories:
   - "[[Creative Problem Solving]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons:
   - "[[Richard E. Mayer]]"

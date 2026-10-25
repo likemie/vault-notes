@@ -55,6 +55,7 @@ related_facts:
   - "[[Whole Earth Catalog]]"
   - "[[Grammar School]]"
   - "[[Ofsted]]"
+  - "[[Department for Education]]"
   - "[[Sutton Trust]]"
   - "[[Baby PISA]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
@@ -72,7 +73,7 @@ title: "Argument_Grey_2018_CE"
 argument_key: "Argument_Grey_2018_CE"
 argument_display_title: "PISA: multiple ‘truths’ and mediatised global governance"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"

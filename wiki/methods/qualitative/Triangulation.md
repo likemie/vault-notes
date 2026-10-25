@@ -10,9 +10,9 @@ summary: "在研究人类行为的某一方面时使用两种或更多资料收�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 40
-method_related_level: 4
-method_related_stars: "💎⭐"
+method_related_count: 32
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -33,10 +33,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Reflexivity]]"
   - "[[Qualitative Validity]]"
-  - "[[Academic Self-Concept]]"
   - "[[Critical Thinking]]"
-  - "[[Virtual World]]"
-  - "[[Man-Computer Symbiosis]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
@@ -50,19 +47,14 @@ related_methods:
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Case Study]]"
   - "[[Questionnaire]]"
-  - "[[Transcription in Qualitative Research]]"
-  - "[[Multimodal Discourse Analysis]]"
-  - "[[Qualitative Observation]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19]]"
+  - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
-related_instruments:
-  - "[[Critical Thinking Strategies Scale]]"
-  - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
-  - "[[California Critical Thinking Disposition Inventory]]"
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
+related_instruments: []
 status: draft
 created: 2026-06-01
 updated: 2026-10-26

@@ -10,7 +10,7 @@ aliases:
 summary: "国家将少数垄断性社会伙伴（如雇主协会、全国性工会或大型专业协会）正式纳入政策制定与执行的制度化协商网络，在教育治理中表现为职业培训三方共治机制或行业协会闭门立法妥协"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -49,6 +49,7 @@ related_persons:
 related_facts:
   - "[[EU]]"
   - "[[YOUNG_ADULLLT]]"
+  - "[[United States Congress]]"
   - "[[International Reading Association]]"
   - "[[VSNU]]"
   - "[[HBO-Raad]]"
@@ -77,7 +78,7 @@ updated: 2026-10-26
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 菲利普·施密特（Philippe Schmitter, 1979）与格哈德·莱姆布鲁赫（Gerhard Lehmbruch, 1982）奠定现代新法团主义理论基础；达尔（Robert Dahl, 1985）在《经济民主的前景》中系统反思其民主合法性；基克特（[[Walter J. M. Kickert|Walter J. M. Kickert]], 1995）将其与公共[[Policy Network|政策网络]]理论融合解释高等教育结构改革；拉姆布拉（Xavier Rambla, 2022）将其引入[[EU|欧盟]][[Lifelong Learning|终身学习]]治理比较；埃德蒙森（Jacqueline Edmondson, 2005）将其用于剖析专业协会在联邦阅读立法中的政治博弈。
+> - **提出者与原始文本** 菲利普·施密特（Philippe Schmitter, 1979）与格哈德·莱姆布鲁赫（Gerhard Lehmbruch, 1982）奠定现代新法团主义理论基础；达尔（Robert Dahl, 1985）在《经济民主的前景》中系统反思其民主合法性；基克特（[[Walter J. M. Kickert]], 1995）将其与公共[[Policy Network|政策网络]]理论融合解释高等教育结构改革；拉姆布拉（Xavier Rambla, 2022）将其引入[[EU|欧盟]][[Lifelong Learning|终身学习]]治理比较；埃德蒙森（Jacqueline Edmondson, 2005）将其用于剖析专业协会在联邦阅读立法中的政治博弈。
 > - **原初问题** 为何现代国家在多元利益分化的压力下，并未走向彻底自由放任的多元博弈，而是倾向于与特定全国性组织结成特许伙伴；在教育领域，为何专业学会、大学峰会组织与工会经常与国家高层达成违背基层诉求或抵御市场侵蚀的制度妥协。
 > - **理论资源与材料** 欧洲社会民主党与工会/雇主协会的三方谈判历史档案、荷兰柱体化妥协与大学峰会组织重组协商档案、欧盟终身学习治理案例（[[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]）、以及[[United States Congress|美国国会]]立法中专业协会（如[[International Reading Association|国际阅读协会]] IRA）的幕后游说记录。
 > - **形成路径** 通过对比不同国家与政策场景中制度化伙伴网络的介入深度，提炼出法团主义在“政策缓冲”与“民主脱节”两极之间的张力机制。

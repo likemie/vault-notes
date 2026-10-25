@@ -10,9 +10,9 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 16
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 25
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "超国家教育信息与政策分析网络"
 headquarters: "比利时布鲁塞尔"
@@ -26,23 +26,32 @@ tags:
   - theme/evidence-based-education
 related_concepts:
   - "[[Heterogeneity]]"
+  - "[[Lifelong Learning]]"
   - "[[European Education Space]]"
   - "[[Open Method of Coordination]]"
-  - "[[Evidence-Based Education]]"
+  - "[[Research Utilization]]"
+  - "[[Performance Indicators]]"
+  - "[[International Education]]"
   - "[[Subsidiarity Principle]]"
   - "[[Governing by Numbers]]"
 related_theories: []
 related_methods:
   - "[[Secondary Analysis]]"
+  - "[[In-depth Interview]]"
 related_instruments: []
 related_persons:
   - "[[Sotiria Grek]]"
 related_facts:
   - "[[EU]]"
+  - "[[Erasmus Programme]]"
   - "[[Lisbon Strategy]]"
   - "[[OECD]]"
-  - "[[PISA]]"
   - "[[UOE Data Collection]]"
+  - "[[International Indicators of Education Systems]]"
+  - "[[European Commission]]"
+  - "[[Education in Europe]]"
+  - "[[PISA]]"
+  - "[[UNESCO]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"

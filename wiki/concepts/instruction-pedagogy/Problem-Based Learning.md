@@ -6,7 +6,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 63
+related_count: 60
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -51,8 +51,6 @@ related_concepts:
   - "[[Constructivist Instruction]]"
   - "[[Scaffolding]]"
   - "[[Variable]]"
-  - "[[Student Attitude]]"
-  - "[[Student Satisfaction]]"
   - "[[Problem Finding]]"
   - "[[Teacher Support for Students]]"
   - "[[Engineering Education]]"
@@ -67,7 +65,6 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Random-Effects Model]]"
   - "[[Inverse-Variance Weighting]]"
 related_persons:
@@ -88,7 +85,7 @@ related_instruments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Problem-Based Learning

@@ -9,7 +9,7 @@ aliases:
 summary: "围绕教育数据的去情境化抽取、算法通约折算与选择性再呈现而动态装配的社会-技术网络；是充斥算法选择性与即兴调配的实验性系统，深陷简化、通约、时效、公开与博弈五维张力，通过次级代表表象生产分布式治理权力。"
 type: concept
 domain: "sociology-of-education"
-related_count: 41
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -26,8 +26,8 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Comparative Case Study]]"
-  - "[[Case Study]]"
   - "[[In-depth Interview]]"
+  - "[[Case Study]]"
   - "[[Analytic Framework]]"
 related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
@@ -49,6 +49,8 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Subsidiarity Principle]]"
   - "[[European Education Space]]"
+  - "[[Performance Indicators]]"
+  - "[[Governing by Numbers]]"
   - "[[Topological Spatialisation]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
@@ -56,11 +58,17 @@ related_concepts:
 related_persons:
   - "[[Rob Kitchin]]"
   - "[[Christof Wecker]]"
+  - "[[Sotiria Grek]]"
 related_facts:
   - "[[EU]]"
+  - "[[OECD]]"
+  - "[[European Commission]]"
   - "[[PISA]]"
+  - "[[UOE Data Collection]]"
+  - "[[International Indicators of Education Systems]]"
   - "[[Vergleichsarbeiten]]"
   - "[[Institute for Educational Quality Improvement]]"
+  - "[[Lisbon Strategy]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Massachusetts Department of Elementary and Secondary Education]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
@@ -69,7 +77,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

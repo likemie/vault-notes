@@ -9,7 +9,7 @@ aliases:
 summary: "高等教育国际化与教育外交中的长期宏观社会化机制，指接受资助赴海外攻读高层次学位的国际留学生在学成归国后，进入母国政府、高校与智库担任关键职务，在缺乏职业外交官法定身份的情况下承担起跨国政策沟通与战略叙事传播的准外交功能"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,13 +20,8 @@ tags:
   - public-diplomacy
   - soft-power
 related_concepts:
-  - "[[Educational Diplomacy]]"
-  - "[[Student Mobility]]"
   - "[[Alumnus Effect]]"
-  - "[[Soft Power]]"
   - "[[Public Diplomacy]]"
-  - "[[Power Conversion Dilemma]]"
-  - "[[Research Universities]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -37,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

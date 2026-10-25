@@ -10,9 +10,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 issuing_organization: "威尔士政府（Welsh Government）"
 period: "2021 年至今"
@@ -49,6 +49,7 @@ related_instruments: []
 related_persons:
   - "[[José Manuel Torres]]"
 related_facts:
+  - "[[Department for Education]]"
   - "[[Education Endowment Foundation]]"
   - "[[Evidence Network]]"
   - "[[OECD]]"

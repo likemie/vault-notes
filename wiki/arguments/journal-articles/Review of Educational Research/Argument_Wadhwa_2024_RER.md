@@ -11,7 +11,7 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 80
+argument_related_count: 83
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Iatrogenic Effects in Education]]"
   - "[[Literature Search]]"
+  - "[[Charter Schools]]"
   - "[[Direct Instruction]]"
   - "[[Initial Teacher Training]]"
   - "[[Intelligent Tutoring Systems]]"
@@ -65,11 +66,12 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Academic Achievement]]"
   - "[[Social-Emotional Learning]]"
+  - "[[Learning Strategies]]"
   - "[[Output-Oriented Governance]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[School Leadership]]"
-  - "[[Educational Brokerage Agency]]"
+  - "[[Knowledge Mediation]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
@@ -117,6 +119,7 @@ related_facts:
   - "[[Home Visiting Evidence of Effectiveness]]"
   - "[[CNCS Evidence Exchange]]"
   - "[[What Works Clearinghouse]]"
+  - "[[United States Department of Education]]"
   - "[[Reading Recovery]]"
 related_arguments: []
 sources:

@@ -9,10 +9,10 @@ summary: "英国著名教育政策顾问与跨国管理咨询领袖，“交付�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 37
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 40
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1955"
 died: ""
 lifespan: "1955–至今"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Progressive Education]]"
   - "[[Evidence-Based Education]]"
   - "[[Policy Borrowing]]"
+  - "[[Teacher Qualifications]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Policy Entrepreneur]]"
   - "[[Network Governance]]"
@@ -51,6 +52,7 @@ related_persons:
   - "[[Paul Morris]]"
   - "[[Stephen Ball]]"
 related_facts:
+  - "[[Department for Education]]"
   - "[[Education Endowment Foundation]]"
   - "[[The Importance of Teaching]]"
   - "[[Higher Education Act of 1965]]"
@@ -58,6 +60,7 @@ related_facts:
   - "[[TIMSS]]"
   - "[[World Bank]]"
   - "[[OECD]]"
+  - "[[HM Treasury]]"
   - "[[Social Ventures Australia]]"
   - "[[Evidence for Learning]]"
 related_arguments:

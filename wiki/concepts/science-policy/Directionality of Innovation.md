@@ -56,17 +56,17 @@ related_persons:
 related_facts:
   - "[[Achieve]]"
   - "[[CHIPS and Science Act]]"
-  - "[[Netherlands Top-sector Policy]]"
   - "[[Joint University Microelectronics Program 2.0]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Important Projects of Common European Interest]]"
+  - "[[Netherlands Top-sector Policy]]"
   - "[[EU]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_Fan_2026_BCAS]]"
-  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_Bulfone_2024_IAI]]"
+  - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: high
 status: active
 created: 2026-10-03

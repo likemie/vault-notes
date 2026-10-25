@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -21,6 +21,7 @@ tags:
   - theme/educational-equity
   - theme/evidence-informed-practice
 related_concepts:
+  - "[[Free School Meals]]"
   - "[[Academic Achievement]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Research Utilization]]"

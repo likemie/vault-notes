@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments: []
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Education Innovation and Research]]"
   - "[[What Works Clearinghouse]]"

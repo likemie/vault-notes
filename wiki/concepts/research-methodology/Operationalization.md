@@ -4,10 +4,10 @@ aliases: ["操作化", "operationalizing research", "研究操作化"]
 summary: "将一般研究目的逐层分解为具体、可回答的研究问题或可检验的假设的过程，是研究规划中从抽象到具体的关键步骤。"
 type: concept
 domain: "research-methodology"
-related_count: 42
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 36
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags: [method/research-design, source/textbook, theme/research-planning]
 related_concepts:
   - "[[Research Purpose]]"
@@ -17,16 +17,12 @@ related_concepts:
   - "[[Variable]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
-  - "[[Construct]]"
-  - "[[Reliability]]"
   - "[[Paradigm]]"
   - "[[Effective Teaching]]"
   - "[[Critical Thinking]]"
   - "[[Time on Task]]"
-  - "[[Professional Judgment]]"
-  - "[[Ecological Validity]]"
-  - "[[Feedback]]"
   - "[[Unit of Analysis]]"
+  - "[[Construct]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Research Cage]]"
   - "[[Class Size]]"
@@ -41,14 +37,12 @@ related_methods:
   - "[[Documentary Analysis]]"
   - "[[Experimental Research]]"
   - "[[Design-Based Research]]"
-  - "[[Classroom Observation]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[World Bank]]"
   - "[[Swedish Schools Inspectorate]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
@@ -61,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

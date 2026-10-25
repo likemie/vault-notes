@@ -8,10 +8,10 @@ summary: "西班牙政治家，曾任欧洲联盟外交与安全政策高级代�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 9
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: 1947
 lifespan: "1947–至今"
 tags:
@@ -32,6 +32,7 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
 related_facts:
   - "[[EU]]"
+  - "[[European Commission]]"
 confidence: high
 status: active
 created: 2026-10-08

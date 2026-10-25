@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: foundation
 headquarters: "London, United Kingdom"
@@ -22,13 +22,24 @@ tags:
   - theme/stem-education
   - theme/public-engagement
   - theme/philanthropy
-related_concepts: []
+related_concepts:
+  - "[[Informal Science Learning]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Science Learning Centres Network]]"
+  - "[[Department for Education]]"
+  - "[[Beyond 2000 Report]]"
+  - "[[Economic and Social Research Council]]"
+  - "[[National Science Foundation]]"
+  - "[[The Royal Society]]"
+  - "[[Association for Science and Discovery Centres]]"
+related_arguments:
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
 confidence: medium
 status: draft
 created: 2026-10-26
@@ -75,5 +86,5 @@ updated: 2026-10-26
 > |:-----|:-----|:-----|
 > | [[Science Learning Centres Network]] | 事实 | 惠康与英国教育部联合投资建设的教师专业发展网络。 |
 > | [[Department for Education]] | 事实 | 科学学习中心网络的共同出资方。 |
-> | [[Royal Society]] | 事实 | 与惠康共建科研人员公众参与追踪数据。 |
+> | [[The Royal Society]] | 事实 | 与惠康共建科研人员公众参与追踪数据。 |
 > | [[Association for Science and Discovery Centres]] | 事实 | 惠康长期资助的科学探索中心所属行业协会。 |

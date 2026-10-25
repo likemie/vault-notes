@@ -6,7 +6,7 @@ summary: "瑞典教育学者，经合组织教育研究与创新中心（OECD CE
 type: person
 nationality: "sweden"
 person_region: "sweden"
-person_related_count: 32
+person_related_count: 35
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -37,12 +37,14 @@ related_concepts:
   - "[[Façade of Rationality]]"
   - "[[Policy Brokerage]]"
 related_theories:
+  - "[[Policy Instrumentation Theory]]"
   - "[[Sociology of Measurement]]"
   - "[[Human Capital Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Andreas Schleicher]]"
+  - "[[Sotiria Grek]]"
   - "[[Norberto Bottani]]"
   - "[[Christian Ydesen]]"
 related_facts:
@@ -55,6 +57,7 @@ related_facts:
   - "[[Education Innovation and Research]]"
   - "[[World Bank]]"
   - "[[EU]]"
+  - "[[European Commission]]"
   - "[[UNESCO]]"
   - "[[UNESCO Institute for Statistics]]"
 related_arguments:

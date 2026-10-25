@@ -164,7 +164,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 ---
 
@@ -371,7 +371,7 @@ updated: 2026-10-22
 > - **价值立场：[[Educational Meliorism|改良主义]]、[[Value Neutrality|价值中立]] vs. [[Ideology Critique|意识形态批判]]**
 >   [[Educational Meliorism|教育改良主义]]主张渐进改良，实证派恪守[[Value Neutrality|价值中立]]，批判学派强调教育不可脱离[[Ideology Critique|意识形态批判]]与权力结构审视。卡扎米亚斯（Andreas Kazamias, 1961）将这三类立场系统列为学科研究取向的基本轴线。（pp.128–129）
 > - **伦理边界：[[Fieldwork|田野调查]]中的主客体关系**
->   研究者在开展[[Fieldwork|田野调查]]时，面临深度融入当地文化（[[Going Native|Going Native]]）与保持独立客观审视之间的伦理张力。（p.129）
+>   研究者在开展[[Fieldwork|田野调查]]时，面临深度融入当地文化（[[Going Native]]）与保持独立客观审视之间的伦理张力。（p.129）
 
 #### 3. 缺乏实验室干预条件与面对复杂的非同质单位，决定了比较研究必须以自然情境为依托
 

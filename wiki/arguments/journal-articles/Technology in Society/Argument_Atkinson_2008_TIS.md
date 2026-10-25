@@ -59,7 +59,7 @@ related_facts:
   - "[[Academic Ranking of World Universities]]"
   - "[[National Science Foundation]]"
   - "[[EU]]"
-  - "[[Chinese Academy of Sciences]]"
+  - "[[The Royal Society]]"
   - "[[American Association for the Advancement of Science]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[National Academy of Sciences]]"
@@ -72,12 +72,14 @@ related_facts:
   - "[[Fraunhofer Society Model]]"
   - "[[CNRS]]"
   - "[[Imperial Universities]]"
+  - "[[Chinese Academy of Sciences]]"
   - "[[National Natural Science Foundation of China]]"
   - "[[European Research Area]]"
   - "[[Sputnik Shock 1957]]"
   - "[[President's Science Advisory Committee]]"
   - "[[National Defense Education Act of 1958]]"
   - "[[Federally Funded Research and Development Centers]]"
+  - "[[United States Congress]]"
   - "[[Office of Science and Technology Policy]]"
   - "[[Industry-University Cooperative Research Centers]]"
   - "[[Engineering Research Centers]]"
@@ -96,9 +98,9 @@ title: "Argument_Atkinson_2008_TIS"
 argument_key: "Argument_Atkinson_2008_TIS"
 argument_display_title: "Research universities: Core of the US science and technology system"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 61
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: "Technology in Society"
 book_title: ""
@@ -178,7 +180,7 @@ issuing_organization: ""
 
 > [!phase] 近代科学探索中心的历史变迁与组织依托
 > - **16–17 世纪科学革命：大学体制外的个体探索**
->   哥白尼长期担任波兰大教堂教士；第谷·布拉赫依靠丹麦国王与神圣罗马帝国皇帝的宫廷资助建立私人天文台；开普勒继承其职位成为皇家天文学家；伽利略在帕多瓦大学教授几何学与天文学，但主要研究成果多以宫廷学者身份完成；牛顿在剑桥大学虽设立数学讲席，但其力学与光学成果主要通过伦敦[[Royal Society|皇家学会]]（1660 年成立）进行交流发表。大学在科学革命中并非[[Knowledge Production|知识生产]]的中心。
+>   哥白尼长期担任波兰大教堂教士；第谷·布拉赫依靠丹麦国王与神圣罗马帝国皇帝的宫廷资助建立私人天文台；开普勒继承其职位成为皇家天文学家；伽利略在帕多瓦大学教授几何学与天文学，但主要研究成果多以宫廷学者身份完成；牛顿在剑桥大学虽设立数学讲席，但其力学与光学成果主要通过伦敦[[The Royal Society|皇家学会]]（1660 年成立）进行交流发表。大学在科学革命中并非[[Knowledge Production|知识生产]]的中心。
 > - **18 世纪启蒙时代：皇家学术学会与科学院兴起**
 >   科学研究与探索的主要阵地逐步转移至享有国家特许的专门机构，如巴黎皇家科学院（1666）与柏林科学院（1700）；美洲大陆亦由本杰明·[[Michael Fullan|富兰]]克林于 1743 年创立美国哲学会（American Philosophical Society, APS），约翰·亚当斯于 1780 年创立美国艺术与科学院（American Academy of Arts and Sciences, [[American Association for the Advancement of Science|AAAS]]），为科学家与社会贤达提供研讨平台。
 > - **19 世纪初普鲁士改革：洪堡模式确立教学与科研统一原则**

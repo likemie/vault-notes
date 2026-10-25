@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -75,6 +75,7 @@ related_persons:
   - "[[Isaac Kandel]]"
   - "[[Philip Altbach]]"
 related_facts:
+  - "[[Department for Education]]"
   - "[[Comparative and International Education Society]]"
   - "[[OECD]]"
   - "[[UNESCO]]"

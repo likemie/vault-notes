@@ -8,7 +8,7 @@ aliases:
 summary: "指冷战结束后西方自由民主社会及其科技精英普遍滋生的战略自满与认知盲区；将暂时的地缘胜利误判为历史的终结，将国家安全与繁荣视作无需持续代价与硬实力威慑的默认背景常态，从而在文化与道德层面解构了维持前沿军事与防务技术优势的紧迫性。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Grand Theory]]"
   - "[[Demonstration Effect]]"
+  - "[[Augmented Reality]]"
   - "[[Technological Republic]]"
   - "[[AI Deterrence]]"
 related_persons:
@@ -32,6 +33,7 @@ related_persons:
 related_facts:
   - "[[Autonomous Drone Swarms]]"
   - "[[Dot-Com Bubble]]"
+  - "[[Department of Defense]]"
   - "[[Project Maven]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
@@ -41,7 +43,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

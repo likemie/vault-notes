@@ -55,14 +55,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍华裔学习科学与教育技术学者，纽约州立大学奥尔巴尼分校（University at Albany, State University of New York）教育理论与实践系副教授，曾任教于北京师范大学心理学院。
-> - **核心角色** [[Knowledge Building Theory|知识建构理论]]与计算机支持的协作学习（Computer-Supported Collaborative Learning, CSCL）领域的核心代表人物之一，长期致力于将玛琳·斯卡达马利亚（[[Marlene Scardamalia|Marlene Scardamalia]]）与[[Carl Bereiter|卡尔·贝莱特]]（[[Carl Bereiter|Carl Bereiter]]）开创的知识建构教学法向课堂真实复杂实践推进，系统阐明了学习者[[Epistemic Agency|认识能动性]]的微观运作与宏观演化机制。
+> - **核心角色** [[Knowledge Building Theory|知识建构理论]]与计算机支持的协作学习（Computer-Supported Collaborative Learning, CSCL）领域的核心代表人物之一，长期致力于将玛琳·斯卡达马利亚（[[Marlene Scardamalia]]）与[[Carl Bereiter|卡尔·贝莱特]]（[[Carl Bereiter]]）开创的知识建构教学法向课堂真实复杂实践推进，系统阐明了学习者[[Epistemic Agency|认识能动性]]的微观运作与宏观演化机制。
 > - **代表贡献** 提出[[Reflective Structuration|反思性结构化]]（Reflective Structuration）理论框架，开发探究线索分析（Inquiry Threads Analysis）[[Coding in Qualitative Research|质性编码]]与可视化方法，深化了基于[[Theory of Knowledge|知识论]]坛（Knowledge Forum, KF）的协作知识建构设计原则。
 
 > [!citation-card] 学习者认识能动性的结构化定位

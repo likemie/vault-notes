@@ -8,7 +8,7 @@ aliases:
 summary: "位于义务教育和正规高等教育之外的中学后非正规教育形态，以非学位证书、职业技能重塑与终身学习为核心，与正规高等教育共同构成后福特经济与跨国产业链协同的技能支柱。"
 type: concept
 domain: "higher-education"
-related_count: 7
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,20 +21,17 @@ tags:
 related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Corporate Education]]"
-  - "[[Externalization]]"
-  - "[[Apprenticeship]]"
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts:
-  - "[[EU]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: medium
 status: draft
 created: 2026-05-18
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -20,12 +20,12 @@ tags:
   - causal-inference
   - experiment
 related_concepts:
-  - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Causality]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[Definition of Terms]]"
+  - "[[Variable]]"
   - "[[Interaction Effect]]"
   - "[[Academic Achievement]]"
   - "[[Research Cage]]"

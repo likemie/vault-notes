@@ -7,7 +7,7 @@ aliases:
 summary: "在认识论认知模型中，个体或共同体在评价知识主张、证据可信度与理论解释时所依据的细粒度准则，涵盖个体认知试探法与共同体社会协商的实践规范。"
 type: concept
 domain: "educational-psychology"
-related_count: 38
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,10 +31,9 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Scaffolding]]"
   - "[[Citizen Science]]"
-  - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
+  - "[[Dependent Variable]]"
   - "[[Variable]]"
-  - "[[Measurement Alignment]]"
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
   - "[[Toulmin's Argumentation Model]]"
@@ -46,7 +45,6 @@ related_methods:
   - "[[Causal Modeling]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
   - "[[Random-Effects Model]]"
 related_persons:
   - "[[Clark A. Chinn]]"
@@ -57,12 +55,11 @@ related_arguments:
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Hofer_1997_RER]]"
   - "[[Argument_Cartiff_2021_JEP]]"
-related_instruments:
-  - "[[Framework for Teaching]]"
+related_instruments: []
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

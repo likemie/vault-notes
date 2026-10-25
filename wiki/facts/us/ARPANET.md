@@ -61,7 +61,7 @@ updated: 2026-10-26
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1968 年底正式由 DARPA 签发主研制合同，1969 年 10 月实现首批节点连通，1975 年移交国防通信局（Defense Communications Agency, DCA）运营，1990 年正式退役并由 NSFNET 及商业互联网骨干网全面接替。
-> - **发起方与思想渊源** 由[[Department of Defense|美国国防部]]高级研究计划局（DARPA）全额注资。其思想直接发轫于[[J. C. R. Licklider|约瑟夫·利克莱德]]（J. C. R. Licklider）1960年受美国空军资助发表的《[[Man-Computer Symbiosis|人机共生]]》论文及 1962 年出任 IPTO 主任时提出的“星际计算机网络”（Intergalactic Computer Network）构想。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
+> - **发起方与思想渊源** 由美国国防部高级研究计划局（DARPA）全额注资。其思想直接发轫于[[J. C. R. Licklider|约瑟夫·利克莱德]]（J. C. R. Licklider）1960年受美国空军资助发表的《[[Man-Computer Symbiosis|人机共生]]》论文及 1962 年出任 IPTO 主任时提出的“星际计算机网络”（Intergalactic Computer Network）构想。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
 > - **覆盖范围与对象** 早期连接加州大学洛杉矶分校（UCLA）、斯坦福研究所（SRI）、加州大学圣巴巴拉分校（UCSB）与犹他大学，至 1975 年迅速扩展连接超过 100 处顶尖[[Research Universities|研究型大学]]与国防科研基地。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 39)]]
 > - **核心问题导向** 解决冷战核威胁与战时指挥通信脆弱性，实现跨地域异构大型主机之间的计算资源共享与鲁棒的分布式容灾通信。
 

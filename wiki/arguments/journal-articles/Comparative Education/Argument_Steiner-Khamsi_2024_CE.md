@@ -35,6 +35,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Epistemology]]"
   - "[[Performance Indicators]]"
+  - "[[Façade of Rationality]]"
   - "[[Knowledge Mediation]]"
   - "[[Boundary Spanner]]"
   - "[[Scientific Uncertainty]]"
@@ -46,7 +47,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Promissory Legitimacy]]"
   - "[[Technology Deficit of Education]]"
-  - "[[Façade of Rationality]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Return on Investment]]"
@@ -58,6 +58,7 @@ related_concepts:
   - "[[Warehousing of Good Practices]]"
   - "[[Development Education]]"
   - "[[Social-Emotional Learning]]"
+  - "[[Social Support]]"
   - "[[Transfer Space]]"
   - "[[Knowledge Co-production]]"
   - "[[Datafication of Learning]]"
@@ -131,6 +132,7 @@ related_facts:
   - "[[UNICEF]]"
   - "[[Multiple Indicator Cluster Surveys]]"
   - "[[Bill & Melinda Gates Foundation]]"
+  - "[[Finnish PISA Miracle]]"
   - "[[Definition and Selection of Competencies]]"
 related_arguments:
   - "[[Argument_Niemann_Martens_2018_GSP]]"
@@ -147,9 +149,9 @@ title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 108
-argument_related_level: 10
-argument_related_stars: "💎💎💎⭐"
+argument_related_count: 110
+argument_related_level: 11
+argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 journal: Comparative Education
 book_title: ""
@@ -189,7 +191,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **历史比较分析法**<br>[[Historical-Comparative Method\|Historical-Comparative Analysis]] | 梳理[[OECD\|经合组织]]与世界银行五十年发展档案，结合关键历史文献与亲历者访谈史料（如 Jarl Bengtsson 回忆录、[[George Psacharopoulos\|George Psacharopoulos]] 政策评估文本），重构冷战与后殖民时期国际组织向教育统计与指标规制转型的制度轨迹。 |
+> | **历史比较分析法**<br>[[Historical-Comparative Method\|Historical-Comparative Analysis]] | 梳理[[OECD\|经合组织]]与世界银行五十年发展档案，结合关键历史文献与亲历者访谈史料（如 Jarl Bengtsson 回忆录、[[George Psacharopoulos]] 政策评估文本），重构冷战与后殖民时期国际组织向教育统计与指标规制转型的制度轨迹。 |
 > | **跨国组织比较与网络分析**<br>Transnational & Relational Policy Network Analysis | 运用世界教育改革数据库（World Education Reform Database，WERD）等跨国数据，横向对比 OECD、世界银行、联合国教科文组织等在[[Policy Brokerage\|政策中介]]工具打包、[[Richard Rose\|Rose]]（1993）经验汲取模式（外向国别经验 vs 自指性实践库）及排他性联盟策略上的异同。 |
 > | **政策周期引文追踪法**<br>Procedural Citation Tracing in Policy Cycle | 依托北欧五国政策咨询网络实证研究材料，系统追踪专家咨询委员会报告与教育部正式法令之间的参考文献承继关系，精确量化跨国中介证据在行政规制出台阶段的损耗与过滤。 |
 
@@ -248,7 +250,7 @@ issuing_organization: ""
 
 #### 1. 经合组织从冷战技术官僚预测转向由外部危机感驱动的跨国比较指标帝国
 
-二战后西方阵营急需建立具有规范协调功能的国际机制以抵御苏联阵营的意识形态渗透，[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（[[Organisation for European Economic Co-operation|Organisation for European Economic Co-operation]]，OEEC）应运而生并在 1961 年改组为经合组织，被史学界定性为与北约并行的经济北约。
+二战后西方阵营急需建立具有规范协调功能的国际机制以抵御苏联阵营的意识形态渗透，[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（[[Organisation for European Economic Co-operation]]，OEEC）应运而生并在 1961 年改组为经合组织，被史学界定性为与北约并行的经济北约。
 
 > [!phase] 经合组织从经济北约到全球教育测验帝国的演化历程
 >

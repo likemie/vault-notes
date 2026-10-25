@@ -9,7 +9,7 @@ aliases:
 summary: "由教育干预方案的开发者或研究者自行编制且未经独立标准化的结局测验工具；因其题目往往过度对齐干预课程内容而导致学业效应量被人为虚夸 50% 至 100%，在现代循证审查标准（如 WWC 与 Evidence for ESSA）中被强制排除作为确证性因果证据。"
 type: concept
 domain: "research-methodology"
-related_count: 34
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -36,10 +36,10 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Epistemology]]"
   - "[[Rote Learning]]"
-  - "[[Interaction Effect]]"
-  - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Norm-Referenced Test]]"
+  - "[[Variable]]"
+  - "[[Interaction Effect]]"
   - "[[Evidence Standards]]"
 related_theories: []
 related_methods:
@@ -48,7 +48,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
 related_persons: []
@@ -65,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

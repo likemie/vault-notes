@@ -8,7 +8,7 @@ aliases:
 summary: "非英语母语国家顶尖高等教育机构为了破除国际生源语言壁垒、提升全球学术影响力与国际化水平，在本科与研究生阶段以英语讲授学术专业课程并授予学位的课程教学机制。"
 type: concept
 domain: "higher-education"
-related_count: 0
+related_count: 1
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,10 +18,12 @@ tags:
   - theme/curriculum
   - theme/student-mobility
   - theme/internationalization
+related_arguments:
+  - "[[Argument_Custer_2021_AidData]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

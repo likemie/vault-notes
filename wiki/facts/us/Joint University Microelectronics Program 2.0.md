@@ -82,7 +82,7 @@ updated: 2026-10-26
 ---
 
 > [!claim] 核心定位
-> **联合大学微电子 2.0 计划（Joint University Microelectronics Program 2.0, JUMP 2.0）** 是 2023 年 1 月由[[Department of Defense|美国国防部]]高级研究计划局（[[DARPA|Defense Advanced Research Projects Agency]], [[DARPA]]）与[[Semiconductor Research Corporation|半导体研究公司]]（[[Semiconductor Research Corporation|Semiconductor Research Corporation]], [[Semiconductor Research Corporation|SRC]]）共同发起设立的国家级高强度产学研前竞争协同科研计划。该计划以全美顶尖[[Research Universities|研究型大学]]为主导枢纽节点，联合数十家芯片设计、制造与系统领军企业，构建跨校、跨区域与跨学科的网络化攻坚集群，旨在攻克后摩尔时代微电子系统[[Heterogeneous Integration|异构集成]]、先进三维封装、认知传感、高能效存算与新型逻辑物理等颠覆性底层技术，构筑连接基础科学探索与产业规模转化的前竞争技术阶梯与拔尖工程人才蓄水池。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
+> **联合大学微电子 2.0 计划（Joint University Microelectronics Program 2.0, JUMP 2.0）** 是 2023 年 1 月由[[DARPA|美国国防部高级研究计划局]]（[[DARPA|Defense Advanced Research Projects Agency]], [[DARPA]]）与[[Semiconductor Research Corporation|半导体研究公司]]（[[Semiconductor Research Corporation]], [[Semiconductor Research Corporation|SRC]]）共同发起设立的国家级高强度产学研前竞争协同科研计划。该计划以全美顶尖[[Research Universities|研究型大学]]为主导枢纽节点，联合数十家芯片设计、制造与系统领军企业，构建跨校、跨区域与跨学科的网络化攻坚集群，旨在攻克后摩尔时代微电子系统[[Heterogeneous Integration|异构集成]]、先进三维封装、认知传感、高能效存算与新型逻辑物理等颠覆性底层技术，构筑连接基础科学探索与产业规模转化的前竞争技术阶梯与拔尖工程人才蓄水池。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 
 > [!program-context] 项目背景
 > - **立项周期与实施跨度** 2023 年 1 月正式启动推进（为期五年，预计延续至 2028 年及更长周期），作为美国面向 2030 年代微电子战略科技竞争的核心支撑工程。

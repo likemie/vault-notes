@@ -7,7 +7,7 @@ aliases:
 summary: "国际关系与地缘政治的核心范畴，指行为体通过军事武力、强制威慑与经济制裁迫使他者服从的指挥性权力。在智能化时代，硬实力的物质基石转向算法模型、自主无人系统与实体先进制造；发展型国家进一步将高等教育与科技走廊整编为硬实力支柱。硬实力无法脱离实质防卫意志而孤立维系，且单纯依靠经济硬实力补贴的对外投射面临显著的地缘政治脆弱性。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Determinism]]"
   - "[[Cosmopolitanism]]"
-  - "[[Scientific Paradigm]]"
   - "[[Commercial Off-The-Shelf]]"
   - "[[Return on Investment]]"
   - "[[Internationalization of Higher Education]]"
@@ -58,11 +57,13 @@ related_persons:
   - "[[J. Robert Oppenheimer]]"
   - "[[Thomas Schelling]]"
   - "[[Francis Fukuyama]]"
+  - "[[Rui Yang]]"
   - "[[Vannevar Bush]]"
   - "[[Joseph S. Nye Jr.]]"
 related_facts:
   - "[[Autonomous Drone Swarms]]"
   - "[[Research in Schools Evaluation]]"
+  - "[[Department of Defense]]"
   - "[[Goh Report]]"
   - "[[Walser-Bubis Debate]]"
   - "[[Belt and Road Initiative]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

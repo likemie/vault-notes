@@ -7,7 +7,7 @@ aliases:
 summary: "国际文凭组织提出的一组核心育人目标（如探究者、反思者），将组织的全球公民使命操作化为10项具体特质，旨在通过各学科与核心组件的协同培养具有国际情怀和跨学科思维的终身学习者。"
 type: concept
 domain: "curriculum"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Lifelong Learning]]"
   - "[[Theory of Knowledge]]"
+  - "[[Creativity, Action, Service]]"
   - "[[Concurrency of Learning]]"
   - "[[Global Citizenship]]"
   - "[[Operationalization]]"
@@ -30,22 +31,20 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Reflexivity]]"
   - "[[IB Diploma Programme]]"
-  - "[[Dependent Variable]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
-  - "[[Effect Size]]"
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[Chinese Academy of Sciences]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Metli_2022_IJEdReform]]"
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---

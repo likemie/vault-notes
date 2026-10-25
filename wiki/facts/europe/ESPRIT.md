@@ -12,7 +12,7 @@ subtype: program
 region: europe
 fact_region: "europe"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_persons:
   - "[[David C. Mowery]]"
 related_facts:
   - "[[EU]]"
+  - "[[European Commission]]"
   - "[[Sematech]]"
   - "[[VLSI Project]]"
 related_arguments:

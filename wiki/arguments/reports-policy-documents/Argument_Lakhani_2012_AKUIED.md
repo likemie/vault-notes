@@ -22,7 +22,7 @@ title: "Argument_Lakhani_2012_AKUIED"
 argument_key: "Argument_Lakhani_2012_AKUIED"
 argument_display_title: "Knower's roles of autonomy for knowledge construction: A case of International Baccalaureate (IB) Curriculum"
 argument_kind: "conference-paper"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#e5e7eb"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Skill of Questioning]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Social Support]]"
   - "[[Scaffolding]]"
   - "[[Leading Questions]]"
   - "[[Cooperative Learning]]"

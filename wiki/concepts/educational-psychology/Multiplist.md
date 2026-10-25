@@ -8,7 +8,7 @@ aliases:
 summary: "论辩推理模型中的中间认识论立场，主张知识纯属主观意见，所有观点都同等有效；在人机共生学习中表现为意识到大模型输出的多样性但缺乏客观评判标准，导致选择迷失与批判性比较匮乏。"
 type: concept
 domain: "educational-psychology"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,6 +33,7 @@ related_theories:
 related_arguments:
   - "[[Argument_Kuhn_2000_CD]]"
   - "[[Argument_Wu_2025_ER]]"
+  - "[[Argument_Chinn_2011_EducPsychol]]"
   - "[[Argument_Hofer_1997_RER]]"
 related_persons:
   - "[[Deanna Kuhn]]"
@@ -42,7 +43,7 @@ related_methods:
   - "[[Pearson Product-Moment Correlation]]"
 status: active
 created: 2026-08-15
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

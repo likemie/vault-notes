@@ -7,25 +7,22 @@ aliases:
 summary: "学术研究引言中引导探究需求的难题或现实议题，为全篇研究确立存在理由与合法性基石；严格区别于收集分析数据所回答的具体研究问题句，包含个人经验、学术争论与政策讨论三大来源，并在超国家循证治理中面临去政治化议程遮蔽的批判反思。"
 type: concept
 domain: "research-methodology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/research-process
   - theme/research-design
 related_concepts:
   - "[[Research Question]]"
   - "[[Variable]]"
-  - "[[Technical Rationality]]"
-  - "[[Positivism]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
-related_persons:
-  - "[[John W. Creswell]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -33,7 +30,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---

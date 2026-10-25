@@ -9,7 +9,7 @@ aliases:
 summary: "涵盖问题分解、模式识别、抽象表征与算法设计等心智操作的问题解决能力体系，是从程序性技能向高阶认知进阶的基础枢纽。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Construct Validity]]"
 related_theories: []
 related_methods:
-  - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

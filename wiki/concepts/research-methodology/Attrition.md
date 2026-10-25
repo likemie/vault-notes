@@ -13,10 +13,10 @@ aliases:
 summary: "实验或追踪研究中参与者因各种原因中途脱落导致初始随机等价性被破坏的内部效度威胁，WWC通过整体流失与差异流失二维边界模型度量其潜在因果偏误。"
 type: concept
 domain: "research-methodology"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - subject/research-methodology
   - experiment
@@ -57,6 +57,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[What Works Clearinghouse]]"
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Social Programs That Work]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-12
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

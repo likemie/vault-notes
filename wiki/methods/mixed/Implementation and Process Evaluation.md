@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-20
+updated: 2026-10-26
 ---
 
 ---
@@ -143,7 +143,7 @@ updated: 2026-10-20
 > [!framework-table] 实施与过程评估（IPE）的核心维度框架（基于 Humphrey et al., 2016 与 EEF, 2019b）
 > | 评估维度 | 核心核查内容 | 典型收集工具与数据形式 |
 > |---|---|---|
-> | **干预方案要素界定** | 明确界定干预的核心要素（Active Ingredients）、理论变革模型（[[Theory of Change\|Theory of Change]]）与不可替代的操作规程，对照干预描述与复制模板（Template for Intervention Description and Replication，TIDieR）准则规范记录。 | 项目手册、培训规程、理论因果图。 |
+> | **干预方案要素界定** | 明确界定干预的核心要素（Active Ingredients）、理论变革模型（[[Theory of Change]]）与不可替代的操作规程，对照干预描述与复制模板（Template for Intervention Description and Replication，TIDieR）准则规范记录。 | 项目手册、培训规程、理论因果图。 |
 > | **[[Implementation Fidelity\|实施保真度]]与适应性** | 评估学校与教师在多大程度上按照原设计方案执行干预；识别基层学校所做的合规适应与破坏性偏离。 | [[Classroom Observation\|课堂观察]]编码表、培训出勤记录、实施自评量表。 |
 > | **干预剂量与参与依从性** | 记录参与者实际接受干预的时长、频次与完成比例；测量从意向性分析（Intention-to-Treat Analysis，[[Intent-to-Treat Analysis\|ITT]]）到实际接受处理的依从衰减。 | 线上平台打卡日志、学生签到表、[[Homework\|作业]]提交记录。 |
 > | **对照组常态活动追踪** | 详尽调查对照组学校在实验期间开展的[[Business as Usual\|常态教学]]（business as usual）具体内容，排查是否存在对照组自发引入类似干预的污染现象。 | 对照组教师[[Questionnaire\|问卷调查]]、课程表核查、替代项目访谈。 |

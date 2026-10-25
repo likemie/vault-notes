@@ -9,9 +9,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "国家科研资助机制实验与评估机构（Governmental Metascience Research & Evaluation Unit）"
 headquarters: "英国伦敦（London, UK）"
@@ -34,12 +34,14 @@ related_theories:
 related_methods:
   - "[[Random Assignment]]"
   - "[[Mechanism Experiments]]"
+  - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Inter-Rater Reliability]]"
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
 related_facts:
+  - "[[UK Research and Innovation]]"
   - "[[Office of Science and Technology Policy]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
@@ -80,7 +82,7 @@ updated: 2026-10-26
 > - **数据分析与计量评估小组** 追踪受资助项目的长周期产出、学术影响力与非共识创新[[Emergence|涌现]]。
 
 > [!pathways] 业务运行机制
-> - **真实资助场景中的[[Mechanism Experiments|机制实验]]（In-situ [[Mechanism Experiments|Mechanism Experiments]]）** 单元并非停留在理论推演，而是直接将实验设计嵌入真实的政府研发项目招标与评审流程中。
+> - **真实资助场景中的[[Mechanism Experiments|机制实验]]（In-situ [[Mechanism Experiments]]）** 单元并非停留在理论推演，而是直接将实验设计嵌入真实的政府研发项目招标与评审流程中。
 > - **法定实验介入权与数据透明共享** 拥有合法权限对特定基金池实施[[Random Assignment|随机化]]分配与双盲评审测试，并将实验数据和评估报告向全社会公开，倒逼资助政策调整。
 
 ---

@@ -8,10 +8,10 @@ aliases:
 summary: "旅行者教育是指面向大篷车居民、旅行者以及罗姆/吉普赛族群儿童的专门教育政策与教学干预实践；该领域聚焦于具有漫游传统的少数群体所承受的社会污名、正规学校内部高度结构化的空间区隔引发的文化与身体失调，以及多元文化政策在追求社会融入与尊重社群空间自主性之间的内在张力。"
 type: concept
 domain: "comparative-education"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/comparative-education
   - theme/migrant-education
@@ -24,13 +24,10 @@ related_concepts:
   - "[[Migrant Children]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Heterogeneity]]"
-  - "[[Variable]]"
   - "[[Intercultural Education]]"
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
-  - "[[Effect Size]]"
-  - "[[Qualitative Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -39,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

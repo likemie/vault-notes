@@ -70,6 +70,8 @@ related_facts:
   - "[[UNICEF]]"
   - "[[Education International]]"
   - "[[International Monetary Fund]]"
+  - "[[Fraser Institute]]"
+  - "[[National Education]]"
 related_arguments: []
 sources:
   - "[[sources/Beech_2009_CE|Beech_2009_CE]]"
@@ -83,10 +85,10 @@ title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 48
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: Comparative Education
 book_title: ""
 issuing_organization: ""

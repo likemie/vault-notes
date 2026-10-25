@@ -9,33 +9,23 @@ aliases:
 summary: "由全球教育证据咨询小组（GEEAP）与世界银行、英国外交发展部、联合国儿童基金会及美国国际开发署联合提出的教育循证决策与援助投资分级框架；该框架依据因果实验证据与单位成本学习收益率，将全球教育干预措施划分为极佳投资、智能购买、前景良好但证据有限及不良投资四级采购矩阵，旨在资源约束情境下指导中低收入国家实现高性价比的教育干预选优；因其强烈的技术官僚理性倾向与去情境化偏颇，在比较教育学中引发广泛批判。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 2
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/educational-policy-reform
   - theme/cost-effectiveness
   - theme/evidence-based-policy
   - theme/global-education-aid
   - theme/world-bank
-related_concepts:
-  - "[[Evidence Culture]]"
-  - "[[Technical Rationality]]"
-  - "[[Output-Oriented Governance]]"
-  - "[[Research Utilization]]"
-  - "[[Epistemic Inequality]]"
-related_theories:
-  - "[[Good Governance of Evidence]]"
-related_methods:
-  - "[[Randomised Controlled Trials]]"
-  - "[[Effect Size]]"
+related_concepts: []
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[World Bank]]"
-  - "[[Global Education Evidence Advisory Panel]]"
-  - "[[UNICEF]]"
+  - "[[EEF Teaching and Learning Toolkit]]"
 related_arguments:
   - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high

@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定教学干预或高等教育求学期间，在专业知识储备、概念理解、高阶思维技能及综合素养等方面所实现的净增长幅度与纵向发展距离。"
 type: concept
 domain: "higher-education"
-related_count: 44
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -54,7 +54,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Value-Added Model]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Effect Size]]"
 related_instruments:
@@ -75,7 +74,7 @@ related_arguments:
   - "[[Argument_Serpell_2020_EducPsychol]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 created: 2026-08-26
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

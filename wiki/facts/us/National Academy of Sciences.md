@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -38,7 +38,7 @@ related_persons:
   - "[[Tony Tether]]"
   - "[[Erica Fuchs]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
+  - "[[United States Congress]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[National Research Council]]"
@@ -49,6 +49,7 @@ related_facts:
   - "[[Science and Technology Centers]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Computing Research Association]]"
+  - "[[Swedish National Agency for Education]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[Human Genome Project]]"
@@ -59,6 +60,7 @@ related_facts:
   - "[[National Science and Technology Council]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[American Association for the Advancement of Science]]"
+  - "[[Chinese Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Fuchs_2010_RP]]"

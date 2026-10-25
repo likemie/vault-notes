@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_facts:
   - "[[National Academy of Sciences]]"
   - "[[National Research Council]]"
   - "[[Rapid Assessment and Response Strategy]]"
+  - "[[United States Congress]]"
 related_arguments:
   - "[[Argument_Serpell_2020_EducPsychol]]"
 confidence: high

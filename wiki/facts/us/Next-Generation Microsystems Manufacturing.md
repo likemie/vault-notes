@@ -12,7 +12,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_facts:
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
+  - "[[Department of Defense]]"
   - "[[Microelectronics Commons]]"
 related_arguments:
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"

@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 54
+fact_related_count: 55
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -29,6 +29,7 @@ tags:
 related_concepts:
   - "[[Innovation Hub]]"
   - "[[Lifelong Learning]]"
+  - "[[Learning Strategies]]"
   - "[[Epistemic Governance]]"
   - "[[Evidence Ecosystem]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -70,11 +71,11 @@ related_facts:
   - "[[Education at a Glance]]"
   - "[[PISA]]"
   - "[[Education International]]"
+  - "[[United States Department of Education]]"
   - "[[National Education Association]]"
   - "[[American Federation of Teachers]]"
   - "[[International Summits on the Teaching Profession]]"
   - "[[Strengthening the Impact of Education Research Project]]"
-  - "[[Chinese Academy of Sciences]]"
   - "[[Definition and Selection of Competencies]]"
   - "[[Organisation for European Economic Co-operation]]"
 related_arguments:

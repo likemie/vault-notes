@@ -24,11 +24,12 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
+  - "[[Dependent Variable]]"
   - "[[Interaction Effect]]"
   - "[[Absorptive Capacity]]"
   - "[[Source of Knowledge]]"
-  - "[[Competitiveness]]"
   - "[[Counterfactual]]"
+  - "[[Competitiveness]]"
   - "[[Return on Investment]]"
   - "[[Reliability]]"
 related_theories:
@@ -55,7 +56,7 @@ title: "Argument_Glitz_2020_AmEconRev"
 argument_key: "Argument_Glitz_2020_AmEconRev"
 argument_display_title: "Industrial Espionage and Productivity"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

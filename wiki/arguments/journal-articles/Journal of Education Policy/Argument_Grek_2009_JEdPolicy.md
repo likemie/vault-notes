@@ -9,9 +9,9 @@ title: "Argument_Grek_2009_JEdPolicy"
 argument_key: "Argument_Grek_2009_JEdPolicy"
 argument_display_title: "Governing by numbers: the PISA 'effect' in Europe"
 argument_kind: "journal-article"
-argument_related_count: 67
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 71
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: Journal of Education Policy
 citation: "Grek, S. (2009). Governing by numbers: the PISA 'effect' in Europe. *Journal of Education Policy*, 24(1), 23–37. https://doi.org/10.1080/02680930802412669"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Champ]]"
   - "[[Subsidiarity Principle]]"
+  - "[[Comparative Turn in Education Policy]]"
   - "[[Objectivism]]"
   - "[[Scientific Method]]"
   - "[[Epistemology]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Lifelong Learning]]"
   - "[[Self-Efficacy]]"
+  - "[[Learning Strategies]]"
   - "[[Heterogeneity]]"
   - "[[Mediatisation of Education Policy]]"
   - "[[School Choice]]"
@@ -82,6 +84,7 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[EU]]"
+  - "[[European Commission]]"
   - "[[Eurydice]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[Fabricating Quality in European Education]]"
@@ -94,6 +97,7 @@ related_facts:
   - "[[Physik im Kontext]]"
   - "[[SINUS]]"
   - "[[PISA Response in England]]"
+  - "[[Department for Education]]"
   - "[[Lisbon Strategy]]"
   - "[[UNESCO]]"
   - "[[UOE Data Collection]]"

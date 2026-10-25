@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: legislature
 headquarters: "Washington, D.C., United States"
@@ -22,13 +22,28 @@ tags:
   - theme/science-policy
   - theme/educational-policy
   - theme/innovation-policy
-related_concepts: []
+related_concepts:
+  - "[[Congressional Earmarks]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Bayh-Dole Act of 1980]]"
+  - "[[National Defense Education Act of 1958]]"
+  - "[[National Strategy on Microelectronics Research]]"
+  - "[[Advanced Technology Program]]"
+  - "[[National Institutes of Health]]"
+  - "[[Every Student Succeeds Act]]"
+  - "[[Sputnik Shock 1957]]"
+  - "[[CHIPS and Science Act]]"
+  - "[[House Committee on Education and the Workforce]]"
+related_arguments:
+  - "[[Argument_Block_2008_PS]]"
+  - "[[Argument_Serpell_2020_EducPsychol]]"
+  - "[[Argument_Stephan_2013_NBER]]"
+  - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
+  - "[[Argument_Ginsberg_2024_EducPolicy]]"
 confidence: medium
 status: draft
 created: 2026-10-26

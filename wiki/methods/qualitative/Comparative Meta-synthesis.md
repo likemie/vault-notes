@@ -7,7 +7,7 @@ summary: "通过跨元分析比较来得出推论的综合方法，旨在回答�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Individualised Instruction]]"
   - "[[Visible Learning]]"
-  - "[[Epistemology]]"
   - "[[Creativity]]"
   - "[[Structured Teaching]]"
   - "[[Classroom Management]]"
@@ -43,7 +42,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 定义

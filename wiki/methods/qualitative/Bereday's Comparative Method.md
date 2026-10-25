@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -156,7 +156,7 @@ updated: 2026-10-22
 > - **贝雷迪与经验归纳派的回应立场**
 >   纯粹的假说演绎法容易沦为脱离鲜活民族历史情境与制度特殊性的空中楼阁；若没有扎实的单国地理、政治与文化脉络[[Rich and Thick Description|厚描述]]，演绎派极易按照主观假设任意剪裁跨国事实；深度描述与跨学科解释是跨国比较不可逾越的[[Epistemology|认识论]]基石。
 > - **拉斯特等人的历史定性**
->   拉斯特（[[Val D. Rust|Val D. Rust]]）等人指出，贝雷迪与霍姆斯的方法论大争论并未因某一方的胜出而结束，它在当代以“[[Grounded Theory|扎根理论]]（Grounded Theory）与假设检验法（Hypothetico-Deductive Method）”的对立形式持续回响在整个社会科学界。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 128)]]
+>   拉斯特（[[Val D. Rust]]）等人指出，贝雷迪与霍姆斯的方法论大争论并未因某一方的胜出而结束，它在当代以“[[Grounded Theory|扎根理论]]（Grounded Theory）与假设检验法（Hypothetico-Deductive Method）”的对立形式持续回响在整个社会科学界。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 128)]]
 
 ---
 

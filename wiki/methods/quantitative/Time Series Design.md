@@ -10,7 +10,7 @@ summary: "准实验设计的重要范式，通过在干预前后开展多次等�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -50,6 +50,7 @@ related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons: []
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[What Works Clearinghouse]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Gaokao]]"

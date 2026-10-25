@@ -41,8 +41,8 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Rich and Thick Description]]"
   - "[[Dependent Variable]]"
-  - "[[Academic Achievement]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Academic Achievement]]"
 related_theories:
   - "[[Growth Mindset]]"
 related_methods:

@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -35,12 +35,10 @@ related_concepts:
   - "[[Control of Variables Strategy]]"
   - "[[Independent Variable]]"
   - "[[Scaffolding]]"
-  - "[[Dependent Variable]]"
   - "[[Reliability]]"
   - "[[Ecological Validity]]"
 related_theories: []
-related_methods:
-  - "[[Effect Size]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -53,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---

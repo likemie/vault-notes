@@ -10,10 +10,10 @@ alias_reviewed:
 summary: "通过情境化文本、谈话与制度实践建构知识、主体性与权力关系的意义体系；在微观层面指向文本性七标准与课堂互动中微观秩序与权力的协商，在宏观层面指向跨国流动空间中去情境化的普遍主义政策话语、过度简化转译与外围本土的再情境化形变。"
 type: concept
 domain: "research-methodology"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - research-methodology
   - theme/language
@@ -83,13 +83,14 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Beech_2009_CE]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_King_2020_ECNUROE]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -136,7 +136,7 @@ updated: 2026-10-22
 > | [[Clearing House Unterricht]] | 事实 (机构) | QLB 立项孵化的德语区首个国家级教育证据清算与转移中介旗舰项目。 |
 > | [[Tina Seidel]] | 人物 | 慕尼黑工业大学项目首席科学家，主持 QLB 框架下的清算中心研发。 |
 > | [[SINUS]] | 事实 (项目) | 德国先期国家级数理教学改革与转移试验，为 QLB 提供了网络化教研与规模化扩散的经验前身。 |
-> | [[German State Educational Institutes and Quality Agencies\|German State Educational Institutes and Quality Agencies]] | 事实 (机构) | 各州立研训与质量机构，作为 QLB 衔接职前见习与在职进修的关键制度界面。 |
+> | [[German State Educational Institutes and Quality Agencies]] | 事实 (机构) | 各州立研训与质量机构，作为 QLB 衔接职前见习与在职进修的关键制度界面。 |
 > | [[Transfer Science]] | 理论 | 将 QLB 的知识转化机制、组织界面与多[[Paradigm\|范式]]冲突纳入元科学审视的理论范式。 |
 > | [[Educational Evidence Clearinghouses]] | 概念 | QLB 开启了欧洲大陆高校依托型证据清算机构的国家资助工程典范。 |
 > | [[Research-Practice Gap]] | 概念 | QLB 计划设立的核心攻坚靶向，旨在打破德国教师教育理论与实践断层。 |

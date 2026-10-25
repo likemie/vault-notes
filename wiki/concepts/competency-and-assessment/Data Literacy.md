@@ -7,10 +7,10 @@ aliases:
 summary: "涵盖个体在数字化社会中理解、解读与批判评估数据的通识能力，以及教育者在学校探究中系统采集质检多源数据、超越单一终结性评价、进行定性定量三角验证的专业实践胜任力；虽能精准诊断学情病因，但自身不包含现成教学策略，亟需与研究素养协同驱动完整的学校探究循环。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 48
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - field/curriculum
   - theme/stem-education
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Affective Outcomes]]"
   - "[[Cognitive Deskilling]]"
   - "[[Professional Judgment]]"
+  - "[[Deficit Framing]]"
   - "[[Academic Achievement]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
@@ -65,6 +66,7 @@ related_persons:
   - "[[Kim Schildkamp]]"
 related_facts:
   - "[[Data Team Intervention]]"
+  - "[[The Royal Society]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Massachusetts Department of Elementary and Secondary Education]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
@@ -148,7 +150,7 @@ updated: 2026-10-26
 > 现代社会公共议题高度依赖数据模型与统计表征，缺乏通识数据素养将导致公民丧失实质性参与民主对话与抵御虚假信息的能力。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
-> **全员贯穿必修** [[Royal Society|英国皇家学会]]《Mathematical Futures》与《科学为社会》报告共同指出，数据素养必须打破数学单科藩篱，作为横向线索贯穿科学、地理与社会科学大纲，成为面向 18 岁所有学习者的核心必修素养，支撑公民在真实复杂情境中开展概率推理与数据批判。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 31)]]
+> **全员贯穿必修** [[The Royal Society|英国皇家学会]]《Mathematical Futures》与《科学为社会》报告共同指出，数据素养必须打破数学单科藩篱，作为横向线索贯穿科学、地理与社会科学大纲，成为面向 18 岁所有学习者的核心必修素养，支撑公民在真实复杂情境中开展概率推理与数据批判。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 31)]]
 
 ---
 

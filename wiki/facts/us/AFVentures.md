@@ -12,7 +12,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Patient Capital]]"
 related_facts:
   - "[[SBIR and STTR Programs]]"
+  - "[[Department of Defense]]"
   - "[[National Strategy on Microelectronics Research]]"
 related_arguments:
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"

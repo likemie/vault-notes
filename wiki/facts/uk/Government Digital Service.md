@@ -5,7 +5,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -34,6 +34,8 @@ related_persons:
   - "[[Mariana Mazzucato]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
+related_facts:
+  - "[[Cabinet Office]]"
 confidence: high
 status: active
 created: 2026-10-03

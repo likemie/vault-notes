@@ -8,7 +8,7 @@ aliases:
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新。在当代超国家治理与循证教育中，跨国测评排位赛与新泰勒主义清单监控作为强有力的远处规训机制（disciplina），将教学活动窄化为数据合规，严重压制了教育的人文关系建构与批判性审议（doctrina）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 59
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -49,15 +49,12 @@ related_concepts:
   - "[[Variable]]"
   - "[[Learning Intentions]]"
   - "[[Discourse]]"
-  - "[[Global Universities Rankings]]"
-  - "[[Democratic Education]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Governing at a Distance]]"
   - "[[Panopticism]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Comparative Policy Analysis]]"
 related_persons:
   - "[[Ewald Terhart]]"
   - "[[Martin Carnoy]]"
@@ -85,7 +82,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

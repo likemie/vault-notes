@@ -7,10 +7,10 @@ summary: "英国爱丁堡大学欧洲与全球教育治理讲席教授，英国�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 35
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1976"
 lifespan: "1976–至今"
 tags:
@@ -23,24 +23,44 @@ tags:
   - theme/educational-governance
 related_concepts:
   - "[[Governing by Numbers]]"
-  - "[[Space of Equivalence]]"
+  - "[[State Educational Sovereignty]]"
   - "[[European Education Space]]"
-  - "[[Commensuration]]"
+  - "[[Paradigm]]"
+  - "[[Comparative Turn in Education Policy]]"
+  - "[[Research Translation]]"
+  - "[[Data Infrastructure]]"
+  - "[[Policy Borrowing]]"
+  - "[[Externalization]]"
+  - "[[Positivism]]"
   - "[[Mediatisation of Education Policy]]"
-related_theories: []
+  - "[[Global Educational Policy Field]]"
+  - "[[Policy Network]]"
+  - "[[Discursive Field]]"
+  - "[[Space of Equivalence]]"
+  - "[[Heterogeneity]]"
+  - "[[Commensuration]]"
+related_theories:
+  - "[[Governing by Inspection]]"
+  - "[[Human Capital Theory]]"
+  - "[[Historical Institutionalism]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Jenny Ozga]]"
+  - "[[Christian Ydesen]]"
   - "[[Bob Lingard]]"
   - "[[António Nóvoa]]"
   - "[[Kerstin Martens]]"
 related_facts:
+  - "[[The Royal Society]]"
   - "[[OECD]]"
   - "[[EU]]"
+  - "[[Comparative and International Education Society]]"
   - "[[Fabricating Quality in European Education]]"
-  - "[[Eurydice]]"
   - "[[PISA]]"
+  - "[[Engineering Research Centers]]"
+  - "[[European Commission]]"
+  - "[[Eurydice]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
@@ -52,7 +72,7 @@ updated: 2026-10-26
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国与希腊学者，爱丁堡大学社会与政治科学学院欧洲与全球教育治理讲席教授（Professor of European and Global Education Governance）、英国国家学术院院士（Fellow of the British Academy, FBA）、爱丁堡[[Royal Society|皇家学会]]院士（FRSE）。
+> - **身份位置** 英国与希腊学者，爱丁堡大学社会与政治科学学院欧洲与全球教育治理讲席教授（Professor of European and Global Education Governance）、英国国家学术院院士（Fellow of the British Academy, FBA）、爱丁堡[[The Royal Society|皇家学会]]院士（FRSE）。
 > - **核心角色** 当代欧洲教育政策社会学与跨国组织研究的核心开拓者之一；将批判社会学与治理研究结合，系统阐释了“以数治教”（[[Governing by Numbers]]）如何在欧洲与全球层面重构[[State Educational Sovereignty|国家教育主权]]。
 > - **代表贡献** 论证了[[OECD|经合组织]]与[[EU|欧盟]]在跨国指标生产中的制度共生，阐明跨国测评数据作为“政治技术”构建跨国等价空间与[[European Education Space|欧洲教育空间]]的传导路径。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23–25)]]
 

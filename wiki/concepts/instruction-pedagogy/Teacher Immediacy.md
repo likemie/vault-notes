@@ -9,7 +9,7 @@ aliases:
 summary: "指教师在教学互动中通过眼神接触、微笑、开放姿态、幽默与直呼姓名等言语与非言语行为，缩短师生间物理与心理距离并增进人际亲和感、情感认同与感知学习效果的教学沟通构念"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 26
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
-  - "[[Research Topic]]"
   - "[[Effective Teaching]]"
 related_theories:
   - "[[Feedback Intervention Theory]]"
@@ -46,7 +45,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Meta-meta-analysis]]"
   - "[[Prediction Interval]]"
-  - "[[Documentary Analysis]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -57,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 （教师即时性 / 教师亲和力）

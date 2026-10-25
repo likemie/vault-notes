@@ -8,7 +8,7 @@ aliases:
 summary: "以真实情境、劣构问题、角色扮演、情境模拟与宏观情境锚定为载体，引导学生在有意义的问题解决中建构知识与发展批判性思维的教学模式。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 25
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,8 +31,6 @@ related_concepts:
   - "[[Learning by Doing]]"
   - "[[Central Phenomenon]]"
   - "[[Heterogeneity]]"
-  - "[[Dialogue in Education]]"
-  - "[[Critical Thinking Disposition]]"
   - "[[Mentorship]]"
 related_theories:
   - "[[Situative Perspective]]"
@@ -40,7 +38,6 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Experimental Research]]"
 related_instruments: []
@@ -52,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

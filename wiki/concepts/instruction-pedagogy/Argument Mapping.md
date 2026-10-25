@@ -9,7 +9,7 @@ aliases:
 summary: "严格依循非形式逻辑语法将论辩推论链条（主张、理由、证据、反驳）进行空间树状或网络可视化的认知脚手架"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,7 +33,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Pairwise Wald Tests]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -78,7 +78,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 ---
 
@@ -111,9 +111,9 @@ updated: 2026-10-22
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与筛选**<br>[[Systematic Review\|Systematic Review]] & [[PRISMA]] | 在教育资源信息中心（Educational Resources Information Center, ERIC）、Education Source、Teacher Reference Center 及 Scopus 数据库中，检索 [[Research Utilization\|Research Use]]/evidence use 与中小学教育管理、教学改进等关键词；经过严格去重、标题摘要初筛与全文审查，最终纳入 34 篇聚焦基础教育学校引入外部科研成果的高质量英文学术文献。 |
-> | **综述综合方法**<br>[[Critical Review\|Critical Review]] | 采用批判性综述方法（Grant & Booth, 2009; Gough et al., 2012），不满足于简单的文献事实罗列，而是聚焦学术概念的发展脉络，深度剖析各研究在问题预设、实证设计和政策推论上的逻辑机制。 |
-> | **编码与多维分析**<br>[[Coding in Qualitative Research\|Coding in Qualitative Research]] | 首先提取发表年份、国别、学段、调查对象、研究设计等基本特征；接着针对核心概念的界定方式、线性与复杂维度、个体与情境取向，以及结论中的还原主义倾向进行深度的概念编码分析。 |
+> | **文献检索与筛选**<br>[[Systematic Review]] & [[PRISMA]] | 在教育资源信息中心（Educational Resources Information Center, ERIC）、Education Source、Teacher Reference Center 及 Scopus 数据库中，检索 [[Research Utilization\|Research Use]]/evidence use 与中小学教育管理、教学改进等关键词；经过严格去重、标题摘要初筛与全文审查，最终纳入 34 篇聚焦基础教育学校引入外部科研成果的高质量英文学术文献。 |
+> | **综述综合方法**<br>[[Critical Review]] | 采用批判性综述方法（Grant & Booth, 2009; Gough et al., 2012），不满足于简单的文献事实罗列，而是聚焦学术概念的发展脉络，深度剖析各研究在问题预设、实证设计和政策推论上的逻辑机制。 |
+> | **编码与多维分析**<br>[[Coding in Qualitative Research]] | 首先提取发表年份、国别、学段、调查对象、研究设计等基本特征；接着针对核心概念的界定方式、线性与复杂维度、个体与情境取向，以及结论中的还原主义倾向进行深度的概念编码分析。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

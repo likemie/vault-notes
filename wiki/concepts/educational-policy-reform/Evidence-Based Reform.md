@@ -6,7 +6,7 @@ aliases:
 summary: "以严格实验研究有效性证据作为选择教育项目和产品核心标准的政策治理框架，强调已验证项目存量、独立证据审查与政府财政激励三者的联动循环"
 type: concept
 domain: "educational-policy-reform"
-related_count: 83
+related_count: 85
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -82,7 +82,9 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EU]]"
   - "[[Pact for Educational Excellence]]"
+  - "[[United States Department of Education]]"
   - "[[National Diffusion Network]]"
+  - "[[United States Congress]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[American Educational Research Association]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
@@ -110,7 +112,7 @@ related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
 status: draft
 created: '2026-05-01'
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

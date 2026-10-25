@@ -11,9 +11,9 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: government-agency
 headquarters: "Beijing, China"
@@ -23,13 +23,23 @@ tags:
   - theme/educational-governance
   - theme/international-education
   - theme/curriculum-reform
-related_concepts: []
+related_concepts:
+  - "[[Quality Education]]"
+  - "[[International Branch Campus]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[China Basic Education Curriculum Reform]]"
+  - "[[Belt and Road Initiative]]"
+  - "[[Belt and Road Education Action Plan]]"
+  - "[[Forum on China-Africa Cooperation]]"
+  - "[[China Scholarship Council]]"
+related_arguments:
+  - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Ryan_2010_ChineseLearner]]"
+  - "[[Argument_King_2020_ECNUROE]]"
 confidence: medium
 status: draft
 created: 2026-10-26

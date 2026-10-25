@@ -9,7 +9,7 @@ aliases:
 summary: "从国际学校共同资格发展而来的跨国课程与质量保障体系，通过课程核心、考试评价、区域支持和公共治理协调共同标准与地方实施。"
 type: concept
 domain: "curriculum"
-related_count: 56
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Knowledge Questions]]"
   - "[[Open-Mindedness]]"
-  - "[[Dependent Variable]]"
   - "[[Variable]]"
   - "[[International Education]]"
 related_theories:
@@ -47,7 +46,6 @@ related_theories:
 related_methods:
   - "[[Fieldwork]]"
   - "[[Random Sampling]]"
-  - "[[Effect Size]]"
 related_instruments:
   - "[[Critical Thinking Strategies Scale]]"
   - "[[California Critical Thinking Disposition Inventory]]"
@@ -82,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

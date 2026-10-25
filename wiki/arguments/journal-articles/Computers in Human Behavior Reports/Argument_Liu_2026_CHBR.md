@@ -110,7 +110,7 @@ tags:
   - method/meta-analysis
   - method/quantitative
 created: 2026-08-25
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 ---
 
@@ -133,7 +133,7 @@ updated: 2026-10-23
 > | **维果茨基最近发展区与支架理论**<br>[[Zone of Proximal Development\|Vygotskian Scaffolding & ZPD]] | 提供技术中介的[[Epistemology\|认识论]]基础。AI [[AI Agent in Education\|智能体]]作为动态脚手架，通过自适应评估感知学习者的最近发展区（Zone of Proximal Development, ZPD），提供即时矫正反馈与个性化线索，助力学生完成独立无法达成的认知任务。 |
 > | **皮亚杰认知发展阶段理论**<br>[[Piaget's Theory of Cognitive Development\|Piaget's Developmental Stages]] | 解释学段调节效应的发展心理学机制。高小学段正处于从具体运算向形式运算过渡的关键窗口，对自适应抽象逻辑支架最为敏感，获益最为突出（$g = 0.877$）。 |
 > | **布鲁姆认知领域目标分类学**<br>[[Bloom's Taxonomy\|Bloom's Revised Taxonomy]] | 提供[[Dependent Variable\|因变量]]分类标准，将认知成果[[Operationalization\|操作化]]为知识类（事实再认与概念识记）、技能类（程序练习与问题解决应用）与[[Higher-Order Thinking Skills\|高阶思维]]（[[Critical Thinking\|批判性思维]]、分析推理与发散创造）。 |
-> | **认知负荷理论**<br>[[Cognitive Load Theory\|Cognitive Load Theory]] | 解释 AI 智能体如何通过分步提示与自适应信息呈现减轻外在认知负荷，释放[[Working Memory\|工作记忆]]以专注于图式建构与核心解题技能演练。 |
+> | **认知负荷理论**<br>[[Cognitive Load Theory]] | 解释 AI 智能体如何通过分步提示与自适应信息呈现减轻外在认知负荷，释放[[Working Memory\|工作记忆]]以专注于图式建构与核心解题技能演练。 |
 > | **建构主义学习框架**<br>[[Cognitive Constructivism\|Constructivist Learning Framework]] | 强调学习是学习者在交互中主动建构意义的过程。AI 智能体提供多模态交互环境与探究空间，支持反思与策略演练。 |
 
 > [!warrant]- 理论如何支撑论证

@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -40,6 +40,7 @@ related_persons:
 related_facts:
   - "[[Office of Scientific Research and Development]]"
   - "[[Department of Energy]]"
+  - "[[Department of Defense]]"
   - "[[National Science Foundation]]"
   - "[[Manhattan Project]]"
   - "[[CHIPS and Science Act]]"
@@ -48,6 +49,7 @@ related_facts:
   - "[[Natcast]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[Department of Commerce]]"
   - "[[President's Science Advisory Committee]]"
   - "[[MIT Radiation Laboratory]]"
 related_arguments:

@@ -7,7 +7,7 @@ aliases:
 summary: "由 Eric Schickler 创立的政治制度演进与立法机构发展理论，批判传统制度主义将制度视为连贯理性的宏观蓝图，主张制度是由不同历史时期相互竞争的多元利益主体在既有结构之上层叠新安排而形成的脱节、张力且非统一设计的杂合体，构成了凯瑟琳·希伦制度层叠概念的原初理论母体。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 22
+theory_related_count: 24
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Research Question]]"
   - "[[Institutional Displacement]]"
+  - "[[Institutional Conversion]]"
   - "[[Rule Ambiguity]]"
   - "[[Paradigm]]"
 related_theories:
@@ -41,6 +42,7 @@ related_persons:
   - "[[Rainer Kattel]]"
   - "[[James Mahoney]]"
 related_facts:
+  - "[[United States Congress]]"
   - "[[Education Resources Information Center]]"
 related_arguments:
   - "[[Argument_VanDerHeijden_2011_Politics]]"

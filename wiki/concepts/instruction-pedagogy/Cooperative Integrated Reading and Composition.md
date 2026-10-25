@@ -8,7 +8,7 @@ aliases:
 summary: "由 Stevens et al.（1987）开发的综合性语言与读写合作学习模式。该技术将教师主导的阅读理解策略精讲与异质性同伴配对朗读、词汇协商、故事语法图解、同伴互评修改及故事续写系统整合，是合作学习中干预效应最为突出的技术模式（ES = 2.04）。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,7 +35,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
 related_instruments: []
 related_persons:
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

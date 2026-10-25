@@ -59,6 +59,7 @@ related_persons:
   - "[[Christopher Martin]]"
   - "[[Paulo Freire]]"
   - "[[Michael W. Apple]]"
+  - "[[James C. Scott]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -73,7 +74,7 @@ title: "Argument_Smith_2026_SPE"
 argument_key: "Argument_Smith_2026_SPE"
 argument_display_title: "Generative artificial intelligence, formative epistemic injustice, and educators’ solutions"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -118,7 +119,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **教育哲学概念分析与隐喻重构**<br>[[Philosophical Analysis in Education\|Philosophical Analysis in Education]] | 深度对比字词计算器与雇佣私厨两种技术隐喻的[[Epistemology\|认识论]]预设，厘清分配正义、诠释正义与成长性认识正义在读写教育中的范畴分野。 |
+> | **教育哲学概念分析与隐喻重构**<br>[[Philosophical Analysis in Education]] | 深度对比字词计算器与雇佣私厨两种技术隐喻的[[Epistemology\|认识论]]预设，厘清分配正义、诠释正义与成长性认识正义在读写教育中的范畴分野。 |
 > | **概念扩展与三重判据建模**<br>Conceptual Modeling & Test Formulation | 综合 [[Christopher Martin\|Martin (2018)]] 关于民主实践权能与 Nikolaidis (2021) 关于[[Epistemic Malformation\|认知畸变]]（Malformation）的论述，抽象出判别[[Formative Epistemic Injustice\|成长性认识不正义]]的三重[[Operationalization\|操作化]]检验标准（知识传递、技能实践、[[Reliability\|信度]]匹配）。 |
 > | **跨学科证据整合与写作学工序映射**<br>Interdisciplinary Synthesis & Writing Task Mapping | 对应写作学的经典实证研究（如 Piolat & Roussey 1996 提纲效应、Nielsen 2021 自我评估效应、Marzuki et al. 2023 词汇虚高观察），逐一解构灵感生成、提纲组织与反思修改的认知加工机制。 |
 

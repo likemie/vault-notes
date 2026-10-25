@@ -12,7 +12,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ tags:
   - comparative-education
 related_concepts:
   - "[[Self-Cultivation]]"
+  - "[[Study Abroad]]"
   - "[[Champ]]"
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"

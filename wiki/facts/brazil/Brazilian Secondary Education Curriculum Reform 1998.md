@@ -14,9 +14,9 @@ subtype: policy
 region: brazil
 fact_region: "brazil"
 fact_kind: "policy"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 31
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 issuing_organization: "Conselho Nacional de Educação (CNE) / Ministério da Educação (MEC)"
 tags:
@@ -29,16 +29,29 @@ tags:
   - level/k12
 related_concepts:
   - "[[Encyclopaedic Definition of Knowledge]]"
+  - "[[Rote Learning]]"
   - "[[Discourse]]"
+  - "[[Areas of Knowledge]]"
   - "[[Creativity]]"
+  - "[[Lifelong Learning]]"
   - "[[Problem Solving]]"
   - "[[Geisteswissenschaften]]"
+  - "[[Floating Signifier]]"
+  - "[[Policy Mobility]]"
   - "[[Governance by Spin]]"
+  - "[[Competitiveness]]"
+  - "[[Further Education]]"
+  - "[[Epistemology]]"
+  - "[[Falsification]]"
+  - "[[Technical Rationality]]"
+  - "[[Space of Flows]]"
+  - "[[Space of Places]]"
+  - "[[Habitus]]"
   - "[[Recontextualization]]"
   - "[[Shape-Shifting]]"
-  - "[[Floating Signifier]]"
   - "[[Educational Decentralization]]"
   - "[[School Autonomy]]"
+  - "[[Global Educational Discourse]]"
 related_theories:
   - "[[Beech's Model of Discourse Circulation]]"
 related_persons:

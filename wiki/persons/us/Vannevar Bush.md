@@ -7,7 +7,7 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 68
+person_related_count: 69
 person_related_level: 6
 person_related_stars: "💎💎"
 person_related_color: "#fef3c7"
@@ -75,6 +75,7 @@ related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
   - "[[Manhattan Project]]"
+  - "[[United States Congress]]"
   - "[[Bell Labs]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[SBIR and STTR Programs]]"

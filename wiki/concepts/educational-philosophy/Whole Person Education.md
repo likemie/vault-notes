@@ -8,13 +8,14 @@ aliases:
 summary: "一种协调理解、行动与享受能力的完整发展理念，把智识学习与社会、道德、审美、身体和精神经验纳入共同教育目标。"
 type: concept
 domain: "educational-philosophy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 tags: [theme/whole-person-education, theme/educational-aims, level/upper-secondary]
 related_concepts:
   - "[[International Baccalaureate]]"
+  - "[[Extracurricular Activities]]"
   - "[[General Education]]"
   - "[[Creativity, Action, Service]]"
   - "[[Theory of Knowledge]]"
@@ -168,7 +169,7 @@ updated: 2026-10-26
 大学录取与中学教师的学术经历，会共同影响何种能力被视为值得培养。
 
 > [!claim] Peterson, A. D. C.
-> **正确理解必须能够进入行动，才能回应完整的人类能力** 能力教育（Education for Capability）的论述承认获得与运用知识、发展一般心智能力及科学与人文学术卓越的价值，但把正确认识问题视为必要而不充分的条件：知识要产生实际作用，还需要用于行动。托比·韦弗（Toby Weaver）在1981年伦敦皇家艺术学会（[[Royal Society]] of Arts）的系列研讨会导言中，据此批评学校与高等教育主要围绕少数未来学者和教师组织选拔、训练与考试，把操作符号和验证命题的能力暗含为人的唯一卓越标准。全人教育由此需要保留学术严谨性，同时审查行动、意志、道德与审美能力是否获得发展机会；这段引述提供教育目的的辩护，没有报告相应干预的成效。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 200–201)]]
+> **正确理解必须能够进入行动，才能回应完整的人类能力** 能力教育（Education for Capability）的论述承认获得与运用知识、发展一般心智能力及科学与人文学术卓越的价值，但把正确认识问题视为必要而不充分的条件：知识要产生实际作用，还需要用于行动。托比·韦弗（Toby Weaver）在1981年伦敦皇家艺术学会（Royal Society of Arts）的系列研讨会导言中，据此批评学校与高等教育主要围绕少数未来学者和教师组织选拔、训练与考试，把操作符号和验证命题的能力暗含为人的唯一卓越标准。全人教育由此需要保留学术严谨性，同时审查行动、意志、道德与审美能力是否获得发展机会；这段引述提供教育目的的辩护，没有报告相应干预的成效。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 200–201)]]
 
 上述目的分歧会通过大学选拔和中学教师的教学取向进入课程。
 

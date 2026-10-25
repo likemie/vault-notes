@@ -7,7 +7,7 @@ summary: "美国政策与社会研究学者，研究利用（research utilizatio
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -36,7 +36,8 @@ related_methods:
   - "[[Framework Synthesis]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[United States Congress]]"
 related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Serpell_2020_EducPsychol]]"

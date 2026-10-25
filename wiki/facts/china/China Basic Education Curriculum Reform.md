@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Action Research]]"
 related_persons: []
 related_facts:
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Gaokao]]"
 related_arguments:
   - "[[Argument_Ryan_2010_ChineseLearner]]"

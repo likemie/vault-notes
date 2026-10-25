@@ -11,9 +11,9 @@ subtype: program
 region: "china"
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 19
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2015–至今"
 initiator_organization: "中华人民共和国商务部"
@@ -23,6 +23,30 @@ tags:
   - theme/higher-education
   - theme/educational-aid
   - theme/south-south-cooperation
+related_concepts:
+  - "[[South-South Cooperation]]"
+  - "[[Public Diplomacy]]"
+  - "[[Soft Power]]"
+  - "[[Construct]]"
+  - "[[Research Universities]]"
+  - "[[Mutual Learning]]"
+  - "[[Paradigm]]"
+  - "[[Geopolitics]]"
+  - "[[Educational Soft Power]]"
+  - "[[Beijing Consensus]]"
+related_methods:
+  - "[[Fieldwork]]"
+related_persons:
+  - "[[Rui Yang]]"
+related_facts:
+  - "[[Belt and Road Initiative]]"
+  - "[[Institute of South-South Cooperation and Development]]"
+  - "[[Skills Toward Employment and Productivity]]"
+  - "[[Silk Road Scholarship]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
+related_arguments:
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
+  - "[[Argument_King_2020_ECNUROE]]"
 confidence: high
 status: draft
 created: 2026-10-26

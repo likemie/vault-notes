@@ -9,9 +9,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1997–至今"
 initiator_organization: "华盛顿大学（University of Washington）"
@@ -24,6 +24,9 @@ tags:
   - essa-strong
   - region/us
 related_concepts:
+  - "[[Tutoring Interventions]]"
+  - "[[Phonemic Awareness]]"
+  - "[[Phonological Awareness]]"
   - "[[Decodification]]"
   - "[[Direct Instruction]]"
   - "[[Implementation Fidelity]]"
@@ -40,6 +43,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[Institute of Education Sciences]]"
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"

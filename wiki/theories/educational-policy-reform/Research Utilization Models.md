@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -215,7 +215,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 发展脉络
-> - **1979 — 经典奠基** [[Carol Weiss\|Carol Weiss]] 发表标志性论文 *The Many Meanings of [[Research Utilization]]*，系统提出知识驱动、[[Problem Solving\|问题解决]]、互动、政治、战术、启蒙及社会智识事业 7 种经典模型，打破[[Technical Rationality\|技术理性]]垄断。
+> - **1979 — 经典奠基** [[Carol Weiss]] 发表标志性论文 *The Many Meanings of [[Research Utilization]]*，系统提出知识驱动、[[Problem Solving\|问题解决]]、互动、政治、战术、启蒙及社会智识事业 7 种经典模型，打破[[Technical Rationality\|技术理性]]垄断。
 > - **1980 — 机制深化** Weiss 发表 *Knowledge Creep and Decision Accretion*，正式提出“知识渗透”与“决策累积”概念，为[[Conceptual, Instrumental, and Symbolic Use of Research\|概念性使用]]奠定微观认知与社会学机制解释。
 > - **1982 — 类型学提炼** Beyer & Trice 在组织研究中进一步将纷繁的利用形态凝练为**工具性（Instrumental）**、**概念性（Conceptual）** 与**象征性（Symbolic）** 三元分类，成为后续实证研究最通用的[[Operationalization\|操作化]]工具。
 > - **1991 — 过程模型重构** Weiss 在公共政策研究中提炼出研发、问题解决、互动与战术四类政策过程模型（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|Cohen et al., 2011, p. 43]]）。

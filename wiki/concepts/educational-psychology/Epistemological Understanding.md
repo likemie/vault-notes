@@ -9,10 +9,10 @@ aliases:
 summary: "个体对认知的主观维度与客观维度的协调能力，以及对认识论理想与可靠认识过程之规范合理性与边界条件的元认知理解。"
 type: concept
 domain: "educational-psychology"
-related_count: 31
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/epistemology
   - theme/cognitive-development
@@ -37,14 +37,11 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Operationalization]]"
   - "[[Epistemic Resources]]"
-  - "[[Variable]]"
-  - "[[Independent Variable]]"
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
 related_instruments:
   - "[[Epistemological Understanding Assessment]]"
@@ -59,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-16
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

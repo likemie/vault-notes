@@ -10,7 +10,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_theories:
   - "[[Bacchi's WPR Approach]]"
 related_methods: []
 related_persons:
+  - "[[James C. Scott]]"
   - "[[John Sweller]]"
 related_facts:
   - "[[Teacher Education Ministerial Advisory Group]]"

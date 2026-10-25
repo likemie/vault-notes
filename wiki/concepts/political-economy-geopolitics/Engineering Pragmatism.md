@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -83,7 +83,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 工程[[Pragmatic Paradigm|实用主义]]与相关理念辨析
-> | 维度 | 工程实用主义（Engineering Pragmatism） | 哲学与方法论实用主义（[[Pragmatic Paradigm\|Pragmatic Paradigm]]） | 科学非道德论（[[Percy Williams Bridgman\|Amoralism]]） |
+> | 维度 | 工程实用主义（Engineering Pragmatism） | 哲学与方法论实用主义（[[Pragmatic Paradigm]]） | 科学非道德论（[[Percy Williams Bridgman\|Amoralism]]） |
 > |:---|:---|:---|:---|
 > | **实践[[Champ\|场域]]** | 国家重大科技工程、国防防务与前沿 AI 研发 | 哲学[[Epistemology\|认识论]]、社会科学与教育[[Mixed Methods Research\|混合方法研究]] | 基础自然科学探索与实验室事实发现 |
 > | **核心驱动** | 行动偏好、技术可行性（Technical Feasibility）与实战交付 | [[Research Question\|研究问题]]驱动、[[Fitness for Purpose\|适合目的]]（Fitness for Purpose）与多元折中 | 揭示自然规律与事实，追求客观认知 |

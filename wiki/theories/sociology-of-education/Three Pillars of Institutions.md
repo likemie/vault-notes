@@ -9,7 +9,7 @@ aliases:
 summary: "社会学新制度主义学者理查德·斯科特（W. Richard Scott）于1995年提出的宏观分析框架，将制度界定为由规制性（Regulative）、规范性（Normative）与文化-认知性（Cultural-Cognitive）构成的复合连续体；该理论系统阐释了不同维度的合规基础、机制载体与合法性形态，不仅解释了组织形式的趋同与制度脱耦，更为解构国际组织如何从强制贷款转向以科学分类与认知常识为中介的认知治理（Epistemic Governance）提供了核心理论透镜。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 9
+theory_related_count: 1
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -19,23 +19,15 @@ tags:
   - theme/organizational-analysis
   - theme/global-governance
   - field/educational-governance
-related_concepts:
-  - "[[Epistemic Governance]]"
-  - "[[Cognitive Authority]]"
-  - "[[Policy Conditionalities]]"
-  - "[[Peer Pressure]]"
-  - "[[World Society Theory]]"
-related_theories:
-  - "[[World Society Theory]]"
-  - "[[Educational Governance Framework]]"
-related_methods:
-  - "[[Analytic Framework]]"
+related_concepts: []
+related_theories: []
+related_methods: []
 related_arguments:
   - "[[Argument_Zapp_2017_IJED]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

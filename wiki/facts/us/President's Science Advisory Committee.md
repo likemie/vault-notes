@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Scale Enlargement]]"
   - "[[Indirect Costs of Research]]"
   - "[[Big Science]]"
+  - "[[Cognitive Authority]]"
   - "[[Paradigm]]"
   - "[[Disciplina and Doctrina]]"
 related_theories:
@@ -41,6 +42,7 @@ related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[Seaborg Report 1960]]"
+  - "[[Department of Defense]]"
   - "[[Federally Funded Research and Development Centers]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[Office of Scientific Research and Development]]"

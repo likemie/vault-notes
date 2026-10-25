@@ -32,6 +32,8 @@ related_concepts:
   - "[[Aidland]]"
   - "[[Champ]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Academic-Administrator Entrepreneurs]]"
+  - "[[Mutual Learning]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Conditional Cash Transfers]]"
   - "[[Knowledge Mediation]]"
@@ -43,6 +45,7 @@ related_concepts:
   - "[[Knowledge Power]]"
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
+  - "[[Liberation Theology]]"
   - "[[Conscientization]]"
   - "[[Critical Pedagogy]]"
   - "[[Knowledge Transfer]]"
@@ -57,6 +60,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Participatory Budgeting]]"
+  - "[[Chicago Boys]]"
   - "[[World Bank]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[World Social Forum]]"
@@ -67,16 +71,16 @@ sources:
 part_of: ''
 status: draft
 created: 2026-10-23
-updated: 2026-10-25
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Stone_2020_PolSoc"
 argument_key: "Argument_Stone_2020_PolSoc"
 argument_display_title: "Transnational policy transfer: The circulation of ideas, power and development models"
 argument_kind: "journal-article"
-argument_related_count: 36
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: Policy and Society
 ---

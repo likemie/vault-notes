@@ -6,9 +6,9 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 121
-related_level: 12
-related_stars: "💎💎💎💎"
+related_count: 118
+related_level: 11
+related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/critical-thinking
@@ -70,11 +70,9 @@ related_concepts:
   - "[[Critical Thinking Disposition]]"
   - "[[Jigsaw]]"
   - "[[Immersion Approach]]"
-  - "[[Direct Instruction]]"
-  - "[[Problem-Based Learning]]"
   - "[[Reflexivity]]"
   - "[[Common Method Variance]]"
-  - "[[Cooperative Integrated Reading and Composition]]"
+  - "[[Problem-Based Learning]]"
   - "[[Evaluativist]]"
   - "[[Multiplist]]"
   - "[[IB Diploma Programme]]"
@@ -96,14 +94,13 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Longitudinal Study]]"
   - "[[Triangulation]]"
-  - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Random-Effects Model]]"
   - "[[Questionnaire]]"
   - "[[Qualitative Interview]]"
   - "[[Multimodal Discourse Analysis]]"
   - "[[Experimental Research]]"
+  - "[[Effect Size]]"
   - "[[Content Analysis]]"
 related_persons:
   - "[[Steve Higgins]]"
@@ -146,7 +143,7 @@ related_instruments:
 confidence: medium
 status: stable
 created: 2026-06-30
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Critical Thinking

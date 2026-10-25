@@ -10,7 +10,7 @@ aliases:
 summary: "有机结合面对面实体课堂教学与数字化在线学习环境的教学模式，通过整合物理临场交互、异步自主探究与自适应智能支架，重构学习时空并促进深层理解与高阶思维发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -51,11 +51,10 @@ related_arguments:
 related_methods:
   - "[[Statistical Significance]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Blended Learning

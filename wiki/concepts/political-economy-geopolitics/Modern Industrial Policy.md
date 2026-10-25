@@ -9,10 +9,10 @@ aliases:
 summary: "现代产业政策区别于20世纪以纠正市场失灵与追求经济效率为单一导向的传统产业政策；它深度交织了国家安全、地缘政治对抗、供应链韧性与去风险目标，综合运用巨额直接补贴、前置研发资助、投资审查、单边及多边出口管制、友岸外包、制度化附加条件与战略矿产反制等全方位政策工具包。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 57
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - political-economy-geopolitics
   - industrial-policy
@@ -59,11 +59,14 @@ related_facts:
   - "[[National Advanced Packaging Manufacturing Program]]"
   - "[[National Science Foundation]]"
   - "[[Subcommittee on Microelectronics Leadership]]"
+  - "[[Department of Defense]]"
   - "[[Department of Energy]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[DARPA]]"
   - "[[Embedded Entrepreneurship Initiative]]"
   - "[[AFVentures]]"
   - "[[SBIR and STTR Programs]]"
+  - "[[European Commission]]"
   - "[[Important Projects of Common European Interest]]"
   - "[[Natcast]]"
   - "[[National Nanotechnology Coordinated Infrastructure]]"
@@ -86,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

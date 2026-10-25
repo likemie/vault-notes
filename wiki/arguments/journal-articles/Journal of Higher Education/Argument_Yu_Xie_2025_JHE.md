@@ -86,10 +86,12 @@ related_facts:
   - "[[Southeast Asian Higher Education Common Space]]"
   - "[[Fulbright Program]]"
   - "[[EU]]"
+  - "[[Xiamen University Malaysia]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[Belt and Road Initiative]]"
   - "[[Asian Universities Alliance]]"
   - "[[University Alliance of the Silk Road]]"
+  - "[[European Commission]]"
 related_arguments: []
 sources:
   - "[[sources/Yu_Xie_2025_JHE|Yu_Xie_2025_JHE]]"
@@ -103,9 +105,9 @@ title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 69
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 71
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: "高等教育研究"
 ---

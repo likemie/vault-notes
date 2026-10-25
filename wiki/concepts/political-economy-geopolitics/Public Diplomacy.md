@@ -8,7 +8,7 @@ aliases:
 summary: "主权国家超越政府间传统渠道直接沟通与影响外国公众的战略实践；涵盖经济纽带、社会纽带与网络纽带的三维架构，揭示资金与机构扩张面临的权力转化困境及精英与大众认同分流。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,10 +18,18 @@ tags:
   - theme/soft-power
   - theme/geopolitics
   - theme/international-relations
+related_concepts:
+  - "[[Cultural Diplomacy]]"
+related_persons:
+  - "[[Joseph S. Nye Jr.]]"
+related_arguments:
+  - "[[Argument_Custer_2021_AidData]]"
+  - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

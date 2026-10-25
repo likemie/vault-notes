@@ -8,7 +8,7 @@ aliases:
 summary: "在信息过载与教育决策多重不确定性背景下，跨国组织、智库或国家官方扶植机构通过筛选、转译和打包研究证据以施展软治理或服务政策落地的政治化机制。"
 type: concept
 domain: "comparative-education"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -35,11 +35,11 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Fast and Slow Lanes Model]]"
   - "[[Surplus of Evidence]]"
+  - "[[Policy Ambassador]]"
   - "[[Epistemic Governance]]"
   - "[[Gatekeepers]]"
   - "[[Rationalized Myth]]"
   - "[[Policy-Based Evidence-Making]]"
-  - "[[Policy Ambassador]]"
   - "[[Conditional Cash Transfers]]"
   - "[[Going Native]]"
   - "[[Research Utilization]]"
@@ -77,11 +77,12 @@ related_facts:
   - "[[Chartered College of Teaching]]"
   - "[[Teaching Schools]]"
   - "[[Carter Review of Initial Teacher Training]]"
+  - "[[Department for Education]]"
   - "[[Participatory Budgeting]]"
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

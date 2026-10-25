@@ -8,7 +8,7 @@ aliases:
 summary: "朱俊成与杨锐于2025年提出的对外高等教育输出分析概念。指主权国家超越古代基于文化优越感单向灌输的文化同化预设，通过在课程设置、高阶研修与跨国办学中系统传授当代国家发展治理经验与现代化成就，谋求国际社会特别是全球南方精英对自身发展道路、制度模式与价值观念的理性理解与实质承认。"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,8 +31,6 @@ related_theories:
 related_methods:
   - "[[Fieldwork]]"
   - "[[Effect Size]]"
-  - "[[In-depth Interview]]"
-  - "[[Case Study]]"
 related_instruments: []
 related_persons:
   - "[[John King Fairbank]]"
@@ -44,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

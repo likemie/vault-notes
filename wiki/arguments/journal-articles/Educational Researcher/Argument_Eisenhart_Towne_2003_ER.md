@@ -30,6 +30,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Epistemic Stances]]"
   - "[[Epistemology]]"
+  - "[[Reading Programs]]"
   - "[[Knowledge Production]]"
   - "[[Research Question]]"
   - "[[Empiricism]]"
@@ -41,8 +42,8 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Process Tracing]]"
-  - "[[Randomised Controlled Trials]]"
   - "[[Experimental Research]]"
+  - "[[Randomised Controlled Trials]]"
   - "[[Action Research]]"
   - "[[Qualitative Research]]"
   - "[[Quasi-Experimental Designs]]"
@@ -67,6 +68,7 @@ related_facts:
   - "[[National Reading Panel]]"
   - "[[Higher Education Act of 1965]]"
   - "[[Office of Educational Research and Improvement]]"
+  - "[[United States Department of Education]]"
   - "[[American Educational Research Association]]"
   - "[[National Education]]"
 related_arguments:
@@ -83,7 +85,7 @@ title: "Argument_Eisenhart_Towne_2003_ER"
 argument_key: "Argument_Eisenhart_Towne_2003_ER"
 argument_display_title: "Contestation and change in national policy on \\\"scientifically based\\\" education research"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -111,7 +113,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Postpositivism\|后实证主义科学观]]**<br>[[Postpositivism\|Postpositivism]] | SRE 委员会秉持的核心[[Epistemic Stances\|认识论立场]]，主张科学探究不等于物理学模式的逻辑[[Positivism\|实证主义]]，而是遵循共同的严谨探究原则，包容质性与量化混合设计。 |
+> | **[[Postpositivism\|后实证主义科学观]]**<br>[[Postpositivism]] | SRE 委员会秉持的核心[[Epistemic Stances\|认识论立场]]，主张科学探究不等于物理学模式的逻辑[[Positivism\|实证主义]]，而是遵循共同的严谨探究原则，包容质性与量化混合设计。 |
 > | **制度功能二元区隔** | 区分规约服务提供者经费支出的采购标准与界定联邦科研机构资助范围的探究标准，解释不同政策文本中定义差异的制度根源。 |
 > | **公共审议杠杆假说** | 解释学术共同体如何依托专业声誉、国会质证与公开咨询机制，将外部专业主张转化为立法修正与规程放宽的政策变迁力量。 |
 

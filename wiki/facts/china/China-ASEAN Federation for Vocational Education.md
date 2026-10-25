@@ -10,7 +10,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 0
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -26,17 +26,24 @@ tags:
   - region/china
   - region/southeast-asia
   - level/international
-related_concepts: []
+related_concepts:
+  - "[[Internationalization of Vocational Education]]"
+  - "[[Industry-Education Integration Community]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[China-ASEAN Education Cooperation Week]]"
+  - "[[Luban Workshop]]"
+  - "[[ASEAN]]"
+  - "[[Belt and Road Initiative]]"
+related_arguments:
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

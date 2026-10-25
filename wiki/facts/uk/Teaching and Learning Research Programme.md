@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Economic and Social Research Council]]"
   - "[[Higher Education Funding Council for England]]"
   - "[[The Importance of Teaching]]"
   - "[[Education Endowment Foundation]]"

@@ -1,11 +1,13 @@
 ---
 title: W. H. G. Armytage
 type: person
+related_arguments:
+  - "[[Argument_Rust_2009_Reflections]]"
 status: stable
 created: 2026-10-01
 nationality: uk
 person_region: "uk"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -36,7 +38,7 @@ related_methods: []
 related_facts:
   - "[[Sputnik Shock 1957]]"
 related_persons: []
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!abstract] 学者生平

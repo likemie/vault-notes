@@ -10,7 +10,7 @@ aliases:
 summary: "国际组织软治理的双重基础运行模式之一，指超国家机构在缺乏强制性法权时，通过跨国大样本数据收集、标准化测量指标开发与因果解释加工，将未经处理的原始事实转化为实质性知识，从而夺取对特定政策领域“核心问题与危机何在”的排他性定义权"
 type: concept
 domain: "comparative-education"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,8 @@ tags:
   - theme/global-governance
   - theme/oecd
   - theme/governing-by-numbers
-related_concepts: []
+related_concepts:
+  - "[[Meditative Mode of Governance]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods: []
@@ -33,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

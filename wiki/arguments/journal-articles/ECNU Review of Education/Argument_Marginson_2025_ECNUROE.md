@@ -9,7 +9,7 @@ title: "Argument_Marginson_2025_ECNUROE"
 argument_key: "Argument_Marginson_2025_ECNUROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Avatar]]"
   - "[[Methodological Nationalism]]"
   - "[[Double Spatiality of Universities]]"
+  - "[[Religious Schools]]"
   - "[[Definition of Terms]]"
   - "[[Classical Geopolitics]]"
   - "[[Falsification]]"
@@ -65,6 +66,7 @@ related_facts:
   - "[[Singapore Education Hub Policy]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[EU]]"
+  - "[[HM Treasury]]"
 related_arguments: []
 sources:
   - "[[sources/Marginson_2025_ECNUROE|Marginson_2025_ECNUROE]]"

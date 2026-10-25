@@ -28,6 +28,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[IB Diploma Programme]]"
   - "[[Epistemology]]"
+  - "[[Teacher Expectations]]"
   - "[[Teacher Beliefs]]"
   - "[[IB Learner Profile]]"
   - "[[Operationalization]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Knowledge Framework]]"
   - "[[Homework]]"
+  - "[[Collaborative Learning]]"
   - "[[Cooperative Learning]]"
 related_theories: []
 related_methods:
@@ -76,9 +78,9 @@ title: "Argument_Bergeron_2015_TeachingTOK"
 argument_key: "Argument_Bergeron_2015_TeachingTOK"
 argument_display_title: "Teaching the Theory of Knowledge course in IB World Schools"
 argument_kind: "report"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 41
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dcfce7"
 journal: ""
 book_title: ""

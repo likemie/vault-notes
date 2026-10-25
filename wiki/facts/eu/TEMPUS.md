@@ -11,7 +11,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Employability]]"
   - "[[Social Imaginary]]"
+  - "[[Mutual Learning]]"
   - "[[Student Mobility]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge Transfer]]"
@@ -49,6 +50,7 @@ related_persons:
 related_facts:
   - "[[EU]]"
   - "[[Erasmus Programme]]"
+  - "[[European Commission]]"
   - "[[Bologna Process]]"
   - "[[European Standards and Guidelines]]"
   - "[[Tuning Project]]"
@@ -124,7 +126,7 @@ graph TD
 >
 > > [!axis] 精英流动自由 vs 申根边界排斥（Enclave Mobility vs Border Abjection）
 > > - **流动性赞赏视角** 欧盟政策[[Discourse|话语]]将 TEMPUS 资助的高等教育师生跨国流动，颂扬为培育开放包容、面向未来的欧洲公民资格典范。
-> > - **空间社会学批判（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）** 空间[[Governmentality|治理术]]视角揭示出严峻的阶层悖论：TEMPUS 资助的跨国流动仅属于伙伴国内部极少数具备外语资本与社会声望的高校精英阶层；对于伙伴国的绝大多数底层劳工、流动人口与边缘学童而言，欧盟森严的申根签证壁垒与边境管控技术构筑了一堵坚不可摧的“欧洲堡垒”（Fortress Europe）物理围墙，生动折射出全球化下流动性（Mobility）与定居性（[[Sedentarism|Sedentarism]]）被阶层化切分的治理面孔。
+> > - **空间社会学批判（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）** 空间[[Governmentality|治理术]]视角揭示出严峻的阶层悖论：TEMPUS 资助的跨国流动仅属于伙伴国内部极少数具备外语资本与社会声望的高校精英阶层；对于伙伴国的绝大多数底层劳工、流动人口与边缘学童而言，欧盟森严的申根签证壁垒与边境管控技术构筑了一堵坚不可摧的“欧洲堡垒”（Fortress Europe）物理围墙，生动折射出全球化下流动性（Mobility）与定居性（[[Sedentarism]]）被阶层化切分的治理面孔。
 
 ---
 

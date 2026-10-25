@@ -8,9 +8,9 @@ aliases:
 summary: "运用系统策略与数据库工具从多元渠道定位、筛选和获取相关研究文献的操作性环节（Creswell & Creswell, 2022; Cohen et al., 2011）；服务于理论框架构建与信效度奠基，在大规模系统综述中其语言与数据库检索覆盖边界直接限定实证证据的外部效度（Verger et al., 2019）。"
 type: concept
 domain: "research-methodology"
-related_count: 69
-related_level: 6
-related_stars: "💎💎"
+related_count: 73
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - source/textbook
@@ -68,6 +68,7 @@ related_facts:
   - "[[Open Knowledge Repository]]"
   - "[[British Educational Research Association]]"
   - "[[PISA]]"
+  - "[[Economic and Social Research Council]]"
   - "[[UNESCO Institute for Statistics]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Education at a Glance]]"
@@ -77,7 +78,10 @@ related_facts:
   - "[[National Assessment of Educational Progress]]"
   - "[[World Development Indicators]]"
   - "[[EU]]"
+  - "[[Department for Education]]"
+  - "[[United States Congress]]"
   - "[[Institute of Education Sciences]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Comparative and International Education Society]]"
   - "[[British Association for International and Comparative Education]]"
   - "[[What Works Clearinghouse]]"
@@ -95,7 +99,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

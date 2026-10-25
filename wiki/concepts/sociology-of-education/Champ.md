@@ -6,10 +6,10 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指具有相对自主性、客观位置关系网络和资本分布结构的社会空间，行动者在此依据内隐规则争夺特定资源与象征资本；亦被拓展用于分析超国家机构通过数据基础设施与可比指标建构的跨国政策场域。"
 type: concept
 domain: "sociology-of-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 42
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - field-theory
   - bourdieu
@@ -18,6 +18,8 @@ tags:
   - region/france
   - level/higher-ed
 related_concepts:
+  - "[[Data Infrastructure]]"
+  - "[[Commensuration]]"
   - "[[Grandes Ecoles]]"
   - "[[Cultural Capital]]"
   - "[[Construct]]"
@@ -33,20 +35,31 @@ related_concepts:
   - "[[European Education Space]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
-  - "[[Data Infrastructure]]"
   - "[[Determinism]]"
   - "[[Operationalization]]"
   - "[[Positivism]]"
   - "[[Normal School]]"
+  - "[[Research Universities]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Rational Action Theory]]"
 related_methods:
   - "[[Ethnography]]"
   - "[[Effect Size]]"
+  - "[[In-depth Interview]]"
+  - "[[Cohort Study]]"
+  - "[[Critical Discourse Analysis]]"
+  - "[[Comparative Case Study]]"
 related_persons:
   - "[[Pierre Bourdieu]]"
+  - "[[Sotiria Grek]]"
 related_facts:
+  - "[[EU]]"
+  - "[[OECD]]"
+  - "[[PISA]]"
+  - "[[European Commission]]"
   - "[[Recommendation-Based Graduate Admission System]]"
+  - "[[International Indicators of Education Systems]]"
 related_arguments:
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
@@ -55,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

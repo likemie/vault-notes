@@ -12,7 +12,7 @@ aliases:
 summary: "基于特定地理区位的跨部门创新联合体，将区域内大学、领军企业、初创公司、投资者与政府组织起来围绕共同战略愿景进行大规模协同投资；从早期大学研究园区与“密度就是命运”的关系网络，演进为整合开放大科学设施、中试平台、技能学徒制与区域先进制造集群的国家产业韧性引擎。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -67,6 +67,7 @@ related_facts:
   - "[[CREATES Project]]"
   - "[[Manufacturing USA]]"
   - "[[Joint University Microelectronics Program 2.0]]"
+  - "[[Department of Defense]]"
 related_arguments:
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

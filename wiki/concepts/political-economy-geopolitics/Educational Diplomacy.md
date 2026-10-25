@@ -8,20 +8,35 @@ aliases:
 summary: "主权国家将高等教育体系、国际学生流动、海外分校与语言文化机构等教育资源体系化纳入对外政策与公共外交战略，旨在培育他国精英好感、形塑地缘规范认同与构建准外交纽带的权力投射机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 12
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/geopolitics
   - theme/educational-diplomacy
   - theme/public-diplomacy
   - theme/soft-power
   - theme/higher-education
+related_concepts:
+  - "[[Cultural Diplomacy]]"
+  - "[[Public Diplomacy]]"
+  - "[[Knowledge Diplomacy]]"
+related_facts:
+  - "[[Confucius Institute]]"
+  - "[[Luban Workshop]]"
+  - "[[Double First-Class Initiative]]"
+  - "[[Belt and Road Initiative]]"
+related_arguments:
+  - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
+  - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Yu_Xie_2025_JHE]]"
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

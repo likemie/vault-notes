@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: intergovernmental-organization
 headquarters: 雅加达（印度尼西亚）
@@ -25,18 +25,20 @@ tags:
   - regional-cooperation
 related_concepts:
   - "[[Geopolitics]]"
+  - "[[Educational Diplomacy]]"
   - "[[Student Mobility]]"
   - "[[Research Universities]]"
   - "[[Lifelong Learning]]"
   - "[[Internationalization of Higher Education]]"
   - "[[People-to-People Connectivity]]"
   - "[[South-South Cooperation]]"
-  - "[[Cultural Recognition]]"
   - "[[Soft Power]]"
-  - "[[Discourse]]"
-  - "[[Educational Diplomacy]]"
-  - "[[International Branch Campus]]"
+  - "[[Educational Soft Power]]"
   - "[[Power Conversion Dilemma]]"
+  - "[[Cultural Recognition]]"
+  - "[[International Branch Campus]]"
+  - "[[Discourse]]"
+  - "[[Internationalization of Vocational Education]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Tributary System]]"
@@ -45,10 +47,15 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Belt and Road Initiative]]"
+  - "[[Xiamen University Malaysia]]"
+  - "[[Confucius Institute]]"
+  - "[[China-ASEAN Federation for Vocational Education]]"
+  - "[[Chinese-ASEAN Modern Craftsmanship Institute]]"
   - "[[EU]]"
+  - "[[China-ASEAN Education Cooperation Week]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Royal University of Phnom Penh]]"
   - "[[Asian Infrastructure Investment Bank]]"
-  - "[[Confucius Institute]]"
 related_arguments:
   - "[[Argument_Zhu_Yang_2025_HE]]"
   - "[[Argument_Velasco_2022_CSJ]]"

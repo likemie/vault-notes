@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -39,8 +39,10 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Department for Education]]"
   - "[[The Importance of Teaching]]"
   - "[[Teaching Schools]]"
+  - "[[The Royal Society]]"
   - "[[Carter Review of Initial Teacher Training]]"
 related_arguments:
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
@@ -97,7 +99,7 @@ updated: 2026-10-26
 > > [!axis] 专业自主性与行政依附的张力
 > > 争论焦点在于 CCT 究竟是代表一线教师独立声音的自主专业共同体，还是政府推行特定意识形态改革的政策工具。
 > >
-> > - **官方叙事与倡导者立场** 强调建立类似医学[[Royal Society|皇家学会]]的去政治化专业团体，摆脱传统教师工会的政治对抗，通过实证标准提升整个行业的专业声誉与自主权。
+> > - **官方叙事与倡导者立场** 强调建立类似医学[[The Royal Society|皇家学会]]的去政治化专业团体，摆脱传统教师工会的政治对抗，通过实证标准提升整个行业的专业声誉与自主权。
 > > - **批判制度主义视角（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]）** CCT 的创设与初期资金高度依赖教育部自上而下的政策安排。在教育部扮演排他性[[Gatekeepers\|守门人]]（Gatekeepers）的体制下，政府通过选择性扶植 CCT 与 TSC 等听话的专业代理人，重构了[[Policy Network\|政策网络]]的准入壁垒，实质上边缘化了传统具有批判性的大学教师教育机构（如全国教师教育大学理事会 Universities’ Council for the Education of Teachers，UCET）与工会的声音，使专业团体在很大程度上内嵌了对官方政策偏好的顺从。
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "指在跨国区域合作与南南合作框架下，通过教育、科技、文化与人员双向流动增进跨国互信，为经济走廊与重大战略合作奠定社会民意与制度正当性基础的政策话语与治理机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,8 @@ related_concepts:
   - "[[South-South Cooperation]]"
   - "[[Discourse]]"
   - "[[Soft Power]]"
+  - "[[Mutual Learning]]"
+  - "[[Public Diplomacy]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Variable]]"
   - "[[Student Mobility]]"
@@ -39,17 +41,21 @@ related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[Luban Workshop]]"
   - "[[Forum on China-Africa Cooperation]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Belt and Road Education Action Plan]]"
   - "[[Institute of South-South Cooperation and Development]]"
   - "[[China Scholarship Council]]"
   - "[[Confucius Institute]]"
+  - "[[China-ASEAN Federation for Vocational Education]]"
+  - "[[ASEAN]]"
 related_arguments:
   - "[[Argument_King_2020_ECNUROE]]"
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

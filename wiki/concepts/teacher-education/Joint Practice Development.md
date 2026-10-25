@@ -7,7 +7,7 @@ aliases:
 summary: "教师在真实课堂情境中协同分享、测试、实施与改进教学实践的双向互动过程，由 Fielding 与 Sebba 等提出并成为英格兰国家学校领导力学院的核心范式，旨在彻底超越传统单向线性移植的优秀实践转移模型，构成专业学习共同体与证据知情学校微观落地的核心机制"
 type: concept
 domain: "teacher-education"
-related_count: 34
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Self-Improving School System]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Paradigm]]"
+  - "[[Mutual Learning]]"
   - "[[Professional Learning Community]]"
   - "[[Operationalization]]"
   - "[[Lesson Study]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Business as Usual]]"
   - "[[Professional Judgment]]"
   - "[[Metacognition]]"
+  - "[[Teacher Questioning]]"
   - "[[School Leadership]]"
   - "[[School Enquiry Cycle]]"
   - "[[Performance Pay]]"
@@ -54,13 +56,14 @@ related_persons:
   - "[[Nancy Cartwright]]"
 related_facts:
   - "[[Research Learning Communities]]"
+  - "[[Department for Education]]"
   - "[[Teaching Schools]]"
 related_arguments:
   - "[[Argument_Brown_Greany_2018_LPS]]"
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

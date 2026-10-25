@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -83,7 +83,7 @@ updated: 2026-10-22
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 认为外显行为和教学状态具有可客观还原性，通过标准化的时间抽样窗口能够抽取具有统计代表性的行为样本，从而推断整体情境的行为特征。
 > - **研究者角色** 观察员担任完全的非参与式客观记录者，严格依照计时规程在指定秒数内完成扫视记录，严禁干预课堂进程或主观代入情境解释。
-> - **有效性标准** [[Inter-Rater Reliability|评分者间信度]]（[[Inter-Rater Reliability|Inter-Rater Reliability]], IRR）、抽样时间点的代表性、行为[[Operationalization|操作化]]定义的互斥性与排他性。
+> - **有效性标准** [[Inter-Rater Reliability|评分者间信度]]（[[Inter-Rater Reliability]], IRR）、抽样时间点的代表性、行为[[Operationalization|操作化]]定义的互斥性与排他性。
 > - **不声称回答的问题** 不能解释学生行为背后的心理动机、认知深度或情感体验；不能直接通过发生率数据推导因果机制。
 
 时间抽样法在质性与量化[[Mixed Methods Research|混合方法]]链条中占据基础数据采集层级。

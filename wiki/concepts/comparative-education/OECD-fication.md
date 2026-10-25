@@ -9,10 +9,10 @@ aliases:
 summary: "经合组织在缺乏法定强制力与财政制裁的情形下，依托跨国大规模量化测评、人力资本话语与软法规制，将原本属于民族国家主权专属管辖的公共教育转变为服务于知识经济与经济竞争力的国际基准议程，驱动全球教育政策向其评价标尺与治理范式实质趋同的宏观历史演进过程"
 type: concept
 domain: "comparative-education"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 53
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/comparative-education
   - theme/global-governance
@@ -21,13 +21,44 @@ tags:
   - theme/soft-governance
 related_concepts:
   - "[[Knowledge-Based Economy]]"
+  - "[[Construct]]"
+  - "[[Paradigm]]"
+  - "[[Policy Conditionalities]]"
+  - "[[International Education]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Borrowing]]"
-  - "[[Competitiveness]]"
+  - "[[Reference Society]]"
+  - "[[Commensuration]]"
   - "[[Space of Equivalence]]"
+  - "[[School Inspection]]"
+  - "[[Discourse]]"
+  - "[[Competitiveness]]"
+  - "[[Epistemology]]"
+  - "[[Comparative Turn in Education Policy]]"
+  - "[[Inquisitive Mode of Governance]]"
+  - "[[Meditative Mode of Governance]]"
+  - "[[Naming and Shaming in Education Governance]]"
+  - "[[Cognitive Authority]]"
+  - "[[Knowledge Mediation]]"
+  - "[[Data Infrastructure]]"
+  - "[[Variable]]"
+  - "[[Policy Brokerage]]"
+  - "[[European Education Space]]"
+  - "[[Multilateral Surveillance]]"
+  - "[[Heterogeneity]]"
+  - "[[Ontology]]"
+  - "[[Reliability]]"
+  - "[[Construct Validity]]"
+  - "[[Positional Good]]"
+  - "[[Causality]]"
 related_theories:
   - "[[Human Capital Theory]]"
-related_methods: []
+  - "[[Institutional Isomorphism]]"
+  - "[[Path Dependence]]"
+  - "[[Panopticism]]"
+related_methods:
+  - "[[Peer Debriefing]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -37,6 +68,10 @@ related_facts:
   - "[[Programme for the International Assessment of Adult Competencies]]"
   - "[[UNESCO]]"
   - "[[World Bank]]"
+  - "[[National Education]]"
+  - "[[International Indicators of Education Systems]]"
+  - "[[European Commission]]"
+  - "[[Education at a Glance]]"
 related_arguments:
   - "[[Argument_Niemann_Martens_2018_GSP]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -52,7 +87,7 @@ updated: 2026-10-26
 
 ---
 
-> [!def] [[OECD]]-fication
+> [!def] OECD-fication
 > **经合组织化（OECD-fication）** 是指原本作为战后国际经济协调与多边咨询机构的[[OECD|经济合作与发展组织]]（OECD），在缺乏主权国家法定行政强制权、司法裁判权与直接财政制裁手段的情形下，依托跨国大规模标准化测评（如 [[PISA]]、[[Teaching and Learning International Survey|TALIS]]、[[Programme for the International Assessment of Adult Competencies|PIAAC]]）与以硬事实施展软治理的技术，将原本属于民族国家主权专属管辖的公共教育系统，重塑为服务于全球[[Knowledge-Based Economy|知识经济]]与[[Human Capital Theory|人力资本]]积累的国际对标议程；进而驱动各国国内教育目标、素养[[Construct|构念]]、质量监测与行政问责机制，向经合组织所推崇的经济功利主义导向与产出控制[[Paradigm|范式]]实质趋同的宏观制度变迁过程。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271, 278)]]
 
 > [!concept-lens] 概念透镜

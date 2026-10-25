@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_facts:
   - "[[CREATES Project]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Science and Technology Council]]"
+  - "[[Department of Commerce]]"
   - "[[National Semiconductor Technology Center]]"
 related_arguments:
   - "[[Argument_Zhuo_2026_ICE]]"

@@ -36,11 +36,11 @@ related_persons:
   - "[[Peter Woods]]"
 related_facts:
   - "[[National Science Foundation]]"
+  - "[[United States Congress]]"
   - "[[Office of Scientific Research and Development]]"
   - "[[National Institutes of Health]]"
   - "[[DARPA]]"
   - "[[Institute for Advanced Study]]"
-  - "[[Chinese Academy of Sciences]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Bell Labs]]"
 related_arguments:

@@ -9,7 +9,7 @@ summary: "由 AidData 开发的系统化非官方披露跨境资金流追踪方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 0
+method_related_count: 4
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -18,10 +18,17 @@ tags:
   - theme/educational-aid
   - theme/public-diplomacy
   - theme/geocoding
+related_concepts:
+  - "[[Geopolitics]]"
+  - "[[Public Diplomacy]]"
+related_facts:
+  - "[[AidData]]"
+related_arguments:
+  - "[[Argument_Custer_2021_AidData]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

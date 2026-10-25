@@ -89,7 +89,7 @@ part_of:
 status: stable
 confidence: high
 created: 2026-09-17
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Rickinson_2022_EducRes"
@@ -147,7 +147,7 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **文献样本** | 共纳入 112 篇出版物，包括卫生保健领域 30 篇、社会关照领域 29 篇、教育领域 31 篇、公共政策领域 22 篇；文类涵盖同行评议期刊论文、研究报告、政策白皮书与专业指南。 |
-> | **咨询群体** | 涉及澳大利亚新南威尔士、维多利亚、昆士兰等州的教育系统领导者、学校校长、骨干教师、研究中介机构专家（如证据与实施中心（[[Centre for Evidence and Implementation\|Centre for Evidence and Implementation]], CEI））以及系统综述方法学专家。 |
+> | **咨询群体** | 涉及澳大利亚新南威尔士、维多利亚、昆士兰等州的教育系统领导者、学校校长、骨干教师、研究中介机构专家（如证据与实施中心（[[Centre for Evidence and Implementation]], CEI））以及系统综述方法学专家。 |
 > | **文献语种与地域** | 聚焦英语出版物，重点覆盖澳大利亚、新西兰、英国、美国和加拿大等国的实践与政策文献。 |
 
 ---

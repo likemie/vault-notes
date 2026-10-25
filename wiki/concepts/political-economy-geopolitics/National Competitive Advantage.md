@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -132,7 +132,7 @@ updated: 2026-10-22
 > 剖析竞争力[[Discourse|话语]]如何被国家权力工具化，用于重构领土政策与调动国家认同。
 
 > [!claim] [[Argument_Moisio_2022_Springer|Moisio (2022)]]
-> **[[Geopolitics|地缘政治]]想象与空间极化机制** [[Sami Moisio|萨米·莫伊西奥]]（Sami Moisio）指出，波特的国家竞争优势理论在本质上扮演了具有“构成性与履行性角色”的地缘政治想象。政策制定者将国家竞争叙事与领土空间绑定，催生了[[Economic Patriotism|经济爱国主义]]（Economic Patriotism），并将巨额公共财政与科技资源优先注入特定的“国家冠军城市”、超级[[Innovation Park|创新园区]]与核心枢纽（[[Hub and Flow Imaginaries|Hub and Flow Imaginaries]]），从而引发了被选中的[[Innovation Hub|创新枢纽]]与边缘区域之间深刻的空间极化。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–31)]]
+> **[[Geopolitics|地缘政治]]想象与空间极化机制** [[Sami Moisio|萨米·莫伊西奥]]（Sami Moisio）指出，波特的国家竞争优势理论在本质上扮演了具有“构成性与履行性角色”的地缘政治想象。政策制定者将国家竞争叙事与领土空间绑定，催生了[[Economic Patriotism|经济爱国主义]]（Economic Patriotism），并将巨额公共财政与科技资源优先注入特定的“国家冠军城市”、超级[[Innovation Park|创新园区]]与核心枢纽（[[Hub and Flow Imaginaries]]），从而引发了被选中的[[Innovation Hub|创新枢纽]]与边缘区域之间深刻的空间极化。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–31)]]
 
 ---
 

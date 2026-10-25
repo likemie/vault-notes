@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[The Royal Society]]"
   - "[[Government Office for Science]]"
   - "[[Public Attitudes to Science]]"
 related_arguments:
@@ -73,14 +74,14 @@ updated: 2026-10-26
 > - **1989** 英国议会科学与技术办公室由议会全党派科技小组（ACOST）推动正式创立。
 > - **2001** 英国议会两院通过决议，正式将其编制内嵌于议会常设财政拨款序列。
 > - **2010s** 全面拥抱开放获取，POSTnotes 成为全球立法科技咨询机构广泛效仿的基准格式。
-> - **2025** [[Royal Society|英国皇家学会]]委托 YouGov 对 108 名国会议员（MPs）开展专项调查，定量揭示议员对 POST 的实际使用率仅为 22%，远低于非中立的智库机构（55%）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 82–83)]]
+> - **2025** [[The Royal Society|英国皇家学会]]委托 YouGov 对 108 名国会议员（MPs）开展专项调查，定量揭示议员对 POST 的实际使用率仅为 22%，远低于非中立的智库机构（55%）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 82–83)]]
 > - **2026** 皇家学会发布《科学为社会》报告，呼吁全面改革议员[[Scientific Literacy\|科学素养]]支持体系，强化 POST 在立法全周期的前置嵌入。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 82, 88)]]
 
 ---
 
 ## 调查实证：议员使用率与信源偏误
 
-在 2025 年 4 月由[[Royal Society|英国皇家学会]]委托 YouGov 对 108 名国会议员（MPs）开展的全国抽样调查中，议员在履行公职时获取科学信息的渠道格局暴露出严重的权威信源边缘化：
+在 2025 年 4 月由[[The Royal Society|英国皇家学会]]委托 YouGov 对 108 名国会议员（MPs）开展的全国抽样调查中，议员在履行公职时获取科学信息的渠道格局暴露出严重的权威信源边缘化：
 
 > [!stat-cards]- 英国国会议员科学信源使用分布（YouGov, 2025, N = 108, p. 83）
 > - **55%** （智库与倡导团体） 55% 议员将政策交流所（Policy Exchange）或绿色联盟（Green Alliance）等智库列为主要科学信息来源，居各类信源之首。

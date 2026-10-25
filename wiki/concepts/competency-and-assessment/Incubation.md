@@ -10,7 +10,7 @@ aliases:
 summary: "个体在面临未决难题时，暂时停止有意识的直接思考并转向休息或无关活动，随后在无意识或偶发线索触发下产生灵感豁朗与创造性突破的认知心理现象。作为创造力四阶段模型的核心环节，它通过消退思维定势、促进无意识联想扩散与恢复认知资源，解释了创造力训练周期的倒 U 型演进规律。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,7 +42,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
 related_instruments:
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

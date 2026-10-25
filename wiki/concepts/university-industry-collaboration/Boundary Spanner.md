@@ -113,8 +113,8 @@ related_arguments:
   - "[[Argument_Hoffman_2025_UI_Alliances_Consortia]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
-  - "[[Argument_Niemann_Martens_2018_GSP]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
 confidence: medium
 status: draft
 created: 2026-05-27

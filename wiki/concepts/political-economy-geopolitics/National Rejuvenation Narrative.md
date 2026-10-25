@@ -10,7 +10,7 @@ aliases:
 summary: "中国当代内政与对外战略中的核心政治与历史叙事，与百年屈辱史构成孪生叙事结构，将国家经济繁荣与跨国制度投射确立为洗雪历史屈辱、重现文明荣光的正当性依据"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -52,10 +52,11 @@ related_facts:
   - "[[Belt and Road Education Action Plan]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Velasco_2022_CSJ]]"
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

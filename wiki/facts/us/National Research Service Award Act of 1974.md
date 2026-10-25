@@ -12,9 +12,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[United States Congress|美国国会（United States Congress）]]"
 tags:
@@ -33,6 +33,7 @@ related_instruments: []
 related_persons:
   - "[[Paula Stephan]]"
 related_facts:
+  - "[[United States Congress]]"
   - "[[National Institutes of Health]]"
   - "[[National Academy of Sciences]]"
   - "[[National Research Council]]"

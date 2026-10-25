@@ -37995,18 +37995,6 @@
     "subtype": "organization"
   },
   {
-    "title": "Royal Society",
-    "type": "fact",
-    "path": "wiki/facts/uk/Royal Society.md",
-    "aliases": [
-      "The Royal Society",
-      "英国皇家学会",
-      "皇家学会",
-      "Royal Society of London"
-    ],
-    "subtype": "organization"
-  },
-  {
     "title": "Science Media Centre",
     "type": "fact",
     "path": "wiki/facts/uk/Science Media Centre.md",
@@ -38063,6 +38051,17 @@
       "学校培训与发展署",
       "Training and Development Agency for Schools",
       "TDA"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "The Royal Society",
+    "type": "fact",
+    "path": "wiki/facts/uk/The Royal Society.md",
+    "aliases": [
+      "英国皇家学会",
+      "皇家学会",
+      "Royal Society of London"
     ],
     "subtype": "organization"
   },
@@ -39926,6 +39925,7 @@
     "path": "wiki/facts/us/DARPA.md",
     "aliases": [
       "美国国防高级研究计划局",
+      "美国国防部高级研究计划局",
       "Defense Advanced Research Projects Agency",
       "国防高级研究计划局",
       "ARPA"

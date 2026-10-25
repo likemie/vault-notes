@@ -10,7 +10,7 @@ aliases:
 summary: "因果推断中通过构建与设想原因不存在时的潜在结果以识别真实因果效应的核心推理机制，在实证研究中依托控制组与随机分配构建无偏反事实代理"
 type: concept
 domain: "research-methodology"
-related_count: 42
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Ontology]]"
   - "[[Hawthorne Effect]]"
-  - "[[Paradigm]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Statistical Analysis Plan]]"
   - "[[Measurement Alignment]]"
@@ -71,7 +70,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-06-17
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

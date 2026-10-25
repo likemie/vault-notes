@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: government-agency
 headquarters: "Washington, D.C., United States"
@@ -23,13 +23,23 @@ tags:
   - theme/industrial-policy
   - theme/semiconductor
   - theme/technology-policy
-related_concepts: []
+related_concepts:
+  - "[[Fair Market Value]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[National Institute of Standards and Technology]]"
+  - "[[CHIPS and Science Act]]"
+  - "[[National Semiconductor Technology Center]]"
+  - "[[Advanced Technology Program]]"
+  - "[[1986 U.S.-Japan Semiconductor Trade Agreement]]"
+related_arguments:
+  - "[[Argument_Bown_2024_JEconPersp]]"
+  - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
+  - "[[Argument_Zhuo_2026_ICE]]"
+  - "[[Argument_Block_2008_PS]]"
 confidence: medium
 status: draft
 created: 2026-10-26

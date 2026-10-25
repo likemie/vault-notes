@@ -8,10 +8,10 @@ aliases:
 summary: "指1960至1970年代美国反文化运动与计算机软件革命深度融合所形成的技术范式，以斯图尔特·布兰德（Stewart Brand）与李·费尔森斯坦（Lee Felsenstein）等为代表，主张将计算技术从冷战军事官僚机器的垄断中夺回，重塑为赋权个体、抵御中央集权与实现精神自由的解放性媒介；在卡普与扎米斯卡（2025）的科技政治批判中，这一范式颠覆了战后布什与奥本海默的国家战略科技动员传统，但也因过度解构国家共同体认同而最终滑向消费主义与政治冷漠。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/counterculture
   - theme/ethics-of-technology
@@ -41,13 +41,14 @@ related_facts:
   - "[[Homebrew Computer Club]]"
   - "[[Manhattan Project]]"
   - "[[ARPANET]]"
+  - "[[Department of Defense]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

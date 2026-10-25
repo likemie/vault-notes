@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Academic Freedom]]"
   - "[[Discourse]]"
+  - "[[Cognitive Authority]]"
   - "[[Paradigm]]"
   - "[[Citizen Science]]"
   - "[[Disciplina and Doctrina]]"
@@ -35,6 +36,7 @@ related_facts:
   - "[[American Association for the Advancement of Science]]"
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
+  - "[[United States Congress]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[Office of Science and Technology Policy]]"
 related_arguments:

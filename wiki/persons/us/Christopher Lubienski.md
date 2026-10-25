@@ -9,7 +9,7 @@ summary: "美国教育政策学者，印第安纳大学布卢明顿分校教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,14 +27,9 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[School Choice]]"
   - "[[Surplus of Evidence]]"
-  - "[[Knowledge Production]]"
   - "[[Academic Achievement]]"
-  - "[[Knowledge Mediation]]"
   - "[[Variable]]"
-  - "[[Policy Borrowing]]"
-  - "[[Policy Network]]"
-  - "[[Market Failure]]"
-  - "[[Discourse]]"
+  - "[[Knowledge Production]]"
   - "[[Educational Brokerage Agency]]"
 related_theories: []
 related_methods: []
@@ -45,14 +40,13 @@ related_facts:
   - "[[Thomas B. Fordham Institute]]"
   - "[[OECD]]"
   - "[[World Bank]]"
-  - "[[American Educational Research Association]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---

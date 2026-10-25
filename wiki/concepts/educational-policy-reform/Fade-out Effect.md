@@ -11,7 +11,7 @@ aliases:
 summary: "教育与社会干预在停止实施后即时正向效应随时间推移逐渐萎缩直至消失的普遍经验现象，以及方案从理想效力试验走向大规模实效推广时的效应断崖式归零（电压降），构成了现代循证清算与行政大数据长期追踪的核心审查关卡。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 44
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -43,8 +43,6 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Self-Efficacy]]"
   - "[[Variable]]"
-  - "[[Response to Intervention]]"
-  - "[[Academic Achievement]]"
 related_theories: []
 related_methods:
   - "[[Efficacy Trial]]"
@@ -53,7 +51,6 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
@@ -75,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -9,7 +9,7 @@ aliases:
 summary: "Freeman 与 Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络与市场互动进行的集体学习活动；主张创新绩效取决于行动者能力、网络连接密度与制度规则适配性，推动公共政策从弥补市场失灵转向修复系统失灵。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 84
+theory_related_count: 85
 theory_related_level: 8
 theory_related_stars: "💎💎⭐⭐"
 theory_related_color: "#fef3c7"
@@ -92,6 +92,7 @@ related_facts:
   - "[[Ministry of International Trade and Industry]]"
   - "[[Gewerbe-Institut]]"
   - "[[Local Innovation Systems Project]]"
+  - "[[Department of Defense]]"
   - "[[DARPA]]"
   - "[[EU]]"
   - "[[German Dual Education System]]"

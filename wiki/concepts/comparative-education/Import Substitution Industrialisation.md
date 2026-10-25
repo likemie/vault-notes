@@ -9,7 +9,7 @@ aliases:
 summary: "战后发展中国家通过关税与外汇保护扶持本土工业体系的宏观发展模式；在教育领域诱发了拉美1960年代中高等教育超常规大扩张，但因其依附性与精英偏向，导致基础初等识字停滞与结构性倒金字塔断裂"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,7 @@ related_concepts:
   - "[[Post-Fordism]]"
   - "[[Credential Inflation]]"
   - "[[Developmentalism]]"
-  - "[[Dependent Variable]]"
+  - "[[Variable]]"
 related_theories:
   - "[[Neocorporatism]]"
   - "[[Conditioned State Theory]]"
@@ -37,7 +37,6 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Accounts]]"
-  - "[[Effect Size]]"
 related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---

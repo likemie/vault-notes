@@ -8,7 +8,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_facts:
   - "[[2019 Hong Kong Protests]]"
   - "[[Citizenship and Social Development]]"
   - "[[Youth Development Blueprint]]"
+  - "[[National Education]]"
   - "[[National Security Law]]"
 related_arguments:
   - "[[Argument_Vickers_2024_CE]]"

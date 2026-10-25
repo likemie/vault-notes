@@ -11,7 +11,7 @@ aliases:
 summary: "学习者在课堂教学过程中实际专注投入于教师所提供学习活动的时间总量或比例。作为有效教学与学业成就的基础性前置条件，它反映了潜在教学机会向实质学习经历的转化效率；在世界银行Teach等工具中，通过瞬时定格快照操作化为教师提供学习活动与学生在轨人数的客观状态判定，但实证研究一致表明单纯增加在轨时间若缺乏高推论教学质量支撑，无法自发带来深层认知与社会情感技能发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,7 +45,6 @@ related_theories:
   - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Classroom Observation]]"
-  - "[[Effect Size]]"
   - "[[Standard Error]]"
 related_instruments:
   - "[[Stallings Classroom Observation System]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Time on Task

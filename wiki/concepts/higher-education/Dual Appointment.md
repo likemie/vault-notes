@@ -10,7 +10,7 @@ aliases:
 summary: "研究型大学中教师同时在传统学科院系与跨学科研究中心持有正式聘任的矩阵式人事治理制度；旨在防止多学科中心脱离大学育人主体，但也导致学者面临双重工作负荷及中心主任缺乏终身教职评审权的结构性治理张力。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,13 +24,10 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Joint Faculty Appointments]]"
-  - "[[Variable]]"
   - "[[University-Based Research Center]]"
   - "[[Engineering Education]]"
 related_theories: []
-related_methods:
-  - "[[Effect Size]]"
-  - "[[Qualitative Interview]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Erich Bloch]]"
@@ -43,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

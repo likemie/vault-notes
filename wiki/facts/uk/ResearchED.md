@@ -7,7 +7,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -44,6 +44,7 @@ related_persons:
   - "[[Gary Thomas]]"
   - "[[Stephen Ball]]"
 related_facts:
+  - "[[Department for Education]]"
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Chartered College of Teaching]]"

@@ -8,10 +8,10 @@ aliases:
 summary: "在认识论认知AIR模型中，用于评估科学模型、解释、论证与证据等认识产出质量的规范性标准与评价准则。"
 type: concept
 domain: "educational-psychology"
-related_count: 43
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 37
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation
@@ -38,10 +38,9 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Epistemic Value]]"
   - "[[Evaluative Judgement]]"
-  - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
+  - "[[Dependent Variable]]"
   - "[[Academic Achievement]]"
-  - "[[Variable]]"
   - "[[Epistemic Dependence]]"
   - "[[Cognitive Offloading]]"
 related_theories:
@@ -49,11 +48,7 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
   - "[[Random-Effects Model]]"
-  - "[[Qualitative Content Analysis]]"
-  - "[[Discourse Analysis]]"
-  - "[[Multimodal Discourse Analysis]]"
 related_persons:
   - "[[Clark A. Chinn]]"
 related_arguments:
@@ -63,12 +58,11 @@ related_arguments:
   - "[[Argument_Sandoval_2005_SE]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
   - "[[Argument_Chinn_2011_EducPsychol]]"
-related_instruments:
-  - "[[Framework for Teaching]]"
+related_instruments: []
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

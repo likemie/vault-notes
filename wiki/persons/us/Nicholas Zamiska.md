@@ -9,7 +9,7 @@ summary: "美国法律学者与科技企业高管，耶鲁法学院法律博士�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -46,6 +46,7 @@ related_persons:
 related_facts:
   - "[[Palantir Technologies]]"
   - "[[Federal Acquisition Streamlining Act of 1994]]"
+  - "[[Department of Defense]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"

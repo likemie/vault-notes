@@ -43,7 +43,7 @@ related_facts:
   - "[[OECD AHELO Project]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -59,7 +59,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 文化效度、[[Cross-cultural Validity|跨文化效度]]与[[Ecological Validity|生态效度]]的系统辨析
-> | 维度 | 文化效度（Cultural Validity） | 跨文化效度（[[Cross-cultural Validity\|Cross-cultural Validity]]） | 生态效度（[[Ecological Validity\|Ecological Validity]]） |
+> | 维度 | 文化效度（Cultural Validity） | 跨文化效度（[[Cross-cultural Validity]]） | 生态效度（[[Ecological Validity]]） |
 > |---|---|---|---|
 > | **关注焦点** | 研究全过程对目标文化价值与处境的敏感性与适切性 | 测量工具跨语言与跨文化情境的测量等价性 | 研究发现能否如实反映真实自然环境中的行为与实践 |
 > | **适用阶段** | 贯穿规划、问题设计、实施、解释与传播所有阶段 | 主要聚焦于测量工具研制、翻译、[[Back Translation\|回译]]与心理测量检验 | 聚焦于研究设计的情境真实性与[[Variable\|变量]]非人为控制性 |

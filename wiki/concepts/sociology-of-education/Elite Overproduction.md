@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -68,7 +68,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 概念辨析
-> | 维度 | 精英生产过剩（Elite Overproduction） | 博士科研廉价劳动力机制 | 心智产品化（[[Productization of the Mind\|Productization of the Mind]]） |
+> | 维度 | 精英生产过剩（Elite Overproduction） | 博士科研廉价劳动力机制 | 心智产品化（[[Productization of the Mind]]） |
 > |---|---|---|---|
 > | **分析重点** | 社会结构中候选精英供求失衡引发的政治不稳定与行为异化 | 学术界内部依托研究生低成本维持科研流水线的剥削机制 | 顶尖文凭持有者将智力降格为符合商业市场套利标准的工具 |
 > | **核心机制** | 职位配额固定 vs 文凭供给激增引发阶层地位焦虑与怨恨 | 国家资助与[[Mentorship\|导师制]]驱动科研扩张，缺乏终身教职承接 | 风险规避与期权套利导向金融、咨询与消费软件行业 |

@@ -24,9 +24,9 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Variable]]"
 related_methods:
-  - "[[Pre-test and Post-test]]"
   - "[[True Experimental Design]]"
   - "[[Random Assignment]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Sample Size Determination]]"
   - "[[Pretest-Posttest Control Group Design]]"
   - "[[Solomon Four-Group Design]]"

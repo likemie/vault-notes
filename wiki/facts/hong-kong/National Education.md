@@ -10,7 +10,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -23,15 +23,20 @@ tags:
   - policy/citizenship-education
   - theme/patriotism
 related_concepts:
+  - "[[General Education]]"
   - "[[Zhonghua Minzu]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Discourse]]"
+  - "[[Critical Thinking]]"
   - "[[One Country, Two Systems]]"
-  - "[[Membership-Creating Function of Education]]"
-  - "[[Sinicisation]]"
+  - "[[Academic Freedom]]"
   - "[[Psychologisation]]"
+  - "[[Sinicisation]]"
+  - "[[Avatar]]"
   - "[[Patriotic Education]]"
+  - "[[Membership-Creating Function of Education]]"
+  - "[[Theoretical Perspective]]"
   - "[[National Rejuvenation Narrative]]"
 related_theories:
   - "[[Nation Building through Education]]"
@@ -45,6 +50,7 @@ related_facts:
   - "[[Youth Development Blueprint]]"
   - "[[Liberal Studies]]"
   - "[[My Pledge to Act]]"
+  - "[[Institute of Education Sciences]]"
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
 related_arguments:
   - "[[Argument_Yan_2025_JCS]]"

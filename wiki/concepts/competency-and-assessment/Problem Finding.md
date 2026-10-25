@@ -33,8 +33,8 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Cognitive Flexibility]]"
   - "[[Ecological Validity]]"
-  - "[[Construct]]"
   - "[[Heterogeneity]]"
+  - "[[Construct]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"

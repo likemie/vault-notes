@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -30,7 +30,8 @@ related_methods:
   - "[[Visual Research Methods]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Economic and Social Research Council]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
 confidence: medium

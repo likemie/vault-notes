@@ -69,8 +69,8 @@ related_facts:
   - "[[Eck Swarm Experiment]]"
   - "[[PISA]]"
   - "[[Higher Education Autonomy and Quality]]"
+  - "[[Department of Defense]]"
   - "[[Federal Acquisition Streamlining Act of 1994]]"
-  - "[[Cognition Education]]"
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_ONeill_2016_Report]]"

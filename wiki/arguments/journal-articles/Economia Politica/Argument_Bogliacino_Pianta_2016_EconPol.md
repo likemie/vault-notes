@@ -59,7 +59,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 ---
 > [!question]
@@ -83,7 +83,7 @@ updated: 2026-10-22
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **部门创新数据库**<br>[[Sectoral Innovation Database\|Sectoral Innovation Database]]（SID） | Urbino 大学开发的跨国家产业层面数据库，整合 [[Centre for Independent Studies\|CIS]] 2、3、4 数据，匹配经济表现指标。覆盖德国、法国、意大利、荷兰、葡萄牙、西班牙、英国和挪威 |
+> | **部门创新数据库**<br>[[Sectoral Innovation Database]]（SID） | Urbino 大学开发的跨国家产业层面数据库，整合 [[Centre for Independent Studies\|CIS]] 2、3、4 数据，匹配经济表现指标。覆盖德国、法国、意大利、荷兰、葡萄牙、西班牙、英国和挪威 |
 > | **主成分分析**<br>Principal Component Analysis | 检验创新来源、目标和产出的维度结构，验证不同行业分组的统计合理性 |
 > | **回归分析**<br>Regression Analysis | 以创新-绩效关系为检验平台，比较不同行业分组方案的解释力 |
 

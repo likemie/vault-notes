@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -140,7 +140,7 @@ updated: 2026-10-22
 
 > [!feature] 核心思想与战略遗产
 > - **[[Engineering Pragmatism|工程实用主义]]与“技术精妙”行动偏好（Engineering Pragmatism & "Technically Sweet" Bias）** 奥本海默在战时洛斯阿拉莫斯展现出鲜明的[[Pragmatic Paradigm|实用主义]]作风，主张在面对极具挑战性且在技术上精妙绝伦（technically sweet）的难题时，工程师与科学家的本能是先将其实现出来，而将关于该项发明最终用途与伦理后果的辩论留待成功之后。这一倾向深刻刻画了现代前沿工程共同体的内生动力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 16–18)]]
-> - **国家战略牵引的[[Big Science|大科学]]协同模式（State-Directed Big Science [[Paradigm|Paradigm]]）** 打破传统象牙塔中零散自由探索的孤立形态，在[[Vannevar Bush|万尼瓦尔·布什]]领导的 [[Office of Scientific Research and Development|OSRD]] 顶层设计下，建立由国家安全明确战略目标牵引、高度组织化与跨学科交叉的军政产学大协同体制，奠定了战后[[Federally Funded Research and Development Centers|美国国家实验室]]系统与现代重大工程攻坚的原型。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
+> - **国家战略牵引的[[Big Science|大科学]]协同模式（State-Directed Big Science [[Paradigm]]）** 打破传统象牙塔中零散自由探索的孤立形态，在[[Vannevar Bush|万尼瓦尔·布什]]领导的 [[Office of Scientific Research and Development|OSRD]] 顶层设计下，建立由国家安全明确战略目标牵引、高度组织化与跨学科交叉的军政产学大协同体制，奠定了战后[[Federally Funded Research and Development Centers|美国国家实验室]]系统与现代重大工程攻坚的原型。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 > - **科学家群体的原罪认知与道德自省（The Physicists' Sin & Moral Accountability）** 广岛核爆后，奥本海默公开宣告物理学家已经“体会到了罪恶”，拒绝以技术中立为由洗脱科学家的道德责任。他强调科学家不仅是工具的制造者，更是人类命运的共同承担者，必须对尖端技术的毁灭性潜能保持高度清醒。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 17)]]
 > - **原子威慑与大国[[Long Peace|长和平]]的历史缔造（Architect of Atomic Deterrence & The Long Peace）** 奥本海默领导研制的核武器彻底改变了大国地缘博弈的底层逻辑。正如历史学家[[John Lewis Gaddis|加迪斯]]所指出的，二战后世界主要大国之间长达近一个世纪未爆发直接[[Total War|全面战争]]的[[Long Peace|长和平]]，正是建立在奥本海默点燃的核毁灭平衡（MAD）之上。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 37–41)]]
 > - **奥本海默国家使命范式与反文化去国家化计算的历史裂变（Oppenheimer State-Mission Paradigm vs [[Counterculture Computing|countercultural computing]]）** 卡普与扎米斯卡揭示，奥本海默将科技研发视为维护国家生存与赋能国家大战略使命（American project）的基石；这一传统在 1970 年代被硅谷[[Counterculture Computing|反文化计算]]革命瓦解。新一代工程师将国家机构视作压制[[Creativity|创造力]]的“缺陷系统”（Flawed Systems），将[[Path Dependence|技术锁定]]于个人与[[Consumer Internet|消费互联网]]，导致硅谷陷入长达半个世纪的[[Technological Agnosticism|技术不可知论]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–100)]]

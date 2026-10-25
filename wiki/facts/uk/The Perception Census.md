@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -28,6 +28,8 @@ related_concepts:
   - "[[Public Engagement with Science]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
+related_facts:
+  - "[[The Royal Society]]"
 confidence: high
 status: draft
 created: 2026-08-23
@@ -37,7 +39,7 @@ updated: 2026-10-26
 ---
 
 > [!policy-context] 政策背景
-> - **学术主导与跨界合作方** 由苏塞克斯大学萨克勒意识科学中心主任、[[Royal Society|英国皇家学会]]会士阿尼尔·塞斯（Anil Seth, FRS）团队联合艺术机构 Collective Act、音乐家乔恩·霍普金斯（Jon Hopkins）及特纳奖建筑团队 Assemble 跨界研发。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 43)]]
+> - **学术主导与跨界合作方** 由苏塞克斯大学萨克勒意识科学中心主任、[[The Royal Society|英国皇家学会]]会士阿尼尔·塞斯（Anil Seth, FRS）团队联合艺术机构 Collective Act、音乐家乔恩·霍普金斯（Jon Hopkins）及特纳奖建筑团队 Assemble 跨界研发。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 43)]]
 > - **隶属国家重大工程** 作为英国 2022 年非约束（Unboxed: [[Creativity]] in the UK）全国重大科技艺术节的核心科研工程。
 > - **核心使命** 探索人类知觉与意识的知觉多样性（Perceptual Diversity），通过大规模科学实证数据揭示每个人看到的世界如何因大脑主动预测机制差异而截然不同。
 

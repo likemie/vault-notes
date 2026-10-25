@@ -7,7 +7,7 @@ aliases:
 summary: "指知识在主体、组织或地缘权力关系中流动、传递与挪用的多义概念，横跨知识地缘政治、产学合作与循证知识动员三大理论脉络。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 54
+related_count: 50
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -50,9 +50,6 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Variable]]"
   - "[[Total Factor Productivity]]"
-  - "[[School Inspection]]"
-  - "[[Literature Review]]"
-  - "[[Falsification]]"
 related_theories:
   - "[[Critical Geopolitics]]"
   - "[[Systems of Innovation]]"
@@ -68,7 +65,6 @@ related_facts:
   - "[[National Research and Resource Facility for Submicron Structures]]"
   - "[[Center for Integrated Systems]]"
   - "[[Bayh-Dole Act of 1980]]"
-  - "[[Vergleichsarbeiten]]"
 related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
@@ -79,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---

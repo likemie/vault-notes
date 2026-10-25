@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Random Assignment]]"
 related_persons: []
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[A Nation at Risk 1983]]"
   - "[[PISA]]"
   - "[[No Child Left Behind Act 2001]]"

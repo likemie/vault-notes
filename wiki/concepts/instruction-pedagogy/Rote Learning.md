@@ -8,10 +8,10 @@ aliases:
 summary: "指单纯依赖机械重复与表层记忆、缺乏深层因果推论与概念重构的认知加工方式。在现代认知心理学与教育测量中构成程序性知识习得的低阶层级，而在跨文化教育研究中，其与理解的非二元对立关系构成了理解东亚学习者成就悖论的关键。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 38
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/memorization
   - theme/deep-learning
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Working Memory]]"
   - "[[Epistemic Agency]]"
-  - "[[Dependent Variable]]"
   - "[[Variable]]"
 related_theories:
   - "[[Social Realism]]"
@@ -53,7 +52,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Correlational Research]]"
   - "[[Questionnaire]]"
-  - "[[Confidence Interval]]"
 related_persons:
   - "[[John Biggs]]"
   - "[[Jin Li]]"
@@ -66,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

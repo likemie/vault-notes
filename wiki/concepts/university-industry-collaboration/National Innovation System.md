@@ -10,9 +10,9 @@ aliases:
 summary: "指由国家公共教育与培训体系、企业专职研发实验室、产业网络、前竞争技术联合体、实体制造公地、政府协调规制以及承接战略使命并贯通中试研发的研究型大学所构成的制度网络，是解释跨国技术赶超、无形知识积累与经济长期分化的核心分析单位。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 89
-related_level: 8
-related_stars: "💎💎⭐⭐"
+related_count: 90
+related_level: 9
+related_stars: "💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - theme/innovation
@@ -84,12 +84,12 @@ related_persons:
   - "[[Richard Nelson]]"
   - "[[Mariana Mazzucato]]"
 related_facts:
+  - "[[National Education]]"
   - "[[German Dual Education System]]"
   - "[[EUV LLC]]"
   - "[[Transformational AI Models Consortium]]"
   - "[[Albany NanoTech Complex]]"
   - "[[Gewerbe-Institut]]"
-  - "[[Chinese Academy of Sciences]]"
   - "[[Office of Science and Technology Policy]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
@@ -99,6 +99,7 @@ related_facts:
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
   - "[[Department of Energy]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[Ministry of International Trade and Industry]]"
   - "[[OECD]]"
   - "[[CHIPS and Science Act]]"
@@ -117,7 +118,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

@@ -60,6 +60,7 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Standard Error]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Experimental Research]]"
   - "[[Random-Effects Model]]"
   - "[[Fixed-Effect Model]]"
   - "[[Confidence Interval]]"
@@ -97,9 +98,9 @@ title: "Argument_Guo_2025_TSC"
 argument_key: "Argument_Guo_2025_TSC"
 argument_display_title: "Effect of training programs on the creativity of university students: A multi-level meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 60
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: "Thinking Skills and Creativity"
 book_title: ""

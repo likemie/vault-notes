@@ -9,7 +9,7 @@ aliases:
 summary: "教育与社会科学中建立原因与效果之间关系的推理体系，涵盖概率因果、反事实潜在结果模型、因果识别设计层级（RCT/QED/RDD/SCD）以及生成性因果机制与筛选隔离逻辑。"
 type: concept
 domain: "educational-philosophy"
-related_count: 87
+related_count: 89
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -63,6 +63,7 @@ related_theories:
   - "[[Realist Evaluation]]"
   - "[[Potential Outcomes Framework]]"
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Problem Approach]]"
   - "[[Multiple Regression]]"
   - "[[Randomised Controlled Trials]]"
@@ -101,6 +102,7 @@ related_facts:
   - "[[Home Visiting Evidence of Effectiveness]]"
   - "[[Top Institute for Evidence-Based Education Research]]"
   - "[[Advanced Technological Education]]"
+  - "[[United States Congress]]"
   - "[[Education Sciences Reform Act 2002]]"
   - "[[National Research Council]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -117,7 +119,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

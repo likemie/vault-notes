@@ -26,12 +26,15 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Self-Regulated Learning]]"
   - "[[Order Effects]]"
+  - "[[Advance Organizers]]"
   - "[[Open-Mindedness]]"
+  - "[[Scoring Rubrics]]"
   - "[[Rote Learning]]"
   - "[[Variable]]"
   - "[[Critical Thinking]]"
   - "[[Self-Efficacy]]"
   - "[[Learned Helplessness]]"
+  - "[[Interaction Effect]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Scaffolding]]"
@@ -72,9 +75,9 @@ title: "Argument_Lodewyk_2007_EducPsych"
 argument_key: "Argument_Lodewyk_2007_EducPsych"
 argument_display_title: "Relations among epistemological beliefs, academic achievement, and task performance in secondary school students"
 argument_kind: "journal-article"
-argument_related_count: 37
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: Educational Psychology
 book_title: ""

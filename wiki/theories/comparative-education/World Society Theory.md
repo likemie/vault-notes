@@ -63,10 +63,10 @@ related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Zapp_2022_Springer]]"
   - "[[Argument_Amos_2022_Springer]]"
+  - "[[Argument_Zapp_2017_IJED]]"
   - "[[Argument_Yan_2025_JCS]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Klerides_2023_CE]]"
-  - "[[Argument_Zapp_2017_IJED]]"
 confidence: high
 status: active
 created: 2026-05-11

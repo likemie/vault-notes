@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 27
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Evidence Era]]"
   - "[[Initial Teacher Training]]"
   - "[[Policy Borrowing]]"
+  - "[[Mutual Learning]]"
   - "[[Strategic Compliance]]"
   - "[[Activity Traps]]"
   - "[[Policy-Based Evidence-Making]]"
@@ -48,6 +49,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Department for Education]]"
   - "[[Teaching Schools]]"
   - "[[Education Endowment Foundation]]"
   - "[[Reach]]"

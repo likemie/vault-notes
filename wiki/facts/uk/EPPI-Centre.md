@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -59,8 +59,10 @@ related_facts:
   - "[[OECD]]"
   - "[[Education in Europe]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[Economic and Social Research Council]]"
   - "[[EU]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Department for Education]]"
   - "[[Campbell Collaboration]]"
   - "[[Education Endowment Foundation]]"
   - "[[Research Schools Network]]"

@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_facts:
   - "[[EU]]"
   - "[[European Chips Act]]"
   - "[[CHIPS and Science Act]]"
+  - "[[European Commission]]"
   - "[[Important Projects of Common European Interest]]"
 related_arguments:
   - "[[Argument_Bulfone_2024_IAI]]"

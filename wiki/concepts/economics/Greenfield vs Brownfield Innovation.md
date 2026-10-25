@@ -32,13 +32,13 @@ related_theories:
   - "[[Path Dependence]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[David C. Mowery]]"
   - "[[Mariana Mazzucato]]"
   - "[[Rainer Kattel]]"
 related_facts:
+  - "[[Department of Defense]]"
   - "[[Department of Energy]]"
   - "[[DARPA]]"
 related_arguments:

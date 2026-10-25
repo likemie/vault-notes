@@ -9,7 +9,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -40,6 +40,8 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[UK Research and Innovation]]"
+  - "[[Economic and Social Research Council]]"
   - "[[Association of Medical Research Charities]]"
   - "[[Research Excellence Framework]]"
 related_arguments:

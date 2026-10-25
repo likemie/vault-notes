@@ -10,10 +10,10 @@ aliases:
 summary: "以学生为学习主体、强调学生自主性与对话探究的教学理念，在不同文化和高利害考试语境下被重构为具备不同功能与权力边界的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Critical Thinking]]"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Cultural Validity]]"
   - "[[Variable]]"
-  - "[[Praxis]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
@@ -53,7 +52,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-26
 tags:
   - metax
 ---
@@ -135,7 +134,7 @@ tags:
 ### 命题一　高利害考试问责环境下以学生为中心教育可以通过重构活动系统共享客体实现与提分的并行协同
 
 > [!concept-lens] 考试问责与教学改革的协同机制
-> 围绕高利害考试压力（[[Test-Based Accountability\|Test-Based Accountability]]）是否必然扼杀教学改革展开。传统观点认为高利害考试促使教师回归灌输与应试；但最新理论与实证表明，当学校建构出连接应试与改革的共享目标时，LCE 能够被重构为提分杠杆，促成活动系统的扩展性改造（Expansive Transformation）。
+> 围绕高利害考试压力（[[Test-Based Accountability]]）是否必然扼杀教学改革展开。传统观点认为高利害考试促使教师回归灌输与应试；但最新理论与实证表明，当学校建构出连接应试与改革的共享目标时，LCE 能够被重构为提分杠杆，促成活动系统的扩展性改造（Expansive Transformation）。
 
 > [!claim] [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]
 > **活动系统共享客体的扩展性重构** 在高利害考试文化下，学校无需在考试优异与教学法创新之间二选一。当学校管理者将 LCE 重新[[Decodification\|解码]]为解决特定提分痛点的核心杠杆时——例如城市学校将其解码为培养应对[[Gaokao\|高考]]新考情所需的[[Critical Thinking\|批判性思维]]与高阶分析能力，农村学校将其解码为最大化农村学生课堂 45 分钟吸收效率的工具——即可建立“学校特定共享目标（School-Specific Shared Object）”。在此目标驱使下，学校协同重构评估规则（引入过程性评课指标或课改容错加分）、中介工具（校本化转译对话教学）与劳动分工（校长为教学试验承担风险），促成了活动系统的扩展性改造，实现了提分与改革的互惠共赢。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 598–602)]]

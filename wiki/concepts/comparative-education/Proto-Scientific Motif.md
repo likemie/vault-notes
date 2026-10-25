@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -102,7 +102,7 @@ updated: 2026-10-22
 > | 维度 | 准科学人道改良母题（Proto-Scientific Motif） | 行政[[Educational Meliorism\|改良主义]]母题（Administrative-Meliorist Motif） | 二十世纪逻辑实证[[Paradigm\|范式]]（[[Positivism\|positivist paradigm]]） |
 > |---|---|---|---|
 > | **代表学者** | 朱利安 | [[Victor Cousin\|库森]]、[[Horace Mann\|霍勒斯·曼]]、[[Calvin Stowe\|斯托]] | [[Harold Noah\|诺亚]]、[[Max Eckstein\|埃克斯坦]]、贝雷迪 |
-> | **核心认识论** | 自然科学归纳法、比较解剖学类比与[[Geisteswissenschaften\|人文科学]]统一 | 外国教育学（[[Auslandspadagogik\|Auslandspadagogik]]）政策借用 | 行为科学实证主义、数理统计与假设演绎法 |
+> | **核心认识论** | 自然科学归纳法、比较解剖学类比与[[Geisteswissenschaften\|人文科学]]统一 | 外国教育学（[[Auslandspadagogik]]）政策借用 | 行为科学实证主义、数理统计与假设演绎法 |
 > | **调查工具** | 标准化[[Questionnaire\|问卷]]表、多语种通报、特别教育委员会 | 官方行政考察报告、立法草案引证、游记评注 | 大规模跨国量化抽样、[[Multiple Regression\|多元回归]]分析、[[Scale of Measurement\|测量量表]] |
 > | **价值立场** | **强烈的人道改良主义与全人教化伦理** | **主权国家行政建制与立法合法化辩护** | **标榜[[Value Neutrality\|价值无涉]]（Value Neutrality）与科学客观** |
 > | **终极依归** | [[Perpetual Peace\|欧洲与世界永久和平]]、预防流血革命 | 民族国家体制巩固、公立学校法案辩护 | 建立中立的教育因果跨国预测定律 |

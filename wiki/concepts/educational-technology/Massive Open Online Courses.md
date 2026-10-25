@@ -8,7 +8,7 @@ aliases:
 summary: "依托互联网平台向海量学习者开放的数字化课程形态，包含联通主义 cMOOC 与行为主义 xMOOC 两种范式，在跨国教育合作中发挥数字化资源共享枢纽功能。"
 type: concept
 domain: "educational-technology"
-related_count: 0
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,10 +18,14 @@ tags:
   - higher-education
   - open-education
   - metax
+related_theories:
+  - "[[Connectivism]]"
+related_arguments:
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

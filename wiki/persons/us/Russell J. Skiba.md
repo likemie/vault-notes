@@ -8,7 +8,7 @@ summary: "美国印第安纳大学教育心理学名誉教授，全美学校纪�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,7 +34,9 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[United States Congress]]"
   - "[[House Committee on Education and the Workforce]]"
+  - "[[United States Department of Education]]"
 related_arguments:
   - "[[Argument_Serpell_2020_EducPsychol]]"
 confidence: high

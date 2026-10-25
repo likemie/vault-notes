@@ -8,7 +8,7 @@ aliases:
 summary: "表征新兴大国高等教育国际化战略由被动引进西方经验向主动对外输出模式、提供公共产品与重塑治理规则转变的理论构念，以境外办学、教育对外援助与战略性留学生招生为支柱，并以多边大学联盟为制度化载体。"
 type: concept
 domain: "higher-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -50,11 +50,12 @@ related_facts:
   - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_Chou_Demiryol_2024_HE]]"
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
   - "[[Argument_Woo_2023_HEP]]"
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

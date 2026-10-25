@@ -7,7 +7,7 @@ aliases:
 summary: "顺应新质生产力与产业技术革命需求，兼具深厚现场工艺积淀、数字化与智能化工具驾驭能力及跨文化敏捷协作素养的创新型复合工程技术技能人才。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 0
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,17 +17,20 @@ tags:
   - new-quality-productive-forces
   - skills
   - talent-development
-related_concepts: []
+related_concepts:
+  - "[[New Quality Productive Forces]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

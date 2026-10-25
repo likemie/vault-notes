@@ -52,14 +52,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较教育学家、教育评价学者。布里斯托大学教育学荣休教授、前教育学院院长，曾任格罗斯特大学副校长（Vice-Chancellor, 2006–2010）；历任[[British Association for International and Comparative Education|英国国际与比较教育学会]]（BAICE）会长、《比较教育》（*Comparative Education*）主编；2006 年因在教育领域的卓越贡献获颁大英帝国司令勋章（CBE）。
-> - **核心角色** [[Intercultural Education|跨文化教育]]评价与微观学习过程研究领军者；在英国比较教育学派第四代际转型中，将质性社会学与微观比较相结合，开创“[[Learnology|学习学]]”（[[Learnology|Learnology]]）研究纲领，有力纠偏了北美[[Positivism|实证主义]]抽离文化土壤的宏观回归[[Paradigm|范式]]。
+> - **核心角色** [[Intercultural Education|跨文化教育]]评价与微观学习过程研究领军者；在英国比较教育学派第四代际转型中，将质性社会学与微观比较相结合，开创“[[Learnology|学习学]]”（[[Learnology]]）研究纲领，有力纠偏了北美[[Positivism|实证主义]]抽离文化土壤的宏观回归[[Paradigm|范式]]。
 > - **代表贡献** 1. 创立微观“学习学”（Learnology）跨国比较框架；2. 主持英法初等教育评价与体验跨国比较项目（[[Picking Up the Pace|PACE 项目]]）；3. 与[[Robin Alexander|罗宾·亚历山大]]、戴维·菲利普斯合著里程碑著作《从比较中学习》（*Learning from Comparing*, 1999），确立英国比较教育关注课堂、情境与文化的学术传统。
 
 > [!citation-card] 人物定位的关键来源
@@ -95,7 +95,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心思想
-> 教育评价绝非[[Value Neutrality|价值中立]]的客观技术测量，而是深沉浸润于特定民族文化信念与制度契约之中的社会学实践；比较教育学若要摆脱北美计量经济实证模型的空洞化与短视化危机，就必须走出宏观统计数字的迷思，深入学校与课堂[[Champ|场域]]，确立以学习者主体经验、认知建构与心智发展为核心的“[[Learnology|微观学习学]]”（[[Learnology|Learnology]]），在情境与文化的深厚土壤中找回教育的人文价值。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
+> 教育评价绝非[[Value Neutrality|价值中立]]的客观技术测量，而是深沉浸润于特定民族文化信念与制度契约之中的社会学实践；比较教育学若要摆脱北美计量经济实证模型的空洞化与短视化危机，就必须走出宏观统计数字的迷思，深入学校与课堂[[Champ|场域]]，确立以学习者主体经验、认知建构与心智发展为核心的“[[Learnology|微观学习学]]”（[[Learnology]]），在情境与文化的深厚土壤中找回教育的人文价值。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
 
 > [!citation-card] 布罗德富特论走向比较“学习学”
 > 借由比较的棱镜，我们不仅能照见外部制度的异同，更能深入洞察学习者如何在具体的文化生态中理解自身并赋予学习以意义。超越宏观结构与标准化结果的执念，确立一门关注学习过程、意义赋予与评价赋权的微观学习学，是比较教育走向人文深化与实践赋能的必然归宿。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]

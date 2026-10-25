@@ -45,6 +45,8 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Academic Achievement]]"
   - "[[Scientific Literacy]]"
+  - "[[Learning Strategies]]"
+  - "[[Personalized Learning]]"
   - "[[Active Learning]]"
   - "[[Interaction Effect]]"
   - "[[Epistemic Community]]"
@@ -76,6 +78,7 @@ related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[EU]]"
+  - "[[European Commission]]"
   - "[[PISA Shock in Germany]]"
   - "[[PISA Shock in Japan]]"
   - "[[HarmoS]]"
@@ -101,9 +104,9 @@ title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 62
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: "Humanities and Social Sciences Communications"
 book_title: ""

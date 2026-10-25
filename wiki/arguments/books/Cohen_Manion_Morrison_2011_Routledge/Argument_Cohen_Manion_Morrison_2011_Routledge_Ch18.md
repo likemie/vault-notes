@@ -100,7 +100,7 @@ related_persons:
 related_instruments: []
 status: draft
 created: 2026-07-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 > [!knowledge-map] 第18章　[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Chapter_18_Concept_Map.jpg)
@@ -187,7 +187,7 @@ updated: 2026-10-22
 **第二层：哲学深度与哈贝马斯转向**
 
 > [!def] Carr and Kemmis (1986, p. 162)
-> 从[[Jürgen Habermas\|尤尔根·哈贝马斯]]（[[Jürgen Habermas\|Jürgen Habermas]]）立场出发，将行动研究视为一种自我反思性探究，由参与者进行，旨在改善他们对情境中自身实践的理解，以最大化社会正义（p. 265）。
+> 从[[Jürgen Habermas\|尤尔根·哈贝马斯]]（[[Jürgen Habermas]]）立场出发，将行动研究视为一种自我反思性探究，由参与者进行，旨在改善他们对情境中自身实践的理解，以最大化社会正义（p. 265）。
 
 > [!note] McNiff and Grundy 的哲学补充
 > 琼·麦克尼夫（McNiff, 2002, p. 17）进一步补充：行动研究者支持"人们可以创造自己的身份"的观点，并应允许他人也这样做。雪莉·格伦迪（Grundy, 1987, p. 142）则将行动研究视为关注改善"社会存在条件"的活动（p. 265）。
@@ -335,7 +335,7 @@ Kemmis and McTaggart（1992, p. 15）坚持"行动研究是群体活动"的立�
 
 ### 18.4 参与式行动研究
 
-参与式行动研究（[[Participatory Action Research|Participatory Action Research]], PAR）在全球范围内因其倡导赋权与解放而受到关注（p. 270）。
+参与式行动研究（[[Participatory Action Research]], PAR）在全球范围内因其倡导赋权与解放而受到关注（p. 270）。
 
 #### McTaggart (1989) 的十六信条
 

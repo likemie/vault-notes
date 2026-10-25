@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -131,7 +131,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 同行汇报与关联效度策略的辨析
-> | 维度 | 同行汇报（Peer Debriefing） | 成员核查（[[Member Checking\|Member Checking]]） | 外部审计（[[External Auditor\|External Auditor]]） |
+> | 维度 | 同行汇报（Peer Debriefing） | 成员核查（[[Member Checking]]） | 外部审计（[[External Auditor]]） |
 > |---|---|---|---|
 > | **审视者身份** | 方法论同行——熟悉[[Qualitative Research\|质性研究]]但未参与本项目 | 研究参与者——提供原始经验资料的当事人 | 完全独立的外部审计专家——不参与项目亦无私交 |
 > | **审视内容** | 研究者的**推理过程与理论建构**——解释是否逻辑严密、证据充分 | 研究者的**事实描述与意义还原**——是否真实反映参与者的切身体验 | 研究的**程序合规性与审计线索**——整个研究过程是否可追溯、可核查 |

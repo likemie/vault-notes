@@ -8,10 +8,10 @@ aliases:
 summary: "职业教育系统在办学宗旨、专业标准、人才培养与产教协同中整合国际维度的制度化进程，呈现从单校点状协议向线面平台化、制度化政策协同与跨区域合作生态圈深化的实践进路。"
 type: concept
 domain: "comparative-education"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept
   - vocational-education
@@ -19,28 +19,22 @@ tags:
   - theme/educational-cooperation
   - region/global
 related_concepts:
-  - "[[Education Going Global]]"
   - "[[Internationalization of Higher Education]]"
-  - "[[Educational Diplomacy]]"
-  - "[[Soft Power]]"
-  - "[[Community of Shared Future for Mankind]]"
+  - "[[Education Going Global]]"
+  - "[[Research Universities]]"
 related_theories: []
-related_methods:
-  - "[[Comparative Policy Analysis]]"
-  - "[[Documentary Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Belt and Road Initiative]]"
-  - "[[ASEAN]]"
   - "[[Luban Workshop]]"
-  - "[[China-ASEAN Education Cooperation Week]]"
+  - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -10,7 +10,7 @@ subtype: policy
 region: japan
 fact_region: "japan"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -29,7 +29,9 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[Skills Toward Employment and Productivity]]"
   - "[[Tsukuba Science City]]"
+  - "[[Ministry of Education, Culture, Sports, Science and Technology]]"
   - "[[ASEAN]]"
 related_arguments: []
 confidence: medium

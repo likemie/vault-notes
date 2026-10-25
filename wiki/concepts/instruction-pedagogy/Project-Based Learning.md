@@ -8,7 +8,7 @@ aliases:
 summary: "以真实驱动性问题为核心、以持续协作探究为路径、以生成并公开展示真实制品为导向的学生中心教学模式，能显著激发创造力与高阶思维，但高度依赖认知脚手架与自我调节能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -53,7 +53,6 @@ related_theories:
 related_methods:
   - "[[Design-Based Research]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
@@ -63,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Project-Based Learning

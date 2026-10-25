@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 7
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -31,7 +31,9 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Wellcome Trust]]"
   - "[[Advanced Manufacturing Research Centre]]"
+  - "[[The Royal Society]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
 confidence: high
@@ -61,7 +63,7 @@ updated: 2026-10-26
 
 > [!pathways] 破解信任赤字的第三部门示范意义
 > - **弥合公众与现代生命科学的隔阂** 相比商业私立药企因利润驱动面临的公众怀疑，医学研究慈善机构依托深厚的人道关怀与患者共情，建立了全社会最高的公信力与信任纽带，成为联结学术科学家、产业转化团队与患者群体的关键制度桥梁。
-> - **为其它学科科研参与提供标杆经验** [[Royal Society|英国皇家学会]]指出，第三部门在处理高度复杂、涉及痛苦生活体验与伦理争议的健康科学议题中积累的成熟参与[[Paradigm\|范式]]，为人工智能、环境治理及工程基建等其它科学领域的公众参与提供了极富价值的操作范本。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, pp. 74–75)]]
+> - **为其它学科科研参与提供标杆经验** [[The Royal Society|英国皇家学会]]指出，第三部门在处理高度复杂、涉及痛苦生活体验与伦理争议的健康科学议题中积累的成熟参与[[Paradigm\|范式]]，为人工智能、环境治理及工程基建等其它科学领域的公众参与提供了极富价值的操作范本。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, pp. 74–75)]]
 
 ---
 

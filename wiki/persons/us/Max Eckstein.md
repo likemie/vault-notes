@@ -84,18 +84,18 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍德裔/英裔比较教育学家，纽约城市大学皇后学院（Queens College, City University of New York, CUNY）教育学教授，美国[[Comparative and International Education Society|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前会长（1988–1989）。
-> - **核心角色** 战后第三代际“实证[[Scientism|科学主义]]运动”（Discourse 3, 1960–1980）三大核[[Flow|心流]]派之一——哥伦比亚大学学派（哥大学派/TC 学派）的代表人物与奠基者之一。与[[Harold Noah|哈罗德·诺亚]]（[[Harold Noah|Harold Noah]]）组成长达三十余年的学术双子星，系统推动比较教育从古典历史-哲学定性描述向跨国定量[[Causal Modeling|因果建模]]与假设检验转型。卡扎米亚斯（[[Andreas Kazamias|Andreas Kazamias]]）指出，埃克斯坦与诺亚在 1969 年《走向比较教育科学》中主张以严谨的[[Positivism|实证主义]]重塑学科，其核心纲领在于“以抽象[[Variable|变量]]名称替代具体的社会系统或国家名称”，通过[[IEA|国际教育成就评价协会]]（[[IEA]]）等大规模跨国调查数据和多元统计分析寻找跨国通则。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
+> - **核心角色** 战后第三代际“实证[[Scientism|科学主义]]运动”（Discourse 3, 1960–1980）三大核[[Flow|心流]]派之一——哥伦比亚大学学派（哥大学派/TC 学派）的代表人物与奠基者之一。与[[Harold Noah|哈罗德·诺亚]]（[[Harold Noah]]）组成长达三十余年的学术双子星，系统推动比较教育从古典历史-哲学定性描述向跨国定量[[Causal Modeling|因果建模]]与假设检验转型。卡扎米亚斯（[[Andreas Kazamias]]）指出，埃克斯坦与诺亚在 1969 年《走向比较教育科学》中主张以严谨的[[Positivism|实证主义]]重塑学科，其核心纲领在于“以抽象[[Variable|变量]]名称替代具体的社会系统或国家名称”，通过[[IEA|国际教育成就评价协会]]（[[IEA]]）等大规模跨国调查数据和多元统计分析寻找跨国通则。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 > - **代表贡献** 与诺亚合著里程碑专著《走向比较教育科学》（*Toward a Science of Comparative Education*, 1969）与《比较教育的科学调查》（*Scientific Investigations in Comparative Education*, 1969）；构建[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]函数共变[[Analytic Framework|分析框架]]；领衔国际教育成就评价协会（IEA）跨国测评数据挖掘与中等学校考试选拔机制比较研究。
 
 > [!citation-card] 考恩论埃克斯坦与诺亚的学术接纳与学科合法性
-> [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen|Robert Cowen]]）深情评析指出，埃克斯坦与诺亚在个人层面上是最早热情接纳其赴美执教的前辈学者，而在专业层面上，他们的经典著作以清晰严谨的秩序感解答了比较教育学科起源的根本困惑，赋予了战后年轻一代比较教育学者坚实的学术职业合法性。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]
+> [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）深情评析指出，埃克斯坦与诺亚在个人层面上是最早热情接纳其赴美执教的前辈学者，而在专业层面上，他们的经典著作以清晰严谨的秩序感解答了比较教育学科起源的根本困惑，赋予了战后年轻一代比较教育学者坚实的学术职业合法性。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]
 >
 > *Max Eckstein and Harold Noah do not know this but I have for years liked both of them very much. At the personal level, I was most touched when they were the first in the comparative education community to warmly welcome me to the USA... Professionally, they had also, earlier, solved one of my problems as a student: where is there a history of comparative education? It was there in their classic text... The history legitimated me.*
 
@@ -185,7 +185,7 @@ updated: 2026-10-22
 > *Professionally, they had also, earlier, solved one of my problems as a student: where is there a history of comparative education? It was there in their classic text (Noah & Eckstein, 1969). Here the origins of the [[Champ|field]] were set out with exemplary clarity. The footnoting was scholarly and clearly a flurry of research had been done... The history legitimated me.*
 
 > [!citation-card] 卡扎米亚斯论战后实证方法论旗手对历史学派的挑战
-> 在 1960 年代学科转型时期的众多著述中，以科学为取向的方法论学者诺亚与埃克斯坦在其被频频引用的著作《走向比较教育科学》（1969）中批判指出，历史学派的结论主要依赖于作者个人的私人洞察力，不仅在分类范畴与相关数据选择上如此，在何种质与量的证据构成论断证明上也同样如此；他们在学科演进叙事中将[[Isaac Kandel|艾萨克·坎德尔]]（[[Isaac Kandel|Isaac Kandel]]）与[[Nicholas Hans|尼古拉斯·汉斯]]（[[Nicholas Hans|Nicholas Hans]]）归入前科学的动力与因素阶段。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 53)]]
+> 在 1960 年代学科转型时期的众多著述中，以科学为取向的方法论学者诺亚与埃克斯坦在其被频频引用的著作《走向比较教育科学》（1969）中批判指出，历史学派的结论主要依赖于作者个人的私人洞察力，不仅在分类范畴与相关数据选择上如此，在何种质与量的证据构成论断证明上也同样如此；他们在学科演进叙事中将[[Isaac Kandel|艾萨克·坎德尔]]（[[Isaac Kandel]]）与[[Nicholas Hans|尼古拉斯·汉斯]]（[[Nicholas Hans]]）归入前科学的动力与因素阶段。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 53)]]
 >
 > *Commenting on the 'historical approach' as used by comparativists, the scientifically-oriented methodologists Noah and Eckstein, in their often-cited text Toward a Science of Comparative Education (1969), noted critically that 'their conclusions rely largely on the private insights of their authors, not only regarding which categories are valid and which data are relevant, but also on the matter of what quantity and quality of evidence constitute proof of a particular assertion'... Noah and Eckstein placed such historically-oriented comparativists as Kandel and Hans in the 'pre-scientific', so-called 'forces and factors' phase of the field's evolution.*
 

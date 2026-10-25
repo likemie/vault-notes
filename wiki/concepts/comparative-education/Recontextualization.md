@@ -11,10 +11,10 @@ aliases:
 summary: "知识与教育话语脱离原始生产场所并在跨场域流转中被接受者选择性挪用、重新定位、改造并嵌入本土制度与文化秩序的再情境化过程"
 type: concept
 domain: "comparative-education"
-related_count: 60
-related_level: 6
-related_stars: "💎💎"
-related_color: "#ddd6fe"
+related_count: 55
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 related_concepts:
   - "[[Discourse]]"
   - "[[Champ]]"
@@ -47,14 +47,9 @@ related_concepts:
   - "[[Shape-Shifting]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
-  - "[[Mātauranga Māori]]"
   - "[[Decodification]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Documentary Analysis]]"
-  - "[[Historical Document Analysis of Curriculum]]"
-  - "[[Discourse Analysis]]"
-  - "[[In-depth Interview]]"
   - "[[Case Study]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Qualitative Observation]]"
@@ -84,7 +79,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

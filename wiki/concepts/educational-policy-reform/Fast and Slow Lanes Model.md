@@ -8,7 +8,7 @@ aliases:
 summary: "吉塔·施泰纳-哈姆西等学者于 2024 年提出的知识治理分析模型，在传统两社区理论基础上将循证政策生态解构为快车道（决策社群）、慢车道（科研社群）与中间车道（中介与经纪机构）三大支柱，揭示了中介机构虽能压缩转译学术产出但易诱发去情境化推销与信息过载的治理机理。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,7 +20,7 @@ tags:
   - theme/knowledge-governance
 related_concepts:
   - "[[Epistemic Governance]]"
-  - "[[Educational Brokerage Agency]]"
+  - "[[Knowledge Mediation]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Output-Oriented Governance]]"
   - "[[Knowledge Production]]"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Discourse]]"
   - "[[Two Broken Feedback Loops]]"
+  - "[[Educational Brokerage Agency]]"
 related_theories:
   - "[[Two-Communities Theory]]"
 related_methods:

@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 70
+fact_related_count: 74
 fact_related_level: 7
 fact_related_stars: "💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_theories:
   - "[[Varieties of Capitalism]]"
   - "[[Social Contract of Science]]"
 related_facts:
+  - "[[United States Congress]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Inflation Reduction Act]]"
   - "[[International Reading Association]]"
@@ -76,13 +77,16 @@ related_facts:
   - "[[Natcast]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
   - "[[Microelectronics Commons]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[Manufacturing USA]]"
   - "[[Regional Technology and Innovation Hubs]]"
   - "[[DARPA]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[Joint University Microelectronics Program 2.0]]"
+  - "[[Department of Commerce]]"
   - "[[Subcommittee on Microelectronics Leadership]]"
   - "[[National Strategy on Microelectronics Research]]"
+  - "[[Department of Defense]]"
   - "[[Albany NanoTech Complex]]"
   - "[[America COMPETES Act]]"
   - "[[EU]]"

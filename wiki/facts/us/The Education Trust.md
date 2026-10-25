@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Examination-Oriented Education]]"
   - "[[Policy Window]]"
   - "[[Problem Finding]]"
+  - "[[Knowledge Mediation]]"
 related_theories:
   - "[[Six-Stage Model of Policymaking]]"
 related_methods:
@@ -51,6 +52,7 @@ related_facts:
   - "[[Thomas B. Fordham Institute]]"
   - "[[American Diploma Project]]"
   - "[[National Assessment of Educational Progress]]"
+  - "[[United States Department of Education]]"
   - "[[American Federation of Teachers]]"
   - "[[House Committee on Education and the Workforce]]"
 related_arguments:

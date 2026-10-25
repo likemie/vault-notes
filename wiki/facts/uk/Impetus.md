@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -48,6 +48,7 @@ related_facts:
   - "[[Sutton Trust]]"
   - "[[Education Endowment Foundation]]"
   - "[[Pupil Equity Funding]]"
+  - "[[Department for Education]]"
   - "[[Social Ventures Australia]]"
   - "[[National Pupil Database]]"
   - "[[EEF Teaching and Learning Toolkit]]"

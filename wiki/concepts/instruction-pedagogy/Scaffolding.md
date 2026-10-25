@@ -14,7 +14,7 @@ aliases:
 summary: "教师、同伴或技术工具在学习者最近发展区内提供的临时性认知与教学支持结构，通过任务拆解、启发提示与系统性渐隐，协助学习者跨越能力边界并将外部支持内化为自主心智能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 67
+related_count: 65
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -88,9 +88,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Role-playing]]"
   - "[[Chain-of-Thought Prompting]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
-  - "[[Effect Size]]"
   - "[[Systematic Review]]"
   - "[[Case Study]]"
 related_persons:
@@ -100,7 +98,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Scaffolding

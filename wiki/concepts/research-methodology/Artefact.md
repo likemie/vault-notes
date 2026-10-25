@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Tacit Knowledge]]"
   - "[[Construct]]"
   - "[[Visual Data]]"
   - "[[Boundary Object]]"
@@ -36,11 +37,10 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
+  - "[[Policy Mobility]]"
   - "[[Determinism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Whiggism]]"
-  - "[[Tacit Knowledge]]"
-  - "[[Policy Mobility]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Post-structuralism]]"
@@ -54,13 +54,13 @@ related_methods:
   - "[[Blinding]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
-  - "[[Argument_Stone_2020_PolSoc]]"
 related_persons:
   - "[[Louis Cohen]]"
   - "[[Lawrence Manion]]"

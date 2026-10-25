@@ -50,6 +50,7 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Reliability]]"
   - "[[Predictive Validity]]"
+  - "[[Co-Teaching]]"
   - "[[Effective Teaching]]"
   - "[[Brainstorming]]"
   - "[[Open-Mindedness]]"
@@ -106,7 +107,7 @@ title: "Argument_Park_2026_TSC"
 argument_key: "Argument_Park_2026_TSC"
 argument_display_title: "Exploring the intersection of creativity and critical thinking among students: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 68
+argument_related_count: 69
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -199,10 +200,10 @@ issuing_organization: ""
 > |------|----------------|
 > | **测量类型编码**<br>Measurement Coding | 按创造力与[[Critical Thinking Assessment\|批判性思维测评]]元分析的惯例（Storme et al., 2021; N. K. Park et al., 2016），将测量分为主观（自陈/自评，如[[Creative Self-Efficacy\|创造自我效能]]、批判性思维倾向量表）与客观（观念/产品产出或任务表现，如[[Torrance Tests of Creative Thinking\|非常规用途测验]]、沃森-格拉泽批判性思维评价）两类；同时提取参与者平均年龄、学段、发表年份与地理区域。 |
 > | **[[Effect Size\|效应量]]提取**<br>Effect Size Extraction | 从各研究提取创造力与批判性思维测量的相关系数，保留 51 个相关估计（$k = 51$），嵌套于 29 项研究，总样本 $N = 12{,}548$；部分研究因同一参与者施测不同测量、或同一测量用于不同参与者而提供多个相关。 |
-> | **统计合成**<br>[[Three-Level Meta-Analysis\|Three-Level Meta-Analysis]] | 由于研究内效应量不独立，采用三水平随机效应元分析：方差分解为效应量抽样误差（Level 1）、研究内效应量间变异（Level 2）与研究间变异（Level 3）；效应量经 Fisher's $z$ 变换，以抽样方差倒数加权，以 $I^2$ 与 $Q$ 检验量化[[Heterogeneity\|异质性]]；使用 R 包 "meta"（Balduzzi et al., 2019）估计。 |
+> | **统计合成**<br>[[Three-Level Meta-Analysis]] | 由于研究内效应量不独立，采用三水平随机效应元分析：方差分解为效应量抽样误差（Level 1）、研究内效应量间变异（Level 2）与研究间变异（Level 3）；效应量经 Fisher's $z$ 变换，以抽样方差倒数加权，以 $I^2$ 与 $Q$ 检验量化[[Heterogeneity\|异质性]]；使用 R 包 "meta"（Balduzzi et al., 2019）估计。 |
 > | **稳健性分析**<br>[[Robust Variance Estimation\|RVE]] | 用稳健方差估计（Robust Variance Estimation, RVE）提供小样本调整[[Standard Error\|标准误]]，即使研究内效应量相关时依然有效；RVE 模型由 R 包 "clubSandwich"（Pustejovsky, 2023）施加于 "metafor"（Viechtbauer, 2010）的三水平模型。 |
 > | **[[Publication Bias\|发表偏倚]]检验**<br>Publication Bias Tests | 采用[[Egger Regression Test\|艾格回归检验]]（Egger's regression test of funnel plot asymmetry）与等高线增强漏斗图，区分不对称来自缺失的非显著研究（发表偏倚）还是研究间真实差异（Peters et al., 2008）。 |
-> | **调节分析**<br>[[Meta-regression\|Meta-regression]] | 以三水平元回归逐一检验年龄、学段、地理区域、发表年份、创造力测量类型与批判性思维测量类型的调节作用，并检验两类测量类型的交互项；以 omnibus 检验（$Q_M$）判断调节变量解释的异质性是否显著，调节变量既单独进入也在一项额外调节变量控制下进入模型。 |
+> | **调节分析**<br>[[Meta-regression]] | 以三水平元回归逐一检验年龄、学段、地理区域、发表年份、创造力测量类型与批判性思维测量类型的调节作用，并检验两类测量类型的交互项；以 omnibus 检验（$Q_M$）判断调节变量解释的异质性是否显著，调节变量既单独进入也在一项额外调节变量控制下进入模型。 |
 
 > [!synthesis-model] 效应量与统计模型
 > - **效应量指标** 皮尔逊 $r$，经 Fisher's $z$ 变换稳定方差并正态化。

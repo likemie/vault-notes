@@ -8,7 +8,7 @@ aliases:
 summary: "在高度仿真的物理、虚拟或社会环境中进行动态操作、决策试错与即时复盘的高阶教学模式，广泛用于医学、工程与复杂问题解决"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,7 +33,6 @@ related_theories: []
 related_methods:
   - "[[Role-playing]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

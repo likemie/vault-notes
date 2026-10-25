@@ -10,7 +10,7 @@ summary: "美国著名创新经济学与科技政策学者，加州大学伯克�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 44
+person_related_count: 46
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -65,7 +65,9 @@ related_facts:
   - "[[VLSI Project]]"
   - "[[ESPRIT]]"
   - "[[Competitive Semiconductor Manufacturing Program]]"
+  - "[[United States Congress]]"
   - "[[DARPA]]"
+  - "[[Department of Commerce]]"
   - "[[Semi-Automatic Ground Environment]]"
   - "[[Bell Labs]]"
 related_arguments:

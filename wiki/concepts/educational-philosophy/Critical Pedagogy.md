@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -131,7 +131,7 @@ updated: 2026-10-25
 
 > [!feature] 核心要素
 > - **活经验作为教学起点（Lived Experience）** 教学必须扎根于学生真实的社会生活经历与压迫感官体验，拒绝将脱离具体情境的普适大纲强加于学生。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 145–147)]]
-> - **[[Conscientization|批判意识觉醒]]与反思实践（Conscientização & [[Praxis]]）** 引导学生看穿支配性意识形态对日常现实的遮蔽，将批判思考与改造世界的实际行动紧密联结，打破[[Culture of Silence|沉默文化]]（[[Culture of Silence|Culture of Silence]]）。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 7–10)]]
+> - **[[Conscientization|批判意识觉醒]]与反思实践（Conscientização & [[Praxis]]）** 引导学生看穿支配性意识形态对日常现实的遮蔽，将批判思考与改造世界的实际行动紧密联结，打破[[Culture of Silence|沉默文化]]（[[Culture of Silence]]）。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 7–10)]]
 > - **[[Problem-Posing Education|提问式教育]]取代[[Banking Model of Education|储蓄式教育]]模式（Problem-Posing vs. Banking）** 坚决废黜自上而下单向灌输的知识存款模式，建立师生平等的对话机制，在共同面对真实问题的生成性探究中[[Constructed Knowledge|建构知识]]。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]]
 > - **可能性的语言与文化政治[[Champ|场域]]（Language of Possibility & Cultural Politics）** 视学校为不同[[Discourse|话语]]争夺合法性的政治场域（[[Champ|场域]]），以赋权与希望的可能性的语言，取代消极被动的支配性叙事。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 147–148)]]
 > - **[[Alien Intelligence|异己智能]]定位与思维全外显防御（Alien Intelligence & Showing Steps）** 将批判教育学的对话解放精神投射于智能时代：拒绝把 AI 视为共情伙伴，将其明确界定为缺乏人类具身生活与道德意图的异己智能，通过强制外显思考过程构筑认识防御。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]

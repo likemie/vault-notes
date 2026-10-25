@@ -7,7 +7,7 @@ aliases:
 summary: "个体对自己学术能力的整体感知和评价，既受实际成绩影响也反向影响学习动机和投入，是学业成就的中介变量和代理指标"
 type: concept
 domain: "educational-psychology"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Domain Specificity]]"
 related_theories: []
 related_methods:
-  - "[[Effect Size]]"
   - "[[Convenience Sampling]]"
 related_persons: []
 related_facts: []
@@ -34,7 +33,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-07-01
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Academic Self-Concept

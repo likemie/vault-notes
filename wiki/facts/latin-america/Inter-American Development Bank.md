@@ -27,6 +27,7 @@ tags:
   - theme/policy-borrowing
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Policy Ambassador]]"
   - "[[Counterpart Funds]]"
   - "[[Policy Conditionalities]]"
   - "[[Educational Decentralization]]"
@@ -38,7 +39,6 @@ related_concepts:
   - "[[Multilateral Development Bank]]"
   - "[[Washington Consensus]]"
   - "[[Knowledge Bank]]"
-  - "[[Policy Ambassador]]"
   - "[[South-South Cooperation]]"
 related_theories:
   - "[[Organizational Culture]]"

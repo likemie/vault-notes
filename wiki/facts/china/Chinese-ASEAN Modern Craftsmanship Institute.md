@@ -10,9 +10,9 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 13
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2023–至今"
 initiator_organization: "中华人民共和国教育部、广西壮族自治区人民政府"
@@ -24,13 +24,26 @@ tags:
   - region/china
   - region/southeast-asia
   - level/international
-related_concepts: []
+related_concepts:
+  - "[[Education Going Global]]"
+  - "[[Apprenticeship]]"
+  - "[[Internationalization of Vocational Education]]"
+  - "[[Industry-Education Integration Community]]"
+  - "[[Emergent Talents]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[ASEAN]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
+  - "[[Luban Workshop]]"
+  - "[[UNESCO]]"
+  - "[[China-ASEAN Federation for Vocational Education]]"
+  - "[[Belt and Road Initiative]]"
+related_arguments:
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: medium
 status: draft
 created: 2026-10-22

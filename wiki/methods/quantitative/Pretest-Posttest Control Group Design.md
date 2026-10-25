@@ -28,10 +28,10 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Ecological Validity]]"
 related_methods:
-  - "[[Pre-test and Post-test]]"
   - "[[True Experimental Design]]"
   - "[[Random Assignment]]"
   - "[[Effect Size]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Solomon Four-Group Design]]"
   - "[[Analysis of Covariance]]"
   - "[[Quasi-Experimental Designs]]"

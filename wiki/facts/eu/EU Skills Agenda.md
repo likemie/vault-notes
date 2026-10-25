@@ -10,7 +10,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Lifelong Learning]]"
   - "[[Policy Network]]"
+  - "[[Triangular Cooperation]]"
   - "[[Selectivity]]"
   - "[[Discourse]]"
   - "[[Bureaucracy]]"
@@ -41,6 +42,7 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[EU]]"
+  - "[[European Commission]]"
   - "[[Europe 2020 Strategy]]"
   - "[[Innovation Union]]"
   - "[[Youth Guarantee Scheme]]"

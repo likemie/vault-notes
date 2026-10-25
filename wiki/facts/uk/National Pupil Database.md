@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_instruments:
   - "[[EEF Padlock Security Rating]]"
 related_persons: []
 related_facts:
+  - "[[Department for Education]]"
   - "[[Pupil Premium]]"
   - "[[Education Endowment Foundation]]"
   - "[[What Works Network]]"

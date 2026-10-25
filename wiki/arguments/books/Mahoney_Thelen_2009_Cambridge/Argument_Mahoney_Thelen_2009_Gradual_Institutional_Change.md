@@ -7,7 +7,7 @@ title: "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change"
 argument_key: "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change"
 argument_display_title: "A theory of gradual institutional change"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Champ]]"
   - "[[Interaction Effect]]"
+  - "[[School Vouchers]]"
   - "[[Baptist-Bootlegger Coalition]]"
   - "[[Emergence]]"
   - "[[Avatar]]"
@@ -77,6 +78,8 @@ sources:
   - "[[books/Mahoney_Thelen_2009_Cambridge/Ch01_Mahoney_Thelen_2009|Ch01_Mahoney_Thelen_2009]]"
 related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
+related_facts:
+  - "[[United States Congress]]"
 status: draft
 created: 2026-10-11
 updated: 2026-10-26

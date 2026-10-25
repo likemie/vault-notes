@@ -9,7 +9,7 @@ aliases:
 summary: "阐释政策制定由国会专门委员会、行政官僚机构与特定利益集团三方紧密结盟所垄断的政治学分析框架，揭示封闭铁三角对专业话语、科研资助与法定标准的排他性支配"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 20
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -41,6 +41,7 @@ related_instruments: []
 related_persons:
   - "[[G. Reid Lyon]]"
 related_facts:
+  - "[[United States Congress]]"
   - "[[National Institute of Child Health and Human Development]]"
   - "[[House Committee on Education and the Workforce]]"
   - "[[Reading Excellence Act]]"

@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 24
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: government-agency
 headquarters: "London, United Kingdom"
@@ -22,13 +22,37 @@ tags:
   - theme/educational-governance
   - theme/evidence-informed-policy
   - theme/educational-policy
-related_concepts: []
+related_concepts:
+  - "[[Categorical Funding]]"
+  - "[[Self-Improving School System]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Evidence-Informed Practice]]"
+  - "[[Discourse]]"
+  - "[[Further Education]]"
+  - "[[Apprenticeship]]"
+  - "[[Research-Informed Teaching Practice]]"
+  - "[[Research Utilization]]"
+  - "[[Informal Science Learning]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Elite Interview]]"
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[The Importance of Teaching]]"
+  - "[[Education Endowment Foundation]]"
+  - "[[Sutton Trust]]"
+  - "[[Wellcome Trust]]"
+  - "[[Science Learning Centres Network]]"
+  - "[[Evidence-Based Education Institutions]]"
+related_arguments:
+  - "[[Argument_Brown_Greany_2018_LPS]]"
+  - "[[Argument_Brown_2017_EducRes]]"
+  - "[[Argument_Helgetun_2022_JEdPolicy]]"
+  - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
+  - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
 confidence: medium
 status: draft
 created: 2026-10-26

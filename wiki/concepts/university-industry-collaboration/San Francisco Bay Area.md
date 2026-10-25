@@ -8,7 +8,7 @@ aliases:
 summary: "地处美国加利福尼亚州北部的全球科技创新高地，以硅谷为核心集聚斯坦福大学等顶尖高校，以电子信息、半导体与生物医药为支柱，依托禁止竞业限制法规、企业衍生网络、多层次风险投资及跨辖区专业协调机制，形成自下而上的自组织区域创新生态系统。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,6 +43,7 @@ related_facts:
   - "[[Fairchild Semiconductor]]"
   - "[[Tsukuba Science City]]"
   - "[[Stanford Research Park]]"
+  - "[[Department of Defense]]"
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
 related_arguments:
   - "[[Argument_Zhang_2023_PHEI]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-11
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

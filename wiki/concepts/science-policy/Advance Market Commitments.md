@@ -40,8 +40,8 @@ related_instruments:
 related_persons:
   - "[[Michael Kratsios]]"
 related_facts:
-  - "[[Bill & Melinda Gates Foundation]]"
   - "[[Department of Energy]]"
+  - "[[Bill & Melinda Gates Foundation]]"
   - "[[Science A New Golden Age 2026]]"
   - "[[Office of Science and Technology Policy]]"
 related_arguments:

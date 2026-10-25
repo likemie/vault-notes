@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[Education Innovation and Research]]"
   - "[[Institute of Education Sciences]]"
   - "[[Education Endowment Foundation]]"

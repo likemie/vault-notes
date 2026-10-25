@@ -12,14 +12,14 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 32
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: 联邦跨部门制造业公私伙伴创新网络（PPP）
 headquarters: 美国马里兰州盖瑟斯堡（NIST AMNPO 协调办公室）及全美各研究所专属基地
 established: "2014"
-issuing_organization: "美国商务部（NIST）/ 美国国防部 / [[Department of Energy|美国能源部]]"
+issuing_organization: "[[Department of Commerce|美国商务部（NIST）]]/ [[Department of Defense|美国国防部]] / [[Department of Energy|美国能源部]]"
 tags:
   - region/us
   - policy/innovation-policy
@@ -50,8 +50,12 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Fraunhofer Society Model]]"
+  - "[[United States Congress]]"
+  - "[[National Institute of Standards and Technology]]"
+  - "[[Department of Defense]]"
   - "[[Department of Energy]]"
   - "[[CHIPS and Science Act]]"
+  - "[[Department of Commerce]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
   - "[[National Advanced Packaging Manufacturing Program]]"

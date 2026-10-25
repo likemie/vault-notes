@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -52,6 +52,7 @@ related_persons:
 related_facts:
   - "[[Institute of Education Sciences]]"
   - "[[Best Evidence Synthesis]]"
+  - "[[United States Department of Education]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Evidence for ESSA]]"
   - "[[Best Evidence in Brief]]"

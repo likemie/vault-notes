@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -87,7 +87,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 概念辨析
-> | 维度 | 知识交流（Knowledge Exchange） | 技术转移（[[Technology Transfer\|Technology Transfer]]） | [[University-Industry Collaboration\|产学合作]]研发（Joint R&D） | [[Tacit Knowledge\|隐性知识]]外溢（Tacit Knowledge Spillovers） |
+> | 维度 | 知识交流（Knowledge Exchange） | 技术转移（[[Technology Transfer]]） | [[University-Industry Collaboration\|产学合作]]研发（Joint R&D） | [[Tacit Knowledge\|隐性知识]]外溢（Tacit Knowledge Spillovers） |
 > |---|---|---|---|---|
 > | **流动方向** | 双向循环、网络化交互流动 | 单向线性（大学研发 → 企业商业化） | 双向任务协同与联合攻关 | 非意图性环境渗透与非正式扩散 |
 > | **核心标的** | 显性成果、隐性技能、方法论与前沿洞见 | 专利、专有技术诀窍（Know-how）、软件版权 | 项目合同约定的阶段性研发交付物 | 工程师个人经验、工艺调试经验直觉 |

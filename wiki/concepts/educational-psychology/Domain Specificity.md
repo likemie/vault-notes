@@ -9,7 +9,7 @@ aliases:
 summary: "指出个体的认知能力、思维技能与认识论信念并非跨情境通用的，而是深度内嵌于特定学科知识结构与社会情境中；现代研究主张通过通用规则与学科融入相结合的混合双层模型实现认知迁移"
 type: concept
 domain: "educational-psychology"
-related_count: 52
+related_count: 50
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -44,11 +44,10 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Source Evaluation]]"
   - "[[Infusion Approach]]"
-  - "[[Dependent Variable]]"
   - "[[Variable]]"
   - "[[Epistemological Understanding]]"
-  - "[[Interaction Effect]]"
   - "[[Academic Achievement]]"
+  - "[[Interaction Effect]]"
   - "[[Creativity Assessment]]"
 related_theories: []
 related_methods:
@@ -58,7 +57,6 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Questionnaire]]"
   - "[[Confidence Interval]]"
-  - "[[Effect Size]]"
   - "[[Experimental Research]]"
   - "[[Factor Mixture Modeling]]"
   - "[[Systematic Review]]"
@@ -81,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

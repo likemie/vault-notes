@@ -8,7 +8,7 @@ summary: "超越描述性文献汇总的定性研究综述方法，通过批判�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_arguments:
   - "[[Argument_Mausethagen_2025_ERR]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Zhang_2022_SE]]"
@@ -63,7 +64,7 @@ updated: 2026-10-26
 > [!method-scope] 方法范围
 > - **研究对象** 既有学术文献的核心概念界定、底层理论假设、问题提出方式、实证研究设计与政策推论逻辑。
 > - **核心目标** 概念解构、理论反思、[[Paradigm\|范式]]批判与提出新的概念框架。
-> - **分析材料** 经过系统检索与严格筛选的同行评议期刊论文、学术专著或权威研究报告全文。
+> - **分析材料** 经过系统检索与严格筛选的同行评议期刊文献、学术专著或权威研究报告全文。
 > - **最终产出** 概念分析矩阵、理论张力辨析、思维定势诊断，以及面向未来研究的新概念/新理论框架。
 
 > [!citation-card] 关键定义
@@ -75,7 +76,7 @@ updated: 2026-10-26
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 批判[[Interpretivism|解释主义]]：认为学术文献不仅记录了经验数据，更反映了特定时期的理论假设与思维方式；综述的核心在于看清这些知识是如何被建构出来的。
-> - **研究者角色** 概念侦测者与理论重构者：不追求对统计数据的机械汇总求平均，而是通过深度文本细读，找出既有研究共同忽视的盲点、未言明的预设或循环论证。
+> - **研究者角色** 概念侦测者与理论重构者：侧重深度文本细读，超越统计数据机械汇总求平均，找出既有研究共同忽视的盲点、未言明的预设或循环论证。
 > - **质量评判标准** 概念分析是否透彻深刻、对文献内在矛盾的揭示是否有力、分类维度是否清晰自洽，以及提出的新概念是否具有解释力。
 > - **不适用的问题** 无法计算干预措施的平均[[Effect Size\|效应量]]，也不能替代直接深入一线的田野[[Fieldwork\|实地调查]]。
 
@@ -112,7 +113,7 @@ updated: 2026-10-26
 ---
 
 > [!method-fit] 适用判断
-> - **最适合** 某领域积累了大量实证论文但调查结论千篇一律、面临理论停滞或概念模糊时；需要反思政策口号对学术研究带来的思维束缚时。（pp. 2–3）
+> - **最适合** 某领域积累了大量实证文献但调查结论千篇一律、面临理论停滞或概念模糊时；需要反思政策口号对学术研究带来的思维束缚时。（pp. 2–3）
 > - **谨慎使用** 某新兴领域文献极少、尚未形成可供深入批判的主流理论时。
 > - **不适合** 需要精确计算某项教学方法平均成效（[[Effect Size\|效应量]]）的量化[[Meta-analysis\|元分析]]任务；仅需了解基础概念的快速入门概述。
 
@@ -122,7 +123,7 @@ updated: 2026-10-26
 > - **主观偏误风险** 研究者自身的理论偏好可能导致选择性解读；[[Coding in Qualitative Research\|质性编码]]与概念提炼具有较强的主观诠释性。
 > - **依赖文献质量** 综述结论高度受限于检索数据库的覆盖面和所纳入文献本身的代表性。
 > - **误用风险** 脱离文献实证细节进行抽象思辨，或仅停留在解构批判而未能提出建设性的替代框架。
-> - **应对策略** 采用透明严格的检索与双人独立评估流程；公布完整的文献清单；紧扣文献原文细节提供扎实的引证。
+> - **应对策略** 采用透明严格的检索与双人独立评估流程；公布完整的文献清单；紧扣文献实证细节提供扎实的引证。
 
 ---
 
@@ -139,6 +140,6 @@ updated: 2026-10-26
 > [!evidence-grid-a] 相关研究索引
 > - **[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]]** 运用教育政策社会学批判综述方法，系统解构 PISA 作为新自由主义治理工具的机制，构建政策指引与背书二元象限，推动研究走向批判建构范式。
 > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 运用系统性批判综述方法，结合 [[PRISMA]] 检索与多维概念分析，对 34 篇关于教育中[[Research Utilization\|研究使用]]的文献进行全文本解构，揭示 30 年来该领域[[Deficit Framing\|赤字框架]]与[[Methodological Individualism\|方法论个体主义]]的局限，并提出第四代[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型研究使用]]概念框架。
-> - **[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]** 以批判整合性综述界定[[Epistemic Dependence\|认识依赖]][[Construct\|构念]]，提出六维诊断标准与四条社会技术路径，确立关系性[[Epistemic Agency\|认识主体性]]的规范内核。
+> - **[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]** 以批判整合性综述界定[[Epistemic Dependence\|认识依赖]][[Construct\|构念]]，提出六维诊断标准与四条社会技术路径，确立关系性[[Epistemic Agency\|认识主体性]]的规范内涵。
 > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 以批判性综述反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 关于[[Direct Instruction\|直接教学]]全面优于探究的主张，确立[[Inquiry-Based Learning\|指导式探究]]的循证效能与两者协同模型。
 > - **[[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]]** 运用定性批判性综述方法跨学科审视 60 年间 166 篇期刊文献，系统梳理[[Institutional Layering\|制度分层]]演进传统，并揭示当代研究将其混淆于制度再生产的边界偏误。

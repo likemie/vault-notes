@@ -12,7 +12,7 @@ aliases:
 summary: "中国高等教育与职业教育系统性向海外延伸办学与输出制度经验的战略实践，涵盖境外办学、多边高校联盟、定向奖学金与产教协同标准输出"
 type: concept
 domain: "higher-education"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -52,10 +52,12 @@ related_facts:
   - "[[Fudan University Budapest Campus]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Custer_2021_AidData]]"
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

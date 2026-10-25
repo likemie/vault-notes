@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 34
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Evidence-Based Policy-Making]]"
   - "[[Venture Philanthropy]]"
   - "[[Paradigm]]"
+  - "[[Summer School]]"
   - "[[Abstract]]"
   - "[[Policy Network]]"
   - "[[Co-affiliation]]"
@@ -55,6 +56,7 @@ related_facts:
   - "[[Pupil Premium]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Impetus]]"
+  - "[[Department for Education]]"
   - "[[What Works Clearinghouse]]"
   - "[[What Works Network]]"
   - "[[Social Ventures Australia]]"

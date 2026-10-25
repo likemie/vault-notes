@@ -11,9 +11,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2011–2013"
 initiator_organization: "[[Institute of Education Sciences]]"
@@ -28,10 +28,12 @@ tags:
 related_concepts:
   - "[[Data Literacy]]"
   - "[[Academic Achievement]]"
+  - "[[Differentiated Instruction]]"
   - "[[Implementation Fidelity]]"
   - "[[Business as Usual]]"
   - "[[Reliability]]"
   - "[[Counterfactual]]"
+  - "[[Teacher Collaboration]]"
   - "[[Data-Based Decision Making]]"
   - "[[Construct]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -47,6 +49,7 @@ related_instruments:
 related_persons: []
 related_facts:
   - "[[Institute of Education Sciences]]"
+  - "[[United States Department of Education]]"
 related_arguments:
   - "[[Argument_Gorard_2020_ROE]]"
 confidence: medium

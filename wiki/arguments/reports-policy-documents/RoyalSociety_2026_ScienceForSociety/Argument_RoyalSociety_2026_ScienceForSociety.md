@@ -10,11 +10,11 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_display_title: "Science for society: How society and science shape each other"
 argument_kind: "report"
-argument_related_count: 53
+argument_related_count: 56
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
-issuing_organization: "[[Royal Society|The Royal Society]]"
+issuing_organization: "[[The Royal Society]]"
 year: 2026
 isbn: 978-1-78252-829-6
 publication_place: London
@@ -79,6 +79,9 @@ related_facts:
   - "[[Parliamentary Office of Science and Technology]]"
   - "[[Research Excellence Framework]]"
   - "[[The Social Value Model]]"
+  - "[[UK Research and Innovation]]"
+  - "[[The Royal Society]]"
+  - "[[Wellcome Trust]]"
   - "[[Science Media Centre]]"
   - "[[National Co-ordinating Centre for Public Engagement]]"
   - "[[Public Attitudes to Science]]"
@@ -147,7 +150,7 @@ updated: 2026-10-26
 > [!monograph-method] 全书综合研究方法与证据体系
 > - **跨界顶层设计与六大专家工作组** 由[[Carlos Frenk]]与[[Sheila Rowan]]领导指导委员会设立六个专业工作组（教育、非正式参与、大众传媒、产业/第三部门、政策、学术界），开展横跨自然科学、社会科学、公共政策与科学传播的一体化[[Research Synthesis|证据综合]]与专家协商（pp. 5–8, 110–111）。
 > - **全国公众对科学的态度调查（Public Attitudes to Science, PAS 2025）** 由[[UK Research and Innovation|英国研究与创新署]]（UKRI）委托 Ipsos 与英国科学协会联合执行的全国代表性[[Random Sampling\|概率抽样]]民意调查，精准测度英国社会对科学家的信任度、信息获取渴求、决策参与感及对 AI 等新兴技术的价值认知（pp. 9–13, 47, 70）。
-> - **全英科研人员公众参与二十年追踪调查（2006 vs 2015 vs 2024）** [[Royal Society|皇家学会]]联合 [[Wellcome Trust|Wellcome]]、UKRI 等机构建立的[[Longitudinal Study\|纵向调查]]数据库，对全英数千名高校与科研机构一线学者开展长期追踪，系统评估参与频次跃迁、参与动机演进、体制阻碍变迁及机构支持赤字（pp. 10, 94–98）。
+> - **全英科研人员公众参与二十年追踪调查（2006 vs 2015 vs 2024）** [[The Royal Society|皇家学会]]联合 [[Wellcome Trust|Wellcome]]、UKRI 等机构建立的[[Longitudinal Study\|纵向调查]]数据库，对全英数千名高校与科研机构一线学者开展长期追踪，系统评估参与频次跃迁、参与动机演进、体制阻碍变迁及机构支持赤字（pp. 10, 94–98）。
 > - **国家科学教育纵向追踪与教师教学实态调查** 依托皇家学会科学教育追踪调查（SET 2016–2023 纵向数据）与 2024 年科学教学调查（Science Teaching Survey 2024），量化测度初高中动手实验课时锐减态势与跨学科师资结构性匮乏（pp. 32–35）。
 > - **科研卓越框架（REF）质性咨询与 6,000 份影响力案例回溯** 深度解构 REF 2014 与 REF 2021 提交的公众参与类影响力案例，结合对全英 58 所大学科研主管的专项咨询与评审面板主席的深度研讨，揭示现行评估对长周期参与案例的量化归因失真（pp. 100–101）。
 > - **方法边界与推断适用性** 报告证据主要立足于英国独特的双重科研资助体制（Dual-support system）、高等[[Educational Decentralization|教育分权]]治理、地方政府财政紧缩及普通法系行政传统；在将相关政策建议向中央集权制科研管理体制或其他劳动力市场迁移时，必须审慎考量本土制度语境的适配性。

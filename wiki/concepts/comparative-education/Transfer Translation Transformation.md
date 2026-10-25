@@ -99,13 +99,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] Transfer Translation Transformation
-> 转移、转译、转化（Transfer, Translation, Transformation，简称 3T 框架）由 [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen, 2009b）提出，是一个用来追踪教育思想、制度与实践在跨境流动中如何被重新释义、二次建构与形态变形（[[Shape-Shifting\|Shape-Shifting]]）的三阶段过程分析模型。（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 255]]）
+> 转移、转译、转化（Transfer, Translation, Transformation，简称 3T 框架）由 [[Robert Cowen\|罗伯特·考恩]]（Robert Cowen, 2009b）提出，是一个用来追踪教育思想、制度与实践在跨境流动中如何被重新释义、二次建构与形态变形（[[Shape-Shifting]]）的三阶段过程分析模型。（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 255]]）
 >
 > 在[[Actor-Network Theory\|行动者网络理论]]（ANT）与教育政策拓扑学中，“转译”（Translation）进一步被扩展为异质行动者（人类官员、统计学者、算法题库、法律条文）在问题化、利益化、征募与动员中被逐步重组并固化为耐用[[Data Infrastructure\|数据基础设施]]的物质[[Discourse|话语]]建网过程。（Callon, 1986; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 136–138]]）
 
@@ -130,7 +130,7 @@ updated: 2026-10-22
 > *…transformations are the metamorphoses which the compression of social and economic power into education in the new context imposes on the initial translation: that is, a range of transformations which cover both the indigenisation and the extinction of the translated form.* (p. 255)
 
 > [!boundary]- 概念边界
-> - 不等于 [[Policy Borrowing]]（政策借用） — 3T 框架侧重于追踪知识在移动过程中形态与功能的连续变质链（[[Shape-Shifting\|Shape-Shifting]]），而非仅关注政策是否被采纳的二元决策。
+> - 不等于 [[Policy Borrowing]]（政策借用） — 3T 框架侧重于追踪知识在移动过程中形态与功能的连续变质链（[[Shape-Shifting]]），而非仅关注政策是否被采纳的二元决策。
 > - 不等于 [[Cross-National Attraction]]（跨国吸引） — 3T 涵盖从物理移动到微观落地的完整生命周期，而跨国吸引主要聚焦于转移发生前的吸引动力与选择阶段。
 > - 与 [[Recontextualization]]（再脉络化）互补 — 3T 提供宏观过程阶段模型（回答思想经历了哪些空间站），而再脉络化（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009]]）提供微观解释机制（回答行动者基于何种话语框架进行过滤与重新嵌入）。
 > - 不等于 [[Transitology]]（转型学） — 3T 关注教育现象在空间移动中的形变机制（核心在于空间与权力）；而转型学关注社会系统崩溃或危机中的制度重构（核心在于时间与体制转型）。
@@ -295,5 +295,5 @@ updated: 2026-10-22
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 从[[Wight's Three Traditions of International Theory\|国际关系理论]]视角拓展 3T 分析[[Paradigm\|范式]]。
 > - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 应用 3T 框架拆解民国时期[[John Dewey\|杜威]][[Democratic Education\|民主教育]]思想在中国的引进、转译折中与转化为[[Scientific Attitude\|科学态度]]的过程。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 追踪杜威在中国长达 90 年的三重[[Recontextualization\|再脉络化]]，展示转译与转化的微观过滤机制。
-> - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 将 3T 框架应用于分析现代跨国评估（[[PISA]] 2012）英格兰案例，阐明外来标杆在[[Mediatised Governance\|媒介化治理]]与国内政治博弈中的策略性转译与形态变质（[[Shape-Shifting\|Shape-Shifting]]）。
+> - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 将 3T 框架应用于分析现代跨国评估（[[PISA]] 2012）英格兰案例，阐明外来标杆在[[Mediatised Governance\|媒介化治理]]与国内政治博弈中的策略性转译与形态变质（[[Shape-Shifting]]）。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] — 结合[[Autopoiesis\|自创生]]系统论与政策全流程视角拓展 3T 框架，揭示外部借词向“以学习为中心”的内部自指转译，并通过挪威实证案例证实跨国证据在从咨询到颁布阶段经历由宽到窄的程序性政治漏斗。

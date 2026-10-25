@@ -9,9 +9,9 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "高校智库与国别区域研究基地"
 headquarters: "广西南宁"
@@ -25,13 +25,25 @@ tags:
   - region/china
   - region/southeast-asia
   - level/national
-related_concepts: []
+related_concepts:
+  - "[[Normal School]]"
+  - "[[Education Going Global]]"
+  - "[[Industry-Education Integration Community]]"
+  - "[[Emergent Talents]]"
+  - "[[Internationalization of Vocational Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Comparative Policy Analysis]]"
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[ASEAN]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
+  - "[[Belt and Road Initiative]]"
+  - "[[China-ASEAN Federation for Vocational Education]]"
+  - "[[China-ASEAN Education Cooperation Week]]"
+related_arguments:
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: medium
 status: draft
 created: 2026-10-22

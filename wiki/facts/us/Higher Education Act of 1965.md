@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -38,7 +38,9 @@ related_facts:
   - "[[Reading Excellence Act]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Every Student Succeeds Act]]"
+  - "[[United States Congress]]"
   - "[[House Committee on Education and the Workforce]]"
+  - "[[United States Department of Education]]"
 related_arguments:
   - "[[Argument_Serpell_2020_EducPsychol]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"

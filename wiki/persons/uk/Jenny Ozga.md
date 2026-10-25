@@ -8,10 +8,10 @@ summary: "英国著名教育政策社会学家，牛津大学教育学系荣休�
 type: person
 subtype: scholar
 person_region: "uk"
-person_related_count: 6
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 17
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1948"
 died: ""
 lifespan: "1948–至今"
@@ -26,15 +26,26 @@ tags:
   - theme/educational-policy
   - theme/sociology-of-education
 related_concepts:
+  - "[[Paradigm]]"
+  - "[[European Education Space]]"
   - "[[School Inspection]]"
+  - "[[Positivism]]"
+  - "[[Knowledge Transfer]]"
+  - "[[Bureaucracy]]"
+  - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Governing by Numbers]]"
   - "[[Research Utilization]]"
 related_theories:
   - "[[Governing by Inspection]]"
   - "[[Governing at a Distance]]"
-related_methods: []
+related_methods:
+  - "[[Critical Policy Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[PISA]]"
+  - "[[Comparative and International Education Society]]"
+  - "[[Economic and Social Research Council]]"
   - "[[Swedish Schools Inspectorate]]"
 related_arguments:
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"

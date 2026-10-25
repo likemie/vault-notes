@@ -11,7 +11,7 @@ subtype: event
 region: japan
 fact_region: "japan"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -42,6 +42,7 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[Ministry of Education, Culture, Sports, Science and Technology]]"
   - "[[National Institute for Educational Policy Research]]"
   - "[[National Education]]"
   - "[[Cram Schools]]"

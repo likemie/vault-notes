@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,8 @@ related_persons:
   - "[[Richard J. Shavelson]]"
   - "[[Russell J. Skiba]]"
 related_facts:
+  - "[[United States Congress]]"
+  - "[[United States Department of Education]]"
   - "[[Institute of Education Sciences]]"
   - "[[National Defense Education Act of 1958]]"
   - "[[Elementary and Secondary Education Act of 1965]]"

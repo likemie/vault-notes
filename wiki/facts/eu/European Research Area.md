@@ -9,7 +9,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_theories:
   - "[[Systems of Innovation]]"
 related_facts:
   - "[[EU]]"
+  - "[[European Commission]]"
   - "[[Horizon Europe]]"
   - "[[CNRS]]"
   - "[[Max Planck Society]]"

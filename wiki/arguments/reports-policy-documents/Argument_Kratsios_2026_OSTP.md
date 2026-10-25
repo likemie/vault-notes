@@ -90,6 +90,7 @@ related_theories:
 related_methods:
   - "[[Research Synthesis]]"
   - "[[Design-Based Research]]"
+  - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
 related_instruments:
@@ -127,6 +128,7 @@ related_facts:
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[Fast Grants]]"
   - "[[United Kingdom Metascience Unit]]"
+  - "[[National Research Council]]"
   - "[[National Nanotechnology Coordinated Infrastructure]]"
   - "[[Accelerating Medicines Partnership]]"
   - "[[Activate Fellowship]]"
@@ -144,7 +146,7 @@ title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 107
+argument_related_count: 109
 argument_related_level: 10
 argument_related_stars: "💎💎💎⭐"
 argument_related_color: "#fecdd3"

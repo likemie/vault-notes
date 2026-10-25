@@ -10,7 +10,7 @@ aliases:
 summary: "个体单一显著特征或先验印象系统性辐射并污染对其余独立维度评价的认知偏差。在教育测验、论文批改与高推论课堂观察中广泛表现为首因效应、事件权衡偏差、评分漂移与构念溢出，依赖工具行为锚定、独立片段切分与双盲及校准规程进行防御。"
 type: concept
 domain: "research-methodology"
-related_count: 37
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Convergent and Discriminant Validity]]"
   - "[[Development Education]]"
   - "[[Paradigm]]"
-  - "[[Literature Review]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_WorldBank_2019_Teach]]"
@@ -65,7 +64,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-06-24
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

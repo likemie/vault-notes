@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_persons:
   - "[[Robert Slavin]]"
 related_facts:
   - "[[Success for All]]"
+  - "[[United States Department of Education]]"
   - "[[Education Innovation and Research]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Evidence for ESSA]]"

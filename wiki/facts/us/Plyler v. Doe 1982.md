@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Presence]]"
   - "[[Migrant Education]]"
+  - "[[Immigrant Status]]"
   - "[[Migrant Children]]"
   - "[[Evaluation Research]]"
   - "[[Variable]]"
@@ -35,6 +36,7 @@ related_methods:
   - "[[Comparative Policy Analysis]]"
 related_persons: []
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[Hukou System]]"
   - "[[No Child Left Behind Act 2001]]"
 related_arguments:

@@ -5,7 +5,7 @@ aliases:
 summary: "罗伊·巴斯卡（Roy Bhaskar）创立的科学哲学与社会科学方法论框架。主张实在界、实际界与经验界的分层本体论，将因果关系确立为开放系统中潜在因果机制的激活或阻断；在教育研究与政策分析中，既用于解构循证教育与随机对照试验的均值黑箱，又通过“解释性批判”穿透表层修辞、揭示教育作为大国地缘博弈与意识形态推进工具的深层因果机制。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 55
+theory_related_count: 57
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Interdiscursivity]]"
   - "[[Shape-Shifting]]"
+  - "[[Student Motivation]]"
   - "[[Soft Power]]"
   - "[[Falsification]]"
   - "[[Output-Oriented Governance]]"
@@ -73,6 +74,7 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Playing for Success]]"
   - "[[Belt and Road Initiative]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Belt and Road Education Action Plan]]"
 related_arguments:
   - "[[Argument_Wrigley_2019_ERE]]"

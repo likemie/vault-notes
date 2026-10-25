@@ -10,7 +10,7 @@ subtype: organization
 region: "india"
 fact_region: "india"
 fact_kind: "organization"
-fact_related_count: 0
+fact_related_count: 1
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -24,10 +24,12 @@ tags:
   - theme/scholarship
   - theme/public-diplomacy
   - theme/educational-diplomacy
+related_arguments:
+  - "[[Argument_Custer_2021_AidData]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

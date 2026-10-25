@@ -7,10 +7,10 @@ aliases:
 summary: "学习科学与教学设计中的前置探究时序模型，指在正式直接讲授前让学生先行尝试解决复杂的劣构问题，通过挫折激活先验图式并暴露认知盲区，为后续显性讲授创设最佳认知准备状态，进而促进深层概念理解与长效远迁移"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - learning-science
   - instructional-design
@@ -47,7 +47,6 @@ related_theories:
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Ton de Jong]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ## 定义

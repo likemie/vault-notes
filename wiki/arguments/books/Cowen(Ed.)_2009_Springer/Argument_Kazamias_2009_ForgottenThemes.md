@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 87
+argument_related_count: 89
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -118,6 +118,8 @@ related_persons:
   - "[[Friedrich Schneider]]"
 related_facts:
   - "[[Office of Special Inquiries and Reports]]"
+  - "[[Department for Education]]"
+  - "[[National Education]]"
   - "[[Grammar School]]"
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
 related_theories:

@@ -23,7 +23,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
-  - "[[Educational Brokerage Agency]]"
+  - "[[Boundary Spanner]]"
   - "[[School Autonomy]]"
   - "[[New Public Management]]"
 related_theories: []

@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_display_title: "Lost valley"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -74,6 +74,7 @@ related_facts:
   - "[[ARPANET]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[Autonomous Drone Swarms]]"
+  - "[[Department of Defense]]"
   - "[[Research in Schools Evaluation]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"

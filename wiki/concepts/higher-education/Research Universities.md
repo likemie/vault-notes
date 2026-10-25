@@ -8,9 +8,9 @@ aliases:
 summary: "19世纪下半叶在美国以洪堡模式为母本并融合赠地实用传统而崛起的现代高等教育核心组织范式；二战后经布什报告奠定联邦常规资助基础，成为国家科学技术与创新系统的战略中枢；1980年代以来在发展型网络国家中演进为跨界创新协作与早期技术孵化的法定网络枢纽，但亦面临虚构商品化产权壁垒；在当代地缘科技竞争中既承接战略产业的有组织动员，亦面临发展型国家对外战略中的高技术攻坚与智库从属。"
 type: concept
 domain: "higher-education"
-related_count: 88
-related_level: 8
-related_stars: "💎💎⭐⭐"
+related_count: 92
+related_level: 9
+related_stars: "💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - level/higher-education
@@ -49,11 +49,15 @@ related_concepts:
   - "[[Market Fundamentalism]]"
   - "[[Hard Power]]"
   - "[[Soft Power]]"
+  - "[[International Branch Campus]]"
+  - "[[Internationalization of Higher Education]]"
+  - "[[Public Diplomacy]]"
   - "[[STEM Education]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer Office]]"
   - "[[Congressional Earmarks]]"
   - "[[Research Security]]"
+  - "[[Educational Diplomacy]]"
   - "[[Reproducibility Crisis]]"
   - "[[Pull Mechanisms for Innovation]]"
   - "[[Gatekeepers]]"
@@ -75,13 +79,13 @@ related_facts:
   - "[[MOSIS]]"
   - "[[Belt and Road Education Action Plan]]"
   - "[[Belt and Road Initiative]]"
+  - "[[Double First-Class Initiative]]"
   - "[[CHIPS and Science Act]]"
   - "[[Morrill Land-Grant Act of 1862]]"
   - "[[Office of Scientific Research and Development]]"
   - "[[Science A New Golden Age 2026]]"
   - "[[Genesis Mission]]"
   - "[[Department of Energy]]"
-  - "[[Office of Science and Technology Policy]]"
   - "[[National Institutes of Health]]"
   - "[[Joint University Microelectronics Program 2.0]]"
   - "[[National Semiconductor Technology Center]]"
@@ -97,6 +101,7 @@ related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_Block_2008_PS]]"
+  - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_NIST_2023_NSTC]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -107,7 +112,6 @@ related_methods:
   - "[[Design-Based Research]]"
   - "[[Effect Size]]"
   - "[[Audit Trail]]"
-  - "[[Analytic Framework]]"
   - "[[Documentary Analysis]]"
   - "[[Process Tracing]]"
   - "[[Critical Discourse Analysis]]"
@@ -116,7 +120,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

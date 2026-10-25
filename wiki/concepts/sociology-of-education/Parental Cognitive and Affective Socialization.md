@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 定义
@@ -87,7 +87,7 @@ updated: 2026-10-22
 
 > [!example] 概念辨析
 > - vs 心智效力与美德效力 — Mind/[[Mind Efficacy and Virtue Efficacy\|virtue efficacy]] 侧重归因的因果逻辑本身；Parental Cognitive and Affective Socialization 侧重父母如何通过日常对话将这种归因逻辑社会化给孩子
-> - vs [[Mother-Child Conversation\|Mother-Child Conversation]] — Mother-Child Conversation 是一种研究方法（收集模拟对话）；Parental Cognitive and Affective Socialization 是该研究揭示的社会化内容差异
+> - vs [[Mother-Child Conversation]] — Mother-Child Conversation 是一种研究方法（收集模拟对话）；Parental Cognitive and Affective Socialization 是该研究揭示的社会化内容差异
 > - vs 西方 parenting style 研究 — 西方研究中常见的"威权型"对东亚父母的刻画（单向命令、不容质疑）与 Li 的实际发现不符：台湾母女对话中孩子的反驳和协商与欧美对话同样普遍([[Argument_Li_2012_Cambridge\|Li, 2012, p.241–244]])
 
 > [!success] 实证发现

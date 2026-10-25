@@ -10,9 +10,9 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 14
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 32
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "2006–2009"
 initiator_organization: "欧洲科学基金会（ESF）与英国经济与社会研究理事会（ESRC）"
@@ -24,24 +24,42 @@ tags:
   - theme/governing-by-numbers
   - theme/comparative-education
 related_concepts:
-  - "[[Governing by Numbers]]"
+  - "[[Data Infrastructure]]"
   - "[[European Education Space]]"
+  - "[[Paradigm]]"
+  - "[[Policy Borrowing]]"
+  - "[[Operationalization]]"
+  - "[[Governing by Numbers]]"
+  - "[[Discourse]]"
+  - "[[Commensuration]]"
+  - "[[New Public Management]]"
+  - "[[Global Educational Policy Field]]"
+  - "[[Policy Network]]"
+  - "[[Discursive Field]]"
   - "[[Space of Equivalence]]"
-related_theories: []
+related_theories:
+  - "[[Governing by Inspection]]"
 related_methods:
   - "[[Comparative Case Study]]"
   - "[[Expert Interview]]"
+  - "[[Participant Observation]]"
+  - "[[Analytic Framework]]"
+  - "[[In-depth Interview]]"
 related_instruments: []
 related_persons:
   - "[[Jenny Ozga]]"
   - "[[Sotiria Grek]]"
   - "[[Bob Lingard]]"
 related_facts:
+  - "[[English Schools Foundation Hong Kong]]"
+  - "[[Economic and Social Research Council]]"
+  - "[[Comparative and International Education Society]]"
   - "[[PISA]]"
   - "[[Lisbon Strategy]]"
+  - "[[European Commission]]"
   - "[[Eurydice]]"
-  - "[[EU]]"
   - "[[OECD]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high

@@ -11,7 +11,7 @@ subtype: policy
 region: ireland
 fact_region: "ireland"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Effective Teaching]]"
+  - "[[Learning Strategies]]"
   - "[[Output-Oriented Governance]]"
   - "[[Student Engagement]]"
   - "[[Critical Thinking]]"

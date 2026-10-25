@@ -8,10 +8,10 @@ aliases:
 summary: "在多文本阅读与数字化探究中，学习者主动审验作者资质、出版机构意图、潜在利益冲突及文本可信度的批判性认知规程与教学框架；元分析证实显性教授信源评估对学业成就具有高度因果促进效应（d = 0.800）。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 35
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/instruction
   - epistemic-cognition
@@ -43,11 +43,7 @@ related_concepts:
   - "[[Scientific Explanation]]"
   - "[[Critical Thinking]]"
   - "[[Paradigm]]"
-  - "[[Interaction Effect]]"
   - "[[Variable]]"
-  - "[[Metacognition]]"
-  - "[[Constructivist Instruction]]"
-  - "[[Problem-Based Learning]]"
   - "[[Epistemic Agency]]"
 related_theories: []
 related_methods:
@@ -56,7 +52,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Intervention Research]]"
   - "[[Confidence Interval]]"
-  - "[[Multimodal Discourse Analysis]]"
 related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
@@ -65,7 +60,7 @@ related_instruments:
   - "[[Framework for Teaching]]"
 confidence: high
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

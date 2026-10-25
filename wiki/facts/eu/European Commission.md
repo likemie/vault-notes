@@ -10,9 +10,9 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 19
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: intergovernmental-organization
 headquarters: "Brussels, Belgium"
@@ -22,13 +22,32 @@ tags:
   - theme/global-governance
   - theme/educational-governance
   - theme/industrial-policy
-related_concepts: []
+related_concepts:
+  - "[[Knowledge Mediation]]"
+  - "[[European Education Space]]"
+  - "[[Governing by Numbers]]"
+  - "[[Orchestrator State]]"
+  - "[[Knowledge Co-production]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[EU]]"
+  - "[[OECD]]"
+  - "[[Eurydice]]"
+  - "[[Europe 2020 Strategy]]"
+  - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[Important Projects of Common European Interest]]"
+  - "[[Lisbon Strategy]]"
+  - "[[PISA]]"
+  - "[[European Chips Act]]"
+related_arguments:
+  - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Rambla_2022_Springer]]"
+  - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
+  - "[[Argument_Bulfone_2024_IAI]]"
+  - "[[Argument_Li_2025_HSSC]]"
 confidence: medium
 status: draft
 created: 2026-10-26
@@ -38,7 +57,7 @@ updated: 2026-10-26
 ---
 
 > [!claim] 核心定位
-> [[EU|欧盟]]委员会（European Commission）是欧洲联盟的执行机构。教育并非欧盟专属权能，委员会在不扩大法律职权的前提下，借助比较数据、指标与专家网络影响成员国教育政策，与[[OECD|经合组织]]形成数据生产与政策动员上的共生关系。[[Argument_Grek_2009_JEdPolicy\|(Grek, 2009)]]
+> [[EU|欧盟]]委员会（European Commission）是欧洲联盟的执行机构。教育属于成员国主管、欧盟仅有支持与协调权能的领域，委员会在不扩大法律职权的前提下，借助比较数据、指标与专家网络影响成员国教育政策，与[[OECD|经合组织]]形成数据生产与政策动员上的共生关系。[[Argument_Grek_2009_JEdPolicy\|(Grek, 2009)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 总部地点** 1958 年作为欧洲经济共同体委员会设立，1967 年与其他共同体执行机构合并，总部位于布鲁塞尔。

@@ -14,6 +14,7 @@ isbn: ""
 tags: [constructive-alignment, student-learning, deep-learning, assessment, level/higher-ed]
 related_concepts:
   - "[[Class Size]]"
+  - "[[Note-Taking]]"
   - "[[Surface and Deep Learning]]"
   - "[[Constructivist Paradigm]]"
   - "[[Student Learning Research]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Deficiencies Model for an Introduction]]"
   - "[[Classroom Management]]"
   - "[[Abstract]]"
+  - "[[Advance Organizers]]"
   - "[[Concept Mapping]]"
   - "[[Metacognition]]"
   - "[[Constructed Knowledge]]"
@@ -44,6 +46,7 @@ related_concepts:
   - "[[Learning Gap]]"
   - "[[Learnology]]"
   - "[[Problem Solving]]"
+  - "[[Teacher Collaboration]]"
   - "[[Didaktik]]"
 related_theories:
   - "[[Phenomenography]]"
@@ -62,7 +65,7 @@ title: "Argument_Biggs_1999_HERD"
 argument_key: "Argument_Biggs_1999_HERD"
 argument_display_title: "What the student does: Teaching for enhanced learning"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"

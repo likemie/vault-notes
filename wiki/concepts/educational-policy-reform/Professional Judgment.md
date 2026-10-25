@@ -6,9 +6,9 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 95
-related_level: 9
-related_stars: "💎💎💎"
+related_count: 86
+related_level: 8
+related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - professional-judgment
@@ -59,16 +59,11 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Research Literacy]]"
   - "[[Variable]]"
-  - "[[Ontology]]"
-  - "[[International Education]]"
-  - "[[Philanthrocapitalism]]"
-  - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Critical Realism]]"
   - "[[Realist Evaluation]]"
   - "[[Bounded Rationality]]"
-  - "[[Historical Institutionalism]]"
 related_methods:
   - "[[Triangulation]]"
   - "[[Effect Size]]"
@@ -80,10 +75,6 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-meta-analysis]]"
   - "[[In-depth Interview]]"
-  - "[[Critical Policy Analysis]]"
-  - "[[Case Study]]"
-  - "[[Network Ethnography]]"
-  - "[[Framework Synthesis]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[Ivan Snook]]"
@@ -112,8 +103,8 @@ related_arguments:
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Rowe_2023_ECNUROE]]"
   - "[[Argument_Verger_2019_Discourse]]"
-  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
   - "[[Assessment Tools for Teaching and Learning]]"
@@ -121,7 +112,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-05-03
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -403,7 +394,7 @@ updated: 2026-10-23
 > *Educational practice is not a purely technical operation; it is intrinsically about values, ethics and long-term purposes. Questions about 'what works' must always be subordinate to professional deliberation on 'to what ends'.*
 
 > [!citation-card] [[John Dewey|杜威]]与[[Ivan Snook|斯努克]]论实证证据作为探究假设而非行动规则
-> 实证证据绝不为我们提供行动规则，而仅仅为我们进行明智的[[Problem Solving|问题解决]]提供了假设，并为我们探询教育的终极目的提供了假设。教学决策内嵌着不可约简的价值权衡：收益是否值得成本？微小提分是否以抑制[[Creativity|创造力]]或人际发展为代价？研究知识必须与教师的个人信念、专业伦理及现场情境深度整合。（[[John Dewey|John Dewey]], quoted in Hattie, 2008, p. 147; [[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 93, 104]]）
+> 实证证据绝不为我们提供行动规则，而仅仅为我们进行明智的[[Problem Solving|问题解决]]提供了假设，并为我们探询教育的终极目的提供了假设。教学决策内嵌着不可约简的价值权衡：收益是否值得成本？微小提分是否以抑制[[Creativity|创造力]]或人际发展为代价？研究知识必须与教师的个人信念、专业伦理及现场情境深度整合。（[[John Dewey]], quoted in Hattie, 2008, p. 147; [[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 93, 104]]）
 >
 > *“Evidence does not supply us with rules for action but only with [[Hypothesis|hypotheses]] for intelligent problem solving, and for making inquiries about our ends in education.” (John Dewey, quoted in Hattie, 2008, p. 147; quoted in Snook et al., 2009, p. 93, p. 104)*
 

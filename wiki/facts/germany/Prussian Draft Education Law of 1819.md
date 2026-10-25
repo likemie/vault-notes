@@ -15,7 +15,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -46,6 +46,7 @@ related_persons:
   - "[[Horace Mann]]"
   - "[[Henry Barnard]]"
 related_facts:
+  - "[[National Education]]"
   - "[[Guizot Law of 1833]]"
   - "[[Common School Movement]]"
   - "[[Report on the State of Public Instruction in Prussia]]"

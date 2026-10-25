@@ -26,9 +26,9 @@ title: "Argument_Hartong_Forschler_2019_BDS"
 argument_key: "Argument_Hartong_Forschler_2019_BDS"
 argument_display_title: "Opening the black box of data-based school monitoring: Data infrastructures, flows and practices in state education agencies"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Big Data & Society"
 sources:
@@ -75,6 +75,7 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[PISA]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
+  - "[[United States Department of Education]]"
   - "[[Early Warning Indicator System]]"
   - "[[EU]]"
 status: stable
@@ -325,7 +326,7 @@ updated: 2026-10-26
 
 > [!chain-link] 从数据技能向基础设施素养的范式推导
 > - **前提：治理权力的基础设施化嵌入** 监测权力不再由单一行政长官以条文形式直接发号施令，而是弥散性地固化在数据库业务规则、算法通约标准与冻结时限之中。
-> - **机制：孤立数据识读的技术主义脱节** 仅关注现成数据集合的分析技能（[[Data Literacy\|Data Literacy]]），完全无力识别数据在去情境化采集与算法折算过程中被赋予的价值偏见与治理盲区。
+> - **机制：孤立数据识读的技术主义脱节** 仅关注现成数据集合的分析技能（[[Data Literacy]]），完全无力识别数据在去情境化采集与算法折算过程中被赋予的价值偏见与治理盲区。
 > - **结论：确立介入基础设施的批判性胜任力** 必须遵从乔纳森·格雷等学者（Jonathan Gray et al.）的倡议，全面培育数据基础设施素养（Data Infrastructure Literacy），使教育行动者具备对数据生产、仓储、建模与流通的全套社会-技术系统开展质询、问责与民主参与的能力。
 
 > [!contrast-table] 传统数据素养与数据基础设施素养范式对比

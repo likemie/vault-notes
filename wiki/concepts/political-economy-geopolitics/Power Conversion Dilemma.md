@@ -8,7 +8,7 @@ aliases:
 summary: "指大国在海外大规模投入资金援助、教育交流与文化推广等公共外交资源后，因受制于受援国国内政治博弈、族群生计摩擦、地缘安全审查及学历认证壁垒，无法顺畅将资源转化为持久草根好感度与政策协同倾向的结构性脱节现象。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 0
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,10 +17,15 @@ tags:
   - theme/soft-power
   - theme/public-diplomacy
   - theme/educational-diplomacy
+related_concepts:
+  - "[[Soft Power]]"
+related_arguments:
+  - "[[Argument_Custer_2021_AidData]]"
+  - "[[Argument_Velasco_2022_CSJ]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -45,13 +45,16 @@ related_methods:
   - "[[Semi-structured Interview]]"
 related_facts:
   - "[[National Aeronautics and Space Administration]]"
+  - "[[Department of Defense]]"
   - "[[Apollo Program]]"
   - "[[Semi-Automatic Ground Environment]]"
   - "[[American Diploma Project]]"
   - "[[Brookings Institution]]"
   - "[[Fairchild Semiconductor]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[System Development Corporation]]"
   - "[[Bell Labs]]"
+  - "[[American Spaces]]"
 related_persons:
   - "[[John E. Tilton]]"
   - "[[Jerome E. Schnee]]"
@@ -66,7 +69,7 @@ title: "Argument_Schnee_1978_RP"
 argument_key: "Argument_Schnee_1978_RP"
 argument_display_title: "Government programs and the growth of high-technology industries"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"

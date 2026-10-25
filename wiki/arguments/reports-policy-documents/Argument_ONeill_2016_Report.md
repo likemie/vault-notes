@@ -11,7 +11,7 @@ title: "Argument_ONeill_2016_Report"
 argument_key: "Argument_ONeill_2016_Report"
 argument_display_title: "Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand"
 argument_kind: "report"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Social Impact Investing]]"
   - "[[New Public Management]]"
   - "[[Academic Achievement]]"
+  - "[[Charter Schools]]"
   - "[[Public-Private Partnership]]"
   - "[[Performance Indicators]]"
   - "[[Paradigm]]"
@@ -166,7 +167,7 @@ citation_aliases:
 
 #### 1. 政府逐步将办学责任缩减为财政部分补贴
 
-自 1989 年明日之校改革以来，新西兰公立学校虽然享有校董会自治权，但国家始终承担基础办学经费与制度兜底责任。2008 年国家党执政后，官方政策文件频繁使用政府补贴、针对性扶持以及[[Social Impact Investing|社会投资]]（[[Social Impact Investing|Social Impact Investing]]）等金融化词汇，逐步放弃了战后福利国家对基础教育由国家全额出资并公立供给的制度承诺。
+自 1989 年明日之校改革以来，新西兰公立学校虽然享有校董会自治权，但国家始终承担基础办学经费与制度兜底责任。2008 年国家党执政后，官方政策文件频繁使用政府补贴、针对性扶持以及[[Social Impact Investing|社会投资]]（[[Social Impact Investing]]）等金融化词汇，逐步放弃了战后福利国家对基础教育由国家全额出资并公立供给的制度承诺。
 
 > [!policy-context] 新西兰公立[[Educational Privatisation|教育私有化]]转型的制度背景
 > - **发布主体** 新西兰国家党联立政府、新西兰教育部（Ministry of Education, MoE）与新西兰财政部。

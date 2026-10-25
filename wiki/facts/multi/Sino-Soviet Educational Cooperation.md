@@ -14,7 +14,7 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[Belt and Road Initiative]]"
 related_arguments:

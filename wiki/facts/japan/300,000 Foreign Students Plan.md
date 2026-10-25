@@ -12,7 +12,7 @@ subtype: policy
 region: japan
 fact_region: "japan"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Ministry of Education, Culture, Sports, Science and Technology]]"
   - "[[Tsukuba Science City]]"
   - "[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators]]"
 related_arguments:

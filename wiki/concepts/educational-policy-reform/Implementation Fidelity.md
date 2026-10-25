@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-23'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -122,7 +122,7 @@ updated: 2026-10-22
 ---
 
 > [!feature] 实施保真度的六维核查架构
-> - **干预核心活性成分界定（Active Ingredients）** 对照[[TIDieR\|干预描述与复制模板]]（Template for Intervention Description and Replication，TIDieR）准则，清晰解构干预的理论变革模型（[[Theory of Change\|Theory of Change]]）、核心必须执行的刚性规程以及允许校本调整的弹性边界。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
+> - **干预核心活性成分界定（Active Ingredients）** 对照[[TIDieR\|干预描述与复制模板]]（Template for Intervention Description and Replication，TIDieR）准则，清晰解构干预的理论变革模型（[[Theory of Change]]）、核心必须执行的刚性规程以及允许校本调整的弹性边界。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
 > - **教师准备与落地执行质量（Teacher Preparation & Quality）** 评估教师接受培训的出勤率、对干预教育学理念的掌握深度，以及在真实课堂人际交互中传授核心教学规程的忠实度。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 112, 120)]]
 > - **干预使用剂量与参与依从性（Dosage & [[Strategic Compliance|compliance]]）** 系统记录学生实际接触干预的频次、单次时长、累计课时达标率，以及数字平台上的后台日志，精准测度从名义分配到实际受领的衰减比例。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 110–112)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 > - **对照组[[Business as Usual\|常态教学]]追踪（Business-as-Usual [[Tracking]]）** 详尽调查对照组学校在实验期间开展的日常教学活动，严密排查对照组是否自发采购竞品或间接接触干预要素，防范因[[Counterfactual\|反事实]]污染导致处理效应被低估。

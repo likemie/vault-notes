@@ -36,13 +36,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] Dunbar's Number
-> **邓巴数（Dunbar's Number，或 150 定律）** 由英国人类学家[[Robin Dunbar|罗宾·邓巴]]（[[Robin Dunbar|Robin Dunbar]]）于 1993 年提出，指个体能够维持稳定、直接且具备功能性社交关系的人类社群规模理论上限（均值约为 148.4 人，通常取整为 150 人）。该理论基于灵长类动物大脑新皮质容量与社会群体大小的演化相关性，指出当群体规模超过 150 人时，仅凭面对面的直接人际互动与生理社交已无法维系群体稳定，必须依托语言、共享叙事与制度化符号建构想象的纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
+> **邓巴数（Dunbar's Number，或 150 定律）** 由英国人类学家[[Robin Dunbar|罗宾·邓巴]]（[[Robin Dunbar]]）于 1993 年提出，指个体能够维持稳定、直接且具备功能性社交关系的人类社群规模理论上限（均值约为 148.4 人，通常取整为 150 人）。该理论基于灵长类动物大脑新皮质容量与社会群体大小的演化相关性，指出当群体规模超过 150 人时，仅凭面对面的直接人际互动与生理社交已无法维系群体稳定，必须依托语言、共享叙事与制度化符号建构想象的纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示人类大脑神经生理结构对面对面直接社交网络规模施加的生物学硬约束。

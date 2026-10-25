@@ -6,7 +6,7 @@ aliases:
 summary: "在认识论认知AIR模型中，指引探究、发现与信念形成过程的规范性意向与认知成就追求，是区分认识论认知与非认识论认知的根本标尺。"
 type: concept
 domain: "educational-psychology"
-related_count: 39
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Procedural Skill]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Heterogeneity]]"
-  - "[[Procedural Knowledge]]"
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
   - "[[Virtue Epistemology]]"
@@ -49,7 +48,6 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Meta-analysis]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
 related_persons:
   - "[[Clark A. Chinn]]"
@@ -61,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

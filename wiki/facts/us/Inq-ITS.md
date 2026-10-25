@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Direct Instruction]]"
 related_theories: []
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons: []

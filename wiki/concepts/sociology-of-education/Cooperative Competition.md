@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 定义
@@ -62,5 +62,5 @@ updated: 2026-10-22
 
 > [!example] 概念辨析
 > - vs [[Zero-Sum Competition]] (School) — 零和竞争假设资源有限、赢家以输家为代价；Cooperative Competition 假设通过互助与激励，人人都可提高
-> - vs [[Peer-Supported Learning\|Peer-Supported Learning]] — Peer-Supported Learning 侧重制度化的互助安排，Cooperative Competition 侧重竞争的主观体验与文化建构
+> - vs [[Peer-Supported Learning]] — Peer-Supported Learning 侧重制度化的互助安排，Cooperative Competition 侧重竞争的主观体验与文化建构
 

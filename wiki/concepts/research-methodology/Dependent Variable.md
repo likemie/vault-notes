@@ -21,7 +21,6 @@ tags:
   - causal-inference
   - experiment
 related_concepts:
-  - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Causality]]"
   - "[[Construct]]"
@@ -30,6 +29,7 @@ related_concepts:
   - "[[Student Engagement]]"
   - "[[Visible Learning]]"
   - "[[Academic Achievement]]"
+  - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[Reliability]]"
   - "[[External Validity]]"

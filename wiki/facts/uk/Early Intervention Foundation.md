@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "独立慈善机构与国家有效性中心"
 headquarters: "伦敦，英国"
@@ -45,6 +45,8 @@ related_persons:
   - "[[Jonathan Sharples]]"
 related_facts:
   - "[[What Works Network]]"
+  - "[[Department for Education]]"
+  - "[[Cabinet Office]]"
   - "[[Education Endowment Foundation]]"
   - "[[National Institute for Health and Care Excellence]]"
 related_arguments:

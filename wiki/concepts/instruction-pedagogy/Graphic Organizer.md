@@ -8,10 +8,10 @@ aliases:
 summary: "通过空间隐喻与视觉拓扑结构表征概念关系、逻辑论证与层级脉络的教学与认知脚手架，能有效卸载低阶信息检索负荷并释放高阶认知资源"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 25
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/graphic-organizer
   - instruction/pedagogy
@@ -36,15 +36,10 @@ related_concepts:
   - "[[Meta-Representational Competence]]"
   - "[[Rote Learning]]"
   - "[[Heterogeneity]]"
-  - "[[Dependent Variable]]"
-  - "[[Divergent Thinking]]"
-  - "[[Convergent Thinking]]"
-  - "[[Construct]]"
 related_theories:
   - "[[Knowledge Integration]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Random-Effects Model]]"
   - "[[Experimental Research]]"
@@ -57,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

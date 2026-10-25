@@ -7,10 +7,10 @@ summary: "美国当代著名高等教育学学者，佐治亚大学麦克比高�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 18
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1941"
 lifespan: "1941–至今"
 tags:
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Entrepreneurial University]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Epistemic Inequality]]"
   - "[[Academic Freedom]]"
   - "[[Paradigm]]"
   - "[[Social Regime]]"
@@ -35,6 +36,7 @@ related_theories:
 related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Science in the National Interest 1994]]"
+  - "[[Department of Defense]]"
   - "[[National Institutes of Health]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"

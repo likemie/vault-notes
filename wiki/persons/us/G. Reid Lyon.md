@@ -8,7 +8,7 @@ summary: "美国神经心理学家与联邦教育科研高级官员，曾任 NIC
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -44,6 +44,7 @@ related_facts:
   - "[[Reading Excellence Act]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[National Reading Panel]]"
+  - "[[United States Congress]]"
   - "[[Open Court Reading]]"
   - "[[Business Roundtable]]"
 related_arguments:

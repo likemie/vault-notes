@@ -12,7 +12,7 @@ title: "Argument_Cheng_2026_KeJiChuangXin"
 argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -71,6 +71,7 @@ related_facts:
   - "[[Swiss Innovation Policy System]]"
   - "[[Japan Innovation Policy System]]"
   - "[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators]]"
+  - "[[Ministry of Education, Culture, Sports, Science and Technology]]"
   - "[[Tsukuba Science City]]"
   - "[[ASEAN]]"
   - "[[Korea Innovation Policy System]]"

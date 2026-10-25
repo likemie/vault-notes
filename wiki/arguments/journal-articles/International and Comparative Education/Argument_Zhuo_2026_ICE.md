@@ -58,9 +58,9 @@ related_persons:
   - "[[Kenneth Burke]]"
 related_facts:
   - "[[CHIPS and Science Act]]"
+  - "[[Department of Commerce]]"
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
-  - "[[Chinese Academy of Sciences]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
   - "[[NSF Regional Innovation Engines]]"
@@ -236,7 +236,7 @@ issuing_organization: ""
 > - **城市网络维度（Urban Innovation Network）**
 >   依据 Spirou (2021) 的[[Anchor Institution|锚定机构]]理论，ASU 在凤凰城都会区的扩张深刻重塑了城市空间与产业结构，吸引了[[Taiwan Semiconductor Manufacturing Corporation|台湾积体电路制造公司]]（Taiwan Semiconductor Manufacturing Company, TSMC）与英特尔等 24 家半导体相关企业投资入驻，助推凤凰城跃升为全美前列高技术驱动型创新城市。
 > - **区域网络维度（Regional Cross-University Consortium）**
->   2023 年[[Department of Defense|美国国防部]]高级研究计划局（[[DARPA|Defense Advanced Research Projects Agency]], [[DARPA]]）与半导体研究联盟（[[Semiconductor Research Corporation]], [[Semiconductor Research Corporation|SRC]]）联合启动[[Joint University Microelectronics Program 2.0|联合大学微电子2.0计划]]（Joint University Microelectronics Program 2.0, JUMP 2.0），由宾夕法尼亚州立大学牵头 CHIMES 中心，联合斯坦福大学、MIT 等 14 所顶尖高校协同攻坚[[Heterogeneous Integration|异构集成]]与先进封装。
+>   2023 年[[DARPA|美国国防部高级研究计划局]]（[[DARPA|Defense Advanced Research Projects Agency]], [[DARPA]]）与半导体研究联盟（[[Semiconductor Research Corporation]], [[Semiconductor Research Corporation|SRC]]）联合启动[[Joint University Microelectronics Program 2.0|联合大学微电子2.0计划]]（Joint University Microelectronics Program 2.0, JUMP 2.0），由宾夕法尼亚州立大学牵头 CHIMES 中心，联合斯坦福大学、MIT 等 14 所顶尖高校协同攻坚[[Heterogeneous Integration|异构集成]]与先进封装。
 > - **国家网络维度（National Distributed Topology）**
 >   改变以往半导体创新高度集聚于硅谷的单中心格局，依托亚利桑那宏技术工程中心、德克萨斯大学奥斯汀分校以及纽约 NY SMART I-Corridor 等新兴节点，构建具备高容灾抗风险能力的多极分布式网络。
 

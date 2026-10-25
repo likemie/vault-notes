@@ -8,7 +8,7 @@ aliases:
 summary: "由行业龙头企业、高水平职业院校与应用型高校联合牵头，汇聚科研机构与政府部门组建的跨区域多边办学与技术创新契约组织，旨在通过全产业链实体捆绑与利益共享机制化解技术技能人才供给与产业需求脱节问题。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 0
+related_count: 1
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -25,11 +25,12 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -132,9 +132,9 @@ updated: 2026-10-22
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Project 985\|Project 985]] | Fact (Program) | 继 211 工程之后启动的以建设世界一流大学为目标的更高层次国家工程。 |
-> | [[Double First-Class Initiative\|Double First-Class Initiative]] | Fact (Policy) | 统筹整合 211 工程与 985 工程的国家新一代高水平大学与学科建设战略。 |
-> | [[Thousand Talents Program\|Thousand Talents Program]] | Fact (Program) | 与高水平大学建设紧密协同的国家海外高端引智工程。 |
-> | [[Research Universities\|Research Universities]] | Concept | 211 工程承载建设与重点培育的办学实体形态。 |
-> | [[Competitiveness\|Competitiveness]] | Concept | 工程旨在提升的高等教育综合实力与国际竞争力。 |
+> | [[Project 985]] | Fact (Program) | 继 211 工程之后启动的以建设世界一流大学为目标的更高层次国家工程。 |
+> | [[Double First-Class Initiative]] | Fact (Policy) | 统筹整合 211 工程与 985 工程的国家新一代高水平大学与学科建设战略。 |
+> | [[Thousand Talents Program]] | Fact (Program) | 与高水平大学建设紧密协同的国家海外高端引智工程。 |
+> | [[Research Universities]] | Concept | 211 工程承载建设与重点培育的办学实体形态。 |
+> | [[Competitiveness]] | Concept | 工程旨在提升的高等教育综合实力与国际竞争力。 |
 > | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 实证记录 211 工程重点建设约 112 所大学以提升教学科研质量的政策实证文献。 |

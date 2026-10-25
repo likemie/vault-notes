@@ -8,7 +8,7 @@ summary: "美国20世纪著名壁画家与地方主义（Regionalism）绘画运
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,7 +35,8 @@ related_persons:
   - "[[Jackson Pollock]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
-related_facts: []
+related_facts:
+  - "[[United States Congress]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
 confidence: high

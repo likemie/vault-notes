@@ -10,9 +10,9 @@ subtype: program
 region: china
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2010–至今"
 initiator_organization: "中华人民共和国教育部"
@@ -25,6 +25,7 @@ tags:
   - university-alliances
 related_concepts:
   - "[[South-South Cooperation]]"
+  - "[[Mutual Learning]]"
   - "[[People-to-People Connectivity]]"
 related_theories: []
 related_methods: []
@@ -32,6 +33,7 @@ related_instruments: []
 related_persons:
   - "[[Kenneth King]]"
 related_facts:
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Forum on China-Africa Cooperation]]"
   - "[[China Scholarship Council]]"
   - "[[Belt and Road Initiative]]"

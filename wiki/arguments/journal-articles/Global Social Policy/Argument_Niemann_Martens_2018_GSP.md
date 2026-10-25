@@ -39,7 +39,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[School Autonomy]]"
   - "[[International Education]]"
-  - "[[Problem Finding]]"
   - "[[Peer Pressure]]"
   - "[[Unit of Analysis]]"
   - "[[Discourse]]"
@@ -54,15 +53,17 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Comparative Policy Analysis]]"
-  - "[[Cohort Study]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[Federal Ministry of Education and Research]]"
+  - "[[Starting Strong]]"
   - "[[PISA for Development]]"
+  - "[[PISA for Schools]]"
   - "[[HarmoS]]"
+  - "[[Ministry of Education, Culture, Sports, Science and Technology]]"
   - "[[Sputnik Shock 1957]]"
   - "[[National Education]]"
   - "[[UNESCO]]"
@@ -81,7 +82,7 @@ title: "Argument_Niemann_Martens_2018_GSP"
 argument_key: "Argument_Niemann_Martens_2018_GSP"
 argument_display_title: "Soft governance by hard fact? The OECD as a knowledge broker in education policy"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"

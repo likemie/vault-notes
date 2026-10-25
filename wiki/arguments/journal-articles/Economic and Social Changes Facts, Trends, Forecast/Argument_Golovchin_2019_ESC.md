@@ -74,7 +74,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-23
+updated: 2026-10-26
 year: 2019
 doi: "10.15838/esc.2019.5.65.15"
 citation_aliases:
@@ -84,7 +84,7 @@ citation_aliases:
 ---
 
 > [!question]
-> [[John Hattie|John Hattie]] 的[[Visible Learning|可见的学习]]在多大程度上适用于俄罗斯教育？其科学论据与[[Effect Size|效应量]]计算的数理基础是否可靠？将 Hattie 的理念纳入俄罗斯各级教育政策是否具有现实可行性？
+> [[John Hattie]] 的[[Visible Learning|可见的学习]]在多大程度上适用于俄罗斯教育？其科学论据与[[Effect Size|效应量]]计算的数理基础是否可靠？将 Hattie 的理念纳入俄罗斯各级教育政策是否具有现实可行性？
 
 > [!claim] 核心主张
 > Hattie 的[[Visible Learning|可见的学习]]所依据的 133 项正值[[Effect Size|效应量]]在统计上极度离散不均，变差系数达到 56.87%，远超 33% 的同质性安全标准，其得出的普适指标缺乏坚实的数理依据；同时，该理论将教师降格为学习过程调节者并推行量化考核，与俄罗斯教师职业声望低、行政报表负担沉重的现实直接冲突，盲目借鉴将引发教师大量流失的制度陷阱，因而不应作为俄罗斯教育政策的指导方案。
@@ -119,7 +119,7 @@ citation_aliases:
 > | 样本层面 | 构成 |
 > |---|---|
 > | **Hattie 效应量数据** | 取自《[[Visible Learning\|可见的学习]]》（俄译本 2017）公布的 138 个教育因素中的 133 项正值效应量，分为家庭（5 项）、学校（25 项）、学生（19 项）、教师（10 项）、教学方法（49 项）、课程（25 项）六组。 |
-> | **西方学者批评文献** | 涵盖 10 余位学者的代表性论述，包括 [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]、[[Argument_Terhart_2011_JCS\|Terhart (2011)]]、[[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]]、[[Argument_Eacott_2017_SLM\|Eacott (2017)]]、[[Robert Slavin\|Robert Slavin]] (2018) 及 Myburgh 等人的评述。 |
+> | **西方学者批评文献** | 涵盖 10 余位学者的代表性论述，包括 [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]、[[Argument_Terhart_2011_JCS\|Terhart (2011)]]、[[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]]、[[Argument_Eacott_2017_SLM\|Eacott (2017)]]、[[Robert Slavin]] (2018) 及 Myburgh 等人的评述。 |
 > | **俄罗斯实证调查数据** | 2018 年 VTsIOM 职业声望调查、TALIS-2013 教师跨国[[Questionnaire\|问卷]]、2018 年 RANEPA 全俄中学监测报告，以及沃洛格达州科研中心 2017 年教师工作状况问卷。 |
 
 ---
@@ -141,7 +141,7 @@ citation_aliases:
 > Hattie 通过汇总 800 余项[[Meta-analysis|元分析]]、归纳 138 个因素并以 \(d=0.40\) 为基准线划分效应区，试图建立一套通用的决策标尺；但这种做法把丰富的教育情境压缩为数字对比，导致真正重要的体制保障与专业知识被严重边缘化。
 
 > [!evidence-scope] [[Meta-meta-analysis|二阶元分析]]的[[Research Scope|研究范围]]与数据特性
-> Hattie 采取的是二阶元分析（mega-analysis），直接综合的是既有的元分析成果而非原始课堂实验。在方法渊源上，Hattie 借用了 [[Robert Marzano|Robert Marzano]]（2000）在《学校改革新纪元》（*A New Era of School Reform*）中首创的“学校效应”（school effects）概念与元分析综合思路，但将其从单一学校层级扩展为对 800 余项底层元分析的宏观二阶综合。其数据主要来自 1980 至 2000 年代美、澳、新等英语国家的学生学业研究，旨在提炼出对各层级教育决策者具有直接吸引力的普适评价指标。 该书于 2017 年被引介出版为俄文译本（[[Russian Translation of Visible Learning]]），并在俄学界引发了针对其科学依据与[[Policy Borrowing|政策借用]]可行性的剧烈争鸣。
+> Hattie 采取的是二阶元分析（mega-analysis），直接综合的是既有的元分析成果而非原始课堂实验。在方法渊源上，Hattie 借用了 [[Robert Marzano]]（2000）在《学校改革新纪元》（*A New Era of School Reform*）中首创的“学校效应”（school effects）概念与元分析综合思路，但将其从单一学校层级扩展为对 800 余项底层元分析的宏观二阶综合。其数据主要来自 1980 至 2000 年代美、澳、新等英语国家的学生学业研究，旨在提炼出对各层级教育决策者具有直接吸引力的普适评价指标。 该书于 2017 年被引介出版为俄文译本（[[Russian Translation of Visible Learning]]），并在俄学界引发了针对其科学依据与[[Policy Borrowing|政策借用]]可行性的剧烈争鸣。
 
 #### 1. 二阶元分析的操作规程与影响源划分
 
@@ -264,7 +264,7 @@ citation_aliases:
 #### 2. 澳大利亚的教训与俄罗斯基层教师的报表困局
 
 > [!case] 澳大利亚引入量化问责的前车之鉴
-> 澳大利亚是推行 Hattie 理念最彻底的国家，其依据《[[Visible Learning|可见的学习]]》原则推行优质教学模型（Quality Teaching Model, QTM），将教学行为细化为一套外部指标监控体系。这一做法导致学校管理深陷无休止的数据制造与留痕自证，被澳大利亚学者 [[Scott Eacott|Scott Eacott]] 痛批为“澳大利亚教育领导力的悲剧”。
+> 澳大利亚是推行 Hattie 理念最彻底的国家，其依据《[[Visible Learning|可见的学习]]》原则推行优质教学模型（Quality Teaching Model, QTM），将教学行为细化为一套外部指标监控体系。这一做法导致学校管理深陷无休止的数据制造与留痕自证，被澳大利亚学者 [[Scott Eacott]] 痛批为“澳大利亚教育领导力的悲剧”。
 
 > [!policy-context] 俄罗斯教师的行政报表重负与离职危机
 > - **全俄中学的普遍痛点** 俄罗斯总统行政学院全俄监测显示，**79% 的中学教师**反映文书与报表工作量逐年暴增，导致日常教学不堪重负。学者已将这种无休止的文书运转定性为教育体制的组织病理。

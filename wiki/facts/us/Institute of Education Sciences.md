@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 62
+fact_related_count: 65
 fact_related_level: 6
 fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
@@ -50,6 +50,7 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Statistical Normalisation]]"
   - "[[Determinism]]"
+  - "[[Teacher Collaboration]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Education]]"
   - "[[Democratising Evidence]]"
@@ -69,6 +70,7 @@ related_persons:
   - "[[Robert Slavin]]"
   - "[[William H. Schmidt]]"
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[Education Sciences Reform Act 2002]]"
   - "[[Office of Educational Research and Improvement]]"
   - "[[What Works Clearinghouse]]"
@@ -77,6 +79,7 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[Using Data Intervention]]"
   - "[[Foundations for Evidence-Based Policymaking Act of 2018]]"
+  - "[[EdStats]]"
   - "[[Education Resources Information Center]]"
   - "[[National Assessment of Educational Progress]]"
   - "[[OECD]]"

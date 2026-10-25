@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -65,7 +65,7 @@ updated: 2026-10-22
 ---
 
 > [!timeline] 政策时间线
-> - **1994-11** 新加坡国会通过薪酬白皮书，[[Lee Kuan Yew|李光耀]]（[[Lee Kuan Yew|Lee Kuan Yew]]）在议会发表历史性辩论，阐明公职竞争性薪酬的必要性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
+> - **1994-11** 新加坡国会通过薪酬白皮书，[[Lee Kuan Yew|李光耀]]（[[Lee Kuan Yew]]）在议会发表历史性辩论，阐明公职竞争性薪酬的必要性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 > - **2007** 随着私营高管薪酬上涨，新加坡部长平均年薪依据挂钩机制调整至 126 万美元，引发国际社会对公职激励机制的深度讨论。
 > - **2012** 新加坡政府设立独立委员会调整基准公式，适度降低挂钩比例并强化国民经济包容性增长指标，进一步优化考核结构。
 

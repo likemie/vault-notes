@@ -11,7 +11,7 @@ subtype: policy
 region: south-korea
 fact_region: "south-korea"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - theme/assessment-reform
   - theme/pisa
 related_concepts:
+  - "[[Sense of School Belonging]]"
   - "[[Reference Society]]"
   - "[[Rote Learning]]"
   - "[[Learner Autonomy]]"

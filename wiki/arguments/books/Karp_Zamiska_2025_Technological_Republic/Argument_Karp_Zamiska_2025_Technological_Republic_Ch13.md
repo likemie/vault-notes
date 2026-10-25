@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13"
 argument_display_title: "“Building a Better Rifle”"
 argument_kind: "book-chapter"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -51,6 +51,7 @@ related_methods: []
 related_facts:
   - "[[Federal Acquisition Streamlining Act of 1994]]"
   - "[[Palantir Technologies]]"
+  - "[[United States Congress]]"
 related_arguments: []
 confidence: high
 status: draft

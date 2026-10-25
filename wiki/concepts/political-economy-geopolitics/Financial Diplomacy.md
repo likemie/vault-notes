@@ -8,7 +8,7 @@ aliases:
 summary: "主权国家通过官方主导的基础设施融资、预算支持、债务纾困与人道主义援助等跨国资本配置，塑造受援国政策偏好、培育经济相互依赖并服务于地缘经济战略与战略通道安全的外交工具体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 8
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,24 +19,18 @@ tags:
   - theme/infrastructure
   - theme/public-diplomacy
 related_concepts:
-  - "[[Public Diplomacy]]"
-  - "[[Soft Power]]"
-  - "[[Hard Power]]"
-  - "[[Geopolitics]]"
   - "[[Debt-Trap Diplomacy]]"
 related_theories: []
-related_methods:
-  - "[[Cluster Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[Belt and Road Initiative]]"
-  - "[[China-Pakistan Economic Corridor]]"
-related_arguments: []
+related_facts: []
+related_arguments:
+  - "[[Argument_Custer_2021_AidData]]"
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -51,7 +51,7 @@ related_methods: []
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -171,7 +171,7 @@ updated: 2026-10-22
 > - **1979 年 — [[Media Logic\|媒介逻辑]]的提出** Altheide & Snow 出版《Media Logic》，首次系统阐述大众媒介并非透明容器，而是具有自身特定的组织机制、修辞语法与感知偏好，任何社会机构欲进入大众视野均须适应其生产逻辑。
 > - **1999–2014 年 — 政治媒介化理论体系化** Mazzoleni and Schulz (1999) 提出政治媒介化概念；Strömback & Esser (2014) 将其发展为现代民主国家转型的元进程理论框架，确立了媒介化区别于传统中介传播（mediation）的理论自主性。
 > - **2010–2016 年 — 媒介化向教育政策研究的迁移** Lingard and Rawolle (2004) 与 Rawolle (2010) 率先探讨澳大利亚教育政策的媒介化现象；Baroutsis and Lingard (2016) 运用框架理论分析媒体如何通过计数与比较建构澳大利亚学校问责[[Discourse|话语]]。
-> - **2018 年 — 媒介化全球教育治理批判性分析视角的提出** [[Paul Morris\|Paul Morris]] 与 Sue Grey 发表《[[PISA]]: multiple ‘truths’ and mediatised global governance》，正式将媒介化概念与全球教育治理及跨国比较教育深度融合，揭示了跨国数据、政治修辞与本土媒体合谋的治理机制，开拓了超越超国家[[Convergence Theory in Comparative Education\|趋同论]]的新批判研究路径。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
+> - **2018 年 — 媒介化全球教育治理批判性分析视角的提出** [[Paul Morris]] 与 Sue Grey 发表《[[PISA]]: multiple ‘truths’ and mediatised global governance》，正式将媒介化概念与全球教育治理及跨国比较教育深度融合，揭示了跨国数据、政治修辞与本土媒体合谋的治理机制，开拓了超越超国家[[Convergence Theory in Comparative Education\|趋同论]]的新批判研究路径。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
 
 ---
 

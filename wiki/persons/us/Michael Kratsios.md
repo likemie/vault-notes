@@ -7,7 +7,7 @@ summary: "美国当代科技政策制定者与战略管理者，曾任美国第4
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 38
+person_related_count: 39
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -49,6 +49,7 @@ related_facts:
   - "[[Genesis Mission]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[Department of Defense]]"
   - "[[Department of Energy]]"
   - "[[National Science Foundation]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"

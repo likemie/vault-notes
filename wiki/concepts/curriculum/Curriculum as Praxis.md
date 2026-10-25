@@ -39,13 +39,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] Curriculum as Praxis
-> **作为实践的课程（Curriculum as [[Praxis]]）** 由雪莉·葛兰蒂（Shirley Grundy, 1987）结合保罗·[[Paulo Freire\|弗莱雷]]的[[Critical Pedagogy|解放教育学]]正式提出 (Grundy, 1987; [[Argument_Darwish_2009_Queens\|Darwish, 2009, pp. 68–71]])。该[[Paradigm\|范式]]是[[Curriculum as Process\|作为过程的课程]]的批判性深化：它主张行动不仅要由[[Phronesis\|实践明智]]所指导，更必须具备**对政治解放的显性承诺（commitment to emancipation）**。课程的核心目标是引导师生在共同探究中觉醒批判意识，并采取实质性变革行动（[[Praxis\|Praxis]]）解构不公正的社会结构。
+> **作为实践的课程（Curriculum as [[Praxis]]）** 由雪莉·葛兰蒂（Shirley Grundy, 1987）结合保罗·[[Paulo Freire\|弗莱雷]]的[[Critical Pedagogy|解放教育学]]正式提出 (Grundy, 1987; [[Argument_Darwish_2009_Queens\|Darwish, 2009, pp. 68–71]])。该[[Paradigm\|范式]]是[[Curriculum as Process\|作为过程的课程]]的批判性深化：它主张行动不仅要由[[Phronesis\|实践明智]]所指导，更必须具备**对政治解放的显性承诺（commitment to emancipation）**。课程的核心目标是引导师生在共同探究中觉醒批判意识，并采取实质性变革行动（[[Praxis]]）解构不公正的社会结构。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向以[[Conscientization\|批判意识觉醒]]、政治解放承诺与变革社会行动为归宿的批判课程范式。

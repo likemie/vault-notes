@@ -11,9 +11,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 12
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1993–至今"
 initiator_organization: "联合国教科文组织（UNESCO）、经合组织（OECD）与欧盟统计局（Eurostat）"
@@ -26,10 +26,15 @@ tags:
   - theme/comparative-education
 related_concepts:
   - "[[Data Infrastructure]]"
-  - "[[Governing by Numbers]]"
+  - "[[Triangular Cooperation]]"
   - "[[Performance Indicators]]"
-related_theories: []
-related_methods: []
+  - "[[International Education]]"
+  - "[[Governing by Numbers]]"
+  - "[[Paradigm]]"
+related_theories:
+  - "[[Human Capital Theory]]"
+related_methods:
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
   - "[[Sotiria Grek]]"
@@ -37,10 +42,14 @@ related_facts:
   - "[[UNESCO]]"
   - "[[OECD]]"
   - "[[EU]]"
-  - "[[Lisbon Strategy]]"
-  - "[[Education at a Glance]]"
-  - "[[Eurydice]]"
+  - "[[UNESCO Institute for Statistics]]"
   - "[[International Indicators of Education Systems]]"
+  - "[[Lisbon Strategy]]"
+  - "[[European Commission]]"
+  - "[[UN Sustainable Development Goals]]"
+  - "[[Education at a Glance]]"
+  - "[[Global Education Monitoring Report]]"
+  - "[[Eurydice]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high

@@ -11,7 +11,7 @@ subtype: program
 region: africa
 fact_region: "africa"
 fact_kind: "program"
-fact_related_count: 6
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -26,9 +26,8 @@ tags:
   - theme/distance-education
   - region/africa
 related_concepts:
-  - "[[Virtual University]]"
   - "[[STEM Education]]"
-  - "[[Epistemic Governance]]"
+  - "[[Virtual University]]"
 related_facts:
   - "[[World Bank]]"
   - "[[UNESCO]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 # African Virtual University

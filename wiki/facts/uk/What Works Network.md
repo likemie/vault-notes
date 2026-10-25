@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 50
+fact_related_count: 53
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_methods:
 related_persons:
   - "[[David Gough]]"
 related_facts:
+  - "[[Cabinet Office]]"
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Research Schools Network]]"
@@ -66,8 +67,10 @@ related_facts:
   - "[[Ofsted]]"
   - "[[Campbell Collaboration]]"
   - "[[Sutton Trust]]"
+  - "[[Department for Education]]"
   - "[[Early Intervention Foundation]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Economic and Social Research Council]]"
   - "[[EPPI-Centre]]"
   - "[[Institute for Effective Education]]"
   - "[[Literacy Octopus]]"

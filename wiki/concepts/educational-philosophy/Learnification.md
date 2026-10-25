@@ -7,10 +7,10 @@ aliases:
 summary: "由格特·比斯塔提出的批判性哲学构念，用以诊断教育话语被以效果为中心的“学习”逻辑全面殖民的现象。该构念揭示：当教育被降维为无休止的学习过程、学习结果与效应量排名时，教师被降格为学习促进者，学生被重塑为需持续自我优化的学习客户，从而彻底遮蔽了关涉主体成人、民主公民与全人教化（Bildung）的崇高教育目的。"
 type: concept
 domain: "educational-philosophy"
-related_count: 50
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 48
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/educational-philosophy
   - learnification
@@ -49,7 +49,6 @@ related_theories:
   - "[[Panopticism]]"
   - "[[Cognitive Capitalism]]"
   - "[[Human Capital Theory]]"
-  - "[[Governmentality]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
@@ -57,7 +56,6 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[External Auditor]]"
   - "[[Analytic Framework]]"
-  - "[[Discourse Analysis]]"
 related_persons:
   - "[[Gert Biesta]]"
   - "[[John Hattie]]"
@@ -77,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

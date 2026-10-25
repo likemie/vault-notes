@@ -9,9 +9,9 @@ subtype: policy
 region: multi
 fact_region: "multi"
 fact_kind: "policy"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "东盟十国及中国、日本、韩国、澳大利亚、新西兰"
 tags:
@@ -23,13 +23,23 @@ tags:
   - region/southeast-asia
   - region/east-asia
   - level/international
-related_concepts: []
+related_concepts:
+  - "[[Liberalization]]"
+  - "[[Total Factor Productivity]]"
+  - "[[Education Going Global]]"
+  - "[[Competitiveness]]"
+  - "[[Internationalization of Vocational Education]]"
+  - "[[Industry-Education Integration Community]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[ASEAN]]"
+  - "[[Belt and Road Initiative]]"
+  - "[[Chinese-ASEAN Modern Craftsmanship Institute]]"
+related_arguments:
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: high
 status: active
 created: 2026-10-22

@@ -49,7 +49,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!def] Inhibitory Control
@@ -107,7 +107,7 @@ updated: 2026-10-22
 
 ## 教学支架的补偿与调节效应（ATI）
 
-抑制控制与教学干预结构的[[Interaction Effect|交互作用]]（[[Interaction Effect|Interaction Effect]]）为自适应教学设计提供了明确方向：
+抑制控制与教学干预结构的[[Interaction Effect|交互作用]]（[[Interaction Effect]]）为自适应教学设计提供了明确方向：
 
 > [!tension-table] 探究环境结构化程度与抑制控制水平的交互调节
 > | 教学环境设计 | 高抑制控制学生表现 | 低抑制控制学生表现 | 教学设计对策 |

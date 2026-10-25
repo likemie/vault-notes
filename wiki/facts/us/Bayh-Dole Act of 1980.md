@@ -11,9 +11,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 37
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 40
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[United States Congress]]"
 tags:
@@ -50,12 +50,15 @@ related_instruments: []
 related_persons:
   - "[[Fred Block]]"
 related_facts:
+  - "[[United States Congress]]"
   - "[[SBIR and STTR Programs]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[Advanced Technology Program]]"
   - "[[National Science Foundation]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
+  - "[[Department of Defense]]"
   - "[[University Industry Demonstration Partnership]]"
   - "[[Science, The Endless Frontier 1945]]"
 related_arguments:

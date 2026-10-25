@@ -8,7 +8,7 @@ aliases:
 summary: "由亚历克斯·奥斯本提出的经典发散构思与群体创造力技法，以“延迟评判、以量求质、自由畅想、搭便车改进”四大原则为基石。当代群体动力学研究揭示了面对面口头互动中的生产阻塞与评价顾虑，推动了书面脑力激荡与个体-群体混合模式的发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 39
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -51,7 +51,6 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Factorial Design]]"
@@ -66,7 +65,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

@@ -9,7 +9,7 @@ aliases:
 summary: "学习者为了达成学业目标，主动对自身的认知过程、动机体验和行为策略进行规划、监控、评价与反思性调整的循环性心理与行为系统"
 type: concept
 domain: "competency-and-assessment"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -47,7 +47,6 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Meta-analysis]]"
   - "[[Questionnaire]]"
-  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
 related_instruments:
@@ -61,7 +60,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-31
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Self-Regulated Learning

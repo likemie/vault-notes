@@ -9,15 +9,14 @@ aliases:
 summary: "正式假设检验中预测总体中变量间不存在关系或组间不存在显著差异的假设形式，与备择假设成对构成统计检验的完整框架，通常以H₀表示。"
 type: concept
 domain: "research-methodology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - subject/research-methodology
   - paradigm/positivist
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Alternative Hypothesis]]"
   - "[[Operationalization]]"
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Null Hypothesis

@@ -8,7 +8,7 @@ summary: "英国教育慈善家、萨顿信托（Sutton Trust）创始人兼董�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -46,6 +46,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Education at a Glance]]"
+  - "[[Department for Education]]"
   - "[[Pupil Premium]]"
   - "[[Impetus]]"
   - "[[BHP Foundation]]"

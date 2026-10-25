@@ -9,9 +9,9 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 10
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 8
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "2013–至今"
 initiator_organization: "中华人民共和国国家发展和改革委员会、巴基斯坦伊斯兰共和国计划发展部"
@@ -26,8 +26,6 @@ tags:
 related_concepts:
   - "[[Financial Diplomacy]]"
   - "[[Public Diplomacy]]"
-  - "[[Soft Power]]"
-  - "[[Geopolitics]]"
   - "[[Student Mobility]]"
 related_theories: []
 related_methods: []
@@ -43,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

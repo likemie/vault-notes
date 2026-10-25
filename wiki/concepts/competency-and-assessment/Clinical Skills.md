@@ -7,7 +7,7 @@ aliases:
 summary: "通过分析真实患者情景获得的实践技能，涵盖临床决策、临床能力与操作技能；在健康职业教育中由问题本位学习等教学模式重点培养。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 9
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,13 +19,10 @@ related_concepts:
   - "[[Theoretical Knowledge]]"
   - "[[Problem-Based Learning]]"
   - "[[Problem Solving]]"
-  - "[[Dependent Variable]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
-  - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -34,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

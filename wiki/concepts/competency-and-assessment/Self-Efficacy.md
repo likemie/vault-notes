@@ -9,7 +9,7 @@ aliases:
 summary: "阿尔伯特·班杜拉提出的社会认知动机核心构念，指个体对自身在特定任务情境中组织并执行必要行动以达成特定目标的胜任信念；通过预期、努力持久度与目标设定调节学习与教学，并在支架式探究与认识论实践中作为亲历掌握经验塑造的学科胜任信念与科学知者身份认同关键成果。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 56
+related_count: 50
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -54,8 +54,6 @@ related_concepts:
   - "[[Refutational Evidence]]"
   - "[[Voluntarism]]"
   - "[[Socioeconomic Status]]"
-  - "[[Dependent Variable]]"
-  - "[[Chain of Evidence]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Legitimate Peripheral Participation]]"
@@ -65,10 +63,6 @@ related_methods:
   - "[[Design-Based Research]]"
   - "[[Discourse Analysis]]"
   - "[[Questionnaire]]"
-  - "[[Systematic Review]]"
-  - "[[Comparative Case Study]]"
-  - "[[In-depth Interview]]"
-  - "[[Documentary Analysis]]"
 related_persons:
   - "[[Albert Bandura]]"
   - "[[Sotiria Grek]]"
@@ -85,7 +79,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---

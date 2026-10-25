@@ -10,7 +10,7 @@ subtype: program
 region: "china"
 fact_region: "china"
 fact_kind: "program"
-fact_related_count: 0
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
@@ -22,6 +22,15 @@ tags:
   - theme/higher-education
   - theme/scholarship
   - theme/educational-diplomacy
+related_concepts:
+  - "[[Public-Private Partnership]]"
+related_facts:
+  - "[[Ministry of Education of the People's Republic of China]]"
+  - "[[Belt and Road Education Action Plan]]"
+  - "[[Belt and Road Initiative]]"
+  - "[[China Scholarship Council]]"
+related_arguments:
+  - "[[Argument_Custer_2021_AidData]]"
 confidence: high
 status: active
 created: 2026-10-22

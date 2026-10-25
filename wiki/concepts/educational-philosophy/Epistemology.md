@@ -8,7 +8,7 @@ aliases:
 summary: "关于知识本质、形式与获取方式的哲学假设，在研究哲学中决定不同范式的有效知识判准；在教育心理学与学习科学中，表现为个体心智协调主观与客观维度的认识论理解演进。"
 type: concept
 domain: "educational-philosophy"
-related_count: 91
+related_count: 92
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -112,13 +112,14 @@ related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07]]"
   - "[[Argument_Legrand_2012_PolStud]]"
 related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -281,7 +282,7 @@ updated: 2026-10-23
 > | **主客认知协调** | 个体心智中认识论演进的机制、反转序列与宽容陷阱。 | 学习科学、[[Epistemological Beliefs\|认识论信念]]发展与[[Critical Thinking\|批判性思维]]教学。 | Kuhn et al. |
 > | **批判抗争认识论** | 知识生产是对欺骗性认识论的前提反思，确立求真与追求正义社会的认识论同构。 | 宏观政治经济学、批判社会学、学术范式解构与[[Research Ethics\|研究伦理]]反思。 | Wallerstein; Arnove |
 > | **流变认识论与方法主义批判** | 跨学科探究为随时代流变的普罗透斯式体系，需抵御唯方法论主义并将技术锚定于历史情境。 | 跨学科[[Theory of Knowledge\|知识论]]、比较学科史、实证化批判与历史健忘症反思。 | Barber; [[Andreas Kazamias\|Kazamias]] |
-> | **评价认识论转向** | [[PISA\|PISA]]推动评价认识论从国家课程知识掌握转向生活情境通用胜任力与自主规制倾向。 | 跨国教育治理、政策指标建构与[[Lifelong Learning\|终身学习]]测评。 | Grek |
+> | **评价认识论转向** | [[PISA]]推动评价认识论从国家课程知识掌握转向生活情境通用胜任力与自主规制倾向。 | 跨国教育治理、政策指标建构与[[Lifelong Learning\|终身学习]]测评。 | Grek |
 
 ---
 

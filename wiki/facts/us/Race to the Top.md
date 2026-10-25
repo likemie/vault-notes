@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,6 +27,7 @@ tags:
 related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[College and Career Readiness]]"
+  - "[[Charter Schools]]"
   - "[[Counterpart Funds]]"
   - "[[Test-Based Accountability]]"
   - "[[Performance Pay]]"
@@ -40,6 +41,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Common Core State Standards]]"
   - "[[Elementary and Secondary Education Act of 1965]]"

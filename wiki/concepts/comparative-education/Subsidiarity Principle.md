@@ -8,10 +8,10 @@ aliases:
 summary: "欧盟与现代联邦制治理中的核心宪制原则。规定公共决策应在最低有效层级做出，超国家或中央机构仅在成员国与地方无法有效达成目标时方可进行从属性干预；在欧洲教育治理中，其保障了成员国对教学内容与学制组织的核心主权，但批判学者揭示欧盟如何依托数据基础设施外包与软法规训绕开该原则以深度重塑成员国政策空间。"
 type: concept
 domain: "comparative-education"
-related_count: 24
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 33
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/comparative-education
   - theme/educational-governance
@@ -23,26 +23,35 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[Peer Pressure]]"
   - "[[Open Method of Coordination]]"
+  - "[[Knowledge Co-production]]"
   - "[[Discourse]]"
   - "[[Space of Flows]]"
   - "[[Gatekeepers]]"
+  - "[[Data Infrastructure]]"
+  - "[[European Education Space]]"
   - "[[Policy Mobility]]"
   - "[[Champ]]"
+  - "[[Performance Indicators]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
-  - "[[European Education Space]]"
   - "[[Student Mobility]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Semi-structured Interview]]"
 related_instruments: []
 related_persons:
   - "[[António Nóvoa]]"
   - "[[Jason Beech]]"
+  - "[[Sotiria Grek]]"
 related_facts:
   - "[[EU]]"
   - "[[Bologna Process]]"
+  - "[[OECD]]"
+  - "[[European Commission]]"
+  - "[[PISA]]"
+  - "[[UOE Data Collection]]"
   - "[[Lisbon Strategy]]"
   - "[[German Dual Education System]]"
 related_arguments:
@@ -52,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

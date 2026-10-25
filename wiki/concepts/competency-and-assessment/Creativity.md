@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育与心理学中兼具预测变量与发展结果的双重属性；在科学学与创新政策视阈下，个体科学创造力呈现显著的早年黄金生命周期，易受学术评价增量偏好与共识评审的体制性抑制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 93
+related_count: 90
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -72,8 +72,6 @@ related_concepts:
   - "[[Jigsaw]]"
   - "[[Common Method Variance]]"
   - "[[Cognitive Offloading]]"
-  - "[[Project-Based Learning]]"
-  - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Critical Thinking Assessment]]"
 related_methods:
@@ -82,7 +80,6 @@ related_methods:
   - "[[Three-Level Meta-Analysis]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
@@ -123,7 +120,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

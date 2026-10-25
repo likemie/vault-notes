@@ -86,7 +86,7 @@ related_persons:
   - "[[Egon G. Guba]]"
 status: active
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -207,7 +207,7 @@ Campbell and Stanley (1963)、Bracht and Glass (1968) 和 Lewis-Beck (1993) 建�
 > | 来源 | 威胁分类 | 核心方法学风险 |
 > |---|---|---|
 > | **Campbell & Stanley** | 自[[Variable\|变量]]描述不充分 | 细节模糊导致未来无法精确复制研究条件 |
-> | | 总体缺乏代表性 | 样本无法代表目标总体（[[Study Population and Sample\|Study Population and Sample]]） |
+> | | 总体缺乏代表性 | 样本无法代表目标总体（[[Study Population and Sample]]） |
 > | | [[Hawthorne Effect\|霍桑效应]] | 受试者因意识到被研究而改变日常行为 |
 > | | 因变量[[Operationalization\|操作化]]不充分 | 实验室测量在真实世界复杂情境中缺乏效度 |
 > | | 对实验条件敏感化 | [[Pre-test and Post-test\|前测]]改变了受试者对干预的心理敏感度与反应 |

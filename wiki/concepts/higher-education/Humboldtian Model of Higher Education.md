@@ -32,8 +32,8 @@ related_concepts:
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[Grandes Ecoles]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[Morrill Land-Grant Act of 1862]]"
+  - "[[The Royal Society]]"
   - "[[Max Planck Society]]"
 related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
@@ -80,7 +80,7 @@ updated: 2026-10-26
 ### 1. 洪堡模式是大学完成从“经院修道院”向“知识生产枢纽”跃升的制度质变点
 
 > [!claim] 终结大学排斥科学发现的历史宿命
-> 在 16–17 世纪科学革命与 18 世纪启蒙时代，从哥白尼、开普勒到伽利略、牛顿，主要科学发现均在大学之外或以宫廷侍从、[[Royal Society|皇家学会]]学者身份取得；正是洪堡改革使欧洲大学首次将生产知识（Production of Knowledge）与传授知识（Transmission of Knowledge）置于同等法定高度，终结了大学长达数百年的经院边缘化状态。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
+> 在 16–17 世纪科学革命与 18 世纪启蒙时代，从哥白尼、开普勒到伽利略、牛顿，主要科学发现均在大学之外或以宫廷侍从、[[The Royal Society|皇家学会]]学者身份取得；正是洪堡改革使欧洲大学首次将生产知识（Production of Knowledge）与传授知识（Transmission of Knowledge）置于同等法定高度，终结了大学长达数百年的经院边缘化状态。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
 
 ---
 

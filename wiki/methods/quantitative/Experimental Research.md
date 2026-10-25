@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -147,8 +147,8 @@ updated: 2026-10-22
 > | **历史威胁（History）** | 实验期间发生的外部突发事件干扰因变量 | 设置严格对等的同期对照组以抵消外部环境影响。 |
 > | **成熟威胁（Maturation）** | 受试者随时间自然成长、疲劳或衰老导致分数变化 | 缩短实验周期，设立随机对照组分离自然成熟效应。 |
 > | **选择偏差（Selection）** | 处理组与对照组受试者在基线特征上存在系统性差异 | 必须采用严格的[[Random Assignment\|随机分配]]以确保组间初始等价。 |
-> | **受试者流失（[[Attrition\|Attrition]]）** | 实验过程中某一组受试者不成比例地退出研究 | 追踪流失原因，开展[[Intent-to-Treat Analysis\|意向性分析]]（Intention-to-Treat, [[Initial Teacher Training\|ITT]]）与敏感性检验。 |
-> | **实验者偏差（[[Experimenter Bias\|Experimenter Bias]]）** | 主试的主观期望无意识地影响受试者表现或评分 | 采用双盲设计（Blinding），使主试与受试者均不知晓分组情况。 |
+> | **受试者流失（[[Attrition]]）** | 实验过程中某一组受试者不成比例地退出研究 | 追踪流失原因，开展[[Intent-to-Treat Analysis\|意向性分析]]（Intention-to-Treat, [[Initial Teacher Training\|ITT]]）与敏感性检验。 |
+> | **实验者偏差（[[Experimenter Bias]]）** | 主试的主观期望无意识地影响受试者表现或评分 | 采用双盲设计（Blinding），使主试与受试者均不知晓分组情况。 |
 > | **情境交互（Setting Interaction）** | 人工实验室环境过于狭隘，结论无法向真实学校/职场推广 | 开展现场实验（Field Experiments）以增强[[Ecological Validity\|生态效度]]。 |
 
 ---

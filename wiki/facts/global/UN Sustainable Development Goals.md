@@ -14,7 +14,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 66
+fact_related_count: 69
 fact_related_level: 6
 fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Complexity Paradox]]"
   - "[[Network Governance]]"
   - "[[Policy Mobility]]"
+  - "[[Mutual Learning]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[University Social Responsibility]]"
   - "[[South-South Cooperation]]"
@@ -78,12 +79,14 @@ related_facts:
   - "[[UNICEF]]"
   - "[[World Bank]]"
   - "[[EU]]"
+  - "[[European Commission]]"
   - "[[Horizon Europe]]"
   - "[[Global Partnership for Education]]"
   - "[[OECD]]"
   - "[[Building Evidence in Education]]"
   - "[[Learning Data Compact]]"
   - "[[KfW]]"
+  - "[[UK Research and Innovation]]"
   - "[[Apollo Program]]"
   - "[[DARPA]]"
   - "[[Global Education Cooperation Mechanism]]"

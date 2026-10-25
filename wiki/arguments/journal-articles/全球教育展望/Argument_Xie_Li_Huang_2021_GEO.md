@@ -23,40 +23,27 @@ tags:
   - policy-borrowing
   - source/journal-article
 related_concepts:
-  - "[[Critique of PISA]]"
+  - "[[Champ]]"
   - "[[Global Educational Policy Field]]"
   - "[[Governing by Numbers]]"
+  - "[[Policy Borrowing]]"
+  - "[[Space of Equivalence]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Comparative Turn in Education Policy]]"
-  - "[[PISA Shock]]"
-  - "[[Policy Borrowing]]"
+  - "[[Epistemic Community]]"
   - "[[Externalization]]"
   - "[[Reference Society]]"
-  - "[[Methodological Nationalism]]"
-  - "[[Champ]]"
-  - "[[Space of Equivalence]]"
-  - "[[Soft Power by Hard Facts]]"
   - "[[Policy Network]]"
+  - "[[Methodological Nationalism]]"
 related_theories:
-  - "[[Three-Level Mechanism Model of PISA's Impact on Education Policy]]"
   - "[[World Society Theory]]"
   - "[[Governmentality]]"
-  - "[[Human Capital Theory]]"
-  - "[[Actor-Network Theory]]"
 related_methods:
   - "[[Critical Review]]"
   - "[[Critical Policy Analysis]]"
-  - "[[Critical Discourse Analysis]]"
-related_persons:
-  - "[[John W. Meyer]]"
-  - "[[Pierre Bourdieu]]"
-  - "[[Stephen Ball]]"
+related_persons: []
 related_facts:
-  - "[[OECD]]"
-  - "[[PISA]]"
   - "[[PISA Shock in Germany]]"
-  - "[[PISA Shock in Japan]]"
-  - "[[PISA Shock in the United States]]"
 related_arguments: []
 sources:
   - "[[sources/Xie_Li_Huang_2021_GEO/Xie_Li_Huang_2021_GEO|Xie_Li_Huang_2021_GEO]]"
@@ -70,9 +57,9 @@ title: "Argument_Xie_Li_Huang_2021_GEO"
 argument_key: "Argument_Xie_Li_Huang_2021_GEO"
 argument_display_title: "全球药方还是特洛伊木马? PISA的教育政策效应批判——一份基于教育政策社会学视角的文献报告"
 argument_kind: "journal-article"
-argument_related_count: 30
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 17
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "全球教育展望"
 ---
@@ -100,7 +87,7 @@ journal: "全球教育展望"
 > | **数字治理与政策借用理论**<br>[[Governing by Numbers]] / [[Policy Borrowing]] | 借助斯蒂芬·鲍尔（Stephen Ball）与于尔根·施瑞尔（Jurgen Schriewer）等学者的理论，分析数目化管理如何赋能远距治理，以及国内政治精英如何利用外部化压力与模范社会进行战略性政策借用。 |
 
 > [!warrant]- 理论如何支撑论证
-> 论文通过三重理论透镜搭建了论证推导的立体阶梯：世界社会理论解释了宏观层面全球趋同压力的合法性来源；布迪厄的场域理论揭示了中观层面超国家组织如何将技术性指标兑换为跨国支配资本；福柯的治理术理论则直击微观层面数目化全景敞视对个体与学校的内化规训。三大理论共同粉碎了 PISA“中立技术测量”的表象，为其治理工具定性提供了坚实的社会学批判基础。
+> 三重理论透镜搭建了论证推导的立体阶梯：世界社会理论解释宏观层面全球趋同压力的合法性来源；布迪厄的场域理论揭示中观层面超国家组织如何将技术性指标兑换为跨国支配资本；福柯的治理术理论剖析微观层面数目化全景敞视对个体与学校的内化规训。三大理论共同解构了 PISA“中立技术测量”的表象，确立其全球治理工具属性的社会学批判基础。
 
 ---
 
@@ -133,7 +120,7 @@ journal: "全球教育展望"
 ---
 
 > [!claim] 论证步骤一　PISA 本质上是经合组织推进新自由主义重构与数目化远距离管制的全球治理工具
-> PISA 绝非纯粹客观中立的学生学业测量工具，而是经合组织在冷战后探索跨国政策行动者定位、确立自身为“思想提供者”与政策知识中枢的关键制度载体。该项目深度浸透了新自由主义人力资本逻辑，通过去背景化、通约性与政策导向三大技术机制，将复杂的教育实践降解为跨国可比的绩效数据，成为推行以考试为基础的问责制和准市场化竞争的特洛伊木马。
+> PISA 是经合组织在冷战后探索跨国政策行动者定位、确立自身为“思想提供者”与政策知识中枢的关键制度载体。该项目深度浸透新自由主义人力资本逻辑，通过去背景化、通约性与政策导向三大技术机制，将复杂的教育实践降解为跨国可比的绩效数据，成为推行以考试为基础的问责制和准市场化竞争的特洛伊木马。
 
 #### 1. 经合组织的“思想提供者”定位与软治理模式演进
 
@@ -170,7 +157,7 @@ PISA 能够在全球范围确立权威地位，取决于三大关键政策学特
 ---
 
 > [!claim] 论证步骤二　全球教育政策场域中主权国家的政策回应分化为政策指引与政策背书二元象限
-> PISA 的推广标志着相对自主的全球教育政策场域（[[Global Educational Policy Field]]）全面成型。面对统一的跨国测量体系，各参测国并未机械产生同质化的政策重构，而是依据自身成绩落差、政治体制与文化传统，在政策指引（借由测评推动实质变革）与政策背书（将数据作为既定立场的辩护武器）之间分化，并呈现出影响范围广度与深度的巨大异质性。
+> PISA 的推广标志着相对自主的全球教育政策场域（[[Global Educational Policy Field]]）全面成型。面对统一的跨国测量体系，各参测国依据自身成绩落差、政治体制与文化传统分化为两大回应路径：以政策指引借由测评推动实质变革，或以政策背书将数据作为既定立场的辩护武器，并在影响广度与深度上呈现显著异质性。
 
 #### 1. 政策改革指引与跨国趋同压力
 
@@ -226,7 +213,7 @@ PISA 能够在全球范围确立权威地位，取决于三大关键政策学特
 ---
 
 > [!claim] 论证步骤三　政策回应差异是由超国家软治理、民族国家外部化借用与内部网络转译三层机制交互塑造的
-> PISA 对主权国家教育政策的真实影响不是简单的单向线性输入，而是分布在超国家组织、民族国家与国内行动者网络三个相对独立又紧密耦合的系统层级之中。跨国政策趋同产生于超国家规范压力与国家外部化借鉴的共振，而政策趋异则源于国内行动者网络在特定政治生态中对跨国数据的竞争性转译。
+> PISA 对主权国家教育政策的真实影响分布在超国家组织、民族国家与国内行动者网络三个相对独立又紧密联动的系统层级之中。跨国政策趋同源于超国家规范压力与国家外部化借鉴的共振，政策趋异则源于国内行动者网络在特定政治生态中对跨国数据的竞争性转译。
 
 #### 1. 超国家层面：国际组织的“软治理”、全球认知空间与政策趋同压力
 
@@ -236,9 +223,9 @@ PISA 能够在全球范围确立权威地位，取决于三大关键政策学特
 
 #### 2. 民族国家层面：外部化压力、模范社会与政策借用
 
-在民族国家层级，主权国政府对 PISA 的接纳并非被动受迫，而是出于内生政治合法性的追求。当一国内部面临教育财政紧缩、党派僵局或公信力下降时，决策者往往实施“外部化战略”（[[Externalization]]）——有意识地将改革依据引向外部世界权威，以化解本土政策阻力并掩盖国内政治妥协。
+在民族国家层级，主权国政府对 PISA 的接纳出于内生政治合法性的追求。当一国内部面临教育财政紧缩、党派僵局或公信力下降时，决策者往往实施“外部化战略”（[[Externalization]]），有意识地将改革依据引向外部世界权威，以此化解本土政策阻力并掩盖国内政治妥协。
 
-PISA 排行榜为主权国提供了具象化的“模范社会”（[[Reference Society]]）。处于危机焦虑中的国家（如经历 [[PISA Shock in Germany|德国 PISA 休克]] 后的联邦各州）选择将芬兰等高绩效系统作为参照靶标，发起激进的政策借用（[[Policy Borrowing]]）。然而，政策借用的强度并不完全取决于绝对分数高低，而是取决于一国“自我认知与实证位次之间的落差”。当传统教育强国遭遇意外落败时，认知落差所释放的外部化冲击力最大，最容易触发颠覆性政策重组。
+PISA 排行榜为主权国提供了具象化的“模范社会”（[[Reference Society]]）。处于危机焦虑中的国家（如经历 [[PISA Shock in Germany|德国 PISA 休克]] 后的联邦各州）选择将芬兰等高绩效系统作为参照靶标，发起激进的政策借用（[[Policy Borrowing]]）。政策借用的强度关键取决于一国“自我认知与实证位次之间的落差”。当传统教育强国遭遇意外落败时，认知落差所释放的外部化冲击力最大，最容易触发颠覆性政策重组。
 
 #### 3. 内部行动者网络：信息“转译”与本土政策趋异
 

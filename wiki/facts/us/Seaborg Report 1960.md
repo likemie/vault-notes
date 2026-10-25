@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
+  - "[[Department of Defense]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[American Council on Education]]"
 related_arguments:

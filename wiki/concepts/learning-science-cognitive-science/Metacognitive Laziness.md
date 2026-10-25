@@ -8,7 +8,7 @@ aliases:
 summary: "指学习者在生成式人工智能支持环境中，因过度依赖算法的即时答案生成与认知外包，自发削减内部认知加工与反思监控努力，导致元认知觉知与自我调节能力停滞或钝化的现象"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 28
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,16 +38,12 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
-  - "[[Variable]]"
-  - "[[Language Skills]]"
-  - "[[Affective Outcomes]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Experimental Research]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
 related_instruments: []
 related_persons: []
@@ -57,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 （[[Metacognition|元认知]]惰性）

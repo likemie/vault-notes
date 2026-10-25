@@ -14,7 +14,7 @@ aliases:
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 133
+related_count: 137
 related_level: 13
 related_stars: "💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -136,6 +136,7 @@ related_facts:
   - "[[Canadian Council on Learning]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[Ofsted]]"
+  - "[[United States Congress]]"
   - "[[Rapid Assessment and Response Strategy]]"
   - "[[Literacy Octopus]]"
   - "[[Best Evidence Synthesis]]"
@@ -143,9 +144,12 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Sutton Trust]]"
+  - "[[Department for Education]]"
+  - "[[Ministry of Education, Culture, Sports, Science and Technology]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[What Works Network]]"
   - "[[Early Intervention Foundation]]"
+  - "[[Economic and Social Research Council]]"
   - "[[The Education Trust]]"
   - "[[American Council on Education]]"
   - "[[American Association of Colleges for Teacher Education]]"
@@ -158,16 +162,16 @@ related_arguments:
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Serpell_2020_EducPsychol]]"
   - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
-  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high
 status: completed
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 > [!def] Educational Brokerage Agency

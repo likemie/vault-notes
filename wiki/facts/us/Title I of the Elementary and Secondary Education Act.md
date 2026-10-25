@@ -13,9 +13,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 18
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "美国联邦政府（U.S. Department of Education & U.S. Congress）"
 tags:
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Categorical Funding]]"
   - "[[Evidence Standards]]"
+  - "[[Whole-School Improvement]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
 related_methods:
@@ -42,6 +43,7 @@ related_facts:
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Every Student Succeeds Act]]"
+  - "[[United States Department of Education]]"
   - "[[CORE Education]]"
   - "[[Adequate Yearly Progress]]"
   - "[[What Works Clearinghouse]]"

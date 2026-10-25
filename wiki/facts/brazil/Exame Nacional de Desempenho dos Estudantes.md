@@ -10,7 +10,7 @@ subtype: policy
 region: brazil
 fact_region: "brazil"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -28,7 +28,8 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high

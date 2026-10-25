@@ -9,7 +9,7 @@ aliases:
 summary: "指国家或公共部门通过具有法律约束力的采购协议与前瞻性预算承诺，全额或大比例包揽新兴颠覆性技术初创阶段的产能，从而消除早期商业化买单不确定性并释放微观学习经济的创新政策机制。"
 type: concept
 domain: "science-policy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,6 +45,7 @@ related_persons:
   - "[[Rainer Kattel]]"
 related_facts:
   - "[[Fairchild Semiconductor]]"
+  - "[[Department of Defense]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[Brookings Institution]]"
 related_arguments:
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 21
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: research-institution
 headquarters: 美国华盛顿哥伦比亚特区
@@ -26,14 +26,22 @@ tags:
   - theme/research-synthesis
   - theme/evidence-based-policy
 related_concepts:
+  - "[[Research Utilization]]"
+  - "[[Output-Oriented Governance]]"
+  - "[[Paradigm]]"
+  - "[[Evidence Standards]]"
   - "[[Congressional Earmarks]]"
+  - "[[Disciplinary Institutionalization]]"
+  - "[[Tracking]]"
+  - "[[Epistemology]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Knowledge Production]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Policy Science in Comparative Education]]"
   - "[[Policy Window]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Research Universities]]"
-  - "[[Research Utilization]]"
   - "[[Research Translation]]"
 related_theories: []
 related_methods:
@@ -42,8 +50,9 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[National Academy of Sciences]]"
+  - "[[Swedish National Agency for Education]]"
+  - "[[United States Congress]]"
   - "[[Common Core State Standards]]"
-  - "[[Chinese Academy of Sciences]]"
   - "[[National Assessment of Educational Progress]]"
   - "[[National Governors Association]]"
   - "[[Cram Schools]]"

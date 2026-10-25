@@ -26,6 +26,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[People-to-People Connectivity]]"
   - "[[Paradigm]]"
+  - "[[Mutual Learning]]"
   - "[[Technology Transfer]]"
   - "[[Student Mobility]]"
   - "[[Classical Geopolitics]]"
@@ -40,6 +41,7 @@ related_facts:
   - "[[Forum on China-Africa Cooperation]]"
   - "[[Belt and Road Education Action Plan]]"
   - "[[Belt and Road Initiative]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Luban Workshop]]"
   - "[[Sino-Africa Joint Research Center]]"
   - "[[Asia-Africa Growth Corridor]]"
@@ -60,7 +62,7 @@ title: "Argument_King_2020_ECNUROE"
 argument_key: "Argument_King_2020_ECNUROE"
 argument_display_title: "China–Africa education cooperation: From FOCAC to Belt and Road"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 22
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

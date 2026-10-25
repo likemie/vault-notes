@@ -10,10 +10,10 @@ aliases:
 summary: "认知心理学与教学设计中的自主建构范式，由杰罗姆·布鲁纳奠基，主张让学生在最小干预下通过自主探究概念例证领悟学科基本结构；经 Alfieri 等 164 项元分析解构确立无指导纯发现成效低下而辅以支架的增强型引导式发现显著优于传统直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 31
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - instructional-design
   - learning-science
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Learned Helplessness]]"
   - "[[Class Size]]"
-  - "[[Dependent Variable]]"
   - "[[Computer Simulation]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
@@ -49,7 +48,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Pre-test and Post-test]]"
 related_instruments: []
@@ -63,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ## 定义

@@ -6,7 +6,7 @@ aliases:
 summary: "某一共同体成员在社会互动中提出、沟通、评估与合法化知识主张的组织化行动方式，强调认识论主体由笛卡尔孤立个体向微观社会协商群体的转向，具有交互生成、情境嵌入、历史互文与制度后果四大特征。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 47
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -59,7 +59,6 @@ related_methods:
   - "[[Interactional Ethnography]]"
   - "[[Effect Size]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Practical Epistemology Analysis]]"
   - "[[Multimodal Discourse Analysis]]"
 related_instruments: []
 related_persons:
@@ -72,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

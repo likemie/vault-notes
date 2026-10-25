@@ -67,6 +67,7 @@ related_arguments:
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
@@ -76,7 +77,6 @@ related_arguments:
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Ginsberg_2024_EducPolicy]]"
   - "[[Argument_Verger_2019_Discourse]]"
-  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 related_facts:
   - "[[EPPI-Centre]]"
   - "[[Education Resources Information Center]]"

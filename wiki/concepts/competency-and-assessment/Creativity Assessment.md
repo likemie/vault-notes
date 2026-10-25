@@ -14,7 +14,7 @@ aliases:
 summary: "创造力测评是对个体的发散思维潜能、创造过程认知加工、实际创新产品与日常观念行为特质的操作化测定与质性评价；在教育与心理研究中用于诊断创造潜能、衡量干预效果并化解效标困境。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 76
+related_count: 75
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -74,7 +74,6 @@ related_methods:
   - "[[Rating Scale]]"
   - "[[Meta-regression]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Pre-test and Post-test]]"
   - "[[Systematic Review]]"
 related_instruments:
@@ -109,7 +108,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

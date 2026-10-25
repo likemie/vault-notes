@@ -38,9 +38,9 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Generic Skills]]"
   - "[[Cultural Validity]]"
+  - "[[Geopolitics]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
-  - "[[Geopolitics]]"
 related_theories: []
 related_methods:
   - "[[Comparative Case Study]]"

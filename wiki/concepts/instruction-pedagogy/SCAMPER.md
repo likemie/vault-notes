@@ -9,7 +9,7 @@ aliases:
 summary: "由奥斯本提出雏形并由埃伯尔系统化的创造性思维启发式检核表，通过“替代、合并、调适、修改、移作他用、消除、逆向重组”七大外显思维操作算子，为学习者突破心理固着与展开非线性概念重构提供结构化认知支架。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -44,7 +44,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Three-Level Meta-Analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
@@ -59,7 +58,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

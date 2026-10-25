@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch03"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch03"
 argument_display_title: "The winner's fallacy"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -62,7 +62,11 @@ related_persons:
 related_facts:
   - "[[Autonomous Drone Swarms]]"
   - "[[Einstein-Szilard Letter]]"
+  - "[[Department of Defense]]"
   - "[[Project Maven]]"
+  - "[[Strategic Compact]]"
+  - "[[Department of Commerce]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[Microsoft IVAS Contract Protest]]"
   - "[[Manhattan Project]]"
   - "[[Research in Schools Evaluation]]"

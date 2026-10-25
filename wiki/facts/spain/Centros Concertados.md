@@ -13,7 +13,7 @@ subtype: policy
 region: spain
 fact_region: "spain"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[School Choice]]"
   - "[[Discourse]]"
+  - "[[Extracurricular Activities]]"
   - "[[Class Size]]"
   - "[[Migrant Children]]"
   - "[[State Educational Sovereignty]]"

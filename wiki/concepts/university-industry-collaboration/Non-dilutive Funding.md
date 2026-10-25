@@ -8,7 +8,7 @@ aliases:
 summary: "不需要创始团队出让股权的资助形式，包括大学内部产品验证拨款和政府研发资助，是大学衍生企业在获得风险投资前填补早期资金缺口、验证技术可行性的关键资金来源"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,6 +32,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
+  - "[[Department of Defense]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[SBIR and STTR Programs]]"
   - "[[NSF I-Corps]]"
@@ -39,7 +40,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-29
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 > [!info] 定义

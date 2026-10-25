@@ -59,9 +59,9 @@ related_arguments:
   - "[[Argument_Rizvi_2022_Springer]]"
   - "[[Argument_Chou_Demiryol_2024_HE]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
+  - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_Marginson_2025_ECNUROE]]"
   - "[[Argument_Liu_2025_IndHE]]"
-  - "[[Argument_Velasco_2022_CSJ]]"
 confidence: high
 status: active
 created: '2026-05-10'

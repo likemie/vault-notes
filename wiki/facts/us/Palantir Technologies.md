@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 55
+fact_related_count: 56
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -73,6 +73,7 @@ related_persons:
 related_facts:
   - "[[Federal Acquisition Streamlining Act of 1994]]"
   - "[[Project Maven]]"
+  - "[[Department of Defense]]"
   - "[[Autonomous Drone Swarms]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"

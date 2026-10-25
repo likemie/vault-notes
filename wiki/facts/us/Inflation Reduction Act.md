@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[Infrastructure Investment and Jobs Act]]"
   - "[[International Reading Association]]"
+  - "[[United States Congress]]"
   - "[[Department of Energy]]"
   - "[[EU]]"
   - "[[European Chips Act]]"

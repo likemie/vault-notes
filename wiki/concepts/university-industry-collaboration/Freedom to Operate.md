@@ -28,11 +28,11 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 定义
-> 自由实施权（Freedom to Operate, FTO）指企业在商业化一项技术或产品时，不受第三方既有知识产权（尤其是专利）阻碍，无需担心侵权诉讼的能力。在[[University-Industry Collaboration\|产学合作]]语境中，FTO 是产业合作方评估背景 IP 需求时的核心关切：如果产学合作产生了有价值的[[Foreground IP\|前景知识产权]]（[[Foreground IP\|Foreground IP]], FIP），企业需要确保大学的既有知识产权不会阻碍其商业化（p.276）。
+> 自由实施权（Freedom to Operate, FTO）指企业在商业化一项技术或产品时，不受第三方既有知识产权（尤其是专利）阻碍，无需担心侵权诉讼的能力。在[[University-Industry Collaboration\|产学合作]]语境中，FTO 是产业合作方评估背景 IP 需求时的核心关切：如果产学合作产生了有价值的[[Foreground IP\|前景知识产权]]（[[Foreground IP]], FIP），企业需要确保大学的既有知识产权不会阻碍其商业化（p.276）。
 
 > [!note] 在产学合作中的角色
 > FTO 是连接前景 IP 与背景 IP 的关键概念。产业合作方的 FTO 需求驱动了对大学背景 IP 的访问诉求，但这种诉求与大学避免对自身 IP 施加负担的立场形成直接冲突（pp.276–277, 280）：

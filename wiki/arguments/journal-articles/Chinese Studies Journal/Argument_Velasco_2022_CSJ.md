@@ -24,6 +24,7 @@ related_concepts:
   - "[[Educational Diplomacy]]"
   - "[[Power Conversion Dilemma]]"
   - "[[International Branch Campus]]"
+  - "[[Educational Soft Power]]"
   - "[[Student Mobility]]"
   - "[[Public Diplomacy]]"
   - "[[Geopolitics]]"
@@ -32,12 +33,12 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[National Rejuvenation Narrative]]"
   - "[[Telling China's Story Well]]"
+  - "[[Competitiveness]]"
   - "[[Research Universities]]"
   - "[[Alumnus Effect]]"
   - "[[Para-Diplomatic Roles]]"
   - "[[Academic Freedom]]"
   - "[[Intellectual Capital]]"
-  - "[[Competitiveness]]"
   - "[[International Education]]"
   - "[[Internationalization of Higher Education]]"
 related_methods:
@@ -48,13 +49,13 @@ related_persons:
   - "[[Confucius]]"
 related_facts:
   - "[[Confucius Institute]]"
+  - "[[Xiamen University Malaysia]]"
   - "[[Project 211]]"
   - "[[Project 985]]"
   - "[[Double First-Class Initiative]]"
   - "[[ASEAN]]"
   - "[[Thousand Talents Program]]"
   - "[[Belt and Road Initiative]]"
-  - "[[Xiamen University Malaysia]]"
 confidence: high
 status: draft
 created: 2026-10-22
@@ -65,7 +66,7 @@ title: "Argument_Velasco_2022_CSJ"
 argument_key: "Argument_Velasco_2022_CSJ"
 argument_display_title: "China’s soft power strategy: Education as an apparatus of influence in Southeast Asia"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"

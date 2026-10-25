@@ -26,7 +26,7 @@ title: "Argument_Brown_Greany_2018_LPS"
 argument_key: "Argument_Brown_Greany_2018_LPS"
 argument_display_title: "The evidence-informed school system in England: Where should school leaders be focusing their efforts? Leadership and Policy in Schools, 17(1), 115–137"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Lesson Study]]"
   - "[[School Enquiry Cycle]]"
   - "[[Network Governance]]"
+  - "[[Mutual Learning]]"
   - "[[Reflective Thinking]]"
   - "[[Face Validity]]"
   - "[[Construct Validity]]"

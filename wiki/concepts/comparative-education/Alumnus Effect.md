@@ -6,7 +6,7 @@ aliases:
 summary: "国际学生流动研究中的短期微观社会心理机制，指留学生在留学所在国建立日常人际友谊与积极生活体验后形成的积极怀旧感，归国后自发产生的口碑效应能够有效对冲外部大众媒体对留学国的负面刻板印象"
 type: concept
 domain: "comparative-education"
-related_count: 7
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,12 +16,9 @@ tags:
   - educational-diplomacy
   - soft-power
 related_concepts:
-  - "[[Student Mobility]]"
-  - "[[Educational Diplomacy]]"
-  - "[[Soft Power]]"
-  - "[[Power Conversion Dilemma]]"
   - "[[Para-Diplomatic Roles]]"
   - "[[Public Diplomacy]]"
+  - "[[Power Conversion Dilemma]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -32,7 +29,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

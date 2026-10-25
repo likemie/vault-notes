@@ -36,8 +36,8 @@ related_facts:
   - "[[Engineering Research Centers]]"
   - "[[Science and Technology Centers]]"
   - "[[National Academy of Sciences]]"
-  - "[[Chinese Academy of Sciences]]"
   - "[[National Institutes of Health]]"
+  - "[[Department of Defense]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[Science Foundation Ireland]]"
 related_arguments:

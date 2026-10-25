@@ -61,7 +61,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -115,7 +115,7 @@ updated: 2026-10-22
 > 探讨主权国家在现代化初期如何通过自上而下的双边模仿引入法国大学校，并以此作为透视当代跨国商业网络化[[Policy Mobility|政策流动]]的历史基准。
 
 > [!claim] Cowen & Figueiredo; Beech
-> **双边国家制度模仿的经典形态与当代空间超越** [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen|Robert Cowen]]）与费格雷多（Cowen & Figueiredo, 1992）以及[[Jason Beech|杰森·比奇]]（Jason Beech, 2009b, p. 344）指出，在前全球化时期，跨国教育[[Policy Borrowing|政策借用]]（[[Policy Borrowing]]）的范式相对清晰单纯，通常表现为主权国家主导的单向、双边制度模仿。19 世纪至 20 世纪初，巴西等拉丁美洲新兴国家为了构建本国工业化基础与官僚技术阶层，系统性地以法国大学校（Grandes Écoles）为模板创办本国的工程与军事技术专[[Chinese Academy of Sciences|科学院]]，构成了主权国家跨国制度移植的经典历史样本。然而，比奇进一步论证，这种以主权国家为核心的双边机构模仿模式在当代已被跨国教育集团（如 [[GEMS Education|GEMS]]、[[Nord Anglia Education|Nord Anglia]]）主导的多标量网络流动所超越；现代教育转移不再局限于国家间对特定院校形态（如法国大学校或美国学分制）的制度复制，而是转变为跨国商业资本纵向穿透边界的全球政策营销。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
+> **双边国家制度模仿的经典形态与当代空间超越** [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）与费格雷多（Cowen & Figueiredo, 1992）以及[[Jason Beech|杰森·比奇]]（Jason Beech, 2009b, p. 344）指出，在前全球化时期，跨国教育[[Policy Borrowing|政策借用]]（[[Policy Borrowing]]）的范式相对清晰单纯，通常表现为主权国家主导的单向、双边制度模仿。19 世纪至 20 世纪初，巴西等拉丁美洲新兴国家为了构建本国工业化基础与官僚技术阶层，系统性地以法国大学校（Grandes Écoles）为模板创办本国的工程与军事技术专[[Chinese Academy of Sciences|科学院]]，构成了主权国家跨国制度移植的经典历史样本。然而，比奇进一步论证，这种以主权国家为核心的双边机构模仿模式在当代已被跨国教育集团（如 [[GEMS Education|GEMS]]、[[Nord Anglia Education|Nord Anglia]]）主导的多标量网络流动所超越；现代教育转移不再局限于国家间对特定院校形态（如法国大学校或美国学分制）的制度复制，而是转变为跨国商业资本纵向穿透边界的全球政策营销。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
 
 > [!citation-card] 论经典双边制度模仿与当代跨国转移的断裂
 > 在过去，教育转移的模型相当直接清晰。教育借用通常是双边的，并由民族国家具体实施。例如，巴西对法国大学校（Grandes Écoles）的模仿（Cowen & Figueiredo, 1992），或者将美国学分制引入中国的高校（Steiner-Khamsi, 2000）……与此形成鲜明对比的是，当代的教育转移由跨国公司与多标量网络所介导。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
@@ -130,7 +130,7 @@ updated: 2026-10-22
 > 探讨高度形式平等的预科统考如何掩盖优势阶层对特权通道的垄断，使大学校成为生产统治阶级合法性的制度机器。
 
 > [!claim] Bourdieu
-> **国家贵族的学术化再生产与符号暴力** 皮埃尔·布尔迪厄（[[Pierre Bourdieu|Pierre Bourdieu]], 1989）在《国家贵族》（*La Noblesse d'État*）中系统论证，法国大学校预备班与竞试选拔制度绝非纯粹客观的技术择优，而是统治阶层实现社会阶级再生产的核心特权通道。优势家庭通过代际传递的高阶[[Cultural Capital|文化资本]]与[[Habitus|惯习]]（[[Habitus]]），使子女在早期教育中形成高度契合预科高压竞试的思维模式与语言风度；严苛的统考分数看似客观公正，实则将阶级特权巧妙转化为合法的学术“功绩”，从而在教育[[Champ|场域]]中以学术优秀的名义完成了国家技术官僚与商业寡头阶层的合法化闭合。
+> **国家贵族的学术化再生产与符号暴力** 皮埃尔·布尔迪厄（[[Pierre Bourdieu]], 1989）在《国家贵族》（*La Noblesse d'État*）中系统论证，法国大学校预备班与竞试选拔制度绝非纯粹客观的技术择优，而是统治阶层实现社会阶级再生产的核心特权通道。优势家庭通过代际传递的高阶[[Cultural Capital|文化资本]]与[[Habitus|惯习]]（[[Habitus]]），使子女在早期教育中形成高度契合预科高压竞试的思维模式与语言风度；严苛的统考分数看似客观公正，实则将阶级特权巧妙转化为合法的学术“功绩”，从而在教育[[Champ|场域]]中以学术优秀的名义完成了国家技术官僚与商业寡头阶层的合法化闭合。
 
 ---
 

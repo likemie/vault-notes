@@ -10,11 +10,11 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
-issuing_organization: "European Commission & [[OECD]]"
+issuing_organization: "[[European Commission]] & [[OECD]]"
 tags:
   - policy/higher-education
   - region/europe
@@ -30,6 +30,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[EU]]"
+  - "[[European Commission]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"

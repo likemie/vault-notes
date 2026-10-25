@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -43,6 +43,7 @@ related_persons:
   - "[[Ian Menter]]"
 related_facts:
   - "[[Teaching Schools]]"
+  - "[[Department for Education]]"
   - "[[The Importance of Teaching]]"
   - "[[Initial Teacher Training Core Content Framework]]"
   - "[[Ofsted]]"

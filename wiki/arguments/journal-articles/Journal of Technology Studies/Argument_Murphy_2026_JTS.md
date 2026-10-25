@@ -42,6 +42,7 @@ related_theories:
   - "[[Situative Perspective]]"
   - "[[Knowledge Building Theory]]"
   - "[[Kotter's 8-Step Change Model]]"
+  - "[[Legitimate Peripheral Participation]]"
 related_methods:
   - "[[Design-Based Research]]"
   - "[[Case Study]]"
@@ -52,6 +53,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[CHIPS and Science Act]]"
+  - "[[United States Congress]]"
   - "[[Texas A&M Semiconductor Institute]]"
 related_arguments: []
 sources:
@@ -66,7 +68,7 @@ title: "Argument_Murphy_2026_JTS"
 argument_key: "Argument_Murphy_2026_JTS"
 argument_display_title: "Building Collaboration and Knowledge in Semiconductor Research: A Case Study on CHIPS & Science Act Workshops"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"

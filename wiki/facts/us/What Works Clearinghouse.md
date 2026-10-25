@@ -12,14 +12,14 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 87
+fact_related_count: 89
 fact_related_level: 8
 fact_related_stars: "💎💎⭐⭐"
 fact_related_color: "#fecdd3"
 org_type: "government-clearinghouse"
 headquarters: "Washington, D.C., USA"
 established: "2002"
-issuing_organization: "[[Institute of Education Sciences]], U.S. Department of Education"
+issuing_organization: "[[Institute of Education Sciences]], [[United States Department of Education|U.S. Department of Education]]"
 tags:
   - what-works-clearinghouse
   - wwc
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Mediation]]"
   - "[[Scientifically Based Research]]"
-  - "[[Educational Brokerage Agency]]"
   - "[[Research Translation]]"
   - "[[Clinical Trial]]"
   - "[[Variable]]"
@@ -58,6 +57,8 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Evaluation Research]]"
   - "[[Categorical Funding]]"
+  - "[[Mathematics Intervention Programs]]"
+  - "[[Educational Brokerage Agency]]"
   - "[[5-3-20 Rule]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
@@ -97,6 +98,7 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
+  - "[[United States Department of Education]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Open Court Reading]]"
   - "[[Success for All]]"

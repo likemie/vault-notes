@@ -53,14 +53,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-20
+updated: 2026-10-26
 ---
 
 ---
 
 > [!instrument-profile] Gorard's [[Trustworthiness]] Sieve
 > - **工具类型** 方法学质评核查表与实证因果证据可[[Reliability\|信度]]评估分级规程。
-> - **开发者与年份** [[Stephen Gorard\|Stephen Gorard]] (2014, 2018)，系统应用于英国教育实证研究评估与[[Systematic Review\|系统综述]]质评中。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 576)]]
+> - **开发者与年份** [[Stephen Gorard]] (2014, 2018)，系统应用于英国教育实证研究评估与[[Systematic Review\|系统综述]]质评中。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 576)]]
 > - **测量目的** 用于核查实证研究（尤其是因果评估与干预试验）的核心设计质量与偏倚风险，[[Evaluation Research\|评估研究]]断言的可信度，判断文献能否作为公共政策与教育实践的循证依据。
 > - **实施方式** 由评估专家对照原始研究报告，从左至右依次核查四个维度的客观特征，按非补偿性逐级下移规则裁定 0 至 4 级的综合序数等级。
 

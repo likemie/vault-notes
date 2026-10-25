@@ -8,10 +8,10 @@ aliases:
 summary: "高等教育学与科学社会学概念，指大学倾向于聘用本校毕业的博士或内部教师担任教职的聘任现象。该现象常伴随外部竞争机制缺失与地方行政保护主义，导致学术网络封闭、学术创新动力衰减与裙带关系固化。"
 type: concept
 domain: "higher-education"
-related_count: 13
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/higher-education
   - theme/higher-education
@@ -23,24 +23,20 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Academic Freedom]]"
   - "[[Analytical Stance]]"
-  - "[[Variable]]"
 related_theories: []
-related_methods:
-  - "[[Effect Size]]"
-  - "[[Documentary Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[Bologna Process]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[Times Higher Education World University Rankings]]"
-  - "[[Erasmus Programme]]"
 related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

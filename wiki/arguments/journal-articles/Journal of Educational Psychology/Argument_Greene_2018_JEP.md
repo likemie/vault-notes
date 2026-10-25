@@ -47,6 +47,7 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Justificatory Standards]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Learning Strategies]]"
   - "[[Wicked Problem]]"
   - "[[Theoretical Validity]]"
   - "[[Socioeconomic Status]]"
@@ -98,7 +99,7 @@ title: "Argument_Greene_2018_JEP"
 argument_key: "Argument_Greene_2018_JEP"
 argument_display_title: "A meta-analytic review of the relationship between epistemic cognition and academic achievement"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 67
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -387,7 +388,7 @@ issuing_organization: ""
 >   - 相反，如果学生在此类任务中过度调动“知识的暂定性”、“多源批判性怀疑”等高级认识论信念，不仅无法获得额外分数收益，甚至可能因过度思辨而干扰对固定事实的快速检索与算法执行。这合理解释了为什么认识论认知对程序性知识的预测效应近乎为零（$r = .077$）。
 > - **机制二：[[Open-Mindedness|开放性]]任务与元认知驱动（认识论认知如何赋能高阶思维？）**
 >   - **驱动概念转变（Conceptual Change）** 科学与人文学科的核心概念往往反直觉（如牛顿力学、进化论、历史相对性）。持有静态简单知识观的学生倾向于将新信息曲解并塞入旧经验中或直接排斥；只有具备高阶知识演化观与反思意识的学生，才愿意经历认知失衡，推翻旧图式并实现深层概念重构。
->   - **赋能多源证据协调与批判性论证（Argumentation）** 论证的本质是处理不确定性（Uncertainty）与学术争议。当面对互斥的信息源时，朴素者容易滑向盲信权威或虚无主义的“人人皆有理”；成熟的认识论认知（如评价主义、多源证成）则为学生提供了**确证规则（[[Justificatory Standards\|Justificatory Standards]]）**，驱动他们比较证据权重、识别论证漏洞、评估作者立场与方法可靠性。
+>   - **赋能多源证据协调与批判性论证（Argumentation）** 论证的本质是处理不确定性（Uncertainty）与学术争议。当面对互斥的信息源时，朴素者容易滑向盲信权威或虚无主义的“人人皆有理”；成熟的认识论认知（如评价主义、多源证成）则为学生提供了**确证规则（[[Justificatory Standards]]）**，驱动他们比较证据权重、识别论证漏洞、评估作者立场与方法可靠性。
 > - **机制三：因果边界与双向互惠演进模型（Reciprocal Model）**
 >   - *实证推断边界*：本元分析纳入的绝大多数为一级[[Correlational Research\|相关性研究]]，不能直接得出“单向绝对因果”结论。
 >   - *双向互惠机制*：认识论认知与高阶思维并非单向决定，而是呈现**螺旋互惠演进**

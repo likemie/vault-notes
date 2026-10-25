@@ -8,7 +8,7 @@ aliases:
 summary: "涵盖科学、技术、工程与数学四大学科的跨学科融合教育范式与国家战略，主张打破传统分科壁垒，依托真实情境问题解决、工程设计与探究实践培养综合创新与认识论素养；在教学论上面向指导式探究与直接讲授的时序整合，并尊重各子学科的特异性认识论规程。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 57
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -54,8 +54,6 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Dependent Variable]]"
   - "[[Control of Variables Strategy]]"
-  - "[[Self-Efficacy]]"
-  - "[[Chain of Evidence]]"
   - "[[Teacher Collaboration]]"
 related_theories:
   - "[[Inquiry Cycle]]"
@@ -72,6 +70,8 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[National Science and Technology Council]]"
   - "[[National Research Council]]"
+  - "[[United States Congress]]"
+  - "[[Department of Commerce]]"
 related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
@@ -81,12 +81,11 @@ related_arguments:
 related_methods:
   - "[[Design-Based Research]]"
   - "[[Effect Size]]"
-  - "[[Systematic Review]]"
   - "[[Case Study]]"
 confidence: high
 status: completed
 created: 2026-06-05
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 > [!def] STEM Education

@@ -7,7 +7,7 @@ aliases:
 summary: "批判性认识论与认知科学概念，指研究者与学习者持续审视日常语言、前科学常识预设及算法表面流畅性以维持认知主体性与深层推理的心智机制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 46
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -49,7 +49,6 @@ related_concepts:
   - "[[Scientific Explanation]]"
   - "[[Epistemic Provocateur]]"
   - "[[Operationalization]]"
-  - "[[Champ]]"
   - "[[Higher-Order Thinking Skills]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
@@ -57,8 +56,6 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
-  - "[[Multimodal Discourse Analysis]]"
-  - "[[Transcription in Qualitative Research]]"
   - "[[Pilot Testing]]"
 related_instruments:
   - "[[PRISMA]]"
@@ -74,7 +71,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

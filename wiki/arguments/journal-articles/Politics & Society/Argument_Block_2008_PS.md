@@ -44,6 +44,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Falsification]]"
   - "[[Counterpart Funds]]"
+  - "[[Science Programs]]"
   - "[[Heterogeneity]]"
 related_theories:
   - "[[Developmental Network State]]"
@@ -63,13 +64,16 @@ related_facts:
   - "[[DARPA]]"
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[Department of Energy]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Sematech]]"
   - "[[Advanced Technology Program]]"
   - "[[Ministry of International Trade and Industry]]"
+  - "[[United States Congress]]"
   - "[[Bell Labs]]"
   - "[[SBIR and STTR Programs]]"
+  - "[[Department of Defense]]"
   - "[[MOSIS]]"
   - "[[VLSI Project]]"
   - "[[Engineering Research Centers]]"
@@ -88,10 +92,10 @@ title: "Argument_Block_2008_PS"
 argument_key: "Argument_Block_2008_PS"
 argument_display_title: "Swimming against the current: The rise of a hidden developmental state in the United States"
 argument_kind: "journal-article"
-argument_related_count: 49
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 53
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Politics & Society"
 book_title: ""
 publication_place: ""
@@ -129,7 +133,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **政策法规与制度文献分析**<br>[[Documentary Analysis\|Documentary Analysis]] | 深度剖析 1980 至 1988 年间美国国会立法的六项里程碑科技法案（《[[Bayh-Dole Act of 1980\|拜杜法案]]》、《小企业创新发展法》、《国家合作研究法》等）的法定文本、国会听证备忘录与行政规章演进。 |
+> | **政策法规与制度文献分析**<br>[[Documentary Analysis]] | 深度剖析 1980 至 1988 年间美国国会立法的六项里程碑科技法案（《[[Bayh-Dole Act of 1980\|拜杜法案]]》、《小企业创新发展法》、《国家合作研究法》等）的法定文本、国会听证备忘录与行政规章演进。 |
 > | **早期技术开发资金结构测算**<br>ESTD Funding Flow Analysis | 援引奥尔斯瓦尔德与布兰斯科姆（Auerswald & Branscomb, 2003）对跨越[[Valley of Death\|死亡之谷]]的早期技术开发（Early Stage Technology Development, ESTD）支出结构测算，定量解构联邦政府、州政府、风险投资（Venture Capital, VC）及产业资本在概念验证阶段的真实出资比例。 |
 > | **前沿创新成果归因纵向追踪**<br>Longitudinal Awards Tracking | 对《R&D Magazine》在 1975 年、1988 年与 2006 年评选的全美前沿商业化创新成果（R&D 100 Awards）进行主体属性分类，量化财富 500 强独立实验室与公共资助协同网络的份额转移。 |
 > | **跨部门多案例过程追踪**<br>Comparative Process Tracing | 深度追踪 [[DARPA]]（含芯片免费试制平台与 [[Sematech]] 联盟）、能源部燃气轮机联合体、国家科学基金会[[University-Industry Collaboration\|产学合作]]中心、商务部 [[Advanced Technology Program\|ATP]] 以及抗癌药紫杉醇（Taxol）等微观案例的技术立项与政策演变。 |

@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,8 +32,10 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Citizen Science]]"
   - "[[Performance Pay]]"
+  - "[[Early Literacy Approaches]]"
   - "[[Abstract]]"
   - "[[Sampling Error]]"
+  - "[[Personalized Learning]]"
   - "[[Knowledge Mediation]]"
   - "[[Scientific Misinformation]]"
   - "[[Educational Brokerage Agency]]"

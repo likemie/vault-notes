@@ -11,10 +11,10 @@ aliases:
 summary: "对研究利用方式的经典三分类：概念性使用指研究以间接方式影响理解与思考，工具性使用指研究直接用于具体决策，象征性使用指研究被事后用来为已定决策背书"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 27
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - topic/research-use
   - topic/educational-policy
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Communities of Practice]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Variable]]"
-  - "[[Dialogue in Education]]"
 related_theories:
   - "[[Knowledge Integration]]"
   - "[[Quality Use of Research Evidence Framework]]"
@@ -41,9 +40,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Questionnaire]]"
   - "[[Effect Size]]"
-  - "[[Expert Interview]]"
   - "[[Case Study]]"
-  - "[[Content Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -54,13 +51,13 @@ related_arguments:
   - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Dedering_2009_EERJ]]"
-  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---

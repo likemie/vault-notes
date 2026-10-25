@@ -2,6 +2,7 @@
 title: DARPA
 aliases:
   - 美国国防高级研究计划局
+  - 美国国防部高级研究计划局
   - Defense Advanced Research Projects Agency
   - 国防高级研究计划局
   - ARPA
@@ -11,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 68
+fact_related_count: 69
 fact_related_level: 6
 fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
@@ -65,6 +66,7 @@ related_persons:
   - "[[David C. Mowery]]"
   - "[[Fred Block]]"
 related_facts:
+  - "[[Department of Defense]]"
   - "[[Sputnik Shock 1957]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[ARPANET]]"

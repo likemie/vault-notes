@@ -84,16 +84,16 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!event-context] 机构与历史背景
 > - **时间 / 地点** 1958 年在[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）汉堡教育研究所会议上发起筹划，1967 年在比利时正式注册为独立国际学术非政府组织；现秘书处设在荷兰阿姆斯特丹与德国汉堡。
-> - **关键主体** [[Torsten Husén|托斯滕·胡森]]（[[Torsten Husén|Torsten Husén]]）、阿瑟·福谢（Arthur W. Foshay）等跨国教育学者，各成员国国家研究中心（National Research Centers），以及深度参与的北美实证学者（如[[Harold Noah|哈罗德·诺亚]]与[[Max Eckstein|马克斯·埃克斯坦]]）。
-> - **制度背景与冷战[[Scientism|科学主义]]** 二战后西方国家经历教育大扩张，中央计划体制与[[Human Capital Theory|人力资本]]投资兴起，跨国学者急切希望将全世界视作天然的“教育实验室”，通过客观实证数据检验不同课程与教学制度的实际效能。卡扎米亚斯（[[Andreas Kazamias|Andreas Kazamias]]）指出，[[International Education|国际教育]]成就评价协会（IEA）的大规模跨国测评，构成了战后第三代际实证科学主义运动（Discourse 3, 1960–1980）的核心经验数据基石，使“用[[Variable|变量]]名称替代国家系统名称”的通则化研究成为可能。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 68)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
-> - **学社外部演进与双轨分化** [[Wolfgang Mitter|沃尔夫冈·米特]]（[[Wolfgang Mitter|Wolfgang Mitter]]）指出，IEA 跨国大规模[[Academic Achievement|学业成就]]测评运动在其制度演进上整体脱离于传统的欧洲大学比较教育学术社团（如[[Comparative Education Society in Europe|欧洲比较教育学会]]，CESE）；仅有极少数具有双重学术身份的学者充当“桥梁建造者”（如瑞典学者胡森和英德学者内维尔·波斯尔斯韦特 T. Neville Postlethwaite），这导致大规模经验量化评测体系与大学教席主导的历史文化诠释传统在战后欧洲形成了平行的双轨格局。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
+> - **关键主体** [[Torsten Husén|托斯滕·胡森]]（[[Torsten Husén]]）、阿瑟·福谢（Arthur W. Foshay）等跨国教育学者，各成员国国家研究中心（National Research Centers），以及深度参与的北美实证学者（如[[Harold Noah|哈罗德·诺亚]]与[[Max Eckstein|马克斯·埃克斯坦]]）。
+> - **制度背景与冷战[[Scientism|科学主义]]** 二战后西方国家经历教育大扩张，中央计划体制与[[Human Capital Theory|人力资本]]投资兴起，跨国学者急切希望将全世界视作天然的“教育实验室”，通过客观实证数据检验不同课程与教学制度的实际效能。卡扎米亚斯（[[Andreas Kazamias]]）指出，[[International Education|国际教育]]成就评价协会（IEA）的大规模跨国测评，构成了战后第三代际实证科学主义运动（Discourse 3, 1960–1980）的核心经验数据基石，使“用[[Variable|变量]]名称替代国家系统名称”的通则化研究成为可能。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, p. 68)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
+> - **学社外部演进与双轨分化** [[Wolfgang Mitter|沃尔夫冈·米特]]（[[Wolfgang Mitter]]）指出，IEA 跨国大规模[[Academic Achievement|学业成就]]测评运动在其制度演进上整体脱离于传统的欧洲大学比较教育学术社团（如[[Comparative Education Society in Europe|欧洲比较教育学会]]，CESE）；仅有极少数具有双重学术身份的学者充当“桥梁建造者”（如瑞典学者胡森和英德学者内维尔·波斯尔斯韦特 T. Neville Postlethwaite），这导致大规模经验量化评测体系与大学教席主导的历史文化诠释传统在战后欧洲形成了平行的双轨格局。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 94)]]
 > - **触发条件** 冷战时期东西方阵营在科技与教育效能上的“军备竞赛”，以及实证社会科学家摆脱战前主观哲学描述、确立可量化与可检验[[Scientific Paradigm|科学范式]]的学科自立诉求。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 330–331)]]
 > - **官方平台与在线门户** 官方门户为 [IEA (International Association for the Evaluation of Educational Achievement)](https://www.iea.nl/)，提供核心业务信息与公开资源检索。
 
@@ -116,10 +116,10 @@ updated: 2026-10-23
 > *Major comparative research projects like the IEA studies, followed the empirical-quantitative road... In this sense, the covariational, quantitative and empirical sort of comparative education has consistently served politicians well. They have repeatedly relied on it for the legitimation and promotion of their preconceived policies. The longevity of the IEA studies and the influence programmes like PISA have on policy making bear witness to this fact.*
 
 > [!citation-card] 考恩论 IEA 在冷战地缘博弈中将[[Educated Identity|受教育身份]]窄化为效率度量
-> [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen|Robert Cowen]]）指出，冷战期间比较教育的主要努力被投入到通过国际测试衡量教育成功（IEA 的兴起）之中。学科经历了一场根本性异化：从最初以学术理解不同国家“受教育身份”理想模型的文化探索，转向了通过 IEA 与 PISA 进行纯粹的效率测量。国际测试沦为追求技术“解决方案”的比较工具，将复杂的教育和文化语境抽空，仅剩下测量技术细节，在实践中极大地强化并维护了单一世界秩序的政治合理性。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 330–334)]]
+> [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）指出，冷战期间比较教育的主要努力被投入到通过国际测试衡量教育成功（IEA 的兴起）之中。学科经历了一场根本性异化：从最初以学术理解不同国家“受教育身份”理想模型的文化探索，转向了通过 IEA 与 PISA 进行纯粹的效率测量。国际测试沦为追求技术“解决方案”的比较工具，将复杂的教育和文化语境抽空，仅剩下测量技术细节，在实践中极大地强化并维护了单一世界秩序的政治合理性。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 330–334)]]
 
 > [!citation-card] [[Yong Zhao|赵勇]]论 PISA 与 IEA 在[[Construct|构念]]一致性下的市场竞争
-> 赵勇（[[Yong Zhao|Yong Zhao]]）指出，作为[[International Education|国际教育]]评估，PISA 是后来者。在 PISA 之前，IEA 自 1960 年代以来一直在运营国际评估，提供 [[TIMSS]] 和 [[PIRLS]] 等极具影响力的项目。一个后来者要击败建立者，必须提供不同的东西；PISA 批评 IEA 的调查仅集中于与课程直接相关的狭隘成果，声称自己评估的是未来成人生活所需的一般素养。然而大规模实证研究表明，不同测试方法在国家层面本质上测量的是同一个构念，即一般国家认知能力。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> 赵勇（[[Yong Zhao]]）指出，作为[[International Education|国际教育]]评估，PISA 是后来者。在 PISA 之前，IEA 自 1960 年代以来一直在运营国际评估，提供 [[TIMSS]] 和 [[PIRLS]] 等极具影响力的项目。一个后来者要击败建立者，必须提供不同的东西；PISA 批评 IEA 的调查仅集中于与课程直接相关的狭隘成果，声称自己评估的是未来成人生活所需的一般素养。然而大规模实证研究表明，不同测试方法在国家层面本质上测量的是同一个构念，即一般国家认知能力。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 ---
 

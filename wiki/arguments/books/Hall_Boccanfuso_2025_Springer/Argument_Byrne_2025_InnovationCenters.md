@@ -58,6 +58,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[Brookings Institution]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[Inflation Reduction Act]]"
 related_arguments: []
 sources:
@@ -73,7 +74,7 @@ title: "Argument_Byrne_2025_InnovationCenters"
 argument_key: "Argument_Byrne_2025_InnovationCenters"
 argument_display_title: "Innovation Centers and Economic Development"
 argument_kind: "book"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"

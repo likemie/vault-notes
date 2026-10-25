@@ -9,9 +9,9 @@ aliases:
 summary: "大学与科研机构将科学发现与工程知识转化为产业应用、商业产品及社会生产力的全过程。除以《拜杜法案》为核心的专利排他许可与衍生孵化路径外，战后信息技术体系亦证实了公共领域开源披露与人才流动的决定性作用；当代科技政策进一步依托敏捷授权协议与跨国联合实验室平台，将技术转移深度锚定于国家制造能力与战略性产业走廊。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 69
-related_level: 6
-related_stars: "💎💎"
+related_count: 70
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/technology-transfer
@@ -75,6 +75,7 @@ related_facts:
   - "[[Silicon Structures Project]]"
   - "[[National Research and Resource Facility for Submicron Structures]]"
   - "[[Belt and Road Initiative]]"
+  - "[[United States Congress]]"
   - "[[DARPA]]"
   - "[[National Science Foundation]]"
   - "[[Department of Energy]]"
@@ -97,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

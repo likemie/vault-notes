@@ -11,7 +11,7 @@ aliases:
 summary: "探讨地理空间、权力运作与国际秩序构建相互关系的政治学与政治地理学核心概念及分析视角，涵盖物质—实践端的古典领土博弈范式、观念—科学端的新地缘与批判地缘范式，并在当代跨国高等教育与科技竞争中体现为制度性知识权力与全球空间秩序的争夺。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 43
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -64,6 +64,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Confucius Institute]]"
   - "[[Fulbright Program]]"
 related_arguments:
   - "[[Argument_Yu_Xie_2025_JHE]]"
@@ -71,10 +72,12 @@ related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Marginson_2025_ECNUROE]]"
   - "[[Argument_Rizvi_2022_Springer]]"
+  - "[[Argument_Custer_2021_AidData]]"
+  - "[[Argument_Velasco_2022_CSJ]]"
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

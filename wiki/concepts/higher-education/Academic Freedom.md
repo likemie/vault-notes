@@ -7,9 +7,9 @@ aliases:
 summary: "大学教师与学生在追求学术真理、传播思想、开展科研以及自主决定教学与学业评价方式上享有的不受非学术干预的法定与制度化自主权。既是知识生产开放渗透性的基石，也是产学合作知识产权博弈、国家高教政策转译以及发展型国家战略导向的核心制度交汇点。"
 type: concept
 domain: "higher-education"
-related_count: 70
-related_level: 7
-related_stars: "💎💎⭐"
+related_count: 69
+related_level: 6
+related_stars: "💎💎"
 related_color: "#ddd6fe"
 tags:
   - theme/academic-freedom
@@ -52,8 +52,6 @@ related_concepts:
   - "[[Cosmopolitanism]]"
   - "[[Value Neutrality]]"
   - "[[Research Universities]]"
-  - "[[Sponsored Research Agreement]]"
-  - "[[Corporate Venture Capital]]"
   - "[[Research Security]]"
   - "[[Dual Appointment]]"
 related_theories:
@@ -93,11 +91,12 @@ related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Dean_2025_UICollaborationSupport]]"
   - "[[Argument_Zhuo_2026_ICE]]"
+  - "[[Argument_Velasco_2022_CSJ]]"
   - "[[Argument_Bozeman_2004_JTT]]"
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

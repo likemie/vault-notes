@@ -9,7 +9,7 @@ aliases:
 summary: "指培养学生理解气候变化、生物多样性丧失与生态系统复杂性，掌握跨学科系统思维与绿色技能，并能在生活和职业中采取可持续行动的教育模式与综合素养"
 type: concept
 domain: "curriculum"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -27,6 +27,8 @@ related_concepts:
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
 related_methods: []
+related_facts:
+  - "[[The Royal Society]]"
 confidence: high
 status: draft
 created: 2026-08-23
@@ -80,7 +82,7 @@ updated: 2026-10-26
 > | 命题类型 | 核心指向 | 实践载体 | 关键依据 / 来源 |
 > |---|---|---|---|
 > | **跨学科协同育人** | 依托全校协同整合自然与人文社会多维视角 | 跨学科项目化学习与全校行动 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 32)]] |
-> | **绿色技能转型** | 弥补 20 万绿色岗位缺口，支撑产业低碳转型 | 科学、工程与技术融合大纲 | PwC (2022); [[Royal Society\|The Royal Society]] |
+> | **绿色技能转型** | 弥补 20 万绿色岗位缺口，支撑产业低碳转型 | 科学、工程与技术融合大纲 | PwC (2022); [[The Royal Society]] |
 
 ---
 

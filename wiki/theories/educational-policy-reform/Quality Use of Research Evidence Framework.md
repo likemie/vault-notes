@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!theory-position] 理论定位
@@ -288,7 +288,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 将[[Research Utilization\|研究使用]]理解为嵌入复杂自适应教育系统（[[Complexity Theory\|complex adaptive systems]]）中的多层社会实践过程，个体行动受学校微观制度、[[Organizational Culture\|组织文化]]与宏观治理结构的深刻制约与赋权。
-> - **[[Epistemology\|认识论]]** 承认研究证据并非决策与实践的唯一裁决者，而是与教师[[Professional Judgment\|专业判断]]（[[Professional Judgment\|Professional Judgment]]）、[[Phronesis\|实践智慧]]（[[Phronesis\|Phronesis]]）及学校情境知识处于平等、互构地位的合法知识资源；证据的适切性取决于具体情境与用途。
+> - **[[Epistemology\|认识论]]** 承认研究证据并非决策与实践的唯一裁决者，而是与教师[[Professional Judgment\|专业判断]]（[[Professional Judgment]]）、[[Phronesis\|实践智慧]]（[[Phronesis]]）及学校情境知识处于平等、互构地位的合法知识资源；证据的适切性取决于具体情境与用途。
 > - **方法含义** 支持多层级、[[Mixed Methods Research\|混合方法]]的[[Research Synthesis|证据综合]]与实证调查；主张将标准化[[Questionnaire\|问卷调查]]、半结构化[[In-depth Interview\|深度访谈]]与[[Framework Synthesis\|框架综合]]（Framework Synthesis）相结合，对跨层使能指标与质性特征展开互证检验。
 > - **不能直接推出的东西** QURE 框架不能自动证明特定教学干预的因果效果量大小，不预先规定哪类研究方法在任何情境下都绝对最优，也不把审慎参与等同于某种机械僵化的教研套路。
 

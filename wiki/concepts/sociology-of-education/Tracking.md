@@ -197,7 +197,7 @@ updated: 2026-10-26
 > - **20 世纪初至中叶 — [[Structural Functionalism|结构功能主义]]与选拔效率论** 英国 1944 年《巴特勒法案》确立文法中学、现代中学与技术学校三部制，欧洲大陆全面普及基于学力考试的多轨中等教育；此时分轨被视作依据社会分工合理分配[[Human Capital Theory\|人力资本]]的“科学效率工具”。
 > - **1985 — 冲突论与批判教育社会学奠基** Jeannie Oakes 出版划时代著作 *Keeping Track: How Schools Structure Inequality*，开创了对校内分轨（Tracking）的系统实证批判，论证分轨如何剥夺有色人种与工人阶级子弟的优质知识获取权。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 98)]]
 > - **2000 年代初 — 文化心理学与微观认知机制深化** [[Jin Li\|李瑾]]将分轨制置于西方文化“固定自我观”与[[Talent Assumption\|天赋假设]]框架下展开跨文化解构，揭示其引发个人降级与自我实现预言的心理微观发生学机制。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 98–99, 109–110)]]
-> - **2012–2018 — 跨国量化实证与政策政治学解构** [[OECD]] 通过 [[PISA]] 跨国大样本实证确立了分轨与教育公平的负相关定律，推动去分轨综合化改革；[[Paul Morris\|Paul Morris]] 与 Sue Grey 则进一步揭示英格兰政客在[[Mediatised Governance\|媒介化治理]]中如何策略性过滤分轨负面证据并强行逆流推行选拔制度。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 114, 117–118)]]
+> - **2012–2018 — 跨国量化实证与政策政治学解构** [[OECD]] 通过 [[PISA]] 跨国大样本实证确立了分轨与教育公平的负相关定律，推动去分轨综合化改革；[[Paul Morris]] 与 Sue Grey 则进一步揭示英格兰政客在[[Mediatised Governance\|媒介化治理]]中如何策略性过滤分轨负面证据并强行逆流推行选拔制度。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 114, 117–118)]]
 > - **2014–2021 — 因果试验招募挫败与准实验方法转向** [[Education Endowment Foundation\|EEF]] 资助的能力分班大规模 [[Randomised Controlled Trials\|RCT]] 因学校拒绝[[Random Assignment\|随机化]]而招募失败（Roy et al., 2014）；EEF [[EEF Teaching and Learning Toolkit\|教学与学习工具包]]（Toolkit）实证定性能力分班对弱势学童带来净损失（$-1$ 个月），加剧阶层固化；2019 年 EEF 正式设立“研究[[School Choice\|学校选择]]”资助序列，确立利用自然变异与[[Quasi-Experimental Designs\|准实验设计]]（QEDs）评估能力分组政策的因果研究新[[Paradigm\|范式]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
 
 ---

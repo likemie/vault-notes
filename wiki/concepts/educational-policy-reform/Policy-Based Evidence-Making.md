@@ -9,7 +9,7 @@ aliases:
 summary: "批判性政策研究概念，指决策者预先确立政治意图与改革方案，再对学术研究与经验数据进行选择性筛选、重构或定制以逆向论证政策正当性的政治过程"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Epistemological Break]]"
   - "[[Analytical Stance]]"
   - "[[Discourse]]"
+  - "[[Deliberative Space]]"
   - "[[Research Topic]]"
   - "[[Epistemology]]"
 related_theories: []
@@ -39,6 +40,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Department for Education]]"
   - "[[Chartered College of Teaching]]"
   - "[[PISA]]"
   - "[[Education Endowment Foundation]]"
@@ -48,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

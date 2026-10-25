@@ -8,7 +8,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -22,8 +22,10 @@ tags:
   - level/k12
 related_concepts:
   - "[[Academic Achievement]]"
+  - "[[Integrated Curriculum Programs]]"
   - "[[Direct Instruction]]"
   - "[[Evidence Standards]]"
+  - "[[Co-Teaching]]"
   - "[[Evaluation Research]]"
   - "[[Variable]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -40,7 +42,9 @@ related_methods:
 related_persons:
   - "[[Robert Slavin]]"
 related_facts:
+  - "[[United States Congress]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[United States Department of Education]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Success for All]]"
   - "[[Every Student Succeeds Act]]"

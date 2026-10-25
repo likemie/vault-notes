@@ -12,7 +12,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -46,6 +46,7 @@ related_persons:
   - "[[Mariana Mazzucato]]"
 related_facts:
   - "[[EU]]"
+  - "[[European Commission]]"
   - "[[Horizon Europe]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Engineering Research Centers]]"

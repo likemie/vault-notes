@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_persons:
   - "[[Andreas Schleicher]]"
   - "[[John Bangs]]"
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[National Education Association]]"
   - "[[National Education]]"
   - "[[American Federation of Teachers]]"

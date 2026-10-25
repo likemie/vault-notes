@@ -9,7 +9,7 @@ aliases:
 summary: "由欧盟委员会与Tuning学院研制的欧洲高等教育多维评价量规与参照框架体系，覆盖土木工程、教师教育、历史、护理和物理五大专业，将都柏林描述符解构为可测量的批判性思维与创造力学科化表现矩阵。"
 type: instrument
 instrument_type: rubric
-instrument_related_count: 22
+instrument_related_count: 25
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#ffedd5"
@@ -32,11 +32,13 @@ tags:
   - region/europe
 related_concepts:
   - "[[Authentic Assessment]]"
+  - "[[Scoring Rubrics]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Construct]]"
+  - "[[Differentiated Instruction]]"
   - "[[Microteaching]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Operationalization]]"
@@ -50,6 +52,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Accounts]]"
+  - "[[Experimental Research]]"
   - "[[Multiple-Choice Questions]]"
 related_instruments: []
 related_persons: []

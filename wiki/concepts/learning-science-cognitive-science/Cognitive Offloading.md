@@ -10,7 +10,7 @@ aliases:
 summary: "使用外部物理或数字工具执行原本由内部心智承担的认知加工，兼具释放工作记忆以赋能高阶探究与诱发捷径学习、导致思维惰性及元认知外包的深层双刃剑效应。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 49
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -55,8 +55,8 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Technology Infusion]]"
   - "[[Illusion of Competence]]"
-  - "[[Variable]]"
   - "[[Concept Mapping]]"
+  - "[[Variable]]"
 related_theories:
   - "[[Theory of Mind]]"
   - "[[Extended Mind Theory]]"
@@ -64,7 +64,6 @@ related_methods:
   - "[[Chain-of-Thought Prompting]]"
   - "[[Role-playing]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
 related_arguments:
@@ -77,7 +76,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-31
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -8,10 +8,10 @@ aliases:
 summary: "比较教育与教育政策中指向学生跨校、跨区或跨国空间位移的核心构念；在欧美政策话语中呈现对立的治理逻辑，既被欧洲一体化塑造成培育公民认同与灵活就业能力的制度资产，又在美国绩效问责制下被问题化为表征贫困、学业阻滞与学校失范的流动漂泊；在发展型大国南南合作中则体现为国家奖学金驱动的双向话语与单向供给张力，并推动合作载体由单纯留学生流动迈向产教融合实体共建。"
 type: concept
 domain: "comparative-education"
-related_count: 52
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 61
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - concept/comparative-education
   - comparative-education
@@ -37,12 +37,15 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Falsification]]"
   - "[[Geopolitics]]"
+  - "[[Educational Diplomacy]]"
+  - "[[Alumnus Effect]]"
+  - "[[Para-Diplomatic Roles]]"
   - "[[Teacher Mobility]]"
   - "[[Multiple Institution Attendance]]"
   - "[[Academic Achievement]]"
   - "[[Variable]]"
-  - "[[Geopolitics of Higher Education]]"
   - "[[STEM Education]]"
+  - "[[School Choice]]"
   - "[[Public Diplomacy]]"
   - "[[English-Medium Instruction in Higher Education]]"
 related_theories:
@@ -52,6 +55,8 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Effect Size]]"
   - "[[Comparative Policy Analysis]]"
+  - "[[Case Study]]"
+  - "[[Semi-structured Interview]]"
   - "[[Qualitative Interview]]"
   - "[[Mixed Methods Research]]"
 related_facts:
@@ -69,19 +74,23 @@ related_facts:
   - "[[Belt and Road Education Action Plan]]"
   - "[[Institute of South-South Cooperation and Development]]"
   - "[[Sino-Africa Joint Research Center]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
 related_arguments:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_King_2020_ECNUROE]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
   - "[[Argument_Custer_2021_AidData]]"
+  - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
 related_persons:
   - "[[Nikolas Rose]]"
+  - "[[Rui Yang]]"
   - "[[Kenneth King]]"
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 > [!def] Student Mobility

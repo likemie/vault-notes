@@ -8,7 +8,7 @@ aliases:
 summary: "衡量跨国教育援助结构与功能变迁的分析范式，将教育发展合作划分为校舍教学基建、奖学金与职教技术培训、联合科研知识生产及文化交流四大标准化形态，揭示教育援助从单一硬件捐赠转向人力资本管道的演进历程。"
 type: concept
 domain: "comparative-education"
-related_count: 0
+related_count: 1
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,10 +18,12 @@ tags:
   - theme/educational-diplomacy
   - theme/vocational-education
   - theme/student-mobility
+related_arguments:
+  - "[[Argument_Custer_2021_AidData]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

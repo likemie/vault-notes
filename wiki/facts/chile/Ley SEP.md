@@ -12,7 +12,7 @@ subtype: policy
 region: "chile"
 fact_region: "chile"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -23,6 +23,7 @@ tags:
   - theme/accountability
   - region/chile
 related_concepts:
+  - "[[School Vouchers]]"
   - "[[School Choice]]"
   - "[[Academic Achievement]]"
   - "[[Socioeconomic Status]]"

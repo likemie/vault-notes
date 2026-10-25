@@ -8,7 +8,7 @@ aliases:
 summary: "发展中国家之间基于平等互利、不附加政治条件与共同发展原则开展的跨国合作范式，在教育领域强调能力建设、双向人文交流与发展经验互鉴，构成对传统南北援助供求二元结构的制度替代。"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Triangular Cooperation]]"
   - "[[People-to-People Connectivity]]"
   - "[[Technology Transfer]]"
+  - "[[Mutual Learning]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Conditional Cash Transfers]]"
   - "[[Knowledge Diplomacy]]"
@@ -42,6 +43,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Kenneth King]]"
+  - "[[Rui Yang]]"
 related_facts:
   - "[[Forum on China-Africa Cooperation]]"
   - "[[OECD]]"
@@ -50,6 +52,7 @@ related_facts:
   - "[[Institute of South-South Cooperation and Development]]"
   - "[[Participatory Budgeting]]"
   - "[[Belt and Road Initiative]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Belt and Road Education Action Plan]]"
   - "[[Confucius Institute]]"
   - "[[Gaokao]]"
@@ -63,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

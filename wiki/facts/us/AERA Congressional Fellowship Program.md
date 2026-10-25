@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -49,6 +49,7 @@ related_persons:
 related_facts:
   - "[[American Educational Research Association]]"
   - "[[American Association for the Advancement of Science]]"
+  - "[[United States Congress]]"
   - "[[House Committee on Education and the Workforce]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Elementary and Secondary Education Act of 1965]]"

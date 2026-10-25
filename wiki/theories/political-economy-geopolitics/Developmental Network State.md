@@ -10,7 +10,7 @@ aliases:
 summary: "Fred Block（2008）与 Christopher Ansell（2000）提出的科技创新政治经济学理论，指区别于东亚集权科层发展型国家与英美放任规制国家的全新国家形态，强调国家通过分布式、去中心化的联邦机构网络与产学研多方协同促进颠覆性创新。Fuchs（2010）在此基础上提出批判性修正，证明国家公共代理人超越消极中介撮合，通过嵌入型网络治理主动引导国家战略技术轨道。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 48
+theory_related_count: 49
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -66,6 +66,7 @@ related_facts:
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
   - "[[Department of Energy]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[SBIR and STTR Programs]]"
   - "[[MOSIS]]"
   - "[[Sematech]]"

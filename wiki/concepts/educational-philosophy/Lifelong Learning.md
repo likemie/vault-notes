@@ -7,9 +7,9 @@ aliases:
 summary: "指贯穿个体全生命周期的持续性、适应性与累积性学习过程。在人本主义视阈下涵盖支撑健康、理性协商与社会文化基础设施的全人发展生态；在经合组织等主导的知识经济与学习型经济中，则被重塑为应对知识快速折旧、以掌握实践诀窍（knowing how）为核心的生产力生存命令与可测倾向。"
 type: concept
 domain: "educational-philosophy"
-related_count: 78
-related_level: 7
-related_stars: "💎💎⭐"
+related_count: 86
+related_level: 8
+related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/curriculum
@@ -26,6 +26,8 @@ related_concepts:
   - "[[Learning Economy]]"
   - "[[Procedural Knowledge]]"
   - "[[Social Imaginary]]"
+  - "[[Central Phenomenon]]"
+  - "[[Champ]]"
   - "[[Critical Thinking]]"
   - "[[Data Literacy]]"
   - "[[AI Literacy]]"
@@ -43,6 +45,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Paradigm]]"
   - "[[Theoretical Knowledge]]"
+  - "[[Learning Strategies]]"
   - "[[Learnification]]"
   - "[[Pedagogical Subject]]"
   - "[[Visible Learning]]"
@@ -68,13 +71,17 @@ related_theories:
   - "[[Cognitive Capitalism]]"
 related_methods:
   - "[[Cohort Study]]"
+  - "[[Effect Size]]"
   - "[[Questionnaire]]"
+  - "[[Case Study]]"
+  - "[[In-depth Interview]]"
 related_persons:
   - "[[Dominique Foray]]"
   - "[[Bengt-Åke Lundvall]]"
   - "[[Robert Arnove]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Sotiria Grek]]"
   - "[[Gert Biesta]]"
 related_facts:
   - "[[OECD]]"
@@ -89,6 +96,7 @@ related_facts:
   - "[[Erasmus Programme]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[EU Key Competences for Lifelong Learning]]"
+  - "[[The Royal Society]]"
   - "[[Public Attitudes to Science]]"
   - "[[UK Science Education Tracker]]"
 related_arguments:
@@ -246,7 +254,7 @@ updated: 2026-10-26
 > - **2006 年与 2018 年 [[EU|欧盟]][[21st Century Skills and Competencies Discourse|关键能力]]框架** 欧洲联盟（European Union, EU）发布并更新《终身学习核心素养建议书》（[[EU Key Competences for Lifelong Learning]]），确立了包括科学、数学、数字素养、公民素养及[[Learner Autonomy|自主学习]]在内的八大终身学习关键能力。
 > - **2007 年 欧盟“终身学习计划”（Lifelong Learning Programme, LLP）确立跨国流动支柱** 欧盟正式启动 2007–2013 综合性“终身学习计划”（LLP），将[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）、夸美纽斯计划（COMENIUS）、达芬奇计划（LEONARDO [[Dynamic Assessment|DA]] VINCI）及格伦特维计划（GRUNDTVIG）全面整合；将学生跨国流动（[[Student Mobility|学生流动性]]）确立为获取终身学习素养与提升个体就业胜任力的核心制度载体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 > - **2009 年 — PISA 测评将终身学习前置并嵌入义务教育治理** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]）论证指出，经合组织通过 PISA 测评将终身学习机制前置至 15 岁义务教育阶段；测评不仅脱离了具体国家课程，更系统测查学生的学习动机、[[Self-Efficacy|自我效能感]]与自我规制策略，将青年学生提前塑造为必须终身自负其责、持续自我规制的知识经济主体（pp. 26–27, 35）。
-> - **2020 年代中 数字化、绿色化转型与社会文化基础设施演进** 面对[[Generative Artificial Intelligence|生成式人工智能]]（Artificial Intelligence, AI）颠覆与气候变化危机，[[Royal Society|英国皇家学会]]（Royal Society, 2026）重塑终身学习[[Construct|构念]]，提出涵盖[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养的交叉素养框架，并将科技馆、探索中心及[[Citizen Science|公民科学]]确立为保障全民终身学习的社会与文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
+> - **2020 年代中 数字化、绿色化转型与社会文化基础设施演进** 面对[[Generative Artificial Intelligence|生成式人工智能]]（Artificial Intelligence, AI）颠覆与气候变化危机，[[The Royal Society|英国皇家学会]]（Royal Society, 2026）重塑终身学习[[Construct|构念]]，提出涵盖[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养的交叉素养框架，并将科技馆、探索中心及[[Citizen Science|公民科学]]确立为保障全民终身学习的社会与文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 
 ---
 

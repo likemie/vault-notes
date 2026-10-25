@@ -7,7 +7,7 @@ summary: "意大利裔经济学家，伦敦大学学院创新与公共目的研�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 31
+person_related_count: 32
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -53,6 +53,7 @@ related_facts:
   - "[[DARPA]]"
   - "[[Horizon Europe]]"
   - "[[CHIPS and Science Act]]"
+  - "[[European Commission]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"

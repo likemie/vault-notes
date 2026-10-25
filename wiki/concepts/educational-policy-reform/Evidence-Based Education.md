@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 145
+related_count: 147
 related_level: 14
 related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -35,7 +35,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[External Validity]]"
   - "[[Side Effects]]"
-  - "[[Educational Brokerage Agency]]"
+  - "[[Boundary Spanner]]"
   - "[[Scientifically Based Research]]"
   - "[[Evidence Standards]]"
   - "[[Variable]]"
@@ -90,12 +90,12 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Random Assignment]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Statistical Significance]]"
   - "[[Meta-analysis]]"
   - "[[Research Synthesis]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Single-Case Design]]"
   - "[[Mechanism Experiments]]"
   - "[[Fixed-Effect Model]]"
@@ -120,9 +120,11 @@ related_facts:
   - "[[Vergleichsarbeiten]]"
   - "[[OECD]]"
   - "[[Teacher Training Agency]]"
+  - "[[United States Congress]]"
   - "[[EPPI-Centre]]"
   - "[[Campbell Collaboration]]"
   - "[[No Child Left Behind Act 2001]]"
+  - "[[United States Department of Education]]"
   - "[[American Educational Research Association]]"
   - "[[PISA]]"
   - "[[EU]]"
@@ -175,7 +177,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

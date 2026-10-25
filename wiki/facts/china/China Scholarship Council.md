@@ -11,7 +11,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ tags:
   - student-mobility
   - policy/belt-and-road
 related_concepts:
+  - "[[Study Abroad]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Research Universities]]"
@@ -39,6 +40,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Belt and Road Initiative]]"
   - "[[Belt and Road Education Action Plan]]"
   - "[[UNESCO]]"

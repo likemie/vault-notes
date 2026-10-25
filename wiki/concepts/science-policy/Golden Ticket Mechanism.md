@@ -9,7 +9,7 @@ aliases:
 summary: "元科学与科技资助机制设计中的非共识突破型评审工具；赋予每位评审委员会专家一张具有绝对自由裁量权的“金券”，允许其在缺乏群体共识甚至遭遇广泛质疑的情况下，强行全额资助一项极具争议的高风险前沿提案，以制度化打破同行评议追求均值妥协的避险平庸化陷阱。"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_theories: []
 related_methods:
   - "[[Blinding]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Bibliometric Analysis]]"
 related_instruments:
   - "[[Heilmeier Catechism]]"
 related_persons:
@@ -37,6 +38,7 @@ related_persons:
 related_facts:
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
+  - "[[Wellcome Trust]]"
   - "[[Fast Grants]]"
   - "[[Science A New Golden Age 2026]]"
 related_arguments:
@@ -44,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

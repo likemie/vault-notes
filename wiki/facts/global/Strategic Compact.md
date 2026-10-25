@@ -10,9 +10,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 10
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 9
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "1997–2001"
 initiator_organization: "世界银行执行董事会与行长詹姆斯·沃尔芬森（James Wolfensohn）"
@@ -26,8 +26,6 @@ tags:
 related_concepts:
   - "[[Knowledge Bank]]"
   - "[[Epistemic Governance]]"
-  - "[[Knowledge Management]]"
-  - "[[Cognitive Authority]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -37,13 +35,14 @@ related_persons:
 related_facts:
   - "[[World Bank]]"
   - "[[Educational Knowledge Management System]]"
+  - "[[Global Development Learning Network]]"
   - "[[Development Economics Vice Presidency]]"
 related_arguments:
   - "[[Argument_Zapp_2017_IJED]]"
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---

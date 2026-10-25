@@ -9,7 +9,7 @@ aliases:
 summary: "指教师在宏观课程框架指引下，对教学法选择、探究实验设计、本土化课程开发与评价方式拥有充分的专业决策权与自主行动空间，并在遭遇新泰勒制规训与政策博弈时具备批判性审议与多阵线民主行动能力"
 type: concept
 domain: "teacher-education"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -23,43 +23,45 @@ tags:
 related_concepts:
   - "[[Phronesis]]"
   - "[[Reflexivity]]"
+  - "[[School Leadership]]"
+  - "[[Visible Learning]]"
+  - "[[Pride in Learning]]"
   - "[[Technical Rationality]]"
   - "[[Professional Judgment]]"
   - "[[Performativity]]"
   - "[[Open-Mindedness]]"
-  - "[[Pride in Learning]]"
+  - "[[Differentiated Instruction]]"
   - "[[STEM Education]]"
   - "[[Research Utilization]]"
   - "[[Institutional Distrust]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Deficit Framing]]"
   - "[[Cognitive Deskilling]]"
-  - "[[Visible Learning]]"
+  - "[[Learning Intentions]]"
+  - "[[Success Criteria]]"
   - "[[Cargo Cult Science]]"
   - "[[Effective Teaching]]"
+  - "[[Research Translation]]"
   - "[[Scientism]]"
   - "[[Critical Pedagogy]]"
   - "[[Student-Teacher Relationship]]"
-  - "[[Variable]]"
-  - "[[Scientific Literacy]]"
-  - "[[Learning Intentions]]"
-  - "[[Creativity]]"
-  - "[[Success Criteria]]"
-  - "[[Paradigm]]"
 related_theories:
   - "[[Critical Pluralism]]"
   - "[[Critical Theory]]"
 related_facts:
+  - "[[The Royal Society]]"
   - "[[Teacher Choices]]"
   - "[[PISA]]"
   - "[[Reading Excellence Act]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[OECD]]"
+  - "[[UNESCO]]"
   - "[[Estonian STEM Education Model]]"
 related_arguments:
-  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Mausethagen_2025_ERR]]"
@@ -67,7 +69,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
-  - "[[Critical Policy Analysis]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Henry Giroux]]"
@@ -97,7 +98,7 @@ updated: 2026-10-26
 >
 > *"Teaching’s main concern is not to be found in checklists or standard operations. Teaching is about conscientiously building a learning community in a distinct classroom, in a unique school, in a particular neighborhood. This is a complex relational challenge, requiring a wide humanistic and technical skillset; with little in common with medical checklists, sutures, or knot tying."*
 
-> [!citation-card] [[Royal Society|英国皇家学会]]论教师自主权与师资留任
+> [!citation-card] [[The Royal Society|英国皇家学会]]论教师自主权与师资留任
 > "国际证据表明，在宽广的国家课程框架指引下，赋予[[Teacher Choices|教师选择]]适切教学法并为学生设计引人入胜的探究实验的自主权，是营造激发性课堂文化的最关键驱动力。正是这种受信任与被尊重的专业自主权，直接支撑了教师的工作[[Pride in Learning|自豪]]感，构成了遏制紧缺学科师资流失的核心机制。"[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]
 >
 > *"Evidence indicates that within broad curriculum frameworks, giving teachers the agency to select pedagogies and design engaging investigative work is central to creating an inspiring classroom culture. It is this professional trust and autonomy that fosters pride in teaching and forms the cornerstone of retaining specialist staff in shortage subjects."*

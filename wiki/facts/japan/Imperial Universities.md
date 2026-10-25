@@ -12,7 +12,7 @@ subtype: organization
 region: japan
 fact_region: "japan"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Knowledge Production]]"
 related_facts:
+  - "[[Ministry of Education, Culture, Sports, Science and Technology]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
 related_arguments:

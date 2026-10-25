@@ -9,7 +9,7 @@ subtype: organization
 region: asia
 fact_region: "asia"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[CORE Education]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 confidence: high

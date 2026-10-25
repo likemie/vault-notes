@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -146,7 +146,7 @@ updated: 2026-10-23
 > > 审视由英国 [[Education Endowment Foundation\|EEF]] 统领的全球[[Evidence Network\|证据网络]]是否构成了新形式的“知识帝国主义”。
 > >
 > > - **[[Critical Pedagogy\|批判教育学]]与后殖民视角** 质疑以 EEF 为模板的量化 [[Randomised Controlled Trials\|RCT]] 与工具包框架过于迷信[[Positivism\|实证主义]]指标，将复杂、深植于[[Geopolitics|地缘政治]]与社会阶层结构的教育不平等，简化为全球统一的“[[Effect Size\|效应量]]月数增益”，有削弱发展中国家本土教育哲学与文化多样性的危险。
-> > - **网络官方与务实主义立场** EEN 强调去中心化的“本土化改造”（[[Going Native\|Going Native]]），各节点拥有完全自主权将本土文献与本国教育优先事项注入工具包，且工具包的根本价值在于打破跨国商业软件与伪科学对第三世界学校有限公用预算的掠夺。
+> > - **网络官方与务实主义立场** EEN 强调去中心化的“本土化改造”（[[Going Native]]），各节点拥有完全自主权将本土文献与本国教育优先事项注入工具包，且工具包的根本价值在于打破跨国商业软件与伪科学对第三世界学校有限公用预算的掠夺。
 >
 > > [!axis] 后资助时代的“可持续性断崖”与主权财政挑战
 > > 探讨企业大额慈善期满后，全球中介网络的生存策略。

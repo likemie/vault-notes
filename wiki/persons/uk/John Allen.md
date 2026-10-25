@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -58,7 +58,7 @@ updated: 2026-10-22
 > [!person-profile] 人物档案
 > - **身份位置** 英国经济与人文地理学家，英国开放大学（The Open University）经济地理学荣休教授。
 > - **核心角色** 批判性地理学中“拓扑学转向”（Topological Turn）与空间权力重构理论的核心奠基人；将空间概念从绝对的欧几里得几何领土容器，重构为基于社会关系、中介网络与即时连接的拓扑关系构型。
-> - **代表贡献** 提出并系统阐述了[[Topological Spatialisation\|拓扑空间化]]（Topological Spatialisation）与拓扑权力（Topological Power）机制，深刻启发了批判性教育政策学者（如 [[Sigrid Hartong\|Sigrid Hartong]], Stephen J. Ball, [[Bob Lingard]], Steven Lewis）对全球教育治理、跨国测评与[[Data Infrastructure\|数据基础设施]]的理论剖析。
+> - **代表贡献** 提出并系统阐述了[[Topological Spatialisation\|拓扑空间化]]（Topological Spatialisation）与拓扑权力（Topological Power）机制，深刻启发了批判性教育政策学者（如 [[Sigrid Hartong]], Stephen J. Ball, [[Bob Lingard]], Steven Lewis）对全球教育治理、跨国测评与[[Data Infrastructure\|数据基础设施]]的理论剖析。
 
 > [!citation-card] 艾伦论拓扑扭转与权力的空间转移
 > 艾伦确立了基于触达与临近性的拓扑权力地理学：

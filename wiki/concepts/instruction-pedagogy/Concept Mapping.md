@@ -10,7 +10,7 @@ aliases:
 summary: "包含显式概念节点、指示连线、命题连接词与跨分支横向交叉连接，用于结构化表征复杂领域知识与语义命题关系的高阶认知建模与评价工具。在有意义学习与科学教育中，它为深层知识整合提供严密语法，既是促学支架亦是诊断认知结构的评价工具。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -48,7 +48,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Multiple-Choice Questions]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 > [!def] Concept Mapping

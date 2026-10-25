@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -45,6 +45,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[No Child Left Behind Act 2001]]"

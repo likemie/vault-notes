@@ -7,9 +7,9 @@ summary: "一种以意义阐释为核心的质性政策研究方法，主张政�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 23
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 17
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method
@@ -21,17 +21,14 @@ related_concepts:
   - "[[Artefact]]"
   - "[[Discourse]]"
   - "[[Unit of Analysis]]"
-  - "[[Technical Rationality]]"
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
   - "[[Epistemological Vigilance]]"
-  - "[[Reliability]]"
   - "[[Central Question]]"
-  - "[[Evidence Culture]]"
-  - "[[Epistemic Community]]"
+  - "[[Constructivist Paradigm]]"
 related_theories:
   - "[[Critical Theory]]"
-  - "[[Constructivist Paradigm]]"
+  - "[[Policy Transfer Framework]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Qualitative Content Analysis]]"
@@ -40,17 +37,14 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[OECD]]"
-  - "[[UNESCO]]"
-  - "[[World Bank]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Stone_2020_PolSoc]]"
 confidence: high
 status: completed
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---

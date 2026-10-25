@@ -7,7 +7,7 @@ aliases:
 summary: "更有经验者通过示范、辅导、支架与支持促进新手专业、认知与职业发展的过程，在科学精英传承、高阶思维教学干预以及产学协同工程人才培育与技术情境化中发挥核心催化作用。"
 type: concept
 domain: "higher-education"
-related_count: 29
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Paradigm]]"
   - "[[Academic Inbreeding]]"
-  - "[[Dialogue in Education]]"
   - "[[Causality]]"
   - "[[Metacognition]]"
   - "[[Mentorship Recognition]]"
@@ -43,7 +42,6 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Network Analysis]]"
   - "[[Experimental Research]]"
 related_instruments: []
@@ -58,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

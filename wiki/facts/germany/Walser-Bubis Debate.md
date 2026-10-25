@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-20
+updated: 2026-10-26
 ---
 
 ---
@@ -47,7 +47,7 @@ updated: 2026-10-20
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1998 年 10 月爆发于德国法兰克福保罗教堂（Paulskirche），随后席卷全德主流媒体与联邦政坛。
-> - **核心当事主体** 德国著名作家[[Martin Walser|马丁·瓦尔泽]]（[[Martin Walser|Martin Walser]]）与德国犹太人中央理事会主席[[Ignatz Bubis|伊格纳茨·布比斯]]（[[Ignatz Bubis|Ignatz Bubis]]）。
+> - **核心当事主体** 德国著名作家[[Martin Walser|马丁·瓦尔泽]]（[[Martin Walser]]）与德国犹太人中央理事会主席[[Ignatz Bubis|伊格纳茨·布比斯]]（[[Ignatz Bubis]]）。
 > - **深层制度与社会背景** 战后数十年间联邦德国建立了高度制度化的历史赎罪机制；但随着战后新一代成长，公众对媒体中无休止的道德仪式化与集体罪责灌输产生了疲劳与心理抵触。
 > - **直接导火索** 1998 年 10 月 11 日德国书业和平奖（Peace Prize of the German Book Trade）颁奖典礼上瓦尔泽发表的获奖演说。
 

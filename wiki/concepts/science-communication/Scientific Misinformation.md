@@ -7,7 +7,7 @@ aliases:
 summary: "指向在传统与数字媒体中传播的与科学证据或学界共识相悖的错误或误导性信息，涵盖无恶意失实与蓄意操纵，其扩散受算法推荐、极化回音室与源头新闻通稿夸大共同驱动，治理依赖证据透明、不确定性坦诚沟通与科研诚信制度融合。"
 type: concept
 domain: "science-communication"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[The Royal Society]]"
   - "[[Science Media Centre]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
@@ -108,7 +109,7 @@ updated: 2026-10-26
 > [!concept-lens] 算法推荐与网络舆论结构
 > 探讨数字社交平台商业算法如何通过优先分发争议性内容扭曲公众信息环境，以及极端少数群体如何在数字网络中获得不成比例的议题放大。
 
-> [!claim] [[Royal Society|The Royal Society]]
+> [!claim] [[The Royal Society]]
 > **算法偏见与回音室放大效应** 商业社交平台基于经济与意识形态考量，往往通过定向算法迎合特定目标受众的偏见；虽然英国绝大多数公众并未深陷封闭的回音室，但少数高度党派化的极端个体在网络空间主动聚集，其制造与转发的极端言论在算法机制下获得了不成比例的巨大曝光，严重污染了主流舆论与[[Science Journalism\|科技新闻]]议题。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 58)]]
 
 ---

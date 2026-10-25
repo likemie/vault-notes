@@ -1,6 +1,7 @@
 ---
 citation: "谢爱磊, 李家新, 黄咏欣. (2021). 全球药方还是特洛伊木马? PISA的教育政策效应批判——一份基于教育政策社会学视角的文献报告. 全球教育展望, 50(2), 55–79."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 processed_date: 2026-10-26
 ---
 

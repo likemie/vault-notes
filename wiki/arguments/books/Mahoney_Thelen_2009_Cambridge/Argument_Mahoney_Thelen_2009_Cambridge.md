@@ -42,7 +42,7 @@ sources:
   - "[[books/Mahoney_Thelen_2009_Cambridge/Mahoney_Thelen_2009_Cambridge|Mahoney_Thelen_2009_Cambridge]]"
 status: "draft"
 created: "2026-10-11"
-updated: "2026-10-11"
+updated: 2026-10-26
 ---
 
 > [!volume-profile] 阅读档案
@@ -68,7 +68,7 @@ updated: "2026-10-11"
 > - **当前进度** 第 1 章理论导论已完成解读（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]）；第 2–6 章经验章节与第 7 章制度主义比较章节待解读。
 
 > [!chapter-index] 原文入口
-> - **第 1 章，[[Theory of Gradual Institutional Change|渐进制度变迁理论]]** A Theory of Gradual Institutional Change。[[James Mahoney|James Mahoney]]; [[Kathleen Thelen]]，原书 pp. 1–37。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|章节论证页]]。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch01_Mahoney_Thelen_Gradual_Institutional_Change.txt)。系统建构权力分配、[[Rule Ambiguity|规则模糊性]]与依从裁量权支柱，提出置换、层叠、漂移与转换四类演进模式及行动者矩阵。
+> - **第 1 章，[[Theory of Gradual Institutional Change|渐进制度变迁理论]]** A Theory of Gradual Institutional Change。[[James Mahoney]]; [[Kathleen Thelen]]，原书 pp. 1–37。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|章节论证页]]。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch01_Mahoney_Thelen_Gradual_Institutional_Change.txt)。系统建构权力分配、[[Rule Ambiguity|规则模糊性]]与依从裁量权支柱，提出置换、层叠、漂移与转换四类演进模式及行动者矩阵。
 > - **第 2 章，渗入国家，巴西卫生保健改革的演变** Infiltrating the State: The Evolution of Health Care Reforms in Brazil, 1964–1988。Tulia G. Falleti，原书 pp. 38–62。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch02_Falleti_Health_Care_Reforms_in_Brazil.txt)。待解读。
 > - **第 3 章，制度的矛盾潜能，肯尼亚土地文书制度的兴衰** The Contradictory Potential of Institutions: The [[Research in Schools Evaluation|RISE]] and Decline of Land Documentation in Kenya。Ato Kwamena Onoma，原书 pp. 63–93。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch03_Onoma_Land_Documentation_in_Kenya.txt)。待解读。
 > - **第 4 章，政策制定作为政治约束，美国社会保障制度的发展** Policymaking as Political Constraint: Institutional Development in the U.S. Social Security Program。Alan M. Jacobs，原书 pp. 94–131。[TXT](../../../../raw/Mahoney_Thelen_2009_Cambridge_txt/Ch04_Jacobs_US_Social_Security.txt)。待解读。

@@ -88,7 +88,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -97,13 +97,13 @@ updated: 2026-10-22
 > - **解释对象** 资本主义世界体系中中心国家与外围国家之间的不平等支配关系；第三世界国家教育系统内部的阶级双轨分割与文凭异化；高等教育中的学术依附与新殖民主义文化控制；全球化时代多边规训下的[[State Educational Sovereignty|国家教育主权]]侵蚀与[[Shadow State|影子国家]]现象。
 > - **理论问题** 坚决解构现代化理论与[[Human Capital Theory|人力资本理论]]将后发国家“欠发展”归咎于内部技术性“缺失”或管理不善的虚伪修辞；揭示全球教育不平等本质上是帝国主义剥削与资本主义积累矛盾的地缘产物。
 > - **理论类型** 宏观历史政治经济学[[Critical Theory|批判理论]]与比较教育社会学解释框架；构成战后比较教育第四代际“批判冲突与跨国宏观[[Paradigm|范式]]”（Discourse 4, 1970–1990）的核心支柱。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–155)]]
-> - **知识位置** 植根于拉丁美洲依附论经济学传统（Prebisch, Furtado, Frank, Cardoso & Faletto, dos Santos），在比较教育学中由[[Martin Carnoy|马丁·卡诺伊]]（[[Martin Carnoy|Martin Carnoy]]）、[[Robert Arnove|罗伯特·阿诺夫]]（[[Robert Arnove|Robert Arnove]]）、菲利普·阿尔特巴赫（[[Philip Altbach]]）以及[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（[[Carlos Alberto Torres|Carlos Alberto Torres]]）与利利亚娜·埃丝特·[[Liliana Esther Olmos|奥尔莫斯]]（[[Liliana Esther Olmos|Liliana Esther Olmos]]）等学者深度拓展。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 104–106)]]
+> - **知识位置** 植根于拉丁美洲依附论经济学传统（Prebisch, Furtado, Frank, Cardoso & Faletto, dos Santos），在比较教育学中由[[Martin Carnoy|马丁·卡诺伊]]（[[Martin Carnoy]]）、[[Robert Arnove|罗伯特·阿诺夫]]（[[Robert Arnove]]）、菲利普·阿尔特巴赫（[[Philip Altbach]]）以及[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（[[Carlos Alberto Torres]]）与利利亚娜·埃丝特·[[Liliana Esther Olmos|奥尔莫斯]]（[[Liliana Esther Olmos]]）等学者深度拓展。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 104–106)]]
 
 > [!claim] 核心判断
 > 第三世界国家的欠发展并非源于现代性制度要素的匮乏，而是西方宗主国长期剥削与资本主义世界体系结构性约束的直接产物。教育系统绝非中立的技能分配器，而是中心跨国资本与外围买办[[Pact of Domination|统治同盟]]维系政治霸权、输出文化帝国主义并推行[[Compensatory Legitimation|补偿性合法化]]的核心[[Champ|场域]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 426–427)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–75)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
 
 > [!citation-card] 卡扎米亚斯论依附理论破除学校中立神话与第四代际范式转向
-> [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Andreas Kazamias|Andreas Kazamias]]）指出，1970 年代兴起的马克思主义、依附理论与[[World-Systems Theory|世界体系分析]]构成了学科史第四代际。批判学者将权力、阶级剥削、意识形态霸权与不依附理论引入教育研究，彻底打破了把学校视为中立育人机构的传统幻想，指出学校既是维系阶级不平等的工具，也是大众争取平等权利的博弈场所。阿诺夫等人基于[[Immanuel Wallerstein|沃勒斯坦]]世界体系论，论证全球教育呈现出深刻的依附关系：发达中心对发展中国家形成[[Hegemony|文化霸权]]，而发展中国家的政治经济精英又在本土社会中维持对边缘群体的支配，形成了跨国教育资源的层层倾斜与支配链条。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
+> [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Andreas Kazamias]]）指出，1970 年代兴起的马克思主义、依附理论与[[World-Systems Theory|世界体系分析]]构成了学科史第四代际。批判学者将权力、阶级剥削、意识形态霸权与不依附理论引入教育研究，彻底打破了把学校视为中立育人机构的传统幻想，指出学校既是维系阶级不平等的工具，也是大众争取平等权利的博弈场所。阿诺夫等人基于[[Immanuel Wallerstein|沃勒斯坦]]世界体系论，论证全球教育呈现出深刻的依附关系：发达中心对发展中国家形成[[Hegemony|文化霸权]]，而发展中国家的政治经济精英又在本土社会中维持对边缘群体的支配，形成了跨国教育资源的层层倾斜与支配链条。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
 
 ---
 
@@ -116,7 +116,7 @@ updated: 2026-10-22
 > [!dev-timeline] 理论版本与贡献
 > - **1974 — 学科文化帝国主义奠基** 卡诺伊（Carnoy, 1974）系统批判正规学校教育在殖民与新殖民秩序中的顺从驯化功能，开创依附论比较教育[[Paradigm|研究范式]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 426)]]
 > - **1977–1978 — 心灵奴役与学术依附命题** 菲利普·阿尔特巴赫（Altbach, 1977）提出“心灵的奴役”（Servitude of the Mind），揭示学术期刊、科研出版与国际学位垄断如何在外围学者中再生产非自觉的学术依附。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 427)]]
-> - **1980–1982 — 世界体系引入与跨国不平等层层传递机制** [[Robert Arnove|阿诺夫]]（Arnove, 1980, 1982）将[[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（[[Immanuel Wallerstein|Immanuel Wallerstein]]）世界体系论引入比较教育，指出跨国基金会与金融机构推行的教育革新固化了中心-边缘分层；卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）特别指出，阿诺夫揭示了中心国家主导外围、外围精英支配边缘大众的跨国不平等层层传递链条。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
+> - **1980–1982 — 世界体系引入与跨国不平等层层传递机制** [[Robert Arnove|阿诺夫]]（Arnove, 1980, 1982）将[[Immanuel Wallerstein|伊曼努尔·沃勒斯坦]]（[[Immanuel Wallerstein]]）世界体系论引入比较教育，指出跨国基金会与金融机构推行的教育革新固化了中心-边缘分层；卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）特别指出，阿诺夫揭示了中心国家主导外围、外围精英支配边缘大众的跨国不平等层层传递链条。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–153)]]
 > - **1990 — 社会主义社会过渡与[[Critical Pedagogy|解放教育学]]** 卡诺伊与[[Joel Samoff|乔尔·萨莫夫]]（Carnoy & Samoff, 1990）探究第三世界国家在向社会主义过渡期，如何借助激进教育革命清除依附性阶级残余。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 427–428)]]
 > - **2000s — 新自由主义多标度规训与[[Shadow State|影子国家]]** 阿诺夫与萨顿（Sutton & Arnove, 2004）及卡马特（Kamat, 2004）揭示依附机制的新形态：跨国经贸规制（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）与[[Pluri-Scalar Governance|多标度治理]]穿透民族国家主权，国际援助方绕过政府直接资助非政府组织提供教育，使 NGO 异化为去政治化的影子国家并剥夺国家公共责任。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 > - **2009 — [[Conditioned State Theory|受限国家理论]]与[[Financial-Intellectual Complex|金融-智识复合体]]** [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）提出“受限国家”概念，系统剖析第三世界教育扩张畸变、[[Dual School System|双轨学制]]固化及世界银行[[Financial-Intellectual Complex|金融-智识复合体]]的去主权化规训。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–75, 81–85)]]

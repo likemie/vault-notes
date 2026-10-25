@@ -12,9 +12,9 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 issuing_organization: "Department for Science, Innovation and Technology, [[UK Research and Innovation]]"
 tags:
@@ -35,6 +35,8 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[UK Research and Innovation]]"
+  - "[[The Royal Society]]"
   - "[[Government Office for Science]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
@@ -76,7 +78,7 @@ updated: 2026-10-26
 > - **2012–2014** 组织全英针对“线粒体捐赠技术”（三亲婴儿）的公众对话，为英国在全球率先通过该技术立法提供核心社会伦理授权。
 > - **2018–2020** 联合英国人工智能办公室开展针对数据驱动与算法伦理治理的专题公共协商。
 > - **2022** 总结提出公众在面对颠覆性科技时的三大社会伦理追问：为何要研发？由谁获利？谁来负责？[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, Ch. 4, p. 72)]]
-> - **2026** [[Royal Society|英国皇家学会]]《科学为社会》第 16 项建议明确呼吁，必须动员 Sciencewise 等专业机构在国家科学总预算中划拨专门技能培训资源，常态化推行新兴技术公共对话。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 88)]]
+> - **2026** [[The Royal Society|英国皇家学会]]《科学为社会》第 16 项建议明确呼吁，必须动员 Sciencewise 等专业机构在国家科学总预算中划拨专门技能培训资源，常态化推行新兴技术公共对话。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 88)]]
 
 ---
 

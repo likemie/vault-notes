@@ -8,7 +8,7 @@ aliases:
 summary: "一种起源于拉美并广泛扩散至全球的社会与教育干预政策模式，通过向低收入家庭定期发放现金补贴，强制要求其履行儿童入园入学出勤率、定期接受基础健康检查等明确的教育与人力资本投资义务。"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,7 +30,6 @@ related_facts:
   - "[[World Bank]]"
   - "[[Inter-American Development Bank]]"
   - "[[Bolsa Familia]]"
-  - "[[Chartered College of Teaching]]"
 related_arguments:
   - "[[Argument_Stone_2020_PolSoc]]"
 confidence: medium

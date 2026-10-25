@@ -10,10 +10,10 @@ summary: "美国企业家与社会理论学者，帕兰提尔科技公司联合�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 39
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 40
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1967"
 died: ""
 lifespan: "1967–至今"
@@ -62,6 +62,7 @@ related_facts:
   - "[[Palantir Technologies]]"
   - "[[Research in Schools Evaluation]]"
   - "[[Federal Acquisition Streamlining Act of 1994]]"
+  - "[[Department of Defense]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10]]"

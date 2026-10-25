@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 44
+fact_related_count: 48
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#fef3c7"
@@ -44,8 +44,10 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[National Innovation System]]"
   - "[[Policy Brokerage]]"
+  - "[[Knowledge Production]]"
 related_theories:
   - "[[Human Capital Theory]]"
+  - "[[Social Contract of Science]]"
 related_methods: []
 related_persons:
   - "[[Dwight D. Eisenhower]]"
@@ -55,8 +57,10 @@ related_facts:
   - "[[DARPA]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[National Defense Education Act of 1958]]"
+  - "[[Department of Defense]]"
   - "[[Organisation for European Economic Co-operation]]"
   - "[[OECD]]"
+  - "[[United States Congress]]"
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[ARPANET]]"
   - "[[1960 Bellagio Conference]]"

@@ -48,8 +48,8 @@ related_facts:
   - "[[Achieve]]"
   - "[[National Governors Association]]"
 related_arguments:
-  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_ONeill_2016_Report]]"
 confidence: high
 status: stable

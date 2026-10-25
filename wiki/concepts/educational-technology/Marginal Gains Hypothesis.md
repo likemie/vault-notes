@@ -9,10 +9,10 @@ aliases:
 summary: "教育技术与循证干预假说，主张在初始数字化基础设施薄弱（低 ICT）或社会经济背景脆弱（低 SES）的低资源环境中引入技术工具，所产生的相对促学增量和边际附加值显著高于高资源饱和环境"
 type: concept
 domain: "educational-technology"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/educational-technology
   - education-economics
@@ -37,7 +37,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Moderator Analysis]]"
 related_instruments: []
@@ -49,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 （边际效益假说）

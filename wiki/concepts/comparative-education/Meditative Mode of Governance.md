@@ -10,7 +10,7 @@ aliases:
 summary: "国际组织软治理的双重基础运行模式之一，指超国家机构在探究模式完成问题界定后，直接介入主权国家公共政策讨论，将实质性因果知识打包为“有效做法”（what works）与最佳实践蓝图，向各成员国推介成套政策工具箱并展开权威咨询与游说的治理机制"
 type: concept
 domain: "comparative-education"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,8 @@ tags:
   - theme/global-governance
   - theme/oecd
   - theme/policy-borrowing
-related_concepts: []
+related_concepts:
+  - "[[Inquisitive Mode of Governance]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -33,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -11,9 +11,9 @@ subtype: organization
 region: canada
 fact_region: "canada"
 fact_kind: "organization"
-fact_related_count: 10
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 6
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 org_type: "university-industry-partnership"
 headquarters: "滑铁卢（加拿大）"
@@ -25,14 +25,10 @@ tags:
   - theme/aging
   - theme/co-location
 related_concepts:
-  - "[[University-Industry Collaboration]]"
   - "[[Co-Design]]"
   - "[[University-Industry Co-location]]"
-  - "[[Knowledge Mobilisation]]"
-  - "[[Knowledge Production]]"
   - "[[Incubation]]"
   - "[[Demonstration Effect]]"
-  - "[[Reliability]]"
 related_theories:
   - "[[RIA Model for Innovation]]"
 related_methods: []
@@ -44,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

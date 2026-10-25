@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 47
+fact_related_count: 49
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
@@ -57,6 +57,8 @@ related_methods:
 related_persons: []
 related_facts:
   - "[[EU]]"
+  - "[[European Commission]]"
+  - "[[Eurydice]]"
   - "[[EPPI-Centre]]"
   - "[[Education Endowment Foundation]]"
   - "[[Danish Clearinghouse for Educational Research]]"

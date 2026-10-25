@@ -71,7 +71,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-26
 year: 2021
 doi: ""
 citation_aliases:
@@ -142,7 +142,7 @@ citation_aliases:
 > 6. [[21st Century Skills and Competencies Discourse\|关键能力]]课程改革使证据本位政策更复杂，因为多维能力的干预设计和效果评估比基础知识技能更难实现。
 
 > [!info] 核心数据
-> - 意大利 2008 年 “[[Azione LIM\|Azione LIM]]” 提供 35,114 块互动白板，总成本 EUR 93,354,571；2016 年互动白板覆盖 42% 班级。
+> - 意大利 2008 年 “[[Azione LIM]]” 提供 35,114 块互动白板，总成本 EUR 93,354,571；2016 年互动白板覆盖 42% 班级。
 > - 法国 2017 年将 disadvantaged areas 一、二年级[[Class Size\|班额]]从 24 人降至 12 人，但相关证据显示班额缩小的阅读效应较小，数学效应可为负且不显著。
 > - EU-22 从小学到高等教育平均每生年支出 USD 10,555；成员国范围从希腊 USD 5,470 到卢森堡 USD 22,430。
 > - 欧盟成员国教育支出平均约占 GDP 5.0%，瑞典 7.1%、芬兰 6.8%；占公共支出 10.6%。

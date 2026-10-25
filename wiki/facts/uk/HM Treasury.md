@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: government-agency
 headquarters: "London, United Kingdom"
@@ -21,13 +21,24 @@ tags:
   - region/uk
   - theme/evidence-based-policy
   - theme/public-administration
-related_concepts: []
+related_concepts:
+  - "[[Scientific Uncertainty]]"
+  - "[[Policy Science in Comparative Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Elite Interview]]"
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[The Green Book]]"
+  - "[[Association for Science and Discovery Centres]]"
+  - "[[The Royal Society]]"
+  - "[[Cabinet Office]]"
+  - "[[Modernising Government]]"
+related_arguments:
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
 confidence: medium
 status: draft
 created: 2026-10-26
@@ -56,7 +67,7 @@ updated: 2026-10-26
 > [!timeline] 发展历程
 > - **1997–2010** 新工党执政期间，财政部高级官员参与借鉴美国福利项目评估经验。[[Argument_Legrand_2012_PolStud\|(Legrand, 2012)]]
 > - **2003** 修订《绿皮书》。[[Argument_Legrand_2012_PolStud\|(Legrand, 2012)]]
-> - **2026** [[Royal Society|皇家学会]]建议把《绿皮书》中的不确定性要求转化为各部委可审计的硬指标。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, pp. 86–87)]]
+> - **2026** [[The Royal Society|皇家学会]]建议把《绿皮书》中的不确定性要求转化为各部委可审计的硬指标。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, pp. 86–87)]]
 
 ---
 

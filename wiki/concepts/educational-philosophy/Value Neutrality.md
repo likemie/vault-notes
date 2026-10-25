@@ -10,9 +10,9 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾服从于道德改良，在韦伯与20世纪实证学派中被法典化为科学基石，在批判理论中被解构为维护统治的意识形态，并在当代公共与科技竞争中凸显为区分描述性经验事实与规范性道德评价的认知脱钩求真能力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 90
-related_level: 9
-related_stars: "💎💎💎"
+related_count: 88
+related_level: 8
+related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - method/research-methods
@@ -22,19 +22,19 @@ tags:
   - theme/cognitive-decoupling
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Knowledge Production]]"
-  - "[[Positivism]]"
-  - "[[Operationalization]]"
-  - "[[Variable]]"
   - "[[Reliability]]"
   - "[[Social Regime]]"
   - "[[Educational Meliorism]]"
+  - "[[Positivism]]"
   - "[[Critical Pedagogy]]"
   - "[[Scientific Method]]"
   - "[[Incommensurability]]"
+  - "[[Variable]]"
   - "[[Discourse]]"
   - "[[Geisteswissenschaften]]"
   - "[[Bildung]]"
+  - "[[Operationalization]]"
+  - "[[Knowledge Production]]"
   - "[[Educational Privatisation]]"
   - "[[Discursive Field]]"
   - "[[Evidence-Based Education]]"
@@ -42,9 +42,13 @@ related_concepts:
   - "[[Cognitive Decoupling]]"
   - "[[Epoché]]"
   - "[[Technical Rationality]]"
+  - "[[Scientific Paradigm]]"
+  - "[[Postpositivism]]"
   - "[[Paradigm]]"
-  - "[[Policy Science in Comparative Education]]"
+  - "[[Performance Indicators]]"
   - "[[Governing by Numbers]]"
+  - "[[Geopolitics]]"
+  - "[[Policy Science in Comparative Education]]"
   - "[[Ontology]]"
   - "[[Research Question]]"
   - "[[Buen Vivir]]"
@@ -52,11 +56,6 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Subjectivism]]"
   - "[[Reflexivity]]"
-  - "[[Postpositivism]]"
-  - "[[What Works Movement]]"
-  - "[[Evaluation Research]]"
-  - "[[Politicity of Education]]"
-  - "[[Technological Agnosticism]]"
 related_theories:
   - "[[Transitology]]"
   - "[[Critical Theory]]"
@@ -64,8 +63,8 @@ related_theories:
   - "[[Critical Realism]]"
 related_methods:
   - "[[Quantitative Research]]"
-  - "[[Questionnaire]]"
   - "[[Feminist Research]]"
+  - "[[Questionnaire]]"
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
@@ -73,8 +72,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Max Weber]]"
-  - "[[Harold Noah]]"
-  - "[[Max Eckstein]]"
   - "[[Bernard Barber]]"
   - "[[Andreas Kazamias]]"
   - "[[Michael Sadler]]"
@@ -101,13 +98,14 @@ related_persons:
 related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
+  - "[[United States Congress]]"
   - "[[Education Endowment Foundation]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
-  - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Biesta_2010_SPE]]"
@@ -120,7 +118,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

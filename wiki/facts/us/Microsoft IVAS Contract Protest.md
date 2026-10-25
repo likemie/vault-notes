@@ -13,9 +13,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 8
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/us
@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Winner's Fallacy]]"
   - "[[Geopolitics]]"
+  - "[[Augmented Reality]]"
   - "[[Techno-Utopianism]]"
   - "[[Hard Power]]"
   - "[[Technological Republic]]"
@@ -36,6 +37,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Project Maven]]"
+  - "[[Department of Defense]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
 confidence: high

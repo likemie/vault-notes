@@ -13,7 +13,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -53,6 +53,7 @@ related_facts:
   - "[[Baby PISA]]"
   - "[[Times Higher Education World University Rankings]]"
   - "[[Educational Testing Service]]"
+  - "[[Department for Education]]"
   - "[[PISA for Development]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
 related_arguments:

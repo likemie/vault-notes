@@ -122,13 +122,13 @@ related_facts:
   - "[[Education Sciences Reform Act 2002]]"
   - "[[What Works Clearinghouse]]"
 related_arguments:
-  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
 confidence: high
 status: draft

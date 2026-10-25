@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -109,7 +109,7 @@ updated: 2026-10-22
 > - **2009 — *Who is [[Sadler's Garden Metaphor|Strolling Through The Global Garden]]? International Agencies and Educational Transfer*** 载于考恩与卡扎米亚斯主编的《比较教育学国际手册》，结合[[Basil Bernstein|伯恩斯坦]]语篇控制权与卡斯特流动空间理论，首创全球教育[[Champ|场域]]五位置模型；解构[[Michael Sadler|萨德勒]]花园漫步隐喻，揭示国际组织双重垄断、拉美[[Gatekeepers|守门人]]闭合机制与微观实践异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–357)]]
 > - **2011 — *Global Panaceas, Local Realities: International Agencies and the Future of Education*** 专著系统剖析国际组织推行的全球万灵药处方在各民族国家落地时遭遇的本土现实碰撞与实践撕裂。
 > - **2011 — *Pro-market [[Educational Governance Framework|Educational Governance]]: Is Argentina a black swan?*** （与 Inés Barrenechea 合著）探析阿根廷新自由主义教育治理的矛盾，揭露官方反市场话语与实际通过数字化采购（[[Conectar Igualdad|PCI]]）引入跨国科技资本的结构性张力。
-> - **2015 — *Interpreting the circulation of educational discourse across space: Searching for new vocabularies*** （与 [[Alejandro Artopoulos|Alejandro Artopoulos]] 合著）批判传统比较教育中“借用”、“借贷”等物理容器隐喻，提倡运用[[Relational Space|关系性空间]]与[[Actor-Network Theory|行动者网络理论]]解构教育话语的多中心网络化流通。[[Argument_Beech_2015_GSE|(Beech & Artopoulos, 2015, pp. 1–18)]]
+> - **2015 — *Interpreting the circulation of educational discourse across space: Searching for new vocabularies*** （与 [[Alejandro Artopoulos]] 合著）批判传统比较教育中“借用”、“借贷”等物理容器隐喻，提倡运用[[Relational Space|关系性空间]]与[[Actor-Network Theory|行动者网络理论]]解构教育话语的多中心网络化流通。[[Argument_Beech_2015_GSE|(Beech & Artopoulos, 2015, pp. 1–18)]]
 
 ---
 
@@ -131,7 +131,7 @@ updated: 2026-10-22
 > [[World Bank|世界银行]]、[[OECD|经合组织]]与[[UNESCO|教科文组织]]表面上秉持不同的发展哲学，实质上共享了一套将未来预设为单一信息时代的深层共识。机构成套推销以分权化、[[School Autonomy|学校自主权]]、教师专业化、能力本位与中央质检系统为核心的“五大支柱模型”。国际机构首先通过界定危机垄断了“问题”，接着唯独提供该模型作为唯一正当“解方”，通过双重垄断机制彻底闭合了发展中国家探索本土替代性道路的[[Discursive Field|话语空间]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–349)]]
 
 > [!claim] 命题四：拉美守门人网络与替代性政策空间的闭合（Gatekeepers & Discursive Enclosure）
-> 在阿根廷与巴西等拉美国家，本土学术精英在学术晋升过程中大批兼任教育部高官或跨国贷款评估顾问，形成多重位置身份的高度重叠。这一高度封闭的“守门人群体（[[Gatekeepers|Gatekeepers]]）”垄断了本土教育系统同全球学术空间的对接通道；他们借助对科研立项指南与定向资助（分类委托资助）的绝对控制，将外部通用教条包装为唯一科学真理，使本土学术界丧失了向国家输送独立反思方案的批判功能。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 352–353)]]
+> 在阿根廷与巴西等拉美国家，本土学术精英在学术晋升过程中大批兼任教育部高官或跨国贷款评估顾问，形成多重位置身份的高度重叠。这一高度封闭的“守门人群体（[[Gatekeepers]]）”垄断了本土教育系统同全球学术空间的对接通道；他们借助对科研立项指南与定向资助（分类委托资助）的绝对控制，将外部通用教条包装为唯一科学真理，使本土学术界丧失了向国家输送独立反思方案的批判功能。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 352–353)]]
 
 > [!claim] 命题五：微观学校再情境化的实践脱节与生态学重构（Recontextualization & Ecological Transformation）
 > 外来通用模型在落地微观学校机构时，必然遭遇制度脱节与反常变异：

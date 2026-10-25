@@ -10,7 +10,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Research Universities]]"
   - "[[Big Science]]"
-  - "[[Grandes Ecoles]]"
   - "[[Knowledge Production]]"
 related_facts:
   - "[[National Science Foundation]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

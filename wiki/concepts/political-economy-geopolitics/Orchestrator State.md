@@ -8,7 +8,7 @@ aliases:
 summary: "比较政治经济学界对缺乏中央直接财政出资权的多层级政体（尤指欧洲联盟）产业干预形态的理论定性。指超国家机构不直接充当集中出资人与投资裁决人，而是退化或转型为产业政策的“协调者与撮合者（Orchestrator）”，通过松绑成员国国家援助审查、背书跨国共同利益重要项目（IPCEI）和推动多国生产网络搭线撮合来推进战略目标，但由于出资责任被甩给各成员国国库，极易加剧成员国贫富不均并撕裂单一市场公平竞争。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
 related_methods: []
 related_facts:
   - "[[EU]]"
+  - "[[European Commission]]"
   - "[[Important Projects of Common European Interest]]"
   - "[[European Chips Act]]"
 related_arguments:
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

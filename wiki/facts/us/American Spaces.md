@@ -12,9 +12,9 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1941–至今"
 initiator_organization: "U.S. Department of State"
@@ -23,6 +23,20 @@ tags:
   - theme/public-diplomacy
   - theme/educational-diplomacy
   - theme/cultural-center
+related_concepts:
+  - "[[Public Diplomacy]]"
+  - "[[Public-Private Partnership]]"
+  - "[[Language Skills]]"
+  - "[[Grandes Ecoles]]"
+  - "[[Open-Mindedness]]"
+related_persons:
+  - "[[Confucius]]"
+related_facts:
+  - "[[Confucius Institute]]"
+  - "[[Indian Council for Cultural Relations]]"
+  - "[[United States Congress]]"
+related_arguments:
+  - "[[Argument_Custer_2021_AidData]]"
 confidence: high
 status: active
 created: 2026-10-22

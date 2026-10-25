@@ -13,7 +13,7 @@ summary: "以自然群体（学校、班级或社区）为随机分配单位、�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 42
+method_related_count: 44
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
+  - "[[Experimental Research]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Standard Error]]"
@@ -58,6 +59,7 @@ related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[What Works Clearinghouse]]"
   - "[[Success for All]]"
   - "[[Peer-Assisted Learning Strategies]]"

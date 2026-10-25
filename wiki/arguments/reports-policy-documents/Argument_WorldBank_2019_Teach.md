@@ -7,7 +7,7 @@ title: "Argument_WorldBank_2019_Teach"
 argument_key: "Argument_WorldBank_2019_Teach"
 argument_display_title: "Teach: Observer manual (1st ed.)"
 argument_kind: "report"
-argument_related_count: 42
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dcfce7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Didaktik]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Grit]]"
   - "[[Time on Task]]"
   - "[[Classroom Management]]"
   - "[[Variable]]"
@@ -52,6 +53,7 @@ related_concepts:
   - "[[Halo Effect]]"
   - "[[Predictive Validity]]"
   - "[[Class Size]]"
+  - "[[Teacher Subject Matter Knowledge]]"
   - "[[Zone of Proximal Development]]"
 related_theories:
   - "[[Human Capital Theory]]"

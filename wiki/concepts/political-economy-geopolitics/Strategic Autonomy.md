@@ -8,7 +8,7 @@ aliases:
 summary: "国家或区域性政治联盟在国际地缘对抗与全球价值链断链风险下，通过强化本土关键制造产能、多元化供应链供应来源、管控核心技术流失以及减少对外部单一主导力量的非对称依赖，确保自主制定政策与防范外部经济胁迫的战略能力。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_facts:
   - "[[Research in Schools Evaluation]]"
   - "[[EU]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
+  - "[[European Commission]]"
   - "[[European Chips Act]]"
   - "[[Important Projects of Common European Interest]]"
   - "[[CHIPS and Science Act]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-06
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,8 +26,11 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Science Capital]]"
 related_facts:
+  - "[[Department for Education]]"
+  - "[[The Royal Society]]"
   - "[[The Big Bang Fair]]"
   - "[[Gatsby Benchmarks]]"
+  - "[[World Bank Institute]]"
   - "[[UK Science Education Tracker]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
@@ -44,7 +47,7 @@ updated: 2026-10-26
 > [!policy-context] 机构概况
 > - **机构性质与法定定位** 英国全国性独立非营利慈善机构，是连接英国工程界雇主、专业工程学会（Professional Engineering Institutions, PEIs）、各级学校与中央政府的核心枢纽组织。
 > - **核心宗旨与使命** 致力于激发来自各种背景的年轻一代投身工程、技术与 [[STEM Education\|STEM]] 事业，彻底改变工程技术劳动力的多元构成，消除性别偏见与[[Socioeconomic Status|社会经济地位]]不平等，为英国高新技术产业储备未来高素质技能人才。
-> - **治理与资金架构** 由全英工程界雇主、各大工业联合体与慈善捐赠共同支持，与[[Department for Education|英国教育部]]（DfE）、科学创新与技术部（DSIT）及[[Royal Society|英国皇家学会]]保持密切的战略协同。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 68)]]
+> - **治理与资金架构** 由全英工程界雇主、各大工业联合体与慈善捐赠共同支持，与[[Department for Education|英国教育部]]（DfE）、科学创新与技术部（DSIT）及[[The Royal Society|英国皇家学会]]保持密切的战略协同。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 68)]]
 
 ---
 

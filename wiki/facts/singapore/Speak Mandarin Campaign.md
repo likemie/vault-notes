@@ -36,13 +36,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 讲华语运动（Speak Mandarin Campaign）是由新加坡建国总理[[Lee Kuan Yew|李光耀]]（[[Lee Kuan Yew|Lee Kuan Yew]]）于 1979 年 9 月正式启动的全国性长期语言文化整合重大项目，旨在消除华裔内部因多方言（闽南语、粤语、潮州话、客家话、海南话等）造成的社群割裂，确立以华语为纽带的共同文化认同与国家凝聚力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
+> 讲华语运动（Speak Mandarin Campaign）是由新加坡建国总理[[Lee Kuan Yew|李光耀]]（[[Lee Kuan Yew]]）于 1979 年 9 月正式启动的全国性长期语言文化整合重大项目，旨在消除华裔内部因多方言（闽南语、粤语、潮州话、客家话、海南话等）造成的社群割裂，确立以华语为纽带的共同文化认同与国家凝聚力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1979 年正式发起，至今已常态化持续运行四十余年。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 195)]]

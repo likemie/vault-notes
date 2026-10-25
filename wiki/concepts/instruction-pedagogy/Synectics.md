@@ -9,10 +9,10 @@ aliases:
 summary: "由威廉·戈登创立的系统性创造力隐喻与类比训练理论与方法体系，以“使陌生变得熟悉，使熟悉变得陌生”为核心认知原则。通过直接类比、拟人类比、象征类比与幻想类比四大结构化操作支架，引导学习者在不同知识域与情感体验之间构建深层隐喻桥梁，系统克服功能固着并实现创造性飞跃。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/instruction
   - theme/creativity
@@ -32,8 +32,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Avatar]]"
   - "[[Variable]]"
-  - "[[Heterogeneity]]"
-  - "[[Higher-Order Thinking Skills]]"
   - "[[Corporate R&D Labs]]"
   - "[[Dependent Variable]]"
   - "[[STEM Education]]"
@@ -50,8 +48,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Intervention Research]]"
   - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
-  - "[[Prediction Interval]]"
 related_instruments:
   - "[[Remote Associates Test]]"
 related_arguments:
@@ -60,7 +56,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -9,9 +9,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 119
-fact_related_level: 11
-fact_related_stars: "💎💎💎⭐⭐"
+fact_related_count: 120
+fact_related_level: 12
+fact_related_stars: "💎💎💎💎"
 fact_related_color: "#fecdd3"
 org_type: "foundation"
 headquarters: "London, UK"
@@ -101,6 +101,7 @@ related_persons:
 related_facts:
   - "[[Sutton Trust]]"
   - "[[Impetus]]"
+  - "[[Department for Education]]"
   - "[[Research Schools Network]]"
   - "[[The Importance of Teaching]]"
   - "[[Pupil Premium]]"

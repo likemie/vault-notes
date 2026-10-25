@@ -9,7 +9,7 @@ aliases:
 summary: "由迈克尔·波兰尼（Michael Polanyi）提出、福雷与伦德瓦尔（Foray & Lundvall）引入知识经济学的认识论概念。指植根于个体实践行动、经验感知与身体机能之中，难以用形式化语言、符号或数字完全编码和传授的个人知识；在数字时代与编码知识形成互补，成为决定持续学习力与创新能力的核心资本。"
 type: concept
 domain: "educational-philosophy"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Epistemic Stances]]"
   - "[[Powerful Knowledge]]"
-  - "[[Policy Mobility]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Social Realism]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---

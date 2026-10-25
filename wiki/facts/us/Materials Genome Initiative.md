@@ -11,7 +11,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -34,7 +34,9 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[DARPA]]"
   - "[[Office of Naval Research]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[National Strategy on Microelectronics Research]]"
+  - "[[Department of Defense]]"
   - "[[National Nanotechnology Initiative]]"
 related_arguments:
   - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"

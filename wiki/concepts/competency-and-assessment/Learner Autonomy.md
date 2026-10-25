@@ -8,10 +8,10 @@ aliases:
 summary: "学习者在明确目标与支架支持下对自身学习过程主动承担责任、进行批判性反思与元认知调节的能力与意愿。在现代因果试验中，技术辅助的自主学习需与教师主导教学解耦并析因测量，缺乏支架的放任个别化易诱发认知负荷失控与弱势学童掉队。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 54
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 49
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/autonomy
   - theme/critical-thinking
@@ -46,8 +46,6 @@ related_concepts:
   - "[[Techno-Utopianism]]"
   - "[[Learnification]]"
   - "[[Variable]]"
-  - "[[International Schools]]"
-  - "[[Emergence]]"
   - "[[Knowledge Questions]]"
   - "[[Paradigm]]"
   - "[[Working Memory]]"
@@ -61,9 +59,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Case Study]]"
-  - "[[Triangulation]]"
-  - "[[Comparative Meta-synthesis]]"
   - "[[Multi-Arm Trial]]"
   - "[[Systematic Review]]"
 related_facts:
@@ -81,7 +76,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-07-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 （学习者自主性）
@@ -117,7 +112,7 @@ updated: 2026-10-22
 > | 比较维度 | **学习者自主性（Learner Autonomy）** | **孤立自学（Isolated Self-Study）** | **[[Structured Teaching\|结构化教学]]（Structured Teaching）** | **放任式个别化（Unguided Individualisation）** |
 > |---|---|---|---|---|
 > | **核心属性** | 具备[[Metacognition\|元认知]]意识与批判反思的能动自我调节 | 脱离组织环境与人际交互的个人自主阅读 | 教师清晰目标引导与高能动互动的动态平衡 | 放弃教师组织责任、全盘推给学生的自由放任 |
-> | **支架角色** | 依赖渐退式认知脚手架（[[Scaffolding\|Scaffolding]]）达成独立 | 缺乏外部过程性支架，全凭个体先验摸索 | 教师主导搭建分步量规与反思反馈支架体系 | 抽离外部支架，假定学生天生具备自律与规划力 |
+> | **支架角色** | 依赖渐退式认知脚手架（[[Scaffolding]]）达成独立 | 缺乏外部过程性支架，全凭个体先验摸索 | 教师主导搭建分步量规与反思反馈支架体系 | 抽离外部支架，假定学生天生具备自律与规划力 |
 > | **社会互动性** | 高度社会化，在探究[[Dialogue in Education\|对话]]与同伴质询中建构 | 极低，属于封闭独白式信息获取 | 高度双向，倡导活跃的课堂研讨与[[Man-Computer Symbiosis\|人机协同]] | 碎片化，学生各自为政，课堂缺乏公共对话 |
 > | **适用边界与风险** | 需前置培养[[Epistemology\|认识论]]自信，否则面临自由失效 | 缺乏校准机制，易产生理解偏差与倦怠 | 过度程序化易滑向刻板[[Direct Instruction\|直接教学]]，需动态调控 | 严重拉大阶层鸿沟，基础脆弱学生“表面自由、实际掉队” |
 

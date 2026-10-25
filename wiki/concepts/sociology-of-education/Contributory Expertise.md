@@ -8,7 +8,7 @@ aliases:
 summary: "实践者在特定物理与社会情境中通过长期实践积累的、兼具默会性与具身性的实践智慧与手艺知识，能够应对现场偶发挑战并促成实际成效的专门知识类型。"
 type: concept
 domain: "sociology-of-education"
-related_count: 28
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,17 +36,11 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Research Utilization]]"
   - "[[Performativity]]"
-  - "[[Variable]]"
-  - "[[Reflexivity]]"
   - "[[Evidence-Informed Practice]]"
 related_theories: []
 related_methods:
   - "[[Accounts]]"
   - "[[Practitioner Enquiry]]"
-  - "[[Effect Size]]"
-  - "[[Qualitative Research]]"
-  - "[[Documentary Analysis]]"
-  - "[[In-depth Interview]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -55,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

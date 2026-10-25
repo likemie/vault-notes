@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 41
+fact_related_count: 43
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -62,6 +62,8 @@ related_facts:
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
+  - "[[Department of Defense]]"
+  - "[[United States Congress]]"
   - "[[National Strategy on Microelectronics Research]]"
   - "[[SBIR and STTR Programs]]"
   - "[[NSF Regional Innovation Engines]]"

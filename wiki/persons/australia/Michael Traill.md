@@ -51,13 +51,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 澳大利亚风险投资家、[[Policy Entrepreneur\|政策企业家]]、商业银行家；[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）创会首席执行官（2002–2014）；[[Australian Schools Plus\|澳大利亚学校加计划]]（[[Australian Schools Plus\|Australian Schools Plus]]）首任董事长（2013–2018）；澳大利亚联邦总理与内阁部[[Social Impact Investing\|社会影响力投资]]工作组（Social Impact Investing Taskforce）主席（2019–2021）。
+> - **身份位置** 澳大利亚风险投资家、[[Policy Entrepreneur\|政策企业家]]、商业银行家；[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）创会首席执行官（2002–2014）；[[Australian Schools Plus\|澳大利亚学校加计划]]（[[Australian Schools Plus]]）首任董事长（2013–2018）；澳大利亚联邦总理与内阁部[[Social Impact Investing\|社会影响力投资]]工作组（Social Impact Investing Taskforce）主席（2019–2021）。
 > - **核心角色** 连接跨国金融资本、顶级咨询公司、联邦政府高层与公立教育系统的核心中介行动者（[[Boundary Spanner]]）；主导将美国与英国的[[Venture Philanthropy\|风险慈善]]及私募股权纪律系统引入澳大利亚公共治理。
 > - **代表贡献** 创立全澳最大的风险慈善与影响力投资平台 SVA，推动建立首个面向弱势公立学校的免税募资法定慈善机构 Schools Plus，撰写回忆录《跳船》（*Jumping Ship*, 2016a）系统阐释商业纪律重塑社会公益的逻辑。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520, 524, 526, 530)]]
 

@@ -8,9 +8,9 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 38
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 42
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#fef3c7"
 tags:
   - region/global
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Home Visiting Programs]]"
   - "[[Research Utilization]]"
   - "[[Praxis]]"
   - "[[Paradigm]]"
@@ -36,7 +37,10 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
   - "[[Research Informed Practice Site]]"
+  - "[[Economic and Social Research Council]]"
   - "[[ResearchED]]"
+  - "[[UK Research and Innovation]]"
+  - "[[Department for Education]]"
   - "[[Evidence Network]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Best Evidence Encyclopedia]]"

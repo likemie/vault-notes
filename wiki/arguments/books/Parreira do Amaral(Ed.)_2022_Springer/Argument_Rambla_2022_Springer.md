@@ -9,7 +9,7 @@ title: "Argument_Rambla_2022_Springer"
 argument_key: "Argument_Rambla_2022_Springer"
 argument_display_title: "Imaginaries of Education and Innovation in the European Union"
 argument_kind: "book"
-argument_related_count: 44
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Doxa]]"
   - "[[Network Governance]]"
+  - "[[Triangular Cooperation]]"
   - "[[Policy Network]]"
   - "[[Apprenticeship]]"
   - "[[Bureaucracy]]"
@@ -49,9 +50,11 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Spatial Sortings]]"
   - "[[Value Neutrality]]"
+  - "[[Deliberative Space]]"
   - "[[Scientization of Politics]]"
   - "[[Unit of Analysis]]"
 related_theories:
+  - "[[Policy Instrumentation Theory]]"
   - "[[Realist Evaluation]]"
   - "[[Theory of Change]]"
   - "[[Neocorporatism]]"
@@ -68,6 +71,7 @@ related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[European Commission]]"
   - "[[Europe 2020 Strategy]]"
   - "[[YOUNG_ADULLLT]]"
   - "[[Youth Guarantee Scheme]]"

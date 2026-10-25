@@ -10,7 +10,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 75
+fact_related_count: 77
 fact_related_level: 7
 fact_related_stars: "💎💎⭐"
 fact_related_color: "#fecdd3"
@@ -76,9 +76,11 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Robert Marzano]]"
 related_facts:
+  - "[[Economic and Social Research Council]]"
   - "[[Pupil Premium]]"
   - "[[Sutton Trust]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Department for Education]]"
   - "[[Research Schools Network]]"
   - "[[OECD]]"
   - "[[What Works Network]]"

@@ -53,6 +53,7 @@ related_instruments: []
 related_persons:
   - "[[Kenneth Burke]]"
 related_facts:
+  - "[[Department of Defense]]"
   - "[[DARPA]]"
   - "[[American Association for the Advancement of Science]]"
   - "[[National Science Foundation]]"
@@ -76,7 +77,7 @@ title: "Argument_Fabrizio_Mowery_2005_REI"
 argument_key: "Argument_Fabrizio_Mowery_2005_REI"
 argument_display_title: "Defense-related R&D and the growth of the postwar information technology industrial complex in the United States"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"

@@ -5,7 +5,7 @@ aliases:
 summary: "学生在学校科学探究过程中实际应用于自身知识建构的隐性认识论观念与话语行动规程，与关于专业科学的形式认识论相对立，可通过立足点、意义裂隙与关系搭建等实践认识论分析方法进行微观刻画。"
 type: concept
 domain: "educational-psychology"
-related_count: 34
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
-  - "[[Scaffolding]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Recognition Theory]]"
@@ -47,7 +46,6 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments:
   - "[[Views of Nature of Science Questionnaire]]"
 related_persons: []
@@ -58,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

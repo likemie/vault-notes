@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -149,7 +149,7 @@ updated: 2026-10-22
 > > [!axis] 客观文化实在（世界三） vs 主观心理认知（世界二）的还原之争
 > > 争论焦点在于教育理论能否将波普尔的客观精神世界直接等同为主观思维加工技能。
 > >
-> > - **[[John Hattie|John Hattie]]（2009）** 主张将世界三映射为建构性理解与学生自我监控，视其为高级认知发展阶层。
+> > - **[[John Hattie]]（2009）** 主张将世界三映射为建构性理解与学生自我监控，视其为高级认知发展阶层。
 > > - **[[Argument_Rømer_2018_EPT|Thomas Aastrup Rømer]]（2018）** 批评指出，波普尔的世界三由具有客观伟大性的书籍、交响乐与科学理论构成，与个体主观学习心理分属不同本体范畴；哈蒂将世界三消解为主观自我监控，是用[[Radical Constructivism|激进建构主义]]吞噬实在论，最终导向一个丧失客观教育客体与贝多芬交响乐的贫瘠世界。
 >
 > > [!axis] 形式化认知分层 vs [[Didaktik|欧陆教学论]]实质教化（Inhalt & material [[Bildung]]）的真空之争

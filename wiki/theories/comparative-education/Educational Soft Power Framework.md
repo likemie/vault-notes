@@ -8,7 +8,7 @@ aliases:
 summary: "整合沃伊丘克的三重教育运作机制与霍利克的五维软实力模型，用于系统解构高等教育跨国实践如何催生文化、经济、人力资本及政治外交软实力资源的分析框架"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 0
+theory_related_count: 3
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -18,6 +18,11 @@ tags:
   - soft-power
   - geopolitics
   - international-relations
+related_concepts:
+  - "[[Educational Soft Power]]"
+related_arguments:
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
+  - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: draft
 created: 2026-10-25

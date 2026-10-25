@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!def] Executive Function
@@ -99,9 +99,9 @@ updated: 2026-10-22
 ---
 
 > [!feature] 执行功能的三大核心成分（Miyake 统一性与多样性框架）
-> - **[[Inhibitory Control\|抑制控制]]（Inhibitory Control / [[Cognitive Inhibition\|Cognitive Inhibition]]）** 在必要时故意抑制主导性、自动化或习惯性反应的能力。在科学探究中表现为主动压制基于直觉的经验偏误与无关知觉线索（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 4]]；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]）。
-> - **[[Cognitive Shifting\|认知转换]]（Cognitive Shifting / [[Cognitive Flexibility\|Cognitive Flexibility]]）** 亦称任务切换或心理灵活性，指在不同任务规则、思维视角或心理集之间灵活来回转换的能力。支持学习者在假设提出、实验验证与理论反思等多重角色间换轨（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 5]]）。
-> - **[[Updating and Monitoring\|更新与监控]]（[[Updating and Monitoring\|Updating and Monitoring]]）** 动态监控并修正[[Working Memory\|工作记忆]]中编码内容的能力，根据外部环境的新证据持续刷新信息表征、剔除过时数据。
+> - **[[Inhibitory Control\|抑制控制]]（Inhibitory Control / [[Cognitive Inhibition]]）** 在必要时故意抑制主导性、自动化或习惯性反应的能力。在科学探究中表现为主动压制基于直觉的经验偏误与无关知觉线索（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 4]]；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]）。
+> - **[[Cognitive Shifting\|认知转换]]（Cognitive Shifting / [[Cognitive Flexibility]]）** 亦称任务切换或心理灵活性，指在不同任务规则、思维视角或心理集之间灵活来回转换的能力。支持学习者在假设提出、实验验证与理论反思等多重角色间换轨（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 5]]）。
+> - **[[Updating and Monitoring\|更新与监控]]（[[Updating and Monitoring]]）** 动态监控并修正[[Working Memory\|工作记忆]]中编码内容的能力，根据外部环境的新证据持续刷新信息表征、剔除过时数据。
 
 > [!logic-map]- 执行功能核心三成分与高阶教育结果关系拓扑
 > ```mermaid

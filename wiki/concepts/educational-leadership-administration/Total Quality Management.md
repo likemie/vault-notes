@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -99,7 +99,7 @@ updated: 2026-10-22
 > - **全员参与与跨部门协同（Total Involvement and Cross-Functional Teams）** 打破部门壁垒，使从基层教职员工到高层管理者的所有人员都成为质量所有者与改进主体。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 735)]]
 > - **学习者与外部利益相关者导向（Customer and Learner Orientation）** 识别教育与服务的核心受众（学生、雇主、学术共同体、公众），将多样化需求转化为质量改进标准。
 > - **持续流程改进与 PDCA 循环（Continuous Process Improvement）** 通过“计划（Plan）- 执行（Do）- 检查（Check）- 处理（Act）”的四阶段循环，不断消除流程变异与低效环节。
-> - **基于客观事实与数据的决策（[[Data-Based Decision Making|Data-Based Decision Making]]）** 运用统计工具收集过程性与结果性数据，拒绝主观臆断与行政命令。
+> - **基于客观事实与数据的决策（[[Data-Based Decision Making]]）** 运用统计工具收集过程性与结果性数据，拒绝主观臆断与行政命令。
 
 > [!logic-map]- 要素关系
 > ```mermaid

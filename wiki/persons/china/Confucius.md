@@ -32,6 +32,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Ritual Propriety]]"
   - "[[Five Cardinal Relationships]]"
+  - "[[Benevolence]]"
+  - "[[Filial Piety]]"
   - "[[Dialogue in Education]]"
   - "[[Zhonghua Minzu]]"
   - "[[Selective Affinity]]"
@@ -42,8 +44,6 @@ related_concepts:
   - "[[Sage]]"
   - "[[Symbolic Boundary]]"
   - "[[Cultural Hierarchy]]"
-  - "[[Benevolence]]"
-  - "[[Filial Piety]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Cultural Models]]"
@@ -51,10 +51,10 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Lev Vygotsky]]"
-  - "[[John Dewey]]"
   - "[[Mencius]]"
   - "[[Zhu Xi]]"
   - "[[Wang Yangming]]"
+  - "[[John Dewey]]"
   - "[[Jin Li]]"
 related_facts:
   - "[[Confucius Institute]]"
@@ -63,10 +63,10 @@ related_facts:
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
   - "[[Argument_Yu_2024_CE]]"
+  - "[[Argument_Custer_2021_AidData]]"
   - "[[Argument_Wang_2025_CE]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
   - "[[Argument_Ryan_2010_ChineseLearner]]"
-  - "[[Argument_Custer_2021_AidData]]"
 confidence: high
 status: active
 created: 2026-05-22

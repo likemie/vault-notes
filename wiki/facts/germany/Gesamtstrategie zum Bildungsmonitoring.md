@@ -11,7 +11,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[International Large-Scale Assessments]]"
   - "[[Center of Calculation]]"
   - "[[Knowledge Transfer]]"
+  - "[[Test-Based Accountability]]"
   - "[[Output-Oriented Governance]]"
   - "[[Topological Spatialisation]]"
   - "[[Feedback]]"

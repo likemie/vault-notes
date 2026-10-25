@@ -10,7 +10,7 @@ aliases:
 summary: "以学生标准化考试成绩评估、监督和规制学校与教师教学实践的制度安排，核心在于将评价结果制度化地与奖惩考核挂钩，是全球教育治理中的显著特征之一"
 type: concept
 domain: "educational-policy-reform"
-related_count: 57
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -56,10 +56,9 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Systematic Review]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Documentary Analysis]]"
-  - "[[Classroom Observation]]"
   - "[[Likert Scale]]"
   - "[[Semi-structured Interview]]"
+  - "[[Documentary Analysis]]"
   - "[[Meta-analysis]]"
 related_persons:
   - "[[Stephen Ball]]"
@@ -86,7 +85,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -186,7 +185,7 @@ updated: 2026-10-22
 > 这类命题关注国际比较测试如何跨国扩散并嵌入各国国内问责体系。
 
 > [!claim] Li, Y. et al.
-> **全球比较逻辑的中观嵌入** [[PISA]]（国际学生评估项目）推动了各国在中观决策层面引入与 PISA 标准对接的全国性教育评估和监测体系，如瑞士 [[HarmoS\|HarmoS]] 标准、挪威和中国的国家教育质量监测。这些体系将比较逻辑嵌入国内问责制度，强化了[[Global Education Reform Movement\|全球教育改革运动]]（GERM）逻辑。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]
+> **全球比较逻辑的中观嵌入** [[PISA]]（国际学生评估项目）推动了各国在中观决策层面引入与 PISA 标准对接的全国性教育评估和监测体系，如瑞士 [[HarmoS]] 标准、挪威和中国的国家教育质量监测。这些体系将比较逻辑嵌入国内问责制度，强化了[[Global Education Reform Movement\|全球教育改革运动]]（GERM）逻辑。[[Argument_Li_2025_HSSC\|(Li et al., 2025)]]
 
 ---
 

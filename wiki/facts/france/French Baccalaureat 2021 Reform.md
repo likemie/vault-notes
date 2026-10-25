@@ -11,7 +11,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[National Education]]"
   - "[[Gaokao]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"

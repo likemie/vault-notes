@@ -10,7 +10,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 38
+fact_related_count: 39
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence Ecosystem]]"
+  - "[[Boundary Spanner]]"
   - "[[Policy Network]]"
   - "[[School Leadership]]"
   - "[[Literature Review]]"

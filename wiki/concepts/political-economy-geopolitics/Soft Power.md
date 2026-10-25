@@ -7,10 +7,10 @@ aliases:
 summary: "约瑟夫·奈（Joseph S. Nye）提出的国际关系与地缘政治核心概念，指行为体通过文化吸引力、政治价值观感召与具有合法性的对外政策来塑造他者偏好而非诉诸军事或经济强制的能力。在当代全球教育治理与跨国比较中，软实力演进为“以硬事实施展软权力”（Soft Power by Hard Facts），国际组织通过探究模式与调解模式输出量化指标、跨国测评排名与最佳实践工具箱，对主权国家教育体系实施远处规制与政策趋同。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 51
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 73
+related_level: 7
+related_stars: "💎💎⭐"
+related_color: "#ddd6fe"
 tags:
   - concept/political-economy-geopolitics
   - theme/soft-power
@@ -28,17 +28,27 @@ related_concepts:
   - "[[Cultural Diplomacy]]"
   - "[[Policy Brokerage]]"
   - "[[Performance Indicators]]"
+  - "[[Inquisitive Mode of Governance]]"
+  - "[[Cognitive Authority]]"
+  - "[[Meditative Mode of Governance]]"
+  - "[[Public Diplomacy]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Knowledge Diplomacy]]"
   - "[[Façade of Rationality]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Epistemic Community]]"
+  - "[[Educational Soft Power]]"
   - "[[Epistemology]]"
   - "[[Open-Mindedness]]"
   - "[[Winner's Fallacy]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Power Conversion Dilemma]]"
   - "[[Policy Borrowing]]"
   - "[[South-South Cooperation]]"
+  - "[[Governing by Numbers]]"
+  - "[[Educational Diplomacy]]"
+  - "[[Alumnus Effect]]"
+  - "[[International Branch Campus]]"
   - "[[Education Going Global]]"
   - "[[Technological Republic]]"
   - "[[Cultural Recognition]]"
@@ -46,16 +56,20 @@ related_concepts:
   - "[[Chinese Exceptionalism]]"
   - "[[International Education]]"
   - "[[Performativity]]"
-  - "[[Governing by Numbers]]"
+  - "[[Champ]]"
+  - "[[Center of Calculation]]"
+  - "[[Policy Conditionalities]]"
   - "[[Paradigm]]"
   - "[[Reference Society]]"
 related_theories:
+  - "[[Educational Soft Power Framework]]"
   - "[[Cultural Political Economy]]"
   - "[[Neo-Tributary Perspective]]"
   - "[[Tianxia Heuristic]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Critical Discourse Analysis]]"
+  - "[[Case Study]]"
 related_instruments: []
 related_persons:
   - "[[Joseph S. Nye Jr.]]"
@@ -64,11 +78,16 @@ related_persons:
   - "[[Jane Knight]]"
 related_facts:
   - "[[PISA]]"
-  - "[[Belt and Road Initiative]]"
   - "[[OECD]]"
+  - "[[Belt and Road Initiative]]"
   - "[[World Bank]]"
   - "[[International Indicators of Education Systems]]"
+  - "[[Confucius Institute]]"
   - "[[Belt and Road Education Action Plan]]"
+  - "[[Institute for Educational Quality Improvement]]"
+  - "[[Systems Approach for Better Education Results]]"
+  - "[[Ministry of Education of the People's Republic of China]]"
+  - "[[Xiamen University Malaysia]]"
 related_arguments:
   - "[[Argument_Yu_Xie_2025_JHE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -76,11 +95,14 @@ related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
+  - "[[Argument_Custer_2021_AidData]]"
+  - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

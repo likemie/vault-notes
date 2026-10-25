@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
+  - "[[Department of Defense]]"
   - "[[National Science and Technology Council]]"
   - "[[Advanced Technology Program]]"
   - "[[National Nanotechnology Initiative]]"

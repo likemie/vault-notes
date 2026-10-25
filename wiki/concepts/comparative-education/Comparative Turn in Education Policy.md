@@ -8,33 +8,63 @@ aliases:
 summary: "1990 年代初全球教育治理发生的关键范式转向，指经合组织等超国家机构放弃传统尊重各国历史制度独特性、依赖个案定性协商的国别审议模式，全面转向以标准化、大样本、跨国可比量化指标（INES、PISA、TALIS）为基准的横向联赛测评模式"
 type: concept
 domain: "comparative-education"
-related_count: 6
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 36
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/comparative-education
   - theme/governing-by-numbers
   - theme/oecd
   - theme/educational-governance
   - theme/epistemology
-related_concepts: []
-related_theories: []
-related_methods: []
+related_concepts:
+  - "[[Epistemology]]"
+  - "[[Paradigm]]"
+  - "[[International Education]]"
+  - "[[Idiographic]]"
+  - "[[Space of Equivalence]]"
+  - "[[Nomothetic]]"
+  - "[[Cognitive Authority]]"
+  - "[[Commensuration]]"
+  - "[[Student Mobility]]"
+  - "[[Variable]]"
+  - "[[Data Infrastructure]]"
+  - "[[Heterogeneity]]"
+  - "[[Competitiveness]]"
+  - "[[European Education Space]]"
+  - "[[Open Method of Coordination]]"
+  - "[[Academic Achievement]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Apprenticeship]]"
+  - "[[Construct]]"
+related_theories:
+  - "[[Structural Functionalism]]"
+  - "[[Human Capital Theory]]"
+related_methods:
+  - "[[Item Response Theory]]"
+  - "[[Design-Based Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[OECD]]"
+  - "[[International Indicators of Education Systems]]"
   - "[[PISA]]"
   - "[[Teaching and Learning International Survey]]"
+  - "[[Education at a Glance]]"
+  - "[[UNESCO]]"
+  - "[[European Commission]]"
+  - "[[Centre for Educational Research and Innovation]]"
 related_arguments:
   - "[[Argument_Niemann_Martens_2018_GSP]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

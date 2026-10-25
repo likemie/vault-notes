@@ -8,7 +8,7 @@ aliases:
 summary: "由保罗·弗莱雷提出的解放教育学核心构念，指受压迫者在提问式对话中觉察自身处境与权力支配结构，并将批判性反思与改造现实的行动融汇为反思实践的认识论深化过程。"
 type: concept
 domain: "educational-philosophy"
-related_count: 18
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,20 +22,18 @@ related_concepts:
   - "[[Construct]]"
   - "[[Culture of Silence]]"
   - "[[Praxis]]"
-  - "[[Epistemology]]"
-  - "[[Pact of Domination]]"
   - "[[Banking Model of Education]]"
-  - "[[Problem-Posing Education]]"
-  - "[[Politicity of Education]]"
+  - "[[Pact of Domination]]"
   - "[[Representational Knowledge]]"
-  - "[[South-South Cooperation]]"
-related_theories:
-  - "[[Critical Theory]]"
+  - "[[Politicity of Education]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Paulo Freire]]"
-  - "[[Plato]]"
+  - "[[Bob Darwish]]"
+  - "[[Liliana Esther Olmos]]"
+  - "[[Carlos Alberto Torres]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
@@ -44,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-25
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -119,7 +117,7 @@ updated: 2026-10-23
 > 探讨意识化如何从国家控制的扫盲工具转变为受压迫阶级挑战统治合法性与确立历史主权的武器。
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
-> **民众教育中批判意识对国家恩庇神话的解构** 莉莉安娜·奥尔莫斯与卡洛斯·托雷斯（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）指出，拉美资产阶级自由主义国家长期借由“教化主权者”（educate the sovereign）的修辞推行公立普及教育，试图将教育包装为中立恩赐以换取下层阶级的政治效忠。20 世纪 60 年代伴随弗莱雷受压迫者教育学兴起的意识化与民众教育（Educación Popular），彻底拆解了这一神话。意识化教育坚持揭示教育深层的政治性（[[Politicity of Education|Politicity of Education]]），使工农大众看清国家机器在资本积累与合法性维护中的阶级本质，把成人扫盲从国家法团主义的恩庇工具转化为底层社会自我赋权与民主反抗的批判武器，确立被压迫者作为历史创造者的主体地位。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 77–78, 84)]]
+> **民众教育中批判意识对国家恩庇神话的解构** 莉莉安娜·奥尔莫斯与卡洛斯·托雷斯（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）指出，拉美资产阶级自由主义国家长期借由“教化主权者”（educate the sovereign）的修辞推行公立普及教育，试图将教育包装为中立恩赐以换取下层阶级的政治效忠。20 世纪 60 年代伴随弗莱雷受压迫者教育学兴起的意识化与民众教育（Educación Popular），彻底拆解了这一神话。意识化教育坚持揭示教育深层的政治性（[[Politicity of Education]]），使工农大众看清国家机器在资本积累与合法性维护中的阶级本质，把成人扫盲从国家法团主义的恩庇工具转化为底层社会自我赋权与民主反抗的批判武器，确立被压迫者作为历史创造者的主体地位。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 77–78, 84)]]
 
 ---
 

@@ -85,18 +85,18 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍英裔比较教育学家、教育经济学家，哥伦比亚大学[[Normal School|师范学院]]（Teachers College, Columbia University）经济学与教育学讲座教授、前院长（1976–1981），美国[[Comparative and International Education Society|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前会长（1976–1977）。
-> - **核心角色** 战后第三代际“实证[[Scientism|科学主义]]运动”（Discourse 3, 1960–1980）三大核[[Flow|心流]]派之一——哥伦比亚大学学派（哥大学派/TC 学派）的领袖与代表人物。与[[Max Eckstein|马克斯·埃克斯坦]]（[[Max Eckstein|Max Eckstein]]）组成学术双子星，系统推动比较教育从古典历史-哲学人文主义向跨国量化[[Causal Modeling|因果建模]]与假说检验转型。卡扎米亚斯（[[Andreas Kazamias|Andreas Kazamias]]）指出，诺亚与埃克斯坦在 1969 年《走向比较教育科学》中掀起了[[Positivism|实证主义范式]]革命，其最核心的方法论主张是“用[[Variable|变量]]名称替代教育系统与国家的具体名称”，通过多元统计与大规模跨国调查揭示跨越国界的因果规律。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
+> - **核心角色** 战后第三代际“实证[[Scientism|科学主义]]运动”（Discourse 3, 1960–1980）三大核[[Flow|心流]]派之一——哥伦比亚大学学派（哥大学派/TC 学派）的领袖与代表人物。与[[Max Eckstein|马克斯·埃克斯坦]]（[[Max Eckstein]]）组成学术双子星，系统推动比较教育从古典历史-哲学人文主义向跨国量化[[Causal Modeling|因果建模]]与假说检验转型。卡扎米亚斯（[[Andreas Kazamias]]）指出，诺亚与埃克斯坦在 1969 年《走向比较教育科学》中掀起了[[Positivism|实证主义范式]]革命，其最核心的方法论主张是“用[[Variable|变量]]名称替代教育系统与国家的具体名称”，通过多元统计与大规模跨国调查揭示跨越国界的因果规律。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 > - **代表贡献** 与埃克斯坦合著里程碑专著《走向比较教育科学》（*Toward a Science of Comparative Education*, 1969）与《比较教育的科学调查》（*Scientific Investigations in Comparative Education*, 1969）；提出跨国教育研究的“变量替代系统名称”准则与跨国[[Independent Variable|自变量]]/[[Dependent Variable|因变量]]假说检验程序；深度介入[[IEA|国际教育成就评价协会]]（[[IEA]]）大规模跨国测评的数据挖掘与政策建模。
 
 > [!citation-card] 考恩论诺亚与埃克斯坦的学科起源史与学术合法化
-> [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen|Robert Cowen]]）深情评析指出，诺亚与埃克斯坦的经典著作为战后年轻一代学人确立了不可或缺的学科合法性。在清晰严密的学术史叙事中，比较教育的起源被赋予了典[[Paradigm|范式]]的秩序感与翔实的学术注释，从而使比较教育学真正昂首迈入了现代大学社会科学殿堂。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]
+> [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）深情评析指出，诺亚与埃克斯坦的经典著作为战后年轻一代学人确立了不可或缺的学科合法性。在清晰严密的学术史叙事中，比较教育的起源被赋予了典[[Paradigm|范式]]的秩序感与翔实的学术注释，从而使比较教育学真正昂首迈入了现代大学社会科学殿堂。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]
 >
 > *Professionally, they had also, earlier, solved one of my problems as a student: where is there a history of comparative education? It was there in their classic text (Noah & Eckstein, 1969). Here the origins of the [[Champ|field]] were set out with exemplary clarity. The footnoting was scholarly and clearly a flurry of research had been done... The history legitimated me.*
 

@@ -11,7 +11,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -32,8 +32,10 @@ related_methods:
   - "[[Cost-Benefit Analysis]]"
 related_instruments: []
 related_persons:
+  - "[[James C. Scott]]"
   - "[[Keith Morrison]]"
 related_facts:
+  - "[[NAPLAN]]"
   - "[[My School Website]]"
   - "[[Gonski 2.0]]"
   - "[[Education Endowment Foundation]]"

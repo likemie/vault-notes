@@ -8,7 +8,7 @@ aliases:
 summary: "在数字虚拟世界与交互式学习环境中代表人类用户或人工智能系统的可配置拟人化数字表征；在质性研究中作为投射技术与身份实验媒介，在人机交互与智能探究中作为提供自适应脚手架与即时诊断的拟人教学导师。"
 type: concept
 domain: "educational-technology"
-related_count: 29
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,17 +36,12 @@ related_concepts:
   - "[[Presence]]"
   - "[[Informed Consent]]"
   - "[[Research Ethics]]"
-  - "[[Dependent Variable]]"
-  - "[[Rich and Thick Description]]"
   - "[[Intelligent Tutoring Systems]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Projection Technique]]"
   - "[[Role-playing]]"
-  - "[[Effect Size]]"
-  - "[[Focus Group]]"
-  - "[[Case Study]]"
 related_instruments: []
 related_persons:
   - "[[Jürgen Habermas]]"
@@ -57,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

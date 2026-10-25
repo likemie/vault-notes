@@ -10,9 +10,9 @@ aliases:
 summary: "大学与企业之间在正式协议框架下建立的有目的、深协同的制度化参与关系，横跨研究学术、教育学习与公共效益三大维度；其历史历经战后脱钩与 1980 年代法制重构，在释放实体创新潜力的同时伴生微观组织碎片化与代工车间异化的深层张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 93
-related_level: 9
-related_stars: "💎💎💎"
+related_count: 102
+related_level: 10
+related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/university-industry-collaboration
@@ -52,6 +52,10 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[University-Industry Co-location]]"
   - "[[Tacit Knowledge]]"
+  - "[[Industry Advisory Board]]"
+  - "[[Absorptive Capacity]]"
+  - "[[Research Impact]]"
+  - "[[Proof of Concept Programs]]"
   - "[[Research Translation]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Market Fundamentalism]]"
@@ -71,6 +75,7 @@ related_theories:
   - "[[Values Alignment Model]]"
 related_methods:
   - "[[Matching]]"
+  - "[[Case Study]]"
   - "[[In-depth Interview]]"
 related_persons:
   - "[[Fred Block]]"
@@ -81,6 +86,7 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Semiconductor Research Corporation]]"
   - "[[Industry-University Cooperative Research Centers]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[Advanced Technology Program]]"
   - "[[DARPA]]"
   - "[[Sematech]]"
@@ -96,6 +102,7 @@ related_facts:
   - "[[Albany NanoTech Complex]]"
   - "[[EU]]"
   - "[[Important Projects of Common European Interest]]"
+  - "[[Synthesis and Solid State Pharmaceutical Centre]]"
   - "[[University Industry Demonstration Partnership]]"
 related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
@@ -115,12 +122,14 @@ related_arguments:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_UIDP_2012_PartnershipContinuum]]"
   - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
+  - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
+  - "[[Argument_ODwyer_Filieri_OMalley_2023_JTT]]"
   - "[[Argument_Schulze-Cleven_2017_HE]]"
   - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

@@ -60,10 +60,10 @@ related_facts:
   - "[[Schulqualität Allgemeinbildung]]"
 related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
-  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16]]"
   - "[[Argument_Kickert_1995_Governance]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Legrand_2012_PolStud]]"
@@ -78,7 +78,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -198,7 +198,7 @@ updated: 2026-10-23
 > 剖析新治理工具在单体学校基层面临的非线性阻滞，揭示单纯数据回传如何因忽略复杂情境而难以兑现政策承诺。
 
 > [!claim] Manitius, V. & van Holt, N.
-> **新治理工具的单校成效缺失与理论-实践张力** 德语区基础教育广泛引入以[[School Inspection|外部学校督导]]（Schulinspektion）与全域学业统考（[[Vergleichsarbeiten|校际比较测试]]，Vergleichsarbeiten，简称 VERA）为核心的产出导向调控工具，其深层假设在于量化数据回传能自发驱动基层学校识别薄弱并提升质量。然而实证检验表明，这些新治理工具在单体学校层面遭遇普遍的成效缺失（mangelnde Effekte auf Einzelschulebene；Demski, 2017）；督导报告常被搁置在文件柜中，教师面对抽象统计数字产生认知防御与抵触，数据供给并未转化为微观课堂质量提升。这一事实印证了与新治理绑定的线性转移设想受挫，本质上重现了德国教育学思想史中经典的理论-实践困境（Theorie-[[Praxis|Praxis]]-Problem），促使教育治理研究必须突破两极模型的局限，深入探究中层研训机构的转译支持与教师教育制度化转化。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
+> **新治理工具的单校成效缺失与理论-实践张力** 德语区基础教育广泛引入以[[School Inspection|外部学校督导]]（Schulinspektion）与全域学业统考（[[Vergleichsarbeiten|校际比较测试]]，Vergleichsarbeiten，简称 VERA）为核心的产出导向调控工具，其深层假设在于量化数据回传能自发驱动基层学校识别薄弱并提升质量。然而实证检验表明，这些新治理工具在单体学校层面遭遇普遍的成效缺失（mangelnde Effekte auf Einzelschulebene；Demski, 2017）；督导报告常被搁置在文件柜中，教师面对抽象统计数字产生认知防御与抵触，数据供给并未转化为微观课堂质量提升。这一事实印证了与新治理绑定的线性转移设想受挫，本质上重现了德国教育学思想史中经典的理论-实践困境（Theorie-[[Praxis]]-Problem），促使教育治理研究必须突破两极模型的局限，深入探究中层研训机构的转译支持与教师教育制度化转化。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
 
 ---
 

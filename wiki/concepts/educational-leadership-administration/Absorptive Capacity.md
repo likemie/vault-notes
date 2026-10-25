@@ -7,10 +7,10 @@ aliases:
 summary: "组织识别、吸收并情境化应用外部知识的能力；在教育与治理中取决于实践者认知基础、内部沟通网络与支持性领导，调节科研证据向微观行动的转化成效。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 52
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 49
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - field/educational-leadership-administration
   - theme/knowledge-mobilisation
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Reflexivity]]"
   - "[[Logic Model]]"
-  - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Competitiveness]]"
   - "[[Heterogeneity]]"
@@ -54,10 +53,10 @@ related_arguments:
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Glitz_2020_AmEconRev]]"
+  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Cohen_2025_JTT]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
-  - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
@@ -65,7 +64,6 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Formative Program Evaluation]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Network Analysis]]"
 related_persons:
   - "[[Keith Morrison]]"
   - "[[Mark Rickinson]]"
@@ -74,11 +72,10 @@ related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[Monash Q Project]]"
   - "[[OECD]]"
-  - "[[Schulen im Team]]"
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

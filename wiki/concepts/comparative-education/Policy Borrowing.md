@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 122
+related_count: 126
 related_level: 12
 related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
@@ -61,14 +61,18 @@ related_concepts:
   - "[[Global Educational Discourse]]"
   - "[[Gatekeepers]]"
   - "[[Discursive Field]]"
-  - "[[Methodological Statism]]"
-  - "[[Policy Ambassador]]"
+  - "[[Mutual Learning]]"
+  - "[[Triangular Cooperation]]"
+  - "[[Academic-Administrator Entrepreneurs]]"
+  - "[[Liberation Theology]]"
   - "[[Representational Knowledge]]"
   - "[[South-South Cooperation]]"
   - "[[Concept Mapping]]"
   - "[[Bildung]]"
   - "[[Rashomon Effect]]"
+  - "[[Policy Ambassador]]"
   - "[[Construct]]"
+  - "[[Methodological Statism]]"
   - "[[Revolutionism]]"
   - "[[Network Governance]]"
   - "[[Performance Indicators]]"
@@ -124,7 +128,7 @@ related_facts:
   - "[[GEMS Education]]"
   - "[[World Bank]]"
   - "[[UNESCO]]"
-  - "[[Participatory Budgeting]]"
+  - "[[Chicago Boys]]"
   - "[[Prussian Draft Education Law of 1819]]"
   - "[[Common School Movement]]"
   - "[[Liberal Studies]]"

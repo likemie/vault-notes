@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -111,7 +111,7 @@ updated: 2026-10-22
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 教学质量不能仅由师生静态资格或终结性试卷分数间接推知，微观教学过程本身即具有独立的[[Epistemic Value|认识论价值]]；通过科学抽样与锚定量规，动态复杂的课堂互动能够被可靠降维与客观测度。
 > - **研究者角色** 跨越“非侵入性被动编码员”到“[[Reflexivity|反思性]]临床教研指导员”的连续光谱。大规模问责与评估强调观察员的中立与客观，而形成性辅导强调观察者与教师的循证对话。
-> - **有效性标准** [[Inter-Rater Reliability|评分者间信度]]（IRR）、[[Content Validity|内容效度]]、[[Construct Validity|构念效度]]、对学生学业增益的[[Predictive Validity|预测效度]]（[[Predictive Validity|Predictive Validity]]）及跨文化[[Measurement Invariance|测量等值性]]。
+> - **有效性标准** [[Inter-Rater Reliability|评分者间信度]]（IRR）、[[Content Validity|内容效度]]、[[Construct Validity|构念效度]]、对学生学业增益的[[Predictive Validity|预测效度]]（[[Predictive Validity]]）及跨文化[[Measurement Invariance|测量等值性]]。
 > - **不声称回答的问题** 单凭有限频次的教学观察不能直接推断教师的隐性学科本体知识储备或备课心理表征；脱离[[Pre-test and Post-test|前测]]基线的观察得分不能等同于教师因果增值效能。
 
 教学观察在教育实证研究的设计框架中呈现多维的方法层级结构。

@@ -9,7 +9,7 @@ aliases:
 summary: "政策转移研究中指代政策技术、评价工具、法律文本或具体操作规程直接硬性复制的分析概念，区别于理念与话语扩散的软政策转移；在跨国教育与社会政策治理中，硬政策转移常体现为国际组织或主权国家将标准化指标体系、评估规程及专业执行机构跨国直接复制。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,7 +36,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
   - "[[Analytic Framework]]"
-  - "[[Multiple-Choice Questions]]"
 related_instruments:
   - "[[Collegiate Learning Assessment]]"
 related_facts:
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

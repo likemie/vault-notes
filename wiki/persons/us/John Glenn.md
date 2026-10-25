@@ -8,7 +8,7 @@ summary: "美国二战海军陆战队战斗机飞行员、首位环绕地球飞�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -32,6 +32,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Federal Acquisition Streamlining Act of 1994]]"
+  - "[[Department of Defense]]"
   - "[[National Aeronautics and Space Administration]]"
   - "[[Palantir Technologies]]"
 related_arguments:

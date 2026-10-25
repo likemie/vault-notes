@@ -11,9 +11,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 11
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 8
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "2010–至今"
 initiator_organization: "World Bank"
@@ -26,23 +26,21 @@ tags:
   - theme/stem-education
   - theme/human-capital
 related_concepts:
-  - "[[Human Capital Theory]]"
-  - "[[Construct]]"
-  - "[[Questionnaire]]"
-  - "[[Performance Indicators]]"
-  - "[[Epistemic Governance]]"
   - "[[Workforce Development]]"
 related_facts:
   - "[[World Bank]]"
-  - "[[Systems Approach for Better Education Results]]"
   - "[[PISA]]"
+  - "[[TIMSS]]"
+  - "[[Systems Approach for Better Education Results]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
 related_arguments:
   - "[[Argument_Zapp_2017_IJED]]"
+related_theories:
+  - "[[Human Capital Theory]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 # Skills Toward Employment and Productivity

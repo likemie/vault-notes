@@ -8,10 +8,10 @@ aliases:
 summary: "教师与学生在教学活动前共同明确的核心认知理解与概念迁移目标；但在新泰勒主义问责与循证政策规训下，原本指向深层认知建构的学习意图容易异化为形式主义的白板打卡与管理监控指标。"
 type: concept
 domain: "curriculum"
-related_count: 42
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 38
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/formative-assessment
   - theme/instruction
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
   - "[[Self-control]]"
-  - "[[Higher-Order Thinking Skills]]"
   - "[[Visible Learning]]"
   - "[[Critical Pedagogy]]"
   - "[[Disciplina and Doctrina]]"
@@ -49,10 +48,7 @@ related_theories:
   - "[[Behaviorism]]"
   - "[[Phenomenology]]"
   - "[[Critical Theory]]"
-related_methods:
-  - "[[Classroom Observation]]"
-  - "[[Discourse Analysis]]"
-  - "[[Qualitative Interview]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -71,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

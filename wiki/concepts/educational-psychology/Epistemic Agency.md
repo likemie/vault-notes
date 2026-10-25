@@ -7,9 +7,9 @@ aliases:
 summary: "学习者在知识建构、标准评估与探究决策中作为认知主体深度参与的能动权能，强调超越机械遵循预设程序，共同协商并塑造共同体的认识论准则，是指导式探究区别于直接讲授的核心标志"
 type: concept
 domain: "educational-psychology"
-related_count: 71
-related_level: 7
-related_stars: "💎💎⭐"
+related_count: 69
+related_level: 6
+related_stars: "💎💎"
 related_color: "#ddd6fe"
 tags:
   - theme/epistemic-cognition
@@ -57,7 +57,6 @@ related_concepts:
   - "[[Reliable Epistemic Processes]]"
   - "[[Operationalization]]"
   - "[[Scientific Literacy]]"
-  - "[[Theoretical Validity]]"
   - "[[Ecological Validity]]"
   - "[[Control of Variables Strategy]]"
   - "[[Interaction Effect]]"
@@ -71,7 +70,6 @@ related_methods:
   - "[[Design-Based Research]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
-  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Interactional Ethnography]]"
   - "[[Discourse Analysis]]"
@@ -97,7 +95,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

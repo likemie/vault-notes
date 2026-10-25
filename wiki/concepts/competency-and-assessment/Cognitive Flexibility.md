@@ -9,10 +9,10 @@ aliases:
 summary: "个体根据不断变化的环境情境、目标约束与反馈信息，在不同心智图式、思维范畴或解题策略之间灵活转换与重组的高阶执行功能与创造性思维底层机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 40
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/cognitive-science
   - theme/learning-science
@@ -52,7 +52,6 @@ related_theories:
 related_methods:
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

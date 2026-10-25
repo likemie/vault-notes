@@ -15,7 +15,7 @@ summary: "一种让参与者在具身虚构情境或人机协同中扮演特定�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 47
+method_related_count: 46
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -62,7 +62,6 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
-  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
 related_instruments: []
@@ -84,7 +83,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

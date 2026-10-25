@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "国家公立综合性大学 / 旗舰高等教育机构"
 headquarters: "柬埔寨金边（Phnom Penh, Cambodia）"
@@ -39,6 +39,7 @@ related_facts:
   - "[[Erasmus Programme]]"
 related_arguments:
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
 confidence: high
 status: draft
 created: 2026-10-20

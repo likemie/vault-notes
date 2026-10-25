@@ -10,7 +10,7 @@ subtype: organization
 region: china
 fact_region: "china"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -45,9 +45,11 @@ related_persons:
 related_facts:
   - "[[Forum on China-Africa Cooperation]]"
   - "[[Belt and Road Initiative]]"
+  - "[[MOFCOM Scholarship]]"
 related_arguments:
   - "[[Argument_King_2020_ECNUROE]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
+  - "[[Argument_Zhu_Yang_2023_HEP]]"
 confidence: high
 status: draft
 created: 2026-10-20

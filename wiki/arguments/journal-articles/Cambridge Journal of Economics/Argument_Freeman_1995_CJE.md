@@ -36,6 +36,7 @@ related_concepts:
   - "[[Lean Production]]"
   - "[[Competitiveness]]"
   - "[[Industrial District]]"
+  - "[[Home Environment]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Evolutionary Economics]]"
@@ -77,7 +78,7 @@ title: "Argument_Freeman_1995_CJE"
 argument_key: "Argument_Freeman_1995_CJE"
 argument_display_title: "The 'National System of Innovation' in historical perspective"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"

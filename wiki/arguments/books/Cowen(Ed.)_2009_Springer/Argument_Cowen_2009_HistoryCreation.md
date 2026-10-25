@@ -73,7 +73,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 ---
 
@@ -94,7 +94,7 @@ updated: 2026-10-22
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Comparative History of Comparative Education\|比较教育学的比较史]]**<br>Comparative History of Comparative Education | 将比较方法论与批判史学反思引入学科自身演进，主张打破英美单一中心主义，整合多中心区域经验与被遮蔽的历史主体。（pp.8–9） |
-> | **[[Academic Iconography\|学科肖像学]]与传统的发明**<br>Iconographies and Invented Traditions | 揭示学科如何通过将特定历史人物（如[[Michael Sadler\|Michael Sadler]]）神圣化为图腾符号来建构虚假的学术传统，批判其在理论层面造成的认知混淆。（p.9） |
+> | **[[Academic Iconography\|学科肖像学]]与传统的发明**<br>Iconographies and Invented Traditions | 揭示学科如何通过将特定历史人物（如[[Michael Sadler]]）神圣化为图腾符号来建构虚假的学术传统，批判其在理论层面造成的认知混淆。（p.9） |
 > | **未来决定过去的历史诠释学**<br>The Epistemological Paradox | 揭示历史研究中事实证据可物理稳定、提问逻辑永远取决于未来视域的动态[[Epistemology\|认识论]]悖论，阐明每一代人重写学科史的必然性。（pp.9–10） |
 > | **元认识论假设**<br>Meta-Epistemic Assumptions | 考察不同国家和学术体制中主导比较教育[[Knowledge Production\|知识生产]]的深层哲学与社会学预设（如美国的功能主义 vs 英国文化主义对社会学的排斥）。 |
 
@@ -114,7 +114,7 @@ updated: 2026-10-22
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **经典文献样本** | 聚焦 Noah and Eckstein (1969)《走向比较教育科学》、Bereday (1964)《教育中的比较方法》、[[Michael Sadler\|Michael Sadler]]（Sadler, 1964/1900）经典演讲文本。 |
+> | **经典文献样本** | 聚焦 Noah and Eckstein (1969)《走向比较教育科学》、Bereday (1964)《教育中的比较方法》、[[Michael Sadler]]（Sadler, 1964/1900）经典演讲文本。 |
 > | **参照学科样本** | 涵盖 William Dalrymple (2007) 莫卧儿帝国史、Arthur Herman (2006) 苏格兰[[Enlightenment\|启蒙运动]]史、Norman Davies (1997) 与 Tony Judt (2007) 欧洲史，以及 Randall Collins (1998)《哲学社会学》、Robert W. Friedrichs (1970)《社会学之社会学》、James R. Bartholomew (1989) 日本现代科学建制史。 |
 > | **考察人物与传统** | 涵盖[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）、[[Joseph Lauwerys\|约瑟夫·劳韦里斯]]（Joseph Lauwerys）、[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）、多明戈·福斯蒂诺·萨米恩托（Domingo Faustino Sarmiento）、阿尼西奥·特谢拉（Anísio Teixeira），以及隐形女性学者安·德赖兰（Ann Dryland）和哈廷盖夫人（Madame Hattinguais）等。 |
 
@@ -212,7 +212,7 @@ updated: 2026-10-22
 > 1. **拉美先锋思想的沉沦** 阿根廷的 Sarmiento 既是深刻洞察美洲文明与野蛮冲突的政治家，又是以跨国考察重构阿根廷国民教育体系的杰出比较教育实践家；巴西的 Teixeira 则是[[John Dewey\|约翰·杜威]]（John Dewey）哲学的积极传播者与巴西现代公立教育的奠基人，其跨国学术联结横跨美洲与欧洲。然而，西方主导的比较教育正史对两国的历史记载几乎为零，学者们只能在专业期刊零星片段中寻觅线索。（pp.8–9）
 > 2. **女性在[[Disciplinary Institutionalization|学科建制]]中的隐形** 考恩点名指出了 Ann Dryland 与 Madame Hattinguais 等女性学者的历史遭遇。她们在大学课堂、学会建立和战后跨国教育交流中做出了不可磨灭的贡献，真实地活在历史之中；但在男性学者垄断的文献编纂中，她们却彻底消失了。比较史必须承担起让隐匿者重新显影（make visible）的道义责任。（p.9）
 
-为将宏观倡议转化为可执行的学术实践，考恩提出了依托大型基金会（如 Gulbenkian 或 Hoover Foundation）资助的跨国协同研究架构，由 Harold Noah、Max Eckstein、[[Andreas Kazamias|Andreas Kazamias]]、Wolfgang Mitter 与瓦尔·鲁斯特（[[Val D. Rust|Val Rust]]）等资深学者组成学术顾问委员会（Advisory Board），指导研究团队系统推进五大探究维度：
+为将宏观倡议转化为可执行的学术实践，考恩提出了依托大型基金会（如 Gulbenkian 或 Hoover Foundation）资助的跨国协同研究架构，由 Harold Noah、Max Eckstein、[[Andreas Kazamias]]、Wolfgang Mitter 与瓦尔·鲁斯特（[[Val D. Rust|Val Rust]]）等资深学者组成学术顾问委员会（Advisory Board），指导研究团队系统推进五大探究维度：
 
 > [!dimension] 比较教育学比较史的五大探究维度
 > - **跨学科比较借鉴（Comparative Disciplines）**
@@ -222,9 +222,9 @@ updated: 2026-10-22
 > - **国别元认识论假设解构（Meta-Epistemologies）**
 >   深入剖析美、英、法、德等国比较教育背后的社会学预设、语言转向、后现代转向及空间转向。
 > - **跨洲关键人物深度评传（Biographical Deepening）**
->   超越表面化的机构头衔，为 [[George Bereday]]、[[Joseph Lauwerys\|Joseph Lauwerys]] 等跨国思想行动者撰写严谨的史学家评传。
+>   超越表面化的机构头衔，为 [[George Bereday]]、[[Joseph Lauwerys]] 等跨国思想行动者撰写严谨的史学家评传。
 > - **[[Academic Iconography\|学科肖像学]]与传统发明批判（Iconography and Invention of Tradition）**
->   批判性审视对[[Michael Sadler\|Michael Sadler]] 等历史图腾的非[[Reflexivity\|反思性]]崇拜，揭示学科起源神话的社会建构本质。（p.9）
+>   批判性审视对[[Michael Sadler]] 等历史图腾的非[[Reflexivity\|反思性]]崇拜，揭示学科起源神话的社会建构本质。（p.9）
 
 > [!warrant]- 学科比较本质对自身历史反思的方法论要求
 > 比较教育学自身的学科核心是比较，因此对其自身历史的考查不能退化为孤立的国别史或英美垄断史；唯有将比较原则施加于学科史自身，通过跨地域、跨群体、跨认识论的横向对照，才能构建起名副其实的[[Comparative History of Comparative Education\|比较教育学比较史]]。（pp.8–9）
@@ -237,9 +237,9 @@ updated: 2026-10-22
 > 比较教育学至今未能理解自身的肖像学建构，将特定人物神圣化为起源图腾；而历史编纂的深层悖论在于：事实虽可被动归档，但赋予其生命的问题永远由未来与当下所界定。（pp.9–10）
 
 > [!evidence-grid] 肖像化建构与历史哲学诠释学命题的文本依据
-> - **对萨德勒符号化崇拜的解构** [[Michael Sadler\|Michael Sadler]] 虽为杰出公职人员与教育领袖，但学科赋予其近乎神圣的崇高地位。他在 1900 年关于外国教育制度研究的著名演讲在学理上造成的困惑远多于澄清，其被永久固定在正统史学叙事之中，本身就是传统的发明与学科肖像学的典型产物。（p.9）
-> - **关键跨国行动者深层史学研究的匮乏** [[George Bereday]] 与[[Joseph Lauwerys\|Joseph Lauwerys]] 跨越洲际联结了众多思想与人物（如 Lauwerys 与[[UNESCO\|联合国教科文组织]] [United Nations Educational, Scientific and Cultural Organization, UNESCO]、[[Jean Piaget\|让·皮亚杰]]（Jean Piaget）、[[International Education\|国际教育]]局 [International Bureau of Education, IBE]、Teixeira 与平冢益德（Masunori Hiratsuka）的联结），但学界对其熟知主要停留于演讲魅力与机构声望，缺乏严肃史家视角的深层评传。
-> - **世代重写的历史哲学悖论** [[Andreas Kazamias\|Andreas Kazamias]] 援引 T. S. Eliot 的名言指出，每一代人必须重写其历史。档案材料与证据可以通过学术劳动被稳固并预先准备，但提出问题的意识却无法预设，在认识论上呈现出未来决定过去的反向机制。（pp.9–10）
+> - **对萨德勒符号化崇拜的解构** [[Michael Sadler]] 虽为杰出公职人员与教育领袖，但学科赋予其近乎神圣的崇高地位。他在 1900 年关于外国教育制度研究的著名演讲在学理上造成的困惑远多于澄清，其被永久固定在正统史学叙事之中，本身就是传统的发明与学科肖像学的典型产物。（p.9）
+> - **关键跨国行动者深层史学研究的匮乏** [[George Bereday]] 与[[Joseph Lauwerys]] 跨越洲际联结了众多思想与人物（如 Lauwerys 与[[UNESCO\|联合国教科文组织]] [United Nations Educational, Scientific and Cultural Organization, UNESCO]、[[Jean Piaget\|让·皮亚杰]]（Jean Piaget）、[[International Education\|国际教育]]局 [International Bureau of Education, IBE]、Teixeira 与平冢益德（Masunori Hiratsuka）的联结），但学界对其熟知主要停留于演讲魅力与机构声望，缺乏严肃史家视角的深层评传。
+> - **世代重写的历史哲学悖论** [[Andreas Kazamias]] 援引 T. S. Eliot 的名言指出，每一代人必须重写其历史。档案材料与证据可以通过学术劳动被稳固并预先准备，但提出问题的意识却无法预设，在认识论上呈现出未来决定过去的反向机制。（pp.9–10）
 
 > [!exegesis]- 萨德勒图腾解构与劳韦里斯跨洲网络
 > 考恩指出，比较教育学尚未形成对自身肖像学（Iconographies）的批判自省：

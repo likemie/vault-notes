@@ -9,7 +9,7 @@ aliases:
 summary: "个体理解人工智能基本运作机制、能力边界与算法偏见，能够维持认识论警觉并负责任地将智能工具作为放大人类认知与高阶思维而非替代自身思考的综合素养范式。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 43
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Evaluative Judgement]]"
   - "[[Feedback Literacy]]"
   - "[[Epistemic Responsibility]]"
+  - "[[Coding Education]]"
   - "[[Paradigm]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Dependence]]"
@@ -66,6 +67,8 @@ related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
+related_facts:
+  - "[[The Royal Society]]"
 confidence: high
 status: active
 created: 2026-08-22
@@ -190,7 +193,7 @@ updated: 2026-10-26
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者 |
 > |---|---|---|---|
-> | **认知放大原则** | 防范[[Cognitive Offloading\|认知外包]]，将智能工具作为激发好奇心与深化反思的脚手架。 | K-12 科学教育、国家课程大纲与探究实验室 | [[Royal Society\|The Royal Society]] |
+> | **认知放大原则** | 防范[[Cognitive Offloading\|认知外包]]，将智能工具作为激发好奇心与深化反思的脚手架。 | K-12 科学教育、国家课程大纲与探究实验室 | [[The Royal Society]] |
 > | **认知调节中介** | AI 素养决定人机交互中的[[Epistemology\|认识论]]警觉，调节思维走向协同增益或侵蚀。 | 高校学术写作、人机协同创意设计与编程学习 | Li et al. |
 > | **课程测评重构** | 倒逼课程全域渗透并转向基于提示词链溯源与现场答辩的过程性评价。 | 教育评价改革、资格考试与学位考核设计 | The Royal Society; Li et al. |
 > | **认识论实践转向** | 超越提示词技巧，将算法输出作为探究对象并融合评价性判断与反馈素养。 | 学术探究实践、人机协同写作与专业认识论社会化 | Du & Yuan |

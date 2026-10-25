@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 53
+fact_related_count: 57
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Learning Styles]]"
   - "[[Self-Improving School System]]"
+  - "[[Evidence Culture]]"
   - "[[Reflexivity]]"
   - "[[Business as Usual]]"
   - "[[Evidence-Informed Practice]]"
@@ -64,6 +65,8 @@ related_persons:
   - "[[Michael Gove]]"
   - "[[John Hattie]]"
 related_facts:
+  - "[[Department for Education]]"
+  - "[[HM Treasury]]"
   - "[[PISA]]"
   - "[[Grammar School]]"
   - "[[Education Endowment Foundation]]"
@@ -72,6 +75,7 @@ related_facts:
   - "[[Sutton Trust]]"
   - "[[OECD]]"
   - "[[What Works Network]]"
+  - "[[Cabinet Office]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
 related_arguments:
   - "[[Argument_Bainbridge_2022_ROE]]"

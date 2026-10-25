@@ -7,7 +7,7 @@ title: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_key: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_display_title: "Working Out What Works: The Case of the Education Endowment Foundation in England"
 argument_kind: "journal-article"
-argument_related_count: 133
+argument_related_count: 137
 argument_related_level: 13
 argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -46,8 +46,8 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Unit of Analysis]]"
   - "[[Evaluation Research]]"
-  - "[[Statistical Analysis Plan]]"
   - "[[Publication Bias]]"
+  - "[[Statistical Analysis Plan]]"
   - "[[Seed Funding]]"
   - "[[Attrition]]"
   - "[[Pride in Learning]]"
@@ -76,11 +76,13 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Homework]]"
   - "[[Central Question]]"
+  - "[[Extracurricular Activities]]"
   - "[[Performance Pay]]"
   - "[[Structured Teaching]]"
   - "[[Effective Sample Size]]"
   - "[[Lesson Study]]"
   - "[[International Education]]"
+  - "[[Free School Meals]]"
   - "[[Fade-out Effect]]"
   - "[[Research Purpose]]"
   - "[[Theoretical Validity]]"
@@ -128,6 +130,7 @@ related_methods:
   - "[[Difference-in-Differences]]"
   - "[[Propensity Score Matching]]"
   - "[[Matching]]"
+  - "[[Experimental Research]]"
   - "[[Sample Size Determination]]"
   - "[[Efficacy Trial]]"
   - "[[Effectiveness Trial]]"
@@ -152,6 +155,7 @@ related_facts:
   - "[[Race to the Top]]"
   - "[[Sutton Trust]]"
   - "[[Impetus]]"
+  - "[[Department for Education]]"
   - "[[What Works Network]]"
   - "[[BHP Foundation]]"
   - "[[Building a Global Evidence Ecosystem for Teaching]]"
@@ -332,7 +336,7 @@ updated: 2026-10-26
 > [!index-table] 实施与过程评估（IPE）六大核心核查维度（基于 Humphrey et al., 2016 与 EEF, 2019b，pp. 53–54）
 > | 评估维度 | 核心核查内容 | 方法学支撑文献与工具要求 |
 > |---|---|---|
-> | **干预方案要素界定** | 明确界定干预的核心要素（Active Ingredients）、理论变革模型（[[Theory of Change\|Theory of Change]]）与不可替代的操作规程 | 对照 [[TIDieR]] 准则（Hoffmann et al., 2014）进行标准化解构，避免方案模糊不清。 |
+> | **干预方案要素界定** | 明确界定干预的核心要素（Active Ingredients）、理论变革模型（[[Theory of Change]]）与不可替代的操作规程 | 对照 [[TIDieR]] 准则（Hoffmann et al., 2014）进行标准化解构，避免方案模糊不清。 |
 > | **[[Implementation Fidelity\|实施保真度]]与适应性** | 评估教师在多大程度上忠实执行了原设计；识别基层学校做出的良性校本调试与破坏性执行偏离 | 依据 Durlak and DuPre (2008) 框架，通过课堂观察编码与培训出勤追踪落地保真度。 |
 > | **干预剂量与参与依从性** | 记录参与者实际接受干预的频次、时长与课时达标率；测量从[[Intent-to-Treat Analysis\|意向性治疗分析]]（Intent-to-Treat, ITT）到实际处理的依从衰减 | 线上学习日志、签到表；在统计上采用工具变量[[Complier Average Causal Effect\|依从者平均因果效应]]（Complier Average Causal Effect, CACE）估计实际接受干预效应。 |
 > | **对照组常态活动追踪** | 详尽调查对照组学校在实验期间开展的[[Business as Usual\|常态教学]]具体内容，排查是否存在自发竞品污染 | 对照组教师专项[[Questionnaire\|问卷]]与访谈，准确判定干预组相比于常态教学的真实净差异。 |

@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 背景
@@ -46,7 +46,7 @@ updated: 2026-10-22
 
 > [!example] 实施情况
 > - **[[CORE Education]]** 显著受益：其年收入从 2010 年的 USD 7.8M 增长至 2015 年的 USD 22.7M，员工从 55 人增至 180 人，约 85% 的年收入来自教育部合同([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp.xii, 82]])
-> - **[[Cognition Education\|Cognition Education]]** 在同一时期（后全球金融危机）收入从 USD 69M (2010) 降至 USD 28M (2015)，尽管服务转为竞争性招标([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp.71]])
+> - **[[Cognition Education]]** 在同一时期（后全球金融危机）收入从 USD 69M (2010) 降至 USD 28M (2015)，尽管服务转为竞争性招标([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp.71]])
 > - 这一政策加强了 [[Educational Management Organisation\|EMO]] 在新西兰公立学校教育服务市场中的地位
 
 > [!warning] 争议与评论

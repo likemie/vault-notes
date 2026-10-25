@@ -9,7 +9,7 @@ aliases:
 summary: "Lyotard 提出的输入输出效率原则与 Ball 发展的教育治理规训技术，要求社会系统与教育主体不断优化表现并以高度可见的方式生产合规证明，在微观上导致专业道德空心化与表演性危机，在宏观治理中促成证据的象征性公关与仪式化虚饰。"
 type: concept
 domain: "comparative-education"
-related_count: 48
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -23,33 +23,27 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Ontology]]"
   - "[[Policy Network]]"
-  - "[[Pragmatic Paradigm]]"
   - "[[New Managerialism]]"
   - "[[Neo-Taylorism]]"
   - "[[Learning Intentions]]"
   - "[[Performativity of Measurement]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Institutional Displacement]]"
   - "[[Learning Gain]]"
   - "[[Reliability]]"
   - "[[Strategic Compliance]]"
-  - "[[Pride in Learning]]"
-  - "[[Discourse]]"
   - "[[Policy Mobility]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Floating Signifier]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Operationalization]]"
   - "[[Space of Flows]]"
   - "[[Professional Judgment]]"
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Success Criteria]]"
-  - "[[School Inspection]]"
-  - "[[Global Universities Rankings]]"
   - "[[Lifelong Learning]]"
-  - "[[Attrition]]"
+  - "[[Discourse]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[Output-Oriented Governance]]"
 related_theories:
   - "[[Post-structuralism]]"
   - "[[Network Society]]"
@@ -64,20 +58,19 @@ related_persons:
   - "[[Ray Pawson]]"
   - "[[Manuel Castells]]"
 related_facts:
+  - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[OECD]]"
   - "[[World Bank]]"
-  - "[[Victorian HITS and Literacy Toolkit]]"
-  - "[[Ofsted]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_McKnight_2020_Discourse]]"
   - "[[Argument_Partaken_2022_Springer]]"
-  - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---

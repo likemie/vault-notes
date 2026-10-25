@@ -77,6 +77,8 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[State Educational Sovereignty]]"
   - "[[Epistemic Governance]]"
+  - "[[Policy Ambassador]]"
+  - "[[South-South Cooperation]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Evolutionary Economics]]"
@@ -131,8 +133,6 @@ related_facts:
   - "[[EdStats]]"
   - "[[World Education Reform Database]]"
   - "[[Business Roundtable]]"
-  - "[[Policy Ambassador]]"
-  - "[[South-South Cooperation]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -142,11 +142,11 @@ related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Zapp_2017_IJED]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
-  - "[[Argument_Stone_2020_PolSoc]]"
 confidence: high
 status: active
 created: 2026-09-12

@@ -29,7 +29,7 @@ title: "Argument_Zhao_2025_JIntell"
 argument_key: "Argument_Zhao_2025_JIntell"
 argument_display_title: "Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments"
 argument_kind: "journal-article"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -37,7 +37,7 @@ sources:
   - "[[sources/Zhao_2025_JIntell/Zhao_2025_JIntell|Zhao_2025_JIntell]]"
 journal: "Journal of Intelligence"
 created: 2026-09-05
-updated: 2026-10-23
+updated: 2026-10-26
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -104,6 +104,8 @@ related_persons:
   - "[[Socrates]]"
 related_instruments:
   - "[[PRISMA]]"
+related_arguments:
+  - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 status: draft
 ---
 ---
@@ -179,7 +181,7 @@ status: draft
 > [!example] 图1：[[Literature Search\|文献检索]]与筛选流程图（PRISMA 2020）
 > ![](https://img.mylikemie.icu/sources/Zhao_2025_JIntell/figures/Zhao_2025_JIntell_Fig1_PRISMA_Flowchart.jpg)
 > 
-> *[[PRISMA\|PRISMA]] 流程图完整展现了从 400 篇初始检索文献，经过查重去重、标题摘要初筛、全文资格审查与量化数据完整性核验，最终锁定 29 项高质量实验与准实验研究（共计 59 个效应量）的全过程。*
+> *[[PRISMA]] 流程图完整展现了从 400 篇初始检索文献，经过查重去重、标题摘要初筛、全文资格审查与量化数据完整性核验，最终锁定 29 项高质量实验与准实验研究（共计 59 个效应量）的全过程。*
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -379,7 +381,7 @@ status: draft
 > - **成效证实** 实证数据显示，结合了真实 PBL 的人机协同不仅大幅提升了工程方案问题解决效率，而且通过团队集体效能感显著激发了学生的创造性设计思维。Shahzad et al. (2024) 亦在高等教育实证中验证了该模式对创意与表现的联合促进，印证了本元分析中 PBL 亚组高达 $g = 0.717$ 的优异成效。
 
 > [!pathways] 促进高阶思维的人机协同教学建议
-> 1. **分阶段逐步撤去[[Scaffolding\|脚手架]]（Phased Scaffolding Fading）** 教学中应避免长期无限制地使用 AI。建议采用“初步引入 $\rightarrow$ 引导协作 $\rightarrow$ 逐步撤去辅助（Fading）$\rightarrow$ 独立反思”的分阶段设计，在学生熟练掌握方法后适时撤去 AI，促使学生独立完成推导论证与创意方案，避免产生思维依赖。（Wang et al., 2025, p. 14）
+> 1. **分阶段逐步撤去[[Scaffolding\|脚手架]]（Phased Scaffolding Fading）** 教学中应避免长期无限制地使用 AI。建议采用“初步引入 $\rightarrow$ 引导协作 $\rightarrow$ 逐步撤去辅助（Fading）$\rightarrow$ 独立反思”的分阶段设计，在学生熟练掌握方法后适时撤去 AI，促使学生独立完成推导论证与创意方案，避免产生思维依赖。（[[Argument_Wang_Liang_Chen_2025_CES|Wang et al., 2025, p. 14]]）
 > 2. **引导式人机互动与启发式提示（Guided Heuristic Prompting）** 避免让学生直接向 AI 索取现成答案。教师可预先设计提示语规范，引导 AI 扮演[[Socratic Dialogue\|苏格拉底式对话]]者，多提供反问、反例、方案对比或排错线索，促使学生始终保持主动思考与质疑探究的状态。（Lee et al., 2024; Gonsalves, 2024, pp. 6, 14）
 > 3. **显性培养自主调节学习能力（SRL）与元认知** 将元认知和自律能力的训练融入日常课程。指导学生如何审视 AI 生成的内容、辨别事实真伪与算法偏见，并通过明确的自评步骤，帮助学生养成“设立目标—监控过程—多方核对—反思改进”的良好[[Learner Autonomy\|自主学习]]习惯。（Xu et al., 2024; Wang & Huang, 2024, pp. 15–16）
 

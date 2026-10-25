@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 16
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: government-agency
 headquarters: "Washington, D.C., United States"
@@ -23,13 +23,29 @@ tags:
   - theme/educational-governance
   - theme/evidence-based-education
   - theme/accountability
-related_concepts: []
+related_concepts:
+  - "[[Educational Evidence Clearinghouses]]"
+  - "[[Research Utilization]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Random Assignment]]"
+  - "[[Experimental Research]]"
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Institute of Education Sciences]]"
+  - "[[What Works Clearinghouse]]"
+  - "[[Education Sciences Reform Act 2002]]"
+  - "[[Every Student Succeeds Act]]"
+  - "[[Spellings Report]]"
+  - "[[Voluntary System of Accountability]]"
+  - "[[Office of Educational Research and Improvement]]"
+related_arguments:
+  - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
+  - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Argument_Eisenhart_Towne_2003_ER]]"
+  - "[[Argument_Ginsberg_2024_EducPolicy]]"
+  - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: medium
 status: draft
 created: 2026-10-26

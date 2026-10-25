@@ -7,10 +7,10 @@ aliases:
 summary: "研究社会现实的客观主义取向，持实在论本体论和实证主义认识论，将社会世界视为外在于个体的客观实在，以发现普遍法则为研究目标；在现代教育治理中，其科学决策与量化排位修辞被超国家机构塑造成无可置疑的客观主义品牌以推进去政治化协调。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - paradigm/positivist
   - theme/epistemology
@@ -22,11 +22,9 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Determinism]]"
   - "[[Nomothetic]]"
-  - "[[Variable]]"
 related_theories:
   - "[[Burrell and Morgan Four Assumptions Framework]]"
-related_methods:
-  - "[[Effect Size]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -36,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

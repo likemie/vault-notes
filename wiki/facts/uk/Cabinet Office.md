@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: government-agency
 headquarters: "London, United Kingdom"
@@ -22,13 +22,25 @@ tags:
   - theme/evidence-based-policy
   - theme/educational-governance
   - theme/public-administration
-related_concepts: []
+related_concepts:
+  - "[[Evidence-Based Policy-Making]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Modernising Government]]"
+  - "[[What Works Network]]"
+  - "[[The Social Value Model]]"
+  - "[[Scientific Advisory Group for Emergencies]]"
+  - "[[The Royal Society]]"
+  - "[[HM Treasury]]"
+related_arguments:
+  - "[[Argument_Legrand_2012_PolStud]]"
+  - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
 confidence: medium
 status: draft
 created: 2026-10-26
@@ -67,7 +79,7 @@ updated: 2026-10-26
 > [!finding-cards] 影响与评价
 > - **政策移植的推动者** 新工党政府借鉴美国福利政策评估经验，内阁办公室的现代化议程为政策移植提供制度入口。[[Argument_Legrand_2012_PolStud\|(Legrand, 2012)]]
 > - **官方模型的盲区** Gough et al. 指出有效性网络官方模型遗漏政治博弈、高利害督导与预算体制等外部系统。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022)]]
-> - **科学证据透明化建议** [[Royal Society|皇家学会]]建议内阁办公室推动各部委法定发布《科学证据陈述》。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026)]]
+> - **科学证据透明化建议** [[The Royal Society|皇家学会]]建议内阁办公室推动各部委法定发布《科学证据陈述》。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026)]]
 
 ---
 

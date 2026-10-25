@@ -10,7 +10,7 @@ aliases:
 summary: "超越基础事实再认与机械程序算法的复杂心智加工能力，植根于布鲁姆认知目标分类学高阶层级并涵盖批判性思维、问题解决、元认知、协作与创造力"
 type: concept
 domain: "competency-and-assessment"
-related_count: 86
+related_count: 84
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -69,9 +69,8 @@ related_concepts:
   - "[[Epistemic Agency]]"
   - "[[Dependent Variable]]"
   - "[[Task Structure]]"
-  - "[[Convergent Thinking]]"
   - "[[Cooperative Integrated Reading and Composition]]"
-  - "[[Dialogue in Education]]"
+  - "[[Convergent Thinking]]"
   - "[[AI Agent in Education]]"
   - "[[Inquiry-Based Learning]]"
 related_theories:
@@ -85,7 +84,6 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Chain-of-Thought Prompting]]"
   - "[[Classroom Observation]]"
-  - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Experimental Research]]"
   - "[[Baseline Standardized Mean Difference]]"
@@ -115,7 +113,7 @@ related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 status: active
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

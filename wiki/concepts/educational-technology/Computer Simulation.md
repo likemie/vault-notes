@@ -9,7 +9,7 @@ aliases:
 summary: "对真实世界复杂系统的计算机建模与交互式表征，既作为教育研究中基于复杂性理论检验假设与探索涌现规律的建模方法，又作为科学教育中为学习者提供可操纵变量与实时反馈的数字化探究微世界"
 type: concept
 domain: "educational-technology"
-related_count: 44
+related_count: 40
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -46,8 +46,6 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Construct Validity]]"
   - "[[Socratic Dialogue]]"
-  - "[[Heterogeneity]]"
-  - "[[Dependent Variable]]"
   - "[[Productive Failure]]"
   - "[[Control of Variables Strategy]]"
   - "[[Independent Variable]]"
@@ -60,8 +58,6 @@ related_methods:
   - "[[Agent-based Modelling]]"
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
-  - "[[Prediction Interval]]"
 related_instruments: []
 related_persons:
   - "[[Ton de Jong]]"
@@ -75,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ## 定义

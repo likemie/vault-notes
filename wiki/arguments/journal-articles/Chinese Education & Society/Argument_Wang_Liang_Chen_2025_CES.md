@@ -7,7 +7,7 @@ title: "Argument_Wang_Liang_Chen_2025_CES"
 argument_key: "Argument_Wang_Liang_Chen_2025_CES"
 argument_display_title: "High-level open cooperation in vocational education: Purpose, criteria and pathways—Observations on Chinese-ASEAN cooperation in vocational education"
 argument_kind: "journal-article"
-argument_related_count: 29
+argument_related_count: 28
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -34,22 +34,21 @@ tags:
   - level/international
 related_concepts:
   - "[[New Quality Productive Forces]]"
+  - "[[Industry-Education Integration Community]]"
   - "[[Discourse]]"
   - "[[Internationalization of Vocational Education]]"
   - "[[Educational Diplomacy]]"
   - "[[People-to-People Connectivity]]"
+  - "[[Regulatory Impact Analysis]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Empiricism]]"
   - "[[Education Going Global]]"
   - "[[Computer Simulation]]"
   - "[[Massive Open Online Courses]]"
+  - "[[Emergent Talents]]"
   - "[[Competitiveness]]"
-  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Further Education]]"
   - "[[Institutional Displacement]]"
-  - "[[Regulatory Impact Analysis]]"
-  - "[[Industry-Education Integration Community]]"
-  - "[[Emergent Talents]]"
 related_theories: []
 related_methods:
   - "[[Documentary Analysis]]"
@@ -59,21 +58,21 @@ related_persons: []
 related_facts:
   - "[[ASEAN]]"
   - "[[Luban Workshop]]"
+  - "[[China-ASEAN Federation for Vocational Education]]"
+  - "[[Chinese-ASEAN Modern Craftsmanship Institute]]"
   - "[[China-ASEAN Education Cooperation Week]]"
   - "[[World Bank]]"
   - "[[Belt and Road Initiative]]"
-  - "[[UNESCO]]"
-  - "[[China-ASEAN Federation for Vocational Education]]"
-  - "[[Center for Research on Chinese-ASEAN Vocational Education]]"
   - "[[Regional Comprehensive Economic Partnership]]"
-  - "[[Chinese-ASEAN Modern Craftsmanship Institute]]"
+  - "[[Center for Research on Chinese-ASEAN Vocational Education]]"
+  - "[[UNESCO]]"
 related_arguments: []
 sources:
   - "[[sources/Wang_Liang_Chen_2025_CES|Wang_Liang_Chen_2025_CES]]"
 status: draft
 confidence: medium
 created: 2026-10-22
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 ---
 

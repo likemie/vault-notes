@@ -8,7 +8,7 @@ aliases:
 summary: "指在科学研究与技术开发的早期构思、议程设定、优先序确立以及基金申请阶段，将非专业公众、患者群体及相关社群系统化引入科研全生命周期的前瞻性参与范式，通过平权对话与平权共创共同塑造科技发展轨迹。"
 type: concept
 domain: "science-communication"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -42,10 +42,12 @@ related_persons:
   - "[[Fred N. Kerlinger]]"
 related_theories:
   - "[[Pluralism]]"
+related_methods:
+  - "[[Experimental Research]]"
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

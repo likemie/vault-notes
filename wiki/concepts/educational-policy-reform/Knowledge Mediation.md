@@ -9,7 +9,7 @@ aliases:
 summary: "在证据生产者与使用者之间建立联结、促进理解并维系协作的有意识中介活动，是知识动员生态系统中与知识生产、知识使用并列的三大核心功能之一。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -19,8 +19,6 @@ tags:
   - theme/policy-brokerage
   - theme/research-use
 related_concepts:
-  - "[[Policy Ambassador]]"
-  - "[[Representational Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Policy Borrowing]]"
@@ -35,9 +33,13 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Paradigm]]"
   - "[[Knowledge Co-production]]"
+  - "[[Epistemology]]"
+  - "[[Policy Ambassador]]"
+  - "[[Representational Knowledge]]"
   - "[[School Autonomy]]"
   - "[[University-Based Research Infrastructure]]"
   - "[[Technology Transfer]]"
+  - "[[Construct]]"
   - "[[Value Neutrality]]"
   - "[[Gatekeepers]]"
   - "[[New Public Management]]"
@@ -56,24 +58,23 @@ related_persons:
   - "[[David C. Mowery]]"
 related_facts:
   - "[[German State Educational Institutes and Quality Agencies]]"
-  - "[[EPPI-Centre]]"
   - "[[OECD]]"
-  - "[[What Works Clearinghouse]]"
-  - "[[Clearing House Unterricht]]"
-  - "[[Forschungsmonitor Schule]]"
+  - "[[World Bank]]"
+  - "[[Department of Defense]]"
+  - "[[EPPI-Centre]]"
 related_arguments:
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
-  - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Stone_2020_PolSoc]]"
+  - "[[Argument_Fabrizio_Mowery_2005_REI]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

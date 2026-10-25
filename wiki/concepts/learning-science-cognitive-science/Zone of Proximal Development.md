@@ -9,7 +9,7 @@ aliases:
 summary: "由维果茨基提出的心智发展与教学核心构念，指个体独立解决问题的实际水平与在他人指导或协作下的潜在水平之间的动态差距。现代教育理论已将其从儿童认知与自适应智能体脚手架，进一步拓展至基于课堂观察诊断的教师专业发展与循证辅导。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 53
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -61,8 +61,6 @@ related_methods:
   - "[[Observation Protocol]]"
   - "[[Pre-test and Post-test]]"
   - "[[Cohort Study]]"
-  - "[[Effect Size]]"
-  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
@@ -144,7 +142,7 @@ updated: 2026-10-26
 > [!feature] 三层发展空间模型
 > 1. **舒适区（Comfort Zone / Independent Level）** 学习者或受训教师无需任何外部协助即可独立、熟练完成的任务区间，主要巩固已自动化技能，缺乏认知促进张力。
 > 2. **最近发展区（Zone of Proximal Development, ZPD）** 独立操作尚感吃力，但在有经验者点拨、同伴协作、自适应 AI [[AI Agent in Education|智能体]]微提示或专业辅导员示范下能够成功跨越的区间。这是**学习与专业蜕变发生的最有效区域**。
-> 3. **挫败区 / 超载区（Frustration Zone / Out of [[Reach|Reach]]）** 任务难度严重脱离学习者现有经验基底，即便提供支架也无法理解，极易诱发认知超载、心理抗拒与[[Learned Helplessness|习得性无助]]。
+> 3. **挫败区 / 超载区（Frustration Zone / Out of [[Reach]]）** 任务难度严重脱离学习者现有经验基底，即便提供支架也无法理解，极易诱发认知超载、心理抗拒与[[Learned Helplessness|习得性无助]]。
 
 从动态过程审视，ZPD 的跃迁依赖[[Scaffolding|脚手架]]的精准介入与动态渐进衰减（Fading）。
 

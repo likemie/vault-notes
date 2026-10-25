@@ -11,7 +11,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 35
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -27,10 +27,12 @@ tags:
   - clearinghouse-rating-case
   - region/us
 related_concepts:
+  - "[[Learning Strategies]]"
   - "[[Peer-Supported Learning]]"
   - "[[Response to Intervention]]"
   - "[[Metacognition]]"
   - "[[Decodification]]"
+  - "[[Inclusive Education]]"
   - "[[Problem Solving]]"
   - "[[Implementation Fidelity]]"
   - "[[Evidence Standards]]"
@@ -56,6 +58,7 @@ related_persons:
   - "[[Jack Douglas]]"
   - "[[Robert Slavin]]"
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[Institute of Education Sciences]]"
   - "[[Sound Partners]]"
   - "[[Every Student Succeeds Act]]"

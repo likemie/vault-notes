@@ -8,10 +8,10 @@ aliases:
 summary: "比较教育学与社会学系统论的核心分析概念，指教育系统根据自身内部问题构型与反思情境，通过在语义上将内部矛盾投射到外部参照系或传统记忆中来为改革或抵制提供正当性辩护的策略性建构过程。"
 type: concept
 domain: "comparative-education"
-related_count: 36
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - subject/comparative-education
   - theme/policy-borrowing
@@ -32,9 +32,12 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Cross-National Attraction]]"
   - "[[Concept Mapping]]"
+  - "[[Governing by Numbers]]"
   - "[[Determinism]]"
   - "[[Champ]]"
   - "[[Variable]]"
+  - "[[School Choice]]"
+  - "[[High-Stakes Testing]]"
 related_theories:
   - "[[Historical Institutionalism]]"
   - "[[World-Systems Theory]]"
@@ -49,10 +52,12 @@ related_persons:
   - "[[Jeremy Rappleye]]"
   - "[[Gita Steiner-Khamsi]]"
   - "[[Niklas Luhmann]]"
+  - "[[Sotiria Grek]]"
 related_facts:
   - "[[OECD]]"
   - "[[German Dual Education System]]"
   - "[[PISA]]"
+  - "[[Ministry of Education, Culture, Sports, Science and Technology]]"
   - "[[American Attraction to Japanese Education 1980s]]"
   - "[[Late Qing Borrowing of Japanese Education]]"
 related_arguments:
@@ -64,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-06
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

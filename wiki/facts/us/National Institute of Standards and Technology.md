@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 16
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: government-research-agency
 headquarters: "Gaithersburg, Maryland, United States"
@@ -23,13 +23,29 @@ tags:
   - theme/science-policy
   - theme/semiconductor
   - theme/industrial-policy
-related_concepts: []
+related_concepts:
+  - "[[Multi-Project Wafer]]"
+  - "[[Valley of Death]]"
+  - "[[Technology Readiness Level]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[National Semiconductor Technology Center]]"
+  - "[[National Advanced Packaging Manufacturing Program]]"
+  - "[[Department of Commerce]]"
+  - "[[DARPA]]"
+  - "[[National Institutes of Health]]"
+  - "[[National Science Foundation]]"
+  - "[[Advanced Technology Program]]"
+  - "[[CHIPS and Science Act]]"
+  - "[[National Science and Technology Council]]"
+related_arguments:
+  - "[[Argument_NIST_2023_NSTC]]"
+  - "[[Argument_Block_2008_PS]]"
+  - "[[Argument_Brock_2025_DataAccessGenerationUse]]"
+  - "[[Argument_NSTC_2024_MicroelectronicsResearch]]"
 confidence: medium
 status: draft
 created: 2026-10-26

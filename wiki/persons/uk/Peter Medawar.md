@@ -9,7 +9,7 @@ summary: "英国免疫学家与科学哲学家，1960年诺贝尔生理学或医
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,6 +34,7 @@ related_persons:
   - "[[Karl Popper]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
+  - "[[The Royal Society]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
 related_methods:
@@ -48,7 +49,7 @@ updated: 2026-10-26
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国著名免疫学家、医学家与科学哲学家；1960 年[[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]得主；曾任伯明翰大学动物学教授、伦敦大学学院动物学教授、英国国立医学研究院院长；[[Royal Society|英国皇家学会]]会士。
+> - **身份位置** 英国著名免疫学家、医学家与科学哲学家；1960 年[[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]得主；曾任伯明翰大学动物学教授、伦敦大学学院动物学教授、英国国立医学研究院院长；[[The Royal Society|英国皇家学会]]会士。
 > - **核心角色** 实验免疫耐受学的奠基人，科学哲学与科学写作的大师级学者；在假说演绎检验、科学发现逻辑以及[[Research Question\|研究问题]]选择准则上为自然科学与社会[[Scientific Method\|科学方法]]论提供了深远启迪。
 > - **代表贡献** 实验证实获得性免疫耐受（荣获 [[Nobel Prize in Physiology or Medicine\|诺贝尔生理学或医学奖]]）；在《可解的艺术》（*The Art of the Soluble*）中系统提出科学是“可解的艺术”，确立了假说的想象性直觉先入与严格排除法检验机制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 16)]]
 

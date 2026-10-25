@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（Official Academic Achievement, OAA）、预估总评成绩（Estimated Overall Academic Achievement, EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 163
+related_count: 161
 related_level: 16
 related_stars: "💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -94,7 +94,6 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Professional Learning Community]]"
   - "[[Deficit Framing]]"
-  - "[[Achievement and Aptitude Tests]]"
   - "[[Critical Thinking]]"
   - "[[Problem-Based Learning]]"
   - "[[Rote Learning]]"
@@ -151,7 +150,6 @@ related_facts:
   - "[[World Bank]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[National Assessment of Educational Progress]]"
-  - "[[Every Student Succeeds Act]]"
   - "[[OECD]]"
   - "[[Research Learning Communities]]"
   - "[[Organic Law on the General Organization of the Education System 1990]]"
@@ -191,7 +189,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-15
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 （学业成就）

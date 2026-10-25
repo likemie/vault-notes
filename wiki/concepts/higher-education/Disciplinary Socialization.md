@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -110,7 +110,7 @@ updated: 2026-10-22
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **纵向社会化极化命题** | 大学专业训练在控制初始信念后持续拉大软硬学科的[[Epistemology\|认识论]]鸿沟 | 高等教育纵向追踪、大学课程与认知发展 | [[Ulrich Trautwein\|Ulrich Trautwein]]; Oliver Lüdtke |
+> | **纵向社会化极化命题** | 大学专业训练在控制初始信念后持续拉大软硬学科的[[Epistemology\|认识论]]鸿沟 | 高等教育纵向追踪、大学课程与认知发展 | [[Ulrich Trautwein]]; Oliver Lüdtke |
 
 ---
 

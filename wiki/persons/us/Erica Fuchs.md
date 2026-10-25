@@ -10,7 +10,7 @@ summary: "美国卡内基梅隆大学工程与公共政策教授，技术变革�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 24
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -42,6 +42,7 @@ related_theories:
 related_methods:
   - "[[Grounded Theory]]"
   - "[[Case Study]]"
+  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Tony Tether]]"
@@ -50,6 +51,7 @@ related_persons:
 related_facts:
   - "[[DARPA]]"
   - "[[American Association for the Advancement of Science]]"
+  - "[[United States Congress]]"
   - "[[National Science Foundation]]"
   - "[[CHIPS and Science Act]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"

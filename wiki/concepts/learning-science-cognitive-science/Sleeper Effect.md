@@ -7,10 +7,10 @@ aliases:
 summary: "学习或态度干预结束后，认知增益或说服效果不仅未随时间消退，反而随时间推移显著放大或充分显现的心理学现象；在认识论认知干预中，深层评价标准的内化沉淀使延时后测效应量达即时后测的两倍以上。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 30
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 27
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/learning-mechanisms
   - theme/epistemic-cognition
@@ -38,21 +38,18 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Study Population and Sample]]"
   - "[[Sampling Error]]"
-  - "[[Variable]]"
-  - "[[Dependent Variable]]"
 related_theories: []
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Cohort Study]]"
-  - "[[Confidence Interval]]"
 related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

@@ -30,7 +30,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Problem Finding]]"
   - "[[Boundary Spanner]]"
-  - "[[Educational Brokerage Agency]]"
+  - "[[Knowledge Mediation]]"
   - "[[Academic Attrition]]"
   - "[[Research Utilization]]"
   - "[[Research Translation]]"
@@ -68,6 +68,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Institute of Education Sciences]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
+  - "[[United States Congress]]"
   - "[[American Council on Education]]"
   - "[[The Education Trust]]"
   - "[[American Association of Colleges for Teacher Education]]"
@@ -90,7 +91,7 @@ title: "Argument_Serpell_2020_EducPsychol"
 argument_key: "Argument_Serpell_2020_EducPsychol"
 argument_display_title: "Supporting the integration of evidence into federal educational policy and reform efforts: A navigational framework for educational researchers"
 argument_kind: "journal-article"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"

@@ -46,7 +46,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Academic Achievement]]"
-  - "[[Dialogue in Education]]"
   - "[[Teacher Professional Agency]]"
 related_theories:
   - "[[Inquiry Cycle]]"
@@ -68,6 +67,7 @@ related_persons:
   - "[[Julie Nelson]]"
   - "[[Carol Campbell]]"
 related_facts:
+  - "[[Department for Education]]"
   - "[[Research Learning Communities]]"
   - "[[Elementary Teachers' Federation of Ontario]]"
   - "[[OECD]]"

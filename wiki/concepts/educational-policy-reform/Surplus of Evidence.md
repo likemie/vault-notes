@@ -34,7 +34,7 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Gatekeepers]]"
   - "[[Governing by Numbers]]"
-  - "[[Educational Brokerage Agency]]"
+  - "[[Knowledge Mediation]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Knowledge Bank]]"
   - "[[Soft Power by Hard Facts]]"

@@ -87,6 +87,7 @@ related_facts:
   - "[[SACMEQ]]"
   - "[[PASEC]]"
   - "[[LLECE]]"
+  - "[[CORE Education]]"
   - "[[World Bank Institute]]"
 related_arguments: []
 sources:
@@ -101,7 +102,7 @@ title: "Argument_Zapp_2017_IJED"
 argument_key: "Argument_Zapp_2017_IJED"
 argument_display_title: "The World Bank and education: Governing (through) knowledge"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"

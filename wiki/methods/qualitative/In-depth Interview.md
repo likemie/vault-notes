@@ -7,9 +7,9 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 67
-method_related_level: 6
-method_related_stars: "💎💎"
+method_related_count: 70
+method_related_level: 7
+method_related_stars: "💎💎⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -77,6 +77,9 @@ related_facts:
   - "[[National Research Council]]"
   - "[[Education Sciences Reform Act 2002]]"
   - "[[Guangdong-Hong Kong-Macau Greater Bay Area]]"
+  - "[[Fabricating Quality in European Education]]"
+  - "[[European Commission]]"
+  - "[[Eurydice]]"
 related_arguments:
   - "[[Argument_Zheng_2023_ShanghaiSanlian]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"

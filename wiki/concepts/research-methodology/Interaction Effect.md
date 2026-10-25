@@ -60,7 +60,7 @@ related_persons:
   - "[[John Hattie]]"
 status: active
 created: 2026-07-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!def] Interaction Effect
@@ -81,7 +81,7 @@ updated: 2026-10-22
 >   - *平行线*（无交互作用）：不同调节水平下的回归线保持平行，表明处理效应在各群体间保持恒定。
 >   - *相交线/交叉交互（Crossover Interaction）*：两条趋势线在观察范围内交叉，表明干预在一个群体中产生积极增益，但在另一群体中产生消极阻碍（质性反转）。
 >   - *发散/收敛线（Ordinal Interaction）*：斜率方向一致但陡峭程度不同，表明干预在某一群体中效果被显著放大或稀释（量级差异）。
-> - **统计检力瓶颈** 检验交互项（乘积项）所需的统计功效（Statistical Power）显著高于主效应检验；在小样本或测量误差较大的教育现场实验中，交互效应往往难以达到统计显著，需依托大样本[[Randomised Controlled Trials\|随机对照试验]]（[[Randomised Controlled Trials\|RCT]]）或[[Meta-analysis\|元分析]]（[[Meta-analysis\|Meta-analysis]]）中的亚组调节分析（Moderation Analysis）。
+> - **统计检力瓶颈** 检验交互项（乘积项）所需的统计功效（Statistical Power）显著高于主效应检验；在小样本或测量误差较大的教育现场实验中，交互效应往往难以达到统计显著，需依托大样本[[Randomised Controlled Trials\|随机对照试验]]（[[Randomised Controlled Trials\|RCT]]）或[[Meta-analysis\|元分析]]（[[Meta-analysis]]）中的亚组调节分析（Moderation Analysis）。
 
 ---
 

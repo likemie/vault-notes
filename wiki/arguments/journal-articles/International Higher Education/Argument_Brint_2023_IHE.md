@@ -42,6 +42,7 @@ related_facts:
   - "[[America COMPETES Act]]"
   - "[[Horizon Europe]]"
   - "[[Department of Energy]]"
+  - "[[United States Congress]]"
   - "[[Directorate for Technology, Innovation and Partnerships]]"
   - "[[Made in China 2025]]"
 related_arguments: []
@@ -57,7 +58,7 @@ title: "Argument_Brint_2023_IHE"
 argument_key: "Argument_Brint_2023_IHE"
 argument_display_title: "The US “CHIPS and Science” Act launches industrial policy as counter to China"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

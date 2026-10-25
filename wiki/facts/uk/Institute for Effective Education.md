@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -49,6 +49,7 @@ related_persons:
   - "[[Robert Slavin]]"
 related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[Department for Education]]"
   - "[[Evidence Network]]"
   - "[[Best Evidence Encyclopedia]]"
   - "[[Research Schools Network]]"

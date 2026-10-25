@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
@@ -31,6 +31,8 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Cabinet Office]]"
+  - "[[The Royal Society]]"
   - "[[Association for Science and Discovery Centres]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
@@ -69,7 +71,7 @@ updated: 2026-10-26
 
 > [!pathways] 实施路径与公共科学参与创新
 > - **从商业交付向全人技能赋能拓展** 竞标企业将 10% 的社会价值承诺转化为提供高质量青年[[Apprenticeship|学徒制]]岗位、支持中小学教师产业见习，以及为边缘工薪社区提供数字化与科学探究体验。
-> - **采购杠杆激活非正式科学基建生态** 政策有力打破了传统科技企业与校外科普场馆之间的壁垒；[[Royal Society|英国皇家学会]]明确建议，中央政府应将科普外展（Science Outreach）全面纳为展示社会价值的合规选项，引导企业通过定向采购注入资金，支撑面临财政生存危机的在地科技场馆。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 48)]]
+> - **采购杠杆激活非正式科学基建生态** 政策有力打破了传统科技企业与校外科普场馆之间的壁垒；[[The Royal Society|英国皇家学会]]明确建议，中央政府应将科普外展（Science Outreach）全面纳为展示社会价值的合规选项，引导企业通过定向采购注入资金，支撑面临财政生存危机的在地科技场馆。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 48)]]
 
 ---
 

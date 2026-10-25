@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -52,7 +52,9 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Cabinet Office]]"
   - "[[Government Office for Science]]"
+  - "[[The Royal Society]]"
   - "[[What Works Network]]"
   - "[[Parliamentary Office of Science and Technology]]"
   - "[[Semi-Automatic Ground Environment]]"
@@ -82,7 +84,7 @@ updated: 2026-10-26
 > - **2009 — 机制创立与 H1N1 流感危机首次激活** 由时任英国政府首席科学顾问约翰·贝丁顿爵士（Sir John Beddington）正式确立应急科学咨询机制，并在甲型 H1N1 流感蔓延期间首次动员流行病学学者进驻内阁简报室，奠定了 30 分钟应急专家动员规程（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society, 2026, Ch. 5, p. 81]]）。
 > - **2010–2011 — 自然灾害与跨国技术风险响应** 2010 年冰岛埃亚菲亚德拉火山喷发导致全欧空域瘫痪，[[Sage]] 再次受命激活，协调气象学与航空工程学专家测定火山灰飞行安全浓度阈值；2011 年日本福岛第一核电站放射性泄漏危机期间，SAGE 组织核物理与辐射防护专家为英国在日侨民撤离政策提供实证测算。
 > - **2020–2022 — 新冠大流行超长运作与独立 SAGE 的制度博弈** 新冠疫情暴发促使 SAGE 进入长达两年的常态化高频运作，成为举国瞩目的公共焦点。然而因早期闭门审议、专家名单保密与“群体免疫”推演争议引发学界与公众强烈质疑；前政府首席科学顾问大卫·金爵士（Sir David King）联合多学科资深学者成立民间对等机构“独立紧急科学咨询小组”（Independent SAGE），全面推行周例会全网公开直播与双向大众对话（[[Dialogue in Education]]），从而倒逼官方 SAGE 全面推行透明化改革（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society, 2026, Ch. 5, p. 86]]）。
-> - **2020–至今 — 议会调查质询与国家常态化科技治理反思** 英国下议院科学与技术特别委员会就新冠疫情中 SAGE 的治理机制启动多轮调查质询，揭示其顾问学科失衡与决策转化黑箱问题（Gough, 2020; UK Parliament, 2021，引自 [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 150, 157]]）。2026 年[[Royal Society|英国皇家学会]]《科学为社会》国家报告将 SAGE 与 Independent SAGE 的实践并列，强调未来常态化公共决策必须吸纳应急科学咨询的敏捷响应优势，同时根除政治推诿与透明度赤字（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society, 2026, Ch. 5, p. 88]]）。
+> - **2020–至今 — 议会调查质询与国家常态化科技治理反思** 英国下议院科学与技术特别委员会就新冠疫情中 SAGE 的治理机制启动多轮调查质询，揭示其顾问学科失衡与决策转化黑箱问题（Gough, 2020; UK Parliament, 2021，引自 [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 150, 157]]）。2026 年[[The Royal Society|英国皇家学会]]《科学为社会》国家报告将 SAGE 与 Independent SAGE 的实践并列，强调未来常态化公共决策必须吸纳应急科学咨询的敏捷响应优势，同时根除政治推诿与透明度赤字（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society, 2026, Ch. 5, p. 88]]）。
 
 ---
 

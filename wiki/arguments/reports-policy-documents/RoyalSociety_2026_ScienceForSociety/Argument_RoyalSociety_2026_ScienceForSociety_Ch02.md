@@ -10,11 +10,11 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch02"
 argument_display_title: "Chapter two: Informal engagement with science"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
-issuing_organization: "[[Royal Society|The Royal Society]]"
+issuing_organization: "[[The Royal Society]]"
 year: 2026
 isbn: 978-1-78252-829-6
 publication_place: London
@@ -66,12 +66,19 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Association for Science and Discovery Centres]]"
+  - "[[Wellcome Trust]]"
   - "[[Public Attitudes to Science]]"
+  - "[[UK Research and Innovation]]"
   - "[[Dippy on Tour]]"
+  - "[[Department for Education]]"
   - "[[Big Butterfly Count]]"
   - "[[The Perception Census]]"
+  - "[[The Royal Society]]"
+  - "[[Economic and Social Research Council]]"
   - "[[National Science Foundation]]"
   - "[[The Social Value Model]]"
+  - "[[Cabinet Office]]"
+  - "[[HM Treasury]]"
   - "[[OECD]]"
   - "[[UK Science Education Tracker]]"
 related_arguments:
@@ -216,7 +223,7 @@ updated: 2026-10-26
 > - **公众主体能动性与认知重构** 打破了只有专业科研学者才能开展野外实证探究的神秘壁垒，让全年龄段公民在亲近本土自然的过程中建立起动态生态系统思维，极大激发了公众保护生物多样性的[[Self-Efficacy\|自我效能感]]与社区环保行动力。（p. 46）
 
 > [!case] 案例研究二：造梦机器与[[The Perception Census\|感知普查]]：艺术体验与脑科学认知共创
-> - **学术主导与国家重大跨界工程** 由苏塞克斯大学萨克勒意识科学中心主任、[[Royal Society|英国皇家学会]]会士阿尼尔·塞斯（Anil Seth, FRS）团队联合艺术机构 Collective Act、先锋音乐家乔恩·霍普金斯（Jon Hopkins）及特纳奖建筑团队 Assemble 跨界研发，作为英国 2022 年非约束（Unboxed: [[Creativity]] in the UK）重大科技艺术节的核心科研工程。（p. 43）
+> - **学术主导与国家重大跨界工程** 由苏塞克斯大学萨克勒意识科学中心主任、[[The Royal Society|英国皇家学会]]会士阿尼尔·塞斯（Anil Seth, FRS）团队联合艺术机构 Collective Act、先锋音乐家乔恩·霍普金斯（Jon Hopkins）及特纳奖建筑团队 Assemble 跨界研发，作为英国 2022 年非约束（Unboxed: [[Creativity]] in the UK）重大科技艺术节的核心科研工程。（p. 43）
 > - **双轨实验交互矩阵设计**
 >   - *线下沉浸式造梦机器（Dreamachine）* 依托定制白光脉冲频闪与环绕声场，在参与者闭目状态下通过视网膜与大脑节律共振，安全激发丰富动态的内心几何幻觉与深层知觉体验；
 >   - *线上感知普查（The Perception Census）* 将高度晦涩的计算神经科学与认知心理学实验转化为生动易懂的 10 大线上互动测试模块，系统测量颜色知觉差异、视错觉与几何扭曲敏感度、主观时间流速感知、声音视觉联觉机制以及对他人心智状态的推断能力。

@@ -10,9 +10,9 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 157
-method_related_level: 15
-method_related_stars: "💎💎💎💎💎"
+method_related_count: 161
+method_related_level: 16
+method_related_stars: "💎💎💎💎💎⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/experimental
@@ -89,6 +89,7 @@ related_theories:
   - "[[Cognitive Load Theory]]"
   - "[[Three Generations of Mission-Oriented Policy]]"
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Random Assignment]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
@@ -124,7 +125,6 @@ related_methods:
   - "[[Mechanism Experiments]]"
   - "[[Black Box RCTs]]"
   - "[[Research Synthesis]]"
-  - "[[Experimental Research]]"
   - "[[Non-intervention Research]]"
   - "[[Observation Method]]"
   - "[[Correlational Research]]"
@@ -136,9 +136,11 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
+  - "[[United States Congress]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[What Works Clearinghouse]]"
   - "[[Office of Educational Research and Improvement]]"
+  - "[[United States Department of Education]]"
   - "[[Institute of Education Sciences]]"
   - "[[Education Sciences Reform Act 2002]]"
   - "[[National Research Council]]"
@@ -150,10 +152,11 @@ related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[Teacher Choices]]"
   - "[[Researching School Choices]]"
+  - "[[OECD]]"
+  - "[[UNESCO]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Employment Retention and Advancement]]"
 related_arguments:
-  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Higgins_2016_ROE]]"
@@ -177,9 +180,10 @@ related_arguments:
   - "[[Argument_Berk_2011_EvalRev]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
+  - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_DeJong_2023_ERR]]"
-  - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Legrand_2012_PolStud]]"
 related_instruments:
   - "[[Study Design and Implementation Assessment Device]]"
 confidence: high

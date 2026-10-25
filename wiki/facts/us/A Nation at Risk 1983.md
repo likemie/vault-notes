@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 42
+fact_related_count: 45
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#fef3c7"
@@ -24,12 +24,14 @@ tags:
   - policy-brokerage
   - crisis-narrative
 related_concepts:
+  - "[[Comparative Turn in Education Policy]]"
   - "[[Geopolitics]]"
   - "[[Policy Borrowing]]"
   - "[[Grandes Ecoles]]"
   - "[[New Public Management]]"
   - "[[International Education]]"
   - "[[Progressive Education]]"
+  - "[[Teacher Qualifications]]"
   - "[[International Baccalaureate]]"
   - "[[Policy Window]]"
   - "[[Cross-National Attraction]]"
@@ -54,6 +56,7 @@ related_persons:
   - "[[Michael Traill]]"
 related_facts:
   - "[[OECD]]"
+  - "[[United States Department of Education]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
   - "[[Sputnik Shock 1957]]"
   - "[[IEA]]"

@@ -10,9 +10,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: government-research-agency
 headquarters: "Swindon, United Kingdom"
@@ -22,13 +22,25 @@ tags:
   - theme/science-policy
   - theme/public-engagement
   - theme/research-funding
-related_concepts: []
+related_concepts:
+  - "[[Scientific Attitude]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Longitudinal Study]]"
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Economic and Social Research Council]]"
+  - "[[Sciencewise]]"
+  - "[[The Royal Society]]"
+  - "[[Wellcome Trust]]"
+  - "[[Public Attitudes to Science]]"
+related_arguments:
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04]]"
+  - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
 confidence: medium
 status: draft
 created: 2026-10-26
@@ -50,7 +62,7 @@ updated: 2026-10-26
 > [!feature] 核心职能与代表性产出
 > - **全国公众科学态度调查** 委托益普索（Ipsos）与英国科学协会实施《公众对科学的态度》（Public Attitudes to Science, PAS 2025），抽样 5,281 名 16 岁及以上成年人。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026)]]
 > - **新兴技术公共对话** 与[[Sciencewise|科学智慧项目]]（Sciencewise）合作研究公众对颠覆性新兴技术的伦理追问。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 72)]]
-> - **科研人员公众参与追踪** 与[[Royal Society|皇家学会]]、[[Wellcome Trust|Wellcome]] 共建跨越 2006、2015、2024 年的[[Longitudinal Study|纵向调查]]数据。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 10, 94–98)]]
+> - **科研人员公众参与追踪** 与[[The Royal Society|皇家学会]]、[[Wellcome Trust|Wellcome]] 共建跨越 2006、2015、2024 年的[[Longitudinal Study|纵向调查]]数据。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 10, 94–98)]]
 
 ---
 
@@ -73,5 +85,5 @@ updated: 2026-10-26
 > |:-----|:-----|:-----|
 > | [[Public Attitudes to Science]] | 事实 | UKRI 委托实施的全国公众科学态度调查。 |
 > | [[Economic and Social Research Council]] | 事实 | UKRI 统辖的社会科学研究理事会。 |
-> | [[Royal Society]] | 事实 | 与 UKRI 共建科研人员公众参与追踪数据的国家科学院。 |
+> | [[The Royal Society]] | 事实 | 与 UKRI 共建科研人员公众参与追踪数据的国家科学院。 |
 > | [[Sciencewise]] | 事实 | 与 UKRI 合作开展新兴技术公共对话的项目。 |

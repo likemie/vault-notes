@@ -9,7 +9,7 @@ summary: "美国加利福尼亚大学戴维斯分校经济社会学研究教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -50,6 +50,7 @@ related_persons:
   - "[[Chalmers Johnson]]"
   - "[[Donald Stokes]]"
 related_facts:
+  - "[[Department of Defense]]"
   - "[[ROOTS]]"
   - "[[Research in Schools Evaluation]]"
   - "[[Ministry of International Trade and Industry]]"

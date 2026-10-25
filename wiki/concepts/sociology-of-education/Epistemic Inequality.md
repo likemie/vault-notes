@@ -9,10 +9,10 @@ aliases:
 summary: "教育政策社会学与全球知识治理的核心概念，指在循证决策与国际教育改革议程中，不同认识论来源的知识（量化因果实验、质性田野调查、一线教学默会智慧及本土传统）在合法性、评价特权与资源配置上形成的宏观结构性不对称；全球实证主义指标体系将因果效应量奉为黄金准绳，系统性边缘化地方情境与实践智慧，导致全球南方与基层教育社群陷入被动的治理依附。"
 type: concept
 domain: "sociology-of-education"
-related_count: 12
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/sociology-of-education
   - theme/epistemic-justice
@@ -20,22 +20,13 @@ tags:
   - theme/global-governance
   - theme/knowledge-governance
 related_concepts:
-  - "[[Evidence Culture]]"
-  - "[[Technical Rationality]]"
-  - "[[Phronesis]]"
-  - "[[Tacit Knowledge]]"
-  - "[[Deliberative Space]]"
+  - "[[Positivism]]"
 related_theories:
   - "[[Epistemic Injustice]]"
-  - "[[Good Governance of Evidence]]"
-related_methods:
-  - "[[Interpretive Policy Analysis]]"
-  - "[[Randomised Controlled Trials]]"
+related_methods: []
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[OECD]]"
-  - "[[World Bank]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Campbell_2026_JPCC]]"
 confidence: high

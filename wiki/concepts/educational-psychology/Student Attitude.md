@@ -6,10 +6,10 @@ aliases:
 summary: "学生对特定学科、学习方法或教育环境的总体感受与想法，是学习的情感维度；问题本位学习通过主动参与问题解决培养积极态度与热情。"
 type: concept
 domain: "educational-psychology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 7
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/student-attitude
   - theme/affective-outcomes
@@ -20,12 +20,9 @@ related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Student Satisfaction]]"
-  - "[[Dependent Variable]]"
 related_theories: []
 related_methods:
-  - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -34,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

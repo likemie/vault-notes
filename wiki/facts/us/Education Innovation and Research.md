@@ -13,7 +13,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -53,6 +53,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Investing in Innovation Program]]"
   - "[[What Works Clearinghouse]]"

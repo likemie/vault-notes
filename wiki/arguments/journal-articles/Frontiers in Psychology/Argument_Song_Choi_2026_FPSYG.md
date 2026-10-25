@@ -79,9 +79,9 @@ related_methods:
   - "[[Between-Study Variance]]"
   - "[[Moderator Analysis]]"
   - "[[Confidence Interval]]"
+  - "[[Experimental Research]]"
   - "[[Funnel Plot]]"
   - "[[Correlational Research]]"
-  - "[[Experimental Research]]"
   - "[[Questionnaire]]"
 related_instruments:
   - "[[PRISMA]]"
@@ -175,7 +175,7 @@ issuing_organization: ""
 > |------|----------------|
 > | **文献检索与筛选**<br>PRISMA Systematic Review | 系统检索 9 个中英文数据库（韩文：DBpia, RISS, KISS, ScienceON；国际：Web of Science, Scopus, [[Education Resources Information Center\|ERIC]], PsycINFO, Google Scholar），初检 502 篇，去重后初筛 362 篇，全文审查 54 篇，最终纳入 18 项符合标准的 K-12 阶段实证研究（2001–2025 年）。 |
 > | **数据编码与质量评估**<br>Coding Sheet & JBI Checklist | 依据标准化[[Qualitative Codebook\|编码手册]]提取 8 大类核心维度（学段、年级、性别、[[Epistemology\|认识论]][[Construct\|构念]]、学习成果类型、[[Domain Specificity\|领域特异性]]、学科科目、量表极性与[[Measurement Alignment\|测量对齐]]度）；采用修订版 Joanna Briggs Institute (JBI) 横断面量表评估偏倚风险（11 项高质量，7 项中等质量）。 |
-> | **三层方差分解与元回归**<br>[[Three-Level Meta-Analysis\|Three-Level Meta-Analysis]] | 基于 R 语言（v4.5.0）`metafor::rma.mv`，采用受限最大似然法（REML）估计三层随机效应模型，将 512 个效应量的方差分解为抽样误差（Level 1）、研究内变异（Level 2, $\tau_w^2$）与研究间变异（Level 3, $\tau_b^2$）；通过多元混合效应元回归检验 6 类分类调节变量。 |
+> | **三层方差分解与元回归**<br>[[Three-Level Meta-Analysis]] | 基于 R 语言（v4.5.0）`metafor::rma.mv`，采用受限最大似然法（REML）估计三层随机效应模型，将 512 个效应量的方差分解为抽样误差（Level 1）、研究内变异（Level 2, $\tau_w^2$）与研究间变异（Level 3, $\tau_b^2$）；通过多元混合效应元回归检验 6 类分类调节变量。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

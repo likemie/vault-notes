@@ -8,7 +8,7 @@ summary: "英国杜伦大学教育学与公共政策教授，杜伦大学证据�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -48,6 +48,7 @@ related_persons:
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Research Excellence Framework]]"
+  - "[[Economic and Social Research Council]]"
 related_arguments:
   - "[[Argument_Gorard_2020_ROE]]"
 confidence: high

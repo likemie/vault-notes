@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27"
 argument_display_title: "Research Methods in Education · Ch27"
 argument_kind: "book-chapter"
-argument_related_count: 28
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Covert Research]]"
   - "[[Discourse]]"
+  - "[[Interactive Whiteboards]]"
   - "[[Research Ethics]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Anonymity in Research]]"
@@ -65,6 +66,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Economic and Social Research Council]]"
   - "[[British Sociological Association Statement on Visual Research Ethics]]"
   - "[[ESRC Review of Ethical Issues in Visual Research]]"
 related_arguments: []

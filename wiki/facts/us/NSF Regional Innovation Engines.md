@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -53,6 +53,7 @@ related_facts:
   - "[[Department of Energy]]"
   - "[[Infrastructure Investment and Jobs Act]]"
   - "[[Regional Technology and Innovation Hubs]]"
+  - "[[Department of Commerce]]"
   - "[[National Semiconductor Technology Center]]"
 related_arguments:
   - "[[Argument_Reynolds_2024_JICT]]"

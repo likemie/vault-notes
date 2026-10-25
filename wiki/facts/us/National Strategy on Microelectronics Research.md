@@ -9,7 +9,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 43
+fact_related_count: 46
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
@@ -57,8 +57,11 @@ related_facts:
   - "[[Microelectronics Commons]]"
   - "[[SBIR and STTR Programs]]"
   - "[[Industrial Advisory Committee]]"
+  - "[[United States Congress]]"
   - "[[Office of Science and Technology Policy]]"
+  - "[[National Institute of Standards and Technology]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
+  - "[[Department of Defense]]"
   - "[[DARPA]]"
   - "[[Next-Generation Microsystems Manufacturing]]"
   - "[[National Science Foundation]]"

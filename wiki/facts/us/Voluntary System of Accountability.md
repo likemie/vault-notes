@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,6 +24,7 @@ tags:
   - theme/higher-order-thinking
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[Scoring Rubrics]]"
   - "[[Attrition]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -34,6 +35,7 @@ related_instruments:
   - "[[ETS Proficiency Profile]]"
 related_persons: []
 related_facts:
+  - "[[United States Department of Education]]"
   - "[[Spellings Report]]"
   - "[[Council for Aid to Education]]"
   - "[[Educational Testing Service]]"

@@ -6,7 +6,7 @@ aliases:
 summary: "曼纽尔·卡斯特开创的宏观社会学理论，将现代社会组织形态界定为由流动网络而非垂直科层等级主导的结构，阐明流动空间与场所空间、网络化知识生产及全球教育治理的跨国重构机制"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 57
+theory_related_count: 51
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -44,10 +44,6 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Variable]]"
   - "[[Transnational Research Collaboration]]"
-  - "[[Normal School]]"
-  - "[[Gatekeepers]]"
-  - "[[Recontextualization]]"
-  - "[[Cult of Optionality]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Commensuration]]"
@@ -57,8 +53,6 @@ related_theories:
   - "[[Informationalism]]"
 related_methods:
   - "[[Classroom Observation]]"
-  - "[[Discourse Analysis]]"
-  - "[[Semi-structured Interview]]"
 related_persons:
   - "[[Manuel Castells]]"
   - "[[Jason Beech]]"
@@ -83,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

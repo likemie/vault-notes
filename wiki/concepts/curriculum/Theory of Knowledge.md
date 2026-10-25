@@ -8,7 +8,7 @@ aliases:
 summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形成方式、证据标准与认识边界，连接学科学习、个人经验和批判性反思。"
 type: concept
 domain: "curriculum"
-related_count: 78
+related_count: 71
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -67,7 +67,6 @@ related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Pragma-Dialectics]]"
 related_methods:
-  - "[[Effect Size]]"
   - "[[Convenience Sampling]]"
   - "[[Analysis of Variance]]"
   - "[[Case Study]]"
@@ -79,8 +78,7 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Paulo Freire]]"
   - "[[Socrates]]"
-related_facts:
-  - "[[Chinese Academy of Sciences]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
@@ -96,16 +94,11 @@ related_arguments:
   - "[[Argument_Zemplen_2007_SciEduc]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
   - "[[Argument_Metli_2022_IJEdReform]]"
-related_instruments:
-  - "[[Critical Thinking Strategies Scale]]"
-  - "[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale]]"
-  - "[[Academic Self-Concept General Scale]]"
-  - "[[California Critical Thinking Disposition Inventory]]"
-  - "[[Confidence Teaching TOK Scale]]"
+related_instruments: []
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---

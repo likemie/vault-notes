@@ -11,7 +11,7 @@ subtype: policy
 region: "uk"
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 34
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[School Inspection]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Free School Meals]]"
   - "[[Academic Achievement]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Critical Pedagogy]]"
@@ -51,6 +52,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Ofsted]]"
+  - "[[Department for Education]]"
   - "[[The Importance of Teaching]]"
   - "[[Sutton Trust]]"
   - "[[National Pupil Database]]"

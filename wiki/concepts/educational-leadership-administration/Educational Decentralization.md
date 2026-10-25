@@ -9,7 +9,7 @@ aliases:
 summary: "国家教育行政权力从中央向地方区域、市镇或基层学校转移的治理重构。在民主化与公共行政视界中，旨在提升响应效率与公民参与，但面临官僚膨胀与体系割裂风险；在国际组织普遍模型中，表现为剥离中央兜底责任的远处治理；在新自由主义试验中（如新西兰明日学校），则常沦为拆解公共服务、迫使学校市场化采购并滋生商业外包垄断的私有化跳板。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 38
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Corporate Education]]"
   - "[[Variable]]"
-  - "[[Falsification]]"
   - "[[Shape-Shifting]]"
   - "[[Educational Privatisation]]"
   - "[[Endogenous Privatisation]]"
@@ -70,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -96,7 +95,7 @@ updated: 2026-10-22
 > |---|---|---|---|---|
 > | 英国 | 地方教育当局（LEAs）自治传统 | 郡县地方层面 | 1944 年设立国家教育部，1988 年确立国家课程，呈现防范过度地方化的集权回流（[[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido, 2009, p. 326]]）。 | 地方传统与中央统一问责之间摩擦。 |
 > | 美国 | 州级宪制教育主权 | 联邦州（States）层面 | 1979 年设立联邦教育部，联邦民权保障与《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》问责深度渗透（p. 326）。 | 各州标准不一与学区资助不公。 |
-> | 德国 | 联邦州（Länder）享有文化高权 | 联邦州大区层面 | 1969 年设立联邦教育部，[[PISA\|PISA]] 冲击后各州反思割据，联邦干预呼声高涨（p. 326）。 | 州际标准壁垒导致国民教育质量不均。 |
+> | 德国 | 联邦州（Länder）享有文化高权 | 联邦州大区层面 | 1969 年设立联邦教育部，[[PISA]] 冲击后各州反思割据，联邦干预呼声高涨（p. 326）。 | 州际标准壁垒导致国民教育质量不均。 |
 > | 法国 | 传统中央集权体制 | 学区（les Académies） | 属于职能外派（Déconcentration），中央始终掌握课程、文凭核发与人事大权，力求克服官僚僵化（p. 327）。 | 官僚层级刚性强，地方响应迟钝。 |
 > | 意大利 | 传统中央集权体制 | 大区（le regioni） | 属于职能外派，中央教育部统一领导，贝尔林格改革确立公私学校平等地位（pp. 327, 330）。 | 南北方区域发展严重不平衡。 |
 > | 北欧国家 | 适度集权基础 | 基层市镇（Municipalities） | 权力下放严格限定于基层市镇议会，坚决避免在大区层面进行政治性分割（p. 327）。 | 高度依赖地方税收基底与国家均衡转移支付。 |

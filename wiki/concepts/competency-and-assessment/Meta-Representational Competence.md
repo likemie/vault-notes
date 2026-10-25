@@ -7,7 +7,7 @@ aliases:
 summary: "学习者生成、评估、修改、发明和跨通道转译外部表征形式（图表、符号、概念图）的高阶元认知能力"
 type: concept
 domain: "competency-and-assessment"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Mind Mapping]]"
   - "[[Argument Mapping]]"
   - "[[Self-Scaffolding]]"
-  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -61,7 +60,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 元表征能力 vs 表征识读技能 vs 一般[[Metacognition\|元认知]]
-> | 比较维度 | 元表征能力（MRC） | 表征识读技能（Representational Literacy） | 一般元认知（General [[Metacognition\|Metacognition]]） |
+> | 比较维度 | 元表征能力（MRC） | 表征识读技能（Representational Literacy） | 一般元认知（General [[Metacognition]]） |
 > |---|---|---|---|
 > | **认知客体** | 外部表征系统本身（图式、图表、符号网络） | 特定图表或文本的既定内容信息 | 自身的记忆、注意力与思维监控过程 |
 > | **核心操作** | 发明新图示、评估表征优劣、跨模态转译 | 照章读图、提取图表中的具体数值与标签 | 计划任务进度、检查计算错误、调控做题速度 |

@@ -10,9 +10,9 @@ subtype: organization
 region: japan
 fact_region: "japan"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: government-agency
 headquarters: "Tokyo, Japan"
@@ -22,13 +22,23 @@ tags:
   - theme/educational-governance
   - theme/curriculum-reform
   - theme/science-policy
-related_concepts: []
+related_concepts:
+  - "[[Externalization]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[PISA]]"
+  - "[[National Institute for Educational Policy Research]]"
+  - "[[PISA Shock in Japan]]"
+  - "[[Tsukuba Science City]]"
+related_arguments:
+  - "[[Argument_Niemann_Martens_2018_GSP]]"
+  - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
+  - "[[Argument_Bouckaert_2023_OECD]]"
+  - "[[Argument_Li_2025_HSSC]]"
+  - "[[Argument_Cheng_2026_KeJiChuangXin]]"
 confidence: medium
 status: draft
 created: 2026-10-26

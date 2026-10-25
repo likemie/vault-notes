@@ -11,9 +11,9 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 26
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 32
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 issuing_organization: "[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]"
 tags:
@@ -29,11 +29,14 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Research Translation]]"
+  - "[[English-Medium Instruction in Higher Education]]"
+  - "[[Apprenticeship]]"
   - "[[Research Universities]]"
   - "[[Geopolitics]]"
   - "[[South-South Cooperation]]"
   - "[[Education Going Global]]"
   - "[[Hard Power]]"
+  - "[[Public Diplomacy]]"
   - "[[Policy Framing]]"
   - "[[Technology Transfer]]"
 related_theories:
@@ -45,10 +48,13 @@ related_methods:
   - "[[Critical Discourse Analysis]]"
 related_persons: []
 related_facts:
+  - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Belt and Road Initiative]]"
   - "[[Luban Workshop]]"
+  - "[[Xiamen University Malaysia]]"
   - "[[University Alliance of the Silk Road]]"
   - "[[Confucius Institute]]"
+  - "[[Double First-Class Initiative]]"
   - "[[Forum on China-Africa Cooperation]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"

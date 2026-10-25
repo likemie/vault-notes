@@ -8,7 +8,7 @@ aliases:
 summary: "在认识论认知AIR模型中，用于生成可信、有效认识产出的因果性认识过程及其适用与保障条件。"
 type: concept
 domain: "educational-psychology"
-related_count: 38
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -48,7 +48,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Blinding]]"
   - "[[Systematic Review]]"
-  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Discourse Analysis]]"
   - "[[Sample Size Determination]]"
@@ -63,7 +62,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-26
+updated: 2026-10-25
 ---
 
 ---

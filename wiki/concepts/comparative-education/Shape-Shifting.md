@@ -7,10 +7,10 @@ aliases:
 summary: "教育制度、思想或实践在跨越空间、场域或制度边界流动过程中发生的深层结构重组与形态变异，由 Cowen (2009b) 提出‘移动即变形’命题，并由 Beech (2009a, 2009b) 深化为涵盖话语截断、政策杂糅与微观反常替代的多层级形态分析。"
 type: concept
 domain: "comparative-education"
-related_count: 44
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/comparative-education
   - theme/educational-transfer
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Creativity]]"
   - "[[Variable]]"
-  - "[[Normal School]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Institutional Isomorphism]]"
@@ -49,10 +48,6 @@ related_theories:
   - "[[Network Society]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[In-depth Interview]]"
-  - "[[Qualitative Research]]"
-  - "[[Expert Interview]]"
-  - "[[Case Study]]"
 related_persons:
   - "[[Michael Sadler]]"
   - "[[Robert Cowen]]"
@@ -69,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---

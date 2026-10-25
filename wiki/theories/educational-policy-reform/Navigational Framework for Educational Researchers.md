@@ -8,10 +8,10 @@ aliases:
 summary: "由 Zewelanji N. Serpell 提出的政策导航框架，将宏观立法过程解构为问题识别、议程设置、政策制定与政策合法化四个阶段，指导教育研究者把握动态机会窗口并策略性注入实证证据"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 39
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 40
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory
   - policy/us-federal
@@ -24,7 +24,7 @@ related_concepts:
   - "[[Policymaking Chronosystem]]"
   - "[[Legislative Policy Brief]]"
   - "[[Problem Finding]]"
-  - "[[Educational Brokerage Agency]]"
+  - "[[Knowledge Mediation]]"
   - "[[Boundary Spanner]]"
   - "[[Value Neutrality]]"
   - "[[Policy Window]]"
@@ -53,6 +53,7 @@ related_persons:
   - "[[Carol Weiss]]"
   - "[[John W. Kingdon]]"
 related_facts:
+  - "[[United States Congress]]"
   - "[[The Education Trust]]"
   - "[[American Association for the Advancement of Science]]"
   - "[[American Educational Research Association]]"

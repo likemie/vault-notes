@@ -12,7 +12,7 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -48,6 +48,7 @@ related_facts:
   - "[[European Standards and Guidelines]]"
   - "[[EU]]"
   - "[[Erasmus Programme]]"
+  - "[[European Commission]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[Times Higher Education World University Rankings]]"
 related_arguments:
@@ -139,7 +140,7 @@ updated: 2026-10-26
 > > [!axis] 争议三：表面趋同修辞掩盖深层[[Academic Inbreeding|学术近亲繁殖]]与质量赤字
 > > 博洛尼亚学位体系的机械套用能否自动催生世界一流大学？
 > > - **政界政绩修辞** 南欧等国政客与高校行政层频频将学制改革包装为对标欧洲空间、融入现代化的成功典范。
-> > - **比较学者实证批判** [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido|José Luis García Garrido]]）尖锐指出，西班牙等国在立法上高唱博洛尼亚欧洲主义，但实质上耗费了大量时间却难见实效。大学法案借自治之名将人事与财权下放给自治区，反而助长了地方孤立主义与学术近亲繁殖（教师多由本校嫡系提拔，外地学者遭排斥）；新学制大纲不仅未促进趋同，反而造成地方分割。此外，大学在软科[[Academic Ranking of World Universities|世界大学学术排名]]（[[Academic Ranking of World Universities|ARWU]]）与[[Times Higher Education World University Rankings|泰晤士高等教育世界大学排名]]（THE）中表现极差，博洛尼亚对标彻底沦为掩盖质量危机的表面修辞。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
+> > - **比较学者实证批判** [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido]]）尖锐指出，西班牙等国在立法上高唱博洛尼亚欧洲主义，但实质上耗费了大量时间却难见实效。大学法案借自治之名将人事与财权下放给自治区，反而助长了地方孤立主义与学术近亲繁殖（教师多由本校嫡系提拔，外地学者遭排斥）；新学制大纲不仅未促进趋同，反而造成地方分割。此外，大学在软科[[Academic Ranking of World Universities|世界大学学术排名]]（[[Academic Ranking of World Universities|ARWU]]）与[[Times Higher Education World University Rankings|泰晤士高等教育世界大学排名]]（THE）中表现极差，博洛尼亚对标彻底沦为掩盖质量危机的表面修辞。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
 
 > [!citation-card] 论欧盟软法治理的三重机制与博洛尼亚趋同
 > 诺瓦（Nóvoa, 2002）区分了欧洲联盟影响成员国教育政策的三种机制：第一是促进合作，这种方法建立在展示‘最佳实践’与营造对话氛围之上（这听起来与 19 世纪的比较教育惊人地相似！）；第二种机制是确立量化指标与基准指标（由于辅助性原则阻止欧盟向成员国强加共同教育政策，设置指标成为行使政治影响力的一种手段）；第三种机制则是通过博洛尼亚进程创建‘欧洲高等教育区’。在此路径下，欧盟通过课程结构的标准化、欧洲学分转换与累积系统（ECTS）的引入、学位的可比性以及质量保障体系的建立，在形式上尊重国家边界的同时强力推动着共同政策的落地。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
