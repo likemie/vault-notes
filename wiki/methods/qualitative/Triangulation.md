@@ -6,7 +6,7 @@ aliases:
   - triangulate
   - data triangulation
   - methodological triangulation
-summary: "在研究人类行为的某一方面时使用两种或更多资料收集方法的效度与信度策略，Denzin 将其扩展为时间、空间、组合层次、理论、研究者和方法论六种类型，是共时效度和收敛效度的核心操作化手段"
+summary: "在研究人类行为的某一方面时使用两种或更多资料收集方法的效度与信度策略，Denzin 将其扩展为时间、空间、组合层次、理论、研究者和方法论六种类型，是检验共时效度和聚合效度的核心操作化手段"
 type: method
 method_type: qualitative
 method_family: "qualitative"
@@ -65,7 +65,7 @@ related_instruments:
   - "[[California Critical Thinking Disposition Inventory]]"
 status: draft
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-26
 ---
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-10-16
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 三角验证基于一个隐含的[[Epistemic Stances\|认识论立场]]——存在一个可以通过多种方法逼近的现象，且多种不完美方法的**交叉**比单一方法更接近现象本身。这一立场与严格的[[Constructivist Paradigm\|建构主义]]之间存在张力。
 > - **研究者角色** 研究者从单一方法的使用者转变为**方法策略师**——主动选择对比度大的方法来交叉检验发现，意识到每一种方法本身都是一副选择性滤镜（Smith, 1975）。
-> - **有效性标准** 三角验证主要服务于 **[[Concurrent Validity\|共时效度]]（concurrent validity）** 和 **[[Convergent and Discriminant Validity\|收敛效度]]（convergent validity）**——当不同方法产生基本一致的结果时，研究者对发现的置[[Reliability\|信度]]增加。同时桥接效度与信度——方法间三角验证拥抱了"同一目标的独立测量之间的收敛"这一概念（Campbell & Fiske, 1959）。
+> - **有效性标准** 三角验证主要服务于 **[[Concurrent Validity\|共时效度]]（concurrent validity）** 和 **[[Convergent and Discriminant Validity\|聚合效度]]（convergent validity）**——当不同方法产生基本一致的结果时，研究者对发现的置[[Reliability\|信度]]增加。同时桥接效度与信度——方法间三角验证体现了“同一目标的独立测量相互印证”这一逻辑（Campbell & Fiske, 1959）。
 > - **不声称回答的问题** 三角验证不能保证达到客观真理——Lincoln and Guba (1985, p. 315) 将其重新功能化为[[Interpretive Paradigm\|自然主义探究]]中**数据的检查**（而非效度的证明）；它也不能自动解决由研究者偏见或理论预设引入的系统性偏差。
 
 > [!method-stack] 方法层级
@@ -149,7 +149,7 @@ updated: 2026-10-16
 > [!debates] 围绕三角验证的学术争议
 >
 > > [!axis] 三角验证是否内嵌[[Positivism\|实证主义]]预设
-> > Silverman (1985) 认为三角验证概念本身是实证主义的——数据三角验证尤其暴露了这一点：假设多重数据源（[[Concurrent Validity\|共时效度]]）**优于**单一数据源或工具。假设单一单位总能测量多于一次，违反了互动论关于[[Emergence\|涌现]]性、流动性、独特性和特定性的原则（Denzin, 1997, p. 320）。Denzin (1997) 回应了这一批评，坚称三角验证的效度不在于承诺达到客观真理，而在于对单一方法局限性的自觉。
+> > Silverman (1985) 认为三角验证概念本身具有实证主义倾向——数据三角验证假设多重数据源（[[Concurrent Validity\|共时效度]]）优于单一数据源或工具。假设单一单位总能测量多于一次，违反了互动论关于[[Emergence\|涌现]]性、流动性、独特性和特定性的原则（Denzin, 1997, p. 320）。Denzin (1997) 回应了这一批评，强调三角验证的价值体现于对单一方法局限性的自觉认知，而非盲目承诺达到绝对客观真理。
 > >
 > > - **Silverman** 三角验证的实证主义预设——假设多种方法能交叉出一个单一真实值。
 > > - **Denzin** 反驳了这一解读——三角验证的价值在于对方法论多元性的承诺，而非对客观真理的追求。
@@ -166,7 +166,7 @@ updated: 2026-10-16
 > > - **Lincoln and Guba (1985)** 研究者三角验证的前提有问题——不同研究者可能且应该产生不同的解释。
 > > - **L and G (1985, p. 315)** 提出替代性功能定位：三角验证是数据检查，成员核查是建构检查。
 
-三角验证作为一个方法论概念，其持续价值不在于承诺达到客观真理，而在于**对单一方法局限性的自觉**和**对多重不完美视角的战略性组合**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
+三角验证作为一个方法论概念，其持续价值体现于对单一方法局限性的自觉认知，以及对多重观察视角的战略性组合。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10)]]
 
 ---
 
@@ -185,9 +185,9 @@ updated: 2026-10-16
 
 ---
 
-> [!evidence-grid] 研究索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 9)]] — 在[[Qualitative Research\|质性研究]]设计中介绍三角验证作为八种效度策略之一，描述通过多数据来源汇聚构建主题的操作程序。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, pp. 188–195)]] — 在 Denzin (1970) 六种三角验证类型框架中详细展开，记录对三角验证的四重批评与 Denzin (1997) 的回应，以及 Lincoln and Guba (1985) 对三角验证功能的重定义。
-> - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 以三阶段收敛式设计实现方法三角验证：量化调查（[[Critical Thinking Strategies Scale\|CTSS]]+[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]]）、质性[[Case Study\|案例研究]]（访谈+观察+文件）、组间比较（[[California Critical Thinking Disposition Inventory\|CCTDI]]+[[Academic Self-Concept\|ASC]]+ATAR）三组证据合并比较，检验 ToK 与[[Critical Thinking\|批判性思维]]的关系
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, pp. 453–454)]] — 在[[Virtual World\|虚拟世界]]研究中，文字、聊天、语音和手势等不同沟通渠道的数据均可被记录和[[Transcription in Qualitative Research\|转录]]，通过时间戳（time-stamp）比较不同渠道的分析结果，实现数据三角验证（Martin & Vallance, 2008; Vallance & Wiz, 2008）。
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 在科学教育[[Man-Computer Symbiosis|人机协同]]探究质性研究中，采用[[Multimodal Discourse Analysis|多模态话语分析]]实现系统的数据三角互证（课堂视频录像与同伴对话、4 轮人机交互提示词日志与数字生成物、课后半结构化反思访谈以及[[Qualitative Observation|田野观察]]手记）；同时在教学层面揭示中学生如何通过对照教科书与一手权威资料对生成式 AI 输出展开多源证据三角互证。
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 9)]] — 在[[Qualitative Research|质性研究]]中介绍三角验证作为基础效度策略，阐释多数据源汇聚建构主题的程序。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]] — 详述 Denzin (1970) 六种类型框架并回应批评（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]），并在虚拟世界研究中探讨多渠道数据三角验证（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19|Ch. 19]]）。
+> - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 采用三阶段汇聚设计结合问卷调查、质性案例与组间比较，检验 ToK 与[[Critical Thinking|批判性思维]]的关系。
+> - [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] — 在科学教育人机协同研究中，结合课堂录像、交互提示词日志、反思访谈与田野手记实现多源数据三角互证。
+> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 结合留学生统计年鉴、合作备忘录政策文本、跨国民调与媒体报道，对 40 位知情人的半结构化访谈口述数据展开多源三角互证。
