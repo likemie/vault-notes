@@ -4,6 +4,11 @@ aliases:
   - 早期教育起始年龄
 summary: "EEF 教与学工具包策略提早入园年龄的条目；目前只收录 EEF 证据汇总数据，概念界定待补充。"
 type: concept
+domain: "educational-leadership-administration"
+related_count: 0
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - eef
 related_concepts: []
@@ -16,7 +21,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 # Early Education Starting Age

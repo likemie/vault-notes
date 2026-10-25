@@ -21,7 +21,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!metax-divider]
@@ -40,4 +40,3 @@ updated: 2026-10-22
 > > | Vargas & Camilli (1999) | Sensory integration therapy | 14 | NA | 16 | 0.29 |  |
 > > | Smith (2011) | Sensory integration styles | 47 | 2,176 | 550 | 0.25 |  |
 > > | Leong et al. (2015) | Sensory integration therapy | 30 | 967 | 24 | 0.19 |  |
-

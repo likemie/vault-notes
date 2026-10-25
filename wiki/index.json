@@ -3405,6 +3405,14 @@
     ]
   },
   {
+    "title": "Physical Development Approaches",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Physical Development Approaches.md",
+    "aliases": [
+      "早期身体发展教学"
+    ]
+  },
+  {
     "title": "Play Programs",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Play Programs.md",
@@ -3867,6 +3875,14 @@
     ]
   },
   {
+    "title": "Early Education Starting Age",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Early Education Starting Age.md",
+    "aliases": [
+      "早期教育起始年龄"
+    ]
+  },
+  {
     "title": "Educational Decentralization",
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Educational Decentralization.md",
@@ -3884,6 +3900,14 @@
     "path": "wiki/concepts/educational-leadership-administration/Extending School Time.md",
     "aliases": [
       "延长在校时间"
+    ]
+  },
+  {
+    "title": "Extra Hours in Early Education",
+    "type": "concept",
+    "path": "wiki/concepts/educational-leadership-administration/Extra Hours in Early Education.md",
+    "aliases": [
+      "早期教育在园时长"
     ]
   },
   {
