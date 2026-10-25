@@ -235,6 +235,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 跨国教育形变典型实证案例与机制对照（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

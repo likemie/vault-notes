@@ -106,6 +106,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 金券机制与同行评议偏倚实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

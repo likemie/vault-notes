@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [辅助材料 · Adjunct aids](https://www.visiblelearningmetax.com/influences/view/adjunct_aids)
 > 教学策略 › 教学方法
 >

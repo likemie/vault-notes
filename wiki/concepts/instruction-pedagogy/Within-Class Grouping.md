@@ -25,6 +25,8 @@ created: 2026-10-22
 updated: 2026-10-26
 ---
 
+> [!metax-divider]
+
 > [!metax] [班内分组 · Within-class grouping](https://www.visiblelearningmetax.com/influences/view/within-class_grouping)
 > 课堂 › 班级构成
 >
@@ -43,6 +45,8 @@ updated: 2026-10-26
 > > | Pai et al. (2015) | Small group vs individual on transfer | 38 | NA | 38 | 0.30 |  |
 > > | Kalaian & Kasim (2014a) | Small group in university | 9 | 926 | 10 | 0.47 |  |
 > > | Hall & Burns (2018) | Small group on reading | 26 | NA | 27 | 0.54 |  |
+
+> [!eef-divider]
 
 > [!eef] [班内按成绩分组 · Within class attainment grouping](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/within-class-attainment-grouping)
 > EEF 教与学工具包 · 更新于 2026-07-22 · 小学 16 · 中学 9 · 阅读 15 · 数学 7 · 科学 3

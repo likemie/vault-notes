@@ -212,6 +212,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [专注、坚持与投入 · Concentration-Persistence-Engagement](https://www.visiblelearningmetax.com/influences/view/concentration-persistence-engagement)
 > 学生 › 毅力与自信
 >
@@ -234,6 +236,8 @@ updated: 2026-10-22
 > > | Lindstrom et al. (2021) | Engagement | 21 | 13,521 | 199 | 0.49 |  |
 > > | Wong et al. (2023) | Engagement | 58 | 158,510 | 61 | 0.65 |  |
 > > | Liu (2014) | Need for cognition | 42 | 8,367 | 49 | 0.49 |  |
+
+> [!empirical-divider]
 
 > [!ref-table]- 学生投入的多维[[Operationalization\|操作化]]与实证指标（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

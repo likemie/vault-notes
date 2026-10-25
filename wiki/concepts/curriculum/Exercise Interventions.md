@@ -25,6 +25,8 @@ created: 2026-10-22
 updated: 2026-10-26
 ---
 
+> [!metax-divider]
+
 > [!metax] [运动干预 · Exercise interventions](https://www.visiblelearningmetax.com/influences/view/exercise_interventions)
 > 课程 › 其他课程项目
 >
@@ -49,6 +51,8 @@ updated: 2026-10-26
 > > | Li, Wang, et al. (2023) | Exercise on achievement | 16 | 3,920 | 16 | 0.75 |  |
 > > | Vasilipoulos et al. (2023) | Physical activity on academic outcomes | 92 | 25,334 | 92 | 1.04 |  |
 > > | Robinson et al. (2023) | Resistance training | 10 | NA | 53 | 0.19 |  |
+
+> [!eef-divider]
 
 > [!eef] [体育活动 · Physical activity](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/physical-activity)
 > EEF 教与学工具包 · 更新于 2026-07-22 · 小学 94 · 中学 32 · 阅读 47 · 数学 67 · 科学 4

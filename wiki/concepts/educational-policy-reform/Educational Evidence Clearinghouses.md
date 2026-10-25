@@ -443,6 +443,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 教育证据清算中心与中介机构核心实证研究结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

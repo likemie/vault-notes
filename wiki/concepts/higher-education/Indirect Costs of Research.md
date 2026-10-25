@@ -149,6 +149,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 间接成本与高校科研基建实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

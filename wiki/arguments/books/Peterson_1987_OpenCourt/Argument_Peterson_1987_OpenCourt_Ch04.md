@@ -387,6 +387,8 @@ updated: 2026-10-23
 > | **能证明什么** | 学校和学生愿意使用单科考试，科目考试具有分班或免修价值 | 完整课程、综合考试与大学入学资格能够作为一个整体运行 |
 > | **不能直接证明什么** | 人数多不等于完整文凭已被广泛采用 | 通过人数增长不等于课程产生了优于其他资格的学习效果（pp. 67–68） |
 
+> [!empirical-divider]
+
 > [!ref-table]- 六年试验的考生数量与完整文凭通过率
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

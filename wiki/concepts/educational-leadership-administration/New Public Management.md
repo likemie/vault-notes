@@ -318,6 +318,8 @@ updated: 2026-10-25
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 新公共管理机制在各领域治理中的实证效应对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

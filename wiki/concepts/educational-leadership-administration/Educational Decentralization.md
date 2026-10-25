@@ -213,6 +213,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 跨国教育权力纵向配置与分权实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

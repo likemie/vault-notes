@@ -233,6 +233,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [探究式教学 · Inquiry-based teaching](https://www.visiblelearningmetax.com/influences/view/inquiry-based_teaching)
 > 教学策略 › 教学方法
 >
@@ -255,6 +257,8 @@ updated: 2026-10-22
 > > | Kaçar et al. (2021) | Inquiry methods | 30 | NA | 30 | 1.15 |  |
 > > | Heindl (2019) | Inquiry methods in science | 13 | NA | 13 | 0.74 |  |
 > > | Antonio & Prudente (2024) | Inquiry on higher thinking skills | 20 | 1,349 | 26 | 0.89 |  |
+
+> [!empirical-divider]
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

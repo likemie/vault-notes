@@ -192,6 +192,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 习得性无助与固定能力信念实证研究汇总
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

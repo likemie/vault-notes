@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [愤怒 · Anger](https://www.visiblelearningmetax.com/influences/view/anger)
 > 学生 › 情绪
 >

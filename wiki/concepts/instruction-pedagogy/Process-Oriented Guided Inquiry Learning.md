@@ -231,6 +231,8 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 
 ---
 
+> [!empirical-divider]
+
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >

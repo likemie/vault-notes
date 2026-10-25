@@ -237,6 +237,8 @@ updated: 2026-10-22
 > | **测验类型对比** | 通用批判性思维测验（Generic CT） | 341 | 0.30 | 0.25 | 0.34 | — | 教学对通用与学科特异思维均具促进力，学科特异测验显示更强近迁移效应。 |
 > | | 学科特异思维测验（Content-Specific CT） | 97 | 0.59 | 0.48 | 0.70 | — | |
 
+> [!empirical-divider]
+
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

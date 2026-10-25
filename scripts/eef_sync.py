@@ -360,7 +360,7 @@ updated: 2026-10-25
    成本与证据强度沿用 EEF 五级评分（●○），研究列表默认折叠；勘误框只在自动核算或 eef/errata.json 有内容时出现。 %%
 
 """
-    TEMPLATE.write_text(head + render_strand(slug, s, load_json(ERRATA_JSON, []), arguments_meta()) + "\n", encoding="utf-8")
+    TEMPLATE.write_text(head + DIVIDER + "\n\n" + render_strand(slug, s, load_json(ERRATA_JSON, []), arguments_meta()) + "\n", encoding="utf-8")
     print(f"wrote {TEMPLATE.relative_to(ROOT)}")
     return 0
 
@@ -368,12 +368,14 @@ updated: 2026-10-25
 
 # ----------------------------------------------------------------- entries
 EEF_TOP_RE = re.compile(r"^> \[!eef\][^\n]*\n(?:>[^\n]*(?:\n|\Z))*\n*", re.M)
+DIVIDER = "> [!eef-divider]"
+DIVIDER_RE = re.compile(r"^> \[!eef-divider\][^\n]*(?:\n>[^\n]*)*\n*", re.M)
 METAX_TOP_RE = re.compile(r"^> \[!metax\][^\n]*\n(?:>[^\n]*(?:\n|\Z))*", re.M)
 
 
 def remove_module(body: str) -> str:
     """Remove only [!eef] blocks; MetaX blocks and all other content are untouched."""
-    return re.sub(r"\n{3,}", "\n\n", EEF_TOP_RE.sub("", body))
+    return re.sub(r"\n{3,}", "\n\n", DIVIDER_RE.sub("", EEF_TOP_RE.sub("", body)))
 
 
 def insert_module(body: str, module: str) -> str:
@@ -399,7 +401,7 @@ def insert_module(body: str, module: str) -> str:
         return put_at(end_of_block(mx[-1]))
     emp = re.compile(r"concept-(effect|meta-analysis|second-order-meta|subgroup|other-empirical)-table-marker")
     for i, l in enumerate(lines):
-        if l.startswith("> [!") and emp.search("".join(lines[i:i + 4])):
+        if l.startswith("> [!empirical-divider]") or (l.startswith("> [!") and emp.search("".join(lines[i:i + 4]))):
             return put_at(i)
     starts = [i for i, l in enumerate(lines) if re.match(r"^> \[!(effect-table|ma-table|ref-table)\b", l)]
     if starts:
@@ -451,7 +453,7 @@ def cmd_render(args, data=None) -> int:
             continue
         text = path.read_text(encoding="utf-8")
         if slugs:
-            module = "\n\n".join(render_strand(s_, data["strands"][s_], errata, meta) for s_ in sorted(slugs)) + "\n"
+            module = DIVIDER + "\n\n" + "\n\n".join(render_strand(s_, data["strands"][s_], errata, meta) for s_ in sorted(slugs)) + "\n"
             new = insert_module(text, module)
         else:
             new = remove_module(text)

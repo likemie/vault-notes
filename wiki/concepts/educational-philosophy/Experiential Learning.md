@@ -153,6 +153,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 已报告的课程采用与资源条件
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

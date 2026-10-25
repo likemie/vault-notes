@@ -166,6 +166,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 民族复兴背景下教育涉外布局统计指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

@@ -200,6 +200,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 嵌入式自主性在历史赶超与当代产业战略中的制度实践对比
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

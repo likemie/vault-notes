@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [音乐项目 · Music programs](https://www.visiblelearningmetax.com/influences/view/music_programs)
 > 课程 › 读写与艺术
 >

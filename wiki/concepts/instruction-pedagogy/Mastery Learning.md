@@ -25,6 +25,8 @@ created: 2026-10-22
 updated: 2026-10-26
 ---
 
+> [!metax-divider]
+
 > [!metax] [掌握学习 · Mastery learning](https://www.visiblelearningmetax.com/influences/view/mastery_learning)
 > 教学策略 › 学习意图
 >
@@ -51,6 +53,8 @@ updated: 2026-10-26
 > > | Ede & Igbokwe (2018) | Mastery testing | 42 | NA | 42 | 0.54 |  |
 > > | Vladescu (2020) | Mastery learning | 6 | NA | 6 | 0.94 |  |
 > > | Basar et al. (2016) | Mastery learning | 24 | NA | 24 | 1.55 |  |
+
+> [!eef-divider]
 
 > [!eef] [掌握学习 · Mastery learning](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/mastery-learning)
 > EEF 教与学工具包 · 更新于 2025-05-21 · 小学 38 · 中学 42 · 阅读 10 · 数学 34 · 科学 22

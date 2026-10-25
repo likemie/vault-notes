@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [教师学科知识 · Teacher subject matter knowledge](https://www.visiblelearningmetax.com/influences/view/teacher_subject_matter_knowledge)
 > 教师 › 教师教育
 >

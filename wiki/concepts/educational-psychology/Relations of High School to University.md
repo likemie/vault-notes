@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [高中成就与大学成就 · Relations of high school to university](https://www.visiblelearningmetax.com/influences/view/relations_of_high_school_to_university)
 > 学生 › 先备知识与背景
 >

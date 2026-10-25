@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [语音意识 · Phonological awareness](https://www.visiblelearningmetax.com/influences/view/phonological_awareness)
 > 课程 › 读写与艺术
 >

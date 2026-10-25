@@ -184,6 +184,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 历史与经验案例对照表
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

@@ -203,6 +203,8 @@ updated: 2026-10-26
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [反馈 · Feedback](https://www.visiblelearningmetax.com/influences/view/feedback)
 > 教学策略 › 反馈
 >
@@ -352,6 +354,8 @@ updated: 2026-10-26
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Kulik & Kulik (1988) | Timing of feedback | 53 | NA | 53 | 0.49 |  |
 
+> [!eef-divider]
+
 > [!eef] [反馈 · Feedback](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback)
 > EEF 教与学工具包 · 更新于 2026-07-22 · 小学 45 · 中学 55 · 阅读 36 · 数学 24 · 科学 13
 >
@@ -468,6 +472,8 @@ updated: 2026-10-26
 >
 > > [!eef-errata] 1 条
 > > - ∑ **自动核算 · 研究数不一致** 页面“How secure is the evidence?”一节称纳入 155 项研究；参考文献列表为 103 条效应量，来自 83 项研究，合并效应量据后者计算。
+
+> [!empirical-divider]
 
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

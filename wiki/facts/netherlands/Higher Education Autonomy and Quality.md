@@ -126,6 +126,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 关键改革成效指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

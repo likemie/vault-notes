@@ -225,6 +225,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 科学不确定性沟通与受众认知实证数据表
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

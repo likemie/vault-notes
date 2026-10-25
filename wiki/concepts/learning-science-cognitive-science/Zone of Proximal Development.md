@@ -273,6 +273,8 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 
 ---
 
+> [!empirical-divider]
+
 > [!effect-table]- 原始实证研究快照
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >

@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [自我评判与反思 · Self-judgement and reflection](https://www.visiblelearningmetax.com/influences/view/self-judgement_and_reflection)
 > 学生学习策略 › 元认知／自我调节学习
 >

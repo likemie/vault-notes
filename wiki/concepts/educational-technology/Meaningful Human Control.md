@@ -235,6 +235,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 有意义人类控制相关实证基准与验证表现
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

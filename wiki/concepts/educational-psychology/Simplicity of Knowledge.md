@@ -135,6 +135,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 知识简单性（SK）实证研究汇总
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

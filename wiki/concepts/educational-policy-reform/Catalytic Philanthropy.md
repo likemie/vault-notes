@@ -162,6 +162,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 催化慈善在教育改革中的实证案例对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

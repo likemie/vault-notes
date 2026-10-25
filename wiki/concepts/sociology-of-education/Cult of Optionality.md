@@ -91,6 +91,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 哈佛大学毕业生进入金融与咨询业的长期演变趋势
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

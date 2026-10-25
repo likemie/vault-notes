@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [童年不良经历 · Adverse child events](https://www.visiblelearningmetax.com/influences/view/adverse_child_events)
 > 学生 › 生理因素
 >

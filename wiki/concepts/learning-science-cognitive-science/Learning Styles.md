@@ -211,6 +211,8 @@ updated: 2026-10-26
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [学习风格与学业成就 · Correlating learning styles to achievement](https://www.visiblelearningmetax.com/influences/view/correlating_learning_styles_to_achievement)
 > 学生学习策略 › 学生导向干预
 >
@@ -250,12 +252,16 @@ updated: 2026-10-26
 > > | Phillips et al. (2016) | Reflection thinking styles on performance | 89 | 17,704 | 68 | 0.11 |  |
 > > | Peterson & Meissel (2015) | verbal-imagery vs holistic thinking | 15 | 1,457 | 15 | 0.16 |  |
 
+> [!eef-divider]
+
 > [!eef] [学习风格 · Learning styles](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/learning-styles)
 > EEF 教与学工具包 · 更新于 2026-01-13
 >
 > | imp | cost | evi | n | smd | ci | i2 |
 > | --- | --- | --- | --- | --- | --- | --- |
 > | NA 影响不明 | ●○○○○ 极低 | ○○○○○ 不足 | 0 | NA | NA | NA |
+
+> [!empirical-divider]
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>

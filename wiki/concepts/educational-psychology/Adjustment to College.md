@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [大学适应 · Adjustment to college](https://www.visiblelearningmetax.com/influences/view/adjustment_to_college)
 > 学生 › 毅力与自信
 >

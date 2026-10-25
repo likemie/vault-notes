@@ -135,6 +135,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 职业教育国际化合作实践与网络实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

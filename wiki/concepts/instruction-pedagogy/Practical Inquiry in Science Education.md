@@ -69,6 +69,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 动手实验频率监测数据（SET 2016–2023）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

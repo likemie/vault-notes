@@ -223,6 +223,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 柱状化制度特征与解柱改革历史实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

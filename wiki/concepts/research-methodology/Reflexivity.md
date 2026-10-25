@@ -327,6 +327,8 @@ updated: 2026-10-22
 > 
 > 实证表明，一线教师往往乐于在表层行动上频繁试错（82%），但在触及教育哲学和决策根因的“深层假设反身性审视”上存在明显的认知滞后（55%），印证了实践者反思性缺乏将导致学校陷入“只顾开会尝试、不顾因果根因”的组织病理。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 130–131)]]
 
+> [!empirical-divider]
+
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

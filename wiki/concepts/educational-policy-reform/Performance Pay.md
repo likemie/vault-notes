@@ -249,6 +249,8 @@ updated: 2026-10-26
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [教师绩效工资 · Teacher performance pay](https://www.visiblelearningmetax.com/influences/view/teacher_performance_pay)
 > 学校 › 学校资源
 >
@@ -261,6 +263,8 @@ updated: 2026-10-26
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Pham et al. (2021) | Merit pay on student performance | 37 | NA | 244 | 0.05 |  |
 > > | Fitzpatrick et al. (2024) | Merit pay bonus amount | 25 | NA | 25 | -0.12 |  |
+
+> [!eef-divider]
 
 > [!eef] [绩效工资 · Performance pay](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/performance-pay)
 > EEF 教与学工具包 · 更新于 2026-01-13 · 小学 14 · 中学 11 · 阅读 34 · 数学 38 · 科学 2
@@ -319,6 +323,8 @@ updated: 2026-10-26
 > > | Jensen (2012) | 学位论文 | −0.09 | −0.17 ~ −0.01 | 1.5% |  |
 > > | Eberts (2002) | 期刊论文 | −0.09 | −0.23 ~ 0.05 | 1.2% |  |
 > > | Shifrer (2017) | 期刊论文 | −0.10 | −0.26 ~ 0.06 | 1.1% |  |
+
+> [!empirical-divider]
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

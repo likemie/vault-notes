@@ -281,6 +281,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [问题导向学习 · Problem-based learning](https://www.visiblelearningmetax.com/influences/view/problem-based_learning)
 > 教学策略 › 教学方法
 >
@@ -322,6 +324,8 @@ updated: 2026-10-22
 > > | Klager (2018) | PBL | 17 | NA | 17 | 0.46 |  |
 > > | Uluçinar (2023) | PBL | 55 | NA | 55 | 1.01 |  |
 > > | Erdem (2022) | PBL | 13 | NA | 15 | 0.82 |  |
+
+> [!empirical-divider]
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

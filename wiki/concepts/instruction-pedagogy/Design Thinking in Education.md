@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [设计思维 · Design thinking](https://www.visiblelearningmetax.com/influences/view/design_thinking)
 > 教学策略 › 教学方法
 >

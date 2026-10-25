@@ -171,6 +171,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 国际大规模教育现场试验[[Sample Size Determination\|样本量]]与统计精度实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

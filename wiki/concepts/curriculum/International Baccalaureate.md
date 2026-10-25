@@ -316,6 +316,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 制度规模、课程采用与组织条件
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

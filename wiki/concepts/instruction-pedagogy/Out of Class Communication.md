@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [课外师生沟通 · Out of class communication](https://www.visiblelearningmetax.com/influences/view/out_of_class_communication)
 > 教学策略 › 教学方法
 >

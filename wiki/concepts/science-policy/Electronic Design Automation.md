@@ -152,6 +152,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 电子设计自动化工具生态与产业集中度实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

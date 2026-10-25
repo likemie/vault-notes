@@ -237,6 +237,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 比较教育学理论[[Paradigm|范式]]演变与实证分布
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

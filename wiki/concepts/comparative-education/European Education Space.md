@@ -213,6 +213,8 @@ graph TD
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- [[International Large-Scale Assessments|国际大规模评估]]研究的欧洲区域集聚数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [拖延 · Procrastination](https://www.visiblelearningmetax.com/influences/view/procrastination)
 > 学生 › 情绪
 >

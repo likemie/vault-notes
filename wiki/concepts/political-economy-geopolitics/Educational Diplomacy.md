@@ -147,6 +147,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 东南亚区域教育外交实证指标对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

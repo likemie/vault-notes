@@ -160,6 +160,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 百年屈辱[[Discourse|话语]]与对外战略教育投入实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

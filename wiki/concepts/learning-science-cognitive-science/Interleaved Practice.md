@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [交错练习 · Interleaved practice](https://www.visiblelearningmetax.com/influences/view/interleaved_practice)
 > 学生学习策略 › 学习策略
 >

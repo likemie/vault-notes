@@ -230,6 +230,8 @@ updated: 2026-10-26
 > | **一对一辅导：助教（Tier 3）** | [[Pirate Math]] | 3 年级 | 1 项 | $+0.37$ | 强证据（Strong） |
 > | **一对一辅导：助教（Tier 3）** | [[Tutor-Assisted Math Problem Solving]] | 3 年级 | 1 项 | $+0.42$ | 强证据（Strong） |
 
+> [!metax-divider]
+
 > [!metax] [干预反应模式 · Response to Intervention](https://www.visiblelearningmetax.com/influences/view/response_to_intervention)
 > 教学策略 › 教学方法
 >

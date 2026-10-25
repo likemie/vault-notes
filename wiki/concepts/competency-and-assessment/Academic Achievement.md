@@ -455,6 +455,8 @@ updated: 2026-10-26
 
 ---
 
+> [!empirical-divider]
+
 > [!effect-table]- 原始研究结果与干预[[Effect Size|效应量]]
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >

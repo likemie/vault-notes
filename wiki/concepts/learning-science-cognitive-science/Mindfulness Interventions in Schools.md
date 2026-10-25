@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [冥想干预 · Meditation interventions](https://www.visiblelearningmetax.com/influences/view/meditation_interventions)
 > 学生学习策略 › 学生导向干预
 >

@@ -100,6 +100,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 仙童双列直插封装与早期封装形态的工程性能考证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

@@ -280,6 +280,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- [[Construct|构念]]效度核心实证研究数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

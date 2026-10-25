@@ -290,6 +290,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 经典案例与质性实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

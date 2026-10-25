@@ -200,6 +200,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 制度层叠机制的实证文献分析
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

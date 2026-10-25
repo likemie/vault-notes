@@ -281,6 +281,8 @@ updated: 2026-10-26
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [家庭作业 · Homework](https://www.visiblelearningmetax.com/influences/view/homework)
 > 技术、学校与校外策略 › 校外
 >
@@ -303,6 +305,8 @@ updated: 2026-10-26
 > > | Kwon et al. (2021) | Homework on achievement | 12 | NA | 12 | 0.23 |  |
 > > | Bishop et al. (2024) | Online vs. traditional homework | 18 | NA | 18 | 0.06 |  |
 > > | Guo et al. (2024) | Homework vs. no homework | 14 | 747 | 14 | 0.45 |  |
+
+> [!eef-divider]
 
 > [!eef] [家庭作业 · Homework](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/homework)
 > EEF 教与学工具包 · 更新于 2025-05-21 · 小学 11 · 中学 33 · 阅读 5 · 数学 26 · 科学 7
@@ -361,6 +365,8 @@ updated: 2026-10-26
 >
 > > [!eef-errata] 1 条
 > > - ∑ **自动核算 · 研究数不一致** 页面“How secure is the evidence?”一节称纳入 43 项研究；参考文献列表为 44 条效应量，来自 42 项研究，合并效应量据后者计算。
+
+> [!empirical-divider]
 
 > [!ma-table]- 一阶与二阶[[Meta-analysis|元分析]]结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

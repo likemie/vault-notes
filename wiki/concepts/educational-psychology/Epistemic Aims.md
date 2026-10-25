@@ -189,6 +189,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]任务目标对齐与成就类型[[Interaction Effect\|调节效应]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >

@@ -152,6 +152,8 @@ updated: 2026-10-20
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 关键实证测量与因子结构
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

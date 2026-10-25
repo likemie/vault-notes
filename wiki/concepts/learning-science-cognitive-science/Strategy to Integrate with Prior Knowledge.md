@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [联结先前知识的策略 · Strategy to integrate with prior knowledge](https://www.visiblelearningmetax.com/influences/view/strategy_to_integrate_with_prior_knowledge)
 > 学生学习策略 › 学习策略
 >

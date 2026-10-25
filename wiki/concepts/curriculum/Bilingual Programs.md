@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [双语项目 · Bilingual programs](https://www.visiblelearningmetax.com/influences/view/bilingual_programs)
 > 课程 › 其他课程项目
 >

@@ -286,6 +286,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [直接教学 · Direct instruction](https://www.visiblelearningmetax.com/influences/view/direct_instruction)
 > 教学策略 › 教学方法
 >
@@ -304,6 +306,8 @@ updated: 2026-10-22
 > > | Coughlin (2011) | DI | 20 | NA | 95 | 0.66 |  |
 > > | Alsowat (2020) | Explicit instruction on ELL | 2,361 | 478,287 | 5,662 | 0.59 |  |
 > > | Mason & Otero (2021) | DI | 39 | NA | 39 | 0.79 |  |
+
+> [!empirical-divider]
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

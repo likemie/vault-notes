@@ -139,6 +139,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 半导体制造数字孪生与虚拟化研发规划实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

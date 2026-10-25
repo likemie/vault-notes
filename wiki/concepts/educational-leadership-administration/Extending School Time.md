@@ -26,6 +26,8 @@ updated: 2026-10-25
 
 # Extending School Time
 
+> [!eef-divider]
+
 > [!eef] [延长在校时间 · Extending school time](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/extending-school-time)
 > EEF 教与学工具包 · 更新于 2025-08-06 · 小学 48 · 中学 23 · 阅读 69 · 数学 33 · 科学 3
 >

@@ -204,6 +204,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- TRL 阶段跨越与衍生企业融资实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

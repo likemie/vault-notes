@@ -72,6 +72,8 @@ updated: 2026-10-22
 >
 > 三种回应分别尝试改变学生所在机构、增加单科回报或重组完整课程。[[Argument_Peterson_1987_OpenCourt_Ch06\|Peterson (1987, Ch. 6, pp. 133–140)]]
 
+> [!empirical-divider]
+
 > [!ref-table]- 与制度背景相关的规模记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

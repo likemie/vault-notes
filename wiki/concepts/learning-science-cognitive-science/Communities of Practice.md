@@ -142,6 +142,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 实践共同体在高校学者发展中的实证调查
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

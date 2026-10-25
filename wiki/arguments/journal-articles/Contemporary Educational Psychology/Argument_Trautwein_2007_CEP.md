@@ -253,6 +253,8 @@ issuing_organization: ""
 > [!chain-link] 变量间相关矩阵证据
 > 在全样本潜变量相关分析中，确定性信念与毕业总评成绩呈显著负相关（相关系数 Correlation Coefficient $r = -.23, p < .05$），与认知能力（$r = -.18$）、家庭文化资本（$r = -.17$）及家庭 SES（$r = -.09$）亦呈显著负相关。高中毕业成绩与认知能力（$r = .33$）、文化资本（$r = .25$）、家庭 SES（$r = .11$）及女性（$r = .10$）呈显著正相关，与年龄呈负相关（$r = -.26$）。
 
+> [!empirical-divider]
+
 > [!ref-table]- 表1：最终毕业成绩、确定性信念与五个[[Independent Variable\|预测变量]]的潜变量互相关矩阵
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

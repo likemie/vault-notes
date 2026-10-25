@@ -129,6 +129,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ma-table]- 智力与[[Creativity\|创造力]]关系及门槛假说相关[[Meta-analysis\|元分析]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >

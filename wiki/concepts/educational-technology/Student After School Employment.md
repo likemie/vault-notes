@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [学生课后打工 · Student after school employment](https://www.visiblelearningmetax.com/influences/view/student_after_school_employment)
 > 技术、学校与校外策略 › 校外
 >

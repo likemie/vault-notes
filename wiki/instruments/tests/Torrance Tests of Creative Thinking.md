@@ -93,6 +93,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ma-table]- TTCT 在干预与[[Meta-meta-analysis\|二阶元分析]]中的实证表现
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >

@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [学习环境调控 · Environmental structuring](https://www.visiblelearningmetax.com/influences/view/environmental_structuring)
 > 学生学习策略 › 学习策略
 >

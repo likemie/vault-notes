@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [看电视时长 · Television hours](https://www.visiblelearningmetax.com/influences/view/television_hours)
 > 家庭 › 家庭环境
 >

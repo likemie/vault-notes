@@ -26,6 +26,8 @@ updated: 2026-10-25
 
 # Aspiration Interventions
 
+> [!eef-divider]
+
 > [!eef] [抱负干预 · Aspiration interventions](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/aspiration-interventions)
 > EEF 教与学工具包 · 更新于 2026-01-13
 >

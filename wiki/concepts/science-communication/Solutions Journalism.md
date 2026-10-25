@@ -177,6 +177,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 解决方案新闻受众需求、心理效能与信息渴求实证数据表
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

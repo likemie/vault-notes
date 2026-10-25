@@ -103,6 +103,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 高级市场承诺实践实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

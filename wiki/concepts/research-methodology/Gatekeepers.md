@@ -347,6 +347,8 @@ Bogdan and Biklen（1992）提出了把关人在审查研究方案时核心关�
 > > - **高利害模式** 外部督学高压迫使把关人追求短期速赢与权威背书，陷入只顾忙碌盲动、缺乏因果探究的[[Activity Traps\|活动陷阱]]（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]）。
 > > - **低利害模式** 制度化保障校长与教师的专业自主，通过形成性数据反馈与研训支持体系，引导把关人转型为校本研讨的引导者。
 
+> [!empirical-divider]
+
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

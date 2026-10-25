@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [先行组织者 · Advance organizers](https://www.visiblelearningmetax.com/influences/view/advance_organizers)
 > 教学策略 › 学习意图
 >

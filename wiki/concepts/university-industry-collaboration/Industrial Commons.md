@@ -119,6 +119,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 产业公地实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

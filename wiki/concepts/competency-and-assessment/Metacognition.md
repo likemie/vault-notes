@@ -306,6 +306,8 @@ updated: 2026-10-26
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [元认知策略 · Meta-cognition strategies](https://www.visiblelearningmetax.com/influences/view/meta-cognition_strategies)
 > 学生学习策略 › 元认知／自我调节学习
 >
@@ -338,6 +340,8 @@ updated: 2026-10-26
 > > | Liu (2010) | Metacognitive programs on writing | 11 | 768 | 11 | 0.77 |  |
 > > | Cheng et al. (2023) | Computational thinking | 21 | 1,327 | 21 | 0.85 |  |
 > > | Akpur (2024) | Metacognitive awareness | 36 | 10,463 | 36 | 0.82 |  |
+
+> [!eef-divider]
 
 > [!eef] [元认知与自我调节 · Metacognition and self-regulation](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/metacognition-and-self-regulation)
 > EEF 教与学工具包 · 更新于 2026-07-22 · 学前 11 · 小学 156 · 中学 170 · 阅读 120 · 数学 121 · 科学 43
@@ -704,6 +708,8 @@ updated: 2026-10-26
 > > | Hedin (2008) | 学位论文 | −0.28 | −0.93 ~ 0.36 | 0.2% |  |
 > > | Gudbrandsen (2005) <span class="eef-tag">MSR</span> | 学位论文 | −0.31 | −0.92 ~ 0.30 | 0.2% |  |
 > > | Huff (2009) | 期刊论文 | −0.42 | −0.92 ~ 0.07 | 0.3% |  |
+
+> [!empirical-divider]
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

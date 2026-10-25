@@ -213,6 +213,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- [[Paradigm\|范式]]演变与方法学格局分布文献计量指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

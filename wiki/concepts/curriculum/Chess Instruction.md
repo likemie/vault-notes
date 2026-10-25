@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [国际象棋教学 · Chess instruction](https://www.visiblelearningmetax.com/influences/view/chess_instruction)
 > 课程 › 其他课程项目
 >

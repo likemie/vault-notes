@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [学校合并／转型 · Consolidating / turnaround / merging schools](https://www.visiblelearningmetax.com/influences/view/consolidating~turnaround~merging_schools)
 > 学校 › 学校构成
 >

@@ -171,6 +171,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 经典质性与组织案例实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

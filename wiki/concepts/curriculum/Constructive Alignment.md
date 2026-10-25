@@ -249,6 +249,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 高等教育对齐机制与[[Learning Gain\|学习增益]]实证研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

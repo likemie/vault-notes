@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [词汇项目 · Vocabulary programs](https://www.visiblelearningmetax.com/influences/view/vocabulary_programs)
 > 课程 › 读写与艺术
 >

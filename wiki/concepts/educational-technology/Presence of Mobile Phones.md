@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [手机在场 · Presence of mobile phones](https://www.visiblelearningmetax.com/influences/view/presence_of_mobile_phones)
 > 技术、学校与校外策略 › 移动／触屏
 >

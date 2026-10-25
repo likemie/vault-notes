@@ -309,6 +309,8 @@ updated: 2026-10-22
 > - **23.3% vs 76.7%** 新西兰最大永久留本慈善信托 [[Foundation North]]（净资产 12.15 亿纽币）在 2010–2015 年间年均对外资助总额仅占其年投资收益的 23.3%，其余 76.7% 均留存滚动再投资。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, p. xiii)]]
 > - **NZ\$20M** Foundation North 设立毛利与太平洋岛裔教育倡议（[[Foundation North Māori and Pasifika Education Initiative|MPEI]]）专项并开展 EROI 与 SROI 评估的战略总投入。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, pp. 106–107)]]
 
+> [!empirical-divider]
+
 > [!ref-table]- 跨尺度投资回报实证结果对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

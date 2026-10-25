@@ -110,6 +110,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 可携带式学术资助长期产出与资历壁垒实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

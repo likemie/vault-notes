@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [科学实验项目 · Science Lab programs](https://www.visiblelearningmetax.com/influences/view/science_lab_programs)
 > 课程 › 数学与科学
 >

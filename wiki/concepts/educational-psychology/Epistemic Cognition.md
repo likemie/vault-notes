@@ -251,6 +251,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [认识论认知训练 · Epistemic cognitive training](https://www.visiblelearningmetax.com/influences/view/epistemic_cognitive_training)
 > 教学策略 › 教学方法
 >
@@ -263,6 +265,8 @@ updated: 2026-10-22
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | Epistemic cognitive training | 28 | NA | 59 | 0.51 |  |
 > > | McMullin & Masson (2024) | Explicit Cognitive training | 103 | NA | 1,185 | 0.22 |  |
+
+> [!empirical-divider]
 
 > [!ma-table]- [[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

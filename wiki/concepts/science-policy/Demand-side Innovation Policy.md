@@ -173,6 +173,8 @@ aliases:
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 政府采购需求拉动集成电路产业演进的历史指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

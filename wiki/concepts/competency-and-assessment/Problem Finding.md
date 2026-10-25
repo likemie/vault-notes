@@ -159,6 +159,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ma-table]- 问题发现与创造过程相关一阶与[[Meta-meta-analysis|二阶元分析]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >

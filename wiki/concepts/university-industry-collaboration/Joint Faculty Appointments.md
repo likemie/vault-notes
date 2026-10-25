@@ -173,6 +173,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 跨机构联合教职实证与实务分析对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

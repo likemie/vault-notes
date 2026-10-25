@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [自我报告成绩 · Self-reported grades](https://www.visiblelearningmetax.com/influences/view/self-reported_grades)
 > 学生 › 先备知识与背景
 >

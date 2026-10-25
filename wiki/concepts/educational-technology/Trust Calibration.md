@@ -165,6 +165,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 信任失调与[[Automation Bias|自动化偏差]]实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

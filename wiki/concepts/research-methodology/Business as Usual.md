@@ -256,6 +256,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >

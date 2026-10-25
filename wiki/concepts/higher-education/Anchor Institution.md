@@ -172,6 +172,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 锚定机构赋能区域创新集群实证观察（[[Argument_Zhuo_2026_ICE|卓泽林, 2026]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

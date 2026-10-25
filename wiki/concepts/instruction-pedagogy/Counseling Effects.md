@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [心理辅导 · Counseling effects](https://www.visiblelearningmetax.com/influences/view/counseling_effects)
 > 课堂 › 课堂管理
 >

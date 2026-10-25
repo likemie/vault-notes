@@ -118,6 +118,8 @@ updated: 2026-10-15
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 州立研训与质量机构核心治理指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

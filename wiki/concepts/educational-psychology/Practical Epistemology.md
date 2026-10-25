@@ -204,6 +204,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 实践[[Epistemology\|认识论]]微观实证与[[Discourse Analysis\|话语分析]]研究（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

@@ -168,6 +168,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 顾问统治在公共治理与教育政策中的实证表现对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

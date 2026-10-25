@@ -72,6 +72,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [聊天机器人 · Chatbot](https://www.visiblelearningmetax.com/influences/view/chatbot)
 > 技术、学校与校外策略 › 移动／触屏
 >
@@ -86,6 +88,8 @@ updated: 2026-10-22
 > > | Lee & Hwang (2023) | Chatbots | 16 | NA | 58 | 0.69 |  |
 > > | Alemdag (2023) | Chatbots | 28 | NA | 31 | 0.48 |  |
 > > | Deng & Yu (2023) | Chatbox on achievement | 32 | 2,201 | 32 | 0.79 |  |
+
+> [!empirical-divider]
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

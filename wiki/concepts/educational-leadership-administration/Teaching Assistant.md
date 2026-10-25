@@ -155,6 +155,8 @@ updated: 2026-10-26
 
 ---
 
+> [!eef-divider]
+
 > [!eef] [助教干预 · Teaching Assistant Interventions](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/teaching-assistant-interventions)
 > EEF 教与学工具包 · 更新于 2026-05-15 · 学前 12 · 小学 66 · 中学 10 · 阅读 79 · 数学 16
 >
@@ -262,6 +264,8 @@ updated: 2026-10-26
 >
 > > [!eef-errata] 1 条
 > > - ∑ **自动核算 · 研究数不一致** 页面“How secure is the evidence?”一节称纳入 65 项研究；参考文献列表为 94 条效应量，来自 86 项研究，合并效应量据后者计算。
+
+> [!empirical-divider]
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

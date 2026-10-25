@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [面向学习障碍学生的显性教学 · Explicit teaching strategies with LD](https://www.visiblelearningmetax.com/influences/view/explicit_teaching_strategies__with__ld)
 > 教学策略 › 教学方法
 >

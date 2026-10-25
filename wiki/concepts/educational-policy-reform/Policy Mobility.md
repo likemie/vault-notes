@@ -269,6 +269,8 @@ updated: 2026-10-25
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 跨国教育政策流动案例、中介装配与物质载体对照（2011–2023）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

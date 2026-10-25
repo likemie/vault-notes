@@ -214,6 +214,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 科技寡头全球市值与财富极度集中统计
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

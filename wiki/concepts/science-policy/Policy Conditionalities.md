@@ -285,6 +285,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 政策附加条件在跨国主权借贷与现代产业战略中的实证矩阵
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

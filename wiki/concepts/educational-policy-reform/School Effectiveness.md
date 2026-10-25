@@ -278,6 +278,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [学校效应 · School effects](https://www.visiblelearningmetax.com/influences/view/school_effects)
 > 学校 › 领导
 >
@@ -289,6 +291,8 @@ updated: 2026-10-22
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Scheerens & Bosker (1997) | School effects | 168 | NA | 168 | 0.48 |  |
+
+> [!empirical-divider]
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

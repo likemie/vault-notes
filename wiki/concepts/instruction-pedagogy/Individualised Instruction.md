@@ -245,6 +245,8 @@ updated: 2026-10-26
 > | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 循证干预[[Meta-meta-analysis\|元综合]]评价 | [[Argument_Higgins_2016_ROE\|Higgins (2016)]]; Hattie (1992, 2008) | 归纳个别化教学在纯统计排名中的低效应量（$d = 0.14$），反思自定步调独立学习的局限。 |
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 政策社会学与跨国治理分析 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 剖析欧盟同伴学习活动如何将芬兰面向落后学生的早期个别化教学经验构造成兼顾卓越与公平的跨国通用政策处方。 |
 
+> [!metax-divider]
+
 > [!metax] [个别化教学 · Individual instruction](https://www.visiblelearningmetax.com/influences/view/individual_instruction)
 > 学生学习策略 › 学生导向干预
 >
@@ -267,6 +269,8 @@ updated: 2026-10-26
 > > | Cohen & Dacanay (1992) | Individual instruction in medical education | 30 | NA | 30 | 0.37 |  |
 > > | Blumschein (2003a) | Adaptive methods | 144 | NA | 144 | 0.33 |  |
 > > | Jung et al. (2018) | Data based individualized instruction | 14 | NA | 57 | 0.30 |  |
+
+> [!eef-divider]
 
 > [!eef] [个别化教学 · Individualised instruction](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/individualised-instruction)
 > EEF 教与学工具包 · 更新于 2025-05-21 · 小学 33 · 中学 47 · 阅读 23 · 数学 53 · 科学 10

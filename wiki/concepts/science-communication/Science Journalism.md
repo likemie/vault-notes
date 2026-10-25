@@ -194,6 +194,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 科学新闻受众生态、公信力感知与源头偏差实证数据表
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

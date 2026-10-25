@@ -378,6 +378,8 @@ updated: 2026-10-22
 >
 > **图表解读** 调查显示，在 15 个国际证据门户中，仅有 40%（6 个）采用严格的系统综述作为有效性判定的依据；所有针对具体干预项目的门户（5 个）竟然全部仅凭一至两项研究即做出该项目有效的强断言，凸显出中介机构证据标准参差不齐与底线失守的严峻现实。<span class="portal-standards-table-marker" aria-hidden="true"></span>
 
+> [!empirical-divider]
+
 > [!ref-table]- 国际代表性证据门户评级依据与标准特征对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

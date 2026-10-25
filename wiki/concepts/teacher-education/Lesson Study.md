@@ -187,6 +187,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 课例研究相关实证结果对比
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

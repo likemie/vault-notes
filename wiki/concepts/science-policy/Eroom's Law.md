@@ -112,6 +112,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 厄鲁姆定律与科研生产率放缓实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

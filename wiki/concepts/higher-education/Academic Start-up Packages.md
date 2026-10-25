@@ -169,6 +169,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 启动配套金规模与高校内部投入实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

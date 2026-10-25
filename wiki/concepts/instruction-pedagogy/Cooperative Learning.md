@@ -209,6 +209,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [合作学习 · Cooperative learning](https://www.visiblelearningmetax.com/influences/view/cooperative_learning)
 > 教学策略 › 教学方法
 >
@@ -257,6 +259,8 @@ updated: 2026-10-22
 > > | Ashrafzade et al. (2023) | Cooperative learning | 17 | NA | 17 | 0.89 |  |
 > > | Eslit (2023) | Cooperative learning | 28 | 4,137 | 28 | 0.47 |  |
 > > | Ridwan et al. (2022) | Cooperative learning | 22 | 1,249 | 22 | 0.89 |  |
+
+> [!empirical-divider]
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

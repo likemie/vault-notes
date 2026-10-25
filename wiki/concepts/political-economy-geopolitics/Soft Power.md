@@ -262,6 +262,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 国际教育治理与地缘政治中软实力实证研究对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

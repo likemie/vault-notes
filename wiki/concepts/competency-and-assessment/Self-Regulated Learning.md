@@ -191,6 +191,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [自我调节策略 · Self-regulation strategies](https://www.visiblelearningmetax.com/influences/view/self-regulation_strategies)
 > 学生学习策略 › 元认知／自我调节学习
 >
@@ -229,6 +231,8 @@ updated: 2026-10-22
 > > | Hitt (2023) | Self-regulation interventions | 60 | NA | 60 | 0.46 |  |
 > > | Cheng et al. (2022) | Self-regulated strategies on on-line | 21 | 1,327 | 18 | 0.85 |  |
 > > | Kurucay et al. (2015) | Self-regulated learning | 18 | 11,750 | 18 | 0.11 |  |
+
+> [!empirical-divider]
 
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>

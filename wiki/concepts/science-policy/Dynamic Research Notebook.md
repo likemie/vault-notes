@@ -108,6 +108,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 动态可执行笔记本与可复现性实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

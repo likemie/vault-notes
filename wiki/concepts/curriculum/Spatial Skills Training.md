@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [空间能力训练 · Spatial skills / training](https://www.visiblelearningmetax.com/influences/view/spatial_skills~training)
 > 课程 › 其他课程项目
 >

@@ -267,6 +267,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 繁文缛节的历史典型案例与实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

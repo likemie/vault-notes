@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [教师专业发展项目 · Professional development programs](https://www.visiblelearningmetax.com/influences/view/professional_development_programs)
 > 教师 › 教师教育
 >

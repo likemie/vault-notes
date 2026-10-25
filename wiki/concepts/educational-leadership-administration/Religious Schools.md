@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [宗教学校 · Religious schools](https://www.visiblelearningmetax.com/influences/view/religious_schools)
 > 学校 › 学校类型
 >

@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [精细加工与组织 · Elaboration and organization](https://www.visiblelearningmetax.com/influences/view/elaboration_and_organization)
 > 学生学习策略 › 元认知／自我调节学习
 >

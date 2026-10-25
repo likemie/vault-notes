@@ -171,6 +171,8 @@ updated: 2026-10-20
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 学校规模、生源与运营条件
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

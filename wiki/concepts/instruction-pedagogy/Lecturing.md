@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [讲授 · Lectures](https://www.visiblelearningmetax.com/influences/view/lectures)
 > 教学策略 › 教学方法
 >

@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [能力与教学交互作用 · Aptitude-treatment interactions](https://www.visiblelearningmetax.com/influences/view/aptitude-treatment_interactions_)
 > 学生学习策略 › 学生导向干预
 >

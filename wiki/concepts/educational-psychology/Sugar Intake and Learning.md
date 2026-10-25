@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [糖摄入 · Sugar](https://www.visiblelearningmetax.com/influences/view/sugar)
 > 学生 › 生理因素
 >

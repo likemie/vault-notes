@@ -171,6 +171,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 多项目晶圆平台成本分摊与服务覆盖实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

@@ -25,6 +25,8 @@ created: 2026-10-22
 updated: 2026-10-26
 ---
 
+> [!metax-divider]
+
 > [!metax] [自然拼读教学 · Phonics instruction](https://www.visiblelearningmetax.com/influences/view/phonics_instruction)
 > 课程 › 读写与艺术
 >
@@ -45,6 +47,8 @@ updated: 2026-10-26
 > > | Weiser & Mathes (2011) | Encoding instruction | 11 | NA | 11 | 0.78 |  |
 > > | Tong et al. (2024) | Syntactic skills | 59 | 15,212 | 234 | 1.28 |  |
 > > | Garcia & Cain (2024) | Decoding | 110 | 42,916 | 110 | 2.20 |  |
+
+> [!eef-divider]
 
 > [!eef] [自然拼读 · Phonics](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/phonics)
 > EEF 教与学工具包 · 更新于 2026-01-13 · 学前 38 · 小学 164 · 中学 8 · 阅读 203

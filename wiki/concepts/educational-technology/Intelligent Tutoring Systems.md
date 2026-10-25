@@ -280,6 +280,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [智能导学系统 · Intelligent tutoring systems](https://www.visiblelearningmetax.com/influences/view/intelligent_tutoring_systems)
 > 技术、学校与校外策略 › 辅导／多媒体
 >
@@ -295,6 +297,8 @@ updated: 2026-10-22
 > > | Kulik & Fletcher (2016) | Intelligent tutoring systems | 50 | NA | 50 | 0.66 |  |
 > > | Ma et al. (2014) | Intelligent tutoring systems | 107 | 14,321 | 107 | 0.41 |  |
 > > | Wang et al. (2019) | Intelligent tutoring systems | 58 | 10,764 | 58 | 0.49 |  |
+
+> [!empirical-divider]
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

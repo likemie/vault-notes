@@ -148,6 +148,8 @@ updated: 2026-10-22
 > > - **原子化目标弊端** 实践中[[Learning Intentions|学习意图]]常被异化为孤立、碎片化且低阶的技术清单，容易挫伤学生的求知好奇心。
 > > - **大周期卓越指引** [[John Hattie|哈蒂]]反思指出若重新设计评价体系将优先使用成功标准，主张以 10 至 12 周为适宜评估周期，通过公开往届优秀范例（如 A 与 B 等级样本）向学生整体展现卓越的实质构成。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 256–257)]]
 
+> [!metax-divider]
+
 > [!metax] [成功标准 · Success criteria](https://www.visiblelearningmetax.com/influences/view/success_criteria)
 > 教学策略 › 学习意图
 >

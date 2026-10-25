@@ -194,6 +194,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 国际代表性研究情境中知情同意与伦理处理模式对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

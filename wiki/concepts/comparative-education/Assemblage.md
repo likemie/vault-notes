@@ -228,6 +228,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 国际代表性教育装配案例与物质构成对照（2010–2023）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [差异化教学 · Differentiation](https://www.visiblelearningmetax.com/influences/view/differentiation)
 > 学生学习策略 › 学生导向干预
 >

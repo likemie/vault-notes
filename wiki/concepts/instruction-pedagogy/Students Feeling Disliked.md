@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [学生感到被排斥 · Students feeling disliked](https://www.visiblelearningmetax.com/influences/view/students_feeling_disliked)
 > 课堂 › 课堂氛围
 >

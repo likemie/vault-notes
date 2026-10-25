@@ -131,6 +131,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 组合式科研资助实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

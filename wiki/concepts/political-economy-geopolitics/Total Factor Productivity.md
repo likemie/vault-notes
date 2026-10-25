@@ -208,6 +208,8 @@ updated: 2026-10-22
 > - **21.8%** 1989 年东德 TFP 相对于西德的比率（就业加权平均）。（p. 1097）
 > - **19.2%** 1979 年东德相对西德的 TFP 比率——1970 年代持续处于低位。（p. 1097）
 
+> [!empirical-divider]
+
 > [!ref-table]- 制造业在国家创新与生产率体系中的关键实证特征
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

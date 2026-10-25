@@ -297,6 +297,7 @@ MetaX 数据只存在 `metax/`，条目中的 MetaX 模块（一组 `[!metax]` c
 
 EEF 数据存于 `eef/`（`eef.json` 由 `scripts/eef_sync.py import` 从浏览器导出整理），条目中的 EEF 模块（`[!eef]` 总览、`[!eef-studies]-` 研究列表、`[!eef-errata]` 勘误）由 `eef_sync.py` 生成，不手写。
 
+- 分割线：MetaX 与 EEF 卡片组前各有一条带标签的分割线（`[!metax-divider]` / `[!eef-divider]`，空 callout，线与标签由 CSS 绘制），由脚本随模块增删。
 - 位置：同属实证数据组，紧跟 MetaX 模块之后；无 MetaX 时放在第一张实证表之前，规则与 MetaX 相同。两个脚本只删改各自的 callout，互不覆盖；挂载条目加 tag `eef`。30 个策略的对应条目见 `eef_sync.py` 的 `MAPPING`，无对应条目时建存根。
 - 总览：影响（月）、成本与证据强度（EEF 五级）、页面报告的研究数、合并效应量、95% 置信区间、异质性 I²。研究列表一行一个效应量，同一研究的多个效应以小标签区分；标题同时给出效应量条数与去重后的研究数。
 - 链接：研究按 DOI，或篇名加年份与库内 Argument 一致时才链接。

@@ -153,6 +153,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ma-table]- 一阶元分析总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >

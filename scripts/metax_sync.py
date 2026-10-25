@@ -615,11 +615,14 @@ def render_module(iids: list[str], data: dict, errata: list, args_meta: dict) ->
     """The module is only the stacked [!metax] callouts: no heading of its own, so the
     vault does not fill up with identical "Visible Learning MetaX" sections."""
     blocks = [render_influence(i, data["influences"][i], data["studies"], errata, args_meta) for i in iids]
-    return "\n\n".join(blocks) + "\n"
+    # A labelled divider (CSS draws the rule and the "VISIBLE LEARNING METAX" label) opens the group.
+    return DIVIDER + "\n\n" + "\n\n".join(blocks) + "\n"
 
 
 LEGACY_SECTION_RE = re.compile(r"^## Visible Learning MetaX\n.*?(?=^---\n\n## |^## (?!Visible Learning MetaX)|\Z)", re.M | re.S)
 METAX_TOP_RE = re.compile(r"^> \[!metax\][^\n]*\n(?:>[^\n]*(?:\n|\Z))*\n*", re.M)
+DIVIDER = "> [!metax-divider]"
+DIVIDER_RE = re.compile(r"^> \[!metax-divider\][^\n]*(?:\n>[^\n]*)*\n*", re.M)
 
 
 def remove_module(body: str) -> str:
@@ -633,6 +636,7 @@ def remove_module(body: str) -> str:
             prefix = re.sub(r"(?:\n*---[ \t]*)+\s*\Z", "", prefix.rstrip()) + "\n"
         body = prefix + rest
     body = METAX_TOP_RE.sub("", body)
+    body = DIVIDER_RE.sub("", body)
     return re.sub(r"\n{3,}", "\n\n", body)
 
 
@@ -644,13 +648,13 @@ def insert_module(body: str, module: str) -> str:
     lines = body.splitlines(keepends=True)
     # EEF blocks ([!eef], scripts/eef_sync.py) follow MetaX: if present, MetaX goes right before them.
     for i, l in enumerate(lines):
-        if l.startswith("> [!eef]"):
+        if l.startswith(("> [!eef]", "> [!eef-divider]")):
             head = "".join(lines[:i]).rstrip("\n")
             return head + "\n\n" + module.rstrip("\n") + "\n\n" + "".join(lines[i:])
     # 实证数据组内 MetaX 排在最前：有实证表格时插在第一张实证表正前方
     emp_marker = re.compile(r"concept-(effect|meta-analysis|second-order-meta|subgroup|other-empirical)-table-marker")
     for i, l in enumerate(lines):
-        if l.startswith("> [!") and emp_marker.search("".join(lines[i:i + 4])):
+        if l.startswith("> [!empirical-divider]") or (l.startswith("> [!") and emp_marker.search("".join(lines[i:i + 4]))):
             head = "".join(lines[:i]).rstrip("\n")
             tail = "".join(lines[i:])
             return head + "\n\n" + module.rstrip("\n") + "\n\n" + tail

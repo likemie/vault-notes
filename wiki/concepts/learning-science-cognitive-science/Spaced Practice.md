@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [分散与集中练习 · Spaced vs. mass practice](https://www.visiblelearningmetax.com/influences/view/spaced_vs._mass_practice)
 > 学生学习策略 › 学习策略
 >

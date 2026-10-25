@@ -71,6 +71,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 北美规模与课程单位的比较
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

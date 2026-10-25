@@ -182,6 +182,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 跨国等值空间构建与维系的实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

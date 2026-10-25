@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [教师种族／族裔歧视 · Teacher racial-ethnic discrimination](https://www.visiblelearningmetax.com/influences/view/teacher_racial-ethnic_discrimination)
 > 教师 › 教师特质
 >

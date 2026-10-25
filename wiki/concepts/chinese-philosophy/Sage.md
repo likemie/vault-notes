@@ -209,6 +209,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 圣人概念相关文化学习词汇与现代治理实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

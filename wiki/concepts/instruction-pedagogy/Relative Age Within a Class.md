@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [班内相对年龄 · Relative age within a class](https://www.visiblelearningmetax.com/influences/view/relative_age_within_a_class)
 > 课堂 › 课堂氛围
 >

@@ -148,6 +148,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [拼图法 · Jigsaw method](https://www.visiblelearningmetax.com/influences/view/jigsaw_method)
 > 教学策略 › 教学方法
 >
@@ -161,6 +163,8 @@ updated: 2026-10-22
 > > | Batdi (2014) | Jigsaw on achievement | 37 | NA | 37 | 1.20 |  |
 > > | Drouet et al. (2023) | Jigsaw on achievement | 43 | 4,247 | 43 | 0.77 |  |
 > > | Ozkan & Uslusoy (2024) | Jigsaw on achievement | 11 | 1,665 | 7 | 0.58 |  |
+
+> [!empirical-divider]
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

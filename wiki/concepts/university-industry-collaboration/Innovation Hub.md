@@ -170,6 +170,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 标志性创新中心与区域产业集群实践对比
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

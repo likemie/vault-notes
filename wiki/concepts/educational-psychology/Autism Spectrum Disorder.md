@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [孤独症 · Autism](https://www.visiblelearningmetax.com/influences/view/autism)
 > 学生 › 生理因素
 >

@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [数学问题解决 · Mathematics problem solving](https://www.visiblelearningmetax.com/influences/view/mathematics_problem_solving)
 > 课程 › 数学与科学
 >

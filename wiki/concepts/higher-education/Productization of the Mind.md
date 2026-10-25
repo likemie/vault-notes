@@ -82,6 +82,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 美国高等教育专业结构与人文学科变迁数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

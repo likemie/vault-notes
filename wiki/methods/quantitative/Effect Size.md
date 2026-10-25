@@ -237,6 +237,8 @@ updated: 2026-10-22
 >   2. **[[Epistemology|认识论]]与存在论范畴错误** 将学习简化为可见的即时效应量快照，混淆了短期测验表现与长周期终身心智成长，演化为[[Cognitive Capitalism|认知资本主义]]对教师与学生的数字规训（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 1–4, 10]]；[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 > - **补救方式** 采用[[EEF Padlock Security Rating|挂锁安全评级]]与效应量双轨呈现（[[Education Endowment Foundation|EEF]]）；采用因果 [[Randomised Controlled Trials|RCT]] 经验分布与失败频率作为政策解释基准（[[Argument_Kraft_2023_ER|Kraft, 2023]]）；选用高[[External Validity|外部效度]]、对接国家统考的标准化测验（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021]]）；严格执行[[Baseline Standardized Mean Difference|基线等效性]]筛查（$|d_{\text{baseline}}| \le 0.25$）。
 
+> [!empirical-divider]
+
 > [!effect-table]- 原始研究结果与干预效应量
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >

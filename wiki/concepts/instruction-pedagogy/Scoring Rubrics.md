@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [评分规则 · Rubrics](https://www.visiblelearningmetax.com/influences/view/rubrics)
 > 教学策略 › 反馈
 >

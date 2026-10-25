@@ -68,6 +68,8 @@ updated: 2026-10-22
 > [!example] 概念辨析
 > **心流 vs 内在动机** 心流是 [[Intrinsic vs Extrinsic Motivation]] 的最佳表现形式。当个体处于心流状态时，活动的驱动力完全来自活动本身，不需要外部奖励。正如 Csikszentmihalyi 的研究所揭示的，心流是内在动机的最纯粹状态([[Argument_Li_2012_Cambridge\|Li, 2012, p.60]])。
 
+> [!metax-divider]
+
 > [!metax] [心流 · Flow](https://www.visiblelearningmetax.com/influences/view/flow)
 > 学生 › 毅力与自信
 >

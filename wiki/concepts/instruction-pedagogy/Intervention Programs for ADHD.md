@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [多动症干预项目 · Intervention programs for ADHD](https://www.visiblelearningmetax.com/influences/view/intervention_programs_for_adhd)
 > 课堂 › 课堂管理
 >

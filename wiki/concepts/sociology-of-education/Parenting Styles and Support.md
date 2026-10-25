@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [家庭体罚 · Corporal punishment in the home](https://www.visiblelearningmetax.com/influences/view/corporal_punishment_in_the_home)
 > 家庭 › 家庭环境
 >

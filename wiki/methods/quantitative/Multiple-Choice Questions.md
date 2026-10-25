@@ -100,6 +100,8 @@ updated: 2026-10-16
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 选择题与其他题型效度与[[Reliability\|信度]]实证研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

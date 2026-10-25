@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [使用演示文稿 · Use of PowerPoint](https://www.visiblelearningmetax.com/influences/view/use_of_powerpoint)
 > 技术、学校与校外策略 › 其他信息技术
 >

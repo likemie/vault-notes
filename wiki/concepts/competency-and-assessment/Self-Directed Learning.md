@@ -66,6 +66,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [自主学习 · Self-directed learning](https://www.visiblelearningmetax.com/influences/view/self-directed_learning)
 > 学生学习策略 › 学生导向干预
 >
@@ -78,6 +80,8 @@ updated: 2026-10-22
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Ku et al. (2012) | Self-directed learning | 61 | NA | 70 | 0.67 |  |
 > > | Doo & Zhu (2022) | Self-directed learning in online environments | 43 | 34,601 | 153 | 0.51 |  |
+
+> [!empirical-divider]
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

@@ -71,6 +71,8 @@ updated: 2026-10-26
 > - [[Grade Retention in French-Speaking Belgium]] — 高留级率和改革减半目标展示了证据与政策之间的转换摩擦([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.165, 174]])。
 > - [[Pact for Educational Excellence]] — 将降低留级率列入结构性改革，但没有全面禁止共同核心阶段留级([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.172, 174]])。
 
+> [!metax-divider]
+
 > [!metax] [留级 · Retention](https://www.visiblelearningmetax.com/influences/view/retention)
 > 课堂 › 课堂氛围
 >
@@ -91,6 +93,8 @@ updated: 2026-10-26
 > > | Allen et al. (2009) | High quality studies on retention | 22 | 13,470 | 207 | 0.04 |  |
 > > | Bright (2011) | Retained vs non-retained | 26 | NA | 245 | -0.50 |  |
 > > | Goos et al. (2021) | Retention on all students | 84 | NA | 1,329 | -0.04 |  |
+
+> [!eef-divider]
 
 > [!eef] [留级 · Repeating a year](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/repeating-a-year)
 > EEF 教与学工具包 · 更新于 2026-01-13 · 小学 54 · 中学 20 · 阅读 71 · 数学 67 · 科学 5

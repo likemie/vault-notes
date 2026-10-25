@@ -234,6 +234,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [有益失败（错误） · Productive failure (errors)](https://www.visiblelearningmetax.com/influences/view/productive_failure_(errors))
 > 教学策略 › 反馈
 >
@@ -247,6 +249,8 @@ updated: 2026-10-22
 > > | Keith & Frese (2008) | Productive failure | 24 | 2,183 | 24 | 0.44 |  |
 > > | Sinha & Kapur (2021) | Problem solving then instruction | 53 | NA | 166 | 0.36 |  |
 > > | Darabi et al. (2018) | Productive failure | 12 | NA | 23 | 0.43 |  |
+
+> [!empirical-divider]
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

@@ -122,6 +122,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 古德哈特定律在科研生态中异化实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

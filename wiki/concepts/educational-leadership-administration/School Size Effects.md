@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [学校规模 · School size](https://www.visiblelearningmetax.com/influences/view/school_size)
 > 学校 › 学校构成
 >

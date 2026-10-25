@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [道德判断项目 · Moral judgement programs](https://www.visiblelearningmetax.com/influences/view/moral_judgement_programs)
 > 课程 › 其他课程项目
 >

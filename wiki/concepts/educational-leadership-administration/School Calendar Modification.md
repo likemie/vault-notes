@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [调整校历／课表 · Modifying school calendars / timetables](https://www.visiblelearningmetax.com/influences/view/modifying_school_calendars~timetables)
 > 学校 › 学校类型
 >

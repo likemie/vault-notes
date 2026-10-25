@@ -185,6 +185,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [全语言教学 · Whole language approach](https://www.visiblelearningmetax.com/influences/view/whole_language_approach)
 > 课程 › 读写与艺术
 >
@@ -200,6 +202,8 @@ updated: 2026-10-22
 > > | Stahl et al. (1994) | Effects of whole language instruction | 14 | NA | 14 | 0.15 |  |
 > > | Jeynes & Littell (2000) | Effects of whole language instruction | 14 | 630 | 14 | -0.65 |  |
 > > | Abrami et al. (2020) | Effects of Balanced Literacy interventions | 17 | 7,388 | 91 | 0.20 |  |
+
+> [!empirical-divider]
 
 > [!ref-table]- 全语言相关[[Meta-analysis|元分析]]与对比实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

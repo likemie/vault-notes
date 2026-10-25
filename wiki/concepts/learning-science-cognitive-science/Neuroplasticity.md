@@ -170,6 +170,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 神经可塑性关键生理指标与发展时间线数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

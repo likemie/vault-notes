@@ -23350,3 +23350,42 @@ body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout
 body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(5)::before { content: "权重"; }
 body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6) { width: 10% !important; }
 body .callout.callout.callout[data-callout][data-callout="eef"] .callout.callout[data-callout="eef-studies"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6)::before { content: "勘误"; }
+
+/* ── 17 · 数据模块分割线（[!metax-divider] / [!eef-divider]，由同步脚本放在各自卡片组之前）──
+   空 callout 渲染为一条带标签的粗分割线；标签由 CSS 生成，正文没有文字。 */
+.callout[data-callout="metax-divider"] { --callout-color: 15, 118, 110; --callout-icon: lucide-minus; }
+.callout[data-callout="eef-divider"] { --callout-color: 59, 91, 169; --callout-icon: lucide-minus; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax-divider"], [data-callout="eef-divider"]) {
+  margin: 2.2rem 0 .9rem !important; padding: 0 !important; min-height: 0 !important;
+  background: none !important; background-image: none !important; box-shadow: none !important;
+  border: 0 !important; border-top: 2px solid rgb(var(--callout-color)) !important; border-radius: 0 !important; overflow: visible !important;
+}
+body .callout.callout.callout[data-callout]:is([data-callout="metax-divider"], [data-callout="eef-divider"])::before,
+body .callout.callout.callout[data-callout]:is([data-callout="metax-divider"], [data-callout="eef-divider"])::after { display: none !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax-divider"], [data-callout="eef-divider"]) > .callout-title {
+  padding: 0 !important; margin: -9px 0 0 !important; min-height: 0 !important; background: none !important; border: 0 !important; box-shadow: none !important; gap: 0; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax-divider"], [data-callout="eef-divider"]) > .callout-title .callout-icon,
+body .callout.callout.callout[data-callout]:is([data-callout="metax-divider"], [data-callout="eef-divider"]) > .callout-title .callout-fold { display: none !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax-divider"], [data-callout="eef-divider"]) > .callout-title .callout-title-inner { font-size: 0 !important; line-height: 0 !important; color: transparent !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax-divider"], [data-callout="eef-divider"]) > .callout-title .callout-title-inner::before {
+  display: inline-block !important; padding: 0 10px 0 0 !important; margin: 0 !important; border: 0 !important; border-radius: 0 !important; box-shadow: none !important;
+  background: var(--background-primary) !important; color: rgb(var(--callout-color)) !important;
+  font-family: var(--ac-sans, var(--font-text)); font-size: 11px !important; font-weight: 700 !important; letter-spacing: .14em !important;
+  line-height: 16px !important; text-transform: uppercase; animation: none !important; }
+body .callout.callout.callout[data-callout][data-callout="metax-divider"] > .callout-title .callout-title-inner::before { content: "Visible Learning MetaX" !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-divider"] > .callout-title .callout-title-inner::before { content: "EEF Teaching and Learning Toolkit" !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="metax-divider"], [data-callout="eef-divider"]) > .callout-content { display: none !important; }
+/* 17b · 实证数据分割线（[!empirical-divider]）：条目自有实证表格（原始研究、一阶／二阶元分析、亚组、其他结果）之前 */
+.callout[data-callout="empirical-divider"] { --callout-color: 138, 132, 120; --callout-icon: lucide-minus; }
+body .callout.callout.callout[data-callout][data-callout="empirical-divider"] {
+  margin: 2.2rem 0 .9rem !important; padding: 0 !important; min-height: 0 !important; background: none !important; background-image: none !important;
+  box-shadow: none !important; border: 0 !important; border-top: 2px solid rgb(var(--callout-color)) !important; border-radius: 0 !important; overflow: visible !important; }
+body .callout.callout.callout[data-callout][data-callout="empirical-divider"]::before, body .callout.callout.callout[data-callout][data-callout="empirical-divider"]::after { display: none !important; }
+body .callout.callout.callout[data-callout][data-callout="empirical-divider"] > .callout-title { padding: 0 !important; margin: -9px 0 0 !important; min-height: 0 !important; background: none !important; border: 0 !important; box-shadow: none !important; gap: 0; }
+body .callout.callout.callout[data-callout][data-callout="empirical-divider"] > .callout-title :is(.callout-icon, .callout-fold) { display: none !important; }
+body .callout.callout.callout[data-callout][data-callout="empirical-divider"] > .callout-title .callout-title-inner { font-size: 0 !important; line-height: 0 !important; color: transparent !important; }
+body .callout.callout.callout[data-callout][data-callout="empirical-divider"] > .callout-title .callout-title-inner::before {
+  content: "Empirical Data · 实证数据" !important; display: inline-block !important; padding: 0 10px 0 0 !important; margin: 0 !important; border: 0 !important; border-radius: 0 !important; box-shadow: none !important;
+  background: var(--background-primary) !important; color: rgb(var(--callout-color)) !important; font-family: var(--ac-sans, var(--font-text));
+  font-size: 11px !important; font-weight: 700 !important; letter-spacing: .14em !important; line-height: 16px !important; text-transform: uppercase; animation: none !important; }
+body .callout.callout.callout[data-callout][data-callout="empirical-divider"] > .callout-content { display: none !important; }

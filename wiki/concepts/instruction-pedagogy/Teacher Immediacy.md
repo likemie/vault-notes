@@ -147,6 +147,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [教师即时亲和力 · Immediacy](https://www.visiblelearningmetax.com/influences/view/immediacy)
 > 教学策略 › 教学方法
 >
@@ -159,6 +161,8 @@ updated: 2026-10-22
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Witt et al. (2004) | Immediacy of teacher feedback | 81 | 24,474 | 81 | 1.15 |  |
 > > | Allen et al. (2006) | Immediacy on cognitive outcomes | 8 | 2,718 | 8 | 0.16 |  |
+
+> [!empirical-divider]
 
 > [!ma-table]- 一阶元分析总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

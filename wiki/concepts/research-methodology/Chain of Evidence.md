@@ -209,6 +209,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 证据链在不同学科与[[Paradigm\|研究范式]]中的实证应用对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 > 

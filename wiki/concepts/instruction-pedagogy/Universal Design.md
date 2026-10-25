@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [通用学习设计 · Universal design](https://www.visiblelearningmetax.com/influences/view/universal_design)
 > 教学策略 › 教学方法
 >

@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [全校改进项目 · Whole-school improvement programs](https://www.visiblelearningmetax.com/influences/view/whole-school_improvement_programs)
 > 技术、学校与校外策略 › 全校层面
 >

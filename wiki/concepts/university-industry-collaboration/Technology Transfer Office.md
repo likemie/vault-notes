@@ -219,6 +219,8 @@ created: 2026-06-03
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- TTO 运作规模、专利产出与组织覆盖实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

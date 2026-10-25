@@ -218,6 +218,8 @@ updated: 2026-10-26
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 批判性政策审议与理论解构 | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Hattie (2008); Murnane and Cohen (1981) | 揭示学校改进与[[Effective Teaching\|有效教学]]高度依赖教研室同伴文化，实证批判[[Performance Pay\|绩效工资]]对教师互信协作的破坏。 |
 > | [[Argument_Li_2012_Cambridge\|Li (2012)]] | 跨文化[[Fieldwork\|田野调查]]与纵向追踪 | [[Argument_Li_2012_Cambridge\|Li (2012)]]; Chen et al.; Heyman et al. | 系统剖析东亚学校基于“同学”伦理的同伴互助学习机制、课代表制与[[Learning Virtues\|学习美德]]实践。 |
 
+> [!metax-divider]
+
 > [!metax] [同伴辅导 · Peer tutoring](https://www.visiblelearningmetax.com/influences/view/peer_tutoring)
 > 学生学习策略 › 学生学习观
 >
@@ -273,6 +275,8 @@ updated: 2026-10-26
 > > | Cook et al. (1985) | Handicapped as tutors | 19 | NA | 49 | 0.53 |  |
 > > | Cohen et al. (1982) | Effects on tutors | 65 | NA | 33 | 0.33 |  |
 > > | Leung (2019) | Peer tutors on tutor's achievement | 16 | NA | 16 | 0.43 |  |
+
+> [!eef-divider]
 
 > [!eef] [同伴辅导 · Peer tutoring](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/peer-tutoring)
 > EEF 教与学工具包 · 更新于 2026-07-22 · 小学 92 · 中学 51 · 阅读 65 · 数学 51 · 科学 9

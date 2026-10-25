@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [数学操作材料 · Manipulative materials on math](https://www.visiblelearningmetax.com/influences/view/manipulative_materials_on_math)
 > 课程 › 数学与科学
 >

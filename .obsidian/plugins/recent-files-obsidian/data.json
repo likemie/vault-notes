@@ -2,11 +2,23 @@
   "recentFiles": [
     {
       "basename": "Feedback",
-      "path": "tmp/eef-backup/Feedback.md"
+      "path": "wiki/concepts/instruction-pedagogy/Feedback.md"
+    },
+    {
+      "basename": "Argument_Campbell_2026_JPCC",
+      "path": "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
     },
     {
       "basename": "Agile Governance",
       "path": "wiki/concepts/science-policy/Agile Governance.md"
+    },
+    {
+      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
+      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
+    },
+    {
+      "basename": "template-eef",
+      "path": "wiki/templates/template-eef.md"
     },
     {
       "basename": "03-outline",
@@ -19,14 +31,6 @@
     {
       "basename": "Meta-analysis",
       "path": "wiki/methods/quantitative/Meta-analysis.md"
-    },
-    {
-      "basename": "template-eef",
-      "path": "wiki/templates/template-eef.md"
-    },
-    {
-      "basename": "Argument_Campbell_2026_JPCC",
-      "path": "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
     },
     {
       "basename": "Campbell_2026_JPCC",
@@ -195,10 +199,6 @@
     {
       "basename": "Absolute Knowing",
       "path": "wiki/concepts/educational-psychology/Absolute Knowing.md"
-    },
-    {
-      "basename": "Argument_Streeck_Thelen_2005_OUP",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Streeck_Thelen_2005_OUP.md"
     }
   ],
   "omittedPaths": [],

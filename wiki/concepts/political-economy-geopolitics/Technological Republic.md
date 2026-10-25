@@ -472,6 +472,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 经典实证研究与治理指标记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

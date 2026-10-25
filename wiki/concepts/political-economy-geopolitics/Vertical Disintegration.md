@@ -208,6 +208,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 纵向离散产业演进与全球细分工序格局
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

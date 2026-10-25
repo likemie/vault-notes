@@ -25,6 +25,8 @@ created: 2026-10-22
 updated: 2026-10-26
 ---
 
+> [!metax-divider]
+
 > [!metax] [导师指导 · Mentoring](https://www.visiblelearningmetax.com/influences/view/mentoring)
 > 教学策略 › 教学方法
 >
@@ -40,6 +42,8 @@ updated: 2026-10-26
 > > | DuBois et al. (2011) | Mentoring on academic outcomes | 73 | NA | 54 | 0.21 |  |
 > > | Wood & Mayo-Wilson (2012) | School based mentoring on adolescent achievement | 5 | 4,769 | 5 | -0.01 |  |
 > > | Sneyers & De Witte (2018) | Mentoring on academic outcomes | 7 | NA | 7 | 0.15 |  |
+
+> [!eef-divider]
 
 > [!eef] [导师指导 · Mentoring](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/mentoring)
 > EEF 教与学工具包 · 更新于 2025-08-06 · 小学 8 · 中学 39 · 阅读 30 · 数学 27 · 科学 7

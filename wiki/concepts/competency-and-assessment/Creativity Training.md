@@ -361,6 +361,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [创造力项目 · Creativity programs](https://www.visiblelearningmetax.com/influences/view/creativity_programs)
 > 课程 › 其他课程项目
 >
@@ -391,6 +393,8 @@ updated: 2026-10-22
 > > | Allen et al. (2011) | Public speaking on critical thinking skills | 23 | 4,545 | 35 | 0.43 |  |
 > > | Sahin & Polatcan (2019) | Creativity writing exercises | 25 | 2,090 | 25 | 1.20 |  |
 > > | Sio & Lortie-Forgues (2024) | Creativity programs on creativity | 169 | 18,486 | 844 | 0.53 |  |
+
+> [!empirical-divider]
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

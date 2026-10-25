@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [论证／课堂讨论 · Argumentation / Classroom discussion](https://www.visiblelearningmetax.com/influences/view/argumentation~classroom_discussion)
 > 教学策略 › 教学方法
 >

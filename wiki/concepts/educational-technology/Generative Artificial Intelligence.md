@@ -520,6 +520,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [ChatGPT · ChatGPT](https://www.visiblelearningmetax.com/influences/view/chatgpt)
 > 技术、学校与校外策略 › 移动／触屏
 >
@@ -531,6 +533,8 @@ updated: 2026-10-22
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Deng et al. (2025) | ChatGPT on academic performance | 51 | NA | 62 | 0.71 |  |
+
+> [!empirical-divider]
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

@@ -51,6 +51,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 课堂会话中的情境与观察
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

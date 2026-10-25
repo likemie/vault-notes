@@ -183,6 +183,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 1945–1955年战后联邦资助早期计算机开发工程统计
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

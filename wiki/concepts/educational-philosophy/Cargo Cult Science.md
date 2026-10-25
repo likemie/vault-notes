@@ -199,6 +199,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 货物崇拜科学特征在教育循证体系中的检验案例（以 [[Visible Learning]] 为例）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

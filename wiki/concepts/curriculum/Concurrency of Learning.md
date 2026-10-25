@@ -71,6 +71,8 @@ updated: 2026-10-22
 > **作为系统性挑战的并发学习**
 > 尽管一线教育者广泛认同并发学习对于促进跨学科理解与整体学习的价值，但在实际运作中，由于缺乏协同备课（Collaborative Planning）时间、双轨制下的考试压力（如兼顾国家课程）以及教师自身对如何实现跨组件链接缺乏培训，并发学习往往退化为表面口号，而课程组件仍旧处于“孤立运作”的状态。解决这一问题需要依靠学校层面强制安排“发展导向”或“结果导向”的协作会议，并在职前教师培训中加入关于垂直与水平课程连贯性的训练 [[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, pp. 224, 230)]]。
 
+> [!empirical-divider]
+
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

@@ -217,6 +217,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [发现式教学 · Discovery-based teaching](https://www.visiblelearningmetax.com/influences/view/discovery-based_teaching)
 > 教学策略 › 教学方法
 >
@@ -229,6 +231,8 @@ updated: 2026-10-22
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Mitchell (1987a) | Discovery methods in mathematics | 29 | NA | 34 | 0.11 |  |
 > > | Alfieri et al. (2011) | Discovery methods | 164 | NA | 360 | 0.30 |  |
+
+> [!empirical-divider]
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

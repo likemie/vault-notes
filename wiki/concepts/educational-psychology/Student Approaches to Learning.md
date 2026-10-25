@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [成就型动机与学习方式 · Achieving motivation and approach](https://www.visiblelearningmetax.com/influences/view/achieving_motivation_and_approach)
 > 学生 › 动机取向
 >

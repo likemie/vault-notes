@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [早产／低出生体重 · Pre-term / low birth weight vs. Full term](https://www.visiblelearningmetax.com/influences/view/pre-term~low_birth_weight_vs._full_term)
 > 学生 › 生理因素
 >

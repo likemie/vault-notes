@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [高中成就与成年成就 · Relation of high school to adult achievement](https://www.visiblelearningmetax.com/influences/view/relation_of_high_school_to_adult_achievement)
 > 学生 › 先备知识与背景
 >

@@ -248,6 +248,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [自我控制 · Self control](https://www.visiblelearningmetax.com/influences/view/self_control)
 > 学生 › 自我
 >
@@ -262,6 +264,8 @@ updated: 2026-10-22
 > > | Naso et al. (2011) | Effortful control | 58 | 8,394 | 89 | 0.68 |  |
 > > | Taylor (2012) | Relative autonomy | 6 | NA | 6 | 0.39 |  |
 > > | Nasvytiene & Lazdauskas (2021) | Effortful control | 57 | 79,913 | 57 | 0.65 |  |
+
+> [!empirical-divider]
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

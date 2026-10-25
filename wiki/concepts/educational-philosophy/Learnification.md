@@ -241,6 +241,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 学习化[[Paradigm|范式]]下的测量效应与治理实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

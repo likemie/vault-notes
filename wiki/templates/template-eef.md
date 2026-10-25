@@ -14,6 +14,8 @@ updated: 2026-10-25
    勘误写入 eef/errata.json：level 为 strand（整合，总览对应数值旁标 ⚑，field 取 imp/cost/evi/n/smd/ci/i2）或 study（单项，study 填该效应量的 id，列表 e 列标 ①②）；字段 type、eef、corrected、source（Argument 文件名）、pages、note，须附来源。
    成本与证据强度沿用 EEF 五级评分（●○），研究列表默认折叠；勘误框只在自动核算或 eef/errata.json 有内容时出现。 %%
 
+> [!eef-divider]
+
 > [!eef] [反馈 · Feedback](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback)
 > EEF 教与学工具包 · 更新于 2026-07-22 · 小学 45 · 中学 55 · 阅读 36 · 数学 24 · 科学 13
 >

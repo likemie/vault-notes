@@ -205,6 +205,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 发展教育核心实证研究结果对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

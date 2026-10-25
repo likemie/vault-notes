@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [学校体罚 · School corporal punishment](https://www.visiblelearningmetax.com/influences/view/school_corporal_punishment)
 > 学校 › 领导
 >

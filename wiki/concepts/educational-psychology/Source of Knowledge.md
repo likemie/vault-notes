@@ -172,6 +172,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Source Evaluation\|信源评估]]与[[Epistemology\|认识论]]干预效应
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >

@@ -25,6 +25,8 @@ created: 2026-10-22
 updated: 2026-10-26
 ---
 
+> [!metax-divider]
+
 > [!metax] [一对一辅导 · One-on-One tutoring](https://www.visiblelearningmetax.com/influences/view/one-on-one_tutoring)
 > 学生学习策略 › 学生导向干预
 >
@@ -51,6 +53,8 @@ updated: 2026-10-26
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Nickow (2020) | Tutoring | 96 | NA | 732 | 0.37 |  |
+
+> [!eef-divider]
 
 > [!eef] [一对一辅导 · One to one tuition](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/one-to-one-tuition)
 > EEF 教与学工具包 · 更新于 2025-05-21 · 小学 158 · 中学 11 · 阅读 156 · 数学 22

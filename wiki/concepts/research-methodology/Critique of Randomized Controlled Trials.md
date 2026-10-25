@@ -280,6 +280,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- [[Randomised Controlled Trials\|随机对照试验]]效度威胁、[[Effect Size\|效应量]]现实与证据治理异化关键实证研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

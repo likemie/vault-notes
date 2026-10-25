@@ -242,6 +242,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 复杂系统与涌现现象的实证模拟与方法学指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

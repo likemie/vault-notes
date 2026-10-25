@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [虚拟现实 · Virtual Reality](https://www.visiblelearningmetax.com/influences/view/virtual_reality)
 > 技术、学校与校外策略 › 虚拟／增强现实
 >

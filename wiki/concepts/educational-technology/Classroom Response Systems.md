@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [课堂应答器 · Clickers](https://www.visiblelearningmetax.com/influences/view/clickers)
 > 技术、学校与校外策略 › 其他信息技术
 >

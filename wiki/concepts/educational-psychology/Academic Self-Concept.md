@@ -54,6 +54,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [积极自我概念 · Positive self-concept](https://www.visiblelearningmetax.com/influences/view/positive_self-concept)
 > 学生 › 自我
 >
@@ -78,6 +80,8 @@ updated: 2026-10-22
 > > | Gueyaud & Dassa (1998) | Self-concept | 108 | NA | 693 | 0.32 |  |
 > > | Suciati et al. (2020) | Self-concept | 28 | NA | 28 | 1.58 |  |
 > > | Ding et al. (2024) | Academic Self-concept | 68 | 37,113 | 68 | 1.02 |  |
+
+> [!empirical-divider]
 
 > [!effect-table]- 一级研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

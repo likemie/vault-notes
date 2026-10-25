@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [儿童寄养安置 · Children into care homes](https://www.visiblelearningmetax.com/influences/view/children_into_care_homes)
 > 家庭 › 家庭结构
 >

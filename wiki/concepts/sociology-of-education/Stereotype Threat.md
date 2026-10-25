@@ -80,6 +80,8 @@ updated: 2026-10-22
 > - [[Chinese Learner]] — 刻板印象威胁在[[Intercultural Education|跨文化教育]]中的主要应用案例：中国学习者如何在西方课堂中经历威胁感知 → 内化 → 自我实现的完整链条
 > - [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] — [[Argument_Ryan_2010_ChineseLearner\|Ryan (2010)]] 对刻板印象威胁在中国学习者案例中的系统论证
 
+> [!metax-divider]
+
 > [!metax] [刻板印象威胁 · Stereotype threat](https://www.visiblelearningmetax.com/influences/view/stereotype_threat)
 > 学生 › 生理因素
 >

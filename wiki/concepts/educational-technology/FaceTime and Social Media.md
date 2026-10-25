@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [视频通话与社交媒体 · FaceTime and social media](https://www.visiblelearningmetax.com/influences/view/facetime_and_social_media)
 > 技术、学校与校外策略 › 移动／触屏
 >

@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [自我奖惩 · Self consequences](https://www.visiblelearningmetax.com/influences/view/self_consequences)
 > 学生学习策略 › 元认知／自我调节学习
 >

@@ -25,6 +25,8 @@ created: 2026-10-22
 updated: 2026-10-26
 ---
 
+> [!metax-divider]
+
 > [!metax] [艺术项目 · Arts programs](https://www.visiblelearningmetax.com/influences/view/arts_programs)
 > 课程 › 读写与艺术
 >
@@ -38,6 +40,8 @@ updated: 2026-10-26
 > > | Berger & Winner (2000) | Visual arts on reading readiness | 10 | 378 | 10 | 0.52 |  |
 > > | Moga et al. (2000) | Arts programs on creativity | 8 | 2,271 | 8 | 0.35 |  |
 > > | Winner & Cooper (2000) | Arts programs on achievement | 31 | 3,408,635 | 24 | 0.10 |  |
+
+> [!eef-divider]
 
 > [!eef] [艺术参与 · Arts participation](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/arts-participation)
 > EEF 教与学工具包 · 更新于 2026-07-22 · 小学 67 · 中学 12 · 阅读 37 · 数学 11 · 科学 3

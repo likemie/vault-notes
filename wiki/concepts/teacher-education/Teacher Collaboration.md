@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [教师协作 · Teacher collaboration](https://www.visiblelearningmetax.com/influences/view/teacher_collaboration)
 > 教师 › 教师教育
 >

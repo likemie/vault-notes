@@ -455,6 +455,8 @@ updated: 2026-10-23
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 实证量化与方法学演进指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

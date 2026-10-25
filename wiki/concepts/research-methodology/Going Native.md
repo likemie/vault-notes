@@ -155,6 +155,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 质性与跨文化田野中观察者角色与本土化防范对照表
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

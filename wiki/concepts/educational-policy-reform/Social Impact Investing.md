@@ -183,6 +183,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 社会影响力投资在教育与公共治理中的实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

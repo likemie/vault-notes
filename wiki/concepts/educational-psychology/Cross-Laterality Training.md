@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [交叉侧性训练 · Cross-laterality](https://www.visiblelearningmetax.com/influences/view/cross-laterality)
 > 学生 › 先备知识与背景
 >

@@ -398,6 +398,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [批判性思维 · Critical thinking](https://www.visiblelearningmetax.com/influences/view/critical_thinking)
 > 学生 › 先备知识与背景
 >
@@ -410,6 +412,8 @@ updated: 2026-10-22
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Fong, Kim, et al. (2017) | Critical thinking | 23 | 8,233 | 23 | 0.49 |  |
 > > | Orhan (2022) | Critical thinking | 47 | NA | 67 | 0.93 |  |
+
+> [!empirical-divider]
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

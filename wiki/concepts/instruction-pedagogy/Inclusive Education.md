@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [随班就读／融合教育 · Mainstreaming / inclusion](https://www.visiblelearningmetax.com/influences/view/mainstreaming~inclusion)
 > 课堂 › 班级构成
 >

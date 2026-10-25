@@ -275,6 +275,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 规训机制与教学实践的实证调查案例
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

@@ -162,6 +162,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 赞助研究在全美高校产学协同中的业务占比与创新方案分布
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

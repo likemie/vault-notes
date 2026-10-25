@@ -157,6 +157,8 @@ updated: 2026-10-22
 > [!critique] 外部批评
 > - **劳动力流失与生源危机** 碎片化的市场化培训路径并未解决英格兰严峻的教师招聘与早期流失危机，高压问责与清单考核反而加剧了入职焦虑。
 
+> [!metax-divider]
+
 > [!metax] [职前教师教育 · Initial teacher education programs](https://www.visiblelearningmetax.com/influences/view/initial_teacher_education_programs)
 > 教师 › 教师教育
 >

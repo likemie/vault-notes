@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [科学概念转变项目 · Science conceptual change programs](https://www.visiblelearningmetax.com/influences/view/science_conceptual_change_programs)
 > 课程 › 数学与科学
 >

@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [教师人格 · Teacher personality](https://www.visiblelearningmetax.com/influences/view/teacher_personality)
 > 教师 › 教师特质
 >

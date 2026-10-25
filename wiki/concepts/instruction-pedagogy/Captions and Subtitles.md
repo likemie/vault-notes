@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [字幕 · Captions and subtitles](https://www.visiblelearningmetax.com/influences/view/captions_and_subtitles)
 > 教学策略 › 教学方法
 >

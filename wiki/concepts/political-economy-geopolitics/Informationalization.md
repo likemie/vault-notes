@@ -163,6 +163,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 基础教育信息化治理实态与成本分摊实证对照（基于新西兰案例）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

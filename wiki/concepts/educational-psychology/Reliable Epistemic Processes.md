@@ -185,6 +185,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Framework for Teaching|教学框架]]对可靠[[Epistemology\|认识论]]过程的干预效应
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >

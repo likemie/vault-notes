@@ -243,6 +243,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [择校 · School choice](https://www.visiblelearningmetax.com/influences/view/school_choice)
 > 学校 › 学校构成
 >
@@ -254,6 +256,8 @@ updated: 2026-10-22
 > > | ref | var | k | n | m | d | e |
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Jabbar et al. (2017) | School choice | 22 | NA | 28 | 0.02 |  |
+
+> [!empirical-divider]
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

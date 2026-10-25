@@ -312,6 +312,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 关键实证测量与态度参数
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

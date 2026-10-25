@@ -26,6 +26,8 @@ updated: 2026-10-25
 
 # Oral Language Interventions
 
+> [!eef-divider]
+
 > [!eef] [口语干预 · Oral language interventions](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/oral-language-interventions)
 > EEF 教与学工具包 · 更新于 2025-09-25 · 学前 59 · 小学 82 · 中学 26 · 阅读 136 · 数学 6 · 科学 3
 >

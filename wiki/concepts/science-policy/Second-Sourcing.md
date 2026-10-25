@@ -161,6 +161,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 早期微电子第二货源与军品采购扩散统计
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

@@ -220,6 +220,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- AET 资助结构、转化周期与宏观科技指标观测
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

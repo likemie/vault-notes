@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [记忆术 · Mnemonics](https://www.visiblelearningmetax.com/influences/view/mnemonics)
 > 学生学习策略 › 学习策略
 >

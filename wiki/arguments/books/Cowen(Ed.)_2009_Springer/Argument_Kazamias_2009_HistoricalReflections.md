@@ -289,6 +289,8 @@ updated: 2026-10-22
 
 为了展示如何将教育问题转化为纯粹的变量关系，诺亚在 1973 年提出了一个[[Hypothesis|研究假设]]范例：
 
+> [!empirical-divider]
+
 > [!ref-table]- 诺亚（Harold Noah, 1973）关于家庭收入与高教入学概率的跨国法则假设
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

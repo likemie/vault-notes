@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [文本生成 · Text generation](https://www.visiblelearningmetax.com/influences/view/text_generation)
 > 学生学习策略 › 学习策略
 >

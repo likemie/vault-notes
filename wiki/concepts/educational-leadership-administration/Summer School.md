@@ -25,6 +25,8 @@ created: 2026-10-22
 updated: 2026-10-26
 ---
 
+> [!metax-divider]
+
 > [!metax] [暑期学校 · Summer school](https://www.visiblelearningmetax.com/influences/view/summer_school)
 > 学校 › 学校类型
 >
@@ -41,6 +43,8 @@ updated: 2026-10-26
 > > | Lauer et al. (2004) | Summer school programs on reading and math | 22 | 15,277 | 26 | 0.07 |  |
 > > | Xie, Neitzel, et al. (2022) | Summer programs on reading & math | 19 | NA | 19 | 0.23 |  |
 > > | Lynch et al. (2021) | Summer programs on math | 37 | NA | 164 | 0.09 |  |
+
+> [!eef-divider]
 
 > [!eef] [暑期学校 · Summer schools](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/summer-schools)
 > EEF 教与学工具包 · 更新于 2025-08-06 · 小学 43 · 中学 14 · 阅读 51 · 数学 21

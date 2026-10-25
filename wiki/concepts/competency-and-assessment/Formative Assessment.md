@@ -152,6 +152,8 @@ updated: 2026-10-22
 > | **模块化过载的挤出效应** | 频繁的短期模块考试导致评价过载，挤压深度形成性对话时间 | 学分制改革与模块化课程设计 | Wu and Jessop (2018) |
 > | **教学归因与策略转化** | 将评价结果视为对教师自身教学效能的检验，是驱动教学改进的根本动力 | 校本评价体系构建与数据驱动教学 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]；Black & Wiliam (1998, 2009) |
 
+> [!metax-divider]
+
 > [!metax] [形成性评价 · Formative evaluation](https://www.visiblelearningmetax.com/influences/view/formative_evaluation)
 > 教学策略 › 反馈
 >

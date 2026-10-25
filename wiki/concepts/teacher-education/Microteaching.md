@@ -163,6 +163,8 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 432, Table 2)]]; Hattie (2009) | 4 项元分析 | 65 项研究 | 4,213 名教师与学生 | 0.88 | 极高显著促进效应 | 教师所有实践影响因素排位第一名，远超 $d \ge 0.40$ 期望分水岭 |
 
+> [!metax-divider]
+
 > [!metax] [微格教学／课堂录像回看 · Micro-teaching / video review of lessons](https://www.visiblelearningmetax.com/influences/view/micro-teaching~video_review_of_lessons)
 > 教师 › 教师教育
 >

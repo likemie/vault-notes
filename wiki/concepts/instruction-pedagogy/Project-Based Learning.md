@@ -172,6 +172,8 @@ updated: 2026-10-22
 > [!warning] 实施局限与边界条件
 > 项目式学习的有效落地高度依赖学生的[[Self-Regulated Learning\|自我调节学习]]（SRL）能力与教师的[[Scaffolding\|脚手架]]设计。如果缺乏清晰的阶段性反馈与认知引导，学生在复杂探究情境中极易出现迷航、认知超载或低质互动。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]
 
+> [!metax-divider]
+
 > [!metax] [项目式学习 · Project-based learning](https://www.visiblelearningmetax.com/influences/view/project-based_learning)
 > 教学策略 › 教学方法
 >

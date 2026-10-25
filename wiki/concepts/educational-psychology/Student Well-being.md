@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [幸福感 · Well-being](https://www.visiblelearningmetax.com/influences/view/well-being)
 > 学生 › 情绪
 >

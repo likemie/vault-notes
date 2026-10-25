@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [综合阅读项目 · Comprehensive reading programs](https://www.visiblelearningmetax.com/influences/view/comprehensive_reading_programs)
 > 课程 › 读写与艺术
 >

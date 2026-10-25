@@ -142,6 +142,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [性别差异 · Gender (male-female)](https://www.visiblelearningmetax.com/influences/view/gender_(male-female))
 > 学生 › 生理因素
 >
@@ -232,6 +234,8 @@ updated: 2026-10-22
 > > | Kahl et al. (1982) | Pre-college science and achievement | 169 | NA | 31 | 0.12 |  |
 > > | Steinkamp & Maehr (1983) | Gender differences in science | 83 | NA | 107 | 0.19 |  |
 > > | Becker & Chang (1986) | Science and gender | 42 | NA | 42 | 0.16 |  |
+
+> [!empirical-divider]
 
 > [!ref-table]- [[Academic Achievement\|学业成就]]性别差异实证研究汇总
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

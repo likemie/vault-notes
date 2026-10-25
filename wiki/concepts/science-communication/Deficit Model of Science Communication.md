@@ -206,6 +206,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 检验单向信息推介（赤字假设）的大规模因果实证研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

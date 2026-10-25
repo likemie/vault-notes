@@ -310,6 +310,8 @@ updated: 2026-10-26
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [缩小班额 · Reducing class size](https://www.visiblelearningmetax.com/influences/view/reducing_class_size)
 > 课堂 › 班级构成
 >
@@ -329,6 +331,8 @@ updated: 2026-10-26
 > > | Shin & Chung (2009) | Class size | 17 | NA | 17 | 0.20 |  |
 > > | Dalgaard et al. (2022) | Class size in early childhood | 3 | 14,625 | 12 | -0.04 |  |
 > > | Opatrny et al. (2023) | Class size | 62 | NA | 1,767 | 0.08 |  |
+
+> [!eef-divider]
 
 > [!eef] [缩小班额 · Reducing class size](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reducing-class-size)
 > EEF 教与学工具包 · 更新于 2026-01-13 · 学前 41 · 小学 39 · 中学 14 · 阅读 47 · 数学 40 · 科学 2
@@ -406,6 +410,8 @@ updated: 2026-10-26
 > > [!eef-errata] 2 条
 > > - ∑ **自动核算 · 研究数不一致** 页面“How secure is the evidence?”一节称纳入 63 项研究；参考文献列表为 62 条效应量，来自 55 项研究，合并效应量据后者计算。
 > > - ∑ **自动核算 · 权重不闭合** 各研究权重合计 98.2%，应为 100%。
+
+> [!empirical-divider]
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

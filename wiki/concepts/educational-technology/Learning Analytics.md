@@ -182,6 +182,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 学习分析与增益测查关键实证研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

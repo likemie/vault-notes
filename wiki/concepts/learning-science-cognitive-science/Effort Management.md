@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [努力管理 · Effort management](https://www.visiblelearningmetax.com/influences/view/effort_management)
 > 学生学习策略 › 学习策略
 >

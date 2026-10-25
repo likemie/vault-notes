@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [班级氛围 · Class climate effects](https://www.visiblelearningmetax.com/influences/view/class_climate_effects)
 > 课堂 › 课堂氛围
 >

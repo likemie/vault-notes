@@ -200,6 +200,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [概念图 · Concept mapping](https://www.visiblelearningmetax.com/influences/view/concept_mapping)
 > 教学策略 › 学习意图
 >
@@ -226,6 +228,8 @@ updated: 2026-10-22
 > > | Wang & Gu (2008) | Concept mapping | 26 | 3,623 | 26 | 0.84 |  |
 > > | Izci & Akkoc (2024) | Concept mapping | 78 | NA | 78 | 1.08 |  |
 > > | Shi et al. (2022) | Mind mapping | 21 | 1,602 | 21 | 0.99 |  |
+
+> [!empirical-divider]
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

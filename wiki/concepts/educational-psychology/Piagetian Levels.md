@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [皮亚杰认知阶段 · Piagetian levels](https://www.visiblelearningmetax.com/influences/view/piagetian_levels)
 > 学生 › 先备知识与背景
 >

@@ -188,6 +188,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [执行功能 · Executive functioning](https://www.visiblelearningmetax.com/influences/view/executive_functioning)
 > 学生 › 先备知识与背景
 >
@@ -200,6 +202,8 @@ updated: 2026-10-22
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Pascual et al. (2019) | Executive functioning | 21 | 7,947 | 21 | 0.78 |  |
 > > | Spiegel et al. (2021) | Executive functioning | 293 | 65,605 | 293 | 0.61 |  |
+
+> [!empirical-divider]
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

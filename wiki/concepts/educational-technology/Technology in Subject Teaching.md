@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [语言教学技术 · Technology in Language](https://www.visiblelearningmetax.com/influences/view/technology_in_language)
 > 技术、学校与校外策略 › 学科信息技术
 >

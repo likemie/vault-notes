@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [文化维续教学 · Culturally sustaining practices](https://www.visiblelearningmetax.com/influences/view/culturally_sustaining_practices)
 > 学生 › 生理因素
 >

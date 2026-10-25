@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [纸质与数字阅读 · Print vs. Digital](https://www.visiblelearningmetax.com/influences/view/print_vs._digital)
 > 课程 › 读写与艺术
 >

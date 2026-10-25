@@ -252,6 +252,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 跨领域学科理论实证与政策研究对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

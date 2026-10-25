@@ -51,6 +51,8 @@ updated: 2026-10-22
 > - 当前条目仅基于一篇书评的简要描述([[Argument_Fredens_2015_Paideia\|Fredens, 2015]])，信息量有限
 > - CTA 的实施依赖于教师对专家认知过程的深入理解
 
+> [!metax-divider]
+
 > [!metax] [认知任务分析 · Cognitive task analysis](https://www.visiblelearningmetax.com/influences/view/cognitive_task_analysis)
 > 教学策略 › 学习意图
 >

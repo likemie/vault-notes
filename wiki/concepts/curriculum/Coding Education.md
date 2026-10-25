@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [编程 · Coding](https://www.visiblelearningmetax.com/influences/view/coding)
 > 课程 › 数学与科学
 >

@@ -230,6 +230,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 国际代表性教育治理共同从属案例与网络拓扑对照（2010–2023）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

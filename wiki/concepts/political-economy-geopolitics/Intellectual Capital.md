@@ -189,6 +189,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 智力资本投入与国家创新能力实证指标对比（1980s）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

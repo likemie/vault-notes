@@ -216,6 +216,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- [[Meta-analysis\|元分析]]发表偏倚诊断与校正实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

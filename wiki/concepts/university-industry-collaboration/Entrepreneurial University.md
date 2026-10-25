@@ -225,6 +225,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 创业型大学相关实证指标与制度案例证据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

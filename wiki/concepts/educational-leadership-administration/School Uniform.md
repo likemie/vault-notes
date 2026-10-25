@@ -26,6 +26,8 @@ updated: 2026-10-25
 
 # School Uniform
 
+> [!eef-divider]
+
 > [!eef] [校服 · School uniform](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/school-uniform)
 > EEF 教与学工具包 · 更新于 2026-01-13
 >

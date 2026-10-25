@@ -99,6 +99,8 @@ updated: 2026-10-22
 > | **施测成本** | 高（需招募并报酬多位资深领域专家） | 低（可大班集体施测、客观电脑评分） |
 > | **二阶[[Effect Size\|效应量]]** | **$r = 0.12$**（受领域专家主观方差稀释） | **$r = 0.14$**（标准化程度高） |
 
+> [!empirical-divider]
+
 > [!ma-table]- CAT 与创造性产品评估相关[[Meta-analysis\|元分析]]
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >

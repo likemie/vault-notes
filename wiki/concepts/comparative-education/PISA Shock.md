@@ -207,6 +207,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- PISA 震荡跨国比较实证研究结果对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

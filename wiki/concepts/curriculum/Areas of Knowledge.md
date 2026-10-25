@@ -311,6 +311,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 领域非同步性的主要结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

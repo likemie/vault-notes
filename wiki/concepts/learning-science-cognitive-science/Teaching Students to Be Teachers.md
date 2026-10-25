@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [学生当小老师 · Teaching students to be teachers](https://www.visiblelearningmetax.com/influences/view/teaching_students_to_be_teachers)
 > 学生学习策略 › 学生学习观
 >

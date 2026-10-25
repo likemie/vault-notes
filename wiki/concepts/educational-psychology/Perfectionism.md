@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [完美主义 · Perfectionism](https://www.visiblelearningmetax.com/influences/view/perfectionism)
 > 学生 › 学生人格
 >

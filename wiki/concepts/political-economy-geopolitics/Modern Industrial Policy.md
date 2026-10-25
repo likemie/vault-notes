@@ -283,6 +283,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 现代半导体与绿色产业政策主要经济体举措与成本对比
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

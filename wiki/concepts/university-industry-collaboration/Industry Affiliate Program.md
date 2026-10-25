@@ -198,6 +198,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 产业联盟在全美[[Research Universities|研究型大学]]产学协同中的普及率与典型历史案例规模
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

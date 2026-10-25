@@ -155,6 +155,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 均质综合中学制的实证诊断指标与系统性后果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

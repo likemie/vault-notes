@@ -173,6 +173,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 微电子学术制度创业核心机构的历史规模与资源配置指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

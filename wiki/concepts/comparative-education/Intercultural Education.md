@@ -147,6 +147,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table] 实证考证与[[Student Mobility|学生流动]]数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

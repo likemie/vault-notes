@@ -220,6 +220,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 认知方式在不同领域与课程中的应用表现
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 > 

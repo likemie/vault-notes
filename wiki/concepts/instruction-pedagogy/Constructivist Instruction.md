@@ -228,6 +228,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [建构主义教学 · Constructivist teaching](https://www.visiblelearningmetax.com/influences/view/constructivist_teaching)
 > 教学策略 › 教学方法
 >
@@ -246,6 +248,8 @@ updated: 2026-10-22
 > > | Tutal (2023) | Context based learning | 42 | 3,938 | 54 | 0.97 |  |
 > > | Ting et al. (2022) | Active learning on STEM | 38 | 4,740 | 38 | 0.66 |  |
 > > | Üzüm & Özbek (2023) | Learner centered education | 234 | NA | 260 | 0.95 |  |
+
+> [!empirical-divider]
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Constructivist Paradigm\|建构主义]]教学与不同[[Framework for Teaching|教学框架]]因果效应对比
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

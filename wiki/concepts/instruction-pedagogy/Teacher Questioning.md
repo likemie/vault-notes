@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [提问 · Questioning](https://www.visiblelearningmetax.com/influences/view/questioning)
 > 教学策略 › 反馈
 >

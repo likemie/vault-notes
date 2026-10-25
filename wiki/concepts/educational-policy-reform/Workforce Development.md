@@ -207,6 +207,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 现代产业战略中劳动力发展相关的核心实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

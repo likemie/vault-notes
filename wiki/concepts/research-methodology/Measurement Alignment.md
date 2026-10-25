@@ -145,6 +145,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ma-table]- [[Meta-analysis\|元分析]]总体结果：对齐效应比较
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >

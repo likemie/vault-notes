@@ -197,6 +197,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 国际代表性风险慈善实践与实证数据对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

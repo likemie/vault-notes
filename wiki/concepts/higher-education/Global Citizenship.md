@@ -173,6 +173,8 @@ updated: 2026-10-23
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

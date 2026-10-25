@@ -127,6 +127,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 1980 年代技术赶超典型国家关键指标对比（韩国 vs 巴西）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

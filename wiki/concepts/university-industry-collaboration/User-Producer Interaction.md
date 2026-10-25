@@ -142,6 +142,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 产业协作与创新网络跨国实证特征对比（1970s）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

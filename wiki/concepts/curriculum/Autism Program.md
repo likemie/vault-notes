@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [孤独症干预项目 · Autism program](https://www.visiblelearningmetax.com/influences/view/autism_program)
 > 课程 › 资优生课程
 >

@@ -174,6 +174,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 跨文化说话与认知处理生理实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

@@ -161,6 +161,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 确定性需求拉动美国微电子产业演进的历史指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

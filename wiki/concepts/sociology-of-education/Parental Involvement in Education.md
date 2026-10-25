@@ -25,6 +25,8 @@ created: 2026-10-22
 updated: 2026-10-26
 ---
 
+> [!metax-divider]
+
 > [!metax] [家长／成人辅导 · Parent / Adult tutoring](https://www.visiblelearningmetax.com/influences/view/parent~adult_tutoring)
 > 学生学习策略 › 学生学习观
 >
@@ -161,6 +163,8 @@ updated: 2026-10-26
 > > | Heidlage et al. (2020) | Parent language interventions | 25 | 1,734 | 25 | 0.52 |  |
 > > | Madigan et al. (2019) | Sensitive responsive parenting and child language | 37 | NA | 36 | 0.56 |  |
 > > | Prime et al. (2023) | Positive parenting on academics | 61 | 9,687 | 79 | 0.46 |  |
+
+> [!eef-divider]
 
 > [!eef] [家长参与 · Parental engagement](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/parental-engagement)
 > EEF 教与学工具包 · 更新于 2026-07-22 · 学前 26 · 小学 53 · 中学 2 · 阅读 82 · 数学 27 · 科学 5

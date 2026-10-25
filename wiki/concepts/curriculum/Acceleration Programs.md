@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [跳级加速项目 · Acceleration programs](https://www.visiblelearningmetax.com/influences/view/acceleration_programs)
 > 课程 › 资优生课程
 >

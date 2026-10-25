@@ -255,6 +255,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 通用目的技术（微电子、计算机与信息技术）公共培育与产业演进的历史实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

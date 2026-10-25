@@ -276,6 +276,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 学徒制在历史赶超与现代国家战略中的制度实践对比
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

@@ -241,6 +241,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [校长／学校领导者 · Principals / school leaders](https://www.visiblelearningmetax.com/influences/view/principals~school_leaders)
 > 学校 › 领导
 >
@@ -277,6 +279,8 @@ updated: 2026-10-22
 > > | Almarshad (2017) | Leadership on achievement | 14 | 12,757 | 16 | 0.56 |  |
 > > | Karadag (2020) | School leadership | 151 | 131,498 | 151 | 0.68 |  |
 > > | Ertem (2021) | School leadership | 7 | 8,180 | 7 | 0.93 |  |
+
+> [!empirical-divider]
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

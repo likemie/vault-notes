@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [背景音乐 · Background music](https://www.visiblelearningmetax.com/influences/view/background_music)
 > 教学策略 › 教学方法
 >

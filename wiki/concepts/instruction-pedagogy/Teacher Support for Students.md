@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [教师支持 · Teacher-student support](https://www.visiblelearningmetax.com/influences/view/teacher-student_support)
 > 课堂 › 课堂氛围
 >

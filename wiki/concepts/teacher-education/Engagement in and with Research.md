@@ -195,6 +195,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!effect-table]- 原始研究结果：微观个体素养塑造（Kazancı Tınmaz & Sezgin, 2023）
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >

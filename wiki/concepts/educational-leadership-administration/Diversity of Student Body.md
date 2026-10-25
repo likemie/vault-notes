@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [学生群体多样性 · Diversity of student body](https://www.visiblelearningmetax.com/influences/view/diversity_of_student_body)
 > 学校 › 学校构成
 >

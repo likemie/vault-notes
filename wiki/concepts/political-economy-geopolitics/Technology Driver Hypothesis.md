@@ -158,6 +158,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 美日半导体制造商晶圆平均探针良率实测对比（[[Argument_Macher_1998_CMR|Macher et al., 1998]], Table 2）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

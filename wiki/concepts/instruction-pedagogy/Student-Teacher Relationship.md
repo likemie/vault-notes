@@ -193,6 +193,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [师生关系 · Teacher-student relationships](https://www.visiblelearningmetax.com/influences/view/teacher-student_relationships)
 > 课堂 › 课堂氛围
 >
@@ -215,6 +217,8 @@ updated: 2026-10-22
 > > [!metax-errata] 2 条
 > > - ∑ **自动核算 · 疑似重复** Wang & Dong (2017) 在列表中重复出现。
 > > - ∑ **自动核算 · 剔除重复后** 元分析 6 项，研究数 677，加权平均效应量 0.56，未加权平均效应量 0.46（仅供参考，尚未经文献核实）。
+
+> [!empirical-divider]
 
 > [!effect-table]- 师生关系实证研究与[[Effect Size|效应量]]快照
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

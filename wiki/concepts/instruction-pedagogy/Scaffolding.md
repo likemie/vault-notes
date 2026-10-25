@@ -277,6 +277,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [支架与情境学习 · Scaffolding and situated learning](https://www.visiblelearningmetax.com/influences/view/scaffolding_and_situated_learning)
 > 教学策略 › 教学方法
 >
@@ -294,6 +296,8 @@ updated: 2026-10-22
 > > | Cai, Mao, et al. (2022) | Scaffolding in digital games | 49 | 5,906 | 154 | 0.43 |  |
 > > | Doo et al. (2020) | Scaffolding in elearning | 18 | 1,184 | 41 | 0.65 |  |
 > > | Pesco & Gagne (2017) | Scaffolding | 15 | NA | 28 | 0.61 |  |
+
+> [!empirical-divider]
 
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

@@ -152,6 +152,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 应用工程与技术扩散实证考证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

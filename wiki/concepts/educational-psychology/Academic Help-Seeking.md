@@ -174,6 +174,8 @@ updated: 2026-10-22
 > - **2012 年 — 文化生态与社会符号学审视** [[Argument_Li_2012_Cambridge\|Li (2012)]] 揭示文化价值体系对求助意义的深层建构，对比了西方“自我威胁/能力暴露”与东方“[[Self-Cultivation\|修身]][[Humility\|谦逊]]/同学支持”的[[Cultural Models\|文化模型]]差异。
 > - **2025 年 — 生成式 AI 介入与人机求助心理学重塑** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] [[Meta-analysis\|元分析]]证实生成式 AI 显著降低高校求助焦虑（$g^+ = 0.617$）；[[Argument_Wu_2025_ER\|Wu et al. (2025)]] 进一步揭示低威胁人机求助如何帮助先验知识薄弱者克服求助恐惧，进而作为阶梯驱动学习者向评价论[[Epistemic Stances\|认识立场]]演进。
 
+> [!metax-divider]
+
 > [!metax] [求助 · Help seeking](https://www.visiblelearningmetax.com/influences/view/help_seeking)
 > 学生学习策略 › 元认知／自我调节学习
 >

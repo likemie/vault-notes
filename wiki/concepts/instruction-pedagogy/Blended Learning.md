@@ -200,6 +200,8 @@ updated: 2026-10-22
 > [!warning] 适用局限
 > 混合式学习的成功落地需要稳定的网络软硬件基础设施、教师跨模态教学设计素养以及学生基础自律习惯的有力支撑；在设备匮乏或学生严重缺乏自主管理能力的低幼学段，强推复杂的混合式学习往往难以取得预期成效。
 
+> [!metax-divider]
+
 > [!metax] [混合式学习 · Blended learning](https://www.visiblelearningmetax.com/influences/view/blended_learning)
 > 技术、学校与校外策略 › 远程／混合
 >

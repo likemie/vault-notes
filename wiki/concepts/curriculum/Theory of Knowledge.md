@@ -440,6 +440,8 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

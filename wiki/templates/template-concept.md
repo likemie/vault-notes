@@ -161,6 +161,8 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
    不能只在“相关研究”中概述结论而省略数据。每行链接对应 Argument；原文未报告的指标填写 —，不得自行推算。
    结果中完全没有数据时删除本节，不以质性结论占位。 %%
 
+> [!empirical-divider]
+
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
 >

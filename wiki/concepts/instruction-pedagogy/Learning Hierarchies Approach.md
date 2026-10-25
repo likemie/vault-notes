@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [学习层级法 · Learning hierarchies approach](https://www.visiblelearningmetax.com/influences/view/learning_hierarchies_approach)
 > 教学策略 › 学习意图
 >

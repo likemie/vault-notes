@@ -112,6 +112,8 @@ updated: 2026-10-22
 > | [[Unit of Analysis]] | 概念 | 分析单位，本案例展现了传统比较教育以主权国家双边关系为基准单位的特征。 |
 > | [[Jason Beech]] | 人物 | 现代解构者，以该案例对比当代超越主权国家的跨国营利性教育网络。 |
 
+> [!metax-divider]
+
 > [!metax] [开放式与传统课堂 · Open vs. traditional classrooms](https://www.visiblelearningmetax.com/influences/view/open_vs._traditional_classrooms)
 > 课堂 › 班级构成
 >

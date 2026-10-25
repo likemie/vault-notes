@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [问责制度 · Systems / accountability systems](https://www.visiblelearningmetax.com/influences/view/systems~accountability_systems)
 > 学校 › 学校资源
 >

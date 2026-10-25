@@ -238,6 +238,8 @@ flowchart LR
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [自我效能感 · Self-efficacy](https://www.visiblelearningmetax.com/influences/view/self-efficacy)
 > 学生 › 自我
 >
@@ -278,6 +280,8 @@ flowchart LR
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Klassen & Tze (2014) | Teacher self-efficacy and achievement | 12 | NA | 31 | 0.24 |  |
 > > | Kim & Seo (2018) | Teacher self-efficacy | 16 | 14,215 | 98 | 0.20 |  |
+
+> [!empirical-divider]
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

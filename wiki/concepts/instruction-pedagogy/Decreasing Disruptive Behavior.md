@@ -25,6 +25,8 @@ created: 2026-10-22
 updated: 2026-10-26
 ---
 
+> [!metax-divider]
+
 > [!metax] [减少扰乱行为 · Decreasing disruptive behavior](https://www.visiblelearningmetax.com/influences/view/decreasing_disruptive_behavior)
 > 课堂 › 课堂管理
 >
@@ -37,6 +39,8 @@ updated: 2026-10-26
 > > | --- | --- | --- | --- | --- | --- | --- |
 > > | Skiba & Casey (1985) | Classroom disruptive behavior | 10 | 205 | 11 | 1.16 |  |
 > > | Stage & Quiroz (1997) | Decreasing disruptive behavior | 99 | 5,057 | 289 | 0.78 |  |
+
+> [!eef-divider]
 
 > [!eef] [行为干预 · Behaviour interventions](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/behaviour-interventions)
 > EEF 教与学工具包 · 更新于 2025-08-05 · 小学 42 · 中学 31 · 阅读 54 · 数学 30

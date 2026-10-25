@@ -170,6 +170,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- [[OECD]] 跨国政策调查中各类主体在研究生产各阶段的参与覆盖系统数对比（$N = 37$ 教育系统）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

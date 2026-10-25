@@ -222,6 +222,8 @@ updated: 2026-10-22
 > | | [[Operationalization]] | 方法支撑 | 将课堂管理抽象[[Construct\|构念]]解构为低推论时间快照与高推论行为锚定等级评分 |
 > | | [[Inter-Rater Reliability]] | 质量保障 | 多位观察员对课堂常规与行为管理实施标准化评定的一致性保障 |
 
+> [!metax-divider]
+
 > [!metax] [课堂管理 · Classroom management](https://www.visiblelearningmetax.com/influences/view/classroom_management)
 > 课堂 › 课堂管理
 >

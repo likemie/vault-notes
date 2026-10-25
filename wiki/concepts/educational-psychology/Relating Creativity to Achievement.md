@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [创造力与学业成就 · Relating creativity to achievement](https://www.visiblelearningmetax.com/influences/view/relating_creativity_to_achievement)
 > 学生 › 先备知识与背景
 >

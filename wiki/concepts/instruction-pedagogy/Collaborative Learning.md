@@ -25,6 +25,8 @@ created: 2026-10-22
 updated: 2026-10-26
 ---
 
+> [!metax-divider]
+
 > [!metax] [协作学习 · Collaborative learning](https://www.visiblelearningmetax.com/influences/view/collaborative_learning)
 > 教学策略 › 教学方法
 >
@@ -52,6 +54,8 @@ updated: 2026-10-26
 > > | Bicer (2017) | Collaborative learning | 6 | NA | 6 | 0.82 |  |
 > > | Wang (2014) | Peer to peer interaction | 9 | NA | 9 | 0.89 |  |
 > > | Alnajjar & Ibrahim (2024) | Collaborative learning | 23 | 2,837 | 23 | 0.90 |  |
+
+> [!eef-divider]
 
 > [!eef] [协作学习方法 · Collaborative learning approaches](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/collaborative-learning-approaches)
 > EEF 教与学工具包 · 更新于 2025-05-21 · 小学 104 · 中学 107 · 阅读 62 · 数学 64

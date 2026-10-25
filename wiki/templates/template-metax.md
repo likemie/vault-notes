@@ -14,6 +14,8 @@ updated: 2026-10-22
    表头代号由 CSS 显示为中文：rate 评级｜ma 元分析数｜k 研究数｜n 学生数｜m 效应数｜d 效应量（按研究数加权，Σkd/Σk）｜du 效应量（未加权）｜rob 稳健性（●×5）｜ref 文献｜var 变量｜e 勘误。
    勘误改 metax/errata.json：单篇在 e 列标 ①②…，整合在总览数值旁标 ⚑。勘误框仅在两种情况下出现：errata.json 有该因素的有来源勘误；或脚本重算总览（元分析数、研究数、学生数、效应数、按研究数加权的 d）与列表不符、发现疑似重复行，即单项相加不等于总览或合计行、加权或未加权平均数重算不符、元分析数与列表行数不符、发现疑似重复行时，此类以 ∑ 标记，每次同步自动重算，不写入 errata.json。 %%
 
+> [!metax-divider]
+
 > [!metax] [元认知策略 · Meta-cognition strategies](https://www.visiblelearningmetax.com/influences/view/meta-cognition_strategies)
 > 学生学习策略 › 元认知／自我调节学习
 >

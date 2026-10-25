@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [校舍质量 · Building quality](https://www.visiblelearningmetax.com/influences/view/building_quality)
 > 学校 › 学校资源
 >

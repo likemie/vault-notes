@@ -392,6 +392,8 @@ updated: 2026-10-23
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 国际教育规模与结构变化
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

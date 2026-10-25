@@ -176,6 +176,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 跨情境企业风险投资与产学转化实证结果对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

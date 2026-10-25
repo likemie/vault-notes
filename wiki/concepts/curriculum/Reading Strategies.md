@@ -25,6 +25,8 @@ created: 2026-10-22
 updated: 2026-10-26
 ---
 
+> [!metax-divider]
+
 > [!metax] [阅读策略 · Reading strategies](https://www.visiblelearningmetax.com/influences/view/reading_strategies)
 > 课程 › 读写与艺术
 >
@@ -48,6 +50,8 @@ updated: 2026-10-26
 > > | Tighe & Schatschneider (2016) | Reading skills | 16 | 2,707 | 74 | 1.04 |  |
 > > | Filderman et al. (2022) | Reading comprehension interventions | 64 | NA | 64 | 0.59 |  |
 > > | Maeng (2014) | Reading strategies | 37 | NA | 45 | 0.58 |  |
+
+> [!eef-divider]
 
 > [!eef] [阅读理解策略 · Reading comprehension strategies](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/reading-comprehension-strategies)
 > EEF 教与学工具包 · 更新于 2026-07-22 · 小学 91 · 中学 80 · 阅读 179 · 科学 3

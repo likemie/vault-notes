@@ -176,6 +176,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 法国高等教育三元结构关键制度参数与跨国对标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

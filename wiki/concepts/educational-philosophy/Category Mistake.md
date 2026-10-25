@@ -164,6 +164,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 范畴错误导致的实证数据不可比性对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

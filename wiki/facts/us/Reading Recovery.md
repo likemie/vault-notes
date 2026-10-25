@@ -102,6 +102,8 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] [[Best Evidence Encyclopedia\|BEE]] 综合 | 多中心 [[Randomised Controlled Trials\|RCT]] / [[Quasi-Experimental Designs\|QED]] (4 项) | 一年级学生样本 | 1:1 个别，认证教师 | 独立标准化阅读测验 | $ES = +0.42$ | 强证据（Strong） |
 
+> [!metax-divider]
+
 > [!metax] [阅读复苏计划 · Reading Recovery](https://www.visiblelearningmetax.com/influences/view/reading_recovery)
 > 课程 › 读写与艺术
 >

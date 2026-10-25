@@ -140,6 +140,8 @@ updated: 2026-10-22
 > [!warning] 适用局限
 > IB 六年试验说明资格承认如何在一个新国际考试组织周围形成，不能据此假定所有学历、专业资格或跨境学分都遵循相同程序。其证据主要来自彼得森的参与者叙述，国家法令与大学政策仍需以相应原始文件核验。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 68–82)]]
 
+> [!empirical-divider]
+
 > [!ref-table]- IB 早期承认范围
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

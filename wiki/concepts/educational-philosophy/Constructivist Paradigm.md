@@ -275,6 +275,8 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 
 ---
 
+> [!empirical-divider]
+
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]教学角色与建构主义实践因果效应对比（激活者 vs 促进者）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >

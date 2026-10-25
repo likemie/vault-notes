@@ -329,6 +329,8 @@ updated: 2026-10-23
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 产学合作与科技体系关键实证观察
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

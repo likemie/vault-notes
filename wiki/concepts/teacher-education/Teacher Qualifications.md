@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [教师资格 · Teacher qualifications](https://www.visiblelearningmetax.com/influences/view/teacher_qualifications)
 > 教师 › 教师教育
 >

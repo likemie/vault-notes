@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [多元文化课程 · Diversity courses](https://www.visiblelearningmetax.com/influences/view/diversity_courses)
 > 课程 › 其他课程项目
 >

@@ -201,6 +201,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 示范效应在技术采纳、公共治理与跨国扩散中的实证对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [迁移策略 · Transfer strategies](https://www.visiblelearningmetax.com/influences/view/transfer_strategies)
 > 学生学习策略 › 元认知／自我调节学习
 >

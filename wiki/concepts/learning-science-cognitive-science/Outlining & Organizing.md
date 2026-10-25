@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [提纲与组织 · Outlining & organizing](https://www.visiblelearningmetax.com/influences/view/outlining_&_organizing)
 > 学生学习策略 › 学习策略
 >

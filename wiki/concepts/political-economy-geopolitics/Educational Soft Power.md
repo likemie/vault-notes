@@ -158,6 +158,8 @@ updated: 2026-10-26
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 国际高等教育软实力实证研究对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

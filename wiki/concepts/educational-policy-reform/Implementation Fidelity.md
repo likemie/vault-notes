@@ -250,6 +250,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 实施保真度与[[Implementation and Process Evaluation\|过程评估]]在教育干预评估中的关键实证指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

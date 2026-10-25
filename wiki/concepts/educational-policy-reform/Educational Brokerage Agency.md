@@ -408,6 +408,8 @@ updated: 2026-10-23
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 国际代表性教育中介机构治理模式与存续状态对照（2007–2022）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

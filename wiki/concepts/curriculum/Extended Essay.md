@@ -158,6 +158,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- EE 与核心课程连贯性的学校实践
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

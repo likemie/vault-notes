@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [积极族裔认同 · Positive ethnicity self-identity](https://www.visiblelearningmetax.com/influences/view/positive_ethnicity_self-identity)
 > 学生 › 生理因素
 >

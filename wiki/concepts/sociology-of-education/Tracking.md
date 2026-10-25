@@ -218,6 +218,8 @@ updated: 2026-10-26
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [资优生能力分组 · Ability grouping for gifted students](https://www.visiblelearningmetax.com/influences/view/ability_grouping_for_gifted_students)
 > 课堂 › 班级构成
 >
@@ -272,6 +274,8 @@ updated: 2026-10-26
 > > | Steenberggen-Hu et al. (2016) | Ability grouping in RCT studies | 11 | NA | 11 | 0.03 |  |
 > > | Baker (2022) | Ability grouping with Black & Brown students | 11 | NA | 11 | -0.03 |  |
 > > | Terrin & Triventi (2023) | Ability grouping on achievement | 53 | NA | 213 | -0.02 |  |
+
+> [!eef-divider]
 
 > [!eef] [分层与分流 · Setting and streaming](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/setting-and-streaming)
 > EEF 教与学工具包 · 更新于 2026-07-22 · 小学 41 · 中学 17
@@ -341,6 +345,8 @@ updated: 2026-10-26
 > > | Cartwright (1972) <span class="eef-tag">1_1</span> | 期刊论文 | −0.75 | −1.25 ~ −0.24 | 1.5% |  |
 > > | Halliwell (1963) <span class="eef-tag">1_1</span> | 期刊论文 | −0.94 | −1.36 ~ −0.53 | 1.7% |  |
 > > | Nichols (1969) | 期刊论文 | −1.01 | −1.34 ~ −0.67 | 1.9% |  |
+
+> [!empirical-divider]
 
 > [!ref-table]- 经典与因果评估实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

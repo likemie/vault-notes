@@ -108,6 +108,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 黄金标准科学实证数据与机器核验突破
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

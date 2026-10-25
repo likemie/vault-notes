@@ -210,6 +210,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [工作记忆能力 · Working memory strength](https://www.visiblelearningmetax.com/influences/view/working_memory_strength)
 > 学生 › 先备知识与背景
 >
@@ -248,6 +250,8 @@ updated: 2026-10-22
 > > | Sala & Gobet (2019) | Working memory training | 41 | 2,375 | 393 | 0.13 |  |
 > > | Sala et al. (2019) | Working memory on reading & math (Cogmed) | 50 | 3,059 | 637 | 0.05 |  |
 > > | Bharadwaj et al. (2021) | Cogmed on achievement & executive functioning | 11 | NA | 11 | -0.10 |  |
+
+> [!empirical-divider]
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

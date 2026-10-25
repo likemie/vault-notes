@@ -164,6 +164,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 用户共同发明与信息技术扩散的实证历史指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [课间休息 · Classroom breaks](https://www.visiblelearningmetax.com/influences/view/classroom_breaks)
 > 课堂 › 课堂管理
 >

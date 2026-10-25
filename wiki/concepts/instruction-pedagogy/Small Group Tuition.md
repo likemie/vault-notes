@@ -26,6 +26,8 @@ updated: 2026-10-25
 
 # Small Group Tuition
 
+> [!eef-divider]
+
 > [!eef] [小组辅导 · Small group tuition](https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/small-group-tuition)
 > EEF 教与学工具包 · 更新于 2025-05-21 · 学前 26 · 小学 118 · 中学 16 · 阅读 91 · 数学 61 · 科学 2
 >

@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [一人一机 · One-on-one laptops](https://www.visiblelearningmetax.com/influences/view/one-on-one_laptops)
 > 技术、学校与校外策略 › 移动／触屏
 >

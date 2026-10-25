@@ -313,6 +313,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 因果推断核心实证与方法学案例
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

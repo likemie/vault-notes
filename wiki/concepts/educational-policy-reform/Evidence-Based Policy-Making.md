@@ -237,6 +237,8 @@ updated: 2026-10-23
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 循证决策规程在公共政策与跨国流动中的实证指标对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

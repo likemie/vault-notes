@@ -189,6 +189,8 @@ tags:
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [以学生为中心的教学 · Student-centered teaching](https://www.visiblelearningmetax.com/influences/view/student-centered_teaching)
 > 学生学习策略 › 学生导向干预
 >
@@ -206,6 +208,8 @@ tags:
 > > | Bernard et al. (2019) | Student centered vs. teacher centered approach | 299 | 43,175 | 365 | 0.44 |  |
 > > | Uyar & Doganay (2018) | Student centered teaching | 105 | NA | 120 | 1.14 |  |
 > > | Simsek & Ozaslan (2021) | Student centered teaching | 55 | NA | 55 | 1.00 |  |
+
+> [!empirical-divider]
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

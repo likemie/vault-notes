@@ -182,6 +182,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- CRADA 协议在全美科研转化中的实证数据与改革基准
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

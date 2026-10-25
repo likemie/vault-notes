@@ -197,6 +197,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 转移科学与[[Knowledge Mobilisation|知识动员]]核心实证研究结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

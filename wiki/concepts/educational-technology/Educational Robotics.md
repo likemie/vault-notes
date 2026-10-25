@@ -96,6 +96,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [机器人教育 · Robotics](https://www.visiblelearningmetax.com/influences/view/robotics)
 > 技术、学校与校外策略 › 虚拟／增强现实
 >
@@ -113,6 +115,8 @@ updated: 2026-10-22
 > > | Derakhshan et al. (2024) | Robot-assisted language learning | 7 | 2,637 | 64 | 0.78 |  |
 > > | Wang & Cheung (2024) | Robot social behaviors for language learning | 59 | 2,835 | 18 | 0.27 |  |
 > > | García-Martínez et al. (2023) | Robots on achievement | 25 | 3,529 | 94 | 0.55 |  |
+
+> [!empirical-divider]
 
 > [!effect-table]- 原始研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>

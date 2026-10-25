@@ -223,6 +223,8 @@ updated: 2026-10-22
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 《文化归属：东西方学习信念比较研究》，系统论证实体智力观与西方[[Talent Assumption\|天赋假设]]、[[Intellectual-Social Divide\|知性-社交二分]]以及针对努力者的 [[Nerd]] 同伴制裁之间的因果关联，确立东亚勤勉信念的保护性文化功能。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 系统评述英国 [[Education Endowment Foundation\|EEF]] 资助的“改变思维（Changing Mindsets）”大规模全校效果试验（Foliano et al., 2019），以[[National Pupil Database\|国家学生数据库]]（NPD）客观 Key Stage 2 统考成绩为标尺，揭示大规模现场落地中[[Effect Size\|效应量]]归零（$ES \approx 0.00$）与未能弥合弱势差距的方法学教训。
 
+> [!metax-divider]
+
 > [!metax] [成长型与固定型思维 · Growth vs. fixed mindsets](https://www.visiblelearningmetax.com/influences/view/growth_vs._fixed_mindsets)
 > 学生 › 毅力与自信
 >

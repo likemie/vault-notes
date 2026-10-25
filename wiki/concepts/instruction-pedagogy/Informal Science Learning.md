@@ -187,6 +187,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 宏观参与率、区域经济与长期队列实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

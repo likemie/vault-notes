@@ -147,6 +147,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- DGR1 制度在澳大利亚教育政策中的实证运作指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

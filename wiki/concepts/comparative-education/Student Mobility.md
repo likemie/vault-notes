@@ -251,6 +251,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [转学流动 · Mobility](https://www.visiblelearningmetax.com/influences/view/mobility)
 > 家庭 › 家庭环境
 >
@@ -265,6 +267,8 @@ updated: 2026-10-22
 > > | Card et al. (2011) | Military deployed and achievement | 5 | 17,828 | 5 | -0.16 |  |
 > > | Mehana (1997) | Mobility and achievement | 26 | 2,889 | 45 | -0.24 |  |
 > > | Diaz (1992) | Moving from community college to 4-yr institutions | 62 | 131,689 | 354 | -0.28 |  |
+
+> [!empirical-divider]
 
 > [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

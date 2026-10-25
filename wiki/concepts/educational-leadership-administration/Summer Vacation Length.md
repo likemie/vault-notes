@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [暑假长度 · Summer vacation length](https://www.visiblelearningmetax.com/influences/view/summer_vacation_length)
 > 学校 › 学校类型
 >

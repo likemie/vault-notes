@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [复习笔记 · Revising record](https://www.visiblelearningmetax.com/influences/view/revising_record)
 > 学生学习策略 › 元认知／自我调节学习
 >

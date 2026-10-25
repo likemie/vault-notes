@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [经济资助项目 · Financial programs](https://www.visiblelearningmetax.com/influences/view/financial_programs)
 > 课程 › 其他课程项目
 >

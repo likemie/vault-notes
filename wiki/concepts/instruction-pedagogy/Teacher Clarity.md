@@ -167,6 +167,8 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 432, Table 2)]]; Hattie (2009) | 7 项元分析 | 240 项研究 | 31,649 名学生与教师 | 0.75 | 极高显著促进效应 | 教师所有实践影响因素排位第二名，属于期望效应区（$d \ge 0.40$）最高梯队 |
 
+> [!metax-divider]
+
 > [!metax] [教师清晰度 · Teacher clarity](https://www.visiblelearningmetax.com/influences/view/teacher_clarity)
 > 教师 › 教师特质
 >

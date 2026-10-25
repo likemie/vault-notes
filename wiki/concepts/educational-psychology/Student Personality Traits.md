@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [学生人格 · Student personality](https://www.visiblelearningmetax.com/influences/view/student_personality)
 > 学生 › 学生人格
 >

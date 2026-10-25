@@ -210,6 +210,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 科学态度与公众参与宏观民意实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

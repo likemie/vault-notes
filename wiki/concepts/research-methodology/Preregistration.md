@@ -257,6 +257,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 预注册与试验规范在教育干预评估中的实证表现与合规指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

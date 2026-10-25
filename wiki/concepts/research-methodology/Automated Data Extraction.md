@@ -168,6 +168,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- 自动化数据提取实证准确性基准表（[[Argument_Jansen_2026_EPR\|Jansen et al., 2026]], 表 2）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

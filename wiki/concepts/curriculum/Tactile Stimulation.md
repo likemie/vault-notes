@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [触觉刺激 · Tactile stimulation](https://www.visiblelearningmetax.com/influences/view/tactile_stimulation)
 > 课程 › 其他课程项目
 >

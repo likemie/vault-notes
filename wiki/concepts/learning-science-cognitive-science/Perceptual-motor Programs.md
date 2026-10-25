@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [知觉运动项目 · Perceptual-motor programs](https://www.visiblelearningmetax.com/influences/view/perceptual-motor_programs)
 > 学生学习策略 › 学生导向干预
 >

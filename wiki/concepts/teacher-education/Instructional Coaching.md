@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [教练指导 · Coaching](https://www.visiblelearningmetax.com/influences/view/coaching)
 > 教师 › 教师教育
 >

@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [蒙台梭利项目 · Montessori programs](https://www.visiblelearningmetax.com/influences/view/montessori_programs)
 > 学校 › 学前干预
 >

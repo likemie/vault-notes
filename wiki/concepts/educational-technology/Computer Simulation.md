@@ -239,6 +239,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [模拟 · Simulations](https://www.visiblelearningmetax.com/influences/view/simulations)
 > 技术、学校与校外策略 › 游戏化
 >
@@ -263,6 +265,8 @@ updated: 2026-10-22
 > > | Chernikova et al. (2023) | Simulation based learning | 214 | NA | 409 | 0.94 |  |
 > > | Robledo & Prudente (2021) | Simulations | 15 | NA | 15 | 0.77 |  |
 > > | Talan (2021c) | Simulations | 91 | 7,575 | 91 | 0.76 |  |
+
+> [!empirical-divider]
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

@@ -24,6 +24,8 @@ created: 2026-10-22
 updated: 2026-10-22
 ---
 
+> [!metax-divider]
+
 > [!metax] [社交技能项目 · Social skills programs](https://www.visiblelearningmetax.com/influences/view/social_skills_programs)
 > 课程 › 其他课程项目
 >

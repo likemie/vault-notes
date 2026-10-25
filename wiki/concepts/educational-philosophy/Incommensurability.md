@@ -219,6 +219,8 @@ updated: 2026-10-22
 
 ---
 
+> [!empirical-divider]
+
 > [!ref-table]- [[Paradigm Wars\|范式战争]]与方法学演化的文献计量实证特征
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >

@@ -191,6 +191,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [同伴社会经济地位 · Peer socioeconomic status](https://www.visiblelearningmetax.com/influences/view/peer_socioeconomic_status)
 > 家庭 › 家庭资源
 >
@@ -240,6 +242,8 @@ updated: 2026-10-22
 > > [!metax-errata] 2 条
 > > - ∑ **自动核算 · 疑似重复** Tian et al. (2020) 在列表中重复出现。
 > > - ∑ **自动核算 · 剔除重复后** 元分析 21 项，研究数 1,303，加权平均效应量 0.59，未加权平均效应量 0.51（仅供参考，尚未经文献核实）。
+
+> [!empirical-divider]
 
 > [!ma-table]- 社会经济地位在宏观综合中的实证数据对照
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>

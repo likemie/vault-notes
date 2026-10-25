@@ -251,6 +251,8 @@ updated: 2026-10-22
 
 ---
 
+> [!metax-divider]
+
 > [!metax] [STEM 项目 · STEM programs](https://www.visiblelearningmetax.com/influences/view/stem_programs)
 > 课程 › 数学与科学
 >
@@ -277,6 +279,8 @@ updated: 2026-10-22
 > > | Güder et al. (2022) | Stem on science processes | 43 | NA | 43 | 0.60 |  |
 > > | Srikoon et al. (2023) | STEM on achievement | 8 | NA | 8 | 0.91 |  |
 > > | Lu et al. (2021) | STEM on achievement | 31 | NA | 42 | 0.62 |  |
+
+> [!empirical-divider]
 
 > [!effect-table]- STEM 教学法对比实证研究结果
 > <span class="concept-effect-table-marker" aria-hidden="true"></span>
