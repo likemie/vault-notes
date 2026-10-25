@@ -1,5 +1,5 @@
 ---
-citation: ""
+citation: "Zhu, K., & Yang, R. (2023). Emerging resources of China’s soft power: A case study of Cambodian participants from Chinese higher education programs. Higher Education Policy, 36(3), 633–655. https://doi.org/10.1057/s41307-022-00278-w"
 extracted_to: []
 processed_date: 2026-10-25
 ---

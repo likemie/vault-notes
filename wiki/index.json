@@ -12158,6 +12158,16 @@
     ]
   },
   {
+    "title": "Educational Soft Power",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Educational Soft Power.md",
+    "aliases": [
+      "教育软实力",
+      "教育软权力",
+      "高等教育软实力"
+    ]
+  },
+  {
     "title": "Elitism Dispositif",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Elitism Dispositif.md",
@@ -18757,6 +18767,17 @@
       "全球与地方辩证法",
       "全球化与本土实践的辩证法",
       "Dialectic of the Global and Local"
+    ]
+  },
+  {
+    "title": "Educational Soft Power Framework",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Educational Soft Power Framework.md",
+    "aliases": [
+      "教育软实力分析框架",
+      "教育软实力机制模型",
+      "Wojciuk 教育软实力机制",
+      "Wojciuk's Educational Soft Power Framework"
     ]
   },
   {
@@ -42438,6 +42459,11 @@
     "title": "Argument_Woo_2023_HEP",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_Woo_2023_HEP.md"
+  },
+  {
+    "title": "Argument_Zhu_Yang_2023_HEP",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_Zhu_Yang_2023_HEP.md"
   },
   {
     "title": "Argument_Biggs_1999_HERD",
