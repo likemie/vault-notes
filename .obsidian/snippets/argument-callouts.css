@@ -21825,6 +21825,22 @@ body .callout.callout.callout:is([data-callout="dimension"], [data-callout="theo
   left: .95rem !important; top: .86rem !important; transform: none !important;
 }
 
+/* dimension · 紧凑：取消 v3 的奇偶错落，标题与说明之间不留空行 */
+body .callout.callout.callout:is([data-callout="dimension"]) > .callout-content > :is(ul, ol) { display: grid; gap: .45rem; margin: .1rem 0 0 !important; }
+body .callout.callout.callout:is([data-callout="dimension"]) > .callout-content > :is(ul, ol) > li {
+  margin: 0 !important; padding: .6rem .9rem .65rem 2.6rem !important; line-height: 1.6 !important;
+}
+body .callout.callout.callout:is([data-callout="dimension"]) > .callout-content > :is(ul, ol) > li::before { left: .9rem !important; top: .72rem !important; }
+body .callout.callout.callout:is([data-callout="dimension"]) > .callout-content > :is(ul, ol) > li > strong:first-of-type,
+body .callout.callout.callout:is([data-callout="dimension"]) > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-of-type {
+  display: block !important; margin: 0 0 .12rem !important; padding: 0 !important; border: 0 !important; font-size: .95em !important; line-height: 1.5 !important;
+}
+body .callout.callout.callout:is([data-callout="dimension"]) > .callout-content > :is(ul, ol) > li > strong:first-of-type + br,
+body .callout.callout.callout:is([data-callout="dimension"]) > .callout-content > :is(ul, ol) > li > p:first-child > strong:first-of-type + br { display: none; }
+body .callout.callout.callout:is([data-callout="dimension"]) > .callout-content > :is(ul, ol) > li > p { margin: 0 !important; }
+body .callout.callout.callout:is([data-callout="dimension"]) > .callout-content > :is(ul, ol) > li { font-size: .9em; color: var(--ac-muted); }
+body .callout.callout.callout:is([data-callout="dimension"]) > .callout-content > :is(ul, ol) > li > :is(strong, p > strong):first-child { color: var(--ac-ink); }
+
 /* tension · 对立双栏：白卡 + 顶部 2px 蓝/红色条；VS 为中性小圆 */
 body .callout.callout.callout:is([data-callout="tension"]) {
   padding: 1rem 1.1rem 1.1rem !important; background: var(--ac-paper) !important; background-image: none !important;
