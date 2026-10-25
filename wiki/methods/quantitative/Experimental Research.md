@@ -3,6 +3,7 @@ title: Experimental Research
 aliases:
   - 实验研究
   - 实验法
+  - 实验设计
   - experimental design
   - randomized experiment
 summary: "通过主动操纵自变量并随机分配处理组与对照组以严格评估因果效应的量化实证研究方法；在教育与行为科学中构成因果推断的黄金标准，但也受到生态效度不足、伦理约束及情境复杂性等维度的制度性反思。"

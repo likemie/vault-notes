@@ -2,6 +2,7 @@
 title: Game-Based Learning
 aliases:
   - 基于游戏的学习
+  - 游戏化学习
 summary: "Visible Learning MetaX 因素游戏化学习、英语二语游戏化学习、语言游戏化学习、数学游戏化学习、科学游戏化学习、电子游戏的条目，归属技术、学校与校外策略 › 游戏化；目前只收录 MetaX 元分析汇总数据，概念界定待补充。"
 type: concept
 domain: "educational-technology"

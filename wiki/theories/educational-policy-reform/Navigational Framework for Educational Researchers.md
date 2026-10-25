@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---
@@ -95,7 +95,7 @@ updated: 2026-10-22
 > | [[Policymaking Chronosystem\|政策制定时间系统]] | 概念 | 刻画政策演进受突发公共事件驱动的急性时间生态与法定宏观周期，解释证据利用的时效断层。 |
 > | [[Legislative Policy Brief\|立法政策简报]] | 概念 | 融合核心实证综合、操作性诉求与专业律师起草法定示范条文（Model Statutory Language）的高阶转化载体。 |
 > | 阶段机会窗口（Stage Windows） | 机制 | 界定[[Problem Finding\|问题界定]]、议程设置、政策制定与政策合法化阶段各异的过程驱动要素与证据准入规则。 |
-> | [[Educational Brokerage Agency\|知识经纪]]与智库中介（Brokering & Intermediaries） | 机制 | 借助新美国（New America）、[[The Education Trust\|教育信托]]（EdTrust）等中介组织，克服国会信息过载并实现定向政策倡导。 |
+> | [[Knowledge Mediation\|知识经纪]]与智库中介（Brokering & Intermediaries） | 机制 | 借助新美国（New America）、[[The Education Trust\|教育信托]]（EdTrust）等中介组织，克服国会信息过载并实现定向政策倡导。 |
 > | 国会科学研究员（Congressional Fellowships） | 制度工具 | 由 [[American Association for the Advancement of Science\|AAAS]] 与 [[American Educational Research Association\|AERA]] 资助的学者全职浸润机制，通过实践学习掌握政策世界的隐性知识与语言密码。 |
 
 ---
@@ -161,7 +161,7 @@ updated: 2026-10-22
 > ```
 
 > [!exegesis]- 教育研究例子
-> - **阶段一例子（[[Educational Brokerage Agency\|知识经纪]]与家长赋权）** 塞佩尔在弗吉尼亚联邦大学的同事，利用青少年昼夜节律与睡眠周期的神经科学实证证据编制成通俗工具包，赋权本选区中小学生家长。这群家长造访当地州议员办公室，成功说服立法者立项推迟初高中早间上学时间，展现出研究者充当知识经纪人的政治穿透力。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 43–44)]]
+> - **阶段一例子（[[Knowledge Mediation\|知识经纪]]与家长赋权）** 塞佩尔在弗吉尼亚联邦大学的同事，利用青少年昼夜节律与睡眠周期的神经科学实证证据编制成通俗工具包，赋权本选区中小学生家长。这群家长造访当地州议员办公室，成功说服立法者立项推迟初高中早间上学时间，展现出研究者充当知识经纪人的政治穿透力。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 43–44)]]
 > - **阶段三例子（国会听证会专家证词）** 罗素·[[Russell J. Skiba\|斯基巴]]（Russell Skiba）受邀出席众议院常设委员会听证会，呈递关于非洲裔学生不成比例遭受停课排斥性纪律处分的实证数据，力证零容忍政策的破坏性，专家证词直接被吸收转化为委员会起草学校管教改革拨款条款的实证依据。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 > - **传播反思例子（媒介暴力声明与中立陷阱）** 艾尔森等（Elson et al., 2019）批评专业机构的政策声明夸大结论并主张必须罗列学术分歧；塞佩尔反思指出，在极度对抗的国会辩论中，展示过度犹疑会导致研究直接被立法者弃置，研究者必须坚定明确地亮明核心结论以汇聚政治支持。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 45–46)]]
 

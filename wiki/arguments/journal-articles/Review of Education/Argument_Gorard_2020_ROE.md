@@ -93,7 +93,7 @@ related_facts:
   - "[[Strategic School Improvement Fund]]"
 status: completed
 created: 2026-09-15
-updated: 2026-10-23
+updated: 2026-10-25
 journal: Review of Education
 citation: "Gorard, S., See, B. H., & Siddiqui, N. (2020). What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610."
 authors:
@@ -327,7 +327,7 @@ sources:
 > [!row-contrast] 研究管道与中介机制评估汇总
 > | 纳入研究与年份 | 质评等级 | 知识与认知 | 行为与实践 | 终端成效 | 核心因果结论 |
 > |---|---|---|---|---|---|
-> | Dobbins et al. (2009b) | 2 级（★★） | — | 负向 / 中性 | — | 针对公共卫生决策者的 RCT 表明：[[Educational Brokerage Agency\|知识经纪]]人介入未能显著提升机构对研究证据的实际使用率。 |
+> | Dobbins et al. (2009b) | 2 级（★★） | — | 负向 / 中性 | — | 针对公共卫生决策者的 RCT 表明：[[Boundary Spanner\|知识经纪人]]介入未能显著提升机构对研究证据的实际使用率。 |
 
 #### 2. 校内研究骨干与跨校研讨网络面临人员高流失与中介脱节，对学生统考增益近乎为零
 

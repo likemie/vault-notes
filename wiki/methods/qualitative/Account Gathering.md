@@ -5,7 +5,7 @@ summary: "Brown和Sime发展的陈述收集操作框架，包含信息提供者�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -22,15 +22,14 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Data Reduction]]"
   - "[[Ethogenic Approach]]"
-  - "[[Experience Sampling Method]]"
-  - "[[Experience-Sampling Method]]"
+  - "[[Qualitative Experience-Sampling Method]]"
   - "[[Cross-checking]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 > [!def] Account Gathering
@@ -57,7 +56,7 @@ updated: 2026-10-22
 > [!method-fit] 适用判断
 > - **适合使用** 需要系统化操作程序的[[Ethogenic Approach\|人因研究]]；需要在研究团队内部建立统一的陈述收集和分析标准时。
 > - **谨慎使用** 当研究情境不允许严格遵循所有控制程序时；当参与者群体难以清晰界定片段和角色时。
-> - **不适合使用** 高度探索性的研究（可能更适合[[Experience Sampling Method\|经验取样法]]）；不需要[[Transcription in Qualitative Research\|转录]]和编码的简单陈述记录。
+> - **不适合使用** 高度探索性的研究（可能更适合[[Qualitative Experience-Sampling Method\|质性经验取样法]]）；不需要[[Transcription in Qualitative Research\|转录]]和编码的简单陈述记录。
 
 > [!method-limits] 方法局限
 > - **偏误来源** 每个要素都可能引入偏差：信息提供者选择偏差、场所的情境效应、[[Transcription in Qualitative Research\|转录]]和编码的不一致性、研究者自身陈述中的解释偏差。
@@ -71,8 +70,8 @@ updated: 2026-10-22
 > |:-----|:-----|:-----|
 > | [[Accounts]] | 父方法 | 陈述收集是实现陈述法的具体操作框架 |
 > | [[Ethogenic Approach]] | 方法论基础 | 人因取向是陈述收集的[[Epistemology\|认识论]]和理论前提 |
-> | [[Experience-Sampling Method]] | 姐妹方法 | [[Experience Sampling Method\|经验取样法]]提供了另一种引发陈述的质性技术，更偏向非结构化 |
+> | [[Qualitative Experience-Sampling Method]] | 姐妹方法 | [[Qualitative Experience-Sampling Method\|质性经验取样法]]提供了另一种引发陈述的质性技术，更偏向非结构化 |
 > | [[Cross-checking]] | 验证方法 | 交叉佐证是陈述后验证的关键控制程序 |
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章将Brown & Sime的陈述收集框架作为引发、分析和验证陈述的系统化操作程序介绍，并与Kitwood的[[Experience Sampling Method\|经验取样法]]互补使用。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章将Brown & Sime的陈述收集框架作为引发、分析和验证陈述的系统化操作程序介绍，并与Kitwood的[[Qualitative Experience-Sampling Method\|质性经验取样法]]互补使用。

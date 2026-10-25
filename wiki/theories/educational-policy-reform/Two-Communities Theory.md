@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---
@@ -108,7 +108,7 @@ updated: 2026-10-23
 > - **2019 — 对二元割裂隐喻的反思与解构** 麦基洛普等（Mackillop, Downe, & Quarmby, 2019）系统检视[[Knowledge Mediation|知识中介]]文献，指出将科学设想为纯粹真理、将政治设想为实用行动的二元划分遮蔽了两界内部的[[Heterogeneity|异质性]]以及知识与权力的互构关系。
 > - **2020 — 国会山实践视角与法条化跨界技术** [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] 提出局内人跨界分析框架，揭示学者与议员引证行为的对称性偏好，确立沉浸式国会政策研究员与[[Legislative Policy Brief|立法政策简报]]示范法条化的高阶跨界机制。
 > - **2024 — [[Governing by Numbers|数字治理]] 2.0 时代政策中介与[[Soft Power by Hard Facts|硬事实软权力]]** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] 将理论运用于全球教育治理，揭示国际组织兼具[[Knowledge Production|知识生产]]、推介与出资的多重角色，论证中介机构在证据过剩环境下凭借硬事实构筑[[Façade of Rationality|理性表象]]的权力运作实质。
-> - **2024 — [[Fast and Slow Lanes Model|快慢车道模型]]确立与双重反馈回路断裂揭示** [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] 为[[UNESCO|联合国教科文组织]]撰写全球监测背景报告，提出知识治理的“快车道（政策界）-慢车道（学术界）-中间车道（中介机构）”三轨模型，实证揭示研究生产与政策决策、全球供给与本土需求之间的双重反馈回路断裂，系统阐明部委内设常设[[Educational Brokerage Agency|知识经纪]]机构化解两难的制度路径。
+> - **2024 — [[Fast and Slow Lanes Model|快慢车道模型]]确立与双重反馈回路断裂揭示** [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] 为[[UNESCO|联合国教科文组织]]撰写全球监测背景报告，提出知识治理的“快车道（政策界）-慢车道（学术界）-中间车道（中介机构）”三轨模型，实证揭示研究生产与政策决策、全球供给与本土需求之间的双重反馈回路断裂，系统阐明部委内设常设[[Educational Brokerage Agency|知识经纪机构]]化解两难的制度路径。
 
 ---
 

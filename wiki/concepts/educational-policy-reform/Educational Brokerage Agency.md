@@ -4,14 +4,11 @@ aliases:
   - 教育中介机构
   - 知识中介机构
   - 教育知识经纪机构
+  - 知识经纪机构
+  - 证据中介机构
   - brokerage agency
   - education brokerage organisation
   - brokerage agencies in education
-  - 知识经纪
-  - 证据经纪人
-  - 证据中介机构
-  - evidence broker
-  - Evidence Brokers
   - Knowledge Brokerage Intermediary
   - KBI
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"

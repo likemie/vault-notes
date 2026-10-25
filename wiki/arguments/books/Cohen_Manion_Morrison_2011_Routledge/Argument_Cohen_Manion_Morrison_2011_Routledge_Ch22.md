@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_display_title: "Research Methods in Education · Ch22"
 argument_kind: "book-chapter"
-argument_related_count: 47
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -65,8 +65,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Data Reduction]]"
   - "[[Content Analysis]]"
-  - "[[Experience Sampling Method]]"
-  - "[[Experience-Sampling Method]]"
+  - "[[Qualitative Experience-Sampling Method]]"
   - "[[Questionnaire]]"
   - "[[Cross-checking]]"
   - "[[Member Tests]]"
@@ -86,7 +85,7 @@ related_facts:
   - "[[Achieve]]"
 status: draft
 created: 2026-07-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 ---
 
@@ -193,9 +192,9 @@ updated: 2026-10-22
 > | | 解释方案和理论背景 |
 ---
 
-#### 经验取样法
+#### 质性经验取样法
 
-Kitwood（1977）发展的[[Experience Sampling Method|经验取样法]]（[[Experience-Sampling Method]]）是引发和分析陈述的一种具体质性技术（pp.445–447）：
+Kitwood（1977）发展的[[Qualitative Experience-Sampling Method|质性经验取样法]]是引发和分析陈述的一种具体质性技术（pp.445–447）：
 
 > [!seq-table] Box 22.3　经验取样法的 15 种生活情境（Kitwood, 1977）
 > | 情境描述 | 
@@ -539,9 +538,9 @@ Heath（1982）的经典研究是陈述法在教育研究中应用的最完整�
 > *Ethogenic, an adjective which expresses a view of the human being as a person, that is, a plan-making, self-monitoring agent, aware of goals and deliberately considering the best ways to [[Achieve]] them.*
 
 > [!citation-card] Kitwood 论经验取样的[[Epistemology\|认识论]]立场
-> 因为[[Experience Sampling Method\|经验取样法]]避免审问式提问，浮现的材料比从紧密结构化访谈中获得的材料更少组织化。因此，成功处理个体陈述要求研究者极其熟悉访谈内容，并朝着逐步浮现的尝试性解释图式努力，在研究进行中不断修改、确认或[[Falsification\|证伪]]。（第22章, p.447）
+> 因为[[Qualitative Experience-Sampling Method\|质性经验取样法]]避免审问式提问，浮现的材料比从紧密结构化访谈中获得的材料更少组织化。因此，成功处理个体陈述要求研究者极其熟悉访谈内容，并朝着逐步浮现的尝试性解释图式努力，在研究进行中不断修改、确认或[[Falsification\|证伪]]。（第22章, p.447）
 >
-> *Because the [[Experience-Sampling Method]] avoids interrogation, the material which emerges is less organized than that obtained from a tightly structured interview. Successful handling of individual [[Accounts]] therefore requires the researcher to know the interview content extremely well and to work toward the gradual [[Emergence]] of tentative interpretive schemata.*
+> *Because the [[Qualitative Experience-Sampling Method|experience-sampling method]] avoids interrogation, the material which emerges is less organized than that obtained from a tightly structured interview. Successful handling of individual [[Accounts]] therefore requires the researcher to know the interview content extremely well and to work toward the gradual [[Emergence]] of tentative interpretive schemata.*
 
 > [!citation-card] Menzel 论多重意义
 > 大多数行为可以被赋予多种意义，其中不止一种可能同时有效。因此坚持确定一个行为的那个意义是谬误的。也不能说当一个人识别出行为的一个意义（或者说研究者乐于指定为真实意义的那个意义）时，解释行为的任务就完成了。（第22章, pp.461–462）

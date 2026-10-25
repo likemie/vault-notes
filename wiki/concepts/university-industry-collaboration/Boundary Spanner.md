@@ -5,6 +5,7 @@ aliases:
   - 跨界中介者
   - 知识中介者
   - 知识经纪人
+  - 证据经纪人
   - 产学中间人
   - 创新支持官
   - 专业创新支持官
@@ -13,6 +14,9 @@ aliases:
   - boundary crosser
   - Boundary Spanners
   - Knowledge Broker
+  - Knowledge Brokers
+  - evidence broker
+  - Evidence Brokers
   - relationship manager
   - innovation support officer
 summary: "在异质组织、专业社群或制度系统（如学术研究与产业界、科学共同体与政策决策系统）之间充当沟通桥梁的专业角色或中介机构，通过双重语言转译、制度摩擦缓冲与多边信任建构，促进知识流动、资源对齐与跨界协同。在公共教育治理中，跨界中介者连接科学与政策两社区，在证据过剩与决策歧义性生态下以政策中介平衡公信力与行政两难。"

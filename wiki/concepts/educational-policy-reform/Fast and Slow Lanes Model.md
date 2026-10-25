@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---
@@ -64,7 +64,7 @@ updated: 2026-10-23
 > - **边界** 模型聚焦于知识流动在科层体系中的时间错位与中介功能，不直接测量微观层面上个体学者的心理认知过程。
 
 > [!citation-card] 知识治理的三大车道支柱
-> 知识治理进入了以中间车道为核心聚焦的新阶段。大量组织致力于合成研究、编撰[[Systematic Review|系统综述]]、搭建跨界关系网络，试图通过为政策量身转译成果来连接科学（慢车道）与政治（快车道）。然而，单纯依托[[Educational Brokerage Agency|知识经纪]]填补中间真空并不充分，治理系统必须同步培育政府的[[Evidence-Based Policy-Making|循证决策]]文化与高校对政策应用型研究的认可机制。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 14–15)]]
+> 知识治理进入了以中间车道为核心聚焦的新阶段。大量组织致力于合成研究、编撰[[Systematic Review|系统综述]]、搭建跨界关系网络，试图通过为政策量身转译成果来连接科学（慢车道）与政治（快车道）。然而，单纯依托[[Knowledge Mediation|知识经纪]]填补中间真空并不充分，治理系统必须同步培育政府的[[Evidence-Based Policy-Making|循证决策]]文化与高校对政策应用型研究的认可机制。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 14–15)]]
 >
 > *Looking back at the explosive growth in data and research output... we seem to have arrived at a new stage of knowledge-based governance, one that focuses on the middle lane... these organizations attempt to bridge science (slow lane) and politics (fast lane) by translating research for policy use... Thus, filling 'the space in between' by means of knowledge brokerage is not sufficient. It is equally important to invest in an ecosystem that instills a culture of evidence-based decisions in government and a valorization of applied policy-relevant research in universities.*
 

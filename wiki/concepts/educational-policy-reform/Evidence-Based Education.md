@@ -175,7 +175,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---
@@ -285,7 +285,7 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > [!proc] 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）的双向中介基础设施演进
 > 针对早期静态文献工具包的转化瓶颈，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）探索出动员型证据生态体系（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 48, 55]]）：
 > 1. **操作性实践指南开发** 围绕[[Metacognition|元认知]]、早期拼读与数学教学发布系统指南，提炼[[Structured Teaching|结构化教学]]建议；
-> 2. **建设研究学校网络（RSN）** 在全国遴选建立常设与联合研究学校网络，由资深一线教育者担任[[Educational Brokerage Agency|证据经纪人]]，开展持续研训支持；
+> 2. **建设研究学校网络（RSN）** 在全国遴选建立常设与联合研究学校网络，由资深一线教育者担任[[Boundary Spanner|证据经纪人]]，开展持续研训支持；
 > 3. **拓展差异化试验流** 针对学校管理核心关切设立[[Researching School Choices|研究学校选择]]（[[Quasi-Experimental Designs|QED]]）准实验流，并开展聚焦课堂微观策略的[[Teacher Choices|教师选择]]（Teacher Choices）微型试验，促使证据生产对接收获一线教学实践。
 
 ---

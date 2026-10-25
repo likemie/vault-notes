@@ -6,7 +6,6 @@ aliases:
   - withdrawal design
   - 撤回设计
   - reversal design
-  - 单一案研究
   - ABAB 设计
 summary: "单一案实验设计的核心格式，通过交替引入和撤除干预来排除替代解释，建立个体层面的因果推断"
 type: method

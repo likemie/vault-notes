@@ -161,7 +161,7 @@ related_facts:
   - "[[Lemann Foundation]]"
 status: draft
 created: 2026-10-22
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 ---
 
@@ -254,7 +254,7 @@ updated: 2026-10-23
 > - **慢车道**
 >   由大学教授、独立科研机构学者构成。该车道专注于探索基础规律、检验理论模型以及开展漫长严苛的同行评议，通常对行政决策的瞬时需求响应迟缓。
 > - **中间车道**
->   由政策中介与[[Educational Brokerage Agency|知识经纪]]机构构成（如全球教育[[Knowledge Mediation|知识中介]]组织 [[Education.org]]、[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP）以及 教育实证构建工作组（[[Building Evidence in Education|BE2]]）），其职能是将慢车道产出的复杂深奥学术文献提炼包装为适配快车道节奏的政策摘要（p. 14）。
+>   由政策中介与[[Educational Brokerage Agency|知识经纪机构]]构成（如全球教育[[Knowledge Mediation|知识中介]]组织 [[Education.org]]、[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP）以及 教育实证构建工作组（[[Building Evidence in Education|BE2]]）），其职能是将慢车道产出的复杂深奥学术文献提炼包装为适配快车道节奏的政策摘要（p. 14）。
 
 > [!case] 知识中介机构填补政学鸿沟的职能演化（Lubienski, 2019）
 > - **中介网络入场填补认知鸿沟** 教育政策学者[[Christopher Lubienski|克里斯托弗·卢宾斯基]]（Christopher Lubienski, 2019）指出，在学术研究生产与政府政策制定之间的巨大鸿沟中，涌现出大量咨询公司、智库与基金会等中介网络。这些机构主动搜集、包装并推销实证材料，试图直接干预并引导决策官员的方案选择（p. 14）。

@@ -1,5 +1,5 @@
 ---
-title: Experience-Sampling Method
+title: Qualitative Experience-Sampling Method
 aliases: [质性经验取样法, qualitative experience sampling]
 summary: "Kitwood发展的质性陈述收集与分析技术，通过15种生活情境提示引发参与者的录音访谈陈述，并用八种分析方法逐步发展解释图式。"
 type: method
@@ -28,11 +28,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
-> [!def] Experience-Sampling Method
-> [[Experience Sampling Method\|经验取样法]]（experience-sampling method）是由 Kitwood（1977）发展的一种**质性[[Account Gathering\|陈述收集]]与分析技术**。该方法通过向参与者提供 15 种生活情境列表作为提示，引发他们回忆和叙述在这些情境中的个人经历，然后基于录音访谈进行详细的陈述分析。因为该方法避免审问式提问，浮现的材料比结构化访谈获得的材料更少组织化，因而要求研究者极其熟悉访谈内容，并逐步发展尝试性解释图式，在研究进行中不断修改、确认或[[Falsification\|证伪]]。
+> [!def] Qualitative Experience-Sampling Method
+> 质性经验取样法（Qualitative Experience-Sampling Method）是由 Kitwood（1977）发展的一种**质性[[Account Gathering\|陈述收集]]与分析技术**。该方法通过向参与者提供 15 种生活情境列表作为提示，引发他们回忆和叙述在这些情境中的个人经历，然后基于录音访谈进行详细的陈述分析。因为该方法避免审问式提问，浮现的材料比结构化访谈获得的材料更少组织化，因而要求研究者极其熟悉访谈内容，并逐步发展尝试性解释图式，在研究进行中不断修改、确认或[[Falsification\|证伪]]。
 
 > [!method-scope] 方法范围
 > - **研究对象** 参与者在特定生活情境中的个人经历、感受、思想和行动，以及他们如何赋予这些经历以意义。
@@ -87,10 +87,10 @@ updated: 2026-10-22
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Accounts]] | 父方法 | [[Experience Sampling Method\|经验取样法]]是陈述法中引发和分析陈述的一种具体技术 |
-> | [[Ethogenic Approach]] | 方法论基础 | 人因取向的五原则为经验取样法提供了[[Epistemology\|认识论]]和操作前提 |
+> | [[Accounts]] | 父方法 | [[Qualitative Experience-Sampling Method\|质性经验取样法]]是陈述法中引发和分析陈述的一种具体技术 |
+> | [[Ethogenic Approach]] | 方法论基础 | 人因取向的五原则为质性经验取样法提供了[[Epistemology\|认识论]]和操作前提 |
 > | [[Account Gathering]] | 姐妹方法 | Brown & Sime的陈述收集框架提供了更结构化的操作程序 |
 > | [[Member Tests]] | 验证方法 | 成员核验是确保分析忠实于参与者自身行动理由的关键安全措施 |
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — Kitwood（1977）基于[[Ethogenic Approach\|人因取向]]原则发展[[Experience Sampling Method\|经验取样法]]，使用15种生活情境提示引发参与者录音陈述，并提出八种分析策略及[[Cross-checking\|交叉检查]]和[[Member Tests\|成员核验]]两道安全措施。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — Kitwood（1977）基于[[Ethogenic Approach\|人因取向]]原则发展[[Qualitative Experience-Sampling Method\|质性经验取样法]]，使用15种生活情境提示引发参与者录音陈述，并提出八种分析策略及[[Cross-checking\|交叉检查]]和[[Member Tests\|成员核验]]两道安全措施。

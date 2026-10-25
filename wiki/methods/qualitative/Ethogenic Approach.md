@@ -13,7 +13,7 @@ summary: "Harré & Secord 提出的社会行为质性研究方法论，秉持“
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
+method_related_count: 34
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -50,8 +50,7 @@ related_methods:
   - "[[Account Gathering]]"
   - "[[Cross-checking]]"
   - "[[Member Tests]]"
-  - "[[Experience Sampling Method]]"
-  - "[[Experience-Sampling Method]]"
+  - "[[Qualitative Experience-Sampling Method]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Classroom Observation]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-22
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---
@@ -106,7 +105,7 @@ updated: 2026-10-22
 > - **研究设计** 人因研究、微观互动[[Ethnography\|民族志]]（[[Ethnography]]）、情境扎根探究。
 > - **数据收集** [[Account Gathering\|陈述收集]]——通过自由评述访谈、[[Reflexivity\|反思性]]对谈和情境追溯，引发参与者对[[Social Episodes\|社会片段]]的言语说明。
 > - **分析方法** 陈述分析——涵盖内容分类、主题追踪、生活世界重建、遗漏分析与规则假设推验（Kitwood, 1977）。
-> - **辅助技术** [[Cross-checking\|交叉检查]]、[[Member Tests\|成员核验]]、协商验证、[[Experience Sampling Method\|经验取样法]]（[[Experience-Sampling Method]]）。
+> - **辅助技术** [[Cross-checking\|交叉检查]]、[[Member Tests\|成员核验]]、协商验证、[[Qualitative Experience-Sampling Method\|质性经验取样法]]。
 
 ---
 
@@ -166,7 +165,7 @@ updated: 2026-10-22
 > | [[Social Episodes]] | 核心概念 | 社会片段构成了人因研究所考察的基本[[Unit of Analysis\|分析单位]]与情境载体。 |
 > | [[Ethnomethodology]] | 理论基础 | 俗民方法学同样致力于剖析日常行动中行动者共享的[[Indexicality\|索引性]]与可说明性。 |
 > | [[Symbolic Interactionism]] | 理论关联 | 符号互动论对[[Thomas Theorem\|情境定义]]与符号意义协商的关注，为人因取向提供了社会学理论基石。 |
-> | [[Experience-Sampling Method]] | 延展方法 | [[Experience Sampling Method\|经验取样法]]是将人因取向原则扩展至日常实时经验捕获的具体陈述收集技术。 |
+> | [[Qualitative Experience-Sampling Method]] | 延展方法 | [[Qualitative Experience-Sampling Method\|质性经验取样法]]是将人因取向原则扩展至日常实时经验捕获的具体陈述收集技术。 |
 > | [[Qualitative Research]] | 上位方法 | 人因取向体现了质性诠释研究中人本主义与意义[[Rich and Thick Description\|深描]]的典型传统。 |
 
 ---
