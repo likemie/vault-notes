@@ -162,6 +162,8 @@
     "Against Learning, 2004": "Against Learning, 2004",
     "Agamirzian (1991)": "Agamirzian, 1991",
     "Agamirzian, 1991": "Agamirzian, 1991",
+    "Agata Wojciuk et al. (2015)": "Agata Wojciuk et al., 2015",
+    "Agata Wojciuk et al., 2015": "Agata Wojciuk et al., 2015",
     "Agbenyega et al. (2023)": "Agbenyega et al., 2023",
     "Agbenyega et al., 2023": "Agbenyega et al., 2023",
     "Aghion & Howitt (1992)": "Aghion & Howitt, 1992",
@@ -4414,6 +4416,8 @@
     "FUT, 2018": "FUT, 2018",
     "Faber & Visscher (2014)": "Faber & Visscher, 2014",
     "Faber & Visscher, 2014": "Faber & Visscher, 2014",
+    "Fabian Holyk (2011)": "Fabian Holyk, 2011",
+    "Fabian Holyk, 2011": "Fabian Holyk, 2011",
     "Facer & Selwyn (2021)": "Facer & Selwyn, 2021",
     "Facer & Selwyn, 2021": "Facer & Selwyn, 2021",
     "Facione & Facione (2000)": "Facione & Facione, 2000",
@@ -17285,6 +17289,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Intersect/Argument_Chan_2015_Intersect.md"
+      ],
+      "title": ""
+    },
+    "Agata Wojciuk et al., 2015": {
+      "aliases": [
+        "Agata Wojciuk et al., 2015",
+        "Agata Wojciuk et al. (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Agata Wojciuk et al., 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Educational Soft Power Framework.md"
       ],
       "title": ""
     },
@@ -50863,6 +50882,21 @@
       ],
       "title": ""
     },
+    "Fabian Holyk, 2011": {
+      "aliases": [
+        "Fabian Holyk, 2011",
+        "Fabian Holyk (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Fabian Holyk, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/Educational Soft Power Framework.md"
+      ],
+      "title": ""
+    },
     "Facer & Selwyn, 2021": {
       "aliases": [
         "Facer & Selwyn, 2021",
@@ -67495,7 +67529,7 @@
         "Holyk, 2011",
         "Holyk (2011)"
       ],
-      "doi": "",
+      "doi": "10.1002/j.1538-165X.2011.tb00702.x",
       "identity_keys": [
         "Holyk, 2011"
       ],
@@ -67504,7 +67538,7 @@
         "wiki/arguments/journal-articles/Higher Education Policy/Argument_Zhu_Yang_2023_HEP.md",
         "wiki/theories/comparative-education/Educational Soft Power Framework.md"
       ],
-      "title": ""
+      "title": "Paper Tiger? Chinese Soft Power in East Asia"
     },
     "Homans, 1950": {
       "aliases": [
@@ -97483,6 +97517,7 @@
       "seen_in": [
         "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic_Ch03.md",
         "wiki/arguments/journal-articles/Chinese Studies Journal/Argument_Velasco_2022_CSJ.md",
+        "wiki/arguments/journal-articles/Higher Education Policy/Argument_Zhu_Yang_2023_HEP.md",
         "wiki/arguments/journal-articles/Journal of Higher Education/Argument_Yu_Xie_2025_JHE.md",
         "wiki/concepts/political-economy-geopolitics/Educational Soft Power.md",
         "wiki/concepts/political-economy-geopolitics/Hard Power.md",
@@ -133733,7 +133768,7 @@
         "Wojciuk et al., 2015",
         "Wojciuk et al. (2015)"
       ],
-      "doi": "",
+      "doi": "10.1057/eps.2015.26",
       "identity_keys": [
         "Wojciuk et al., 2015"
       ],
@@ -133744,7 +133779,7 @@
         "wiki/concepts/political-economy-geopolitics/Educational Soft Power.md",
         "wiki/theories/comparative-education/Educational Soft Power Framework.md"
       ],
-      "title": ""
+      "title": "Education as a source and tool of soft power in international relations"
     },
     "Wolcott, 1973": {
       "aliases": [
