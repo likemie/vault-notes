@@ -7,6 +7,10 @@ aliases:
 summary: "20世纪60年代兴起于拉丁美洲的激进神学与社会批判运动，主张以“对穷人的优先选择”为伦理基石，结合马克思主义社会分析揭示结构性压迫与不义制度；不仅构成了保罗·弗莱雷开创批判教育学与意识化扫盲运动的教牧社会学根基，更在跨国政策流动中作为代表性知识的标志性权威，反向重构了欧美主流社会与教育治理范式。"
 type: concept
 domain: "educational-philosophy"
+related_count: 6
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/philosophy
   - paradigm/critical
@@ -15,16 +19,10 @@ tags:
   - region/latin-america
 related_concepts:
   - "[[Critical Pedagogy]]"
-  - "[[Conscientization]]"
   - "[[Representational Knowledge]]"
-  - "[[Banking Model of Education]]"
-  - "[[Problem-Posing Education]]"
   - "[[Praxis]]"
-  - "[[Culture of Silence]]"
-  - "[[Policy Borrowing]]"
-related_theories:
-  - "[[Critical Theory]]"
-  - "[[Dependency Theory]]"
+  - "[[Conscientization]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
@@ -133,17 +131,10 @@ updated: 2026-10-25
 > > [!axis] 阶级斗争分析与基督教普世仁爱的张力
 > > 争论焦点在于解放神学深度采纳历史唯物主义与依附理论分析阶级压迫，是否背离了基督教关于修和与普世仁爱的根本诫命。
 > >
-> > - **Gutiérrez, G.（1971）** 揭示压迫者的暴力与阶级结构并不是制造仇恨，而是让爱穷人落实在消除剥削结构的具体历史实践中。
+> > - **Gutiérrez, G.（1971）** 揭示压迫者的制度暴力与阶级结构，主张将对穷人的仁爱切实落实于消除剥削结构的具体历史实践中。
 > > - **Ratzinger, J.（1984）** 过度强调唯物主义阶级冲突分析，可能使宗教救赎扁平化为世俗政治斗争，存在牺牲个体尊严换取集体革命的教义风险。
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 将倡导解放神学的神职人员与保罗·弗莱雷并列，阐发代表性知识在突破北方技术官僚理性垄断中的跨国流动功能。
-
----
-
-## 来源
-
-- [[Argument_Stone_2020_PolSoc]]
-- [[sources/Stone_2020_PolSoc|Stone_2020_PolSoc]]

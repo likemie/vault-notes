@@ -7,7 +7,7 @@ aliases:
 summary: "一种将课程与教学视为文化政治斗争场域的批判教育哲学，主张以学生的活经验为起点，通过对话式提问、批判意识觉醒与可能性的语言，解构传统储蓄式教育与当代数智异化中的权力压迫，旨在培育具有自主性与社会解放潜能的批判求知者。"
 type: concept
 domain: "educational-philosophy"
-related_count: 58
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -19,19 +19,19 @@ tags:
   - critical-pedagogy
 related_concepts:
   - "[[Champ]]"
-  - "[[Theory of Knowledge]]"
   - "[[Liberation Theology]]"
+  - "[[Theory of Knowledge]]"
   - "[[Banking Model of Education]]"
   - "[[Problem-Posing Education]]"
   - "[[Praxis]]"
   - "[[Conscientization]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Agency]]"
-  - "[[Value Neutrality]]"
   - "[[Discourse]]"
   - "[[Operationalization]]"
   - "[[Classroom Management]]"
   - "[[Alien Intelligence]]"
+  - "[[Value Neutrality]]"
   - "[[Commensuration]]"
   - "[[Positivism]]"
   - "[[Tyler Rationale]]"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Cognitive Deskilling]]"
   - "[[Culture of Silence]]"
   - "[[Constructed Knowledge]]"
+  - "[[Representational Knowledge]]"
   - "[[Externalization]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Geopolitics]]"
@@ -52,9 +53,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Posthumanism]]"
   - "[[Central Phenomenon]]"
-  - "[[Representational Knowledge]]"
-  - "[[Policy Ambassador]]"
-  - "[[South-South Cooperation]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Post-colonial Theory]]"
@@ -75,18 +73,17 @@ related_persons:
 related_facts:
   - "[[UNESCO]]"
   - "[[Education for All]]"
-  - "[[Global Education Monitoring Report]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02]]"
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Smith_2026_SPE]]"
+  - "[[Argument_Stone_2020_PolSoc]]"
   - "[[Argument_Partaken_2022_Springer]]"
   - "[[Argument_Rust_2009_Reflections]]"
-  - "[[Argument_Stone_2020_PolSoc]]"
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---

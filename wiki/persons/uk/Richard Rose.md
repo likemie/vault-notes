@@ -8,7 +8,7 @@ summary: "英国比较政治学家（1933–2019），斯特拉斯克莱德大�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 12
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-25
 ---
 
 ---
@@ -52,10 +52,10 @@ updated: 2026-10-22
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较政治学家（1933–2019），英国格拉斯哥斯特拉斯克莱德大学（University of Strathclyde）政治学荣誉教授，曾任英国政治研究学会主席（1976–1979）。
 > - **核心角色** 比较政治学与公共政策研究的权威学者，以"经验汲取"（Lesson-Drawing）与"政策转移"（Policy Transfer）研究闻名于世；其理论框架是当代比较教育[[Policy Borrowing\|政策借用]]研究的核心理论来源之一。
-> - **代表贡献** 系统区分跨国政策学习的不同路径类型（复制、仿效、启发等），揭示政策移植并非中立技术过程而是充满政治与情境选择的社会行动；其经验汲取概念在比较教育政策、社会政策与公共行政领域均产生了深远影响。
+> - **代表贡献** 系统区分跨国政策学习的不同路径类型（复制、仿效、启发等），阐明政策移植是充满政治与情境选择的社会行动；其经验汲取概念在比较教育政策、社会政策与公共行政领域均产生了深远影响。
 
 > [!citation-card] 经验汲取：从他处汲取解决本国问题的启示
-> 经验汲取（Lesson-Drawing）指决策者基于对其他时间或地点已运转项目的认识，提出行动方案的过程。罗斯指出这一过程并非被动移植，而涉及对经验的主动提炼、情境适配与政治诠释；凡引发经验汲取冲动的，首先是国内压力——现行政策的失败、公众批评或议程危机——而非单纯对外部成功范本的仰慕。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> 经验汲取（Lesson-Drawing）指决策者基于对其他时间或地点已运转项目的认识，提出行动方案的过程。罗斯指出这一过程涉及对经验的主动提炼、情境适配与政治诠释；引发经验汲取冲动的首要诱因在于国内压力（现行政策挫折、公众批评或议程危机），体现出明确的本土问题导向。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 545–546)]]
 >
 > *Lesson-drawing is the process by which policymakers draw on knowledge of programs already in effect at other times or places to produce a proposal for policy action. The process is not passive import but involves active distillation, contextual adaptation, and political interpretation.*
 
@@ -86,16 +86,16 @@ updated: 2026-10-22
 ---
 
 > [!claim] 经验汲取的类型学：从复制到启发
-> 罗斯系统区分了政策经验汲取的五种路径，揭示跨国政策移植并非单一同质过程而是存在从刚性到柔性的连续谱系：
+> 罗斯系统区分了政策经验汲取的五种路径，揭示跨国政策移植存在从刚性到柔性的连续谱系：
 > - **复制（Copying）** 不加修改地照搬他国完整项目，政治与制度风险最高；
 > - **仿效（Emulation）** 以成功范本为目标，在本国情境下加以调适；
 > - **混合（Hybridisation）** 将多国不同经验的要素组合为新方案；
 > - **启发（Inspiration）** 他国经验仅作为刺激本土原创的认知触发，而非直接模板；
 > - **合成（Synthesis）** 在共同目标指引下将多来源经验整合。
-> 这一类型学深刻影响了比较教育中对[[Policy Borrowing\|政策借用]]机制的分析，尤其被 Steiner-Khamsi 等学者用于诠释全球南方国家在面对 [[OECD]]、[[World Bank\|世界银行]]政策建议时的多元回应策略。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> 这一类型学深刻影响了比较教育中对[[Policy Borrowing\|政策借用]]机制的分析，尤其被 Steiner-Khamsi 等学者用于诠释全球南方国家在面对 [[OECD]]、[[World Bank\|世界银行]]政策建议时的多元回应策略。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 545–546)]]
 
 > [!claim] 经验汲取的触发条件：内部危机优先于外部吸引
-> 罗斯的核心论点之一是：政策学习从外部寻找经验的冲动，往往由国内政策危机、公众对现行政策的强烈不满或日益迫切的政策失败感所触发，而非单纯来自对他国成功案例的仰慕。这意味着"外部参照"本质上是一种主权国家自主建构的政治合法化工具，而非被动的知识输入。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> 罗斯的核心论点之一是：政策学习从外部寻找经验的冲动，往往由国内政策危机、公众对现行政策的强烈不满或日益迫切的政策失败感所触发，而非单纯来自对他国成功案例的仰慕。这意味着"外部参照"本质上是一种主权国家自主建构的政治合法化工具，而非被动的知识输入。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 545–546)]]
 
 > [!claim] 经验汲取在微观科层与发展情境下的延伸与边界
 > 戴安·斯通等人拓展并审视了罗斯的经验汲取构念在跨国流动中的多维表现：
@@ -107,7 +107,7 @@ updated: 2026-10-22
 > [!influence-path] 影响路径
 > - **理论路径** "经验汲取"框架成为比较政治学、公共行政学、社会政策与比较教育学中研究政策转移的[[Criterion-Referenced Test\|标准参照]]理论，是 David Dolowitz and David Marsh（2000）政策转移研究的重要理论前驱。
 > - **方法路径** 奠定了跨国政策比较研究以"政策旅行（policy travel）"与"情境适配（contextual fit）"为[[Unit of Analysis\|分析单元]]的方法传统。
-> - **教育政策影响** 吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）系统将罗斯的经验汲取理论引入比较教育研究，发展出"[[Externalization\|外化]]"（[[Externalization]]）概念与[[Policy Borrowing\|政策借用]]批判分析；[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024)]] 在分析国际组织如何打包和传递政策经验时，仍直接援引 Rose（1993）的经验汲取类型学。
+> - **教育政策影响** 吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）系统将罗斯的经验汲取理论引入比较教育研究，发展出"[[Externalization\|外化]]"（[[Externalization]]）概念与[[Policy Borrowing\|政策借用]]批判分析；[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b)]] 在分析国际组织如何打包和传递政策经验时，仍直接援引 Rose（1993）的经验汲取类型学。
 
 ---
 
@@ -126,10 +126,3 @@ updated: 2026-10-22
 > | [[Externalization]] | 概念 | Steiner-Khamsi 在 Rose 框架基础上发展的"外化"概念，揭示主权国家主动建构外部参照的政治逻辑。 |
 > | [[Transfer Translation Transformation]] | 概念 | [[Nikolas Rose\|罗斯]]的类型学是理解政策"转移—转译—转化"全过程的理论前驱。 |
 > | [[Gita Steiner-Khamsi]] | 人物 | 比较教育领域将 Rose 经验汲取理论批判性引入并发展最深入的学者。 |
-
----
-
-## 来源
-
-- [[Argument_Steiner-Khamsi_2024_CE]]
-- [[Argument_Stone_2020_PolSoc]]

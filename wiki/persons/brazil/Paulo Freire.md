@@ -8,10 +8,10 @@ summary: "巴西教育家与哲学家，批判教育学奠基人，以《被压�
 type: person
 nationality: brazil
 person_region: "brazil"
-person_related_count: 43
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 36
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1921"
 died: "1997"
 lifespan: "1921–1997"
@@ -24,39 +24,31 @@ tags:
   - educational-philosophy
 related_concepts:
   - "[[Critical Pedagogy]]"
-  - "[[Conscientization]]"
   - "[[Liberation Theology]]"
-  - "[[Praxis]]"
-  - "[[Geopolitics of Knowledge]]"
-  - "[[Forced Knowledge Transfer]]"
-  - "[[Generative Artificial Intelligence]]"
-  - "[[Alien Intelligence]]"
+  - "[[Representational Knowledge]]"
   - "[[Banking Model of Education]]"
   - "[[Problem-Posing Education]]"
-  - "[[Geopolitics]]"
+  - "[[Conscientization]]"
   - "[[Moral Dualism]]"
+  - "[[Praxis]]"
   - "[[Epistemology]]"
-  - "[[Value Neutrality]]"
   - "[[Champ]]"
   - "[[Paradigm]]"
   - "[[Culture of Silence]]"
   - "[[Politicity of Education]]"
   - "[[Received Knowledge]]"
+  - "[[Alien Intelligence]]"
   - "[[Epistemic Agency]]"
   - "[[Ontology]]"
   - "[[Compensatory Legitimation]]"
+  - "[[Geopolitics of Knowledge]]"
+  - "[[Forced Knowledge Transfer]]"
   - "[[Cognitive Deskilling]]"
-  - "[[Knowledge Transfer]]"
-  - "[[Central Phenomenon]]"
   - "[[Learned Helplessness]]"
-  - "[[Representational Knowledge]]"
 related_theories:
-  - "[[Phenomenology]]"
   - "[[Dependency Theory]]"
   - "[[State Corporatism]]"
   - "[[Formative Epistemic Injustice]]"
-  - "[[Epistemic Injustice]]"
-  - "[[Conditioned State Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -66,17 +58,17 @@ related_persons:
   - "[[Val D. Rust]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Stone_2020_PolSoc]]"
   - "[[Argument_Partaken_2022_Springer]]"
-  - "[[Argument_Smith_2026_SPE]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
   - "[[Argument_Darwish_2009_Queens]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
-  - "[[Argument_Stone_2020_PolSoc]]"
+  - "[[Argument_Smith_2026_SPE]]"
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-10-23
+updated: 2026-10-25
 ---
 
 ---

@@ -4984,7 +4984,9 @@
     "GATS Preamble (1995)": "GATS Preamble, 1995",
     "GATS Preamble, 1995": "GATS Preamble, 1995",
     "GEEAP (2020)": "GEEAP, 2020",
+    "GEEAP (2024)": "GEEAP, 2024",
     "GEEAP, 2020": "GEEAP, 2020",
+    "GEEAP, 2024": "GEEAP, 2024",
     "GME (1963)": "GME, 1963",
     "GME, 1963": "GME, 1963",
     "GOS (2023)": "GOS, 2023",
@@ -6099,8 +6101,7 @@
     "Hattie (1999)": "Hattie, 1999",
     "Hattie (2003)": "Hattie, 2003",
     "Hattie (2008)": "Hattie, 2008",
-    "Hattie (2009a)": "Hattie, 2009a",
-    "Hattie (2009b)": "Hattie, 2009b",
+    "Hattie (2009)": "Hattie, 2009",
     "Hattie (2011)": "Hattie, 2011",
     "Hattie (2012)": "Hattie, 2012",
     "Hattie (2015)": "Hattie, 2015",
@@ -6118,9 +6119,8 @@
     "Hattie, 1999": "Hattie, 1999",
     "Hattie, 2003": "Hattie, 2003",
     "Hattie, 2008": "Hattie, 2008",
-    "Hattie, 2009": "Hattie, 2009a",
-    "Hattie, 2009a": "Hattie, 2009b",
-    "Hattie, 2009b": "Hattie, 2009b",
+    "Hattie, 2009": "Hattie, 2009",
+    "Hattie, 2009a": "Hattie, 2009",
     "Hattie, 2011": "Hattie, 2011",
     "Hattie, 2012": "Hattie, 2012",
     "Hattie, 2015": "Hattie, 2015",
@@ -7625,6 +7625,8 @@
     "Kincheloe, 2003": "Kincheloe, 2003",
     "King & Archer (1980)": "King & Archer, 1980",
     "King & Archer, 1980": "King & Archer, 1980",
+    "King & Horrocks (2010)": "King & Horrocks, 2010",
+    "King & Horrocks, 2010": "King & Horrocks, 2010",
     "King & Kitchener (1994)": "King & Kitchener, 1994",
     "King & Kitchener, 1994": "King & Kitchener, 1994",
     "King & Nielsen (2019)": "King & Nielsen, 2019",
@@ -13812,6 +13814,7 @@
     "Thomas (1993)": "Thomas, 1993",
     "Thomas (1998)": "Thomas, 1998",
     "Thomas (2004)": "Thomas, 2004",
+    "Thomas (2006)": "Thomas, 2006",
     "Thomas (2012)": "Thomas, 2012",
     "Thomas (2016)": "Thomas, 2016",
     "Thomas Aastrup Rømer (2018)": "Thomas Aastrup Rømer, 2018",
@@ -13842,6 +13845,7 @@
     "Thomas, 1993": "Thomas, 1993",
     "Thomas, 1998": "Thomas, 1998",
     "Thomas, 2004": "Thomas, 2004",
+    "Thomas, 2006": "Thomas, 2006",
     "Thomas, 2012": "Thomas, 2012",
     "Thomas, 2016": "Thomas, 2016",
     "Thomas’s (1928)": "Thomas’s, 1928",
@@ -21721,7 +21725,7 @@
         "wiki/facts/australia/Australian Education Research Organisation.md",
         "wiki/facts/australia/Strong Beginnings Report.md"
       ],
-      "title": ""
+      "title": "Strong Beginnings: Report of the Teacher Education Expert Panel"
     },
     "Australian government, 2024": {
       "aliases": [
@@ -55354,6 +55358,21 @@
       ],
       "title": ""
     },
+    "GEEAP, 2024": {
+      "aliases": [
+        "GEEAP, 2024",
+        "GEEAP (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "GEEAP, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
+      ],
+      "title": ""
+    },
     "GME, 1963": {
       "aliases": [
         "GME, 1963",
@@ -64333,22 +64352,24 @@
       ],
       "title": ""
     },
-    "Hattie, 2009a": {
+    "Hattie, 2009": {
       "aliases": [
-        "Hattie, 2009a",
-        "Hattie (2009a)"
+        "Hattie, 2009",
+        "Hattie (2009)"
       ],
       "doi": "",
       "identity_keys": [
-        "Hattie, 2009"
+        "Hattie, 2009",
+        "Hattie, 2009a"
       ],
-      "isbn": "",
+      "isbn": "978-0-415-47618-8",
       "seen_in": [
         "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md",
         "wiki/arguments/journal-articles/Critical Education/Argument_Johnson_2023_CritEduc.md",
         "wiki/arguments/journal-articles/Educational Philosophy and Theory/Argument_Rømer_2018_EPT.md",
         "wiki/arguments/journal-articles/Journal of Education & Social Policy/Argument_Blass_2020_JESP.md",
         "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Simpson_2017_JEdPolicy.md",
+        "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_ONeill_2012_NZJES.md",
         "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2010_NZJES.md",
         "wiki/arguments/journal-articles/Nordic Journal of Studies in Educational Policy/Argument_Qvortrup_2019_NordSTEP.md",
         "wiki/arguments/journal-articles/Nordic Psychology/Argument_Nielsen_2021_NordPsych.md",
@@ -64382,26 +64403,9 @@
         "wiki/concepts/instruction-pedagogy/Whole Language.md",
         "wiki/concepts/instruction-pedagogy/Zone of Desired Effects.md",
         "wiki/concepts/research-methodology/Ecological Validity.md",
-        "wiki/concepts/research-methodology/Heterogeneity.md",
-        "wiki/concepts/research-methodology/Sampling Error.md"
+        "wiki/concepts/research-methodology/Heterogeneity.md"
       ],
-      "title": ""
-    },
-    "Hattie, 2009b": {
-      "aliases": [
-        "Hattie, 2009b",
-        "Hattie (2009b)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Hattie, 2009a"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_ONeill_2012_NZJES.md",
-        "wiki/facts/new-zealand/Treasury Briefing on Student-Teacher Ratios.md"
-      ],
-      "title": ""
+      "title": "Visible learning: A synthesis of over 800 meta-analyses relating to achievement"
     },
     "Hattie, 2011": {
       "aliases": [
@@ -76201,6 +76205,21 @@
         "wiki/persons/uk/Edmund King.md"
       ],
       "title": ""
+    },
+    "King & Horrocks, 2010": {
+      "aliases": [
+        "King & Horrocks, 2010",
+        "King & Horrocks (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "King & Horrocks, 2010"
+      ],
+      "isbn": "9781412912563",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
+      ],
+      "title": "Interviews in qualitative research"
     },
     "King & Kitchener, 1994": {
       "aliases": [
@@ -111650,7 +111669,7 @@
         "Ryle, 1946",
         "Ryle (1946)"
       ],
-      "doi": "",
+      "doi": "10.1093/aristotelian/46.1.1",
       "identity_keys": [
         "Ryle, 1946"
       ],
@@ -111659,7 +111678,7 @@
         "wiki/concepts/curriculum/Knowledge-that and Know-how-to.md",
         "wiki/persons/uk/Gilbert Ryle.md"
       ],
-      "title": ""
+      "title": "Knowing how and knowing that: The presidential address"
     },
     "Ryle, 1949": {
       "aliases": [
@@ -125190,6 +125209,21 @@
       ],
       "title": ""
     },
+    "Thomas, 2006": {
+      "aliases": [
+        "Thomas, 2006",
+        "Thomas (2006)"
+      ],
+      "doi": "10.1177/1098214005283748",
+      "identity_keys": [
+        "Thomas, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
+      ],
+      "title": "A general inductive approach for analyzing qualitative evaluation data"
+    },
     "Thomas, 2012": {
       "aliases": [
         "Thomas, 2012",
@@ -135947,7 +135981,7 @@
         "Young, 2020",
         "Young (2020)"
       ],
-      "doi": "",
+      "doi": "10.15388/ActPaed.44.1",
       "identity_keys": [
         "Young, 2020"
       ],
@@ -135956,7 +135990,7 @@
         "wiki/persons/uk/Michael Young.md",
         "wiki/theories/educational-philosophy/Social Realism.md"
       ],
-      "title": ""
+      "title": "Knowledge and the sociology of education"
     },
     "Youngman, 1984": {
       "aliases": [
