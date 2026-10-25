@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Critique of Meta-analysis",
-      "path": "wiki/concepts/research-methodology/Critique of Meta-analysis.md"
+      "basename": "Feedback",
+      "path": "tmp/eef-backup/Feedback.md"
+    },
+    {
+      "basename": "Agile Governance",
+      "path": "wiki/concepts/science-policy/Agile Governance.md"
     },
     {
       "basename": "03-outline",
       "path": "output/global-evidence-education-governance/03-outline.md"
+    },
+    {
+      "basename": "Critique of Meta-analysis",
+      "path": "wiki/concepts/research-methodology/Critique of Meta-analysis.md"
     },
     {
       "basename": "Meta-analysis",
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Streeck_Thelen_2005_OUP",
       "path": "wiki/arguments/reports-policy-documents/Argument_Streeck_Thelen_2005_OUP.md"
-    },
-    {
-      "basename": "Regulatory Impact Analysis",
-      "path": "wiki/concepts/educational-policy-reform/Regulatory Impact Analysis.md"
-    },
-    {
-      "basename": "Argument_Wang_Liang_Chen_2025_CES",
-      "path": "wiki/arguments/journal-articles/Chinese Education & Society/Argument_Wang_Liang_Chen_2025_CES.md"
     }
   ],
   "omittedPaths": [],
