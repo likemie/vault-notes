@@ -88,7 +88,7 @@ part_of: ''
 related_instruments: []
 status: draft
 created: 2026-06-06
-updated: 2026-10-22
+updated: 2026-10-25
 year: 2024
 doi: ""
 citation_aliases:
@@ -263,12 +263,12 @@ citation_aliases:
 > 这一政策的终极危险在于，它积极破坏并推翻了大学教师教育基于人文主义的本体论、[[Axiology\|价值论]]和实践论（Biesta et al., 2015）。当教育从“关乎人际沟通与主动阐释的人类事件”被降维异化为“线性刺激、投入产出与度量监控的[[Causality\|因果关系]]”（cause-effect relationships）时，教学与学习的本质将被彻底消解（Mockler & Stacey, 2021），重蹈英格兰学校主导[[Apprenticeship|学徒制]]与认知教条结合的悲剧覆辙（Mutton et al., 2017）。
 
 > [!finding-cards] 核心发现
-> 1. **首次全国强制脑科学入课** 报告开创了澳大利亚教师教育政策史的先河，在全国范围内将“大脑与学习”（神经科学）强制列为所有[[Initial Teacher Training\|初始教师教育]]（ITE）的必修课程，成为核心内容的法定标准（p. 2）。
-> 2. **教师危机的问题置换** 报告通过选择性利用 [[Graduate Outcomes Survey\|GOS]] 调查数据（以 32% 的改进期盼代替 75% 的高满意度真相），成功将全国性教师短缺的原因从“过度工作量”这一劳动环境本质，置换为“教师教育质量缺陷”的个体能力问题（pp. 4–5）。
-> 3. **脑科学的简化主义和国际警示遗忘** 报告强制灌输“新手 vs 专家大脑”等生物简化二元论，排斥[[Inquiry-Based Learning\|探究式学习]]，无视社会文化情境，且完全隐瞒了 [[OECD]] (2002, 2007) 关于神经科学可能导致过度顺从、科学神话与被滥用（如 eugenics 历史）的警示（pp. 6–7）。
-> 4. **未发表证据与跨国“什么有效”网络的知识垄断** 必修核心课程的设计完全基于 [[Australian Education Research Organisation\|AERO]] 准备的、从未经过同行评审的未发表[[Research Synthesis|研究综合]]，其背后交织着英国 [[Education Endowment Foundation\|EEF]]、[[BHP Foundation\|必和必拓基金会]]的跨国政策资本移动，以及专家小组内部 AERO 董事会倾向的惩罚性问责立场（pp. 8–9）。
-> 5. **保守智库私人利益的强制消费** 附录D指定的必读参考文献直接包含了由右翼保守智库 CIS 资助的 Sweller (2021) 报告，暴露了 Jennifer Buckingham 等跨界政策精英如何在智库、[[Australian Institute for Teaching and School Leadership\|AITSL]] 和改革推广中进行利益闭环的“[[Policy Network\|理念编排]]”（pp. 9–10）。
-> 6. **惩罚性行政监控闭环与教育本质异化** AITSL认证权力的扩张、QA委员会的成立与绩效拨付挂钩，锁死了职前教师“脚本化教学”的监控闭环，将教育从“意义建构的人文事件”异化为“因果机制”的工业化监控（p. 10）。
+> 1. **首次全国强制脑科学入课** 报告开创了澳大利亚教师教育政策史的先河，在全国范围内将“大脑与学习”（神经科学）强制列为所有[[Initial Teacher Training\|初始教师教育]]（ITE）的必修课程，成为核心内容的法定标准。
+> 2. **教师危机的问题置换** 报告通过选择性利用 [[Graduate Outcomes Survey\|GOS]] 调查数据（以 32% 的改进期盼代替 75% 的高满意度真相），成功将全国性教师短缺的原因从“过度工作量”这一劳动环境本质，置换为“教师教育质量缺陷”的个体能力问题。
+> 3. **脑科学的简化主义和国际警示遗忘** 报告强制灌输“新手 vs 专家大脑”等生物简化二元论，排斥[[Inquiry-Based Learning\|探究式学习]]，无视社会文化情境，且完全隐瞒了 [[OECD]] (2002, 2007) 关于神经科学可能导致过度顺从、科学神话与被滥用（如 eugenics 历史）的警示。
+> 4. **未发表证据与跨国“什么有效”网络的知识垄断** 必修核心课程的设计完全基于 [[Australian Education Research Organisation\|AERO]] 准备的、从未经过同行评审的未发表[[Research Synthesis|研究综合]]，其背后交织着英国 [[Education Endowment Foundation\|EEF]]、[[BHP Foundation\|必和必拓基金会]]的跨国政策资本移动，以及专家小组内部 AERO 董事会倾向的惩罚性问责立场。
+> 5. **保守智库私人利益的强制消费** 附录D指定的必读参考文献直接包含了由右翼保守智库 CIS 资助的 Sweller (2021) 报告，暴露了 Jennifer Buckingham 等跨界政策精英如何在智库、[[Australian Institute for Teaching and School Leadership\|AITSL]] 和改革推广中进行利益闭环的“[[Policy Network\|理念编排]]”。
+> 6. **惩罚性行政监控闭环与教育本质异化** AITSL认证权力的扩张、QA委员会的成立与绩效拨付挂钩，锁死了职前教师“脚本化教学”的监控闭环，将教育从“意义建构的人文事件”异化为“因果机制”的工业化监控。
 
 > [!stat-cards]- 核心数据
 > - **101** （次） 澳大利亚自1979年以来进行的政府主导教师教育审查次数，彰显了该国作为ITE政策试验场的特征。（p. 357）
@@ -281,17 +281,17 @@ citation_aliases:
 ---
 
 > [!citation-card] 神经科学的简化主义与压迫风险
-> 单一且狭隘地关注基于大脑的方法不仅是简化主义的，而且还可能产生压迫性的技术。（p. 2）
+> 单一且狭隘地关注基于大脑的方法不仅是简化主义的，而且还可能产生压迫性的技术。
 > 
 > The singular and narrow focus on [[Educational Neuroscience\|brain-based approaches]] is not only reductionist, but also potentially generative of oppressive technologies.
 
 > [!citation-card] “什么有效”运动的意识形态本质
-> “什么有效”运动虽然标榜自己“无价值偏见”，但在形式和意图上都是意识形态的，并受既得利益驱动。（p. 9）
+> “什么有效”运动虽然标榜自己“无价值偏见”，但在形式和意图上都是意识形态的，并受既得利益驱动。
 > 
 > The "what works" movement, whilst presenting itself as "VALUE free", is ideological in shape and intent and driven by vested interests.
 
 > [!citation-card] 惩罚性问责的本质
-> 核心课程的标准化将与认证过程和毕业生教师标准相绑定，这受到了基于惩罚性问责方法的支持。（p. 2）
+> 核心课程的标准化将与认证过程和毕业生教师标准相绑定，这受到了基于惩罚性问责方法的支持。
 > 
 > The standardisation of core curriculum, which will be tied to accreditation processes and graduate teacher standards, is underpinned by a punitive-accountability based approach.
 
@@ -310,7 +310,7 @@ citation_aliases:
 > [!warning] 作者的[[Theoretical Standpoint\|理论立场]]边界与政策外推
 > - **并非全盘否定科学研究**
 >   - 作者明确指出，其分析并非试图证明[[Scientific Method\|科学方法]]或[[Quantitative Research\|量化研究]]在教育调查中是绝对无效的。
->   - 他们强调的是：“刻板的[[Positivism\|实证主义]]原则和机械论的世界观，无法解释构成人类经验的多维度人类行动”（p. 10）。
+>   - 他们强调的是：“刻板的[[Positivism\|实证主义]]原则和机械论的世界观，无法解释构成人类经验的多维度人类行动”。
 > - **呼吁[[Epistemology\|认识论]]的多元性与证据批判性**
 >   - 承认学校和课堂的社会学和复杂人际特征，需要一个更广泛的认识论（epistemological）基础。
 >   - 在“[[Evidence Era\|证据时代]]”下，必须对“证据是如何被建构的”保持高度的警惕和批判性审视（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]; 引自 p. 10）。
