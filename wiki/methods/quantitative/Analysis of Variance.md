@@ -221,7 +221,7 @@ updated: 2026-10-22
 >   - **ChatGPT 回答** 澄清 $p$ 为组数（水平数），$n$ 为单组样本量；在非平衡设计中通常推荐使用基于离差平方和的第一种通用公式。
 > - **[[Epistemology\|认识论]]机制诊断** 展现出鲜明的多元论（[[Multiplist]]）特征。学生认识到同一统计学概念在不同文献与推导视角下存在多种合法形式，能够主动通过多轮人机追问探究公式背后的等价条件与参数边界，克服了非黑即白的绝对论盲从；但多元论者的局限在于倾向于将所有形式视为“各具合理性”，较少进一步进行排他性优劣裁决或主动寻找极端边界条件进行[[Falsification\|证伪]]。
 
-> [!figure] 图2：Student B 与 ChatGPT 的交互对话记录（多元论立场）
+> [!figure]- 图2：Student B 与 ChatGPT 的交互对话记录（多元论立场）
 > ![](https://img.mylikemie.icu/sources/Wu_2025_ER/figures/Wu_2025_ER_Fig2_Student_B_Interaction_Dialog.jpg)
 
 ---

@@ -179,7 +179,7 @@ publisher: "Executive Office of the President of the United States"
 > [!case] ENIAC 计算机微缩为单芯片的历史演进
 > 1946 年宾夕法尼亚大学研制的首台通用电子数字计算机 ENIAC 占地 1,800 平方英尺，重达 30 吨，耗电 150 千瓦并装有 18,000 个真空管。1995 年 ENIAC 问世 50 周年时，宾夕法尼亚大学师生在仅 $7.44\text{ mm}\times 5.29\text{ mm}$ 的单个硅片上完整再现了 ENIAC 的计算逻辑。该芯片采用 0.5 微米 CMOS 工艺，集成了 174,569 个晶体管。这一经典事实展现了半导体物理微缩带来的计算能力跃升，同时也表明，当特征尺寸接近原子极限时，必须转向三维集成与架构革新。（p. 4）
 
-> [!figure] 图1：微电子技术发展全周期转化路径
+> [!figure]- 图1：微电子技术发展全周期转化路径
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig1_Technology_Development_Pathway.png)
 
 #### 2. 微电子领导力小组委员会统筹全技术栈双向研发流程
@@ -199,7 +199,7 @@ publisher: "Executive Office of the President of the United States"
 > | **能源部（[[Department of Energy\|DOE]]）** | 基础材料物理、超算架构、微观表征设施 | 5 大纳米科学研究中心（NSRC）、国家实验室先进光源与中子源 | 探索量子与前沿材料物理机理并提供精密表征 |
 > | **国家科学基金会（NSF）** | [[Curiosity-Driven Research\|自由探索研究]]、开放共享设施、[[Engineering Education\|工程教育]] | 国家纳米技术协调基础设施（NNCI）、[[NSF I-Corps\|I-Corps]]、ASEM 计划 | 资助早期前沿课题与各层次 [[STEM Education\|STEM]] 人才培养 |
 
-> [!figure] 图2：全技术栈双向贯通的[[Co-Design|协同设计]]模型
+> [!figure]- 图2：全技术栈双向贯通的[[Co-Design|协同设计]]模型
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig2_Integrated_Design_Stack.jpg)
 
 ---
@@ -216,7 +216,7 @@ publisher: "Executive Office of the President of the United States"
 > - **电路设计与仿真工具开发（[[Electronic Design Automation|EDA Tools]], 1.2）** 发展高层次综合、多物理场联合仿真、人工智能辅助版图生成工具及开源[[Electronic Design Automation|电子设计自动化]]（Electronic Design Automation, EDA）流程，缩短芯片研发周期并降低设计复杂度。（pp. 15–16）
 > - **新型稳健处理架构（Processing Architectures, 1.3）** 发展非[[Von Neumann Architecture|冯·诺依曼架构]]、类脑神经形态计算、存内计算（In-Memory Computing）、光子计算与专用硬件加速器，大幅降低数据在处理器与内存之间频繁搬运带来的能耗；并协同[[National Quantum Initiative|国家量子倡议]]（National Quantum Initiative, NQI）探索量子计算器件、极低温电子学与量子传感接口系统。（pp. 16–17）
 
-> [!figure] 图：半导体算力演进曲线与未来三维异构驱动力
+> [!figure]- 图：半导体算力演进曲线与未来三维异构驱动力
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig_Computing_Power_3DHI.png)
 
 #### 2. 三维芯粒堆叠与内生硬件安全机制保障系统性能与物理可信
@@ -250,7 +250,7 @@ publisher: "Executive Office of the President of the United States"
 > - **灵活设计工具与晶圆流片准入（Design Tools & Wafer Access, 2.2）** 推广DARPA [[DARPA Toolbox Initiative|工具箱计划]]（[[DARPA Toolbox Initiative]]）模式，整合[[Multi-Project Wafer|多项目晶圆]]（Multi-Project Wafer, MPW）拼版流片需求，扩大商业与开源[[Process Design Kit|工艺设计套件]]（PDK）及装配设计套件（ADK）的使用授权，降低单次流片验证费用。（pp. 23–24）
 > - **关键材料库与高性能建模平台（Materials & Cyberinfrastructure, 2.3–2.4）** 建设前沿半导体材料样品分发中心，并提供面向多物理场仿真的云端高性能计算支持。（pp. 24–25）
 
-> [!figure] 图3：国家纳米技术协调基础设施（NNCI）用户设施网络
+> [!figure]- 图3：国家纳米技术协调基础设施（NNCI）用户设施网络
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig3_NNCI_Network.jpg)
 
 #### 2. 国家半导体技术中心与先进封装计划弥合商业量产前的工艺匹配差距
@@ -285,7 +285,7 @@ publisher: "Executive Office of the President of the United States"
 > [!case] 全美非正式科学教育网络（NISE Network）科普实践
 > 由 NSF 资助建立的 NISE Network 联合了全美 600 余家科技馆、大学科普基地与社区中心。该网络通过发放便携式微电子体验教具箱、举办全国巡回展览，向青少年直观演示晶体管工作机理与芯片制造流程，增进了公众对微电子产业的理解与投身意愿。（p. 35）
 
-> [!figure] 图：全美非正式科学教育网络（NISE Network）合作机构分布
+> [!figure]- 图：全美非正式科学教育网络（NISE Network）合作机构分布
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig_NISE_Network.jpg)
 
 > [!case] [[Semiconductor Research Corporation|半导体研究公司]]（SRC）本科生科研保留机制

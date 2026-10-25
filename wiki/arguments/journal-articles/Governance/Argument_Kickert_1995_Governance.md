@@ -148,7 +148,7 @@ sources:
 > - **调控行动者维度（Actor）** 从中央教育部垄断所有决定权的单一行政集权（Central），转向赋予高等院校完全管理权与办学自决权的多元主体网络（Autonomous）。
 > - **调控目标维度（Objective）** 从封闭系统内部为了应付审查、规避处罚而形成的消极被动防卫（Closed/Reactive），转向开放系统面向社会多元需求而展开的主动自适应创新（Open/Anticipatory）。
 
-> [!figure] 图1：调控方式的演变（Development of Steering）
+> [!figure]- 图1：调控方式的演变（Development of Steering）
 > ![](https://img.mylikemie.icu/sources/Kickert_1995_Governance/figures/Kickert_1995_Governance_Fig1_Development_of_Steering.jpg)
 
 这一调控范式的转移不仅是理论构想，白皮书更进一步将其转化为规约国家行政权力的四项法定边界。

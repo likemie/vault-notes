@@ -66,7 +66,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -239,7 +239,7 @@ updated: 2026-10-22
 > | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Mullen, Johnson and Salas (1991) | <span class="mx-bar ef-bar neg" title="Cohen's d −0.57"><span class="b11"></span></span>−0.57 | [−0.76, −0.38] | Cohen's $d$ / 随机效应模型 | $k = 25$ 项受控实验 / $N \approx 2,100$ | **【干预[[Variable\|变量]]】** 传统面对面口头头脑风暴群体相对于同等规模无交互名义群体的生产力对比 | 异质性显著，群体规模越大损失越严重 | 证实面对面口头头脑风暴存在显著的群体生产力损失，名义群体产出显著胜出 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 见亚组表 | — | Hedges' $g$ / 多层随机效应模型 | $N = 109$ 个效应量 / $k = 29$ 原生研究 | **【干预组织形式调节】** [[Creativity Training\|创造力干预]]中独立练习形式与小组头脑风暴协作形式的效能对比 | 解释 8.9% 组间方差（$p < .05$） | 证实独立深思训练能规避生产阻塞与群体认知内耗，产生显著更高的净促学收益 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.628"><span class="b13"></span></span>0.628 | [0.446, 0.809] | Hedges' $g$ / 多层随机效应模型 | $N = 109$ 个效应量 / $k = 29$ 原生研究 | **【干预组织形式调节】** [[Creativity Training\|创造力干预]]中独立练习形式与小组头脑风暴协作形式的效能对比 | 解释 8.9% 组间方差（$p < .05$） | 证实独立深思训练能规避生产阻塞与群体认知内耗，产生显著更高的净促学收益 |
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>

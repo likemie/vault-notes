@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!def] Concept Mapping
@@ -237,7 +237,6 @@ updated: 2026-10-22
 > | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.548"><span class="b11"></span></span>0.548 | [0.403, 0.692] | Hedges' $g$ / 随机效应模型 | $k = 36$ 项实证研究 / $N = 2,410$ | **【干预变量】** 概念图作为图形组织器干预对学生[[Higher-Order Thinking Skills\|高阶思维]]的促学效应 | 异质性显著，跨学科研究稳健有效 | 证实多中心命题网络对高阶思维具有中等程度的稳健促进，但受外在认知开销制约 |
-> | Nesbit and Adesope (2006) | 见亚组表 | — | Cohen's $d$ / 随机效应模型 | $k = 55$ 项实证研究 / $N = 5,818$ | **【干预[[Variable\|变量]]】** 概念图作为教学与学习策略对知识保持与深层理解迁移的元分析效应 | 跨学科领域稳健有效 | 证实无论是自制还是阅读概念图，均显著优于传统文本阅读与纯讲授教学 |
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>

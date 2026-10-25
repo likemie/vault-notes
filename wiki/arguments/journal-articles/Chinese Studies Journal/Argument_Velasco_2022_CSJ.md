@@ -183,7 +183,7 @@ sources:
 
 然而国际权威智库发布的评估数据显示，大规模的公共外交投入并未在各项指标上换来对等的正面评价，不同维度的得分呈现出巨大落差。
 
-> [!figure] 图 1　2019 年全球软实力 30 强指数（SP30）中的中国排名与分项表现
+> [!figure]- 图 1　2019 年全球软实力 30 强指数（SP30）中的中国排名与分项表现
 > ![](https://img.mylikemie.icu/sources/Velasco_2022_CSJ/figures/Velasco_2022_CSJ_Fig1_Soft_Power_30_Rank.png)
 
 图 1 呈现了英国波特兰战略沟通咨询公司与美国南加州大学公共外交中心联合构建的 SP30 指数 2019 年评估结果；在参评的 30 个国家中，中国综合排名第 27 位，客观指标与主观民调得分差距显著（Keane & Wu, 2021; University of Southern California, 2019, pp. 77–78）。
@@ -223,10 +223,10 @@ sources:
 
 持续的政策动员与资源集中，直接促成了高校科研产出的大规模扩张与高教公共财政支出的持续翻番。
 
-> [!figure] 图 2　2010 至 2020 年中国科技文献发表总量演变（万篇）
+> [!figure]- 图 2　2010 至 2020 年中国科技文献发表总量演变（万篇）
 > ![](https://img.mylikemie.icu/sources/Velasco_2022_CSJ/figures/Velasco_2022_CSJ_Fig2_Scientific_Publication_Output.png)
 
-> [!figure] 图 3　2016 至 2020 年中国高等教育公共财政支出规模（亿元）
+> [!figure]- 图 3　2016 至 2020 年中国高等教育公共财政支出规模（亿元）
 > ![](https://img.mylikemie.icu/sources/Velasco_2022_CSJ/figures/Velasco_2022_CSJ_Fig3_Tertiary_Education_Expenditure.png)
 
 图 2 与图 3 的统计轨迹展现出高校科研实力与办学物质条件的显著增强。
@@ -248,7 +248,7 @@ sources:
 
 科研声誉与资金支持的合力，迅速转化为面向国际学生的高效引流能力。
 
-> [!figure] 图 4　2014 至 2018 年在华外国留学生总人数演变（人）
+> [!figure]- 图 4　2014 至 2018 年在华外国留学生总人数演变（人）
 > ![](https://img.mylikemie.icu/sources/Velasco_2022_CSJ/figures/Velasco_2022_CSJ_Fig4_Foreign_Students_in_China.png)
 
 图 4 反映出留学生来华规模的稳步上升趋势，生源吸纳能力与国家战略目标高度吻合。

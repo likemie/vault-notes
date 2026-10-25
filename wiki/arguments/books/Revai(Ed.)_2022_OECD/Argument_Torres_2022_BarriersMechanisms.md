@@ -167,7 +167,7 @@ updated: 2026-10-22
 
 针对[[International Education|国际教育]]学界长期将抽象因素、具体工具与高位战略相互混淆的理论痛点，本研究首先在系统论视阈下澄清概念边界，厘定各要素在[[Knowledge Mobilisation|知识动员]]链条中的功能定位。（pp. 104–105）
 
-> [!figure] 图 5-1　概念心智模型：影响教育研究利用的要素层级关系
+> [!figure]- 图 5-1　概念心智模型：影响教育研究利用的要素层级关系
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_5-1_Mindmap_of_concepts.jpg)
 
 > [!theory-components] 知识动员核心概念的层级构件
@@ -229,7 +229,7 @@ updated: 2026-10-22
 
 基于 29 国 37 个教育系统的标准化政策调查数据，各系统报告的机制总数跨度极大，实证折射出[[Research-Practice Gap|研究-实践鸿沟]]与[[Research-Policy Gap|研究-政策鸿沟]]在不同国家证据治理制度化水平上的显著落差。（pp. 106–107）
 
-> [!figure] 图 5-2　各教育系统在政策制定端与教学实践端报告的促进机制数量分布（2021年）
+> [!figure]- 图 5-2　各教育系统在政策制定端与教学实践端报告的促进机制数量分布（2021年）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_5-2_Number_of_mechanisms_by_system.jpg)
 
 > [!stat-cards]- 机制数量核心数据
@@ -255,7 +255,7 @@ updated: 2026-10-22
 
 在对具体机制类型的深入剖析中，各教育系统展现出惊人一致的政策倾向性与盲区。（pp. 108–111）
 
-> [!figure] 图 5-3　各类促进教育研究利用的机制在 37 个系统中的实证覆盖率（2021年）
+> [!figure]- 图 5-3　各类促进教育研究利用的机制在 37 个系统中的实证覆盖率（2021年）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_5-3_Presence_of_mechanisms_facilitating_research_use.jpg)
 
 > [!feature] 各类别机制在政策制定端与学校实践端的实证覆盖率矩阵
@@ -318,7 +318,7 @@ updated: 2026-10-22
 
 与机制部署情况相对应，政策调查要求各系统对阻碍研究利用的核心障壁进行优先级排序，揭示出制约证据转化的深层瓶颈。（pp. 111–114）
 
-> [!figure] 图 5-4　阻碍教育研究利用的各类障壁分布与重要性排序（2021年）
+> [!figure]- 图 5-4　阻碍教育研究利用的各类障壁分布与重要性排序（2021年）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_5-4_Presence_and_relevance_of_barriers_to_research_use.jpg)
 
 > [!factors] 障壁优先级排序与跨[[Champ\|场域]]差异
@@ -384,7 +384,7 @@ updated: 2026-10-22
 
 证据利用不仅取决于下游使用意愿，更受制于上游科研生产源头的治理模式；调查深入测绘了各国教育部委统筹教育科研生产的制度化工具。（pp. 114–115）
 
-> [!figure] 图 5-5　协调教育科研生产的各类机制在各系统中的覆盖率分布（2021年）
+> [!figure]- 图 5-5　协调教育科研生产的各类机制在各系统中的覆盖率分布（2021年）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_5-5_Presence_of_coordinating_mechanisms_of_research_production.jpg)
 
 > [!feature] 科研生产协调的七大制度渠道分布

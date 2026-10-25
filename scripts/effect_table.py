@@ -347,6 +347,10 @@ def lint_file(path: Path, text: str, head_text: str = None) -> List[Problem]:
             probs.append(Problem("ERROR", ln, "EMPIRICAL_NO_DATA",
                 "实证表格只写有数据的结果：这一行的结果栏没有数值、比例、计数或统计量。"
                 "质性结论、政策文本归纳、仅有样本量的文字结论改写进正文或“相关研究”，或回原文补上数据"))
+        for ln, row in enumerate(text.split("\n"), 1):
+            if row.startswith("> |") and "见亚组表" in row:
+                probs.append(Problem("ERROR", ln, "EFFECT_SEE_SUBGROUP",
+                    "主表效应值不能写“见亚组表”：填原文的总体效应；原文没有总体效应时，独立亚组可按逆方差合并计算并注明，否则删除该行"))
         for ln, row in ns_subgroup_rows(text):
             probs.append(Problem("ERROR", ln, "SUBGROUP_NOT_SIGNIFICANT",
                 "亚组表只写显著的结果：该水平不显著，或所在调节变量的组间检验不显著（整组删除），不写入表格"))

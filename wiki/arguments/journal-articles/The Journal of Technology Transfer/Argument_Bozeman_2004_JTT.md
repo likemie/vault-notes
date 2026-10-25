@@ -186,7 +186,7 @@ updated: 2026-10-23
 > | **先进制造与加工工艺**<br>Manufacturing and processing | 环境有益催化中心<br>Center for Environmentally Beneficial Catalysis | 堪萨斯大学（领衔），联合爱荷华大学与圣路易斯华盛顿大学<br>University of Kansas, Lawrence, KS | [www.ku.edu/~cebc/](http://www.ku.edu/~cebc/) |
 > | **先进制造与加工工艺**<br>Manufacturing and processing | 可重构加工系统中心<br>Center for Reconfigurable Machining Systems | 密歇根大学安娜堡分校<br>University of Michigan, Ann Arbor, MI | [erc.engin.umich.edu/](http://erc.engin.umich.edu/) |
 
-> [!figure] 图 1：1984–2004 年 NSF 工程研究中心历年获批资助分布（N = 56）
+> [!figure]- 图 1：1984–2004 年 NSF 工程研究中心历年获批资助分布（N = 56）
 > ![](https://img.mylikemie.icu/sources/Bozeman_2004_JTT/figures/Bozeman_2004_JTT_Fig1_ERC_Awards_by_Year.jpg)
 
 > [!result-reading]- 历年资助批复与历史存续特征
@@ -194,7 +194,7 @@ updated: 2026-10-23
 
 #### 2. 联邦种子资金与产业配套投入的资金杠杆机制
 
-> [!figure] 图 2：NSF 工程学部各子活动历年经费支出趋势（百万美元）
+> [!figure]- 图 2：NSF 工程学部各子活动历年经费支出趋势（百万美元）
 > ![](https://img.mylikemie.icu/sources/Bozeman_2004_JTT/figures/Bozeman_2004_JTT_Fig2_ENG_Subactivity_Funding.jpg)
 
 > [!contrast-table] NSF 工程学部主要中心计划历年资助经费表（单位：百万美元）

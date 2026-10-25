@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -157,7 +157,7 @@ updated: 2026-10-22
 >
 > | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]<br>（引述 Schwichow et al., 2016） | 见亚组表 | — | Hedges' $g$，随机效应 | $k = 72$ / — | [[Dependent Variable\|结果变量]]：探讨显性规则教学对比非显性探究对[[Variable\|变量]]控制策略（CVS）掌握的总体效果 | 原文两组[[Confidence Interval\|置信区间]]重叠，组间无显著差异 | 涵盖 72 项干[[Pilot Testing\|预实验]]，推翻了单项研究关于显性讲授 CVS 具有绝对优越性的断言 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]<br>（引述 Schwichow et al., 2016） | <span class="mx-bar ef-bar" title="Hedges' g 0.61"><span class="b12"></span></span>0.61 | [0.52, 0.70] | Hedges' $g$，随机效应；按两亚组固定效应合并计算 | $k = 72$ / — | [[Dependent Variable\|结果变量]]：探讨显性规则教学对比非显性探究对[[Variable\|变量]]控制策略（CVS）掌握的总体效果 | 原文两组[[Confidence Interval\|置信区间]]重叠，组间无显著差异 | 涵盖 72 项干[[Pilot Testing\|预实验]]，推翻了单项研究关于显性讲授 CVS 具有绝对优越性的断言 |
 
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>

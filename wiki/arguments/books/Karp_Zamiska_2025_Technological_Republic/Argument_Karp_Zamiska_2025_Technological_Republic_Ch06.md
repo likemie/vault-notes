@@ -205,7 +205,7 @@ updated: 2026-10-22
 
 高等教育的功利化转型在统计数据中得到了清晰体现。
 
-> [!figure] 图 6-1　哈佛大学毕业生进入金融与管理咨询业比例（1971–2022 年）
+> [!figure]- 图 6-1　哈佛大学毕业生进入金融与管理咨询业比例（1971–2022 年）
 > ![](https://img.mylikemie.icu/books/Karp_Zamiska_2025_Technological_Republic/figures/Figure_6-1_Harvard_Graduates_Finance_Consulting.jpg)
 
 > [!stat-cards]- 毕业生去向与学科极化关键数据
@@ -241,7 +241,7 @@ updated: 2026-10-22
 > | **经济与政治基础** | 2 万亿美元项目预期支出与广泛分布的实体制造红利驱动国会跨党派稳定支持 | 市值极度集中（2024 年全球前 50 大科技公司总值 24.8 万亿美元，美国占 86% 即 21.4 万亿，苹果、微软、英伟达、Alphabet、亚马逊、Meta、特斯拉高度垄断） |
 > | **公共问责机制** | 受成熟的国防采购法案、军工标准、国会听证与广泛实体利益深度制约 | 科技精英秉持不可知论与避险心态，缺乏服务国家公共利益与民主问责的制度性硬约束 |
 
-> [!figure] 图 6-2　全球人均 GDP 长期历史演变估算（公元 1–2003 年）
+> [!figure]- 图 6-2　全球人均 GDP 长期历史演变估算（公元 1–2003 年）
 > ![](https://img.mylikemie.icu/books/Karp_Zamiska_2025_Technological_Republic/figures/Figure_6-2_Estimated_GDP_Per_Capita_Worldwide.jpg)
 
 任何长盛不衰的共和国，都必须警惕统治阶层的封闭与钙化。

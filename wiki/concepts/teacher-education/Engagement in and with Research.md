@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -196,13 +196,6 @@ updated: 2026-10-22
 ---
 
 > [!empirical-divider]
-
-> [!effect-table]- 原始研究结果：微观个体素养塑造（Kazancı Tınmaz & Sezgin, 2023）
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 效应指标 | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
-> | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | $\eta^2$ | 见亚组表 | 主效应显著（$p \le .005$），交互作用均不显著（$p > .27$） | 开展科研与期刊追踪（2×2 设计） | 教师[[Research Literacy\|研究素养]]（技能与使用） | $N=258$（期刊追踪组 $n=73$，开展科研组 $n=82$） | 追踪期刊组使用均值 $4.03 \pm 0.57$ vs 未追踪 $3.69 \pm 0.64$；开展科研组技能均值 $4.04 \pm 0.59$ vs 未开展 $3.60 \pm 0.69$ | 横断面 2×2 多[[Variable\|变量]][[Analysis of Variance\|方差分析]]（MANOVA），实证证实做研究与读期刊具有独立且差异化的塑造机制 |
 
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>

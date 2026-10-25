@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -265,7 +265,6 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Schuster et al. (2018)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]） | Cohen's $d$ | <span class="mx-bar ef-bar" title="Cohen's d 0.00"><span class="b0"></span></span>0.00 | 非显著（$p > .05$） | 精心设计的[[Direct Instruction\|直接教学]] vs [[Inquiry-Based Learning\|指导式探究]]（[[Randomised Controlled Trials\|RCT]]） | 核心物理概念掌握 | 5 年、每年逾 100 名学员，8 天密集物理课程 | 两组核心概念测试得分高度接近 | 受控 RCT；摒弃模糊 BAU，两组均由专业教师规范实施，表明教学法本身在概念掌握上并无绝对优劣 |
 > | Foliano et al. (2019)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 54]]） | ES | <span class="mx-bar ef-bar" title="ES 0.00"><span class="b0"></span></span>0.00 | 非显著（$p > .05$） | [[Growth Mindset\|成长型思维]]全校大班培训 vs 常态教学（BAU） | 英国全国关键阶段统考（KS2）成绩 | 全英数十所小学大规模现场 RCT | 干预组与对照组全国统考成绩无显著差异 | 大规模现场 RCT；表明流行心理干预未能显著超越学校既有成熟的常态教学基线 |
-> | Hanley et al. (2015) & Kitmitto et al. (2018)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]） | ES | 见亚组表 | 效力显著（$p < .05$）；实效不显著（$p > .05$） | [[Thinking, Doing, Talking Science\|TDTS]] 科学探究项目（[[Efficacy Trial\|效力试验]] vs [[Effectiveness Trial\|实效试验]]）对比 BAU | 小学科学学业测试与统考 | 效力试验 42 校；实效试验 205 所小学近万名学生 | 效力试验干预组显著优于对照；实效试验两组无差异 | 效力试验中 BAU 互动较少显优势；大规模推广中坚实 BAU 互动教研吞噬干预优势 |
 > | Lortie-Forgues and Inglis (2019)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 56]]） | Cohen's $d$（中位数） | <span class="mx-bar ef-bar" title="Cohen's d 0.06"><span class="b1"></span></span>0.06 | 效应量总体极度微弱 | 英美 141 项中介资助大样本教育 RCT vs BAU | 学科学业表现 | 141 项大型 RCT，跨越英美数万名学生与数百所学校 | 绝大多数干预未能取得大幅度增量 | 揭示在公立教育体系坚实的常态基线之上取得大幅度净增益面临极高生态门槛 |
 
 > [!ma-table]- 亚组与调节分析

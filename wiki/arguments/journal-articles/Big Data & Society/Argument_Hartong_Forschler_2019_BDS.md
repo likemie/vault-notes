@@ -170,7 +170,7 @@ updated: 2026-10-23
 
 州级教育行政机构通过构建覆盖全域的技术管道，将分散在基层学校的微观学生信息抽取、规整并转化为可支配的量化治理资产。这一流转过程在形式上依赖层级分明的技术架构，其每一层级都服务于将丰富的微观教育现实压缩为易于计算的标准化数据：
 
-> [!figure] 图1：州教育行政机构学校监测的技术基础设施
+> [!figure]- 图1：州教育行政机构学校监测的技术基础设施
 > ![](https://img.mylikemie.icu/sources/Hartong_Forschler_2019_BDS/figures/Hartong_Forschler_2019_BDS_Fig1_Technical_Infrastructure_State_School_Monitoring.jpg)
 
 美德两地州级教育监测的数据流转全景涵盖四大垂直关联的运行层级，展现了从基层学籍采集到高层政策制定的完整链条：
@@ -215,7 +215,7 @@ updated: 2026-10-23
 > [!claim] 论证步骤二　监测数据嵌入多方行政实践必然激化制度冲突，深陷五维不可调和的结构性治理张力
 > 当技术性的代码编写、数据关联与算法计算嵌入更广泛的[[School Inspection\|学校督导]]、资源分配与行政问责实践时，行动者必须在五组具有深刻政治意涵的做数据张力（doing data discrepancies）中求取妥协，这些结构性张力划定了教育数据化治理的现实边界。
 
-> [!figure] 图2：州教育行政机构中开展数据监测的实践与张力结构
+> [!figure]- 图2：州教育行政机构中开展数据监测的实践与张力结构
 > ![](https://img.mylikemie.icu/sources/Hartong_Forschler_2019_BDS/figures/Hartong_Forschler_2019_BDS_Fig2_Doing_Monitoring_State_Education_Agencies.jpg)
 
 州级教育行政机构在开展监测实践时，始终嵌入于复杂的制度网络与两难决策之中。在宏观结构层面，追求全域掌控的数据扩张诉求与追求系统稳定的数据节约原则构成了基本背景；在微观操作层面，行政行动者必须在五组深具政治意涵的做数据张力中求取平衡：

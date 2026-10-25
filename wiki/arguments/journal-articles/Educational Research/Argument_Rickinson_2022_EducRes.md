@@ -163,10 +163,10 @@ issuing_organization: ""
 >
 > 检索规则：三大维度之间采用 `AND` 逻辑进行交叉合并检索，不设发表时间上限。
 
-> [!figure] 图 1：数据库检索策略关键词组合图
+> [!figure]- 图 1：数据库检索策略关键词组合图
 > ![](https://img.mylikemie.icu/sources/Rickinson_2022_ER/figures/Rickinson_2022_ER_Fig1_Search_String_Keywords.jpg)
 
-> [!figure] 图 2：文献筛选与纳入流程图
+> [!figure]- 图 2：文献筛选与纳入流程图
 > ![](https://img.mylikemie.icu/sources/Rickinson_2022_ER/figures/Rickinson_2022_ER_Fig2_Search_Strategy_Flowchart.jpg)
 
 > [!proc] 文献筛选与纳入流程全景数据
@@ -272,7 +272,7 @@ issuing_organization: ""
 
 重塑后的 QURE 框架明确确立了以适切证据和审慎实施为核心、多层使能相互咬合的完整理论图景。
 
-> [!figure] 图 3：研究证据质量使用框架（QURE）组成构件图
+> [!figure]- 图 3：研究证据质量使用框架（QURE）组成构件图
 > ![](https://img.mylikemie.icu/sources/Rickinson_2022_ER/figures/Rickinson_2022_ER_Fig3_QURE_Framework_Components.jpg)
 
 该图景由双核心构件、两类使能构件及宏观系统影响有机嵌套而成；为明晰各构件的理论边界与功能定位，框架对全套构件给出了严格的操作性界定与机制对照。

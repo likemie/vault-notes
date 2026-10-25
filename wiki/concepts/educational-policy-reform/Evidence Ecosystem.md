@@ -178,7 +178,7 @@ updated: 2026-10-23
 > - **战略性价值沟通（Strategic Communications）** 超越简单的信息转译与文本摘要分发，深入探寻不同群体的利益关切与深层相互依赖，在多方对话中达成价值共识。[[Argument_Revai_2022_ChangingLandscape\|(Best & Holmes, 2010; Révai, 2022, p. 19)]]
 > - **系统级使能与治理机制（System-Level Enabling Influences）** 涵盖领导层在全系统层面确立[[Research Utilization\|研究使用]]的战略优先地位（Farley-Ripple et al., 2018; EEF, 2019）、为学校循证文化与基础架构提供持续专项经费资助（Nelson & Campbell, 2019），以及建立超越下游惩戒性问责的形成性反馈与持续自我监控机制（Bannigan, 2007; Senge et al., 2012; [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]]）。
 
-> [!figure] 需求拉动的证据生态系统双层嵌套拓扑模型（Figure 7.1; Gough et al., 2011, 2018, 2022, p. 148）
+> [!figure]- 需求拉动的证据生态系统双层嵌套拓扑模型（Figure 7.1; Gough et al., 2011, 2018, 2022, p. 148）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_7-1_Evidence_ecosystem.jpg)
 >
 > - **外层大系统（顶层虚线方框）** 包容宏观政治体制、拨款问责、意识形态与权力博弈，汇聚多元行动者、不同视角、焦点议题、待解问题与既有权力结构。

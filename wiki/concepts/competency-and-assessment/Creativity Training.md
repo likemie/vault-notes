@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!def] Creativity Training
@@ -407,7 +407,6 @@ updated: 2026-10-22
 > | Yunita et al. (2020) | <span class="mx-bar ef-bar" title="Hedges' g 0.87"><span class="b17"></span></span>0.87 | [0.64, 1.10] | Hedges' $g$ / 随机效应模型 | $k = 24$ 项实验研究 / $N = 1,720$ | **干预因素** 问题驱动教学法（[[Problem-Based Learning\|PBL]]）对创造性思维的促进 | [[Wicked Problem\|劣构问题]]情境效应最强 | 基础教育与高等教育学科课堂嵌入式干预 |
 > | Suganda et al. (2021) | <span class="mx-bar ef-bar" title="Hedges' g 0.76"><span class="b15"></span></span>0.76 | [0.51, 1.01] | Hedges' $g$ / 随机效应模型 | $k = 20$ 项实验研究 / $N = 1,485$ | **干预因素** 跨学科 STEAM 教学对创造性思维技能的促进 | 强调动手原型制作 | 跨学科[[Project-Based Learning\|项目式学习]]情境 |
 > | Acar et al. (2020) | <span class="mx-bar ef-bar" title="Hedges' g 0.53"><span class="b11"></span></span>0.53 | — | Hedges' $g$ / 随机效应模型 | $k = 30$ 项实证研究 / $N = 3,369$ | **干预因素** 显式独创性指导语对[[Divergent Thinking\|发散思维]]表现的即时效应 | 明确目标要求即时改善表现 | 任务呈现阶段的即时指令操纵 |
-> | DeRosa et al. (2007) | 见亚组表 | — | 标化均值差 $d$ / 随机效应模型 | $k = 39$ 项实验研究 / $N = 4,112$ | **干预因素** 电子[[Brainstorming\|头脑风暴]]（EBS）对比面对面头脑风暴 | 群体规模 $\ge 8$ 时优势显著 | 数字化协作平台有效消除生产力阻塞 |
 > | Rose and Lin (1984) | <span class="mx-bar ef-bar" title="Cohen's d 0.47"><span class="b9"></span></span>0.47 | — | 标化均值差 $d$ / 随机效应模型 | $k = 46$ 项研究 | **干预因素** 普渡创造性思维方案（PCTP）训练效果 | 练习册结合音频效果最优 | 早期长程标准化方案 |
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果

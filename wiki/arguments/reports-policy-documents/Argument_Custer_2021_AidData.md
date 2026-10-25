@@ -168,7 +168,7 @@ updated: 2026-10-22
 > [!program-context] 教育援助项目总体规模与关键节点
 > 2000 至 2017 年间，中国官方在南亚与中亚 12 国累计支持了 251 项教育援助项目，涵盖约 66 亿美元资金及大规模设备、物资与技术支持。项目总数随时间呈现显著递增，并在国际金融危机（2008 年）与“一带一路”倡议（2013 年）两大时间节点后发生重心转移。（pp. 14–15）
 
-> [!example]- 图3：中国对南亚与中亚教育援助项目数量地理分布（2000–2017）
+> [!figure]- 图3：中国对南亚与中亚教育援助项目数量地理分布（2000–2017）
 > ![](https://img.mylikemie.icu/sources/Custer_2021_AidData/figures/Custer_2021_AidData_Fig3_Educational_Assistance_Projects_Distribution.jpg)
 
 > [!phase] 重点受援国分布的阶段演变
@@ -230,13 +230,13 @@ updated: 2026-10-22
 > [!mechanism] 签证交易成本对留[[Student Mobility|学生流动]]的约束机制
 > 跨国留学生流动在微观层面深受签证制度交易成本的制约。相较于传统英美留学强国动辄数千元人民币的申请费用与繁琐严苛的资产证明，中国对南亚与中亚学生实施了区域内最为宽松便捷的学签政策。（pp. 17–19）
 
-> [!example]- 图5：中国、俄罗斯、美国、英国对南亚中亚留学生签证要求对比
+> [!figure]- 图5：中国、俄罗斯、美国、英国对南亚中亚留学生签证要求对比
 > ![](https://img.mylikemie.icu/sources/Custer_2021_AidData/figures/Custer_2021_AidData_Fig5_Comparative_Visa_Requirements.jpg)
 
 > [!policy-design] 留学签证准入规程与多国门槛对比
 > 在大多数南亚与中亚国家，中国留学签证办理费用在 50 美元以内，财力担保证明设定极低限额，体检程序高度标准化；相比之下，美英两国签证审查伴随着高拒签率与大额存款证明壁垒，俄罗斯也仅对独联体国家维持较低门槛，对南亚生源设置了繁琐的健康排查。（pp. 18–19）
 
-> [!example]- 图4：南亚与中亚各国赴华留学生年度规模走势（2010–2017）
+> [!figure]- 图4：南亚与中亚各国赴华留学生年度规模走势（2010–2017）
 > ![](https://img.mylikemie.icu/sources/Custer_2021_AidData/figures/Custer_2021_AidData_Fig4_SCA_Students_China.jpg)
 
 #### 2. 中国官方奖学金名额充裕，资助规模显著超过周边大国
@@ -329,10 +329,10 @@ updated: 2026-10-22
 > [!result-reading] 语言文化机构区域存量与大国竞逐态势
 > 截至 2018 年，中国在南亚与中亚设立了 65 所[[Confucius|孔子]]机构（28 所[[Confucius Institute|孔子学院]]、37 所中小学孔子课堂），占区域全部大国文化中心的 30%，仅次于美国的 92 所（占 42%）。但不同国别的力量对比呈现极度[[Heterogeneity|异质性]]。（pp. 24–27, 30–32）
 
-> [!example]- 图6：南亚与中亚地区美国角与孔子学院累计数量走势（2000–2018）
+> [!figure]- 图6：南亚与中亚地区美国角与孔子学院累计数量走势（2000–2018）
 > ![](https://img.mylikemie.icu/sources/Custer_2021_AidData/figures/Custer_2021_AidData_Fig6_American_Spaces_vs_Confucius_Institutes.jpg)
 
-> [!example]- 图7：中、美、俄在南亚与中亚各国的语言文化中心网点分布图
+> [!figure]- 图7：中、美、俄在南亚与中亚各国的语言文化中心网点分布图
 > ![](https://img.mylikemie.icu/sources/Custer_2021_AidData/figures/Custer_2021_AidData_Fig7_Language_Culture_Centers_US_Russia_China.jpg)
 
 > [!ref-table]- 表8：中国在南亚与中亚各国设立的孔子学院与孔子课堂明细（截至 2018 年）
@@ -403,7 +403,7 @@ updated: 2026-10-22
 > [!mechanism] 次国家交往网络的分层治理架构
 > 考察[[Soft Power|软实力]]的微观落地机制，需区分中央对地方（Central-to-local）与地方对地方（Local-to-local）两套平行的合作架构。（pp. 34–35）
 
-> [!example]- 图8：中国与南亚中亚国家友好城市（友好省州）网络分布图（2000–2018）
+> [!figure]- 图8：中国与南亚中亚国家友好城市（友好省州）网络分布图（2000–2018）
 > ![](https://img.mylikemie.icu/sources/Custer_2021_AidData/figures/Custer_2021_AidData_Fig8_Sister_City_Relationships_SCA.jpg)
 
 > [!contrast-table] 表11：次国家层面的两类社会文化交往机制对比

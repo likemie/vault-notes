@@ -213,7 +213,7 @@ issuing_organization: ""
 
 聚类判别分析与各维度的标准化剖面走势，直观展现了三类群体的价值分歧：
 
-> [!figure] 图1　治理相关态度聚类分析结果剖面图
+> [!figure]- 图1　治理相关态度聚类分析结果剖面图
 > ![](https://img.mylikemie.icu/sources/Altrichter_2019_ZfB/figures/Altrichter_2019_ZfB_Fig1_Profiles_Governance_Attitudes.jpg)
 >
 > **图表深度解析**

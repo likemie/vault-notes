@@ -229,7 +229,7 @@ Teach 工具的研发并非孤立的技术性指标拼凑，而是植根于[[Eff
 
 这一框架设计使得课堂中原本隐性的社会情感支持行为显性化，促使教育评价真正走向全人发展：
 
-> [!figure] 图 1　Teach 课堂观察框架
+> [!figure]- 图 1　Teach 课堂观察框架
 > ![](https://img.mylikemie.icu/sources/WorldBank_2019_Teach/figures/WorldBank_2019_Teach_Fig1_Teach_Framework.jpg)
 
 该框架清晰展现了 Teach 的双轨并进逻辑：顶层为测量时间利用效率的[[Time on Task|任务在轨时间]]（低推论），底层为覆盖课堂文化、教学指导与社会情感技能的教学实践质量（高推论），二者共同构成了评价优质教学的完整支柱。（p. 3）

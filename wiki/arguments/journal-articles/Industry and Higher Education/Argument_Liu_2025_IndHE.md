@@ -181,7 +181,7 @@ issuing_organization: ""
 
 [[Belt and Road Initiative|一带一路倡议]]自 2013 年启动以来，以交通与能源基础设施建设为先导，全面拓展了中国与广大发展中国家的联通网络。
 
-> [!figure] 图1：一带一路路线图
+> [!figure]- 图1：一带一路路线图
 > ![](https://img.mylikemie.icu/sources/Liu_2025_IndHE/figures/Liu_2025_IndHE_Fig1_Map_of_BRI.jpg)
 
 > [!policy-context] 跨国工程与多边高教合作制度架构

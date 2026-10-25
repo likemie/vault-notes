@@ -165,7 +165,7 @@ issuing_organization: ""
 > - **全行业市场份额的戏剧性反转** 1980 年美国占据全球半导体市场 62%，日本占 26%；1989 年美国份额跌至 37% 谷底，日本升至 51%；1993 年美国以 43% 重新反超日本（40%），1997 年美国升至 50% 以上，日本降至 29%。
 > - **DRAM 大宗市场的代际接管** 从 1K 到 4M 代际，日本在 DRAM 各代产品中的最大市场份额从 5% 攀升至 98%，全面取代了美国厂商在早期存储器上的统治地位。
 
-> [!figure] 图1：1980–1997 年全球半导体市场份额演变
+> [!figure]- 图1：1980–1997 年全球半导体市场份额演变
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig1_Worldwide_Semiconductor_Market_Share.jpg)
 
 > [!index-table] 表1：按器件类型划分的美日 DRAM 最大市场份额演进（%）
@@ -188,7 +188,7 @@ issuing_organization: ""
 > - **日本存储垄断受外部冲击** 韩国三星与中国台湾厂商迅速进入 DRAM 市场，以更低制造成本削弱了日本企业的独占优势。
 > - **存储器件的大宗商品化** 存储芯片演化为高度标准化的纯大宗商品，依赖激进资本投入与微观良率，利润空间被持续压缩。
 
-> [!figure] 图2：1980–1997 年全球存储芯片市场份额演变
+> [!figure]- 图2：1980–1997 年全球存储芯片市场份额演变
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig2_Worldwide_Memory_Market_Share.jpg)
 
 ---
@@ -207,14 +207,14 @@ issuing_organization: ""
 > 2. **全员生产维护（Total Preventive Maintenance, TPM）与设备稳定性管理** 联合设备供应商对产线维护人员开展深度培训，推行预防性维护制度，大幅提升关键光刻与刻蚀设备的平均无故障时间（MTBF），降低非计划停机波动。
 > 3. **跨专业工程诊断与数据快速反馈机制** 打破工艺工程师与一线工人之间的职能壁垒，组建跨职能质量改进小组，依托软件数据分析工具快速定位缺陷机理并优化工艺配方。
 
-> [!figure] 图3：美国企业集成电路每百万缺陷数（PPM）改善趋势
+> [!figure]- 图3：美国企业集成电路每百万缺陷数（PPM）改善趋势
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig3_Defective_PPM_in_US_Firms.jpg)
 
 #### 2. 逻辑芯片制造良率追平日本，证明尖端工艺无须依赖大宗存储芯片经验
 
 加州大学伯克利分校 [[Competitive Semiconductor Manufacturing Program|CSM]] 项目的[[Industrial Benchmarking|产业标杆分析]]测量表明，在 0.7–0.9 微米互补金属氧化物半导体（Complementary Metal-Oxide-Semiconductor, CMOS）逻辑制程中，美国领先晶圆厂的缺陷密度自 1990 年的约 1.3 个/$\text{cm}^2$ 持续下降，并在 1994 年达到与日本领先晶圆厂相当的水准。
 
-> [!figure] 图4：0.7–0.9 微米 CMOS 逻辑制程缺陷密度对比
+> [!figure]- 图4：0.7–0.9 微米 CMOS 逻辑制程缺陷密度对比
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig4_Defect_Density_in_CMOS_Logic.jpg)
 
 > [!index-table] 表2：美日半导体制造商晶圆平均探针良率对比（Probe Yield, %）
@@ -228,7 +228,7 @@ issuing_organization: ""
 > | **存储制程：0.5–0.7 微米** | 80 | 80 |
 > | **存储制程：<0.5 微米** | 78 | 89 |
 
-> [!figure] 图5：CMOS 逻辑晶圆厂直接劳动生产率对比（晶圆通量/操作工）
+> [!figure]- 图5：CMOS 逻辑晶圆厂直接劳动生产率对比（晶圆通量/操作工）
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig5_Direct_Labor_Productivity_at_CMOS_Logic_Fabs.jpg)
 
 > [!warrant]- 硬件自动化 vs. 软件数据分析与微观工程排障效率
@@ -254,7 +254,7 @@ issuing_organization: ""
 
 设计公司专注于微架构与算法创新，将晶圆制造外包给专业代工厂（如中国台湾的[[Taiwan Semiconductor Manufacturing Corporation|台积电]]与联电）或具备富余产能的厂商，无须承担高额晶圆厂固定资本投资。
 
-> [!figure] 图6：美国新型半导体企业创立数量趋势（1966–1996）
+> [!figure]- 图6：美国新型半导体企业创立数量趋势（1966–1996）
 > ![](https://img.mylikemie.icu/sources/Macher_1998_CMR/figures/Macher_1998_CMR_Fig6_Formation_of_New_US_Semiconductor_Firms.jpg)
 
 > [!dimension] 美国半导体敏捷[[Innovation Ecosystem|创新生态]]的四大结构支柱

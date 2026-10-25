@@ -70,7 +70,7 @@ AI 不主动判断书籍材料属于专著、论文集还是教材；按用户�
 普通论文／报告 figure 占位：
 
 ```markdown
-> [!example]- 图X：名称
+> [!figure]- 图X：名称
 > ![](https://img.mylikemie.icu/sources/<论文命名>/figures/<论文命名>_FigX_Descriptive_Name.jpg)
 ```
 
@@ -79,7 +79,7 @@ AI 不主动判断书籍材料属于专著、论文集还是教材；按用户�
 书籍 figure 占位：
 
 ```markdown
-> [!example]- 图X-X：名称
+> [!figure]- 图X-X：名称
 > ![](https://img.mylikemie.icu/books/<book-folder>/figures/Figure_X-X_Descriptive_Name.jpg)
 ```
 

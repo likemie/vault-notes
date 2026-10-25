@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -196,8 +196,7 @@ updated: 2026-10-22
 >
 > | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 见亚组表 | — | Cohen's $d$，随机效应模型 | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | 调节效应：评价测验对齐程度（直接对齐高阶认识目标 vs 远端标准化测验） | 组间差异 $Q_b = 5.259, p < .05$；总体异质性 $Q(58) = 459.739, p < .001$ | 实证表明认识论认知干预高度敏感于任务目标对齐，近端对齐任务展现出更为显著的学业增益 |
-> | 同上 | 见亚组表 | — | Cohen's $d$，随机效应模型 | 28 篇（59 个效应量） / 4,373 | 调节效应：成就目标类型（论证表现 vs 概念知识 vs [[Procedural Knowledge\|程序知识]]） | 组间差异 $Q_b = 8.940, p < .05$ | 高阶认识目标（论证与概念理解）对[[Epistemology\|认识论]]干预表现出强烈的因果响应，而低阶程序记忆则无显著提升 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.509"><span class="b10"></span></span>0.509 | — | Cohen's $d$，随机效应模型 | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | 调节效应：评价测验对齐程度（直接对齐高阶认识目标 vs 远端标准化测验） | 组间差异 $Q_b = 5.259, p < .05$；总体异质性 $Q(58) = 459.739, p < .001$ | 实证表明认识论认知干预高度敏感于任务目标对齐，近端对齐任务展现出更为显著的学业增益 |
 
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>

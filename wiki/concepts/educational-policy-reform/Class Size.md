@@ -421,7 +421,6 @@ updated: 2026-10-26
 > | 研究 | [[Effect Size\|效应指标]] | 效应值 | 显著性或不确定性 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 设计与解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | Cohen's $d$ | <span class="mx-bar ef-bar range" title="Cohen's d 0.62–0.66；取区间中点"><span class="b13"></span></span>0.62–0.66 | 极显著（$p < .001$） | 田纳西州 STAR 项目：小班（13–17 人） vs 常规模范大班（22–25 人） | 标准化读写与数学测验 | 79 所学校，逾 6,000 名学生长期追踪 | 小班各科平均得分持续高于大班 | 严格[[Random Assignment\|随机分配]]实验；优势在低年级与少数族裔中最为强劲 |
-> | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | Cohen's $d$ | 见亚组表 | 阅读微弱显著（$p < .05$），数学未达显著 | 法国弱势学校班额减半改革（优先教育网 REP+ 由 24 人降至 12 人） | 标准化法语与数学统考成绩 | 法国优先教育网一、二年级群体 | 实验组阅读略高于常规班，数学无差异 | 全国性政策推广；合格师资与校舍物理条件制约显著稀释了政策预期收益 |
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>

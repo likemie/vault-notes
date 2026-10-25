@@ -159,7 +159,7 @@ issuing_organization: ""
 
 这四个维度的架构通过教室墙面的实体海报与数字平台持续演进，成为师生共同推敲与调整探究路线的公共中介：
 
-> [!figure] 图 4　师生在教室墙面上共同梳理并动态调整的问题清单（意向领域海报）演进图
+> [!figure]- 图 4　师生在教室墙面上共同梳理并动态调整的问题清单（意向领域海报）演进图
 > ![](https://img.mylikemie.icu/sources/Zhang_2022_SE/figures/Zhang_2022_SE_Fig4_Wondering_Areas.jpg)
 
 ---
@@ -187,13 +187,13 @@ issuing_organization: ""
 
 为了支持多专题探究并防止活动流于散漫，班级在[[Theory of Knowledge|知识论]]坛上开设了主导航视图与公共总结区，并随时间推进持续演化架构：
 
-> [!figure] 图 2　人体系统探究在知识论坛上的主导航工作区
+> [!figure]- 图 2　人体系统探究在知识论坛上的主导航工作区
 > ![](https://img.mylikemie.icu/sources/Zhang_2022_SE/figures/Zhang_2022_SE_Fig2_Home_View.jpg)
 
-> [!figure] 图 3　全班定期总结与反思的“我们知识之最”（BOOK）公共工作区
+> [!figure]- 图 3　全班定期总结与反思的“我们知识之最”（BOOK）公共工作区
 > ![](https://img.mylikemie.icu/sources/Zhang_2022_SE/figures/Zhang_2022_SE_Fig3_BOOK_View.jpg)
 
-> [!figure] 图 5　班级集体探究方向随时间演化与分化的完整历程
+> [!figure]- 图 5　班级集体探究方向随时间演化与分化的完整历程
 > ![](https://img.mylikemie.icu/sources/Zhang_2022_SE/figures/Zhang_2022_SE_Fig5_Temporal_Evolution.jpg)
 
 学生在公共总结区定期复盘“搞懂了什么、还有哪些疑团”，对 16 篇总结笔记的内容编码分析表明，学生的思维呈现出极高的科学严谨度：
@@ -284,7 +284,7 @@ issuing_organization: ""
 
 小组成员围绕眼睛与大脑的连接展开了长达两个月的深层探索，其问题演变与活动轨迹清晰记录了理解的深化过程：
 
-> [!figure] 图 7　眼睛探究小组核心问题、探究活动与理解进展的纵向追踪图
+> [!figure]- 图 7　眼睛探究小组核心问题、探究活动与理解进展的纵向追踪图
 > ![](https://img.mylikemie.icu/sources/Zhang_2022_SE/figures/Zhang_2022_SE_Fig7_Eye_Inquiry_Tracing.jpg)
 
 眼睛小组在探索中形成了四条层层递进的探究线索，逐一攻克了复杂的解剖与生理机制：
@@ -322,7 +322,7 @@ issuing_organization: ""
 > RU：哇……真的变小了！
 > ST：这真的管用！我们通过实验证实了自己的想法！
 
-> [!figure] 图 1　知识论坛中围绕眼睛探究的在线协作讨论工作区
+> [!figure]- 图 1　知识论坛中围绕眼睛探究的在线协作讨论工作区
 > ![](https://img.mylikemie.icu/sources/Zhang_2022_SE/figures/Zhang_2022_SE_Fig1_KF_Discourse_View.jpg)
 
 #### 2. 眼睛小组与其他小组的高频互动打破了信息壁垒，促成了全班紧密互联的分布式知识网络
@@ -342,7 +342,7 @@ issuing_organization: ""
 
 这种广泛的思想交流重塑了班级的社会结构，促成了高度互联的集体认知网络：
 
-> [!figure] 图 6　全班在知识论坛上互相回帖与观点构建的[[Network Analysis|社会网络分析]]图
+> [!figure]- 图 6　全班在知识论坛上互相回帖与观点构建的[[Network Analysis|社会网络分析]]图
 > ![](https://img.mylikemie.icu/sources/Zhang_2022_SE/figures/Zhang_2022_SE_Fig6_Social_Network_Analysis.jpg)
 
 社会网络分析图清楚地表明，全班的交流网络从学期初分散的几个独立小圈子，最终发展成为全班人人紧密互联、没有任何人被边缘化的知识共享网络。

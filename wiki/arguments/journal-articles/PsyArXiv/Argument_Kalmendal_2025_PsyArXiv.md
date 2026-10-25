@@ -256,7 +256,7 @@ issuing_organization: ""
 
 尽管全库整体有约一半的元分析发表于 2010 年之后，但在技术等迭代迅速的领域，文献却严重滞后于时代。
 
-> [!figure] 图 1：全库 322 项影响因素纳入元分析的出版年份分布
+> [!figure]- 图 1：全库 322 项影响因素纳入元分析的出版年份分布
 > ![](https://img.mylikemie.icu/sources/Kalmendal_2025_PsyArXiv/figures/Kalmendal_2025_PsyArXiv_Fig1_Descriptives_of_Publication_Year.jpg)
 > 
 > *图 1 反映出纳入文献年代跨度的极端离散。大量底层研究发表于上世纪八九十年代，在技术类主题中尤为普遍。*

@@ -156,7 +156,7 @@ issuing_organization: ""
 
 为打破稳态与突变的二元割裂，制度变迁必须依据过程与结果的二维属性空间重新分类。（pp. 8–9）
 
-> [!figure] 图 1.1　制度变迁类型：过程与结果
+> [!figure]- 图 1.1　制度变迁类型：过程与结果
 > ![](https://img.mylikemie.icu/sources/Streeck_Thelen_2005_OUP/figures/Streeck_Thelen_2005_OUP_Fig1_1_Types_of_Institutional_Change.png)
 >
 > 矩阵横轴代表变迁结果（延续 vs 断裂），纵轴代表变迁过程（渐进 vs 突发）。左上象限为适应性再生产，左下象限为幸存与回归，右下象限为传统理论关注的崩溃与替代。右上象限代表渐进转型，即看似缓慢零散的边际调整经过长期累积，最终导致整体制度形态与功能发生颠覆性质变。（pp. 8–9）
@@ -180,7 +180,7 @@ issuing_organization: ""
 > [!def] 作为社会规约的制度
 > 制度在本质上是[[Social Regime|社会规约]]（Social Regime），即由社会第三方强制力维系的规约体系，体现了全社会对特定群体行为的合法期待；这一架构将抽象的制度分解为规则制定者（Rule Makers）与规则遵从者（Rule Takers）之间的权力配置与支配关系。（pp. 11–14）
 
-> [!figure] 图 1.2　作为规制的制度
+> [!figure]- 图 1.2　作为规制的制度
 > ![](https://img.mylikemie.icu/sources/Streeck_Thelen_2005_OUP/figures/Streeck_Thelen_2005_OUP_Fig1_2_Institutions_as_Regimes.png)
 >
 > 外圈代表包容制度的社会整体与行使合法惩戒权力的第三方机构（如司法裁判与国家强制力）。内层由规则制定者、成文规则与规则遵守者三方构成。向下箭头代表自上而下的权威约束与规则界定；向上箭头代表基层行动者的变通执行、诉求反馈以及向规则制定者施加的修改压力。制度正是在自上而下的规制与自下而上的实践互动中动态运转的。（pp. 12–14）

@@ -141,7 +141,7 @@ tags:
 > [!def] 价值链依赖测度逻辑与数据基础
 > 研究团队利用涵盖全球双边贸易的 BACI-CEPII 数据库，清洗 2011 年与 2021 年各主要经济体的进出口数据。[[Research Utilization|研究使用]]净进口与出口之比的自然对数计算依赖度：数值大于零意味着该国依靠净进口维持消费，数值越大表明对外依赖越严重；数值小于零则代表贸易顺差。（pp.3–4）
 
-> [!figure] 图 1　美欧数字价值链各环节对外依赖度跨期对比（2011年与2021年）
+> [!figure]- 图 1　美欧数字价值链各环节对外依赖度跨期对比（2011年与2021年）
 > ![](https://img.mylikemie.icu/sources/Bulfone_2024_IAI/figures/Bulfone_2024_IAI_Fig1_Key_Dependencies_Digital_Value_Chain.jpg)
 > 
 > *注：横轴正值代表净进口依赖，负值代表贸易顺差。数据来源：作者基于 BACI-CEPII 数据库测算。（p.4）*
@@ -209,14 +209,14 @@ tags:
 
 在美国，联邦政府作为唯一的出资人与裁决人，直接同申请补贴的跨国与本土芯片巨头谈判，资助分配效率极高。（pp.9–10）
 
-> [!figure] 图 2　美国芯片法案主要投资项目按企业规模分布（2022年8月至2024年2月）
+> [!figure]- 图 2　美国芯片法案主要投资项目按企业规模分布（2022年8月至2024年2月）
 > ![](https://img.mylikemie.icu/sources/Bulfone_2024_IAI/figures/Bulfone_2024_IAI_Fig2_CHIPS_Act_Investment_Announcements_By_Company.jpg)
 > 
 > *注：横轴为各企业承诺投资金额（单位：十亿美元）。数据来源：Jack Conness 数据库。（pp.10–11）*
 
 实证追踪数据显示，美国雄厚的直接资金支持与税收优惠，迅速撬动了全球头部晶圆代工厂与本土科技巨头的大规模重资产投资。（pp.10–11）
 
-> [!figure] 图 3　美国各州因芯片法案拉动的投资总额与创造就业岗位分布
+> [!figure]- 图 3　美国各州因芯片法案拉动的投资总额与创造就业岗位分布
 > ![](https://img.mylikemie.icu/sources/Bulfone_2024_IAI/figures/Bulfone_2024_IAI_Fig3_Investment_Jobs_Generated_By_US_State.jpg)
 > 
 > *注：图 A 为投资额分布，图 B 为直接就业岗位分布。数据来源：Jack Conness 数据库。（p.11）*

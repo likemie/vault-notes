@@ -158,7 +158,7 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 
 面对此种系统性脱节，[[Knowledge Transfer|知识转移]]绝非学术论文发表后的自发扩散过程，必须由专业中介机构承担连接与重构职能。
 
-> [!figure] 图1：[[Clearing House Unterricht\|德国教学研究清算中心]]（CHU）作为研究与实践的中间媒介机构
+> [!figure]- 图1：[[Clearing House Unterricht\|德国教学研究清算中心]]（CHU）作为研究与实践的中间媒介机构
 > ![](https://img.mylikemie.icu/sources/Knogler_2025_BB/figures/Knogler_2025_BB_Fig1_Clearing_House_Unterricht_Brokerage_Model.jpg)
 
 清算中心在教育生态系统中承担枢纽职能，其运行架构由三个有机衔接的功能节点构成：
@@ -187,7 +187,7 @@ journal: "berufsbildung: Zeitschrift für Theorie-Praxis-Dialog"
 
 Hillmayr et al. (2020) 在国际学术期刊 *Computers & Education* 上发表的中学理科数字化工具元分析向 CHU 简要评价（Kurzreview）的转化过程，系统呈现了证据中介加工的技术路径。
 
-> [!figure] 图2：Clearing House Unterricht 对元分析的循证加工示例（左为原始出版物，右为配套简要评价）
+> [!figure]- 图2：Clearing House Unterricht 对元分析的循证加工示例（左为原始出版物，右为配套简要评价）
 > ![](https://img.mylikemie.icu/sources/Knogler_2025_BB/figures/Knogler_2025_BB_Fig2_Meta_Analysis_to_Kurzreview_Translation.jpg)
 
 转译过程将高密度英文计量文献解构重塑为面向德语中小学教师的实践指南《课堂中的数字化工具：有哪些类型以及如何有效应用？》，消除了语言与统计学认知壁垒。

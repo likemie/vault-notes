@@ -187,7 +187,7 @@ updated: 2026-10-22
 > 2008 年由 Routledge 出版、面向海外英语学习者的经典教材《美国文化》（*American Culture: An Anthology*）在开篇指出：“对美国文化的研究已经从探寻[[National Character|民族性格]]或国家认同，转向了专注于美国内部与外部的各种冲突”（Breidlid et al., 2008, p. 3）。
 > 当公民身份被掏空时，大众对归属感与[[Grand Theory|宏大叙事]]的心理渴求被迫转移到体育等世俗部落竞争中，形成了以俱乐部为认同边界的替代性狂热（pp. 193–194）。
 
-> [!figure] 图17-1 2014年美国职业棒球大联盟球队支持度地理分布
+> [!figure]- 图17-1 2014年美国职业棒球大联盟球队支持度地理分布
 > ![](https://img.mylikemie.icu/books/Karp_Zamiska_2025_Technological_Republic/figures/Figure_17-1_Support_US_Major_League_Baseball_Teams_2014.jpg)
 
 ---

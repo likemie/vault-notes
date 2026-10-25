@@ -184,7 +184,7 @@ updated: 2026-10-22
 > [!def] 高质量研究[[Research Utilization\|证据使用]]的理论界定（Rickinson et al., 2020, p. 5; p.185）
 > 在复杂系统内，受个体与组织使能成分的协同融合所支持的、对适切研究证据的深思熟虑参与和实施。
 
-> [!figure] 图9-1：高质量研究证据使用框架（Quality Use of Research Evidence [QURE] Framework, p.186）
+> [!figure]- 图9-1：高质量研究证据使用框架（Quality Use of Research Evidence [QURE] Framework, p.186）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_9-1_Quality_Use_of_Research_Evidence_framework.jpg)
 >
 > **图表说明** QURE 框架以适切研究证据与审慎参与及实施为双核内核，由个体使能构件（技能、心智、关系）与组织使能构件（文化、领导力、基础架构）构成支撑基底，并受外部宏观系统力量持续塑造。（pp.185–189）

@@ -246,7 +246,7 @@ updated: 2026-10-26
 
 公共研发资金的机制创新彻底扭转了高质量教育实验匮乏的历史困局。
 
-> [!figure] 图 1：符合 ESSA 强与中等证据标准的研究数量演进（1988–2017）
+> [!figure]- 图 1：符合 ESSA 强与中等证据标准的研究数量演进（1988–2017）
 > ![](https://img.mylikemie.icu/sources/Slavin_2019_EP/figures/Slavin_2019_EP_Fig1_ESSA_Studies_Growth.jpg)
 
 从 1988 年至 2003 年，符合严格因果标准的教育实证研究数量长期处于低位（每两年仅 0–2 项）；2003 年美国国家[[Institute of Education Sciences|教育科学研究院]]（[[Institute of Education Sciences|IES]]）成立及 2009 年 i3 分层资助计划实施后，小学数学、小学后进生阅读与中学阅读领域的合规严谨研究数量呈现出显著增长态势，到 2016–2017 年已突破每两年 20 项以上。

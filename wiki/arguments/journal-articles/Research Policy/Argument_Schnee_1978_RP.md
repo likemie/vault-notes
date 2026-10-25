@@ -296,7 +296,7 @@ journal: "Research Policy"
 
 半导体产业的突破依赖于核心工程技术人员的自主创业与跨企业流动，公共采购的公平发包与反垄断规制为这一流动提供了生存土壤。
 
-> [!figure] 图1：从[[Bell Labs|贝尔实验室]]衍生出的半导体企业谱系（1952–1967）
+> [!figure]- 图1：从[[Bell Labs|贝尔实验室]]衍生出的半导体企业谱系（1952–1967）
 > ![](https://img.mylikemie.icu/sources/Schnee_1978_RP/figures/Schnee_1978_RP_Fig1_Semiconductor_Firms_Bell_Labs.jpg)
 
 > [!evidence-grid] 半导体人才流动与衍生网络关键证据

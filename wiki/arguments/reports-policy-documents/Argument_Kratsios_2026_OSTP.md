@@ -276,7 +276,7 @@ issuing_organization: "Office of Science and Technology Policy"
 > > 领军企业实验室为顶尖人工智能与半导体科学家开出的薪资相对传统高校的溢价倍数。（p. 5）
 >
 
-> [!figure] 图1　私人部门基础研发的执行者与资助来源
+> [!figure]- 图1　私人部门基础研发的执行者与资助来源
 > ![](https://img.mylikemie.icu/sources/Kratsios_2026_OSTP/figures/Kratsios_2026_OSTP_Fig1_Private_Basic_RD.jpg)
 
 企业研发已深入基础科学核心腹地，其产出的突破性成果表明传统机构界限正在瓦解。
@@ -318,12 +318,12 @@ issuing_organization: "Office of Science and Technology Policy"
 
 全球科技竞争的战略态势已发生根本性逆转，竞争对手在研发总投入与体制动员上已形成全方位挑战。
 
-> [!figure] 图2　按购买力平价计算的国内研发总支出
+> [!figure]- 图2　按购买力平价计算的国内研发总支出
 > ![](https://img.mylikemie.icu/sources/Kratsios_2026_OSTP/figures/Kratsios_2026_OSTP_Fig2_GERD_PPP.jpg)
 
 与此同时，世界主要经济体均在积极重塑科研体制，而美国高比例的外籍科研人才与薄弱的本土转化链条形成了巨大张力。
 
-> [!figure] 图3　授予临时签证持有者的美国博士比例
+> [!figure]- 图3　授予临时签证持有者的美国博士比例
 > ![](https://img.mylikemie.icu/sources/Kratsios_2026_OSTP/figures/Kratsios_2026_OSTP_Fig3_Doctorates_Temporary_Visa.jpg)
 
 若缺乏本土制造生态承接，单纯的科学开放将面临严重的战略外溢。
@@ -367,7 +367,7 @@ issuing_organization: "Office of Science and Technology Policy"
 > [!case] [[Star Scientists|明星科学家]]逝世后的知识垄断打破效应
 > 1980 至 2008 年间，NIH 课题负责人平均年龄自 39 岁攀升至 51 岁，新入选者平均年龄达 42 岁，已显著超越诺贝尔奖级原始创新产出的黄金年龄。生物医学界的实证研究显示，当某领域的[[Star Scientists|明星科学家]]意外离世后，由其学派控制的封闭学术网络被打破，圈外年轻学者发表的论文开始大量涌入，且这些外部成果更易成为该领域的标志性高被引文献。传统学科规模扩大后，注意力往往固化于既有经典文献，严重阻碍了前沿范式的迭代升级（p. 16）。
 
-> [!figure] 图4　首次获得 R01 等效资助的研究者平均年龄
+> [!figure]- 图4　首次获得 R01 等效资助的研究者平均年龄
 > ![](https://img.mylikemie.icu/sources/Kratsios_2026_OSTP/figures/Kratsios_2026_OSTP_Fig4_Age_First_Time_NIH_Investigators.jpg)
 
 [[Seniority Barrier in Academia|学术资历壁垒]]与评审固化共同将青年学者的创新探索推迟。

@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ## 定义
@@ -284,7 +284,6 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Tasdelen and Bodemer (2025)，引自 [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.21"><span class="b4"></span></span>0.21 | $p < .05$ | ZPD 分步自适应微提示 [[Intelligent Tutoring Systems\|ITS]] vs 常规解题 | 小学数学多位数除法步骤解题表现 | $N = 114$ | — | 准实验设计；在学生 ZPD 动态提供微提示促进解题策略内化 |
 > | Feng and Wang (2023)，引自同上 | Hedges' $g$ | <span class="mx-bar ef-bar" title="Hedges' g 0.76"><span class="b15"></span></span>0.76 | $p < .01$ | 具身双语伴读机器人支架 vs 独立听读 | 小学低段英语口语与阅读理解 | $N = 64$ | — | 准实验设计；实体机器人作为更有能力的他人（MKO）提供情感与语言支架 |
-> | Kraft, Blazar and Hogan (2018); Popova et al. (2018) | Cohen's $d$ | 见亚组表 | 极显著提升教学质量 | 针对教师 ZPD 的精准课堂辅导 vs 传统讲座培训 | 教师课堂教学实践与学生标准化成绩 | 60 余项辅导项目元分析；跨国发展中国家教师样本 | — | 证实针对教师实践 ZPD 的一对一形成性辅导远胜大水漫灌式集中培训 |
 
 元分析进一步揭示了 ZPD 自适应支架对基础教育认知发展的宏观效应量。
 

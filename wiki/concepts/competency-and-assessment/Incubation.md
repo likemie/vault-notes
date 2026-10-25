@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -193,7 +193,7 @@ updated: 2026-10-22
 > | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Sio and Ormerod (2009) | <span class="mx-bar ef-bar range" title="Cohen's d 0.29–0.45；取区间中点"><span class="b7"></span></span>0.29–0.45 | [0.20, 0.49] | Cohen's $d$ / 随机效应模型 | $k = 117$ 个实验对比 / $N \approx 4,500$ | **【干预[[Variable\|变量]]】** 实验性插入孕育期间隔期对[[Creative Problem Solving\|创造性问题解决]]表现的总体因果促进效应 | 异质性显著，受任务类型与插入活动强烈调节 | 确立暂时离开问题并从事无关活动对后续[[Creativity\|创造性]]突破产生稳健正向促进 |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 见亚组表 | — | Hedges' $g$ / 多层随机效应模型 | $N = 109$ 个效应量 / $k = 29$ 原生研究 | **【干预周期调节】** [[Creativity Training\|创造力干预]]周期维度的倒 U 型调控效应（短中期集训留出充分孕育空间） | 解释 13.4% 组间方差（$p < .01$） | 证实高密度中短期干预结合后续生活实践孕育能取得最优成效，过长干预导致倦怠递减 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.628"><span class="b13"></span></span>0.628 | [0.446, 0.809] | Hedges' $g$ / 多层随机效应模型 | $N = 109$ 个效应量 / $k = 29$ 原生研究 | **【干预周期调节】** [[Creativity Training\|创造力干预]]周期维度的倒 U 型调控效应（短中期集训留出充分孕育空间） | 解释 13.4% 组间方差（$p < .01$） | 证实高密度中短期干预结合后续生活实践孕育能取得最优成效，过长干预导致倦怠递减 |
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>

@@ -177,7 +177,7 @@ updated: 2026-10-22
 > - **用途** 解释二战期间美军 B-29 轰炸机对东京、名古屋长达数月的地毯式燃烧弹火攻，以及最终投放广岛、长崎原子弹迫使军国主义投降的历史必然性。
 > - **边界** 总体战展示了动能破坏的极限，而战后建立的核均势正是通过将这种不可承受的总体毁灭常态化，倒逼大国放弃直接全面冲突。
 
-> [!figure] 图 4-1　1946–2016 年全球每十万人战阵死亡率演变趋势
+> [!figure]- 图 4-1　1946–2016 年全球每十万人战阵死亡率演变趋势
 > ![](https://img.mylikemie.icu/books/Karp_Zamiska_2025_Technological_Republic/figures/Figure_4-1_Battle_Related_Deaths.jpg)
 
 > [!warrant]- 长和平的威慑支柱与自满风险
@@ -190,7 +190,7 @@ updated: 2026-10-22
 > [!claim] 同盟防务外包与去武力化诱发战略脆弱
 > 长期享受和平红利的西方盟友将安全视作无需付出代价的免费公共品，导致欧洲与亚洲同盟体系陷入严重的常规战力空心化与单方面去武力化困境，反向诱发了地缘战略失衡。([[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025, pp. 41–44]])
 
-> [!figure] 图 4-2　1960–2022 年美欧国防支出占 GDP 比例对比
+> [!figure]- 图 4-2　1960–2022 年美欧国防支出占 GDP 比例对比
 > ![](https://img.mylikemie.icu/books/Karp_Zamiska_2025_Technological_Republic/figures/Figure_4-2_Defense_Spending_GDP.jpg)
 
 > [!factors] 盟国常规防御能力空洞化的关键体制诱因
@@ -248,7 +248,7 @@ updated: 2026-10-22
 > - **[[Peter Thiel|彼得·蒂尔]]论[[Apollo Program|阿波罗计划]]与进步标尺**
 >   彼得·蒂尔（[[Peter Thiel]]）指出，阿波罗登月计划那样激进、非连续且跨维度的科技跃升，而非消费类电子设备（如智能手机）的渐进式改良，才是衡量人类文明真正进步的唯一标尺（pp. 49–50）。
 
-> [!figure] 图 4-3　1900–2014 年美国[[Total Factor Productivity|全要素生产率]]（TFP）增长变迁
+> [!figure]- 图 4-3　1900–2014 年美国[[Total Factor Productivity|全要素生产率]]（TFP）增长变迁
 > ![](https://img.mylikemie.icu/books/Karp_Zamiska_2025_Technological_Republic/figures/Figure_4-3_Total_Factor_Productivity_Growth.jpg)
 
 > [!warrant]- [[Consumer Internet|消费互联网]]狭隘化与全要素生产率停滞的内在关联

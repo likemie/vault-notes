@@ -240,7 +240,7 @@ updated: 2026-10-22
 
 科技突破的历史生动表明，重大创新不是单行道上的单向输出，而是知识在循环中的网络演化。
 
-> [!figure] 图1：信息通信技术领域的创新循环（事件年份标注为红字）
+> [!figure]- 图1：信息通信技术领域的创新循环（事件年份标注为红字）
 > ![](https://img.mylikemie.icu/sources/Narayanamurti_2013_IST/figures/Narayanamurti_2013_IST_Fig1_Discovery_Invention_Cycle_ICT.jpg)
 
 原图所展现的拓扑构架，直观揭示出发明与发现交替互促的动态网络机制。

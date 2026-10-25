@@ -1392,6 +1392,25 @@ def expected_def_title(fm: Dict[str, Any]) -> Optional[str]:
     return title
 
 
+def check_figure_callouts(path: Path, text: str, issues: List[Issue]) -> None:
+    """[!figure] 只放图片或图片占位，固定写 [!figure]- 默认折叠。"""
+    if is_schema_or_workflow_doc(path) or "/templates/" in rel(path) or "[!figure" not in text:
+        return
+    lines = text.split("\n")
+    for i, line in enumerate(lines):
+        m = re.match(r"^> \[!figure(\|[^\]]*)?\]([+-]?)", line)
+        if not m:
+            continue
+        if m.group(2) != "-":
+            issues.append(Issue("ERROR", rel(path), "[!figure] 固定写 [!figure]- 默认折叠", line=i + 1, code="FIGURE_NOT_COLLAPSED"))
+        j = i + 1; body = []
+        while j < len(lines) and lines[j].startswith(">"):
+            body.append(lines[j]); j += 1
+        has_img = any("![" in b or "<img" in b for b in body)
+        if not has_img and not any("待上传" in b or "待补" in b for b in body):
+            issues.append(Issue("ERROR", rel(path), "[!figure] 只放图片或图片占位（写“原文图 X：图名（待上传）”）；文字、表格、框架改用对应 callout", line=i + 1, code="FIGURE_NO_IMAGE"))
+
+
 def check_def_title(path: Path, text: str, issues: List[Issue]) -> None:
     """正文第一个 callout 是 [!def] 时，它是条目的主定义，标题统一写条目名称。"""
     if is_schema_or_workflow_doc(path) or "/templates/" in rel(path) or yaml is None:
@@ -3712,6 +3731,7 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_effect_tables(path, text, issues)
     check_retired_headings(path, text, issues)
     check_def_title(path, text, issues)
+    check_figure_callouts(path, text, issues)
     check_axis_callouts(path, text, issues)
     check_stat_card_titles(path, text, issues)
     check_markdown_misc(path, text, issues)

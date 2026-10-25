@@ -120,7 +120,7 @@ citation_aliases:
 > | **政策创业与跨国倡导（Mintrom, 2000; Ball, 2012）**<br>[[Policy Entrepreneur\|政策创业者]] / [[Policy Network\|政策网络]] | 解释具备专业威望的学者或专家如何抓住[[Policy Window\|政策窗口]]，将个人研究包装为标准化的改革方案，同时获取政策[[Discourse\|话语]]权与商业回报。（pp.65–70） |
 > | **风险慈善理论（Scott, 2009; Ball, 2012）**<br>[[Venture Philanthropy\|风险慈善]] / [[Philanthrocapitalism\|资本主义慈善]] | 分析现代基金会不再单纯提供救济金，而是像风险投资机构一样深度干预学校办学，要求量化评估并寻求成效扩散的运作逻辑。（pp.46–48, 54–57） |
 
-> [!figure] 图1：组织单元形式与关系处理方式矩阵（Thompson, 1991）
+> [!figure]- 图1：组织单元形式与关系处理方式矩阵（Thompson, 1991）
 > ![](https://img.mylikemie.icu/sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig1_Organisational_Forms_Thompson.jpg)
 
 > [!warrant]- 理论如何支撑论证
@@ -487,13 +487,13 @@ citation_aliases:
 > - **NZ\$1.215B** 北方基金会在 2015 年末积累留存的庞大净资产规模。（p.112）
 > - **NZ\$0 → NZ\$4.55M** [[KidsCan|儿童之友]]（KidsCan）账面留存净资产在 2007 至 2015 年间实现的快速增长。（p.130）
 
-> [!figure] 图2-3：教育慈善机构总收入分布图（数量与占比）
+> [!figure]- 图2-3：教育慈善机构总收入分布图（数量与占比）
 > ![](https://img.mylikemie.icu/sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig2_3_Educational_Charities_Income.jpg)
 
-> [!figure] 图4-5：教育慈善机构总支出分布图（数量与占比）
+> [!figure]- 图4-5：教育慈善机构总支出分布图（数量与占比）
 > ![](https://img.mylikemie.icu/sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig4_5_Educational_Charities_Expenditure.jpg)
 
-> [!figure] 图6-7：教育慈善机构总资产分布图（数量与占比）
+> [!figure]- 图6-7：教育慈善机构总资产分布图（数量与占比）
 > ![](https://img.mylikemie.icu/sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig6_7_Educational_Charities_Assets.jpg)
 
 ---

@@ -138,7 +138,7 @@ updated: 2026-10-22
 >     F --> G
 > ```
 
-> [!figure] 图1-1 制度变迁模式的因果解释框架
+> [!figure]- 图1-1 制度变迁模式的因果解释框架
 > ![](https://img.mylikemie.icu/books/Mahoney_Thelen_2009_Cambridge/figures/Figure_1-1_Explaining_Modes_of_Institutional_Change.jpg)
 
 ---

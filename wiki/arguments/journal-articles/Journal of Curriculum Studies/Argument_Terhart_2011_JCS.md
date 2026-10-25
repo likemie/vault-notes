@@ -169,7 +169,7 @@ journal: "Journal of Curriculum Studies"
 > | **总计** | 816 | 52,649 | 83,033,433 | 146,626 | — |
 > | **均值** | — | — | — | — | 0.40 |
 
-> [!figure] 图1　[[Direct Instruction|直接教学]]影响气压计
+> [!figure]- 图1　[[Direct Instruction|直接教学]]影响气压计
 > ![](https://img.mylikemie.icu/sources/Terhart_2011_JCS/figures/Terhart_2011_JCS_Fig1_Barometer_of_Influence.jpg)
 
 > [!spectrum] 影响气压计的四级效应区间
@@ -215,7 +215,7 @@ journal: "Journal of Curriculum Studies"
 > - **激活者优势显著压倒促进者** 教师作为激活者（$d = 0.60$）的合并效应量远高于作为促进者（$d = 0.17$），为反驳激进[[Constructivist Instruction|建构主义教学法]]提供了量化经验依据。
 > - **实证结论实质印证既有共识** [[Constructivist Paradigm|建构主义]]属于关于认知的学习心理学理论，不可直接外推为自由放任的具体教学形式；强调教师主导与结构化指导实为主流教学论数十年的既有常识，缺乏理论突破。
 
-> [!figure] 图2　可见的教与学模型
+> [!figure]- 图2　可见的教与学模型
 > ![](https://img.mylikemie.icu/sources/Terhart_2011_JCS/figures/Terhart_2011_JCS_Fig2_Visible_Teaching_Learning_Model.jpg)
 
 教与学模型以眼睛为核心象征，强调教师通过学生的眼睛看教学、学生将自己视为自身的教师。从权力哲学视角审视，这一视觉隐喻展现出深层的微观规训机制。

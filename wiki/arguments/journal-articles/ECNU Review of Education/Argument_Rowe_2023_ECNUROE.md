@@ -176,7 +176,7 @@ updated: 2026-10-23
 
 跨国资本的治理雄心与金融化[[Discourse|话语]]，直接驱动了全澳范围内以 [[Social Ventures Australia|SVA]] 为核心的[[Policy Network|政策网络]]拓扑构建。
 
-> [!figure] 图1：[[Social Ventures Australia\|SVA]] 及其广泛的资助者、合作伙伴与捐助者[[Policy Network\|政策网络]]拓扑
+> [!figure]- 图1：[[Social Ventures Australia\|SVA]] 及其广泛的资助者、合作伙伴与捐助者[[Policy Network\|政策网络]]拓扑
 > ![](https://img.mylikemie.icu/sources/Rowe_2023_ECNUROE/figures/Rowe_2023_ECNUROE_Fig1_SVA_Expansive_Network.jpg)
 
 #### 2. 现代国家并未空心化退场而是通过行政外包与特许赋权演进为异层市场缔造者
@@ -284,7 +284,7 @@ SVA 作为政策网络中枢，凭借严密的法人架构与跨国金融咨询�
 
 通过追踪资金、人员与[[Policy Mobility|政策流动]]，整个网络呈现出高度一致的利益共同体特征。
 
-> [!figure] 图2：追踪人员、政策与资金流动拓扑
+> [!figure]- 图2：追踪人员、政策与资金流动拓扑
 > ![](https://img.mylikemie.icu/sources/Rowe_2023_ECNUROE/figures/Rowe_2023_ECNUROE_Fig2_Following_People_Policy_Money.jpg)
 
 ---

@@ -63,7 +63,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -192,7 +192,7 @@ updated: 2026-10-22
 >
 > | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 见亚组表 | — | Cohen's $d$，随机效应模型 | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | 干预措施分类：显性可靠过程教学（[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]） vs 开放非结构化探究（PBL 与自由论证） | 框架组间差异 $Q_b = 17.491, p < .01$ | 实证证实显性示范并讲授可靠认知检验规程能产生高效应，而缺乏指导的自主探究效果微弱且未达显著性 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.509"><span class="b10"></span></span>0.509 | — | Cohen's $d$，随机效应模型 | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | 干预措施分类：显性可靠过程教学（[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]） vs 开放非结构化探究（PBL 与自由论证） | 框架组间差异 $Q_b = 17.491, p < .01$ | 实证证实显性示范并讲授可靠认知检验规程能产生高效应，而缺乏指导的自主探究效果微弱且未达显著性 |
 
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>

@@ -201,12 +201,12 @@ issuing_organization: ""
 
 自 1962 年向突尼斯发放首笔 500 万美元中等技术教育贷款以来，世界银行教育信贷呈现出波动增长的历时轨迹。
 
-> [!figure] 图 1　世界银行教育借贷总额跨期演进（1962–2010年）
+> [!figure]- 图 1　世界银行教育借贷总额跨期演进（1962–2010年）
 > ![](https://img.mylikemie.icu/sources/Zapp_2017_IJED/figures/Zapp_2017_IJED_Fig1_Amount_of_World_Bank_Education_Lending_1962-2010.jpg)
 
 教育贷款在全行借贷大盘中的相对份额展现出鲜明的阶段性起伏，折射出多边资本供给模式的深层瓶颈。
 
-> [!figure] 图 2　教育借贷占世界银行总借贷资金比例跨期变动（1962–2010年）
+> [!figure]- 图 2　教育借贷占世界银行总借贷资金比例跨期变动（1962–2010年）
 > ![](https://img.mylikemie.icu/sources/Zapp_2017_IJED/figures/Zapp_2017_IJED_Fig2_Education_Percentage_of_Total_World_Bank_Lending_1962-2010.png)
 
 纵向借贷数据揭示出世界银行单纯依靠资本扩张的制度天花板，促成了从信贷干预向理念引领的深层逻辑推导：
@@ -272,12 +272,12 @@ issuing_organization: ""
 
 世界银行出版物组合在过去三十年间经历了结构性转型，从早期的政策白皮书演变为高度学术化的专著与工作文稿库。
 
-> [!figure] 图 3　世界银行全行出版物组合演变趋势（1978–2006年）
+> [!figure]- 图 3　世界银行全行出版物组合演变趋势（1978–2006年）
 > ![](https://img.mylikemie.icu/sources/Zapp_2017_IJED/figures/Zapp_2017_IJED_Fig3_WB_Publication_Portfolio_Evolution_1978-2006.png)
 
 Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的惊人发表增长。
 
-> [!figure] 图 4　世界银行教育领域学术出版物规模演化趋势（1977–2013年，基于 Scopus）
+> [!figure]- 图 4　世界银行教育领域学术出版物规模演化趋势（1977–2013年，基于 Scopus）
 > ![](https://img.mylikemie.icu/sources/Zapp_2017_IJED/figures/Zapp_2017_IJED_Fig4_WB_Publications_in_Education_1977-2013.png)
 
 多源文献计量数据表明，世界银行的学术生产在总量规模、学科分布与产出强度上形成了超越传统顶尖大学的显著特征：
@@ -322,7 +322,7 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 
 1978 至 2013 年间历届《世界发展报告》与《教育部门战略》的引文网络计量分析，呈现出鲜明的实证自指倾向：
 
-> [!figure] 图 5　世界银行核心教育出版物的引文来源分布结构
+> [!figure]- 图 5　世界银行核心教育出版物的引文来源分布结构
 > ![](https://img.mylikemie.icu/sources/Zapp_2017_IJED/figures/Zapp_2017_IJED_Fig5_Reference_Pattern_in_Key_WB_Education_Publications.jpg)
 
 图 5 引文网络计量解构揭示出世界银行核心文献演进中的两重深层偏向：
@@ -363,7 +363,7 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 
 除了直接借贷外，包含教育构件的项目在世行多边业务中持续扩散。
 
-> [!figure] 图 6　包含教育构件的项目总数跨期演化趋势（1962–2010年）
+> [!figure]- 图 6　包含教育构件的项目总数跨期演化趋势（1962–2010年）
 > ![](https://img.mylikemie.icu/sources/Zapp_2017_IJED/figures/Zapp_2017_IJED_Fig6_Total_Projects_with_an_Education_Component_1962-2010.png)
 
 图 6 显示，进入 2000 年代后包含教育构件的项目达到每年逾 120 个的历史高峰，教育方案广泛嵌入跨部门治理之中；在此基础之上，世界银行通过双重声誉机制固化特定政策知识的文化合法性：

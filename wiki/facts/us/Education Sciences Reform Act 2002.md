@@ -76,10 +76,10 @@ updated: 2026-10-22
 > - **政策工具** 设立独立的教育科学研究院（IES）并由任期六年的法定院长领导；重构同行评议与资助规程；确立以“科学本位研究标准”为核心的联邦资助门槛。
 > - **约束机制** 严格限制仅资助符合法定科学标准的项目；对于[[Causality|因果推断]]主张，法定要求采用[[Random Assignment|随机分配]]实验或能够充分排除合理解释的其他设计；严格执行独立专家同行评议机制。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–36)]]
 
-> [!figure] 图 1　初始卡斯尔草案（H.R. 4875, 2000）将[[Qualitative Research|质性研究]]贬低为“初步形式”的条文
+> [!figure]- 图 1　初始卡斯尔草案（H.R. 4875, 2000）将[[Qualitative Research|质性研究]]贬低为“初步形式”的条文
 > ![](https://img.mylikemie.icu/sources/Eisenhart_Towne_2003_ER/figures/Eisenhart_Towne_2003_ER_Fig1_Castle_Bill_HR4875_Standards.jpg)
 
-> [!figure] 图 2　ESRA 2002 法定科学本位研究标准（Section 102(18)）
+> [!figure]- 图 2　ESRA 2002 法定科学本位研究标准（Section 102(18)）
 > ![](https://img.mylikemie.icu/sources/Eisenhart_Towne_2003_ER/figures/Eisenhart_Towne_2003_ER_Fig4_ESRA_Research_Standards.jpg)
 
 > [!row-contrast] 卡斯尔草案与正式《教育科学改革法》条文演进对比（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 33–36]]）

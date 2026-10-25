@@ -84,7 +84,7 @@ updated: 2026-10-22
 >
 > *Factors are processes or means by which the particular activity influences research use. Mechanisms enable and barriers hinder the use of evidence in policy making and practice... Interventions are deliberate actions or plans to enhance the use of research evidence, addressing genuine barriers to research uptake and drawing on mechanisms which are likely to affect it. Strategy is a concrete and wider action plan commonly based on more than one of these interventions.*
 
-> [!figure] 图 5-1　概念心智模型：影响教育研究利用的要素层级关系
+> [!figure]- 图 5-1　概念心智模型：影响教育研究利用的要素层级关系
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_5-1_Mindmap_of_concepts.jpg)
 
 ---

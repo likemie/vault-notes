@@ -159,7 +159,7 @@ publisher: "U.S. Department of Commerce"
 > - **立法授权与部际协同** 依据《2021 财年国防授权法案》第 99 编及《2022 年芯片与科学法案》，商务部长协同国防部长、能源部长与国家科学基金会（[[National Science Foundation]], NSF）主任共同建立 NSTC，统筹 110 亿美元国家级半导体先进研发预算。（pp. 2–3, 26）
 > - **公私联合体属性** NSTC 采取公私合作联合体模式，兼顾国家安全硬性需求与商业半导体市场的敏捷创新活力。（pp. 3–5）
 
-> [!figure] 图 1　国家半导体技术中心使命宣言架构
+> [!figure]- 图 1　国家半导体技术中心使命宣言架构
 > ![](https://img.mylikemie.icu/sources/NIST_2023_NSTC/figures/NIST_2023_NSTC_Fig1_Mission_Statement.jpg)
 
 #### 2. 延长技术领导力、降低原型验证成本与维系人才生态构成相互支撑的三大核心支柱
@@ -182,7 +182,7 @@ publisher: "U.S. Department of Commerce"
 
 研发流水线的畅通需要消除从实验室原型到规模化量产之间的结构性断层。
 
-> [!figure] 图 2　扩大跨越[[Valley of Death|死亡之谷]]的半导体创新转化漏斗
+> [!figure]- 图 2　扩大跨越[[Valley of Death|死亡之谷]]的半导体创新转化漏斗
 > ![](https://img.mylikemie.icu/sources/NIST_2023_NSTC/figures/NIST_2023_NSTC_Fig2_Innovation_Pipeline_Valley_of_Death.jpg)
 
 #### 1. 概念验证与规模量产之间的工艺断层构成了微电子研发的核心堵点
@@ -197,7 +197,7 @@ publisher: "U.S. Department of Commerce"
 
 各部门依托技术就绪度梯次推进，实现了基础研究向商业量产的闭环接力。
 
-> [!figure] 图 3　美国各联邦研发计划在芯片创新各阶段的分工图谱
+> [!figure]- 图 3　美国各联邦研发计划在芯片创新各阶段的分工图谱
 > ![](https://img.mylikemie.icu/sources/NIST_2023_NSTC/figures/NIST_2023_NSTC_Fig3_Stages_of_Innovation_Across_Programs.jpg)
 
 #### 2. 商务部与国防部等多部门协同明确了基础探索、敏捷原型与共性中试的职责分工
@@ -277,7 +277,7 @@ publisher: "U.S. Department of Commerce"
 
 治理结构的设计必须在政府战略把关、产业敏捷响应与学术中立探索之间取得动态平衡。
 
-> [!figure] 图 4　国家半导体技术中心运营与治理架构模型
+> [!figure]- 图 4　国家半导体技术中心运营与治理架构模型
 > ![](https://img.mylikemie.icu/sources/NIST_2023_NSTC/figures/NIST_2023_NSTC_Fig4_Operational_Structure_NSTC.jpg)
 
 #### 1. 设立独立非营利运营商 [[Natcast]] 能够有效防范利益冲突并实现多方共治

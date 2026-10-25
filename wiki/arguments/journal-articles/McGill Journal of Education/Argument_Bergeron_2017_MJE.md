@@ -247,10 +247,10 @@ journal: McGill Journal of Education
 
 四组期末成绩与前后差值的分布形态揭示了公式背后的度量机制差异。
 
-> [!figure] 图 1　四组期末成绩分布曲线
+> [!figure]- 图 1　四组期末成绩分布曲线
 > ![](https://img.mylikemie.icu/sources/Bergeron_2017_MJE/figures/Bergeron_2017_MJE_Fig1_Grade_Distribution.jpg)
 
-> [!figure] 图 2　四组前后成绩差值分布曲线
+> [!figure]- 图 2　四组前后成绩差值分布曲线
 > ![](https://img.mylikemie.icu/sources/Bergeron_2017_MJE/figures/Bergeron_2017_MJE_Fig2_Distribution_Differences.jpg)
 
 #### 2. 相对离散度消除与一致性测量导致维度流失

@@ -278,7 +278,7 @@ sources:
 
 为彻底破除自左向右推挤知识的单向心理惯性，证据生态模型通过构图反转确立了需求牵引的分析拓扑：（p. 148）
 
-> [!figure] Figure 7.1 [[Evidence Ecosystem\|证据生态系统]]双层嵌套模型（Figure 7.1, p. 148）
+> [!figure]- Figure 7.1 [[Evidence Ecosystem\|证据生态系统]]双层嵌套模型（Figure 7.1, p. 148）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_7-1_Evidence_ecosystem.jpg)
 >
 > **证据生态系统双层结构要素（Adapted from Gough et al., 2011, 2018）**

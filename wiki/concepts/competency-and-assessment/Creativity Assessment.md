@@ -109,7 +109,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -288,7 +288,7 @@ updated: 2026-10-22
 >
 > | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 $M$ / $E$ / $k$ / $N$ | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 见亚组表 | — | 皮尔逊相关 $r$ / 多水平 CHE + RVE | $M = 52$；$E = 164$；$k = 2609$；$N = 1,248,416$ | **[[Independent Variable\|预测变量]] vs 结果变量** 创造力测量在全领域二阶元分析中的角色不对称性 | 角色主效应 $F(1, 45.4) = 9.43, p = .007$ | 创造力测量具有强外部成就预测力，但作为结果变量时受效标噪声制约 |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | <span class="mx-bar ef-bar conv" title="r 0.17 → d ≈ 0.35（d = 2r / √(1 − r²)）"><span class="b7"></span></span>0.17 | [0.11, 0.22] | 皮尔逊相关 $r$ / 多水平 CHE + RVE | $M = 52$；$E = 164$；$k = 2609$；$N = 1,248,416$ | **[[Independent Variable\|预测变量]] vs 结果变量** 创造力测量在全领域二阶元分析中的角色不对称性 | 角色主效应 $F(1, 45.4) = 9.43, p = .007$ | 创造力测量具有强外部成就预测力，但作为结果变量时受效标噪声制约 |
 
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>

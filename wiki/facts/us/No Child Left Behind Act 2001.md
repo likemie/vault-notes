@@ -134,7 +134,7 @@ updated: 2026-10-22
 > - **规制型治理进路（Regulatory Approach）** 法案采取了典型的规制型政策进路，设定强制性法定框架以监督并纠正违规办学行为；将[[Scientifically Based Research|基于科学的研究]]与单一量化达标作为拨款准入的硬性门槛，明确规定了严苛的不达标惩戒后果。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, p. 41)]]
 > - **约束机制** 实行严格的学年[[Adequate Yearly Progress|充分学业进展]]（Adequate Yearly Progress, AYP）绩效问责制；对连续未达标学校实施阶梯式行政与财务制裁（包括学生转学、补充教育服务、重组管理层直至学校关闭）；要求获得联邦资助的教学项目必须严格符合“[[Scientifically Based Research|科学本位研究]]”标准。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254)]]
 
-> [!figure] 图 1　NCLB 法案中关于科学本位研究的法定定义（Title IX, Sec. 9101(37)）
+> [!figure]- 图 1　NCLB 法案中关于科学本位研究的法定定义（Title IX, Sec. 9101(37)）
 > ![](https://img.mylikemie.icu/sources/Eisenhart_Towne_2003_ER/figures/Eisenhart_Towne_2003_ER_Fig3_NCLB_Definition_SBR.jpg)
 
 > [!citation-card] 科学本位研究法定定义

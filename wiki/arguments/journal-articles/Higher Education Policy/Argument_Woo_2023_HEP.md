@@ -210,12 +210,12 @@ sources:
 
 跨国教育活动在空间与主体两个轴向上形成了多层次分布图景。
 
-> [!figure] 图1：一带一路教育核心组成维度
+> [!figure]- 图1：一带一路教育核心组成维度
 > ![](https://img.mylikemie.icu/sources/Woo_2023_HEP/figures/Woo_2023_HEP_Fig1_Key_Components_of_BRI_Education.jpg)
 
 该分析进路建立在对费尔克拉夫三维模型的政策学改造基础之上。
 
-> [!figure] 图2：政策分析的[[Critical Discourse Analysis|批判性话语分析]]三维模型
+> [!figure]- 图2：政策分析的[[Critical Discourse Analysis|批判性话语分析]]三维模型
 > ![](https://img.mylikemie.icu/sources/Woo_2023_HEP/figures/Woo_2023_HEP_Fig2_CDA_Policy_Analysis_Framework.jpg)
 
 #### 2. 依托境外独立办学与多边联盟推进高教出海
