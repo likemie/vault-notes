@@ -46,17 +46,17 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 联合国教科文组织-经合组织-欧盟统计局联合数据收集机制（UNESCO-OECD-Eurostat Data Collection, UOE）是三大国际组织自 1993 年起共同建立并维持运行的全球核心跨国教育行政统计数据基础设施。该机制通过统一问卷规程与标准分类，从源头上消除了重复填报负担，为全球教育监测与欧盟超国家治理提供了底层共享的数据基石。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–33)]]
+> [[UNESCO|联合国教科文组织]]-[[OECD|经合组织]]-[[EU|欧盟]]统计局联合数据收集机制（UNESCO-OECD-Eurostat Data Collection, UOE）是三大国际组织自 1993 年起共同建立并维持运行的全球核心跨国教育行政统计[[Data Infrastructure|数据基础设施]]。该机制通过统一[[Questionnaire|问卷]]规程与标准分类，从源头上消除了重复填报负担，为全球教育监测与欧盟超国家治理提供了底层共享的数据基石。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–33)]]
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 1993 年正式签署三方合作备忘录并启动首轮联合数据收集，常态化按年度运行至今。
-> - **发起方与管理机制** 由[[UNESCO|联合国教科文组织]]统计研究所（UIS）、[[OECD|经合组织]]（OECD）教育局国家教育指标系统（INES）与[[EU|欧盟]]统计局（Eurostat）三方联合管理，经合组织担任主要技术协调方。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 32)]]
+> - **立项时间 / 周期** 1993 年正式签署[[Triangular Cooperation|三方合作]]备忘录并启动首轮联合数据收集，常态化按年度运行至今。
+> - **发起方与管理机制** 由[[UNESCO|联合国教科文组织]]统计研究所（[[UNESCO Institute for Statistics|UIS]]）、[[OECD|经合组织]]（OECD）教育局国家[[Performance Indicators|教育指标]]系统（[[International Indicators of Education Systems|INES]]）与[[EU|欧盟]]统计局（Eurostat）三方联合管理，经合组织担任主要技术协调方。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 32)]]
 > - **覆盖范围与对象** 覆盖 OECD 全体成员国、欧盟全体成员国及伙伴国家，采集从学前教育到高等教育的全学段国家级行政统计。
 > - **核心问题导向** 克服 1980 年代以前各国际机构数据口径不一、统计定义冲突及各国教育部多头填报的制度弊端，构建统一的跨国教育等价空间。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24, 32)]]
 
@@ -67,7 +67,7 @@ updated: 2026-10-22
 
 > [!policy-design] 方案设计
 > - **采集维度** 涵盖各学段入学人数、毕业生规模、按年龄与性别的在读人口分布、教职工数量、师生比及详细的公共与私人教育财政支出。
-> - **技术基准** 严格依循国际教育标准分类法（ISCED）进行学段映射，由三方联合编制发布《UOE 数据收集操作手册》（UOE Data Collection Manual）。
+> - **技术基准** 严格依循[[International Education|国际教育]]标准分类法（ISCED）进行学段映射，由三方联合编制发布《UOE 数据收集操作手册》（UOE Data Collection Manual）。
 > - **数据流转机制** 各国国家统计局或教育部每年只需填写一套电子数据表格（UOE Questionnaires），经统一清洗校验后存入中央数据库供三方机构直接调用。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–33)]]
 
 > [!citation-card] 欧洲决策官员论 UOE 数据集在超国家治理中的核心支撑
@@ -80,10 +80,10 @@ updated: 2026-10-22
 > [!dev-timeline] 项目推进历程
 > - **1990 年代初 — 体系创设与规范化奠基**
 >   - 1993 年正式合并原本分散的跨国教育问卷，推出首版三方共享的 UOE 数据收集体系。
-> - **2000 年代 — 嵌入欧盟里斯本战略与治理扩张**
->   - 伴随[[Lisbon Strategy|里斯本战略]]启动，UOE 数据集成为欧盟委员会向欧洲理事会呈报年度教育指标报告的支柱（支撑 50%–60% 基础数据），确立跨机构治理共生同盟。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 32)]]
+> - **2000 年代 — 嵌入欧盟[[Lisbon Strategy|里斯本战略]]与治理扩张**
+>   - 伴随[[Lisbon Strategy|里斯本战略]]启动，UOE 数据集成为[[European Commission|欧盟委员会]]向欧洲理事会呈报年度教育指标报告的支柱（支撑 50%–60% 基础数据），确立跨机构治理共生同盟。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 32)]]
 > - **2010 年代至今 — 对接 ISCED 2011 与自动化审计升级**
->   - 适配全新的 ISCED 2011 分类法，引入在线数据校验平台（EDAMIS），数据向联合国 2030 可持续发展目标（SDG 4）监测深度对接。
+>   - 适配全新的 ISCED 2011 分类法，引入在线数据校验平台（EDAMIS），数据向联合国 2030 [[UN Sustainable Development Goals|可持续发展目标]]（SDG 4）监测深度对接。
 
 ---
 
@@ -97,7 +97,7 @@ updated: 2026-10-22
 
 > [!indicators] 评价指标
 > - **数据覆盖广度** 覆盖 40 多个工业化国家及数十个中等收入经济体，成为全球公信力最高的宏观教育统计源。
-> - **报告采信率** 直接支撑《教育概览》（[[Education at a Glance]]）、欧盟《教育与培训监测报告》（Education and Training Monitor）及联合国全球教育监测报告。
+> - **报告采信率** 直接支撑《[[Education at a Glance|教育概览]]》（[[Education at a Glance]]）、欧盟《教育与培训监测报告》（Education and Training Monitor）及联合国[[Global Education Monitoring Report|全球教育监测报告]]。
 
 > [!finding-cards] 关键体制效应
 > - **奠定超国家治理的客观性基石** UOE 数据集消除了跨国数字争议，使得国际组织能够以高权威、无争议的量化事实约束成员国政策论述。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24, 32)]]
@@ -115,7 +115,7 @@ updated: 2026-10-22
 > > 围绕 UOE 数据集的治理属性存在关键评述。
 > >
 > > - **官方技术中立论** 强调基础统计数据完全中立客观，不同机构只是根据自身法定职权研发差异化的数据衍生品。
-> > - **批判政策社会学审视** 强调统计收集的分类标准（如把教育开支区分为消费或投资）本身就内生了新自由主义人力资本假设，具有深刻的政策导向性。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–34)]]
+> > - **批判政策社会学审视** 强调统计收集的分类标准（如把教育开支区分为消费或投资）本身就内生了新自由主义[[Human Capital Theory|人力资本]]假设，具有深刻的政策导向性。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–34)]]
 
 ---
 
@@ -131,7 +131,7 @@ updated: 2026-10-22
 > | [[International Indicators of Education Systems]] | Fact (Program) | 经合组织统筹协调 UOE 数据收集的核心母体指标项目（INES）。 |
 > | [[Education at a Glance]] | Fact (Program) | 基于 UOE 数据集编制出版的经合组织年度旗舰指标报告。 |
 > | [[Data Infrastructure]] | Concept | UOE 联合数据收集机制所属的跨国制度形态。 |
-> | [[Governing by Numbers]] | Concept | 揭示 UOE 宏观统计如何成为欧洲软性治理资源的理论范式。 |
+> | [[Governing by Numbers]] | Concept | 揭示 UOE 宏观统计如何成为欧洲软性治理资源的理论[[Paradigm\|范式]]。 |
 > | [[Performance Indicators]] | Concept | UOE 数据最终被提炼转化出的核心政策监测工具。 |
 > | [[Sotiria Grek]] | Person | 实证揭示 UOE 数据集支撑欧盟里斯本指标 50%–60% 份额的学者。 |
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 剖析 UOE 数据集如何促成欧盟与经合组织跨机构治理共生的关键论证。 |

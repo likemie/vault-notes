@@ -45,14 +45,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景与历史动因
 > - **发布时间 / 发布主体** 2025 年 5 月由美国总统签署发布四项核能监管改革行政令（Four Nuclear Energy Executive Orders），被科技政策界称为“一代人以来最全面的联邦核能监管[[Liberalization|自由化]]改革”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 37)]]
-> - **适用范围与主管机构** 美国核管理委员会（Nuclear Regulatory Commission）、[[Department of Energy|美国能源部]]（Department of Energy, DOE）、美国国防部（Department of Defense, DoD）以及全美先进裂变与微堆研发企业。
+> - **适用范围与主管机构** 美国核管理委员会（Nuclear Regulatory Commission）、[[Department of Energy|美国能源部]]（Department of Energy, DOE）、[[Department of Defense|美国国防部]]（Department of Defense, DoD）以及全美先进裂变与微堆研发企业。
 > - **历史困境与规制瘫痪** 美国曾是民用核反应堆技术的全球发源地与领导者，但随后陷入长达数十年的规制瘫痪（Regulatory Paralysis）。先进反应堆研发公司在浇筑第一罐水泥前，需耗费 5 至 6 年进行“预申请讨论”，设计认证还需再耗费 4 年以上；某商业公司为单一堆型提交了 1.2 万页申请和逾 200 万页技术支撑文件，能源部为辅助该审批耗资超 6 亿美元；其后还面临联合建造与运行执照（Combined License, COL）审议、强制公开听证与无休止的建造检查，导致私营资本彻底失去新建先进反应堆的意愿。
 > - **战略驱动力** 驱动此次改革的核心动力并非仅源于核能产业自身诉求，而是源于人工智能（AI）数据中心超大规模基荷电力需求、制造业回流以及清洁能源供应链自主可控的国家战略紧迫感。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 36)]]
 
@@ -62,7 +62,7 @@ updated: 2026-10-22
 > 四项行政令旨在破除导致核反应堆建造不经济的审批时间壁垒，要求美国核管理委员会（Nuclear Regulatory Commission）在 18 个月内彻底修订现行规章，为新建造申请设定具有法律约束力的许可时间上限，为能源部或军方已测试反应堆建立加速通道，并在监管裁量中强制将核能对国家经济与安全的重大收益纳入法定权衡。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 37)]]
 
 > [!policy-design] 政策工具与结构设计
-> - **法定许可时间上限与 18 个月修规期限** 强制 NRC 在 18 个月内重构审批流程，设定明确的执照审查时间上限，杜绝无休止的行政拖延。
+> - **法定许可时间上限与 18 个月修规期限** 强制 [[National Research Council|NRC]] 在 18 个月内重构审批流程，设定明确的执照审查时间上限，杜绝无休止的行政拖延。
 > - **已测试堆型加快批准通道（Expedited Pathways）** 凡经能源部国家实验室试验台或国防部原型验证的先进反应堆设计，直接进入快速通道，免除重复性的基础物理认证。
 > - **重塑监管风险-收益权衡[[Paradigm|范式]]（Risk-Benefit Balance）** 打破传统仅单向关注辐射暴露极小化风险的教条，强制 NRC 将清洁基荷电力对经济增长、电网韧性与国家安全保障的巨大收益纳入法定权衡。
 > - **现有核电机组功率提升（Uprates）目标** 指示能源部与监管机构协同，促成现有在役核反应堆实现 **5 吉瓦（GW）** 的整体功率提升。

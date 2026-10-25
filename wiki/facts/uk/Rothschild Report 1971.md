@@ -16,7 +16,7 @@ fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
-issuing_organization: Cabinet Office, Central Policy Review Staff
+issuing_organization: "[[Cabinet Office]], Central Policy Review Staff"
 tags:
   - region/uk
   - theme/science-policy
@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -74,7 +74,7 @@ updated: 2026-10-22
 > - **1972** 英国政府发布白皮书（Cmnd 5046）正式采纳罗斯柴尔德原则，开始向各部委划拨科研采购预算。
 > - **1970s–1990s** 各部委逐步设立首席科学顾问（CSAs），公共部门科研机构（PSREs）经历私有化、独立化或缩编转型。
 > - **2007** 设立[[Government Office for Science\|政府科学办公室]]（Government Office for Science, GO-Science），强化跨部委首席科学顾问的协同网络。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
-> - **2026** 英国皇家学会《科学为社会》报告回顾罗斯柴尔德报告以来的 50 年制度演进，指出市场化采购模式虽提升了多元性，但过度压缩了公共机构长期科研能力与基础设施的可持续性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 80, 82)]]
+> - **2026** [[Royal Society|英国皇家学会]]《科学为社会》报告回顾罗斯柴尔德报告以来的 50 年制度演进，指出市场化采购模式虽提升了多元性，但过度压缩了公共机构长期科研能力与基础设施的可持续性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 80, 82)]]
 
 ---
 

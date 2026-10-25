@@ -15,7 +15,7 @@ fact_related_count: 47
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: European Commission
+issuing_organization: "[[European Commission]]"
 tags:
   - region/eu
   - policy/evidence-informed-policy
@@ -77,13 +77,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2006 年起由[[EU|欧洲联盟]]委员会（European Commission）与欧洲联盟理事会（Council of the European Union）陆续发布系列政策结论与工作文件([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp. 26, 28]])。
+> - **发布时间 / 发布主体** 2006 年起由[[EU|欧洲联盟]]委员会（[[European Commission]]）与欧洲联盟理事会（Council of the European Union）陆续发布系列政策结论与工作文件([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp. 26, 28]])。
 > - **适用地区 / 对象** 覆盖欧盟 27 个成员国及欧洲经济区（EEA）主权国家教育体系，涵盖各级教育决策部门、大学研究机构、国家级证据中介与一线学校。
 > - **问题背景** 欧洲各成员国在研究成果转化、循证评价能力以及跨国证据流转上存在深刻的数字与制度鸿沟；分散零碎的国家级倡议缺乏跨欧洲协同，难以应对复杂教育不平等与技能危机。
 > - **制度位置与治理属性** 依据[[Subsidiarity Principle|辅助性原则]]（Subsidiarity Principle），教育主权归属于各成员国；因此欧盟层面的证据政策并非单一强制性法案，而是通过开放协调机制（[[Open Method of Coordination]], OMC）施加软治理（Soft Governance），提供非强制的指导指引、监测基准与跨国中介资助网络([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 28]])。
@@ -91,7 +91,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 政策核心
-> [[EU|欧盟]]证据知情教育政策倡议是一套自 2006 年以来逐步成型的软法战略框架，通过培育全欧评价文化、资助欧洲教育证据知情政策与实践网络（EIPPEE）以及依托欧洲教育信息网（Eurydice）监测机制，倡导在承认多元[[Paradigm\|研究范式]]与国家制度[[Heterogeneity\|异质性]]的前提下，推进跨国教育证据的共建、转译与深度使用([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 58, 67–68]]; [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp. 26–31]])。
+> [[EU|欧盟]]证据知情教育政策倡议是一套自 2006 年以来逐步成型的软法战略框架，通过培育全欧评价文化、资助欧洲教育证据知情政策与实践网络（EIPPEE）以及依托[[Eurydice|欧洲教育信息网]]（Eurydice）监测机制，倡导在承认多元[[Paradigm\|研究范式]]与国家制度[[Heterogeneity\|异质性]]的前提下，推进跨国教育证据的共建、转译与深度使用([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 58, 67–68]]; [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp. 26–31]])。
 
 > [!policy-design] 政策设计与核心三维框架
 > - **证据术语的范式定位（Evidence-Informed vs Evidence-Based）** 欧洲官方[[Discourse|话语]]严谨区分“证据知情教育”（Evidence-Informed Education）与英美盛行的“[[Evidence-Based Education\|证据本位教育]]”（Evidence-Based Education）；在研究层面，包容[[Qualitative Research\|定性研究]]（Qualitative Research）与[[Mixed Methods Research\|混合方法]]（Mixed Methods Research），拒绝单一 [[Randomised Controlled Trials\|RCT]] 垄断；在政策层面，强调研究证据是复杂决策的参考资源之一，而非机械处方([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 26]])。

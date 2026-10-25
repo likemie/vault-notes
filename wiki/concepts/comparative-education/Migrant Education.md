@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -86,8 +86,8 @@ graph TD
 
 ### 2. 美国：司法平权与联邦流动教育项目
 在美国，流动儿童教育集中交织在无证跨境移民与季节性农业流动农工学童（Children of the Road）的双重视野中：
-- **宪法权利底线** 联邦最高法院在 1982 年《[[Plyler v. Doe 1982|普莱勒诉多伊案]]》中明确裁决，公立学区不得因学生的无证移民身份而剥夺其接受免费公立基础教育的权利，确立了人权高于属地行政控制的司法原则。
-- **专门化国家资助网络** 美国联邦教育部根据《[[Elementary and Secondary Education Act of 1965|初等与中等教育法]]案》（Elementary and Secondary Education Act，ESEA）第一章设立“联邦流动儿童教育办公室”（Office of Migrant Education，OME），通过专属拨款建立跨州流动学籍追踪系统与学分互认机制。然而，农工家庭高频度的地理搬迁、语言隔绝以及在《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB）问责下被贴上拖累学校绩效的标签，使得流动儿童始终面临学术边缘化。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 365–366)]]
+- **宪法权利底线** 联邦最高法院在 1982 年《[[Plyler v. Doe 1982|普莱勒诉多伊案]]》中明确裁决，公立学区不得因学生的无证[[Immigrant Status|移民身份]]而剥夺其接受免费公立基础教育的权利，确立了人权高于属地行政控制的司法原则。
+- **专门化国家资助网络** [[United States Department of Education|美国联邦教育部]]根据《[[Elementary and Secondary Education Act of 1965|初等与中等教育法]]案》（Elementary and Secondary Education Act，ESEA）第一章设立“联邦流动儿童教育办公室”（Office of Migrant Education，OME），通过专属拨款建立跨州流动学籍追踪系统与学分互认机制。然而，农工家庭高频度的地理搬迁、语言隔绝以及在《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB）问责下被贴上拖累学校绩效的标签，使得流动儿童始终面临学术边缘化。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 365–366)]]
 
 ### 3. 西班牙：从劳力输出到输入国的跨文化探索
 西班牙在 20 世纪末迅速从劳动力输出国转型为移民主要输入国，移民人口在短时间内突破总人口的 9%：

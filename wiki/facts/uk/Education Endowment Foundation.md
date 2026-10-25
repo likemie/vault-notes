@@ -152,13 +152,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> 教育捐赠基金会（Education Endowment Foundation，EEF）是 2011 年成立于英国伦敦的准独立慈善证据中介旗舰机构，由[[Sutton Trust\|萨顿信托]]（The Sutton Trust）与[[Impetus\|动力基金会]]（Impetus）联合设立并依托英国教育部 1.25 亿英镑留本基金运营，代表了从传统单向清算中心向因果证据生产 $+$ 综合转译 $+$ [[Research Schools Network\|研究学校网络]]深耕的现代[[Evidence Ecosystem\|教育证据生态系统]]（Evidence Ecosystem）模型的[[Paradigm\|范式]]演进（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 58, 62]]；[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, pp. 20–21]]；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–49]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6]]）。
+> 教育捐赠基金会（Education Endowment Foundation，EEF）是 2011 年成立于英国伦敦的准独立慈善证据中介旗舰机构，由[[Sutton Trust\|萨顿信托]]（The Sutton Trust）与[[Impetus\|动力基金会]]（Impetus）联合设立并依托[[Department for Education|英国教育部]] 1.25 亿英镑留本基金运营，代表了从传统单向清算中心向因果证据生产 $+$ 综合转译 $+$ [[Research Schools Network\|研究学校网络]]深耕的现代[[Evidence Ecosystem\|教育证据生态系统]]（Evidence Ecosystem）模型的[[Paradigm\|范式]]演进（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 58, 62]]；[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, pp. 20–21]]；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–49]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6]]）。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2010 年末，时任英国教育大臣[[Michael Gove\|迈克尔·戈夫]]（Michael Gove）在前麦肯锡公司（McKinsey & Company）全球总裁[[Michael Barber\|迈克尔·巴伯]]（Michael Barber）理念影响下，依据[[The Importance of Teaching\|《教学的重要性》]]白皮书规划宣布设立独立基金会；其 1.25 亿英镑法定启动资金直接源于英国政府决定不扩大免费学生校餐（[[Free School Meals]]）计划的预算结余；2011 年萨顿信托在公开竞标中胜出，联合 Impetus 共同创立 EEF，设定了 15 年法定运营期并撬动社会配比资金（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, pp. 90–91]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6]]）。

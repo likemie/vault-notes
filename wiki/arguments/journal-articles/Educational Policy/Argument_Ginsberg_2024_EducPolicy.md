@@ -101,7 +101,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 美国 2015 年[[Every Student Succeeds Act\|每一个学生成功法]]（Every Student Succeeds Act, ESSA）立法明确要求地方教育机构（Local Educational Agency, LEA）将联邦教育资金投资于具备实证支持的循证实践。然而，在学区实际财务支出中，究竟有多大比例的联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金投向了符合 ESSA 法定[[Evidence Standards\|证据标准]]的教育实践？若改用美国联邦教育部推荐的更为严谨的全量证据体（full body of evidence）标准审视，这一比例会出现何种变化？ESSA 证据要求的正式生效是否切实提高了学区投资循证实践的资金比重？
+> 美国 2015 年[[Every Student Succeeds Act\|每一个学生成功法]]（Every Student Succeeds Act, ESSA）立法明确要求地方教育机构（Local Educational Agency, LEA）将联邦教育资金投资于具备实证支持的循证实践。然而，在学区实际财务支出中，究竟有多大比例的联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金投向了符合 ESSA 法定[[Evidence Standards\|证据标准]]的教育实践？若改用[[United States Department of Education|美国联邦教育部]]推荐的更为严谨的全量证据体（full body of evidence）标准审视，这一比例会出现何种变化？ESSA 证据要求的正式生效是否切实提高了学区投资循证实践的资金比重？
 
 > [!claim] 核心主张
 > 针对特大型城市学区三年间 2.88 亿美元 Title I 资金的实证审计表明，超过 95% 的资金投向了符合 ESSA 法定 Tier I–III 门槛的教育实践；但当在四大权威证据库中汇总全量研究时，获稳定积极证据支持的资金比例急剧降至 60% 以下（49%–58%），且 ESSA 生效前后循证投资比重并无实质改变。这表明 ESSA 现行仅需单项合格研究即可合规的法定门槛难以实质保障联邦教育经费投向真正有效的教学实践。

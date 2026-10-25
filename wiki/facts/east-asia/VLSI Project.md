@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -141,7 +141,7 @@ updated: 2026-10-22
 > 4. **[[Tacit Knowledge|隐性知识]]跨企业扩散机制验证** 证明了人员集中借调与实体联合实验室对于复杂工程技术知识扩散的关键价值。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 752–753)]]
 > 5. **本土装备与材料产业链的协同突破** 助力尼康（Nikon）与佳能（Canon）在步进式光刻机领域实现技术跨越，终结了美国企业在半导体光刻装备上的长期垄断。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 739–741)]]
 > 6. **大宗存储芯片代际演进与工艺积累** 提供了从 16K 到 4M DRAM 持续领先的微细加工共性工艺，直接促成了日本企业在 1980 年代对全球大宗存储器市场的绝对统治。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 109–111)]]
-> 7. **重塑美国科研公共资助逻辑** 莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）的历史[[Archival Research|档案研究]]揭示，日本[[Ministry of International Trade and Industry|通产省]]斥资约 3.5 亿美元（737 亿日元）开展 VLSI 产学联合攻关的消息，被美国学者（如米德、哈里斯）用作直接政治杠杆，成功迫使怀疑派企业高管（如诺伊斯）与五角大楼妥协，促成了[[National Science Foundation|美国国家科学基金会]]（NSF）资助设立国家级微细加工用户设施。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 291–292)]]
+> 7. **重塑美国科研公共资助逻辑** 莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）的历史[[Archival Research|档案研究]]揭示，日本[[Ministry of International Trade and Industry|通产省]]斥资约 3.5 亿美元（737 亿日元）开展 VLSI 产学联合攻关的消息，被美国学者（如米德、哈里斯）用作直接政治杠杆，成功迫使怀疑派企业高管（如诺伊斯）与[[Department of Defense|五角大楼]]妥协，促成了[[National Science Foundation|美国国家科学基金会]]（NSF）资助设立国家级微细加工用户设施。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 291–292)]]
 > 8. **倒逼美国科技体制从大企业垄断走向[[Developmental Network State|发展型网络国家]]（DNS）** [[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）指出，日本 VLSI 项目对全美半导体制造业造成的严重冲击引发了深刻的经济与国家安全危机。美国并未盲目照搬日本设立中央集权式的产业统筹官僚机构，而是以此为契机在 1980 年代通过 1984 年《国家合作研究法》设立 [[Sematech]]、由 [[DARPA]] 资助设立 [[MOSIS]] 原型流片服务，并依托[[Bayh-Dole Act of 1980|拜杜法案]]与 [[SBIR and STTR Programs|SBIR]] 计划激活全美去中心化创新网络，最终在 1990 年代以微处理器架构革命与 Fabless-Foundry 专业化分工反超日本。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–172, 179, 181, 189)]]
 
 ---

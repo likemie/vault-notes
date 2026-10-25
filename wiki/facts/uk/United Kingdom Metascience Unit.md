@@ -50,13 +50,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> **英国[[Metascience|元科学]]单元（United Kingdom Metascience Unit）** 是英国科学、创新与技术部（Department for Science, Innovation and Technology, DSIT）与英国国家科研与创新署（UK Research and Innovation, UKRI）于 2024 年联合设立的全球首个国家级专门[[Metascience|元科学]]实验与评估机构。该机构的核心使命是将[[Scientific Method|科学方法]]反身应用于科学体制本身——通过对照实验、计量分析与数据公开，实证检验科研基金配置、同行评议与项目评审机制的实际效能，消除资助体系内部的摩擦与偏误。在白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）《科学：新黄金时代》报告中，该单元被确立为现代国家克服科研机构[[Path Dependence|路径依赖]]、设立独立元科学评估中枢的全球制度范本。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 9, 31–32)]]
+> **英国[[Metascience|元科学]]单元（United Kingdom Metascience Unit）** 是英国科学、创新与技术部（Department for Science, Innovation and Technology, DSIT）与英国国家科研与创新署（[[UK Research and Innovation]], UKRI）于 2024 年联合设立的全球首个国家级专门[[Metascience|元科学]]实验与评估机构。该机构的核心使命是将[[Scientific Method|科学方法]]反身应用于科学体制本身——通过对照实验、计量分析与数据公开，实证检验科研基金配置、同行评议与项目评审机制的实际效能，消除资助体系内部的摩擦与偏误。在白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）《科学：新黄金时代》报告中，该单元被确立为现代国家克服科研机构[[Path Dependence|路径依赖]]、设立独立元科学评估中枢的全球制度范本。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 9, 31–32)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 设立主体** 2024 年在英国政府科技体制改革框架下创设，由 DSIT 与 UKRI 共同管理与注资。
@@ -76,7 +76,7 @@ updated: 2026-10-22
 
 > [!actor-grid] 组织治理架构
 > - **联席指导委员会（Joint Steering Board）** 由 DSIT 决策官员、UKRI 高级主管与外部资深科学学领袖共同组成，保障单元具有超越个别学部利益的独立实验权。
-> - **资助实验设计与方法学部** 专门负责设计基于[[Randomised Controlled Trials|随机对照试验]]（RCT）与准实验的基金机制测试方案。
+> - **资助[[Experimental Research|实验设计]]与方法学部** 专门负责设计基于[[Randomised Controlled Trials|随机对照试验]]（RCT）与准实验的基金机制测试方案。
 > - **数据分析与计量评估小组** 追踪受资助项目的长周期产出、学术影响力与非共识创新[[Emergence|涌现]]。
 
 > [!pathways] 业务运行机制

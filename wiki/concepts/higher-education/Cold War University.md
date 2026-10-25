@@ -53,13 +53,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] Cold War University
-> 冷战大学（Cold War University）指二战后至冷战时期在美国地缘战略动员背景下深度重塑的[[Research Universities|研究型大学]]制度形态。其核心特征在于高校高度依赖联邦政府（特别是美国国防部及其下属科研机构）的基础研究与应用研究经费注资，将大学实验室深度嵌入国家科技与国防创新网络，在推动电子工程、计算机科学、航空航天等尖端[[Disciplinary Institutionalization|学科制度化]]建制的同时，使大学成为支撑战后国家科研基础设施（Research Infrastructure）、孵化高科技衍生企业及培养高层次工程技术人才的战略中枢。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 29)]]
+> 冷战大学（Cold War University）指二战后至冷战时期在美国地缘战略动员背景下深度重塑的[[Research Universities|研究型大学]]制度形态。其核心特征在于高校高度依赖联邦政府（特别是[[Department of Defense|美国国防部]]及其下属科研机构）的基础研究与应用研究经费注资，将大学实验室深度嵌入国家科技与国防创新网络，在推动电子工程、计算机科学、航空航天等尖端[[Disciplinary Institutionalization|学科制度化]]建制的同时，使大学成为支撑战后国家科研基础设施（Research Infrastructure）、孵化高科技衍生企业及培养高层次工程技术人才的战略中枢。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 29)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向战后联邦国防经费与国家安全使命深度塑造美国顶尖研究型大学学术架构、科研取向与外部合作生态的特殊历史与制度形态。
@@ -161,7 +161,7 @@ updated: 2026-10-22
 > > [!axis] 国防依附对[[Academic Freedom|学术自由]]与科研生态的影响
 > > 探讨深度绑定军事安全合同是强化了[[University-Based Research Infrastructure|大学科研基础设施]]，还是扭曲了学术自由与基础探索取向。
 > >
-> > - **Leslie / Lowen（1993, 1997）** 揭示过度依赖五角大楼资助可能使大学科研选题受制于军方战术目标，引发对学术独立性与学科失衡的深层忧虑。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 29)]]
+> > - **Leslie / Lowen（1993, 1997）** 揭示过度依赖[[Department of Defense|五角大楼]]资助可能使大学科研选题受制于军方战术目标，引发对学术独立性与学科失衡的深层忧虑。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 29)]]
 > > - **[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]]** 强调冷战时期国防部对高校基础与应用研究资助相对开放，客观上为战后计算机科学建制化与民用技术基础设施奠定了不可替代的基石。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29, 36)]]
 
 > [!tension] 冷战大学历史评价的核心张力

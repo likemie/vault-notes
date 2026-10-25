@@ -94,7 +94,7 @@ sources:
 part_of: ""
 status: active
 created: 2026-10-22
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Zapp_2017_IJED"
@@ -322,7 +322,7 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 
 1978 至 2013 年间历届《世界发展报告》与《教育部门战略》的引文网络计量分析，呈现出鲜明的实证自指倾向：
 
-> [!figure]- 图 5　世界银行核心教育出版物的引文来源分布结构
+> [!figure]- 图 5　世界银行[[CORE Education|核心教育]]出版物的引文来源分布结构
 > ![](https://img.mylikemie.icu/sources/Zapp_2017_IJED/figures/Zapp_2017_IJED_Fig5_Reference_Pattern_in_Key_WB_Education_Publications.jpg)
 
 图 5 引文网络计量解构揭示出世界银行核心文献演进中的两重深层偏向：

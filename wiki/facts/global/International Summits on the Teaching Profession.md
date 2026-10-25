@@ -54,13 +54,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 国际教师职业峰会（International Summits on the Teaching Profession，ISTP）是 2011 年由美国教育部、[[National Education Association\|全美教育协会]]（[[National Education]] Association，NEA）、[[American Federation of Teachers|美国教师联盟]]（American Federation of Teachers，AFT）、[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development，OECD）与[[Education International\|国际教育协会]]（Education International，EI）联合创设的年度高层跨国峰会，系全球教育治理中唯一制度化保障民选教育部长与全国性教师工会领袖基于前沿实证研究开展闭门平等磋商的战略对话平台。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211, 216)]]
+> 国际教师职业峰会（International Summits on the Teaching Profession，ISTP）是 2011 年由[[United States Department of Education|美国教育部]]、[[National Education Association\|全美教育协会]]（[[National Education]] Association，NEA）、[[American Federation of Teachers|美国教师联盟]]（American Federation of Teachers，AFT）、[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development，OECD）与[[Education International\|国际教育协会]]（Education International，EI）联合创设的年度高层跨国峰会，系全球教育治理中唯一制度化保障民选教育部长与全国性教师工会领袖基于前沿实证研究开展闭门平等磋商的战略对话平台。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211, 216)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 2011 年启动第一届峰会，此后每年由不同的 OECD 成员国轮流主办，常态化延续至今。

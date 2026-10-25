@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -57,7 +57,7 @@ updated: 2026-10-22
 > - **成立时间 / 合并重组** 1997 年正式创立。由创立于 1979 年的英国[[Comparative and International Education Society|比较与国际教育学会]]（British Comparative and International Education Society, BCIES，其源头为 1966 年成立的欧洲比较教育学会英国分会）与海外教育教师与研究者协会（British Association of Teachers and Researchers in Overseas Education, BATROE）合并重组而成。
 > - **组织性质与会员构成** 英国全国性学术社团与慈善机构，会员涵盖全英各大学比较教育学者、发展中国家教育政策研究者、国际非政府组织专家及高校青年师生。
 > - **旗舰学术载体** 主办享有国际声誉的同行评议旗舰期刊《比较：国际与比较教育杂志》（*Compare: A Journal of Comparative and International Education*，Routledge / Taylor & Francis 出版）。
-> - **核心使命** 促进跨国教育比较与国际发展研究；组织两年一届的高水平国际学术年会；提供研究生专项科研资助与青年学者工作坊；为英国教育部（DfE）、国际发展部（DFID/FCDO）及多边国际组织提供教育政策咨询。
+> - **核心使命** 促进跨国教育比较与国际发展研究；组织两年一届的高水平国际学术年会；提供研究生专项科研资助与青年学者工作坊；为[[Department for Education|英国教育部]]（DfE）、国际发展部（DFID/FCDO）及多边国际组织提供教育政策咨询。
 
 ---
 

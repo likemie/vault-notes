@@ -63,7 +63,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-26
 subtype: report
 publication_type: report
 title: "Argument_Mowery_2011_NBER"
@@ -273,7 +273,7 @@ issuing_organization: "National Bureau of Economic Research"
 >
 >   互联网通用平台与开放源码软件模式崛起，软件产业由单机运行迈向全球分布式网络协同与云端服务生态。（pp.183–185）
 
-> [!example] 图5-7：1959–1990年美国国防部软件采购规模演变
+> [!example] 图5-7：1959–1990年[[Department of Defense|美国国防部]]软件采购规模演变
 > ![](https://img.mylikemie.icu/sources/Mowery_2011_NBER/figures/Mowery_2011_NBER_Fig5-7_DoD_Software_Procurement.jpg)
 
 > [!contrast-table] 国防采购在技术不同发展阶段的效力分化：COBOL vs. Ada 语言

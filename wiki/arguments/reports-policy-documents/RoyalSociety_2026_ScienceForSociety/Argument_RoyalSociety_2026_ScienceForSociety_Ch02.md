@@ -14,7 +14,7 @@ argument_related_count: 41
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
-issuing_organization: The Royal Society
+issuing_organization: "[[Royal Society|The Royal Society]]"
 year: 2026
 isbn: 978-1-78252-829-6
 publication_place: London
@@ -81,7 +81,7 @@ sources:
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-23
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 ---
 
@@ -124,7 +124,7 @@ updated: 2026-10-22
 > - **第一阶段（1980 年代中至 1990 年代）：单向普及与精英讲堂**
 >   以 1985 年 Bodmer 报告为代表，主要依托公共讲座、少儿活动、传统博物馆及图书馆，核心动机在于向公众灌输基础科技知识，受众处于被动接受地位。（p. 42）
 > - **第二阶段（2000 年代初）：千禧年基建与科学中心网络兴起**
->   在千禧年委员会（Millennium Commission）与惠康信托（Wellcome Trust）巨额资助下，全英新建数十所大型互动科学探索中心（如格拉斯哥科学中心、我们好奇科学馆、伯明翰智囊科学博物馆），推动科学体验向具身互动实验全面升级。（pp. 44–45）
+>   在千禧年委员会（Millennium Commission）与[[Wellcome Trust|惠康信托]]（Wellcome Trust）巨额资助下，全英新建数十所大型互动科学探索中心（如格拉斯哥科学中心、我们好奇科学馆、伯明翰智囊科学博物馆），推动科学体验向具身互动实验全面升级。（pp. 44–45）
 > - **第三阶段（2020 年代中至今）：双向参与、在地化与社会文化基础设施定位**
 >   面对气候变化、数字鸿沟与健康危机，非正式参与全面转向双向对话、社区嵌入、地方根植与公民科学，其战略定位被重塑为与公共图书馆、城市绿地并列的不可或缺的社会文化基础设施。（pp. 43, 48）
 
@@ -177,7 +177,7 @@ updated: 2026-10-22
 > | **PAS 2011** | 商业、创新与技能部（BIS） / Ipsos | **18%** | 51% | 82% | 气候变化公共争论、福岛核事故后能源安全讨论 |
 > | **PAS 2014** | 商业、创新与技能部（BIS） / Ipsos | **16%** | 48% | 85% | 页岩气水力压裂（Fracking）、大数据与个人隐私 |
 > | **PAS 2019** | 商业、能源与产业战略部（BEIS） / BEIS | **14%** | **47%** | 86% | 气候紧急状态宣告、基因编辑伦理、脱欧背景下的科研流动 |
-> | **PAS 2025** | 英国研究与创新署（UKRI） / Ipsos & BSA | **12%**（历史新低） | **62%**（历史新高） | **87%**（历史新高） | [[Generative Artificial Intelligence\|生成式 AI]] 颠覆、生态气候危机、后疫情公共卫生决策与生物安全 |
+> | **PAS 2025** | [[UK Research and Innovation\|英国研究与创新署]]（UKRI） / Ipsos & BSA | **12%**（历史新低） | **62%**（历史新高） | **87%**（历史新高） | [[Generative Artificial Intelligence\|生成式 AI]] 颠覆、生态气候危机、后疫情公共卫生决策与生物安全 |
 
 > [!ref-table] 表2-3：英国主要科普文化场馆公众访问率与参与情况表
 > | 场馆与活动类型 | 12 个月内实地访问率 | 较 2019 变动趋势 | 核心受众分布与参与动能 | 空间与财务痛点 | 政策提升路径 |
@@ -193,7 +193,7 @@ updated: 2026-10-22
 > - **1. [[Deficit Model of Science Communication\|赤字模型]]残余与单向说教的[[Path Dependence|路径依赖]]** 许多科研机构和政府决策部门仍潜意识地将公众视为缺乏科学知识的认知赤字群体，习惯于在方案敲定后进行单向宣传与公关解释，而非在研发初期开展平等对话。
 > - **2. 上游公众审议（Upstream Public Deliberation）的制度化机制缺失** 在人工智能伦理边界、基因编辑监管、绿色低碳基础设施选址等重大前沿科技决策中，缺乏常设性公民陪审团（Citizens' Juries）或公众协商程序，公众诉求无法实质性进入政策制定管道。
 > - **3. [[Science Capital\|科学资本]]阶层[[Habitus|惯习]]与自选受众壁垒（Self-Selecting Audiences）** 收费特展的高昂门槛与科学活动的学术精英化表达，导致校外科学参与往往沦为高[[Science Capital\|科学资本]]家庭的自选特权（Dawson, 2019），中下阶层与少数族裔群体在心理上形成科学与我们无关的文化疏离感。
-> - **4. 政府部门管辖割裂与非正式部门的资金贫困** 科学探索中心与校外参与网络处于英国科学、创新与技术部（Department for Science, Innovation and Technology, DSIT）、英国教育部（Department for Education, DfE）、英国文化、媒体与体育部（Department for Culture, Media and Sport, DCMS）与地方政府的四不管地带，导致这套支撑全民终身学习的关键社会基础设施长期缺乏法定财政兜底。（p. 48）
+> - **4. 政府部门管辖割裂与非正式部门的资金贫困** 科学探索中心与校外参与网络处于英国科学、创新与技术部（Department for Science, Innovation and Technology, DSIT）、[[Department for Education|英国教育部]]（Department for Education, DfE）、英国文化、媒体与体育部（Department for Culture, Media and Sport, DCMS）与地方政府的四不管地带，导致这套支撑全民终身学习的关键社会基础设施长期缺乏法定财政兜底。（p. 48）
 
 ---
 
@@ -216,7 +216,7 @@ updated: 2026-10-22
 > - **公众主体能动性与认知重构** 打破了只有专业科研学者才能开展野外实证探究的神秘壁垒，让全年龄段公民在亲近本土自然的过程中建立起动态生态系统思维，极大激发了公众保护生物多样性的[[Self-Efficacy\|自我效能感]]与社区环保行动力。（p. 46）
 
 > [!case] 案例研究二：造梦机器与[[The Perception Census\|感知普查]]：艺术体验与脑科学认知共创
-> - **学术主导与国家重大跨界工程** 由苏塞克斯大学萨克勒意识科学中心主任、英国皇家学会会士阿尼尔·塞斯（Anil Seth, FRS）团队联合艺术机构 Collective Act、先锋音乐家乔恩·霍普金斯（Jon Hopkins）及特纳奖建筑团队 Assemble 跨界研发，作为英国 2022 年非约束（Unboxed: [[Creativity]] in the UK）重大科技艺术节的核心科研工程。（p. 43）
+> - **学术主导与国家重大跨界工程** 由苏塞克斯大学萨克勒意识科学中心主任、[[Royal Society|英国皇家学会]]会士阿尼尔·塞斯（Anil Seth, FRS）团队联合艺术机构 Collective Act、先锋音乐家乔恩·霍普金斯（Jon Hopkins）及特纳奖建筑团队 Assemble 跨界研发，作为英国 2022 年非约束（Unboxed: [[Creativity]] in the UK）重大科技艺术节的核心科研工程。（p. 43）
 > - **双轨实验交互矩阵设计**
 >   - *线下沉浸式造梦机器（Dreamachine）* 依托定制白光脉冲频闪与环绕声场，在参与者闭目状态下通过视网膜与大脑节律共振，安全激发丰富动态的内心几何幻觉与深层知觉体验；
 >   - *线上感知普查（The Perception Census）* 将高度晦涩的计算神经科学与认知心理学实验转化为生动易懂的 10 大线上互动测试模块，系统测量颜色知觉差异、视错觉与几何扭曲敏感度、主观时间流速感知、声音视觉联觉机制以及对他人心智状态的推断能力。
@@ -231,7 +231,7 @@ updated: 2026-10-22
 
 > [!case] 案例研究四：走进社区的科普项目：把科研主导权交给草根居民（Building Bridges, Science Learning+, Curiosity, The Ideas Fund）
 > - **Building Bridges 深度社区[[Ethnography\|民族志]]共创项目** 伦敦科学博物馆与伦敦大学学院针对常年缺席博物馆的边缘化少数族裔与工薪阶层家庭，放弃专家预设的单向说教模式，采用长期民族志（Ethnography）田野[[Rich and Thick Description\|深描]]、家庭访谈与[[Focus Group\|焦点小组]]，邀请社区家长与一线教师作为共同策展人，将社区日常生活经验、母语文化与在地叙事融入展陈，重构弱势受众的场馆归属感。（Haywood & Moussouri, 2017, p. 43）
-> - **Science Learning+（SL+）非正式科学公平跨国倡议** 由惠康信托、英国经济与社会研究理事会（Economic and Social Research Council, ESRC）与[[National Science Foundation\|美国国家科学基金会]]（National Science Foundation, NSF）跨大西洋联合注入千万级英镑资助，跨越十年周期系统攻关校外 STEM 学习的公平路径工具包（Equity Pathways Toolkit），识别并消除阻碍少数族裔与女性青年投身科学领域的隐性文化微排斥。
+> - **Science Learning+（SL+）非正式科学公平跨国倡议** 由惠康信托、[[Economic and Social Research Council|英国经济与社会研究理事会]]（Economic and Social Research Council, ESRC）与[[National Science Foundation\|美国国家科学基金会]]（National Science Foundation, NSF）跨大西洋联合注入千万级英镑资助，跨越十年周期系统攻关校外 STEM 学习的公平路径工具包（Equity Pathways Toolkit），识别并消除阻碍少数族裔与女性青年投身科学领域的隐性文化微排斥。
 > - **Curiosity 青年工作嵌入计划** 惠康信托联合 BBC Children in Need 设立专项资助，打破传统科技场馆物理边界，直接将轻量化科学探究教具与趣味动手实验嵌入弱势社区的青年活动中心（Youth Clubs）、街头社工工作站与庇护所，依托社工与高风险青少年之间深厚的日常信任关系，使处于辍学或犯罪边缘的青少年在无学业考评压力的安全空间中重拾对科学技术的探索乐趣。
 > - **The Ideas Fund 社区自主科研资助模式** 英国科学协会（British Science Association, BSA）与惠康信托联合发起，彻底颠覆学者申报课题且公众被动配合的传统资助范式。该基金将数百万英镑资助直接授予赫尔、奥德姆等欠发达地区的草根社区团体，由社区居民自主界定身心健康与生态环境痛点，并由社区自主掌管经费并面试选聘高校学者提供智力支持，实现了科研资助权力关系的彻底平权与社区自主能动性跃迁。（p. 43）
 
@@ -260,9 +260,9 @@ updated: 2026-10-22
 
 > [!policy-design] 多元筹资模式与政策支持四大破局支柱
 > - **1. 政府采购 10% [[The Social Value Model\|社会价值模型]]（Social Value in Procurement）**
->   依据英国内阁办公室《国家采购政策声明》，在各级政府庞大的公共采购与商业招投标合同中，强制将至少 **10%** 的社会价值评估权重定向用于支持非正式科学参与机构、科学节及社区科普外展。（pp. 49–50）
+>   依据[[Cabinet Office|英国内阁办公室]]《国家采购政策声明》，在各级政府庞大的公共采购与商业招投标合同中，强制将至少 **10%** 的社会价值评估权重定向用于支持非正式科学参与机构、科学节及社区科普外展。（pp. 49–50）
 > - **2. 比照文化艺术部门落实财税激励平权（Tax Incentives Parity）**
->   由 ASDC 与英国财政部协同，推动科学探索中心、科技馆与科学节享受与剧院、管弦乐团及国家美术馆完全同等的展览税收抵免（Exhibition Tax Relief）与慈善配资待遇。
+>   由 ASDC 与[[HM Treasury|英国财政部]]协同，推动科学探索中心、科技馆与科学节享受与剧院、管弦乐团及国家美术馆完全同等的展览税收抵免（Exhibition Tax Relief）与慈善配资待遇。
 > - **3. 培育国家级科技慈善捐赠文化（National Philanthropy Framework）**
 >   针对英国在[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）慈善捐赠排名偏低（第 17 位，远落后于加拿大第 4、新西兰第 10、澳大利亚第 14）的现状，由国家学术院联合政府与慈善基金会，建立鼓励高净值人群与企业向科学参与捐赠的全国性制度框架。（p. 50）
 > - **4. 政产学研跨界协同与长期战略投资基金**

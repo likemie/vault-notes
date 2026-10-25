@@ -16,7 +16,7 @@ fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
-issuing_organization: Government Office for Science, Cabinet Office
+issuing_organization: "Government Office for Science, [[Cabinet Office]]"
 tags:
   - region/uk
   - theme/science-policy
@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -59,13 +59,13 @@ updated: 2026-10-22
 > [!actor-grid] ARIs 治理生态的核心主体分工
 > - **[[Government Office for Science\|政府科学办公室]]（GO-Science）** 制定全政府 ARIs 编制指南，搭建中央数据库，协调跨部委交叉重大前瞻议题。
 > - **部委首席科学顾问（Departmental CSAs）** 领导部门分析团队与政策官员，系统梳理各业务司局的中长期证据缺口并公开发布清单。
-> - **英国研究与创新署（UKRI）** 指导各研究理事会（如 ESRC、EPSRC）根据部委 ARIs 定向设立前沿战略研究专项与政策伙伴计划。
+> - **[[UK Research and Innovation|英国研究与创新署]]（UKRI）** 指导各研究理事会（如 [[Economic and Social Research Council|ESRC]]、EPSRC）根据部委 ARIs 定向设立前沿战略研究专项与政策伙伴计划。
 > - **高校学者与智库机构（HEIs & IROs）** 依据公开清单设计博士研究课题与重大科研项目，提升研究的政策转化潜力与社会影响力。
 
 ---
 
 > [!feature] 塑造教育学与学术研究生态的三大维度
-> - **英国教育部重点研究领域清单（DfE ARIs）的标杆作用** 英国教育部常态化发布其核心政策问题清单（涵盖教师留任机制、早期儿童发展、职业技能培训及数字技术进课堂等），成为英国教育学界申请重大课题与规划政策影响力的黄金指引。
+> - **[[Department for Education|英国教育部]]重点研究领域清单（DfE ARIs）的标杆作用** 英国教育部常态化发布其核心政策问题清单（涵盖教师留任机制、早期儿童发展、职业技能培训及数字技术进课堂等），成为英国教育学界申请重大课题与规划政策影响力的黄金指引。
 > - **引导大学科研卓越框架（REF）影响力构建** 高校学者依托与特定部委 ARIs 的对齐，能够清晰证明其学术发现如何实质性改善了公共政策，为其构建高质量 REF 影响案例（Impact Case Studies）提供权威官方佐证。
 > - **赋能青年学者与博士生政策训练** 各大高校与资助机构利用 ARIs 设立政策实习生（Policy Internships）与议会学术研究员计划，推动早期科研人员直接参与真实世界政策证据的生产。
 
@@ -76,7 +76,7 @@ updated: 2026-10-22
 > - **2015** 保罗·纳斯爵士（Sir Paul Nurse）在《英国研究理事会审查报告》中正式建议政府各部委全面制度化发布 ARIs。
 > - **2017** 首批核心行政部委（包括教育部 DfE、环境署 Defra、卫生部 DHSC）正式公开发布第一代 ARIs。
 > - **2023** [[Government Office for Science\|政府科学办公室]]升级全政府 ARIs 交互式数据库，推进跨部门联合清单编制。
-> - **2026** 英国皇家学会《科学为社会》报告肯定了 ARIs 在统筹科研需求中的作用，同时警示行政体制必须保持稳定投入，避免因短期政治动荡导致科研需求反复无常。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 81, 84)]]
+> - **2026** [[Royal Society|英国皇家学会]]《科学为社会》报告肯定了 ARIs 在统筹科研需求中的作用，同时警示行政体制必须保持稳定投入，避免因短期政治动荡导致科研需求反复无常。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 81, 84)]]
 
 ---
 

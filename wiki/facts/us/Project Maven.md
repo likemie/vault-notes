@@ -44,13 +44,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目战略定位
-> 梅文项目（Project Maven，正式名称为算法战跨职能小组，Algorithmic Warfare Cross-Functional Team, AWCFT）是美国国防部于 2017 年 4 月由时任常务副国防部长鲍勃·沃克（Bob Work）设立的旗舰级人工智能军事应用项目。该项目旨在打破传统军工研发与商业前沿科技之间的壁垒，将前沿商业计算机视觉、深度卷积神经网络与云端机器学习算法直接引入战场情报分析系统，实现从海量全动态无人机侦察视频与卫星遥感图像中自动识别人员、车辆与作战目标（pp. 33, 74–75）。
+> 梅文项目（Project Maven，正式名称为算法战跨职能小组，Algorithmic Warfare Cross-Functional Team, AWCFT）是[[Department of Defense|美国国防部]]于 2017 年 4 月由时任常务副国防部长鲍勃·沃克（Bob Work）设立的旗舰级人工智能军事应用项目。该项目旨在打破传统军工研发与商业前沿科技之间的壁垒，将前沿商业计算机视觉、深度卷积神经网络与云端机器学习算法直接引入战场情报分析系统，实现从海量全动态无人机侦察视频与卫星遥感图像中自动识别人员、车辆与作战目标（pp. 33, 74–75）。
 
 > [!program-context] 项目档案
 > - **立项时间 / 周期** 2017 年 4 月正式启动，后续由五角大楼联合人工智能中心（JAIC）及国防部首席数字与人工智能官办公室（CDAO）持续推进。

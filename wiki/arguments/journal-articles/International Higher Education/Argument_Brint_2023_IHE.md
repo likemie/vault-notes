@@ -50,7 +50,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Brint_2023_IHE"
@@ -107,7 +107,7 @@ issuing_organization: ""
 > |---|---|
 > | **核心政策与法律文本** | 2022 年美国《芯片与科学法案》、2007 年及 2010 年《美国竞争法》、中国《中国制造2025》、欧盟 2021–2027 年“[[Horizon Europe\|地平线欧洲]]”规划。 |
 > | **关键机构与数据来源** | [[National Science Foundation\|美国国家科学基金会]]（NSF）、[[Department of Energy\|美国能源部]]（Department of Energy, DOE）科学办公室、美国政府问责局（GAO）审计报告、中美科研论文发表与引用统计数据。 |
-> | **分析情境** | 美国国会参众两院的立法博弈、联邦预算委员会的拨款机制、全球半导体产业链与大国人才培养格局。 |
+> | **分析情境** | [[United States Congress\|美国国会]]参众两院的立法博弈、联邦预算委员会的拨款机制、全球半导体产业链与大国人才培养格局。 |
 
 ---
 

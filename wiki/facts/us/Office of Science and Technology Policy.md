@@ -64,7 +64,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -73,7 +73,7 @@ updated: 2026-10-22
 > 科学技术政策办公室（Office of Science and Technology Policy, OSTP）是美国联邦政府在总统执行办公室（Executive Office of the President, EOP）内设立的最高法定科学技术政策参谋与跨部门统筹机构。其前身为 1962 年约翰·肯尼迪总统创设的科学技术办公室（OST），在经历越战期间尼克松解散总统科学顾问的严重政治危机后，于 1976 年由杰拉尔德·福特总统签署国会立法正式以常设法定局形式重建。OSTP 不仅赋予了总统科学顾问法定的制度化地位与宪政问责属性，更在冷战后历次国家大战略转型中充当最高政策操作中枢，并在 2026 年主导重构面向二十一世纪后半叶的国家创新体制。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 38–40)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. v–ix)]]
 
 > [!org-context] 机构背景档案
-> - **立法依据** 1976 年 5 月 11 日由美国国会通过并由杰拉尔德·福特总统签署颁布的《1976 年国家科学技术政策、组织和优先事项法案》（National Science and Technology Policy, Organization and Priorities Act of 1976, P.L. 94-282）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 39)]]
+> - **立法依据** 1976 年 5 月 11 日由[[United States Congress|美国国会]]通过并由杰拉尔德·福特总统签署颁布的《1976 年国家科学技术政策、组织和优先事项法案》（National Science and Technology Policy, Organization and Priorities Act of 1976, P.L. 94-282）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 39)]]
 > - **总部地点** 华盛顿特区白宫紧邻之[[Dwight D. Eisenhower|艾森豪威尔]]行政办公楼（Eisenhower Executive Office Building, EEOB）。
 > - **法定双重职责** OSTP 主任依例兼任总统科学顾问（Science Adviser to the President），既直接为总统研判重大科技战略，又统筹由各内阁部长组成的[[National Science and Technology Council|国家科学技术委员会]]（[[National Science and Technology Council]], NSTC）与民间学者专家组成的总统科技顾问委员会（President's Council of Advisors on Science and Technology, PCAST）。
 > - **跨部门预算指导权** 每年联合白宫行政管理和预算局（Office of Management and Budget, OMB）签发全联邦年度研发预算优先事项备忘录，对国防部、能源部（[[Department of Energy]], DOE）、国家科学基金会（[[National Science Foundation]], NSF）与国立卫生研究院（[[National Institutes of Health]], NIH）等机构的研发预算投向具有实质性统摄力。
@@ -103,7 +103,7 @@ updated: 2026-10-22
 > - **1976 年立法前的制度缺陷** 在福特政府之前，科学顾问仅属于白宫幕僚（White House Staff），缺乏法定依据；总统不仅可以随时撤销该职位，而且根据行政特权（Executive Privilege），国会无法强制要求科学顾问出席听证会作证。
 > - **1976 年立法重构的宪政监督属性** 公法 P.L. 94-282 将 OSTP 明确设立为总统执行办公室内的法定机构（Statutory Agency）；其主任提名必须经参议院听证批准，且须出席国会听证会接受质询，从而将科学顾问机制转变为接受民主宪政监督的公共制度资产。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 40)]]
 
-> [!tension] 科学共同体认知权威代表 vs. 总统定向指令与国家战略动员者
+> [!tension] 科学共同体[[Cognitive Authority|认知权威]]代表 vs. 总统定向指令与国家战略动员者
 > - **经典[[Social Contract of Science|科学社会契约]]下的 OSTP** 作为连接顶尖大学科学家与白宫的专业制度界面，维护科学共同体对未知探索的自主裁量权，协助联邦研发资金按同行评议原则分配。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 > - **技术型契约与黄金时代重构下的 OSTP** 转型为统筹“对人赋权—机制创新—本土制造—智能核验”全链条的战略枢纽；既坚守联邦资助基础研究的公共职能，又主导打破单向管道与学科壁垒，推动科研体系与国家[[Industrial Commons|产业公地]]深度融合。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7)]]
 

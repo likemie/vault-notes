@@ -83,7 +83,7 @@ related_facts:
   - "[[Sino-Soviet Educational Cooperation]]"
 status: active
 created: 2026-10-19
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Woo_2023_HEP"
@@ -107,7 +107,7 @@ sources:
 > 一带一路教育政策兼具双重面向：表层以多边协作、[[People-to-People Connectivity|民心相通]]与共同繁荣作为正当性修辞；深层则深度服从国家大局，成为推进地缘经济布局、服务[[National Rejuvenation Narrative|民族复兴]]与输出[[China Solution|中国方案]]的重要战略手段。这一跨国教育布局的实际成效，高度受制于国内经济增长势头、大国地缘博弈态势及沿线国家的本土民意。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 中华人民共和国教育部（Ministry of Education, MOE）发布的纲领性教育行动方案、新闻发布会政策解读、国家最高领导人倡议演讲以及国家发展和改革委员会（National Development and Reform Commission, NDRC）等多部委联合发布的顶层规划文本群。
+> - **对象** [[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]（Ministry of Education, MOE）发布的纲领性教育行动方案、新闻发布会政策解读、国家最高领导人倡议演讲以及国家发展和改革委员会（National Development and Reform Commission, NDRC）等多部委联合发布的顶层规划文本群。
 > - **张力** 表层倡导的多边平等合作、民心相通与共同繁荣等共赢修辞，与深层政策实践中作为国家战略推进工具、文化[[Soft Power|软实力]]输出及地缘经济配套职能之间的结构性张力。
 > - **贡献** 将[[Norman Fairclough|诺曼·费尔克拉夫]]（Norman Fairclough）的[[Critical Discourse Analysis|批判性话语分析]]（Critical [[Discourse Analysis]], CDA）三维模型与[[Roy Bhaskar|罗伊·巴斯卡]]（Roy Bhaskar）的[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]相结合，开创了剖析中国高等教育跨国扩张政策[[Discourse|话语]]的批判性[[Analytic Framework|分析框架]]。
 
@@ -235,7 +235,7 @@ sources:
 
 ---
 
-> [!claim] 论证步骤二　跨国教育实际深层依附于国家总体战略
+> [!claim] 论证步骤二　跨国教育实际深层依附于国家[[Total War|总体战]]略
 > 跨部门政策文本的互动网络表明，教育出海由中央顶层意志强力推动，[[Research Universities|研究型大学]]攻坚尖端科技、职业院校配套工业产能，构成了全面服务于国家地缘经济战略的执行体系。
 
 #### 1. 政策话语全方位服务于中央政治意志
@@ -359,7 +359,7 @@ sources:
 > *Within the realm of the New Era ideology, education and the BRI are tools to fulfill the CCP's political goals and aspirations. Education's role in social-cultural exchanges emphasizes 'telling the China story well' and 'patriotic Chinese overseas students actively promoting the achievements of China's development, and actively mobilizing foreign students and teachers in China to spread the China model.'*
 
 > [!citation-card] [[Soft Power|软实力]]投射对经济[[Hard Power|硬实力]]的依附脆弱性（Trunkos, 2021; Kurlantzick, 2007）
-> 尽管公共外交叙事充满合作共赢与[[Community of Shared Future for Mankind|人类命运共同体]]的说辞，但一带一路实质上是一项经济硬实力推进工具。如果中国经济增长势头放缓，过度依赖经济诱因将导致高等教育作为软实力工具的效力与稳固性大幅下滑。选择中国作为目的地的沿线学生，主要是被潜在的良好就业前景与中国政府提供的充裕奖学金所吸引；一旦这些外部拉动因素恶化，功利性兴趣便会迅速消退。
+> 尽管[[Public Diplomacy|公共外交]]叙事充满合作共赢与[[Community of Shared Future for Mankind|人类命运共同体]]的说辞，但一带一路实质上是一项经济硬实力推进工具。如果中国经济增长势头放缓，过度依赖经济诱因将导致高等教育作为软实力工具的效力与稳固性大幅下滑。选择中国作为目的地的沿线学生，主要是被潜在的良好就业前景与中国政府提供的充裕奖学金所吸引；一旦这些外部拉动因素恶化，功利性兴趣便会迅速消退。
 >
 > *Despite the public diplomacy narratives of 'win-win' and 'shared community,' the BRI is a de facto economic hard power instrument. Heavy reliance on economic power would make the application of higher education as soft power tool less potent and steadfast if Chinese economic prowess were to diminish... Students' utilitarian interests would fade if these pull factors changed for the worse.*
 

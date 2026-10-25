@@ -68,7 +68,7 @@ updated: 2026-10-26
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 2010 年代中期依托全员成功基金会（[[Success for All]] Foundation）与联邦创新资助启动研发，经多项多学区多中心[[Randomised Controlled Trials\|随机对照试验]]（RCT）验证并常态化应用至今。
-> - **发起方与资助机制** 约翰斯·霍普金斯大学 CRRE 团队主持开发，由美国联邦教育部 i3/[[Education Innovation and Research\|EIR]] 创新资助项目与社会慈善资本共同注资支持。
+> - **发起方与资助机制** 约翰斯·霍普金斯大学 CRRE 团队主持开发，由[[United States Department of Education|美国联邦教育部]] i3/[[Education Innovation and Research\|EIR]] 创新资助项目与社会慈善资本共同注资支持。
 > - **覆盖范围与对象** 全美各州公立小学中在早期字词识别、音素[[Decodification\|解码]]及流畅度上落后于常模的小学一至三年级处境不利学生。
 > - **核心问题导向** 一对一辅导（1:1）虽成效显著，但单名辅导员每小时仅能服务 1 名学生，师资成本居高不下；常规纯软件学习又普遍缺乏人际互动与执行依从性监管，容易导致高危儿童迅速放弃。
 

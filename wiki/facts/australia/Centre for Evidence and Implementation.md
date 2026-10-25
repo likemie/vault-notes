@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-16
-updated: 2026-10-17
+updated: 2026-10-26
 ---
 
 ---
@@ -81,7 +81,7 @@ updated: 2026-10-17
 
 > [!actor-grid] 评论视角图
 > - **实施科学与中介转化视角** 强调其专业实施科学（Implementation Science）方法论，致力于打破象牙塔科研生产与中小学校园一线行动之间的转化壁垒，为[[Systematic Review\|系统综述]]与使用质量框架提供扎实的落地支持。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 138)]]
-> - **批判社会学视角** 批评 CEI 作为公私合营[[Educational Brokerage Agency\|证据经纪人]]，协助官方机构垄断了什么是合法有效证据的解释权，将复杂的公共育人审议重构为自洽的[[Technical Rationality\|技术理性]]操作。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
+> - **批判社会学视角** 批评 CEI 作为公私合营证据经纪人，协助官方机构垄断了什么是合法有效证据的解释权，将复杂的公共育人审议重构为自洽的[[Technical Rationality\|技术理性]]操作。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
 > - **方法学与文献独立性视角** 指出其桌面审查未经广泛学术共同体的严格同行评审，且文献引用高度聚焦于自身阵营期刊，中立性与客观代表性面临拷问。
 
 > [!tension] 争议焦点

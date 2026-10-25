@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -77,7 +77,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 组织发展与中介创设历程
 > - **2002–2006 — 私募股权纪律引入英国慈善界** 动力信托（Impetus Trust）与私募股权基金会（[[Pupil Equity Funding\|PEF]]）相继成立，率先在英国推广“[[Venture Philanthropy\|风险慈善]]”（Venture Philanthropy）模式，主张超越传统的零散小额捐款，改用对有潜力的非营利机构进行多年期、重度参与的“控股型”投后管理与专业赋能（Traill, 2016；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）。
-> - **2011 — 联合[[Sutton Trust\|萨顿信托]]发起创立 [[Education Endowment Foundation\|EEF]]** 联合萨顿信托参与英国教育部设立独立留本基金的公开竞标；凭借其在私募股权界调动商业管理顾问与配比资金的强大实力成功胜出，共同发起设立[[Education Endowment Foundation\|教育捐赠基金会]]（EEF），并获得教育部 1.25 亿英镑初始留本基金（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 47]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
+> - **2011 — 联合[[Sutton Trust\|萨顿信托]]发起创立 [[Education Endowment Foundation\|EEF]]** 联合萨顿信托参与[[Department for Education|英国教育部]]设立独立留本基金的公开竞标；凭借其在私募股权界调动商业管理顾问与配比资金的强大实力成功胜出，共同发起设立[[Education Endowment Foundation\|教育捐赠基金会]]（EEF），并获得教育部 1.25 亿英镑初始留本基金（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 47]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
 > - **2013 — 两大风险慈善巨头正式合并** 动力信托与私募股权基金会正式合并为 Impetus-PEF，整合了贝恩资本、KKR 等数十家私募机构的慈善资源，构建了全英最庞大的企业高管志愿专业咨询网络。
 > - **2018–至今 — 跨国[[Policy Network\|政策网络]]映射与资本流动** 埃玛·罗威（Emma Rowe）通过政策[[Network Analysis\|网络分析]]揭示，Impetus 与萨顿信托、[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）存在深度的资助者与理念[[Co-affiliation\|共同从属]]（如美洲银行、普华永道、安理律师事务所等跨国机构的重复重叠）；这些跨国资本以 Impetus 为中继站，将金融化度量衡与治理逻辑深度嵌入主权国家的教育实证政策网络（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–9]]）。
 

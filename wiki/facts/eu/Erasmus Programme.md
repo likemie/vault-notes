@@ -17,7 +17,7 @@ fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1987–至今"
-issuing_organization: "欧洲联盟委员会（European Commission）"
+issuing_organization: "[[European Commission|欧洲联盟委员会（European Commission）]]"
 tags:
   - region/eu
   - level/higher-ed
@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -93,7 +93,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 项目演进历程
 > - **1987 年 创立与首期启动** [[EU|欧洲共同体]]通过建立 ERASMUS 的决议，首年即吸引 3244 名来自 11 个成员国的大学生跨国研修。
-> - **1989 年 ECTS 试点推行** 欧盟委员会正式推出欧洲学分转换系统（ECTS）试点，为消除学生跨国流动中的学籍阻碍确立透明度工具。
+> - **1989 年 ECTS 试点推行** [[European Commission|欧盟委员会]]正式推出欧洲学分转换系统（ECTS）试点，为消除学生跨国流动中的学籍阻碍确立透明度工具。
 > - **1995 年 纳入 [[Socrates]] 框架** 设立苏格拉底计划，将伊拉斯谟计划升格为欧盟促进[[Internationalization of Higher Education|高等教育国际化]]与欧洲维度塑造的核心支柱。
 > - **1999 年 催生[[Bologna Process|博洛尼亚进程]]** 伊拉斯谟计划的多年实践直接催生了 29 国教育部长签署《博洛尼亚宣言》，开启全欧学制三级架构（学士、硕士、博士）一体化改革。
 > - **2007 年 20 周年里程碑与[[Lifelong Learning|终身学习]]整合** 计划迎来设立 20 周年，官方统计累计流动学生总数突破 **150 万人**；同年度正式并入欧盟“终身学习计划（LLP 2007–2013）”，将跨国流动性法定确立为劳动者必须持有的终身职业素养。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]

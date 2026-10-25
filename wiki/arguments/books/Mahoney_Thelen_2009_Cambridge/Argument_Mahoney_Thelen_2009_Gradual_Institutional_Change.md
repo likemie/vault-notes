@@ -79,7 +79,7 @@ related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 ---
 
@@ -121,7 +121,7 @@ updated: 2026-10-22
 > | 样本层面 | 构成 |
 > |---|---|
 > | **理论文献样本** | 涵盖[[Rational Action Theory\|理性选择理论]]与否决者文献（North, Ostrom, [[George Tsebelis\|Tsebelis]]）、[[Historical Institutionalism\|历史制度主义]]文献（[[Peter A. Hall\|Hall]], [[Theda Skocpol\|Skocpol]], [[Paul Pierson\|Pierson]], [[Jacob S. Hacker\|Hacker]], [[Wolfgang Streeck\|Streeck]], Thelen）与组织社会学研究（Selznick, Stinchcombe）。 |
-> | **经验案例覆盖** | 涉及英国议会改革、美国国会议事与福利立法、巴西地方医疗、肯尼亚土地产权、印度尼西亚威权政体以及中国和古巴的市场双轨发展。 |
+> | **经验案例覆盖** | 涉及英国议会改革、[[United States Congress\|美国国会]]议事与福利立法、巴西地方医疗、肯尼亚土地产权、印度尼西亚威权政体以及中国和古巴的市场双轨发展。 |
 > | **材料功能** | 案例不用于大样本统计检验，而是作为因果机制的经验具象检验，展示理论模型的现实解释力。 |
 
 ---
@@ -282,7 +282,7 @@ updated: 2026-10-22
 
 > [!quad-grid] 四类变迁形态的经验案例对照
 > - **置换案例：市场双轨制改革** 改革者未采取休克疗法立即废除国营配给制，而是在体制外培育市场轨道；随着越来越多农户与企业自主转向市场轨道，市场机制逐步壮大并最终彻底置换了国家指令体制。（p. 16）
-> - **层叠案例：美国教育券计划** 保守派改革者无法击败工会直接废除公立学区体制，转而通过在公立学校旁边附加教育券选择，逐步分流公立学区的生源与财政资源。（pp. 16–17）
+> - **层叠案例：美国[[School Vouchers|教育券]]计划** 保守派改革者无法击败工会直接废除公立学区体制，转而通过在公立学校旁边附加教育券选择，逐步分流公立学区的生源与财政资源。（pp. 16–17）
 > - **漂移案例：日本选举区维持** 面临战后急剧的城市化人口迁移，自民党故意不重新划分选区，任由农村票仓代表性被动放大数倍，在法条一字未改的情形下实现对政权的超额掌控。（p. 17）
 > - **转换案例：跨州贸易条款重塑** 宪法第 1 条第 8 款关于跨州贸易的简短授权，在文本未改前提下，在新政时期被重新部署为保障工会集体谈判权，在 1960 年代被重塑为强制商业机构消除种族隔离的民权法宝。（p. 21）
 
@@ -363,7 +363,7 @@ updated: 2026-10-22
 > 1. **打破外生重大断裂迷信** 制度分析不能将变迁机械局限于战争、革命等外生冲击；看似微小、渐进的内生微调，在较长历史视域下完全足以累积汇聚为颠覆性的体制质变，甚至构成其他重大政治结果的根本成因。（pp. 2–3）
 > 2. **确立权力分配与动态平衡基石** 制度绝非中立的博弈均衡或共享认知，而是充满利益偏向的权力分配工具；制度稳定性是持续政治动员的动态结果，权力天平的微小位移必然注入内生变迁动力。（pp. 8–10）
 > 3. **将规则遵从确立为核心博弈[[Variable|变量]]** 规则内在具有不可消除的模糊性，使得成文法条与实际落实之间存在永久缝隙；遵从不是常数而是动态博弈，微观行动者正是在解释与执行的软肋中撬动渐变。（pp. 10–14）
-> 4. **建构双维形态学与解释矩阵** 依据[[Veto Possibilities|否决可能性]]强弱与解释[[Enforcement Discretion|执行裁量权]]高低，系统推导出置换（[[Institutional Displacement|displacement]]）、层叠（[[Institutional Layering|layering]]）、漂移（[[Institutional Drift|drift]]）与转换（[[Institutional Conversion|conversion]]）四类内生演化模式。（pp. 15–22）
+> 4. **建构双维形态学与解释矩阵** 依据[[Veto Possibilities|否决可能性]]强弱与解释[[Enforcement Discretion|执行裁量权]]高低，系统推导出置换（[[Institutional Displacement|displacement]]）、层叠（[[Institutional Layering|layering]]）、漂移（[[Institutional Drift|drift]]）与转换（conversion）四类内生演化模式。（pp. 15–22）
 > 5. **创立行动者类型学与联盟动力学** 解耦行动者的短期依从行为与长期制度诉求，提炼出[[Insurrectionaries|起义者]]、[[Symbionts|共生者]]、[[Subversives|颠覆者]]与[[Opportunists|机会主义者]]四类博弈角色，揭示特定政治语境对行动者角色的筛选机制与联盟级联政治。（pp. 22–31）
 
 ---

@@ -79,7 +79,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-13'
-updated: 2026-10-22
+updated: 2026-10-26
 year: 2022
 doi: ""
 citation_aliases:
@@ -94,7 +94,7 @@ citation_aliases:
 
 ## 理论框架
 
-Rambla 的[[Analytic Framework|分析框架]]由三个核心概念和一个宏观语境构成，综合了政策工具社会学、[[Realist Evaluation|实在论评估]]和策略关系国家理论。
+Rambla 的[[Analytic Framework|分析框架]]由三个核心概念和一个宏观语境构成，综合了[[Policy Instrumentation Theory|政策工具社会学]]、[[Realist Evaluation|实在论评估]]和策略关系国家理论。
 
 > [!abstract] [[Performance Indicators\|绩效指标]]作为政策工具(Le Galès, 2016; Collins, 2018; Jessop, 2007)
 > Rambla 综合三位学者的工作，将绩效指标界定为同时包含技术成分和权力成分的复合政策工具，并分解为四个操作维度（Table 10.1, p.165–166）。详见 [[Performance Indicators]]：
@@ -117,7 +117,7 @@ Rambla 的[[Analytic Framework|分析框架]]由三个核心概念和一个宏�
 > [!info] 研究类型与资料来源
 > 该章属于**政策分析**（非实证研究），综合运用三种方法路径：
 >
-> - **政策文件分析** 系统梳理[[EU|欧盟]]委员会（European Commission）、欧盟理事会（European Council）发布的战略通讯文件（如 [[Europe 2020 Strategy\|Europe 2020]]、A [[EU Skills Agenda\|New Skills Agenda for Europe]]）、理事会建议书（Council Recommendations，涉及早期辍学、成人教育、Youth Guarantee）及 EUROSTAT 统计指标体系，包括区域创新记分牌（Regional Innovation Scoreboard）和 NUTS2 [[Performance Indicators\|教育指标]](p.164–175)
+> - **政策文件分析** 系统梳理[[EU|欧盟]]委员会（[[European Commission]]）、欧盟理事会（European Council）发布的战略通讯文件（如 [[Europe 2020 Strategy\|Europe 2020]]、A [[EU Skills Agenda\|New Skills Agenda for Europe]]）、理事会建议书（Council Recommendations，涉及早期辍学、成人教育、Youth Guarantee）及 EUROSTAT 统计指标体系，包括区域创新记分牌（Regional Innovation Scoreboard）和 NUTS2 [[Performance Indicators\|教育指标]](p.164–175)
 > - **[[Qualitative Research\|定性研究]]二次分析** 引用 [[YOUNG_ADULLLT\|YOUNG_ADULLLT 项目]]（Horizon 2020 资助，Grant No 693167）对 16 个欧盟地区 168 名[[Lifelong Learning\|终身学习]]政策专家的半结构式访谈数据，作为政策[[Discourse|话语]]在地方层面被接受、转化或对抗的经验证据(p.172–174)
 > - **比较案例引用** 引用意大利利古里亚(Bartolini, 2018)和西班牙加泰罗尼亚(Tarabini et al., 2017)关于早期辍学与第二机会学校（second-chance schools）的[[Comparative Case Study\|比较案例研究]](p.173)
 
@@ -130,7 +130,7 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 > Rambla 首先交代了一个对后续分析至关重要的制度事实：欧盟并非单一国家，也非普通国际组织，而是一个混合了国际组织和国家政府特征的制度体(p.163–164)：
 >
 > - **欧盟理事会（European Council）** 各成员国元首的协商平台，运作逻辑接近国际组织
-> - **欧盟委员会（European Commission）** 管理预算、创新、社会权利、经济、内部市场等常规政策领域，运作逻辑接近国家政府
+> - **[[European Commission|欧盟委员会]]（European Commission）** 管理预算、创新、社会权利、经济、内部市场等常规政策领域，运作逻辑接近国家政府
 > - **欧洲议会（European Parliament）** 每 4 年直选产生，须批准整个委员会团队
 >
 > **这一前提的分析意义** 整篇论证建立在一个结构性张力之上——欧盟试图以一套统一的绩效指标体系治理 28 个制度传统、经济结构和文化背景迥异的成员国，以及数百个差异更为显著的下属区域。这种"统一标准 + 巨大差异"的组合，正是 Rambla 随后将展开批判的核心矛盾所在。
@@ -184,7 +184,7 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 > [!example] 第 5 步：引入实证证据——地方层面对政策话语的接受与转化
 > Rambla 引用 [[YOUNG_ADULLLT\|YOUNG_ADULLLT 项目]]（16 个欧盟地区，168 名终身学习政策[[Expert Interview\|专家访谈]]）的定性数据，为前述政策文件分析提供"地面检验"(p.172–173)：
 >
-> **发现 1：[[Network Governance]] 的差异化运作。** 在德国及邻国，终身学习政策通过传统的[[Neocorporatism\|新社团主义]]（neocorporatism）网络实施——政府、雇主协会和工会三方合作。在芬兰，"公私民合作"（Public-Private-People-Partnerships）模式将公民置于网络的中心位置。在苏格兰，"就业管道"（Employment Pipeline）模式将就业服务、教育培训和非营利支持整合为一条龙网络。而在南欧和东欧，[[Policy Network\|政策网络]]显著较弱；市场治理模式（如美国私人培训提供商普遍活跃的模式）在欧盟并不显著(p.172)。
+> **发现 1：[[Network Governance]] 的差异化运作。** 在德国及邻国，终身学习政策通过传统的[[Neocorporatism\|新社团主义]]（neocorporatism）网络实施——政府、雇主协会和工会[[Triangular Cooperation|三方合作]]。在芬兰，"公私民合作"（Public-Private-People-Partnerships）模式将公民置于网络的中心位置。在苏格兰，"就业管道"（Employment Pipeline）模式将就业服务、教育培训和非营利支持整合为一条龙网络。而在南欧和东欧，[[Policy Network\|政策网络]]显著较弱；市场治理模式（如美国私人培训提供商普遍活跃的模式）在欧盟并不显著(p.172)。
 >   > 例：一个在奥地利失业的青年可能通过[[Apprenticeship|学徒制]]系统被纳入由企业、工会和政府共同管理的培训轨道；而一个在保加利亚失业的青年可能只能依赖资源有限的公共就业服务窗口。EUROSTAT 的指标将两人放在"青年失业率"的同一栏中，但无法反映背后制度支持的巨大落差。
 >
 > **发现 2：专业人员对变革理论的内化差异。** 在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员不仅了解欧盟的官方话语，还将其翻译为本地的系统性变革理论（"学徒制系统""公私民合作""就业管道"）。但在欧盟话语较晚引入的地区，专业人员缺乏系统的变革理论来组织服务，更倾向于依赖对青年受益人的负面刻板印象(p.173)。
@@ -220,7 +220,7 @@ Rambla 的论证逐层推进，从分析工具的建立到空间背景的交代�
 >
 > 1. **绩效指标是权力工具，而非[[Value Neutrality\|价值中立]]的测量仪。** 它们不仅衡量政策成果，还通过操作化定义确立了"什么是好的创新"和"什么是好的教育"。当政策制定者依据排名做出决策时，他们同时接受了嵌入指标体系中的价值判断——而这些价值判断从未经过民主审议。
 >
-> 2. **指标的选择性具有民主政治的含义。** 如果"创新 = 研发 + 专利""终身学习 = 就业匹配"这些等式被自然化为客观事实，那么本应由民主审议来决定的政治问题——"我们希望生活在什么样的社会？""应当鼓励何种类型的创新？""教育的目标是培养劳动者还是培养人？"——就被技术化为"数据告诉我们该怎么做"。这是对民主审议空间的结构性压缩，与 [[Scientization of Politics]]([[Argument_Zapp_2022_Springer\|Zapp, 2022]])的诊断相通。
+> 2. **指标的选择性具有民主政治的含义。** 如果"创新 = 研发 + 专利""终身学习 = 就业匹配"这些等式被自然化为客观事实，那么本应由民主审议来决定的政治问题——"我们希望生活在什么样的社会？""应当鼓励何种类型的创新？""教育的目标是培养劳动者还是培养人？"——就被技术化为"数据告诉我们该怎么做"。这是对民主[[Deliberative Space|审议空间]]的结构性压缩，与 [[Scientization of Politics]]([[Argument_Zapp_2022_Springer\|Zapp, 2022]])的诊断相通。
 >
 > 3. **区域想象的固化效应。** 一旦区域被分类为"领先"或"落后"，分类本身就变为一个难以摆脱的标签。一个"一般创新者"区域不仅要面对当下的资源劣势，还要应对标签带来的预期效应——企业和人才更不愿意进入"落后"区域，使"落后"成为自我强化的循环。
 >

@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -97,7 +97,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 组织发展三部曲
 > - **2015/2016–2020 — 第一阶段：联邦项目孵化与标准确立期（[[Federal Ministry of Education and Research\|BMBF]] / [[Qualitätsoffensive Lehrerbildung\|QLB]] 资助）** 慕尼黑工业大学[[Tina Seidel\|蒂娜·赛德尔]]（Tina Seidel）团队在 BMBF 国家重大专项[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]（QLB）框架下的“Teach@TUM”项目中立项研发；确立针对课堂教学实证研究的 11 步标准化检索、因果质量审查与通俗化转译规程；2017 年官方门户正式上线，推出首批德语简评（Kurzreviews）、配套评估表（Rating Sheets）与专题学术播客。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
-> - **2021–2023 — 第二阶段：大学建设运行与学院拓展期（TUM 实体化推进）** 慕尼黑工业大学社会科学与技术学院设立常设专职团队，将清算成果全面嵌入本校及合作大学的师范生培养方案；设立数字化教学培训学院（CHU-Academy），上线科学证据自学通识课与专题进阶模块；产品线扩展至[[Inquiry-Based Learning\|探究学习]]、协作教学、性别差异、[[Self-Regulated Learning\|自我调节学习]]、[[Gamification\|游戏化学习]]及数字媒体六大核心教学法谱系。
+> - **2021–2023 — 第二阶段：大学建设运行与学院拓展期（TUM 实体化推进）** 慕尼黑工业大学社会科学与技术学院设立常设专职团队，将清算成果全面嵌入本校及合作大学的师范生培养方案；设立数字化教学培训学院（CHU-Academy），上线科学证据自学通识课与专题进阶模块；产品线扩展至[[Inquiry-Based Learning\|探究学习]]、协作教学、性别差异、[[Self-Regulated Learning\|自我调节学习]]、[[Game-Based Learning|游戏化学习]]及数字媒体六大核心教学法谱系。
 > - **2023–2029 — 第三阶段：私人基金会接续资助与长效深化期（威廉·施特默基金会资助）** 在联邦 QLB 国家攻坚计划收官之际，平台成功对接长期深耕 MINT 教育的威廉·施特默基金会（Wilhelm Stemmer Stiftung），获得为期 6 年的刚性大额资助延期至 2029 年；创设[[Design-Based Research\|设计实验]]室（DesignLabs）开展沉浸式教学原型共创；与同设于 TUM 的[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）建立深度战略协同机制（CHU x ZIB），实现宏观国际测评与微观课堂有效性的结构融通。
 
 ---
@@ -110,13 +110,13 @@ updated: 2026-10-22
 > [!pathways] 业务运行机制
 > - **选题聚焦与高阶证据基底遴选** 重点聚焦[[Effective Teaching\|有效教学]]（effektiver Unterricht）与 MINT 学科教学，严格限定文献池为同行评议的当代实证研究，以[[Randomised Controlled Trials\|随机对照试验]]（RCT）为高因果证据基石，优先收录大样本、可复制的高质量[[Meta-analysis\|元分析]]。
 > - **专业研究合成与动态证据库维护** 建立并持续更新涵盖数理学科教学有效性元分析的专门数据库，团队不仅二次提炼外部顶级文献，亦自主开展并发表系统性元综述（如 Knogler et al., 2022a, 2022b）。
-> - **标准化通俗转译规程（11-Step Protocol）** 专家团队严格推行从学术元分析到教学简评的 11 步转译标准：解构复杂统计参数，转化为实践行动发问、结构化核心要点、决策参数概览框与实施边界条件。
+> - **标准化通俗转译规程（11-[[Skills Toward Employment and Productivity|Step]] Protocol）** 专家团队严格推行从学术元分析到教学简评的 11 步转译标准：解构复杂统计参数，转化为实践行动发问、结构化核心要点、决策参数概览框与实施边界条件。
 > - **需求导向与非线性反馈迭代** 常态化开展针对高校教师教育者与在岗教师的需求调查与效用评估，针对实践现场严峻的时间挤压与资源门槛，动态迭代短评与微课模块。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 14–16)]]
 
 ---
 
 > [!feature] 核心中介业务与转译产品矩阵
-> - **研究简要评价（Kurzreviews）** 针对前沿教学[[Meta-analysis\|元分析]]提炼的德语通俗化评介，系统解构数字化教学、[[Inquiry-Based Learning\|探究式学习]]、[[Flipped Classrooms|翻转课堂]]、[[Gamification\|游戏化学习]]、[[Self-Regulated Learning\|自我调节学习]]等策略的因果[[Effect Size\|效应量]]、前提条件与教学建议，配套提供评分表（Rating Sheets）与材料下载。
+> - **研究简要评价（Kurzreviews）** 针对前沿教学[[Meta-analysis\|元分析]]提炼的德语通俗化评介，系统解构数字化教学、[[Inquiry-Based Learning\|探究式学习]]、[[Flipped Classrooms|翻转课堂]]、游戏化学习、[[Self-Regulated Learning\|自我调节学习]]等策略的因果[[Effect Size\|效应量]]、前提条件与教学建议，配套提供评分表（Rating Sheets）与材料下载。
 > - **在线进修学院（CHU-Academy）** 提供体系化在线自学进修课程，涵盖科学证据导论课、[[Effective Teaching\|有效教学]]专题课程，以及最新生成的[[Generative Artificial Intelligence\|生成式人工智能]]在教学中的应用模块。
 > - **概念导引与在线术语表（Online-Glossar）** 针对效应量（Effektstärke）、统计控制、元分析与[[Causality\|因果推断]]等核心概念编制专业教学指南与交互术语表，正文专业术语均内嵌跳转链接。
 > - **专题学术播客与微视频（Podcasts & Videos）** 对接元分析作者与教学实践专家，以音频访谈与动画讲解形式生动解读实证研究结论与课堂落地细节。

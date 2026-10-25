@@ -50,13 +50,13 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> 日本国立教育政策研究所（National Institute for Educational Policy Research, NIER，国立教育政策研究所）是日本文部科学省（Ministry of Education, Culture, Sports, Science and Technology, MEXT）下属的独立行政法人，以"在同一栋楼内保持独立"的罕见制度安排著称——办公地点与文部科学省同楼，但具有法定的学术研究自主地位。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]将其列为"政府资助自治型"中介的亚太标杆，诠释了物理邻近与行政自治如何实现有效平衡。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
+> 日本国立教育政策研究所（National Institute for Educational Policy Research, NIER，国立教育政策研究所）是[[Ministry of Education, Culture, Sports, Science and Technology|日本文部科学省]]（Ministry of Education, Culture, Sports, Science and Technology, MEXT）下属的独立行政法人，以"在同一栋楼内保持独立"的罕见制度安排著称——办公地点与文部科学省同楼，但具有法定的学术研究自主地位。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]将其列为"政府资助自治型"中介的亚太标杆，诠释了物理邻近与行政自治如何实现有效平衡。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 62]])
 
 > [!org-context] 机构背景与设立渊源
 > - **成立时间** 1949 年依据战后日本教育改革体制设立，前身为战前文部省调查局，战后重组为独立研究机构，持续为日本教育政策提供实证研究支撑。

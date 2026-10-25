@@ -97,7 +97,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -249,7 +249,7 @@ updated: 2026-10-22
 > [!dev-timeline] 技术转移制度发展历程
 > - **1940 年代–1970 年代 — 冷战军工驱动与公共领域开放阶段** 联邦政府深度资助[[Research Universities|研究型大学]]，科研成果多按军方规程置于公共领域，技术转移主要通过开源披露、强制第二供应商工艺共享与工程技术人才流动自发完成。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29–31)]]
 > - **1970 年代末–1980 年代 — 多边实体平台与国家用户设施破冰** 面对微电子工艺设备成本激增，大学创设加州理工 [[Silicon Structures Project|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]]、斯坦福 CIS 等多边物理平台，通过企业驻场轮转与国家共享机台实现了重资产制造技术的高效转移。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 289–295)]]
-> - **1980 年 — [[Bayh-Dole Act of 1980|拜杜法案]]颁布与法定专利许可模式确立** 美国国会通过《拜杜法案》，允许大学对联邦资助的发明保留专利所有权；全美高校竞相建立[[Technology Transfer Office|技术转移办公室]]（TTO），以生物医药为代表的专利授权模式成为全球科技政策推崇的显学。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, p. 273)]]
+> - **1980 年 — [[Bayh-Dole Act of 1980|拜杜法案]]颁布与法定专利许可模式确立** [[United States Congress|美国国会]]通过《拜杜法案》，允许大学对联邦资助的发明保留专利所有权；全美高校竞相建立[[Technology Transfer Office|技术转移办公室]]（TTO），以生物医药为代表的专利授权模式成为全球科技政策推崇的显学。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, p. 273)]]
 > - **1986 年 — 《联邦技术转移法》（FTTA）与国家实验室开放** 国会立法授权联邦国家实验室直接与私营企业签订[[Cooperative Research and Development Agreement|合作研发协议]]（CRADA），允许政府科学家分享商业许可版税，开启了国家实验室大规模技术转移的法制化时代。[[Argument_Block_2008_PS|(Block, 2008, p. 177)]]
 > - **1980 年代–1990 年代 — 国际立法借鉴与多元化探索** 英国于 1983 年打破 BTG 垄断赋予大学自主商业化权利，并推出 Alvey 计划与[[Knowledge Exchange|知识交流]]专项拨款；中国于 1993 年颁布《科学技术进步法》、1996 年颁布《促进科技成果转化法》，逐步构建起以企业为主体、产学研深度融合的法定转化体系。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–44)]]
 > - **2008 年 — 虚构商品反思与网络国家技术经纪重构** [[Fred Block|弗雷德·布洛克]]（Fred Block）系统剖析过度排他性专利对技术转移造成的反向阻碍，揭示美国[[Developmental Network State|发展型网络国家]]依赖 [[DARPA]]、[[National Science Foundation|NSF]]、[[Department of Energy|DOE]] 等机构的技术经纪与对等资助跨越[[Valley of Death|死亡之谷]]，确立了技术转移中公私协同的新视角。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–188, 196–198)]]

@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -186,7 +186,7 @@ updated: 2026-10-22
 > [!case] 案例二：行业级全域多轨道矩阵型 — 美国[[Semiconductor Research Corporation|半导体研究公司]]（SRC）
 > 美国半导体研究公司（SRC）展示了涵盖数十所名校、多技术成熟度轨道的行业级全域联合体模式（[[Argument_Logar_2014_Minerva|Logar et al., 2014, pp. 240–253]]）：
 > - **多计划时域矩阵** 建立分层计划矩阵：全球研究协作（GRC，面向近中期共性瓶颈）、[[Focus Center Research Program|焦点研究中心计划]]（FCRP，面向 8–12 年前沿探索）、纳米电子学研究倡议（NRI，面向 10–15 年超越 CMOS 基础物理）及能源研究倡议（ERI）。
-> - **公私资金强杠杆** 企业会费按销售额比例征收，同时与美国国防部（[[DARPA]]）、国家科学基金会（[[National Science Foundation|NSF]]）等联邦机构 50:50 对等出资，撬动公共财政资金比例由 8% 攀升至 70% 以上。
+> - **公私资金强杠杆** 企业会费按销售额比例征收，同时与[[Department of Defense|美国国防部]]（[[DARPA]]）、国家科学基金会（[[National Science Foundation|NSF]]）等联邦机构 50:50 对等出资，撬动公共财政资金比例由 8% 攀升至 70% 以上。
 > - **全行业产业成果** 推动无铅倒装芯片封装与三面金属栅 FinFET 晶体管等重大底层工艺走向全行业量产，累计培养 9,200 余名高层次工程技术毕业生。
 
 > [!case] 案例三：公私对等匹配与产业链纵向协同型 — [[Sematech|美国半导体制造技术战略联盟]]（[[Sematech]]）

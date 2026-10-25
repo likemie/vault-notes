@@ -94,7 +94,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -224,11 +224,11 @@ updated: 2026-10-22
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005, pp. 4–10)]] — 运用文献分析（Documentary Analysis）系统对比了美国《[[Reading Excellence Act|卓越阅读法案]]》在众议院与参议院审议中的立法文本草案、听证会证词及专业协会政策声明，解析了阅读定义与科学证据门槛演变背后的政策博弈。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024, pp. 6–13)]] — 运用文献分析对美国《[[Infrastructure Investment and Jobs Act|IIJA]]》、《[[CHIPS and Science Act|芯片法案]]》与《[[International Reading Association|IRA]]》法定条文、联邦规章及资助公告展开系统梳理，解析护栏条款与社会附加条件的运行机制。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026, pp. 17–28)]] — 运用政策文献分析（Documentary Analysis）与制度演化分析，系统梳理了《[[CHIPS and Science Act|芯片与科学法案]]》及相关联邦白皮书与产业报告，深入剖析了美国[[Research Universities|研究型大学]]在国家半导体体系中从基础研究引领、人才梯队培养到创新网络建构的角色重构及其制度张力。
-> - [[Argument_Block_2008_PS|Block (2008, pp. 176–188)]] — 运用政策文献分析（Documentary Analysis）系统梳理了 1980 至 1988 年间美国国会立法的六项关键科技法案及相关联邦行政规程，结合联邦实验室[[Technology Transfer|技术转移]]与商业化数据，论证了去中心化[[Developmental Network State|发展型网络国家]]制度架构的历史成因。
+> - [[Argument_Block_2008_PS|Block (2008, pp. 176–188)]] — 运用政策文献分析（Documentary Analysis）系统梳理了 1980 至 1988 年间[[United States Congress|美国国会]]立法的六项关键科技法案及相关联邦行政规程，结合联邦实验室[[Technology Transfer|技术转移]]与商业化数据，论证了去中心化[[Developmental Network State|发展型网络国家]]制度架构的历史成因。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014, pp. 194–203)]] — 运用制度文献分析系统比对经合组织解密档案、理事会会议纪要、招标规程与可行性评估报告，解构国际组织在[[Test Production|测验生产]]早期确立全球教育治理权力的多维机制。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 结合政府白皮书、财政部与内阁府政策规程（《[[The Green Book|绿皮书]]》《紫红皮书》）以及议会特别委员会调研报告等官方政策文献，系统考察英国新工党[[Evidence-Based Policy-Making|循证决策]]治理制度对跨国政策借鉴与评估技术[[Hard Policy Transfer|硬转移]]的驱动机制。
-> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025, pp. 1047–1048)]] — 综合梳理中国教育部与商务部奖学金政策指南、中柬高校合作谅解备忘录（MOU）、官方来华留学生统计年鉴、受援国发展合作报告以及高教 ICT 研修班日程记录等一手政策文献与机构数据，对对外高教合作机制开展三角核实。
+> - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025, pp. 1047–1048)]] — 综合梳理[[Ministry of Education of the People's Republic of China|中国教育部]]与[[MOFCOM Scholarship|商务部奖学金]]政策指南、中柬高校合作谅解备忘录（MOU）、官方来华留学生统计年鉴、受援国发展合作报告以及高教 ICT 研修班日程记录等一手政策文献与机构数据，对对外高教合作机制开展三角核实。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24, 28–32)]] — 结合经合组织官方白皮书、各国教育部政策报告与大众媒体报道篇幅统计（如德国 687 个版面 vs 芬兰 8 个版面），运用政策与媒体文献分析揭示跨国测评数据的媒介化传播与国内政策合法化辩护机制。
-> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 对世界银行历届教育部门政策战略与《世界发展报告》展开文献引文分析，揭示多边机构从行政声明向学术化认知治理的演变（pp. 7–8）。
-> - [[Argument_Velasco_2022_CSJ|Velasco (2022, pp. 79–86)]] — 结合中国高教改革法规、留学生统计年鉴与智库软实力指数开展政策文献与统计综合分析，解构教育外交的三大支柱与地缘政治转化制约。
-> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合区域自贸协定、中国—东盟战略伙伴关系愿景、国家全会决议及部区共建纪要等官方政策文献，系统梳理跨国职业教育开放的政策脉络与制度演进（pp. 286–288, 292–293）。
+> - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 对[[World Bank|世界银行]]历届教育部门政策战略与《世界发展报告》展开文献引文分析，揭示多边机构从行政声明向学术化[[Epistemic Governance|认知治理]]的演变（pp. 7–8）。
+> - [[Argument_Velasco_2022_CSJ|Velasco (2022, pp. 79–86)]] — 结合中国高教改革法规、留学生统计年鉴与智库[[Soft Power|软实力]]指数开展政策文献与统计综合分析，解构[[Educational Diplomacy|教育外交]]的三大支柱与[[Geopolitics|地缘政治]]转化制约。
+> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合区域自贸协定、中国—[[ASEAN|东盟]]战略伙伴关系愿景、国家全会决议及部区共建纪要等官方政策文献，系统梳理跨国职业教育开放的政策脉络与制度演进（pp. 286–288, 292–293）。

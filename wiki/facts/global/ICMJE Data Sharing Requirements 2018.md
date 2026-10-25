@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 背景
@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 > 这两项要求不直接强制研究者共享数据，而是通过控制发表通道来施加制度压力——不在公共注册系统中注册的临床试验、不包含数据共享声明的稿件，无法在 ICMJE 成员期刊上发表。
 
-> [!note] 对产学合作的影响
+> [!note] 对[[University-Industry Collaboration|产学合作]]的影响
 > 在[[University-Industry Collaboration\|产学合作]]中，ICMJE 要求产生了一个重要的制度约束([[Argument_Brock_2025_DataAccessGenerationUse\|Brock, 2025, p.301]])。产业赞助的[[Clinical Trial\|临床试验]]如果希望在 ICMJE 成员期刊（如 NEJM、Lancet、JAMA、Annals of Internal Medicine 等）上发表结果，必须在首例患者入组前完成公共注册——这意味着注册不是发表时的附加步骤，而是研究启动时的前置条件。对于追求学术发表的产学合作临床试验项目，这一时间线要求需要在协议起草阶段就被纳入项目规划。
 
 > [!note|notitle]

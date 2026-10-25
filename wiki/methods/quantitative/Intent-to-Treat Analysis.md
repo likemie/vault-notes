@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -128,7 +128,7 @@ updated: 2026-10-22
 >   - 处理分配变量 $Z_i$：随机指派状态（1 = 处理组，0 = 对照组），由研究者控制。
 >   - 实际接受变量 $D_i$：个体实际接受剂量或依从状态（1 = 达标参与，0 = 未依从或未达标）。
 >   - 产出变量 $Y_i$：标准化后测[[Academic Achievement\|学业成绩]]或认知/行为测验得分。
->   - 基线协变量 $\mathbf{X}_i$：前测成绩、家庭经济背景（如免费校餐 FSM 资格）、特殊教育需求（SEND）等。
+>   - 基线协变量 $\mathbf{X}_i$：前测成绩、家庭经济背景（如[[Free School Meals|免费校餐]] FSM 资格）、特殊教育需求（SEND）等。
 > - **模型形式** 多水平协方差模型（Hierarchical [[Analysis of Covariance\|ANCOVA]]）或多群组 [[Ordinary Least Squares\|OLS]] 回归。
 
 > [!formula-step] 公式步骤　基础 ITT 回归模型
@@ -182,7 +182,7 @@ updated: 2026-10-22
 >
 > 1. **全样本分析的强制约束**
 >    - [[Blueprints for Healthy Youth Development]]、[[Social Programs That Work]]（SPTW）与 [[Promise Neighborhoods Research Consortium]]（PNRC）**明确强制要求 ITT 分析**。任何剔除非依从学校、剔除未完成干预学童或按实际执行情况重新分组的评估报告，将直接被剥夺最高证据评级资格。
->    - 美国联邦教育部[[What Works Clearinghouse\|WWC]]在因果标准中确立：只有基于原始随机组别的 ITT 分析且流失率达标的 [[Randomised Controlled Trials\|RCT]]，才具备获评“无保留满足标准（Meets Standards Without Reservations）”的资格；在特定合规监测条件下，允许补充报告 [[Complier Average Causal Effect\|CACE]]。
+>    - [[United States Department of Education|美国联邦教育部]][[What Works Clearinghouse\|WWC]]在因果标准中确立：只有基于原始随机组别的 ITT 分析且流失率达标的 [[Randomised Controlled Trials\|RCT]]，才具备获评“无保留满足标准（Meets Standards Without Reservations）”的资格；在特定合规监测条件下，允许补充报告 [[Complier Average Causal Effect\|CACE]]。
 > 2. **[[Attrition|样本流失]]与[[EEF Padlock Security Rating\|挂锁安全评级]]的联动约束**
 >    - 英国[[Education Endowment Foundation\|EEF]]将 ITT 确立为所有评估报告第一标题[[Effect Size\|效应量]]（Headline Effect Size）的法定计算口径（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 50]]）。
 >    - 然而，若试验遭遇严重的随访流失（Attrition），即使遵循 ITT 统计口径，组间基线可比性亦可能荡然无存。为此 EEF 实施了严格的[[EEF Padlock Security Rating\|挂锁安全评级]]：将流失率作为核减挂锁数量的核心依据。全英试验通过专业招募与留存规程，使 85% 的试验将样本流失率控制在 30% 以内，稳健维持了 3 把挂锁以上的证据信用（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 49–51]]）。

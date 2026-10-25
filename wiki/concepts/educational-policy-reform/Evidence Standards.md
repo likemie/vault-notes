@@ -113,13 +113,13 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] Evidence Standards
-> 证据标准（Evidence Standards）指[[Educational Brokerage Agency\|知识中介机构]]（Knowledge Brokerage Intermediaries, KBIs）、[[Educational Evidence Clearinghouses\|证据清算中心]]（Clearinghouses）及网络证据门户在收集、综合与传播研究成果时，用以判定研究设计是否具有方法学[[Reliability\|信度]]、推论是否具备情境相关性，以及能否就干预措施的有效性提出合法功效主张（Evidence Claims）的整套规范性准则与[[Operationalization\|操作化]]评价体系。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 153–156)]]
+> 证据标准（Evidence Standards）指[[Educational Brokerage Agency\|知识中介机构]]（[[Knowledge Mediation|Knowledge Brokerage]] Intermediaries, KBIs）、[[Educational Evidence Clearinghouses\|证据清算中心]]（Clearinghouses）及网络证据门户在收集、综合与传播研究成果时，用以判定研究设计是否具有方法学[[Reliability\|信度]]、推论是否具备情境相关性，以及能否就干预措施的有效性提出合法功效主张（Evidence Claims）的整套规范性准则与[[Operationalization\|操作化]]评价体系。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 153–156)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 证据标准是连接原始学术科研与政策实践应用之间的质量过滤器，界定了何种水平的证据才能被认定为足够好（Good enough）以指导公共资源配置与教学决策。
@@ -309,7 +309,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 概念演变
 > - **1970s–1990s — [[Internal Validity\|内部效度]]等级制与医学循证[[Paradigm\|范式]]** Campbell & Stanley 确立因果推论内部效度层级，奠定对照试验在排除混杂[[Variable\|变量]]上的优先地位；随后医学领域考克兰协作网（Cochrane Collaboration）与 GRADE 体系将[[Randomised Controlled Trials\|随机对照试验]]与[[Meta-analysis\|元分析]]确立为临床证据的黄金标准。
-> - **2000–2003 — 证据标准的法定博弈与清算机制初创** 2000 年国会卡斯尔草案（H.R. 4875）试图将实验检验列为法定科研硬门槛；[[National Research Council|国家研究委员会]]（[[National Research Council]], NRC）发布《教育科学研究》（SRE）确立跨方法六[[Big Science|大科学]]原则，推动 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）在立法中确立“方法契合[[Research Question|研究问题]]”的包容性证据准则；同年设立的[[What Works Clearinghouse|有效干预清算中心]]（WWC）在发布研究设计与实施方案（[[Study Design and Implementation Assessment Device|Study DIAD]]）后，吸纳学界 47 项公共评议，打破对实验设计的排他垄断，补充纳入[[Regression Discontinuity Design|断点回归]]（RDD）与 30 余项实施过程调节变量。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–36)]]
+> - **2000–2003 — 证据标准的法定博弈与清算机制初创** 2000 年国会卡斯尔草案（H.R. 4875）试图将实验检验列为法定科研硬门槛；[[National Research Council|国家研究委员会]]（[[National Research Council]], NRC）发布《教育科学研究》（SRE）确立跨方法六[[Big Science|大科学]]原则，推动 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）在立法中确立“方法契合[[Research Question|研究问题]]”的包容性证据准则；同年设立的[[What Works Clearinghouse|有效干预清算中心]]（WWC）在发布研究设计与实施方案（[[Study Design and Implementation Assessment Device|Study DIAD]]）后，吸纳学界 47 项公共评议，打破对[[Experimental Research|实验设计]]的排他垄断，补充纳入[[Regression Discontinuity Design|断点回归]]（RDD）与 30 余项实施过程调节变量。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–36)]]
 > - **2004–2015 — 教育清算机构兴起与分级门槛法定化** WWC 逐步成熟并确立因果证据三级定性审查规程（无保留达标 / 有保留达标 / 未达标）；英国设立[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）推行挂锁评级；美国《[[Every Student Succeeds Act\|每个学生成功法]]案》（ESSA 2015）首次以联邦法律形式确立四级法定证据标准。
 > - **2016–2018 — 多维评价架构探索与 [[EMMIE Framework\|EMMIE]] 框架创立** 针对单一效果指标无法解释复杂社会情境的局限，英国[[What Works Network\|有效性网络]]创立 EMMIE 框架，推动证据标准由单一效果评价拓展为效应、机制、调节变量、实施与经济学评价五维综合架构。
 > - **2018–2022 — 适切性（Fit-for-Purpose）范式与中介自我标准反思** Gough and White (2018) 开展国际 15 个证据门户跨案例调查，揭示打包项目门户“100% 依据 1–2 项单兵研究断言有效”的系统性危机；Gough (2021, 2022) 提炼出六大[[Operationalization\|操作化]]证据标准维度，确立方法学严谨性与决策情境适切性有机融合的元治理范式。

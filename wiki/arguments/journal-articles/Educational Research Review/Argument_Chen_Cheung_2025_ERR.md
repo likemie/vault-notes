@@ -119,7 +119,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-04
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chen_Cheung_2025_ERR"
@@ -202,9 +202,9 @@ issuing_organization: ""
 > | **结果变量：[[Higher-Order Thinking Skills\|高阶思维能力]]**<br>（Higher-Order Thinking, HOT） | [[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]与[[Divergent Thinking\|发散思维]]、复杂问题解决、[[Computational Thinking\|计算思维]]及[[Reflexivity\|反思性]]论证等深层认知加工与策略迁移能力。 | 纳入 16 项研究；采用加州[[Critical Thinking Disposition\|批判性思维倾向]]/技能测验（[[California Critical Thinking Disposition Inventory]] / Skills Test, CCTDI/[[California Critical Thinking Skills Test\|CCTST]]）、开放式辩论评分量规（de la Puente et al., 2024）与复杂编程解题任务（Lee et al., 2024; Stadler et al., 2024）；教学规程引导学生利用 AI 开展头脑风暴、论证辩难与反思性方案设计。 |
 > | **结果变量：[[Metacognition\|元认知能力]]**<br>（Metacognition, MC） | 学习者对自己认知加工过程的主动监控、自主调节、学习计划制订、策略反思与评估能力，即[[Self-Regulated Learning\|自我调节学习]]（Self-Regulated Learning, SRL）。 | 纳入 10 项研究；采用元认知意识量表（Metacognitive Awareness Inventory, MAI）与自主学习策略量表（Fan et al., 2025; Karaoglan Yilmaz & Yilmaz, 2025）；初级研究大多仅提供开放式工具交互而缺乏显性监控脚手架，导致干预效应微弱且未达统计显著（$g^+ = 0.078$），诱发[[Metacognitive Laziness\|元认知惰性]]。 |
 > | **干预变量：AI 工具形态——ChatGPT 系列** | 基于 OpenAI 大语言模型（Large Language Models, LLMs）架构的通用对话式生成系统，具备强提示词工程适应性、长文本理解生成与多轮上下文记忆功能。 | 纳入 65 项研究；作为最主流干预载体，应用于概念释疑、写作草稿生成、代码编写与头脑风暴；学生通过自然语言提示词驱动，教师通常在课前提供提示词示范或指令结构指引（如 Kosar et al., 2024; de la Puente et al., 2024）。 |
-> | **干预变量：AI 工具形态——其他[[Conversational AI in Education\|对话机器人]]** | 除 ChatGPT 外的专用或[[Going Native\|本土化]]大模型对话系统（如文心一言、Claude、Google Gemini 及高校自训学科助手）。 | 纳入 11 项研究；深度嵌入于特定学科学习平台（如外语学习系统、医学病案数据库），配备领域专业知识库与预设交互工作流（Gan et al., 2024）。 |
+> | **干预变量：AI 工具形态——其他[[Conversational AI in Education\|对话机器人]]** | 除 ChatGPT 外的专用或[[Going Native\|本土化]]大模型对话系统（如文心一言、Claude、Google Gemini 及高校自训学科助手）。 | 纳入 11 项研究；深度嵌入于特定学科学习平台（如[[Foreign Languages\|外语学习]]系统、医学病案数据库），配备领域专业知识库与预设交互工作流（Gan et al., 2024）。 |
 > | **干预变量：AI 工具形态——多模态与其他工具** | 非纯文本对话的生成式 AI 系统，涵盖代码生成辅助工具（如 GitHub Copilot）与视觉图像生成系统（如 Midjourney、DALL-E）。 | 纳入 21 项研究；应用于数字艺术创作、三维建模、工程制图与软件工程自动补全；教学要求学生将自然语言构思转化为视觉图景或可执行程序。 |
-> | **干预变量：生成模态** | AI 输出内容的信息表征通道，区分为文本生成、编程代码与视觉图像。 | 文本生成（$k=75$）、代码生成（$k=6$）、图像生成（$k=16$）；教学规程涵盖段落改写、函数编写与视觉原型设计，文本模态适用面最广且直接契合语言与文科教学。 |
+> | **干预变量：生成模态** | AI 输出内容的信息表征通道，区分为[[Text Generation\|文本生成]]、编程代码与视觉图像。 | 文本生成（$k=75$）、代码生成（$k=6$）、图像生成（$k=16$）；教学规程涵盖段落改写、函数编写与视觉原型设计，文本模态适用面最广且直接契合语言与文科教学。 |
 > | **干预变量：人机角色分工——学习同伴** | AI 被定位于平等的学术探讨伙伴与协作共创者，开展双向头脑风暴、[[Role-playing\|角色扮演]]、反思辩难与协作写作。 | 纳入 54 项研究；营造低焦虑、无权力威慑的平等对话[[Champ\|场域]]；学生被鼓励向 AI 提出质疑、指出其[[AI Hallucination\|幻觉]]并共同迭代方案（如模拟外交谈判，de la Puente et al., 2024）。 |
 > | **干预变量：人机角色分工——授课导师** | AI 被定位于权威教学支架提供者，执行单向或自适应的概念答疑、知识点讲授、[[Homework\|作业]]批改与纠错反馈。 | 纳入 43 项研究；模拟“一对一[[Mentorship\|导师制]]”，AI 针对学生答题即时指出错误并给出解析步骤（如编程调试，Johnson et al., 2024；医学病案，Hui et al., 2025）。 |
 > | **干预变量：教学整合时长** | 技术干预在课程中的持续周期，区分为短期（$< 4$ 周）、中期（$4–12$ 周）与长期（$> 12$ 周）。 | 短期（$k=33$）、中期（$k=48$）、长期（$k=9$）；中期干预覆盖完整教学单元或学期模块，既确保充分的技能内化与策略适应，又避免了技术新奇感衰退与工具脱敏。 |
@@ -381,7 +381,7 @@ issuing_organization: ""
 > - **看校正后置信区间是否依然大于零确证真实基本盘** 读表的最关键一步是审视调整后的 95% 置信区间下限：若在最苛刻的虚拟补齐后，**区间下限仍稳固高于零点**（如总体为 [0.132, 0.509]），且数值完全落入[[Evidence-Based Education\|循证教育]]学公认的常态区间（0.10–0.25），即可得出坚实结论——技术促学实效确凿无疑，但其实际作用是温和而理性的。
 
 > [!pathways] 高等教育生成式 AI 循证教学整合与政策治理路径
-> - **学段与学科差异化教学适配** 重点加强对大一新生的过渡期 AI 赋能，文科重在[[Man-Computer Symbiosis|人机协同]]思辨与写作论证，理工医科需明确 AI 作为数据整理与编程辅助的工具边界，警惕虚假代答。
+> - **学段与学科[[Differentiated Instruction|差异化教学]]适配** 重点加强对大一新生的过渡期 AI 赋能，文科重在[[Man-Computer Symbiosis|人机协同]]思辨与写作论证，理工医科需明确 AI 作为数据整理与编程辅助的工具边界，警惕虚假代答。
 > - **显性反思支架与元认知训练植入** 课程设计必须强制融入“生成内容批判性评价”、“提示词迭代反思”与“结构化自我监控表”，防范学生陷入不经思考的“元认知惰性”。
 > - **真实课堂的中周期模块化整合（4–12 周）** 避免单次孤立的演示实验，亦防范超长学期无序使用引发的技术脱敏；在 4–12 周的专题教学模块中设定明确的教学目标与评估节点。
 > - **数字包容与[[Intercultural Education|跨文化教育]]公平保障** 针对低数字化与欠发达地区高校加大技术开放与教师培训力度；在高权力距离文化中利用 AI 界面重塑师生互动，推动从“教师中心”向“学习者中心”[[Paradigm\|范式]]跃迁。

@@ -259,7 +259,7 @@ related_methods:
   - "[[Effectiveness Trial]]"
 status: draft
 created: '2026-10-07'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 ---
 
@@ -345,7 +345,7 @@ updated: 2026-10-22
 ### 去中心化群智能、即兴协同与反从众：工程思维的微观机制与认识论奠基
 
 > [!book-synthesis] 去中心化[[Swarm Intelligence|群智能]]与反从众[[Engineering Mindset|工程思维]]的微观机制
-> - **递进或修正** 针对传统[[Bureaucracy|官僚科层制]]的僵化与内耗，微观组织治理呈现出逐层深化的工程文化建构：生物蜂群与鸟群依靠[[Edge Autonomy|边缘自治]]与[[Swarm Intelligence|群智能]]达成去中心化协同；初创企业在破除动物[[Pecking Order|啄序]]特权与官僚层级的同时，依托[[Status Transactions|工具性地位]]与阴影层级实现敏捷应变；社会认知心理学实验（阿施、[[Stanley Milgram|米尔格拉姆]]）进一步证明，工程团队必须制度化包容[[Constructive Disobedience|建设性不服从]]，并以[[Social Deafness|社交失聪]][[Screening Off|屏蔽]]世俗舆论噪音；五角大楼采办诉讼与反恐实战大考确立了开发者与一线用户的亲密连接及《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（[[Federal Acquisition Streamlining Act of 1994|FASA 1994]]）中[[Commercial Off-The-Shelf|商用现货]]（COTS）优先原则的制度突破；最终由[[Hedgehog and Fox Model|刺猬与狐狸思维模型]]、[[Taiichi Ohno|大野耐一]][[Five Whys|五问法]]与冷峻写实观察确立了拥抱概率演化并在免责复盘中深挖系统根因的[[Engineering Mindset|工程思维]]。（pp. 115–167）
+> - **递进或修正** 针对传统[[Bureaucracy|官僚科层制]]的僵化与内耗，微观组织治理呈现出逐层深化的工程文化建构：生物蜂群与鸟群依靠[[Edge Autonomy|边缘自治]]与[[Swarm Intelligence|群智能]]达成去中心化协同；初创企业在破除动物[[Pecking Order|啄序]]特权与官僚层级的同时，依托[[Status Transactions|工具性地位]]与阴影层级实现敏捷应变；社会认知心理学实验（阿施、[[Stanley Milgram|米尔格拉姆]]）进一步证明，工程团队必须制度化包容[[Constructive Disobedience|建设性不服从]]，并以[[Social Deafness|社交失聪]][[Screening Off|屏蔽]]世俗舆论噪音；[[Department of Defense|五角大楼]]采办诉讼与反恐实战大考确立了开发者与一线用户的亲密连接及《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（[[Federal Acquisition Streamlining Act of 1994|FASA 1994]]）中[[Commercial Off-The-Shelf|商用现货]]（COTS）优先原则的制度突破；最终由[[Hedgehog and Fox Model|刺猬与狐狸思维模型]]、[[Taiichi Ohno|大野耐一]][[Five Whys|五问法]]与冷峻写实观察确立了拥抱概率演化并在免责复盘中深挖系统根因的[[Engineering Mindset|工程思维]]。（pp. 115–167）
 > - **成立条件** 生物蜂群、即兴演剧、反从众工程文化与“极致狐狸”[[Epistemology|认识论]]的敏捷自适应依赖于明确的战术目标、客观代码与物理运行的[[Effectiveness Trial|实效检验]]，以及对非传统异类人才的制度包容；更需要外部法律制度（如 COTS 优先与价值导向采购）打破官僚既得利益壁垒，使商业前沿创新能够无缝接入国家安全系统。（pp. 120–167）
 
 ### 破除市场必胜论与形式合规迷思：以创始人长程托管、公民仪式与君子美德重铸技术共和国

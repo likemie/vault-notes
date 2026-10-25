@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -112,7 +112,7 @@ updated: 2026-10-22
 > [!indicators] 影响力维度与指标
 > - **学术[[Discourse|话语]]权** 成功将“研究证据利用”（URE）与“研究与实践伙伴关系”（[[Research-Practice Partnership\|RPP]]）确立为当代教育科学与公共管理的前沿主流显学。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
 > - **高等教育制度突破** 推动卡内基基金会（Carnegie Corporation）与全美多所顶尖[[Research Universities|研究型大学]]正式修改终身教职评审章程，引入跨界伙伴工作豁免与政策赋权指标。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 222–223)]]
-> - **政策规范重塑** 深刻影响了包括美国教育部[[Institute of Education Sciences\|教育科学研究院]]（IES）在内的官方资助方，促使其在 SEER 卓越标准中纳入公平性与伙伴关系考量。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 208, 221)]]
+> - **政策规范重塑** 深刻影响了包括[[United States Department of Education|美国教育部]][[Institute of Education Sciences\|教育科学研究院]]（IES）在内的官方资助方，促使其在 SEER 卓越标准中纳入公平性与伙伴关系考量。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 208, 221)]]
 
 > [!finding-cards] 关键成效与辐射影响
 > - **破除唯学术发表的象牙塔激励错配** 迫使美国高校社会科学界反思将论文篇数与影响因子作为唯一评价指标的弊端，为从事跨界实践研究的学者拓宽了职业生涯通道。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 222)]]
@@ -139,7 +139,7 @@ updated: 2026-10-22
 > > [!axis] 民主赋权伦理 vs 传统学术[[Internal Validity\|内部效度]]标准
 > > 在评审中赋予边缘社区代表与学区官员实质性权重，引发部分传统因果[[Positivism\|实证主义]]学者对同行评议学术严谨性可能被政治正确稀释的忧虑。
 > >
-> > - **争议焦点** 社区利益偏好与高阶实验设计（如强制设置对照组）发生伦理冲突时如何裁决。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 223–224)]]
+> > - **争议焦点** 社区利益偏好与高阶[[Experimental Research|实验设计]]（如强制设置对照组）发生伦理冲突时如何裁决。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 223–224)]]
 
 > [!lessons] 经验教训与启示
 > - **资助规则即是学术文化塑造力** 格兰特基金会的实践表明，资助机构如果只改变口头倡导而不改变资金拨付与评审计分规则，大学学者的行为模式就绝不可能自发转变。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 222)]]

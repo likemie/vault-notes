@@ -75,15 +75,15 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] Cluster Randomized Trials
-> **集群随机试验（Cluster Randomized Trials, CRCT）**，亦称**整群随机试验**或**群组[[Randomised Controlled Trials\|随机对照试验]]（Group-Randomized Trials, GRT）**，是指将完整的自然群体（如学校、班级、学区或社区）而非单个个体作为[[Random Assignment\|随机分配]]（Random Assignment）的基本单位，而在群体内部的个体（如学生、教师）层面收集数据并评估干预效果的真实实验设计([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 316–318]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 1327]])。
+> **集群随机试验（Cluster Randomized Trials, CRCT）**，亦称**整群随机试验**或**群组[[Randomised Controlled Trials\|随机对照试验]]（Group-Randomized Trials, GRT）**，是指将完整的自然群体（如学校、班级、学区或社区）而非单个个体作为[[Random Assignment\|随机分配]]（Random Assignment）的基本单位，而在群体内部的个体（如学生、教师）层面收集数据并评估干预效果的真实[[Experimental Research|实验设计]]([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 316–318]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 1327]])。
 >
-> 在教育与社会政策研究中，CRCT 是实施全校性教学改革与课程干预最核心的量化方法。其核心统计特征在于：同属一个集群（如同一班级）的学生在背景和行为上天然存在相关性，违反了经典统计学的“独立同分布（IID）”假定；若未进行**群[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）** 与[[Hierarchical Linear Model\|多层线性模型]]（HLM）校正，将严重低估[[Standard Error\|标准误]]并制造虚假的[[Statistical Significance\|统计显著性]]。在美国教育部 [[What Works Clearinghouse\|WWC]] 审查规程中，未做集群校正的试验将被系统性降级([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–10]])。
+> 在教育与社会政策研究中，CRCT 是实施全校性教学改革与课程干预最核心的量化方法。其核心统计特征在于：同属一个集群（如同一班级）的学生在背景和行为上天然存在相关性，违反了经典统计学的“独立同分布（IID）”假定；若未进行**群[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）** 与[[Hierarchical Linear Model\|多层线性模型]]（HLM）校正，将严重低估[[Standard Error\|标准误]]并制造虚假的[[Statistical Significance\|统计显著性]]。在[[United States Department of Education|美国教育部]] [[What Works Clearinghouse\|WWC]] 审查规程中，未做集群校正的试验将被系统性降级([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–10]])。
 
 > [!method-scope] 方法范围
 > - **研究对象** 必须以全校或全班为单位推行的教育干预（如全校读写改革 [[Success for All]]、班级同伴辅导 [[Peer-Assisted Learning Strategies]]、全校综合支持 [[Communities in Schools]]、[[Classroom Management\|课堂管理]]系统 PBIS）。

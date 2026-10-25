@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -98,7 +98,7 @@ updated: 2026-10-22
 > - **提出者与原始文本** 政治学者弗兰克·R·鲍姆加特纳（Frank R. Baumgartner）与布莱恩·D·琼斯（Bryan D. Jones）于 1993 年出版里程碑著作《美国政治中的议程与不稳定性》（*Agendas and Instability in American Politics*），系统建构了间断均衡理论（Punctuated Equilibrium Theory, PET）。
 > - **原初问题** 针对二战后美国农药、核能、烟草及城市管理等领域展现出的极端悖论：政策为何能够维持长达数十年的铁三角垄断，却又在数年内因舆论翻转而发生颠覆性立法转向。
 > - **理论资源与材料** 吸收了古生物学家斯蒂芬·杰·古尔德（Stephen Jay Gould）与尼尔斯·埃尔德里奇（Niles Eldredge）在生物演化论中提出的“间断平衡”（Punctuated Equilibrium）隐喻，结合赫伯特·A·西蒙（[[Herbert A. Simon]]）的[[Bounded Rationality|有限理性]]理论与人类注意力分配瓶颈，构建出政治系统的正负反馈[[Analytic Framework|分析框架]]。
-> - **形成路径** 通过对美国国会听证会记录、总统国情咨文与主流媒体报道长达半个世纪的大规模纵向时间序列[[Content Analysis|内容分析]]，归纳出政策议题从边缘压抑到爆发性扩散的非线性动力学模型。
+> - **形成路径** 通过对[[United States Congress|美国国会]]听证会记录、总统国情咨文与主流媒体报道长达半个世纪的大规模纵向时间序列[[Content Analysis|内容分析]]，归纳出政策议题从边缘压抑到爆发性扩散的非线性动力学模型。
 
 > [!dev-timeline] 理论版本与贡献
 > - **1993 年 — 原初奠基** 鲍姆加特纳与琼斯系统确立政策垄断、[[Policy Image|政策形象]]与制度场所三大核心构件，解释美国国内政策子系统的稳态与破裂。

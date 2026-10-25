@@ -15,7 +15,7 @@ fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "中华人民共和国教育部"
+issuing_organization: "[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]"
 tags:
   - fact/policy
   - policy/belt-and-road
@@ -57,13 +57,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 中华人民共和国教育部（Ministry of Education, MOE）于2016年7月正式印发《推进共建“[[Belt and Road Initiative|一带一路]]”教育行动》（教外〔2016〕46号），并于同年8月召开专题新闻发布会进行官方解读。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 682)]]
+> - **发布时间 / 发布主体** [[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]（Ministry of Education, MOE）于2016年7月正式印发《推进共建“[[Belt and Road Initiative|一带一路]]”教育行动》（教外〔2016〕46号），并于同年8月召开专题新闻发布会进行官方解读。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 682)]]
 > - **适用地区 / 对象** 面向“一带一路”沿线及签约合作国家的高等院校、职业院校、科研机构、各级教育行政部门及跨国教育交流人员。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682–684)]]
 > - **问题背景** “一带一路”重大地缘与经济走廊建设面临沿线国教育协同不足、语言相通受限、重大工程亟需的复合型工程技术人才匮乏等结构性短板。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 683)]]
 > - **制度位置** 政策衔接2015年国家发展和改革委员会（National Development and Reform Commission, NDRC）、外交部、商务部联合发布的《推动共建丝绸之路经济带和21世纪海上丝绸之路的愿景与行动》，落实其中“[[People-to-People Connectivity|民心相通]]”与教育共同体构建要求，构成了新时代中国教育对外开放战略在“一带一路”方向的行动纲领。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682–685)]]
@@ -97,21 +97,21 @@ updated: 2026-10-22
 
 > [!actor-grid] 实施角色分工
 > - **发布主体** 中华人民共和国教育部，负责总体规划编制、国际多边双边政府间教育协议签署与奖学金资金调配。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 682)]]
-> - **执行主体** 各省市教育行政部门与高水平大学，负责丝路大学联盟建设、全英文授课项目开发及境外联合办学实体落地。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679–680)]]
+> - **执行主体** 各省市教育行政部门与高水平大学，负责丝路大学联盟建设、全[[English-Medium Instruction in Higher Education|英文授课项目]]开发及境外联合办学实体落地。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679–680)]]
 > - **产业协同主体** 高等职业院校协同跨国基建与制造企业，建设[[Luban Workshop|鲁班工坊]]，定向培养技术技能工人与现场工程师。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–686)]]
 > - **适用对象** 沿线国家高等教育机构、留学生与学者网络，作为合作平台共建方与智力流动受益方参与。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 683–684)]]
 
 > [!pathways] 实施路径
 > - **中央与部委顶层统筹** 教育部联合发改委、外交部建立宏观协调机制，将教育任务分解纳入国家对外开放总体布局。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–686)]]
-> - **部省协同与高校执行** 教育部与核心省份签署省部共建备忘录，高校设立境外独立校区（如厦门大学马来西亚分校）、发起跨国学术联盟（如[[University Alliance of the Silk Road|丝绸之路大学联盟]] UASR）。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679–683)]]
+> - **部省协同与高校执行** 教育部与核心省份签署省部共建备忘录，高校设立境外独立校区（如[[Xiamen University Malaysia|厦门大学马来西亚分校]]）、发起跨国学术联盟（如[[University Alliance of the Silk Road|丝绸之路大学联盟]] UASR）。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679–683)]]
 > - **产教融合与高职出海** 依托《职教行动计划》推动高职院校协同央企建设海外鲁班工坊，定向输出工程技术专业标准。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 685)]]
 > - **省市结对协同合作** 鼓励各省市依托历史渊源与地缘优势，与沿线国家建立友好省份与友好城市机制，拓宽民间与地方层面教育互助资源。[[Argument_King_2020_ECNUROE|(King, 2020, p. 231)]]
-> - **南亚中亚在地化弹性拓展** 针对中亚三语政策（国语、俄语、英语/汉语）推广全英文授课工程与医学项目；在阿富汗与巴基斯坦通过提供定向奖学金培育交通工程与医学人才；在土库曼斯坦等出境管制严格国家采用“在地离岸培训与属地学徒制”（如中石油阿姆河气田实训）；在乌兹别克斯坦遇孔院配额上限时采用校际智慧语言教室直接捐赠。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 26–28)]]
+> - **南亚中亚在地化弹性拓展** 针对中亚三语政策（国语、俄语、英语/汉语）推广全英文授课工程与医学项目；在阿富汗与巴基斯坦通过提供定向奖学金培育交通工程与医学人才；在土库曼斯坦等出境管制严格国家采用“在地离岸培训与属地[[Apprenticeship|学徒制]]”（如中石油阿姆河气田实训）；在乌兹别克斯坦遇[[Confucius Institute|孔院]]配额上限时采用校际智慧语言教室直接捐赠。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 26–28)]]
 
 ---
 
 > [!actor-grid] 权力—利益矩阵
-> - **高权力 · 高利益 — 关键行动者** 中华人民共和国教育部与重点[[Research Universities|研究型大学]] — 掌控政策规程与专项财政拨付权，承担国家战略支撑与双一流建设双重使命。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–687)]]
+> - **高权力 · 高利益 — 关键行动者** 中华人民共和国教育部与重点[[Research Universities|研究型大学]] — 掌控政策规程与专项财政拨付权，承担国家战略支撑与[[Double First-Class Initiative|双一流建设]]双重使命。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–687)]]
 > - **高权力 · 低利益 — 潜在盟友与统筹部委** 国家发改委、财政部与商务部 — 聚焦宏观经济走廊与大型工程落地，将教育视作配套人文支持手段。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–685)]]
 > - **低权力 · 高利益 — 受影响与执行群体** 跨国来华留学生、应用技术型高职院校与外派师资 — 依托专项奖学金与校企合作实现技能提升与发展空间拓宽。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679, 693)]]
 > - **低权力 · 低利益 — 边缘行动者** 合作国本土草根社区与市民社会 — 容易受[[Geopolitics|地缘政治]]摩擦与文化隔阂影响，对项目透明度与主权风险产生疑虑。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
@@ -177,7 +177,7 @@ updated: 2026-10-22
 > > - **实证测度视角的权力转化困境（2021）** [[Argument_Custer_2021_AidData|Custer et al. (2021, pp. 28, 58–60)]] 实证指出，南亚与中亚临床医学留学生毕业回国面临本国医学理事会认证门槛与行医执照考试合格率低下争议；在瓜达尔、科伦坡等重大基建前沿，教育交流未能自然弥合基层民众对劳动力挤出与环境破坏的不满，呈现出教育补贴难以自主转化为持久社会认同的张力。
 
 > [!citation-card] 代表性评论：[[Education Going Global|教育出海]]的多维地缘属性
-> 尽管公共外交叙事强调合作共赢与[[Community of Shared Future for Mankind|命运共同体]]，但[[Belt and Road Initiative|一带一路]]跨国教育战略实质上具有鲜明的地缘经济工具属性；当面临国际地缘博弈加剧与合作国基层社会反弹时，过度依赖经济补贴的软实力投射展现出结构性脆弱。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
+> 尽管[[Public Diplomacy|公共外交]]叙事强调合作共赢与[[Community of Shared Future for Mankind|命运共同体]]，但[[Belt and Road Initiative|一带一路]]跨国教育战略实质上具有鲜明的地缘经济工具属性；当面临国际地缘博弈加剧与合作国基层社会反弹时，过度依赖经济补贴的软实力投射展现出结构性脆弱。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
 >
 > *Despite public diplomacy narratives of mutual benefit, cross-border education strategy under the BRI operates as a strategic instrument linked to economic power, revealing vulnerability amid geopolitical rivalry and grassroots backlash.*
 

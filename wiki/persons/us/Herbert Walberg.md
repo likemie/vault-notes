@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 （赫伯特·沃尔伯格）
@@ -64,7 +64,7 @@ updated: 2026-10-22
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国当代著名教育心理学家、[[Quantitative Research|量化研究]]综合先驱，芝加哥伊利诺伊大学教育学与心理学荣誉教授，斯坦福大学[[Herbert Hoover|胡佛]]研究所高级研究员，美国国家教育[[Chinese Academy of Sciences|科学院]]院士。
+> - **身份位置** 美国当代著名教育心理学家、[[Quantitative Research|量化研究]]综合先驱，芝加哥伊利诺伊大学教育学与心理学荣誉教授，斯坦福大学[[Herbert Hoover|胡佛]]研究所高级研究员，美国国家教育科学院院士。
 > - **核心角色** 率先将经济学生产函数与大规模量化[[Meta-analysis|元分析]]系统引入教育研究，创立享誉全球的教育生产力九因素理论（Educational Productivity Model），是大规模二阶[[Meta-meta-analysis|元综合]]（Meta-synthesis）的开拓者；其早期的教学强化实证研究直接启发并支撑了[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）《[[Visible Learning|可见的学习]]》的奠基工作。
 > - **代表贡献** 提出涵盖学生特质、教学过程与环境条件的九因素[[Walberg's Educational Productivity Model|教育生产力模型]]（[[Walberg's Educational Productivity Model]]）；与莱萨科夫斯基（Lysakowski）联合开展针对课堂行为强化（1980, $d = 1.17$）与教学线索及矫正强化（1982, $d = 0.97$）的开创性元分析；在 1987 年与哈蒂等人联合主编出版里程碑式专著《教育生产力研究的综合》（Fraser et al., 1987），奠定全球[[Evidence-Based Education|循证教育]]指标量化合成传统。
 
@@ -83,7 +83,7 @@ updated: 2026-10-22
 > - **1982** 发表《线索、参与和矫正性反馈的教学效应：量化综合》，基于 94 项研究确立[[Behaviorism|行为主义]]教学策略的强劲实证增益（$d = 0.97$）。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, p. 11)]]
 > - **1984** 发表经典论文《提高美国学校的生产力》（*Improving the Productivity of America's Schools*），正式提出系统的教育生产力九因素理论。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 42)]]
 > - **1987** 与弗雷泽（Fraser）、韦尔奇（Welch）以及当时年轻的[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）联合出版 100 页专著《教育生产力研究的综合》，综合了 226 项一阶元分析，成为教育史上首个大规模二阶[[Meta-meta-analysis|元综合]]成果。
-> - **2000 年代** 受聘为斯坦福大学[[Herbert Hoover|胡佛]]研究所高级研究员，长期担任美国教育部国家教育统计中心（NCES）顾问。
+> - **2000 年代** 受聘为斯坦福大学[[Herbert Hoover|胡佛]]研究所高级研究员，长期担任[[United States Department of Education|美国教育部]]国家教育统计中心（NCES）顾问。
 > - **2023** 逝世于美国伊利诺伊州，享年 85 岁。
 
 ---
@@ -97,7 +97,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心思想
-> 沃尔伯格坚持[[Positivism|实证主义]]计量经济学与行为科学相结合的教育生产力[[Paradigm|范式]]：学校教育可被建构为一个受明确生产函数规制的输入—产出系统；学生的[[Academic Achievement|学业成就]]与态度受三大类九项独立因素的共同作用（学生个体特质包含认知能力、年龄发育与动机；教学过程包含课程量、教学质性；环境条件包含家庭环境、同伴群体与校内微观生态）。沃尔伯格主张，教育政策的核心任务聚焦于依据量化[[Meta-analysis|元分析]]的科学[[Effect Size|效应量]]排名，优先配置具有最高生产率乘数的关键干预措施（如结构化线索强化与高针对性[[Feedback|教学反馈]]）。
+> 沃尔伯格坚持[[Positivism|实证主义]]计量经济学与行为科学相结合的教育生产力[[Paradigm|范式]]：学校教育可被建构为一个受明确生产函数规制的输入—产出系统；学生的[[Academic Achievement|学业成就]]与态度受三大类九项独立因素的共同作用（学生个体特质包含认知能力、年龄发育与动机；教学过程包含课程量、教学质性；环境条件包含[[Home Environment|家庭环境]]、同伴群体与校内微观生态）。沃尔伯格主张，教育政策的核心任务聚焦于依据量化[[Meta-analysis|元分析]]的科学[[Effect Size|效应量]]排名，优先配置具有最高生产率乘数的关键干预措施（如结构化线索强化与高针对性[[Feedback|教学反馈]]）。
 
 > [!citation-card] 教育生产力九因素理论假定
 > 沃尔伯格认为，教育研究的根本突破在于通过严格的量化元分析，将繁复多样的教学尝试还原为统一标准差量表上的可比效应量。通过系统优化教学线索、学生参与以及即时矫正强化，学校能够在现有财政约束下实现学生学业生产力的大幅增长。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 42–43)]]

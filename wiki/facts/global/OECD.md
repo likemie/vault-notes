@@ -190,7 +190,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -218,7 +218,7 @@ updated: 2026-10-23
 >
 > - **1961–1970s** **OECD 改组、科技统计奠基与冷战[[Development Turn in Comparative Education|发展转向]]**
 >
->   美欧国家将 OECD 打造为抗衡苏联意识形态与综合国力竞争的制度堡垒，在[[Economics of Education Movement|教育经济学运动]]影响下确立教育是经济增长生产性投资的新范式。副司长[[George Papadopoulos|乔治·帕帕多普洛斯]]（George Papadopoulos）所总结的 1960–1990 年阶段中，欧洲成员国的社会民主主义议程缓冲了美国的自由市场取向，形成恩斯特·哈斯（Ernst Haas）所谓美国与欧洲成员国之间不连贯的妥协（Haas, 1990, p. 159）：教育被视为培育批判性民主公民与维护社会凝聚力的公共物品，工作模式以自愿性的国别审查（*sui generis*）与宽容的广泛意识形态教会为特征。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–423)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–439, 442, 451)]]
+>   美欧国家将 OECD 打造为抗衡苏联意识形态与综合国力竞争的制度堡垒，在[[Economics of Education Movement|教育经济学运动]]影响下确立教育是经济增长生产性投资的新[[Paradigm|范式]]。副司长[[George Papadopoulos|乔治·帕帕多普洛斯]]（George Papadopoulos）所总结的 1960–1990 年阶段中，欧洲成员国的社会民主主义议程缓冲了美国的自由市场取向，形成恩斯特·哈斯（Ernst Haas）所谓美国与欧洲成员国之间不连贯的妥协（Haas, 1990, p. 159）：教育被视为培育批判性民主公民与维护社会凝聚力的公共物品，工作模式以自愿性的国别审查（*sui generis*）与宽容的广泛意识形态教会为特征。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–423)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–439, 442, 451)]]
 >
 >   - **1961** OECD 正式取代 OEEC。
 >   - **1962** 启动地中海地区项目（[[Mediterranean Regional Project]]，MRP），将[[Human Capital Theory|人力资本理论]]系统转化为南欧各国的国家教育发展规划，与[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（International Institute for Educational Planning，IIEP）形成双翼，推动比较教育的发展转向。
@@ -231,7 +231,7 @@ updated: 2026-10-23
 >
 >   冷战终结后，OECD 内部经济效率与社会目的之间的张力消退，组织从成员国协商的开放论坛演变为自身独立的政策行动者（policy actor in its own right）：放弃指令性强制，转而通过破译新兴趋势、同行评议与指标体系确立跨国游戏规则，推动国家治理向[[New Public Management|新公共管理]]、分权问责与市场竞争转型，并把教育公平、性别平权与社会凝聚力工具化为经济政策的附庸。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 440–446, 448–452)]]
 >
->   - **1983** 美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告引发教育危机恐慌，时任美国教育部助理部长切斯特·芬恩（Chester Finn Jr.）转向 CERI，委托并资助 CERI 主管 [[Jarl Bengtsson]] 团队研发跨国[[Performance Indicators|教育指标]]体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 540–542)]]
+>   - **1983** 美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告引发教育危机恐慌，时任[[United States Department of Education|美国教育部]]助理部长切斯特·芬恩（Chester Finn Jr.）转向 CERI，委托并资助 CERI 主管 [[Jarl Bengtsson]] 团队研发跨国[[Performance Indicators|教育指标]]体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 540–542)]]
 >   - **1988** [[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）项目网络正式启动。
 >   - **1992** 推出旗舰年度报告《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG），标志 OECD 从投入端与粗放人力核算转向关注教育系统的产出效能与质量问责。
 >   - **1994** 日本与东亚后发追赶的成功暴露了单纯依赖弗拉斯卡蒂研发投入指标的局限，OECD 科技政策委员会（Committee for Scientific and Technological Policy，CSTP）在弗里曼、本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）等[[Evolutionary Economics|演化经济学]]家影响下，启动国家[[Systems of Innovation|创新系统]]大型国际研究项目。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–11, 19–20)]]
@@ -254,7 +254,7 @@ updated: 2026-10-23
 >   - **2000s–2010s** 测评版图扩展至[[Teaching and Learning International Survey|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）、[[Programme for the International Assessment of Adult Competencies|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（[[PISA for Development]]，PISA-D）。
 >   - **2007** CERI 出版旗舰专著《Evidence in Education》。
 >   - **2010** 推出《The Nature of Learning》学习科学工程，其后开展教师知识调查（Teacher Knowledge Survey，TKS）。
->   - **2011** 在韩国釜山举行经合组织发展援助委员会（Development Assistance Committee, DAC）第四届援助效益高层论坛。大会标志着国际援助哲学的重大转折，传统由西方供资方单向主导的附带政治约束援助模式遭遇普遍抵制，强调技术协作与互学互鉴的[[South-South Cooperation|南南合作]]理念及三方合作机制确立国际合法性。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 210–211)]]
+>   - **2011** 在韩国釜山举行经合组织发展援助委员会（Development Assistance Committee, DAC）第四届援助效益高层论坛。大会标志着国际援助哲学的重大转折，传统由西方供资方单向主导的附带政治约束援助模式遭遇普遍抵制，强调技术协作与[[Mutual Learning|互学互鉴]]的[[South-South Cooperation|南南合作]]理念及[[Triangular Cooperation|三方合作]]机制确立国际合法性。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 210–211)]]
 >   - **2018** 丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（[[Kerstin Martens]]）提出“硬事实软治理”（[[Soft Power by Hard Facts|Soft governance by hard facts]]）命题，揭示经合组织如何依托跨国量化统测生产客观硬事实以确立[[Cognitive Authority|认知权威]]并充当[[Boundary Spanner|知识经纪人]]，通过[[Inquisitive Mode of Governance|探究模式]]定义问题与[[Meditative Mode of Governance|调解模式]]推介最佳实践，打破主权国家教育管辖权边界，展现出全球教育政策的“[[OECD-fication|经合组织化]]”（OECD-fication）。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271, 277–279)]]
 >   - **2021** 启动[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]，推动成员国从被动接受指标排名转向主动建构国家级[[Evidence Ecosystem|证据生态系统]]。
 
@@ -327,7 +327,7 @@ updated: 2026-10-23
 > > [!axis] 北方中心主义与国家科层偏见 vs 南向多标量政策循环
 > > 质询以经合组织为典型代表的跨国政策借用理论是否预设了单向的北方技术官僚主导偏见。
 > >
-> > - **全球南方与批判政策流动视角（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）** 批评比较公共政策与政策转移研究长期深植于经合组织发达工业化国家的治理经验，预设政策创新单向由全球北方流向全球南方、由中央政府部委科层主导且依赖纯粹技术理性；忽视了全球南方依托本土微观治理实验（如参与式预算、快速公交、有条件现金转移支付）、政策大使穿梭与南南合作网络正在实质重构跨国政策流动的拓扑结构。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 84, 210–211, 237–239)]]
+> > - **全球南方与批判[[Policy Mobility|政策流动]]视角（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）** 批评比较公共政策与政策转移研究长期深植于经合组织发达工业化国家的治理经验，预设政策创新单向由全球北方流向全球南方、由中央政府部委科层主导且依赖纯粹[[Technical Rationality|技术理性]]；忽视了全球南方依托本土微观治理实验（如[[Participatory Budgeting|参与式预算]]、快速公交、[[Conditional Cash Transfers|有条件现金转移支付]]）、[[Policy Ambassador|政策大使]]穿梭与南南合作网络正在实质重构跨国政策流动的拓扑结构。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 84, 210–211, 237–239)]]
 > > - **经合组织多边治理立场** 强调经合组织不仅服务于发达成员国，亦通过“全球关系项目”与发展援助委员会为广大非成员国提供客观证据与技术协作平台，其指标体系旨在提供超越意识形态的去政治化标准。
 >
 > > [!axis] 国际政治理论透镜下的[[Governmentality\|治理性]]质交锋
@@ -357,7 +357,7 @@ updated: 2026-10-23
 > >
 > > - **复合体知识武器化与排他壁垒（批判政治经济学）** 批判研究指出，经合组织与[[World Bank\|世界银行]]、[[UNESCO\|联合国教科文组织]]等构成了“[[Global Education Governing Complex\|全球教育治理复合体]]”，将可量化、可比较且可标准化的知识武器化，用以向主权政府施加远处问责。尽管各机构高调宣称多边协同（如参与设立 [[Building Evidence in Education\|BE2]] 智库联盟），但实践中极力防范自身专属利基被侵蚀；例如当联合国教科文组织与世界银行共同倡议“[[Learning Data Compact\|学习数据协定]]”（Learning Data Compact）试图建立统一框架时，经合组织拒绝签署加入，转而独立与德国开发署合作推广 [[PISA for Development\|PISA-D]]（PISA for Development），在多边合作修辞下深层延续了排他性利益争夺与地盘割据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 539, 549–550)]]
 >
-> > [!axis] 比较教育学科认识论侵蚀与咨询[[Paradigm|范式]]异化
+> > [!axis] 比较教育学科[[Epistemology|认识论]]侵蚀与咨询[[Paradigm|范式]]异化
 > > 探讨经合组织指标治理对传统比较教育学科自主性、认识论深度与政策咨询伦理的深层冲击。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96, 98–99)]]
 > >
 > > - **学科史批判视角（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）** 欧洲比较教育学科史学者指出，经合组织主导的经济导向政策与大规模量化测评，瓦解了比较教育自战后确立的“[[Navigation Metaphor in Comparative Education\|航海隐喻]]”传统。经合组织将比较研究从呈现多元历史情境与制度备选方案的审慎中介，异化为直接绑定政府拨款与硬性问责的技术工具；这种由超国家官僚机构直接设定研究目标与评价指标的机制，不仅削弱了大学比较学者的独立探究自主权，更以去语境化的浅层排名掩盖了教育制度与本土文化土壤之间的深层生态共生关系。
@@ -433,7 +433,7 @@ updated: 2026-10-23
 > | [[Wolfgang Mitter]] | Person | 揭示 OECD 经济导向教育政策对欧洲比较教育学科自主性与认识论侵蚀的代表学者。 |
 > | [[South-South Cooperation]] | 概念 | 经合组织发展援助委员会 2011 年釜山论坛确立合法性的南南互学互鉴与技术协作模式。 |
 > | [[Policy Ambassador]] | 概念 | 穿梭于多边组织网络、打破经合组织单向政策转移预设的跨国政策使者。 |
-> | [[Technical Rationality]] | 概念 | 经合组织政策转移框架所预设的纯粹工具理性与科学实证主义技术范式。 |
+> | [[Technical Rationality]] | 概念 | 经合组织[[Policy Transfer Framework\|政策转移框架]]所预设的纯粹工具理性与科学实证主义技术范式。 |
 > | [[Strengthening the Impact of Education Research Project]] | Fact (Program) | OECD CERI 启动的旗舰跨国调查项目，覆盖 29 国 37 个教育系统，系统摸排[[Knowledge Mobilisation\|知识动员]]与证据生态治理机制。 |
 > | [[Evidence Ecosystem]] | Concept | OECD 倡导的新一代知识治理核心[[Construct\|构念]]，超越线性传递与点状网络，强调全系统动态反馈与使能机制。 |
 > | [[National Innovation System]] | Concept | OECD 于 1990 年代官方采纳的科技政策新范式，超越单一研发投入指标，关注多主体互动学习。 |

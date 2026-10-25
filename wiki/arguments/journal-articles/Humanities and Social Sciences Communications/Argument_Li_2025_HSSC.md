@@ -94,7 +94,7 @@ sources:
 part_of:
 status: draft
 created: 2026-07-05
-updated: 2026-10-22
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2025_HSSC"
@@ -198,7 +198,7 @@ issuing_organization: ""
 
 > [!warrant]- 推理桥梁
 > 区域集中性与三个因素有关：
-> - [[OECD]] 与欧盟委员会长期共享相似政策议程。OECD 定义和收集的欧洲教育体系数据与欧盟数据交叉，共同创建了 **[[European Education Space\|欧洲教育空间]]（European Education Space）**。
+> - [[OECD]] 与[[European Commission|欧盟委员会]]长期共享相似政策议程。OECD 定义和收集的欧洲教育体系数据与欧盟数据交叉，共同创建了 **[[European Education Space\|欧洲教育空间]]（European Education Space）**。
 > - PISA 自首轮结果发布即塑造了欧洲教育网络的运作方式，政策领域自那时起就受到欧洲学者的广泛关注（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]）。
 > - 欧洲代表了 OECD 世界的重要部分。
 
@@ -268,8 +268,8 @@ issuing_organization: ""
 >   PISA 对德国教育公平和包容政策的影响包括：推动学生早期进步（特别是社会经济处境不利学生）、改善学生基础技能、加强学前机构与小学合作、质量保证措施、高级教师培训以及扩建全日制学校（Niemann et al., 2017）。
 
 > [!dimension] 过程公平
-> 回应 PISA 对学生学习过程（动机、自我认知、学习策略）的关注（OECD, 2010），各国政策主要包括：
-> - **引入个性化学习支持和补救教学**
+> 回应 PISA 对学生学习过程（动机、自我认知、[[Learning Strategies|学习策略]]）的关注（OECD, 2010），各国政策主要包括：
+> - **引入[[Personalized Learning|个性化学习]]支持和补救教学**
 >   法国教育部于 2013 年 7 月批准的《共和国学校重建方向与规划法》（Loi d'orientation et de programmation pour la refondation de l'École de la République，全称共和国学校重建方向与规划法）旨在重建法国教育体系，核心关注提升学校教育质量和公平：优先初等教育和基础技能，加强基础文化和公民教育以确认核心必要知识与能力，加强处境不利学生的优先教育，改善学习环境和校风，通过建立大学内教师教育学院提高教师初始教育和持续专业发展（Michel, 2017）。
 > - **建立国家统一教学标准并实施国家课程**
 >   法国通过优先初等教育和基础技能、确认核心必要知识与能力，以国家课程标准化确保过程公平。

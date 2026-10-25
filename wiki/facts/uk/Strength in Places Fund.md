@@ -11,7 +11,7 @@ fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
-issuing_organization: "UK Research and Innovation (UKRI)"
+issuing_organization: "[[UK Research and Innovation|UK Research and Innovation (UKRI)]]"
 tags:
   - region/uk
   - policy/research-funding
@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

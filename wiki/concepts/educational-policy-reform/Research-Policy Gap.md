@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -194,7 +194,7 @@ updated: 2026-10-22
 > - **1970s — “两个社群”理论与启蒙模型** Caplan（1979）提出“两个社群”（Two Communities）假说，指出学者与决策者属于拥有不同语言、价值与生活方式的两个隔离群体；Weiss（1979）提出启蒙模型（[[Enlightenment]] Model），指出研究主要通过长期观念渗透而非直接工具性决定影响政策。
 > - **2000s — [[Evidence-Based Policy-Making|循证决策]]运动与理性主义批评** 英国新工党执政时期“有效性（What Works）”运动兴起，试图通过[[Systematic Review\|系统综述]]与政策工具包填补鸿沟；然而 Nutley et al.（2007）指出这种[[Technical Rationality\|技术理性]]主义模型低估了政策过程的复杂性。
 > - **2010s — 政治学与系统生态转向** Oliver et al.（2014）与 Cairney（2016）将[[Multiple Streams Framework\|多源流理论]]与复杂系统理论引入研究-政策鸿沟研究，论证政策制定并非理性的证据消化机器，而是充满政治妥协的竞技场。
-> - **2020 — 联邦立法实务视角的政策导航与时间系统** [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] 基于美国国会众议院立法实务经验，揭示宏观政策制定深受突发事件驱动的[[Policymaking Chronosystem\|政策制定时间系统]]支配，反思了金标准[[Randomised Controlled Trials\|随机对照试验]]在复杂立法中的局限，提出了四阶段[[Navigational Framework for Educational Researchers\|政策导航框架]]与[[Legislative Policy Brief\|立法政策简报]]机制。
+> - **2020 — 联邦立法实务视角的政策导航与时间系统** [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] 基于[[United States Congress|美国国会]]众议院立法实务经验，揭示宏观政策制定深受突发事件驱动的[[Policymaking Chronosystem\|政策制定时间系统]]支配，反思了金标准[[Randomised Controlled Trials\|随机对照试验]]在复杂立法中的局限，提出了四阶段[[Navigational Framework for Educational Researchers\|政策导航框架]]与[[Legislative Policy Brief\|立法政策简报]]机制。
 > - **2022 — [[Centre for Educational Research and Innovation\|OECD CERI]] 跨国实证诊断** [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]]基于 29 国 37 个教育系统的跨国实证数据，首次系统测绘了政策端与实践端在阻碍感知与机制部署上的不对称图谱，将研究-政策鸿沟具体化为“时间错配”、“需求委托倒挂”与“互动机制贫乏”三大可测量维度。
 
 ---

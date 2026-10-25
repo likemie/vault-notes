@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -82,7 +82,7 @@ updated: 2026-10-22
 
 > [!feature] 核心要素
 > - **去中心化赋权（Decentralized Empowerment）** 坚信小型化、便携化的个人计算设备能够瓦解大政府与大企业的信息垄断，使普通人掌握认知与创造工具。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, p. 98)]]
-> - **反中央集权意识形态（Anti-Centralization Ideology）** 继承 1960 年代反越战与民权运动的激进反体制立场，对五角大楼、情报机构和联邦官僚持有本能的敌意与防范。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–99)]]
+> - **反中央集权意识形态（Anti-Centralization Ideology）** 继承 1960 年代反越战与民权运动的激进反体制立场，对[[Department of Defense|五角大楼]]、情报机构和联邦官僚持有本能的敌意与防范。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–99)]]
 > - **艺术与工程的融合审美（Art-Engineering Synthesis）** 以[[Steve Jobs|史蒂夫·乔布斯]]（[[Steve Jobs]]）在里德学院对书法与排版的研究为代表，将东方灵修、人文美学与严密工程相结合，视计算机为人类心智的自行车。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 100–101)]]
 > - **公社式知识共享（Communal Knowledge Sharing）** 依托[[Homebrew Computer Club|家酿计算机俱乐部]]等自组织，主张电路图、系统架构与软件代码的无偿互助与自由交流。
 

@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-16
+updated: 2026-10-26
 ---
 
 ## 背景
@@ -90,7 +90,7 @@ updated: 2026-10-16
 从普鲁士耶拿惨败到法国 1880 年代费里法案，[[François Guizot|基佐]]法案在跨国政策转置与本土制度演进中占据关键枢纽：
 
 > [!timeline] 政策时间线
-> - **1806** 普鲁士耶拿战败濒临亡国，统治精英确立以国民教育重振民族精神的国家理性，拉开现代公共教育机器重构序幕。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 24–26)]]
+> - **1806** 普鲁士耶拿战败濒临亡国，统治精英确立以[[National Education|国民教育]]重振民族精神的国家理性，拉开现代公共教育机器重构序幕。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 24–26)]]
 > - **1819** 普鲁士枢密顾问官[[Johann Wilhelm Süvern\|聚芬]]起草划时代的[[Comprehensive Education|综合教育]]法案草案（Süvern Law），奠定义务公立学校、市镇维持责任与师范建制的制度原型。
 > - **1830** 法国爆发七月革命，路易-菲利普建立自由主义立宪君主政体，基佐与[[Victor Cousin\|库森]]进入政府决策中枢。
 > - **1831** 库森受命作为官方正式外交使节赴德意志考察，发表《普鲁士公共教育现状报告》，建议将[[Prussian Draft Education Law of 1819\|聚芬法案]]作为法国立法蓝本。（Brewer, 1971:44; pp. 26–28）
@@ -124,7 +124,7 @@ updated: 2026-10-16
 [[François Guizot|基佐]]法案的制定与落实深嵌于七月王朝各政治派系、社会阶层与宗教团体的权力博弈之中：
 
 > [!actor-grid] 权力—利益矩阵
-> - **高权力 · 高利益 — 核心决策者** 弗朗索瓦·基佐与[[Victor Cousin\|维克多·库森]]（公共教育部立宪自由派精英） — 掌握中央立法与行政权力，诉求通过国民教育重建国家理性与公共秩序，策略性动用普鲁士经验直接转置为国家法律。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 26–29)]]
+> - **高权力 · 高利益 — 核心决策者** 弗朗索瓦·基佐与[[Victor Cousin\|维克多·库森]]（公共教育部立宪自由派精英） — 掌握中央立法与行政权力，诉求通过[[National Education|国民教育]]重建国家理性与公共秩序，策略性动用普鲁士经验直接转置为国家法律。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 26–29)]]
 > - **高权力 · 低利益 — 妥协与潜在抗衡者** 天主教教会教阶体制与旧贵族保守派 — 拥有广泛的宗教教育特权与社会声望，抵制中央世俗国家垄断；基佐以“教学自由”和保留学校宗教道德教学换取其政治合作。（p. 29）
 > - **低权力 · 高利益 — 核心受益群体** 平民子弟、工商业中产阶层与专业教师 — 缺乏独立政治发言权，但直接受惠于公立学校普及、贫困免费就学、实用工商技能传授及国家最低薪资兜底。（pp. 28–29）
 > - **低权力 · 低利益 — 边缘行动者** 传统私塾兼差教工与乡村退伍军人 — 随着国家师范能力证书（*brevet de capacité*）的严格推行，被逐步排挤出教师队伍。（Bowen, 1981:315）

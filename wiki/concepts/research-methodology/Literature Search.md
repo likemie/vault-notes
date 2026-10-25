@@ -95,7 +95,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -188,7 +188,7 @@ updated: 2026-10-23
 > | [CEM](https://www.cem.org) | 课程评估与监测中心，全球最大的教育监测机构之一 |
 > | [HKERA](https://www.hkera.org) | 香港教育研究协会 |
 > | [WERA](https://www.weraonline.org) | 世界教育研究协会，[[International Education\|国际教育]]研究网络 |
-> | [ESRC](https://www.ukri.org/councils/esrc) | 英国经济与社会研究理事会，教育研究资助机构 |
+> | [ESRC](https://www.ukri.org/councils/esrc) | [[Economic and Social Research Council\|英国经济与社会研究理事会]]，教育研究资助机构 |
 
 > [!index-table] 政府与统计网站
 > | 资源 | 说明 |
@@ -213,14 +213,14 @@ updated: 2026-10-23
 > | [ICPSR](https://www.icpsr.umich.edu) | 美国校际政治与社会研究数据联盟，需机构订阅 |
 > | [Eurydice](https://eurydice.eacea.ec.europa.eu) | 欧盟教育制度比较数据 |
 > | [CLS](https://www.cls.ioe.ac.uk) | 英国[[Cohort Study\|队列研究]]，纵向追踪数据（1958、1970、2000+） |
-> | [data.gov.uk](https://data.gov.uk) | 英国政府开放数据，含 DfE 教育统计 |
+> | [data.gov.uk](https://data.gov.uk) | 英国政府开放数据，含 [[Department for Education\|DfE]] 教育统计 |
 > | [TIMSS / PIRLS](https://nces.ed.gov/timss/) | 国际数学与科学[[Trend Study\|趋势研究]]数据 |
 
 > [!index-table] 图书馆与档案
 > | 资源 | 说明 |
 > |---|---|
 > | [Internet Archive](https://archive.org) | 全球最大的互联网数字档案库，含网页回溯（Wayback Machine）、千万册图书、音视频、软件 |
-> | [Library of Congress](https://www.loc.gov) | 美国国会图书馆，全球最大图书馆，海量数字化馆藏 |
+> | [Library of Congress](https://www.loc.gov) | [[United States Congress\|美国国会]]图书馆，全球最大图书馆，海量数字化馆藏 |
 > | [British Library](https://explore.bl.uk) | 大英图书馆，1.5 亿件藏品，集成目录 |
 > | [Library Hub Discover](https://discover.libraryhub.jisc.ac.uk) | 英国 170+ 高校图书馆联合目录，原 COPAC |
 > | [Virtual Library](http://vlib.org) | 在线虚拟图书馆目录 |
@@ -280,7 +280,7 @@ updated: 2026-10-23
 > | [远程教育杂志](https://navi.cnki.net/knavi/journals/YCJY/detail) | 浙江开放大学主办，开放教育技术与数字化教学前沿 |
 > | [中国大学教学](https://navi.cnki.net/knavi/journals/JXCY/detail) | 高等教育出版社主办，高校本科教学改革与专业课程建设 |
 > | [中国电化教育](https://navi.cnki.net/knavi/journals/ZDJY/detail) | 中央电化教育馆主办，教育信息化推进与智能教学应用 |
-> | [中国高等教育](https://navi.cnki.net/knavi/journals/ZGDJ/detail) | 中华人民共和国教育部主管，高校办学方向与高教政策指导 |
+> | [中国高等教育](https://navi.cnki.net/knavi/journals/ZGDJ/detail) | [[Ministry of Education of the People's Republic of China\|中华人民共和国教育部]]主管，高校办学方向与高教政策指导 |
 > | [中国高教研究](https://navi.cnki.net/knavi/journals/ZGGJ/detail) | 中国高等教育学会主办，高等教育宏观政策与学术研究 |
 > | [中国教育学刊](https://navi.cnki.net/knavi/journals/ZJYX/detail) | 中国教育学会主办，面向基础教育理论与教育实践创新 |
 > | [中国特殊教育](https://navi.cnki.net/knavi/journals/ZDTJ/detail) | 中国教育科学研究院主办，特殊儿童心理发展与[[Inclusive Education\|融合教育]]理论 |

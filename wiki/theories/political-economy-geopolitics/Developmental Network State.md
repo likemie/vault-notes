@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -90,7 +90,7 @@ updated: 2026-10-22
 > - **知识位置** 处于国家理论（State Theory）、创新系统论（Systems of Innovation）、技术社会学与经济社会学[[Network Governance|网络治理]]理论的交叉界面。
 
 > [!claim] 核心判断
-> 发展型网络国家（Developmental Network State, DNS）并非通过单一中央计划部委（如日本[[Ministry of International Trade and Industry|通产省]] MITI）由上至下“挑选赢家”（Picking Winners），而是依托高度去中心化、多部门互补的公共研发代理网络（如 [[DARPA]]、[[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]]、[[Department of Energy|DOE]]、NIST、[[SBIR and STTR Programs|SBIR]]/STTR 与国家实验室），将公共资源精准嵌入科学家、高校与初创企业的异质网络中，在柔性试错与协同演化中催化颠覆性技术与产业崛起。[[Argument_Block_2008_PS|(Block, 2008, pp. 172–176)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135)]]
+> 发展型网络国家（Developmental Network State, DNS）并非通过单一中央计划部委（如日本[[Ministry of International Trade and Industry|通产省]] MITI）由上至下“挑选赢家”（Picking Winners），而是依托高度去中心化、多部门互补的公共研发代理网络（如 [[DARPA]]、[[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]]、[[Department of Energy|DOE]]、[[National Institute of Standards and Technology|NIST]]、[[SBIR and STTR Programs|SBIR]]/STTR 与国家实验室），将公共资源精准嵌入科学家、高校与初创企业的异质网络中，在柔性试错与协同演化中催化颠覆性技术与产业崛起。[[Argument_Block_2008_PS|(Block, 2008, pp. 172–176)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135)]]
 
 ---
 

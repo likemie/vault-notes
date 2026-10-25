@@ -16,7 +16,7 @@ fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "美国国会（United States Congress）"
+issuing_organization: "[[United States Congress|美国国会（United States Congress）]]"
 tags:
   - theme/science-policy
   - theme/defense-policy
@@ -44,14 +44,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1969 年 11 月由第 91 届美国国会通过，作为《1970 财年军事采购授权法》（Public Law 91-121）第 203 条款；由蒙大拿州民主党籍参议院多数党领袖迈克·曼斯菲尔德（Mike Mansfield）领衔提出。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]
-> - **适用地区 / 对象** 全美所有承接美国国防部（DoD）及高级研究计划局（[[DARPA|ARPA]]）科研合同的[[Research Universities|研究型大学]]、国家实验室与军工科研单位。
+> - **发布时间 / 发布主体** 1969 年 11 月由第 91 届[[United States Congress|美国国会]]通过，作为《1970 财年军事采购授权法》（Public Law 91-121）第 203 条款；由蒙大拿州民主党籍参议院多数党领袖迈克·曼斯菲尔德（Mike Mansfield）领衔提出。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]
+> - **适用地区 / 对象** 全美所有承接[[Department of Defense|美国国防部]]（DoD）及高级研究计划局（[[DARPA|ARPA]]）科研合同的[[Research Universities|研究型大学]]、国家实验室与军工科研单位。
 > - **问题背景** 越战白热化引发全美[[Grandes Ecoles|大学校]]园强烈的反战抗议风潮，学生与激进学者严厉声讨五角大楼将大学基础科研“军事工具化”；同时国会面临急剧膨胀的军费开支，立法者意图削减非直接作战用途的科研冗余预算。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]
 > - **制度位置** 终结了二战后由[[Vannevar Bush|万尼瓦尔·布什]]开创的“军方慷慨资助大学自由探索式基础科学”的模糊治理默契，在联邦法律上首次划清了国防军用科研与民用基础科学的制度红线。
 

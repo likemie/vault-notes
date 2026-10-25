@@ -28,14 +28,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-10-20
+updated: 2026-10-26
 ---
 
 ---
 
 > [!event-context] 机构创建与定位
 > - **时间** 1990 年代后期至 2000 年代
-> - **隶属** 英国经济与社会研究理事会（Economic and Social Research Council，ESRC）
+> - **隶属** [[Economic and Social Research Council|英国经济与社会研究理事会]]（Economic and Social Research Council，ESRC）
 > - **定位** 推动政策制定中的研究[[Research Utilization\|证据使用]]
 
 英国循证政策中心（UK Centre for [[Evidence-Based Policy-Making|Evidence-based Policy]]）是 ESRC 在[[What Works Movement|循证政策运动]]中的制度布局之一，与 [[EPPI-Centre]] 和 CEM 中心并列为 2000 年前后英国[[Evidence-Based Education|循证教育]]研究的核心机构（pp.330–335）。
@@ -50,13 +50,13 @@ updated: 2026-10-20
 
 ## 后续发展
 
-ESRC 后并入英国国家科研与创新署（UK Research and Innovation，UKRI），原有的循证政策中心专门页面已下线，相关职能整合至 UKRI 体系内。原网址 `www.esrcsocietytoday.ac.uk` 已失效。
+[[Economic and Social Research Council|ESRC]] 后并入英国国家科研与创新署（[[UK Research and Innovation]]，UKRI），原有的循证政策中心专门页面已下线，相关职能整合至 UKRI 体系内。原网址 `www.esrcsocietytoday.ac.uk` 已失效。
 
 ---
 
 ## 影响与评价
 
-作为 ESRC 在[[What Works Movement|循证政策运动]]中的制度布局，该中心代表了英国社会科学界对"什么有效"议程的制度化回应。与 [[EPPI-Centre]] 侧重于方法论开发和 CEM 中心侧重于学校评估数据不同，该中心的定位是将研究证据引入政策制定流程本身。其后续整合至 UKRI 体系的路径，也反映了英国研究资助体系从分散到集中的整体趋势。
+作为 [[Economic and Social Research Council|ESRC]] 在[[What Works Movement|循证政策运动]]中的制度布局，该中心代表了英国社会科学界对"什么有效"议程的制度化回应。与 [[EPPI-Centre]] 侧重于方法论开发和 CEM 中心侧重于学校评估数据不同，该中心的定位是将研究证据引入政策制定流程本身。其后续整合至 [[UK Research and Innovation|UKRI]] 体系的路径，也反映了英国研究资助体系从分散到集中的整体趋势。
 
 ---
 

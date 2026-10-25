@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -84,7 +84,7 @@ updated: 2026-10-23
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1995 年由安·奥克利（Ann Oakley）等学者依托 UCL 教育学院社会科学研究部（Social Science Research Unit, SSRU）创建，初期以循证医学为蓝本开展卫生保健综述，随后迅速拓展至初等与中等教育、社会照护、就业及国际发展等广阔领域([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 33]])。
 > - **总部地点 / 业务辐射** 英国伦敦；业务深度融入英国中央政府、地方教育当局，并作为欧洲教育证据知情政策与实践网络（Evidence Informed Policy and Practice in [[Education in Europe]], [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]）的核心发起方与协调枢纽辐射全球。
-> - **法人属性与经费依托** 依托顶尖大学学术机构设立的非营利专业研究中心；经费采取“政府经常性专项合同 $+$ 国家科研理事会（如 ESRC）竞争性课题 $+$ 国际组织委托（WHO、OECD） $+$ 软件商业授权许可”的多元混合资助模式，成功规避了单一政府部门换届撤资的致命脆弱性([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
+> - **法人属性与经费依托** 依托顶尖大学学术机构设立的非营利专业研究中心；经费采取“政府经常性专项合同 $+$ 国家科研理事会（如 [[Economic and Social Research Council|ESRC]]）竞争性课题 $+$ 国际组织委托（WHO、OECD） $+$ 软件商业授权许可”的多元混合资助模式，成功规避了单一政府部门换届撤资的致命脆弱性([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
 > - **核心宗旨与法定职责** 研制适应复杂社会系统的系统综述新方法，生产高严谨性跨领域实证[[Research Synthesis|证据综合]]成果，为政策制定者、专业实践者与公众提供[[Research Utilization\|证据使用]]指南，深入探究证据进入政策与基层决策的互动机制。
 > - **官方平台与在线门户** 官方门户为 [EPPI-Centre (IOE, UCL)](https://eppi.ioe.ac.uk/)，提供核心业务信息与公开资源检索。
 
@@ -102,7 +102,7 @@ updated: 2026-10-23
 > - **学术决策与管理层** 设于 UCL 教育学院，由知名循证学者组成核心指导委员会，保障[[Research Problem\|研究议题]]的学术中立性与高度方法论自主权。
 > - **执行与方法学研发组** 常设[[Systematic Review\|系统综述]]方法学专家、统计学顾问与信息检索科学家团队，专职承担[[Research Synthesis|证据综合]]规程的研制与迭代。
 > - **软件研发与技术支持单元** 专门组建数字化工程团队，自主研发并常态化运维全球通用的系统综述软件平台（EPPI-Reviewer）。
-> - **跨界合作与咨询网络** 与中央政府部门（如英国教育部、卫生部）、国际组织（[[OECD]]、世界卫生组织）及基层专业团体建立紧密的项目咨询合作网络。
+> - **跨界合作与咨询网络** 与中央政府部门（如[[Department for Education|英国教育部]]、卫生部）、国际组织（[[OECD]]、世界卫生组织）及基层专业团体建立紧密的项目咨询合作网络。
 
 > [!pathways] 业务运行与多元协同机制
 > - **参与式议程设置（Participatory Agendas）** 邀请政策制定者、学校教师与服务对象早期介入选题界定，确保综述问题精准呼应复杂教育现实，而非闭门造车。

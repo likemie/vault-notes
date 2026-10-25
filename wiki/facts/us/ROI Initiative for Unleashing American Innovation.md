@@ -11,7 +11,7 @@ fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
-issuing_organization: "National Institute of Standards and Technology (NIST), U.S. Department of Commerce"
+issuing_organization: "[[National Institute of Standards and Technology|National Institute of Standards and Technology (NIST)]], [[Department of Commerce|U.S. Department of Commerce]]"
 tags:
   - region/us
   - policy/technology-transfer
@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---

@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -66,7 +66,7 @@ updated: 2026-10-23
 ---
 
 > [!actor-grid] 组织治理架构
-> - **会员机构网络** 汇聚亚洲 20 余所核心国家级规划与行政学院（如印度 NIEPA、中国教育部教育发展研究中心/教科院、斯里兰卡国立教育学院 NIE、菲律宾 SEAMEO INNOTECH 等）。
+> - **会员机构网络** 汇聚亚洲 20 余所核心国家级规划与行政学院（如印度 NIEPA、[[Ministry of Education of the People's Republic of China|中国教育部]]教育发展研究中心/教科院、斯里兰卡国立教育学院 NIE、菲律宾 SEAMEO INNOTECH 等）。
 > - **轮值协调机制** 设立指导委员会，由成员机构负责人轮流执掌，定期商定联合研究题目与跨国研修安排。
 > - **IIEP 联合技术支撑** UNESCO IIEP 长期作为技术观察员与顾问机构，提供方法论与最新国际比较文献支持。
 

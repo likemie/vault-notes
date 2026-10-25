@@ -42,17 +42,17 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 国家纳米技术倡议（National Nanotechnology Initiative, NNI）是由美国联邦政府于 2000 年启动，并由美国国会于 2003 年通过《21世纪纳米技术研发法案》（P.L. 108-153）正式法典化的跨部门重大战略科技计划。该倡议统筹协调 20 余个联邦部门与机构的纳米科学与工程研发，构建了覆盖全美的开放式纳米制造与表征用户设施网络，奠定了当代微纳尺度微电子制造与量子器件研发的物理硬件基座。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 12, 21–23)]]
+> 国家纳米技术倡议（National Nanotechnology Initiative, NNI）是由美国联邦政府于 2000 年启动，并由[[United States Congress|美国国会]]于 2003 年通过《21世纪纳米技术研发法案》（P.L. 108-153）正式法典化的跨部门重大战略科技计划。该倡议统筹协调 20 余个联邦部门与机构的纳米科学与工程研发，构建了覆盖全美的开放式纳米制造与表征用户设施网络，奠定了当代微纳尺度微电子制造与量子器件研发的物理硬件基座。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 12, 21–23)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2000 财年由克林顿政府正式提出，2003 年实现法定常态化推进，历经两代设施网络演进，至今仍是全美最重要的基础科技战略母计划之一。
-> - **发起方与资助机制** 由[[National Science and Technology Council|国家科学技术委员会]]纳米科学工程与技术小组委员会（NSET）统领，国家科学基金会（[[National Science Foundation|NSF]]）、能源部（[[Department of Energy|DOE]]）、国防部（DOD）、国家标准与技术研究院（NIST）及[[National Aeronautics and Space Administration|美国国家航空航天局]]（NASA）等机构共同执行，累计动用数百亿美元联邦预算。
+> - **发起方与资助机制** 由[[National Science and Technology Council|国家科学技术委员会]]纳米科学工程与技术小组委员会（NSET）统领，国家科学基金会（[[National Science Foundation|NSF]]）、能源部（[[Department of Energy|DOE]]）、国防部（[[Department of Defense|DOD]]）、[[National Institute of Standards and Technology|国家标准与技术研究院]]（NIST）及[[National Aeronautics and Space Administration|美国国家航空航天局]]（NASA）等机构共同执行，累计动用数百亿美元联邦预算。
 > - **覆盖范围与对象** 依托[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（NNCI）等网络，辐射全美数十所顶尖大学洁净室、5 大国家实验室纳米中心与数以千计的学术和工业界研发人员。
 > - **核心问题导向** 应对全球在微观物质操控与纳米制造领域的战略竞争，解决大学师生与中小微初创团队无力独立投资昂贵微纳洁净室与电子显微表征机台的结构性困境。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
 

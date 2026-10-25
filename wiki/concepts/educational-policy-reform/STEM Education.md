@@ -86,7 +86,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-06-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!def] STEM Education
@@ -226,11 +226,11 @@ updated: 2026-10-22
 
 > [!dev-timeline] 概念演变
 > - **1990s — 术语起源与国家战略萌芽** [[National Science Foundation|美国国家科学基金会]]（NSF）正式整合科学、数学、工程与技术项目，提出“STEM”缩写，确立跨学科国家创新人才战略。
-> - **2007 — 立法确立与财政扩张** 美国国会通过《[[America COMPETES Act|美国竞争法案]]》（America COMPETES Act），将 STEM 教育提升为保障国家经济安全与全球[[Competitiveness|竞争力]]的法定核心支柱。
+> - **2007 — 立法确立与财政扩张** [[United States Congress|美国国会]]通过《[[America COMPETES Act|美国竞争法案]]》（America COMPETES Act），将 STEM 教育提升为保障国家经济安全与全球[[Competitiveness|竞争力]]的法定核心支柱。
 > - **2012 — 实践导向与国家课程标准确立** [[National Research Council|美国国家科学研究委员会]]（NRC）发布《K-12 科学教育框架》，将“科学与工程实践”（SEPs）并列确立为核心维度，推动 STEM 走向教学法深水区。
 > - **2018 — [[Epistemic Practices|认识论实践]]与学科[[Heterogeneity|异质性]]深化** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] 提出 STEM 各领域的认识论实践比较矩阵，破除教条式[[Scientific Method|科学方法]]，强化工程折中与[[Socioscientific Issues|社会科学议题]]审议。
 > - **2022–2026 — 战略关键产业再聚焦与国际人才池博弈** 《[[CHIPS and Science Act|芯片与科学法案]]》将 STEM 教育直接锚定于解决 140 万尖端工程与半导体技术劳动力短缺，通过 GRFP 扩招 50% 应对中国工科毕业生四倍规模优势，推动 STEM 教育从中小学课程与高校本研教学进一步向大学科研人员跨学科专业发展与产学研协同延伸。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]; [[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 1–3, 7)]]
-> - **2023 — 全谱系中试赋能与国家[[Innovation Ecosystem|创新生态]]深度融合** 美国商务部发布《[[National Semiconductor Technology Center|国家半导体技术中心]]愿景与战略》（[[Argument_NIST_2023_NSTC|NIST, 2023]]），设立劳动力卓越中心（WCoE），通过共享 300mm 洁净室中试线、云端设计网关（DEG）与全包式支持服务，推动微电子 STEM 教育从抽象讲授向全谱系真实工程实操深化。
+> - **2023 — 全谱系中试赋能与国家[[Innovation Ecosystem|创新生态]]深度融合** [[Department of Commerce|美国商务部]]发布《[[National Semiconductor Technology Center|国家半导体技术中心]]愿景与战略》（[[Argument_NIST_2023_NSTC|NIST, 2023]]），设立劳动力卓越中心（WCoE），通过共享 300mm 洁净室中试线、云端设计网关（DEG）与全包式支持服务，推动微电子 STEM 教育从抽象讲授向全谱系真实工程实操深化。
 > - **2023 — 学习科学视角下的教学法调和** [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 系统总结数十年实证证据，确立[[Inquiry-Based Learning|指导式探究]]与时序整合在 STEM 概念掌握与[[Epistemology|认识论]]素养培育上的共识[[Paradigm|范式]]。
 
 ---
@@ -289,7 +289,7 @@ updated: 2026-10-22
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Klahr and Nigam (2004) | Cohen's $d$ | <span class="mx-bar ef-bar" title="Cohen's d 1.10"><span class="b22"></span></span>1.10 | $p<.001$ | [[Control of Variables Strategy\|变量控制策略]]（CVS）：直接讲授 vs 纯发现探索 | CVS 策略掌握率与跨情境设计迁移 | 112 名三至四年级小学生 | [[Direct Instruction\|直接讲授]]组 77% 掌握 vs 发现组 23% | 早期实验室对照实验。确立了显性直接讲授在基础规则学习中的高效率，但未考察长效认识论探究态度。 |
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |

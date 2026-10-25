@@ -76,29 +76,29 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] Teacher Professional Agency
-> 教师专业能动性（Teacher Professional Agency，又称教师专业自主权）是指一线教师在国家宏观课程框架指引下，在教学策略选择、实验探究设计、本土化课程开发与差异化评价上所拥有的专业决策权、[[Phronesis|实践智慧]]与自主行动空间。该概念确立教师作为反思性实践者与课堂育人共同体建构者的主体地位，超越了机械执行死板清单的技术工定位；在遭遇不合理行政规制、新泰勒制监控与资本渗透时，教师具备开展批判性政策审议、制度缓冲与多阵线民主维权的能动实践能力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 11–14)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 350–351)]]
+> 教师专业能动性（Teacher Professional Agency，又称教师专业自主权）是指一线教师在国家宏观课程框架指引下，在教学策略选择、实验探究设计、本土化课程开发与差异化评价上所拥有的专业决策权、[[Phronesis|实践智慧]]与自主行动空间。该概念确立教师作为[[Reflexivity|反思性]]实践者与课堂育人共同体建构者的主体地位，超越了机械执行死板清单的技术工定位；在遭遇不合理行政规制、新泰勒制监控与资本渗透时，教师具备开展批判性政策审议、制度缓冲与多阵线民主维权的能动实践能力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 11–14)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 350–351)]]
 
 > [!concept-lens] 概念透镜
 > - **核心本质** 确立教师作为[[Reflexivity|反思性]]实践者与课堂育人共同体建构者的主体地位，拒绝将教学降格为流水线上的机械操作清单。
 > - **治理功能** 破除自上而下的微观行政规制、新泰勒制监控与过度问责，为解决专业师资短缺、职业倦怠与人才流失提供深层制度治理支点。
 > - **人本与情境维度** 教学的核心是在具体学校与社区建设充满人际关怀的学习共同体，依赖无法被标准化外部规程所穷尽的情境敏锐度与道德承诺（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
-> - **组织中介与缓冲维度** 强调学校领导者作为宏观政策与一线教师之间的制度缓冲带，通过情境化调适外部实证证据，保护并激发教师自主创新的能动空间（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026, pp. 350–351]]）。
+> - **组织中介与缓冲维度** 强调[[School Leadership|学校领导]]者作为宏观政策与一线教师之间的制度缓冲带，通过情境化调适外部实证证据，保护并激发教师自主创新的能动空间（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026, pp. 350–351]]）。
 > - **拓展行动维度** 超越教室内部的孤立微观适应，将能动性延伸为直面国家政策与资本力量时开展政策读写、地方拒止与社会结盟的公民行动力。
 > - **适用边界** 赋权立足于明确的育人素养导向，依托专业信任与高水平持续专业发展赋能教师因材施教，防范脱离国家质量底线的随意化偏离。
 
 > [!citation-card] 约翰逊与詹岑论教学作为人际学习共同体与专业能动性
-> "在《可见的学习》中，哈蒂将外科手术和高山救援作为教学应当效仿的科学职业……然而，教学的核心关注点在于在具体的社区、特定的学校和充满差异的班级中，认真负责地建设一个学习共同体，而非执行机械核查清单或标准操作程序。这是一项复杂的、充满关系性的挑战，需要广阔的人文与专业技能，这与医学核查清单、缝合伤口或打绳结毫无共同之处。任何错置的医学研究术语、统计筛选或一厢情愿的空想都无法改变这一事实。"[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 29)]]
+> "在《[[Visible Learning|可见的学习]]》中，[[John Hattie|哈蒂]]将外科手术和高山救援作为教学应当效仿的科学职业……然而，教学的核心关注点在于在具体的社区、特定的学校和充满差异的班级中，认真负责地建设一个学习共同体，而非执行机械核查清单或标准操作程序。这是一项复杂的、充满关系性的挑战，需要广阔的人文与专业技能，这与医学核查清单、缝合伤口或打绳结毫无共同之处。任何错置的医学研究术语、统计筛选或一厢情愿的空想都无法改变这一事实。"[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 29)]]
 >
 > *"Teaching’s main concern is not to be found in checklists or standard operations. Teaching is about conscientiously building a learning community in a distinct classroom, in a unique school, in a particular neighborhood. This is a complex relational challenge, requiring a wide humanistic and technical skillset; with little in common with medical checklists, sutures, or knot tying."*
 
-> [!citation-card] 英国皇家学会论教师自主权与师资留任
-> "国际证据表明，在宽广的国家课程框架指引下，赋予教师选择适切教学法并为学生设计引人入胜的探究实验的自主权，是营造激发性课堂文化的最关键驱动力。正是这种受信任与被尊重的专业自主权，直接支撑了教师的工作自豪感，构成了遏制紧缺学科师资流失的核心机制。"[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]
+> [!citation-card] [[Royal Society|英国皇家学会]]论教师自主权与师资留任
+> "国际证据表明，在宽广的国家课程框架指引下，赋予[[Teacher Choices|教师选择]]适切教学法并为学生设计引人入胜的探究实验的自主权，是营造激发性课堂文化的最关键驱动力。正是这种受信任与被尊重的专业自主权，直接支撑了教师的工作[[Pride in Learning|自豪]]感，构成了遏制紧缺学科师资流失的核心机制。"[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]
 >
 > *"Evidence indicates that within broad curriculum frameworks, giving teachers the agency to select pedagogies and design engaging investigative work is central to creating an inspiring classroom culture. It is this professional trust and autonomy that fosters pride in teaching and forms the cornerstone of retaining specialist staff in shortage subjects."*
 
@@ -125,7 +125,7 @@ updated: 2026-10-23
 
 > [!feature] 教师专业自主权的核心支撑支柱
 > - **教学法与探究设计自主（Pedagogical Freedom）** 教师根据学生的认知规律与本土资源，自主选择教学流派、调配进度并设计[[Open-Mindedness|开放性]]探究方案。
-> - **制度信任与去微观规制（Institutional Trust & De-regulation）** 消除僵化的逐课教案考核与高利害问责枷锁，为教师因地制宜展开差异化教学提供制度容错空间。
+> - **制度信任与去微观规制（Institutional Trust & De-regulation）** 消除僵化的逐课教案考核与高利害问责枷锁，为教师因地制宜展开[[Differentiated Instruction|差异化教学]]提供制度容错空间。
 > - **全周期学科持续专业发展（Subject-Specific Continuing Professional Development, CPD）** 依托高水平专业学习网络，持续更新前沿学科知识与前瞻教学法，为自主裁量提供扎实的专业底气。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]
 > - **情境实践智慧与共同体建构（Relational Wisdom & Community Building）** 教学超越了冰冷的技术清单执行，立足于在具体的社区和充满差异的班级中建设有凝聚力的学习共同体，依赖深层的人际交往、同理心与专业直觉（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
 > - **批判性政策素养与集体行动力（Critical Policy Literacy & Collective Advocacy）** 能够看清国家立法与商业推广背后的政商利益同盟，依托专业学会与公众联盟共同抵制外源性机械管制。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–14)]]
@@ -215,7 +215,7 @@ updated: 2026-10-23
 > 探讨学校管理层如何在宏观政策清单与微观课堂实践之间构筑缓冲带，通过审议转译与营造心理安全维系教师专业能动性。
 
 > [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
-> **领导力缓冲与情境化证据转译** 坎贝尔等学者结合经合组织与联合国教科文组织的政策实践调研指出，自上而下推行的证据处方与“精明采购”清单往往对基层教师的教学自主构成制度性挤压。在学校层面，领导力构成了宏观循证干预与微观课堂实践之间的关键中介与缓冲带：有效的学校管理者主动承担起知识转译者与组织保护者的角色，结合本校具体的社会文化背景与教师团队的专业经验，对外部证据进行情境化调试，从而为教师自主行使实践智慧营造心理安全与专业信任环境。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 350–351)]]
+> **领导力缓冲与情境化证据转译** 坎贝尔等学者结合[[OECD|经合组织]]与[[UNESCO|联合国教科文组织]]的政策实践调研指出，自上而下推行的证据处方与“精明采购”清单往往对基层教师的教学自主构成制度性挤压。在学校层面，领导力构成了宏观循证干预与微观课堂实践之间的关键中介与缓冲带：有效的学校管理者主动承担起[[Research Translation|知识转译]]者与组织保护者的角色，结合本校具体的社会文化背景与教师团队的专业经验，对外部证据进行情境化调试，从而为教师自主行使实践智慧营造心理安全与专业信任环境。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 350–351)]]
 
 ---
 
@@ -227,7 +227,7 @@ updated: 2026-10-23
 > | **系统信任与赤字批判命题** | 制度性不信任压制能动性，研究使用赤字源于系统结构缺陷 | 跨层治理机制与专业自主 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]; [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] |
 > | **批判性民主行动拓展命题** | 能动性须拓展为地方合宪拒止、社会跨界结盟与伦理对质 | 政策博弈与公民政治行动 | [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]] |
 > | **新泰勒制去技能化批判命题** | 机械清单与伪科学数据指标贬抑教师智慧并诱发[[Performativity\|表演性]]异化 | 劳动过程去专业化与[[Scientism\|科学主义]]批判 | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; Feynman (1974) |
-> | **领导力缓冲与情境转译命题** | 学校领导承担宏观清单的组织缓冲与情境调试，守护微观教师能动空间 | 基层学校治理与证据转译支持 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
+> | **领导力缓冲与情境转译命题** | [[School Leadership\|学校领导]]承担宏观清单的组织缓冲与情境调试，守护微观教师能动空间 | 基层学校治理与证据转译支持 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
 
 ---
 

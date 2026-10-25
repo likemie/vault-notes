@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -72,7 +72,7 @@ updated: 2026-10-22
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 充当连接外部科学研究证据、校本探究数据与微观常态课堂教学的转化与共创中枢。
-> - **理论用途** 解释为何单纯向学校下发研究简报或优秀教案无法促成实质改进，揭示以同伴相互学习与[[Classroom Observation|课堂观察]]为特征的情境化专业学习机理。
+> - **理论用途** 解释为何单纯向学校下发研究简报或优秀教案无法促成实质改进，揭示以同伴[[Mutual Learning|相互学习]]与[[Classroom Observation|课堂观察]]为特征的情境化专业学习机理。
 > - **制度边界** 区别于自上而下的外包式教师在职培训（CPD），也区别于仅停留在会议室口头研讨的非情境化交流。
 
 > [!citation-card] 联合实践发展作为证据在课堂测试与微调的操作平台
@@ -150,7 +150,7 @@ updated: 2026-10-22
 > 专业学习共同体（PLC）若缺乏正式的 JPD 机制，极易退化为脱离实际的宏观议论或情感支持团体；唯有依托 JPD 建立协作测试与微调的制度系统，外部科学证据与探究数据才能真正介入常态化教学行为（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 125]]）。
 >
 > > [!warrant]- 理论推导与经验依据
-> > [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]在对 79 所小学 696 名教育者的调查中发现，虽然绝大多数教师认同研究的重要价值，但若学校缺乏让教师结伴开展试验的结构化支持，[[Research Utilization\|证据使用]]便会中断在认知层面。JPD（以[[Lesson Study\|课例研究]]为代表）为教师提供了将抽象研究结论（如反馈策略、[[Metacognition\|元认知]]支架）转化为具体课堂提问与活动步骤的安全试验场。
+> > [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]在对 79 所小学 696 名教育者的调查中发现，虽然绝大多数教师认同研究的重要价值，但若学校缺乏让教师结伴开展试验的结构化支持，[[Research Utilization\|证据使用]]便会中断在认知层面。JPD（以[[Lesson Study\|课例研究]]为代表）为教师提供了将抽象研究结论（如反馈策略、[[Metacognition\|元认知]]支架）转化为具体[[Teacher Questioning|课堂提问]]与活动步骤的安全试验场。
 
 ---
 
@@ -168,7 +168,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 概念演变
-> - **2005 — 实践转移失败与 JPD 雏形奠定** 迈克尔·菲尔丁（Michael Fielding）等学者受英国教育部委托完成专项研究，发表报告《影响良好实践转移的因素》（*Factors Influencing the Transfer of Good Practice*），首次正式提出“联合实践发展”（JPD）概念，严厉批评新工党政府推行的机械式“优秀实践转移”政策，奠定情境共创[[Paradigm\|范式]]。
+> - **2005 — 实践转移失败与 JPD 雏形奠定** 迈克尔·菲尔丁（Michael Fielding）等学者受[[Department for Education|英国教育部]]委托完成专项研究，发表报告《影响良好实践转移的因素》（*Factors Influencing the Transfer of Good Practice*），首次正式提出“联合实践发展”（JPD）概念，严厉批评新工党政府推行的机械式“优秀实践转移”政策，奠定情境共创[[Paradigm\|范式]]。
 > - **2010–2012 — 成为英格兰国家领导力战略核心范式** 英国著名教育学者戴维·哈格里夫斯（David Hargreaves）在论述“[[Self-Improving School System\|自我改进学校系统]]”（SISS）时将 JPD 确立为校际协作成熟度的标志；朱迪·塞巴（Judy Sebba）等学者（2012）为英格兰国家[[School Leadership\|学校领导力]]学院（NCSL）撰写《强大专业学习：学校领导者联合实践发展指南》，使 JPD 成为[[Teaching Schools\|教学学校联盟]]（TSAs）与卓越校建设的法定指南。
 > - **2014–2018 — 证据知情学校与微观课堂转译整合** [[Chris Brown\|克里斯·布朗]]（Chris Brown）与[[Toby Greany\|托比·格里尼]]（Toby Greany）通过“[[Research Learning Communities\|研究学习共同体]]”（RLC）项目，将 JPD、[[Lesson Study\|课例研究]]与[[School Enquiry Cycle\|学校探究循环]]深度熔铸，确立 JPD 为一线学校实现研究证据微观转译、规避[[Activity Traps\|活动陷阱]]的[[Operationalization\|操作化]]中枢（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]）。
 

@@ -117,14 +117,14 @@ related_instruments:
   - "[[EMMIE Framework]]"
 status: draft
 created: 2026-09-13
-updated: 2026-10-23
+updated: 2026-10-26
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch07_Gough_2022|Ch07_Gough_2022]]"
 ---
 ---
 
 > [!question]
-> 为什么旨在向政策制定者与教育实践者推广循证理念的[[Educational Brokerage Agency\|知识中介机构]]（Knowledge Brokerage Intermediaries, KBIs），自身在制定工作目标、选择干预方法、确立证据评价准则以及评估服务成效时，却频繁陷入缺乏实证依据支持的循证赤字？中介机构应如何建立自省性的元研究[[Analytic Framework\|分析框架]]，使自身的设计、运作与制度协同真正建立在研究应用之科学（The [[Science of Using Science]]）的基础之上？（pp. 146–147, 157–158）
+> 为什么旨在向政策制定者与教育实践者推广循证理念的[[Educational Brokerage Agency\|知识中介机构]]（[[Knowledge Mediation|Knowledge Brokerage]] Intermediaries, KBIs），自身在制定工作目标、选择干预方法、确立证据评价准则以及评估服务成效时，却频繁陷入缺乏实证依据支持的循证赤字？中介机构应如何建立自省性的元研究[[Analytic Framework\|分析框架]]，使自身的设计、运作与制度协同真正建立在研究应用之科学（The [[Science of Using Science]]）的基础之上？（pp. 146–147, 157–158）
 
 > [!claim] 核心主张
 > 知识中介机构的公信力与有效性取决于其自身是否践行所倡导的循证原则。中介机构必须超越单向信息推介与朴素常识假设，将其实践系统构筑在五大循证支柱之上：对既有[[Evidence Ecosystem\|证据生态系统]]的严密需求分析、与外层社会政治及问责制度的深度对齐、扎根于行为改变科学的显性[[Theory of Change\|变革理论]]、透明且高度分化的[[Evidence Standards\|证据标准]]以支撑合法的功效主张，以及对最终受益者成效的因果评估与元知识库积累。（pp. 147–148, 158–159）
@@ -164,11 +164,11 @@ sources:
 > | | **[[National Institute for Health and Care Excellence\|国家卫生与临床优化研究所]]**<br>（NICE, National Institute for Health and Care Excellence） | 临床医疗、公共卫生与成人社会关怀；临床医师、医疗管理者与国家卫生体系决策者（专业与政策端） | 法定非部委公共机构（Non-Departmental Public Body, NDPB）；接受英国卫生与社会保障部业务指导并由国家财政法定持续拨款 | 研制具有法律与准入效力的国家临床指南（Clinical Guidelines）、技术评估规程与质量标准；设立药物与疗法经济学评价门槛 | 历史最悠久、法律效力最强的有效性中心；依托高度严格的[[Systematic Review\|系统综述]]与成本效用门槛，但其标准化临床路径若机械移植至教育社科易引发去情境化争议（pp. 147, 150） |
 > | | **[[Early Intervention Foundation\|早期干预基金会]]**<br>（EIF, Early Intervention Foundation） | 儿童早期发展、青少年心理健康与家庭支持政策；地方政府公共服务主管与社会关怀采购人员（地方决策端） | 独立慈善非营利机构；接受教育、卫生、内政等多部委项目委托资助（2023 年并入 Foundations） | 编制《EIF 指南手册》（EIF Guidebook），系统评定百余项儿童早期打包干预项目的因果证据等级与成本效益 | 代表典型的打包项目评级路径；高度依赖 1–2 项高质量因果试验给出推荐，凸显了中介机构在证据体量与真实生态迁移上的潜在效度风险（pp. 149, 154–155） |
 > | | **警务学院犯罪减少有效性中心**<br>（College of Policing / What Works Centre for Crime Reduction） | 警务治安、犯罪预防与刑事司法；各级警务长官、一线巡警与内政部决策者（专业实践与政策端） | 专业行业法定监管机构；由英国内政部法定资助与警务行业专业自律相结合 | 研发《犯罪减少工具包》（Crime Reduction Toolkit）、警务系统综述证据图谱与执法行动实务指南 | 首创并推行[[EMMIE Framework\|EMMIE 评价框架]]（Effect, Mechanism, Moderator, Implementation, Economics，即效应、机制、调节[[Variable\|变量]]、实施与经济学评价），将机制解释与情境条件置于核心，为社会科学中介提供严密典范（p. 150） |
-> | | **国家福祉有效性中心**<br>（What Works Centre for Wellbeing） | 主观福祉、社区活力、职场心理健康与文化体育；跨部门宏观政策制定者、企业雇主与第三部门组织（政策与社会端） | 独立跨界合作网络与大学科研联合体；由多个中央部委与英国经济与社会研究理事会（Economic and Social Research Council, ESRC）联合出资 | 发布系列职场与社区福祉[[Systematic Review\|系统综述]]、开发国家主观福祉测度指标与地方评估工具包 | 面对跨学科概念[[Heterogeneity\|异质性]]极高且缺乏统一硬指标的复杂议题，探索了以通用策略为主轴的质性与量化多元证据综合[[Paradigm\|范式]]（pp. 149–150） |
+> | | **国家福祉有效性中心**<br>（What Works Centre for Wellbeing） | 主观福祉、社区活力、职场心理健康与文化体育；跨部门宏观政策制定者、企业雇主与第三部门组织（政策与社会端） | 独立跨界合作网络与大学科研联合体；由多个中央部委与[[Economic and Social Research Council\|英国经济与社会研究理事会]]（Economic and Social Research Council, ESRC）联合出资 | 发布系列职场与社区福祉[[Systematic Review\|系统综述]]、开发国家主观福祉测度指标与地方评估工具包 | 面对跨学科概念[[Heterogeneity\|异质性]]极高且缺乏统一硬指标的复杂议题，探索了以通用策略为主轴的质性与量化多元证据综合[[Paradigm\|范式]]（pp. 149–150） |
 > | | **老龄优化中心**<br>（Centre for Ageing Better） | 健康老龄化、长者体面就业与适老社区建设；中央与地方政策制定者、住房规划师与雇主（政策与系统端） | 独立慈善留本基金会；由英国国家彩票社区基金注资 5000 万英镑设立独立运作留本基金 | 老龄政策证据审查、适老化住房改造与职场反年龄歧视行动指南、地方战略转型示范项目 | 留本基金赋予其长达数十年的长期变革视野；不以单一商业产品分级为主，而着力推动地方社会与制度结构的深层系统对齐（pp. 149–150） |
 > | | **无家可归治理影响中心**<br>（Centre for Homelessness Impact, CHI） | 流浪无家可归救助、临时庇护与永久住房保障；地方议会住房管理部门、慈善庇护所一线社会工作者（地方实践端） | 独立慈善机构；由地方政府联合会及住房部支持，[[EPPI-Centre]] 等专业研究中心提供方法学支撑 | 研制《无家可归证据与差距图谱》（Evidence and Gap Maps, EGMs）、有效干预工具包（Homelessness Toolkit）与地方循证行动方案 | 与 Gough and White (2018) 深度绑定；率先全面确立以系统综述为基础的干预策略评级，坚决规避对单一项目孤立研究的采纳，成为[[Evidence Standards\|证据标准]]规范化的先锋（pp. 149, 154） |
 > | | **地方经济增长有效性中心**<br>（What Works Centre for Local Economic Growth, WWG） | 区域经济增长、产业集聚、就业培训与地方基建投资；地方政府经济官员与商业决策者（地方政策端） | 大学依托型研究联盟；由伦敦政治经济学院（London School of Economics and Political Science, LSE）、奥雅纳工程顾问（Arup）与萨塞克斯大学科学政策研究所（Science Policy Research Unit, SPRU）联合组建，ESRC 等资助 | 发布地方经济政策工具箱（Policy Toolkits）、因果实证数据库，对全球数以万计政策评估报告展开方法学筛查 | 坚持马里兰[[Scientific Method\|科学方法]]量表（Maryland Scientific Methods Scale, SMS，要求 3 级及以上）严苛因果标准，剔除大量无严密对照组的本土经验；突显了方法学纯洁性与一线政策可用证据匮乏之间的张力（p. 150） |
-> | | **儿童社会关怀有效性中心**<br>（What Works for Children's Social Care, WWCSC） | 脆弱儿童保护、家庭寄养与地方社会工作；地方政府儿童服务部、司法法庭与一线社工（一线实践端） | 由英国教育部出资委托、英国国家科技艺术基金会（National Endowment for Science, Technology and the Arts, Nesta）智库孵化后独立的慈善法人（现合并重组为 Foundations） | 建立社会关怀实践证据工具包、资助地方当局开展家庭保障模式多中心因果试验、发布实务标准 | 深入高行政阻力与伦理争议的高风险领域，强调证据标准中的[[Implementation Fidelity\|实施保真度]]，弥补纯效果测度的不足（pp. 149–150） |
+> | | **儿童社会关怀有效性中心**<br>（What Works for Children's Social Care, WWCSC） | 脆弱儿童保护、家庭寄养与地方社会工作；地方政府儿童服务部、司法法庭与一线社工（一线实践端） | 由[[Department for Education\|英国教育部]]出资委托、英国国家科技艺术基金会（National Endowment for Science, Technology and the Arts, Nesta）智库孵化后独立的慈善法人（现合并重组为 Foundations） | 建立社会关怀实践证据工具包、资助地方当局开展家庭保障模式多中心因果试验、发布实务标准 | 深入高行政阻力与伦理争议的高风险领域，强调证据标准中的[[Implementation Fidelity\|实施保真度]]，弥补纯效果测度的不足（pp. 149–150） |
 > | **观察员与关联中介组织** | **国际公共政策观察站**<br>（IPPO, International Public Policy Observatory） | 重大突发公共卫生危机、社会不平等、后疫情期教育与经济复苏；联合王国四方政府高层决策者与智库（国家宏观决策端） | 大学牵头跨国研究观察站；由伦敦大学学院教育研究院（UCL Institute of Education, UCL IOE）牵头联合多所顶尖高校组建，ESRC 资助设立 | 开辟 2–4 周极速系统综述（Rapid Evidence Syntheses）响应通道、组织四方政府高层闭门证据圆桌会与跨国政策数据库 | 在重大危机中探索即时响应与科学严谨性的平衡，突破传统中介漫长综述周期的局限，构建敏捷[[Knowledge Mediation\|知识中介]]元架构（pp. 147, 150） |
 
 > [!row-contrast] 考察样本二：国际 15 个网络证据门户跨案例调查样本表（Gough & White, 2018）
@@ -186,7 +186,7 @@ sources:
 > | | **无家可归治理影响中心证据工具箱**<br>（Centre for Homelessness Impact Toolkit & EGMs） | 英国；无家可归治理影响中心（CHI） | 无家可归防治策略（如住房优先模式 Housing First、个案管理、庇护所心理疏导、租金应急补贴） | **[[Systematic Review\|系统综述]]**<br>（严格依托与 [[EPPI-Centre]] 及 Campbell 协作网合作研制的系统综述与证据地图） | 与 Gough and White (2018) 标准深度咬合；坚决摒弃单兵研究，确保每一项策略主张均具备代表性证据库，并可视化呈现证据空白区（pp. 149, 154） |
 > | | **考克兰图书馆**<br>（Cochrane Library） | 国际组织；考克兰协作网（Cochrane Collaboration） | 全球临床医学、精神卫生、公共健康与卫生管理系统干预措施 | **[[Systematic Review\|系统综述]]**<br>（遵循国际最严苛的 Cochrane 综述方法学规范与 GRADE 证据分级体系） | 现代循证运动的元祖与方法学黄金标准；但其强因果干预逻辑与偏倚风险评估工具若不加审慎反思地直接套用至高度情境化的教育与社会政策，容易引发方法学削足适履（p. 154） |
 > | | **坎贝尔协作网实证库**<br>（[[Campbell Collaboration\|Campbell Collaboration Library]]） | 国际组织；坎贝尔协作网（Campbell Collaboration） | 教育、社会福利、犯罪司法与国际发展领域的宏观政策干预策略 | **叙述性／专家评审**<br>（依托专家编委会对跨领域复杂证据进行定性审议、叙述性归纳与政策简报转化） | 专注于社会科学领域的大规模[[Research Synthesis\|证据综合]]；其叙述性评审更贴近决策语境，但在结论可复现性与量化偏倚防范上需依赖严格同行评议制衡（p. 154） |
-> | | **美军家庭战备清算中心**<br>（Clearinghouse for Military Family Readiness） | 美国；宾夕法尼亚州立大学（与美国国防部及农业部合作） | 军人及其家庭的心理疏导、子女教育辅导、创伤后应激支持与家庭韧性提升策略 | **叙述性／专家评审**<br>（依托证据连续体框架，由跨领域学术专家委员会开展叙述性审定） | 紧密契合垂直特定行业系统的特殊需求；但高度依赖同行专家主观裁量，在透明度与标准化打分规程上相对欠缺（p. 154） |
+> | | **美军家庭战备清算中心**<br>（Clearinghouse for Military Family Readiness） | 美国；宾夕法尼亚州立大学（与[[Department of Defense\|美国国防部]]及农业部合作） | 军人及其家庭的心理疏导、子女教育辅导、创伤后应激支持与家庭韧性提升策略 | **叙述性／专家评审**<br>（依托证据连续体框架，由跨领域学术专家委员会开展叙述性审定） | 紧密契合垂直特定行业系统的特殊需求；但高度依赖同行专家主观裁量，在透明度与标准化打分规程上相对欠缺（p. 154） |
 > | | **美国有效干预清算中心教育实践指南**<br>（[[What Works Clearinghouse\|WWC Practice Guides, What Works Clearinghouse]]） | 美国；[[Institute of Education Sciences\|美国教育部教育科学研究院]]（Institute of Education Sciences, IES） | 特定学段与学科教学主题策略（如小学早期阅读障碍矫正、代数思维培养、高中辍学预防实践指引） | **单纯罗列研究与结果**<br>（由专家组将多项独立通过 WWC 标准审查的实证研究进行清单式罗列与证据等级赋权） | 实践针对性极强（分为强/中等证据支持）；但由于其将多项独立研究的研究发现直接罗列而非进行统计元分析，不同研究间的异质性难以消除（pp. 154–155） |
 > | | **经济流动性目录**<br>（Results for America Economic Mobility Catalog） | 美国；为美求索组织（Results for America） | 地方政府与社区组织促进代际经济向上流动、教育公平、学前托育与职业技能提升的行动策略 | **单纯罗列研究与结果**<br>（作为综合性二级证据目录，直接罗列聚合来自各专业清算所的推荐研究清单与案例） | 政策工具箱覆盖全面；但因直接并置不同来源、不同口径的研究清单，引发 Gough & White 所警示的多源标准交叉污染风险（pp. 154–155） |
 
@@ -401,7 +401,7 @@ sources:
 > - **制度机会（Opportunity）**
 >   涵盖外部环境赋予的客观条件，包括充裕的教学研讨工时、校领导层的明确授权与物质支持、同侪协同机制以及包容试错的评价文化。
 > - **内在动机（Motivation）**
->   涵盖使用者的内在专业认同感、对循证反思价值的深层信念、对自我效能感的期待，以及通过改进教学切实提升学生学业的内在驱动力。
+>   涵盖使用者的内在专业认同感、对循证反思价值的深层信念、对[[Self-Efficacy|自我效能感]]的期待，以及通过改进教学切实提升学生学业的内在驱动力。
 > - **行为转化（Behaviour）**
 >   三者共同构成行为改变的必要与[[Necessary and Sufficient Conditions\|充分条件]]网，任何单个维度的缺失都会导致变革链条中断，促使中介干预必须采取综合施策。
 

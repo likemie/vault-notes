@@ -16,7 +16,7 @@ fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
-issuing_organization: 美国国会（United States Congress）
+issuing_organization: "[[United States Congress|美国国会（United States Congress）]]"
 tags:
   - theme/science-policy
   - region/us
@@ -42,13 +42,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1974 年 7 月由第 93 届美国国会通过并经总统签署成为法律（公法 Public Law 93-348），由美国卫生、教育及福利部（HEW）及[[National Institutes of Health|美国国立卫生研究院]]（NIH）负责执行。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 18)]]
+> - **发布时间 / 发布主体** 1974 年 7 月由第 93 届[[United States Congress|美国国会]]通过并经总统签署成为法律（公法 Public Law 93-348），由美国卫生、教育及福利部（HEW）及[[National Institutes of Health|美国国立卫生研究院]]（NIH）负责执行。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 18)]]
 > - **适用地区 / 对象** 全美开展生物医学、行为科学与健康科学博士生及博士后培训的[[Research Universities|研究型大学]]、医学院与独立科研院所。
 > - **政治与经济博弈背景** 1960 年代末，NIH 资助的培训岗位多达 16,000 个；1970 年代初，尼克松政府在财政紧缩和越战开支压力下，试图单方面废止并全面取消联邦对研究生的直接培训奖学金。
 > - **制度位置** 构成了美国战后联邦支持青年科研学者独立专业化培养的法定基石，是国会立法权直接干预行政分支科研预算削减的典型案例。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 18)]]

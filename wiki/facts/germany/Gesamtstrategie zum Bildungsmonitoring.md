@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -111,7 +111,7 @@ updated: 2026-10-22
 > [!actor-grid] 实施协同矩阵
 > - **顶层决策与政治监督（[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] & [[Federal Ministry of Education and Research|BMBF]]）** 制定[[Total War|总体战]]略规程，控制预算拨款，保障测试周期与教育标准的全国一致性。
 > - **国家计算中枢（[[Institute for Educational Quality Improvement|IQB]] & [[Zentrum für internationale Bildungsvergleichsstudien|ZIB]]）** IQB 负责研制国家标准题库、统筹 [[Vergleichsarbeiten|VERA]] 并运营 FDZ 数据库；ZIB 负责统筹 [[PISA]] 施测与跨国指标对接。
-> - **综合报告与信息枢纽（[[Leibniz Institute for Educational Research and Educational Information|DIPF]]）** 牵头跨机构专家联合体定期编撰《德国教育报告》，运营 DIPF-Kompass 信息系统与 TBA 测验技术。
+> - **综合报告与信息枢纽（[[Leibniz Institute for Educational Research and Educational Information|DIPF]]）** 牵头跨机构专家联合体定期编撰《德国教育报告》，运营 DIPF-Kompass 信息系统与 [[Test-Based Accountability|TBA]] 测验技术。
 > - **中层中介与知识转化（各州立研训与质量机构）** 承担总体战略 2015 年增设的应用导向[[Knowledge Transfer|知识转移]]法定职能，面向基层教师开展研究证据转译、学校改进咨询与职后研训支持。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 10)]]
 > - **地方行政与干预执行（16 州教育部）** 设立专门质量保障处室，招聘社科量化专才，将监测数据用于薄弱校诊断与师资编制配置。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 491–492)]]
 > - **基层落地与过程视导（单体学校与督导组）** 落实常态化 [[Vergleichsarbeiten|VERA]] 施测，接受各州外部[[School Inspection|学校督导]]实地评估。

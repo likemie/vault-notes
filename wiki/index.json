@@ -973,6 +973,16 @@
     ]
   },
   {
+    "title": "Global Educational Policy Field",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Global Educational Policy Field.md",
+    "aliases": [
+      "全球教育政策场域",
+      "全球教育政策领域",
+      "global education policy field"
+    ]
+  },
+  {
     "title": "Global Policy Space",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Global Policy Space.md",
@@ -31523,8 +31533,7 @@
     "type": "fact",
     "path": "wiki/facts/africa/Education Sub Saharan Africa.md",
     "aliases": [
-      "撒哈拉以南非洲教育倡议",
-      "Education Sub Saharan Africa (ESSA)"
+      "撒哈拉以南非洲教育倡议"
     ],
     "subtype": "organization"
   },
@@ -31972,6 +31981,17 @@
     "subtype": "policy"
   },
   {
+    "title": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira",
+    "type": "fact",
+    "path": "wiki/facts/brazil/Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira.md",
+    "aliases": [
+      "巴西国家教育研究院",
+      "INEP",
+      "National Institute for Educational Studies and Research Anísio Teixeira"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Lemann Foundation",
     "type": "fact",
     "path": "wiki/facts/brazil/Lemann Foundation.md",
@@ -31999,9 +32019,13 @@
     "type": "fact",
     "path": "wiki/facts/brazil/Brazilian Secondary Education Curriculum Reform 1998.md",
     "aliases": [
+      "巴西中等教育课程改革（1998）",
+      "巴西1998年中等教育课程改革",
       "巴西中等教育课程改革",
       "巴西1998年课程改革",
-      "Resolução Ceb Cne 03 98"
+      "Resolução CEB/CNE 03/98",
+      "Diretrizes Curriculares Nacionais Para O Ensino Médio",
+      "DCNEM 1998"
     ],
     "subtype": "policy"
   },
@@ -32510,6 +32534,18 @@
       "南南合作与发展学院",
       "ISSCAD",
       "南南学院"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Ministry of Education of the People's Republic of China",
+    "type": "fact",
+    "path": "wiki/facts/china/Ministry of Education of the People's Republic of China.md",
+    "aliases": [
+      "中华人民共和国教育部",
+      "中国教育部",
+      "Chinese Ministry of Education",
+      "Ministry of Education of China"
     ],
     "subtype": "organization"
   },
@@ -33135,6 +33171,17 @@
       "欧盟",
       "European Community",
       "欧洲共同体"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "European Commission",
+    "type": "fact",
+    "path": "wiki/facts/eu/European Commission.md",
+    "aliases": [
+      "欧盟委员会",
+      "欧洲联盟委员会",
+      "欧委会"
     ],
     "subtype": "organization"
   },
@@ -36085,6 +36132,17 @@
     "subtype": "organization"
   },
   {
+    "title": "Ministry of Education, Culture, Sports, Science and Technology",
+    "type": "fact",
+    "path": "wiki/facts/japan/Ministry of Education, Culture, Sports, Science and Technology.md",
+    "aliases": [
+      "文部科学省",
+      "日本文部科学省",
+      "MEXT"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Ministry of International Trade and Industry",
     "type": "fact",
     "path": "wiki/facts/japan/Ministry of International Trade and Industry.md",
@@ -37648,6 +37706,17 @@
     "subtype": "organization"
   },
   {
+    "title": "Cabinet Office",
+    "type": "fact",
+    "path": "wiki/facts/uk/Cabinet Office.md",
+    "aliases": [
+      "英国内阁办公室",
+      "英国内阁府",
+      "UK Cabinet Office"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "CEM Centre",
     "type": "fact",
     "path": "wiki/facts/uk/CEM Centre.md",
@@ -37694,6 +37763,17 @@
     "subtype": "organization"
   },
   {
+    "title": "Department for Education",
+    "type": "fact",
+    "path": "wiki/facts/uk/Department for Education.md",
+    "aliases": [
+      "英国教育部",
+      "DfE",
+      "UK Department for Education"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Early Intervention Foundation",
     "type": "fact",
     "path": "wiki/facts/uk/Early Intervention Foundation.md",
@@ -37701,6 +37781,17 @@
       "EIF",
       "英国早期干预基金会",
       "早期干预基金会"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Economic and Social Research Council",
+    "type": "fact",
+    "path": "wiki/facts/uk/Economic and Social Research Council.md",
+    "aliases": [
+      "英国经济与社会研究理事会",
+      "经济与社会研究理事会",
+      "ESRC"
     ],
     "subtype": "organization"
   },
@@ -37788,6 +37879,17 @@
       "HEFCE",
       "英格兰高等教育拨款委员会",
       "英国高教拨款委员会"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "HM Treasury",
+    "type": "fact",
+    "path": "wiki/facts/uk/HM Treasury.md",
+    "aliases": [
+      "英国财政部",
+      "Her Majesty's Treasury",
+      "His Majesty's Treasury"
     ],
     "subtype": "organization"
   },
@@ -37893,6 +37995,18 @@
     "subtype": "organization"
   },
   {
+    "title": "Royal Society",
+    "type": "fact",
+    "path": "wiki/facts/uk/Royal Society.md",
+    "aliases": [
+      "The Royal Society",
+      "英国皇家学会",
+      "皇家学会",
+      "Royal Society of London"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Science Media Centre",
     "type": "fact",
     "path": "wiki/facts/uk/Science Media Centre.md",
@@ -37962,12 +38076,34 @@
     "subtype": "organization"
   },
   {
+    "title": "UK Research and Innovation",
+    "type": "fact",
+    "path": "wiki/facts/uk/UK Research and Innovation.md",
+    "aliases": [
+      "英国研究与创新署",
+      "英国研究与创新机构",
+      "UKRI"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "United Kingdom Metascience Unit",
     "type": "fact",
     "path": "wiki/facts/uk/United Kingdom Metascience Unit.md",
     "aliases": [
       "英国元科学单元",
       "UK Metascience Unit"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Wellcome Trust",
+    "type": "fact",
+    "path": "wiki/facts/uk/Wellcome Trust.md",
+    "aliases": [
+      "惠康信托",
+      "惠康信托基金会",
+      "Wellcome"
     ],
     "subtype": "organization"
   },
@@ -39808,6 +39944,32 @@
     "subtype": "organization"
   },
   {
+    "title": "Department of Commerce",
+    "type": "fact",
+    "path": "wiki/facts/us/Department of Commerce.md",
+    "aliases": [
+      "美国商务部",
+      "United States Department of Commerce",
+      "U.S. Department of Commerce",
+      "US Department of Commerce"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "Department of Defense",
+    "type": "fact",
+    "path": "wiki/facts/us/Department of Defense.md",
+    "aliases": [
+      "美国国防部",
+      "United States Department of Defense",
+      "U.S. Department of Defense",
+      "DoD",
+      "Pentagon",
+      "五角大楼"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Department of Energy",
     "type": "fact",
     "path": "wiki/facts/us/Department of Energy.md",
@@ -40233,6 +40395,18 @@
     "subtype": "organization"
   },
   {
+    "title": "National Institute of Standards and Technology",
+    "type": "fact",
+    "path": "wiki/facts/us/National Institute of Standards and Technology.md",
+    "aliases": [
+      "美国国家标准与技术研究院",
+      "国家标准与技术研究院",
+      "NIST",
+      "National Bureau of Standards"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "National Institutes of Health",
     "type": "fact",
     "path": "wiki/facts/us/National Institutes of Health.md",
@@ -40529,6 +40703,29 @@
       "福特汉姆研究所",
       "Thomas B. Fordham Foundation",
       "Fordham Institute"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "United States Congress",
+    "type": "fact",
+    "path": "wiki/facts/us/United States Congress.md",
+    "aliases": [
+      "美国国会",
+      "U.S. Congress",
+      "US Congress"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "United States Department of Education",
+    "type": "fact",
+    "path": "wiki/facts/us/United States Department of Education.md",
+    "aliases": [
+      "美国联邦教育部",
+      "美国教育部",
+      "U.S. Department of Education",
+      "US Department of Education"
     ],
     "subtype": "organization"
   },
@@ -44063,6 +44260,11 @@
     "title": "Argument_Fan_2026_BCAS",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Bulletin of Chinese Academy of Sciences/Argument_Fan_2026_BCAS.md"
+  },
+  {
+    "title": "Argument_Xie_Li_Huang_2021_GEO",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/全球教育展望/Argument_Xie_Li_Huang_2021_GEO.md"
   },
   {
     "title": "Argument_Yu_Xie_2025_JHE",

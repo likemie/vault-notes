@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 （全语言）
@@ -144,7 +144,7 @@ updated: 2026-10-22
 > [!claim] [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]]; Goodman (1999); Strauss (2001)
 > **次政府铁三角与排他性科学修辞** 杰奎琳·埃德蒙森（Jacqueline Edmondson）等学者揭示，全语言运动在 1990 年代末至 2000 年代初遭遇的所谓“科学失败”，本质上是政治经济利益结盟主导的制度性清洗：
 > 1. **铁三角利益同盟** 由联邦科研官僚（美国[[National Institute of Child Health and Human Development|国家儿童健康与人类发展研究所]]，[[National Institute of Child Health and Human Development|NICHD]]）、国会保守派议员与商业教科书寡头（如麦格劳-希尔/《[[Open Court Reading]]》）组成了稳固的“次政府铁三角（Subgovernment Iron Triangle）”。
-> 2. **排他性立法与科研[[Paradigm|范式]]封杀** 1997 年《[[Reading Excellence Act|卓越阅读法案]]》（REA）与 2000 年[[National Reading Panel|国家阅读委员会]]（NRP）报告，将[[Causality|因果推断]]实验设计（[[Randomised Controlled Trials|RCT]]）与拼读切片定性为唯一合法的“科学本位阅读研究”（SBRR），系统性排除了全语言依赖的质性、叙事与[[Action Research|行动研究]]。
+> 2. **排他性立法与科研[[Paradigm|范式]]封杀** 1997 年《[[Reading Excellence Act|卓越阅读法案]]》（REA）与 2000 年[[National Reading Panel|国家阅读委员会]]（NRP）报告，将[[Causality|因果推断]][[Experimental Research|实验设计]]（[[Randomised Controlled Trials|RCT]]）与拼读切片定性为唯一合法的“科学本位阅读研究”（SBRR），系统性排除了全语言依赖的质性、叙事与[[Action Research|行动研究]]。
 > 3. **商业变现与教师去专业化** 全语言倡导儿童文学情境化阅读与教师教学裁量权，难以打包为标准化、高额溢价的消耗性练习册；而拼读切片模式能够为商业寡头带来数十亿美元的脚本化教材采购订单。通过宣称全语言“缺乏实证科学支持”，商业集团与新自由主义政客完成了公共教育预算的利益寻租与对[[Teacher Professional Agency|教师专业自主权]]的规训。
 
 ---
@@ -162,7 +162,7 @@ updated: 2026-10-22
 > - **1967 年：猜测游戏假说的提出** [[Ken Goodman|肯·古德曼]]（Goodman, 1967）发表经典论文《阅读：心理语言学的猜测游戏》，为全语言奠定了[[Cognitive Constructivism|认知建构主义]]与心理语言学理论基石。
 > - **1970 年代：草根教育与进步社会运动兴起** 全语言在美、澳、新西兰等国成为主流教育运动，吸收民权运动养分，倡导以儿童为中心（child-centered）并尊重弱势族群儿童的文化语言变体。
 > - **1980 年代－1990 年代：全盛传播与“阅读战争”爆发** 全语言被广泛写入各国官方课程大纲，但迅速遭到新右翼与保守派势力的猛烈反击，围绕“系统直接拼读”与“文学全语言”爆发了持久的“阅读战争（Reading Wars）”。
-> - **1997 年－1998 年：《[[Reading Excellence Act|卓越阅读法案]]》立法博弈与科学清洗序幕** 美国国会拟定《[[Reading Excellence Act|卓越阅读法案]]》（REA），企图以法律形式将全语言定性为“非科学”；逾 10 万名教师请愿抗争，但法案最终奠定了排他性的“科学本位阅读研究（SBRR）”门槛（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005]]）。
+> - **1997 年－1998 年：《[[Reading Excellence Act|卓越阅读法案]]》立法博弈与科学清洗序幕** [[United States Congress|美国国会]]拟定《[[Reading Excellence Act|卓越阅读法案]]》（REA），企图以法律形式将全语言定性为“非科学”；逾 10 万名教师请愿抗争，但法案最终奠定了排他性的“科学本位阅读研究（SBRR）”门槛（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005]]）。
 > - **2000 年：[[National Reading Panel|国家阅读委员会]]（NRP）报告推行[[Paradigm|范式]]垄断** 美国国家阅读委员会发布旗舰报告，强行确立拼读等五大技能支柱为阅读研究唯一合法准则，排斥质性与[[Action Research|行动研究]]。
 > - **2001 年：《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》政策清洗** 布什政府通过《[[No Child Left Behind Act 2001|NCLB]]》法案，强制将联邦“阅读优先”（Reading First）数十亿美元拨款绑定于系统拼读商业教材，全语言在官方资助层面被全面清除。
 > - **2009 年：[[Meta-meta-analysis|二阶元分析]]与编码弹性反思** [[John Hattie|约翰·哈蒂]]在《[[Visible Learning|可见的学习]]》中报告全语言[[Effect Size|效应量]]为 $d = 0.06$，断言其效果微不足道；约翰·[[Ivan Snook|斯努克]]等（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）随即发表里程碑批评，援引哈蒂自身论述揭示两项[[Meta-analysis|元分析]]因对全语言的操作定义与编码口径不同而结论对立，批判粗暴合并计算遮蔽了教育[[Variable|变量]]的[[Operationalization|操作化]]困境。

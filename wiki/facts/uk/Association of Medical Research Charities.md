@@ -37,14 +37,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 机构背景
 > - **成立时间与组织性质** 成立于 1987 年，是代表英国乃至全球最具影响力的医学、疾病与健康领域非政府慈善资助机构的国家级峰会组织（National Peak Body）。
-> - **成员规模与资金体量** 涵盖全英 148 家独立医学研究慈善机构（包括英国癌症研究中心 Cancer Research UK、威康信托基金会 Wellcome Trust、英国心脏基金会 British Heart Foundation 及阿尔茨海默病研究组织等）；在 2024/25 年度累计投资科研经费达 **16 亿英镑**，在全英高等教育与国民医疗服务体系（NHS）中稳定支持超过 **25,000 名**研究人员。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 74)]]
+> - **成员规模与资金体量** 涵盖全英 148 家独立医学研究慈善机构（包括英国癌症研究中心 Cancer Research UK、威康信托基金会 [[Wellcome Trust]]、英国心脏基金会 British Heart Foundation 及阿尔茨海默病研究组织等）；在 2024/25 年度累计投资科研经费达 **16 亿英镑**，在全英高等教育与国民医疗服务体系（NHS）中稳定支持超过 **25,000 名**研究人员。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 74)]]
 > - **战略定位** 作为英国第三部门生命科学研发生态的中枢网络，[[Advanced Manufacturing Research Centre\|AMRC]] 成员资助的临床与转化医学研究占全英非商业公共医学研究支出的三分之一以上，直接链接基础生物学突破与患者临床治疗获益。
 
 ---
@@ -61,7 +61,7 @@ updated: 2026-10-22
 
 > [!pathways] 破解信任赤字的第三部门示范意义
 > - **弥合公众与现代生命科学的隔阂** 相比商业私立药企因利润驱动面临的公众怀疑，医学研究慈善机构依托深厚的人道关怀与患者共情，建立了全社会最高的公信力与信任纽带，成为联结学术科学家、产业转化团队与患者群体的关键制度桥梁。
-> - **为其它学科科研参与提供标杆经验** 英国皇家学会指出，第三部门在处理高度复杂、涉及痛苦生活体验与伦理争议的健康科学议题中积累的成熟参与[[Paradigm\|范式]]，为人工智能、环境治理及工程基建等其它科学领域的公众参与提供了极富价值的操作范本。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, pp. 74–75)]]
+> - **为其它学科科研参与提供标杆经验** [[Royal Society|英国皇家学会]]指出，第三部门在处理高度复杂、涉及痛苦生活体验与伦理争议的健康科学议题中积累的成熟参与[[Paradigm\|范式]]，为人工智能、环境治理及工程基建等其它科学领域的公众参与提供了极富价值的操作范本。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, pp. 74–75)]]
 
 ---
 

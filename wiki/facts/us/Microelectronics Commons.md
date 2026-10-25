@@ -60,13 +60,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> **微电子共用体（Microelectronics Commons）** 是依据美国《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act of 2022）由国防部（Department of Defense, DOD）设立并统筹管理的 20 亿美元国家级微电子技术中试验证网络。该计划在全美遴选设立 8 个[[Innovation Hub|区域创新枢纽]]（Regional Innovation Hubs），旨在将顶尖大学实验室的颠覆性微电子概念验证（[[Technology Readiness Level|TRL]] 1–3）快速转化为可信的硬件原型（TRL 3–5），打通从实验室到晶圆代工厂（[[Translational Research|lab-to-fab]]）的军民两用转化鸿沟，并作为核心中试网络支撑《微电子研究国家战略》四大战略目标。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 3, 21–23)]]
+> **微电子共用体（Microelectronics Commons）** 是依据美国《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act of 2022）由国防部（[[Department of Defense]], DOD）设立并统筹管理的 20 亿美元国家级微电子技术中试验证网络。该计划在全美遴选设立 8 个[[Innovation Hub|区域创新枢纽]]（Regional Innovation Hubs），旨在将顶尖大学实验室的颠覆性微电子概念验证（[[Technology Readiness Level|TRL]] 1–3）快速转化为可信的硬件原型（TRL 3–5），打通从实验室到晶圆代工厂（[[Translational Research|lab-to-fab]]）的军民两用转化鸿沟，并作为核心中试网络支撑《微电子研究国家战略》四大战略目标。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 3, 21–23)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2022 年 8 月立法授权设立，2023 年 9 月正式公布首批 8 个区域创新枢纽资助名单并下达 2.38 亿美元首批启动经费，规划首期执行周期为 5 年。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8, 11)]]

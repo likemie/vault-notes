@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -75,7 +75,7 @@ updated: 2026-10-22
 > [!actor-grid] 权力—立场矩阵
 > - **改革倡导者 / 运动先锋** [[Research Universities|研究型大学]]青年学者、跨学科科研人员、[[American Association for the Advancement of Science|AAAS]] 等学术团体 — 依托科学实证声誉与[[Academic Freedom|学术自由]]伦理，发起公开集会抵制行政干预。
 > - **保守抵制者 / 既得利益方** 白宫保守派幕僚、化石能源游说集团 — 质疑气候科学中立性，指责科学共同体是为膨胀研究经费服务的左翼利益集团。
-> - **官方建制 / 调停裁决者** 美国国会两党温和派议员 — 在后续年度联邦预算博弈中抵制白宫对 [[National Institutes of Health|NIH]] 与 [[National Science Foundation|NSF]] 研发经费的断崖式削减，维持基本财政托底。
+> - **官方建制 / 调停裁决者** [[United States Congress|美国国会]]两党温和派议员 — 在后续年度联邦预算博弈中抵制白宫对 [[National Institutes of Health|NIH]] 与 [[National Science Foundation|NSF]] 研发经费的断崖式削减，维持基本财政托底。
 > - **广大受影响群体** 大学研究生、博士后、环保非政府组织与公民社会公众 — 体验到科研议题与自身公民权利及民主决策的深度绑定。
 
 > [!tension]- 阵营对立与斗争结构
@@ -87,7 +87,7 @@ updated: 2026-10-22
 > | 核心价值[[Discourse\|话语]] | [[Evidence-Based Policy-Making\|循证决策]] / 同行评议 / 学术自由 / 科学实证权威 | 质疑精英建制 / 抨击科研浪费 / 优先经济增长与主权利益 |
 > | 斗争策略 | 街头请愿 / 媒体倡导 / 国会游说 / 诉讼与数据归档 | 削减科研预算 / 限制联邦学者发声 / 人事清洗 |
 >
-> **关键分歧** 双方围绕科学是否享有超越党派政治的客观认知权威，以及联邦政府是否有权凭借政治意识形态削减科研资助并干预科学证据发布。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
+> **关键分歧** 双方围绕科学是否享有超越党派政治的客观[[Cognitive Authority|认知权威]]，以及联邦政府是否有权凭借政治意识形态削减科研资助并干预科学证据发布。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1061)]]
 
 ---
 

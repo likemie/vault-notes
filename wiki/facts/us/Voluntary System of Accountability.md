@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -50,7 +50,7 @@ updated: 2026-10-22
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2007 年由美国公立与赠地大学协会（APLU）与美国州立大学与学院协会（AASCU）联合发布。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 25)]]
 > - **适用地区 / 对象** 全美公立四年制高等院校、大学本科生与社会公众。
-> - **问题背景** 2006 年美国联邦教育部发布《[[Spellings Report\|斯佩林斯报告]]》（Spellings Report），猛烈抨击高等教育缺乏透明度与质量问责，要求高校向公众证明本科教育的真实“增值（VALUE-Added）”。
+> - **问题背景** 2006 年[[United States Department of Education|美国联邦教育部]]发布《[[Spellings Report\|斯佩林斯报告]]》（Spellings Report），猛烈抨击高等教育缺乏透明度与质量问责，要求高校向公众证明本科教育的真实“增值（VALUE-Added）”。
 > - **制度位置** 高校主动发起以抵御联邦政府强制刚性问责干预的行业自律与透明化行动。
 
 ---
@@ -70,7 +70,7 @@ updated: 2026-10-22
 > - 2006 联邦教育部《[[Spellings Report\|斯佩林斯报告]]》发布，高教问责危机爆发。
 > - 2007 APLU 与 AASCU 联合正式推出 VSA 与“大学画像”体系。
 > - 2008–2014 全美数百所公立高校积极参与并实施 [[Collegiate Learning Assessment\|CLA]]/[[Collegiate Assessment of Academic Proficiency\|CAAP]]/[[ETS Proficiency Profile\|MAPP]] 统考测试。
-> - 2016 经历十年运行，统考模式遭遇严重瓶颈；AASCU 调查显示高校普遍转向校本真实性评分量规（如 VALUE 量规）与院系自主考核，VSA 统考机制逐步走向式微。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 25)]]
+> - 2016 经历十年运行，统考模式遭遇严重瓶颈；AASCU 调查显示高校普遍转向校本真实性[[Scoring Rubrics|评分量规]]（如 VALUE 量规）与院系自主考核，VSA 统考机制逐步走向式微。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 25)]]
 
 ---
 

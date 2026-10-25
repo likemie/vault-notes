@@ -16,7 +16,7 @@ fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 period: "2002–2015"
-issuing_organization: "美国联邦教育部（U.S. Department of Education & U.S. Congress）"
+issuing_organization: "[[United States Department of Education|美国联邦教育部（U.S. Department of Education & U.S. Congress）]]"
 tags:
   - region/us
   - theme/accountability
@@ -66,16 +66,16 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2001 年作为《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）核心条款经国会通过，2002 年 1 月由乔治·W·布什总统签署生效；由美国联邦教育部（ED）制定联邦规章并负责监督各州执行。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
+> - **发布时间 / 发布主体** 2001 年作为《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|No Child Left Behind Act]], NCLB）核心条款经国会通过，2002 年 1 月由乔治·W·布什总统签署生效；由[[United States Department of Education|美国联邦教育部]]（ED）制定联邦规章并负责监督各州执行。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
 > - **适用地区 / 对象** 全美 50 个州及哥伦比亚特区接受联邦《[[Elementary and Secondary Education Act of 1965|初等与中等教育法]]》（ESEA）第一条款（[[Title I of the Elementary and Secondary Education Act|Title I]]）财政资助的所有公立学区与公立中小学校。
 > - **问题背景** 1983 年《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告以来美国基础教育质量长期停滞，低收入群体、少数族裔与残障学生的学业差距严重；克林顿时期《1994 年改善美国学校法》（IASA）设立的软性标准缺乏刚性执行力，迫使国会寻求建立具有硬性约束的结果驱动型行政问责框架。
-> - **制度位置** 构成了 NCLB 整个[[Test-Based Accountability|基于测试的问责制]]（Test-Based Accountability）的法定执行引擎与核心测量标尺。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254)]]
+> - **制度位置** 构成了 NCLB 整个基于测试的问责制（[[Test-Based Accountability]]）的法定执行引擎与核心测量标尺。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253–254)]]
 
 ---
 
@@ -95,12 +95,12 @@ updated: 2026-10-22
 >   - **连续 3 年未达标** 必须动员 [[Title I of the Elementary and Secondary Education Act|Title I]] 经费向低收入学生免费提供课外“补充教育服务”（Supplemental Educational Services, [[Socioeconomic Status|SES]]，如私立辅导机构）。
 >   - **连续 4 年未达标** 实施“纠正措施”（Corrective Action），包括更换核心课程、削减管理层权限或延长学日。
 >   - **连续 5 年未达标** 制定“学校重组计划”（Restructuring Plan）。
->   - **连续 6 年未达标** 强制执行重组：转为特许学校（Charter School）、更换全部校长教师、由州教育厅直接接管或彻底关闭。[[Argument_Zhao_2017_JEC|(Zhao, 2017, pp. 13–15)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 254)]]
+>   - **连续 6 年未达标** 强制执行重组：转为[[Charter Schools|特许学校]]（Charter School）、更换全部校长教师、由州教育厅直接接管或彻底关闭。[[Argument_Zhao_2017_JEC|(Zhao, 2017, pp. 13–15)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 254)]]
 
 > [!citation-card] [[No Child Left Behind Act 2001|NCLB]] 法定 AYP 与竞相向下沉沦的历史定性
 > 洛兰·M·麦克唐纳（Lorraine M. McDonnell）与 M·斯蒂芬·韦瑟福德（M. Stephen Weatherford）考证指出，各州为了应付《不让一个孩子掉队法》（NCLB）严苛的充分学业进展（AYP）考核与惩罚威胁，被迫陷入了蓄意调低合格切分点、制造虚假高及格率的“竞相向下沉沦”（Race to the bottom）困境；各州自设的通过率与国家统一的[[National Assessment of Educational Progress|全国教育进展评估]]（NAEP）之间拉开巨大鸿沟，成为打破各州分权垄断、推动国家学术标准的最重要实证依据。
 >
-> *Proponents capitalized on research documenting the disparity between student performance on the NAEP and on state tests. In 2007 the National Center for Education Statistics published a study showing that states' definition of proficient varied widely across the country... States' rush to show Adequate Yearly Progress under NCLB had led to a 'race to the bottom' where states lowered cut scores to report high pass rates.* [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
+> *Proponents capitalized on research documenting the disparity between student performance on the NAEP and on state tests. In 2007 the National Center for [[EdStats|Education Statistics]] published a study showing that states' definition of proficient varied widely across the country... States' rush to show Adequate Yearly Progress under NCLB had led to a 'race to the bottom' where states lowered cut scores to report high pass rates.* [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
 
 ---
 
@@ -193,5 +193,5 @@ updated: 2026-10-22
 > | [[Student Mobility\|学生流动性]] | 核心概念 | 在 AYP 问责体系下被学校管理者编码为“漂泊”失范与未达标的核心免责借口。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, pp. 361–362)]] |
 > | [[Spatial Governmentality]] | 上位理论 | 阐释 AYP 如何通过空间圈禁与指标达标将流动学童排斥为边缘异类的治理技术。 |
 > | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | 论证条目 | 深入分析 AYP 达标阶梯制裁在美国测试问责体制中的治理功能与制度限度。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 论证条目 | 详细记录政策企业家如何动员 AYP 与 NAEP 差距数据撬开政策之窗的经典研究。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 论证条目 | 详细记录[[Policy Entrepreneur\|政策企业家]]如何动员 AYP 与 NAEP 差距数据撬开[[Policy Window\|政策之窗]]的经典研究。 |
 > | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证条目 | 揭示 AYP 问责制如何将学生流动病态化为学校免责替罪羊与次生空间排斥的论证。 |

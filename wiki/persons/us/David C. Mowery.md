@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -137,7 +137,7 @@ updated: 2026-10-22
 > [!influence-path] 影响路径
 > - **理论与历史分析路径** 深化了技术变迁经济学中关于需求侧政府采购、反垄断强制技术扩散与纵向供应链外部性的制度因果机制，修正了传统科技政策将焦点片面窄化为供给端直接研发补贴的线性视角。
 > - **方法与实证评估路径** 开创性地将企业工程项目档案、一手[[In-depth Interview|深度访谈]]与计量分析相结合，为微观产业组织与科技政策制定提供了高[[Reliability|信度]]的政策评估[[Paradigm|范式]]。
-> - **政策咨询与制度设计路径** 深度影响了美国国会、[[DARPA]]、美国商务部及 [[OECD]] 关于高技术研发联盟治理（如 [[Sematech]] 设计准则）、[[Dual-Use Technology|军民两用技术]]溢出及[[Technology Transfer|大学技术转移]]立法政策的审议与反思。
+> - **政策咨询与制度设计路径** 深度影响了[[United States Congress|美国国会]]、[[DARPA]]、[[Department of Commerce|美国商务部]]及 [[OECD]] 关于高技术研发联盟治理（如 [[Sematech]] 设计准则）、[[Dual-Use Technology|军民两用技术]]溢出及[[Technology Transfer|大学技术转移]]立法政策的审议与反思。
 > - **跨领域创新治理启示** 其对 IT 产业公共政策成功前提的严格界定，为当下清洁能源技术攻关、半导体供应链韧性建设及人工智能公共研发基础设施布局提供了重要的边界警示。
 
 > [!evidence-grid-a] 相关研究索引

@@ -48,7 +48,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-26
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Glitz_2020_AmEconRev"
@@ -208,7 +208,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤四：替代结果变量
+> [!claim] 论证步骤四：替代[[Dependent Variable|结果变量]]
 > 工业间谍不仅提高了基于价值的 TFP，还增加了实物产量、产品多样性和出口能力。
 
 > [!chain-link] 证据到判断
@@ -232,7 +232,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤六：反事实模拟与成本收益
+> [!claim] 论证步骤六：[[Counterfactual|反事实]]模拟与成本收益
 > 工业间谍对东德经济的总体影响显著但数量有限，但在某些关键行业（如电子行业）几乎是维持技术[[Competitiveness|竞争力]]的生命线；初步[[Cost-Benefit Analysis|成本收益分析]]显示其净回报极为可观。
 
 > [!chain-link] 证据到判断

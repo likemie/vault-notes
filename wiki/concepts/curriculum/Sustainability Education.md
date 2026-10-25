@@ -30,7 +30,7 @@ related_methods: []
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -80,7 +80,7 @@ updated: 2026-10-22
 > | 命题类型 | 核心指向 | 实践载体 | 关键依据 / 来源 |
 > |---|---|---|---|
 > | **跨学科协同育人** | 依托全校协同整合自然与人文社会多维视角 | 跨学科项目化学习与全校行动 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 32)]] |
-> | **绿色技能转型** | 弥补 20 万绿色岗位缺口，支撑产业低碳转型 | 科学、工程与技术融合大纲 | PwC (2022); The Royal Society |
+> | **绿色技能转型** | 弥补 20 万绿色岗位缺口，支撑产业低碳转型 | 科学、工程与技术融合大纲 | PwC (2022); [[Royal Society\|The Royal Society]] |
 
 ---
 

@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -58,7 +58,7 @@ updated: 2026-10-22
 > [!program-context] 机构背景
 > - **立项时间 / 实施周期** 最初经费于 1988 年列入罗纳德·里根（Ronald Reagan）总统预算案，1990 年正式由[[National Institutes of Health|美国国立卫生研究院]]（National Institutes of Health, NIH）与[[Department of Energy|美国能源部]]（Department of Energy, DOE）建立部际伙伴关系启动，历经 13 年攻坚，于 2003 年宣布提前完成全部测序任务。
 > - **发起方与跨部门协同** 联邦层级由 NIH 与 DOE 共同主导。DOE 的早期参与源于其在二战后利用核物理手段监测辐射对人类基因突变影响的技术积累；NIH 则统筹全美顶级大学与独立研究所的生物学前沿力量。
-> - **国际合作网络** 形成由美国、英国（威康信托桑格研究所 [Wellcome Trust Sanger Institute]）、法国、德国、日本与中国科学家共同组成的国际人类基因组测序联合体（International Human Genome Sequencing Consortium）。
+> - **国际合作网络** 形成由美国、英国（威康信托桑格研究所 [[[Wellcome Trust]] Sanger Institute]）、法国、德国、日本与中国科学家共同组成的国际人类基因组测序联合体（International Human Genome Sequencing Consortium）。
 > - **立项争议与认知突破** 在 1980 年代末立项初期，传统学术界曾引发激烈争论：许多资深生物学家批评该计划耗资巨大、具有单调重复的工程属性，主张应将经费分散给大学单个课题组（Single-PI）开展好奇心驱动的自由探索；支持者则坚信建立统一标准的人类基因组参考图谱将释放巨大的平台红利，成为赋能未来数十年全人类生物医学研究的公共基石。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 43)]]
 
 ---

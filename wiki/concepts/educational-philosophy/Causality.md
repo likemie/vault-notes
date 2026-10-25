@@ -117,7 +117,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -132,7 +132,7 @@ updated: 2026-10-22
 > - **用途** 为教育政策制定、教学方案选择与公共资源配置提供无偏的净收益信号，避免将偶然相关或虚假趋势误判为政策红利。
 > - **边界** 因果推断不等于相关（相关可能由第三变量驱动）、不等于预测（基于错误因果识别的气压计仍可预测风暴）、不等于事后合理化解释；社会科学中的因果推断始终是概率性的证据累积，而非绝对的逻辑证明([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 58–59]])。
 
-> [!citation-card] 实验设计中[[Internal Validity|内部效度]]的核心表述
+> [!citation-card] [[Experimental Research|实验设计]]中[[Internal Validity|内部效度]]的核心表述
 > 因果性意味着我们预期变量 X 会导致变量 Y。[[Internal Validity\|内部效度]]，即干预与结果之间因果关系的有效程度，是实验设计的[[Necessary and Sufficient Conditions\|必要条件]]。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 56)]]; [[Argument_Hitchcock_2015_JBE\|(Hitchcock et al., 2015, p. 461)]]
 >
 > *Causality means that we would expect variable X to cause variable Y. Establishing causal evidence requires demonstrating empirical association, temporal precedence, and the elimination of plausible rival explanations.*
@@ -207,7 +207,7 @@ updated: 2026-10-22
 > 因果推断的核心任务在于回答“如果干预未发生，结果会怎样”。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen, Manion, & Morrison (2011)]]
-> **因果推断基本问题与实验[[Operationalization\|操作化]]回答** 依据 Holland (1986) 确立的“因果推断基本问题”，同一个体无法同时处于接受干预与未接受干预的状态，因此个体反事实永远无法直接观测。实验设计通过[[Random Assignment\|随机化]]构建控制组，用控制组的平均潜在结果作为实验组反事实的无偏替代，从而在群体均值层面实现平均因果效应（[[Advanced Technological Education|ATE]]）的无偏估计。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 55–56)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|(Cohen et al., 2011, Ch. 16, p. 314)]]
+> **因果推断基本问题与实验[[Operationalization\|操作化]]回答** 依据 Holland (1986) 确立的“因果推断基本问题”，同一个体无法同时处于接受干预与未接受干预的状态，因此个体反事实永远无法直接观测。[[Experimental Research|实验设计]]通过[[Random Assignment\|随机化]]构建控制组，用控制组的平均潜在结果作为实验组反事实的无偏替代，从而在群体均值层面实现平均因果效应（[[Advanced Technological Education|ATE]]）的无偏估计。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 55–56)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|(Cohen et al., 2011, Ch. 16, p. 314)]]
 
 ---
 
@@ -271,7 +271,7 @@ updated: 2026-10-22
 > - **1960s–1970s — 比较[[Epistemology|认识论]]中跨国因果律与波普尔批判理性主义辩论** 比较教育第三论述代际试图通过[[Variable|变量]]化与[[Multiple Regression|多元回归]]建立跨国普遍因果律；霍姆斯引入波普尔批判理性主义确立基于初始条件（$L + I = P$）的条件因果假说演绎框架，巴伯等人提出对抽离价值与脉络的实证“方法论主义因果”的深刻批判。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 146–150)]]
 > - **1974–1986 — 潜在结果模型与[[Counterfactual\|反事实]]革命** Donald Rubin 与 Paul Holland 建立[[Potential Outcomes Framework\|潜在结果框架]]，提出“因果推断基本问题”，奠定当代计量经济学与实验因果推断的数理基石。
 > - **1990 年代 — 因果图模型与有向无环图** Judea Pearl 创立因果图（DAGs）与 do-calculus 演算体系，形式化了因果识别中的混杂路径切断规则。
-> - **2002 — 法定因果推断边界的学界修正** 美国国会通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA），吸纳[[National Research Council|国家研究委员会]]（NRC）科学原则与学者质证，打破了《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）对[[Random Assignment|随机分配]]实验的单一优先垄断，首次在联邦公法中确立“在实质上排除合理竞争性解释的其他设计同样具备因果主张合法性”的法理标准。([[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]])
+> - **2002 — 法定因果推断边界的学界修正** [[United States Congress|美国国会]]通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA），吸纳[[National Research Council|国家研究委员会]]（NRC）科学原则与学者质证，打破了《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）对[[Random Assignment|随机分配]]实验的单一优先垄断，首次在联邦公法中确立“在实质上排除合理竞争性解释的其他设计同样具备因果主张合法性”的法理标准。([[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]])
 > - **2002–2015 — 联邦循证门控标准确立** Shadish et al. (2002) 体系化[[Internal Validity\|内部效度]]；[[Institute of Education Sciences\|IES]]/[[What Works Clearinghouse\|WWC]] 正式建立以内部效度为先导的因果审查门控程序（[[Gating Procedure]]）([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, pp. 461–467]])。
 > - **2024 — 清算体系因果综合反思** Wadhwa, Zheng & Cook 全景检验 10 所清算中心 1,359 个项目，实证揭示各机构在单项因果识别与跨[[Research Synthesis|研究综合]]门槛上的割裂，推动因果推断从“微观实验识别”走向“宏观证据生态审思”([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 3–5, 26–30]])。
 

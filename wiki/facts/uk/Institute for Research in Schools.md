@@ -34,7 +34,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -60,7 +60,7 @@ updated: 2026-10-22
 > [!finding-cards] 育人成效
 > - **从“学习已知”到“探索未知”的[[Paradigm\|范式]]转变** 学生不再是教材知识的被动接受者，而是成为真正参与科学前沿的贡献者，极大地重构了学生的[[Epistemological Beliefs\|认识论信念]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]]
 > - **激发对前沿 [[STEM Education\|STEM]] 学科的深层抱负** 显著提升学生修读物理、计算生物学及数据科学的高阶学术志向。
-> - **普惠挑战** 皇家学会报告指出，该模式目前仍依赖少数极具活力的骨干教师，亟需国家建立制度化专项支持以惠及弱势地区学校。（p. 33）
+> - **普惠挑战** [[Royal Society|皇家学会]]报告指出，该模式目前仍依赖少数极具活力的骨干教师，亟需国家建立制度化专项支持以惠及弱势地区学校。（p. 33）
 
 ---
 

@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -64,7 +64,7 @@ updated: 2026-10-22
 > [!citation-card] 政策落地驱动下的逆向证据制造
 > 政策制定过程并非遵循纯粹的后果性逻辑去探寻最佳方案，而是深深扎根于适宜性逻辑。行动者高度焦虑政策建议能否与部长及官员的既定政治预期契合，导致证据生产服从于政策辩护。正如一位政府顾问所言：如果我写出不同的报告，政府只会说一句谢谢，而报告将永远无法出版。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 94)]]
 >
-> *With government as a gatekeeper, actors seem more worried about how a policy will 'land' with ministers and the DfE than with whether or not it is the best thing to do.*
+> *With government as a gatekeeper, actors seem more worried about how a policy will 'land' with ministers and the [[Department for Education|DfE]] than with whether or not it is the best thing to do.*
 
 > [!boundary]- 概念边界
 > - 不等于 循证政策制定 — 循证政策制定假定证据先于并决定决策方向，而基于政策的证据制造则是决策先行、证据后置以提供辩护。
@@ -134,7 +134,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **2000 年代初 — 批判概念萌芽** 随着[[What Works Movement\|循证政策运动]]在英美公共卫生与教育领域的兴起，政策学者与科学社会学家开始反思研究证据在政策制定中被选择性利用与政治过滤的现象。
 > - **2016 — 概念理论化界定** Chung（2016）系统提出并界定基于政策的证据制造（Policy-Based Evidence-Making, PBEM），明确将其确立为批判传统理性循证政策[[Paradigm\|范式]]的新框架。
-> - **2022 — 教育政策实证机制深化** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 结合新制度主义理论与英格兰教师教育改革 35 年历史（1983–2019），通过 20 位高层[[Elite Interview\|精英访谈]]实证揭示了英国教育部如何作为[[Gatekeepers\|守门人]]系统运作 PBEM，并分析了其导致的[[Epistemological Break\|认识论断裂]]。
+> - **2022 — 教育政策实证机制深化** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 结合新制度主义理论与英格兰教师教育改革 35 年历史（1983–2019），通过 20 位高层[[Elite Interview\|精英访谈]]实证揭示了[[Department for Education|英国教育部]]如何作为[[Gatekeepers\|守门人]]系统运作 PBEM，并分析了其导致的[[Epistemological Break\|认识论断裂]]。
 
 ---
 
@@ -153,7 +153,7 @@ updated: 2026-10-22
 > > - **策略性行动论** 认为学者与智库在一定程度上利用基于政策的证据制造谋取学术资本与政策[[Discourse|话语]]权，二者存在相互赋能与利用的双向博弈。
 
 > [!critique] 外部批评与制度后果
-> - **消解民主审议价值** 将涉及教育目的与公共利益的政治与价值争议伪装为纯粹的技术有效性问题，削弱了公众与专业群体的民主审议空间。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 96)]]
+> - **消解民主审议价值** 将涉及教育目的与公共利益的政治与价值争议伪装为纯粹的技术有效性问题，削弱了公众与专业群体的民主[[Deliberative Space|审议空间]]。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 96)]]
 > - **侵蚀学术研究自主性** 形成以政治预期为导向的课题资助与[[Research Topic\|研究选题]]倾向，边缘化具有批判性与基础性的理论探索。
 > - **[[Epistemology\|认识论]]全流程断裂** 剥离了科研成果的方法论假设与情境边界（如[[Carter Review of Initial Teacher Training\|卡特审查]]），导致缺乏因果稳健性的规程在一线被强制推行。
 

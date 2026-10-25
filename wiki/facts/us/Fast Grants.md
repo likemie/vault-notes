@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -95,7 +95,7 @@ updated: 2026-10-22
 > [!indicators] 影响力与机制成效维度
 > - **资助周期压缩达 99%** 将常规联邦机构 180–300 天的申请决策周期缩短至 2 天（48 小时），创下科研资助历史纪录。
 > - **重大临床与公共卫生突破** 早期资助的耶鲁大学 SalivaDirect 唾液核酸检测方案成本不足 5 美元，被全美数百家实验室采纳，挽救了数以万计的生命。
-> - **[[Metascience|元科学]]政策外溢效应** 促使英国研究与创新署（UKRI）、美国 [[National Institutes of Health|NIH]] 与 [[National Science Foundation|NSF]] 开始试点设立联邦层面的快速资助机制与微型先导基金。
+> - **[[Metascience|元科学]]政策外溢效应** 促使[[UK Research and Innovation|英国研究与创新署]]（UKRI）、美国 [[National Institutes of Health|NIH]] 与 [[National Science Foundation|NSF]] 开始试点设立联邦层面的快速资助机制与微型先导基金。
 
 > [!stat-cards]- 核心规模数据
 > - **>\$50M** （累计筹资规模） 超 5,000 万美元。

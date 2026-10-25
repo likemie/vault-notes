@@ -72,7 +72,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -194,7 +194,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **1999 — “数字即政策”（Policy as Numbers）政治社会学奠基** [[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）阐明数字在现代治理中使复杂判断隐形化与不可置疑化的权力机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]
 > - **2009 — 数字治理 1.0 与全球[[Space of Equivalence|等值空间]]确立** [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] 提出以数字治理概念；[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]结合[[Alain Desrosières|阿兰·德罗西埃]]（Desrosières, 1998）的“等值空间”理论，系统剖析[[OECD|经合组织]]如何依托 [[PISA]] 产生的数据流将全球教育空间纳入去政治化的软治理网络。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
-> - **2018 — [[Soft Power by Hard Facts|硬事实软权力]]与认知权威机制提炼** [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] 提出“硬事实软治理”（Soft governance by hard facts）命题，揭示经合组织如何通过生产无可争议的可比量化事实确立认知权威，发挥非强制软治理效能。
+> - **2018 — [[Soft Power by Hard Facts|硬事实软权力]]与[[Cognitive Authority|认知权威]]机制提炼** [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] 提出“硬事实软治理”（Soft governance by hard facts）命题，揭示经合组织如何通过生产无可争议的可比量化事实确立认知权威，发挥非强制软治理效能。
 > - **2024 — 数字治理 2.0 理论演进** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] 提出数字治理 2.0 议程，将研究视域拓展至多学科、跨国[[Relational Space|关系性空间]]，聚焦[[Policy Brokerage|政策中介]]在信息过载时代的多阶段证据包装与组织竞合。
 
 ---
@@ -233,13 +233,13 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b, p. 547)]] | 挪威能力课程改革（5 个专家委员会文献 vs 最终颁布的部长令） | 跨国政策咨询文献引用网络追踪分析 | 专家委员会参考文献总数 vs 最终进入部长令的文献数 | 专家委员会总计列入 464 篇文献，最终仅有 22 篇被部长令引用；且被引的 22 篇中有 20 篇全部来自专门审查[[OECD\|经合组织]] DeSeCo 项目的同一专家委员会 | — | 强有力证明国家行政当局在法定决策阶段对数字治理中介知识的极端选择性吸收与政治过滤 |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b, pp. 544, 549)]] | 全球 30 个涉教育政府间组织（IOs）；世界银行 [[Systems Approach for Better Education Results\|SABER]] 与教育回报率数据库 | 跨国治理机构职能数据库追踪；多边政策工具计量普查 | 经济类国际组织占比；指标与基准工具规模 | 涉教育国际组织中 33.3% 为非专门的经济合作协调组织；[[World Bank\|世界银行]] SABER 涵盖 1,600 余项系统性指标，政策仓库汇聚 1,120 项教育回报率自指性研究 | — | 实证揭示跨界经济组织在数字治理中的主导地位，以及跨国中介依赖自指性量化证据建构组织利基的规模 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 25, 29, 32)]] | 芬兰、德国与英国对 PISA 2000 的政策与媒体反响；欧盟委员会与 OECD 的跨国教育数据合作 | 多层级质性案例比较；政策档案与关键知情人访谈 | 媒体报道篇幅；PISA 预算在经合组织教育局占比；欧盟里斯本战略指标对 OECD 数据的依赖率 | 德国媒体刊发 687 个版面，芬兰仅 8 个版面，英国首发日刊发 9 篇主要报纸头条；PISA 占经合组织教育局预算约 30%；欧盟里斯本战略指标报告中 50%–60% 数据来自 OECD（UOE 占 60%），欧盟承担 80% 成员国参与成本 | — | 实证印证数字治理通过媒体危机动员、跨国等价空间生产与超国家机构间的数据资助共生发挥规制功能 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 25, 29, 32)]] | 芬兰、德国与英国对 PISA 2000 的政策与媒体反响；[[European Commission\|欧盟委员会]]与 OECD 的跨国教育数据合作 | 多层级质性案例比较；政策档案与[[Elite Interview\|关键知情人访谈]] | 媒体报道篇幅；PISA 预算在经合组织教育局占比；[[EU\|欧盟]][[Lisbon Strategy\|里斯本战略]]指标对 OECD 数据的依赖率 | 德国媒体刊发 687 个版面，芬兰仅 8 个版面，英国首发日刊发 9 篇主要报纸头条；PISA 占经合组织教育局预算约 30%；欧盟里斯本战略指标报告中 50%–60% 数据来自 OECD（[[UOE Data Collection\|UOE]] 占 60%），欧盟承担 80% 成员国参与成本 | — | 实证印证数字治理通过媒体危机动员、跨国等价[[Space Production\|空间生产]]与超国家机构间的数据资助共生发挥规制功能 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 奠基数字治理概念，通过对比芬德英三国对 PISA 的反响及欧盟官员访谈，揭示经合组织如何以数字技术协调欧洲教育空间。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 奠基数字治理概念，通过对比[[Helmut Fend|芬德]]英三国对 PISA 的反响及欧盟官员访谈，揭示经合组织如何以数字技术协调[[European Education Space|欧洲教育空间]]。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 提出数字治理 2.0 框架，探讨经合组织与世界银行的政策中介机制及其在国家政策周期的多阶段效应。
-> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 系统综述 PISA 如何通过数字治理机制影响全球基础教育改革，提出三层机制模型。
+> - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]] PISA 如何通过数字治理机制影响全球基础教育改革，提出三层机制模型。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合罗斯“数字即政策”与等价空间理论，揭示经合组织如何自产跨国数据以技术排位压制教育目的辩论。
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 系统解析经合组织如何依托跨国量化统测将测验分数塑造成硬事实，确立认知权威并实施远程软治理。

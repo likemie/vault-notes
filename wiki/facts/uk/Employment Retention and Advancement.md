@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -55,7 +55,7 @@ updated: 2026-10-22
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2002 年立项筹备，2003 至 2007 年分批推进实施，构成涵盖多年随访的长期追踪试验。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
-> - **发起方与资助机制** 由英国就业与养老金部全额财政资助并发起，依托英国内阁府[[Evidence-Based Policy-Making|循证决策]]战略，跨国委托美国[[MDRC|人力示范研究公司]]（Manpower Demonstration Research Corporation, MDRC）进行试验设计与独立评估。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
+> - **发起方与资助机制** 由英国就业与养老金部全额财政资助并发起，依托[[Cabinet Office|英国内阁府]][[Evidence-Based Policy-Making|循证决策]]战略，跨国委托美国[[MDRC|人力示范研究公司]]（Manpower Demonstration Research Corporation, MDRC）进行试验设计与独立评估。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **覆盖范围与对象** 覆盖英格兰、苏格兰与威尔士的多个重点就业服务辖区，针对三类处于弱势地位的目标受试群体。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 343)]]
 > - **核心问题导向** 针对新政政策下受助者虽能实现初次就业但失业复发率高、岗位留存周期短、收入增长停滞的治理难题。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–343)]]
 
@@ -132,6 +132,6 @@ updated: 2026-10-22
 > |:-----|:-----|:-----|
 > | [[Welfare-to-Work]] | Concept | 项目实施的上位指导[[Paradigm\|范式]]与核心政策取向。 |
 > | [[Methodology Transfer]] | Concept | 项目依托的技术规程与跨国评估制度移植形态。 |
-> | [[MDRC]] | Fact (Organization) | 承接项目随机实验设计与全过程独立评估的美国专业机构。 |
+> | [[MDRC]] | Fact (Organization) | 承接项目随机[[Experimental Research\|实验设计]]与全过程独立评估的美国专业机构。 |
 > | [[The Green Book]] | Fact (Policy) | 项目立项遵循的英国国家重大公共支出评估指南。 |
 > | [[Random Assignment]] | Method | 项目采用的核心[[Causality\|因果推断]]实验设计方法。 |

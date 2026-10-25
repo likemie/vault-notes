@@ -39,13 +39,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 国家量子倡议（National Quantum Initiative, NQI）是由美国国会于 2018 年 12 月通过《国家量子倡议法案》（National Quantum Initiative Act, P.L. 115-368）正式法典化的跨部门重大战略科技计划。该倡议统筹协调能源部（[[Department of Energy|DOE]]）、国家科学基金会（[[National Science Foundation|NSF]]）与国家标准与技术研究院（NIST）等核心联邦科技机构，旨在加速量子计算、量子网络与量子传感等量子信息科学（Quantum Information Science, QIS）前沿探索，构建国家级[[Big Science|大科学]]设施集群与工业转化生态，维持美国在未来颠覆性计算与国家安全技术上的全球领导地位。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 10)]]
+> 国家量子倡议（National Quantum Initiative, NQI）是由[[United States Congress|美国国会]]于 2018 年 12 月通过《国家量子倡议法案》（National Quantum Initiative Act, P.L. 115-368）正式法典化的跨部门重大战略科技计划。该倡议统筹协调能源部（[[Department of Energy|DOE]]）、国家科学基金会（[[National Science Foundation|NSF]]）与[[National Institute of Standards and Technology|国家标准与技术研究院]]（NIST）等核心联邦科技机构，旨在加速量子计算、量子网络与量子传感等量子信息科学（Quantum Information Science, QIS）前沿探索，构建国家级[[Big Science|大科学]]设施集群与工业转化生态，维持美国在未来颠覆性计算与国家安全技术上的全球领导地位。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 10)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2018 财年通过联邦立法正式启动，首期授权为期 10 年的顶层协调机制与为期 5 年的重点资助预算，2023 年后进入法案重新授权与深化推进阶段。

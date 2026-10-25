@@ -57,7 +57,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -68,7 +68,7 @@ updated: 2026-10-22
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 二战期间[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（OSRD）通过合同委托大学设立秘密攻关实验室（如加利福尼亚大学托管洛斯阿拉莫斯实验室、芝加哥大学托管冶金实验室）；战后为保留这一“政府所有、承包商运营”（Government-Owned, Contractor-Operated, GOCO）的高效动员模式，联邦政府于 1940 年代末将其制度化为常态化的 FFRDC 体系。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35, 38)]]
 > - **总部地点 / 业务辐射** 分布于全美数十个专门园区与前沿天文台址（如芝加哥费米实验室、伯克利国家实验室、夏威夷与智利的双子星天文台等），辐射全美大学学者共同体与联邦国家安全中枢。
-> - **法人属性与经费基础** 依据《联邦采购条例》（FAR）认定的法定研发特设实体；其土地、厂房、粒子加速器与超级计算机等[[Megascience Installations|大科学装置]]产权全部属于联邦政府，年度预算由联邦能源部（[[Department of Energy|DOE]]）、国防部（DOD）、国家科学基金会（[[National Science Foundation|NSF]]）等单一部门全额保障。
+> - **法人属性与经费基础** 依据《联邦采购条例》（FAR）认定的法定研发特设实体；其土地、厂房、粒子加速器与超级计算机等[[Megascience Installations|大科学装置]]产权全部属于联邦政府，年度预算由联邦能源部（[[Department of Energy|DOE]]）、国防部（[[Department of Defense|DOD]]）、国家科学基金会（[[National Science Foundation|NSF]]）等单一部门全额保障。
 > - **核心宗旨与法定职责** 承担具有国家战略紧迫性、高度敏感涉密或耗资极其庞大的前沿科学与国防攻关任务；作为国家公共科研基础设施，面向全美大学教授与青年学者公平开放世界级大科学装置。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 
 ---
@@ -113,7 +113,7 @@ updated: 2026-10-22
 > > 探讨在微电子与军民两用关键技术领域，传统 FFRDC 模式与新型研发[[Public-Private Partnership|公私伙伴关系]]（PPP）的适用边界。
 > >
 > > - **FFRDC 模式的传统优势与产业中试局限** FFRDC 具有由联邦全额保障预算、长期战略任务明确且中立性强的优势，适用于高能物理与战略国防；但在半导体等需要高度商业敏捷性与快速迭代的领域，受《联邦采购条例》（FAR）严格规制，行政流程繁琐，且在[[Bayh-Dole Act of 1980|拜杜法案]]与联邦合同下的知识产权归属相对刚性，导致私营商业芯片巨头不愿共享关键核心 IP。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 21–25)]]
-> > - **新型独立非营利运营商（Natcast）的制度超越** 美国商务部在设计[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）时评估并超越了 FFRDC 构型，最终设立独立非营利实体（Natcast）推行研发公私伙伴关系（PPP）。该模式吸收了 FFRDC 超脱商业私利的公共中立性，同时获得了私营法人在定制 IP 共享协议、设立分级会员网络与五年后多元自生“造血”方面的制度弹性。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–25)]]
+> > - **新型独立非营利运营商（Natcast）的制度超越** [[Department of Commerce|美国商务部]]在设计[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）时评估并超越了 FFRDC 构型，最终设立独立非营利实体（Natcast）推行研发公私伙伴关系（PPP）。该模式吸收了 FFRDC 超脱商业私利的公共中立性，同时获得了私营法人在定制 IP 共享协议、设立分级会员网络与五年后多元自生“造血”方面的制度弹性。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–25)]]
 
 ---
 

@@ -16,7 +16,7 @@ fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: Cabinet Office
+issuing_organization: "[[Cabinet Office]]"
 tags:
   - region/uk
   - theme/evidence-based-policy
@@ -43,13 +43,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1999 年 3 月由英国内阁府（Cabinet Office）以政府白皮书形式正式发布 (Cabinet Office, 1999a, Cm 4310)。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–335)]]
+> - **发布时间 / 发布主体** 1999 年 3 月由[[Cabinet Office|英国内阁府]]（Cabinet Office）以政府白皮书形式正式发布 (Cabinet Office, 1999a, Cm 4310)。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–335)]]
 > - **适用地区 / 对象** 适用于英国中央政府全体部委、非部委公共机构、执行局（Executive Agencies）及参与公共治理与社会服务的各级公职人员。
 > - **问题背景** 破除战后传统政党意识形态教条与科层条块分割，应对公众对政府行政效能的普遍信任危机，将公共部门从被动救济管理转变为高绩效、以结果为导向的现代化治理体系。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–336)]]
 > - **制度位置** 新工党执政治理转型的纲领性顶层设计，直接指导出台了 1999 年内阁府《21世纪专业化政策制定》 (Cabinet Office, 1999b)、2001 年《优良政策制定》 (Cabinet Office, 2001) 以及 2003 年财政部《[[The Green Book|绿皮书]]》修订版 (Cabinet Office, 2003a) 与 2011 年《品红皮书》 (Cabinet Office, 2011)。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
@@ -75,7 +75,7 @@ updated: 2026-10-22
 > [!timeline] 政策时间线
 > - 1997 新工党执政初期提出务实治理理念与何者有效施政口号 (Blair, 1997)。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 334–336)]]
 > - 1999 英国内阁府正式发布《现代化政府》白皮书 (Cabinet Office, 1999a)，确立循证政策转型。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
-> - 2003 英国财政部依据白皮书原则全面改版《[[The Green Book|绿皮书]]》 (Cabinet Office, 2003a)，确立法定成本效益与证据审查规程。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
+> - 2003 [[HM Treasury|英国财政部]]依据白皮书原则全面改版《[[The Green Book|绿皮书]]》 (Cabinet Office, 2003a)，确立法定成本效益与证据审查规程。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, p. 335)]]
 
 ---
 

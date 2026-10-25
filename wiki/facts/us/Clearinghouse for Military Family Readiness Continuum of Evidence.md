@@ -44,13 +44,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-10-26
 ---
 
 ---
 
 > [!info] 机构定位与运营概况
-> **军人家庭准备清算中心（[[Educational Evidence Clearinghouses\|Clearinghouse]] for Military Family Readiness, CMFR）** 是由美国国防部（DoD）、美国农业部国家食品与农业研究所（USDA/NIFA）与宾夕法尼亚州立大学联合发起设立的公共部门证据清算中心，旨在服务全美军人家庭、军属及随军子女的教育与身心发展需求([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
+> **军人家庭准备清算中心（[[Educational Evidence Clearinghouses\|Clearinghouse]] for Military Family Readiness, CMFR）** 是由[[Department of Defense|美国国防部]]（DoD）、美国农业部国家食品与农业研究所（USDA/NIFA）与宾夕法尼亚州立大学联合发起设立的公共部门证据清算中心，旨在服务全美军人家庭、军属及随军子女的教育与身心发展需求([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
 >
 > CMFR 覆盖军人子女[[Academic Achievement\|学业表现]]、心理健康、家庭适应力与就业准备等领域。当前处于**活跃运营（Active）** 状态，官方平台为 [militaryfamilies.psu.edu](https://militaryfamilies.psu.edu)，持续维护“证据连续体（Continuum of Evidence）”数据库。
 
@@ -65,7 +65,7 @@ updated: 2026-10-16
 ---
 
 > [!feature] 评价范围与项目入库
-> - **样本贡献** 在 Wadhwa et al. 汇总的教育项目池中，CMFR 贡献了 **166 个项目（属于[[Academic Achievement\|学业表现]]、学校氛围与就学准备主题）**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 16]])。
+> - **样本贡献** 在 Wadhwa et al. 汇总的教育项目池中，CMFR 贡献了 **166 个项目（属于[[Academic Achievement\|学业表现]]、[[School Climate Effects|学校氛围]]与就学准备主题）**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 16]])。
 > - **评估对象级别** 仅针对具名干预项目进行整体评估与连续体分级。
 
 ---
@@ -95,4 +95,4 @@ updated: 2026-10-16
 
 > [!example] 关联概念与制度脉络
 > - [[Educational Evidence Clearinghouses]] — CMFR 代表了针对特殊群体（军人家庭及子女）设立的专业化证据清算中心。
-> - [[Quasi-Experimental Designs]] — CMFR 为教育与社会干预中的准实验设计制定了高度规范的技术审查标杆。
+> - [[Quasi-Experimental Designs]] — CMFR 为教育与社会干预中的准[[Experimental Research|实验设计]]制定了高度规范的技术审查标杆。

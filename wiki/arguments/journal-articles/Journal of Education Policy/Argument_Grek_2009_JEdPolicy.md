@@ -105,7 +105,7 @@ related_arguments: []
 sources:
   - "[[sources/Grek_2009_JEdPolicy|Grek_2009_JEdPolicy]]"
 created: 2026-10-21
-updated: 2026-10-23
+updated: 2026-10-26
 status: draft
 ---
 ---
@@ -114,7 +114,7 @@ status: draft
 > 缺乏法定教育管辖权与直接财政制约手段的[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD），如何依托[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）的大规模量化指标生产确立全球教育政策议程的主导权？这种以数字为媒介的技术治理如何差异化地重塑欧洲主权国家的国内教育政策，并与[[EU|欧洲联盟]]（European Union, EU）协同形塑超国家的[[European Education Space|欧洲教育空间]]？
 
 > [!claim] 核心主张
-> PISA 作为一种新型政治技术，通过生产去情境化、跨国可[[Commensuration|通约]]的指标与排名，构建起独立于主权行政边界的[[Space of Equivalence|等值空间]]；它一方面充当各成员国对内推行争议性改革和对外宣示现代化的策略性 外在化 借用资源，另一方面成为欧盟委员会在不扩大法律职权前提下依循[[Governing by Numbers|数字治理]]协调欧洲教育空间的核心机制。
+> PISA 作为一种新型政治技术，通过生产去情境化、跨国可[[Commensuration|通约]]的指标与排名，构建起独立于主权行政边界的[[Space of Equivalence|等值空间]]；它一方面充当各成员国对内推行争议性改革和对外宣示现代化的策略性 外在化 借用资源，另一方面成为[[European Commission|欧盟委员会]]在不扩大法律职权前提下依循[[Governing by Numbers|数字治理]]协调欧洲教育空间的核心机制。
 
 > [!concept-lens] 阅读透镜
 > - **对象** PISA 2000 与 2003 年测评周期在芬兰、德国、英国（英格兰与苏格兰）的政策反响，以及欧盟委员会教育文化总司与[[Eurydice|欧洲教育信息网络]]（Education Information Network in Europe, [[Eurydice]]）政策专家的跨国治理实践。
@@ -175,7 +175,7 @@ status: draft
 > [!policy-context] 国际组织治理形态横向对照
 > - **世界银行信贷制约机制** 依托信贷资金与援助项目，向全球南方国家强制绑定结构调整与特定政策附带条件。
 > - **[[EU|欧洲联盟]]条约立法权能** 具备条约赋予的法定立法权与指令工具，但在教育领域受[[Subsidiarity Principle|辅助性原则]]限制，难以推行中央集权式指令。
-> - **经合组织比较规制机制** 通过《[[Education at a Glance|教育概览]]》（[[Education at a Glance]]）、国际成人识字调查（[[International Adult Literacy Survey]], IALS）与 [[PISA]] 等指标工程，确立科学决策的比较转向，使政策建议无需出具方额外辩护便被广泛接受为权威事实。
+> - **经合组织比较规制机制** 通过《[[Education at a Glance|教育概览]]》（[[Education at a Glance]]）、国际成人识字调查（[[International Adult Literacy Survey]], IALS）与 [[PISA]] 等指标工程，确立科学决策的[[Comparative Turn in Education Policy|比较转向]]，使政策建议无需出具方额外辩护便被广泛接受为权威事实。
 
 为克服法定约束手段的匮乏，经合组织通过制度化资源调配构建跨国比较界面。
 
@@ -203,7 +203,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 
 > [!method-position] 测评[[Epistemology|认识论]]转向的三项重构
 > - **去情境化实用导向** 评估聚焦于测量学生进入劳动力市场所需的应用素养（确立以 [[PISA Reading Literacy]] 与 [[PISA Mathematical Literacy]] 为支柱的测评[[Construct|构念]]），替代了对具体学校课程知识掌握程度的传统考查，同时使无法量化的公民参与、政治理解和历史文化素养边缘化。
-> - **[[Lifelong Learning|终身学习]]理念的前置化** 将传统仅针对成人的终身学习概念拓展至义务教育阶段，要求学生自我报告学习动机、[[Self-Efficacy|自我效能]]与学习策略。
+> - **[[Lifelong Learning|终身学习]]理念的前置化** 将传统仅针对成人的终身学习概念拓展至义务教育阶段，要求学生自我报告学习动机、[[Self-Efficacy|自我效能]]与[[Learning Strategies|学习策略]]。
 > - **自我规制主体塑造** 将量化数据的生产与学习主体的积极自我治理相连，把持续技能提升与自我优化的责任深植于个体内部，形成福柯式的[[Governmentality|治理术]]。
 
 > [!warrant]- 技能外包与自我调节主体的生成逻辑
@@ -241,7 +241,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 经合组织将联合王国视为单一国家实体，但在实际操作中[[PISA Response in England|英格兰PISA政策回应]]与苏格兰展现出完全分立的反应机制。
 
 > [!case] 联合王国案例档案：英格兰政策惯性与苏格兰自主防御
-> - **分立的施测架构与应答危机** 英国由各法域独立实施；英格兰教育与技能部（Department for Education and Skills, DfES，后改组为儿童、学校与家庭部，Department for Children, Schools and Families, DCSF）委托英国国家统计局社会调查处（Office for National Statistics, ONS）开展；苏格兰行政院委托格拉斯哥大学苏格兰教育研究委员会（Scottish Council for Research in Education, SCRE）开展；英格兰在 2000 与 2003 年因学校数据负担过重，遭遇样本应答率不达标危机。
+> - **分立的施测架构与应答危机** 英国由各法域独立实施；英格兰教育与技能部（[[Department for Education]] and Skills, DfES，后改组为儿童、学校与家庭部，Department for Children, Schools and Families, DCSF）委托英国国家统计局社会调查处（Office for National Statistics, ONS）开展；苏格兰行政院委托格拉斯哥大学苏格兰教育研究委员会（Scottish Council for Research in Education, SCRE）开展；英格兰在 2000 与 2003 年因学校数据负担过重，遭遇样本应答率不达标危机。
 > - **媒体热度与阶层差距遮蔽** 媒体高度聚焦英格兰“青少年在数理领域领先世界”等正面标题，首发日占据 9 篇主要报纸头版，展现出鲜明的[[Mediatisation of Education Policy|政策媒介化]]特征；但媒体对测试揭示出的贫富阶层严重表现差距保持完全沉默。
 > - **政治确证与体制惯性** 首相托尼·布莱尔在议会下院发表赞扬演讲，教育部通过 TeacherNet 向全国校长发放成果手册，2003 年工会举行高规格大会（大卫·米利班德出席）；英格兰官员坦承未推行任何体制变革，仅将好成绩视为现有高利害问责模式走在正确轨道上的合法化证明。
 > - **苏格兰的地图效应与督导防御** 苏格兰行政院发表专题报告，利用苏格兰全科目排名前三分之一的数据将自身标定在全球版图上；督导部门依托优异表现捍卫其独有的学校自评与氛围网络（Ethos Network），成功抵御英格兰惩罚性检查体制向苏格兰渗透。

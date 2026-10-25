@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -240,7 +240,7 @@ updated: 2026-10-22
 > [!debates] 核心争议交锋
 >
 > > [!axis] 公共中立神话 vs 担保有限公司的企业法底座
-> > - **官方与机构立场** 宣称为超党派、[[Value Neutrality\|价值中立]]的公共[[Educational Brokerage Agency\|证据经纪人]]，由各州及联邦教育部长联合所有，旨在依靠科学证据量规消除课堂政治纷争。([[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 2]])
+> > - **官方与机构立场** 宣称为超党派、[[Value Neutrality\|价值中立]]的公共[[Boundary Spanner|证据经纪人]]，由各州及联邦教育部长联合所有，旨在依靠科学证据量规消除课堂政治纷争。([[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 2]])
 > > - **学术批判** 埃玛·罗威（Emma Rowe）揭露其真实法人实体是依据《公司法》设立的担保有限公司；其章程明文规定董事须具备与慈善界合作资质，并通过行政法规修正案合法授权其与私营慈善资本合作并向营利咨询分包，实质构成了遮蔽公私利益输送的制度装配体。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 10–11]])
 >
 > > [!axis] 脑科学简化论 vs 大学教师的[[Professional Judgment\|专业判断]]自主权

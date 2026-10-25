@@ -58,7 +58,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -113,7 +113,7 @@ updated: 2026-10-22
 > [!finding-cards] 代表性政策报告与重大战略建言
 > - **1958 年《太空概论》（Introduction to Outer Space）** 由 Killian 领衔起草，系统阐释太空探索的科学、国防与威望价值，力主将航天事务置于文官管理之下，直接奠定了 1958 年成立[[National Aeronautics and Space Administration|国家航空航天局]]（NASA）的制度方案。
 > - **1960 年[[Seaborg Report 1960|西博格报告]]（Seaborg Report）** 发布《科学进步、大学与联邦政府》（*Scientific Progress, the Universities, and the Federal Government*），系统主张联邦大[[Scale Enlargement|规模扩充]]大学基础研究预算、在全国打造 30–40 所世界级卓越中心，并确立[[Indirect Costs of Research|科研间接成本]]报销机制。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
-> - **核军控与战略反导独立评估** 为白宫独立评估洲际弹道导弹推进技术与军用侦察卫星，推动《部分禁止核试验条约》（PTBT）技术论证；在反弹道导弹（[[Agent-based Modelling|ABM]]）系统技术审查中独立测算出拦截系统易被突防且造价不可持续，形成对五角大楼方案的关键制衡。
+> - **核军控与战略反导独立评估** 为白宫独立评估洲际弹道导弹推进技术与军用侦察卫星，推动《部分禁止核试验条约》（PTBT）技术论证；在反弹道导弹（[[Agent-based Modelling|ABM]]）系统技术审查中独立测算出拦截系统易被突防且造价不可持续，形成对[[Department of Defense|五角大楼]]方案的关键制衡。
 > - **[[Federally Funded Research and Development Centers|联邦资助研究开发中心]]（FFRDC）治理规范** 就国家实验室（如费米实验室、劳伦斯伯克利实验室等）的运行机制、[[Big Science|大科学]]设施开放共享提供战略规范。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 
 ---
@@ -129,7 +129,7 @@ updated: 2026-10-22
 > > [!axis] “高自治—高嵌入”契约 vs 行政审计与技术获取替代
 > > 战后以 PSAC 为象征的科学精英深度嵌入与免检自治模式，与当代强调行政审计、技术直接获取的新型契约之间的治理模式转型辩论。
 > >
-> > - **[[Argument_Fan_2026_BCAS|樊春良 (2026, pp. 1058, 1062–1063)]]** 指出：PSAC 代表了以科学知识为中心、享有充分自治与战略嵌入的经典[[Social Contract of Science|科学社会契约]]巅峰；而当代科技治理正演进为[[Technology-Oriented Social Contract|技术型社会契约]]，国家绕过传统大学基础研究，直接动员国家实验室与私营企业获取关键技术，白宫科学顾问的认知权威被总统定向指令与行政审计所替代。
+> > - **[[Argument_Fan_2026_BCAS|樊春良 (2026, pp. 1058, 1062–1063)]]** 指出：PSAC 代表了以科学知识为中心、享有充分自治与战略嵌入的经典[[Social Contract of Science|科学社会契约]]巅峰；而当代科技治理正演进为[[Technology-Oriented Social Contract|技术型社会契约]]，国家绕过传统大学基础研究，直接动员国家实验室与私营企业获取关键技术，白宫科学顾问的[[Cognitive Authority|认知权威]]被总统定向指令与行政审计所替代。
 > > - **传统科学政策学派** 坚持由学术共同体直接参与白宫战略决策是维护国家长期科技先发优势的不可替代机制，弱化科学顾问的独立地位将损害国家长远战略创新根基。
 >
 > > [!axis] 学科结构失衡与社会政策脱节

@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -264,7 +264,7 @@ updated: 2026-10-22
 > - **1920s — 韦伯理想型科层制确立** 韦伯在《经济与社会》中将科层制界定为人类历史上最理性的行政组织形态。
 > - **1960s — 公共选择学派的官僚寻租批判** 戈登·图洛克等学者提出[[Tullock's Bureaucracy Theory|官僚制理论]]，揭示官僚追求预算最大化、信息垄断与规避风险的自利行为。
 > - **1980s — 欧陆[[Policy Network|政策网络]]转向与科层微观规制破产** 荷兰等西欧国家打破自上而下韦伯式科层指令迷信；面对福利国家财政危机与高校规模暴增，中央政府放弃繁复细密的事前审批，在 1985 年 [[Higher Education Autonomy and Quality|HOAK]] 白皮书中确立“间接[[Steering at a Distance|远距离操纵]]”，实现国家治理从垂直科层向多理性政策网络的[[Paradigm|范式]]突围。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 135–138, 148–150)]]
-> - **1980–1990s — 天价配件争议与采购改革** 1980 年代五角大楼 435 美元普通锤子与 700 页军用饼干标准引发全美公愤；参议员[[John Glenn|约翰·格伦]]推动出台《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（FASA），确立[[Commercial Off-The-Shelf|商用现货]]优先原则以冲破采办科层避险防线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 148–152)]]
+> - **1980–1990s — 天价配件争议与采购改革** 1980 年代[[Department of Defense|五角大楼]] 435 美元普通锤子与 700 页军用饼干标准引发全美公愤；参议员[[John Glenn|约翰·格伦]]推动出台《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（FASA），确立[[Commercial Off-The-Shelf|商用现货]]优先原则以冲破采办科层避险防线。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 148–152)]]
 > - **1995 — [[OECD|经合组织]]《转型中的治理》指责福利国家集权科层制僵化** 经合组织发布《转型中的治理》（*Governance in Transition*），指责战后中央集权科层制过于昂贵、迟钝且与跨国资本流动脱节，全面推动以放权、外包与绩效审计为核心的[[New Public Management|新公共管理]]（NPM）重组。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–441)]]
 > - **2009 — 里兹维与林加德揭示国际官僚机构演变为自主政策行动者** 里兹维与林加德系统考察经合组织教育司演化史，揭示常任秘书处技术官僚如何从政策协商论坛演进为具有独立议程与制度利益的自主政策行动者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–444)]]
 > - **2016 — 汤普森治理分类学视阈下的去科层化民主危机反思** 奥尼尔等人（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）引入汤普森（Thompson, 1991）组织分类学，揭示公立教育去科层化改革并未带来高效市场，反而滑向了以非透明合同与隐性结盟为特征的网络与部落治理，导致传统科层制所维系的代议制民主问责和信息公开制度被系统性架空。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. vii–viii, 3–7, 82–84)]]

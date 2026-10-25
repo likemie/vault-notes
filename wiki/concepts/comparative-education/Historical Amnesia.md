@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -82,7 +82,7 @@ updated: 2026-10-22
 > *According to a recent study, '[[Research Strategies in Comparative Education]] from 1955 to 1994 revealed that only 10.5 per cent of almost 2000 articles in the International Journal of Educational Development, Comparative Education and Comparative Education Review relied on historiography and historical research'. And, even more disappointing: 'From 1985–1995, less than 5 per cent of all articles published were characterized as historical studies'. This state of affairs has prompted one commentator to observe that our [[Champ|field]] suffers from 'historical amnesia' (Larsen, 2001).*
 
 > [!citation-card] 科技巨头对国家公共研发奠基作用的历史健忘
-> 个人电脑、互联网与现代数字革命并非纯粹由自由市场孕育，而是冷战时期美国国防部高级研究计划局（DARPA）等公共机构长期战略投资与订单托底的直接产物。科技巨头改写历史、将自己置于创新宇宙中心叙事的行为，反映出公共契约精神的严重断裂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
+> 个人电脑、互联网与现代数字革命并非纯粹由自由市场孕育，而是冷战时期[[Department of Defense|美国国防部]]高级研究计划局（DARPA）等公共机构长期战略投资与订单托底的直接产物。科技巨头改写历史、将自己置于创新宇宙中心叙事的行为，反映出公共契约精神的严重断裂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
 >
 > *Silicon Valley giants have suffered from a collective historical amnesia, rewriting history to center themselves while forgetting the public and military investments that laid the foundations of the entire computing revolution.*
 

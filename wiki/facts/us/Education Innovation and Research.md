@@ -66,13 +66,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 教育创新与研究计划（Education Innovation and Research, EIR）是美国联邦教育部依据 2015 年《[[Every Student Succeeds Act|每一个学生成功法]]》（ESSA）设立的全国性竞争性资助计划，旨在通过[[Tiered Evidence Grants|分层证据资助机制]]（Tiered Evidence Grants）孵化、验证并向全国高贫困学区规模化推广具有严谨实证依据的创新教育方案。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 23–24)]]
+> 教育创新与研究计划（Education Innovation and Research, EIR）是[[United States Department of Education|美国联邦教育部]]依据 2015 年《[[Every Student Succeeds Act|每一个学生成功法]]》（ESSA）设立的全国性竞争性资助计划，旨在通过[[Tiered Evidence Grants|分层证据资助机制]]（Tiered Evidence Grants）孵化、验证并向全国高贫困学区规模化推广具有严谨实证依据的创新教育方案。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 23–24)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2015 年随 ESSA 法案签署设立，2017 财年正式承接前身[[Investing in Innovation Program|创新投资项目]]（Investing in Innovation, i3）并常态化持续运行。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 23–24)]]

@@ -16,7 +16,7 @@ fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "Department for Education"
+issuing_organization: "[[Department for Education]]"
 tags:
   - theme/school-autonomy
   - theme/school-improvement
@@ -42,13 +42,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 学院制度始于 2000 年代，但大规模扩张发生在 2010 年联合政府上台之后，由英国教育部（Department for Education, DfE）推动，并以[[The Importance of Teaching\|《教学的重要性》]]白皮书所确立的自我改进取向为依据。
+> - **发布时间 / 发布主体** 学院制度始于 2000 年代，但大规模扩张发生在 2010 年联合政府上台之后，由[[Department for Education|英国教育部]]（Department for Education, DfE）推动，并以[[The Importance of Teaching\|《教学的重要性》]]白皮书所确立的自我改进取向为依据。
 > - **适用地区 / 对象** 适用于英格兰的公立中小学;学院脱离地方教育当局的直接管理，改为直接接受中央拨款并自主决定课程与人事等事务。
 > - **问题背景** 改革回应的是前一时期中央指令自上而下推行改进所导致的顺从问题，试图通过扩大办学自主与校际互助来激活系统自我改进的能力。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 119–120)]]
 > - **制度位置** 学院化与[[Teaching Schools\|教学学校]]指定共同构成[[Self-Improving School System\|自我改进学校系统]]的组织基础;前者提供自主办学与规模化治理结构，后者提供专业发展与研究发展的横向网络。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p.120)]]

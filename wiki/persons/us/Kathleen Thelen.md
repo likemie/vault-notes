@@ -69,13 +69,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国政治学家，麻省理工学院（Massachusetts Institute of Technology, MIT）福特政治学讲席教授，美国文理[[Chinese Academy of Sciences|科学院]]（American Academy of Arts and Sciences）院士，前美国政治学会（American Political Science Association, APSA）主席（2017–2018），当代[[Historical Institutionalism|历史制度主义]]与比较政治经济学领军学者。
+> - **身份位置** 美国政治学家，麻省理工学院（Massachusetts Institute of Technology, MIT）福特政治学讲席教授，美国文理科学院（American Academy of Arts and Sciences）院士，前美国政治学会（American Political Science Association, APSA）主席（2017–2018），当代[[Historical Institutionalism|历史制度主义]]与比较政治经济学领军学者。
 > - **核心角色** 历史制度主义渐进变迁理论的核心建构者；针对传统制度分析将制度视为惰性刚性稳态、将变迁完全归因于外生危机与重大断裂的理论困境，系统建构内生渐进变迁框架，将[[Institutional Layering|制度层叠]]、[[Institutional Drift|制度漂移]]、[[Institutional Conversion|制度转换]]与[[Institutional Displacement|制度替代]]确立为解释长期制度演进的通用分析透镜。
 > - **代表贡献** 奠定[[Theory of Gradual Institutional Change|渐进制度变迁理论]]大厦；系统界定[[Institutional Layering|制度层叠]]（Institutional Layering）的核心机制；跨国比较德国、英国、美国与日本的职业技能形成体系与[[Varieties of Capitalism|资本主义多样性]]演进。
 
@@ -108,7 +108,7 @@ updated: 2026-10-22
 > - **2000年代初 — 渐进变迁理论构建与技能体系演化** 突破历史制度主义早期将制度视为自我强化稳态、变迁全依赖关键节点（Critical Junctures）的理论瓶颈，提出在制度缝隙中的边际重塑理论。
 >   - **代表著作** *How Institutions Evolve: The Political Economy of Skills in Germany, Britain, the United States, and Japan* (2004); *Beyond Continuity* (2005, with W. Streeck)。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
 >   - **关键概念／方法** [[Institutional Layering|制度层叠]]（Layering）、[[Institutional Conversion|制度转换]]（Conversion）、修正案赞助。
->   - **阶段转向** 吸纳埃里克·希克勒（Eric Schickler, 2001）对美国国会委员会制度演化的研究（[[Disjointed Pluralism|脱节多元主义]]），将制度理解为多元妥协与碎片并存的历史复合物。
+>   - **阶段转向** 吸纳埃里克·希克勒（Eric Schickler, 2001）对[[United States Congress|美国国会]]委员会制度演化的研究（[[Disjointed Pluralism|脱节多元主义]]），将制度理解为多元妥协与碎片并存的历史复合物。
 > - **2010年代及以后 — 制度变迁类型学定型与[[Liberalization|自由化]]多样性** 融合行动者偏好、依从类型与制度权力属性，形成完整的渐进演化因果解释模型，并运用于当代欧美福利体制与数字经济变迁分析。
 >   - **代表著作** *Explaining Institutional Change* (2009, with J. Mahoney); *Varieties of Liberalization and the New Politics of Social Solidarity* (2014)。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
 >   - **关键概念／方法** 四类变迁形态（置换/层叠/漂移/转换）、四类变革行动者（[[Insurrectionaries|起义者]]/[[Subversives|颠覆者]]/[[Symbionts|共生者]]/[[Opportunists|机会主义者]]）、自由化轨迹。

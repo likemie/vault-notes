@@ -16,7 +16,7 @@ fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
-issuing_organization: "European Commission"
+issuing_organization: "[[European Commission]]"
 tags:
   - fact/program
   - region/eu
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -53,7 +53,7 @@ updated: 2026-10-22
 > 欧洲共同利益重要项目（Important Projects of Common European Interest, IPCEI）是[[EU|欧洲联盟]]依据《欧洲联盟运行条约》（Treaty on the Functioning of the European Union, TFEU）第 107 条第 3 款第 b 项设立的跨国重大战略性产业扶持框架，通过对常规欧盟国家援助（State Aid）严格禁令的制度化豁免，允许成员国动用本国财政共同资助具有突破性技术创新、广泛泛欧外溢效应与高市场风险的先导性产业网络。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 首个微电子领域 IPCEI 于 2018 年启动；2023 年 6 月欧盟委员会依据国家援助规则正式批准第二轮微电子与通信技术欧洲共同利益重要项目（IPCEI in Microelectronics and Communication Technologies, IPCEI ME/CT），涵盖长达数年的前沿研发与初次工业部署周期。
+> - **立项时间 / 周期** 首个微电子领域 IPCEI 于 2018 年启动；2023 年 6 月[[European Commission|欧盟委员会]]依据国家援助规则正式批准第二轮微电子与通信技术欧洲共同利益重要项目（IPCEI in Microelectronics and Communication Technologies, IPCEI ME/CT），涵盖长达数年的前沿研发与初次工业部署周期。
 > - **发起方与资助机制** 由欧洲联盟委员会统筹审查豁免，资金并非来自欧盟共同财政预算，而是由 14 个参与成员国各自从本国国库提供直接公共补贴配比，总计提供高达 81 亿欧元的公共资金支持，并预期撬动 137 亿欧元的私营部门配套投资。
 > - **覆盖范围与对象** 汇集 14 个成员国（奥地利、捷克、芬兰、法国、德国、希腊、爱尔兰、意大利、马耳他、荷兰、波兰、罗马尼亚、斯洛伐克和西班牙），由 56 家核心企业实施 68 项关键子项目，联合 30 余家高校与公共研究机构展开 180 项跨境研发合作。
 > - **核心问题导向** 应对欧洲在全球半导体与数字价值链中的结构性萎缩（欧洲制造产能占全球份额不足 10% 且完全缺席尖端先进制程），弥补欧盟层面统一公共财政资源的严重赤字，同时防范成员国各自为政导致的零和补贴与单一市场恶性分裂。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 4–5, 13–15)]]

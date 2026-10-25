@@ -16,7 +16,7 @@ fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
-issuing_organization: Department for Science, Innovation and Technology, UK Research and Innovation
+issuing_organization: "Department for Science, Innovation and Technology, [[UK Research and Innovation]]"
 tags:
   - region/uk
   - theme/public-engagement
@@ -42,13 +42,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布主体** 英国科学、创新与技术部（DSIT）及英国研究与创新署（UK Research and Innovation, UKRI）
+> - **发布主体** 英国科学、创新与技术部（DSIT）及[[UK Research and Innovation|英国研究与创新署]]（UK Research and Innovation, UKRI）
 > - **适用对象** 英国中央政府各行政部委、大学科研机构及社会公众
 > - **政策问题** 面对人工智能、合成生物学与基因编辑等具有高度伦理与社会争议的颠覆性新兴科技，传统单向科普与事后补救式危机公关失效，公众诉求在科技萌芽早期即建立知情与参与渠道
 > - **制度位置** 英国国家级科技政策公共对话（Public Dialogue）旗舰支撑平台，连接学术界前沿研究与公众民主审议
@@ -76,7 +76,7 @@ updated: 2026-10-22
 > - **2012–2014** 组织全英针对“线粒体捐赠技术”（三亲婴儿）的公众对话，为英国在全球率先通过该技术立法提供核心社会伦理授权。
 > - **2018–2020** 联合英国人工智能办公室开展针对数据驱动与算法伦理治理的专题公共协商。
 > - **2022** 总结提出公众在面对颠覆性科技时的三大社会伦理追问：为何要研发？由谁获利？谁来负责？[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, Ch. 4, p. 72)]]
-> - **2026** 英国皇家学会《科学为社会》第 16 项建议明确呼吁，必须动员 Sciencewise 等专业机构在国家科学总预算中划拨专门技能培训资源，常态化推行新兴技术公共对话。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 88)]]
+> - **2026** [[Royal Society|英国皇家学会]]《科学为社会》第 16 项建议明确呼吁，必须动员 Sciencewise 等专业机构在国家科学总预算中划拨专门技能培训资源，常态化推行新兴技术公共对话。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 88)]]
 
 ---
 

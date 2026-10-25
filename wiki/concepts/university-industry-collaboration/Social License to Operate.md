@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -134,7 +134,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **1990s — 矿业与资源开发领域首创** 概念源于矿业管理学者（Jim Cooney, 1997），用于描述跨国矿企因环保与原住民冲突遭受社区抵制，指出必须在法定特许权之外争取当地社区的不成文认同。
 > - **2000s–2010s — 扩展至企业社会责任（CSR）与基础设施** 被[[World Bank\|世界银行]]及工业界广泛采纳，成为评估重大工程项目是否符合利益相关者伦理期待的标准透镜。
-> - **2020s — 迁移至高等教育治理与前沿科学** 伴随全球大学信任危机与生成式 AI、基因编辑等颠覆性技术[[Emergence\|涌现]]，英国皇家学会与高等教育界正式将社会运营许可引入大学治理体系，确立公众双向参与为高校维系公共财政合法性与科研伦理声誉的存续前提。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 93, 102)]]
+> - **2020s — 迁移至高等教育治理与前沿科学** 伴随全球大学信任危机与生成式 AI、基因编辑等颠覆性技术[[Emergence\|涌现]]，[[Royal Society|英国皇家学会]]与高等教育界正式将社会运营许可引入大学治理体系，确立公众双向参与为高校维系公共财政合法性与科研伦理声誉的存续前提。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 93, 102)]]
 
 ---
 

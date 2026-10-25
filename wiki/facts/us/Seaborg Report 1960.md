@@ -66,7 +66,7 @@ updated: 2026-10-26
 
 > [!policy-design] 政策设计与战略构架
 > - **政策目标** 突破少数顶尖名校的科研垄断，在全国范围内大面积培植顶尖大学科研高地，实现国家科学攻关能力与高层次科技人才培养的双重倍增。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
-> - **战略行动者** 联邦资助机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、DOD、[[National Aeronautics and Space Administration|NASA]] 等）向大学系统定向投放增量预算，大学管理层配合进行科系与实验室物理扩建。
+> - **战略行动者** 联邦资助机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Defense|DOD]]、[[National Aeronautics and Space Administration|NASA]] 等）向大学系统定向投放增量预算，大学管理层配合进行科系与实验室物理扩建。
 > - **核心政策工具**
 >   1. **间接费率放开** 打破战后 15% 的间接成本上限，建立完全成本补偿通道；
 >   2. **薪资列支合法化** 允许大学将终身教职及新招聘教师的学年薪水直接计入联邦竞争性项目预算；

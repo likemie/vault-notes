@@ -36,13 +36,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2018 年由法国国民教育部颁布法令，于 2021 年起在全法国高中毕业会考（Baccalauréat）中全面正式实施。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]
+> - **发布时间 / 发布主体** 2018 年由法国[[National Education|国民教育]]部颁布法令，于 2021 年起在全法国高中毕业会考（Baccalauréat）中全面正式实施。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]
 > - **适用地区 / 对象** 全法国高中高年级学生、高中执教教师及升入高等教育的所有应届毕业生。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 24)]]
 > - **问题背景** 传统法国[[Gaokao\|高考]]长期被期末闭卷笔试主导，[[Rote Learning\|死记硬背]]与孤立事实考核盛行，无法有效考核学生的即席逻辑推理、批判质疑与跨学科论证能力。
 > - **制度位置** 法国拿破仑时代创立会考制度以来最为深刻的一次现代化评价重构。

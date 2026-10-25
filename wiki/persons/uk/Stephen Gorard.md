@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-20
+updated: 2026-10-26
 ---
 
 ---
@@ -73,7 +73,7 @@ updated: 2026-10-20
 > [!thought-timeline] 核心方法学立场与学术主张
 > - **因果研究质评与可[[Reliability\|信度]]筛子** 戈拉德主张因果断言的可信度取决于研究设计的内在逻辑严密性，而非表面的统计包装。其研发的研究可信度筛子基于因果设计类型、比较组规模、数据缺失程度、测量工具独立性与标准化程度四个维度，采用非补偿性的逐级下移判定规则（Rating 0–4），杜绝依据统计功效计算预设机械切分点，构成了英国教育研究实证质评的核心基石。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 576–578)]]
 > - **终结[[Null Hypothesis\|零假设]]显著性检验（NHST）** 戈拉德长期批判社会科学中滥用 $t$ 检验、[[Analysis of Variance\|方差分析]]（Analysis of Variance, ANOVA）与 $p$ 值的现象。他指出真实教育实证数据极少能满足全[[Random Sampling\|随机抽样]]的数学假设，显著性检验既被普遍误解，也无法反映干预的实际效应规模与实质重要性；主张学术期刊全面停止发表 $p$ 值，强制报告基线与[[Pre-test and Post-test\|后测]]均值、标准差、[[Effect Size\|效应量]]及增值进展得分。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 584–585)]]
-> - **批判单项[[Research Impact\|研究影响力]]奖赏与贝叶斯叙事汇总** 戈拉德严厉批评英国卓越研究框架（[[Research Excellence Framework]], REF）案例评审与英国经济与社会研究理事会（Economic and Social Research Council, ESRC）等资助机构按单项研究现实影响力发放奖金的做法。他指出教育领域极度缺乏直接可重复性验证，单项研究即使设计良好也可能存在假阳性或被同类优质研究[[Falsification\|证伪]]；真正的[[Evidence-Based Policy-Making|循证决策]]必须依托整体证据库的贝叶斯叙事式汇总（narrative Bayesian synthesis），单项研究绝不应被赋予独立的政策主导权。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 572–573, 600)]]
+> - **批判单项[[Research Impact\|研究影响力]]奖赏与贝叶斯叙事汇总** 戈拉德严厉批评英国卓越研究框架（[[Research Excellence Framework]], REF）案例评审与[[Economic and Social Research Council|英国经济与社会研究理事会]]（Economic and Social Research Council, ESRC）等资助机构按单项研究现实影响力发放奖金的做法。他指出教育领域极度缺乏直接可重复性验证，单项研究即使设计良好也可能存在假阳性或被同类优质研究[[Falsification\|证伪]]；真正的[[Evidence-Based Policy-Making|循证决策]]必须依托整体证据库的贝叶斯叙事式汇总（narrative Bayesian synthesis），单项研究绝不应被赋予独立的政策主导权。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 572–573, 600)]]
 > - **[[Engineered Evidence\|证据工程化]]转化[[Paradigm\|范式]]** 戈拉德提出证据投入使用的两维度分类模型（Plain / Modified / Engineered × Passive / Engagement / Interactive），指出单纯依靠[[Knowledge Mediation\|知识中介]]人、摘要工具包或教师[[Action Research\|行动研究]]等被动或弱互动途径无法改变实践；唯有将高可信度实证证据直接工程化为预制教案、教学软件工件，或嵌入法定拨款准入门槛，方能克服一线实践者的认知与执行阻碍。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 578, 597–600)]]
 
 ---

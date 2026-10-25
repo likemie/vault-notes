@@ -124,7 +124,7 @@ sources:
 part_of: ""
 status: active
 created: 2026-05-05
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 ---
 
@@ -222,11 +222,11 @@ updated: 2026-10-25
 >    - 纯教育类机构（如 WWC、BEE）的使命聚焦于课堂教学法、读写与数学课程改革，其标准深受教育测量学与学科教学论影响；
 >    - 多领域跨界机构（如 Blueprints、CEBC、HomVEE、SPTW）脱胎于公共卫生、犯罪学与社会福利学界，天然继承了循证医学（Evidence-Based Medicine, EBM）与流行病学的严苛规范，格外重视[[Clinical Trial\|临床试验]]级的安慰剂对照、[[Iatrogenic Effects in Education\|医源性伤害]]排除与长期随访。
 > 2. **资金与技术实力的巨大断层**
->    - 美国教育部累计向 WWC 投入超过 **1 亿美元** 的研发资金，使其拥有常设的技术审查委员会、庞大的外包评审团队、以及每两至三年迭代一次的极其详尽的技术手册（Handbook v4.0）；
+>    - [[United States Department of Education|美国教育部]]累计向 WWC 投入超过 **1 亿美元** 的研发资金，使其拥有常设的技术审查委员会、庞大的外包评审团队、以及每两至三年迭代一次的极其详尽的技术手册（Handbook v4.0）；
 >    - 相比之下，多数非营利或大学下设机构（如 NDPC、CASEL、BEE）依赖短期竞争性基金或赠款维持运营，资金局限直接导致其[[Literature Search\|文献检索]]广度受限、更新周期漫长、且往往无法对单项研究所包含的复杂微观统计参数（如群组内相关、[[Propensity Score Matching\|倾向得分匹配]]算法）进行独立重算。
 > 3. **评估对象的概念外延分化**
 >    - 七家机构仅针对具备独立商业品牌或商标的具名方案（如 [[Success for All]], [[Reading Recovery]]）进行黑箱式项目评级；
->    - WWC 则穿透到具体的教育政策（如特许学校政策）、教学实践（如[[Direct Instruction\|直接教学]]法）以及微观结果域。这种评价颗粒度的差异，为跨中心横向比较埋下了结构性错位的伏笔。
+>    - WWC 则穿透到具体的教育政策（如[[Charter Schools|特许学校]]政策）、教学实践（如[[Direct Instruction\|直接教学]]法）以及微观结果域。这种评价颗粒度的差异，为跨中心横向比较埋下了结构性错位的伏笔。
 
 ---
 
@@ -393,7 +393,7 @@ updated: 2026-10-25
 > - **结果域细分造成的信息复杂性** WWC 发现 SFA 对语音拼读（alphabetics, K–4）具有显著正向效果而评为“推荐（Positive）”，对阅读流畅度评为“有望（Potentially Positive）”，但对复杂的阅读理解与一般阅读成绩判定为“未证实效果（Indeterminate / No Discernible Effects）”。
 > - **项目变体的效应量分层** BEE 依靠加权平均效应量分层，基础 SFA 读写方案因加权平均效应量达 +0.29 SD（基于 23 项研究）获得最高评级，而针对 2–5 年级西英双语过渡的过渡项目（Transition Program）因单项研究效应量仅为 +0.16 SD（低于 0.20 门槛）被降为最低评级。
 
-> [!chain-link] 案例三：同伴互助学习策略（Peer-Assisted Learning Strategies, PALS） —— 文献割裂与组件拆分分歧
+> [!chain-link] 案例三：同伴互助[[Learning Strategies|学习策略]]（Peer-Assisted Learning Strategies, PALS） —— 文献割裂与组件拆分分歧
 > 同伴互助辅导项目，涵盖阅读与数学，被 5 个清算中心评估（WWC, BEE, Blueprints, CMFR, NDPC），展现出中度评级冲突：
 > - **评级结论冲突** NDPC 对整体项目予以“强力推荐”；Blueprints 将阅读版评为“有望”；BEE 仅评估 PALS Math 并给予“推荐”；WWC 在 5 个结果域中给出从“有望”到“不推荐”的跨度；CMFR 对 PALS Reading 和 PALS Math 均判定为“证据不足 / 不予推荐”。
 > - **文献池几乎完全不重叠** Blueprints 与 BEE 仅基于 1 项研究；WWC 依据 1 至 3 项研究；CMFR 对阅读版纳入 10 项、数学版纳入 2 项研究；CMFR 与 WWC 仅共享了 2 项研究（Fuchs et al., 2002; Sáenz et al., 2005），其余中心互不重合；NDPC 未公开其引用的具体文献。

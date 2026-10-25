@@ -43,7 +43,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -52,7 +52,7 @@ updated: 2026-10-22
 > 洪堡高等教育模式（Humboldtian Model of Higher Education）是普鲁士教育改革家威廉·冯·洪堡（Wilhelm von Humboldt）于 1809–1810 年主持创办柏林大学（今柏林洪堡大学）时确立的现代[[Research Universities|研究型大学]]办学理念与制度组织[[Paradigm|范式]]；该模式从根本上推翻了中世纪至 18 世纪欧洲大学仅作为“既有已知知识传播中介”的狭隘经院传统，首次在世界高等教育史上将**科学研究（[[Knowledge Production|知识生产]]）** 提升为大学教授的法定核心天职，并确立了**教学与科研相结合（Einheit von Lehre und Forschung）** 的不可分割性。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–33)]]
 
 > [!concept-lens] 概念透镜
-> - **制度突破** 打破长达数百年将科学发现排斥在大学体制之外、仅依托私人赞助或外部王室[[Chinese Academy of Sciences|科学院]]的旧格局，使大学一跃成为国家知识生产的中心。
+> - **制度突破** 打破长达数百年将科学发现排斥在大学体制之外、仅依托私人赞助或外部王室科学院的旧格局，使大学一跃成为国家知识生产的中心。
 > - **核心隐喻** 大学不是机械传授现成定论的“学校”，而是师生共同在无功利探索氛围中追求真理的“研究共同体”。
 > - **适用边界** 原生于 19 世纪欧陆哲学背景，强调纯粹精神涵育（[[Bildung]]）；在跨国移植过程中衍生出强调产业应用与社会服务的实用型变体（如美国赠地大学与现代研究型大学）。
 
@@ -80,7 +80,7 @@ updated: 2026-10-22
 ### 1. 洪堡模式是大学完成从“经院修道院”向“知识生产枢纽”跃升的制度质变点
 
 > [!claim] 终结大学排斥科学发现的历史宿命
-> 在 16–17 世纪科学革命与 18 世纪启蒙时代，从哥白尼、开普勒到伽利略、牛顿，主要科学发现均在大学之外或以宫廷侍从、皇家学会学者身份取得；正是洪堡改革使欧洲大学首次将生产知识（Production of Knowledge）与传授知识（Transmission of Knowledge）置于同等法定高度，终结了大学长达数百年的经院边缘化状态。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
+> 在 16–17 世纪科学革命与 18 世纪启蒙时代，从哥白尼、开普勒到伽利略、牛顿，主要科学发现均在大学之外或以宫廷侍从、[[Royal Society|皇家学会]]学者身份取得；正是洪堡改革使欧洲大学首次将生产知识（Production of Knowledge）与传授知识（Transmission of Knowledge）置于同等法定高度，终结了大学长达数百年的经院边缘化状态。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
 
 ---
 

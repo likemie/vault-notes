@@ -99,7 +99,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-25
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Park_2026_TSC"
@@ -459,7 +459,7 @@ issuing_organization: ""
 
 > [!chain-link] 证据到判断
 > - **预测效度与边界可渗透** 创造力对批判性思维具有某种[[Predictive Validity\|预测效度]]，创造性成就测量可能有助于学术选拔；[[Creative Problem Solving\|创造性问题解决]]模型与批判性思维模型分别把批判性评价与创造性假设生成纳入彼此构念，边界比传统假设更可渗透（Isaksen & Treffinger, 2004; Kuhn, 1999）。
-> - **协同教学机制** 同时培养创造性构想与评价性推理的教学可能产生更广认知收益，可采用开放式任务先发散生成、再结构化反思、批评与修正的教学序列（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]），设计思维、探究式项目与[[Socrates\|苏格拉底]]式提问是兼顾两者的课堂实践；以提升批判性思维为目标的[[Effective Teaching\|有效教学]]同样可能附带发展创造力。
+> - **[[Co-Teaching|协同教学]]机制** 同时培养创造性构想与评价性推理的教学可能产生更广认知收益，可采用开放式任务先发散生成、再结构化反思、批评与修正的教学序列（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]），设计思维、探究式项目与[[Socrates\|苏格拉底]]式提问是兼顾两者的课堂实践；以提升批判性思维为目标的[[Effective Teaching\|有效教学]]同样可能附带发展创造力。
 > - **个体内边界** 相关基于个体间变异（Molenaar, 2004），训练其一带动其二仍需纵向与交叉滞后面板分析验证方向性（Kenny, 1975）。
 
 > [!implication]- 教育与实践含义

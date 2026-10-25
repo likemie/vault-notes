@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 定义
@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 
 > [!abstract] 教师专业发展（Professional Development）
-> [[Learning Analytics]]（learning analytics）和个性化学习（personalized learning）被宣称为改善学习质量的技术方案。这同时创造了新的职业类别——数据科学家、学习设计师、教育技术开发者——也意味着教师角色在根本性转变：从知识的传递者和学习的设计者，到算法的执行者和数据的提供者。
+> [[Learning Analytics]]（learning analytics）和[[Personalized Learning|个性化学习]]（personalized learning）被宣称为改善学习质量的技术方案。这同时创造了新的职业类别——数据科学家、学习设计师、教育技术开发者——也意味着教师角色在根本性转变：从知识的传递者和学习的设计者，到算法的执行者和数据的提供者。
 >
 
 > [!success] 对教育[[Geopolitics|地缘政治]]的影响
@@ -78,7 +78,7 @@ updated: 2026-10-22
 >
 > - **[[Regional University Alliances\|区域大学联盟]]** [[League of European Research Universities\|欧洲研究型大学联盟]]（LERU）、The GUILD、[[EU|欧盟]]委员会框架下的欧洲大学联盟——在科研合作、师生流动、联合学位项目中跨越国界甚至大洲边界
 > - **标准化与自主性的张力** 区域一体化推动标准化趋势（如 [[Bologna Process]]），但大学有强大的制度惯性维持自身运作方式。Bologna Process 在欧洲高等教育区内的多样化实施证明了这种张力
-> - **多层级地缘政治空间** 教育治理不再单属于国家权力。EdTech 平台（Google Classroom、Coursera）、超国家机构（European Commission）、大学联盟、私人基金会都在同一空间中运作
+> - **多层级地缘政治空间** 教育治理不再单属于国家权力。EdTech 平台（Google Classroom、Coursera）、超国家机构（[[European Commission]]）、大学联盟、私人基金会都在同一空间中运作
 >
 
 > [!warning] 争议与批评

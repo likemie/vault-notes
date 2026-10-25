@@ -220,8 +220,8 @@ updated: 2026-10-26
 ---
 
 > [!dev-timeline] 概念演变
-> - **1974–1980 年代 — 联邦早期技术扩散先驱** 美国联邦教育部设立[[National Diffusion Network\|国家扩散网络]]（NDN），通过各州设立“州促进员”网络跨辖区推广 500+ 个经审查的模型，覆盖数万所学校，初步证明了基层学校规模化采纳外部优质方案的可行性。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 6–7)]]
-> - **1997–1998 年 — 联邦萌芽与 CSR 项目** 美国国会通过 Obey-Porter 修正案设立全面学校改革计划（Comprehensive School Reform, CSR），首次将联邦专项资金与采纳经实证检验的全校方案（如 [[Success for All]]）挂钩。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]
+> - **1974–1980 年代 — 联邦早期技术扩散先驱** [[United States Department of Education|美国联邦教育部]]设立[[National Diffusion Network\|国家扩散网络]]（NDN），通过各州设立“州促进员”网络跨辖区推广 500+ 个经审查的模型，覆盖数万所学校，初步证明了基层学校规模化采纳外部优质方案的可行性。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 6–7)]]
+> - **1997–1998 年 — 联邦萌芽与 CSR 项目** [[United States Congress|美国国会]]通过 Obey-Porter 修正案设立全面学校改革计划（Comprehensive School Reform, CSR），首次将联邦专项资金与采纳经实证检验的全校方案（如 [[Success for All]]）挂钩。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]
 > - **2001–2002 年 — 概念奠基与 [[No Child Left Behind Act 2001\|NCLB]] 立法** 《不让一个孩子掉队法案》（No Child Left Behind Act, NCLB）全文 110 次提及“[[Scientifically Based Research\|科学本位研究]]”；斯莱文在 [[American Educational Research Association\|AERA]] 发表杰出讲座，正式提出“[[Evidence-Based Education\|证据本位教育]]改革”理论纲领与开发-评估-推广[[Paradigm\|范式]]。[[Argument_Slavin_2002_ER\|(Slavin, 2002, pp. 15–19)]]
 > - **2009–2011 年 — 研发管线与跨国旗舰创设** 美国设立 14 亿美元[[Investing in Innovation Program\|创新投资项目]]（i3）分层研发管线；英国政府出资 1.25 亿英镑设立[[Education Endowment Foundation\|教育捐赠基金会]]（EEF），开启大规模学校现场实验时代。
 > - **2015 年 — [[Every Student Succeeds Act\|ESSA]] 四级法定[[Evidence Standards\|证据标准]]确立** 美国通过《每一个学生成功法》（ESSA 2015），正式在联邦法典中确立 TIER 1–4 证据等级，并将 [[Title I of the Elementary and Secondary Education Act\|Title I]] 改进基金与强/中/有希望证据刚性绑定。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]

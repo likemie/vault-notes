@@ -39,12 +39,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2007 年；中国，教育部主导。
-> - **关键主体** 中华人民共和国教育部、义务教育质量监测中心（NAEQ）。
+> - **关键主体** [[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]、义务教育质量监测中心（NAEQ）。
 > - **制度背景** 中国拥有大规模考试体系（中考、[[Gaokao\|高考]]），但此前缺乏系统性的全国义务教育质量监测机制。[[PISA]] 的国际评估框架为建立国内质量监测提供了参照模板。中国的政策回应受文化传统和政治制度影响——Ti-Yong（体用）框架被用来解释和协商内部改革议程与外部影响之间的关系（Xie et al., 2022）。
 > - **触发条件** PISA 在全球范围内的扩散及其对各国教育评估体系的影响，促使中国在现有大规模考试体系之外建立与国际接轨的教育质量监测机制（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
 

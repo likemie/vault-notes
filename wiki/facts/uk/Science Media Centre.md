@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-03'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -74,7 +74,7 @@ updated: 2026-10-22
 > 科学媒体中心（Science Media Centre, SMC）是 2002 年设立于英国伦敦的独立非营利[[Science Journalism\|科学新闻]]中介机构，首创在科学争议爆发时直接对接一线科学家与大众传媒新闻采编室的快速同行评议中介模式，其制度设计直接衍生出面向人文社会科学的[[Education Media Centre\|英国教育媒体中心]]（Education Media Centre, EMC），并在全球催生了跨国科学媒体中介协作网络，成为后真相时代维护公共[[Scientific Literacy\|证据素养]]、阻断虚假信息发酵的标志性制度中介。([[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 56)]]; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 62, 64]])
 
 > [!org-context] 机构背景与设立渊源
-> - **成立时间 / 设立地点** 2002 年 4 月在伦敦正式投入运营，独立常设实体驻于威康信托基金会（Wellcome Trust）总部。([[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 56)]])
+> - **成立时间 / 设立地点** 2002 年 4 月在伦敦正式投入运营，独立常设实体驻于威康信托基金会（[[Wellcome Trust]]）总部。([[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 56)]])
 > - **历史诱因与制度起源** 诞生于 20 世纪末英国狂牛病（BSE）、转基因农作物（GM Crops，当时媒体贬称为“科学怪人食品”Frankenfoods）与麻疹、腮腺炎和风疹三联疫苗（[[Mixed Methods Research\|MMR]] vaccine）引发的严重社会恐慌与媒体信任危机。英国上议院科学技术特别委员会（House of Lords Select Committee on Science and Technology）于 2000 年发布第三号报告《科学与社会》（*Science and Society*），明确呼吁创设独立的专业中介机构，重建新闻传媒界与科学共同体之间的互信机制。
 > - **机构属性与经费基础** 注册为独立慈善机构（Independent Charity），由独立受托人董事会与跨学科科学顾问委员会共同领导。为确立其中立性与公信力，机构执行严苛的“5% 资助红线”制度：任何单一企业、高校、慈善基金会或政府机构的资助上限不得超过年度运营总预算的 5%，经费来源高度分散于上百家科研学会、大学、媒体集团与公益信托。
 > - **核心宗旨与法定使命** 在科学议题成为大众媒体头条新闻的关键时刻，为新闻采编室快速提供客观、权威且经过同行评议检验的专家评述，确保公共[[Discourse|话语]]建立在严谨实证依据之上，抵御煽动性炒作与伪科学操纵。
@@ -90,7 +90,7 @@ updated: 2026-10-22
 
 > [!actor-grid] 组织治理架构与多元制衡
 > - **受托人董事会（Board of Trustees）** 由资深媒体总编、前沿科学家、法学界专家与公众代表共同组成，负责监管机构运营合规性与战略独立性，确保业务完全脱离政府日常干预与出资方意愿。
-> - **科学顾问委员会（Science Advisory Committee）** 汇集英国各大国家学术院（英国皇家学会、英国医学[[Chinese Academy of Sciences|科学院]]、皇家工程院等）资深学者，在重大突发科技争议中把关专家库准入标准与科学事实界定。
+> - **科学顾问委员会（Science Advisory Committee）** 汇集英国各大国家学术院（[[Royal Society|英国皇家学会]]、英国医学科学院、皇家工程院等）资深学者，在重大突发科技争议中把关专家库准入标准与科学事实界定。
 > - **常设编辑执行团队（Editorial Team）** 由兼具新闻采编经验与科学专业背景的[[Science Journalism\|科学新闻]]官组成，实行 7×24 小时新闻议程监测，独立决定突发报道选题并撰写专业导述。
 > - **外部利益冲突审查** 所有入库并发表言论的科学家必须签署严格的利益冲突声明（Declaration of Interests），随专家评语同步公开，确保透明度。
 

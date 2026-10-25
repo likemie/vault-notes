@@ -56,17 +56,17 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> **区域技术与[[Innovation Hub|创新枢纽]]计划（Regional Technology and Innovation Hubs, Tech Hubs）** 是美国商务部（United States Department of Commerce, DOC）下属经济发展局（Economic Development Administration, EDA）依据《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act of 2022）设立的旗舰级地方导向[[Modern Industrial Policy|现代产业政策]]工程。该计划授权总投资 100 亿美元，旨在通过在全美非传统科技高地培育集聚性区域产业创新联盟，推动关键核心技术的中试转化、规模化制造与供应链本土化，打破少数沿海都会对科技资本的垄断并重塑国家创新地理拓扑。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 21–22)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 6)]]
+> **区域技术与[[Innovation Hub|创新枢纽]]计划（Regional Technology and Innovation Hubs, Tech Hubs）** 是[[Department of Commerce|美国商务部]]（United States Department of Commerce, DOC）下属经济发展局（Economic Development Administration, EDA）依据《[[CHIPS and Science Act|芯片与科学法案]]》（CHIPS and Science Act of 2022）设立的旗舰级地方导向[[Modern Industrial Policy|现代产业政策]]工程。该计划授权总投资 100 亿美元，旨在通过在全美非传统科技高地培育集聚性区域产业创新联盟，推动关键核心技术的中试转化、规模化制造与供应链本土化，打破少数沿海都会对科技资本的垄断并重塑国家创新地理拓扑。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 21–22)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 6)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2022 年由《芯片与科学法案》正式授权立项，2023 年 10 月公布首批 31 个指定技术枢纽（Designated Tech Hubs），2024 年 7 月完成首轮实施资助拨付，项目设计支持周期为 5 至 10 年。
-> - **发起方与资助机制** 由美国商务部经济发展局（EDA）牵头实施，联合国家科学基金会（[[National Science Foundation|NSF]]）、[[Department of Energy|美国能源部]]（United States Department of Energy, DOE）与国防部（Department of Defense, DOD）协同推进；采用“战略发展资助（Strategy Development Grants）+ 实施落地资助（Implementation Grants）”两阶段竞争机制，首轮实施资助向 12 个枢纽累计拨付 5.04 亿美元。
+> - **发起方与资助机制** 由美国商务部经济发展局（EDA）牵头实施，联合国家科学基金会（[[National Science Foundation|NSF]]）、[[Department of Energy|美国能源部]]（United States Department of Energy, DOE）与国防部（[[Department of Defense]], DOD）协同推进；采用“战略发展资助（Strategy Development Grants）+ 实施落地资助（Implementation Grants）”两阶段竞争机制，首轮实施资助向 12 个枢纽累计拨付 5.04 亿美元。
 > - **覆盖范围与对象** 面向全美各州及属地，要求至少三分之一的获批枢纽位于乡村或传统未充分受惠地区；申请主体必须是由[[Research Universities|研究型大学]]、领军与初创企业、州和地方政府、社区学院及劳工组织共同组建的跨界区域联合体（Regional Consortia）。
 > - **核心问题导向** 扭转全美超过 80% 的风投资本和高科技研发高度板结于硅谷、波士顿等少数沿海超级都会的地理极化危机，破解实验室尖端成果在[[Technology Readiness Level|技术就绪水平]]（Technology Readiness Level, TRL）4–6 阶段遭遇的[[Valley of Death|死亡之谷]]断层，保障国家经济安全与产业主权。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 6)]]
 
@@ -92,7 +92,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **2022 — 立法授权与制度创设** 2022 年 8 月，美国国会通过《[[CHIPS and Science Act|芯片与科学法案]]》，正式设立区域技术与[[Innovation Hub|创新枢纽]]计划，授权商务部 EDA 在全美统筹推进区域前沿技术产业化布局。
+> - **2022 — 立法授权与制度创设** 2022 年 8 月，[[United States Congress|美国国会]]通过《[[CHIPS and Science Act|芯片与科学法案]]》，正式设立区域技术与[[Innovation Hub|创新枢纽]]计划，授权商务部 EDA 在全美统筹推进区域前沿技术产业化布局。
 > - **2023 — 枢纽遴选与战略规划资助** 2023 年 10 月，EDA 从全美近 400 份申请中遴选并指定首批 31 个 Tech Hubs，并向其中的 29 个枢纽拨发战略发展资助资金，用于深化跨部门治理架构与产业发展路线图设计。
 > - **2024–至今 — 首轮实施资助落地与规模化建设** 2024 年 7 月，商务部宣布向首批 12 个 Tech Hubs 拨付总计 5.04 亿美元的实施资助（如纽约上州的“NY SMART I-Corridor”微电子与半导体封装枢纽、科罗拉多与新墨西哥州的“Elevate Quantum”量子枢纽），进入工程平台搭建与产业链实质整合阶段。
 

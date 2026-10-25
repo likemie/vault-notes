@@ -55,13 +55,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] Congressional Earmarks
-> **国会专项拨款（Congressional Earmarks，亦称 Academic Earmarks）** 是指美国国会众议院和参议院议员利用预算法案审议特权，在未经过联邦科研机构公开招标或同行评议竞争程序的情况下，直接在最终拨款法案中指令性列支、专门划拨给其本州或本选区特定高校或产学联合实体的定向科研资金（通常用于建设新建研究大楼、采购专用大型科研仪器或设立特定产业技术攻关中心）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]; [[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
+> **国会专项拨款（Congressional Earmarks，亦称 Academic Earmarks）** 是指[[United States Congress|美国国会]]众议院和参议院议员利用预算法案审议特权，在未经过联邦科研机构公开招标或同行评议竞争程序的情况下，直接在最终拨款法案中指令性列支、专门划拨给其本州或本选区特定高校或产学联合实体的定向科研资金（通常用于建设新建研究大楼、采购专用大型科研仪器或设立特定产业技术攻关中心）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]; [[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示政治立法权力对科学共同体内部基于学术质量的择优资助体系的直接行政穿透与利益置换；同时揭示在[[Market Fundamentalism|市场原教旨主义]]意识形态制约下，隐蔽[[Developmental Network State|发展型网络国家]]利用非显性立法通道暗中向地方输送产业研发资本的替代机制。
@@ -145,7 +145,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 概念演变
 > - **1980s — 专项拨款萌芽与学术游说兴起** 国会议员开始在联邦拨款法案中指令性列支特定大学的科研基建款项，专业公关与游说公司介入学术经费争夺。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 44)]]
-> - **1994 — 共和党革命与显性产业政策转入地下** 共和党掌控国会后将商务部[[Advanced Technology Program|先进技术计划]]（[[Advanced Technology Program|ATP]]）削减至 1900 万美元，但在实际执政中大量借助专项拨款与五角大楼预算向地方高科技集群输送研发资金。[[Argument_Block_2008_PS|(Block, 2008, pp. 185–186)]]
+> - **1994 — 共和党革命与显性产业政策转入地下** 共和党掌控国会后将商务部[[Advanced Technology Program|先进技术计划]]（[[Advanced Technology Program|ATP]]）削减至 1900 万美元，但在实际执政中大量借助专项拨款与[[Department of Defense|五角大楼]]预算向地方高科技集群输送研发资金。[[Argument_Block_2008_PS|(Block, 2008, pp. 185–186)]]
 > - **2000s — 批判高潮与隐蔽网络国家理论再审视** 专项拨款规模膨胀至历史峰值，阿特金森等学者从同行评议角度发起严厉批评；布洛克（2008）则提出[[Developmental Network State|发展型网络国家]]视角，指出国会资助的产学协同中心具有超越单纯政治分肥的局部生产性。[[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
 > - **2011 — 国会两院实施专项拨款临时禁令（Moratorium）** 因频繁曝出腐败丑闻，国会两党领导层暂停在常规预算法案中使用专项拨款。
 > - **2021 — 专项拨款以“社区项目资助”规范化重启** 国会恢复专项拨款制度，但设立更严格的透明度公开、利益冲突回避与占预算总额上限（不超过 1%）规制框架。

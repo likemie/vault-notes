@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -166,11 +166,11 @@ updated: 2026-10-22
 > [!exegesis]- [[Evidence-Based Education|循证教育]]案例：英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）体育参与项目的三层[[Ontology|本体论]]解构
 > - **现象与问题** [[EEF Teaching and Learning Toolkit|EEF Toolkit]] 公布“体育参与”干预带来 $+0.17$（相当于提高2个月学习进展）的平均[[Effect Size|效应量]]，鼓励各校投入体育项目提高读写成绩。
 > - **维度与材料** 里格利（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019]]）调阅原始评估报告发现，拉高该均值的核心项目为针对贫困学生的“为成功而战”（[[Playing for Success]]）；该项目在实际运作中超越了普通体育锻炼，重点是将学生带入顶级足球俱乐部学习中心，配备了 1 对 1 专业学术辅导、定制读写软件并安排体育明星互动。
-> - **综合判读** 在实在界层面，真正触发学生学习动机并改善成绩的深层因果机制，是贫困弱势群体在特殊激励环境中获得的自尊提振、高质量个性化辅导以及专属学习资源（潜在因果力被充分激活），完全不同于普遍意义上的球类奔跑活动。
+> - **综合判读** 在实在界层面，真正触发[[Student Motivation|学生学习动机]]并改善成绩的深层因果机制，是贫困弱势群体在特殊激励环境中获得的自尊提振、高质量个性化辅导以及专属学习资源（潜在因果力被充分激活），完全不同于普遍意义上的球类奔跑活动。
 > - **结论强度** 简单的经验均值将深层机制完全抹杀，制造了“只要增加体育课就能提高数学成绩”的统计幻象，证实了分层本体论穿透数据黑箱的必要性。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, pp. 120–123)]]
 
 > [!exegesis]- 政策批判案例：中国跨国高等教育“[[Belt and Road Initiative|一带一路]]”政策的[[Explanatory Critique|解释性批判]]分析
-> - **现象与问题** 中华人民共和国教育部等部门联合发布多份[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]方案，在表层建立起“[[People-to-People Connectivity|民心相通]]、共同繁荣、平等互利”的利他合作话语。
+> - **现象与问题** [[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]等部门联合发布多份[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]方案，在表层建立起“[[People-to-People Connectivity|民心相通]]、共同繁荣、平等互利”的利他合作话语。
 > - **维度与材料** 禹钟晸（[[Argument_Woo_2023_HEP|Woo, 2023]]）结合[[Critical Discourse Analysis|批判话语分析]]与解释性批判，系统收集纲领性政策、官方新闻解读、领导人演讲及涉外基建规划，解构诊断性、处方性与激励性政策框架。
 > - **综合判读** 在实际话语实践层面，政策互文频繁引用宏观外交决议与[[Soft Power|软实力]]战略；在实在界机制层面，跨国高等教育被深度整合进国家[[Hard Power|硬实力]]构建、海外中资基建用工保障以及提供非西方发展模式的[[Grand Theory|宏大叙事]]之中。
 > - **结论强度** 揭示出表层共赢话语与深层工具主义地缘战略之间的结构性脱节，完成对教育作为国家治理与意识形态推进工具的深层解释性批判。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 681–684, 687–692)]]

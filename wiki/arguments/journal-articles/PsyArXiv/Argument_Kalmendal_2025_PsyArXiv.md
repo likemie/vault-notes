@@ -77,7 +77,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-16
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kalmendal_2025_PsyArXiv"
@@ -100,7 +100,7 @@ issuing_organization: ""
 > [[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（Visible Learning, VL）汇总全球 2,400 余项[[Meta-analysis|元分析]]，归纳为 322 个按[[Effect Size|效应量]]排序的教育影响因素，声称系统揭示了对学生[[Academic Achievement|学业成就]]最有影响的教学实践与政策杠杆。然而，该二阶综合体系长期遭受分散的方法论与统计批评。本研究通过全库[[Preregistration|预注册]][[Metascience|元科学]]审计，回答三个核心问题：VL 纳入的元分析是否符合基本的受试者、干预、对照与结局（[[PICO Framework|PICO]]）规范？其报告的效应量、[[Sample Size Determination|样本量]]与研究数在底层元分析中是否可独立复现？其所呈现的影响因素在基础教育（K-12）学校实践中究竟具备多大的现实相关性？
 
 > [!claim] 核心主张
-> 《可见的学习》存在系统性的方法学缺陷与灾难性的不可[[Replication in Education Research|复现危机]]：全库 322 项影响因素中仅 19% 完全符合受试者、干预、对照与结局（PICO）规范，在 301 项可核查因素中仅有 2 项能够成功复现数据提取，且广泛混淆不同实验设计与跨越数十年的陈旧文献。这些缺陷从根本上瓦解了其效应量的因果[[Interpretive Validity|解释效度]]与排名有效性，表明该体系完全不具备指导教育政策与学校改进的科学资格，实践者与政策制定者不应将其作为有效性决策依据。
+> 《可见的学习》存在系统性的方法学缺陷与灾难性的不可[[Replication in Education Research|复现危机]]：全库 322 项影响因素中仅 19% 完全符合受试者、干预、对照与结局（PICO）规范，在 301 项可核查因素中仅有 2 项能够成功复现数据提取，且广泛混淆不同[[Experimental Research|实验设计]]与跨越数十年的陈旧文献。这些缺陷从根本上瓦解了其效应量的因果[[Interpretive Validity|解释效度]]与排名有效性，表明该体系完全不具备指导教育政策与学校改进的科学资格，实践者与政策制定者不应将其作为有效性决策依据。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 《可见的学习》全球研究数据库中收录的全部 322 项影响因素及检索获取的 1,369 项一阶元分析全文。
@@ -196,7 +196,7 @@ issuing_organization: ""
 
 > [!critique-method] 概念错配的典型实证表现
 > - **研究对象偏离基础教育（Population）** 仅 53% 的因素以中小学生为研究对象，其余大量混入了大学生甚至成年职场样本。在抑郁影响因素中，直接纳入了 Huang et al. (2014) 研究青春期产妇抑郁对婴儿成长影响的单篇原始调查，该研究甚至不是元分析。
-> - **干预措施名不副实（Intervention）** 仅 46% 的因素符合其名称定义的干预内容。在写作项目影响因素中，直接纳入了 Graham et al. (2018) 关于阅读干预如何影响写作的研究，造成教学概念的混淆。
+> - **干预措施名不副实（Intervention）** 仅 46% 的因素符合其名称定义的干预内容。在[[Writing Programs|写作项目]]影响因素中，直接纳入了 Graham et al. (2018) 关于阅读干预如何影响写作的研究，造成教学概念的混淆。
 > - **对照条件混入替代性干预（Comparison）** 仅 41% 具备清晰的对照基准。多数研究并未对比无辅导的常规教学，而是对比另一种同样有效的创新教学方案（Active Comparison），使得两组差异极小，直接拉低了平均数值。
 > - **测试指标掺杂非学业[[Variable|变量]]（Outcome）** 仅 41% 纯粹测量学生的[[Academic Achievement|学业成就]]。多数因素混入了行为表现、智商测试或学习动机。例如在干预反应（[[Response to Intervention]], RTI）中，Tran et al. (2011) 混入了行为与智商，Burns and Symington (2002) 则混入了大学生在组内设计中的观察行为。
 
@@ -241,7 +241,7 @@ issuing_organization: ""
 > | 对比维度 | [[Randomised Controlled Trials\|随机对照试验]]与准实验（RCT / QES） | 观察性与相关性研究 |
 > |---|---|---|
 > | **核心证据功能** | 通过对照组排除外界干扰，检验某种教学做法是否真正引起成绩提升。 | 描述变量之间的伴随关系，无法排除家庭背景等潜在第三变量的干扰。 |
-> | **常见[[Research Topic\|研究主题]]** | 拼读教学法、数学解题策略等可以在课堂中具体实施的教学改革。 | 校园欺凌、家庭经济地位等自然存在的环境因素。 |
+> | **常见[[Research Topic\|研究主题]]** | 拼读教学法、数学解题策略等可以在课堂中具体实施的教学改革。 | [[School Bullying\|校园欺凌]]、家庭经济地位等自然存在的环境因素。 |
 > | **统计测量指标** | 标准化均值差（Standardised Mean Difference, SMD，如 Cohen's $d$ 或 Hedges' $g$）。 | 相关系数（$r$）或回归系数。 |
 > | **指导实践的风险** | 能够清晰告知教师具体操作所能带来的预期改善。 | 容易让人把表面相关当成因果联系，误以为改变表象就能提高成绩。 |
 
@@ -342,7 +342,7 @@ issuing_organization: ""
 > [!case] 全库仅有的两项成功复现因素的实际情况
 > 在全库 301 个因素中，最终通过复现测试的只有两项：
 > 1. **学生感到被讨厌** 该因素只收录了 1 篇元分析，研究者核对其效应量、样本量和研究篇数均无误，算作成功复现。
-> 2. **班内分组** 该因素名义上收录了 3 篇文献，但其中 2 篇属于无法获取的未发表论文，研究者只核实了能找到的唯独 1 篇，依据规则也被算作完全复现。
+> 2. **[[Within-Class Grouping|班内分组]]** 该因素名义上收录了 3 篇文献，但其中 2 篇属于无法获取的未发表论文，研究者只核实了能找到的唯独 1 篇，依据规则也被算作完全复现。
 > 
 > 也就是说，对于真正包含多篇完整文献的核心因素，实际完全复现率为 **0%**。
 
@@ -417,7 +417,7 @@ issuing_organization: ""
 > [!citation-card] 核心结论：不可接受的方法学质量与复现性
 > 正如《[[Visible Learning|可见的学习]]》这一构想所展现的雄心壮志一样，其方法学质量与可复现性对于任何旨在指导教育实践的事物而言，都是完全不可接受的。[[John Hattie|约翰·哈蒂]]推出其首部超级研究至今已过去十五年，我们希望学术共同体终于准备好接受这一总体构想的价值，并勇于承担挑战——在维持最高水准的方法学质量、可复现性与相关性的同时，为如何提高学生[[Academic Achievement|学业成就]]提供简明易懂的综述。
 >
-> *As promising as the idea of Visible Learning is, the methodological quality and reproducibility is entirely unacceptable for anything that informs educational practices. It has now been fifteen years since John Hattie launched his first mega-study. We hope that the research community is finally ready to accept the overall idea as useful, and step up to the challenge to deliver an easy-to-comprehend overview on how to improve student achievement, while also maintaining the highest levels of methodological quality, reproducibility, and relevance.*
+> *As promising as the idea of Visible Learning is, the methodological quality and reproducibility is entirely unacceptable for anything that informs educational practices. It has now been fifteen years since John Hattie launched his first mega-study. We hope that the research community is finally ready to accept the overall idea as useful, and [[Skills Toward Employment and Productivity|step]] up to the challenge to deliver an easy-to-comprehend overview on how to improve student achievement, while also maintaining the highest levels of methodological quality, reproducibility, and relevance.*
 
 > [!citation-card] 对实践者的政策通告：切勿依赖
 > 我们给实践者的信息十分明确：除了将其作为影响学生成就的潜在因素清单之外，切勿在任何其他方面依赖《可见的学习》。其报告的[[Effect Size|效应量]]往好里说是不可靠且错误的；往坏里说则是彻头彻尾的误导。

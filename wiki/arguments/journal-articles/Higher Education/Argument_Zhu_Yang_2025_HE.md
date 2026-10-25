@@ -14,7 +14,7 @@ argument_related_color: "#dbeafe"
 journal: "Higher Education"
 authors:
   - "Zhu, K."
-  - "Yang, R."
+  - "[[Rui Yang|Yang, R.]]"
 citation: "Zhu, K., & Yang, R. (2025). Deciphering China’s higher education outreach paradigm in Southeast Asia: can a neo-tributary perspective work? Higher Education, 89(4), 1041–1060. https://doi.org/10.1007/s10734-024-01260-8"
 year: 2025
 doi: "10.1007/s10734-024-01260-8"
@@ -73,7 +73,7 @@ related_facts:
   - "[[Institute of South-South Cooperation and Development]]"
 status: draft
 created: 2026-10-20
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 ---
 
@@ -109,7 +109,7 @@ updated: 2026-10-23
 > |------|----------------|
 > | **案例设计**<br>[[Case Study\|定性案例研究]] | 选取中柬高等教育合作为典型案例。柬埔寨在地缘上处于东南亚国家联盟（Association of Southeast Asian Nations, ASEAN）枢纽，周边紧邻老挝、泰国与越南，是[[Belt and Road Initiative\|一带一路]]互联互通的关键节点；历史上扶南（公元 1–7 世纪）与吴哥（公元 802–1431 年）曾为古代封建中国的朝贡邦国，当代华人华侨约占总人口 3%–5%（约 70 万人）；中国自 2012 年起连续成为柬埔寨最大外资来源国，柬埔寨近年国内生产总值（Gross Domestic Product, GDP）增速保持在 7% 左右。中国在东南亚推行的语言培训、留[[Student Mobility\|学生流动]]、建校援助与联合办学四类典型拓展路径在中柬合作中均有展开。 |
 > | **访谈法**<br>[[Semi-structured Interview\|半结构化访谈]] | 于 2019 年在金边以及 2019 至 2020 年初在华对 40 位关键知情人开展深度半结构化访谈。访谈对象覆盖校际合作领导者、高教援助项目负责人、[[Confucius Institute\|孔子学院]]中外方教职员及各专业在华柬籍留学生。为平衡直接受益者的立场偏差，特别吸纳了 3 位曾深度参与中柬高教项目但已转岗的中立官员，以及 4 位同时参与过日本与欧洲援助项目的管理者提供横向比较反思。 |
-> | **文本与数据分析**<br>[[Documentary Analysis\|文档与机构数据分析]] | 梳理中国教育部（Ministry of Education of China, MOE）与商务部（Ministry of Commerce of China, MOFCOM）奖学金政策指南、合作院校谅解备忘录（Memorandum of Understanding, MOU）、官方国际学生统计年鉴、柬埔寨发展合作报告，以及 2017 和 2018 年在深圳举办的高教信息与通信技术（Information and Communications Technology, ICT）创新研讨班一手日程记录。 |
+> | **文本与数据分析**<br>[[Documentary Analysis\|文档与机构数据分析]] | 梳理[[Ministry of Education of the People's Republic of China\|中国教育部]]（Ministry of Education of China, MOE）与商务部（Ministry of Commerce of China, MOFCOM）奖学金政策指南、合作院校谅解备忘录（Memorandum of Understanding, MOU）、官方国际学生统计年鉴、柬埔寨发展合作报告，以及 2017 和 2018 年在深圳举办的高教信息与通信技术（Information and Communications Technology, ICT）创新研讨班一手日程记录。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -121,7 +121,7 @@ updated: 2026-10-23
 > [!ref-table]- 表1：中柬高等教育项目40位受访者基本信息
 > | 编号 | 所在机构 | 所在地点 | 参与年份 | 学科专业／职务 | 资助渠道／群体类别 |
 > |---|---|---|---|---|---|
-> | **I 1** | 北京大学 | 北京 | 2016–2017 | 公共管理（公共政策） | 商务部援外奖学金（留学生） |
+> | **I 1** | 北京大学 | 北京 | 2016–2017 | 公共管理（公共政策） | [[MOFCOM Scholarship\|商务部援外奖学金]]（留学生） |
 > | **I 2** | 清华大学 | 北京 | 2016–2018 | 公共管理（发展治理） | 商务部援外奖学金（留学生） |
 > | **I 3** | 浙江大学 | 杭州 | 2019–2023 | 城乡规划学 | 中国政府全额奖学金（留学生） |
 > | **I 4** | 浙江大学 | 杭州 | 2019–2023 | 土木工程 | 中国政府全额奖学金（留学生） |

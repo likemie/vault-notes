@@ -52,13 +52,13 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国政治学者、教育科研管理高官。曾任美国教育部[[Institute of Education Sciences\|美国教育科学院]]（Institute of Education Sciences, [[Institute of Education Sciences\|IES]]）第四任院长（2018–2024）、美国国家教育统计中心（National Center for Education Statistics, NCES）专员（2005–2008）、美国研究学会（American Institutes for Research, [[AIR Model of Epistemic Cognition\|AIR]]）副总裁兼杰出研究员。
+> - **身份位置** 美国政治学者、教育科研管理高官。曾任[[United States Department of Education|美国教育部]][[Institute of Education Sciences\|美国教育科学院]]（Institute of Education Sciences, [[Institute of Education Sciences\|IES]]）第四任院长（2018–2024）、美国国家教育统计中心（National Center for [[EdStats|Education Statistics]], NCES）专员（2005–2008）、美国研究学会（American Institutes for Research, [[AIR Model of Epistemic Cognition\|AIR]]）副总裁兼杰出研究员。
 > - **核心角色** 主持管理全美规模最大的联邦官方教育科研竞争性资助体系（年专属投资约 1.5 亿美元），主导制定并全面推行教育研究卓越标准（Standards for Excellence in Education Research, SEER），推动美国教育科研[[Paradigm\|范式]]从单纯追求[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials, [[Randomised Controlled Trials\|RCT]]）的[[Internal Validity\|内部效度]]，拓展为兼顾干预构件明晰化、[[Implementation Fidelity\|实施保真度]]与反差、成本收益核算、通用工具测量、敏捷复现与社会公平的多维科学卓越架构。
 > - **代表贡献** 创立并制度化推进教育研究卓越标准（SEER 九大原则），系统解决干预黑箱（药丸袋隐喻）、测量工具过度匹配（Over-alignment）导致的[[Effect Size\|效应量]]虚高，以及推广规模化瓶颈。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 206–209)]]
 

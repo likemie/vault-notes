@@ -13,7 +13,7 @@ fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: Nuffield Foundation and Wellcome Trust
+issuing_organization: "Nuffield Foundation and [[Wellcome Trust]]"
 tags:
   - region/uk
   - policy/curriculum-reform
@@ -35,13 +35,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1998 年由英国纳菲尔德基金会（Nuffield Foundation）与威康信托基金会（Wellcome Trust）资助发布，由科学教育学者 Robin Millar 与 Jonathan Osborne 主笔。
+> - **发布时间 / 发布主体** 1998 年由英国纳菲尔德基金会（Nuffield Foundation）与威康信托基金会（[[Wellcome Trust]]）资助发布，由科学教育学者 Robin Millar 与 Jonathan Osborne 主笔。
 > - **适用地区 / 对象** 英国中学科学教育体系及国际科学课程设计者。
 > - **问题背景** 1980 年代末英国推行国家统一科学课程后，中学科学教学仍深陷于为极少数未来科学家准备的高度专门化、事实灌输型传统大纲中，未能满足绝大多数作为未来公民和消费者的学生的现实需求。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 30–31)]]
 > - **制度位置** 现代科学教育从“预备科学家精英模式”向“全民[[Scientific Literacy\|科学素养]]模式”转型的关键理论与政策枢纽。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 31)]]

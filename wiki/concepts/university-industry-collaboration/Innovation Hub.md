@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -214,5 +214,5 @@ updated: 2026-10-22
 > - [[Argument_Byrne_2025_InnovationCenters|Byrne and Clements (2025)]] — 结合 [[TUFF]] 实践阐明创新中心核心信条，剖析 [[Research Triangle Park|RTP]]、[[Tech Square at Georgia Tech|Tech Square]] 与[[Purdue Discovery Park|普渡发现园]]的成功机制，提出“密度就是命运”[[Paradigm|范式]]。
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 深度剖析基于地点的创新中心治理架构，分析大企业、高校与政府在创新中心中的差异化价值主张与契约设计。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析现代半导体创新体系中大学如何依托 [[Albany NanoTech Complex|Albany NanoTech]] 与 MIT.nano 打造中试物理共置枢纽，跨越 [[Technology Readiness Level|TRL]] 4–6 转化断层。
-> - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述《[[CHIPS and Science Act|芯片与科学法案]]》下 [[National Science and Technology Council|NSTC]] 分布式专业化中试技术中心与 DoD 微电子公地 8 大区域创新枢纽（Innovation Hubs）的协同转化网络。
+> - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐述《[[CHIPS and Science Act|芯片与科学法案]]》下 [[National Science and Technology Council|NSTC]] 分布式专业化中试技术中心与 [[Department of Defense|DoD]] 微电子公地 8 大区域创新枢纽（Innovation Hubs）的协同转化网络。
 

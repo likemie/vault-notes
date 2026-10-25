@@ -15,7 +15,7 @@ fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
-issuing_organization: Cabinet Office, Government Commercial Function
+issuing_organization: "[[Cabinet Office]], Government Commercial Function"
 tags:
   - region/uk
   - theme/public-engagement
@@ -38,13 +38,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间与发布主体** 由英国政府商业职能部（Government Commercial Function, GCF）与内阁办公室（Cabinet Office）于 2020 年以采购政策说明（Procurement Policy Note, PPN 06/20）形式首次发布，并于 2025 年通过《国家政府采购政策声明》（National Procurement Policy Statement）与《社会价值模型指南》（PPN 002 Guide）进行法定更新深化。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 69)]]
+> - **发布时间与发布主体** 由英国政府商业职能部（Government Commercial Function, GCF）与内阁办公室（[[Cabinet Office]]）于 2020 年以采购政策说明（Procurement Policy Note, PPN 06/20）形式首次发布，并于 2025 年通过《国家政府采购政策声明》（National Procurement Policy Statement）与《社会价值模型指南》（PPN 002 Guide）进行法定更新深化。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 69)]]
 > - **适用地区与对象** 适用于英格兰所有中央政府部门、执行机构及其下属非部门公共机构（Arm's-Length Bodies）的所有重大政府采购招标项目，面向参与竞标公共合同的各类商业企业与产业供应商。
 > - **问题背景** 传统政府采购过度聚焦竞标报价与财务成本最低化，导致国家巨额财政采购未能有效赋能社会公平、技能培训与区域平衡发展；政策旨在运用公共采购的庞大市场购买力，撬动企业承担实质性社会与环境责任。
 > - **制度位置** 政策基于英国《2012年公共服务（社会价值）法案》（Public Services (Social Value) Act 2012），将法案中的“软性考量”升级为具有明确量化指标与评分门槛的硬性采购准则。
@@ -69,7 +69,7 @@ updated: 2026-10-22
 
 > [!pathways] 实施路径与公共科学参与创新
 > - **从商业交付向全人技能赋能拓展** 竞标企业将 10% 的社会价值承诺转化为提供高质量青年[[Apprenticeship|学徒制]]岗位、支持中小学教师产业见习，以及为边缘工薪社区提供数字化与科学探究体验。
-> - **采购杠杆激活非正式科学基建生态** 政策有力打破了传统科技企业与校外科普场馆之间的壁垒；英国皇家学会明确建议，中央政府应将科普外展（Science Outreach）全面纳为展示社会价值的合规选项，引导企业通过定向采购注入资金，支撑面临财政生存危机的在地科技场馆。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 48)]]
+> - **采购杠杆激活非正式科学基建生态** 政策有力打破了传统科技企业与校外科普场馆之间的壁垒；[[Royal Society|英国皇家学会]]明确建议，中央政府应将科普外展（Science Outreach）全面纳为展示社会价值的合规选项，引导企业通过定向采购注入资金，支撑面临财政生存危机的在地科技场馆。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 48)]]
 
 ---
 

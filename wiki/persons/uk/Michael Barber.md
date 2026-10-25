@@ -69,13 +69,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国著名教育政策顾问、政府治理专家与跨国商业咨询领袖。曾任英国教育与就业部（Department for Education and Employment, DfEE）学校标准与效能组（Standards and Effectiveness Unit, SEU）首席顾问（1997–2001）、托尼·布莱尔（Tony Blair）内阁首相交付组（Prime Minister's Delivery Unit, PDU）首任负责人（2001–2005）、麦肯锡公司（McKinsey & Company）全球教育业务主管兼合伙人（2005–2011）、培生集团（Pearson）首席教育顾问（2011–2017）及英国学生办公室（Office for Students, OfS）创会主席（2017–2021）。
+> - **身份位置** 英国著名教育政策顾问、政府治理专家与跨国商业咨询领袖。曾任英国教育与就业部（[[Department for Education]] and Employment, DfEE）学校标准与效能组（Standards and Effectiveness Unit, SEU）首席顾问（1997–2001）、托尼·布莱尔（Tony Blair）内阁首相交付组（Prime Minister's Delivery Unit, PDU）首任负责人（2001–2005）、麦肯锡公司（McKinsey & Company）全球教育业务主管兼合伙人（2005–2011）、培生集团（Pearson）首席教育顾问（2011–2017）及英国学生办公室（Office for Students, OfS）创会主席（2017–2021）。
 > - **核心角色** 绩效治理技术“交付学”（Deliverology）体系的奠基人，跨国教育商业咨询网络的核心枢纽。在全球范围内推动基于量化绩效目标、因果实证基准与跨界政策交付的公共部门及教育系统改革；其咨询理念深刻影响了英国保守党与自民党联合政府创设[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）的顶层白皮书制度规划。
 > - **代表贡献** 创立“交付学”政府运作与执行监控体系；领衔撰写具有全球政策风向标意义的 2007 年麦肯锡教育报告《顶尖学校体系如何脱颖而出》（*How the World's Best-Performing School Systems Come Out on Top*）；深度参与推动英国[[The Importance of Teaching\|《教学的重要性》]]白皮书规划并催生国家级证据中介 EEF（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 
@@ -105,7 +105,7 @@ updated: 2026-10-22
 > - **2005–2011 — 麦肯锡跨国标杆比较与系统重构阶段** 依托跨国商业咨询网络，系统考察全球高绩效与快速[[Progressive Education\|进步教育]]体系，提炼学校系统改革的普适性因果规律。
 >   - **代表著作** *How the World's Best-Performing School Systems Come Out on Top* (McKinsey & Company, 2007)；*How the World's Most Improved School Systems Keep Getting Better* (McKinsey & Company, 2010)。
 >   - **关键概念／方法** [[School Effectiveness]]、[[Evidence-Based Education]]、教师专业质量基准。
->   - **阶段转向** 从单一主权国家的政府交付机制，扩展至跨国教育[[Policy Borrowing\|政策借用]]与因果实证框架输出，其理念直接形塑了英美澳等国关于教师资质与国家[[Educational Brokerage Agency\|证据中介机构]]（如 [[Education Endowment Foundation\|EEF]]）的政策想象（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）。
+>   - **阶段转向** 从单一主权国家的政府交付机制，扩展至跨国教育[[Policy Borrowing\|政策借用]]与因果实证框架输出，其理念直接形塑了英美澳等国关于[[Teacher Qualifications|教师资质]]与国家[[Educational Brokerage Agency\|证据中介机构]]（如 [[Education Endowment Foundation\|EEF]]）的政策想象（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）。
 > - **2011–至今 — 跨国教育商业化与混合型政策创业阶段** 深度介入跨国教育商业巨头培生集团与英国[[Higher Education Act of 1965|高等教育法]]定监管，将量化问责与成果导向推向全球教育服务市场与低收入国家办学网络。
 >   - **代表著作** *The Learning Curve* (Pearson / EIU, 2012, 2014)；*How to Run a Government: So that Citizens Benefit and Taxpayers Don't Go Crazy* (2015)。
 >   - **关键概念／方法** [[Policy Entrepreneur]]、[[Network Governance]]、[[Educational Brokerage Agency]]、[[Social Impact Investing]]。
@@ -135,7 +135,7 @@ updated: 2026-10-22
 > [!influence-path] 影响路径
 > - **理论与[[Discourse|话语]]路径** 将“交付学”确立为跨国公共管理与[[New Public Management\|新公共管理]]（New Public Management, NPM）晚期的显学话语，使“指标追踪”、“例行审议（Stocktakes）”与“交付机构（Delivery Units）”成为数十个主权国家与[[World Bank\|世界银行]]、[[OECD\|经合组织]]等国际组织的通用治理词汇。
 > - **政策与组织路径** 领导英国首相交付组与学校标准与效能组，彻底将目标设定与表格化绩效审计制度化；其麦肯锡报告的政策建议直接被英国教育大臣[[Michael Gove\|戈夫]]采纳并写入 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]，奠定了以 1.25 亿英镑政府资金创设英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）的政策法理基石（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
-> - **跨国与跨界商业化路径** 从英国白厅内阁流转至麦肯锡战略咨询，再流动至跨国教育出版寡头培生集团，巴伯开创了教育专家跨越政、商、学三界的高级“旋转门”轨迹。在 Gephi 网络拓扑分析中，巴伯处于连接英国国际发展部（Department for International Development, DfID）、英国财政部（HM Treasury）、世界经济论坛（World Economic Forum, WEF）、全球商业战略咨询与跨国教育资本（Pearson）的核心跨界[[Policy Network|政策网络]]枢纽（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 81–82]]），深刻推动了跨国商业咨询网络与教育跨国寡头对主权国家公共教育改革的深度介入与议程统摄。
+> - **跨国与跨界商业化路径** 从英国白厅内阁流转至麦肯锡战略咨询，再流动至跨国教育出版寡头培生集团，巴伯开创了教育专家跨越政、商、学三界的高级“旋转门”轨迹。在 Gephi 网络拓扑分析中，巴伯处于连接英国国际发展部（Department for International Development, DfID）、[[HM Treasury|英国财政部]]（HM Treasury）、世界经济论坛（World Economic Forum, WEF）、全球商业战略咨询与跨国教育资本（Pearson）的核心跨界[[Policy Network|政策网络]]枢纽（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 81–82]]），深刻推动了跨国商业咨询网络与教育跨国寡头对主权国家公共教育改革的深度介入与议程统摄。
 
 ---
 

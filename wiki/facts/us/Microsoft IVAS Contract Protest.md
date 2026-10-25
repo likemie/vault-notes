@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -53,7 +53,7 @@ updated: 2026-10-22
 > - **时间跨度 / 空间地理** 2018年11月至2019年2月；美国华盛顿州雷德蒙德微软全球总部。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 33)]]
 > - **核心当事主体** 微软抗议员工群体、微软最高管理层（首席执行官萨提亚·纳德拉与总裁布拉德·史密斯）、美国陆军装备采办部门。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 33)]]
 > - **深层制度与社会背景** 硅谷科技巨头长期沉浸于全球化消费级商业软件与广告推荐算法的超额利润，年轻工程师群体普遍将西方宪政秩序与和平环境视为无需付出的自然背景，对国家武装防务与[[Geopolitics|地缘政治]]强制力缺乏战略认同。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 33–34)]]
-> - **直接导火索 / 触发事件** 2018年11月，美国陆军授予微软一项高达4.8亿美元的防务合同，采购由其增强现实（Augmented Reality, AR）头显全息透镜（HoloLens）改装的作战辅助装备。
+> - **直接导火索 / 触发事件** 2018年11月，美国陆军授予微软一项高达4.8亿美元的防务合同，采购由其[[Augmented Reality|增强现实]]（Augmented Reality, AR）头显全息透镜（HoloLens）改装的作战辅助装备。
 
 ---
 
@@ -81,7 +81,7 @@ updated: 2026-10-22
 
 > [!indicators] 历史影响维度
 > - **防务与商业科技关系的重估** 表明硅谷大型消费科技平台内部存在深刻的政治文化分歧，单纯依赖传统科技巨头难以建立稳固敏捷的国家防务软件基础设施。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 33–35)]]
-> - **催生专门化国防科技生态** 促使五角大楼将目光转向使命导向明确的防务科技公司，加速了国防软件采办机制的多元化与重构。
+> - **催生专门化国防科技生态** 促使[[Department of Defense|五角大楼]]将目光转向使命导向明确的防务科技公司，加速了国防软件采办机制的多元化与重构。
 > - **解构[[Techno-Utopianism|技术乌托邦]]假象** 揭示出将商业繁荣与地缘安全割裂开来的认知局限，确立了21世纪软硬件融合的[[Hard Power|硬实力]]必须依赖科技界与国家间深度契约的现实逻辑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 34–36)]]
 
 ---

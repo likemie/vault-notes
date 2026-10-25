@@ -116,7 +116,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -253,7 +253,7 @@ updated: 2026-10-22
 > **旗舰研究型大学排他性联盟与跨国[[Knowledge Power|知识权力]]投射** 周与德米尔约尔（[[Argument_Chou_Demiryol_2024_HE|Chou & Demiryol, 2024]]）指出，在“一带一路”跨国大学联盟实践中，[[Asian Universities Alliance|亚洲大学联盟]]（AUA）严格限定为 13 个国家和地区的 15 所顶尖旗舰研究型大学；区别于开放包容的大众化院校网络，旗舰研究型大学联盟通过设立高额竞争性联合研究计划（单项资助达 13.5 万美元）与校长理事会闭门治理，集中构建起精英化科研协作网络。这证实国家不仅将研究型大学用于国内攻关，更将其打造为在全球与区域学术网络中占据中心节点、主导多边议程设置与动员知识权力的战略排头兵。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1702)]]
 
 > [!claim] [[Argument_Velasco_2022_CSJ|Velasco, J. C. (2022)]]
-> **大学外交使命赋权、“双一流”科研声誉提升与境外办学延伸** Velasco 考察中国高等教育国际化指出，中国高水平大学的发展深受国家战略驱动：国家将研究型大学定位为总体外交与软实力建设的有机支柱。通过“双一流”倡议的大规模财政投入（高等教育经费由 2012 年 1.01 万亿元增至 2018 年 1.40 万亿元），大学自然科学发文量在 2018 年超越美国（2020 年达 195 万篇），带动研究型大学全球学术声誉显著增长。依托科研声望与国家战略赋权，高水平大学直接承接海上丝绸之路涉外办学任务，在马来西亚与老挝建立实体分校，形成集科学研究、跨国人才培养与区域公共外交于一体的对外投射阵地。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 79–85)]]
+> **大学外交使命赋权、“[[Double First-Class Initiative|双一流]]”科研声誉提升与[[International Branch Campus|境外办学]]延伸** Velasco 考察中国[[Internationalization of Higher Education|高等教育国际化]]指出，中国高水平大学的发展深受国家战略驱动：国家将研究型大学定位为总体外交与软实力建设的有机支柱。通过“双一流”倡议的大规模财政投入（高等教育经费由 2012 年 1.01 万亿元增至 2018 年 1.40 万亿元），大学自然科学发文量在 2018 年超越美国（2020 年达 195 万篇），带动研究型大学全球学术声誉显著增长。依托科研声望与国家战略赋权，高水平大学直接承接海上丝绸之路涉外办学任务，在马来西亚与老挝建立实体分校，形成集科学研究、跨国人才培养与区域[[Public Diplomacy|公共外交]]于一体的对外投射阵地。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 79–85)]]
 
 ---
 
@@ -279,7 +279,7 @@ updated: 2026-10-22
 > - **1980s–2000s — [[Developmental Network State|发展型网络国家]]中的去中心化协同与虚构商品化矛盾** 随着大[[Corporate R&D Labs|企业中央实验室]]收缩，研究型大学摆脱布什时期的纯基础象牙塔定位，被《拜杜法案》、[[Engineering Research Centers|工程研究中心]]（ERC）与 [[MOSIS]] 拼版平台深度嵌入跨部门公私协同网络；到 2006 年全美顶尖商业化创新成果（R&D 100）中近九成直接依赖大学与公共资金协同；但激进的独家专利许可亦引发波兰尼式的虚构商品化壁垒与协作梗阻。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–178, 186–189, 196–198)]]
 > - **1980s–1990s — 欧洲双轨制分流与去中心化治理范式突围** 欧洲大陆打破国家科层微观干预传统；面对财政削减与学生规模扩张，荷兰研究型大学自组织协商完成 2.57 亿荷盾预算削减方案，推动国家出台《[[Higher Education Autonomy and Quality|高等教育：自主与质量]]》（HOAK）白皮书，确立以一揽子[[Block Grants|总额预算]]拨款与事后质量评估为核心的“间接[[Steering at a Distance|远距离操纵]]”治理范式。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 138, 144–146, 149–150)]]
 > - **2010–2024 — 国家战略产业再动员与组织重塑** 一方面面临学科资助极化、[[Congressional Earmarks|国会专项拨款]]政治分肥、[[Academic Risk Aversion|学术避险主义]]与[[Research Security|科研安全]]合规强化；另一方面，面对大国科技竞争，《[[CHIPS and Science Act|芯片与科学法案]]》通过圈定二十项前沿技术、设立 NSF 转化新部门与扩招研究生奖学金，将研究型大学推向战略产业竞争最前沿。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]; [[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 1–6)]]
-> - **2022 — 发展型国家高教声誉提升与境外办学延伸** [[Argument_Velasco_2022_CSJ|Velasco (2022)]] 考察“双一流”建设与海上丝绸之路办学，阐明大学科研产出超越美国（2020 年达 195 万篇）对提升国家学术声誉的作用，以及依托实体境外分校承接国家对外教育外交的制度路径。
+> - **2022 — 发展型国家高教声誉提升与境外办学延伸** [[Argument_Velasco_2022_CSJ|Velasco (2022)]] 考察“双一流”建设与海上丝绸之路办学，阐明大学科研产出超越美国（2020 年达 195 万篇）对提升国家学术声誉的作用，以及依托实体境外分校承接国家对外[[Educational Diplomacy|教育外交]]的制度路径。
 > - **2023 — 发展型国家海外战略科技整编** [[Argument_Woo_2023_HEP|Woo (2023)]] 揭示新兴大国通过自上而下顶层动员，将教育部直属顶尖研究型大学直接整编为服务“[[Belt and Road Initiative|一带一路]]”战略走廊的高精尖技术研发、跨国联合实验室与国别智库服务体系，展现出非西方发展型国家的大学功能扩展。
 > - **2024 — 跨国多边旗舰网络与[[Knowledge Power|知识权力]]动员** [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] 实证揭示由 15 所亚洲旗舰研究型大学组成的精简排他性联盟（[[Asian Universities Alliance|AUA]]）如何通过高额联合研究基金与闭门治理，在区域[[Epistemic Governance|知识治理]]中发挥精英外交与知识权力投射功能。
 > - **2025–2026 — [[Gold Standard Science|黄金标准科学]]、[[Metascience|元科学]]改革与国家技术型契约** 白宫颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》与《[[Science A New Golden Age 2026|科学：新的黄金时代]]》战略报告，针对大学行政官僚膨胀、间接成本过高及[[Reproducibility Crisis|可重复性危机]]推行严厉治理；并通过[[Genesis Mission|创世纪计划]]推动大学与国家实验室及产业界形成新型协同网络。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1061–1063)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 8, 15, 52–54, 61–63)]]

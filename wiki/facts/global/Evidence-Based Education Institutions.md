@@ -64,7 +64,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-10-20
+updated: 2026-10-26
 ---
 
 ---
@@ -87,7 +87,7 @@ updated: 2026-10-20
 >
 > - **第二代（2000 年代）：政府主导的清算中心与政策工具**
 >
->   美国政府通过立法将证据与联邦拨款挂钩，[[What Works Clearinghouse]]（2002 年）在教育部旗下成立。英国政府在儿童、学校与家庭部（Department for Children, Schools and Families，DCSF）下推出 [[Research Informed Practice Site]]，经济与社会研究理事会（Economic and Social Research Council，ESRC）建立循证政策中心。这一阶段的特征是政府直接出资和运营，证据被视为政策制定的基础设施（pp.330–335）。
+>   美国政府通过立法将证据与联邦拨款挂钩，[[What Works Clearinghouse]]（2002 年）在教育部旗下成立。英国政府在儿童、学校与家庭部（Department for Children, Schools and Families，DCSF）下推出 [[Research Informed Practice Site]]，[[Economic and Social Research Council|经济与社会研究理事会]]（Economic and Social Research Council，ESRC）建立循证政策中心。这一阶段的特征是政府直接出资和运营，证据被视为政策制定的基础设施（pp.330–335）。
 >
 > - **第三代（2010 年代）：独立资助与教师草根的并行发展**
 >
@@ -95,7 +95,7 @@ updated: 2026-10-20
 >
 > - **第四代（2020 年代）：国际扩散与制度重组**
 >
->   澳大利亚、瑞典、荷兰等国建立本土化清算中心。英国的 ESRC 并入国家科研与创新署（UK Research and Innovation，UKRI），DCSF 改组为教育部（Department for Education，DfE），部分早期机构（[[Evidence Network]]、[[Research Informed Practice Site]]）随行政改革消失。美国 [[What Works Clearinghouse]] 于 2025 年 2 月因联邦合同取消停止新审阅。这一阶段的特征是国际扩散与早期机构的新陈代谢并存。
+>   澳大利亚、瑞典、荷兰等国建立本土化清算中心。英国的 ESRC 并入国家科研与创新署（[[UK Research and Innovation]]，UKRI），DCSF 改组为教育部（[[Department for Education]]，DfE），部分早期机构（[[Evidence Network]]、[[Research Informed Practice Site]]）随行政改革消失。美国 [[What Works Clearinghouse]] 于 2025 年 2 月因联邦合同取消停止新审阅。这一阶段的特征是国际扩散与早期机构的新陈代谢并存。
 
 
 ## 证据清算中心
@@ -112,7 +112,7 @@ updated: 2026-10-20
 > | [丹麦教育研究信息中心](https://edu.au.dk/) [[Danish Clearinghouse for Educational Research]] | 丹麦教育研究系统综述与证据汇总机构 |
 > | [加州儿童社会福利证据信息中心](https://www.cebc4cw.org/) [[California Evidence Based Clearinghouse for Child Social and Economic Welfare]] | 美国加州儿童社会福利领域的证据评级机构 |
 > | [军人家庭准备度证据连续体](https://militaryfamilies.psu.edu/) [[Clearinghouse for Military Family Readiness Continuum of Evidence]] | 宾州州立大学维护的军人家庭项目证据评级系统 |
-> | [家访有效性证据](https://homvee.acf.hhs.gov/) [[Home Visiting Evidence of Effectiveness]] | 美国卫生与公众服务部维护的家访项目证据审查平台 |
+> | [家访有效性证据](https://homvee.acf.hhs.gov/) [[Home Visiting Evidence of Effectiveness]] | 美国卫生与公众服务部维护的[[Home Visiting Programs\|家访项目]]证据审查平台 |
 
 ---
 

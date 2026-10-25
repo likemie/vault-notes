@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -64,7 +64,7 @@ updated: 2026-10-22
 > **Tutor-Assisted Math [[Problem Solving]]（助教辅助数学问题解决，简称 TAMPS）** 是由范德堡大学（Vanderbilt University）林恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）等知名特殊教育学者研发的小学三年级数学文字应用题 Tier 3 个别化干预方案；其核心目标是针对三年级在文字题理解与逻辑推理上面临严重障碍的高危儿童，由受训教学助教开展高度结构化的一对一认知基模策略辅导，阻断学困儿童在初等数学高阶认知任务上的学业失败。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
-> - **立项时间与周期** 研发始于 2000 年代中后期，受美国联邦教育部国家[[Institute of Education Sciences\|教育科学研究院]]（IES）重大[[Intervention Research\|干预研究]]资助，经多项随机试验检验后，其核心基模教学模式衍生并融入后续 [[Pirate Math]] 等方案。
+> - **立项时间与周期** 研发始于 2000 年代中后期，受[[United States Department of Education|美国联邦教育部]]国家[[Institute of Education Sciences\|教育科学研究院]]（IES）重大[[Intervention Research\|干预研究]]资助，经多项随机试验检验后，其核心基模教学模式衍生并融入后续 [[Pirate Math]] 等方案。
 > - **发起方与资助机制** 范德堡大学特殊教育系牵头研发，美国联邦教育科学研究院（IES）提供大样本随机对照评估专项资金支持。
 > - **覆盖范围与对象** 公立小学三年级经标准化数学评估筛选出的文字应用题与问题解决后 20% 的高危学困儿童。
 > - **核心问题导向** 攻克小学三年级学生面对文字应用题时常见的“认知超载”与“盲目抓数字相加减”顽疾，检验普通非专业教学助教是否具备足够教学效能来指导学生掌握复杂的深层认知表征转换。

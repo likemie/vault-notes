@@ -49,7 +49,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-26
 ---
 
 ---
@@ -86,7 +86,7 @@ updated: 2026-10-16
 ---
 
 > [!actor-grid] 实施主体与机制
-> - **发布主体** 澳大利亚联邦政府教育部、以马克·斯科特（Mark Scott）为主席的教师教育专家小组。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 3]])
+> - **发布主体** 澳大利亚联邦政府教育部、以马克·[[James C. Scott|斯科特]]（Mark Scott）为主席的教师教育专家小组。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 3]])
 > - **执行主体**[[Australian Institute for Teaching and School Leadership\|澳大利亚教学与学校领导力协会]] (AITSL) 负责标准添加；大学等 [[Initial Teacher Training\|ITE]] 提供商负责具体的教学内容实施与对齐。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6]])
 > - **监管主体** 通过设立独立的初始教师教育质量保证委员会（ITE Quality Assurance Board）对大学课程改造和标准合规度实施直接审查。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **政策工具** 法定认证附表（四大核心：大脑与学习、[[Effective Teaching\|有效教学]]实践、[[Classroom Management\|课堂管理]]、回应性教学）、绩效准入评估与惩罚性绩效资金。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 5–6, p. 11]])

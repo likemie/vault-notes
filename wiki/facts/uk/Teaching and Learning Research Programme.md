@@ -53,13 +53,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 英国教与学研究计划（Teaching and Learning Research Programme, TLRP）是英国历史上规模最大的跨部门教育研发工程（2000–2011），由经济与社会研究委员会（Economic and Social Research Council, ESRC）统筹主导、联合多方出资设立，旨在通过多主体平等协作提升教育实证研究质量，重塑研究成果向政策与课堂教学转化的全系统机制。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 20–21)]]
+> 英国教与学研究计划（Teaching and Learning Research Programme, TLRP）是英国历史上规模最大的跨部门教育研发工程（2000–2011），由经济与社会研究委员会（[[Economic and Social Research Council]], ESRC）统筹主导、联合多方出资设立，旨在通过多主体平等协作提升教育实证研究质量，重塑研究成果向政策与课堂教学转化的全系统机制。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 20–21)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2000 年启动，2011 年完成终期结项，历时 11 年。

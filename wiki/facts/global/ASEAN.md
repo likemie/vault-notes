@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -89,15 +89,15 @@ updated: 2026-10-22
 >   - **1997–1999** 老挝、缅甸与柬埔寨相继加入，完成东盟十国一体化版图。
 >   - **2007** 签署《东盟宪章》，确立东盟法人地位与宪制治理架构。
 >
-> - **2010–至今** **共同体建成与地缘教育外交枢纽**
+> - **2010–至今** **共同体建成与地缘[[Educational Diplomacy|教育外交]]枢纽**
 >
 >   成为中国第一大贸易伙伴及“[[Belt and Road Initiative|一带一路]]”教育走廊的关键枢纽，深度融入大国高等教育地缘合作与人才培养网络。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 2, 10, 17)]]
 >
 >   - **2010** 首届中国—东盟教育部长圆桌会议通过《贵阳宣言》，正式启动“中国—东盟双十万[[Student Mobility|学生流动]]计划”。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
->   - **2013–2021** 中国高水平大学在东盟多点布局实体办学（如厦门大学马来西亚分校、老挝苏州大学）与 31 所孔子学院合作网络，推动高教双向深度对接。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
+>   - **2013–2021** 中国高水平大学在东盟多点布局实体办学（如[[Xiamen University Malaysia|厦门大学马来西亚分校]]、老挝苏州大学）与 31 所[[Confucius Institute|孔子学院]]合作网络，推动高教双向深度对接。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
 >   - **2015** 正式宣布建成以政治安全、经济、社会文化为支柱的“东盟共同体”。
 >   - **2018** 在华留学的东盟学生规模攀升至 98,823 人，占中国国际学生总数的 20.08%。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
->   - **2022–2024** 成立中国—东盟职业教育联合会（汇聚中外 175 家院校机构与企业），推进“双百计划”，并在广西部区协同机制下立项建设约 10 个中国—东盟技术创新学院与现代工匠学院集群，构建全周期跨国产教协同载体。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 294, 299)]]
+>   - **2022–2024** 成立[[China-ASEAN Federation for Vocational Education|中国—东盟职业教育联合会]]（汇聚中外 175 家院校机构与企业），推进“双百计划”，并在广西部区协同机制下立项建设约 10 个中国—东盟技术创新学院与[[Chinese-ASEAN Modern Craftsmanship Institute|现代工匠学院]]集群，构建全周期跨国产教协同载体。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 294, 299)]]
 
 ---
 
@@ -117,7 +117,7 @@ updated: 2026-10-22
 > [!finding-cards] 核心产品与业务矩阵
 > - **东盟教育五年工作计划** 编制实施《东盟教育工作计划》（ASEAN Work Plan on Education），系统规划全域[[Lifelong Learning|终身学习]]、数字教育转型与[[Internationalization of Higher Education|高等教育国际化]]指标。
 > - **高等教育质量保障体系（AUN-QA）** 东盟大学网络开发并推行的机构与专业双层评估标准，成为东南亚各国高校质量认证与学分互认的通用基准。
-> - **中国—东盟教育交流周与合作计划** 与中国教育部及省际政府联合推进“中国—东盟教育交流周”、“双十万[[Student Mobility|学生流动]]计划”与多边联合办学项目。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
+> - **[[China-ASEAN Education Cooperation Week|中国—东盟教育交流周]]与合作计划** 与[[Ministry of Education of the People's Republic of China|中国教育部]]及省际政府联合推进“中国—东盟教育交流周”、“双十万[[Student Mobility|学生流动]]计划”与多边联合办学项目。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
 > - **东盟互联互通总体规划（MPAC）** 推动实体基础设施、制度规制以及包括高等教育人员往来在内的[[People-to-People Connectivity|人文互联互通]]（People-to-People Connectivity）。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 10)]]
 
 > [!citation-card] 《曼谷宣言》教育与学术合作宗旨
@@ -136,7 +136,7 @@ updated: 2026-10-22
 > - **地缘教育走廊重构** 东盟国家由传统依赖欧美前宗主国留学体系，逐步转向依托中国政府奖学金及联合办学项目的多维教育互联网络。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 9, 10)]]
 > - **本土[[Human Capital Theory|人力资本]]支撑** 紧密衔接“[[Belt and Road Initiative|一带一路]]”倡议基础设施建设项目（如铁路、深水港、工业园区），为东盟发展中国家培养工程、物流与经贸专门技术人才。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 11, 12)]]
 > - **[[Educational Diplomacy|教育外交]]三大支柱成型** 中国在东盟区域逐步确立了依托留学生定向招募、境外独立分校与联合办学、以及深度嵌入大学建制的[[Confucius Institute|孔子学院]]网络三大实践支柱，拓展了多层次人文纽带。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 83–85)]]
-> - **跨区域职业教育协同与产能对接** 在双边贸易突破 6.41 万亿元人民币背景下，双方依托《中国—东盟战略伙伴关系2030年愿景》推进[[China-ASEAN Education Cooperation Week|中国—东盟教育交流周]]与[[Internationalization of Vocational Education|职业教育高水平开放合作]]，逐步从单一学校协议走向涵盖全产业链的线面平台与产教生态圈，协同培育新质技能人才。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 291, 298–301)]]
+> - **跨区域职业教育协同与产能对接** 在双边贸易突破 6.41 万亿元人民币背景下，双方依托《中国—东盟战略伙伴关系2030年愿景》推进[[China-ASEAN Education Cooperation Week|中国—东盟教育交流周]]与职业教育高水平开放合作，逐步从单一学校协议走向涵盖全产业链的线面平台与产教生态圈，协同培育新质技能人才。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 291, 298–301)]]
 
 > [!stat-cards]- 核心规模数据
 > - **10** （个） 东南亚国家联盟正式成员国总数。
@@ -155,11 +155,11 @@ updated: 2026-10-22
 > > - **批评视角（反方）** 学术界指出，外部大国对东盟欠发达成员国（如柬埔寨）的高等教育资助与办学扩张，可能形成新型的地缘学术依附与语言文化工具化倾向。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 7)]]
 > > - **组织立场（正方）** 东盟主张恪守“东盟中心地位”，强调多边平衡与[[South-South Cooperation|南南合作]]互利共赢原则，利用大国教育资源弥补本土高等教育基底脆弱性。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 2, 7)]]
 >
-> > [!axis] 教育外交软实力投射 vs 地缘领土主权安全焦虑
+> > [!axis] 教育外交[[Soft Power|软实力]]投射 vs 地缘领土主权安全焦虑
 > > 围绕外部大国在东盟高教投入带来的亲善吸引，同东南亚国家在领土争端与大国博弈中长期存在的地缘安全戒备之间的张力展开讨论。
 > >
 > > - **教育外交与民心相通论** 认为大规模留学生奖学金、境外独立校区与文化机构建设能够塑造良好的短期个人留学体验，并构建长周期的跨国精英合作网络，是夯实区域民间互信与多边合作的基础。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 83–85)]]
-> > - **[[Argument_Velasco_2022_CSJ|Velasco (2022, pp. 85–86)]]** 揭示教育软实力投射在东盟面临的结构性转化阻滞：受制于南海领土主权争端引发的持续性安全戒备，以及对外部大国不对称经济影响力的深层疑虑，教育交流带来的好感度难以自发转化为普遍的高阶政治互信，呈现出教育软实力的[[Power Conversion Dilemma|权力转化困境]]。
+> > - **[[Argument_Velasco_2022_CSJ|Velasco (2022, pp. 85–86)]]** 揭示[[Educational Soft Power|教育软实力]]投射在东盟面临的结构性转化阻滞：受制于南海领土主权争端引发的持续性安全戒备，以及对外部大国不对称经济影响力的深层疑虑，教育交流带来的好感度难以自发转化为普遍的高阶政治互信，呈现出教育软实力的[[Power Conversion Dilemma|权力转化困境]]。
 
 > [!citation-card] 关于东盟高等教育地缘依赖的学术讨论
 > 学者指出，外部大国在东盟区域的高等教育拓展不仅关乎经济一体化，更涉及复杂的[[Geopolitics|地缘政治]]博弈与文化认同塑造，受援国高校在承接外部资源时需保持学术自主与本土文化主体性。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 7)]]

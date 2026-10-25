@@ -50,13 +50,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-20
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> **教育研究与改进办公室（Office of Educational Research and Improvement, OERI）** 是 1979 年至 2002 年间美国联邦教育部下辖的[[CORE Education|核心教育]]科研、数据统计与信息传播官方机构，统筹管理国家教育统计中心（NCES）、[[Education Resources Information Center|教育资源信息中心]]（ERIC）、区域教育实验室网络与国家研发中心，并在 2002 年资助设立[[What Works Clearinghouse|有效干预清算中心]]（WWC），其职能于 2002 年底被新设立的独立法定科研机构——[[Institute of Education Sciences|教育科学研究院]]（IES）正式取代。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–34)]]; [[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
+> **教育研究与改进办公室（Office of Educational Research and Improvement, OERI）** 是 1979 年至 2002 年间[[United States Department of Education|美国联邦教育部]]下辖的[[CORE Education|核心教育]]科研、数据统计与信息传播官方机构，统筹管理国家教育统计中心（NCES）、[[Education Resources Information Center|教育资源信息中心]]（ERIC）、区域教育实验室网络与国家研发中心，并在 2002 年资助设立[[What Works Clearinghouse|有效干预清算中心]]（WWC），其职能于 2002 年底被新设立的独立法定科研机构——[[Institute of Education Sciences|教育科学研究院]]（IES）正式取代。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–34)]]; [[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 1979 年依据美国联邦《教育部组织法》（Department of Education Organization Act of 1979, P.L. 96-88）创设，取代原有的国家教育研究所（National Institute of Education, NIE），旨在整合原本分散在各行政署的教育研究、统计与信息传播职能。
@@ -76,7 +76,7 @@ updated: 2026-10-20
 
 > [!actor-grid] 组织治理架构
 > - **行政领导核心** 由美国总统任命并经参议院确认的助理教育部长（Assistant Secretary）主持全面工作，直接对联邦教育部长负责。
-> - **统计监测分支** 统摄国家教育统计中心（National Center for Education Statistics, NCES），由统计专员（Commissioner）领导，负责全国教育数据普查与监测。
+> - **统计监测分支** 统摄国家教育统计中心（National Center for [[EdStats|Education Statistics]], NCES），由统计专员（Commissioner）领导，负责全国教育数据普查与监测。
 > - **外部咨询与监督** 依据 1994 年立法设立国家教育研究政策与优先事项委员会（NERPPB），由来自高校、学区与政策界的 15 名外部学者与专家组成，负责设定国家科研优先主题与[[External Auditor|外部审计]]。
 > - **区域转化与扩散网络** 通过 10 所区域教育实验室（RELs）和全国 [[Education Resources Information Center|ERIC]] 文献信息交流所（Clearinghouses）搭建贯通全美各州的科研成果转化与咨询网络。
 

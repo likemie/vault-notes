@@ -54,14 +54,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2013 年发起于英国伦敦，后续发展为国际性的教育会议网络。
-> - **关键主体** 英国中学教师汤姆·贝内特（[[Theory of Mind|ToM]] Bennett，发起人）、时任英国教育部学校部长尼克·吉布（Nick Gibb，政府官方背书者）([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 3]])。
+> - **关键主体** 英国中学教师汤姆·贝内特（[[Theory of Mind|ToM]] Bennett，发起人）、时任[[Department for Education|英国教育部]]学校部长尼克·吉布（Nick Gibb，政府官方背书者）([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 3]])。
 > - **制度背景** 英国教育系统长期处于“自上而下”的政策驱动与“技术-理性”（technical-rational）研究灌输语境中。一方面，教育部强力推动“[[Evidence-Based Education\|循证教育]]改革”与“黄金标准”[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials, RCT）方法论；另一方面，教师群体对证据的草根需求日益增长，呼唤摆脱纯粹被动执行者的角色([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 127]])。
 > - **触发条件** 教师群体对脑体操（Brain Gym）、[[Learning Styles|学习风格]]（Learning Styles）等缺乏证据支持的“教育时尚”（educational fads）感到厌倦，自发寻求更具科学确定性与实践相关性的教学改进依据。
 

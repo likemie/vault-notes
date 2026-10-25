@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -103,13 +103,13 @@ updated: 2026-10-22
 >
 > *International organisations exercise 'soft power by hard facts' by utilizing quantified comparative data and [[Performance Indicators]] to steer national policy agendas in the absence of coercive legal authority.*
 
-> [!citation-card] 尼曼与马滕斯论经合组织软权力的双重施展模式
-> 经合组织主要依托软权力的两种互补模式行使跨国治理：其一是‘探究模式’（inquisitive mode），通过系统性搜集统计数据、建立国际指标和实施跨国学业测评（如 PISA），客观呈现各国表现并确立其不容置疑的认知权威；其二是‘调解模式’（meditative mode），在既定数据基础上推介‘最佳实践’与政策建议，将原本高度政治化的争端转化为技术性咨询，为国内改革行动者提供强有力的合法化外部资源。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–272)]]
+> [!citation-card] 尼曼与马滕斯论[[OECD|经合组织]]软权力的双重施展模式
+> 经合组织主要依托软权力的两种互补模式行使跨国治理：其一是‘[[Inquisitive Mode of Governance|探究模式]]’（inquisitive mode），通过系统性搜集统计数据、建立国际指标和实施跨国学业测评（如 PISA），客观呈现各国表现并确立其不容置疑的[[Cognitive Authority|认知权威]]；其二是‘[[Meditative Mode of Governance|调解模式]]’（meditative mode），在既定数据基础上推介‘最佳实践’与政策建议，将原本高度政治化的争端转化为技术性咨询，为国内改革行动者提供强有力的合法化外部资源。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–272)]]
 >
 > *The OECD exercises soft power predominantly through two interlinked modes: an inquisitive mode (gathering data and defining cross-national indicators to build cognitive authority) and a meditative mode (recommending best practices and mediating policy discourses directly into domestic decision-making).*
 
 > [!citation-card] 软实力投射对经济硬实力的依附脆弱性
-> 尽管公共外交叙事充满合作共赢与[[Community of Shared Future for Mankind|人类命运共同体]]的说辞，但“[[Belt and Road Initiative|一带一路]]”实质上是一项经济硬实力推进工具。如果经济增长势头放缓，过度依赖经济诱因将导致高等教育作为软实力工具的效力与稳固性大幅下滑。选择施展国作为目的地的沿线学生，主要是被潜在的良好就业前景与政府提供的充裕奖学金所吸引；一旦这些外部拉动因素恶化，功利性兴趣便会迅速消退。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]
+> 尽管[[Public Diplomacy|公共外交]]叙事充满合作共赢与[[Community of Shared Future for Mankind|人类命运共同体]]的说辞，但“[[Belt and Road Initiative|一带一路]]”实质上是一项经济硬实力推进工具。如果经济增长势头放缓，过度依赖经济诱因将导致高等教育作为软实力工具的效力与稳固性大幅下滑。选择施展国作为目的地的沿线学生，主要是被潜在的良好就业前景与政府提供的充裕奖学金所吸引；一旦这些外部拉动因素恶化，功利性兴趣便会迅速消退。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–693)]]
 >
 > *Despite the public diplomacy narratives of 'win-win' and 'shared community,' the BRI is a de facto economic hard power instrument. Heavy reliance on economic power would make the application of higher education as soft power tool less potent and steadfast if Chinese economic prowess were to diminish... Students' utilitarian interests would fade if these pull factors changed for the worse.*
 
@@ -136,7 +136,7 @@ updated: 2026-10-22
 > - **探究与调解的双重运作模式** 国际治理体系中软实力的行使依托两种相辅相成的实践路径：探究模式通过客观指标与普查监测搜集跨国信息，建立不可撼动的认知权威；调解模式在此认知基座上提供政策工具与咨询建议，促成主权国家的自愿趋同。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–272)]]
 > - **高等教育跨国流动的三重传导路径** 在全球[[Geopolitics of Higher Education|高等教育地缘政治]]中，国家通过三种机制投射软实力：一是通过特色课程体系与学术标准引导国际留学生形成对本国发展道路的认同；二是通过科研合作与[[Discourse|话语]]输出建立国际社会对本国制度价值的信任；三是将教育伙伴关系无缝融入对外战略与经济合作走廊。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
 > - **超国家组织“[[Soft Power by Hard Facts|以硬事实施展软权力]]”机制** 国际组织（如 [[OECD]] 与[[World Bank|世界银行]]）虽然没有立法管辖权和主权执法权，但通过常态化发布跨国比较数据（如 [[PISA]]、[[International Indicators of Education Systems|INES]]）将各国教育系统纳入统一[[Epistemic Community|认知共同体]]。量化数据提供了客观中立的科学表象，诱发各国内部围绕国际排名产生深层政治焦虑，从而以“软治理”方式推动国家层面的法定教育变革。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 537–538)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271)]]
-> - **经济资源依托与软实力的寄生性** 高等教育软实力的持续辐射高度依赖施展国宏观经济实力与外援补贴的物质支撑；当软实力投射缺乏深层文化与制度认同，主要依靠国家奖学金和就业红利等外部功利诱因拉动时，其在受纳国的实际扎根呈现出显著的工具依附性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
+> - **经济资源依托与软实力的寄生性** [[Educational Soft Power|高等教育软实力]]的持续辐射高度依赖施展国宏观经济实力与外援补贴的物质支撑；当软实力投射缺乏深层文化与制度认同，主要依靠国家奖学金和就业红利等外部功利诱因拉动时，其在受纳国的实际扎根呈现出显著的工具依附性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
 
 > [!logic-map]- 软权力 in 教育治理中的运作机制流程图
 > ```mermaid
@@ -175,7 +175,7 @@ updated: 2026-10-22
 > 剖析缺乏主权强制力的国际组织如何借助指标、统计与跨国测评将“硬事实”转化为形塑全球政策的隐蔽软权力。
 
 > [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]] 等 & [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]]
-> **硬事实包裹下的软治理权威** 国际组织在缺乏主权强制力的约束下，通过探究模式输出跨国比较数据与设立绩效指标，确立了无可争议的认知权威；随后借助调解模式推介最佳实践模板，巧妙规避了直接干预国家主权的指控。量化“硬事实”所赋予的[[Façade of Rationality|理性外衣]]，使国际组织得以用较低政治成本引导国家教育政策走向标准化与同质化。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–272)]]
+> **硬事实包裹下的软治理权威** 国际组织在缺乏主权强制力的约束下，通过[[Inquisitive Mode of Governance|探究模式]]输出跨国比较数据与设立[[Performance Indicators|绩效指标]]，确立了无可争议的[[Cognitive Authority|认知权威]]；随后借助[[Meditative Mode of Governance|调解模式]]推介最佳实践模板，巧妙规避了直接干预国家主权的指控。量化“硬事实”所赋予的[[Façade of Rationality|理性外衣]]，使国际组织得以用较低政治成本引导国家教育政策走向标准化与同质化。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–272)]]
 
 ---
 
@@ -202,20 +202,20 @@ updated: 2026-10-22
 ### 命题五　高等教育软实力对经济硬实力的依附性投射存在深层脆弱性
 
 > [!concept-lens] 经济依附与功利性吸引力退潮
-> 揭示当高等教育软实力主要依托国家经济补贴与基建项目带动时，其国际认同具有工具性与寄生性特征，面临外部冲击与草根抵制风险。
+> 揭示当[[Educational Soft Power|高等教育软实力]]主要依托国家经济补贴与基建项目带动时，其国际认同具有工具性与寄生性特征，面临外部冲击与草根抵制风险。
 
 > [!claim] Woo, Y. Y.
 > **经济依附拉动难掩结构脆弱** 中国以“[[Belt and Road Initiative|一带一路]]”推进的高等教育跨国扩张与软实力投射，实质上高度依附于经济硬实力的诱因与大型基建配套。沿线国家生源的流向主要受丰厚政府奖学金与潜在就业前景的外部功利因素拉动；一旦施展国经济增速放缓或资助减少，基于物质依附的软实力效能将迅速消退。此外，过度依赖自上而下的政府间经济推动极易在合作国引发民间草根社会的警惕与抵制，使软实力投射陷入地缘对抗与不可持续的困境。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
 
 > [!claim] Custer, S. 等
-> **权力转化困境阻滞政治信任** 中国在南亚与中亚的大规模教育资助、奖学金供给与职业技能培训有效满足了对象国青年的实用就业诉求，但基于经济收益预期的实用偏好未能转化为对大国外交战略的深层政治认同。受援国民调显示，教育资金与机构布点并未带来政策评价的显著提升；面对驻在国族群政治敏感性与边境安全争端，教育软实力呈现出显著的转化困境与脆弱边界。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 23–24, 62–66, 72–75)]]
+> **[[Power Conversion Dilemma|权力转化困境]]阻滞政治信任** 中国在南亚与中亚的大规模教育资助、奖学金供给与职业技能培训有效满足了对象国青年的实用就业诉求，但基于经济收益预期的实用偏好未能转化为对大国外交战略的深层政治认同。受援国民调显示，教育资金与机构布点并未带来政策评价的显著提升；面对驻在国族群政治敏感性与边境安全争端，教育软实力呈现出显著的转化困境与脆弱边界。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 23–24, 62–66, 72–75)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **命题一：规范合法性自愿认可** | 吸引力机制依托受众对政策文化正当性的自发内化与认同 | 国家公共外交与文化价值输出 | [[Joseph S. Nye Jr.\|Nye]]; 余婧然和谢爱磊 |
+> | **命题一：规范合法性自愿认可** | 吸引力机制依托受众对政策文化正当性的自发内化与认同 | 国家[[Public Diplomacy\|公共外交]]与文化价值输出 | [[Joseph S. Nye Jr.\|Nye]]; 余婧然和谢爱磊 |
 > | **命题二：数字硬事实软治理权威** | 量化指标与国际测评通过探究与调解模式行使隐蔽规制 | 超国家组织治理与全球教育[[Policy Borrowing\|政策借用]] | Steiner-Khamsi et al.; [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]] |
 > | **命题三：跨境高教地缘工具化异化** | 将国际学术合作降格为零和博弈武器将销蚀跨国互信 | 跨境高等教育与跨国科研合作 | [[Jane Knight\|Knight]]; 余婧然和谢爱磊 |
 > | **命题四：软实力为必要非充分条件** | 脱离技术与物质硬实力威慑的软实力空谈将诱发战略自满 | 地缘安全博弈与危机外交防御 | Karp & Zamiska |
@@ -227,11 +227,11 @@ updated: 2026-10-22
 > - **1990 — 冷战结束前夕的概念奠基** 奈在《注定领导：美国权力性质的变迁》（*Bound to Lead*）中正式提出软实力概念，回应当时弥漫西方的“美国衰落论”。指出美国的实力不仅体现在航母与 GDP，更体现在其对全球青年精英的文化吸引力、自由民主价值观及多边制度主导权。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 10–11)]]
 > - **2004–2005 — 概念体系的精细化与三要素确立** 奈出版专著《软实力：在世界政治中获得成功的途径》，确立了软实力的三大核心支柱：文化（在他者眼中具备吸引力）、政治价值观（在国内外得到坚守）与对外政策（被视作合法且具备道德权威）。
 > - **2010年代 — [[Geopolitics of Higher Education|高等教育地缘政治]]应用与[[Knowledge Diplomacy|知识外交]]的反思** 随着全球学生跨国流动激增与[[Confucius|孔子]]学院、富布赖特项目展开全球竞争，学者们将软实力框架全面引入国际高等教育。[[Jane Knight|简·奈特]]（Jane Knight, 2021）等学者随后批评软实力的零和民族国家中心主义倾向，倡导转向多维共赢的“知识外交”。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
-> - **2011–2018 — 超国家治理软权力的双重模式：探究与调解** 比较教育与国际关系学者（Bieber & Martens, 2011; [[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018]]）揭示国际组织施展软权力的两阶段机制：经合组织通过探究模式（数据搜集与指标定义）确立认知权威，随后通过调解模式（同行互评与最佳实践推介）渗透国家决策，在德国与日本等国成功推动重大国内教育改革。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–278)]]
-> - **2024 — 全球量化规制转型：“[[Soft Power by Hard Facts|以硬事实施展软权力]]”** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] 提出数字治理 2.0 框架，揭示经合组织与世界银行如何以量化指标为硬事实行使跨国软权力，将客观数据作为政策中介工具实现远处规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 537–538)]]
-> - **2022 — 高等教育作为对外影响工具的体系化投射** [[Argument_Velasco_2022_CSJ|Velasco (2022)]] 考察中国对东南亚的高等教育外交，确立了留学生扩招（校友效应与准外交中介）、境外办学分校与孔子学院三大支柱，揭示软实力投射与南海领土争端等地缘政治张力的共存困境。
+> - **2011–2018 — 超国家治理软权力的双重模式：探究与调解** 比较教育与国际关系学者（Bieber & Martens, 2011; [[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018]]）揭示国际组织施展软权力的两阶段机制：[[OECD|经合组织]]通过探究模式（数据搜集与指标定义）确立认知权威，随后通过调解模式（同行互评与最佳实践推介）渗透国家决策，在德国与日本等国成功推动重大国内教育改革。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–278)]]
+> - **2024 — 全球量化规制转型：“[[Soft Power by Hard Facts|以硬事实施展软权力]]”** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] 提出[[Governing by Numbers|数字治理]] 2.0 框架，揭示经合组织与[[World Bank|世界银行]]如何以量化指标为硬事实行使跨国软权力，将客观数据作为[[Policy Brokerage|政策中介]]工具实现远处规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 537–538)]]
+> - **2022 — 高等教育作为对外影响工具的体系化投射** [[Argument_Velasco_2022_CSJ|Velasco (2022)]] 考察中国对东南亚的[[Educational Diplomacy|高等教育外交]]，确立了留学生扩招（[[Alumnus Effect|校友效应]]与准外交中介）、[[International Branch Campus|境外办学]]分校与[[Confucius Institute|孔子学院]]三大支柱，揭示软实力投射与南海领土争端等地缘政治张力的共存困境。
 > - **2023 — [[South-South Cooperation|南南合作]]与[[Education Going Global|高教出海]]的经济依附解构** [[Argument_Woo_2023_HEP|Woo (2023)]] 将[[Critical Discourse Analysis|批判性话语分析]]引入[[Belt and Road Education Action Plan|“一带一路”教育行动]]，揭示非西方新兴大国在高等教育软实力投射中对经济[[Hard Power|硬实力]]诱因的深度寄生，拓展了软实力在外围国家落地面临的脆弱性与民意反弹机制。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
-> - **2023 — 教育软实力分析框架与新兴软实力资源** [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] 整合教育软实力运作机制与五维软实力模型，基于中柬高教项目 40 位关键受访者的案例研究，识别出当代生活吸引力、科技能力跃进、理工科教育声誉与经济发展模式四项新兴软实力资源。[[Argument_Zhu_Yang_2023_HEP|(Zhu & Yang, 2023, pp. 638–640, 651–653)]]
+> - **2023 — [[Educational Soft Power Framework|教育软实力分析框架]]与新兴软实力资源** [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] 整合教育软实力运作机制与五维软实力模型，基于中柬高教项目 40 位关键受访者的[[Case Study|案例研究]]，识别出当代生活吸引力、科技能力跃进、理工科教育声誉与经济发展模式四项新兴软实力资源。[[Argument_Zhu_Yang_2023_HEP|(Zhu & Yang, 2023, pp. 638–640, 651–653)]]
 > - **2025 — 战略现实主义与算法时代的反思** 科技[[Geopolitics|地缘政治]]研究（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska, 2025]]）重新审视软[[Hard Power|硬实力]]的辩证关系，指出在 21 世纪大国博弈中，仅靠道义吸引力的软实力无法自发维持自由民主秩序，软实力必须与以代码和算法为核心的[[Hard Power|硬实力]]深度嵌套，重构[[Technological Republic|技术共和国]]的战略威慑。
 > - **2025 — 软硬实力混合架构与[[Cultural Recognition|文化认同探索]]** [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] 结合中柬跨境高等教育实证，批判将对外拓展割裂为软实力与硬实力二元对立的传统视角，指出大学在[[Pragmatic Paradigm|实用主义]][[Chinese Exceptionalism|中国例外论]]中兼具展示科技卓越与提供礼遇关照的双重职能，跨国高教交流的实质在于探索当代国家治理经验的文化认同，而非传统软实力理论所预设的单向文化同化。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1043–1044, 1050–1051)]]
 
@@ -267,16 +267,16 @@ updated: 2026-10-22
 > [!ref-table]- 国际教育治理与地缘政治中软实力实证研究对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 案例 / 政策场域 | 施展主体与主要工具 | 关键实证数据与制度指标 | 治理与政策后果 | 证据来源 |
+> | 案例 / 政策[[Champ\|场域]] | 施展主体与主要工具 | 关键实证数据与制度指标 | 治理与政策后果 | 证据来源 |
 > |---|---|---|---|---|
-> | **德意志联邦共和国教育治理转型** | 经合组织（OECD）：PISA 测试与探究/调解模式 | PISA 2000 德国阅读排第 21 位（484 分，低于均值 500 分）；主流媒体以 687 个版面聚焦报道 | 冲破联邦州文化主权否决点，联邦设立 40 亿欧元 IZBB 专项基金推行全日制学校并设立国家计算中心 IQB | [[Argument_Niemann_Martens_2018_GSP\|(Niemann & Martens, 2018)]] |
+> | **德意志联邦共和国教育治理转型** | 经合组织（OECD）：[[PISA]] 测试与探究/调解模式 | PISA 2000 德国阅读排第 21 位（484 分，低于均值 500 分）；主流媒体以 687 个版面聚焦报道 | 冲破联邦州文化主权否决点，联邦设立 40 亿欧元 IZBB 专项基金推行全日制学校并设立国家[[Center of Calculation\|计算中心]] [[Institute for Educational Quality Improvement\|IQB]] | [[Argument_Niemann_Martens_2018_GSP\|(Niemann & Martens, 2018)]] |
 > | **日本学力低下论争与课程改革** | 经合组织（OECD）：PISA 排名与数据权威 | PISA 2003 日本阅读位次自第 8 位滑落至第 14 位，数学自第 1 位跌至第 6 位 | 日本中央教育行政部门借助国际排名下滑借题发挥，废止“宽裕教育”大纲并压制教师工会阻力 | [[Argument_Niemann_Martens_2018_GSP\|(Niemann & Martens, 2018)]] |
-> | **全球南方多边教育借用** | 世界银行与经合组织：SABER 工具箱与跨国指标 | 覆盖全球 100 余个低收入与中等收入国家的教育投入与师资绩效基准数据库 | 主权国家在无硬性贷款附加条件要求下，自愿依照国际常模对齐本国师资认证标准 | [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b)]] |
+> | **全球南方多边教育借用** | 世界银行与经合组织：[[Systems Approach for Better Education Results\|SABER]] 工具箱与跨国指标 | 覆盖全球 100 余个低收入与中等收入国家的教育投入与师资绩效基准数据库 | 主权国家在无硬性[[Policy Conditionalities\|贷款附加条件]]要求下，自愿依照国际常模对齐本国师资认证标准 | [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b)]] |
 > | **“一带一路”沿线高等教育合作** | 中国政府奖学金与校企涉外联合办学 | 沿线留学生中超过 60% 依赖中国国家或省部级专项奖学金资助；学业选择高度集中于经贸工程应用学科 | 软实力吸引力受宏观经济增长预期与就业红利强绑定，在当地草根社会面临可持续认同考验 | [[Argument_Woo_2023_HEP\|(Woo, 2023)]] |
-> | **中柬高教项目综合拓展** | 语言培训、高教援助、留学生流动与校际合作 | 访谈 40 名关键知情人；工程生比例自 8.55% 升至 16.69%，语言生自 55.74% 降至 37.68% | 识别出当代生活方式、科技突破、理工科教育声誉与经济发展模式四项新兴软实力资源 | [[Argument_Zhu_Yang_2023_HEP\|(Zhu & Yang, 2023)]] |
+> | **中柬高教项目综合拓展** | 语言培训、高教援助、留[[Student Mobility\|学生流动]]与校际合作 | 访谈 40 名关键知情人；工程生比例自 8.55% 升至 16.69%，语言生自 55.74% 降至 37.68% | 识别出当代生活方式、科技突破、理工科教育声誉与经济发展模式四项新兴软实力资源 | [[Argument_Zhu_Yang_2023_HEP\|(Zhu & Yang, 2023)]] |
 > | **中柬跨境高等教育联合示范** | 综合性大学跨国分校与澜湄科技交流工坊 | 柬埔寨受援高校工程学科建设中中方师资与实验室设备占比逾 70% | 超越单向文化同化，在共建经贸走廊中实现科技卓越展演与国家发展治理经验的互构认同 | [[Argument_Zhu_Yang_2025_HE\|(Zhu & Yang, 2025)]] |
 > | **南亚与中亚教育公共外交** | 中国官方：251 项教育援助、35.8 万个奖学金名额、65 所孔子机构、高校全英文授课 | 52% 人文触点集聚于 16 个核心城市；86% 精英不会汉语但 64% 出于经贸就业意愿期望提升 | 创造实用技能红利但未能转化为深层政治互信，在地缘军事摩擦与族群政治敏感面前极为脆弱 | [[Argument_Custer_2021_AidData\|(Custer et al., 2021)]] |
-> | **东南亚高教外交与软实力指标** | 中国教育部、孔子学院与高校境外分校 | 2018 年东南亚在华留学生约 8 万人，设立 31 所孔院与厦大马校等；Soft Power 30 指数排第 27 位（文化/参与高但教育下滑） | 触发短期校友积极情感与长期准外交中介，但受南海领土争端与地缘历史戒心制约面临转化阻滞 | [[Argument_Velasco_2022_CSJ\|(Velasco, 2022)]] |
+> | **东南亚高教外交与软实力指标** | [[Ministry of Education of the People's Republic of China\|中国教育部]]、孔子学院与高校境外分校 | 2018 年东南亚在华留学生约 8 万人，设立 31 所孔院与[[Xiamen University Malaysia\|厦大马校]]等；Soft Power 30 指数排第 27 位（文化/参与高但教育下滑） | 触发短期校友积极情感与长期准外交中介，但受南海领土争端与地缘历史戒心制约面临转化阻滞 | [[Argument_Velasco_2022_CSJ\|(Velasco, 2022)]] |
 
 ---
 

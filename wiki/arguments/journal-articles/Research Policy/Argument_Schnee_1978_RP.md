@@ -59,7 +59,7 @@ sources:
   - "[[sources/Schnee_1978_RP/Schnee_1978_RP|Schnee_1978_RP]]"
 status: active
 created: 2026-10-03
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Schnee_1978_RP"
@@ -75,7 +75,7 @@ journal: "Research Policy"
 ---
 
 > [!question]
-> 二战后美国半导体与电子计算机两大高技术产业为何能在全球确立并长期保持主导地位？联邦政府实施的大型空间与国防公共项目（如[[National Aeronautics and Space Administration|美国国家航空航天局]]（National Aeronautics and Space Administration, NASA）与美国国防部（Department of Defense, DOD）项目）究竟通过何种经济、技术与[[Human Capital Theory|人力资本]]机制对新兴高技术产业的成长轨迹产生系统性塑造？
+> 二战后美国半导体与电子计算机两大高技术产业为何能在全球确立并长期保持主导地位？联邦政府实施的大型空间与国防公共项目（如[[National Aeronautics and Space Administration|美国国家航空航天局]]（National Aeronautics and Space Administration, NASA）与[[Department of Defense|美国国防部]]（Department of Defense, DOD）项目）究竟通过何种经济、技术与[[Human Capital Theory|人力资本]]机制对新兴高技术产业的成长轨迹产生系统性塑造？
 
 > [!claim] 核心主张
 > 大型政府公共项目是培育高技术产业萌芽、塑造市场竞争格局并加速其技术成熟的关键力量；空间与国防计划并非直接催生基础科学发明，而是通过早期研发资助分担试错成本、在初创期提供包揽全额产值的[[Assured Demand|确定性需求]]采购托底以释放[[Learning Economy|学习经济]]、扶持新创企业以维系市场竞争、公开前沿工程运行建立[[Demonstration Effect|示范效应]]，以及构建高频专业人才流动网络，多维协同助推美国企业在全球半导体与计算机工业中确立持久优势。
@@ -142,7 +142,7 @@ journal: "Research Policy"
 > [!evidence-grid] 半导体与早期计算机研发资助的关键证据
 > - **半导体直接研发资助** 1955 至 1961 年间，联邦机构对半导体直接资助研发经费达 6600 万美元；其中美国陆军通信兵团（Signal Corps）在 1961 年单年即雇佣 27 家商业承包商攻关半导体器件、40 家开发电子零部件与材料、13 家开发石英晶体，使商业开发周期缩短达 15%。
 > - **国防部间接转包研发规模** 1960 年 DOD 调查显示，武器系统主承包商向下转包给半导体企业的研发经费超过直接资助的一倍以上；1958 和 1959 年 DOD 直接与间接研发资助分别占全美半导体行业总研发支出的 25% 与 23%。
-> - **早期电子计算机军方全程资助** 从 1942–1946 年陆军资助宾夕法尼亚大学研制首台电子数值积分计算机（Electronic Numerical Integrator and Computer, ENIAC）用于弹道计算起，至 1950 年代中期，陆海空三军、美国原子能委员会（Atomic Energy Commission, AEC）与美国国家标准局（National Bureau of Standards, NBS）对雷明顿兰德（Remington Rand / Univac）与 IBM 等企业下达巨额合同，攻克了逻辑设计、内存存储与编程技术；1950 年代 IBM 约 60% 的研发预算直接来自政府合同。
+> - **早期电子计算机军方全程资助** 从 1942–1946 年陆军资助宾夕法尼亚大学研制首台电子数值积分计算机（Electronic Numerical Integrator and Computer, ENIAC）用于弹道计算起，至 1950 年代中期，陆海空三军、美国原子能委员会（Atomic Energy Commission, AEC）与美国国家标准局（[[National Institute of Standards and Technology|National Bureau of Standards]], NBS）对雷明顿兰德（Remington Rand / Univac）与 IBM 等企业下达巨额合同，攻克了逻辑设计、内存存储与编程技术；1950 年代 IBM 约 60% 的研发预算直接来自政府合同。
 
 #### 2. 国防系统间接转包与英德对照证实缺乏持续公共资助会导致先发技术优势丧失
 
@@ -348,7 +348,7 @@ journal: "Research Policy"
 
 > [!warning] 自述局限
 > - **短期经济回报滞后性** 从重大技术突破转化为商业化新产品或新工艺的过程高度复杂且耗时漫长；20 世纪重大创新的历史研究表明，发明与商业化应用之间平均存在 10 至 20 年的时间滞后。尽管政府资助创新的发明到商业化周期略短于私营独立资助创新，但时间滞后依然十分显著，不能期望公共项目的技术影响在短期内产生即时经济回报。
-> - **科技人力资源供需失衡争议** 批评者指出，美国空间与国防公共大项目的巨额扩张在特定工程与科学领域造成了全国科技人力资源供给的结构性失衡与过度倾斜。
+> - **科技人力资源供需失衡争议** 批评者指出，[[American Spaces|美国空间]]与国防公共大项目的巨额扩张在特定工程与科学领域造成了全国科技人力资源供给的结构性失衡与过度倾斜。
 > - **创新归因的复杂性与局限** 鉴于重大工程面临的具体任务约束与对现有技术的依赖，[[Evaluation Research|评估研究]]不能指望将重[[Big Science|大科学]]进展的全部功劳单一或直接归因于政府项目本身。
 
 ---

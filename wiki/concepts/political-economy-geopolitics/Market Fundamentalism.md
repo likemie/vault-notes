@@ -47,7 +47,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -121,7 +121,7 @@ updated: 2026-10-22
 > 阐明公开标榜民用产业支持的公共计划如何在市场原教旨主义攻讦下陷入生存困境。
 
 > [!claim] [[Argument_Block_2008_PS|Block (2008)]]
-> **民用产业干预的污名化与脆弱性** 当联邦技术计划以公开透明、服务民用产业[[Competitiveness|竞争力]]的形式出现时，极易成为市场原教旨主义政客的靶子。以 1988 年设立的商务部国家标准与技术研究院（NIST）[[Advanced Technology Program|先进技术计划]]（Advanced Technology Program, ATP）为例，由于其公开资助高风险民用前沿技术联合研发，1994 年共和党控制国会后，保守派智库传统基金会（Heritage Foundation）与卡托研究所（Cato Institute）立刻将其贬斥为“挑选赢家”的“公司福利”（corporate welfare），发动长达十余年的政治围剿，迫使克林顿政府耗费巨大政治资本否决废止法案，最终 ATP 仍于 2007 年被正式废止。这一现象证明，在市场原教旨主义占统治地位的环境下，唯有隐藏在国防或分散小型项目外壳下的干预机制才能获得政治庇护与生存空间。[[Argument_Block_2008_PS|(Block, 2008, pp. 183–185)]]
+> **民用产业干预的污名化与脆弱性** 当联邦技术计划以公开透明、服务民用产业[[Competitiveness|竞争力]]的形式出现时，极易成为市场原教旨主义政客的靶子。以 1988 年设立的商务部[[National Institute of Standards and Technology|国家标准与技术研究院]]（NIST）[[Advanced Technology Program|先进技术计划]]（Advanced Technology Program, ATP）为例，由于其公开资助高风险民用前沿技术联合研发，1994 年共和党控制国会后，保守派智库传统基金会（Heritage Foundation）与卡托研究所（Cato Institute）立刻将其贬斥为“挑选赢家”的“公司福利”（corporate welfare），发动长达十余年的政治围剿，迫使克林顿政府耗费巨大政治资本否决废止法案，最终 ATP 仍于 2007 年被正式废止。这一现象证明，在市场原教旨主义占统治地位的环境下，唯有隐藏在国防或分散小型项目外壳下的干预机制才能获得政治庇护与生存空间。[[Argument_Block_2008_PS|(Block, 2008, pp. 183–185)]]
 
 ---
 

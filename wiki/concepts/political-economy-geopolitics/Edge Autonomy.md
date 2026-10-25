@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -133,7 +133,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **1950s — 自然界生物集群发现** [[Martin Lindauer|林道尔]]与弗里希系统揭示蜜蜂侦察蜂通过舞蹈自主表达选巢偏好，确立了自然界无中心指令、由边缘个体驱动决策的原型。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–120)]]
 > - **2000s — 分布式计算与物理学拓扑建模** 随着边缘计算概念的兴起与[[Giorgio Parisi|帕里西]]对[[Flocking Behavior|椋鸟群飞]]拓扑物理机制的揭示，边缘节点自主感知与局部通信成为复杂系统理论的重要支柱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]
-> - **2025 — 升华为国家工程与治理[[Paradigm|范式]]** 卡普与扎米斯卡将边缘自治提升为重塑美国[[Technological Republic|技术共和国]][[Hard Power|硬实力]]与[[Organizational Culture|组织文化]]的关键武器，主张彻底打破华盛顿与五角大楼的官僚阻滞。
+> - **2025 — 升华为国家工程与治理[[Paradigm|范式]]** 卡普与扎米斯卡将边缘自治提升为重塑美国[[Technological Republic|技术共和国]][[Hard Power|硬实力]]与[[Organizational Culture|组织文化]]的关键武器，主张彻底打破华盛顿与[[Department of Defense|五角大楼]]的官僚阻滞。
 
 ---
 

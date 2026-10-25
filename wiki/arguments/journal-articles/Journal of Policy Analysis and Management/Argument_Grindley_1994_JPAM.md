@@ -67,7 +67,7 @@ sources:
 part_of: ""
 status: active
 created: 2026-10-04
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grindley_1994_JPAM"
@@ -151,7 +151,7 @@ issuing_organization: ""
 
 #### 1. 商业保密壁垒与产线异质性导致直接竞争者难以共享核心制造工艺配方
 
-1987 年，面对日本企业在动态随机存取存储器（Dynamic Random Access Memory, DRAM）市场的全面领先，美国国防部[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）联合 14 家美国大型芯片制造企业共同组建 [[Sematech]]。各方约定每年投入 2 亿美元研发资金（政府与企业各承担 1 亿美元），在得克萨斯州奥斯汀建设共性研发[[Pilot Scale Platform|中试基地]]。
+1987 年，面对日本企业在动态随机存取存储器（Dynamic Random Access Memory, DRAM）市场的全面领先，[[Department of Defense|美国国防部]][[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）联合 14 家美国大型芯片制造企业共同组建 [[Sematech]]。各方约定每年投入 2 亿美元研发资金（政府与企业各承担 1 亿美元），在得克萨斯州奥斯汀建设共性研发[[Pilot Scale Platform|中试基地]]。
 
 > [!policy-context] 成立初期的组织架构与预期目标
 > - **行业危机背景** 1980 年代中期美国在全球半导体芯片市场的份额由近 60% 降至 40% 以下，日本企业占据了全球 DRAM 市场的 80% 以上；同时美国本土制造设备与材料供应商市场份额不断缩水，引发五角大楼对尖端武器微电子元器件依赖外国供应链的担忧。
@@ -204,7 +204,7 @@ issuing_organization: ""
 > [!pathways] SEMATECH 三位一体的教育培训与人才扩散机制
 > - **骨干工程师借调轮换制（Assignees Program）** 联盟要求 14 家出资芯片制造厂商选派 200 至 300 名资深工程技术人员全职借调进驻奥斯汀中试基地，借调期通常为 1 至 2 年。工程师在真实中试线上直接参与下一代 0.35 微米关键设备联调与先进制程攻关；借调期满返回母公司后，他们将最新的工艺诀窍、COO/SPC 标准和协作文化带回各企业商业产线，成为企业内部的“技术播种者”与转化桥梁，彻底解决了以往研发成果“停留在纸面报告、难以在车间落地”的困境。
 > - **[[Sematech Centers of Excellence|大学卓越技术中心网络]]（[[Sematech Centers of Excellence|SCOE]]）与前沿基础人才培养** 联盟每年安排 1000 万至 1500 万美元，通过[[Semiconductor Research Corporation|半导体研究公司]]（Semiconductor Research Corporation, SRC）资助加州大学伯克利分校、斯坦福大学、麻省理工学院、得克萨斯大学等顶尖高校建立大学卓越技术中心（Semiconductor Centers of Excellence, SCOE），专注于光刻物理、等离子体反应动力学与新型材料等底层科学探索，直接资助并培养了数百名兼具前沿学术视野与产业应用技能的微电子工程硕士与博士研究生。
-> - **供应商全员质量教育项目（PFTQ）与工程技能再造** 联盟设立“全面质量伙伴关系”（Partnering for Total Quality, PFTQ）专项，每年投入 500 万至 1000 万美元，对 130 余家上游中小设备与材料供应商开展全员[[Total Quality Management|TQM]]、[[Statistical Process Control|SPC]]、[[Cost of Ownership|COO]] 及实验设计（Design of Experiments, [[Department of Energy|DOE]]）[[Further Education|继续教育]]培训，促使 90% 以上供应商完成认证，从根本上弥补了中小企业缺乏现代工程管理规范与统计素养的短板。
+> - **供应商全员质量教育项目（PFTQ）与工程技能再造** 联盟设立“全面质量伙伴关系”（Partnering for Total Quality, PFTQ）专项，每年投入 500 万至 1000 万美元，对 130 余家上游中小设备与材料供应商开展全员[[Total Quality Management|TQM]]、[[Statistical Process Control|SPC]]、[[Cost of Ownership|COO]] 及[[Experimental Research|实验设计]]（Design of Experiments, [[Department of Energy|DOE]]）[[Further Education|继续教育]]培训，促使 90% 以上供应商完成认证，从根本上弥补了中小企业缺乏现代工程管理规范与统计素养的短板。
 
 ---
 

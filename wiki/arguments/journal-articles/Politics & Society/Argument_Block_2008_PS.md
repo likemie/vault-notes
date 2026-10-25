@@ -81,7 +81,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-12
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Block_2008_PS"
@@ -107,7 +107,7 @@ issuing_organization: ""
 > 自 1980 年代以来，美国在自由市场意识形态的逆流中实质性崛起了一个高度去中心化、跨部门协同的[[Developmental Network State|发展型网络国家]]（Developmental Network State, DNS）。两党政治博弈与自由市场教条合谋迫使该机制以隐藏的发展型国家形态运作。尽管该网络在托底早期高风险研发与重塑创新组织生态上成效显著，但其隐形运作也内生出五重严重制度弊端：创新与本土实体生产脱节、漠视劳工制造技能培育、知识过度商品化阻断研发合作、易受意识形态围剿与政治破坏、以及深层民主问责与战略统筹赤字。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 1980 至 2000 年代美国联邦关键科技立法、涵盖[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）、国立卫生研究院（[[National Institutes of Health]], NIH）、国家科学基金会（[[National Science Foundation]], NSF）、国家标准与技术研究院（National Institute of Standards and Technology, NIST）、能源部（[[Department of Energy]], DOE）及小企业管理局（Small Business Administration, SBA）等跨部门公共研发网络、产学研联合体及[[National Innovation System|国家创新系统]]组织形态演变。
+> - **对象** 1980 至 2000 年代美国联邦关键科技立法、涵盖[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）、国立卫生研究院（[[National Institutes of Health]], NIH）、国家科学基金会（[[National Science Foundation]], NSF）、[[National Institute of Standards and Technology|国家标准与技术研究院]]（National Institute of Standards and Technology, NIST）、能源部（[[Department of Energy]], DOE）及小企业管理局（Small Business Administration, SBA）等跨部门公共研发网络、产学研联合体及[[National Innovation System|国家创新系统]]组织形态演变。
 > - **张力** 自由市场放任教条与客观上空前扩张的联邦技术商业化干预能力之间的认知断裂；国家巨额公帑托底[[Valley of Death|死亡之谷]]与私人资本独吞商业暴利之间的制度冲突；技术创新繁荣与制造业蓝领岗位外流之间的结构矛盾。
 > - **贡献** 开创性提出发展型网络国家（DNS）与隐藏的发展型国家分析架构，打破了传统规制型国家与东亚集权科层发展型国家（Developmental Bureaucratic State, DBS）的二元分类；以详实的政策文献、早期资金流向数据与 R&D 100 获奖成果纵向演变，实证还原了美国后工业国家干预模式的微观机制与制度限度。
 
@@ -205,7 +205,7 @@ issuing_organization: ""
 ### 论证步骤二　1980 年代科技立法打破公私界限，将联邦科研资产引向商业应用
 
 > [!claim] 1980 年代立法将联邦科研成果向商业化开发全面开放
-> 面对 1970 年代末严重的经济滞胀与外国制造业竞争冲击，美国国会在 1980 至 1988 年间跨党派密集通过了一揽子关键科技法规，从法律制度底层彻底废除了联邦资金仅能资助象牙塔基础研究的传统教条，奠定了全美产学研协同转化的制度基石。
+> 面对 1970 年代末严重的经济滞胀与外国制造业竞争冲击，[[United States Congress|美国国会]]在 1980 至 1988 年间跨党派密集通过了一揽子关键科技法规，从法律制度底层彻底废除了联邦资金仅能资助象牙塔基础研究的传统教条，奠定了全美产学研协同转化的制度基石。
 
 #### 1. 国际制造业竞争倒逼美国放弃纯基础研究假定，转向主动支持商业化开发
 
@@ -257,7 +257,7 @@ issuing_organization: ""
 > - **公开政治修辞（公开表演）**
 >   保守派将削减政府开支、反对企业福利作为迎合右翼基本盘的核心口号；动用政治舆论严厉围剿显性的民用产业计划（如商务部先进技术计划 [[Advanced Technology Program|ATP]]），将其痛斥为大政府挑选赢家并力图予以废除。
 > - **隐蔽财政实践（实际治理）**
->   在实际执政中，保守派议员与政府极其依赖高科技繁荣带来的政绩与选区经济收益，他们熟练地将数以百亿计的产业补贴伪装塞入五角大楼国防采购预算、能源部核武实验室经费以及[[Congressional Earmarks|国会专项拨款]]中，暗中向高科技企业输送充足的公共研发资本。
+>   在实际执政中，保守派议员与政府极其依赖高科技繁荣带来的政绩与选区经济收益，他们熟练地将数以百亿计的产业补贴伪装塞入[[Department of Defense|五角大楼]]国防采购预算、能源部核武实验室经费以及[[Congressional Earmarks|国会专项拨款]]中，暗中向高科技企业输送充足的公共研发资本。
 
 #### 2. 自由派因畏惧反市场指责而退缩妥协，迫使民用前沿技术借道五角大楼寻求生存掩护
 
@@ -462,7 +462,7 @@ issuing_organization: ""
 > *The government spent $32 million in R&D on Taxol... while BMS made billions in sales, and Medicare alone had paid $500 million for Taxol, but the government received only $35 million in royalty payments.*
 
 > [!citation-card] 泰瑟治下 DARPA 军事涉密化对学术生态的重创
-> 在小布什政府期间，安东尼·泰瑟担任 DARPA 局长，他推行了一项重大战略转向：大幅缩减对大学开展的基础研究与前瞻性非密计算机科学项目的资助，将资金大规模转向面向短期军事应用和高度保密的涉密研发项目。这一转向导致 DARPA 与全美顶尖计算机学者之间的长期互信遭到严重破坏，大批学者选择切断与该机构的合作。
+> 在小布什政府期间，安东尼·泰瑟担任 DARPA 局长，他推行了一项重大战略转向：大幅缩减对大学开展的基础研究与前瞻性非密计算机[[Science Programs|科学项目]]的资助，将资金大规模转向面向短期军事应用和高度保密的涉密研发项目。这一转向导致 DARPA 与全美顶尖计算机学者之间的长期互信遭到严重破坏，大批学者选择切断与该机构的合作。
 >
 > *Tether shifted DARPA’s focus away from funding university-based research and towards classified projects that were closer to deployment... Computer science researchers at major universities complained that they were being frozen out of DARPA funding.*
 

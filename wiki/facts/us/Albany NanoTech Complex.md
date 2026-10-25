@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -69,7 +69,7 @@ updated: 2026-10-22
 > [!dev-timeline] 组织发展历程
 > - **2001–2010 — 依托高校创立与 300 毫米中试线奠基** 纽约州立大学奥尔巴尼分校纳米科学与工程学院（CNSE）联合 IBM 启动建设，率先建成全美高校首条 300 毫米（12 英寸）晶圆研发制造洁净室，确立产学研“空间共置”运作[[Paradigm|范式]]。
 > - **2014–2019 — 整合升级为 SUNY Poly 与组建 NY [[CREATES Project|CREATES]]** 学院与纽约州立大学理工学院整合，随后纽约州政府设立“纽约创新科技与先进研究机构”（NY CREATES）作为专属非营利资产管理与运营枢纽，推动研发设施面向全美开放。
-> - **2022–至今 — 对接《[[CHIPS and Science Act|芯片法案]]》与争创 [[National Science and Technology Council|NSTC]] 核心中枢** 伴随《芯片与科学法案》出台，综合体被指定为纽约州“NY SMART I-Corridor”重大集群的核心支柱，并作为美国商务部[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）极紫外光刻与极限制程研发的最核心候选基地。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 21–23)]]
+> - **2022–至今 — 对接《[[CHIPS and Science Act|芯片法案]]》与争创 [[National Science and Technology Council|NSTC]] 核心中枢** 伴随《芯片与科学法案》出台，综合体被指定为纽约州“NY SMART I-Corridor”重大集群的核心支柱，并作为[[Department of Commerce|美国商务部]][[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）极紫外光刻与极限制程研发的最核心候选基地。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 21–23)]]
 
 ---
 

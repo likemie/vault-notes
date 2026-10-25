@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -187,7 +187,7 @@ updated: 2026-10-22
 >   赵乃传在《新教育评论》系统化客观事实、实验渐进与精细研究三要素，取代民主原则成为中国[[New Education Movement\|新教育运动]]主导纲领。[[Argument_Zhou_2024_CE\|(Zhou & Westberg, 2024, p. 620)]]
 >
 > - **1985 年：[[Bodmer Report 1985\|博德默尔报告]]倡导公众理解科学**
->   英国皇家学会发布《公众理解科学》（Bodmer 报告），将培育公众对科学的积极态度与理解置于国家科学繁荣战略核心。
+>   [[Royal Society|英国皇家学会]]发布《公众理解科学》（Bodmer 报告），将培育公众对科学的积极态度与理解置于国家科学繁荣战略核心。
 >
 > - **2020 年代中：双向民主协商、解决方案导向与科研人员职业态度觉醒**
 >   英国皇家学会（Royal Society, 2026）全面深化科学态度内涵：在基础教育强调接纳不确定性；在公众媒介层面倡导建设性[[Solutions Journalism\|解决方案新闻]]；在科研人员层面，全英 20 年追踪（2006–2025）显示学者视参与为职业有益的比例从 20% 飙升至 83%，科学态度已演进为科研共同体与全社会的双向共构契约。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 30)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 47)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 57)]]

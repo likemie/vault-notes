@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -102,8 +102,8 @@ updated: 2026-10-22
 
 > [!dev-timeline] 计划演进历程
 > - **2011 — 计划创设与斯坦福精益试验** [[National Science Foundation|NSF]] 正式设立 I-Corps 试点计划，首批资助 21 支大学科研团队，将史蒂夫·布兰克（Steve Blank）的精益创业课程转化为标准联邦学者创业训练大纲，开创学术科研与商业验证紧密绑定的新型转化[[Paradigm|范式]]。
-> - **2012–2016 — 全国枢纽网络布局与部际跨界扩散** NSF 在全美高校设立首批 I-Corps 节点（Nodes）与站点（Sites）；其成功经验迅速引发联邦跨部门采纳，国立卫生研究院（[[National Institutes of Health|NIH]] I-Corps at NIH）、能源部（[[Department of Energy|DOE]] Energy I-Corps）及国防部（DoD I-Corps）相继引入该模式。
-> - **2017 — 《美国创新与[[Competitiveness|竞争力]]法》法定确立** 美国国会通过《美国创新与竞争力法》（American Innovation and Competitiveness Act, AICA 2017，公法 114-329 第 601 条），正式将 I-Corps 确立为永久性联邦法定计划，授权向全美所有[[Research Universities|研究型大学]]全面推广。
+> - **2012–2016 — 全国枢纽网络布局与部际跨界扩散** NSF 在全美高校设立首批 I-Corps 节点（Nodes）与站点（Sites）；其成功经验迅速引发联邦跨部门采纳，国立卫生研究院（[[National Institutes of Health|NIH]] I-Corps at NIH）、能源部（[[Department of Energy|DOE]] Energy I-Corps）及国防部（[[Department of Defense|DoD]] I-Corps）相继引入该模式。
+> - **2017 — 《美国创新与[[Competitiveness|竞争力]]法》法定确立** [[United States Congress|美国国会]]通过《美国创新与竞争力法》（American Innovation and Competitiveness Act, AICA 2017，公法 114-329 第 601 条），正式将 I-Corps 确立为永久性联邦法定计划，授权向全美所有[[Research Universities|研究型大学]]全面推广。
 > - **2022–2024 — 《[[CHIPS and Science Act|芯片法案]]》赋能与 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会全域重构** 依据《[[CHIPS and Science Act|芯片与科学法案]]》，I-Corps 全面并入新成立的 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会，升级构建 10 大区域国家[[Innovation Hub|创新枢纽]]（National Innovation Network Hubs）；在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》统筹下，深度嵌入微电子、先进封装与量子计算早期初创孵化链条。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–33)]]
 
 ---

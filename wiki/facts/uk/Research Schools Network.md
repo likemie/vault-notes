@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -76,7 +76,7 @@ updated: 2026-10-22
 > 英国研究学校网络（Research Schools Network, RSN）是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与约克大学[[Institute for Effective Education\|有效教育研究所]]（IEE）于 2016 年联合发起创设的全国性分布式校际中介组织网络。该网络通过在英格兰各区域竞争性遴选一批在循证实践方面成效显著的优秀中小学确立为“研究学校”，由其作为区域证据枢纽，向周边学校网络辐射基于实证证据的教师专业发展培训、工具包本地化转译与变革教练辅导，是[[International Education\|国际教育]][[Knowledge Mediation\|知识中介]]从“中央智库向分布式校际[[Communities of Practice|实践共同体]]规模化下沉”的代表性制度创新。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
 
 > [!org-context] 机构背景与设立渊源
-> - **设立年份与发起方** 2016 年由 EEF 与 IEE 联合启动试点，首批确立 5 所领头学校；后在英国教育部（DfE）专项“机会区”（Opportunity Areas）资金支持下迅速扩展至全英近 40 所学校网络。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
+> - **设立年份与发起方** 2016 年由 EEF 与 IEE 联合启动试点，首批确立 5 所领头学校；后在[[Department for Education|英国教育部]]（DfE）专项“机会区”（Opportunity Areas）资金支持下迅速扩展至全英近 40 所学校网络。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
 > - **创设痛点与治理契机** EEF 在成立初期研发了著名的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit），并在英格兰中学管理层取得了 70% 的高知晓率；然而，大规模多臂因果[[Randomised Controlled Trials\|随机对照试验]]（如 800 所公立小学参与的“识字八爪鱼”试验；Lord et al., 2017）实证裁决，单纯依靠纸质手册或网站单向传播[[Abstract\|研究摘要]]，在改变教师课堂教学行为与提升学童标准化考试成绩上[[Effect Size\|效应量]]接近于 0。纸面证据无法跨越中央发布与课堂实践之间的鸿沟，偏远与薄弱学校难以自主消化抽象实证结论。为了打通证据落地的“最后一公里”，EEF 决定转向需求驱动的落地实施，联合 IEE 创设扎根区域的校际同伴中介网络。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–152)]]
 > - **法人属性与经费基础** 作为 EEF 资助与行业指导下的网络化协作联盟，各研究学校依托其自身作为公立学校或多学院信托（MAT）的独立法人资格运作，每年获得专项运营经费以支持专职中介教师（Research Leads）的工作量减免与跨校活动开支。
 > - **核心使命** 彻底打破“大学研究人员向中小学教师单向推介”的传统模式，由经受严格实证培训的一线骨干教师兼任“实证大使（Evidence Champions）”，通过校际合作共同体带领同行批判性审议证据，推动循证教学策略在英格兰弱势学校实现常态化扎根。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]

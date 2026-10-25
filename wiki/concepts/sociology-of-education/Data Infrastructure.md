@@ -69,7 +69,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -109,7 +109,7 @@ updated: 2026-10-22
 > - **双轨质量核验与法定时间冻结（Validation & Warehousing）** 人机结合实施多重质检，运用自动化逻辑规则过滤异常值，并在法定截止节点强行闭锁数据库，确立作为公文权威依据的单一事实来源（Single Point of Truth）。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 4, 7)]]
 > - **算法模型加工与二次[[Commensuration|通约]]加权（Analysis & Modelling）** 业务处室协同外部统计专家，运用特定检索程序运行指标加权、早警预测建模、[[Socioeconomic Status|社会经济背景]]测算及统计同类校匹配。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 4–5)]]
 > - **分权定向呈报与界面化规训（Reporting & Interface）** 形成差异化知识输出格局：向上呈报至联邦或跨州治理中枢，向社会公布综合报表，向学校和公众推送扁平化数据仪表盘以引导改进。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 4–6)]]
-> - **超国家数据共生与跨境接口嵌入（Supranational Data Symbiosis & Inter-agency Interfaces）** 缺乏直接立法管辖权的超国家实体通过资金分担、指标采购（如欧盟采购经合组织 50%–60% 数据）与常态席位嵌入，依托外部成熟数据基础设施实现跨尺度软性协调。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–33)]]
+> - **超国家数据共生与跨境接口嵌入（Supranational Data Symbiosis & Inter-agency Interfaces）** 缺乏直接立法管辖权的超国家实体通过资金分担、指标采购（如[[EU|欧盟]]采购[[OECD|经合组织]] 50%–60% 数据）与常态席位嵌入，依托外部成熟数据基础设施实现跨尺度软性协调。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–33)]]
 
 > [!logic-map]- 要素关系与数据流转网络
 > ```mermaid
@@ -174,7 +174,7 @@ updated: 2026-10-22
 > 探讨超国家实体在宪制主权受限的情境下，如何通过财政资助与机构嵌合借用外部数据基础设施，实现区域教育政策的一体化协调。
 
 > [!claim] Grek, S.
-> **欧盟与经合组织的数据基础设施共生与跨国协调** 索蒂里亚·格雷克（Sotiria Grek）揭示，数据基础设施在超国家层面的运作呈现跨机构共生特征。受《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]限制，[[EU|欧盟]]缺乏直接立法权与独立的测评开发能力；欧盟委员会通过资助成员国 80% 的 PISA 调查参与成本、直接采购经合组织 50%–60% 的基础统计数据（依托 UOE 数据集），并常态嵌入 INES 指标委员会，深度借用经合组织的数据基础设施。这种跨机构共生使欧盟得以在不修改宪制条约的前提下，依托可比数据与同行学习压力推进[[European Education Space|欧洲教育空间]]的一体化治理。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
+> **[[EU|欧盟]]与[[OECD|经合组织]]的数据基础设施共生与跨国协调** 索蒂里亚·格雷克（[[Sotiria Grek]]）揭示，数据基础设施在超国家层面的运作呈现跨机构共生特征。受《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]限制，[[EU|欧盟]]缺乏直接立法权与独立的测评开发能力；[[European Commission|欧盟委员会]]通过资助成员国 80% 的 [[PISA]] 调查参与成本、直接采购经合组织 50%–60% 的基础统计数据（依托 [[UOE Data Collection|UOE]] 数据集），并常态嵌入 [[International Indicators of Education Systems|INES]] 指标委员会，深度借用经合组织的数据基础设施。这种跨机构共生使欧盟得以在不修改宪制条约的前提下，依托可比数据与同行学习压力推进[[European Education Space|欧洲教育空间]]的一体化治理。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
 
 ---
 
@@ -185,7 +185,7 @@ updated: 2026-10-22
 > | **治理张力命题** | 数据系统必然在简化、[[Commensuration\|通约]]、时效、公开与博弈五维两难中求取妥协 | 绩效仪表盘设计、社会经济指数编制、资源分配与高利害问责 | Hartong & Förschler; Ozga (2009) |
 > | **权力重构命题** | 基础设施通过次级表象行使分布式权力，呼唤培育数据基础设施素养 | 批判性教育治理研究、教育算法审计、公民与师生民主参与 | Kitchin (2014); Gray et al. (2018) |
 > | **证据合成命题** | 独立于商业出版的中央证据数据基础设施与全量归档制度可阻断发表偏倚，支撑动态一级元分析 | 循证证据库治理、元分析基础设施规范与学术成果评价改革 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
-> | **超国家共生命题** | 缺乏直接立法管辖权的超国家中枢通过资金分担与指标采购嵌入外部数据基础设施，实现区域教育空间协调 | 跨国教育指标体系建设、欧盟软法协调与全球数字治理 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
+> | **超国家共生命题** | 缺乏直接立法管辖权的超国家中枢通过资金分担与指标采购嵌入外部数据基础设施，实现区域教育空间协调 | 跨国[[Performance Indicators\|教育指标]]体系建设、欧盟软法协调与全球[[Governing by Numbers\|数字治理]] | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
 
 ---
 
@@ -231,7 +231,7 @@ updated: 2026-10-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 32–35)]] | 欧盟委员会（EC）与经合组织（OECD）跨机构数据合作机制 | 政策文献、预算审计与决策官员深度访谈 | 跨国数据基础设施共生度、资金资助比例与指标采纳率 | 欧盟预算直接承担成员国 80% 的 PISA 参与成本；欧盟里斯本战略指标报告中 50%–60% 基础数据直接采购于经合组织；依托 UOE 联合数据集并在 INES 科学委员会享有常态法定席位 | 质性深度饱和分析与预算规程考证 | 证实超国家机构在缺乏硬法立法权下，通过嵌入外部数据基础设施实现欧洲教育空间的一体化软性治理 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 32–35)]] | 欧盟委员会（EC）与经合组织（OECD）跨机构数据合作机制 | 政策文献、预算审计与决策官员[[In-depth Interview\|深度访谈]] | 跨国数据基础设施共生度、资金资助比例与指标采纳率 | 欧盟预算直接承担成员国 80% 的 PISA 参与成本；欧盟[[Lisbon Strategy\|里斯本战略]]指标报告中 50%–60% 基础数据直接采购于经合组织；依托 UOE 联合数据集并在 INES 科学委员会享有常态法定席位 | 质性深度饱和分析与预算规程考证 | 证实超国家机构在缺乏硬法立法权下，通过嵌入外部数据基础设施实现欧洲教育空间的一体化软性治理 |
 > | [[Argument_Hartong_2018_GSE\|Hartong (2018, pp. 140–145)]] | 德国 16 个联邦州、[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 与[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB） | 纵向多层级质性[[Case Study\|案例研究]]与专家访谈 | 跨尺度测评网络、题库数字化与中央数据库集成 | [[Vergleichsarbeiten\|VERA]] 测评自 2004 年后覆盖全德 16 州；IQB 在 FDZ 统筹集成国内外多源大规模评估数据库并运营标准教学任务平台 | 质性规程与机制追踪 | 证实数据基础设施在法律禁止公开排名的环境下依然能够重构治理拓扑并实现[[Governing at a Distance\|远处治理]] |
 > | [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019, p. 3)]] | 美国[[Massachusetts Department of Elementary and Secondary Education\|马萨诸塞州中小学教育部]]（DESE）、德国汉堡市学校与职业教育局（BSB）及[[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展研究所]]（IfBQ） | 跨国[[Comparative Case Study\|比较案例研究]]与半结构化专家访谈 | 基础设施运作节点、数据流转规程与官员认知张力 | 开展 16 场[[In-depth Interview\|深度访谈]]（涵盖 20 位州级专业数据与政策官员）；确认数据流转贯穿采集、校验、建模与呈报四级架构 | 质性深度饱和 | 揭示了美德先锋州在全域数据化监测中普遍遭遇的五维做数据张力，证实系统非线性烹饪本质 |
 > | [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019, pp. 6–7)]] | 马萨诸塞州 RADAR 系统与汉堡社会指数（Hamburger Sozialindex） | 政策技术规程与在线仪表盘系统实证分析 | 统计对标算法推荐上限与社会指数分级体系 | RADAR 系统默认向学区推荐 10 所跨地域人口统计特征相似的学区展开资源对标；汉堡社会指数设立 1–6 级阶梯作为资源倾斜与统计基准 | 法定技术规程 | 呈现[[Commensuration\|通约]]算法在基层遭遇的地域文化抵制及行政系统的妥协应对 |

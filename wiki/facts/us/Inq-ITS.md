@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -91,7 +91,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 项目推进历程
 > - **2010–2013 — 算法奠基与探究技能日志挖掘验证** 研发基于贝叶斯网络与机器学习的自动化技能探测器，确立算法对中学生[[Control of Variables Strategy\|控制变量策略]]识别的准确率媲美人类专家，发表标杆论文（Gobert et al., 2013）。
-> - **2014–2018 — 智能代理 Rex 上线与实时自适应支架突破** 正式引入拟人化数字导师 Rex，实现从纯后台被动评价转向前台主动按需[[Scaffolding\|脚手架]]推送，实证检验在线数据解释与实验设计干预实效（Gobert et al., 2018）。
+> - **2014–2018 — 智能代理 Rex 上线与实时自适应支架突破** 正式引入拟人化数字导师 Rex，实现从纯后台被动评价转向前台主动按需[[Scaffolding\|脚手架]]推送，实证检验在线数据解释与[[Experimental Research|实验设计]]干预实效（Gobert et al., 2018）。
 > - **2019–2021 — 技能长周期远迁移与师机协同拓展** Li et al. (2019) 确证 AI 支架所激发的探究技能在跨学科任务中展现出长效抗衰退韧性；配套研发面向一线教师的实时预警看板 [[Inq-Blotter]]（Dickler et al., 2021）。
 > - **2022–至今 — 全美规模化推广与自适应公平生态** 成立 Apprendis 进行全美大规模部署，深度整合多模态生成式技术与教师工作流，成为美国科学探究[[Intelligent Tutoring Systems\|智能导师系统]]的领跑者（Gobert et al., 2023；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]）。
 
@@ -114,7 +114,7 @@ updated: 2026-10-22
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |

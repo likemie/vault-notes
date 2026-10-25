@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -130,7 +130,7 @@ updated: 2026-10-22
 
 > [!policy-design] 对科学教育与政策评估的深远影响
 > - **重塑公众[[Scientific Literacy\|科学素养]]内涵** 科学教育不能停留在[[Rote Learning\|死记硬背]]既定公式与定理的“常态科学”思维，必须培养学生理解科学探究过程、数据不完备性以及应对后常规争论的[[Critical Thinking\|批判性思维]]与[[Data Literacy\|数据素养]]。
-> - **推动法定政策评估指南深化** 促使英国财政部《[[The Green Book\|绿皮书]]》等国家顶层政策评估规程，将对后常规问题中系统不确定性的评估从内部闭门技术核算升级为面向全社会的公开证据陈述。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 86–87)]]
+> - **推动法定政策评估指南深化** 促使[[HM Treasury|英国财政部]]《[[The Green Book\|绿皮书]]》等国家顶层政策评估规程，将对后常规问题中系统不确定性的评估从内部闭门技术核算升级为面向全社会的公开证据陈述。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 86–87)]]
 
 ---
 

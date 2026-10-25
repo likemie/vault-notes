@@ -53,13 +53,13 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1965 年由林登·约翰逊（Lyndon B. Johnson）总统签署《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（Elementary and Secondary Education Act of 1965, ESEA）》设立，后续历经 2001 年《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]（No Child Left Behind Act, NCLB）》与 2015 年《[[Every Student Succeeds Act\|每一个学生成功法]]（Every Student Succeeds Act, ESSA）》再授权，由美国联邦教育部（U.S. Department of Education）主导实施。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 162)]]
+> - **发布时间 / 发布主体** 1965 年由林登·约翰逊（Lyndon B. Johnson）总统签署《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]（Elementary and Secondary Education Act of 1965, ESEA）》设立，后续历经 2001 年《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]（No Child Left Behind Act, NCLB）》与 2015 年《[[Every Student Succeeds Act\|每一个学生成功法]]（Every Student Succeeds Act, ESSA）》再授权，由[[United States Department of Education|美国联邦教育部]]（U.S. Department of Education）主导实施。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 162)]]
 > - **适用地区 / 对象** 全美各州教育厅（State Educational Agency, SEA）、地方教育机构（Local Educational Agency, LEA）及贫困生比例较高的公立中小学校与低收入家庭学龄儿童。
 > - **问题背景** 作为向贫困宣战（War on Poverty）的[[CORE Education|核心教育]]支柱，政策旨在通过联邦补充性转移支付，打破贫困与低[[Academic Achievement\|学业成就]]之间的代际循环，弥合处境不利儿童与同龄人之间的教育机会与学业鸿沟。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 164–165)]]
 > - **制度位置** 属于美国联邦基础教育资助体量最大的专项拨款（[[Categorical Funding]]），年度资助规模达 140 亿至 165 亿美元以上，是联邦教育政策介入地方学区办学行为最核心的财政杠杆。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162, 164)]]
@@ -94,7 +94,7 @@ updated: 2026-10-22
 > - **发布与监管主体** 美国联邦教育部（负责规则制定与非强制性指南发布）及各州教育厅（负责审核学区 [[Every Student Succeeds Act\|ESSA]] 方案与拨款分配）。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 163–164)]]
 > - **执行主体** 地方教育机构（学区中心办公室与项目管理部门）及各公立学校校长与教师。
 > - **适用对象** K–12 阶段低收入、少数族裔、英语学习者（English Learner, EL）及有特殊教育需求的学生。
-> - **政策工具** 联邦项目资金直拨、校级全校改进项目自主权、外购商业教学软件与专业发展合同。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 167–170)]]
+> - **政策工具** 联邦项目资金直拨、校级[[Whole-School Improvement|全校改进]]项目自主权、外购商业教学软件与专业发展合同。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 167–170)]]
 
 > [!pathways] 实施路径
 > - **中央到地方分配机制** 联邦资金按人口普查贫困数据下拨至各州，各州转拨至学区；大型学区通常将约三分之二资金按校内贫困生规模下达给各公立学校用于全校项目（采购师资编制、辅导服务、软件教材），约三分之一保留在学区中心办公室用于跨校通识培训、暑期项目及教学辅导支持。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 167)]]

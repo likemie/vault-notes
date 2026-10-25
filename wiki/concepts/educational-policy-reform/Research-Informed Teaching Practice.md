@@ -79,13 +79,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] Research-Informed Teaching Practice
-> 研究知情教学实践（Research-Informed Teaching Practice, RITP）指教育者以发表的学术研究成果（如同行评议论文、[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]报告与循证工具包）为依据组织教学决策与课堂实践的专业取向。英国教育部（Department for Education, DfE）将其界定为“实践者专业智慧与最佳外部研究及评估证据的有机结合”（DfE, 2014）。在《Educational Research》特刊中，[[Argument_Brown_2017_EducRes\|Brown et al. (2017, pp. 159–160)]] 与 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 129)]] 明确指出，“研究知情”（research-informed）根本不同于[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP）：学术研究证据只是完整证据知情拼图（evidence-informed [[Jigsaw]]）中的一块关键碎片。RITP 必须与[[Data-Based Decision Making\|基于数据的决策]]（Data-Based Decision-Making, DBDM）、课堂形成性数据及教师[[Professional Judgment\|专业判断]]深度嵌合，才能克服学术证据脱离校本学情的悬浮风险。
+> 研究知情教学实践（Research-Informed Teaching Practice, RITP）指教育者以发表的学术研究成果（如同行评议论文、[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]报告与循证工具包）为依据组织教学决策与课堂实践的专业取向。[[Department for Education|英国教育部]]（Department for Education, DfE）将其界定为“实践者专业智慧与最佳外部研究及评估证据的有机结合”（DfE, 2014）。在《Educational Research》特刊中，[[Argument_Brown_2017_EducRes\|Brown et al. (2017, pp. 159–160)]] 与 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 129)]] 明确指出，“研究知情”（research-informed）根本不同于[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP）：学术研究证据只是完整证据知情拼图（evidence-informed [[Jigsaw]]）中的一块关键碎片。RITP 必须与[[Data-Based Decision Making\|基于数据的决策]]（Data-Based Decision-Making, DBDM）、课堂形成性数据及教师[[Professional Judgment\|专业判断]]深度嵌合，才能克服学术证据脱离校本学情的悬浮风险。
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦外部学术实证研究成果向课堂日常教学的转译、情境化改编与实践嵌入机制。

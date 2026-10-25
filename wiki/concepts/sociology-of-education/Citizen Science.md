@@ -58,7 +58,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -88,7 +88,7 @@ updated: 2026-10-22
 >
 > - **科研生产力与海量时空数据赋能（Scientific Data & Scalability）** 突破传统职业科研团队在资金、编制与地理覆盖面上的物理瓶颈，构建数以百万计的连续时空监测数据集，为国家生态红线规划与复杂[[Big Science|大科学工程]]提供基准底座。
 > - **[[Nature of Science|科学本质]]理解与探究心智培育（Nature of Science & Epistemic Mindset）** 使公众亲身经历提出问题、收集证据、辨别噪声与验证假说的完整科研过程，深刻领会科学知识的证据驱动性与暂定性，破除对静态教科书结论的教条迷信。
-> - **第三部门会员网络与法定政策转化（Third-Sector Mobilisation & Policy Impact）** 依托大型会员制公益机构（如英国国家信托拥有逾 500 万会员、英国皇家鸟类保护协会（Royal Society for the Protection of Birds, RSPB））动员全社会参与物种普查，将公民科学数据直接接入国家生物多样性网络与环境立法。
+> - **第三部门会员网络与法定政策转化（Third-Sector Mobilisation & Policy Impact）** 依托大型会员制公益机构（如英国国家信托拥有逾 500 万会员、英国皇家鸟类保护协会（[[Royal Society]] for the Protection of Birds, RSPB））动员全社会参与物种普查，将公民科学数据直接接入国家生物多样性网络与环境立法。
 > - **社区赋权与民主环境行动力（Community Agency & Environmental Action）** 通过在地化课题与身心健康研究，将抽象的科技原理转化为公众可感知、可操作的切身生活实践，极大激发公民的[[Self-Efficacy|自我效能感]]与集体环保治理行动力。
 
 > [!ref-table] 公民科学与非正式参与四级评估体系架构（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society, 2026, p. 51]]）
@@ -108,7 +108,7 @@ updated: 2026-10-22
 > **应用实例** 在 The Ideas Fund 资助的社区健康与环境项目中，欠发达地区的草根居民打破了传统“学者研究居民”的单向对象化关系，自主掌管资金并定义[[Research Problem|研究议题]]，实现了科研赋权与社区凝聚力的双重提升。
 
 > [!concept-proposition] 命题二｜去中心化极简协议能够有效击穿物理场馆集聚与阶层资本壁垒
-> **解释** 相比过度集聚于大都会核心区的高门槛科技场馆，依托智能终端与极简观测协议（如 15 分钟户外计数）的公民科学项目，能够将科学参与阵地无缝延伸至家庭后院、乡村绿地与社区公园，有效穿透地理偏远与社会经济阶层壁垒，实现普惠均等的高质量科学参与。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 43, 48)]]
+> **解释** 相比过度集聚于大都会核心区的高门槛科技场馆，依托智能终端与极简观测协议（如 15 分钟户外计数）的公民[[Science Programs|科学项目]]，能够将科学参与阵地无缝延伸至家庭后院、乡村绿地与社区公园，有效穿透地理偏远与社会经济阶层壁垒，实现普惠均等的高质量科学参与。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 43, 48)]]
 >
 > **应用实例** [[Big Butterfly Count|大蝴蝶计数]]每年盛夏动员全英逾 10 万名公众参与，极大吸引了非传统场馆访客群体，成为英国参与面最广、空间穿透力最强的全民科研行动。
 
@@ -162,7 +162,7 @@ updated: 2026-10-22
 > | **[[Big Butterfly Count\|大蝴蝶计数]]** | 英国蝴蝶保护协会 / 生态学与昆虫学 | 每年盛夏逾 **10 万**名公众参与（每次 15 分钟） | 累计近百万条高空间分辨率蝴蝶与日行蛾类点位数据 | 直接接入英国国家生物多样性网络（NBN），支撑 Defra 制定《英格兰物种恢复战略》。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 43)]] |
 > | **[[The Perception Census\|感知普查]]** | 苏塞克斯大学与 Collective Act / 认知神经科学 | 全球 100 多个国家逾 **20,000** 名受访者 | 建立了人类认知科学史上规模最大、维度最全的知觉多样性开放数据库 | 参与者获得专属知觉指纹画像，从[[Epistemology\|认识论]]根基上重塑对神经多样性的社会包容。 |
 > | **Zooniverse 众包平台** | 牛津大学等联合发起 / 天文、历史与生物学 | 全球数百万注册志愿者协同[[Homework\|作业]] | 完成数亿次星系形态分类、历史手稿[[Transcription in Qualitative Research\|转录]]与野生动物红外图像标注 | 催生数百篇国际顶级学术论文，成为全球数字公民科学的标准基础设施。 |
-> | **The Ideas Fund** | 英国科学协会与惠康信托 / 社区健康与环境 | 赫尔、奥德姆等欠发达地区草根团体 | 社区自主界定研究课题并掌管数百万英镑资金 | 彻底反转学者与社区的资助权力关系，树立社区主导型公民科学典范。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 44)]] |
+> | **The Ideas Fund** | 英国科学协会与[[Wellcome Trust\|惠康信托]] / 社区健康与环境 | 赫尔、奥德姆等欠发达地区草根团体 | 社区自主界定研究课题并掌管数百万英镑资金 | 彻底反转学者与社区的资助权力关系，树立社区主导型公民科学典范。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|(The Royal Society, 2026, p. 44)]] |
 > | **RSPB 大花园鸟类普查** | 英国皇家鸟类保护协会（RSPB）/ 鸟类生态学 | 英国逾 **50 万**家庭每年冬季参与观测 | 历经 40 余年连续监测全英花园鸟类种群消长数据 | 为英国政府编制野生鸟类官方种群指数提供底层证据，驱动庭院生态保护政策。 |
 
 ---

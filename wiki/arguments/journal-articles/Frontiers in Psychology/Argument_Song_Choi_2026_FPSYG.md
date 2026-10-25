@@ -101,7 +101,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-20
-updated: 2026-10-22
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Song_Choi_2026_FPSYG"
@@ -353,7 +353,7 @@ issuing_organization: ""
 >   - **课程与制度生态** 韩国教育部推行的国家课程改革在小学阶段得以完整落实，强调“以学习者为中心”的探究性学习与跨学科概念建构。小学阶段完全不存在升学统考和高利害排名压力，课堂评价以[[Formative Assessment\|形成性评价]]与质性反馈为主。
 >   - **实证案例深入**
 >     - **数学探究案例** Yoo and Yum (2019) 针对 810 名小学六年级学生的研究发现，相信“学习能力可通过努力扩展、数学解题需要渐进探索”的学生，在复杂数学[[Problem Solving\|问题解决]]（Mathematical Problem Solving）中展现出极高的[[Self-Efficacy\|自我效能感]]与策略迁移能力。
->     - **科学探究案例** Kim et al. (2025) 针对 309 名小学 4–6 年级学生的研究证实，具备多维认识论认知的学生表现出强烈的科学探究动机，在实验设计与证据解释中频繁运用深层元认知调节策略。
+>     - **科学探究案例** Kim et al. (2025) 针对 309 名小学 4–6 年级学生的研究证实，具备多维认识论认知的学生表现出强烈的科学探究动机，在[[Experimental Research|实验设计]]与证据解释中频繁运用深层元认知调节策略。
 >     - **[[Learner Autonomy\|自主学习]]案例** So (2013) 针对 476 名小学四/六年级学生的研究指出，对学习速度和能力的成熟信念直接拉动了学生的自主提问频率（Frequency of Asking Questions）与深层概念建构。
 >   - **转化机制** 宽松的课堂生态与探究导向的教学活动为学生的成熟认知信念提供了直接的应用[[Champ\|场域]]，学生在探究中体验到认知冲突与反思的价值，使认识论认知转化为显著的学业与动机红利。
 > - **二、 初中阶段（Middle School, 7–9 年级，$r = 0.142$）：[[Free Semester System|自由学期制]]与早期分流的剧烈阵痛**

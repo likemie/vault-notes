@@ -81,7 +81,7 @@ sources:
 part_of:
 status: active
 created: 2026-09-22
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Wu_2025_ER"
@@ -112,7 +112,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **研究对象** 大语言模型介入下大学生的[[Epistemic Cognition\|认识论认知]]过程，聚焦高级统计学课程中学生解决实际复杂问题时的人机对话协议、质询路径与决策依据。
 > - **理论张力** 大模型输出的表面连贯性引发的学习者表层顺从与认知卸载，与解决复杂[[Wicked Problem|劣构问题]]所必须的人类[[Epistemic Agency\|认识能动性]]（Epistemic Agency）和批判性质询之间的深层张力。
-> - **核心贡献** 修订[[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai, 2004）基于信息检索的网络学习认识论假说，建构人机自适应认识立场与共生学习理论框架，实证解构绝对论、多元论与评价论在人机协同中的微观交互机制并提出双轨干预路径。
+> - **核心贡献** 修订[[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai, 2004）基于信息检索的[[Web-Based Learning|网络学习]]认识论假说，建构人机自适应认识立场与共生学习理论框架，实证解构绝对论、多元论与评价论在人机协同中的微观交互机制并提出双轨干预路径。
 
 ---
 
@@ -161,7 +161,7 @@ issuing_organization: ""
 
 #### 1. 生成式大模型输出的即时完整性容易诱发认知卸载与认识依赖
 
-与传统[[Intelligent Tutoring Systems|智能教学系统]]（Intelligent Tutoring Systems, ITS）通常依赖预设规则、结构化题库和固定分支路径来提供反馈不同，新型生成式人工智能展现出高度流畅的多轮自然语言对话、开放式文本生成与逻辑推理推演能力。例如，由可汗学院开发的专用教学系统 [[Khanmigo]] 深度融合了[[Socrates|苏格拉底]]追问法与检索增强生成（RAG），但通用大模型若缺乏专门设计，则极易给学习者的认知加工带来严重冲击。
+与传统[[Intelligent Tutoring Systems|智能教学系统]]（Intelligent Tutoring Systems, ITS）通常依赖预设规则、结构化题库和固定分支路径来提供反馈不同，新型生成式人工智能展现出高度流畅的多轮自然语言对话、开放式[[Text Generation|文本生成]]与逻辑推理推演能力。例如，由可汗学院开发的专用教学系统 [[Khanmigo]] 深度融合了[[Socrates|苏格拉底]]追问法与检索增强生成（RAG），但通用大模型若缺乏专门设计，则极易给学习者的认知加工带来严重冲击。
 
 > [!feature] 生成式人工智能介入教育的双重效应与认知危机
 > - **多轮对话与拟人化支持** 能够依据学习者的模糊提问即时给出条理清晰、步骤详尽的整合性解答，极大地降低了寻找分散资料的时间成本。

@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -64,7 +64,7 @@ updated: 2026-10-22
 > **Galaxy Math（银河数学）** 是由范德堡大学（Vanderbilt University）林恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）等知名特殊教育学者研发的小学一年级数学 Tier 3 个别化干预方案；其核心目标是通过低成本教学助教实施一对一辅导并高度融合[[Man-Computer Symbiosis|人机协同]]的计算机化运算软件，帮助一年级数学困难严重的高危儿童克服加减法运算事实（Math Facts）提取障碍并建立扎实的基础算术自动化能力。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
-> - **立项时间与周期** 研发始于 2000 年代末，受美国联邦教育部[[Institute of Education Sciences\|教育科学研究院]]（IES）数学学习障碍专项资助，经严格多中心现场随机试验检验后推广应用。
+> - **立项时间与周期** 研发始于 2000 年代末，受[[United States Department of Education|美国联邦教育部]][[Institute of Education Sciences\|教育科学研究院]]（IES）数学学习障碍专项资助，经严格多中心现场随机试验检验后推广应用。
 > - **发起方与资助机制** 范德堡大学皮博迪教育学院特教系牵头，IES 提供专项实证科研资助。
 > - **覆盖范围与对象** 公立小学一年级经通用筛查确认在数字识别与 10 以内加减法运算流利度上落入全校后 10%–15% 的高危儿童。
 > - **核心问题导向** 破解传统助教辅导中重复机械操练效率低下且易产生枯燥抵触的痛点，探索如何利用自适应人机交互软件分担高频事实提取训练，使助教精力更集中于概念点拨与情绪支持。

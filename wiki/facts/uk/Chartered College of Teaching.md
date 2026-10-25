@@ -47,11 +47,11 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!claim] 核心定位
-> 英国特许教学学院（Chartered College of Teaching，CCT）是于 2017 年在英国皇家特许状授权下重组设立的独立教师专业团体，在英国教育部（Department for Education，DfE）政策扶持下运作，旨在通过促进教育科研与课堂实践深度结合以推广循证教学理念，并在[[Policy Network\|政策网络]]中扮演官方认可的教师专业代言声音（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 93]]）。
+> 英国特许教学学院（Chartered College of Teaching，CCT）是于 2017 年在英国皇家特许状授权下重组设立的独立教师专业团体，在[[Department for Education|英国教育部]]（Department for Education，DfE）政策扶持下运作，旨在通过促进教育科研与课堂实践深度结合以推广循证教学理念，并在[[Policy Network\|政策网络]]中扮演官方认可的教师专业代言声音（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 93]]）。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 前身为具有悠久历史的英国教师学院（College of Teachers，可追溯至 1846 年特许教师学会 College of Preceptors）；2010 年代在联合政府深化教师教育市场化与“[[Evidence Era\|证据时代]]”改革背景下重组，2017 年在教育部启动资金扶持下正式运作。
@@ -97,7 +97,7 @@ updated: 2026-10-22
 > > [!axis] 专业自主性与行政依附的张力
 > > 争论焦点在于 CCT 究竟是代表一线教师独立声音的自主专业共同体，还是政府推行特定意识形态改革的政策工具。
 > >
-> > - **官方叙事与倡导者立场** 强调建立类似医学皇家学会的去政治化专业团体，摆脱传统教师工会的政治对抗，通过实证标准提升整个行业的专业声誉与自主权。
+> > - **官方叙事与倡导者立场** 强调建立类似医学[[Royal Society|皇家学会]]的去政治化专业团体，摆脱传统教师工会的政治对抗，通过实证标准提升整个行业的专业声誉与自主权。
 > > - **批判制度主义视角（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]）** CCT 的创设与初期资金高度依赖教育部自上而下的政策安排。在教育部扮演排他性[[Gatekeepers\|守门人]]（Gatekeepers）的体制下，政府通过选择性扶植 CCT 与 TSC 等听话的专业代理人，重构了[[Policy Network\|政策网络]]的准入壁垒，实质上边缘化了传统具有批判性的大学教师教育机构（如全国教师教育大学理事会 Universities’ Council for the Education of Teachers，UCET）与工会的声音，使专业团体在很大程度上内嵌了对官方政策偏好的顺从。
 
 ---

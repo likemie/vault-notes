@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-16
+updated: 2026-10-26
 ---
 
 ---
@@ -67,7 +67,7 @@ updated: 2026-10-16
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1990 年正式设立，先后历经四期工程（TEMPUS I 至 TEMPUS IV），持续推进至 2013 年底；2014 年整体整合并入新一代欧盟“伊拉斯谟+”（Erasmus+）全球教育、培训与青年行动框架。
-> - **发起方与资助机制** 由欧盟委员会（European Commission）主导发起并全额资助，依托欧盟外部援助基金（如 PHARE、TACIS、CARDS 与 MEDA 计划），通过竞争性“联合欧洲项目”（Joint European Projects，JEP）与“结构性措施”（Structural Measures）拨款实施。
+> - **发起方与资助机制** 由[[European Commission|欧盟委员会]]（European Commission）主导发起并全额资助，依托欧盟外部援助基金（如 PHARE、TACIS、CARDS 与 MEDA 计划），通过竞争性“联合欧洲项目”（Joint European Projects，JEP）与“结构性措施”（Structural Measures）拨款实施。
 > - **覆盖范围与对象** 覆盖欧盟所有成员国高校以及数十个非欧盟伙伴国（涵盖西巴尔干、前苏联加盟共和国及中东、北非地中海沿岸国）；资助数以万计的大学教师、行政主管与研究生开展跨国互访与学术研修。
 > - **核心问题导向** 协助前计划经济体制国家消除封闭隔绝的高等教育壁垒，重构严重教条化的专业大纲与院系架构，对齐[[Bologna Process|博洛尼亚进程]]的跨国学位质量标准。
 
@@ -97,7 +97,7 @@ graph TD
 
 > [!citation-card|notitle]
 > **[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 论 TEMPUS 项目中的空间治理与[[Social Imaginary|社会想象]]**
-> 天普计划专门面向欧盟与东欧、西巴尔干、中东及北非伙伴国之间的高等教育机动性，拓展了这种跨国现代化与相互学习工程，有效巩固了将‘流动性’（Mobility）与围绕参与式网络构筑的‘欧洲社会想象’（European Social Imaginary）深度绑定的制度联系。这绝非暗示 TEMPUS 项目不会产生排斥（Lawson et al., 2003; Walsh et al., 2005），而是强调当前在欧洲作为教育政策核心问题的‘[[Student Mobility|学生流动]]’，是如何与身份认同建构紧密缠绕在一起——它将个体的物理位移、灵活性以及多元文化素养，规范化为享有完全权利公民（Enfranchised Citizen）的法定资质。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> 天普计划专门面向欧盟与东欧、西巴尔干、中东及北非伙伴国之间的高等教育机动性，拓展了这种跨国现代化与[[Mutual Learning|相互学习]]工程，有效巩固了将‘流动性’（Mobility）与围绕参与式网络构筑的‘欧洲社会想象’（European Social Imaginary）深度绑定的制度联系。这绝非暗示 TEMPUS 项目不会产生排斥（Lawson et al., 2003; Walsh et al., 2005），而是强调当前在欧洲作为教育政策核心问题的‘[[Student Mobility|学生流动]]’，是如何与身份认同建构紧密缠绕在一起——它将个体的物理位移、灵活性以及多元文化素养，规范化为享有完全权利公民（Enfranchised Citizen）的法定资质。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 ---
 
@@ -119,7 +119,7 @@ graph TD
 > [!debates] 围绕天普计划的理论与现实争议
 >
 > > [!axis] 平等互惠学习 vs 规范单向输出（Asymmetric Norm Transfer）
-> > - **官方倡导叙事（European Commission）** 将 TEMPUS 描绘为基于大学平等伙伴关系的“现代化与相互学习”（Mutual Learning）工程，尊重伙伴国的主权独立与文化传统。
+> > - **官方倡导叙事（[[European Commission]]）** 将 TEMPUS 描绘为基于大学平等伙伴关系的“现代化与[[Mutual Learning|相互学习]]”（Mutual Learning）工程，尊重伙伴国的主权独立与文化传统。
 > > - **批判比较教育学者（Lawson et al., 2003; Walsh et al., 2005）** 揭示该项目具有强烈的单向“欧洲中心主义”倾向：欧盟高校扮演标准输出者与评估导师，伙伴国高校则处于被动的接受者与整改者地位；借现代化之名输出的西欧课程与治理模板，往往导致伙伴国传统本土学术生态遭受边缘化。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 >
 > > [!axis] 精英流动自由 vs 申根边界排斥（Enclave Mobility vs Border Abjection）

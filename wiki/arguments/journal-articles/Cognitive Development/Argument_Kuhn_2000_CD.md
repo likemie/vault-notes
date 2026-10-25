@@ -46,7 +46,7 @@ sources:
 part_of:
 status: active
 created: 2026-08-16
-updated: 2026-10-22
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kuhn_2000_CD"
@@ -111,7 +111,7 @@ issuing_organization: ""
 
 > [!stat-cards]- 样本构成
 > - **129** 研究一测试群组的[[Sample Size Determination\|样本量]]（N），含 5 年级（n=20，中位年龄10岁）、8 年级（n=25）、12 年级（n=21）、顶尖大学本科生（n=20）、内城区社区大学成人（n=20）、商学院高级管理人员工商管理硕士（Executive Master of Business Administration, EMBA）职场精英（n=18）、教育哲学专业博士候选人专家组（n=5）。
-> - **21** 研究二测试群组的样本量（N），私立学校课后项目中的 2-3 年级儿童（7-8岁）。
+> - **21** 研究二测试群组的样本量（N），私立学校[[After-school Programs|课后项目]]中的 2-3 年级儿童（7-8岁）。
 
 根据五个领域的知识特性设计的评估题项如下：
 

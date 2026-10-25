@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -104,7 +104,7 @@ updated: 2026-10-22
 > - **前提一** 组织依赖外部政治权威（如国家立法机关、教育行政部门）或垄断性资源提供者获取合法存续资质与核心资源。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, p. 183)]]
 >   > [!evidence-grid]- 证据
 >   > - **跨国[[Corporate Education\|企业教育]]案例** 微软（Microsoft）利用 Windows 操作系统在市场的寡头垄断地位与知识产权排他性，强制上下游生态企业采纳其认证培训项目。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, p. 193)]]
->   > - **教师教育政策案例** 英国教育部通过法定资质标准、核心内容框架及 [[Committee for the Accreditation of Teacher Education\|CATE]]/[[Ofsted]] 督导审查，强制大学与培训机构转型为校本技能与循证合规模式。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–93)]]
+>   > - **教师教育政策案例** [[Department for Education|英国教育部]]通过法定资质标准、核心内容框架及 [[Committee for the Accreditation of Teacher Education\|CATE]]/[[Ofsted]] 督导审查，强制大学与培训机构转型为校本技能与循证合规模式。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–93)]]
 > - **前提二** 违背权威规制将直接面临剥夺办学资质、失去生源拨款或遭受法律制裁的高昂制度成本。
 > - **推导** 资源不对称性与行政权威 $\rightarrow$ 组织为确保生存合法性 $\rightarrow$ 主动或被动调整内部结构以完全匹配外部法定规制 $\rightarrow$ 诱发[[Champ\|场域]]内的强制同构。
 

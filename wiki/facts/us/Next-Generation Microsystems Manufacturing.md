@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -86,7 +86,7 @@ updated: 2026-10-22
 
 > [!pathways] 实施路径与管理
 > - **纵向传导与支持** 建立面向外部用户的“开放准入协议（Open-Access Policy）”，杜绝传统国防设施过度保密导致的排外现象，确保商业初创公司与学术界平权使用。
-> - **横向跨部门协同** 与美国国防部[[Microelectronics Commons|微电子共用体]] 8 大枢纽及商务部 [[National Advanced Packaging Manufacturing Program|NAPMP]] 建立跨平台数据接口与流片转接机制。
+> - **横向跨部门协同** 与[[Department of Defense|美国国防部]][[Microelectronics Commons|微电子共用体]] 8 大枢纽及商务部 [[National Advanced Packaging Manufacturing Program|NAPMP]] 建立跨平台数据接口与流片转接机制。
 > - **动态反馈与调整** 针对多材料键合时的热膨胀系数（CTE）失配难题，依托在位计量与数字孪生实时优化反应温度与键合压力曲线。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 20, 27)]]
 
 ---

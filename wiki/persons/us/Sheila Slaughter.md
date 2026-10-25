@@ -45,7 +45,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -67,7 +67,7 @@ updated: 2026-10-22
 > - **1980s–2004年** 长期任教于亚利桑那大学高等教育研究中心，深入调查[[Bayh-Dole Act of 1980|拜杜法案]]（Bayh-Dole Act）对美国大学科研组织形态的微观重塑。
 > - **1997年** 出版开创性学术专著《[[Academic Capitalism|学术资本主义]]：政治、政策与[[Entrepreneurial University|创业型大学]]》，获 ASHE 年度杰出学术著作奖。
 > - **2004年起** 加盟佐治亚大学麦克比高等教育研究所任特聘讲席教授，系统跟踪全球[[Knowledge-Based Economy|知识经济]]中高校科学家的角色分化。
-> - **2010s–至今** 荣休并继续致力于对科研私有化、知识不平等与地缘技术竞争下大学[[Academic Freedom|学术自由]]受挫的实证批判。
+> - **2010s–至今** 荣休并继续致力于对科研私有化、[[Epistemic Inequality|知识不平等]]与地缘技术竞争下大学[[Academic Freedom|学术自由]]受挫的实证批判。
 
 ---
 
@@ -80,7 +80,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心思想
-> 斯劳特主张从政治经济学与批判制度主义视角审视[[Social Contract of Science|科学社会契约]]的演进。她反对将 1990 年代《[[Science in the National Interest 1994|科学与国家利益]]》以来的政策转型简化为“从旧契约走向单一新契约”的线性格局；实证指出，冷战后美国大学深陷多重互相冲突的[[Social Regime|制度规约]]之中，形成了国防军事残留契约（五角大楼高额订单）、经济与产业[[Competitiveness|竞争力]]契约（[[Bayh-Dole Act of 1980|拜杜法案]]与专利[[Technology Transfer|技术转移]]）以及全民健康契约（[[National Institutes of Health|NIH]] 巨额经费）长期并存、犬牙交错的多重契约结构。这种交叠使得大学科研不可逆地深涉全球市场化竞争，学术自治被深植于资本增殖逻辑与国家地缘竞争的复合框架中。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
+> 斯劳特主张从政治经济学与批判制度主义视角审视[[Social Contract of Science|科学社会契约]]的演进。她反对将 1990 年代《[[Science in the National Interest 1994|科学与国家利益]]》以来的政策转型简化为“从旧契约走向单一新契约”的线性格局；实证指出，冷战后美国大学深陷多重互相冲突的[[Social Regime|制度规约]]之中，形成了国防军事残留契约（[[Department of Defense|五角大楼]]高额订单）、经济与产业[[Competitiveness|竞争力]]契约（[[Bayh-Dole Act of 1980|拜杜法案]]与专利[[Technology Transfer|技术转移]]）以及全民健康契约（[[National Institutes of Health|NIH]] 巨额经费）长期并存、犬牙交错的多重契约结构。这种交叠使得大学科研不可逆地深涉全球市场化竞争，学术自治被深植于资本增殖逻辑与国家地缘竞争的复合框架中。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 
 > [!citation-card] 契约演进的非线性与多元交叠
 > 后冷战时期的科学政策转型实质上是各方利益在既有制度遗产上的妥协与叠置，有别于一次性完成的[[Paradigm|范式]]革命；多重契约的存在不仅赋予大学灵活调度资源的生存空间，也瓦解了传统科学共同体统一的学术价值标准。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]

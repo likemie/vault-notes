@@ -58,13 +58,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-14
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> 证据网络（Evidence Network）起源于英国经济与社会研究委员会（Economic and Social Research Council，ESRC）于 1999 年资助设立的“英国循证政策与实践中心”（[[UK Centre for Evidence-based Policy]] and Practice），是以伦敦大学玛丽女王学院（Queen Mary University of London）与伦敦国王学院（King's College London）等多所顶尖大学为核心节点建立的全国性跨部门[[Knowledge Mediation|知识中介]]网络；在当代教育与公共治理语境中，它指涉连接学术科研界、政策决策层与基层实践者的关系型[[Knowledge Mobilisation|知识动员]]网络架构，致力于通过长期合作与多方对话打破学术孤岛，促进实证研究在政策制定与专业实践中的有效利用。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, pp. 330–335)]]; [[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]
+> 证据网络（Evidence Network）起源于英国经济与社会研究委员会（[[Economic and Social Research Council]]，ESRC）于 1999 年资助设立的“英国循证政策与实践中心”（[[UK Centre for Evidence-based Policy]] and Practice），是以伦敦大学玛丽女王学院（Queen Mary University of London）与伦敦国王学院（King's College London）等多所顶尖大学为核心节点建立的全国性跨部门[[Knowledge Mediation|知识中介]]网络；在当代教育与公共治理语境中，它指涉连接学术科研界、政策决策层与基层实践者的关系型[[Knowledge Mobilisation|知识动员]]网络架构，致力于通过长期合作与多方对话打破学术孤岛，促进实证研究在政策制定与专业实践中的有效利用。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, pp. 330–335)]]; [[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1999 年由英国 ESRC 拨款设立，直接响应布莱尔新工党政府推动的“何者有效”（What Works）公共政策转型，直面学术科研产出与政府决策需求脱节的结构性困境。
@@ -84,7 +84,7 @@ updated: 2026-10-23
 > [!actor-grid] 组织治理架构
 > - **决策机构（网络协调中枢）** 大学政策研究所、跨学科研究中心或中介智库秘书处，负责策划跨界活动并维护网络日常联络。
 > - **执行与研发主体** 大学学者、实证评估专家与学科带头人，负责提供严谨学术证据并参与前沿咨询。
-> - **政策决策伙伴** 中央各部委（如英国教育部 DfE、内阁办公室 Cabinet Office）官员、地方教育当局与议会委员会分析师。
+> - **政策决策伙伴** 中央各部委（如[[Department for Education|英国教育部]] DfE、内阁办公室 [[Cabinet Office]]）官员、地方教育当局与议会委员会分析师。
 > - **基层实践节点** [[School Leadership|学校领导]]者、骨干教研员与教师专业组织，负责在具体实践情境中验证与反馈证据效度。
 
 > [!pathways] 业务运行机制

@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -149,7 +149,7 @@ updated: 2026-10-22
 > 解释政府首发采购如何通过垫付高额早期溢价，帮助新兴技术供应商在真实应用场景中完成工艺排障与规模累积，使原本昂贵的尖端产品快速降价并外溢至民用市场。
 
 > [!claim] [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]]
-> **军方首发采购作为学习曲线加速器** 基拉·法布里齐奥（Kira R. Fabrizio）与戴维·莫厄里（[[David C. Mowery]]）指出，战后美国国防部（DoD）的集成电路（Integrated Circuit, IC）与计算机采购实质上扮演了“规模学习孵化器”的角色。在技术问世初期，民用市场无法承受集成电路极高的初始价格与不可靠的工艺良率；军方通过导弹制导系统（如“民兵”导弹）的大额首发订单，不仅为供应商提供了不计早期亏损的规模化试验场景，更强制要求推行第二供应商（[[Second-Sourcing]]）制度以共享制造诀窍。大批量军工生产使供应商得以在持续制造中排查晶圆缺陷，驱动芯片单位价格从 1962 年的 32 美元断崖式下跌至 1968 年的不足 2 美元。这一干中学过程使集成电路迅速突破民用商业化盈亏平衡点，外溢成为全行业[[General Purpose Technology|通用技术]]（[[General Purpose Technology]]）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]]
+> **军方首发采购作为学习曲线加速器** 基拉·法布里齐奥（Kira R. Fabrizio）与戴维·莫厄里（[[David C. Mowery]]）指出，战后[[Department of Defense|美国国防部]]（DoD）的集成电路（Integrated Circuit, IC）与计算机采购实质上扮演了“规模学习孵化器”的角色。在技术问世初期，民用市场无法承受集成电路极高的初始价格与不可靠的工艺良率；军方通过导弹制导系统（如“民兵”导弹）的大额首发订单，不仅为供应商提供了不计早期亏损的规模化试验场景，更强制要求推行第二供应商（[[Second-Sourcing]]）制度以共享制造诀窍。大批量军工生产使供应商得以在持续制造中排查晶圆缺陷，驱动芯片单位价格从 1962 年的 32 美元断崖式下跌至 1968 年的不足 2 美元。这一干中学过程使集成电路迅速突破民用商业化盈亏平衡点，外溢成为全行业[[General Purpose Technology|通用技术]]（[[General Purpose Technology]]）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]]
 
 > [!citation-card] 法布里齐奥与莫厄里论军方采购加速学习曲线
 > 国防部采购在促成制造良率提高与生产成本下降（即“干中学”效应）方面发挥了决定性作用。在这些新兴组件成本高昂且[[Reliability|可靠性]]未经验证的早期阶段，军方采购为供应商提供了至关重要的生产经验积累，使产品得以在民用市场中具备经济可行性。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]]

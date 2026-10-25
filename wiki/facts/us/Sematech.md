@@ -87,13 +87,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> 半导体制造技术战略联盟（Semiconductor Manufacturing Technology, SEMATECH）是由美国 14 家领先半导体制造企业与美国国防部[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）于 1987 年联合创设的非营利前竞争共性技术研发联合体（[[Precompetitive Research|precompetitive]] R&D Consortium）。在科技政策理论中，Sematech 是在[[Pasteur's Quadrant|巴斯德象限]]中打破企业恶性内耗与专利孤岛、依托公私资金对等匹配机制攻克全行业共性制造瓶颈的全球典范，并与[[EUV LLC]]、[[Human Genome Project|人类基因组计划]]共同构成了现代前竞争[[Big Science|大科学]]联合体的理论支柱。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 177)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724, 729–730)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45)]]
+> 半导体制造技术战略联盟（Semiconductor Manufacturing Technology, SEMATECH）是由美国 14 家领先半导体制造企业与[[Department of Defense|美国国防部]][[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）于 1987 年联合创设的非营利前竞争共性技术研发联合体（[[Precompetitive Research|precompetitive]] R&D Consortium）。在科技政策理论中，Sematech 是在[[Pasteur's Quadrant|巴斯德象限]]中打破企业恶性内耗与专利孤岛、依托公私资金对等匹配机制攻克全行业共性制造瓶颈的全球典范，并与[[EUV LLC]]、[[Human Genome Project|人类基因组计划]]共同构成了现代前竞争[[Big Science|大科学]]联合体的理论支柱。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 177)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724, 729–730)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1987 年设立于得克萨斯州奥斯汀。当时日本半导体企业全面领先美国，占据了全球动态随机存取内存（Dynamic Random-Access Memory, DRAM）80% 以上的市场份额，同时美国本土制造装备与材料供应商市场份额持续缩水，引发五角大楼对尖端武器微电子元器件依赖外国供应链的深层国家安全担忧。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1136)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 728–730)]]
@@ -144,7 +144,7 @@ updated: 2026-10-22
 > [!citation-card] 白宫科学委员会半导体小组对 Sematech 的战略定性
 > 当前世界竞争态势要求产业界在横向与纵向上进行更多合作，Sematech 提案的自发[[Emergence|涌现]]正是这种需求的证明。Sematech 未必是完美的工具，但它是一个重大的步伐、一个开端……它将增加产业各要素之间的沟通，可能鼓励 Sematech 外部出现新的联盟，甚至可能促进产业重构。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 289)]]
 >
-> *The current world competitive situation demands increasing cooperation both horizontally and vertically in the industry as evidenced by the spontaneous emergence of the Sematech proposal. Sematech is not necessarily the ideal instrument, but it is a significant step, a start. Indeed, it is generally agreed even by those advocating Sematech that it will not solve all the industries' problems. However, it will increase communication between elements of the industry, and may encourage new coalitions outside of Sematech, and may even facilitate industry restructuring.*
+> *The current world competitive situation demands increasing cooperation both horizontally and vertically in the industry as evidenced by the spontaneous emergence of the Sematech proposal. Sematech is not necessarily the ideal instrument, but it is a significant [[Skills Toward Employment and Productivity|step]], a start. Indeed, it is generally agreed even by those advocating Sematech that it will not solve all the industries' problems. However, it will increase communication between elements of the industry, and may encourage new coalitions outside of Sematech, and may even facilitate industry restructuring.*
 
 > [!citation-card] [[Michael Kratsios|克拉齐奥斯]]论前竞争技术联合体的制度准则与战略启示
 > 当技术所面临的科学原理已然明晰，而真正的瓶颈在于高风险、大资本规模的工程实现时，单一企业无法独自承担全行业共性的失败风险。Sematech 与 [[EUV LLC]] 展现了联邦政府作为战略召集者的关键制度效能：通过[[Counterpart Funds|对等资金]]匹配与中试平台建设，对齐产学研多元利益，成功攻克全行业的共性制造与装备断代危机。这一模式构成了当代《[[CHIPS and Science Act|芯片与科学法案]]》[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）的制度原型。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45)]]

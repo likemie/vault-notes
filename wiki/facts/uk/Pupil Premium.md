@@ -15,7 +15,7 @@ fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
-issuing_organization: "Department for Education"
+issuing_organization: "[[Department for Education]]"
 tags:
   - region/uk
   - theme/educational-equity
@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -80,7 +80,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 政策核心
-> 国家财政打破传统的按学校整体规模平均配给模式，以过去 6 年内有资格享受免费校餐（Ever 6 FSM）的学生人头为基准，向学校直接拨付非定向专项津贴；赋予中小学校长完全的经费支配自主权，但要求学校必须依据严格的实证科研证据合理规划开支，切实缩小弱势学生的学业差距。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 47–48)]]
+> 国家财政打破传统的按学校整体规模平均配给模式，以过去 6 年内有资格享受[[Free School Meals|免费校餐]]（Ever 6 FSM）的学生人头为基准，向学校直接拨付非定向专项津贴；赋予中小学校长完全的经费支配自主权，但要求学校必须依据严格的实证科研证据合理规划开支，切实缩小弱势学生的学业差距。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 47–48)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 阻断家庭背景与[[Academic Achievement\|学业成就]]之间的代际传递，提升 3 至 18 岁处境不利青少年的学业水平与生活技能，缩小全英学业成就鸿沟。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 48)]]
@@ -89,7 +89,7 @@ updated: 2026-10-22
 > - **约束机制** 英国教育标准局（[[Ofsted]]）将“学生津贴资金流向与弱势学生学业进展”列为入校督导审计的法定必查指标，要求学校在官方网站上公开年度学生津贴使用战略报告。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 237)]]
 
 > [!citation-card] 弱势群体专项资助与学业差距弥合
-> 英国教育部于 2011 年设立学生津贴（Pupil Premium），旨在通过直接向学校注资，提高处境不利学生的教育成就并缩小与同龄人之间的差距。为确保这些数以亿计的公共资金能够产生实际成效，政府出资支持成立了独立慈善信托教育捐赠基金会（EEF），并明确将 EEF 的核心使命定位于为一线校长提供最佳可用证据，指导学校科学分配学生津贴。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 280)]]
+> [[Department for Education|英国教育部]]于 2011 年设立学生津贴（Pupil Premium），旨在通过直接向学校注资，提高处境不利学生的教育成就并缩小与同龄人之间的差距。为确保这些数以亿计的公共资金能够产生实际成效，政府出资支持成立了独立慈善信托教育捐赠基金会（EEF），并明确将 EEF 的核心使命定位于为一线校长提供最佳可用证据，指导学校科学分配学生津贴。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 280)]]
 >
 > *"The Government established the Pupil Premium in 2011 to provide additional funding specifically aimed at raising the attainment of disadvantaged pupils and closing the gap between them and their peers. To support schools in spending this funding effectively, the Department for Education established the Education Endowment Foundation to synthesize evidence on the effectiveness of educational interventions and guide school decision-making."*
 

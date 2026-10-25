@@ -54,13 +54,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 全国教育进展评估（National Assessment of Educational Progress, NAEP）是美国由联邦国会立法授权实施的全国唯一连续性、具有全国代表性的中小学生[[Academic Achievement|学业成就]]监测项目，在公共舆论与学术界被公认为“国家成绩单”（The Nation's Report Card）。该项目由美国联邦教育部下属的国家教育统计中心（National Center for Education Statistics, NCES）负责运营，并在独立的全国评估管理委员会（National Assessment Governing Board, NAGB）监督下开展，为衡量各州学生真实认知水平提供了客观公尺。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
+> 全国教育进展评估（National Assessment of Educational Progress, NAEP）是美国由联邦国会立法授权实施的全国唯一连续性、具有全国代表性的中小学生[[Academic Achievement|学业成就]]监测项目，在公共舆论与学术界被公认为“国家成绩单”（The Nation's Report Card）。该项目由[[United States Department of Education|美国联邦教育部]]下属的国家教育统计中心（National Center for [[EdStats|Education Statistics]], NCES）负责运营，并在独立的全国评估管理委员会（National Assessment Governing Board, NAGB）监督下开展，为衡量各州学生真实认知水平提供了客观公尺。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 始创于 1969 年。历经半个多世纪的常态化周期性实施，通常每两年对全美四年级和八年级学生进行数学与阅读的核心测评，并按更长周期测查科学、历史、公民等学科及十二年级综合表现。
@@ -102,19 +102,19 @@ updated: 2026-10-22
 > [!pathways] 实施路径与管理
 > - **抽样与考务管理规程** NCES 与 NAGB 制定严格的考务安全协议与无党派数据管理规程；长年委托教育测试服务社（ETS）开展命题、评分与高级心理测量等值化分析。
 > - **跨州基准与长期趋势双轨运行** 实施主干测验（Main NAEP）与长期趋势测验（Long-Term Trend, LTT）双轨运作，不向任何具体个人或学校出具利害考评，确立了全美测试问责生态中的低利害国家基准抽样公尺。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 254)]]
-> - **刻度映射与政策反馈** NCES 通过将各州自设的熟练切分点映射至 NAEP 统一刻度，向全美公众和政策制定者公开发布“国家成绩单”，提供打破地方政策垄断的客观证据反馈。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
+> - **刻度映射与政策反馈** NCES 通过将各州自设的熟练切分点映射至 NAEP 统一刻度，向全美公众和政策制定者公开发布“国家成绩单”，提供打破地方[[Punctuated Equilibrium Theory|政策垄断]]的客观证据反馈。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
 
 ---
 
 > [!indicators] 评估指标体系
-> - **投入与覆盖指标** 联邦国会经常性预算拨款额、全美各州公立与私立学校抽样样本量（通常覆盖数十万学生）。
+> - **投入与覆盖指标** 联邦国会经常性预算拨款额、全美各州公立与私立学校抽样[[Sample Size Determination|样本量]]（通常覆盖数十万学生）。
 > - **过程与测量质控指标** 矩阵抽样完成率、IRT 跨期等值参数稳定性、自适应机考实施依从度。
 > - **产出与学业指标** 四年级、八年级与十二年级阅读与数学平均分尺度分（0–500 分）、三级成就水平（基础级、熟练级、高级）达标比例、各种族与社会经济阶层学业差距变动趋势。
 
 > [!finding-cards] 核心实证结论
 > - **击穿虚假及格率的“诚信鸿沟（Honesty Gap）”** 2007 年 NCES 映射研究成为打响全国标准改革的第一枪：田纳西州自评有高达 90% 的学生阅读合格，但在 NAEP 统一公尺下仅有 28% 达到熟练水平；各州为了逃避 [[No Child Left Behind Act 2001|NCLB]] 惩罚而展开的竞相向下沉沦被公之于众。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–10, 17–18)]]
 > - **提供跨世纪的教育公平追踪数据** 积累了美国长达半个世纪关于种族学业差距与贫富差距演变的连续数据，成为社会流动性研究不可或缺的底层数据源。
-> - **充当州级测评有效性的黄金校验计与低利害诊断基线** 韦尔赫等（[[Argument_Verger_2019_Discourse|Verger et al., 2019, p. 254]]）指出，NAEP 作为全美教育评估体系中的低利害抽样基线（Sampling Baseline），与 NCLB/RTTT 框架下的高利害全员统考形成了明确的功能分工与参照对照；各州在采纳 [[Common Core State Standards|CCSS]] 前后均以 NAEP 作为最终校正标尺。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 18)]]
+> - **充当州级测评有效性的黄金校验计与低利害诊断基线** 韦尔赫等（[[Argument_Verger_2019_Discourse|Verger et al., 2019, p. 254]]）指出，NAEP 作为全美教育评估体系中的低利害抽样基线（Sampling Baseline），与 NCLB/[[Race to the Top|RTTT]] 框架下的高利害全员统考形成了明确的功能分工与参照对照；各州在采纳 [[Common Core State Standards|CCSS]] 前后均以 NAEP 作为最终校正标尺。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 18)]]
 
 > [!stat-cards]- 标志性指标反差（NCES 2007 映射数据）
 > - **90% vs. 28%** 田纳西州原考卷自称阅读及格率（90%）与 NAEP 实际熟练率（28%）的极端悬殊反差。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
@@ -137,7 +137,7 @@ updated: 2026-10-22
 
 > [!lessons] 经验教训与启示
 > - **实施教训** 抽样测评虽能有效防范一线学校因高利害奖惩而采取的刷题舞弊与课程窄化异化，但若缺乏与学校改进资源的有效衔接，单纯的宏观数据发布难以直接转化为课堂微观教学变革。
-> - **对未来改革的启示** 确立独立、稳健且不受短期政治选举干扰的客观数据基础设施（Data Infrastructure），是衡量国家教育公平与诊断真实学业差距的根本基石。
+> - **对未来改革的启示** 确立独立、稳健且不受短期政治选举干扰的客观[[Data Infrastructure|数据基础设施]]（Data Infrastructure），是衡量国家教育公平与诊断真实学业差距的根本基石。
 
 ---
 
@@ -153,5 +153,5 @@ updated: 2026-10-22
 > | [[PISA]] | Fact (Program) | 国际学业测验，与 NAEP 一道揭示美国学生在应用型推理上的薄弱。 |
 > | [[National Governors Association]] | Fact (Organization) | 动员 NAEP 差距数据促使各州州长同意建立统一标准的最高行政联盟。 |
 > | [[Achieve]] | Fact (Organization) | 动员 NAEP 危机数据向公众和州议会进行游说推进的核心智库。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 深度剖析 NCES 的 NAEP 映射报告如何被政策企业家转化为议程工具的研究。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 深度剖析 NCES 的 NAEP 映射报告如何被[[Policy Entrepreneur\|政策企业家]]转化为议程工具的研究。 |
 > | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | Argument | 将 NAEP 界定为美国问责体制中与全员统考互为对照的低利害国家抽样基准的论著。 |

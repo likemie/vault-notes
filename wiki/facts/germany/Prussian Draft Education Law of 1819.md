@@ -54,14 +54,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 ## 背景
 
-1819 年[[Johann Wilhelm Süvern|聚芬]]普鲁士教育法草案是近代欧洲国家构建国民教育体系的关键制度蓝本，标示着普鲁士国家机器在危机后全面重构国民教化的顶层制度设计：
+1819 年[[Johann Wilhelm Süvern|聚芬]]普鲁士教育法草案是近代欧洲国家构建[[National Education|国民教育]]体系的关键制度蓝本，标示着普鲁士国家机器在危机后全面重构国民教化的顶层制度设计：
 
 > [!policy-context] 政策背景
 > - **起草时间 / 主持起草** 1817–1819 年由普鲁士新设立的宗教、教育与医疗事务部（Kultusministerium）枢密顾问官约翰·威廉·聚芬（Johann Wilhelm Süvern, 1769–1829）受部长卡尔·阿尔滕施泰因男爵（Karl Freiherr vom Stein zum Altenstein）委托主笔起草。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 26–27; Brewer, 1971, p. 44)]]
@@ -110,7 +110,7 @@ updated: 2026-10-22
 > - **1819** 聚芬历经两年调研起草完成涵盖全学段的综合法案草案（Süvern Draft）；同年卡尔斯巴德决议出台，王权保守派压制宪政与激进教育自由，草案未获正式签署。（Brewer, 1971:44）
 > - **1820s** 普鲁士教育部以行政通告、规程与视导细则方式，将聚芬草案的核心条款逐步落实为各省事实上的管理制度。
 > - **1831** 法国七月王朝特使[[Victor Cousin\|维克多·库森]]赴普鲁士考察，详尽研读并高度赞扬聚芬法案草案，将其列为《普鲁士公共教育现状报告》的核心论述内容。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 26–28]]）
-> - **1833** 法国国民议会通过由[[François Guizot\|基佐]]领衔、库森主笔起草的 [[Guizot Law of 1833\|1833年基佐法案]]，将聚芬草案的核心条款直接转置为法国国民教育法典。（pp. 28–30）
+> - **1833** 法国国民议会通过由[[François Guizot\|基佐]]领衔、库森主笔起草的 [[Guizot Law of 1833\|1833年基佐法案]]，将聚芬草案的核心条款直接转置为法国[[National Education|国民教育]]法典。（pp. 28–30）
 > - **1834–1837** [[Report on the State of Public Instruction in Prussia\|库森报告]]英美译本相继面世，聚芬草案通过英美转译成为[[Calvin Stowe\|卡尔文·斯托]]、[[Horace Mann\|霍勒斯·曼]]与[[Henry Barnard\|亨利·巴纳德]]推动北美公立教育立法的关键蓝本。（pp. 31–34）
 
 ---

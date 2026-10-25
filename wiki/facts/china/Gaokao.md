@@ -14,7 +14,7 @@ fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "中华人民共和国教育部"
+issuing_organization: "[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]"
 tags:
   - fact/policy
   - region/china
@@ -41,13 +41,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1952 年初建，1977 年正式恢复，由中华人民共和国教育部统一主管推进。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 589)]]
+> - **发布时间 / 发布主体** 1952 年初建，1977 年正式恢复，由[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]统一主管推进。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 589)]]
 > - **适用地区 / 对象** 覆盖全中国所有高中毕业生与高等教育申请者，作为大学录取的主要乃至决定性标准。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 589)]]
 > - **问题背景** 在竞争激烈的社会环境中，高考被广大教师、学生与家长普遍视为保障阶层向上流动与教育公平最经济、最可靠的选拔机制。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, p. 594)]]
 > - **制度位置** 取代古代[[Civil Service Examination|科举制度]]，成为现代中国教育体系中高利害[[Test-Based Accountability|考试问责]]与[[Examination-Oriented Education|应试教育]]系统的终极评价硬约束。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 594–595)]]

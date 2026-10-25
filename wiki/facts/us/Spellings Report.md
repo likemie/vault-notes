@@ -39,13 +39,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2006 年 9 月由美国联邦教育部长玛格丽特·斯佩林斯（Margaret Spellings）委任的高等教育未来委员会（Commission on the Future of Higher Education）正式发布。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 7)]]
+> - **发布时间 / 发布主体** 2006 年 9 月由[[United States Department of Education|美国联邦教育部]]长玛格丽特·斯佩林斯（Margaret Spellings）委任的高等教育未来委员会（Commission on the Future of Higher Education）正式发布。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 7)]]
 > - **正式报告标题** 《领导力测验：重塑美国高等教育未来》（*A Test of Leadership: Charting the Future of U.S. Higher Education*）。
 > - **问题背景** 美国高等教育学费飞涨，但公众和雇主对大学毕业生的真实素养（特别是[[Critical Thinking\|批判性思维]]与解决复杂问题能力）满意度急剧下降；高教学术质量缺乏透明客观的全国可比衡量指标。
 > - **制度位置** 21 世纪初美国联邦政府推动高等教育由“投入导向”转向“成果与增值问责”的最核心政策纲领。

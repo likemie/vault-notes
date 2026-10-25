@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -69,7 +69,7 @@ updated: 2026-10-22
 > [!citation-card] 独立信托治理与循证决策机制
 > EEF 由独立的理事会管辖，该理事会由创始合作伙伴提名，并由彼得·兰普尔爵士担任主席。理事会与执行团队由两个关键顾问机构提供指导：来自教育、公共政策与商界专家组成的顾问委员会，以及评估顾问小组（[[Education at a Glance\|EAG]]）。评估顾问小组就评估方法学与证据生成的最佳实践提供关键指导。至关重要的是，EEF 独立于政府，但与包括教育部在内的多个政府部门保持紧密与协作的工作关系。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 47)]]
 >
-> *"The EEF is governed by an independent Board of Trustees, nominated by the founding partners and Chaired by Sir Peter Lampl. The Board and the executive team are guided by two key advisory bodies: an Advisory Board of experts from education, public policy, and business; and an Evaluation Advisory Group (EAG). The EAG provides critical guidance on evaluation methodologies and best practice in evidence generation. ... Importantly, the EEF is independent of government, but maintains strong and collaborative working relationships with a number of Ministries, principally the Department for Education."*
+> *"The EEF is governed by an independent Board of Trustees, nominated by the founding partners and Chaired by Sir Peter Lampl. The Board and the executive team are guided by two key advisory bodies: an Advisory Board of experts from education, public policy, and business; and an Evaluation Advisory Group (EAG). The EAG provides critical guidance on evaluation methodologies and best practice in evidence generation. ... Importantly, the EEF is independent of government, but maintains strong and collaborative working relationships with a number of Ministries, principally the [[Department for Education]]."*
 
 ---
 

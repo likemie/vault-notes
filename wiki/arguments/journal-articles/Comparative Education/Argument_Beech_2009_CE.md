@@ -76,7 +76,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-08
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Beech_2009_CE"
@@ -259,7 +259,7 @@ Castells 据此区分了两种空间逻辑：
 > - **国际多边机构**[[OECD]]、[[World Bank\|世界银行]]、[[UNESCO]]、[[International Monetary Fund|国际货币基金组织]]（International Monetary Fund，IMF）等。它们之间有悠久的协作历史，但竞争和势力范围的划分同样显著(Jones & Coleman, 2005, 引自 p.351)。
 > - **[[Global Citizenship\|全球公民]]社会与非政府组织（Non-Governmental Organization，NGO）** 多边组织越来越多地与被视作新兴"全球公民社会"代表的 NGO 协作，形成跨国倡导联盟(Mundy & Murphy, 2001, p.86, 引自 p.351)。
 > - **跨国教育服务企业** 以 剑桥教育（Cambridge Education） 为代表的私营公司，向泰国、中国省级政府、美国各州及孟加拉国、柬埔寨等地直接出售“教育政策方案”(Ball, 2009)。
-> - **智库与亲市场基金会** 如 弗雷泽研究所（Fraser Institute）、邓普顿基金会（John Templeton Foundation，Templeton Foundation）、卡托研究所（Cato Institute）和 弗里德曼基金会（Friedman Foundation），为跨国企业在各地的政策咨询和公共服务角色提供理论与合法性支持(Ball, 2007, 2009)。
+> - **智库与亲市场基金会** 如 [[Fraser Institute|弗雷泽研究所]]（Fraser Institute）、邓普顿基金会（John Templeton Foundation，Templeton Foundation）、卡托研究所（Cato Institute）和 弗里德曼基金会（Friedman Foundation），为跨国企业在各地的政策咨询和公共服务角色提供理论与合法性支持(Ball, 2007, 2009)。
 
 > [!exegesis]- 同一个行动者，不同的网络，不同的角色
 > 这些行动者基于特定项目连接到特定网络中，项目一旦完成就切换到另一个网络。这意味着同一对机构之间可以同时存在协作与竞争关系。在这个项目中是合作伙伴，在下一个项目中就可能是竞争对手。这就像一群自由职业者，这周合作做一个项目，下周各自竞标同一个合同。网络的边界是流动的，由当前项目的目标来定义。
@@ -320,7 +320,7 @@ Castells 据此区分了两种空间逻辑：
 
 > [!factors] 影响国家层级话语转译的四个结构性特征
 > - **领土附着性 (Territoriality)**
->   国民教育系统旨在构建国民身份与归属感，其地缘边界也是划分自我与他者的[[Symbolic Boundary\|符号边界]]。因此，国家教育系统中的[[Educated Identity\|受教育身份]]定义不可能完全被全球话语取代，必然是超国家话语与地方特定历史经验的组合。
+>   [[National Education|国民教育]]系统旨在构建国民身份与归属感，其地缘边界也是划分自我与他者的[[Symbolic Boundary\|符号边界]]。因此，国家教育系统中的[[Educated Identity\|受教育身份]]定义不可能完全被全球话语取代，必然是超国家话语与地方特定历史经验的组合。
 > - **与既有话语的碰撞 (Collision with Existing Discourses)**
 > 全球话语进入国家层面时会遭遇本土既有的教育话语（如[[Encyclopaedism\|百科全书主义]]或要素主义）。这并非简单的二选一抉择，政策制定者通常需要通过协商，将看似矛盾的声明并置在同一政策文件中以迎合多元利益群体。
 > - **网络国家的转型 (Networked Nation)**

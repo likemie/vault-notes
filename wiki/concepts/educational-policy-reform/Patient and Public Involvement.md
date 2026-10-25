@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -50,7 +50,7 @@ updated: 2026-10-22
 > 患者与公众参与（Patient and Public Involvement, PPI）是指在医学、生命科学及相关社会研究中，由患者、照护者以及广大公众作为平等的积极研究伙伴，“与研究者共同开展”（With or by）或“由公众主动主导开展”的研究活动，而不仅仅是“对公众开展”、“关于公众”或“为了公众”进行的被动信息采集。（National Institute for Health and Care Research, 2019; 引自 [[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 71)]]）
 
 > [!concept-lens] 概念透镜
-> - **含义** 将公众从传统实证研究中被动提供生理样本、填写[[Questionnaire\|问卷]]的“研究客体／受试者”，转变为拥有真实生活体验（Lived Experience）认知权威的“共同研究者”与议程共创伙伴。
+> - **含义** 将公众从传统实证研究中被动提供生理样本、填写[[Questionnaire\|问卷]]的“研究客体／受试者”，转变为拥有真实生活体验（Lived Experience）[[Cognitive Authority|认知权威]]的“共同研究者”与议程共创伙伴。
 > - **用途** 帮助科研机构与商业药企克服“象牙塔偏误”，使研发优先级精准贴合临床患者的实际照护痛点，大幅提升[[Clinical Trial\|临床试验]]方案的可行性、依从性与伦理透明度。
 > - **边界** 不等于临床试验受试者的[[Informed Consent\|知情同意]]招募，也不等于研究成果发布后的单向公关宣传或健康科普教育。
 
@@ -80,7 +80,7 @@ updated: 2026-10-22
 
 ## 产业转化与第三部门实践
 
-在英国皇家学会 2026 年战略报告中，生命科学产业界与非营利第三部门的公众参与实践呈现出深度互补的生态格局：
+在[[Royal Society|英国皇家学会]] 2026 年战略报告中，生命科学产业界与非营利第三部门的公众参与实践呈现出深度互补的生态格局：
 
 > [!pathways] 产业与慈善部门的实践落地路径
 > - **跨国药企的研发流程重构** 跨国大型制药企业在面对公众对商业利润动机的普遍怀疑时，积极引入以患者为中心（Patient Centricity）框架；例如阿斯利康等企业在全流程[[Clinical Trial\|临床试验]]中与患者组织共创设计，有效降低了受试者中途脱落率，显著缩短了新药研发周期。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 71)]]

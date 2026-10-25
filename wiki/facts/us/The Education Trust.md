@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -85,7 +85,7 @@ updated: 2026-10-22
 
 > [!actor-grid] 组织治理架构
 > - **理事会（Board of Directors）** 汇聚全美民权领袖、前联邦及州教育行政长官、知名学者、商界与慈善界公共事务专家，负责确立宏观战略方向、监督资金使用合规性并维护非党派独立信誉。
-> - **执行团队与业务部门** 由全国总裁统一领导（历任领袖包括卡蒂·海科克、前美国教育部长约翰·金 John B. King Jr. 等），下设 K–12 政策与研究部、高等教育政策部、政府关系与立法事务部、战略传播部及各州分支。
+> - **执行团队与业务部门** 由全国总裁统一领导（历任领袖包括卡蒂·海科克、前[[United States Department of Education|美国教育部]]长约翰·金 John B. King Jr. 等），下设 K–12 政策与研究部、高等教育政策部、政府关系与立法事务部、战略传播部及各州分支。
 > - **数据分析与[[Quantitative Research|量化研究]]团队** 配备专业的计量经济学、教育测量学与公共政策分析师，独立清洗与挖掘联邦、州及学区教育大数据，确保所有倡导主张均建立在可复核的实证数据基础之上。
 > - **跨界合作与民权联盟网络** 与全美有色人种协进会（NAACP）、城市联盟（National Urban League）等民权组织以及[[American Federation of Teachers|全美教师联盟]]（AFT）保持紧密协同，构建多主体政策倡导同盟。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 11)]]
 
@@ -151,7 +151,7 @@ updated: 2026-10-22
 > | [[Common Core State Standards]] | Fact (Policy) | 核心改革案例：EdTrust 深度参与早期标准对标与民权价值绑定，推动全美 45 州法定采纳。 |
 > | [[Policy Entrepreneur]] | Concept | 理论定位：EdTrust 充当跨界政策企业家，敏锐捕捉[[Policy Window\|政策窗口]]，整合差距数据与民权叙事。 |
 > | [[Six-Stage Model of Policymaking]] | Theory | [[Analytic Framework\|分析框架]]：展示 EdTrust 作为[[Educational Brokerage Agency\|知识经纪]]机构在前端[[Problem Finding\|问题界定]]、议程设置与方案起草中的渗透机制。 |
-> | [[Educational Brokerage Agency]] | Concept | 机构功能：作为连接大学学术研究象牙塔与立法决策中枢的典型知识经纪中介。 |
+> | [[Educational Brokerage Agency]] | Concept | 机构功能：作为连接大学学术研究象牙塔与立法决策中枢的典型[[Knowledge Mediation\|知识经纪]]中介。 |
 > | [[No Child Left Behind Act 2001]] | Fact (Policy) | 历史立法渊源：EdTrust 推动将亚群数据分解写入法案，确立了联邦循证问责的法理框架。 |
 > | [[Every Student Succeeds Act]] | Fact (Policy) | 后续法案转型：EdTrust 积极介入法案重新授权辩论，捍卫弱势群体的民权问责底线。 |
 > | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 核心实证来源：系统分析 EdTrust 与 [[Achieve]] 等智库在通用标准议程设置中的证据动员逻辑。 |

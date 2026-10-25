@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -86,7 +86,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 平台发展历程
-> - **2015 — [[Every Student Succeeds Act\|ESSA]] 法案颁布催生法定证据需求** 美国国会通过 ESSA，首次将联邦每年数十亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 一类学校改进经费与四级法定[[Evidence Standards\|证据标准]]严格挂钩，全美学区急需能够快速判别合规干预项目的工具。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
+> - **2015 — [[Every Student Succeeds Act\|ESSA]] 法案颁布催生法定证据需求** [[United States Congress|美国国会]]通过 ESSA，首次将联邦每年数十亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 一类学校改进经费与四级法定[[Evidence Standards\|证据标准]]严格挂钩，全美学区急需能够快速判别合规干预项目的工具。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
 > - **2017 — Evidence for ESSA 平台正式上线** JHU CRRE 团队依托[[Best Evidence Encyclopedia\|最佳证据百科全书]]（BEE）三十年学术积累，正式推出 Evidence for ESSA 交互式平台，首期发布 K-12 阅读与数学经过严格审查的项目清单。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 110)]]
 > - **2018–2019 — 州级教育政策采纳与用户规模激增** 亚利桑那、路易斯安那、内华达、明尼苏达、北卡罗来纳与罗德岛等州教育厅直接将平台列为学区编制联邦拨款申请的官方参考基准；月度活跃教育者突破 70,000 人。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25)]]
 > - **2021–至今 — 持续扩展与常态化运营** 在斯莱文逝世后，CRRE 团队持续维持平台的常态化运营与学科扩展，进一步纳入中等教育与全校综合改革方案。[[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021, pp. 19–21)]]
@@ -128,7 +128,7 @@ updated: 2026-10-22
 
 ---
 
-> [!contrast-table] 平台运行机制与服务导向对比：Evidence for [[Every Student Succeeds Act\|ESSA]] vs 美国教育部 [[What Works Clearinghouse\|WWC]]
+> [!contrast-table] 平台运行机制与服务导向对比：Evidence for [[Every Student Succeeds Act\|ESSA]] vs [[United States Department of Education|美国教育部]] [[What Works Clearinghouse\|WWC]]
 > | 比较维度 | Evidence for ESSA（JHU CRRE） | [[What Works Clearinghouse\|What Works Clearinghouse]]（WWC / IES） |
 > |---|---|---|
 > | **创立背景与使命** | 针对 ESSA 2015 实施痛点设立，专为中小学校长与学区采购决策提供极简指引 | 依据 [[Education Sciences Reform Act 2002\|ESRA 2002]] 设立，作为联邦官方因果科学审查与方法学基准平台 |
@@ -142,7 +142,7 @@ updated: 2026-10-22
 > [!case] 标杆项目在 Evidence for [[Every Student Succeeds Act\|ESSA]] 的评级表现
 > - [[Success for All]]（SFA）— 凭借多项独立大型多中心整群 [[Randomised Controlled Trials\|RCT]] 评估，在小学阅读全域稳居 **TIER 1 (Strong Evidence)**，详细列出每生每年耗材成本与全校教研辅导员配置需求。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - [[Open Court Reading]]（OCR）— 评为 **Tier 2 (Moderate Evidence)**，基于多项准[[Experimental Research\|实验研究]]数据，清晰标明其在基础自然拼读与词汇教学中的适用情境。
-> - 数字化个性化学习软件 — 多数商业自适应学习软件因缺乏 12 周以上独立标准化测验，被归入 Tier 4（未达标/评估中），推动出版商主动委托第三方开展大样本 RCT。
+> - 数字化[[Personalized Learning|个性化学习]]软件 — 多数商业自适应学习软件因缺乏 12 周以上独立标准化测验，被归入 Tier 4（未达标/评估中），推动出版商主动委托第三方开展大样本 RCT。
 
 ---
 
@@ -162,7 +162,7 @@ updated: 2026-10-22
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美 K-12 阅读与数学全部可获取的教育干预方案实证研究池 | 平台审查数据统计与政策渗透分析 | [[Every Student Succeeds Act\|ESSA]] 证据层级评定、月度独立用户数、采纳州数量与合格项目数 | 收录近 100 个达到 ESSA [[Top Institute for Evidence-Based Education Research\|TIER]] 1–3 的项目（强证据项目占比居首）；月度活跃教育者超 70,000 人（周增 ≈1,000 人）；至少 6 州将平台纳入官方拨款指南 | — | 实证说明以五大硬约束构建的敏捷清算平台能够有效激活学校层面的循证采购（pp. 23–26） |
-> | [[Argument_Slavin_2021_ECNUROE\|Slavin et al. (2021)]] | 全美中小学阅读与数学干预项目库追踪 | 循证平台长期运营与学科覆盖评估 | 学科覆盖率、审查项目通过率与开发者测验过滤效应 | 严格执行独立测验与 12 周门槛过滤掉 90% 以上低质自发研究，推动教育市场向合规方案收敛 | — | 证实方法学硬约束在规范教育干预市场供给侧方面的治理效能（pp. 19–21） |
+> | [[Argument_Slavin_2021_ECNUROE\|Slavin et al. (2021)]] | 全美中小学阅读与[[Mathematics Intervention Programs\|数学干预项目]]库追踪 | 循证平台长期运营与学科覆盖评估 | 学科覆盖率、审查项目通过率与开发者测验过滤效应 | 严格执行独立测验与 12 周门槛过滤掉 90% 以上低质自发研究，推动教育市场向合规方案收敛 | — | 证实方法学硬约束在规范教育干预市场供给侧方面的治理效能（pp. 19–21） |
 > | [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] | 美国南方联合学区（SUD）2.88 亿美元 ESSA [[Title I of the Elementary and Secondary Education Act\|Title I]] 经费，覆盖 129 项采购实践、4 个公共证据库 | 跨库财务审计与证据合规分析 | 平台在多库审计中的年级特异性评级与合规率对比 | 单库合规率 95%–99%；跨 4 库综合后降至 49%–58%（保守估算：20%）；证实单一清算中心不足以支撑完整证据体评估 | — | 揭示 Evidence for ESSA 在跨学段降维推断场景中的适用边界，论证多库整合评估的必要性（pp. 170–174） |
 
 ---

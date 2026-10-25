@@ -109,7 +109,7 @@ updated: 2026-10-26
 ---
 
 > [!timeline] 战略演进时间线
-> - 2021 年 1 月 美国国会通过《2021财年国防授权法案》（NDAA 2021, P.L. 116-283），第 9906 条法定设立[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]并责令编制国家战略。（p. ii）
+> - 2021 年 1 月 [[United States Congress|美国国会]]通过《2021财年国防授权法案》（NDAA 2021, P.L. 116-283），第 9906 条法定设立[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]并责令编制国家战略。（p. ii）
 > - 2022 年 8 月 美国颁布《[[CHIPS and Science Act|芯片与科学法案]]》（P.L. 117-167），为本土微电子研发与制造注入数百亿美元专项资助。（p. 1）
 > - 2024 年 3 月 [[National Science and Technology Council|NSTC]] 微电子领导力小组委员会正式发布《国家微电子研究战略》。（p. 1）
 > - 2025 年 4 月 根据最新科技竞争态势与白宫行政指令完成修订版编制并公开发布。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 1)]]
@@ -118,8 +118,8 @@ updated: 2026-10-26
 
 > [!actor-grid] 实施角色分工
 > - **发布与统筹主体** 白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）与[[National Science and Technology Council|国家科学技术委员会]]（NSTC）[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML）。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 9–10)]]
-> - **商务部（DOC / NIST）** 负责牵头建设[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）及计量研究计划。（pp. 2, 25, 28, 39）
-> - **国防部（DOD / [[DARPA]]）** 负责推进[[Microelectronics Commons|微电子共用体]]（8 大跨区域中试枢纽）与[[Next-Generation Microsystems Manufacturing|下一代微系统制造]]（NGMM）计划。（pp. 2, 27, 40）
+> - **商务部（DOC / [[National Institute of Standards and Technology|NIST]]）** 负责牵头建设[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）及计量研究计划。（pp. 2, 25, 28, 39）
+> - **国防部（[[Department of Defense|DOD]] / [[DARPA]]）** 负责推进[[Microelectronics Commons|微电子共用体]]（8 大跨区域中试枢纽）与[[Next-Generation Microsystems Manufacturing|下一代微系统制造]]（NGMM）计划。（pp. 2, 27, 40）
 > - **国家科学基金会（[[National Science Foundation|NSF]]）与能源部（[[Department of Energy|DOE]]）** NSF 运营[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（NNCI）与基础 [[STEM Education|STEM]] 教育，DOE 开放 5 大纳米科学研究中心（NSRC）与国家实验室先进光源/中子源。（pp. 21–25, 41, 45）
 
 > [!pathways] 实施路径

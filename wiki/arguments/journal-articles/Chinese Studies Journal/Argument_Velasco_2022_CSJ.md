@@ -58,7 +58,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Velasco_2022_CSJ"
@@ -83,10 +83,10 @@ sources:
 > 在当代大国地缘博弈与区域秩序重塑进程中，中国如何将高等教育体系打造为施展[[Soft Power|软实力]]的战略影响工具？这一面向东南亚的[[Educational Diplomacy|教育外交]]包含哪些实践支柱？在遭遇周边地缘安全摩擦与领土争议时又面临何种[[Power Conversion Dilemma|权力转化困境]]？
 
 > [!claim] 核心主张
-> 中国面向东南亚的教育外交依托三大实践支柱展开：定向招收国际学生、设立[[International Branch Campus|海外分校]]与联合办学项目，以及建设[[Confucius Institute|孔子学院]]网络。这一战略通过短期校友良好体验与长期跨国精英网络拓展了区域影响力，但受制于深层地缘安全顾虑与南海领土争端，教育软实力向普遍政治互信的转化依然面临阻滞。
+> 中国面向东南亚的教育外交依托三大实践支柱展开：定向招收国际学生、设立[[International Branch Campus|海外分校]]与联合办学项目，以及建设[[Confucius Institute|孔子学院]]网络。这一战略通过短期校友良好体验与长期跨国精英网络拓展了区域影响力，但受制于深层地缘安全顾虑与南海领土争端，[[Educational Soft Power|教育软实力]]向普遍政治互信的转化依然面临阻滞。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 中国高等教育体制改革、国家对外大战略规划、东南亚在华留[[Student Mobility|学生流动]]数据、境外独立校区（如厦门大学马来西亚分校）与[[Confucius Institute|孔子学院]]区域布局。
+> - **对象** 中国高等教育体制改革、国家对外大战略规划、东南亚在华留[[Student Mobility|学生流动]]数据、境外独立校区（如[[Xiamen University Malaysia|厦门大学马来西亚分校]]）与[[Confucius Institute|孔子学院]]区域布局。
 > - **张力** 高校科研实力的大幅增长与巨额[[Public Diplomacy|公共外交]]投入，同周边国家因领土争端而长期存在的戒备心理形成反差。
 > - **贡献** 将传统[[Joseph S. Nye Jr.|约瑟夫·奈]]（Joseph S. Nye）的软实力理论本土化为兼具防御与进取的复合[[Analytic Framework|分析框架]]，系统梳理教育外交的三大支柱与双重时间机制，并阐明[[Geopolitics|地缘政治]]冲突下的[[Power Conversion Dilemma|权力转化困境]]。
 
@@ -208,7 +208,7 @@ sources:
 
 ---
 
-> [!claim] 论证步骤二　大学科研竞争力的提升直接服务于国家外交战略
+> [!claim] 论证步骤二　大学科研[[Competitiveness|竞争力]]的提升直接服务于国家外交战略
 > 自 1990 年代以来的持续高教改革与[[Double First-Class Initiative|双一流建设]]极大释放了高校科研生产力，完成了从技术模仿向自主创新的转变，为国家将一流大学打造为服务对外战略的智识引擎提供了坚实基础。
 
 #### 1. 长期高强度投入推动高校科研产出超越美国
@@ -287,11 +287,11 @@ sources:
 规模庞大的留学生跨国往来，通过由近及远、由浅入深的两重时间机制发挥作用。
 
 > [!phase] 留学生流动的双重时间传导机制
-> - **短期微观层面：[[Alumnus Effect|校友效应（Alumnus Effect）]]**
+> - **短期微观层面：[[Alumnus Effect|校友效应]]（Alumnus Effect）**
 >
 >   留学生在华期间亲历城市建设，与中国师生建立日常友谊，毕业回国后普遍保留温馨的情感记忆；这种亲历者的好感在母国民间舆论中形成良性口碑，稀释了外部媒体的负面刻板印象。（Mulvey, 2019, 2020; Tian & Lowe, 2018; Yousaf et al., 2020, p. 84）
 >
-> - **长期宏观层面：[[Para-Diplomatic Roles|准外交角色（Para-diplomatic Roles）]]**
+> - **长期宏观层面：[[Para-Diplomatic Roles|准外交角色]]（Para-diplomatic Roles）**
 >
 >   随着东盟毕业生进入本国政府部门、大学、企业与研究机构，这批兼具中文能力和专业素养的人才成为跨国沟通的桥梁；他们在公共决策与经贸合作中发挥准外交纽带功能，以贴近本土的方式传播中国发展经验。（Mulvey & Lo, 2021; Yang, 2007, p. 84）
 

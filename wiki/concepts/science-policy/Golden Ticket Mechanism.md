@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -128,9 +128,9 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 金券机制在[[Metascience|元科学]]与政策中的演变脉络
-> - **2010s — 欧洲民间前沿基金会早期探索** 针对学术评审僵化，德国大众基金会与英国惠康基金会（Wellcome Trust）开始试点“高风险金券”与“摇号随机抽签资助”。
+> - **2010s — 欧洲民间前沿基金会早期探索** 针对学术评审僵化，德国大众基金会与英国惠康基金会（[[Wellcome Trust]]）开始试点“高风险金券”与“摇号随机抽签资助”。
 > - **2020 — 新冠疫情期间的极速特权资助实验** [[Fast Grants]] 等民间敏捷资助将金券逻辑普遍化，允许单一决策者在 48 小时内核批高风险课题。
-> - **2024 — 元科学界将其确立为机制设计核心范本** 机制设计经济学家与科学计量学家正式将金券机制数学化，论证其在肥尾创新分布下的最优资助边界。
+> - **2024 — 元科学界将其确立为机制设计核心范本** 机制设计经济学家与[[Bibliometric Analysis|科学计量学]]家正式将金券机制数学化，论证其在肥尾创新分布下的最优资助边界。
 > - **2025–2026 — 白宫《[[Science A New Golden Age 2026|科学：新的黄金时代]]》建议联邦资助全面引入金券机制** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第二章系统将金券机制纳入联邦国家[[Portfolio-Based Research Funding|组合式科研资助]]工具箱，要求 [[National Science Foundation|NSF]] 与 [[National Institutes of Health|NIH]] 在青年科学家前沿项目中常设金券通道。
 
 ---

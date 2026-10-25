@@ -89,13 +89,13 @@ related_instruments: []
 confidence: high
 status: completed
 created: '2026-06-08'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国比较教育先驱、教育官员与思想家。曾任英国教育部特别调查与报告办公室（[[Office of Special Inquiries and Reports]], [[Office of Special Inquiries and Reports|OSIR]]）首任主任、曼彻斯特大学教授、利兹[[Grandes Ecoles|大学校]]长（Vice-Chancellor）、牛津大学大学学院院长，是比较教育历史主义与情境分析路径的奠基人。
+> - **身份位置** 英国比较教育先驱、教育官员与思想家。曾任[[Department for Education|英国教育部]]特别调查与报告办公室（[[Office of Special Inquiries and Reports]], [[Office of Special Inquiries and Reports|OSIR]]）首任主任、曼彻斯特大学教授、利兹[[Grandes Ecoles|大学校]]长（Vice-Chancellor）、牛津大学大学学院院长，是比较教育历史主义与情境分析路径的奠基人。
 > - **核心角色** 传记学者约翰·H·希金森（John Howard Higginson）将其概括为兼具深邃学术造诣与宏阔公共眼界的“教育政治家”（Educational Statesman），视比较教育为推动国家制度重塑的“改革能动杠杆”（Agency of reform）。在欧洲学科史上，[[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter）将其定性为推动现代大学比较教育在英国率先扎根的关键领袖，开辟了从 19 世纪督学行政视察走向 20 世纪大学教席建制化并由伦敦大学教育研究院（Institute of Education, IOE）全面发扬的知识谱系。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
 > - **代表贡献** 创立特别调查与报告办公室、主持编纂 11 卷跨国教育调查报告、发表 1900 年吉尔福德演讲并提出教育系统的“不可移植性”假说、奠定比较教育的[[Situative Perspective|情境主义]]分析方法，开创以德国为核心参照系的系统比较研究。
 
@@ -244,7 +244,7 @@ updated: 2026-10-22
 > - **先锋同行** [[Matthew Arnold|马修·阿诺德]]（Matthew Arnold） — 萨德勒继承并深化了阿诺德关于通过国家干预提升文化教化并抵御地缘竞争的警觉。
 > - **继承者** [[Isaac Kandel|坎德尔]] — 曼彻斯特大学受业弟子，坎德尔将萨德勒的情境与精神力量分析发展为成熟的学科框架。
 > - **同行／学派** 汉斯、[[Robert Ulich|乌利希]] — 共同维系 20 世纪前中期的[[Historical-Philosophical-Cultural Motif|历史-哲学-文化母题]]。
-> - **行政论敌** 罗伯特·莫兰特（Robert Morant） — 英国教育部常务次官，莫兰特主张教育部应追求直接的技术和行政控制，与萨德勒坚持学术调查的独立性产生正面冲突，最终导致萨德勒辞职。
+> - **行政论敌** 罗伯特·莫兰特（Robert Morant） — [[Department for Education|英国教育部]]常务次官，莫兰特主张教育部应追求直接的技术和行政控制，与萨德勒坚持学术调查的独立性产生正面冲突，最终导致萨德勒辞职。
 > - **学者评价** [[Wolfgang Mitter]] — 米特将萨德勒定性为推动现代大学比较教育率先在英国生根、开辟伦敦大学教育研究院知识传统的学科奠基者。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
 > - **学科史阐发者** [[Andreas Kazamias]] — 卡扎米亚斯将萨德勒确立为终结第一代行政借用、开创第二论述代际的历史文化奠基人。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–143)]]
 > - **当代批判对话者** [[Jason Beech]] — 比奇在《谁在漫步全球花园？》中以萨德勒 1900 年演讲隐喻为核心理论参照，揭示全球漫步主体从民族国家转向跨国多边机构与企业，并提出“枯死植株携带有害微生物重塑本土土壤”假说。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–343, 355–356)]]

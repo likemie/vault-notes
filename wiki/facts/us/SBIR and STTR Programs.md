@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -80,7 +80,7 @@ updated: 2026-10-22
 
 > [!program-context] 项目背景
 > - **立项时间与法律依据** 1977 年由[[National Science Foundation|美国国家科学基金会]]（NSF）项目经理罗兰·蒂贝茨（Roland Tibbetts）首创 SBIR 模式试点；1982 年国会通过《小企业创新发展法》（Small Business Innovation Development Act of 1982, P.L. 97-219）在全联邦正式确立 SBIR；1992 年通过《小企业研发促进法》（P.L. 102-564）增设 STTR 计划。
-> - **发起方与统筹架构** 由美国小企业管理局（Small Business Administration, SBA）负责宏观政策指南制定与跨部门协调，国防部（DoD）、卫生与公众服务部（HHS/[[National Institutes of Health|NIH]]）、能源部（[[Department of Energy|DOE]]）、[[National Aeronautics and Space Administration|国家航空航天局]]（NASA）及 NSF 等 11 个年度外包研发预算超过 1 亿美元的联邦机构分别独立组织项目申报与评审。
+> - **发起方与统筹架构** 由美国小企业管理局（Small Business Administration, SBA）负责宏观政策指南制定与跨部门协调，国防部（[[Department of Defense|DoD]]）、卫生与公众服务部（HHS/[[National Institutes of Health|NIH]]）、能源部（[[Department of Energy|DOE]]）、[[National Aeronautics and Space Administration|国家航空航天局]]（NASA）及 NSF 等 11 个年度外包研发预算超过 1 亿美元的联邦机构分别独立组织项目申报与评审。
 > - **覆盖范围与资助对象** 面向全美员工少于 500 人、由美国公民控股的科技型中小企业，以及由大学教授和研究生创办的硬科技衍生企业（Spin-outs）。
 > - **核心问题导向** 应对 1970 年代末至 1980 年代初美国国家工业[[Competitiveness|竞争力]]危机，解决大学前沿基础研究成果难以跨越“实验室概念验证向商业化产品转化[[Valley of Death|死亡之谷]]”的体制瓶颈。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 369)]]
 

@@ -45,7 +45,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -78,7 +78,7 @@ updated: 2026-10-22
 > - **议程设定的平权性（Co-creation in Agenda-setting）**
 >   公众与非专业群体不再仅作为被调查的数据提供者，而是实质性参与界定“哪些现实问题最值得被研究”，例如在医学健康与环境生态领域的优先序磋商。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, pp. 92, 100)]]
 > - **全生命周期的前置性（Lifecycle Front-loading）**
->   参与机制紧密嵌入科研规划的最早阶段，使公众反馈能够直接影响研究方案的实验设计、[[Variable\|变量]]选取与伦理防护安排。
+>   参与机制紧密嵌入科研规划的最早阶段，使公众反馈能够直接影响研究方案的[[Experimental Research|实验设计]]、[[Variable\|变量]]选取与伦理防护安排。
 > - **[[Reflexivity\|反思性]]与价值敞开（VALUE [[Pluralism]] and Reflexivity）**
 >   促使科研人员超越狭隘的[[Technical Rationality\|技术理性]]，审视研究背后的规范性假设与商业/社会利益偏倚，构建负责任的创新文化。
 

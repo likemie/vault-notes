@@ -145,7 +145,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -389,7 +389,7 @@ updated: 2026-10-22
 > 阐释技术共和国如何通过刚性法定商用优先权与司法诉讼打破传统军工复合体的定制成本加成垄断，打通前沿软件向国防安全输送的体制回路。
 
 > [!claim] Karp, Zamiska & Glenn (2025/1994)
-> **采购法治与商用现成优先制度破局断言** 卡普与扎米斯卡结合参议员[[John Glenn|约翰·格伦]]（John Glenn）推动《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》（FASA 1994）的历史经验指出，技术共和国宏大构想的落实必须依托底层的政府采购法治与去官僚化改革。五角大楼耗资数十亿美元的定制软件系统屡屡溃败，根源在于传统军工巨头利用成千上万页军用规范制造高额准入壁垒；唯有通过刚性法定约束（10 U.S.C. § 2377）强制推行[[Commercial Off-The-Shelf|商用现成产品]]（COTS）优先，并以司法诉讼打破体制避险惰性，才能将私营部门最前沿的软件与人工智能技术高效引入国家防务体系。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 139–155)]]
+> **采购法治与商用现成优先制度破局断言** 卡普与扎米斯卡结合参议员[[John Glenn|约翰·格伦]]（John Glenn）推动《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》（FASA 1994）的历史经验指出，技术共和国宏大构想的落实必须依托底层的政府采购法治与去官僚化改革。[[Department of Defense|五角大楼]]耗资数十亿美元的定制软件系统屡屡溃败，根源在于传统军工巨头利用成千上万页军用规范制造高额准入壁垒；唯有通过刚性法定约束（10 U.S.C. § 2377）强制推行[[Commercial Off-The-Shelf|商用现成产品]]（COTS）优先，并以司法诉讼打破体制避险惰性，才能将私营部门最前沿的软件与人工智能技术高效引入国家防务体系。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 139–155)]]
 
 ---
 

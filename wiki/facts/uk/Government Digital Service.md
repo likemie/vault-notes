@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-26
 title: Government Digital Service
 aliases:
   - GDS
@@ -48,7 +48,7 @@ aliases:
 ---
 
 > [!claim] 核心定位
-> 英国政府数字服务局（Government Digital Service, GDS）是英国政府于 2011 年设立于内阁办公厅（Cabinet Office）的公共数字化旗舰机构；其创设宗旨在于彻底破除传统公共部门对大型外部系统集成商与咨询寡头的长期依赖，将前沿软件工程、以人为本的服务设计（Service Design）与敏捷迭代能力重新内化于政府内部，通过打造统一的公共服务数字底座全面重构国家行政能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
+> 英国政府数字服务局（Government Digital Service, GDS）是英国政府于 2011 年设立于内阁办公厅（[[Cabinet Office]]）的公共数字化旗舰机构；其创设宗旨在于彻底破除传统公共部门对大型外部系统集成商与咨询寡头的长期依赖，将前沿软件工程、以人为本的服务设计（Service Design）与敏捷迭代能力重新内化于政府内部，通过打造统一的公共服务数字底座全面重构国家行政能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
 
 > [!org-context] 机构背景
 > - **创设时间 / 隶属层级** 2011 年 4 月由英国内阁办公厅主导成立，直属政府首席技术官与内阁大臣管辖。

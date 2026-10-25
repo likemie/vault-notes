@@ -35,12 +35,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
-> [!def] Outcome-Based Apprenticeship Funding
+> [!def] Outcome-Based [[Apprenticeship]] Funding
 > **结果导向[[Apprenticeship|学徒制]]资助机制（Outcome-Based Apprenticeship Funding / Pay-for-Outcomes Apprenticeship Funding）** 是指由公共财政设立的新型职业教育与技能培训拨款模式，主张废除传统按照培训机构招生人数或课时量一次性前置拨付的输入型资助，转为依据经过独立核验的学徒真实录用上岗、薪资达标增长以及多期就业留任率等实质产出指标进行阶段性报销与绩效奖励。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 53)]]
 
 > [!concept-lens] 概念透镜
@@ -108,7 +108,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 概念演变
 > - **2010s — 社会效益债券与按效果付费探索** 欧美公共政策领域尝试在社会与就业项目中引入 Pay-for-Success 机制。
-> - **2025 — [[Workforce Pell Grants 2025|劳动力佩尔助学金]]立法通过** 美国国会通过立法首次将联邦佩尔助学金向高质量短期职业技能培训开放。
+> - **2025 — [[Workforce Pell Grants 2025|劳动力佩尔助学金]]立法通过** [[United States Congress|美国国会]]通过立法首次将联邦佩尔助学金向高质量短期职业技能培训开放。
 > - **2026 — 战略产业[[Apprenticeship|学徒制]]结果导向资助确立** 白宫科技政策办公室在《科学：新黄金时代》中明确将学徒制拨款全面改造为与录用留任严格绑定的结果付费模式。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 53)]]
 
 ---

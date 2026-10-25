@@ -16,7 +16,7 @@ fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "美国国会 / 白宫管理与预算办公室（OMB）"
+issuing_organization: "[[United States Congress|美国国会]] / 白宫管理与预算办公室（OMB）"
 tags:
   - fact/policy
   - region/us
@@ -46,13 +46,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2021 年 11 月由美国国会通过并由总统拜登签署生效；作为《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》（IIJA，公法第 117-58 号）第 IX 部门的法定核心组成部分。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 12)]]
+> - **发布时间 / 发布主体** 2021 年 11 月由[[United States Congress|美国国会]]通过并由总统拜登签署生效；作为《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》（IIJA，公法第 117-58 号）第 IX 部门的法定核心组成部分。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 12)]]
 > - **适用地区 / 对象** 全美所有接受联邦政府财政资助的交通、能源、供水、宽带、电网与港口等公共基础设施建设项目及相关承包商与材料供应商。
 > - **问题背景** 过去数十年美国传统基建严重依赖海外廉价进口建材与设备，造成本土钢铁、特种合金与制造品产业严重空心化；在全球供应链脆弱性凸显的背景下，联邦政府亟需通过公共采购拉动本土供应链重建。
 > - **制度位置** 大幅强化并扩展了 1933 年《购买美国产品法》（Buy American Act）与 1982 年《地面运输援助法》中的 Buy America 条款，首次将采购要求从交通部门扩展到全口径联邦基建，并覆盖非铁类建筑材料与高技术制成品。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]

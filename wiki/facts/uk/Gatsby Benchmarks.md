@@ -14,7 +14,7 @@ fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
-issuing_organization: Gatsby Charitable Foundation, Department for Education
+issuing_organization: "Gatsby Charitable Foundation, [[Department for Education]]"
 tags:
   - region/uk
   - policy/careers-guidance
@@ -30,13 +30,13 @@ related_persons: []
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **制定主体与时间** 2014 年由约翰·霍尔曼爵士（Sir John Holman）领衔在盖茨比慈善基金会（Gatsby Charitable Foundation）资助下制定；2018 年被英国教育部（DfE）正式确立为全英所有中学与延续教育学院的国家法定职业指导基准。
+> - **制定主体与时间** 2014 年由约翰·霍尔曼爵士（Sir John Holman）领衔在盖茨比慈善基金会（Gatsby Charitable Foundation）资助下制定；2018 年被[[Department for Education|英国教育部]]（DfE）正式确立为全英所有中学与延续教育学院的国家法定职业指导基准。
 > - **适用对象** 英格兰全体 11–18 岁中学生及职业指导教师。
 > - **问题背景** 传统学校职业生涯指导碎片化、与学科课堂教学严重脱节，导致学生尤其是弱势家庭学生对 [[STEM Education\|STEM]] 职业前景缺乏清晰认知与规划。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 36)]]
 > - **制度位置** 英国中等教育职业发展与产业衔接的黄金标准体系。

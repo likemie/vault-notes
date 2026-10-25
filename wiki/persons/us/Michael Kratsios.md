@@ -66,7 +66,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -86,7 +86,7 @@ updated: 2026-10-22
 > [!timeline] 生平与职涯发展
 > - **1986年** 出生于美国，后毕业于普林斯顿大学政治系，专攻前沿科技创新与[[Geopolitics|地缘政治]]博弈。
 > - **2010s 前期** 长期担任硅谷风险投资机构（Thiel Capital）幕僚长与投资总监，深入参与尖端人工智能与数字科技早期资本孵化。
-> - **2017–2021年** 担任白宫总统副助理兼美国首席技术官（CTO），2019 年主导发布白宫首个国家级 AI 战略纲领，并兼任五角大楼代理研发副部长，统筹国防关键[[Research Translation|技术转化]]与军民融合。
+> - **2017–2021年** 担任白宫总统副助理兼美国首席技术官（CTO），2019 年主导发布白宫首个国家级 AI 战略纲领，并兼任[[Department of Defense|五角大楼]]代理研发副部长，统筹国防关键[[Research Translation|技术转化]]与军民融合。
 > - **2021–2024年** 投身产业前沿，担任领先大模型数据架构企业 Scale AI 董事总经理，倡导公私融合的国家级人工智能基础设施建设。
 > - **2025年起** 出任[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）主任兼总统科学顾问，主管对联邦科研资助格局与[[Innovation Ecosystem|创新生态]]的系统性重组。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. v)]]
 

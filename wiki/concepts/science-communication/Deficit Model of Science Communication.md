@@ -60,7 +60,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-08-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!def] Deficit Model of Science Communication
@@ -71,7 +71,7 @@ updated: 2026-10-22
 > - **用途** 帮助科学社会学、传播学与教育政策研究批判反思以专家为中心的居高临下态度，为推动双向平等对话、情境化共创与参与式治理提供反思靶子。
 > - **边界** 批判赤字模型并不意味着否定科学证据的客观有效性，而是强调受众态度与实践决策由价值观、专业自主性、制度环境、情境复杂性及信任网络等多重复杂机制共同塑造。
 
-> [!citation-card] 英国皇家学会论赤字模型及其超越
+> [!citation-card] [[Royal Society|英国皇家学会]]论赤字模型及其超越
 > 传统科学普及往往假定公众对科学的抵触源于科学知识的匮乏，因而采取自上而下的单向知识灌输。现代科学参与政策已彻底超越这种赤字模型，确立了以双向倾听、公众参与和制度互信为基石的新[[Paradigm\|范式]]。（[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026, p. 10]]）
 >
 > *Traditional public understanding of science often assumed that public scepticism stemmed from a lack of scientific knowledge, adopting top-down, one-way dissemination. Modern public engagement policy has decisively moved beyond this deficit model, establishing a new paradigm grounded in mutual listening, public participation, and institutional trust.*
@@ -135,7 +135,7 @@ updated: 2026-10-22
 > [!concept-lens] 科学传播[[Paradigm\|范式]]反思与信任建构
 > 探讨公众对转基因、疫苗、气候变化及教育政策等复杂议题的疑虑机制，揭示单纯提升科学知识素养无法直接推导为对科学结论与公共政策的无条件支持。
 
-> [!claim] The Royal Society
+> [!claim] [[Royal Society|The Royal Society]]
 > **公众信任危机源于治理透明度而非知识赤字** 英国皇家学会（[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026]]）回顾 40 年科学传播史指出，自 1985 年《[[Bodmer Report 1985\|博德默尔报告]]》（[[Bodmer Report 1985]]）以来，单纯通过媒体与讲座单向灌输科学事实的赤字模型在应对公众信任危机时被证实根本失效。公众对科技创新的疑虑往往源于对商业利益垄断、风险治理不透明及伦理关切的回应不足；唯有在科研全生命周期建立双向倾听与参与机制，才能构筑可持续的社会信任基石。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 4–10)]]
 
 > [!claim] House of Lords Select Committee

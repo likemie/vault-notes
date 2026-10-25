@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -76,7 +76,7 @@ updated: 2026-10-25
 > - **解释对象** 教育学术研究成果如何有效介入并整合进国家宏观教育政策制定与法律改革进程。
 > - **理论问题** 传统[[Evidence-Based Education\|循证教育]]改革将[[Randomised Controlled Trials\|随机对照试验]]（RCT）奉为单一黄金标准，但在宏观立法中遭遇时间系统脱节、价值负荷与政治妥协等重重阻碍；学术界缺乏关于政策世界内在运行节律、国会委员会决策机制与精准介入时机的行动理论。
 > - **理论类型** 中层[[Analytic Framework\|分析框架]]、政策实践指引模型。
-> - **知识位置** 根植于[[Six-Stage Model of Policymaking\|公共政策六阶段模型]]（Stage Model of Policymaking）与教育[[Policy Science in Comparative Education\|政策科学]]传统，由教育心理学家泽韦兰吉·N·塞佩尔（Zewelanji N. Serpell, 2020）基于美国国会众议院立法实务经验系统构建。
+> - **知识位置** 根植于[[Six-Stage Model of Policymaking\|公共政策六阶段模型]]（Stage Model of Policymaking）与教育[[Policy Science in Comparative Education\|政策科学]]传统，由教育心理学家泽韦兰吉·N·塞佩尔（Zewelanji N. Serpell, 2020）基于[[United States Congress|美国国会]]众议院立法实务经验系统构建。
 
 > [!claim] 核心主张
 > 政策制定过程具备内在的阶段规律与动态机会窗口；学术研究要对宏观教育政策产生实质影响，研究者必须摒弃纯粹客观中立的旁观者伪装，深刻体察立法机构的突发时间系统与党派价值诉求，在问题识别、议程设置、政策制定及政策合法化四个关键阶段精准匹配不同形态的证据资源，借助国会幕僚与智库中介网络实现法条化传播与长效协同。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 40–46)]]

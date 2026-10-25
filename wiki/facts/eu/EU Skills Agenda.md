@@ -51,11 +51,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 背景
-> [[EU]] Skills Agenda（欧盟技能议程）全称"欧洲新技能议程"（A New Skills Agenda for Europe），由欧盟委员会于 2016 年发布，是 [[Europe 2020 Strategy]]（2010–2020）的两大旗舰倡议之一。该议程融合了[[Welfare-to-Work|积极劳动力市场政策]]（Active Labour Market Policies, ALMPs）与欧盟教育培训战略（EU Education and Training Strategy），旨在同时提高就业率和生产率水平(European Commission, 2016; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168]])。
+> [[EU]] Skills Agenda（欧盟技能议程）全称"欧洲新技能议程"（A New Skills Agenda for Europe），由[[European Commission|欧盟委员会]]于 2016 年发布，是 [[Europe 2020 Strategy]]（2010–2020）的两大旗舰倡议之一。该议程融合了[[Welfare-to-Work|积极劳动力市场政策]]（Active Labour Market Policies, ALMPs）与欧盟教育培训战略（EU Education and Training Strategy），旨在同时提高就业率和生产率水平(European Commission, 2016; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168]])。
 >
 > Skills Agenda 的提出回应了三重挑战：技能短缺与技能错配（skills mismatches）、数字转型对劳动力技能的冲击、以及早期辍学（early school leaving）对社会凝聚力的威胁。议程的核心理念是：技能形成既需要教育培训体系的支撑，也需要积极劳动力市场政策的介入——这两者不再被视为独立的政策领域([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168–169, 170]])。
 
@@ -92,7 +92,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心[[Theory of Change|变�
 
 [[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（n=168，16 个欧盟地区）揭示了 Skills Agenda 在地方层面的差异化接受([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–173]])：
 
-- **奥地利和德国** 地方专业人员以"[[Apprenticeship|学徒制]]系统"的[[Theory of Change|变革理论]]来理解和实施[[Lifelong Learning|终身学习]]政策。[[Policy Network|政策网络]]包含传统的[[Neocorporatism|新社团主义]]伙伴——政府、雇主协会和工会的三方合作，在一定程度上缓冲了[[Performance Indicators|绩效指标]]的 [[Selectivity]] 效应（p.172–173）
+- **奥地利和德国** 地方专业人员以"[[Apprenticeship|学徒制]]系统"的[[Theory of Change|变革理论]]来理解和实施[[Lifelong Learning|终身学习]]政策。[[Policy Network|政策网络]]包含传统的[[Neocorporatism|新社团主义]]伙伴——政府、雇主协会和工会的[[Triangular Cooperation|三方合作]]，在一定程度上缓冲了[[Performance Indicators|绩效指标]]的 [[Selectivity]] 效应（p.172–173）
 - **芬兰** 以"公私民合作"（Public-Private-People-Partnerships）模式运作，终身学习被视为对所有人开放的人类发展服务，而非仅针对失业青年的就业工具（p.173）
 - **苏格兰** 采用"就业管道"（Employment Pipeline）模式，将就业服务、教育培训和非营利支持整合为一条龙网络（p.173）
 

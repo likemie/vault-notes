@@ -63,7 +63,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-20
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Liu_2025_IndHE"
@@ -146,7 +146,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　跨国教育合作需要以双向互惠的知识外交取代单向地缘权力竞争
+> [!claim] 论证步骤一　跨国教育合作需要以双向互惠的[[Knowledge Diplomacy|知识外交]]取代单向地缘权力竞争
 > 依靠[[Soft Power|软实力]]宣介或单向争夺知识主导权的竞争[[Paradigm|范式]]，无法解释致力于解决全球发展不平等的教育合作实践，必须引入以互信互惠、平等协作为核心的[[Knowledge Diplomacy|知识外交]][[Analytic Framework|分析框架]]。
 
 #### 1. 单向争夺主导权的权力逻辑无法解释减贫与缩小差距的教育援助

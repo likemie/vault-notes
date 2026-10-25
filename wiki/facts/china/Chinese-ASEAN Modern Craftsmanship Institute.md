@@ -34,13 +34,13 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 中国—东盟现代工匠学院是由中华人民共和国教育部与广西壮族自治区人民政府在“部区会商推进职业教育高质量发展试验区”框架下立项推进的重大职教出海工程，依托广西骨干职业技术院校联合跨国骨干制造企业在东盟国家合作设立，是继鲁班工坊之后中国职业教育走向东盟的又一系统性办学品牌。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 294, 298–299)]]
+> 中国—[[ASEAN|东盟]]现代工匠学院是由[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]与广西壮族自治区人民政府在“部区会商推进职业教育高质量发展试验区”框架下立项推进的重大[[Education Going Global|职教出海]]工程，依托广西骨干职业技术院校联合跨国骨干制造企业在东盟国家合作设立，是继[[Luban Workshop|鲁班工坊]]之后中国职业教育走向东盟的又一系统性办学品牌。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 294, 298–299)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2023 年正式启动实施，截至 2024 年已在东盟成员国布局设立 17 所现代工匠学院。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 288)]]
@@ -56,11 +56,11 @@ updated: 2026-10-22
 > [!policy-design] 方案设计
 > - **项目目标** 建设高水平海外实训基地，为东道国重大基础设施运维与跨国产能合作精准培育掌握现代化装备技术标准的本土工程技术工匠。
 > - **覆盖对象** 东盟国家职业技术学校在读学生、涉外产业园区青年技术人员与出海中资企业本土关键岗位骨干。
-> - **干预措施** 联合共建海外技术创新学院与实训车间；成套输出专业核心课程与双语教材；开展属地师资培训；推行“现代学徒制”跨国校企联合培养。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 298–299)]]
+> - **干预措施** 联合共建海外技术创新学院与实训车间；成套输出专业核心课程与双语教材；开展属地师资培训；推行“[[Apprenticeship|现代学徒制]]”跨国校企联合培养。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 298–299)]]
 > - **实施控制** 纳入部区会商年度目标考核，建立学院建设绩效评估与出海企业满意度追踪机制。
 
 > [!citation-card] 部区协同打造现代工匠学院集群
-> 截至 2024 年，广西积极对接联合国教科文组织及东盟各国高校，立项建设约 10 个中国—东盟技术创新学院，在东盟国家累计设立 17 所中国—东盟现代工匠学院，并成立中国—东盟产教发展智库，推动职业教育高水平对外开放走深走实。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 288)]]
+> 截至 2024 年，广西积极对接[[UNESCO|联合国教科文组织]]及东盟各国高校，立项建设约 10 个中国—东盟技术创新学院，在东盟国家累计设立 17 所中国—东盟现代工匠学院，并成立中国—东盟产教发展智库，推动[[Internationalization of Vocational Education|职业教育高水平对外开放]]走深走实。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 288)]]
 >
 > *as of 2024, Guangxi has actively engaged with various institutions of higher education within the United Nations as well as the nations of ASEAN to create projects for the construction of around 10 Chinese-ASEAN institutes for technological innovation... the establishment of a total of 17 Chinese-ASEAN institutes for modern craftsmanship in the nations of ASEAN...*
 
@@ -121,4 +121,4 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 记录现代工匠学院集群在东盟设立 17 所的实证案例，论述其依托部区共建推动职教组团出海的制度范式（pp. 288, 294, 298–299）。
+> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 记录现代工匠学院集群在东盟设立 17 所的实证案例，论述其依托部区共建推动职教组团出海的制度[[Paradigm|范式]]（pp. 288, 294, 298–299）。

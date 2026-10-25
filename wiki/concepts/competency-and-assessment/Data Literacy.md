@@ -74,7 +74,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -148,7 +148,7 @@ updated: 2026-10-23
 > 现代社会公共议题高度依赖数据模型与统计表征，缺乏通识数据素养将导致公民丧失实质性参与民主对话与抵御虚假信息的能力。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
-> **全员贯穿必修** 英国皇家学会《Mathematical Futures》与《科学为社会》报告共同指出，数据素养必须打破数学单科藩篱，作为横向线索贯穿科学、地理与社会科学大纲，成为面向 18 岁所有学习者的核心必修素养，支撑公民在真实复杂情境中开展概率推理与数据批判。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 31)]]
+> **全员贯穿必修** [[Royal Society|英国皇家学会]]《Mathematical Futures》与《科学为社会》报告共同指出，数据素养必须打破数学单科藩篱，作为横向线索贯穿科学、地理与社会科学大纲，成为面向 18 岁所有学习者的核心必修素养，支撑公民在真实复杂情境中开展概率推理与数据批判。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 31)]]
 
 ---
 
@@ -232,7 +232,7 @@ updated: 2026-10-23
 > - **数据崇拜与评价窄化** 数据素养在实践中常被异化为对“易量化指标”（如测验分数、达标率）的机械统计，忽视了教育中难以被简单量化的育人价值、学生情感与复杂社会互动过程。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 133)]]
 > - **合规负担与专业[[Cognitive Deskilling|去技能化]]** 当数据素养被政策工具化为自上而下的问责审计手段时，会加剧教师的报表文书负担，甚至削弱教师基于长年经验的[[Professional Judgment\|专业判断]]与直觉敏感性。
 > - **缺乏教学干预推导力** 数据素养能够帮助教师精确定位教学问题所在，但数据本身绝不提供现成处方；若缺乏深厚教学法底蕴与外部研究支持，教师依然苦于研制不出科学改进措施。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 159)]]
-> - **个体化赤字归因与系统责任转嫁** 国际机构倾向于将政策转化的制度性梗阻归咎于行政官员缺乏数据素养，将深层的体制与政治缺陷简化为个体技能不足。[[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, pp. 347–348)]]
+> - **个体化[[Deficit Framing|赤字归因]]与系统责任转嫁** 国际机构倾向于将政策转化的制度性梗阻归咎于行政官员缺乏数据素养，将深层的体制与政治缺陷简化为个体技能不足。[[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, pp. 347–348)]]
 
 ---
 

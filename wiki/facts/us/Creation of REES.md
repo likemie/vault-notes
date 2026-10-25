@@ -38,14 +38,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 背景
 > 在 2010 年代"[[Reproducibility Crisis|复制危机]]"（replication crisis）和"可疑研究实践"（questionable research practices）受到广泛关注的背景下，教育研究界开始寻求结构性解决方案。[[Publication Bias\|发表偏倚]]、选择性报告和[[Researcher Degrees of Freedom\|研究者自由度]]被认为是导致教育项目评估文献系统性高估干预效果的关键因素。2015 年 [[Every Student Succeeds Act\|ESSA]] 通过后，联邦拨款与项目有效性证据的绑定进一步提高了评估结果的经济利害关系，加剧了偏倚风险。([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 443]])
 
 > [!note] 经过
-> - **2018** — 美国教育部教育科学研究所（[[Institute of Education Sciences\|IES]]）正式启动 **Registry of Efficacy and Effectiveness Studies (REES)**([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 444]])
+> - **2018** — [[United States Department of Education|美国教育部]]教育科学研究所（[[Institute of Education Sciences\|IES]]）正式启动 **Registry of Efficacy and Effectiveness Studies (REES)**([[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 444]])
 > - REES 由 Anderson, Spybrook and Maynard (2019) 在 *Educational Researcher* 第 48 卷第 1 期上系统描述
 > - REES 被专门设计用于教育领域的项目评估——即"旨在确定教育干预或策略的功效或有效性的研究"（Anderson et al., 2019, p. 48; 引自 Wolf et al., 2020, p. 444）
 

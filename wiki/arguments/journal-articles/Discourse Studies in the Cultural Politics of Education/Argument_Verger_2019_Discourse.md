@@ -102,7 +102,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-21
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Verger_2019_Discourse"
@@ -252,9 +252,9 @@ issuing_organization: ""
 > [!row-contrast] 核心新公共管理市场化国家的政策演进比较
 > | 比较维度 | 智利 | 英格兰 | 美国 |
 > |---|---|---|---|
-> | **初始制度驱动** | 军政府新自由主义休克疗法与教育券普及 | 撒切尔新右派削减地方官僚权力与择校赋权 | 应对国际经济竞争（《国家处在危险之中》）与民权公平诉求 |
+> | **初始制度驱动** | 军政府新自由主义休克疗法与[[School Vouchers\|教育券]]普及 | 撒切尔新右派削减地方官僚权力与择校赋权 | 应对国际经济竞争（《国家处在危险之中》）与民权公平诉求 |
 > | **核心评估工具** | [[SIMCE]] 全员常模与[[Criterion-Referenced Test\|标准参照]]统考 | 关键学段（Key Stages）全国统考与语音筛查 | 州级标准化统考（NCLB 框架）与国家教育进展评估（[[National Assessment of Educational Progress]], NAEP）抽样基线 |
-> | **问责制裁机制** | [[SNED]] 绩效奖金、[[Ley SEP]] 专项资助挂钩与关停威胁 | 官方成绩排行榜、英国教育标准局（[[Ofsted\|Office for Standards in Education, Children's Services and Skills]], Ofsted）督导分级与重组转制学院 | AYP 达标阶梯制裁、特许学校重组与教师 VAM 考核 |
+> | **问责制裁机制** | [[SNED]] 绩效奖金、[[Ley SEP]] 专项资助挂钩与关停威胁 | 官方成绩排行榜、英国教育标准局（[[Ofsted\|Office for Standards in Education, Children's Services and Skills]], Ofsted）督导分级与重组转制学院 | AYP 达标阶梯制裁、[[Charter Schools\|特许学校]]重组与教师 VAM 考核 |
 > | **两党政治生态** | 中左翼与右翼均支持强化国家规制以维护市场系统 | 保守党奠基、工党细化、联合政府强化表现主义 | 跨党派支持 NCLB，后续面临奥巴马增值考核争议 |
 
 #### 2. 北欧等国将评估用于兜底质量监测，并主动叫停容易引发恶性竞争的公开排名

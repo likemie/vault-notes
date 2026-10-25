@@ -62,7 +62,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-26
 subtype: report
 publication_type: book-chapter
 title: "Argument_Streeck_Thelen_2005_OUP"
@@ -85,7 +85,7 @@ issuing_organization: ""
 > 比较政治经济学与福利国家研究长期存在一种倾向，即将观察到的微小政策调整都解释为旧体制在变化环境中的自我维持与适应，因而忽视了现实中正在发生的实质性体制转变。核心问题在于：在没有爆发世界大战、剧烈政权崩溃或灾难性经济危机的情况下，发达资本主义国家如何通过看似缓慢、微小且累积的日常演变，最终产生颠覆性的重大制度变迁？
 
 > [!claim] 核心主张
-> 制度是由社会第三方强制力维系的规制体系；成文规则与基层实际执行之间始终存在缝隙，使行动者在常规历史时期得以通过置换（[[Institutional Displacement|displacement]]）、分层（[[Institutional Layering|layering]]）、漂移（[[Institutional Drift|drift]]）、转换（[[Institutional Conversion|conversion]]）与耗竭（[[Institutional Exhaustion|exhaustion]]）五种渐进变迁形态推进体制质变；当代资本主义的[[Liberalization|自由化]]改革正是依赖这些集体行动阻力较小的渐进机制深入铺开的。（pp. 4–9, 18–33）
+> 制度是由社会第三方强制力维系的规制体系；成文规则与基层实际执行之间始终存在缝隙，使行动者在常规历史时期得以通过置换（[[Institutional Displacement|displacement]]）、分层（[[Institutional Layering|layering]]）、漂移（[[Institutional Drift|drift]]）、转换（conversion）与耗竭（[[Institutional Exhaustion|exhaustion]]）五种渐进变迁形态推进体制质变；当代资本主义的[[Liberalization|自由化]]改革正是依赖这些集体行动阻力较小的渐进机制深入铺开的。（pp. 4–9, 18–33）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 西欧、美国与日本等发达工业民主国家二战后建立的劳资谈判、社会保障、金融监管与职业培训等核心经济制度。
@@ -207,7 +207,7 @@ issuing_organization: ""
 正式规则的外壳即使保持完好，行动逻辑的转变也会使制度在实质上发生根本重塑。（pp. 16–19）
 
 > [!claim|lead] 步骤三核心主张
-> [[Theory of Gradual Institutional Change|渐进制度变迁]]在实践中表现为置换（[[Institutional Displacement|displacement]]）、分层（[[Institutional Layering|layering]]）、漂移（[[Institutional Drift|drift]]）、转换（[[Institutional Conversion|conversion]]）与耗竭（[[Institutional Exhaustion|exhaustion]]）五大形态；每种形态在规则存废、执行偏差与核心驱动力上都有清晰的因果特征。（pp. 18–31）
+> [[Theory of Gradual Institutional Change|渐进制度变迁]]在实践中表现为置换（[[Institutional Displacement|displacement]]）、分层（[[Institutional Layering|layering]]）、漂移（[[Institutional Drift|drift]]）、转换（conversion）与耗竭（[[Institutional Exhaustion|exhaustion]]）五大形态；每种形态在规则存废、执行偏差与核心驱动力上都有清晰的因果特征。（pp. 18–31）
 
 #### 1. 制度形式的稳定性与实际运作相脱节，形成五种路径各异的渐进变迁形态
 

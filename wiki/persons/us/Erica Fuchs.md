@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -73,7 +73,7 @@ updated: 2026-10-22
 > [!timeline] 生平与职涯
 > - **1999–2006** 先后于麻省理工学院（MIT）获得材料科学与工程学士、技术与政策硕士以及技术、管理与政策博士学位，奠定了工程技术与公共政策跨学科研究底座。
 > - **2006–2010** 加入卡内基梅隆大学工程与公共政策系任教；针对 [[DARPA]] 微系统技术办公室（MTO）在半导体芯片前沿材料领域的资助历程展开长程追踪与[[Grounded Theory|扎根理论]]建构，系统梳理 1992–2008 年间技术政策转变，并在《研究政策》（*Research Policy*）发表奠基性论文。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1133–1135)]]
-> - **2011–2022** 持续聚焦全球制造业重构、半导体光子集成与量子技术等前沿领域的创新治理与国际竞争；当选[[American Association for the Advancement of Science|美国科学促进会]]（AAAS）会士，多次就美国科技[[Competitiveness|竞争力]]与芯片制造政策向美国国会提供专家证词。
+> - **2011–2022** 持续聚焦全球制造业重构、半导体光子集成与量子技术等前沿领域的创新治理与国际竞争；当选[[American Association for the Advancement of Science|美国科学促进会]]（AAAS）会士，多次就美国科技[[Competitiveness|竞争力]]与芯片制造政策向[[United States Congress|美国国会]]提供专家证词。
 > - **2022–至今** 领衔创立美国国家关键技术评估网络（NNCTA），获[[National Science Foundation|美国国家科学基金会]]（NSF）资助，开发用于评估国家战略性技术能力、供应链脆弱性与研发投资方向的跨学科定量数据平台。
 
 ---
@@ -107,7 +107,7 @@ updated: 2026-10-22
 
 > [!influence-path] 影响路径
 > - **理论路径** 拓展了[[Developmental Network State|发展型网络国家]]（Developmental Network State）理论，打破了网络学派中行动者被动受制于结构或仅充当消极中介桥梁的传统假定，赋予嵌入型代理人主动重塑网络拓扑（[[Network Plasticity|网络可塑性]]）的战略能动性。
-> - **方法路径** 示范了将微观材料工程参数、半导体产业分工演进与[[Grounded Theory|扎根理论]]质性追踪、文献计量学专利分析深度结合的研究路径。
+> - **方法路径** 示范了将微观材料工程参数、半导体产业分工演进与[[Grounded Theory|扎根理论]]质性追踪、[[Bibliometric Analysis|文献计量学]]专利分析深度结合的研究路径。
 > - **政策路径** 为美国国会审议《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act]]）以及国家科学基金会设立技术、创新与伙伴关系局（[[Directorate for Technology, Innovation and Partnerships|TIP]]）提供了关键的治理理论依据，推动了国家关键技术评估工程的制度化建构。
 
 ---

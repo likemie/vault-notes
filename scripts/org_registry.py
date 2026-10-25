@@ -181,7 +181,23 @@ def unresolved_names(value: str, name_map: dict[str, str]) -> list[str]:
     text = strip_wikilinks(value).strip().strip("'\"").strip()
     if not text:
         return []
-    return [p.strip() for p, t, sep in resolve(text, name_map) if not sep and not t and p.strip()]
+    # Report runs of unmatched pieces together, so "Department for Science,
+    # Innovation and Technology, [[Cabinet Office]]" yields one name.
+    names: list[str] = []
+    run: list[str] = []
+    def flush() -> None:
+        joined = "".join(run).strip().strip(",，、;；&/ ").strip()
+        if joined:
+            names.append(joined)
+        run.clear()
+
+    for piece, target, _is_sep in resolve(text, name_map):
+        if target:
+            flush()
+        else:
+            run.append(piece)
+    flush()
+    return names
 
 
 # --- generation (called from wiki_index.py) ------------------------------------

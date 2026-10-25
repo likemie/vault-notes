@@ -42,13 +42,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
-> [!def] Technology Habituation
-> 技术[[Habituation\|习惯化]]（Technology Habituation）是由英国皇家学会《科学造福社会》（*Science for Society*）报告提出的前沿科技教育治理概念。它主张在基础教育（K-12）阶段，通过国家公共财政与研发机构的专项定向资助，使全体中小学生能够常态化、低门槛地亲身操作前沿数据赋能技术（如[[Generative Artificial Intelligence\|生成式人工智能]]、增强现实 AR、三维打印等现代先进制造），使其从高深冷峻的“神秘客”转化为如纸笔和计算器般习以为常的认知工具，从而在个体认知早期建立批判性理解，并从根本上破除社会对颠覆性技术的信任赤字与认知恐惧。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 76)]]
+> [!def] Technology [[Habituation]]
+> 技术[[Habituation\|习惯化]]（Technology Habituation）是由[[Royal Society|英国皇家学会]]《科学造福社会》（*Science for Society*）报告提出的前沿科技教育治理概念。它主张在基础教育（K-12）阶段，通过国家公共财政与研发机构的专项定向资助，使全体中小学生能够常态化、低门槛地亲身操作前沿数据赋能技术（如[[Generative Artificial Intelligence\|生成式人工智能]]、[[Augmented Reality|增强现实]] AR、三维打印等现代先进制造），使其从高深冷峻的“神秘客”转化为如纸笔和计算器般习以为常的认知工具，从而在个体认知早期建立批判性理解，并从根本上破除社会对颠覆性技术的信任赤字与认知恐惧。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 76)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调通过学校教育情境中的高频次、普惠性具身体验，消解前沿颠覆性技术对普通公众的心理疏离感与认知威慑感。

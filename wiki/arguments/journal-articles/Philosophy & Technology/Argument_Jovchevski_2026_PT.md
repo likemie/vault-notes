@@ -52,7 +52,7 @@ sources:
 part_of:
 status: active
 created: 2026-09-22
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Jovchevski_2026_PT"
@@ -231,7 +231,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤四　向人机决策回路注入认识论摩擦是校准批判性信任与恢复抗辩权的关键设计路径
+> [!claim] 论证步骤四　向人机决策回路注入[[Epistemic Friction|认识论摩擦]]是校准批判性信任与恢复抗辩权的关键设计路径
 > 克服强自动化偏差不能寄希望于操作者的自发警惕，而必须在人机交互回路中系统性注入[[Epistemic Friction|认识论摩擦]]，利用反思机器与[[Defeater|反驳型击败者]]重构操作者的审思所有权与可抗辩性。
 
 #### 1. 反思机器在关键决策节点通过开放追问重构人类的审思所有权与认知投入

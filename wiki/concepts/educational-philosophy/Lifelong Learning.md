@@ -105,7 +105,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -130,9 +130,9 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 终身学习与相关教育形态的学理辨析
-> | 概念维度 | 核心范畴与时空范围 | 驱动机制与目的旨趣 | 制度化载体与评价方式 |
+> | 概念维度 | [[Central Phenomenon\|核心范畴]]与时空范围 | 驱动机制与目的旨趣 | 制度化载体与评价方式 |
 > |---|---|---|---|
-> | **[[Lifelong Learning\|终身学习（Lifelong Learning）]]** | 贯穿个体生命全周期（涵盖儿童、青年、成人与老年）；跨越正规、非正规与非正式场域 | 适应知识快速折旧、发展通用胜任力与自主规制倾向；兼具全人发展与人力资本更新 | 社区文化设施、科普场馆、跨国流动、自我规制学习与生活情境评估（如 PISA） |
+> | **[[Lifelong Learning\|终身学习（Lifelong Learning）]]** | 贯穿个体生命全周期（涵盖儿童、青年、成人与老年）；跨越正规、非正规与非正式[[Champ\|场域]] | 适应知识快速折旧、发展通用胜任力与自主规制倾向；兼具全人发展与[[Human Capital Theory\|人力资本]]更新 | 社区文化设施、科普场馆、跨国流动、自我规制学习与生活情境评估（如 PISA） |
 > | **传统学龄教育（Formal Schooling）** | 局限于特定年龄阶段（基础教育至高等教育）；受限于固定学制时空与物理校园 | 传承国家既定学科体系与文化规范，达成课程知识再现与阶梯式文凭甄选 | 国家法定课程大纲、标准化科目纸笔测试与学科毕业文凭 |
 > | **成人补习教育（Adult Remedial Education）** | 面向走出正规学制的成年期劳动者；通常采取模块化短期补缺形态 | 针对正规教育阶段遗留的技能或学历缺口，开展补偿性技能补救或扫盲 | 职业再培训中心、夜校认证、微证书培训与岗位技能达标考核 |
 
@@ -208,7 +208,7 @@ updated: 2026-10-22
 > **终身学习从福利权利向生产力生存命令与可测倾向的[[Paradigm|范式]]重塑** 里兹维与林加德结合[[Dominique Foray|多米尼克·福雷]]与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Foray & Lundvall, 1996）的研究指出，在[[Knowledge-Based Economy|知识经济]]中，静态的事实性与[[Theoretical Knowledge|理论性知识]]（knowing that）面临快速折旧，决定生产力与财富创造的是掌握实践操作诀窍（[[Procedural Knowledge|knowing how]]）、利用技术与他人沟通协作以及分享创新的动态能力。国家能否汲取新经济的红利，取决于其转型为学习型经济的速度；由此，学习必须打破正规学龄教育的垄断，演变为贯穿全生命周期的常态化实践。经合组织不仅将终身学习确立为新自由主义[[Social Imaginary|社会想象]]的支柱，更通过[[PISA|国际学生评估项目]]（[[PISA]]）将其制度化为跨国度量标准——宣称其测查的是学生在义务教育终点应对真实生活挑战时的“终身学习倾向”（dispositions for lifelong learning）。这一机制将教育的公共与文化目的彻底从属于经济目标，将终身适应劳动力市场转化为个体的绝对生存命令。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–447)]]
 
 > [!claim] Grek
-> **终身学习向义务教育阶段的前置投射与非认知自我规制测评** 索蒂里亚·格雷克（Sotiria Grek）指出，经济合作与发展组织（[[OECD]]）推行的[[PISA]]测评将终身学习要求提前嵌入义务教育终点阶段。PISA 脱离国家具体学科大纲，将测评基准设定为面向未来真实生活的通用胜任力；更将测评范畴拓展至学生的非认知维度，系统测查 15 岁学生的自主规制学习策略、学习动机与[[Self-Efficacy|自我效能感]]。这一机制将终身学习从成人的职业技能重塑，向前延伸为向基础教育渗透的治理技术，把在校学生提前塑造成能够自主规制学习节奏与适应未来劳动力市场的终身学习主体[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27, 35)]]。
+> **终身学习向义务教育阶段的前置投射与非认知自我规制测评** 索蒂里亚·格雷克（[[Sotiria Grek]]）指出，经济合作与发展组织（[[OECD]]）推行的[[PISA]]测评将终身学习要求提前嵌入义务教育终点阶段。PISA 脱离国家具体学科大纲，将测评基准设定为面向未来真实生活的通用胜任力；更将测评范畴拓展至学生的非认知维度，系统测查 15 岁学生的自主规制[[Learning Strategies|学习策略]]、学习动机与[[Self-Efficacy|自我效能感]]。这一机制将终身学习从成人的职业技能重塑，向前延伸为向基础教育渗透的治理技术，把在校学生提前塑造成能够自主规制学习节奏与适应未来劳动力市场的终身学习主体[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27, 35)]]。
 
 ---
 
@@ -246,7 +246,7 @@ updated: 2026-10-22
 > - **2006 年与 2018 年 [[EU|欧盟]][[21st Century Skills and Competencies Discourse|关键能力]]框架** 欧洲联盟（European Union, EU）发布并更新《终身学习核心素养建议书》（[[EU Key Competences for Lifelong Learning]]），确立了包括科学、数学、数字素养、公民素养及[[Learner Autonomy|自主学习]]在内的八大终身学习关键能力。
 > - **2007 年 欧盟“终身学习计划”（Lifelong Learning Programme, LLP）确立跨国流动支柱** 欧盟正式启动 2007–2013 综合性“终身学习计划”（LLP），将[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）、夸美纽斯计划（COMENIUS）、达芬奇计划（LEONARDO [[Dynamic Assessment|DA]] VINCI）及格伦特维计划（GRUNDTVIG）全面整合；将学生跨国流动（[[Student Mobility|学生流动性]]）确立为获取终身学习素养与提升个体就业胜任力的核心制度载体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 > - **2009 年 — PISA 测评将终身学习前置并嵌入义务教育治理** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]）论证指出，经合组织通过 PISA 测评将终身学习机制前置至 15 岁义务教育阶段；测评不仅脱离了具体国家课程，更系统测查学生的学习动机、[[Self-Efficacy|自我效能感]]与自我规制策略，将青年学生提前塑造为必须终身自负其责、持续自我规制的知识经济主体（pp. 26–27, 35）。
-> - **2020 年代中 数字化、绿色化转型与社会文化基础设施演进** 面对[[Generative Artificial Intelligence|生成式人工智能]]（Artificial Intelligence, AI）颠覆与气候变化危机，英国皇家学会（Royal Society, 2026）重塑终身学习[[Construct|构念]]，提出涵盖[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养的交叉素养框架，并将科技馆、探索中心及[[Citizen Science|公民科学]]确立为保障全民终身学习的社会与文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
+> - **2020 年代中 数字化、绿色化转型与社会文化基础设施演进** 面对[[Generative Artificial Intelligence|生成式人工智能]]（Artificial Intelligence, AI）颠覆与气候变化危机，[[Royal Society|英国皇家学会]]（Royal Society, 2026）重塑终身学习[[Construct|构念]]，提出涵盖[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养的交叉素养框架，并将科技馆、探索中心及[[Citizen Science|公民科学]]确立为保障全民终身学习的社会与文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 
 ---
 
@@ -281,7 +281,7 @@ updated: 2026-10-22
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
@@ -289,7 +289,7 @@ updated: 2026-10-22
 > | [[Public Attitudes to Science\|PAS 2025 调查 (The Royal Society, 2026, p. 47)]] | 英国代表性成年公众样本 | 全国抽样[[Questionnaire\|问卷调查]] | 信息渴求度、决策参与感、场馆访问率 | 62% 渴求更多科学信息；12% 认为公众充分参与科技决策；动植物园年访问率 42%、科技馆 33%、科学探索中心 24% | — | 揭示出公众终身参与意愿高涨与制度化参与渠道匮乏的结构性落差 |
 > | [[UK Science Education Tracker\|SET 2016–2023 追踪 (The Royal Society, 2026, p. 33)]] | 英格兰 14–16 岁青少年样本 | 7 年三期纵向追踪 | 课堂动手实验参与频率 | 双周动手实验率自 44% 下降至 26% | — | 聚焦英格兰青少年，实证探究萎缩对终身科学探究信心的影响 |
 > | PwC 绿色技能缺口模型 [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]] | 英国劳动力市场预测 | 计量经济劳动力模型 | 绿色转型岗位技能缺口 | 英国低碳转型面临约 20 万名绿色技能专业人才缺口 | — | 宏观劳动力模型预测，反映成年劳动力终身技能重构的迫切性 |
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 26–27, 35)]] | 欧洲教育治理体系与 OECD PISA 测评实践（英国、德国与芬兰） | 政策社会学比较个案研究（专家深度访谈与多边政策文本分析） | 终身学习测评指标（学习动机、自我效能感与自主规制策略）及治理机制 | 揭示 OECD 将终身学习前置至 15 岁义务教育阶段，通过跨国标准化等值标尺将非认知心理特质转化为可比的终身学习胜任力指标，重构国家教育政策议程 | — | 质性政策社会学分析，揭示国际组织指标建构背后的治理术演进 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 26–27, 35)]] | 欧洲教育治理体系与 OECD PISA 测评实践（英国、德国与芬兰） | 政策社会学比较[[Case Study\|个案研究]]（专家[[In-depth Interview\|深度访谈]]与多边政策文本分析） | 终身学习测评指标（学习动机、自我效能感与自主规制策略）及治理机制 | 揭示 OECD 将终身学习前置至 15 岁义务教育阶段，通过跨国标准化等值标尺将非认知心理特质转化为可比的终身学习胜任力指标，重构国家教育政策议程 | — | 质性政策社会学分析，揭示国际组织指标建构背后的治理术演进 |
 
 ---
 

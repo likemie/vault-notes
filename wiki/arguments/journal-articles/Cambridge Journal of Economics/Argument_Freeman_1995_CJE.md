@@ -70,7 +70,7 @@ sources:
 part_of:
 status: completed
 created: 2026-10-05
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Freeman_1995_CJE"
@@ -311,7 +311,7 @@ issuing_organization: ""
 > [!citation-card] 跨国公司母国锚固与全球化神话的破灭
 > 绝大多数以日本为基地的跨国公司在本质上依然是具备国际化经营业务的日本本土企业，而非真正的无国界企业；美国以及其他跨国公司在其本土环境中的表现亦完全如此。跨国公司的绝大部分研发活动依然压倒性地集中在母国大本营进行，并受到本土国家[[Systems of Innovation|创新系统]]的极深影响。
 >
-> *The vast majority of Japanese-based TNCs remain essentially Japanese companies with international operations rather than truly international companies and the same is true of US and most other MNCs in relation to their home environment. Most R&D activities of MNCs are still overwhelmingly conducted in the domestic base of the company and are heavily influenced by the local [[National Innovation System|National System of Innovation]].*
+> *The vast majority of Japanese-based TNCs remain essentially Japanese companies with international operations rather than truly international companies and the same is true of US and most other MNCs in relation to their [[Home Environment|home environment]]. Most R&D activities of MNCs are still overwhelmingly conducted in the domestic base of the company and are heavily influenced by the local [[National Innovation System|National System of Innovation]].*
 
 > [!citation-card] [[Michael Porter|迈克尔·波特]]论母国环境在激化全球竞争中的强化地位
 > 竞争优势是通过高度本地化的过程被创造和维持的。国家经济结构、价值观、文化、制度与历史的差异对竞争优势有着深刻影响。母国的作用显得比以往任何时候都更为强大。尽管竞争的全球化表面上似乎让国家变得不再重要，但实际上它却强化了国家的重要性。

@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -80,7 +80,7 @@ updated: 2026-10-22
 ---
 
 > [!actor-grid] 实施角色分工
-> - **中央立法与规制主管** 英国教育部，直接掌控国家课程大纲与统考技术标准制定。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
+> - **中央立法与规制主管** [[Department for Education|英国教育部]]，直接掌控国家课程大纲与统考技术标准制定。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
 > - **受规制地方中介** 地方教育当局（LEAs），由传统统领者被降格为提供辅助支持与协调的服务机构。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]
 > - **办学责任主体** 公立中小学及校董会，承担自负盈亏、生源吸纳与统考达标的全部连带责任。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256)]]
 > - **教育消费者** 学生家长，以统考公开排位表为依据行使[[School Choice|择校]]权与监督权。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 253)]]

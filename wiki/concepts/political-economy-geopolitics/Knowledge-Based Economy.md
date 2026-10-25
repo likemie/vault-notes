@@ -106,7 +106,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -189,7 +189,7 @@ updated: 2026-10-22
 > KBE 必须通过微观机制在劳动者心智中建立持续升级技能的自我问责机制，使个体主动承担适应市场动荡的全部代价。
 
 > [!claim] Zelinka; Hartmann
-> **[[21st Century Skills and Competencies Discourse|21世纪技能]]话语是KBE在个体层面的[[Operationalization|操作化]]机制** KBE 逻辑将知识界定为增长源泉，而 21 世纪技能话语（Skills and Competencies Discourse, SCD）则将宏观经济需求转化为个体必须终身获取的技能清单；知识生命周期的缩短驱动了[[Further Education|继续教育]]与企业培训的常态化，将劳动者规训为对自身[[Employability|就业力]]负全责的“[[Self-Entrepreneur|自我企业家]]”。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 259–260)]]; [[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
+> **[[21st Century Skills and Competencies Discourse|21世纪技能]]话语是KBE在个体层面的[[Operationalization|操作化]]机制** KBE 逻辑将知识界定为增长源泉，而 21 世纪技能话语（Skills and Competencies Discourse, [[Single-Case Design|SCD]]）则将宏观经济需求转化为个体必须终身获取的技能清单；知识生命周期的缩短驱动了[[Further Education|继续教育]]与企业培训的常态化，将劳动者规训为对自身[[Employability|就业力]]负全责的“[[Self-Entrepreneur|自我企业家]]”。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 259–260)]]; [[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
 
 ---
 
@@ -229,10 +229,10 @@ updated: 2026-10-22
 > 探讨在知识经济全球竞争压力下，超国家组织如何突破主权与立法权能限制，依托跨国指标开展软法治理，并将教育评价从学校大纲考查转向面向成人市场的现实生活能力与自我规制主体塑造。
 
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
-> **超国家跨机构数据共生与软法治理机制** 索蒂里亚·格雷克（Sotiria Grek）指出，在欧盟通过[[Lisbon Strategy|里斯本战略]]将自身确立为全球最具竞争力知识经济体的背景下，教育政策面临根本性制度制约：根据欧盟条约中的[[Subsidiarity Principle|辅助性原则]]，布鲁塞尔无权制定具有法律约束力的教育指令或统编大纲。为克服立法权短板，欧盟委员会依托“开放协调法”（Open Method of Coordination, OMC），选择与经合组织建立深度共生同盟：欧盟出资 80% 资助成员国参与 PISA 调查，里斯本战略教育指标报告中 50% 至 60% 的基础数据直接采自经合组织。跨国排名与指标标杆使超国家实体无需修改法律条约，仅凭数字比拼与同伴压力便推动各成员国教育体系步调一致，形成了服务于知识经济竞争的跨国教育空间软法治理机制。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
+> **超国家跨机构数据共生与软法治理机制** 索蒂里亚·格雷克（[[Sotiria Grek]]）指出，在欧盟通过[[Lisbon Strategy|里斯本战略]]将自身确立为全球最具竞争力知识经济体的背景下，教育政策面临根本性制度制约：根据欧盟条约中的[[Subsidiarity Principle|辅助性原则]]，布鲁塞尔无权制定具有法律约束力的教育指令或统编大纲。为克服立法权短板，[[European Commission|欧盟委员会]]依托“[[Open Method of Coordination|开放协调法]]”（Open Method of Coordination, OMC），选择与经合组织建立深度共生同盟：欧盟出资 80% 资助成员国参与 [[PISA]] 调查，里斯本战略[[Performance Indicators|教育指标]]报告中 50% 至 60% 的基础数据直接采自经合组织。跨国排名与指标标杆使超国家实体无需修改法律条约，仅凭数字比拼与同伴压力便推动各成员国教育体系步调一致，形成了服务于知识经济竞争的跨国教育空间软法治理机制。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
 
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
-> **脱离具体课程的成人生活技能与自我规制主体塑造** 格雷克论证，面向知识经济竞争的大规模测评（如 PISA）实现了教育评价认识论上的深刻转向：测验彻底跳过各个国家具体的教学大纲与课程内容，转而直接考查 15 岁学生在成人生活与未来劳动力市场中应对现实挑战所需的功能性核心素养。这一评价范式将传统仅针对成人的[[Lifelong Learning|终身学习]]概念前置至基础教育阶段，要求学生自我报告学习动机与策略，从而将应对不确定经济竞争的风险转嫁给个体，驱动受教育者成为对自身人力资本增值负责、具备主动自我调节能力的知识经济劳动力。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27, 35)]]
+> **脱离具体课程的成人生活技能与自我规制主体塑造** 格雷克论证，面向知识经济竞争的大规模测评（如 PISA）实现了教育评价认识论上的深刻转向：测验彻底跳过各个国家具体的教学大纲与课程内容，转而直接考查 15 岁学生在成人生活与未来劳动力市场中应对现实挑战所需的功能性核心素养。这一评价[[Paradigm|范式]]将传统仅针对成人的[[Lifelong Learning|终身学习]]概念前置至基础教育阶段，要求学生自我报告学习动机与策略，从而将应对不确定经济竞争的风险转嫁给个体，驱动受教育者成为对自身[[Human Capital Theory|人力资本]]增值负责、具备主动自我调节能力的知识经济劳动力。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27, 35)]]
 
 ---
 
@@ -254,7 +254,7 @@ updated: 2026-10-22
 > - **二战后奠基（1950s–1970s） — 知识劳动者与后工业理论** Drucker（1959/1969）提出“知识型雇员”（Knowledge Worker）；Bell（1973）阐述[[Theoretical Knowledge|理论知识]]在后工业主义中的核心地位；人造卫星危机（1957）促使 [[OECD]] 将 [[STEM Education|STEM]] 教育与国家地缘经济[[Competitiveness|竞争力]]深度绑定。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
 > - **经济学理论化（1980s–1990s） — 内生增长与新自由主义全球化** Romer（1986）[[New Growth Theory|内生增长理论]]将知识与[[Human Capital Theory|人力资本]]确立为不受边际收益递减限制的内生动力；世界银行（1991）与 OECD（1996）正式将 KBE [[Discourse|话语]]确立为全球教育与经济政策主导典范。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]
 > - **发展型[[Network Governance|网络治理]]与虚构商品批判（2000s–2008） — 跨组织协同与产权反思** [[Fred Block|弗雷德·布洛克]]基于美国《R&D 100》大奖纵向追踪证实，后工业知识经济的突破性创新已从单一企业封闭研发转向由大学、联邦实验室与企业构成的跨组织网络，确立了去中心化[[Developmental Network State|发展型网络国家]]在[[Pasteur's Quadrant|巴斯德象限]]中的中介功能；同时从卡尔·波兰尼（Karl Polanyi）虚构商品视角批判了激进知识产权占有对开放科学与跨界研发协作的制度性反噬。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–176, 195–198)]]
-> - **2009 — 超国家软法数据治理与成人生活技能转向** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）基于欧洲教育空间经验揭示知识经济下的两重治理机制：欧盟在[[Lisbon Strategy|里斯本战略]]下通过开放协调法与采购经合组织数据实施软法治理，突破辅助性原则限制；同时大规模跨国测评跳过具体课程大纲，直接考核面向成人市场的生活技能与终身学习自我调节，推动个体在知识经济中承担自我优化的终身责任。
+> - **2009 — 超国家软法数据治理与成人生活技能转向** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）基于[[European Education Space|欧洲教育空间]]经验揭示知识经济下的两重治理机制：欧盟在[[Lisbon Strategy|里斯本战略]]下通过开放协调法与采购经合组织数据实施软法治理，突破辅助性原则限制；同时大规模跨国测评跳过具体课程大纲，直接考核面向成人市场的生活技能与终身学习自我调节，推动个体在知识经济中承担自我优化的终身责任。
 > - **全球扩散与空间运作（2000s–2010s） — 教育出口与枢纽建设** 亚洲国家与澳大利亚将 KBE 转化为教育出口战略；新加坡与迪拜通过“教育枢纽”政策将大学完全产业化为经济增长极。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022)]]; [[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022)]]
 > - **智能时代评价重构（2020s至今） — 聚焦高阶认知素养与评价治理** 面对生成式 AI 与劳动力深度重组，OECD 等国际组织反思“教育扩张”数量指标，转向推动以[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与真实表现任务为核心的高教评价与治理变革。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023)]]
 

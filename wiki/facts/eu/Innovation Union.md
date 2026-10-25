@@ -43,11 +43,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-13
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 背景
-> Innovation Union（创新联盟）是[[EU|欧盟]] [[Europe 2020 Strategy]]（2010–2020）的两大旗舰倡议之一，由欧盟委员会和欧盟理事会自 2010 年起部署。其远景植根于 1990 年代欧盟创始条约中对创新的法律架构，以及 2001 年[[Lisbon Strategy\|里斯本议程]]（Lisbon Agenda）首次将创新原则转化为政策目标的尝试([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168–169]])。
+> Innovation Union（创新联盟）是[[EU|欧盟]] [[Europe 2020 Strategy]]（2010–2020）的两大旗舰倡议之一，由[[European Commission|欧盟委员会]]和欧盟理事会自 2010 年起部署。其远景植根于 1990 年代欧盟创始条约中对创新的法律架构，以及 2001 年[[Lisbon Strategy\|里斯本议程]]（Lisbon Agenda）首次将创新原则转化为政策目标的尝试([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168–169]])。
 >
 > 提出背景包括：欧盟成员国面临财政紧缩、人口结构变迁以及全球市场竞争中新兴挑战的加剧。欧盟官方立场认为，需要发明新方法、产品、路径和实践来应对这些问题(European Commission, 2010; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168]])。
 

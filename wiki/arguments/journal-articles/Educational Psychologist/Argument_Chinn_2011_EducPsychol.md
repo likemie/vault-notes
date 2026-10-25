@@ -59,7 +59,7 @@ sources:
   - "[[sources/Chinn_2011_EducPsychol|Chinn_2011_EducPsychol]]"
 status: draft
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chinn_2011_EducPsychol"
@@ -169,7 +169,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三 为证词正名与确证标准的细化
+> [!claim] 论证步骤三 为证词正名与[[Justificatory Standards|确证标准]]的细化
 > 将诉诸权威视为低级信念是错误的。权威应当被去污名化并概念化为证词（testimony），同时[[Justificatory Standards\|确证标准]]必须实现情境特异化。
 
 > [!warrant]- 哲学辩护（概念合法性）
@@ -222,7 +222,7 @@ issuing_organization: ""
 > - **性格动力学视角的缺失**
 >   以往心理学模型将认知视为信息处理过程，无视主体性格特质或将其与非求真指向的一般性认知需求混为一谈，无法解释探究过程中的坚持与放弃。
 > - **社会互动与伦理行为的预测**
->   - **理智勇气的破局效用** 在小组协作学习中，引入理智勇气维度能解释为何只有少数学习者敢于顶住[[Peer Pressure|同侪压力]]提出少数派解释，避免群体盲思。
+>   - **理智勇气的破局效用** 在小组[[Collaborative Learning|协作学习]]中，引入理智勇气维度能解释为何只有少数学习者敢于顶住[[Peer Pressure|同侪压力]]提出少数派解释，避免群体盲思。
 >   - **情境双标现象的心理诊断** 美德评价在心理学实验中表现出极强的情境特异性（如认为科学家篡改数据是学术恶习，但为了应对期末[[Homework\|作业]]自己篡改数据却觉得情有可原）。
 > - **塑造认知韧性的基石**
 >   认识论美德决定了在遭遇阻力时能否坚持求真。必须将其作为独立的性格基石纳入模型。

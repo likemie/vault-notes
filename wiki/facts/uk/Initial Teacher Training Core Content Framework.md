@@ -15,7 +15,7 @@ fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "Department for Education"
+issuing_organization: "[[Department for Education]]"
 tags:
   - theme/teacher-education
   - theme/evidence-based-policy
@@ -50,13 +50,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2019 年 11 月由英国教育部（Department for Education, DfE）正式颁布，自 2020 年 9 月起作为英格兰所有[[Initial Teacher Training\|初始教师培训]]课程的强制性法定基准。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
+> - **发布时间 / 发布主体** 2019 年 11 月由[[Department for Education|英国教育部]]（Department for Education, DfE）正式颁布，自 2020 年 9 月起作为英格兰所有[[Initial Teacher Training\|初始教师培训]]课程的强制性法定基准。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
 > - **适用地区 / 对象** 覆盖英格兰所有提供[[Initial Teacher Training\|初始教师培训]]（Initial Teacher Training, ITT）的高等教育机构（HEI）、校本初始教师培训机构（SCITT）与学校直通车（School Direct）联盟，直接规范全体准教师及导师队伍。
 > - **问题背景** 应对英格兰教师教育长期存在的课程碎片化、各机构培训质量参差不齐、高校理论课程与中小学校本实践脱节，以及缺乏全国统一循证知识体系的问题。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 89–90)]]
 > - **制度位置** 直接承接 2015 年[[Carter Review of Initial Teacher Training\|卡特初始教师培训审查]]的核心建议与 2016 年《卓越教育无处不在》白皮书要求，与《早期职业框架》（Early Career Framework, ECF）无缝衔接，构成英格兰新教师前三年职业生涯的连贯专业发展阶梯。

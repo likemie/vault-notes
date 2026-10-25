@@ -137,7 +137,7 @@ sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch03_Burns_Schuller_2022|Ch03_Burns_Schuller_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 ---
 
@@ -274,7 +274,7 @@ updated: 2026-10-22
 在这一实践转向中，最具代表性的是英国[[Education Endowment Foundation|教育捐赠基金会]]所探索建立的全链条实践下沉体系（pp. 58, 62）：
 
 > [!case] 英国教育捐赠基金会（EEF）的实践下沉模式
-> - **法定留本基金资助与战略定位** 英国教育部于 2011 年一次性注资 1.25 亿英镑设立永久性留本基金（Endowment fund），由[[Sutton Trust\|萨顿信托]]（Sutton Trust）联合唯爱基金会发起成立独立慈善信托教育捐赠基金会（Education Endowment Foundation, EEF）。依托留本基金投资收益维系长期自主运营，彻底斩断政府 2 至 3 年短期财政拨款周期与政党选举更迭对研究议程的直接撕扯；明确将组织使命聚焦于破解 3 至 16 岁弱势背景学生的学业差距，深度对接全英“[[Pupil Premium\|学生溢价]]”（Pupil Premium）公共资助政策。
+> - **法定留本基金资助与战略定位** [[Department for Education|英国教育部]]于 2011 年一次性注资 1.25 亿英镑设立永久性留本基金（Endowment fund），由[[Sutton Trust\|萨顿信托]]（Sutton Trust）联合唯爱基金会发起成立独立慈善信托教育捐赠基金会（Education Endowment Foundation, EEF）。依托留本基金投资收益维系长期自主运营，彻底斩断政府 2 至 3 年短期财政拨款周期与政党选举更迭对研究议程的直接撕扯；明确将组织使命聚焦于破解 3 至 16 岁弱势背景学生的学业差距，深度对接全英“[[Pupil Premium\|学生溢价]]”（Pupil Premium）公共资助政策。
 > - **通俗化认知界面：《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》** 针对一线教师“时间匮乏、学术行话晦涩难懂”的现实痛点，EEF 梳理并综合了 5,500 余项实证研究，涵盖 30 余类微观教学干预策略，创立三维直观量化指标体系：（1）*额外学业进展月数（Months of additional progress）*，将复杂的[[Effect Size\|效应量]]折算为教师与校领导直观可感的“进展月数”（如[[Metacognition\|元认知]]与自我调节策略 +7 个月、同行辅导 +5 个月、助教不当配置 0 个月）；（2）*实施成本分级*，采用 1 至 5 个英镑符号（£ 至 £££££）标明生均年化投入成本；（3）*证据安全等级*，采用 1 至 5 把挂锁图形化标注底层因果实证的严格程度与样本规模，让基层实践者一目了然看清证据的可靠性分量。（pp. 58, 62）
 > - **自上而下到自下而上：多级组织下沉与同伴教练网络** 为破解单纯工具包挂网导致的“形式化知晓而无实质采纳”，EEF 自 2016 年起联合[[Institute for Effective Education\|有效教育研究所]]（IEE）在全英建设数十所标杆性“[[Research Schools Network\|研究学校网络]]”（Research Schools Network, RSNs），以“学校带动学校”（School-led system）的同伴教练替代行政命令；下设“研究学习网络”（Research Learning Networks, RLNs）促进跨校教研研讨；培育在职骨干教师担任“教育证据带头人”（Evidence Leads in Education, ELEs），深入周边薄弱学校提供一对一临床教研辅导；同时发布包含“探索-准备-交付-维持”四阶段的系统化实施指南（Implementation Guidance Reports），指导学校科学落地教改。
 > - **因果实证源头建设：全英最大现场试验资助平台** 突破传统清算所仅作“[[Primary and Secondary Documents\|二手文献]]筛选”的被动定位，EEF 兼任独立因果试验资助者，面向大学独立科研团队资助了 200 余项大规模现场[[Randomised Controlled Trials\|随机对照试验]]（RCTs），覆盖全英逾半数学校与上百万名学生，建立起“资助独立试验生成因果证据 -> 二阶工具包综合 -> 研究学校网络同伴教练 -> 校本实践落地”的全链条贯通机制。
@@ -351,7 +351,7 @@ updated: 2026-10-22
 
 > [!case] 国际代表性教育中介机构典型运作案例
 > - **部委嵌入型：新西兰最佳[[Research Synthesis|证据综合]]（NZ BES）** 由新西兰教育部直接资助并嵌入部委运作，早期为证据综合报告的撰写团队提供一对一的全程辅导，曾产出多部关于[[School Leadership\|学校领导力]]与毛利学生教学法的高质量综合报告；后因执政党更替而终止资助新项目，工作重心退缩为将既有证据转化为案例教学短片。（pp. 61, 64）
-> - **政府资助自治型：[[National Institute for Educational Policy Research\|日本国立教育政策研究所]]（NIER）** 作为独立行政法人，特意将办公地点设在与文部科学省（Ministry of Education, Culture, Sports, Science and Technology, MEXT）同一栋大楼内，既保持了作为学术机构的相对独立性，又确保了与高层政策制定的紧密配合。（p. 62）
+> - **政府资助自治型：[[National Institute for Educational Policy Research\|日本国立教育政策研究所]]（NIER）** 作为独立行政法人，特意将办公地点设在与[[Ministry of Education, Culture, Sports, Science and Technology|文部科学省]]（Ministry of Education, Culture, Sports, Science and Technology, MEXT）同一栋大楼内，既保持了作为学术机构的相对独立性，又确保了与高层政策制定的紧密配合。（p. 62）
 > - **大学依托与分权化：[[Kunnskapssenter for utdanning\|挪威教育知识中心]]** 由挪威教育科研部出资设立，保持学术自治；2019 年作为挪威政府行政权力下放改革的重要一环，由首都奥斯陆整体迁往斯塔万格大学（University of Stavanger）；在方法上突破对随机对照试验的单一推崇，开创了吸纳一线教师与研究者共同参与的平行评审与综合规程。（p. 63）
 > - **联邦制协同：[[Swiss Coordination Centre for Research in Education\|瑞士教育研究协调中心]]（SKBF / CSRE）** 作为一个完全独立的常设机构，由瑞士联邦政府与瑞士各州教育局长联席会议（Swiss Conference of Cantonal Ministers of Education, EDK）联合出资维持，有效协调了多语种及高度分权的联邦体制下的知识治理需求。
 > - **跨辖区法定实体：[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）** 2021 年由澳大利亚联邦与各州政府联合注资注册设立，作为国家级重点公共投资的新型证据中介，致力于生成高等级实践指南并主导职前教师教育循证核心课程大纲。（p. 64）
@@ -430,7 +430,7 @@ updated: 2026-10-22
 
 #### 2. 跨国协作网络依托“公开网络大会与闭门伙伴会议”双轨机制有效平衡了受众广度与专业深度
 
-面对单个国家中介机构在体制与资源上的局限性，欧洲联盟委员会于 2010 年至 2013 年间资助建立的跨国协作网络，提供了弥足珍贵的制度探索经验（Gough et al., 2011; pp. 67–68）：
+面对单个国家中介机构在体制与资源上的局限性，[[European Commission|欧洲联盟委员会]]于 2010 年至 2013 年间资助建立的跨国协作网络，提供了弥足珍贵的制度探索经验（Gough et al., 2011; pp. 67–68）：
 
 > [!case] 欧盟委员会资助 EIPEE 至 EIPPEE 网络（2010–2013）的实证诊断与治理探索
 > - **网络覆盖规模与成员构成** 欧盟最初于 2010–2011 年资助开展欧洲教育循证政策项目（Evidence Informed Policy in Education in Europe, EIPEE），后于 2011 年扩充为涵盖实践维度的欧洲教育证据知情政策与实践网络（Evidence Informed Policy and Practice in Education in Europe, EIPPEE）。该网络最终汇聚了来自欧洲 23 个国家的 36 家正式中介与科研机构，并吸引了来自欧洲以外 4 个国家的 7 家国际组织作为附属机构参与。（pp. 67–68）
@@ -488,7 +488,7 @@ updated: 2026-10-22
 
 ## 关键引用
 
-以下引文均出自伯恩斯（[[Tracey Burns]]，[[OECD]]）与[[Tom Schuller|汤姆·舒勒]]（[[Tom Schuller]]，英国社会[[Chinese Academy of Sciences|科学院]]）的第三章原文。
+以下引文均出自伯恩斯（[[Tracey Burns]]，[[OECD]]）与[[Tom Schuller|汤姆·舒勒]]（[[Tom Schuller]]，英国社会科学院）的第三章原文。
 
 > [!citation-card] Burns & Schuller 论政策制定者的系统性脱责隐忧
 > 这种重心的转变是如此彻底，事实上让我们不禁想问，政策制定者是否已经让自己脱责了？从政策文件、资助重点以及[[OECD\|经合组织]]各成员国[[Emergence\|涌现]]的一系列倡议来看，等式的政策一侧已不再是首要焦点，尽管我们在 2007 年苦苦思索的许多核心问题其重要性非但没有减弱反而更加凸显。然而，关注政策至关重要。政策与政治对统领系统、设定问责结构以及与专业机构合作制定从业者认证与许可标准承担着终极责任。政策在确立科研优先次序和引导资金流向上也扮演着不可替代的角色。要在整个教育系统中实现[[Research Utilization\|证据使用]]的有意义变革，既需要对实践的广泛扩散与影响，也需要在政策层面建立系统性的激励、结构与机制。（p. 58）
@@ -498,7 +498,7 @@ updated: 2026-10-22
 > [!citation-card] Burns & Schuller 论中介机构存续的政治预算周期归因
 > 我们或许会假设，那些被终止的倡议仅仅是因为未能达到预期效果，因为任何由公共资金支持的干预举措显然都应当对其影响与有效性进行评估……然而，这些决定也完全可能是出于政治而非实际原因做出的。我们在本章中尚未触及这一点，但证据并不能将政治因素从政策制定中彻底剥离。实际上，经合组织先前关于系统性创新的研究发现，关于是否继续资助某项具体倡议的决定，往往在项目评估结果出炉之前就已经做出；如果存在时间或财务上的限制，评估环节恰恰是最容易被略去或直接跳过的。在上述案例中，资金削减更多地与政府更迭直接相关，而非取决于实际影响或[[Performance Indicators\|绩效指标]]。（p. 64）
 >
-> *We might assume that the initiatives that were discontinued were simply not delivering as intended, as clearly any intervention funded by public money should be evaluated for its impact and effectiveness... However, it is also possible that the decisions were made for political as well as practical reasons. We have not yet touched on this point in this chapter, but evidence does not take the politics out of policy making. Indeed, previous OECD work on systemic innovation found that decisions about whether to continue to fund a particular initiative are often taken before results of a programme evaluation are available, and that the evaluation step is the most likely to be skipped or omitted if there are time or financial constraints (OECD, 2009). Among the examples above, funding cuts were more related to changes in government rather than impact or performance measures.*
+> *We might assume that the initiatives that were discontinued were simply not delivering as intended, as clearly any intervention funded by public money should be evaluated for its impact and effectiveness... However, it is also possible that the decisions were made for political as well as practical reasons. We have not yet touched on this point in this chapter, but evidence does not take the politics out of policy making. Indeed, previous OECD work on systemic innovation found that decisions about whether to continue to fund a particular initiative are often taken before results of a programme evaluation are available, and that the evaluation [[Skills Toward Employment and Productivity|step]] is the most likely to be skipped or omitted if there are time or financial constraints (OECD, 2009). Among the examples above, funding cuts were more related to changes in government rather than impact or performance measures.*
 
 > [!citation-card] Burns & Schuller 论跨机构协同与累积性知识基石愿景
 > 与医学不同，教育在持续发展和提炼一套准普遍被公认为建立在坚实基础之上的知识体系方面，显得异常薄弱。设计并支持一个高效的教育研发系统是实现这一目标的重要一步。中介机构能够在指定最新的权威知识增量并在它们之间建立连接方面发挥重大作用。尽管确保单一机构与倡议的质量与有效性至关重要，但这仍远远不够。正如[[Research Synthesis|研究综合]]本身已经从关注单篇论文迈向二阶[[Systematic Review\|系统综述]]一样，中介的结构与流程同样需要在机构与系统之间协同运作，以支持累积性的努力。（p. 66）

@@ -56,24 +56,24 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> **工业咨询委员会（Industrial Advisory Committee, IAC）** 是依据《2021 财年国防授权法案》第 9906(b) 条及《2022 年[[CHIPS and Science Act|芯片与科学法案]]》设立的美国商务部法定跨部门最高战略咨询机构。委员会代表半导体制造、芯片设计、EDA/IP、设备材料、[[Research Universities|研究型大学]]、国家实验室及工会等多方利益主体，向商务部长、[[National Science and Technology Council|白宫国家科学技术委员会]]（[[National Science and Technology Council|NSTC]]）及跨部门[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（[[Subcommittee on Microelectronics Leadership|SML]]）提供关于国家微电子研发战略、中试基础设施建设、工程劳动力体系与公私治理架构的权威建议。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 3, 21, 24)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 2, 48)]]
+> **工业咨询委员会（Industrial Advisory Committee, IAC）** 是依据《2021 财年国防授权法案》第 9906(b) 条及《2022 年[[CHIPS and Science Act|芯片与科学法案]]》设立的[[Department of Commerce|美国商务部]]法定跨部门最高战略咨询机构。委员会代表半导体制造、芯片设计、EDA/IP、设备材料、[[Research Universities|研究型大学]]、国家实验室及工会等多方利益主体，向商务部长、[[National Science and Technology Council|白宫国家科学技术委员会]]（[[National Science and Technology Council|NSTC]]）及跨部门[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（[[Subcommittee on Microelectronics Leadership|SML]]）提供关于国家微电子研发战略、中试基础设施建设、工程劳动力体系与公私治理架构的权威建议。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 3, 21, 24)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 2, 48)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 依据《2021 财年国防授权法案》第 9906(b) 条法定授权，并在《2022 年芯片与科学法案》颁布后于 2022 年 9 月由美国商务部长正式组建首届委员会。
-> - **总部地点 / 业务辐射** 设于美国首都华盛顿特区美国国家标准与技术研究院（NIST），咨询职责覆盖全美半导体全产业链、跨部门联邦科研机构与产学研创新网络。
+> - **总部地点 / 业务辐射** 设于美国首都华盛顿特区[[National Institute of Standards and Technology|美国国家标准与技术研究院]]（NIST），咨询职责覆盖全美半导体全产业链、跨部门联邦科研机构与产学研创新网络。
 > - **法人属性与经费基础** 依据《联邦咨询委员会法》（Federal Advisory Committee Act, FACA）运作的法定官方咨询机构，运营经费由美国商务部芯片研发办公室（CHIPS R&D Office）专项保障。
 > - **核心宗旨与法定职责** 针对微电子关键技术演进、研发基础设施缺口、[[Pilot Scale Platform|中试验证线]]架构、半导体研发联盟运营模式及国家安全护栏提供定期审查与正式建议报告。
 
 ---
 
 > [!dev-timeline] 组织发展与立法推进脉络
-> - **2021 — 法定授权确立** 美国国会通过《2021 财年国防授权法案》第 99 编，明确要求商务部设立常设工业咨询委员会，负责评估国家半导体技术研发方向与产业需求。
+> - **2021 — 法定授权确立** [[United States Congress|美国国会]]通过《2021 财年国防授权法案》第 99 编，明确要求商务部设立常设工业咨询委员会，负责评估国家半导体技术研发方向与产业需求。
 > - **2022 — 委员任命与机制建立** 《[[CHIPS and Science Act|芯片与科学法案]]》正式拨付 110 亿美元研发资金，商务部任命来自半导体制造巨头、无晶圆厂设计公司、EDA/IP 软件商、顶尖[[Research Universities|研究型大学]]、国家实验室及劳工组织的首批 24 位跨界委员。
 > - **2023 — 确立[[National Semiconductor Technology Center|国家半导体技术中心]]独立运营[[Paradigm|范式]]** IAC 形成首期系统性咨询建议报告，明确提出设立独立中立的非营利运营实体（促成 [[Natcast]] 的成立），并持续指导先进封装（[[National Advanced Packaging Manufacturing Program|NAPMP]]）与云端设计执行网关（DEG）的落地规划。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–24)]]
 > - **2024 — 赋能[[National Strategy on Microelectronics Research|国家微电子研究战略]]与全栈协同** 深度参与白宫 [[National Science and Technology Council|NSTC]]《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》的修订与论证，就跨部门中试漏斗（NSTC/NAPMP/Commons/[[National Nanotechnology Coordinated Infrastructure|NNCI]]）、开源 [[Process Design Kit|PDK]]/ADK 准入、工程劳动力微证书标准以及[[Hardware Security|硬件安全]]与防伪溯源向联邦政府提供全流程咨询输入。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 2, 21–29, 48)]]

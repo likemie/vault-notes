@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -108,7 +108,7 @@ updated: 2026-10-22
 > [!concept-lens] 算法推荐与网络舆论结构
 > 探讨数字社交平台商业算法如何通过优先分发争议性内容扭曲公众信息环境，以及极端少数群体如何在数字网络中获得不成比例的议题放大。
 
-> [!claim] The Royal Society
+> [!claim] [[Royal Society|The Royal Society]]
 > **算法偏见与回音室放大效应** 商业社交平台基于经济与意识形态考量，往往通过定向算法迎合特定目标受众的偏见；虽然英国绝大多数公众并未深陷封闭的回音室，但少数高度党派化的极端个体在网络空间主动聚集，其制造与转发的极端言论在算法机制下获得了不成比例的巨大曝光，严重污染了主流舆论与[[Science Journalism\|科技新闻]]议题。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 58)]]
 
 ---

@@ -36,14 +36,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 背景
 > 2005 年，英国政府委托 Jim Rose 爵士领导一项关于早期阅读教学的独立审查。当时英国的"阅读战争"——系统合成语音（synthetic phonics）支持者与[[Whole Language\|全语言]]（whole language）倡导者之间的公开辩论——已达白热化程度([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.149]])。
 
 > [!abstract] 政策文本摘要
-> Rose Report 的正式标题为 *Independent Review of the Teaching of Early Reading*（早期阅读教学独立审查），于 2006 年由英国 Department for Education and Skills 发布。
+> Rose Report 的正式标题为 *Independent Review of the Teaching of Early Reading*（早期阅读教学独立审查），于 2006 年由英国 [[Department for Education]] and Skills 发布。
 >
 > 该报告的关键特征是推广了 Gough and Tunmer（1986）的 **[[Simple View of Reading\|简单阅读观]]（[[Simple View of Reading]]）**——主张"学会[[Decodification\|解码]]等于学会阅读"([[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p.149]])。
 >
@@ -56,7 +56,7 @@ updated: 2026-10-22
 > - **2010** — Harrison 发表对 Rose Report 及简单阅读观的道德批评（Harrison, 2010）
 
 > [!example] 实施情况
-> 该报告的建议被英国政府采纳为正式政策，要求所有小学在早期阅读教学中采用系统的合成语音教学法（systematic synthetic phonics instruction）。这标志着英国从相对多元的读写教学方法转向单一的、中央规定的教学模型。
+> 该报告的建议被英国政府采纳为正式政策，要求所有小学在早期阅读教学中采用系统的合成语音教学法（systematic synthetic [[Phonics Instruction|phonics instruction]]）。这标志着英国从相对多元的读写教学方法转向单一的、中央规定的教学模型。
 
 > [!success] 效果与评价
 > - **支持立场** Rose Report 的支持者认为以证据为基础的合成语音教学法有助于提高基础阅读技能，特别是对低[[Socioeconomic Status|社会经济地位]]学生

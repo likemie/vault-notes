@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -123,7 +123,7 @@ updated: 2026-10-22
 ---
 
 > [!case] 经验案例一：美国 1964 年《民权法》第七章与平权执法（Lieberman 案例）
-> - **妥协模糊的立法条文** 1964 年美国国会在保守派压力下起草平权法案时，故意对平等就业机会委员会（EEOC）的权力作出含糊妥协，剥夺了其直接发布禁令的行政强制权，保守派意图将其架空为象征性虚职（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 13–14]]）。
+> - **妥协模糊的立法条文** 1964 年[[United States Congress|美国国会]]在保守派压力下起草平权法案时，故意对平等就业机会委员会（EEOC）的权力作出含糊妥协，剥夺了其直接发布禁令的行政强制权，保守派意图将其架空为象征性虚职（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 13–14]]）。
 > - **裁量扩张撬动体制转换** EEOC 内部自由派官僚敏锐抓住条文关于“模式与实践歧视”的模糊表述，策略性支持民权团体向联邦法院提起集团诉讼；联邦法官借助扩张性司法解释逐步确立了“不相称影响原则”（Disparate Impact），反向将一个羸弱机构铸造为全球规制能力最强的平权实体之一。
 
 > [!case] 经验案例二：美国宪法跨州贸易条款（Commerce Clause）的百年重定向

@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -204,7 +204,7 @@ updated: 2026-10-22
 > 探讨通用目的技术（GPT）在跨国扩散与多系统集成过程中，主导国如何通过抢先建立国际开放标准与技术规范，固化本国技术路线并锁定全球产业生态。
 
 > [!claim] [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
-> **技术标准协同与 GPT 全球生态架构锁定** 美国[[National Science and Technology Council|国家科学技术委员会]]（National Science and Technology Council, NSTC）在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中明确指出，微电子作为驱动全社会数字化转型的核心通用目的技术，其底层技术架构与接口规范直接决定了全球产业链的控制权。在后摩尔时代，随着[[Heterogeneous Integration|异构集成]]、小芯片（Chiplet）与软硬件[[Co-Design|协同设计]]的爆发，单一国家无法孤立维持技术垄断。美国政府强调必须由国家标准与技术研究院（NIST）等公共机构牵头，深度介入国际标准制定组织（Standards Developing Organizations, SDOs，如 IEEE、ISO、IEC 等），举办芯片研发标准峰会（CHIPS R&D Standards Summit），推动在小芯片互联标准（如通用小芯片互连，UCIe）、芯片级[[Hardware Security|硬件安全]]与先进封装规范上形成国际开放标准。通过在前竞争与产业孵化阶段将本国先进技术架构转化为全球公认的互操作标准，既能消除下游跨国采纳壁垒、激发全球互补性创新，又能有效防范地缘技术生态分裂，从系统架构层面长期锁定 GPT 的全球领导地位。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 47–48)]]
+> **技术标准协同与 GPT 全球生态架构锁定** 美国[[National Science and Technology Council|国家科学技术委员会]]（National Science and Technology Council, NSTC）在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中明确指出，微电子作为驱动全社会数字化转型的核心通用目的技术，其底层技术架构与接口规范直接决定了全球产业链的控制权。在后摩尔时代，随着[[Heterogeneous Integration|异构集成]]、小芯片（Chiplet）与软硬件[[Co-Design|协同设计]]的爆发，单一国家无法孤立维持技术垄断。美国政府强调必须由[[National Institute of Standards and Technology|国家标准与技术研究院]]（NIST）等公共机构牵头，深度介入国际标准制定组织（Standards Developing Organizations, SDOs，如 IEEE、ISO、IEC 等），举办芯片研发标准峰会（CHIPS R&D Standards Summit），推动在小芯片互联标准（如通用小芯片互连，UCIe）、芯片级[[Hardware Security|硬件安全]]与先进封装规范上形成国际开放标准。通过在前竞争与产业孵化阶段将本国先进技术架构转化为全球公认的互操作标准，既能消除下游跨国采纳壁垒、激发全球互补性创新，又能有效防范地缘技术生态分裂，从系统架构层面长期锁定 GPT 的全球领导地位。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 47–48)]]
 
 ---
 
@@ -214,7 +214,7 @@ updated: 2026-10-22
 > 探讨为何自由市场机制在促进通用目的技术向传统工业与关联产业扩散时频繁遭遇时序脱节与投资迟滞，以及发展型网络国家（DNS）如何通过资助共性基础设施与跨供应链联合体破解协调失灵。
 
 > [!claim] [[Fred Block|Block, F.]]
-> **整条供应链对等协调与公共基础设施托底** 弗雷德·布洛克（Fred Block）指出，自由市场理论假设通用目的技术（GPT）会自动无缝扩散至各个经济部门，但历史实践（从早期的运河、铁路、电力到现代的宽带互联网、燃气轮机与纳米技术）证明，重大通用技术的采纳充满严重的跨部门“协调失灵”（coordination problems）。下游行业在缺乏互补性公共基础设施、通用标准和供应链协同的情况下，往往因沉没成本和转型风险而拒绝或延缓采纳。美国商务部国家标准与技术研究院（NIST）下属的[[Advanced Technology Program|先进技术计划]]（Advanced Technology Program, ATP）正是针对这一系统性痛点而设：ATP 重点资助通用目的技术与共性工艺瓶颈，要求企业联合体提供 50% [[Counterpart Funds|对等配套资金]]；其最著名的突破是资助底特律三大汽车巨头（通用、福特、克莱斯勒）及其上游模具与装配供应商组成的“2毫米工程”（2mm Project）联合体，成功将汽车车身冲压件误差控制在 2 毫米以内，扭转了美国汽车业相对于日本的竞争劣势。这表明，通用目的技术的高效扩散无法仅凭市场价格信号完成，必须依靠[[Developmental Network State|发展型网络国家]]在关键时点协调行业投资时序并提供公共技术基础设施托底。[[Argument_Block_2008_PS|(Block, 2008, pp. 172–174, 188–189, 195)]]
+> **整条供应链对等协调与公共基础设施托底** 弗雷德·布洛克（Fred Block）指出，自由市场理论假设通用目的技术（GPT）会自动无缝扩散至各个经济部门，但历史实践（从早期的运河、铁路、电力到现代的宽带互联网、燃气轮机与纳米技术）证明，重大通用技术的采纳充满严重的跨部门“协调失灵”（coordination problems）。下游行业在缺乏互补性公共基础设施、通用标准和供应链协同的情况下，往往因沉没成本和转型风险而拒绝或延缓采纳。[[Department of Commerce|美国商务部]]国家标准与技术研究院（NIST）下属的[[Advanced Technology Program|先进技术计划]]（Advanced Technology Program, ATP）正是针对这一系统性痛点而设：ATP 重点资助通用目的技术与共性工艺瓶颈，要求企业联合体提供 50% [[Counterpart Funds|对等配套资金]]；其最著名的突破是资助底特律三大汽车巨头（通用、福特、克莱斯勒）及其上游模具与装配供应商组成的“2毫米工程”（2mm Project）联合体，成功将汽车车身冲压件误差控制在 2 毫米以内，扭转了美国汽车业相对于日本的竞争劣势。这表明，通用目的技术的高效扩散无法仅凭市场价格信号完成，必须依靠[[Developmental Network State|发展型网络国家]]在关键时点协调行业投资时序并提供公共技术基础设施托底。[[Argument_Block_2008_PS|(Block, 2008, pp. 172–174, 188–189, 195)]]
 
 ---
 

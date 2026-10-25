@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -63,7 +63,7 @@ updated: 2026-10-22
 > 制度演进绝非源于单一理性主体的顶层宏观设计，而是多元竞争利益在不同历史时期博弈妥协的演进产物；不同时代占据主导地位的政治同盟通过在既有成熟结构之上层叠新安排以服务各自相异的目的，最终将制度塑造为充满内在张力、结构彼此脱节却又具备高度生存韧性的非协调杂合体。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 12)]]
 
 > [!citation-card] 竞争动机累积与成熟体系上的张力层叠
-> 埃里克·希克勒（Eric Schickler, 2001a, 2001b）在专著《脱节[[Pluralism|多元主义]]：制度创新与美国国会的发展》中指出：各历史时期[[Emergence|涌现]]出不同的核心利益诉求，多重利益同时塑造着每一次具体的制度变革；具体制度正是通过由相互竞争的动机所激发的创新累积而逐步展开演进的，这种演进在既有结构之上引发了一种充满张力的新安排层叠，使得最终形成的制度呈现出杂乱偶发而非宏观蓝图设计的特质。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 12)]]
+> 埃里克·希克勒（Eric Schickler, 2001a, 2001b）在专著《脱节[[Pluralism|多元主义]]：制度创新与[[United States Congress|美国国会]]的发展》中指出：各历史时期[[Emergence|涌现]]出不同的核心利益诉求，多重利益同时塑造着每一次具体的制度变革；具体制度正是通过由相互竞争的动机所激发的创新累积而逐步展开演进的，这种演进在既有结构之上引发了一种充满张力的新安排层叠，使得最终形成的制度呈现出杂乱偶发而非宏观蓝图设计的特质。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 12)]]
 >
 > *Different interests emerge as particularly important in different eras, multiple interests typically shape each instance of institutional change, and specific institutions develop through an accumulation of innovations inspired by competing motives, which engenders a tense layering of new arrangements on top of pre-existing structures.*
 
@@ -134,7 +134,7 @@ updated: 2026-10-22
 > |:---------|:---------------|:-----------------|:-----------------|
 > | **命题一：多元利益同盟追踪** | 当下争议制度是在哪些具体历史时期由哪些利益联盟推动建立的？各方原初诉求为何？ | 立法辩论记录、改革听证会纪要、行业工会与政党游说文献。 | 确认制度要素的异质来源；若所有机制均源自单一集团的顶层规划，则不适用本理论。 |
 > | **命题二：张力层叠结构解构** | 新设机制是如何附着于旧结构之上的？新旧要素之间存在哪些管辖权冲突与程序摩擦？ | 组织职能架构图、审批流程图、跨部门联席会议冲突记录。 | 识别表面混乱背后的历史累加痕迹；区分“新旧共生的层叠妥协”与“彻底推倒的[[Institutional Displacement\|制度替代]]”。 |
-> | **命题三：系统杂合度与适应性评估** | 内部脱节是否赋予了系统多重政策工具箱？当外部冲击到来时系统激活了哪些历史残留机制？ | 危机应对方案、应急管理组织演变、政策转换历史案例。 | 评估系统的真实弹性；防范将有害的单纯渎职推诿误判为有益的制度杂合韧性。 |
+> | **命题三：系统杂合度与适应性评估** | 内部脱节是否赋予了系统多重政策工具箱？当外部冲击到来时系统激活了哪些历史残留机制？ | 危机应对方案、应急管理组织演变、[[Institutional Conversion\|政策转换]]历史案例。 | 评估系统的真实弹性；防范将有害的单纯渎职推诿误判为有益的制度杂合韧性。 |
 
 ---
 

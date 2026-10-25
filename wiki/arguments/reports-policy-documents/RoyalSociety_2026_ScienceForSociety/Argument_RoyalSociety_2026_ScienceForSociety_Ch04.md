@@ -14,7 +14,7 @@ argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
-issuing_organization: The Royal Society
+issuing_organization: "[[Royal Society|The Royal Society]]"
 year: 2026
 isbn: 978-1-78252-829-6
 publication_place: London
@@ -81,7 +81,7 @@ related_facts:
   - "[[Gatsby Benchmarks]]"
 status: draft
 created: 2026-09-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 ---
 
@@ -292,7 +292,7 @@ updated: 2026-10-22
 数据赋能与人工智能技术对社会福祉具有革命性潜力，但在公众层面引发了最深重的安全焦虑与公信力赤字。（pp. 72–73）
 
 > [!question] Box 4-2：前沿颠覆性科技社会伦理三大终极追问（Sciencewise / UKRI, 2022, p. 72）
-> 英国[[Sciencewise\|科学智慧项目]]（Sciencewise）与英国研究与创新署（UK Research and Innovation, UKRI）针对新兴技术的社会民意实证研究表明，当任何颠覆性新兴科技进入公众视野时，公众本能提出三大核心社会伦理追问：
+> 英国[[Sciencewise\|科学智慧项目]]（Sciencewise）与[[UK Research and Innovation|英国研究与创新署]]（UK Research and Innovation, UKRI）针对新兴技术的社会民意实证研究表明，当任何颠覆性新兴科技进入公众视野时，公众本能提出三大核心社会伦理追问：
 > 1. **谁在治理这项技术？（Who governs the technology?）** 权力是掌握在负责任的民主公共机构手中，还是被少数追求暴利的寡头垄断？
 > 2. **这项技术究竟让谁受益？（Who benefits from it?）** 科技红利是普惠全社会工薪阶层，还是仅仅进一步拉大贫富差距？
 > 3. **这项技术是否安全可靠？（Is the technology safe and secure?）** 算法决策是否会泄露公民隐私、放大既有偏见或造成无法挽回的系统性社会破坏？
@@ -300,7 +300,7 @@ updated: 2026-10-22
 > [!case] 案例研究五：Google DeepMind 与 OpenAI 前沿人工智能公众审议试验：商业实验室的“公民声音”（Groves, 2023; p. 73）
 > - **试验背景与动机** 鉴于公众对 AI 益处的认同度跌至 33%（PAS 2025），部分领先的商业人工智能实验室尝试开展“公民声音”（Citizen Voice）参与试验。
 > - **典型代表性探索**
->   - *DeepMind 伦理公民陪审团（Citizens' Jury）* 2018 年，Google DeepMind 联合英国皇家艺术、制造与商业学会（Royal Society of Arts, RSA）举办 AI 医疗伦理公民陪审团，邀请具有人口代表性的普通公民就算法辅助疾病诊断中的数据所有权与算法偏见进行多天封闭式深度质询与民主审议；
+>   - *DeepMind 伦理公民陪审团（Citizens' Jury）* 2018 年，Google DeepMind 联合英国皇家艺术、制造与商业学会（[[Royal Society]] of Arts, RSA）举办 AI 医疗伦理公民陪审团，邀请具有人口代表性的普通公民就算法辅助疾病诊断中的数据所有权与算法偏见进行多天封闭式深度质询与民主审议；
 >   - *OpenAI“AI 民主输入”（Democratic Inputs to AI）* 设立专项资助基金，邀请全球跨学科团队探索利用维基审议、公民议会等工具向大语言模型输入集体价值取向。
 > - **取得的试验成效** 为前沿实验室探索公众审议机制积累了一手经验，揭示了普通公民在充分信息赋权下对算法偏见与数据正义的敏锐洞察。
 > - **制度化局限与启示** 权威评估表明此类探索多具单次公关性质，未能与核心模型训练迭代产生长效闭环，商业 AI 亟需建立常态化、受外部独立审计的民主审议制度。
@@ -384,7 +384,7 @@ updated: 2026-10-22
 
 > [!pathways] 建议十二：新兴与 AI 科技企业主动去神秘化以建立稳固社会许可（Recommendation 12, p. 76）
 > 在前沿新兴科学或技术领域开展研发的企业，应主动与社会公众开展多渠道互动，使这些前沿技术**去神秘化（Demystify）**；尤其在技术可能对社会造成颠覆性改变的领域，必须深入倾听公众认知关切，建立起能够提升技术社会接纳度（Social Acceptance）的深厚互信关系；当前对于从事包含人工智能在内的数据赋能技术企业而言，此项要求尤为迫切。
-> - **以中小学为入口促进前沿[[Technology Habituation\|技术习惯化]]（Technology [[Habituation]]）** 专项资助中小学使学生常态化接触前沿技术硬件与工具，涵盖数字化与人工智能、增强现实（Augmented Reality, AR）以及包含三维打印（Three-Dimensional Printing, 3D 打印）在内的现代先进制造业。
+> - **以中小学为入口促进前沿[[Technology Habituation\|技术习惯化]]（Technology [[Habituation]]）** 专项资助中小学使学生常态化接触前沿技术硬件与工具，涵盖数字化与人工智能、[[Augmented Reality|增强现实]]（Augmented Reality, AR）以及包含三维打印（Three-Dimensional Printing, 3D 打印）在内的现代先进制造业。
 > - **突破中心城市局限面向多元人群定制化沟通** 科技研发与高学历人群长期过度集聚于少数大城市与大学城，前沿科技企业必须主动走出中心大都市，深入边缘与工薪城镇；坚决抛弃“一刀切”（One-size-fits-all）的宣教思维，针对不同性别、年龄、地域与阶层背景的受众，定制差异化的交流语言与参与渠道。
 
 #### 主题三：企业雇主制度化赋权与产业科学家公共沟通激励（建议十三，p. 77）

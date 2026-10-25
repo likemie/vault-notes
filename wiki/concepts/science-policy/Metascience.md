@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -76,7 +76,7 @@ updated: 2026-10-22
 > [!concept-lens] 概念透镜
 > - **核心含义** 研究对象不是具体的自然或工程现象，而是探索这些现象的**科学社会组织系统与资源配置规则**。
 > - **治理功能** 充当科学资助机构的“自我纠错与反馈装置”，判断既有选拔程序究竟是在识别颠覆性突破，还是在为低风险平庸共识提供回避责任的制度护盾。
-> - **学科边界** 超越单纯的科学学（Scientometrics）文献计量或常规项目合规审计；元科学强调**主动开展机制干预与前瞻对照实验**，以实证因果证据指导科技政策迭代。
+> - **学科边界** 超越单纯的科学学（[[Bibliometric Analysis|Scientometrics]]）文献计量或常规项目合规审计；元科学强调**主动开展机制干预与前瞻对照实验**，以实证因果证据指导科技政策迭代。
 
 > [!citation-card] [[Michael Kratsios|克拉齐奥斯]]论元科学与科研资助机构的自我纠错
 > 私人风险资本若组合表现不佳会失去出资人，慈善基金必须争夺捐赠者的信任；然而联邦科研资助机构在投资组合系统性表现平庸时，几乎得不到任何纠正性反馈。元科学的核心功能正是将这种反馈机制化为日常的主动实验，通过对资助选拔规则开展严谨对照检验，使每年数千亿美元的公共研发预算真正流向最高影响力的突破性探索。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 30–32)]]
@@ -149,12 +149,12 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 概念与制度演进
-> - **1960s–1980s — 科学计量学与科学学奠基（普赖斯学派）** 德里克·德索拉·普赖斯（Derek de Solla Price）奠定科学[[Quantitative Research|量化研究]]基础，探索科学文献增长、引文网络与无形学院（Invisible Colleges）运作规律。
+> - **1960s–1980s — [[Bibliometric Analysis|科学计量学]]与科学学奠基（普赖斯学派）** 德里克·德索拉·普赖斯（Derek de Solla Price）奠定科学[[Quantitative Research|量化研究]]基础，探索科学文献增长、引文网络与无形学院（Invisible Colleges）运作规律。
 > - **2000s–2010s — [[Reproducibility Crisis|可重复性危机]]与科研方法反思（Ioannidis 学派）** 约翰·约阿尼迪斯（John Ioannidis）发表《为什么大多数已发表的研究发现都是虚假的》，引发对生物医学与心理学可重复性危机的大反思，元科学正式成为独立学术研究领域。
 > - **2020s 初 — 政策元科学萌芽与 [[DARPA]] / HHMI [[Paradigm|范式]]重估** 科技政策界开始从单纯揭露问题转向**机制干预**，系统总结 [[DARPA]] 项目经理自由裁量制与霍华德·休斯医学研究所（HHMI）对人资助模式的制度优越性。
-> - **2024 年 — [[United Kingdom Metascience Unit|英国元科学单元]]（UK Metascience Unit）设立** 英国科学、创新和技术部（DSIT）与英国研究与创新署（UKRI）联合创立全球首个国家级元科学专门机构，率先针对分布式同行评议、部分[[Random Assignment|随机化]]资助及评审一致性开展大规模实证试验。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
+> - **2024 年 — [[United Kingdom Metascience Unit|英国元科学单元]]（UK Metascience Unit）设立** 英国科学、创新和技术部（DSIT）与[[UK Research and Innovation|英国研究与创新署]]（UKRI）联合创立全球首个国家级元科学专门机构，率先针对分布式同行评议、部分[[Random Assignment|随机化]]资助及评审一致性开展大规模实证试验。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
 > - **2025 年 — 教育学首个[[Preregistration|预注册]]全库元科学质量审计（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）** 瑞典卡尔门达尔（Kalmendal）等学者对全球最庞大的教育[[Research Synthesis|证据综合]]库《[[Visible Learning|可见的学习]]》（1.2 版）实施全量预注册元科学质量审计，构建了涵盖[[Research Question|研究问题]]纳入、设计分类与数据提取复现的三阶审计规程。实证揭示该体系仅 19% 满足 [[PICO Framework|PICO]] 标准且数据提取复现率仅 0.66%，为元科学从“资助[[Mechanism Experiments|机制实验]]”拓展至“海量合成证据的全生命周期质量审查”树立了标杆范式。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
-> - **2026 年 — 美国联邦元科学单元法定化与国家科技新政** 白宫科技政策办公室在《[[Science A New Golden Age 2026|科学：新的黄金时代]]》中正式提出：要求全美所有联邦科研资助机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]]、DoD）均设立直属于局长的元科学单元，将资助对照实验确立为国家研发预算管理的法定优先序。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32, 86)]]
+> - **2026 年 — 美国联邦元科学单元法定化与国家科技新政** 白宫科技政策办公室在《[[Science A New Golden Age 2026|科学：新的黄金时代]]》中正式提出：要求全美所有联邦科研资助机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]]、[[Department of Defense|DoD]]）均设立直属于局长的元科学单元，将资助对照实验确立为国家研发预算管理的法定优先序。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32, 86)]]
 
 ---
 

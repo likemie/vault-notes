@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -72,7 +72,7 @@ updated: 2026-10-22
 > 《Gonski 2.0》审查报告将国家教育改革重心从“基于处境不利维度的财政资源再分配”根本性转移至“以学生个体每年至少取得一年成长增益（at least one year's growth each year）为导向的个性化卓越教学”；其最具制度突破性的第 23 条建议，正式要求联邦政府设立独立的国家级教育证据机构，统筹全国教育科研因果实证的生产、转化与课堂普及（Australian Government, 2018；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
 
 > [!policy-design] 政策设计与战略转向
-> - **政策目标** 扭转全澳中小学学业衰退趋势，确立以学生为中心的个性化学习成长[[Paradigm\|范式]]；促进学校教育科研证据的转化应用。
+> - **政策目标** 扭转全澳中小学学业衰退趋势，确立以学生为中心的[[Personalized Learning|个性化学习]]成长[[Paradigm\|范式]]；促进学校教育科研证据的转化应用。
 > - **适用对象** 全澳各州及领地公立与私立[[School Leadership\|学校领导]]者、各科教师、国家与地方教育决策者。
 > - **政策工具** 设立国家级独立证据机构（第 23 条建议）、推行全国统一的学生个性化成长评估工具（Online Assessment Tool）、改革[[Initial Teacher Training\|初始教师教育]]及专业发展标准。
 > - **约束机制** 将各州及非政府办学系统落实 Gonski 2.0 改革要求，强制绑定为获取联邦补充拨款的法定义务。
@@ -96,7 +96,7 @@ updated: 2026-10-22
 > - **发起与主持主体** 联邦教育部与[[David Gonski\|戴维·冈斯基]]领衔的独立审查专家委员会。
 > - **联合出资主体** 澳大利亚联邦政府（注资 2500 万澳元）与各州/领地教育部（联合注资 2500 万澳元）（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
 > - **政策承接与落地实体** [[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）— 专门承接第 23 条建议组建的国家级法人。
-> - **配套游说中介** [[Social Ventures Australia\|澳大利亚社会创投]]（SVA）及其子公司[[Evidence for Learning\|证据学习中心]]（E4L）— 提供方案原型与长期游说支撑，以 E4L 运行成效向审查委员会系统推销国家[[Educational Brokerage Agency\|证据经纪人]]模式（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 531]]）。
+> - **配套游说中介** [[Social Ventures Australia\|澳大利亚社会创投]]（SVA）及其子公司[[Evidence for Learning\|证据学习中心]]（E4L）— 提供方案原型与长期游说支撑，以 E4L 运行成效向审查委员会系统推销国家[[Boundary Spanner|证据经纪人]]模式（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 531]]）。
 
 ---
 

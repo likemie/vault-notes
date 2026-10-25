@@ -34,7 +34,7 @@ related_instruments:
   - "[[Test of Teaching Knowledge]]"
 related_persons: []
 related_facts:
-  - "Council of Chief State School Officers"
+  - "[[Council of Chief State School Officers]]"
   - "[[Educational Testing Service]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"

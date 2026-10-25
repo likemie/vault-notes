@@ -63,7 +63,7 @@ updated: 2026-10-26
 >
 > ### 报告全称与性质
 >
-> 报告正式名称为 *Equality of Educational Opportunity*（教育机会平等，简称 EEO），由 Johns Hopkins University 社会学家 **James S. Coleman** 领导的研究团队完成，通常被称为 **Coleman Report**。它不是一份学术期刊论文，而是提交给美国教育部的联邦政府报告([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.2]])。
+> 报告正式名称为 *Equality of Educational Opportunity*（教育机会平等，简称 EEO），由 Johns Hopkins University 社会学家 **James S. Coleman** 领导的研究团队完成，通常被称为 **Coleman Report**。它不是一份学术期刊论文，而是提交给[[United States Department of Education|美国教育部]]的联邦政府报告([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, p.2]])。
 
 > [!note]- 经过
 > ### 研究规模

@@ -68,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -137,7 +137,7 @@ updated: 2026-10-22
 > 探讨大学研究型中心作为跨学科矩阵组织，如何在缺乏终身教职评定权与硬性行政约束的情况下，协调拥有院系编制的教师参与高强度团队攻关。
 
 > [!claim] Bozeman, B. & Boardman, C.
-> **大胡萝卜与小棒子的治理权限制约** 大学研究中心为了防止演变为封闭的脱离教学孤岛，普遍要求科研人员必须在传统学科院系保留正式编制；然而这种双重聘任安排直接导致中心主任缺乏人事[[Hard Power|硬权力]]——中心主任无法掌控教师的薪资定级、学科归属与终身教职晋升，因而无法施加刚性行政约束。中心主任完全依赖可分配的研究经费这根“大胡萝卜”来诱导教师协作，而手头几乎没有任何行政规训的“小棒子”；当科研议程要求教师调整原有研究方向时，学者仅在符合自身学术利益时才会选择配合，使跨学科协同成效高度依附于主任个人的协调艺术与政治魅力。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 373–374)]]
+> **大胡萝卜与小棒子的治理权限制约** 大学研究中心为了防止演变为封闭的脱离教学孤岛，普遍要求科研人员必须在传统学科院系保留正式编制；然而这种双重聘任安排直接导致中心主任缺乏人事[[Hard Power|硬权力]]——中心主任无法掌控教师的薪资定级、学科归属与终身教职晋升，因而无法施加刚性行政约束。中心主任完全依赖可分配的研究经费这根“大胡萝卜”来诱导[[Teacher Collaboration|教师协作]]，而手头几乎没有任何行政规训的“小棒子”；当科研议程要求教师调整原有研究方向时，学者仅在符合自身学术利益时才会选择配合，使跨学科协同成效高度依附于主任个人的协调艺术与政治魅力。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 373–374)]]
 
 ---
 
@@ -175,7 +175,7 @@ updated: 2026-10-22
 > - **1984 年 — [[Engineering Research Centers|ERC]] 设立与 MMURC 模式全面确立** 在[[Erich Bloch|埃里希·布洛赫]]与[[Nam Pyo Suh|徐南杓]]推动下，NSF 创立[[Engineering Research Centers|工程研究中心]]（ERC），正式标志着从单 PI 自由探索向多用途多学科大学研究中心（MMURC）的历史转型，开创合作协议与十年日落资助机制。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–367)]]
 > - **1980 年代中后期 — 产业研发联合体组织嵌合** 中心深度嵌合入[[Semiconductor Research Corporation|半导体研究公司]]（SRC）与 [[Sematech]] [[Sematech Centers of Excellence|大学卓越中心]]网络，承担关键共性机理突破与高阶博士人才输送。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 292–296)]]
 > - **1990 年代 — 平台迁移与国际制度扩散** 随着微电子产业联合体成熟，大学中心敏捷迁移至生物芯片（DNA Microarray）与微机电纳米领域；ERC 模式被英国、[[Science Foundation Ireland|爱尔兰科学基金会]]（SFI CSET）以及美国航天局（[[National Aeronautics and Space Administration|NASA]]）广泛移植。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 297–299)]]; [[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369–370)]]
-> - **2010 年代至今 — 国家制造创新网络与[[NSF Regional Innovation Engines|区域创新引擎]]** 美国商务部设立 [[Manufacturing USA]] 制造创新研究所网络；2022 年 NSF 增设 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会启动 [[NSF Regional Innovation Engines|区域创新引擎]]，大学研究型中心进一步升级为引领区域经济发展与国家供应链安全的战略[[Innovation Hub|创新枢纽]]。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 112)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]
+> - **2010 年代至今 — 国家制造创新网络与[[NSF Regional Innovation Engines|区域创新引擎]]** [[Department of Commerce|美国商务部]]设立 [[Manufacturing USA]] 制造创新研究所网络；2022 年 NSF 增设 [[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会启动 [[NSF Regional Innovation Engines|区域创新引擎]]，大学研究型中心进一步升级为引领区域经济发展与国家供应链安全的战略[[Innovation Hub|创新枢纽]]。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, p. 112)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]
 
 ---
 

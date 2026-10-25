@@ -42,13 +42,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> “中非高校20+20合作计划”（20+20 Cooperation Plan for Chinese and African Institutions of Higher Education）由中华人民共和国教育部于2010年依托[[Forum on China-Africa Cooperation|中非合作论坛]]（FOCAC）多边框架正式启动实施，遴选20所中国高水平大学与20所非洲知名高等学府建立一对一制度化校际结对合作关系，开创了中非高等教育领域机构级深层对口共建的先河。[[Argument_King_2020_ECNUROE|(King, 2020, p. 224)]]
+> “中非高校20+20合作计划”（20+20 Cooperation Plan for Chinese and African Institutions of Higher Education）由[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]于2010年依托[[Forum on China-Africa Cooperation|中非合作论坛]]（FOCAC）多边框架正式启动实施，遴选20所中国高水平大学与20所非洲知名高等学府建立一对一制度化校际结对合作关系，开创了中非高等教育领域机构级深层对口共建的先河。[[Argument_King_2020_ECNUROE|(King, 2020, p. 224)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2009年11月在中非合作论坛第四届部长级会议（埃及沙姆沙伊赫）上作为对非合作新八项举措之一正式提出，2010年由教育部正式印发实施方案并在各高校实质推进。[[Argument_King_2020_ECNUROE|(King, 2020, p. 224)]]
@@ -134,7 +134,7 @@ updated: 2026-10-22
 > |:-----|:-----|:-----|
 > | [[Forum on China-Africa Cooperation]] | Fact (Organization) | 提出设立并持续提供多边指标与政策保障的顶层平台。 |
 > | [[Belt and Road Initiative]] | Fact (Policy) | 计划所构筑的校际网络深度服务的高质量互联互通战略。 |
-> | [[South-South Cooperation]] | Concept | 计划开展高校间平等合作与互学互鉴所遵循的核心思想原则。 |
+> | [[South-South Cooperation]] | Concept | 计划开展高校间平等合作与[[Mutual Learning\|互学互鉴]]所遵循的核心思想原则。 |
 > | [[People-to-People Connectivity]] | Concept | 计划在大学师生与青年学术群体中夯实民意互信的基础目标。 |
 > | [[Sino-Africa Joint Research Center]] | Fact (Organization) | 在自然科学与高精尖联合科研领域形成紧密协作的常设海外基地。 |
 > | [[Institute of South-South Cooperation and Development]] | Fact (Organization) | 在全球南方治国理政高端精英培养领域形成协同互补的专门办学机构。 |

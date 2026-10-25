@@ -82,7 +82,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-10'
-updated: 2026-10-22
+updated: 2026-10-26
 year: 2022
 doi: ""
 citation_aliases:
@@ -105,7 +105,7 @@ citation_aliases:
 > [!info] 研究方法
 > 属于理论讨论与概念分析文章。方法包括：
 > - 方法：Google Books Ngram Viewer 词频分析，追踪"[[Geopolitics|geopolitics]]""[[Geopolitics of Knowledge]]"等术语的历史使用频率
-> - 数据来源：后殖民研究文献、美国国会报告（[[US-China Economic and Security Review Commission\|USCC]]）、FBI 调查数据、专利统计、网络攻击统计数据
+> - 数据来源：后殖民研究文献、[[United States Congress|美国国会]]报告（[[US-China Economic and Security Review Commission\|USCC]]）、FBI 调查数据、专利统计、网络攻击统计数据
 > - 分析逻辑：概念区分（[[Knowledge Production\|知识生产]] vs [[Knowledge Transfer\|知识转移]]）+ 类型学建构（六种知识转移模态）+ 案例说明（中美紧张关系）
 
 

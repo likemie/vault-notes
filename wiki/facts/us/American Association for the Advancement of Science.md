@@ -63,13 +63,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> 美国科学促进会（American Association for the Advancement of Science, AAAS）是全球规模最大的综合性多学科科学学术学会（501(c)(3)），也是国际顶尖学术期刊《科学》（*Science*）的出版机构。学会拥有逾 12 万名跨学科科学家会员，致力于在所有科学分支中推进科学探索、捍卫[[Academic Freedom|学术自由]]，深度参与战后国家科学政策体制构建，并通过首创并主导运行半个世纪的科技政策研究员计划（Science & Technology [[Policy Fellowships and Placements|Policy Fellowships]], STPF），系统构建了将自然与社会科学家全职输送至美国国会两院与联邦决策中枢的制度化通道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 48)]]; [[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
+> 美国科学促进会（American Association for the Advancement of Science, AAAS）是全球规模最大的综合性多学科科学学术学会（501(c)(3)），也是国际顶尖学术期刊《科学》（*Science*）的出版机构。学会拥有逾 12 万名跨学科科学家会员，致力于在所有科学分支中推进科学探索、捍卫[[Academic Freedom|学术自由]]，深度参与战后国家科学政策体制构建，并通过首创并主导运行半个世纪的科技政策研究员计划（Science & Technology [[Policy Fellowships and Placements|Policy Fellowships]], STPF），系统构建了将自然与社会科学家全职输送至[[United States Congress|美国国会]]两院与联邦决策中枢的制度化通道。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 48)]]; [[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 创立于 1848 年（美国宾夕法尼亚州费城），旨在建立一个跨越地理阻隔、涵盖所有自然与应用学科的全国性科学联合会，推动科学研究的国家建制化。

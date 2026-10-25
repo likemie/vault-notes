@@ -48,13 +48,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> 国家留学基金管理委员会（China Scholarship Council, CSC）是中华人民共和国教育部直属的非营利性事业法人机构，承担统筹管理中国官方公派出国留学与来华留学基金的法定职责。通过优化配置中央财政专项经费与受托管理行业委培资金，资助高水平科研人才跨国深造与发展中国家工程技术骨干赴华研学，充当中国[[Knowledge Diplomacy|知识外交]]、[[Internationalization of Higher Education|高等教育国际化]]与国家对外开放战略的关键制度载体。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679, 692–693)]] [[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 191)]]
+> 国家留学基金管理委员会（China Scholarship Council, CSC）是[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]直属的非营利性事业法人机构，承担统筹管理中国官方公派[[Study Abroad|出国留学]]与来华留学基金的法定职责。通过优化配置中央财政专项经费与受托管理行业委培资金，资助高水平科研人才跨国深造与发展中国家工程技术骨干赴华研学，充当中国[[Knowledge Diplomacy|知识外交]]、[[Internationalization of Higher Education|高等教育国际化]]与国家对外开放战略的关键制度载体。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679, 692–693)]] [[Argument_Liu_2025_IndHE|(Liu et al., 2025, p. 191)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1996 年经中国国务院批准正式成立，标志着国家公派出国留学工作由传统的行政审批模式转向现代化的法制化、契约化与基金化管理轨道。

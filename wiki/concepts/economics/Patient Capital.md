@@ -81,7 +81,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -289,7 +289,7 @@ updated: 2026-10-22
 > | [[Lead-and-Learn Paradigm]] | Concept | 指导耐心资本从被动合规支持向主动引领和组织学习转型的治理[[Paradigm\|范式]]。 |
 > | [[Three Generations of Mission-Oriented Policy]] | Theory | 总结国家供给与运用耐心资本的三代制度演变形态。 |
 > | [[KfW]] | Fact (Org) | 全球最具代表性的使命导向型公共开发银行与绿色转型耐心资本供给标杆。 |
-> | [[DARPA]] | Fact (Org) | 美国国防部下属通过长期耐性资助开辟互联网与半导体技术疆界的核心机构。 |
+> | [[DARPA]] | Fact (Org) | [[Department of Defense\|美国国防部]]下属通过长期耐性资助开辟互联网与半导体技术疆界的核心机构。 |
 > | [[Loan Programs Office]] | Fact (Organization) | 能源部专业化公共金融机构，为硬科技首创性中试与超级工厂建设提供耐心债务融资。 |
 > | [[SBIR and STTR Programs]] | Fact (Program) | 联邦早期非稀释性研发资助体系，通过资本匹配机制与耐心资本形成梯级协同。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 依据《[[CHIPS and Science Act\|芯片法案]]》设立的国家研发中心，其规划设立的投资基金构成国家级半导体耐心资本支柱。 |

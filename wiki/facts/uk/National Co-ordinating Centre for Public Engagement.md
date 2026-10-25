@@ -46,7 +46,7 @@ updated: 2026-10-26
 > | **成立时间 / 依托主体** | 2008 年由英格兰高等教育资助委员会（[[Higher Education Funding Council for England\|HEFCE]]）、英国研究理事会（RCUK）与惠康信托基金会联合设立，依托布里斯托大学（University of Bristol）与西英格兰大学（University of the West of England, UWE Bristol）联合运行 |
 > | **成立动因** | 作为“公众参与灯塔计划”（Beacons for Public Engagement）的核心统筹载体，扭转大学科研与社会脱节的传统象牙塔弊端，在全英高等教育界推动公众参与的文化变革（Culture change） |
 > | **核心职能** | 制定高校公众参与基准、研发机构文化自评工具、设立国家级卓越认证、培训专业化支持队伍，以及分析科研卓越框架（[[Research Excellence Framework\|REF]]）参与案例 |
-> | **制度位置** | 联结国家科研资助管理机构（UKRI）、大学高层领导、一线科研人员与社会多元公众的专业化战略枢纽 |
+> | **制度位置** | 联结国家科研资助管理机构（[[UK Research and Innovation\|UKRI]]）、大学高层领导、一线科研人员与社会多元公众的专业化战略枢纽 |
 
 ---
 

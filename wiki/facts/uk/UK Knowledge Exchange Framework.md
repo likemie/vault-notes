@@ -14,7 +14,7 @@ fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
-issuing_organization: "Research England (UK Research and Innovation)"
+issuing_organization: "[[UK Research and Innovation|Research England (UK Research and Innovation)]]"
 tags:
   - theme/university-industry-collaboration
   - theme/knowledge-exchange
@@ -34,7 +34,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 背景

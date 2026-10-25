@@ -15,7 +15,7 @@ fact_related_count: 50
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
-issuing_organization: "英国中央政府内阁办公室（Cabinet Office）"
+issuing_organization: "[[Cabinet Office|英国中央政府内阁办公室（Cabinet Office）]]"
 tags:
   - evidence-based-policy
   - uk
@@ -81,13 +81,13 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2013 年由英国中央政府内阁办公室（Cabinet Office）正式倡导并联合相关中央部委协调设立，其政策前驱探索可追溯至 2011 年创设的英国[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）及更早期的循证医学与政策实践。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 3–4)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 147)]]
+> - **发布时间 / 发布主体** 2013 年由英国中央政府内阁办公室（[[Cabinet Office]]）正式倡导并联合相关中央部委协调设立，其政策前驱探索可追溯至 2011 年创设的英国[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）及更早期的循证医学与政策实践。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 3–4)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 147)]]
 > - **适用地区 / 对象** 覆盖全英格兰及联合王国公共服务治理体系；服务对象涵盖中央部委决策官员、地方政府行政主管，以及基础教育学校校长与教师、临床医生与护理人员、警务长官与一线巡警、社会工作者和流浪救助一线人员等专业从业者。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
 > - **问题背景** 回应公共政策制定与专业实践中长期存在的“[[Evidence-Based Policy-Making|循证决策]]赤字”与“学术研究碎片化”危机：大学与科研机构每年产出海量学术文献，但决策端与实践端难以低成本获取、筛选与消化；公共财政资金大量流向未经因果检验甚至已被[[Falsification\|证伪]]的无效干预方案；学术界缺乏将因果证据转化为实践行动处方的中介转译桥梁。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 4, 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 146–147)]]
 > - **制度位置** 标志着证据本位政策（Evidence-Based Policy, EBP）在英国公共治理体系中的国家级制度化复兴；作为独立或半独立的专门[[Knowledge Mediation\|知识中介]]网络（Specialist Knowledge Intermediary Network），处于中央部委政策制定与基层公共服务一线之间，承担供需双向转译、[[Research Synthesis|证据综合]]评级与干预因果试验的制度枢纽职能。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 4)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 147–148)]]
@@ -112,7 +112,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 政策发展历程
 > - **2000 年代早期 — [[Evidence-Based Policy-Making|循证决策]]思想萌芽与早期中介探索** 2002 年循证政策与实践中心（Centre for Evidence Based Policy and Practice）系统总结了 EBP 成功的四大关键要求；[[Campbell Collaboration]] 等国际通用[[Educational Evidence Clearinghouses\|证据清算中心]]起步运作，[[Systematic Review\|系统综述]]与实证清理规范逐渐确立。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 3)]]
-> - **2011 — 旗舰示范中心设立与工具包问世** [[Sutton Trust\|萨顿信托]]（Sutton Trust）联合英国教育部设立[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]），获 1.25 亿英镑初始留本基金支持；同年发布首版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit），开创了直观量化“学习进展月数”与成本效益的可视化先河。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 149)]]
+> - **2011 — 旗舰示范中心设立与工具包问世** [[Sutton Trust\|萨顿信托]]（Sutton Trust）联合[[Department for Education|英国教育部]]设立[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]），获 1.25 亿英镑初始留本基金支持；同年发布首版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit），开创了直观量化“学习进展月数”与成本效益的可视化先河。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 7)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 149)]]
 > - **2013 — 内阁办公室正式启动有效性网络（WWN）与指定教育中心** 英国政府内阁办公室正式倡导并发布有效性网络国家规划，正式指定[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与[[Sutton Trust\|萨顿信托]]联合作为英格兰“教育领域有效性中心”（What Works Centre for Education），全面纳入覆盖全英逾 2,500 亿英镑公共支出的宏观网络；本·戈尔达克（Goldacre, 2013b）发表《将证据注入教育》政府独立咨询报告，强烈呼吁在学校系统普及[[Randomised Controlled Trials\|随机对照试验]]（RCT），推动网络化[[Output-Oriented Governance\|循证治理]]上升为国家战略。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, p. 4)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 47)]]
 > - **2015 — 早期实施质询与反思开启** Cowen and Cartwright (2015) 发表剑桥-杜伦循证政策工作论文，对有效性网络的早期运行展开实证调查，揭示工具包去情境化、平均效应误读以及与教育标准局（[[Ofsted]]）问责指标脱节等深层结构性矛盾。[[Argument_Cowen_2015_CHESS\|(Cowen et al., 2015, pp. 15–22, 37–40)]]
 > - **2018 — 网络体系成熟与 9 大正式中心格局确立** 内阁办公室发布《有效性网络五年进展报告》（Cabinet Office, 2018）；[[David Gough\|戴维·高夫]]等（Gough et al., 2018; Gough & White, 2018）受委托对全英有效性中心展开系统调研，总结出涵盖初级研究、共创、综述、渠道、采纳、指南、实施的七大核心目标矩阵，并指出中心正从早期单纯文献综合向深度实施护航战略转向。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–151)]]
@@ -138,7 +138,7 @@ updated: 2026-10-22
 > | | **国家卫生与临床优化研究所**<br>（NICE, National Institute for Health and Care Excellence） | 临床医疗、公共卫生与成人社会关怀；临床医师、医疗管理者与国家卫生体系决策者（专业与政策端） | 法定非部委公共机构（NDPB）；接受英国卫生与社会保障部业务指导并由国家财政法定持续拨款 | 研制具有法律与准入效力的国家临床指南（Clinical Guidelines）、技术评估规程与质量标准；设立药物与疗法经济学评价门槛 | 历史最悠久、法律效力最强的有效性中心；依托高度严格的[[Systematic Review\|系统综述]]与成本效用门槛，但其标准化临床路径若机械移植至教育社科易引发去情境化争议（pp. 147, 150） |
 > | | **早期干预基金会**<br>（EIF, Early Intervention Foundation） | 儿童早期发展、青少年心理健康与家庭支持政策；地方政府公共服务主管与社会关怀采购人员（地方决策端） | 独立慈善非营利机构；接受教育、卫生、内政等多部委项目委托资助（2023 年并入 Foundations） | 编制《EIF 指南手册》（EIF Guidebook），系统评定百余项儿童早期打包干预项目的因果证据等级与成本效益 | 代表典型的打包项目评级路径；高度依赖 1–2 项高质量因果试验给出推荐，凸显了中介机构在证据体量与真实生态迁移上的潜在效度风险（pp. 149, 154–155） |
 > | | **警务学院犯罪减少有效性中心**<br>（College of Policing / What Works Centre for Crime Reduction） | 警务治安、犯罪预防与刑事司法；各级警务长官、一线巡警与内政部决策者（专业实践与政策端） | 专业行业法定监管机构；由英国内政部法定资助与警务行业专业自律相结合 | 研发《犯罪减少工具包》（Crime Reduction Toolkit）、警务系统综述证据图谱与执法行动实务指南 | 首创并推行 EMMIE 评价框架（Effect, Mechanism, Moderator, Implementation, Economics），将机制解释与情境条件置于核心，为社会科学中介提供严密典范（p. 150） |
-> | | **国家福祉有效性中心**<br>（What Works Centre for Wellbeing） | 主观福祉、社区活力、职场心理健康与文化体育；跨部门宏观政策制定者、企业雇主与第三部门组织（政策与社会端） | 独立跨界合作网络与大学科研联合体；由多个中央部委与英国经济与社会研究理事会（ESRC）联合出资 | 发布系列职场与社区福祉[[Systematic Review\|系统综述]]、开发国家主观福祉测度指标与地方评估工具包 | 面对跨学科概念[[Heterogeneity\|异质性]]极高且缺乏统一硬指标的复杂议题，探索了以通用策略为主轴的质性与量化多元证据综合[[Paradigm\|范式]]（pp. 149–150） |
+> | | **国家福祉有效性中心**<br>（What Works Centre for Wellbeing） | 主观福祉、社区活力、职场心理健康与文化体育；跨部门宏观政策制定者、企业雇主与第三部门组织（政策与社会端） | 独立跨界合作网络与大学科研联合体；由多个中央部委与[[Economic and Social Research Council\|英国经济与社会研究理事会]]（ESRC）联合出资 | 发布系列职场与社区福祉[[Systematic Review\|系统综述]]、开发国家主观福祉测度指标与地方评估工具包 | 面对跨学科概念[[Heterogeneity\|异质性]]极高且缺乏统一硬指标的复杂议题，探索了以通用策略为主轴的质性与量化多元证据综合[[Paradigm\|范式]]（pp. 149–150） |
 > | | **老龄优化中心**<br>（Centre for Ageing Better） | 健康老龄化、长者体面就业与适老社区建设；中央与地方政策制定者、住房规划师与雇主（政策与系统端） | 独立慈善留本基金会；由英国国家彩票社区基金注资 5000 万英镑设立独立运作留本基金 | 老龄政策证据审查、适老化住房改造与职场反年龄歧视行动指南、地方战略转型示范项目 | 留本基金赋予其长达数十年的长期变革视野；不以单一商业产品分级为主，而着力推动地方社会与制度结构的深层系统对齐（pp. 149–150） |
 > | | **无家可归治理影响中心**<br>（Centre for Homelessness Impact, CHI） | 流浪无家可归救助、临时庇护与永久住房保障；地方议会住房管理部门、慈善庇护所一线社会工作者（地方实践端） | 独立慈善机构；由地方政府联合会及住房部支持，[[EPPI-Centre]] 等专业研究中心提供方法学支撑 | 研制《无家可归证据与差距图谱》（EGMs）、有效干预工具包（Homelessness Toolkit）与地方循证行动方案 | 与 Gough and White (2018) 深度绑定；率先全面确立以系统综述为基础的干预策略评级，坚决规避对单一项目孤立研究的采纳，成为[[Evidence Standards\|证据标准]]规范化的先锋（pp. 149, 154） |
 > | | **地方经济增长有效性中心**<br>（What Works Centre for Local Economic Growth, WWG） | 区域经济增长、产业集聚、就业培训与地方基建投资；地方政府经济官员与商业决策者（地方政策端） | 大学依托型研究联盟；由伦敦政治经济学院（LSE）、奥雅纳工程顾问（Arup）与萨塞克斯大学 SPRU 联合组建，ESRC 等资助 | 发布地方经济政策工具箱（Policy Toolkits）、因果实证数据库，对全球数以万计政策评估报告展开方法学筛查 | 坚持马里兰[[Scientific Method\|科学方法]]量表（SMS，要求 3 级及以上）严苛因果标准，剔除大量无严密对照组的本土经验；突显了方法学纯洁性与一线政策可用证据匮乏之间的张力（p. 150） |

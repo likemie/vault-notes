@@ -185,11 +185,11 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 > [!def] Randomised Controlled Trials
-> 随机对照试验（Randomised Controlled Trials, RCT）是一种实验设计方法，通过将参与者[[Random Assignment|随机分配]]到干预组和对照组，隔离和控制自[[Variable|变量]]，操纵一个[[Independent Variable|自变量]]观察其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则该变化可归因于该自变量——它成为原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 78, 81]]）。在[[Evidence-Based Education|证据本位教育]]中，RCT 被倡导为教育研究的黄金标准。该方法是从药物试验和医学其他领域直接借鉴至教育领域的（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 110, 114]]）。
+> 随机对照试验（Randomised Controlled Trials, RCT）是一种[[Experimental Research|实验设计]]方法，通过将参与者[[Random Assignment|随机分配]]到干预组和对照组，隔离和控制自[[Variable|变量]]，操纵一个[[Independent Variable|自变量]]观察其是否对结果产生差异，同时保持其他变量不变。如果操纵该自变量导致结果变化，则该变化可归因于该自变量——它成为原因（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen et al., 2011, pp. 78, 81]]）。在[[Evidence-Based Education|证据本位教育]]中，RCT 被倡导为教育研究的黄金标准。该方法是从药物试验和医学其他领域直接借鉴至教育领域的（[[Argument_Wrigley_2019_ERE|Wrigley & McCusker, 2019, pp. 110, 114]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 可被离散定义的教育干预及其效果，通常涉及学生成就、行为或态度等可测量结果。
@@ -213,8 +213,8 @@ updated: 2026-10-23
 >   - 1983 — 教育心理学经验期刊中近半数实证研究采用随机分配实验（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 6–7]]）。
 >   - 1985–1989 — 田纳西星级[[Class Size|班级规模]]实验（[[Tennessee STAR Project 1985-1989]]）实施，成为全美教育干预因果评估的里程碑。
 >   - 2000 — 教育经验文章中[[Intervention Research|干预研究]]占比达 40%，受控实验仍占据核心主导地位。
->   - 2001 — 美国国会通过《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]），成文法全文 110 次提及“[[Scientifically Based Research|科学本位研究]]”，明确写入“优先青睐随机分配实验”，以财政拨款机制强推 RCT 门槛（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]]）。
->   - 2002 — 联邦教育部成立有效教育清算所（[[What Works Clearinghouse|WWC]]）并由 [[Office of Educational Research and Improvement|OERI]] 拨付 1850 万美元初始合同，以医学[[Clinical Trial|临床试验]]为原型启动审查；美国教育部 2002–2007 战略规划要求至 2004 年 75% 的因果资助必须采用随机设计，且 [[Institute of Education Sciences|IES]] 在 2002 财年资助的因果项目 100% 采用随机实验（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 34–35]]）。
+>   - 2001 — [[United States Congress|美国国会]]通过《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]），成文法全文 110 次提及“[[Scientifically Based Research|科学本位研究]]”，明确写入“优先青睐随机分配实验”，以财政拨款机制强推 RCT 门槛（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]]）。
+>   - 2002 — 联邦教育部成立有效教育清算所（[[What Works Clearinghouse|WWC]]）并由 [[Office of Educational Research and Improvement|OERI]] 拨付 1850 万美元初始合同，以医学[[Clinical Trial|临床试验]]为原型启动审查；[[United States Department of Education|美国教育部]] 2002–2007 战略规划要求至 2004 年 75% 的因果资助必须采用随机设计，且 [[Institute of Education Sciences|IES]] 在 2002 财年资助的因果项目 100% 采用随机实验（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 34–35]]）。
 >   - 2002–2003 — 国会通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002），在[[National Research Council|国家研究委员会]]（NRC）科学原则报告与[[Richard J. Shavelson|理查德·沙维尔森]]（Richard J. Shavelson）等学者质证推动下，打破对单一 RCT 的立法预设，确立非随机设计亦可合法检验因果主张；随后 WWC 根据 47 条公众评议修正初版 [[Study Design and Implementation Assessment Device|Study DIAD]]，将[[Regression Discontinuity Design|断点回归]]与准实验列为独立审查模块（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 34–36]]）。
 >   - 2007 — Dynarski et al. 完成 [[Institute of Education Sciences|IES]] 资助的全美大规模教育软件 RCT，揭示整体零显著差异与强烈的情境[[Heterogeneity|异质性]]（班级规模、师生比与教师整合能力），有力破除实验净效应可脱离情境普遍复制的迷思（[[Argument_Serpell_2020_EducPsychol|Serpell, 2020, p. 42]]）。
 >   - 2009–2010 — [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 与 [[Argument_Hattie_2010_NZJES|Hattie (2010)]] 围绕田纳西 STAR 等黄金标准 RCT 证据与[[Meta-meta-analysis|二阶元分析]]汇总的张力展开论战，探讨初级因果试验在宏观政策证据池中被稀释的方法论机制与教学适配边界。
@@ -399,7 +399,7 @@ updated: 2026-10-23
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 结合经合组织、教科文组织与世界银行政策实践，揭示国际捐助方与全球证据库对大样本 RCT 的偏好如何结构性排斥全球南方本土适应性干预，加剧全球实证供给与地方现实需求之间的认识论脱节（pp. 344, 346–348）。
+> - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 结合[[OECD|经合组织]]、[[UNESCO|教科文组织]]与世界银行政策实践，揭示国际捐助方与全球证据库对大样本 RCT 的偏好如何结构性排斥全球南方本土适应性干预，加剧全球实证供给与地方现实需求之间的认识论脱节（pp. 344, 346–348）。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 考证第三代使命导向政策如何将 RCT、以人为本服务设计与敏捷原型迭代整合入公共治理试验网络，并强调必须打破[[New Public Management|新公共管理]]的静态“支持并测量”成本效益合规，转向动态的[[Lead-and-Learn Paradigm|引领与学习]]治理[[Paradigm|范式]]。
 > - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 批判将单一 RCT 奉为联邦教育政策黄金标准的制度性脱节，剖析 Dynarski et al.（2007）教育软件实验揭示的情境敏感性，指出长周期实验导致的技术过时风险，以及劳登布什（Raudenbush, 2015）揭示的孤立因果无法回答宏观系统治理命题。
 > - [[EEF Teaching and Learning Toolkit]] — [[Education Endowment Foundation|EEF]] 资助了超 100 项涉及 50 万以上学生的独立 RCT，并将[[Research Synthesis|证据综合]]进入 Toolkit 的[[Meta-analysis|元分析]]（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 49]]）。

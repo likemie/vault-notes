@@ -75,7 +75,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-22
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Naeem_2026_Episteme"
@@ -139,7 +139,7 @@ issuing_organization: ""
 
 ## 研究方法
 
-本文属于教育哲学、[[Virtue Epistemology|德性认识论]]与教育人工智能人机交互设计的跨[[Discipline-Based Theory|学科理论]]建构与规范批判研究。
+本文属于教育哲学、[[Virtue Epistemology|德性认识论]]与[[Artificial Intelligence in Education|教育人工智能]]人机交互设计的跨[[Discipline-Based Theory|学科理论]]建构与规范批判研究。
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -195,7 +195,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　生成式人工智能直接输出答案会剥夺认知挣扎，导致学生的思维机能与创造力发生双重去技能化
+> [!claim] 论证步骤一　[[Generative Artificial Intelligence|生成式人工智能]]直接输出答案会剥夺认知挣扎，导致学生的思维机能与创造力发生双重去技能化
 > 教育的根本目的在于锤炼学生生物机体固有的认知能力、传授智力技能并养成[[Epistemic Virtues and Vices|理智美德]]；不加节制地使用生成式 AI 直接获取答案会彻底绕过必要的认知挣扎，引发内生思维机能萎缩与集体创意同质化的双重[[Cognitive Deskilling|去技能化]]危机。
 
 #### 1. 教育的核心在于发展学生自身的思维机能，外部技术若直接代劳答案便沦为让心智萎缩的拐杖
@@ -204,9 +204,9 @@ issuing_organization: ""
 > - **内生认知机能（Onboard Cognitive Abilities）**
 >   锤炼生物机体大脑固有的生理认知基础。正如婴儿阶段的短时记忆、估算与感知数量等原始算术能力（Proto-arithmetic Abilities, 如 Subitising 与 Estimating；Pantsar, 2023）在正规教育中被塑造成成熟的计算与抽象逻辑；天生的语言雏形在语法学习中演化为严密的语言机能。
 > - **程序性智力技能（Intellectual Skills）**
->   通过持续刻意练习掌握高阶认知操作能力。基础读写能力演变为提纲拟定、文本结构化、摘要提炼与逻辑辩护；初等计算演进为代数、几何与统计推断；同时包括编程、信息检索以及驱动探究的[[Skill of Questioning|提问技能]]。
+>   通过持续[[Deliberate Practice|刻意练习]]掌握高阶认知操作能力。基础读写能力演变为提纲拟定、文本结构化、摘要提炼与逻辑辩护；初等计算演进为代数、几何与统计推断；同时包括编程、信息检索以及驱动探究的[[Skill of Questioning|提问技能]]。
 > - **健全的理智美德（Intellectual Virtues）**
->   塑造对真理、知识与理解等认知善品的真诚热爱。包括[[Open-Mindedness|思想开放]]、理智诚实、理智[[Humility|谦逊]]、理智坚毅、理智勇气以及理智[[Creativity|创造力]]，体现为一种稳定的认知品格。
+>   塑造对真理、知识与理解等认知善品的真诚热爱。包括[[Open-Mindedness|思想开放]]、理智诚实、理智[[Humility|谦逊]]、理智[[Grit|坚毅]]、理智勇气以及理智[[Creativity|创造力]]，体现为一种稳定的认知品格。
 
 > [!contrast-table] [[Scaffolding|认知脚手架]]的双重生态类型：算盘与计算机
 > | 比较维度 | 可撤除脚手架（Removable Scaffold） | 构成性技能构件（Constitutive Scaffold） |
@@ -330,7 +330,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　借助心理治疗式对话赋予学生思想自主权，并通过兴趣故事唤起理智情感以培育理智美德
+> [!claim] 论证步骤三　借助心理治疗式对话赋予学生思想自主权，并通过兴趣故事唤起[[Intellectual Emotions|理智情感]]以培育理智美德
 > 理智美德的养成要求操作性智力技能与对真理的内在热爱高度统一；Q-Tutor 必须摒弃[[Plato|柏拉图]][[Socrates|苏格拉底]][[Meno|回忆说]]的诱导式预设，转向心理治疗式的自主意义建构以确立学生的作者权；进一步依托贴合学生具体兴趣的拟人化叙事模式唤起好奇与着迷等[[Intellectual Emotions|理智情感]]，方能促使提问技能最终升华为思想开放与理智创造力等稳定的理智美德。
 
 #### 1. 人机对话应借鉴心理治疗而非苏格拉底的预设引导，让学生在开放启发中确立对思想的自主作者权

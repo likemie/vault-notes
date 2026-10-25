@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -155,7 +155,7 @@ updated: 2026-10-22
 > - **1990 年代末 — 公共新闻学（Public Journalism）萌芽** 面对受众政治冷漠与新闻商业化，新闻学者开始反思传统冲突导向模式，呼吁新闻媒体协助公民参与解决社区实际问题。
 > - **2013 年 — 解决方案新闻网络（Solutions Journalism Network, SJN）创立** 明确提出解决方案新闻的四大支柱（应对、证据、局限、洞见），推动这一范式从自发探索走向专业化与体制化。
 > - **2020 年代初 — 后疫情时代信息过载与“信息疫情”（Infodemic）催化** 面对全球受众对阴谋论、灾难报道与两极分化言论的普遍倦怠，全球主流媒体（如 BBC, The Guardian, 纽约时报）设立专栏采纳建设性新闻范式。
-> - **2026 年 — 皇家学会《面向社会的科学》确立为国家级科学传播战略** 正式将解决方案新闻从行业倡议上升为连接科研界、大众传媒与公民社会的战略通道，倡导[[Science Journalism\|科学新闻]]以此重塑公众科技信任。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 59, 63)]]
+> - **2026 年 — [[Royal Society|皇家学会]]《面向社会的科学》确立为国家级科学传播战略** 正式将解决方案新闻从行业倡议上升为连接科研界、大众传媒与公民社会的战略通道，倡导[[Science Journalism\|科学新闻]]以此重塑公众科技信任。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 59, 63)]]
 
 ---
 

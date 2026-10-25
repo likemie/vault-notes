@@ -64,14 +64,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 ## 背景
 
-《欧洲国民教育》（*National Education in Europe*，1872 年扩充版书名为 *National Education: Systems, Institutions and Statistics of Public Instruction in Different Countries*）是 19 世纪英美世界卷帙最为浩繁、史料最为详备的跨国公共教育制度百科全书：
+《欧洲[[National Education|国民教育]]》（*National Education in Europe*，1872 年扩充版书名为 *National Education: Systems, Institutions and Statistics of Public Instruction in Different Countries*）是 19 世纪英美世界卷帙最为浩繁、史料最为详备的跨国公共教育制度百科全书：
 
 > [!policy-context] 政策与文献背景
 > - **出版时间 / 作者背景** 1854 年由美国著名教育改革家、康涅狄格州与罗得岛州公共教育督办、后任美国首任联邦教育专员的[[Henry Barnard\|亨利·巴纳德]]（Henry Barnard, 1811–1900）在哈特福德（Hartford）初版发行；1872 年由纽约 E. Steiger 出版社大幅扩充为两卷本重磅巨著《国民教育：各国公共教育体制、制度与统计》。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–32)]]
@@ -83,7 +83,7 @@ updated: 2026-10-22
 
 ## 著作核心内容与全景架构
 
-巴纳德在《欧洲国民教育》中展现了极其严谨的文献学汇纂精神与行政改良抱负：
+巴纳德在《欧洲[[National Education|国民教育]]》中展现了极其严谨的文献学汇纂精神与行政改良抱负：
 
 > [!claim] 核心主张
 > 巴纳德坚信客观真实的制度事实本身即具有最强大的启迪力量。著作系统呈现了欧洲各国公立学校的组织法令、课程进度、师资考核与公共财政数据，盛赞普鲁士建立的“真正的国民教育（true [[National Education]]）”体系；巴纳德主张美国应当以崇高而审慎的[[Educational Meliorism\|改良主义]]（[[Educational Meliorism]]）态度，汲取欧洲文明数百年积淀的成熟学校制度精粹，为美利坚共和国构建坚不可摧的普及国民教育大厦。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–34; Barnard, 1872:365)]]
@@ -178,4 +178,4 @@ updated: 2026-10-22
 > | [[Normal School]] | 概念 | 本文献中重点推介并推动在全美制度化建立的专业师范学校。 |
 > | [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策 | [[Horace Mann\|霍勒斯·曼]]同期聚焦普鲁士考察的著名报告，与巴纳德著作互为双璧。 |
 > | [[Report on the State of Public Instruction in Prussia]] | 政策 | [[Victor Cousin\|库森]]报告的英美译本亦被巴纳德吸收并收录在其汇编之中。 |
-> | [[Prussian Draft Education Law of 1819]] | 政策 | 巴纳德巨著中作为普鲁士真正国民教育法律基石被重点剖析的法案。 |
+> | [[Prussian Draft Education Law of 1819]] | 政策 | 巴纳德巨著中作为普鲁士真正[[National Education\|国民教育]]法律基石被重点剖析的法案。 |

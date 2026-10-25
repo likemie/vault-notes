@@ -14,7 +14,7 @@ fact_related_count: 4
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
-issuing_organization: "巴西国家教育研究院（INEP）"
+issuing_organization: "[[Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira|巴西国家教育研究院（INEP）]]"
 tags:
   - policy/higher-education
   - region/brazil
@@ -34,13 +34,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2004 年由巴西联邦教育部下属国家教育研究院（Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira, INEP）正式设立并实施。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
+> - **发布时间 / 发布主体** 2004 年由巴西联邦教育部下属国家教育研究院（[[Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira]], INEP）正式设立并实施。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 16)]]
 > - **适用地区 / 对象** 巴西全境所有公立与私立高等院校的本科毕业班学生（三年轮动周期覆盖所有专业领域）。
 > - **问题背景** 伴随巴西高等教育快速大众化与私立高校激增，政府急需建立全国统一的终结性学业成果评估机制，以监控高校办学质量并向社会提供透明问责数据。
 > - **制度位置** 作为巴西国家高等教育评估体系（SINAES）三大核心支柱之一（涵盖院校评估、专业评估与学生学业评估）。

@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -98,7 +98,7 @@ updated: 2026-10-22
 > - **英国公立中等教育法案咨询蓝图** 为 1902 年《巴尔福教育法》废除地方校董会、建立地方教育当局统筹公立中学的顶层设计提供了坚实的跨国实证支持。
 
 > [!citation-card] [[Michael Sadler|萨德勒]]论教育情报局的职责与国家使命
-> 一个教育情报机构的核心职责是收集、总结并出版各类教育实践经验，其目的在于：(1) 从纷繁复杂的对立观点中去粗取精，汲取合理而真实的智识；(2) 向本国国民客观通报，相较于其他国家，本国在教育效能方面究竟处于何种水准；(3) 尽可能凝聚广泛共识，指明国民教育最为明智、最富有成效的发展路线。[[Argument_Kazamias_2009_ForgottenThemes|(Higginson, 1961: 289; Kazamias, 2009, p. 45, 引自 Kazamias, 2009b)]]
+> 一个教育情报机构的核心职责是收集、总结并出版各类教育实践经验，其目的在于：(1) 从纷繁复杂的对立观点中去粗取精，汲取合理而真实的智识；(2) 向本国国民客观通报，相较于其他国家，本国在教育效能方面究竟处于何种水准；(3) 尽可能凝聚广泛共识，指明[[National Education|国民教育]]最为明智、最富有成效的发展路线。[[Argument_Kazamias_2009_ForgottenThemes|(Higginson, 1961: 289; Kazamias, 2009, p. 45, 引自 Kazamias, 2009b)]]
 >
 > *The chief work of an educational intelligence office... is to collect, summarise, and publish various kinds of educational experience, with a view to (1) getting what is sound and true from a number of discrepant opinions; (2) informing the nation how it stands in regard to educational efficiency as compared with other nations; and (3) promoting, as far as possible, general consent and agreement as to the wisest and most fruitful line of development in [[National Education]].*
 
@@ -119,7 +119,7 @@ updated: 2026-10-22
 > [!debates] 机构路线争议
 >
 > > [!axis] 独立学术研究 vs 官僚行政附庸
-> > - **[[Michael Sadler|萨德勒]]理念** 坚信教育情报机构应当像皇家学会一样保持高度思想自主，其任务是提供客观、深入、具有批判性的深层分析，乃至指出本国政府政策的盲区，为整个国民社会凝聚远见。[[Argument_Kazamias_2009_ForgottenThemes|(Higginson, 1961; Kazamias, 2009: 45, 引自 Kazamias, 2009b)]]
+> > - **[[Michael Sadler|萨德勒]]理念** 坚信教育情报机构应当像[[Royal Society|皇家学会]]一样保持高度思想自主，其任务是提供客观、深入、具有批判性的深层分析，乃至指出本国政府政策的盲区，为整个国民社会凝聚远见。[[Argument_Kazamias_2009_ForgottenThemes|(Higginson, 1961; Kazamias, 2009: 45, 引自 Kazamias, 2009b)]]
 > > - **莫兰特官僚立场** 认为政府下属机构的研究必须服从内阁大臣与常任次官的行政意志，报告只能作为现行立法改革与行政条令的论证注脚，严禁发表可能削弱官方立场的独立见解。这一根本冲突最终导致萨德勒出走。
 
 ---

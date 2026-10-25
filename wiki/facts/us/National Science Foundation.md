@@ -123,7 +123,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -132,7 +132,7 @@ updated: 2026-10-23
 > 美国国家科学基金会（National Science Foundation, NSF）是美国联邦政府负责促进非医学领域基础科学、工程技术研究、科学教育以及前沿跨学科创新的核心独立官方资助机构；作为二战后美国多元化分布式资助机制（Distributed Pluralistic Funding Network）的民事基石，与[[Office of Naval Research|海军研究办公室]]（ONR）、原子能委员会（AEC）及国立卫生研究院（[[National Institutes of Health|NIH]]）形成机制协同，统领全美大学基础研究投资、科学、技术、工程与数学教育（[[STEM Education|STEM]]）改革以及产学研区域协同创新网络。在《[[CHIPS and Science Act|芯片与科学法案]]》与国家半导体战略中，NSF 联合主持白宫微电子领导小组（[[Subcommittee on Microelectronics Leadership|SML]]），统领未来半导体（FuSe）前沿攻关与全美纳米中试设施；在 2026 年国家科技战略重塑中，NSF 进一步肩负起探索[[Metascience|元科学]]资助机制创新、依托技术创新合作理事会（[[Directorate for Technology, Innovation and Partnerships|TIP]]）孵化[[NSF Regional Innovation Engines|区域创新引擎]]与支持新型[[Focused Research Organization|聚焦研究组织]]（FRO）的战略重任。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26–28, 31–32)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
 
 > [!org-context] 机构背景
-> - **成立时间与创设背景** 1950 年依据美国国会立法正式创建，直接源于范内瓦·布什（[[Vannevar Bush]]）向杜鲁门总统呈递的划时代战略报告《科学：无止境的前沿》，确立了国家安全与繁荣依赖于联邦对大学自由探索式基础研究持续资助的制度基石。
+> - **成立时间与创设背景** 1950 年依据[[United States Congress|美国国会]]立法正式创建，直接源于范内瓦·布什（[[Vannevar Bush]]）向杜鲁门总统呈递的划时代战略报告《科学：无止境的前沿》，确立了国家安全与繁荣依赖于联邦对大学自由探索式基础研究持续资助的制度基石。
 > - **总部地点与辐射范围** 总部位于美国弗吉尼亚州亚历山德里亚（Alexandria, Virginia），业务资助与合作网络辐射全美 2,000 多所高校、科研院所、学区以及数十个跨部门区域创新网络。
 > - **法人属性与经费基础** 属于美国联邦政府独立行政机构，享有国会独立财政预算拨款，年度科研投资预算约 90 至 100 亿美元，约占美国大学所获联邦非医学基础科研资助总额的四分之一。
 > - **核心宗旨与法定职责** 法定使命为“促进科学进步；增进国家健康、繁荣与福利；保障国家安全”；资助自由探索的[[Curiosity-Driven Research|蓝天研究]]、推进全纳的科学与[[Engineering Education|工程教育]]（[[STEM Education]]），并通过产学研协同机制促进实验室成果向经济生产力转化。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 13)]]
@@ -175,7 +175,7 @@ updated: 2026-10-23
 > - **TIP [[NSF X-Labs|X-Labs]] 与新型科研组织直接资助** 突破传统仅向大学系所拨款的限制，TIP X-Labs 开始直接资助具备全职工程师团队的独立[[Focused Research Organization|聚焦研究组织]]（FRO），围绕全脑神经动机环路绘制等中等规模公共品科学开展攻关。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 26)]]
 > - **可携带式早期学者奖学金（[[Portable Fellowship|Portable Fellowships]]）** 改革研究生资助机制，扩大 NSF GRFP 资助并将经费直接赋权博士生本人，允许学者自主选择导师并跨校跨组携带，摆脱对单一 PI 课题组劳务的依附。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 > - **与 [[DARPA]] 的跨机构资助接力（Institutional Relay）** 对于颠覆性新构想（如应变硅技术），通常由 DARPA 率先承担早期概念验证风险；可行性确立后，学者转入 NSF 申请基金开展深入机理研究。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1142–1143)]]
-> - **研究者的政策实践与资助优先事项** AAAS 科学与技术政策研究员项目及 AERA 对教育研究者的支持，为学者提供为期一年的政策实践机会。相关讨论提出，部分研究员此后可能进入 NSF 或 IES 等联邦机构，参与研究资助优先事项的设定；这是政策实践经历可能延伸出的职业路径。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
+> - **研究者的政策实践与资助优先事项** [[American Association for the Advancement of Science|AAAS]] 科学与技术政策研究员项目及 [[American Educational Research Association|AERA]] 对教育研究者的支持，为学者提供为期一年的政策实践机会。相关讨论提出，部分研究员此后可能进入 NSF 或 [[Institute of Education Sciences|IES]] 等联邦机构，参与研究资助优先事项的设定；这是政策实践经历可能延伸出的职业路径。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 46–47)]]
 
 ---
 

@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -59,7 +59,7 @@ updated: 2026-10-22
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1994 年由梅杰保守党政府推动设立，旨在承接并强化 1984 年[[Committee for the Accreditation of Teacher Education\|教师教育认证委员会]]（CATE）的职能，打破大学教育学院在教师培养上的垄断，引入[[New Public Management\|新公共管理]]（NPM）问责机制。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
 > - **总部地点 / 业务辐射** 英国伦敦，业务全面覆盖英格兰全境所有大学教育学院、校本初始教师培训联合体（SCITT）及中小学教师队伍。
-> - **法人属性与经费基础** 法定半官方准政府机构，直接接受英国教育部财政专项划拨，独立行使教师教育拨款与标准审查权。
+> - **法人属性与经费基础** 法定半官方准政府机构，直接接受[[Department for Education|英国教育部]]财政专项划拨，独立行使教师教育拨款与标准审查权。
 > - **核心宗旨与法定职责** 确保国家教师劳动力充足供给，提高教师队伍专业质量，制定实施全国初始教师培训国家课程大纲与合格教师资格（QTS）标准。
 
 ---

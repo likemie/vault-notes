@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -51,7 +51,7 @@ updated: 2026-10-22
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2011 年由美国联邦政府正式设立，历经 2014 年与 2021 年两轮战略规划更新，目前作为常态化跨部门科技基础设施持续推进。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 14)]]
-> - **发起方与资助机制** 由白宫科技政策办公室与 NSTC 统一领导，联合能源部（[[Department of Energy|DOE]]）、国家科学基金会（[[National Science Foundation|NSF]]）、国防部（[[DARPA]] / AFOSR / [[Office of Naval Research|ONR]]）与国家标准与技术研究院（NIST）共同出资，通过多机构协同研发拨款与[[Megascience Installations|大科学装置]]集群提供长期资助。
+> - **发起方与资助机制** 由白宫科技政策办公室与 NSTC 统一领导，联合能源部（[[Department of Energy|DOE]]）、国家科学基金会（[[National Science Foundation|NSF]]）、国防部（[[DARPA]] / AFOSR / [[Office of Naval Research|ONR]]）与[[National Institute of Standards and Technology|国家标准与技术研究院]]（NIST）共同出资，通过多机构协同研发拨款与[[Megascience Installations|大科学装置]]集群提供长期资助。
 > - **覆盖范围与对象** 辐射全美百余所[[Research Universities|研究型大学]]、国家实验室材料科学中心及半导体、航空航天、清洁能源等战略工业部门。
 > - **核心问题导向** 破解传统材料科学依赖“纯试错经验”导致的漫长研发周期（通常长达 10–20 年），化解后摩尔时代微电子物理极限对新型宽禁带、二维半导体与铁电材料的迫切渴求。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 14)]]
 
@@ -88,7 +88,7 @@ updated: 2026-10-22
 
 > [!pathways] 实施路径与管理
 > - **纵向传导与支持** 基础计算模型与数据库向高校和初创企业开源开放，通过云端高性能计算接口降低使用门槛。
-> - **横向跨部门协同** 建立 DOE、NSF、DOD 与 DOC 联合评审机制，确保微电子关键材料需求直接传导至材料基因组计算课题。
+> - **横向跨部门协同** 建立 DOE、NSF、[[Department of Defense|DOD]] 与 DOC 联合评审机制，确保微电子关键材料需求直接传导至材料基因组计算课题。
 > - **动态反馈与调整** 针对从算法预测到晶圆厂实际生长工艺之间的断层，建立材料样品快速分发与中试线原位工艺验证通道。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 20, 24)]]
 
 ---

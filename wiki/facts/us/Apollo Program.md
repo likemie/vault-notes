@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -56,7 +56,7 @@ updated: 2026-10-22
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1961年5月由美国总统约翰·F·肯尼迪（John F. Kennedy）宣布启动，1969年7月阿波罗11号实现人类首次载人登月，1972年12月阿波罗17号完成最后一次登月任务后结项。
-> - **发起方与资助机制** 发起机构为美国国家航空航天局（NASA），由联邦国库全额专项拨款支持，并与美国国防部（Department of Defense, DOD）、麻省理工学院仪器实验室（MIT Instrumentation Laboratory）及主要工业承包商深度协同。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 23)]]
+> - **发起方与资助机制** 发起机构为美国国家航空航天局（NASA），由联邦国库全额专项拨款支持，并与[[Department of Defense|美国国防部]]（Department of Defense, DOD）、麻省理工学院仪器实验室（MIT Instrumentation Laboratory）及主要工业承包商深度协同。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 23)]]
 > - **覆盖范围与对象** 动员了全美逾40万名科研人员、工程师、技术工人以及超过2万家大学与工业企业参与。
 > - **核心问题导向** 应对苏联在人造卫星与载人航天领域的早期领先优势，攻克极远距离空间导航、超大推力运载火箭、极端环境通信与高[[Reliability|可靠性]]星载轻量化实时计算等系统瓶颈。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–10)]]
 

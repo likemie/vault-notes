@@ -18,7 +18,7 @@ fact_related_color: "#fecdd3"
 org_type: 联邦国防与国家安全颠覆性研发机构
 headquarters: 美国弗吉尼亚州阿灵顿（Arlington, Virginia）
 established: "1958"
-issuing_organization: "美国国防部"
+issuing_organization: "[[Department of Defense|美国国防部]]"
 tags:
   - org/government-agency
   - theme/technology-innovation
@@ -104,13 +104,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> 美国国防高级研究计划局（Defense Advanced Research Projects Agency, DARPA）是美国国防部（Department of Defense, DoD）直属的高风险前沿颠覆性技术研发机构。在[[Evolutionary Economics|演化经济学]]与科技政策理论中，DARPA 被视作第二代[[Big Science|大科学]]使命政策（狮子形态）的代表、去中心化探索型公共网络（Decentralized Explorative Public Network）与激进型[[Market Shaping and Creating|市场塑造]]者的全球典范，以及在[[Pasteur's Quadrant|巴斯德象限]]中跨越基础科学探索与重大国防使命工程转化的标杆机构。在[[Technological Republic|技术共和国]]理论中，DARPA 构成了国家重大战略需求孵化现代通用数字基础设施的历史基石，是破除私营科技巨头[[Historical Amnesia|历史健忘症]]的关键实证参照。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 175–176)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
+> 美国国防高级研究计划局（Defense Advanced Research Projects Agency, DARPA）是[[Department of Defense|美国国防部]]（Department of Defense, DoD）直属的高风险前沿颠覆性技术研发机构。在[[Evolutionary Economics|演化经济学]]与科技政策理论中，DARPA 被视作第二代[[Big Science|大科学]]使命政策（狮子形态）的代表、去中心化探索型公共网络（Decentralized Explorative Public Network）与激进型[[Market Shaping and Creating|市场塑造]]者的全球典范，以及在[[Pasteur's Quadrant|巴斯德象限]]中跨越基础科学探索与重大国防使命工程转化的标杆机构。在[[Technological Republic|技术共和国]]理论中，DARPA 构成了国家重大战略需求孵化现代通用数字基础设施的历史基石，是破除私营科技巨头[[Historical Amnesia|历史健忘症]]的关键实证参照。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 175–176)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1958 年 2 月由[[Dwight D. Eisenhower|德怀特·艾森豪威尔]]（Dwight D. Eisenhower）总统在苏联成功发射人类首颗人造卫星引发的斯普特尼克危机（[[Sputnik Shock 1957|Sputnik Shock]]）背景下签署法案成立，原名高级研究计划局（Advanced Research Projects Agency, ARPA），旨在防止外部战略科技突袭，确保美国在前沿技术领域的绝对主导权。

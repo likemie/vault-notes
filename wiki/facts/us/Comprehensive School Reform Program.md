@@ -54,17 +54,17 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 全面学校改革计划（Comprehensive School Reform, CSR）是美国国会于 1997/1998 年通过 Obey-Porter 修正案设立的联邦专项资助计划，是美国教育史上首次在法律层面明确将联邦财政拨款与教学方案的实证有效性证据（Proven Effectiveness）直接绑定的制度先例。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
+> 全面学校改革计划（Comprehensive School Reform, CSR）是[[United States Congress|美国国会]]于 1997/1998 年通过 Obey-Porter 修正案设立的联邦专项资助计划，是美国教育史上首次在法律层面明确将联邦财政拨款与教学方案的实证有效性证据（Proven Effectiveness）直接绑定的制度先例。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1997 年提出并于 1998 财年正式启动，2001 年纳入《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（NCLB）重新授权，持续运行至 2000 年代中后期。
-> - **发起方与资助机制** 由美国国会众议员 David Obey 与 John Porter 联合发起立法，由美国联邦教育部（ED）主管；初始年拨款 1.5 亿美元（USD 150M），后逐步增长至每年 2 亿至 3.1 亿美元（USD 200M–310M），通过州教育厅向薄弱学校发放竞争性配套资助。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
+> - **发起方与资助机制** 由美国国会众议员 David Obey 与 John Porter 联合发起立法，由[[United States Department of Education|美国联邦教育部]]（ED）主管；初始年拨款 1.5 亿美元（USD 150M），后逐步增长至每年 2 亿至 3.1 亿美元（USD 200M–310M），通过州教育厅向薄弱学校发放竞争性配套资助。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - **覆盖范围与对象** 重点覆盖全美接受 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资助的高贫困中小学校，累计向超过 2,600 所公立学校提供全校性改革专项资助。
 > - **核心问题导向** 针对长期以来 Title I 资金碎片化投入、缺乏实证支持且未能根本改善薄弱学校整体[[Academic Achievement\|学业成就]]的治理困境，试图通过财政激励引导学校采纳经过实验验证的一体化全校改革模型。[[Argument_Slavin_2002_ER\|(Slavin, 2002, pp. 15–16)]]
 
@@ -74,7 +74,7 @@ updated: 2026-10-22
 > 通过为每所入选学校提供每年至少 5 万美元（连续 3 年）的专项附加经费，激励薄弱学校放弃零散修补，转而采购并在全校整体实施经过严格实验-对照组评估验证的“全面改革模式”（Comprehensive Reform Models）。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]
 
 > [!policy-design] 方案设计
-> - **项目目标** 推动高贫困学校进行全方位重构，整合课程教材、课堂教学、形成性测评、全员专业发展与家校协同治理，系统提升全员学业达标率。
+> - **项目目标** 推动高贫困学校进行全方位重构，[[Integrated Curriculum Programs|整合课程]]教材、课堂教学、形成性测评、全员专业发展与家校协同治理，系统提升全员学业达标率。
 > - **覆盖对象** 全美 [[Title I of the Elementary and Secondary Education Act\|Title I]] 高贫困公立中小学校及其全体在校师生。
 > - **干预模式** 涵盖 9 项法定核心要素的一体化全校模式，代表性方案包括全员成功（[[Success for All]]，SFA）、[[Direct Instruction\|直接教学]]（[[Direct Instruction]]，DI）、美国新学校（New American Schools）及加速学校（Accelerated Schools）等。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - **法定证据门槛** 明确要求所选方案必须“经过实践检验”（Proven），即具备基于实验组与对照组比较、采用标准化测验且经同行评议支持的实证有效性证据。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 16)]]
@@ -99,7 +99,7 @@ updated: 2026-10-22
 > - **联邦教育部（ED）** 制定管理规章，向各州按比例切块下拨 CSR 专项经费，发布指导性评估框架。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]
 > - **州教育厅（SEAs）** 负责组织地方申报评审、行使资金分配自由裁量权并监督各学区实施进展。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 16)]]
 > - **外部方案研发方与基金会** 提供经过验证的课程资源、外派全职教练并为学校提供现场专业发展指导（如 [[Success for All]] 基金会）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
-> - **项目实施公立学校** 经教师民主表决（如 SFA 80% 投票机制）自主选定方案，开展为期 3 年以上的全校协同教学变革。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 25)]]
+> - **项目实施公立学校** 经教师民主表决（如 SFA 80% 投票机制）自主选定方案，开展为期 3 年以上的全校[[Co-Teaching|协同教学]]变革。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 25)]]
 
 > [!pathways] 实施路径与管理机制
 > - **资金下达与竞争性评审** 联邦资金按 [[Title I of the Elementary and Secondary Education Act\|Title I]] 公式分配至各州，各州设立竞争性评审委员会，面向辖区内薄弱学校评审 CSR 方案申请。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 15)]]

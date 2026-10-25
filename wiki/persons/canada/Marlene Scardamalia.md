@@ -57,13 +57,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 加拿大皇家学会院士（FRSC）、多伦多大学安大略教育研究院（OISE）知识创新与技术中心（IKIT）主任、全球学习科学界领军学者。
+> - **身份位置** 加拿大[[Royal Society|皇家学会]]院士（FRSC）、多伦多大学安大略教育研究院（OISE）知识创新与技术中心（IKIT）主任、全球学习科学界领军学者。
 > - **核心角色** [[Knowledge Building Theory|知识建构理论]]（Knowledge Building Theory）与计算机支持的[[Intentionality|意向性]]学习环境（CSILE / Knowledge Forum）的联合奠基人，在[[International Education\|国际教育]]学界首次界定并系统确立了“[[Epistemic Agency\|认识能动性]]（[[Epistemic Agency]]）”[[Construct\|构念]]。
 > - **代表贡献** 认识能动性理论、知识建构社群教学法（Knowledge Building Pedagogy）、CSILE/Knowledge Forum 协作[[Knowledge Production|知识生成]]平台。
 
@@ -76,7 +76,7 @@ updated: 2026-10-22
 
 > [!timeline] 生平与学术历程
 > - **1970 年代 — 写作心理学与认知发展研究** 早期聚焦儿童写作过程的认知负荷与[[Metacognition\|元认知监控]]机制，与 [[Carl Bereiter]] 合作提出知识陈述（Knowledge Telling）与知识转换（Knowledge Transforming）写作双模型。
-> - **1980 年代中叶 — 研发 CSILE 系统** 开创全球首个计算机支持的协作学习（CSCL）网络平台 CSILE，探索利用技术支持[[Intentionality|意向性]]学习共同体。
+> - **1980 年代中叶 — 研发 CSILE 系统** 开创全球首个计算机支持的[[Collaborative Learning|协作学习]]（CSCL）网络平台 CSILE，探索利用技术支持[[Intentionality|意向性]]学习共同体。
 > - **1990 年代 — [[Knowledge Building Theory|知识建构理论]]体系形成** 提出知识建构 12 条核心原则，区分“为学习而学习（Learning）”与“将知识作为公共制品进行创造与改良（Knowledge Building）”。
 > - **2002 年 — 正式界定[[Epistemic Agency\|认识能动性]]（Epistemic Agency）** 发表标志性论文，系统阐述认识能动性作为学生从被动执行程序转向承担共同体知识进步最高调控权的标志。
 > - **2020 年代 — [[Man-Computer Symbiosis|人机共生]]与人工智能时代的回响** 其认识能动性理论被广泛引入[[Generative Artificial Intelligence\|生成式人工智能]]教育哲学研究，成为评估人机协作中人类是否保留核心认知裁决权的理论基石。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]

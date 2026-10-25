@@ -86,7 +86,7 @@ related_instruments:
   - "[[Visible Classroom]]"
 status: active
 created: '2026-05-04'
-updated: 2026-10-22
+updated: 2026-10-26
 year: 2016
 doi: ""
 citation_aliases:
@@ -161,7 +161,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤一　网络治理正在取代公立教育的科层管理体制
+> [!claim] 论证步骤一　[[Network Governance|网络治理]]正在取代公立教育的科层管理体制
 > 2008 年以来，新西兰中央政府逐步放弃对公费教育的全额资助责任，转而将自身定位为提供部分补贴的购买方；与此同时，依靠私人信任与利益结盟的[[Network Governance|网络治理]]，正在替代原有的科层规制与公开市场，成为主导公立学校改革的核心机制。（pp.21–34）
 
 #### 1. 政府逐步将办学责任缩减为财政部分补贴
@@ -181,7 +181,7 @@ citation_aliases:
 > - **数字化教学试验区** 2011 年在奥克兰低收入学区成立马奈卡拉尼信托（[[Manaiakalani Education Trust]]），由私营基金会和科技企业资助数字化设备与师资培训。（p.27）
 > - **教师研修走向市场竞标** 教育部重组教师专业学习与发展（Professional Learning and Development, PLD）体制，取消公立师范机构的指定供给地位，全面推行私营咨询中介机构资质竞标。（pp.27–28）
 > - **引入短期特许师训** 引入全球 Teach for All 网络的本地版本[[Teach First New Zealand|新西兰先行者教育]]（[[Teach First New Zealand]], TFNZ），由企业和私人基金会资助短期培训后直接送入薄弱校任教。（p.28）
-> - **试点创办特许学校** 设立特许学校（[[Partnership Schools Kura Hourua]], PSKH），由亲市场商业智库[[New Zealand Initiative|新西兰倡议]]（New Zealand Initiative, NZI）等[[Policy Network|政策网络]]强力推动立法，允许私营营利和非营利机构依商业合同直接运营由公帑资助的学校。（pp.29–30, 52–53）
+> - **试点创办[[Charter Schools|特许学校]]** 设立特许学校（[[Partnership Schools Kura Hourua]], PSKH），由亲市场商业智库[[New Zealand Initiative|新西兰倡议]]（New Zealand Initiative, NZI）等[[Policy Network|政策网络]]强力推动立法，允许私营营利和非营利机构依商业合同直接运营由公帑资助的学校。（pp.29–30, 52–53）
 > - **公私合资建设校舍** 引入政府与社会资本合作（[[Public-Private Partnership]], PPP）模式，将多所新建公立学校的规划、施工与日常物业长期外包给私营财团。（p.30）
 > - **企业赞助学生早餐** 恒天然与食品公司以企业社会责任为名向学校赞助早餐牛奶和谷物，随后政府出资跟进，将学生基础营养保障托付给企业善举。（p.30）
 > - **条约赔偿资金办学** 毛利部族将怀唐伊条约赔偿所得的商业资产投入教育，建立自主特许学校。（pp.31, 39–40）
@@ -221,7 +221,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤二　双层法人架构为政策创业者的商业获利提供了税收规避机制
+> [!claim] 论证步骤二　[[Dual-Entity Legal Structure|双层法人架构]]为[[Policy Entrepreneur|政策创业者]]的商业获利提供了税收规避机制
 > 新西兰法律允许非营利慈善机构设立全资营利公司，促成了[[Educational Management Organisation|教育管理组织]]（EMO）的双层套利结构；具备学术声誉的政策学者深度融入这一结构，将公费科研成果转变为跨国专有商业品牌，获取丰厚个人报酬与免税结余。（pp.46–54, 65–76）
 
 #### 1. 慈善信托控股营利公司形成了免税资金的内部循环

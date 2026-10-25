@@ -90,7 +90,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-19
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Trautwein_2007_CEP"
@@ -433,7 +433,7 @@ issuing_organization: ""
 
 > [!implication]- 破除不当确定性信念的两大可操作科学教学干预路径
 > 1. **干预路径一：引入真实世界争议议题的冲突性证据（Presenting Conflicting Scientific Views on Real-World Issues）** 
->    - *设计范式*：借鉴 Schommer (1990) 与 Kardash and Scholes (1996) 的“双立场争议文本（Dual-Positional Texts）”实验设计；
+>    - *设计范式*：借鉴 Schommer (1990) 与 Kardash and Scholes (1996) 的“双立场争议文本（Dual-Positional Texts）”[[Experimental Research|实验设计]]；
 >    - *操作流程*：在课堂中针对气候变暖成因、转基因食品安全风险、人工智能伦理规制或流行病传播模型等前沿复杂议题，向学生同步提供由不同学术团队出具但均具备扎实经验数据支持的对立研究报告；
 >    - *认知机制*：强迫学生走出寻找“单一标准答案”的认知舒适区，激发认识论困惑与认知失调，引导学生学习如何权衡不同研究的方法学局限、样本代表性与论证逻辑，从而从二元论心智跃升至反思性判断（[[Reflective Judgment Model\|Reflective Judgment]]）。
 > 2. **干预路径二：通过历史教科书与当代前沿对照展示[[Scientific Paradigm\|科学范式]]更迭（Historical Textbook Comparison & Paradigm Shift [[Tracking]]）** 
@@ -479,7 +479,7 @@ issuing_organization: ""
 
 > [!warning] 研究自述局限
 > 1. **测量维度的局限性** 仅测量了[[Epistemological Beliefs\|认识论信念]]中关于“知识本质”的“确定性”单一维度，未涵盖认识论信念的其他维度（如知识结构、[[Source of Knowledge\|知识来源]]、辩护方式），且仅采用了领域一般性（Domain-General）测量，未能整合[[Domain Specificity\|领域特殊性]]（Domain-Specific）量表。
-> 2. **微观中介机制未直接检验** 研究虽然证实了确定性信念对成绩和专业选择的宏观因果效应，但未直接测量大学课堂微观教学环境、动机以及具体学习策略在其中的动态中介过程。
+> 2. **微观中介机制未直接检验** 研究虽然证实了确定性信念对成绩和专业选择的宏观因果效应，但未直接测量大学课堂微观教学环境、动机以及具体[[Learning Strategies|学习策略]]在其中的动态中介过程。
 > 3. **自陈式量表的方法学限制** 采用自陈式[[Questionnaire\|问卷]]虽然适合大规模代表性抽样，但相比于基于复杂真实任务的个别化[[Reflexivity\|反思性]]判断访谈（[[Reflective Judgment Model\|Reflective Judgment]] Interview，RJI），在探测个体深层[[Epistemology\|认识论]]推理过程上存在[[Ecological Validity\|生态效度]]（Ecological Validity）不足的可能。
 
 ---

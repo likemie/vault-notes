@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -188,7 +188,7 @@ updated: 2026-10-22
 > - **1980s — 战后产业危机与半导体公私联合体萌芽** 面对海外竞争冲击，美国微电子产业设立 [[Semiconductor Research Corporation|SRC]]（1982）与 [[Sematech]]（1987），[[DARPA]] 每年对等匹配 1 亿美元，奠定科技研发 PPP [[Paradigm|范式]]。
 > - **1990s — 英国[[New Public Management|新公共管理]]与私人融资倡议（PFI）兴起** 梅杰与布莱尔政府在公共部门广泛推行私人融资倡议（PFI）与公私伙伴关系，开启公立学校基建与后勤运营的商业外包浪潮。
 > - **2000s — 公立教育核心业务外包与跨国集团扩张** 英国及多国将学区管理、督导与教师进修全面向私营公司开放；[[Nord Anglia Education|诺德安达]]与 [[GEMS Education|GEMS]] 等集团依托 PPP 崛起并在海外拓展，比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）批判其作为新型行动者深刻改写了全球教育转移生态。
-> - **2010s — 新西兰公立校舍长周期 PFI 与特许学校 PPP 落地** 新西兰教育部与商业财团签订长达 25 年的校舍设计-建造-融资-运维合同（LIP 财团与 Hobsonville Point 学校），并通过《2013年教育修正法案》设立特许学校（[[Partnership Schools Kura Hourua|PSKH]]），将公立办学权向商业公司与慈善信托全面转包（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
+> - **2010s — 新西兰公立校舍长周期 PFI 与[[Charter Schools|特许学校]] PPP 落地** 新西兰教育部与商业财团签订长达 25 年的校舍设计-建造-融资-运维合同（LIP 财团与 Hobsonville Point 学校），并通过《2013年教育修正法案》设立特许学校（[[Partnership Schools Kura Hourua|PSKH]]），将公立办学权向商业公司与慈善信托全面转包（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
 > - **2020s — 国家法定[[Innovation Hub|创新中心]]与战略供应链重构** 美国颁布《[[CHIPS and Science Act|芯片与科学法案]]》，设立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]），确立第三代法定 PPP 模式。
 
 ---
@@ -218,7 +218,7 @@ updated: 2026-10-22
 > |---|---|---|---|---|---|---|
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 343–344)]] | 英国及全球跨国教育服务市场（[[Nord Anglia Education\|Nord Anglia]], [[GEMS Education\|GEMS]] 等公司） | 比较教育政策语篇与国际市场拓展案例追踪 | PPP 涉足业务领域、跨国学校网点规模与政策顾问介入度 | GEMS 在 7 国运营 65 所学校并向政府提供咨询；诺德安达将国内 PPP 经验外溢至海外，重组[[Global Policy Space\|全球政策空间]] | 宏观政策与公司业务追踪 | 说明 PPP 如何成为跨国教育资本跨界介入公共决策的制度杠杆 |
 | [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] | 高科技企业参与半导体跨界协同（[[Universal Parallel Computing Research Centers\|UPCRC]]、[[Semiconductor Research Corporation\|SRC]] 与 [[National Science and Technology Council\|NSTC]] 案例） | 产业历时实务反思与决策框架构建 | [[Academic Engagement Team\|AET]] 四维决策支柱、公私合作放大效应、三代协同演进 | 企业投入 2000 万美元设立 UPCRC 随后触发 [[National Science Foundation\|NSF]] 计划接力放大；NSTC 统筹 110 亿美元产学研平台 | 产业实务经验剖析 | 适用于高技术研发密集型产业的跨部门联合攻关与重大科技专项治理 |
-| [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | 美国半导体研究公司（SRC）产学公私合作联合体（1982–2012） | 档案调阅与历史文献计量分析 | 累计研发投入、高阶工程人才培养数、联邦公共资金匹配率 | 累计资助研发超 **25 亿美元**；培养 **9,200+ 名**微电子硕博人才；联邦[[Counterpart Funds\|对等资金]]占高校资助比例攀升至 **70% 以上** | 描述性统计与面板数据 | 证实行业前竞争 PPP 能高效放大财政杠杆并支撑国家工程人才库 |
+| [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] | 美国半导体研究公司（SRC）产学公私合作联合体（1982–2012） | 档案调阅与历史[[Bibliometric Analysis\|文献计量分析]] | 累计研发投入、高阶工程人才培养数、联邦公共资金匹配率 | 累计资助研发超 **25 亿美元**；培养 **9,200+ 名**微电子硕博人才；联邦[[Counterpart Funds\|对等资金]]占高校资助比例攀升至 **70% 以上** | 描述性统计与面板数据 | 证实行业前竞争 PPP 能高效放大财政杠杆并支撑国家工程人才库 |
 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 12, 30)]] | 新西兰公立教育基建 PFI 与特许学校 PPP（LIP/Future School Partners 财团，KickStart 早餐计划） | 批判政策社会学档案与合同[[Audit Trail\|审计追踪]] | PPP 财团股权构成、25 年期运维合同条款、政商董事兼任度与财政年金 | 首期合同由 LIP 财团承揽 25 年基建与运维；第二期扩至 4 所新校；政府承诺数十年不可撤销租金年金，学校物理空间管辖权让渡给商业物业财团 | 描述性统计与政策文本追踪 | 证实教育重资产基建 PPP 导致公共财政与校园空间治理被私营财团利益长期锁定 |
 
 ---

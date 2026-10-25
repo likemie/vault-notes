@@ -66,13 +66,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 葡萄牙比较教育学家、教育历史学家，里斯本大学前校长（2006–2013）、里斯本[[Chinese Academy of Sciences|科学院]]院士，曾任葡萄牙常驻[[UNESCO|联合国教科文组织]]（UNESCO）大使及教科文组织“国际未来教育委员会”研究指导委员会主席。
+> - **身份位置** 葡萄牙比较教育学家、教育历史学家，里斯本大学前校长（2006–2013）、里斯本科学院院士，曾任葡萄牙常驻[[UNESCO|联合国教科文组织]]（UNESCO）大使及教科文组织“国际未来教育委员会”研究指导委员会主席。
 > - **核心角色** 欧洲比较教育与空间批判研究的领军人物；开创了运用[[Governmentality|治理术]]分析超国家教育空间制作（Fabrication）的批判传统，并在教师专业化与教师教育比较史领域享有国际声誉。
 > - **代表贡献** 奠定[[European Education Space|欧洲教育空间]]批判分析[[Paradigm|范式]]；揭示[[EU|欧盟]]政策[[Discourse|话语]]如何借用古典人文游学传统将[[Student Mobility|学生流动]]建构为共同欧洲认同与现代公民美德；系统解构欧盟在主权约束下通过软治理技术渗透各成员国的制度机制；推动全球未来教育愿景的重构。
 
@@ -127,7 +127,7 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 在[[Student Mobility|学生流动]]研究中引用其[[European Education Space|欧洲教育空间]]理论，指出[[EU|欧盟]]政策[[Discourse|话语]]借用古典人文游学修辞，将跨国流动神圣化为欧洲公民美德，掩盖了全球资本对灵活劳动力的诉求。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 在[[Pluri-Scalar Governance|多标度教育治理]]研究中引用其理论，剖析欧盟在《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]制约下，如何借助最佳实践修辞、量化指标基准线与[[Bologna Process|博洛尼亚进程]]三大软治理机制渗透成员国教育政策。
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24–25, 34–35)]] — 援引诺沃亚关于“比较已转变为一种治理政策”的理论洞见，揭示经合组织与欧盟委员会如何依托跨国指标与数据网络，在维持法律辅助性原则的同时制作欧洲教育空间并推动各国内部政策趋同。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24–25, 34–35)]] — 援引诺沃亚关于“比较已转变为一种治理政策”的理论洞见，揭示[[OECD|经合组织]]与[[European Commission|欧盟委员会]]如何依托跨国指标与数据网络，在维持法律辅助性原则的同时制作欧洲教育空间并推动各国内部政策趋同。
 
 ---
 
@@ -136,7 +136,7 @@ updated: 2026-10-22
 > - **理论对话与引用学者**
 >   - Noah W. Sobe 与 Roland Fischer (2009) 引用其空间与[[Discourse Analysis|话语分析]]，批判性解构现代教育史中的学生跨国流动修辞；
 >   - [[Jason Beech]] (2009b) 引用其论述，系统阐明超国家联盟在《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]制约下依托软治理重塑成员国政策的三轨机制；
->   - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] 引用其欧洲教育空间理论与比较治理概念，阐释经合组织与欧盟委员会的数据基础设施建构。
+>   - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] 引用其欧洲教育空间理论与比较治理概念，阐释经合组织与欧盟委员会的[[Data Infrastructure|数据基础设施]]建构。
 > - **学术机构** 里斯本大学、日内瓦大学、[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）、[[UNESCO|联合国教科文组织]]。
 
 ---

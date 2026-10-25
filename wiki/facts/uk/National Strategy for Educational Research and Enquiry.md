@@ -61,13 +61,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-20
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景档案
-> - **发布时间 / 发布主体** 2018 年 11 月由英国教育部正式委托威尔士政府牵头，联合威尔士[[Evidence Ecosystem\|教育研究生态系统]]内外多元机构与学者展开协同共创，历时三年研讨于 2021 年正式发布《NSERE 愿景文件》（Vision [[Document]]）。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 116)]]
+> - **发布时间 / 发布主体** 2018 年 11 月由[[Department for Education|英国教育部]]正式委托威尔士政府牵头，联合威尔士[[Evidence Ecosystem\|教育研究生态系统]]内外多元机构与学者展开协同共创，历时三年研讨于 2021 年正式发布《NSERE 愿景文件》（Vision [[Document]]）。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 116)]]
 > - **适用地区 / 对象** 覆盖威尔士各年龄段、全学段教育系统，重点聚焦 3 至 18 岁基础教育以及高等教育机构（HEIs）内部的教育科学研究，涉及一线教师、校长、高校研究人员与政府公务决策官员。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 117)]]
 > - **问题背景** 直面教育科研生产与一线教学实践长期脱节的“两张皮”割裂现象，打破以往依赖局部短期资助项目的碎片化短板，致力于从顶层重塑具有全系统连贯性与透明度的国家教育科研治理框架。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 119)]]
 > - **制度位置** 作为威尔士权力下放（Devolution）治理背景下的国家级中长期战略纲领，与英格兰以 [[Education Endowment Foundation\|EEF]] 为核心的中介证据库模式形成互补，构筑起威尔士独立统筹的生态型教育科研知识基础设施。

@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 （人工智能素养）
@@ -190,7 +190,7 @@ updated: 2026-10-22
 > [!contrast-table] 所有命题归纳与理论边界
 > | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者 |
 > |---|---|---|---|
-> | **认知放大原则** | 防范[[Cognitive Offloading\|认知外包]]，将智能工具作为激发好奇心与深化反思的脚手架。 | K-12 科学教育、国家课程大纲与探究实验室 | The Royal Society |
+> | **认知放大原则** | 防范[[Cognitive Offloading\|认知外包]]，将智能工具作为激发好奇心与深化反思的脚手架。 | K-12 科学教育、国家课程大纲与探究实验室 | [[Royal Society\|The Royal Society]] |
 > | **认知调节中介** | AI 素养决定人机交互中的[[Epistemology\|认识论]]警觉，调节思维走向协同增益或侵蚀。 | 高校学术写作、人机协同创意设计与编程学习 | Li et al. |
 > | **课程测评重构** | 倒逼课程全域渗透并转向基于提示词链溯源与现场答辩的过程性评价。 | 教育评价改革、资格考试与学位考核设计 | The Royal Society; Li et al. |
 > | **认识论实践转向** | 超越提示词技巧，将算法输出作为探究对象并融合评价性判断与反馈素养。 | 学术探究实践、人机协同写作与专业认识论社会化 | Du & Yuan |
@@ -199,7 +199,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 概念演变脉络
 > - **2000 年代初 — 计算机与信息素养（ICT Literacy）** 聚焦计算机基本硬件操作、办公软件使用与互联网信息检索技能。
-> - **2010 年代 — [[Computational Thinking\|计算思维]]与编程教育（Computational Thinking）** 强调逻辑抽象、算法分解、模式识别与代码编程能力的普及。
+> - **2010 年代 — [[Computational Thinking\|计算思维]]与[[Coding Education|编程教育]]（Computational Thinking）** 强调逻辑抽象、算法分解、模式识别与代码编程能力的普及。
 > - **2020 年左右 — AI 素养概念提出与框架雏形** Ng et al. (2021) 率先提出涵盖“知晓、应用、评价、伦理”的 AI 素养四维概念模型。
 > - **2026 年初 — 批判性 AI 素养与生成式智能时代[[Epistemology\|认识论]]重塑** 随着大语言模型普及，研究从工具操作技能全面转向“[[Epistemological Vigilance\|认识论警觉]]、认知防卸载、[[Man-Computer Symbiosis|人机协同]]反思与主体性维护”。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3)]]
 > - **2026 年 — [[Epistemic Practices\|认识论实践]]转向与[[Evaluative Judgement\|评价性判断]]融合** [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] 批判将人工智能素养简化为提示词操作或合规防弊的狭隘倾向，提出将其与学科[[Epistemic Ideals\|认识论标准]]、评价性判断及[[Feedback Literacy\|反馈素养]]深度整合，确立将模型输出作为探究对象、对最终结论承担实质责任的批判性素养[[Paradigm\|范式]]。

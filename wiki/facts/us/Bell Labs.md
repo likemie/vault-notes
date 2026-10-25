@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -100,7 +100,7 @@ updated: 2026-10-22
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1925 年由美国电话电报公司（AT&T）与西电公司（Western Electric）工程部合并重组设立，旨在为全美长途电话网络的信号衰减、自动交换与频段扩容提供长远基础研究与器件开发支持。
 > - **总部地点 / 业务辐射** 核心园区设立于美国新泽西州默里山（Murray Hill, New Jersey），在全球信息通信技术（Information and Communications Technology, ICT）标准、固体物理学、计算机科学及材料工艺领域拥有世界级影响力。
-> - **法人属性与经费基础** 属于大型跨国通信垄断企业的全资研发机构；在 1984 年 AT&T 拆分前，受联邦反垄断和解协议保障，享有来自电话资费的稳定非竞争性研发经费抽成，同时在 1950 年代末获得来自美国国防部（Department of Defense, DoD）与原子能委员会（Atomic Energy Commission, AEC）的大额军方研发补贴支持，为极高风险的底层硬件探索提供了数十年维度的长期资本托底。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 30)]]
+> - **法人属性与经费基础** 属于大型跨国通信垄断企业的全资研发机构；在 1984 年 AT&T 拆分前，受联邦反垄断和解协议保障，享有来自电话资费的稳定非竞争性研发经费抽成，同时在 1950 年代末获得来自[[Department of Defense|美国国防部]]（Department of Defense, DoD）与原子能委员会（Atomic Energy Commission, AEC）的大额军方研发补贴支持，为极高风险的底层硬件探索提供了数十年维度的长期资本托底。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 36)]]; [[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 30)]]
 > - **核心宗旨与法定职责** 构筑连接全美乃至全球的统一通信物理网络，以任务使命为锚点，跨越纯理论与纯工程界限开展全链条探索。
 
 ---

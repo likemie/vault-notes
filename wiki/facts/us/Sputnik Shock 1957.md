@@ -79,17 +79,17 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定性
-> 1957 年苏联成功发射人类首颗人造卫星引发了美国乃至整个西方阵营深层的科技、军事与教育信心危机（Sputnik Shock）。该事件将美苏冷战推向“竞争技术化”新阶段，促发了 1957—1967 年美国科技政策“黄金十年”；形成了多重深远制度重构遗产：在国家大战略决策与前沿研发领域，直接促成美国设立[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, [[President's Science Advisory Committee|PSAC]]）、高级研究计划局（Advanced Research Projects Agency，[[DARPA|ARPA]]，后更名为国防高级研究计划局 DARPA）与[[National Aeronautics and Space Administration|国家航空航天局]]（National Aeronautics and Space Administration, NASA），确立了以国家安全为最高合法性、学术精英直接入阁参谋的“高自治—高嵌入”治理结构与“防范国家技术突袭”的颠覆性创新治理[[Paradigm|范式]]；在教育与人才培养领域则出台了《[[National Defense Education Act of 1958|国防教育法]]》，并将欧洲跨国组织重塑为“经济北约”，开创了将[[Human Capital Theory|人力资本理论]]、控制论规划与国家地缘竞争相绑定的技术官僚治理传统。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
+> 1957 年苏联成功发射人类首颗人造卫星引发了美国乃至整个西方阵营深层的科技、军事与教育信心危机（Sputnik Shock）。该事件将美苏冷战推向“竞争技术化”新阶段，促发了 1957—1967 年美国科技政策“黄金十年”；形成了多重深远制度重构遗产：在国家大战略决策与前沿研发领域，直接促成美国设立[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, [[President's Science Advisory Committee|PSAC]]）、高级研究计划局（Advanced Research Projects Agency，[[DARPA|ARPA]]，后更名为国防高级研究计划局 DARPA）与[[National Aeronautics and Space Administration|国家航空航天局]]（National Aeronautics and Space Administration, NASA），确立了以国家安全为最高合法性、学术精英直接入阁参谋的“高自治—高嵌入”治理结构与“防范国家技术突袭”的颠覆性创新治理[[Paradigm|范式]]；在教育与人才培养领域则出台了《[[National Defense Education Act of 1958|国防教育法]]》，并将欧洲跨国组织重塑为“经济北约”，开创了将[[Human Capital Theory|人力资本理论]]、控制论规划与国家地缘竞争相绑定的技术官僚治理传统。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 540–541)]]
 
 > [!event-context] 事件背景
-> - **时间跨度 / 空间地理** 1957 年 10 月 4 日（苏联斯普特尼克 1 号卫星发射升空）；其冲击波迅速席卷美国白宫、五角大楼、国会山、全美各大高校，以及西欧诸国与巴黎[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（Organisation for European Economic Co-operation，OEEC）总部。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
-> - **核心当事主体** 美国联邦政府（[[Dwight D. Eisenhower|艾森豪威尔]]政府、国防部与国会）；苏联航天与国防工业科研体系；新兴国防科研机构（ARPA/DARPA、NASA）；白宫最高科学咨询中枢（[[President's Science Advisory Committee|PSAC]]）；欧洲经济合作组织（后改组为[[OECD|经合组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织））；全美大学科学家、工程师及教育学者共同体。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
+> - **时间跨度 / 空间地理** 1957 年 10 月 4 日（苏联斯普特尼克 1 号卫星发射升空）；其冲击波迅速席卷美国白宫、[[Department of Defense|五角大楼]]、国会山、全美各大高校，以及西欧诸国与巴黎[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（Organisation for European Economic Co-operation，OEEC）总部。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
+> - **核心当事主体** 美国联邦政府（[[Dwight D. Eisenhower|艾森豪威尔]]政府、国防部与国会）；苏联航天与国防工业科研体系；新兴国防科研机构（ARPA/DARPA、NASA）；白宫最高科学咨询中枢（[[President's Science Advisory Committee|PSAC]]）；欧洲经济合作组织（后改组为[[OECD|经合组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织））；全美大学科学家、工程师及教育学者共同体。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 540)]]
 > - **深层制度与社会背景** 美苏两极冷战进入洲际导弹与空间技术争夺战。西方社会普遍认识到苏联在空间技术上的领先体现了其科研体系与大规模理工科人才培养的组织效率，暴露出美国战后分立割裂的军种研发体制以及公立学校生活适应教育（Life Adjustment Education）的严重不足。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 421)]]
 > - **直接导火索 / 触发事件** 1957 年 10 月 4 日苏联成功发射重达 83.6 公斤的 Sputnik 1 卫星并持续发出无线电信号，彻底击碎了美国在二战后长期维系的高技术垄断安全幻觉。
 
@@ -99,13 +99,13 @@ updated: 2026-10-22
 > - **1957–1958 — 危机爆发与国家安全科研体制闪电重组**
 >   - 1957 年 11 月，面对朝野震动，[[Dwight D. Eisenhower|艾森豪威尔]]总统迅速设立全职总统科学顾问，并在白宫正式组建 **[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）** ，由麻省理工学院（MIT）校长詹姆斯·基利安（James Killian）领衔，学术精英直接参与最高国防与外太空决策，构建了“高自治—高嵌入”治理结构。
 >   - 1958 年 2 月，美国国防部依据总统指示设立 **高级研究计划局（Advanced Research Projects Agency，[[DARPA|ARPA]]，即后来的 [[DARPA]]）** ，直属国防部长办公室，专门负责高风险、前瞻性与跨军种前沿科技攻关，其首要法定宗旨即为“防范敌方技术突袭，并在关键科技领域制造对敌技术突袭”。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]
->   - 同年 7 月美国国会通过《国家航空航天法案》成立[[National Aeronautics and Space Administration|国家航空航天局]]（NASA），将民用航天职能从军方剥离；
+>   - 同年 7 月[[United States Congress|美国国会]]通过《国家航空航天法案》成立[[National Aeronautics and Space Administration|国家航空航天局]]（NASA），将民用航天职能从军方剥离；
 >   - 同年 9 月国会通过《[[National Defense Education Act of 1958|国防教育法]]》（National Defense Education Act，NDEA 1958），联邦财政首次对数学、科学、工程与关键外语教育进行大规模定向注资；同年芝加哥大学在卡耐基基金会资助下建立[[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 421–423)]]
 > - **1957–1967 — 科技政策黄金十年与国家战略储备定位** 斯普特尼克危机开启了美国科技政策的“黄金十年”。在此期间，联邦研发经费保持年均两位数的高速增长，基础研究被赋予应对未来不确定性的战略储备定位，享受政府充分信任与底线托底保障；科学家被社会公认为“国家理性”的[[Avatar|化身]]，享有崇高的公共威望。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
-> - **1959–1961 — 跨国扩散与“经济北约”重塑期** 斯普特尼克危机促使大西洋两岸将科学技术与教育置于地缘竞争前沿；[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）顺势自我重塑为“世界一流教育的先驱”，于 1961 年正式改组为[[OECD|经合组织]]（OECD），被西方史学界定性为旨在抗衡华沙条约组织经济阵营的“经济北约”；经合组织投入巨额资源开展跨国教育统计，将[[Human Capital Theory|人力资本理论]]与宏观控制论规划紧密缝合。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
+> - **1959–1961 — 跨国扩散与“经济北约”重塑期** 斯普特尼克危机促使大西洋两岸将科学技术与教育置于地缘竞争前沿；[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）顺势自我重塑为“世界一流教育的先驱”，于 1961 年正式改组为[[OECD|经合组织]]（OECD），被西方史学界定性为旨在抗衡华沙条约组织经济阵营的“经济北约”；经合组织投入巨额资源开展跨国教育统计，将[[Human Capital Theory|人力资本理论]]与宏观控制论规划紧密缝合。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 540–541)]]
 > - **1961–1970 年代 — 全球创新治理与教育规划[[Paradigm|范式]]成型**
 >   - ARPA/DARPA 逐步探索出由项目经理（Program Managers, PMs）主导的去官僚化资助模式，在前瞻性计算机科学（如 [[ARPANET]]、分时系统）、先进半导体材料与人工智能领域奠定基础。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1136)]]
->   - 1960 年[[1960 Bellagio Conference|贝拉吉奥会议]]与 1961 年华盛顿经合组织政策会议推动各国确立“教育投资驱动经济与科技增长”共识；经合组织启动地中海地区项目（[[Mediterranean Regional Project|MRP]]），[[UNESCO|联合国教科文组织]]设立[[International Institute for Educational Planning|国际教育规划研究所]]（IIEP），现代教育经济学与宏观人力预测模型全面扎根。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+>   - 1960 年[[1960 Bellagio Conference|贝拉吉奥会议]]与 1961 年华盛顿经合组织政策会议推动各国确立“教育投资驱动经济与科技增长”共识；经合组织启动地中海地区项目（[[Mediterranean Regional Project|MRP]]），[[UNESCO|联合国教科文组织]]设立[[International Institute for Educational Planning|国际教育规划研究所]]（IIEP），现代教育经济学与宏观人力预测模型全面扎根。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
 > - **1967–1972 — 初等教育合法性危机与对英开放课堂借用浪潮**
 >   - 危机不仅重构了宏观科技与国防教育，亦被公共舆论与学者概念化为美国传统初等教育的制度性失败，指责公立学校压抑儿童[[Creativity|创造力]]且充斥“心智麻木”（Ravitch, 1983）。
 >   - 先锋学者莉莲·韦伯亲赴英国小学实地调研 18 个月，约瑟夫·费瑟斯通在《新共和》推介英国非正式教育；1969 年全美 20 个大城市派出联合考察团，至 1971 年发表逾 300 篇专文，在全美催生约 500 所“自由学校”，引爆全美拆除教室隔墙、移植英国幼儿学校经验的[[Open Classroom Movement|开放式课堂运动]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–342)]]
@@ -131,7 +131,7 @@ updated: 2026-10-22
 
 > [!actor-grid] 权力—立场矩阵
 > - **国家安全与前沿科研建制派** [[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC）、国防部高级研发领导层、新兴设立的 [[DARPA|ARPA]]/DARPA、[[National Science Foundation|美国国家科学基金会]]（NSF）、杰罗姆·布鲁纳（Jerome Bruner）与物理科学研究委员会（PSSC）— 主张彻底打破平庸的渐进式研发与生活适应教育，在顶层强力资助高风险颠覆性科技，并强推以学科结构为核心的探究式课程改革。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]
-> - **跨国技术官僚阵营** [[Organisation for European Economic Co-operation|欧洲经济合作组织]]与[[OECD|经合组织]]（OECD）教育规划学者 — 将教育定义为培养工程师与高技术劳动力的战略供给线，倡导跨国统计比较与国家中长期人力预测。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
+> - **跨国技术官僚阵营** [[Organisation for European Economic Co-operation|欧洲经济合作组织]]与[[OECD|经合组织]]（OECD）教育规划学者 — 将教育定义为培养工程师与高技术劳动力的战略供给线，倡导跨国统计比较与国家中长期人力预测。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 540–541)]]
 > - **学术比较研究转型派** [[C. Arnold Anderson]] 与芝加哥比较教育中心学者 — 深度融合比较教育学与教育经济学，推动[[Positivism|实证主义]]与[[Human Capital Theory|人力资本]][[Paradigm|范式]]在全球南方扩散。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 422–423)]]
 > - **传统[[Progressive Education|进步主义教育]]阵营** 哥伦比亚大学[[Normal School|师范学院]]与地方公立学校初等教育教师共同体 — 受到朝野舆论严厉问责，被斥为导致美国在太空竞争中落后的制度根源，其儿童中心取向在基础教育高年级阶段遭到大幅边缘化。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 421)]]
 
@@ -152,20 +152,20 @@ updated: 2026-10-22
 > - **白宫顶层科学顾问体制确立** 促成了 [[President's Science Advisory Committee|PSAC]] 的正式运作，使大学学术领袖直接进入总统核心智囊圈，为冷战战略决策注入深厚的科学理性支撑。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **联邦介入地方教育的合法化** 彻底打破了美国自建国以来联邦政府不直接干预地方基础教育的政治惯例，将教育预算在法律与财政上正式确立为国家安全与国防开支的法定组成部分。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
 > - **学科结构化与课程现代化运动** 催生了由大学顶尖科学家领衔的“新数学”（New Math）与物理科学课程委员会改革，直接促成了布鲁纳《教育过程》（1960）的诞生。
-> - **跨国规制组织与“经济北约”成型** 赋予[[OECD|经合组织]]介入成员国教育与科技政策的制度动能，先后促成了 1968 年[[Centre for Educational Research and Innovation|经合组织教育研究与创新中心]]（CERI）、1988 年[[International Indicators of Education Systems|国际教育系统指标]]（INES）项目以及后续《[[Education at a Glance|教育概览]]》（EAG）与[[PISA|国际学生评估项目]]（PISA）的问世。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
+> - **跨国规制组织与“经济北约”成型** 赋予[[OECD|经合组织]]介入成员国教育与科技政策的制度动能，先后促成了 1968 年[[Centre for Educational Research and Innovation|经合组织教育研究与创新中心]]（CERI）、1988 年[[International Indicators of Education Systems|国际教育系统指标]]（INES）项目以及后续《[[Education at a Glance|教育概览]]》（EAG）与[[PISA|国际学生评估项目]]（PISA）的问世。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–543)]]
 > - **初等教育微观教学法借用与反弹** 危机催化了战后美国初等教育向英国非正式教育的大规模[[Policy Borrowing|政策借用]]，推动开放式课堂与弹性教学空间兴起；但也因生搬硬套英国形式外观而抽离教师专业自主实质，在 1970 年代中后期学力倒退后遭遇“回归基础”保守反扑。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 342)]]
 
 > [!finding-cards] 关键历史后果
 > - **冷战科技黄金十年与“高自治—高嵌入”治理结构** 斯普特尼克危机确立了国家安全作为资助科学的根本正当性来源，催生了 1957—1967 年美国科技政策“黄金十年”。在此期间，基础研究被赋予应对未来不确定性的战略储备定位；白宫设立 [[President's Science Advisory Committee|PSAC]]，形成了学术精英深度介入国家安全与外太空最高战略决策、微观层面由同行评议完全掌控的“高自治—高嵌入”制度形态。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **创新治理与国家安全链条的制度化** 斯普特尼克危机首次在现代国家治理中将“基础教育严格性 $\rightarrow$ 高精尖科研攻关（[[DARPA]]） $\rightarrow$ 国家战略威慑力”锻造为不可动摇的公共政策链条，成为当代[[Knowledge-Based Economy|知识经济]]与国家战略科技力量建设的历史母本。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1134)]]
 > - **比较教育学科的“[[Development Turn in Comparative Education|发展转向]]”** 促使比较教育研究从早期的历史主义与文化哲学沉思，全面转向以[[Human Capital Theory|人力资本]]计量、劳动力预测与跨国指标比较为核心的实证量化[[Paradigm|范式]]。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 422–423)]]
-> - **冷战危机叙事在现代治理中的延续（[[Vergegenkunft]] 效应）** 确立了“通过人为放大或借用地缘技术危机来突破既有体制阻力、推动大规模财政定向转移”的危机动员范式，持续在当代的科技战与全球教育竞争中产生回响。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 540)]]
+> - **冷战危机叙事在现代治理中的延续（[[Vergegenkunft]] 效应）** 确立了“通过人为放大或借用地缘技术危机来突破既有体制阻力、推动大规模财政定向转移”的危机动员范式，持续在当代的科技战与全球教育竞争中产生回响。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 540)]]
 
 > [!stat-cards]- 核心历史数据
 > - **83.6 kg** 1957 年 10 月 4 日苏联 Sputnik 1 号人造卫星重量，击碎西方高技术垄断优越感。
 > - **1957–1967** 危机直接促发的美国战后科技政策“黄金十年”，研发经费保持两位数年均高速增长。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **$1B** 1958 年美国《国防教育法》（NDEA）四年期直接拨款总额（10 亿美元），开创联邦定向注资基础教育与尖端人才培养的先例。
-> - **1961** 欧洲经济合作组织在危机地缘压力下正式重组为经合组织（OECD），开启“经济北约”教育规划跨国规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
+> - **1961** 欧洲经济合作组织在危机地缘压力下正式重组为经合组织（OECD），开启“经济北约”教育规划跨国规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 540–541)]]
 
 ---
 
@@ -186,11 +186,11 @@ updated: 2026-10-22
 > > [!axis] 真实的科技教育危机 vs 精英操纵的[[Discourse|话语]]建构
 > > 围绕斯普特尼克危机是反映了美国真实的科技与教育落后，还是被国防科研精英与国际组织策略性利用的政策动员修辞展开辩论。
 > >
-> > - **[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024, pp. 540–542)]]** 认为：斯普特尼克危机开创了“通过周期性危机叙事为国际技术官僚与联邦官僚拓展[[Policy Brokerage|政策中介]]权力与预算空间”的标准范式，危机话语往往远超实际科技差距本身。
+> > - **[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b, pp. 540–542)]]** 认为：斯普特尼克危机开创了“通过周期性危机叙事为国际技术官僚与联邦官僚拓展[[Policy Brokerage|政策中介]]权力与预算空间”的标准范式，危机话语往往远超实际科技差距本身。
 > > - **国家安全史学派** 强调苏联在洲际导弹与重型运载火箭领域的工程领先是无可辩驳的现实威胁，迫使美国必须采取革命性的组织创新（如 DARPA 的设立）以维系均势。
 
 > [!citation-card] 施泰纳-哈姆西等论冷战危机叙事与技术官僚规制范式
-> 斯普特尼克危机促成了欧洲经济合作组织向经合组织的战略转型，并开创了通过放大外部地缘危机来突破国内体制否决、为跨国技术官僚扩张知识生产与统计规制合法性的标准范式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
+> 斯普特尼克危机促成了欧洲经济合作组织向经合组织的战略转型，并开创了通过放大外部地缘危机来突破国内体制否决、为跨国技术官僚扩张[[Knowledge Production|知识生产]]与统计规制合法性的标准范式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 540–542)]]
 >
 > *The Sputnik shock paved the way for the transformation of the OEEC into the OECD... inaugurating a mode of governance where geopolitical crises are leveraged to legitimize transnational statistical surveillance and human capital planning.*
 
@@ -207,9 +207,9 @@ updated: 2026-10-22
 > | [[OECD]] | Fact (Organization) | 在危机地缘压力下由欧洲经济合作组织重组而成的“经济北约”，开创跨国教育统计与人力资本规制。 |
 > | [[Human Capital Theory]] | Theory | 危机后主导跨国教育规划、将教育界定为国家战略投资的核心经济学理论。 |
 > | [[STEM Education]] | Concept | 危机后由联邦与顶尖学者联合推行的学科结构化与科学人才培养核心领域。 |
-> | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | Argument | 从科学社会契约演化视角，论证斯普特尼克危机如何促发冷战竞争技术化转向与高自治—高嵌入治理结构。 |
+> | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | Argument | 从[[Social Contract of Science\|科学社会契约]]演化视角，论证斯普特尼克危机如何促发冷战竞争技术化转向与高自治—高嵌入治理结构。 |
 > | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] | Argument | 梳理 DARPA 历史沿革，指出斯普特尼克危机是推动设立 ARPA 并确立防范技术突袭范式的根本历史起点。 |
 > | [[Argument_Amos_2022_Springer\|Amos (2022)]] | Argument | 论证斯普特尼克冲击如何将经济、国家安全与知识生产硬性挂钩，产生贯穿至今的制度回响（Vergegenkunft）。 |
 > | [[Argument_Klerides_2023_CE\|Klerides (2023)]] | Argument | 拆解斯普特尼克危机如何促成《国防教育法》、芝加哥比较教育中心成立及比较教育学实证主义转型。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | Argument | 揭示危机如何成为欧洲经济合作组织重组为 OECD（“经济北约”）并开创跨国统计规制的关键动力。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | Argument | 揭示危机如何成为欧洲经济合作组织重组为 OECD（“经济北约”）并开创跨国统计规制的关键动力。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 揭示危机如何被概念化为初等教育失败并触发美国借用英国幼儿学校经验的开放课堂运动。 |

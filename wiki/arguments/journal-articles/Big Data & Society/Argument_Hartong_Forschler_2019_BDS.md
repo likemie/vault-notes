@@ -79,7 +79,7 @@ related_facts:
   - "[[EU]]"
 status: stable
 created: 2026-09-18
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 ---
 
@@ -183,7 +183,7 @@ updated: 2026-10-23
 > 3. **算法分析、模型拟合与深度挖掘层（Analysis & Modelling）**
 >    行政各业务处室协同内外部科研专家，调取特定数据集运行统计分析、构建早警预测模型、计算社会经济指数并进行标准化数据建模与可视化图表渲染。
 > 4. **分层分权定向呈报与交互应用层（Reporting & Interface）**
->    形成多渠道知识输出格局：向上呈报至跨州或联邦治理中枢（如全德[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]] [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 或美国联邦教育部）；向社会公众在线公开综合报表；向校长、督学与教师定向推送各类型数据仪表盘。
+>    形成多渠道知识输出格局：向上呈报至跨州或联邦治理中枢（如全德[[Standing Conference of the Ministers of Education and Cultural Affairs\|常设各州教育与文化部长会议]] [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 或[[United States Department of Education|美国联邦教育部]]）；向社会公众在线公开综合报表；向校长、督学与教师定向推送各类型数据仪表盘。
 
 #### 2. 查询代码与权重分配深嵌治理选择性，打破理性控制并呈现非线性试错烹饪
 

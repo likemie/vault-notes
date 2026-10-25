@@ -15,7 +15,7 @@ fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: 美国国会（US Congress）与德怀特·艾森豪威尔总统（Dwight D. Eisenhower）
+issuing_organization: "[[United States Congress|美国国会（US Congress）]]与德怀特·艾森豪威尔总统（Dwight D. Eisenhower）"
 tags:
   - theme/science-policy
   - region/us
@@ -40,13 +40,13 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1958 年 9 月 2 日由美国国会通过并由[[Dwight D. Eisenhower|德怀特·艾森豪威尔]]总统正式签署生效（公法 P.L. 85-864）。
+> - **发布时间 / 发布主体** 1958 年 9 月 2 日由[[United States Congress|美国国会]]通过并由[[Dwight D. Eisenhower|德怀特·艾森豪威尔]]总统正式签署生效（公法 P.L. 85-864）。
 > - **适用地区 / 对象** 全美各州中小学校区、大学及学院、数理化及外语学科教师，以及攻读科学与工程专业的高校学生和研究生。
 > - **问题背景** 1957 年苏联成功发射首颗人造地球卫星（[[Sputnik Shock 1957|Sputnik Shock]]）引发全美震动，朝野普遍产生对美国科技人才储备落后、中小学数理基础教育薄弱的极度国家安全焦虑。
 > - **制度位置** 构成了美国战后联邦教育政策的最高里程碑之一，首次以“国家防御安全”为合法性依托，从根本上打破了美国宪政传统中“联邦不得干预地方教育主权”的百年政治禁忌。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]

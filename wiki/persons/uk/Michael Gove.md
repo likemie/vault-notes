@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -90,7 +90,7 @@ updated: 2026-10-22
 
 > [!thought-timeline] 政策哲学与改革实践演进
 > - **2010–2011 — 留本基金创设与财政补偿制度化（循证底座确立期）** 回应阶层固化与弱势学童学业差距危机。
->   - **代表文本** 英国教育部白皮书[[The Importance of Teaching\|《教学的重要性》]]（The Importance of Teaching, DfE 2010）。
+>   - **代表文本** [[Department for Education|英国教育部]]白皮书[[The Importance of Teaching\|《教学的重要性》]]（The Importance of Teaching, DfE 2010）。
 >   - **关键政策／机构** 设立英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）、确立[[Pupil Premium\|学生津贴]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 47)]]
 >   - **治理逻辑** 打破传统政府直接包揽微观干预的官僚模式，通过设立独立留本基金（Endowment Trust）确立专业受托人防火墙，使教育实证评估与学校因果试验脱离选举周期的政党更迭干扰。
 > - **2012–2014 — 激进结构重组、危机推销与争议治理（新自由主义与传统主义交织期）** 回应国际评估排名与体制效率议题。

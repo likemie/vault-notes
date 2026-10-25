@@ -86,7 +86,7 @@ updated: 2026-10-26
 > [!dev-timeline] Fraction Face-Off! 发展历程
 > - **2010–2013 — 认知模型开发与先导[[Efficacy Trial\|效力试验]]** 富克斯团队系统对比数轴模型与传统面积模型，完成 36 课时高度结构化辅导手册与助教培训指南编制。
 > - **2013–2016 — 大样本多中心[[Randomised Controlled Trials\|随机对照试验]]** 在数十所公立学校连续开展严格的多学区 RCT（Fuchs et al., 2016），证实助教主导的干预组在概念理解与统考应用题中均大幅超越[[Business as Usual\|常规对照组]]，[[Effect Size\|效应量]]高达 $+0.51$。
-> - **2016–至今 — 确立为全美数学 Tier 2 黄金金标准** 被美国教育部 [[What Works Clearinghouse\|WWC]] 与 [[Evidence for ESSA]] 一致评定为初等数学强证据标杆方案，并被斯莱文纳入[[Response to Proven Instruction\|循证干预反应]]（RTPI）数学支持矩阵的核心支柱。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
+> - **2016–至今 — 确立为全美数学 Tier 2 黄金金标准** 被[[United States Department of Education|美国教育部]] [[What Works Clearinghouse\|WWC]] 与 [[Evidence for ESSA]] 一致评定为初等数学强证据标杆方案，并被斯莱文纳入[[Response to Proven Instruction\|循证干预反应]]（RTPI）数学支持矩阵的核心支柱。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
 

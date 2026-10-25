@@ -56,7 +56,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-06
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Metli_2022_IJEdReform"
@@ -193,7 +193,7 @@ issuing_organization: ""
 
 > [!implication]- 对未来研究与实践的启示
 > - **对 IB 官方的建议** 除了将并发学习显性纳入现有培训，IB 应考虑增设关于并发学习的 **第 3 类（Category 3）专业发展工作坊**。此外，IB 需与土耳其等地区的高等教育机构合作，提高 [[IB Diploma Programme\|IBDP]] 的录取认可度，以帮助学校和学生在国家考试压力下优先考虑 DP 课程。
-> - **对师资培养的建议** 呼吁在职前教师教育（特别是参加 IB 教育证书项目的实习教师）中，加入针对跨学科学习以及课程的 **垂直与水平衔接（vertical and horizontal articulation）** 的专门培训，从源头提升教师整合课程的能力。
+> - **对师资培养的建议** 呼吁在职前教师教育（特别是参加 IB 教育证书项目的实习教师）中，加入针对跨学科学习以及课程的 **垂直与水平衔接（vertical and horizontal articulation）** 的专门培训，从源头提升教师[[Integrated Curriculum Programs|整合课程]]的能力。
 > - **对未来研究的建议** 建议在不同的学校背景下开展更多实证研究，以探索不仅在核心组件之间，而且在所有学术课程中实施并发学习的有效策略。
 
 ---

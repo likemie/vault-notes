@@ -63,7 +63,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-29
-updated: 2026-10-22
+updated: 2026-10-26
 subtype: book-chapter
 publication_type: book
 title: "Argument_Gilison_Wilson_2025_UniversityStartups"
@@ -181,7 +181,7 @@ citation_aliases:
 
 ---
 
-11. 值得注意的是这 24 家入选企业的"起跑线"——它们已经是经过筛选的优质标的。几乎所有企业都获得过某种[[Non-dilutive Funding|非稀释性资助]]（non-dilutive funding，即不需要出让股权的资金），包括大学内部的"产品验证"拨款（Proof of Product grants），或来自[[National Science Foundation|NSF]]、国立卫生研究院（[[National Institutes of Health]], NIH）、能源部（[[Department of Energy]], DOE）、国防部（Department of Defense, DOD）以及小企业创新研究（[[SBIR and STTR Programs|Small Business Innovation Research]], SBIR）和小企业[[Technology Transfer|技术转移]]（Small Business [[Technology Transfer]], STTR）计划的政府资助。它们的 IP 经过了大学[[Technology Transfer Office|技术转移办公室]]（Technology Transfer Office, TTO）的尽职调查，大学已经愿意为专利申请和法律保护投入真金白银，这说明 IP 的质量是经过内部审核的(pp.144-145)。
+11. 值得注意的是这 24 家入选企业的"起跑线"——它们已经是经过筛选的优质标的。几乎所有企业都获得过某种[[Non-dilutive Funding|非稀释性资助]]（non-dilutive funding，即不需要出让股权的资金），包括大学内部的"产品验证"拨款（Proof of Product grants），或来自[[National Science Foundation|NSF]]、国立卫生研究院（[[National Institutes of Health]], NIH）、能源部（[[Department of Energy]], DOE）、国防部（[[Department of Defense]], DOD）以及小企业创新研究（[[SBIR and STTR Programs|Small Business Innovation Research]], SBIR）和小企业[[Technology Transfer|技术转移]]（Small Business [[Technology Transfer]], STTR）计划的政府资助。它们的 IP 经过了大学[[Technology Transfer Office|技术转移办公室]]（Technology Transfer Office, TTO）的尽职调查，大学已经愿意为专利申请和法律保护投入真金白银，这说明 IP 的质量是经过内部审核的(pp.144-145)。
 
 > [!example|notitle]
 > 在教育领域，一所教育学院的教授团队基于五年 NSF 资助的研究开发了一套"教师课堂[[Discourse Analysis\|话语分析]]系统"，自动[[Transcription in Qualitative Research\|转录]]课堂录音、标注师生互动模式、生成教学改进建议。大学 TTO 评估后认为有商业化前景，帮团队申请了专利，并给了 5 万美元的校内产品验证拨款做学区试点。项目还获得了一家基金会的 25 万美元非稀释性资助用于研发。在参加学校的创业展示会之前，团队已经投入了价值超过 50 万美元的研发（含 NSF 资助和大学配套），产品质量经过了初步验证。听起来是不是应该有一堆投资人排队等着投？但现实是：他们参加了三场路演，见了十几家投资机构，没有一家投钱。
@@ -311,7 +311,7 @@ citation_aliases:
 29. 联盟的使命不是在研发完成后"验收成果"，而是在研发启动前就提供关于未来技术缺口和机会的市场输入。这意味着市场洞察前置到了研究方向选择的阶段，这是对传统"先研究、后转化"线性模型的根本性修正(p.150)。
 
 > [!example|notitle]
-> 将 UCSD 模式迁移到教育领域。一所师范大学的教育学院确定了一个垂直领域——"教师专业发展的技术解决方案"。学院邀请了五家不同类型的企业组成咨询联盟：一家在线教育平台（拥有 300 万注册教师用户）、一家教育出版集团（拥有大量教师培训内容版权）、一家人力资源科技公司（专门做企业员工培训的效果评估）、一家虚拟现实（Virtual Reality, VR）教育创业公司（在做沉浸式课堂模拟），以及一家地区银行的教育基金会（资助教育创新项目）。联盟的第一次季度会议上，教育学院展示了他们在做的五个研究方向。HR 科技公司的代表说："你们第一个项目关于'教师微证书'（micro-credentials）的方向与我们最相关，我们发现企业员工培训正在从'课时认证'转向'能力认证'，教育领域马上也会发生同样的转变。如果你们的微证书系统能以能力（competency）而非课时（seat time）为计量单位，五年后它将兼容整个劳动力市场的认证体系。"这个市场洞察让研究团队在项目启动阶段就做出了一个关键的设计决策，比产品做出来之后才发现"方向偏了"节省了至少两年的时间和数十万美元的沉没成本（参见 p.150）。
+> 将 UCSD 模式迁移到教育领域。一所师范大学的教育学院确定了一个垂直领域——"教师专业发展的技术解决方案"。学院邀请了五家不同类型的企业组成咨询联盟：一家[[Online Education|在线教育]]平台（拥有 300 万注册教师用户）、一家教育出版集团（拥有大量教师培训内容版权）、一家人力资源科技公司（专门做企业员工培训的效果评估）、一家虚拟现实（Virtual Reality, VR）教育创业公司（在做沉浸式课堂模拟），以及一家地区银行的教育基金会（资助教育创新项目）。联盟的第一次季度会议上，教育学院展示了他们在做的五个研究方向。HR 科技公司的代表说："你们第一个项目关于'教师微证书'（micro-credentials）的方向与我们最相关，我们发现企业员工培训正在从'课时认证'转向'能力认证'，教育领域马上也会发生同样的转变。如果你们的微证书系统能以能力（competency）而非课时（seat time）为计量单位，五年后它将兼容整个劳动力市场的认证体系。"这个市场洞察让研究团队在项目启动阶段就做出了一个关键的设计决策，比产品做出来之后才发现"方向偏了"节省了至少两年的时间和数十万美元的沉没成本（参见 p.150）。
 
 ---
 
@@ -332,7 +332,7 @@ citation_aliases:
 32. SSLEEC 最成功的衍生企业案例是 Soraa Laser Diode（SLD Inc.），这家公司后来于 2020 年被日本京瓷公司（Kyocera）收购(p.150)。虽然原文没有详细描述 SLD 的发展历程，但案例的关键意义在于：它证明了在"IP 归大学、企业有优先许可权"的制度安排下，衍生企业能够成功地独立发展、获得外部融资、并最终通过收购实现退出，整个过程不受任何一家会员企业的约束。
 
 > [!example|notitle]
-> 将这个模式迁移到教育领域。一所师范大学的教育学院设立了"学习科学与技术[[Innovation Hub\|创新中心]]"，聚焦"AI 驱动的个性化学习"这一垂直领域。六家企业成为创始会员：一家大型 K-12 教育出版集团、一家教育科技公司、一家学习管理系统（Learning Management System, LMS）提供商、一家为学校提供[[Data Infrastructure\|数据基础设施]]的科技公司、一家专注教育领域的 VC 基金，以及一家非营利教育研究机构。每家每年缴纳 15 万美元会费，共同资助中心内五个研究方向的早期探索性研究。
+> 将这个模式迁移到教育领域。一所师范大学的教育学院设立了"学习科学与技术[[Innovation Hub\|创新中心]]"，聚焦"AI 驱动的[[Personalized Learning|个性化学习]]"这一垂直领域。六家企业成为创始会员：一家大型 K-12 教育出版集团、一家教育科技公司、一家学习管理系统（Learning Management System, LMS）提供商、一家为学校提供[[Data Infrastructure\|数据基础设施]]的科技公司、一家专注教育领域的 VC 基金，以及一家非营利教育研究机构。每家每年缴纳 15 万美元会费，共同资助中心内五个研究方向的早期探索性研究。
 >
 > 第二年会费缴纳时，有两家企业表示犹豫，第一年没看到什么"能用的东西"。这时，LMS 提供商的代表——三个月前因项目需要被派驻中心工作了四周——站了出来："我跟那个做'AI [[Inquiry-Based Learning\|探究式学习]]支架'的项目组一起待了一个月。他们现在的原型在实验室环境下可以让中学生在科学探究任务中的提问质量提高 40%。当然这离产品还很远，但我现在非常清楚地知道三年后我们的 LMS 需要什么样的 AI 探究支架，因为我们现有的产品在这个维度上基本是零。15 万会员费换一个未来产品的清晰路线图，我觉得值。"犹豫的企业最终续了费。当一个产业伙伴深度参与研究过程以至于变成了"内部代言人"时，联盟获得了可持续发展的动力（参见 pp.150-151）。
 

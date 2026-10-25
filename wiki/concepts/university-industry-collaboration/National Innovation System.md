@@ -117,13 +117,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] National Innovation System
-> **国家[[Systems of Innovation|创新系统]]（National Innovation System, NIS）** 指由一个国家内部公共与私营部门构成的制度网络，其组织活动、政策工具与多元主体相互作用共同发起、引进、改进与扩散新技术。该概念强调技术创新并非孤立实验室内的单向线性发明，而是深受一国国民教育培训体系、企业专业化研发建制、前竞争技术联合体、实体制造公地、产业链上下游互动网络、承接战略使命的[[Research Universities|研究型大学]]以及国家战略协调规制的共同规约，构成了理解跨国[[Technological Catch-up|技术赶超]]、无形知识积累与经济长期分化的基本[[Unit of Analysis|分析单位]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5, 20–21)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45, 54–56)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
+> **国家[[Systems of Innovation|创新系统]]（National Innovation System, NIS）** 指由一个国家内部公共与私营部门构成的制度网络，其组织活动、政策工具与多元主体相互作用共同发起、引进、改进与扩散新技术。该概念强调技术创新并非孤立实验室内的单向线性发明，而是深受一国[[National Education|国民教育]]培训体系、企业专业化研发建制、前竞争技术联合体、实体制造公地、产业链上下游互动网络、承接战略使命的[[Research Universities|研究型大学]]以及国家战略协调规制的共同规约，构成了理解跨国[[Technological Catch-up|技术赶超]]、无形知识积累与经济长期分化的基本[[Unit of Analysis|分析单位]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5, 20–21)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–45, 54–56)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 在民族国家空间与制度尺度上，由公共教育、企业研发部门、产业供应链、前竞争技术联合体、实体制造基地、战略型大学枢纽与国家规制共同构筑的知识创造与扩散网络。
@@ -205,7 +205,7 @@ updated: 2026-10-22
 > 探讨国家研发投入如何转化为现实经济生产力，打破单一科技经费指标与自上而下单向线性推动的技术官僚迷思。
 
 > [!claim] Freeman, C.
-> **组织化研发与网络回路论** 1870 年代德国合成染料企业首创内部常设实验室，使发明活动本身被建制化为现代企业职能；然而，二战后[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）倡导的线性模型以及单纯攀比研发占国民收入总额（GERD/GNP）的政策导向遮蔽了微观协同的实质。前苏联在 1983 年研发经费占比高达 3.6%，居世界第一，但由于其七成以上为军工研发，且体制上将[[Chinese Academy of Sciences|科学院]]基础研究、部属应用院所与企业车间相互隔离，缺乏用户反馈与市场竞争检验，导致民用经济陷入长期停滞；相反，日本研发占比虽然较低且几乎全为民用，但企业自筹资金超三分之二，并在企业内部深度打通研发、制造与[[Total Quality Management|全面质量管理]]，形成极强的技术集成与扩散网络，最终在汽车与消费电子领域实现全面跨越。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–13)]]
+> **组织化研发与网络回路论** 1870 年代德国合成染料企业首创内部常设实验室，使发明活动本身被建制化为现代企业职能；然而，二战后[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）倡导的线性模型以及单纯攀比研发占国民收入总额（GERD/GNP）的政策导向遮蔽了微观协同的实质。前苏联在 1983 年研发经费占比高达 3.6%，居世界第一，但由于其七成以上为军工研发，且体制上将科学院基础研究、部属应用院所与企业车间相互隔离，缺乏用户反馈与市场竞争检验，导致民用经济陷入长期停滞；相反，日本研发占比虽然较低且几乎全为民用，但企业自筹资金超三分之二，并在企业内部深度打通研发、制造与[[Total Quality Management|全面质量管理]]，形成极强的技术集成与扩散网络，最终在汽车与消费电子领域实现全面跨越。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–13)]]
 
 ---
 
@@ -245,7 +245,7 @@ updated: 2026-10-22
 > 探讨后工业时代国家创新系统如何由垄断寡头独立研发转向跨部门公私协同网络，以及[[Market Fundamentalism|市场原教旨主义]]意识形态对其施加的结构性扭曲。
 
 > [!claim] [[Fred Block|Block, F.]]
-> **[[Developmental Network State|发展型网络国家]]与体制转型论** [[Fred Block|弗雷德·布洛克]]（Fred Block, 2008）基于美国创新史纵向实证揭示，美国国家创新系统自 1980 年代起经历了根本性的[[Paradigm|范式]]转移：二战后由少数财富 500 强巨头（如[[Bell Labs|贝尔实验室]]、通用电气、RCA）内部垂直整合独立实验室垄断技术研发的旧模式走向解体，取而代之的是高度依赖公共资金与跨界协作的[[Developmental Network State|发展型网络国家]]（DNS）。前沿创新不再是孤立企业的私人冒险，而是高度依赖跨部门联邦机构（[[DARPA]]、[[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]]、[[Department of Energy|DOE]]、NIST）、公立大学与中小企业的网络协同；然而，受两党[[Market Fundamentalism|市场原教旨主义]]（Market Fundamentalism）政治霸权制约，该系统被迫以隐形方式运作，从而诱发了五重深层体制病理：创新链条与本土实体制造业断裂、严重忽视制造业蓝领劳工技能升级、激进知识产权造成知识虚构商品化壁垒、显性民用计划极易遭受政治清算毁损，以及技术决策严重缺乏公开民主问责。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–178, 186–188, 194–202)]]
+> **[[Developmental Network State|发展型网络国家]]与体制转型论** [[Fred Block|弗雷德·布洛克]]（Fred Block, 2008）基于美国创新史纵向实证揭示，美国国家创新系统自 1980 年代起经历了根本性的[[Paradigm|范式]]转移：二战后由少数财富 500 强巨头（如[[Bell Labs|贝尔实验室]]、通用电气、RCA）内部垂直整合独立实验室垄断技术研发的旧模式走向解体，取而代之的是高度依赖公共资金与跨界协作的[[Developmental Network State|发展型网络国家]]（DNS）。前沿创新不再是孤立企业的私人冒险，而是高度依赖跨部门联邦机构（[[DARPA]]、[[National Institutes of Health|NIH]]、[[National Science Foundation|NSF]]、[[Department of Energy|DOE]]、[[National Institute of Standards and Technology|NIST]]）、公立大学与中小企业的网络协同；然而，受两党[[Market Fundamentalism|市场原教旨主义]]（Market Fundamentalism）政治霸权制约，该系统被迫以隐形方式运作，从而诱发了五重深层体制病理：创新链条与本土实体制造业断裂、严重忽视制造业蓝领劳工技能升级、激进知识产权造成知识虚构商品化壁垒、显性民用计划极易遭受政治清算毁损，以及技术决策严重缺乏公开民主问责。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–178, 186–188, 194–202)]]
 
 ---
 

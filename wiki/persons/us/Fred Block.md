@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -75,7 +75,7 @@ updated: 2026-10-22
 > - **代表贡献** 确立[[Developmental Network State|发展型网络国家]]理论，系统剖析[[Market Fundamentalism|市场原教旨主义]]对国家产业干预的政治遮蔽，提出将知识视为波兰尼式“虚构商品”并批判激进知识产权制度对跨组织技术协作的侵蚀。
 
 > [!citation-card] 埃文斯论布洛克对美国隐藏发展型国家的发掘
-> 彼得·埃文斯（Peter Evans）在 2007 年加利福尼亚大学伯克利分校研讨会上指出，布洛克的研究最具突破性的贡献在于打破了美国无产业政策的意识形态神话，准确将这一隐匿于五角大楼、国家卫生研究院及跨部门法案之后的国家创新机器定性为“隐藏的发展型国家”。[[Argument_Block_2008_PS|(Block, 2008, p. 169)]]
+> 彼得·埃文斯（Peter Evans）在 2007 年加利福尼亚大学伯克利分校研讨会上指出，布洛克的研究最具突破性的贡献在于打破了美国无产业政策的意识形态神话，准确将这一隐匿于[[Department of Defense|五角大楼]]、国家卫生研究院及跨部门法案之后的国家创新机器定性为“隐藏的发展型国家”。[[Argument_Block_2008_PS|(Block, 2008, p. 169)]]
 >
 > *Peter Evans suggested the phrase—hidden developmental state—to capture how the U.S. Federal government dramatically expanded its capacity to finance and support the private sector while partisan logic rendered it invisible to public debate.*
 

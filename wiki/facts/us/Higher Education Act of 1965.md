@@ -16,7 +16,7 @@ fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "美国国会与联邦政府（U.S. Congress & Executive Office of the President）"
+issuing_organization: "[[United States Congress|美国国会]]与联邦政府（U.S. Congress & Executive Office of the President）"
 tags:
   - policy/federal
   - hea
@@ -46,7 +46,7 @@ related_persons: []
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-26
 ---
 
 ---
@@ -92,8 +92,8 @@ updated: 2026-10-16
 ---
 
 > [!actor-grid] 实施角色分工
-> - **发布与立法监督** 美国国会参议院卫生、教育、劳工与养老金委员会（HELP）与[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]（Education and the Workforce Committee）负责立法审议与再授权把关。
-> - **联邦执行与监管** 美国联邦教育部下设联邦学生援助办公室（Federal Student Aid, FSA），直接运营规模超万亿美元的联邦学生贷款资产组合与每年数百亿美元的佩尔助学金核发。
+> - **发布与立法监督** [[United States Congress|美国国会]]参议院卫生、教育、劳工与养老金委员会（HELP）与[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]（Education and the Workforce Committee）负责立法审议与再授权把关。
+> - **联邦执行与监管** [[United States Department of Education|美国联邦教育部]]下设联邦学生援助办公室（Federal Student Aid, FSA），直接运营规模超万亿美元的联邦学生贷款资产组合与每年数百亿美元的佩尔助学金核发。
 > - **院校受资助主体** 全美 6,000 余所公私立高校，依规接受合规审查并为合资格在校生提供助学与贷款经办服务。
 > - **政策工具** 佩尔助学金、联邦直接贷款、利息补贴、收入驱动型还款计划（IDR）与高校认证资质红线。
 

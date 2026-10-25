@@ -169,7 +169,7 @@ updated: 2026-10-26
 > 在推进联合国 2030 年[[UN Sustainable Development Goals|可持续发展目标]]4（Sustainable Development Goal 4, SDG 4）进程中，如何有效提升教育政策、规划与实施（Policy, Planning, and Implementation, PPI）中的研究证据利用（[[Research Utilization|Use of Research Evidence]], URE）效能？全球公共卫生领域在统筹、管理与转化研究证据方面的长期经验，能够为全球教育循证治理提供何种制度镜鉴？
 
 > [!claim] 核心主张
-> 全球教育政策领域的核心障碍在于海量[[Surplus of Evidence|证据过剩]]背景下出现的[[Two Broken Feedback Loops|双重反馈回路断裂]]：其一是学术研究生产端与政策决策使用端之间的沟通断裂，其二是全球集中生产与本土情境需求之间的空间脱节。克服这两重断裂要求全球治理主体放弃单一自上而下的线性证据推送，转向兼顾适切产品、协同关系与制度激励的三维证据利用路径，并依托已具公信力的区域性组织搭建连接全球资源与国家需求的区域支持枢纽。
+> [[Global Educational Policy Field|全球教育政策领域]]的核心障碍在于海量[[Surplus of Evidence|证据过剩]]背景下出现的[[Two Broken Feedback Loops|双重反馈回路断裂]]：其一是学术研究生产端与政策决策使用端之间的沟通断裂，其二是全球集中生产与本土情境需求之间的空间脱节。克服这两重断裂要求全球治理主体放弃单一自上而下的线性证据推送，转向兼顾适切产品、协同关系与制度激励的三维证据利用路径，并依托已具公信力的区域性组织搭建连接全球资源与国家需求的区域支持枢纽。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 聚焦[[Global Education Cooperation Mechanism|全球教育合作机制]]（Global Education Cooperation Mechanism, GCM）及其最高治理机构[[SDG 4 High-Level Steering Committee|可持续发展目标4高级别指导委员会]]（SDG 4 High-Level Steering Committee, HLSC）管辖下的跨领域职能领域一（Functional Area 1, FA1），基于全球 103 个国家 898 名政策利益相关者的[[Questionnaire|问卷]]反馈与 33 位[[Elite Interview|关键知情人访谈]]，系统梳理全球 654 个证据机构与平台，并与公共卫生领域展开文献计量与治理架构跨界比对。

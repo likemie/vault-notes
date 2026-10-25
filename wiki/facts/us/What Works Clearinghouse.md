@@ -137,7 +137,7 @@ updated: 2026-10-26
 > - **成立时间 / 创设背景** 2002 年依据联邦《教育科学改革法案》（ESRA）创设，旨在落实《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（[[No Child Left Behind Act 2001\|NCLB]]）关于“[[Scientifically Based Research\|基于科学的研究]]”（Scientifically Based Research）的法定问责要求([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]])。
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区；审查对象覆盖早期教育至高等教育全学段，官方平台为 [ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc)，审查标准已迭代至手册第 5 版（Handbook v5.0）。
 > - **法人属性与经费依托** 联邦政府官方直属公共机构；累计获得超过 **1 亿美元（>$100M）** 联邦经常性强制财政预算资助，享有极强的制度护城河([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
-> - **早期线性“推送”与转译范式代表** [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, pp. 20–21)]] 指出，WWC 是早期[[Educational Brokerage Agency\|知识经纪]]（Knowledge Brokerage）的标志性机构，核心假定在于通过专业“[[Research Translation\|知识转译]]”（Translation）将高严谨性学术研究加工为实践指南（Practice Guides）与干预评估报告，呈现出鲜明的线性研究转移（Research Transfer）与单向供给推送特征。
+> - **早期线性“推送”与转译范式代表** [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, pp. 20–21)]] 指出，WWC 是早期知识经纪（Knowledge Brokerage）的标志性机构，核心假定在于通过专业“[[Research Translation\|知识转译]]”（Translation）将高严谨性学术研究加工为实践指南（Practice Guides）与干预评估报告，呈现出鲜明的线性研究转移（Research Transfer）与单向供给推送特征。
 > - **事后被动证据清算 vs 全链条试验中介范式** 相比英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）集干预资助、试验委托、独立评估防火墙、NPD 行政大数据归档与基层动员网络为一体的全链条模式，WWC 属于纯粹的事后被动证据清算中心（Ex-post Evidence Clearinghouse）：本身不设立科研资助基金、不直接委托或设计现场试验，仅对外部已有的独立或开发者研究进行二次审查与评级归档（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–49]]）。
 
 ---
@@ -166,7 +166,7 @@ updated: 2026-10-26
 ---
 
 > [!actor-grid] 组织治理与执行矩阵
-> - **联邦管理与监督层（[[Institute of Education Sciences\|IES]] / [[National Center for Education Evaluation and Regional Assistance\|NCEE]]）** 隶属于美国教育部国家教育评价与区域协助中心（NCEE），掌复制定整体审查政策、发布指南议题与拨付合同资金。
+> - **联邦管理与监督层（[[Institute of Education Sciences\|IES]] / [[National Center for Education Evaluation and Regional Assistance\|NCEE]]）** 隶属于[[United States Department of Education|美国教育部]]国家教育评价与区域协助中心（NCEE），掌复制定整体审查政策、发布指南议题与拨付合同资金。
 > - **方法学常设指导委员会** 由全美顶尖计量经济学、心理测量学与统计学专家组成，负责每 2–3 年主持修订审查手册（Handbook）。
 > - **竞标承包智库（Contractors）** Mathematica、SRI 等专业机构承接具体领域的文献筛选、代码提取与基线等值性核验。
 > - **认证审查员库（Certified Reviewers）** 建立严格的审查员培训与考证机制，只有通过标准一致性考核的学者方可签署审查意见。
@@ -287,7 +287,7 @@ updated: 2026-10-26
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 全美 12 所[[Educational Evidence Clearinghouses\|教育证据清算中心]]汇总的 1,359 个去重教育干预项目池 | 清算机构跨案例比较与跨中心[[Network Analysis\|网络分析]] | 项目收录规模（537 项）、重叠项目数（131 项）、跨机构评级一致率与极端冲突率 | WWC 占全美去重项目总量的 39.5%（规模居首）；与其它清算中心评级一致率仅 24.1%，极端冲突率达 35.7% | — | 实证揭示官方清算中心在评级标准与微观分域上的独特严格性及其与其它机构的分歧（pp. 16–20） |
 > | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] | WWC 数据库收录的教育干预[[Evaluation Research\|评估研究]]全样本 | 开发者利益冲突[[Meta-regression\|元回归]]与偏差审查 | 开发者主导 vs 独立第三方评估效应量差异、自编测验使用率（29% vs 8%） | 开发者实施或[[Categorical Funding\|委托研究]]效应量平均高出 0.141 个标准差（约为独立研究的 1.8 倍） | $p < 0.01$ | 实证确立清算机构建立独立评估防火墙与强制方案预注册的紧迫性（pp. 430–443） |
-> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美中小学阅读与数学干预项目三十年因果评估库 | 宏观政策综述与清算机制比较 | WWC 审查更新周期、微观分域认知负荷、独立测验过滤与 [[Evidence for ESSA]] 互补效应 | 揭示 WWC 更新滞后数年与微观分域导致学校采购决策困难；促使敏捷平台 Evidence for [[Every Student Succeeds Act\|ESSA]] 诞生并在 6 州落地 | — | 说明官方因果标准需与敏捷实践决策支持机制相结合方能释放循证效能（pp. 22–26） |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美中小学阅读与[[Mathematics Intervention Programs\|数学干预项目]]三十年因果评估库 | 宏观政策综述与清算机制比较 | WWC 审查更新周期、微观分域认知负荷、独立测验过滤与 [[Evidence for ESSA]] 互补效应 | 揭示 WWC 更新滞后数年与微观分域导致学校采购决策困难；促使敏捷平台 Evidence for [[Every Student Succeeds Act\|ESSA]] 诞生并在 6 州落地 | — | 说明官方因果标准需与敏捷实践决策支持机制相结合方能释放循证效能（pp. 22–26） |
 > | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] | 联邦初创期 [[Study Design and Implementation Assessment Device\|WWC Study DIAD]] 规程草案与 47 项公众反馈 | 政策文本追踪与公共评议质评分析 | 初始合同金额（1850 万美元）、公众评议条数（47 条）、规程修正要点（澄清量化非唯一科学、增设 [[Regression Discontinuity Design\|RDD]]、30+ 调节变量） | 初版 Study DIAD 在 47 项公共评议推动下大幅重构，打破实验排他垄断并设立准实验专章 | — | 证实官方清算机构的因果标准在初创期具备可变性，学界民主质证能成为反制行政狭隘化的关键杠杆（pp. 34–36） |
 > | [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] | 美国南方联合学区（SUD）2.88 亿美元《[[Title I of the Elementary and Secondary Education Act\|每一个学生成功法]]》Title I 教育经费，跨 129 项采购实践、4 个公共证据库（WWC、Evidence for ESSA、EEF、ERIC） | 跨库证据审计与财务合规分析 | 单库单研究合规率 vs 四库证据体综合合规率；26 项无目标学段研究实践数；跨学段降维推断案例 | 单研究合规视角下合规率达 95%–99%；切换至四库证据体综合视角后骤降至 49%–58%（保守敏感性分析：20%）；26 项实践在任一库中均无目标学段研究 | — | 揭示 ESSA 法定单研究合规门槛制造的循证采购虚假性，以及 WWC 作为单一来源不足以支撑完整体证据评估的结构性局限（pp. 170–174） |
 

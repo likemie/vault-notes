@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -123,7 +123,7 @@ updated: 2026-10-22
 
 > [!pathways] 实施路径与管理
 > - **纵向传导与支持** NSF 通过设立专门的项目总监（Engine Program Directors）深度介入引擎治理，提供成果转化与跨区域资源对接支持。
-> - **横向跨部门协同** 与美国商务部经济发展署（EDA）的“区域技术与[[Innovation Hub|创新中心]]”（[[Regional Technology and Innovation Hubs|Tech Hubs]]）及能源部清洁能源枢纽建立数据共享与资助互补机制。
+> - **横向跨部门协同** 与[[Department of Commerce|美国商务部]]经济发展署（EDA）的“区域技术与[[Innovation Hub|创新中心]]”（[[Regional Technology and Innovation Hubs|Tech Hubs]]）及能源部清洁能源枢纽建立数据共享与资助互补机制。
 > - **动态反馈与纠偏** 实行每三年一次的严格阶段性综合评估，若引擎未达预期[[Research Translation|技术转化]]或就业带动指标，NSF 保留缩减预算或提前终止资助的裁量权。
 
 ---

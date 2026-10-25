@@ -68,7 +68,7 @@ updated: 2026-10-26
 > [!finding-cards] 育人与社会影响
 > 1. **全英最大规模的 [[STEM Education\|STEM]] 青年动员枢纽** 每年吸引数以万计的中小学生和上千所学校实地参展，成为英国连接 K-12 学校教育与工程科技产业界的头号文化名片。
 > 2. **显著提升青少年的科学抱负与[[Self-Efficacy\|自我效能感]]** 追踪调研证实，参展经历显著提升了中学生选修 GCSE 与 A-level 科学、技术与数学科目的意愿，尤其是对来自无大学背景家庭的学生产生了强烈的阶层赋权效应。
-> 3. **产业界开展[[Public Engagement with Science\|公众科学参与]]与社会价值履约的旗舰载体** 英国皇家学会《科学造福社会》报告将大爆炸博览会明确列为大型企业开展公众科学参与（[[Public Engagement with Science]]）、发展本地社区联结及落实《[[The Social Value Model\|社会价值模型]]》技能培训指标的行业典范。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 68)]]
+> 3. **产业界开展[[Public Engagement with Science\|公众科学参与]]与社会价值履约的旗舰载体** [[Royal Society|英国皇家学会]]《科学造福社会》报告将大爆炸博览会明确列为大型企业开展公众科学参与（[[Public Engagement with Science]]）、发展本地社区联结及落实《[[The Social Value Model\|社会价值模型]]》技能培训指标的行业典范。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, p. 68)]]
 
 ---
 

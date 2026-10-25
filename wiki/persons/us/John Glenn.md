@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -47,7 +47,7 @@ updated: 2026-10-22
 > [!person-profile] 人物档案
 > - **身份位置** 美国海军陆战队王牌战斗机飞行员、水星计划首位环绕地球飞行的宇航员、俄亥俄州联邦参议员（民主党，1974–1999 年连任四届）、参议院政府事务委员会（Senate Committee on Governmental Affairs）主席。
 > - **核心角色** 美国政府采购现代化改革与反官僚体制[[Red Tape|繁文缛节]]的关键立法领袖，主持起草并强力推动通过了具有划时代意义的《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（[[Federal Acquisition Streamlining Act of 1994|FASA 1994]]，S. 1587）。
-> - **代表贡献** 推动确立[[Commercial Off-The-Shelf|商用现成产品]]（COTS）优先采购的法定义务（10 U.S.C. § 2377），深刻抨击十万采购官僚“不求有功、但求无过”的消极避险文化，为破除五角大楼定制垄断与繁杂规范提供了根本性制度钥匙。
+> - **代表贡献** 推动确立[[Commercial Off-The-Shelf|商用现成产品]]（COTS）优先采购的法定义务（10 U.S.C. § 2377），深刻抨击十万采购官僚“不求有功、但求无过”的消极避险文化，为破除[[Department of Defense|五角大楼]]定制垄断与繁杂规范提供了根本性制度钥匙。
 
 > [!citation-card] 约翰·格伦论政府采购改革的扎实苦工与官僚避险
 > 约翰·格伦（John Glenn）在参议院辩论与听证会上强调，采购法案虽然毫无光鲜亮丽之处，但它关乎政府运转中最核心的扎实苦工；官僚体系年复一年在同一问题上打转却毫无建树，其根源在于公务员普遍采取不掀起风浪、不扰乱仕途、不做任何可能惹祸上身之事的消极避险策略。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 151–152)]]

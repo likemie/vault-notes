@@ -106,7 +106,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-10-26
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Olmos_Torres_2009_StateTheories"
@@ -196,7 +196,7 @@ issuing_organization: ""
 > |---|---|---|
 > | **扩张根本动力** | 扩散共享的现代文化信念与公民观念 | 满足资本积累对劳动力的需求并缓和国家政治统治危机 |
 > | **历史因果逻辑** | 强调 1945 年后制度共时趋同 | 强调前殖民与殖民剥削遗产的长期[[Path Dependence\|路径依赖]] |
-> | **学校体制现实** | 均质平等的国民教育机构 | 资源高度悬殊的[[Dual School System\|双轨教育体系]]（精英学校与简陋大众学校） |
+> | **学校体制现实** | 均质平等的[[National Education\|国民教育]]机构 | 资源高度悬殊的[[Dual School System\|双轨教育体系]]（精英学校与简陋大众学校） |
 > | **国家角色定位** | 照搬国际标准的被动模仿者 | 在外部资本依赖与内部阶级冲突中勉强维持平衡的矛盾主体 |
 
 基于历史唯物主义视角，外围国家的教育扩张形态受制于三项具体的历史条件。
@@ -256,7 +256,7 @@ issuing_organization: ""
 > [!feature] 结构调整方案强加给发展中国家的三项教育紧缩处方
 > - **向学生收取学杂费（使用者付费）**
 >   取消初中等以上的免费教育，要求学生和家长自行负担学费与书本费，直接阻断了贫困家庭子弟向上流动的通道。
-> - **推行[[Educational Privatisation|教育私有化]]与教育券制度**
+> - **推行[[Educational Privatisation|教育私有化]]与[[School Vouchers|教育券]]制度**
 >   鼓励私人资本建立营利性学校，通过发行教育券（Vouchers）刺激校际竞争，造成公立学校生源和资金枯竭。
 > - **行政管理与财政甩包袱（分权化改革）**
 >   中央政府以权力下放、自主管理为借口，将学校筹资和运营负担转移给财力孱弱的地方政府和贫困社区，导致区域校际鸿沟进一步拉大。

@@ -87,7 +87,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -299,6 +299,7 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 从教育政策社会学视角系统批判 PISA 作为新自由主义特洛伊木马的治理机制，提出改革指引与政策背书二元象限。
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 系统梳理二十年对 PISA 的学术批判，从教育观、实施与解释维度解构其商业营销与威权美化本质。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 从批判政策社会学视角解构经合组织如何运用 PISA 制造全球等值空间与推行远处掌舵。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 从比较教育学科史视角批判大规模跨国测验对航海隐喻与历史文化诠释传统的瓦解。

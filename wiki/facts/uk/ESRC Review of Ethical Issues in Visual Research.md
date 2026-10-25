@@ -14,7 +14,7 @@ fact_related_count: 7
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
-issuing_organization: "Economic and Social Research Council（ESRC）"
+issuing_organization: "[[Economic and Social Research Council|Economic and Social Research Council（ESRC）]]"
 tags:
   - theme/research-ethics
   - theme/visual-research
@@ -36,11 +36,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-09
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 英国经济与社会研究理事会（Economic and Social Research Council，ESRC）于 2008 年发布，为其研究方法评论系列（NCRM-011）的一部分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]]
+> - **发布时间 / 发布主体** [[Economic and Social Research Council|英国经济与社会研究理事会]]（Economic and Social Research Council，ESRC）于 2008 年发布，为其研究方法评论系列（NCRM-011）的一部分。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, Ch. 27)]]
 > - **适用地区 / 对象** 英国接受 ESRC 资助或遵循其伦理框架的[[Visual Research Methods\|视觉研究]]者。
 > - **问题背景** 视觉研究在[[Informed Consent\|知情同意]]、匿名与保密、图像所有权与传播上的伦理实践不如文字与数字研究成熟，需要系统性梳理与指引。
 > - **制度位置** 属研究理事会层面的方法评论，与专业协会伦理守则（如英国社会学协会 2006 年声明）互补，并纳入法律权利与义务的框架。

@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -121,7 +121,7 @@ updated: 2026-10-22
 > - **[[Pilot Scale Platform|中试验证平台]]与工艺基线设施** 具备工业级标准环境的共享试验线（如 300 毫米晶圆测试线、极紫外光刻机台与先进封装试验床），使学术原型能够在匹配商业量产代工厂工艺参数的条件下进行放大验证。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–10, 14–15)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 25–28)]]
 > - **数字设计资产与标准接口网关** 依托云端集成的[[Electronic Design Automation|电子设计自动化]]（EDA）工具授权、标准[[Process Design Kit|工艺设计套件]]（PDK）、装配设计套件（ADK）、硅验证安全知识产权（IP）库与芯粒（[[Heterogeneous Integration|Chiplet]]）互连规范，大幅降低前端设计的准入门槛。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 16–17)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 15–17, 23–24)]]
 > - **跨界工程技能与人员结构平衡** 兼具学术科研视野与工业产品硬化能力（Product Hardening）的工程技术人员是转化的决定性载体；需要平衡研发团队中科学家与工程技师的比例，并依托微证书与[[Apprenticeship|学徒制]]健全培养通道。[[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, pp. 95–96)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–37)]]
-> - **跨部门全流程创新接力管道** 构建从基础科学探索（[[National Science Foundation|NSF]]/[[Department of Energy|DOE]]）、敏捷国防原型验证（DOD Commons）、共性技术中试（[[National Science and Technology Council|NSTC]]/[[National Advanced Packaging Manufacturing Program|NAPMP]]）到商业代工制造（Foundry/OSAT）的无缝技术接力机制。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 9–10, 48)]]
+> - **跨部门全流程创新接力管道** 构建从基础科学探索（[[National Science Foundation|NSF]]/[[Department of Energy|DOE]]）、敏捷国防原型验证（[[Department of Defense|DOD]] Commons）、共性技术中试（[[National Science and Technology Council|NSTC]]/[[National Advanced Packaging Manufacturing Program|NAPMP]]）到商业代工制造（Foundry/OSAT）的无缝技术接力机制。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 9–10, 48)]]
 
 > [!logic-map]- 转化研究运行与支撑架构
 > ```mermaid

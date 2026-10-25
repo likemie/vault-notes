@@ -80,7 +80,7 @@ sources:
   - "[[sources/Brown_2017_EducRes|Brown_2017_EducRes]]"
 status: draft
 created: 2026-09-15
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Brown_2017_EducRes"
@@ -198,7 +198,7 @@ DBDM 的行动理论包含五大普遍阶段：设定目标、收集数据（围
 与专注于内部数据的 DBDM 相对，RITP 强调借助外部学术研究成果来改进或革新现行教学实践（Cain, 2015; Greany, 2015）。
 
 > [!feature] RITP 的核心界定与证据构成
-> - **官方定义与复合内涵** 英国教育部（Department for Education, DfE）将 RITP 界定为"实践者专业智慧与最佳外部研究及评估证据的有机结合"（DfE, 2014）。
+> - **官方定义与复合内涵** [[Department for Education|英国教育部]]（Department for Education, DfE）将 RITP 界定为"实践者专业智慧与最佳外部研究及评估证据的有机结合"（DfE, 2014）。
 > - **正式外部研究** 专指经过严格同行评议并在专业学术期刊上发表的研究成果。
 > - **评估证据** 包含跨研究[[Meta-analysis\|元分析]]（如 Hattie, 2011）以及综合性评估工具包（如[[Sutton Trust\|萨顿信托]]-[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）的[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]），其核心特征在于报告不同教学策略的平均[[Effect Size\|效应量]]。
 > - **从研究本位到研究知情的转向** 学界反思医学因果模式对教育复杂性的遮蔽，逐渐摒弃以研究为本位的硬性规定，强调研究证据在于启发与辅助教师的专业审议与本土决策（Biesta, 2007; Saunders, 2015）。
@@ -254,7 +254,7 @@ RITP 的行动理论涵盖教师教学轨与学校领导轨两条平行主线，
 
 ---
 
-> [!claim] 论证步骤三　构建统摄模型：ESTI 八步探究循环与三大支撑条件实现两界融通
+> [!claim] 论证步骤三　构建统摄模型：ESTI 八步[[Inquiry Cycle|探究循环]]与三大支撑条件实现两界融通
 > 融通两界优势的必由之路在于建构系统的“证据知情学校与教师改进”（[[School Enquiry Cycle\|ESTI]]）模型：以八步[[Inquiry Cycle\|探究循环]]为操作骨架，以系统规程、双素养融合与协作意义建构为组织保障，推动教育改进迈向理性审验与本土创生。
 
 #### 1. 证据知情学校与教师改进（ESTI）八步探究循环操作规程

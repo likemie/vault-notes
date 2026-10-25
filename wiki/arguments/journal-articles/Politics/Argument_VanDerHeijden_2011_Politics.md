@@ -62,7 +62,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-11
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_VanDerHeijden_2011_Politics"
@@ -202,7 +202,7 @@ issuing_organization: ""
 > [!theory-origin] 希伦层叠概念的理论渊源与形成路径
 > - **提出者与原始文本** 凯瑟琳·希伦（Thelen, 2003, 2004）在历史制度主义理论框架中系统提出制度层叠概念。
 > - **原初问题** 既有制度框架难以推倒重来，但政策目标与现实运行出现缝隙，改革者如何在制度否决点约束下推动演变。
-> - **理论资源与材料** 埃里克·希克勒（Schickler, 2001b）对美国国会委员会制度演化的研究（[[Disjointed Pluralism|脱节多元主义]]），以及奥伦与斯科夫罗内克（Orren & Skowronek, 1994）关于多重历史时间性与制度碎片共存的理论命题。
+> - **理论资源与材料** 埃里克·希克勒（Schickler, 2001b）对[[United States Congress|美国国会]]委员会制度演化的研究（[[Disjointed Pluralism|脱节多元主义]]），以及奥伦与斯科夫罗内克（Orren & Skowronek, 1994）关于多重历史时间性与制度碎片共存的理论命题。
 > - **形成路径** 提炼多元政治妥协在既有结构之上的边际附加逻辑，确立增新而不废旧的渐进重塑机制。
 
 在此理论渊源之上，希伦对层叠内涵的界定经历了从边缘修补到行为重塑的深化过程。

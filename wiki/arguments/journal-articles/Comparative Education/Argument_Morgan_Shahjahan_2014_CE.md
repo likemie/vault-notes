@@ -70,7 +70,7 @@ sources:
 part_of:
 status: completed
 created: 2026-10-19
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Morgan_Shahjahan_2014_CE"
@@ -228,7 +228,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤四　测验生产过程的脆弱性揭示了全球教育治理的认知地缘政治
+> [!claim] 论证步骤四　测验生产过程的脆弱性揭示了全球教育治理的认知[[Geopolitics|地缘政治]]
 > 测验生产过程充斥着财政制约、认知依附与文化抗拒，具有高度的政治脆弱性；研究者需要深入解构全球教育政策生产的政治经济学，超越单纯的方法论批评与事后影响分析。
 
 #### 1. 经济周期制约与高教机构自主权形成的双重阻击

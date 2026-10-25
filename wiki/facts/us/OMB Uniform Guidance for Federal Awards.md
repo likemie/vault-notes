@@ -35,7 +35,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 背景
@@ -56,7 +56,7 @@ updated: 2026-10-22
 > [!note|notitle]
 > 在这种会计框架下，大学很少按小时构建研究预算，也几乎不使用完全打包时薪——尽管在[[Sponsored Research Agreement|产业赞助研究]]中这样做是允许的。此外，大学通常不在审计成本之上加收利润，进一步强化了其非营利的运作逻辑（pp.263–264）。
 
-> [!warning] 在产学合作中的角色
+> [!warning] 在[[University-Industry Collaboration|产学合作]]中的角色
 > Uniform Guidance 在[[University-Industry Collaboration\|产学合作]]协议谈判中制造了一个具体的制度摩擦点。企业习惯于商业承包商的报价方式——不透明但全成本回收（包括利润）——而大学的预算是"透明但有补贴"的：企业可以看到每位教授的确切工资，但也必须接受大学实际上在以机构资金补贴研究项目（因为 26% 的行政成本上限不可突破）。
 
 > [!note|notitle]

@@ -71,17 +71,17 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> **同伴辅助学习策略（[[Peer-Supported Learning|peer-assisted learning]] Strategies, PALS）** 是由美国范德堡大学著名特殊教育与学习科学学者琳恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）团队于 1990 年代研发的结构化互惠同伴辅导模式，广泛覆盖学前至高中（K–12）阶段的早期阅读（PALS Reading）与数学（PALS Math）教学。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 23–24)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
+> **同伴辅助[[Learning Strategies|学习策略]]（[[Peer-Supported Learning|peer-assisted learning]] Strategies, PALS）** 是由美国范德堡大学著名特殊教育与学习科学学者琳恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）团队于 1990 年代研发的结构化互惠同伴辅导模式，广泛覆盖学前至高中（K–12）阶段的早期阅读（PALS Reading）与数学（PALS Math）教学。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 23–24)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1990 年代初启动研发，历经数十项大样本现场实验验证，至今在全美各学区作为常态化课堂教学与补救教学方案广泛推行。
-> - **发起方与资助机制** 由范德堡大学特殊教育系发起，获得美国教育部特殊教育项目办公室（OSEP）与[[Institute of Education Sciences\|教育科学研究院]]（IES）长期竞争性科研基金资助。
+> - **发起方与资助机制** 由范德堡大学特殊教育系发起，获得[[United States Department of Education|美国教育部]]特殊教育项目办公室（OSEP）与[[Institute of Education Sciences\|教育科学研究院]]（IES）长期竞争性科研基金资助。
 > - **覆盖范围与对象** 覆盖学前班至高中全学段学生，尤其聚焦普通课堂中的阅读困难生、数学后进生、特殊教育需求（SEN）学童及英语学习者（ELL）。
 > - **核心问题导向** 解决传统课堂中后进生缺乏高频个别化反馈、全班教学难以兼顾差异化需求，以及干预响应模型（[[Response to Intervention]], RTI）中缺乏低成本、高保真度实证干预工具的痛点。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
 
@@ -92,7 +92,7 @@ updated: 2026-10-22
 
 > [!policy-design] 方案设计
 > - **项目目标** 在常规课堂与分层预防体系中，通过同伴互动提高全体学生的阅读流畅度、[[Decodification\|解码]]能力、文本理解与数学概念熟练度，预防早期学业失败。
-> - **覆盖对象** K–6 阶段全班学生，并无缝嵌入融合教育课堂及 [[Response to Intervention\|RTI]] 第一层级（Tier 1 全班预防）与第二层级（Tier 2 小组干预）。
+> - **覆盖对象** K–6 阶段全班学生，并无缝嵌入[[Inclusive Education|融合教育]]课堂及 [[Response to Intervention\|RTI]] 第一层级（Tier 1 全班预防）与第二层级（Tier 2 小组干预）。
 > - **核心干预构件**
 >   1. **PALS Reading** — 涵盖音素解码（[[Sound Partners]]）、段落浓缩（Paragraph Shrinking，提炼核心主旨）与预测接力（Prediction Relay），每周实施 3–4 次，每次 20–30 分钟；
 >   2. **PALS Math** — 聚焦数字概念理解、计算熟练度训练与结构化数学[[Problem Solving\|问题解决]]，配套明确的操作脚本与积分强化机制。

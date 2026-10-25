@@ -64,7 +64,7 @@ updated: 2026-10-26
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 研发始于 2000 年代初全美阅读卓越计划（Reading First）背景，经多中心田野[[Randomised Controlled Trials\|随机对照试验]]验证，作为全美各州幼儿园[[Multi-tiered Systems of Support|多层支持系统]]（MTSS）的标准干预材料常态化运行至今。
-> - **发起方与资助机制** 俄勒冈大学研发团队主持，美国联邦教育部特教项目办公室（OSEP）与[[Institute of Education Sciences\|教育科学研究院]]（IES）提供研发与对照试验资助，由培生教育出版集团协同转化发行。
+> - **发起方与资助机制** 俄勒冈大学研发团队主持，[[United States Department of Education|美国联邦教育部]]特教项目办公室（OSEP）与[[Institute of Education Sciences\|教育科学研究院]]（IES）提供研发与对照试验资助，由培生教育出版集团协同转化发行。
 > - **覆盖范围与对象** 全美公立学校幼儿园（Kindergarten）经秋季通用筛查在音素分割与字母发音对应上处于全校后 20% 的高危弱势儿童。
 > - **核心问题导向** 攻克传统教学中将阅读干预推迟至二、三年级造成的“等待失败（Wait-to-Fail）”弊端，探索在幼儿园阶段由低成本非专业师资阻断阅读障碍的早筛早治路径。
 

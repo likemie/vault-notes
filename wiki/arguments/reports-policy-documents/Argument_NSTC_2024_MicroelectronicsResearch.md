@@ -113,7 +113,7 @@ publisher: "Executive Office of the President of the United States"
 > **《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》（National Strategy on Microelectronics Research）** 由美国[[National Science and Technology Council|国家科学技术委员会]]（NSTC）[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML）制定，确立了未来五年统筹全美微电子技术创新的四大支柱：通过[[Heterogeneous Integration|异构集成]]、全栈[[Co-Design|协同设计]]与[[Hardware Security|硬件安全]]突破前沿技术瓶颈；依托联邦化中试设施网络与开放设计网关跨越从实验室到代工厂的转化鸿沟；构建贯通基础教育到高阶工程研究的全谱系人才培养流水线；并以公私合作联合体与创业扶持机制培育自生型[[Innovation Ecosystem|创新生态]]，构筑兼具自主制造能力与国际盟友协作的国家微电子战略体系。（pp. iv–v, 1–3, 10–48）
 
 > [!concept-lens] 阅读透镜
-> - **经验对象** 美国商务部、国防部、能源部、国家科学基金会等联邦研发部门，[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）、[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons）、[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（NNCI）以及高校和企业的半导体创新网络。（pp. 1–3, 9–10, 21–28, 38–43）
+> - **经验对象** [[Department of Commerce|美国商务部]]、国防部、能源部、国家科学基金会等联邦研发部门，[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）、[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons）、[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（NNCI）以及高校和企业的半导体创新网络。（pp. 1–3, 9–10, 21–28, 38–43）
 > - **制度张力** 先进半导体制造动辄数十亿美元的重资产门槛与高校师生及初创团队资金短缺的矛盾；学术界自由探索与芯片硬件安全防扩散的张力；多部门分散预算与国家集中战略的协调矛盾。（pp. 1–3, 9–10, 20–25, 48）
 > - **理论贡献** 系统建构了后摩尔时代微电子创新全技术栈双向协同模型，阐明了[[Modern Industrial Policy|现代产业政策]]在战略高科技领域通过建设共性[[Pilot Scale Platform|中试平台]]、共享设计软件与全链条劳动力培养来纠正[[Market Failure|市场失灵]]的运行机理。（pp. 6, 13, 20–28, 31–37, 45）
 
@@ -194,7 +194,7 @@ publisher: "Executive Office of the President of the United States"
 > [!row-contrast] 联邦主要机构在微电子研发体系中的分工
 > | 联邦机构 | 核心职责 | 重点支撑项目与基础设施 | 战略衔接功能 |
 > |---|---|---|---|
-> | **商务部（DOC / NIST）** | 先进制造中试、先进封装、计量标准 | 国家半导体技术中心（NSTC）、国家先进封装制造计划（NAPMP） | 承接 [[Technology Readiness Level\|TRL]] 4–7 中试验证并对接商业代工厂 |
+> | **商务部（DOC / [[National Institute of Standards and Technology\|NIST]]）** | 先进制造中试、先进封装、计量标准 | 国家半导体技术中心（NSTC）、国家先进封装制造计划（NAPMP） | 承接 [[Technology Readiness Level\|TRL]] 4–7 中试验证并对接商业代工厂 |
 > | **国防部（DOD / [[DARPA]]）** | 国防专用芯片、极端环境器件、敏捷原型 | 微电子共用体（8 大枢纽）、[[Next-Generation Microsystems Manufacturing\|下一代微系统制造]]（NGMM）、T&AM 计划 | 推动军民两用快速转化与可信硬件供给 |
 > | **能源部（[[Department of Energy\|DOE]]）** | 基础材料物理、超算架构、微观表征设施 | 5 大纳米科学研究中心（NSRC）、国家实验室先进光源与中子源 | 探索量子与前沿材料物理机理并提供精密表征 |
 > | **国家科学基金会（NSF）** | [[Curiosity-Driven Research\|自由探索研究]]、开放共享设施、[[Engineering Education\|工程教育]] | 国家纳米技术协调基础设施（NNCI）、[[NSF I-Corps\|I-Corps]]、ASEM 计划 | 资助早期前沿课题与各层次 [[STEM Education\|STEM]] 人才培养 |

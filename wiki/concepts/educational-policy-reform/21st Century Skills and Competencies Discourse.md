@@ -106,12 +106,12 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-20
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
-> [!def] 21st Century Skills and Competencies Discourse
+> [!def] 21st Century Skills and Competencies [[Discourse]]
 > 21 世纪技能与素养[[Discourse|话语]]（21st Century Skills and Competencies Discourse，[[Single-Case Design|SCD]]）是一套在全球教育治理中广泛运作的政策修辞与规范框架。该话语由[[OECD|经合组织]]（OECD）、世界经济论坛（WEF）、[[UNESCO|联合国教科文组织]]（UNESCO）、[[EU|欧盟]]委员会及跨国商业智库共同塑造，旨在应对工业 4.0、数字化转型与[[Knowledge-Based Economy|知识经济]]的不确定性，界定未来劳动力参与劳动市场与社会生活所必须具备的关键通用能力（Key Competencies），进而通过国际评估、资格框架和课程重组规约各国的教育改革方向与个体的自我发展责任。在人工智能与先进制造深度重塑劳动形态的新时期，该话语进一步分化为“认知抽象论”与“实体排障手艺论”的深刻反思。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 254)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53, 58)]]
 
 > [!concept-lens] 概念透镜
@@ -149,7 +149,7 @@ updated: 2026-10-22
 > | **WEF 技能框架 (2016)** | 世界经济论坛 | 基础素养（读写/数理/ICT/财商）、能力（4C）、性格品质（好奇心/韧性） | 劳动力市场直接需求导向，强调适应性与灵活性 |
 > | **OECD Learning Compass 2030 (2019)** | [[OECD\|经合组织]] | 变革性胜任力（创造新价值、调和张力、承担责任）、核心基础素养 | 强调学生能动性（Student Agency）与复合素养 |
 > | **[[European Qualifications Framework\|欧洲资格框架]] (EQF, 2008/2017)** | 欧洲议会与[[EU\|欧盟]]理事会 | 知识、技能、自主与责任（6–8 级聚焦批判分析与前沿创新） | 具法律效力的区域文凭元框架，驱动成果本位课程改革 |
-> | **皇家学会交叉素养蓝图 (2026)** | 英国皇家学会 | [[Scientific Literacy\|科学素养]]（证据评估）、[[Data Literacy\|数据素养]]（风险概率）、[[AI Literacy\|AI 素养]]、气候生态素养 | 纠正技能空心化，扎根于学科[[Big Ideas\|大概念]]与面向 18 岁宽口径大纲（p. 31） |
+> | **皇家学会交叉素养蓝图 (2026)** | [[Royal Society\|英国皇家学会]] | [[Scientific Literacy\|科学素养]]（证据评估）、[[Data Literacy\|数据素养]]（风险概率）、[[AI Literacy\|AI 素养]]、气候生态素养 | 纠正技能空心化，扎根于学科[[Big Ideas\|大概念]]与面向 18 岁宽口径大纲（p. 31） |
 > | **白宫 OSTP 制造公地与手艺素养 (2026)** | 白宫科技政策办公室 | 现场排障（Troubleshooting）、默会[[Process Knowledge\|过程知识]]、车间动手手艺（Craftsmanship）、人机协同验证 | 批判脱离实体制造的抽象技能空心化，重塑智能时代手艺与排障底座（pp. 51–53, 58） |
 
 ---
@@ -173,7 +173,7 @@ updated: 2026-10-22
 > [!concept-lens] [[Epistemology\|认识论]]扎根与[[Big Ideas\|大概念]]
 > [[Critical Thinking\|批判性思维]]、协作与[[Data Literacy\|数据素养]]无法在真空中习得；若脱离具体学科的认识论逻辑与真实实践，技能训练将沦为虚幻的形式主义。
 
-> [!claim] The Royal Society
+> [!claim] [[Royal Society|The Royal Society]]
 > **学科认识论锚定与大概念融合** 21 世纪核心素养必须扎根于具体学科的核心概念（Big Ideas）与实证探究（Practical Inquiry），通过解决空气污染、流行病、气候变化等真实社会科学争议（[[Socioscientific Issues\|SSI]]）获得具身体验，而非架空为脱离知识的抽象技巧清单。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 30–33)]]
 
 ---
@@ -217,7 +217,7 @@ updated: 2026-10-22
 > 探讨人工智能普及使代码编写与文本推演边际成本急剧下降后，21 世纪核心素养为何必须向“实体排障手艺”与“人机自动化核验”深度转向。
 
 > [!claim] Kratsios, M.
-> **实体排障手艺与人机核验素养论** 白宫科技政策办公室 2026 报告深刻指出，单纯依赖黑板推导与抽象文本生成的传统 21 世纪技能话语已无法应对现代技术挑战。一方面，AI 在宏观规律挖掘与微观结构设计中展现出巨大赋能，要求人才具备[[Man-Computer Symbiosis|人机协同]]的黄金标准自动化核验能力；另一方面，由于物理世界的原子规律、芯片产线与精密实验仪器具有刚性制约，熟练机械师与高级工程师在现场沉淀的默会[[Process Knowledge|过程知识]]、物理排障直觉（[[Problem Solving|Troubleshooting]]）与车间动手手艺（Craftsmanship），重新成为不可替代的国家核心技能基石。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53, 58–60)]]
+> **实体排障手艺与人机核验素养论** 白宫科技政策办公室 2026 报告深刻指出，单纯依赖黑板推导与抽象[[Text Generation|文本生成]]的传统 21 世纪技能话语已无法应对现代技术挑战。一方面，AI 在宏观规律挖掘与微观结构设计中展现出巨大赋能，要求人才具备[[Man-Computer Symbiosis|人机协同]]的黄金标准自动化核验能力；另一方面，由于物理世界的原子规律、芯片产线与精密实验仪器具有刚性制约，熟练机械师与高级工程师在现场沉淀的默会[[Process Knowledge|过程知识]]、物理排障直觉（[[Problem Solving|Troubleshooting]]）与车间动手手艺（Craftsmanship），重新成为不可替代的国家核心技能基石。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53, 58–60)]]
 
 ---
 
@@ -277,9 +277,9 @@ updated: 2026-10-22
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 合作学习教学技术 | CIRC 整合读写 | ES | E = 1 | <span class="mx-bar ef-bar" title="ES 2.04"><span class="b28"></span></span>2.04 | [1.05, 3.03] | $Q_b(3) = 9.36, 	ext{df} = 3, p = .02$ |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 合作学习教学技术 | [[Cooperative Integrated Reading and Composition\|CIRC]] 整合读写 | ES | E = 1 | <span class="mx-bar ef-bar" title="ES 2.04"><span class="b28"></span></span>2.04 | [1.05, 3.03] | $Q_b(3) = 9.36, 	ext{df} = 3, p = .02$ |
 > |  |  | 拼图法 |  | E = 2 | <span class="mx-bar ef-bar" title="ES 1.08"><span class="b22"></span></span>1.08 | [0.50, 1.66] | — |
 > |  |  | 小组调查 |  | E = 6 | <span class="mx-bar ef-bar" title="ES 0.72"><span class="b14"></span></span>0.72 | [0.40, 1.04] | — |
 > |  |  | 综合合作 |  | E = 14 | <span class="mx-bar ef-bar" title="ES 0.61"><span class="b12"></span></span>0.61 | [0.40, 0.81] | — |

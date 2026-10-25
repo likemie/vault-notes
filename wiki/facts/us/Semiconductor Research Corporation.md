@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -89,7 +89,7 @@ updated: 2026-10-22
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1982 年由美国半导体行业协会（Semiconductor Industry Association, SIA）核心领袖（罗伯特·诺伊斯、[[Erich Bloch|埃里希·布洛赫]]等）发起设立，旨在应对全球半导体市场竞争加剧迫使企业削减基础研究、导致全美微电子基础学科与高层次博士人才严重萎缩的系统性断层危机。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 238–241)]]
 > - **总部地点 / 业务辐射** 总部设于美国北卡罗来纳州三角研究园（[[Research Triangle Park]], NC）；资助网络覆盖全美 100 多所顶尖[[Research Universities|研究型大学]]与科研院所。
-> - **法人属性与经费基础** 501(c)(6) 非营利性行业科研联合会；经费由成员企业按销售额比例缴纳的年费、联邦机构（[[DARPA]]、[[National Science Foundation|NSF]]、NIST）对等匹配资助以及国家重大专项拨款共同构成。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 248–253)]]
+> - **法人属性与经费基础** 501(c)(6) 非营利性行业科研联合会；经费由成员企业按销售额比例缴纳的年费、联邦机构（[[DARPA]]、[[National Science Foundation|NSF]]、[[National Institute of Standards and Technology|NIST]]）对等匹配资助以及国家重大专项拨款共同构成。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 248–253)]]
 > - **核心宗旨与法定职责** 跨越企业短期产品竞争，统筹规划全行业 10 至 15 年前瞻性科学与技术路线图，以竞争前联合资助模式打通大学前沿探索与工业界应用技术之间的转化鸿沟。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]
 
 ---

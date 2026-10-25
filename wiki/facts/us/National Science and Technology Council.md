@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!caution] 机构缩写辨析
@@ -90,7 +90,7 @@ updated: 2026-10-22
 > [!actor-grid] 组织治理架构
 > - **决策机构（理事会 / 董事会）** 美国总统亲自担任主席；副总统、商务部长、国防部长、能源部长、卫生部长及各关键研发机构长官为法定正式成员。
 > - **执行机构（秘书处 / 管理层）** 由总统科学顾问兼 [[Office of Science and Technology Policy|OSTP]] 主任担任执行主任，负责召集会议、督办跨部门联合工作组日常运转。
-> - **专门委员会与小组委员会** 设立科学、技术、环境、国土与国家安全（Committee on Homeland and National Security, CHNS）等专门委员会；在 CHNS 下依据 2021 财年《国防授权法案》第 9906 条专门设立[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML），由 OSTP、DoD、[[Department of Energy|DOE]]、NIST、[[National Science Foundation|NSF]] 五大机构主管共同担任联合主席（Co-Chairs），并纳入 NSA、[[National Aeronautics and Space Administration|NASA]] 等机构代表，统筹全美微电子战略与预算协同。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 9–10)]]
+> - **专门委员会与小组委员会** 设立科学、技术、环境、国土与国家安全（Committee on Homeland and National Security, CHNS）等专门委员会；在 CHNS 下依据 2021 财年《国防授权法案》第 9906 条专门设立[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]（SML），由 OSTP、[[Department of Defense|DoD]]、[[Department of Energy|DOE]]、[[National Institute of Standards and Technology|NIST]]、[[National Science Foundation|NSF]] 五大机构主管共同担任联合主席（Co-Chairs），并纳入 NSA、[[National Aeronautics and Space Administration|NASA]] 等机构代表，统筹全美微电子战略与预算协同。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. ii, 9–10)]]
 > - **会员与外部利益相关者** 深度联动[[National Science Board|国家科学委员会]]（NSB）、总统科技顾问委员会（PCAST）、芯片[[Industrial Advisory Committee|工业咨询委员会]]（IAC）及工业界代表，吸纳外部建议。
 
 > [!pathways] 业务运行机制

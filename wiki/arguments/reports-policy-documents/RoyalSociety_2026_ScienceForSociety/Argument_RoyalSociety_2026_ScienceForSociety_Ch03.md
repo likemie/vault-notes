@@ -14,7 +14,7 @@ argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
-issuing_organization: The Royal Society
+issuing_organization: "[[Royal Society|The Royal Society]]"
 year: 2026
 isbn: 978-1-78252-829-6
 publication_place: London
@@ -77,7 +77,7 @@ related_theories:
   - "[[Theory of Mind]]"
 status: draft
 created: 2026-09-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 ---
 
@@ -151,7 +151,7 @@ updated: 2026-10-22
 
 #### 主题二：英国公众主动寻求科学信息的渠道格局变迁（PAS 2025 调查）
 
-英国研究与创新署（UKRI）委托益普索（Ipsos）执行的 2025 年全国公众对[[Scientific Attitude|科学态度]]调查（[[Public Attitudes to Science|PAS 2025]]），采用[[Survey Research|问卷调查研究]]抽样全英 5,281 名 16 岁及以上代表性成年人，针对其主动信息获取习惯进行了量化测绘。
+[[UK Research and Innovation|英国研究与创新署]]（UKRI）委托益普索（Ipsos）执行的 2025 年全国公众对[[Scientific Attitude|科学态度]]调查（[[Public Attitudes to Science|PAS 2025]]），采用[[Survey Research|问卷调查研究]]抽样全英 5,281 名 16 岁及以上代表性成年人，针对其主动信息获取习惯进行了量化测绘。
 
 > [!ref-table] 表3-1：英国公众主动寻求科学信息主要渠道分布表（Figure 3, p. 57）
 > | 信息获取渠道分类 | 受访主动寻求人数（人） | 占总受访人数比例（%） | 渠道性质与受众接触特征 | 核心机遇与媒介治理痛点 |
@@ -301,7 +301,7 @@ updated: 2026-10-22
 面对主流广播电视中传统科学节目排播收缩的危机，科学界必须打破孤立封闭的思维定势，主动借鉴艺术界的成熟模式，建立“联合出资、联合制作”（Co-funding & Co-production）的新型跨界合作生态。
 
 > [!case] 标志性案例三：科学界与公共广播机构的跨界联合制作——BBC《野性群岛》（*Wild Isles*）案例（p. 61）
-> - **多方跨界注资与学术赋能** 英国广播公司旗舰自然纪录片《野性群岛》（*Wild Isles*）开创了公共广播与科研公益机构协同制作的典范。该项目由英国皇家鸟类保护协会（Royal Society for the Protection of Birds, RSPB）、世界自然基金会（World Wide Fund for Nature, WWF）及英国开放大学（The Open University）与 BBC 联合注资并共同研发。
+> - **多方跨界注资与学术赋能** 英国广播公司旗舰自然纪录片《野性群岛》（*Wild Isles*）开创了公共广播与科研公益机构协同制作的典范。该项目由英国皇家鸟类保护协会（[[Royal Society]] for the Protection of Birds, RSPB）、世界自然基金会（World Wide Fund for Nature, WWF）及英国开放大学（The Open University）与 BBC 联合注资并共同研发。
 > - **坚守独立编辑主导权的核心原则** 合作明确立规：所有出资机构与科学家团队深度参与前期野外科学调研、物种行为实证把关与数据核验，但**最终的节目编辑控制权（Editorial Control）完全由广播机构独立行使**；这种制度设计既杜绝了赞助方软文公关的嫌疑，又确保了片中科学论述的无懈可击。
 > - **融媒体裂变与多渠道社会行动** 纪录片不仅在黄金时段电视频道引发轰动，更衍生出针对社交网络定制的短视频切片、针对学校的配套教学资源包以及公众在地化生物保护行动指南，实现了从线性电视收视向全民环保行动的跨越。
 > - **向艺术界取经的跨界启示** 报告深刻指出，艺术人文界长期擅长联合影视机构开展跨界制作；科学共同体必须打破偏见，积极推动将前沿科学探索与科学家命运融入历史剧、传记片、科幻电影乃至流行电子游戏中，让科学自然流淌在主流通俗文化叙事中。
@@ -335,7 +335,7 @@ updated: 2026-10-22
 
 > [!evidence-grid] 证据透明与不确定性沟通的实证效能（Kerr et al., 2022, p. 62）
 > - **打破学术界传统顾虑** 科研人员与公关专员往往担忧向公众承认实验局限、数据误差与[[Scientific Uncertainty\|科学不确定性]]（Scientific Uncertainty）会导致非专业受众产生困惑，甚至削弱公众对科学的权威信任。
-> - **[[Randomised Controlled Trials\|随机对照实验]]结论** 克尔等学者发表在《美国国家[[Chinese Academy of Sciences|科学院]]院刊·连结》（PNAS Nexus）上的随机对照实验表明（Kerr et al., 2022）：无论是采用数值置信区间、文字定性限定词还是证据质量分级，向公众坦诚披露科学证据的局限性与不确定性，**绝不会损害公众对证据事实的信任，也绝不会降低对研究人员本人的信任评价**。（p. 62）
+> - **[[Randomised Controlled Trials\|随机对照实验]]结论** 克尔等学者发表在《美国国家科学院院刊·连结》（PNAS Nexus）上的随机对照实验表明（Kerr et al., 2022）：无论是采用数值置信区间、文字定性限定词还是证据质量分级，向公众坦诚披露科学证据的局限性与不确定性，**绝不会损害公众对证据事实的信任，也绝不会降低对研究人员本人的信任评价**。（p. 62）
 > - **增强可信赖度感知** 在争议性公共政策议题中，坦诚承认“我们目前所知有限”反而能显著提升公众对科学家群体的诚信度（[[Trustworthiness]]）感知，消除公众对科学家“自大包办”的抵触心理。
 
 #### 主题二：科学传播《行为守则》架构设计

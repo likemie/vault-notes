@@ -34,12 +34,12 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ## 背景
 
-美国国会于 2000 年 10 月设立美中经济与安全审查委员会（USCC），立法授权其"监测、调查并向国会提交关于美中双边贸易和经济关系的国家安全影响的年度报告，并在适当时向国会提供立法和行政行动建议"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.78–79]])。
+[[United States Congress|美国国会]]于 2000 年 10 月设立美中经济与安全审查委员会（USCC），立法授权其"监测、调查并向国会提交关于美中双边贸易和经济关系的国家安全影响的年度报告，并在适当时向国会提供立法和行政行动建议"([[Argument_Partaken_2022_Springer|Partaken, 2022, p.78–79]])。
 
 > [!note] 经过
 > - 2000 年 10 月：USCC 由美国国会立法设立([[Argument_Partaken_2022_Springer\|Partaken, 2022, p.78–79]])

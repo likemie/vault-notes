@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -121,7 +121,7 @@ updated: 2026-10-22
 ---
 
 > [!case] 经验案例一：美国公立养老金与雇主私人养老金层叠（Hacker 案例）
-> - **国会强否决阻断新政扩展** 20 世纪中叶美国国会由南方保守民主党人与共和党保守派掌控关键委员会否决点，坚决封杀自由派扩大联邦社会保障（Social Security）公共给付水平的立法提案（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 19–20]]）。
+> - **国会强否决阻断新政扩展** 20 世纪中叶[[United States Congress|美国国会]]由南方保守民主党人与共和党保守派掌控关键委员会否决点，坚决封杀自由派扩大联邦社会保障（Social Security）公共给付水平的立法提案（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 19–20]]）。
 > - **规避否决转向税收层叠** 工会与进步派改革者在强否决约束下妥协，转而推动在联邦体系边缘通过税收减免层叠扶持基于企业的商业雇主养老金与私人健康保险，重塑了美国混合福利国家构型。
 
 > [!case] 经验案例二：日本自民党在选区重划议题上的否决权滥用

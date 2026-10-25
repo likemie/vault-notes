@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -70,7 +70,7 @@ updated: 2026-10-22
 
 > [!event-context] 事件背景
 > - **时间节点** 2010 年 12 月（PISA 2009 报告正式发布），政策发酵与推进高潮持续至 2014 年前后。
-> - **核心当事主体** 美国联邦教育部（时任部长阿恩·邓肯，Arne Duncan）、奥巴马总统白宫行政团队、两党州长联盟（[[National Governors Association|全国州长协会]]，NGA）、州教育长官网络（[[Council of Chief State School Officers|州首席教育官理事会]]，CCSSO）及大型慈善基金会（如比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]）。
+> - **核心当事主体** [[United States Department of Education|美国联邦教育部]]（时任部长阿恩·邓肯，Arne Duncan）、奥巴马总统白宫行政团队、两党州长联盟（[[National Governors Association|全国州长协会]]，NGA）、州教育长官网络（[[Council of Chief State School Officers|州首席教育官理事会]]，CCSSO）及大型慈善基金会（如比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]）。
 > - **深层制度矛盾** 美国宪法第十修正案规定教育权归属于各州，导致全美 50 个州长期各自制定学术大纲与及格线，形成课程“宽一英里、深一英寸”的严重碎片化格局；各州自测合格率虚高与国家教育进展评估（[[National Assessment of Educational Progress|NAEP]]）低合格率形成尖锐反差。
 > - **直接导火索** PISA 2009 结果揭晓：首次参测的中国上海学生在阅读（556分）、数学（600分）和科学（575分）三大主科全面位居全球首位，而美国在 65 个参测系统中阅读排第 17 位、科学排第 23 位、数学仅排第 31 位（低于 [[OECD]] 平均水平）。
 

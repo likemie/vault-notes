@@ -71,7 +71,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-09
-updated: 2026-10-22
+updated: 2026-10-26
 subtype: report
 publication_type: report
 title: "Argument_NIST_2023_NSTC"
@@ -82,7 +82,7 @@ argument_related_count: 41
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dcfce7"
-issuing_organization: "National Institute of Standards and Technology, U.S. Department of Commerce"
+issuing_organization: "[[National Institute of Standards and Technology]], [[Department of Commerce|U.S. Department of Commerce]]"
 publication_place: "Washington, D.C."
 publisher: "U.S. Department of Commerce"
 ---
@@ -95,7 +95,7 @@ publisher: "U.S. Department of Commerce"
 > **[[National Semiconductor Technology Center|国家半导体技术中心]]（National Semiconductor Technology Center, [[National Science and Technology Council|NSTC]]）** 作为《芯片与科学法案》110 亿美元研发资金的核心中枢，必须通过布局跨区域共享中试技术中心网络、聚合全国[[Multi-Project Wafer|多项目晶圆]]与先进封装排期服务、打造云端设计网关以及依托独立非营利运营商（[[Natcast]]）推行公私分权共治，全面打通从基础科研探索到工业规模化制造的创新链条，构建兼具国家安全韧性与长期商业自生能力的新一代国家创新平台。（pp. 2–5, 8–11, 21–25）
 
 > [!concept-lens] 阅读透镜
-> - **经验对象** 美国国家半导体技术中心（NSTC）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（National Advanced Packaging Manufacturing Program, NAPMP）、国防部[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons）、商务部国家标准与技术研究院（National Institute of Standards and Technology, NIST）计量研究项目及全美产学研微电子创新网络。（pp. 2–3, 8–11）
+> - **经验对象** 美国国家半导体技术中心（NSTC）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（National Advanced Packaging Manufacturing Program, NAPMP）、国防部[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons）、商务部[[National Institute of Standards and Technology|国家标准与技术研究院]]（National Institute of Standards and Technology, NIST）计量研究项目及全美产学研微电子创新网络。（pp. 2–3, 8–11）
 > - **制度张力** 尖端制程高昂重资产资本门槛与中小创客及大学实验室资本短缺的矛盾；国家安全审查与技术开放创新的张力；短期五年财政催化拨款与数十年长期技术演进的资金可持续性矛盾。（pp. 6, 20–25）
 > - **理论贡献** 确立了 21 世纪美国[[Modern Industrial Policy|现代产业政策]]与战略科技攻关的第三代国家法定[[Public-Private Partnership|公私合作伙伴关系]]（Public-Private Partnership, PPP）模式，系统展示了硬件共享、软件支持、人才蓄水池与非营利受托治理的一体化制度设计。（pp. 8–25）
 
@@ -178,7 +178,7 @@ publisher: "U.S. Department of Commerce"
 为防止研发资源割裂，NSTC 必须在联邦政府整体创新布局中明确自身定位，与既有及新建项目形成无缝的技术接力机制。（pp. 8–11）
 
 > [!claim|lead] 步骤二核心主张
-> NSTC 通过与国防部（Department of Defense, DOD）[[Microelectronics Commons|微电子共用体]]、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）及国家制造创新机构（[[Manufacturing USA]]）紧密协同，构建了从基础原理到商业代工厂的完整全流程中试流水线。（pp. 8–11）
+> NSTC 通过与国防部（[[Department of Defense]], DOD）[[Microelectronics Commons|微电子共用体]]、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）及国家制造创新机构（[[Manufacturing USA]]）紧密协同，构建了从基础原理到商业代工厂的完整全流程中试流水线。（pp. 8–11）
 
 研发流水线的畅通需要消除从实验室原型到规模化量产之间的结构性断层。
 

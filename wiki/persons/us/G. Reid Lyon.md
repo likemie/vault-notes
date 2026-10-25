@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -71,7 +71,7 @@ updated: 2026-10-22
 > [!timeline] 生平与职涯
 > - **1978** 获得新墨西哥大学心理学与特殊教育博士学位，开启儿童学习障碍与大脑神经机制研究。
 > - **1991–2005** 出任 [[National Institute of Child Health and Human Development|NICHD]] 儿童发展与行为分支主管，全权掌控联邦阅读科研项目招标，构建起庞大的认知神经心理学研究网络。
-> - **1997** 出席美国国会众议院教育委员会听证会，其宣称的直接拼读“科学定论”被委员会主席比尔·古德林原封不动转化为法案条文。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]
+> - **1997** 出席[[United States Congress|美国国会]]众议院教育委员会听证会，其宣称的直接拼读“科学定论”被委员会主席比尔·古德林原封不动转化为法案条文。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 8)]]
 > - **1997–2000** 协同教育部主持组建[[National Reading Panel|国家阅读委员会]]（NRP），确立[[Causality|因果推断]]筛选标准。
 > - **2001–2005** 深度参与小布什政府 [[No Child Left Behind Act 2001|NCLB]] “阅读优先”计划执行，随后遭遇政商旋转门与排他性采购审查风暴；离开联邦政府转向私立科研与教育咨询领域。
 

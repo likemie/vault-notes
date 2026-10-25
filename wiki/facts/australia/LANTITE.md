@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-20
+updated: 2026-10-26
 ---
 
 ---
@@ -44,7 +44,7 @@ updated: 2026-10-20
 > - **发布时间 / 发布主体** 2016年正式开始全国实施，由澳大利亚联邦政府基于2015年[[Initial Teacher Training\|初始教师教育]]咨询小组（[[Teacher Education Ministerial Advisory Group\|TEMAG]]）报告《行动立即开始：课堂就绪教师》（*Action Now: Classroom Ready Teachers*）的政策建议推出。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - **适用地区 / 对象** 适用于澳大利亚全国范围内初始教师教育（ITE）课程的在读职前教师。
 > - **问题背景** 作为提升教师质量门槛的标准化测试，应对公众对新教师读写与算术基础能力的担忧。
-> - **制度位置** 由澳大利亚教育研究理事会 ([[Australian Council for Educational Research\|ACER]]) 负责测试开发与管理，是初始教师进入教学岗位前的强制性法定制约关卡。
+> - **制度位置** 由[[Australian Council for Educational Research|澳大利亚教育研究理事会]] ([[Australian Council for Educational Research\|ACER]]) 负责测试开发与管理，是初始教师进入教学岗位前的强制性法定制约关卡。
 
 ---
 

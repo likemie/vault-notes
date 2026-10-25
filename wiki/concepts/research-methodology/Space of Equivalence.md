@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -71,7 +71,7 @@ updated: 2026-10-22
 > *PISA regards as crucially important its claim to comparability and a commensurate space of international comparison – a space of uniform measurement, or what Desrosieres (1998) refers to as a “space of equivalence.” Within national frameworks; there was always greater concern about the creation of this national commensurable space than about [[Construct]] validity, more about issues of reliability and comparison than ontology. The same is the case with PISA. ... As Rose (1999) has argued, policy as numbers tends to do this – the power of numbers is such that they “render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number”.*
 
 > [!citation-card] 经合组织依托等值空间构建全球比较标尺
-> 经合组织通过研发国际学生评估项目（PISA）这一政治技术，绕开成员国具体课程大纲，构建起独立于主权行政边界的等值空间。该空间将异质教育传统化约为单一可通约的统计标尺，使政策建议无需出具方额外辩护便被广泛接受为权威事实，成为超国家机构远处治理与成员国外在化借用的中介。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 34–35)]]
+> 经合组织通过研发国际学生评估项目（PISA）这一政治技术，绕开成员国具体课程大纲，构建起独立于主权行政边界的等值空间。该空间将异质教育传统化约为单一可通约的统计标尺，使政策建议无需出具方额外辩护便被广泛接受为权威事实，成为超国家机构[[Governing at a Distance|远处治理]]与成员国外在化借用的中介。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 34–35)]]
 >
 > *The work of commensuration was essential in creating what Desrosières (1998) terms a 'space of equivalence'... PISA offers a prime example of this development of a space of equivalence, as it has created a commensurate space of international comparison.*
 
@@ -146,7 +146,7 @@ updated: 2026-10-22
 > **远处掌舵的治理工具** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）进一步阐明，等值空间的建立使得超国家组织在没有法定管辖权与强制立法权的前提下，能够凭借联赛排位与横向比较引发各成员国的合法性焦虑与改革冲动；技术化的等值空间因而成为实施远处掌舵、重塑民族国家教育政策优先级的核心媒介。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 448)]]
 
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
-> **跨国软治理与外在化借用中介** 索蒂里亚·格雷克（Sotiria Grek, 2009）论证指出，经合组织在缺乏法定教育管辖权与结构调整信贷手段的前提下，通过 PISA 研发出独立于主权疆界的全球等值空间。该空间生产去情境化、跨国可通约的排名与指标，不仅为欧盟委员会在不扩大法律职权下推进欧洲教育空间提供了核心技术中介，更充当了成员国对内推行争议性改革、对外展示现代化的策略性“外在化”借用资源。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 34–35)]]
+> **跨国软治理与外在化借用中介** 索蒂里亚·格雷克（Sotiria Grek, 2009）论证指出，经合组织在缺乏法定教育管辖权与结构调整信贷手段的前提下，通过 PISA 研发出独立于主权疆界的全球等值空间。该[[Space Production|空间生产]]去情境化、跨国可通约的排名与指标，不仅为[[European Commission|欧盟委员会]]在不扩大法律职权下推进[[European Education Space|欧洲教育空间]]提供了核心技术中介，更充当了成员国对内推行争议性改革、对外展示现代化的策略性“外在化”借用资源。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26, 34–35)]]
 
 ---
 
@@ -162,7 +162,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **1998 — 统计社会学理论奠基** 法国学者[[Alain Desrosières|阿兰·德罗西埃]]在《大数的政治：统计推理的历史》（*The Politics of Large Numbers*）中系统阐释等值空间，确立了统计度量实质上是制度创设[[Champ|场域]]的核心论断。
 > - **1999 — 政府[[Governmentality|治理术]]与数字政治转向** [[Nikolas Rose|尼古拉斯·罗斯]]在《自由的诸种权力》（*Powers of Freedom*）中将[[Governing by Numbers|数字治理]]与等值空间的去政治化功能相结合，揭示量化指标在自由主义治理中的支配力量。
-> - **2000s 至今 — 全球教育政策与跨国比较应用** [[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、马丁·朗恩（Martin Lawn）与索蒂里亚·格雷克（Sotiria Grek）等学者将该概念引入比较教育学，剖析[[PISA]]如何构建跨国等值空间以支撑欧洲乃至全球教育治理空间的成型。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26)]]
+> - **2000s 至今 — 全球教育政策与跨国比较应用** [[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、马丁·朗恩（Martin Lawn）与索蒂里亚·格雷克（[[Sotiria Grek]]）等学者将该概念引入比较教育学，剖析[[PISA]]如何构建跨国等值空间以支撑欧洲乃至全球教育治理空间的成型。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–26)]]
 
 ---
 
@@ -178,7 +178,7 @@ updated: 2026-10-22
 > > 争论量化等值空间究竟是提升政策决策科学性的中立工具，还是绕过民主公共辩论的去政治化意识形态包装。
 > >
 > > - **实证主义政策治理派（2000s）** 认为统一的等值空间提供了客观的基准证据，有助于克服意识形态空谈并提升公共资源配置效率。
-> > - **Rose（1999）** 警告数字技术将大量主观、偶然与偏向性的政治决断包装成无可置疑的客观事实，严重削弱了民主审议空间。
+> > - **Rose（1999）** 警告数字技术将大量主观、偶然与偏向性的政治决断包装成无可置疑的客观事实，严重削弱了民主[[Deliberative Space|审议空间]]。
 
 ---
 
@@ -187,12 +187,12 @@ updated: 2026-10-22
 > [!ref-table]- 跨国等值空间构建与维系的实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 25, 32)]] | 经合组织教育局 PISA 研发预算；欧盟里斯本战略指标对 OECD 数据的采信 | 跨国治理机构政策档案与深度关键知情人访谈 | 维持等值空间的财政与机构协同指标 | PISA 研发占用经合组织教育局约 30% 年度预算；欧盟里斯本战略教育指标报告中 50%–60% 数据来自 OECD（UOE 占 60%），欧盟承担 80% 成员国参与成本 | — | 实证说明跨国等值空间的创设依赖持续高额机构预算与超国家数据采信协同维系 |
+> | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 25, 32)]] | 经合组织教育局 PISA 研发预算；[[EU\|欧盟]][[Lisbon Strategy\|里斯本战略]]指标对 OECD 数据的采信 | 跨国治理机构政策档案与深度[[Elite Interview\|关键知情人访谈]] | 维持等值空间的财政与机构协同指标 | PISA 研发占用经合组织教育局约 30% 年度预算；欧盟里斯本战略[[Performance Indicators\|教育指标]]报告中 50%–60% 数据来自 OECD（[[UOE Data Collection\|UOE]] 占 60%），欧盟承担 80% 成员国参与成本 | — | 实证说明跨国等值空间的创设依赖持续高额机构预算与超国家数据采信协同维系 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合德罗西埃理论，剖析经合组织如何通过 PISA 自建数据确立跨国等值空间并以信度压倒构念效度。
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经合组织如何研发 PISA 构筑等值空间，将异质教育传统化约为通用标尺以实现跨国远距治理。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经合组织如何研发 PISA 构筑等值空间，将异质教育传统化约为通用标尺以实现跨国[[Governing at a Distance|远距治理]]。

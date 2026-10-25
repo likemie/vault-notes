@@ -19,7 +19,7 @@ issuing_organization: 教育部
 confidence: medium
 status: draft
 created: '2026-05-17'
-updated: 2026-10-22
+updated: 2026-10-26
 tags:
   - region/china
   - level/k12
@@ -51,7 +51,7 @@ related_arguments:
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2001 年 6 月由中华人民共和国教育部（MOE）正式发布《基础教育课程改革纲要（试行）》[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, p. 54)]]。
+> - **发布时间 / 发布主体** 2001 年 6 月由[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]（MOE）正式发布《基础教育课程改革纲要（试行）》[[Argument_Ryan_2010_ChineseLearner\|(Ryan, 2010, p. 54)]]。
 > - **适用地区 / 对象** 全国范围内中小学（K-12）基础教育阶段的所有学校、教师、学生以及教科书编写与出版机构[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 65)]]。
 > - **问题背景** 改革前中国基础教育长期以“双基”（基础知识与基本技能）为导向，教学呈现高度的教师中心与应试倾向。21 世纪初政府力图推动教育转向[[Quality Education\|素质教育]]，以应对全球化竞争对创新能力与综合素质的要求。
 > - **制度位置** 21 世纪中国基础教育最具全局性与根本性的课程与教学改革框架，决定了后续二十年教材编写、考试评估与教师培训的方向。

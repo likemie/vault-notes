@@ -51,13 +51,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国（US），电气工程师、国防采办高级管理者；曾任美国国防部战略技术办公室主任、福特航空航天公司副总裁、科学应用国际公司（SAIC）副总裁、[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）局长（2001–2009）。
+> - **身份位置** 美国（US），电气工程师、国防采办高级管理者；曾任[[Department of Defense|美国国防部]]战略技术办公室主任、福特航空航天公司副总裁、科学应用国际公司（SAIC）副总裁、[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）局长（2001–2009）。
 > - **核心角色** DARPA 历史上**任期最长的一任局长**（小布什总统执政期间执掌长达 8 年）。任内推行冷战后最激进的采办考核机制重构与反恐技术攻坚，是当代科技政策界关于“国家战略科研中高校自由探索 vs 产业系统交付”学术论战的核心焦点人物；在发展型国家理论中，其执政经历被[[Fred Block|布洛克]]（[[Argument_Block_2008_PS|Block, 2008]]）视为[[National Innovation System|国家创新系统]]过度藏匿于国防外衣之下导致科研涉密化与学术互信断裂的典型标本。
 > - **代表贡献** 确立“弥合鸿沟”（Bridging the Gap）战略；首创自动驾驶领域悬赏竞赛[[Paradigm|范式]]（DARPA Grand Challenge 2004/2005/2007）；资助敏捷感知认知助理项目（CALO，直接派生孵化出苹果公司 Siri）；资助片内光互连系统集成项目（UNIC 计划）。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1136–1138, 1142–1144)]]
 
@@ -109,7 +109,7 @@ updated: 2026-10-22
 > *Despite radical formal changes in contracts and prime contractors under Tony Tether that led to protests from the academic community, the micro-level informal governance mechanisms among program managers remained remarkably continuous.*
 
 > [!citation-card] [[Fred Block|布洛克]]论泰瑟任期军事涉密化对学术生态的重创
-> 在小布什政府期间，安东尼·泰瑟担任 DARPA 局长，他推行了一项重大战略转向：大幅缩减对大学开展的基础研究与前瞻性非密计算机科学项目的资助，将资金大规模转向面向短期军事应用和高度保密的涉密研发项目。这一转向导致 DARPA 与全美顶尖计算机学者之间的长期互信遭到严重破坏，大批学者选择切断与该机构的合作。[[Argument_Block_2008_PS|(Block, 2008, p. 184)]]
+> 在小布什政府期间，安东尼·泰瑟担任 DARPA 局长，他推行了一项重大战略转向：大幅缩减对大学开展的基础研究与前瞻性非密计算机[[Science Programs|科学项目]]的资助，将资金大规模转向面向短期军事应用和高度保密的涉密研发项目。这一转向导致 DARPA 与全美顶尖计算机学者之间的长期互信遭到严重破坏，大批学者选择切断与该机构的合作。[[Argument_Block_2008_PS|(Block, 2008, p. 184)]]
 >
 > *Tether shifted DARPA’s focus away from funding university-based research and towards classified projects that were closer to deployment... Computer science researchers at major universities complained that they were being frozen out of DARPA funding.*
 

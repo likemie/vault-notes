@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -68,8 +68,8 @@ updated: 2026-10-22
 > *These four years have seen strengthened people-to-people connectivity. Friendship, which derives from close contact between the people, holds the key to sound state-to-state relations. Guided by the Silk Road spirit, we the Belt and Road Initiative participating countries have pooled our efforts to build the educational Silk Road and the health Silk Road... Such cooperation has helped lay a solid popular and social foundation for pursuing the Belt and Road Initiative.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Soft Power|软实力]]：软实力强调以文化和价值观吸引他者以达成自身地缘战略目标的单向施加过程；民心相通则强调双向互动、文明互学互鉴与共同利益构建的合作导向。
-> - 不等于 传统的公共外交：传统公共外交常以出资国政府为中心直接面向外国公众进行形象塑造与观点说服；民心相通涵盖了高校、企业、科研机构和地方政府等多主体间对称共建的深层制度对接。
+> - 不等于 [[Soft Power|软实力]]：软实力强调以文化和价值观吸引他者以达成自身地缘战略目标的单向施加过程；民心相通则强调双向互动、文明[[Mutual Learning|互学互鉴]]与共同利益构建的合作导向。
+> - 不等于 传统的[[Public Diplomacy|公共外交]]：传统公共外交常以出资国政府为中心直接面向外国公众进行形象塑造与观点说服；民心相通涵盖了高校、企业、科研机构和地方政府等多主体间对称共建的深层制度对接。
 
 ---
 
@@ -142,7 +142,7 @@ updated: 2026-10-22
 > - **2013–2015 — 政策顶层提出与“五通”确立期**
 >   2013年“[[Belt and Road Initiative|一带一路]]”倡议提出政策沟通、设施联通、贸易畅通、资金融通与民心相通五大合作重点，民心相通被正式确立为重大战略布局的五大支柱之一。
 > - **2016至今 — 教育行动落地与实体化网络期**
->   中国教育部于2016年印发《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，将民心相通细化为教育互联互通、人才培养协同与联合科技攻关三大机制，并依托[[Luban Workshop|鲁班工坊]]与[[Institute of South-South Cooperation and Development|南南学院]]等实体机构实现纵深发展。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 228–231)]]
+>   [[Ministry of Education of the People's Republic of China|中国教育部]]于2016年印发《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，将民心相通细化为教育互联互通、人才培养协同与联合科技攻关三大机制，并依托[[Luban Workshop|鲁班工坊]]与[[Institute of South-South Cooperation and Development|南南学院]]等实体机构实现纵深发展。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 228–231)]]
 
 ---
 
@@ -177,7 +177,7 @@ updated: 2026-10-22
 > | [[Argument_King_2020_ECNUROE\|King (2020)]] | 截至2019年“一带一路”沿线54个主权国家 | 全球[[Confucius Institute\|孔子学院]]布局统计 | 孔子学院在共建国设立运营总数 | 在54个共建国家建立并运营 153 所孔子学院 | — | 反映语言文化机构在构筑民心相通网络中的空间密集度 |
 > | [[Argument_King_2020_ECNUROE\|King (2020)]] | 非洲职业技能实训基地建设（2018–2020） | 峰会行动计划与落地项目追踪 | [[Luban Workshop\|鲁班工坊]]在非承诺总数与首批落地数 | 承诺在非建设 10 所，首批在吉布提与埃及率先投运 2 所 | — | 证实职业教育从[[Student Mobility\|学生流动]]转向在地实体产教协同 |
 > | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | 中国—东盟双边经贸与全方位战略合作（2023） | 宏观统计与教育交流机制追踪 | 双边贸易总额与民间互信经贸纽带 | 2023 年双边贸易额达 6.41 万亿元人民币，连续四年互为第一大贸易伙伴；教育合作被确立为民间互信与自贸区建设的关键纽带 | — | 验证了经贸纵深合作对人文相通与技术技能人才培养的深层拉动（pp. 288–289, 291） |
-> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | 中国—东盟职业教育联合会及来华留学生培养 | 多边联盟实证调研与个案考察 | 跨国合作机构网络与职教留学生育人载体 | 汇聚 175 家跨国机构（中方 98 家、东盟 77 家），构建来华职教留学生全过程育人与双向文化互认机制 | — | 证实了民心相通从单纯文凭输送向技术管理骨干协同育人与价值共生深化（pp. 294, 300–301） |
+> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | [[China-ASEAN Federation for Vocational Education\|中国—东盟职业教育联合会]]及来华留学生培养 | 多边联盟实证调研与个案考察 | 跨国合作机构网络与职教留学生育人载体 | 汇聚 175 家跨国机构（中方 98 家、[[ASEAN\|东盟]] 77 家），构建来华职教留学生全过程育人与双向文化互认机制 | — | 证实了民心相通从单纯文凭输送向技术管理骨干协同育人与价值共生深化（pp. 294, 300–301） |
 
 ---
 

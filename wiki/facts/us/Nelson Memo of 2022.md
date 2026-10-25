@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 背景
@@ -48,7 +48,7 @@ updated: 2026-10-22
 > [!quote|notitle]
 > Nelson (2022) 备忘录指示联邦机构"建立同行评审学术出版物和科学数据的公共获取政策"（cited in Hall, 2025, p.264）。
 
-> [!note] 对产学合作的影响
+> [!note] 对[[University-Industry Collaboration|产学合作]]的影响
 > 在[[University-Industry Collaboration\|产学合作]]中，Nelson [[Memos\|memo]] 制造了一个新的制度约束：当研究同时接受联邦和企业资金时，企业对研究结果的专有控制需求可能与联邦资助的开放获取要求发生冲突。这意味着在合作协议谈判中，双方需要明确规定哪些研究产出受联邦开放获取要求约束，哪些可以按企业需求进行保密或延迟发布（p.264）。
 
 > [!note|notitle]

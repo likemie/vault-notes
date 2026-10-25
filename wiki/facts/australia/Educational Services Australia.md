@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -48,7 +48,7 @@ updated: 2026-10-22
 
 > [!timeline] 机构活动与系统支撑
 > - 2010 正式成立，作为澳大利亚教育数据与基础设施的核心承载公司。
-> - 2010s 承建并运营一系列国家级教育技术平台，包括 NAPLAN 在线测试系统、澳大利亚国家数字内容库（Scootle）等。
+> - 2010s 承建并运营一系列国家级教育技术平台，包括 [[NAPLAN]] 在线测试系统、澳大利亚国家数字内容库（Scootle）等。
 > - 2011后 随着教师教育准入改革的收紧，ESA 在底层为[[Australian Institute for Teaching and School Leadership\|澳大利亚教学与学校领导力协会]]（[[Australian Institute for Teaching and School Leadership\|AITSL]]）和[[Australian Curriculum\|澳大利亚课程]]评估与报告局（ACARA）提供共享的技术支持和行政外包系统。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 11]])
 > - 2020 [[Australian Education Research Organisation\|澳大利亚教育研究组织]]（[[Australian Education Research Organisation\|AERO]]）成立。ESA 的技术与行政底层系统支撑矩阵进一步扩展，将 AERO 的证据发布平台和标准数据库纳入其技术与托管生态。
 

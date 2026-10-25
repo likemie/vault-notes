@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-26
 ---
 
 ---
@@ -63,7 +63,7 @@ updated: 2026-10-15
 > [!citation-card] 空军商业投资计划通过资本匹配加速[[Research Translation|技术转化]]
 > 美国空军的商业“投资”机构 AFVentures 展现了利用小企业创新研发（[[SBIR and STTR Programs|SBIR]]/STTR）计划加速技术转化的典型模式，通过提供额外资金匹配投资组合中企业的私人投资。该计划将获奖企业获得某种形式风险投资的比例提升至 29%，而 2015 年之前所有国防部获奖企业的该比例仅为 10%。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, p. 46)]]
 >
-> *The U.S. Air Force’s commercial “investment” group, AFVentures, is an example of an approach for leveraging an SBIR/STTR program to accelerate technology transition by providing additional funds to match private investments in companies in the portfolio. This program increased the percentage of companies with awards that have received some form of venture capital to 29%, compared to only 10% across all DOD awardees prior to 2015.*
+> *The U.S. Air Force’s commercial “investment” group, AFVentures, is an example of an approach for leveraging an SBIR/STTR program to accelerate technology transition by providing additional funds to match private investments in companies in the portfolio. This program increased the percentage of companies with awards that have received some form of venture capital to 29%, compared to only 10% across all [[Department of Defense|DOD]] awardees prior to 2015.*
 
 ---
 

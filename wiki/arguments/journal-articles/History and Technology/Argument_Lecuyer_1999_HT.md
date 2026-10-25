@@ -50,7 +50,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-03
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Lecuyer_1999_HT"
@@ -124,7 +124,7 @@ issuing_organization: ""
 ---
 
 > [!claim] 论证步骤一　国防采购体制紧缩与军品利润下滑倒逼企业向民用商业市场转型
-> 1960年代初美国国防部推行的竞争性采购改革严重挤压了军用半导体的利润空间并威胁到企业的技术所有权，叠加军用市场采购总额的停滞与同行竞争加剧，促使[[Fairchild Semiconductor|仙童半导体]]管理层主动转向民用计算机与消费电子市场。
+> 1960年代初[[Department of Defense|美国国防部]]推行的竞争性采购改革严重挤压了军用半导体的利润空间并威胁到企业的技术所有权，叠加军用市场采购总额的停滞与同行竞争加剧，促使[[Fairchild Semiconductor|仙童半导体]]管理层主动转向民用计算机与消费电子市场。
 
 #### 1. 国防采购竞标制与技术上缴要求削弱了军品吸引力并促使企业维护研发自主权
 
@@ -189,7 +189,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　移植现代工业管理、提高晶圆良率与离岸组装确立半导体量产范式
+> [!claim] 论证步骤三　移植现代工业管理、提高晶圆良率与离岸[[Assemblage|组装]]确立半导体量产范式
 > 为满足商业市场对极低售价与巨量供货的要求，仙童半导体采取前瞻性降价策略，引入通用电气的生产排程与在制品控制体系，应用[[Statistical Process Control|统计过程控制]]攻克空气污染与光刻良率障碍，并率先在香港设立离岸[[Assemblage|组装]]厂以化解劳动密集环节的成本制约。
 
 #### 1. 采取前瞻性大幅降价并引入通用电气产品线与在制品管理体系

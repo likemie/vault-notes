@@ -40,13 +40,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 先进技术教育计划（Advanced Technological Education, ATE）是由美国国会通过《科学与先进技术法案》（Scientific and Advanced-Technology Act of 1992, P.L. 102-476）授权设立、由国家科学基金会（[[National Science Foundation]], NSF）主持的旗舰级职业技术教育资助项目。该计划将两制两年制社区学院（Community Colleges）与技术学院确立为战略性科技[[Human Capital Theory|人力资本]]培养的核心载体，重点资助面向微电子制造、半导体设备维护、纳米技术与精密工程的高技能技术工人（Technicians）与工艺技师培育。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–33)]]
+> 先进技术教育计划（Advanced Technological Education, ATE）是由[[United States Congress|美国国会]]通过《科学与先进技术法案》（Scientific and Advanced-Technology Act of 1992, P.L. 102-476）授权设立、由国家科学基金会（[[National Science Foundation]], NSF）主持的旗舰级职业技术教育资助项目。该计划将两制两年制社区学院（Community Colleges）与技术学院确立为战略性科技[[Human Capital Theory|人力资本]]培养的核心载体，重点资助面向微电子制造、半导体设备维护、纳米技术与精密工程的高技能技术工人（Technicians）与工艺技师培育。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–33)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1992 年通过联邦立法设立，1993 年正式启动首批项目资助，至今已常态化运行逾 30 年。
@@ -98,7 +98,7 @@ updated: 2026-10-22
 > - **产出与结果指标** 项目毕业生入职半导体与高端制造企业的就业对口率、毕业生起薪水平、企业雇主对技术技能的满意度。
 
 > [!finding-cards] 核心实证结论与辐射影响
-> - **构筑全美最完备的高端制造技师培养基石** 累计资助逾 1000 个产教融合教育项目，培训了数以万计的社区学院理工科骨干教师，直接影响了数十万名一线工程技术学生。
+> - **构筑全美最完备的高端制造技师培养基石** 累计资助逾 1000 个产教[[Inclusive Education|融合教育]]项目，培训了数以万计的社区学院理工科骨干教师，直接影响了数十万名一线工程技术学生。
 > - **打通退役军人与非传统生源就业快车道** 借助单学期高强度洁净室浸润式实操训练（如宾州州立 CNEU 模式），帮助大量退役军人与失业工人以近 **100% 的对口就业率** 入职先进半导体代工厂。
 > - **形成模块化可推广的课程资源共享库** 建立了涵盖光刻工艺、真空刻蚀、薄膜沉积与化学机械研磨的标准教学课件库，被全美各州职业院校无偿采纳复用。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 32–33)]]
 

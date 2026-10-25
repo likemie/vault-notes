@@ -112,7 +112,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-27
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -143,7 +143,7 @@ updated: 2026-10-22
 >   - **部门创新系统（Sectoral Innovation Systems, SIS）** 马莱尔巴（Franco Malerba, 2002）基于帕维特产业分类（[[Argument_Bogliacino_Pianta_2016_EconPol|Bogliacino & Pianta, 2016]]），指出不同产业部门在知识基础、技术机会与专有性机制上存在根本差异，创新系统呈现部门异质性。
 >   - **[[Regional Innovation System|区域创新系统]]（Regional Innovation Systems, RIS）** 库克（Cooke, 1992）与阿斯海姆等（Asheim & Gertler, 2004）强调地理邻近性、[[Tacit Knowledge|隐性知识]]面对面传播与地方制度厚度对区域创新集群的塑造。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 865)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
 > - **2005 — 本地创新系统与大学转型匹配模型** 麻省理工学院莱斯特（Richard K. Lester）团队通过 6 国 22 个地区（714 次[[In-depth Interview|深度访谈]]）的[[Local Innovation Systems Project|本地创新系统项目]]（LIS），打破大学必须追逐硅谷式“重磅专利许可”的一刀切迷思，提出大学支撑本地系统四大产业转型（新产业形成、产业移植、产业多元化、既有产业升级）的差异化匹配模型。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–24)]]
-> - **2005 — 军民协同创新系统与采购生命周期规律** 法布里奇奥与莫厄里（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]]）从国家创新系统历史演进切入，揭示美国战后以国防部（DoD）为核心的非集中式联邦研发资助与先导采购如何通过[[University-Based Research Infrastructure|大学科研基础设施]]、早期技术衍生与第二货源（[[Second-Sourcing]]）三大渠道孵化出全美 IT 产业集群，并系统确立了从萌芽期军品外溢到成熟期由民向军“逆向技术溢出”（Reverse Spillovers）的创新系统生命周期规律。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–44)]]
+> - **2005 — 军民协同创新系统与采购生命周期规律** 法布里奇奥与莫厄里（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]]）从国家创新系统历史演进切入，揭示美国战后以国防部（[[Department of Defense|DoD]]）为核心的非集中式联邦研发资助与先导采购如何通过[[University-Based Research Infrastructure|大学科研基础设施]]、早期技术衍生与第二货源（[[Second-Sourcing]]）三大渠道孵化出全美 IT 产业集群，并系统确立了从萌芽期军品外溢到成熟期由民向军“逆向技术溢出”（Reverse Spillovers）的创新系统生命周期规律。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–44)]]
 > - **2009 — 多通道互动学习与知识池重塑** 卡拉卡等（Caraça et al.）提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，指出创新涉及科技、组织与营销三类知识池，创新系统的关键在于构筑企业与微观/宏观制度环境双向共演的组织界面。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
 > - **2018 — 从系统修补到使命导向[[Market Shaping and Creating|市场塑造]]** [[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）指出传统[[Innovation Policy Paradigms|创新系统范式]]止步于“系统修补”（System Fixing），主张从被动弥补网络与制度失灵转向主动“市场塑造与创造”，围绕重大社会挑战设定技术与经济发展的明确方向。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]
 > - **2018 至今 — [[Transformative Change|变革转型范式]]（Transformative Change）反思** 肖特与斯泰因穆勒（Schot & Steinmueller, 2018）指出传统创新系统范式过于聚焦经济增长优化与被动修复系统失灵，面对气候危机与社会不平等，亟需演进至具备“方向性”（[[Directionality of Innovation|directionality]]）的第三代政策范式。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]

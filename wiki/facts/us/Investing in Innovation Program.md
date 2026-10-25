@@ -65,13 +65,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> **创新投资项目（Investing in Innovation Fund, i3）** 由美国教育部创新与改进办公室（Office of Innovation and Improvement, OII）于 2009 年依据《美国复苏与再投资法案》（American Recovery and Reinvestment Act, ARRA）正式设立，是美国联邦政府为推动教育领域[[Evidence-Based Reform\|证据本位改革]]（Evidence-Based Reform, EBR）所开展的规模最大的分层资助计划，总计投入超过 14 亿美元用于扶持具备实证潜力的创新教育项目并实施严格的第三方独立效果评估。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24)]]
+> **创新投资项目（Investing in Innovation Fund, i3）** 由[[United States Department of Education|美国教育部]]创新与改进办公室（Office of Innovation and Improvement, OII）于 2009 年依据《美国复苏与再投资法案》（American Recovery and Reinvestment Act, ARRA）正式设立，是美国联邦政府为推动教育领域[[Evidence-Based Reform\|证据本位改革]]（Evidence-Based Reform, EBR）所开展的规模最大的分层资助计划，总计投入超过 14 亿美元用于扶持具备实证潜力的创新教育项目并实施严格的第三方独立效果评估。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24)]]
 
 > [!program-context] 项目背景
 > - **立项周期** 2009–2016 年（共执行 7 轮竞争性拨款评审；2015 年《[[Every Student Succeeds Act\|每一个学生成功法]]》ESSA 颁布后，于 2017 年正式转型升级为[[Education Innovation and Research\|教育创新与研究项目]]（Education Innovation and Research, EIR））。

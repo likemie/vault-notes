@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -78,7 +78,7 @@ updated: 2026-10-22
 > [!def] Regression Discontinuity Design
 > **断点回归设计（Regression Discontinuity Design, RDD）** 最早由 Donald L. Thistlethwaite 与 Donald T. Campbell 于 1960 年创立，是指依据某个连续**驱动[[Variable\|变量]]（Running Variable / Forcing Variable）** 在预设**截断阈值（Cut-off Point）** 处的分配规则，将受试对象严格或概率性划分为干预组与对照组，进而在阈值邻域内识别干预因果效应的准实验方法([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 320–324]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 1327]])。
 >
-> 其核心[[Causality\|因果推断]]逻辑建立在**局域[[Random Assignment\|随机化]]假设（Local Randomization Assumption）** 之上：在紧邻阈值的极小带宽（Bandwidth）范围内，个体的潜能、动机与家庭背景等不可测混杂特征均是平滑连续分布的；唯独干预分配状态在阈值处发生非连续阶跃。因此，阈值两侧[[Dependent Variable\|结果变量]]的垂直跳跃量可直接无偏地归因为干预的**局部平均处理效应（Local Average Treatment Effect, LATE）**。在美国教育部 [[What Works Clearinghouse\|WWC]] 因果设计审查体系中，符合质量标准的 RDD 被赋予与 [[Randomised Controlled Trials\|RCT]] 同等的一级最高资质（Meets Standards Without Reservations）([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–11]])。
+> 其核心[[Causality\|因果推断]]逻辑建立在**局域[[Random Assignment\|随机化]]假设（Local Randomization Assumption）** 之上：在紧邻阈值的极小带宽（Bandwidth）范围内，个体的潜能、动机与家庭背景等不可测混杂特征均是平滑连续分布的；唯独干预分配状态在阈值处发生非连续阶跃。因此，阈值两侧[[Dependent Variable\|结果变量]]的垂直跳跃量可直接无偏地归因为干预的**局部平均处理效应（Local Average Treatment Effect, LATE）**。在[[United States Department of Education|美国教育部]] [[What Works Clearinghouse\|WWC]] 因果设计审查体系中，符合质量标准的 RDD 被赋予与 [[Randomised Controlled Trials\|RCT]] 同等的一级最高资质（Meets Standards Without Reservations）([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–11]])。
 
 > [!method-scope] 方法范围
 > - **研究对象** 依赖连续分数进行资源分配的教育与公共政策方案（如中[[Gaokao\|高考]]择优录取、奖学金评定、学业辅导划线、贫困家庭资助线、按出生日期划定的小学入学年龄截点）。
@@ -156,7 +156,7 @@ updated: 2026-10-22
 ---
 
 > [!fit-grid] 适用判断
-> - **适合使用** 依据连续分数或测量值切分资格的政策干预（如托福/GRE 奖学金线、中考划线特许学校、特教筛查临界值）；按法定出生日期划定的小学入学年龄断点（Age-Cutoff RDD）；贫困生助学金申请打分门槛。
+> - **适合使用** 依据连续分数或测量值切分资格的政策干预（如托福/GRE 奖学金线、中考划线[[Charter Schools|特许学校]]、特教筛查临界值）；按法定出生日期划定的小学入学年龄断点（Age-Cutoff RDD）；贫困生助学金申请打分门槛。
 > - **谨慎使用** 驱动[[Variable\|变量]]易被基层教师或受试者主观调控（如平时[[Homework\|作业]]打分）；[[Sample Size Determination\|样本量]]过小导致断点局部有效观测点稀疏。
 > - **不适合使用** 分配规则模糊、多重标准混杂或缺乏连续运行变量的常态课程对比（应选用配对准实验或 [[Randomised Controlled Trials\|RCT]]）。
 

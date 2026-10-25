@@ -76,7 +76,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-27
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Eisenhart_Towne_2003_ER"
@@ -155,7 +155,7 @@ issuing_organization: ""
 #### 1. 学界争论把多部法律笼统等同于行政控制，忽略了不同政策文本的制度差异
 
 > [!critique-method] 围绕[[Scientifically Based Research|科学本位研究]]形成的三种主要观点
-> - **[[Positivism|实证主义]]阵营的支持立场（[[Argument_Slavin_2002_ER|Slavin, 2002]]）** 肯定实验设计与[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）的规范作用，认为教育研究只有建立硬核因果证据，才能像现代医学与农业一样取得累积性进展。
+> - **[[Positivism|实证主义]]阵营的支持立场（[[Argument_Slavin_2002_ER|Slavin, 2002]]）** 肯定[[Experimental Research|实验设计]]与[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）的规范作用，认为教育研究只有建立硬核因果证据，才能像现代医学与农业一样取得累积性进展。
 > - **解释与批判阵营的[[Epistemology|认识论]]质疑（Howe, in press; Lather, 2003; St. Pierre, 2002）** 批评将[[Experimental Research|实验法]]奉为唯一标准是在复活逻辑实证主义，忽视了数十年来的方法论反思，严重排斥历史、文化、质性与[[Action Research|行动研究]]等认识路径。
 > - **政治经济学维度的现实分析（Berliner, 2002; Graham, 2002）** 指出教育研究公信力不足的根源主要在于政府长期资金投入匮乏以及政党政治干预，而非缺乏研究方法本身。
 
@@ -165,7 +165,7 @@ issuing_organization: ""
 #### 2. 《卓越阅读法》将财政拨款与科学证据挂钩，开创了强制资金合规的立法先例
 
 > [!case] 罗伯特·斯威特（Robert Sweet）起草 [[Reading Excellence Act|REA]] 科学定义的立法过程
-> - **历史背景** 1997 年国会启动 K–12 阅读项目重新授权。时任[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]主席比尔·古德林（Bill Goodling）注意到 NRC 与国家阅读专家组（[[National Reading Panel]], NRP）正在系统梳理儿童早期阅读文献，决定通过立法将研究成果直接转化为政策要求。
+> - **历史背景** 1997 年国会启动 K–12 [[Reading Programs|阅读项目]]重新授权。时任[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]主席比尔·古德林（Bill Goodling）注意到 NRC 与国家阅读专家组（[[National Reading Panel]], NRP）正在系统梳理儿童早期阅读文献，决定通过立法将研究成果直接转化为政策要求。
 > - **立法目标** 委员会多数党资深幕僚罗伯特·斯威特（Robert Sweet, 2003 年 7 月 16 日访谈）证实，起草该条款的核心意图是强制要求受资助者必须开发或选用基于最佳科学证据的阅读方案，以确保公共资金专款专用。
 > - **专家咨询网络** 为确立条文中的科学标准，斯威特查阅了包括 NRC 在内的科研机构资料，并集中咨询了约 20–25 位大学学者（绝大多数具有认知心理学背景），与他们反复传阅并修改条文草案。
 > - **制度后果** 该条款最终作为法定科学定义写入 1999 年《[[Reading Excellence Act|卓越阅读法]]》（REA），并在没有引发学界普遍关注的情况下顺利通过，成为后续多项联邦教育法案界定科学证据的最初范本。
@@ -241,7 +241,7 @@ issuing_organization: ""
 > | **方法选择原则** | 由立法预先钦定实验方法规范 | 条文明确写入“根据研究具体情况采用契合所提问题的设计与方法” |
 
 > [!attention] 行政执行层面依然存在的实验偏好惯性
-> 尽管法律条文实现了方法契合问题的重大突破，但行政执行层面依然存在惯性收紧：美国教育部在 2002–2007 年战略规划中提出至 2004 年将 75% 因果研究采用随机分配的目标，且 IES 在 2002 财年资助的因果项目中全部采用了随机设计，表明行政规程仍倾向于向量化实验倾斜。
+> 尽管法律条文实现了方法契合问题的重大突破，但行政执行层面依然存在惯性收紧：[[United States Department of Education|美国教育部]]在 2002–2007 年战略规划中提出至 2004 年将 75% 因果研究采用随机分配的目标，且 IES 在 2002 财年资助的因果项目中全部采用了随机设计，表明行政规程仍倾向于向量化实验倾斜。
 
 #### 3. 有效干预清算中心在公众评议推动下修正审查规程，承认定量实验并非科学的唯一标准
 

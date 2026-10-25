@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 背景
@@ -71,7 +71,7 @@ updated: 2026-10-22
 > [!example] 实施情况
 > 公约建立了八个由[[Normal School\|师范学院]]和大学学科教学专家、教育科学研究者组成的工作组，分别覆盖现代语言、法语与拉丁语、艺术、数学科学与地理、技术与信息技术、人文社会科学与公民教育、体育健康、数字教育等领域，目标是为教师提供适合共同核心课程引入的工具和项目([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.174-175]])。
 
-工作组在 2017 年列出 425 个工具或项目，但只有 61 个曾由教育研究者测试，只有 13 个即总量约 3% 采用实验设计测试([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, p.175]])。由于严格按英美式证据层级会排除约 97% 的候选工具，改革团队转而建立[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]，把专家验证、[[Case Study|案例研究]]、横断研究、相关或[[Longitudinal Study|纵向研究]]、实验和准[[Experimental Research|实验研究]]放在同一框架内，并为不同方法设置最低质量标准([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp.175-178]])。
+工作组在 2017 年列出 425 个工具或项目，但只有 61 个曾由教育研究者测试，只有 13 个即总量约 3% 采用[[Experimental Research|实验设计]]测试([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, p.175]])。由于严格按英美式证据层级会排除约 97% 的候选工具，改革团队转而建立[[Inclusive Evidence Validation Typology|包容性证据验证类型学]]，把专家验证、[[Case Study|案例研究]]、横断研究、相关或[[Longitudinal Study|纵向研究]]、实验和准[[Experimental Research|实验研究]]放在同一框架内，并为不同方法设置最低质量标准([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, pp.175-178]])。
 
 > [!success] 效果与评价
 > 从[[Evidence-Based Reform\|证据本位改革]]角度看，公约的明确进展在于：官方文本第一次承认需要按有效性对项目进行试点、验证和扩大；研究者、学科教学专家、教育当局与教师之间形成了互动过程；工作组识别了与课程和研究建议相匹配的潜在项目；不同方法类别的最低标准被共同讨论出来([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.182]])。

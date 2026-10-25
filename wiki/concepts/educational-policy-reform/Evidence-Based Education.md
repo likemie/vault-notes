@@ -175,7 +175,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -196,7 +196,7 @@ updated: 2026-10-25
 > [!citation-card] [[Ewald Terhart|埃瓦尔德·特哈特]]论证据本位超级综合的修补金字塔隐喻
 > 既然他的超级分析同时支持了[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说，显而易见的是，[[John Hattie|哈蒂]]事实上并没有找到研究学校、教学与教师的圣杯。与此相反，他正在极其辛劳地建造一座庞大的金字塔：一方面，它稳固矗立，已经具有相当的宽度与高度以及相对稳定的形态，自然无法被轻易搬移；但另一方面，这座金字塔的某些部分在不断被修复，而且最重要的是，在所有维度上不断被扩建。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 436–437)]]
 >
-> *Since his [[Meta-meta-analysis|mega-analysis]] supports the stability and the variability [[Hypothesis|hypotheses]] as well, it is obvious that Hattie in fact has not found the Holy Grail of research on schooling, teaching, and teachers. Instead of this he intensely labours on a very large pyramid, which on the one hand is firmly placed, already has a considerable width and height and a rather stable form. Of course it cannot be removed from its place. However, on the other hand, the pyramid is constantly restored in some parts and—above all—constantly extended in all its dimensions.*
+> *Since his mega-analysis supports the stability and the variability [[Hypothesis|hypotheses]] as well, it is obvious that Hattie in fact has not found the Holy Grail of research on schooling, teaching, and teachers. Instead of this he intensely labours on a very large pyramid, which on the one hand is firmly placed, already has a considerable width and height and a rather stable form. Of course it cannot be removed from its place. However, on the other hand, the pyramid is constantly restored in some parts and—above all—constantly extended in all its dimensions.*
 
 > [!citation-card] [[Gert Biesta|格特·比斯塔]]论证据本位教育的全球政策吸引力
 > 诸如教育等专业实践应当建立在证据之上或至少受其指导的理念，持续吸引着众多政治家、政策制定者、实践者和研究者的想象力。[[Argument_Biesta_2010_SPE|(Biesta, 2010, p. 491)]]
@@ -236,7 +236,7 @@ updated: 2026-10-25
 > [!feature] 核心构成要素
 > - **因果证据体系与实验分级门槛** 确立[[Randomised Controlled Trials|随机对照试验]]为因果证据黄金标准；要求干预方案本身经过独立实验检验，以此超越宽泛的科学原则修辞；通过分层拨款将证据等级与政策准入硬性绑定。
 > - **四重深层[[Epistemology|认识论假设]]与哲学解构** 隐含休谟因果恒常观、机械干预隐喻、线性科学应用假定以及单向知识供给假设，构成批判性教育哲学与实在论解构的核心靶标。
-> - **多维转译机制与中介基础设施** 涵盖线性、多流与混战三种政策交互轨迹，依赖研究资助升降螺旋驱动，并通过实践指南、[[Research Schools Network|研究学校网络]]与[[Educational Brokerage Agency|证据经纪人]]突破课堂转译瓶颈。
+> - **多维转译机制与中介基础设施** 涵盖线性、多流与混战三种政策交互轨迹，依赖研究资助升降螺旋驱动，并通过实践指南、[[Research Schools Network|研究学校网络]]与[[Boundary Spanner|证据经纪人]]突破课堂转译瓶颈。
 > - **实践规范论争与强弱版本分野** 包含 Fitz-Gibbon 提出的循证三个必要性论证，展现了强版本（证据排他规训）与弱版本（证据知情整合）关于教师专业属性的技术化对立。
 
 ---
@@ -390,11 +390,11 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > - **1995年 — [[OECD]] 开启研究与政策脱节反思** 经济合作与发展组织（OECD）发布报告，首次正式指出教育领域长期存在研究成果、公共政策与课堂创新之间脱节的结构性困境。
 > - **1996年 — 英国发起教育医学类比大讨论** 戴维·哈格里夫斯（David Hargreaves）在英国[[Teacher Training Agency|教师培训署]]（TTA）年度演讲中将教育研究与医学进行不利对比，指责教育研究缺乏因果确定性，标志着英国 EBE 运动的政策起点。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 3–4)]]
 > - **1997年 — 循证教育方法论辩护与[[Effect Size|效应量]]倡议** 卡罗尔·菲茨-吉本（Carol Fitz-Gibbon）提出循证实践的三个必要性论证，倡导以效应量检验替代单一[[Statistical Significance|统计显著性]]，成为早期 EBE 理论构建的关键事件。
-> - **1998年 — 美国立法首次挂钩实证证据与联邦拨款** 美国国会通过全面学校改革（Comprehensive School Reform, CSR）立法，设立每年 1.5 亿美元专项拨款，强制要求学校采用经严格检验的有效模式。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 15)]]
+> - **1998年 — 美国立法首次挂钩实证证据与联邦拨款** [[United States Congress|美国国会]]通过全面学校改革（Comprehensive School Reform, CSR）立法，设立每年 1.5 亿美元专项拨款，强制要求学校采用经严格检验的有效模式。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 15)]]
 > - **1999年 — 循证教育概念的理论阐述** 菲利普·戴维斯（Philip Davies）发表《什么是证据本位教育？》，系统阐释教育专业实践与循证医学的关系，确立了 EBE 的经典学术定名。
 > - **2000年 — 跨学科证据中介组织扩展** 伦敦大学 [[EPPI-Centre]] 与坎贝尔协作网（[[Campbell Collaboration]]）相继建立，推动社会科学与教育领域系统综述标准的建制化。
 > - **2001年 — 美国 [[No Child Left Behind Act 2001|NCLB]] 法案确立[[Scientifically Based Research|科学本位研究]]法定地位** 《不让一个孩子掉队法案》（NCLB）全文提及基于科学原则的研究 110 次，从联邦法律层面将实证标准确立为项目拨款的前提。[[Argument_Slavin_2002_ER|(Slavin, 2002, pp. 15–16)]]
-> - **2002年 — 美国设立 [[What Works Clearinghouse|WWC]] 与支持者纲领系统确立** 美国教育部创建有效工作清算所（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）；怀特赫斯特（Whitehurst）推动因果研究全面转向[[Random Assignment|随机分配]]设计；斯拉文（[[Argument_Slavin_2002_ER|Slavin, 2002]]）发表 [[American Educational Research Association|AERA]] 纲领性演讲，奠定 EBE 政策支持阵营的完整理论体系。
+> - **2002年 — 美国设立 [[What Works Clearinghouse|WWC]] 与支持者纲领系统确立** [[United States Department of Education|美国教育部]]创建有效工作清算所（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）；怀特赫斯特（Whitehurst）推动因果研究全面转向[[Random Assignment|随机分配]]设计；斯拉文（[[Argument_Slavin_2002_ER|Slavin, 2002]]）发表 [[American Educational Research Association|AERA]] 纲领性演讲，奠定 EBE 政策支持阵营的完整理论体系。
 > - **2007年 — OECD 强化什么有效议程与 Biesta 哲学批判发轫** OECD 发布《教育中的证据》力推以 RCT 作为最佳因果识别工具；比斯塔（[[Gert Biesta]]）发表论文《为什么什么有效行不通》，首次提出 EBE 的民主缺陷概念。
 > - **2009年 — 德意志各州教育行政纳入循证监测** 德国在 [[PISA]] 震荡后逐步将外部督导、全州统一测试（[[Vergleichsarbeiten|VERA]]）与循证监测纳入日常行政常规（[[Argument_Dedering_2009_EERJ|Dedering, 2009]]）；[[EU|欧盟]] ET 2020 将进展监测确立为政策基础。
 > - **2010年 — Biesta 三重缺陷理论确立与 WWC 纳入 [[Single-Case Design|SCD]] 标准** 比斯塔发表专著章节，正式确立知识、效力与应用三重[[Deficit Framing|缺陷框架]]；WWC 发布单一个案设计（SCD）试点标准，将其确立为 RCT 之外的第二类实验因果证据。
@@ -478,9 +478,9 @@ EBE 的推行建立在一组深层方法论与存在论假设之上，这些预�
 > 美国通过 [[No Child Left Behind Act 2001|NCLB]] 与 [[Every Student Succeeds Act|ESSA]] 联邦立法，将严格的实验因果识别与联邦教育财政拨款建立起深度的制度绑定。
 
 > [!evidence-grid-a] 美国案例索引
-> - [[Comprehensive School Reform Program]] — 1998 年美国国会首次将联邦拨款与严格验证模式直接挂钩的标志性立法。
+> - [[Comprehensive School Reform Program]] — 1998 年[[United States Congress|美国国会]]首次将联邦拨款与严格验证模式直接挂钩的标志性立法。
 > - [[No Child Left Behind Act 2001]] — 将[[Scientifically Based Research|科学本位研究]]作为联邦教育项目法定准入准则。
-> - [[What Works Clearinghouse]] — 美国教育部创建的全球首个国家级循证教育中央清算机构。
+> - [[What Works Clearinghouse]] — [[United States Department of Education|美国教育部]]创建的全球首个国家级循证教育中央清算机构。
 > - [[Tennessee STAR Project 1985-1989]] — 最受推崇的[[Class Size|班额]] RCT 实验，揭示实验结论在向全州推广中因教师质量混淆而外推失效。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 6)]]
 > - [[California Class Size Reduction 1996]] — 全州小班化改革中教师质量稀释成为关键混淆机制的政策反思案例。
 > - [[Students and Teachers Accessing Tomorrow]] — [[Technology Infusion|技术整合]]改革中证据解释受制于政治与经济多流交互的混战案例。

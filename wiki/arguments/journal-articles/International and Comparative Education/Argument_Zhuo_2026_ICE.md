@@ -77,7 +77,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-09
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Zhuo_2026_ICE"
@@ -134,7 +134,7 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **核心政策与法规** | 《2022 年芯片与科学法案》（公法第 117-167 号）、2020–2025 年历年《国防授权法》（National Defense Authorization Act, NDAA）、2026 年《人工智能创新未来法案》（Future of AI Innovation Act）提案、白宫《调整半导体与制造设备进口》总统公告（Proclamation 11002）、拜登政府 100 天供应链审查报告（EO 14017）。 |
-> | **行业权威数据源** | 美国半导体行业协会（Semiconductor Industry Association, SIA）《2023/2025 年美国半导体产业现状报告》、SIA 与牛津经济研究院联合发布的《Chipping Away: Assessing and Addressing the Labor Market Gap Facing the U.S. Semiconductor Industry》劳动力短缺报告、美国商务部部长公开演讲记录。 |
+> | **行业权威数据源** | 美国半导体行业协会（Semiconductor Industry Association, SIA）《2023/2025 年美国半导体产业现状报告》、SIA 与牛津经济研究院联合发布的《Chipping Away: Assessing and Addressing the Labor Market Gap Facing the U.S. Semiconductor Industry》劳动力短缺报告、[[Department of Commerce\|美国商务部]]部长公开演讲记录。 |
 > | **典型高校改革实践** | ① 基础研究标准：加利福尼亚大学伯克利分校电子工程与计算机科学系；② 人才梯队：亚利桑那州立大学 Ira A. Fulton 工程学院与微电子[[Workforce Development\|劳动力发展]]中心；③ 中试验证：纽约州 Albany NanoTech 综合体与麻省理工学院 MIT.nano；④ 区域网络：德克萨斯大学奥斯汀分校 Cockrell 工程学院、宾夕法尼亚州立大学牵头的 14 校协同联盟。 |
 
 ---
@@ -203,7 +203,7 @@ issuing_organization: ""
 > - **中层技术应用人才（Mid-level Applied Technical Workforce）**
 >   推动课程体系与制造岗位制度化对接。ASU Fulton 工程学院联合爱德万测试与恩智浦半导体共同开发工业级微电子测试课程，将企业 6 个月入职培训实操技能转化为大学学分课程，面向本科及以上学生开放，大幅缩短[[Research Translation|技术转化]]周期（Fulton Schools, 2023）。
 > - **基层技能型操作人才（Foundational & Operational Workforce）**
->   依托模块化与可堆叠微证书体系。ASU 微电子[[Workforce Development|劳动力发展]]中心推出总计 20–30 小时的分阶段微电子封装课程与职业证书，并通过暑期桥梁计划联合预[[Chinese Academy of Sciences|科学院]]与中小[[Corporate Education|企业教育]]基金会重点招募女性和少数族裔等代表性不足群体，兼顾社会公平与产业[[Competitiveness|竞争力]]（ASU News, 2023）。
+>   依托模块化与可堆叠微证书体系。ASU 微电子[[Workforce Development|劳动力发展]]中心推出总计 20–30 小时的分阶段微电子封装课程与职业证书，并通过暑期桥梁计划联合预科学院与中小[[Corporate Education|企业教育]]基金会重点招募女性和少数族裔等代表性不足群体，兼顾社会公平与产业[[Competitiveness|竞争力]]（ASU News, 2023）。
 
 #### 3. 协同整体生态：跨部门治理平台的制度化嵌入
 
@@ -236,7 +236,7 @@ issuing_organization: ""
 > - **城市网络维度（Urban Innovation Network）**
 >   依据 Spirou (2021) 的[[Anchor Institution|锚定机构]]理论，ASU 在凤凰城都会区的扩张深刻重塑了城市空间与产业结构，吸引了[[Taiwan Semiconductor Manufacturing Corporation|台湾积体电路制造公司]]（Taiwan Semiconductor Manufacturing Company, TSMC）与英特尔等 24 家半导体相关企业投资入驻，助推凤凰城跃升为全美前列高技术驱动型创新城市。
 > - **区域网络维度（Regional Cross-University Consortium）**
->   2023 年美国国防部高级研究计划局（[[DARPA|Defense Advanced Research Projects Agency]], [[DARPA]]）与半导体研究联盟（[[Semiconductor Research Corporation]], [[Semiconductor Research Corporation|SRC]]）联合启动[[Joint University Microelectronics Program 2.0|联合大学微电子2.0计划]]（Joint University Microelectronics Program 2.0, JUMP 2.0），由宾夕法尼亚州立大学牵头 CHIMES 中心，联合斯坦福大学、MIT 等 14 所顶尖高校协同攻坚[[Heterogeneous Integration|异构集成]]与先进封装。
+>   2023 年[[Department of Defense|美国国防部]]高级研究计划局（[[DARPA|Defense Advanced Research Projects Agency]], [[DARPA]]）与半导体研究联盟（[[Semiconductor Research Corporation]], [[Semiconductor Research Corporation|SRC]]）联合启动[[Joint University Microelectronics Program 2.0|联合大学微电子2.0计划]]（Joint University Microelectronics Program 2.0, JUMP 2.0），由宾夕法尼亚州立大学牵头 CHIMES 中心，联合斯坦福大学、MIT 等 14 所顶尖高校协同攻坚[[Heterogeneous Integration|异构集成]]与先进封装。
 > - **国家网络维度（National Distributed Topology）**
 >   改变以往半导体创新高度集聚于硅谷的单中心格局，依托亚利桑那宏技术工程中心、德克萨斯大学奥斯汀分校以及纽约 NY SMART I-Corridor 等新兴节点，构建具备高容灾抗风险能力的多极分布式网络。
 

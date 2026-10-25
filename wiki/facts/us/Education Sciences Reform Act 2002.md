@@ -16,7 +16,7 @@ fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "美国国会（United States Congress）"
+issuing_organization: "[[United States Congress|美国国会（United States Congress）]]"
 tags:
   - fact/policy
   - region/us
@@ -54,7 +54,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-27
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -107,7 +107,7 @@ updated: 2026-10-22
 ---
 
 > [!actor-grid] 实施角色分工
-> - **发布主体** 美国国会立法通过，总统签署颁布。
+> - **发布主体** [[United States Congress|美国国会]]立法通过，总统签署颁布。
 > - **执行主体** 新设立的[[Institute of Education Sciences|教育科学研究院]]（IES）及其下设国家教育研究中心、国家教育统计中心等专门机构。
 > - **适用对象** 接受联邦教育科研拨款的高等院校、科研机构与实证研究人员。
 > - **政策工具** 设立具有法律保障的科研基金、资助指南规范、同行审查系统与成果评估平台。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–36)]]
@@ -120,7 +120,7 @@ updated: 2026-10-22
 ---
 
 > [!actor-grid] 权力—利益矩阵
-> - **高权力 · 高利益 — 关键行动者** 国会[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]领袖迈克尔·卡斯尔（Michael Castle）与比尔·古德林（Bill Goodling）、美国教育部及新设立的 [[Institute of Education Sciences|IES]] 领导层。
+> - **高权力 · 高利益 — 关键行动者** 国会[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]领袖迈克尔·卡斯尔（Michael Castle）与比尔·古德林（Bill Goodling）、[[United States Department of Education|美国教育部]]及新设立的 [[Institute of Education Sciences|IES]] 领导层。
 > - **高权力 · 低利益 — 潜在否决者或盟友** 国会两党议员多数群体，在阅读危机与高利害问责的宏观政治语境下倾向于支持提高科研严谨性的立法。
 > - **低权力 · 高利益 — 受影响群体** 全美教育研究学者社群与教育学院，其科研[[Paradigm|范式]]合法性与联邦经费获取受到资助准入标准的根本塑造。
 > - **低权力 · 低利益 — 边缘行动者** 地方学区与普通一线教师，受科研资助间接影响，但直接受服务提供类法案规约。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–34)]]

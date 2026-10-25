@@ -33,7 +33,7 @@ related_methods: []
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -43,7 +43,7 @@ updated: 2026-10-22
 
 > [!concept-lens] 概念透镜
 > - **含义** 科学知识的实证属性决定了其必须建立在观察与实验之上；实践探究是将抽象数理公式转化为具身体验与实证反思的核心桥梁。
-> - **用途** 激发青少年对科学探索的内在好奇心，培养实验设计、数据采集、误差分析与团队协作技能。
+> - **用途** 激发青少年对科学探索的内在好奇心，培养[[Experimental Research|实验设计]]、数据采集、误差分析与团队协作技能。
 > - **边界** 坚决区别于机械遵照讲义操作的“菜谱式验证”（Recipe Following），强调具有探究[[Open-Mindedness|开放性]]、[[Variable\|变量]]控制思考与[[Nature of Science\|科学本质]]反思的高质量实践。
 
 ---

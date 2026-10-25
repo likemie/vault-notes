@@ -40,7 +40,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: 2026-10-22
+updated: 2026-10-26
 year: 2023
 doi: ""
 citation_aliases:
@@ -68,7 +68,7 @@ citation_aliases:
 > - 扩展样本中，教育干预 [[Randomised Controlled Trials\|RCT]] 标准化成绩[[Effect Size\|效应量]]的 30/50/70 百分位为 0.02/0.10/0.21；按研究平均后为 0.04/0.12/0.25。
 > - 36% 的效应量小于 0.05；Kraft 认为这显示教育干预常常无法在标准化[[Academic Achievement\|学业成绩]]上产生可见改进。
 > - Evans and Yuan(2022)在 96 项中低收入国家教育影响评估中也发现中位数效应量为 0.10，30/70 百分位为 0.03/0.18，与 Kraft 数据集相近。
-> - 美国教育部委托且要求提交结果报告的研究子样本中位数效应量为 0.03，低于完整样本的 0.10；Kraft 将其作为[[Publication Bias\|发表偏倚]]或大规模政府资助试验差异的可能信号。
+> - [[United States Department of Education|美国教育部]]委托且要求提交结果报告的研究子样本中位数效应量为 0.03，低于完整样本的 0.10；Kraft 将其作为[[Publication Bias\|发表偏倚]]或大规模政府资助试验差异的可能信号。
 > - Fryer(2017)综述中 94% 的处理-对照比较是干预组做新事情、控制组维持原有实践，说明典型教育 RCT 的效应方向通常具有政策含义。
 
 > [!quote] 关键引用

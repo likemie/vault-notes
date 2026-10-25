@@ -181,7 +181,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!def] Generative Artificial Intelligence
@@ -344,7 +344,7 @@ updated: 2026-10-22
 > [!concept-lens] 课程评价变革与[[Epistemology\|认识论]]主体性维度
 > 该命题揭示了生成式技术对传统教育评估假设的根本颠覆，指明了未来课程设计与素养培养的重构方向。
 
-> [!claim] The Royal Society
+> [!claim] [[Royal Society|The Royal Society]]
 > **数智时代[[Scientific Literacy\|科学素养]]从事实复现向证据核验与 AI 素养的重构** 生成式人工智能的普及使得传统的静态事实记忆与套路化文本写作在评估中迅速贬值。科学与[[General Education\|通识教育]]必须转向以证据评估、模型偏见识别、数据批判性审读为核心的综合素养，将[[AI Literacy\|人工智能素养]]确立为现代公民的核心能力基石，推动学生从被动的信息消费者转变为具备[[Epistemological Vigilance\|认识论警觉]]的质询者。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 34–36)]]
 
 > [!claim] Medina, J.
@@ -560,7 +560,7 @@ updated: 2026-10-22
 > |  |  | 讲授式教学 |  | k = 21 | <span class="mx-bar ef-bar" title="Hedges' g 0.396"><span class="b8"></span></span>0.396 | — | — |
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025, p. 10)]] | 干预因素（结果分类） | 语言技能 | Hedges' $g$ | k=21 | <span class="mx-bar ef-bar" title="Hedges' g 2.331"><span class="b28"></span></span>2.331 | — | $p < 0.001$ |
 > |  |  | 学业成绩 |  | k=25 | <span class="mx-bar ef-bar" title="Hedges' g 0.633"><span class="b13"></span></span>0.633 | — | — |
-> |  |  | 情感动机 |  | k=25 | <span class="mx-bar ef-bar" title="Hedges' g 0.617"><span class="b12"></span></span>0.617 | — | — |
+> |  |  | [[Affective Outcomes\|情感动机]] |  | k=25 | <span class="mx-bar ef-bar" title="Hedges' g 0.617"><span class="b12"></span></span>0.617 | — | — |
 > |  |  | 高阶思维 |  | k=16 | <span class="mx-bar ef-bar" title="Hedges' g 0.580"><span class="b12"></span></span>0.580 | — | — |
 > |  |  | 元认知 |  | k=10 | <span class="mx-bar ef-bar" title="Hedges' g 0.078"><span class="b2"></span></span>0.078 | — | — |
 > |  | 国家 ICT 水平 | 低 ICT | Hedges' $g$ | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 1.764"><span class="b28"></span></span>1.764 | — | $Q_B = 21.69, p < .001$ |

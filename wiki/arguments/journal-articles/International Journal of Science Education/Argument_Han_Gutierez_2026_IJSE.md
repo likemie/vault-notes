@@ -62,7 +62,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-22
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Han_Gutierez_2026_IJSE"
@@ -98,7 +98,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **认识论警觉理论**<br>[[Epistemological Vigilance]] | 源自认知科学与科学教育（[[Dan Sperber\|Sperber et al., 2010]]; Bielik & Krell, 2025; Tseng et al., 2021），指学习者在接收外界传递的信息时保持的主动核验与批判审查机制，涵盖三个维度：内容评估（判断内容是否合理、片面或脱离语境）、[[Source Evaluation\|信源评估]]（考察信息提供者的专业性与[[Reliability\|可靠性]]）以及接收者评估（反思自身的理解程度与先验假设）。 |
-> | **显性认识论支架理论**<br>[[Epistemic Scaffolding]] | 源自计算机支持的协作学习与分布式支架理论（Lin & Puntambekar, 2019; Puntambekar, 2021; Barzilai et al., 2020），主张通过清晰展示学科评价标准与反思提示，帮助学生掌握如何评价知识主张与论证质量的规则。 |
+> | **显性认识论支架理论**<br>[[Epistemic Scaffolding]] | 源自计算机支持的[[Collaborative Learning\|协作学习]]与分布式支架理论（Lin & Puntambekar, 2019; Puntambekar, 2021; Barzilai et al., 2020），主张通过清晰展示学科评价标准与反思提示，帮助学生掌握如何评价知识主张与论证质量的规则。 |
 > | **科学解释评价标准**<br>[[Scientific Explanation]] | 源自科学教育研究（[[William A. Sandoval\|Sandoval, 2005]]; de Andrade et al., 2019），确立了优质科学解释的四项核心准则：相关性（回答核心问题）、因果叙事（揭示因果链条）、概念框架（依托系统科学概念）与适切表征水平（微观与宏观机制匹配），以此作为学生评估生成内容质量的操作基准。 |
 > | **人机协同中的认识主体性**<br>[[Epistemic Agency]] | 强调在人工智能辅助学习中，学生必须始终保有对知识有效性的判断权、证据的核验权与解释方案的决定权，防止将思考过程完全外包给算法（[[Argument_Wu_2025_ER\|Wu et al., 2025]]; [[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）。 |
 

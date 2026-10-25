@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -141,7 +141,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 确定性需求概念演进历程
-> - **1950s–1970s — 战后微电子与计算机工业实践原型** 美国国防部与 [[National Aeronautics and Space Administration|NASA]] 在晶体管、集成电路与大型机启动阶段实施 100% 采购托底，为概念确立提供历史土壤。
+> - **1950s–1970s — 战后微电子与计算机工业实践原型** [[Department of Defense|美国国防部]]与 [[National Aeronautics and Space Administration|NASA]] 在晶体管、集成电路与大型机启动阶段实施 100% 采购托底，为概念确立提供历史土壤。
 > - **1978 年 — [[Jerome E. Schnee|施尼]]提出“保证需求”理论命题** 施尼（[[Argument_Schnee_1978_RP|Schnee, 1978]]）在《政府项目与高技术产业成长》中正式提炼“确定性需求（Assured Demand）”概念，系统定量分析其与[[Learning Economy|学习经济]]的微观结合。
 > - **2011 年 — 莫厄里剖析采购生命周期与效力递减边界** 莫厄里（[[Argument_Mowery_2011_NBER|Mowery, 2011]]）深化确定性需求理论，指出随着民用商业生态形成，政府采购的塑造效力具有生命周期递减性。
 > - **2018 年 — 融入使命导向与[[Market Shaping and Creating|市场共创]]政策体系** [[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）将确定性采购作为市场塑造与共创[[Paradigm|范式]]的核心支柱，指导当代绿色脱碳公共采购实践。

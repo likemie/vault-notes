@@ -364,6 +364,15 @@
         "BRT"
       ]
     },
+    "Cabinet Office": {
+      "path": "wiki/facts/uk/Cabinet Office.md",
+      "names": [
+        "Cabinet Office",
+        "英国内阁办公室",
+        "英国内阁府",
+        "UK Cabinet Office"
+      ]
+    },
     "California Evidence Based Clearinghouse for Child Social and Economic Welfare": {
       "path": "wiki/facts/us/California Evidence Based Clearinghouse for Child Social and Economic Welfare.md",
       "names": [
@@ -691,6 +700,37 @@
         "DARPA Defense Sciences Research Council"
       ]
     },
+    "Department for Education": {
+      "path": "wiki/facts/uk/Department for Education.md",
+      "names": [
+        "Department for Education",
+        "英国教育部",
+        "DfE",
+        "UK Department for Education"
+      ]
+    },
+    "Department of Commerce": {
+      "path": "wiki/facts/us/Department of Commerce.md",
+      "names": [
+        "Department of Commerce",
+        "美国商务部",
+        "United States Department of Commerce",
+        "U.S. Department of Commerce",
+        "US Department of Commerce"
+      ]
+    },
+    "Department of Defense": {
+      "path": "wiki/facts/us/Department of Defense.md",
+      "names": [
+        "Department of Defense",
+        "美国国防部",
+        "United States Department of Defense",
+        "U.S. Department of Defense",
+        "DoD",
+        "Pentagon",
+        "五角大楼"
+      ]
+    },
     "Department of Energy": {
       "path": "wiki/facts/us/Department of Energy.md",
       "names": [
@@ -750,6 +790,15 @@
         "早期干预基金会"
       ]
     },
+    "Economic and Social Research Council": {
+      "path": "wiki/facts/uk/Economic and Social Research Council.md",
+      "names": [
+        "Economic and Social Research Council",
+        "英国经济与社会研究理事会",
+        "经济与社会研究理事会",
+        "ESRC"
+      ]
+    },
     "Education Endowment Foundation": {
       "path": "wiki/facts/uk/Education Endowment Foundation.md",
       "names": [
@@ -796,8 +845,7 @@
       "path": "wiki/facts/africa/Education Sub Saharan Africa.md",
       "names": [
         "Education Sub Saharan Africa",
-        "撒哈拉以南非洲教育倡议",
-        "Education Sub Saharan Africa (ESSA)"
+        "撒哈拉以南非洲教育倡议"
       ]
     },
     "Education.org": {
@@ -862,6 +910,15 @@
         "欧盟",
         "European Community",
         "欧洲共同体"
+      ]
+    },
+    "European Commission": {
+      "path": "wiki/facts/eu/European Commission.md",
+      "names": [
+        "European Commission",
+        "欧盟委员会",
+        "欧洲联盟委员会",
+        "欧委会"
       ]
     },
     "Eurydice": {
@@ -1142,6 +1199,15 @@
         "英国高教拨款委员会"
       ]
     },
+    "HM Treasury": {
+      "path": "wiki/facts/uk/HM Treasury.md",
+      "names": [
+        "HM Treasury",
+        "英国财政部",
+        "Her Majesty's Treasury",
+        "His Majesty's Treasury"
+      ]
+    },
     "Homebrew Computer Club": {
       "path": "wiki/facts/us/Homebrew Computer Club.md",
       "names": [
@@ -1318,6 +1384,15 @@
         "南南合作与发展学院",
         "ISSCAD",
         "南南学院"
+      ]
+    },
+    "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira": {
+      "path": "wiki/facts/brazil/Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira.md",
+      "names": [
+        "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira",
+        "巴西国家教育研究院",
+        "INEP",
+        "National Institute for Educational Studies and Research Anísio Teixeira"
       ]
     },
     "Inter-American Development Bank": {
@@ -1648,6 +1723,25 @@
         "密涅瓦大学"
       ]
     },
+    "Ministry of Education of the People's Republic of China": {
+      "path": "wiki/facts/china/Ministry of Education of the People's Republic of China.md",
+      "names": [
+        "Ministry of Education of the People's Republic of China",
+        "中华人民共和国教育部",
+        "中国教育部",
+        "Chinese Ministry of Education",
+        "Ministry of Education of China"
+      ]
+    },
+    "Ministry of Education, Culture, Sports, Science and Technology": {
+      "path": "wiki/facts/japan/Ministry of Education, Culture, Sports, Science and Technology.md",
+      "names": [
+        "Ministry of Education, Culture, Sports, Science and Technology",
+        "文部科学省",
+        "日本文部科学省",
+        "MEXT"
+      ]
+    },
     "Ministry of International Trade and Industry": {
       "path": "wiki/facts/japan/Ministry of International Trade and Industry.md",
       "names": [
@@ -1811,6 +1905,16 @@
         "国家儿童健康与人类发展研究所",
         "尤妮斯·肯尼迪·施莱佛国家儿童健康与人类发展研究所",
         "Eunice Kennedy Shriver National Institute of Child Health and Human Development"
+      ]
+    },
+    "National Institute of Standards and Technology": {
+      "path": "wiki/facts/us/National Institute of Standards and Technology.md",
+      "names": [
+        "National Institute of Standards and Technology",
+        "美国国家标准与技术研究院",
+        "国家标准与技术研究院",
+        "NIST",
+        "National Bureau of Standards"
       ]
     },
     "National Institutes of Health": {
@@ -2091,6 +2195,16 @@
         "RSN",
         "英国研究学校网络",
         "研究学校网络"
+      ]
+    },
+    "Royal Society": {
+      "path": "wiki/facts/uk/Royal Society.md",
+      "names": [
+        "Royal Society",
+        "The Royal Society",
+        "英国皇家学会",
+        "皇家学会",
+        "Royal Society of London"
       ]
     },
     "Royal University of Phnom Penh": {
@@ -2422,6 +2536,15 @@
         "英国循证政策中心"
       ]
     },
+    "UK Research and Innovation": {
+      "path": "wiki/facts/uk/UK Research and Innovation.md",
+      "names": [
+        "UK Research and Innovation",
+        "英国研究与创新署",
+        "英国研究与创新机构",
+        "UKRI"
+      ]
+    },
     "UNESCO": {
       "path": "wiki/facts/global/UNESCO.md",
       "names": [
@@ -2466,6 +2589,25 @@
         "United Kingdom Metascience Unit",
         "英国元科学单元",
         "UK Metascience Unit"
+      ]
+    },
+    "United States Congress": {
+      "path": "wiki/facts/us/United States Congress.md",
+      "names": [
+        "United States Congress",
+        "美国国会",
+        "U.S. Congress",
+        "US Congress"
+      ]
+    },
+    "United States Department of Education": {
+      "path": "wiki/facts/us/United States Department of Education.md",
+      "names": [
+        "United States Department of Education",
+        "美国联邦教育部",
+        "美国教育部",
+        "U.S. Department of Education",
+        "US Department of Education"
       ]
     },
     "United World Colleges": {
@@ -2527,6 +2669,15 @@
         "Universiteiten van Nederland",
         "UNL",
         "Vereniging van Samenwerkende Nederlandse Universiteiten"
+      ]
+    },
+    "Wellcome Trust": {
+      "path": "wiki/facts/uk/Wellcome Trust.md",
+      "names": [
+        "Wellcome Trust",
+        "惠康信托",
+        "惠康信托基金会",
+        "Wellcome"
       ]
     },
     "What Works Clearinghouse": {
@@ -2611,46 +2762,6 @@
     }
   },
   "unresolved": {
-    "The Royal Society": {
-      "seen_in": [
-        "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety.md",
-        "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch01.md",
-        "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch02.md",
-        "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch03.md",
-        "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch04.md",
-        "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch05.md",
-        "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch06.md",
-        "wiki/facts/uk/Bodmer Report 1985.md",
-        "wiki/facts/uk/UK Science Education Tracker.md"
-      ]
-    },
-    "Department for Education": {
-      "seen_in": [
-        "wiki/facts/uk/Academy Programme in England.md",
-        "wiki/facts/uk/Carter Review of Initial Teacher Training.md",
-        "wiki/facts/uk/Initial Teacher Training Core Content Framework.md",
-        "wiki/facts/uk/Pupil Premium.md",
-        "wiki/facts/uk/The Importance of Teaching.md"
-      ]
-    },
-    "United States Congress": {
-      "seen_in": [
-        "wiki/facts/us/Bayh-Dole Act of 1980.md",
-        "wiki/facts/us/CHIPS and Science Act.md",
-        "wiki/facts/us/Federal Acquisition Streamlining Act of 1994.md",
-        "wiki/facts/us/Inflation Reduction Act.md",
-        "wiki/facts/us/Infrastructure Investment and Jobs Act.md"
-      ]
-    },
-    "美国国会（United States Congress）": {
-      "seen_in": [
-        "wiki/facts/us/America COMPETES Act.md",
-        "wiki/facts/us/Education Sciences Reform Act 2002.md",
-        "wiki/facts/us/Mansfield Amendment 1969.md",
-        "wiki/facts/us/National Research Service Award Act of 1974.md",
-        "wiki/facts/us/Reading Excellence Act.md"
-      ]
-    },
     "Australian Government": {
       "seen_in": [
         "wiki/facts/australia/Gonski 2.0.md",
@@ -2675,13 +2786,6 @@
         "wiki/facts/spain/Organic Law on the General Organization of the Education System 1990.md"
       ]
     },
-    "European Commission": {
-      "seen_in": [
-        "wiki/facts/eu/EU Evidence-Informed Education Policy Initiatives.md",
-        "wiki/facts/eu/HEInnovate.md",
-        "wiki/facts/eu/Important Projects of Common European Interest.md"
-      ]
-    },
     "French-speaking Community of Belgium": {
       "seen_in": [
         "wiki/facts/belgium/French-Speaking Belgium Education System.md",
@@ -2696,6 +2800,12 @@
         "wiki/facts/russia/Federal Law No. 85-FZ on Enlightenment Activities.md"
       ]
     },
+    "Department for Science, Innovation and Technology": {
+      "seen_in": [
+        "wiki/facts/uk/Government Office for Science.md",
+        "wiki/facts/uk/Sciencewise.md"
+      ]
+    },
     "Dutch Ministry of Education and Sciences": {
       "seen_in": [
         "wiki/facts/netherlands/Higher Education Autonomy and Quality.md",
@@ -2708,16 +2818,16 @@
         "wiki/arguments/reports-policy-documents/Argument_Stephan_2013_NBER.md"
       ]
     },
-    "UK Research and Innovation (UKRI)": {
+    "与联邦政府（U.S. Congress & Executive Office of the President）": {
       "seen_in": [
-        "wiki/facts/uk/Industrial Strategy Challenge Fund.md",
-        "wiki/facts/uk/Strength in Places Fund.md"
+        "wiki/facts/us/Elementary and Secondary Education Act of 1965.md",
+        "wiki/facts/us/Higher Education Act of 1965.md"
       ]
     },
-    "中华人民共和国教育部": {
+    "中华人民共和国国务院": {
       "seen_in": [
-        "wiki/facts/china/Belt and Road Education Action Plan.md",
-        "wiki/facts/china/Gaokao.md"
+        "wiki/facts/china/Double First-Class Initiative.md",
+        "wiki/facts/china/Made in China 2025.md"
       ]
     },
     "欧洲议会与欧盟理事会（European Parliament and Council of the European Union）": {
@@ -2730,24 +2840,6 @@
       "seen_in": [
         "wiki/facts/us/1956 AT&T Consent Decree.md",
         "wiki/facts/us/1956 IBM Consent Decree.md"
-      ]
-    },
-    "美国国会与联邦政府（U.S. Congress & Executive Office of the President）": {
-      "seen_in": [
-        "wiki/facts/us/Elementary and Secondary Education Act of 1965.md",
-        "wiki/facts/us/Higher Education Act of 1965.md"
-      ]
-    },
-    "美国国防部": {
-      "seen_in": [
-        "wiki/facts/us/DARPA.md",
-        "wiki/facts/us/Manufacturing USA.md"
-      ]
-    },
-    "美国联邦教育部（U.S. Department of Education & U.S. Congress）": {
-      "seen_in": [
-        "wiki/facts/us/Adequate Yearly Progress.md",
-        "wiki/facts/us/No Child Left Behind Act 2001.md"
       ]
     },
     "Aarhus University": {
@@ -2768,6 +2860,11 @@
     "AIR": {
       "seen_in": [
         "wiki/facts/us/Measuring Quality Inventory.md"
+      ]
+    },
+    "and": {
+      "seen_in": [
+        "wiki/facts/uk/Science Learning Centres Network.md"
       ]
     },
     "APLU & AASCU": {
@@ -2800,7 +2897,7 @@
         "wiki/facts/uk/British Sociological Association Statement on Visual Research Ethics.md"
       ]
     },
-    "Bureau of Industry and Security, US Department of Commerce": {
+    "Bureau of Industry and Security": {
       "seen_in": [
         "wiki/facts/us/October 2022 US Semiconductor Export Controls.md"
       ]
@@ -2808,21 +2905,6 @@
     "Butterfly Conservation UK": {
       "seen_in": [
         "wiki/facts/uk/Big Butterfly Count.md"
-      ]
-    },
-    "Cabinet Office": {
-      "seen_in": [
-        "wiki/facts/uk/Modernising Government.md"
-      ]
-    },
-    "Cabinet Office, Central Policy Review Staff": {
-      "seen_in": [
-        "wiki/facts/uk/Rothschild Report 1971.md"
-      ]
-    },
-    "Cabinet Office, Government Commercial Function": {
-      "seen_in": [
-        "wiki/facts/uk/The Social Value Model.md"
       ]
     },
     "Case, Tiffany and Company / E. Steiger": {
@@ -2835,24 +2917,19 @@
         "wiki/facts/us/Best Evidence Encyclopedia.md"
       ]
     },
+    "Central Policy Review Staff": {
+      "seen_in": [
+        "wiki/facts/uk/Rothschild Report 1971.md"
+      ]
+    },
+    "Conselho Nacional de Educação (CNE) / Ministério da Educação (MEC)": {
+      "seen_in": [
+        "wiki/facts/brazil/Brazilian Secondary Education Curriculum Reform 1998.md"
+      ]
+    },
     "Council of the European Union": {
       "seen_in": [
         "wiki/facts/eu/EU Key Competences for Lifelong Learning.md"
-      ]
-    },
-    "Department for Education and Wellcome Trust": {
-      "seen_in": [
-        "wiki/facts/uk/Science Learning Centres Network.md"
-      ]
-    },
-    "Department for Science, Innovation and Technology, Cabinet Office": {
-      "seen_in": [
-        "wiki/facts/uk/Government Office for Science.md"
-      ]
-    },
-    "Department for Science, Innovation and Technology, UK Research and Innovation": {
-      "seen_in": [
-        "wiki/facts/uk/Sciencewise.md"
       ]
     },
     "Department of Education and Training Victoria": {
@@ -2873,11 +2950,6 @@
     "Dutch Parliament": {
       "seen_in": [
         "wiki/facts/netherlands/Higher Education and Research Act 1992.md"
-      ]
-    },
-    "Economic and Social Research Council（ESRC）": {
-      "seen_in": [
-        "wiki/facts/uk/ESRC Review of Ethical Issues in Visual Research.md"
       ]
     },
     "Education and Manpower Bureau / Curriculum Development Council": {
@@ -2920,7 +2992,7 @@
         "wiki/facts/france/Report on the State of Public Instruction in Prussia.md"
       ]
     },
-    "Gatsby Charitable Foundation, Department for Education": {
+    "Gatsby Charitable Foundation": {
       "seen_in": [
         "wiki/facts/uk/Gatsby Benchmarks.md"
       ]
@@ -2930,19 +3002,19 @@
         "wiki/facts/japan/Article 9 of the Japanese Constitution.md"
       ]
     },
+    "Government Commercial Function": {
+      "seen_in": [
+        "wiki/facts/uk/The Social Value Model.md"
+      ]
+    },
     "Government of the Russian Federation": {
       "seen_in": [
         "wiki/facts/russia/Consolidation of Russian State Science Funds.md"
       ]
     },
-    "Government Office for Science, Cabinet Office": {
+    "Government Office for Science": {
       "seen_in": [
         "wiki/facts/uk/Areas of Research Interest.md"
-      ]
-    },
-    "HM Treasury": {
-      "seen_in": [
-        "wiki/facts/uk/The Green Book.md"
       ]
     },
     "Home and Youth Affairs Bureau": {
@@ -2968,6 +3040,11 @@
     "International Committee of Medical Journal Editors (ICMJE)": {
       "seen_in": [
         "wiki/facts/global/ICMJE Data Sharing Requirements 2018.md"
+      ]
+    },
+    "Ipsos, British Science Association": {
+      "seen_in": [
+        "wiki/facts/uk/Public Attitudes to Science.md"
       ]
     },
     "Istituto Affari Internazionali": {
@@ -3045,16 +3122,6 @@
         "wiki/facts/japan/Act on the Promotion of Technology Transfer from Universities to Private Business Operators.md"
       ]
     },
-    "National Institute of Standards and Technology (NIST), U.S. Department of Commerce": {
-      "seen_in": [
-        "wiki/facts/us/ROI Initiative for Unleashing American Innovation.md"
-      ]
-    },
-    "National Institute of Standards and Technology, U.S. Department of Commerce": {
-      "seen_in": [
-        "wiki/arguments/reports-policy-documents/Argument_NIST_2023_NSTC.md"
-      ]
-    },
     "Natural History Museum, London": {
       "seen_in": [
         "wiki/facts/uk/Dippy on Tour.md"
@@ -3065,7 +3132,7 @@
         "wiki/facts/us/Measuring Quality Inventory.md"
       ]
     },
-    "Nuffield Foundation and Wellcome Trust": {
+    "Nuffield Foundation and": {
       "seen_in": [
         "wiki/facts/uk/Beyond 2000 Report.md"
       ]
@@ -3105,11 +3172,6 @@
         "wiki/facts/uk/National Co-ordinating Centre for Public Engagement.md"
       ]
     },
-    "Research England (UK Research and Innovation)": {
-      "seen_in": [
-        "wiki/facts/uk/UK Knowledge Exchange Framework.md"
-      ]
-    },
     "Schools Council and Standing Conference on University Entrance Joint Committee": {
       "seen_in": [
         "wiki/facts/uk/N and F Proposals.md"
@@ -3145,19 +3207,9 @@
         "wiki/facts/germany/Clearing House Unterricht.md"
       ]
     },
-    "U.S. Department of Education": {
-      "seen_in": [
-        "wiki/facts/us/What Works Clearinghouse.md"
-      ]
-    },
     "UK Parliament": {
       "seen_in": [
         "wiki/facts/uk/Parliamentary Office of Science and Technology.md"
-      ]
-    },
-    "UK Research and Innovation, Ipsos, British Science Association": {
-      "seen_in": [
-        "wiki/facts/uk/Public Attitudes to Science.md"
       ]
     },
     "UNDP": {
@@ -3185,12 +3237,12 @@
         "wiki/facts/uk/EPPI-Centre.md"
       ]
     },
-    "University of Bristol": {
+    "University of Bristol, University of the West of England": {
       "seen_in": [
         "wiki/facts/uk/National Co-ordinating Centre for Public Engagement.md"
       ]
     },
-    "University of Oxford": {
+    "University of Oxford and": {
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_OxfordUIDP_2019_UIPartnerships.md"
       ]
@@ -3200,19 +3252,14 @@
         "wiki/facts/uk/The Perception Census.md"
       ]
     },
-    "University of the West of England": {
-      "seen_in": [
-        "wiki/facts/uk/National Co-ordinating Centre for Public Engagement.md"
-      ]
-    },
-    "Wellcome Trust": {
-      "seen_in": [
-        "wiki/facts/uk/National Co-ordinating Centre for Public Engagement.md"
-      ]
-    },
     "White House Office of Management and Budget (OMB)": {
       "seen_in": [
         "wiki/facts/us/OMB Uniform Guidance for Federal Awards.md"
+      ]
+    },
+    "与德怀特·艾森豪威尔总统（Dwight D. Eisenhower）": {
+      "seen_in": [
+        "wiki/facts/us/National Defense Education Act of 1958.md"
       ]
     },
     "世界卫生组织（WHO）与英国卫生部等各国公共政策机构": {
@@ -3233,16 +3280,6 @@
     "中华人民共和国全国人民代表大会常务委员会 / 中华人民共和国国务院": {
       "seen_in": [
         "wiki/facts/china/Hukou System.md"
-      ]
-    },
-    "中华人民共和国国务院": {
-      "seen_in": [
-        "wiki/facts/china/Made in China 2025.md"
-      ]
-    },
-    "中华人民共和国国务院 / 中华人民共和国教育部 / 财政部 / 国家发展和改革委员会": {
-      "seen_in": [
-        "wiki/facts/china/Double First-Class Initiative.md"
       ]
     },
     "丹麦议会": {
@@ -3290,11 +3327,6 @@
         "wiki/facts/uk/National Strategy for Educational Research and Enquiry.md"
       ]
     },
-    "巴西国家教育研究院（INEP）": {
-      "seen_in": [
-        "wiki/facts/brazil/Exame Nacional de Desempenho dos Estudantes.md"
-      ]
-    },
     "巴西联邦政府社会发展与消除饥饿部（MDS）": {
       "seen_in": [
         "wiki/facts/brazil/Bolsa Familia.md"
@@ -3330,7 +3362,7 @@
         "wiki/facts/new-zealand/The Scott Report.md"
       ]
     },
-    "日本内阁府 / 文部科学省": {
+    "日本内阁府": {
       "seen_in": [
         "wiki/facts/japan/Japan Innovation Policy System.md"
       ]
@@ -3350,19 +3382,9 @@
         "wiki/facts/uk/Feedback Action Research Trial.md"
       ]
     },
-    "欧洲联盟委员会（European Commission）": {
-      "seen_in": [
-        "wiki/facts/eu/Erasmus Programme.md"
-      ]
-    },
     "欧洲议会与欧盟理事会": {
       "seen_in": [
         "wiki/facts/eu/European Qualifications Framework.md"
-      ]
-    },
-    "欧盟委员会": {
-      "seen_in": [
-        "wiki/facts/eu/Horizon Europe Missions.md"
       ]
     },
     "法国国民教育部": {
@@ -3390,34 +3412,14 @@
         "wiki/facts/ireland/Hunt Report.md"
       ]
     },
-    "美国卫生与公众服务部": {
-      "seen_in": [
-        "wiki/facts/us/ARPA-H.md"
-      ]
-    },
-    "美国商务部（NIST）": {
-      "seen_in": [
-        "wiki/facts/us/Manufacturing USA.md"
-      ]
-    },
-    "美国国会": {
-      "seen_in": [
-        "wiki/facts/us/Workforce Pell Grants 2025.md"
-      ]
-    },
-    "美国国会 / 白宫管理与预算办公室（OMB）": {
+    "白宫管理与预算办公室（OMB）": {
       "seen_in": [
         "wiki/facts/us/Build America, Buy America Act.md"
       ]
     },
-    "美国国会（U.S. Congress）": {
+    "美国卫生与公众服务部": {
       "seen_in": [
-        "wiki/facts/us/Foundations for Evidence-Based Policymaking Act of 2018.md"
-      ]
-    },
-    "美国国会（US Congress）与德怀特·艾森豪威尔总统（Dwight D. Eisenhower）": {
-      "seen_in": [
-        "wiki/facts/us/National Defense Education Act of 1958.md"
+        "wiki/facts/us/ARPA-H.md"
       ]
     },
     "美国政府 / 美洲国家组织（OAS / OEA）": {
@@ -3445,7 +3447,7 @@
         "wiki/facts/us/Plyler v. Doe 1982.md"
       ]
     },
-    "美国贸易代表办公室": {
+    "美国贸易代表办公室与": {
       "seen_in": [
         "wiki/facts/us/1986 U.S.-Japan Semiconductor Trade Agreement.md"
       ]
@@ -3453,16 +3455,6 @@
     "联合质量倡议（Joint Quality Initiative）/ 博洛尼亚进程后继工作组": {
       "seen_in": [
         "wiki/facts/europe/Dublin Descriptors.md"
-      ]
-    },
-    "英国中央政府内阁办公室（Cabinet Office）": {
-      "seen_in": [
-        "wiki/facts/uk/What Works Network.md"
-      ]
-    },
-    "英国教育部（Department for Education, DfE）": {
-      "seen_in": [
-        "wiki/facts/uk/Strategic School Improvement Fund.md"
       ]
     },
     "英国议会（Parliament of the United Kingdom）": {
@@ -3473,6 +3465,11 @@
     "西班牙王国政府": {
       "seen_in": [
         "wiki/facts/spain/Moyano Law of 1857.md"
+      ]
+    },
+    "财政部 / 国家发展和改革委员会": {
+      "seen_in": [
+        "wiki/facts/china/Double First-Class Initiative.md"
       ]
     },
     "韩国教育部（Ministry of Education, MOE）": {

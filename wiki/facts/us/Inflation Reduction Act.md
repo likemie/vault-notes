@@ -14,7 +14,7 @@ fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "United States Congress"
+issuing_organization: "[[United States Congress]]"
 tags:
   - fact/policy
   - region/us
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -91,7 +91,7 @@ updated: 2026-10-22
 ---
 
 > [!actor-grid] 实施角色分工
-> - **发布主体** 美国国会与美国总统行政办公室。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
+> - **发布主体** [[United States Congress|美国国会]]与美国总统行政办公室。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
 > - **执行主体** 美国财政部国税局（Internal Revenue Service, IRS）、[[Department of Energy|美国能源部]]（Department of Energy, DOE）、环境保护署（Environmental Protection Agency, EPA）及劳工部。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 10–11)]]
 > - **适用对象** 清洁能源开发者、汽车与电池制造企业、工会组织、职业培训机构及地方社区。
 > - **政策工具** 生产与投资税收抵免、直接拨款、贷款担保、CBP 评审机制及可转让税收抵免机制。

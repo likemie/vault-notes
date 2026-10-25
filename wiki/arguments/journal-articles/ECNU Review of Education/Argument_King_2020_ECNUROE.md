@@ -53,7 +53,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-20
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_King_2020_ECNUROE"
@@ -79,7 +79,7 @@ issuing_organization: ""
 > “一带一路”倡议的教育承诺在中非合作论坛既有人力资源传统的基础上实现了显著扩展与质性超越；其政策文本通过构建以[[People-to-People Connectivity|民心相通]]为基石的话语体系，将传统以单向全额奖学金和短期专业培训为主的对非教育支持，重塑为涵盖学历互认、联合实验室、境外职业工坊与双向人员流动的全方位多边能力合作网络，深化了中国在南南合作中的制度塑造力与道义正当性。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 中非合作论坛第六届（2015）与第七届（2018）峰会行动计划、中国教育部2016年《推进共建“一带一路”教育行动》以及2019年“一带一路”建设进展报告。
+> - **对象** 中非合作论坛第六届（2015）与第七届（2018）峰会行动计划、[[Ministry of Education of the People's Republic of China|中国教育部]]2016年《推进共建“一带一路”教育行动》以及2019年“一带一路”建设进展报告。
 > - **张力** 平等互惠的南南合作双向修辞与实际以单向奖学金培训为主的资源配置之间的张力；泛非层面的宏观指标承诺与务实双边磋商执行机制之间的分工张力；中非合作论坛区域机制与“一带一路”超大陆教育共同体愿景之间的嵌套关系。
 > - **贡献** [[Kenneth King|肯尼斯·金]]（Kenneth King）首次在学术文献中系统比对中非合作论坛与“一带一路”教育行动的人力资源承诺，揭示中国对非教育合作从单向高等教育奖学金供给向深度产教协同（如[[Luban Workshop|鲁班工坊]]）、制度化联合研究（如[[Sino-Africa Joint Research Center|中非联合研究中心]]）以及全方位文明互鉴网络演进的政策逻辑。
 
@@ -200,7 +200,7 @@ issuing_organization: ""
 > [!dimension] 教育行动计划的四大合作原则
 > - **[[People-to-People Connectivity|民心相通]]维度（People-to-People Dimension）**
 >   将人文交流摆在优先位置，通过大规模青年互访、学者研修与智库协同，为长周期跨国重大经济投资筑牢民意根基。
-> - **互学互鉴维度（Mutual Learning Dimension）**
+> - **[[Mutual Learning|互学互鉴]]维度（Mutual Learning Dimension）**
 >   尊重不同文明传统与发展道路选择，提倡在多元文化交往中以互鉴消除隔阂，促进优秀文化成果双向传播。
 > - **立足民生维度（Livelihood Dimension）**
 >   教育合作紧密贴近共建国家普通民众就业与生活需求，优先在公共卫生、农业减贫与基础技术培训领域投放公益性资源。

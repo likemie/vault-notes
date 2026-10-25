@@ -38,7 +38,7 @@ part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 related_instruments: []
 status: draft
 created: 2026-06-04
-updated: 2026-10-22
+updated: 2026-10-26
 subtype: book-chapter
 publication_type: book
 title: "Argument_Brock_2025_DataAccessGenerationUse"
@@ -73,7 +73,7 @@ citation_aliases:
 ---
 
 > [!info] 研究方法
-> 这是一篇法律与政策综述（legal and policy review），不是实证研究。作者基于自身在大学赞助项目办公室和产学合同领域的执业经验，广泛引用联邦法规（HIPAA、FERPA、Privacy Act）、联邦标准（NIST SP 800-53）、[[EU|欧盟]]法规（GDPR、Data Governance Act）、学术文献 (Tedersoo et al., 2021; Wilkinson et al., 2016; Klein & Verhulst, 2017)和大学政策（UW-Madison、UW、U-M、UVA、Yale），构建了[[University-Industry Collaboration\|产学合作]]中数据治理的全景参考框架。
+> 这是一篇法律与政策综述（legal and policy review），不是实证研究。作者基于自身在大学赞助项目办公室和产学合同领域的执业经验，广泛引用联邦法规（HIPAA、FERPA、Privacy Act）、联邦标准（[[National Institute of Standards and Technology|NIST]] SP 800-53）、[[EU|欧盟]]法规（GDPR、Data Governance Act）、学术文献 (Tedersoo et al., 2021; Wilkinson et al., 2016; Klein & Verhulst, 2017)和大学政策（UW-Madison、UW、U-M、UVA、Yale），构建了[[University-Industry Collaboration\|产学合作]]中数据治理的全景参考框架。
 
 ---
 
@@ -233,7 +233,7 @@ citation_aliases:
 ---
 
 > [!success] 主要发现
-> 产学协议中数据的根本问题不是技术性的，而是定义性的。联邦法规（[[National Institutes of Health|NIH]]、DoD、ED）、行业标准（[[University Industry Demonstration Partnership\|UIDP]]）和普通字典提供了互不兼容的"数据"定义。缺乏统一定义导致数据在协议中被泛化地归入知识产权、发明或保密信息的宽泛范畴，丧失了作为独立议题被精确界定的机会(pp.290–292)。
+> 产学协议中数据的根本问题不是技术性的，而是定义性的。联邦法规（[[National Institutes of Health|NIH]]、[[Department of Defense|DoD]]、ED）、行业标准（[[University Industry Demonstration Partnership\|UIDP]]）和普通字典提供了互不兼容的"数据"定义。缺乏统一定义导致数据在协议中被泛化地归入知识产权、发明或保密信息的宽泛范畴，丧失了作为独立议题被精确界定的机会(pp.290–292)。
 
 > [!success|notitle]
 > "数据所有权"是一个法律上的错误框架。[[Clinical Trial\|临床试验]]数据作为事实不可被任何人拥有。数据库虽可作为汇编受版权保护，但数据库的版权保护的是"选择与安排"而非事实本身。产学协议应将谈判焦点从所有权转移到使用权的界定：大学保留研究、发表和教育的权利，企业获得商业开发的权利，双方在时间（排他期）和范围（具体目的）上约定使用权的边界(pp.292–293)。

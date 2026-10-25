@@ -48,14 +48,14 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2017 年由苏格兰政府（Scottish Government）正式设立并推行，作为苏格兰学业达标挑战（Scottish Attainment Challenge）的关键财政支柱。
-> - **适用地区 / 对象** 苏格兰全境所有招收社会经济弱势背景学童（特别是符合免费校餐条件的儿童）的公立初等与中等学校。
+> - **适用地区 / 对象** 苏格兰全境所有招收社会经济弱势背景学童（特别是符合[[Free School Meals|免费校餐]]条件的儿童）的公立初等与中等学校。
 > - **问题背景** 苏格兰教育体系长期面临显著的贫困相关[[Academic Achievement\|学业成就]]差距（poverty-related attainment gap），[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）在 2015 年发布的评估报告进一步促使苏格兰政府强化以数据和实证证据驱动学校改进的紧迫感。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 3)]]
 > - **制度位置** 标志着苏格兰教育拨款机制的重大结构性转向，系苏格兰政府首次绕过传统中观行政中介地方当局（local authorities），将大额专项资金直接下拨至各中小学校长账户。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 14)]]
 

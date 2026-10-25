@@ -16,7 +16,7 @@ fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "美国国会与联邦政府（U.S. Congress & Executive Office of the President）"
+issuing_organization: "[[United States Congress|美国国会]]与联邦政府（U.S. Congress & Executive Office of the President）"
 tags:
   - policy/federal
   - esea
@@ -54,7 +54,7 @@ related_persons: []
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-26
 ---
 
 ---
@@ -97,7 +97,7 @@ updated: 2026-10-16
 ---
 
 > [!actor-grid] 联邦—州—学区三级实施体系
-> - **联邦规制与拨款层** 美国联邦教育部（U.S. Department of Education, ED）下设初等与中等教育办公室（OESE）与国家[[Institute of Education Sciences\|教育科学研究院]]（IES），负责编制拨款公式、审查州级实施方案、监管合规性并推动教育实证评估。
+> - **联邦规制与拨款层** [[United States Department of Education|美国联邦教育部]]（U.S. Department of Education, ED）下设初等与中等教育办公室（OESE）与国家[[Institute of Education Sciences\|教育科学研究院]]（IES），负责编制拨款公式、审查州级实施方案、监管合规性并推动教育实证评估。
 > - **州级中枢统筹层** 各州教育厅（SEAs）依据联邦母法框架制定本州教育实施计划（State Consolidated Plans），向联邦申请一揽子款项并统一组织全州学业测试体系。
 > - **地方学区执行层** 全美 13,000 余个地方教育机构（LEAs）与公立学校，根据 [[Title I of the Elementary and Secondary Education Act\|Title I]] 等条款准则设计教学改进方案并负责资金合规落地。
 > - **核心治理工具** 公式专项拨款（Formula Grants）、全州[[Academic Achievement\|学业成就]]问责测试标准、分级证据选用指南与联邦监督审计。

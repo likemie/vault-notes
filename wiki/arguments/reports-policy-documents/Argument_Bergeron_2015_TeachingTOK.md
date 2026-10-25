@@ -69,7 +69,7 @@ sources:
 part_of: 
 status: active
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-10-26
 subtype: report
 publication_type: report
 title: "Argument_Bergeron_2015_TeachingTOK"
@@ -97,7 +97,7 @@ issuing_organization: "International Baccalaureate Organization"
 > [!concept-lens] 阅读透镜
 > - **对象** 国际文凭大学预科项目（[[IB Diploma Programme\|IBDP]]）的知识论课程任课群体及协调员。
 > - **张力** 课程对高阶认知目标（开放思想、批判反思）的强烈诉求，与实际教学中无标准答案导致的主观评价困难及行政课时边缘化之间的系统性张力。
-> - **贡献** 基于1500+的大[[Sample Size Determination\|样本量]]化调查与多国[[Focus Group\|焦点小组]]质性解释，系统揭示了跨学科[[Epistemology\|认识论]]课程在全球范围内的实施痛点与核心价值，确立了教师期望效应与兴趣在探究类课程中的决定性地位。
+> - **贡献** 基于1500+的大[[Sample Size Determination\|样本量]]化调查与多国[[Focus Group\|焦点小组]]质性解释，系统揭示了跨学科[[Epistemology\|认识论]]课程在全球范围内的实施痛点与核心价值，确立了[[Teacher Expectations|教师期望]]效应与兴趣在探究类课程中的决定性地位。
 
 ---
 
@@ -348,7 +348,7 @@ issuing_organization: "International Baccalaureate Organization"
 > - **引入客座专家** 知识论教师极其频繁地邀请校内的其他科任老师作为“客座嘉宾”进入自己的课堂参与辩论。
 > - **[[Homework\|作业]]与进度的宏观对齐** 除了内容互补，他们在教务操作上也高度协同（表11，p. 31）。43.4% 的教师跨学科协调[[Homework\|作业]]截止日期以防学生崩溃；23.4% 跨部门对齐主题，让知识论的探讨能紧贴常规学科的教学进度；14.7% 则直接进行跨学科课业重叠整合。
 > 
-> 最终结论指出，这种“拼凑”师资的模式虽然在初期引发了自我怀疑，但凭借教师的高度兴趣与自发的密集协作，并未造成任何长期的负面影响；反而打破了学科壁垒，在全校范围内促成了一次“真正真实的协作教与学的体验（a truly authentic collaborative learning and teaching experience）”（p. 39）。
+> 最终结论指出，这种“拼凑”师资的模式虽然在初期引发了自我怀疑，但凭借教师的高度兴趣与自发的密集协作，并未造成任何长期的负面影响；反而打破了学科壁垒，在全校范围内促成了一次“真正真实的协作教与学的体验（a truly authentic [[Collaborative Learning|collaborative learning]] and teaching experience）”（p. 39）。
 
 > [!ref-table]- 表11 协作活动分布
 > | 协作活动 | 频率（N） | 占比（%） | 总计（Total） |

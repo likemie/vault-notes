@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -214,7 +214,7 @@ updated: 2026-10-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | 美国半导体劳动力卓越中心（WCoE）与 [[National Semiconductor Technology Center\|NSTC]] 全谱系人才培养战略 | 国家级劳动力政策与生态规划 | 技能标准、[[Apprenticeship\|学徒制]]通道、微证书、全包式支持（Wrap-around Services） | 建立全国半导体劳动力数据与课程资源库；打通从 K-12 到博士的全谱系培养；在补贴中强制落实托儿保障与边缘群体多元覆盖 | — | 确立国家战略产业中枢统筹全谱系技能供给与社会支持的制度模式。 |
+> | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | 美国半导体劳动力卓越中心（WCoE）与 [[National Semiconductor Technology Center\|NSTC]] 全谱系人才培养战略 | 国家级劳动力政策与生态规划 | 技能标准、[[Apprenticeship\|学徒制]]通道、微证书、全包式支持（Wrap-around Services） | 建立全国半导体劳动力数据与课程资源库；打通从 K-12 到博士的全谱系培养；在补贴中强制落实托儿保障与边缘群体多元覆盖 | — | 确立国家战略产业中枢统筹全谱系技能供给与[[Social Support\|社会支持]]的制度模式。 |
 > | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] | 美国拜登政府三大法案（CHIPS, [[Inflation Reduction Act\|IRA]], [[Infrastructure Investment and Jobs Act\|IIJA]]）实施样本 | 政策[[Documentary Analysis\|文献分析]]与比较制度分析 | 制造业投资与劳动力附加条件要求 | 宣布新增制造业投资逾 5000 亿美元；申请 >1.5 亿美元直接补贴强制要求托儿方案与劳动力计划；IRA [[Apprenticeship\|学徒制]]与盛行工资要求激活 5 倍税收抵免乘数 | — | 反映新产业立法对技能培训与劳动力用工门槛的直接规约效力。 |
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026, pp. 20–22)]] | 美国半导体产业劳动力供需预测与高校培养改革，2022–2026 年 | 多案例嵌入式追踪与行业供需数据 | 岗位短缺规模与微证书/专班覆盖 | 至 2030 年美国半导体专业技术岗位缺口达 6.7 万个，全美高技能工人短缺 140 万；亚利桑那州立大学联合[[Taiwan Semiconductor Manufacturing Corporation\|台积电]]开设微证书技术员培训，德州农工大学设立半导体研究院专班 | — | 证实三级人才梯队与大学专班机制能够有效缓解战略制造产业的技能赤字。 |
 

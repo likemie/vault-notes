@@ -58,13 +58,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> **Teensleep** 是由牛津大学睡眠与昼夜节律神经科学研究所发起、英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与惠康信托（Wellcome Trust）联合资助的中学作息推迟与睡眠卫生教育[[Cluster Randomized Trials\|集群随机对照试验]]。项目试图通过将英格兰中学的早晨上课时间推迟至 10:00，检验充足睡眠对青少年[[Academic Achievement\|学业成就]]与身心健康的因果影响。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]; Robinson (2016)
+> **Teensleep** 是由牛津大学睡眠与昼夜节律神经科学研究所发起、英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与[[Wellcome Trust|惠康信托]]（Wellcome Trust）联合资助的中学作息推迟与睡眠卫生教育[[Cluster Randomized Trials\|集群随机对照试验]]。项目试图通过将英格兰中学的早晨上课时间推迟至 10:00，检验充足睡眠对青少年[[Academic Achievement\|学业成就]]与身心健康的因果影响。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]; Robinson (2016)
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 2014 年立项并启动学校动员；原定覆盖 2014 至 2016 学年，最终因招募受阻于 2016 年提前终止（Robinson, 2016）。
@@ -104,7 +104,7 @@ updated: 2026-10-22
 > [!actor-grid] 实施协同矩阵
 > - **资助与发起机构** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与惠康信托，提供科研基金并监督评估独立性。
 > - **学术研究与评估团队** 牛津大学睡眠与昼夜节律神经科学研究所（SCNi）及约克大学健康科学团队，负责干预方案设计与试验[[Statistical Analysis Plan\|统计分析计划]]制订。
-> - **外部社会支持系统** 市政公共交通调度部门、校车承运公司、校外体育俱乐部与活动场馆管理方。
+> - **外部[[Social Support|社会支持]]系统** 市政公共交通调度部门、校车承运公司、校外体育俱乐部与活动场馆管理方。
 > - **一线执行阻滞方** 中学校长与地方教师工会代表，由于无法承担课表颠覆与教职工劳动时间合同重签的组织成本，成为阻断[[Random Assignment\|随机分配]]的关键防线。
 
 ---
@@ -142,7 +142,7 @@ updated: 2026-10-22
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Education Endowment Foundation]] | 事实 | 资助机构；EEF 与惠康信托共同资助了 Teensleep 并主导了项目终止后的机制重构。 |
-> | [[Quasi-Experimental Designs]] | 方法 | 方法学出路；Teensleep 的招募流产直接倒逼 EEF 开辟准实验设计资助流。 |
+> | [[Quasi-Experimental Designs]] | 方法 | 方法学出路；Teensleep 的招募流产直接倒逼 EEF 开辟准[[Experimental Research\|实验设计]]资助流。 |
 > | [[Researching School Choices]] | 概念 | 机制成果；EEF 于 2019 年设立的宏观学校体制选择专项资助流。 |
 > | [[School Choice]] | 概念 | 实践领域；涉及作息与编班等学校层面的宏观组织与体制决策。 |
 > | [[Randomised Controlled Trials]] | 方法 | 试验方法；该项目展示了[[Cluster Randomized Trials\|集群随机对照试验]]在面临复杂社会互嵌时的实施瓶颈。 |

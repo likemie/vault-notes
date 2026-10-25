@@ -17,7 +17,7 @@ fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "Bureau of Industry and Security, US Department of Commerce"
+issuing_organization: "Bureau of Industry and Security, [[Department of Commerce|US Department of Commerce]]"
 tags:
   - fact/policy
   - region/us
@@ -46,13 +46,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2022 年 10 月 7 日由美国商务部工业与安全局（Bureau of Industry and Security, BIS）正式颁布（并在 2023 年 10 月发布更新与强化规则）。
+> - **发布时间 / 发布主体** 2022 年 10 月 7 日由[[Department of Commerce|美国商务部]]工业与安全局（Bureau of Industry and Security, BIS）正式颁布（并在 2023 年 10 月发布更新与强化规则）。
 > - **适用地区 / 对象** 全球半导体制造设备供应商、[[Electronic Design Automation|电子设计自动化]]（EDA）软件开发商、先进制程晶圆代工厂，以及在相关涉华半导体实体任职的“美国人”（含美国公民与永久居民）。
 > - **问题背景** 2018 年以来以关税为主要武器的[[Sino-American Trade War|中美贸易战]]未能有效遏制中国在半导体领域的自主化进程；2022 年中芯国际被证实具备生产 7nm 芯片的能力，加剧了美国政府对于中国在先进制程和人工智能芯片领域取得军事应用优势的深度担忧。
 > - **制度位置** 标志着美国对华科技战略由保持“相对领先优势”全面转向“绝对领先并主动拉大技术代差”的[[Paradigm|范式]]转变，成为 [[Modern Industrial Policy|现代产业政策]] 中非关税国家安全治理工具的典型代表。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 98–99)]]

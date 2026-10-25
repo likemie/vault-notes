@@ -58,7 +58,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-26
 subtype: report
 publication_type: report
 title: "Argument_Stephan_2013_NBER"
@@ -189,7 +189,7 @@ issuing_organization: "National Bureau of Economic Research"
 > [!example] 图 2：NIH 与 NSF 历史申请成功率变迁
 > ![](https://img.mylikemie.icu/sources/Stephan_2013_NBER/figures/Stephan_2013_NBER_Fig2_NIH_NSF_Success_Rates.jpg)
 
-1957 年苏联人造卫星发射后，美国国会通过《[[National Defense Education Act of 1958|国防教育法]]》，联邦资助进入快速增长期，博士培养规模开始向更多地方公立高校扩散，科研体系的机构分布逐步呈现多元化（pp.11–12）。
+1957 年苏联人造卫星发射后，[[United States Congress|美国国会]]通过《[[National Defense Education Act of 1958|国防教育法]]》，联邦资助进入快速增长期，博士培养规模开始向更多地方公立高校扩散，科研体系的机构分布逐步呈现多元化（pp.11–12）。
 
 > [!row-contrast] 全美前 25 位顶尖博士授予高校及其集中度变迁（1920–2011）
 > | 统计维度与指标 | 1920–1924 | 1968 | 2011 |

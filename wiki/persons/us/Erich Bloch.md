@@ -46,7 +46,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -66,7 +66,7 @@ updated: 2026-10-22
 >   - **政治博弈** 与白宫科技顾问[[George A. Keyworth II|乔治·凯沃思]]（George Keyworth II）及副主任[[Nam Pyo Suh|徐南杓]]（Nam Pyo Suh）合力击退众议院科学与技术委员会主席乔治·布朗（George Brown）提出的"设立独立国家工程基金会"立法方案，以"在 NSF 内新设工程学学部（Directorate for Engineering, ENG）并大规模上马 ERC"作为政治妥协，同时顶住白宫行政管理和预算局（Office of Management and Budget, OMB）局长斯托克曼（David Stockman）的预算紧缩阻挠。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 371–372)]]
 >   - **制度建设** 正式推行[[Engineering Research Centers|工程研究中心]]（ERC）计划与[[Science and Technology Centers|科学技术中心]]（STC）计划，首创合作研究协议（Cooperative Research Agreements）资助机制与十年[[Sunset Provisions|日落条款]]（Sunset Provisions）。
 >   - **问责示范** 在首批 6 所 ERC 运行数年后，果断对特拉华大学与加州大学圣巴巴拉分校两所绩效不达标中心取消续约、直接关闭，以示"承诺必须兑现"的制度信号。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 373)]]
-> - **1987** 致信国家[[Chinese Academy of Sciences|科学院]]院长弗兰克·普雷斯，明确指出新设立的科学技术中心（STC）正是 ERC 机制向更广泛自然科学领域的直接衍生，标志着中心资助模式已超越工程学单一领域。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]
+> - **1987** 致信国家科学院院长弗兰克·普雷斯，明确指出新设立的科学技术中心（STC）正是 ERC 机制向更广泛自然科学领域的直接衍生，标志着中心资助模式已超越工程学单一领域。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]
 > - **1990 之后** 卸任后出任美国[[Competitiveness|竞争力]]委员会（Council on [[Competitiveness]]）杰出研究员及战略与国际研究中心（Center for Strategic and International Studies, CSIS）咨询专家，持续呼吁加强国家技术创新与[[Engineering Education|高等工程教育]]改革；2004 年接受 Bozeman & Boardman 访谈时仍为竞争力委员会研究员，回顾二十年 ERC 实践，直陈中心形态学盲区。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 365)]]
 > - **2016** 在华盛顿逝世，享年 91 岁。
 
@@ -118,7 +118,7 @@ updated: 2026-10-22
 > [!influence-path] 影响路径
 > - **组织模式路径** 确立了多用途、多学科大学研究中心（MMURC）作为现代[[Research Universities|研究型大学]]核心组织基底的合法性地位，重构了大学实验室与工业界的协作边界。
 > - **政策与机制路径** 引入了合作研究协议（Cooperative Research Agreements）、严格同行审核、优胜劣汰退出机制以及十年[[Sunset Provisions|日落条款]]（Sunset Provisions），为联邦重大科技资助确立了全新的治理典范。
-> - **全球科技政策扩散** 推动以 [[Engineering Research Centers|ERC]] 为代表的中心协同模式向其他联邦部门（如 [[National Institutes of Health|NIH]]、DoD、[[National Aeronautics and Space Administration|NASA]]）及海外科技资助机构（如英国科研理事会、[[Science Foundation Ireland|爱尔兰科学基金会]] SFI）全方位扩散。
+> - **全球科技政策扩散** 推动以 [[Engineering Research Centers|ERC]] 为代表的中心协同模式向其他联邦部门（如 [[National Institutes of Health|NIH]]、[[Department of Defense|DoD]]、[[National Aeronautics and Space Administration|NASA]]）及海外科技资助机构（如英国科研理事会、[[Science Foundation Ireland|爱尔兰科学基金会]] SFI）全方位扩散。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 系统记录布洛赫政策口述史，全面剖析其主导 ERC 创设的立法博弈、日落条款治理哲学、淘汰机制威慑以及对传统大学系所壁垒的尖锐批判。

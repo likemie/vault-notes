@@ -15,7 +15,7 @@ fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: Department for Education
+issuing_organization: "[[Department for Education]]"
 tags:
   - region/uk
   - theme/teacher-education
@@ -52,11 +52,11 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2014 年 5 月由英国教育大臣[[Michael Gove\|迈克尔·戈夫]]（[[Michael Gove]]）发起委任，由安德鲁·卡特爵士（Sir Andrew Carter，著名[[Teaching Schools\|教学学校]]校长兼多学院信托首席执行官）主持独立专家组，2015 年 1 月由英国教育部（Department for Education，DfE）正式发布审查报告（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 90]]）。
+> - **发布时间 / 发布主体** 2014 年 5 月由英国教育大臣[[Michael Gove\|迈克尔·戈夫]]（[[Michael Gove]]）发起委任，由安德鲁·卡特爵士（Sir Andrew Carter，著名[[Teaching Schools\|教学学校]]校长兼多学院信托首席执行官）主持独立专家组，2015 年 1 月由[[Department for Education|英国教育部]]（Department for Education，DfE）正式发布审查报告（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 90]]）。
 > - **适用地区 / 对象** 英格兰全境所有[[Initial Teacher Training\|初始教师培训]]（Initial Teacher Training，ITT）提供机构（包括大学高等教育机构 Higher Education Institutions，HEIs、学校直接培训 School Direct 与校本初始教师培训中心 School-Centred Initial Teacher Training，SCITT）。
 > - **问题背景** 在英格兰教师培训体系加速向中小学校本化分权背景下，各培训路径质量参差不齐、课程碎片化加剧，政府亟需借助外部专家审查确立国家层面的循证培训核心标准。
 > - **制度位置** 构成了 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]与后续 2019 年《早期职业框架》（Early Career Framework，ECF）和《[[Initial Teacher Training Core Content Framework\|初始教师培训核心内容框架]]》（ITT Core Content Framework，CCF）之间的承上启下关键政策枢纽。

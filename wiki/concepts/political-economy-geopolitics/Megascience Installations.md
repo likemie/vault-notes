@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -119,7 +119,7 @@ updated: 2026-10-22
 ### 命题二 地缘脱钩驱动的本土独资大科学装置建设面临严峻的预算挤出与科研孤立风险
 
 > [!claim] 追求绝对技术自主的单边战略伴随沉重溢价
-> 在地缘政治限制与技术封锁导向下，采取单边自足策略建设本土大科学装置（如俄罗斯近年建设的系列大科学项目），虽然能够锁定设施的所有权与使用控制权，但在国家总体科技预算体量有限的情形下，极易对其他基础学科经费造成严重挤出，且面临缺少国际学术要素流动的孤岛化挑战。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 47–49)]]
+> 在地缘政治限制与技术封锁导向下，采取单边自足策略建设本土大科学装置（如俄罗斯近年建设的系列大[[Science Programs|科学项目]]），虽然能够锁定设施的所有权与使用控制权，但在国家总体科技预算体量有限的情形下，极易对其他基础学科经费造成严重挤出，且面临缺少国际学术要素流动的孤岛化挑战。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 47–49)]]
 
 ---
 
@@ -140,7 +140,7 @@ updated: 2026-10-22
 > [!dev-timeline] [[Big Science|大科学]]装置演进脉络
 > - **1950s–1980s — 冷战多边科学外交与粒子物理黄金期** [[CERN]] 等国际组织成立，大科学装置作为缓和冷战地缘紧张、共享基础前沿成果的多边科学外交载体蓬勃发展。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 48)]]
 > - **1970s–1990s — 大学微纳开放用户设施与多边平台探索** 康奈尔大学亚微米设施（[[National Research and Resource Facility for Submicron Structures|NRRFSS]]）等大学级大科学平台破冰，通过对外共享机台与工程咨询，服务全美 40 余家机构并向生命科学跨界。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–293)]]
-> - **1990s — 单边主义挫折与全球化深化** 美国国会因预算失控于 1993 年终止 [[South-South Cooperation|SSC]] 项目，全面确立了全球物理学界共同资助、共建共享的大科学多边[[Paradigm|范式]]。
+> - **1990s — 单边主义挫折与全球化深化** [[United States Congress|美国国会]]因预算失控于 1993 年终止 [[South-South Cooperation|SSC]] 项目，全面确立了全球物理学界共同资助、共建共享的大科学多边[[Paradigm|范式]]。
 > - **2010s — [[Geopolitics|地缘政治]]回潮与技术主权博弈** 大国博弈加剧，俄罗斯等国转向本土单边大科学装置建设，大科学装置重新成为大国彰显科技主权与战略威慑的核心抓手。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 47–48)]]
 > - **2024 年 — 联邦微电子与先进制造用户设施网络重构** 美国[[National Science and Technology Council|国家科学技术委员会]]（[[National Science and Technology Council|NSTC]]）在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中系统统筹 [[National Science Foundation|NSF]] [[National Nanotechnology Coordinated Infrastructure|NNCI]]、[[Department of Energy|DOE]] 国家实验室大科学装置与 NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]] 300mm 工业级中试线，构建支撑芯片底层创新与先进封装的原位表征与原型中试网络。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23)]]
 > - **2026 年 — 产业中试赋能与国家深科技基础设施体系重构** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立推动能源部 28 个用户设施与 NNCI 微纳洁净室向硬科技初创企业全面开放，共建 GMP 级[[Pilot Scale Platform|中试制造平台]]，实现从纯基础科学探索向国家产业先进制造基座的战略升级。

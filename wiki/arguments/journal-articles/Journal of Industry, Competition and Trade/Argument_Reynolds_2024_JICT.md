@@ -57,7 +57,7 @@ sources:
   - "[[sources/Reynolds_2024_JICT|Reynolds_2024_JICT]]"
 status: active
 created: 2026-10-06
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Reynolds_2024_JICT"
@@ -108,7 +108,7 @@ journal: "Journal of Industry, Competition and Trade"
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **立法与政策样本** | 涵盖 2021 年 11 月通过的《基础设施投资与就业法案》（IIJA，公法第 117-58 号）、2022 年 8 月通过的《芯片与科学法案》（公法第 117-167 号）及《[[Inflation Reduction Act\|通胀削减法案]]》（IRA，公法第 117-169 号）。 |
-> | **行政规章与案例** | 美国商务部芯片计划办公室首轮商业制造资助公告、能源部社区福利计划（Community Benefit Plans, CBPs）规程、联邦能源监管委员会（Federal Energy Regulatory Commission, FERC）2023 年电网互联改革条例、白宫管理与预算办公室（Office of Management and Budget, OMB）下设的美国制造办公室（Made in America Office, MIAO）豁免公告。 |
+> | **行政规章与案例** | [[Department of Commerce\|美国商务部]]芯片计划办公室首轮商业制造资助公告、能源部社区福利计划（Community Benefit Plans, CBPs）规程、联邦能源监管委员会（Federal Energy Regulatory Commission, FERC）2023 年电网互联改革条例、白宫管理与预算办公室（Office of Management and Budget, OMB）下设的美国制造办公室（Made in America Office, MIAO）豁免公告。 |
 > | **产业与宏观数据** | 涉及半导体全球制造份额（东亚占 60% 以上，先进制程占 90% 以上）、美国制造业宣布投资额（逾 5000 亿美元）及温室气体减排预测（IRA 预计额外减排 6%–11%）。 |
 
 ---

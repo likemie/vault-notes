@@ -91,7 +91,7 @@ updated: 2026-10-26
 > *“The promises of merit pay are dimmed by its history... The core assumption is that financial incentives will improve teaching quality and student outcomes.”*
 
 > [!citation-card] 跨国评估对绩效工资的否证与政策挪用（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）
-> 英国教育部声称[[OECD\|经合组织]]评估支持绩效工资，然而经合组织自身的跨国数据却明确显示：在全样本国家中，教师绩效工资与 [[PISA]] 学生成绩之间完全不存在统计学关联。高表现系统（如芬兰）完全摒弃绩效工资，而表现落后国家中亦有广泛实施者。该政策本质上属于国内争议议程对外部数据的策略性挪用。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 116–118)]]
+> [[Department for Education|英国教育部]]声称[[OECD\|经合组织]]评估支持绩效工资，然而经合组织自身的跨国数据却明确显示：在全样本国家中，教师绩效工资与 [[PISA]] 学生成绩之间完全不存在统计学关联。高表现系统（如芬兰）完全摒弃绩效工资，而表现落后国家中亦有广泛实施者。该政策本质上属于国内争议议程对外部数据的策略性挪用。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 116–118)]]
 >
 > *“OECD data show no relationship between performance-related pay and student performance across countries... yet it was framed as an evidence-based necessity.”*
 

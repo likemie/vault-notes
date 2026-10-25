@@ -57,11 +57,11 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!claim] 项目定位
-> 教学学校（Teaching Schools）是英格兰被指定承担系统改进职责的优秀中小学校，在由其牵头组成的教学学校联盟（Teaching School Alliances，[[Thinking Skills Assessment\|TSA]]）内统筹职前[[Initial Teacher Training\|初始教师培训]]（Initial Teacher Training，ITT）、在职持续专业发展（Continuing Professional Development，CPD）、校际支持以及研究与发展（R&D）。这一安排将优秀学校的影响力制度化，是[[Self-Improving School System\|自我改进学校系统]]在专业发展与[[Research Utilization\|证据使用]]方面的主要组织载体；其全国性代表机构教学学校理事会（Teaching Schools Council，TSC）被英国教育部赋予核心政策咨询地位（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]；[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 93]]）。
+> 教学学校（Teaching Schools）是英格兰被指定承担系统改进职责的优秀中小学校，在由其牵头组成的教学学校联盟（Teaching School Alliances，[[Thinking Skills Assessment\|TSA]]）内统筹职前[[Initial Teacher Training\|初始教师培训]]（Initial Teacher Training，ITT）、在职持续专业发展（Continuing Professional Development，CPD）、校际支持以及研究与发展（R&D）。这一安排将优秀学校的影响力制度化，是[[Self-Improving School System\|自我改进学校系统]]在专业发展与[[Research Utilization\|证据使用]]方面的主要组织载体；其全国性代表机构教学学校理事会（Teaching Schools Council，TSC）被[[Department for Education|英国教育部]]赋予核心政策咨询地位（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]；[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 93]]）。
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2010 年起在英格兰大规模推行，与同一时期推进的学院化（[[Academy Programme in England]]）共同构成自我改进取向的组织基础；2021 年起重组过渡为教学学校枢纽（Teaching School Hubs，TSH）。

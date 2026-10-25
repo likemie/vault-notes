@@ -79,9 +79,9 @@ updated: 2026-10-26
 > **制造美国网络（Manufacturing USA，原国家制造创新网络 NNMI）** 是美国联邦政府通过[[Public-Private Partnership|公私伙伴关系]]（PPP）设立的国家级先进制造业研发与技术扩散基础设施网络。作为美国版的[[Research and Technology Organisation|研究与技术组织]]（RTO），Manufacturing USA 旨在对标德国[[Fraunhofer Society Model|弗劳恩霍夫学会]]与英国弹射器网络（Catapult Centres），通过在特定关键使能技术领域设立跨部门制造创新研究所（Manufacturing Innovation Institutes, MIIs），将大学前沿基础研究与私营工业界的规模化生产无缝连接，系统跨越技术准备度（[[Technology Readiness Level|TRL]]）4–7 阶段的“[[Valley of Death|死亡之谷]]”，重建美国的[[Industrial Commons|制造业公地]]与供应链韧性。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 6–7, 33)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2012 年由奥巴马总统提议试点（首个研究所 America Makes 聚焦 3D 打印），2014 年美国国会正式通过《振兴美国制造业与创新法案》（RAMI Act），将其制度化为国家级法定网络。
-> - **总部地点 / 业务辐射** 联邦协调办公室（先进制造国家计划办公室，AMNPO）设于马里兰州美国国家标准与技术研究院（NIST），下辖 17 家独立非营利研究所分布于全美制造重镇，汇聚了超过 2,000 家企业会员、顶尖大学及社区学院。
-> - **法人属性与经费基础** 采用联邦出资与产业界/州政府 1:1 对等匹配资助机制；每个研究所早期获得联邦 7,000 万至 1.1 亿美元核心拨款（为期五年），由商务部（NIST）、国防部（DoD）或能源部（[[Department of Energy|DOE]]）分别认领监管，并逐步向自负盈亏与多元会员造血过渡。
+> - **成立时间 / 创设背景** 2012 年由奥巴马总统提议试点（首个研究所 America Makes 聚焦 3D 打印），2014 年[[United States Congress|美国国会]]正式通过《振兴美国制造业与创新法案》（RAMI Act），将其制度化为国家级法定网络。
+> - **总部地点 / 业务辐射** 联邦协调办公室（先进制造国家计划办公室，AMNPO）设于马里兰州[[National Institute of Standards and Technology|美国国家标准与技术研究院]]（NIST），下辖 17 家独立非营利研究所分布于全美制造重镇，汇聚了超过 2,000 家企业会员、顶尖大学及社区学院。
+> - **法人属性与经费基础** 采用联邦出资与产业界/州政府 1:1 对等匹配资助机制；每个研究所早期获得联邦 7,000 万至 1.1 亿美元核心拨款（为期五年），由商务部（NIST）、国防部（[[Department of Defense|DoD]]）或能源部（[[Department of Energy|DOE]]）分别认领监管，并逐步向自负盈亏与多元会员造血过渡。
 > - **核心宗旨与法定职责** 降低中小企业采纳前沿制造技术的资本与技术壁垒；加速颠覆性实验室成果向可规模化商业产品的[[Technology Transfer|技术转移]]（[[Technology Transfer]]）；制定全国通用的工业与测试标准；建设多层级先进制造劳动力培训管道。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 6–7)]]
 
 ---
@@ -89,7 +89,7 @@ updated: 2026-10-26
 > [!dev-timeline] 组织发展与使命升级历程
 > - **2012–2014 — 试点创立与《RAMI 法案》立法建制** 针对金融危机后美国制造业空心化与德国制造业强劲韧性的制度对比，奥巴马政府在俄亥俄州扬斯敦设立首个国家增材制造创新研究所（America Makes）；2014 年国会通过《振兴美国制造业与创新法案》（RAMI Act），正式授权设立国家制造创新网络（NNMI，后品牌重塑为 Manufacturing USA）。
 > - **2015–2021 — 跨部门网络扩张与前沿领域覆盖** 在商务部、国防部和能源部共同推进下，研究所数量稳步扩展至 16 家以上，广泛覆盖宽禁带半导体（PowerAmerica）、集成光子学（AIM Photonics）、先进复合材料（IACMI）、柔性混合电子（NextFlex）、生物制药制造（NIIMBL）及清洁能源智能制造（CESMII）。
-> - **2022 年至今 — 《[[CHIPS and Science Act|芯片与科学法案]]》与国家半导体研发体系协同** 美国商务部依据《芯片法案》统筹 110 亿美元研发资金，将 Manufacturing USA 深度嵌入国家半导体技术创新矩阵；NIST 与 Manufacturing USA 联合设立全新的**芯片数字孪生与智能制造创新研究所**，与[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）构建全链条中试与先进制造转化闭环。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 21)]]
+> - **2022 年至今 — 《[[CHIPS and Science Act|芯片与科学法案]]》与国家半导体研发体系协同** [[Department of Commerce|美国商务部]]依据《芯片法案》统筹 110 亿美元研发资金，将 Manufacturing USA 深度嵌入国家半导体技术创新矩阵；NIST 与 Manufacturing USA 联合设立全新的**芯片数字孪生与智能制造创新研究所**，与[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）构建全链条中试与先进制造转化闭环。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 21)]]
 > - **2024 年 — 白宫《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》下的全链条公私协同** 白宫国家科学技术委员会（NSTC）将 Manufacturing USA 的制造创新研究所（MIIs）确立为国家微电子研发战略第四目标（Goal 4.1）的核心公私合作支柱之一，统筹协调 NSTC、NAPMP、[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons）以及[[Semiconductor Research Corporation|半导体研究公司]]（[[Semiconductor Research Corporation|SRC]]）[[Joint University Microelectronics Program 2.0|JUMP 2.0]] 跨校中心，强化中试制造工艺、数字孪生[[Computer Simulation|虚拟仿真]]与微电子技术工人[[Apprenticeship|学徒制]]技能认证。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 39–43)]]
 
 ---

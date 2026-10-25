@@ -49,13 +49,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 先进技术计划（Advanced Technology Program, ATP）是美国联邦政府于 1988 年设立的旗舰级民用高技术资助计划，由美国商务部国家标准与技术研究院（National Institute of Standards and Technology, NIST）直接管辖。该计划开创了联邦政府直接向前沿商业化研发提供财政对等匹配资助（[[Matching]] Grants）的先河，兼具定向资源配置（Targeted Resourcing）与广纳式创新入口（Opening Windows）功能，成为 1980 至 1990 年代美国应对国际制造业竞争、推动民用产业技术跨越“[[Valley of Death|死亡之谷]]”的核心制度工具。[[Argument_Block_2008_PS|(Block, 2008, pp. 177, 184–188)]]
+> 先进技术计划（Advanced Technology Program, ATP）是美国联邦政府于 1988 年设立的旗舰级民用高技术资助计划，由[[Department of Commerce|美国商务部]][[National Institute of Standards and Technology|国家标准与技术研究院]]（National Institute of Standards and Technology, NIST）直接管辖。该计划开创了联邦政府直接向前沿商业化研发提供财政对等匹配资助（[[Matching]] Grants）的先河，兼具定向资源配置（Targeted Resourcing）与广纳式创新入口（Opening Windows）功能，成为 1980 至 1990 年代美国应对国际制造业竞争、推动民用产业技术跨越“[[Valley of Death|死亡之谷]]”的核心制度工具。[[Argument_Block_2008_PS|(Block, 2008, pp. 177, 184–188)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1988 年由国会通过《综合贸易与竞争法案》（Omnibus Trade and Competitiveness Act of 1988）正式授权设立，1990 年完成首轮资助发包，持续运行至 2007 年被《[[America COMPETES Act|美国竞争法案]]》改组为“技术创新计划”（Technology Innovation Program, [[Directorate for Technology, Innovation and Partnerships|TIP]]）。

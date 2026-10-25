@@ -69,7 +69,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-05
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fabrizio_Mowery_2005_REI"
@@ -89,7 +89,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 战后美国以国防部（Department of Defense, DoD）为核心的联邦研发（Research and Development, R&D）投资与公共采购政策，究竟通过何种具体机制催生并塑造了微电子、计算机硬件、系统软件及互联网四大支柱产业？随着民用商业市场的成熟与技术扩散路径的反转，国防支持的效能呈现怎样的生命周期演变？2001 年九一一袭击事件（September 11 attacks, 9/11）后联邦研发预算向反恐与国土安全重组，又将对国家[[Systems of Innovation|创新系统]]与大学基础科研生态产生何种长远冲击？
+> 战后美国以国防部（[[Department of Defense]], DoD）为核心的联邦研发（Research and Development, R&D）投资与公共采购政策，究竟通过何种具体机制催生并塑造了微电子、计算机硬件、系统软件及互联网四大支柱产业？随着民用商业市场的成熟与技术扩散路径的反转，国防支持的效能呈现怎样的生命周期演变？2001 年九一一袭击事件（September 11 attacks, 9/11）后联邦研发预算向反恐与国土安全重组，又将对国家[[Systems of Innovation|创新系统]]与大学基础科研生态产生何种长远冲击？
 
 > [!claim] 核心主张
 > 战后美国信息技术（Information Technology, IT）产业复合体的崛起与制度特征，根本上依托于冷战时期联邦国防研发与先导采购在产业萌芽期提供的关键催化——国防资助奠定了[[University-Based Research Infrastructure|大学科研基础设施]]与开放学科网络，先导采购与第二货源机制通过学习效应降低了技术成本并培育出高度动态的新创企业竞争生态；但国防支持的创新收益随产业成熟与商业市场扩张而递减，技术溢出逐渐演变为由民用向军用的逆向流动；9/11 后向短期战术开发与生物反恐倾斜的研发重组，可能弱化大学物理工程基础研究并侵蚀知识长期外溢效应。

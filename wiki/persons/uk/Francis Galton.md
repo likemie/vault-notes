@@ -40,13 +40,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国维多利亚时代著名博学家、人类学家、探险家与统计学先驱，查尔斯·达尔文（Charles Darwin）的表弟，英国皇家学会会士。
+> - **身份位置** 英国维多利亚时代著名博学家、人类学家、探险家与统计学先驱，查尔斯·达尔文（Charles Darwin）的表弟，[[Royal Society|英国皇家学会]]会士。
 > - **核心角色** 现代统计学（相关系数与回归均值概念）与差异心理学的奠基人；在社会[[Epistemology|认识论]]领域，通过著名的普利茅斯估重实验开创了关于[[Wisdom of Crowds|群体智慧]]（Wisdom of Crowds）的实证研究传统。
 > - **代表贡献** 确立指纹作为法庭科学唯一身份识别工具；开创标准差、相关与线性回归统计方法；1907 年发表经典论文《大众之声》（*Vox Populi*），论证独立个体汇聚的民主判断具有高度精确性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, p. 171)]]
 

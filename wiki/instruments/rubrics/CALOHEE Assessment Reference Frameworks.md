@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-10-20
+updated: 2026-10-26
 ---
 
 ---
@@ -71,7 +71,7 @@ updated: 2026-10-20
 > - **工具类型** 学科化[[Authentic Assessment\|表现性评价]]量规与参照框架体系（Assessment Reference Frameworks）。
 > - **开发者与年份** Wagenaar, R. / Tuning 学院与格罗宁根大学（2018）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 28)]]
 > - **测量目的** 为欧洲高等教育区高校提供兼具学科专业深度与国际可比性的学习成果评价标准，支撑课程设计、教学交付与专业层面质量保障。
-> - **实施方式** 嵌入日常专业课程考核，采用多级评分量规（Rubrics）对真实性表现任务、项目设计、论文与临床实习进行[[Criterion-Referenced Test\|标准参照]]评定。
+> - **实施方式** 嵌入日常专业课程考核，采用多级[[Scoring Rubrics|评分量规]]（Rubrics）对真实性表现任务、项目设计、论文与临床实习进行[[Criterion-Referenced Test\|标准参照]]评定。
 
 > [!citation-card] 开发者愿景界定
 > 开发一种跨国多维评价模型，在充分考虑各学位项目在文化与学术情境下的具体使命和特色的同时，能够对学习成果进行实际测量与比较。该模型提供一致的测试格式与题组，使评估深层知识理解与[[Higher-Order Thinking Skills\|高阶思维技能]]成为可能。[[Argument_Bouckaert_2023_OECD\|(Wagenaar, 2018, cited in Bouckaert, 2023, p. 28)]]
@@ -86,10 +86,10 @@ updated: 2026-10-20
 > | 试点学科专业 | 核心评价[[Construct\|构念]] | 学科化预期学习成果与表现维度 | 典型考核载体与任务模式 |
 > |---|---|---|---|
 > | **土木工程 (Civil Engineering)** | [[Critical Thinking\|批判性思维]] | 复杂工程系统建模分析、失效假设验证、结构安全与环境伦理多准则权衡 | 复杂工程案例分析、劣构设计方案答辩 |
-> | **教师教育 (Teacher Education)** | [[Critical Thinking\|批判性思维]] + [[Creativity\|创造力]] | 教学法决策批判反思、学情诊断推理、跨学科差异化教学方案创新设计 | [[Microteaching\|微格教学]]实录反思、创新单元教案设计答辩 |
+> | **教师教育 (Teacher Education)** | [[Critical Thinking\|批判性思维]] + [[Creativity\|创造力]] | 教学法决策批判反思、学情诊断推理、跨学科[[Differentiated Instruction\|差异化教学]]方案创新设计 | [[Microteaching\|微格教学]]实录反思、创新单元教案设计答辩 |
 > | **历史学 (History)** | [[Critical Thinking\|批判性思维]] + [[Creativity\|创造力]] | 多源原始史料互证与偏倚辨析、历史因果论证、创新性史学解释重构 | [[Primary and Secondary Documents\|原始文献]]考证小论文、历史叙事重构专题研讨 |
 > | **护理学 (Nursing)** | [[Critical Thinking\|批判性思维]] | 临床情境批判推理、动态病情风险辨识、多源医疗证据整合与护理决策 | 模拟临床情境推演（OSCE）、临床案例反思报告 |
-> | **物理学 (Physics)** | [[Critical Thinking\|批判性思维]] + [[Creativity\|创造力]] | 物理现象假说推演与反直觉数据审验、创新性实验方案设计与物理佯谬攻关 | 开放探究性实验设计、未知物理机制理论建模 |
+> | **物理学 (Physics)** | [[Critical Thinking\|批判性思维]] + [[Creativity\|创造力]] | 物理现象假说推演与反直觉数据审验、创新性实验方案设计与物理佯谬攻关 | 开放探究性[[Experimental Research\|实验设计]]、未知物理机制理论建模 |
 
 ---
 

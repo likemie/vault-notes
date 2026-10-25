@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -63,13 +63,13 @@ updated: 2026-10-22
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2013 年正式注册成立。直接源于工党国会议员格雷厄姆·艾伦（Graham Allen）领衔提交的两份具有深远政策影响的独立政府审查报告《早期干预：下一步》（*Early Intervention: The Next Steps*, 2011）。报告论证了生命最初数年的[[Human Capital Theory\|人力资本]]投资能够阻断贫困的代际传递，力倡建立独立的国家机构为地方早期预防投资提供实证支持。
 > - **总部地点 / 业务辐射** 总部设于英国伦敦；业务主要辐射全英格兰及威尔士的地方政府儿童服务部门、地方教育局（LEAs）、国民医疗服务体系（NHS）初级信托基金及第三部门慈善机构。
-> - **法人属性与经费基础** 独立非营利慈善法人与担保有限公司，接受英国教育部（DfE）、工作与养老金部（DWP）、内政部及国家慈善基金会（如 Nuffield Foundation）的多渠道合同资助。
+> - **法人属性与经费基础** 独立非营利慈善法人与担保有限公司，接受[[Department for Education|英国教育部]]（DfE）、工作与养老金部（DWP）、内政部及国家慈善基金会（如 Nuffield Foundation）的多渠道合同资助。
 > - **核心宗旨与法定职责** 宗旨为“通过评估和普及高质量的早期干预实证，确保每个儿童无论出身背景均能在身体、认知与心理社会层面实现健康成长”。职责包括系统审查儿童早期干预项目、评定证据有效性等级、研发地方公共服务采购决策工具，并为一线工作者提供落地护航。
 
 ---
 
 > [!dev-timeline] 组织发展与职能演进
-> - **2011–2013 — 艾伦报告奠基与创始入列[[What Works Network\|有效性网络]]** 格雷厄姆·艾伦报告发布后获得卡梅伦联合政府全力支持；2013 年正式建立实体并作为核心创始单位入列英国内阁办公室设立的英国有效性网络（What Works Network）。
+> - **2011–2013 — 艾伦报告奠基与创始入列[[What Works Network\|有效性网络]]** 格雷厄姆·艾伦报告发布后获得卡梅伦联合政府全力支持；2013 年正式建立实体并作为核心创始单位入列[[Cabinet Office|英国内阁办公室]]设立的英国有效性网络（What Works Network）。
 > - **2014–2019 — 《EIF 指南手册》发布与标准体系成熟** 研发上线数字化循证清算平台《EIF 指南手册》（EIF Guidebook），系统制定“证据等级 1–4 级”评价体系；针对儿童言语语言、亲子关系依恋、青少年反社会行为等关键议题发布逾百项循证报告，确立地方政府早期干预采购的黄金参照。
 > - **2020–2022 — [[Knowledge Mobilisation\|知识动员]]的行为科学转向** 面对地方实践中“知易行难”的壁垒，联合伦敦大学学院教育学院[[Jonathan Sharples\|乔纳森·夏普尔斯]]（[[Jonathan Sharples]]）等人开展“支持政策与实践中的[[Research Utilization\|证据使用]]”重大攻关项目，首次将行为科学（[[COM-B Model]]）注入[[Knowledge Mediation\|知识中介]]体系，推动地方服务从单向信息发布转向行为瓶颈系统诊断（Waddell & Sharples, 2020；引自 [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, p. 152]]）。
 > - **2023–至今 — 机构战略重组并入 Foundations 旗舰** 2023 年 4 月，在英格兰中央政府的战略统筹下，EIF 与儿童社会关怀有效性中心（What Works for Children's Social Care, WWCSC）正式合并重组为全新国家旗舰机构——**儿童与家庭有效性中心（Foundations: What Works Centre for Children & Families）**，以整合儿童从早期发展到弱势儿童保护的全链条实证资源。

@@ -73,7 +73,7 @@ sources:
 part_of:
 status: completed
 created: 2026-09-18
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Rowe_2022_IJER"
@@ -93,10 +93,10 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 在当代全球教育治理与循证改革浪潮中，各国政府日益热衷于设立超党派、客观中立的独立国家[[Educational Brokerage Agency\|证据中介机构]]（evidence broker）。此类机构宣称通过[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与标准化量规剔除政治意识形态干扰，加速科研成果向课堂实践转化。然而，此类机构真实的制度创生脉络、权力网络与资本基础究竟为何？本文旨在深入探究澳大利亚国家级教育科研实体[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（Australian Education Research Organisation, AERO）如何被构想、游说并装配为制度实体，揭示在其公共中立表象之下，由跨国[[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）资本、企业管理咨询寡头与国家立法机器深度协同的[[Policy Network\|政策网络]]。
+> 在当代全球教育治理与循证改革浪潮中，各国政府日益热衷于设立超党派、客观中立的独立国家[[Educational Brokerage Agency\|证据中介机构]]（[[Boundary Spanner|evidence broker]]）。此类机构宣称通过[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与标准化量规剔除政治意识形态干扰，加速科研成果向课堂实践转化。然而，此类机构真实的制度创生脉络、权力网络与资本基础究竟为何？本文旨在深入探究澳大利亚国家级教育科研实体[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（Australian Education Research Organisation, AERO）如何被构想、游说并装配为制度实体，揭示在其公共中立表象之下，由跨国[[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）资本、企业管理咨询寡头与国家立法机器深度协同的[[Policy Network\|政策网络]]。
 
 > [!claim] 核心主张
-> 国家级教育[[Educational Brokerage Agency\|证据经纪人]]并非脱离政治纷争的[[Value Neutrality\|价值中立]]科学实体，而是由特定政策网络策略性构筑的无生命客体装配体；其客观中立与科学严谨的外观犹如纵贯荒原的防野狗围栏，在欧几里得物理空间与关系功能空间中将企业法注册、法案修改条款、公司章程、因果实验与证据量规固化为耐用材料，实质上掩蔽了麦肯锡系风险慈善枢纽[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）长达十年的政策游说，确立了国家教育科研向私有资本与营利咨询分包的合法通道，深层重塑了公共教育的资本流动与权力生态。
+> 国家级教育证据经纪人并非脱离政治纷争的[[Value Neutrality\|价值中立]]科学实体，而是由特定政策网络策略性构筑的无生命客体装配体；其客观中立与科学严谨的外观犹如纵贯荒原的防野狗围栏，在欧几里得物理空间与关系功能空间中将企业法注册、法案修改条款、公司章程、因果实验与证据量规固化为耐用材料，实质上掩蔽了麦肯锡系风险慈善枢纽[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）长达十年的政策游说，确立了国家教育科研向私有资本与营利咨询分包的合法通道，深层重塑了公共教育的资本流动与权力生态。
 
 > [!concept-lens] 阅读透镜
 > - **研究对象** 澳大利亚教育研究组织（AERO）长达十年的创生历程、公司注册历史档案、相关立法修正案及底层政策网络拓扑。
@@ -154,7 +154,7 @@ issuing_organization: ""
 ---
 
 > [!claim] 步骤一　AERO 的科学中立表象掩盖了其依据公司法设立及特许私营分包的制度底座
-> [[Australian Education Research Organisation\|AERO]] 对外自我标榜为超党派、客观中立的公共[[Educational Brokerage Agency\|证据经纪人]]，其合法性表面上借由《[[Gonski 2.0]]》国家审查报告的道德声誉获得包装；然而其法律底座实为依据《2001年公司法》设立的担保有限公司，并借由行政规程修改在法律上确立了与慈善组织合作并向营利咨询分包的特许权力。
+> [[Australian Education Research Organisation\|AERO]] 对外自我标榜为超党派、客观中立的公共[[Boundary Spanner|证据经纪人]]，其合法性表面上借由《[[Gonski 2.0]]》国家审查报告的道德声誉获得包装；然而其法律底座实为依据《2001年公司法》设立的担保有限公司，并借由行政规程修改在法律上确立了与慈善组织合作并向营利咨询分包的特许权力。
 
 #### 1. 防野狗围栏隐喻与证据中介的客观中立神话
 
@@ -253,7 +253,7 @@ SVA 作为全澳最大的社会创投机构，管理着 1.5 亿澳元基金，�
 > *…a good ordering strategy is to embody a set of relations in durable materials. Consequently, a relatively stable network is one embodied in and performed by a range of durable materials.* (Law, 1992, p. 387)
 
 > [!citation-card] 金融[[Discourse|话语]]在[[Policy Network\|政策网络]]中的[[Epistemology\|认识论]]统摄
-> [[Educational Brokerage Agency\|证据经纪人]]或买入（buy in）等金融从业术语，在整个网络中被如此频繁地使用，以至于人们对其司空见惯。但这恰恰揭示了将网络紧密维系在一起的关键认识论联结。正如一位著名[[Venture Philanthropy\|风险慈善]]家在主旨演讲中所言：“金钱是我们对话的通用货币。”这一论调在此后几乎每一场演讲中都被呼应为共享的观看之道。
+> 证据经纪人或买入（buy in）等金融从业术语，在整个网络中被如此频繁地使用，以至于人们对其司空见惯。但这恰恰揭示了将网络紧密维系在一起的关键认识论联结。正如一位著名[[Venture Philanthropy\|风险慈善]]家在主旨演讲中所言：“金钱是我们对话的通用货币。”这一论调在此后几乎每一场演讲中都被呼应为共享的观看之道。
 >
 > *These financier terms, such as evidence broker, or ‘buy in’, are scattered throughout the network to the extent they are unremarkable. But they point to important epistemic bindings that hold the network together. This was captured effectively by one prominent venture philanthropist who stated during their keynote, ‘Money is the currency of our conversation’. This was agreed upon and echoed in almost every presentation subsequently as a shared ‘way of seeing’.*
 

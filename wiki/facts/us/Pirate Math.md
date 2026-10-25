@@ -60,7 +60,7 @@ updated: 2026-10-26
 > **Pirate Math（海盗数学，及其延伸方案 Pirate Math Equation Quest）** 是由范德堡大学（Vanderbilt University）林恩·富克斯（Lynn S. Fuchs）与得克萨斯大学奥斯汀分校（University of Texas at Austin）萨拉·鲍威尔（Sarah R. Powell）等学者联合研发、全美广泛采纳的初等数学应用题一对一个别化干预方案；其核心目标是通过海盗寻宝的主题化情境与认知基模教学，帮助小学二至三年级面临严重数学学习困难的儿童掌握文字应用题的底层结构表征并建立初等代数方程求解能力。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
-> - **立项时间与周期** 始创于 2000 年代中后期，受美国联邦教育部特教项目办公室（OSEP）与国家[[Institute of Education Sciences\|教育科学研究院]]（IES）资助开展多次多中心试验，后续进一步迭代为 Pirate Math Equation Quest 并在全美推广。
+> - **立项时间与周期** 始创于 2000 年代中后期，受[[United States Department of Education|美国联邦教育部]]特教项目办公室（OSEP）与国家[[Institute of Education Sciences\|教育科学研究院]]（IES）资助开展多次多中心试验，后续进一步迭代为 Pirate Math Equation Quest 并在全美推广。
 > - **发起方与资助机制** 范德堡大学特殊教育系牵头，联合联邦教育科学研究院（IES）提供大样本[[Randomised Controlled Trials\|随机对照试验]]研发与效果检验资助。
 > - **覆盖范围与对象** 全美公立小学三年级（部分延伸至二年级）在全国或全州标准化数学测验中处于后 20%–25%、尤其是存在严重文字应用题阅读理解障碍与数学障碍的高危学生。
 > - **核心问题导向** 攻克小学中低年级学生在纯算术计算与文字叙述应用题之间的认知断层，破解传统教学中儿童仅凭表面字词（如看见“一共”就相加、看见“剩下”就相减）盲目猜算算式的顽固困境。

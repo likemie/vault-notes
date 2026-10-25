@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -57,7 +57,7 @@ updated: 2026-10-22
 > [!dev-timeline] 组织变迁与改革历程
 > - **1870–1920 年代 — 九大帝国大学的创设与扩张** 明治政府于 1870 年代整并组建东京大学，随后相继设立京都（1897）、东北（1907）、九州（1911）、北海道（1918）、大阪（1931）与名古屋（1939）；并在朝鲜半岛建立京城帝国大学（1924）、台湾建立台北帝国大学（1928）。
 > - **1945–1990 年代 — 战后国立大学重组与规制膨胀** 二战后废除“帝国”称号，九所大学中本土七所改组为国立综合大学，殖民地两所移交受降政府并成为韩台高等教育中枢。日本全国国立大学迅速扩充至近 100 所，财政负担加剧且官僚依附性日趋固化。
-> - **1996–2004 年 — 科技体制改革与国立大学法人化** 1996 年日本通过《科学技术基本法》，2004 年文部科学省推行激进的“国立大学法人化”（National University Corporation）改革：正式剥离国立大学教员的国家公务员身份，赋予大学设立自主课程与发展特色领域的自主权，允许教员兼职开展[[University-Industry Collaboration|产学合作]]，并创设[[Technology Transfer Office|技术许可办公室]]（TLO）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 42–43)]]
+> - **1996–2004 年 — 科技体制改革与国立大学法人化** 1996 年日本通过《科学技术基本法》，2004 年[[Ministry of Education, Culture, Sports, Science and Technology|文部科学省]]推行激进的“国立大学法人化”（National University Corporation）改革：正式剥离国立大学教员的国家公务员身份，赋予大学设立自主课程与发展特色领域的自主权，允许教员兼职开展[[University-Industry Collaboration|产学合作]]，并创设[[Technology Transfer Office|技术许可办公室]]（TLO）。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 42–43)]]
 
 ---
 

@@ -42,7 +42,7 @@ updated: 2026-10-26
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2013 年由[[EU|欧盟]]委员会（European Commission）与[[OECD\|经济合作与发展组织]]（OECD）联合设立并运营。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 11)]]
+> - **发布时间 / 发布主体** 2013 年由[[EU|欧盟]]委员会（[[European Commission]]）与[[OECD\|经济合作与发展组织]]（OECD）联合设立并运营。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 11)]]
 > - **适用地区 / 对象** 欧洲高等教育区及全球范围内所有类型的高等教育机构、大学领导层、教师与管理人员。
 > - **问题背景** 传统大学评价过度聚焦论文产出与生源门槛，缺乏系统评估和激励大学自身“创新与创业潜能（Innovative and Entrepreneurial Potential）”的工具。
 > - **制度位置** 作为欧盟《欧洲高等教育现代化议程》与 OECD 创新政策的核心政策引导与自我诊断支架。

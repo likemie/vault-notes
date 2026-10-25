@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -58,7 +58,7 @@ updated: 2026-10-22
 > - **立项时间 / 周期** 2008 年底正式启动实施，至 2018 年后在国际地缘博弈背景下逐步淡出公开通报并转型为更隐蔽的海外引才机制。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]; [[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 79)]]
 > - **发起方与资助机制** 由中央人才工作协调小组统筹，中组部会同人社部等多部委联合推进；设立专项财政资金，向全职引进学者提供百万元人民币级别的一次性补助与数千万元科研经费包，地方政府与依托高校院所按比例给予资金配套。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
 > - **覆盖范围与对象** 面向海外知名高校、科研机构与跨国企业，覆盖数学、物理、化学、生命科学、工程技术等关键前沿战略学科领域的高水平学者与技术领军人才。
-> - **核心问题导向** 破解改革开放后长期存在的[[Asymmetric Brain Circulation|智力外流]]困境，利用海外华人科学家社群积累的学术网络与尖端技术经验，实现从人才流失向人才回流（Brain Gain）的战略转变。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 79)]]
+> - **核心问题导向** 破解改革开放后长期存在的智力外流困境，利用海外华人科学家社群积累的学术网络与尖端技术经验，实现从人才流失向人才回流（Brain Gain）的战略转变。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 79)]]
 
 ---
 
@@ -91,7 +91,7 @@ updated: 2026-10-22
 > [!actor-grid] 实施协同矩阵
 > - **顶层领导与统筹机构** 中央人才工作协调小组，负责制定战略方针并审批重大引才引智专项配额。
 > - **专项执行与遴选部委** 中组部、科技部、教育部、人社部等部门，按学科领域组织海外专家评审与资质合规性审核。
-> - **承接用人高校与院所** 顶尖[[Research Universities|研究型大学]]与中国科学院各研究所，作为聘任法人主体提供实验室场地、科研团队与行政支撑。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
+> - **承接用人高校与院所** 顶尖[[Research Universities|研究型大学]]与[[Chinese Academy of Sciences|中国科学院]]各研究所，作为聘任法人主体提供实验室场地、科研团队与行政支撑。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
 > - **海外入选专家学者** 跨国科学家与工程技术专家，承担科研攻关、研究生培养与国际合作桥梁职能。
 
 > [!pathways] 实施路径与管理
@@ -104,12 +104,12 @@ updated: 2026-10-22
 > [!indicators] 评估指标体系
 > - **引才规模与结构** 累计引进顶尖学者数、青年人才占比、外籍专家入选比例。
 > - **科研产出与前沿突破** 依托入选者在顶级学术期刊发表论著与学术发文量、国家级重大科研项目承接数、发明专利授权量。
-> - **学科高地与实验室建设** 依托千人学者新建国家重点实验室、交叉学科中心及新兴产业研发基地数量。
+> - **学科高地与实验室建设** 依托千人学者新建国家重点实验室、[[Comparative Education as a Cross-Sectional Area|交叉学科]]中心及新兴产业研发基地数量。
 
 > [!finding-cards] 核心实证结论
 > - **充实前沿科研储备与学科跨越** 开出优厚待遇累计延揽超过 7,600 名海外优秀科学家与学者全职或短期回国工作，大幅充实了前沿战略科研力量，推动国内高校科研出版物产出与专利申请实现大幅增长。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
-> - **确立智力回流新范式** 从单向智力流失转为主动智力延揽，通过高水平引才带动了一批重点高校微电子、量子通信与生物医药等关键领域的快速起步。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 79)]]
-> - **遭遇地缘政治化反弹** 项目模式深度依托海外科研机构现成智力资产，在跨国技术竞争加剧时引发对象国国家安全与反间谍体系的系统性阻截。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 78–79)]]
+> - **确立智力回流新[[Paradigm|范式]]** 从单向智力流失转为主动智力延揽，通过高水平引才带动了一批重点高校微电子、量子通信与生物医药等关键领域的快速起步。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 79)]]
+> - **遭遇[[Geopolitics|地缘政治]]化反弹** 项目模式深度依托海外科研机构现成智力资产，在跨国技术竞争加剧时引发对象国国家安全与反间谍体系的系统性阻截。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 78–79)]]
 
 > [!stat-cards]- 关键实证数据
 > - **7,600+** （名） 截至 2018 年千人计划累计延揽的海外高层次科学家与学者总数，显著充实了国内高校前沿科研储备。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 80)]]
@@ -120,16 +120,16 @@ updated: 2026-10-22
 
 > [!debates] 核心争议
 >
-> > [!axis] 正常国际人才流动 vs 国家制度化技术转移
+> > [!axis] 正常国际人才流动 vs 国家制度化[[Technology Transfer|技术转移]]
 > > 围绕千人计划属于合法跨国学术交流，还是国家资助的制度化知识获取机制展开对立评判。
 > >
-> > - **中方与学术共同体立场** 强调千人计划是发展中国家利用市场化待遇吸引海外同胞回国服务的正常引才举措，符合国际学术自由与人才流动准则。
-> > - **美方政府与情报机构立场** 将千人计划定性为中国国家主导的[[Economic and Industrial Espionage|经济与产业间谍]]载体，指责其利用美国联邦资助科研成果与未披露的双重任职，将尖端知识产权与敏感技术非法转移回中国。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 78–79)]]
+> > - **中方与学术共同体立场** 强调千人计划是发展中国家利用市场化待遇吸引海外同胞回国服务的正常引才举措，符合国际[[Academic Freedom|学术自由]]与人才流动准则。
+> > - **美方政府与情报机构立场** 将千人计划定性为中国国家主导的经济与产业间谍载体，指责其利用美国联邦资助科研成果与未披露的双重任职，将尖端知识产权与敏感技术非法转移回中国。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 78–79)]]
 >
-> > [!axis] 知识地缘政治的三重冲突动因
-> > 探讨中美在千人计划与知识转移上的深度冲突根源。
+> > [!axis] [[Geopolitics of Knowledge|知识地缘政治]]的三重冲突动因
+> > 探讨中美在千人计划与[[Knowledge Transfer|知识转移]]上的深度冲突根源。
 > >
-> > - **[[Argument_Partaken_2022_Springer|Partaken (2022)]]** 运用[[Analytic Framework|分析框架]]指出，千人计划在中美之间激发的[[Geopolitics of Knowledge|知识地缘政治]]危机根植于三种不可相互化约的冲突源：权力（中共与国家科技领导小组的自上而下动员）、资源（[[Made in China 2025|中国制造2025]]等尖端产业赶超战略）和意识形态（中华民族复兴的中国梦话语）（p. 79）。
+> > - **[[Argument_Partaken_2022_Springer|Partaken (2022)]]** 运用[[Analytic Framework|分析框架]]指出，千人计划在中美之间激发的[[Geopolitics of Knowledge|知识地缘政治]]危机根植于三种不可相互化约的冲突源：权力（中共与国家科技领导小组的自上而下动员）、资源（[[Made in China 2025|中国制造2025]]等尖端产业赶超战略）和意识形态（[[Zhonghua Minzu|中华民族]]复兴的中国梦[[Discourse|话语]]）（p. 79）。
 > > - **知识流动悖论与回冲效应** 过度依赖外向型技术吸纳可能导致悖论性结果：一方面引发守成大国的严厉出口管制与签证制裁，迫使国内转向内向型防守；另一方面在科技界引发严苛的利益冲突审查，损害了开放科学环境对全球创新要素的自发吸引力。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 79)]]
 
 > [!lessons] 经验教训与启示
@@ -142,13 +142,13 @@ updated: 2026-10-22
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Geopolitics of Knowledge]] | Concept | 分析千人计划引发中美学术合作与知识主权博弈的核心理论视角。 |
+> | [[Geopolitics of Knowledge]] | Concept | 分析千人计划引发中美学术合作与知识主权博弈的核心[[Theoretical Perspective\|理论视角]]。 |
 > | [[Knowledge Transfer]] | Concept | 千人计划运作的核心机制，涉及跨国前沿知识与技术向本土流动。 |
 > | [[Economic and Industrial Espionage]] | Concept | 美方政府机构指控千人计划涉嫌跨越法律边界的指控定性。 |
-> | [[Technology Transfer]] | Concept | 中美贸易战与高科技竞争中围绕敏感科研成果扩散的关键议题。 |
+> | [[Technology Transfer]] | Concept | [[Sino-American Trade War\|中美贸易战]]与高科技竞争中围绕敏感科研成果扩散的关键议题。 |
 > | [[Asymmetric Brain Circulation]] | Concept | 千人计划试图扭转的人才单向流失困境。 |
 > | [[Research Universities]] | Concept | 千人计划学者承接聘任与科研攻关的核心依托载体。 |
-> | [[US-China Economic and Security Review Commission]] | Fact (Organization) | 系统监控并推动美国国会对千人计划展开立法审查的关键机构。 |
+> | [[US-China Economic and Security Review Commission]] | Fact (Organization) | 系统监控并推动[[United States Congress\|美国国会]]对千人计划展开立法审查的关键机构。 |
 > | [[Sino-American Trade War]] | Fact (Event) | 千人计划受到全面地缘政治化审视的宏观经贸冲突背景。 |
 > | [[Made in China 2025]] | Fact (Policy) | 与千人计划引智方向紧密协同的国家高科技产业发展规划。 |
 > | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 实证记录千人计划自 2008 年设立以来引进逾 7,600 名顶尖科学家、显著充实国内前沿科研实力的政策文献。 |

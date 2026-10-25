@@ -66,7 +66,7 @@ part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 related_instruments: []
 status: draft
 created: 2026-05-28
-updated: 2026-10-22
+updated: 2026-10-26
 subtype: book-chapter
 publication_type: book
 title: "Argument_Byrne_2025_InnovationCenters"
@@ -316,7 +316,7 @@ citation_aliases:
 
     北卡罗来纳州的 NCInnovation 是一个 5 亿美元的州级捐赠基金，旨在促进全州大学系统的合作与成功商业化。
 
-    特拉华大学（University of Delaware）的教师团队于 2016 年成功争取到美国国家标准与技术研究院（National Institute of Standards and Technology, NIST）7000 万美元的资助，建立了国家生物制药制造创新研究所（The National Institute for Innovation in Manufacturing Biopharmaceuticals）。2020 年，一座 1.65 亿美元的最先进设施在其 STAR 园（STAR Park）内落成开放。
+    特拉华大学（University of Delaware）的教师团队于 2016 年成功争取到[[National Institute of Standards and Technology|美国国家标准与技术研究院]]（National Institute of Standards and Technology, NIST）7000 万美元的资助，建立了国家生物制药制造创新研究所（The National Institute for Innovation in Manufacturing Biopharmaceuticals）。2020 年，一座 1.65 亿美元的最先进设施在其 STAR 园（STAR Park）内落成开放。
 
     新墨西哥州阿尔伯克基的桑迪亚科技园（Sandia Science and Technology Park）提供了一个创新性创收案例。该园通过向租户和合作伙伴提供光纤数据和通信服务来产生收入，用共享基础设施覆盖行政与管理的运营成本(p.134)。
 

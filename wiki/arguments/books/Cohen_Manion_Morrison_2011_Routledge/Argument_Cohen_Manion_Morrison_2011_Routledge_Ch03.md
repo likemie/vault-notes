@@ -67,7 +67,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 > [!logic-map]- 第3章总体论证结构
 > ```mermaid
@@ -271,7 +271,7 @@ Norris（1990, p. 99）指出，将研究视为不受日常政治污染的纯净
 > [!claim] [[Categorical Funding\|分类资助]]的结构性影响
 > 过去二十余年，分类资助项目大幅增长，即由政府或研究赞助方以各种名目预先设定好[[Research Topic\|研究主题]]、范围和边界，研究者通过竞标承接。这看似是研究资助的正常运作，但其结构性后果深远：
 > - **政府机构**的资助有明确的政策导向——研究被期望"指导政策决策、改善政策制定者关注的领域质量、促进政策实施、评估政策执行效果"。
-> - **非政府组织（如英国经济与社会研究理事会（Economic and Social Research Council，ESRC）**）也出现向政策导向项目的倾斜，远离[[Curiosity-Driven Research\|蓝天研究]]（blue skies research）。
+> - **非政府组织（如[[Economic and Social Research Council|英国经济与社会研究理事会]]（Economic and Social Research Council，ESRC）**）也出现向政策导向项目的倾斜，远离[[Curiosity-Driven Research\|蓝天研究]]（blue skies research）。
 > - **结果** 研究议程从"研究者指定[[Research Topic\|研究主题]]"转向"赞助方指定研究焦点"（Burgess, 1993）（pp.36–37）。
 
 Burgess（1993, p. 1）概括了这一趋势的极端表达：

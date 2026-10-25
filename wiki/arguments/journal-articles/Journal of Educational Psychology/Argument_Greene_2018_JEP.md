@@ -91,7 +91,7 @@ sources:
   - "[[sources/Greene_2018_JEP/Greene_2018_JEP|Greene_2018_JEP]]"
 status: draft
 created: 2026-08-19
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Greene_2018_JEP"
@@ -391,7 +391,7 @@ issuing_organization: ""
 > - **机制三：因果边界与双向互惠演进模型（Reciprocal Model）**
 >   - *实证推断边界*：本元分析纳入的绝大多数为一级[[Correlational Research\|相关性研究]]，不能直接得出“单向绝对因果”结论。
 >   - *双向互惠机制*：认识论认知与高阶思维并非单向决定，而是呈现**螺旋互惠演进**
->     1. **赋能路径（认识论认知 → 高阶思维）** 成熟认识论信念自发驱动学生调动[[Surface and Deep Learning\|深层学习]]策略（Deep Learning Strategies），从而在高阶任务中取得卓越表现；
+>     1. **赋能路径（认识论认知 → 高阶思维）** 成熟认识论信念自发驱动学生调动[[Surface and Deep Learning\|深层学习]]策略（Deep [[Learning Strategies]]），从而在高阶任务中取得卓越表现；
 >     2. **塑造路径（高阶思维实践 → 认识论认知）** 课堂中开放式探究、辩论和[[Wicked Problem|劣构问题]]（Ill-structured problems）的解决实践，制造了持续的认知冲突，打破了学生的二元论平衡，迫使其在“做中学”（Inquiry-in-practice），最终反哺了认识论认知向更高阶段成熟（正如 Perry 图式 所揭示的大学涵化机制）。
 > - **机制四：构念特异性与确证[[Theoretical Validity\|理论有效性]]（Theoretical Validity）**
 >   - 这一实证断层有力反驳了长期以来怀疑论者认为“认识论认知只是宽泛学习动机、一般智力或[[Socioeconomic Status|社会经济地位]]的虚假代理变量”的观点。

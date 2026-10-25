@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 背景
@@ -53,7 +53,7 @@ updated: 2026-10-22
 > [!quote|notitle]
 > Common Rule 将"研究"（research）定义为"旨在发展或贡献可推广知识（generalizable knowledge）的系统性调查，包括研究开发、测试和评估"（OHRP, 2018, cited in [[Argument_Hall_2025_EthicalLegalFrameworks\|Hall, 2025, p.265]]）。
 
-> [!warning] 在产学合作中的不对称性
+> [!warning] 在[[University-Industry Collaboration|产学合作]]中的不对称性
 > Common Rule 在[[University-Industry Collaboration\|产学合作]]中创造了一个关键的制度不对称（pp.265）：
 
 > - **企业侧** 私营企业使用自有资金开展人类受试者研发时，**不需要**遵守 Common Rule。企业有更大的灵活性来决定研究方案审查和受试者保护的方式

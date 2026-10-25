@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -97,7 +97,7 @@ updated: 2026-10-22
 > - **1992** 毕业于斯坦福法学院（Stanford Law School），获法律博士（Juris Doctor, J.D.）学位。
 > - **2002** 获得德国法兰克福歌德大学（Goethe University Frankfurt）社会理论博士学位，师从法兰克福学派第二代领军人物[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）。
 > - **2003–2004** 与[[Peter Thiel|彼得·蒂尔]]（Peter Thiel）等人共同创立[[Palantir Technologies|帕兰提尔科技公司]]（Palantir Technologies），出任首席执行官。
-> - **2016** 主导帕兰提尔针对美国陆军提起里程碑式联邦诉讼，依据《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》（FASA 1994）迫使美国国防部向商用科技公司开放准入通道。
+> - **2016** 主导帕兰提尔针对美国陆军提起里程碑式联邦诉讼，依据《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》（FASA 1994）迫使[[Department of Defense|美国国防部]]向商用科技公司开放准入通道。
 > - **2020** 带领帕兰提尔在纽约证券交易所公开上市（NYSE: PLTR）。
 > - **2025** 与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]合著出版专著《[[Technological Republic|技术共和国]]：[[Hard Power|硬实力]]、[[Soft Belief|软信念]]与西方的未来》（*The Technological Republic: Hard Power, Soft Belief, and the Future of the West*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–15, 297)]]
 

@@ -58,7 +58,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -209,7 +209,7 @@ updated: 2026-10-22
 > |:---|:---|:---|:---|:---|
 > | 20 世纪[[Ministry of International Trade and Industry\|日本通商产业省]]（MITI） | 东京大学法学/经济学顶尖功绩制文官 | 官民产业合理化审议会、企业下派交流网络 | 掌握外汇配额审批权、国家长期追赶战略定力 | [[Argument_Kattel_Mazzucato_2018_ICC\|(Kattel & Mazzucato, 2018, p. 793)]]; Evans (1995) |
 > | 19 世纪普鲁士文化部（[[System Althoff\|阿尔特霍夫体制]]） | 弗里德里希·阿尔特霍夫等资深功绩制官员 | 深度嵌入大学学者网络、频繁深入实验室直接访谈 | 打破大学教授会行会垄断，按学术卓越标准独立指派教授 | [[Argument_Kattel_Mazzucato_2018_ICC\|(Kattel & Mazzucato, 2018, pp. 793, 796)]] |
-> | 2020 年代美国商务部芯片项目办公室（CPO） | 招募数十位来自半导体业界的高级主管与华尔街投资分析师 | 与全球芯片代工、设计、设备巨头展开全天候技术与财务共商 | 严密实施股票回购禁令、超额利润分享条款、[[Workforce Development\|劳动力发展计划]]与中国产能限制护栏 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 6–7, 9–10)]] |
+> | 2020 年代[[Department of Commerce\|美国商务部]]芯片项目办公室（CPO） | 招募数十位来自半导体业界的高级主管与华尔街投资分析师 | 与全球芯片代工、设计、设备巨头展开全天候技术与财务共商 | 严密实施股票回购禁令、超额利润分享条款、[[Workforce Development\|劳动力发展计划]]与中国产能限制护栏 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 6–7, 9–10)]] |
 > | 2020 年代[[Department of Energy\|美国能源部]]贷款项目办公室（LPO） | 引入清洁能源风险投资家与项目融资专业工程团队 | 深度参与早期清洁技术初创企业商业化技术评审 | 严格把控项目还款能力尽调，实现数百亿美元清洁能源资产投资与极低违约率 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 6–7)]] |
 
 ---

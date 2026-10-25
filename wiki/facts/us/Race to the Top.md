@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -68,7 +68,7 @@ updated: 2026-10-22
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2009 年由《美国复苏与再投资法案》（American Recovery and Reinvestment Act, ARRA）正式授权立项，2010 年开展第一轮与第二轮全美州级评选，随后扩展至早期学习挑战（Early Learning Challenge）与学区级竞赛，主要资助周期持续至 2015 年。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 50)]]
-> - **发起方与资助机制** 由美国联邦教育部直接设立和监管，全额由联邦特别财政基金划拨，采用自愿申请、同行独立盲审打分、分轮择优差额资助的市场化竞赛模式。
+> - **发起方与资助机制** 由[[United States Department of Education|美国联邦教育部]]直接设立和监管，全额由联邦特别财政基金划拨，采用自愿申请、同行独立盲审打分、分轮择优差额资助的市场化竞赛模式。
 > - **覆盖范围与对象** 全美 50 个州及哥伦比亚特区均有资格由州长牵头申报；最终共有 18 个州及华盛顿特区在各轮州级竞赛中胜出，覆盖了全美数千个公立学区与上千万名中小学生。
 > - **核心问题导向** 应对美国长期以来各州学术标准割裂严重、中小学生在国际测评中表现平庸、各州为应付《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）考核竞相调低及格切分点（Race to the bottom）的体制危机，旨在为国家[[Knowledge-Based Economy|知识经济]]重塑高标准与问责生态。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]
 
@@ -102,7 +102,7 @@ updated: 2026-10-22
 
 > [!actor-grid] 实施协同矩阵
 > - **联邦资助与裁决机构** 美国教育部设立专门的评审监督办公室，组织外部跨学科专家实施独立双盲评审，依据打分矩阵裁定拨款分配，并行使年度履约审计权。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 50)]]
-> - **州级领导与协调主体** 各州州长、州教育委员会（SBE）与州教育厅（SDE）充当法定申请主体，负责协调州议会修改法律、清理特许学校数量上限，并推动标准落地。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 17)]]
+> - **州级领导与协调主体** 各州州长、州教育委员会（SBE）与州教育厅（SDE）充当法定申请主体，负责协调州议会修改法律、清理[[Charter Schools|特许学校]]数量上限，并推动标准落地。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 17)]]
 > - **地方学区与教师工会** 基层学区负责编制具体实施计划，教师工会参与签署合作谅解备忘录，但其对绩效挂钩条款的保留态度构成了持续的政治博弈点。
 > - **慈善资本与中介智库** [[Bill & Melinda Gates Foundation|比尔与梅琳达·盖茨基金会]]提供数千万美元的[[Counterpart Funds|配套资金]]，资助 [[Achieve]] 智库与独立顾问团队进驻各州协助编制申请文本与撰写对标报告。
 

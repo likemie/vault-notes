@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -89,7 +89,7 @@ updated: 2026-10-22
 
 > [!pathways] 业务运行机制与快速中介流程
 > - **突发争议 2 至 4 小时快速响应流水线** 一旦监测到具有争议性的教育政策声明、热点统考数据发布或未经同行评议的教学法研究宣称，编辑团队立即定向联系相关领域的数位同行学者，在截稿前向主流媒体直供平衡多元的专业短评。
-> - **焦点新闻吹风会（Briefings for Journalists）** 针对重大争议课题（如早期读写教学争议、弱势学生学业差距），邀请多方代表性学者面对面接受跑口记者的现场深度质询。
+> - **焦点新闻吹风会（Briefings for Journalists）** 针对重大争议课题（如[[Early Literacy Approaches|早期读写教学]]争议、弱势学生学业差距），邀请多方代表性学者面对面接受跑口记者的现场深度质询。
 > - **记者[[Scientific Literacy\|证据素养]]指南（Guides on Educational Evidence）** 编制通俗手册，指导采编室如何看懂[[Effect Size\|效应量]]（Effect Size）、辨析相关与因果、识别样本选择偏差，防范媒体对科研结论的断章取义。
 
 ---
@@ -109,7 +109,7 @@ updated: 2026-10-22
 > [!evidence-grid] 重大争议教育议题中的中介成效
 > - **早期阅读教学争议（合成拼读法 vs [[Whole Language\|全语言]]教学）** 在英国政府全面推行系统合成拼读法（Synthetic Phonics）统考筛选测试引发全英媒体激烈争论期间，EMC 常态化汇集认知神经科学、语言学与儿童文学教育学者的实证研究，引导媒体从意识形态站队转向对不同阅读困难儿童情境化干预的理性评估。
 > - **[[PISA]] 跨国测评排名舆论纠偏** 每逢[[OECD\|经合组织]]发布 PISA 国际测评结果、英国小报炒作“国家教育滑坡”恐慌之际，EMC 组织顶尖比较教育与心理测量学专家，向媒体深度解析[[Sampling Error\|抽样误差]]、文化可比性与测验[[Effect Size\|效应量]]，有效遏制了情绪化危机叙事的蔓延。
-> - **识别教育科技商业营销软文（Anti-Spinning）** 针对商业公司包装“AI 个性化学习系统”或特定脑科学教材宣传有效性的软文，EMC 快速组织因果实验与[[Meta-analysis\|元分析]]专家核查其对照组设计与[[Sample Size Determination\|样本量]]，揭露其挑樱桃式拼凑数据（Cherry-picking）的商业本质，守护了公共教育采购与学术公信力。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 60]])
+> - **识别教育科技商业营销软文（Anti-Spinning）** 针对商业公司包装“AI [[Personalized Learning|个性化学习]]系统”或特定脑科学教材宣传有效性的软文，EMC 快速组织因果实验与[[Meta-analysis\|元分析]]专家核查其对照组设计与[[Sample Size Determination\|样本量]]，揭露其挑樱桃式拼凑数据（Cherry-picking）的商业本质，守护了公共教育采购与学术公信力。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 60]])
 
 ---
 

@@ -58,19 +58,19 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> **美国众议院教育与劳动力委员会（House Committee on Education and the Workforce）** 是美国国会众议院常设委员会（Standing Committee），对全美所有涉及联邦教育财政拨款、初等与中等教育、高等教育、学前启蒙、特殊教育及劳工权益的立法拥有排他性初审管辖权。作为联邦教育立法的政治中枢，该委员会不仅主导制定和重新授权国家教育基石法案，其常设专业幕僚（Committee Staff）更是筛选、吸纳与将学术实证证据转化为法定条文的制度化[[Gatekeepers\|守门人]]。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
+> **美国众议院教育与劳动力委员会（House Committee on Education and the Workforce）** 是[[United States Congress|美国国会]]众议院常设委员会（Standing Committee），对全美所有涉及联邦教育财政拨款、初等与中等教育、高等教育、学前启蒙、特殊教育及劳工权益的立法拥有排他性初审管辖权。作为联邦教育立法的政治中枢，该委员会不仅主导制定和重新授权国家教育基石法案，其常设专业幕僚（Committee Staff）更是筛选、吸纳与将学术实证证据转化为法定条文的制度化[[Gatekeepers\|守门人]]。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 创设于 1867 年（美国内战结束后的南方重建时期），最初设立教育委员会（Committee on Education）旨在统筹战后被解放奴隶与贫困平民的公共教育普及；后与劳工委员会合并演变为教育与劳工委员会（Committee on Education and Labor），在共和党主导时期常更名为教育与劳动力委员会。
 > - **总部地点与辐射范围** 设于美国首都华盛顿特区国会山雷伯恩众议院办公大楼（Rayburn House Office Building），管辖权辐射全美五十个州的公立学校系统、受联邦资助的高校以及[[Workforce Development|劳动力发展]]网络。
 > - **法人属性与宪政地位** 美国联邦宪法第一条授权设立的立法机关常设专门委员会，受众议院议事规程支配，掌握传唤证人、调阅机密档案、举行宣誓听证会与立法修正的最高宪政特权。
-> - **核心宗旨与法定职责** 确保联邦教育投资的宪政合规与有效性；主导重大联邦教育法案的起草、辩论与标记；对美国联邦教育部、劳工部及相关联邦科研机构（如 [[Institute of Education Sciences\|IES]]）实施常态化立法监督。
+> - **核心宗旨与法定职责** 确保联邦教育投资的宪政合规与有效性；主导重大联邦教育法案的起草、辩论与标记；对[[United States Department of Education|美国联邦教育部]]、劳工部及相关联邦科研机构（如 [[Institute of Education Sciences\|IES]]）实施常态化立法监督。
 
 ---
 

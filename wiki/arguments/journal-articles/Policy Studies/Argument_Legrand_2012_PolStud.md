@@ -61,7 +61,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-19
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Legrand_2012_PolStud"
@@ -169,7 +169,7 @@ issuing_organization: ""
 
 > [!policy-context] 英国新工党循证决策治理制度档案
 > - **治理问题** 破除长期失业群体的福利依赖，摆脱既往保守党政府意识形态化决策模式。
-> - **核心机构** 英国总督察内阁府（Cabinet Office）、财政部（HM Treasury）、就业与养老金部（DWP）。
+> - **核心机构** 英国总督察内阁府（[[Cabinet Office]]）、财政部（[[HM Treasury]]）、就业与养老金部（DWP）。
 > - **制度要求** 依据《[[Modernising Government|现代化政府]]》白皮书（Cabinet Office, 1999a），强制要求重大政策必须经过先行试点与定量评估方可全面铺开。
 > - **规程文本** 明确以《[[The Green Book|绿皮书]]》（政策评估与估算指南）、《紫红皮书》（政策评估与分析指南）作为行政检验规范。
 
@@ -222,7 +222,7 @@ issuing_organization: ""
 
 #### 1. 循证导向推动随机分配实验规程突破本土政治伦理争议
 
-1997 年底，英国下议院社会保障特别委员会赴美调研后建议，英国应当引入更具弹性的试点与区域性实验，以实现更加聚焦集约的因果评估 (House of Commons Social Security Select Committee, 1998)。然而，将实验设计植入社会政策领域必然遭遇深刻的价值冲突。
+1997 年底，英国下议院社会保障特别委员会赴美调研后建议，英国应当引入更具弹性的试点与区域性实验，以实现更加聚焦集约的因果评估 (House of Commons Social Security Select Committee, 1998)。然而，将[[Experimental Research|实验设计]]植入社会政策领域必然遭遇深刻的价值冲突。
 
 > [!policy-context] 社会实验引入过程中的伦理张力与制度突破
 > - **残障人士项目评估受阻** 2002 年，DWP 尝试在残障人士新政（New Deal for Disabled People, NDDP）中采用美式随机对照实验，但因设置不享受补贴的对照组而遭到社会倡导团体强烈抗议，被指责违背伦理、歧视弱势群体，导致项目一度搁浅 (Prasad, 2002)。

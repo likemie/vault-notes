@@ -46,15 +46,15 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2016 年 2 月由时任澳大利亚联邦财长斯科特·[[Keith Morrison\|莫里森]]（Scott Morrison MP）正式委托联邦生产力委员会（Productivity Commission）启动调查，最终报告于 2016 年底提交议会（Morrison, 2016；Australian Government Productivity Commission, 2016a）。
+> - **发布时间 / 发布主体** 2016 年 2 月由时任澳大利亚联邦财长[[James C. Scott|斯科特]]·[[Keith Morrison\|莫里森]]（Scott Morrison MP）正式委托联邦生产力委员会（Productivity Commission）启动调查，最终报告于 2016 年底提交议会（Morrison, 2016；Australian Government Productivity Commission, 2016a）。
 > - **适用地区 / 对象** 覆盖全澳早期儿童教育、基础教育中小学、职业教育与高等教育数据系统。
-> - **问题背景** 随着 NAPLAN 实施和 [[My School Website\|My School]] 网站上线，澳大利亚积累了海量量化数据，但数据处于严重的割裂孤岛状态；缺乏高等级因果评估证据指导每年逾 500 亿澳元的国家教育预算配置。
+> - **问题背景** 随着 [[NAPLAN]] 实施和 [[My School Website\|My School]] 网站上线，澳大利亚积累了海量量化数据，但数据处于严重的割裂孤岛状态；缺乏高等级因果评估证据指导每年逾 500 亿澳元的国家教育预算配置。
 > - **制度位置** 该审查构成了从国家最高经济审计机构层面论证设立国家教育证据机构合法性的基石文件，直接为 2017 年 [[Gonski 2.0]] 审查提供了先期蓝本与制度蓄水池（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7]]）。
 
 ---

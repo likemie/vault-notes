@@ -98,7 +98,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-10-15
-updated: 2026-10-22
+updated: 2026-10-26
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Beech_2009_GlobalGarden"
@@ -188,7 +188,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　全球教育场域经历深刻重组，跨国多元新型行动者打破传统国家垄断并重塑教育转移范式
+> [!claim] 论证步骤一　全球教育场域经历深刻重组，跨国多元新型行动者打破传统国家垄断并重塑教育转移[[Paradigm|范式]]
 > 当代全球化情境下的[[Policy Borrowing|教育借用]]与转移，已彻底打破了 19 世纪由主权国家政府特派官员垄断的花园采撷格局，[[Emergence|涌现]]出国际组织、跨国教育集团、咨询智库与大学援助部门等高度活跃的新型跨国行动者，迫使比较教育学摆脱以民族国家为唯一[[Unit of Analysis|分析单位]]的理论局限。（pp. 341–344）
 
 #### 1. 危机驱动的国家教育借用由来已久，但传统借用始终由主权国家特派官员垄断

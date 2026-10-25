@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -131,8 +131,8 @@ updated: 2026-10-22
 > - **友岸外包与跨国供应链多元化** 推动封装测试与成熟制程产能在越南、哥斯达黎加、巴拿马等友好国家分散布局，防范地缘热点集中爆发导致的断链风险。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 98, 100)]]
 > - **战略关键原材料出口反制** 掌握上游关键矿产（如镓、锗）主导份额的经济体，通过出口配额与许可限制反制技术管制，形成地缘经济博弈应对机制。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 101)]]
 > - **全要素中试基础设施与跨部门研发流水线** 现代产业政策超越单一的建厂补贴，通过设立国家级共享[[Pilot Scale Platform|中试平台]]（如 [[National Semiconductor Technology Center|国家半导体技术中心]] [[National Science and Technology Council|NSTC]]）、先进封装专项（[[National Advanced Packaging Manufacturing Program|NAPMP]]）与云端数字化设计与执行网关（DEG），构建贯通 [[National Science Foundation|NSF]] $\to$ 国防部微电子公社 $\to$ 商务部 NSTC/NAPMP $\to$ 商业晶圆代工厂的跨部委创新漏斗，大幅削减深科技初创企业的资本门槛。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 8–11)]]
-> - **跨部门战略统筹与公私风险分担机制** 现代产业政策构建了跨部委统筹架构（如白宫 NSTC 微电子领导小组委员会 [[Subcommittee on Microelectronics Leadership]], SML），将 NSF、DOD、[[Department of Energy|DOE]] 与 NIST 各部门研发预算与创新漏斗对齐；并通过早期引导基金（如 [[DARPA]] 嵌入式创业家倡议 [[Embedded Entrepreneurship Initiative]], EEI 与[[AFVentures|空军创投]] AFVentures [[SBIR and STTR Programs|SBIR]] 匹配机制），将深科技初创企业获得私营风投的转化率提升近 3 倍（从 10% 升至 29%），以公共资本撬动私营资本分担硬科技早期的工程化与量产风险。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 4, 24, 27–29)]]
-> - **集中式与协调者两种国家治理形态** 比较政治经济学视阈下，现代产业政策在不同政体展现出截然不同的治理路径：美国采取联邦集中直接资助模式，由中央行政系统自上而下统一挑选优先项目与直投补贴；欧盟受制于缺乏超国家税收自主权，采取多层级去中心化模式，欧盟委员会主要作为“[[Orchestrator State|产业政策协调者]]”（Orchestrator），依托放宽国家援助审查例外与[[Important Projects of Common European Interest|欧洲共同利益重要项目]]（IPCEI）等跨国框架，动员各成员国国库与私营资本共担风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3, 13–14)]]
+> - **跨部门战略统筹与公私风险分担机制** 现代产业政策构建了跨部委统筹架构（如白宫 NSTC 微电子领导小组委员会 [[Subcommittee on Microelectronics Leadership]], SML），将 NSF、[[Department of Defense|DOD]]、[[Department of Energy|DOE]] 与 [[National Institute of Standards and Technology|NIST]] 各部门研发预算与创新漏斗对齐；并通过早期引导基金（如 [[DARPA]] 嵌入式创业家倡议 [[Embedded Entrepreneurship Initiative]], EEI 与[[AFVentures|空军创投]] AFVentures [[SBIR and STTR Programs|SBIR]] 匹配机制），将深科技初创企业获得私营风投的转化率提升近 3 倍（从 10% 升至 29%），以公共资本撬动私营资本分担硬科技早期的工程化与量产风险。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 4, 24, 27–29)]]
+> - **集中式与协调者两种国家治理形态** 比较政治经济学视阈下，现代产业政策在不同政体展现出截然不同的治理路径：美国采取联邦集中直接资助模式，由中央行政系统自上而下统一挑选优先项目与直投补贴；欧盟受制于缺乏超国家税收自主权，采取多层级去中心化模式，[[European Commission|欧盟委员会]]主要作为“[[Orchestrator State|产业政策协调者]]”（Orchestrator），依托放宽国家援助审查例外与[[Important Projects of Common European Interest|欧洲共同利益重要项目]]（IPCEI）等跨国框架，动员各成员国国库与私营资本共担风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3, 13–14)]]
 
 > [!logic-map]- 现代产业政策的动力与工具系统
 > ```mermaid

@@ -2,7 +2,6 @@
 title: Education Sub Saharan Africa
 aliases:
   - 撒哈拉以南非洲教育倡议
-  - Education Sub Saharan Africa (ESSA)
 summary: "2016年创立、设于加纳阿克拉与英国的非营利性区域教育研究与政策中介组织，聚焦撒哈拉以南非洲高等教育与教师师资证据生态，通过联合剑桥大学共建非洲教育研究数据库（AERD）及师资人口统计项目，促进非洲本土高等教育学术成果向国家战略与国际资助决策的转化。"
 type: fact
 subtype: organization

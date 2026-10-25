@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -275,7 +275,7 @@ updated: 2026-10-22
 > | 研究与事件 | 样本与历史情境 | 规制或行为特征 | 涉及指标与数据表现 | 产生的制度后果与启示 |
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13\|Karp & Zamiska (2025, p. 148)]] | 1905 年基普委员会调查 | 联邦办公用品定制采购标准 | 采购 278 种钢笔、132 种铅笔、28 种墨水 | 开启美国联邦行政管理与破除红绳繁文缛节的制度探索 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13\|Karp & Zamiska (2025, pp. 148–149)]] | 1980 年代国防物资采购 | 军用技术规格标准（MIL-SPEC） | 700 多页饼干烘焙标准；单价 $435 账面锤子与 $400 旋钮 | 激发公众与国会对五角大楼采办泥潭的广泛批评 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13\|Karp & Zamiska (2025, pp. 148–149)]] | 1980 年代国防物资采购 | 军用技术规格标准（MIL-SPEC） | 700 多页饼干烘焙标准；单价 $435 账面锤子与 $400 旋钮 | 激发公众与国会对[[Department of Defense\|五角大楼]]采办泥潭的广泛批评 |
 > | [[Argument_Kickert_1995_Governance\|Kickert (1995, p. 143)]] | 1980 年代荷兰高等教育体制 | 柱体化法团妥协下的微观事前审批规章 | 数千项详尽行政法条，严格限制编制工时、课程与经费细目 | 确立[[Steering at a Distance\|远距离操纵]]以废除繁文缛节，转向事后质量反馈治理 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13\|Karp & Zamiska (2025, pp. 145–147)]] | 1990 年代初海湾战争 | 战时通信物资采购成本核算审查 | 空军急需不足 $20 摩托罗拉对讲机；借道日本代购 6000 部 | 暴露出合规要求阻断市场采购，直接促成 1994 年立法改革 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16\|Karp & Zamiska (2025, pp. 185–186)]] | 1985 年通用动力公司礼品调查 | 针对交付核潜艇之功臣的微观合规清算 | 16 年间累计 $67,628 小礼品（年均 $4,200） | 揭示体制在面临深层无能时退守程序虔敬并启动[[Scapegoat Mechanism\|替罪羊机制]] |

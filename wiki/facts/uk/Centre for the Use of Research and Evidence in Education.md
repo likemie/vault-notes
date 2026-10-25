@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -108,7 +108,7 @@ updated: 2026-10-22
 ---
 
 > [!finding-cards] 核心业务与代表性成果
-> - **研究路线图（Research Route Maps）** 国际知名的交互式实践导引系统，将数百项关于[[Formative Assessment\|形成性评价]]、差异化教学与[[Peer Mentoring\|同伴指导]]的研究成果转化为可视化的微观教学路径图。
+> - **研究路线图（Research Route Maps）** 国际知名的交互式实践导引系统，将数百项关于[[Formative Assessment\|形成性评价]]、[[Differentiated Instruction|差异化教学]]与[[Peer Mentoring\|同伴指导]]的研究成果转化为可视化的微观教学路径图。
 > - **国家教学辅导与指导框架（National Coaching and Mentoring Framework）** 为全英教师培训建立标准化的同行辅导操作指引，推动循证反思成为教师日常专业习惯。
 > - **协作型 CPD [[Systematic Review\|系统综述]]序列** 连续发布的教师专业发展系统综述，奠定了全球循证教师教育领域的理论基石。
 > - **微观教学证据快报（Evidence Snapshots）** 针对[[Classroom Management\|课堂管理]]、认知负荷调控、提问技巧等具体微观技能，发布 2–4 页的高密度实战指南。
@@ -123,7 +123,7 @@ updated: 2026-10-22
 > [!indicators] 影响力维度与指标
 > - **补足清算中心的“最后一公里”断层** 弥补了传统清算中心（如 [[What Works Clearinghouse\|WWC]]）仅提供宏观[[Effect Size\|效应量]]与达标评级、却无法指导教师微观课堂操作的致命脱节([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 34]])。
 > - **确立[[Practice-Based Evidence\|实践本位证据]]（PBE）的尊严** 坚决捍卫实践者从日常反思中生成的细粒度情境知识，推动学界承认教师不是被动接受外部处方的操作工，而是知识的能动共创者([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 129]])。
-> - **重塑英国教师在职培训标准** 其关于“协作型专业学习”的实证证据被英国教育部直接吸纳为《教师专业发展标准》的核心支柱。
+> - **重塑英国教师在职培训标准** 其关于“协作型专业学习”的实证证据被[[Department for Education|英国教育部]]直接吸纳为《教师专业发展标准》的核心支柱。
 
 > [!finding-cards] [[Paradigm\|范式]]贡献与专业赋权
 > - **引领国际[[Knowledge Mobilisation\|知识动员]]由“推送”走向“对话”** 早在全系统生态模型流行前，便率先倡导研究者与一线教师在平等学习对话（Dialogue）中共建知识。

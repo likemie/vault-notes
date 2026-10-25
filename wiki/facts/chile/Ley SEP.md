@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -55,7 +55,7 @@ updated: 2026-10-22
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2008 年由智利国民议会审议通过、中左翼巴切莱特政府颁布实施（第 20.248 号公法）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 257)]]
 > - **适用地区 / 对象** 全国自愿签署协议的市镇公立学校与政府[[Centros Concertados|资助私立学校]]（Subvencionados），覆盖基础教育阶段处于贫困线以下的优先处境学生（alumnos prioritarios）。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 257)]]
-> - **问题背景** 1981 年设立的平价教育券制度（[[Chilean Educational Reform of 1981]]）刺激私立学校通过加收[[School Choice|择校]]费与筛选生源引发严重的社会阶层隔离，弱势群体集中的公立学校深陷生源流失与财政赤字危机。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257)]]
+> - **问题背景** 1981 年设立的平价[[School Vouchers|教育券]]制度（[[Chilean Educational Reform of 1981]]）刺激私立学校通过加收[[School Choice|择校]]费与筛选生源引发严重的社会阶层隔离，弱势群体集中的公立学校深陷生源流失与财政赤字危机。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 257)]]
 > - **制度位置** 在维持新自由主义教育券体系基本盘的前提下，通过注入累进财政补偿并建立严格的[[Academic Achievement|学业表现]]达标协议，使国家从单纯的财政买单者转向具有深度规制权的监督者。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 257–258)]]
 
 ---

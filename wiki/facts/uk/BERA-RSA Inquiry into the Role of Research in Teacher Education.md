@@ -38,14 +38,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2013–2014 年，英国。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 2)]]
-> - **关键主体** [[British Educational Research Association\|英国教育研究学会]]（British Educational Research Association, BERA）与英国皇家艺术学会（Royal Society of the Arts, RSA）。
+> - **关键主体** [[British Educational Research Association\|英国教育研究学会]]（British Educational Research Association, BERA）与英国皇家艺术学会（[[Royal Society]] of the Arts, RSA）。
 > - **制度背景** 随着[[Evidence-Based Education\|循证教育]]与以学校为主导的教师培训政策推进，英国及国际学界日益关注如何在教师职前教育与在职专业发展中深化教育科研的支撑作用。
 > - **触发条件** 传统教师教育中理论与实践脱节严重，急需系统厘清科研对提升教学效能与学校自我完善能力的制度路径。
 

@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -58,7 +58,7 @@ updated: 2026-10-22
 > - **边界** 聚焦于消除掠夺性倾销套利与不当经济诱导的客观基准核算，不适用于反映高变动性新兴技术快速演进的学习曲线动态良率溢价，亦与学术机构固定重资产折旧的间接管理费存在结构性摩擦。
 
 > [!citation-card] 贸易协定中的公平市场价值底线机制
-> 1986 年[[1986 U.S.-Japan Semiconductor Trade Agreement|美日半导体贸易协定]]引入了由美国商务部基于各日本厂商生产成本核算的公平市场价值（FMV）季度最低售价底线，严禁日本企业低于该价格在美销售或向第三方市场转口；然而这一行政价格底线严重忽视了半导体制造学习曲线带来的良率快速上升和成本骤降，直接导致了全球范围内的供给短缺与价格扭曲。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 125–126)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 85)]]
+> 1986 年[[1986 U.S.-Japan Semiconductor Trade Agreement|美日半导体贸易协定]]引入了由[[Department of Commerce|美国商务部]]基于各日本厂商生产成本核算的公平市场价值（FMV）季度最低售价底线，严禁日本企业低于该价格在美销售或向第三方市场转口；然而这一行政价格底线严重忽视了半导体制造学习曲线带来的良率快速上升和成本骤降，直接导致了全球范围内的供给短缺与价格扭曲。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 125–126)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 85)]]
 >
 > *Under the 1986 agreement, the US Department of Commerce established firm-specific Fair Market Value (FMV) price floors based on quarterly estimates of Japanese production costs to prevent dumping in the US and third-country markets.*
 
@@ -116,7 +116,7 @@ updated: 2026-10-22
 > 传统反倾销所倚重的 FMV 假定产品单位成本随时间相对稳定，然而在先进制程半导体制造中，良率随产量呈非线性陡峭攀升，静态行政价格底线必然导致价格扭曲。
 
 > [!claim] Macher, Mowery and Hodges (1998)
-> **静态价格底线对动态规模经济的抑制与非预期扭曲** 杰弗里·马赫（Jeffrey T. Macher）与戴维·莫厄里（[[David C. Mowery]]）等指出，1986 年美日贸易协定以季度为周期核定各日本企业的 FMV 底线，要求其售价严格不得低于测算成本。然而，当日本芯片企业在 1M 和 4M DRAM 制造中良率迅速攀升、实际单位成本呈指数级下跌时，美国商务部滞后且刚性的 FMV 价格底线强制将市场价格锁定在高位，意外导致 1987 至 1988 年全球 DRAM 出现严重供给短缺；这一机制不仅为受限的日本厂商创造了高达数十亿美元的超额利润，更直接推高了美国下游计算机厂商的系统成本。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 125–127)]]
+> **静态价格底线对动态规模经济的抑制与非预期扭曲** 杰弗里·马赫（Jeffrey T. Macher）与戴维·莫厄里（[[David C. Mowery]]）等指出，1986 年美日贸易协定以季度为周期核定各日本企业的 FMV 底线，要求其售价严格不得低于测算成本。然而，当日本芯片企业在 1M 和 4M DRAM 制造中良率迅速攀升、实际单位成本呈指数级下跌时，[[Department of Commerce|美国商务部]]滞后且刚性的 FMV 价格底线强制将市场价格锁定在高位，意外导致 1987 至 1988 年全球 DRAM 出现严重供给短缺；这一机制不仅为受限的日本厂商创造了高达数十亿美元的超额利润，更直接推高了美国下游计算机厂商的系统成本。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 125–127)]]
 
 > [!claim] [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]]
 > **价格管制外溢为后发进入者构筑战略保护伞** 查德·博恩（Chad P. Bown）与汪智（Zhi Wang）指出，基于 FMV 的双边管理贸易未能恢复美国本土的 DRAM 制造霸权，反而构成了全球半导体产业地缘重构的推手。由于美日协定严格锁死日本企业的全球最低售价，使得当时制造技术尚不成熟、生产成本与缺陷率仍偏高的韩国三星和现代电子能够以略低于日本 FMV 底线的价格大量供货，在这一人为设定的价格保护伞下积累了资本与[[Learning by Doing|干中学]]经验，最终在 1990 年代取代日本成为全球存储制造主导者。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 85–86)]]

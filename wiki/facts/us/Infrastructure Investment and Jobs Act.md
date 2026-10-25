@@ -17,7 +17,7 @@ fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "United States Congress"
+issuing_organization: "[[United States Congress]]"
 tags:
   - fact/policy
   - region/us
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -87,7 +87,7 @@ updated: 2026-10-22
 ---
 
 > [!actor-grid] 实施角色分工
-> - **发布主体** 美国国会两党多数派与总统行政办公室。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
+> - **发布主体** [[United States Congress|美国国会]]两党多数派与总统行政办公室。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
 > - **执行主体** 美国交通部（Department of Transportation, DOT）、[[Department of Energy|美国能源部]]（Department of Energy, DOE）、商务部国家电信和信息管理局（National Telecommunications and Information Administration, NTIA）、环境保护署（Environmental Protection Agency, EPA）以及白宫管理与预算办公室（OMB）下设的美国制造办公室（MIAO）。
 > - **适用对象** 各州交通局、市政公用事业、电网运营商、施工总承包商与工程建材制造商。
 > - **政策工具** 公式拨款（Formula Grants）、竞争性资助（Discretionary Grants）、低息信贷计划（TIFIA 与 WIFIA）及 [[Build America, Buy America Act|BABA]] 豁免规程。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–13)]]

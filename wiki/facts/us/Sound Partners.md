@@ -50,18 +50,18 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> **Sound Partners（声音伙伴）** 是由华盛顿大学（University of Washington）帕特里夏·瓦达西（Patricia Vadasy）研究团队研发、全美公立学校广泛采纳的早期读写一对一辅导干预项目；其核心目标是通过为低成本的非专业师资（尤其是教学助教与校本辅导员）配备高度脚本化、基于拼读与音素意识的结构化教材，为幼儿园至小学一年级面临严重阅读困难的儿童提供高频、精准的一对一早期干预。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
+> **Sound Partners（声音伙伴）** 是由华盛顿大学（University of Washington）帕特里夏·瓦达西（Patricia Vadasy）研究团队研发、全美公立学校广泛采纳的早期读写一对一[[Tutoring Interventions|辅导干预]]项目；其核心目标是通过为低成本的非专业师资（尤其是教学助教与校本辅导员）配备高度脚本化、基于拼读与[[Phonemic Awareness|音素意识]]的结构化教材，为幼儿园至小学一年级面临严重阅读困难的儿童提供高频、精准的一对一早期干预。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
 
 > [!program-context] 项目背景
-> - **立项时间与周期** 始创于 1990 年代后期，经美国教育部特别教育研究中心与 [[Institute of Education Sciences\|IES]] 多项科研课题持续资助与多中心评估，常态化运行至今逾二十年。
+> - **立项时间与周期** 始创于 1990 年代后期，经[[United States Department of Education|美国教育部]]特别教育研究中心与 [[Institute of Education Sciences\|IES]] 多项科研课题持续资助与多中心评估，常态化运行至今逾二十年。
 > - **发起方与资助机制** 华盛顿大学研发团队牵头，美国联邦教育部特教项目办公室（OSEP）与教育科学研究院（IES）提供研发与对照试验评估资助。
-> - **覆盖范围与对象** 全美各州公立小学中在语音意识、字母发音对应及早期[[Decodification\|解码]]技能上处于全校后 20% 的幼儿园与一年级弱势学生。
+> - **覆盖范围与对象** 全美各州公立小学中在[[Phonological Awareness|语音意识]]、字母发音对应及早期[[Decodification\|解码]]技能上处于全校后 20% 的幼儿园与一年级弱势学生。
 > - **核心问题导向** 攻克早期个别化补救教学严重依赖昂贵专业阅读教师、导致普通公立学校因财政预算限制而无法普及一对一辅导的瓶颈。
 
 ---

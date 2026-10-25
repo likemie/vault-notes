@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 背景
@@ -44,7 +44,7 @@ updated: 2026-10-22
 > EBTN 的目标是促进教育领域利益相关者之间分享证据和想法。它提供关于证据本位实践的信息，并为实践者提供培训([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.34]])。
 
 > [!note] 时间线
-> - 2021 — Pellegrini & Vivanet 将 EBTN 归入欧洲证据传播组织，用来说明证据文化不只依赖研究中心，也依赖教师网络([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.34]])。
+> - 2021 — Pellegrini & Vivanet 将 EBTN 归入欧洲证据传播组织，用来说明[[Evidence Culture|证据文化]]不只依赖研究中心，也依赖教师网络([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.34]])。
 
 > [!example] 实施情况
 > EBTN 的运作重点是横向交流：教师、大学研究者和其他教育相关者通过网络分享证据、想法和实践培训，而不是由单一清算中心向学校单向发布评级([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.34]])。

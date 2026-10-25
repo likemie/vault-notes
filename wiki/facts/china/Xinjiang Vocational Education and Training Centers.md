@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 > [!info] 背景
@@ -66,7 +66,7 @@ updated: 2026-10-22
 > - 但这一框架存在政治的悖论：它将维吾尔人称为"土著人民"（indigenous peoples），却将自决重新定义为"国家内部的自治"（而非独立），实际上与中共限制少数民族的政治框架形成了合谋。
 > - [[Settler Colonialism\|定居殖民主义]]框架虽然有力地揭示了汉人—维吾尔人关系的权力不对等，但其支持者（如《新疆元年》的编辑们）明确拒绝支持维吾尔人在新疆的自决权，理由是维吾尔民族主义"不够包容和去殖民"。
 
-> [!abstract] 与汉化的关系
+> [!abstract] 与[[Sinicisation|汉化]]的关系
 > 教培中心是 [[Sinicisation]] 政策的极端体现([[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p.64]])：
 > - 语言层面：强制被拘留者学习普通话。
 > - 文化层面：强制学习儒家经典（如《三字经》）。

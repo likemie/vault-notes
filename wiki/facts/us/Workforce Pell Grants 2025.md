@@ -15,7 +15,7 @@ fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "美国国会"
+issuing_organization: "[[United States Congress|美国国会]]"
 period: "2025年生效实施"
 tags:
   - region/us
@@ -43,13 +43,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景与历史动因
-> - **立法通过与生效时间** 2025 年经美国国会通过并生效实施。
+> - **立法通过与生效时间** 2025 年经[[United States Congress|美国国会]]通过并生效实施。
 > - **适用地区与受惠对象** 全美经认证的短周期高质量职业技术培训项目、社区学院（Community Colleges）、技术学校及其学员。
 > - **历史制度扭曲与文凭垄断** 长期以来，美国联邦高等教育学生资助体系（尤其是《[[Higher Education Act of 1965|高等教育法]]》第四章下的佩尔助学金 [Federal Pell Grants] 及联邦学生贷款）受到严格的“学时与学位门槛”限制，仅资助至少 15 周（或 600 个学时）的副学士或学士学位项目。这种资助倾斜在财政上极大偏向了传统四年制文凭教育，导致不以学位为导向的高质量动手手艺、职业技能培训与短周期技术证书项目被系统性排除在联邦资助之外。
 > - **国家科技安全与制造生态紧迫感** 在半导体制造回流、先进核反应堆建造、生物医药发酵与精密仪器装配等战略领域，美国面临严重的熟练技术工人与排障技师断层；白宫科技报告指出，缺乏掌握默会[[Process Knowledge|过程知识]]的产业工人，导致前沿科学发现无法在本土实现中试与规模化量产。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 48–53)]]

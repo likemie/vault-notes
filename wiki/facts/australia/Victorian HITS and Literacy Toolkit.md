@@ -65,7 +65,7 @@ part_of: ""
 confidence: high
 status: stable
 created: 2026-05-03
-updated: 2026-10-20
+updated: 2026-10-26
 year: 2017
 doi: ""
 citation_aliases: []
@@ -76,7 +76,7 @@ citation_aliases: []
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2017 年由澳大利亚维多利亚州教育部（Department of Education and Training Victoria, DET Victoria）正式发布实施（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]）。
 > - **适用地区 / 对象** 覆盖维多利亚州全境公立中小学校，规范对象为公立系统内的全体 K-12 教师、学科协调员与[[School Leadership|学校领导]]团队。
-> - **问题背景** 在新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）与澳大利亚全国学生评估项目（NAPLAN）标准化考核压力下，维州教育部急需推行一套能够展现循证问责成效、可大范围低成本复制且便于行政监管的教学标准方案；[[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（Visible Learning）及其团队的[[Effect Size|效应量]]排行榜被决策层直接采纳为最高科学证据支持（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
+> - **问题背景** 在新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）与澳大利亚全国学生评估项目（[[NAPLAN]]）标准化考核压力下，维州教育部急需推行一套能够展现循证问责成效、可大范围低成本复制且便于行政监管的教学标准方案；[[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（Visible Learning）及其团队的[[Effect Size|效应量]]排行榜被决策层直接采纳为最高科学证据支持（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
 > - **制度位置** 政策作为维多利亚州“教育之州”（Education State）学校改进核心议程的支柱性抓手，直接与教师专业绩效评估、校级发展规划及日常督导巡查深度绑定。
 
 ---
@@ -128,7 +128,7 @@ citation_aliases: []
 > - **2016年** 商业出版机构 [[Corwin Press|Corwin]]（拥有 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 商业品牌）出版《[[Visible Learning|可见的学习]]读写教学》（Fisher, Frey, & Hattie, 2016），为维州后续读写政策提供了实操蓝本（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]）。
 > - **2017年** 维多利亚州教育部正式发布 10 项 HITS 指南与《读写教学工具包》，宣布全州公立中小学全面启动循证教学改进（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]）。
 > - **2020年** 维州一线教师与学者帕特里克·奥康纳（Patrick O'Connor, 2020）在《澳大利亚语言与识字学报》发表细读研究，揭露 HITS 所依据的[[John Hattie|哈蒂]][[Meta-analysis|元分析]]存在严重的分类错误与数据计算失误，政策[[Chain of Evidence|证据链]]底部存在重大漏洞。
-> - **2022年** 莉莉（Lilley, 2022）与韦斯科特（Wescott, 2022）的[[Fieldwork|田野调查]]揭示，HITS 在基层学区演化为极端的[[Performativity|表演性]]白板打卡与形式主义常规检查，导致教师执教热情骤降。
+> - **2022年** 莉莉（Lilley, 2022）与韦[[James C. Scott|斯科特]]（Wescott, 2022）的[[Fieldwork|田野调查]]揭示，HITS 在基层学区演化为极端的[[Performativity|表演性]]白板打卡与形式主义常规检查，导致教师执教热情骤降。
 > - **2023年** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）系统批判维州 HITS 政策，指出其代表了[[Neo-Taylorism|新泰勒主义]]全景监控与教育特许加盟化对[[Teacher Professional Agency|教师专业自主权]]的系统性侵蚀。
 
 ---

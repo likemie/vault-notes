@@ -47,13 +47,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 平台背景与制度定位
-> **英国科研成果与影响追踪系统（Researchfish）** 是英国研究与创新署（UK Research and Innovation, UKRI）、经济与社会研究理事会（Economic and Social Research Council, ESRC）、医学研究理事会（[[Meta-Representational Competence\|MRC]]）及主要慈善基金会联合采纳的云端科研产出与长效影响力报告平台。该平台要求所有获得公共科研经费资助的首席科学家在项目结项后长达 5 至 10 年内，持续填报科研论文、政策采纳、专利转化、媒体报道及现实社会经济[[Research Impact\|研究影响力]]，是英国高等教育在[[New Public Management\|新公共管理]]（New Public Management, NPM）导向下构筑学术审计文化的核心技术装置。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 571)]]
+> **英国科研成果与影响追踪系统（Researchfish）** 是[[UK Research and Innovation|英国研究与创新署]]（UK Research and Innovation, UKRI）、[[Economic and Social Research Council|经济与社会研究理事会]]（Economic and Social Research Council, ESRC）、医学研究理事会（[[Meta-Representational Competence\|MRC]]）及主要慈善基金会联合采纳的云端科研产出与长效影响力报告平台。该平台要求所有获得公共科研经费资助的首席科学家在项目结项后长达 5 至 10 年内，持续填报科研论文、政策采纳、专利转化、媒体报道及现实社会经济[[Research Impact\|研究影响力]]，是英国高等教育在[[New Public Management\|新公共管理]]（New Public Management, NPM）导向下构筑学术审计文化的核心技术装置。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 571)]]
 
 > [!program-context] 制度背景
 > - **启用时间与演进跨度** 最初由英国医学研究理事会于 2008 年倡导研发，2012 年起逐步扩展为全英七大研究理事会（现 UKRI）强制统一使用的官方影响追踪系统，并常态化运行至今。

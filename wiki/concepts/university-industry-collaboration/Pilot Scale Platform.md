@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -216,7 +216,7 @@ updated: 2026-10-22
 > 探讨公共开放中试平台如何突破私营大企业垄断联合体的排他壁垒，赋能中小初创企业。
 
 > [!claim] [[Argument_Logar_2014_Minerva|Logar et al. (2014)]]
-> **公共开放中试平台承担重资产锁定[[Research Translation|技术转化]]的刚性载体** 类似[[Semiconductor Research Corporation|半导体研究公司]]（SRC）这类由行业巨头主导的[[Membership-based Research Consortium|会员制研发联合体]]因高额会费与派驻负担，天然对中小初创企业构成排斥壁垒；联邦机构与国家实验室必须建立专门的公共开放中试平台（如 NIST 纳米制造中心），为中小微企业提供低门槛进入的共享流片与工艺放大环境，并在光伏与电网等重资产锁定领域承担全链条技术示范与并网测试。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 255–257)]]
+> **公共开放中试平台承担重资产锁定[[Research Translation|技术转化]]的刚性载体** 类似[[Semiconductor Research Corporation|半导体研究公司]]（SRC）这类由行业巨头主导的[[Membership-based Research Consortium|会员制研发联合体]]因高额会费与派驻负担，天然对中小初创企业构成排斥壁垒；联邦机构与国家实验室必须建立专门的公共开放中试平台（如 [[National Institute of Standards and Technology|NIST]] 纳米制造中心），为中小微企业提供低门槛进入的共享流片与工艺放大环境，并在光伏与电网等重资产锁定领域承担全链条技术示范与并网测试。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 255–257)]]
 
 ---
 

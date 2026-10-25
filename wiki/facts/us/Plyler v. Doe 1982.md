@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -75,14 +75,14 @@ updated: 2026-10-22
 > - **1977** 泰勒市（Tyler）学区据此要求无证学生缴纳学费，墨西哥裔家庭匿名提起集体诉讼。
 > - **1982** 联邦最高法院布伦南（William J. Brennan Jr.）大法官执笔多数意见，正式推翻得州法案。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 365)]]
 > - **1994** 加利福尼亚州试图通过 187 号提案（Proposition 187）剥夺无证移民公共教育与医疗福利，随后被联邦地区法院依据该案判例裁定违宪无效。
-> - **2000 年代至今** 判决成为美国联邦教育部流动教育办公室（Office of [[Migrant Education]]）推进学籍登记与流动学童资助计划的根本法律基石。
+> - **2000 年代至今** 判决成为[[United States Department of Education|美国联邦教育部]]流动教育办公室（Office of [[Migrant Education]]）推进学籍登记与流动学童资助计划的根本法律基石。
 
 ---
 
 > [!actor-grid] 实施角色分工
 > - **司法终审主体** 联邦最高法院，裁定州级排斥性教育立法违宪。
 > - **联邦协调机构** 联邦教育部流动教育办公室（Office of [[Migrant Education]], OME），组织跨州区域协作网络并执行流动教育专项拨款项目（Migrant Education Program, MEP）。
-> - **地方公立学区** 被禁止在学童注册入学时核查移民身份，严禁向移民执法部门通报学生家庭身份信息。
+> - **地方公立学区** 被禁止在学童注册入学时核查[[Immigrant Status|移民身份]]，严禁向移民执法部门通报学生家庭身份信息。
 > - **受益流动群体** 包括墨西哥裔、海地裔、波多黎各裔、非洲裔、越南裔、柬埔寨裔及东欧移民背景的季节性农业务工子女与[[Migrant Children|流动儿童]]。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 365–366)]]
 
 > [!pathways] 实施路径与长远制度影响

@@ -14,7 +14,7 @@ fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
-issuing_organization: "英国教育部（Department for Education, DfE）"
+issuing_organization: "[[Department for Education|英国教育部（Department for Education, DfE）]]"
 tags:
   - policy/funding
   - evidence-based-education
@@ -41,13 +41,13 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!program-context] 项目背景
-> - **立项时间 / 发起主体** 英国教育部（Department for Education, DfE）于 2017 年正式设立战略学校改进基金（Strategic School Improvement Fund, SSIF）。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 596)]]
+> - **立项时间 / 发起主体** [[Department for Education|英国教育部]]（Department for Education, DfE）于 2017 年正式设立战略学校改进基金（Strategic School Improvement Fund, SSIF）。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 596)]]
 > - **适用对象 / 覆盖范围** 英格兰地区面临学业挑战与质量困境的公立中小学校，重点支持办学表现落后与资源匮乏的学区集群。
 > - **问题导向** 旨在向面临学术困境的薄弱学校注入专项财政支持，通过资助针对性的改进项目与专业培训，促进学校整体办学水平提升与学生[[Academic Achievement\|学业成就]]改善。
 > - **制度位置** 作为英国政府继学生资助溢价（[[Pupil Premium]]）之后推动薄弱学校质量攻坚的大型竞争性拨款计划，但在拨款准入标准上与同期的国际证据规制实践产生严重偏离。
@@ -85,6 +85,6 @@ updated: 2026-10-22
 > |:-----|:-----|:-----|
 > | [[Education Endowment Foundation]] | 机构 | 英国官方循证研究资助中枢，其证据库未被 SSIF 强制采纳引发争议 |
 > | [[Every Student Succeeds Act]] | 政策 | 美国联邦教育主法，其将学校改进资金与 4 级证据强制绑定的规制路径与 SSIF 形成对比 |
-> | [[Investing in Innovation Program]] | 项目 | 美国联邦教育部高额资助项目，强制要求大额资助绑定顶级证据 |
+> | [[Investing in Innovation Program]] | 项目 | [[United States Department of Education\|美国联邦教育部]]高额资助项目，强制要求大额资助绑定顶级证据 |
 > | [[Engineered Evidence]] | 概念 | 克服薄弱学校盲目选择低效项目的宏观制度解决方案 |
 > | [[Pupil Premium]] | 政策 | 英国同类专项资金，面临相同的非强制性证据指引困境 |\n

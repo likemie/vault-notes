@@ -77,7 +77,7 @@ updated: 2026-10-26
 
 > [!timeline] 政策时间线
 > - **1997年** [[National Science Board|国家科学委员会]]（NSB）正式确立“学术价值”（Intellectual Merit）与“更广泛的影响”（Broader Impacts）双准则框架。
-> - **2007年** 美国国会通过《[[America COMPETES Act|美国竞争法案]]》（America COMPETES Act），立法敦促 [[National Science Foundation|NSF]] 强化对青年科研人员培训与 [[STEM Education|STEM]] 普及评估。
+> - **2007年** [[United States Congress|美国国会]]通过《[[America COMPETES Act|美国竞争法案]]》（America COMPETES Act），立法敦促 [[National Science Foundation|NSF]] 强化对青年科研人员培训与 [[STEM Education|STEM]] 普及评估。
 > - **2010年** NSF 修订 PAPPG 评审指南，正式将缺乏“更广泛的影响”独立章节与具体实施方案的申请列为形式审查不合格（Return without Review）。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 > - **2025年** 在保守派行政令强化“黄金标准”与削减特定 [[Diversity, Equity, and Inclusion|DEI]] 项目的新政治情境下，“更广泛的影响”准则中关于包容性与社会公平的界定面临新一轮政治重估。
 

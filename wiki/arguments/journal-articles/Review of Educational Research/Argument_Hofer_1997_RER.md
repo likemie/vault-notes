@@ -62,7 +62,7 @@ sources:
 part_of:
 status: active
 created: 2026-08-13
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Hofer_1997_RER"
@@ -314,7 +314,7 @@ Schommer (1990) 编制了包含 63 个题目的量表，提取出了四到五个
 ---
 
 > [!conclusion] 结论与启示
-> 真正的[[Epistemology\|认识论]]发展研究必须明确[[Construct\|构念]]的边界，将关于学习和智力的信念（外围成分）与关于知识和认知性质的信念（核心成分）区分开来。个体对这四个核心维度的理解，形成了一种类似个人理论（personal theories）的认知结构，指导他们在面对不同学术任务时的学习策略和动机。
+> 真正的[[Epistemology\|认识论]]发展研究必须明确[[Construct\|构念]]的边界，将关于学习和智力的信念（外围成分）与关于知识和认知性质的信念（核心成分）区分开来。个体对这四个核心维度的理解，形成了一种类似个人理论（personal theories）的认知结构，指导他们在面对不同学术任务时的[[Learning Strategies|学习策略]]和动机。
 
 > [!implication]- 对未来研究的影响
 > 1. **[[Domain Specificity\|领域特殊性]]（domain specificity）** 未来的研究需要探索[[Epistemological Theories\|认识论理论]]在不同学科（如数学与历史）中是否表现出特殊性。

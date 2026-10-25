@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -140,13 +140,13 @@ updated: 2026-10-22
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **资本配置异化命题** | 盲目跟从消费风口取消了关于重大公共善与国家战略投资的审议空间 | 资本市场资源分配、[[Dot-Com Bubble\|互联网泡沫]]反思 | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15\|Karp & Zamiska (2025, pp. 171–172)]] |
+> | **资本配置异化命题** | 盲目跟从消费风口取消了关于重大公共善与国家战略投资的[[Deliberative Space\|审议空间]] | 资本市场资源分配、[[Dot-Com Bubble\|互联网泡沫]]反思 | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15\|Karp & Zamiska (2025, pp. 171–172)]] |
 > | **公关避险致荒命题** | 科技巨头以公关辞令退出争议领域，实质是将公共治理推向技术贫困 | 警务科技伦理、公共部门技术采购与应用 | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15\|Karp & Zamiska (2025, pp. 175–177)]] |
 
 ---
 
 > [!dev-timeline] 技术逃避主义的思想与产业演变历程
-> - **1960s–1980s — 国家战略工程主导期** 在冷战与空间竞赛推动下，顶尖技术高度集中于阿波罗登月、五角大楼网络（[[ARPANET]]）与半导体硬科技，技术研发紧密服务于国家公共使命。
+> - **1960s–1980s — 国家战略工程主导期** 在冷战与空间竞赛推动下，顶尖技术高度集中于阿波罗登月、[[Department of Defense|五角大楼]]网络（[[ARPANET]]）与半导体硬科技，技术研发紧密服务于国家公共使命。
 > - **1990s–2010s — [[Consumer Internet|消费互联网]]崛起与[[Market Triumphalism|市场必胜论]]确立** 随着冷战结束与自由市场扩张，硅谷研发重心全面转向消费端门户、电商、社交与娱乐应用，道德中立成为科技企业主流准则。
 > - **2020s — 技术逃避主义批判与[[Technological Republic|技术共和国]]倡议** 卡普与扎米斯卡（2025）系统揭露技术逃避主义对公共治理的破坏，主张以[[Engineering Mindset|工程思维]]与[[Founder Culture|创始人文化]]重构国家技术能力，打破[[Innovation Desert|创新荒漠]]。
 

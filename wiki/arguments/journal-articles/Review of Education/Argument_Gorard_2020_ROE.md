@@ -93,7 +93,7 @@ related_facts:
   - "[[Strategic School Improvement Fund]]"
 status: completed
 created: 2026-09-15
-updated: 2026-10-25
+updated: 2026-10-26
 journal: Review of Education
 citation: "Gorard, S., See, B. H., & Siddiqui, N. (2020). What is the evidence on the best way to get evidence into use in education? Review of Education, 8(2), 570–610."
 authors:
@@ -232,7 +232,7 @@ sources:
 更为严重的是，现行科研评价体制建立在一种完全错误的方法学假设之上：假定单项研究成果能够且应当直接对现实政策或一线课堂产生独立的现实影响。
 
 > [!tension] 单项[[Research Impact\|研究影响力]]狂热 vs 贝叶斯证据体综合需求
-> - **单项研究影响力狂热（英国 REF 与 ESRC 导向）** 英国卓越研究框架（[[Research Excellence Framework]], REF）将巨额政府拨款与单项科研项目的影响力个案挂钩；经济与社会研究理事会（Economic and Social Research Council, ESRC）强行要求所有资助项目在全周期内开展[[Knowledge Exchange\|知识交流]]与影响，并通过[[Researchfish\|英国科研成果与影响追踪系统]]（Researchfish）长期监控，设立杰出影响力大奖表彰在现实中获得广泛应用的项目。
+> - **单项研究影响力狂热（英国 REF 与 [[Economic and Social Research Council|ESRC]] 导向）** 英国卓越研究框架（[[Research Excellence Framework]], REF）将巨额政府拨款与单项科研项目的影响力个案挂钩；经济与社会研究理事会（Economic and Social Research Council, ESRC）强行要求所有资助项目在全周期内开展[[Knowledge Exchange\|知识交流]]与影响，并通过[[Researchfish\|英国科研成果与影响追踪系统]]（Researchfish）长期监控，设立杰出影响力大奖表彰在现实中获得广泛应用的项目。
 > - **贝叶斯证据体综合需求（循证科学基石）** 真实的教育情境极少开展直接重复试验。单项研究哪怕设计极为严密，其结论仍极易受到特定样本、局部情境与未测[[Variable\|变量]]的扰动，甚至极可能被后续更高质[[Quantitative Research\|量的研究]]所[[Falsification\|证伪]]。在贝叶斯证据积累视角下，任何单项研究本身绝不具备指导宏观行动的合法性；真正的决策基石只能是基于全体高质量研究的综合证据体。
 
 这种制度导向不可避免地诱发了严重的道德风险与学术推销行为。
@@ -357,7 +357,7 @@ sources:
 > - **专家研讨与倡导者机制** 干预组建立跨校 RLC，由学术专家直接与各校推举的学校证据倡导者开展深度系列工作坊，系统探讨经过验证的读写教学实证策略，并协助其回校向全体教师级联推广。
 > - **学业结局零收益** [[Implementation and Process Evaluation\|过程评估]]显示，干预有效激发了教师对教育研究的兴趣与讨论热情。然而，在经历整整两年干预后，5,462 名小学生的客观阅读统考成绩毫无改善，甚至呈现出微弱的负向扰动（$ES = -0.03$）。单纯促进教师探讨证据，无法确保微观课堂教学行为的准确转化。
 
-更具代表性的是佛罗里达州的大规模严谨试验，揭示了教师协作感知提升与学生客观学业提升之间的巨大鸿沟。
+更具代表性的是佛罗里达州的大规模严谨试验，揭示了[[Teacher Collaboration|教师协作]]感知提升与学生客观学业提升之间的巨大鸿沟。
 
 > [!case] [[Using Data Intervention\|佛罗里达数据使用干预试验]]（Using Data Intervention）（Cavalluzzo et al., 2014）
 > - **方法学质量与干预强度** 该研究是全文献库中极少数达到 4 级最高可[[Reliability\|信度]]评级的顶级教育 RCT。试验在 2011–2013 年间覆盖佛罗里达州 60 所公立小学，失访率极低且数据质量优异。
@@ -429,7 +429,7 @@ sources:
 > [!policy-design] 证据工程化的微观运作机制
 > - **目标** 消除一线教师解读复杂统计论文的认知过载，实现高质量实证规律在课堂教学中的高保真度复制。
 > - **对象** 中小学各学科[[Business as Usual\|常态教学]]中的广大一线专业教师。
-> - **工具** 由多学科专业团队研发的预制结构化教案、分步教学规程、循证课堂提问清单、自适应[[Homework\|作业]]软件及标准化诊断工件。
+> - **工具** 由多学科专业团队研发的预制结构化教案、分步教学规程、循证[[Teacher Questioning|课堂提问]]清单、自适应[[Homework\|作业]]软件及标准化诊断工件。
 > - **约束方式** 通过工件自身的物理设计与软件交互逻辑约束教学步序（如提示特定反馈时机与纠错引导流程），将复杂因果机制隐形化嵌入教具，教师无需理解底层回归分析即可精准实施最佳实践。
 
 #### 2. 宏观层面：借鉴公共卫生群体级防范机制，通过立法将公共财政拨款与高等级因果证据强制绑定

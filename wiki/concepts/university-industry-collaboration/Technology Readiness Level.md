@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -175,7 +175,7 @@ updated: 2026-10-22
 > [!dev-timeline] 技术就绪度（TRL）的演进历程
 > - **1974–1989 — [[National Aeronautics and Space Administration|NASA]] 创设 7 级初始框架** 斯坦·萨丁（Stan Sadin）于 1974 年提出概念，1989 年 NASA 正式确立 7 级 TRL 规范，用于航天工程项目的技术风险管理。
 > - **1995 — 扩容确立 9 级通用标准** 约翰·曼金斯（John Mankins）发表白皮书，将 TRL 细化为 9 个等级，确立了当代沿用至今的完整评估标准。
-> - **2000s — 美国国防部与全球各行业普及** 美国国防部（DoD）将 TRL 正式纳入重大防务采办程序；欧洲空间局（[[Educational Services Australia|ESA]]）、能源部（[[Department of Energy|DOE]]）相继采纳为标准立项评估工具。
+> - **2000s — [[Department of Defense|美国国防部]]与全球各行业普及** 美国国防部（DoD）将 TRL 正式纳入重大防务采办程序；欧洲空间局（[[Educational Services Australia|ESA]]）、能源部（[[Department of Energy|DOE]]）相继采纳为标准立项评估工具。
 > - **2010s — [[EU|欧盟]]地平线计划与创新治理基础设施化** 欧盟在“地平线 2020”（Horizon 2020）中全面引入 TRL，将其作为申请欧盟研发资助项目的准入与验收硬性指标。
 > - **2020s — [[CHIPS and Science Act|芯片法案]]与深科技全链条角色重构** 《[[CHIPS and Science Act|芯片与科学法案]]》设立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]），整合分布式 300mm 先进中试线、云端 DEG 网关与大学开放洁净室，推动[[Research Universities|研究型大学]]与深科技企业依托共置与测试样片直接参与 TRL 4–7 中试验证，并开创 Fab-to-Lab 双向闭环，弥合硬科技转化断层。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–24)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 8–11)]]
 

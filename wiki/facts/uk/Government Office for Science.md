@@ -14,7 +14,7 @@ fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: Department for Science, Innovation and Technology, Cabinet Office
+issuing_organization: "Department for Science, Innovation and Technology, [[Cabinet Office]]"
 tags:
   - region/uk
   - theme/science-policy
@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -75,7 +75,7 @@ updated: 2026-10-22
 > - **2007** 政府科学办公室（GO-Science）正式组建，承接统筹协调部委科学顾问网络与编制前瞻报告的职责。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 81)]]
 > - **2013** GO-Science 推出首批部门[[Areas of Research Interest\|重点研究领域]]（ARIs）试点，推动政府科研需求全面透明化。
 > - **2023** 伴随中央部委重组，GO-Science 整体归入新设立的科学、创新与技术部（DSIT），继续保持向内阁直接建言的独立渠道。
-> - **2026** 英国皇家学会《科学为社会》报告肯定了 GO-Science 在统筹各部委科学咨询中的关键作用，同时警示必须防范政治压力对科学顾问客观性的侵蚀，确保顾问在体制内外的独立发声自由。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 81, 84)]]
+> - **2026** [[Royal Society|英国皇家学会]]《科学为社会》报告肯定了 GO-Science 在统筹各部委科学咨询中的关键作用，同时警示必须防范政治压力对科学顾问客观性的侵蚀，确保顾问在体制内外的独立发声自由。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 81, 84)]]
 
 ---
 
@@ -85,7 +85,7 @@ updated: 2026-10-22
 
 > [!tension] 体制内参谋与独立批判者的双重角色张力（p. 84）
 > - **身处“帐篷之内”的依附性风险** 首席科学顾问既需要在政府决策核心圈内作为资深公务员参与机密政策研讨，又必须具备超越党派政治意志、直言挑战政府不当决策的客观独立性；近期国际（特别是美国联邦科学机构所经历的政治干预）趋势表明，一旦政治领导人出于选票叙事压制不利科学证据，科学顾问可能面临被边缘化甚至清洗的风险。
-> - **遴选机制的政治化警惕** 皇家学会明确警告，各部委在招聘与考核首席科学顾问时，绝不能采取迎合特定政治偏好的筛选标准，必须确保顾问队伍基于最高学术诚信公开遴选，并在必要时拥有向全社会公开发声的法定自由。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 84)]]
+> - **遴选机制的政治化警惕** [[Royal Society|皇家学会]]明确警告，各部委在招聘与考核首席科学顾问时，绝不能采取迎合特定政治偏好的筛选标准，必须确保顾问队伍基于最高学术诚信公开遴选，并在必要时拥有向全社会公开发声的法定自由。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 84)]]
 
 ---
 

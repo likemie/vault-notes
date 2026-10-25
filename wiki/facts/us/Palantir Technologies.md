@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -111,7 +111,7 @@ updated: 2026-10-22
 > - **2003–2008 — 初创奠基与防务情报突破** [[Peter Thiel|彼得·蒂尔]]（Peter Thiel）、[[Alexander Karp|亚历山大·卡普]]（Alexander Karp）等人共同创立企业；研发针对反恐反洗钱的 Gotham 平台。
 > - **2008–2016 — 阿富汗前线战火淬炼、市政警务探索与诉讼突围** 深入阿富汗战区（坎大哈与赫尔曼德省），直面简易爆炸装置（Improvised Explosive Device, IED）危机，前沿工程师与美军第82空降师情报官紧密协同迭代数据分析系统；在 2011 年硅谷沉迷于社交与[[Consumer Internet|消费互联网]]狂热之际逆流坚守防务；2012 年起与新奥尔良警察局合作，将战区级 Gotham 平台降维应用于城市[[Predictive Policing|预测性警务]]与涉枪暴力犯罪网络研判；2016 年依据《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]》（Federal Acquisition Streamlining Act of 1994, FASA）起诉美国陆军垄断性定制采购并大获全胜。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 139–155)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–176)]]
 > - **2016–2018 — 商业拓展与全域数据操作系统构建** 推出面向大型商业企业复杂供应链与多源异构数据整合的 Foundry 平台，业务扩展至空客、制药及全球金融机构。
-> - **2018 至今 — 赢得防务记录项目与人工智能中枢** 击败雷神等传统军工巨头赢得陆军数十亿美元分布式通用地面系统（Distributed Common Ground System-Army, DCGS-A）采购合同，开创硅谷初创软件公司主导重大防务记录项目的先河；在谷歌因员工抗议退出[[Project Maven|梅文项目]]之际坚定接棒五角大楼核心算法工程；推出人工智能平台（[[Generative Artificial Intelligence|Artificial Intelligence]] Platform, AIP），成为全域联合指挥控制（Joint All-Domain Command and Control, JADC2）与现代无人系统协同算法的底层操作系统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 41–55)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 153–154)]]
+> - **2018 至今 — 赢得防务记录项目与人工智能中枢** 击败雷神等传统军工巨头赢得陆军数十亿美元分布式通用地面系统（Distributed Common Ground System-Army, DCGS-A）采购合同，开创硅谷初创软件公司主导重大防务记录项目的先河；在谷歌因员工抗议退出[[Project Maven|梅文项目]]之际坚定接棒[[Department of Defense|五角大楼]]核心算法工程；推出人工智能平台（[[Generative Artificial Intelligence|Artificial Intelligence]] Platform, AIP），成为全域联合指挥控制（Joint All-Domain Command and Control, JADC2）与现代无人系统协同算法的底层操作系统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 41–55)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 153–154)]]
 
 ---
 

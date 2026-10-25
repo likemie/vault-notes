@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -86,7 +86,7 @@ updated: 2026-10-22
 > 美国联邦最高法定教育评价与证据转译中枢，隶属于[[Institute of Education Sciences\|美国教育部教育科学研究院]]（IES），统辖[[What Works Clearinghouse\|有效干预清算中心]]（WWC）、全美十大区域教育实验室（RELs）及[[Education Resources Information Center\|教育资源信息中心]]（ERIC），旨在通过独立、严谨、基于[[Causality\|因果推断]]的实证评价，向全美政策制定者、学区管理者与一线教育者提供客观科学的有效性证据。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2002 年依据美国国会颁布的《[[Education Sciences Reform Act 2002|2002年教育科学改革法]]案》（Education Sciences Reform Act of 2002, ESRA）正式设立，旨在彻底改变以往联邦教育研究碎片化、缺乏科学因果严谨性与充斥利益冲突的弊病。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
+> - **成立时间 / 创设背景** 2002 年依据[[United States Congress|美国国会]]颁布的《[[Education Sciences Reform Act 2002|2002年教育科学改革法]]案》（Education Sciences Reform Act of 2002, ESRA）正式设立，旨在彻底改变以往联邦教育研究碎片化、缺乏科学因果严谨性与充斥利益冲突的弊病。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
 > - **总部地点 / 业务辐射** 设于美国华盛顿特区联邦教育部总部；业务统筹全美 50 个州及受托领地跨区域公立学区的证据生产、评价合同监管与知识普及。
 > - **法人属性与经费基础** 联邦常设行政科研职能机构；由美国国会专项常年财政预算全额保障，年均拨付数亿美元评价与研究援助合同经费。
 > - **核心宗旨与法定职责** 实施大规模联邦教育项目因果影响评价；统筹制定并持续迭代全美因果[[Evidence Standards\|证据标准]]（WWC Standards）；管理区域[[Knowledge Mobilisation\|知识动员]]网络；保障国家教育评估的学术中立与评估独立性。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 48)]]
@@ -117,7 +117,7 @@ updated: 2026-10-22
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **[[What Works Clearinghouse\|WWC]] [[Evidence Standards\|证据标准]]体系** 研制并发布全球教育界采纳最广泛的因果实证审查手册（Handbook v1.0–v5.0），确立包括无保留达到标准（Meets without Reservations）、有保留达到标准（Meets with Reservations）及未达到标准的判定体系。
-> - **全美重大教育法案与项目独立评估** 组织完成对《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）、[[Title I of the Elementary and Secondary Education Act\|Title I]] 补偿性资助、全美教育软件效能评估（Dynarski et al., 2007）、特许学校扩张、阅读优先（Reading First）、干预响应模型（[[Response to Intervention\|RTI]]）以及 i3 创新基金的数十项全国性因果影响评估报告。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
+> - **全美重大教育法案与项目独立评估** 组织完成对《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）、[[Title I of the Elementary and Secondary Education Act\|Title I]] 补偿性资助、全美教育软件效能评估（Dynarski et al., 2007）、[[Charter Schools|特许学校]]扩张、阅读优先（Reading First）、干预响应模型（[[Response to Intervention\|RTI]]）以及 i3 创新基金的数十项全国性因果影响评估报告。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
 > - **WWC [[Recommendations for Practice\|实践建议]]指南（Practice Guides）** 汇集顶尖专家小组，结合[[Systematic Review\|系统综述]]评级，为学校一线校长和教师提炼关于阅读、数学教学、行为干预及高中防辍学的实证操作指南。
 > - **区域教育实验室网络（REL Network）** 维系全美 10 大区域伙伴联盟，解决各州教育厅与公立学区提出的紧迫地方实证研究需求。
 
@@ -161,7 +161,7 @@ updated: 2026-10-22
 > [!citation-card] 英美评估独立性制度设计比较
 > 与 EEF 具有可比性的机构是[[Institute of Education Sciences\|美国教育部教育科学研究院]]旗下的国家教育评估与区域援助中心（NCEE）。[[Education Sciences Reform Act 2002|ESRA]] 法律要求 NCEE 必须通过公开竞争向无利益冲突的外部专家授予合同以开展独立评估。然而在实践中，受资助者被允许自行物色评估团队并管理经费。对 NCEE 支持的 65 项 i3 [[Evaluation Research\|评估研究]]显示，虽然 97% 表面上属于独立评估，但缺乏针对评估者利益冲突的实质性审查；其后果之一是试验往往更倾向于采用准实验（QED）而非严格的 RCT 设计，仅约三分之二的项目达到了 WWC 无保留标准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
 >
-> *"A comparable organization to the EEF is the U.S. Department of Education’s Institute for Education Sciences (IES) and its evaluation arm; the National Centre for Education Evaluation and Regional Assistance (NCEE)... Yet, to meet this requirement, grantees are expected to select the evaluator themselves, name them in their grant application, and are responsible for administering the grant funds. ... One consequence of this approach may be that there are fewer RCTs and more quasi-experimental designs (QEDs) commissioned."*
+> *"A comparable organization to the EEF is the [[United States Department of Education|U.S. Department of Education]]’s Institute for Education Sciences (IES) and its evaluation arm; the National Centre for Education Evaluation and Regional Assistance (NCEE)... Yet, to meet this requirement, grantees are expected to select the evaluator themselves, name them in their grant application, and are responsible for administering the grant funds. ... One consequence of this approach may be that there are fewer RCTs and more quasi-experimental designs (QEDs) commissioned."*
 
 ---
 

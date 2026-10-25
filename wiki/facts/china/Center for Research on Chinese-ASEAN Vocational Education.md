@@ -35,18 +35,18 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> 中国—东盟职业教育研究中心（Center for Research on Chinese-ASEAN Vocational Education, CCAVEC）是由中华人民共和国教育部与广西壮族自治区人民政府部区共建的高端学术智库与专门研究机构，常设于南宁师范大学，是支撑国家周边外交与中国—东盟教育政策对话的核心学术研究实体。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 293)]]
+> 中国—[[ASEAN|东盟]]职业教育研究中心（Center for Research on Chinese-ASEAN Vocational Education, CCAVEC）是由[[Ministry of Education of the People's Republic of China|中华人民共和国教育部]]与广西壮族自治区人民政府部区共建的高端学术智库与专门研究机构，常设于南宁师范大学，是支撑国家周边外交与中国—东盟教育政策对话的核心学术研究实体。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 293)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 创设于 2013 年，立足广西作为中国面向东盟开放合作前沿的区位优势，回应“一带一路”与中国—东盟自贸区建设对职教智库的紧迫需求。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 287–288)]]
+> - **成立时间 / 创设背景** 创设于 2013 年，立足广西作为中国面向东盟开放合作前沿的区位优势，回应“[[Belt and Road Initiative|一带一路]]”与中国—东盟自贸区建设对职教智库的紧迫需求。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 287–288)]]
 > - **总部地点 / 业务辐射** 设于南宁师范大学，业务辐射全国职业院校、涉外企事业单位以及东盟十国教育主管部门与院校。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 286, 293)]]
-> - **法人属性与经费基础** 依托公立高等师范院校建设的官方重点研究基地；经费由部区共建专项资金、重点科研课题与委托项目共同支持。
+> - **法人属性与经费基础** 依托公立高等[[Normal School|师范院校]]建设的官方重点研究基地；经费由部区共建专项资金、重点科研课题与委托项目共同支持。
 > - **核心宗旨与法定职责** 开展中国与东盟职业教育前沿学术研究、提供政策制定决策咨询、承担精准化涉外涉侨师资培训并搭建国际化交流智库平台。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 293)]]
 
 ---
@@ -56,7 +56,7 @@ updated: 2026-10-22
 >
 >   获批部区共建重点基地，系统开展东盟国家职业教育体制、法律规制与技术人才培养现状的文献梳理与基线调研。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 287–288)]]
 >
->   - **2013** 中心正式挂牌创设，确立服务周边外交与职教出海的战略目标。
+>   - **2013** 中心正式挂牌创设，确立服务周边外交与[[Education Going Global|职教出海]]的战略目标。
 >   - **2016** 开展首批东盟国家职业教育体制横向比较研究，参与起草地方职教对外开放行动细则。
 >
 > - **2019–至今** **十国国别研究所矩阵确立与高端智库深化**
@@ -64,7 +64,7 @@ updated: 2026-10-22
 >   顺应教育高水平对外开放要求，设立覆盖东盟十国的国别职业教育研究所，形成系统化、纵深化的国别化研究格局。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 293)]]
 >
 >   - **2019** 启动东盟国别职业教育研究所建设工程，以文莱研究所为首批示范点全面铺开。
->   - **2024** 完成东盟十国国别研究所全覆盖建设，承担《中国—东盟行业产教融合共同体赋能新质人才培养》等重点科研课题。
+>   - **2024** 完成东盟十国国别研究所全覆盖建设，承担《中国—东盟[[Industry-Education Integration Community|行业产教融合共同体]]赋能[[Emergent Talents|新质人才]]培养》等重点科研课题。
 
 ---
 
@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 > [!pathways] 业务运行机制
 > - **基础前沿研究** 深入开展东盟各国职业教育法律规制、劳动力市场需求与数字化转型跟踪研究。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 293)]]
-> - **决策咨询服务** 面向国家教育行政部门与地方政府起草部区共建专报，提供职业教育国际化政策建言。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 293)]]
+> - **决策咨询服务** 面向国家教育行政部门与地方政府起草部区共建专报，提供[[Internationalization of Vocational Education|职业教育国际化]]政策建言。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 293)]]
 > - **精准专业培训** 面向出海中资企业本土员工与东盟国家职教管理干部开展专业技能与跨文化交际研修。
 
 ---

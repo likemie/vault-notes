@@ -86,12 +86,12 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-19
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
-> [!def] Comparative Case Study
+> [!def] Comparative [[Case Study]]
 > 比较[[Case Study|案例研究]]（Comparative Case Study, CCS）是由巴特利特与瓦夫鲁斯（Bartlett & Vavrus, 2017）提出的一种突破传统封闭单元假设的质性比较研究方法。CCS 确立了**过程性的“建构案例”（casing）** 取向，强调案例是在研究过程中被理论与实证选择持续生产出来的。通过**水平轴**（跨地点比较复杂连接的政策展开）、**垂直轴**（跨越微观、国家与超国家多重尺度）与**横贯轴**（历时性追溯历史沿革）的三维协同运作，实现对复杂社会与教育治理现象的立体剖析。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, p. 202)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
 
 > [!method-scope] 方法范围
@@ -179,7 +179,7 @@ updated: 2026-10-23
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 采用部门间对照比较案例研究设计，对比全球教育治理与全球公共卫生部门在证据层级、知识转化平台与多边治理机制上的异同，提炼教育循证决策改革的借鉴路径（pp. 28–29）。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 采用部门间对照比较案例研究设计，对比全球教育治理与全球公共卫生部门在证据层级、知识转化平台与多边治理机制上的异同，提炼教育[[Evidence-Based Policy-Making|循证决策]]改革的借鉴路径（pp. 28–29）。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 108–110, 112)]] — 评析比较教育学者如何通过精细的多地点多标度比较[[Case Study|案例研究]]（CCS），结合几内亚与美法阅读教学、以色列分权改革、印度女教师培训、巴布亚新几内亚乡村反抗及巴勒斯坦幼教机构，示范贯通跨国标准、国家中介与微观课堂的跨尺度“双重视野”分析策略。
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 运用 CCS 框架比较新加坡与阿联酋的[[International Education Hubs|国际教育枢纽]]建设，重点利用横贯维度追溯 1990–2018 年间全球金融危机与[[Geopolitics|地缘政治]]对多领域政策混合体的历史重塑。
 > - [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] — 采用比较案例研究设计结合[[Mixed Methods Research|混合方法]]，对比两所美国大学和一所新西兰大学的博士[[Graduate Attributes|毕业生特质]]发展与职场迁移，以制度差异下的模式一致性推断博士培养的结构性特征。
@@ -188,4 +188,4 @@ updated: 2026-10-23
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009, pp. 466–467)]] — 运用比较案例研究设计，深度对比玻利维亚、巴拉圭、摩洛哥与巴西等国的教育[[Policy Conditionalities|贷款附加条件]]谈判与执行轨迹，归纳[[Multilateral Development Bank|多边开发银行]]强推体制改革失败与借贷国渐进协商成功的制度边界条件。
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 采用比较案例研究设计，横向对比 [[PISA]] 与 [[OECD AHELO Project|AHELO]] [[Test Production|测验生产]]早期阶段，通过档案挖掘与多[[Scale in Higher Education|尺度分析]]揭示跨国组织如何调动经验声誉、知识网络与官僚资源确立全球教育治理的合法权力。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 采用探索性比较案例研究设计，对比[[Belt and Road Initiative|一带一路倡议]]下的[[University Alliance of the Silk Road|丝绸之路大学联盟]]与[[Asian Universities Alliance|亚洲大学联盟]]在组织治理、准入门槛与合作机制上的制度异同，论证中国在[[Areas of Knowledge|知识领域]]兼具[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]的多元网络布局（pp. 1698–1699）。
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 采用跨国比较案例研究设计，横向对比德国、英格兰、苏格兰与芬兰对 PISA 测评的政策反响，并在垂直尺度上追踪经合组织与欧盟委员会的数据动员，实证揭示全球指标与国内政治议程的策略性外在化机制（pp. 28–35）。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 采用跨国比较案例研究设计，横向对比德国、英格兰、苏格兰与芬兰对 PISA 测评的政策反响，并在垂直尺度上追踪[[OECD|经合组织]]与[[European Commission|欧盟委员会]]的数据动员，实证揭示全球指标与国内政治议程的[[Externalization|策略性外在化]]机制（pp. 28–35）。

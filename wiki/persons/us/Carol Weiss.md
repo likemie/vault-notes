@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -70,7 +70,7 @@ updated: 2026-10-22
 > - **1977 — *Research for Policy's Sake: The [[Enlightenment]] Function of Social Research*** 阐明社会科学研究对政策的启蒙功能，深刻指出政治本质上关于价值立场而非[[Value Neutrality\|价值中立]]。
 > - **1979 — *The Many Meanings of [[Research Utilization]]*** 提出研究利用的七种模型，区分知识如何以不同方式进入政策与实践。
 > - **1980 — *Knowledge Creep and Decision Accretion*** 提出"知识渗透"（knowledge creep），说明研究常以缓慢、累积、间接的方式改变决策者思维，而非直接应用（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p.3]]）。
-> - **1989 — *Congressional Committees as Users of Analysis*** 剖析美国国会各常设委员会对实证分析的实际吸纳与使用机制。
+> - **1989 — *Congressional Committees as Users of Analysis*** 剖析[[United States Congress|美国国会]]各常设委员会对实证分析的实际吸纳与使用机制。
 > - **1991 — *Policy Research as Advocacy: Pro and Con*** 辩证探讨政策研究作为倡导行动的性质，指出研究有效介入取决于在正确的时间向正确的人提供正确的信息。
 > - **2008 — *The Fairy Godmother—and Other Unlikely Scenarios: How Social Science Can Influence Policy*** （合著）揭示政治决策者受选民代表性与政治风险约束的“立场锁定”特征，指出立法者极少因看到新实证结果而放弃既定政见，实证影响必须与宏观政治气候变迁协同。
 

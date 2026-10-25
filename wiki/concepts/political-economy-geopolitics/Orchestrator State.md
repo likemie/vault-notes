@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -48,7 +48,7 @@ updated: 2026-10-22
 > - **用途** 帮助政治经济学研究者解释为何[[EU|欧盟]]产业政策往往“声势浩大但落地分散”，揭示去中心化补贴对统一大市场的反向扭曲。
 > - **边界** 不等于联邦集权制下的发展型国家（如具备直接拨款权威的美国或东亚国家）；它本质上是一种治理能力受限下的替代性间接协调[[Paradigm|范式]]。
 
-> [!citation-card] 欧委会作为产业政策协调者的制度定性
+> [!citation-card] [[European Commission|欧委会]]作为产业政策协调者的制度定性
 > 美国政府的产业政策角色日益转向通过集权治理与直接面向单个企业的定向资金来塑造半导体部门；与此不同，欧盟委员会则日益充当产业政策的“协调者（Orchestrator）”——通过便利成员国提供国家援助，并激励单一市场内部跨国界、跨部门生产网络的[[Emergence|涌现]]。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 14)]]
 >
 > *Thus, while the industrial policy role of the US government is increasingly to shape the semiconductor sector through centralised governance and targeted funding directly available to single firms, the EU Commission increasingly operates as an “orchestrator” of industrial policy by facilitating the provision of national state aid by member states and by incentivising the emergence of cross-country and cross-sectoral production networks in the single market.*
@@ -101,7 +101,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 概念演变
-> - **2023 年 — 欧洲单一市场协调理论提出** 迪卡洛与施密茨（Di Carlo & Schmitz, 2023）在《欧洲公共政策学刊》提出[[EU|欧盟]]作为单一市场“协调者”理论，阐释欧委会如何通过 [[Important Projects of Common European Interest|IPCEI]] 等工具在保护单一市场与推动产业干预之间维系微妙平衡。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 14)]]
+> - **2023 年 — 欧洲单一市场协调理论提出** 迪卡洛与施密茨（Di Carlo & Schmitz, 2023）在《欧洲公共政策学刊》提出[[EU|欧盟]]作为单一市场“协调者”理论，阐释[[European Commission|欧委会]]如何通过 [[Important Projects of Common European Interest|IPCEI]] 等工具在保护单一市场与推动产业干预之间维系微妙平衡。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 14)]]
 > - **2024 年 — 半导体[[Geopolitics|地缘政治]]下的治理困境实证** 布尔福内等人将“协调型国家”与美国联邦集权模式进行面对面对比，指出协调模式是导致《[[European Chips Act|欧洲芯片法案]]》产生“财政幻觉”与政策执行力疲软的深层制度根源。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
 ---

@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -67,7 +67,7 @@ updated: 2026-10-22
 > - **代表贡献** 与[[Alexander Karp|亚历山大·卡普]]合著《[[Technological Republic|技术共和国]]》，系统剖析联邦行政采购官僚体制的结构性失灵，论证《[[Federal Acquisition Streamlining Act of 1994|1994年联邦采购精简法]]案》（FASA 1994）确立[[Commercial Off-The-Shelf|商用现成产品]]（COTS）法定优先权的历史与实效，推动公共治理去官僚化与防务科技采办制度重塑。
 
 > [!citation-card] 人物定位的关键来源
-> 法律明确要求政府在考虑为定制产品签署合同之前，必须先评估是否有可用的商用现成产品……然而五角大楼的采购系统长期偏离了这一法定要求，必须依靠司法判决与制度改革重新恢复市场竞争与技术供给效能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 150–154)]]
+> 法律明确要求政府在考虑为定制产品签署合同之前，必须先评估是否有可用的商用现成产品……然而[[Department of Defense|五角大楼]]的采购系统长期偏离了这一法定要求，必须依靠司法判决与制度改革重新恢复市场竞争与技术供给效能。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 150–154)]]
 >
 > *The statute explicitly requires that the government evaluate whether commercial items are available to meet its needs before developing custom systems... but the [[Bureaucracy]] consistently evaded this mandate.*
 

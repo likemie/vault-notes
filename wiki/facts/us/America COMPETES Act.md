@@ -16,7 +16,7 @@ fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: "美国国会（United States Congress）"
+issuing_organization: "[[United States Congress|美国国会（United States Congress）]]"
 start_year: "2007"
 end_year: "2010"
 tags:
@@ -48,14 +48,14 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2007 年 8 月由美国国会通过并由乔治·W·布什总统签署（Public Law 110-69）；2010 年 12 月由巴拉克·奥巴马总统签署再授权法案（America COMPETES Reauthorization Act of 2010, Public Law 111-358）。
-> - **适用地区 / 对象** 覆盖全美联邦科技机构（[[National Science Foundation|NSF]]、[[Department of Energy|DOE]] 科学办公室、NIST）、高水平[[Research Universities|研究型大学]]、K-12 理科教育体系以及国家实验室网络。
+> - **发布时间 / 发布主体** 2007 年 8 月由[[United States Congress|美国国会]]通过并由乔治·W·布什总统签署（Public Law 110-69）；2010 年 12 月由巴拉克·奥巴马总统签署再授权法案（America COMPETES Reauthorization Act of 2010, Public Law 111-358）。
+> - **适用地区 / 对象** 覆盖全美联邦科技机构（[[National Science Foundation|NSF]]、[[Department of Energy|DOE]] 科学办公室、[[National Institute of Standards and Technology|NIST]]）、高水平[[Research Universities|研究型大学]]、K-12 理科教育体系以及国家实验室网络。
 > - **问题背景** 21 世纪初，美国面临全球化外包深化、东亚经济体科技追赶与本土理工科人才储备断层的系统性焦虑；[[National Academy of Sciences|美国国家科学院]]《[[Rising Above the Gathering Storm 2007|迎接风暴]]》报告发出严厉警示，指出若不强化对基础科研与数学科学教育的长期投资，美国将丧失全球创新领导地位。
 > - **制度位置** 承接冷战后科技政策传统，是《[[CHIPS and Science Act|芯片与科学法案]]》（2022）出台前美国规模最大、跨党派共识最广泛的全国性科技与人才立法范本。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
 

@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -60,7 +60,7 @@ updated: 2026-10-22
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1984 年正式设立；源于 1983 年撒切尔政府发布的白皮书《教学质量》（*Teaching Quality*），旨在应对公众对教师教学质量的焦虑，打破大学对教师教育课程的自主垄断。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 91)]]
 > - **总部地点 / 业务辐射** 英国伦敦，法定管辖与业务覆盖英格兰及威尔士地区所有[[Initial Teacher Training\|初始教师培训]]（ITT）机构。
-> - **法人属性与经费基础** 英国教育部（DES）直属法定顾问机构，由中央财政全额拨款。
+> - **法人属性与经费基础** [[Department for Education|英国教育部]]（DES）直属法定顾问机构，由中央财政全额拨款。
 > - **核心宗旨与法定职责** 审查教师教育机构办学标准，确保课程内容符合国家技能标准，依据 HMI 督导报告向教育大臣提供认证准入建议。
 
 ---

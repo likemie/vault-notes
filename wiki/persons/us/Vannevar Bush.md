@@ -14,7 +14,7 @@ person_related_color: "#fef3c7"
 born: "1890"
 died: "1974"
 lifespan: "1890–1974"
-updated: 2026-10-22
+updated: 2026-10-26
 tags:
   - person/engineer
   - person/policy-architect
@@ -132,7 +132,7 @@ created: 2026-10-02
 > - **1939–1941年** 出任华盛顿卡内基科学研究所所长，深度介入国家防务与科技战略咨询；1940 年说服[[Franklin D. Roosevelt|罗斯福总统]]设立国防科研委员会（NDRC）并担任主席。
 > - **1941–1945年** 出任美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）署长，战时动员全美顶尖大学学者与工业企业工程师，以合同外包机制统筹推进雷达、青霉素量产、近炸引信及[[Manhattan Project|曼哈顿工程]]；1942 年《科利尔》（*Collier's*）杂志直称其为可能赢得战争的人。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
 > - **1944–1945年** 1944 年 11 月应罗斯福总统关于战后如何将受战事冲击的物理学家等科研力量重新导向民用科学进步之问询，组织四大学者委员会起草纲领性报告，于 1945 年 7 月正式呈交《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》（*Science, The Endless Frontier*），为战后美国国家科技战略确立了长达数十年的制度框架。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
-> - **1950–1974年** 推动美国国会通过法案设立国家科学基金会（NSF，1950）；担任 AT&T 与默克制药等企业董事；1974 年逝世于马萨诸塞州贝尔蒙特，享年 84 岁。
+> - **1950–1974年** 推动[[United States Congress|美国国会]]通过法案设立国家科学基金会（NSF，1950）；担任 AT&T 与默克制药等企业董事；1974 年逝世于马萨诸塞州贝尔蒙特，享年 84 岁。
 
 ---
 

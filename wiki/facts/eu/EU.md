@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-16
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -75,7 +75,7 @@ updated: 2026-10-22
 
 > [!org-context] 机构背景
 > - **成立时间 / 法律基石** 1993 年 11 月 1 日《马斯特里赫特条约》（Treaty on European Union）正式生效，标志着欧洲联盟在欧洲共同体（EC）基础上正式建立。
-> - **总部地点 / 机构设置** 总部设于比利时布鲁塞尔；核心决策机构包括欧洲理事会（European Council）、欧盟理事会（Council of the European Union）、欧洲议会（European Parliament）及执行机构欧洲联盟委员会（European Commission，主管教育事务的为教育、青年、体育与文化总司 DG EAC 与 Eurydice 分析网络）。
+> - **总部地点 / 机构设置** 总部设于比利时布鲁塞尔；核心决策机构包括欧洲理事会（European Council）、欧盟理事会（Council of the European Union）、欧洲议会（European Parliament）及执行机构[[European Commission|欧洲联盟委员会]]（European Commission，主管教育事务的为教育、青年、体育与文化总司 DG EAC 与 [[Eurydice]] 分析网络）。
 > - **教育赋权边界（辅助性原则）** 《马斯特里赫特条约》第 126 条（后重编为第 165 条）明确规定：共同体的行动旨在通过鼓励成员国之间的合作并支持其行动来促进优质教育的发展，同时充分尊重成员国对教学内容与教育体系组织的专属主权职责，排除任何法律法规的指令性协调。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 
 ---
@@ -97,7 +97,7 @@ updated: 2026-10-22
 >
 > - **2000–2010** **[[Lisbon Strategy|里斯本战略]]与[[Open Method of Coordination|开放协调法]]（OMC）时代**
 >
->   欧盟确立将欧洲建构为“全球最具[[Competitiveness|竞争力]][[Knowledge-Based Economy|知识经济]]体”的战略目标，全面推行开放协调法（Open Method of Coordination, OMC），将量化指标、基准线与同行评议引入各成员国基础与高等教育监测，并与经合组织建立跨机构共生同盟。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24, 32–35)]]
+>   欧盟确立将欧洲建构为“全球最具[[Competitiveness|竞争力]][[Knowledge-Based Economy|知识经济]]体”的战略目标，全面推行开放协调法（Open Method of Coordination, OMC），将量化指标、基准线与同行评议引入各成员国基础与高等教育监测，并与[[OECD|经合组织]]建立跨机构共生同盟。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24, 32–35)]]
 >
 >   - **2000** 发布《里斯本战略》，正式引入开放协调法（OMC）。
 >   - **2006** 欧洲议会与理事会发布《[[Lifelong Learning|终身学习]][[21st Century Skills and Competencies Discourse|核心素养]]建议书》，确立八项跨国通用关键素养。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, p. 39)]]
@@ -122,9 +122,9 @@ updated: 2026-10-22
 ---
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **跨国流动与终身学习项目** 主导“[[Erasmus Programme|伊拉斯谟+ 计划]]”（Erasmus+），累计资助超千万人次学生、学者与青年在欧洲范围内开展跨国研修与实践。
-> - **欧洲高等教育区标准化工具** 制定欧洲学分转换系统（ECTS）、欧洲学历资格框架（EQF）以及《欧洲高等教育区质量保障标准和指南》（ESG）。
-> - **实证政策网络与数据库** 运行欧洲教育政策信息网（Eurydice）监测数据库；协同资助建立[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] [[Evidence Network|证据网络]]，推广循证政策工具。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
+> - **跨国流动与终身学习项目** 主导“伊拉斯谟+ 计划”（Erasmus+），累计资助超千万人次学生、学者与青年在欧洲范围内开展跨国研修与实践。
+> - **欧洲高等教育区标准化工具** 制定欧洲学分转换系统（ECTS）、欧洲学历资格框架（[[European Qualifications Framework|EQF]]）以及《欧洲高等教育区质量保障标准和指南》（[[European Standards and Guidelines|ESG]]）。
+> - **实证[[Policy Network|政策网络]]与数据库** 运行欧洲教育政策信息网（Eurydice）监测数据库；协同资助建立[[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] [[Evidence Network|证据网络]]，推广循证政策工具。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
 > - **指标监测白皮书与政策战略** 发布《教育与培训监测报告》（Education and Training Monitor）与《欧洲技能议程》，系统对标里斯本战略与 2030 欧洲教育区量化基准。
 
 > [!citation-card] 经合组织与欧盟委员会的共生同盟
@@ -137,7 +137,7 @@ updated: 2026-10-22
 > [!finding-cards] 关键成效与辐射影响
 > - **打造全球最大规模跨国流动区** 依托[[Erasmus Programme|伊拉斯谟计划]]、[[Bologna Process|博洛尼亚进程]]与 ECTS 学分制，成功打破欧洲各国高等教育体系长期存在的语言、体制与文凭壁垒，极大促进了青年学者与学生的流动。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 > - **以软法超越主权羁绊的治理典范** 欧盟向全球治理展示了如何在缺乏直接宪法立法权力的前提下，巧妙运用指标、项目资助（如[[Horizon Europe|地平线欧洲]]）与同伴评议，形成高度同质化的跨国教育空间。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
-> - **制度共生重塑[[European Education Space|欧洲教育空间]]** 通过承担经合组织 80% 调查成本并采购 50%–60% 的基础指标，欧盟将国际测评数据无缝接入内部开放协调治理框架，确立以去立法的软性数字治理技术重构欧洲教育体系的典范。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
+> - **制度共生重塑[[European Education Space|欧洲教育空间]]** 通过承担经合组织 80% 调查成本并采购 50%–60% 的基础指标，欧盟将国际测评数据无缝接入内部开放协调治理框架，确立以去立法的软性[[Governing by Numbers|数字治理]]技术重构欧洲教育体系的典范。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
 
 ---
 
@@ -150,7 +150,7 @@ updated: 2026-10-22
 > > - **主权防御学者与批判社会学家** 严正指出，“软治理”实质比强制法令更具穿透力，[[Open Method of Coordination|开放协调法]]通过数据监控与榜单对比施加同伴压力，迫使成员国在不知不觉中交出教育自主权。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 34–35)]]
 >
 > > [!axis] 新自由主义功能主义与民主赤字批评
-> > 批评者指出，欧盟教育议程过度受制于单一市场竞争与[[Knowledge-Based Economy|知识经济]]资本积累逻辑，将复杂的国民教育降格为服务于区域经济增长的技能供应链，架空了各成员国地方议会关于教育本质的民主审议。
+> > 批评者指出，欧盟教育议程过度受制于单一市场竞争与[[Knowledge-Based Economy|知识经济]]资本积累逻辑，将复杂的[[National Education|国民教育]]降格为服务于区域经济增长的技能供应链，架空了各成员国地方议会关于教育本质的民主审议。
 
 ---
 
@@ -168,5 +168,5 @@ updated: 2026-10-22
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析欧盟委员会如何与经合组织制度共生、依托指标采购与软法技术制作欧洲教育空间的实证文献。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 剖析欧盟如何在[[Subsidiarity Principle\|辅助性原则]]约束下通过三重机制渗透国家教育政策的核心论证文献。 |
 > | [[Argument_Rambla_2022_Springer\|Rambla (2022)]] | 论证 | 剖析[[EU Skills Agenda\|欧盟技能议程]]与创新联盟如何通过绩效指标建构区域治理想象的实证文献。 |
-> | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 论证 | 追踪欧盟如何通过 ET 2020、EIPPEE 知识中介网络与 Eurydice 推动证据知情教育政策。 |
+> | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 论证 | 追踪欧盟如何通过 ET 2020、EIPPEE [[Knowledge Mediation\|知识中介]]网络与 Eurydice 推动证据知情教育政策。 |
 > | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证 | 探讨欧洲教育空间中空间实践与学生流动的历史演变。 |

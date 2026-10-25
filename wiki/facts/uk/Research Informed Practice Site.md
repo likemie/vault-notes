@@ -27,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-10-16
+updated: 2026-10-26
 ---
 
 ---
@@ -49,7 +49,7 @@ updated: 2026-10-16
 
 ## 后续发展
 
-DCSF 于 2010 年改组为教育部（Department for Education，DfE），原网址 `www.standards.dcsf.gov.uk/research/themes` 随部门改组而废弃。相关职能并入英国教育部 GOV.UK 体系，但不再有独立的研究知情实践网站。
+DCSF 于 2010 年改组为教育部（[[Department for Education]]，DfE），原网址 `www.standards.dcsf.gov.uk/research/themes` 随部门改组而废弃。相关职能并入英国教育部 GOV.UK 体系，但不再有独立的研究知情实践网站。
 
 ---
 
