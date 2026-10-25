@@ -485,7 +485,7 @@ Total entries: **375**
 > - [[Argument_Grindley_1994_JPAM]] — Grindley、Mowery 与 Silverman 基于一手档案与 25+ 场访谈，系统剖析 SEMATECH 从横向制造工艺开发转向纵向装备供应链协同的战略历程，厘清美日市场份额逆转的宏观多因性与联盟实质贡献，提炼出高技术研发联合体的五大制度设计准则。
 
 > [!index-list]- Journal of Professional Capital and Community (1)
-> - [[Argument_Campbell_2026_JPCC]] — Campbell et al. (2026) 运用解释性政策分析，审视经合组织、教科文组织与世界银行 2020 至 2025 年间 6 份核心政策文本。借助“爵士乐队”、“智能购买”等修辞隐喻揭示超国家组织建构的等级化证据文化，剖析量化实验特权对本土实践智慧的挤压，并解构公职人员技能化包装对行政制度短板的遮蔽。进而提出整合四大宏观张力、三大中介环路与五大领域的包容性证据生态框架，主张确立认识论正义并拓展决策社群的民主审议空间。
+> - [[Argument_Campbell_2026_JPCC]] — Campbell et al. (2026) 运用解释性政策分析，审视经合组织、教科文组织与世界银行 2020 至 2025 年间 6 份核心政策文本。借助“爵士乐队”、“[[Smart Buys|智能购买]]”等修辞隐喻揭示超国家组织建构的等级化证据文化，剖析量化实验特权对本土实践智慧的挤压，并解构公职人员技能化包装对行政制度短板的遮蔽。进而提出整合四大宏观张力、三大中介环路与五大领域的包容性证据生态框架，主张确立认识论正义并拓展决策社群的民主审议空间。
 
 > [!index-list]- Journal of Research in International Education (3)
 > - [[Argument_Bergeron_2019_JRIE]] — Theory of Knowledge 教师 + 混合方法调查 + 揭示教师对 TOK 的看法、对自身发展的影响以及实施中的挑战

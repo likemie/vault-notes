@@ -5736,6 +5736,18 @@
     ]
   },
   {
+    "title": "Deliberative Space",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Deliberative Space.md",
+    "aliases": [
+      "证据审议空间",
+      "审议空间",
+      "政策审议空间",
+      "Deliberative Spaces",
+      "Spaces for Deliberation"
+    ]
+  },
+  {
     "title": "Democratising Evidence",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Democratising Evidence.md",
@@ -7008,11 +7020,34 @@
     ]
   },
   {
+    "title": "Separate Orbits Metaphor",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Separate Orbits Metaphor.md",
+    "aliases": [
+      "分离轨道隐喻",
+      "分离轨道",
+      "Separate Orbits",
+      "分离轨道模型"
+    ]
+  },
+  {
     "title": "Side Effects",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Side Effects.md",
     "aliases": [
       "教育中的副作用"
+    ]
+  },
+  {
+    "title": "Smart Buys",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Smart Buys.md",
+    "aliases": [
+      "智能购买",
+      "聪明购买",
+      "Smart Buy",
+      "教育智能购买",
+      "Smart Buys Framework"
     ]
   },
   {
@@ -16382,6 +16417,18 @@
     "path": "wiki/concepts/sociology-of-education/Engaged Versus. Disengaged Fathers.md",
     "aliases": [
       "父亲参与程度"
+    ]
+  },
+  {
+    "title": "Epistemic Inequality",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Epistemic Inequality.md",
+    "aliases": [
+      "认识论不平等",
+      "知识不平等",
+      "认识不平等",
+      "Epistemic Dominance",
+      "认识论霸权"
     ]
   },
   {

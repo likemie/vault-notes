@@ -9922,7 +9922,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Steiner-Khamsi_2024_UNESCO.md",
-        "wiki/concepts/educational-policy-reform/Research-Policy Gap.md"
+        "wiki/concepts/educational-policy-reform/Research-Policy Gap.md",
+        "wiki/concepts/sociology-of-education/Epistemic Inequality.md"
       ],
       "title": ""
     },
@@ -10359,6 +10360,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md",
         "wiki/concepts/educational-policy-reform/Research-Policy Gap.md",
+        "wiki/concepts/educational-policy-reform/Separate Orbits Metaphor.md",
         "wiki/theories/educational-policy-reform/Two-Communities Theory.md"
       ],
       "title": ""
@@ -21944,7 +21946,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
+        "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
+        "wiki/concepts/educational-policy-reform/Smart Buys.md"
       ],
       "title": ""
     },
@@ -45452,6 +45455,7 @@
       "seen_in": [
         "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Bangs_2022_PerspectivesOnResearch.md",
         "wiki/concepts/educational-policy-reform/Conceptual, Instrumental, and Symbolic Use of Research.md",
+        "wiki/concepts/educational-policy-reform/Deliberative Space.md",
         "wiki/concepts/educational-policy-reform/Push and Pull Models of Knowledge Mobilisation.md",
         "wiki/concepts/educational-policy-reform/Research-Policy Gap.md",
         "wiki/persons/us/Carol Weiss.md",
@@ -46083,7 +46087,8 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
         "wiki/concepts/educational-policy-reform/Educational Brokerage Agency.md",
-        "wiki/concepts/educational-policy-reform/Knowledge Mobilisation.md"
+        "wiki/concepts/educational-policy-reform/Knowledge Mobilisation.md",
+        "wiki/concepts/educational-policy-reform/Separate Orbits Metaphor.md"
       ],
       "title": ""
     },
@@ -46635,6 +46640,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Burns_Schuller_2022_BrokerageAgencies.md"
+      ],
+      "title": ""
+    },
+    "Orland, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Separate Orbits Metaphor.md"
       ],
       "title": ""
     },
@@ -47314,6 +47327,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/reports-policy-documents/RoyalSociety_2026_ScienceForSociety/Argument_RoyalSociety_2026_ScienceForSociety_Ch05.md"
+      ],
+      "title": ""
+    },
+    "Parkhurst, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Deliberative Space.md"
       ],
       "title": ""
     },
@@ -55804,6 +55825,15 @@
       ],
       "title": ""
     },
+    "Sellar & Lingard, 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Smart Buys.md",
+        "wiki/concepts/sociology-of-education/Epistemic Inequality.md"
+      ],
+      "title": ""
+    },
     "Sellar & Lingard, 2018": {
       "doi": "",
       "isbn": "",
@@ -62161,6 +62191,14 @@
       ],
       "title": ""
     },
+    "Tseng, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Deliberative Space.md"
+      ],
+      "title": ""
+    },
     "Tseng, 2022": {
       "doi": "",
       "isbn": "",
@@ -62508,6 +62546,14 @@
       ],
       "title": ""
     },
+    "UNESCO Dakar, 2025": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-policy-reform/Smart Buys.md"
+      ],
+      "title": ""
+    },
     "UNESCO Faure, 1972": {
       "doi": "",
       "isbn": "",
@@ -62521,6 +62567,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
+        "wiki/concepts/educational-policy-reform/Smart Buys.md",
         "wiki/facts/global/UNESCO.md"
       ],
       "title": ""
@@ -66109,7 +66156,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
+        "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
+        "wiki/concepts/educational-policy-reform/Smart Buys.md"
       ],
       "title": ""
     },
@@ -67534,6 +67582,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/political-economy-geopolitics/Tributary System.md"
+      ],
+      "title": ""
+    },
+    "Zhu et al., 2024": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/sociology-of-education/Epistemic Inequality.md"
       ],
       "title": ""
     },
