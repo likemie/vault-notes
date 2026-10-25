@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "template-eef",
+      "path": "wiki/templates/template-eef.md"
+    },
+    {
       "basename": "Argument_Campbell_2026_JPCC",
       "path": "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Academic Achievement",
       "path": "wiki/concepts/competency-and-assessment/Academic Achievement.md"
-    },
-    {
-      "basename": "Effect Size Conversion",
-      "path": "wiki/methods/quantitative/Effect Size Conversion.md"
     }
   ],
   "omittedPaths": [],

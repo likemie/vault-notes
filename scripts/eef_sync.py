@@ -153,8 +153,10 @@ def dots(n, total=5) -> str:
 def auto_checks(s: dict) -> list[str]:
     out = []
     refs = s["refs"]
-    if s.get("n_page") is not None and refs and s["n_page"] != len(refs):
-        out.append(f"**自动核算 · 研究数不一致** 页面报告 {s['n_page']} 项研究，可下载的效应量数据只有 {len(refs)} 条，合并效应量据后者计算。")
+    if s.get("n_page") is not None and refs and s["n_page"] not in (len(refs), len({r["cite"] for r in refs})):
+        studies = len({r["cite"] for r in refs})
+        out.append(f"**自动核算 · 研究数不一致** 页面“How secure is the evidence?”一节称纳入 {s['n_page']} 项研究；"
+                   f"参考文献列表为 {len(refs)} 条效应量，来自 {studies} 项研究，合并效应量据后者计算。")
     if refs:
         wsum = sum(r["w"] or 0 for r in refs)
         if abs(wsum - 100) > 1:
@@ -186,7 +188,7 @@ def render_strand(slug: str, s: dict, errata: list, args_meta: dict | None = Non
              f"> | {imp} | {cost} | {evi} | {s.get('n_page') if s.get('n_page') is not None else len(s['refs'])} | "
              f"{d2(p.get('smd')) if s['refs'] else 'NA'} | {(d2(p.get('lo')) + ' ~ ' + d2(p.get('hi'))) if s['refs'] else 'NA'} | {i2 if s['refs'] else 'NA'} |"]
     if s["refs"]:
-        lines += [">", f"> > [!eef-studies]- {len(s['refs'])} 条效应量",
+        lines += [">", f"> > [!eef-studies]- {len(s['refs'])} 条效应量 · {len({r['cite'] for r in s['refs']})} 项研究",
                   "> > | ref | type | smd | ci | w |", "> > | --- | --- | --- | --- | --- |"]
         for r in s["refs"]:
             cite = esc(r["cite"]) + (f" <span class=\"eef-tag\">{esc(r['tag'])}</span>" if r["tag"] else "")
