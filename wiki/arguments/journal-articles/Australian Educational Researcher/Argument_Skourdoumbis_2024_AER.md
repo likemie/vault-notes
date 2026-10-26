@@ -93,7 +93,7 @@ year: 2024
 doi: ""
 citation_aliases:
   - "Skourdoumbis & Rowe, 2024"
-  - "Skourdoumbis & Rowe (2024)"
+  - "Skourdoumbis and Rowe (2024)"
 ---
 ---
 

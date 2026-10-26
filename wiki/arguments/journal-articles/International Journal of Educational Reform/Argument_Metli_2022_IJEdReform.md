@@ -10,7 +10,7 @@ year: 2022
 doi: "10.1177/10567879211064873"
 citation_aliases:
   - "Metli & Akış, 2022"
-  - "Metli & Akış (2022)"
+  - "Metli and Akış (2022)"
 isbn: ""
 tags:
   - curriculum

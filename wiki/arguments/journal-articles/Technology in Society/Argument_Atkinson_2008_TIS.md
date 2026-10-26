@@ -10,7 +10,7 @@ year: 2008
 doi: "10.1016/j.techsoc.2007.10.004"
 citation_aliases:
   - "Atkinson & Blanpied, 2008"
-  - "Atkinson & Blanpied (2008)"
+  - "Atkinson and Blanpied (2008)"
 isbn: ""
 tags:
   - level/higher-education

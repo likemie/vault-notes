@@ -55,8 +55,8 @@ updated: 2026-10-23
 year: 2015
 doi: ""
 citation_aliases:
-  - "Hattie, 2015a"
-  - "Hattie (2015a)"
+  - "Hattie, 2015b"
+  - "Hattie (2015b)"
 ---
 > [!info] [[Research Question\|研究问题]]
 > [[Visible Learning]] 已经从一本 2009 年出版的[[Research Synthesis|研究综合]]扩展为一组面向教师、[[School Leadership\|学校领导]]和政策系统的实践[[Discourse|话语]]。核心问题因此变成：在面对方法论批评、[[Effect Size\|效应量]]误读和学习概念争议时，如何重新说明 Visible Learning 的中心主张，使它不被简化成“照排行榜选教学法”的技术菜单？

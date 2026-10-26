@@ -10,7 +10,7 @@ year: 2004
 doi: "10.1023/b:jott.0000034128.39526.6b"
 citation_aliases:
   - "Bozeman & Boardman, 2004"
-  - "Bozeman & Boardman (2004)"
+  - "Bozeman and Boardman (2004)"
 tags:
   - theme/university-industry-collaboration
   - theme/innovation

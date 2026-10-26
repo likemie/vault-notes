@@ -49,8 +49,8 @@ updated: 2026-10-23
 year: 2020
 doi: ""
 citation_aliases:
-  - "Keddie et al., 2020b"
-  - "Keddie et al. (2020b)"
+  - "Keddie, MacDonald, Blackmore, Wilkinson, et al., 2020"
+  - "Keddie, MacDonald, Blackmore, Wilkinson, et al. (2020)"
 ---
 > [!info] [[Research Question\|研究问题]]
 > 论文试图回答以下问题(IJLE, p.5, 12-13)：

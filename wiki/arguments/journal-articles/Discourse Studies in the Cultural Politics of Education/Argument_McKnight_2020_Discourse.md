@@ -56,7 +56,7 @@ year: 2020
 doi: ""
 citation_aliases:
   - "McKnight & Whitburn, 2020"
-  - "McKnight & Whitburn (2020)"
+  - "McKnight and Whitburn (2020)"
 ---
 > [!info] [[Research Question\|研究问题]]
 > [[Visible Learning]] 作为一种全球教育论述，在文化政治层面"运作"（puts to work）了什么？具体而言：Visible Learning 的隐喻本身与哪些权力关系结盟？它在性别、能力和新自由主义议程方面产生了什么效应？

@@ -10,7 +10,7 @@ year: 2005
 doi: ""
 citation_aliases:
   - "Streeck & Thelen, 2005"
-  - "Streeck & Thelen (2005)"
+  - "Streeck and Thelen (2005)"
 isbn: "9780199280469"
 tags:
   - theme/institutional-change

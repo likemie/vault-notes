@@ -24,7 +24,7 @@ year: 2018
 doi: "10.1007/978-3-319-62616-1_5"
 citation_aliases:
   - "Kelly & Licona, 2018"
-  - "Kelly & Licona (2018)"
+  - "Kelly and Licona (2018)"
 isbn: "978-3-319-62614-7"
 tags:
   - paradigm/hps

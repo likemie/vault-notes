@@ -10,7 +10,7 @@ year: 2024
 doi: "10.1257/jep.38.4.81"
 citation_aliases:
   - "Bown & Wang, 2024"
-  - "Bown & Wang (2024)"
+  - "Bown and Wang (2024)"
 isbn: ""
 tags:
   - theme/industrial-policy

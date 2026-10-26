@@ -69,7 +69,7 @@ year: 2015
 doi: ""
 citation_aliases:
   - "Beech & Artopoulos, 2015"
-  - "Beech & Artopoulos (2015)"
+  - "Beech and Artopoulos (2015)"
 ---
 ---
 

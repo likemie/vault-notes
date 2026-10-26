@@ -76,7 +76,7 @@ year: 2021
 doi: ""
 citation_aliases:
   - "Pellegrini & Vivanet, 2021"
-  - "Pellegrini & Vivanet (2021)"
+  - "Pellegrini and Vivanet (2021)"
 ---
 > [!info] [[Research Question\|研究问题]]
 > 欧洲教育政策中，[[Research Utilization\|证据使用]]已经被 [[EU Evidence-Informed Education Policy Initiatives\|欧盟证据知情教育政策倡议]] 持续鼓励，但这种鼓励到底发展到什么程度？哪些 证据中介组织 承担证据生产和传播功能？为什么在美国 [[Every Student Succeeds Act\|ESSA]] 式[[Evidence Standards\|证据标准]] 已经制度化之后，欧洲仍难以形成系统的 [[Evidence-Based Reform\|证据本位改革]]？

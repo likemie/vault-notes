@@ -10,7 +10,7 @@ year: 2026
 doi: "10.1007/s00146-026-03294-1"
 citation_aliases:
   - "Du & Yuan, 2026"
-  - "Du & Yuan (2026)"
+  - "Du and Yuan (2026)"
 isbn: ""
 tags:
   - theme/artificial-intelligence

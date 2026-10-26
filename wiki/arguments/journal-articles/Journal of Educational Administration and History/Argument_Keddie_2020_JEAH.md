@@ -53,8 +53,8 @@ updated: 2026-10-23
 year: 2020
 doi: ""
 citation_aliases:
-  - "Keddie et al., 2020a"
-  - "Keddie et al. (2020a)"
+  - "Keddie, MacDonald, Blackmore, Eacott, et al., 2020"
+  - "Keddie, MacDonald, Blackmore, Eacott, et al. (2020)"
 ---
 > [!info] [[Research Question\|研究问题]]
 > 当[[School Autonomy\|学校自主权]]改革与市场逻辑（经济效率、竞争和公共问责）汇聚时，对澳大利亚公立学校系统中的**校长**和**特定学校**（尤其是小型、农村、偏远和弱势学校）产生了什么样的社会正义后果？

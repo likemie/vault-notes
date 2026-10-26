@@ -10,7 +10,7 @@ year: 2026
 doi: "10.1080/09500693.2026.2717405"
 citation_aliases:
   - "Han & Gutierez, 2026"
-  - "Han & Gutierez (2026)"
+  - "Han and Gutierez (2026)"
 isbn: ""
 tags:
   - theme/science-education

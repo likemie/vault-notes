@@ -21,7 +21,7 @@ year: 2023
 doi: "10.14288/ce.v14i4.186745"
 citation_aliases:
   - "Johnson & Janzen, 2023"
-  - "Johnson & Janzen (2023)"
+  - "Johnson and Janzen (2023)"
 isbn: ""
 tags:
   - visible-learning

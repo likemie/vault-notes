@@ -80,7 +80,7 @@ year: 2025
 doi: ""
 citation_aliases:
   - "Yan & Morris, 2025"
-  - "Yan & Morris (2025)"
+  - "Yan and Morris (2025)"
 ---
 ---
 

@@ -10,7 +10,7 @@ year: 2018
 doi: "10.1177/1468018118794076"
 citation_aliases:
   - "Niemann & Martens, 2018"
-  - "Niemann & Martens (2018)"
+  - "Niemann and Martens (2018)"
 isbn: ""
 tags:
   - soft-governance

@@ -67,7 +67,7 @@ year: 2017
 doi: ""
 citation_aliases:
   - "Bolton & Hattie, 2017"
-  - "Bolton & Hattie (2017)"
+  - "Bolton and Hattie (2017)"
 ---
 ---
 

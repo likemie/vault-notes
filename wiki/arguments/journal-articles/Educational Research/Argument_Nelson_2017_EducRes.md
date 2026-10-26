@@ -21,7 +21,7 @@ year: 2017
 doi: "10.1080/00131881.2017.1314115"
 citation_aliases:
   - "Nelson & Campbell, 2017"
-  - "Nelson & Campbell (2017)"
+  - "Nelson and Campbell (2017)"
 isbn: ""
 tags:
   - theme/evidence-informed-practice

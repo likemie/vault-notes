@@ -289,6 +289,7 @@
   },
   "active": "158f911ef6e993c1",
   "lastOpenFiles": [
+    "scripts/_old_rel.py",
     "output/related-updates/Argument_Xie_Li_Huang_2021_GEO-0ffc334d/batch-010/result.json",
     "scripts/__pycache__/source_record.cpython-310.pyc",
     "scripts/__pycache__/_old_sr.cpython-310.pyc",
@@ -301,7 +302,6 @@
     "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
     "output/related-updates/Argument_Xie_Li_Huang_2021_GEO-0ffc334d/batch-009/result.json",
     "scripts/__pycache__/citation_external.cpython-310.pyc",
-    "scripts/_old_lint.py",
     "wiki/concepts/educational-philosophy/Whole Person Education.md",
     "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Bangs_2022_PerspectivesOnResearch.md",
     "wiki/arguments/journal-articles/Chinese Education & Society/Argument_Wang_Liang_Chen_2025_CES.md",

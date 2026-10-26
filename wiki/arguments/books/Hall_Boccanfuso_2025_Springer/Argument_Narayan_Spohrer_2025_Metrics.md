@@ -70,7 +70,7 @@ year: 2025
 doi: ""
 citation_aliases:
   - "Narayan & Spohrer, 2025"
-  - "Narayan & Spohrer (2025)"
+  - "Narayan and Spohrer (2025)"
 ---
 > [!question]
 > 产学关系中的度量指标（metrics）、激励（incentives）、奖励（rewards）和文化（culture）是需要随企业商业环境和战略重点不断调适的动态系统。IBM 在过去百年间多次重新设计其全球大学项目（Global University Program, GUP），每一次调整都面临同一个问题：商业条件变化时，如何重新校准这四个要素，使[[University-Industry Collaboration\|产学合作]]对双方持续产生实际影响力（impact），而不只是走形式？(p.85)

@@ -228,7 +228,7 @@ year: 2022
 doi: ""
 citation_aliases:
   - "Creswell & Creswell, 2022"
-  - "Creswell & Creswell (2022)"
+  - "Creswell and Creswell (2022)"
 ---
 ## 章节结构
 

@@ -101,6 +101,7 @@ schema/                      专项工作流 schema，按任务触发读取
   schema-textbook.md
 scripts/
   vault_index.py              基础维护统一入口
+  vaultlib.py                 各脚本共用的基础函数（frontmatter、YAML 引号、wikilink、git、JSON）；公共逻辑只写在这里
   wiki_index.py               wiki 索引与机构登记表 wiki/organizations.json
   citation_index.py           Argument 引用索引与库外短引用索引
   wiki_linker.py

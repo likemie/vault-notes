@@ -50,7 +50,7 @@ year: 2025
 doi: ""
 citation_aliases:
   - "Susalka & Carbone, 2025"
-  - "Susalka & Carbone (2025)"
+  - "Susalka and Carbone (2025)"
 ---
 ---
 

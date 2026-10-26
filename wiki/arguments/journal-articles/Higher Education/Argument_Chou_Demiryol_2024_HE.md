@@ -20,7 +20,7 @@ year: 2024
 doi: "10.1007/s10734-023-01085-x"
 citation_aliases:
   - "Chou & Demiryol, 2024"
-  - "Chou & Demiryol (2024)"
+  - "Chou and Demiryol (2024)"
 isbn: ""
 tags:
   - theme/higher-education

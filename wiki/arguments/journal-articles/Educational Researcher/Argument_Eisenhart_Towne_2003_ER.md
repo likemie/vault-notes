@@ -10,7 +10,7 @@ year: 2003
 doi: "10.3102/0013189X032007031"
 citation_aliases:
   - "Eisenhart & Towne, 2003"
-  - "Eisenhart & Towne (2003)"
+  - "Eisenhart and Towne (2003)"
 isbn: ""
 tags:
   - scientifically-based-research

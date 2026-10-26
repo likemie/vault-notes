@@ -9,7 +9,7 @@ year: 2020
 doi: "10.1257/aer.20171732"
 citation_aliases:
   - "Glitz & Meyersson, 2020"
-  - "Glitz & Meyersson (2020)"
+  - "Glitz and Meyersson (2020)"
 isbn: ""
 tags:
   - theme/technology-transfer

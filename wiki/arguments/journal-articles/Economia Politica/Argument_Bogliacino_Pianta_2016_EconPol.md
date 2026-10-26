@@ -20,7 +20,7 @@ year: 2016
 doi: "10.1007/s40888-016-0035-1"
 citation_aliases:
   - "Bogliacino & Pianta, 2016"
-  - "Bogliacino & Pianta (2016)"
+  - "Bogliacino and Pianta (2016)"
 isbn: ""
 tags:
   - theme/innovation

@@ -10,7 +10,7 @@ year: 2026
 doi: "10.3389/fpsyg.2026.1841294"
 citation_aliases:
   - "Song & Choi, 2026"
-  - "Song & Choi (2026)"
+  - "Song and Choi (2026)"
 isbn: ""
 tags:
   - epistemic-cognition

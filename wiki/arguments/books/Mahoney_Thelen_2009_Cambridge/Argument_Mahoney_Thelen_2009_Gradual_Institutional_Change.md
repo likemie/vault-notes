@@ -23,7 +23,7 @@ isbn: "9780511658440"
 citation: "Mahoney, J., & Thelen, K. (2009). A theory of gradual institutional change. In J. Mahoney & K. Thelen (Eds.), Explaining institutional change: Ambiguity, agency, and power (pp. 1–37). Cambridge: Cambridge University Press."
 citation_aliases:
   - "Mahoney & Thelen, 2009"
-  - "Mahoney & Thelen (2009)"
+  - "Mahoney and Thelen (2009)"
 part_of: "[[books/Mahoney_Thelen_2009_Cambridge/Mahoney_Thelen_2009_Cambridge|Mahoney_Thelen_2009_Cambridge]]"
 tags:
   - theme/institutional-change

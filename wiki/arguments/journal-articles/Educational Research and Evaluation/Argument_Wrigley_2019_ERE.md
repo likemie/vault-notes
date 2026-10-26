@@ -66,7 +66,7 @@ year: 2019
 doi: ""
 citation_aliases:
   - "Wrigley & McCusker, 2019"
-  - "Wrigley & McCusker (2019)"
+  - "Wrigley and McCusker (2019)"
 ---
 > [!info] [[Research Question\|研究问题]]
 > 证据本位教学（evidence-based teaching）的倡导者坚称这是一种严格的[[Scientific Method\|科学方法]]。本文质疑 [[Randomised Controlled Trials\|RCT]] 和[[Meta-analysis\|元分析]]是教育研究中唯一真正科学方法的观点，指出这些宣称往往依赖于一种过于简单的"科学"概念。

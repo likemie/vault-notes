@@ -70,7 +70,7 @@ year: 2024
 doi: "10.1080/03050068.2023.2273641"
 citation_aliases:
   - "Yu & Zhao, 2024"
-  - "Yu & Zhao (2024)"
+  - "Yu and Zhao (2024)"
 ---
 ---
 

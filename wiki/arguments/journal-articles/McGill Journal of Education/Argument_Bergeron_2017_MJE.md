@@ -10,7 +10,7 @@ year: 2017
 doi: "10.7202/1040816ar"
 citation_aliases:
   - "Bergeron & Rivard, 2017"
-  - "Bergeron & Rivard (2017)"
+  - "Bergeron and Rivard (2017)"
 isbn: ""
 tags:
   - visible-learning

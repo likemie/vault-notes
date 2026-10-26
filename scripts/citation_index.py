@@ -269,12 +269,37 @@ def source_language_for(meta: dict[str, Any]) -> str:
 
 
 def aliases_for_parts(parts: list[str], year: str) -> list[str]:
+    """Parenthetical and narrative short cites for each author part.
+
+    APA 7 (8.17): two English authors are joined with "&" inside parentheses
+    and with "and" in running text: (Ball & Junemann, 2012) / Ball and
+    Junemann (2012). Chinese parts keep their own conjunction (和).
+    """
     if not parts or not year:
         return []
     aliases: list[str] = []
     for part in parts:
-        aliases.extend([f"{part}, {year}", f"{part} ({year})"])
+        aliases.extend([f"{part}, {year}", f"{narrative_author_part(part)} ({year})"])
     return dedupe(aliases)
+
+
+def narrative_author_part(part: str) -> str:
+    return re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ.])(,?) & (?=[A-ZÀ-ÖØ-Þ])", r"\1 and ", part)
+
+
+_LEADING_ARTICLE_RE = re.compile(r"^(?:a|an|the)\s+", re.IGNORECASE)
+
+
+def reference_title(citation: str) -> str:
+    """Title part of a full APA reference: the text after "(Year)."."""
+    m = re.search(r"\((?:19|20)\d{2}[a-z]?(?:, [^)]*)?\)\.\s*(.+)", citation or "")
+    return (m.group(1) if m else citation or "").strip()
+
+
+def reference_sort_key(item: "ArgumentCitation") -> tuple[str, str, str]:
+    """APA 7 (9.47): same author(s), same year -> alphabetical by title, ignoring A/An/The."""
+    title = _LEADING_ARTICLE_RE.sub("", reference_title(item.citation)).casefold()
+    return (title, item.citation, item.rel_path)
 
 
 def aliases_for(authors: list[str], year: str, citation: str = "", source_language: str = "") -> list[str]:
@@ -372,9 +397,9 @@ def load_arguments() -> tuple[list[ArgumentCitation], list[InheritedBookChapter]
 # ("Kim, Lee, et al."); (3) only identical author lists fall back to a/b year
 # suffixes. The recommended form is always written to citation_ambiguous.json
 # (`rule`, `apa7_aliases`). It replaces the a/b suffix in `citation_aliases`
-# only when APA7_DISAMBIGUATION is True or `--apa7` is passed, because the
-# switch rewrites existing citation displays across the vault.
-APA7_DISAMBIGUATION = False
+# when APA7_DISAMBIGUATION is True (the default since 2026-10) or `--apa7` is
+# passed; wiki_linker.py `sync --fix-display` then rewrites link displays.
+APA7_DISAMBIGUATION = True
 
 
 def surname_initials(author: str) -> tuple[str, str]:
@@ -446,7 +471,7 @@ def assign_suffixes(items: list[ArgumentCitation], apa7: bool | None = None) -> 
             group[0].aliases = group[0].base_aliases
             group[0].rule, group[0].apa7_aliases = "", []
             continue
-        ordered = sorted(group, key=lambda x: (x.citation, x.title, x.rel_path))
+        ordered = sorted(group, key=reference_sort_key)
         plan = apa7_plan(ordered)
         # a/b suffixes are assigned only among works whose recommended part still collides.
         suffix_groups: dict[str, list[ArgumentCitation]] = {}

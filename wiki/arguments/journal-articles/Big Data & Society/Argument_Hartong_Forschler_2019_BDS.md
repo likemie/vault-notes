@@ -10,7 +10,7 @@ year: 2019
 doi: "10.1177/2053951719853311"
 citation_aliases:
   - "Hartong & Förschler, 2019"
-  - "Hartong & Förschler (2019)"
+  - "Hartong and Förschler (2019)"
 isbn: ""
 tags:
   - theme/datafication

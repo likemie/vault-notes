@@ -10,7 +10,7 @@ year: 2005
 doi: "10.3406/rei.2005.3123"
 citation_aliases:
   - "Fabrizio & Mowery, 2005"
-  - "Fabrizio & Mowery (2005)"
+  - "Fabrizio and Mowery (2005)"
 isbn: ""
 tags:
   - region/us

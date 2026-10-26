@@ -10,7 +10,7 @@ year: 2015
 doi: ""
 citation_aliases:
   - "Bergeron & Rogers, 2015"
-  - "Bergeron & Rogers (2015)"
+  - "Bergeron and Rogers (2015)"
 isbn: ""
 tags:
   - theme/tok

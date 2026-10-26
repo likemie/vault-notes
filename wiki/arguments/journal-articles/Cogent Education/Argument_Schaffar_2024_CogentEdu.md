@@ -20,7 +20,7 @@ year: 2024
 doi: 10.1080/2331186X.2024.2309733
 citation_aliases:
   - "Schaffar & Wolff, 2024"
-  - "Schaffar & Wolff (2024)"
+  - "Schaffar and Wolff (2024)"
 tags:
   - phenomenon-based-learning
   - bildung

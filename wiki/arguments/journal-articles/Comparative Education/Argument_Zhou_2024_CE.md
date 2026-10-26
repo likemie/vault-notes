@@ -64,7 +64,7 @@ year: 2024
 doi: "10.1080/03050068.2024.2346654"
 citation_aliases:
   - "Zhou & Westberg, 2024"
-  - "Zhou & Westberg (2024)"
+  - "Zhou and Westberg (2024)"
 ---
 ---
 

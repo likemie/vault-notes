@@ -449,10 +449,20 @@ def expected_citation_aliases_from_meta(data: Dict[str, Any], suffix: str = "") 
             parts = [f"{labels[0]} & {labels[1]}"]
         else:
             parts = [f"{labels[0]} et al."]
-    aliases: List[str] = []
-    for part in dedupe(parts):
-        aliases.extend([f"{part}, {year}", f"{part} ({year})"])
-    return aliases
+    import citation_index  # noqa: PLC0415 - one alias rule for lint and index
+    return citation_index.aliases_for_parts(dedupe(parts), year)
+
+
+def apa7_disambiguated_aliases(aliases: List[Any], expected_base: List[str]) -> bool:
+    """APA 7 (8.18, 8.20) forms that citation_index writes when two works share
+    a base short cite: more co-authors ("Kim, Lee, et al., 2020") or initials
+    ("J. Zhang et al., 2022"). Same first surname and year as the base form."""
+    m = re.match(r"^(.+?)[,\s].*?((?:19|20)\d{2})", expected_base[0])
+    if not m:
+        return False
+    surname, year = m.group(1), m.group(2)
+    pattern = re.compile(rf"^(?:[A-Z][\w.\- ]*\s)?{re.escape(surname)}\b.*{year}[a-z]?\)?$")
+    return all(pattern.match(str(a)) for a in aliases)
 
 
 def citation_display_text(text: str) -> bool:
@@ -1654,7 +1664,8 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
             issues.append(Issue("ERROR", rel(path), "citation_aliases must be a YAML list", line=frontmatter_line_number(fm, "citation_aliases"), code="CITATION_ALIASES_TYPE"))
         elif isinstance(aliases, list):
             expected_base = expected_citation_aliases_from_meta(data)
-            if aliases and expected_base and aliases != expected_base and not all(re.match(r"^.+(?:19|20)\d{2}[a-z]\)?$", str(a)) for a in aliases):
+            if aliases and expected_base and aliases != expected_base and not all(re.match(r"^.+(?:19|20)\d{2}[a-z]\)?$", str(a)) for a in aliases) \
+                    and not apa7_disambiguated_aliases(aliases, expected_base):
                 issues.append(Issue("WARN", rel(path), f"citation_aliases differ from authors + year base form; run vault_index.py: {aliases!r}", line=frontmatter_line_number(fm, "citation_aliases"), code="CITATION_ALIASES_MISMATCH"))
 
     # summary checks

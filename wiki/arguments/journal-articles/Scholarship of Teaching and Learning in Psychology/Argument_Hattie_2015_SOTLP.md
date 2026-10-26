@@ -43,8 +43,8 @@ updated: 2026-10-23
 year: 2015
 doi: ""
 citation_aliases:
-  - "Hattie, 2015b"
-  - "Hattie (2015b)"
+  - "Hattie, 2015a"
+  - "Hattie (2015a)"
 ---
 > [!info] [[Research Question\|研究问题]]
 > [[Visible Learning]] 的 1200 项[[Meta-analysis\|元分析]]综合在高等教育情境中是否适用？高等教育教师可以从 VL 研究中获得哪些关键启示？

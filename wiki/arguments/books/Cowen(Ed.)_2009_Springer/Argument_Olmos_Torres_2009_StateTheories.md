@@ -10,7 +10,7 @@ year: 2009
 doi: ""
 citation_aliases:
   - "Olmos & Torres, 2009"
-  - "Olmos & Torres (2009)"
+  - "Olmos and Torres (2009)"
 isbn: "978-1-4020-6402-9"
 tags:
   - theme/state-theories

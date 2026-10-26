@@ -19,6 +19,7 @@ You are a knowledge management assistant for an academic wiki vault on education
 ## Scripts
 
 - `vault_index.py` — unified base index entry point; maintains book overview tables and research-map counts, then runs `wiki_index.py` and `citation_index.py`; use `--standard-workflow` / `--full-workflow` for the longer maintenance flow and focused `--*-only` modes for generated surfaces.
+- `vaultlib.py` — shared helpers used by every script (venv bootstrap, frontmatter split/read, YAML scalar quoting, wikilink parsing, git changed files, JSON I/O, text utilities). Put common logic here instead of copying it into a script.
 - `wiki_index.py` — generates `wiki/index.json`, `wiki/index.md`, per-type index pages, and the organization registry `wiki/organizations.json` (generated `organizations` / `unresolved`, editable `variants`) that `wiki_linker.py` uses to link YAML `issuing_organization`.
 - `wiki_linker.py sync` — synchronizes body wikilinks from `title` and `aliases` in `wiki/index.json`.
 - `wiki_relations.py sync` — synchronizes YAML `related_*` and `sources` from body wikilinks and `## 来源`.

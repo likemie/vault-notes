@@ -10,7 +10,7 @@ year: 2023
 doi: "10.1177/21582440231199033"
 citation_aliases:
   - "Kazancı Tınmaz & Sezgin, 2023"
-  - "Kazancı Tınmaz & Sezgin (2023)"
+  - "Kazancı Tınmaz and Sezgin (2023)"
 isbn: ""
 tags:
   - field/teacher-education

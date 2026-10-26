@@ -77,7 +77,7 @@ year: 2025
 doi: "10.1080/03050068.2024.2423445"
 citation_aliases:
   - "Wang & McLaughlin, 2025"
-  - "Wang & McLaughlin (2025)"
+  - "Wang and McLaughlin (2025)"
 ---
 ---
 

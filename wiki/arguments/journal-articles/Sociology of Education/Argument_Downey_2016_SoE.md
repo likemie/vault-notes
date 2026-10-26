@@ -52,7 +52,7 @@ year: 2016
 doi: ""
 citation_aliases:
   - "Downey & Condron, 2016"
-  - "Downey & Condron (2016)"
+  - "Downey and Condron (2016)"
 ---
 > [!info] [[Research Question\|研究问题]]
 > 论文试图回答一个在教育社会学中悬而未决半个世纪的核心问题：学校与不平等之间的关系是什么？具体而言：

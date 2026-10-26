@@ -10,7 +10,7 @@ year: 2020
 doi: "10.1080/02188791.2020.1712057"
 citation_aliases:
   - "Huang & Kan, 2020"
-  - "Huang & Kan (2020)"
+  - "Huang and Kan (2020)"
 isbn: ""
 tags:
   - region/global

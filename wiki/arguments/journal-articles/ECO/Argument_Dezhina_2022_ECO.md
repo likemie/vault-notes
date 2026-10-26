@@ -9,7 +9,7 @@ year: 2022
 doi: "10.30680/ECO0131-7652-2022-1-35-53"
 citation_aliases:
   - "Dezhina & Egerev, 2022"
-  - "Dezhina & Egerev (2022)"
+  - "Dezhina and Egerev (2022)"
 isbn: ""
 tags:
   - "source/journal-article"

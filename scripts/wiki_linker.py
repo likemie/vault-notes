@@ -2100,7 +2100,8 @@ def citation_link_wikilink_narrative(text: str, lookup: dict[str, dict[str, Any]
 APA_YEAR_TOKEN_RE = re.compile(r"((?:19|20)\d{2})([a-z])?")
 
 
-APA_DISPLAY_WIKILINK_RE = re.compile(r"\[\[([^\]\n|]+)\|([^\]\n]+)\]\]")
+# The pipe may be escaped (\\|) inside Markdown tables; the escape is kept on rewrite.
+APA_DISPLAY_WIKILINK_RE = re.compile(r"\[\[([^\]\n|\\]+)(\\?\|)([^\]\n]+)\]\]")
 
 
 def citation_build_target_aliases(lookup: dict[str, dict[str, Any]]) -> dict[str, list[str]]:
@@ -2116,31 +2117,55 @@ def citation_build_target_aliases(lookup: dict[str, dict[str, Any]]) -> dict[str
 
 
 def citation_rewrite_drifted_display(display: str, aliases: list[str]) -> str | None:
-    """Rewrite an Argument link display whose a/b/c suffix drifted from citation_aliases.
+    """Rewrite an Argument link display that drifted from the target's citation_aliases.
 
-    'Cohen et al., 2011, p. 30' -> 'Cohen et al., 2011a, p. 30' when the target's
-    alias is 'Cohen et al., 2011a'. Returns None when no safe rewrite exists.
+    1. Year suffix drift: 'Cohen et al., 2011, p. 30' -> 'Cohen et al., 2011a, p. 30'
+       when the target's alias is 'Cohen et al., 2011a'.
+    2. Author-part drift (APA 7 8.18 / 8.20 disambiguation, or a full author
+       list where APA uses et al.): 'Rickinson et al., 2022a, p. 3' ->
+       'Rickinson, Walsh, et al., 2022, p. 3' when the alias is
+       'Rickinson, Walsh, et al., 2022'. Only when the first surname and the
+       year match, so a link never takes another work's author.
+    Wrapping text, parentheses and page locators are preserved. Returns None
+    when no safe rewrite exists.
     """
     m = APA_YEAR_TOKEN_RE.search(display)
     if not m:
         return None
     narrative = display[: m.start()].rstrip().endswith(("(", "（"))
-    d_author = citation_normalize_author(display[: m.start()].strip(" ,，（(")).lower()
+    d_author_raw = display[: m.start()].strip(" ,，（(")
+    d_author = citation_normalize_author(d_author_raw).lower()
     if not d_author:
         return None
     tail = display[m.end():]
+    same_form = []
     for alias in aliases:
         am = APA_YEAR_TOKEN_RE.search(alias)
-        if not am:
+        if not am or alias[: am.start()].rstrip().endswith(("(", "（")) != narrative:
             continue
-        if alias[: am.start()].rstrip().endswith(("(", "（")) != narrative:
-            continue
+        same_form.append((alias, am))
+    for alias, am in same_form:
         if citation_normalize_author(alias[: am.start()].strip(" ,，（(")).lower() != d_author:
             continue
         if am.group(1) != m.group(1):
             continue
         # Replace only the year token so any wrapping text/parens are preserved.
         candidate = display[: m.start()] + am.group(0) + tail
+        return candidate if candidate != display else None
+
+    def first_surname(author: str) -> str:
+        return re.split(r"[\s,]", author.strip(), maxsplit=1)[0].casefold()
+
+    if not re.match(r"[A-Za-zÀ-ÖØ-öø-ÿ]", d_author_raw):
+        return None
+    for alias, am in same_form:
+        a_author = alias[: am.start()].strip(" ,，（(")
+        if am.group(1) != m.group(1) or first_surname(a_author) != first_surname(d_author_raw):
+            continue
+        lead = len(display) - len(display.lstrip())
+        if display.lstrip().startswith(("(", "（")) and not narrative:
+            lead += 1
+        candidate = display[:lead] + alias[: am.end()] + tail
         return candidate if candidate != display else None
     return None
 
@@ -2150,7 +2175,8 @@ def citation_fix_display_suffixes(text: str, targets: dict[str, list[str]], stat
 
     def repl(match: re.Match[str]) -> str:
         target = match.group(1).strip()
-        display = match.group(2).strip()
+        pipe = match.group(2)
+        display = match.group(3).strip()
         aliases = targets.get(target)
         if not aliases:
             return match.group(0)
@@ -2158,7 +2184,7 @@ def citation_fix_display_suffixes(text: str, targets: dict[str, list[str]], stat
         if fixed is None:
             return match.group(0)
         stats["fixed_display"] += 1
-        return f"[[{target}|{fixed}]]"
+        return f"[[{target}{pipe}{fixed}]]"
 
     return fm + APA_DISPLAY_WIKILINK_RE.sub(repl, body)
 

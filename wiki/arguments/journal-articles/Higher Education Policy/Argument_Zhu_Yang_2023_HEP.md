@@ -20,7 +20,7 @@ year: 2023
 doi: "10.1057/s41307-022-00278-w"
 citation_aliases:
   - "Zhu & Yang, 2023"
-  - "Zhu & Yang (2023)"
+  - "Zhu and Yang (2023)"
 isbn: ""
 tags:
   - theme/higher-education

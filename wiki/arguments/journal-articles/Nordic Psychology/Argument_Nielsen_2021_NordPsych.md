@@ -105,7 +105,7 @@ year: 2021
 doi: "10.1080/19012276.2021.1962731"
 citation_aliases:
   - "Nielsen & Klitmøller, 2021a"
-  - "Nielsen & Klitmøller (2021a)"
+  - "Nielsen and Klitmøller (2021a)"
 ---
 ---
 

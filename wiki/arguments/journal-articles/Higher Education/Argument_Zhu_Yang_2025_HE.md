@@ -20,7 +20,7 @@ year: 2025
 doi: "10.1007/s10734-024-01260-8"
 citation_aliases:
   - "Zhu & Yang, 2025"
-  - "Zhu & Yang (2025)"
+  - "Zhu and Yang (2025)"
 isbn: ""
 tags:
   - theme/higher-education

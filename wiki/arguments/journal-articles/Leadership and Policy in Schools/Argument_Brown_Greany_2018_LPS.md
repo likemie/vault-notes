@@ -10,7 +10,7 @@ year: 2018
 doi: "10.1080/15700763.2016.1270330"
 citation_aliases:
   - "Brown & Greany, 2018"
-  - "Brown & Greany (2018)"
+  - "Brown and Greany (2018)"
 isbn: ""
 tags:
   - theme/evidence-informed-practice

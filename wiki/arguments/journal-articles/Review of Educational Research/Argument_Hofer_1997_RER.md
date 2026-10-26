@@ -10,7 +10,7 @@ year: 1997
 doi: "10.3102/00346543067001088"
 citation_aliases:
   - "Hofer & Pintrich, 1997"
-  - "Hofer & Pintrich (1997)"
+  - "Hofer and Pintrich (1997)"
 isbn: ""
 tags:
   - "theme/epistemological-beliefs"

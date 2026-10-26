@@ -20,7 +20,7 @@ year: 2019
 doi: ""
 citation_aliases:
   - "Oxford & UIDP, 2019"
-  - "Oxford & UIDP (2019)"
+  - "Oxford and UIDP (2019)"
 isbn: ""
 tags:
   - theme/university-industry-collaboration

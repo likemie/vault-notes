@@ -76,7 +76,7 @@ year: 2025
 doi: "10.1080/03050068.2024.2398342"
 citation_aliases:
   - "Teng & Wang, 2025"
-  - "Teng & Wang (2025)"
+  - "Teng and Wang (2025)"
 isbn: ""
 source_language: en
 ---

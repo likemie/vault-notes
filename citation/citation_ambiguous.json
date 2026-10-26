@@ -4,7 +4,7 @@
     "Chen & Cheung, 2025": {
       "aliases": [
         "Chen & Cheung, 2025",
-        "Chen & Cheung (2025)"
+        "Chen and Cheung (2025)"
       ],
       "argument": "Argument_Chen_Cheung_2025_ERR",
       "external": [
@@ -22,7 +22,7 @@
     "Huang & Kan, 2020": {
       "aliases": [
         "Huang & Kan, 2020",
-        "Huang & Kan (2020)"
+        "Huang and Kan (2020)"
       ],
       "argument": "Argument_Huang_2020_APJE",
       "external": [
@@ -121,7 +121,7 @@
     "Zhou & Westberg, 2024": {
       "aliases": [
         "Zhou & Westberg, 2024",
-        "Zhou & Westberg (2024)"
+        "Zhou and Westberg (2024)"
       ],
       "argument": "Argument_Zhou_2024_CE",
       "external": [
@@ -188,11 +188,11 @@
       {
         "aliases": [
           "Boccanfuso & Hall, 2025a",
-          "Boccanfuso & Hall (2025a)"
+          "Boccanfuso and Hall (2025a)"
         ],
         "apa7_aliases": [
           "Boccanfuso & Hall, 2025a",
-          "Boccanfuso & Hall (2025a)"
+          "Boccanfuso and Hall (2025a)"
         ],
         "argument": "Argument_Boccanfuso_Hall_2025_Alignment",
         "authors": [
@@ -211,11 +211,11 @@
       {
         "aliases": [
           "Boccanfuso & Hall, 2025b",
-          "Boccanfuso & Hall (2025b)"
+          "Boccanfuso and Hall (2025b)"
         ],
         "apa7_aliases": [
           "Boccanfuso & Hall, 2025b",
-          "Boccanfuso & Hall (2025b)"
+          "Boccanfuso and Hall (2025b)"
         ],
         "argument": "Argument_Boccanfuso_Hall_2025_OrgStrategy",
         "authors": [
@@ -288,28 +288,6 @@
           "Hattie, 2015a",
           "Hattie (2015a)"
         ],
-        "argument": "Argument_Hattie_2015_Paideia",
-        "authors": [
-          "[[John Hattie|Hattie, J.]]"
-        ],
-        "citation": "Hattie, J. (2015). Synlig læring i dag. Paideia, 9, 9-21.",
-        "doi": "",
-        "isbn": "",
-        "path": "wiki/arguments/journal-articles/Paideia/Argument_Hattie_2015_Paideia.md",
-        "rule": "suffix",
-        "source_language": "en",
-        "title": "Argument_Hattie_2015_Paideia",
-        "year": "2015"
-      },
-      {
-        "aliases": [
-          "Hattie, 2015b",
-          "Hattie (2015b)"
-        ],
-        "apa7_aliases": [
-          "Hattie, 2015b",
-          "Hattie (2015b)"
-        ],
         "argument": "Argument_Hattie_2015_SOTLP",
         "authors": [
           "[[John Hattie|Hattie, J.]]"
@@ -321,6 +299,28 @@
         "rule": "suffix",
         "source_language": "en",
         "title": "Argument_Hattie_2015_SOTLP",
+        "year": "2015"
+      },
+      {
+        "aliases": [
+          "Hattie, 2015b",
+          "Hattie (2015b)"
+        ],
+        "apa7_aliases": [
+          "Hattie, 2015b",
+          "Hattie (2015b)"
+        ],
+        "argument": "Argument_Hattie_2015_Paideia",
+        "authors": [
+          "[[John Hattie|Hattie, J.]]"
+        ],
+        "citation": "Hattie, J. (2015). Synlig læring i dag. Paideia, 9, 9-21.",
+        "doi": "",
+        "isbn": "",
+        "path": "wiki/arguments/journal-articles/Paideia/Argument_Hattie_2015_Paideia.md",
+        "rule": "suffix",
+        "source_language": "en",
+        "title": "Argument_Hattie_2015_Paideia",
         "year": "2015"
       }
     ],
@@ -419,8 +419,8 @@
     "Keddie et al., 2020": [
       {
         "aliases": [
-          "Keddie et al., 2020a",
-          "Keddie et al. (2020a)"
+          "Keddie, MacDonald, Blackmore, Eacott, et al., 2020",
+          "Keddie, MacDonald, Blackmore, Eacott, et al. (2020)"
         ],
         "apa7_aliases": [
           "Keddie, MacDonald, Blackmore, Eacott, et al., 2020",
@@ -448,8 +448,8 @@
       },
       {
         "aliases": [
-          "Keddie et al., 2020b",
-          "Keddie et al. (2020b)"
+          "Keddie, MacDonald, Blackmore, Wilkinson, et al., 2020",
+          "Keddie, MacDonald, Blackmore, Wilkinson, et al. (2020)"
         ],
         "apa7_aliases": [
           "Keddie, MacDonald, Blackmore, Wilkinson, et al., 2020",
@@ -480,11 +480,11 @@
       {
         "aliases": [
           "Nielsen & Klitmøller, 2021a",
-          "Nielsen & Klitmøller (2021a)"
+          "Nielsen and Klitmøller (2021a)"
         ],
         "apa7_aliases": [
           "Nielsen & Klitmøller, 2021a",
-          "Nielsen & Klitmøller (2021a)"
+          "Nielsen and Klitmøller (2021a)"
         ],
         "argument": "Argument_Nielsen_2021_NordPsych",
         "authors": [
@@ -503,11 +503,11 @@
       {
         "aliases": [
           "Nielsen & Klitmøller, 2021b",
-          "Nielsen & Klitmøller (2021b)"
+          "Nielsen and Klitmøller (2021b)"
         ],
         "apa7_aliases": [
           "Nielsen & Klitmøller, 2021b",
-          "Nielsen & Klitmøller (2021b)"
+          "Nielsen and Klitmøller (2021b)"
         ],
         "argument": "Argument_Nielsen_2021_IRTP",
         "authors": [
@@ -527,8 +527,8 @@
     "Rickinson et al., 2022": [
       {
         "aliases": [
-          "Rickinson et al., 2022a",
-          "Rickinson et al. (2022a)"
+          "Rickinson, Cirkony, et al., 2022",
+          "Rickinson, Cirkony, et al. (2022)"
         ],
         "apa7_aliases": [
           "Rickinson, Cirkony, et al., 2022",
@@ -554,8 +554,8 @@
       },
       {
         "aliases": [
-          "Rickinson et al., 2022b",
-          "Rickinson et al. (2022b)"
+          "Rickinson, Walsh, et al., 2022",
+          "Rickinson, Walsh, et al. (2022)"
         ],
         "apa7_aliases": [
           "Rickinson, Walsh, et al., 2022",
@@ -583,8 +583,8 @@
     "Steiner-Khamsi et al., 2024": [
       {
         "aliases": [
-          "Steiner-Khamsi et al., 2024a",
-          "Steiner-Khamsi et al. (2024a)"
+          "Steiner-Khamsi, Faul, et al., 2024",
+          "Steiner-Khamsi, Faul, et al. (2024)"
         ],
         "apa7_aliases": [
           "Steiner-Khamsi, Faul, et al., 2024",
@@ -609,8 +609,8 @@
       },
       {
         "aliases": [
-          "Steiner-Khamsi et al., 2024b",
-          "Steiner-Khamsi et al. (2024b)"
+          "Steiner-Khamsi, Martens, et al., 2024",
+          "Steiner-Khamsi, Martens, et al. (2024)"
         ],
         "apa7_aliases": [
           "Steiner-Khamsi, Martens, et al., 2024",

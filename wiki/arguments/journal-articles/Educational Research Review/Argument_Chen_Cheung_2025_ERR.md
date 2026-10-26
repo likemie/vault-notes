@@ -10,7 +10,7 @@ year: 2025
 doi: "10.1016/j.edurev.2025.100737"
 citation_aliases:
   - "Chen & Cheung, 2025"
-  - "Chen & Cheung (2025)"
+  - "Chen and Cheung (2025)"
 isbn: ""
 tags:
   - theme/generative-ai

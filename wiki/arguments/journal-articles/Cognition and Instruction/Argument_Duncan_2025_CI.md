@@ -10,7 +10,7 @@ year: 2025
 doi: "10.1080/07370008.2025.2497240"
 citation_aliases:
   - "Duncan & Chinn, 2025"
-  - "Duncan & Chinn (2025)"
+  - "Duncan and Chinn (2025)"
 isbn: ""
 tags:
   - theme/argumentation

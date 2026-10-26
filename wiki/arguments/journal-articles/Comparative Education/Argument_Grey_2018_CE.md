@@ -10,7 +10,7 @@ year: 2018
 doi: "10.1080/03050068.2018.1425243"
 citation_aliases:
   - "Grey & Morris, 2018"
-  - "Grey & Morris (2018)"
+  - "Grey and Morris (2018)"
 isbn: ""
 tags:
   - theme/educational-governance

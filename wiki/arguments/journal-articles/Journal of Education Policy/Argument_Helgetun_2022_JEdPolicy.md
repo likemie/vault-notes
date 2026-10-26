@@ -10,7 +10,7 @@ year: 2022
 doi: "10.1080/02680939.2020.1748722"
 citation_aliases:
   - "Helgetun & Menter, 2022"
-  - "Helgetun & Menter (2022)"
+  - "Helgetun and Menter (2022)"
 isbn: ""
 tags:
   - theme/teacher-education

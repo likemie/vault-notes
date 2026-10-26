@@ -79,7 +79,7 @@ year: 2025
 doi: ""
 citation_aliases:
   - "Boccanfuso & Hall, 2025b"
-  - "Boccanfuso & Hall (2025b)"
+  - "Boccanfuso and Hall (2025b)"
 ---
 > [!question]
 > 假设你是一所大学的校长，你想让学校和产业界建立更紧密的合作关系。你面临的第一批问题不是"合作什么内容"——那是教授们会考虑的——而是"谁来管这件事"、"放在哪个部门下面"、"这个办公室应该管什么、不该管什么"。已有的[[University-Industry Collaboration\|产学合作]]研究大量讨论了[[Knowledge Transfer\|知识转移]]的机制、合作的激励因素和成功的障碍，但几乎没有研究系统回答过这些组织层面的问题：大学在实践中究竟如何组织它们的产学参与（UI engagement）？存在哪些共同的组织模式？这些模式在多大程度上是全面的？大学和企业双方各自重视哪些策略和特征？

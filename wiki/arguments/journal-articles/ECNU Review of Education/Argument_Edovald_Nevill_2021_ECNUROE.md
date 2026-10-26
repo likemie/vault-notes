@@ -21,7 +21,7 @@ year: 2021
 doi: 10.1177/2096531120913039
 citation_aliases:
   - "Edovald & Nevill, 2021"
-  - "Edovald & Nevill (2021)"
+  - "Edovald and Nevill (2021)"
 tags:
   - region/uk
   - theme/evidence-based-education

@@ -10,8 +10,8 @@ citation: "Steiner-Khamsi, G., Martens, K., & Ydesen, C. (2024). Governance by n
 year: 2024
 doi: ""
 citation_aliases:
-  - "Steiner-Khamsi et al., 2024b"
-  - "Steiner-Khamsi et al. (2024b)"
+  - "Steiner-Khamsi, Martens, et al., 2024"
+  - "Steiner-Khamsi, Martens, et al. (2024)"
 isbn: ""
 tags:
   - subject/comparative-education

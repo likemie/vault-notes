@@ -10,7 +10,7 @@ year: 2019
 doi: "10.1177/1475240919865653"
 citation_aliases:
   - "Bergeron & Rogers, 2019"
-  - "Bergeron & Rogers (2019)"
+  - "Bergeron and Rogers (2019)"
 isbn: ""
 tags: [curriculum, ibdp, mixed-methods, teacher-beliefs]
 related_concepts:

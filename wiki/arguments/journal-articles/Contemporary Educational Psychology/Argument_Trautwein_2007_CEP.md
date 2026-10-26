@@ -10,7 +10,7 @@ year: 2007
 doi: "10.1016/j.cedpsych.2005.11.003"
 citation_aliases:
   - "Trautwein & Lüdtke, 2007"
-  - "Trautwein & Lüdtke (2007)"
+  - "Trautwein and Lüdtke (2007)"
 isbn: ""
 tags:
   - theme/epistemological-beliefs

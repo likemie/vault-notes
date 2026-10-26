@@ -10,7 +10,7 @@ year: 2018
 doi: "10.1093/icc/dty032"
 citation_aliases:
   - "Kattel & Mazzucato, 2018"
-  - "Kattel & Mazzucato (2018)"
+  - "Kattel and Mazzucato (2018)"
 isbn: ""
 tags:
   - source/journal-article

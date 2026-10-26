@@ -13,8 +13,8 @@ citation: "Rickinson, M., Cirkony, C., Walsh, L., Gleeson, J., Cutler, B., & Sal
 year: 2022
 doi: "10.1080/00131881.2022.2054452"
 citation_aliases:
-  - "Rickinson et al., 2022a"
-  - "Rickinson et al. (2022a)"
+  - "Rickinson, Cirkony, et al., 2022"
+  - "Rickinson, Cirkony, et al. (2022)"
 isbn: ""
 tags:
   - theme/evidence-informed-practice

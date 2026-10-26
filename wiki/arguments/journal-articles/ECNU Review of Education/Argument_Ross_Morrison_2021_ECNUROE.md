@@ -72,7 +72,7 @@ year: 2021
 doi: ""
 citation_aliases:
   - "Ross & Morrison, 2021"
-  - "Ross & Morrison (2021)"
+  - "Ross and Morrison (2021)"
 ---
 > [!info] [[Research Question\|研究问题]]
 > 教育项目的研究证据为什么难以直接转化为学校和学区的采购、实施与延续决策？问题不只在于证据是否严格，还在于实践者需要的是关于实施成本、使用体验、地方适配和多重教育目标的证据，而现有[[Evidence Standards\|证据标准]]常把有效性压缩为严格实验中的统计显著成就效果。

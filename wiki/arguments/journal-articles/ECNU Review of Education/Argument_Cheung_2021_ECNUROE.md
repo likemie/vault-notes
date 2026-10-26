@@ -52,7 +52,7 @@ year: 2021
 doi: ""
 citation_aliases:
   - "Cheung & Xie, 2021"
-  - "Cheung & Xie (2021)"
+  - "Cheung and Xie (2021)"
 ---
 > [!info] [[Research Question\|研究问题]]
 > 高质量研究和证据在教育政策与实践中是否扮演着如在医学领域一样重要的角色？

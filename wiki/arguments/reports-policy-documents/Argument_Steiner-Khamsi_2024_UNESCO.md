@@ -22,8 +22,8 @@ citation: "Steiner-Khamsi, G., Faul, M. V., Baek, C., Hopkins, A. N., & Iwabuchi
 year: 2024
 doi: ""
 citation_aliases:
-  - "Steiner-Khamsi et al., 2024a"
-  - "Steiner-Khamsi et al. (2024a)"
+  - "Steiner-Khamsi, Faul, et al., 2024"
+  - "Steiner-Khamsi, Faul, et al. (2024)"
 isbn: "978-92-3-100653-1"
 issuing_organization: "[[UNESCO]]"
 tags:

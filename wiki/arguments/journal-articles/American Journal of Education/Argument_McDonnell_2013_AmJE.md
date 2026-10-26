@@ -10,7 +10,7 @@ year: 2013
 doi: "10.1086/673163"
 citation_aliases:
   - "McDonnell & Weatherford, 2013"
-  - "McDonnell & Weatherford (2013)"
+  - "McDonnell and Weatherford (2013)"
 isbn: ""
 tags:
   - theme/evidence-use

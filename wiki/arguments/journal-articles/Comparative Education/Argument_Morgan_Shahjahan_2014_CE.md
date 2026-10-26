@@ -10,7 +10,7 @@ year: 2014
 doi: "10.1080/03050068.2013.834559"
 citation_aliases:
   - "Morgan & Shahjahan, 2014"
-  - "Morgan & Shahjahan (2014)"
+  - "Morgan and Shahjahan (2014)"
 isbn: ""
 tags:
   - argument
