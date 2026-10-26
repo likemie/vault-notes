@@ -30,6 +30,9 @@ import re
 import sys
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from vaultlib import dump_json, load_json, norm_doi  # noqa: E402
+
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "datasets/eef"
 DATA_JSON = DATA_DIR / "eef.json"
@@ -114,17 +117,6 @@ PHASE_ZH = [("nursery", "学前"), ("primary", "小学"), ("secondary", "中学"
 SUBJECT_ZH = [("reading", "阅读"), ("maths", "数学"), ("science", "科学")]
 
 
-def load_json(path: Path, default):
-    if not path.exists():
-        return default
-    return json.loads(path.read_text(encoding="utf-8-sig"))
-
-
-def dump_json(path: Path, data) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-
-
 def na(v):
     return None if v in (None, "", "NA") else v
 
@@ -206,10 +198,6 @@ def cmd_import(args) -> int:
 
 
 # ----------------------------------------------------------------- matching
-def norm_doi(v) -> str:
-    v = str(v or "").strip()
-    v = re.sub(r"^https?://(?:dx\.)?doi\.org/", "", v, flags=re.I)
-    return v.lower()
 
 
 def norm_alnum(v) -> str:

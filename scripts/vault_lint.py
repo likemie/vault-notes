@@ -39,7 +39,19 @@ from dataclasses import dataclass, asdict
 from functools import lru_cache
 from pathlib import Path
 from typing import Any, Dict, Iterable, List, Optional, Tuple
-from urllib.parse import quote
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import vaultlib  # noqa: E402
+from vaultlib import (  # noqa: E402
+    ASSET_BASE_URL,
+    asset_url_for_path,
+    author_label,
+    chinese_author_part,
+    dedupe,
+    has_cjk,
+    normalized_source_language,
+    rel,
+)
 
 
 def find_vault_root() -> Path:
@@ -61,24 +73,7 @@ def find_vault_root() -> Path:
 
 def maybe_reexec_with_vault_venv() -> None:
     """If <vault>/.venv exists, rerun this script with that Python automatically."""
-    if os.environ.get("VAULT_LINT_VENV_REEXEC") == "1":
-        return
-
-    root = find_vault_root()
-    if sys.platform == "win32":
-        venv_python = root / ".venv" / "Scripts" / "python.exe"
-    else:
-        venv_python = root / ".venv" / "bin" / "python"
-
-    if not venv_python.exists():
-        return
-
-    if Path(sys.prefix).resolve() == root.resolve() / ".venv":
-        return
-
-    env = os.environ.copy()
-    env["VAULT_LINT_VENV_REEXEC"] = "1"
-    os.execve(str(venv_python), [str(venv_python), str(Path(__file__).resolve()), *sys.argv[1:]], env)
+    vaultlib.ensure_venv()
 
 
 # Only when run as a script: importing this module (e.g. from vault_index.py)
@@ -137,7 +132,7 @@ CITATION_FULL_JSON = CITATION_DIR / "citation_full.json"
 CITATION_AMBIGUOUS_JSON = CITATION_DIR / "citation_ambiguous.json"
 CITATION_EXTERNAL_JSON = CITATION_DIR / "citation_external.json"
 EXTERNAL_CITATION_IDENTITY = "EXTERNAL_CITATION_IDENTITY"
-ASSET_BASE_URL = "https://img.mylikemie.icu"
+
 
 GENERATED_INDEX_FILES = {
     "index.md",
@@ -346,17 +341,6 @@ def is_non_argument_semantic_entry(data: Optional[Dict[str, Any]]) -> bool:
     return bool(data and data.get("type") in {"concept", "theory", "method", "instrument", "person", "fact"})
 
 
-def author_label(author: str) -> str:
-    author = str(author).strip()
-    m = re.fullmatch(r"\[\[([^|\]]+)(?:\|([^\]]+))?\]\]", author)
-    if m:
-        author = (m.group(2) or m.group(1)).strip()
-    author = author.replace("''", "'")
-    if "," in author:
-        return author.split(",", 1)[0].strip()
-    return re.sub(r"\s+", " ", author).strip()
-
-
 def wikilink_target_and_display(value: str) -> Optional[Tuple[str, str]]:
     m = re.fullmatch(r"\[\[([^|\]]+)(?:\|([^\]]+))?\]\]", value.strip())
     if not m:
@@ -434,49 +418,6 @@ def check_instrument_developers(path: Path, fm: str, value: Any, issues: List[Is
         ))
 
 
-def has_cjk(text: str) -> bool:
-    return bool(re.search(r"[\u3400-\u9fff]", text))
-
-
-def dedupe(items: List[str]) -> List[str]:
-    seen: set[str] = set()
-    result: List[str] = []
-    for item in items:
-        if item and item not in seen:
-            result.append(item)
-            seen.add(item)
-    return result
-
-
-def chinese_author_part(citation: str, year: str) -> str:
-    if not has_cjk(citation) or not year:
-        return ""
-    m = re.match(rf"^\s*(?P<authors>.+?)\s*(?:[.。]\s*)?[（(]\s*{re.escape(year)}\s*[）)]", citation)
-    if not m:
-        return ""
-    raw = m.group("authors").strip(" ,，.。")
-    if not has_cjk(raw):
-        return ""
-    parts = [p.strip() for p in re.split(r"[、，,；;]\s*", raw) if p.strip()]
-    cjk_parts = [p for p in parts if has_cjk(p)]
-    if not cjk_parts:
-        return ""
-    if len(cjk_parts) == 1:
-        return cjk_parts[0]
-    if len(cjk_parts) == 2:
-        return f"{cjk_parts[0]}和{cjk_parts[1]}"
-    return f"{cjk_parts[0]}等"
-
-
-def normalized_source_language(value: Any) -> str:
-    language = str(value or "").strip().lower().replace("_", "-")
-    if language in {"zh", "zh-cn", "zh-hans", "chinese", "中文"}:
-        return "zh"
-    if language in {"en", "en-us", "en-gb", "english", "英文"}:
-        return "en"
-    return language
-
-
 def source_language_from_meta(data: Dict[str, Any]) -> str:
     explicit = normalized_source_language(data.get("source_language"))
     if explicit:
@@ -546,18 +487,6 @@ class Issue:
 # Utilities
 # -----------------------------
 
-def rel(path: Path) -> str:
-    try:
-        return path.relative_to(ROOT).as_posix()
-    except Exception:
-        return path.as_posix()
-
-
-def asset_url_for_path(path: Path) -> str:
-    rel_path = rel(path)
-    encoded = "/".join(quote(part, safe="-_.!~*'()") for part in rel_path.split("/"))
-    return f"{ASSET_BASE_URL}/{encoded}"
-
 
 def iter_md_files(base: Path) -> Iterable[Path]:
     if not base.exists():
@@ -594,28 +523,7 @@ read_text.cache_clear = _read_text_disk.cache_clear  # type: ignore[attr-defined
 
 def git_files_at_head(rel_paths: List[str]) -> Dict[str, str]:
     """Read baseline versions through one `git cat-file --batch` call."""
-    if not rel_paths:
-        return {}
-    request = "".join(f"{comparison_ref()}:{p}\n" for p in rel_paths).encode("utf-8")
-    try:
-        result = subprocess.run(["git", "cat-file", "--batch"], cwd=ROOT, input=request,
-                                stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, check=False)
-    except Exception:
-        return {}
-    import io as _io
-    stream = _io.BytesIO(result.stdout)
-    files: Dict[str, str] = {}
-    for p in rel_paths:
-        header = stream.readline().rstrip(b"\n")
-        if not header or header.endswith(b" missing"):
-            continue
-        try:
-            size = int(header.rsplit(b" ", 1)[1])
-        except (IndexError, ValueError):
-            break
-        files[p] = stream.read(size).decode("utf-8", errors="replace")
-        stream.read(1)
-    return files
+    return vaultlib.git_files_at_ref(comparison_ref(), rel_paths)
 
 
 _REVIEW_ID_RE = re.compile(r"待审查 \[[0-9a-f]{16}\]")
@@ -653,18 +561,7 @@ def baseline_warning_keys(files: List[Path], by_title, path_to_title, argument_c
 
 
 def run_git(args: List[str]) -> str:
-    try:
-        result = subprocess.run(
-            ["git", *args],
-            cwd=ROOT,
-            check=True,
-            text=True,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.PIPE,
-        )
-        return result.stdout
-    except Exception:
-        return ""
+    return vaultlib.git_output(args)
 
 
 @lru_cache(maxsize=1)
@@ -710,23 +607,17 @@ def git_changed_md_files() -> List[Path]:
 def _git_changed_md_files_uncached() -> List[Path]:
     base = os.environ.get("VAULT_LINT_BASE")
     if base and set(base) == {"0"}:
-        commands = [["ls-files", "-z", "--", *GIT_STATUS_PATHSPECS]]
+        rel_paths = [p for p in vaultlib.git_output(["ls-files", "-z", "--", *GIT_STATUS_PATHSPECS]).split("\0") if p]
     elif base:
-        commands = [["diff", "--name-only", "--diff-filter=ACMR", "-z", base, "HEAD", "--", *GIT_STATUS_PATHSPECS]]
+        rel_paths = vaultlib.git_diff_paths(base, "HEAD", GIT_STATUS_PATHSPECS)
     else:
-        commands = [
-            ["diff", "--name-only", "--diff-filter=ACMR", "-z", "HEAD", "--", *GIT_STATUS_PATHSPECS],
-            ["ls-files", "--others", "--exclude-standard", "-z", "--", *GIT_STATUS_PATHSPECS],
-        ]
+        # git status also refreshes the index stat cache (fast after the first run).
+        rel_paths = vaultlib.git_status_paths(GIT_STATUS_PATHSPECS)
     files: Set[Path] = set()
-    for command in commands:
-        output = subprocess.check_output(["git", *command], cwd=ROOT)
-        for raw in output.split(b"\0"):
-            if not raw:
-                continue
-            path = ROOT / raw.decode("utf-8")
-            if path.suffix.lower() == ".md" and path.is_file():
-                files.add(path)
+    for raw in rel_paths:
+        path = ROOT / raw
+        if path.suffix.lower() == ".md" and path.is_file():
+            files.add(path)
     return sorted(files)
 
 
@@ -758,22 +649,8 @@ def split_frontmatter(text: str) -> Tuple[Optional[str], str, int]:
     Return (frontmatter_raw, body, body_start_line).
     body_start_line is 1-indexed line number where body starts.
     """
-    if not text.startswith("---\n"):
-        return None, text, 1
-    end = text.find("\n---", 4)
-    if end == -1:
-        return None, text, 1
-    # Require delimiter line.
-    after = end + len("\n---")
-    if after < len(text) and text[after] not in "\n\r":
-        return None, text, 1
-    fm = text[4:end]
-    body_start = text[:after].count("\n") + 1
-    # Skip following newline if present.
-    if after < len(text) and text[after] == "\n":
-        after += 1
-        body_start += 1
-    return fm, text[after:], body_start
+    split = vaultlib.split_frontmatter(text)
+    return split.raw, split.body, split.body_line
 
 
 def yaml_quote_is_escaped(value: str, idx: int, quote: str) -> bool:
@@ -1018,17 +895,8 @@ def section_text(body: str, heading_names: Iterable[str]) -> str:
 
 
 def extract_wikilink_target(raw: str) -> str:
-    """
-    [[Target]] or [[Target|Display]] or [[Target#Heading|Display]]
-    Also handles Quartz-style [[Target\\|Display]].
-    Return target before \\|, | and #.
-    """
-    # Quartz-style escaped pipe: Target\|Display
-    target = raw.split("\\|", 1)[0].strip()
-    # Standard Obsidian pipe: Target|Display
-    target = target.split("|", 1)[0].strip()
-    target = target.split("#", 1)[0].strip()
-    return target
+    """Target of [[Target]], [[Target|Display]], [[Target#Heading|Display]] or [[Target\\|Display]]."""
+    return vaultlib.parse_wikilink(raw)[0]
 
 
 def extract_wikilinks(text: str) -> List[Tuple[str, int]]:

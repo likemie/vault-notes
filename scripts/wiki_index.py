@@ -5,17 +5,19 @@ from __future__ import annotations
 # Auto-use the vault virtual environment when available.
 # This keeps scripts runnable as `python3 scripts/<script>.py` while using
 # dependencies installed in /Users/shaoyangwu/Documents/MyNotes/.venv.
-import os
 import sys
 from pathlib import Path
 
-VAULT_ROOT = Path(__file__).resolve().parents[1]
-VENV_PYTHON = VAULT_ROOT / ".venv" / "bin" / "python"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import vaultlib  # noqa: E402
+from vaultlib import parse_frontmatter_light, strip_wikilinks, write_if_changed  # noqa: E402
 
 # Only when run as a script: wiki_linker.py imports this module for the
 # organization registry and must not be re-executed.
-if __name__ == "__main__" and VENV_PYTHON.exists() and Path(sys.executable).resolve() != VENV_PYTHON.resolve():
-    os.execv(str(VENV_PYTHON), [str(VENV_PYTHON), *sys.argv])
+if __name__ == "__main__":
+    vaultlib.ensure_venv()
+
+VAULT_ROOT = vaultlib.ROOT
 
 
 import argparse
@@ -135,89 +137,11 @@ def title_case_slug(slug: str) -> str:
     return " ".join(part.capitalize() for part in slug.replace("_", "-").split("-"))
 
 
-def clean_scalar(value: str) -> str:
-    value = value.strip()
-    if len(value) >= 2 and ((value[0] == value[-1] == '"') or (value[0] == value[-1] == "'")):
-        value = value[1:-1]
-    return value.strip()
-
-
-def parse_inline_list(value: str) -> list[str]:
-    inner = value[1:-1].strip()
-    if not inner:
-        return []
-
-    items: list[str] = []
-    current = ""
-    quote: str | None = None
-
-    for ch in inner:
-        if ch in ("'", '"'):
-            if quote == ch:
-                quote = None
-            elif quote is None:
-                quote = ch
-            current += ch
-        elif ch == "," and quote is None:
-            if current.strip():
-                items.append(clean_scalar(current.strip()))
-            current = ""
-        else:
-            current += ch
-
-    if current.strip():
-        items.append(clean_scalar(current.strip()))
-
-    return items
-
-
 def extract_frontmatter(text: str) -> dict[str, Any]:
-    if not text.startswith("---\n"):
-        return {}
-
-    end = text.find("\n---", 4)
-    if end == -1:
-        return {}
-
-    raw = text[4:end].strip("\n")
-    data: dict[str, Any] = {}
-    current_key: str | None = None
-
-    for line in raw.splitlines():
-        if not line.strip() or line.lstrip().startswith("#"):
-            continue
-
-        if current_key and re.match(r"^\s*-\s+", line):
-            item = re.sub(r"^\s*-\s+", "", line).strip()
-            if not isinstance(data.get(current_key), list):
-                data[current_key] = []
-            data[current_key].append(clean_scalar(item))
-            continue
-
-        m = re.match(r"^([A-Za-z0-9_-]+):\s*(.*)$", line)
-        if not m:
-            current_key = None
-            continue
-
-        key, value = m.group(1), m.group(2).strip()
-        current_key = None
-
-        if value == "":
-            if key in LIST_KEYS:
-                data[key] = []
-                current_key = key
-            else:
-                data[key] = ""
-                current_key = key
-        elif value.startswith("[") and value.endswith("]"):
-            data[key] = parse_inline_list(value)
-        else:
-            data[key] = clean_scalar(value)
-
+    data = parse_frontmatter_light(vaultlib.frontmatter_raw(text))
     for list_key in LIST_KEYS:
-        if data.get(list_key) is None:
+        if data.get(list_key) in (None, ""):
             data[list_key] = []
-
     return data
 
 
@@ -300,18 +224,12 @@ ORG_PAREN_RE = re.compile(r"^(?P<outer>[^（()）,，、;；&/]+?)\s*[（(](?P<i
 ORG_ABBREVIATION_RE = re.compile(r"^[A-Za-z0-9.&\-/]{1,12}$")
 ORG_STRONG_SEP_RE = re.compile(r"(\s*(?:,|，|、|;|；|&)\s*|\s*/\s+|\s+/\s*)")
 ORG_WEAK_SEP_RE = re.compile(r"(\s+and\s+|\s*(?:与|及)\s*)")
-WIKILINK_DISPLAY_RE = re.compile(r"\[\[([^\]|]+?)(?:\\?\|([^\]]+))?\]\]")
 
 
 def normalize_name(value: str) -> str:
     value = value.strip().strip("'\"").strip()
     value = re.sub(r"\s+", " ", value)
     return value.rstrip(".").strip().casefold()
-
-
-def strip_wikilinks(value: str) -> str:
-    """[[Target|Display]] -> Display, [[Target]] -> Target."""
-    return WIKILINK_DISPLAY_RE.sub(lambda m: m.group(2) or m.group(1), value)
 
 
 # --- registry file ------------------------------------------------------------
@@ -580,16 +498,6 @@ def collect_entries() -> list[dict[str, Any]]:
         )
 
     return sorted(entries, key=sort_key)
-
-
-def write_if_changed(path: Path, content: str, *, dry_run: bool = False, check: bool = False) -> bool:
-    current = path.read_text(encoding="utf-8") if path.exists() else None
-    if current == content:
-        return False
-    if not dry_run and not check:
-        path.parent.mkdir(parents=True, exist_ok=True)
-        path.write_text(content, encoding="utf-8")
-    return True
 
 
 def write_json(entries: list[dict[str, Any]], *, dry_run: bool = False, check: bool = False) -> bool:

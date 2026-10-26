@@ -1981,8 +1981,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
-        "wiki/concepts/comparative-education/Comparative Pedagogy.md",
-        "wiki/concepts/research-methodology/Cross-cultural Validity.md"
+        "wiki/concepts/comparative-education/Comparative Pedagogy.md"
       ],
       "title": ""
     },
@@ -13708,6 +13707,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
+        "wiki/concepts/research-methodology/Cross-cultural Validity.md",
         "wiki/concepts/research-methodology/Ecological Validity.md",
         "wiki/methods/qualitative/Audit Trail.md"
       ],
@@ -45678,8 +45678,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
-        "wiki/concepts/research-methodology/Cross-cultural Validity.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md"
       ],
       "title": ""
     },
@@ -51700,6 +51699,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
+        "wiki/concepts/research-methodology/Cross-cultural Validity.md",
         "wiki/concepts/research-methodology/Cultural Validity.md"
       ],
       "title": ""
@@ -53702,6 +53702,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/political-economy-geopolitics/Technological Trajectories.md"
+      ],
+      "title": ""
+    },
+    "Keith Stanovich, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Cognitive Decoupling.md"
       ],
       "title": ""
     },
@@ -62488,7 +62496,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
-        "wiki/concepts/research-methodology/Cross-cultural Validity.md",
         "wiki/concepts/research-methodology/Response Bias.md",
         "wiki/methods/qualitative/Back Translation.md"
       ],
@@ -71840,7 +71847,6 @@
         "wiki/concepts/educational-philosophy/Ecological Fallacy.md",
         "wiki/concepts/educational-philosophy/Interpretive Paradigm.md",
         "wiki/concepts/educational-philosophy/Screening Off.md",
-        "wiki/concepts/research-methodology/Cross-cultural Validity.md",
         "wiki/methods/qualitative/Observation Method.md",
         "wiki/methods/quantitative/Criterion Group Study.md",
         "wiki/methods/quantitative/Ex Post Facto Research.md",
@@ -73543,6 +73549,14 @@
       "seen_in": [
         "wiki/facts/global/Building a Global Evidence Ecosystem for Teaching.md",
         "wiki/facts/global/Evidence for Education Network.md"
+      ],
+      "title": ""
+    },
+    "Nate Silver, 2024": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Cognitive Decoupling.md"
       ],
       "title": ""
     },
@@ -98813,8 +98827,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
-        "wiki/concepts/research-methodology/Cross-cultural Validity.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md"
       ],
       "title": ""
     },
@@ -104836,6 +104849,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10.md",
+        "wiki/concepts/research-methodology/Cross-cultural Validity.md",
         "wiki/methods/qualitative/Back Translation.md"
       ],
       "title": ""

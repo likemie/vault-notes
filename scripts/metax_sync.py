@@ -39,6 +39,9 @@ import sys
 import unicodedata
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from vaultlib import dump_json, load_json  # noqa: E402
+
 ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "datasets/metax"
 DATA_JSON = DATA_DIR / "metax.json"
@@ -64,15 +67,6 @@ WIKILINK_RE = re.compile(r"\[\[([^\]|\\]+)(?:\\?\|([^\]]+))?\]\]")
 
 
 # ----------------------------------------------------------------- helpers
-def load_json(path: Path, default):
-    if not path.exists():
-        return default
-    return json.loads(path.read_text(encoding="utf-8"))
-
-
-def dump_json(path: Path, data) -> None:
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(data, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
 
 
 def strip_links(text: str) -> str:

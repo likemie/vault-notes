@@ -83,7 +83,7 @@ subtype: journal-article
 publication_type: journal-article
 title: "Argument_Eisenhart_Towne_2003_ER"
 argument_key: "Argument_Eisenhart_Towne_2003_ER"
-argument_display_title: "Contestation and change in national policy on \\\"scientifically based\\\" education research"
+argument_display_title: "Contestation and change in national policy on \"scientifically based\" education research"
 argument_kind: "journal-article"
 argument_related_count: 44
 argument_related_level: 4

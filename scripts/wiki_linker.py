@@ -11,7 +11,6 @@ import json
 import os
 import sys
 import re
-import subprocess
 import unicodedata
 from collections import Counter
 from dataclasses import dataclass
@@ -21,6 +20,14 @@ from typing import Any, Iterable
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import wiki_index  # noqa: E402  (organization registry)
+import vaultlib  # noqa: E402
+from vaultlib import (  # noqa: E402
+    git_files_at_ref,
+    git_output,
+    parse_name_status_z,
+    rel as rel_to_root,
+    yaml_quote,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 WIKI_DIR = ROOT / "wiki"
@@ -540,10 +547,6 @@ def make_source_links(source_entries: list[Entry]) -> dict[str, str]:
     return links
 
 
-def rel_to_root(path: Path) -> str:
-    return path.resolve().relative_to(ROOT).as_posix()
-
-
 def should_skip_file(path: Path) -> bool:
     if path.name in EXCLUDE_FILENAMES:
         return True
@@ -701,74 +704,6 @@ def parse_entry_from_text(rel_path: str, text: str) -> Entry | None:
     return Entry(title=title, path=rel_path, aliases=tuple(a for a in aliases if a), type=entry_type)
 
 
-def git_output(args: list[str]) -> str:
-    result = subprocess.run(
-        ["git", "-c", "core.quotePath=false", *args],
-        cwd=ROOT,
-        check=False,
-        capture_output=True,
-        text=True,
-        encoding="utf-8",
-        errors="replace",
-    )
-    if result.returncode != 0:
-        return ""
-    return result.stdout
-
-
-def git_files_at_ref(ref: str, rel_paths: Iterable[str]) -> dict[str, str]:
-    """Read many historical files through one `git cat-file --batch` process."""
-    paths = list(rel_paths)
-    if not paths:
-        return {}
-    requests = "".join(f"{ref}:{path}\n" for path in paths).encode()
-    result = subprocess.run(
-        ["git", "cat-file", "--batch"],
-        cwd=ROOT,
-        input=requests,
-        stdout=subprocess.PIPE,
-        stderr=subprocess.DEVNULL,
-        check=False,
-    )
-    if result.returncode != 0:
-        return {}
-
-    stream = io.BytesIO(result.stdout)
-    files: dict[str, str] = {}
-    for path in paths:
-        header = stream.readline().rstrip(b"\n")
-        if not header or header.endswith(b" missing"):
-            continue
-        try:
-            size = int(header.rsplit(b" ", 1)[1])
-        except (IndexError, ValueError):
-            return {}
-        content = stream.read(size)
-        stream.read(1)  # trailing newline emitted by cat-file --batch
-        files[path] = content.decode("utf-8", errors="replace")
-    return files
-
-
-def parse_name_status_z(output: str) -> set[str]:
-    parts = output.split("\0")
-    paths: set[str] = set()
-    i = 0
-    while i < len(parts) and parts[i]:
-        status = parts[i]
-        i += 1
-        if status.startswith(("R", "C")):
-            if i + 1 >= len(parts):
-                break
-            paths.update((parts[i], parts[i + 1]))
-            i += 2
-        else:
-            if i >= len(parts):
-                break
-            paths.add(parts[i])
-            i += 1
-    return {path for path in paths if path}
-
-
 def git_changed_paths() -> set[str]:
     # `git status` refreshes and persists the index stat cache; a bare
     # `git diff HEAD` re-verifies stale entries every run without saving
@@ -864,15 +799,9 @@ def iter_git_target_files() -> list[Path]:
 
 
 def split_frontmatter(text: str) -> tuple[str, str]:
-    if not text.startswith("---\n"):
-        return "", text
-    end = text.find("\n---", 4)
-    if end == -1:
-        return "", text
-    end += len("\n---")
-    if end < len(text) and text[end] == "\n":
-        end += 1
-    return text[:end], text[end:]
+    """(frontmatter block incl. delimiters, body); ("", text) without frontmatter."""
+    split = vaultlib.split_frontmatter(text)
+    return (split.head, split.body) if split.found else ("", text)
 
 
 def split_h2_sections(body: str) -> list[tuple[str, str]]:
@@ -1276,12 +1205,8 @@ def split_inline_yaml_list(value: str) -> list[str] | None:
     return items
 
 
-def yaml_quote(value: str) -> str:
-    return '"' + value.replace('"', '\\"') + '"'
-
-
 def strip_yaml_scalar(value: str) -> str:
-    return value.strip().strip("'\"").strip()
+    return vaultlib.parse_scalar(value)
 
 
 def link_yaml_author_value(value: str, author_map: dict[str, str]) -> tuple[str, bool]:

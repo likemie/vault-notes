@@ -26,11 +26,14 @@ from dataclasses import dataclass
 from pathlib import Path
 from typing import Any
 
-VAULT_ROOT = Path(__file__).resolve().parents[1]
-VENV_PYTHON = VAULT_ROOT / ".venv" / "bin" / "python"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import vaultlib  # noqa: E402
+from vaultlib import parse_inline_list, parse_scalar, wikilink_target  # noqa: E402
 
-if VENV_PYTHON.exists() and Path(sys.executable).resolve() != VENV_PYTHON.resolve():
-    os.execv(str(VENV_PYTHON), [str(VENV_PYTHON), *sys.argv])
+if __name__ == "__main__":
+    vaultlib.ensure_venv()
+
+VAULT_ROOT = vaultlib.ROOT
 
 
 ROOT = VAULT_ROOT
@@ -54,8 +57,7 @@ RESEARCH_MAP_STATS = (
     ("instruments", "instrument", "测量工具"),
 )
 
-FRONTMATTER_RE = re.compile(r"\A---\s*\n(.*?)\n---\s*\n", re.S)
-SPLIT_FRONTMATTER_RE = re.compile(r"\A---\n(.*?)\n---\n", re.S)
+
 KEY_RE = re.compile(r"^([A-Za-z0-9_-]+):\s*(.*)$")
 OVERVIEW_RE = re.compile(r"^>\s*\[!textbook-overview\]")
 CHAPTER_FILE_RE = re.compile(r"^(?P<parent>Argument_.+)_Ch(?P<num>\d{1,3})(?:[_-].+)?$")
@@ -223,37 +225,6 @@ def run_scripts_parallel(jobs: list[tuple[str, list[str]]]) -> int:
     return first_failure
 
 
-def parse_scalar(value: str) -> str:
-    value = value.strip()
-    if value in {"", "null", "None", "~"}:
-        return ""
-    if len(value) >= 2 and value[0] == value[-1] and value[0] in {"'", '"'}:
-        inner = value[1:-1]
-        return inner.replace("''", "'") if value[0] == "'" else inner
-    return value
-
-
-def parse_inline_list(value: str) -> list[str]:
-    inner = value[1:-1].strip()
-    if not inner:
-        return []
-    items: list[str] = []
-    current = ""
-    quote = ""
-    for ch in inner:
-        if ch in {"'", '"'}:
-            quote = "" if quote == ch else ch if not quote else quote
-            current += ch
-        elif ch == "," and not quote:
-            items.append(parse_scalar(current))
-            current = ""
-        else:
-            current += ch
-    if current.strip():
-        items.append(parse_scalar(current))
-    return [item for item in items if item]
-
-
 _FM_CACHE: dict[str, dict[str, Any]] = {}
 
 
@@ -266,41 +237,13 @@ def parse_frontmatter(text: str) -> dict[str, Any]:
 
 
 def _parse_frontmatter_uncached(text: str) -> dict[str, Any]:
-    m = FRONTMATTER_RE.match(text)
-    if not m:
-        return {}
-    data: dict[str, Any] = {}
-    lines = m.group(1).splitlines()
-    i = 0
-    while i < len(lines):
-        line = lines[i]
-        m_key = KEY_RE.match(line)
-        if not m_key:
-            i += 1
-            continue
-        key, val = m_key.group(1), m_key.group(2).strip()
-        if val == "":
-            items: list[str] = []
-            j = i + 1
-            while j < len(lines) and re.match(r"^\s*-\s+", lines[j]):
-                items.append(parse_scalar(re.sub(r"^\s*-\s+", "", lines[j])))
-                j += 1
-            data[key] = items if items else ""
-            i = j
-            continue
-        if val.startswith("[") and val.endswith("]"):
-            data[key] = parse_inline_list(val)
-        else:
-            data[key] = parse_scalar(val)
-        i += 1
-    return data
+    return vaultlib.parse_frontmatter_light(vaultlib.frontmatter_raw(text))
 
 
 def split_frontmatter(text: str) -> tuple[str, str] | None:
-    m = SPLIT_FRONTMATTER_RE.match(text)
-    if not m:
-        return None
-    return m.group(1), text[m.end():]
+    """(raw YAML, body) or None without frontmatter."""
+    split = vaultlib.split_frontmatter(text)
+    return (split.raw, split.body) if split.found else None
 
 
 def chapter_number_from_target(target: str) -> int | None:
@@ -311,11 +254,6 @@ def chapter_number_from_target(target: str) -> int | None:
 def chapter_number_from_text(text: str) -> int | None:
     m = CHINESE_CHAPTER_RE.search(text)
     return int(m.group("num")) if m else None
-
-
-def wikilink_target(text: str) -> str:
-    m = re.search(r"\[\[([^|\]\\]+)(?:\\?\|[^\]]+)?\]\]", text)
-    return m.group(1).strip() if m else ""
 
 
 def split_table_row(line: str) -> list[str]:
@@ -582,7 +520,7 @@ def concept_stars_for(count: int) -> tuple[int, str]:
 
 
 def yaml_string(value: str) -> str:
-    return '"' + value.replace("\\", "\\\\").replace('"', '\\"') + '"'
+    return vaultlib.yaml_quote(value)
 
 
 def set_frontmatter_value(raw_frontmatter: str, key: str, value: str, insert_after_patterns: list[str] | None = None) -> str:
@@ -1531,11 +1469,7 @@ UPDATED_RE = re.compile(r"^updated\s*:\s*[\"']?(\d{4}-\d{2}-\d{2})", re.M)
 
 
 def git_text(args: list[str]) -> str:
-    try:
-        return subprocess.run(["git", "-c", "core.quotePath=false", *args], cwd=ROOT, text=True,
-                              stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, check=False).stdout
-    except Exception:
-        return ""
+    return vaultlib.git_output(args)
 
 
 

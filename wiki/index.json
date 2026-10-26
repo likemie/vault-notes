@@ -4413,9 +4413,8 @@
     "path": "wiki/concepts/educational-philosophy/Cognitive Decoupling.md",
     "aliases": [
       "认知脱钩",
-      "事实与价值解耦",
-      "解耦认知",
-      "decoupling"
+      "事实与价值分离",
+      "事实与价值剥离"
     ]
   },
   {
@@ -5320,7 +5319,9 @@
     "aliases": [
       "简约原则",
       "奥卡姆剃刀",
-      "Occam's razor, 简便律, law of parsimony"
+      "Occam's razor",
+      "简便律",
+      "law of parsimony"
     ]
   },
   {
@@ -13985,7 +13986,8 @@
     "aliases": [
       "跨文化效度",
       "crosscultural validity",
-      "cross-cultural equivalence"
+      "cross-cultural equivalence",
+      "跨文化对等性"
     ]
   },
   {

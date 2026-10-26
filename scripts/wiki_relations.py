@@ -28,21 +28,22 @@ from __future__ import annotations
 # Auto-use the vault virtual environment when available.
 # This keeps scripts runnable as `python3 scripts/<script>.py` while using
 # dependencies installed in /Users/shaoyangwu/Documents/MyNotes/.venv.
-import os
 import sys
 from pathlib import Path
 
-VAULT_ROOT = Path(__file__).resolve().parents[1]
-VENV_PYTHON = VAULT_ROOT / ".venv" / "bin" / "python"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import vaultlib  # noqa: E402
+from vaultlib import is_under, parse_wikilink, rel as rel_to_root  # noqa: E402
 
-if VENV_PYTHON.exists() and Path(sys.executable).resolve() != VENV_PYTHON.resolve():
-    os.execv(str(VENV_PYTHON), [str(VENV_PYTHON), *sys.argv])
+if __name__ == "__main__":
+    vaultlib.ensure_venv()
+
+VAULT_ROOT = vaultlib.ROOT
 
 
 import argparse
 import json
 import re
-import subprocess
 from dataclasses import dataclass
 from typing import Iterable
 
@@ -88,21 +89,6 @@ class Entry:
     path: str
     type: str
     aliases: tuple[str, ...] = ()
-
-
-def rel_to_root(path: Path) -> str:
-    try:
-        return path.resolve().relative_to(ROOT.resolve()).as_posix()
-    except ValueError:
-        return path.as_posix()
-
-
-def is_under(path: Path, parent: Path) -> bool:
-    try:
-        path.resolve().relative_to(parent.resolve())
-        return True
-    except Exception:
-        return False
 
 
 def infer_type_from_index_path(path: str) -> str:
@@ -167,24 +153,15 @@ def load_index() -> dict[str, Entry]:
 
 
 def split_frontmatter(text: str) -> tuple[str, str, str]:
-    if not text.startswith("---\n"):
+    """("---\\n", YAML text without surrounding blank lines, body); ("", "", text) without frontmatter."""
+    split = vaultlib.split_frontmatter(text)
+    if not split.found:
         return "", "", text
-    end = text.find("\n---", 4)
-    if end == -1:
-        return "", "", text
-    closing_end = text.find("\n", end + 4)
-    if closing_end == -1:
-        closing_end = len(text)
-    yaml_text = text[4:end].strip("\n")
-    body = text[closing_end + 1 :] if closing_end < len(text) else ""
-    return "---\n", yaml_text, body
+    return "---\n", split.raw.strip("\n"), split.body
 
 
 def strip_yaml_quotes(value: str) -> str:
-    value = value.strip()
-    if len(value) >= 2 and value[0] == value[-1] and value[0] in {"'", '"'}:
-        return value[1:-1]
-    return value
+    return vaultlib.parse_scalar(value)
 
 
 def frontmatter_value(yaml_text: str, key: str) -> str:
@@ -221,19 +198,6 @@ def source_section_and_body_without_sources(body: str) -> tuple[str, str]:
         else:
             body_chunks.append(line)
     return "".join(source_chunks), "".join(body_chunks)
-
-
-def parse_wikilink(raw: str) -> tuple[str, str | None]:
-    if "\\|" in raw:
-        target, display = raw.split("\\|", 1)
-    elif "|" in raw:
-        target, display = raw.split("|", 1)
-    else:
-        target, display = raw, None
-    target = target.strip()
-    display = display.strip() if display is not None else None
-    target = target.split("#", 1)[0].split("^", 1)[0].strip()
-    return target, display
 
 
 def is_media_target(target: str) -> bool:
@@ -498,33 +462,12 @@ def iter_source_record_files(target: str | None = None) -> list[Path]:
 
 
 def git_changed_markdown_files() -> list[Path]:
-    try:
-        out = subprocess.check_output(
-            # Only wiki files are used (see git_changed_wiki_files); scoping the
-            # pathspec avoids scanning books/, sources/ and raw/ (~9 s -> <1 s).
-            ["git", "-C", str(ROOT), "status", "--porcelain", "-z", "--untracked-files=all", "--", "wiki"],
-            text=False,
-            stderr=subprocess.DEVNULL,
-        )
-    except Exception:
-        return []
-    parts = out.decode("utf-8", errors="replace").split("\0")
-    files: list[Path] = []
-    i = 0
-    while i < len(parts):
-        item = parts[i]
-        i += 1
-        if len(item) < 4:
-            continue
-        status, path_str = item[:2], item[3:]
-        if status[0] in "RC":
-            i += 1  # -z emits the rename source after the destination.
-        if "D" in status:
-            continue
-        if not path_str.endswith(".md"):
-            continue
-        p = ROOT / path_str
-        if p.exists() and p.is_file():
+    # Only wiki files are used (see git_changed_wiki_files); scoping the
+    # pathspec avoids scanning books/, sources/ and raw/ (~9 s -> <1 s).
+    files = []
+    for rel_path in vaultlib.git_status_paths(["wiki"]):
+        p = ROOT / rel_path
+        if rel_path.endswith(".md") and p.is_file():
             files.append(p)
     return sorted(set(files))
 

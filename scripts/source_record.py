@@ -43,22 +43,23 @@ from __future__ import annotations
 # Auto-use the vault virtual environment when available.
 # This keeps scripts runnable as `python3 scripts/<script>.py` while using
 # dependencies installed in /Users/shaoyangwu/Documents/MyNotes/.venv.
-import os
 import sys
 from pathlib import Path
 
-VAULT_ROOT = Path(__file__).resolve().parents[1]
-VENV_PYTHON = VAULT_ROOT / ".venv" / "bin" / "python"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import vaultlib  # noqa: E402
+from vaultlib import ASSET_BASE_URL, asset_url_for_path, rel  # noqa: E402,F401
 
-if VENV_PYTHON.exists() and Path(sys.executable).resolve() != VENV_PYTHON.resolve():
-    os.execv(str(VENV_PYTHON), [str(VENV_PYTHON), *sys.argv])
+if __name__ == "__main__":
+    vaultlib.ensure_venv()
+
+VAULT_ROOT = vaultlib.ROOT
 
 
 import argparse
 import datetime as _dt
 import re
 import shutil
-from urllib.parse import quote
 from typing import Any, Dict, List, Optional, Tuple
 
 try:
@@ -72,7 +73,8 @@ SOURCES_DIR = ROOT / "sources"
 BOOKS_DIR = ROOT / "books"
 
 WIKILINK_RE = re.compile(r"^\[\[([^\]|#\n]+)(?:[#|][^\]\n]*)?\]\]$")
-FRONTMATTER_RE = re.compile(r"\A---\n(.*?)\n---\n?", re.DOTALL)
+
+
 SOURCE_SECTION_RE = re.compile(r"(^##\s+(?:来源|Sources)\s*$)(.*?)(?=^##\s+|\Z)", re.DOTALL | re.MULTILINE)
 
 FORBIDDEN_FILENAME_CHARS = r'<>:"/\\|?*'
@@ -83,20 +85,6 @@ EPUB_VIEWER_SCRIPTS = (
     '<script defer src="/static/epub-loader.js"></script> '
     '<script defer src="/static/epub-init.js"></script>'
 )
-ASSET_BASE_URL = "https://img.mylikemie.icu"
-
-
-def rel(path: Path) -> str:
-    try:
-        return path.relative_to(ROOT).as_posix()
-    except Exception:
-        return path.as_posix()
-
-
-def asset_url_for_path(path: Path) -> str:
-    rel_path = rel(path)
-    encoded = "/".join(quote(part, safe="-_.!~*'()") for part in rel_path.split("/"))
-    return f"{ASSET_BASE_URL}/{encoded}"
 
 
 def pdf_iframe(url: str) -> str:
@@ -214,11 +202,11 @@ def move_or_copy(src: Path, dest: Path, *, copy: bool, overwrite: bool, dry_run:
 
 
 def parse_frontmatter(text: str) -> Tuple[Dict[str, Any], str, str]:
-    m = FRONTMATTER_RE.match(text)
-    if not m:
+    split = vaultlib.split_frontmatter(text)
+    if not split.found:
         return {}, "", text
-    raw = m.group(1)
-    body = text[m.end():]
+    raw = split.raw
+    body = split.body
     if yaml is None:
         die("PyYAML is required to parse frontmatter")
     try:
