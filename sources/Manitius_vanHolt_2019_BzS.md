@@ -1,5 +1,5 @@
 ---
-citation: "Manitius, V., & van Holt, N. (2019). Transfer als Gegenstand von Programmatik und Forschung. Einige Diskursbeobachtungen. In V. Manitius & N. van Holt (Hrsg.), Transfer zwischen Lehrer(fort)bildung und Wissenschaft (Beiträge zur Schulentwicklung, Band 21, S. 9–16). Bielefeld: wbv Media."
+citation: "Manitius, V., & van Holt, N. (2019). Transfer als Gegenstand von Programmatik und Forschung. Einige Diskursbeobachtungen. In V. Manitius & N. van Holt (Hrsg.), Transfer zwischen Lehrer(fort)bildung und Wissenschaft (Beiträge zur Schulentwicklung, Band 21, S. 9–16). wbv Media."
 extracted_to:
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
 processed_date: 2026-09-26

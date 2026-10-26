@@ -1,5 +1,5 @@
 ---
-citation: "Hofer, B. K., & Pintrich, P. R. (1997). The development of epistemological theories: Beliefs about knowledge and knowing and their relation to learning. Review of Educational Research, 67(1), 88-140."
+citation: "Hofer, B. K., & Pintrich, P. R. (1997). The development of epistemological theories: Beliefs about knowledge and knowing and their relation to learning. Review of Educational Research, 67(1), 88–140."
 extracted_to:
   - "[[Argument_Hofer_1997_RER]]"
 processed_date: 2026-08-13

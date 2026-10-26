@@ -1,5 +1,5 @@
 ---
-citation: "Zelinka, J. (2022). Subjects and Subjectivities of the (New) Geopolitics of Knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 251–269). Springer."
+citation: "Zelinka, J. (2022). Subjects and subjectivities of the (new) geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation (pp. 251–269). Springer."
 extracted_to:
   - "[[Argument_Zelinka_2022_SCD_subjectivity]]"
 processed_date: 2026-05-20

@@ -1,5 +1,5 @@
 ---
-citation: "Sobe, N. W. & Fischer, M. G. (2009). Mobility, Migration and Minorities in Education. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 359–371). Dordrecht: Springer."
+citation: "Sobe, N. W. & Fischer, M. G. (2009). Mobility, migration and minorities in education. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 359–371). Springer."
 extracted_to:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
 processed_date: 2026-10-10

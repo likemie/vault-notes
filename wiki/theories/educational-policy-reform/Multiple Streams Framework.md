@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -65,10 +65,10 @@ updated: 2026-10-22
 > - **知识位置** 发轫于科恩、马奇与奥尔森（Cohen, March, & Olsen, 1972）对“有组织无序状态”的洞见与垃圾桶模型（Garbage Can Model），由[[John W. Kingdon|约翰·金登]]（John Kingdon, 1984）系统创立，后经尼古拉斯·扎哈利亚迪斯（Nikolaos Zahariadis, 2003, 2017）扩展深化，成为当代教育政策改革与全球治理中分析[[Policy Brokerage\|政策中介]]（[[Policy Brokerage]]）与量化指标规制（[[Governing by Numbers]]）的经典理论基石。
 
 > [!claim] 核心主张
-> 公共政策议程的启动并非理性的逻辑推导，而是问题流、政策流与政治流三股相对独立潮流在特定历史时刻的偶然交汇。在政策决策充满“歧义性（Ambiguity）”的情境下，单纯增加科研知识供给不仅不会自发消除分歧，反而会加剧注意力赤字与解释冲突；唯有当重大危机叙事、指标异常或政权更迭开启短暂的“[[Policy Window|政策之窗]]（Policy Window）”时，[[Policy Entrepreneur\|政策企业家]]（或政策中介机构）通过策略性操纵数字指标的[[Façade of Rationality\|理性表象]]，将预设的政策方案与浮现的问题界定及政治意图强行耦合，政策变迁方得以发生。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> 公共政策议程的启动并非理性的逻辑推导，而是问题流、政策流与政治流三股相对独立潮流在特定历史时刻的偶然交汇。在政策决策充满“歧义性（Ambiguity）”的情境下，单纯增加科研知识供给不仅不会自发消除分歧，反而会加剧注意力赤字与解释冲突；唯有当重大危机叙事、指标异常或政权更迭开启短暂的“[[Policy Window|政策之窗]]（Policy Window）”时，[[Policy Entrepreneur\|政策企业家]]（或政策中介机构）通过策略性操纵数字指标的[[Façade of Rationality\|理性表象]]，将预设的政策方案与浮现的问题界定及政治意图强行耦合，政策变迁方得以发生。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–539)]]
 
 > [!citation-card] 决策歧义性与多源流分析透镜
-> 扎哈利亚迪斯（Zahariadis 2017, 65）对约翰·金登多源流分析法的观察，同样适用于政策过程的大多数其他理论：我们需要一个能够‘解释国家政府如何在歧义性条件下制定政策’的理论透镜、视角或框架。歧义性的概念抓住了‘对相同情境或现象存在多种思维方式的状态’（Feldman 1989, 5; 引自 Zahariadis 2017, 66）。这些不同的思维方式不一定能够调和，迫使统治者——广义上的‘政府’——必须做出抉择。假定更多的知识能够减少歧义并促进[[Evidence-Based Policy-Making|循证决策]]，那是完全错误的。事实恰恰相反。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
+> 扎哈利亚迪斯（Zahariadis 2017, 65）对约翰·金登多源流分析法的观察，同样适用于政策过程的大多数其他理论：我们需要一个能够‘解释国家政府如何在歧义性条件下制定政策’的理论透镜、视角或框架。歧义性的概念抓住了‘对相同情境或现象存在多种思维方式的状态’（Feldman 1989, 5; 引自 Zahariadis 2017, 66）。这些不同的思维方式不一定能够调和，迫使统治者——广义上的‘政府’——必须做出抉择。假定更多的知识能够减少歧义并促进[[Evidence-Based Policy-Making|循证决策]]，那是完全错误的。事实恰恰相反。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 538)]]
 >
 > *Zahariadis’ (2017, 65) observation concerning John Kingdon’s multiple streams approach also applies to most other theories of the policy process: the need to find a lens, perspective, or framework 'that explains how national governments make policies under conditions of ambiguity.' The concept of ambiguity captures the 'state of having many ways of thinking about the same circumstances or phenomena' (Feldman 1989, 5; cited in Zahariadis 2017, 66). These different ways of thinking are not necessarily reconcilable, forcing those who govern – the 'government' broadly conceived – to make choices. It would be wrong to assume that more knowledge reduces ambiguity and facilitates evidence-informed policymaking. The opposite applies.*
 
@@ -88,19 +88,19 @@ updated: 2026-10-22
 ---
 
 > [!proposition-chain] 核心命题一｜三流相对独立演进命题
-> - **前提一** 客观存在的社会状况并不必然成为政策问题；唯有通过统计指标异动、外部危机通报或系统性反馈，状况才被行动者解释并定性为必须由国家干预的问题。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
+> - **前提一** 客观存在的社会状况并不必然成为政策问题；唯有通过统计指标异动、外部危机通报或系统性反馈，状况才被行动者解释并定性为必须由国家干预的问题。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 538)]]
 > - **前提二** 政策方案并非应特定问题而现成研发，专家共同体与国际咨询网络常年在政策原始汤中储备大量预设方案，方案在寻找问题，而非问题寻找方案。
 > - **前提三** 政治层面的选举更迭、内阁重组与意识形态更替遵循政治权力周期的内在节律，与技术专家的实证研究进程脱耦。
 > - **推导** 问题、方案与政治动力各自作为独立的“源流”在系统中平行流动，彼此之间不存在线性的[[Determinism\|决定论]]从属关系。
 
 > [!proposition-chain] 核心命题二｜歧义性情境下中介耦合与[[Policy Window|政策之窗]]开启命题
-> - **前提一** 公共决策生态充斥着深刻的歧义性，面对同一教育现状，各派政治力量拥有不可调和的价值取向与归因方式。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 538)]]
+> - **前提一** 公共决策生态充斥着深刻的歧义性，面对同一教育现状，各派政治力量拥有不可调和的价值取向与归因方式。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 538)]]
 > - **前提二** 信息的过载导致决策者的注意力成为最稀缺的资源；单纯增加研究证据只会加剧认知混乱，无法自然推导出唯一的行动方案。
 > - **前提三** 突发危机（如大规模国际测评落后造成的制度恐慌）或政治换届短暂打开“政策之窗”；[[Policy Entrepreneur\|政策企业家]]（[[Policy Brokerage\|政策中介]]）利用量化数字构建出理性、客观与精确的[[Discourse|话语]]表象（[[Façade of Rationality]]），将特定方案与被界定的危机强行锁定。
 > - **推导** 政策变迁的实质不是全面理性的科学决策，而是在政策之窗开启的有限窗口期内，政策中介凭借话语和符号技术促成问题流、政策流与政治流的策略性耦合。
 
 > [!proposition-chain] 延伸命题
-> - **推论一（源自核心命题二 · 国际政策中介化）** 在全球教育治理中，跨国组织（如 [[OECD]]、[[World Bank\|世界银行]]）通过三年一度的 [[PISA]] 放榜或政策基准评估，人为制造跨国排名的“命名与羞辱”焦点事件，从而主动为成员国开启政策之窗，兜售自身在政策流中预先打包的最佳实践方案组合。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–547)]]
+> - **推论一（源自核心命题二 · 国际政策中介化）** 在全球教育治理中，跨国组织（如 [[OECD]]、[[World Bank\|世界银行]]）通过三年一度的 [[PISA]] 放榜或政策基准评估，人为制造跨国排名的“命名与羞辱”焦点事件，从而主动为成员国开启政策之窗，兜售自身在政策流中预先打包的最佳实践方案组合。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–547)]]
 > - **推论二（源自核心命题二 · 数字[[Scaffolding\|脚手架]]功能）** 决策者之所以热衷于量化指标，是因为数字既提供了不可辩驳的科学理性外观，又具有极高的话语弹性，便于各政治派别依凭自身意识形态将数字转译为契合自身议程的故事。
 
 > [!mechanism-map]- 机制图
@@ -119,7 +119,7 @@ updated: 2026-10-22
 > ```
 
 > [!exegesis]- 教育研究例子
-> 在 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 剖析的经合组织治理实践中：
+> 在 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] 剖析的经合组织治理实践中：
 > ① **问题流** 2000 年德国在首届 PISA 中表现惨淡，经合组织指标将德国公立教育系统定性为“落后与不平等”，构成震撼全国的焦点事件；
 > ② **政策流** 经合组织早已在内部政策库中储备了基于国家标准、[[School Autonomy\|学校自主权]]与全日制学校的标准化改革处方；
 > ③ **政治流** 德国朝野政党面对选民恐慌与经济[[Competitiveness|竞争力]]危机，形成了打破各联邦州教育割据的罕见政治共识；
@@ -162,7 +162,7 @@ updated: 2026-10-22
 > - **1972 — 垃圾桶模型奠基** 迈克尔·科恩、詹姆斯·马奇与约翰·奥尔森发表经典论文，提出组织内部决策往往是问题、解决方案、参与者与选择机会在垃圾桶内的偶然碰撞。
 > - **1984 — 金登创立多源流分析法** [[John W. Kingdon|约翰·金登]]出版专著《议程、备选方案与公共政策》（*Agendas, Alternatives, and Public Policies*），将政策过程明确化为问题流、政策流与政治流三流模型。
 > - **2003/2017 — 扎哈利亚迪斯深化歧义性分析** 扎哈利亚迪斯将多源流模型扩展至比较政治与对外政策分析，系统引入“歧义性（Ambiguity）”[[Construct\|构念]]，奠定了当代政策过程理论的第四版综合框架。
-> - **2024 — 拓展至全球教育治理与[[Policy Brokerage\|政策中介]]研究** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）将多源流框架引入信息过载时代的全球教育政策中介研究，阐明国际组织如何操纵数字表象搭建理性[[Scaffolding\|脚手架]]，推动三流耦合以实现跨国规制。
+> - **2024 — 拓展至全球教育治理与[[Policy Brokerage\|政策中介]]研究** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024]]）将多源流框架引入信息过载时代的全球教育政策中介研究，阐明国际组织如何操纵数字表象搭建理性[[Scaffolding\|脚手架]]，推动三流耦合以实现跨国规制。
 
 ---
 
@@ -181,9 +181,9 @@ updated: 2026-10-22
 > > - **新马克思主义学者** 批判该模型过度聚焦偶发微观过程，掩盖了国际资本、[[World Bank\|世界银行]]与[[OECD\|经合组织]]对全球南方议程的长期结构性霸权锁定。
 
 > [!critique] 批评索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 既肯定该框架在分析歧义性与[[Policy Brokerage\|政策中介]]时的强大解释力，又指出该模型偏重议程设置阶段，较难单独解释外部证据在进入具体行政法定法令出台阶段时所遭遇的严酷政治清洗与断崖式损耗。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 既肯定该框架在分析歧义性与[[Policy Brokerage\|政策中介]]时的强大解释力，又指出该模型偏重议程设置阶段，较难单独解释外部证据在进入具体行政法定法令出台阶段时所遭遇的严酷政治清洗与断崖式损耗。
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 援引扎哈利亚迪斯多源流理论，深入剖析信息过载与[[Policy Ambiguity\|决策歧义性]]生态下，[[Policy Brokerage\|政策中介]]机构如何利用数字理性[[Scaffolding\|脚手架]]促成三流耦合与政策议程锁定。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 援引扎哈利亚迪斯多源流理论，深入剖析信息过载与[[Policy Ambiguity\|决策歧义性]]生态下，[[Policy Brokerage\|政策中介]]机构如何利用数字理性[[Scaffolding\|脚手架]]促成三流耦合与政策议程锁定。

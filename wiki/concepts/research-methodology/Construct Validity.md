@@ -98,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -197,7 +197,7 @@ updated: 2026-10-22
 > [!concept-lens] 政策与制度评价体系的元评估
 > 将构念效度理论拓展至宏观[[Evidence-Based Education\|循证教育]]清算中心体系，检验“基于证据（Evidence-Based）”这一制度标签是否具备跨平台的收敛性。
 
-> [!claim] [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]]
+> [!claim] [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]]
 > **清算中心“循证”构念效度的经验危机** 运用 Campbellian MTMM 理论检验 10 个清算中心审查的 1,359 个项目发现，多重评级完全一致率仅约 30.5%（且大多体现为共同判定无效），而完全对立冲突（1&3，强推 vs 否决）高达 35.4%。这证明“基于证据”在清算中心实践中并未形成稳定的客观构念，各机构因独立复制、12 个月[[Fade-out Effect\|持续效果]]等综合门槛割裂导致构念内涵严重异化，具有有限的实践构念效度。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 4, 18–20, 26)]]
 
 ---
@@ -227,7 +227,7 @@ updated: 2026-10-22
 > |:---|:---|:---|:---|
 > | **表述对应命题** | 操作化必须与理论核心含义精确相容，排查反例 | 量表开发、[[Variable\|变量]]定义、[[Manipulation Check\|操纵检查]] | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]]; [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] |
 > | **MTMM 验证命题** | 收敛效度与判别效度构成构念成立的经验基准 | 多方法测量、量表验证研究 | Campbell and Fiske (1959); Cohen et al. |
-> | **制度元评估命题** | 跨机构评级发散证明“循证”标签实践构念效度受限 | 循证清算中心、政策评级[[Meta-analysis\|元分析]] | [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] |
+> | **制度元评估命题** | 跨机构评级发散证明“循证”标签实践构念效度受限 | 循证清算中心、政策评级[[Meta-analysis\|元分析]] | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] |
 > | **课程表征命题** | 内部自洽对齐可能掩盖目标构念不足呈现 | 课程纲要审查、[[Higher-Order Thinking Skills\|高阶思维]]评估 | [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
 > | **跨国信度与效度牺牲命题** | 跨国量化测评为追求通约信度系统性牺牲情境构念效度与本体论 | 跨国大规模测评（PISA）、全球教育数字治理 | [[Fazal Rizvi\|Rizvi]] & [[Bob Lingard\|Lingard]] (2009) |
 
@@ -294,7 +294,7 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wadhwa_2024_RER|Wadhwa, Zheng, & Cook (2024)]] — 创新性将 Campbell and Fiske (1959) [[Multitrait-Multimethod Matrix|MTMM]] [[Construct|构念]]效度理论应用于 10 个教育清算中心实证元评估，揭示跨平台评级冲突与构念效度危机。
+> - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 创新性将 Campbell and Fiske (1959) [[Multitrait-Multimethod Matrix|MTMM]] [[Construct|构念]]效度理论应用于 10 个教育清算中心实证元评估，揭示跨平台评级冲突与构念效度危机。
 > - [[Argument_Hughes_2014_JRIE|Hughes (2014)]] — 运用构念效度理论剖析 IB ToK 课程评估文本，揭示内部对齐掩盖[[Critical Thinking|批判性思维]]构念不足呈现的方法学机制。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen, Manion, & Morrison (2011)]] — 系统阐释构念效度的理论表述、MTMM 验证矩阵、反驳性检查以及构念不足呈现与无关方差威胁。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 详述调查工具与[[Scale Development|量表开发]]中构念效度的检验程序及情境依赖特征。

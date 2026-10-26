@@ -46,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -158,4 +158,4 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在[[Critical Theory\|批判理论]]（Ch. 2）、[[Action Research\|行动研究]]（Ch. 18）、[[Virtual World\|虚拟世界]]研究（Ch. 19）与批判[[Discourse Analysis\|话语分析]]（Ch. 22）中运用理想言说情境。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 在[[Critical Theory\|批判理论]]（Ch. 2）、[[Action Research\|行动研究]]（Ch. 18）、[[Virtual World\|虚拟世界]]研究（Ch. 19）与批判[[Discourse Analysis\|话语分析]]（Ch. 22）中运用理想言说情境。

@@ -159,14 +159,14 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] Knowledge Production
 > **知识生产（Knowledge Production）** 是指行动者在特定的[[Epistemology|认识论]][[Paradigm|范式]]、制度生态与交互关系中，对经验世界进行符号表征、实证检验并确立其真理性与合法性的社会化实践过程。该概念贯穿了宏观体制治理与微观教学建构两重互补的分析视阈：
-> 1. **宏观体制、[[Geopolitics|地缘政治]]与公共治理视阈** 揭示大学、国家与产业资本如何重塑科研知识的生产机制与法律所有权；透视跨国治理机构如何凭借自指性量化指标行使[[Soft Power by Hard Facts|硬事实软权力]]；阐明国家[[School Inspection|教育督导]]机构如何在行政工作中开展知识生产（如定向挑选学术流派、预先编制单一范式知识综述排除争端、终审定稿清洗批判性制度反思以生产“当前无可争议的知识状态”）；以及在大国博弈升级背景下，知识生产面临地缘技术脱钩与[[Research Security|科研安全]]审查对全球知识策源地地位的深层冲击。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]; [[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 72–75)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648–653)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
+> 1. **宏观体制、[[Geopolitics|地缘政治]]与公共治理视阈** 揭示大学、国家与产业资本如何重塑科研知识的生产机制与法律所有权；透视跨国治理机构如何凭借自指性量化指标行使[[Soft Power by Hard Facts|硬事实软权力]]；阐明国家[[School Inspection|教育督导]]机构如何在行政工作中开展知识生产（如定向挑选学术流派、预先编制单一范式知识综述排除争端、终审定稿清洗批判性制度反思以生产“当前无可争议的知识状态”）；以及在大国博弈升级背景下，知识生产面临地缘技术脱钩与[[Research Security|科研安全]]审查对全球知识策源地地位的深层冲击。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]; [[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 72–75)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–540)]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648–653)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
 > 2. **微观课堂与学习科学视阈** 指涉学习者摆脱被动接受现成灌输的从属地位，作为能动探究主体在本土协商共同体与[[Man-Computer Symbiosis|人机共生]]网络中开展提出、沟通、评估与合法化的四维[[Epistemic Practices|认识论实践]]，将观点作为客观制品持续改进并内化“说服优于强制”的民主审议价值。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 140, 161)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–893)]]; [[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–361)]]
 
 > [!concept-lens] 概念透镜
@@ -208,7 +208,7 @@ updated: 2026-10-23
 > - **大学职能的研教合一（Research-Teaching Nexus）** 现代[[Research Universities|研究型大学]]确立了知识生产与传播兼备的双重使命，经由研究生院制度将前沿科学知识生产与青年学者[[Apprenticeship|学徒制]]培养深度绑定。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
 > - **同行评审竞争与分散资助机制** 美国战后科研体制确立了联邦基金（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]）直接面向学者个人竞争性下拨的模式，构成了推动基础科研高产出的制度动力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **成果知识产权与商业化归属博弈** 伴随《[[Bayh-Dole Act of 1980|拜杜法案]]》出台与[[Academic Capitalism|学术资本主义]]扩张，大学基础研究产出的大量专利法律所有权被工业资本捕获，改变了科研成果的公有属性。[[Argument_Partaken_2022_Springer|(Partaken, 2022, p. 71)]]
-> - **超国家组织的自主知识生产与自指性指标体系** 跨国机构（如[[World Bank|世界银行]]、[[OECD]]）脱离外部大学，依托专职科研编制（如[[Development Economics Vice Presidency|发展经济学研究局]] 122 名研究员）与专属预算自主开展基础实证研究，年发文量达到顶尖大学均值的三倍，并结合自研量化指标与专题评估形成自指性政策[[Epistemic Governance|知识治理]]网络。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 5–7)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]
+> - **超国家组织的自主知识生产与自指性指标体系** 跨国机构（如[[World Bank|世界银行]]、[[OECD]]）脱离外部大学，依托专职科研编制（如[[Development Economics Vice Presidency|发展经济学研究局]] 122 名研究员）与专属预算自主开展基础实证研究，年发文量达到顶尖大学均值的三倍，并结合自研量化指标与专题评估形成自指性政策[[Epistemic Governance|知识治理]]网络。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 5–7)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–540)]]
 > - **科层行政中的知识生产与规范重塑（Bureaucratic Knowledge Production & Redrafting）** 国家治理机构在行政工作中通过定向挑选学术流派、预先编制单一范式知识综述排除学术争端，并在终审定稿中清洗体制批判，人为生产出“无可争议的知识状态”，赋予行政规制以科学合法性。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648–653)]]
 > - **地缘博弈下的技术能力降维与脱钩冲击** 在大国地缘博弈背景下，知识生产从好奇心驱动的认知蓄水池降维为技术主权工具；战略科技脱钩与[[Research Security|科研安全]]审查阻断了跨国科研合作网络，削弱了新兴强国获取西方前沿知识的管道。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1061–1064)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
 > - **智能时代自动化核验基础设施** 人工智能大幅降低了假说生成边际成本，倒逼科学体制推行包含数据与代码的[[Dynamic Research Notebook|动态研究笔记本]]、云端自动化实验室与专职机器复现审计。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 62–70)]]
@@ -279,8 +279,8 @@ updated: 2026-10-23
 > [!concept-lens] 跨国治理与中心-外围知识生产不对称
 > 揭示全球性治理巨头如何脱离学术同行评议自主制造政策知识以推行远处调控，以及通过过度简化机制与本土[[Gatekeepers|守门人]]网络排斥发展中国家的自主知识生产。
 
-> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]]; [[Argument_Mitter_2009_Europe|Mitter (2009)]]
-> **自指性指标体系与比较教育知识[[Paradigm|范式]]位移** 跨国组织在教育领域的知识生产表现出强烈的自指性（Self-referential）特征；[[OECD]] 与[[World Bank|世界银行]]不仅研发测度指标，更在组织内部自行开展研究、撰写专题评估并绑定贷款项目，将知识生产、[[Policy Brokerage|政策中介]]与资金资助熔铸为排他性的自给自足体系。这种量化实证指标生产彻底改变了比较教育学科从早期大学席位主导的“历史-文化[[Interpretive Paradigm|诠释范式]]”向“跨国标准化评测范式”的根本位移。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 538–540)]]; [[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94–98)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]; [[Argument_Mitter_2009_Europe|Mitter (2009)]]
+> **自指性指标体系与比较教育知识[[Paradigm|范式]]位移** 跨国组织在教育领域的知识生产表现出强烈的自指性（Self-referential）特征；[[OECD]] 与[[World Bank|世界银行]]不仅研发测度指标，更在组织内部自行开展研究、撰写专题评估并绑定贷款项目，将知识生产、[[Policy Brokerage|政策中介]]与资金资助熔铸为排他性的自给自足体系。这种量化实证指标生产彻底改变了比较教育学科从早期大学席位主导的“历史-文化[[Interpretive Paradigm|诠释范式]]”向“跨国标准化评测范式”的根本位移。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–540)]]; [[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94–98)]]
 
 > [!claim] [[Argument_Zapp_2017_IJED|Zapp (2017)]]
 > **专职科研建制与国际组织学术发表扩张** 扎普论证指出，世界银行在信贷资本规模见顶后确立了[[Knowledge Bank|知识银行]]转型战略，通过[[Development Economics Vice Presidency|发展经济学研究局]]（DEC）建立起不依赖外部大学的专职科研编制与自主研发预算。其学术产出在 Scopus 等主流索引中呈爆发式增长，在教育领域的发文量达到全球顶尖大学均值的三倍；这种实体科研能力确保了国际组织能够摆脱外部学术中介，在微观计量层面自主生成支撑全球发展模型的实证知识，确立起发展研究领域的学术发表[[Discourse|话语]]权。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 5–7)]]
@@ -288,8 +288,8 @@ updated: 2026-10-23
 > [!claim] [[Jason Beech|Beech, J.]]
 > **过度简化机制与外围学术空间边缘化** 比奇（[[Jason Beech]]）在其全球教育[[Champ|场域]]五位置模型中论证指出，跨国政策知识的生产与流通呈现高度非均质性，始终受到不同结构位置权力的层层过滤与[[Recontextualization|再情境化]]加工。位于第二位置的国际组织受紧迫[[Pragmatic Paradigm|实用主义]]驱动，将第一位置（全球学术空间）中原本复杂争鸣的[[Theoretical Knowledge|理论知识]]深度删剪与过度简化，包装为普适通用的五大支柱“最佳实践”处方；而在第四位置（本土学术空间），由于外围发展中国家科研资源匮乏且高度依附外部开发贷款，兼具学者、官员与顾问三重身份的“[[Gatekeepers|守门人]]”网络垄断了合法政策[[Discourse|话语]]的解释权与课题资源。这不仅导致借贷国全盘借入外部制度愿景，更彻底压制了本土高校与学者基于自身历史脉络开展独立知识生产的可能性，造成本土传统知识体系在[[Epistemology|认识论]]上的系统性贬抑。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–353)]]
 
-> [!claim] [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]]
-> **全球南北知识生产结构性不平等与援助偏颇** 施泰纳-哈姆西等在[[UNESCO|教科文组织]]全球循证[[Research Utilization|研究利用]]报告中指出，传统国际发展援助高度偏好资助由全球北方机构领衔的短期研究项目，直接造成全球南方本土知识生产的碎片化与外部依附。全球北方智库与国际机构集中生产被标榜为普适规律的实证综述，由于脱离本土政治经济约束、财政支付能力与文化脉络，造成全球知识集中生产端与国家规划实施端之间双重反馈回路的断裂；必须建立[[Funder Coalition for URE|长效循证资助者联盟]]并改革学术评价机制，保障边缘化研究者与决策官员在知识生产与[[Research Synthesis|证据综合]]中的实质代表权。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 14, 38, 46)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]]
+> **全球南北知识生产结构性不平等与援助偏颇** 施泰纳-哈姆西等在[[UNESCO|教科文组织]]全球循证[[Research Utilization|研究利用]]报告中指出，传统国际发展援助高度偏好资助由全球北方机构领衔的短期研究项目，直接造成全球南方本土知识生产的碎片化与外部依附。全球北方智库与国际机构集中生产被标榜为普适规律的实证综述，由于脱离本土政治经济约束、财政支付能力与文化脉络，造成全球知识集中生产端与国家规划实施端之间双重反馈回路的断裂；必须建立[[Funder Coalition for URE|长效循证资助者联盟]]并改革学术评价机制，保障边缘化研究者与决策官员在知识生产与[[Research Synthesis|证据综合]]中的实质代表权。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 14, 38, 46)]]
 
 ---
 
@@ -379,8 +379,8 @@ updated: 2026-10-23
 > | **宏观体制** | **大学职能研教共生** | 现代[[Research Universities\|研究型大学]]确立了知识生产与传播并重的使命，研究生院构建起尖端探索与拔尖人才培养共生生态 | 德国[[Humboldtian Model of Higher Education\|洪堡理念]]移植；研究生师徒共进；前沿科研与研究生教育绑定 | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008)]] |
 > | **宏观体制** | **竞争资助与学术避险** | 去中心化同行评审与竞争资助造就卓越生产力，但竞争过热与启动金耗尽诱发青年学者学术避险与文献平庸化 | 联邦直接资助教师个人；跨校师资竞争；课题成功率走低倒逼规避风险 | [[Argument_Stephan_2013_NBER\|Stephan (2013)]]; Alberts (2011) |
 > | **宏观体制** | **产学协同与资本剥离** | [[University-Industry Collaboration\|产学合作]]与《[[Bayh-Dole Act of 1980\|拜杜法案]]》激活成果商业转化，但也导致成果产权被工业资本捕获及人文社科[[Narrative Knowledge\|叙事知识]]相对衰退 | 知识产权下放大学；企业联合中心资助；硬科学专利主导 | [[Argument_Partaken_2022_Springer\|Partaken (2022)]]; Lissoni (2012) |
-> | **宏观体制** | **超国家自指指标体系** | 跨国组织通过自建科研编制、自制指标与贷款捆绑构筑封闭知识体系，促使比较教育向标准化量化[[Paradigm\|范式]]位移 | 治理巨头自给自足；专职研发建制超越大学均值；以硬事实行使[[Soft Power\|软权力]] | [[Argument_Zapp_2017_IJED\|Zapp (2017)]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]]; [[Argument_Mitter_2009_Europe\|Mitter (2009)]] |
-> | **宏观体制** | **南北知识生产不平等与援助偏颇** | 国际援助偏好北方短期项目加剧南方知识碎片化，全球集中生产与本土实践之间双重反馈断裂 | 资助者联盟重塑长效资助机制；改革考评保障边缘化学者代表权 | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] |
+> | **宏观体制** | **超国家自指指标体系** | 跨国组织通过自建科研编制、自制指标与贷款捆绑构筑封闭知识体系，促使比较教育向标准化量化[[Paradigm\|范式]]位移 | 治理巨头自给自足；专职研发建制超越大学均值；以硬事实行使[[Soft Power\|软权力]] | [[Argument_Zapp_2017_IJED\|Zapp (2017)]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]; [[Argument_Mitter_2009_Europe\|Mitter (2009)]] |
+> | **宏观体制** | **南北知识生产不平等与援助偏颇** | 国际援助偏好北方短期项目加剧南方知识碎片化，全球集中生产与本土实践之间双重反馈断裂 | 资助者联盟重塑长效资助机制；改革考评保障边缘化学者代表权 | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] |
 > | **宏观体制** | **科层督导知识生产与清洗** | 教育治理机构在行政工作中通过定向文献筛选、预制单一范式综述与定稿清洗排除争端，生产服务于国家规制的单一同质知识 | 规程指标编码固化；传播秘书处行使定稿清洗特权；兼顾 logos 工具性与 ethos 政治合法性职能 | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] |
 > | **宏观体制** | **技术化降维与三轨分化** | 大国博弈推动知识生产从国家认知中枢向技术能力组件降维，演化为联邦国家任务、安全合规大学与科技资本垄断三轨分化生态 | 确立技术导向型契约；行政规制绕开自由探索；[[Research Security\|科研安全]]审查与商业算力垄断 | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] |
 > | **宏观体制** | **生成-核验协同与动态网络** | 智能时代知识生产要求建立与假设生成同等规模的自动化机器核验与去中心化动态交流基础设施 | [[Genesis Mission\|创世纪计划]]与国家平台整合；黄金标准机器复现包；动态研究笔记本与负面数据共享 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
@@ -404,7 +404,7 @@ updated: 2026-10-23
 > - **2022 — [[Knowledge Building Theory|知识建构学派]]的[[Reflective Structuration|反思性结构化]]模型** [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 证实小学生群体通过动态重组意向领域与持续观点改进，能自主实现深层因果解释建模并实质推进集体公共知识前沿。
 > - **2022 — 教育治理工作中的知识生产与行政清洗揭示** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 剖析[[Swedish Schools Inspectorate|瑞典学校督察局]]，揭示治理机构如何通过预先编制单一范式综述与终审定稿清洗，将多元学术文献生产为服务于国家简化的行政合规定论，并从[[Basil Bernstein|伯恩斯坦]]“[[Horizontal Knowledge Structure|弱语法]]”与[[Jean Piaget|皮亚杰]]动态发生学视角解构了静态“当前知识状态”的技术官僚幻觉。
 > - **2023 — 大国博弈脱钩与全球知识生产策源地困境** [[Argument_Woo_2023_HEP|Woo (2023)]] 实证揭示中美科技博弈加剧导致[[Knowledge Exchange|知识交流]]政治化与安全化，切断了后发国家从西方获取前沿知识的核心管道，直接制约其作为全球知识生产中心的引领力。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
-> - **2024 — 全球[[Output-Oriented Governance|循证治理]]中的南北知识生产断裂与长效资助机制** [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] 揭示传统国际援助偏向北方短期项目对南方本土知识生产的割裂，阐明全球集中生产与本土实践之间[[Two Broken Feedback Loops|双重反馈回路断裂]]的结构性根源，提出构建长效循证资助者联盟（Funder Coalition for URE）以保障知识公平与代表权（pp. 14, 38, 46）。
+> - **2024 — 全球[[Output-Oriented Governance|循证治理]]中的南北知识生产断裂与长效资助机制** [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] 揭示传统国际援助偏向北方短期项目对南方本土知识生产的割裂，阐明全球集中生产与本土实践之间[[Two Broken Feedback Loops|双重反馈回路断裂]]的结构性根源，提出构建长效循证资助者联盟（Funder Coalition for URE）以保障知识公平与代表权（pp. 14, 38, 46）。
 > - **2025–2026 — 技术导向型契约确立与知识生产的三轨分化** [[Argument_Fan_2026_BCAS|樊春良 (2026, pp. 1061–1064)]] 剖析美国《迈向新的黄金时代：美国科学政策的范式转变》报告，标志着战后基础研究契约向技术导向型契约让渡，揭示知识生产从好奇心驱动的认知蓄水池降维为技术主权工具，并形成国家任务、安全合规大学与私营科技资本三轨分立格局。
 > - **2026 — [[Genesis Mission|创世纪计划]]与智能时代生成-核验生态重塑** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, pp. 62–70]]）主持发布白宫战略报告，反思 17 世纪静态出版局限，依托创世纪计划整合国家算力仪器，推行[[Dynamic Research Notebook|动态研究笔记本]]、负面数据共享与自动化机器核验基础设施。
 > - **2026 — 战略产业中的“教育即标准”与中试共置模式** 卓泽林（[[Argument_Zhuo_2026_ICE|卓泽林, 2026, pp. 20–24]]）系统阐释战略半导体体系中大学知识生产的角色重构，揭示高校如何将开源技术方案（如 RISC-V）嵌入课程形成全球标准锁定，并依托 300 毫米晶圆中试线（SUNY Poly）打通工程转化断层。
@@ -469,7 +469,7 @@ updated: 2026-10-23
 > | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008, p. 42)]] | 2005 年全球 500 强大学学术排名（[[Academic Ranking of World Universities\|ARWU]]） | 顶尖科研产出与高水平知识生产跨国分布分析 | 全球前 20 强大学中美国独占 17 席（仅英国剑桥 #2、牛津 #10、日本东京 #20 名列其中）；前 50 强中美国独占 37 席（74%）；欧陆高校仅 4 席 | 实证表征了战后美国去中心化同行竞争与研究生院研教结合体制在产生全球突破性科研成果上的极高生产力 |
 > | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008, pp. 36–37, 41)]] | 1953–2004 年全美研发支出结构（[[National Science Board\|NSB]] 报告） | 基础科学知识生产出资结构纵向追踪 | 大学执行的基础研究规模从 1953 年 2.73 亿美元增至 2004 年 430 亿美元；1975 年企业对高校资助仅占 3.3%，1990 年上升至 7% 并保持稳定；联邦资助占比则由 67.2% 下降至 60% 左右 | 证实了《[[Bayh-Dole Act of 1980\|拜杜法案]]》及 [[National Science Foundation\|NSF]] 产学协同政策切实推动了大学知识生产向产业应用的开放，重塑了多元资金纽带 |
 > | [[Argument_Partaken_2022_Springer\|Partaken (2022, p. 71)]] | 欧洲与美国大学学术专利普查数据（Lissoni, 2012） | 知识产权与专利所有权法律归属普查 | 欧洲学术专利中 60%–81% 法律所有权归工业公司所有；美国大学因《拜杜法案》保留了 68.7% 的学术专利权 | 实证揭示学术知识生产与经济所有权之间的割裂，展现工业资本对高校科研产出剩余价值的占有模式 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b, p. 544)]] | [[World Bank\|世界银行]] [[Systems Approach for Better Education Results\|SABER]] 指标库与全球 30 个涉教育国际组织 | 跨国政策工具计量普查与组织资产追踪 | 世界银行 SABER 涵盖 1,600 余项系统性量化指标；内部政策仓库收录 1,120 项教育回报率自指性研究；33.3% 涉教育国际组织属于经济协调类机构 | 证实超国家机构自建排他性知识体系的巨大规模，将量化政策知识转化为推行结构调整贷款的治理手段 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024, p. 544)]] | [[World Bank\|世界银行]] [[Systems Approach for Better Education Results\|SABER]] 指标库与全球 30 个涉教育国际组织 | 跨国政策工具计量普查与组织资产追踪 | 世界银行 SABER 涵盖 1,600 余项系统性量化指标；内部政策仓库收录 1,120 项教育回报率自指性研究；33.3% 涉教育国际组织属于经济协调类机构 | 证实超国家机构自建排他性知识体系的巨大规模，将量化政策知识转化为推行结构调整贷款的治理手段 |
 > | [[Argument_Zapp_2017_IJED\|Zapp (2017, pp. 5–7)]] | 世界银行 1973–2009 年研究课题汇编、DEC 官方预算、Scopus（1977–2013）及世行出版物总库 | 纵向档案统计、引文数据库计量与高校产出对比分析 | 发展经济学研究局（DEC）常设 122 名专职研究员，2009–2012 年科研预算达 2.44 亿美元，2001–2010 年教育科研直接支出达 4,900 万美元（完成 280 项课题）；年发表量从 1970 年代个位数激增至 2000 年代中期的 30 余篇，教育科研产出达全球 13 所顶尖大学均值的 3 倍 | 揭示了国际组织作为实体化独立科研生产者的巨大规模，证实了超国家多边机构在学术发表场域对传统研究型大学的生产力超越 |
 > | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022, pp. 645–652)]] | [[Swedish Schools Inspectorate\|瑞典学校督察局]] 2011–2013 年常规督导与专题质量审计（访谈 12 人、2 次闭门专家组实地观察、法规与报告文本） | 工具性[[Case Study\|个案研究]]、文本追踪与比较分析 | ① 常规督导从“成功学校”研究提炼 10 项评估常模；② 质量审计预设单一范式综述，终审定稿由传播秘书处清洗掉对国家课程大纲缺陷的批判，仅保留教师缺乏自信定性 | 实证检验了公共治理机构如何通过定向筛选、单一范式整合与文本重写开展科层知识生产，揭示循证治理中工具性解答与政治合法化修辞的共生机制 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 62–70)]] | 2025–2026 年[[Federally Funded Research and Development Centers\|美国国家实验室]]网络、AI 科研基础设施与素数定理形式化验证案例 | 科技政策文本分析、国家算力平台评估与算法核验追踪 | [[Genesis Mission\|创世纪计划]]统筹 17 所国家实验室算力与仪器网络；素数定理形式化验证由 20 余名数学家 18 个月人工推演压缩至 AI 驱动下 3 周完成 1100 个定理机器核验 | 实证检验了智能时代知识生产向国家级动态平台与自动化机器核验基础设施转型的必要性与巨大效能 |
@@ -478,7 +478,7 @@ updated: 2026-10-23
 > | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] | 美国公立小学 22 名五年级学生，7 个月人体系统[[Knowledge Building Theory\|知识建构]]课堂 | [[Interactional Ethnography\|互动民族志]]、协作[[Discourse Analysis\|话语分析]]与[[Network Analysis\|社会网络分析]] | 16 篇 BOOK 视图反思笔记中 13 篇达到完全科学水平（81.25%），7 篇展现详细因果机制解释（43.75%），0 篇处于前科学水平；全班[[Theory of Knowledge\|知识论]]坛形成 500+ 发帖高密度互联网络 | 证实小学生通过[[Reflective Structuration\|反思性结构化]]重构弹性探究组，能够切实开展高水平概念制品改进并推进集体公共知识前沿 |
 > | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] | 高中物理电磁实验、小学工程设计及大学地质写作语料 | 交互[[Ethnography\|人种志]]、[[Discourse\|话语]]微观分析与证据编码 | 课堂互动中学生运用波形读数与具身手势协同跨越概念断层；高水平地质学学术写作呈现严密的三级[[Chain of Evidence\|证据链]]整合模式 | 质性证实学生在四维社会化实践中通过证据协调构建新知的[[Epistemology\|认识论]]规程与审议价值内化 |
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025)]] | 中学与高校[[Man-Computer Symbiosis\|人机协同]]跨学科科学探究案例 | 概念模型构建与人机交互语料追踪 | 质性证实持有[[Evaluativist\|评价主义认识立场]]的学习者能有效设计[[Chain-of-Thought Prompting\|思维链]]与[[Role-playing\|角色扮演提示]]词，驱动大模型开展多视角辩难并进行多源实验核验 | 确立了人机共生环境下知识生产的确证规范与评价主义立场调节模型 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a, p. 27)]] | 全球 103 个国家 654 个教育研究利用（URE）平台 | 全球知识生产与转译基础设施跨国普查与网络分析 | 654 个平台中 74%（484 个）未与任何区域中介网络建立正式链接，陷入孤立运作；中车道中介过度生产简报导致信息拥挤 | 实证检验了全球知识生产转译平台缺乏横向协同网络与双向反馈机制的结构性孤立特征 |
+> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024, p. 27)]] | 全球 103 个国家 654 个教育研究利用（URE）平台 | 全球知识生产与转译基础设施跨国普查与网络分析 | 654 个平台中 74%（484 个）未与任何区域中介网络建立正式链接，陷入孤立运作；中车道中介过度生产简报导致信息拥挤 | 实证检验了全球知识生产转译平台缺乏横向协同网络与双向反馈机制的结构性孤立特征 |
 
 ---
 
@@ -490,7 +490,7 @@ updated: 2026-10-23
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统批判 17 世纪静态期刊出版与封闭同行评议，提出依托[[Genesis Mission|创世纪计划]]重塑国家算力仪器网络，推行[[Dynamic Research Notebook|动态研究笔记本]]、黄金标准机器复现与生成-核验平衡。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 阐述国家半导体体系中大学知识生产的角色重构，揭示高校如何通过开源架构课程内生化（教育即标准）与 300 毫米晶圆中试线共置攻关，打通工程转化断层。
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 基于欧洲学术专利数据，批判新自由主义[[University-Industry Collaboration|产学合作]]中工业资本对高校知识生产成果所有权的剥离与[[Academic Capitalism|学术资本主义]]扩张。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 揭露[[World Bank|世界银行]]等超国家机构如何依托自指性量化指标生产行使[[Soft Power by Hard Facts|硬事实软权力]]，构建封闭的政策[[Epistemic Governance|知识治理]]体系。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 揭露[[World Bank|世界银行]]等超国家机构如何依托自指性量化指标生产行使[[Soft Power by Hard Facts|硬事实软权力]]，构建封闭的政策[[Epistemic Governance|知识治理]]体系。
 > - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 实证解构世界银行发展经济学研究局（DEC）的实体科研建制与出版物数据库，揭示其自主知识生产规模达到顶尖大学均值三倍的制度化机制。
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 证实微观课堂中学生通过[[Reflective Structuration|反思性结构化]]动态重组探究小组，能将观点作为客观制品持续改进并实质推进公共知识前沿。
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 提出科学教育中提出、沟通、评估与合法化的四维[[Epistemic Practices|认识论实践]]框架，确立证据协商与民主审议伦理。
@@ -499,4 +499,4 @@ updated: 2026-10-23
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 对比[[Inquiry-Based Learning|指导式探究]]与[[Direct Instruction|直接讲授]]，证实探究情境中自主协调证据对深层概念转变与[[Epistemic Agency|认识能动性]]的不可替代性。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 构建全球教育[[Champ|场域]]五位置模型，揭示国际机构过度简化学术知识以及外围国家本土知识生产遭跨界[[Gatekeepers|守门人]]群体边缘化的政治经济学机制（pp. 349–355）。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 考察欧洲比较教育知识生产的历史演变，揭示学科由早期历史-哲学诠释向跨国量化实证指标评测的历史位移（pp. 94–98）。
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 普查全球 103 国 654 个研究利用平台，揭示传统国际援助偏向北方短期项目对南方本土知识生产的割裂，阐明全球集中生产与本土规划实施之间双重反馈回路断裂的制度根源（pp. 14, 27, 46）。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 普查全球 103 国 654 个研究利用平台，揭示传统国际援助偏向北方短期项目对南方本土知识生产的割裂，阐明全球集中生产与本土规划实施之间双重反馈回路断裂的制度根源（pp. 14, 27, 46）。

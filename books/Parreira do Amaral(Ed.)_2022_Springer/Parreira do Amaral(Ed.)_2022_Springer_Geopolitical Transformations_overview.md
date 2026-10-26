@@ -1,5 +1,5 @@
 ---
-citation: "Parreira do Amaral, M., & Thompson, C. (Eds.). (2022). Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation. Springer."
+citation: "Parreira do Amaral, M., & Thompson, C. (Eds.). (2022). Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation. Springer."
 extracted_to: []
 processed_date: 2026-05-20
 ---

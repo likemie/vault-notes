@@ -48,19 +48,19 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> 国际劳工组织（International Labour Organization，ILO，简称国际劳工组织）是全球历史最悠久、唯一采用"政府—雇主—工人"三方协商（Tripartism）治理结构的联合国专门机构，以制定和监督国际劳工公约与建议书为核心职能，涵盖职业安全、最低工资、结社自由与技术职业培训标准——使其成为全球教育治理中联结正规教育与劳动力市场的关键制度纽带。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
+> 国际劳工组织（International Labour Organization，ILO，简称国际劳工组织）是全球历史最悠久、唯一采用"政府—雇主—工人"三方协商（Tripartism）治理结构的联合国专门机构，以制定和监督国际劳工公约与建议书为核心职能，涵盖职业安全、最低工资、结社自由与技术职业培训标准——使其成为全球教育治理中联结正规教育与劳动力市场的关键制度纽带。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 540)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1919 年《凡尔赛和约》第十三编设立，随国际联盟（League of Nations）同步创立；确立于"持久和平必须以社会公正为基础"的建立宗旨。1946 年成为联合国框架下第一个专门机构，是战后仅存的两个在 1945 年前已参与全球教育与劳工议题的国际组织之一（另一为[[UNESCO\|联合国教科文组织]]前身）。
 > - **总部地点 / 业务辐射** 总部设于瑞士日内瓦，设有 40 余个国家和地区办事处，187 个成员国，覆盖全球大多数劳动力市场与职业培训体系。
 > - **法人属性与经费基础** 独立的联合国专门机构，经费由成员国法定分摊会费（Regular Budget）和联合国开发计划署（UNDP）等技术合作经费共同构成。
-> - **核心职责** 制定并监督国际劳工标准（International Labour Standards，ILS）、促进"体面劳动"（Decent Work）四大战略目标（就业促进、劳工权利保障、社会保护与社会对话），通过职业技能开发标准深度介入正规与非正规教育体系。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
+> - **核心职责** 制定并监督国际劳工标准（International Labour Standards，ILS）、促进"体面劳动"（Decent Work）四大战略目标（就业促进、劳工权利保障、社会保护与社会对话），通过职业技能开发标准深度介入正规与非正规教育体系。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 540–541)]]
 
 ---
 
@@ -68,7 +68,7 @@ updated: 2026-10-22
 > - **1919–1945 年 — 国际联盟框架下的劳工权利奠基期** 颁布第 1 号公约（工作时间法案，1919）开启国际劳工标准制定先例；积极介入战间期全球经济危机中的工人权益保障，并于 1926 年设立国际劳工标准监督委员会。
 > - **1946–1970 年代 — 联合国专门机构扩张与去殖民化介入** 成为联合国框架下第一个专门机构，承担大量面向新建国家的劳动力市场规划与职业培训技术援助项目；与[[UNESCO\|教科文组织]]并肩成为战后仅存的两个涉足教育议题的全球多边机构，共同主导 1948 年《世界人权宣言》第 23 条（劳动权）与第 26 条（受教育权）的国际法律文本建构。
 > - **1980–2000 年代 — 全球化冲击下的技能发展重心转移** 新自由主义劳动力市场弹性化浪潮冲击传统劳工保护标准；ILO 重心向职业技能开发与[[Lifelong Learning\|终身学习]][[Transfer Translation Transformation\|政策迁移]]，积极参与[[Education for All\|全民教育]]与世界发展峰会的技术职业教育与培训（TVET）议程。
-> - **1999–至今 — "体面劳动"全球议程与 SDG 8** 时任总干事胡安·索马维亚（Juan Somavia）于 1999 年提出"体面劳动"（Decent Work）核心议程；2015 年《2030 年可持续发展议程》将"体面工作与经济增长"确立为 SDG 8，ILO 成为全球劳动力市场相关指标的法定统计托管机构。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
+> - **1999–至今 — "体面劳动"全球议程与 SDG 8** 时任总干事胡安·索马维亚（Juan Somavia）于 1999 年提出"体面劳动"（Decent Work）核心议程；2015 年《2030 年可持续发展议程》将"体面工作与经济增长"确立为 SDG 8，ILO 成为全球劳动力市场相关指标的法定统计托管机构。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 540)]]
 
 ---
 
@@ -89,7 +89,7 @@ updated: 2026-10-22
 > - **旗舰研究出版物** 《世界就业与社会展望》（World Employment and Social Outlook，WESO）；《全球工资报告》（Global Wage Report）；《体面劳动国家概况》（Decent Work Country Profiles）。
 > - **数据库** ILOSTAT——全球最全面的劳动力市场统计数据库，为[[OECD\|经合组织]]、[[World Bank\|世界银行]][[World Development Indicators\|世界发展指标库]]等提供底层劳动力数据。
 > - **职业培训与技能标准** 主持 ISCO（国际职业标准分类）修订与 TVET（技术与职业教育培训）国际政策指南制定，与[[UNESCO\|教科文组织]] ISCED 共同构成[[International Education\|国际教育]]—劳动力对接的分类桥梁。
-> - **规范性公约旗舰** 第 111 号公约（就业与职业歧视）、第 138 号公约（最低就业年龄）、第 182 号公约（消除最恶劣形式童工）——与教育机会剥夺直接相关的核心公约。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
+> - **规范性公约旗舰** 第 111 号公约（就业与职业歧视）、第 138 号公约（最低就业年龄）、第 182 号公约（消除最恶劣形式童工）——与教育机会剥夺直接相关的核心公约。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 540)]]
 
 ---
 
@@ -99,7 +99,7 @@ updated: 2026-10-22
 > - **政策影响** 通过将 TVET 与学校正规教育的衔接标准纳入全球教育政策讨论，影响了数十个发展中国家的职业教育课程改革与资历框架（NQF）建设。
 
 > [!stat-cards]- 核心规模数据
-> 187 个成员国；190 项国际劳工公约与 206 项建议书；ILOSTAT 覆盖 190 余个国家和地区的劳动力市场统计时间序列；每年发布 6 部以上全球劳动力市场旗舰报告。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
+> 187 个成员国；190 项国际劳工公约与 206 项建议书；ILOSTAT 覆盖 190 余个国家和地区的劳动力市场统计时间序列；每年发布 6 部以上全球劳动力市场旗舰报告。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 540)]]
 
 ---
 

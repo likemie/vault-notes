@@ -296,7 +296,7 @@ updated: 2026-10-26
 ---
 
 > [!indicators] 影响力维度与指标
-> - **全球跨国证据主体认知度进入前十五** 在涵盖 103 国教育政策制定者与高级规划专家的全球战略审查中，EEF 名列全球认知度最高的证据主体第 14 位，并且是全球认知度前 15 强中唯一的单一主权国家级循证中介实体，印证了其依托《教学与学习工具包》及国际伙伴网络跨越国界的深远政策声誉。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 22–24)]]
+> - **全球跨国证据主体认知度进入前十五** 在涵盖 103 国教育政策制定者与高级规划专家的全球战略审查中，EEF 名列全球认知度最高的证据主体第 14 位，并且是全球认知度前 15 强中唯一的单一主权国家级循证中介实体，印证了其依托《教学与学习工具包》及国际伙伴网络跨越国界的深远政策声誉。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 22–24)]]
 > - **学校覆盖率与动员广度** 截至官方最新发布的评估报告（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)），全英格兰已有超过五分之四（80%）的公立中小学实际参与过 EEF 资助的项目；累计资助超过 400 项教育干预试验与先导试点，构建起全球覆盖密度最高的单体教育实证试验网络。
 > - **校长决策渗透率** 约 85% 的英格兰中小学校长报告在制定针对处境不利学生的学业支持战略及使用 [[Pupil Premium]] 预算时，主动参考并采用了 EEF 发布的权威指南（Guidance Reports）与工具包建议（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)；[[Argument_Torres_2022_BarriersMechanisms\|Torres, 2022a, p. 111]]）。
 > - **战略领域系统拓展** 证据资助与实践转化重点向学前早期教育（Early Years，特别是学前读写与数学基础能力）、16–19 岁青年教育系统延伸，并重点推进高成效方案（如 Maths Champions）的跨区域规模化落地，持续应对后疫情时期的学业差距危机。
@@ -316,7 +316,7 @@ updated: 2026-10-26
 
 > [!stat-cards]- 核心规模数据
 > - **£125M** 初始财政种子捐赠基金，开创准独立公共中介资助范式
-> - **#14** 全球 103 国教育决策者战略审查中认知度最高的证据主体排名（前 15 强中唯一的国家级中介）。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 24)]]
+> - **#14** 全球 103 国教育决策者战略审查中认知度最高的证据主体排名（前 15 强中唯一的国家级中介）。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 24)]]
 > - **400+** （项） 截至最新官方评估报告累计资助执行的教育研究、现场试验与创新试点项目总数（[EEF Impact Report](https://educationendowmentfoundation.org.uk/impact-report)）
 > - **80% (4/5)** 全英格兰公立中小学校实际参与过 EEF 资助项目的累计比例
 > - **85%** 英格兰中小学校长依据 EEF 指导报告制定针对弱势学生教育策略的比例
@@ -413,7 +413,7 @@ updated: 2026-10-26
 > | [[SPECTRUM]] | Fact (Program) | EEF 委托研发的权威非认知与社会情感测量工具库与准入标准体系。 |
 > | [[Literacy Octopus]] | Fact (Program) | EEF 资助开展的大规模[[Multi-Arm Trial\|多臂试验]]标志性案例，证实单向信息推介对提升学业无效。 |
 > | [[Network Governance]] | Concept | EEF 模式通过[[Public-Private Partnership\|公私伙伴关系]]、跨国慈善资本资助及政商专家旋转门在英澳两国所展现的网络化治理样态。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] | Argument | 战略审查实证确认 EEF 名列全球教育决策者最知名证据主体前 15 强，为唯一的国家级中介。 |
+> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 战略审查实证确认 EEF 名列全球教育决策者最知名证据主体前 15 强，为唯一的国家级中介。 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | Argument | 揭示 EEF 如何联合联邦银行资助 SVA/E4L 搭建试验原型，并由 Collins 跨国任职 AERO 实现因果证据量规向国家科研体制的捕获与转译。 |
 > | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] | Argument | 跨国比较英德苏三国学校领导者经验，揭示英格兰高利害治理如何异化 EEF 工具包为表演性合规与防御性辩护工具。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | Argument | 揭示 EEF 的 1.25 亿英镑启动资金源自削减免费学生校餐预算，并剖析其背后的跨国投行与[[Venture Philanthropy\|风险慈善]]网络。 |

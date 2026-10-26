@@ -15,7 +15,7 @@ argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: ECNU Review of Education
-citation: "Ross, S. M., & Morrison, J. R. (2021). Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges. ECNU Review of Education, 4(1), 108-127."
+citation: "Ross, S. M., & Morrison, J. R. (2021). Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges. ECNU Review of Education, 4(1), 108–127."
 tags:
   - region/us
   - theme/evidence-based-education

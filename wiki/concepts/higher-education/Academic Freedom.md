@@ -96,7 +96,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -210,7 +210,7 @@ updated: 2026-10-25
 > [!claim] [[Argument_Woo_2023_HEP|Woo (2023)]]
 > **治理哲学分野与国家发展导向的学术使命** 简·吴（Jan Woo）在对比[[Washington Consensus|华盛顿共识]]与[[Beijing Consensus|北京共识]]在全球高等教育治理中的[[Discourse|话语]]对峙时指出，西方传统高等教育模式将学术自由、大学自治与个人主义价值观视作核心治理信条；然而在发展型国家治理范式下，高等教育机构全面嵌入国家发展战略大局，社会稳定与宏观国家规划被置于优先地位。学术共同体的首要使命在于攻坚关键核心技术、支撑产业升级与服务地缘发展战略，从而在治理哲学层面重构了学术自主与国家战略目标之间的制度关系。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 689–690)]]
 
-> [!claim] [[Argument_Velasco_2022_CSJ|Velasco, J. C. (2022)]]
+> [!claim] [[Argument_Velasco_2022_CSJ|Velasco (2022)]]
 > **大学战略从属治理与跨国孔院学术自由争议的外溢制约** Velasco 考察中国高等教育国际化指出，中国大学治理逻辑与西方学术自由传统存在制度分野：大学的涉外办学与科研探索被深度整编进国家对外战略大局，服从于提升国家软实力与地缘影响力的总体目标。然而，在西方国家针对孔子学院损害学术自主的批判外溢背景下，东南亚学界与社会舆论对中国涉外教育项目保持警惕，担忧过度依附外部资金会侵蚀本地学术独立与课堂话语空间。这种制度差异与防范心理，构成了发展型国家高教对外投射中不可忽视的合法性制约。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 79–80, 85–86)]]
 
 ---
@@ -220,7 +220,7 @@ updated: 2026-10-25
 > |---|---|---|---|
 > | **知识生产与范式多元** | 学术自由与客观性确立大学高渗透性，范式选择自由破除单一学派垄断并维系理论多元主义 | 产学协同萌发、跨学科网络、学科认识论范式争鸣 | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b)]]; [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] |
 > | **产学产权与组织缓冲** | 前竞争研发红线与分层资助矩阵化解知识产权毒丸，多学科生态赋予学者跨界合作自由 | 产业赞助协议、大学衍生企业孵化、产学联合研发中心治理 | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison and Wilson (2025)]]; [[Argument_Hall_2025_EthicalLegalFrameworks\|Hall (2025)]]; [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]]; [[Argument_Mody_2017_MOH\|Mody (2017)]] |
-> | **教学评价与远距离操纵** | 教师评价自主权阻隔行政刚性指令，总额预算与事后同行评估达成专业自治与公帑问责共生 | 高校学业考核改革、国家资格框架转译、高教宏观规制范式转型 | [[Argument_Bouckaert_2023_OECD\|Bouckaert / OECD (2023)]]; [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
+> | **教学评价与远距离操纵** | 教师评价自主权阻隔行政刚性指令，总额预算与事后同行评估达成专业自治与公帑问责共生 | 高校学业考核改革、国家资格框架转译、高教宏观规制范式转型 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]]; [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
 > | **资源内卷与技术安全化** | 竞争过度导致同行评议保守化诱发避险自我审查，地缘政治安全审查挤压跨国合作空间 | 科研资助体制评审机制、青年学者生存考核、战略技术国际合作治理 | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008)]]; [[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025)]]; [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] |
 > | **民主制衡与社会良知** | 学术自由的终极合法性在于基于客观实证面向公权力讲真话，发挥权力制衡并抵御政治殖民 | 大学法定社会职能辩护、公共政策批判、反思新管理主义 | [[Argument_Grace_2010_NZJES\|Grace (2010)]] |
 > | **发展型国家治理分野** | 发展型国家将学术机构嵌入国家战略与社会稳定大局，展现与西方自由主义学术自由的哲学分野 | 全球高教治理模式比较、[[South-South Cooperation\|南南教育合作]]、国家战略技术攻坚 | [[Argument_Woo_2023_HEP\|Woo (2023)]]; [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] |

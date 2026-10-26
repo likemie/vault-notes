@@ -53,13 +53,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] Deliberative Policy Dialogue
-> 审议性政策对话（Deliberative Policy Dialogue）是一种发源于循证卫生治理领域、后被系统移植至[[International Education|国际教育]]公共政策中的质性证据转化与政策协商方法。该方法由世界卫生组织[[EVIPNet|证据知情政策网络]]（Evidence-informed [[Policy Network]], EVIPNet）及加拿大麦克马斯特大学健康论坛学者约翰·拉维斯（John Lavis）等奠定理论与操作基底。其核心规程是组织决策官员、前沿科研学者、基层实务人员与社会组织代表，在“避风港原则（Safe Haven）”保障的闭门环境中，围绕预先编制的同侪评审政策证据简报，开展结构化平等研讨，以消除科学证据与行政决策之间的认知和利益隔阂。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 34–36, 81–82)]]
+> 审议性政策对话（Deliberative Policy Dialogue）是一种发源于循证卫生治理领域、后被系统移植至[[International Education|国际教育]]公共政策中的质性证据转化与政策协商方法。该方法由世界卫生组织[[EVIPNet|证据知情政策网络]]（Evidence-informed [[Policy Network]], EVIPNet）及加拿大麦克马斯特大学健康论坛学者约翰·拉维斯（John Lavis）等奠定理论与操作基底。其核心规程是组织决策官员、前沿科研学者、基层实务人员与社会组织代表，在“避风港原则（Safe Haven）”保障的闭门环境中，围绕预先编制的同侪评审政策证据简报，开展结构化平等研讨，以消除科学证据与行政决策之间的认知和利益隔阂。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 34–36, 81–82)]]
 
 > [!method-scope] 方法范围
 > - **研究与转化对象** 复杂公共政策改革中的冲突议题、实证研究证据与政策制定者的实践[[Tacit Knowledge|默会知识]]（Tacit Knowledge）。
@@ -68,7 +68,7 @@ updated: 2026-10-23
 > - **输出形式** 形成不具有强制表决约束但凝结多方共识的审议对话纪要（Dialogue Summary）、政策行动实施建议书与后续实证研究优先清单。
 
 > [!citation-card] 审议性政策对话与避风港机制
-> 国家知识转化团队负责研制政策证据简报、主持政策对话并开展快速实证综合。“避风港”审议论坛或政策对话汇聚政策制定者、科研人员与民间社会代表，旨在激发结合具体情境且有证据支撑的地方行动。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 81)]]
+> 国家知识转化团队负责研制政策证据简报、主持政策对话并开展快速实证综合。“避风港”审议论坛或政策对话汇聚政策制定者、科研人员与民间社会代表，旨在激发结合具体情境且有证据支撑的地方行动。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 81)]]
 >
 > *At country-level, EVIPNet establishes teams who produce evidence briefs for policy, conduct policy dialogues and undertake rapid evidence syntheses and dissemination. 'Safe haven' deliberative forums or policy dialogues, involving policy-makers, researchers and civil society aim to stimulate context-specific, evidence-informed local action.*
 
@@ -89,9 +89,9 @@ updated: 2026-10-23
 ---
 
 > [!proc] 通用操作程序
-> 1. **议题界定与前置简报编制** 针对部委紧迫的改革议题，跨学科团队快速检索并系统评估全球与本土研究文献，编制严谨中立的政策证据简报（Evidence Brief for Policy），在会前两周分发至参会代表。简报必须详列问题的根源、三种可选解决路径的利弊实证以及已知的不确定性。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 34–35, 81)]]
+> 1. **议题界定与前置简报编制** 针对部委紧迫的改革议题，跨学科团队快速检索并系统评估全球与本土研究文献，编制严谨中立的政策证据简报（Evidence Brief for Policy），在会前两周分发至参会代表。简报必须详列问题的根源、三种可选解决路径的利弊实证以及已知的不确定性。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 34–35, 81)]]
 > 2. **多元代表精准招募与配对** 严格控制参会规模（通常 15–20 人），均衡覆盖政界（分管副部长或司局级官员）、学界（实证评估专家与[[Qualitative Research|质性研究]]者）、一线从业者（校长或教师代表）以及公民社会与受影响群体代表，确保边缘群体的合法权益在审议中具有发言权。
-> 3. **确立“避风港（Safe Haven）”研讨规则** 严格遵循查塔姆研究所规则（Chatham House Rule），会议全程闭门且严禁向外界或媒体披露发言人的姓名与隶属机构代码，为身处舆论快车道的政府决策官员构筑高度安全的心理空间，促使其坦陈真实的财政预算约束与行政阻力。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 34–35)]]
+> 3. **确立“避风港（Safe Haven）”研讨规则** 严格遵循查塔姆研究所规则（Chatham House Rule），会议全程闭门且严禁向外界或媒体披露发言人的姓名与隶属机构代码，为身处舆论快车道的政府决策官员构筑高度安全的心理空间，促使其坦陈真实的财政预算约束与行政阻力。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 34–35)]]
 > 4. **聚焦审议而非辩论表决** 议程禁止发起形式主义的投票站队，亦不容许漫无边际的长篇演说。主持人引导与会者逐一检视证据简报提出的政策选项，将学术统计数据与官员的科层运作逻辑、一线教师的实操阻力进行逐项对质碰撞。
 > 5. **行动共识提炼与快速分发** 会议秘书处在对话结束后数日内整理并发布非归属性的审议纪要，明确列出各方在政策方向上的共识区域、尚存分歧的实质争议点以及迫切需要补充开展的研究课题，作为直接递交部长办公会审定的内参支持。
 

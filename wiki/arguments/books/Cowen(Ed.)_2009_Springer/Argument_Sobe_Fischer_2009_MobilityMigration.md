@@ -20,7 +20,7 @@ publication_place: "Dordrecht"
 publisher: "Springer"
 year: 2009
 isbn: "978-1-4020-6402-9"
-citation: "Sobe, N. W. & Fischer, M. G. (2009). Mobility, Migration and Minorities in Education. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 359–371). Dordrecht: Springer."
+citation: "Sobe, N. W. & Fischer, M. G. (2009). Mobility, migration and minorities in education. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 359–371). Springer."
 citation_aliases:
   - "Sobe & Fischer, 2009"
   - "Sobe and Fischer (2009)"

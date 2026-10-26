@@ -40,19 +40,19 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 太平洋岛国读写与计算能力测评（Pacific Islands Literacy and Numeracy Assessment, PILNA）是 2012 年由太平洋共同体教育质量与评估项目（EQAP/[[Statistical Process Control|SPC]]，设于斐济苏瓦）发起的区域大规模教育评价体系。该机制专门服务于大洋洲 15 个小岛屿发展中国家（SIDS），针对小学四年级与六年级学生开展长周期识字与数学能力基准监测，是南太平洋地区规模最大、最系统反映小岛屿地理隔绝情境下教育质量的跨国实证基础设施。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 8, 16)]]
+> 太平洋岛国读写与计算能力测评（Pacific Islands Literacy and Numeracy Assessment, PILNA）是 2012 年由太平洋共同体教育质量与评估项目（EQAP/[[Statistical Process Control|SPC]]，设于斐济苏瓦）发起的区域大规模教育评价体系。该机制专门服务于大洋洲 15 个小岛屿发展中国家（SIDS），针对小学四年级与六年级学生开展长周期识字与数学能力基准监测，是南太平洋地区规模最大、最系统反映小岛屿地理隔绝情境下教育质量的跨国实证基础设施。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 8, 16)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2012 年启动首轮测试，以三年为一轮常态化实施，已相继完成 2012、2015、2018 及 2021 四大大型评估轮次。
 > - **发起方与资助机制** 由太平洋共同体（SPC）常设的教育质量与评估项目（EQAP）主导，主要资金依托澳大利亚政府外交贸易部（DFAT）及新西兰外交贸易部（MFAT）的长期区域援助计划。
 > - **覆盖范围与对象** 覆盖库克群岛、密克罗尼西亚联邦、斐济、基里巴斯、瑙鲁、纽埃、帕劳、巴布亚新几内亚、马绍尔群岛、萨摩亚、所罗门群岛、托克劳、汤加、图瓦卢、瓦努阿图等 15 个太平洋岛国，抽样逾千所岛屿学校的数万名学生。
-> - **核心问题导向** 针对小岛屿国家地广人稀、外岛交通极其不便、偏远岛屿复式教学师资匮乏及气候脆弱性等对基础学力的深层制约。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 16)]]
+> - **核心问题导向** 针对小岛屿国家地广人稀、外岛交通极其不便、偏远岛屿复式教学师资匮乏及气候脆弱性等对基础学力的深层制约。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 16)]]
 > - **官方平台与在线门户** 官方门户为 [Pacific Islands Literacy and Numeracy Assessment (PILNA)](https://pilna.eqap.spc.int/)，提供核心业务信息与公开资源检索。
 
 ---
@@ -67,7 +67,7 @@ updated: 2026-10-23
 > [!dev-timeline] 项目推进历程
 > - **2012 — 首轮先导性测评（PILNA 2012）** 首次在 14 个岛国实施识字与算术测试，揭示大部分学生未能达到预期基本学力标准的严峻现实，促使太平洋岛国论坛领导人将教育质量列为最高优先事项。
 > - **2015–2018 — 周期化深化与技术升级（PILNA 2015 & 2018）** 引入现代[[Item Response Theory|项目反应理论]]（IRT）三参数模型与精细化背景[[Questionnaire|问卷]]，系统跟踪四年级向六年级的学力增值轨迹。
-> - **2021 — 疫情冲击下的坚韧监测（PILNA 2021）** 克服极端气候风暴与新冠封锁困难，全面完成第四轮测试，为小岛屿国家疫后复学提供了首手损失评估数据；在[[UNESCO|教科文组织]]全球战略审查中被列为区域测评动员政治支持的范例。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 8, 16)]]
+> - **2021 — 疫情冲击下的坚韧监测（PILNA 2021）** 克服极端气候风暴与新冠封锁困难，全面完成第四轮测试，为小岛屿国家疫后复学提供了首手损失评估数据；在[[UNESCO|教科文组织]]全球战略审查中被列为区域测评动员政治支持的范例。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 8, 16)]]
 
 ---
 
@@ -78,4 +78,4 @@ updated: 2026-10-23
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 记录 PILNA 作为区域大规模测评在激发大洋洲岛国公众关注与支持重大教育决策中的关键角色（pp. 8, 16）。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 记录 PILNA 作为区域大规模测评在激发大洋洲岛国公众关注与支持重大教育决策中的关键角色（pp. 8, 16）。

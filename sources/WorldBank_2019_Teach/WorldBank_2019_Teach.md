@@ -1,5 +1,5 @@
 ---
-citation: "World Bank. (2019). Teach: Observer manual (1st ed.). World Bank, Washington, DC."
+citation: "World Bank. (2019). Teach: Observer manual (1st ed.)."
 extracted_to:
   - "[[Argument_WorldBank_2019_Teach]]"
 processed_date: 2026-10-15

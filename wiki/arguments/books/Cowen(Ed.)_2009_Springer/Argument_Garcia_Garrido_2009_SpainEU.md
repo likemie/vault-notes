@@ -19,7 +19,7 @@ publication_place: "Dordrecht"
 publisher: "Springer"
 year: 2009
 isbn: "978-1-4020-6402-9"
-citation: "García Garrido, J. L. (2009). The European Union and Education in Spain. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 321–334). Dordrecht: Springer."
+citation: "García Garrido, J. L. (2009). The European Union and education in Spain. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 321–334). Springer."
 citation_aliases:
   - "García Garrido, 2009"
   - "García Garrido (2009)"

@@ -1,5 +1,5 @@
 ---
-citation: "Darwish, B. (2009). Education as a Political Act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge Curriculum (Master's thesis). Faculty of Education, Queen's University."
+citation: "Darwish, B. (2009). Education as a political act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge curriculum (Master's thesis). Faculty of Education, Queen's University."
 extracted_to:
   - "[[Argument_Darwish_2009_Queens]]"
 processed_date: 2026-07-25

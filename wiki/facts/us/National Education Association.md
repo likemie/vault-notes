@@ -183,7 +183,7 @@ updated: 2026-10-26
 > | [[OECD]] | Fact (Organization) | 2011 年起与 NEA、美国教育部共同创办并主办 [[International Summits on the Teaching Profession\|ISTP]] 峰会的国际组织。 |
 > | [[Centre for Educational Research and Innovation]] | Fact (Organization) | 为 ISTP 峰会提供循证背景报告与研究支持的智库平台。 |
 > | [[Democratising Evidence]] | Concept | NEA 倡导的教师主体赋权与数据共同所有权的核心理念映射。 |
-> | [[Argument_Verger_2019_Discourse\|Verger, Parcerisa and Fontdevila (2019)]] | Argument | 剖析全美教师工会在 NCLB 基于测验的问责制下的策略谨慎与教育公平话语困境。（p. 260） |
+> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | Argument | 剖析全美教师工会在 NCLB 基于测验的问责制下的策略谨慎与教育公平话语困境。（p. 260） |
 
 ---
 
@@ -191,5 +191,5 @@ updated: 2026-10-26
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 系统记录全美教育协会（NEA）抽调全美委员会认证教师审读 [[Common Core State Standards|CCSS]] 草案，就技能与知识界定、信息价值评估提出关键修正，以专业审慎弥补实证空白的政策过程。（pp. 15, 20）
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 在关于[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共生关系的[[Meta-analysis|元分析]]中，明确将全美教育协会 2012 年《教育者 4C 指南》列为阐释两者在基础教育中核心地位的权威国家机构文本。（p. 1）
 > - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] — 记录 NEA 联手美国教育部、[[OECD|经合组织]]与[[Education International|国际教育协会]]创设[[International Summits on the Teaching Profession|国际教师职业峰会]]（ISTP）的历史突破，阐明教师工会组织化发声在跨国[[Output-Oriented Governance|循证治理]]中的关键支柱地位。（pp. 211, 216）
-> - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 揭示美国主要教师工会（NEA 与 AFT）面对 NCLB 测试问责制时的政治审慎态度，分析教育公平话语框架与公众信任赤字如何制约工会的统一抗争。（p. 260）
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 揭示美国主要教师工会（NEA 与 AFT）面对 NCLB 测试问责制时的政治审慎态度，分析教育公平话语框架与公众信任赤字如何制约工会的统一抗争。（p. 260）
 

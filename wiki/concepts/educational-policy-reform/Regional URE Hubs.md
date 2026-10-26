@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -61,10 +61,10 @@ updated: 2026-10-23
 > - **边界** 区别于重新设立昂贵的跨国官僚机构，亦区别于商业咨询承包商；其机制关键在于依托既有成熟地缘网络进行能力授权与制度化嵌入。
 
 > [!def] Regional URE Hubs
-> 区域研究证据利用枢纽（Regional Hubs for the [[Research Utilization|Use of Research Evidence]], Regional URE Hubs）是由吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者在[[UNESCO|联合国教科文组织]]《[[Global Education Monitoring Report|全球教育监测报告]]》背景战略审查中确立的治理机制模型。该[[Construct|构念]]作为修复“全球实证海量供给与国家本土现实需求脱节”（第二重反馈回路断裂）的核心支柱，主张摒弃自上而下新建跨国官僚机构的传统模式，转而由教科文组织全球合作机制（[[Global Education Cooperation Mechanism|GCM]]）正式遴选并授权已具深厚地缘信誉的成熟区域网络，统筹执行三大法定职能：支持国家常设循证机构建设与本土语言转译、培育区域内部跨国部委[[Communities of Practice|实践共同体]]（CoPs）以及自下而上向[[UN Sustainable Development Goals|可持续发展目标]]高级别指导委员会（HLSC）汇总国家优先议题与监测评估学习（MEL）数据。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 43–46)]]
+> 区域研究证据利用枢纽（Regional Hubs for the [[Research Utilization|Use of Research Evidence]], Regional URE Hubs）是由吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者在[[UNESCO|联合国教科文组织]]《[[Global Education Monitoring Report|全球教育监测报告]]》背景战略审查中确立的治理机制模型。该[[Construct|构念]]作为修复“全球实证海量供给与国家本土现实需求脱节”（第二重反馈回路断裂）的核心支柱，主张摒弃自上而下新建跨国官僚机构的传统模式，转而由教科文组织全球合作机制（[[Global Education Cooperation Mechanism|GCM]]）正式遴选并授权已具深厚地缘信誉的成熟区域网络，统筹执行三大法定职能：支持国家常设循证机构建设与本土语言转译、培育区域内部跨国部委[[Communities of Practice|实践共同体]]（CoPs）以及自下而上向[[UN Sustainable Development Goals|可持续发展目标]]高级别指导委员会（HLSC）汇总国家优先议题与监测评估学习（MEL）数据。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 43–46)]]
 
 > [!citation-card] 区域枢纽的授权定位与双向治理功能
-> 识别在促进有效研究证据利用方面已有成熟经验的区域组织，并将其指定为区域证据利用枢纽（例如[[Africa Evidence Network|非洲证据网络]]）。通过正式遴选赋予其权威性与合法性，以拓展其对各国的支持业务。这些区域枢纽应成为既有区域可持续发展目标协调机制的核心，既与国家政府保持密切联系，又在垂直方向向上衔接高级别指导委员会。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 42–43)]]
+> 识别在促进有效研究证据利用方面已有成熟经验的区域组织，并将其指定为区域证据利用枢纽（例如[[Africa Evidence Network|非洲证据网络]]）。通过正式遴选赋予其权威性与合法性，以拓展其对各国的支持业务。这些区域枢纽应成为既有区域可持续发展目标协调机制的核心，既与国家政府保持密切联系，又在垂直方向向上衔接高级别指导委员会。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 42–43)]]
 >
 > *Identify already effective URE regional INPs to support as hubs in a collaborative process... This group is given authority and legitimacy by their selection as Regional URE Hub to expand and extend their current successful URE support to countries... The regional URE hubs should be at the core of these regional mechanisms, with links to other regional hubs, IOs and INPs, and linked to the HLSC.*
 
@@ -75,9 +75,9 @@ updated: 2026-10-23
 ---
 
 > [!feature] 核心职能模块（表 5.2 行动架构）
-> - **国家系统支撑（Support to National URE Systems）** 提升实证研究对国家战略的现实适切性，为国家官方语言及本土少数民族语言的[[Research Translation|研究转译]]提供专项经费；资助教育部委设立常设循证处室，为国家政策制定导入制度性奖惩约束；覆盖可持续发展目标全套指标，兼顾中高层技能与高等教育。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 45)]]
-> - **横向多维协调（Horizontal Coordination & CoPs）** 促进区域内不同国家部委官员之间的同行学习（借鉴[[PISA for Development|发展中国家国际学生评估项目]]同伴机制），培育跨界实践共同体（Communities of Practice, CoPs）。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 45)]]
-> - **垂直双向贯通（Vertical Coordination & Reporting）** 承担自下而上的国家优先议题汇总，向高级别指导委员会报告；统筹国家监测、评估与学习（MEL）数据向全球反馈，确立自适应管理机制。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 45)]]
+> - **国家系统支撑（Support to National URE Systems）** 提升实证研究对国家战略的现实适切性，为国家官方语言及本土少数民族语言的[[Research Translation|研究转译]]提供专项经费；资助教育部委设立常设循证处室，为国家政策制定导入制度性奖惩约束；覆盖可持续发展目标全套指标，兼顾中高层技能与高等教育。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 45)]]
+> - **横向多维协调（Horizontal Coordination & CoPs）** 促进区域内不同国家部委官员之间的同行学习（借鉴[[PISA for Development|发展中国家国际学生评估项目]]同伴机制），培育跨界实践共同体（Communities of Practice, CoPs）。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 45)]]
+> - **垂直双向贯通（Vertical Coordination & Reporting）** 承担自下而上的国家优先议题汇总，向高级别指导委员会报告；统筹国家监测、评估与学习（MEL）数据向全球反馈，确立自适应管理机制。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 45)]]
 
 ---
 

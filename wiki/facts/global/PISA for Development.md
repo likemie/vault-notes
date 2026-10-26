@@ -53,25 +53,25 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 发展中国家[[PISA\|国际学生评估项目]]（PISA for Development，PISA-D）是[[OECD\|经合组织]]（[[OECD]]）于 2014 年启动的战略性定制测评工程，旨在通过改进 [[PISA]] 测量工具以适应中低收入国家的教育现实；标志着经合组织正式打破传统富国俱乐部边界，跨界进军全球南方，与[[World Bank\|世界银行]]和[[UNESCO\|联合国教科文组织]]争夺全球基础素养监测的制度主导权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 544–545)]]
+> 发展中国家[[PISA\|国际学生评估项目]]（PISA for Development，PISA-D）是[[OECD\|经合组织]]（[[OECD]]）于 2014 年启动的战略性定制测评工程，旨在通过改进 [[PISA]] 测量工具以适应中低收入国家的教育现实；标志着经合组织正式打破传统富国俱乐部边界，跨界进军全球南方，与[[World Bank\|世界银行]]和[[UNESCO\|联合国教科文组织]]争夺全球基础素养监测的制度主导权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–545)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2014 年正式立项启动试点研发，2014–2018 年推进在校与校外青少年的野外实测，其工具改良成果于 2020 年代全盘被常规主线 PISA 吸收整合。
 > - **发起方与资助机制** 由经合组织主导，联合世界银行、美洲开发银行及英美德法多国双边援助机构联合出资补贴，参与试点国承担本地技术团队对等配套。
 > - **覆盖范围与对象** 首批试点涵盖拉丁美洲（厄瓜多尔、危地马拉、洪都拉斯、巴拉圭、巴拿马）、非洲（塞内加尔、赞比亚）及亚洲（柬埔寨、不丹）等 9 个发展中国家；涵盖在校 15 岁中学生及被传统学校测验遗漏的校外青少年。
-> - **核心问题导向** 解决常规 PISA 在中低收入国家中普遍遭遇的严重“[[Floor and Ceiling Effects\|地板效应]]（Floor Effect）”（大部分学生聚集在最低素养等级以下而无法有效区分认知能力差异），以及传统学校抽样无法覆盖庞大失学边缘青少年的代表性缺陷。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 544)]]
+> - **核心问题导向** 解决常规 PISA 在中低收入国家中普遍遭遇的严重“[[Floor and Ceiling Effects\|地板效应]]（Floor Effect）”（大部分学生聚集在最低素养等级以下而无法有效区分认知能力差异），以及传统学校抽样无法覆盖庞大失学边缘青少年的代表性缺陷。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
 > - **官方平台与在线门户** 官方门户为 [OECD PISA for Development](https://www.oecd.org/pisa/pisa-for-development/)，提供核心业务信息与公开资源检索。
 
 ---
 
 > [!claim] 核心干预／机制假说
-> [[PISA]]-D 的核心假说认为：全球南方国家无法通过机械套用发达国家的测验直接指导改革，必须通过扩展低阶能力测量刻度并打通校外家庭抽样，建立能够灵敏反映极端贫困与师资匮乏背景的跨国量化坐标系，从而为落实[[UN Sustainable Development Goals\|联合国可持续发展目标]]（[[UN Sustainable Development Goals\|SDG 4]]）提供科学基准。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 544–545)]]
+> [[PISA]]-D 的核心假说认为：全球南方国家无法通过机械套用发达国家的测验直接指导改革，必须通过扩展低阶能力测量刻度并打通校外家庭抽样，建立能够灵敏反映极端贫困与师资匮乏背景的跨国量化坐标系，从而为落实[[UN Sustainable Development Goals\|联合国可持续发展目标]]（[[UN Sustainable Development Goals\|SDG 4]]）提供科学基准。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–545)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 开发适应中低收入国家认知水平的普适性测评量表，构建覆盖在校与校外青少年的统一评估架构，提升伙伴国自主实证分析与政策转译能力。
@@ -80,7 +80,7 @@ updated: 2026-10-23
 > - **实施控制** 采用纸笔测验与平板入户调查并行模式，建立严格的跨国等值化参数锚定规程，确保其得分与主线 PISA 量表绝对互通。
 
 > [!citation-card] [[OECD\|经合组织]]测评帝国向全球南方的扩张与组织间竞争
-> 随着经合组织的 PISA 测评全面扩张至非经合组织伙伴国（通过 PISA-D 等工具），这些国际组织（[[Global Partnership for Education\|GPE]]、OECD、[[UNESCO]]、[[UNICEF]] 与[[World Bank\|世界银行]]）如今在很大程度上处于同一批国家开展业务竞争的重叠格局。各国际组织之间围绕全球规范制定与政策影响力的争夺日益白热化，多边机构正通过扩展其测评工具与建立排他性跨界联盟来标定各自的势力范围。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 544)]]
+> 随着经合组织的 PISA 测评全面扩张至非经合组织伙伴国（通过 PISA-D 等工具），这些国际组织（[[Global Partnership for Education\|GPE]]、OECD、[[UNESCO]]、[[UNICEF]] 与[[World Bank\|世界银行]]）如今在很大程度上处于同一批国家开展业务竞争的重叠格局。各国际组织之间围绕全球规范制定与政策影响力的争夺日益白热化，多边机构正通过扩展其测评工具与建立排他性跨界联盟来标定各自的势力范围。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
 >
 > *With the OECD’s PISA expansion into non-OECD partner countries, these IOs now operate in great part in the same countries. A preliminary assessment seems to suggest that the five main IOs in education have increased their competition over the past few years... demarcating their territory and extolling their comparative advantage vis-à-vis other IOs.*
 
@@ -89,7 +89,7 @@ updated: 2026-10-23
 > [!dev-timeline] 项目推进历程
 > - **2014–2016 年 — 理论框架调整与工具本土化期** 重新标定阅读、数学与科学试题难度参数，设计入户失学儿童访调量表，在塞内加尔、赞比亚等地建立国家协调团队。
 > - **2016–2018 年 — 跨洲试点实测与数据清洗期** 完成 9 国数万名在校与校外青少年野外实测，首次在国际大规模测评中成功将失学青少年的认知素养映射到主线 [[PISA]] 坐标尺上。
-> - **2019 年至今 — 主线吸纳与 [[UN Sustainable Development Goals\|SDG 4]] 监测工具化** 发布全球综合技术评估报告；其创立的低阶能力量规（1b 与 1c 级）被正式并入全球主线 PISA 2021/2022 测评体系，[[OECD\|经合组织]]据此正式成为联合国监测 SDG 4.1.1 关键指标的法定数据提供方。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 544)]]
+> - **2019 年至今 — 主线吸纳与 [[UN Sustainable Development Goals\|SDG 4]] 监测工具化** 发布全球综合技术评估报告；其创立的低阶能力量规（1b 与 1c 级）被正式并入全球主线 PISA 2021/2022 测评体系，[[OECD\|经合组织]]据此正式成为联合国监测 SDG 4.1.1 关键指标的法定数据提供方。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
 
 ---
 
@@ -117,7 +117,7 @@ updated: 2026-10-23
 > - **对[[OECD\|经合组织]]测验工具的结构性反哺** 证明拓展后的低难度题目在测量发展中国家认知分布时展现出极佳的测量效度，直接推动经合组织将常规 PISA 测验的标尺下限永久下移。
 
 > [!stat-cards]- 关键实证数据
-> 涵盖 3 大洲 9 个发展中国家；测试逾 50,000 名在校学生及 10,000 余名家庭入户失学青少年；成功确立 1b 与 1c 级全球最低认知基准。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 544)]]
+> 涵盖 3 大洲 9 个发展中国家；测试逾 50,000 名在校学生及 10,000 余名家庭入户失学青少年；成功确立 1b 与 1c 级全球最低认知基准。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
 
 ---
 

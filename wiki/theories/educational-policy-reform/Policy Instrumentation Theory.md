@@ -64,7 +64,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -168,7 +168,7 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 结合政策工具社会学与[[Historical Institutionalism|历史制度主义]]，通过全球 158 篇文献系统解构国家评估与[[Test-Based Accountability|考试问责]]工具在三大行政传统下的分层化演进与制度锁定机制。（pp. 249–264）
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 结合政策工具社会学与[[Historical Institutionalism|历史制度主义]]，通过全球 158 篇文献系统解构国家评估与[[Test-Based Accountability|考试问责]]工具在三大行政传统下的分层化演进与制度锁定机制。（pp. 249–264）
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 援引拉斯库姆等政策工具理论，分析[[European Education Space|欧洲教育空间]]如何将数据指标作为[[Governing by Numbers|数字治理]]装置实现远处掌舵。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 运用政策工具理论审视跨国大学联盟的准入标准与组织架构，透视高等教育网络中的[[Knowledge Power|知识权力]]投射。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合政策工具分析指出跨国量化评估如何借助[[Technical Rationality|技术理性]]装置将政治价值决断降维为效率测度。

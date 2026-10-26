@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -191,4 +191,4 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Macher_1998_CMR|Macher, Mowery, & Hodges (1998)]] — 借助加州大学伯克利分校 [[Competitive Semiconductor Manufacturing Program|CSM]] 项目跨国产线实证标杆数据，首次系统[[Falsification|证伪]]了技术驱动产品假设，奠定了逻辑制程独立演进的微观证据基础。
+> - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 借助加州大学伯克利分校 [[Competitive Semiconductor Manufacturing Program|CSM]] 项目跨国产线实证标杆数据，首次系统[[Falsification|证伪]]了技术驱动产品假设，奠定了逻辑制程独立演进的微观证据基础。

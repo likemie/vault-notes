@@ -14,7 +14,7 @@ argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
 journal: Comparative Education
-citation: "Klerides, E. (2023). Comparative education and international relations. Comparative Education, 59(3), 416-435."
+citation: "Klerides, E. (2023). Comparative education and international relations. Comparative Education, 59(3), 416–435."
 source_language: en
 tags:
   - subject/comparative-education

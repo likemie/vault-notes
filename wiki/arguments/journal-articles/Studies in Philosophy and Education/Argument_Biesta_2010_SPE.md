@@ -14,7 +14,7 @@ argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Studies in Philosophy and Education
-citation: "Biesta, G. J. J. (2010). Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education. Studies in Philosophy and Education, 29(5), 491–503."
+citation: "Biesta, G. J. J. (2010). Why 'what works' still won't work: From evidence-based education to value-based education. Studies in Philosophy and Education, 29(5), 491–503."
 tags:
 - evidence-based-education
 - value-based-education

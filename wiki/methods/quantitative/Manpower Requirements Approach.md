@@ -49,13 +49,13 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] Manpower Requirements Approach
-> **人力需求预测法（Manpower Requirements Approach，MRA / 人力规划）** 是教育经济学与公共政策规划领域的一种宏观定量预测模型。该方法立足于[[Technical Rationality|技术官僚理性]]，假定国家或区域在未来特定时期的经济总产出目标与产业技术结构之间存在刚性的固定投入产出系数；通过将国民经济增长目标层层解构为行业产值、职业工种构成及对应的合格学历门槛，自上而下地计算出劳动力市场的技能缺口，并以此作为刚性约束指标反推国家各级各类教育系统（初等、中等、中职、高职与高等教育）的招生配额、专业结构与基建投资规模。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+> **人力需求预测法（Manpower Requirements Approach，MRA / 人力规划）** 是教育经济学与公共政策规划领域的一种宏观定量预测模型。该方法立足于[[Technical Rationality|技术官僚理性]]，假定国家或区域在未来特定时期的经济总产出目标与产业技术结构之间存在刚性的固定投入产出系数；通过将国民经济增长目标层层解构为行业产值、职业工种构成及对应的合格学历门槛，自上而下地计算出劳动力市场的技能缺口，并以此作为刚性约束指标反推国家各级各类教育系统（初等、中等、中职、高职与高等教育）的招生配额、专业结构与基建投资规模。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 宏观国民经济产业结构、行业劳动力总量、职业技术系数矩阵以及各级各类教育系统的学额供给链。
@@ -64,7 +64,7 @@ updated: 2026-10-22
 > - **输出形式** 多年期教育扩张指标表、专业招生计划指导目录、师资培养配额及教育财政资本性支出预算方案。
 
 > [!citation-card] 经合组织早期人力规划的技术官僚属性与五年计划模仿
-> 在这一重新定位的浪潮中，该组织投入了大量资源来开发教育统计数据，并利用控制论和[[Human Capital Theory\|人力资本理论]]，探索如何通过更有效的规划来优化教育。经合组织在 20 世纪 60 年代至 70 年代初的人力规划呈现出相对技术官僚化的特征，模仿了共产主义阵营的多年度五年计划模式，极度专注于对劳动力市场需求的精确预测。随着时间推移，指标乃至基准的开发逐步形成了其自身的独立生命力。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> 在这一重新定位的浪潮中，该组织投入了大量资源来开发教育统计数据，并利用控制论和[[Human Capital Theory\|人力资本理论]]，探索如何通过更有效的规划来优化教育。经合组织在 20 世纪 60 年代至 70 年代初的人力规划呈现出相对技术官僚化的特征，模仿了共产主义阵营的多年度五年计划模式，极度专注于对劳动力市场需求的精确预测。随着时间推移，指标乃至基准的开发逐步形成了其自身的独立生命力。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 >
 > *In the wake of this repositioning, the organisation poured considerable resources into developing education statistics and figuring out how education could be optimised by utilizing more effective planning, drawing on cybernetics and human capital theory (Popkewitz 2022). Mimicking the multi-year plans of the communist world, the OECD’s manpower planning in the 1960s and early 1970s was relatively technocratic and preoccupied with forecasting labour market needs. Over time, the development of indicators, and eventually benchmarks, took on a life of their own.*
 
@@ -116,7 +116,7 @@ ightarrow$ 学历资质构成。假定在各环节比例保持技术外生稳定
 >
 > **结果怎么读** 计算出的 $L_{e,t}$ 减去基期存量扣除退休折旧后的存活劳动力，即为教育系统在规划期内必须累计培养输送的毕业生绝对人数。
 >
-> **注意事项** 该公式隐含关键的零弹性假设——即假定生产技术系数、职业构成与学历要求在预测期内是固定的，排除了雇主在面对学历溢价变化时用低学历熟练工替代高学历大学生的市场调节可能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> **注意事项** 该公式隐含关键的零弹性假设——即假定生产技术系数、职业构成与学历要求在预测期内是固定的，排除了雇主在面对学历溢价变化时用低学历熟练工替代高学历大学生的市场调节可能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 > [!software-impl] 软件实现
 > - **数据处理** 在 Excel、Python (`pandas`)、R 中构建大型宏观投入产出转换矩阵。
@@ -125,7 +125,7 @@ ightarrow$ 学历资质构成。假定在各环节比例保持技术外生稳定
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 处于战后重建或工业化起飞初期的发展中国家；重化工业占主导、职业分工清晰、劳动力市场高度计划化或准入规制严格的宏观环境；跨国多边组织制定重大基础设施及教育扩张规划（如 1964 年 OECD 联合阿根廷国家发展委员会 CONADE 编制《教育规划中的方法论问题》）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
+> - **适合使用** 处于战后重建或工业化起飞初期的发展中国家；重化工业占主导、职业分工清晰、劳动力市场高度计划化或准入规制严格的宏观环境；跨国多边组织制定重大基础设施及教育扩张规划（如 1964 年 OECD 联合阿根廷国家发展委员会 CONADE 编制《教育规划中的方法论问题》）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
 > - **谨慎使用** 市场经济成熟、工资价格机制灵敏、技术创新迭代极快的后工业化社会。
 > - **不适合使用** [[Knowledge-Based Economy|知识经济]]、数字经济与第三产业占主导的现代高度不确定性社会，此时职业界限模糊，技能需求呈现非线性演化。
 
@@ -152,5 +152,5 @@ ightarrow$ 学历资质构成。假定在各环节比例保持技术外生稳定
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD|经合组织]]治理史，揭示其在 1960–1970 年代模仿苏联五年计划推行技术官僚化人力需求预测法，并最终催生指标帝国的演进脉络。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 梳理[[OECD|经合组织]]治理史，揭示其在 1960–1970 年代模仿苏联五年计划推行技术官僚化人力需求预测法，并最终催生指标帝国的演进脉络。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 考察 OECD 联合阿根廷 CONADE 推广人力规划法的实证过程，揭示技术官僚模型如何被包装为中立客观方案重塑受援国治理。

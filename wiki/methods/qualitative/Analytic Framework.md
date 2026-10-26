@@ -214,7 +214,7 @@ updated: 2026-10-26
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 构建涵盖证据概念界定、行动者角色、证据使用形态、整合转译机制与系统制度条件的五维分析框架，系统解构经合组织、联合国教科文组织与世界银行官方话语对证据文化的战略性塑造（pp. 342–344）。
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 援引 McLean and Gargani (2019) 规模化分析框架，从向上拓展（制度化）、向外拓展（覆盖面扩大）与向深拓展（规范文化重塑）三维维度，系统解构循证教育改革在规划与实施阶段的结构性赤字（p. 17）。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 援引 McLean and Gargani (2019) 规模化分析框架，从向上拓展（制度化）、向外拓展（覆盖面扩大）与向深拓展（规范文化重塑）三维维度，系统解构循证教育改革在规划与实施阶段的结构性赤字（p. 17）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统梳理[[Qualitative Research|质性研究]]中五大经典分析框架（叙事、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、[[Case Study|案例研究]]）的特征与操作规范。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 综合[[Dependency Theory|依附理论]]、历史唯物主义与[[Conditioned State Theory|受限国家理论]]，建构了用于剖析拉美教育扩张与国家政权演变的宏观政治经济学分析框架。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 构建涵盖合法性基础、制度与资源支持、自治空间、功能期待与责任结构的五维分析框架，系统考察二战后至 2025 年美国[[Social Contract of Science|科学的社会契约]]在稳定期、再协商期、危机重构期与技术型契约转型期的制度演进。

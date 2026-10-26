@@ -1,5 +1,5 @@
 ---
-citation: "Révai, N. (Ed.). (2022). Who cares about using education research in policy and practice?: Strengthening research engagement. Paris: OECD Publishing."
+citation: "Révai, N. (Ed.). (2022). Who cares about using education research in policy and practice?: Strengthening research engagement. OECD Publishing."
 extracted_to:
   - "[[Argument_Revai(Ed.)_2022_OECD]]"
 processed_date: 2026-09-12

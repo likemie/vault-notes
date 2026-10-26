@@ -25,7 +25,7 @@ citation_aliases:
   - "Gough et al., 2022"
   - "Gough et al. (2022)"
 isbn: 978-92-64-73132-5
-citation: "Gough, D., Sharples, J., & Maidment, C. (2022). Evidence on evidence-informed policy and practice. In N. Révai (Ed.), Who cares about using education research in policy and practice?: Strengthening research engagement (pp. 146–162). Paris: OECD Publishing. https://doi.org/10.1787/d7ff793d-en"
+citation: "Gough, D., Sharples, J., & Maidment, C. (2022). Evidence on evidence-informed policy and practice. In N. Révai (Ed.), Who cares about using education research in policy and practice?: Strengthening research engagement (pp. 146–162). OECD Publishing. https://doi.org/10.1787/d7ff793d-en"
 part_of: "[[Revai(Ed.)_2022_OECD]]"
 tags:
   - theme/knowledge-brokerage

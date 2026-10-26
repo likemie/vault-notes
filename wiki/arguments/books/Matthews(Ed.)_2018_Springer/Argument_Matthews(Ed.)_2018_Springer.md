@@ -21,7 +21,7 @@ publisher: "Springer"
 year: 2018
 doi: "10.1007/978-3-319-62616-1"
 isbn: "978-3-319-62614-7"
-citation: "Matthews, M. R. (Ed.). (2018). History, Philosophy and Science Teaching: New Perspectives. Cham: Springer."
+citation: "Matthews, M. R. (Ed.). (2018). History, philosophy and science teaching: New perspectives. Springer."
 tags:
   - paradigm/hps
   - subject/science-education

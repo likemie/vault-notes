@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-21
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -188,6 +188,6 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] — 创新性将 MTMM 矩阵扩展至宏观教育证据清算体系，把 10 个独立清算中心视为不同“评价方法（Methods）”，实证检验 1,359 个项目在跨机构评级上的[[Convergent and Discriminant Validity\|收敛效度]]与判别效度。
+> - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 创新性将 MTMM 矩阵扩展至宏观教育证据清算体系，把 10 个独立清算中心视为不同“评价方法（Methods）”，实证检验 1,359 个项目在跨机构评级上的[[Convergent and Discriminant Validity\|收敛效度]]与判别效度。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen, Manion, & Morrison (2011)]] — 系统阐释 MTMM 矩阵在心理与教育测量[[Construct Validity\|构念效度]]检验中的经典设计、区块划分与判别准则。
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 结合 Campbellian 效度传统，讨论跨设计与跨方法效度评估的一致性基准。

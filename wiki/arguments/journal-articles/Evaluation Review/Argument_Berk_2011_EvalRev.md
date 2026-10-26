@@ -14,7 +14,7 @@ argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Evaluation Review
-citation: "Berk, R. (2011). Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review. Evaluation Review, 35(3), 191-203."
+citation: "Berk, R. (2011). Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review. Evaluation Review, 35(3), 191–203."
 tags:
 - evaluation-research
 - evidence-based-policy

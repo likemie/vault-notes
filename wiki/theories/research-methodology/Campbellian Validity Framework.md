@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -245,4 +245,4 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 运用 Campbellian 框架阐释 [[What Works Clearinghouse\|WWC]] 组间实验与[[Single-Subject Design\|单一被试设计]]（[[Single-Case Design\|SCD]]）的[[Internal Validity\|内部效度]]门控逻辑与[[External Validity\|外部效度]]信息捕获机制。
-> - [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] — 创新性地将 Campbell and Fiske (1959) [[Multitrait-Multimethod Matrix\|MTMM]] 多质多法框架应用于清算中心评级一致性元评估，实证检验“基于证据”[[Construct\|构念]]的跨机构[[Convergent and Discriminant Validity\|收敛效度]]。
+> - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 创新性地将 Campbell and Fiske (1959) [[Multitrait-Multimethod Matrix\|MTMM]] 多质多法框架应用于清算中心评级一致性元评估，实证检验“基于证据”[[Construct\|构念]]的跨机构[[Convergent and Discriminant Validity\|收敛效度]]。

@@ -14,7 +14,7 @@ argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: British Educational Research Journal
-citation: "Wrigley, T. (2018). The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376. DOI: 10.1002/berj.3338"
+citation: "Wrigley, T. (2018). The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376. https://doi.org/10.1002/berj.3338"
 tags:
   - evidence-based-education
   - evidence-based-teaching

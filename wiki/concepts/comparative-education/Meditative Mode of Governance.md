@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -134,7 +134,7 @@ updated: 2026-10-25
 > > 批判学者指责调解模式将特定文化情境下的教育经验普适化，忽视制度移植的文化土壤。
 > >
 > > - **赵勇（2020）** 指出经合组织打包推介的“有效做法”大多基于单一维度的标准化测验表现，剥离了教育在生态多样性、文化传承与创造力培养上的复杂内涵，导致移植国出现应试强化与生态退化。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
-> > - **施泰纳-哈姆西（2024）** 强调调解模式输出的通用工具箱实际上消解了比较教育学关注的本土脉络特质，将政策制定异化为机械的去情境化处方采购。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 542–544)]]
+> > - **施泰纳-哈姆西（2024）** 强调调解模式输出的通用工具箱实际上消解了比较教育学关注的本土脉络特质，将政策制定异化为机械的去情境化处方采购。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 542–544)]]
 
 > [!warning] 适用局限
 > 调解模式的推行效果高度取决于主权国家内部的制度吸收能力与政治共识；当一国内部存在强大的联邦制分权阻力或高度极化的意识形态对抗时，外部推介的最佳实践容易遭遇抵制或被策略性选择性挪用。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 275–276)]]
@@ -154,5 +154,5 @@ updated: 2026-10-25
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 系统界定调解式治理模式，深入剖析其在德国与瑞士教育改革中的政策打包与游说机制。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 批判分析超国家机构如何利用“有效做法”话语建构指标霸权并弱化本土政策反思。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 批判分析超国家机构如何利用“有效做法”话语建构指标霸权并弱化本土政策反思。
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 揭示调解模式推介的同质化政策工具箱对全球多元教育生态造成的系统性挤压。

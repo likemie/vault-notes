@@ -5,7 +5,7 @@ authors:
   - "Thorsell, K."
 summary: "将产学联盟与联合体按组织化程度排列为从行业咨询委员会到创新中心的四种模式，以AMRC为案例提炼出限制发起成员数量、跨越供应链价值线、前竞争IP共有等可复制经验"
 type: argument
-citation: "Hoffman, P., Radasch, D., & Thorsell, K. (2025). University-Industry Alliances and Consortia. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 103–121). Cham: Springer."
+citation: "Hoffman, P., Radasch, D., & Thorsell, K. (2025). University-Industry Alliances and Consortia. In R. Hall & A. Boccanfuso (Eds.), University-industry collaboration: Innovation at the interface (pp. 103–121). Springer."
 publication_place: "Cham"
 publisher: "Springer"
 tags:

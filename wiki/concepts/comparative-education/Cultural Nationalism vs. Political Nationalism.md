@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -153,7 +153,7 @@ updated: 2026-10-22
 > > [!axis] 二元概念的纯粹规范预设 vs 历史现实的杂糅渗透
 > > 争论焦点在于文化民族主义与政治民族主义是否能如此截然两分。
 > >
-> > - **Kandel, I.（1933）** 坚持二者在伦理哲学与政治目的上具有不可调和的质的差异，必须坚守文化自由的底线。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009: 49, 引自 Kazamias, 2009b)]]
+> > - **Kandel, I.（1933）** 坚持二者在伦理哲学与政治目的上具有不可调和的质的差异，必须坚守文化自由的底线。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b: 49, 引自 Kazamias, 2009b)]]
 > > - **[[Andreas Kazamias\|Kazamias, A.]] & Schwartz, K.（1977）** 指出[[Isaac Kandel\|坎德尔]]的研究带有强烈的“英美自由主义偏见（Anglo-Saxon bias）”，将英美等国天然假定为优越纯粹的民主文化典范，而忽视了西方民主国家内部同样广泛存在的种族隔离与政治意识形态操控。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias & Schwartz, 1977: 156–157; Kazamias, 2009: 48, 引自 Kazamias, 2009b)]]
 
 > [!critique] 外部批评

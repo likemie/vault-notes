@@ -25,7 +25,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -112,7 +112,7 @@ updated: 2026-10-22
 > [!concept-lens] 政策工具演进与制度前提维度
 > 探讨宏观治理改革中基础测评工具与高利害问责后果之间的时间序列与逻辑依赖关系。
 
-> [!claim] [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]]
+> [!claim] [[Argument_Verger_2019_Discourse|Verger et al. (2019)]]
 > **测评工具先行为问责施加提供技术前提** 全员国家级测评体系（NLSAs）的建立在时间序列与逻辑机制上构成了测试问责（TBA）制度落地的必要条件。只有当全员普查式统考实现了对所有学校与学生的标准化覆盖，国家才具备向学校施加资源奖惩、公开排名与行政干预的数据基础。随着制度分层演进，高利害后果逐步附着于既有测评工具之上，证实了测评基础设施对问责机制的先决必要作用。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
 
 ---
@@ -122,7 +122,7 @@ updated: 2026-10-22
 > |---|---|---|---|
 > | **复合因果组合** | 效果源于特定必要条件与充分条件的构型结合，而非孤立单一原因 | 教育因果机制分析、定性比较分析 | Mackie (1993)；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] |
 > | **触发与背景区隔** | 终端触发事件依赖深层必要条件网络而施加影响，不可混淆主次 | 突发性教育事件归因、危机干预分析 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] |
-> | **制度必要前提** | 全员普查统考是向学校施加利害问责必不可少的制度与技术门槛 | 比较教育政策演进、测试问责制分析 | [[Argument_Verger_2019_Discourse\|Verger, Parcerisa and Fontdevila (2019)]] |
+> | **制度必要前提** | 全员普查统考是向学校施加利害问责必不可少的制度与技术门槛 | 比较教育政策演进、测试问责制分析 | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] |
 
 ---
 
@@ -162,4 +162,4 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|Cohen, Manion & Morrison (2011, Ch. 4)]] — 系统阐明教育研究中的因果逻辑，厘清必要条件、充分条件、复合原因与触发因素的分析框架。
-> - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 梳理全球测试问责政策演进，实证论证全员人口普查式测评作为问责后果加载的制度性必要条件。
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 梳理全球测试问责政策演进，实证论证全员人口普查式测评作为问责后果加载的制度性必要条件。

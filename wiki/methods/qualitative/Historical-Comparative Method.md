@@ -122,11 +122,11 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-20
+updated: 2026-10-26
 ---
 
 > [!def] Historical-Comparative Method
-> **历史比较法（Historical-Comparative Method）** 是将**历史溯源诠释（Historical-Genetic Hermeneutics）** 与**跨国横向比较（Cross-National Comparison）** 有机融合的核心[[Qualitative Research|质性研究]]方法。该方法将各民族国家的教育与科技体制、国家治理能力或超国家组织的演化置于其生成发展的具体历史脉络中，通过系统考证政治、经济、文化、制度能力与地缘权力等结构性力量的长周期演进，揭示制度特征形成的深层因果机制；拒绝将当下制度现象抽离其时空母体进行孤立切片，其核心旨趣在于通过发掘历史档案、法令条款、政策白皮书与思想文本中的深层动因，解释体制与治理网络“何以成为当下形态”，并在此基础上归纳提炼可用于阐明其他同类制度演变的工作假设。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 39–40, 56–57)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–796)]]
+> **历史比较法（Historical-Comparative Method）** 是将**历史溯源诠释（Historical-Genetic Hermeneutics）** 与**跨国横向比较（Cross-National Comparison）** 有机融合的核心[[Qualitative Research|质性研究]]方法。该方法将各民族国家的教育与科技体制、国家治理能力或超国家组织的演化置于其生成发展的具体历史脉络中，通过系统考证政治、经济、文化、制度能力与地缘权力等结构性力量的长周期演进，揭示制度特征形成的深层因果机制；拒绝将当下制度现象抽离其时空母体进行孤立切片，其核心旨趣在于通过发掘历史档案、法令条款、政策白皮书与思想文本中的深层动因，解释体制与治理网络“何以成为当下形态”，并在此基础上归纳提炼可用于阐明其他同类制度演变的工作假设。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 39–40, 56–57)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–540)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–796)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 民族国家教育与科研体系建制沿革、科技与产业政策历史演进、超国家组织（IOs）治理职能变迁、跨国在“多样性与统一性”张力下的宏观演进轨迹，以及国家创新机构与[[Public Dynamic Capabilities|公共部门动态能力]]跨越 150 年的长周期形态演变。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–796)]]
@@ -203,7 +203,7 @@ updated: 2026-10-20
 >   - 追踪国家创新机构、科技与产业战略及[[Public Dynamic Capabilities|公共部门动态能力]]跨越 150 年的长周期形态演变与代际转换（如德、日、法、美、英与欧盟在不同历史时期的国家能力构建与协调失灵，[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]）；
 >   - 比较不同国家[[National Innovation System|国家创新系统]]（NIS）内教育培训、工业实验室建制与产业政策的协同演化机制，解释后发经济体[[Technological Catch-up|技术赶超]]或分化的深层制度动因（如 19 世纪普鲁士赶超英国、战后日本追赶美苏、80 年代韩巴分化，[[Argument_Freeman_1995_CJE|Freeman, 1995]]）；
 >   - 剖析重大教育法令（如 1862 年《赠地法案》、1950 年《NSF 法案》、1980 年《拜杜法案》）与现代学校形态的历史发生学渊源；
->   - 追踪超国家组织（IOs）在长周期历史演变中如何确立其教育法定职责，以及从二战后经济重建转向全球[[Policy Brokerage|政策中介]]与[[Soft Power by Hard Facts|硬事实软权力]]治理的历史轨迹（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）；
+>   - 追踪超国家组织（IOs）在长周期历史演变中如何确立其教育法定职责，以及从二战后经济重建转向全球[[Policy Brokerage|政策中介]]与[[Soft Power by Hard Facts|硬事实软权力]]治理的历史轨迹（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024]]）；
 >   - 揭示跨国制度移植与[[Policy Borrowing|政策借用]]中的[[Path Dependence|路径依赖]]与结构阻碍（如欧亚四国模仿美式大学体制时遭遇的讲席制、行政集权与科学院分立壁垒，[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008, pp. 45–48]]）；
 >   - 穿透宏观静态量化指标与表面法律条文，通过档案考据与长周期[[Process Tracing|过程追踪]]识别[[Institutional Drift|制度漂移]]（Drift）、规则转换（[[Institutional Conversion|conversion]]）与分层（[[Institutional Layering|layering]]）等深层[[Theory of Gradual Institutional Change|渐进制度变迁]]形态（如揭示德国劳资集体谈判在法律条文未变背景下的渐进侵蚀与自由化演化，[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）；
 >   - 建立跨国教育与科技制度类型学并阐明各民族或国际组织的独特文化精神底色与组织利基。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 38–42)]]
@@ -278,7 +278,7 @@ updated: 2026-10-20
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 运用比较史学方法剖析比较教育学科史编纂面临的档案隐蔽与材料匮乏困境，提出“[[Comparative History of Comparative Education|比较教育学的比较史]]”。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 米特运用历史比较与学科史分析，梳理欧洲比较教育学两百年的教席分布、学会竞合与跨制度比较，确立长时段学科史中的典范应用。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 运用历史比较法考察比较教育学作为“[[Protean Episteme|普罗透斯式认识体系]]”的两百年演进与类型分化，揭示“[[Historical Amnesia|历史健忘症]]”危机并重构学科合法性。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 突破民族国家容器限制，对[[OECD|经合组织]]与[[World Bank|世界银行]]数十年档案进行长周期历史比较，揭示二者扩张为教育[[Policy Brokerage|政策中介]]的利基分化。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 突破民族国家容器限制，对[[OECD|经合组织]]与[[World Bank|世界银行]]数十年档案进行长周期历史比较，揭示二者扩张为教育[[Policy Brokerage|政策中介]]的利基分化。
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 运用历史比较法梳理美德欧大学转型轨迹，对比非集权竞争与同行评议机制，揭示研究生教育科研共生如何奠定美国[[Research Universities|研究型大学]]核心地位。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 运用历史制度分析与跨部门比较，剖析战后美国半导体与计算机产业中联邦资助、采购合同与[[Disciplinary Institutionalization|学科建制]]协同机制，评判[[Innovation Policy Paradigms|创新政策范式]]边界。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 运用历史制度与跨国比较方法，梳理战后美国国防研发投资与采购对半导体及计算机产业的催化作用及其向商业市场的逆向溢出规律。

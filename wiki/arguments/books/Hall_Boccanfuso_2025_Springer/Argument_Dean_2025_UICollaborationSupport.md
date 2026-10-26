@@ -16,7 +16,7 @@ argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#e5e7eb"
-citation: "Dean, C. B., Milligan, I., Yu, A., Szarka, M., Hannon, A., & Carroll-Dee, A. (2025). Gaining Support Within Universities for Collaboration. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 241–256). Springer."
+citation: "Dean, C. B., Milligan, I., Yu, A., Szarka, M., Hannon, A., & Carroll-Dee, A. (2025). Gaining support within universities for collaboration. In R. Hall & A. Boccanfuso (Eds.), University-industry collaboration: Innovation at the interface (pp. 241–256). Springer."
 tags: ["theme/university-industry-collaboration", "theme/faculty-engagement", "theme/research-assessment", "region/canada"]
 related_concepts:
   - "[[University-Industry Collaboration]]"

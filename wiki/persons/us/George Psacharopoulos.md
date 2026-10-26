@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -64,7 +64,7 @@ updated: 2026-10-22
 > - **代表贡献** 开创跨国教育成本效益与明瑟收益率横向比较框架；主持编制世界银行历次十年期全球教育投资回报率全景综述（1973, 1985, 1994, 2004, 2018）；推动初等教育高社会收益率理论成为世界银行向全球南方放贷的法定准则。
 
 > [!citation-card] 独立研究帝国与比较教育材料宝库
-> 标志着两大组织决心在教育领域独立开展工作的新时代到来的，是世界银行于 1980 年 4 月发布的首份《教育部门政策文件》（World Bank 1980）。正如曾长期担任世界银行高级顾问的著名教育经济学家乔治·萨卡罗普洛斯所指出的：‘1980 年的政策文件不仅反映出世行的业务运作正日益建立在研究成果的基础之上，而且表明世行正在开展属于自己的研究，并将在未来继续如此推进。这是极其令人欣喜的，因为世行掌握着局外人做梦都想不到的丰富比较教育材料。’[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> 标志着两大组织决心在教育领域独立开展工作的新时代到来的，是世界银行于 1980 年 4 月发布的首份《教育部门政策文件》（World Bank 1980）。正如曾长期担任世界银行高级顾问的著名教育经济学家乔治·萨卡罗普洛斯所指出的：‘1980 年的政策文件不仅反映出世行的业务运作正日益建立在研究成果的基础之上，而且表明世行正在开展属于自己的研究，并将在未来继续如此推进。这是极其令人欣喜的，因为世行掌握着局外人做梦都想不到的丰富比较教育材料。’[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 >
 > *Signaling the advent of a new era in which both organisations were determined to work independently in education, the World Bank published its first Education Sector Policy Paper in April 1980 (World Bank 1980). According to prominent education economist George Psacharopoulos, who served as a long-time senior advisor at the World Bank: 'The 1980 Policy Paper does not only reflect the fact that Bank operations are now increasingly based on the results of research, but also that the Bank conducts research of its own and will continue to do so in the future. This is extremely welcome for the Bank has access to a wealth of comparative education material outsiders could not even dream about.' (Psacharopoulos 1981, 144)*
 
@@ -74,16 +74,16 @@ updated: 2026-10-22
 > - **1937** 出生于希腊雅典，早年在雅典经济与商业大学攻读经济学。
 > - **1969** 获美国芝加哥大学经济学博士学位，深受西奥多·舒尔茨（Theodore Schultz）与加里·贝克尔（Gary Becker）[[Human Capital Theory\|人力资本理论]]熏陶。
 > - **1970–1981** 任教于伦敦政治经济学院（LSE）比较教育与经济学系，1973 年出版里程碑著作《教育收益率：国际比较》，奠定跨国教育回报率计算的经验分析规程。
-> - **1981–1998** 加入[[World Bank\|世界银行]]，历任教育研究处处长、人力资源与社会发展局首席顾问及教育政策部主管；期间主持起草 1980 年代及 1990 年代世行教育旗舰战略，推动世界银行脱离[[UNESCO\|教科文组织]]的技术依附。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
-> - **1998–至今** 离开世行后曾当选希腊议会议员，并持续担任欧洲大学研究所（EUI）、世界银行与国际智库的特聘资深顾问，2018 年与哈里·帕特里诺斯联合发布涵盖 60 年文献的全球[[Return on Investment\|教育投资回报率]]综述。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
+> - **1981–1998** 加入[[World Bank\|世界银行]]，历任教育研究处处长、人力资源与社会发展局首席顾问及教育政策部主管；期间主持起草 1980 年代及 1990 年代世行教育旗舰战略，推动世界银行脱离[[UNESCO\|教科文组织]]的技术依附。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
+> - **1998–至今** 离开世行后曾当选希腊议会议员，并持续担任欧洲大学研究所（EUI）、世界银行与国际智库的特聘资深顾问，2018 年与哈里·帕特里诺斯联合发布涵盖 60 年文献的全球[[Return on Investment\|教育投资回报率]]综述。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 548)]]
 
 ---
 
 > [!work-line] 主要著作
 > - **1973 — *Returns to Education: An International Comparison*** 奠基专著，系统确立了运用微观调查数据与截面收入方程计算各学段私人与社会回报率的标准化方法。
-> - **1981 — *The [[World Bank]] in the World of Education: Some Policy Changes and Some Remnants*** 权威阐述世界银行教育部门政策转型，宣告世界银行自立研发门阀与脱离[[UNESCO\|联合国教科文组织]]的学术独立性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> - **1981 — *The [[World Bank]] in the World of Education: Some Policy Changes and Some Remnants*** 权威阐述世界银行教育部门政策转型，宣告世界银行自立研发门阀与脱离[[UNESCO\|联合国教科文组织]]的学术独立性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 > - **1985/1994/2004 — *Returns to Investment in Education* 系列十年综述** 连续数十年系统追踪全球百余国教育收益率动态，牢固确立“初等教育回报率高于中高等教育、发展中国家回报率高于发达国家”的经典模式。
-> - **2018 — *Returns to Investment in Education: A Decennial Review of the Global Literature*** 与 Harry Anthony Patrinos 合著，汇聚 139 个国家 1,120 项回报率估算，证实全球私人教育投资年化收益率长期稳定在 9–10% 的高位。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
+> - **2018 — *Returns to Investment in Education: A Decennial Review of the Global Literature*** 与 Harry Anthony Patrinos 合著，汇聚 139 个国家 1,120 项回报率估算，证实全球私人教育投资年化收益率长期稳定在 9–10% 的高位。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 548)]]
 
 ---
 
@@ -97,13 +97,13 @@ updated: 2026-10-22
 
 > [!influence-path] 影响路径
 > - **理论路径** 将芝加哥学派[[Human Capital Theory\|人力资本理论]]转化为可操作的宏观公共政策分析工具，使教育经济学从一门纯理论学派跃升为指导全球南方教育政策的主导[[Paradigm\|范式]]。
-> - **机构转型路径** 亲手缔造了[[World Bank\|世界银行]]“自指性政策应用研究帝国”，通过将借贷决策与明瑟回报率估算绑定，彻底终结了战后[[UNESCO\|联合国教科文组织]]在[[International Education\|国际教育]]发展领域的人文主义[[Discourse|话语]]垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]
+> - **机构转型路径** 亲手缔造了[[World Bank\|世界银行]]“自指性政策应用研究帝国”，通过将借贷决策与明瑟回报率估算绑定，彻底终结了战后[[UNESCO\|联合国教科文组织]]在[[International Education\|国际教育]]发展领域的人文主义[[Discourse|话语]]垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 542, 548)]]
 > - **政策转移路径** 主导了 1980 至 1990 年代撒哈拉以南非洲与拉美地区[[Structural Adjustment Programs|结构调整方案]]中的教育政策重组，推动了发展中国家基础教育免费与高等教育成本分担（收取学费）的全球普及。
 
 ---
 
 > [!citation-card] 施泰纳-哈姆西等论[[World Bank\|世界银行]]应用研究帝国的缔造
-> 针对教育对经济增长[[Return on Investment\|投资回报]]率的无数次实证分析，恰恰生动说明了世界银行在长时期内构建起来的应用政策研究帝国。在对 60 年教育投资回报率研究的综述中，萨卡罗普洛斯与帕特里诺斯（Psacharopoulos & Patrinos, 2018）依托了一个涵盖 139 个国家、包含 1,120 项回报率估算的世界银行数据库。……世界银行正是以此深耕自身专属的[[Policy Brokerage\|政策中介]]利基，并赞美其相较于其他国际组织所具备的比较优势。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
+> 针对教育对经济增长[[Return on Investment\|投资回报]]率的无数次实证分析，恰恰生动说明了世界银行在长时期内构建起来的应用政策研究帝国。在对 60 年教育投资回报率研究的综述中，萨卡罗普洛斯与帕特里诺斯（Psacharopoulos & Patrinos, 2018）依托了一个涵盖 139 个国家、包含 1,120 项回报率估算的世界银行数据库。……世界银行正是以此深耕自身专属的[[Policy Brokerage\|政策中介]]利基，并赞美其相较于其他国际组织所具备的比较优势。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 548)]]
 >
 > *The myriad of analyses of the rates of return of education to economic growth is a case in point to illustrate the applied policy research empire that the World Bank built over a long period. In their overview of 60 years of research on returns on investment in education, Psacharopoulos and Patrinos (2018) drew on a World Bank database with 1,120 rate-of-return estimates in 139 countries. ... Thus, the IOs carved their niche for policy brokerage over time to demarcate their territory and extol their comparative advantage vis-à-vis other IOs.*
 
@@ -138,7 +138,7 @@ updated: 2026-10-22
 > > - **卡扎米亚斯与科学社会学家（巴伯）** 指责这种实证[[Empiricism|经验主义]]陷入了“唯方法论主义”（Methodologism），将客观研究与复杂的社会文化、历史情境及不可测量之物人为割裂，其模型客观上充当了战后国家发展计划与多边金融援助规避政治问责的合法化借口。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 
 > [!critique] 批评索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 揭示萨卡罗普洛斯所主导构建的 1,120 项教育回报率数据库，是世界银行为了在国际组织竞争中独占鳌头而打造的自指性政策研究帝国，将公共教育政策全面窄化为金融资本投资逻辑。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 揭示萨卡罗普洛斯所主导构建的 1,120 项教育回报率数据库，是世界银行为了在国际组织竞争中独占鳌头而打造的自指性政策研究帝国，将公共教育政策全面窄化为金融资本投资逻辑。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 批判萨卡罗普洛斯等人将比较教育降格为单一计量实证模型，指出战后新实证[[Paradigm|范式]]本质上是用方法论的严密性遮蔽复杂的历史政治情境，充当规避问责的合法化借口。
 
 > [!warning] 未解问题与边界
@@ -158,5 +158,5 @@ updated: 2026-10-22
 > | [[Scientism\|科学主义]] | 概念 | 体现了战后将自然科学一元论与单一全能方法强加于比较教育的科学主义风潮。 |
 > | [[Bernard Barber\|伯纳德·巴伯]] | 人物 | 科学社会学家，其[[Empiricism\|唯方法论主义]]批判深刻击中了萨卡罗普洛斯式实证模型的[[Epistemology\|认识论]]盲区。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 在学科史反思中将萨卡罗普洛斯定性为第三代际经验主义与实证唯方法论主义的核心代表。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 论证 | 剖析萨卡罗普洛斯如何借助 1,120 项回报率估算构建世界银行自指性应用政策研究帝国。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | 论证 | 剖析萨卡罗普洛斯如何借助 1,120 项回报率估算构建世界银行自指性应用政策研究帝国。 |
 > | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威阐释芝加哥学派人力资本理论在比较教育第三代际中的实证经验主义演进与合法化借口实质。 |

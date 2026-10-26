@@ -4,7 +4,7 @@ type: argument
 authors:
   - "Lakhani, R. T."
 source_language: en
-citation: "Lakhani, R. T. (2012). Knower's roles of autonomy for knowledge construction: A case of International Baccalaureate (IB) Curriculum. In Search of Relevance and Sustainability of Educational Change: An International Conference at Aga Khan University Institute for Educational Development, November 1-3, 2012 (pp. 187–194)."
+citation: "Lakhani, R. T. (2012). Knower's roles of autonomy for knowledge construction: A case of International Baccalaureate (IB) Curriculum. In Search of Relevance and Sustainability of Educational Change: An International Conference at Aga Khan University Institute for Educational Development, November 1–3, 2012 (pp. 187–194)."
 year: 2012
 doi: ""
 citation_aliases:

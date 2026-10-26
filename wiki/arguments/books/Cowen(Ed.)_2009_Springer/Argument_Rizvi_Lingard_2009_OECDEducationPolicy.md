@@ -20,7 +20,7 @@ publication_place: "Dordrecht"
 publisher: "Springer"
 year: 2009
 isbn: "978-1-4020-6402-9"
-citation: "Rizvi, F. & Lingard, B. (2009). The OECD and Global Shifts in Education Policy. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 437–453). Dordrecht: Springer."
+citation: "Rizvi, F. & Lingard, B. (2009). The OECD and global shifts in education policy. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 437–453). Springer."
 citation_aliases:
   - "Rizvi & Lingard, 2009"
   - "Rizvi and Lingard (2009)"

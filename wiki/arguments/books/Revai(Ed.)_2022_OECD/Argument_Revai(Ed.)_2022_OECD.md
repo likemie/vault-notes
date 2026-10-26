@@ -21,7 +21,7 @@ publisher: OECD Publishing
 year: 2022
 doi: "10.1787/d7ff793d-en"
 isbn: 978-92-64-73132-5
-citation: "Révai, N. (Ed.). (2022). Who cares about using education research in policy and practice?: Strengthening research engagement. Paris: OECD Publishing. https://doi.org/10.1787/d7ff793d-en"
+citation: "Révai, N. (Ed.). (2022). Who cares about using education research in policy and practice?: Strengthening research engagement. OECD Publishing. https://doi.org/10.1787/d7ff793d-en"
 tags:
   - theme/knowledge-mobilisation
   - theme/evidence-informed-policy

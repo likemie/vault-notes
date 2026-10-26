@@ -107,7 +107,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -135,13 +135,13 @@ updated: 2026-10-22
 > - **形成路径** 从宏观国民收入核算与微观教育回报率测算出发，将教育支出从传统消费性福利开支重新定义为能够内生提升边际生产率的人力资本投资。
 
 > [!dev-timeline] 理论版本与贡献
-> - **1957–1961 — 冷战冲击与国际政策正统确立** 1957 年苏联人造卫星升空引发[[Sputnik Shock 1957|斯普特尼克冲击]]，迫使西方世界将学校教育界定为科技专才的供给母体；[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）与改组后的[[OECD|经合组织]]（OECD）将自身重新定位为“经济北约”和世界一流教育先锋，引入控制论与人力资本理论开展大规模劳动力市场需求预测；1960 年[[1960 Bellagio Conference|贝拉吉奥会议]]、1961 年华盛顿经合组织“经济增长与教育投资”政策会议全面确立人力资本政策正统。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
+> - **1957–1961 — 冷战冲击与国际政策正统确立** 1957 年苏联人造卫星升空引发[[Sputnik Shock 1957|斯普特尼克冲击]]，迫使西方世界将学校教育界定为科技专才的供给母体；[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）与改组后的[[OECD|经合组织]]（OECD）将自身重新定位为“经济北约”和世界一流教育先锋，引入控制论与人力资本理论开展大规模劳动力市场需求预测；1960 年[[1960 Bellagio Conference|贝拉吉奥会议]]、1961 年华盛顿经合组织“经济增长与教育投资”政策会议全面确立人力资本政策正统。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 540–541)]]
 > - **1960–1964 — 理论经典奠基** 西奥多·舒尔茨（Theodore W. Schultz）发表《人力资本投资》（1961）与《教育的经济价值》（1963），加里·贝克尔（Gary S. Becker）出版《人力资本》（1964），系统确立以个人与社会收益率为核心的新古典微观与宏观[[Analytic Framework|分析框架]]。
 > - **1962–1970 — 教育规划与比较教育应用** 赫伯特·帕恩斯（Herbert Parnes, 1962）主持 OECD 地中海地区项目（[[Mediterranean Regional Project|MRP]]），弗雷德里克·哈比森（Frederick Harbison）与查尔斯·迈尔斯（Charles Myers, 1964）建立跨国人力指数。伴随战后实证[[Scientism|科学主义]]运动，人力资本理论成为比较教育“第三代”的核心支柱；在“教育是开启现代化大门的钥匙”的[[Developmentalism|发展主义]]信条下，理论与方法论[[Empiricism|经验主义]]合流，构筑了“教育-发展-现代化”工具性发展[[Paradigm|范式]]，获得政府、基金会与跨国机构的全面制度背书。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–148)]]
 > - **1970 年代中叶 — 范式危机与反思** 经济滞胀爆发，[[Credential Inflation|文凭通胀]]与青年失业打破了教育投资必然带动经济繁荣的神话，[[Torsten Husén|托斯滕·胡森]]（Torsten Husén, 1982）指出实证规划承诺全面破灭。
 > - **1978 — 高技术工程人力资本与多维流动机制** 杰罗姆·E·施奈（[[Jerome E. Schnee]]）将人力资本分析拓展至前沿高技术产业，实证揭示了空间与国防重大工程如何充当工程架构与项目管理人才的孵化池，并通过半导体企业间衍生网络与计算机企业内部跨部门迁移双重机制驱动国家高技术产业优势确立。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 17–20)]]
-> - **1980–1990 年代 — 世界银行放贷帝国、内生新增长理论与知识经济社会想象** 1980 年世界银行发布首份《教育部门政策文件》（World Bank, 1980），[[George Psacharopoulos]] 建立起涵盖 139 国、1,120 项估算的回报率数据库，使人力资本收益率成为跨国政策放贷与治理干预的硬性规制指标；世行在《教育重点与战略》（World Bank, 1995）中进一步宣称人力资本理论无可替代，将宏观经济差距与微观[[School Effectiveness|学校效能]]全盘还原为教育投资与成本效益硬件干预，引发[[UNESCO|联合国教科文组织]]（Mayor et al., 1997）提出针锋相对的人文主义批判，抗议将人类发展降格为人力资源开发（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 347]]）；与此同时，罗伯特·卢卡斯（Robert Lucas, 1988）、保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）发展内生新增长理论，将知识与人力资本确立为技术进步和创新商业化的内生核心。[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，1990 年代中期后[[OECD]]借此建构起“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，使人力资本内涵扩展为涵盖适应力、组织忠诚度、跨文化沟通与知识商业化等全方位行为特质与“知其所以操作”（[[Procedural Knowledge|knowing how]]）的[[Lifelong Learning|终身学习]]能力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439, 445–446, 451)]]
-> - **2000 年代至今 — 全球指标治理与量化硬事实转化** 进入 21 世纪，人力资本逻辑在经合组织[[International Indicators of Education Systems|国际教育系统指标]]（INES）网络、《[[Education at a Glance|教育概览]]》（EAG）与[[PISA|国际学生评估项目]]（PISA）跨国技能测试中被深度重构为“全球知识经济[[Competitiveness|竞争力]]”治理框架；丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（Kerstin Martens, 2018）考证指出，经合组织成功将人力资本范式转译为量化“硬事实”，把学校教育简化为服务于经济生产率的个体核心素养，在缺乏法定强制力与财政制裁的情形下确立起全球通用的教育评估标尺与认知权威，促成全球教育政策的“经合组织化”（OECD-fication）。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–272)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
+> - **1980–1990 年代 — 世界银行放贷帝国、内生新增长理论与知识经济社会想象** 1980 年世界银行发布首份《教育部门政策文件》（World Bank, 1980），[[George Psacharopoulos]] 建立起涵盖 139 国、1,120 项估算的回报率数据库，使人力资本收益率成为跨国政策放贷与治理干预的硬性规制指标；世行在《教育重点与战略》（World Bank, 1995）中进一步宣称人力资本理论无可替代，将宏观经济差距与微观[[School Effectiveness|学校效能]]全盘还原为教育投资与成本效益硬件干预，引发[[UNESCO|联合国教科文组织]]（Mayor et al., 1997）提出针锋相对的人文主义批判，抗议将人类发展降格为人力资源开发（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 347]]）；与此同时，罗伯特·卢卡斯（Robert Lucas, 1988）、保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）发展内生新增长理论，将知识与人力资本确立为技术进步和创新商业化的内生核心。[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，1990 年代中期后[[OECD]]借此建构起“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，使人力资本内涵扩展为涵盖适应力、组织忠诚度、跨文化沟通与知识商业化等全方位行为特质与“知其所以操作”（[[Procedural Knowledge|knowing how]]）的[[Lifelong Learning|终身学习]]能力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439, 445–446, 451)]]
+> - **2000 年代至今 — 全球指标治理与量化硬事实转化** 进入 21 世纪，人力资本逻辑在经合组织[[International Indicators of Education Systems|国际教育系统指标]]（INES）网络、《[[Education at a Glance|教育概览]]》（EAG）与[[PISA|国际学生评估项目]]（PISA）跨国技能测试中被深度重构为“全球知识经济[[Competitiveness|竞争力]]”治理框架；丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（Kerstin Martens, 2018）考证指出，经合组织成功将人力资本范式转译为量化“硬事实”，把学校教育简化为服务于经济生产率的个体核心素养，在缺乏法定强制力与财政制裁的情形下确立起全球通用的教育评估标尺与认知权威，促成全球教育政策的“经合组织化”（OECD-fication）。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–272)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–543)]]
 > - **2018–2019 — 世界银行反思“有学无教”与人力资本积累微观转向** 世界银行发布《2018年世界发展报告》与《Teach 观察员手册》（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]），正式确立“[[Learning Crisis|学习贫困]]”（Learning Poverty）概念，反思发展中国家单纯依靠学校入学率扩张并未自发带来人力资本实质积累的历史困境；实证揭示教师教学质量是驱动学业成果的最关键校内源泉，推动人力资本积累分析从宏观入学年限穿透至微观课堂互动质量测评。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 1–3)]]
 
 ---
@@ -156,7 +156,7 @@ updated: 2026-10-22
 > | 潜在人才库（Latent Pool of Talents） | 概念 | 指社会大众（尤其是工农阶层）中未被传统精英教育发现和转化的智力资源，构成教育扩张的社会学论据（Halsey et al., 1961）。 |
 > | 工具性发展[[Paradigm\|范式]]（Instrumental-Developmental Paradigm） | 机制 | 战后比较教育第三代将人力资本理论升格为“教育是开启现代化大门的钥匙”的发展主义信条，提供指导国家改革与国际援助的规划处方。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 147–148)]] |
 > | [[Social Science as Legitimation Alibi]] | 机制 | 政治决策者利用人力资本的量化预测与[[Return on Investment\|投资回报]]模型作为推卸行政责任与掩盖价值决断的科学借口。 |
-> | 教育收益率数据库与放贷门槛（Rates of Return Databank & Lending [[Policy Conditionalities\|Conditionalities]]） | 机制 | 世界银行（George Psacharopoulos）建立的涵盖 139 国、1,120 项教育投资收益率估算的大规模数据库，将人力资本理论转化为跨国结构性调整与政策放贷的量化门槛与自指性治理帝国。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]] |
+> | 教育收益率数据库与放贷门槛（Rates of Return Databank & Lending [[Policy Conditionalities\|Conditionalities]]） | 机制 | 世界银行（George Psacharopoulos）建立的涵盖 139 国、1,120 项教育投资收益率估算的大规模数据库，将人力资本理论转化为跨国结构性调整与政策放贷的量化门槛与自指性治理帝国。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]] |
 > | 控制论人力规划（Cybernetic Manpower Planning） | 方法 | 冷战时期经合组织为抗衡苏联计划经济竞争，将人力资本理论与控制论相结合的技术官僚规划范式，专注于劳动力市场中长期工程师与技术人员需求的宏观预测。[[Argument_Steiner-Khamsi_2024_CE\|(Popkewitz, 2022; Steiner-Khamsi et al., 2024, p. 541)]] |
 > | 量化硬事实与认知权威（[[Soft Power by Hard Facts\|Hard Facts]] & [[Cognitive Authority]]） | 机制 | 经合组织将人力资本范式转译为跨国标准测试（如 [[PISA]]）的量化“硬事实”，把教育简化为服务于知识经济生产率的技能资产，在缺乏法定强制力下确立起专业化的认知权威与全球教育评估标尺。[[Argument_Niemann_Martens_2018_GSP\|(Niemann & Martens, 2018, pp. 268–272)]] |
 > | 技术官僚绩效[[Disciplina and Doctrina\|规训]]（Technocratic Disciplining Pressure） | 机制 | 经合组织等跨国组织将人力资本逻辑转化为直接约束国家研究经费与问责指标的治理手段，迫使比较教育研究服从于经济竞争力的绩效达标。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 96)]] |
@@ -182,7 +182,7 @@ updated: 2026-10-22
 > **应用实例** 1970 年代经济滞胀导致大量高校毕业生面临结构性失业与文凭贬值时，教育行政官员援引劳动力市场结构性摩擦与统计时滞模型为规划失灵辩护，成功抵御了公众对教育扩张政策的追责。
 
 > [!theory-proposition] 命题四｜跨国组织将人力资本理论重构为控制论规划、指标帝国与软治理硬事实
-> **解释** 经合组织在冷战初期将人力资本理论与控制论规划结合以抗衡苏联计划经济，并在 1990 年代转向知识经济与终身学习范式；世界银行则建立教育收益率数据库作为结构性调整与政策放贷的量化门槛（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）。丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（Kerstin Martens, 2018）进一步揭示，经合组织在当代通过跨国标准化测验（[[PISA]]）将人力资本范式编码为量化“硬事实”（[[Soft Power by Hard Facts|Hard Facts]]），把教育过程简化为服务于知识经济生产率的个体核心素养；在缺乏法定强制管辖权的情形下，经合组织依托硬事实与跨国排名确立起全球教育评估的[[Cognitive Authority|认知权威]]，通过激活各国内部危机意识实施跨国软治理。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–272)]]
+> **解释** 经合组织在冷战初期将人力资本理论与控制论规划结合以抗衡苏联计划经济，并在 1990 年代转向知识经济与终身学习范式；世界银行则建立教育收益率数据库作为结构性调整与政策放贷的量化门槛（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024]]）。丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（Kerstin Martens, 2018）进一步揭示，经合组织在当代通过跨国标准化测验（[[PISA]]）将人力资本范式编码为量化“硬事实”（[[Soft Power by Hard Facts|Hard Facts]]），把教育过程简化为服务于知识经济生产率的个体核心素养；在缺乏法定强制管辖权的情形下，经合组织依托硬事实与跨国排名确立起全球教育评估的[[Cognitive Authority|认知权威]]，通过激活各国内部危机意识实施跨国软治理。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–272)]]
 >
 > **应用实例** 瑞士在 PISA 测评中总分位居前列，但细分数据显示约 20% 学生阅读素养仅处于最低等级，经合组织据此发布报告指出其存在严重的人力资本短板，成功打破瑞士各州长期的教育分权自治壁垒，倒逼瑞士联邦政府采纳统一的国家教育标准（HarmoS 协约）。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 276)]]
 
@@ -249,7 +249,7 @@ updated: 2026-10-22
 > |:---|:---|:---|:---|
 > | 边际生产力提升命题 (Schultz, 1961; Bowen, 1964) | **生产力与收入溢价维度** 教育与技能投资是否实质性提升了边际生产率并带来可持续的收入溢价？ | 个体受教育年限、职业技能培训时长、明瑟收入回归系数、全要素生产率数据。 | 显著的文凭收益溢价支持人力资本积累解释；但若收入差距完全受制于家庭背景与文凭筛选，则提示存在信号理论或社会再生产机制。 |
 > | 人力需求与规划合法化命题 (Parnes, 1962; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009]]) | **公共预算与规划合法化维度** 国家与决策者如何动员人力资本预测作为追加公共预算与推行制度重组的正当性工具？ | 国家教育五年规划文本、财政教育支出账目、议会听证辩论记录、人力预测模型报告。 | 决策者频繁援引潜在人才库短缺或经济腾飞指标，表明实证模型充当了推卸行政责任与掩盖价值决断的合法化借口。 |
-> | 跨国组织指标规制与软治理命题 ([[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]; [[Argument_Niemann_Martens_2018_GSP\|Niemann & Martens, 2018]]) | **指标帝国与硬事实软治理维度** 国际组织如何将教育过程简化为人力资本指标，并依托量化硬事实行使跨国治理？ | 经合组织 PISA 测评量表、世行教育部门政策文件、国家报告排行榜、跨国政策借用文本。 | 国际组织将学生能力编码为知识经济生产要素并借排名激发本土改革联盟，支持以硬事实施展软治理的经合组织化解释；但无法解释具有深厚人文教化传统的本土抵抗。 |
+> | 跨国组织指标规制与软治理命题 ([[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024]]; [[Argument_Niemann_Martens_2018_GSP\|Niemann & Martens, 2018]]) | **指标帝国与硬事实软治理维度** 国际组织如何将教育过程简化为人力资本指标，并依托量化硬事实行使跨国治理？ | 经合组织 PISA 测评量表、世行教育部门政策文件、国家报告排行榜、跨国政策借用文本。 | 国际组织将学生能力编码为知识经济生产要素并借排名激发本土改革联盟，支持以硬事实施展软治理的经合组织化解释；但无法解释具有深厚人文教化传统的本土抵抗。 |
 > | 战略工程与实体流动网络命题 ([[Argument_Schnee_1978_RP\|Schnee, 1978]]; [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio & Mowery, 2005]]) | **专门工程人力资本流动维度** 重大战略项目与基础科研如何通过高素质科研人员的跨界实体流动驱动高技术产业优势？ | 空间/国防重大工程参与人员档案、大学科研课题受训研究生流向、企业间离职创业与专利流动数据。 | 关键人才高频由公共项目流向民用新兴产业，支持流动网络驱动产业竞争力的微观机理；若人才过度锁闭于保密系统，则提示存在挤出效应。 |
 > | 学习贫困与教学质量反思命题 ([[Argument_WorldBank_2019_Teach\|World Bank Group, 2019]]) | **微观课堂教学转化维度** 正规学校就学年限是否切实转化为一线课堂的高质量认知与学习产出？ | 教师课堂教学行为观察量表（如 Teach 工具）、基础识字与算术达标率、生均在校年限与真实学习年限偏差。 | 存在高入学率但大面积学习贫困，证实单纯外在硬件与年限投入无法自动转化为人力资本，支持微观有效教学行为决定论。 |
 
@@ -349,7 +349,7 @@ updated: 2026-10-22
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，揭示跨国大规模评估（[[OECD]]/[[PISA]]）崛起后，以人力资本和经济[[Competitiveness|竞争力]]为导向的技术官僚治理如何对比较教育的研究课题、经费分配与政策咨询施加直接的量化规训压力。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 梳理 OECD 从 1960 年代狭隘科技人力规划向 1990 年代中期后基于[[New Growth Theory|内生新增长理论]]的[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]转型，揭示人力资本理论如何将教育重塑为兼具公私属性的投资工具。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 揭示当代全球治理中人力资本[[Discourse|话语]]如何与 [[PISA]] 测评机制紧密咬合，驱动教育系统按照资本回报逻辑重组。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD|经合组织]]与[[World Bank|世界银行]]七十五年历时制度演变，揭示冷战[[Sputnik Shock 1957|斯普特尼克冲击]]后国际组织如何将人力资本理论、控制论规划与教育收益率数据库工具化，打造出跨国放贷与指标治理帝国的历史轨迹。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 梳理[[OECD|经合组织]]与[[World Bank|世界银行]]七十五年历时制度演变，揭示冷战[[Sputnik Shock 1957|斯普特尼克冲击]]后国际组织如何将人力资本理论、控制论规划与教育收益率数据库工具化，打造出跨国放贷与指标治理帝国的历史轨迹。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统剖析美国半导体与计算机产业发展史，揭示重大公共战略工程如何培育高技术专门工程人力资本，并通过企业间衍生创业网络与企业内部跨部门平移双重机制驱动民用产业升级。
 > - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 从[[Modern Industrial Policy|现代产业政策]]与大国半导体竞争视角，阐明高科技先进制程对高密度专门工程劳动力池的刚性依赖、跨国战略人才招募竞争，以及补贴法案中[[Workforce Development|劳动力发展]]（IMEC 产学模式与托儿服务配套）的制度设计。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 实证阐明战后美国国防科研对大学计算机系所的长期资助如何孵化新兴科技人力资本，并通过受训研究生的跨界流动构筑信息技术向产业界转移的核心载体。

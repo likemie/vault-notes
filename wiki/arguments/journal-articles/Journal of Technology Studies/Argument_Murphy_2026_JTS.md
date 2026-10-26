@@ -8,7 +8,7 @@ authors:
   - "Chowdhury, M."
   - "Patterson, C."
 source_language: en
-citation: "Murphy Jr., D., Baca, M., Gurley, T., Chowdhury, M., & Patterson, C. (2026). Building Collaboration and Knowledge in Semiconductor Research: A Case Study on CHIPS & Science Act Workshops. Journal of Technology Studies, 51(1), 1–9. https://doi.org/10.21061/jts.444"
+citation: "Murphy Jr., D., Baca, M., Gurley, T., Chowdhury, M., & Patterson, C. (2026). Building collaboration and knowledge in semiconductor research: A case study on CHIPS & Science Act workshops. Journal of Technology Studies, 51(1), 1–9. https://doi.org/10.21061/jts.444"
 year: 2026
 doi: "10.21061/jts.444"
 citation_aliases:

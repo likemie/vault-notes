@@ -1,5 +1,5 @@
 ---
-citation: "Byrne, K. T., & Clements, V. R. (2025). Innovation Centers and Economic Development. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 123-140). Springer."
+citation: "Byrne, K. T., & Clements, V. R. (2025). Innovation centers and economic development. In R. Hall & A. Boccanfuso (Eds.), University-industry collaboration: Innovation at the interface (pp. 123–140). Springer."
 extracted_to:
   - "[[Argument_Byrne_2025_InnovationCenters]]"
 processed_date: 2026-05-28

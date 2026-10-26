@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -115,7 +115,7 @@ updated: 2026-10-25
 > [!claim] Woo, E.
 > **创伤反转与大国行动的正当性纽带** [[Argument_Woo_2023_HEP|Woo (2023)]] 借助[[Retroduction|逆推溯因]]（Retroduction）方法分析指出，[[Belt and Road Initiative|一带一路]]政策之所以能有效动员多部门力量开展跨国教育与科研协同，深层原因在于该倡议被置于洗雪百年屈辱的历史逻辑之中。复兴是屈辱的反面，近代受制于人的历史使得国家追求繁荣不仅被视为发展目标，更被视为纠正西方列强强加的不公、重获历史尊严的崇高实践，赋予跨国政策极强的政治感召力。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–689)]]
 
-> [!claim] [[Argument_Custer_2021_AidData|Custer, S. et al. (2021)]]
+> [!claim] [[Argument_Custer_2021_AidData|Custer et al. (2021)]]
 > **教育对外合作作为洗雪历史创伤与重塑文明敬仰的品牌工程** 萨曼莎·库斯特等（Samantha Custer et al.）从对外公共外交与国家品牌战略视角指出，中国将跨国教育合作置于地缘政治战略核心，其实质是在经历百年屈辱之后赢得国际社会对中国价值观、文化与文明敬仰的“国家品牌塑造工程”（Nation-Branding Project）。对外教育交流不仅旨在服务经贸走廊建设与获取留学生资源，更肩负着在后殖民与大国竞争秩序中重构文明合法性、在外国公众与社会精英中塑造对中国发展治理理念认同的政治功能。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 14, 20)]]
 
 ---

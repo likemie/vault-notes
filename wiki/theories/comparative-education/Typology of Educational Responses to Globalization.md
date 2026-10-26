@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -236,7 +236,7 @@ updated: 2026-10-22
 ---
 
 > [!reading-guide] 核心文献
-> - [[Argument_Rust_2009_Reflections|Rust, V. D., Johnstone, B., & Allaf, C. (2009)]]. Reflections on the development of comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 121–138). Springer. — 系统确立全球化教育响应四分批判[[Analytic Framework|分析框架]]，深化[[Education for All|全民教育]]实证对照与解放实践命题。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]]. Reflections on the development of comparative education. In R. Cowen & A. M. Kazamias (Eds.), *International Handbook of Comparative Education* (pp. 121–138). Springer. — 系统确立全球化教育响应四分批判[[Analytic Framework|分析框架]]，深化[[Education for All|全民教育]]实证对照与解放实践命题。
 > - Rust, V. D. (2004). *Foreign Influences in Educational Reform*. In *Comparative Education*. — 提出接受、抵制、恢复三阶段类型学原初模型。
 > - Giroux, H. A. (1983). *Theory and Resistance in Education: A Pedagogy for the Opposition*. Bergin & Garvey. — 为抵制与再生产构件提供批判社会学理论奠基。
 > - Shor, I., & Freire, P. (1987). *A Pedagogy for Liberation*. Bergin & Garvey. — 确立教育即政治命题，为超越资本主义现代性提供解放实践指南。

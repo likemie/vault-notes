@@ -180,7 +180,7 @@ updated: 2026-10-26
 > *Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that grew up in the nineteenth century... If the inspirational deities of the old comparativists were history, philosophy and 'humanistic culture/paideia', those of some influential modernist 'scientific' parvenus were 'science' and the 'scientific method', 'empiricism', 'instrumentalism' and 'technocratic rationalism'.*
 
 > [!citation-card] “证据自身发声”的技术理性迷误与单向供给破产
-> 柯伯恩等（Coburn et al., 2009）与马克·里克森等（Mark Rickinson et al., 2022a）尖锐批判了循证运动背后的技术理性深层预设。技术理性将[[Research Utilization\|证据使用]]构想为一种线性的、去情境化的[[Technology Transfer\|技术转移]]，误认为只要研究证据具备严格的方法学质量，就能“自身发声”并直接规范一线行为；而跨四大领域的[[Systematic Review\|系统综述]]表明，忽视实践者对证据的深思熟虑审议与本土化批判诠释，单向证据供给必然在复杂实践中陷入停滞与异化。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 139–141)]]
+> 柯伯恩等（Coburn et al., 2009）与马克·里克森等（Mark Rickinson et al., 2022a）尖锐批判了循证运动背后的技术理性深层预设。技术理性将[[Research Utilization\|证据使用]]构想为一种线性的、去情境化的[[Technology Transfer\|技术转移]]，误认为只要研究证据具备严格的方法学质量，就能“自身发声”并直接规范一线行为；而跨四大领域的[[Systematic Review\|系统综述]]表明，忽视实践者对证据的深思熟虑审议与本土化批判诠释，单向证据供给必然在复杂实践中陷入停滞与异化。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 139–141)]]
 >
 > *Evidence does not speak for itself (Coburn et al., 2009)... The focus within much of the literature has been on the production and availability of research rather than its use... High-quality use requires not just appropriate evidence, but thoughtful engagement by professionals who interpret, debate and integrate research within their specific context.*
 
@@ -221,7 +221,7 @@ updated: 2026-10-26
 > - **去政治化技术官僚规训（Technocratic Schooling De-politicisation）** 将教育矮化为去情境化、可测量的工具性“学校教育”（Schooling），用量化生产力与[[Human Capital Theory\|人力资本]]测算取代对社会正义与人类文明危机的哲学追问。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 > - **跨国[[Governing by Numbers|数字治理]]的去政治化霸权（Transnational Technocratic Depoliticisation & Policy-as-Numbers）** 借助跨国指标与标准化统考（如 [[PISA]]）建立[[Space of Equivalence|等值空间]]，将深层的政治决断与教育目的哲学争论降维为投入产出效率模型；正如 Lascoumes & Le Galès (2007) 与 Grek (2009, pp. 25–26, 34) 所揭示的，公共政策工具兼具技术与社会属性，技术理性通过将政治价值权衡置换为量化排位，达成“技术压倒政治”的远处掌舵（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 447–448]]）。
 > - **规制型法定指标与高利害问责（Regulatory Statutory Metrics & High-Stakes Accountability）** 将技术理性以联邦立法形式刚性固化，如《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）将“[[Scientifically Based Research\|基于科学的研究]]”与学生统考成绩强行绑定在人事惩戒上，误以为通过手段-目的工具控制即可直线提高学业产出，实质上诱发教学窄化与集体舞弊等系统性异化。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
-> - **“证据自身发声”的去主体迷误（The "Evidence Speaks for Itself" Fallacy）** 假定研究证据具有先验的确定性与自足性，忽视实践者在特定组织与社会文化脉络下的深思熟虑参与（Thoughtful Engagement）与专业重构，误以为证据产出的方法学优度可直接替代专业主体的认知转化与情境判断。[[Argument_Rickinson_2022_EducRes|(Rickinson et al., 2022a, pp. 139–141)]]
+> - **“证据自身发声”的去主体迷误（The "Evidence Speaks for Itself" Fallacy）** 假定研究证据具有先验的确定性与自足性，忽视实践者在特定组织与社会文化脉络下的深思熟虑参与（Thoughtful Engagement）与专业重构，误以为证据产出的方法学优度可直接替代专业主体的认知转化与情境判断。[[Argument_Rickinson_2022_EducRes|(Rickinson, Cirkony, et al., 2022, pp. 139–141)]]
 > - **全域监测与数据回传的技术理性反馈回路幻觉（The Closed-Loop [[Feedback]] Fallacy of Large-Scale Assessment & Inspection）** 治理系统预设通过统考（如全域比较联考（[[Vergleichsarbeiten]], VERA））和学校外部督导（Schulinspektion, SI）收集量化数据并向学校回传反馈报告，学校便能据此在因果逻辑下自动完成微观教学改进；实证研究证实这种手段-目的自动反馈机制在现实中普遍遭遇成效缺失（mangelnde Effekte），重现了经典的理论-实践困境（Theorie-[[Praxis]]-Problem）（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）。
 > - **普适社会技术拜物教与去政治化专家超然地位（[[Abstract]] Universal Social Technologies & Expert Neutrality Fiction）** 国际多边机构（如 [[UNESCO]]、[[OECD|经合组织]]）将“教育规划”（educational planning）与“课程”（curriculum）等工具包装为超越特定地域与政治脉络的抽象普遍社会技术，自称能在任何语境下提升教育；技术理性由此将国际机构塑造成超然于民族国家内部政治纷争之上的“客观、中立、科学的诊断与开方专家”。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
 > - **“非理论化统计中立”与[[Behaviorism|行为主义]]隐匿包装（Atheoretical Pretense & Latent Behaviorism）** 将自身标榜为纯粹统计测量专家、声明不持[[Theoretical Standpoint|理论立场]]（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]），以此宣称数据能够客观反映真实；实质上却在[[Epistemology|认识论]]深层全盘承袭[[B. F. Skinner|伯尔赫斯·弗雷德里克·斯金纳]]（Burrhus Frederic Skinner）与[[Robert Glaser|罗伯特·格拉泽]]（Robert Glaser）的行为主义逻辑，将教学过程机械降格为外部刺激输入、目标行为输出与纠错反馈的技术控制回路。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 3–5)]]
@@ -300,7 +300,7 @@ updated: 2026-10-26
 > [!claim] [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]
 > **超国家循证咨询的技术理性神话与去政治化治理** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）深入解构了[[Global Education Evidence Advisory Panel|全球教育证据咨询小组]]（GEEAP）与[[World Bank|世界银行]]等超国家机构推行技术理性的机制。咨询小组宣称自身决策纯粹依托客观证据、超脱于各方利益，将科研严谨性等同于量化实验与[[Meta-analysis|元分析]]因果评估，借助“智能购买”等成本效益排位将教育改革转化为去情境化的方案采购。这种技术理性将一线教师的[[Phronesis|实践智慧]]与本土传统贬低为非正规经验，同时以中立科学修辞掩盖了[[Research Problem|研究议题]]遴选与资金流向背后深层的[[Geopolitics|地缘政治]]诉求与权力不对称，构筑了去政治化的虚假客观表象。[[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, pp. 347–348)]]
 
-> [!claim] [[Argument_Stone_2020_PolSoc\|Stone, Porto de Oliveira, and Pal (2020)]]
+> [!claim] [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]]
 > **跨国政策转移中的中立理性借鉴偏误与权力遮蔽** 戴安·斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，经典[[Policy Transfer Framework|政策转移框架]]深嵌于技术理性预设之中，将跨国[[Policy Mobility|政策流动]]窄化为技术性的中立经验汲取（Lesson-Drawing）与最佳实践复制，预设政策知识属于去政治化的工具性要素。这种技术理性假定不仅将流动方向单向锁定于由西方发达国家向落后边缘地区的扩散，更赋予自然科学与计量学科专家以独占性权威，完全漠视扎根于地方发展现场的经验智慧；国际发展合作实践表明，跨国政策借鉴必然嵌入于地缘政治的非对称权力网络之中，必须依托[[Policy Ambassador|政策大使]]与扎根本土的[[Representational Knowledge|代表性知识]]打破技术官僚理性垄断。[[Argument_Stone_2020_PolSoc\|(Stone et al., 2020, pp. 2–5, 8–10)]]
 
 ---
@@ -313,8 +313,8 @@ updated: 2026-10-26
 > [!claim] [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] / Bryk et al. (2015)
 > **摒弃自上而下输送与培育肥沃土壤** 长期以来，教育政策界误将证据推进构想为自上而下的“技术-理性”研究供给过程。[[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017, p. 127)]] 指出，这种线性传递因忽视学校中介条件与教师专业准备度而频遭受挫，并触发了以 [[ResearchED]] 为代表的草根教师证据运动。推动真正的[[Evidence-Informed Practice|证据知情实践]]（Evidence-Informed Practice, EIP），必须确立[[Professional Judgment|专业判断]]为整合研究、系统数据与课堂情境的核心枢纽，将知识流动理解为多方协同共创的[[Knowledge Mobilisation|知识动员]]社会互动过程。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 127–131)]]
 
-> [!claim] [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] / Coburn et al. (2009)
-> **破除“证据自身发声”迷思与确立“深思熟虑参与”的质量基准** 柯伯恩等（Coburn et al., 2009）与马克·里克森等（Mark Rickinson et al., 2022a）剖析了循证运动中技术理性的关键盲区——深信“证据会自行发声”（Evidence speaks for itself）。跨卫生、社会关照、教育与公共政策四大领域的[[Systematic Review|系统综述]]表明，单纯聚焦于优质研究供给的线性模式在各部门普遍遭遇实践落空。[[Quality Use of Research Evidence Framework|QURE]] 框架从认识论上确立了替代路径：[[Research Utilization|证据使用]]质量取决于“适切研究证据”（Appropriate Research Evidence）与实践主体“深思熟虑参与”（Thoughtful Engagement）的双核互构。克服技术理性，必须将证据确立为激发专业判断与集体探究的对话媒介，超越规训一线行为的操作处方。[[Argument_Rickinson_2022_EducRes|(Rickinson et al., 2022a, pp. 139–142)]]
+> [!claim] [[Argument_Rickinson_2022_EducRes|Rickinson, Cirkony, et al. (2022)]] / Coburn et al. (2009)
+> **破除“证据自身发声”迷思与确立“深思熟虑参与”的质量基准** 柯伯恩等（Coburn et al., 2009）与马克·里克森等（Mark Rickinson et al., 2022a）剖析了循证运动中技术理性的关键盲区——深信“证据会自行发声”（Evidence speaks for itself）。跨卫生、社会关照、教育与公共政策四大领域的[[Systematic Review|系统综述]]表明，单纯聚焦于优质研究供给的线性模式在各部门普遍遭遇实践落空。[[Quality Use of Research Evidence Framework|QURE]] 框架从认识论上确立了替代路径：[[Research Utilization|证据使用]]质量取决于“适切研究证据”（Appropriate Research Evidence）与实践主体“深思熟虑参与”（Thoughtful Engagement）的双核互构。克服技术理性，必须将证据确立为激发专业判断与集体探究的对话媒介，超越规训一线行为的操作处方。[[Argument_Rickinson_2022_EducRes|(Rickinson, Cirkony, et al., 2022, pp. 139–142)]]
 
 ---
 
@@ -346,7 +346,7 @@ updated: 2026-10-26
 > - **2021 — 证据合成中的技术理性解构与合法化危机防御机制** [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] 结合舍恩与哈贝马斯的理论，系统解构[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》背后的技术理性结构，揭示其如何将复杂动态的课堂简化为孤立[[Behaviorism|行为主义]][[Variable|变量]]与去情境化的手段-目的因果链条；确证教育行政系统引入这一标准化模型，实质上是将技术理性作为防御丹麦 2014 年公立学校改革引发的[[Legitimation Crisis|合法化危机]]的工具掩体。
 > - **2021 — 证据合成中的实证主义技术理性、[[Construct|构念]]混淆与[[Neo-Taylorism|新泰勒主义]]批判** [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] 结合舍恩对技术理性作为实证主义遗产的定位，解构《可见的学习》的非理论化修辞与实证还原论；揭示其在变量建模中剔除社会阶层造成[[Socioeconomic Status|阶级盲教学思维]]、在数据汇总中混淆异质构念，确证其效能气压计实质上演化为对教师劳动实施自上而下标准化监控的新泰勒主义工具。
 > - **2022 — 教师教育[[Evidence Era|证据时代]]的[[Epistemological Break|认识论断裂]]与[[Rationalized Myth|合理化神话]]** [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] 揭示技术理性在当代政策中演进为主导性合理化神话，通过自上而下的[[Policy-Based Evidence-Making|逆向证据生产]]（PBEM）维系国家对教师教育准入的集权控制。
-> - **2022 — [[Quality Use of Research Evidence Framework|QURE]] 框架对“证据自身发声”技术理性迷误的跨领域诊断** [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] 基于跨卫生、教育、社会关照与公共政策的[[Systematic Review|系统综述]]，诊断循证运动中技术理性的核心致命伤在于假设“证据会自行发声”，提出以适切证据与深思熟虑参与构成的 QURE 框架，系统瓦解单向供给迷思。
+> - **2022 — [[Quality Use of Research Evidence Framework|QURE]] 框架对“证据自身发声”技术理性迷误的跨领域诊断** [[Argument_Rickinson_2022_EducRes|Rickinson, Cirkony, et al. (2022)]] 基于跨卫生、教育、社会关照与公共政策的[[Systematic Review|系统综述]]，诊断循证运动中技术理性的核心致命伤在于假设“证据会自行发声”，提出以适切证据与深思熟虑参与构成的 QURE 框架，系统瓦解单向供给迷思。
 > - **2026 — 超国家循证咨询小组的技术理性独立性神话解构** [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] 剖析 GEEAP 与世界银行推行的“智能购买”成本效益排位与纯粹证据独立性宣告，揭示技术理性如何将教育严谨性狭隘等同于因果实验、边缘化本土实践智慧并掩盖议题遴选背后的地缘政治利益（pp. 347–348）。
 
 ---
@@ -379,7 +379,7 @@ updated: 2026-10-26
 > > 外部科学证据是否可以直接推导出具体的实践处方与政策指令。
 > >
 > > - **证据等级制主导者（[[Education Endowment Foundation|EEF]] / What Works）** 主张以黄金标准实验证据直接指导教学干预。
-> > - **证据知情与专业实践者（Nelson & Campbell, Biesta, Rickinson et al.）** 论证外部研究仅能为专业审议提供参考，必须通过教师的[[Phronesis|实践智慧]]（Phronesis）、深思熟虑参与与情境反思加以再创造。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 127–131)]]; [[Argument_Rickinson_2022_EducRes|(Rickinson et al., 2022a, pp. 139–141)]]
+> > - **证据知情与专业实践者（Nelson & Campbell, Biesta, Rickinson et al.）** 论证外部研究仅能为专业审议提供参考，必须通过教师的[[Phronesis|实践智慧]]（Phronesis）、深思熟虑参与与情境反思加以再创造。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 127–131)]]; [[Argument_Rickinson_2022_EducRes|(Rickinson, Cirkony, et al., 2022, pp. 139–141)]]
 
 > [!critique] 外部批评
 > - **消除[[Intentionality|主体意向性]]与价值神圣化** 将教师和学生还原为刺激-反应输入输出变量，预设既定目标不容置疑，排斥对教育伦理目的的追问。
@@ -401,7 +401,7 @@ updated: 2026-10-26
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] — 历史解构经合组织教育政策转向，揭示技术官僚理性如何以投入产出效率与数字测评遮蔽教育目的哲学辩论。
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 系统证伪科学研究直接驱动政策的线性假说，提出证据形态随政策生命周期演变的三阶段权变模型。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 跨国实证解构州级教育监测的技术基础设施，批判自动化即时反馈回路的技术理性修辞，揭示试错烹饪与做数据张力。
-> - [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] — 跨四大领域系统综述提出 QURE 框架，从认识论层面剖析“证据自身发声”的技术理性致命伤，确立双核质量基准。
+> - [[Argument_Rickinson_2022_EducRes|Rickinson, Cirkony, et al. (2022)]] — 跨四大领域系统综述提出 QURE 框架，从认识论层面剖析“证据自身发声”的技术理性致命伤，确立双核质量基准。
 > - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 批判联邦教育治理中将单一实验金标准作为准入门槛的规制型技术理性，揭示 NCLB 问责异化与增值评价治理悖论。
 > - [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] — 批判教育政策中长期主导的技术-理性研究灌输模型，阐述以专业判断为核心的多源证据知情实践与全系统知识动员。
 > - [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] — 剖析英格兰教师教育改革中技术理性的认识论断裂，揭示证据作为合理化神话在政策逆向生产中的政治把关功能。

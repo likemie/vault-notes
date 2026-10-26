@@ -4,7 +4,7 @@ type: argument
 authors:
   - "[[Wolfgang Mitter|Mitter, W.]]"
 source_language: en
-citation: "Mitter, W. (2009). Comparative Education in Europe. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 87–99). Dordrecht: Springer."
+citation: "Mitter, W. (2009). Comparative Education in Europe. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 87–99). Springer."
 year: 2009
 doi: ""
 citation_aliases:

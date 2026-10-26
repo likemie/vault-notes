@@ -26,7 +26,7 @@ citation_aliases:
   - "张寒旭等, 2023"
   - "张寒旭等 (2023)"
 isbn: "9787121464034"
-citation: '张寒旭, 罗梦思, 韦文求, 盘思桃. (2023). 科技创新"双循环"生态系统：基于粤港澳大湾区的实践与探索. 北京: 电子工业出版社.'
+citation: "张寒旭, 罗梦思, 韦文求, 盘思桃. (2023). 科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索. 电子工业出版社."
 tags:
   - theme/innovation-ecosystem
   - theme/regional-development

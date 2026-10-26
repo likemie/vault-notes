@@ -57,7 +57,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -90,14 +90,14 @@ updated: 2026-10-23
 > - **1995–1998 — 从“消除腐败之癌”到“知识银行”[[Paradigm|范式]]确立** 针对冷战后国际社会对“[[Washington Consensus|华盛顿共识]]”与结构调整计划（SAPs）强制贷款的广泛批判，沃尔芬森打破以往世界银行对政治与腐败议题的禁忌，强调制度透明、反腐败与善治；同时确立发展研究是跨国援助的先决中介，提出将世界银行由单一的资本转贷方重构为全球最大的发展知识集散库。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 1, 4)]]
 >   - **代表成果** 1996 年世行年会演说《面对挑战》（*People and Development*）、1998 年世界发展报告《知识与发展》（*Knowledge for Development*）。
 >   - **关键[[Construct|构念]]** [[Knowledge Bank|知识银行]]、战略契约、反腐败机制。
-> - **1999–2005 — 全面发展框架、国家所有权与多边治理重构** 倡导超越单纯宏观经济稳定与 GDP 指标的全面发展框架（Comprehensive Development Framework, CDF），强调社会公平、教育与卫生投资的不可替代性；推行强调受援国“国家自主权（Country Ownership）”的减贫战略文件（PRSPs），试图重构多边机构与全球南方国家的伙伴关系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 542)]]
+> - **1999–2005 — 全面发展框架、国家所有权与多边治理重构** 倡导超越单纯宏观经济稳定与 GDP 指标的全面发展框架（Comprehensive Development Framework, CDF），强调社会公平、教育与卫生投资的不可替代性；推行强调受援国“国家自主权（Country Ownership）”的减贫战略文件（PRSPs），试图重构多边机构与全球南方国家的伙伴关系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 >   - **代表成果** 启动全面发展框架试点、发起[[Global Development Network|全球发展网络]]（GDN）、创立世界银行开放知识与远程学习网络。
 >   - **关键机制** 减贫战略规划、多边债务减免、受援国[[Policy Brokerage|政策中介]]。
 
 ---
 
 > [!claim] 核心思想
-> 国际发展援助的本质不仅在于硬性资金与物资的借贷供给，更在于知识、经验与能力的全球共享；唯有将全球前沿实证研究同发展中国家本土制度情境相结合，并在反腐败与社会全纳的制度框架下赋予受援国国家自主权，才能达成可持续的减贫与全民优质教育。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–5)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 542)]]
+> 国际发展援助的本质不仅在于硬性资金与物资的借贷供给，更在于知识、经验与能力的全球共享；唯有将全球前沿实证研究同发展中国家本土制度情境相结合，并在反腐败与社会全纳的制度框架下赋予受援国国家自主权，才能达成可持续的减贫与全民优质教育。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 4–5)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 
 ---
 
@@ -108,7 +108,7 @@ updated: 2026-10-23
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 详尽剖析沃尔芬森 1996 年提出“知识银行”战略后，世行在知识生产、管理与传播全链条的制度重构。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 分析沃尔芬森时代设立的 PRSPs 与[[Knowledge Mediation|知识中介]]工具如何重塑[[Development Education|发展中国家教育]]政策依赖。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 分析沃尔芬森时代设立的 PRSPs 与[[Knowledge Mediation|知识中介]]工具如何重塑[[Development Education|发展中国家教育]]政策依赖。
 
 ---
 
@@ -126,7 +126,7 @@ updated: 2026-10-23
 > > 关于沃尔芬森所开创的“知识银行”模式究竟是促进了南北知识平等，还是深化了西方管理主义霸权。
 > >
 > > - **官方与倡导视角** 认为知识银行打破了冷战时期自上而下的命令式援助，以开放数据与证据库赋权受援国政府，使其能够依据严谨实证数据自主决策。
-> > - **批判学者与比较教育学家** 指出知识银行是一场精巧的[[Discourse|话语]]包装；沃尔芬森虽然倡导国家自主权，但世行通过设立标准化指标（如 SABER）与排他性实证标准，构建了高度自我引证的实证封闭循环，使受援国陷入更加隐蔽的“[[Governing at a Distance|远处治理]]”与认知依附。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 9–10)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 542–545)]]
+> > - **批判学者与比较教育学家** 指出知识银行是一场精巧的[[Discourse|话语]]包装；沃尔芬森虽然倡导国家自主权，但世行通过设立标准化指标（如 SABER）与排他性实证标准，构建了高度自我引证的实证封闭循环，使受援国陷入更加隐蔽的“[[Governing at a Distance|远处治理]]”与认知依附。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 9–10)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 542–545)]]
 
 ---
 

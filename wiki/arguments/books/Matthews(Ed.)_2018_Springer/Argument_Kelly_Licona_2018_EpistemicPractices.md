@@ -19,7 +19,7 @@ authors:
   - "Kelly, G. J."
   - "Licona, P."
 source_language: en
-citation: "Kelly, G. J., & Licona, P. (2018). Epistemic practices and science education. In M. R. Matthews (Ed.), History, philosophy and science teaching: New perspectives (pp. 139–165). Cham: Springer."
+citation: "Kelly, G. J., & Licona, P. (2018). Epistemic practices and science education. In M. R. Matthews (Ed.), History, philosophy and science teaching: New perspectives (pp. 139–165). Springer."
 year: 2018
 doi: "10.1007/978-3-319-62616-1_5"
 citation_aliases:

@@ -63,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -130,7 +130,7 @@ updated: 2026-10-22
 > [!concept-lens] 空间实在论与国家[[Ontology|本体论]]锁定
 > 探讨古典[[Geopolitics|地缘政治]]如何将空间客观性与国家有机体生存竞争相互捆绑，确立以领土控制为轴心的狭隘分析传统。
 
-> [!claim] [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]]; [[Argument_Moisio_2022_Springer|Moisio, S. (2022)]]
+> [!claim] [[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊 (2025)]]; [[Argument_Moisio_2022_Springer|Moisio (2022)]]
 > **客观容器假设与领土陷阱** 空间被理解为可测量、可占有的客观物理实体，构成大国角力的天然舞台；国家被界定为处于生存斗争中的社会有机体，天然需要排他性的生存空间（Lebensraum）。这一构型导致理论将民族国家预设为[[Doxa|不言自明]]的终极[[Unit of Analysis|分析单元]]，陷入阿格纽（John Agnew）所批判的“领土陷阱”（Territorial Trap），系统性遮蔽了超越国家疆界的跨国网络与次国家主体的能动实践。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, pp. 3–4, 11–12)]]; [[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 26)]]
 
 ---
@@ -140,7 +140,7 @@ updated: 2026-10-22
 > [!concept-lens] 权力主体一元化与教育能动性遮蔽
 > 剖析[[Hard Power|硬实力]]权力观如何剥夺文化、学术与教育系统的独立地缘政治身份。
 
-> [!claim] [[Argument_Rizvi_2022_Springer|Rizvi, F. (2022)]]
+> [!claim] [[Argument_Rizvi_2022_Springer|Rizvi (2022)]]
 > **权力军事化与高等教育工具化** 古典地缘政治将行动者一元化限制为主权国家，并将权力严格等同于军事威慑、边境防御与安全控制。由于大学没有常备军亦不直接占领领土，在概念上被归入“低政治”的技术性事务。在冷战等重大冲突中，大学与科研仅被当作服务国家外交宣传、情报搜集与安全防卫竞赛的单向工具，无法被承认为独立的空间实践者。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 90–91)]]; [[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 4)]]
 
 ---
@@ -150,7 +150,7 @@ updated: 2026-10-22
 > [!concept-lens] 数字资本主义与领土权力逻辑的当代延伸
 > 检视全球化与数字经济时代古典领土控制逻辑如何向核心技术供应链与关键工业基础设施渗透。
 
-> [!claim] [[Argument_Moisio_2022_Springer|Moisio, S. (2022)]]; [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, M. (2022)]]
+> [!claim] [[Argument_Moisio_2022_Springer|Moisio (2022)]]; [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral (2022)]]
 > **科技势力范围与古典权力逻辑共构** 尽管当代[[Knowledge-Based Economy|知识经济]]依托数字网络展开，古典领土权力逻辑并未退出历史舞台。大国竞争将半导体制造、跨国通信光缆、先进计算等战略产业重新领土化，把高科技企业视作国家意志代理人，通过技术断供、市场准入排他与长臂管辖划分新的势力范围。古典地缘政治的控制逻辑与[[New Geopolitics|新地缘政治]]的网络想象呈现共构交织态势。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]; [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 37–38)]]
 
 ---
@@ -160,7 +160,7 @@ updated: 2026-10-22
 > [!concept-lens] 跨国合作[[Paradigm|范式]]对立与地缘叙事解构
 > 对比传统大国基于硬实力的霸权干预逻辑同新兴大国倡导的发展型伙伴关系逻辑在对外战略修辞与实施载体上的深层分歧。
 
-> [!claim] [[Argument_King_2020_ECNUROE|King, K. (2020)]]
+> [!claim] [[Argument_King_2020_ECNUROE|King (2020)]]
 > **强制干预范式与南南互惠发展范式的理论对峙** [[Kenneth King|肯尼斯·金]]（Kenneth King）系统对比大国对外战略指出，传统西方大国对外干预范式植根于古典地缘政治的零和博弈假设，倾向于利用经济制裁、单边法规与政治治理条件施加规训，追求维护既有地缘势力范围；相反，以“[[Belt and Road Initiative|一带一路]]”倡议与[[Forum on China-Africa Cooperation|中非合作论坛]]为代表的[[South-South Cooperation|南南合作]]范式，在政策[[Discourse|话语]]中倡导互利共赢、文明互学互鉴与伙伴协商，并偏好运用经贸投资、全额奖学金供给、产教实体共建等正向发展激励，在跨大洲尺度上对冲了古典地缘政治的对抗性叙事。[[Argument_King_2020_ECNUROE|(King, 2020, pp. 231–233)]]
 
 ---

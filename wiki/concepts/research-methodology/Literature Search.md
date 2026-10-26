@@ -99,7 +99,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -373,7 +373,7 @@ updated: 2026-10-25
 > [!concept-lens] 数据库偏倚与语言覆盖边界维度
 > 检视宏观政策综述中检索来源与语言选择对证据代表性的制约，揭示技术检索边界引发的知识偏倚。
 
-> [!claim] [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]]
+> [!claim] [[Argument_Verger_2019_Discourse|Verger et al. (2019)]]
 > **商业索引库与英语发表偏向限制证据代表性** 在针对测试问责（[[Test-Based Accountability|TBA]]）全球扩散的[[Systematic Review|系统综述]]中，文献检索主要依托 Scopus 等商业数据库并局限于英语同行评审文献。这种检索边界虽然保障了纳入文献的方法学基准，但也使得广大非英语国家（如拉美、南欧）的本土经验以及未被国际引文数据库收录的发展中国家实证证据处于边缘地位，对综述结论的全球适用性与普适推广构成了结构性制约。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 252)]]
 
 ---
@@ -393,7 +393,7 @@ updated: 2026-10-25
 > |---|---|---|---|
 > | **论证与效度奠基** | 检索为项目奠定构念效度与理论基础，支撑学术合法性 | 研究方案设计、[[Literature Review\|文献综述]]开题 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011)]] |
 > | **知识空白识别** | 发现被忽略问题、矛盾结果与方法短板以确立[[Research Topic\|研究选题]] | 课题选题论证、学术前沿追踪 | [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] |
-> | **检索边界制约** | 单一商业库与语言限制会导致非英语与发展中国家经验缺失 | 大规模系统文献综述、全球政策比较 | [[Argument_Verger_2019_Discourse\|Verger, Parcerisa and Fontdevila (2019)]] |
+> | **检索边界制约** | 单一商业库与语言限制会导致非英语与发展中国家经验缺失 | 大规模系统文献综述、全球政策比较 | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] |
 > | **智能代理分工** | 智能代理承担微观信息初筛，人类聚焦宏观理论与战略综合 | 智能科研工作流、人机共生学习 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
 
 ---
@@ -446,5 +446,5 @@ updated: 2026-10-25
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统阐述文献检索七步法、主要学术数据库选用原则、搜索优先级排序与迭代检索策略。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen, Manion & Morrison (2011, Ch. 7)]] — 提出文献检索服务于理论论证与信效度的推进逻辑，梳理网络检索操作符、文献类型与来源质量甄别标准。
 > - [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015, Ch. 1)]] — 阐释文献分类的公开性与加工程度双维度、五种文献检索操作方法及文献检索在课题选题中的四项发现机制。
-> - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 报告基于 Scopus 数据库筛选 1,180 篇文献的大规模系统综述检索规程，实证反思英语数据库检索对非英语本土经验的覆盖偏倚。
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 报告基于 Scopus 数据库筛选 1,180 篇文献的大规模系统综述检索规程，实证反思英语数据库检索对非英语本土经验的覆盖偏倚。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告，阐述在智能时代自主研究代理如何承担微观文献挖掘与代码沙盒溯源，驱动人类科研分工向战略综合演化。

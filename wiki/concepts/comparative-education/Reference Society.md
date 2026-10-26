@@ -74,7 +74,7 @@ updated: 2026-10-26
 ---
 
 > [!def] Reference Society
-> 参考社会（Reference Society，亦称参照社会或模范社会），在比较教育学与公共政策转移研究中，指被主权国家决策者或特定教育系统视为[[Policy Borrowing|政策借用]]（Policy Borrowing）、制度改革或[[Discourse|话语]]合法化之理想典范的他国或地区社会。概念植根于施瑞尔（[[Jurgen Schriewer|Jürgen Schriewer]]）的“[[Externalization|外化]]假说”（Externalisation Thesis）与[[Niklas Luhmann|卢曼]]（Niklas Luhmann）的社会系统论，强调教育系统为了应对内部决策所固有的偶然性、价值争议与[[Scientific Uncertainty|认知不确定性]]，在内部能动建构出指向外部世界的“权威参照点”。在当代全球量化治理生态下，参考社会不仅由国际大型测评（如 [[PISA]]）排名所催生，更深受[[Geopolitics|地缘政治]]关系、文化亲近性与意识形态亲和力的深层制约。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 540, 545)]]; [[Argument_Xie_Li_Huang_2021_GEO|（谢爱磊等, 2021）]]
+> 参考社会（Reference Society，亦称参照社会或模范社会），在比较教育学与公共政策转移研究中，指被主权国家决策者或特定教育系统视为[[Policy Borrowing|政策借用]]（Policy Borrowing）、制度改革或[[Discourse|话语]]合法化之理想典范的他国或地区社会。概念植根于施瑞尔（[[Jurgen Schriewer|Jürgen Schriewer]]）的“[[Externalization|外化]]假说”（Externalisation Thesis）与[[Niklas Luhmann|卢曼]]（Niklas Luhmann）的社会系统论，强调教育系统为了应对内部决策所固有的偶然性、价值争议与[[Scientific Uncertainty|认知不确定性]]，在内部能动建构出指向外部世界的“权威参照点”。在当代全球量化治理生态下，参考社会不仅由国际大型测评（如 [[PISA]]）排名所催生，更深受[[Geopolitics|地缘政治]]关系、文化亲近性与意识形态亲和力的深层制约。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 540, 545)]]; [[Argument_Xie_Li_Huang_2021_GEO|（谢爱磊等, 2021）]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种被社会系统在内部主动“投射”和“建构”出的外部理想范本，用以为国内备受争议的改革方案提供不可抗拒的外部合法性与理性依据。
@@ -82,7 +82,7 @@ updated: 2026-10-26
 > - **边界** 参考社会是高度政治化与选择性的话语建构，不同于技术层面的客观最佳实践；参考社会是政策借用的方向性客体与象征符号，有别于跨越制度边界的借用全流程。
 
 > [!citation-card] 施瑞尔外化假说与外部参照点的系统建构
-> 在社会系统论视阈下，教育系统对外部参照点（External Points of Reference）的内部建构，能够赋予政策以额外意义，助力系统维系自身认同并生产确定性。现代社会敏锐感知到自身的偶然性，因而迫切需要通过外化至外部世界（如国际标准、世界潮流或参考社会）来消解国内决策的不确定性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 540)]]
+> 在社会系统论视阈下，教育系统对外部参照点（External Points of Reference）的内部建构，能够赋予政策以额外意义，助力系统维系自身认同并生产确定性。现代社会敏锐感知到自身的偶然性，因而迫切需要通过外化至外部世界（如国际标准、世界潮流或参考社会）来消解国内决策的不确定性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 540)]]
 >
 > *In the language of systems theory, the system's 'internal construction of external points of reference' generates additional meaning, helps reproduce its identity, and produces certainty. To cope with contingency and uncertainty, the system externalises authority to an external point of reference.*
 
@@ -92,7 +92,7 @@ updated: 2026-10-26
 > *At the intermediate nation-state level, PISA and its international rankings set up model societies for policy borrowing... PISA provides an institutional template for countries to follow in implementing education reforms and suggests alternative policy options.*
 
 > [!citation-card] 国际组织政策中介中经验汲取的自指性分歧
-> 世界教育改革数据库（WERD）的实证对比表明：经合组织（OECD）的政策报告倾向于指涉其他国家的外部经验以树立参考社会；相比之下，世界银行的政策中介则表现出强烈的自指性（Self-referential），其政策汲取几乎完全依托自身积累的最佳实践工具（如 SABER）和贷款项目，而非外部主权国家。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]
+> 世界教育改革数据库（WERD）的实证对比表明：经合组织（OECD）的政策报告倾向于指涉其他国家的外部经验以树立参考社会；相比之下，世界银行的政策中介则表现出强烈的自指性（Self-referential），其政策汲取几乎完全依托自身积累的最佳实践工具（如 SABER）和贷款项目，而非外部主权国家。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]
 >
 > *OECD reports tend to reference experiences in other countries. By contrast, the World Bank reports tend to be self-referential in drawing their lessons, in that the reports reiterate the Bank's own best practices... rather than referencing sovereign models.*
 
@@ -114,11 +114,11 @@ updated: 2026-10-26
 ---
 
 > [!feature] 核心要素与运作机制
-> - **系统论视角下的外化与不确定性管理** 遵循施瑞尔（Schriewer, 1990）与卢曼（Luhmann, 1995）的系统论阐发，现代公共教育体制深陷未来不可知与多元利益博弈的泥潭。国内政策辩论越激烈，决策者越需要将论证支点“外化”至世界体系或特定参考社会，以此构筑超脱本土派系纠葛的客观中立性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 540)]]
+> - **系统论视角下的外化与不确定性管理** 遵循施瑞尔（Schriewer, 1990）与卢曼（Luhmann, 1995）的系统论阐发，现代公共教育体制深陷未来不可知与多元利益博弈的泥潭。国内政策辩论越激烈，决策者越需要将论证支点“外化”至世界体系或特定参考社会，以此构筑超脱本土派系纠葛的客观中立性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 540)]]
 > - **跨国评估排名作为量化筛选机器** PISA 等跨国大规模测试通过全球单一量表排布，为世界各国自动生成了一目了然的“模范社会排行榜”。高位国家自动获得象征资本与道义光环，成为中介组织推销现成政策方案的展示载体。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 > - **文化亲近性与意识形态的偏向性参照** 参考社会的选择不仅取决于分数高低，更受到地缘、文化与政治制度的深刻筛选。西方政策界在面对东亚体系（如上海、新加坡）长期包揽 PISA 榜首时，往往以文化特异性与应试苦读为由排斥其作为制度模板，持续对文化亲近的北欧模式保持高度尊崇。[[Argument_Xie_Li_Huang_2021_GEO|（谢爱磊等, 2021）]]
 > - **双向话语建构与被参照国的主动合法化** 参考社会不仅是借用方的单向投射，也是被参照国（如芬兰）主动将国际排名转化为国内政策合法性的反身性实践。被参照国借此将本国体制包装为国际标杆以压制国内改革异见，推动本国专家成为全球政策中介网络中的学术明星。
-> - **多边机构中介取向的分野：外向型同行参照与机构自指性** 依据全球教育改革数据库（WERD）的文本挖掘，经合组织将建构外部参考社会作为政策中介的核心；相反，世界银行在经验汲取中表现出鲜明的自指性，其政策处方主要指涉自身积累的 SABER 指标集和借贷项目，将自身塑造为终极参照体。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]
+> - **多边机构中介取向的分野：外向型同行参照与机构自指性** 依据全球教育改革数据库（WERD）的文本挖掘，经合组织将建构外部参考社会作为政策中介的核心；相反，世界银行在经验汲取中表现出鲜明的自指性，其政策处方主要指涉自身积累的 SABER 指标集和借贷项目，将自身塑造为终极参照体。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]
 
 > [!logic-map]- 参照社会在政策转移与外化中的运作机制
 > ```mermaid
@@ -146,7 +146,7 @@ updated: 2026-10-26
 > 本类命题围绕公共政策系统为何需要树立模范社会展开，阐发内部自我参照失效时决策精英调用外部权威的因果逻辑。
 
 > [!claim] Schriewer, J. & Luhmann, N.
-> **外部参照点的系统论建构机制** 现代社会教育系统的结构性矛盾与决策歧义性，迫使政策行动者通过“内部建构外部参照点”来获得论据豁免权。参考社会是本土系统为克服自身内在合法性赤字而主动建构的认识论避风港，其权威建立于"仿佛有效"的话语投射之上——只有当它看似有效时，这一建构才发挥实际效用。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 540)]]
+> **外部参照点的系统论建构机制** 现代社会教育系统的结构性矛盾与决策歧义性，迫使政策行动者通过“内部建构外部参照点”来获得论据豁免权。参考社会是本土系统为克服自身内在合法性赤字而主动建构的认识论避风港，其权威建立于"仿佛有效"的话语投射之上——只有当它看似有效时，这一建构才发挥实际效用。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 540)]]
 
 > [!claim] [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]]
 > **自我参照失效与全球化语义借用** 当公共政策系统内部面临财政紧缩、党派撕裂或公众信任危机时，基于本土传统的自我参照已无法化解制度僵局。决策精英必然启动外部化策略，诉诸全球化语义，借助跨国比较数据的科学光环与模范社会树立改革不可避免性的权威依据。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021)]]
@@ -171,17 +171,17 @@ updated: 2026-10-26
 > [!concept-lens] 多边机构知识中介的分野机制
 > 本类命题聚焦全球数字治理时代多边组织如何通过差异化策略重构模范社会逻辑。
 
-> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]]
-> **外向型同行参照与自指性中介的分野** 在数字治理时代，政策中介工具箱的多样化瓦解了单一模范逻辑：经合组织依托横向国别比较维持外向型参考社会网络；世界银行则通过排他性技术工具（SABER）构筑起闭门自证的自指性话语体系，将自身工具直接等同于最佳实践。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]
+> **外向型同行参照与自指性中介的分野** 在数字治理时代，政策中介工具箱的多样化瓦解了单一模范逻辑：经合组织依托横向国别比较维持外向型参考社会网络；世界银行则通过排他性技术工具（SABER）构筑起闭门自证的自指性话语体系，将自身工具直接等同于最佳实践。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **外化建构命题** | 内部自我参照失效时，决策者通过建构外部模范社会打破政治僵局 | 政策合法性危机、党派对立、教育法案重组 | Schriewer (1990); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]]; [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] |
+> | **外化建构命题** | 内部自我参照失效时，决策者通过建构外部模范社会打破政治僵局 | 政策合法性危机、党派对立、教育法案重组 | Schriewer (1990); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]; [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] |
 > | **文化筛选命题** | 模范社会的确立受文化亲和力与地缘政治偏见的隐性规制 | 跨国评估高分国家效仿方向分化、西方对东亚体系评价 | [[Argument_Li_2025_HSSC\|Li et al. (2025)]]; [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] |
-> | **中介分化命题** | 超国家机构在经验汲取中分化为外向型同行比较与自指性中介工具 | 经合组织国别审查、世界银行项目贷款与知识中介 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] |
+> | **中介分化命题** | 超国家机构在经验汲取中分化为外向型同行比较与自指性中介工具 | 经合组织国别审查、世界银行项目贷款与知识中介 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] |
 
 ---
 
@@ -190,7 +190,7 @@ updated: 2026-10-26
 > - **2000–2003 — PISA 首轮冲击与芬兰神话全球化** PISA 2000 公布彻底打破了传统政策借用版图。芬兰迅速成为全球公认的超级参考社会，德国等国因 PISA 休克启动全德统一教育标准改革，参考社会确立自此与跨国量化测评紧密绑定。
 > - **2009–2018 — 上海崛起与东亚参照体系的认识论震荡** PISA 2009 上海夺冠在欧美引发强烈心理震荡。尽管遭受去情境化指责，东亚高绩效体系依然进入全球参考社会讨论版图，促使西方学者反思自身参照体系的文化排他性。
 > - **2021 — 批判教育政策社会学解构两类模范社会** [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等（2021）]]系统梳理 PISA 催生的北欧经典范本与东亚新兴高地两类模范社会，揭示外部化借用与模范社会树立在克服本土改革阻力中的因果机制。
-> - **2024 — 数字治理时代的中介分化与自指性重构** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] 依托全球教育改革数据库（WERD），揭示经合组织外向型同行参照与世界银行自指性中介体系的分野，深化了多边机构软治理的机制分析。
+> - **2024 — 数字治理时代的中介分化与自指性重构** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] 依托全球教育改革数据库（WERD），揭示经合组织外向型同行参照与世界银行自指性中介体系的分野，深化了多边机构软治理的机制分析。
 
 ---
 
@@ -220,7 +220,7 @@ updated: 2026-10-26
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b, p. 545)]] | 世界教育改革数据库（WERD）数千份多边政策文本（1960–2020） | 全球多边治理数据库文本挖掘与计量对比 | 政策建议中的外部国家指涉率 vs 机构自身工具指涉率 | 经合组织报告高度指涉具体成员国外部经验；世界银行报告中外部主权国家指涉率极低，主要指涉自身 SABER 指标集与贷款项目 | $N > 1000$ 份文本 | 确证经合组织同行参照与世界银行自指性中介体系的制度分立 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024, p. 545)]] | 世界教育改革数据库（WERD）数千份多边政策文本（1960–2020） | 全球多边治理数据库文本挖掘与计量对比 | 政策建议中的外部国家指涉率 vs 机构自身工具指涉率 | 经合组织报告高度指涉具体成员国外部经验；世界银行报告中外部主权国家指涉率极低，主要指涉自身 SABER 指标集与贷款项目 | $N > 1000$ 份文本 | 确证经合组织同行参照与世界银行自指性中介体系的制度分立 |
 > | [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] | 经合组织参测国政策文献追踪（德国、英国、日本等） | 批判教育政策社会学文献报告 | 模范社会借用在政策指引与政策背书中的功能分化 | 苏格兰工会援引芬兰案例要求提高教师薪资与自主权；德国援引国际标准促成 16 州全票通过国家统一教育标准 | 40 余篇国别政策追踪文献综合分析 | 确证模范社会数据既充当制度重组的蓝图，又充当党派攻防与政策背书的工具 |
 
 ---
@@ -228,7 +228,7 @@ updated: 2026-10-26
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 系统综述 PISA 如何通过设立参考社会驱动全球政策借用，剖析韩国、法国的动态参照切换与文化亲和力对客观排名的过滤机制。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 运用国际关系三大传统解构现实主义比较教育中的参考社会与反参考社会，剖析地缘霸权与制度榜样的共生关系。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 结合施瑞尔外化假说与 WERD 数据库，揭示经合组织外向型同行参照与世界银行自指性中介体系的制度分立。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 结合施瑞尔外化假说与 WERD 数据库，揭示经合组织外向型同行参照与世界银行自指性中介体系的制度分立。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 揭示 PISA 催生的北欧与东亚两类模范社会，阐明决策层在自我参照失效时如何借助模范社会与跨国数据化解本土政治僵局。
 
 ---

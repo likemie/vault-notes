@@ -20,7 +20,7 @@ publisher: "Kallmeyer in Verbindung mit Klett"
 year: 2014
 doi: ""
 isbn: "9783780048042"
-citation: "Terhart, E. (Hrsg.). (2014). Die Hattie-Studie in der Diskussion: Probleme sichtbar machen. Seelze: Kallmeyer in Verbindung mit Klett."
+citation: "Terhart, E. (Hrsg.). (2014). Die Hattie-Studie in der Diskussion: Probleme sichtbar machen. Kallmeyer in Verbindung mit Klett."
 tags: ["theme/educational-research", "theme/evidence-based-education", "theme/book-reading"]
 sources:
   - "[[books/Terhart_2014_Kallmeyer/Terhart_2014_Kallmeyer|Terhart_2014_Kallmeyer]]"

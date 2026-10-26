@@ -91,7 +91,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -210,18 +210,18 @@ updated: 2026-10-23
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 检索 Web of Science 数据库中关于教育（1,825 篇）与公共卫生（1,660 篇）政策证据利用的系统综述文献，以此作为跨部门文献计量比对与共被引网络测绘的底层分析样本（pp. 29–32, 64–65）。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 检索 Web of Science 数据库中关于教育（1,825 篇）与公共卫生（1,660 篇）政策证据利用的系统综述文献，以此作为跨部门文献计量比对与共被引网络测绘的底层分析样本（pp. 29–32, 64–65）。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统综述的方法论权威教材，详述研究问题制定、纳入排除、穷尽检索、偏倚风险评估与数据综合的完整操作规范。
 > - [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] — 调查全球 15 个代表性证据门户对系统综述标准的采纳率（Table 7.1），解构聚合型与配置型系统综述在国家有效性网络与证据生态中的认识论定位与标准塌陷风险。
-> - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022b)]] — 在 OECD 编著第九章中，通过对卫生保健、社会关照、公共政策与教育四大领域文献开展跨行业系统综述与叙事综合，奠定 QURE 框架的理论基础。
+> - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson, Walsh, et al. (2022)]] — 在 OECD 编著第九章中，通过对卫生保健、社会关照、公共政策与教育四大领域文献开展跨行业系统综述与叙事综合，奠定 QURE 框架的理论基础。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 遵循 PRISMA 框架从 SSCI 与 Scopus 数据库系统检索并筛选 85 篇 PISA 政策影响实证研究，使用编码分析探讨 PISA 对全球基础教育改革的影响。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]] — 教材第 17 章节系统阐述系统综述与研究综合的定义、类型、EPPI-Centre 七项质量准则与方法学警示。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 遵循 PRISMA 报告，三库系统检索并双盲两阶段筛选 109 项学校研究使用实证研究，运用 MMAT 工具评估质量并采用框架综合法进行证据整合。
 > - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] — 结合系统综述的检索与筛选规程及批判性综述方法，解构 34 篇文献并提出第四代专业敏感型研究使用理论。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 遵循 PRISMA 指南对 67 篇实证文献开展系统综述，结合双人双盲 MMAT 质量评价与三阶段主题综合法，系统解构生成式人工智能在高等教育中的效用与风险。
-> - [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] — 在四大数据库检索并纳入跨领域 112 篇文献，以叙事综合提炼证据使用质量特征，建构 QURE 框架。
+> - [[Argument_Rickinson_2022_EducRes|Rickinson, Cirkony, et al. (2022)]] — 在四大数据库检索并纳入跨领域 112 篇文献，以叙事综合提炼证据使用质量特征，建构 QURE 框架。
 > - [[Argument_Gorard_2020_ROE|Gorard et al. (2020)]] — 针对如何使研究证据有效投入使用的因果机制，对逾 335 万条数据库记录开展跨学科系统综述，运用戈拉德研究可信度筛子严格质评，识别出 33 项具备反事实对照设计的因果评估研究。
 > - [[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al. (2024)]] — 在 WWC 等四大证据库检索 129 项实践并评定证据等级，再与学区 2.88 亿美元 Title I 支出对照，测算资金投向循证实践的比例。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 对《可见的学习》2,111 项元分析开展预注册审计，对照 PRISMA 与 MECCIR 规范发现仅 19.3% 满足 PICO 要求，并存在严重数据缺失。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 追踪瑞典学校督察局在开展质量审计时对“知识综述”（Knowledge Review）的编制与使用机制，揭示官方如何依托单一片面范式组织综述并规训学术多元性（pp. 648–650）。
-> - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 基于 Scopus 数据库检索并筛选 158 篇教育治理实证文献，采用国别提取表聚合跨期碎片研究，系统分析国家评估与考试问责在全球三大行政传统下的扩散演进。（pp. 252–253）
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于 Scopus 数据库检索并筛选 158 篇教育治理实证文献，采用国别提取表聚合跨期碎片研究，系统分析国家评估与考试问责在全球三大行政传统下的扩散演进。（pp. 252–253）

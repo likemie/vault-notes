@@ -14,7 +14,7 @@ argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
 book_title: "Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation"
-citation: "Amos, S. K. (2022). Which Vision of Education for Late Modernity? In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation* (pp. 53–65). Cham: Springer."
+citation: "Amos, S. K. (2022). Which vision of education for late modernity? In M. Parreira do Amaral & C. Thompson (Eds.), *Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation* (pp. 53–65). Springer."
 publication_place: "Cham"
 publisher: "Springer"
 tags:

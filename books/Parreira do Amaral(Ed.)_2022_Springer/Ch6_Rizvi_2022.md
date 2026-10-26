@@ -1,5 +1,5 @@
 ---
-citation: "Rizvi, F. (2022). Rise of Asia, geopolitical shifts and higher education. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 89–103). Springer."
+citation: "Rizvi, F. (2022). Rise of Asia, geopolitical shifts and higher education. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation (pp. 89–103). Springer."
 extracted_to:
   - "[[Argument_Rizvi_2022_Springer]]"
 processed_date: 2026-05-10

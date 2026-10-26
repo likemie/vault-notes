@@ -1,5 +1,5 @@
 ---
-citation: "Cowen, R. & Kazamias, A. M. (Eds.). (2009). International Handbook of Comparative Education. Dordrecht: Springer."
+citation: "Cowen, R. & Kazamias, A. M. (Eds.). (2009). International handbook of comparative education. Springer."
 extracted_to:
   - "[[Argument_Cowen(Ed.)_2009_Springer]]"
 processed_date: 2026-09-06

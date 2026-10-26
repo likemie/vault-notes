@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -171,4 +171,4 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion and Morrison (2011, Ch8)]] — 系统介绍概率抽样的六大子类型、抽样框构建、样本量计算准则与偏倚风险控制。（pp. 143–155）
-> - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 辨析国家大尺度测评中随机抽样监测与全员普查测评的治理功能分野，揭示抽样评估天然支持低利害系统诊断、而无法直接用于高利害市场问责与排位奖惩的制度边界。（pp. 250–252, 263）
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 辨析国家大尺度测评中随机抽样监测与全员普查测评的治理功能分野，揭示抽样评估天然支持低利害系统诊断、而无法直接用于高利害市场问责与排位奖惩的制度边界。（pp. 250–252, 263）

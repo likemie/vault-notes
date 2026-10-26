@@ -1,5 +1,5 @@
 ---
-citation: "Gilison, S., & Wilson, A. (2025). University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 141-154). Springer."
+citation: "Gilison, S., & Wilson, A. (2025). University-based startups and entrepreneurship: A practical guide for industry collaboration. In R. Hall & A. Boccanfuso (Eds.), University-industry collaboration: Innovation at the interface (pp. 141–154). Springer."
 extracted_to:
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
 processed_date: 2026-05-29

@@ -118,7 +118,7 @@ updated: 2026-10-26
 ---
 
 > [!def] Professional Judgment
-> 专业判断（Professional Judgment）指教师与教育决策者在开放、复杂的教育情境中，基于专业知识、伦理价值、教学法原则与情境洞察，权衡多元信息并做出审慎决策的核心能力。在微观教学中，专业判断是[[Evidence-Informed Practice|证据知情实践]]（EIP）与[[Quality Use of Research Evidence Framework|研究证据质量使用框架]]（QURE）的多源证据整合枢纽；在宏观政策研制中，当既有实证研究供给不足或结论受限时，专业判断充当联结学科逻辑演绎、一线教学可行性论证与同行互信背书的制度性基石。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 129, 132)]]; [[Argument_Rickinson_2022_EducRes|(Rickinson et al., 2022a, pp. 139–141)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 19)]]
+> 专业判断（Professional Judgment）指教师与教育决策者在开放、复杂的教育情境中，基于专业知识、伦理价值、教学法原则与情境洞察，权衡多元信息并做出审慎决策的核心能力。在微观教学中，专业判断是[[Evidence-Informed Practice|证据知情实践]]（EIP）与[[Quality Use of Research Evidence Framework|研究证据质量使用框架]]（QURE）的多源证据整合枢纽；在宏观政策研制中，当既有实证研究供给不足或结论受限时，专业判断充当联结学科逻辑演绎、一线教学可行性论证与同行互信背书的制度性基石。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 129, 132)]]; [[Argument_Rickinson_2022_EducRes|(Rickinson, Cirkony, et al., 2022, pp. 139–141)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 19)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 专业判断指向教育者在不确定性、复杂互动与价值多元情境下的[[Reflexivity|反思性]]决策机制，是连接外部科学规律与特定教学现场及宏观政策设计的解释性桥梁。
@@ -237,8 +237,8 @@ updated: 2026-10-26
 > [!claim] [[Argument_Verger_2019_Discourse|Verger et al. (2019)]]
 > **测验问责工具对教师专业裁量权的侵蚀与跨国抵制分化** 基于全球 158 篇实证文献的系统综述表明，国家大规模评估与测验问责工具的推行打破了既有治理平衡，赋权掌握测评技术的官僚与商业专家，边缘化了一线教师的专业判断。在北欧等重视教师自主的体制下，教师对问责政策的抵制深受专业规范驱动：挪威教师因感知到专业自主与判断力受到侵蚀而对低质量统考展开批判；南欧拿破仑传统下的教师工会则因强问责冲击教学裁量权而发起激烈的常任文官式抵制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 251, 262)]]
 >
-> [!claim] [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]]
-> **循证医学阶梯迷信对专业判断的侵蚀与复杂系统反思** 联合国教科文组织全球教育研究利用报告跨领域梳理公共卫生循证演进指出，早期循证医学过度尊崇以随机对照试验（RCT）与定量元分析为顶端的因果证据金字塔，直接造成了一线临床医师的专业判断与伦理关怀遭到系统性边缘化，并加剧了对深层健康社会决定因素的漠视。当公共卫生学界在危机应对中反思生物医学局限、转向包容多元经验与一线洞察的复杂系统模型时，教育政策界的部分评级机构与智库近年来却在机械套用已被医学界反思的严苛因果阶梯，将学校制度与课堂生态简化为单一变量干预，粗暴排斥教师的专业判断与实践智慧，加剧了政策规划与教学实际的脱节。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 28–29, 32–33, 38)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]]
+> **循证医学阶梯迷信对专业判断的侵蚀与复杂系统反思** 联合国教科文组织全球教育研究利用报告跨领域梳理公共卫生循证演进指出，早期循证医学过度尊崇以随机对照试验（RCT）与定量元分析为顶端的因果证据金字塔，直接造成了一线临床医师的专业判断与伦理关怀遭到系统性边缘化，并加剧了对深层健康社会决定因素的漠视。当公共卫生学界在危机应对中反思生物医学局限、转向包容多元经验与一线洞察的复杂系统模型时，教育政策界的部分评级机构与智库近年来却在机械套用已被医学界反思的严苛因果阶梯，将学校制度与课堂生态简化为单一变量干预，粗暴排斥教师的专业判断与实践智慧，加剧了政策规划与教学实际的脱节。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 28–29, 32–33, 38)]]
 
 ---
 
@@ -250,8 +250,8 @@ updated: 2026-10-26
 > [!claim] [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]]; Campbell (2016); Evers and Kneyber (2015)
 > **四源整合枢纽与翻转系统** 证据知情实践（EIP）定义为专业判断、系统层面数据、课堂数据与研究证据的整合，专业判断是多源信息汇聚与审议的决定性枢纽。成为证据知情既需要严谨的证据，也需要严谨的专业判断过程；翻转系统（Flip the System）运动倡导以教师专业判断引领教育变革、抗衡自上而下的行政技术问责，使证据在教师主动批判、实施与改编的肥沃土壤中发挥效能。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 127–129, 132)]]
 
-> [!claim] [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]]; Boaz et al. (2019); Sharples (2013)
-> **跨领域[[Epistemology|认识论]]转向与双核融合** 跨越卫生、社会关照、教育与公共政策四大领域的[[Research Utilization|证据使用]][[Systematic Review|系统综述]]证实，各领域正经历由“证据本位（evidence-based）”向“证据知情（evidence-informed）”的深刻认识论转向（Boaz et al., 2019）。该转向的核心在于确立研究证据对专业知识是支持与补充（complementing）而非替代（replacing）关系。在 QURE 框架中，审慎参与和实施（Thoughtful Engagement and Implementation）要求教育者打破“证据自行发声”的被动迷思，通过批判研读与集体审议，将来自研究的最佳外生证据与实践者的现场专业判断及默会经验深度融通（Sharples, 2013; Spencer et al., 2012）。[[Argument_Rickinson_2022_EducRes|(Rickinson et al., 2022a, pp. 139–141)]]
+> [!claim] [[Argument_Rickinson_2022_EducRes|Rickinson, Cirkony, et al. (2022)]]; Boaz et al. (2019); Sharples (2013)
+> **跨领域[[Epistemology|认识论]]转向与双核融合** 跨越卫生、社会关照、教育与公共政策四大领域的[[Research Utilization|证据使用]][[Systematic Review|系统综述]]证实，各领域正经历由“证据本位（evidence-based）”向“证据知情（evidence-informed）”的深刻认识论转向（Boaz et al., 2019）。该转向的核心在于确立研究证据对专业知识是支持与补充（complementing）而非替代（replacing）关系。在 QURE 框架中，审慎参与和实施（Thoughtful Engagement and Implementation）要求教育者打破“证据自行发声”的被动迷思，通过批判研读与集体审议，将来自研究的最佳外生证据与实践者的现场专业判断及默会经验深度融通（Sharples, 2013; Spencer et al., 2012）。[[Argument_Rickinson_2022_EducRes|(Rickinson, Cirkony, et al., 2022, pp. 139–141)]]
 
 ---
 
@@ -282,8 +282,8 @@ updated: 2026-10-26
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **证据概率性** | 研究证据为开放系统中的概率性资源，需专业判断情境激活 | 教学决策、证据转化 | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; Pawson (2006) |
-> | **反数字治理与商业规训** | 数字审计与商业监控剥夺价值审议，因果阶梯机械套用侵蚀专业判断 | 政策评估、学校改进、数字打卡、资助审查与循证因果阶梯批判 | [[Argument_Biesta_2010_SPE\|Biesta (2010)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]; [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]]; [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] |
-> | **EIP 枢纽地位** | 专业判断为多源整合枢纽，研究证据是对专业智慧的补充与支持 | 证据知情实践推进、质量使用框架 | [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]; [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] |
+> | **反数字治理与商业规训** | 数字审计与商业监控剥夺价值审议，因果阶梯机械套用侵蚀专业判断 | 政策评估、学校改进、数字打卡、资助审查与循证因果阶梯批判 | [[Argument_Biesta_2010_SPE\|Biesta (2010)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]; [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]]; [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] |
+> | **EIP 枢纽地位** | 专业判断为多源整合枢纽，研究证据是对专业智慧的补充与支持 | 证据知情实践推进、质量使用框架 | [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]; [[Argument_Rickinson_2022_EducRes\|Rickinson, Cirkony, et al. (2022)]] |
 > | **支持性生态** | 专业判断依赖反馈循环与跨层组织支持，拒绝孤立直觉 | 教师专业发展、共同体建设 | [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
 > | **宏观政策与审计知识补位** | 在实证供给不足或技术审计产生制度裂隙时，专业判断充当学科逻辑演绎、一线可行性论证与微观斡旋缝合的支柱 | 宏观课程标准研制、大规模教育立法与国家学校督导 | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] |
 
@@ -302,11 +302,11 @@ updated: 2026-10-26
 > - **2019 — 跨国测验问责对教师专业判断的侵蚀与政体折射** [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] 通过 158 篇文献的系统综述，揭示基于测验的问责工具如何赋权商业测评专家并边缘化一线教师的专业判断，同时指出教师对专业裁量权受损的抵抗受本土行政传统深刻调节（挪威规范抗争与南欧工会抵制）。
 > - **2021 — 复杂改革评价的多维解读** [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]] 结合巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目，论证专业判断在解读复杂评估报告与权衡地方价值中的不可替代作用。
 > - **2022 — 循证医学危机镜像与反算法[[Cognitive Deskilling|去技能化]]** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] 引入循证医学（EBM）发展后期的危机教训（Greenhalgh et al., 2014），警示自动化算法与离散任务拆解对教师专业判断的剥夺，确立教学作为知识型专业的不可替代性。
-> - **2022 — 跨领域[[Research Utilization|证据使用]]框架确立专业判断的补充与支持地位** [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] 基于跨卫生、社会关照、教育与政策四大领域的[[Systematic Review|系统综述]]（[[PRISMA]] 10,813 $\to$ 112 篇核心文献），正式确立证据知情转向的[[Epistemology|认识论]]核心：研究证据旨在支持与补充专业专长而非替代专业判断，在 [[Quality Use of Research Evidence Framework|QURE]] 框架中将审慎实施与适切证据确立为双核互构支柱。
+> - **2022 — 跨领域[[Research Utilization|证据使用]]框架确立专业判断的补充与支持地位** [[Argument_Rickinson_2022_EducRes|Rickinson, Cirkony, et al. (2022)]] 基于跨卫生、社会关照、教育与政策四大领域的[[Systematic Review|系统综述]]（[[PRISMA]] 10,813 $\to$ 112 篇核心文献），正式确立证据知情转向的[[Epistemology|认识论]]核心：研究证据旨在支持与补充专业专长而非替代专业判断，在 [[Quality Use of Research Evidence Framework|QURE]] 框架中将审慎实施与适切证据确立为双核互构支柱。
 > - **2022 — 循证督导治理中践行智慧与专业判断的微观缝合机制** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 揭示，在国家学校督察局的常规督导与质量审计中，面对技术官僚将标准静态化的企图，一线督导员与研究者依靠微观情境中的具身与践行判断来缝合规程裂隙，确立了专业判断在官僚循证体制运转中的隐性支柱地位（pp. 648–655）。
 > - **2023 — [[Venture Philanthropy|风险慈善]]商业量规对专业判断的异层规训** [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] 基于对澳大利亚公共教育中风险慈善网络（[[Social Ventures Australia|SVA]]）的实证研究，指出弱势公立学校在竞逐企业项目赠款时，一线教师与校长的办学自主权与教育专业判断深度受制于外部商业问责与因果量规规训。
 > - **2023 — 新泰勒制监控软件与工业清单拜物教批判** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 揭露《[[Visible Learning|可见的学习]]》借用行政监控软件（[[Assessment Tools for Teaching and Learning|asTTle]]）管理界面气压计推行新泰勒制规训，贬抑教师专业判断为轶事传闻，以医学手术清单比附教学，导致澳大利亚维多利亚州推行 [[Victorian HITS and Literacy Toolkit|HITS]] 时一线教师日常专业直觉被形式主义板书打卡彻底取代（pp. 28–30）。
-> - **2024 — 跨部门借镜：因果证据阶梯对一线专业判断的边缘化与复杂系统转向** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al., 2024a, pp. 28–29, 32–33]]）基于公共卫生与教育的政策证据计量与制度对比，揭示了机械套用因果证据阶梯对一线临床医师与教师专业判断的系统性边缘化，指出教育与公共卫生决策同属复杂系统，必须破除单一变量因果迷信，确立实践者专业判断在证据整合中的合法性地位。
+> - **2024 — 跨部门借镜：因果证据阶梯对一线专业判断的边缘化与复杂系统转向** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al., 2024, pp. 28–29, 32–33]]）基于公共卫生与教育的政策证据计量与制度对比，揭示了机械套用因果证据阶梯对一线临床医师与教师专业判断的系统性边缘化，指出教育与公共卫生决策同属复杂系统，必须破除单一变量因果迷信，确立实践者专业判断在证据整合中的合法性地位。
 > - **2026 — 专业能动性与多维整合范式** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] [[Systematic Review|系统综述]]指出，学校[[Research Utilization|研究使用]]正由被动的线性实施转向以[[Teacher Professional Agency|教师专业能动性]]为核心的整合。
 
 ---
@@ -384,7 +384,7 @@ updated: 2026-10-26
 > *The process of being evidence-informed requires both rigorous evidence and a rigorous process of professional judgement.*
 
 > [!citation-card] 补充而非取代专业智慧
-> 研究证据并不能替代专业专长：相反，高质量使用证据涉及将专业专长与来自研究的最佳外生证据深度融通。[[Argument_Rickinson_2022_EducRes|(Rickinson et al., 2022a, p. 141, citing Sharples, 2013)]]
+> 研究证据并不能替代专业专长：相反，高质量使用证据涉及将专业专长与来自研究的最佳外生证据深度融通。[[Argument_Rickinson_2022_EducRes|(Rickinson, Cirkony, et al., 2022, p. 141, citing Sharples, 2013)]]
 >
 > *Research evidence does not replace professional expertise: rather, using evidence well involves integrating professional expertise with the best external evidence from research.*
 
@@ -408,7 +408,7 @@ updated: 2026-10-26
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引[[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]][[Epistemology|认识论]]批判《[[Visible Learning|可见的学习]]》证据被新自由主义政策断章取义挪用，确立实证证据作为“探究假设”而非“行动规则”的边界，论证[[Performance Pay|绩效工资]]对教师专业判断与互信生态的系统性破坏。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 批判《[[Visible Learning|可见的学习]]》以工业新泰勒制全景监控（[[Assessment Tools for Teaching and Learning|asTTle]]）与手术清单比附教学，系统揭示清单规训如何剥夺一线教师专业判断并诱发[[Performativity|表演性危机]]（pp. 28–30）。
-> - [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review|系统综述]]提出 [[Quality Use of Research Evidence Framework|QURE]] 框架，确立[[Research Utilization|证据使用]]由“证据本位”向“证据知情”的[[Epistemology|认识论]]转向，论证研究证据对专业判断的互补支持关系与审慎实施机制。
+> - [[Argument_Rickinson_2022_EducRes|Rickinson, Cirkony, et al. (2022)]] — 跨四大领域[[Systematic Review|系统综述]]提出 [[Quality Use of Research Evidence Framework|QURE]] 框架，确立[[Research Utilization|证据使用]]由“证据本位”向“证据知情”的[[Epistemology|认识论]]转向，论证研究证据对专业判断的互补支持关系与审慎实施机制。
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 考察美国[[Common Core State Standards|共同核心标准]]（CCSS）研制与采纳全过程，确立专业判断在学术实证供给不足时作为学科逻辑演绎、一线可行性论证与同行互信代理的宏观政策支柱地位。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 以[[Critical Realism|批判实在论]]将研究证据界定为开放系统中的概率性资源，分析抹杀专业判断导致的[[Teaching Assistant|教学助理]]误裁实证案例。
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 批判技术官僚[[Discourse|话语]]，提出教育核心在于价值审议（“为了什么目的”），确立专业判断的伦理与政治维度。
@@ -420,4 +420,4 @@ updated: 2026-10-26
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 研制 Teach [[Classroom Observation|课堂观察]]工具，确立高推论教学质量评定中“以全局质性专业判断替代机械算术平均”的测量学规程，并构建基于视频考核的观察员认证与偏误防御体系。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以瑞典国家学校督导为个案，揭示一线督导员与受邀学者如何通过行使未被官方正式承认的具身与践行专业判断，缝合科层技术审计与学校微观实态之间的制度裂隙（pp. 648–655）。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 基于全球 158 篇文献系统综述，揭示国家大规模评估与测验问责如何通过赋权测评官僚边缘化教师专业判断，并考察不同行政传统下教师维护专业自主权的抵制轨迹。
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 跨领域对比公共卫生与教育的政策循证演进，剖析过度套用临床试验与单一变量因果阶梯对医师及教师专业判断的边缘化危害，论证实践者专业判断与复杂系统模型在证据转化中的不可替代性。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 跨领域对比公共卫生与教育的政策循证演进，剖析过度套用临床试验与单一变量因果阶梯对医师及教师专业判断的边缘化危害，论证实践者专业判断与复杂系统模型在证据转化中的不可替代性。

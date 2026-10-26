@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-27
+updated: 2026-10-26
 ---
 
 ---
@@ -182,7 +182,7 @@ updated: 2026-10-27
 > [!concept-lens] 从理性决策到论证与合法化
 > 探讨当研究知识被用于证明既有政策与机构判断时，证据本位政策如何从理性决策模式转向论证、简化与合法化模式。
 
-> [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm, Lindgren and Novak (2022)]]
+> [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]]
 > **研究选择、文本铭写与双重合法化** 对[[Swedish Schools Inspectorate|瑞典学校督察局]]的[[Case Study|个案研究]]显示，证据本位治理可以同时包含两种非经典模式。常规督导先选定与提高[[Academic Achievement|学业成绩]]、保障等值性相契合的成功学校研究，再从中提炼评估领域并写入督导指令；这接近戈姆利所说的论证（强化既有意见）；说服（改变意见）的成分较少。质量审计则把研究者纳入参考组、编制知识综述，但最终报告在定稿前经传播秘书处重写，删去参考组讨论过的课程解释与情境因素；这接近史密斯所说的[[Forensic Style of Inspection|取证式调查]]，即证据被[[Assemblage|组装]]来支持政策结论，从冷静分析中浮现的发现居于次要位置。研究在此既提供方法上的“逻辑”（logos），也提供机构信誉上的“品格”（ethos），使督导得以合法化自身并延续特定国家政策。这种实践即“后现代”证据本位政策：信息被用来强化对实践的特定解释、建立共同理解，发现新知识居于次要位置。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648, 651–654)]]
 
 > [!claim] Gray et al. (2009); Smith (2000); Scott (1998)

@@ -57,24 +57,24 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 国际成人能力评估项目（Programme for the International Assessment of Adult Competencies，PIAAC）是[[OECD\|经合组织]]（[[OECD]]）于 2011 年推出的大规模成人核心认知技能跨国评估工程；作为针对劳动年龄人口的“成人版 [[PISA]]”，旨在测定数字化[[Knowledge-Based Economy\|知识经济]]时代成年劳动力在读写、计算与自适应[[Problem Solving\|问题解决]]上的实际技能储备与配置效率。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
+> 国际成人能力评估项目（Programme for the International Assessment of Adult Competencies，PIAAC）是[[OECD\|经合组织]]（[[OECD]]）于 2011 年推出的大规模成人核心认知技能跨国评估工程；作为针对劳动年龄人口的“成人版 [[PISA]]”，旨在测定数字化[[Knowledge-Based Economy\|知识经济]]时代成年劳动力在读写、计算与自适应[[Problem Solving\|问题解决]]上的实际技能储备与配置效率。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–543)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2011–2018 年推进第一轮评估（分三批涵盖近 40 个国家和经济体），2022–2024 年推进第二轮评估（引入自适应问题解决框架）。
 > - **发起方与资助机制** 经合组织教育与技能司协同就业、劳动与社会事务司联合发起，[[Educational Testing Service\|美国教育考试服务中心]]（ETS）、荷兰 cApStAn 审定中心等跨国机构联合技术研发，各参与国自筹国别调查经费。
 > - **覆盖范围与对象** 覆盖各参与国 16 至 65 岁常住居民家庭抽样人口（不限就业身份，包括在职、失业及退出劳动力市场的成年人），每国有效样本通常在 5,000 人以上。
-> - **核心问题导向** 应对全球产业技术革命与老龄化社会带来的“技能折旧”与“技能错配”危机，破除仅凭传统学历文凭评估劳动者能力的制度盲区，将[[Human Capital Theory\|人力资本]]测量延伸至终身发展全生命周期。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **核心问题导向** 应对全球产业技术革命与老龄化社会带来的“技能折旧”与“技能错配”危机，破除仅凭传统学历文凭评估劳动者能力的制度盲区，将[[Human Capital Theory\|人力资本]]测量延伸至终身发展全生命周期。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 ---
 
 > [!claim] 核心干预／机制假说
-> PIAAC 的核心假说认为：国家经济繁荣与社会凝聚力取决于劳动力所实际掌握并活化的“实际技能（Actual Skills）”，而非僵化的学历文凭；通过计算机自适应直接测验与丰富的背景调查，准确诊断技能赤字与利用不足，能够引导国家从单一学校教育投资转向全方位的终身技能生态治理。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> PIAAC 的核心假说认为：国家经济繁荣与社会凝聚力取决于劳动力所实际掌握并活化的“实际技能（Actual Skills）”，而非僵化的学历文凭；通过计算机自适应直接测验与丰富的背景调查，准确诊断技能赤字与利用不足，能够引导国家从单一学校教育投资转向全方位的终身技能生态治理。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 测算成年劳动力核心信息处理技能的跨国分布，量化技能对工资收入、就业概率与身心健康的因果回报率。
@@ -83,7 +83,7 @@ updated: 2026-10-22
 > - **实施控制** 训练专职入户访调员、全流程数字轨迹质控、严格的计算机自适应算法校准与跨国[[Item Response Theory\|项目反应理论]]（IRT）参数等价化处理。
 
 > [!citation-card] [[OECD\|经合组织]]能力治理从学校走向全生命周期的扩张
-> 经合组织在 2000 年正式推出[[PISA\|国际学生评估项目]]（PISA），此后相继衍生出成人能力评估（PIAAC）、教师教学调查（[[Teaching and Learning International Survey\|TALIS]]）等跨国评价平台，确立了不可逆转的跨国比较规制体系。这种将知识与能力彻底量化化的规制企业，使其不仅穿透了各成员国的中小学课程，更将多边治理的触角直接伸向劳动力技能市场与[[Lifelong Learning\|终身学习]]全生命周期。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> 经合组织在 2000 年正式推出[[PISA\|国际学生评估项目]]（PISA），此后相继衍生出成人能力评估（PIAAC）、教师教学调查（[[Teaching and Learning International Survey\|TALIS]]）等跨国评价平台，确立了不可逆转的跨国比较规制体系。这种将知识与能力彻底量化化的规制企业，使其不仅穿透了各成员国的中小学课程，更将多边治理的触角直接伸向劳动力技能市场与[[Lifelong Learning\|终身学习]]全生命周期。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 >
 > *[[Governing by Numbers\|governance by numbers]] fully evolved with PISA and PISA-induced education knowledge outlets. Cross-national comparison or metrics became the hallmark of the OECD. The quantification enterprise of the OECD became unstoppable, expanding its [[Reach]] into lifelong learning and adult competencies.*
 
@@ -120,7 +120,7 @@ updated: 2026-10-22
 > - **基础技能匮乏对民主信任的侵蚀** 读写算素养处于最低等级（低于 1 级）的群体，其社会政治信任度与政治参与度显著低下，健康素养匮乏且更易卷入贫困代际传递。
 
 > [!stat-cards]- 关键实证数据
-> 涵盖近 40 个国家和经济体、累计入户测试超 250,000 名成年劳动者，建立全球最大成人认知微观公共数据集，成为测算现代[[Human Capital Theory\|人力资本]]贬值与增值的顶级金标准。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> 涵盖近 40 个国家和经济体、累计入户测试超 250,000 名成年劳动者，建立全球最大成人认知微观公共数据集，成为测算现代[[Human Capital Theory\|人力资本]]贬值与增值的顶级金标准。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 ---
 

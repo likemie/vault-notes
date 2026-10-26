@@ -1,5 +1,5 @@
 ---
-citation: "Ryan, J. & Slethaug, G. (Eds.). (2010). International Education and the Chinese Learner. Hong Kong University Press."
+citation: "Ryan, J. & Slethaug, G. (Eds.). (2010). International education and the Chinese learner. Hong Kong University Press."
 extracted_to:
   - "[[Argument_Ryan_2010_HKUP]]"
 processed_date: 2026-05-17

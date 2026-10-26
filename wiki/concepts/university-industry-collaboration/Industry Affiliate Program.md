@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -127,7 +127,7 @@ updated: 2026-10-22
 > [!concept-lens] 机制探讨维度：前竞争风险分摊与议程共议
 > 该命题关注企业如何利用集合资金机制解决早期基础科研投资的不确定性，通过多方共担成本实现全行业技术扫描与生态培育。
 
-> [!claim] [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman, Radasch, & Thorsell (2025)]]
+> [!claim] [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]]
 > **会费池探索与专项转化的两阶段协同** 学者指出，单一企业若过早对高风险的基础性研究注入重金并谋求专属交付，极易因技术路线不确定而造成研发资源沉没。合同型产业联盟采用“用会费池做探索，用专项研究做转化”的机制设计，企业仅需承担几万美元的会员成本，即可撬动数十家企业汇聚的百万级科研基金，共同投票筛选具有产业共性潜力但尚不成熟的早期方案。一旦某个成果展现出明确的商业化可行性，看中该项技术的企业可立刻追加独立赞助资金开展定向深耕，从而在制度上完美隔离了早期探索的高风险。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 110–111)]]
 
 > [!claim] [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]]

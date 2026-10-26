@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -79,10 +79,10 @@ updated: 2026-10-22
 > [!person-profile] 人物档案
 > - **身份位置** 丹麦历史学与比较教育学者，奥尔堡大学（Aalborg University）教育社会学与全球教育治理教授、牛津大学全球史研究中心高级研究学者。
 > - **核心角色** 当代国际组织[[Historical Institutionalism|历史制度主义]]、跨国教育评估史与量化治理研究的领军学者之一；开创性提出“[[Global Education Governing Complex\|全球教育治理复合体]]”理论框架，系统重构二战后多边跨国组织相互交织的权力演变史。
-> - **代表贡献** 奠定[[Global Education Governing Complex\|全球教育治理复合体]][[Construct\|构念]]；深入研究[[OECD\|经合组织]]（[[OECD]]）与[[World Bank\|世界银行]]跨国指标帝国的崛起历程；在 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 中系统构建冷战地缘对抗向当代[[Policy Brokerage\|政策中介]]演化的历史脉络。
+> - **代表贡献** 奠定[[Global Education Governing Complex\|全球教育治理复合体]][[Construct\|构念]]；深入研究[[OECD\|经合组织]]（[[OECD]]）与[[World Bank\|世界银行]]跨国指标帝国的崛起历程；在 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] 中系统构建冷战地缘对抗向当代[[Policy Brokerage\|政策中介]]演化的历史脉络。
 
 > [!citation-card] 人物定位的关键来源
-> 克里斯蒂安·伊德森通过将严密的历史档案学与国际关系政治经济学相结合，彻底破除了国际组织自封的技术中立神话，揭示了全球[[Performance Indicators\|教育指标]]生产背后错综复杂的地缘博弈与霸权争夺。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–543)]]
+> 克里斯蒂安·伊德森通过将严密的历史档案学与国际关系政治经济学相结合，彻底破除了国际组织自封的技术中立神话，揭示了全球[[Performance Indicators\|教育指标]]生产背后错综复杂的地缘博弈与霸权争夺。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 540–543)]]
 >
 > *Christian Ydesen combines rigorous archival historiography with the political economy of international relations, effectively deconstructing the myth of technical neutrality self-fashioned by international organisations, and exposing the intricate geopolitical struggles and [[Hegemony]]-seeking behind global educational indicator production.*
 
@@ -94,7 +94,7 @@ updated: 2026-10-22
 > - **2011–2017** 任职于丹麦奥尔堡大学教育、学习与哲学系，主持丹麦独立研究基金会（DFF）关于[[OECD\|经合组织]]教育治理历史的多项重大科研项目。
 > - **2019** 与索蒂里亚·格雷克（Sotiria Grek）合著出版里程碑式专著《经合组织在教育领域的历史性崛起：全球治理复合体的形成》（*The OECD's Historical [[Research in Schools Evaluation\|RISE]] In Education: The Formation of a Global Governing Complex*），奠定跨国指标治理史学领军地位。
 > - **2023** 与马伦·埃尔弗特（Maren Elfert）合著出版《全球教育治理：[[UNESCO\|联合国教科文组织]]、经合组织与[[World Bank\|世界银行]]的历史与当代纠缠》（*Global Governance of Education: The Historical and Contemporary Entanglements of UNESCO, the OECD and the World Bank*）。
-> - **2024** 与吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）及[[Kerstin Martens\|克里斯汀·马滕斯]]（Kerstin Martens）在《比较教育》（*Comparative Education*）合作发表《[[Governing by Numbers\|数字治理]] 2.0：信息过载时代作为全球治理工具的[[Policy Brokerage\|政策中介]]》（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）。
+> - **2024** 与吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）及[[Kerstin Martens\|克里斯汀·马滕斯]]（Kerstin Martens）在《比较教育》（*Comparative Education*）合作发表《[[Governing by Numbers\|数字治理]] 2.0：信息过载时代作为全球治理工具的[[Policy Brokerage\|政策中介]]》（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024]]）。
 
 ---
 
@@ -118,7 +118,7 @@ updated: 2026-10-22
 > 全球教育治理是由冷战地缘博弈、西方资本重组与国际组织自我赋权共同形塑的历史制度复合体。[[OECD\|经合组织]]与[[World Bank\|世界银行]]通过与欧美核心国家政商精英结盟，利用危机叙事与量化测试工具，系统蚕食了[[UNESCO\|联合国教科文组织]]的人文主义教育领导权；在当代[[Governing by Numbers\|数字治理]]阶段，国际组织通过充当[[Policy Brokerage\|政策中介]]，将[[Façade of Rationality\|数字作为理性表象的脚手架]]，以不可抗拒的“硬事实”构筑起深度侵蚀民族国家教育自主权的软性规制霸权。
 
 > [!citation-card] [[Global Education Governing Complex\|全球教育治理复合体]]的[[Historical Institutionalism|历史制度主义]]定性
-> 全球教育治理复合体是由理念、制度惯性、统计技术网络与资本流动共同构筑的权力拓扑结构；它跨越了传统的主权边界与国际组织法定管辖权，将教育彻底重构为全球经济竞争与资本积累的从属机能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
+> 全球教育治理复合体是由理念、制度惯性、统计技术网络与资本流动共同构筑的权力拓扑结构；它跨越了传统的主权边界与国际组织法定管辖权，将教育彻底重构为全球经济竞争与资本积累的从属机能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 540–542)]]
 >
 > *The global education governing complex is a topological configuration of power constituted by ideas, institutional inertia, statistical networks, and capital flows; transcending traditional sovereign borders and formal jurisdictional mandates, it has fundamentally reconstructed education as a subsidiary function of global economic competition and capital accumulation.*
 
@@ -131,7 +131,7 @@ updated: 2026-10-22
 > - **跨国／跨领域传播** 成果在北欧比较教育学派、英国关键社会政策圈以及北美全球治理研究网络中获得广泛反响。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 作为第三作者，主导历史制度演进与[[Geopolitics|地缘政治]]脉络分析，揭示 [[OECD]] 与[[World Bank\|世界银行]]如何借战后危机动员确立硬事实[[Policy Brokerage\|政策中介]]特权。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 作为第三作者，主导历史制度演进与[[Geopolitics|地缘政治]]脉络分析，揭示 [[OECD]] 与[[World Bank\|世界银行]]如何借战后危机动员确立硬事实[[Policy Brokerage\|政策中介]]特权。
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] — 在[[Sociology of Measurement\|测量社会学]]层面与 Ydesen 的 [[International Indicators of Education Systems\|INES]] 指标历史档案形成紧密互证。
 
 ---

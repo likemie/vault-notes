@@ -151,9 +151,9 @@ updated: 2026-10-26
 > - **转译 (Translation) — 国家政策重编与话语杂糅** 接受国行动者在官方政策与法律中重新编码外来思想（Chameleon Process）。政策制定者常用[[Governance by Spin\|舆论操控]]手段制造杂糅话语，受既有教育传统（如[[Encyclopaedism\|百科全书主义]]）过滤（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009]]）。
 > - **转化 (Transformation) — 地方实践落地与微观权力挤压** 新语境中社会、政治、经济权力的压缩以及微观物质约束施加的深层结构形态重塑（Metamorphoses），其结果分布在本土化到“灭绝”的光谱上（[[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 255]]）。
 > - **五位置[[Champ|场域]]中介与[[Gatekeepers|守门人]]转译机制（Five-Position Structural Relay & Gatekeeper Translation）** 比奇将 3T 过程嵌入跨国教育场域的五位置流通网络：转移（Transfer）贯穿第一位置（全球学术空间）至第二位置（国际多边组织）再向第三位置（国家官僚系统）的流动，由国际机构通过紧迫[[Pragmatic Paradigm|实用主义]]删剪为标准化五大支柱模型并绑定贷款；转译（Translation）在第四位置（本土学术空间）被兼具大学学者、教育部顾问与国际智库专家的跨界“[[Gatekeepers|守门人]]”网络垄断，使合法政策话语沦为外部处方的注脚；转化（Transformation）则在第五位置（微观教育机构）遭遇极端物质匮乏与历史[[Habitus|惯习]]的重力压缩，导致一线教师产生普遍的实践脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]
-> - **[[Transfer Space\|转移空间]]与自指性系统转译（Transfer Space & Autopoietic Translation）** 转移不仅是地理空间位移，更是行动者、国际组织与智库中介交汇的多维关系[[Champ\|场域]]（Transfer Space）。依据[[Autopoiesis\|自创生]]系统论，外部规制（如[[New Public Management\|新公共管理]]的结果导向管理）必须在教育系统内部被转译为其自身的逻辑和语言编码（在教育中表现为“从教学转向学习”，并最终演变为“[[Datafication of Learning\|学习的数据化]]”）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 546)]]
+> - **[[Transfer Space\|转移空间]]与自指性系统转译（Transfer Space & Autopoietic Translation）** 转移不仅是地理空间位移，更是行动者、国际组织与智库中介交汇的多维关系[[Champ\|场域]]（Transfer Space）。依据[[Autopoiesis\|自创生]]系统论，外部规制（如[[New Public Management\|新公共管理]]的结果导向管理）必须在教育系统内部被转译为其自身的逻辑和语言编码（在教育中表现为“从教学转向学习”，并最终演变为“[[Datafication of Learning\|学习的数据化]]”）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 546)]]
 > - **社会-技术转译与拓扑数据装配（Sociotechnical Translation & [[Topological Spatialisation\|Topological Re-Assemblage]]）** 在科学技术学与政策拓扑学视角下，“转译”打破了纯话语文本分析，被阐释为异质行动者（决策官员、心理测量学者、算法参数、国家题库与数字平台）在“问题化、利益化、征募与动员”四阶段中被招募并装配为耐用基础设施的过程。在绩效数据治理中，国家标准借助数字自适应练习平台等“不变移动物”跨越宪政行政壁垒，直接折叠进微观教学实践，实现跨尺度的[[Governing at a Distance\|远处治理]]重组。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 136–144)]]
-> - **政策周期的程序性转译过滤（Procedural Filtering along Policy Cycle）** 转译在政策全流程中呈现阶段性政治漏斗效应：在议程设置与专家咨询阶段，外来知识与跨国证据被海量汇聚；而在进入法定决策与行政颁布阶段时，行政首脑机关实施严苛的政治与可行性过滤，仅选择性吸纳极少数能够作为“准外部合法化权威”为施政意志背书的特定证据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 546–547)]]
+> - **政策周期的程序性转译过滤（Procedural Filtering along Policy Cycle）** 转译在政策全流程中呈现阶段性政治漏斗效应：在议程设置与专家咨询阶段，外来知识与跨国证据被海量汇聚；而在进入法定决策与行政颁布阶段时，行政首脑机关实施严苛的政治与可行性过滤，仅选择性吸纳极少数能够作为“准外部合法化权威”为施政意志背书的特定证据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 546–547)]]
 
 > [!logic-map]- 转移空间（Transfer Space）中的 3T 传导与程序过滤机制
 > ```mermaid
@@ -234,7 +234,7 @@ updated: 2026-10-26
 > [!concept-lens] 探讨维度：自指性系统转译与政策全周期的程序性政治漏斗
 > 比较教育学者指出：跨国政策转移并非外部模式直接作用于本土，而是教育系统内部基于[[Autopoiesis\|自创生]]（autopoiesis）逻辑，将外部规制与国际议程转译为自身的功能编码（如“以学习为中心”与“[[Datafication of Learning\|学习数据化]]”），将其建构为推动本土改革的“准外部参照（quasi-external reference points）”；在政策流程中，转译呈现显著的漏斗效应——跨国证据在咨询与议程设置阶段被海量汇聚，而在决策颁布阶段遭遇行政政治与可行性严苛过滤。
 
-> [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b, pp. 545–547)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024, pp. 545–547)]]
 > - **自指性转译与准外部参照建构（Translation as Autopoietic Respecification）** 跨国政策转移依托系统内部转译：教育系统具有自指闭合性，外部规制话语（如[[New Public Management\|新公共管理]]的结果导向问责）无法直接穿透系统边界，必须在内部被重新编码为教育专业逻辑（表现为从关注教师教学转向关注学生学习，最终固化为以测评数据表征学习成效）。外部借用实为内部合法化策略，行动者将跨国组织（如 [[OECD]]）的指标建构为不可挑战的“准外部参照点”（quasi-external reference points），借此裁决国内争议。
 > - **政策周期的程序性漏斗过滤（Procedural Funneling along the Policy Cycle）** 转译在国家政策生命周期中表现为由宽到窄的漏斗式程序过滤。在早期议程设置与专家咨询阶段，[[Policy Brokerage\|政策经纪人]]广泛吸纳跨国比较证据与国际借词；但在进入内阁审议与行政立法阶段，行政首脑机关依据本土政治可行性、预算约束与既得利益博弈进行强力筛选，仅有极少数经过意识形态同化、能够赋能执政党议程的证据最终留存在官方政令与法定法案中。
 
@@ -247,7 +247,7 @@ updated: 2026-10-26
 > | **地缘政治与制度移植** | 分析国际关系范式与强制占领下的差异化转化 | 比较教育史、后殖民研究 | [[Argument_Klerides_2023_CE\|Klerides (2023, pp.422–427)]]; [[Argument_Cowen_2009_CE\|Cowen (2009b, p. 257)]] |
 > | **危机社会中的解耦与重组** | 揭示民国与建国后中国对外来思想的去政治化折算与三重变形 | 中国教育思想史、跨国转移 | [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024, pp. 614–623)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, pp. 79–93)]] |
 > | **现代评估时代的策略性借用与逆向形变** | 揭示以 PISA 样板为合法化工具的[[Policy Borrowing\|政策借用]]在本土政治与[[Media Logic\|媒介逻辑]]压缩下的形态变质 | 现代跨国比较、[[Mediatised Governance\|媒介化治理]]、实证政策分析 | [[Argument_Grey_2018_CE\|Grey and Morris (2018, pp. 116–124)]] |
-> | **自指性转译与程序性漏斗过滤** | 揭示政策转移依托系统内部转译建构准外部参照，并在政策周期中经历由宽到窄的政治漏斗过滤 | 全球教育治理、自指系统论、政策全流程追踪 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b, pp. 545–547)]] |
+> | **自指性转译与程序性漏斗过滤** | 揭示政策转移依托系统内部转译建构准外部参照，并在政策周期中经历由宽到窄的政治漏斗过滤 | 全球教育治理、自指系统论、政策全流程追踪 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024, pp. 545–547)]] |
 
 ---
 
@@ -259,7 +259,7 @@ updated: 2026-10-26
 > - **2018 — Grey & Morris 的[[Mediatised Governance\|媒介化治理]]与逆向转译拓展 (Mediatised Borrowing & [[Shape-Shifting]])** [[Paul Morris\|保罗·莫里斯]]（Paul Morris）与休·格雷（Sue Grey）将 3T 视角延伸至现代跨国评估（[[PISA]]）时代的[[Policy Borrowing\|政策借用]]，揭示了全球测评样板如何作为外部参考资源被国内政客通过“遗漏[[Discourse|话语]]”与媒介公关实施高度策略性的转译，并在媒体“[[Policy Avoidance\|政策规避]]”下最终转化为强化本土私有化与行政集权的异化形态。（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）
 > - **2023 — Klerides 的国际关系[[Paradigm\|范式]]引入 (Theoretical Expansion)** [[Eleftherios Klerides\|埃莱夫塞里奥斯·克莱里德斯]]（Eleftherios Klerides）从[[Wight's Three Traditions of International Theory\|国际关系理论]]视角拓展 3T 分析范式，划分为现实主义、理性主义与[[Revolutionism\|革命主义]]三大路径。（[[Argument_Klerides_2023_CE\|Klerides, 2023, pp.422–427]]）
 > - **2024 — Zhou & Westberg 的中国民国实证深化 (Historical Application)** [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] 运用 3T 框架精准拆解民国时期（1919–1928）[[John Dewey\|杜威]][[Pragmatic Paradigm\|实用主义]]在华转移、去政治化转译与转化为[[Scientific Attitude\|科学态度]]的历史过程。
-> - **2024 — Steiner-Khamsi et al. 的自指性转译与程序性过滤深化 (Autopoietic Translation & Procedural Funneling)** 吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）、Martens 与 Ydesen 将[[Niklas Luhmann\|卢曼]]系统论与政策全流程视角融入 3T 框架，指出转移发生在国际组织与本土行动者互动的多维“[[Transfer Space\|转移空间]]（Transfer Space）”；转译是教育系统内部将外部治理逻辑转化为“以学习为中心”的自指性重构，以建构准外部参照点；并在实证层面揭示了跨国借词在政策周期从咨询到颁布阶段所经历的由宽到窄的程序性政治漏斗。（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024b]]）
+> - **2024 — Steiner-Khamsi et al. 的自指性转译与程序性过滤深化 (Autopoietic Translation & Procedural Funneling)** 吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）、Martens 与 Ydesen 将[[Niklas Luhmann\|卢曼]]系统论与政策全流程视角融入 3T 框架，指出转移发生在国际组织与本土行动者互动的多维“[[Transfer Space\|转移空间]]（Transfer Space）”；转译是教育系统内部将外部治理逻辑转化为“以学习为中心”的自指性重构，以建构准外部参照点；并在实证层面揭示了跨国借词在政策周期从咨询到颁布阶段所经历的由宽到窄的程序性政治漏斗。（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024]]）
 
 ---
 
@@ -282,7 +282,7 @@ updated: 2026-10-26
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | 挪威能力导向课程改革（LK20）全周期政策文本（5 个专家委员会咨询报告及最终官方行政法令） | 政策全流程文本追踪与引证编码分析 | 跨国参考文献及借词数量与留存率（从咨询到颁布阶段） | 5 个专家委员会咨询报告共列出 464 篇参考文献（含大量 [[OECD]] 等国际证据）；最终官方行政法令仅保留 22 篇（留存率仅 4.7%），且其中 20 篇集中于单一委员会 | — | 证实政策转移在政策周期中存在显著的程序性政治漏斗效应，但基于挪威单一案例，在不同政治体制下的过滤幅度可能存在[[Heterogeneity\|异质性]] |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | 挪威能力导向课程改革（LK20）全周期政策文本（5 个专家委员会咨询报告及最终官方行政法令） | 政策全流程文本追踪与引证编码分析 | 跨国参考文献及借词数量与留存率（从咨询到颁布阶段） | 5 个专家委员会咨询报告共列出 464 篇参考文献（含大量 [[OECD]] 等国际证据）；最终官方行政法令仅保留 22 篇（留存率仅 4.7%），且其中 20 篇集中于单一委员会 | — | 证实政策转移在政策周期中存在显著的程序性政治漏斗效应，但基于挪威单一案例，在不同政治体制下的过滤幅度可能存在[[Heterogeneity\|异质性]] |
 > | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | 英格兰 [[PISA]] 2012 发布后的官方文本（议会辩论 Hansard 记录、OECD 简报与 147 张演示幻灯片）与主流媒体报道（7 家主要全国性大报与小报的 79 篇报道/社论，及广播电视全量报道） | 媒介[[Content Analysis\|内容分析]]与政策话语追踪 | 媒体对 PISA 报告及借用政策的批判性质询频数（[[Policy Avoidance\|政策规避]]率与遗漏话语占比） | 79 篇全国性报纸报道中仅有 2 篇（2.5%）提及 PISA 官方对教师表现与合作支持的正面肯定，其余 97.5% 完全顺从政客对英格兰教育“衰退”与“亟需[[Performance Pay\|绩效工资]]与督导”的危机话语；0 篇社论对政府声称“上海高分源于绩效工资”的因果扭曲提出实质质疑 | — | 展示大众媒介的“政策规避”如何助推外来样板在转译中发生形态变质，但数据局限于英国特定报业生态与 PISA 2012 单次周期 |
 
 ---
@@ -296,4 +296,4 @@ updated: 2026-10-26
 > - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 应用 3T 框架拆解民国时期[[John Dewey\|杜威]][[Democratic Education\|民主教育]]思想在中国的引进、转译折中与转化为[[Scientific Attitude\|科学态度]]的过程。
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 追踪杜威在中国长达 90 年的三重[[Recontextualization\|再脉络化]]，展示转译与转化的微观过滤机制。
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 将 3T 框架应用于分析现代跨国评估（[[PISA]] 2012）英格兰案例，阐明外来标杆在[[Mediatised Governance\|媒介化治理]]与国内政治博弈中的策略性转译与形态变质（[[Shape-Shifting]]）。
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] — 结合[[Autopoiesis\|自创生]]系统论与政策全流程视角拓展 3T 框架，揭示外部借词向“以学习为中心”的内部自指转译，并通过挪威实证案例证实跨国证据在从咨询到颁布阶段经历由宽到窄的程序性政治漏斗。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 结合[[Autopoiesis\|自创生]]系统论与政策全流程视角拓展 3T 框架，揭示外部借词向“以学习为中心”的内部自指转译，并通过挪威实证案例证实跨国证据在从咨询到颁布阶段经历由宽到窄的程序性政治漏斗。

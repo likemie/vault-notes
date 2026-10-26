@@ -4,7 +4,7 @@ type: argument
 authors:
   - "[[Gerald Grace|Grace, G.]]"
 source_language: en
-citation: "Grace, G. (2010). Reflection on the University and the Academic as 'Critic and Conscience of Society'. New Zealand Journal of Educational Studies, 45(2), 89–92."
+citation: "Grace, G. (2010). Reflection on the university and the academic as 'critic and conscience of society'. New Zealand Journal of Educational Studies, 45(2), 89–92."
 year: 2010
 doi: ""
 citation_aliases:
@@ -50,7 +50,7 @@ sources:
 part_of: ""
 status: completed
 created: '2026-05-07'
-updated: 2026-10-23
+updated: 2026-10-26
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grace_2010_NZJES"
@@ -102,7 +102,7 @@ journal: New Zealand Journal of Educational Studies
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **政策与档案样本** | 1988 年新西兰大学后义务教育与培训审查委员会档案、加里·霍克（Gary Hawke）报告文本（p. 24）及新西兰《1989 年教育法》（Education Act 1989）。 |
+> | **政策与档案样本** | 1988 年新西兰大学后义务教育与培训审查委员会档案、加里·霍克（Gary Hawke）报告文本及新西兰《1989 年教育法》（Education Act 1989）。 |
 > | **争鸣文献样本** | 哈蒂 2010 年 NZJES 第 45 卷第 1 期文章、《可见的学习》（2009）前言（pp. viii–ix）及导论。 |
 > | **社会学对照样本** | 伯恩斯坦 1970 年经典著作与纳什 2003 年《新西兰的社会阶级与教育》专著章节。 |
 

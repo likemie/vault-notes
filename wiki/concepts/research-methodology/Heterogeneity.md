@@ -105,7 +105,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -347,7 +347,7 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — [[Systematic Review|系统综述]]基于 [[PISA]] 2015 及[[Cognitive Load Theory|认知负荷理论]]的实证文献，论证了探究教学中[[Construct|构念]]子维度异质性（实验设计 vs 课堂争论）与学习者认知群体异质性（先前知识逆转、[[Executive Function|执行功能]][[Inhibitory Control|抑制控制]]）对教学干预效能边界的决定性作用。
-> - [[Argument_Wecker_2016_ZfE|Wecker, Hetmanek & Fischer (2016)]] — 系统解构《[[Visible Learning|可见的学习]]》在应对教育真实异质性时的模型双重失配（[[Fixed-Effect Model|固定效应]]同质性假定破产 vs 二级[[Random-Effects Model|随机效应]]微小[[Sample Size Determination|样本量]]下 $\tau^2$ 估计瘫痪），揭示教学法排名的德甲联赛式[[Category Mistake|范畴错误]]与干预时长剂量异质性扭曲。
+> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统解构《[[Visible Learning|可见的学习]]》在应对教育真实异质性时的模型双重失配（[[Fixed-Effect Model|固定效应]]同质性假定破产 vs 二级[[Random-Effects Model|随机效应]]微小[[Sample Size Determination|样本量]]下 $\tau^2$ 估计瘫痪），揭示教学法排名的德甲联赛式[[Category Mistake|范畴错误]]与干预时长剂量异质性扭曲。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 11, 23, 32)]] — 提出学校像监狱 100 人质性归因案例，论证单一统计指标对解释异质性的遮蔽，并阐明[[Complexity Theory|复杂性理论]]中异质性作为多重视角与多元[[Paradigm|范式]]倡导的核心公理。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统阐述[[Meta-analysis|元分析]]中异质性检验的统计学机制（Q、I²、固定/[[Random-Effects Model|随机效应模型]]）及[[Moderator Analysis|调节变量分析]]的理论价值。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对比分析英国 [[Education Endowment Foundation|EEF]] 工具包中的反馈与[[Teaching Assistant|教学助理]]项目，解构多级统计聚合抹杀教学情境异质性带来的政策风险。

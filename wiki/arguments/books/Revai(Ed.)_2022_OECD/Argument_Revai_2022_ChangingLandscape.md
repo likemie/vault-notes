@@ -22,7 +22,7 @@ doi: "10.1787/d7ff793d-en"
 citation_aliases:
   - "Révai, 2022"
   - "Révai (2022)"
-citation: "Révai, N. (2022). The changing landscape of research use in education. In N. Révai (Ed.), Who cares about using education research in policy and practice?: Strengthening research engagement (pp. 14–32). Paris: OECD Publishing. https://doi.org/10.1787/d7ff793d-en"
+citation: "Révai, N. (2022). The changing landscape of research use in education. In N. Révai (Ed.), Who cares about using education research in policy and practice?: Strengthening research engagement (pp. 14–32). OECD Publishing. https://doi.org/10.1787/d7ff793d-en"
 part_of: "[[Revai(Ed.)_2022_OECD]]"
 tags:
   - theme/knowledge-mobilisation

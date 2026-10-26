@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-17
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -120,7 +120,7 @@ updated: 2026-10-23
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 当某一学术议题或政策干预积累了大量分散、相互矛盾甚至对立的独立实证研究，亟需对其因果[[Effect Size|效应量]]级、[[Heterogeneity|异质性]]来源及干预规律进行系统评估时。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch17, p. 384)]] 此外，在公共治理与教育决策中，常设中介实体采用快速证据综合，可在紧迫[[Policy Window|政策窗口]]期内为高层决策提供定制化实证简报。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 35)]]
+> - **适合使用** 当某一学术议题或政策干预积累了大量分散、相互矛盾甚至对立的独立实证研究，亟需对其因果[[Effect Size|效应量]]级、[[Heterogeneity|异质性]]来源及干预规律进行系统评估时。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch17, p. 384)]] 此外，在公共治理与教育决策中，常设中介实体采用快速证据综合，可在紧迫[[Policy Window|政策窗口]]期内为高层决策提供定制化实证简报。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 35)]]
 > - **谨慎使用** 原始研究在概念[[Operationalization|操作化]]、测量工具和理论[[Paradigm|范式]]上存在高度异质性时；若强行合并计算总体平均数，会掩盖学科、学段和文化情境的决定性差异。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 96–97)]]
 > - **不适合使用** 处于探索初期的新兴研究领域（原始研究数量极少或缺乏方法学规范）；企图绕过对[[Primary and Secondary Documents|初级文献]]设计缺陷的严格把关，将低质量调查与严谨实验机械混合以追求庞大数据量的粗放操作。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 94–96)]]
 
@@ -149,5 +149,5 @@ updated: 2026-10-23
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引国际循证[[Policy Network|政策网络]]（[[EVIPNet]]）对研究综合的规范定义，严肃审查[[John Hattie|哈蒂]]未审查原始研究质量所带来的理论与政策风险。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch17)]] — 将研究综合界定为整合多篇实证成果以为政策和实践提供高质量证据基础的方法家族。
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 阐述乌干达[[Center for Rapid Evidence Synthesis|快速证据综合中心]]（ACRES）在数周内为内阁产出高质量实证简报并结合政策对话的常设治理机制。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 阐述乌干达[[Center for Rapid Evidence Synthesis|快速证据综合中心]]（ACRES）在数周内为内阁产出高质量实证简报并结合政策对话的常设治理机制。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 在梳理跨国阅读与数学教育干预中阐明研究综合的证据评级与最高方法学筛选标准。

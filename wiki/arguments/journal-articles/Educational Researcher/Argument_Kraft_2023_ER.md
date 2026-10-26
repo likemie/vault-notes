@@ -14,7 +14,7 @@ argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
 journal: Educational Researcher
-citation: "Kraft, M. A. (2023). The effect-size benchmark that matters most: Education interventions often fail. Educational Researcher, 52(3), 183-187. https://doi.org/10.3102/0013189X231155154"
+citation: "Kraft, M. A. (2023). The effect-size benchmark that matters most: Education interventions often fail. Educational Researcher, 52(3), 183–187. https://doi.org/10.3102/0013189X231155154"
 tags:
 - effect-size
 - randomized-controlled-trials

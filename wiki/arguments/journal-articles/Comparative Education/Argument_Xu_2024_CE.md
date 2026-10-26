@@ -14,7 +14,7 @@ argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
-citation: "Xu, S. (2024). 'One country, two narratives' of China as a nation: comparing Chinese history education in mainland China and Hong Kong. Comparative Education, 60(4), 573-590."
+citation: "Xu, S. (2024). 'One country, two narratives' of China as a nation: comparing Chinese history education in mainland China and Hong Kong. Comparative Education, 60(4), 573–590."
 tags:
   - region/china
   - region/hong-kong

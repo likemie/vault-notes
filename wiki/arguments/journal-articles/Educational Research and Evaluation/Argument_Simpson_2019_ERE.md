@@ -14,7 +14,7 @@ argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Educational Research and Evaluation
-citation: "Simpson, A. (2019). Separating arguments from conclusions: The mistaken role of effect size in educational policy research. Educational Research and Evaluation, 25(1-2), 99-109."
+citation: "Simpson, A. (2019). Separating arguments from conclusions: The mistaken role of effect size in educational policy research. Educational Research and Evaluation, 25(1–2), 99–109."
 tags:
 - effect-size
 - evidence-based-education

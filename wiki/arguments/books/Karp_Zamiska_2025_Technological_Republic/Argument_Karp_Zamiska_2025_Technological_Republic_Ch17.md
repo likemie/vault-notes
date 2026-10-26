@@ -20,7 +20,7 @@ publication_place: "New York"
 publisher: "Crown Currency"
 year: 2025
 isbn: "9780593798706"
-citation: "Karp, A. C., & Zamiska, N. W. (2025). “The Next Thousand Years”. In The technological republic: Hard power, soft belief, and the future of the West (pp. 190–204). New York: Crown Currency."
+citation: "Karp, A. C., & Zamiska, N. W. (2025). “The next thousand years”. In The technological republic: Hard power, soft belief, and the future of the West (pp. 190–204). Crown Currency."
 citation_aliases: []
 tags:
   - source/book-chapter

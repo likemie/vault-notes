@@ -3,7 +3,7 @@ summary: "以临床试验各阶段为框架，分析产学在生物制药临床�
 type: argument
 authors:
   - "Bang, S."
-citation: "Bang, S. (2025). University–Industry Relations in Clinical Trials. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 201–215). Cham: Springer."
+citation: "Bang, S. (2025). University–industry relations in clinical trials. In R. Hall & A. Boccanfuso (Eds.), University-industry collaboration: Innovation at the interface (pp. 201–215). Springer."
 publication_place: "Cham"
 publisher: "Springer"
 tags:

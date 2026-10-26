@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-09
-updated: 2026-10-20
+updated: 2026-10-26
 ---
 
 ---
@@ -242,7 +242,7 @@ updated: 2026-10-20
 > [!concept-lens] 地缘认知博弈与非西方现代化元叙述
 > 探讨新兴大国如何将[[National Rejuvenation Narrative|民族复兴]]与自主发展道路升华为宏大叙事，通过高等教育网络与国际发展合作重构全球南方的发展认知。
 
-> [!claim] [[Argument_Woo_2023_HEP|Woo, J. J. (2023)]]
+> [!claim] [[Argument_Woo_2023_HEP|Woo (2023)]]
 > **非西方现代化宏大叙事与全球治理模式重塑** 禹钟晸（Jung Ji Woo）指出，中国的高等教育跨国政策深植于近代民族复兴诉求与提供“[[China Solution|中国方案]]”的宏大叙事中。面对西方以自由民主制和自由市场为核心的普适性元叙述，中国通过构建涵盖政治稳定、高速经济增长、脱贫实践与主权发展的现代化叙事体系，赋予自身治理模式以跨国合法性，并通过“[[Belt and Road Initiative|一带一路]]”教育交流网络向发展中国家宣介这一非西方发展道路，从而在深层认知与[[Discourse|话语]]层面挑战西方中心主义的传统知识体系。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]
 
 ---

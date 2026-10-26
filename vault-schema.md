@@ -257,7 +257,7 @@ Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板�
 
 `doi` 用于论文、报告或有 DOI 的书籍；著作、教材、论文集或章节没有 DOI 时，`doi` 可留空，若能确认 ISBN，则写入 `isbn`。
 
-著作、教材、论文集和论文集章节必须填写 `publication_place` 与 `publisher`，完整 citation 的出版项写作 `Place: Publisher.`。中文著作同样使用“地点: 出版社”，如 `北京: 高等教育出版社.`。
+著作、教材、论文集和论文集章节必须填写 `publisher`；`publication_place` 可选，只作元数据保存。完整 citation 按 APA 7 只写出版者、不写出版地，如 `Routledge.`、`高等教育出版社.`；团体作者同时是出版者时不重复出版者（如 `OECD. (2023). Title.`）。页码与数字范围用 en dash（`31–38`），DOI 写成 `https://doi.org/...`。这些机械格式由 `vault_lint.py` 的 `CITATION_APA7_FORMAT` 检查，`vault_lint.py --fix` 自动修正。
 
 `citation/` 索引文件由 `scripts/citation_index.py` 生成：
 

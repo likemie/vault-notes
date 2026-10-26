@@ -1,5 +1,5 @@
 ---
-citation: "Metli, A., & Akış, D. (2022). Concurrency of Learning: Strategies and Challenges of Promoting Coherence in the Core in the International Baccalaureate Diploma Programme (IBDP). International Journal of Educational Reform, 31(2), 218–232."
+citation: "Metli, A., & Akış, D. (2022). Concurrency of learning: Strategies and challenges of promoting coherence in the core in the International Baccalaureate Diploma Programme (IBDP). International Journal of Educational Reform, 31(2), 218–232."
 extracted_to:
   - "[[Argument_Metli_2022_IJEdReform]]"
 processed_date: 2026-08-06

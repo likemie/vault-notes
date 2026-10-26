@@ -67,7 +67,9 @@ updated: 2026-10-15
 - Argument 使用 `source_language: en` 或 `source_language: zh` 标记原始出版语言。中文原始文献的 `authors` 使用中英双语显示，如 `[[Yajun Zheng|郑雅君（Zheng, Y.）]]`。
 - 中文原始文献的 `citation` 使用中文著录，`citation_aliases` 只生成中文作者年形式；不要同时生成英文作者年 alias。`wiki_linker.py` 只按生成后的中文 alias 匹配该文献。
 - 中文期刊论文同样使用 `source_language: zh`：`authors` 保留中文名和英文转写，`citation` 使用中文作者、中文篇名和中文期刊名，`argument_display_title` 使用中文原题；citation 索引和 linker 不生成或匹配英文转写引文。
-- 著作、教材、论文集及论文集章节填写 `publication_place` 和 `publisher`；完整 citation 的出版项写作 `Place: Publisher.`，如 `北京: 高等教育出版社.`。
+- 著作、教材、论文集及论文集章节填写 `publisher`（`publication_place` 可选，不写进 citation）。完整 citation 按 APA 7 只写出版者，不写出版地，如 `Routledge.`、`高等教育出版社.`；团体作者同时是出版者时省略出版者。页码范围用 en dash（`pp. 31–38`），DOI 写 `https://doi.org/...`；`vault_lint.py --fix` 会自动修正这些机械格式（`CITATION_APA7_FORMAT`）。
+- 题名按 APA 7 用句首大写（sentence case）：只大写首词、冒号后首词与专有名词；期刊名保持标题大写（title case）。
+- 文中短引按 APA 7：两位作者在括号内用 `&`、叙述中用 `and`；三位及以上用 `et al.`；同作者同年多篇加 a/b（按题名字母序，忽略 A/An/The）；第一作者相同但合作者不同的多篇，写出足以区分的作者名而不加 a/b（如 `Rickinson, Walsh, et al., 2022`）。由 `citation_index.py` 生成，`wiki_linker.py sync --fix-display` 同步正文显示。
 - `related_*`、Argument YAML `sources`、source record 的 `extracted_to` 都是生成字段，不手动维护。
 - `part_of` 若引用条目，必须写成带引号的 wikilink。
 - `issuing_organization`（Fact policy 与报告、政策文件类 Argument）保持单个字符串，照常写机构名称；补链方式与 `authors` 链 Person 相同。机构登记表 `wiki/organizations.json` 由 `wiki_index.py` 生成：`organizations` 列出全部 `subtype: organization` 的 Fact 及其可匹配名称（title、aliases、variants）；`unresolved` 列出尚未匹配任何机构的写法及 `seen_in`；`variants` 可手动编辑，把某种写法映射到已有机构条目 title（如 `"White House Office of Science and Technology Policy": "Office of Science and Technology Policy"`），重建时保留；目标不是机构条目的写法列入 `invalid_variants`。`wiki_linker.py` 据此把完全一致的机构名补成带引号的 wikilink，如 `"[[Education Endowment Foundation]]"`、`"[[Higher Education Authority|爱尔兰高等教育局（HEA）]]"`。多个机构用 `, `、`;`、` & `、` / ` 或“与”分隔，各自匹配，如 `"[[World Bank]] & [[UNESCO]]"`；`中文名（English Name, ABBR）` 按中文名或英文全称匹配，括号内仅有缩写不足以匹配；机构条目不链接自身。处理 `unresolved`：属于同一机构的不同写法加入 `variants` 或条目 aliases，尚无条目的机构新建 organization Fact。

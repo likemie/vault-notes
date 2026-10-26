@@ -4,7 +4,7 @@ type: argument
 authors:
   - "Knudsen, H."
 source_language: en
-citation: "Knudsen, H. (2017). John Hattie: I'm a statistician, I'm not a theoretician. Nordic Journal of Studies in Educational Policy, 3(3), 253-261."
+citation: "Knudsen, H. (2017). John Hattie: I'm a statistician, I'm not a theoretician. Nordic Journal of Studies in Educational Policy, 3(3), 253–261."
 year: 2017
 doi: "10.1080/20020317.2017.1415048"
 citation_aliases:

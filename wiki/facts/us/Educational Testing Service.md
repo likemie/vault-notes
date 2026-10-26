@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-27
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -153,10 +153,10 @@ updated: 2026-10-22
 > | [[Critical Thinking]] | Concept | ETS HEIghten 测评体系重点量化的核心素养维度。 |
 > | [[Policy Instrumentation Theory]] | Theory | 解释 ETS 作为政策工具支持群体促成制度锁定的上位分析框架。 |
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | Argument | 详述 ETS 研发 EPP、HEIghten 及 TTK 测验测度高等教育通用能力的实证文献。 |
-> | [[Argument_Verger_2019_Discourse\|Verger, Parcerisa and Fontdevila (2019)]] | Argument | 解构测验工业巨头作为政策工具共生群体推动测试扩张与制度锁定的核心文献。（pp. 252, 260） |
+> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | Argument | 解构测验工业巨头作为政策工具共生群体推动测试扩张与制度锁定的核心文献。（pp. 252, 260） |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — 系统记录经合组织调查中 ETS 研发的 EPP、HEIghten 批判性思维测评以及 TTK 教师专业知识情境化测验的技术规程与国际应用。（pp. 17–25）
-> - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 结合政策工具社会学分析指出，ETS 等第三方测验生产集团构成了推动测试规制持续扩张与高利害问责制度锁定的核心政治经济利益群体。（pp. 252, 260）
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 结合政策工具社会学分析指出，ETS 等第三方测验生产集团构成了推动测试规制持续扩张与高利害问责制度锁定的核心政治经济利益群体。（pp. 252, 260）

@@ -14,7 +14,7 @@ argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
 book_title: Geopolitical Transformations in Higher Education
-citation: "Partaken, J. (2022). Two faces of geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 67–90). Cham: Springer."
+citation: "Partaken, J. (2022). Two faces of geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education (pp. 67–90). Springer."
 publication_place: "Cham"
 publisher: "Springer"
 tags:

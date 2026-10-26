@@ -43,13 +43,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心界定
-> 使用[[Metascience|科学的科学]]（The Science of Using Science）是由伦敦大学学院教育学院证据政策与实践信息协调中心（[[EPPI-Centre]]）学者劳伦茨·兰格（Laurenz Langer）、珍妮丝·特里普尼（Janice Tripney）与[[David Gough|戴维·高夫]]（David Gough）于 2016 年系统确立的循证转化与干预评价[[Analytic Framework|分析框架]]。该框架立足于对全球教育与公共政策领域促进[[Research Utilization|证据使用]]干预项目的宏观[[Systematic Review|系统综述]]，将政策决策者采纳证据的行为解构为六大可操作的干预机制维度，标志着循证研究从单纯呼吁政策制定者重视证据，转向以实证科学检验“证据促进行动本身是否奏效”的[[Paradigm|范式]]演进。在[[UNESCO|联合国教科文组织]]全球战略审查中，该框架被直接用于对全球 654 个证据倡议、网络与平台（INPs）开展特征编码与实证分析。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 68–69)]]
+> 使用[[Metascience|科学的科学]]（The Science of Using Science）是由伦敦大学学院教育学院证据政策与实践信息协调中心（[[EPPI-Centre]]）学者劳伦茨·兰格（Laurenz Langer）、珍妮丝·特里普尼（Janice Tripney）与[[David Gough|戴维·高夫]]（David Gough）于 2016 年系统确立的循证转化与干预评价[[Analytic Framework|分析框架]]。该框架立足于对全球教育与公共政策领域促进[[Research Utilization|证据使用]]干预项目的宏观[[Systematic Review|系统综述]]，将政策决策者采纳证据的行为解构为六大可操作的干预机制维度，标志着循证研究从单纯呼吁政策制定者重视证据，转向以实证科学检验“证据促进行动本身是否奏效”的[[Paradigm|范式]]演进。在[[UNESCO|联合国教科文组织]]全球战略审查中，该框架被直接用于对全球 654 个证据倡议、网络与平台（INPs）开展特征编码与实证分析。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 68–69)]]
 
 > [!concept-context] 提出背景与研究演进
 > - **证据干预的有效性盲区** 尽管全球智库与多边机构耗费巨资制作政策简报、搭建数据库并举办成果研讨会，学界却长期缺乏严谨数据评估这些举措是否真正改变了官员的决策行为。
@@ -73,11 +73,11 @@ updated: 2026-10-23
 
 > [!tension] 干预实效与制度环境阻滞
 > - **被动分发与单向推送的效能枯竭** 实证研究证明，单纯依靠印制政策手册或上传网页等被动供给方式，对政策行为改变的净效应微乎其微。
-> - **多维机制联动对资源投入的苛求** 唯有将获取渠道、能力培训与制度机会多维机制结合，才能取得稳固转化效果；然而此类复合型项目需要高额跨周期专项预算，在低收入发展中国家常受制于外部援助断档。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 68–69)]]
+> - **多维机制联动对资源投入的苛求** 唯有将获取渠道、能力培训与制度机会多维机制结合，才能取得稳固转化效果；然而此类复合型项目需要高额跨周期专项预算，在低收入发展中国家常受制于外部援助断档。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 68–69)]]
 
 ---
 
 > [!impact] 全球教育治理与中介机构建设价值
 > - **为[[Policy Brokerage|政策中介]]机构提供科学行动指南** 改变了以往依靠凭空臆想制定传播策略的局限，指导全球教育智库精准配置预算，将资源从低效的纯文本印刷转向常设关系维护与官员循证技能培养。
-> - **确立[[Global Education Cooperation Mechanism|全球教育合作机制]]评估准绳** 成为联合国教科文组织全球教育合作机制（GCM）审视各成员国证据[[Absorptive Capacity|吸收能力]]建设的标准化评估参照。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 69)]]
+> - **确立[[Global Education Cooperation Mechanism|全球教育合作机制]]评估准绳** 成为联合国教科文组织全球教育合作机制（GCM）审视各成员国证据[[Absorptive Capacity|吸收能力]]建设的标准化评估参照。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 69)]]
 

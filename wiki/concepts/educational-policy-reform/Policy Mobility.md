@@ -193,7 +193,7 @@ updated: 2026-10-26
 > [!claim] [[Stephen Ball\|Ball, S.]] J.
 > **网络拓扑对政策内容的再造** 政策流动并非发生于平坦的国家版图之上，而是依托于跨国异质网络展开；在这一流动拓扑中，政策的内涵被跨国[[Policy Entrepreneur\|政策企业家]]、慈善资本家与技术官僚的利益[[Co-affiliation\|共同从属]]性所重新编码，使公共教育治理彻底卷入以市场逻辑为导向的企业化重构过程（Ball, 2016；Ball et al., 2017）。
 
-> [!claim] [[Argument_Stone_2020_PolSoc\|Stone, Porto de Oliveira, and Pal (2020)]]
+> [!claim] [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]]
 > **多标量政策循环与全球南方自主外溢** 斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）将政策流动透镜引入国际发展合作，打破传统北方主导、中心-边缘单向度扩散与国家中心借用预设。政策流动呈现出多标量、多向度的网络循环形态，全球南方国家不仅是政策试验的被动受体，更依托[[Policy Ambassador|政策大使]]与扎根本土的[[Representational Knowledge|代表性知识]]，向跨国多边平台输出快速公交、[[Conditional Cash Transfers|有条件现金转移支付]]与[[Participatory Budgeting|参与式预算]]等前沿创新，重构了跨国政策流动的治理生态与权力拓扑。（pp. 1–6, 11–13）
 
 ---
@@ -287,6 +287,6 @@ updated: 2026-10-26
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合[[Network Ethnography\|网络民族志]]与[[Actor-Network Theory\|行动者网络理论]]，追踪循证中介模型从英国 [[Education Endowment Foundation\|EEF]] 流动至澳大利亚 [[Australian Education Research Organisation\|AERO]] 的十年跨国历程，揭示跨国资本与企业法耐用材料在快速政策流动中的装配功能。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统绘制澳大利亚公共教育中[[Venture Philanthropy\|风险慈善]]与国家催化网络的崛起图景，揭示 [[Social Ventures Australia\|SVA]] 作为政策流动中枢装配 [[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]] 与 AERO 的演进机制，以及税法特许与异层再分配对公共教育民主基石的侵蚀。
-> - [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] — 探讨 Gonski 拨款改革在全澳流动与落地过程中的政策折射，揭示资源需求基准如何在各州自治分权语境下遭遇体制摩擦。
+> - [[Argument_Keddie_2020_IJLE\|Keddie, MacDonald, Blackmore, Wilkinson, et al. (2020)]] — 探讨 Gonski 拨款改革在全澳流动与落地过程中的政策折射，揭示资源需求基准如何在各州自治分权语境下遭遇体制摩擦。
 > - [[Argument_Legrand_2012_PolStud\|Legrand (2012)]] — 以英国新工党福利改革为案例，证明[[Evidence-Based Policy-Making|循证决策]]要求驱动英国系统性地优先借鉴拥有大量量化实验评估数据的美国，不仅引入政策理念，更将[[Random Assignment|随机分配]]规程与美国评估机构（[[MDRC]]）整套带入英国，揭示评估技术本身作为跨国政策流动独立载体的机制（pp. 342–344）。
 > - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 结合拉美创新经验，揭示跨国政策流动如何依托政策大使与代表性知识走向多向度、多标量政策循环（pp. 1–6）。

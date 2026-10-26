@@ -85,7 +85,7 @@ related_instruments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 > [!def] Problem-Based Learning
@@ -130,13 +130,13 @@ updated: 2026-10-25
 > | **教师主要作用** | 设计劣构问题、监控小组认知进程、适时提供反思支架 | 显性讲授、清晰示范、逐步推进、检查与即时纠错 | 组织生活世界现象情境、引导跨学科资源与教化反思 |
 > | **主要边界** | 对先备知识水平、问题设计质量与导师支架能力高度敏感 | 易局限于陈述性与[[Procedural Knowledge\|程序性知识]]掌握，自主迁移难度高 | 强调具身经验与芬兰教学论传统，跨情境移植难度大 |
 > | **当前证据提示** | 跨学段综合效应微弱（$d \approx 0.08$）；高等教育二阶综合效应显著（调整后 $d = 0.60$） | 大规模综合报告效应中等偏高（$d \approx 0.60$） | 属于质性教育哲学与课程论辨析，未评价量化干预效应 |
-> | **证据解释边界** | 表中[[Effect Size\|效应量]]来自 [[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 82–86)]] 与 [[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 960–963)]]；这些平均效应没有控制先备知识、结果类型和实施质量，**适合提示证据差异，不宜直接充当教学法排名** | 效应量来自 [[Argument_Hattie_2015_SOTLP\|Hattie (2015b, p. 82)]]；在良构知识领域优势突出，但在开放复杂推理与高级探究中成效受限 | 概念边界来自 [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024, pp. 2–8)]]；深度根植于芬兰教化与[[Phenomenology\|现象学]]传统，重在课程哲学重构而非标准化量化效应比较 |
+> | **证据解释边界** | 表中[[Effect Size\|效应量]]来自 [[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 82–86)]] 与 [[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 960–963)]]；这些平均效应没有控制先备知识、结果类型和实施质量，**适合提示证据差异，不宜直接充当教学法排名** | 效应量来自 [[Argument_Hattie_2015_SOTLP\|Hattie (2015a, p. 82)]]；在良构知识领域优势突出，但在开放复杂推理与高级探究中成效受限 | 概念边界来自 [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024, pp. 2–8)]]；深度根植于芬兰教化与[[Phenomenology\|现象学]]传统，重在课程哲学重构而非标准化量化效应比较 |
 
 ---
 
 > [!feature] PBL 系统的七个要素
 > - **问题选择** 问题需要具有专业相关性，并共同覆盖课程目标中的主要知识范围。问题序列决定学生接触哪些概念以及在哪些情境中使用它们。[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 71)]]
-> - **先备知识激活** 学生先调用已有知识解释问题，由此暴露理解缺口。知识基础不足会增加无关信息、错误模型和逆向推理。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 85–86)]]
+> - **先备知识激活** 学生先调用已有知识解释问题，由此暴露理解缺口。知识基础不足会增加无关信息、错误模型和逆向推理。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 85–86)]]
 > - **小组协作** 小型[[Problem Solving\|问题解决]]小组让学生比较解释、分配检索任务，并与教师、同伴和服务对象互动。
 > - **知识检索** 学生建立与案例相关的知识库，同时学习到哪里寻找更多信息。信息检索服务于当前解释，不以资料数量作为终点。
 > - **导师支持** 导师通过追问、反馈和知识支架帮助学生检验诊断、假设及资料解释。教师需要持续判断学生探索的方向和现有知识缺口。[[Argument_Blass_2020_JESP\|Blass (2020, p. 95)]]
@@ -227,7 +227,7 @@ updated: 2026-10-25
 > 学生需要知识支点来建立因果解释，也需要保留搜索和选择的空间。导师负责在[[Open-Mindedness|开放性]]与支架之间持续调整。
 
 > [!claim] [[John Hattie\|Hattie, J.]]
-> **引入时机影响推理质量** Hattie 将 PBL 的低平均效应部分归因于过早实施。新手知识库中的错误较多，容易把无关材料加入解释，并从未知条件逆向推导；专家较常从已知条件向未知问题推进。[[Argument_Hattie_2015_SOTLP\|Walker & Leary (2009, as cited in Hattie, 2015b, pp. 85–86)]] 还发现，新手的逆向推理错误可能持续到教学结束之后。因此，事实和概念基础需要在[[Problem Solving\|复杂问题解决]]之前或过程中得到明确支持。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 85–86)]]
+> **引入时机影响推理质量** Hattie 将 PBL 的低平均效应部分归因于过早实施。新手知识库中的错误较多，容易把无关材料加入解释，并从未知条件逆向推导；专家较常从已知条件向未知问题推进。[[Argument_Hattie_2015_SOTLP\|Walker & Leary (2009, as cited in Hattie, 2015b, pp. 85–86)]] 还发现，新手的逆向推理错误可能持续到教学结束之后。因此，事实和概念基础需要在[[Problem Solving\|复杂问题解决]]之前或过程中得到明确支持。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 85–86)]]
 
 > [!claim] Hattie, J.
 > **问题结构需要保留认知搜索** 过度开放的问题可能使新手失去方向，过度结构化的项目则把步骤全部交给学生，使他们缺少搜索概念工具和选择应用案例的经验。问题设计需要规定目标与约束，同时保留解释、检索和方案选择的空间。[[Argument_Hattie_2015_SOTLP\|Perkins (2014, as cited in Hattie, 2015b, p. 86)]]
@@ -249,7 +249,7 @@ updated: 2026-10-25
 > PBL 研究横跨医学、大学、护理、高中和多学科情境，[[Dependent Variable\|结果变量]]又包括知识、技能、评估表现与专业应用。平均值只能作为进一步分析的起点。
 
 > [!claim] Hattie, J.
-> **低平均效应需要条件解释** 九项[[Meta-analysis\|元分析]]的二级综合（简单算术平均）得到 d ≈ 0.08，各项结果从 −0.30 到 0.32。Hattie 提出先备知识不足的解释，但同时承认该解释仍需研究。[[Argument_Hattie_2015_SOTLP\|Gijbels et al. (2005, as cited in Hattie, 2015b, pp. 85–86)]] 报告知识增加时效果反而下降，也没有支持简单的年级递增模型。现有证据提示显著[[Heterogeneity\|异质性]]，却缺少统一的结果分类与正式调节检验。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 85–86)]]
+> **低平均效应需要条件解释** 九项[[Meta-analysis\|元分析]]的二级综合（简单算术平均）得到 d ≈ 0.08，各项结果从 −0.30 到 0.32。Hattie 提出先备知识不足的解释，但同时承认该解释仍需研究。[[Argument_Hattie_2015_SOTLP\|Gijbels et al. (2005, as cited in Hattie, 2015b, pp. 85–86)]] 报告知识增加时效果反而下降，也没有支持简单的年级递增模型。现有证据提示显著[[Heterogeneity\|异质性]]，却缺少统一的结果分类与正式调节检验。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 85–86)]]
 
 > [!claim] Blass, E.
 > **数据库构成限制[[External Validity\|可推广性]]** Blass 审查 Hattie (2009) 的八项 PBL 来源后发现，其中三项来自医学教育，一项属于探索性研究，一项属于[[Literature Review\|文献综述]]，两项主要讨论评估对结果的影响。只有 Haas (2005) 直接在学校情境比较教学方法，且报告最大的正向结果。这样的证据集合可以讨论特定专业课程，难以直接支持面向所有学校教学的统一排名。[[Argument_Blass_2020_JESP\|Blass (2020, pp. 92–93)]]
@@ -273,7 +273,7 @@ updated: 2026-10-25
 > - **1960 年代中期 — 临床医学导向的[[Apprenticeship|学徒制]]替代模型（麦克马斯特起源）** 霍华德·巴罗斯（Howard Barrows）等人在加拿大麦克马斯特大学医学院创立 PBL，旨在打破传统分科灌输导致的“理论记忆脱离临床实践”困境。此时 PBL 的核心概念定位为：以真实的临床病患案例为驱动，通过小组讨论模拟医生诊断过程，激发自导式学习（[[Self-Directed Learning]]）并内化临床推理技能，本质是医学专业教育中的情境化学徒制模型。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 950–952)]]
 > - **1970 年代–1980 年代 — 认知革命与[[Constructivist Instruction\|建构主义教学]]范式化（从[[Clinical Skills\|临床技能]]转向通用认知模型）** 伴随认知心理学与学习科学的兴起，PBL 突破单纯的医学规程，被[[Constructivist Paradigm\|建构主义]]学者提炼为跨学科的通用教学范式。概念核心发生质变：界定为以“[[Wicked Problem|劣构问题]]（Ill-Structured Problems）”为组织载体，依托“先备知识激活、小组协同假说建构、自主检索验证与解释模型修正”的认知循环，并系统扩展至工程、法律与商科等高等教育与职业领域。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, p. 951)]]
 > - **1990 年代 — 课程层面的系统化与[[Constructive Alignment\|建构性对齐]]（形成全链条教学评估系统）** [[John Biggs\|约翰·比格斯]]（John Biggs）等学者将 PBL 提升为 **[[Constructive Alignment\|建构性对齐]]** 的经典范本；Feletti 等人开发“三跳评估（Triple Jump）”。概念内涵实现重要飞跃：PBL 不再仅被视作课堂上的单项探究技巧，而被重构为**整合“专业能力目标—真实问题驱动—全流程案例评估”三位一体的全课程系统（Curriculum-Wide System）**，彻底克服了教学活动与专业评价脱节的弊病。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 70–72)]]
-> - **2000 年代–2010 年代 — 认知负荷争议下的内涵重塑（从“自由发现”走向“结构化支架”）** 面对认知负荷学派对未指导[[Discovery Learning\|发现学习]]的尖锐批评，学界推动了 PBL 概念的自我修正：明确划清 PBL 与纯无指导自由发现的边界，确立了 **“问题结构化设计（Problem Structuring）”与“显性导师支架（Explicit Facilitator [[Scaffolding]]）”** 作为 PBL 概念的内生必要维度，强调在先备知识支持与保留适度自主认知搜索之间取得动态平衡。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 85–86)]]
+> - **2000 年代–2010 年代 — 认知负荷争议下的内涵重塑（从“自由发现”走向“结构化支架”）** 面对认知负荷学派对未指导[[Discovery Learning\|发现学习]]的尖锐批评，学界推动了 PBL 概念的自我修正：明确划清 PBL 与纯无指导自由发现的边界，确立了 **“问题结构化设计（Problem Structuring）”与“显性导师支架（Explicit Facilitator [[Scaffolding]]）”** 作为 PBL 概念的内生必要维度，强调在先备知识支持与保留适度自主认知搜索之间取得动态平衡。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 85–86)]]
 > - **2020 年代至今 — 情境化[[Epistemic Cognition\|认识论认知]]整合与近缘范式边界厘清（认识论认知与课程哲学分野）** 现代循证学习科学推动 PBL 在两个层面深化：一是[[Epistemology\|认识论]]维度的深化，证实面对复杂劣构议题时单纯呈现问题若缺乏显性程序与[[Metacognition\|元认知]]引导会导致认知过载，促使 PBL 向整合 [[Epistemic Cognition\|认识论认知]] 与[[Source Evaluation\|信源评估]]支架深化；二是课程哲学层面的精确划界，清晰界定了 PBL（以问题因果机制解释与诊断为核心）与 [[Project-Based Learning\|项目式学习]]（强调具身实体产品交付）以及芬兰 [[Phenomenon-Based Learning\|现象本位学习]]（根植于生活世界体验与 教化 传统）的概念分野。[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021, pp. 486, 492)]]；[[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024, pp. 2–8)]]
 
 ---
@@ -353,7 +353,7 @@ updated: 2026-10-25
 >
 > | 二阶元分析 | 效应值 | 95% CI | 效应指标与模型 | 证据规模 M / E / k / N | 当前概念角色与总体结果 | 异质性与 95% PI | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.08"><span class="b2"></span></span>0.08 | — | Cohen's d；早期二级综合（一级元分析效应的简单算术平均） | M = 9；k / N 未报告 | 干预因素（PBL）的总体学习结果 | 单项汇总效应 −0.30 至 0.32；正式指标未报告 | 早期粗放综合，未经[[Inverse-Variance Weighting\|逆方差加权]]；研究情境与结果类型混合 |
+> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015a)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.08"><span class="b2"></span></span>0.08 | — | Cohen's d；早期二级综合（一级元分析效应的简单算术平均） | M = 9；k / N 未报告 | 干预因素（PBL）的总体学习结果 | 单项汇总效应 −0.30 至 0.32；正式指标未报告 | 早期粗放综合，未经[[Inverse-Variance Weighting\|逆方差加权]]；研究情境与结果类型混合 |
 > | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.68"><span class="b14"></span></span>0.68 | [0.57, 0.79] | Cohen's $d$ / 标准化均差（SMD）；[[Random-Effects Model\|随机效应模型]]；OR 转换 | M = 20；E = 47；k = 469；N 未报告 | 干预因素（PBL）的高等教育学生结果 | Q(46) = 730.67, p < .001, I² = 93.70% | 高等教育情境；存在轻微发表偏倚（详见 Argument）；注：剪补调整后 $d = 0.60$ $[0.49, 0.71]$ |
 
 > [!ref-table]- 其他实证结果（无效应量）
@@ -381,7 +381,7 @@ updated: 2026-10-25
 ---
 
 > [!tension] 低平均效应与条件性效力
-> - **平均效应解读** 九项[[Meta-analysis\|元分析]]的二级综合（简单算术平均）为 d ≈ 0.08，知识获取结果还出现 d = −0.79。按照统一学习结果判断，PBL 的平均优势很小。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 85–86)]]
+> - **平均效应解读** 九项[[Meta-analysis\|元分析]]的二级综合（简单算术平均）为 d ≈ 0.08，知识获取结果还出现 d = −0.79。按照统一学习结果判断，PBL 的平均优势很小。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 85–86)]]
 > - **条件性解读** PBL 的目标可能是知识应用、专业推理和深层理解，效果又受到学生知识基础、问题结构、教师能力及评估方式影响。平均效应没有区分这些条件，无法单独决定具体课程是否适合采用 PBL。[[Argument_Blass_2020_JESP\|Blass (2020, pp. 92–95)]]
 > - **阶段与结果敏感解读** 聚焦高等教育的二阶综合报告总体效应 d = 0.60，明显高于跨学段混合的 d ≈ 0.08；差异主要由教育阶段限定、按结果类型分列与元分析纳入范围造成。两套综合并存时，单一平均数值不宜直接充当结论。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 960–963)]]
 
@@ -416,7 +416,7 @@ updated: 2026-10-25
 > [!case] 问题结构与[[Teacher Support for Students|教师支持]]的实施边界
 > 一门面向新手的课程若直接给出高度开放的问题，学生可能因知识不足而加入无关材料、形成错误模型，并从未知条件逆向推理。课程若把每个步骤、资料来源和正确路径都预先规定，学生又无法练习搜索概念工具、比较解释和选择应用方案。
 >
-> 教师需要根据学生当前知识调整支架。初期可以提供必要概念、资料范围和检查点，随后逐步释放[[Problem Finding\|问题界定]]、检索和方案选择的责任。教师还要持续追踪小组探索方向，发现知识错误并组织反馈。PBL 的[[Open-Mindedness|开放性]]因此是一项随学习进展调整的设计[[Variable\|变量]]。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 85–86)]]；[[Argument_Blass_2020_JESP\|Blass (2020, p. 95)]]
+> 教师需要根据学生当前知识调整支架。初期可以提供必要概念、资料范围和检查点，随后逐步释放[[Problem Finding\|问题界定]]、检索和方案选择的责任。教师还要持续追踪小组探索方向，发现知识错误并组织反馈。PBL 的[[Open-Mindedness|开放性]]因此是一项随学习进展调整的设计[[Variable\|变量]]。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 85–86)]]；[[Argument_Blass_2020_JESP\|Blass (2020, p. 95)]]
 
 > [!case] 高等教育中的应用领域
 > PBL 在医学、护理、药学、牙科与工程等专业广泛应用，其促进的效果因专业而异。[[Engineering Education|工程教育]]中，PBL 支持学生发展复杂工程问题的解决能力；医学教育中，PBL 培养[[Critical Thinking\|批判性思维]]、协作与自我管理技能，促进[[Surface and Deep Learning\|深层学习]]与知识保持；创业教育中，PBL 增强创新思维与风险承担等创业能力。PBL 还与能力本位教育、可雇佣性与[[Lifelong Learning\|终身学习]]政策一致。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 953–954)]]
@@ -425,7 +425,7 @@ updated: 2026-10-25
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] 将 PBL 作为自上而下[[Constructive Alignment\|建构性对齐]]的案例，完整连接专业目标、问题活动和三跳评估。
-> - [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] 以早期二级综合汇总九项一级[[Meta-analysis\|元分析]]，并从先备知识、推理方向、知识获取和问题结构解释低平均效应。
+> - [[Argument_Hattie_2015_SOTLP\|Hattie (2015a)]] 以早期二级综合汇总九项一级[[Meta-analysis\|元分析]]，并从先备知识、推理方向、知识获取和问题结构解释低平均效应。
 > - [[Argument_Blass_2020_JESP\|Blass (2020)]] 审查 Hattie 的 PBL 来源类型与情境，同时强调教师培训、结果目标和知识深度对效果解释的影响。
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] 将 PBL 定位为芬兰[[Phenomenon-Based Learning\|现象本位学习]]的近缘[[Constructivist Paradigm\|建构主义]]传统，并划定两者的哲学与课程边界。
 > - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 以[[Meta-meta-analysis\|二阶元分析]]综合 20 项一阶元分析，报告 PBL 对高等教育学生结果（[[Theoretical Knowledge\|理论性知识]]、[[Clinical Skills\|临床技能]]、[[Critical Thinking\|批判性思维]]、态度与满意度）的总体高效应，并分解结果类型、地域、抽样方法、质量、报告类型与年份的调节作用。

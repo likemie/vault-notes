@@ -1,5 +1,5 @@
 ---
-citation: "Stephan, P. (2013). The Endless Frontier: Reaping what Bush Sowed? (NBER Working Paper No. 19687). National Bureau of Economic Research."
+citation: "Stephan, P. (2013). The endless frontier: Reaping what Bush sowed? (NBER Working Paper No. 19687). National Bureau of Economic Research."
 extracted_to:
   - "[[Argument_Stephan_2013_NBER]]"
 processed_date: 2026-10-02

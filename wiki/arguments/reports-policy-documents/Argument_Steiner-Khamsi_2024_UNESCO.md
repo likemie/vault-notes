@@ -18,7 +18,7 @@ authors:
   - "Hopkins, A. N."
   - "Iwabuchi, K."
 source_language: en
-citation: "Steiner-Khamsi, G., Faul, M. V., Baek, C., Hopkins, A. N., & Iwabuchi, K. (2024). Strategic review: Improving the use of evidence for education policy, planning and implementation. UNESCO, Paris."
+citation: "Steiner-Khamsi, G., Faul, M. V., Baek, C., Hopkins, A. N., & Iwabuchi, K. (2024). Strategic review: Improving the use of evidence for education policy, planning and implementation. UNESCO."
 year: 2024
 doi: ""
 citation_aliases:

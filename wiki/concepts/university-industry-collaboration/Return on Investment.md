@@ -112,7 +112,7 @@ updated: 2026-10-26
 ---
 
 > [!def] Return on Investment
-> 投资回报（Return on Investment，ROI），在教育经济学、公共治理与跨部门协同创新语境中，是指衡量个体、组织或国家在教育、科研及社会创新中所投入的资源（资本、人力、时间）与由此衍生出的未来综合收益（收入溢价、生产率提升、[[Technology Transfer|技术转移]]、社会福祉）之间比例关系的复合[[Construct|构念]]。该构念跨越三重分析尺度：在宏观跨国治理层面，具体化为教育投资回报率（Rate of Return to Education，RORE），被[[Human Capital Theory|人力资本理论]]、[[World Bank|世界银行]]与[[OECD|经合组织]]工具化为设定跨国结构调整贷款的前置门槛与[[Governing at a Distance|远处治理]]指标，并将国家公共教育支出从福利国家的社会消费重构为衡量投入产出比与生产力收益的战略投资（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024b, pp. 541–542]]；[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 442, 449–450]]）；在中观[[Policy Network|政策网络]]与[[Venture Philanthropy|风险慈善]]层面，演化为[[Social Impact Investing|社会投资]]回报（Social Return on Investment，SROI），被[[Philanthrocapitalism|慈善资本主义]]用作以商业投资纪律重构公共教育再分配、将国家供给置换为准市场竞标的[[Discourse|话语]]工具（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 520, 524]]）；在微观[[University-Industry Collaboration|产学合作]]层面，泛指大学、企业与医疗机构对“合作价值何在”的差异化预期，其结构性分歧构成了跨部门协同创新的根本引擎。[[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, pp. 191–192)]]
+> 投资回报（Return on Investment，ROI），在教育经济学、公共治理与跨部门协同创新语境中，是指衡量个体、组织或国家在教育、科研及社会创新中所投入的资源（资本、人力、时间）与由此衍生出的未来综合收益（收入溢价、生产率提升、[[Technology Transfer|技术转移]]、社会福祉）之间比例关系的复合[[Construct|构念]]。该构念跨越三重分析尺度：在宏观跨国治理层面，具体化为教育投资回报率（Rate of Return to Education，RORE），被[[Human Capital Theory|人力资本理论]]、[[World Bank|世界银行]]与[[OECD|经合组织]]工具化为设定跨国结构调整贷款的前置门槛与[[Governing at a Distance|远处治理]]指标，并将国家公共教育支出从福利国家的社会消费重构为衡量投入产出比与生产力收益的战略投资（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024, pp. 541–542]]；[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 442, 449–450]]）；在中观[[Policy Network|政策网络]]与[[Venture Philanthropy|风险慈善]]层面，演化为[[Social Impact Investing|社会投资]]回报（Social Return on Investment，SROI），被[[Philanthrocapitalism|慈善资本主义]]用作以商业投资纪律重构公共教育再分配、将国家供给置换为准市场竞标的[[Discourse|话语]]工具（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 520, 524]]）；在微观[[University-Industry Collaboration|产学合作]]层面，泛指大学、企业与医疗机构对“合作价值何在”的差异化预期，其结构性分歧构成了跨部门协同创新的根本引擎。[[Argument_Swick_Jones_2025_AcademicHealthSystems|(Swick & Jones, 2025, pp. 191–192)]]
 
 > [!concept-lens] 概念透镜
 > - **三重分析尺度** 涵盖新古典实证经济学的“宏观投入—产出因果核算”、政策网络政治经济学的“中观异层社会投资话语”以及产学研协同的“微观多元价值协商”。
@@ -120,7 +120,7 @@ updated: 2026-10-26
 > - **批判边界** 警惕将不可[[Commensuration\|通约]]的育人价值、公民社会民主参与、[[Academic Freedom\|学术自由]]与公共福利保障机械折算为短期金融收益率或商业度量衡。
 
 > [!citation-card] 投资回报的三重制度表征与权威论断
-> 1980 年的政策文件不仅反映了世界银行的业务如今越来越建立在研究成果的基础之上，更表明世行已经开展属于自己的独立研究。高级顾问普萨查罗普洛斯基于全球数据库证明初等教育具有压倒性的社会回报率优势，世行以此为技术合法性屏障，将收益率公式固化为向全球南方借款国发放结构调整贷款的强制性前置条件。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 542)]]
+> 1980 年的政策文件不仅反映了世界银行的业务如今越来越建立在研究成果的基础之上，更表明世行已经开展属于自己的独立研究。高级顾问普萨查罗普洛斯基于全球数据库证明初等教育具有压倒性的社会回报率优势，世行以此为技术合法性屏障，将收益率公式固化为向全球南方借款国发放结构调整贷款的强制性前置条件。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 >
 > 风险慈善领袖在主旨演讲中强调，金钱是我们对话的通用货币（Money is the currency of our conversation）。[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）通过推广社会投资回报率（SROI）、[[Educational Brokerage Agency\|证据经纪人]]与买入等金融从业术语，将商业投行的投资回报逻辑全面植入国家公共教育治理体系。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 3–4)]]
 >
@@ -200,8 +200,8 @@ updated: 2026-10-26
 > [!concept-lens] 宏观地缘金融规制：[[Technical Rationality\|技术理性]]对政策主权的置换
 > 揭示跨国组织如何将经验经济学测算转化为剥夺全球南方借款国教育自决权的硬性治理技术。
 
-> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]]
-> **收益率数据库构建自指性封闭循环体系** 1980 年[[World Bank|世界银行]]发布首份独立《教育部门政策文件》，彻底脱离[[UNESCO|联合国教科文组织]]（UNESCO）的人文主义倡导路线；高级顾问普萨查罗普洛斯（[[George Psacharopoulos]]）等人基于涵盖 139 国、1,120 项估算的回报率数据库，系统论证初等教育相较于高等教育具有压导性的社会回报率优势；世界银行以此为技术合法性屏障，将收益率公式固化为向全球南方借款国发放结构调整贷款的强制性前置条件，打造出一个高度自给自足、无视本土脉络的量化治理帝国。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542, 548)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]
+> **收益率数据库构建自指性封闭循环体系** 1980 年[[World Bank|世界银行]]发布首份独立《教育部门政策文件》，彻底脱离[[UNESCO|联合国教科文组织]]（UNESCO）的人文主义倡导路线；高级顾问普萨查罗普洛斯（[[George Psacharopoulos]]）等人基于涵盖 139 国、1,120 项估算的回报率数据库，系统论证初等教育相较于高等教育具有压导性的社会回报率优势；世界银行以此为技术合法性屏障，将收益率公式固化为向全球南方借款国发放结构调整贷款的强制性前置条件，打造出一个高度自给自足、无视本土脉络的量化治理帝国。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542, 548)]]
 >
 > [!claim] [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]
 > **社会收益率三十年自辩与教学效能成本效益化** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）揭示，世界银行在《教育重点与战略》（World Bank, 1995）中极力为其[[Human Capital Theory|人力资本]]与收益率框架辩护，宣称衡量教育投资的社会收益率测算已“经受了三十余年严谨审查的考验”（World Bank, 1995, pp. 20–21）。在这一自足的量化收益闭环下，“教育效能”被彻底还原为狭隘的“成本效益”（cost-effectiveness）：最有效的教学材料被限定为黑板、粉笔与教科书等廉价硬件，小组合作被推崇亦仅因其兼具成本效益；与此同时，占教育预算大头的教师薪资被视作削减成本的阻碍，使教师在世行[[Discourse|话语]]中沦为阻挠教育效率提升的“罪魁祸首”（villains）。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 347)]]
@@ -247,7 +247,7 @@ updated: 2026-10-26
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **宏观金融规制命题** | 教育投资回报率被异化为跨国结构调整贷款的前置门槛与免责借口，并被自辩为经受三十年检验 | 国际金融组织对全球南方的教育援助与财政紧缩[[Disciplina and Doctrina\|规训]] | Psacharopoulos (1981); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b, pp. 541–542)]]; [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, p. 347)]] |
+> | **宏观金融规制命题** | 教育投资回报率被异化为跨国结构调整贷款的前置门槛与免责借口，并被自辩为经受三十年检验 | 国际金融组织对全球南方的教育援助与财政紧缩[[Disciplina and Doctrina\|规训]] | Psacharopoulos (1981); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024, pp. 541–542)]]; [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, p. 347)]] |
 > | **中观异层再分配命题** | 社会投资回报修辞将公共供给转为准市场竞标，巨型信托投资回报资本积累造成资金分配断裂（76.7% 滚存 vs 23.3% 资助） | 风险慈善兴起、税法特许修正案、社会投资国家治理与公立教育准市场化 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, pp. 520–528)]]; [[Argument_Rowe_2022_IJER\|Rowe (2022)]]; [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. xiii, 14, 107)]] |
 > | **微观组织协同命题** | 异质性组织对回报定义的结构性分歧是驱动跨界合作的动力，且需通过两级指标与配比资金化解企业内部度量赤字 | 高校、跨国企业与学术医疗系统的产学研发联合体 | [[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick and Jones (2025, pp. 191–192)]]; [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025, pp. 228–231)]]; [[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford and UIDP (2019)]] |
 > | **经合组织效率转向命题** | 教育系统效率标准从民主平等与社会凝聚力转向生产率投资回报率 | 全球知识经济政策范式转型与超国家教育治理 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009, pp. 442, 449–451)]] |
@@ -256,7 +256,7 @@ updated: 2026-10-26
 
 > [!dev-timeline] 概念演变历程
 > - **1960–1974 — [[Human Capital Theory|人力资本理论]]奠基与明瑟收益率模型** 西奥多·舒尔茨（Theodore W. Schultz, 1961）与加里·贝克尔（Gary S. Becker, 1964）提出人力资本投资分析；雅各布·明瑟（Jacob Mincer, 1974）确立半对数收入方程，将[[Educational Level|受教育年限]]与工作经验转化为边际收益率，奠定了微观实证测算的标准模型。
-> - **1980–1990s — [[World Bank|世界银行]]放贷帝国与全球数据库霸权** 1980 年世行发布《教育部门政策文件》，高级顾问普萨查罗普洛斯（[[George Psacharopoulos]]）建立起跨越 139 个国家的全球教育收益率大样本库；世行借此推行“初等教育优先于高等教育”的放贷处方，将收益率测算转化为跨国技术官僚执法的核心依据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
+> - **1980–1990s — [[World Bank|世界银行]]放贷帝国与全球数据库霸权** 1980 年世行发布《教育部门政策文件》，高级顾问普萨查罗普洛斯（[[George Psacharopoulos]]）建立起跨越 139 个国家的全球教育收益率大样本库；世行借此推行“初等教育优先于高等教育”的放贷处方，将收益率测算转化为跨国技术官僚执法的核心依据。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 > - **1990s — [[OECD|经合组织]][[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与教育投资回报[[Paradigm|范式]]确立** 经合组织将教育政策重心转向“知识经济的社会想象”，系统评估国家教育系统在培养生产性人力资本方面的投资回报率（ROI）；教育经费被彻底从福利国家的“社会消费”重塑为驱动国家经济增长的“战略投资”，推动了全球范围内的产出绩效问责与成本分担改革。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442, 449–450)]]
 > - **2000s — [[Knowledge-Based Economy|知识经济]]与产学协同指标[[Counterfactual|反事实]]转向** 美国大学与产业示范伙伴关系（[[University Industry Demonstration Partnership]]，UIDP）提出超越单纯专利与论文计数，引入[[Counterfactual|反事实]]（Counterfactual）与影响额外性（Additionality）分析，强调根据利益相关者定制定制化叙事指标。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 11–12)]]
 > - **2010s — [[Venture Philanthropy|风险慈善]]崛起与[[Social Impact Investing|社会投资]]回报（SROI）治理化** 麦肯锡前高管与投行精英在英美澳推广[[Venture Philanthropy|风险慈善]]（如英国 [[Education Endowment Foundation|EEF]]、澳大利亚 [[Social Ventures Australia|SVA]]），将社会投资回报率（SROI）与社会效益债券（SIB）引入公共政策；新西兰国家党政府大力推行“社会投资”[[Discourse|话语]]转型，以可审计回报率替代普遍性福利供给。[[Argument_ONeill_2016_Report|O'Neill et al. (2016)]]; [[Argument_Rowe_2022_IJER|Rowe (2022)]]
@@ -275,7 +275,7 @@ updated: 2026-10-26
 > > [!axis] 科学客观性 vs 跨国金融霸权的[[Social Science as Legitimation Alibi|合法化借口]]
 > > 批评[[World Bank|世界银行]]垄断的回报率测算沦为新自由主义削减高教开支与推行私有化的政治外衣。
 > >
-> > - **批判政治经济学派** 谴责世界银行通过机械计算将复杂的社会历史实践折算为冰冷金融贴现率，强推“初等教育高回报率”处方，导致第三世界高等教育被长期剥夺公共投入；实证模型实质上充当了免除政治责任的科学借口。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 68)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 542)]]
+> > - **批判政治经济学派** 谴责世界银行通过机械计算将复杂的社会历史实践折算为冰冷金融贴现率，强推“初等教育高回报率”处方，导致第三世界高等教育被长期剥夺公共投入；实证模型实质上充当了免除政治责任的科学借口。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 68)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 > > - **世行技术官僚立场** 辩称大样本横截面数据为稀缺公共资源的理性配置提供了唯一可比的客观循证罗盘，并宣称其教育投资社会收益率测算已“经受了三十余年严谨审查的考验”（World Bank, 1995, pp. 20–21；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 347]]）。
 >
 > > [!axis] [[Social Impact Investing|社会投资]]回报（SROI）与公共教育民主问责的解体
@@ -301,7 +301,7 @@ updated: 2026-10-26
 ---
 
 > [!stat-cards]- 核心规模数据
-> - **139** （国家） 普萨查罗普洛斯等人构建的[[World Bank\|世界银行]]教育回报率大样本库覆盖的全球主权国家总数。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 548)]]
+> - **139** （国家） 普萨查罗普洛斯等人构建的[[World Bank\|世界银行]]教育回报率大样本库覆盖的全球主权国家总数。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 548)]]
 > - **1,120** （估算） 跨越 60 年教育投资回报文献收录的独立收益率测算指标条目数。
 > - **≈9%–10%** 全球劳动力市场平均[[Educational Level\|受教育年限]]的私人收益率基准值（每增加一年教育预期增收约 9%）。
 > - **A\$1.216M / A\$625K** [[Social Ventures Australia\|SVA]] 依据 SROI [[Discourse|话语]]在 2021 年吸纳的直接政府财政补贴与对外发放赠款净额对比，资助仅占政府拨款的 51%。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, p. 527)]]
@@ -315,7 +315,7 @@ updated: 2026-10-26
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | 世界银行 1989–2018 年数据库与政策档案 | 历时文献计量与机构档案分析 | 教育投资回报率数据库规模与指标体系演变 | 涵盖 139 国 1,120 项回报率估算；1980 年首份政策文件起世行完全自立实证研究门户 | — | 证实世行将教育收益率转化为自指性放贷门槛与跨国治理帝国的历史轨迹 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | 世界银行 1989–2018 年数据库与政策档案 | 历时文献计量与机构档案分析 | 教育投资回报率数据库规模与指标体系演变 | 涵盖 139 国 1,120 项回报率估算；1980 年首份政策文件起世行完全自立实证研究门户 | — | 证实世行将教育收益率转化为自指性放贷门槛与跨国治理帝国的历史轨迹 |
 > | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | [[OECD\|经合组织]]历时政策文本、统计年报与工作方案分析（1960s–2000s） | 批判政策社会学与历时政策文本比较分析 | 教育系统效率衡量准则、教育性质定义、公私成本分担模式（Table 28.1） | 战后[[Paradigm\|范式]]以机会均等和社会凝聚力为效率标准；90年代后以充分投资回报率（ROI）及生产率增长为核心标准，教育被重塑为追求投资回报的公私混合商品 | 质性历时政策文本对比 | 揭示超国家组织将教育系统全面锚定于[[Human Capital Theory\|人力资本]]投资回报与生产率增长的规范转型轨迹 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 澳大利亚社会创投（SVA）2002–2021 年财务审计与公司监管档案 | 监管档案调档、税法追踪与[[In-depth Interview\|深度访谈]] | 政府财政补贴总额 vs 对外资助总额；咨询营业额；控股层级 | 2021 年获政府补贴 121.6 万澳元，对外赠款仅 62.5 万澳元（51%）；旗下咨询部门年入近 1000 万澳元；设立 4 家全资子公司 | — | 揭示以 SROI 与商业效率为修辞的中介网络实质构筑了公共财政逆流与避税庇护 |
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 新西兰国家党“[[Social Impact Investing\|社会投资]]”治理改革、Foundation North（12.15 亿纽币资产）、MPEI 专项及[[Public-Private Partnership\|公私伙伴关系]]（PPP）学校基建合同 | 批判政策社会学档案审查、慈善信托财务审计与政策文本追踪 | 信托年均投资收益 vs 实际对外赠款率、MPEI 经济投资回报（EROI）与社会投资回报（SROI）、PPP 商业回报条款 | Foundation North 年均投资收益超 1 亿纽币，实际资助仅占收益的 23.3%（2460 万）；76.7% 留存再投资；MPEI 投入 2000 万纽币开展 EROI/SROI 评估向政府提供“概念验证”；PPP 财团获国家“保证投资回报”锁定 | 描述性财务统计与政策文本追踪 | 证实新自由主义国家将公共福利重塑为精算社会投资，[[Venture Philanthropy\|风险慈善]]遵循资本市场永续回报逻辑导致资金分配脱节，并通过 PPP 制度保障私人资本收益 |
@@ -325,7 +325,7 @@ updated: 2026-10-26
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 梳理[[World Bank|世界银行]]脱离[[UNESCO|教科文组织]]后，如何依托普萨查罗普洛斯建立的 1,120 项收益率数据库将投资回报构建为跨国放贷与[[Governing at a Distance|远处治理]]的自指性指标帝国。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 梳理[[World Bank|世界银行]]脱离[[UNESCO|教科文组织]]后，如何依托普萨查罗普洛斯建立的 1,120 项收益率数据库将投资回报构建为跨国放贷与[[Governing at a Distance|远处治理]]的自指性指标帝国。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 揭示[[OECD|经合组织]]如何将教育经费从社会消费重塑为追求充分投资回报的[[Human Capital Theory|人力资本]]投资，并系统消解民主意义上的教育[[Public Value|公共价值]]。
 > - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 系统批判[[Venture Philanthropy|风险慈善]]网络如何将“[[Social Impact Investing|社会投资]]回报”（SROI）[[Discourse|话语]]演变为重塑澳大利亚资本主义国家实践、特许企业避税与颠覆公共教育再分配的意识形态工具。
 > - [[Argument_Rowe_2022_IJER|Rowe (2022)]] — 揭露以 [[Social Ventures Australia|SVA]] 为代表的中介组织如何以“金钱是对话通用货币”与商业投资回报标准统摄国家科研议程。

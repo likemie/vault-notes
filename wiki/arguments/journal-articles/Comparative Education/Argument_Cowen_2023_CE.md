@@ -7,14 +7,14 @@ subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
-argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
+argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326–340"
 argument_kind: "journal-article"
 argument_related_count: 65
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 journal: Comparative Education
-citation: "Cowen, R. (2023). Comparative education: and now? Comparative Education, 59(3), 326-340."
+citation: "Cowen, R. (2023). Comparative education: and now? Comparative Education, 59(3), 326–340."
 tags:
   - theme/comparative-education
   - theory/comparative-education

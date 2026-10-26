@@ -14,7 +14,7 @@ argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Educational Research and Evaluation
-citation: "Cowen, N. (2019). For whom does 'what works' work? The political economy of evidence-based education. Educational Research and Evaluation, 25(1–2), 81–98. DOI: 10.1080/13803611.2019.1617991"
+citation: "Cowen, N. (2019). For whom does 'what works' work? The political economy of evidence-based education. Educational Research and Evaluation, 25(1–2), 81–98. https://doi.org/10.1080/13803611.2019.1617991"
 tags:
 - evidence-based-education
 - political-economy

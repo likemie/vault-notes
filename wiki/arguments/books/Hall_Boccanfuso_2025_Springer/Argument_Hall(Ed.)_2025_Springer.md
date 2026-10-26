@@ -20,7 +20,7 @@ editors:
   - "Boccanfuso, A."
 publication_place: "Cham"
 publisher: "Springer"
-citation: "Hall, R., & Boccanfuso, A. (Eds.). (2025). University-Industry Collaboration: Innovation at the Interface. Cham: Springer."
+citation: "Hall, R., & Boccanfuso, A. (Eds.). (2025). University-industry collaboration: Innovation at the interface. Springer."
 tags:
   - "theme/university-industry-collaboration"
   - "level/higher-education"

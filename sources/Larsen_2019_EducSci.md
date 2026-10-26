@@ -1,5 +1,5 @@
 ---
-citation: "Larsen, S. N. (2019). Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education. Education Sciences, 9(1), 47."
+citation: "Larsen, S. N. (2019). Blindness in seeing: A philosophical critique of the Visible Learning paradigm in education. Education Sciences, 9(1), 47."
 extracted_to:
   - "[[Argument_Larsen_2019_EducSci]]"
 processed_date: 2026-05-04

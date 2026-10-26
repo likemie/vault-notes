@@ -54,10 +54,10 @@ updated: 2026-10-26
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育政策学者，印第安纳大学布卢明顿分校（Indiana University Bloomington）教育领导与政策研究教授，教育评估与政策中心（CEEP）主任，曾任伊利诺伊大学厄巴纳-香槟分校教授。
 > - **核心角色** 教育政策智库、[[Policy Brokerage|政策中介]]网络与新自由主义教育改革（[[School Choice|择校]]制、私立化）的批判研究学者；以“思想市场”（Marketplace of Ideas）分析框架揭示[[Surplus of Evidence|证据过剩]]环境下中介机构的证据挑拣与包装机制。
-> - **代表贡献** 实证检验公私立学校学业表现以反思择校假设；系统解构右翼智库绕过同行评审直接向政客兜售定制方案的政治操作；其思想市场与中介分析成为全球教育治理剖析政策脱节的核心理论来源。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 537)]]
+> - **代表贡献** 实证检验公私立学校学业表现以反思择校假设；系统解构右翼智库绕过同行评审直接向政客兜售定制方案的政治操作；其思想市场与中介分析成为全球教育治理剖析政策脱节的核心理论来源。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 537)]]
 
 > [!citation-card] 思想市场中的逆向选择：政策中介的意识形态证据挑拣
-> 在日益拥挤的教育政策思想市场中，政治家与决策官员基于既定立场筛选证据，如同逛超市一般从货架上精准挑选契合意识形态主张的实证结论，并将不利研究归咎为方法偏差；海量证据供给直接为各路中介机构提供了定制化合法工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 537)]]
+> 在日益拥挤的教育政策思想市场中，政治家与决策官员基于既定立场筛选证据，如同逛超市一般从货架上精准挑选契合意识形态主张的实证结论，并将不利研究归咎为方法偏差；海量证据供给直接为各路中介机构提供了定制化合法工具。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 537)]]
 >
 > *“In the marketplace of ideas, political actors do not search for the best evidence but shop selectively, picking studies that confirm their predefined ideological positions while dismissing inconvenient findings as pseudo-science or bias. The surplus of evidence thus serves not to enlighten policy but to supply unlimited legitimating ammunition for competing intermediaries.”*
 
@@ -67,7 +67,7 @@ updated: 2026-10-26
 > - **2001** 获密歇根州立大学教育政策博士学位，早期聚焦教育市场化与公私立学校效益比较。
 > - **2004–2016** 任教于伊利诺伊大学厄巴纳-香槟分校，建立教育智库与政策知识中介研究议程，与 Sarah Lubienski 开展大规模学业成绩实证检验。
 > - **2016–至今** 担任印第安纳大学布卢明顿分校教授，出任教育评估与政策中心主任，系统拓展思想市场、信息孤岛与跨国教育治理研究。
-> - **2019** 发表教育思想市场奠基性研究，系统揭示政策智库绕过学术同行评审直接影响决策的政治机制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 537)]]
+> - **2019** 发表教育思想市场奠基性研究，系统揭示政策智库绕过学术同行评审直接影响决策的政治机制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 537)]]
 
 ---
 
@@ -91,7 +91,7 @@ updated: 2026-10-26
 > 卢宾斯基主张教育政策领域实质上是一个充斥着证据产品竞争的“思想市场”。在这一市场中，政策中介机构（智库、咨询实体、基金会）凭借敏捷的包装手段入场填补学术生产与政府决策之间的制度鸿沟；然而，政策需求侧基于政治利益与意识形态进行选择性采纳，导致海量证据不仅未能实现理性治理，反而加剧了政策认知割裂与信息孤岛。
 
 > [!citation-card] 知识中介包装实证的双刃剑效应
-> 在学术研究慢车道与政府决策快车道之间的制度鸿沟中，涌现出大量咨询公司、智库与基金会等中介网络。这些机构主动搜集、包装并推销实证材料以引导决策；但其往往推销标准化、简明化而缺乏情境适配性的方案，甚至选择性呈现契合资助方立场的数据，在降低官员检索成本的同时加剧了真伪甄别的认知负担。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 14–15)]]
+> 在学术研究慢车道与政府决策快车道之间的制度鸿沟中，涌现出大量咨询公司、智库与基金会等中介网络。这些机构主动搜集、包装并推销实证材料以引导决策；但其往往推销标准化、简明化而缺乏情境适配性的方案，甚至选择性呈现契合资助方立场的数据，在降低官员检索成本的同时加剧了真伪甄别的认知负担。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 14–15)]]
 >
 > *“In the huge chasm between academic production and political decision-making, intermediary networks have emerged... Intermediaries tend to push standardized, simplified interventions lacking contextual fit, or selectively present data favoring funders' commercial or political stances.”*
 
@@ -104,8 +104,8 @@ updated: 2026-10-26
 > - **跨国／跨领域传播** 其思想市场与中介分析被比较教育学者深度采纳，成为联合国教科文组织全球教育监测与政策循证审查的关键理论框架。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 援引思想市场与信息孤岛理论，剖析全球教育治理中政策中介利用证据过剩实施合法化包装。
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 借鉴其中介机构填补政学鸿沟分析，指出咨询机构与智库在快速车道推销定制证据带来的认知负担与客观性扭曲。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 援引思想市场与信息孤岛理论，剖析全球教育治理中政策中介利用证据过剩实施合法化包装。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 借鉴其中介机构填补政学鸿沟分析，指出咨询机构与智库在快速车道推销定制证据带来的认知负担与客观性扭曲。
 
 ---
 

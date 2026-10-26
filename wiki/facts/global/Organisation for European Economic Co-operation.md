@@ -61,16 +61,16 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> 欧洲经济合作组织（Organisation for European Economic Co-operation, OEEC；简称欧洲[[OECD|经合组织]]）是 1948 年为协调美国《马歇尔计划》（Marshall Plan）战后欧洲重建援助而建立的政府间多边经济协调实体，也是 1961 年改组成立的[[OECD|经济合作与发展组织]]（OECD）的制度前身。该机构在冷战格局下被学者定性为“经济版 NATO”，承担着以跨国经济一体化强化西方阵营内部凝聚力的核心地缘功能；在其组织章程中，教育虽未获得独立的行政部门，但通过早期[[Human Capital Theory|人力资本]]逻辑被赋予服务于经济生产力与科技人力储备的“推论性职能”（inferred role），成为西方多边经济治理吸纳教育议程的历史起点。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
+> 欧洲经济合作组织（Organisation for European Economic Co-operation, OEEC；简称欧洲[[OECD|经合组织]]）是 1948 年为协调美国《马歇尔计划》（Marshall Plan）战后欧洲重建援助而建立的政府间多边经济协调实体，也是 1961 年改组成立的[[OECD|经济合作与发展组织]]（OECD）的制度前身。该机构在冷战格局下被学者定性为“经济版 NATO”，承担着以跨国经济一体化强化西方阵营内部凝聚力的核心地缘功能；在其组织章程中，教育虽未获得独立的行政部门，但通过早期[[Human Capital Theory|人力资本]]逻辑被赋予服务于经济生产力与科技人力储备的“推论性职能”（inferred role），成为西方多边经济治理吸纳教育议程的历史起点。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 540–541)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1948 年 4 月 16 日由西欧 18 国在巴黎签署公约正式成立。直接历史契机为战后欧洲物理基础设施毁灭、美元荒危机以及冷战初期西方阵营对抗苏联主导的经济互助委员会（CMEA）的迫切需求。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **成立时间 / 创设背景** 1948 年 4 月 16 日由西欧 18 国在巴黎签署公约正式成立。直接历史契机为战后欧洲物理基础设施毁灭、美元荒危机以及冷战初期西方阵营对抗苏联主导的经济互助委员会（CMEA）的迫切需求。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 > - **总部地点 / 业务辐射** 总部设于法国巴黎（后成为 OECD 秘书处所在地）；业务覆盖西欧 18 个创始成员国，并在后期扩展吸收西德与西班牙等国。
 > - **法人属性与经费基础** 西欧政府间特许经济实体；核心经费直接依托美国战后《马歇尔计划》专项外援分配机制及各成员国出资。
 > - **核心宗旨与法定职责** 统筹协调欧洲复兴计划物资与贷款分配，消除成员国间贸易壁垒，稳定货币金融体系，提升工业生产力并绘制欧美科技发展差距。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
@@ -78,8 +78,8 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 组织发展历程
-> - **1948–1956 — 战后物资协调与“经济版 NATO”奠基期** 在美国国务卿马歇尔倡导下成立，核心任务聚焦于跨国宏观收支协调、关税削减与生产力提升。德国学者莱姆格鲁伯（Leimgruber）与施梅尔策尔（Schmelzer）将其定性为“经济版 NATO”——以多边经济合作替代直接的意识形态同盟，夯实资本主义西欧的物质防线。在此阶段，组织内完全没有涉足正规学校教育与文化事务。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
-> - **1957–1960 — [[Sputnik Shock 1957|斯普特尼克冲击]]、科技人力办公室与全球[[Development Turn in Comparative Education|发展转向]]** 1957 年苏联成功发射首颗人造卫星（[[Sputnik Shock 1957|Sputnik]] 冲击），西方世界陷入深重的技术落后焦虑。OEEC 设立科技人力办公室（Office for Scientific and Technical Personnel），将测度欧美科技差距确立为核心议题；随着欧洲本土重建任务基本达成，机构职能开始由欧洲重建向第三世界“发展援助”与教育规划扩散（Beech, 2006b；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 344–345]]）；1960 年主持召开[[1960 Bellagio Conference|贝拉吉奥会议]]，启动[[Mediterranean Regional Project|地中海区域项目]]，确立以[[Manpower Requirements Approach|人力需求法]]为核心的教育规划实验。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
+> - **1948–1956 — 战后物资协调与“经济版 NATO”奠基期** 在美国国务卿马歇尔倡导下成立，核心任务聚焦于跨国宏观收支协调、关税削减与生产力提升。德国学者莱姆格鲁伯（Leimgruber）与施梅尔策尔（Schmelzer）将其定性为“经济版 NATO”——以多边经济合作替代直接的意识形态同盟，夯实资本主义西欧的物质防线。在此阶段，组织内完全没有涉足正规学校教育与文化事务。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
+> - **1957–1960 — [[Sputnik Shock 1957|斯普特尼克冲击]]、科技人力办公室与全球[[Development Turn in Comparative Education|发展转向]]** 1957 年苏联成功发射首颗人造卫星（[[Sputnik Shock 1957|Sputnik]] 冲击），西方世界陷入深重的技术落后焦虑。OEEC 设立科技人力办公室（Office for Scientific and Technical Personnel），将测度欧美科技差距确立为核心议题；随着欧洲本土重建任务基本达成，机构职能开始由欧洲重建向第三世界“发展援助”与教育规划扩散（Beech, 2006b；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 344–345]]）；1960 年主持召开[[1960 Bellagio Conference|贝拉吉奥会议]]，启动[[Mediterranean Regional Project|地中海区域项目]]，确立以[[Manpower Requirements Approach|人力需求法]]为核心的教育规划实验。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 540–541)]]
 > - **1961 — 跨大西洋改组与 [[OECD]] 的诞生** 随着欧洲经济重建完成，1960 年 12 月签署《经济合作与发展组织公约》，美加两国作为完全成员加入，OEEC 于 1961 年 9 月 30 日正式终结并改组为跨大西洋的 [[OECD]]。原 OEEC 的科技人力与教育事务被整编入 OECD 早期架构，为后续设立教育委员会及 [[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）奠定了组织基座。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
 
 ---
@@ -100,7 +100,7 @@ updated: 2026-10-22
 > [!finding-cards] 核心产品与业务矩阵
 > - **复兴协调成果** 1948–1952 年马歇尔计划 130 亿美元外援分配执行方案；《欧洲支付同盟》（EPU）清算规约。
 > - **科技与教育评估先驱项目** 欧洲与北美科学技术差距调查报告；[[Mediterranean Regional Project|地中海区域项目]]（MRP）六国人力需求规划方案。
-> - **历史里程碑峰会** 1960 年意大利[[1960 Bellagio Conference|贝拉吉奥会议]]，正式确立西方多边体系对教育作为长期经济投资的共识。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **历史里程碑峰会** 1960 年意大利[[1960 Bellagio Conference|贝拉吉奥会议]]，正式确立西方多边体系对教育作为长期经济投资的共识。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 > - **机构改组文书** 1960 年《[[OECD|经合组织]]公约》（OECD Convention），确立向经济增长与自由贸易全球使命的转型。
 
 > [!citation-card] 里兹维与林加德论欧洲经合组织早期教育附庸定位
@@ -137,7 +137,7 @@ updated: 2026-10-22
 > > [!axis] 依附性欧洲重建 vs 跨大西洋资本霸权
 > > 争论 OEEC 是欧洲自主复兴的摇篮，还是美国借马歇尔计划规训欧洲主权经济的制度杠杆。
 > >
-> > - **世界体系学者（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）** 强调 OEEC 作为“经济版 NATO”，其援助附加条件迫使西欧向美国跨国资本敞开市场，固化了跨大西洋等级支配秩序。
+> > - **世界体系学者（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024]]）** 强调 OEEC 作为“经济版 NATO”，其援助附加条件迫使西欧向美国跨国资本敞开市场，固化了跨大西洋等级支配秩序。
 > > - **主流经济史学家** 认为 OEEC 成功培育了欧洲内部的多边协作习惯，直接催生了欧洲煤钢共同体与后续欧洲一体化进程。
 >
 > > [!axis] 善意专业援助 vs [[Developmentalism|发展主义]]支配与文化去政治化
@@ -167,6 +167,6 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理从 OEEC 到 [[OECD]] 的多边制度史演变，揭示[[Sputnik Shock 1957|斯普特尼克冲击]]与“经济版 NATO”定位如何促成教育量化治理的早期转向（pp. 540–541）。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 梳理从 OEEC 到 [[OECD]] 的多边制度史演变，揭示[[Sputnik Shock 1957|斯普特尼克冲击]]与“经济版 NATO”定位如何促成教育量化治理的早期转向（pp. 540–541）。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 历史解构 OEEC 科技人力办公室在绘制欧美技术差距中的附庸职能，阐明早期经合组织如何将教育作为冷战工具性[[Variable|变量]]引入组织（pp. 438–439）。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 阐释 OEEC 及经合组织职能由二战后欧洲重建转向第三世界发展规划的历史跨越，揭示“善意贷款方”与专业技术援助背后的去政治化神话（pp. 344–345）。

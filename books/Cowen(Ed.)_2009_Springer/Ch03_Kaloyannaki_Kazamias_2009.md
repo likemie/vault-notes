@@ -1,5 +1,5 @@
 ---
-citation: "Kaloyannaki, P. & Kazamias, A. M. (2009). The Modernist Beginnings of Comparative Education: The Proto-Scientific and The Reformist-meliorist Administrative Motif. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 11–36). Dordrecht: Springer."
+citation: "Kaloyannaki, P. & Kazamias, A. M. (2009). The modernist beginnings of comparative education: The proto-scientific and the reformist-meliorist administrative motif. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 11–36). Springer."
 extracted_to:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
 processed_date: 2026-09-06

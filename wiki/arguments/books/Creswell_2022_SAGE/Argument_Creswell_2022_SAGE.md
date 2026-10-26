@@ -16,7 +16,7 @@ authors:
   - "[[John W. Creswell|Creswell, J. W.]]"
   - "[[J. David Creswell|Creswell, J. D.]]"
 publisher: "SAGE Publications"
-citation: "Creswell, J. W., & Creswell, J. D. (2022). Research Design: Qualitative, Quantitative, and Mixed Methods Approaches (6th ed.). Thousand Oaks, CA: SAGE Publications."
+citation: "Creswell, J. W., & Creswell, J. D. (2022). Research design: Qualitative, quantitative, and mixed methods approaches (6th ed.). SAGE Publications."
 publication_place: "Thousand Oaks, CA"
 tags: [source/textbook]
 related_concepts:

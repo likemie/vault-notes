@@ -14,7 +14,7 @@ argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
-citation: "Ulrichsen, T. C. (2025). Evolution of University-Industry Relationships for Driving Innovation. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 25–50). Cham: Springer."
+citation: "Ulrichsen, T. C. (2025). Evolution of university-industry relationships for driving innovation. In R. Hall & A. Boccanfuso (Eds.), University-industry collaboration: Innovation at the interface (pp. 25–50). Springer."
 publication_place: "Cham"
 publisher: "Springer"
 tags:

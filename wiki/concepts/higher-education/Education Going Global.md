@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -134,7 +134,7 @@ updated: 2026-10-25
 > [!claim] Woo, E.
 > **跨部门互文性揭示的工具化定位** 互文性解构显示，教育出海由中央全面领导与顶层设计统辖，服务于两个一百年奋斗目标；高校的国际化出海项目被明确分流为[[Research Universities|研究型大学]]攻关尖端科技、职业院校配套工业产能出海，构成了全面服从国家总体地缘经济与外交互信的执行载体。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
 
-> [!claim] [[Argument_Custer_2021_AidData|Custer, S. et al. (2021)]]
+> [!claim] [[Argument_Custer_2021_AidData|Custer et al. (2021)]]
 > **职教出海与重大工程技术标准输出的互惠咬合** 萨曼莎·库斯特等（Samantha Custer et al.）针对南亚与中亚区域公共外交与教育合作的实证研究表明，高职教育出海（以[[Luban Workshop|鲁班工坊]]为核心载体）在产教协同中发挥了双向解套功能：一方面促使海外专业技术劳动力熟悉中国工业与工程技术标准体系，为中国高新技术装备与职业教育出海培育了持续的海外市场需求；另一方面，通过就地定向培训本土工程师与运维技术人员，有效化解了东道国公众对中资重大工程“过度依赖外派中国劳工、挤压本土就业”的负面认知，将教育出海转化为向当地社区释放可感知就业红利的实质纽带。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 22, 28)]]
 
 > [!claim] [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]]

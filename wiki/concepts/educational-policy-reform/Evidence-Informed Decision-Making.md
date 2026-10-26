@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -164,8 +164,8 @@ updated: 2026-10-23
 > [!claim] Langer, Tripney, & Gough (2016) / [[Argument_Torres_2022_KMModels\|Torres (2022b)]]
 > **六大因果机制的非充分性与协同整合** 仅靠“沟通可及”（如将报告改写为政策摘要）无法确保证据知情决策的发生。如果决策者缺乏解读实证研究的方法素养（缺乏能力 Skills），或者面临紧迫的政治问责压力而排斥反直觉的学术结论（缺乏认同 Agreement 与动机 Motivation），抑或行政体制内并未规定重大决策必须附带证据综述报告（缺乏结构规程 Structure），证据依然会被边缘化。唯有将意识、认同、技能、沟通、互动与结构六大机制立体嵌套，才能为决策者营造实质性的循证审议空间。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 46–47)]]
 >
-> [!claim] [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]]
-> **常设转化网络对证据知情决策的制度化支撑** [[UNESCO|联合国教科文组织]]全球教育研究利用战略审查通过跨部门治理对比指出，证据知情决策的持续发生高度依赖常设性转化基础设施。世界卫生组织于 2005 年发起的[[EVIPNet|证据知情政策网络]]（EVIPNet）确立了全球与本土垂直贯通的双层架构：在总部制定高质量[[Research Synthesis|证据综合]]准则，而在各成员国内部设立由本土专业团队运营的国家知识转化平台（[[Research Translation|Knowledge Translation]] Platforms, KTPs），通过将实证审查制度化嵌入法规流程与长效监测机制，有效化解了单向知识推送导致的政策采纳障碍，为全球公共治理推进证据知情决策提供了成熟的组织架构样板。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 36–37, 48–49)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]]
+> **常设转化网络对证据知情决策的制度化支撑** [[UNESCO|联合国教科文组织]]全球教育研究利用战略审查通过跨部门治理对比指出，证据知情决策的持续发生高度依赖常设性转化基础设施。世界卫生组织于 2005 年发起的[[EVIPNet|证据知情政策网络]]（EVIPNet）确立了全球与本土垂直贯通的双层架构：在总部制定高质量[[Research Synthesis|证据综合]]准则，而在各成员国内部设立由本土专业团队运营的国家知识转化平台（[[Research Translation|Knowledge Translation]] Platforms, KTPs），通过将实证审查制度化嵌入法规流程与长效监测机制，有效化解了单向知识推送导致的政策采纳障碍，为全球公共治理推进证据知情决策提供了成熟的组织架构样板。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 36–37, 48–49)]]
 
 ---
 
@@ -183,7 +183,7 @@ updated: 2026-10-23
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **行为本体命题** | 将证据利用界定为由多层机制驱动的行为改变过程，确立终极行动锚点 | 公共政策循证改革、智库影响力评估、政策决策行为诊断 | Langer et al. (2016) |
-> | **机制协同与常设网络命题** | 阐明单一信息推力的失效，论证六大因果机制与常设转化网络（如 EVIPNet）的制度化支撑 | 循证政策能力培训、政府决策规程重塑、跨部门常设转化平台建设 | [[Argument_Torres_2022_KMModels\|Torres (2022b)]]; [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] |
+> | **机制协同与常设网络命题** | 阐明单一信息推力的失效，论证六大因果机制与常设转化网络（如 EVIPNet）的制度化支撑 | 循证政策能力培训、政府决策规程重塑、跨部门常设转化平台建设 | [[Argument_Torres_2022_KMModels\|Torres (2022b)]]; [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] |
 > | **制度使能与认知正义命题** | 批判将知情决策阻碍个体化归咎于官员素养短板，主张重塑系统使能条件与包容性审议空间 | 循证政策能力建设、国际组织教育援助与国家教育治理改革 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] |
 
 ---
@@ -193,7 +193,7 @@ updated: 2026-10-23
 > - **2000s — 从 Evidence-Based 向 Evidence-Informed 的现实转向** 政策学者意识到政治博弈、价值冲突与行政情境的制约，“证据知情”（Evidence-Informed）取代“证据为本”，承认证据是决策审议的多元输入之一而非唯一决定者。
 > - **2016 — Langer 等人提出 EIDM 行为改变因果框架** [[EPPI-Centre]] 的 Laurenz Langer 等人发表《The [[Science of Using Science]]》，整合行为科学与心理学理论，首次构建以行为改变为终极目标、包含六大机制与 [[COM-B Model\|COM-B]] 中介心理[[Construct\|构念]]的 EIDM 分析模型。
 > - **2022 — [[OECD]] [[Knowledge Mobilisation\|知识动员]]比较中的理论定位** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 将 EIDM 确立为补充宏观动员模型理论盲区的前沿微观机制典范，强调其填补了决策端行动者微观因果转化机制的长期空白。
-> - **2024 — 全球教育治理反思与常设知情网络（EVIPNet）借镜** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al., 2024a, pp. 36–37, 48–49]]）跨界对比公共卫生与教育的证据利用架构，指出证据知情决策不能停留在自上而下的政策简报分发，而必须借镜世卫组织证据知情[[Policy Network|政策网络]]（EVIPNet）模式，在国家行政体制内部建立常设的知识转化平台与长效监测、评估与学习（MEL）规程。
+> - **2024 — 全球教育治理反思与常设知情网络（EVIPNet）借镜** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al., 2024, pp. 36–37, 48–49]]）跨界对比公共卫生与教育的证据利用架构，指出证据知情决策不能停留在自上而下的政策简报分发，而必须借镜世卫组织证据知情[[Policy Network|政策网络]]（EVIPNet）模式，在国家行政体制内部建立常设的知识转化平台与长效监测、评估与学习（MEL）规程。
 > - **2026 — 超国家话语解构与证据知情决策的制度使能与认知正义转向** [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] 批判超国家话语将证据知情决策阻碍个体化归咎于官员数据素养的偏颇，提出必须通过制度使能环境建设与包容性审议确立地方认识论正义。
 
 ---
@@ -217,5 +217,5 @@ updated: 2026-10-23
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统引入 Langer 等人的 EIDM 行为改变框架，横向阐明其对突破[[Knowledge Mobilisation\|知识动员]]供给侧偏误的理论突破。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 探讨[[Evidence-Informed Practice\|证据知情实践]]在教育系统中的多源拼图架构与中介网络支撑。
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 跨领域对比公共卫生与教育的决策循证机制，揭示常设转化平台（EVIPNet / KTPs）与自下而上需求反馈对维系证据知情决策生态的核心制度价值。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 跨领域对比公共卫生与教育的决策循证机制，揭示常设转化平台（EVIPNet / KTPs）与自下而上需求反馈对维系证据知情决策生态的核心制度价值。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 剖析超国家组织政策文本，批判证据知情决策推进中的个体责任化倾向，重构包含制度使能条件与地方认知正义的包容性决策生态。

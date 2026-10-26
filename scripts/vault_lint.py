@@ -1754,15 +1754,6 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
         publication_type = str(data.get("publication_type") or "").strip()
         if publication_type in {"book", "edited-volume", "book-chapter"} and TEMPLATES_DIR not in path.parents:
             publisher = str(data.get("publisher") or "").strip()
-            publication_place = str(data.get("publication_place") or "").strip()
-            if not publication_place:
-                issues.append(Issue(
-                    "ERROR",
-                    rel(path),
-                    "book citation metadata must include publication_place",
-                    line=frontmatter_line_number(fm, "publisher"),
-                    code="BOOK_PUBLICATION_PLACE_MISSING",
-                ))
             if not publisher:
                 issues.append(Issue(
                     "ERROR",
@@ -1771,18 +1762,21 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                     line=frontmatter_line_number(fm, "publisher"),
                     code="BOOK_PUBLISHER_MISSING",
                 ))
-            if citation and publication_place and publisher:
-                place_publisher = re.compile(
-                    rf"{re.escape(publication_place)}\s*[:：]\s*{re.escape(publisher)}"
-                )
-                if not place_publisher.search(citation):
-                    issues.append(Issue(
-                        "ERROR",
-                        rel(path),
-                        f"book citation must place location before publisher: {publication_place}: {publisher}.",
-                        line=frontmatter_line_number(fm, "citation"),
-                        code="BOOK_CITATION_PLACE_PUBLISHER",
-                    ))
+
+    # Full references follow APA 7 mechanics (no publisher location, en dash
+    # ranges, https://doi.org DOIs, group author not repeated as publisher).
+    if typ in {"argument", "source"} and isinstance(data.get("citation"), str) and data.get("citation").strip() \
+            and TEMPLATES_DIR not in path.parents:
+        import citation_index  # noqa: PLC0415
+        fixed, codes = citation_index.apa7_reference(data["citation"], str(data.get("publication_place") or ""))
+        if codes:
+            labels = {"location": "drop publisher location (APA 7)", "dash": "en dash in ranges",
+                      "doi": "DOI as https://doi.org/", "publisher_is_author": "group author not repeated as publisher"}
+            issues.append(Issue(
+                "WARN", rel(path),
+                f"citation is not APA 7 ({'; '.join(labels[c] for c in codes)}); run vault_lint.py --fix: {fixed!r}",
+                line=frontmatter_line_number(fm, "citation"), code="CITATION_APA7_FORMAT",
+            ))
 
     # Argument entries should include authors field for AI-filled creator metadata.
     if typ == "argument" and "authors" not in data:
@@ -3515,9 +3509,22 @@ def writing_exception_changed_notes() -> List[Path]:
     return [ROOT / key for key in sorted(names)]
 
 
+_REVIEW_LINK_DISPLAY_RE = re.compile(r"\[\[([^\]|\\\n]+)(?:\\?\|[^\]\n]*)?\]\]")
+
+
+def normalize_review_line(line: str) -> str:
+    """The source line a review is bound to, with wikilink display text removed.
+
+    `[[Target|display]]` -> `[[Target]]`, so mechanical display rewrites
+    (citation suffixes, APA author forms, alias pipes) keep an approved review
+    valid while any change to the prose itself still invalidates it.
+    """
+    return _REVIEW_LINK_DISPLAY_RE.sub(lambda m: f"[[{m.group(1).strip()}]]", line.strip())
+
+
 def writing_review_id(code: str, location: str, original_line: str) -> str:
-    """Bind each review to its rule, prose/summary location and complete source line."""
-    payload = json.dumps([code, location, original_line.strip()], ensure_ascii=False, separators=(",", ":"))
+    """Bind each review to its rule, prose/summary location and source line (link displays ignored)."""
+    payload = json.dumps([code, location, normalize_review_line(original_line)], ensure_ascii=False, separators=(",", ":"))
     return hashlib.sha256(payload.encode("utf-8")).hexdigest()[:16]
 
 
@@ -3716,6 +3723,31 @@ def fix_body_spans(text: str, argument_citations: Dict[str, Dict[str, Any]]) -> 
         last_start = s
         applied += 1
     return head + new_body, applied
+
+
+def fix_apa7_reference(text: str) -> Tuple[str, int]:
+    """CITATION_APA7_FORMAT: rewrite the frontmatter `citation` line in APA 7 form."""
+    split = vaultlib.split_frontmatter(text)
+    if not split.found:
+        return text, 0
+    import citation_index  # noqa: PLC0415
+    meta = vaultlib.parse_frontmatter_light(split.raw)
+    citation = meta.get("citation")
+    if not isinstance(citation, str) or not citation.strip():
+        return text, 0
+    fixed, codes = citation_index.apa7_reference(citation, str(meta.get("publication_place") or ""))
+    if not codes:
+        return text, 0
+    lines = split.raw.split("\n")
+    for i, line in enumerate(lines):
+        if re.match(r"^citation:\s", line):
+            lines[i] = f"citation: {vaultlib.yaml_quote(fixed)}"
+            break
+    else:
+        return text, 0
+    head = split.head
+    new_head = head[: head.index(split.raw)] + "\n".join(lines) + head[head.index(split.raw) + len(split.raw):]
+    return new_head + split.body, 1
 
 
 def fix_summary_quotes(text: str) -> Tuple[str, int]:
@@ -4052,6 +4084,8 @@ def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]
             if not n:
                 break
         new_text, n2 = fix_summary_quotes(new_text)
+        new_text, n_apa = fix_apa7_reference(new_text)
+        n2 += n_apa
         new_text, n3 = fix_axis_callouts(new_text)
         new_text, n4 = fix_bold_boundaries(new_text)
         if is_wiki_entry_path(path):

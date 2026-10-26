@@ -1,5 +1,5 @@
 ---
-citation: "Cowen, R. (2009). On History and on The Creation of Comparative Education. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 7–10). Dordrecht: Springer."
+citation: "Cowen, R. (2009). On history and on the creation of comparative education. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 7–10). Springer."
 extracted_to:
   - "[[Argument_Cowen_2009_HistoryCreation]]"
 processed_date: 2026-09-05

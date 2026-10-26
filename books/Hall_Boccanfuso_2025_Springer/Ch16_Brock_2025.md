@@ -1,5 +1,5 @@
 ---
-citation: "Brock, E. L. (2025). Data: Access, generation, use. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 289–307). Springer."
+citation: "Brock, E. L. (2025). Data: Access, generation, use. In R. Hall & A. Boccanfuso (Eds.), University-industry collaboration: Innovation at the interface (pp. 289–307). Springer."
 extracted_to:
   - "[[Argument_Brock_2025_DataAccessGenerationUse]]"
 processed_date: 2026-06-04

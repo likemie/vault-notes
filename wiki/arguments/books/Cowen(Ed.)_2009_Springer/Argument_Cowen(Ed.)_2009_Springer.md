@@ -22,7 +22,7 @@ publisher: "Springer"
 year: 2009
 doi: ""
 isbn: "978-1-4020-6402-9"
-citation: "Cowen, R. & Kazamias, A. M. (Eds.). (2009). International Handbook of Comparative Education. Dordrecht: Springer."
+citation: "Cowen, R. & Kazamias, A. M. (Eds.). (2009). International handbook of comparative education. Springer."
 tags:
   - subject/comparative-education
   - region/global

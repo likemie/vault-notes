@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -64,10 +64,10 @@ updated: 2026-10-23
 > - **边界** 区别于面向全球工业化国家的高难度测评（如 [[PISA]]、[[TIMSS]] 高年级模块），其技术参数重点刻画小学初等阶段的基本读写算术与低端学力分布。
 
 > [!def] Regional Large-Scale Assessments
-> 区域大规模[[Academic Achievement|学业成就]]测评（Regional Large-Scale Assessments, RLSAs）是由区域多边机构或地缘国家教育部联盟发起的跨国标准化教育评价系统。作为与全球性国际大规模评估（[[International Large-Scale Assessments|ILSAs]]）并列的关键证据源，其代表性机制包括非洲的 [[SACMEQ]] 与 [[PASEC]]、拉丁美洲的 [[LLECE]]、东南亚的 [[SEA-PLM]] 以及太平洋岛国的 [[PILNA]]。在吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者的[[UNESCO|教科文组织]]全球战略审查中，区域大规模测评被确定为凝聚公众意识、动员国内政治支持与支撑根本性教育改革的核心实证工具，在促进跨国政策证据利用中展现出高度的地缘亲和力与制度合法性。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 16)]]
+> 区域大规模[[Academic Achievement|学业成就]]测评（Regional Large-Scale Assessments, RLSAs）是由区域多边机构或地缘国家教育部联盟发起的跨国标准化教育评价系统。作为与全球性国际大规模评估（[[International Large-Scale Assessments|ILSAs]]）并列的关键证据源，其代表性机制包括非洲的 [[SACMEQ]] 与 [[PASEC]]、拉丁美洲的 [[LLECE]]、东南亚的 [[SEA-PLM]] 以及太平洋岛国的 [[PILNA]]。在吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者的[[UNESCO|教科文组织]]全球战略审查中，区域大规模测评被确定为凝聚公众意识、动员国内政治支持与支撑根本性教育改革的核心实证工具，在促进跨国政策证据利用中展现出高度的地缘亲和力与制度合法性。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 16)]]
 
 > [!citation-card] 区域大规模测评的动员潜能
-> [[OECD|经合组织]]和[[IEA|国际教育成就评价协会]]的大规模测评，或者区域大规模测评研究（SACMEQ、PASEC、LLECE、PILNA、SEA-PLM），非常适合用于激发公众意识并为重大变革争取政治支持。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 16)]]
+> [[OECD|经合组织]]和[[IEA|国际教育成就评价协会]]的大规模测评，或者区域大规模测评研究（SACMEQ、PASEC、LLECE、PILNA、SEA-PLM），非常适合用于激发公众意识并为重大变革争取政治支持。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 16)]]
 >
 > *As mentioned before, OECD and IEA large-scale assessments or regional large-scale assessments studies (SACMEQ, PASEC, LLECE, PILNA, SEA-PLM) are ideally suited to generate public awareness and political support in favor of big changes.*
 
@@ -78,7 +78,7 @@ updated: 2026-10-23
 ---
 
 > [!feature] 核心特征与治理功能
-> - **锚定低收入情境学力底线** 测验题目侧重小学 2–6 年级的基础识字与基本数学运算，有效避免全球 PISA 测验中低收入发展中国家大面积出现零分或底线效应的问题。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 16)]]
+> - **锚定低收入情境学力底线** 测验题目侧重小学 2–6 年级的基础识字与基本数学运算，有效避免全球 PISA 测验中低收入发展中国家大面积出现零分或底线效应的问题。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 16)]]
 > - **适配区域主体教学语言** 广泛采用西班牙语、法语、葡萄牙语或特定区域通用民族语言组织试题翻译与效度审查，降低外源语言障碍带来的测量偏差。
 > - **培育地缘部委同伴互学生态** 依托区域多边机构（如 CONFEMEN、SEAMEO、OREALC）建立跨国国家协调员（National Research Coordinators）常态化技术磋商网络，增强各教育部委对评估结果的制度信任。
 

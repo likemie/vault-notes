@@ -1,5 +1,5 @@
 ---
-citation: "Steiner-Khamsi, G., Faul, M. V., Baek, C., Hopkins, A. N., & Iwabuchi, K. (2024). Strategic review: Improving the use of evidence for education policy, planning and implementation. UNESCO, Paris."
+citation: "Steiner-Khamsi, G., Faul, M. V., Baek, C., Hopkins, A. N., & Iwabuchi, K. (2024). Strategic review: Improving the use of evidence for education policy, planning and implementation. UNESCO."
 extracted_to:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
 processed_date: 2026-10-22

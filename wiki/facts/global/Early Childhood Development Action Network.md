@@ -45,19 +45,19 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> 早期儿童发展行动网络（Early Childhood Development Action Network, ECDAN）是 2016 年由[[UNICEF|联合国儿童基金会]]（UNICEF）、[[World Bank|世界银行]]（World Bank）等多边机构与国际基金会联合发起建立的全球性多利益相关方伙伴关系网络。该网络汇聚政策决策官员、发展心理学研究者、非政府组织与慈善资助方，专注于推进[[UN Sustainable Development Goals|联合国可持续发展目标]]第 4 项第 2 款（SDG 4.2，普及优质学前教育与儿童早期发展）。在[[UNESCO|联合国教科文组织]]全球战略审查中，ECDAN 被列为跨越政学界限、推进“双向关系型[[Knowledge Exchange|知识交流]]（Relational Knowledge Exchange）”的标杆网络组织。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 8, 15, 51)]]
+> 早期儿童发展行动网络（Early Childhood Development Action Network, ECDAN）是 2016 年由[[UNICEF|联合国儿童基金会]]（UNICEF）、[[World Bank|世界银行]]（World Bank）等多边机构与国际基金会联合发起建立的全球性多利益相关方伙伴关系网络。该网络汇聚政策决策官员、发展心理学研究者、非政府组织与慈善资助方，专注于推进[[UN Sustainable Development Goals|联合国可持续发展目标]]第 4 项第 2 款（SDG 4.2，普及优质学前教育与儿童早期发展）。在[[UNESCO|联合国教科文组织]]全球战略审查中，ECDAN 被列为跨越政学界限、推进“双向关系型[[Knowledge Exchange|知识交流]]（Relational Knowledge Exchange）”的标杆网络组织。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 8, 15, 51)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2016 年在联合国大会期间正式启动，旨在破除早期儿童发展领域长期存在的卫生、营养、教育与社会保护部门条块分割困境。
 > - **总部地点 / 业务辐射** 秘书处常设于美国华盛顿特区，业务网络覆盖全球 100 多个国家，下设非洲、亚洲、拉丁美洲等区域分支工作组。
 > - **法人属性与经费基础** 独立的非营利国际伙伴关系网络，依托比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]、儿童投资基金会（CIFF）以及世界银行等多边机构专项基金托管运营。
-> - **核心宗旨与法定职责** 倡导基于科学实证的儿童早期投资，促进脑神经科学研究向国家公共政策转化，确保每个儿童在认知、身体与社会情感方面获得充分发展。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 15)]]
+> - **核心宗旨与法定职责** 倡导基于科学实证的儿童早期投资，促进脑神经科学研究向国家公共政策转化，确保每个儿童在认知、身体与社会情感方面获得充分发展。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 15)]]
 > - **官方平台与在线门户** 官方门户为 [Early Childhood Development Action Network (ECDAN)](https://ecdan.org/)，提供核心业务信息与公开资源检索。
 
 ---
@@ -65,7 +65,7 @@ updated: 2026-10-23
 > [!dev-timeline] 组织发展历程
 > - **2016–2018 跨部门倡导与网络架构初创期** 聚合跨部门全球伙伴，建立由指导委员会主导的分布式工作机制，确立以实证为导向的全球宣传议程。
 > - **2019–2021 [[Knowledge Mediation|知识中介]]与双向学习深化期** 设立“[[Research Translation|知识转译]]与学习工作组”，定期发布政策实务简报，组织跨国政策同伴研讨，并在教科文组织全球战略审查中作为关系型中介典型接受深度调研。
-> - **2022–至今 系统性政策嵌入与国家能力支持期** 协同各参涉国教育部推动将早期儿童实证指标纳入国家中期预算，联合推进优质早期发展规模化项目。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 15, 51)]]
+> - **2022–至今 系统性政策嵌入与国家能力支持期** 协同各参涉国教育部推动将早期儿童实证指标纳入国家中期预算，联合推进优质早期发展规模化项目。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 15, 51)]]
 
 ---
 
@@ -77,7 +77,7 @@ updated: 2026-10-23
 ---
 
 > [!pathways] 业务运行机制与证据利用
-> - **双向关系型知识流动（Relational Pathway）** 改变学者单向向官员递送报告的传统，设立常态化学者与决策者联合研讨空间，使[[Research Topic|研究选题]]直接回应政策制定的即时疑难。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 15)]]
+> - **双向关系型知识流动（Relational Pathway）** 改变学者单向向官员递送报告的传统，设立常态化学者与决策者联合研讨空间，使[[Research Topic|研究选题]]直接回应政策制定的即时疑难。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 15)]]
 > - **跨部门实证合成与指标统一** 将脑科学、儿科医学、发展经济学与早期教育学证据进行综合提炼，协助部委研制跨部门早期发展监测框架。
 > - **倡导联盟与财政游说** 依托经同行评审的干预成本效益数据，协助各国教育部与财政部沟通，论证学前教育投资极高的社会回报率。
 
@@ -90,4 +90,4 @@ updated: 2026-10-23
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 确立 ECDAN 作为连接政策、科研、多边与第三部门，推进关系型知识交流的代表性网络中介（pp. 8, 15, 51）。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 确立 ECDAN 作为连接政策、科研、多边与第三部门，推进关系型知识交流的代表性网络中介（pp. 8, 15, 51）。

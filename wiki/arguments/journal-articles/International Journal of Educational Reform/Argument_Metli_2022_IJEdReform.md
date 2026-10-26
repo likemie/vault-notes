@@ -5,7 +5,7 @@ authors:
   - "[[Akin Metli|Metli, A.]]"
   - "[[Dincer Akis|Akış, D.]]"
 source_language: en
-citation: "Metli, A., & Akış, D. (2022). Concurrency of Learning: Strategies and Challenges of Promoting Coherence in the Core in the International Baccalaureate Diploma Programme (IBDP). International Journal of Educational Reform, 31(2), 218–232."
+citation: "Metli, A., & Akış, D. (2022). Concurrency of learning: Strategies and challenges of promoting coherence in the core in the International Baccalaureate Diploma Programme (IBDP). International Journal of Educational Reform, 31(2), 218–232."
 year: 2022
 doi: "10.1177/10567879211064873"
 citation_aliases:

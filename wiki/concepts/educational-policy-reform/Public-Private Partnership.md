@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -171,7 +171,7 @@ updated: 2026-10-25
 > [!concept-lens] 重资产私人融资与空间管辖权让渡维度
 > 探讨重资产型私人融资倡议（PFI/PPP）如何将私营金融财团与商业物业公司的利益长期锁定进公立学校系统，揭示其对国家公共财政的刚性捆绑以及对一线校园日常空间治理自主权的削弱。
 
-> [!claim] [[Argument_ONeill_2016_Report|O'Neill, J., Duffy, C., & Fernando, S. (2016)]]
+> [!claim] [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]]
 > **重资产基建 PPP 对公共财政年金与学校空间权力的锁定** [[John O'Neill|约翰·奥尼尔]]等学者在剖析新西兰公立[[Educational Privatisation|教育私有化]]进程时指出，2012 年新西兰教育部将首个公立学校 PPP 合同授予学习基础设施伙伴联盟（Learning Infrastructure Partners, LIP；后重组为未来学校伙伴 Future School Partners），负责霍布森维尔点公立中小学（Hobsonville Point Primary & Secondary Schools）等校舍的设计、施工、私人融资以及长达 25 年的日常物业维护；财团背后的基石出资人包括由新西兰养老基金（NZ Super Fund）支撑的公共基础设施伙伴基金（PIP Fund）。该模式表面上平滑了政府当期的资本支出，但实质上要求国家公共财政在未来四分之一世纪内持续支付不可撤回的刚性租金年金，将商业金融资本的稳态收益索取权刚性固化于国家教育预算；更严重的是，一线公立学校的校长与教师失去了对校舍物理空间的自主支配权，日常活动安排与设施借用受制于物业公司的商业考核规程。此外，政府将恒天然（Fonterra）与 Sanitarium 食品公司推行的“校园早餐进击计划”（KickStart Breakfast）纳入公私匹配资助，实质上是将学生基础营养保障与公共福利托付给食品跨国企业的商业社会责任（CSR）公关工程。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 12, 30)]]
 
 ---

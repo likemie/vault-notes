@@ -298,7 +298,7 @@ updated: 2026-10-26
 >   2. 破除防卫型采购官僚壁垒（Dismantling Procurement Deserts）：重组军工采办机制，以敏捷软件采购替代冗长重型硬件合规，引入外部创新型初创企业；
 >   3. 应对对手双重转化挑战与克服道德撤退（Adversarial Fast-[[Tracking]] & Overcoming Moral Evasion）：警惕威权对手以国家所有者心态极速推进人脸识别与[[Autonomous Drone Swarms|自主无人机蜂群]]军用化，破除西方工程师将防务研发视为道德污点的[[Winner's Fallacy|胜者自满]]；
 >   4. 科学家与国家行政常态结盟（Executive-Scientific Institutional Liaison）：继承 1939 年[[Einstein-Szilard Letter|爱因斯坦-西拉德信函]]典范，建立顶尖前沿科学家与国家决策中枢的持续互动机制。
-> - **场域八：全球教育治理与公共卫生借镜下的三维知识转化模型（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al., 2024a]]）**
+> - **场域八：全球教育治理与公共卫生借镜下的三维知识转化模型（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al., 2024]]）**
 >   1. 产品维度（Product）：将基础学术研究定向加工为契合决策时间窗口的证据简报、政策摘要与可检索知识库；
 >   2. 关系维度（Relational）：依托研讨会、政策对话与跨界中介者培育研究者与决策者的长期互信，解决研究凭证与机构权威分离的可[[Reliability|信度]]困境；
 >   3. 系统维度（Systemic）：借镜世界卫生组织[[EVIPNet|证据知情政策网络]]（Evidence-Informed [[Policy Network]], EVIPNet）经验，建立国家知识转化平台（Knowledge Translation Platforms, KTPs）与部委常设证据评估处室，将转化活动制度化并嵌入国家常态决策规程。
@@ -453,7 +453,7 @@ updated: 2026-10-26
 > - **2020 — 宏观立法转化导航与学会敏捷机制确立** [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] 系统提出研究者导航宏观立法的实操框架，确立了[[Legislative Policy Brief|立法政策简报]]法条化、象征性法案证据储备、极简定调传播及专业学会快速响应机制（[[Rapid Assessment and Response Strategy|RARS]]），补齐了研究转化的宏观政治拼图。
 > - **2022 — 跨国证据生态中的转化中介实证审视** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]首次在 29 国 37 个教育系统测度转化主体分布，实证确立了学术生产过剩与实践转化贫瘠、生产依附偏误等结构性规律。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022)]]
 > - **2022 — 国家督导规程中的研究转译与行政文本重写揭示** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 剖析[[Swedish Schools Inspectorate|瑞典学校督察局]]，揭示常规督导如何将“成功学校”研究编码固化为法定评估指标，以及质量审计如何通过预设单一范式与终审定稿清洗将学术实证转译为服务于国家简化的行政问责工具。
-> - **2024 — 全球教育治理借鉴公共卫生构建三维知识转化框架** [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] 为[[UNESCO|联合国教科文组织]]撰写全球报告，借镜公共卫生领域证据知情政策网络经验，系统提出产品、关系与系统三维知识转化框架，指出 74% 证据平台脱离决策的孤立现状，主张建立国家知识转化平台与部委常设证据评估处室以实现转化制度化。
+> - **2024 — 全球教育治理借鉴公共卫生构建三维知识转化框架** [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] 为[[UNESCO|联合国教科文组织]]撰写全球报告，借镜公共卫生领域证据知情政策网络经验，系统提出产品、关系与系统三维知识转化框架，指出 74% 证据平台脱离决策的孤立现状，主张建立国家知识转化平台与部委常设证据评估处室以实现转化制度化。
 > - **2024–2025 — [[Public-Private Partnership|公私伙伴关系]]、中试共置与国家转化战略深化** 面对全球科技与地缘竞争，《[[CHIPS and Science Act|芯片与科学法案]]》授权设立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）与[[National Science Foundation|美国国家科学基金会]]技术、创新与伙伴关系（[[Directorate for Technology, Innovation and Partnerships|TIP]]）署；[[Albany NanoTech Complex|Albany NanoTech]] 与 MIT.nano 推动大学与企业中试洁净室共置，以大规模公私合作伙伴关系（PPP）与[[Pilot Scale Platform|中试平台]]加速基础科研向战略产业转化。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–24)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–238)]]
 > - **2025 — 技术共和国与国家使命防务转化重塑** 亚历克斯·卡普与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]系统反思冷战以降科技转化机制的脱节，剖析威权对手超敏捷转化与西方硅谷工程师道德撤退的鲜明对比，提出破除公共部门防卫型采购障碍，重塑国家首要买家拉动与政产研常态结盟，将商业前沿 AI 软件迅速转化为国防与公共治理核心[[Hard Power|硬实力]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 29–36)]]
 > - **2026 — 白宫国家深科技与实体制造转化体系重构** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立“打破规制阻滞、恢复[[Permissionless Innovation|无许可创新]]、开放共享试验场与国家实验室设施、组建前竞争技术联合体并将科研突破锚定于本土先进制造”的国家级研究转化体系。
@@ -540,7 +540,7 @@ updated: 2026-10-26
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 联合国教科文组织《[[Global Education Monitoring Report|全球教育监测报告]]》背景报告，借镜公共卫生领域经验提出产品、关系与系统三维知识转化框架，揭示全球 654 个证据平台中 74% 脱离决策的孤立现状，论证部委常设证据评估处室与国家知识转化平台的制度化机制。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 联合国教科文组织《[[Global Education Monitoring Report|全球教育监测报告]]》背景报告，借镜公共卫生领域经验提出产品、关系与系统三维知识转化框架，揭示全球 654 个证据平台中 74% 脱离决策的孤立现状，论证部委常设证据评估处室与国家知识转化平台的制度化机制。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以[[Swedish Schools Inspectorate|瑞典学校督察局]]为工具性个案，揭示教育行政督导如何将“成功学校”研究转译编码为十项法定评估指标，以及质量审计如何通过预设单一范式与传播秘书处终审定稿清洗将学术实证重塑为国家简化的问责工具。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析[[Research Universities|研究型大学]]在国家半导体体系中的四维角色重构，揭示中试共置（[[Albany NanoTech Complex|Albany NanoTech]]/MIT.nano）与“教育即标准”开源生态作为深科技研究转化的新型制度机制。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 溯源[[Technological Republic|技术共和国]]中“国家作为首要买家”的转化模式，批判公共部门防卫型采购阻滞与硅谷消费主义文化撤退，提出重塑国家安全前沿转化通道。

@@ -1,5 +1,5 @@
 ---
-citation: "Sandoval, W. A. (2005). Understanding students' practical epistemologies and their influence on learning through inquiry. Science Education, 89(4), 634-656."
+citation: "Sandoval, W. A. (2005). Understanding students' practical epistemologies and their influence on learning through inquiry. Science Education, 89(4), 634–656."
 extracted_to:
   - "[[Argument_Sandoval_2005_SE]]"
 processed_date: 2026-08-19

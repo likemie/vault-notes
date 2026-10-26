@@ -6,7 +6,7 @@ authors:
   - "[[Buckland, L. A.]]"
   - "[[Samarapungavan, A.]]"
 source_language: en
-citation: "Chinn, C. A., Buckland, L. A., & Samarapungavan, A. (2011). Expanding the Dimensions of Epistemic Cognition: Arguments From Philosophy and Psychology. Educational Psychologist, 46(3), 141-167."
+citation: "Chinn, C. A., Buckland, L. A., & Samarapungavan, A. (2011). Expanding the dimensions of epistemic cognition: Arguments from philosophy and psychology. Educational Psychologist, 46(3), 141–167."
 year: 2011
 doi: "10.1080/00461520.2011.587722"
 citation_aliases:

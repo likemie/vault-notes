@@ -14,7 +14,7 @@ argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
-citation: "Vickers, E. (2024). The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law. Comparative Education, 60(1), 138-158."
+citation: "Vickers, E. (2024). The motherland's suffocating embrace: schooling and public discourse on Hong Kong identity under the National Security Law. Comparative Education, 60(1), 138–158."
 tags:
   - region/hong-kong
   - region/china

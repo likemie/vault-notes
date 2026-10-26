@@ -186,7 +186,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -339,7 +339,7 @@ updated: 2026-10-25
 > [!concept-lens] [[Convergent and Discriminant Validity\|收敛效度]]与多质多法检验
 > 探讨清算中心体系作为特质测量工具，在多大程度上能够对同一教育干预的有效性给出稳定、收敛的评级。基于 Campbellian 多质多法（[[Multitrait-Multimethod Matrix\|MTMM]]）框架，[[Reliability\|信度]]与跨机构收敛性是[[Construct Validity\|构念效度]]的先决条件。
 
-> [!claim] [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]]
+> [!claim] [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]]
 > **评级收敛效度的经验崩溃** 实证检验 10 个清算中心评估的 1,359 个教育项目发现，83.2% 的项目仅由单一清算中心评级（存在严重的信息孤岛）；在 228 个获得多重评级的项目中，完全一致率仅约 30.5%，且一致性主要体现为共同判定为“无效/不推荐”（占 21.3%），而共同判定为最高推荐（1&1）仅占 1.2%；完全对立的极端冲突（1&3，一家强推 vs 另一家否决）高达 35.4%，成为最主要的分歧形态。这证明“基于证据”在清算中心体系中仅具有极其有限的实践构念效度([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 3, 18–20, 26]])。
 
 ---
@@ -349,7 +349,7 @@ updated: 2026-10-25
 > [!concept-lens] 单项[[Internal Validity\|内部效度]]审查 vs 跨研究[[Research Synthesis|证据综合]]门槛
 > 探讨导致清算中心评级分裂的核心方法论机制：是各中心对单项研究的[[Causality\|因果推断]]设计偏好不同，还是在项目层面的证据综合规则上设定了截然不同的门槛。
 
-> [!claim] [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]]
+> [!claim] [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]]
 > **证据综合门槛悬殊是分歧首因** 12 个清算中心在单项研究层面高度一致地将 [[Randomised Controlled Trials\|RCT]] 视为黄金标准，但当进入项目级综合评级时产生本质分化：[[Blueprints for Healthy Youth Development\|Blueprints]] 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]] 强制要求“至少一项由[[Evaluator Independence\|独立评估者]]完成的研究”和“干预结束后 12 个月的[[Fade-out Effect\|持续效果]]”，直接过滤了 90% 以上的商业项目；而 [[National Dropout Prevention Center\|NDPC]] 仅需单项无需长期追踪的显著研究即可给予最高评级。评级不一致的最主要根源在于综合门槛与文献池准入规则，而非因果识别偏好([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15, 26–27]])。
 
 ---
@@ -469,7 +469,7 @@ updated: 2026-10-25
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 纵向追踪[[OECD\|经合组织]] 2007 至 2022 年全球中介机构的十五年演进脉络，揭示中介机构受制于 2–3 年短期政治预算周期的存续悖论，构建三维制度分析谱系，并倡导推进“中介的中介”以建构跨国累积性知识基石。
-> - [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] — 全景比较美英 12 个教育清算中心的制度[[Heterogeneity\|异质性]]、[[Causality\|因果推断]]标准与 1,359 个项目的评级一致性，首次实证揭示多重评级高度冲突（完全对立占 35.4%）与[[Construct Validity\|构念效度]]局限，归因于[[Research Synthesis|证据综合]]门槛与文献库差异。
+> - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 全景比较美英 12 个教育清算中心的制度[[Heterogeneity\|异质性]]、[[Causality\|因果推断]]标准与 1,359 个项目的评级一致性，首次实证揭示多重评级高度冲突（完全对立占 35.4%）与[[Construct Validity\|构念效度]]局限，归因于[[Research Synthesis|证据综合]]门槛与文献库差异。
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 追踪 [[No Child Left Behind Act 2001\|NCLB]] 至 [[Every Student Succeeds Act\|ESSA]] 政策背景下清算中心（[[What Works Clearinghouse\|WWC]], [[Evidence for ESSA]]）的发展脉络，揭示学校采购者对实施成本、教师培训与满意度等地方性情境信息的核心诉求。
 > - [[Argument_Dachet_2021_ECNUROE\|Dachet and Baye (2021)]] — 批判直接照搬美英清算中心最高门槛对本地工具的过度排除效应，提出[[Inclusive Evidence Validation Typology\|包容性证据验证类型学]]以支持本土创新工具的分阶孵化。
 > - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] — 考察英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）及其工具箱在欧洲[[Evidence-Based Education\|循证教育]]治理中的制度化角色与转化机制。

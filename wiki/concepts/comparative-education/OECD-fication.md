@@ -147,7 +147,7 @@ updated: 2026-10-26
 > **量化硬事实构筑认知权威** 国际组织行使软治理的前提是在特定政策领域被各方接纳为认知权威。[[OECD|经合组织]]通过将其战略重心转向大规模跨国可比测评，成功塑造出理智、中立与技术官僚专业化的非政治化表象。这种客观化神话使原本充满特定经济偏向的政策倡议转化为科学事实，让民族国家决策者在缺乏法定强制的情形下自愿接受其政策指引与指标约束。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 269–270)]]
 
 > [!claim] Steiner-Khamsi et al.
-> **指标帝国与[[Knowledge Mediation|知识中介]]霸权** 经合组织通过 [[International Indicators of Education Systems|INES]] 指标网络与 [[PISA]] 测验构建了庞大的跨国[[Data Infrastructure|数据基础设施]]，将教育发展简化为若干可计算的离散[[Variable|变量]]。这种指标化运作将经合组织从单纯的数据收集平台推向全球教育[[Policy Brokerage|政策经纪]]中枢，确立了全球教育改革议程的经合组织化[[Path Dependence|锁定效应]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–543)]]
+> **指标帝国与[[Knowledge Mediation|知识中介]]霸权** 经合组织通过 [[International Indicators of Education Systems|INES]] 指标网络与 [[PISA]] 测验构建了庞大的跨国[[Data Infrastructure|数据基础设施]]，将教育发展简化为若干可计算的离散[[Variable|变量]]。这种指标化运作将经合组织从单纯的数据收集平台推向全球教育[[Policy Brokerage|政策经纪]]中枢，确立了全球教育改革议程的经合组织化[[Path Dependence|锁定效应]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–543)]]
 
 ---
 
@@ -167,7 +167,7 @@ updated: 2026-10-26
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **权威建构命题** | 揭示以数字和硬事实构筑认知权威并超越主权委托的机制 | 超国家组织治理合法性分析与跨国比较测验研究 | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] |
+> | **权威建构命题** | 揭示以数字和硬事实构筑认知权威并超越主权委托的机制 | 超国家组织治理合法性分析与跨国比较测验研究 | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] |
 > | **权力重组命题** | 阐释外部量化数据如何非对称赋权国内同盟并瓦解反对势力 | 各国在 PISA 冲击后的国内政治博弈与教育法案审议 | [[Argument_Niemann_Martens_2018_GSP\|Niemann and Martens (2018)]]; [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]]; Armingeon (2004) |
 
 ---
@@ -212,5 +212,5 @@ updated: 2026-10-26
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 提出并论证经合组织化概念，系统解析以硬事实施展软治理的运作机制与国内权力配置重构。
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 运用比较教育[[Epistemology|认识论]]剖析指标帝国运作，揭示经合组织如何将教育研究简化为量化[[Causality|因果推断]]并垄断全球议程。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 运用比较教育[[Epistemology|认识论]]剖析指标帝国运作，揭示经合组织如何将教育研究简化为量化[[Causality|因果推断]]并垄断全球议程。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 追踪 PISA 在欧洲的[[Governing by Numbers|数字治理]]效应，展现经合组织指标如何塑造欧洲教育空间与成员国政策。

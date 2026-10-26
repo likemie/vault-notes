@@ -8,7 +8,7 @@ authors:
   - "Kim, T."
   - "Neher, L. G."
 source_language: en
-citation: "Runco, M. A., Mammadov, S., Sui, D., Kim, T., & Neher, L. G. (2026). Second-order meta-analysis of the creativity research. Creativity Research Journal, https://doi.org/10.1080/10400419.2026.2644245"
+citation: "Runco, M. A., Mammadov, S., Sui, D., Kim, T., & Neher, L. G. (2026). Second-order meta-analysis of the creativity research. Creativity Research Journal. https://doi.org/10.1080/10400419.2026.2644245"
 year: 2026
 doi: "10.1080/10400419.2026.2644245"
 citation_aliases:

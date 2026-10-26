@@ -1,5 +1,5 @@
 ---
-citation: "Rickinson, M., Walsh, L., Gleeson, J., Cutler, B., Cirkony, C., & Salisbury, M. (2022). Using research well in educational practice. In N. Révai (Ed.), Who cares about using education research in policy and practice?: Strengthening research engagement (pp. 182–199). Paris: OECD Publishing. https://doi.org/10.1787/d7ff793d-en"
+citation: "Rickinson, M., Walsh, L., Gleeson, J., Cutler, B., Cirkony, C., & Salisbury, M. (2022). Using research well in educational practice. In N. Révai (Ed.), Who cares about using education research in policy and practice?: Strengthening research engagement (pp. 182–199). OECD Publishing. https://doi.org/10.1787/d7ff793d-en"
 extracted_to:
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
 processed_date: 2026-09-14

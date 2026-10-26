@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -66,7 +66,7 @@ updated: 2026-10-22
 > - **代表贡献** 提出通约化理论（Commensuration）与反应性机制（Reactivity）；撰写指标社会学奠基著作《焦虑的引擎：学术排名、声誉与问责》（*Engines of Anxiety*）；提出数字激发叙事理论（Narrating Numbers）。
 
 > [!citation-card] 数字激发叙事与指标故事诠释
-> 决策者之所以热衷于数字，是因为数字能够‘激发叙事’，进而赋予他们阐释数字的自由，即从自身的政治视角讲述‘这些指标究竟意味着什么的故事’。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
+> 决策者之所以热衷于数字，是因为数字能够‘激发叙事’，进而赋予他们阐释数字的自由，即从自身的政治视角讲述‘这些指标究竟意味着什么的故事’。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 539)]]
 >
 > *Policymakers are enamored with numbers because numbers 'evoke narratives' and, therefore, enable them to interpret the numbers, that is, tell 'stories about what the indicators mean' (Espeland 2015, 65) from their own political perspective.*
 
@@ -91,7 +91,7 @@ updated: 2026-10-22
 >   - **关键概念／方法** 反应性（Reactivity）、自证预言（Self-Fulfilling Prophecy）、硬指标焦虑。
 >   - **阶段转向** 从静态的指标设计批判，深化为对指标发布后行动者动态反思、逆向博弈与组织行为异化的闭环反馈机制解剖。
 > - **2015年至今 — 全球指标治理、[[Façade of Rationality\|理性表象]]与数字叙事** 参与国际指标社会学前沿论辩，探索超国家治理与跨国组织[[Policy Brokerage\|政策中介]]中数字与叙事的共生辩证法。
->   - **代表著作** *Narrating Numbers* (2015); *What's New with Numbers? Sociological Approaches to the Study of Quantification* (2019, with A. Mennicken)。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
+>   - **代表著作** *Narrating Numbers* (2015); *What's New with Numbers? Sociological Approaches to the Study of Quantification* (2019, with A. Mennicken)。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 539)]]
 >   - **关键概念／方法** 理性表象（Façade of Rationality）、数字叙事空间（Narrating Numbers）、公共政策中介。
 >   - **阶段转向** 揭示数字在公共政治中并非终结意识形态争论的科学裁判，而是为统治者提供抵御外部问责的“理性[[Scaffolding\|脚手架]]”，并为选择性讲述政治故事开辟广阔阐释空间。
 
@@ -119,7 +119,7 @@ updated: 2026-10-22
 > - **跨国／跨领域传播** 思想跨越高等教育、医疗政策、环境治理与法律经济学，成为全球批判数据主义（Critical Data Studies）与算法问责研究的核心理论资源。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]] — 引用 Espeland (2015) 论证数字指标在教育公共政策中如何构筑理性客观表象，并为中介机构和决策者阐释“指标故事”保留政治叙事自由。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024]] — 引用 Espeland (2015) 论证数字指标在教育公共政策中如何构筑理性客观表象，并为中介机构和决策者阐释“指标故事”保留政治叙事自由。
 > - [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017]] — 运用 Espeland and Sauder (2007) 的排名履行性与反应性机制，批判全球高等教育政治经济学中的市场化与象征资本锦标赛。
 > - [[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022]] — 援引 Espeland and Stevens (2008) 论证教育量化技术对学习者“[[Digital Self\|数字自我]]”的统计构建，揭示数据测量绝非通向真实客观的特权通道。
 

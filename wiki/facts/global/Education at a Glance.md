@@ -65,18 +65,18 @@ updated: 2026-10-26
 ---
 
 > [!claim] 项目定位
-> 《教育概览》（Education at a Glance, EAG）是[[OECD|经济合作与发展组织]]（OECD）自 1992 年起出版的年度旗舰数据报告，被誉为全球教育系统量化比较的权威文献。该报告由[[International Indicators of Education Systems|国际教育系统指标]]（INES）网络研发生产，系统呈现成员国与伙伴国在教育产出、财政人力投入、入学升学以及学校环境维度的数百项指标，标志着西方世界教育治理从二战后粗放的劳动力预测全面转向现代“[[Governing by Numbers|数字治理]]”。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 4, 14)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–543)]]
+> 《教育概览》（Education at a Glance, EAG）是[[OECD|经济合作与发展组织]]（OECD）自 1992 年起出版的年度旗舰数据报告，被誉为全球教育系统量化比较的权威文献。该报告由[[International Indicators of Education Systems|国际教育系统指标]]（INES）网络研发生产，系统呈现成员国与伙伴国在教育产出、财政人力投入、入学升学以及学校环境维度的数百项指标，标志着西方世界教育治理从二战后粗放的劳动力预测全面转向现代“[[Governing by Numbers|数字治理]]”。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 4, 14)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–543)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1992 年首版面世；此后每年秋季定期发布最新年度报告，迄今已连续出版逾三十年。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 14)]]
 > - **发起方与数据生产机制** 由 OECD 秘书处教育与技能司统筹，依托各成员国教育部、国家统计局与 INES 志愿网络群（Networks A/B/C）提供原始普查与抽样数据。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 8–9)]]
 > - **覆盖规模与体量** 从 1992 年首版仅 150 页的英法双语合订本，迅速扩展至当今超过 500 页、涵盖 230 余张综合数据表、140 余幅图表、超过 100,000 个独立数据点的大型知识平台，覆盖全部 OECD 成员国及二十国集团（G20）主要经济体。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 4)]]
-> - **核心问题导向** 终结各国自说自话的封闭统计壁垒，将极度异质的学制、学历体系与预算口径统一转换为跨国可[[Commensuration|通约]]的[[Operationalization|操作化]]指标，以横向绩效比较为各国国内结构性改革施加舆论问责与转型动力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 542)]]
+> - **核心问题导向** 终结各国自说自话的封闭统计壁垒，将极度异质的学制、学历体系与预算口径统一转换为跨国可[[Commensuration|通约]]的[[Operationalization|操作化]]指标，以横向绩效比较为各国国内结构性改革施加舆论问责与转型动力。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 
 ---
 
 > [!claim] 核心干预／机制假说
-> 《教育概览》的治理逻辑建立在“仪表盘警示”与“指标施为性”双重假设之上：一方面，派生指标如同仪表盘警示灯，促使决策者发现本国系统的深层病灶；另一方面，指标的公开披露具备强大的自我实现与行动引导能力（[[Performativity]]），使数字成为民族国家政府与跨国组织之间对话的首要语言代码。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 7–8, 16)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 542)]]
+> 《教育概览》的治理逻辑建立在“仪表盘警示”与“指标施为性”双重假设之上：一方面，派生指标如同仪表盘警示灯，促使决策者发现本国系统的深层病灶；另一方面，指标的公开披露具备强大的自我实现与行动引导能力（[[Performativity]]），使数字成为民族国家政府与跨国组织之间对话的首要语言代码。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 7–8, 16)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 建立跨国可通约的[[Performance Indicators|教育指标]]框架，将复杂的国家教育现实归纳为四大嵌套分析维度，为成员国决策者提供直观的政策预警信号。
@@ -99,7 +99,7 @@ updated: 2026-10-26
 > - **1992–1994 — 探索诞生与体量扩张期** 1992 年首版发行仅 150 页，由于缺乏统一的大规模测评数据，主要聚焦于投入与参与度指标；1993 年第二版篇幅激增至 300 页，国际关注度急剧攀升。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 14)]]
 > - **1995–2001 — 双语分行与数据标准化期** 1995 年起英法版本独立成册发行（每册达 370 页）；随着 [[International Indicators of Education Systems|INES]] 收集网络日益制度化，数据缺失值显著降低，开始稳步吸收[[IEA|国际教育成就评价协会]]等外部评估成果。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 13)]]
 > - **2002 — 框架重组与“产出/绩效霸权”确立** 经历 2000 年首轮[[PISA|国际学生评估项目]]测试后，2002 版 EAG 发生决定性重组：[[Performance Indicators|绩效指标]]从全书最后一章强行前提至第一章（维度 A），标志着 [[OECD]] 正式确立以“学生成绩与系统效能产出”为统领的现代问责[[Paradigm|范式]]。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 13–14)]]
-> - **2003–至今 — 比较规制深化与[[Governing at a Distance|远处治理]]矩阵** EAG 与 PISA、[[International Adult Literacy Survey|IALS]] 等共同构筑了经合组织的比较规制机制，使政策建议无需额外辩护便被广泛接受为权威事实；同时衍生出《[[Education Policy Outlook|教育政策展望]]》与交互式数字平台（[[Education GPS]]），实现了对成员国教育决策的长期[[Policy Brokerage|政策中介]]与“[[Governing at a Distance|远处治理]]”。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–25)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 542–544)]]
+> - **2003–至今 — 比较规制深化与[[Governing at a Distance|远处治理]]矩阵** EAG 与 PISA、[[International Adult Literacy Survey|IALS]] 等共同构筑了经合组织的比较规制机制，使政策建议无需额外辩护便被广泛接受为权威事实；同时衍生出《[[Education Policy Outlook|教育政策展望]]》与交互式数字平台（[[Education GPS]]），实现了对成员国教育决策的长期[[Policy Brokerage|政策中介]]与“[[Governing at a Distance|远处治理]]”。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–25)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 542–544)]]
 
 ---
 
@@ -146,7 +146,7 @@ updated: 2026-10-26
 > > 科学与技术研究（[[Science and Technology Studies|STS]]）揭示了 EAG 在公关传播中的技术妥协。
 > >
 > > - **技术细节的蓄意遗忘** 早期 EAG 包含海量技术附录、背景警示与误差说明，但随着报告演变为大众媒介盛宴，团队官员承认在面向公众时不得不“忘记所有统计细节”，讲出“作为统计学家明知并不严密但所有人都能听懂的故事”。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 15–16)]]
-> > - **数字统治的自我增殖** Steiner-Khamsi et al. 指出：1992 年《教育概览》的面世标志着跨国组织“数字量化机器”进入了不可阻挡的自我增殖阶段，数字成为规制民族国家的统治性语言。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
+> > - **数字统治的自我增殖** Steiner-Khamsi et al. 指出：1992 年《教育概览》的面世标志着跨国组织“数字量化机器”进入了不可阻挡的自我增殖阶段，数字成为规制民族国家的统治性语言。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 
 > [!lessons] 经验教训与启示
 > - **实施教训** 脱离具体社会情境的单向指标简化容易遮蔽结构性不平等，引发国家间简单的数字位次竞争与大众媒体的过度炒作。
@@ -171,6 +171,6 @@ updated: 2026-10-26
 > | [[Performance Indicators]] | Concept | 《教育概览》所依赖并推动成为全球教育决策通用语言的绩效指标体系。 |
 > | [[Global Education Governing Complex]] | Concept | 《教育概览》作为核心政策中介所参与编织的全球[[Educational Multilateralism\|多边教育治理]]网络。 |
 > | [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] | Argument | 运用科学知识社会学与 STS 视角深度剖析《教育概览》的生产史与治理空间建构。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | Argument | 论证《教育概览》作为全球北方确立数字治理范式的制度里程碑及其对 PISA 的孕育。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | Argument | 论证《教育概览》作为全球北方确立数字治理范式的制度里程碑及其对 PISA 的孕育。 |
 > | [[Argument_Morgan_Shahjahan_2014_CE\|Morgan and Shahjahan (2014)]] | Argument | 考证《教育概览》如何奠定指标文化并倒逼经合组织催生 PISA [[Test Production\|测验研发]]。 |
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | Argument | 剖析《教育概览》作为经合组织比较规制机制在确立欧洲与跨国循证政策转向中的事实权威建构。 |

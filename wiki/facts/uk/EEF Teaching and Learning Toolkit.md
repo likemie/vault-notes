@@ -244,7 +244,7 @@ updated: 2026-10-26
 > - [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]] — 揭示英国中央政府在选择性[[Grammar School\|文法学校]]争议中绕开 Toolkit 严谨实证的道德侧步策略。
 > - [[Argument_Cowen_2019_ERE\|Cowen (2019)]] — 从政治社会学透视 Toolkit 为[[New Public Management\|新公共管理]]主权问责提供审计合规凭证的制度功能。
 > - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] — 考察欧洲证据基础设施，将 Toolkit 置于生成、转译与校际网络协同的生态框架中。
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald, T., & Nevill, C. (2021)]] — 详述 EEF 工具包的运作机制、底层[[Meta-analysis\|元分析]]局限性、200 余项本土 RCT 试验的反哺更新机制、向实践指南（Guidance Reports）的深化，以及与[[BHP Foundation\|必和必拓基金会]]合作推进的跨国扩散。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述 EEF 工具包的运作机制、底层[[Meta-analysis\|元分析]]局限性、200 余项本土 RCT 试验的反哺更新机制、向实践指南（Guidance Reports）的深化，以及与[[BHP Foundation\|必和必拓基金会]]合作推进的跨国扩散。
 
 ---
 

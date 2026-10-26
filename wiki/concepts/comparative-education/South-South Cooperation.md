@@ -66,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -136,7 +136,7 @@ updated: 2026-10-25
 > [!claim] [[Kenneth King|King, K.]]
 > **互利话语构建平等伙伴关系** 合作文本通过频繁使用互惠、互利与共同发展等范畴，系统规避西方传统发展援助中固有的捐助者与受援者阶序标签。在双边与多边协议起草过程中，非洲国家驻华使团与高官磋商机制共同参与议程设置，文本中高频出现的双方同意等表述强化了全球南方国家的主权能动性，将教育合作界定为两个平等主体之间的共同行动。[[Argument_King_2020_ECNUROE|(King, 2020, p. 222)]]
 
-> [!claim] [[Argument_Stone_2020_PolSoc|Stone, Porto de Oliveira, and Pal (2020)]]
+> [!claim] [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]]
 > **对等技术协作与多向创新扩散** 戴安·斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，南南合作打破了传统西方受援依附模型，以对等技术协作与[[Mutual Learning|互学互鉴]]取代带政治附加条件的资金借贷。在釜山高层论坛规范转折与联合国多边平台赋权下，新兴南方国家不仅彼此交流治国理政与减贫经验，更推动本土成熟政策模型（如拉美[[Participatory Budgeting|参与式预算]]与现金转移支付）反向进入全球治理主流议程，从根本上重构了全球知识流动与发展合作的权力格局。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 2–5, 8–10)]]
 
 ---

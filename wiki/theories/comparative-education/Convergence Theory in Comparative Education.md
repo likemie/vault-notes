@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -155,4 +155,4 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cowen_2023_CE|Cowen (2023)]] — 系统梳理比较教育学四大理解形态，解构趋同理论从科学理想到当代新制度主义同构论的思想史轨迹。（p. 333）
-> - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 结合政策工具理论与[[Historical Institutionalism|历史制度主义]]，系统反思[[Global Education Reform Movement|全球教育改革运动]]中的趋同假说，揭示通用治理工具在三大行政传统下的分层与折射。（pp. 249–264）
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 结合政策工具理论与[[Historical Institutionalism|历史制度主义]]，系统反思[[Global Education Reform Movement|全球教育改革运动]]中的趋同假说，揭示通用治理工具在三大行政传统下的分层与折射。（pp. 249–264）

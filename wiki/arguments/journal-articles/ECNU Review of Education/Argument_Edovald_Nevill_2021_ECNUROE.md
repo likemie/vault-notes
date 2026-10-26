@@ -16,7 +16,7 @@ authors:
   - Edovald, T.
   - Nevill, C.
 source_language: en
-citation: "Edovald, T., & Nevill, C. (2021). Working Out What Works: The Case of the Education Endowment Foundation in England. ECNU Review of Education, 4(1), 46–64."
+citation: "Edovald, T., & Nevill, C. (2021). Working out what works: The case of the Education Endowment Foundation in England. ECNU Review of Education, 4(1), 46–64."
 year: 2021
 doi: 10.1177/2096531120913039
 citation_aliases:

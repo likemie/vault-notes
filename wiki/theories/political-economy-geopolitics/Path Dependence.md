@@ -60,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-09
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -198,4 +198,4 @@ updated: 2026-10-22
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 揭示[[Multilateral Development Bank|多边开发银行]]主权贷款协议中的双重路径依赖机制：法定[[Counterpart Funds|对等资金]]与契约惰性抵御内阁政客更迭的减震效应，以及报销审计铁笼导致的病态合规锁定与“白色大象”。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 批判路径依赖理论的刚性死锁假定，阐发以权力分配与[[Rule Ambiguity|规则模糊性]]为基石的渐进内生演化模型。
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评析复合技术标准中外围叠加与厚度商对核心标准的路径依赖加固机制，辨析制度再生产与[[Institutional Layering|制度层叠]]的分析边界。
-> - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 揭示国家行政传统（如英美新公共管理传统与欧洲大陆新韦伯主义传统）对全球教育测验问责政策折射的路径依赖效应，表明历史行政遗产锁定国家差异，抑制了全球均质化趋同。（pp. 250, 262–263）
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 揭示国家行政传统（如英美新公共管理传统与欧洲大陆新韦伯主义传统）对全球教育测验问责政策折射的路径依赖效应，表明历史行政遗产锁定国家差异，抑制了全球均质化趋同。（pp. 250, 262–263）

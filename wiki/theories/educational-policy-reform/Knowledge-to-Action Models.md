@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -78,10 +78,10 @@ updated: 2026-10-22
 > - **知识位置** 起源于循证医学与卫生政策中的知识转化（[[Research Translation\|knowledge translation]]）研究（Best & Holmes, 2010），随后被吉塔·施泰纳-哈姆西等学者引入比较教育学，作为解释国际组织[[Policy Brokerage\|政策中介]]工具形态演变的中层理论框架。
 
 > [!claim] 核心主张
-> 知识向行动转化的理论探讨经历了三个代际的范式跃升：第一代聚焦**线性推动（Linear / Push）**，侧重于研究报告的单向分发与清晰包装；第二代转向**关系型[[Knowledge Co-production\|协同生产]]（Relational / Co-production）**，强调研究者与政策使用者之间的双向协商与产品共创；第三代升华为**系统生态学模型（Systems / Procedural Eco-system）**，将[[Research Utilization\|研究使用]]解构为政策周期的动态流程，着重考察政策系统的制度[[Absorptive Capacity\|吸收能力]]以及支撑证据流通的长期基础设施（如数字化共享平台与区域知识[[Innovation Hub\|创新枢纽]]）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
+> 知识向行动转化的理论探讨经历了三个代际的范式跃升：第一代聚焦**线性推动（Linear / Push）**，侧重于研究报告的单向分发与清晰包装；第二代转向**关系型[[Knowledge Co-production\|协同生产]]（Relational / Co-production）**，强调研究者与政策使用者之间的双向协商与产品共创；第三代升华为**系统生态学模型（Systems / Procedural Eco-system）**，将[[Research Utilization\|研究使用]]解构为政策周期的动态流程，着重考察政策系统的制度[[Absorptive Capacity\|吸收能力]]以及支撑证据流通的长期基础设施（如数字化共享平台与区域知识[[Innovation Hub\|创新枢纽]]）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]
 
 > [!citation-card] 知识到行动联结的三代演化与政策中介转型
-> 研究证据的供给与用于决策目的的证据需求之间存在巨大脱节，这激发了政策中介者的想象力。贝斯特与霍姆斯（Best & Holmes, 2010）识别了考察知识-行动联结的三代学者并提出了收紧两者关联的建议。第一代主要关注研究成果的传播，或者正如开篇所述，如何更好地将研究证据传达或‘推销’给决策者。第二代指出了生产者与使用者之间的关系维度，撰写了大量关于如何与最终用户共同生产知识产品的建议。最新的一组研究则在程序上对研究证据的使用进行拆解，调查使用研究证据的制度容量，并探索为政策生产和使用数据与研究证据所必需的生态系统。对于国际组织而言，其存放在网站上的研究证据未被充分利用是一个令人担忧的问题。近年来，这促使全球行动者建立区域结构，以促进网络研讨会、政策制定者之间的同行交流、会议以及其他更有效传播和分发研究证据的途径。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
+> 研究证据的供给与用于决策目的的证据需求之间存在巨大脱节，这激发了政策中介者的想象力。贝斯特与霍姆斯（Best & Holmes, 2010）识别了考察知识-行动联结的三代学者并提出了收紧两者关联的建议。第一代主要关注研究成果的传播，或者正如开篇所述，如何更好地将研究证据传达或‘推销’给决策者。第二代指出了生产者与使用者之间的关系维度，撰写了大量关于如何与最终用户共同生产知识产品的建议。最新的一组研究则在程序上对研究证据的使用进行拆解，调查使用研究证据的制度容量，并探索为政策生产和使用数据与研究证据所必需的生态系统。对于国际组织而言，其存放在网站上的研究证据未被充分利用是一个令人担忧的问题。近年来，这促使全球行动者建立区域结构，以促进网络研讨会、政策制定者之间的同行交流、会议以及其他更有效传播和分发研究证据的途径。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]
 >
 > *The gross discrepancy between the supply and demand of research evidence for policymaking purposes has incited the imagination of policy brokers. Best and Holmes (2010) identified three generations of scholars who examined the knowledge-to-action (KTA) linkage and presented suggestions on how to tighten the association. The first was primarily concerned with research dissemination or, as mentioned in the beginning, how to better communicate or 'push' research evidence onto policymakers. The second generation pointed out the relational aspect between producers and users. They wrote up a host of recommendations on how to co-produce knowledge products with end users. The most recent group of studies procedurally breaks down the use of research evidence, investigates the capacity of using research evidence, and explores the eco-system necessary to produce and use data and research evidence for policy. For IOs, the underutilisation of their research evidence deposited on the web is a cause for concern. In recent years, this has prompted global actors to establish regional structures that facilitate webinars, peer exchange among policymakers, conferences, and other means of communicating and disseminating their research evidence more effectively.*
 
@@ -107,13 +107,13 @@ updated: 2026-10-22
 > - **推导** ① 单向知识推销遭遇政策端冷遇 → ② 中介机构意识到证据接受度取决于供需双方的信任与协同 → ③ 驱动[[Policy Brokerage\|政策中介]]从“单纯的知识分发”转向“定制化的[[Knowledge Co-production\|知识共创]]与伙伴合作”。
 
 > [!proposition-chain] 核心命题二｜第三代系统生态学模型确立了程序化证据吸收与长期中介基础设施的决定性作用
-> - **前提一** 孤立的人际合作与临时伙伴关系无法抵御宏观官僚体制的更迭与政策周期的结构性断裂。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
+> - **前提一** 孤立的人际合作与临时伙伴关系无法抵御宏观官僚体制的更迭与政策周期的结构性断裂。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]
 > - **前提二** 证据在政策周期中具有阶段[[Heterogeneity\|异质性]]：议程设置阶段需要危机指标唤醒公众，行政起草阶段则需要与现行法规兼容的操作细则。
 > - **前提三** 证据的实质转化高度受制于政府部门的制度吸收容量，以及长期维系知识共享的网络基础设施。
 > - **推导** ① 识别政策生命周期的程序断裂 → ② 国际组织从静态网页报告发布转向构建全球/区域常设中介枢纽（如设立区域创新交换中心） → ③ 形成囊括数据治理、同行互学与能力建设的第三代系统生态。
 
 > [!proposition-chain] 延伸命题
-> - **推论一（国际组织中介策略转型）** 国际组织（如[[Global Partnership for Education\|全球教育伙伴关系]] GPE、[[OECD\|经合组织]] OECD）设立常设区域研讨枢纽、同行互换平台与网络研讨机制，是第三代系统生态学逻辑在跨国治理中的制度化落地。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
+> - **推论一（国际组织中介策略转型）** 国际组织（如[[Global Partnership for Education\|全球教育伙伴关系]] GPE、[[OECD\|经合组织]] OECD）设立常设区域研讨枢纽、同行互换平台与网络研讨机制，是第三代系统生态学逻辑在跨国治理中的制度化落地。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]
 > - **应用命题** 在比较教育政策研究中，研究者可依据三代模型诊断一国教育行政部门对跨国评测（如 [[PISA]]）数据的吸收属于机械套用、局部共创还是系统整合。
 
 > [!mechanism-map]- 机制图
@@ -174,7 +174,7 @@ updated: 2026-10-22
 > - **2010 — 三代演化[[Analytic Framework\|分析框架]]奠基** Allan Best 与 Bob J. Holmes 于 *Evidence & Policy* 发表论文，在卫生与公共政策领域正式提炼出三代知识-行动联结演化模型（线性推动、关系协同、系统生态），成为跨学科诊断宏观知识流动机制的中层理论。
 > - **2010–2020年代 — 公共卫生向公共政策与教育迁移** 框架被广泛应用于加拿大、英国等地的公共政策评估与循证社会服务研究。
 > - **2022 — [[OECD]] [[Knowledge Mobilisation\|知识动员]]模型系统性比较** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 对比 KTA、Lavis、Levin 与 Gough 等主流模型，确认 Graham 等人的 KTA 框架凭借构件间的渗透性、流体性与持续双向反馈，成为突破单向转移、奠定关系主义[[Paradigm\|范式]]的核心里程碑。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 38–40, 44–46)]]
-> - **2024 — 全球教育治理与[[Policy Brokerage\|政策中介]]分析** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, & Ydesen (2024)]] 将该理论深度融入对 [[OECD]]、[[World Bank\|世界银行]]、[[Global Partnership for Education\|GPE]] 等国际组织政策中介演进的批判性审视。
+> - **2024 — 全球教育治理与[[Policy Brokerage\|政策中介]]分析** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] 将该理论深度融入对 [[OECD]]、[[World Bank\|世界银行]]、[[Global Partnership for Education\|GPE]] 等国际组织政策中介演进的批判性审视。
 
 ---
 
@@ -193,12 +193,12 @@ updated: 2026-10-22
 > > - **系统论批判学者** 指出实践现场的知识往往直接生发于行动者的试错与默会经验，漏斗模型在很大程度上仍未能摆脱研究生产端主导的先验偏见。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 44–46)]]
 
 > [!critique] 批评索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 指出即便国际组织演进至第三代系统生态模型，由于国际机构内在的自指性偏好（如[[World Bank\|世行]]反复援引自建 [[Systems Approach for Better Education Results\|SABER]] 库）与国家官僚在行政立法阶段的剧烈过滤，系统生态仍难以根本解决证据闲置与权力不对称问题。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 指出即便国际组织演进至第三代系统生态模型，由于国际机构内在的自指性偏好（如[[World Bank\|世行]]反复援引自建 [[Systems Approach for Better Education Results\|SABER]] 库）与国家官僚在行政立法阶段的剧烈过滤，系统生态仍难以根本解决证据闲置与权力不对称问题。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 指出 Graham et al. (2006) 的 KTA 框架虽然具备高度的阶段流体性与反馈循环，但模型本身忽略了[[Knowledge Mediation\|知识中介]]或动员功能（Mobilisation / Brokering）的明确组织定位，且未将宏观社会政治环境对行动循环的制约结构化呈现。
 
 ---
 
 > [!evidence-grid] 相关研究索引
-> - **[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]** 运用知识-行动联结三代模型，剖析国际组织面对数字时代研究证据闲置危机时，为何加速布局区域常设中介枢纽与生态化网络。
+> - **[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]** 运用知识-行动联结三代模型，剖析国际组织面对数字时代研究证据闲置危机时，为何加速布局区域常设中介枢纽与生态化网络。
 > - **[[Argument_Torres_2022_KMModels\|Torres (2022b)]]** 系统比较 KTA（Graham et al., 2006）、[[Knowledge Transfer\|知识转移]]战略（Lavis et al., 2003）、动员模型（Levin, 2013）与证据生态（Gough et al., 2019），确立代际演进谱系。
 > - **Best and Holmes (2010)** 奠定知识-行动联结三代演化模型（线性推动、关系协同、系统生态），奠定宏观中介分析基石。

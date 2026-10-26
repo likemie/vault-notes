@@ -1,5 +1,5 @@
 ---
-citation: "Castro, C. M. (2009). Can Multilateral Banks Educate the World?. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 455–477). Dordrecht: Springer."
+citation: "Castro, C. M. (2009). Can multilateral banks educate the world?. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 455–477). Springer."
 extracted_to:
   - "[[Argument_Castro_2009_MultilateralBanks]]"
 processed_date: 2026-10-14

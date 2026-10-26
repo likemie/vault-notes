@@ -1,5 +1,5 @@
 ---
-citation: "Burns, T., & Schuller, T. (2022). History and evolution of brokerage agencies in education. In N. Révai (Ed.), Who cares about using education research in policy and practice?: Strengthening research engagement (pp. 55–72). Paris: OECD Publishing. https://doi.org/10.1787/d7ff793d-en"
+citation: "Burns, T., & Schuller, T. (2022). History and evolution of brokerage agencies in education. In N. Révai (Ed.), Who cares about using education research in policy and practice?: Strengthening research engagement (pp. 55–72). OECD Publishing. https://doi.org/10.1787/d7ff793d-en"
 extracted_to:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 processed_date: 2026-09-12

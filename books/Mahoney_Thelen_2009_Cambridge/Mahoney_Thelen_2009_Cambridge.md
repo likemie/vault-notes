@@ -1,5 +1,5 @@
 ---
-citation: "Mahoney, J., & Thelen, K. (Eds.). (2009). Explaining institutional change: Ambiguity, agency, and power. Cambridge: Cambridge University Press."
+citation: "Mahoney, J., & Thelen, K. (Eds.). (2009). Explaining institutional change: Ambiguity, agency, and power. Cambridge University Press."
 extracted_to:
   - "[[Argument_Mahoney_Thelen_2009_Cambridge]]"
 processed_date: 2026-10-11

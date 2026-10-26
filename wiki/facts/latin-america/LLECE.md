@@ -43,20 +43,20 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 拉丁美洲教育质量评估实验室（Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación, LLECE）是 1994 年由[[UNESCO|联合国教科文组织]]拉丁美洲和加勒比地区教育办事处（UNESCO OREALC，设于智利圣地亚哥）联合该区域 19 个国家教育部共同成立的区域大规模学业评价与技术网络。该机制专注于测量小学三年级与六年级学生的阅读、数学及自然科学学力，并在全球率先将社会情感技能（[[Social-Emotional Learning]]）纳入跨国大规模测评框架，是拉美地区公信力最高的教育质量与公平测量体系。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 8, 16)]]
+> 拉丁美洲教育质量评估实验室（Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación, LLECE）是 1994 年由[[UNESCO|联合国教科文组织]]拉丁美洲和加勒比地区教育办事处（UNESCO OREALC，设于智利圣地亚哥）联合该区域 19 个国家教育部共同成立的区域大规模学业评价与技术网络。该机制专注于测量小学三年级与六年级学生的阅读、数学及自然科学学力，并在全球率先将社会情感技能（[[Social-Emotional Learning]]）纳入跨国大规模测评框架，是拉美地区公信力最高的教育质量与公平测量体系。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 8, 16)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1994 年在墨西哥正式发起成立，以 6–7 年为一大周期持续推行，已相继完成 PERCE（1997）、SERCE（2006）、TERCE（2013）与 ERCE（2019）四轮大规模跨国测评。
 > - **官方平台与数据发布** 官方研究与数据门户依托联合国教科文组织圣地亚哥办事处 [UNESCO Santiago (LLECE)](https://www.unesco.org/santiago) 运营，提供历次拉美学业调查（ERCE）报告与数据库公开检索。
 > - **发起方与资助机制** 由 UNESCO OREALC 担任常设协调秘书处，各成员国教育部指派常任国家协调员并分摊测试费用，获得美洲开发银行（[[Inter-American Development Bank|IDB]]）等多边机构赠款资助。
 > - **覆盖范围与对象** 覆盖阿根廷、巴西、智利、哥伦比亚、哥斯达黎加、古巴、厄瓜多尔、危地马拉、洪都拉斯、墨西哥、巴拿马、巴拉圭、秘鲁、多米尼加、乌拉圭等 19 国，每轮样本覆盖逾十万名中小学生。
-> - **核心问题导向** 针对拉丁美洲极端的社会阶层贫富差距在教育系统中的投射，系统诊断边缘原住民、农村儿童与城市贫困阶层的学业差距。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 16)]]
+> - **核心问题导向** 针对拉丁美洲极端的社会阶层贫富差距在教育系统中的投射，系统诊断边缘原住民、农村儿童与城市贫困阶层的学业差距。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 16)]]
 
 ---
 
@@ -71,7 +71,7 @@ updated: 2026-10-23
 > - **1997 — PERCE 首轮奠基** 实施拉丁美洲首次比较与解释性学业研究（PERCE），建立拉美首个跨国标准化试题库与分级描述语。
 > - **2006 — SERCE 全面扩容** 成员国增加至 16 个，引入基于现代[[Item Response Theory|项目反应理论]]（IRT）的三参数逻辑斯蒂模型，确立学力表现等级标准。
 > - **2013 — TERCE 政策影响力深化** 针对 15 国开展第三轮测评，研究成果直接被各国教育部作为国家教育发展规划（ESP）制定与教师在职培训大纲修订的基准。
-> - **2019 — ERCE 时代创新与疫情基准** 实施第四轮比较研究（涵盖 16 国 16 万名学生），在测量学科认知的同时完成拉美首个跨国社会情感测度；在教科文组织全球战略审查中被选树为区域证据中介与政治共识凝聚的核心代表。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 16)]]
+> - **2019 — ERCE 时代创新与疫情基准** 实施第四轮比较研究（涵盖 16 国 16 万名学生），在测量学科认知的同时完成拉美首个跨国社会情感测度；在教科文组织全球战略审查中被选树为区域证据中介与政治共识凝聚的核心代表。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 16)]]
 
 ---
 
@@ -82,4 +82,4 @@ updated: 2026-10-23
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 记录 LLECE 作为区域大规模测评在凝聚拉美公众关注与支撑重大教育政策改革中的独特价值（pp. 8, 16）。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 记录 LLECE 作为区域大规模测评在凝聚拉美公众关注与支撑重大教育政策改革中的独特价值（pp. 8, 16）。

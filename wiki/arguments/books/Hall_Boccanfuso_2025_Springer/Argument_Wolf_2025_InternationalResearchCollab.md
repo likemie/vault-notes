@@ -5,7 +5,7 @@ authors:
   - "Wolf, B. J."
   - "Stevenson, A. E."
   - "Siegel, J. B."
-citation: "Wolf, B. J., Stevenson, A. E., & Siegel, J. B. (2025). International research collaborations between universities and industry. In R. Hall & A. Boccanfuso (Eds.), University-industry collaboration: Innovation at the interface (pp. 309-326). Cham: Springer."
+citation: "Wolf, B. J., Stevenson, A. E., & Siegel, J. B. (2025). International research collaborations between universities and industry. In R. Hall & A. Boccanfuso (Eds.), University-industry collaboration: Innovation at the interface (pp. 309–326). Springer."
 publication_place: "Cham"
 publisher: "Springer"
 tags:

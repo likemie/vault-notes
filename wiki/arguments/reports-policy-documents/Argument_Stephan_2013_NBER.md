@@ -4,7 +4,7 @@ type: argument
 authors:
   - "[[Paula Stephan|Stephan, P.]]"
 source_language: en
-citation: "Stephan, P. (2013). The Endless Frontier: Reaping what Bush Sowed? (NBER Working Paper No. 19687). National Bureau of Economic Research."
+citation: "Stephan, P. (2013). The endless frontier: Reaping what Bush sowed? (NBER Working Paper No. 19687). National Bureau of Economic Research."
 year: 2013
 doi: "10.3386/w19687"
 citation_aliases:

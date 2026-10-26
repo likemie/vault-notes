@@ -15,7 +15,7 @@ argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: International Review of Theoretical Psychologies
-citation: "Nielsen, K., & Klitmøller, J. (2021). Measured lives in educational psychology. International Review of Theoretical Psychologies, 1(1), 78-92."
+citation: "Nielsen, K., & Klitmøller, J. (2021). Measured lives in educational psychology. International Review of Theoretical Psychologies, 1(1), 78–92."
 tags:
 - visible-learning
 - legitimation-crisis

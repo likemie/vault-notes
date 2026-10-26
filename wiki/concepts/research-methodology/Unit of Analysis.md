@@ -479,5 +479,5 @@ updated: 2026-10-26
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 批判比较教育的[[Methodological Statism|方法论国家主义]]，整合[[Basil Bernstein|伯恩斯坦]]语篇位置与卡斯特[[Space of Flows|流动空间]]，将分析单位重构为由五大结构位置构成的跨国网络流通模型（pp. 341–344, 349–351）。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 阐释宏观比较教育学科演进中，分析单位从 19 世纪民族国家制度容器与冷战地缘阵营向 21 世纪初超国家标准化测评度量空间的重大迁移（pp. 87–88, 94–96）。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统梳理比较教育两百年学科史中分析单位的重大演变，揭示从 19 世纪第一代“[[Scholiocentric Approach|以校为中心]]”（Scholiocentric）孤立办学考察向 20 世纪初[[Michael Sadler|萨德勒]]“民族国家整体教育体系”的历史性转变（pp. 140–142）。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 提出[[Complexity Theory|复杂性理论]]重构分析单位的理论命题（Ch. 1, p. 31），并系统阐释[[Content Analysis|内容分析]]中三级分析单位的划分原则、五类抽样与记录单位形态，以及聚合尺度与[[Reliability|信度]]的反比权衡规律（Ch. 30）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 提出[[Complexity Theory|复杂性理论]]重构分析单位的理论命题（Ch. 1, p. 31），并系统阐释[[Content Analysis|内容分析]]中三级分析单位的划分原则、五类抽样与记录单位形态，以及聚合尺度与[[Reliability|信度]]的反比权衡规律（Ch. 30）。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 规范[[Qualitative Research|质性研究]]与[[Mixed Methods Research|混合方法]]设计中分析单位的选择，强调避免在不同分析阶段混淆个体与群体聚合单位（Ch. 9, 10）。

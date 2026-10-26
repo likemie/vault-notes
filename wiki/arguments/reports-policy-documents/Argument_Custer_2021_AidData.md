@@ -22,7 +22,7 @@ authors:
   - "[[Austin Baehr|Baehr, A.]]"
   - "[[Kelsey Marshall|Marshall, K.]]"
 source_language: en
-citation: "Custer, S., Schon, J., Horigoshi, A., Mathew, D., Burgess, B., Choo, V., Hutchinson, A., Baehr, A., & Marshall, K. (2021). Corridors of Power: How Beijing uses economic, social, and network ties to exert influence along the Silk Road. Williamsburg, VA: AidData at William & Mary."
+citation: "Custer, S., Schon, J., Horigoshi, A., Mathew, D., Burgess, B., Choo, V., Hutchinson, A., Baehr, A., & Marshall, K. (2021). Corridors of Power: How Beijing uses economic, social, and network ties to exert influence along the Silk Road. AidData at William & Mary."
 year: 2021
 doi: ""
 citation_aliases:

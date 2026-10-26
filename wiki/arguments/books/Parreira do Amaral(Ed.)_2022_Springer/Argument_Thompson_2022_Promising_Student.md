@@ -16,7 +16,7 @@ argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
-citation: "Thompson, C., Schröder, S., & Wrana, D. (2022). Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 217–230). Cham: Springer."
+citation: "Thompson, C., Schröder, S., & Wrana, D. (2022). Fostering the 'promising student' at the outset: The digitization and management of student success in the competitive university. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education (pp. 217–230). Springer."
 publication_place: "Cham"
 publisher: "Springer"
 tags:

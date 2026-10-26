@@ -15,7 +15,7 @@ argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
-citation: "Wang, T. & McLaughlin, C. (2025). Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme. Comparative Education, 61(4), 586-605."
+citation: "Wang, T. & McLaughlin, C. (2025). Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme. Comparative Education, 61(4), 586–605."
 tags:
   - region/china
   - theme/learner-centred-education

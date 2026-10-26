@@ -7,14 +7,14 @@ subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cowen_2009_CE"
 argument_key: "Argument_Cowen_2009_CE"
-argument_display_title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327"
+argument_display_title: "The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315–327"
 argument_kind: "journal-article"
 argument_related_count: 42
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
-citation: "Cowen, R. (2009). The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315-327."
+citation: "Cowen, R. (2009). The transfer, translation and transformation of educational processes: and their shape‐shifting? Comparative Education, 45(3), 315–327."
 tags:
   - theme/comparative-education
   - theme/knowledge-transfer

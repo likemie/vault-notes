@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -79,7 +79,7 @@ updated: 2026-10-22
 > - **代表贡献** 创立卢曼社会系统理论、提出 [[Autopoiesis|自创生]] 沟通系统与 结构互动、阐发 观察的盲点、提出“教育的技术赤字”（Technologiedefizit）与“外化命题与准外部参照点”（Externalisation thesis）。
 
 > [!citation-card] 人物定位的关键来源
-> 教育系统天然容易陷入高度的不确定性，因为它宣称是在为未来培养受教育者。如果我们将技术界定为能够将确定输入转化为预期产出的装置，那么教育的技术赤字便显露无疑：‘接受教育能够增强应对未来的能力’这一核心因果链条唯有在遥远的未来才能得到评估，从而在当下逃逸了实证检验。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
+> 教育系统天然容易陷入高度的不确定性，因为它宣称是在为未来培养受教育者。如果我们将技术界定为能够将确定输入转化为预期产出的装置，那么教育的技术赤字便显露无疑：‘接受教育能够增强应对未来的能力’这一核心因果链条唯有在遥远的未来才能得到评估，从而在当下逃逸了实证检验。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 539)]]
 >
 > *Lastly, the education sector is prone to uncertainty because it claims to prepare its objects – the ones being educated – for the future. If we conceive of technology as the device that turns inputs into desired outcomes, the ‘technology deficit of education’ (Luhmann and Schorr 1979) becomes glaring. The assumed causal link – being educated increases the ability to cope in the future – may only be assessed in the future and thus eludes an empirical investigation in the present.*
 
@@ -119,12 +119,12 @@ updated: 2026-10-22
 > *“Der Beobachter kann sich selbst beim Beobachten nicht sehen” (Luhmann, 1997, p. 69). Every observation is based on a [[Blind Spot in Observation|blind spot]]: the condition of seeing something is that you establish a distinction between what is seen and what is not seen.*
 
 > [!citation-card] [[Technology Deficit of Education\|教育的技术赤字]]与不确定性管理
-> 教育系统天然容易陷入高度的不确定性，因为它宣称在为未来做准备。如果将技术理解为将输入可靠转化为预期产出的装置，那么教育的技术赤字便显露无疑。教育因果链条逃逸了当下的实证检验，迫使[[Policy Brokerage\|政策中介]]必须把未来描绘为当下不稳定状态的逻辑延伸，从而兜售‘切实可行’的实证研究证据与行动处方，以抚平社会系统的决策焦虑。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
+> 教育系统天然容易陷入高度的不确定性，因为它宣称在为未来做准备。如果将技术理解为将输入可靠转化为预期产出的装置，那么教育的技术赤字便显露无疑。教育因果链条逃逸了当下的实证检验，迫使[[Policy Brokerage\|政策中介]]必须把未来描绘为当下不稳定状态的逻辑延伸，从而兜售‘切实可行’的实证研究证据与行动处方，以抚平社会系统的决策焦虑。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 539)]]
 >
 > *If we conceive of technology as the device that turns inputs into desired outcomes, the ‘technology deficit of education’ (Luhmann and Schorr 1979) becomes glaring... The long list of ‘actionable research evidence’ may be understood against the backdrop that the belief in practical actions in the present helps mitigate the uncertainty about the future.*
 
 > [!citation-card] 外化命题与准外部参照点的拟真投射
-> 外部环境的变化唯有被转译为系统自身的逻辑与语言编码，方能在系统内部产生共振与效力。系统通过‘在内部建构外部参照点’来生成额外意义、再生产自身认同并制造确定性。这种外化或对准外部参照点的建构，本质上作为‘调节性观念’运作；在严密审视下，它们不过是‘唯有假定其有效时方才有效’的主观投射。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
+> 外部环境的变化唯有被转译为系统自身的逻辑与语言编码，方能在系统内部产生共振与效力。系统通过‘在内部建构外部参照点’来生成额外意义、再生产自身认同并制造确定性。这种外化或对准外部参照点的建构，本质上作为‘调节性观念’运作；在严密审视下，它们不过是‘唯有假定其有效时方才有效’的主观投射。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 546)]]
 >
 > *According to Luhmann (1995, 481), externalisation or the construction of such quasi-external points of reference serve as ‘regulative ideas’, which on closer examination are ‘projections’ that ‘are valid only “as if” they were valid.’*
 
@@ -138,11 +138,11 @@ updated: 2026-10-22
 > [!influence-path] 影响路径
 > - **社会学与哲学[[Epistemology\|认识论]]路径** 彻底终结[[René Descartes\|笛卡尔]]—[[Immanuel Kant\|康德]]式的主体哲学中心地位，开创以二阶控制论为基石的操作[[Constructivist Paradigm\|建构主义]]（Operative constructivism），深刻影响现代知识社会学与法社会学。
 > - **微观教学反思路径** 揭示“教不等于学”的认识论真相，促使教育者认识到可见的测验分数纯属社会沟通系统的代码产物，与学生内心深处的主观心理体验属于不同操作范畴，消解了[[Positivism\|实证主义]]教学工程论的虚妄幻想。
-> - **比较教育与[[Policy Borrowing\|政策借用]]路径** 德国比较教育学家施瑞尔（[[Jurgen Schriewer|Jürgen Schriewer]]）直接引入卢曼的 **[[Externalization\|外化]]命题**，提出跨国教育借用本质上是主权国家在面临国内政治争议时，能动地在内部建构“世界标杆”或“[[Reference Society\|参考社会]]”以寻求外部[[Social Science as Legitimation Alibi\|合法化借口]]的自指性操作；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]进一步将这一命题深化为全球治理 2.0 时代[[Policy Brokerage\|政策中介]]与数字规制转译的核心分析工具。
+> - **比较教育与[[Policy Borrowing\|政策借用]]路径** 德国比较教育学家施瑞尔（[[Jurgen Schriewer|Jürgen Schriewer]]）直接引入卢曼的 **[[Externalization\|外化]]命题**，提出跨国教育借用本质上是主权国家在面临国内政治争议时，能动地在内部建构“世界标杆”或“[[Reference Society\|参考社会]]”以寻求外部[[Social Science as Legitimation Alibi\|合法化借口]]的自指性操作；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]进一步将这一命题深化为全球治理 2.0 时代[[Policy Brokerage\|政策中介]]与数字规制转译的核心分析工具。
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 动用卢曼的盲点理论与社会/心理系统不可[[Commensuration\|通约]]论，系统解构[[John Hattie\|约翰·哈蒂]]（John Hattie）的[[Visible Learning\|可见的学习]][[Paradigm\|范式]]，揭示实证主义[[Evidence-Based Education\|循证教育]]对教育复杂性的盲视与“超积极可见性意识形态”。
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 结合卢曼与肖尔（1979）的[[Technology Deficit of Education\|教育技术赤字]]论，揭示教育因果逃逸当下检验如何制造制度焦虑并促成政策中介的繁荣；并依托卢曼（1995）的外化命题，阐释跨国比较数据如何被国内执政者转译为准外部合法化权威。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 结合卢曼与肖尔（1979）的[[Technology Deficit of Education\|教育技术赤字]]论，揭示教育因果逃逸当下检验如何制造制度焦虑并促成政策中介的繁荣；并依托卢曼（1995）的外化命题，阐释跨国比较数据如何被国内执政者转译为准外部合法化权威。
 > - [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 34–35)]] — 运用卢曼与肖尔（1979）的外在化理论，实证剖析德国等欧洲国家在面临 PISA 测评排位震荡时，如何将跨国数据建构为外部科学权威与准外部参照点，以平息国内改革争议并为既定政策议程辩护。
 
 ---

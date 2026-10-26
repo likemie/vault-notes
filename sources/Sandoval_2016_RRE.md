@@ -1,5 +1,5 @@
 ---
-citation: "Sandoval, W. A., Greene, J. A., & Bråten, I. (2016). Understanding and Promoting Thinking About Knowledge: Origins, Issues, and Future Directions of Research on Epistemic Cognition. Review of Research in Education, 40, 457–496. https://doi.org/10.3102/0091732X16669319"
+citation: "Sandoval, W. A., Greene, J. A., & Bråten, I. (2016). Understanding and promoting thinking about knowledge: Origins, issues, and future directions of research on epistemic cognition. Review of Research in Education, 40, 457–496. https://doi.org/10.3102/0091732X16669319"
 extracted_to:
   - "[[Argument_Sandoval_2016_RRE]]"
 processed_date: 2026-08-18

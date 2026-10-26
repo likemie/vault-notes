@@ -39,7 +39,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -155,7 +155,7 @@ updated: 2026-10-22
 > [!concept-lens] 政策工具杂合与多重功能冲突维度
 > 探讨在大规模国家教育评估体系中，决策者如何将标准参照的胜任力门槛与常模参照的排位分流机制进行制度拼贴。
 
-> [!claim] [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]]
+> [!claim] [[Argument_Verger_2019_Discourse|Verger et al. (2019)]]
 > **标准参照与常模参照的大规模评估制度杂合** 贝尔赫等（Antoni Verger et al., 2019）在系统梳理全球测试问责政策工具时指出，国家层面的全员统考在实践中往往同时杂合标准参照与常模参照的双重功能。以智利教育质量测量系统（SIMCE）为例，该测验既作为标准参照工具设定各年级学科的达标标准与最低胜任力水平，用于监测学校课程达标情况；同时又作为常模参照工具计算校际排位百分比并向社会公布排行榜，为家长[[School Choice|择校]]与代金券市场竞争提供区分信号。这种多重功能的政策杂合使标准参照测验在高利害问责环境中承受了常模竞争的异化压力。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
 
 ---
@@ -167,7 +167,7 @@ updated: 2026-10-22
 > | **建构性系统对齐** | 目标、活动和任务必须围绕同一组认知动词相互支持 | 课程教学设计、建构性对齐体系 | [[Argument_Biggs_1999_HERD\|Biggs (1999)]] |
 > | **认知任务选择** | 评估工具的价值取决于其引出的实质认知加工过程 | 测验题型开发、课堂形成性评估 | [[Argument_Biggs_1999_HERD\|Biggs (1999)]] |
 > | **质量标准严格性** | 严格标准源于清晰界定的表现层级，独立于预设名额曲线 | 学业等级评定、资格认证 | [[Argument_Biggs_1999_HERD\|Biggs (1999)]] |
-> | **大规模政策杂合** | 国家评估常杂合标准达标门槛与常模位次排序以兼顾问责与分流 | 国家全员统考、测试问责体制 | [[Argument_Verger_2019_Discourse\|Verger, Parcerisa and Fontdevila (2019)]] |
+> | **大规模政策杂合** | 国家评估常杂合标准达标门槛与常模位次排序以兼顾问责与分流 | 国家全员统考、测试问责体制 | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] |
 
 ---
 
@@ -217,4 +217,4 @@ updated: 2026-10-22
 > - [[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4)]] — 记录 IB 考试在试验阶段以标准参照方式判定文凭，提供 1970–1975 年考生规模与年度通过率实证数据。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24|Cohen et al. (2011)]] — 系统阐明标准参照的达标判定逻辑、题目分析特征、切分点设定规程与评分效度。
 > - [[Argument_Biggs_1999_HERD|Biggs (1999)]] — 辨析标准模型与常模测量模型，提出以标准参照评估连接课程目标、教学活动与表现质量层级的建构性对齐理论。
-> - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 梳理全球测试问责政策工具演进，揭示智利 SIMCE 等国家测验中标准参照达标与常模排位分流的制度杂合。
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 梳理全球测试问责政策工具演进，揭示智利 SIMCE 等国家测验中标准参照达标与常模排位分流的制度杂合。

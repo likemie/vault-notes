@@ -15,7 +15,7 @@ argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: Globalisation, Societies and Education
-citation: "Beech, J., & Artopoulos, A. (2015). Interpreting the circulation of educational discourse across space: searching for new vocabularies. Globalisation, Societies and Education, 14(1), 1-18."
+citation: "Beech, J., & Artopoulos, A. (2015). Interpreting the circulation of educational discourse across space: searching for new vocabularies. Globalisation, Societies and Education, 14(1), 1–18."
 tags:
   - theme/educational-transfer
   - theme/comparative-education

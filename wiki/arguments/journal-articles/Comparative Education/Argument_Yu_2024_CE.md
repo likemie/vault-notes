@@ -15,7 +15,7 @@ argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
-citation: "Yu, T. & Zhao, Z. (2024). Confucianism in multicultural China: 'official knowledge' vs marginalised views. Comparative Education, 60(1), 59-76."
+citation: "Yu, T. & Zhao, Z. (2024). Confucianism in multicultural China: 'official knowledge' vs marginalised views. Comparative Education, 60(1), 59–76."
 tags:
   - region/china
   - theme/confucianism

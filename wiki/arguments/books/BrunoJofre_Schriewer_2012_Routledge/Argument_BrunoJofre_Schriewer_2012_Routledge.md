@@ -22,7 +22,7 @@ publisher: "Routledge"
 year: 2012
 doi: ""
 isbn: "9780203333624"
-citation: "Bruno-Jofré, R., & Schriewer, J. (Eds.). (2012). The global reception of John Dewey's thought: Multiple refractions through time and space. New York and London: Routledge."
+citation: "Bruno-Jofré, R., & Schriewer, J. (Eds.). (2012). The global reception of John Dewey's thought: Multiple refractions through time and space. Routledge."
 tags: ["theme/comparative-education", "theme/history-of-education", "theme/book-reading"]
 related_concepts:
   - "[[Recontextualization]]"

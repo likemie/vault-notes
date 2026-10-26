@@ -5,7 +5,7 @@ authors:
   - "[[Liliana Esther Olmos|Olmos, L. E.]]"
   - "[[Carlos Alberto Torres|Torres, C. A.]]"
 source_language: en
-citation: "Olmos, L. E. & Torres, C. A. (2009). Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 73–86). Dordrecht: Springer."
+citation: "Olmos, L. E. & Torres, C. A. (2009). Theories of the state, educational expansion, development, and globalizations: Marxian and critical approaches. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 73–86). Springer."
 year: 2009
 doi: ""
 citation_aliases:

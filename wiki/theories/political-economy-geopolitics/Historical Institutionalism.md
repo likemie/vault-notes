@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -174,7 +174,7 @@ updated: 2026-10-22
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 历史制度主义内生演化转向奠基之作，系统批判间断均衡与连续性偏误，建构五大渐进变迁形态学。（pp. 18–34）
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 历史制度主义内生演变转向里程碑著作，系统建构[[Theory of Gradual Institutional Change|渐进制度变迁理论]]与微观博弈矩阵。（pp. 1–37）
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评述历史制度主义[[Institutional Layering|制度分层]]概念在当代公共政策中的经验演化与理论反思。
-> - [[Argument_Verger_2019_Discourse|Verger, Parcerisa and Fontdevila (2019)]] — 将历史制度主义渐进变迁机制（制度分层、[[Institutional Conversion|制度转换]]与[[Institutional Drift|制度漂移]]）应用于全球教育治理与国家大尺度测评（[[National Large-Scale Assessments|NLSA]]）扩散研究，解释全球测评问责[[Discourse|话语]]如何与不同国家行政传统发生折射。（pp. 250–252, 262–263）
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 将历史制度主义渐进变迁机制（制度分层、[[Institutional Conversion|制度转换]]与[[Institutional Drift|制度漂移]]）应用于全球教育治理与国家大尺度测评（[[National Large-Scale Assessments|NLSA]]）扩散研究，解释全球测评问责[[Discourse|话语]]如何与不同国家行政传统发生折射。（pp. 250–252, 262–263）
 
 ---
 

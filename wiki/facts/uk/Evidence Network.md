@@ -80,7 +80,7 @@ updated: 2026-10-26
 > [!dev-timeline] 组织发展历程
 > - **1999–2009 — ESRC 资助下的实体网络探索期** 依托英国循证政策与实践中心建立专门在线门户，广泛整合教育、公共卫生与刑事司法领域的实证证据，发布系列政策工作文稿与循证方法指南，成为英国跨界知识动员的先驱实验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, pp. 331–333)]]
 > - **2010s — 职能内嵌与高校政策研究所转型** 随着 ESRC 专项资助周期结束，原网络职能逐渐由各大学内部常设智库实体承接——以伦敦国王学院政策研究所（Policy Institute at King's College London）为代表，大学将证据网络功能制度化，持续为中央政府与国际组织提供政策咨询。
-> - **2010s–2020s — 现代国家网络与跨国生态扩散** 关系型证据网络模式在全球广泛扩散：在英国本土催生了涵盖教育、医疗等多领域的国家级“何者有效网络”（[[What Works Network]]）以及 2025 年创立的“证据交换联盟”（Evidence Exchange）；在国际上，[[Africa Evidence Network|非洲证据网络]]（Africa Evidence Network, AEN）等区域性跨部门网络迅速崛起；在威尔士政府 2021 年发布的《[[National Strategy for Educational Research and Enquiry|国家教育研究与探究战略]]》（[[National Strategy for Educational Research and Enquiry|NSERE]]）中，“积极融入国际证据网络”被正式确立为四大国家战略支柱之一。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]; [[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 44–46)]]
+> - **2010s–2020s — 现代国家网络与跨国生态扩散** 关系型证据网络模式在全球广泛扩散：在英国本土催生了涵盖教育、医疗等多领域的国家级“何者有效网络”（[[What Works Network]]）以及 2025 年创立的“证据交换联盟”（Evidence Exchange）；在国际上，[[Africa Evidence Network|非洲证据网络]]（Africa Evidence Network, AEN）等区域性跨部门网络迅速崛起；在威尔士政府 2021 年发布的《[[National Strategy for Educational Research and Enquiry|国家教育研究与探究战略]]》（[[National Strategy for Educational Research and Enquiry|NSERE]]）中，“积极融入国际证据网络”被正式确立为四大国家战略支柱之一。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]; [[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 44–46)]]
 
 ---
 
@@ -112,7 +112,7 @@ updated: 2026-10-26
 > [!indicators] 影响力维度与指标
 > - **跨部门中介[[Paradigm|范式]]确立** 证据网络打破了“研究生产—单向传递—被动采纳”的传统线性流水线设想，确立了多方长期互动与深层信任在知识动员中的中枢地位。
 > - **高校智库化转型塑造** 为英国高校普遍设立政策研究所（Policy Institutes）并直接服务国家公共治理提供了组织示范。
-> - **跨国战略与民间网络吸纳** 威尔士 NSERE 战略将融入国际证据网络确立为国家支柱；[[UNESCO|教科文组织]]全球战略审查进一步强调，政府行政部门亟须吸纳民间社会组织已建立的多元证据网络，并肯定了非洲证据网络（AEN）等区域实体汇聚数千名研究者与行政官员的人际信任纽带作用。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]; [[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 27, 44–46)]]
+> - **跨国战略与民间网络吸纳** 威尔士 NSERE 战略将融入国际证据网络确立为国家支柱；[[UNESCO|教科文组织]]全球战略审查进一步强调，政府行政部门亟须吸纳民间社会组织已建立的多元证据网络，并肯定了非洲证据网络（AEN）等区域实体汇聚数千名研究者与行政官员的人际信任纽带作用。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]; [[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 27, 44–46)]]
 
 > [!finding-cards] 关键成效与辐射影响
 > - **推动英国国家循证网络成型** 早期证据网络的实践直接启发了后续涵盖教育、医疗等多领域的国家级“何者有效网络”（What Works Network）与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）的制度设计。
@@ -122,7 +122,7 @@ updated: 2026-10-26
 > - **1999** 英国经济与社会研究委员会（ESRC）资助设立证据网络的年份。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, p. 330)]]
 > - **£1.3M** ESRC 为建立“英国循证政策与实践中心”网络注入的初始专项基金。
 > - **2021** 威尔士政府将“融入国际证据网络”列为国家教育研究战略（NSERE）四大支柱的年份。[[Argument_Torres_2022_BarriersMechanisms|(Torres, 2022a, p. 117)]]
-> - **1,000+** （名） 区域证据网络（如非洲证据网络 AEN）常规连接的跨国研究者与政府官员规模。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 44–46)]]
+> - **1,000+** （名） 区域证据网络（如非洲证据网络 AEN）常规连接的跨国研究者与政府官员规模。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 44–46)]]
 
 ---
 
@@ -167,4 +167,4 @@ updated: 2026-10-26
 > | [[EPPI-Centre]] | Fact (Organization) | 与证据网络同属英国循证政策与实践运动早期的核心学术支撑机构。 |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011)]] | Argument | 记录英国 ESRC 资助建立证据网络与跨部门知识动员先驱实验的教育研究经典。 |
 > | [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] | Argument | 剖析证据网络作为关系型中介机制在克服阻力、培育信任与应对政治剪裁中的实际效能。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] | Argument | 战略审查强调政府行政部门吸纳民间证据网络的重要性，并以非洲证据网络等作为典型案例。 |
+> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 战略审查强调政府行政部门吸纳民间证据网络的重要性，并以非洲证据网络等作为典型案例。 |

@@ -60,13 +60,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 能力界定与选择项目（Definition and Selection of Competencies，DeSeCo）是[[OECD\|经合组织]]在 1990 年代末启动的一项具有全球里程碑意义的跨[[Discipline-Based Theory\|学科理论]]研发工程，由[[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（CERI）主持、瑞士联邦统计局（SFSO）协同领导，旨在为[[PISA\|国际学生评估项目]]（[[PISA]]）及[[Knowledge-Based Economy\|知识经济]]时代的[[Lifelong Learning\|终身学习]]确立坚实、普适且具备操作性的[[21st Century Skills and Competencies Discourse\|核心素养]]理论基石。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> 能力界定与选择项目（Definition and Selection of Competencies，DeSeCo）是[[OECD\|经合组织]]在 1990 年代末启动的一项具有全球里程碑意义的跨[[Discipline-Based Theory\|学科理论]]研发工程，由[[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（CERI）主持、瑞士联邦统计局（SFSO）协同领导，旨在为[[PISA\|国际学生评估项目]]（[[PISA]]）及[[Knowledge-Based Economy\|知识经济]]时代的[[Lifelong Learning\|终身学习]]确立坚实、普适且具备操作性的[[21st Century Skills and Competencies Discourse\|核心素养]]理论基石。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1997 年底正式立项启动，历经跨学科概念界定、多国国家政策咨询与实证评估，于 2003 年底发布终期综合报告并正式交割结项。
@@ -96,7 +96,7 @@ updated: 2026-10-22
 > - **1997–1999 — 理论立项与跨学科概念奠基期** [[OECD\|经合组织]]教育委员会委托瑞士联邦统计局设立项目秘书处；1999 年在日内瓦召开首届 DeSeCo 国际研讨会，邀请人类学家、社会学家（如 Franz Weinert）与经济学家对[[21st Century Skills and Competencies Discourse\|核心素养]]展开[[Ontology\|本体论]]与[[Epistemology\|认识论]]论证。
 > - **2000–2001 — 国家政策审议与国别咨询扩展期** 伴随第一轮 [[PISA]] 测验的实施，DeSeCo 面向经合组织各成员国展开大规模国别政策咨询，出版首部里程碑专著《定义和选择关键能力》（*Defining and Selecting Key Competencies*, 2001），系统总结各学派对素养概念的争论。
 > - **2002–2003 — 框架统合、终期成果发布与机制化交割** 2003 年出版终期综合报告《为了成功人生与健全社会的核心素养》（*Key Competencies for a Successful Life and a Well-Functioning Society*），正式确立三大能力范畴；随后项目秘书处宣告解散，其研发成果机制化交割给经合组织教育与技能司，全面融入 PISA 测评与各成员国课程改革。
-> - **2004–至今 — 全球扩散与北欧政策渗透** [[EU|欧盟]]委员会依据 DeSeCo 蓝图于 2006 年颁布《欧洲[[Lifelong Learning\|终身学习]]核心素养建议》，全球数十个国家启动“能力导向课程改革”；在北欧教育改革周期中，DeSeCo 成为各国政府合法化外部借力的绝对权威文献。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> - **2004–至今 — 全球扩散与北欧政策渗透** [[EU|欧盟]]委员会依据 DeSeCo 蓝图于 2006 年颁布《欧洲[[Lifelong Learning\|终身学习]]核心素养建议》，全球数十个国家启动“能力导向课程改革”；在北欧教育改革周期中，DeSeCo 成为各国政府合法化外部借力的绝对权威文献。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
 
 ---
 
@@ -121,12 +121,12 @@ updated: 2026-10-22
 > [!finding-cards] 核心实证结论
 > - **构筑现代全球测验帝国的理论母体** DeSeCo 打破了传统的“知识回忆测验”[[Paradigm\|范式]]，将学生在陌生生活情境中迁移与应用能力的“素养（Literacy）”概念体系化，直接构成了 [[PISA]] 科学、阅读与数学素养的顶层理论框架。
 > - **引发全球课程哲学的“能力转向”** 促使欧洲、亚洲和美洲各国将课程改革重心从教学大纲规定的学科知识清单转向学生必须达成的终结性素养标准，奠定了新自由主义问责制与[[Output-Oriented Governance\|产出导向治理]]的学理根基。
-> - **主权国家法定行政法令中的垄断性引文霸权** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]]实证追踪北欧五国政策咨询网络发现，在主权国家行政决策出台阶段，DeSeCo 展现出碾压性的制度穿透力；主权政府极度偏向于吸纳 DeSeCo 这一特定超国家蓝图以压制本土学术争议。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> - **主权国家法定行政法令中的垄断性引文霸权** [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]实证追踪北欧五国政策咨询网络发现，在主权国家行政决策出台阶段，DeSeCo 展现出碾压性的制度穿透力；主权政府极度偏向于吸纳 DeSeCo 这一特定超国家蓝图以压制本土学术争议。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
 
 > [!stat-cards]- 关键实证数据
 > - **3 / 9** （能力范畴 / 项具体素养） 构成全球核心素养分类体系的核心标准。
 > - **30+** （国家与跨国组织采纳） 成为[[EU|欧盟]]、[[World Bank\|世界银行]]及 30 余个成员国推进能力本位改革（Competency-Based Education）的基准蓝本。
-> - **90.9%** （90.9% 的法令引文垄断率） 在挪威教育部能力课程改革实证中，官方行政法令最终引用的 22 篇参考文献中，高达 **20 篇**全部来自专门审议 OECD DeSeCo 项目的委员会，引文垄断率超过九成，其影响力远超一切国内外大学学者与学术明星。（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 548]]）
+> - **90.9%** （90.9% 的法令引文垄断率） 在挪威教育部能力课程改革实证中，官方行政法令最终引用的 22 篇参考文献中，高达 **20 篇**全部来自专门审议 OECD DeSeCo 项目的委员会，引文垄断率超过九成，其影响力远超一切国内外大学学者与学术明星。（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024, p. 548]]）
 
 ---
 
@@ -161,7 +161,7 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 追踪北欧能力改革咨询网络，实证揭示挪威教育部官方行政法令中高达 90.9% 的引文被 DeSeCo 委员会所垄断的霸权现象。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 追踪北欧能力改革咨询网络，实证揭示挪威教育部官方行政法令中高达 90.9% 的引文被 DeSeCo 委员会所垄断的霸权现象。
 
 ---
 

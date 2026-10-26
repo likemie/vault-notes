@@ -21,7 +21,7 @@ publisher: "Palgrave Macmillan"
 year: 2005
 doi: ""
 isbn: "1403968624"
-citation: "Popkewitz, T. S. (Ed.). (2005). Inventing the modern self and John Dewey: Modernities and the traveling of pragmatism in education. New York: Palgrave Macmillan."
+citation: "Popkewitz, T. S. (Ed.). (2005). Inventing the modern self and John Dewey: Modernities and the traveling of pragmatism in education. Palgrave Macmillan."
 tags: ["theme/comparative-education", "theme/history-of-education", "theme/book-reading"]
 related_concepts:
   - "[[Pragmatic Paradigm]]"

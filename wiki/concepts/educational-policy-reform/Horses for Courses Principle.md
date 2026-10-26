@@ -48,13 +48,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心界定
-> 证据适切性原则（Horses for Courses Principle）是由流行病学与政策评估学者马克·佩蒂克鲁（Mark Petticrew）与海伦·罗伯茨（Helen Roberts）于 2003 年正式确立的方法论准则。该原则主张**不存在适用于所有政策情境的通用证据层级金字塔**；判断某项证据是否严谨有效，必须取决于该证据与具体政策决策问题的内在契合度（[[Fitness for Purpose]]）。在[[UNESCO|联合国教科文组织]]全球证据利用审查中，该原则被用于反思教育政策领域机械套用因果试验等级而贬抑质性与一线实践经验的制度偏向。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 31–33)]]
+> 证据适切性原则（Horses for Courses Principle）是由流行病学与政策评估学者马克·佩蒂克鲁（Mark Petticrew）与海伦·罗伯茨（Helen Roberts）于 2003 年正式确立的方法论准则。该原则主张**不存在适用于所有政策情境的通用证据层级金字塔**；判断某项证据是否严谨有效，必须取决于该证据与具体政策决策问题的内在契合度（[[Fitness for Purpose]]）。在[[UNESCO|联合国教科文组织]]全球证据利用审查中，该原则被用于反思教育政策领域机械套用因果试验等级而贬抑质性与一线实践经验的制度偏向。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 31–33)]]
 
 > [!concept-context] 提出背景与[[Epistemology|认识论]]反思
 > - **循证医学传统层级的异化** 早期循证[[Paradigm|范式]]将[[Randomised Controlled Trials|随机对照试验]]（RCT）与系统性定量[[Meta-analysis|元分析]]置于因果有效性顶峰，将观察性研究、质性个案与专家经验视作低质量证据。
@@ -76,11 +76,11 @@ updated: 2026-10-23
 
 > [!tension] 证据阶梯论与适切性原则的范式张力
 > - **硬性因果阶梯的排他性** 部分新[[Positivism|实证主义]]智库坚持方法学纯粹性，主张只有具备[[Counterfactual|反事实]]因果对照的[[Experimental Research|实验研究]]才算合格证据，将缺乏对照组的扎根实践统统归为无科学依据。
-> - **过度相对主义的稀释风险** 极端泛化的适切性主张若缺乏严格的质量控制标准，容易成为部分低劣调研与政策辩解的说辞，削弱因果评估的科学公信力。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 32–33)]]
+> - **过度相对主义的稀释风险** 极端泛化的适切性主张若缺乏严格的质量控制标准，容易成为部分低劣调研与政策辩解的说辞，削弱因果评估的科学公信力。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 32–33)]]
 
 ---
 
 > [!impact] 教育政策[[Output-Oriented Governance|循证治理]]的启示
 > - **打破单一因果迷信，兼顾[[Phronesis|实践智慧]]** 敦促教育决策机构在参考跨国评测与量化实验指标的同时，为一线教师的实践性审慎判断（Phronesis）与学校现场质性证据保留合法制度空间。
-> - **指导跨学科综合证据矩阵研制** 为联合国教科文组织[[Global Education Cooperation Mechanism|全球教育合作机制]]（GCM）提炼政策指南提供了认识论支撑，推动证据中介从单纯推销实验报告转向生产涵盖因果效果、执行成本与制度障碍的复合型证据公报。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 32, 38)]]
+> - **指导跨学科综合证据矩阵研制** 为联合国教科文组织[[Global Education Cooperation Mechanism|全球教育合作机制]]（GCM）提炼政策指南提供了认识论支撑，推动证据中介从单纯推销实验报告转向生产涵盖因果效果、执行成本与制度障碍的复合型证据公报。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 32, 38)]]
 

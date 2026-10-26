@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 （发散思维 / 发散性认知加工）
@@ -212,7 +212,7 @@ updated: 2026-10-25
 > |---|---|---|---|
 > | **过程构件定位** | 发散思维是创造潜能的重要指标，效应适中，属于创造力综合过程构件 | 认知测评与创造力预测 | [[Mark A. Runco\|Runco et al. (2026)]]; Cropley (2006) |
 > | **教学干预可塑性** | 发散思维可通过显式指导语与专门训练显著提升，言语认知干预增益居首，呈现中短期倒 U 型时间窗口 | 课堂思维教学、工作坊与训练课程 | Acar et al. (2020); [[Mark A. Runco\|Runco et al. (2026)]]; [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] |
-> | **空间脚手架赋能** | 图形组织器对发散思维促进强效，且显著强于聚合思维 | 空间可视化与[[Concept Mapping\|概念图]]示工具 | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei, Ding & Chiu (2026)]] |
+> | **空间脚手架赋能** | 图形组织器对发散思维促进强效，且显著强于聚合思维 | 空间可视化与[[Concept Mapping\|概念图]]示工具 | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] |
 > | **AI 交互双刃剑** | AI 显著催化构想发散但对创造力整体促进有限，无支架下容易浅尝辄止并陷入通用套路同质化，过度依赖剥夺实践权能并诱发成长性[[Epistemic Injustice\|认识不正义]] | 智能技术环境与人机协同学习 | Urban et al. (2024); Awal (2024); [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]]; [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 
 ---

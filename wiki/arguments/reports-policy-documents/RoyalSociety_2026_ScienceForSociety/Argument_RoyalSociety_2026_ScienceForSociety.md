@@ -19,7 +19,7 @@ year: 2026
 isbn: 978-1-78252-829-6
 publication_place: London
 publisher: The Royal Society
-citation: "The Royal Society. (2026). Science for society: How society and science shape each other. London: The Royal Society."
+citation: "The Royal Society. (2026). Science for society: How society and science shape each other."
 citation_aliases:
   - "The Royal Society, 2026"
   - "The Royal Society (2026)"

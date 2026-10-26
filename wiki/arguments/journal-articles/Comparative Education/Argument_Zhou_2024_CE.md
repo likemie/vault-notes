@@ -15,7 +15,7 @@ argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
-citation: "Zhou, Y. & Westberg, J. (2024). A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s. Comparative Education, 60(4), 609-625."
+citation: "Zhou, Y. & Westberg, J. (2024). A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s. Comparative Education, 60(4), 609–625."
 tags:
   - region/china
   - theme/knowledge-transfer

@@ -1,5 +1,5 @@
 ---
-citation: "Mitter, W. (2009). Comparative Education in Europe. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 87–99). Dordrecht: Springer."
+citation: "Mitter, W. (2009). Comparative Education in Europe. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 87–99). Springer."
 extracted_to:
   - "[[Argument_Mitter_2009_Europe]]"
 processed_date: 2026-09-28

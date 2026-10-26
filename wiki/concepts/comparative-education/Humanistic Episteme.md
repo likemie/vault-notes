@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -154,7 +154,7 @@ updated: 2026-10-22
 > - **19 世纪中后期 — 维多利亚人文批判先声** [[Matthew Arnold\|马修·阿诺德]]发表《文化与无政府状态》，确立以“甘美与光明”的古典文化抗衡自由放任市侩功利主义的人文教育[[Paradigm\|范式]]。[[Argument_Kazamias_2009_ForgottenThemes\|(Arnold, 1869; Kazamias, 2009: 38, 引自 Kazamias, 2009b)]]
 > - **1900–1950 年代 — 历史-哲学奠基者的体系化建构** [[Michael Sadler\|萨德勒]]确立[[Intangible Spiritual Forces\|校外无形精神力量]]命题；[[Isaac Kandel\|坎德尔]]将比较教育定位为哲学思辨与观念史考察；汉斯引入德语 *Vergleichende Erziehungswissenschaft* 范式；[[Robert Ulich\|乌利希]]将西欧古典哲学史注入比较研究。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1900; Kandel, 1933; Hans, 1949; Ulich, 1961; Kazamias, 2009: 39–52, 引自 Kazamias, 2009b)]]
 > - **1960–1970 年代 — [[Positivism\|实证主义]]科学化运动的边陲化放逐** 诺亚、埃克斯坦、霍姆斯与埃普斯坦以可度量性、指标预测与假设检验为武器，批评人本学派“沉溺历史细节”、“濒临神秘主义”且缺乏应用政策效能，人本[[Epistemology\|认识论]]遭遇全面退潮。[[Argument_Kazamias_2009_ForgottenThemes\|(Noah & Eckstein, 1969; Holmes, 1965; Epstein, 1970; Kazamias, 2009: 53–54, 引自 Kazamias, 2009b)]]
-> - **2000 年代至今 — 跨国治理反思与全人教化的人本复兴** 随着[[OECD\|经合组织]]（OECD）与国际评估项目（[[PISA]]）引发全球“[[Governing by Numbers\|以数字治理]]（Governing by Numbers）”的同质化危机，卡扎米亚斯与考恩等学者重新激活人本认识论，倡导以“以人为中心”的历史人文视野反思当代教育异化。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009; Cowen, 2023, 引自 Kazamias, 2009b)]]
+> - **2000 年代至今 — 跨国治理反思与全人教化的人本复兴** 随着[[OECD\|经合组织]]（OECD）与国际评估项目（[[PISA]]）引发全球“[[Governing by Numbers\|以数字治理]]（Governing by Numbers）”的同质化危机，卡扎米亚斯与考恩等学者重新激活人本认识论，倡导以“以人为中心”的历史人文视野反思当代教育异化。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b; Cowen, 2023, 引自 Kazamias, 2009b)]]
 
 ---
 

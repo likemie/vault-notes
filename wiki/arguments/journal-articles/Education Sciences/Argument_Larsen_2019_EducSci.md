@@ -14,7 +14,7 @@ argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
 journal: Education Sciences
-citation: "Larsen, S. N. (2019). Blindness in Seeing: A Philosophical Critique of the Visible Learning Paradigm in Education. Education Sciences, 9(1), 47. https://doi.org/10.3390/educsci9010047"
+citation: "Larsen, S. N. (2019). Blindness in seeing: A philosophical critique of the Visible Learning paradigm in education. Education Sciences, 9(1), 47. https://doi.org/10.3390/educsci9010047"
 year: 2019
 doi: "10.3390/educsci9010047"
 citation_aliases:

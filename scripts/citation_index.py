@@ -290,6 +290,73 @@ def narrative_author_part(part: str) -> str:
 _LEADING_ARTICLE_RE = re.compile(r"^(?:a|an|the)\s+", re.IGNORECASE)
 
 
+# Places seen in this vault's book / report references. APA 7 (10.2) drops the
+# publisher location; apa7_reference() removes "Place: " before the publisher.
+KNOWN_PUBLICATION_PLACES = {
+    "Auckland", "Bielefeld", "Cambridge", "Cambridge, MA", "Cham", "Chicago", "Dordrecht",
+    "Hong Kong", "La Salle, IL", "London", "New York", "New York and London", "Oxford",
+    "Paris", "Rome", "Seelze", "Thousand Oaks, CA", "Washington, D.C.", "Washington, DC",
+    "Williamsburg, VA", "Berlin", "Heidelberg", "Abingdon", "Abingdon, Oxon", "Boston",
+    "Princeton, NJ", "San Francisco", "Hoboken, NJ", "Los Angeles", "Singapore", "Leiden",
+    "Amsterdam", "Bristol", "Basingstoke", "Melbourne", "Sydney", "Toronto", "Wiesbaden",
+    "Weinheim", "Stuttgart", "Münster", "Frankfurt am Main", "Bern", "Zürich", "Wien",
+    "上海", "北京", "南京", "杭州", "广州", "武汉", "长沙", "成都", "西安", "天津", "重庆", "香港", "台北",
+}
+_URL_OR_ISBN_RE = re.compile(r"https?://\S+|\bISBN[\s:-]*[\dXx-]+", re.IGNORECASE)
+_NUMBER_RANGE_RE = re.compile(r"(?<![\w./-])(\d+)-(\d+)(?![\w/-])")
+_DOI_PREFIX_RE = re.compile(r"(?:https?://(?:dx\.)?doi\.org/|\bdoi:\s*)(10\.\S+)", re.IGNORECASE)
+
+
+def apa7_reference(citation: str, publication_place: str = "") -> tuple[str, list[str]]:
+    """Normalize mechanical APA 7 details of a full reference.
+
+    Returns (fixed citation, codes of what changed):
+      location  "Oxford: Oxford University Press." -> "Oxford University Press." (APA 7, 10.2)
+      publisher_is_author  group author repeated as publisher is dropped (9.24)
+      dash      page / number ranges use an en dash: 31-38 -> 31–38 (6.6)
+      doi       DOIs as https://doi.org/10... (9.34)
+    URLs and ISBNs are left untouched.
+    """
+    text = citation or ""
+    codes: list[str] = []
+    places = set(KNOWN_PUBLICATION_PLACES)
+    if publication_place.strip():
+        places.add(publication_place.strip())
+    alternatives = "|".join(re.escape(p) for p in sorted(places, key=len, reverse=True))
+    place_re = re.compile(
+        rf"(?<=[.。)）] )(?:{alternatives})\s*[:：]\s*(?=[^:：]+?[.。]?\s*(?:https?://\S+)?\s*$)"
+    )
+    new = place_re.sub("", text, count=1)
+    # "World Bank, Washington, DC." -> "World Bank." (location written after the publisher)
+    new = re.sub(rf",\s*(?:{alternatives})(?=[.。]\s*(?:https?://\S+)?\s*$)", "", new, count=1)
+    if new != text:
+        codes.append("location")
+        text = new
+    # APA 7 (9.24, 10.2): a group author that is also the publisher is not
+    # repeated as publisher: "OECD. (2023). Title. OECD." -> "OECD. (2023). Title."
+    author_m = re.match(r"^(.+?)\.?\s*[（(](?:19|20)\d{2}[a-z]?[^)）]*[)）]", text)
+    tail_m = re.search(r"(?<=[.。] )([^.。]+?)\.(\s*https?://\S+)?\s*$", text)
+    if author_m and tail_m and "," not in author_m.group(1) and author_m.group(1).strip() == tail_m.group(1).strip():
+        text = text[:tail_m.start()].rstrip() + (tail_m.group(2) or "")
+        codes.append("publisher_is_author")
+    new = _DOI_PREFIX_RE.sub(lambda m: "https://doi.org/" + m.group(1), text)
+    if new != text:
+        codes.append("doi")
+        text = new
+    parts = []
+    last = 0
+    for m in _URL_OR_ISBN_RE.finditer(text):
+        parts.append((text[last:m.start()], True))
+        parts.append((m.group(0), False))
+        last = m.end()
+    parts.append((text[last:], True))
+    new = "".join(_NUMBER_RANGE_RE.sub(r"\1–\2", chunk) if editable else chunk for chunk, editable in parts)
+    if new != text:
+        codes.append("dash")
+        text = new
+    return text, codes
+
+
 def reference_title(citation: str) -> str:
     """Title part of a full APA reference: the text after "(Year)."."""
     m = re.search(r"\((?:19|20)\d{2}[a-z]?(?:, [^)]*)?\)\.\s*(.+)", citation or "")

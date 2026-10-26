@@ -149,7 +149,7 @@ updated: 2026-10-26
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 适合大样本[[Cross-sectional Study|横截面调查]]、跨国政策利益相关者偏好测评与平台摸底、群体态度与价值倾向测量、标准化评估、跨群体比较以及检验[[Variable|变量]]间多元相关与因果路径模型。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|(Cohen et al., 2011, Ch. 20)]]; [[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018)]]; [[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 27, 33)]]; [[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 18–20)]]
+> - **适合使用** 适合大样本[[Cross-sectional Study|横截面调查]]、跨国政策利益相关者偏好测评与平台摸底、群体态度与价值倾向测量、标准化评估、跨群体比较以及检验[[Variable|变量]]间多元相关与因果路径模型。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|(Cohen et al., 2011, Ch. 20)]]; [[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018)]]; [[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 27, 33)]]; [[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 18–20)]]
 > - **谨慎使用** 涉及极高个人隐私、违法行为或强烈污名化的[[Sensitive Questions|敏感问题]]研究；低识字率或特殊弱势群体；以及在未充分明确[[Research Question|研究问题]]与统计分析方案时仓促发卷。
 > - **不适合使用** 深入探索复杂多变的微观互动过程、理解无法预设维度的全新文化体验、或是要求严格实验干预隔离[[Causality|因果关系]]的研究。
 
@@ -177,7 +177,7 @@ updated: 2026-10-26
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 采用联合国六种官方语言设计多语种在线问卷，收集覆盖 103 国 898 名政策利益相关者的数据，系统测评全球 654 个证据平台的使用习惯与 SDG 4 目标支撑度（pp. 18–20）。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 采用联合国六种官方语言设计多语种在线问卷，收集覆盖 103 国 898 名政策利益相关者的数据，系统测评全球 654 个证据平台的使用习惯与 SDG 4 目标支撑度（pp. 18–20）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, Ch. 20)]] — 系统介绍问卷设计的全流程：从伦理议题到规划[[Operationalization|操作化]]、题型选择、[[Sensitive Questions|敏感问题]]、[[Questionnaire Wording|措辞陷阱]]、排序、布局、[[Covering Letter|封面信]]、[[Pilot Testing|预测试]]、施测和数据处理。
 > - [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] — 编制四因素 14 题的基线问卷，经预测试检验[[Face Validity|表面效度]]与[[Construct Validity|建构效度]]后以在线方式施测，用于在干预前刻画英格兰 79 所小学 696 名实践者的[[Evidence-Informed Practice|证据知情实践]]准备状态。
 > - [[Argument_Custer_2021_AidData|Custer et al. (2021)]] — 针对南亚与中亚 12 国政商学界政策精英设计多语言能力与偏好问卷，结合交叉表与均值比较量化评估三大外语的地位阶梯与职业驱动意向（pp. 27, 33）。

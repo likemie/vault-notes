@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -64,7 +64,7 @@ updated: 2026-10-23
 > - **边界** 仅表征行动者对机构的调阅与从属拓扑，不直接度量证据被行政采纳后的实质因果干预效应。
 
 > [!def] Two-Mode [[Network Analysis]]
-> 两模网络分析（Two-Mode Network Analysis，亦称二部从属网络分析，Bipartite Affiliation Network Analysis）是社会网络分析（SNA）中用于处理两组具有[[Heterogeneity|异质性]]实体之间二元关系的数学建模与可视化方法。不同于仅包含单一同质行动者（如“学者—学者”合作）的单模网络（One-Mode Network），两模网络包含两个互不相交的节点集合（如“决策人员集”与“证据主体平台集”），边仅存在于两类不同节点之间，用于表征个人对特定组织、事件或知识资源的从属、参与或日常咨询行为。在公共政策[[Output-Oriented Governance|循证治理]]研究中，该方法被用于实证测绘决策者日常查阅证据平台的拓扑连通度，诊断宏观知识生态的离散度与核心—边缘分化格局。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 22–24, 60–61)]]
+> 两模网络分析（Two-Mode Network Analysis，亦称二部从属网络分析，Bipartite Affiliation Network Analysis）是社会网络分析（SNA）中用于处理两组具有[[Heterogeneity|异质性]]实体之间二元关系的数学建模与可视化方法。不同于仅包含单一同质行动者（如“学者—学者”合作）的单模网络（One-Mode Network），两模网络包含两个互不相交的节点集合（如“决策人员集”与“证据主体平台集”），边仅存在于两类不同节点之间，用于表征个人对特定组织、事件或知识资源的从属、参与或日常咨询行为。在公共政策[[Output-Oriented Governance|循证治理]]研究中，该方法被用于实证测绘决策者日常查阅证据平台的拓扑连通度，诊断宏观知识生态的离散度与核心—边缘分化格局。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 22–24, 60–61)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 个人行动者与集体实体（机构、会议、政策文献、证据平台）之间的从属、参与或调阅互动关系。
@@ -73,7 +73,7 @@ updated: 2026-10-23
 > - **输出形式** 二部图拓扑图谱、关联发生矩阵、度中心度分布表、网络密度系数与独立连通分量子图。
 
 > [!citation-card] 两模证据咨询网络与拓扑结构
-> 为识别网络中最核心的证据源，计算了每个证据源的度中心度，即提名使用该证据源的受访者总数。除拉丁美洲 [[Latin American Campaign for the Right to Education|CLADE]] 这一区域机构外，调阅频次最高的机构全为国际多边实体，体现了国际多边组织在全局视角下作为各方最大公约数的显赫地位。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 23–24)]]
+> 为识别网络中最核心的证据源，计算了每个证据源的度中心度，即提名使用该证据源的受访者总数。除拉丁美洲 [[Latin American Campaign for the Right to Education|CLADE]] 这一区域机构外，调阅频次最高的机构全为国际多边实体，体现了国际多边组织在全局视角下作为各方最大公约数的显赫地位。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 23–24)]]
 >
 > *To identify the most central sources in the network, we calculated the degree centrality of a source, which equals the number of respondents indicating that they use the source... It may not be surprising that these most central sources were all international, except one regional source—CLADE—because international sources such as [[UNESCO]], [[OECD]], the [[World Bank]], and [[UNICEF]] are common denominators for all respondents from the global perspective.*
 
@@ -122,10 +122,10 @@ updated: 2026-10-23
 ---
 
 > [!proc] 两模从属网络构建与分析程序
-> 1. **行为数据采集与实体清洗** 通过[[Internet-based Survey|在线调查]]问卷搜集受访者在实操中经常查阅的具体平台名称；针对填报文本开展多语种去重、全称与缩写归一化（如合并 [[International Institute for Educational Planning|IIEP]] 与联合国教科文组织国际教育规划研究所）。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 21–23, 60–61)]]
+> 1. **行为数据采集与实体清洗** 通过[[Internet-based Survey|在线调查]]问卷搜集受访者在实操中经常查阅的具体平台名称；针对填报文本开展多语种去重、全称与缩写归一化（如合并 [[International Institute for Educational Planning|IIEP]] 与联合国教科文组织国际教育规划研究所）。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 21–23, 60–61)]]
 > 2. **发生矩阵构建（Incidence Matrix）** 建立 $n \times m$ 维布尔二元关联矩阵，横轴为受访者编号，纵轴为机构名称，完成从属关系赋值。
-> 3. **拓扑参数测算与中心度排序** 测算各机构节点的度中心度，排列高频调阅榜单（如 UNESCO 64人、OECD 23人、世界银行 19人、UNICEF 18人）；计算全局网络密度与分量连通度。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 23–24)]]
-> 4. **分群与属性投影对比** 依据受访者职业背景（政府部委官员、公民社会代表、大学学者）将全局网络拆分为子网络图（如报告图 3.3 与图 3.4），对比不同利益相关方在证据调阅广度与机构层级上的显著差异。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 24–25)]]
+> 3. **拓扑参数测算与中心度排序** 测算各机构节点的度中心度，排列高频调阅榜单（如 UNESCO 64人、OECD 23人、世界银行 19人、UNICEF 18人）；计算全局网络密度与分量连通度。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 23–24)]]
+> 4. **分群与属性投影对比** 依据受访者职业背景（政府部委官员、公民社会代表、大学学者）将全局网络拆分为子网络图（如报告图 3.3 与图 3.4），对比不同利益相关方在证据调阅广度与机构层级上的显著差异。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 24–25)]]
 > 5. **图谱可视化布局与治理诊断** 采用力导向算法（Force-directed Layout）对二部图实施空间排布；结合节点地理层级（国际/区域/国家）配置节点颜色与尺寸，揭示全球知识流通中的结构性断裂。
 
 ---

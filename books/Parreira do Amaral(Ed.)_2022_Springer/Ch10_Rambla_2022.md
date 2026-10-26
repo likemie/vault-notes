@@ -1,5 +1,5 @@
 ---
-citation: "Rambla, X. (2022). Imaginaries of Education and Innovation in the European Union. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 163–178). Springer."
+citation: "Rambla, X. (2022). Imaginaries of education and innovation in the European Union. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation (pp. 163–178). Springer."
 extracted_to:
   - "[[Argument_Rambla_2022_Springer]]"
 processed_date: 2026-05-13

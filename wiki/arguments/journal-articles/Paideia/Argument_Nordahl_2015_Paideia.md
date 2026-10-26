@@ -14,7 +14,7 @@ argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Paideia
-citation: "Nordahl, T. (2015). Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet. Paideia, 9, 61-69."
+citation: "Nordahl, T. (2015). Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet. Paideia, 9, 61–69."
 tags:
 - visible-learning
 - evidence-based-education

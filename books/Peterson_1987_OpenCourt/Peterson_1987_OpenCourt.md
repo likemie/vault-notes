@@ -1,5 +1,5 @@
 ---
-citation: "Peterson, A. D. C. (1987). Schools across frontiers: The story of the International Baccalaureate and the United World Colleges. La Salle, IL: Open Court Publishing Company."
+citation: "Peterson, A. D. C. (1987). Schools across frontiers: The story of the International Baccalaureate and the United World Colleges. Open Court Publishing Company."
 extracted_to:
   - "[[Argument_Peterson_1987_OpenCourt]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch01]]"

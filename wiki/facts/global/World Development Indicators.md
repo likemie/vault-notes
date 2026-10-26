@@ -59,25 +59,25 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 世界发展指标库（World Development Indicators，WDI）是[[World Bank\|世界银行]]向全球各国政府、国际组织与学术研究者免费开放的综合性跨国发展统计数据库，也是世界银行在全球教育治理中推行教育回报率[[Paradigm\|范式]]与[[Human Capital Theory\|人力资本理论]]的核心数据中介工具，其[[Performance Indicators\|教育指标]]子集的历史性膨胀（1989 年 116 项 → 2018 年 1,600 项）清晰标示了世界银行对全球教育统计规制权的持续深化。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
+> 世界发展指标库（World Development Indicators，WDI）是[[World Bank\|世界银行]]向全球各国政府、国际组织与学术研究者免费开放的综合性跨国发展统计数据库，也是世界银行在全球教育治理中推行教育回报率[[Paradigm\|范式]]与[[Human Capital Theory\|人力资本理论]]的核心数据中介工具，其[[Performance Indicators\|教育指标]]子集的历史性膨胀（1989 年 116 项 → 2018 年 1,600 项）清晰标示了世界银行对全球教育统计规制权的持续深化。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 世界银行自 1978 年起系统收集全球发展统计数据；1989 年正式出版《世界发展指标》年度报告（印刷版）；1997 年推出在线数据库（CD-ROM 版），2004 年实现全面免费网络开放，此后持续扩充指标集与地理覆盖范围。
 > - **官方平台与在线门户** 官方在线查询门户为 [World Bank World Development Indicators](https://datatopics.worldbank.org/world-development-indicators/)（数据目录：[DataBank: World Development Indicators](https://databank.worldbank.org/source/world-development-indicators)），提供全球 217 个经济体时间序列指标检索、多维图表导出与批量数据下载。
 > - **发起方与资助机制** 由世界银行数据组（Development Data Group，DECDG）主导，与[[UNESCO\|联合国教科文组织]]统计研究所（[[UNESCO Institute for Statistics\|UIS]]）、[[OECD\|经合组织]]、[[International Monetary Fund|国际货币基金组织]]（IMF）及各国国家统计局合作汇聚数据。
 > - **覆盖范围** 涵盖全球 217 个国家和地区、1,400 余项时间序列指标，教育领域指标自 1989 年的 116 项急剧扩充至 2018 年的逾 1,600 项。
-> - **核心问题导向** 为世界银行设计教育贷款条件、开展[[Systems Approach for Better Education Results\|改善教育成果系统分析法]]（SABER）评估及发布《人力资本指数》（Human Capital Index，HCI）提供可比基准数据，也为全球学术界的[[Return on Investment\|教育投资回报率]]计量研究提供不可替代的原始数据来源。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
+> - **核心问题导向** 为世界银行设计教育贷款条件、开展[[Systems Approach for Better Education Results\|改善教育成果系统分析法]]（SABER）评估及发布《人力资本指数》（Human Capital Index，HCI）提供可比基准数据，也为全球学术界的[[Return on Investment\|教育投资回报率]]计量研究提供不可替代的原始数据来源。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 
 ---
 
 > [!claim] 核心机制假说
-> WDI 的核心机制在于将不可[[Commensuration\|通约]]的全球发展差异浓缩为可跨国直接比较的数字指标，以此为[[World Bank\|世界银行]]构建政策处方提供"客观科学"的数据庇护；指标数量的历史性爆炸式增长本身就是世界银行对全球教育规制[[Discourse|话语]]权持续扩张的制度性证据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
+> WDI 的核心机制在于将不可[[Commensuration\|通约]]的全球发展差异浓缩为可跨国直接比较的数字指标，以此为[[World Bank\|世界银行]]构建政策处方提供"客观科学"的数据庇护；指标数量的历史性爆炸式增长本身就是世界银行对全球教育规制[[Discourse|话语]]权持续扩张的制度性证据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 
 > [!policy-design] 方案设计
 > - **数据收集方式** 整合各国官方行政统计（教育部数据）、人口普查、家庭调查（如[[UNICEF\|儿童基金会]][[Multiple Indicator Cluster Surveys\|MICS]]、世行 LSMS）与国际组织专项调查，经标准化处理后汇入数据库。
@@ -86,7 +86,7 @@ updated: 2026-10-23
 > - **质量控制** 设立元数据文档标准（数据来源、收集方法、覆盖年份、数据差距说明），并与提供原始数据的国际机构建立法定数据共享协议。
 
 > [!citation-card] 世界银行教育指标的自指性扩张
-> 世界银行的报告呈现出高度自指的特征，反复引用自身的评估指标库和内部项目历史，依靠教育回报率经济学测算推销其统一定制处方。其教育领域数据指标的数量从 1989 年的 116 项急剧膨胀至 2018 年的 1,600 余项——这种指标爆炸本身清晰揭示了世界银行对全球教育统计规制话语权的持续深化与扩张。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
+> 世界银行的报告呈现出高度自指的特征，反复引用自身的评估指标库和内部项目历史，依靠教育回报率经济学测算推销其统一定制处方。其教育领域数据指标的数量从 1989 年的 116 项急剧膨胀至 2018 年的 1,600 余项——这种指标爆炸本身清晰揭示了世界银行对全球教育统计规制话语权的持续深化与扩张。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 
 ---
 
@@ -94,7 +94,7 @@ updated: 2026-10-23
 > - **1978–1988 年 — 统计汇编早期积累** [[World Bank\|世界银行]]内部统计部门开始系统整合全球发展数据，主要为内部研究与放贷决策服务，[[Performance Indicators\|教育指标]]仍属于宏观发展统计的附属模块。
 > - **1989 年 — 《世界发展指标》印刷年鉴正式发布** 作为《世界发展报告》的配套统计附件出版，教育统计数据首度以结构化跨国指标集形式公开发布，包含 116 项教育相关指标，标志着世界银行正式将教育统计纳入其发展规制工具链。
 > - **1997–2004 年 — 数字化开放与全球推广** 1997 年发布 CD-ROM 版数据库；2004 年免费网络开放，为全球政府、学者和智库提供一站式教育统计比较平台，大幅降低了世界银行知识产品的获取门槛。
-> - **2010 年代 — [[Human Capital Theory\|人力资本]]指数（HCI）整合** 2018 年世界银行正式推出《人力资本指数》（Human Capital Index），将儿童早期发展、学校学习成绩（[[PISA]]/[[PIRLS]] 等）与成人健康预期寿命整合为单一可比国家排名，依赖 WDI 教育指标子集作为底层数据，进一步强化了世界银行对[[Human Capital Theory\|人力资本]]国际测量[[Discourse|话语]]权的垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
+> - **2010 年代 — [[Human Capital Theory\|人力资本]]指数（HCI）整合** 2018 年世界银行正式推出《人力资本指数》（Human Capital Index），将儿童早期发展、学校学习成绩（[[PISA]]/[[PIRLS]] 等）与成人健康预期寿命整合为单一可比国家排名，依赖 WDI 教育指标子集作为底层数据，进一步强化了世界银行对[[Human Capital Theory\|人力资本]]国际测量[[Discourse|话语]]权的垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 
 ---
 
@@ -108,10 +108,10 @@ updated: 2026-10-23
 > [!indicators] 影响力维度与指标
 > - **数据霸权** WDI 是全球学术文献（特别是发展经济学领域）引用频次最高的宏观数据来源，也是多边援助机构进行国别比较分析时的首选基准数据库。
 > - **政策影响** [[World Bank\|世界银行]]通过 WDI 将教育回报率比较数据（Psacharopoulos & Patrinos 系列）直接嵌入贷款谈判的条件性诊断（Policy Diagnostic）框架，实质上将 WDI 转化为放贷合法性的统计护盾。
-> - **[[Systems Approach for Better Education Results\|SABER]] 联动** [[Systems Approach for Better Education Results\|SABER]] 评估框架直接采用 WDI 指标作为基准对比参照，将 WDI 数字进一步转化为可[[Operationalization\|操作化]]的政策处方依据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
+> - **[[Systems Approach for Better Education Results\|SABER]] 联动** [[Systems Approach for Better Education Results\|SABER]] 评估框架直接采用 WDI 指标作为基准对比参照，将 WDI 数字进一步转化为可[[Operationalization\|操作化]]的政策处方依据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 
 > [!stat-cards]- 核心规模数据
-> 覆盖 217 个经济体；1,400 余项发展指标（其中[[Performance Indicators\|教育指标]]超 100 项）；历史数据追溯至 1960 年代；每年更新频次一次以上；在全球学术数据库引用量常年位居首位。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, p. 542)]]
+> 覆盖 217 个经济体；1,400 余项发展指标（其中[[Performance Indicators\|教育指标]]超 100 项）；历史数据追溯至 1960 年代；每年更新频次一次以上；在全球学术数据库引用量常年位居首位。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 
 ---
 

@@ -65,7 +65,7 @@ updated: 2026-10-26
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2018 年 3 月由澳大利亚联邦政府正式发布；由时任总理马尔科姆·特恩布尔（Malcolm Turnbull）委托商业法律顾问[[David Gonski\|戴维·冈斯基]]（David Gonski）担任审查委员会主席（Australian Government, 2018；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
 > - **适用地区 / 对象** 覆盖全澳各州与领地的公立学校、天主教学校与独立私立学校系统，面向全体中小学教师与学生。
-> - **问题背景** 尽管 Gonski 1.0 改革大幅增加了学校财政拨款，但澳大利亚在[[PISA\|国际学生评估项目]]（PISA）中的[[Academic Achievement\|学业表现]]持续下滑，引发公众对“巨额财政投入未转化为教育质量”的剧烈质疑，亟需确立新的教育卓越标准（[[Argument_Keddie_2020_IJLE\|Keddie et al., 2020b, p. 2]]）。
+> - **问题背景** 尽管 Gonski 1.0 改革大幅增加了学校财政拨款，但澳大利亚在[[PISA\|国际学生评估项目]]（PISA）中的[[Academic Achievement\|学业表现]]持续下滑，引发公众对“巨额财政投入未转化为教育质量”的剧烈质疑，亟需确立新的教育卓越标准（[[Argument_Keddie_2020_IJLE\|Keddie, MacDonald, Blackmore, Wilkinson, et al., 2020, p. 2]]）。
 > - **制度位置** 衔接 2011 年《Gonski 1.0》拨款基准审查，直接作为后续各州与联邦签署《2018年全国学校改革协议》（National School Reform Agreement）及注资 5000 万澳元设立国家证据机构的法定依据；在此期间，[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）以其全资子公司[[Evidence for Learning\|证据学习中心]]（Evidence for Learning, E4L）的运行成效作为样板原型，向审查委员会递交专项建议书，系统推销国家级独立证据中介模式，其核心主张被第 23 条建议全面吸纳（COAG, 2018；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 8]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 525, 531]]）。
 
 ---
@@ -135,4 +135,4 @@ updated: 2026-10-26
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 追踪澳大利亚公立教育中的[[Venture Philanthropy\|风险慈善]]与国家重组网络，揭示 [[Social Ventures Australia\|SVA]] 如何以 [[Evidence for Learning\|E4L]] 运行成效为原型向 Gonski 2.0 审查委员会递交专项建议书，以及报告第 23 条建议如何促成国家向私营中介催化平台的转型。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 运用[[Network Ethnography\|网络民族志]]剖析 Gonski 2.0 第 23 条建议背后的[[Policy Network\|政策网络]]装配，解构冈斯基的商业律师与慈善游说者双重身份及 [[Australian Education Research Organisation\|AERO]] 设立的企业法架构。
-> - [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] — 分析 Gonski 拨款审查如何试图重振需求本位公平原则，以及卓越教育政策重点向绩效产出转移对基层学校自治的影响。
+> - [[Argument_Keddie_2020_IJLE\|Keddie, MacDonald, Blackmore, Wilkinson, et al. (2020)]] — 分析 Gonski 拨款审查如何试图重振需求本位公平原则，以及卓越教育政策重点向绩效产出转移对基层学校自治的影响。

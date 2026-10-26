@@ -5,7 +5,7 @@ subtype: report
 publication_type: report
 title: "Argument_Lester_2005_MIT"
 argument_key: "Argument_Lester_2005_MIT"
-argument_display_title: "Universities, innovation, and the competitiveness of local economies: A summary report from the Local Innovation Systems Project – Phase I (MIT Industrial Performance Center Working Paper 05-010)"
+argument_display_title: "Universities, innovation, and the competitiveness of local economies: A summary report from the Local Innovation Systems Project – Phase I (MIT Industrial Performance Center Working Paper 05–010)"
 argument_kind: "report"
 argument_related_count: 11
 argument_related_level: 1
@@ -14,7 +14,7 @@ argument_related_color: "#dcfce7"
 issuing_organization: "MIT Industrial Performance Center"
 authors:
   - "Lester, R. K."
-citation: "Lester, R. K. (2005). Universities, innovation, and the competitiveness of local economies: A summary report from the Local Innovation Systems Project – Phase I (MIT Industrial Performance Center Working Paper 05-010). Massachusetts Institute of Technology."
+citation: "Lester, R. K. (2005). Universities, innovation, and the competitiveness of local economies: A summary report from the Local Innovation Systems Project – Phase I (MIT Industrial Performance Center Working Paper 05–010). Massachusetts Institute of Technology."
 year: 2005
 doi: ""
 citation_aliases:

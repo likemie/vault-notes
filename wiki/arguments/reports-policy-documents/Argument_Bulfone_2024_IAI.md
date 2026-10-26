@@ -7,7 +7,7 @@ authors:
   - "[[Filippo Bontadini|Bontadini, F.]]"
   - "[[Valentina Meliciani|Meliciani, V.]]"
 source_language: en
-citation: "Bulfone, F., Di Carlo, D., Bontadini, F., & Meliciani, V. (2024). Adjusting to new geopolitical realities: Semiconductors industrial policy in the US and EU (IAI Papers 24 | 13). Rome: Istituto Affari Internazionali."
+citation: "Bulfone, F., Di Carlo, D., Bontadini, F., & Meliciani, V. (2024). Adjusting to new geopolitical realities: Semiconductors industrial policy in the US and EU (IAI Papers 24 | 13). Istituto Affari Internazionali."
 year: 2024
 doi: ""
 citation_aliases:

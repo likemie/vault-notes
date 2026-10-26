@@ -1,5 +1,5 @@
 ---
-citation: "Duncan, R. G., & Chinn, C. A. (2025). Evaluating the Quality of Argumentation: The Role of Epistemic Ideals and Reliable Processes. Cognition and Instruction, 43(3), 201–232. https://doi.org/10.1080/07370008.2025.2497240"
+citation: "Duncan, R. G., & Chinn, C. A. (2025). Evaluating the quality of argumentation: The role of epistemic ideals and reliable processes. Cognition and Instruction, 43(3), 201–232. https://doi.org/10.1080/07370008.2025.2497240"
 extracted_to:
   - "[[Argument_Duncan_2025_CI]]"
 processed_date: 2026-09-10

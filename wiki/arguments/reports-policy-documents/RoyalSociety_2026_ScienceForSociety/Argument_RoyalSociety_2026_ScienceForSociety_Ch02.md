@@ -19,7 +19,7 @@ year: 2026
 isbn: 978-1-78252-829-6
 publication_place: London
 publisher: The Royal Society
-citation: "The Royal Society. (2026). Chapter two: Informal engagement with science. In Science for society: How society and science shape each other (pp. 41–54). London: The Royal Society."
+citation: "The Royal Society. (2026). Chapter two: Informal engagement with science. In Science for society: How society and science shape each other (pp. 41–54)."
 citation_aliases: []
 tags:
   - source/report

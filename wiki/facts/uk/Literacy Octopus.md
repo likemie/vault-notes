@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -137,6 +137,6 @@ updated: 2026-10-22
 
 > [!citation-card] 试验官方独立评估报告与权威综述出处
 > - Lord, P., Rabiasz, A., & Styles, B. (2017). *The Literacy Octopus: Communicating evidence to improve teaching. Evaluation report and executive summary*. [[Education Endowment Foundation]].
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald, T., & Nevill, C. (2021)]]. Working with schools on large-scale [[Randomised Controlled Trials]] in England: The approach of the Education Endowment Foundation. *ECNU Review of Education*, 4(1), 46–66.
-> - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough, D., Langer, L., & Tripney, J. (2022)]]. Intermediary organisations and the [[Evidence Ecosystem]]. In N. Révai (Ed.), *Implementing [[Evidence-Informed Practice]] in Education: An [[OECD]] perspective*. OECD Publishing.
-> - [[Argument_Gorard_2020_ROE\|Gorard, S., See, B. H., & Siddiqui, N. (2020)]]. What is the evidence on the best way to get evidence into use in education? *Review of Education*, 8(2), 570–625.
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]. Working with schools on large-scale [[Randomised Controlled Trials]] in England: The approach of the Education Endowment Foundation. *ECNU Review of Education*, 4(1), 46–66.
+> - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]]. Intermediary organisations and the [[Evidence Ecosystem]]. In N. Révai (Ed.), *Implementing [[Evidence-Informed Practice]] in Education: An [[OECD]] perspective*. OECD Publishing.
+> - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]]. What is the evidence on the best way to get evidence into use in education? *Review of Education*, 8(2), 570–625.

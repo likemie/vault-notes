@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-16
+updated: 2026-10-26
 ---
 
 ---
@@ -200,5 +200,5 @@ updated: 2026-10-16
 ---
 
 > [!evidence-grid-a] 经典理论与方法文献索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 详述主轴编码在[[Grounded Theory\|扎根理论]]编码阶梯中的枢纽定位，系统解析六要素[[Paradigm\|范式]]模型与儿童身体活动实证建模范例（Ch. 30）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 详述主轴编码在[[Grounded Theory\|扎根理论]]编码阶梯中的枢纽定位，系统解析六要素[[Paradigm\|范式]]模型与儿童身体活动实证建模范例（Ch. 30）。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 将主轴编码定位为系统化质性分析中连接[[Open Coding\|开放编码]]范畴与叙事[[Story Line\|故事线]]解释的核心分析步骤（Ch. 9）。

@@ -77,7 +77,7 @@ updated: 2026-10-26
 > - **代表贡献** 早期推动人文主义[[Lifelong Learning\|终身学习]]先驱概念“循环教育”（Recurrent Education）；冷战后期全面执掌与发起[[International Indicators of Education Systems\|国际教育系统指标项目]]（INES），奠定 1992 年首版《[[Education at a Glance\|教育概览]]》（EAG）技术基石；在 1990 年代力主开发跨国能力测试，直接催生了 2000 年 [[PISA]] 的诞生。
 
 > [!citation-card] 人物定位的关键来源
-> 雅尔·本特森在 CERI 执掌三十年，是经合组织实现从‘理念实验室’向‘指标与评估帝国’战略飞跃的灵魂人物；他深知若无坚硬的统计数据与比较基准作为[[Scaffolding\|脚手架]]，国际组织在主权国家的政策辩论中便毫无立足之地。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
+> 雅尔·本特森在 CERI 执掌三十年，是经合组织实现从‘理念实验室’向‘指标与评估帝国’战略飞跃的灵魂人物；他深知若无坚硬的统计数据与比较基准作为[[Scaffolding\|脚手架]]，国际组织在主权国家的政策辩论中便毫无立足之地。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 >
 > *Steering CERI for three decades, Jarl Bengtsson was the visionary architect behind the OECD's strategic leap from an 'ideas laboratory' to an 'indicator and evaluation empire'; he keenly understood that without hard statistical data and comparative benchmarks as scaffolding, international organisations would hold no ground in sovereign policy debates.*
 
@@ -131,7 +131,7 @@ updated: 2026-10-26
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] — 详尽记录本特森在 1980 年代末如何突破各国外交疑虑，开创 [[International Indicators of Education Systems\|INES]] 指标项目并确立 OECD 生产“可计算世界”的技术神话。
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] — 将本特森领导下的 [[Centre for Educational Research and Innovation\|CERI]] 转型确立为 OECD 从技术官僚劳动力预测迈向现代量化[[Policy Brokerage\|政策中介]]的关键枢纽。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 将本特森领导下的 [[Centre for Educational Research and Innovation\|CERI]] 转型确立为 OECD 从技术官僚劳动力预测迈向现代量化[[Policy Brokerage\|政策中介]]的关键枢纽。
 
 ---
 

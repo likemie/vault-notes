@@ -61,13 +61,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] Surplus of Evidence
-> 证据过剩（Surplus of Evidence）是公共政策与比较教育政策学中用于刻画信息超载时代[[Research Utilization|知识利用]]生态的[[Construct|理论构念]]；指在数字化生产与[[Intellectual Capital|知识资本]]急剧繁衍的背景下，可用于同一政策议程的研究文献、统计数据与实证报告呈现出极度饱和与矛盾丛生的状态，导致决策者深陷难以从相互冲突的海量证据洪流中辨别有效行动方向的系统性困境。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 537–538)]]
+> 证据过剩（Surplus of Evidence）是公共政策与比较教育政策学中用于刻画信息超载时代[[Research Utilization|知识利用]]生态的[[Construct|理论构念]]；指在数字化生产与[[Intellectual Capital|知识资本]]急剧繁衍的背景下，可用于同一政策议程的研究文献、统计数据与实证报告呈现出极度饱和与矛盾丛生的状态，导致决策者深陷难以从相互冲突的海量证据洪流中辨别有效行动方向的系统性困境。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 537–538)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向数字经济时代研究证据在数量、渠道与意识形态维度的爆炸性过剩，打破了科学与政策之间的直接供给联结。
@@ -75,7 +75,7 @@ updated: 2026-10-25
 > - **边界** 指向夹杂着大量“信息孤岛（Information Silos）”与商业包装报告的注意力经济赤字状态，并不指代知识的真正普惠与真理澄明。
 
 > [!citation-card] 证据过剩与思想市场下的政策中介崛起
-> 证据过剩（Surplus of Evidence）与思想市场的泛滥，连同信息孤岛的加速扩散，为政策中介机构在[[Knowledge Production\|知识生产]]者与知识使用者之间、科学与政治之间架设桥梁创造了前所未有的历史契机。如果认为更多的研究知识能够减少[[Policy Ambiguity\|政策歧义性]]并自发促进[[Evidence-Based Policy-Making|循证决策]]，那完全是一种虚妄的假设；现实恰恰相反，今日的信息过载构成了各路中介机构茁壮成长的肥沃土壤——它们选择性地汲取研究发现，将其转译为定制化证据，再兜售给身处迷茫中的政府官员。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 537–538)]]
+> 证据过剩（Surplus of Evidence）与思想市场的泛滥，连同信息孤岛的加速扩散，为政策中介机构在[[Knowledge Production\|知识生产]]者与知识使用者之间、科学与政治之间架设桥梁创造了前所未有的历史契机。如果认为更多的研究知识能够减少[[Policy Ambiguity\|政策歧义性]]并自发促进[[Evidence-Based Policy-Making|循证决策]]，那完全是一种虚妄的假设；现实恰恰相反，今日的信息过载构成了各路中介机构茁壮成长的肥沃土壤——它们选择性地汲取研究发现，将其转译为定制化证据，再兜售给身处迷茫中的政府官员。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 537–538)]]
 >
 > *The ‘surplus of evidence’ and the ‘marketplace of ideas’ (Lubienski 2019, 70), as well as the proliferation of information silos (Malin and Lubienski 2022), have generated a renewed opportunity for intermediaries to bridge knowledge producers and knowledge users, or science and politics... It would be wrong to assume that more knowledge reduces ambiguity and facilitates evidence-informed policymaking. The opposite applies. Today’s information overload constitutes fertile ground for the flourishing of individuals and institutions that selectively draw on research.*
 
@@ -97,8 +97,8 @@ updated: 2026-10-25
 > [!feature] 核心要素
 > - **海量文献的认知超载（Cognitive Overload）** 每年[[Emergence|涌现]]数以万计的同行评审成果与智库报告，使得任何决策官员均不可能通读其负责领域的全量文献。
 > - **[[Causality|因果推断]]的结论相悖性（Contradictory Findings）** 由于抽样、情境与方法差异，同一改革举措（如小班化、[[Performance Pay|绩效工资]]）在不同实证报告中呈现出彼此矛盾的[[Effect Size|效应量]]。
-> - **思想市场的资本化游说（Commercialised Marketplace of Ideas）** 智库、商业咨询公司与游说集团为争夺政策关注，竞相将学术成果包装为带有鲜明政治倾向的极简政策简报。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 537–538)]]
-> - **全球与本土供给的网络碎片化（Structural Fragmentation）** 全球 654 个证据平台中 54% 为孤立的国家级平台，呈现极端分散的网络拓扑结构（网络离散度 0.99，含 121 个完全孤立组件），加剧了国家决策者检索有效本土证据的认知阻力。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 21–25)]]
+> - **思想市场的资本化游说（Commercialised Marketplace of Ideas）** 智库、商业咨询公司与游说集团为争夺政策关注，竞相将学术成果包装为带有鲜明政治倾向的极简政策简报。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 537–538)]]
+> - **全球与本土供给的网络碎片化（Structural Fragmentation）** 全球 654 个证据平台中 54% 为孤立的国家级平台，呈现极端分散的网络拓扑结构（网络离散度 0.99，含 121 个完全孤立组件），加剧了国家决策者检索有效本土证据的认知阻力。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 21–25)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -125,7 +125,7 @@ updated: 2026-10-25
 > **思想市场中的逆向选择** 在竞争激烈的思想市场中，政客往往类似“在超市自选商品”，精准挑拣佐证其既定意识形态主张的研究报告，并将不利研究斥为伪科学。
 
 > [!claim] Steiner-Khamsi et al.
-> **歧义性时代的数字庇护** 正是证据过剩打破了理性线性的循证神话；面对互不相让的学术争端，决策者迫切需要数字作为"[[Façade of Rationality|理性表象]]的[[Scaffolding|脚手架]]"，以此向外界宣告其政策拥有坚实的实证基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 538)]]
+> **歧义性时代的数字庇护** 正是证据过剩打破了理性线性的循证神话；面对互不相让的学术争端，决策者迫切需要数字作为"[[Façade of Rationality|理性表象]]的[[Scaffolding|脚手架]]"，以此向外界宣告其政策拥有坚实的实证基础。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 538)]]
 
 ---
 
@@ -135,10 +135,10 @@ updated: 2026-10-25
 > 围绕信息过载如何将治理权力转移至知识包装中介手中展开。
 
 > [!claim] Steiner-Khamsi et al.
-> **从知识制造到[[Policy Brokerage|政策中介]]的重心转移** 在信息过量时代，治理权力的核心在于“在海量数据中提取清晰洞见并建立说服力”的能力；[[OECD|经合组织]]与[[World Bank|世界银行]]正是依托其指标打包与转译技术，在过剩的证据生态中成为各国政府的重要政策导航中枢。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 538, 544)]]
+> **从知识制造到[[Policy Brokerage|政策中介]]的重心转移** 在信息过量时代，治理权力的核心在于“在海量数据中提取清晰洞见并建立说服力”的能力；[[OECD|经合组织]]与[[World Bank|世界银行]]正是依托其指标打包与转译技术，在过剩的证据生态中成为各国政府的重要政策导航中枢。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 538, 544)]]
 
-> [!claim] [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]]
-> **全球证据平台泛滥与本土决策吸纳的结构性脱节** 对全球 103 国证据生态的系统梳理表明，全球范围内存在 654 个活跃证据平台，形成了显著的“证据来源过剩”生态；然而这些平台并未有效支持国家政策规划，54% 的平台处于与国际主流网络完全孤立的断裂状态，74% 未与任何[[Knowledge Mediation|知识经纪]]网络建立正式链接，超六成（62%）教育部委官员因缺乏时间与专业技能而难以吸收技术性报告。这表明未经情境化转译与制度支持的海量证据堆积，反而阻断了知识向政策的有效转化。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 21–25)]]
+> [!claim] [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]]
+> **全球证据平台泛滥与本土决策吸纳的结构性脱节** 对全球 103 国证据生态的系统梳理表明，全球范围内存在 654 个活跃证据平台，形成了显著的“证据来源过剩”生态；然而这些平台并未有效支持国家政策规划，54% 的平台处于与国际主流网络完全孤立的断裂状态，74% 未与任何[[Knowledge Mediation|知识经纪]]网络建立正式链接，超六成（62%）教育部委官员因缺乏时间与专业技能而难以吸收技术性报告。这表明未经情境化转译与制度支持的海量证据堆积，反而阻断了知识向政策的有效转化。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 21–25)]]
 
 ---
 
@@ -146,14 +146,14 @@ updated: 2026-10-25
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **策略挪用命题** | 证据过剩为政客提供了丰富的[[Social Science as Legitimation Alibi\|合法化借口]]与选择性选秀空间 | 存在高度政治争议与党派分歧的教育改革决策 | Lubienski (2019); [[Gita Steiner-Khamsi\|Steiner-Khamsi]] |
-> | **中介权力重构命题** | 信息过载推动政策权力从中立学术界转移至中介打包机构，全球平台泛滥与本土决策吸纳严重脱节 | 数字时代全球治理复合体与[[Knowledge Bank\|知识银行]]运作 | [[Gita Steiner-Khamsi\|Steiner-Khamsi et al. (2024)]]; [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] |
+> | **中介权力重构命题** | 信息过载推动政策权力从中立学术界转移至中介打包机构，全球平台泛滥与本土决策吸纳严重脱节 | 数字时代全球治理复合体与[[Knowledge Bank\|知识银行]]运作 | [[Gita Steiner-Khamsi\|Steiner-Khamsi et al. (2024)]]; [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **1970–1980 年代 — [[Research Utilization|知识利用]]匮乏说（Caplan [[Two-Communities Theory|两社区理论]]）** 传统认知普遍认为决策失误源于学术研究太少、学者与官员缺乏接触的“信息匮乏”。
 > - **2010 年代 — 证据过剩与思想市场批判** Lubienski 等学者提出“证据过剩”与“信息孤岛”，指出智库与新自由主义网络导致政策界充斥着相互打架的过剩数据。
-> - **2024 年至今 — [[Governing by Numbers|数字治理]] 2.0 时代的中介霸权与全球平台测绘** Steiner-Khamsi、Martens 与 Ydesen（2024）将证据过剩确立为理解跨国[[Policy Brokerage|政策中介]]、[[Soft Power by Hard Facts|以硬事实施展软权力]]的生态基石；[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] 进一步通过全球 103 国调查与 654 个平台拓扑测绘，实证揭示全球证据过剩与国家决策吸纳不足并存的结构性悖论。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 537–538)]]
+> - **2024 年至今 — [[Governing by Numbers|数字治理]] 2.0 时代的中介霸权与全球平台测绘** Steiner-Khamsi、Martens 与 Ydesen（2024）将证据过剩确立为理解跨国[[Policy Brokerage|政策中介]]、[[Soft Power by Hard Facts|以硬事实施展软权力]]的生态基石；[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] 进一步通过全球 103 国调查与 654 个平台拓扑测绘，实证揭示全球证据过剩与国家决策吸纳不足并存的结构性悖论。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 537–538)]]
 
 ---
 
@@ -169,12 +169,12 @@ updated: 2026-10-25
 > > 全球证据平台的泛滥是否能够直接改善各成员国本土政策制定。
 > >
 > > - **全球集中平台论** 主张依托集中式数据库和全球标准证据库提供通用的有效性证据。
-> > - **本土适切与区域枢纽论（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al., 2024a]]）** 指出全球证据平台与国家需求严重脱节，唯有依托区域支持枢纽提供情境化转译，方能克服证据过剩带来的信息孤岛。
+> > - **本土适切与区域枢纽论（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al., 2024]]）** 指出全球证据平台与国家需求严重脱节，唯有依托区域支持枢纽提供情境化转译，方能克服证据过剩带来的信息孤岛。
 >
 > ---
 
 > [!critique] 外部批评
-> - **虚假确定性批判** 学者指责中介机构为了应对证据过剩，往往采用过度简化的“三大启示”、“五条金律”迎合快节奏决策，抹杀了复杂教育现象背后的真实不确定性与边界条件。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 544)]]
+> - **虚假确定性批判** 学者指责中介机构为了应对证据过剩，往往采用过度简化的“三大启示”、“五条金律”迎合快节奏决策，抹杀了复杂教育现象背后的真实不确定性与边界条件。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
 
 > [!warning] 适用局限
 > 证据过剩主要存在于宏观政策论辩与具备充足科研投入的领域；在弱势儿童特殊教育、边缘少数民族语言教学等微观边缘领域，严谨的实证证据依然严重不足。
@@ -188,11 +188,11 @@ updated: 2026-10-25
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b, pp. 537–538, 547)]] | 北欧五国（挪威、瑞典、丹麦、芬兰、冰岛）教育立法文献池 | 政策咨询文献计量与引文网络追踪 | 专家报告证据库规模与最终行政采纳数 | 仅挪威 5 个能力委员会即汇集 464 篇参考文献，但最终仅有 22 篇被部长法令采纳，引文损耗率达 95.3% | 全样本追踪 | 提供了决策系统在面对海量证据过剩时实施极端政治过滤与指标筛减的直接实证数据 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a, pp. 21–25)]] | 覆盖 103 国 898 名政策受访者的全球调查及 33 名[[Elite Interview\|关键知情人访谈]] | 全球网络[[Questionnaire\|问卷调查]]与关键知情人访谈 | 证据机构与平台数量、受访者平台使用率与来源过剩共识 | 受访者共识别出 654 个证据平台与倡议；受访专家一致认同当前存在证据来源过剩而非匮乏；54% 的证据来源为国家级且与国际平台处于松散或无连接状态（网络离散度 0.99，含 121 个完全孤立组件）；74% 平台未与任何中介网络链接；62% 部委官员报告缺乏解读技术性报告的时间与能力 | 全球样本覆盖五大区域 | 实证确立了全球教育领域证据来源过剩与国家决策吸纳不足并存的结构性悖论 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024, pp. 537–538, 547)]] | 北欧五国（挪威、瑞典、丹麦、芬兰、冰岛）教育立法文献池 | 政策咨询文献计量与引文网络追踪 | 专家报告证据库规模与最终行政采纳数 | 仅挪威 5 个能力委员会即汇集 464 篇参考文献，但最终仅有 22 篇被部长法令采纳，引文损耗率达 95.3% | 全样本追踪 | 提供了决策系统在面对海量证据过剩时实施极端政治过滤与指标筛减的直接实证数据 |
+> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024, pp. 21–25)]] | 覆盖 103 国 898 名政策受访者的全球调查及 33 名[[Elite Interview\|关键知情人访谈]] | 全球网络[[Questionnaire\|问卷调查]]与关键知情人访谈 | 证据机构与平台数量、受访者平台使用率与来源过剩共识 | 受访者共识别出 654 个证据平台与倡议；受访专家一致认同当前存在证据来源过剩而非匮乏；54% 的证据来源为国家级且与国际平台处于松散或无连接状态（网络离散度 0.99，含 121 个完全孤立组件）；74% 平台未与任何中介网络链接；62% 部委官员报告缺乏解读技术性报告的时间与能力 | 全球样本覆盖五大区域 | 实证确立了全球教育领域证据来源过剩与国家决策吸纳不足并存的结构性悖论 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024b)]] — 提出[[Governing by Numbers|数字治理]] 2.0 议程，将证据过剩与信息超载作为[[Policy Brokerage|政策中介]]机构崛起与主权国家选择性挪用证据的根本制度背景。
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 基于全球 103 国调查与 654 个平台梳理，实证确证教育证据过剩与国家吸纳不足并存，揭示研究与决策、全球与本土之间的[[Two Broken Feedback Loops|双重反馈回路断裂]]。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] — 提出[[Governing by Numbers|数字治理]] 2.0 议程，将证据过剩与信息超载作为[[Policy Brokerage|政策中介]]机构崛起与主权国家选择性挪用证据的根本制度背景。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 基于全球 103 国调查与 654 个平台梳理，实证确证教育证据过剩与国家吸纳不足并存，揭示研究与决策、全球与本土之间的[[Two Broken Feedback Loops|双重反馈回路断裂]]。

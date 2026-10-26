@@ -345,7 +345,7 @@ updated: 2026-10-26
 > > Glass et al. (1981) 认为研究间差异可以编码为调节[[Variable|变量]]来处理；Eysenck (1978) 与 Morrison (2001) 认为[[Construct|构念]][[Operationalization|操作化]]或 [[Randomised Controlled Trials|RCT]] 执行条件的差异不可调和，编码只是掩盖了根本的不可比性。
 >
 > > [!axis] 平均值还是变异地图
-> > Glass 本人强调[[Meta-analysis|元分析]]的结果“永远不应只是一个平均值”，而应是一幅展示变异分布的地图（引自 [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 119]]）；[[Argument_Hattie_2015_Paideia\|Hattie (2015a)]] 也把元分析定位为探索[[Heterogeneity|异质性]]与调节变量的工具。批评者回应，问题恰恰在于实践中流传最广的正是平均值与排名 ([[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]])。
+> > Glass 本人强调[[Meta-analysis|元分析]]的结果“永远不应只是一个平均值”，而应是一幅展示变异分布的地图（引自 [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 119]]）；[[Argument_Hattie_2015_Paideia\|Hattie (2015b)]] 也把元分析定位为探索[[Heterogeneity|异质性]]与调节变量的工具。批评者回应，问题恰恰在于实践中流传最广的正是平均值与排名 ([[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]])。
 >
 > > [!axis] 程序改进能否解决前提问题
 > > Wolf (1986) 的十条建议、Gorard (2001) 的四步模型以及 Thomas and Pring (2004) 对明确[[Research Question|研究问题]]与概念框架的呼吁，都试图以改进程序回应批评。但如果可比、输入可容忍、合并有意义这些前提本身不成立，改进程序只会让错误更加系统化。

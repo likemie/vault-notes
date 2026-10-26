@@ -233,7 +233,7 @@ updated: 2026-10-26
 >
 > - **2015** 推出 [[Visible Classroom]] 应用，由英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）资助 36 万英镑试点；培生集团发布其思想领导力文章，连接学术与商业跨国网络；[[Danish Public School Reform|丹麦公立学校改革]]引发《可见的学习》本土化激烈争辩。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015)]]
 >
-> - **2016–2023** [[Department for Education|英国教育部]] Coldwell et al. 报告将其列为官方认可证据来源；接受丹麦学者克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）跨国质询，坦承自居统计测量人员以规避理论审查的说辞，明确指出“理论主导并统治证据解释”，揭示其每年为特许运营商 Cognition Education 提供 30 天差旅以换取 23 国数万名一线师生实践数据独家分析权的商业反哺治理机制，并以班级规模[[Determinism|决定论]]作为可见学习模型的波普尔式[[Falsification|证伪]]判据；出任澳大利亚[[Educational Brokerage Agency\|证据中介机构]][[Evidence for Learning]]（E4L）学校专家咨询委员会（Schools Expert Reference Council）主席，为澳大利亚版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》及指导指南的本土化研发提供核心专家指导；澳大利亚广播公司（Australian Broadcasting Corporation，ABC）纪录片《革命学校》将其描绘为公共教育拯救者；在学术界遭遇伪科学与[[Neo-Taylorism\|新泰勒主义]]系统批判的同时，转向三阶段学习模型并反思“结果的暴政”；北欧政策咨询网络实证揭示其研究在法定行政法令起草中遭遇断崖式引文清洗。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 547–548)]]
+> - **2016–2023** [[Department for Education|英国教育部]] Coldwell et al. 报告将其列为官方认可证据来源；接受丹麦学者克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）跨国质询，坦承自居统计测量人员以规避理论审查的说辞，明确指出“理论主导并统治证据解释”，揭示其每年为特许运营商 Cognition Education 提供 30 天差旅以换取 23 国数万名一线师生实践数据独家分析权的商业反哺治理机制，并以班级规模[[Determinism|决定论]]作为可见学习模型的波普尔式[[Falsification|证伪]]判据；出任澳大利亚[[Educational Brokerage Agency\|证据中介机构]][[Evidence for Learning]]（E4L）学校专家咨询委员会（Schools Expert Reference Council）主席，为澳大利亚版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》及指导指南的本土化研发提供核心专家指导；澳大利亚广播公司（Australian Broadcasting Corporation，ABC）纪录片《革命学校》将其描绘为公共教育拯救者；在学术界遭遇伪科学与[[Neo-Taylorism\|新泰勒主义]]系统批判的同时，转向三阶段学习模型并反思“结果的暴政”；北欧政策咨询网络实证揭示其研究在法定行政法令起草中遭遇断崖式引文清洗。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
 >
 > - **2024 至今** 持续滚动扩充其维护的全球最大教育元分析数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；2025 年瑞典学者卡尔门达尔（Kalmendal）团队发表里程碑式的[[Preregistration|预注册]]全量[[Metascience|元科学]]审计（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]），对《可见的学习》全库 322 项影响因素展开详尽检验，证实其仅 19% 满足[[Research Question|研究问题]]纳入基准且数据提取复现率仅 0.66%，直接撼动了该体系作为循证政策基石的合法性；2026 年与 Jansen 等学者合作在《教育心理学评论》（*Educational Psychology Review*）发表实证评测（[[Argument_Jansen_2026_EPR|Jansen et al., 2026]]），以其数据库为基准检验大语言模型数据提取准确性并揭示人机混合质控[[Paradigm|范式]]。
 
@@ -257,7 +257,7 @@ updated: 2026-10-26
 >
 > - **2016 至今 — 排名反思、三阶段学习模型与跨国治理批判阶段** 此阶段主要回应学界关于伪科学、[[Neo-Taylorism\|新泰勒主义]]监控的指控以及在北欧等国政策咨询中的治理落差。
 >   - **代表著作** Hattie and Donoghue (2016) *[[Learning Strategies|Learning strategies]]: a synthesis and conceptual model*；Hattie (2020) *Lessons from Lockdown*；Hattie (2023) *Visible Learning: The Sequel*。[[Argument_Blass_2020_JESP\|(Blass, 2020, pp. 95–96)]]
->   - **关键概念／方法** 三输入（技能/意愿/激情）三阶段（表层/深层/迁移）模型、“结果的暴政”（Tyranny of Outcomes）、[[Structural Coupling\|结构耦合]]、法定行政法令引文过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b, pp. 547–548)]]
+>   - **关键概念／方法** 三输入（技能/意愿/激情）三阶段（表层/深层/迁移）模型、“结果的暴政”（Tyranny of Outcomes）、[[Structural Coupling\|结构耦合]]、法定行政法令引文过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
 >   - **阶段转向** 放弃单一线性排行榜，承认教学干预的阶段变异与[[Problem-Based Learning\|基于问题的学习]]（Problem-Based Learning，PBL）在迁移阶段的价值，反思证据本位对教育复杂性的遮蔽；跨国实证进一步解构了其作为个体学术权威在主权国家硬性规制中的制度穿透局限。
 
 ---
@@ -286,7 +286,7 @@ updated: 2026-10-26
 > - **理论路径** 撼动了 1970–1990 年代以学生为中心的[[Radical Constructivism\|激进建构主义]]教学浪漫主义，重新确立了[[Direct Instruction\|直接教学]]、显性教学与[[Mastery Learning|掌握学习]]在教学论中的正当性；推动将师生认知互动、[[Metacognition\|元认知监控]]与反馈循环整合为统一的课堂[[Effective Teaching\|有效教学]]模型；晚期提出的三阶段学习模型推动了[[Surface and Deep Learning\|表层学习]]到深层概念迁移的[[Epistemology\|认识论]]建构。
 > - **方法路径** 开创并普及了教育领域的大规模[[Meta-meta-analysis\|元综合]]方法论，将跨越数十年、涉及数千万样本的[[Heterogeneity\|异质性]]研究统一置于以标准差为基准的通用连续体（$d$ 指标）上；首创[[Effect Size\|效应量]]“关节点”（$d=0.40$）与影响气压计可视化工具，成为全球循证政策与智库证据工具箱（如英国 [[Education Endowment Foundation\|EEF]] Toolkit）的标准参考框架。
 > - **政策路径** 深度嵌入盎格鲁-撒克逊国家的国家教育标准制定：成为[[New Zealand National Standards\|新西兰国家标准]]和教师评估工具（[[Assessment Tools for Teaching and Learning\|asTTle]]）的基石；直接主导澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）的国家专业标准制定；成为澳大利亚维多利亚州高影响教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）的核心蓝本；被英国教育部 Coldwell et al.（2017）列为官方认可证据来源。[[Argument_Bainbridge_2022_ROE\|(Bainbridge et al., 2022, p. 4)]]
-> - **跨国／跨领域传播** 从学术专著演变为覆盖至少 35 个国家的跨国商业与[[Policy Brokerage|政策中介]]特许网络；依托[[Cognition Education|认知教育]]注册排他性跨国商标 [[Visible Learning Branding and Global Influences|Visible Learningplus]]，推出 16 个标准化教师培训工作坊与认证体系；联合科技企业开发按次收费的 [[Visible Classroom]] 软件并与跨国出版巨头深度合作，开辟了将公共科研成果转化为排他性知识产权的全链条政策创业路径；在斯堪的纳维亚半岛（挪威、丹麦、瑞典）被转译为推动学校组织变革与数据协作的支点，重塑[[Professional Judgment|专业判断]]与[[Knowledge Mobilisation|知识动员]]。[[Argument_Nordahl_2015_Paideia|(Nordahl, 2015, pp. 61–69)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–70)]]；引发丹麦 2014 学校改革的激烈公共争议；在俄罗斯引发标准化课程应用论争；在跨国[[Governing by Numbers|数字治理]]实证中揭示出主权国家在硬性行政法令起草中对个体学术明星的断崖式过滤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 547–548)]]
+> - **跨国／跨领域传播** 从学术专著演变为覆盖至少 35 个国家的跨国商业与[[Policy Brokerage|政策中介]]特许网络；依托[[Cognition Education|认知教育]]注册排他性跨国商标 [[Visible Learning Branding and Global Influences|Visible Learningplus]]，推出 16 个标准化教师培训工作坊与认证体系；联合科技企业开发按次收费的 [[Visible Classroom]] 软件并与跨国出版巨头深度合作，开辟了将公共科研成果转化为排他性知识产权的全链条政策创业路径；在斯堪的纳维亚半岛（挪威、丹麦、瑞典）被转译为推动学校组织变革与数据协作的支点，重塑[[Professional Judgment|专业判断]]与[[Knowledge Mobilisation|知识动员]]。[[Argument_Nordahl_2015_Paideia|(Nordahl, 2015, pp. 61–69)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–70)]]；引发丹麦 2014 学校改革的激烈公共争议；在俄罗斯引发标准化课程应用论争；在跨国[[Governing by Numbers|数字治理]]实证中揭示出主权国家在硬性行政法令起草中对个体学术明星的断崖式过滤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hattie_2005_ACER\|Hattie, 2005]] — 在 [[Australian Council for Educational Research\|ACER]] 大会发表奠基性论文，首次系统提出 $d=0.40$ 关节点、30% 教师方差份额模型与 asTTle 形成性问责理论体系。
@@ -299,7 +299,7 @@ updated: 2026-10-26
 > - [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019]] — 从[[Niklas Luhmann\|卢曼]]系统论与[[Structural Coupling\|结构耦合]]视角为 Hattie 辩护，批判意识形态解释社群。
 > - [[Argument_Golovchin_2019_ESC\|Golovchin, 2019]] — 变差系数（56.87%）与极端离散度检验：解构 $d=0.40$ 基准有效性，警示脱离教师地位与生源条件的机械实证排名风险。
 > - [[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022]] — 审视英国教育政策将 Hattie 列为官方认可证据来源的治理效应。
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024b]] — 揭示北欧五国政策咨询网络在法定规制阶段对 Hattie et al. 学术明星的海量引文过滤。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024]] — 揭示北欧五国政策咨询网络在法定规制阶段对 Hattie et al. 学术明星的海量引文过滤。
 > - [[Argument_Nielsen_2021_IRTP\|Nielsen & Klitmøller, 2021b]] — 从[[Critical Theory|批判理论]]视角剖析 Hattie 理论核心的[[Positivism|实证主义]][[Technical Rationality|技术理性]]，揭示其流行实质在于化解晚期现代教育系统的[[Legitimation Crisis|合法化危机]]。
 
 ---
@@ -382,7 +382,7 @@ updated: 2026-10-26
 > >
 > > - **Eacott 以及 McKnight and Whitburn** 定性其为[[Neo-Taylorism|新泰勒主义]]监控与“[[Cult of the Guru|大师崇拜]]”，将微观教学拆解为原子化可测量单元，以进步主义修辞包装[[Positivism|实证主义]]考核与新自由主义问责。[[Argument_Eacott_2017_SLM|(Eacott, 2017)]]; [[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020)]]
 > > - **O'Neill et al. 以及 Johnson and Janzen** 揭示政策制定者脱离语境滥用证据，系统追踪其依托 [[Educational Management Organisation|EMO]] [[Dual-Entity Legal Structure|双层法人架构]]在公共研发（[[Assessment Tools for Teaching and Learning|asTTle]]）、非营利顾问与营利特许之间的无缝切换，披露其 5 年间获取 86.9 万新西兰元版税并享有免税庇护的制度套利机制。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
-> > - **Steiner-Khamsi et al.** 揭示跨国政策中介的制度落差：在北欧政策咨询网络中，专家咨询报告虽高频引用哈蒂，但在法定行政法令阶段被清洗过滤超 95%，个体学术明星威权远逊于 [[OECD]] 等跨国治理复合体。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 547–548)]]
+> > - **Steiner-Khamsi et al.** 揭示跨国政策中介的制度落差：在北欧政策咨询网络中，专家咨询报告虽高频引用哈蒂，但在法定行政法令阶段被清洗过滤超 95%，个体学术明星威权远逊于 [[OECD]] 等跨国治理复合体。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
 >
 > > [!axis] 教育哲学审视：[[Technical Rationality|技术理性]]、盲视框架与 [[Bildung]] 替代
 > > 质询技术理性在教育系统中的合法化功能，以及对潜隐性、历时性非外显学习维度的系统性[[Screening Off|屏蔽]]。
@@ -409,7 +409,7 @@ updated: 2026-10-26
 > - [[Argument_Nielsen_2021_IRTP\|Nielsen & Klitmøller, 2021b]] — 哈贝马斯合法化危机视角：技术理性核心满足政治合法化需求。
 > - [[Argument_Nielsen_2021_NordPsych\|Nielsen & Klitmøller, 2021a]] — [[Behaviorism|行为主义]]理论谱系审查：反馈效应核心元分析概念偷换。
 > - [[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]] — [[Cargo Cult Science\|货物崇拜科学]]批判：方法不透明与新自由主义私有化循环。
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024b]] — 跨国政策中介分析：法定行政法令起草阶段对个体学术明星引文的断崖式过滤。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024]] — 跨国政策中介分析：法定行政法令起草阶段对个体学术明星引文的断崖式过滤。
 > - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]] — 首个针对全库 322 个影响因素的预注册元科学审计：实证证实仅 19% 满足 PICO 标准且数据提取复现率仅 0.66%，系统性瓦解了其证据基础。
 > - [[Argument_Jansen_2026_EPR\|Jansen et al., 2026]] — 大模型[[Automated Data Extraction\|自动化数据提取]]准确性评测：揭示 Hattie 既有数据库历史人工录入存在 57 处独有偏离（[[Intraclass Correlation Coefficient\|ICC]] = 0.81）。
 

@@ -23,7 +23,7 @@ doi: ""
 citation_aliases:
   - "Kazamias, 2009a"
   - "Kazamias (2009a)"
-citation: "Kazamias, A. M. (2009). Comparative Education: Historical Reflections. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 139–157). Dordrecht: Springer."
+citation: "Kazamias, A. M. (2009). Comparative education: Historical reflections. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 139–157). Springer."
 tags:
   - subject/comparative-education
   - theme/epistemology

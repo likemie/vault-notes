@@ -50,7 +50,7 @@ updated: 2026-10-26
 > - **输出形式** 历年发文量增长曲线、引文频次分布、高被引文献排行榜、共被引网络聚类图谱、关键词共现网络及主题演化流向图。
 
 > [!citation-card] 科学图谱与文献计量的计算定位
-> 文献计量分析旨在运用文本分析与引文分析计算技术，生成研究领域的全景图景。该方法是识别核心研究议题并利用计算途径呈现学术宏观图景的标准化范式。通过关键词分析识别核心主题演进，借助共被引分析生成学科领域全景并提取知识聚类。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 64)]]
+> 文献计量分析旨在运用文本分析与引文分析计算技术，生成研究领域的全景图景。该方法是识别核心研究议题并利用计算途径呈现学术宏观图景的标准化范式。通过关键词分析识别核心主题演进，借助共被引分析生成学科领域全景并提取知识聚类。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 64)]]
 >
 > *Bibliometric analysis aims to generate a picture of a research field using both text analysis and citation analysis. It is a way of identifying core research topics and illustrating an academic landscape using a computational approach. Here, we used a keyword analysis to identify important themes in education and public health research and how those have changed over time. We also used a co-citation analysis to generate an overview of the field and to extract research clusters.*
 
@@ -106,4 +106,4 @@ updated: 2026-10-26
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a, pp. 29–32)]] — 运用文献计量分析比对公共卫生与教育循证政策研究的发文增长率（30.5% vs 23.6%）与共被引网络，揭示教育证据研究社群高度自指与分散碎片的结构特征。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024, pp. 29–32)]] — 运用文献计量分析比对公共卫生与教育循证政策研究的发文增长率（30.5% vs 23.6%）与共被引网络，揭示教育证据研究社群高度自指与分散碎片的结构特征。

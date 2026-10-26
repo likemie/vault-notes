@@ -14,7 +14,7 @@ argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: "Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation"
-citation: "Boyadjieva, P. (2022). (Un)avoidable clash: Higher education at the altar of its missions and rankings. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation (pp. 125–142). Cham: Springer."
+citation: "Boyadjieva, P. (2022). (Un)avoidable clash: Higher education at the altar of its missions and rankings. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation (pp. 125–142). Springer."
 publication_place: "Cham"
 publisher: "Springer"
 tags:

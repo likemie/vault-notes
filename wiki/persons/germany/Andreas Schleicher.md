@@ -71,18 +71,18 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国籍统计学家与[[International Education\|国际教育]]政策专家，[[OECD\|经合组织]]（[[OECD]]）教育与技能司司长（Director for Education and Skills）兼秘书长教育政策特别顾问。
-> - **核心角色** [[PISA\|国际学生评估项目]]（[[PISA]]）的总设计师（Chief Architect）与领军人物；将经合组织从传统二战后经济协调机构，转型为集数据开发、最佳实践共享与政策咨询于一体的全球教育[[Knowledge Mediation\|知识中介]]（[[Policy Brokerage]]）超级平台。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
+> - **核心角色** [[PISA\|国际学生评估项目]]（[[PISA]]）的总设计师（Chief Architect）与领军人物；将经合组织从传统二战后经济协调机构，转型为集数据开发、最佳实践共享与政策咨询于一体的全球教育[[Knowledge Mediation\|知识中介]]（[[Policy Brokerage]]）超级平台。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]
 > - **代表贡献** 主导创建并持续扩充国际学生评估项目（[[PISA]]）；领导开发[[Teaching and Learning International Survey\|教师教学国际调查]]（TALIS）与[[Programme for the International Assessment of Adult Competencies\|成人能力国际评估]]（PIAAC）；确立以“跨国指标对照与软法规制”为核心的全球量化治理[[Paradigm\|范式]]。
 
 > [!citation-card] 经合组织独特全球知识枢纽定位
-> 经合组织为数据与分析、经验交流、最佳实践共享以及公共政策建议和国际标准制定提供了一个独特的平台与知识枢纽。（Schleicher et al., 2021, p. 1；引自 [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]）
+> 经合组织为数据与分析、经验交流、最佳实践共享以及公共政策建议和国际标准制定提供了一个独特的平台与知识枢纽。（Schleicher et al., 2021, p. 1；引自 [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]）
 >
 > *[T]he organisation [OECD] provides a unique forum and knowledge hub for data and analysis, exchange of experiences, best-practice sharing, and advice on public policies and international standard-setting.*
 
@@ -93,7 +93,7 @@ updated: 2026-10-22
 > - **1986–1993** 在[[IEA\|国际教育成就评价协会]]（[[IEA]]）担任数据分析主管，主导阅读素养调查（[[Research Literacy Scale for Teachers\|RLS]]）并参与第三次国际数学与科学研究（[[TIMSS]]）先期取样与统计规程设计。
 > - **1994–2001** 加入[[OECD\|经合组织]]（[[OECD]]），担任[[Performance Indicators\|教育指标]]与分析处副处长，推动[[International Indicators of Education Systems\|国际教育指标项目]]（[[International Indicators of Education Systems\|INES]]）制度化，并构思启动[[PISA\|国际学生评估项目]]（[[PISA]]）的跨文化素养测量框架。
 > - **2002–2012** 担任经合组织教育指标与分析处处长兼 PISA 项目特别顾问，主导 PISA 历次三年期全球放榜，将测评对象由成员国大幅扩展至非成员国及全球南方发展中经济体（[[PISA for Development]]）。
-> - **2012–至今** 升任经合组织教育与技能司司长兼秘书长教育政策特别顾问，全面掌舵经合组织教育旗舰矩阵；2014 年直接面对全球 83 位学者联合发起的公开抗议信并发表官方辩护。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 123)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
+> - **2012–至今** 升任经合组织教育与技能司司长兼秘书长教育政策特别顾问，全面掌舵经合组织教育旗舰矩阵；2014 年直接面对全球 83 位学者联合发起的公开抗议信并发表官方辩护。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 123)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]
 
 ---
 
@@ -101,7 +101,7 @@ updated: 2026-10-22
 > - **1999 — *Measuring Student Knowledge and Skills: A New Framework for Assessment*** 奠基性评估框架，确立 [[PISA]] 脱离学校课程教材记忆、转向测量 15 岁学生在现实情境中迁移与应用高阶知识能力的评价逻辑。
 > - **2014 — *PISA 2012 Results: What Makes Schools Successful*** 系统总结全球高绩效学校治理特征，提出[[School Autonomy\|学校自主权]]、专业协作文化与基于证据的自我诊断是卓越体系的核心驱动力。
 > - **2018 — *World Class: How to Build a 21st-Century School System*** 个人代表专著，系统整合[[OECD\|经合组织]]二十年跨国评估实证洞见，倡导从工业时代的流水线科层教育向面向 21 世纪的专业化、自适应与全球素养现代学习生态转型。
-> - **2021 — *OECD Studies and the Case of PISA, [[Programme for the International Assessment of Adult Competencies\|PIAAC]], and [[Teaching and Learning International Survey\|TALIS]]*** 与 Ikeda, Thorn, & Tremblay 合著，系统解构经合组织如何将大规模跨国评估工具打包，构筑起主导全球教育公共政策咨询与标准制定的专业[[Discourse|话语]]网络。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
+> - **2021 — *OECD Studies and the Case of PISA, [[Programme for the International Assessment of Adult Competencies\|PIAAC]], and [[Teaching and Learning International Survey\|TALIS]]*** 与 Ikeda, Thorn, & Tremblay 合著，系统解构经合组织如何将大规模跨国评估工具打包，构筑起主导全球教育公共政策咨询与标准制定的专业[[Discourse|话语]]网络。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]
 
 ---
 
@@ -116,10 +116,10 @@ updated: 2026-10-22
 > [!influence-path] 影响路径
 > - **方法路径** 将复杂[[Matrix Sampling|矩阵抽样]]、[[Item Response Theory\|项目反应理论]]（IRT）与多重填补技术标准化运用于跨国大规模教育测评，确立了全球学生素养量化测量的技术[[Paradigm\|范式]]。
 > - **政策路径** 依托三年一度的 [[PISA]] 放榜在全球掀起“PISA 冲击（[[PISA Shock]]）”，促使德国、日本、挪威等主权国家重构国家[[21st Century Skills and Competencies Discourse\|核心素养]]框架、设立中央评估督导机构并将教育治理逻辑彻底转向输出导向。
-> - **全球治理路径** 亲手缔造了[[OECD\|经合组织]]在全球教育治理中的“软法与硬事实帝国”，将原本不具有任何教育法定管辖权的经济组织，打造成超越联合国专门机构的全球首要教育[[Policy Brokerage\|政策中介]]枢纽。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
+> - **全球治理路径** 亲手缔造了[[OECD\|经合组织]]在全球教育治理中的“软法与硬事实帝国”，将原本不具有任何教育法定管辖权的经济组织，打造成超越联合国专门机构的全球首要教育[[Policy Brokerage\|政策中介]]枢纽。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 权威援引其文献，揭示其作为 PISA 总设计师如何超越短期媒体轰动，将经合组织建构成规制全球公共政策的标准设定中枢。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 权威援引其文献，揭示其作为 PISA 总设计师如何超越短期媒体轰动，将经合组织建构成规制全球公共政策的标准设定中枢。
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 系统解构施莱歇尔在媒体发布会上使用的 147 张演示幻灯片，揭示其迎合传媒逻辑、推销新自由主义治理愿景的技术修辞。
 > - [[Argument_Zhao_2020_JEC\|Zhao (2020)]] — 批判其利用东方威权[[Examination-Oriented Education\|应试教育]]体系的“自我谴责”特质粉饰 PISA 排名，进而误导西方教育政策改革。
 > - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 批判施莱歇尔与经合组织在 2018 年哥本哈根会议提出的 21 世纪技能[[Discourse|话语]]，揭示其如何将教育简化为不可预测未来的适应性伺服工具，遮蔽了德意志教化传统的规范性自主追求。
@@ -127,7 +127,7 @@ updated: 2026-10-22
 ---
 
 > [!citation-card] 施泰纳-哈姆西等论 [[PISA]] 总设计师与全球知识枢纽
-> 比较教育政策研究往往局限于议程设定阶段，强调国际参照（尤其是对[[OECD\|经合组织]]知识产品及 PISA 衍生产品的参照）在唤醒问题意识、构建联盟与动员学校改革资金方面的积极作用。然而，大规模跨国测评的设计者所渴望施加的影响，绝不仅仅是在每隔几年发布成绩时制造公众舆论的欢呼或抗议。正如经合组织 PISA 总设计师施莱歇尔及其同事所指出：经合组织为数据与分析、经验交流、最佳实践共享以及公共政策建议和国际标准制定提供了一个独特的平台与知识枢纽。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 547)]]
+> 比较教育政策研究往往局限于议程设定阶段，强调国际参照（尤其是对[[OECD\|经合组织]]知识产品及 PISA 衍生产品的参照）在唤醒问题意识、构建联盟与动员学校改革资金方面的积极作用。然而，大规模跨国测评的设计者所渴望施加的影响，绝不仅仅是在每隔几年发布成绩时制造公众舆论的欢呼或抗议。正如经合组织 PISA 总设计师施莱歇尔及其同事所指出：经合组织为数据与分析、经验交流、最佳实践共享以及公共政策建议和国际标准制定提供了一个独特的平台与知识枢纽。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 547)]]
 >
 > *In comparative education policy studies, there is a tendency to focus on agenda setting and point out the salutary effects of international references, such as references to OECD knowledge products (in particular PISA-related products), for creating problem awareness, coalition building, and mobilizing financial resources for school reform. However, the architects of [[International Large-Scale Assessments\|ILSAs]] desire to exert a much bigger impact than merely creating public uproars or celebrations every few years when the results are released. According to Schleicher, the chief architect of OECD’s PISA, and his associates: [T]he organisation [OECD] provides a unique forum and knowledge hub for data and analysis, exchange of experiences, best-practice sharing, and advice on public policies and international standard-setting.*
 

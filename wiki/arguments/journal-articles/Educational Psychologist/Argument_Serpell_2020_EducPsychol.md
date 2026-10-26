@@ -4,7 +4,7 @@ type: argument
 authors:
   - "[[Zewelanji N. Serpell|Serpell, Z. N.]]"
 source_language: en
-citation: "Serpell, Z. N. (2020). Supporting the integration of evidence into federal educational policy and reform efforts: A navigational framework for educational researchers. Educational Psychologist, 55(1), 40-48. https://doi.org/10.1080/00461520.2019.1700798"
+citation: "Serpell, Z. N. (2020). Supporting the integration of evidence into federal educational policy and reform efforts: A navigational framework for educational researchers. Educational Psychologist, 55(1), 40–48. https://doi.org/10.1080/00461520.2019.1700798"
 year: 2020
 doi: "10.1080/00461520.2019.1700798"
 citation_aliases:

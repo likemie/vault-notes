@@ -17,7 +17,7 @@ argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
 issuing_organization: Durham University
-citation: "Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S. (2015). Making the Most of the Evidence: Evidence-based policy in the classroom. CHESS Working Paper No. 2015-03, Durham University."
+citation: "Cowen, N., Cartwright, N., Virk, B., & Mascarenhas-Keyes, S. (2015). Making the most of the evidence: Evidence-based policy in the classroom. CHESS Working Paper No. 2015–03, Durham University."
 tags:
 - evidence-based-education
 - policy-implementation

@@ -1,5 +1,5 @@
 ---
-citation: "Rizvi, F. & Lingard, B. (2009). The OECD and Global Shifts in Education Policy. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 437–453). Dordrecht: Springer."
+citation: "Rizvi, F. & Lingard, B. (2009). The OECD and global shifts in education policy. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 437–453). Springer."
 extracted_to:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 processed_date: 2026-10-13

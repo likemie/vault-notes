@@ -4,7 +4,7 @@ type: argument
 authors:
   - "[[William A. Sandoval|Sandoval, W. A.]]"
 source_language: en
-citation: "Sandoval, W. A. (2005). Understanding students' practical epistemologies and their influence on learning through inquiry. Science Education, 89(4), 634-656."
+citation: "Sandoval, W. A. (2005). Understanding students' practical epistemologies and their influence on learning through inquiry. Science Education, 89(4), 634–656."
 year: 2005
 doi: 10.1002/sce.20065
 citation_aliases:

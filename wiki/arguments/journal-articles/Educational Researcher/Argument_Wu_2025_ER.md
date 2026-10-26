@@ -7,7 +7,7 @@ authors:
   - "Chai, C. S."
   - "[[Chin-Chung Tsai|Tsai, C.-C.]]"
 source_language: en
-citation: "Wu, J.-Y., Lee, Y.-H., Chai, C. S., & Tsai, C.-C. (2025). Strengthening Human Epistemic Agency in the Symbiotic Learning Partnership With Generative Artificial Intelligence. Educational Researcher, 54(6), 358–368. https://doi.org/10.3102/0013189X251333628"
+citation: "Wu, J.-Y., Lee, Y.-H., Chai, C. S., & Tsai, C.-C. (2025). Strengthening human epistemic agency in the symbiotic learning partnership with generative artificial intelligence. Educational Researcher, 54(6), 358–368. https://doi.org/10.3102/0013189X251333628"
 year: 2025
 doi: "10.3102/0013189X251333628"
 citation_aliases:

@@ -59,7 +59,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -185,4 +185,4 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 结合 [[Catch Up Numeracy]] 等实证案例，系统剖析商业测验天花板与地板效应如何侵蚀 [[Randomised Controlled Trials\|RCT]] [[Causality\|因果推断]]效度，并阐述 [[Education Endowment Foundation\|EEF]] 建立前置测量工具库的治理经验。
-> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei, Ding, & Chiu (2026)]] — 在跨学段[[Meta-analysis\|元分析]]中反思学业测评工具难度受限对认知干预[[Effect Size\|效应量]]的潜在衰减效应。
+> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] — 在跨学段[[Meta-analysis\|元分析]]中反思学业测评工具难度受限对认知干预[[Effect Size\|效应量]]的潜在衰减效应。

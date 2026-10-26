@@ -113,7 +113,7 @@ related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 status: active
 created: 2026-08-24
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -207,7 +207,7 @@ updated: 2026-10-25
 > [!concept-lens] 显性思维训练与[[Scaffolding\|支架式教学]]的支撑机制
 > 考察高阶思维在具体学科情境中的可塑性，以及结构化任务设计如何防止学生陷入盲目猜测或低水平讨论。
 
-> [!claim] [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei, Ding & Chiu (2026)]]
+> [!claim] [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]]
 > **空间组织支架对思维过程与倾向的优先赋能** 元分析实证表明，[[Graphic Organizer\|图形组织器]]（如[[Mind Mapping\|思维导图]]、[[Argument Mapping\|论证图]]与[[Concept Mapping\|概念图]]）作为空间认知脚手架对高阶思维具有显著促进作用（$g = 0.778, 95\%\text{ CI} = [0.649, 0.907]$）；其对高阶思维倾向（$g = 0.945$）与高阶认知过程（$g = 0.912$）的促进效应显著高于终结性技能结果（$g = 0.560, p < .001$），对[[Divergent Thinking\|发散思维]]（$g = 1.167$）的提升亦显著高于聚合思维（$g = 0.680$）。这表明结构化外在表征工具能够优先激活生成性认知加工与探究心向，进而支撑高阶技能的内化。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3, 9–11)]]
 
 > [!claim] 综合认知科学研究
@@ -282,7 +282,7 @@ updated: 2026-10-25
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **社会建构赋能** | 异质性同伴互动与结构化协商是激发分析、评价、创造与批判性思维的核心机制。 | 课堂教学设计、探究式学习与[[21st Century Skills and Competencies Discourse\|核心素养]]改革 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]; Siagian et al. (2023); Solissa et al. (2023) |
-> | **认知支架支撑** | 高阶思维依赖显性认知脚手架（如图形组织器等空间表征工具）与[[Metacognition\|元认知]]监控，优先赋能思维过程与倾向。 | 教学工具开发、跨学科项目式学习与深度评价 | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei, Ding & Chiu (2026)]]; Resnick (1987); Ghanizadeh et al. (2020); Kim (2025) |
+> | **认知支架支撑** | 高阶思维依赖显性认知脚手架（如图形组织器等空间表征工具）与[[Metacognition\|元认知]]监控，优先赋能思维过程与倾向。 | 教学工具开发、跨学科项目式学习与深度评价 | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]]; Resnick (1987); Ghanizadeh et al. (2020); Kim (2025) |
 > | **技术认知外化** | 智能技术承担低阶机械算法释放[[Working Memory\|工作记忆]]，赋能计算思维与批判探究。 | 人工智能教育应用（AIEd）、程序设计与自适应教学系统 | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]]; Dibek et al. (2025); Yilmaz and Karaoglan Yilmaz (2023) |
 > | **人机双向共现** | 高阶思维分化为双向协同增益、非对称演进与双重侵蚀，取决于反思脚手架。 | 高等教育生成式 AI 学习、人机协同探究与学术写作 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; Strobl et al. (2024); Fan et al. (2025) |
 > | **认知穿透级差** | 技术促学效应随心智加工深度单调递减，高阶思维与元认知面临渗透阻抗。 | 高等教育人机协同学习、深度探究与批判性思维教学 | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] |

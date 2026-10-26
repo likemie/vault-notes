@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -73,14 +73,14 @@ updated: 2026-10-23
 > [!org-evolution] 组织发展历程
 > - **2021–2022** **治理架构重塑与三大职能确立**
 >
->   全球教育会议部长级会议正式批准重组决议，确立高级别指导委员会的三大跨领域法定职能，摆脱以往全球协调松散分散的局限。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 13)]]
+>   全球教育会议部长级会议正式批准重组决议，确立高级别指导委员会的三大跨领域法定职能，摆脱以往全球协调松散分散的局限。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 13)]]
 >
 >   - **2021年7月** 全球教育会议部长级会议审议通过全球教育合作机制新提案，正式授权组建高级别指导委员会。
 >   - **2021年10月** 组建职能领域一（FA1）参考专家组并委托开展循证政策战略审查。
 >
 > - **2022–至今** **转型峰会跟进与循证行动深化**
 >
->   全面承担联合国教育变革峰会（Transforming Education Summit, TES）全球行动跟进职责，推进三大职能领域的制度化落地。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 13, 40)]]
+>   全面承担联合国教育变革峰会（Transforming Education Summit, TES）全球行动跟进职责，推进三大职能领域的制度化落地。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 13, 40)]]
 >
 >   - **2022年9月** 联合国教育变革峰会指定委员会作为全球峰会行动承诺的官方跟进与监督机制。
 >   - **2024年** 依据战略审查成果，启动建立跨区域循证支持枢纽，推进全球研究成果向国家政策实践转化。
@@ -101,13 +101,13 @@ updated: 2026-10-23
 ---
 
 > [!finding-cards] 核心业务与职能矩阵
-> - **职能领域一：循证政策制定与执行（FA1）** 识别并推广国家层面的有效改革方案，支持各区域搭建[[Knowledge Mediation|知识中介]]平台，填补全球学术生产与本土教育规划之间的应用鸿沟。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 13, 40)]]
+> - **职能领域一：循证政策制定与执行（FA1）** 识别并推广国家层面的有效改革方案，支持各区域搭建[[Knowledge Mediation|知识中介]]平台，填补全球学术生产与本土教育规划之间的应用鸿沟。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 13, 40)]]
 > - **职能领域二：数据可用性与进展监测（FA2）** 依托[[UNESCO Institute for Statistics|教科文组织统计研究所]]（UIS）与《[[Global Education Monitoring Report|全球教育监测报告]]》（GEM Report），追踪各成员国国家基准指标达成度，提高教育行政管理信息系统质量。
 > - **职能领域三：资金动员与资源对齐（FA3）** 推动国际捐助方资金对准国家教育战略重点，协同[[World Bank|世界银行]]、[[Global Partnership for Education|全球教育伙伴关系]]（GPE）等机构优化援助投向。
 > - **战略行动倡导与评估** 定期发布全球教育变革行动进展简报，评估成员国在教师赋能、数字学习与全包容教育方面的制度落地成效。
 
 > [!citation-card] 职能领域一的法定授权与战略意图
-> 职能领域一的核心使命在于巩固、放大并深化不同行动主体已经建立起来的既有举措，促进循证政策制定与规划落地。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 13)]]
+> 职能领域一的核心使命在于巩固、放大并深化不同行动主体已经建立起来的既有举措，促进循证政策制定与规划落地。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 13)]]
 >
 > *“The focus of this function is not creating a new separate initiative, but about consolidating, amplifying and deepening the initiatives already being developed by diverse actors.”*
 
@@ -132,4 +132,4 @@ updated: 2026-10-23
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 受委员会委托对其跨领域职能领域一（FA1）开展系统性战略审查，剖析证据利用中的双重反馈断裂并提出变革路线图。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 受委员会委托对其跨领域职能领域一（FA1）开展系统性战略审查，剖析证据利用中的双重反馈断裂并提出变革路线图。

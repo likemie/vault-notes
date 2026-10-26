@@ -14,7 +14,7 @@ argument_related_color: "#dcfce7"
 authors:
   - "World Bank Group"
 source_language: en
-citation: "World Bank Group. (2019). Teach: Observer manual (1st ed.). World Bank, Washington, DC."
+citation: "World Bank Group. (2019). Teach: Observer manual (1st ed.). World Bank."
 year: 2019
 doi: ""
 citation_aliases:

@@ -19,7 +19,7 @@ publication_place: Dordrecht
 publisher: Springer
 year: 2009
 isbn: 978-1-4020-6402-9
-citation: "Mattheou, D. (2009). The Scientific Paradigm in Comparative Education. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 59–71). Dordrecht: Springer."
+citation: "Mattheou, D. (2009). The scientific paradigm in comparative education. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 59–71). Springer."
 citation_aliases:
   - "Mattheou, 2009"
   - "Mattheou (2009)"

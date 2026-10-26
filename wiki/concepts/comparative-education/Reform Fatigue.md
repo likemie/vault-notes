@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -54,10 +54,10 @@ updated: 2026-10-23
 > - **边界** 区别于国家放弃所有渐进式改良，特指新自由主义式大包大揽、根本性宏观制度推倒重来的退潮与微观务实化。
 
 > [!def] Reform Fatigue
-> 改革疲惫（Reform Fatigue，亦称政策疲惫或改革巩固期）是由斯坦福大学学者帕特丽夏·布罗姆利（Patricia Bromley）等人基于对 1960–2017 年间全球 147 个国家共 6,700 项教育改革的大数据计量所证实，并在吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者的[[UNESCO|教科文组织]]全球战略审查中被用于诊断当代教育证据利用转型的宏观历史[[Construct|构念]]。该构念揭示，新自由主义全球教育改革浪潮在 2000 年前后达到峰值，并在 2017 年前后几乎停滞；伴随新冠疫情对基层教育系统的严重破坏，教育治理进入深度改革疲惫与消化巩固期。这一趋势促使国际多边机构逐步放弃推动自上而下全盘制度推倒重建的冲动，转向聚焦于中观治理（meso-level）与学校微观层面具体教学创新的适切性规模化。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 16–17)]]
+> 改革疲惫（Reform Fatigue，亦称政策疲惫或改革巩固期）是由斯坦福大学学者帕特丽夏·布罗姆利（Patricia Bromley）等人基于对 1960–2017 年间全球 147 个国家共 6,700 项教育改革的大数据计量所证实，并在吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者的[[UNESCO|教科文组织]]全球战略审查中被用于诊断当代教育证据利用转型的宏观历史[[Construct|构念]]。该构念揭示，新自由主义全球教育改革浪潮在 2000 年前后达到峰值，并在 2017 年前后几乎停滞；伴随新冠疫情对基层教育系统的严重破坏，教育治理进入深度改革疲惫与消化巩固期。这一趋势促使国际多边机构逐步放弃推动自上而下全盘制度推倒重建的冲动，转向聚焦于中观治理（meso-level）与学校微观层面具体教学创新的适切性规模化。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 16–17)]]
 
 > [!citation-card] 宏观改革停滞与中观治理转向
-> 布罗姆利等人分析了[[OECD|经合组织]]与[[World Bank|世界银行]]政策出版物中收录的 1960–2017 年间 147 个国家的 6,700 项教育改革，表明新自由主义教育改革浪潮在 2000 年左右达到峰值，到 2017 年几乎停滞。疫情可能进一步加剧了改革疲惫或改革巩固的趋势。几大国际组织目前投资于规模化创新，而非推进新的根本性制度变革。仔细审视这一点可以发现，推广创新对宏观政策的影响较小，对规划与执行的影响更大，其核心在于强化教育系统中的中观层面与学校层面。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 16–17)]]
+> 布罗姆利等人分析了[[OECD|经合组织]]与[[World Bank|世界银行]]政策出版物中收录的 1960–2017 年间 147 个国家的 6,700 项教育改革，表明新自由主义教育改革浪潮在 2000 年左右达到峰值，到 2017 年几乎停滞。疫情可能进一步加剧了改革疲惫或改革巩固的趋势。几大国际组织目前投资于规模化创新，而非推进新的根本性制度变革。仔细审视这一点可以发现，推广创新对宏观政策的影响较小，对规划与执行的影响更大，其核心在于强化教育系统中的中观层面与学校层面。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 16–17)]]
 >
 > *Bromley et al. demonstrate that the wave of neoliberal education reforms peaked around 2000, coming almost to a standstill by 2017. The pandemic has likely exacerbated the trend of reform fatigue or reform consolidation... Unsurprisingly, several international organizations currently invest in scaling innovations rather than advancing new fundamental reforms. Looking closer at this, the act of scaling innovations has less implications for policy but more for planning and implementation. It entails strengthening the meso-level and the school level in the education system.*
 
@@ -68,9 +68,9 @@ updated: 2026-10-23
 ---
 
 > [!feature] 核心表现特征
-> - **宏观立法趋同停滞** 国家教育部委对外部输入的宏观改革模板产生审美疲劳，纯粹宣布宏观指标的法案出台频次显著回落。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 16)]]
+> - **宏观立法趋同停滞** 国家教育部委对外部输入的宏观改革模板产生审美疲劳，纯粹宣布宏观指标的法案出台频次显著回落。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 16)]]
 > - **末梢[[Absorptive Capacity|吸收能力]]过载与制度脱节** 一线学校与教师面对重叠累加的外部评估指标产生疲态，形式合规与实际课堂实践之间出现明显的制度脱节（[[Cognitive Decoupling|Decoupling]]）。
-> - **治理需求向中观规划层转移** 政策研究需求从部长的立法听证，下沉至督导员、教研员与学区长（meso-level officials）的具体实施与干预落地支持。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 17)]]
+> - **治理需求向中观规划层转移** 政策研究需求从部长的立法听证，下沉至督导员、教研员与学区长（meso-level officials）的具体实施与干预落地支持。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 17)]]
 
 ---
 

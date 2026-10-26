@@ -43,20 +43,20 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 东南非教育质量监测联盟（Southern and Eastern Africa Consortium for Monitoring Educational Quality, SACMEQ）是 1995 年由[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（IIEP）联合南部与东部非洲 15 个国家教育部共同设立的区域大规模[[Academic Achievement|学业成就]]评估项目。该项目专注于采集小学六年级学生的阅读与数学学力数据，并系统监测学校物质设施、[[Teacher Subject Matter Knowledge|教师学科知识]]与教学资源分布，是非洲大陆历史最悠久、政策影响力最深远的区域教育评价基础设施。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 8, 16)]]
+> 东南非教育质量监测联盟（Southern and Eastern Africa Consortium for Monitoring Educational Quality, SACMEQ）是 1995 年由[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（IIEP）联合南部与东部非洲 15 个国家教育部共同设立的区域大规模[[Academic Achievement|学业成就]]评估项目。该项目专注于采集小学六年级学生的阅读与数学学力数据，并系统监测学校物质设施、[[Teacher Subject Matter Knowledge|教师学科知识]]与教学资源分布，是非洲大陆历史最悠久、政策影响力最深远的区域教育评价基础设施。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 8, 16)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1995 年正式立项并启动首轮调查，常态化按多年度周期推进，已先后完成 SACMEQ I、II、III、IV 四轮跨国大规模调查。
 > - **官方平台与数据发布** 官方在线门户为 [SEACMEQ (SACMEQ)](https://www.seacmeq.org/)（亦可查阅教科文组织国际教育规划研究所专题库 [IIEP-UNESCO SACMEQ](https://www.iiep.unesco.org/)），提供历轮东南非区域测评报告、政策简报与抽样技术文档。
 > - **发起方与资助机制** 发起方为 [[UNESCO]] IIEP 及 15 个非洲成员国教育部，运行经费依托成员国教育部常态会费分摊，并获得荷兰政府、瑞士发展合作署及多边机构定向赠款资助。
 > - **覆盖范围与对象** 覆盖博茨瓦纳、肯尼亚、莱索托、马拉维、毛里求斯、莫桑比克、纳米比亚、塞舌尔、南非、斯威士兰、坦桑尼亚、乌干达、赞比亚与津巴布韦等 15 个国家，每轮抽样数万名小学六年级学生及其教师与校长。
-> - **核心问题导向** 针对[[Education for All|全民教育]]（EFA）普及背景下非洲学校生师比失衡、教材匮乏、读写算术能力下滑及城乡教育资源极端不均衡等严峻挑战。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 16)]]
+> - **核心问题导向** 针对[[Education for All|全民教育]]（EFA）普及背景下非洲学校生师比失衡、教材匮乏、读写算术能力下滑及城乡教育资源极端不均衡等严峻挑战。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 16)]]
 
 ---
 
@@ -71,7 +71,7 @@ updated: 2026-10-23
 > - **1995–1999 — SACMEQ I 奠基与阅读基线期** 在 8 个先导国家实施首轮测试，建立非洲本土阅读能力分级评价标准，为多国初等教育扩张确立基础质量警戒线。
 > - **2000–2005 — SACMEQ II 学科扩充与教师知识测量期** 成员国拓展至 14 国，正式增设数学测试，首次将教师学科知识水平与艾滋病毒/健康知识纳入评估框架。
 > - **2006–2012 — SACMEQ III 跨期比较与系统诊断期** 覆盖 15 国逾 6 万名学生，系统揭示非洲不同社会经济阶层儿童之间的学力鸿沟，数据被广泛用于[[World Bank|世界银行]]等援助决策。
-> - **2013–至今 — SACMEQ IV 机构自主运营与战略转型期** 秘书处从巴黎 IIEP 正式迁往博茨瓦纳哈博罗内，实现非洲本土化自主治理；在教科文组织全球战略审查中被列为区域大规模测评调动政治共识的代表标杆。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 16)]]
+> - **2013–至今 — SACMEQ IV 机构自主运营与战略转型期** 秘书处从巴黎 IIEP 正式迁往博茨瓦纳哈博罗内，实现非洲本土化自主治理；在教科文组织全球战略审查中被列为区域大规模测评调动政治共识的代表标杆。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 16)]]
 
 ---
 
@@ -82,4 +82,4 @@ updated: 2026-10-23
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 记录 SACMEQ 在全球教育证据生态中作为区域大规模测评的独特地位，分析其在动员政治共识与支撑政策规划中的功能（pp. 8, 16）。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 记录 SACMEQ 在全球教育证据生态中作为区域大规模测评的独特地位，分析其在动员政治共识与支撑政策规划中的功能（pp. 8, 16）。

@@ -60,13 +60,13 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!def] Datafication of Learning
-> **学习数据化（Datafication of Learning）** 是指在全球教育治理量化转向与[[New Public Management\|新公共管理]]结果规制的影响下，教育系统通过将外部绩效问责逻辑内化并将其转译为从“教学”（Teaching）向“学习”（Learning）的重心转移，进而把学习者的认知发展、情感态度与[[Academic Achievement\|学业表现]]彻底转化为离散的数字编码、跨国基准与标准化测评数据的社会技术过程。这一过程将原本深植于课堂情境、人际互动与文化脉络中的复杂育人活动，剥离、提炼并[[Commensuration\|通约化]]为跨时空可比的指标流，使[[Governing at a Distance\|远处治理]]、算法审计与跨国[[Policy Borrowing\|政策借用]]成为可能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
+> **学习数据化（Datafication of Learning）** 是指在全球教育治理量化转向与[[New Public Management\|新公共管理]]结果规制的影响下，教育系统通过将外部绩效问责逻辑内化并将其转译为从“教学”（Teaching）向“学习”（Learning）的重心转移，进而把学习者的认知发展、情感态度与[[Academic Achievement\|学业表现]]彻底转化为离散的数字编码、跨国基准与标准化测评数据的社会技术过程。这一过程将原本深植于课堂情境、人际互动与文化脉络中的复杂育人活动，剥离、提炼并[[Commensuration\|通约化]]为跨时空可比的指标流，使[[Governing at a Distance\|远处治理]]、算法审计与跨国[[Policy Borrowing\|政策借用]]成为可能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 546)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认知、反思与成长等活态教育经验被全面技术化还原为机器可读、可计算、可存储的数字表征与资产形态。
@@ -74,7 +74,7 @@ updated: 2026-10-22
 > - **边界** 区别于一般的教育[[Informationalization\|信息化]]基础设施建设（如宽带、硬件铺设）；它特指关于“何为有效学习”的评价权与定义权向算法化、量化指标的大规模让渡。
 
 > [!citation-card] 学习数据化作为系统论反思与治理规制的核心载体
-> 在教育系统中，以结果为导向的规制被转译为从教学向学习的转变（Fenwick, Mangez, and Ozga 2014），这一动向最终导致了学习的数据化（Thoutenhoofd 2018）。用系统论的语言来说，系统“对外部参照点的内部建构”（Mangez and Vanden Broeck 2020）产生了额外的意义，有助于再生产自身认同并生产确定性。根据卢曼（1995, p. 481）的观点，外在化或此类拟似外部参照点的建构充当了“规制性理念”，仔细审视便会发现它们本质上是“仅当被假定为有效时才具备有效性的投射”。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
+> 在教育系统中，以结果为导向的规制被转译为从教学向学习的转变（Fenwick, Mangez, and Ozga 2014），这一动向最终导致了学习的数据化（Thoutenhoofd 2018）。用系统论的语言来说，系统“对外部参照点的内部建构”（Mangez and Vanden Broeck 2020）产生了额外的意义，有助于再生产自身认同并生产确定性。根据卢曼（1995, p. 481）的观点，外在化或此类拟似外部参照点的建构充当了“规制性理念”，仔细审视便会发现它们本质上是“仅当被假定为有效时才具备有效性的投射”。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 546)]]
 >
 > *In the system of education, results-based regulation was translated into a shift from teaching to learning (Fenwick, Mangez, and Ozga 2014), a move that ultimately resulted in a 'datafication' of learning (Thoutenhoofd 2018). In the language of systems theory, the system’s 'internal construction of external points of reference' generates additional meaning, helps reproduce its identity, and produces certainty. According to Luhmann (1995, 481), externalisation or the construction of such quasi-external points of reference serve as 'regulative ideas', which on closer examination are 'projections' that 'are valid only "as if" they were valid.'*
 
@@ -97,7 +97,7 @@ updated: 2026-10-22
 ---
 
 > [!feature] 核心要素
-> - **从“教”向“学”的[[Discourse|话语]]位移** 新自由主义公共行政通过贬低传统的投入规制（如教师编制、办学历史、师训课程），将注意力压倒性地引向产出端的“学生学到了什么”，为数据化铺平意识形态道路。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
+> - **从“教”向“学”的[[Discourse|话语]]位移** 新自由主义公共行政通过贬低传统的投入规制（如教师编制、办学历史、师训课程），将注意力压倒性地引向产出端的“学生学到了什么”，为数据化铺平意识形态道路。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 546)]]
 > - **微观认知经验的[[Commensuration\|通约化]]与离散化** 复杂的思维过程、情绪韧性与道德体验被转化为离散的代码与连续性量表，原本不具有可比性的不同文化背景学生被纳入同一标尺。
 > - **[[Governing at a Distance\|远处治理]]与算法化审计** 学习数据化打破了学校围墙的物理边界，使[[UNESCO\|联合国教科文组织]]、[[OECD\|经合组织]]等超国家机构能够直接透过数据流对成员国课堂实施远程规制。
 > - **教育数据的资产化与市场提炼** 学习生成的数据流被国际商业资本（如 Pearson、McKinsey）与慈善基金会捕获，转化为可变现的算法模型、培训软件与咨询服务合同。
@@ -128,7 +128,7 @@ updated: 2026-10-22
 > **治理知识对教育重心的[[Paradigm\|范式]]重塑** 现代教育监管的核心技术是通过比较与专业知识重构教育；新自由主义结果规制并不能直接生硬地套用在教师身上，它必须将自身包装为“以学生学习为中心”的人文进步话语，从而使全方位的学习监测获得伦理合法性。
 
 > [!claim] [[Gita Steiner-Khamsi\|Steiner-Khamsi, G.]]
-> **内部建构外部参照点以完成规制性投射** 教育系统内部将外部治理压力转译为“学习成效”的追踪测量，本质上是在系统内部建构一套“仿佛客观有效”的外部数据参照系（如 [[PISA]] 基准）；这种数据化再生产了教育系统的功能，并为行政精英提供了规制本国教育的确定性依据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
+> **内部建构外部参照点以完成规制性投射** 教育系统内部将外部治理压力转译为“学习成效”的追踪测量，本质上是在系统内部建构一套“仿佛客观有效”的外部数据参照系（如 [[PISA]] 基准）；这种数据化再生产了教育系统的功能，并为行政精英提供了规制本国教育的确定性依据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 546)]]
 
 ---
 
@@ -148,7 +148,7 @@ updated: 2026-10-22
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **话语转译命题** | 结果规制借由“教向学转移”的话语掩护，演进为全方位的学习数据化 | [[New Public Management\|新公共管理]]改革下的现代基础教育与高等教育质量评估 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]; Fenwick et al. (2014) |
+> | **话语转译命题** | 结果规制借由“教向学转移”的话语掩护，演进为全方位的学习数据化 | [[New Public Management\|新公共管理]]改革下的现代基础教育与高等教育质量评估 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]; Fenwick et al. (2014) |
 > | **认识异化与资产化命题** | 数据化通过通约去语境化重塑教育认知，并将学习过程转化为数字经济资产 | 全球跨国测评体系、商业教育技术平台与多边数据联盟 | Thoutenhoofd (2018); Birch and Muniesa (2020) |
 
 ---
@@ -167,7 +167,7 @@ updated: 2026-10-22
 > > [!axis] 教育公平争鸣：精准扶智诊断 vs 新型算法歧视
 > > 围绕学习数据化究竟是赋权弱势学生的诊断工具，还是固化阶层区隔的新型技术隔离机制。
 > >
-> > - **多边倡导者与数据专家** 认为细粒度的学习数据能够精准识别“[[Learning Crisis|学习贫困]]”（Learning Poverty）群体，为教育干预提供前所未有的科学靶向。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
+> > - **多边倡导者与数据专家** 认为细粒度的学习数据能够精准识别“[[Learning Crisis|学习贫困]]”（Learning Poverty）群体，为教育干预提供前所未有的科学靶向。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 546)]]
 > > - **批判教育社会学家** 指出算法模型往往内嵌主导阶级的[[Cultural Capital\|文化资本]]偏见，学习数据化实质上制造了新型的“数字红线”，将贫困边缘群体打上失败标签并实施自动化排斥。
 >
 > > [!axis] 育人本质争鸣：[[Visible Learning\|可见的学习]]成效 vs 教学艺术的窄化与异化
@@ -177,7 +177,7 @@ updated: 2026-10-22
 > > - **欧陆教化（[[Bildung]]）传统学者** 抨击数据化是将生命还原为数字的“测验还原论”，导致学校彻底沦为应试与指标跑分工厂，瓦解了师生之间深沉的伦理与情感联结。
 
 > [!critique] 外部批评
-> - **数据主权侵蚀与数字新殖民主义** 全球南方的基础学习数据被[[World Bank\|世行]]、[[Building Evidence in Education\|BE2]] 联盟与西方商业平台免费吸纳、分析与垄断，而受援国却丧失了对自己国民认知数据的解释权与治理自主性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> - **数据主权侵蚀与数字新殖民主义** 全球南方的基础学习数据被[[World Bank\|世行]]、[[Building Evidence in Education\|BE2]] 联盟与西方商业平台免费吸纳、分析与垄断，而受援国却丧失了对自己国民认知数据的解释权与治理自主性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 545–546)]]
 
 > [!warning] 适用局限
 > 该概念聚焦于批判性制度与文化宏观社会学透视，不适合用于微观课堂环境下具体的心理测量模型参数校准或技术排障。
@@ -191,9 +191,9 @@ updated: 2026-10-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 全球 147 国教育政策（[[World Education Reform Database\|WERD]] 数据库，6,700 份政策文本）及跨国 IGO 指标库 | 跨国文本计量与多边治理比较分析 | 世界银行[[Performance Indicators\|教育指标]]规模、[[Learning Data Compact\|学习数据协定]]覆盖范围 | [[World Bank\|世行]]教育指标由 1989 年 116 项激增至 2018 年 1,600 项；三大机构联合推展学习数据协定建立全球指标流水线 | — | 宏观全景实证，有力佐证学习数据化在跨国层面的指数级扩张与治理制度化 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | 全球 147 国教育政策（[[World Education Reform Database\|WERD]] 数据库，6,700 份政策文本）及跨国 IGO 指标库 | 跨国文本计量与多边治理比较分析 | 世界银行[[Performance Indicators\|教育指标]]规模、[[Learning Data Compact\|学习数据协定]]覆盖范围 | [[World Bank\|世行]]教育指标由 1989 年 116 项激增至 2018 年 1,600 项；三大机构联合推展学习数据协定建立全球指标流水线 | — | 宏观全景实证，有力佐证学习数据化在跨国层面的指数级扩张与治理制度化 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 在探讨[[Policy Brokerage\|政策中介]]沿政策周期的运作时，运用系统论外在化与学习数据化概念，揭示新自由主义结果规制如何被转译为微观[[Performance Indicators\|教育指标]]流水线。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 在探讨[[Policy Brokerage\|政策中介]]沿政策周期的运作时，运用系统论外在化与学习数据化概念，揭示新自由主义结果规制如何被转译为微观[[Performance Indicators\|教育指标]]流水线。

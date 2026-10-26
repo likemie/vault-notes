@@ -67,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -78,7 +78,7 @@ updated: 2026-10-25
 > [!concept-lens] 概念透镜
 > - **含义** 这组概念关注学生的[[Learning Intentions\|学习意图]]、材料组织方式，以及学习活动能否完成当前任务，不以记忆数量作为唯一标准。
 > - **用途** 它把学习质量与教学设计连接起来。教师可以通过目标、活动、互动和评估，改变学生完成任务时采用的学习方式。
-> - **边界** 表层知识具有基础作用，记忆也不必然等于[[Rote Learning\|机械学习]]。需要判断事实性知识是学习终点，还是建立联系、解释和迁移的基础。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 80, 84–85)]]
+> - **边界** 表层知识具有基础作用，记忆也不必然等于[[Rote Learning\|机械学习]]。需要判断事实性知识是学习终点，还是建立联系、解释和迁移的基础。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 80, 84–85)]]
 
 > [!boundary]- 概念边界
 > - **不用于给学生分类** 把 Robert 称为表层学习者，会把可改变的学习方式误写成个人缺陷。Robert 在当前任务与教学情境中采用表层方式，更符合原文含义。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 57–58)]]
@@ -104,10 +104,10 @@ updated: 2026-10-25
 
 > [!feature] 判断学习取向的六个要素
 > - **[[Learning Intentions\|学习意图]]** 学生是为了预测题目和避免失败，还是为了理解材料要表达什么。意图会引导注意力投向孤立细节或整体意义。
-> - **先备知识** 背景知识决定学生能否提出问题、识别关系并向前推理；缺乏事实基础时，直接要求复杂探究可能增加无关信息与推理错误。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 84–85)]]
+> - **先备知识** 背景知识决定学生能否提出问题、识别关系并向前推理；缺乏事实基础时，直接要求复杂探究可能增加无关信息与推理错误。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 84–85)]]
 > - **活动的适切性** 活动的认知层次要与目标相称。目标要求解释与迁移时，只做记录和复述便不充分；任务要求掌握基本事实时，准确记忆可能是必要活动。[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 60)]]
 > - **知识组织** 深层学习发生在学生能把事实、命题、概念与学科实践组织起来时。[[Curriculum Design Coherence Model\|课程设计连贯性模型]]进一步把它表述为[[Knowledge-that and Know-how-to\|知其然]]与[[Knowledge-that and Know-how-to\|知其所用]]之间可被展示和阐述的连接。[[Argument_McPhail_2023_JCS\|McPhail et al. (2023, pp. 4–16)]]
-> - **教学与评估信号** 学生会从考试和[[Homework\|作业]]中判断课程真正重视什么。教师口头强调理解，但评估只奖励复述时，理性的应试策略仍会促使学生采用表层方式。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 80, 87)]]
+> - **教学与评估信号** 学生会从考试和[[Homework\|作业]]中判断课程真正重视什么。教师口头强调理解，但评估只奖励复述时，理性的应试策略仍会促使学生采用表层方式。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 80, 87)]]
 > - **互动条件** 明确的目标、学习的必要感、能够专注而不必防御的环境，以及同伴和教师之间的对话，共同支持理解的形成与深化。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 60–61)]]
 
 > [!theory-components] [[Phenomenography\|现象图式学]]与[[Constructivist Paradigm\|建构主义]]
@@ -157,7 +157,7 @@ updated: 2026-10-25
 > **意义产生于学生的活动** [[Argument_Biggs_1999_HERD\|Marton & Säljö (1976, as cited in Biggs, 1999, pp. 59–60)]] 的阅读研究显示，面向预测考题的学生把文本拆成可能被提问的细节，最终记住零散事实，却没有理解作者要说明什么；面向理解的学生则把细节放回整体论证中，因而看见事实如何共同支持作者的观点。Biggs 据此把表层方式界定为与任务不相称的低阶活动，把深层方式界定为足以处理任务并获得相应结果的活动。
 
 > [!claim] [[John Hattie\|Hattie, J.]]
-> **事实基础与深层加工必须衔接** 表层知识是深层理解的重要起点，但只获得信息仍不充分。问题本位学习要求学生调用既有知识建立因果模型。新手的知识基础不足时，容易添加无关材料、从未知条件倒推，并保留推理错误。教学设计应先判断学生是否掌握支持复杂活动的知识，再安排联系、解释与迁移，不宜抽象地比较[[Direct Instruction\|直接讲授]]和自主探究。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 84–85)]]
+> **事实基础与深层加工必须衔接** 表层知识是深层理解的重要起点，但只获得信息仍不充分。问题本位学习要求学生调用既有知识建立因果模型。新手的知识基础不足时，容易添加无关材料、从未知条件倒推，并保留推理错误。教学设计应先判断学生是否掌握支持复杂活动的知识，再安排联系、解释与迁移，不宜抽象地比较[[Direct Instruction\|直接讲授]]和自主探究。[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 84–85)]]
 
 > [!claim] McPhail et al.
 > **课程连贯性使知识能够被使用** [[Curriculum Design Coherence Model\|课程设计连贯性模型]]把深层学习具体化为[[Knowledge-that and Know-how-to\|知其然]]与[[Knowledge-that and Know-how-to\|知其所用]]之间的连接。只讲抽象概念会使课程悬空，只堆积事实会使课程拥挤，只训练技能又会使课程工具化；当学生能够把命题与概念应用于新情境，并说明知识与实践之间为何如此连接时，深层理解才有了可观察的表现。[[Argument_McPhail_2023_JCS\|McPhail et al. (2023, pp. 4–16)]]
@@ -206,7 +206,7 @@ updated: 2026-10-25
 > - **1996 — 记忆功能的跨文化修正** [[Argument_Li_2012_Cambridge\|Marton et al. (1996, as cited in Li, 2012, pp. 86–87)]] 发现，记忆可以成为理解过程的组成部分，也可以超越机械复述的终点。该研究促使学界重新审视外显行为与学习层次之间的关系。
 > - **1999 — 从描述学习转向设计教学** Biggs 把学习取向纳入教学系统，主张通过目标、活动和评估的对齐，让原本只在有利条件下深入学习的学生也开展高阶活动。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 57–70)]]
 > - **2000–2012 — 跨文化研究扩展与综合** [[Argument_Li_2012_Cambridge\|Dahlin & Watkins (2000, as cited in Li, 2012, pp. 86–87)]] 对重复功能的中英比较，以及 [[Argument_Li_2012_Cambridge|Li (2012, pp. 82–89)]] 对[[Paradox of the Chinese Learner\|中国学习者悖论]]研究的系统整理，进一步表明学习行为必须放在文化信念和完整过程顺序中解释。
-> - **2009–2015 — [[Research Synthesis|证据综合]]与结果层次** Hattie 把表层知识、深层理解和迁移纳入教学影响的讨论，同时承认大量研究与课堂测量偏向表层结果。教学研究因而要追问不同层次之间何时转换，单纯比较方法名称无法回答这个问题。[[Argument_Hattie_2015_Paideia\|Hattie (2015a, pp. 18–19)]]；[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 80, 84–85)]]
+> - **2009–2015 — [[Research Synthesis|证据综合]]与结果层次** Hattie 把表层知识、深层理解和迁移纳入教学影响的讨论，同时承认大量研究与课堂测量偏向表层结果。教学研究因而要追问不同层次之间何时转换，单纯比较方法名称无法回答这个问题。[[Argument_Hattie_2015_Paideia\|Hattie (2015b, pp. 18–19)]]；[[Argument_Hattie_2015_SOTLP\|Hattie (2015a, pp. 80, 84–85)]]
 > - **2015 — 动态知识模型的修正** Qvortrup 指出，单一的学习结果会掩盖表层、深层和概念理解之间的差异。[[Dynamic Knowledge and Learning Model\|动态知识与学习模型]]把知道什么、知道如何使用、知道为何如此及知识边界理解为相互作用的层次。[[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015, pp. 27–32)]]
 > - **2023 — 课程连贯性的扩展** McPhail et al. 将深层学习落实为概念知识与应用知识之间可说明的连接，进一步把学习取向问题转化为课程知识选择与组织问题。[[Argument_McPhail_2023_JCS\|McPhail et al. (2023, pp. 4–16)]]
 
@@ -221,10 +221,10 @@ updated: 2026-10-25
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Hattie_2015_SOTLP\|Henk & Stahl (1985, as cited in Hattie, 2015b, p. 84)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.34"><span class="b7"></span></span>0.34 | — | Cohen's d；模型未报告 | 未报告 | 听讲时记笔记后的学习结果 | — | 原文未评级；二手转引，不能据此区分表层或深层结果 |
 > | [[Argument_Hattie_2015_SOTLP\|Henk & Stahl (1985, as cited in Hattie, 2015b, p. 84)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.56"><span class="b28"></span></span>1.56 | — | Cohen's d；模型未报告 | 未报告 | 复习同一批笔记后的学习结果 | — | 原文未评级；结果表明后续加工的效果高于单纯记录，但测量层次未说明 |
-> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.08"><span class="b2"></span></span>0.08 | — | Cohen's d；二级综合模型未报告 | 各元分析结果约为 −0.30 至 0.32；未报告正式异质性指标 | [[Problem-Based Learning\|问题本位学习]]的总体学习结果 | 9 项元分析 / N 未报告 | 原文未评级；平均值混合了知识获取、技能、评估结果和不同学段 |
+> | [[Argument_Hattie_2015_SOTLP\|Hattie (2015a)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.08"><span class="b2"></span></span>0.08 | — | Cohen's d；二级综合模型未报告 | 各元分析结果约为 −0.30 至 0.32；未报告正式异质性指标 | [[Problem-Based Learning\|问题本位学习]]的总体学习结果 | 9 项元分析 / N 未报告 | 原文未评级；平均值混合了知识获取、技能、评估结果和不同学段 |
 > | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 86)]] | <span class="mx-bar ef-bar neg" title="Cohen's d −0.79"><span class="b16"></span></span>−0.79 | — | Cohen's d；模型未报告 | 未报告 | 问题本位学习中的知识获取 | — | 原文未评级；说明缺乏事实基础时的风险，不能推出问题本位学习普遍无效 |
 
-这些[[Effect Size|效应量]]没有直接测量统一的深层学习结果。Hattie 指出，大量研究依赖表层学习指标。因此，表格适合说明教学活动与后续加工的差异，不能单凭数值证明学生已经形成概念理解或迁移能力。[[Argument_Hattie_2015_Paideia|Hattie (2015a, pp. 18–19)]]；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, pp. 27–29)]]
+这些[[Effect Size|效应量]]没有直接测量统一的深层学习结果。Hattie 指出，大量研究依赖表层学习指标。因此，表格适合说明教学活动与后续加工的差异，不能单凭数值证明学生已经形成概念理解或迁移能力。[[Argument_Hattie_2015_Paideia|Hattie (2015b, pp. 18–19)]]；[[Argument_Qvortrup_2015_Paideia|Qvortrup (2015, pp. 27–29)]]
 
 ---
 
@@ -233,7 +233,7 @@ updated: 2026-10-25
 > > [!axis] 记忆取向：机械表层终点 vs 深层理解阶梯
 > > 围绕背诵与重复究竟是低阶表层应付，还是通向深层概念理解与迁移的必要准备展开争论。
 > >
-> > - **应试应付与终点论立场** 当学生只为应付考试而孤立记忆知识碎片，且评估仅奖励机械复述时，记忆成为终点，属于典型表层学习（[[Argument_Hattie_2015_SOTLP|Hattie, 2015b, pp. 80, 84–85]]）。
+> > - **应试应付与终点论立场** 当学生只为应付考试而孤立记忆知识碎片，且评估仅奖励机械复述时，记忆成为终点，属于典型表层学习（[[Argument_Hattie_2015_SOTLP|Hattie, 2015a, pp. 80, 84–85]]）。
 > > - **跨文化与过程阶梯立场** [[Chinese Learner|中国学习者]]研究表明，重复与记忆往往是内化材料、建立概念网络以及后续批判反思的先决阶段（[[Argument_Li_2012_Cambridge|Li, 2012, pp. 82–89]]）。
 >
 > > [!axis] 测量有效性：复合概念理解 vs 表层指标化简
@@ -286,7 +286,7 @@ updated: 2026-10-25
 
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] 把表层与深层学习界定为具体任务中的活动方式，并通过教学方法、概念改变和[[Constructive Alignment\|建构性对齐]]说明教师如何改变学习取向。
-> - [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] 将表层知识视为深层理解的重要基础，同时用笔记复习、[[Problem-Based Learning\|问题本位学习]]和[[Assessment Backwash\|评估反拨]]说明不同学习层次需要恰当衔接。
+> - [[Argument_Hattie_2015_SOTLP\|Hattie (2015a)]] 将表层知识视为深层理解的重要基础，同时用笔记复习、[[Problem-Based Learning\|问题本位学习]]和[[Assessment Backwash\|评估反拨]]说明不同学习层次需要恰当衔接。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] 通过[[Chinese Learner\|中国学习者]]研究修正将记忆直接等同于表层学习的判断，强调外显行为在完整学习序列中的不同功能。
 > - [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] 指出抽象的学习结果会掩盖表层、深层与概念理解的测量差异，并提出动态知识层次作为修正。
 > - [[Argument_Rømer_2018_EPT\|Rømer (2018)]] 从教育哲学角度批评 Hattie 对学习层次和波普尔三个世界的映射，揭示概念扩展中的理论风险。

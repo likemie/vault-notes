@@ -23,7 +23,7 @@ citation_aliases:
   - "Cowen, 2009a"
   - "Cowen (2009a)"
 isbn: "978-1-4020-6402-9"
-citation: "Cowen, R. (2009). On History and on The Creation of Comparative Education. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 7–10). Dordrecht: Springer."
+citation: "Cowen, R. (2009). On history and on the creation of comparative education. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 7–10). Springer."
 tags:
   - subject/comparative-education
   - theme/historiography

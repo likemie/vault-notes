@@ -75,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-06
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -99,7 +99,7 @@ updated: 2026-10-23
 > - **2004** 在德国教育研究协会苏黎世会议上报告重要研究，创新性结合社会[[Network Analysis\|网络分析]]与创新扩散理论，提出跨国教育政策中的马里斯·[[Maris O'Rourke|奥罗克]]效应（Maris O'Rourke Effect）。
 > - **2009** 在 Cowen 与 Kazamias 主编的《比较教育学国际手册》中，不仅系统概念化了比较教育的历史演进，还率先推动运用口述史方法抢救被遮蔽的学科个人与学会记忆。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
 > - **2012** 与弗洛里安·瓦尔多（Florian Waldow）共同主编《世界教育年鉴 2012：教育中的政策借用》（*World Yearbook of Education 2012*），进一步将政策借用理论扩展至实证比较。
-> - **2024** 与 [[Kerstin Martens]] 及 [[Christian Ydesen]] 在 *Comparative Education* 合作发表重要成果，正式提出“[[Governing by Numbers\|数字治理]] 2.0”与[[Policy Brokerage\|政策中介]]跨学科比较研究议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024b)]]
+> - **2024** 与 [[Kerstin Martens]] 及 [[Christian Ydesen]] 在 *Comparative Education* 合作发表重要成果，正式提出“[[Governing by Numbers\|数字治理]] 2.0”与[[Policy Brokerage\|政策中介]]跨学科比较研究议程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024)]]
 
 ---
 
@@ -109,7 +109,7 @@ updated: 2026-10-23
 > - **2004b — *[[Network Analysis|social network analysis]] and Diffusion of Innovation Revisited: The Maris O'Rourke Effect in [[International Education]]*** 引入社会网络分析方法，揭示关键政策能动者在跨国政策扩散网络中的[[Structural Holes|结构洞]]与核心中介功能。
 > - **2009 — *Comparison and Conceptualisation in Comparative Education*** 系统概念化比较教育学科的发展脉络，为构建全景式的[[Comparative History of Comparative Education|比较教育学比较史]]提供分析[[Paradigm|范式]]。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 8)]]
 > - **2012 — *Understanding policy borrowing and lending*** 与 Florian Waldow 合作，提炼跨国政策借用的多阶段分析工具，深度整合外在化、情境化与本土杂糅机制。
-> - **2024 — *[[Governing by Numbers|governance by numbers]] 2.0: [[Policy Brokerage]] as an instrument of global governance in the era of information overload*** 与 Martens 和 Ydesen 合作，提出数字治理 2.0 研究纲领，系统论证信息过量时代国际组织[[Soft Power by Hard Facts|以硬事实施展软权力]]的政策中介与工具打包机制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b)]]
+> - **2024 — *[[Governing by Numbers|governance by numbers]] 2.0: [[Policy Brokerage]] as an instrument of global governance in the era of information overload*** 与 Martens 和 Ydesen 合作，提出数字治理 2.0 研究纲领，系统论证信息过量时代国际组织[[Soft Power by Hard Facts|以硬事实施展软权力]]的政策中介与工具打包机制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024)]]
 
 ---
 
@@ -132,7 +132,7 @@ updated: 2026-10-23
 > *Unless we recognize that educational transfer can involve discourses rather than practices, we are unlikely to detect these international movements (Steiner-Khamsi, 2000, p. 181).*
 
 > [!citation-card] [[Surplus of Evidence|证据过剩]]与政策中介兴起
-> 更多知识并未减少歧义性并促进[[Evidence-Based Policy-Making|循证政策制定]]，反之亦然。当今的信息过载为那些能够选择性吸纳研究、将研究发现转化为证据并为政策所用的机构与个人提供了繁茂生长的土壤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 540)]]
+> 更多知识并未减少歧义性并促进[[Evidence-Based Policy-Making|循证政策制定]]，反之亦然。当今的信息过载为那些能够选择性吸纳研究、将研究发现转化为证据并为政策所用的机构与个人提供了繁茂生长的土壤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 540)]]
 >
 > *It would be wrong to assume that more knowledge reduces ambiguity and facilitates evidence-informed policymaking. The opposite applies. Today's information overload constitutes fertile ground for the flourishing of individuals and institutions that selectively draw on research, transform research findings into evidence, and then translate that evidence for policy use.*
 
@@ -193,6 +193,6 @@ updated: 2026-10-23
 > | [[Argument_Rappleye_2006_RCIE\|Rappleye (2006)]] | 在比较教育[[Concept Mapping\|概念地图]]中将其本土情境焦点与能动者转向作为[[Pre-Transfer Agency\|前转移能动性]]的核心基石，强调关注借用发生前国内政治行动者的冲突移位动机。 |
 > | [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] | 在学科史演进中高度赞誉其在口述史方法上的先锋探索，主张将口述史与概念化研究相结合以抢救学会和学者的隐性历史记忆。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 在[[Pluri-Scalar Governance\|多标度教育治理]]研究中引用其中国大学引入美国学分制案例，将其作为主权国家主导的双边借用典范，反衬当代跨国营利网络对治理[[Champ\|场域]]的重塑。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | 提出[[Governing by Numbers\|数字治理]] 2.0 框架，论证在信息过剩时代国际组织如何凭借[[Policy Brokerage\|政策中介]]与硬事实数据施展[[Soft Power\|软权力]]，推动全球量化[[Disciplina and Doctrina\|规训]]。 |
-| [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024)]] | 主持[[UNESCO\|教科文组织]]战略审查，提出超越线性证据汇总的三维变革路径（产品、关系与系统）以及连通全球与本土的区域知识枢纽路线图。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | 提出[[Governing by Numbers\|数字治理]] 2.0 框架，论证在信息过剩时代国际组织如何凭借[[Policy Brokerage\|政策中介]]与硬事实数据施展[[Soft Power\|软权力]]，推动全球量化[[Disciplina and Doctrina\|规训]]。 |
+| [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | 主持[[UNESCO\|教科文组织]]战略审查，提出超越线性证据汇总的三维变革路径（产品、关系与系统）以及连通全球与本土的区域知识枢纽路线图。 |
 

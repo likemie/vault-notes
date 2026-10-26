@@ -62,7 +62,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: stable
 created: 2026-06-24
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -231,4 +231,4 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 经典理论与实证文献索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 系统构建质性审计追踪的方法论框架，涵盖信效度体系中六大档案支柱的确立（Ch. 10）、个人[[In-depth Interview\|深度访谈]]中的决策日志与[[Transcription in Qualitative Research\|转录]]校对（Ch. 23），以及[[Content Analysis\|内容分析]] 11 步规程中[[Data Reduction\|数据缩减]]与[[Meaningful Human Control|人在回路]]的计算化审计追踪责任（Ch. 30）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 系统构建质性审计追踪的方法论框架，涵盖信效度体系中六大档案支柱的确立（Ch. 10）、个人[[In-depth Interview\|深度访谈]]中的决策日志与[[Transcription in Qualitative Research\|转录]]校对（Ch. 23），以及[[Content Analysis\|内容分析]] 11 步规程中[[Data Reduction\|数据缩减]]与[[Meaningful Human Control|人在回路]]的计算化审计追踪责任（Ch. 30）。

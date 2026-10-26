@@ -6,7 +6,7 @@ authors:
   - "[[Brian M. Cartiff|Cartiff, B. M.]]"
   - "[[Rebekah F. Duke|Duke, R. F.]]"
 source_language: en
-citation: "Greene, J. A., Cartiff, B. M., & Duke, R. F. (2018). A meta-analytic review of the relationship between epistemic cognition and academic achievement. *Journal of Educational Psychology*, 110(8), 1084-1106. https://doi.org/10.1037/edu0000263"
+citation: "Greene, J. A., Cartiff, B. M., & Duke, R. F. (2018). A meta-analytic review of the relationship between epistemic cognition and academic achievement. *Journal of Educational Psychology*, 110(8), 1084–1106. https://doi.org/10.1037/edu0000263"
 year: 2018
 doi: "10.1037/edu0000263"
 citation_aliases:

@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-11
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -135,7 +135,7 @@ updated: 2026-10-22
 > | 命题维度 | 核心理论断言 | 适用情境与对象 | 代表学者 |
 > |:---|:---|:---|:---|
 > | **经典社会网络命题** | 结构洞提供非冗余信息与控制优势，网络开放性创造个体社会资本 | 职场晋升、企业竞合、跨组织信息搜寻 | Burt (1992, 2000, 2004) |
-> | **空间多维扩展命题** | 制度差异、认知隔阂与空间脱节构成多维结构洞，依赖微观实践填补 | 跨法域区域[[Innovation Ecosystem\|创新生态]]、产学研跨界融合 | [[Argument_Cai_Gao_Liu_2025_HE\|Cai, Gao, & Liu (2025)]] |
+> | **空间多维扩展命题** | 制度差异、认知隔阂与空间脱节构成多维结构洞，依赖微观实践填补 | 跨法域区域[[Innovation Ecosystem\|创新生态]]、产学研跨界融合 | [[Argument_Cai_Gao_Liu_2025_HE\|Cai et al. (2025)]] |
 > | **公共治理重塑命题** | 公共代理人超越消极中介套利，通过主动闭合结构洞重构产业网络架构 | 颠覆性技术攻关、纵向离散产业创新治理 | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] |
 
 ---
@@ -171,4 +171,4 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - Burt (2004) — 经典实证检验结构洞位置如何显著提高组织个体的创新构想质量与晋升机会。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以美国 [[DARPA]] 在半导体光刻与硅锗技术中的干预为例，揭示公共代理人如何超越结构洞消极套利、能动闭合网络断裂并重塑产业[[Technological Trajectories|技术轨道]]。
-> - [[Argument_Cai_Gao_Liu_2025_HE|Cai, Gao, & Liu (2025)]] — 结合[[Lefebvre's Spatial Triad|空间三元辩证法]]，实证分析[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]高校骨干教师填补跨法域制度、认知与空间结构洞的实践机制。
+> - [[Argument_Cai_Gao_Liu_2025_HE|Cai et al. (2025)]] — 结合[[Lefebvre's Spatial Triad|空间三元辩证法]]，实证分析[[Guangdong-Hong Kong-Macau Greater Bay Area|粤港澳大湾区]]高校骨干教师填补跨法域制度、认知与空间结构洞的实践机制。

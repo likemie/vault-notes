@@ -22,7 +22,7 @@ publisher: "Cambridge University Press"
 year: 2009
 doi: ""
 isbn: "9780511658440"
-citation: "Mahoney, J., & Thelen, K. (Eds.). (2009). Explaining institutional change: Ambiguity, agency, and power. Cambridge: Cambridge University Press."
+citation: "Mahoney, J., & Thelen, K. (Eds.). (2009). Explaining institutional change: Ambiguity, agency, and power. Cambridge University Press."
 tags: ["theme/institutional-change", "theme/historical-institutionalism", "theme/book-reading"]
 related_concepts:
   - "[[Rule Ambiguity]]"

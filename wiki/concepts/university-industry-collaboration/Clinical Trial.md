@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
@@ -168,7 +168,7 @@ updated: 2026-10-23
 > - **1970s–1990s — 分期标准与伦理规范制度化** 《贝尔蒙报告》（Belmont Report）确立[[Informed Consent|知情同意]]与受试者保护伦理准则；国际人用药品注册技术协调会（ICH）出台临床试验管理规范（GCP），确立 I–IV 期标准开发路径。
 > - **2000s–2010s — 产学网络扩张与 [[Contract Research Organization|CRO]] 全球化崛起** [[Academic Medical Center|学术医学中心]]与合同研究组织（CRO）形成庞大外包生态；[[Clinical Trials Transformation Initiative]]（CTTI）等跨界联盟成立，发布 30 余套提升试验质量与启动效率的循证框架。
 > - **2008 年 — 早期临床试验公共风险托底与利益倒挂批判** [[Fred Block|弗雷德·布洛克]]（Fred Block）基于紫杉醇等重大医药案例，系统揭示联邦公共资金在临床试验早期去风险（De-risking）中的决定性支撑，批判新自由主义下“公共承担临床风险、私人垄断商业暴利”的制度失衡，呼吁建立公共收益分享信托机制。[[Argument_Block_2008_PS|(Block, 2008, pp. 196–198)]]
-> - **2024 年 — 循证医学层级局限与[[Complex Systems Model of Evidence|复杂系统证据模型]]反思** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al., 2024a, pp. 28–29]]）系统梳理公共卫生循证演进历程，反思过度套用临床试验因果金字塔对临床医师[[Professional Judgment|专业判断]]的边缘化、试验招募内置的社会不平等与对健康社会决定因素的忽视，提出向包容多元学科经验的复杂系统模型演进。
+> - **2024 年 — 循证医学层级局限与[[Complex Systems Model of Evidence|复杂系统证据模型]]反思** 施泰纳-哈姆西等学者（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al., 2024, pp. 28–29]]）系统梳理公共卫生循证演进历程，反思过度套用临床试验因果金字塔对临床医师[[Professional Judgment|专业判断]]的边缘化、试验招募内置的社会不平等与对健康社会决定因素的忽视，提出向包容多元学科经验的复杂系统模型演进。
 > - **2026 年 — 真实世界证据、单项确证研究与[[Regulatory Sandbox|监管沙盒]]新[[Paradigm|范式]]** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），推动 FDA 实质性监管改革：推行单项高功效确证试验、接受真实世界证据、设立前沿生物医疗监管沙盒，并深化公私伙伴（[[Accelerating Medicines Partnership|AMP]]）协同开发机制。
 
 ---
@@ -191,7 +191,7 @@ updated: 2026-10-23
 > > 探讨在公共卫生与政策评估中，应严格固守以随机对照临床试验为顶端的因果证据阶梯，还是转向包容多元经验与社会决定因素的复杂系统模型。
 > >
 > > - **因果阶梯至上立场** 将随机双盲临床试验与定量[[Meta-analysis|元分析]]置于因果证据金字塔顶端，主张公共干预与诊疗决策必须严格遵循高等级临床试验裁决。
-> > - **复杂系统与社会决定因素反思（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al., 2024a]]）** 指出过度套用临床试验阶梯导致一线医师专业判断与伦理关怀边缘化、试验招募内置社会不平等（边缘群体代表性缺失），并系统性漠视深层健康社会决定因素；在公共危机治理中，临床试验仅能提供部分生物医学答案，公共政策必须转向整合流行病学、人类学与社会科学的复杂系统证据模型。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 28–29, 32–33)]]
+> > - **复杂系统与社会决定因素反思（[[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al., 2024]]）** 指出过度套用临床试验阶梯导致一线医师专业判断与伦理关怀边缘化、试验招募内置社会不平等（边缘群体代表性缺失），并系统性漠视深层健康社会决定因素；在公共危机治理中，临床试验仅能提供部分生物医学答案，公共政策必须转向整合流行病学、人类学与社会科学的复杂系统证据模型。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 28–29, 32–33)]]
 >
 > > [!axis] 公共出资临床试验风险托底 vs 私营药企独占商业定价权
 > > 围绕政府承担早期临床试验巨额成本后，私营制药巨头是否应享有不受约束的药品垄断定价权的争论。
@@ -231,11 +231,11 @@ updated: 2026-10-23
 > | [[Michael Kratsios]] | Person | 白宫科技政策办公室主任，系统提出临床审批改革与监管沙盒战略。 |
 > | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从发展型网络国家与虚构商品化视阈剖析临床试验公共出资与公私利益倒挂的理论论述。 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 战略报告，提出真实世界证据、单项高功效确证试验与前沿生物医疗沙盒改革方案。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] | Argument | 从公共卫生政策循证演进借镜教育治理，批判临床试验证据金字塔对医师专业判断的边缘化及对健康社会决定因素的漠视。 |
+> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 从公共卫生政策循证演进借镜教育治理，批判临床试验证据金字塔对医师专业判断的边缘化及对健康社会决定因素的漠视。 |
 
 ---
 
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家]]的理论视阈，以抗癌药紫杉醇（Taxol）等经典个案剖析联邦公共部门（[[National Institutes of Health|NIH]]/NCI）在临床试验早期承担的关键试错风险，深刻批判《[[Bayh-Dole Act of 1980|拜杜法案]]》与排他性商业许可导致的“风险社会化、利润私人化”制度弊端，论证建立公共收益回流信托的必要性。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室国家战略报告，系统剖析临床试验审批迟滞导致的创新外流与成本攀升，提出 FDA 接受真实世界证据、推行单项高功效确证试验、设立[[Regulatory Sandbox|监管沙盒]]与推进 [[Accelerating Medicines Partnership|AMP]] [[Public-Private Partnership|公私伙伴关系]]的改革蓝图。
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 跨领域对比公共卫生与教育的政策循证演进，剖析过度依赖临床试验因果阶梯造成的医师专业判断弱化、样本内置不平等及对健康社会决定因素的漠视，论证公共治理向复杂系统证据模型的转型。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 跨领域对比公共卫生与教育的政策循证演进，剖析过度依赖临床试验因果阶梯造成的医师专业判断弱化、样本内置不平等及对健康社会决定因素的漠视，论证公共治理向复杂系统证据模型的转型。

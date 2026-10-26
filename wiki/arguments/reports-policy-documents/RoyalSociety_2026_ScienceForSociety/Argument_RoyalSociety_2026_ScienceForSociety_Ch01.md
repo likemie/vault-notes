@@ -19,7 +19,7 @@ year: 2026
 isbn: 978-1-78252-829-6
 publication_place: London
 publisher: The Royal Society
-citation: "The Royal Society. (2026). Chapter one: Education. In Science for society: How society and science shape each other (pp. 29–40). London: The Royal Society."
+citation: "The Royal Society. (2026). Chapter one: Education. In Science for society: How society and science shape each other (pp. 29–40)."
 citation_aliases: []
 tags:
   - source/report

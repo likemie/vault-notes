@@ -4,7 +4,7 @@ type: argument
 authors:
   - "[[David C. Mowery|Mowery, D. C.]]"
 source_language: en
-citation: "Mowery, D. C. (2011). Federal policy and the development of semiconductors, computer hardware, and computer software: A policy model for climate change R&D? In R. M. Henderson & R. G. Newell (Eds.), Accelerating Energy Innovation: Insights from Multiple Sectors (pp. 159–188). University of Chicago Press."
+citation: "Mowery, D. C. (2011). Federal policy and the development of semiconductors, computer hardware, and computer software: A policy model for climate change R&D? In R. M. Henderson & R. G. Newell (Eds.), Accelerating energy innovation: Insights from multiple sectors (pp. 159–188). University of Chicago Press."
 year: 2011
 doi: "10.7208/chicago/9780226326856.003.0006"
 citation_aliases:

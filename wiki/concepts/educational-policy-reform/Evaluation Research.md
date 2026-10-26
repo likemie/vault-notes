@@ -30,7 +30,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -184,7 +184,7 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen, Manion & Morrison (2011)]] — 系统剖析研究与评估的政治学（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|Ch. 3.1]]），论证分类资助如何驱动评估研究扩张并塑造知识生产议程；并探讨教育研究从纯基础理论向应用与评估研究的历史转向及其方法论预设（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Ch. 1]]）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统剖析研究与评估的政治学（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|Ch. 3.1]]），论证分类资助如何驱动评估研究扩张并塑造知识生产议程；并探讨教育研究从纯基础理论向应用与评估研究的历史转向及其方法论预设（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Ch. 1]]）。
 > - [[Argument_Berk_2011_EvalRev|Berk (2011)]] — 结合数十年编审实践，阐发评估研究中因果推断防线的重要性，提出团队化专业评估以抵御政策伪科学。
-> - [[Argument_Gorard_2020_ROE|Gorard, See & Siddiqui (2020)]] — 大规模系统审查基础教育干预评估研究，揭示仅一成研究达到反事实因果标准的严峻现实。
+> - [[Argument_Gorard_2020_ROE|Gorard et al. (2020)]] — 大规模系统审查基础教育干预评估研究，揭示仅一成研究达到反事实因果标准的严峻现实。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 追踪英格兰 EEF 评估研究体系的发展历程，实证展现专业证据中介在大规模 RCT 评估中的制度运作。

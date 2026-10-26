@@ -14,7 +14,7 @@ argument_related_color: "#ede9fe"
 authors:
   - "Ramming, C."
 source_language: en
-citation: "Ramming, C. (2025). Gaining Support Within Companies for Collaboration. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 217-239). Cham: Springer."
+citation: "Ramming, C. (2025). Gaining support within companies for collaboration. In R. Hall & A. Boccanfuso (Eds.), University-industry collaboration: Innovation at the interface (pp. 217–239). Springer."
 year: 2025
 doi: "10.1007/978-3-031-94913-5_12"
 citation_aliases:

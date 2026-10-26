@@ -14,7 +14,7 @@ argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Paideia
-citation: "Hattie, J. (2015). Synlig læring i dag. Paideia, 9, 9-21."
+citation: "Hattie, J. (2015). Synlig læring i dag. Paideia, 9, 9–21."
 tags:
   - visible-learning
   - evidence-based-education

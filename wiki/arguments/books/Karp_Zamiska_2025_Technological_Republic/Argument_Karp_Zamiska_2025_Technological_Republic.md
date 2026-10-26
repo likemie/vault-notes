@@ -24,7 +24,7 @@ citation_aliases:
   - "Karp & Zamiska, 2025"
   - "Karp and Zamiska (2025)"
 isbn: '9780593798706'
-citation: "Karp, A. C., & Zamiska, N. W. (2025). The technological republic: Hard power, soft belief, and the future of the West. New York: Crown Currency."
+citation: "Karp, A. C., & Zamiska, N. W. (2025). The technological republic: Hard power, soft belief, and the future of the West. Crown Currency."
 tags:
   - theme/technology-policy
   - theme/political-economy

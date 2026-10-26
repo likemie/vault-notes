@@ -94,7 +94,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -322,7 +322,7 @@ updated: 2026-10-22
 > [!evidence-grid] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 详述实用主义作为[[Mixed Methods Research|混合方法研究]]取向的哲学前提与[[Fitness for Purpose|适合目的]]原则。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 阐释实用主义世界观（Pragmatic Worldview）在研究设计与方法选择中的具体应用。
-> - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 梳理比较教育学术史中的[[Paradigm|范式]]演化，阐述霍姆斯基于[[John Dewey|杜威]]实用主义建立的假设-演绎[[Problem Approach|问题法]]，并确认实用互动论在挑战功能主义单一霸权中的范式地位。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学术史中的[[Paradigm|范式]]演化，阐述霍姆斯基于[[John Dewey|杜威]]实用主义建立的假设-演绎[[Problem Approach|问题法]]，并确认实用互动论在挑战功能主义单一霸权中的范式地位。
 > - [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] — 揭示实用主义[[Paradigm|范式]]（民主目标与渐进方法）在民国中国跨国转移中的拆解与[[Recontextualization|本土重构]]。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪实用主义范式在建国后中国教育政治[[Discourse|话语]]中的三重变形。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 451–452)]] — 揭示[[OECD|经合组织]]如何将教育治理窄化为劳动力技能核算的实用主义范式，遮蔽教育的民主与伦理目的。

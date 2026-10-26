@@ -1,5 +1,5 @@
 ---
-citation: "The Royal Society. (2026). Science for society: How society and science shape each other. London: The Royal Society."
+citation: "The Royal Society. (2026). Science for society: How society and science shape each other."
 extracted_to:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"

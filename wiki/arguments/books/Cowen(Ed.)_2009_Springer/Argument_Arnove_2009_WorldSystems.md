@@ -14,7 +14,7 @@ argument_related_color: "#fecdd3"
 authors:
   - "[[Robert Arnove|Arnove, R. F.]]"
 source_language: en
-citation: "Arnove, R. F. (2009). World-systems Analysis and Comparative Education in the Age of Globalization. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 101–119). Dordrecht: Springer."
+citation: "Arnove, R. F. (2009). World-systems analysis and comparative education in the age of globalization. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 101–119). Springer."
 year: 2009
 doi: ""
 citation_aliases:

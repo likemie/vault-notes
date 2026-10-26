@@ -15,7 +15,7 @@ argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
-citation: 'Jornitz, S., & Klinge, D. (2022). "Bildung" as a Forgotten Aspect of Algorithmic Technologies. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 231–249). Cham: Springer.'
+citation: "Jornitz, S., & Klinge, D. (2022). \"Bildung\" as a forgotten aspect of algorithmic technologies. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education (pp. 231–249). Springer."
 publication_place: "Cham"
 publisher: "Springer"
 tags:

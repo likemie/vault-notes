@@ -97,7 +97,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-25
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 ---
 
@@ -121,7 +121,7 @@ updated: 2026-10-23
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Quality Use of Research Evidence Framework\|研究证据质量使用框架（Quality Use of Research Evidence, QURE）]]**<br>[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] | 回答什么样的[[Research Utilization\|研究使用]]才算用得好：好使用不是泛泛接触研究，而是深思熟虑地参与（thoughtful engagement）恰当研究（appropriate research）并加以实施，且受个体（技能、心态、关系）、组织（结构、文化、领导）和系统三层条件支持。用作判断质量使用的基准。 |
+> | **[[Quality Use of Research Evidence Framework\|研究证据质量使用框架（Quality Use of Research Evidence, QURE）]]**<br>[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]] | 回答什么样的[[Research Utilization\|研究使用]]才算用得好：好使用不是泛泛接触研究，而是深思熟虑地参与（thoughtful engagement）恰当研究（appropriate research）并加以实施，且受个体（技能、心态、关系）、组织（结构、文化、领导）和系统三层条件支持。用作判断质量使用的基准。 |
 > | **[[Governing Mechanisms of Research Use\|研究使用治理机制（Governing Mechanisms of Research Use）]]**<br>本篇综述（Hagevold et al.） | 修订框架：信任、技能发展、可持续结构和关系四类机制横跨并贯通个体、组织、系统三层，解释最顽固的研究使用障碍为何反复出现、靠什么条件才能转化。 |
 > | **[[Conceptual, Instrumental, and Symbolic Use of Research\|深层使用框架（Deep Use）]]**<br>Farley-Ripple et al. (2018, 2022) | 关注学校用的是什么证据、怎么用：区分工具性、策略性和概念性使用，并把实践者如何搜寻、解释、整合研究视为研究使用的核心活动；用来界定深思熟虑参与与恰当研究之间的双向关系。 |
 > | **[[Research Literacy\|研究素养（Research Literacy）]]**<br>Eriksen (2022) | 把教师专业工作看成一种技艺而非艺术/科学的两极，主张教师靠完整性、讲理、灵活性三种德性来判断研究是否适合当下情境；用来界定恰当研究的标准，即研究要被实践者带判断地消化，而不是照搬。 |

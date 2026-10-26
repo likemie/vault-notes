@@ -5,7 +5,7 @@ authors:
   - "[[Barbara K. Hofer|Hofer, B. K.]]"
   - "[[Paul R. Pintrich|Pintrich, P. R.]]"
 source_language: en
-citation: "Hofer, B. K., & Pintrich, P. R. (1997). The development of epistemological theories: Beliefs about knowledge and knowing and their relation to learning. Review of Educational Research, 67(1), 88-140."
+citation: "Hofer, B. K., & Pintrich, P. R. (1997). The development of epistemological theories: Beliefs about knowledge and knowing and their relation to learning. Review of Educational Research, 67(1), 88–140."
 year: 1997
 doi: "10.3102/00346543067001088"
 citation_aliases:

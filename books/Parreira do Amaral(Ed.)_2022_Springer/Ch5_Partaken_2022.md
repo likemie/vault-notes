@@ -1,5 +1,5 @@
 ---
-citation: "Partaken, J. (2022). Two faces of geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation (pp. 67–90). Springer."
+citation: "Partaken, J. (2022). Two faces of geopolitics of knowledge. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education: Imagining, fabricating and contesting innovation (pp. 67–90). Springer."
 extracted_to:
   - "[[Argument_Partaken_2022_Springer]]"
 processed_date: 2026-05-10

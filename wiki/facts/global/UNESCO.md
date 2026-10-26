@@ -124,13 +124,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-23
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 核心定位
-> 联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO；简称联合国教科文组织）是联合国系统内主管教育事务的法定专门机构，代表了战后全球教育多边治理的人文主义、和平主义与人权规范传统，主导着全球[[Education for All|全民教育]]（Education for All，EFA）与[[UN Sustainable Development Goals|可持续发展目标]]中的第四项目标（Sustainable Development Goal 4，SDG 4）的统筹协调。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541, 544)]]
+> 联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization，UNESCO；简称联合国教科文组织）是联合国系统内主管教育事务的法定专门机构，代表了战后全球教育多边治理的人文主义、和平主义与人权规范传统，主导着全球[[Education for All|全民教育]]（Education for All，EFA）与[[UN Sustainable Development Goals|可持续发展目标]]中的第四项目标（Sustainable Development Goal 4，SDG 4）的统筹协调。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541, 544)]]
 
 
 > [!org-context] 机构背景
@@ -138,23 +138,23 @@ updated: 2026-10-23
 > - **官方门户与数据检索平台** 联合国教科文组织官方在线门户为 [UNESCO Official Website](https://www.unesco.org/)（中文主页：[联合国教科文组织](https://www.unesco.org/zh)），提供国际教育公约、可持续发展目标4（SDG 4）指标监测及《[[Global Education Monitoring Report|全球教育监测报告]]》（GEM Report）免费获取。
 > - **总部地点 / 业务辐射** 总部设于法国巴黎枫特努瓦广场，设有 53 个区域办事处及多个专业一类研究所，拥有 194 个成员国及 12 个准会员，具有普遍性的全球政府间合法代表权。
 > - **法人属性与经费基础** 独立的联合国专门政府间机构，经费由成员国按照联合国分摊比例缴纳的法定经常性预算（Assessed Contributions）与自愿性专项自愿捐款（Voluntary Contributions）共同构成。
-> - **核心宗旨与法定职责** 通过教育、科学、文化与传播促进国际合作，捍卫受教育权作为不可剥夺的基本人权，推动教育包容、性别平等与[[Lifelong Learning|终身学习]]，守护教育作为全球共同利益（Global Common Good）的公共属性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 541)]]
+> - **核心宗旨与法定职责** 通过教育、科学、文化与传播促进国际合作，捍卫受教育权作为不可剥夺的基本人权，推动教育包容、性别平等与[[Lifelong Learning|终身学习]]，守护教育作为全球共同利益（Global Common Good）的公共属性。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 ---
 
 > [!org-evolution] 组织发展历程
 > - **1945–1965** **战后人权奠基与有限再分配性多边主义**
 >
->   卡伦·蒙迪（Karen Mundy, 1998）将这一时期概括为以教科文组织为中枢的有限再分配性多边主义（Limited Redistributive Multilateralism）：强调人道主义价值与社会福利，支持新兴独立国家建设公共教育体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541, 543)]]
+>   卡伦·蒙迪（Karen Mundy, 1998）将这一时期概括为以教科文组织为中枢的有限再分配性多边主义（Limited Redistributive Multilateralism）：强调人道主义价值与社会福利，支持新兴独立国家建设公共教育体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541, 543)]]
 >
->   - **1945** 作为二战结束时全球仅存的两大涉教育国际组织之一（另一为[[International Labour Organization|国际劳工组织]]（International Labour Organization，ILO）），致力于战后废墟重建与基本扫盲。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 541)]]
+>   - **1945** 作为二战结束时全球仅存的两大涉教育国际组织之一（另一为[[International Labour Organization|国际劳工组织]]（International Labour Organization，ILO）），致力于战后废墟重建与基本扫盲。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 >   - **1948** 推动《世界人权宣言》第 26 条将受教育权写入国际法。
 >   - **1956 / 1958** 利马教育部长会议与华盛顿泛美大会（UNESCO 与美洲国家组织（Organization of American States，OAS）联合召开）相继确立国家教育规划标准。教科文组织借此将技术官僚规划推向第三世界（尤其拉丁美洲），凭借去情境化的社会技术，把国际机构确立为凌驾于主权国内部政治纷争之上的客观中立科学专家。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
->   - **1963** 在巴黎建立[[International Institute for Educational Planning|国际教育规划研究所]]（International Institute for Educational Planning，IIEP），由[[Philip H. Coombs|菲利普·库姆斯]]（Philip H. Coombs）掌舵，开启对第三世界新建国家规划官僚的培训业务。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 543)]]
+>   - **1963** 在巴黎建立[[International Institute for Educational Planning|国际教育规划研究所]]（International Institute for Educational Planning，IIEP），由[[Philip H. Coombs|菲利普·库姆斯]]（Philip H. Coombs）掌舵，开启对第三世界新建国家规划官僚的培训业务。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 543)]]
 >
 > - **1965–1980** **争辩性多边主义、[[World Bank|世行]]合作与人文路线分立**
 >
->   发展中国家掀起不结盟运动并要求建立国际经济新秩序（New International Economic Order，NIEO），主导了争辩性多边主义（Contested Multilateralism）阶段，教科文组织成为亚非拉国家争取国家社会福利发展模式与教育去殖民化的主要讲坛。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
+>   发展中国家掀起不结盟运动并要求建立国际经济新秩序（New International Economic Order，NIEO），主导了争辩性多边主义（Contested Multilateralism）阶段，教科文组织成为亚非拉国家争取国家社会福利发展模式与教育去殖民化的主要讲坛。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 >
 >   - **1964** 与世界银行签署《合作协定》（Co-operative Agreement），为世行初入教育借贷提供专业技术团队背书。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 541)]]
 >   - **1974** 在第三世界开展大规模区域教育普查，其区域统计揭示拉美外围国家中高等教育膨胀与初等扫盲停滞并存的畸形结构；此类普查后续延伸至拉丁美洲经济委员会（Economic Commission for Latin America，缩写 CEPAL）、联合国开发计划署（United Nations Development Programme，缩写 PNUD）与 UNESCO 的 1981 年拉美项目，为批判学者剖析外围[[Conditioned State Theory|受限国家]]的双轨教育与[[Compensatory Legitimation|补偿性合法化]]提供了关键实证基准。[[Argument_Olmos_Torres_2009_StateTheories|(UNESCO, 1974, cited in Olmos & Torres, 2009, pp. 81–82)]]
@@ -175,12 +175,12 @@ updated: 2026-10-23
 >
 > - **2000–2022** **[[UN Sustainable Development Goals|SDG 4]] 全球协调中枢、[[Learning Crisis|学习危机]]界定与数字时代再平衡**
 >
->   教科文组织从全民教育监测者转为[[Sustainability Education|可持续发展教育]]目标的全球协调中枢，并推动全球教育治理的焦点从入学率转向实质性学习质量。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541, 545)]]
+>   教科文组织从全民教育监测者转为[[Sustainability Education|可持续发展教育]]目标的全球协调中枢，并推动全球教育治理的焦点从入学率转向实质性学习质量。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541, 545)]]
 >
 >   - **2000** 达喀尔行动框架确立 EFA 六大目标并建立年度监测机制。
 >   - **2006** 《[[Global Education Monitoring Report|全民教育全球监测报告]]》（*EFA Global Monitoring Report 2006*）显示，多数依赖西方外援与[[International Monetary Fund|国际货币基金组织]]／世界银行结构调整贷款的发展中国家未能如期达成 2005 年性别均等与基础教育普及指标；不依赖西方外援、顶住私有化浪潮的古巴则凭借国家组织动员与人道主义优先保障率先实现优质普及基础教育，印证教育公共属性依赖于主权国家的实质政治承诺。[[Argument_Rust_2009_Reflections|(UNESCO, 2006, cited in Rust et al., 2009, p. 134)]]
 >   - **2013 / 2014** 全球监测报告《教学与学习：实现全员质量》首次系统界定全球学习危机：至少 2.5 亿学龄儿童在接受数年基础教育后仍无法读写简单句子或完成基础运算（其中 1.3 亿已完成四年小学学业），每年造成约 1,290 亿美元的教育财政浪费。报告指出入学普及若不伴随教学质量提升，弱势群体将面临在校却无所获的隐性失学，这也成为世界银行等机构研制 Teach 等[[Classroom Observation|课堂观察]]工具的宏观问题起点。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 2)]]
->   - **2015** 仁川世界教育论坛通过《教育 2030 行动框架》，教科文组织被联合国大会指定为 SDG 4 的全球牵头与协调机构。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]
+>   - **2015** 仁川世界教育论坛通过《教育 2030 行动框架》，教科文组织被联合国大会指定为 SDG 4 的全球牵头与协调机构。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]
 >   - **2021** 发布《共同重新构想我们的未来：一种新的教育社会契约》，并联合世行、[[UNICEF|联合国儿童基金会]]（United Nations Children’s Fund，UNICEF）发起[[Learning Data Compact|学习数据契约]]。
 >
 > - **2023–至今** **人工智能时代的以人为本教育治理与主体性倡导**
@@ -189,7 +189,7 @@ updated: 2026-10-23
 >
 >   - **2023** 发布《生成式人工智能在教育与研究中的应用指南》。
 >   - **2024** 发布《学生及教师人工智能能力框架》，防范技术依赖导致的批判力削弱。
->   - **2024** [[Global Education Cooperation Mechanism|全球教育合作机制]]（GCM）开展全球教育证据利用战略审查，识别学术与决策、全球与本土的双重反馈断裂，确立以区域枢纽与三维利用路径为支撑的全球[[Output-Oriented Governance|循证治理]]路线图。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 13–15, 38–45)]]
+>   - **2024** [[Global Education Cooperation Mechanism|全球教育合作机制]]（GCM）开展全球教育证据利用战略审查，识别学术与决策、全球与本土的双重反馈断裂，确立以区域枢纽与三维利用路径为支撑的全球[[Output-Oriented Governance|循证治理]]路线图。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 13–15, 38–45)]]
 
 ---
 
@@ -209,11 +209,11 @@ updated: 2026-10-23
 > [!finding-cards] 核心产品与业务矩阵
 > - **指南、规程与标准体系** 《[[International Education|国际教育]]标准分类》（ISCED）；《全球高等教育学历学位互认公约》；《人工智能伦理建议书》（2021）；《[[Generative Artificial Intelligence|生成式人工智能]]在教育与研究中的应用指南》（2023）；《学生及教师人工智能能力框架》（2024）。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–360)]]
 > - **数据库、证据库与监测平台** [[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]数据库（UIS Databank，全球官方教育数据核心权威源）；[[UN Sustainable Development Goals|SDG 4]] 进展指标基准库（Global Education Observatory）；与[[OECD|经合组织]]、欧盟统计局共建的 UNESCO-OECD-Eurostat（UOE）联合数据集（构成跨国教育统计与欧盟教育指标报告 50% 至 60% 的基础数据源；[[Argument_Grek_2009_JEdPolicy|Grek, 2009, p. 32]]）。
-> - **旗舰项目、调查与测评** 发展中国家国家教育战略规划技术援助（由 [[International Institute for Educational Planning|IIEP]] 执行）；第三世界区域教育技术规划大会（1956 年利马教育部长会议、1958 年华盛顿泛美大会；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 345]]）；区域教育与发展长期追踪调查（如 UNESCO/CEPAL/PNUD 宏观教育普查项目）；扫盲先锋奖；世界遗产与[[Sustainability Education|可持续发展教育]]网络；与 [[OECD|经合组织]]、[[World Bank|世界银行]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与[[World Bank|世行]]、[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]；资助[[International Schools|国际学校]]校本实验课程跨校交流（如[[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]推广论证；Peterson, 1987, pp. 204–205）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
+> - **旗舰项目、调查与测评** 发展中国家国家教育战略规划技术援助（由 [[International Institute for Educational Planning|IIEP]] 执行）；第三世界区域教育技术规划大会（1956 年利马教育部长会议、1958 年华盛顿泛美大会；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 345]]）；区域教育与发展长期追踪调查（如 UNESCO/CEPAL/PNUD 宏观教育普查项目）；扫盲先锋奖；世界遗产与[[Sustainability Education|可持续发展教育]]网络；与 [[OECD|经合组织]]、[[World Bank|世界银行]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与[[World Bank|世行]]、[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]；资助[[International Schools|国际学校]]校本实验课程跨校交流（如[[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]推广论证；Peterson, 1987, pp. 204–205）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 > - **旗舰出版物与咨询成果** 1996 年里程碑式《[[Delors Report|德洛尔报告]]》（*Learning: The Treasure Within*，提出四大支柱）；《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR，年度独立报告，包括 2013/2014 年首次界定全球学习危机的里程碑报告《教学与学习：实现全员质量》）；《教育的未来：一种新的社会契约》（2021）；IIEP《战略审议》（*Strategic Review*, 2025）；IIEP Dakar 第 6 号政策简报（2025）；《全球水资源开发报告》与教育科学政策丛书。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]; [[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, p. 344)]]
 
 > [!citation-card] 教科文组织与世界银行的制度[[Paradigm|范式]]分野
-> 在早期岁月，世界银行的教育项目组合与教科文组织几乎无异；然而，与世界银行形成鲜明对照的是，教科文组织始终秉持一种人道主义与人权驱动的教育理念。两家机构虽然在 1964 年签署了合作协定，但随着世界银行在教科文组织的帮助下打开了通往全球南方国家的大门，它便开始与教科文组织拉开距离。事实证明，这两家机构既没有共同的政策愿景与战略重点，也没有共同的治理运作模式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, pp. 541–542)]]
+> 在早期岁月，世界银行的教育项目组合与教科文组织几乎无异；然而，与世界银行形成鲜明对照的是，教科文组织始终秉持一种人道主义与人权驱动的教育理念。两家机构虽然在 1964 年签署了合作协定，但随着世界银行在教科文组织的帮助下打开了通往全球南方国家的大门，它便开始与教科文组织拉开距离。事实证明，这两家机构既没有共同的政策愿景与战略重点，也没有共同的治理运作模式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 >
 > *In the early years, the World Bank’s portfolio in education was almost identical to that of UNESCO. In stark contrast to the World Bank, however, UNESCO had a humanistic and human rights-driven approach to education. The connection between the two organisations was sealed through the Co-operative Agreement signed in 1964. After gaining access to countries of the Global South with the help of UNESCO, the World Bank started to distance itself from UNESCO. It became increasingly apparent that the two organisations neither shared outlooks and priorities nor a modus operandi in governance.*
 
@@ -222,7 +222,7 @@ updated: 2026-10-23
 > [!indicators] 影响力维度与指标
 > - **资源与网络规模** 经常性预算年均约 3–4 亿美元，全球雇员与专家约 2,500 人；覆盖 194 个成员国，建立超 800 个教科文组织大学教席和数千所联系学校网络（Associated Schools Project Network，ASPnet）。
 > - **学术与[[Knowledge Production|知识生产]]** ISCED 成为全球所有国家官方统计的母体基准；[[Global Education Monitoring Report|GEMR]] 报告被各国学者、联合国大会及发展机构公认为最权威的全球教育政策审议文献。
-> - **政策与制度渗透** 主导确立了 EFA 和 [[UN Sustainable Development Goals|SDG 4]] 全球政治共识，促使数十个发展中国家将“免费普及初等教育”、“受教育权”写入国家宪法与基础教育法案。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 541)]]
+> - **政策与制度渗透** 主导确立了 EFA 和 [[UN Sustainable Development Goals|SDG 4]] 全球政治共识，促使数十个发展中国家将“免费普及初等教育”、“受教育权”写入国家宪法与基础教育法案。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 > [!finding-cards] 关键成效与辐射影响
 > - **学术引领** 确立了教育人文主义哲学传统，提出“学会认知、学会做事、学会共处、学会生存”四大支柱，成功对抗纯粹功利性[[Human Capital Theory|人力资本理论]]对教育价值的窄化。
@@ -235,7 +235,7 @@ updated: 2026-10-23
 > - **200** 个以上国家和地区的年度官方教育普查数据由 [[UNESCO Institute for Statistics|UIS]] 汇聚。
 >
 > > [!feature] 数十亿
-> > 人口涉及原条目所述 2030 年 SDG 4 监测目标。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 541)]]
+> > 人口涉及原条目所述 2030 年 SDG 4 监测目标。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 >
 
 ---
@@ -299,7 +299,7 @@ updated: 2026-10-23
 > > *UNESCO’s report Learning: The Treasure Within (1996) can be seen as an outcome of a crisis of leadership in an organisation that felt that its authority was being eroded by the OECD in the North and the World Bank in the South; the Delors Report was a clear public offensive to regain political legitimacy.*
 
 > [!citation-card] 战后多边教育危机的普遍主义建构
-> [[Philip H. Coombs|菲利普·库姆斯]]（Philip H. Coombs）曾任美国助理国务卿，不仅是教科文组织[[International Institute for Educational Planning|国际教育规划研究所]]（IIEP）的首任所长，更撰写了极具影响力的奠基之作《世界教育危机》（1968）。他比任何人都更鲜明地人格化体现了西方多边体系的普遍主义主张；尽管冷战时期铁幕对岸对这部著作提出过严厉的[[Ideology Critique|意识形态批判]]，但它成功将教育危机塑造成一个全人类共同面对的不可逆转的全球命题。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024b, p. 542)]]
+> [[Philip H. Coombs|菲利普·库姆斯]]（Philip H. Coombs）曾任美国助理国务卿，不仅是教科文组织[[International Institute for Educational Planning|国际教育规划研究所]]（IIEP）的首任所长，更撰写了极具影响力的奠基之作《世界教育危机》（1968）。他比任何人都更鲜明地人格化体现了西方多边体系的普遍主义主张；尽管冷战时期铁幕对岸对这部著作提出过严厉的[[Ideology Critique|意识形态批判]]，但它成功将教育危机塑造成一个全人类共同面对的不可逆转的全球命题。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 542)]]
 >
 > *Philip H. Coombs, the first Assistant Secretary of State for Education and Culture (appointed by President John F. Kennedy), the first Director of the UNESCO International Institute for Educational Planning, and author of the influential book The World Educational Crisis (Coombs 1968), personified more than anyone else the universalist claim. Published in a divided world during the Cold War, Coombs’ book was harshly criticised on the other side of the Iron Curtain.*
 
@@ -349,8 +349,8 @@ updated: 2026-10-23
 > | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] | Argument | 梳理教育多边主义演进中教科文组织主导权流失，辨析 6-3-3 学制模板在本土落地时的适切性张力。 |
 > | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009)]] | Argument | 剖析宗迪恩大会后教科文组织教育理念主导权易手，以及脱离信贷资金支持导致的免费建议廉价性困境。 |
 > | [[SDG 4 High-Level Steering Committee]] | 事实 (机构) | 联合国教科文组织全球教育合作机制下的最高政治领导机构。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024b)]] | Argument | 剖析教科文组织与世界银行从 1964 年合作协定到范式分道扬镳的历程及学习数据契约再平衡。 |
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] | Argument | 针对 103 国战略审查剖析全球教育证据利用中的双重反馈断裂，确立以区域枢纽为支点的全球循证治理路线图。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | Argument | 剖析教科文组织与世界银行从 1964 年合作协定到范式分道扬镳的历程及学习数据契约再平衡。 |
+> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 针对 103 国战略审查剖析全球教育证据利用中的双重反馈断裂，确立以区域枢纽为支点的全球循证治理路线图。 |
 > | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]] | Argument | 援引教科文组织历史宏观教育普查数据，揭示拉美受限国家中高等教育膨胀与基础教育停滞的矛盾。 |
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025)]] | Argument | 评析教科文组织推出的生成式人工智能应用指南与师生能力框架，强调捍卫认识主体性。 |
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | Argument | 援引教科文组织 2006 年全民教育监测数据，实证检验全球化外援依附与古巴自主动员的对比。 |

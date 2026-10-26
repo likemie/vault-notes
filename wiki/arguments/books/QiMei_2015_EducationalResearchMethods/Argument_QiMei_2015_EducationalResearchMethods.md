@@ -23,7 +23,7 @@ citation_aliases:
   - "齐梅, 2015"
   - "齐梅 (2015)"
 isbn: "978-7-04-043540-5"
-citation: "齐梅. (2015). 教育研究方法. 北京: 高等教育出版社."
+citation: "齐梅. (2015). 教育研究方法. 高等教育出版社."
 tags:
   - source/textbook
 related_concepts:

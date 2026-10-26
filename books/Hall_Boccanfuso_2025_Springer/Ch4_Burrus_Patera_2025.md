@@ -1,5 +1,5 @@
 ---
-citation: "Burrus, C., & Patera, A. (2025). Connecting, Exploring, Uncovering, and Building Partnerships. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 73–83). Springer."
+citation: "Burrus, C., & Patera, A. (2025). Connecting, exploring, uncovering, and building partnerships. In R. Hall & A. Boccanfuso (Eds.), University-industry collaboration: Innovation at the interface (pp. 73–83). Springer."
 extracted_to:
   - "[[Argument_Burrus_Patera_2025_PartnershipBuilding]]"
 processed_date: 2026-05-27

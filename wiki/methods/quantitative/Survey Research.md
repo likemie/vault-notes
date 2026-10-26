@@ -159,7 +159,7 @@ updated: 2026-10-26
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 适合测定大样本总体的态度倾向与意见分布、检验变量间的多元关联与路径模型、评估政策改革的公众感知、追踪教育成就与社会指标的宏观演变趋势。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 8)]]; [[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 18–20)]]
+> - **适合使用** 适合测定大样本总体的态度倾向与意见分布、检验变量间的多元关联与路径模型、评估政策改革的公众感知、追踪教育成就与社会指标的宏观演变趋势。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 8)]]; [[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 18–20)]]
 > - **谨慎使用** 涉及极度敏感、隐私或违法行为的议题；受访总体文化程度受限而缺乏访谈员协助的情境；未明晰具体测量变量而盲目发放宽泛问卷的研究。
 > - **不适合使用** 寻求严密实验控制以确立确定性微观[[Causality|因果关系]]的[[Intervention Research|干预研究]]；深入探索无法预设封闭题项维度的复杂人际互动与微观田野体验。
 
@@ -187,11 +187,11 @@ updated: 2026-10-26
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi et al. (2024a)]] — 针对 103 国 898 名跨部门教育政策利益相关者开展 6 种联合国语言的多语种网络调查，摸底 654 个证据平台与机构，识别[[UN Sustainable Development Goals|可持续发展目标]] 4 各子目标的实证支撑失衡及全球北方平台的垄断格局（pp. 18–24）。
+> - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 针对 103 国 898 名跨部门教育政策利益相关者开展 6 种联合国语言的多语种网络调查，摸底 654 个证据平台与机构，识别[[UN Sustainable Development Goals|可持续发展目标]] 4 各子目标的实证支撑失衡及全球北方平台的垄断格局（pp. 18–24）。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety|The Royal Society (2026)]] — 结合科学公众态度调查与科研人员问卷评估公众科学信息渠道与信任度，定量呈现议员对智库的依赖倾向。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06|The Royal Society (2026, Ch. 6, pp. 93–98)]] — 比较多轮纵向调查数据，定量揭示科研人员参与公共事务的意愿提升以及时间压力等制度瓶颈。
 > - [[Argument_Revai_2022_ChangingLandscape|Révai (2022, pp. 25–27)]] — 依托[[OECD|经合组织]][[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]对 29 国 37 个教育系统开展政策调查，诊断证据进入政策的核心阻碍。
 > - [[Argument_Hill_2022_FacilitatingActors|Hill (2022, pp. 75–102)]] — 基于 29 国 37 个教育系统的政策调查，量化比较各类组织在研究生产与促成中的活跃度分布与中介角色。
 > - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a, pp. 103–124)]] — 基于跨国政策调查量化比较促进[[Research Utilization|研究利用]]的 11 类机制与 13 类障碍，实证揭示二者的结构性错配。
-> - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022b, pp. 182–199)]] — 基于[[Monash Q Project|莫纳什 Q 项目]]对澳大利亚 906 名一线教育从业者的两轮调查，揭示专业研讨时间与研究使用质量之间的显著相关性。
+> - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson, Walsh, et al. (2022, pp. 182–199)]] — 基于[[Monash Q Project|莫纳什 Q 项目]]对澳大利亚 906 名一线教育从业者的两轮调查，揭示专业研讨时间与研究使用质量之间的显著相关性。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022, Ch. 8)]] — 系统构建量化调查研究设计的标准框架，详述横截面与纵向设计、概率抽样、工具信效度检验、误差控制及数据分析流程。

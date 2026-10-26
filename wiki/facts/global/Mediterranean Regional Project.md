@@ -53,16 +53,16 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
 
 > [!claim] 项目定位
-> 地中海区域项目（Mediterranean Regional Project，MRP）是由[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（OEEC，1961 年改组为经合组织 [[OECD]]）与美国福特基金会联合资助，在南欧六国（希腊、意大利、葡萄牙、西班牙、土耳其、南斯拉夫）展开的划时代跨国教育规划试点；旨在通过定量预测未来十五年的经济增长与劳动力需求，为落后国家编制国家级中长期教育扩招与投资蓝图。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> 地中海区域项目（Mediterranean Regional Project，MRP）是由[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（OEEC，1961 年改组为经合组织 [[OECD]]）与美国福特基金会联合资助，在南欧六国（希腊、意大利、葡萄牙、西班牙、土耳其、南斯拉夫）展开的划时代跨国教育规划试点；旨在通过定量预测未来十五年的经济增长与劳动力需求，为落后国家编制国家级中长期教育扩招与投资蓝图。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 1960 年底正式启动，历经第一阶段规划编制（1960–1962）与第二阶段国家政策执行评估（1962–1965），成果以六国国别报告与综合评估报告形式常态化沉淀。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **立项时间 / 周期** 1960 年底正式启动，历经第一阶段规划编制（1960–1962）与第二阶段国家政策执行评估（1962–1965），成果以六国国别报告与综合评估报告形式常态化沉淀。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 > - **发起方与资助机制** 由经合组织科学技术人员理事会（Directorate for Scientific Affairs）直接发起，福特基金会提供配套资助，各参与国教育部与国家规划委员会承担对等本地筹资与人力保障。
 > - **覆盖范围与对象** 涵盖当时处于欧洲工业化边缘的南欧六国（总人口超 1.2 亿），涉及六国各级各类正规公立学校、职业技术培训体系、[[Normal School\|师范教育]]与高等院校。
 > - **核心问题导向** 应对冷战初期苏联人造卫星升空（[[Sputnik Shock 1957\|斯普特尼克冲击]]）所诱发的西方危机焦虑，试图打破地中海沿岸国家的贫困技术陷阱，以现代教育体系替代传统宗法与古典精英学校制度。
@@ -70,7 +70,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心干预／机制假说
-> 项目确立的核心假说为：经济增长的物质资本瓶颈在本质上源于高素质技术与管理劳动力的短缺；通过科学预测目标年份（1975年）国民经济各部门的劳动力结构，并依据固定技术系数倒推教育系统的各级毕业生规模与财政预算，国家能够主动消解技能瓶颈并实现预设的高速 GDP 增长。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> 项目确立的核心假说为：经济增长的物质资本瓶颈在本质上源于高素质技术与管理劳动力的短缺；通过科学预测目标年份（1975年）国民经济各部门的劳动力结构，并依据固定技术系数倒推教育系统的各级毕业生规模与财政预算，国家能够主动消解技能瓶颈并实现预设的高速 GDP 增长。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 > [!policy-design] 方案设计
 > - **项目目标** 为六个试点国制定面向 1975 年的国家宏观教育总体规划，测算达到预定经济增长目标所必需的初等、中等、职业与高等教育入学率指标。
@@ -79,14 +79,14 @@ updated: 2026-10-22
 > - **实施控制** 统一采用赫伯特·帕内斯（Herbert Parnes, 1962）编写的《经济与社会[[Development Education|发展教育]]需求预测手册》作为六国通用的标准化方法学指导规程。
 
 > [!citation-card] 地中海区域项目的方法学宗旨与政策雄心
-> 地中海区域项目代表了一种人类历史上前所未有的制度尝试：它不再将教育预算视为社会救济或奢侈消费，而是依据现代经济计量模型，把各级学校系统严密编织进国家工业化腾飞的总体蓝图中；这是西方多边机构将教育政策彻底技术官僚化与投资化的历史起点。Parnes (1962, 转引自 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 541]])
+> 地中海区域项目代表了一种人类历史上前所未有的制度尝试：它不再将教育预算视为社会救济或奢侈消费，而是依据现代经济计量模型，把各级学校系统严密编织进国家工业化腾飞的总体蓝图中；这是西方多边机构将教育政策彻底技术官僚化与投资化的历史起点。Parnes (1962, 转引自 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024, p. 541]])
 >
 > *The Mediterranean Regional Project represents an unprecedented institutional attempt: it ceased to view the educational budget as social relief or luxury consumption; instead, grounded in modern econometric models, it tightly wove school systems into the overarching blueprint of national industrial take-off; this was the historical starting point for Western multilateral agencies to technocratise and capitalise educational policy.*
 
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **1960–1962 — 理论论证与第一阶段国别规划编制** 响应 1960 年[[1960 Bellagio Conference\|贝拉吉奥会议]]与 1961 年华盛顿会议的共识，[[OECD\|经合组织]]在巴黎召集六国规划负责人，确立帕内斯模型，完成首轮宏观劳动力预测。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
+> - **1960–1962 — 理论论证与第一阶段国别规划编制** 响应 1960 年[[1960 Bellagio Conference\|贝拉吉奥会议]]与 1961 年华盛顿会议的共识，[[OECD\|经合组织]]在巴黎召集六国规划负责人，确立帕内斯模型，完成首轮宏观劳动力预测。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–542)]]
 > - **1962–1965 — 政策落地与国家五年规划吸纳** 六国相继正式出版《地中海区域项目国别报告》（MRP Country Reports），将测算得出的师生比、校舍建设指标与生均公用经费直接写入国家发展计划（如西班牙第一期经济社会发展计划）。
 > - **1965–1970 — 跨国经验推广与规划[[Paradigm\|范式]]全球辐射** 经合组织发布 MRP 全球总结报告与批评性审查，将该范式横向输出至拉丁美洲与经合组织其他成员国，并直接刺激了[[UNESCO\|教科文组织]][[International Institute for Educational Planning\|国际教育规划研究所]]（IIEP）的全球规划培训业务。
 
@@ -111,12 +111,12 @@ updated: 2026-10-22
 > - **产出与结果指标** 中等教育普及率跃升、工程与技术类高等教育毕业生占比、劳动力文盲率降幅。
 
 > [!finding-cards] 核心实证结论
-> - **公立教育财政跨越式翻倍** 项目成功迫使南欧六国政府在财政紧缩压力下将教育开支列为法定优先序列，1960–1970 年间六国公共教育经费年均复合增长率超 10%。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **公立教育财政跨越式翻倍** 项目成功迫使南欧六国政府在财政紧缩压力下将教育开支列为法定优先序列，1960–1970 年间六国公共教育经费年均复合增长率超 10%。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 > - **中等职业与技术教育大扩张** 扭转了传统南欧过度偏重古典人文学科的精英偏好，建立了服务于现代制造业的大规模中等技术教育网络。
 > - **固定技术系数的机械失真** 事实证明基于固定生产系数的预测存在巨大误差；到 1970 年代初检验时，各国的实际劳动力分布与十年前预测指标出现高达 30%–50% 的显著偏离。
 
 > [!stat-cards]- 关键实证数据
-> 涵盖 6 个国家、累计编制出版 6 部长篇国别规划专著，撬动数十亿美元国家基建预算，培训了战后欧洲首代逾 500 名专职教育规划技术官僚。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> 涵盖 6 个国家、累计编制出版 6 部长篇国别规划专著，撬动数十亿美元国家基建预算，培训了战后欧洲首代逾 500 名专职教育规划技术官僚。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 541)]]
 
 ---
 

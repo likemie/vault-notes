@@ -238,4 +238,4 @@ updated: 2026-10-26
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026]] | Argument | [[Systematic Review\|系统综述]]揭示高利害问责导致教师混淆督导数据与学术研究并挤占研究阅读的文献。 |
 > | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]] | Argument | 实证揭示迎检焦虑与数据合规压制教师研究需求，并呼吁重构督导框架支持证据知情改进的实证文献。 |
 > | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | Argument | 跨国实证揭示 Ofsted 高利害督导如何诱发英格兰学校领导者的表演性合规与防御性证据采购。 |
-> | [[Argument_Verger_2019_Discourse\|Verger, Parcerisa and Fontdevila (2019)]] | Argument | 剖析英格兰[[New Public Management\|新公共管理]]体制下 Ofsted 督导利害演进，以及 2010 年联合政府对“杰出”学校实行常规督导豁免的制度调适。（p. 257） |
+> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]] | Argument | 剖析英格兰[[New Public Management\|新公共管理]]体制下 Ofsted 督导利害演进，以及 2010 年联合政府对“杰出”学校实行常规督导豁免的制度调适。（p. 257） |

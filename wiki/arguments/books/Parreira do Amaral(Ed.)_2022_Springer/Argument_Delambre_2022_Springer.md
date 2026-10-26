@@ -14,7 +14,7 @@ argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: Geopolitical Transformations in Higher Education
-citation: "Delambre, D. (2022). Creative Tension of Sense and the Whole Approach to Knowledge and Practice. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical Transformations in Higher Education (pp. 105–122). Cham: Springer."
+citation: "Delambre, D. (2022). Creative tension of sense and the whole approach to knowledge and practice. In M. Parreira do Amaral & C. Thompson (Eds.), Geopolitical transformations in higher education (pp. 105–122). Springer."
 publication_place: "Cham"
 publisher: "Springer"
 tags:

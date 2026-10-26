@@ -119,7 +119,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-25
+updated: 2026-10-26
 ---
 
 ---
@@ -238,7 +238,7 @@ updated: 2026-10-25
 > [!concept-lens] 循证清算与因果综合门槛
 > 从微观单项实验的因果识别到宏观政策采纳，必须跨越[[Research Synthesis|证据综合]]与[[Construct Validity\|构念效度]]的双重门槛。
 
-> [!claim] [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]]; [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]]
+> [!claim] [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]]
 > **因果有效性的综合门槛割裂** [[Internal Validity\|内部效度]]达标是因果推断成立的必要条件，但并非宏观认证的充分条件。Wadhwa et al. 揭示，由于不同清算机构在 **[[Evaluator Independence\|独立评估者]]复制**、**12 个月[[Fade-out Effect\|持续效果]]** 及 **[[Iatrogenic Effects in Education\|医源性伤害]]排除**等综合门槛上的分歧，单项高质量 [[Randomised Controlled Trials\|RCT]] 的因果结论在跨机构综合评级中表现出高达 35.4% 的极端冲突，要求政策制定者穿透评级标签审视底层因果证据。[[Argument_Hitchcock_2015_JBE\|(Hitchcock et al., 2015, pp. 461–462)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 4, 26)]]
 
 ---
@@ -333,7 +333,7 @@ updated: 2026-10-25
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen, Manion, & Morrison (2011)]] — 系统构建教育研究因果推断全景，详述概率因果、[[Counterfactual\|反事实]]、[[Screening Off\|筛选隔离]]、[[Causal Over-determination\|因果过度决定]]及真实验前[[Pre-test and Post-test\|后测]][[Difference-in-Differences\|双重差分]]效应模型（Ch. 4 / Ch. 16）。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 明确量化因果推断三要件（关联证据、时间顺序、排除替代解释）及[[Causal Modeling\|因果建模]]路径。
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 论证单一被试实验（[[Single-Case Design\|SCD]]）与组间实验的因果推断同构性及[[Internal Validity\|内部效度]]门控机制。
-> - [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] — 建立清算中心 0–3 级因果识别设计分级标准，揭示微观因果证据向宏观政策转译时的综合门槛割裂。
+> - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 建立清算中心 0–3 级因果识别设计分级标准，揭示微观因果证据向宏观政策转译时的综合门槛割裂。
 > - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] — 系统考据美国国家立法对“因果关系主张合法性边界”的界定流变，揭示从 [[No Child Left Behind Act 2001|NCLB]] 强制偏向随机对照到 [[Education Sciences Reform Act 2002|ESRA]] 确立“在实质上排除竞争性解释即可推断因果”的法理演进（pp. 33–35）。
 > - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] — 梳理国际批判学者对宏观[[Meta-meta-analysis|二阶元分析]]因果推断合法性的质疑，指出以[[Statistical Significance|统计显著性]]替代因果机制、断言[[Effect Size|效应量]]“不能构成因果”的方法论缺陷（pp. 237–241）。
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 系统梳理比较[[Epistemology|认识论]]中因果观念的代际演进，深入剖析[[Positivism|实证主义]]跨国因果律追求、波普尔-霍姆斯基于初始条件的假说演绎条件因果模型（$L + I = P$），以及对方法论主义因果盲区的反思（pp. 146–150）。

@@ -1,5 +1,5 @@
 ---
-citation: "Ross, S. M., & Morrison, J. R. (2021). Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges. ECNU Review of Education, 4(1), 108-127. https://doi.org/10.1177/2096531120916742"
+citation: "Ross, S. M., & Morrison, J. R. (2021). Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges. ECNU Review of Education, 4(1), 108–127. https://doi.org/10.1177/2096531120916742"
 extracted_to:
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
 processed_date: 2026-05-23

@@ -1,5 +1,5 @@
 ---
-citation: "Susalka, S. J., & Carbone, H. D. (2025). Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 271–287). Springer."
+citation: "Susalka, S. J., & Carbone, H. D. (2025). Untangling the IP web: Ownership, rights, and strategies in university–industry collaboration. In R. Hall & A. Boccanfuso (Eds.), University-industry collaboration: Innovation at the interface (pp. 271–287). Springer."
 extracted_to:
   - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
 processed_date: 2026-06-03

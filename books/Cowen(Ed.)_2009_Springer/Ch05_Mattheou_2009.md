@@ -1,5 +1,5 @@
 ---
-citation: "Mattheou, D. (2009). The Scientific Paradigm in Comparative Education. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 59–71). Dordrecht: Springer."
+citation: "Mattheou, D. (2009). The scientific paradigm in comparative education. In R. Cowen & A. M. Kazamias (Eds.), International handbook of comparative education (pp. 59–71). Springer."
 extracted_to:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
 processed_date: 2026-09-07

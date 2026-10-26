@@ -205,7 +205,7 @@ updated: 2026-10-26
 > - [[Argument_Yu_2024_CE|Yu and Zhao (2024)]] — 多元文化视角下的儒家教育传统研究，对 37 名涵盖 15 个少数民族的大学生开展深度对话。
 > - [[Argument_Teng_2025_CE|Teng and Wang (2025)]] — 农村[[Peidu|陪读]][[School Choice|择校]]微观动力学研究，深度访谈 128 名家长、教师与基层教育官员，并完成追踪回访。
 > - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 中国学校[[Learner-Centred Education|以学习者为中心的教育]]（Learner-Centred Education, LCE）本土化研究，深入访谈 4 位校长与 9 位骨干教师。
-> - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson et al. (2022b, pp. 182–199)]] — 对澳大利亚 29 名教师与[[School Leadership|学校领导]]者做 27 场[[Semi-structured Interview|半结构化访谈]]，以 [[Qualitative Codebook|codebook]] 主题分析提炼[[Quality Use of Research Evidence Framework|高质量研究使用]]与[[Poor Research Use|劣质研究使用]]的六大特征。
+> - [[Argument_Rickinson_2022_UsingResearchWell|Rickinson, Walsh, et al. (2022, pp. 182–199)]] — 对澳大利亚 29 名教师与[[School Leadership|学校领导]]者做 27 场[[Semi-structured Interview|半结构化访谈]]，以 [[Qualitative Codebook|codebook]] 主题分析提炼[[Quality Use of Research Evidence Framework|高质量研究使用]]与[[Poor Research Use|劣质研究使用]]的六大特征。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]] — 考证美国 2000 年卡斯尔草案试图将深度访谈降级为“初步形式”的法案争议，记录学术共同体如何依托 NRC 六大原则捍卫质性深入对话的方法论地位（pp. 33–34）。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学术史中深度访谈等质性调查方法的激增，标志着学科研究由单一依赖[[Primary and Secondary Documents|二手文献]]的历史综述转向[[Fieldwork|实地调查]]。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 对澳大利亚与英国 19 位前卫生及就业政策部长与高级公务员开展深度访谈，考察英澳精英网络在跨国政策转移中的认知调适与主观动力机制。

@@ -14,7 +14,7 @@ argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: New Zealand Journal of Educational Studies
-citation: "O'Neill, J. (2012). Material fallacies of education research evidence and public policy advice. New Zealand Journal of Educational Studies, 47(1), 153-160."
+citation: "O'Neill, J. (2012). Material fallacies of education research evidence and public policy advice. New Zealand Journal of Educational Studies, 47(1), 153–160."
 tags:
 - visible-learning
 - class-size
@@ -45,7 +45,7 @@ sources:
 part_of: ''
 status: published
 created: '2026-05-06'
-updated: 2026-10-23
+updated: 2026-10-26
 year: 2012
 doi: ""
 citation_aliases:
@@ -56,7 +56,7 @@ citation_aliases:
 > 以新西兰 Treasury 2011 年向候任财政部长简报为案例，分析教育政策论述中的[[Material Fallacies\|实质谬误]]（material fallacies），并探讨研究者在证据被误用时负有何种道德-专业责任。
 
 > [!abstract] 理论框架
-> - [[Material Fallacies]] — Kreeft (2010) 的逻辑分类：实质谬误是"在理解术语的含义或用法方面的错误"(p.85)，本文将其应用于教育政策[[Discourse Analysis\|话语分析]]
+> - [[Material Fallacies]] — Kreeft (2010) 的逻辑分类：实质谬误是"在理解术语的含义或用法方面的错误"，本文将其应用于教育政策[[Discourse Analysis\|话语分析]]
 > - [[Policy Entrepreneur]] — Mintrom (2000) 概念，用以理解政策行动者如何在教育改革[[Discourse|话语]]中定位自身以倡导、塑造和获益
 
 > [!info] 研究方法
@@ -77,9 +77,9 @@ citation_aliases:
 > - "优质教学"(quality teaching, Alton-Lee, 2003)和"教学质量"(quality of teaching, Hattie, 2009a)在学术和政策[[Discourse|话语]]中日益被当作口号使用，引发基于词汇熟悉度而非理性的膝跳反射式赞同或反对
 > - Treasury 将"教学质量"用作代理概念（proxy concept），以包装更具争议的政策目的（如教师绩效管理），使其获得接受
 > - Hattie 的综合涵盖早教、学校教育和高等教育所有阶段，非学校阶段的研究对学校教育政策无已证明的相关性，但其纳入扭曲了特定主题的平均[[Effect Size\|效应量]]和排名位置
-> - Hattie 本人承认的若干重要警示被 Treasury 忽略：相关不等于因果(p.3)、成功效应多来自创新而非日常课堂(p.6)、该书"不涉及课堂生活"（p.viii）、非元分析研究可提供更丰富细致的证据(p.255)
+> - Hattie 本人承认的若干重要警示被 Treasury 忽略：相关不等于因果、成功效应多来自创新而非日常课堂、该书"不涉及课堂生活"（p.viii）、非元分析研究可提供更丰富细致的证据
 > - [[Class Size\|班级规模]]不是单纯的"工作条件"或"课堂构成效应"（Hattie 的分类），而是教学与学习的"条件"——Blatchford et al.的自然主义研究证明班级规模实质性地影响课堂中实际发生的教与学过程
-> - Treasury 建议增加生师比与 Hattie 本人的结论矛盾：Hattie 明确写道"效应量的正向符号表明增加班级规模是糟糕的政策"(p.88)
+> - Treasury 建议增加生师比与 Hattie 本人的结论矛盾：Hattie 明确写道"效应量的正向符号表明增加班级规模是糟糕的政策"
 > - [[OECD]] 数据（2011, Table D2.2）显示新西兰小学和初中生师比（16.3 和 12.8）高于 OECD 均值，不存在增加比率的证据基础
 
 > [!quote] 关键引用

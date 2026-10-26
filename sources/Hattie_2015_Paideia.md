@@ -1,5 +1,5 @@
 ---
-citation: "Hattie, J. (2015). Synlig læring i dag. Paideia, 9, 9-21."
+citation: "Hattie, J. (2015). Synlig læring i dag. Paideia, 9, 9–21."
 extracted_to:
   - "[[Argument_Hattie_2015_Paideia]]"
 processed_date: 2026-05-21

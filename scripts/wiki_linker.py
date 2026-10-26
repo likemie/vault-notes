@@ -2104,7 +2104,12 @@ APA_YEAR_TOKEN_RE = re.compile(r"((?:19|20)\d{2})([a-z])?")
 APA_DISPLAY_WIKILINK_RE = re.compile(r"\[\[([^\]\n|\\]+)(\\?\|)([^\]\n]+)\]\]")
 
 
+CITATION_TARGET_SURNAMES: dict[str, set[str]] = {}
+
+
 def citation_build_target_aliases(lookup: dict[str, dict[str, Any]]) -> dict[str, list[str]]:
+    """target -> its citation aliases; also records each target's author surnames
+    (CITATION_TARGET_SURNAMES) so display rewrites never adopt another work's authors."""
     targets: dict[str, list[str]] = {}
     for alias, entry in lookup.items():
         arg = entry.get("argument")
@@ -2113,10 +2118,26 @@ def citation_build_target_aliases(lookup: dict[str, dict[str, Any]]) -> dict[str
         targets.setdefault(arg, [])
         if alias not in targets[arg]:
             targets[arg].append(alias)
+        if arg not in CITATION_TARGET_SURNAMES:
+            CITATION_TARGET_SURNAMES[arg] = {
+                vaultlib.author_label(a).casefold() for a in entry.get("authors") or [] if vaultlib.author_label(a)
+            }
     return targets
 
 
-def citation_rewrite_drifted_display(display: str, aliases: list[str]) -> str | None:
+def citation_display_surnames(author_part: str) -> set[str]:
+    """Surnames named in a display's author part ('Kim, J., Lee, & Park et al.' -> kim, lee, park)."""
+    text = re.sub(r"\bet al\.?", "", author_part)
+    names = set()
+    for piece in re.split(r",|&|\band\b|/|;", text):
+        piece = piece.strip()
+        if not piece or re.fullmatch(r"(?:[A-ZÀ-ÖØ-Þ]\.\s*-?\s*)+", piece):
+            continue  # initials
+        names.add(piece.casefold())
+    return names
+
+
+def citation_rewrite_drifted_display(display: str, aliases: list[str], surnames: set[str] | None = None) -> str | None:
     """Rewrite an Argument link display that drifted from the target's citation_aliases.
 
     1. Year suffix drift: 'Cohen et al., 2011, p. 30' -> 'Cohen et al., 2011a, p. 30'
@@ -2158,6 +2179,11 @@ def citation_rewrite_drifted_display(display: str, aliases: list[str]) -> str | 
 
     if not re.match(r"[A-Za-zÀ-ÖØ-öø-ÿ]", d_author_raw):
         return None
+    # Every surname the display names must belong to the target work; otherwise
+    # the link itself is probably wrong (e.g. Creswell & Guetterman pointing to
+    # Creswell & Creswell) and is left for lint to report.
+    if surnames is not None and not citation_display_surnames(d_author_raw) <= surnames:
+        return None
     for alias, am in same_form:
         a_author = alias[: am.start()].strip(" ,，（(")
         if am.group(1) != m.group(1) or first_surname(a_author) != first_surname(d_author_raw):
@@ -2180,7 +2206,7 @@ def citation_fix_display_suffixes(text: str, targets: dict[str, list[str]], stat
         aliases = targets.get(target)
         if not aliases:
             return match.group(0)
-        fixed = citation_rewrite_drifted_display(display, aliases)
+        fixed = citation_rewrite_drifted_display(display, aliases, CITATION_TARGET_SURNAMES.get(target))
         if fixed is None:
             return match.group(0)
         stats["fixed_display"] += 1

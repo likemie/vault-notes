@@ -23,7 +23,7 @@ citation_aliases:
   - "Torres, 2022a"
   - "Torres (2022a)"
 isbn: 978-92-64-73132-5
-citation: "Torres, J. M. (2022). Facilitating research use: Scary barriers (and super mechanisms). In N. Révai (Ed.), Who cares about using education research in policy and practice?: Strengthening research engagement (pp. 103–124). Paris: OECD Publishing. https://doi.org/10.1787/d7ff793d-en"
+citation: "Torres, J. M. (2022). Facilitating research use: Scary barriers (and super mechanisms). In N. Révai (Ed.), Who cares about using education research in policy and practice?: Strengthening research engagement (pp. 103–124). OECD Publishing. https://doi.org/10.1787/d7ff793d-en"
 part_of: "[[Revai(Ed.)_2022_OECD]]"
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch05_Torres_2022|Ch05_Torres_2022]]"

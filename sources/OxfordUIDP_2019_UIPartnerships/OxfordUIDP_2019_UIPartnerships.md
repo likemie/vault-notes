@@ -1,5 +1,5 @@
 ---
-citation: "University of Oxford & University-Industry Demonstration Partnership (UIDP). (2019). Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019."
+citation: "University of Oxford & University-Industry Demonstration Partnership (UIDP). (2019). Developing university-industry partnerships fit for the future: Report of the inaugural Oxford UIDP Summit 2019."
 extracted_to:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 processed_date: 2026-06-10

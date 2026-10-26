@@ -334,6 +334,13 @@ def ns_subgroup_rows(text: str) -> List[Tuple[int, str]]:
             i += 1
     return out
 
+_ROW_LINK_RE = re.compile(r"\[\[([^\]|\\\n]+)(?:\\?\|[^\]\n]*)?\]\]")
+
+
+def _row_key(row: str) -> str:
+    return _ROW_LINK_RE.sub(lambda m: f"[[{m.group(1).strip()}]]", row.strip())
+
+
 def lint_file(path: Path, text: str, head_text: str = None) -> List[Problem]:
     """供 vault_lint.py 调用。head_text 为 HEAD 版本；已存在于 HEAD 的无数据行不报。"""
     p = str(path).replace("\\", "/")
@@ -341,9 +348,11 @@ def lint_file(path: Path, text: str, head_text: str = None) -> List[Problem]:
         return []
     probs = process(text, write=False)[1] if "效应值" in text else []
     if "/arguments/" not in p and "Argument_" not in p.split("/")[-1]:
-        old = set(head_text.split("\n")) if head_text else set()
+        # Rows already in HEAD are legacy; link display text is ignored so a
+        # citation-display rewrite does not turn an old row into a new one.
+        old = {_row_key(r) for r in head_text.split("\n")} if head_text else set()
         for ln, row in nodata_rows(text):
-            if row in old: continue
+            if _row_key(row) in old: continue
             probs.append(Problem("ERROR", ln, "EMPIRICAL_NO_DATA",
                 "实证表格只写有数据的结果：这一行的结果栏没有数值、比例、计数或统计量。"
                 "质性结论、政策文本归纳、仅有样本量的文字结论改写进正文或“相关研究”，或回原文补上数据"))

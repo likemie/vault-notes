@@ -1,5 +1,5 @@
 ---
-citation: "Ulrichsen, T. C. (2025). Evolution of University-Industry Relationships for Driving Innovation. In R. Hall & A. Boccanfuso (Eds.), University-Industry Collaboration: Innovation at the Interface (pp. 25–50). Springer."
+citation: "Ulrichsen, T. C. (2025). Evolution of university-industry relationships for driving innovation. In R. Hall & A. Boccanfuso (Eds.), University-industry collaboration: Innovation at the interface (pp. 25–50). Springer."
 extracted_to:
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 processed_date: 2026-05-27

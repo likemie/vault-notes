@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -66,10 +66,10 @@ updated: 2026-10-22
 > [!person-profile] 人物档案
 > - **身份位置** 德国国际关系与全球社会政策学者，不来梅大学（University of Bremen）政治科学教授，德国科学基金会（DFG）SFB 1342“全球社会政策动态”跨学科合作研究中心核心负责人。
 > - **核心角色** 当代国际组织行为学、非国家行为体参与与跨国教育治理政治学的前沿领军学者；将国际关系机制分析引入比较教育政策研究，开创“硬[[Soft Power by Hard Facts\|事实软实力]]”与“[[Education-for-Mandates\|使命性教育嵌入]]”研究传统。
-> - **代表贡献** 提出并深化[[Soft Power by Hard Facts\|以硬事实施展软权力]][[Analytic Framework\|分析框架]]；提出[[Education-for-Mandates\|使命性教育嵌入]][[Construct\|构念]]；主持全球 495 个国际组织教育治理全域普查并构建 IO-ED 权威数据库；在 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 中奠定国际政治学分析基石。
+> - **代表贡献** 提出并深化[[Soft Power by Hard Facts\|以硬事实施展软权力]][[Analytic Framework\|分析框架]]；提出[[Education-for-Mandates\|使命性教育嵌入]][[Construct\|构念]]；主持全球 495 个国际组织教育治理全域普查并构建 IO-ED 权威数据库；在 [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] 中奠定国际政治学分析基石。
 
 > [!citation-card] 人物定位的关键来源
-> 克里斯汀·马滕斯敏锐地捕捉到了当代全球治理中一种隐蔽而强大的权力形态：国际组织无需动用主权强权或经济制裁，仅凭对量化硬事实的垄断生产与议程设置，便能对主权国家的公共政策产生深远的认知塑造与规制效应。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–540)]]
+> 克里斯汀·马滕斯敏锐地捕捉到了当代全球治理中一种隐蔽而强大的权力形态：国际组织无需动用主权强权或经济制裁，仅凭对量化硬事实的垄断生产与议程设置，便能对主权国家的公共政策产生深远的认知塑造与规制效应。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 537–540)]]
 >
 > *Kerstin Martens acutely captured a subtle yet formidable form of power in contemporary global governance: without resorting to sovereign coercion or economic sanctions, international organisations can exert profound cognitive shaping and regulatory effects on sovereign public policies merely through their monopolistic production of quantitative hard facts and strategic agenda-setting.*
 
@@ -82,7 +82,7 @@ updated: 2026-10-22
 > - **2010** 与 Ansgar Weymann 等合著出版《经合组织治理机制：国家决策的国际激励？》（*Mechanisms of OECD Governance*，牛津大学出版社）。
 > - **2013** 与丹尼斯·尼曼（Dennis Niemann）在《比较教育评论》（*Comparative Education Review*）发表奠基性论文《[[Soft Power by Hard Facts\|以硬事实施展软权力]]：经合组织、[[PISA]] 与教育治理》（*[[Soft Power]] by Hard Facts*）。
 > - **2018** 升任德国科学基金会 SFB 1342“全球社会政策动态”子项目 A05（全球教育[[Policy Network\|政策网络]]）首席科学家，依托战争关联（COW）数据库对全球 495 个国际组织展开全域检索并识别出涉教 20 大核心多边组织，构建全球 IO-ED 组织数据库。
-> - **2024** 与吉塔·施泰纳-哈姆西、[[Christian Ydesen\|克里斯蒂安·伊德森]]合作发表《[[Governing by Numbers\|数字治理]] 2.0》（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]），系统阐发[[Policy Brokerage\|政策中介]]作为全球治理工具的理论议程。
+> - **2024** 与吉塔·施泰纳-哈姆西、[[Christian Ydesen\|克里斯蒂安·伊德森]]合作发表《[[Governing by Numbers\|数字治理]] 2.0》（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024]]），系统阐发[[Policy Brokerage\|政策中介]]作为全球治理工具的理论议程。
 
 ---
 
@@ -106,7 +106,7 @@ updated: 2026-10-22
 > 当代全球治理中，国际组织的权威基础已从传统的条约法律强制转移至对专业知识与测量指标的垄断性生产。面对现代公共决策固有的歧义性与政治不确定性，国际组织扮演着超级“[[Policy Brokerage\|政策中介]]”的角色；通过将自身的法定使命（如促进经济增长、维护国际和平、保障自由贸易）转译并强行嵌入教育政策议程，国际组织利用量化指标构筑起坚硬的“[[Façade of Rationality\|理性表象]]”[[Scaffolding\|脚手架]]，以看似不偏不倚的科学硬事实施展强大的软性[[Epistemology\|认识论]]规制，驱动全球公共政策形成无强制的制度趋同。
 
 > [!citation-card] 硬事实构筑软性规制霸权的核心逻辑
-> [[OECD\|经合组织]]并不具备发布具有约束力的国际法指令的权力，其治理完全依托于对‘事实’的排他性定义；通过将错综复杂的社会现象转化为跨国可比的指标与排名，它成功为决策者构筑了无可辩驳的理性表象，从而在各国政治系统内部激发强烈的政策焦虑与跟进意愿。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–539)]]
+> [[OECD\|经合组织]]并不具备发布具有约束力的国际法指令的权力，其治理完全依托于对‘事实’的排他性定义；通过将错综复杂的社会现象转化为跨国可比的指标与排名，它成功为决策者构筑了无可辩驳的理性表象，从而在各国政治系统内部激发强烈的政策焦虑与跟进意愿。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 537–539)]]
 >
 > *The OECD possesses no mandate to issue legally binding directives; its governance relies entirely on the exclusive definition of 'facts'. By transforming complex social phenomena into internationally comparable indicators and rankings, it successfully scaffolds a façade of rationality for policymakers, thereby inducing potent policy anxieties and compliant convergence within domestic political systems.*
 
@@ -120,7 +120,7 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 主导提出核心理论构想，系统论证经合组织如何依托数据硬事实构筑认知权威、充当知识经纪人并引导成员国教育改革。
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 作为第二作者，主导多边组织拓扑矩阵分析与“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”、“[[Education-for-Mandates\|使命性教育嵌入]]”核心概念的学理建构。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 作为第二作者，主导多边组织拓扑矩阵分析与“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”、“[[Education-for-Mandates\|使命性教育嵌入]]”核心概念的学理建构。
 > - [[Argument_Rambla_2022_Springer\|Rambla (2022)]] — 在政策工具维度深化了 Martens 关于国际指标对本土政策重组机制的讨论。
 > - [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 24–25)]] — 援引马滕斯关于经合组织“比较转向”的论断，揭示跨国指标与比较方法如何从纯学术工具演化为赋予政治决策科学客观主义品牌的软治理技术。
 

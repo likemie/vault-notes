@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-26
 ---
 
 ---
@@ -76,7 +76,7 @@ updated: 2026-10-22
 > - **1953** 出生于南非开普敦，童年随家庭移民澳大利亚；后就读于新南威尔士大学（UNSW）法学院并获商学与法学双学士学位。
 > - **1970s–1980s** 早期进入顶级商业律所 Freehills 成为合伙人，随后转向投资银行业务，创立咨询公司 Wentworth Associates 并迅速成长为澳洲企业并购界最炙手可热的商法顾问。
 > - **1990s–2000s** 深度介入商业金融与公共文化界治理，先后出任澳新银行董事长、澳大利亚泛太平洋电信（SingTel Optus）高管及联邦电影审查局要职；在此期间，受总理约翰·霍华德（John Howard）委任负责制定促进企业慈善与税收减免的法案建议，直接推动了《2001年公司法》中关于担保有限公司与企业慈善的立法配套（Gonski, 2015；[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 5]]）。
-> - **2010–2011 — 领衔 Gonski 1.0 学校资金审查** 受吉拉德（Julia Gillard）工党联邦政府委托，担任学校教育拨款审查委员会主席，历经 18 个月调研发布里程碑式的 Gonski 1.0 报告，确立全澳需求本位拨款基准；同时在报告中明确建议建立拓宽民间与企业向公立学校捐赠的政策机制，这一建议直接催生了全澳首家面向公立学校的免税筹款中介机构[[Australian Schools Plus\|澳大利亚学校加计划]]（Australian Schools Plus）（[[Argument_Keddie_2020_IJLE\|Keddie et al., 2020b, p. 2]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 525]]）。
+> - **2010–2011 — 领衔 Gonski 1.0 学校资金审查** 受吉拉德（Julia Gillard）工党联邦政府委托，担任学校教育拨款审查委员会主席，历经 18 个月调研发布里程碑式的 Gonski 1.0 报告，确立全澳需求本位拨款基准；同时在报告中明确建议建立拓宽民间与企业向公立学校捐赠的政策机制，这一建议直接催生了全澳首家面向公立学校的免税筹款中介机构[[Australian Schools Plus\|澳大利亚学校加计划]]（Australian Schools Plus）（[[Argument_Keddie_2020_IJLE\|Keddie, MacDonald, Blackmore, Wilkinson, et al., 2020, p. 2]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 525]]）。
 > - **2012–2017 — 商业慈善平台运作与名声神圣化** 出任[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）前子公司[[Australian Philanthropic Services\|澳大利亚慈善服务社]]（APS）董事长，与 Belinda Hutchinson、[[Michael Traill]] 及 Timothy Fairfax 等[[Venture Philanthropy\|风险慈善]]领袖紧密共事（ASIC, 2021c；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 7, 9]]）；同期澳洲公立教师工会发起著名的“#igiveagonski”全国声援运动，将“冈斯基”塑造成追求教育公平与增加财政拨款的公共神圣符号。
 > - **2013–至今 — 领衔学校加计划先驱者委员会与动员私人财富** 随着联邦议会破例通过专属税法修正案授予[[Australian Schools Plus\|澳大利亚学校加计划]]全国唯一的公立学校第一类可抵税捐赠受赠人（[[Deductible Gift Recipient]] Type 1, DGR1）法定资质，冈斯基亲自出任其先锋慈善家委员会（Pioneers in Philanthropy Committee）主席，深度联手美洲银行前高管罗杰·马西-格林（Roger Massy-Greene）等商界精英，动员高净值私人大额财富定向注入公立学校创新项目（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 > - **2017–2018 — 领衔 [[Gonski 2.0]] 卓越审查与 [[Australian Education Research Organisation\|AERO]] 催生** 受特恩布尔（Malcolm Turnbull）自由党联盟联邦政府委托，领衔开展第二轮全国教育审查，发布《通过成长实现成就：实现澳大利亚学校教育卓越审查报告》（Gonski 2.0），其第 23 条建议直接推动联邦与各州设立国家级教育证据机构（AERO）（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
@@ -84,7 +84,7 @@ updated: 2026-10-22
 ---
 
 > [!work-line] 标志性政策审查报告
-> - **2011 — *Review of Funding for Schooling: Final Report*（Gonski 1.0）** 确立资源分配公平基准，提出“学校资源标准”（Schooling Resource Standard，SRS）加弱势附加拨款模型，主张根据原住民、残疾、社会经济不利及偏远地理等指标实行差异化补偿拨款，并建议设立公立学校民间慈善募捐机制（[[Gonski Reforms]]；[[Argument_Keddie_2020_IJLE\|Keddie et al., 2020b, p. 11]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
+> - **2011 — *Review of Funding for Schooling: Final Report*（Gonski 1.0）** 确立资源分配公平基准，提出“学校资源标准”（Schooling Resource Standard，SRS）加弱势附加拨款模型，主张根据原住民、残疾、社会经济不利及偏远地理等指标实行差异化补偿拨款，并建议设立公立学校民间慈善募捐机制（[[Gonski Reforms]]；[[Argument_Keddie_2020_IJLE\|Keddie, MacDonald, Blackmore, Wilkinson, et al., 2020, p. 11]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
 > - **2018 — *[[Gonski 2.0\|Through Growth to Achievement]]: Report of the Review to [[Achieve]] Educational Excellence in Australian Schools*（Gonski 2.0）** 战略重心由“经费投入平等”转向“教育成果增益与个性化成长”（Progress and Growth）；核心提出设立独立国家教育证据机构（Recommendation 23），以统筹协调全国教育科研与因果证据转化（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]]）。
 
 > [!claim] 核心政策哲学与治理主张
@@ -134,11 +134,11 @@ updated: 2026-10-22
 > | [[Policy Network]] | 概念 | 冈斯基在澳大利亚教育政策网络中充当了连接政界、商法界与慈善界的超级旋转门节点。 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 Gonski 1.0 建议设立公立学校民间捐赠机制催生 Schools Plus，以及冈斯基出任先驱者委员会主席调动私人财富的运作实态。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 揭示冈斯基的[[Co-affiliation\|多重从属性]]、企业慈善游说背景及第 23 条建议背后的政策网络装配机制。 |
-> | [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] | 关键论证 | 分析 Gonski 拨款改革如何试图回归 Karmel 公平原则及其在各州学校自治政策中的落地遭遇。 |
+> | [[Argument_Keddie_2020_IJLE\|Keddie, MacDonald, Blackmore, Wilkinson, et al. (2020)]] | 关键论证 | 分析 Gonski 拨款改革如何试图回归 Karmel 公平原则及其在各州学校自治政策中的落地遭遇。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 追踪澳大利亚公立教育中的[[Venture Philanthropy\|风险慈善]]与国家重组网络，揭示 Gonski 1.0 报告如何直接催生[[Australian Schools Plus\|澳大利亚学校加计划]]（Schools Plus），以及冈斯基出任先锋慈善家委员会主席动员私人大额资本的制度运作。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 运用[[Network Ethnography\|网络民族志]]剖析 [[Gonski 2.0]] 第 23 条建议背后的[[Policy Network\|政策网络]]装配，解构冈斯基的商业律师与慈善游说者双重身份及 [[Australian Education Research Organisation\|AERO]] 的诞生脉络。
-> - [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] — 分析 Gonski 拨款审查如何试图重振 Karmel 需求本位公平原则，以及在各州自主化管理政策中遭遇的结构性阻力。
+> - [[Argument_Keddie_2020_IJLE\|Keddie, MacDonald, Blackmore, Wilkinson, et al. (2020)]] — 分析 Gonski 拨款审查如何试图重振 Karmel 需求本位公平原则，以及在各州自主化管理政策中遭遇的结构性阻力。

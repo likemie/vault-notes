@@ -17,7 +17,7 @@ argument_related_color: "#fecdd3"
 book_title: 金榜题名之后：大学生出路分化之谜
 publication_place: 上海
 publisher: 上海三联书店
-citation: "郑雅君 (2023). 金榜题名之后：大学生出路分化之谜. 上海: 上海三联书店."
+citation: "郑雅君 (2023). 金榜题名之后：大学生出路分化之谜. 上海三联书店."
 tags:
   - higher-education
   - social-stratification

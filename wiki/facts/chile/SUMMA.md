@@ -98,7 +98,7 @@ updated: 2026-10-26
 > - **2017 — 循证工具与创新地图发布** 在智利、乌拉圭、厄瓜多尔、墨西哥和哥伦比亚等国相继启动国家级工作网络；在厄瓜多尔基多发布《有效教育实践平台》（Plataforma de Prácticas Efectivas），在智利圣地亚哥上线《教育创新地图》（Mapa de Innovaciones）。
 > - **2018 — 跨国证据生态战略构建与矿业资本注资** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）与[[BHP Foundation|必和必拓基金会]]联合启动为期 5 年的“[[Building a Global Evidence Ecosystem for Teaching|构建全球教学证据生态系统]]”项目，SUMMA 获选为拉美和加勒比地区核心海外中枢，获得长期注资以推动工具包西葡双语转译与本土现场试验。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
 > - **2019 — 基金会独立法人化与 EDU-LAC 基金启动** 正式依法登记为独立法人“SUMMA 基金会”；携手 EEF 与必和必拓基金会发起设立“EDU-LAC 影响力基金”（Fondo Impacto EDU-LAC），专门资助拉美本土学校层级因果干预评估。
-> - **2020–至今 — 多边枢纽深化与区域网络扩展** 联合[[UNESCO|联合国教科文组织]]（UNESCO）发布拉美区域《[[Global Education Monitoring Report|全球教育监测报告]]》（GEM Report LAC）；携手[[Global Partnership for Education|全球教育伙伴关系]]（GPE）与加拿大 IDRC 建立 [[Knowledge and Innovation Exchange|KIX]] LAC 枢纽；在教科文组织全球战略审查中被评为拉美首个[[Education Innovation and Research|教育创新与研究]]实验室典范；业务协同国家扩展至 21 国，成为全球南方规模最大的跨国教育证据中介实体。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 43–45)]]
+> - **2020–至今 — 多边枢纽深化与区域网络扩展** 联合[[UNESCO|联合国教科文组织]]（UNESCO）发布拉美区域《[[Global Education Monitoring Report|全球教育监测报告]]》（GEM Report LAC）；携手[[Global Partnership for Education|全球教育伙伴关系]]（GPE）与加拿大 IDRC 建立 [[Knowledge and Innovation Exchange|KIX]] LAC 枢纽；在教科文组织全球战略审查中被评为拉美首个[[Education Innovation and Research|教育创新与研究]]实验室典范；业务协同国家扩展至 21 国，成为全球南方规模最大的跨国教育证据中介实体。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 43–45)]]
 
 ---
 
@@ -129,16 +129,16 @@ updated: 2026-10-26
 ---
 
 > [!indicators] 影响力维度与指标
-> - **主权合作网络跨度** 常态化协同拉美和加勒比 21 个国家的教育部，成为南美、中美及加勒比区域间唯一的官方互信教育创新与证据中枢；但受制于拉美频繁的政党更迭，中介机构需持续重构与新政府的信任协议。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 27, 43–45)]]
+> - **主权合作网络跨度** 常态化协同拉美和加勒比 21 个国家的教育部，成为南美、中美及加勒比区域间唯一的官方互信教育创新与证据中枢；但受制于拉美频繁的政党更迭，中介机构需持续重构与新政府的信任协议。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 27, 43–45)]]
 > - **双语实证基建供给** 首次打破拉美教育决策过度依赖英美英语文献的语言与情境壁垒，向全大陆数百万名西语与葡语校长及教师免费提供标准化证据工具包。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 49)]]
-> - **政策议程塑造与吸收转化** 深度参与智利国家教育质量局治理评估，研制符合本土情境的干预实践指南，展现极强的政策吸收转化力，为主管部门编制国家补偿性拨款与初任教师培养指南提供底层实证支撑。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, pp. 43–45)]]
+> - **政策议程塑造与吸收转化** 深度参与智利国家教育质量局治理评估，研制符合本土情境的干预实践指南，展现极强的政策吸收转化力，为主管部门编制国家补偿性拨款与初任教师培养指南提供底层实证支撑。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 43–45)]]
 
 > [!finding-cards] 关键成效与辐射影响
 > - **[[South-South Cooperation|南南合作]]与去中心化证据流动** 颠覆了传统以英美为单一源头的单向知识输出模式，促成拉美内部跨国实证协作（如智利、厄瓜多尔、乌拉圭与巴拿马的联合试验），建立了具有全球南方自主性的多中心证据生态。
 > - **循证理念与专业素养下沉** 通过 Impacta+ 平台与区域教师大调查，培育了拉美各国教育官僚与学校管理层运用因果证据审视教育方案的专业自觉。
 
 > [!stat-cards]- 核心规模数据
-> - **21** （个）拉美与加勒比合作国家教育部。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi et al., 2024a, p. 27)]]
+> - **21** （个）拉美与加勒比合作国家教育部。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 27)]]
 > - **10** （国）前教育部高级官员与顶尖学者组成董事会。
 > - **30+** （项）教学策略工具箱本土化因果综述。
 > - **1** （个）覆盖拉美全境的独立证据与创新实验室法人实体。
@@ -170,7 +170,7 @@ updated: 2026-10-26
 >
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
-> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi et al. (2024a)]] | Argument | 教科文组织全球战略审查将 SUMMA 评为拉美首个教育创新中介实验室典范，分析其跨国政策吸收转化与政党更迭风险。 |
+> | [[Argument_Steiner-Khamsi_2024_UNESCO\|Steiner-Khamsi, Faul, et al. (2024)]] | Argument | 教科文组织全球战略审查将 SUMMA 评为拉美首个教育创新中介实验室典范，分析其跨国政策吸收转化与政党更迭风险。 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | Argument | 梳理 SUMMA 在全球教学证据生态中推进工具包西葡双语转译与本土现场试验的路径。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | Argument | 从批判政策社会学视角审视必和必拓基金会注资 SUMMA 构建风险慈善异层治理的机制。 |
 > | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] | Argument | 批判跨国资本通过资助 SUMMA 将结构性不平等降维为循证技术干预的话语实践。 |

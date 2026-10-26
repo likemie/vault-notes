@@ -14,7 +14,7 @@ argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: International Education and the Chinese Learner
-citation: "Ryan, J. (2010). The Chinese Learner: Misconceptions and Realities. In J. Ryan & G. Slethaug (Eds.), International Education and the Chinese Learner (pp. 37–56). Hong Kong: Hong Kong University Press."
+citation: "Ryan, J. (2010). The Chinese learner: Misconceptions and realities. In J. Ryan & G. Slethaug (Eds.), International education and the Chinese learner (pp. 37–56). Hong Kong University Press."
 publication_place: "Hong Kong"
 publisher: "Hong Kong University Press"
 tags:
