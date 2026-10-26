@@ -215,6 +215,10 @@
     {
       "sentence": "参与 PISA 成为主权国家确立自身现代性合法地位的仪式性要求，进而诱发了国家正式政策修辞与学校实际教学之间的深层制度脱节（Decoupling）。",
       "target": "wiki/concepts/educational-philosophy/Cognitive Decoupling.md"
+    },
+    {
+      "sentence": "*OECD's PISA project repackages a neoliberal educational governance blueprint based on market logic, performance accountability, and technical rationality into an objective scientific assessment, essentially acting as a Trojan Horse infiltrating national public education systems.*",
+      "target": "wiki/theories/educational-policy-reform/Educational Governance Framework.md"
     }
   ]
 }

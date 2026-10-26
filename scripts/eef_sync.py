@@ -607,6 +607,199 @@ def cmd_register_external(args) -> int:
     print(f"external literature: {added} new rows, {merged} dataset tags added to existing rows ({len(works)} candidates)")
     return 0
 
+# ----------------------------------------------------------------- promising programmes
+PROG_JSON = DATA_DIR / "programmes.json"
+PROG_TEMPLATE = ROOT / "wiki/templates/template-eef-programme.md"
+PROG_ZH = {
+    "1stclass-number-1": "为二年级数学困难学生设计的 10 周小组数学干预。",
+    "concept-cat": "面向全班的早期语言概念教学方法。",
+    "counting-collections": "面向学前班全班的早期数感项目，练习点数、目测数量、比较与组合。",
+    "dialogic-teaching": "提升课堂对话质量，以增强儿童的投入、学习与学业成绩。",
+    "embedding-formative-assessment": "在全校推行形成性评价策略的教师专业发展项目。",
+    "emotion-coaching": "帮助早期教育从业者支持儿童情绪调节。",
+    "fft-reciprocal-reading": "定向、结构化、以讨论为基础的阅读理解教学。",
+    "focus-for-teacher-assessment-in-primary-science-focus4taps": "支持小学教师改进科学教学与评价的项目。",
+    "lexia-reading-core5": "以技术为主导、旨在提升阅读能力的整合学习系统。",
+    "mathematical-reasoning": "帮助学生理解数学背后逻辑原理的全班项目。",
+    "mathematics-mastery-primary": "全校推行的小学数学掌握教学。",
+    "mathematics-mastery-secondary": "面向第三关键阶段的数学掌握教学。",
+    "maths-champions": "提升幼儿园从业者知识，以支持儿童早期数学发展。",
+    "maths-whizz-intelligent-tutoring": "面向全班的在线智能导学项目。",
+    "neli-preschool": "面向 3 至 4 岁儿童的全班口语丰富项目，附加定向干预。",
+    "nuffield-early-language-intervention": "通过脚本化的个别与小组语言课提升儿童语言能力。",
+    "pals-uk": "全班结构化结对阅读，提升阅读流畅度与理解。",
+    "power-of-pictures": "用图画书与插画提升第二关键阶段学生的读写能力。",
+    "reception-jigsaw": "面向学前班教师的专业发展项目，提升儿童早期数学理解。",
+    "stop-and-think": "以测验与游戏帮助学生掌握反直觉科学概念的软件项目。",
+    "success-for-all": "全校推行的小学读写改进项目。",
+    "talking-time": "面向 3 至 5 岁儿童口语能力的普及性干预。",
+    "tutor-trust-primary": "低成本的一对一与小组数学辅导。",
+}
+EVIDENCE_TYPE_ZH = {"Efficacy level evidence": "效能试验", "Effectiveness level evidence": "成效试验",
+                    "Pilot Study": "试点研究", "Scale-Up": "规模化评估", "Subsidised Programme": "资助推广"}
+TAG_ZH = {"Maths": "数学", "Reading": "阅读", "Literacy": "读写", "Science": "科学", "Cross curriculum": "跨学科",
+          "Communication and language": "沟通与语言", "Speech and language": "言语与语言", "Early Years": "早期教育",
+          "Personal, social and emotional development": "个人、社会与情绪发展", "Whole class approach": "全班实施",
+          "Whole school approach": "全校实施", "Whole setting approach": "全园实施", "Targeted approach": "定向干预"}
+SECURITY_ZH = {"very high": "极高", "high": "高", "moderate-to-high": "中高", "moderate": "中", "low": "低", "very low": "极低"}
+MONTH_NUM = {m: i for i, m in enumerate(["January", "February", "March", "April", "May", "June", "July", "August",
+                                         "September", "October", "November", "December"], 1)}
+
+
+def _int(v):
+    v = re.sub(r"[^\d]", "", str(v or ""))
+    return int(v) if v else None
+
+
+def _trial_label(title: str, programme: str) -> str:
+    tail = re.split(r"\s+[–-]\s+", title, maxsplit=1)
+    tail = tail[1] if len(tail) > 1 else ""
+    t = tail.lower().strip(" ()")
+    for k, v in (("second effectiveness", "第二次成效试验"), ("first trial", "第一次试验"), ("second trial", "第二次试验"),
+                 ("scale up evaluation", "规模化评估"), ("scale-up", "规模化评估"), ("scale up", "规模化评估"),
+                 ("pilot", "试点"), ("re-grant", "追加资助试验"), ("trial", "试验")):
+        if k in t:
+            return v
+    if "(first trial)" in title.lower():
+        return "第一次试验"
+    if "(second trial)" in title.lower():
+        return "第二次试验"
+    return title
+
+
+def cmd_import_programmes(args) -> int:
+    raw = load_json(Path(args.raw), None)
+    trials_by_url = {t["url"]: t for t in raw["trials"]}
+    progs = {}
+    for p in raw["programmes"]:
+        slug = p["url"].rstrip("/").rsplit("/", 1)[-1]
+        urls = list(dict.fromkeys(list(p.get("trial_urls") or []) + [t["url"] for t in raw["trials"] if t.get("programme_url") == p["url"]]))
+        cost = None
+        for s_ in p.get("sections", []):
+            if "cost" in s_.get("heading", "").lower():
+                m = re.search(r"£\s?([\d,]+(?:\.\d+)?)\s*per pupil", s_.get("text", ""))
+                cost = float(m.group(1).replace(",", "")) if m else None
+        strands = []
+        for l in p.get("detail_links", []):
+            m = re.search(r"/(teaching-learning-toolkit|early-years/toolkit)/([\w-]+)", l.get("url", ""))
+            if m:
+                key = ("ey:" if m.group(1).startswith("early") else "") + m.group(2)
+                if key not in strands:
+                    strands.append(key)
+        trials = []
+        for u in urls:
+            t = trials_by_url.get(u)
+            if not t:
+                continue
+            pt, mt = t.get("page_text", ""), t.get("metrics", {})
+            mm = re.search(r"Impact \(months\).*?([+−-]?\d+)months", pt, re.S)
+            ev = re.search(r"Independent Evaluator(.+?)(?:" + re.escape((t.get("subtitle") or "")[:20] or "@@") + r"|\n)", pt)
+            sec = re.search(r"(very high|moderate-to-high|high|moderate|very low|low) security rating", pt, re.I)
+            done = re.search(r"Completed (\w+) (\d{4})", mt.get("completed", ""))
+            reports = [d_ for d_ in t.get("documents", []) if re.search(r"report", d_.get("title", ""), re.I)]
+            reports.sort(key=lambda d_: d_.get("uploaded_at", ""), reverse=True)
+            trials.append({
+                "url": u, "title": t["title"], "label": _trial_label(t["title"], p["title"]), "kind": t.get("project_kind"),
+                "type": mt.get("type_of_trial") or None, "completed": f"{done.group(2)}-{MONTH_NUM.get(done.group(1), 0):02d}" if done else None,
+                "pupils": _int(mt.get("pupils")), "schools": _int(mt.get("schools")), "grant": mt.get("grant"),
+                "key_stage": mt.get("key_stage"), "months": int(mm.group(1).replace("−", "-")) if mm else None,
+                "security": sec.group(1).lower() if sec else None,
+                "not_significant": "not statistically significant" in pt,
+                "evaluator": ev.group(1).strip() if ev else None,
+                "report": reports[0]["url"] if reports else None,
+            })
+        trials.sort(key=lambda t: t["completed"] or "9999")
+        progs[slug] = {
+            "name": p["title"], "url": p["url"], "description": p.get("description"),
+            "months": int(p["months_progress"]) if re.fullmatch(r"[+-]?\d+", p.get("months_progress") or "") else None,
+            "evidence_type": p.get("evidence_type"), "tags": p.get("tags", []), "cost_per_pupil": cost,
+            "strands": strands, "trial_urls_listed": len(p.get("trial_urls") or []), "trials": trials, "entries": [],
+        }
+    old = load_json(PROG_JSON, {"programmes": {}})
+    for k, v in progs.items():
+        v["entries"] = old.get("programmes", {}).get(k, {}).get("entries", [])
+    dump_json(PROG_JSON, {"_note": "Generated by scripts/eef_sync.py import-programmes; edit only entries.",
+                          "source": raw.get("source"), "exported_at": raw.get("exported_at"), "programmes": dict(sorted(progs.items()))})
+    print(f"programmes {len(progs)}, trials {sum(len(v['trials']) for v in progs.values())}")
+    return 0
+
+
+def programme_checks(p: dict) -> list[str]:
+    out = []
+    if p["trial_urls_listed"] and p["trial_urls_listed"] != len(p["trials"]):
+        out.append(f"**自动核算 · 试验数不一致** 项目页列出 {p['trial_urls_listed']} 项试验，采集到的试验页为 {len(p['trials'])} 项。")
+    months = [t["months"] for t in p["trials"] if t["months"] is not None]
+    if p.get("months") is not None and months and p["months"] not in months:
+        out.append(f"**自动核算 · 影响月数对不上** 项目标注 {p['months']:+d} 个月，各试验报告的是 {'、'.join(f'{m:+d}' for m in months)} 个月。")
+    if p.get("months") is None:
+        out.append("**自动核算 · 缺少影响月数** 项目页没有给出影响月数。")
+    return out
+
+
+def render_programme(slug: str, p: dict, errata: list, titles: dict) -> str:
+    tags = " · ".join(TAG_ZH.get(t, t) for t in p["tags"])
+    links = []
+    for k in p["strands"]:
+        title = MAPPING.get(k)
+        zh = ZH_NAMES.get(k, k)
+        links.append(f"[[{title}|{zh}]]" if title and title in titles else zh)
+    info = "EEF 有望项目 · " + EVIDENCE_TYPE_ZH.get(p.get("evidence_type"), p.get("evidence_type") or "") + (f" · {tags}" if tags else "")
+    if links:
+        info += " · 工具包策略 " + "、".join(dict.fromkeys(links))
+    pupils = sum(t["pupils"] or 0 for t in p["trials"])
+    schools = sum(t["schools"] or 0 for t in p["trials"])
+    months = "NA" if p.get("months") is None else f"{p['months']:+d} 个月".replace("+0", "0")
+    cost = "NA" if p.get("cost_per_pupil") is None else f"£{p['cost_per_pupil']:g}"
+    lines = [f"> [!eef-programme] [{esc(p['name'])}]({p['url']})", f"> {PROG_ZH.get(slug, p.get('description') or '')}", ">",
+             f"> {info}", ">",
+             "> | imp | type | n | pupils | schools | cost |", "> | --- | --- | --- | --- | --- | --- |",
+             f"> | {months} | {EVIDENCE_TYPE_ZH.get(p.get('evidence_type'), 'NA')} | {len(p['trials'])} | {pupils:,} | {schools:,} | {cost} |"]
+    if p["trials"]:
+        lines += [">", f"> > [!eef-trials]- {len(p['trials'])} 项试验",
+                  "> > | trial | type | done | n | imp | sec | rep |", "> > | --- | --- | --- | --- | --- | --- | --- |"]
+        for t in p["trials"]:
+            imp = "NA" if t["months"] is None else f"{t['months']:+d}".replace("+0", "0")
+            if t["not_significant"] and t["months"] is not None:
+                imp += "（不显著）"
+            n = f"{(t['pupils'] or 0):,} / {(t['schools'] or 0):,}" if (t["pupils"] or t["schools"]) else "NA"
+            rep = f"[PDF]({t['report']})" if t.get("report") else ""
+            lines.append(f"> > | [{esc(t['label'])}]({t['url']}) | {EVIDENCE_TYPE_ZH.get(t.get('type'), t.get('type') or '—')} | "
+                         f"{t['completed'] or '—'} | {n} | {imp} | {SECURITY_ZH.get(t.get('security'), '—')} | {rep} |")
+    auto = programme_checks(p)
+    own = [e for e in errata if e.get("programme") == slug]
+    if auto or own:
+        lines += [">", f"> > [!eef-errata] {len(auto) + len(own)} 条"]
+        lines += [f"> > - {AUTO} {a}" for a in auto]
+        lines += [f"> > - {FLAG} **{e.get('type', '勘误')}** {e.get('note', '')}" for e in own]
+    return "\n".join(lines)
+
+
+def cmd_template_programme(args) -> int:
+    data = load_json(PROG_JSON, None)
+    titles = {e["title"] for e in load_json(WIKI_INDEX, [])}
+    p = data["programmes"][args.slug]
+    head = f"""---
+title: template-eef-programme
+aliases: []
+summary: "EEF 有望项目卡片样式样板，以 {p['name']} 的真实数据演示"
+type: template
+tags: []
+status: active
+created: 2026-10-27
+updated: 2026-10-27
+---
+
+%% 样板。正式模块由 EEF 同步脚本生成，不手写。
+   总览表头代号由 CSS 显示为中文：imp 影响（月）｜type 证据等级｜n 试验数｜pupils 学生（各试验合计）｜schools 学校（各试验合计）｜cost 每生年成本。
+   试验表：trial 试验｜type 类型｜done 完成｜n 学生 / 学校｜imp 影响（月）｜sec 结果安全性｜rep 报告。
+   效能试验（efficacy）在理想条件下检验能否起效，成效试验（effectiveness）在常规条件下大规模检验；主要结果不显著时在影响后注明。 %%
+
+"""
+    PROG_TEMPLATE.write_text(head + DIVIDER + "\n\n" + render_programme(args.slug, p, load_json(ERRATA_JSON, []), titles) + "\n", encoding="utf-8")
+    print(f"wrote {PROG_TEMPLATE.relative_to(ROOT)}")
+    return 0
+
+
 
 def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
@@ -618,6 +811,8 @@ def main() -> int:
     for name, fn in (("render", cmd_render), ("sync", cmd_sync)):
         p = sub.add_parser(name); p.add_argument("--check", action="store_true"); p.set_defaults(func=fn)
     sub.add_parser("apply-mapping").set_defaults(func=cmd_apply_mapping)
+    p = sub.add_parser("import-programmes"); p.add_argument("--raw", required=True); p.set_defaults(func=cmd_import_programmes)
+    p = sub.add_parser("template-programme"); p.add_argument("--slug", default="1stclass-number-1"); p.set_defaults(func=cmd_template_programme)
     p = sub.add_parser("register-external"); p.add_argument("--dry-run", action="store_true"); p.set_defaults(func=cmd_register_external)
     args = ap.parse_args()
     return args.func(args)

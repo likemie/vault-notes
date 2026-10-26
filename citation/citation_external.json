@@ -3878,8 +3878,6 @@
     "Carr, 2011": "Carr, 2011",
     "Carretti et al. (2009)": "Carretti et al., 2009",
     "Carretti et al., 2009": "Carretti et al., 2009",
-    "Carrico (2018)": "Carrico, 2018",
-    "Carrico, 2018": "Carrico, 2018",
     "Carriedo (1995)": "Carriedo, 1995",
     "Carriedo (1996)": "Carriedo, 1996",
     "Carriedo, 1995": "Carriedo, 1995",
@@ -6598,12 +6596,12 @@
     "Edward Diener & Larry Crandall, 1978": "Edward Diener & Larry Crandall, 1978",
     "Edward Leamer (1983)": "Edward Leamer, 1983",
     "Edward Leamer, 1983": "Edward Leamer, 1983",
-    "Edward Said (1983)": "Edward Said, 1983",
-    "Edward Said, 1983": "Edward Said, 1983",
     "Edward Soja (1996)": "Edward Soja, 1996",
     "Edward Soja, 1996": "Edward Soja, 1996",
     "Edward Vickers (2020)": "Edward Vickers, 2020",
     "Edward Vickers, 2020": "Edward Vickers, 2020",
+    "Edward W. Said (1978)": "Edward W. Said, 1978",
+    "Edward W. Said, 1978": "Edward W. Said, 1978",
     "Edward de Bono (1967)": "Edward de Bono, 1967",
     "Edward de Bono, 1967": "Edward de Bono, 1967",
     "Edwards & Mauthner (2002)": "Edwards & Mauthner, 2002",
@@ -9144,8 +9142,6 @@
     "Greutmann et al., 2020": "Greutmann et al., 2020",
     "Grewlich (1984)": "Grewlich, 1984",
     "Grewlich, 1984": "Grewlich, 1984",
-    "Grey & Morris (2022)": "Grey & Morris, 2022",
-    "Grey & Morris, 2022": "Grey & Morris, 2022",
     "Grgurovic et al. (2013)": "Grgurovic et al., 2013",
     "Grgurovic et al., 2013": "Grgurovic et al., 2013",
     "Grice (1975)": "Grice, 1975",
@@ -22711,15 +22707,12 @@
     "Takase & Yoshida, 2021": "Takase & Yoshida, 2021",
     "Takayama (2007)": "Takayama, 2007",
     "Takayama (2008)": "Takayama, 2008",
-    "Takayama (2018a)": "Takayama, 2018a",
-    "Takayama (2018b)": "Takayama, 2018b",
+    "Takayama (2018)": "Takayama, 2018",
     "Takayama et al. (2017)": "Takayama et al., 2017",
     "Takayama et al., 2017": "Takayama et al., 2017",
     "Takayama, 2007": "Takayama, 2007",
     "Takayama, 2008": "Takayama, 2008",
-    "Takayama, 2018": "Takayama, 2018a",
-    "Takayama, 2018a": "Takayama, 2018b",
-    "Takayama, 2018b": "Takayama, 2018b",
+    "Takayama, 2018": "Takayama, 2018",
     "Takehara (2021)": "Takehara, 2021",
     "Takehara, 2021": "Takehara, 2021",
     "Talan (2020)": "Talan, 2020",
@@ -55116,21 +55109,6 @@
       "seen_in": [],
       "title": "Role of working memory in explaining the performance of individuals with specific reading comprehension difficulties: A meta-analysis"
     },
-    "Carrico, 2018": {
-      "aliases": [
-        "Carrico, 2018",
-        "Carrico (2018)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Carrico, 2018"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Orientalism.md"
-      ],
-      "title": ""
-    },
     "Carriedo, 1995": {
       "aliases": [
         "Carriedo, 1995",
@@ -63756,8 +63734,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/higher-education/Grandes Ecoles.md",
-        "wiki/theories/comparative-education/Pluri-Scalar Governance.md"
+        "wiki/concepts/higher-education/Grandes Ecoles.md"
       ],
       "title": ""
     },
@@ -65884,8 +65861,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/persons/uk/Susan L. Robertson.md",
-        "wiki/theories/comparative-education/Pluri-Scalar Governance.md"
+        "wiki/persons/uk/Susan L. Robertson.md"
       ],
       "title": ""
     },
@@ -68343,7 +68319,6 @@
         "wiki/concepts/higher-education/Promising Student.md",
         "wiki/concepts/political-economy-geopolitics/Preemptive Governance.md",
         "wiki/concepts/university-industry-collaboration/Stakeholder University.md",
-        "wiki/theories/educational-philosophy/Panopticism.md",
         "wiki/theories/educational-philosophy/Societies of Control.md"
       ],
       "title": ""
@@ -74780,21 +74755,6 @@
       ],
       "title": ""
     },
-    "Edward Said, 1983": {
-      "aliases": [
-        "Edward Said, 1983",
-        "Edward Said (1983)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Edward Said, 1983"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Orientalism.md"
-      ],
-      "title": ""
-    },
     "Edward Soja, 1996": {
       "aliases": [
         "Edward Soja, 1996",
@@ -74822,6 +74782,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Cowen_2023_CE.md"
+      ],
+      "title": ""
+    },
+    "Edward W. Said, 1978": {
+      "aliases": [
+        "Edward W. Said, 1978",
+        "Edward W. Said (1978)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Edward W. Said, 1978"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Orientalism.md"
       ],
       "title": ""
     },
@@ -77529,8 +77504,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
-        "wiki/concepts/political-economy-geopolitics/Developmentalism.md",
-        "wiki/theories/political-economy-geopolitics/Orientalism.md"
+        "wiki/concepts/political-economy-geopolitics/Developmentalism.md"
       ],
       "title": ""
     },
@@ -79464,8 +79438,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
-        "wiki/theories/political-economy-geopolitics/Orientalism.md"
+        "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md"
       ],
       "title": ""
     },
@@ -82954,8 +82927,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-leadership-administration/Neo-Taylorism.md",
-        "wiki/concepts/sociology-of-education/Post-Fordism.md",
-        "wiki/theories/educational-philosophy/Panopticism.md"
+        "wiki/concepts/sociology-of-education/Post-Fordism.md"
       ],
       "title": ""
     },
@@ -93342,21 +93314,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/us/David C. Mowery.md"
-      ],
-      "title": ""
-    },
-    "Grey & Morris, 2022": {
-      "aliases": [
-        "Grey & Morris, 2022",
-        "Grey & Morris (2022)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Grey & Morris, 2022"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Orientalism.md"
       ],
       "title": ""
     },
@@ -153843,8 +153800,7 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Moisio_2022_Springer.md",
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
-        "wiki/concepts/political-economy-geopolitics/Geopolitics of Knowledge.md",
-        "wiki/theories/political-economy-geopolitics/Orientalism.md"
+        "wiki/concepts/political-economy-geopolitics/Geopolitics of Knowledge.md"
       ],
       "title": ""
     },
@@ -168560,8 +168516,7 @@
         "wiki/concepts/comparative-education/State Educational Sovereignty.md",
         "wiki/concepts/research-methodology/Unit of Analysis.md",
         "wiki/theories/comparative-education/Dialectic of the Global and the Local.md",
-        "wiki/theories/comparative-education/Globally Structured Agenda for Education.md",
-        "wiki/theories/comparative-education/Pluri-Scalar Governance.md"
+        "wiki/theories/comparative-education/Globally Structured Agenda for Education.md"
       ],
       "title": ""
     },
@@ -173348,8 +173303,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
-        "wiki/theories/political-economy-geopolitics/Orientalism.md"
+        "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md"
       ],
       "title": ""
     },
@@ -191623,10 +191577,10 @@
       ],
       "title": ""
     },
-    "Takayama, 2018a": {
+    "Takayama, 2018": {
       "aliases": [
-        "Takayama, 2018a",
-        "Takayama (2018a)"
+        "Takayama, 2018",
+        "Takayama (2018)"
       ],
       "doi": "",
       "identity_keys": [
@@ -191636,21 +191590,6 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Banal Imperialism.md",
         "wiki/concepts/political-economy-geopolitics/Re-Westernisation.md"
-      ],
-      "title": ""
-    },
-    "Takayama, 2018b": {
-      "aliases": [
-        "Takayama, 2018b",
-        "Takayama (2018b)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Takayama, 2018a"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/theories/political-economy-geopolitics/Orientalism.md"
       ],
       "title": ""
     },
@@ -198068,8 +198007,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/political-economy-geopolitics/Decolonial Paradox.md",
-        "wiki/theories/political-economy-geopolitics/Orientalism.md"
+        "wiki/concepts/political-economy-geopolitics/Decolonial Paradox.md"
       ],
       "title": ""
     },
@@ -202849,7 +202787,6 @@
         "wiki/concepts/research-methodology/Unit of Analysis.md",
         "wiki/persons/schools/Stanford School.md",
         "wiki/theories/comparative-education/Dialectic of the Global and the Local.md",
-        "wiki/theories/comparative-education/Pluri-Scalar Governance.md",
         "wiki/theories/comparative-education/World-Systems Theory.md",
         "wiki/theories/sociology-of-education/Cultural Models.md"
       ],
@@ -203994,8 +203931,7 @@
         "wiki/concepts/chinese-philosophy/Chinese Learner.md",
         "wiki/concepts/comparative-education/Confucian Heritage Cultures.md",
         "wiki/concepts/comparative-education/Paradox of the Chinese Learner.md",
-        "wiki/concepts/sociology-of-education/Stereotype Threat.md",
-        "wiki/theories/political-economy-geopolitics/Orientalism.md"
+        "wiki/concepts/sociology-of-education/Stereotype Threat.md"
       ],
       "title": ""
     },
@@ -211615,8 +211551,7 @@
         "wiki/arguments/journal-articles/Comparative Education/Argument_Wang_2025_CE.md",
         "wiki/concepts/educational-policy-reform/Examination-Oriented Education.md",
         "wiki/concepts/educational-policy-reform/Quality Education.md",
-        "wiki/concepts/instruction-pedagogy/Learner-Centred Education.md",
-        "wiki/theories/political-economy-geopolitics/Orientalism.md"
+        "wiki/concepts/instruction-pedagogy/Learner-Centred Education.md"
       ],
       "title": ""
     },

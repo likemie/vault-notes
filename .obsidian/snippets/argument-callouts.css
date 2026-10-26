@@ -23454,3 +23454,81 @@ body .callout.callout.callout[data-callout][data-callout="eef"]:is([data-callout
 .callout[data-callout="eef"]:is([data-callout-metadata="ey"], [data-callout-metadata^="ey|"]) { --callout-color: 41, 112, 160; }
 /* 分割线标签改为机构名：两套工具包共用一条线 */
 body .callout.callout.callout[data-callout][data-callout="eef-divider"] > .callout-title .callout-title-inner::before { content: "Education Endowment Foundation" !important; }
+
+
+/* ── 18 · EEF 有望项目（[!eef-programme] 总览 / [!eef-trials] 试验列表）2026-10-27 ──
+   与 EEF 工具包卡片同一版式，强调色紫；第二行为中文简介，第三行为证据等级、标签与对应工具包策略。
+   表头代号：总览 imp type n pupils schools cost；试验 trial type done n imp sec rep。由 scripts/eef_sync.py 生成。 */
+.callout[data-callout="eef-programme"], .callout[data-callout="eef-trials"] { --callout-color: 112, 84, 168; --callout-icon: lucide-flask-conical; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]) { padding: .8rem .95rem .85rem !important; background: var(--ac-paper, var(--background-secondary)) !important; background-image: none !important;
+  border: 1px solid var(--ac-hair, var(--background-modifier-border)) !important; border-radius: 10px !important; box-shadow: none !important; font-family: var(--ac-sans, var(--font-text)); }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"])::before, body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"])::after { display: none !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] { margin: .7rem 0 0 !important; padding: .55rem .7rem .6rem !important; background: var(--ac-raised, var(--background-primary)) !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]) > .callout-title { padding: 0 !important; margin: 0 0 .25rem; background: none !important; border: 0 !important; box-shadow: none !important; align-items: center; gap: .4rem; min-height: 0; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]).is-collapsed > .callout-title { margin-bottom: 0; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]) > .callout-title .callout-icon { display: none; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]) > .callout-title .callout-fold { padding: 0 !important; opacity: .55; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]) > .callout-title .callout-title-inner::before { display: block !important; width: max-content; margin: 0 0 .2rem !important; padding: 0 0 0 16px !important;
+  border: 0 !important; border-radius: 0 !important; box-shadow: none !important; background: linear-gradient(rgb(var(--callout-color)), rgb(var(--callout-color))) left center / 10px 2px no-repeat !important;
+  color: rgb(var(--callout-color)) !important; font-family: var(--ac-sans, sans-serif); font-size: 9px !important; font-weight: 650 !important; letter-spacing: .14em !important; line-height: 1.4; text-transform: uppercase; animation: none !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-title .callout-title-inner { font-family: var(--ac-serif, Georgia, serif); font-size: 1.05rem; font-weight: 600; line-height: 1.35; color: var(--text-normal) !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-title .callout-title-inner::before { content: "EEF Promising Programme" !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-title .callout-title-inner a { color: inherit !important; text-decoration: none !important; background-image: none !important; padding-right: 0 !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-title .callout-title-inner a:hover { color: rgb(var(--callout-color)) !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-title .callout-title-inner { font-size: 11px !important; font-weight: 500; color: var(--ac-muted, var(--text-muted)) !important; line-height: 1.4; font-family: inherit; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-title .callout-title-inner::before { display: inline-block !important; margin: 0 .5rem 0 0 !important; vertical-align: baseline; content: "Trials · 试验" !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]) > .callout-content { padding: 0 !important; background: none !important; overflow-x: auto !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content > p { margin: 0 0 .35rem !important; font-size: 12.5px !important; line-height: 1.6; color: var(--text-normal); }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content > p:nth-of-type(2) { margin: 0 0 .55rem !important; font-size: 11px !important; color: var(--ac-muted, var(--text-muted)); }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content > p:nth-of-type(2) a { color: rgb(var(--callout-color)) !important; }
+/* 表格：固定列宽、等宽数字；覆盖通用宽表规则 */
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]) > .callout-content :is(table):has(th:nth-child(6)) { width: 100% !important; min-width: 0 !important; max-width: 100% !important; margin: 0 !important;
+  table-layout: fixed !important; border-collapse: collapse; background: transparent !important; font-variant-numeric: tabular-nums lining-nums; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]) > .callout-content :is(table):has(th:nth-child(6)) :is(th, td) { min-width: 0 !important; max-width: none !important; padding: 4px 6px !important;
+  vertical-align: middle; text-align: right; border: 0 !important; border-bottom: 1px solid var(--ac-hair-soft, var(--background-modifier-border)) !important; white-space: nowrap !important;
+  overflow: hidden; text-overflow: ellipsis; background: transparent !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]) > .callout-content :is(table):has(th:nth-child(6)) td, body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]) > .callout-content :is(table):has(th:nth-child(6)) td * { font-size: 12px !important; line-height: 18px !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) td, body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) td * { font-size: 11px !important; line-height: 16px !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]) > .callout-content :is(table):has(th:nth-child(6)) tbody tr:last-child td { border-bottom: 0 !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]) > .callout-content :is(table):has(th:nth-child(6)) tbody tr:hover td { background: color-mix(in srgb, rgb(var(--callout-color)) 7%, transparent) !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]) > .callout-content :is(table):has(th:nth-child(6)) th { font-size: 0 !important; line-height: 0 !important; color: transparent !important;
+  padding-top: 0 !important; padding-bottom: 5px !important; vertical-align: bottom; border-bottom: 1px solid var(--ac-hair, var(--background-modifier-border)) !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]) > .callout-content :is(table):has(th:nth-child(6)) th * { font-size: 0 !important; color: transparent !important; }
+body .callout.callout.callout[data-callout]:is([data-callout="eef-programme"], [data-callout="eef-trials"]) > .callout-content :is(table):has(th:nth-child(6)) th::before { display: block; font-size: 10px; font-weight: 500; line-height: 13px; color: var(--ac-muted, var(--text-muted)); white-space: nowrap; text-align: inherit; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content :is(table):has(th:nth-child(6)) :is(th, td):nth-child(-n+2) { text-align: left; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(1) { font-weight: 650; color: var(--text-normal); }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(n+3) { color: var(--ac-muted, var(--text-muted)); }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) td { font-weight: 400; color: var(--ac-muted, var(--text-muted)); }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) :is(th, td):nth-child(-n+3) { text-align: left; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(-n+3)::before { text-align: left; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(1) { color: var(--text-normal); font-weight: 500; white-space: normal !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(5) { color: var(--text-normal); font-weight: 650; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) :is(td, th):nth-child(6) { text-align: center; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6)::before { text-align: center; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) td:nth-child(7) a { color: rgb(var(--callout-color)) !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(1) { width: 16% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(1)::before { content: "影响（月）"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2) { width: 16% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2)::before { content: "证据等级"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(3) { width: 10% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(3)::before { content: "试验数"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(4) { width: 18% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(4)::before { content: "学生（合计）"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(5) { width: 16% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(5)::before { content: "学校（合计）"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6) { width: 24% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6)::before { content: "每生年成本"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(1) { width: 21% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(1)::before { content: "试验"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2) { width: 14% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(2)::before { content: "类型"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(3) { width: 11% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(3)::before { content: "完成"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(4) { width: 18% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(4)::before { content: "学生 / 学校"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(5) { width: 17% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(5)::before { content: "影响（月）"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6) { width: 9% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6)::before { content: "安全性"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(7) { width: 10% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(7)::before { content: "报告"; }

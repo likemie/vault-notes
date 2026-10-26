@@ -9,10 +9,10 @@ aliases:
 summary: "组织社会学新制度主义理论，阐明处于同一场域中的组织因追求制度合法性与采纳合理化神话，通过强制型、模仿型与规范型三种机制走向结构与行为模式的系统性趋同。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 39
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 40
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - paradigm/interpretivist
   - subject/comparative-education
