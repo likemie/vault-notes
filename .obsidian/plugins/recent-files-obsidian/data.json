@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Whole Person Education",
+      "path": "wiki/concepts/educational-philosophy/Whole Person Education.md"
+    },
+    {
+      "basename": "Argument_Bangs_2022_PerspectivesOnResearch",
+      "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Bangs_2022_PerspectivesOnResearch.md"
+    },
+    {
       "basename": "Argument_Wang_Liang_Chen_2025_CES",
       "path": "wiki/arguments/journal-articles/Chinese Education & Society/Argument_Wang_Liang_Chen_2025_CES.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Trautwein_2007_CEP",
       "path": "wiki/arguments/journal-articles/Contemporary Educational Psychology/Argument_Trautwein_2007_CEP.md"
-    },
-    {
-      "basename": "Argument_Custer_2021_AidData",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Custer_2021_AidData.md"
-    },
-    {
-      "basename": "AidData",
-      "path": "wiki/facts/us/AidData.md"
     }
   ],
   "omittedPaths": [],
