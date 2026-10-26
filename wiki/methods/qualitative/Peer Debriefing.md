@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 
 ---
@@ -95,7 +95,7 @@ updated: 2026-10-26
 ---
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 基于[[Qualitative Research\|质性研究]]中[[Researcher as Key Instrument\|研究者作为关键工具]]的认识论前提；研究者的前见与[[Theoretical Standpoint\|理论立场]]必然渗透于资料解释中，同行审议不追求绝对超然的客观真理，而是通过主体间性的外部制衡实现[[Reflexivity\|反思性]]自觉与[[Chain of Evidence\|证据链]]公开展现。
+> - **知识观** 基于[[Qualitative Research\|质性研究]]中[[Researcher as Key Instrument\|研究者作为关键工具]]的认识论前提；研究者的前见与[[Theoretical Standpoint\|理论立场]]必然渗透于资料解释中，同行审议通过主体间性的外部制衡实现[[Reflexivity\|反思性]]自觉与[[Chain of Evidence\|证据链]]公开展现。Lincoln and Guba (1985) 指出，同行汇报聚焦于研究者如何加工与建构数据，是对研究者从经验语料上升至理论论据全过程的社会认识论检验。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 167)]]
 > - **研究者角色** 研究者从孤立的个人解释者转变为在学术共同体对话中接受审查的求知者，主动将推理链暴露于外部审视，践行负责任的[[Research Ethics\|研究伦理]]（[[Responsible Conduct of Research\|research integrity]]）。
 > - **有效性标准** 服务于质性研究的可信性（Credibility）与[[Reliability\|可依赖性]]（Dependability）标准，是 Lincoln & Guba [[Qualitative Validity\|质性效度]]六大支柱之一。
 > - **不声称回答的问题** 不能替代研究者对田野的第一手[[Flow\|沉浸体验]]；不能独立证明发现的唯一正确性；不能取代源自研究参与者经验的[[Member Checking\|成员核查]]。
@@ -114,19 +114,19 @@ updated: 2026-10-26
 > 4. **记录反馈与反思重构** 撰写审议反思备忘录，系统核对争议点，调整编码范畴并补充搜集反例或补充数据。
 > 5. **多轮迭代验证** 在重要理论范畴[[Emergence\|涌现]]或形成核心论证时再次进行复审，直至达成解释的充分融贯性。
 
-> [!sample-panel]- 审议材料与质询互动
-> | 维度 | 信息与规程 |
+> [!sample-panel]- 材料与进入现场
+> | 维度 | 信息 |
 > |---|---|
-> | **材料来源** | 访谈录音[[Transcription in Qualitative Research\|转录]]文本、课堂微观录像切片、[[Field Notes\|田野笔记]]、分析备忘录（[[Memos]]）与编码网络。 |
-> | **同行遴选** | 具有相近方法论专长但无[[Conflict of Interest in Research\|研究利益冲突]]的同事、导师组成员或学术同行（Disinterested Peer）。 |
-> | **研究者位置** | 保持开放防守姿态（Open & Defensible），详细交代个人先验假设与潜在情感倾向。 |
-> | **质询焦点** | 核心关注概念推论是否合理、反常案例是否被掩盖、因果推论是否具备微观[[Discourse\|话语]]证据支持。 |
+> | 材料来源 | 访谈录音[[Transcription in Qualitative Research\|转录]]文本、课堂微观录像切片、[[Field Notes\|田野笔记]]、分析备忘录（[[Memos]]）与编码网络。 |
+> | 抽样或选案 | 具有相近方法论专长但无[[Conflict of Interest in Research\|研究利益冲突]]的同事、导师组成员或学术同行（Disinterested Peer）。 |
+> | 研究者位置 | 保持开放防守姿态（Open & Defensible），详细交代个人先验假设与潜在情感倾向。 |
+> | 资料边界 | 核心关注概念推论是否合理、反常案例是否被掩盖、因果推论是否具备微观[[Discourse\|话语]]证据支持。 |
 
-> [!proc] 质性同行审议的四阶段质询程序
+> [!proc] 质性分析程序
 > 1. **诚实性与偏见核查（Testing Honesty）** 审议者抽检原始[[Transcription in Qualitative Research\|转录]]文本与编码库，排查研究者是否受先入为主[[Theoretical Standpoint\|理论立场]]的引导而选择性忽视不利证据。
 > 2. **工作假设检验（Testing Working [[Hypothesis|hypotheses]]）** 检验从原始资料到抽象主题之间的推理链条（Chain of Reasoning），质询概念[[Construct\|构念]]是否真实扎根于语料之中。
-> 3. **竞争性解释排查（Exploring Alternative Interpretations）** 审议者提出其他合理解释路径，迫使研究者调动更多证据进行排他性论证或修订解释框架。
-> 4. **后续探究方向识别（Identifying [[Early Steps\|Next Steps]]）** 明确当前分析中的薄弱环节，指导研究者重返田野收集补充资料或深化特定主题的微观分析。
+> 3. **竞争性解释排查（Exploring Alternative Interpretations）** 审议者提出其他合理解释路径，引导研究者调动更多证据进行排他性论证或修订解释框架。
+> 4. **后续探究方向识别（Identifying Next Steps）** 明确当前分析中的薄弱环节，指导研究者重返田野收集补充资料或深化特定主题的微观分析。
 
 ---
 

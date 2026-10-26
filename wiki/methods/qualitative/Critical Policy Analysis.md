@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-22
+updated: 2026-10-27
 ---
 
 ---
@@ -125,23 +125,11 @@ updated: 2026-10-22
 > | 研究者位置 | 批判反思者与教师专业权益倡导者；警惕自身被体制内专家身份[[Disciplina and Doctrina\|规训]]或被商业教材出版商吸纳。 |
 > | 资料边界 | 覆盖从危机议程设置、立法博弈、密室妥协、商业专营授权到后续法案平移（如 [[No Child Left Behind Act 2001\|NCLB]]）的全历史链条。 |
 
-> [!proc] 质性法医解构程序
-> 1. **两版文本对比分析** 对比初版草案与妥协法案在核心术语（如阅读定义、科研标准）上的字句增删与法律内涵漂移。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 5)]]
-> 2. **话语权力谱系编码** 编码谁的证词被完整照搬为立法辩论要点，谁的研究成果被直接定性为非科学或意识形态偏见。
-> 3. **隐喻洞察与意识形态[[Rich and Thick Description|深描]]** 引入[[Plato|柏拉图]]“洞穴囚徒”隐喻，探究投射在洞穴墙壁上的幻影（如“阅读危机”、“唯一科学拼读法”）是由何种政治经济结构所制造。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 12)]]
-> 4. **[[Triangulation|三角互证]]检验** 将国会记录、督察长调查报告、学者公开质询与商业出版商年报进行跨文本勾连验证。
-> 5. **词频量化与话语偏向统计（Word Frequency Forensics）** 利用计量文本挖掘统计政策或学术畅销书中核心议题的出现频次（例如 95 次[[Class Size|班级规模]]对 6 次自我报告成绩），揭示官方将特定高成本议题反复矮化、将低成本个体干预过度神话的话语偏向。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–32)]]
-> 6. **公式与算法逆向工程解构（Statistical Forensics & Formula Reverse Engineering）** 深入被奉为政策圭臬的统计指标底层（如[[Meta-analysis|元分析]]综合[[Effect Size|效应量]]），逆向核查公式运算逻辑，核验其是否用简单算术平均掩盖研究[[Heterogeneity|异质性]]、是否从非线性递增曲线中武断剥离出极小斜率作为财政紧缩护盾。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–26, 32)]]
-> 7. **政商旋转门与财务流向取证（Financial & Corporate Network Tracing）** 调取商业咨询公司审计报表、慈善信托纳税申报、学区政府采购合同，追踪学者兼职董事薪酬、专营特许权版税（Royalties）与公共教育资金的民营化资本流转。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–31)]]
-
-### 政策三维批判进路（Ball, 1990; Woo, 2023）
-
-针对国家重大战略与对外扩张中的宏观教育政策，禹钟晸（[[Argument_Woo_2023_HEP|Woo, 2023]]）借鉴[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]）的批判性政策分析视角，建立了系统解构政策生成与功能的三维分析模型：
-
-> [!proc] 政策驱动力—推进工具—价值三维批判步骤
-> 1. **驱动力分析（Drivers）** 考察激发宏观政策立项的核心动因，探究政策究竟是对真实教育需求的回应，还是源于对外部大国竞争、国内政权合法性维系或地缘经济扩张压力的战略应对。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–685)]]
-> 2. **推进工具分析（Policy Instruments）** 解构国家为确保政策落地所动用的治理工具类型，辨析强制性行政指令、定向主权财政补贴（如全额奖学金）、跨国基建工程对口用工绑定以及海外文化传播基地等工具的组合方式。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–687)]]
-> 3. **价值与意识形态分析（Values）** 穿透表层中立的技术性修辞，阐明政策深层所承载的核心政治意识形态抱负（如[[National Rejuvenation Narrative|民族复兴]][[Grand Theory|宏大叙事]]、对抗西方中心论知识霸权以及输出替代性发展治理模式）。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]
+> [!proc] 质性分析程序
+> 1. **全周期档案初读与文本历时对比** 对比法案草案、听证记录、政商游说档案与妥协条文在核心术语（如阅读定义、科研标准）上的字句增删与法律内涵漂移，建立政策演化的基础线索。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 5)]]
+> 2. **话语权力谱系与词频量化编码** 编码谁的证词被采纳为立法要点、谁被排斥为偏见；结合计量文本挖掘统计核心议题词频（如 95 次班级规模对 6 次自我报告成绩），揭示官方将特定高成本议题矮化、将低成本个体干预过度神话的话语偏向。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–32)]]
+> 3. **指标逆向工程与政商财务流向取证** 深入官方指标底层核查算法与效应量合成假设，排查简单算术平均对异质性的掩盖；调取商业咨询公司报表、学区采购合同追踪学者兼职董事薪酬与特许权版税（Royalties）等政商旋转门资本流转。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–26, 30–32)]]
+> 4. **政策驱动力—工具—价值三维批判综合与三角互证** 运用三角互证整合国会记录、督察长调查报告与出版商年报；结合鲍尔与禹钟晸模型，从政策驱动力（大国竞争与政权合法性）、推进工具（行政指令、主权补贴与对口用工绑定）及深层意识形态价值（宏大叙事与发展模式输出）三个维度解构深层因果机制，为受压制的教育者构筑民主反制策略。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 11–14)]]; [[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–692)]]
 
 ---
 
@@ -179,3 +167,4 @@ updated: 2026-10-22
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判性政策分析系统剖析美国《[[Reading Excellence Act|卓越阅读法案]]》立法演进，揭示[[Pluralism|多元主义]]、[[Neocorporatism|法团主义]]、次政府与[[Elite Theory|精英理论]]对[[Evidence Standards|证据标准]]的法定重塑（pp. 11–14）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 综合运用批判性政策分析、计量文本法医解构与[[Ideology Critique|意识形态批判]]，解构新西兰 [[Visible Learning]] 品牌的政商旋转门资本化、[[Neo-Taylorism|新泰勒主义]]教师监控及[[Global Education Reform Movement|全球教育改革运动]]紧缩议程（pp. 23–36）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 结合费尔克拉夫三维[[Discourse Analysis|话语分析]]、政策三维视角（驱动力、工具、价值）与巴斯卡[[Explanatory Critique|解释性批判]]，系统解构中国“[[Belt and Road Initiative|一带一路]]”跨国高等教育政策的文本框架、地缘[[Hard Power|硬实力]]配套与国家复兴[[Grand Theory|宏大叙事]]（pp. 677–699）。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 运用教育政策社会学批判分析视角，解构 PISA 测评框架背后的新自由主义意识形态预设及其作为跨国治理工具的运作逻辑（pp. 418–419）。

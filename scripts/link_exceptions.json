@@ -219,6 +219,14 @@
     {
       "sentence": "*OECD's PISA project repackages a neoliberal educational governance blueprint based on market logic, performance accountability, and technical rationality into an objective scientific assessment, essentially acting as a Trojan Horse infiltrating national public education systems.*",
       "target": "wiki/theories/educational-policy-reform/Educational Governance Framework.md"
+    },
+    {
+      "sentence": "涵盖自 2000 年首届 PISA 测评以来数十个成员国与伙伴经济体的实证文献，包括德国、英国、芬兰、日本、美国、挪威、丹麦、墨西哥、瑞士、爱尔兰、意大利等关键个案的政策追踪研究。",
+      "target": "wiki/methods/quantitative/Cohort Study.md"
+    },
+    {
+      "sentence": "**规制工具** 依靠统计指标、同行审议与最佳实践报告推行软治理。",
+      "target": "wiki/methods/qualitative/Peer Debriefing.md"
     }
   ]
 }

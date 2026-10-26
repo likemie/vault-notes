@@ -53,7 +53,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 
 ---
@@ -95,25 +95,25 @@ updated: 2026-10-26
 > 4. 深入剖析文献在提问方式、核心假设、方法取向以及建议推论上的逻辑机制。
 > 5. 归纳既有文献的思维定势与理论困境（如赤字预设、结论雷同、循环论证），提出新的概念框架或未来研究方向。
 
-> [!sample-panel]- 材料与文献边界
+> [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 权威跨学科与教育专业数据库（如[[Education Resources Information Center\|教育资源信息中心]] Educational Resources Information Center, ERIC、Scopus、Education Source、Web of Science）。 |
-> | 抽样选案 | 依据严格纳入与排除标准筛选出的同行评议学术文献全文本。 |
+> | 抽样或选案 | 依据严格纳入与排除标准筛选出的同行评议学术文献全文本。 |
 > | 研究者位置 | 保持批判性反思；研究团队通常采用双人背对背独立评估与集体研讨协商。 |
 > | 资料边界 | 明确限定文献的发表年代、语言、具体学段（如中小学基础教育）与[[Research Topic\|研究主题]]。 |
 
-> [!proc] 批判性综述分析程序
-> 1. **全文本精读与基本特征编码** 提取纳入文献的实证背景、研究方法与核心结论。（p. 3）
-> 2. **解构提问方式与概念假设** 审视文献如何定义核心概念、把什么当作问题起点、暗含了何种假设。（pp. 3–4）
-> 3. **多维矩阵分类映射** 运用两组或多组概念工具（如线性与复杂性、个体与组织情境）对文献进行横向交叉比对。（p. 4）
-> 4. **剖析建议推论中的简单化倾向** 追踪文献从调查发现到政策建议之间是否存在推论跳跃或自我循环。（pp. 6–7）
-> 5. **提炼新概念与构建新理论** 综合解构发现，提出更贴近实践复杂性的新理论概念。（pp. 7–8）
+> [!proc] 质性分析程序
+> 1. **全文本精读与基本特征编码** 提取纳入文献的实证背景、研究方法与核心结论。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, p. 3)]]
+> 2. **解构提问方式与概念假设** 审视文献如何定义核心概念、把什么当作问题起点、暗含了何种假设。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 3–4)]]
+> 3. **多维矩阵分类映射** 运用两组或多组概念工具（如线性与复杂性、个体与组织情境）对文献进行横向交叉比对。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, p. 4)]]
+> 4. **剖析建议推论中的简单化倾向** 追踪文献从调查发现到政策建议之间是否存在推论跳跃或自我循环。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 6–7)]]
+> 5. **提炼新概念与构建新理论** 综合解构发现，提出更贴近实践复杂性的新理论概念。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 7–8)]]
 
 ---
 
 > [!method-fit] 适用判断
-> - **最适合** 某领域积累了大量实证文献但调查结论千篇一律、面临理论停滞或概念模糊时；需要反思政策口号对学术研究带来的思维束缚时。（pp. 2–3）
+> - **适合使用** 某领域积累了大量实证文献但调查结论千篇一律、面临理论停滞或概念模糊时；需要反思政策口号对学术研究带来的思维束缚时。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, pp. 2–3)]]
 > - **谨慎使用** 某新兴领域文献极少、尚未形成可供深入批判的主流理论时。
 > - **不适合** 需要精确计算某项教学方法平均成效（[[Effect Size\|效应量]]）的量化[[Meta-analysis\|元分析]]任务；仅需了解基础概念的快速入门概述。
 
@@ -138,8 +138,8 @@ updated: 2026-10-26
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - **[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]]** 运用教育政策社会学批判综述方法，系统解构 PISA 作为新自由主义治理工具的机制，构建政策指引与背书二元象限，推动研究走向批判建构范式。
-> - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 运用系统性批判综述方法，结合 [[PRISMA]] 检索与多维概念分析，对 34 篇关于教育中[[Research Utilization\|研究使用]]的文献进行全文本解构，揭示 30 年来该领域[[Deficit Framing\|赤字框架]]与[[Methodological Individualism\|方法论个体主义]]的局限，并提出第四代[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型研究使用]]概念框架。
-> - **[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]** 以批判整合性综述界定[[Epistemic Dependence\|认识依赖]][[Construct\|构念]]，提出六维诊断标准与四条社会技术路径，确立关系性[[Epistemic Agency\|认识主体性]]的规范内涵。
-> - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 以批判性综述反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 关于[[Direct Instruction\|直接教学]]全面优于探究的主张，确立[[Inquiry-Based Learning\|指导式探究]]的循证效能与两者协同模型。
-> - **[[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]]** 运用定性批判性综述方法跨学科审视 60 年间 166 篇期刊文献，系统梳理[[Institutional Layering\|制度分层]]演进传统，并揭示当代研究将其混淆于制度再生产的边界偏误。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 运用教育政策社会学视角系统检索 2000–2020 年间 PISA 政策影响的理论与经验文献，解构其跨国软治理机制并构建二元分析象限（pp. 418–420）。
+> - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] — 结合 [[PRISMA]] 检索与多维概念分析对 34 篇教育中[[Research Utilization|研究使用]]文献进行全文本解构，揭示[[Deficit Framing|赤字框架]]与[[Methodological Individualism|方法论个体主义]]局限并提出[[Profession-Sensitive Conceptualisations of Research Use|专业敏感型研究使用]]框架（pp. 2–8）。
+> - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 运用批判整合性综述界定[[Epistemic Dependence|认识依赖]][[Construct|构念]]，提出六维诊断标准与四条社会技术路径以确立关系性[[Epistemic Agency|认识主体性]]规范内涵（pp. 1–15）。
+> - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 运用批判性综述反驳关于[[Direct Instruction|直接教学]]全面优于探究的主张，确立[[Inquiry-Based Learning|指导式探究]]的循证效能与两者协同教学模型。
+> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 运用定性批判性综述审视 60 年间 166 篇文献，系统梳理[[Institutional Layering|制度分层]]演进传统并厘清其与制度再生产的理论边界（pp. 9–14）。
