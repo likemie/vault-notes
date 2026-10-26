@@ -385,7 +385,7 @@ Total entries: **4338**
 > - [[Absorptive Capacity]] — 组织识别、吸收并情境化应用外部知识的能力；在教育与治理中取决于实践者认知基础、内部沟通网络与支持性领导，调节科研证据向微观行动的转化成效。
 > - [[Academic Press]] — Visible Learning MetaX 因素学业压力导向的条目，归属学校 › 领导；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Building Quality]] — Visible Learning MetaX 因素校舍质量的条目，归属学校 › 学校资源；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
-> - [[Charter Schools]] — Visible Learning MetaX 因素特许学校的条目，归属学校 › 学校类型；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
+> - [[Charter Schools]] — 由公共财政资助、私营非营利或营利机构依据专门契约自主运营的公办民营学校形态；以解除常规学区行政规制换取严格的学业绩效问责，但在多国实践中引发了关于公共责任流失、筛选偏误以及实际学业增值近乎为零的激烈争论。
 > - [[College Halls of Residence]] — Visible Learning MetaX 因素大学住宿的条目，归属学校 › 学校构成；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Constructive Disobedience]] — 指组织成员在深刻理解并内化领导层宏观战略愿景的前提下，主动质疑、调整甚至拒绝执行不切实际的自上而下具体指令，依据实战物理反馈实施能动修正与系统重构的微观行动哲学。在卡普与扎米斯卡（2025）的科技治理体系中，建设性不服从是打破科层盲从与管理自恋、维系复杂自适应软件演化与重塑技术共和国工程思维的微观制度基石。
 > - [[COVID-19 Disruption to Schooling]] — Visible Learning MetaX 因素新冠疫情的条目，归属学校 › 学校类型；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
