@@ -557,7 +557,7 @@ def cmd_register_external(args) -> int:
     author-year gets the next free year letter; a body-text sighting with no
     identity is left alone and the dataset work gets its own lettered key."""
     sys.path.insert(0, str(ROOT / "scripts"))
-    import citation_external as ce
+    import citation_index as ce
     store = load_json(EXTERNAL_IDS, {"items": {}})
     items = store.setdefault("items", {})
     works = []

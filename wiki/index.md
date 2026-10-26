@@ -807,7 +807,7 @@ Total entries: **4338**
 > - [[Student Approaches to Learning]] — Visible Learning MetaX 因素成就型动机与学习方式、深层动机与学习方式、表层动机与学习方式的条目，归属学生 › 动机取向；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Student Attitude]] — 学生对特定学科、学习方法或教育环境的总体感受与想法，是学习的情感维度；问题本位学习通过主动参与问题解决培养积极态度与热情。
 > - [[Student Depression]] — Visible Learning MetaX 因素抑郁的条目，归属学生 › 情绪；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
-> - [[Student Motivation]] — Visible Learning MetaX 因素动机、动机项目、任务价值感知的条目，归属学生 › 动机取向；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
+> - [[Student Motivation]] — 激发、引导并维持个体开展学业学习与智力探究的内在心理倾向与动力系统；在西方心理学中主要由自我决定理论、成就目标与期望-价值理论阐释，在跨文化视角下涵盖东亚道德自我完善的诚心驱动，并在大规模元分析中展现出对学业成就的稳健中等促进效应。
 > - [[Student Personality Traits]] — Visible Learning MetaX 因素学生人格、学生人格：宜人性、学生人格：尽责性、学生人格：外向性、学生人格：神经质、学生人格：开放性的条目，归属学生 › 学生人格；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Student Satisfaction]] — 学生对学习过程与学习环境的总体满意程度，是衡量教学模式情感与体验效果的重要指标；问题本位学习通过主动参与激发内在动机并提升满意度。
 > - [[Student Well-being]] — Visible Learning MetaX 因素幸福感的条目，归属学生 › 情绪；目前只收录 MetaX 元分析汇总数据，概念界定待补充。

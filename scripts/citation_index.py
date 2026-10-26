@@ -776,6 +776,673 @@ def check_inherited_chapters(chapters: list[InheritedBookChapter]) -> int:
     return errors
 
 
+
+# =============================================================================
+# External citations (formerly scripts/citation_external.py)
+#
+# Collect unlinked APA short citations that are not vault Arguments yet.
+#
+# citation/external_identities.json is editable. This module adds author-year
+# keys and refreshes seen_in. A doi, isbn, or title already stored is kept.
+# citation/citation_external.json is generated. When one author-year is more
+# than one work, a/b/c aliases follow the same stable sort as in-vault
+# citations (title, doi, isbn, identity key).
+#
+# MetaX author-year collisions stay in citation_ambiguous.json. This module
+# does not read or write that block.
+#
+# Missing doi, isbn, and title is reported by vault_lint as INFO
+# (EXTERNAL_CITATION_IDENTITY). It does not fail lint and does not block
+# existing entries.
+# =============================================================================
+
+import re
+import sys
+import unicodedata
+
+IDENTITIES_JSON = CITATION_DIR / "external_identities.json"
+EXTERNAL_JSON = CITATION_DIR / "citation_external.json"
+
+IDENTITIES_NOTE = (
+    "Editable. scripts/citation_index.py adds author-year keys for unlinked short citations "
+    "and refreshes seen_in. Fill doi, isbn, or title from the source reference list; "
+    "filled values are kept. The row is removed after that work is ingested as an Argument. "
+    "A missing doi, isbn, or title does not block lint. "
+    "MetaX collisions stay in citation_ambiguous.json."
+)
+
+_YEAR = r"(?:19|20)\d{2}"
+_SIGHTING_RE = re.compile(rf"^(?P<author>.+), (?P<year>{_YEAR})(?P<suffix>[a-z])?$")
+_COMMA_RE = re.compile(rf"^(?P<author>.+?)\s*[,，]\s*(?P<year>{_YEAR}[a-z]?)$")
+_NARRATIVE_RE = re.compile(rf"^(?P<author>.+?)\s*[（(]\s*(?P<year>{_YEAR}[a-z]?)\s*[）)]$")
+_DENY_LABEL_RE = re.compile(
+    r"^(?:fig(?:ure)?s?|tables?|tabs?|chapters?|chaps?|appendices|appendix|sections?|secs?|"
+    r"models?|equations?|eqs?|boxes|box|panels?|notes?|sources?|ibid|volumes?|vols?|issues?|"
+    r"pages?|parts?|formulas?|formulae|examples?|algorithms?|theorems?|lemmas?|corollar(?:y|ies))"
+    r"(?:\.?\s*(?:\d+(?:\.\d+)*|[A-Za-z]))?$",
+    re.IGNORECASE,
+)
+
+# Words that introduce a name. They are not the author.
+LEADING_STOPWORDS = frozenset({
+    "a", "an", "the", "in", "on", "for", "to", "by", "as", "of", "from", "with",
+    "this", "that", "these", "those", "it", "its", "their", "his", "her", "our",
+    "and", "or", "but", "if", "when", "where", "while", "after", "before",
+    "during", "between", "among", "within", "without", "under", "over", "about",
+    "into", "onto", "per", "via", "see", "also", "however", "thus", "hence",
+    "therefore", "both", "each", "such", "same", "other", "another", "following",
+    "according", "based", "using", "compared", "unlike", "like", "including",
+    "excluding", "regarding", "concerning", "notably", "specifically",
+    "respectively", "across", "through", "toward", "towards", "upon", "plus",
+    "versus", "vs", "cf", "cited", "quoted", "adapted", "retrieved", "available",
+    "figure", "fig", "table", "chapter", "appendix", "section", "model",
+    "equation", "box", "panel", "note", "source", "volume", "issue", "page",
+    "part", "example", "study", "paper", "article", "report", "book",
+})
+# Words that introduce a name. A word is removed only when the remainder is still a name,
+# so a real surname such as 将 is left intact.
+CJK_LEADING = (
+    "这些工作已由", "正式收录于", "类似于", "改编自", "示例见", "综合自", "转引自",
+    "引述", "援引", "参见", "另见", "详见", "亦见", "例如", "如图", "如表", "见图",
+    "见表", "根据", "基于", "通过", "对于", "关于", "呼应", "回应", "涵盖", "用于",
+    "综述", "审查", "审计", "重审", "纳入", "依托", "借鉴", "资助", "正如", "结合",
+    "同时", "以及", "已相继", "引自", "见", "引", "述", "在", "由", "据", "从", "对",
+    "如", "于", "的", "了", "与", "和", "及", "将",
+)
+TRAILING_CJK = ("指出", "认为", "提出", "合作", "专题", "所示", "一文", "一书")
+CJK_NON_NAME_RE = re.compile(r"同上|学生$|届$|峰会$|概念")
+# A CJK author is a short name, not a suffix cut out of the preceding sentence.
+CJK_NAME_RE = re.compile(
+    r"^[\u3400-\u9fff]{2,4}$"
+    r"|^[\u3400-\u9fff]{1,4}(?:和|与|及)[\u3400-\u9fff]{1,8}$"
+    r"|^[\u3400-\u9fff]{2,4}等$"
+    r"|^[\u3400-\u9fff]{1,4}(?:和|与|及)[\u3400-\u9fff]{1,8}等$"
+)
+DENY_EXACT = frozenset({
+    "figure", "fig", "table", "tab", "chapter", "chap", "appendix", "section",
+    "sec", "model", "equation", "eq", "box", "panel", "note", "source", "ibid",
+    "volume", "vol", "issue", "page", "pages", "part", "formula", "example",
+    "et al", "op cit", "图", "表", "注", "式", "章", "节", "附录", "公式", "模型",
+    "脚注", "见图", "见表", "如图", "如表", "图注", "表注",
+})
+SEEN_IN_LIMIT = 40
+
+_LINKER: Any = None
+
+
+def linker() -> Any:
+    global _LINKER
+    if _LINKER is None:
+        scripts = str(Path(__file__).resolve().parent)
+        if scripts not in sys.path:
+            sys.path.insert(0, scripts)
+        import wiki_linker
+        _LINKER = wiki_linker
+    return _LINKER
+
+
+def _blank_match(match: re.Match[str]) -> str:
+    return re.sub(r"[^\n]", " ", match.group(0))
+
+
+def _cjk_len(text: str) -> int:
+    return len(re.findall(r"[\u3400-\u9fff]", text))
+
+
+def _has_cjk(text: str) -> bool:
+    return _cjk_len(text) > 0
+
+
+def _has_latin(text: str) -> bool:
+    return bool(re.search(r"[A-Za-zÀ-ÖØ-öø-ÿ]", text))
+
+
+def author_fold(author: str) -> str:
+    return re.sub(r"\s+", " ", author).casefold().strip(" .")
+
+
+def is_denied_author(author: str) -> bool:
+    raw = author.strip()
+    if not raw or len(raw) > 120:
+        return True
+    letters = re.findall(r"[A-Za-zÀ-ÖØ-öø-ÿ\u3400-\u9fff]", raw)
+    if not letters:
+        return True
+    if len(letters) == 1 and not ("\u3400" <= letters[0] <= "\u9fff"):
+        return True
+    folded = author_fold(raw)
+    if folded in DENY_EXACT or _DENY_LABEL_RE.match(folded):
+        return True
+    return False
+
+
+def plausible_author(author: str) -> bool:
+    if _has_cjk(author) and not _has_latin(author):
+        n = _cjk_len(author)
+        if author.count("和") == 1 or author.endswith("等"):
+            return 2 <= n <= 16
+        return 1 <= n <= 6
+    words = [part for part in author.split() if part]
+    return bool(words) and len(words) <= 6 and len(author) <= 80
+
+
+def _remainder_is_author(rest: str) -> bool:
+    if not rest:
+        return False
+    if rest[0].isupper() and not _has_cjk(rest[0]):
+        return True
+    return bool(CJK_NAME_RE.match(rest))
+
+
+def strip_leading_stopwords(author: str) -> str:
+    parts = author.split()
+    while len(parts) > 1 and parts[0].casefold().strip(".") in LEADING_STOPWORDS:
+        parts = parts[1:]
+    text = " ".join(parts)
+    changed = True
+    while changed and text and _has_cjk(text):
+        changed = False
+        for word in sorted(CJK_LEADING, key=len, reverse=True):
+            if not text.startswith(word) or len(text) <= len(word):
+                continue
+            rest = text[len(word):].lstrip()
+            if _remainder_is_author(rest):
+                text = rest
+                changed = True
+                break
+        if changed:
+            continue
+        bilingual = re.match(r"^[\u3400-\u9fff]{1,30}\s+([A-Z].+)$", text)
+        if bilingual and _remainder_is_author(bilingual.group(1)):
+            text = bilingual.group(1)
+            changed = True
+            continue
+        for word in sorted(TRAILING_CJK, key=len, reverse=True):
+            if text.endswith(word) and len(text) > len(word):
+                rest = text[:-len(word)].rstrip()
+                if _remainder_is_author(rest) or (rest[:1].isupper() and not _has_cjk(rest)):
+                    text = rest
+                    changed = True
+                    break
+    return text
+
+
+def cjk_name(author: str) -> str:
+    """Keep a whole Chinese name. Do not cut it down to its last characters."""
+    text = strip_leading_stopwords(author.strip())
+    if not text or _has_latin(text) or is_denied_author(text) or CJK_NON_NAME_RE.search(text):
+        return ""
+    if not CJK_NAME_RE.match(text):
+        return ""
+    return text
+
+
+def accept_author(author: str) -> str:
+    author = strip_leading_stopwords(author.strip())
+    if not author or is_denied_author(author):
+        return ""
+    if _has_cjk(author) and not _has_latin(author):
+        return cjk_name(author)
+    if _has_cjk(author) and _has_latin(author):
+        latin_only = re.sub(r"[与和]", "", author)
+        if re.fullmatch(r"[A-Z][^，,]*\s(?:与|和)\s[A-Z].*", author) and not _has_cjk(latin_only):
+            return author
+        return ""
+    if not plausible_author(author):
+        return ""
+    return author
+
+
+def choose_author(raw: str) -> str:
+    """Pick the author nearest the year, without the preceding sentence.
+
+    Latin names can include several words, so the longest clean candidate wins.
+    Chinese names are not split into character suffixes: a swallowed sentence
+    is dropped instead of stored as its last two characters.
+    """
+    wl = linker()
+    pure_latin: list[str] = []
+    for start in wl.citation_author_start_candidates(raw):
+        candidate = raw[start:].strip()
+        if not candidate or not candidate[:1].isupper():
+            continue
+        author = accept_author(wl.citation_normalize_author(candidate))
+        if author and _has_latin(author) and not _has_cjk(author):
+            pure_latin.append(author)
+    if pure_latin:
+        return max(pure_latin, key=len)
+    return cjk_name(wl.citation_normalize_author(raw))
+
+
+def comma_key(text: str) -> str:
+    """Normalize a short citation to 'Author, Year' with an optional year letter."""
+    wl = linker()
+    text = re.sub(r"\s+", " ", text).strip()
+    match = _COMMA_RE.match(text) or _NARRATIVE_RE.match(text)
+    if not match:
+        return ""
+    author = accept_author(wl.citation_normalize_author(match.group("author")))
+    if not author:
+        return ""
+    return f"{author}, {match.group('year')}"
+
+
+def base_of(key: str) -> str:
+    match = _SIGHTING_RE.match(key)
+    if not match:
+        return key
+    return f"{match.group('author')}, {match.group('year')}"
+
+
+def split_base(base: str) -> tuple[str, str]:
+    match = re.match(rf"^(?P<author>.+), (?P<year>{_YEAR})$", base)
+    if not match:
+        return base, ""
+    return match.group("author"), match.group("year")
+
+
+def year_suffix(index: int) -> str:
+    if index < 26:
+        return chr(ord("a") + index)
+    return year_suffix(index // 26 - 1) + chr(ord("a") + index % 26)
+
+
+def norm_doi(value: str) -> str:
+    text = str(value or "").strip()
+    text = re.sub(r"^https?://(?:dx\.)?doi\.org/", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"^doi:\s*", "", text, flags=re.IGNORECASE)
+    return text.lower()
+
+
+def norm_isbn(value: str) -> str:
+    return re.sub(r"[^0-9Xx]", "", str(value or "")).upper()
+
+
+def title_key(value: str) -> str:
+    text = unicodedata.normalize("NFKC", str(value or "")).casefold()
+    text = re.sub(r"[^\w\s]", " ", text, flags=re.UNICODE)
+    return re.sub(r"\s+", " ", text).strip()
+
+
+def title_is_specific(key: str) -> bool:
+    if not key:
+        return False
+    if _cjk_len(key) >= 8:
+        return True
+    return len(key) >= 12 and len(key.split()) >= 2
+
+
+def mask_body(body: str) -> str:
+    """Blank protected regions without changing indexes into body."""
+    wl = linker()
+    lines = body.splitlines(keepends=True)
+    rebuilt: list[str] = []
+    skipping = False
+    for line in lines:
+        if line.startswith("## "):
+            skipping = line[3:].strip().lower() in {"来源", "sources", "source"}
+        rebuilt.append(re.sub(r"[^\n]", " ", line) if skipping else line)
+    text = "".join(rebuilt)
+    for pattern in (
+        wl.METAX_BLOCK_RE,
+        wl.APA_CODE_FENCE_RE,
+        wl.APA_HTML_COMMENT_RE,
+        wl.APA_OBSIDIAN_COMMENT_RE,
+        wl.APA_WIKILINK_RE,
+        wl.APA_INLINE_CODE_RE,
+        wl.APA_HEADING_LINE_RE,
+    ):
+        text = pattern.sub(_blank_match, text)
+    return text
+
+
+def sightings_in_text(text: str) -> list[tuple[str, int]]:
+    """Return (comma key, offset in text) for unlinked short citations."""
+    wl = linker()
+    frontmatter, body = wl.split_frontmatter(text)
+    masked = mask_body(body)
+    found: list[tuple[str, int]] = []
+
+    def add(author: str, year: str, offset: int) -> None:
+        if not re.fullmatch(rf"{_YEAR}[a-z]?", year or ""):
+            return
+        author = accept_author(wl.citation_normalize_author(author))
+        if not author:
+            return
+        found.append((f"{author}, {year}", offset))
+
+    for pattern in (wl.APA_PAREN_GROUP_RE, wl.APA_FULLWIDTH_PAREN_GROUP_RE):
+        for group in pattern.finditer(masked):
+            for piece in re.split(r"[;；]", group.group(1)):
+                item = piece.strip()
+                match = wl.APA_PAREN_ITEM_RE.match(item) or wl.APA_PAREN_ITEM_PREFIX_RE.match(item)
+                if not match:
+                    continue
+                add(match.group("author"), match.group("year"), len(frontmatter) + group.start())
+                tail = match.groupdict().get("tail") or ""
+                for cited in wl.APA_TAIL_CITATION_RE.finditer(tail):
+                    add(cited.group("author"), cited.group("year"), len(frontmatter) + group.start())
+
+    for match in wl.APA_NARRATIVE_RE.finditer(masked):
+        author = choose_author(match.group("author"))
+        if author:
+            add(author, match.group("year"), len(frontmatter) + match.start())
+
+    return found
+
+
+def first_sightings(text: str) -> list[tuple[str, int]]:
+    """One offset per key, the first in the text."""
+    first: dict[str, int] = {}
+    for key, offset in sightings_in_text(text):
+        first.setdefault(key, offset)
+    return list(first.items())
+
+
+def alias_keys(works: list[dict[str, Any]]) -> set[str]:
+    keys: set[str] = set()
+    for work in works:
+        for alias in work.get("aliases") or []:
+            key = comma_key(str(alias))
+            if key:
+                keys.add(key)
+    return keys
+
+
+def empty_row() -> dict[str, Any]:
+    return {"doi": "", "isbn": "", "title": "", "seen_in": []}
+
+
+def clean_row(raw: Any) -> dict[str, Any]:
+    row = dict(raw) if isinstance(raw, dict) else {}
+    row["doi"] = str(row.get("doi") or "").strip()
+    row["isbn"] = str(row.get("isbn") or "").strip()
+    row["title"] = str(row.get("title") or "").strip()
+    seen = row.get("seen_in")
+    row["seen_in"] = [str(item) for item in seen if str(item).strip()] if isinstance(seen, list) else []
+    return row
+
+
+def has_identity(row: dict[str, Any]) -> bool:
+    return bool(row.get("doi") or row.get("isbn") or row.get("title"))
+
+
+def load_identities(path: Path) -> dict[str, dict[str, Any]] | None:
+    if not path.exists():
+        return {}
+    try:
+        data = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, ValueError) as exc:
+        print(f"external identities unreadable, not overwritten: {exc}")
+        return None
+    items = data.get("items") if isinstance(data, dict) else None
+    if not isinstance(items, dict):
+        print("external identities unreadable, not overwritten: items must be an object")
+        return None
+    loaded: dict[str, dict[str, Any]] = {}
+    for key, raw in items.items():
+        norm = comma_key(str(key)) or (str(key) if _SIGHTING_RE.match(str(key)) else "")
+        if not norm:
+            continue
+        loaded[norm] = clean_row(raw)
+    return loaded
+
+
+def cap_seen(paths: list[str]) -> list[str]:
+    unique = sorted({path for path in paths if path})
+    return unique[:SEEN_IN_LIMIT]
+
+
+def positive_match(left: dict[str, Any], right: dict[str, Any]) -> bool:
+    left_doi, right_doi = norm_doi(left.get("doi", "")), norm_doi(right.get("doi", ""))
+    if left_doi and left_doi == right_doi:
+        return True
+    left_isbn, right_isbn = norm_isbn(left.get("isbn", "")), norm_isbn(right.get("isbn", ""))
+    if left_isbn and left_isbn == right_isbn:
+        return True
+    left_title, right_title = title_key(left.get("title", "")), title_key(right.get("title", ""))
+    return bool(left_title and left_title == right_title and title_is_specific(left_title))
+
+
+def fields_conflict(left: dict[str, Any], right: dict[str, Any]) -> bool:
+    left_doi, right_doi = norm_doi(left.get("doi", "")), norm_doi(right.get("doi", ""))
+    if left_doi and right_doi and left_doi != right_doi:
+        return True
+    left_isbn, right_isbn = norm_isbn(left.get("isbn", "")), norm_isbn(right.get("isbn", ""))
+    if left_isbn and right_isbn and left_isbn != right_isbn:
+        return True
+    left_title, right_title = title_key(left.get("title", "")), title_key(right.get("title", ""))
+    return bool(left_title and right_title and left_title != right_title)
+
+
+def cluster_rows(rows: list[tuple[str, dict[str, Any]]]) -> list[list[tuple[str, dict[str, Any]]]]:
+    parent = list(range(len(rows)))
+
+    def find(index: int) -> int:
+        while parent[index] != index:
+            parent[index] = parent[parent[index]]
+            index = parent[index]
+        return index
+
+    def union(left: int, right: int) -> None:
+        left_root, right_root = find(left), find(right)
+        if left_root == right_root:
+            return
+        left_members = [index for index in range(len(rows)) if find(index) == left_root]
+        right_members = [index for index in range(len(rows)) if find(index) == right_root]
+        for one in left_members:
+            for other in right_members:
+                if fields_conflict(rows[one][1], rows[other][1]):
+                    return
+        parent[right_root] = left_root
+
+    for left in range(len(rows)):
+        for right in range(left + 1, len(rows)):
+            if positive_match(rows[left][1], rows[right][1]):
+                union(left, right)
+    grouped: dict[int, list[tuple[str, dict[str, Any]]]] = {}
+    for index, row in enumerate(rows):
+        grouped.setdefault(find(index), []).append(row)
+    return list(grouped.values())
+
+
+def merged_fields(cluster: list[tuple[str, dict[str, Any]]]) -> dict[str, Any]:
+    doi = next((row["doi"] for _, row in cluster if row.get("doi")), "")
+    isbn = next((row["isbn"] for _, row in cluster if row.get("isbn")), "")
+    titles = [row["title"] for _, row in cluster if row.get("title")]
+    title = max(titles, key=len) if titles else ""
+    seen: list[str] = []
+    for _, row in cluster:
+        seen.extend(row.get("seen_in") or [])
+    return {"doi": doi, "isbn": isbn, "title": title, "seen_in": cap_seen(seen)}
+
+
+def cluster_sort_key(cluster: list[tuple[str, dict[str, Any]]]) -> tuple[str, str, str, str]:
+    fields = merged_fields(cluster)
+    return (
+        title_key(fields["title"]),
+        norm_doi(fields["doi"]),
+        norm_isbn(fields["isbn"]),
+        min(key for key, _ in cluster),
+    )
+
+
+def canonical_aliases(author: str, year: str, suffix: str) -> list[str]:
+    token = f"{year}{suffix}"
+    return [f"{author}, {token}", f"{author} ({token})"]
+
+
+def vault_indexes(works: list[dict[str, Any]]) -> dict[str, Any]:
+    dois: set[str] = set()
+    isbns: set[str] = set()
+    citations: dict[str, list[str]] = {}
+    for work in works:
+        doi = norm_doi(str(work.get("doi") or ""))
+        isbn = norm_isbn(str(work.get("isbn") or ""))
+        if doi:
+            dois.add(doi)
+        if isbn:
+            isbns.add(isbn)
+        base = comma_key(str(work.get("base_key") or "")) or str(work.get("base_key") or "")
+        citation = title_key(str(work.get("citation") or ""))
+        if base and citation:
+            citations.setdefault(base, []).append(citation)
+    return {"dois": dois, "isbns": isbns, "aliases": alias_keys(works), "citations": citations}
+
+
+def is_ingested(key: str, row: dict[str, Any], vault: dict[str, Any]) -> bool:
+    doi = norm_doi(row.get("doi", ""))
+    if doi and doi in vault["dois"]:
+        return True
+    isbn = norm_isbn(row.get("isbn", ""))
+    if isbn and isbn in vault["isbns"]:
+        return True
+    if key in vault["aliases"]:
+        return True
+    specific = title_key(row.get("title", ""))
+    if title_is_specific(specific):
+        for citation in vault["citations"].get(base_of(key), []):
+            if specific in citation:
+                return True
+    return False
+
+
+def collect_sightings(pages: list[tuple[str, str]], aliases: set[str]) -> dict[str, list[str]]:
+    found: dict[str, set[str]] = {}
+    for rel_path, text in pages:
+        for key, _offset in sightings_in_text(text):
+            if key in aliases:
+                continue
+            found.setdefault(key, set()).add(rel_path)
+    return {key: sorted(paths) for key, paths in found.items()}
+
+
+def scan_wiki_pages() -> list[tuple[str, str]]:
+    wl = linker()
+    pages: list[tuple[str, str]] = []
+    for path in sorted(wl.WIKI_DIR.rglob("*.md")):
+        if wl.should_skip_file(path):
+            continue
+        pages.append((path.relative_to(ROOT).as_posix(), path.read_text(encoding="utf-8", errors="replace")))
+    return pages
+
+
+def assemble(
+    saved: dict[str, dict[str, Any]],
+    sightings: dict[str, list[str]],
+    works: list[dict[str, Any]],
+) -> tuple[dict[str, dict[str, Any]], dict[str, Any]]:
+    """Merge sightings into saved rows, drop ingested rows, assign a/b/c."""
+    vault = vault_indexes(works)
+    rows = {key: clean_row(row) for key, row in saved.items()}
+    for key, paths in sightings.items():
+        if key in vault["aliases"]:
+            continue
+        row = rows.get(key) or empty_row()
+        row["seen_in"] = cap_seen(paths)
+        rows[key] = row
+    for key, row in list(rows.items()):
+        if key not in sightings:
+            if not has_identity(row):
+                del rows[key]
+                continue
+            row["seen_in"] = []
+        if is_ingested(key, row, vault):
+            del rows[key]
+
+    generated_items: dict[str, Any] = {}
+    by_identity: dict[str, str] = {}
+    groups: dict[str, list[tuple[str, dict[str, Any]]]] = {}
+    for key, row in rows.items():
+        groups.setdefault(base_of(key), []).append((key, row))
+    for base, group in groups.items():
+        author, year = split_base(base)
+        if not author or not year:
+            continue
+        clusters = sorted(cluster_rows(group), key=cluster_sort_key)
+        multiple = len(clusters) > 1
+        for index, cluster in enumerate(clusters):
+            suffix = year_suffix(index) if multiple else ""
+            aliases = canonical_aliases(author, year, suffix)
+            fields = merged_fields(cluster)
+            identity_keys = sorted(key for key, _ in cluster)
+            entry = {
+                "aliases": aliases,
+                "identity_keys": identity_keys,
+                "doi": fields["doi"],
+                "isbn": fields["isbn"],
+                "title": fields["title"],
+                "seen_in": fields["seen_in"],
+            }
+            canonical = aliases[0]
+            generated_items[canonical] = entry
+            for identity_key in identity_keys:
+                by_identity[identity_key] = canonical
+            for alias in aliases:
+                by_identity.setdefault(alias, canonical)
+    generated = {"_note": GENERATED_NOTE, "items": generated_items, "by_identity": by_identity}
+    return rows, generated
+
+
+def missing_identity_count(rows: dict[str, dict[str, Any]]) -> int:
+    return sum(1 for row in rows.values() if not has_identity(row))
+
+
+def write_citation_json(path: Path, payload: dict[str, Any], dry_run: bool) -> bool:
+    content = json.dumps(payload, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
+    current = path.read_text(encoding="utf-8") if path.exists() else None
+    if current == content:
+        return False
+    if dry_run:
+        print(f"[dry-run] would write {path.relative_to(ROOT)}")
+        return True
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(content, encoding="utf-8")
+    print(f"✅ wrote {path.relative_to(ROOT)}")
+    return True
+
+
+def sync_external(
+    works: list[dict[str, Any]],
+    *,
+    dry_run: bool = False,
+    pages: list[tuple[str, str]] | None = None,
+    citation_dir: Path | None = None,
+) -> dict[str, int]:
+    """Collect external short citations and write the two citation files.
+
+    ``pages`` replaces the wiki scan. Used by tests. ``--check`` must not call
+    this: the commit gate runs citation_index.py --check on every lint.
+    """
+    directory = citation_dir or CITATION_DIR
+    identities_path = directory / "external_identities.json"
+    external_path = directory / "citation_external.json"
+    saved = load_identities(identities_path)
+    if saved is None:
+        return {"error": 1}
+    if pages is None:
+        pages = scan_wiki_pages()
+    sightings = collect_sightings(pages, alias_keys(works))
+    rows, generated = assemble(saved, sightings, works)
+    identities = {"_note": IDENTITIES_NOTE, "items": rows}
+    write_citation_json(identities_path, identities, dry_run)
+    write_citation_json(external_path, generated, dry_run)
+    stats = {
+        "error": 0,
+        "pages": len(pages),
+        "sightings": len(sightings),
+        "rows": len(rows),
+        "works": len(generated["items"]),
+        "missing": missing_identity_count(rows),
+    }
+    print(
+        f"外部短引用：扫描 {stats['pages']} 页，收集 {stats['sightings']} 条，"
+        f"保留 {stats['rows']} 条身份，生成 {stats['works']} 条规范引用，"
+        f"其中 {stats['missing']} 条还没有 DOI、ISBN 或篇名。"
+    )
+    return stats
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Maintain Argument citation aliases and citation JSON indexes.")
     parser.add_argument("--dry-run", action="store_true", help="Preview changes without writing.")
@@ -815,7 +1482,6 @@ def main() -> int:
     scripts = str(Path(__file__).resolve().parent)
     if scripts not in sys.path:
         sys.path.insert(0, scripts)
-    import citation_external
     works = [
         {
             "base_key": item.base_key,
@@ -826,7 +1492,7 @@ def main() -> int:
         }
         for item in items
     ]
-    external_stats = citation_external.sync_external(works, dry_run=args.dry_run)
+    external_stats = sync_external(works, dry_run=args.dry_run)
     if external_stats.get("error"):
         return 1
     return 1 if errors else 0

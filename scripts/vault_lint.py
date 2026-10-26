@@ -3190,9 +3190,9 @@ def check_external_citation_identity(path: Path, text: str, issues: List[Issue])
     scripts_dir = str(Path(__file__).resolve().parent)
     if scripts_dir not in sys.path:
         sys.path.insert(0, scripts_dir)
-    import citation_external
+    import citation_index
 
-    for key, offset in citation_external.first_sightings(text):
+    for key, offset in citation_index.first_sightings(text):
         entry = lookup.get(key)
         if not entry:
             continue

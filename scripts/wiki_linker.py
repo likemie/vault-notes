@@ -20,7 +20,7 @@ from typing import Any, Iterable
 
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-import org_registry  # noqa: E402
+import wiki_index  # noqa: E402  (organization registry)
 
 ROOT = Path(__file__).resolve().parents[1]
 WIKI_DIR = ROOT / "wiki"
@@ -1384,7 +1384,7 @@ def link_yaml_author_fields(fm: str, author_map: dict[str, str]) -> tuple[str, i
 #
 # Like `authors` -> Person, `issuing_organization` -> Fact(subtype=organization).
 # Names come from organization titles, aliases and the editable `variants` in
-# wiki/organizations.json (see scripts/org_registry.py). The field stays a YAML
+# wiki/organizations.json (see scripts/wiki_index.py). The field stays a YAML
 # scalar; matched names are linked inside it:
 #
 #   Education Endowment Foundation        -> [[Education Endowment Foundation]]
@@ -1394,9 +1394,9 @@ def link_yaml_author_fields(fm: str, author_map: dict[str, str]) -> tuple[str, i
 
 def make_yaml_organization_term_map(entries: list[Entry]) -> dict[str, str]:
     """Return normalized organization names to Fact(subtype=organization) targets."""
-    return org_registry.build_name_map(
+    return wiki_index.build_name_map(
         ((e.title, e.aliases) for e in entries if e.type == "fact" and e.subtype == "organization"),
-        org_registry.load_variants(),
+        wiki_index.load_variants(),
     )
 
 
@@ -1428,7 +1428,7 @@ def _link_organization_text(display: str, org_map: dict[str, str]) -> tuple[str,
     core = display.strip()
     if not core:
         return display, 0
-    parts = org_registry.resolve(core, org_map)
+    parts = wiki_index.resolve(core, org_map)
     count = sum(1 for _, target, _ in parts if target)
     if not count:
         return display, 0

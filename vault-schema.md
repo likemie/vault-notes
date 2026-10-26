@@ -100,14 +100,17 @@ schema/                      专项工作流 schema，按任务触发读取
   schema-monograph.md
   schema-textbook.md
 scripts/
-  vault_index.py
-  wiki_index.py
-  citation_index.py
+  vault_index.py              基础维护统一入口
+  wiki_index.py               wiki 索引与机构登记表 wiki/organizations.json
+  citation_index.py           Argument 引用索引与库外短引用索引
   wiki_linker.py
   wiki_relations.py
   vault_lint.py
+  effect_table.py             vault_lint 使用的效应量表格解析
   source_record.py
+  related_update.py           相关研究分批更新任务
   metax_sync.py
+  eef_sync.py
 citation/
   journals.json              AI 命名用期刊全名到唯一代码的最小注册表
   citation_full.json          可引用 Argument 的全量索引
