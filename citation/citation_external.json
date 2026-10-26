@@ -11807,11 +11807,9 @@
     "Jürgen Habermas, 1972": "Jürgen Habermas, 1972",
     "Jürgen Habermas, 2007": "Jürgen Habermas, 2007",
     "Jürgen Schriewer (1987)": "Jürgen Schriewer, 1987",
-    "Jürgen Schriewer (1990)": "Jürgen Schriewer, 1990",
     "Jürgen Schriewer (2006)": "Jürgen Schriewer, 2006",
     "Jürgen Schriewer (2012)": "Jürgen Schriewer, 2012",
     "Jürgen Schriewer, 1987": "Jürgen Schriewer, 1987",
-    "Jürgen Schriewer, 1990": "Jürgen Schriewer, 1990",
     "Jürgen Schriewer, 2006": "Jürgen Schriewer, 2006",
     "Jürgen Schriewer, 2012": "Jürgen Schriewer, 2012",
     "K. J. (2015)": "K. J., 2015",
@@ -27928,7 +27926,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
-        "wiki/concepts/comparative-education/Reference Society.md",
         "wiki/facts/global/PISA.md"
       ],
       "title": ""
@@ -70837,7 +70834,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
-        "wiki/concepts/comparative-education/Reference Society.md",
         "wiki/facts/global/PISA.md"
       ],
       "title": ""
@@ -112730,21 +112726,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
-      ],
-      "title": ""
-    },
-    "Jürgen Schriewer, 1990": {
-      "aliases": [
-        "Jürgen Schriewer, 1990",
-        "Jürgen Schriewer (1990)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Jürgen Schriewer, 1990"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/comparative-education/Reference Society.md"
       ],
       "title": ""
     },
@@ -164855,7 +164836,6 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
         "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
-        "wiki/concepts/comparative-education/Reference Society.md",
         "wiki/concepts/educational-policy-reform/Global Education Reform Movement.md",
         "wiki/theories/comparative-education/Three-Level Mechanism Model of PISA's Impact on Education Policy.md"
       ],
@@ -178652,7 +178632,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md",
-        "wiki/concepts/comparative-education/Reference Society.md",
         "wiki/facts/global/World Bank.md"
       ],
       "title": ""
