@@ -1387,7 +1387,7 @@
     },
     {
       "number": 18,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-program.md",
       "entries": [
@@ -1422,7 +1422,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-26T18:55:09.533004+00:00"
     },
     {
       "number": 19,

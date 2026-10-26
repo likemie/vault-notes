@@ -4,7 +4,7 @@ aliases:
   - 经济合作与发展组织
   - Organisation for Economic Co-operation and Development
   - 经合组织
-summary: "1961年由前身欧洲经济合作组织（OEEC）正式改组演变而来的超国家政府间经济组织。OEEC最初由美国于1948年为管理马歇尔计划而创建。OECD在战后不仅主导了全球研发统计标准的奠基（《弗拉斯卡蒂手册》）与国家创新系统（NIS）政策范式转型，还在冷战地缘博弈和教育经济学运动影响下将教育规划重构为人力资本投资手段，后通过PISA等国际基准测评开展远处治理，成为主导全球科技创新指标与教育改革的关键知识帝国。"
+summary: "1961 年由前身欧洲经济合作组织（OEEC）改组成立的超国家政府间经济组织；战后奠定全球研发统计标准与国家创新系统范式，后通过 PISA 等跨国测评开展远处治理，构建全球教育政策场域并推行新自由主义规制"
 type: fact
 subtype: organization
 region: global
@@ -107,6 +107,7 @@ related_concepts:
   - "[[Rashomon Effect]]"
   - "[[Construct]]"
   - "[[Test Production]]"
+  - "[[Global Educational Policy Field]]"
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Human Capital Theory]]"
@@ -199,10 +200,11 @@ related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 
 ---
@@ -211,11 +213,10 @@ updated: 2026-10-26
 > 经济合作与发展组织（Organisation for Economic Co-operation and Development，OECD，简称经合组织）是由市场经济发达国家组成的跨政府间国际经济组织。作为二战后西方阵营构建的重要多边协调中枢，该机构不仅是全球科技创新政策与研发统计标准的奠基者（从 1963 年《弗拉斯卡蒂手册》到 1990 年代[[National Innovation System|国家创新系统]]框架），还在后冷战时代演进为[[Global Education Governing Complex\|全球教育治理复合体]]事实上的核心协调者与国际基准制定者。OECD 通过研发以[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA）为代表的跨国标准化大型学生学业与技能测评体系，开创了以量化指标、公开排行、[[Policy Brokerage\|政策中介]]与[[Peer Debriefing\|同行审议]]为基础的[[Governing at a Distance\|远处治理]]（Governing at a Distance）模式，系统地将各成员国科技研发与教育体系重塑为服务于[[Human Capital Theory\|人力资本]]积累与经济增长的战略工具。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 422–425)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–540)]]; [[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–11)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1961年正式改组成立（其前身为 1948 年为管理马歇尔计划而设立的[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（Organisation for European Economic Co-operation，OEEC））；深层背景为冷战前沿[[Geopolitics|地缘政治]]对抗与美国[[Economics of Education Movement\|教育经济学运动]]的兴起。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 420)]]
-> - **官方门户与数据检索平台** 经合组织官方在线门户为 [OECD Official Website](https://www.oecd.org/)（教育领域专属监测分析门户为 [OECD Education GPS](https://gpseducation.oecd.org/)），提供各成员国宏观经济、科技创新及教育测评的官方数据库与旗舰出版物检索。
-> - **总部地点 / 业务辐射** 总部位于法国巴黎；业务直接覆盖 38 个正式成员国及全球数十个伙伴国家和经济体，对世界经济、科技创新政策及教育议程具有全局性辐射力。
+> - **成立时间 / 创设背景** 1961 年正式改组成立（前身为 1948 年为管理马歇尔计划而设立的[[Organisation for European Economic Co-operation|欧洲经济合作组织]]，OEEC）；深层背景为冷战前沿[[Geopolitics|地缘政治]]对抗与美国[[Economics of Education Movement|教育经济学运动]]的兴起。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 420)]]
+> - **总部地点 / 业务辐射** 总部位于法国巴黎；官方门户为 [OECD Official Website](https://www.oecd.org/)（教育专属监测门户为 [OECD Education GPS](https://gpseducation.oecd.org/)）；业务直接覆盖 38 个正式成员国及全球数十个伙伴国家和经济体，对世界经济、科技创新政策及教育议程具有全局性辐射力。
 > - **法人属性与经费基础** 超国家政府间国际组织（Intergovernmental Organization）；由各成员国按国民经济规模按比例分摊的核心法定预算、自愿性专项捐款及各国出资的测评与指标研发项目联合经费维持运作。
-> - **核心宗旨与法定职责** 致力于促进实现成员国最高水平的可持续经济增长、充分就业、科学技术创新及民众生活水平提升；在科技与教育领域旨在提供客观且高度跨国可比的统计标准与循证证据，引导科技与公共教育投资的合理化配置。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 422)]]; [[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–9)]]
+> - **核心宗旨与法定职责** 致力于促进实现成员国最高水平的可持续经济增长、充分就业、科学技术创新及民众生活水平提升；在科技与教育领域旨在提供客观且高度跨国可比的统计标准与循证证据，引导科技与公共教育投资的合理化配置。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–9)]]
 
 ---
 
@@ -287,6 +288,8 @@ updated: 2026-10-26
 > - **质量控制与同行审查** 采用项目反应理论（Item Response Theory，IRT）与潜[[Variable|变量]]模型消除跨文化题项偏差，通过发布国别政策[[Peer Debriefing|同行审议]]报告（Peer Review）形成具有广泛舆论反响的国际比较结论。
 > - **协商性政策转移与软法治理机制（Negotiated Policy Transfer）** 在跨国[[Policy Borrowing|政策借用]]连续谱中，经合组织扮演典型的协商性转移中介枢纽（[[Argument_Legrand_2012_PolStud|Legrand, 2012, p. 322]]）。区别于超国家金融机构的直接附带条件强制，经合组织主要依托不具法律约束力的软法建议（soft law）、国别同行审议（peer review）以及对标最佳实践（best practice），通过营造横向[[Peer Pressure|同侪压力]]推动主权国家在多边协商与自愿吸纳中开展制度调适与政策改革。
 > - **[[Inquisitive Mode of Governance|探究模式]]与[[Meditative Mode of Governance|调解模式]]协同（Inquiry and Mediation Modes）** 经合组织将治理运作分解为两大互补模式：探究模式（Inquiry Mode）负责加工复杂的原始数据并建立因果解释与问题定义；调解模式（Mediation Mode）则向各国游说并推介基于[[Human Capital Theory|人力资本理论]]的最佳实践。双模协同使经合组织在不具备行政强制力与司法管辖权的情况下，通过向国内行动者提供无可争议的实证论据，间接重构主权国家内部的政治博弈与权力格局。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 269–271, 277–278)]]
+> - **四种治理理想型与软治理整合** 经合组织公约未包含直接的教育条款，缺乏法律治理（Legal Governance）工具与强制性财政援助机制；但通过将认知治理（定义知识与因果模型）、规范治理（树立最佳实践与同侪规训）及姑息治理（为政策合法性焦虑的国家提供外部科学客观化诊断）深度整合，构建起强大的跨国政策规制威权。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 58–60)]]
+> - **全球教育政策场域构建与仲裁权威** 经合组织凭借去背景化、通约性与政策导向三大技术机制构建跨国等价空间，积聚巨额的统计测量资本与象征资本，将自身塑造为相对自主的[[Global Educational Policy Field|全球教育政策场域]]中的跨国仲裁者。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 58–60, 71–72)]]
 > - **双轨发布与媒介定制策略** 数据发布采取技术中立的国别简报（Country Notes）与高度倡导性的[[Whole Earth Catalog|全球概览]]（[[PISA]] in Focus 及演示幻灯片）双轨分流：前者呈现统计指标，声明数据不直接推导具体政策处方；后者面向大众媒体定制口号化警句与图表分类，为国内行动者选择性剪裁留出缝隙。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 114–116)]]
 
 ---
