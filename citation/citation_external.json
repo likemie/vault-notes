@@ -22514,7 +22514,9 @@
     "Sung et al., 2016": "Sung et al., 2016",
     "Sung et al., 2017": "Sung et al., 2017",
     "Sung, 2016": "Sung, 2016",
+    "Supiot (2017)": "Supiot, 2017",
     "Supiot (2019)": "Supiot, 2019",
+    "Supiot, 2017": "Supiot, 2017",
     "Supiot, 2019": "Supiot, 2019",
     "Supovitz (2010)": "Supovitz, 2010",
     "Supovitz (2015)": "Supovitz, 2015",
@@ -26298,8 +26300,6 @@
     "思想先声, 1925": "思想先声, 1925",
     "思想实验与防御策略分析 (2019)": "思想实验与防御策略分析, 2019",
     "思想实验与防御策略分析, 2019": "思想实验与防御策略分析, 2019",
-    "总则 (2006)": "总则, 2006",
-    "总则, 2006": "总则, 2006",
     "情报 (2006)": "情报, 2006",
     "情报, 2006": "情报, 2006",
     "戈登 (2016)": "戈登, 2016",
@@ -43609,7 +43609,6 @@
         "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
         "wiki/concepts/educational-policy-reform/Global Education Reform Movement.md",
         "wiki/concepts/political-economy-geopolitics/Soft Power.md",
-        "wiki/facts/switzerland/HarmoS.md",
         "wiki/theories/comparative-education/Three-Level Mechanism Model of PISA's Impact on Education Policy.md"
       ],
       "title": ""
@@ -43625,8 +43624,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md",
-        "wiki/facts/switzerland/HarmoS.md"
+        "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md"
       ],
       "title": ""
     },
@@ -170016,7 +170014,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md",
-        "wiki/concepts/educational-policy-reform/Policy Mobility.md"
+        "wiki/concepts/educational-policy-reform/Policy Mobility.md",
+        "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md"
       ],
       "title": ""
     },
@@ -190191,6 +190190,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effect of online summary assessment and feedback system on the summary writing on 6th graders  The LSA-based technique"
+    },
+    "Supiot, 2017": {
+      "aliases": [
+        "Supiot, 2017",
+        "Supiot (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Supiot, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md"
+      ],
+      "title": ""
     },
     "Supiot, 2019": {
       "aliases": [
@@ -217056,21 +217070,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/uk/Adrian Simpson.md"
-      ],
-      "title": ""
-    },
-    "总则, 2006": {
-      "aliases": [
-        "总则, 2006",
-        "总则 (2006)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "总则, 2006"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/facts/switzerland/HarmoS.md"
       ],
       "title": ""
     },

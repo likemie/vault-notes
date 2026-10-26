@@ -29,7 +29,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[High-Stakes Testing]]"
   - "[[Geopolitics]]"
-  - "[[Educational Brokerage Agency]]"
+  - "[[Knowledge Mediation]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Education-for-Mandates]]"
   - "[[Façade of Rationality]]"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Ethnography]]"
 related_instruments: []
 related_persons:
+  - "[[Sotiria Grek]]"
   - "[[Gita Steiner-Khamsi]]"
   - "[[Kerstin Martens]]"
   - "[[Andreas Schleicher]]"
@@ -92,7 +93,7 @@ updated: 2026-10-26
 > - **1977** 出生于丹麦。
 > - **2007–2011** 获丹麦哥本哈根大学博士学位，博士论文深入考察 20 世纪跨国智力测验与心理测量技术的制度化传播。
 > - **2011–2017** 任职于丹麦奥尔堡大学教育、学习与哲学系，主持丹麦独立研究基金会（DFF）关于[[OECD\|经合组织]]教育治理历史的多项重大科研项目。
-> - **2019** 与索蒂里亚·格雷克（Sotiria Grek）合著出版里程碑式专著《经合组织在教育领域的历史性崛起：全球治理复合体的形成》（*The OECD's Historical [[Research in Schools Evaluation\|RISE]] In Education: The Formation of a Global Governing Complex*），奠定跨国指标治理史学领军地位。
+> - **2019** 与索蒂里亚·格雷克（[[Sotiria Grek]]）合著出版里程碑式专著《经合组织在教育领域的历史性崛起：全球治理复合体的形成》（*The OECD's Historical [[Research in Schools Evaluation\|RISE]] In Education: The Formation of a Global Governing Complex*），奠定跨国指标治理史学领军地位。
 > - **2023** 与马伦·埃尔弗特（Maren Elfert）合著出版《全球教育治理：[[UNESCO\|联合国教科文组织]]、经合组织与[[World Bank\|世界银行]]的历史与当代纠缠》（*Global Governance of Education: The Historical and Contemporary Entanglements of UNESCO, the OECD and the World Bank*）。
 > - **2024** 与吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）及[[Kerstin Martens\|克里斯汀·马滕斯]]（Kerstin Martens）在《比较教育》（*Comparative Education*）合作发表《[[Governing by Numbers\|数字治理]] 2.0：信息过载时代作为全球治理工具的[[Policy Brokerage\|政策中介]]》（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024]]）。
 
@@ -107,7 +108,7 @@ updated: 2026-10-26
 >   - **代表著作** *The OECD's Historical Rise In Education: The Formation of a Global Governing Complex* (Palgrave Macmillan, 2019)。
 >   - **关键概念／方法** [[Global Education Governing Complex]]、[[International Indicators of Education Systems]]、[[PISA]]。
 >   - **阶段转向** 拓展至 [[UNESCO]]、OECD 与[[World Bank\|世界银行]]三大国际组织之间的三角竞合格局与[[Geopolitics|地缘政治]]经济分析。
-> - **2023年至今 — 多边治理体系的权力网络与[[Governing by Numbers\|数字治理]] 2.0** 深化对跨国[[Policy Brokerage\|政策中介]]、[[Educational Brokerage Agency\|知识经纪]]与[[Soft Power by Hard Facts\|以硬事实施展软权力]]机制的批判性研究。
+> - **2023年至今 — 多边治理体系的权力网络与[[Governing by Numbers\|数字治理]] 2.0** 深化对跨国[[Policy Brokerage\|政策中介]]、[[Knowledge Mediation|知识经纪]]与[[Soft Power by Hard Facts\|以硬事实施展软权力]]机制的批判性研究。
 >   - **代表著作** *Global Governance of Education* (Springer, 2023); *Governance by numbers 2.0* (Comparative Education, 2024)。
 >   - **关键概念／方法** [[Policy Brokerage]]、[[Soft Power by Hard Facts]]、[[Education-for-Mandates]]、[[Façade of Rationality]]。
 >   - **阶段转向** 结合多学科框架，系统揭示信息过载时代国际组织如何利用数字作为理性表象的[[Scaffolding\|脚手架]]实施认知性全球规制。

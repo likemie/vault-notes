@@ -10200,7 +10200,6 @@
         "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
         "wiki/concepts/educational-policy-reform/Global Education Reform Movement.md",
         "wiki/concepts/political-economy-geopolitics/Soft Power.md",
-        "wiki/facts/switzerland/HarmoS.md",
         "wiki/theories/comparative-education/Three-Level Mechanism Model of PISA's Impact on Education Policy.md"
       ],
       "title": ""
@@ -10209,8 +10208,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md",
-        "wiki/facts/switzerland/HarmoS.md"
+        "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md"
       ],
       "title": ""
     },
@@ -86772,7 +86770,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md",
-        "wiki/concepts/educational-policy-reform/Policy Mobility.md"
+        "wiki/concepts/educational-policy-reform/Policy Mobility.md",
+        "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md"
       ],
       "title": ""
     },
@@ -99005,6 +99004,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effect of online summary assessment and feedback system on the summary writing on 6th graders  The LSA-based technique"
+    },
+    "Supiot, 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md"
+      ],
+      "title": ""
     },
     "Supiot, 2019": {
       "doi": "",
@@ -115373,14 +115380,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/uk/Adrian Simpson.md"
-      ],
-      "title": ""
-    },
-    "总则, 2006": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/facts/switzerland/HarmoS.md"
       ],
       "title": ""
     },

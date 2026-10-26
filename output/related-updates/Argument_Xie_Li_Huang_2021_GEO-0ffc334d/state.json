@@ -1574,7 +1574,7 @@
     },
     {
       "number": 21,
-      "status": "pending",
+      "status": "done",
       "type": "fact",
       "template": "wiki/templates/template-fact-event.md",
       "entries": [
@@ -1594,7 +1594,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-26T19:18:17.591689+00:00"
     }
   ]
 }

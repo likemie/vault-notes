@@ -1,10 +1,19 @@
 ---
 title: Governing by Numbers
 aliases:
+  - 数目化治理
+  - 数目化管理
   - 数字治理
   - 以数字治理
+  - 按数字治理
   - governance by numbers
-summary: "指通过量化指标、跨国测评与数据比较实现全球教育治理的软性机制。Grek (2009) 奠基该概念，Rizvi 与 Lingard (2009) 揭示经合组织依托 PISA 自建跨国等价空间并推行“数字即政策”，以技术排位压制价值判断并维系知识经济社会想象；Steiner-Khamsi et al.（2024）进一步拓展为数字治理 2.0，聚焦信息过载下政策中介的证据包装与组织利基争夺。"
+  - Governance by Numbers
+  - Governance by numbers
+  - governance by numbers 2.0
+  - Governance by Numbers 2.0
+  - 数字治理 2.0
+  - 数目化治理 2.0
+summary: "指通过量化指标、跨国测评与数据比较实现全球教育治理的软性机制，又译数目化治理或以数字治理。Grek (2009) 奠基该概念，Rizvi 与 Lingard (2009) 揭示经合组织依托 PISA 自建跨国等价空间并推行“数字即政策”，以技术排位压制价值判断并维系知识经济社会想象；Steiner-Khamsi et al.（2024）进一步拓展为数目化治理 2.0，聚焦信息过载下政策中介的证据包装与组织利基争夺。"
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 55
@@ -43,19 +52,21 @@ related_concepts:
   - "[[Variable]]"
   - "[[Space Production]]"
   - "[[European Education Space]]"
+  - "[[Comparative Turn in Education Policy]]"
 related_theories:
   - "[[Governing at a Distance]]"
   - "[[Governmentality]]"
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Institutional Isomorphism]]"
+  - "[[Human Capital Theory]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Elite Interview]]"
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
-  - "[[Alain Desrosières]]"
   - "[[Nikolas Rose]]"
+  - "[[Alain Desrosières]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Gita Steiner-Khamsi]]"
@@ -89,12 +100,13 @@ updated: 2026-10-26
 ---
 
 > [!def] Governing by Numbers
-> 数字治理（Governing by Numbers）指通过量化指标、国际排名和数据比较来实现跨国教育治理的软性机制。该概念由 [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 23–24, 34–35)]] 奠基，最初指大型国际评估（如 [[PISA]]）提供的跨国可比数据使政策制定者能够在全球尺度上比较教育系统，用指标制定政策并形成远距离指导；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]进一步提出“数字治理 2.0”（Governance by numbers 2.0），指出在数字经济与信息过载时代，治理重点已从单纯发布测验排名深化为通过[[Policy Brokerage|政策中介]]筛选、包装与转译海量证据，以此在多重不确定性下维系软治理。
+> 数目化治理（Governing by Numbers，亦称数字治理、以数字治理或 Governance by Numbers）指通过量化指标、国际排名和数据比较来实现跨国教育治理的软性机制。该概念由 [[Nikolas Rose|尼古拉斯·罗斯]]（Rose, 1991）与 [[Alain Desrosières|阿兰·德罗西埃]]（Desrosières, 1998）奠基统计政治学与计算理性传统，经 [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 23–24, 34–35)]] 等学者引入比较教育与政策社会学，最初指大型国际评估（如 [[PISA]]）提供的跨国可比数据使政策制定者能够在全球尺度上比较教育系统，用指标制定政策并形成远距离指导；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]] 进一步提出“数目化治理 2.0”（Governance by numbers 2.0），指出在数字经济与信息过载时代，治理重点已从单纯发布测验排名深化为通过[[Policy Brokerage|政策中介]]筛选、包装与转译海量证据，以此在多重不确定性下维系软治理。
 
 > [!concept-lens] 概念透镜
 > - **含义** 教育治理依托数据生产、排名比较、指标标准化以及政策中介的证据包装，以软治理方式引导各国教育政策向特定方向协调推进。
 > - **用途** 用于分析国际组织（尤其是 [[OECD]] 与[[World Bank|世界银行]]）如何通过评估工具以“软治理”方式重塑各国教育政策议程，以及量化数据如何在政治决策中获得合法性。
 > - **边界** 不等于传统自上而下的科层治理或法律强制——数字治理依赖的是信息的权威性和比较压力，而非直接命令；亦非中立的科学传播，数据生产与中介转译本身包含政治性的分类、标准化与排他性网络逻辑。
+> - **译名与消歧** 英文标题兼具 *Governing by Numbers*（动名词形态，强调治理实践）与 *Governance by Numbers*（名词形态，如 Steiner-Khamsi et al., 2024；Supiot, 2017）；中文文献并存“数目化治理”（承接统计政治学与计算理性传统，如谢爱磊等 2021）与“数字治理 / 以数字治理”（如 Grek 2009 与 Steiner-Khamsi 2024 译介）。需严格区别于电子政务与信息通信技术层面的“数字化治理 / 数字治理”（Digital Governance）。
 
 > [!citation-card] 数字治理 2.0 的研究议程
 > 数字治理 2.0 比较研究计划基于多学科（历史、政治学、跨学科政策研究）的解释框架，提出一种跨国的、关系性的调查方法，聚焦全球/国家的关联，考察国际组织如何将政策中介发展为全球治理工具，以及主权国家政府在政策周期各阶段的策略性应对。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 538)]]
@@ -254,4 +266,4 @@ updated: 2026-10-26
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]] PISA 如何通过数字治理机制影响全球基础教育改革，提出三层机制模型。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合罗斯“数字即政策”与等价空间理论，揭示经合组织如何自产跨国数据以技术排位压制教育目的辩论。
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 系统解析经合组织如何依托跨国量化统测将测验分数塑造成硬事实，确立认知权威并实施远程软治理。
-> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 将数目化治理（Bauman, 1992; Nóvoa & Yariv-Mashal, 2003）列为 PISA 强化经合组织政策权威的三大合法性支柱之首，揭示跨国数据指标如何在循证决策与比较转向的协同下将新自由主义人力资本逻辑包装为技术中立事实。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 将数目化治理（Bauman, 1992; Nóvoa & Yariv-Mashal, 2003）列为 PISA 强化经合组织政策权威的三大合法性支柱之首，揭示跨国数据指标如何在[[Evidence-Based Policy-Making|循证决策]]与[[Comparative Turn in Education Policy|比较转向]]的协同下将新自由主义[[Human Capital Theory|人力资本]]逻辑包装为技术中立事实。

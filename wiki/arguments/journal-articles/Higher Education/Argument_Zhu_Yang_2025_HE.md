@@ -46,7 +46,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Falsification]]"
   - "[[Telling China's Story Well]]"
-  - "[[Governing by Numbers]]"
   - "[[China Solution]]"
   - "[[Innovation Hub]]"
   - "[[STEM Education]]"
@@ -211,7 +210,7 @@ updated: 2026-10-26
 
 > [!evidence-grid] 受援国对当代治理经验的策略性认同
 > - **文化自主意识保持** 东南亚学子与行政官员明确表示并未在思想或价值上被动附庸于传统文明，始终基于本国主权与文化主体性开展国际交往。
-> - **发展模式客观借鉴** 学员高度认可当代中国的经济腾飞、脱贫攻坚与[[Governing by Numbers|数字治理]]成效，将其作为探索本土工业化道路的实用性参考。
+> - **发展模式客观借鉴** 学员高度认可当代中国的经济腾飞、脱贫攻坚与数字治理成效，将其作为探索本土工业化道路的实用性参考。
 > - **西方[[Paradigm|范式]]补充方案** 区域受访者倾向将[[China Solution|中国方案]]视为国际公共产品与多元发展路径的新选项，而非唯一排他的意识形态真理。
 
 > [!warrant]- 从文化同化到文化认同的机制推演
