@@ -7,9 +7,9 @@ Maintain Visible Learning MetaX data and the generated `## Visible Learning Meta
 module in wiki entries.
 
 Data (outside wiki/, never linked or indexed):
-  metax/metax.json   studies (bibliographic data, match state) + influences
+  datasets/metax/metax.json   studies (bibliographic data, match state) + influences
                      (overview figures, per-influence rows, mapped entries)
-  metax/errata.json  study-level and influence-level corrections with sources
+  datasets/metax/errata.json  study-level and influence-level corrections with sources
 
 Cards show only APA short citations and figures. Titles, journals and full author
 lists stay in metax.json. A study is linked to an Argument only when year, first
@@ -24,10 +24,10 @@ Subcommands:
   map      INFLUENCE_ID ENTRY_PATH...   attach an influence to entries
   unmap    INFLUENCE_ID [ENTRY_PATH...] detach
   suggest                               influences whose name equals an entry title/alias
-  apply-mapping [--dry-run]             create stub entries and attach influences per metax/mapping.json
+  apply-mapping [--dry-run]             create stub entries and attach influences per datasets/metax/mapping.json
   report                                matched / collision / review summary
   domains                               VL-style domain summary + per-domain sub-domain callouts (Markdown)
-  audit                                 suspected data errors -> metax/audit.json (leads, not errata)
+  audit                                 suspected data errors -> datasets/metax/reports/audit.json (leads, not errata)
 """
 
 from __future__ import annotations
@@ -40,7 +40,7 @@ import unicodedata
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA_DIR = ROOT / "metax"
+DATA_DIR = ROOT / "datasets/metax"
 DATA_JSON = DATA_DIR / "metax.json"
 ERRATA_JSON = DATA_DIR / "errata.json"
 ZH_JSON = DATA_DIR / "zh.json"
@@ -577,7 +577,7 @@ def render_influence(iid: str, inf: dict, studies: dict, errata: list, args_meta
         )
 
     # Errata appear only when there is something to report: sourced entries from
-    # metax/errata.json, or mismatches found by recomputing the overview.
+    # datasets/metax/errata.json, or mismatches found by recomputing the overview.
     if own or auto:
         lines.append(">")
         lines.append(f"> > [!metax-errata] {len(own) + len(auto)} 条")
@@ -789,7 +789,7 @@ def cmd_sync(args) -> int:
     assign_apa(data["studies"], full)
     code = cmd_render(args, data)
     if json.dumps(data["studies"], sort_keys=True) != before:
-        print("stale: metax/metax.json (study matches changed)")
+        print("stale: datasets/metax/metax.json (study matches changed)")
         code = 1
     return code
 
@@ -839,7 +839,7 @@ def stub_text(title: str, aliases: list[str], members: list[dict], zh: dict, tod
 
 def cmd_apply_mapping(args) -> int:
     """Create stub entries for new influences and attach every influence to its entry,
-    following metax/mapping.json (reviewed in metax/MetaX 映射审核.md)."""
+    following datasets/metax/mapping.json (reviewed in datasets/metax/reports/MetaX 映射审核.md)."""
     import datetime
     data = load_json(DATA_JSON, None)
     zh = zh_table()
@@ -930,7 +930,7 @@ def cmd_suggest(args) -> int:
 
 def cmd_audit(args) -> int:
     """Flag suspected MetaX data errors. Findings are leads, not errata: move a
-    finding into metax/errata.json only after checking it against a source."""
+    finding into datasets/metax/errata.json only after checking it against a source."""
     data = load_json(DATA_JSON, None)
     st, inf = data["studies"], data["influences"]
     out = []
@@ -961,11 +961,11 @@ def cmd_audit(args) -> int:
                 out.append({"check": f"overview_{f}_vs_row_sum", "influence": iid, "detail": f"overview={i[f]} rows={rows_sum}"})
         if tot.get("d") is not None and i.get("d") is not None and abs(tot["d"] - i["d"]) > 0.015:
             out.append({"check": "overview_d_vs_source_total", "influence": iid, "detail": f"overview={i['d']} total={tot['d']}"})
-    dump_json(DATA_DIR / "audit.json", out)
+    dump_json(DATA_DIR / "reports" / "audit.json", out)
     counts: dict[str, int] = {}
     for f in out:
         counts[f["check"]] = counts.get(f["check"], 0) + 1
-    print(counts, "-> metax/audit.json")
+    print(counts, "-> datasets/metax/reports/audit.json")
     return 0
 
 

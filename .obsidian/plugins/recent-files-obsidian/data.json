@@ -5,6 +5,22 @@
       "path": "wiki/arguments/journal-articles/Chinese Education & Society/Argument_Wang_Liang_Chen_2025_CES.md"
     },
     {
+      "basename": "Industry-Education Integration Community",
+      "path": "wiki/concepts/educational-policy-reform/Industry-Education Integration Community.md"
+    },
+    {
+      "basename": "China-ASEAN Education Cooperation Week",
+      "path": "wiki/facts/china/China-ASEAN Education Cooperation Week.md"
+    },
+    {
+      "basename": "Luban Workshop",
+      "path": "wiki/facts/china/Luban Workshop.md"
+    },
+    {
+      "basename": "Educational Diplomacy",
+      "path": "wiki/concepts/political-economy-geopolitics/Educational Diplomacy.md"
+    },
+    {
       "basename": "Argument_BrunoJofre_Schriewer_2012_Routledge",
       "path": "wiki/arguments/books/BrunoJofre_Schriewer_2012_Routledge/Argument_BrunoJofre_Schriewer_2012_Routledge.md"
     },
@@ -183,18 +199,6 @@
     {
       "basename": "AidData",
       "path": "wiki/facts/us/AidData.md"
-    },
-    {
-      "basename": "Custer_2021_AidData",
-      "path": "sources/Custer_2021_AidData/Custer_2021_AidData.md"
-    },
-    {
-      "basename": "Systems Approach for Better Education Results",
-      "path": "wiki/facts/global/Systems Approach for Better Education Results.md"
-    },
-    {
-      "basename": "Argument_Zapp_2017_IJED",
-      "path": "wiki/arguments/journal-articles/International Journal of Educational Development/Argument_Zapp_2017_IJED.md"
     }
   ],
   "omittedPaths": [],

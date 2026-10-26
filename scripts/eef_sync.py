@@ -7,9 +7,9 @@ Maintain EEF Teaching and Learning Toolkit data and the generated EEF module
 ([!eef] callouts) in wiki entries. Mirrors scripts/metax_sync.py.
 
 Data (outside wiki/, never linked or indexed):
-  eef/eef.json     strands: toolkit ratings (impact months, cost, evidence),
+  datasets/eef/eef.json     strands: toolkit ratings (impact months, cost, evidence),
                    pooled estimate, and the studies behind each strand
-  eef/errata.json  sourced corrections (same schema as metax/errata.json)
+  datasets/eef/errata.json  sourced corrections (same schema as datasets/metax/errata.json)
 
 Subcommands:
   import --raw RAW.json     normalise a browser export (overview + details + api topics)
@@ -31,14 +31,14 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA_DIR = ROOT / "eef"
+DATA_DIR = ROOT / "datasets/eef"
 DATA_JSON = DATA_DIR / "eef.json"
 ERRATA_JSON = DATA_DIR / "errata.json"
 TEMPLATE = ROOT / "wiki/templates/template-eef.md"
 CITATION_FULL = ROOT / "citation/citation_full.json"
 WIKI_INDEX = ROOT / "wiki/index.json"
 EXTERNAL_IDS = ROOT / "citation/external_identities.json"
-METAX_JSON = ROOT / "metax/metax.json"
+METAX_JSON = ROOT / "datasets/metax/metax.json"
 TAG = "eef"
 FLAG = "⚑"
 CIRCLED = "①②③④⑤⑥⑦⑧⑨⑩⑪⑫⑬⑭⑮⑯⑰⑱⑲⑳"
@@ -385,8 +385,8 @@ updated: 2026-10-25
 ---
 
 %% 样板。正式模块由 EEF 同步脚本生成并插入条目，条目中不设标题，放在 ## 实证数据 一节末尾，不手写。
-   表头代号由 CSS 显示为中文：imp 影响（月）｜cost 成本｜evi 证据强度｜n 研究数｜smd 合并效应量｜ci 95% 置信区间｜i2 异质性 I²｜ref 研究｜type 类型｜w 权重｜e 勘误。\n   勘误写入 eef/errata.json：level 为 strand（整合，总览对应数值旁标 ⚑，field 取 imp/cost/evi/n/smd/ci/i2）或 study（单项，study 填该效应量的 id，列表 e 列标 ①②）；字段 type、eef、corrected、source（Argument 文件名）、pages、note，须附来源。
-   成本与证据强度沿用 EEF 五级评分（●○），研究列表默认折叠；勘误框只在自动核算或 eef/errata.json 有内容时出现。 %%
+   表头代号由 CSS 显示为中文：imp 影响（月）｜cost 成本｜evi 证据强度｜n 研究数｜smd 合并效应量｜ci 95% 置信区间｜i2 异质性 I²｜ref 研究｜type 类型｜w 权重｜e 勘误。\n   勘误写入 datasets/eef/errata.json：level 为 strand（整合，总览对应数值旁标 ⚑，field 取 imp/cost/evi/n/smd/ci/i2）或 study（单项，study 填该效应量的 id，列表 e 列标 ①②）；字段 type、eef、corrected、source（Argument 文件名）、pages、note，须附来源。
+   成本与证据强度沿用 EEF 五级评分（●○），研究列表默认折叠；勘误框只在自动核算或 datasets/eef/errata.json 有内容时出现。 %%
 
 """
     TEMPLATE.write_text(head + DIVIDER + "\n\n" + render_strand(slug, s, load_json(ERRATA_JSON, []), arguments_meta()) + "\n", encoding="utf-8")
@@ -505,7 +505,7 @@ def cmd_sync(args) -> int:
     if args.check:
         code = cmd_render(args, data)
         if json.dumps(data, sort_keys=True) != before:
-            print("stale: eef/eef.json (study matches changed)")
+            print("stale: datasets/eef/eef.json (study matches changed)")
             code = 1
         return code
     dump_json(DATA_JSON, data)

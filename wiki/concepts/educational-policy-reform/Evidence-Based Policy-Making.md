@@ -10,10 +10,10 @@ aliases:
 summary: "起源于循证医学并在公共行政与教育治理中广泛扩散的决策范式与认识论要求，强调以严格实证科学证据（尤其是量化实验评估、随机分配规程与系统评价）作为检验何者有效、制定干预方案与配置公共财政资源的核心依据，并在跨国政策流动中重构了行动者的搜寻机会结构与评估技术硬转移。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept
   - educational-policy-reform
@@ -75,10 +75,11 @@ related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
   - "[[Argument_Campbell_2026_JPCC]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 ---
@@ -267,3 +268,4 @@ updated: 2026-10-25
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 系统论证英国新工党如何通过“证据本位”理念驱动跨国政策转移，不仅引入美国积极福利政策方案，而且全盘采纳其[[Random Assignment|随机分配]]评估技术与专业机构（pp. 330–345）。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以[[Swedish Schools Inspectorate|瑞典学校督察局]]为工具性个案，追踪教育研究如何被选择、铭写进督导标准与知识综述，并在报告定稿前被重写，揭示证据本位治理的论证与合法化功能（pp. 642–657）。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 结合解释性政策分析（IPA）剖析经合组织、教科文组织与世界银行官方文本，解构超国家循证决策话语的修辞隐喻、认知等级与个体化倾向，重构包容性证据生态模型。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 将循证决策列为 PISA 强化经合组织政策权威的三大合法性支柱之二：广泛可用的国际比较数据创造出跨国知识空间，将量化证据确立为公共辩论中唯一具备合法性的事实形态（引自 Wiseman, 2010），由此赋予 PISA 排名以超越质疑的认识论豁免权。

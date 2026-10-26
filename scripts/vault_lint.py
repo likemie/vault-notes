@@ -2317,7 +2317,7 @@ def check_new_entries_mentioned_in_arguments(paths: List[Path], issues: List[Iss
             continue
         tags = data.get("tags") or []
         if isinstance(tags, list) and ("metax" in tags or "eef" in tags):
-            # MetaX stub entries are created from metax/mapping.json and indexed from the
+            # MetaX stub entries are created from datasets/metax/mapping.json and indexed from the
             # Visible Learning Meta-X fact entry, not from an Argument page.
             continue
         title = str(data.get("title") or path.stem).strip()
@@ -4211,8 +4211,8 @@ def start_gate_checks() -> List[Tuple[str, str, str, "subprocess.Popen[str]"]]:
     checks = [
         ("INDEX_STALE", "wiki/index.json", "run: python3 scripts/vault_index.py", ["scripts/wiki_index.py", "--check"]),
         ("CITATION_INDEX_STALE", "citation/citation_full.json", "run: python3 scripts/vault_index.py", ["scripts/citation_index.py", "--check"]),
-        ("METAX_STALE", "metax/metax.json", "run: python3 scripts/vault_index.py", ["scripts/metax_sync.py", "sync", "--check"]),
-        ("EEF_STALE", "eef/eef.json", "run: python3 scripts/vault_index.py", ["scripts/eef_sync.py", "sync", "--check"]),
+        ("METAX_STALE", "datasets/metax/metax.json", "run: python3 scripts/vault_index.py", ["scripts/metax_sync.py", "sync", "--check"]),
+        ("EEF_STALE", "datasets/eef/eef.json", "run: python3 scripts/vault_index.py", ["scripts/eef_sync.py", "sync", "--check"]),
     ]
     env = dict(os.environ, **{GATE_SKIP_ENV: "1"})
     started = []

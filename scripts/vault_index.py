@@ -1664,14 +1664,14 @@ def run_base_index(
     # MetaX modules: match MetaX studies to Arguments by title (never by bare
     # author-year) and regenerate the `## Visible Learning MetaX` modules, so a
     # newly processed meta-analysis is linked wherever MetaX cites it.
-    if (ROOT / "metax/metax.json").exists() and not (book_check or book_dry_run):
+    if (ROOT / "datasets/metax/metax.json").exists() and not (book_check or book_dry_run):
         code = run_script("metax_sync.py", ["sync"])
         if code:
             return code
         _TEXT_CACHE.clear()
         _FM_CACHE.clear()
     # EEF Toolkit modules ([!eef]) follow the same rules (scripts/eef_sync.py).
-    if (ROOT / "eef/eef.json").exists() and not (book_check or book_dry_run):
+    if (ROOT / "datasets/eef/eef.json").exists() and not (book_check or book_dry_run):
         code = run_script("eef_sync.py", ["sync"])
         if code:
             return code

@@ -11,8 +11,8 @@ updated: 2026-10-25
 
 %% 样板。正式模块由 EEF 同步脚本生成并插入条目，条目中不设标题，放在 ## 实证数据 一节末尾，不手写。
    表头代号由 CSS 显示为中文：imp 影响（月）｜cost 成本｜evi 证据强度｜n 研究数｜smd 合并效应量｜ci 95% 置信区间｜i2 异质性 I²｜ref 研究｜type 类型｜w 权重｜e 勘误。
-   勘误写入 eef/errata.json：level 为 strand（整合，总览对应数值旁标 ⚑，field 取 imp/cost/evi/n/smd/ci/i2）或 study（单项，study 填该效应量的 id，列表 e 列标 ①②）；字段 type、eef、corrected、source（Argument 文件名）、pages、note，须附来源。
-   成本与证据强度沿用 EEF 五级评分（●○），研究列表默认折叠；勘误框只在自动核算或 eef/errata.json 有内容时出现。 %%
+   勘误写入 datasets/eef/errata.json：level 为 strand（整合，总览对应数值旁标 ⚑，field 取 imp/cost/evi/n/smd/ci/i2）或 study（单项，study 填该效应量的 id，列表 e 列标 ①②）；字段 type、eef、corrected、source（Argument 文件名）、pages、note，须附来源。
+   成本与证据强度沿用 EEF 五级评分（●○），研究列表默认折叠；勘误框只在自动核算或 datasets/eef/errata.json 有内容时出现。 %%
 
 > [!eef-divider]
 

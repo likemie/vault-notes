@@ -114,11 +114,16 @@ citation/
   citation_ambiguous.json     同作者同年歧义组（含 APA 7 区分建议）与库外作者年份撞车
   external_identities.json    条目正文中的库外短引用，可手填 doi、isbn 或篇名
   citation_external.json      库外短引用生成索引；同一作者同一年多篇时分配 a/b/c
-metax/                       Visible Learning MetaX 数据（不进 wiki、不补链）
-  metax.json                  studies（书目与匹配状态）+ influences（总览、明细行、挂载条目）
-  errata.json                 单篇／整合勘误，须有来源
-  audit.json                  metax_sync.py audit 输出的疑似数据错误线索（不是勘误）
-  zh.json                     因素名、领域、子领域、影响判定的中文译名与评级
+datasets/                    外部证据数据集（不进 wiki、不补链）；原始导出放 raw/<数据集>/
+  metax/                      Visible Learning MetaX（同步：scripts/metax_sync.py；原始：raw/MetaX/）
+    metax.json                studies（书目与匹配状态）+ influences（总览、明细行、挂载条目）
+    zh.json                   因素名、领域、子领域、影响判定的中文译名与评级
+    mapping.json              因素到条目的映射（人工审定）
+    errata.json               单篇／整合勘误，须有来源
+    reports/                  审核与诊断输出：MetaX 映射审核.md、audit.json（疑似数据错误线索，不是勘误）
+  eef/                        EEF 教与学工具包与早期教育工具包（同步：scripts/eef_sync.py；原始：raw/EEF/）
+    eef.json                  strands（评级、合并结果、研究列表、挂载条目）
+    errata.json               勘误，须有来源
 wiki/
   index.json                  AI / Claude Code 检索用极简机器索引
   index.md                    Quartz 4 / Obsidian / GitHub 可读静态索引
@@ -280,29 +285,29 @@ Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板�
 
 ### Visible Learning MetaX Module
 
-MetaX 数据只存在 `metax/`，条目中的 MetaX 模块（一组 `[!metax]` callout）由 `scripts/metax_sync.py` 生成，不手写、不手改。
+MetaX 数据只存在 `datasets/metax/`，条目中的 MetaX 模块（一组 `[!metax]` callout）由 `scripts/metax_sync.py` 生成，不手写、不手改。
 
 - 位置：模块不设标题（避免全库出现同名标题），作为实证数据组的第一项，放在第一张实证表格 callout（`[!effect-table]` / `[!ma-table]` / `[!ref-table]`，以表内 marker 识别）正前方；没有实证表格时放在 `[!evidence-grid-a] 相关研究索引` 之前，否则放在正文末尾。不依赖任何章节标题。挂载模块的条目自动加 tag `metax`，卸载时自动移除。
 - 结构：`[!metax]` 总览（标题为“中文名 · 英文名”的 MetaX 原页链接，兼作模块标识；下一行为领域 › 子领域）→ `[!metax-ma]-` 元分析列表（默认折叠）→ 仅在 `errata.json` 有该因素条目时出现 `[!metax-errata]`。
-- 卡片只写 APA 短引用、变量与数字；篇名、期刊、完整作者只存 `metax.json`。眉标与表头中文由 CSS 生成，Markdown 表头只写代号（`rate ma k n m d du rob` / `ref var k n m d e`；`d` 为按研究数加权的平均效应量，即 MetaX 总览值；`du` 为未加权平均，即 MetaX 明细合计行的值）。因素名、领域、子领域与影响判定按 `metax/zh.json` 译为中文；影响判定显示为评级星（★★★★ 显著加速 … ▼ 负向影响），稳健性显示为 ●○ 五点。
+- 卡片只写 APA 短引用、变量与数字；篇名、期刊、完整作者只存 `metax.json`。眉标与表头中文由 CSS 生成，Markdown 表头只写代号（`rate ma k n m d du rob` / `ref var k n m d e`；`d` 为按研究数加权的平均效应量，即 MetaX 总览值；`du` 为未加权平均，即 MetaX 明细合计行的值）。因素名、领域、子领域与影响判定按 `datasets/metax/zh.json` 译为中文；影响判定显示为评级星（★★★★ 显著加速 … ▼ 负向影响），稳健性显示为 ●○ 五点。
 - `[!metax*]` 整块不参与普通补链和 APA 引用补链。块内引用链接只由 `metax_sync.py` 写入：年份、第一作者姓氏与篇名（或 DOI）一致才链接；作者年份相同但篇名不同记为 `collision`，永不链接，并写入 `citation_ambiguous.json` 的 `external`。新入库的元分析 Argument 在下一次 `vault_index.py` 后自动链接到所有收录它的模块。
 - 挂载：`metax_sync.py map <influence_id> <条目路径>`；卸载：`unmap`；候选：`suggest`（因素名与条目 title/alias 完全一致）。一个条目可挂多个因素，按因素名排序叠放。
-- 勘误写入 `metax/errata.json`：`level` 为 `study`（单篇，明细行 e 列标 ①②…）或 `influence`（整合，总览对应数值旁标 ⚑）；字段 `influence`、`study`（S 编号）、`field`、`metax`、`corrected`、`type`、`source`（Argument 文件名）、`pages`、`note`。勘误须有来源；`audit` 的输出只是待核线索。
+- 勘误写入 `datasets/metax/errata.json`：`level` 为 `study`（单篇，明细行 e 列标 ①②…）或 `influence`（整合，总览对应数值旁标 ⚑）；字段 `influence`、`study`（S 编号）、`field`、`metax`、`corrected`、`type`、`source`（Argument 文件名）、`pages`、`note`。勘误须有来源；`audit` 的输出只是待核线索。
 - 自动核算：每次同步按列表重算并比对，只报告真实不一致：研究数、学生数、效应数的单项相加是否等于总览与 MetaX 合计行；按研究数加权的平均效应量（Σkd/Σk，即 MetaX 总览值）与未加权平均效应量（即合计行）是否算对；元分析数是否等于列表项数；研究数、效应数与效应量完全相同的疑似重复行。不一致时在勘误框以 `∑ 自动核算` 列出，重复行在 e 列标 ∑。直接相加、NA 不计入、重叠研究重复计数等对所有因素普遍成立的口径问题，统一在 [[Visible Learning Meta-X]] 条目“因素汇总口径与核算”一节说明，不逐卡报告。自动核算不写入 `errata.json`，数据改正后自动消失。
 - `vault_lint.py` 以 `METAX_STALE` 检查模块与匹配状态是否最新。
 - 关系字段例外：`[!metax*]` 块内的链接（MetaX 模块里的元分析引用、Meta-X 条目中的领域汇总与 440 个因素索引）由 `wiki_relations.py` 跳过，不写入 `related_*`，避免 frontmatter 膨胀。
-- 映射与存根：440 个因素按 `metax/mapping.json`（审核表 `metax/MetaX 映射审核.md`）挂载到已有条目，或由 `metax_sync.py apply-mapping` 新建存根条目。存根只含 frontmatter（`status: draft`、tag `metax`）、H1 与 MetaX 模块，不按完整模板撰写；带 `metax` tag 的新条目免于“须在 Argument 正文中链接”检查，由 [[Visible Learning Meta-X]] 的因素索引承担入口。新建标题避免过短或泛化的词，中文别名不用两字泛词，以减少误链。
+- 映射与存根：440 个因素按 `datasets/metax/mapping.json`（审核表 `datasets/metax/reports/MetaX 映射审核.md`）挂载到已有条目，或由 `metax_sync.py apply-mapping` 新建存根条目。存根只含 frontmatter（`status: draft`、tag `metax`）、H1 与 MetaX 模块，不按完整模板撰写；带 `metax` tag 的新条目免于“须在 Argument 正文中链接”检查，由 [[Visible Learning Meta-X]] 的因素索引承担入口。新建标题避免过短或泛化的词，中文别名不用两字泛词，以减少误链。
 
 ### EEF Teaching and Learning Toolkit Module
 
-EEF 数据存于 `eef/`（`eef.json` 由 `scripts/eef_sync.py import --toolkit tlt|ey` 从浏览器导出整理；`tlt` 为教与学工具包，`ey` 为早期教育工具包，后者的策略键带 `ey:` 前缀，卡片写作 `[!eef|ey]`，两套工具包共用一条 `[!eef-divider]`，同一条目内教与学工具包在前），条目中的 EEF 模块（`[!eef]` 总览、`[!eef-studies]-` 研究列表、`[!eef-errata]` 勘误）由 `eef_sync.py` 生成，不手写。
+EEF 数据存于 `datasets/eef/`（`eef.json` 由 `scripts/eef_sync.py import --toolkit tlt|ey` 从浏览器导出整理；`tlt` 为教与学工具包，`ey` 为早期教育工具包，后者的策略键带 `ey:` 前缀，卡片写作 `[!eef|ey]`，两套工具包共用一条 `[!eef-divider]`，同一条目内教与学工具包在前），条目中的 EEF 模块（`[!eef]` 总览、`[!eef-studies]-` 研究列表、`[!eef-errata]` 勘误）由 `eef_sync.py` 生成，不手写。
 
 - 分割线：条目自有实证表格（原始研究、一阶／二阶元分析、亚组、其他结果）之前有 `[!empirical-divider]`，已写入 concept 模板；新建含实证表格的条目照此保留。MetaX 与 EEF 卡片组排在它之前。
 - 分割线：MetaX 与 EEF 卡片组前各有一条带标签的分割线（`[!metax-divider]` / `[!eef-divider]`，空 callout，线与标签由 CSS 绘制），由脚本随模块增删。
 - 位置：同属实证数据组，紧跟 MetaX 模块之后；无 MetaX 时放在第一张实证表之前，规则与 MetaX 相同。两个脚本只删改各自的 callout，互不覆盖；挂载条目加 tag `eef`。30 个策略的对应条目见 `eef_sync.py` 的 `MAPPING`，无对应条目时建存根。
 - 总览：影响（月）、成本与证据强度（EEF 五级）、页面报告的研究数、合并效应量、95% 置信区间、异质性 I²。研究列表一行一个效应量，同一研究的多个效应以小标签区分；标题同时给出效应量条数与去重后的研究数。
 - 链接：研究按 DOI，或篇名加年份与库内 Argument 一致时才链接。
-- 勘误：自动核算报告页面研究数与参考文献列表不一致、权重不闭合、合并结果疑为占位；来源勘误写入 `eef/errata.json`，`level` 为 `strand`（总览数值旁标 ⚑）或 `study`（列表 e 列标 ①②，`study` 填效应量 id），须附来源。EEF 的合并模型无法用常规随机效应法复现，τ² 与合并值的差异不作为错误报告。
+- 勘误：自动核算报告页面研究数与参考文献列表不一致、权重不闭合、合并结果疑为占位；来源勘误写入 `datasets/eef/errata.json`，`level` 为 `strand`（总览数值旁标 ⚑）或 `study`（列表 e 列标 ①②，`study` 填效应量 id），须附来源。EEF 的合并模型无法用常规随机效应法复现，τ² 与合并值的差异不作为错误报告。
 - `[!eef*]` 块与 `[!metax*]` 块同样不参与补链、不写入 `related_*`，也不做写作审查；`vault_lint.py` 以 `EEF_STALE` 检查是否最新。
 - 外部文献：`eef_sync.py register-external` 把 EEF 与 MetaX 中尚未入库的研究登记到 `citation/external_identities.json`，有 DOI 写 DOI，否则写篇名，并以 `datasets`（如 `eef:feedback`、`metax:S0412`）注明来源；不改动已有行，同一作者同年的不同文献加年份字母，与库内 Argument 同作者同年时也加字母。入库为 Argument 后由 `citation_index.py` 自动移除。
 

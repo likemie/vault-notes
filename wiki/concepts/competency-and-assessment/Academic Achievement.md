@@ -573,3 +573,4 @@ updated: 2026-10-25
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 批判可见学习中将学业成就作为唯一核心[[Dependent Variable|因变量]]的[[Operationalization|操作化]]断裂，揭示表层测验替代高阶理解及[[Independent Variable|自变量]]-因变量循环互证的[[Research Cage|研究牢笼]]机制。（pp. 5–6）
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 在跨国[[Policy Borrowing|政策借用]]与[[Learnification|学习化]]分析中，指出实践者与研究者需保持对国际大坝式测量[[Discourse|话语]]与规训技术的[[Reflexivity|反思性]]警惕。
 > - [[Argument_Grace_2010_NZJES|Grace (2010)]] — 批判将学业成就差异全然归因于校内过程的技术主义还原论，指出抽离家庭[[Cultural Capital|文化资本]]与阶级贫困等非学校社会变量会制造出单凭校内改革即可抹平成就差距的政策错觉，强调学业差距研究必须正视宏观社会结构的制约限度。（p. 91）
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 以德国 PISA 2000 为案例，揭示 PISA 将学业成就与家庭社会经济背景的绑定程度列为核心诊断指标，德国的绑定程度在发达国家中居首位，由此引发 PISA 休克并驱动德国以国家统一标准和全日制学校扩建回应阶层与学业成就的结构性挂钩。

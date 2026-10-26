@@ -697,7 +697,7 @@ def build_indexes(items: list[ArgumentCitation]) -> tuple[dict[str, Any], dict[s
     return full, ambiguous
 
 
-METAX_JSON = ROOT / "metax/metax.json"
+METAX_JSON = ROOT / "datasets/metax/metax.json"
 
 
 def external_collisions(items: list[ArgumentCitation]) -> dict[str, Any]:
