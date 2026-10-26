@@ -5,7 +5,7 @@ subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_key: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
-argument_display_title: "The OECD and Global Shifts in Education Policy"
+argument_display_title: "The OECD and global shifts in education policy"
 argument_kind: "book-chapter"
 argument_related_count: 75
 argument_related_level: 7

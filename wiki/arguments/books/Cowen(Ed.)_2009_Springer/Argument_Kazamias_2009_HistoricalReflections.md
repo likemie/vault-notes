@@ -5,7 +5,7 @@ subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Kazamias_2009_HistoricalReflections"
 argument_key: "Argument_Kazamias_2009_HistoricalReflections"
-argument_display_title: "Comparative Education: Historical Reflections"
+argument_display_title: "Comparative education: Historical reflections"
 argument_kind: "book-chapter"
 argument_related_count: 79
 argument_related_level: 7

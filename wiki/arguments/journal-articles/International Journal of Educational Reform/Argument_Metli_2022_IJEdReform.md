@@ -62,7 +62,7 @@ subtype: journal-article
 publication_type: journal-article
 title: "Argument_Metli_2022_IJEdReform"
 argument_key: "Argument_Metli_2022_IJEdReform"
-argument_display_title: "Concurrency of Learning: Strategies and Challenges of Promoting Coherence in the Core in the International Baccalaureate Diploma Programme (IBDP)"
+argument_display_title: "Concurrency of learning: Strategies and challenges of promoting coherence in the core in the International Baccalaureate Diploma Programme (IBDP)"
 argument_kind: "journal-article"
 argument_related_count: 30
 argument_related_level: 3

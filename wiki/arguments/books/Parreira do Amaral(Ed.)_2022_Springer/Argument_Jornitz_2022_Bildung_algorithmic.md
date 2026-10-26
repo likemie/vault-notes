@@ -8,7 +8,7 @@ subtype: book-chapter
 publication_type: book
 title: "Argument_Jornitz_2022_Bildung_algorithmic"
 argument_key: "Argument_Jornitz_2022_Bildung_algorithmic"
-argument_display_title: "\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies"
+argument_display_title: "\"Bildung\" as a forgotten aspect of algorithmic technologies"
 argument_kind: "book"
 argument_related_count: 17
 argument_related_level: 1

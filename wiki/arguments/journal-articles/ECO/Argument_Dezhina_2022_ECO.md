@@ -52,7 +52,7 @@ subtype: journal-article
 publication_type: journal-article
 title: "Argument_Dezhina_2022_ECO"
 argument_key: "Argument_Dezhina_2022_ECO"
-argument_display_title: "Movement towards Autarky in Russian Science through the Prism of International Cooperation"
+argument_display_title: "Movement towards autarky in Russian science through the prism of international cooperation"
 argument_kind: "journal-article"
 argument_related_count: 20
 argument_related_level: 2

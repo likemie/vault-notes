@@ -5,7 +5,7 @@ subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Mattheou_2009_ScientificParadigm"
 argument_key: "Argument_Mattheou_2009_ScientificParadigm"
-argument_display_title: "The Scientific Paradigm in Comparative Education"
+argument_display_title: "The scientific paradigm in comparative education"
 argument_kind: "book-chapter"
 argument_related_count: 76
 argument_related_level: 7

@@ -2,7 +2,7 @@
 type: argument
 title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
-argument_display_title: "Education as a Political Act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge Curriculum (Master's thesis)"
+argument_display_title: "Education as a political act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge curriculum (Master's thesis)"
 argument_kind: "books"
 argument_related_count: 64
 argument_related_level: 6

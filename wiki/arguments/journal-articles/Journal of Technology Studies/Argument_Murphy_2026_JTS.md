@@ -66,7 +66,7 @@ subtype: journal-article
 publication_type: journal-article
 title: "Argument_Murphy_2026_JTS"
 argument_key: "Argument_Murphy_2026_JTS"
-argument_display_title: "Building Collaboration and Knowledge in Semiconductor Research: A Case Study on CHIPS & Science Act Workshops"
+argument_display_title: "Building collaboration and knowledge in semiconductor research: A case study on CHIPS & Science Act workshops"
 argument_kind: "journal-article"
 argument_related_count: 26
 argument_related_level: 2

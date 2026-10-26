@@ -10,7 +10,7 @@ summary: "以滑铁卢大学的产学合作文化与 Schlegel-UW 老龄化研究
 type: argument
 title: "Argument_Dean_2025_UICollaborationSupport"
 argument_key: "Argument_Dean_2025_UICollaborationSupport"
-argument_display_title: "Gaining Support Within Universities for Collaboration"
+argument_display_title: "Gaining support within universities for collaboration"
 argument_kind: "books"
 argument_related_count: 32
 argument_related_level: 3

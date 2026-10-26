@@ -5,7 +5,7 @@ subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Garcia_Garrido_2009_SpainEU"
 argument_key: "Argument_Garcia_Garrido_2009_SpainEU"
-argument_display_title: "The European Union and Education in Spain"
+argument_display_title: "The European Union and education in Spain"
 argument_kind: "book-chapter"
 argument_related_count: 29
 argument_related_level: 2

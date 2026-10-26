@@ -72,7 +72,7 @@ subtype: book-chapter
 publication_type: book
 title: "Argument_Byrne_2025_InnovationCenters"
 argument_key: "Argument_Byrne_2025_InnovationCenters"
-argument_display_title: "Innovation Centers and Economic Development"
+argument_display_title: "Innovation centers and economic development"
 argument_kind: "book"
 argument_related_count: 43
 argument_related_level: 4

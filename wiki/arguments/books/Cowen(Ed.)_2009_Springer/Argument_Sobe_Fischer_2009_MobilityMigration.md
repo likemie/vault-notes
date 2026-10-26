@@ -5,7 +5,7 @@ subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_key: "Argument_Sobe_Fischer_2009_MobilityMigration"
-argument_display_title: "Mobility, Migration and Minorities in Education"
+argument_display_title: "Mobility, migration and minorities in education"
 argument_kind: "book-chapter"
 argument_related_count: 51
 argument_related_level: 5

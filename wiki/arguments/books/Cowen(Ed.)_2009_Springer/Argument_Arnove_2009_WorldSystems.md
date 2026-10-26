@@ -5,7 +5,7 @@ subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Arnove_2009_WorldSystems"
 argument_key: "Argument_Arnove_2009_WorldSystems"
-argument_display_title: "World-systems Analysis and Comparative Education in the Age of Globalization"
+argument_display_title: "World-systems analysis and comparative education in the age of globalization"
 argument_kind: "book-chapter"
 argument_related_count: 55
 argument_related_level: 5

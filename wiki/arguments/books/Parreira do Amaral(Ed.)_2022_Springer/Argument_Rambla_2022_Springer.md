@@ -7,7 +7,7 @@ subtype: book-chapter
 publication_type: book
 title: "Argument_Rambla_2022_Springer"
 argument_key: "Argument_Rambla_2022_Springer"
-argument_display_title: "Imaginaries of Education and Innovation in the European Union"
+argument_display_title: "Imaginaries of education and innovation in the European Union"
 argument_kind: "book"
 argument_related_count: 48
 argument_related_level: 4

@@ -113,7 +113,7 @@ subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
-argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
+argument_display_title: "Theories of the state, educational expansion, development, and globalizations: Marxian and critical approaches"
 argument_kind: "book-chapter"
 argument_related_count: 76
 argument_related_level: 7

@@ -84,7 +84,7 @@ subtype: journal-article
 publication_type: journal-article
 title: "Argument_Duncan_2025_CI"
 argument_key: "Argument_Duncan_2025_CI"
-argument_display_title: "Evaluating the Quality of Argumentation: The Role of Epistemic Ideals and Reliable Processes"
+argument_display_title: "Evaluating the quality of argumentation: The role of epistemic ideals and reliable processes"
 argument_kind: "journal-article"
 argument_related_count: 49
 argument_related_level: 4

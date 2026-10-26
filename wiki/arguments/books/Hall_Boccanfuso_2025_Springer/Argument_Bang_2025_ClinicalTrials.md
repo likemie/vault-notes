@@ -52,7 +52,7 @@ subtype: book-chapter
 publication_type: book
 title: "Argument_Bang_2025_ClinicalTrials"
 argument_key: "Argument_Bang_2025_ClinicalTrials"
-argument_display_title: "University–Industry Relations in Clinical Trials"
+argument_display_title: "University–industry relations in clinical trials"
 argument_kind: "book"
 argument_related_count: 25
 argument_related_level: 2

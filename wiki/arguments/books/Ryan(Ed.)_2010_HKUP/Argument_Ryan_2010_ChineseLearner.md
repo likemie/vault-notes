@@ -7,7 +7,7 @@ subtype: book-chapter
 publication_type: book
 title: "Argument_Ryan_2010_ChineseLearner"
 argument_key: "Argument_Ryan_2010_ChineseLearner"
-argument_display_title: "The Chinese Learner: Misconceptions and Realities"
+argument_display_title: "The Chinese learner: Misconceptions and realities"
 argument_kind: "book"
 argument_related_count: 29
 argument_related_level: 2

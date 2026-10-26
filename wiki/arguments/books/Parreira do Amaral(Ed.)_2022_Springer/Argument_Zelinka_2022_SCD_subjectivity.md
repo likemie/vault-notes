@@ -44,7 +44,7 @@ subtype: book-chapter
 publication_type: book
 title: "Argument_Zelinka_2022_SCD_subjectivity"
 argument_key: "Argument_Zelinka_2022_SCD_subjectivity"
-argument_display_title: "Subjects and Subjectivities of the (New) Geopolitics of Knowledge"
+argument_display_title: "Subjects and subjectivities of the (new) geopolitics of knowledge"
 argument_kind: "book"
 argument_related_count: 21
 argument_related_level: 2

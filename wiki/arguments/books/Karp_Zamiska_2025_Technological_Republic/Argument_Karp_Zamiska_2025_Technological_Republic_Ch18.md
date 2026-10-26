@@ -9,7 +9,7 @@ subtype: monograph
 publication_type: book-chapter
 title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch18"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch18"
-argument_display_title: "“An Aesthetic Point of View”"
+argument_display_title: "“An aesthetic point of view”"
 argument_kind: "book-chapter"
 argument_related_count: 25
 argument_related_level: 2

@@ -7,7 +7,7 @@ subtype: book-chapter
 publication_type: book
 title: "Argument_Hartmann_2022_CorporateEducation"
 argument_key: "Argument_Hartmann_2022_CorporateEducation"
-argument_display_title: "The Internationalisation of Further Education: Between Geoeconomics and Geopolitics"
+argument_display_title: "The internationalisation of further education: Between geoeconomics and geopolitics"
 argument_kind: "book"
 argument_related_count: 15
 argument_related_level: 1

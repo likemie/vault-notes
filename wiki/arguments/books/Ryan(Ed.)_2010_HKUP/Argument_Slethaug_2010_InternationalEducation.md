@@ -7,7 +7,7 @@ subtype: book-chapter
 publication_type: book
 title: "Argument_Slethaug_2010_InternationalEducation"
 argument_key: "Argument_Slethaug_2010_InternationalEducation"
-argument_display_title: "Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner"
+argument_display_title: "Something happened while nobody was looking: The growth of international education and the Chinese learner"
 argument_kind: "book"
 argument_related_count: 15
 argument_related_level: 1

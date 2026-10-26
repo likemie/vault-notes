@@ -5,7 +5,7 @@ subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Rust_2009_Reflections"
 argument_key: "Argument_Rust_2009_Reflections"
-argument_display_title: "Reflections on the Development of Comparative Education"
+argument_display_title: "Reflections on the development of comparative education"
 argument_kind: "book-chapter"
 argument_related_count: 119
 argument_related_level: 11

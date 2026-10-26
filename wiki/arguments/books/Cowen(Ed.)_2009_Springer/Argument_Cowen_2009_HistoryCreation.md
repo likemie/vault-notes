@@ -5,7 +5,7 @@ subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Cowen_2009_HistoryCreation"
 argument_key: "Argument_Cowen_2009_HistoryCreation"
-argument_display_title: "On History and on The Creation of Comparative Education"
+argument_display_title: "On history and on the creation of comparative education"
 argument_kind: "book-chapter"
 argument_related_count: 32
 argument_related_level: 3

@@ -53,7 +53,7 @@ subtype: book-chapter
 publication_type: book
 title: "Argument_Erfurth_2022_education-hubs"
 argument_key: "Argument_Erfurth_2022_education-hubs"
-argument_display_title: "Education Hubs as a Development Approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates"
+argument_display_title: "Education hubs as a development approach. A Phenomenon with Geopolitical Implications in Singapore and the United Arab Emirates"
 argument_kind: "book"
 argument_related_count: 23
 argument_related_level: 2

@@ -5,7 +5,7 @@ subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Castro_2009_MultilateralBanks"
 argument_key: "Argument_Castro_2009_MultilateralBanks"
-argument_display_title: "Can Multilateral Banks Educate the World?"
+argument_display_title: "Can multilateral banks educate the world?"
 argument_kind: "book-chapter"
 argument_related_count: 38
 argument_related_level: 3

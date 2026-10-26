@@ -7,7 +7,7 @@ subtype: book-chapter
 publication_type: book
 title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
-argument_display_title: "Which Vision of Education for Late Modernity? In M"
+argument_display_title: "Which vision of education for late modernity? In M"
 argument_kind: "book"
 argument_related_count: 54
 argument_related_level: 5

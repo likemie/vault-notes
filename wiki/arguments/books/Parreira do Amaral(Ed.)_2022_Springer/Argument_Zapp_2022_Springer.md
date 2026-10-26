@@ -7,7 +7,7 @@ subtype: book-chapter
 publication_type: book
 title: "Argument_Zapp_2022_Springer"
 argument_key: "Argument_Zapp_2022_Springer"
-argument_display_title: "Universities, Sustainable Development and the 'Knowledge Turn' in Global Governance – Causes, Mechanisms and Risks"
+argument_display_title: "Universities, sustainable development and the 'knowledge turn' in global governance – Causes, mechanisms and risks"
 argument_kind: "book"
 argument_related_count: 45
 argument_related_level: 4

@@ -88,7 +88,7 @@ subtype: journal-article
 publication_type: journal-article
 title: "Argument_Wu_2025_ER"
 argument_key: "Argument_Wu_2025_ER"
-argument_display_title: "Strengthening Human Epistemic Agency in the Symbiotic Learning Partnership With Generative Artificial Intelligence"
+argument_display_title: "Strengthening human epistemic agency in the symbiotic learning partnership with generative artificial intelligence"
 argument_kind: "journal-article"
 argument_related_count: 52
 argument_related_level: 5

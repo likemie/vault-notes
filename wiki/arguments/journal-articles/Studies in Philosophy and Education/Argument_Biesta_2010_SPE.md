@@ -7,7 +7,7 @@ subtype: journal-article
 publication_type: journal-article
 title: "Argument_Biesta_2010_SPE"
 argument_key: "Argument_Biesta_2010_SPE"
-argument_display_title: "Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education"
+argument_display_title: "Why 'what works' still won't work: From evidence-based education to value-based education"
 argument_kind: "journal-article"
 argument_related_count: 19
 argument_related_level: 1

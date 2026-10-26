@@ -27,7 +27,7 @@ subtype: journal-article
 publication_type: journal-article
 title: "Argument_Zhao_2025_JIntell"
 argument_key: "Argument_Zhao_2025_JIntell"
-argument_display_title: "Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments"
+argument_display_title: "Does generative artificial intelligence improve students' higher-order thinking? A meta-analysis based on 29 experiments and quasi-experiments"
 argument_kind: "journal-article"
 argument_related_count: 61
 argument_related_level: 6

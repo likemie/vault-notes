@@ -9,7 +9,7 @@ subtype: monograph
 publication_type: book-chapter
 title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch17"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch17"
-argument_display_title: "“The Next Thousand Years”"
+argument_display_title: "“The next thousand years”"
 argument_kind: "book-chapter"
 argument_related_count: 40
 argument_related_level: 4

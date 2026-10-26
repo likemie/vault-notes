@@ -59,7 +59,7 @@ subtype: book-chapter
 publication_type: book
 title: "Argument_Narayan_Spohrer_2025_Metrics"
 argument_key: "Argument_Narayan_Spohrer_2025_Metrics"
-argument_display_title: "Metrics, Incentives, Rewards, and Culture for Impact"
+argument_display_title: "Metrics, incentives, rewards, and culture for impact"
 argument_kind: "book"
 argument_related_count: 35
 argument_related_level: 3

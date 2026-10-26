@@ -55,7 +55,7 @@ subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grace_2010_NZJES"
 argument_key: "Argument_Grace_2010_NZJES"
-argument_display_title: "Reflection on the University and the Academic as 'Critic and Conscience of Society'"
+argument_display_title: "Reflection on the university and the academic as 'critic and conscience of society'"
 argument_kind: "journal-article"
 argument_related_count: 20
 argument_related_level: 2

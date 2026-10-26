@@ -7,7 +7,7 @@ subtype: book-chapter
 publication_type: book
 title: "Argument_Ulrichsen_2025_UIR_Evolution"
 argument_key: "Argument_Ulrichsen_2025_UIR_Evolution"
-argument_display_title: "Evolution of University-Industry Relationships for Driving Innovation"
+argument_display_title: "Evolution of university-industry relationships for driving innovation"
 argument_kind: "book"
 argument_related_count: 44
 argument_related_level: 4

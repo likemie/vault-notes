@@ -5,7 +5,7 @@ subtype: edited-volume-overview
 publication_type: edited-volume
 title: "Argument_Cowen(Ed.)_2009_Springer"
 argument_key: "Argument_Cowen(Ed.)_2009_Springer"
-argument_display_title: "International Handbook of Comparative Education"
+argument_display_title: "International handbook of comparative education"
 argument_kind: "edited-volume"
 argument_related_count: 118
 argument_related_level: 11

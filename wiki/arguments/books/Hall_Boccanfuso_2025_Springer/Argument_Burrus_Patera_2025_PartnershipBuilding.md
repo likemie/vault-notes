@@ -46,7 +46,7 @@ subtype: book-chapter
 publication_type: book
 title: "Argument_Burrus_Patera_2025_PartnershipBuilding"
 argument_key: "Argument_Burrus_Patera_2025_PartnershipBuilding"
-argument_display_title: "Connecting, Exploring, Uncovering, and Building Partnerships"
+argument_display_title: "Connecting, exploring, uncovering, and building partnerships"
 argument_kind: "book"
 argument_related_count: 19
 argument_related_level: 1

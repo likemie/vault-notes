@@ -5,7 +5,7 @@ subtype: journal-article
 publication_type: journal-article
 title: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_key: "Argument_Edovald_Nevill_2021_ECNUROE"
-argument_display_title: "Working Out What Works: The Case of the Education Endowment Foundation in England"
+argument_display_title: "Working out what works: The case of the Education Endowment Foundation in England"
 argument_kind: "journal-article"
 argument_related_count: 137
 argument_related_level: 13
