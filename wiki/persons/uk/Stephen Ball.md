@@ -7,7 +7,7 @@ summary: "英国教育社会学家，伦敦大学学院教育学院政策社会�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 57
+person_related_count: 52
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -40,42 +40,37 @@ related_concepts:
   - "[[Champ]]"
   - "[[Evidence-Based Education]]"
   - "[[Value Neutrality]]"
-  - "[[Policy Science in Comparative Education]]"
-  - "[[Professional Judgment]]"
   - "[[Ontology]]"
   - "[[Attrition]]"
-  - "[[Educational Privatisation]]"
-  - "[[Educational Management Organisation]]"
-  - "[[Cultural Capital]]"
   - "[[Categorical Funding]]"
+  - "[[Professional Judgment]]"
   - "[[Global Educational Discourse]]"
-  - "[[Knowledge Production]]"
-  - "[[Political Arithmetic]]"
-  - "[[New Sociology of Education]]"
-  - "[[School Effectiveness]]"
+  - "[[Geopolitics of Higher Education]]"
   - "[[Visible Learning]]"
+  - "[[Educational Privatisation]]"
   - "[[Geopolitics]]"
-  - "[[Critical Pedagogy]]"
-  - "[[Disciplina and Doctrina]]"
+  - "[[Policy Borrowing]]"
   - "[[Technical Rationality]]"
+  - "[[Policy Science in Comparative Education]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Societies of Control]]"
   - "[[Conditioned State Theory]]"
+  - "[[Governing at a Distance]]"
   - "[[Post-structuralism]]"
+  - "[[Institutional Isomorphism]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
   - "[[External Auditor]]"
   - "[[Critical Policy Analysis]]"
 related_persons:
   - "[[Basil Bernstein]]"
-  - "[[Jason Beech]]"
-  - "[[Carlos Alberto Torres]]"
   - "[[Liliana Esther Olmos]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[World Bank]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
@@ -83,9 +78,9 @@ related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Ball_2008_SR]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
-  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 confidence: high
 status: active
 created: '2026-05-05'
@@ -133,7 +128,7 @@ updated: 2026-10-27
 >
 > *“Performativity is a technology, a culture and a mode of regulation that employs judgements and comparisons and displays of ‘output’ as means of control, [[Attrition]] and change. The performances (of individual subjects or of organizations) serve as measures of productivity or output, or displays of ‘quality’... It involves the colonisation of the teacher’s soul – a profound ontological reshaping of what it means to be a teacher.”*
 
-> [!citation-card] 鲍尔论学术研究向合同委托研究异化与知识降维
+> [!citation-card] 鲍尔论学术研究向合同[[Categorical Funding|委托研究]]异化与知识降维
 > 斯蒂芬·鲍尔尖锐批评英国国家教育研究论坛（NERF）等官方机构推行的委托科研机制。他指出，在高校面临创收压力的背景下，学术研究正被迫服从于短期、功利性合同委托研究的逻辑，破坏了大学基础探究的自主性，导致学术机构面临严重的智力降维与知识平庸化。[[Argument_Beech_2009_GlobalGarden|(Ball, 2001, cited in Beech, 2009b, pp. 355–356)]]
 >
 > *“With the pressures that academics have to generate income for their institutions and/or for themselves through contract research, the logic of Basic Research and of academic space might be changing... Dumbing down the academy.”*
@@ -141,21 +136,21 @@ updated: 2026-10-27
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 将福柯的[[Governmentality|治理术]]与[[Basil Bernstein|伯恩斯坦]]的符号控制社会学引入政策分析，开辟批判性教育政策社会学研究传统；提出[[Performativity|表演性]]规训范式以及[[Endogenous Privatisation|内生私有化]]与[[Exogenous Privatisation|外生私有化]]双轨框架，成为当代解构新自由主义教育改革的基础词汇。
+> - **理论路径** 将福柯的[[Governmentality|治理术]]与[[Basil Bernstein|伯恩斯坦]]的符号[[Societies of Control|控制社会]]学引入政策分析，开辟批判性教育政策社会学研究传统；提出[[Performativity|表演性]]规训范式以及[[Endogenous Privatisation|内生私有化]]与[[Exogenous Privatisation|外生私有化]]双轨框架，成为当代解构新自由主义教育改革的基础词汇。
 > - **方法路径** 倡导政策文本（Text）与政策执行（Enactment）的批判张力分析；确立政策驱动力（Drivers）、推进工具（Instruments）与政治价值取向（Values）的三维分析视角；推广[[Policy Network|政策网络]]拓扑学与社会网络地图绘制方法，为解构跨国教育商业化与[[Policy Entrepreneur|政策企业家]]提供分析工具。
-> - **政策路径** 深度影响全球教师专业组织（如教育国际）抵制新自由主义私有化改革；揭示大众媒介如何放大统计量化以制造教育危机并加剧教育决策的部长化与政治化（Ball, 2012; [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等, 2021, p. 404]]）；为反思[[Evidence-Based Education|循证教育]]中以数字治理替代专业判断提供理论支撑。
-> - **跨国／跨领域传播** 其内生与外生私有化分析范式被广泛引申至欧美、大洋洲（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]] 对新西兰公私网络的实证）及拉美受限国家（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）；政策简约性诱惑与执行张力启发了全球教育话语流通模型（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）；驱动力—工具—价值三维框架被应用于跨国高等教育地缘政治分析（[[Argument_Woo_2023_HEP|Woo, 2023]]）。
+> - **政策路径** 深度影响全球教师专业组织（如教育国际）抵制新自由主义私有化改革；揭示大众媒介如何放大统计量化以制造教育危机并加剧教育决策的部长化与政治化（Ball, 2012; [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等, 2021, p. 404]]）；为反思[[Evidence-Based Education|循证教育]]中以数字治理替代[[Professional Judgment|专业判断]]提供理论支撑。
+> - **跨国／跨领域传播** 其内生与外生私有化分析范式被广泛引申至欧美、大洋洲（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]] 对新西兰公私网络的实证）及拉美[[Conditioned State Theory|受限国家]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）；政策简约性诱惑与执行张力启发了[[Global Educational Discourse|全球教育话语]]流通模型（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）；驱动力—工具—价值三维框架被应用于跨国[[Geopolitics of Higher Education|高等教育地缘政治]]分析（[[Argument_Woo_2023_HEP|Woo, 2023]]）。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用鲍尔关于表演性（Performativity）的规训理论，深入解构 Visible Learning 及其商业认证体系如何将教师异化为流水线操作工与数据生产工具（pp. 28–30）。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用鲍尔关于表演性（Performativity）的规训理论，深入解构 [[Visible Learning]] 及其商业认证体系如何将教师异化为流水线操作工与数据生产工具（pp. 28–30）。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 运用鲍尔关于内生/外生私有化及跨国政策创业理论，实证剖析新西兰公立学校政策网络的商业化与治理重构。
 > - [[Argument_Ball_2008_SR|Ball (2008)]] — 阐述教育社会学史与治理目光的变迁，解构绩效技术对现代学校的主导机制。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 引用鲍尔对新自由主义审计社会的剖析，批判循证教育运动如何用数字治理代替教育的民主目的与教师的专业判断。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 援引鲍尔关于教育市场化作为阶级策略的经典论断，批判外围资本主义受限国家如何在新自由主义与世界银行规训下推行教育私有化与分权甩包袱。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 援引鲍尔关于教育市场化作为阶级策略的经典论断，批判外围资本主义受限国家如何在新自由主义与[[World Bank|世界银行]]规训下推行[[Educational Privatisation|教育私有化]]与分权甩包袱。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 援引鲍尔政策执行与研究合同化批判，揭示全球教育话语的过度简化诱惑，以及定向委托研究对高校学术生产逻辑的侵蚀。
-> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 借鉴鲍尔政策社会学的驱动力—推进工具—价值分析视角，解构跨国高等教育政策文本背后的地缘政治诉求、治理手段与意识形态取向（pp. 684–687）。
-> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 27–28)]] — 结合鲍尔（1998）与罗斯的研究，揭示 PISA 等跨国测评如何将适应不确定经济竞争的风险前置并转嫁给个体，驱动学习者成为自我调节与自我增值的新自由主义行动主体。
-> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 借助鲍尔的数字治理与政策借用理论，分析数目化管理如何赋能远距治理，并指出商业化媒体如何将统计量化降解为排位竞技以加剧教育决策的部长化与政治化（pp. 404, 423）。
+> - [[Argument_Woo_2023_HEP|Woo (2023)]] — 借鉴鲍尔政策社会学的驱动力—推进工具—价值分析视角，解构跨国高等教育政策文本背后的[[Geopolitics|地缘政治]]诉求、治理手段与意识形态取向（pp. 684–687）。
+> - [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 27–28)]] — 结合鲍尔（1998）与罗斯的研究，揭示 [[PISA]] 等跨国测评如何将适应不确定经济竞争的风险前置并转嫁给个体，驱动学习者成为自我调节与自我增值的新自由主义行动主体。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 借助鲍尔的数字治理与[[Policy Borrowing|政策借用]]理论，分析数目化管理如何赋能[[Governing at a Distance|远距治理]]，并指出商业化媒体如何将统计量化降解为排位竞技以加剧教育决策的部长化与政治化（pp. 404, 423）。
 
 ---
 
@@ -164,7 +159,7 @@ updated: 2026-10-27
 >
 > *“Performativity involves the colonisation of the teacher’s soul – a profound ontological reshaping of what it means to be a teacher... It demands the constant production of evidence of quality that displaces professional judgment.”*
 
-> [!citation-card] 奥尔莫斯与托雷斯论鲍尔教育市场化作为新自由主义阶级策略
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论鲍尔教育市场化作为新自由主义阶级策略
 > 鲍尔深刻指出，在教育政策中以市场逻辑替代国家的公共供给与保障职能，实质上是新自由主义国家的一项阶级策略。国家通过推崇学校竞争、凭证制与自负盈亏，将公共投资撤退与办学失败的责任转嫁给底层工薪家庭；而拥有丰富资本的优势阶层则能够精准利用择校权利锁定优质教育资源，从而在市场外衣下完成阶级统治特权的代际再生产。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
 >
 > *“Market policies in education are not simply neutral choices for efficiency; as Ball (1993) argues, the education market is a class strategy designed to maintain and reproduce middle-class advantage in times of economic austerity.”*
@@ -174,23 +169,23 @@ updated: 2026-10-27
 > [!person-network] 关系网络
 > - **学术同道与合作** Deborah Youdell — 共同开展公共教育隐性私有化研究，系统提出内生与外生私有化双轨分析模型。
 > - **学生／继承者** 埃迪·吴（Eddie Woo）— 将其政策社会学驱动力—推进工具—价值框架应用于跨国高教地缘政策分析；Gerry R. Johnson & Melanie D. Janzen — 继承表演性范式解构数据监控。
-> - **批评者／论敌** [[John Hattie]] — 批评其推动的《可见的学习》及商业认证体系，视其为利用元分析数据排行推动绩效化与商业化治理的跨国政策创业典型。
+> - **批评者／论敌** [[John Hattie]] — 批评其推动的《可见的学习》及商业认证体系，视其为利用[[Meta-analysis|元分析]]数据排行推动绩效化与商业化治理的跨国政策创业典型。
 > - **机构／运动／项目** 伦敦大学学院教育学院（IOE）、伦敦大学国王学院 — 批判性教育政策社会学研究的学术大本营。
 
 ---
 
 > [!debates] 学术争议
 >
-> > [!axis] 后结构主义微观治理与宏观阶级结构分析的张力
+> > [!axis] [[Post-structuralism|后结构主义]]微观治理与宏观阶级结构分析的张力
 > > 围绕政策分析的理论根基，传统马克思主义社会学者与后结构主义政策学者围绕鲍尔的研究进路形成了持续探讨。
 > >
 > > - **传统马克思主义学者** 批评鲍尔过度聚焦于弥散性治理网络与微观话语技术，在一定程度上弱化了对资本主义国家机器、宏观阶级结构硬性制约与资本积累内在矛盾的总体性把握。
-> > - **鲍尔及其支持者** 主张现代治理已从单一科层官僚转向去中心化的拓扑网络，唯有深入微观话语生成与主体性重塑，才能穿透技术理性的合法性迷雾。
+> > - **鲍尔及其支持者** 主张现代治理已从单一科层官僚转向去中心化的拓扑网络，唯有深入微观话语生成与主体性重塑，才能穿透[[Technical Rationality|技术理性]]的合法性迷雾。
 >
 > > [!axis] 政策文本的普遍流动与本土再脉络化的决定权
 > > 围绕全球政策趋同与本土抵制，学界就标准化政策模板的实际塑造力存在分歧。
 > >
-> > - **制度同构论学者** 强调跨国组织政策话语的全球霸权与强制趋同效应。
+> > - **[[Institutional Isomorphism|制度同构]]论学者** 强调跨国组织政策话语的全球霸权与强制趋同效应。
 > > - **鲍尔（2000）** 强调政策文本（Text）与政策执行（Enactment）之间不可消除的张力，坚持微观实践者始终在具体制度情境中对政策进行能动的抵抗与协商。
 
 > [!critique] 批评索引
@@ -206,11 +201,11 @@ updated: 2026-10-27
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Performativity]] | 概念 | 开创性提出；揭示基于数据产出与外部审计的绩效技术对教师专业灵魂的规训重塑。 |
+> | [[Performativity]] | 概念 | 开创性提出；揭示基于数据产出与[[External Auditor\|外部审计]]的绩效技术对教师专业灵魂的规训重塑。 |
 > | [[Educational Privatisation]] | 概念 | 奠基框架；区分学校内部企业化运作（内生私有化）与将教学公共服务外包（外生私有化）。 |
 > | [[Policy Network]] | 概念 | 拓扑学发展；分析跨国商业与慈善资本如何通过非正式政策网络参与公共治理。 |
 > | [[Policy Entrepreneur]] | 概念 | 跨国拓展；指认在全球范围内游说并推销私有化与绩效化方案的商业与智库代理人。 |
 > | [[Governing by Numbers]] | 概念 | 批判分析；揭示数目化指标如何将复杂学校重构为可审计客体并赋能远距治理。 |
-> | [[Critical Policy Analysis]] | 方法 | 范式开创；提出政策驱动力—推进工具—价值三维视角，超越技术理性政策科学。 |
+> | [[Critical Policy Analysis]] | 方法 | 范式开创；提出政策驱动力—推进工具—价值三维视角，超越技术理性[[Policy Science in Comparative Education\|政策科学]]。 |
 > | [[School Choice]] | 概念 | 阶级策略剖析；揭示市场择校实质是优势中产阶层锁定优质教育资源的特权机制。 |
 > | [[Conditioned State Theory]] | 理论 | 理论引申；其私有化阶级策略被拉美学者运用于剖析受限国家的新自由主义转型。 |

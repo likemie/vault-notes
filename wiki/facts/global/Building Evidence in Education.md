@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -46,6 +46,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Cost-Benefit Analysis]]"
   - "[[Interpretive Policy Analysis]]"
+  - "[[Experimental Research]]"
   - "[[Qualitative Research]]"
 related_instruments: []
 related_persons: []
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 
 ---
@@ -111,7 +112,7 @@ updated: 2026-10-26
 
 > [!indicators] 影响力维度与指标
 > - **资金调配枢纽功能** BE2 成员机构掌控着全球超过 60% 的官方双边与多边基础教育发展援助资金，其标准直接决定了巨额资金的投放去向。
-> - **[[Paradigm\|研究范式]]重塑** 迫使全球发展中国家及从事[[International Education\|国际教育]]研究的高校学者全面转向实验设计与微观经济计量学，极大边缘化了传统比较教育学的历史与[[Qualitative Research\|质性研究]]范式。
+> - **[[Paradigm\|研究范式]]重塑** 迫使全球发展中国家及从事[[International Education\|国际教育]]研究的高校学者全面转向[[Experimental Research|实验设计]]与微观经济计量学，极大边缘化了传统比较教育学的历史与[[Qualitative Research\|质性研究]]范式。
 > - **政策转移强制力** 经由 BE2 审核通过的“最佳实践”被无缝嵌入[[World Bank\|世界银行]]与受援国签署的贷款发展政策目标中，具备强烈的准法律约束力。
 
 > [!finding-cards] 关键成效与辐射影响

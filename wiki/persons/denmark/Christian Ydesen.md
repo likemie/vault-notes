@@ -7,7 +7,7 @@ summary: "丹麦奥尔堡大学教育社会学与全球治理教授、牛津大�
 type: person
 nationality: "denmark"
 person_region: "denmark"
-person_related_count: 40
+person_related_count: 41
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 
 ---

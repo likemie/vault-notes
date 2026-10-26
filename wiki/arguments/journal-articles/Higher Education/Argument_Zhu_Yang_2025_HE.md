@@ -7,7 +7,7 @@ title: "Argument_Zhu_Yang_2025_HE"
 argument_key: "Argument_Zhu_Yang_2025_HE"
 argument_display_title: "Deciphering China’s higher education outreach paradigm in Southeast Asia: can a neo-tributary perspective work? Higher Education, 89(4), 1041–1060"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -74,7 +74,7 @@ related_facts:
   - "[[Institute of South-South Cooperation and Development]]"
 status: draft
 created: 2026-10-20
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 ---
 

@@ -10,7 +10,7 @@ summary: "葡萄牙著名比较教育学家与历史学家，里斯本大学前�
 type: person
 nationality: portugal
 person_region: "portugal"
-person_related_count: 34
+person_related_count: 33
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -34,13 +34,13 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Open Method of Coordination]]"
   - "[[Subsidiarity Principle]]"
+  - "[[Champ]]"
   - "[[Enlightenment]]"
-  - "[[Rich and Thick Description]]"
-  - "[[Data Infrastructure]]"
-  - "[[Absorptive Capacity]]"
-  - "[[Disciplina and Doctrina]]"
-  - "[[Performance Indicators]]"
   - "[[Governing by Numbers]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Performance Indicators]]"
+  - "[[Absorptive Capacity]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Pluri-Scalar Governance]]"
@@ -55,7 +55,6 @@ related_facts:
   - "[[UNESCO]]"
   - "[[EU]]"
   - "[[Comparative Education Society in Europe]]"
-  - "[[Comparative and International Education Society]]"
   - "[[Education in Europe]]"
   - "[[Bologna Process]]"
   - "[[PISA]]"
@@ -65,8 +64,8 @@ related_facts:
 related_arguments:
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
-  - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
+  - "[[Argument_Grek_2009_JEdPolicy]]"
 confidence: high
 status: active
 created: 2026-10-10
@@ -104,7 +103,7 @@ updated: 2026-10-27
 > - **2002a — *Fabricating Europe: The Formation of an Educational Space*（与 Martin Lawn 合著）** 系统解构[[EU|欧盟]]超国家机构如何通过指标比较、[[Open Method of Coordination|开放协调法]]（OMC）与[[Discourse|话语]]构建，虚构与“制作”出一个超越主权国家的[[European Education Space|欧洲教育空间]]。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
 > - **2002b — *Ways of thinking about [[Education in Europe]]*（收录于与 Martin Lawn 合编的 *Fabricating Europe*）** 深入分析[[EU|欧盟]]在《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]限制下，如何通过最佳实践交流、量化基准指标与[[Bologna Process|博洛尼亚进程]]三大软性治理机制，穿透主权国家边界建构欧洲教育空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 > - **2002c — *Ways of Saying, Ways of Seeing: Public Images of Teachers (19th-20th Centuries)*** 从文化史与视觉表征角度解析教师职业身份与公众形象的百年演变。
-> - **2003 — *Media and the Education Field*（与 Tamar Yariv-Mashal 合著）** 揭示教育数据与指标的大规模生产如何迎合大众媒体与公众舆论，指出持续收集数据反映舆论实质上催生了制造永久自我辩护的应急治理体系。[[Argument_Xie_Li_Huang_2021_GEO|(Nóvoa & Yariv-Mashal, 2003, cited in Xie et al., 2021, p. 248)]]
+> - **2003 — *Media and the Education [[Champ|Field]]*（与 Tamar Yariv-Mashal 合著）** 揭示教育数据与指标的大规模生产如何迎合大众媒体与公众舆论，指出持续收集数据反映舆论实质上催生了制造永久自我辩护的应急治理体系。[[Argument_Xie_Li_Huang_2021_GEO|(Nóvoa & Yariv-Mashal, 2003, cited in Xie et al., 2021, p. 248)]]
 > - **2019 — *The Future of Education: A Collective and Public Responsibility*** 呼吁将教育确立为不可剥夺的人类共同利益，批判新自由主义市场化对公共教育的侵蚀。
 
 ---
@@ -132,7 +131,7 @@ updated: 2026-10-27
 > [!influence-path] 影响路径
 > - **理论路径** 与马丁·劳恩（Martin Lawn）等学者共同奠定了欧洲超国家治理的批判研究传统，深刻启发了后续学者对[[European Education Space|欧洲教育空间]]、[[Bologna Process|博洛尼亚进程]]、[[PISA]] 数据治理与[[Student Mobility|学生流动]]意识形态的批判解构。
 > - **比较教育学科路径** 作为 CESE 前主席，倡导超越机械的国家间制度借用，主张将历史[[Rich and Thick Description|深描]]与批判社会学引入比较教育，推动了学科的空间转向与自我反思。
-> - **政策路径** 深刻揭示了超国家机构绕开法律主权推行软性规训的三轨机制，以及运用[[Governing by Numbers|数目化治理]]分析教育指标如何催生永久自我辩护的应急治理机制（Nóvoa & Yariv-Mashal, 2003; [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等, 2021, p. 248]]）。
+> - **政策路径** 深刻揭示了超国家机构绕开法律主权推行软性规训的三轨机制，以及运用[[Governing by Numbers|数目化治理]]分析[[Performance Indicators|教育指标]]如何催生永久自我辩护的应急治理机制（Nóvoa & Yariv-Mashal, 2003; [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等, 2021, p. 248]]）。
 > - **全球实践路径** 在[[UNESCO|联合国教科文组织]]平台主导全球未来教育愿景的构建，持续倡导教育公共属性、社会正义与教师专业共同体赋权。
 
 > [!evidence-grid-a] 相关研究索引
@@ -152,8 +151,8 @@ updated: 2026-10-27
 
 > [!person-network] 关系网络
 > - **学术同道与合作** Martin Lawn — 合著合编 *Fabricating Europe*，确立欧洲空间批判范式；塔马尔·雅里夫-马沙尔（Tamar Yariv-Mashal）— 合作剖析媒体化与数目化应急治理体系；让·皮亚杰（[[Jean Piaget]]）— 早期日内瓦学术渊源。
-> - **学生／继承者** 诺亚·索比（Noah W. Sobe）与罗兰·菲舍尔（Roland Fischer）— 引用其空间与话语分析解构学生跨国流动修辞；杰森·比奇（[[Jason Beech]]）— 深入引申欧盟三轨软治理分析模型。
-> - **批评者／论敌** 部分比较制度学者 — 强调各成员国宪制结构与深层福利体制的制度黏性与过滤吸收能力，质疑超国家话语软治理存在被夸大之嫌。
+> - **学生／继承者** 诺亚·索比（Noah W. Sobe）与罗兰·菲舍尔（Roland Fischer）— 引用其空间与[[Discourse Analysis|话语分析]]解构学生跨国流动修辞；[[Jason Beech|杰森·比奇]]（[[Jason Beech]]）— 深入引申欧盟三轨软治理分析模型。
+> - **批评者／论敌** 部分比较制度学者 — 强调各成员国宪制结构与深层福利体制的制度黏性与过滤[[Absorptive Capacity|吸收能力]]，质疑超国家话语软治理存在被夸大之嫌。
 > - **机构／运动／项目** 里斯本大学、日内瓦大学、[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）、[[UNESCO|联合国教科文组织]]。
 
 ---
@@ -170,7 +169,7 @@ updated: 2026-10-27
 > - 比较制度学者批评空间制作理论过于侧重欧洲层面的文本话语与修辞分析，对成员国地方学校层面的微观落地阻抗与制度过滤关注相对不足。
 
 > [!warning] 未解问题与边界
-> 在当前欧洲民粹主义抬头、主权回潮以及数字治理技术日新月异的背景下，超国家软治理网络如何在辅助性原则法律约束与日益碎片化的地缘政治现实之间保持平衡，依然是欧洲比较教育的未尽课题。
+> 在当前欧洲民粹主义抬头、主权回潮以及数字治理技术日新月异的背景下，超国家软治理网络如何在辅助性原则法律约束与日益碎片化的[[Geopolitics|地缘政治]]现实之间保持平衡，依然是欧洲比较教育的未尽课题。
 
 ---
 

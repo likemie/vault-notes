@@ -6,10 +6,10 @@ summary: "德国不来梅大学国际关系与全球社会政策教授，德国�
 type: person
 nationality: "germany"
 person_region: "germany"
-person_related_count: 28
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 32
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: 1974
 died: ""
 lifespan: "1974–至今"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Cognitive Authority]]"
   - "[[Peer Pressure]]"
+  - "[[Educational Multilateralism]]"
   - "[[Façade of Rationality]]"
   - "[[Scaffolding]]"
   - "[[Epistemology]]"
@@ -37,6 +38,9 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
   - "[[Demonstration Effect]]"
+  - "[[Boundary Spanner]]"
+  - "[[Comparative Turn in Education Policy]]"
+  - "[[Objectivism]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Dialogue in Education]]"
 related_theories: []
@@ -58,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 
 ---
@@ -94,7 +98,7 @@ updated: 2026-10-26
 > - **2010–2018 — 经合组织的软治理与“硬[[Soft Power by Hard Facts|事实软实力]]”框架** 创立“以硬事实施展[[Soft Power|软权力]]”理论体系，系统解构经合组织如何凭借 [[PISA]] 与比较指标改变成员国内部改革议程。
 >   - **代表著作** *Mechanisms of OECD Governance* (Oxford, 2010); *Soft Power by Hard Facts* (CER, 2013); *Soft Governance by Hard Fact?* (Global Social Policy, 2018)。
 >   - **关键概念／方法** [[Soft Power by Hard Facts]]、[[Cognitive Authority]]、[[Peer Pressure]]、[[PISA]]。
->   - **阶段转向** 主持全球国际组织全域实证普查，在战争关联（COW）数据库 495 个国际组织中识别出 20 个深度涉足教育治理的核心机构（仅占 4.0%），实证确立经合组织在多边教育治理中的领跑地位。
+>   - **阶段转向** 主持全球国际组织全域实证普查，在战争关联（COW）数据库 495 个国际组织中识别出 20 个深度涉足教育治理的核心机构（仅占 4.0%），实证确立经合组织在[[Educational Multilateralism|多边教育治理]]中的领跑地位。
 > - **2019年至今 — 全球社会政策动态与[[Education-for-Mandates\|使命性教育嵌入]]** 构建 IO-ED 数据库，揭示大量经济、安全与政治组织如何将教育作为服务其核心使命的工具性载体跨界介入。
 >   - **代表著作** *Education in IO Mandates* (2024); *[[Governing by Numbers\|governance by numbers]] 2.0* (Comparative Education, 2024)。
 >   - **关键概念／方法** [[Education-for-Mandates]]、[[Policy Brokerage]]、[[Façade of Rationality]]。
@@ -119,10 +123,10 @@ updated: 2026-10-26
 > - **跨国／跨领域传播** 成果跨越比较政治学、社会政策学、公共行政学与教育学，在全欧乃至全球社会科学界产生跨学科[[Demonstration Effect|示范效应]]。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 主导提出核心理论构想，系统论证经合组织如何依托数据硬事实构筑认知权威、充当知识经纪人并引导成员国教育改革。
+> - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 主导提出核心理论构想，系统论证经合组织如何依托数据硬事实构筑认知权威、充当[[Boundary Spanner|知识经纪人]]并引导成员国教育改革。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] — 作为第二作者，主导多边组织拓扑矩阵分析与“[[Soft Power by Hard Facts\|以硬事实施展软权力]]”、“[[Education-for-Mandates\|使命性教育嵌入]]”核心概念的学理建构。
 > - [[Argument_Rambla_2022_Springer\|Rambla (2022)]] — 在政策工具维度深化了 Martens 关于国际指标对本土政策重组机制的讨论。
-> - [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 24–25)]] — 援引马滕斯关于经合组织“比较转向”的论断，揭示跨国指标与比较方法如何从纯学术工具演化为赋予政治决策科学客观主义品牌的软治理技术。
+> - [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 24–25)]] — 援引马滕斯关于经合组织“[[Comparative Turn in Education Policy|比较转向]]”的论断，揭示跨国指标与比较方法如何从纯学术工具演化为赋予政治决策科学[[Objectivism|客观主义]]品牌的软治理技术。
 
 ---
 

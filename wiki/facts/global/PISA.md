@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 145
+fact_related_count: 141
 fact_related_level: 14
 fact_related_stars: "💎💎💎💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -25,68 +25,63 @@ tags:
   - critique/pisa
   - theme/stem-education
 related_concepts:
-  - "[[Construct]]"
-  - "[[Policy Brokerage]]"
+  - "[[Commensuration]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Peer Pressure]]"
-  - "[[Cognitive Authority]]"
-  - "[[Boundary Spanner]]"
-  - "[[Inquisitive Mode of Governance]]"
-  - "[[Meditative Mode of Governance]]"
-  - "[[State Educational Sovereignty]]"
-  - "[[Soft Power by Hard Facts]]"
+  - "[[Epistemic Community]]"
+  - "[[Externalization]]"
+  - "[[Reference Society]]"
+  - "[[Evidence-Based Education]]"
   - "[[PISA Reading Literacy]]"
+  - "[[PISA Mathematical Literacy]]"
+  - "[[PISA Scientific Literacy]]"
   - "[[Discourse]]"
   - "[[PISA Literacy]]"
-  - "[[PISA Mathematical Literacy]]"
-  - "[[Scientific Literacy]]"
-  - "[[PISA Scientific Literacy]]"
   - "[[Problem Solving]]"
   - "[[Creativity]]"
+  - "[[Construct]]"
   - "[[Paradigm]]"
-  - "[[Reference Society]]"
-  - "[[Epistemic Community]]"
   - "[[Learning Strategies]]"
+  - "[[Governing by Numbers]]"
   - "[[Multilateral Surveillance]]"
   - "[[Steering at a Distance]]"
   - "[[Network Governance]]"
   - "[[Rashomon Effect]]"
   - "[[School Autonomy]]"
+  - "[[Instructional Leadership]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Academic Anxiety]]"
   - "[[Sense of School Belonging]]"
   - "[[Science Capital]]"
-  - "[[Evidence-Based Education]]"
   - "[[Normal School]]"
   - "[[Critical Thinking]]"
+  - "[[Scientific Literacy]]"
   - "[[Nature of Science]]"
   - "[[Socioscientific Issues]]"
   - "[[Policy Entrepreneur]]"
   - "[[Policy Borrowing]]"
-  - "[[Externalization]]"
   - "[[Heterogeneity]]"
   - "[[Structured Teaching]]"
   - "[[Active Learning]]"
   - "[[Zone of Desired Effects]]"
-  - "[[Governing by Numbers]]"
-  - "[[Epistemology]]"
-  - "[[Critique of PISA]]"
   - "[[Space of Equivalence]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
-  - "[[Commensuration]]"
   - "[[Ontology]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Technical Rationality]]"
+  - "[[Knowledge Mediation]]"
   - "[[Academic Achievement]]"
   - "[[Competitiveness]]"
   - "[[Positional Good]]"
   - "[[School Choice]]"
   - "[[Socioeconomic Status]]"
   - "[[Social Imaginary]]"
+  - "[[Epistemology]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Causality]]"
+  - "[[Critique of PISA]]"
   - "[[PISA Global Competence]]"
-  - "[[Global Citizenship]]"
   - "[[PISA Creative Thinking]]"
   - "[[Creativity Assessment]]"
   - "[[Center of Calculation]]"
@@ -98,14 +93,15 @@ related_concepts:
   - "[[PISA Score Negative Correlation]]"
   - "[[PISA Glorifying Authoritarian Education]]"
 related_methods:
+  - "[[Questionnaire]]"
+  - "[[Random Sampling]]"
+  - "[[Matrix Sampling]]"
+  - "[[Back Translation]]"
+  - "[[Differential Item Functioning]]"
+  - "[[Item Response Theory]]"
+  - "[[Plausible Values]]"
   - "[[Cost-Benefit Analysis]]"
   - "[[Sampling Frame]]"
-  - "[[Back Translation]]"
-  - "[[Questionnaire]]"
-  - "[[Item Response Theory]]"
-  - "[[Matrix Sampling]]"
-  - "[[Plausible Values]]"
-  - "[[Differential Item Functioning]]"
 related_persons:
   - "[[Andreas Schleicher]]"
   - "[[Fazal Rizvi]]"
@@ -115,16 +111,17 @@ related_facts:
   - "[[OECD]]"
   - "[[PISA Governing Board]]"
   - "[[EU]]"
-  - "[[IEA]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[PISA for Schools]]"
   - "[[PISA for Development]]"
   - "[[Baby PISA]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
+  - "[[IEA]]"
   - "[[Australian Council for Educational Research]]"
   - "[[Educational Testing Service]]"
   - "[[HarmoS]]"
   - "[[National Assessment of Education Quality China 2007]]"
+  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Common Core State Standards]]"
   - "[[National Governors Association]]"
   - "[[Council of Chief State School Officers]]"
@@ -150,27 +147,26 @@ related_facts:
   - "[[Chilean Educational Reform of 1981]]"
   - "[[SNTE]]"
   - "[[2014 Open Letter on PISA]]"
-  - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Institute for Educational Quality Improvement]]"
+  - "[[Academy Programme in England]]"
 related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
   - "[[Argument_Zhao_2020_JEC]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Niemann_Martens_2018_GSP]]"
-  - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
+  - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_DeJong_2023_ERR]]"
-  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 related_theories:
   - "[[Human Capital Theory]]"
-  - "[[Creative Problem Solving]]"
   - "[[Governing at a Distance]]"
   - "[[Panopticism]]"
   - "[[Three-Level Mechanism Model of PISA's Impact on Education Policy]]"
@@ -200,10 +196,10 @@ updated: 2026-10-27
 > PISA 假定通过脱离特定国家课程大纲、立足真实生活情境的素养测评，结合跨国共同量表与联赛排名机制，能够为各国政策制定者提供衡量[[Human Capital Theory|人力资本]]成效的客观镜鉴，进而通过国际对标与[[Peer Pressure|同行压力]]驱动各国推进以产出为导向的教育治理改革。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–448)]]。其深层因果动力学由三重机制交互塑造：超国家层面的数目化软治理与全球[[Epistemic Community|认知共同体]]权威、民族国家层面的[[Externalization|策略性外在化]]借用与[[Reference Society|模范社会]]对标，以及国内行动者网络对量化知识的政治转译与利益博弈。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 67–72)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271, 277–279)]]
 
 > [!policy-design] 方案设计
-> - **项目目标** 测度 15 岁学生在完成义务教育阶段时面向未来成人社会生活与劳动力市场应用阅读、数学与科学知识的关键素养；通过去背景化、通约化与政策导向三大技术机制构建跨国等价空间，为全球人力资本监控与循证教育决策提供共同指标语言。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 58–60)]]
+> - **项目目标** 测度 15 岁学生在完成义务教育阶段时面向未来成人社会生活与劳动力市场应用阅读、数学与科学知识的关键素养；通过去背景化、通约化与政策导向三大技术机制构建跨国等价空间，为全球人力资本监控与[[Evidence-Based Education|循证教育]]决策提供共同指标语言。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 58–60)]]
 > - **覆盖对象** 全球 90 多个参测国家与经济体中即将完成义务教育的 15 岁在校学生代表性样本；后续产品线延伸至单校诊断（[[PISA for Schools]]）、中低收入发展中国家（[[PISA for Development|PISA-D]]）、5 岁幼儿早期学习（[[Baby PISA]]）及 16–65 岁成人劳动力技能（[[Programme for the International Assessment of Adult Competencies|PIAAC]]）。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 26)]]; [[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
-> - **干预措施** 实施三年一轮的标准化跨国统测与轮换主测体系（阅读、数学、科学循环主测，详见 [[PISA Reading Literacy]]、[[PISA Mathematical Literacy]] 与 [[PISA Scientific Literacy]]，转译话语另见 [[PISA Literacy]]）；配套研发复杂问题解决、财经素养、协作问题解决、[[PISA Global Competence|全球胜任力]]与[[PISA Creative Thinking|创造性思维]]等前沿交叉模块；发布全球学力排位、国别专题报告、政策简讯与微观问卷数据库。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
-> - **实施控制** 采用分层两阶段概率抽样设计，利用[[Matrix Sampling|矩阵抽样]]平衡全域构念覆盖与答题负担；通过严密的多语种[[Back Translation|双向回译]]与[[Differential Item Functioning|题目功能差异]]检验清洗跨语言和跨文化偏倚；依托[[Item Response Theory|项目反应理论]]（IRT）与[[Plausible Values|似真值]]多重插补消除个体测量误差，确立跨国尺度的统计等值性。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 58–59)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271)]]
+> - **干预措施** 实施三年一轮的标准化跨国统测与轮换主测体系（阅读、数学、科学循环主测，详见 [[PISA Reading Literacy]]、[[PISA Mathematical Literacy]] 与 [[PISA Scientific Literacy]]，转译[[Discourse|话语]]另见 [[PISA Literacy]]）；配套研发[[Problem Solving|复杂问题解决]]、财经素养、协作问题解决、全球胜任力与[[Creativity|创造性思维]]等前沿交叉模块；发布全球学力排位、国别专题报告、政策简讯与微观[[Questionnaire|问卷]]数据库。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
+> - **实施控制** 采用分层两阶段[[Random Sampling|概率抽样]]设计，利用[[Matrix Sampling|矩阵抽样]]平衡全域[[Construct|构念]]覆盖与答题负担；通过严密的多语种双向[[Back Translation|回译]]与[[Differential Item Functioning|题目功能差异]]检验清洗跨语言和跨文化偏倚；依托[[Item Response Theory|项目反应理论]]（IRT）与[[Plausible Values|似真值]]多重插补消除个体测量误差，确立跨国尺度的统计等值性。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 58–59)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–271)]]
 
 > [!citation-card] 核心方案条文／立项纲要
 > 年轻人是否准备好迎接未来的挑战？他们能否有效分析、推理与沟通？他们是否具备终生学习的能力？[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
@@ -213,7 +209,7 @@ updated: 2026-10-27
 ---
 
 > [!dev-timeline] 项目推进历程
-> - **1995–2000 — 方案论证与公民素养范式奠基** 1995 年 [[OECD]] 构想超越 [[IEA]] 传统课程测验的评估方案，确立面向未来现实生活的应用导向素养范式；2000 年首轮测评（32 个经济体），阅读为主测领域。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
+> - **1995–2000 — 方案论证与公民素养[[Paradigm|范式]]奠基** 1995 年 [[OECD]] 构想超越 [[IEA]] 传统课程测验的评估方案，确立面向未来现实生活的应用导向素养范式；2000 年首轮测评（32 个经济体），阅读为主测领域。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
 > - **2001–2009 — PISA 冲击、三大领域轮换与全球扩散** PISA 2000 结果发布触发德国著名的“PISA 冲击”，芬兰成为全球[[Reference Society|参考社会]]；2003 年数学为主测，2006 年科学为主测，正式确立阅读、数学、科学三年轮换主测的经典机制。
 > - **2009–2018 — 东亚体系崛起、计算机化测评与产品线扩张** PISA 2009 上海（中国）拔得头筹，引发欧美“新卫星冲击”讨论；2012 年数学为主测并首度引入财经素养；2015 年科学为主测，全面转向计算机化测评（[[Cost-Benefit Analysis|CBA]]）并引入模拟实验探究；2018 年阅读为主测并新增全球胜任力模块，参测系统增至 79 个。
 > - **2018–至今 — 后疫情时代治理深化与不确定性应对** 参测范围覆盖 90+ 经济体；2022 年（延期一年）数学为主测并新增[[Creativity|创造性思维]]评估；2025 年最新轮次聚焦不确定世界中的探究决策、数字信息生态与算法不确定性审视。
@@ -227,15 +223,15 @@ updated: 2026-10-27
 > - **受试与受益对象** 各国抽样选取的 15 岁在校学生代表性样本；同时由学校校长与任课教师完成学校背景[[Questionnaire|问卷]]，由学生完成家庭背景与[[Learning Strategies|学习策略]]问卷。
 
 > [!pathways] 实施路径与管理
-> - **纵向传导与远程治理** PISA 通过量化排名、平均分与差距叙事实现超国家层面的数目化治理，形成国家间[[Peer Pressure|同行压力]]与[[Multilateral Surveillance|多边监督]]，达成无须直接行政指令的“远处掌舵”（[[Steering at a Distance]]）。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 8–9)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
-> - **横向跨部门与多层网络协同** PISA 在维持民族国家名义教育主权的同时，催生跨国与次国家主体共同参与的多层网络治理；主权国家官僚机构主动采纳 PISA 指标以重塑国内行政改革合法性，借助国际危机动员推行绩效问责改革。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 448)]]
+> - **纵向传导与[[Governing at a Distance|远程治理]]** PISA 通过量化排名、平均分与差距叙事实现超国家层面的[[Governing by Numbers|数目化治理]]，形成国家间[[Peer Pressure|同行压力]]与[[Multilateral Surveillance|多边监督]]，达成无须直接行政指令的“远处掌舵”（[[Steering at a Distance]]）。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 8–9)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> - **横向跨部门与多层网络协同** PISA 在维持民族国家名义教育主权的同时，催生跨国与次国家主体共同参与的多层[[Network Governance|网络治理]]；主权国家官僚机构主动采纳 PISA 指标以重塑国内行政改革合法性，借助国际危机动员推行绩效问责改革。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 448)]]
 > - **动态反馈与政策转译博弈** 成果发布体系由技术报告、国别简报与精要简讯构成；庞大的指标网络赋予评估数据极高的话语可塑性，参测国围绕“政策指引（形成性诊断）”与“政策背书（政治辩护）”展开多元转译，同一组数据常被不同立场的政治精英各取所需（[[Rashomon Effect|罗生门效应]]）。[[Argument_Grey_2018_CE|(Grey & Morris, 2018)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 63–66)]]
 
 ---
 
 > [!indicators] 评估指标体系
 > - **投入与资源指标** 学生家庭社会经济文化地位指数（ESCS）、学校生均公用经费、实验教学设施与软硬件技术平台配置到位率。
-> - **过程与背景依从性指标** [[School Autonomy|学校自主权]]、校内教学领导力、教师教学法倾向（如[[Inquiry-Based Learning|探究式教学]]与直接指导比例）及课堂纪律环境。
+> - **过程与背景依从性指标** [[School Autonomy|学校自主权]]、校内[[Instructional Leadership|教学领导力]]、教师教学法倾向（如[[Inquiry-Based Learning|探究式教学]]与直接指导比例）及课堂纪律环境。
 > - **产出、素养与福祉指标** 依托[[Item Response Theory|项目反应理论]]（IRT）建立的跨国均值（500 分）与标准差（100 分）量表（分设 6 个能力等级，直观呈现拔尖率与不达标率）；兼顾学生[[Academic Anxiety|学业焦虑]]度、[[Sense of School Belonging|学校归属感]]、[[Science Capital|科学资本]]与生活满意度。
 
 > [!finding-cards] 核心实证结论
@@ -243,7 +239,7 @@ updated: 2026-10-27
 >   - **宏观决策层面** 接受新自由主义教育价值与[[Human Capital Theory|人力资本]]导向，增加公共教育支出；采纳素养[[Construct|构念]]并重置[[Reference Society|参考社会]]（如韩国转向芬兰）；全面推行[[Evidence-Based Education|循证教育]]决策机制。
 >   - **中观决策层面** 改革[[Normal School|师范教育]]与职后进修；对标 PISA 建立国家级质量监测系统（瑞士 [[HarmoS]]、中国 [[National Assessment of Education Quality China 2007|NAEQ]]、加拿大 CEIP）；推行学校自评与数据驱动改进循环。
 >   - **微观决策层面** 课程内容向情境化与[[Critical Thinking|批判性思维]]重构（德国 NES 课程标准深度引入[[Scientific Literacy|科学素养]]）；优化基础学制并下放教学自主权。
-> - **政策效应的二维四象限谱系（谢爱磊等, 2021 批判政策分析）** 参测国对 PISA 的政策利用呈现为由政策指引（诊断性改进）与政策背书（政治合法化辩护）构成的二维空间：在第一象限（双高），数据既深度指引课程与教学改革，又被政治精英用于大规模政策辩护（如德国 KMK 改革）；在第二象限（高背书低指引），政府仅将排位作为削减开支或推行私有化市场问责的政治弹药（如英国保守党借标准下滑虚构危机）；在第三象限（双低），仅作象征性仪式参与，与教学实质脱节；在第四象限（高指引低背书），聚焦诊断反馈与教研改进，弱化高利害政治炒作（如芬兰）。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 63–66)]]
+> - **政策效应的二维四象限谱系（谢爱磊等, 2021 批判政策分析）** 参测国对 PISA 的政策利用呈现为由政策指引（诊断性改进）与政策背书（政治合法化辩护）构成的二维空间：在第一象限（双高），数据既深度指引课程与教学改革，又被政治精英用于大规模政策辩护（如德国 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 改革）；在第二象限（高背书低指引），政府仅将排位作为削减开支或推行私有化市场问责的政治弹药（如英国保守党借标准下滑虚构危机）；在第三象限（双低），仅作象征性仪式参与，与教学实质脱节；在第四象限（高指引低背书），聚焦诊断反馈与教研改进，弱化高利害政治炒作（如芬兰）。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 63–66)]]
 > - **课程哲学与学科改革重塑** 推动英、德、日、法等数十个国家修订国家科学课程大纲，增加[[Nature of Science|科学本质]]、[[Socioscientific Issues|社会科学议题]]（[[Socioscientific Issues|SSI]]）与证据评估内容。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 > - **动员国内危机叙事与驱动国家课程对标（美国 [[Common Core State Standards|CCSS]] 运动）** 跨国评估数据常被国内[[Policy Entrepreneur|政策企业家]]作为打破地方分权阻力与构建国家标准的政治资源。例如在美国，政策企业家（国家州长协会 [[National Governors Association|NGA]]、[[Council of Chief State School Officers|州首席教育官理事会]] CCSSO）将 PISA 和 [[TIMSS]] 展现的跨国差距转化为核心实证指标，论证美国学生在应对全球[[Knowledge-Based Economy|知识经济]]竞争中存在素养赤字，以此为制定自愿性统一国家标准（[[Common Core State Standards|CCSS]]）确立合法性。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
 > - **标准化测验与产出问责跨国扩散追踪（Teltemann & Klieme, 2016 纵向研究）** 跨国评估对各国内部治理的制度性渗透，直接体现为标准化产出问责机制的全球扩散。Teltemann 与 Klieme (2016) 对经合组织国家标准化测评政策扩散的经验追踪表明，自 PISA 实施以来，采纳集中式标准化评估与基于产出控制的国家数量显著上升；跨国评估成为驱动各国国内全面转向基于标准的问责制（standards-based accountability）的关键规制载体。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 277)]]
@@ -294,7 +290,7 @@ updated: 2026-10-27
 > > 为实现跨国横向可比，PISA 刻意脱离各国的具体课程大纲与文化情境，通过[[Commensuration|通约化]]强行制造出一个跨国“[[Space of Equivalence|等值空间]]”（space of equivalence）。[[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，在这一统计技术操作中，跨国比较的[[Reliability|信度]]（reliability）被置于本土[[Construct Validity|构念效度]]（validity）与[[Ontology|本体论]]多样性之上；大量深植于本土语言与历史文化语境的[[Higher-Order Thinking Skills|高阶思维]]题目因无法在跨国样本中保持统计一致性而被系统剔除，使评估在追求统计信度的同时消解了实质构念效度。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 >
 > > [!axis] 新自由主义治理蓝图与特洛伊木马规训
-> > 批判教育政策社会学指出，经合组织通过 PISA 将建立在市场逻辑、绩效问责与技术理性之上的新自由主义教育治理蓝图包装输出，实质上充当了潜入各国公共教育体系的“特洛伊木马”，诱使主权国家按照经合组织的测量资本与知识经纪秩序重组国内教育权力格局，促成全球教育政策的隐性规制与去民主化。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 55, 60–62, 72–74)]]
+> > 批判教育政策社会学指出，经合组织通过 PISA 将建立在市场逻辑、绩效问责与[[Technical Rationality|技术理性]]之上的新自由主义教育治理蓝图包装输出，实质上充当了潜入各国公共教育体系的“特洛伊木马”，诱使主权国家按照经合组织的测量资本与[[Knowledge Mediation|知识经纪]]秩序重组国内教育权力格局，促成全球教育政策的隐性规制与去民主化。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 55, 60–62, 72–74)]]
 >
 > > [!axis] 全视凝视与自动化测量体制的生存性剥夺
 > > 斯廷·内珀·拉森（[[Steen Nepper Larsen]]）批判指出，PISA 与 [[OECD]] 倡导的全面胜任力测评体系，实质上构成了神学式“全视凝视”（omnes videns）在世俗化治理与技术时代的变体；自动化、泛在化的大规模测试如同[[Panopticism|全景敞视]]机制，将学生的内在思维、认知倾向与[[Academic Achievement|学业表现]]置于无所遁形的量化透视之下。这种测量体制消解了教育过程中的生存性开放度与偶然性空间，将复杂的精神生长降解为服务于经济[[Competitiveness|竞争力]]的可计算[[Human Capital Theory|人力资本]]。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 7)]]
@@ -305,7 +301,7 @@ updated: 2026-10-27
 > > [!axis] 形式入学机会对实质教育正义的窄化
 > > 尽管 PISA 背景[[Questionnaire|问卷]]揭示了学生[[Socioeconomic Status|社会经济地位]]（SES）与[[Academic Achievement|学业成就]]之间的显著相关性，大卫·伯利纳（David Berliner, 2007）以及里兹维与林加德指出，PISA 将教育公平狭隘地界定为形式上的入学机会（formal access），回避了更深层的教育正义与结构性不平等问题，使公平议题沦为支撑[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与[[Human Capital Theory|人力资本]]最大化的附属指标。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–449)]]
 >
-> > [!axis] 学科认识论矮化与教学因果误读
+> > [!axis] 学科[[Epistemology|认识论]]矮化与教学因果误读
 > > 比较教育学者指出量化排名脱离历史文化语境，瓦解了战后比较教育倡导的超然[[Navigation Metaphor in Comparative Education|航海隐喻]]（[[Argument_Mitter_2009_Europe|Mitter, 2009, pp. 95–99]]）；同时，背景问卷的方法学缺陷引发了所谓“[[Inquiry-Based Learning|探究式教学]]与成绩负相关”的假象，误导了课堂教学[[Causality|因果推断]]（[[Argument_DeJong_2023_ERR|De Jong et al., 2023]]）。系统理论批判详见 [[Critique of PISA]]，国际学者联合公开抵制行动详见 [[2014 Open Letter on PISA]]。
 
 > [!lessons] 经验教训与启示
@@ -323,13 +319,13 @@ updated: 2026-10-27
 > | [[PISA Mathematical Literacy]] | Concept | 数学素养测评构念、现实生活数学化建模循环与数理推理架构。 |
 > | [[PISA Literacy]] | Concept | 政策话语维度的“新学力”构念转译与阅读素养国家政策本土化。 |
 > | [[PISA Global Competence]] | Concept | 全球胜任力测评框架、审视全球议题与跨文化得体互动素养。 |
-> | [[PISA Creative Thinking]] | Concept | 创造性思维测评构念、发散原创构想产生与日常创造力评估。 |
+> | [[PISA Creative Thinking]] | Concept | [[Creativity Assessment\|创造性思维测评]]构念、发散原创构想产生与日常创造力评估。 |
 > | [[Finnish PISA Miracle]] | Fact (Event) | 芬兰凭借综合基础学校与高度教师专业信任确立全球参考社会。 |
-> | [[PISA Shock in Germany]] | Fact (Event) | 德国危机动员、KMK 七大行动领域、IQB 计算中心与产出治理转型。 |
+> | [[PISA Shock in Germany]] | Fact (Event) | 德国危机动员、KMK 七大行动领域、[[Institute for Educational Quality Improvement\|IQB]] [[Center of Calculation\|计算中心]]与产出治理转型。 |
 > | [[PISA Shock in Japan]] | Fact (Event) | 日本告别宽松教育、确立扎实学力、恢复全国学力统测与指导要领修订。 |
 > | [[PISA Shock in the United States]] | Fact (Event) | 上海登顶触发“新卫星时刻”政策恐慌、推动各州采纳共同核心标准与力争上游改革。 |
 > | [[PISA Response in Spain]] | Fact (Event) | 西班牙中等综合学制平庸、17 个自治区激进分权推诿。 |
-> | [[PISA Response in England]] | Fact (Event) | 英国保守党政治精英与媒体共谋动员标准下滑模板、强推学院化改革。 |
+> | [[PISA Response in England]] | Fact (Event) | 英国保守党政治精英与媒体共谋动员[[Falling Standards Template\|标准下滑模板]]、强推[[Academy Programme in England\|学院化改革]]。 |
 > | [[SIMCE]] | Fact (Program) | 智利国家大规模标准化统测，与 PISA 核心能力基准全面对标。 |
 > | [[OECD]] | Fact (Organization) | PISA 的发起与常设运营主体，通过跨国评估实施全球教育软法治理。 |
 > | [[PISA Governing Board]] | Fact (Organization) | 直属经合组织教育委员会的最高政策治理与战略中枢。 |
