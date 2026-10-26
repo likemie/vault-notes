@@ -88,16 +88,17 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-10-20
+updated: 2026-10-27
 ---
 
 > [!def] Ethnography
 > 民族志（Ethnography）是一种源自人类学与社会学的[[Qualitative Research|质性研究]]设计。研究者在自然情境中长时间观察一个完整的文化群体（cultural group），系统考察其共享的行为模式、语言体系、价值信念与日常行动（Wolcott, 1994; Fetterman, 2010）。玛格丽特·勒孔特与朱迪思·普赖斯尔（Margaret D. LeCompte & Judith Preissle, 1993, p. 235）进一步将民族志界定为兼具**探究方法、探究结果与探究记录**的过程，旨在尽可能生动地重构所研究群体的文化全貌与生活世界（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, pp. 405–406]]）。
 
-> [!method-scope] 适用范围与产出形态
-> - **适用问题** 深入探究特定群体如何建构共享意义；揭示教育政策或外来干预在微观课堂落地中的“[[Recontextualization|再情境化]]”过程；捕捉制度背后的隐性权力关系与行动者的微观能动性（Monkman & Baird, 2002; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 108–110]]）。
-> - **核心产出** 饱含主位视角的[[Rich and Thick Description|厚描述]]（Thick Description）、文化共享模型、社会互动网络图谱、微观博弈故事与[[Grounded Theory|扎根理论]][[Construct|构念]]。
+> [!method-scope] 方法范围
+> - **研究对象** 自然情境中的完整文化群体、学校组织、班级社群与职业实践共同体的日常行为模式、语言体系、象征仪式与生活实践。
+> - **问题类型** 适合回答特定群体如何建构共享意义、外来政策在微观课堂落地中的“[[Recontextualization|再情境化]]”机制、制度背后的隐性权力运作与行动者微观能动性等描述与解释问题。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
 > - **[[Unit of Analysis|分析单位]]** 文化共享群体、社区、学校、特定班级或职业[[Communities of Practice|实践共同体]]。
+> - **输出形式** 饱含主位视角的[[Rich and Thick Description|厚描述]]（Thick Description）、文化共享模型、社会互动网络图谱、微观博弈案例与扎根理论概念。
 
 > [!citation-card] LeCompte & Preissle 论民族志的过程与重构本性
 > 民族志是一个涉及探究方法、探究结果和探究产生的记录的过程。其核心意图在于尽可能生动地重构所研究的文化或群体。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 405)]]
@@ -105,19 +106,19 @@ updated: 2026-10-20
 > *Ethnographic research is a process involving methods of enquiry, an outcome and a resultant record of the enquiry. The intention of the research is to create as vivid a reconstruction as possible of the culture or groups being studied. (LeCompte & Preissle, 1993, p. 235)*
 
 > [!contrast-table] 自然主义/民族志 vs 常规质性方法
-> | 比较维度 | 自然主义 / 民族志方法 | 常规质性方法（如访谈/[[Focus Group\|焦点小组]]） |
+> | 比较维度 | 自然主义 / 民族志方法 | 常规质性方法（如访谈/[[Focus Group|焦点小组]]） |
 > |:---------|:---------------------|:------------------------------|
 > | **驻留时间** | 必须在自然情境中长期驻留（Long-term Residence）与深度沉浸。 | 可以是短期、横截面或单次接触（如单次访谈）。 |
-> | **核心关切** | 关注文化群体的整体共享模式、[[Tacit Knowledge\|默会知识]]与历史脉络。 | 关注特定[[Research Question\|研究问题]]的数据性质与参与者的离散表述。 |
-> | **生态真实度** | 极高；以非侵入式或参与式观察记录最自然的日常互动。 | 较低；访谈互动受制于人造提问情境与[[Interviewer Effects\|访谈者效应]]。 |
+> | **核心关切** | 关注文化群体的整体共享模式、[[Tacit Knowledge|默会知识]]与历史脉络。 | 关注特定[[Research Question|研究问题]]的数据性质与参与者的离散表述。 |
+> | **生态真实度** | 极高；以非侵入式或参与式观察记录最自然的日常互动。 | 较低；访谈互动受制于人造提问情境与[[Interviewer Effects|访谈者效应]]。 |
 
 ---
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
-> - **知识观** 知识具有情境性、建构性与互为主体性。实在并非等待测量的刚性客观物，而是行动者在生活世界中通过日常互动共同赋予意义的产物；研究者必须通过共在与理解获取知识，而非通过距离与机械测量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, pp. 403–404]]）。
+> - **知识观** 知识具有情境性、建构性与互为主体性。实在表现为行动者在生活世界中通过日常互动共同赋予意义的产物；研究者通过共在与理解获取知识，超越距离与机械测量的局限。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 403–404)]]
 > - **研究者角色** “人即研究工具”（Human as Instrument）——研究者同时承担参与者与观察者的双重身份。研究者需有效管理自身的“边际性”（Marginality）：在组织之中却不属于组织，在智识上保持熟悉与陌生的平衡，在社交上维持局外人与朋友的张力（Hammersley & Atkinson, 1983; Flick, 1998）。
-> - **有效性逻辑** 依赖长期现场驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角互证]]、成员检查与[[Reflexivity|反身性]]审计。研究结论的有效性不诉诸统计概括力，而表现为情境可比较性（Comparability）与可翻译性（Translatability）（LeCompte & Preissle, 1993）。
-> - **边界与禁区** 不能用于估计[[Variable|变量]]间的因果[[Effect Size|效应量]]；不能统计外推至全人口总体；不能单凭外在行为观察武断推测参与者不可见的内在神经心理状态。
+> - **有效性标准** 依赖长期现场驻留、[[Rich and Thick Description|厚描述]]、[[Triangulation|三角互证]]、成员检查与[[Reflexivity|反身性]]审计。研究结论的有效性不诉诸统计概括力，而表现为情境可比较性（Comparability）与可翻译性（Translatability）（LeCompte & Preissle, 1993）。
+> - **不声称回答的问题** 不能用于估计[[Variable|变量]]间的因果[[Effect Size|效应量]]；不能统计外推至全人口总体；不能单凭外在行为观察武断推测参与者不可见的内在神经心理状态。
 
 > [!method-stack] 方法层级
 > - **研究设计** 经典民族志、[[Critical Ethnography|批判民族志]]、[[Autoethnography|自我民族志]]、微观民族志、多地点比较民族志。
@@ -125,34 +126,12 @@ updated: 2026-10-20
 > - **分析方法** [[Open Coding|开放编码]]、[[Domain Analysis|领域分析]]、分类归纳、[[Progressive Focussing|逐步聚焦]]、[[Narrative Analysis|叙事分析]]、[[Analytic Induction|分析归纳法]]。
 > - **辅助技术** [[Theoretical Sampling|理论抽样]]、[[Purposeful Sampling|目的性抽样]]、[[Snowball Sampling|滚雪球抽样]]、[[Gatekeepers|守门人]]关系管理。
 
-> [!feature] 民族志的八项核心要素（LeCompte & Preissle, 1993）
-> | 要素 | 学理内涵与实践要求 |
-> |:-----|:-------------------|
-> | **[[Phenomenology\|现象学]]数据** | 探究并忠实再现参与者的世界观及其对情境的自我定义（Thomas, 1923; p. 3）。 |
-> | **诠释学过程** | 研究是意义互构的诠释历程，揭示由研究者与参与者共同生成的象征系统（pp. 31–32）。 |
-> | **主位[[Construct\|构念]]建构** | 分析框架由参与者的本土构念（[[Emic and Etic\|Emic]]）而非研究者的预设理论范畴所主导。 |
-> | **自然情境收集** | 数据采集严格置于真实自然生活场景中，绝不进行实验室人为控制。 |
-> | **广泛观察技术** | 结合长期的参与观察与非参与观察，全面记录言语与非言语行动。 |
-> | **整体主义追求** | 寻求对社群历史、环境与行动的整体描绘，反对碎片化的变量割裂。 |
-> | **理论推进机制** | 从描述性数据系统推进到推断、机制解释与中层理论生成。 |
-> | **方法论杂食者** | 综合调动访谈、文档、影像、地图与实物分析，不拘泥于单一技术（p. 232）。 |
-
-> [!feature] 民族志的六项产出面向与七个观察维度
+> [!feature]- 民族志的核心要素与观察维度
+> - **八项核心要素（LeCompte & Preissle, 1993）** 探究参与者世界观的[[Phenomenology|现象学]]数据、意义互构的诠释历程、主位本土构念（[[Emic and Etic|Emic]]）、真实自然生活情境、广泛观察技术、整体主义追求、理论推进机制与方法论杂食。
 > - **六项产出面向（Hitchcock & Hughes, 1989）** 描述性文化知识、情境化活动叙事、成员身份界定标准、社会互动规则模式、第一人称内部人记述、可迁移的理论解释模型。
 > - **七个关键观察维度（Lofland, 1971; Baker, 1994）** 空间环境、人与关系网络、外显活动与仪式实践、言语[[Discourse|话语]]行为、主观态度与情感立场、生活史与集体记忆、[[Artefact|物质文化]]与工具人工物。
 
-> [!feature] 有效民族志的11条操作性标准（Spindler & Spindler, 1992）
-> 1. 观察在即时情境与宏观语境中均具相关性；
-> 2. 假设在田野中动态[[Emergence|涌现]]；
-> 3. 事件经过长期且重复观察以确保可靠；
-> 4. 推断始终服务于主位视角；
-> 5. 以阐明社会文化[[Tacit Knowledge|隐性知识]]为核心任务；
-> 6. 工具与编码现场生成；
-> 7. 蕴含跨文化比较视角；
-> 8. 将[[Doxa|不言自明]]的默会实践显性化；
-> 9. 提问绝不预设封闭答案；
-> 10. 灵活调动所有技术设备；
-> 11. 明确声明研究者在场位置与身份偏见。
+> - **有效性操作准则（Spindler & Spindler, 1992）** 观察兼顾微观情境与宏观语境、假设田野动态[[Emergence|涌现]]、推断服务主位视角、显性化[[Doxa|不言自明]]的默会知识、明确声明研究者在场位置。
 
 ---
 

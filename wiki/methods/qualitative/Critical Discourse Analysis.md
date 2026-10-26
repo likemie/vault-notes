@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-27
 ---
 
 ---
@@ -106,20 +106,19 @@ updated: 2026-10-22
 > 4. 将话语实践嵌入宏观社会结构、[[Geopolitics|地缘政治]]竞争与意识形态博弈的生态中展开社会学解释。
 > 5. 综合提炼理论洞见，形成针对政策修辞张力与深层战略意图的[[Explanatory Critique|解释性批判]]报告。
 
----
-
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
-> | 材料来源 | 国家教育主管部门印发的行动规划、部委联合顶层规划方案、领导人外交演讲及新闻通稿。[[Argument_Woo_2023_HEP\|(Woo, 2023, pp. 682–684)]] |
-> | 选案逻辑 | 选取在政策立项、制度设计与价值动员中具有最高权威性与引导力的关键政策文本群。 |
-> | 研究者位置 | 保持批判性距离，立足教育政策学与[[Cultural Political Economy\|文化政治经济学]]跨学科视角审视政策文本的话语效能。 |
-> | 资料边界 | 聚焦特定国家倡议（如“[[Belt and Road Initiative\|一带一路]]”）自提出至全面铺开期间颁布的核心涉外教育文件群。 |
+> | 材料来源 | 国家教育主管部门印发的行动规划、部委联合顶层规划方案、领导人外交演讲及新闻通稿。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682–684)]] |
+> | 抽样或选案 | 选取在政策立项、制度设计与价值动员中具有最高权威性与引导力的关键政策文本群。 |
+> | 研究者位置 | 保持批判性距离，立足教育政策学与[[Cultural Political Economy|文化政治经济学]]跨学科视角审视政策文本的话语效能。 |
+> | 资料边界 | 聚焦特定国家倡议（如“[[Belt and Road Initiative|一带一路]]”）自提出至全面铺开期间颁布的核心涉外教育文件群。 |
 
-> [!proc] 费尔克拉夫三维批判[[Discourse Analysis|话语分析]]程序（[[Argument_Woo_2023_HEP|Woo, 2023]]）
-> 1. **文本层面框架分析（Text Analysis / Framing）** 提取文本的语言表层特征与框架化策略；系统划分[[Policy Framing|诊断性框架]]（确立问题瓶颈）、处方性框架（提供解方措施）与激励性框架（动员崇高价值），揭示政策如何将国家行为塑造为道义共赢事业。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–684)]]
+> [!proc] 质性分析程序
+> 1. **文本层面框架分析（Text Analysis / Framing）** 提取文本语言表层特征与框架化策略；系统划分[[Policy Framing|诊断性框架]]（确立问题瓶颈）、处方性框架（提供解方措施）与激励性框架（动员崇高价值），揭示政策如何将国家行为塑造为道义共赢事业。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–684)]]
 > 2. **话语实践层面互文性分析（Discursive Practice / Intertextuality）** 分析目标文本与其他宏观战略文本的互文引用与[[Interdiscursivity|互话语性]]网络，厘清政策立项的驱动力（最高政治意志）、推进工具（高教攻关与高职出海）与价值导向（讲好国家故事）。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
 > 3. **宏观社会实践层面社会学批判（Social Practice / Explanatory Critique）** 结合历史记忆、发展型国家体制与大国地缘秩序对峙，解释为何特定话语框架能够获得合法性，揭示教育对外开放背后的全球治理替代性追求。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]
+> 4. **反身性审查与多源证据互证** 引入[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]原则，对照物质制度条件与实地执行反馈，排除竞争性解释并防范过度诠释偏误。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
 
 ---
 
@@ -150,3 +149,4 @@ updated: 2026-10-22
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 创新结合费尔克拉夫三维批判[[Discourse Analysis|话语分析]]模型、政策框架理论与[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]，系统解构中国[[Belt and Road Education Action Plan|“一带一路”教育行动]]政策文本群的[[Discourse|话语]]建构与[[Geopolitics|地缘政治]]逻辑。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 引入费尔克拉夫批判性话语分析视角，揭示大众媒体与官方报告如何通过技术中立化语言将新自由主义权力关系自然化（p. 423）。
