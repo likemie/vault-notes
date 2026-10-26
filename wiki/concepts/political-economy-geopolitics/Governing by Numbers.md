@@ -7,7 +7,7 @@ aliases:
 summary: "指通过量化指标、跨国测评与数据比较实现全球教育治理的软性机制。Grek (2009) 奠基该概念，Rizvi 与 Lingard (2009) 揭示经合组织依托 PISA 自建跨国等价空间并推行“数字即政策”，以技术排位压制价值判断并维系知识经济社会想象；Steiner-Khamsi et al.（2024）进一步拓展为数字治理 2.0，聚焦信息过载下政策中介的证据包装与组织利基争夺。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -79,10 +79,11 @@ related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Niemann_Martens_2018_GSP]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 ---
@@ -253,3 +254,4 @@ updated: 2026-10-25
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]] PISA 如何通过数字治理机制影响全球基础教育改革，提出三层机制模型。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合罗斯“数字即政策”与等价空间理论，揭示经合组织如何自产跨国数据以技术排位压制教育目的辩论。
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 系统解析经合组织如何依托跨国量化统测将测验分数塑造成硬事实，确立认知权威并实施远程软治理。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 将数目化治理（Bauman, 1992; Nóvoa & Yariv-Mashal, 2003）列为 PISA 强化经合组织政策权威的三大合法性支柱之首，揭示跨国数据指标如何在循证决策与比较转向的协同下将新自由主义人力资本逻辑包装为技术中立事实。

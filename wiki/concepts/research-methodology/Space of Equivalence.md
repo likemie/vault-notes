@@ -7,7 +7,7 @@ aliases:
 summary: "指统计度量通过人为创设统一分类法、刻度与公分母，在异质社会事物间建立起可相互通约的均质度量空间；在跨国教育治理中以统计信度置换情境构念效度并悬置教育本体论，成为超国家远处掌舵的技术工具。"
 type: concept
 domain: "research-methodology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -62,10 +62,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 ---
@@ -209,3 +210,4 @@ updated: 2026-10-25
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 结合德罗西埃理论，剖析经合组织如何通过 PISA 自建数据确立跨国等值空间并以信度压倒构念效度。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经合组织如何研发 PISA 构筑等值空间，将异质教育传统化约为通用标尺以实现跨国[[Governing at a Distance|远距治理]]。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 将等值空间列为 PISA 跨国规制权威三大技术支柱之一：在去背景化基础上，PISA 人为建构跨国测度的均质化度量空间，以统计信度置换情境构念效度，使政策决策得以托庇于去情境化数据的客观中立性修辞之下。

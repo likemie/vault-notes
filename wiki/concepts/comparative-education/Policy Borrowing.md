@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 126
+related_count: 127
 related_level: 12
 related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
@@ -150,10 +150,11 @@ related_arguments:
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Beech_2015_GSE]]"
   - "[[Argument_Li_2025_HSSC]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 confidence: high
 status: stable
 created: '2026-05-01'
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 ---
@@ -590,6 +591,7 @@ updated: 2026-10-25
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 剖析英格兰在 PISA 2012 发布后借用东亚（上海）与 [[OECD]] [[Discourse|话语]]推行教师[[Performance Pay\|绩效工资]]等五大争议政策的过程，揭示“遗漏话语”与媒体“[[Policy Avoidance\|政策规避]]”构成的媒介化政策借用合法化新机制。
 > - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] — 详细呈现西方教育模式（如《[[Visible Learning|可见的学习]]》）借入俄罗斯时的理论遭遇：论证脱离本土文化传统与办学条件的机械借用极易演变为“制度陷阱”（如 79% 教师深陷报表负担与职业声望危机），提出基于数理变差系数检验与制度理性反思的“拒绝借用”范例。
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 综述 PISA 国际排名如何将东亚与芬兰等确立为全球[[Reference Society\|参考社会]]，剖析韩国政策借用从日本模式向芬兰模式动态切换的制度化历程。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 阐明民族国家通过外化策略援引模范社会合法化争议改革，分化为以 PISA 为蓝图的制度重构（德国）与以排名数据为政治背书（苏格兰工会）两条路径。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 批判国家专员垄断的花园漫步借用传统，揭示跨国咨询、营利企业与多边机构构成的多元行动者网络，以及[[Knowledge Bank|知识银行]]通过议程与解方双重收拢收窄受援国政策[[Discursive Field|话语空间]]的深层机制（pp. 341–344, 348–353）。
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 批判传统政策借用局限于国家官方书面文本的静态假设，从[[Network Governance\|网络治理]]视角揭示去中心化非官方网络中话语权力的微观流转与转译机制。
 > - [[Argument_Amos_2022_Springer\|Amos (2022)]] — 剖析[[Michael Sadler\|迈克尔·萨德勒]]和迈克尔·考恩的学术遗产，说明政策借用如何随着现代性社会系统翻转从偶发外交变成常规合法化手段。
