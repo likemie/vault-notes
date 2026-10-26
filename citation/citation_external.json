@@ -19036,7 +19036,9 @@
     "Rawnsley (2016)": "Rawnsley, 2016",
     "Rawnsley, 2016": "Rawnsley, 2016",
     "Rawolle (2010)": "Rawolle, 2010",
+    "Rawolle (2011)": "Rawolle, 2011",
     "Rawolle, 2010": "Rawolle, 2010",
+    "Rawolle, 2011": "Rawolle, 2011",
     "Ray Pawson & Nick Tilley (1997)": "Ray Pawson & Nick Tilley, 1997",
     "Ray Pawson & Nick Tilley, 1997": "Ray Pawson & Nick Tilley, 1997",
     "Ray Pawson (2006)": "Ray Pawson, 2006",
@@ -20679,12 +20681,10 @@
     "Schriewer & Wagner, 2004": "Schriewer & Wagner, 2004",
     "Schriewer (1987)": "Schriewer, 1987",
     "Schriewer (1990)": "Schriewer, 1990",
-    "Schriewer (1999)": "Schriewer, 1999",
     "Schriewer (2000)": "Schriewer, 2000",
     "Schriewer (2012)": "Schriewer, 2012",
     "Schriewer, 1987": "Schriewer, 1987",
     "Schriewer, 1990": "Schriewer, 1990",
-    "Schriewer, 1999": "Schriewer, 1999",
     "Schriewer, 2000": "Schriewer, 2000",
     "Schriewer, 2012": "Schriewer, 2012",
     "Schroeder & Cenkci (2018)": "Schroeder & Cenkci, 2018",
@@ -26248,8 +26248,6 @@
     "尽管哈蒂, 2010": "尽管哈蒂, 2010",
     "岳昌君和周丽萍 (2016)": "岳昌君和周丽萍, 2016",
     "岳昌君和周丽萍, 2016": "岳昌君和周丽萍, 2016",
-    "巴特勒 (1999)": "巴特勒, 1999",
-    "巴特勒, 1999": "巴特勒, 1999",
     "布卢默 (1969)": "布卢默, 1969",
     "布卢默, 1969": "布卢默, 1969",
     "布朗等人 (1997)": "布朗等人, 1997",
@@ -26617,6 +26615,10 @@
     "诞生期, 2009": "诞生期, 2009",
     "诺亚与埃克斯坦 (1969)": "诺亚与埃克斯坦, 1969",
     "诺亚与埃克斯坦, 1969": "诺亚与埃克斯坦, 1969",
+    "诺沃亚 (2002)": "诺沃亚, 2002",
+    "诺沃亚, 2002": "诺沃亚, 2002",
+    "诺沃亚与劳恩 (2002)": "诺沃亚与劳恩, 2002",
+    "诺沃亚与劳恩, 2002": "诺沃亚与劳恩, 2002",
     "课程改革 (1923)": "课程改革, 1923",
     "课程改革, 1923": "课程改革, 1923",
     "谢爱磊 (2016)": "谢爱磊, 2016",
@@ -26682,16 +26684,16 @@
     "项目, 1980s": "项目, 1980",
     "马奥尼与希伦 (2009)": "马奥尼与希伦, 2009",
     "马奥尼与希伦, 2009": "马奥尼与希伦, 2009",
-    "马蒂厄 (1999)": "马蒂厄, 1999",
-    "马蒂厄, 1999": "马蒂厄, 1999",
     "高谢 (2000)": "高谢, 2000",
     "高谢, 2000": "高谢, 2000",
     "鲁登道夫 (1935)": "鲁登道夫, 1935",
     "鲁登道夫, 1935": "鲁登道夫, 1935",
     "鲍尔 (1993)": "鲍尔, 1993",
     "鲍尔 (1998)": "鲍尔, 1998",
+    "鲍尔 (2000)": "鲍尔, 2000",
     "鲍尔, 1993": "鲍尔, 1993",
     "鲍尔, 1998": "鲍尔, 1998",
+    "鲍尔, 2000": "鲍尔, 2000",
     "鲍尔斯顿与勒鲁瓦 (1980)": "鲍尔斯顿与勒鲁瓦, 1980",
     "鲍尔斯顿与勒鲁瓦, 1980": "鲍尔斯顿与勒鲁瓦, 1980",
     "鲍格丹与比克连 (1992)": "鲍格丹与比克连, 1992",
@@ -37499,7 +37501,8 @@
         "wiki/concepts/educational-policy-reform/Educational Privatisation.md",
         "wiki/concepts/educational-policy-reform/Endogenous Privatisation.md",
         "wiki/concepts/sociology-of-education/Educational Level.md",
-        "wiki/concepts/sociology-of-education/Post-Fordism.md"
+        "wiki/concepts/sociology-of-education/Post-Fordism.md",
+        "wiki/persons/uk/Stephen Ball.md"
       ],
       "title": ""
     },
@@ -37613,8 +37616,7 @@
         "wiki/concepts/educational-policy-reform/Performativity of Measurement.md",
         "wiki/concepts/educational-policy-reform/Test-Based Accountability.md",
         "wiki/concepts/instruction-pedagogy/Effective Teaching.md",
-        "wiki/concepts/sociology-of-education/School Choice.md",
-        "wiki/persons/uk/Stephen Ball.md"
+        "wiki/concepts/sociology-of-education/School Choice.md"
       ],
       "title": ""
     },
@@ -37705,7 +37707,8 @@
         "wiki/concepts/instruction-pedagogy/New Pedagogies for Deep Learning.md",
         "wiki/concepts/political-economy-geopolitics/Geopolitics of Knowledge.md",
         "wiki/concepts/political-economy-geopolitics/Network Governance.md",
-        "wiki/methods/mixed/Network Analysis.md"
+        "wiki/methods/mixed/Network Analysis.md",
+        "wiki/persons/uk/Stephen Ball.md"
       ],
       "title": "Politics and Policy Making in Education: Explorations in Sociology"
     },
@@ -79099,7 +79102,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md"
+        "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
+        "wiki/persons/uk/Norman Fairclough.md"
       ],
       "title": "Political Discourses in the Media"
     },
@@ -129088,7 +129092,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md"
+        "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
+        "wiki/persons/australia/Bob Lingard.md",
+        "wiki/persons/france/Pierre Bourdieu.md"
       ],
       "title": "New Scalar Politics: Implications for Education Policy"
     },
@@ -131886,7 +131892,8 @@
       ],
       "isbn": "978-0-231-06757-7",
       "seen_in": [
-        "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md"
+        "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
+        "wiki/persons/germany/Niklas Luhmann.md"
       ],
       "title": "Essays on Self-Reference"
     },
@@ -151573,6 +151580,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
         "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md",
+        "wiki/persons/portugal/António Nóvoa.md",
         "wiki/theories/political-economy-geopolitics/Governing at a Distance.md"
       ],
       "title": "Comparative Research in Education: A Mode of Governance or a Historical Journey?"
@@ -165007,6 +165015,21 @@
       ],
       "title": ""
     },
+    "Rawolle, 2011": {
+      "aliases": [
+        "Rawolle, 2011",
+        "Rawolle (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rawolle, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/australia/Bob Lingard.md"
+      ],
+      "title": ""
+    },
     "Ray Pawson & Nick Tilley, 1997": {
       "aliases": [
         "Ray Pawson & Nick Tilley, 1997",
@@ -176985,23 +177008,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md",
         "wiki/concepts/comparative-education/Reference Society.md",
-        "wiki/persons/germany/Jurgen Schriewer.md",
         "wiki/theories/educational-philosophy/Autopoiesis.md"
-      ],
-      "title": ""
-    },
-    "Schriewer, 1999": {
-      "aliases": [
-        "Schriewer, 1999",
-        "Schriewer (1999)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Schriewer, 1999"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/germany/Jurgen Schriewer.md"
       ],
       "title": ""
     },
@@ -177018,7 +177025,9 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Beech_2015_GSE.md",
-        "wiki/concepts/comparative-education/Externalization.md"
+        "wiki/concepts/comparative-education/Externalization.md",
+        "wiki/persons/germany/Jurgen Schriewer.md",
+        "wiki/persons/germany/Niklas Luhmann.md"
       ],
       "title": "World System and Interrelationship Networks"
     },
@@ -216671,21 +216680,6 @@
       ],
       "title": ""
     },
-    "巴特勒, 1999": {
-      "aliases": [
-        "巴特勒, 1999",
-        "巴特勒 (1999)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "巴特勒, 1999"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/france/Pierre Bourdieu.md"
-      ],
-      "title": ""
-    },
     "布卢默, 1969": {
       "aliases": [
         "布卢默, 1969",
@@ -219423,6 +219417,36 @@
       ],
       "title": ""
     },
+    "诺沃亚, 2002": {
+      "aliases": [
+        "诺沃亚, 2002",
+        "诺沃亚 (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "诺沃亚, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/portugal/António Nóvoa.md"
+      ],
+      "title": ""
+    },
+    "诺沃亚与劳恩, 2002": {
+      "aliases": [
+        "诺沃亚与劳恩, 2002",
+        "诺沃亚与劳恩 (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "诺沃亚与劳恩, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/portugal/António Nóvoa.md"
+      ],
+      "title": ""
+    },
     "课程改革, 1923": {
       "aliases": [
         "课程改革, 1923",
@@ -219909,21 +219933,6 @@
       ],
       "title": ""
     },
-    "马蒂厄, 1999": {
-      "aliases": [
-        "马蒂厄, 1999",
-        "马蒂厄 (1999)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "马蒂厄, 1999"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/persons/france/Pierre Bourdieu.md"
-      ],
-      "title": ""
-    },
     "高谢, 2000": {
       "aliases": [
         "高谢, 2000",
@@ -219977,6 +219986,21 @@
       "doi": "",
       "identity_keys": [
         "鲍尔, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/uk/Stephen Ball.md"
+      ],
+      "title": ""
+    },
+    "鲍尔, 2000": {
+      "aliases": [
+        "鲍尔, 2000",
+        "鲍尔 (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "鲍尔, 2000"
       ],
       "isbn": "",
       "seen_in": [

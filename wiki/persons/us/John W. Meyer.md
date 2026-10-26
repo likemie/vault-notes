@@ -8,10 +8,10 @@ summary: "美国社会学家，斯坦福学派新制度主义与世界社会理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 38
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 40
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1935"
 died: ""
 lifespan: 1935–至今

@@ -7,7 +7,7 @@ summary: "英国教育社会学家，伦敦大学学院教育学院政策社会�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 56
+person_related_count: 57
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
