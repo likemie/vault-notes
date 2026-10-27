@@ -1516,6 +1516,18 @@
     ]
   },
   {
+    "title": "PISA Effect",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/PISA Effect.md",
+    "aliases": [
+      "PISA效应",
+      "PISA-Effekt",
+      "PISA-Effect",
+      "PISA治理效应",
+      "Governing by Numbers PISA Effect"
+    ]
+  },
+  {
     "title": "PISA Literacy",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/PISA Literacy.md",
@@ -34128,6 +34140,19 @@
     "subtype": "policy"
   },
   {
+    "title": "Klieme Report",
+    "type": "fact",
+    "path": "wiki/facts/germany/Klieme Report.md",
+    "aliases": [
+      "克利姆报告",
+      "Klieme-Bericht",
+      "Zur Entwicklung nationaler Bildungsstandards",
+      "德国国家教育标准专业论证报告",
+      "Development of National Educational Standards"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Prussian Draft Education Law of 1819",
     "type": "fact",
     "path": "wiki/facts/germany/Prussian Draft Education Law of 1819.md",
@@ -36272,6 +36297,18 @@
     "aliases": [
       "筑波科学城",
       "Tsukuba"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Yutori Education",
+    "type": "fact",
+    "path": "wiki/facts/japan/Yutori Education.md",
+    "aliases": [
+      "宽松教育",
+      "ゆとり教育",
+      "日本宽松教育",
+      "Japanese Yutori Education"
     ],
     "subtype": "policy"
   },

@@ -9,7 +9,7 @@ title: "Argument_Grek_2009_JEdPolicy"
 argument_key: "Argument_Grek_2009_JEdPolicy"
 argument_display_title: "Governing by numbers: the PISA 'effect' in Europe"
 argument_kind: "journal-article"
-argument_related_count: 71
+argument_related_count: 73
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -111,7 +111,7 @@ related_arguments: []
 sources:
   - "[[sources/Grek_2009_JEdPolicy|Grek_2009_JEdPolicy]]"
 created: 2026-10-21
-updated: 2026-10-26
+updated: 2026-10-27
 status: draft
 ---
 ---

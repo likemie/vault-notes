@@ -12649,6 +12649,8 @@
     "Klesius, 1991": "Klesius, 1991",
     "Kleven (1995)": "Kleven, 1995",
     "Kleven, 1995": "Kleven, 1995",
+    "Klieme et al. (2003)": "Klieme et al., 2003",
+    "Klieme et al., 2003": "Klieme et al., 2003",
     "Klimova & de Campos (2024)": "Klimova & de Campos, 2024",
     "Klimova & de Campos, 2024": "Klimova & de Campos, 2024",
     "Kline & Rosenberg (1986)": "Kline & Rosenberg, 1986",
@@ -118773,6 +118775,21 @@
       ],
       "title": ""
     },
+    "Klieme et al., 2003": {
+      "aliases": [
+        "Klieme et al., 2003",
+        "Klieme et al. (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Klieme et al., 2003"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/germany/Klieme Report.md"
+      ],
+      "title": ""
+    },
     "Klimova & de Campos, 2024": {
       "aliases": [
         "Klimova & de Campos, 2024",
@@ -208667,6 +208684,7 @@
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
         "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md",
         "wiki/concepts/comparative-education/Inquisitive Mode of Governance.md",
+        "wiki/concepts/comparative-education/PISA Effect.md",
         "wiki/theories/comparative-education/Three-Level Mechanism Model of PISA's Impact on Education Policy.md"
       ],
       "title": "The Organisation for Economic Co-operation and Development (OECD)"

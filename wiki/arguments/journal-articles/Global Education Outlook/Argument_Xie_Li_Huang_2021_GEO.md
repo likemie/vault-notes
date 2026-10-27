@@ -106,6 +106,7 @@ related_persons:
   - "[[Norman Fairclough]]"
   - "[[Immanuel Wallerstein]]"
 related_facts:
+  - "[[Klieme Report]]"
   - "[[Yutori Education]]"
   - "[[PISA]]"
   - "[[OECD]]"
@@ -130,9 +131,9 @@ title: "Argument_Xie_Li_Huang_2021_GEO"
 argument_key: "Argument_Xie_Li_Huang_2021_GEO"
 argument_display_title: "全球药方还是特洛伊木马? PISA的教育政策效应批判——一份基于教育政策社会学视角的文献报告"
 argument_kind: "journal-article"
-argument_related_count: 89
-argument_related_level: 8
-argument_related_stars: "💎💎⭐⭐"
+argument_related_count: 91
+argument_related_level: 9
+argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
 journal: "Global Education Outlook"
 book_title: ""
@@ -273,7 +274,7 @@ issuing_organization: ""
 > [!row-contrast] 表2：以 PISA 为教育政策改革指引的典型国别实践
 > | 国别 | 国家标准与课程改革 | 管理、学制或设施 | 评价体系 | 教师教育与师资管理 |
 > |---|---|---|---|---|
-> | **德国** | 2003 年制定全德统一教育标准（基于《克利姆报告》），强化读写算核心素养 | 大幅扩建全日制学校（Ganztagsschulen），打破半日制分轨惯性 | 引入国家级统一监测与质量评估标准 | 强化师资专业实证导向培训与能力标准建构 |
+> | **德国** | 2003 年制定全德统一教育标准（基于[[Klieme Report|《克利姆报告》]]），强化读写算核心素养 | 大幅扩建全日制学校（Ganztagsschulen），打破半日制分轨惯性 | 引入国家级统一监测与质量评估标准 | 强化师资专业实证导向培训与能力标准建构 |
 > | **瑞士** | 2006 年确立国家教育标准，跨语言大区协同建立共同核心课程 | 协调全国学制结构，义务教育年限由 9 年延长至 11 年 | 引入四年一周期的跨区域与国家教育质量监测系统 | 调整教师专业知识结构与教学法培训 |
 > | **爱尔兰** | 2003 年后国家课程与评估委员会重构数学课程教学，推进初中科学课改 | 调整学科教学设施与学时规划 | 强化以核心能力为基准的过程性质量评价 | 2012 年延长教师职前培训年限，压缩艺术与人文学科师资 |
 > | **挪威** | 2006 年发布新国家课程，将阅读和数学基础技能强制渗透至所有科目 | 调整义务教育阶段课时标准与设施保障 | 建立国家质量评估系统，在 5、8、9 年级推行国家统一测试 | 强化教师在核心学科上的教学法技能考核 |
@@ -290,7 +291,7 @@ issuing_organization: ""
 > [!case] 德国：从 PISA 休克到全日制学校与国家标准全面改革
 > 2000 年首届 PISA 结果公布，德国在阅读、数学和科学素养上的平均表现跌落至 OECD 平均线以下，且学生[[Academic Achievement|学业成绩]]与[[Socioeconomic Status|家庭社会经济背景]]的绑定程度在发达国家中居于首位。这一结果在德国社会各界引发剧烈震荡，被称为 PISA 休克。德国社会将其冲击烈度与 1957 年苏联第一颗人造卫星发射、法国大革命以及美国 1983 年《国家处于危险之中》报告相提并论（Ertl, 2006）。
 >
-> 这次震荡直接动摇了德国长期信奉的洪堡人文主义[[Whole Person Education|全人教育]]传统（[[Bildung]]）与半日制分轨中学体制的制度自信。在传统联邦制分权结构下，德国 16 个联邦州在文化和教育事务上拥有广泛的宪法自治权，此前极难形成全国统一决策。然而在危机倒逼下，教育研究专家埃克哈德·克利姆提交的《克利姆报告》（Klieme Report）迅速成为制定国家教育标准的核心概念基础。2003 年 7 月，德国正式出台德语、数学和第一外语（英语或法语）的国家教育标准；同年 12 月，德国各州文化和教育部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs|Kultusministerkonferenz]], KMK）全票通过该标准，并一致同意在 2004–2005 学年全德统一执行（Ertl, 2006）。KMK 进一步通过扩建全日制学校打破传统半日制家庭辅导特权，设立全国统一教育监测系统，促使德国教育学界整体完成了从思辨哲学向经验实证研究的制度转型（Hartong, 2012）。
+> 这次震荡直接动摇了德国长期信奉的洪堡人文主义[[Whole Person Education|全人教育]]传统（[[Bildung]]）与半日制分轨中学体制的制度自信。在传统联邦制分权结构下，德国 16 个联邦州在文化和教育事务上拥有广泛的宪法自治权，此前极难形成全国统一决策。然而在危机倒逼下，教育研究专家埃克哈德·克利姆提交的[[Klieme Report|《克利姆报告》]]（Klieme Report）迅速成为制定国家教育标准的核心概念基础。2003 年 7 月，德国正式出台德语、数学和第一外语（英语或法语）的国家教育标准；同年 12 月，德国各州文化和教育部长常设会议（[[Standing Conference of the Ministers of Education and Cultural Affairs|Kultusministerkonferenz]], KMK）全票通过该标准，并一致同意在 2004–2005 学年全德统一执行（Ertl, 2006）。KMK 进一步通过扩建全日制学校打破传统半日制家庭辅导特权，设立全国统一教育监测系统，促使德国教育学界整体完成了从思辨哲学向经验实证研究的制度转型（Hartong, 2012）。
 
 > [!case] 瑞士：跨州协调延长义务教育年限与建立四年周期监测
 > 瑞士同样属于典型的地方高度分权体制，各州拥有完全独立的学校体系与课程权力。2000 年 PISA 结果暴露了瑞士不同语言大区间巨大的学业鸿沟。瑞士各州教育局长常设会议（Schweizerische Konferenz der kantonalen Erziehungsdirektoren, EDK）借此启动全方位系统协调，于 2006 年达成《州际教育协调协议》（[[HarmoS]] 协定）。该协定统一了全国学制结构，将义务教育年限由 9 年延长至 11 年（包含两年学前教育），并在德语、法语和意大利语大区分别建立共同核心课程标准。同时，瑞士首次建立四年一周期的国家教育质量监测系统，对学生的学业表现与学习行为开展定期追踪分析（Maradan & Mangold, 2005）。

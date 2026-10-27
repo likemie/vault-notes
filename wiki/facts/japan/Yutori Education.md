@@ -5,13 +5,17 @@ aliases:
   - ゆとり教育
   - 日本宽松教育
   - Japanese Yutori Education
-summary: "日本文部省（现文部科学省）自 1970 年代末孕育、1980 年代确立并在 1998/2002 年全面施行的标志性基础教育课程与政策范式；旨在破除二战后严酷的应试地狱、校园暴力与学业重负，通过推行五日制周休二日、削减约 30% 教学课时与内容、增设综合学习时间以培养生存能力与自主探究；后遭遇国内学力低下论争及 2004/2007 年 PISA 震荡的政治借用冲击，最终被扎实学力战略所终结与纠偏"
+summary: "日本国文部科学省（前身为文部省）自 1970 年代末孕育、1980 年代确立并在 1998/2002 年全面施行的标志性基础教育课程与政策范式；旨在破除二战后严酷的应试地狱、校园暴力与学业重负，通过推行五日制周休二日、削减约 30% 教学课时与内容、增设综合学习时间以培养生存能力与自主探究；后遭遇国内学力低下论争及 2004/2007 年 PISA 震荡的政治借用冲击，最终被扎实学力战略所终结与纠偏"
 type: fact
 subtype: policy
 region: japan
-issuing_organization: "[[Ministry of Education, Culture, Sports, Science and Technology]]"
 fact_region: "japan"
 fact_kind: "policy"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
+fact_related_color: "#dbeafe"
+issuing_organization: "[[Ministry of Education, Culture, Sports, Science and Technology]]"
 tags:
   - fact/policy
   - region/japan
@@ -62,7 +66,7 @@ updated: 2026-10-27
 ---
 
 > [!claim] 政策核心
-> 日本宽松教育（ゆとり教育, Yutori Education）是日本文部省（现文部科学省）为化解“应试地狱”恶性竞争与高压死记硬背而推行的国家级基础教育减负与课程重构政策；其核心在于通过全面实行学校五日制（周休二日）、削减约 30% 的学科教学时数与必修内容，并增设跨学科自主探究的“综合学习时间”，以培育适应终身学习社会的“生存能力”（生きる力）。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 65, 67)]]；[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+> 日本宽松教育（ゆとり教育, Yutori Education）是日本政府文部省（现为文部科学省）为化解“应试地狱”恶性竞争与高压死记硬背而推行的国家级基础教育减负与课程重构政策；其核心在于通过全面实行学校五日制（周休二日）、削减约 30% 的学科教学时数与必修内容，并增设跨学科自主探究的“综合学习时间”，以培育适应终身学习社会的“生存能力”（生きる力）。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 65, 67)]]；[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 
 > [!policy-design] 政策设计
 > - **政策目标** 克服机械应试竞争，激发儿童的独立思考能力、自主探究兴趣、问题解决能力与丰富人性（生きる力）。

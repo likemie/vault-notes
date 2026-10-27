@@ -11,7 +11,7 @@ subtype: event
 region: japan
 fact_region: "japan"
 fact_kind: "event"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
