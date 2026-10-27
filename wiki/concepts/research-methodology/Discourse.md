@@ -90,7 +90,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 ---
@@ -249,3 +249,4 @@ updated: 2026-10-25
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 结合“[[Belt and Road Initiative|一带一路]]”多边大学联盟案例，剖析新兴大国如何通过倡导[[South-South Cooperation|南南合作]]与共享未来等规范性话语，在跨国高等教育治理中建构话语性[[Knowledge Power|知识权力]]（pp. 1700–1705）。
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 运用政策话语分析方法比对[[Forum on China-Africa Cooperation|中非合作论坛]]与[[Belt and Road Education Action Plan|“一带一路”教育行动]]政策文本，揭示南南教育合作政策话语如何通过对等互惠修辞确立伙伴国主权能动性，并剖析双向话语承诺与单向资源供给之间的结构性张力（pp. 221–228）。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 运用解释性政策分析（IPA）剖析经合组织、联合国教科文组织与世界银行官方文本中的超国家话语，揭示修辞隐喻如何建构认知等级与掩饰制度性障碍。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用福柯话语-权力理论批判解构 1992–2007 年欧盟教育政策话语，揭示危机修辞与市场化话语如何将教育工具化，并依托软法话语构筑欧洲教育全景敞视式治理（pp. 479–494）。

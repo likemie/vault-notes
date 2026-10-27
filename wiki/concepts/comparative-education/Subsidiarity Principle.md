@@ -132,6 +132,9 @@ updated: 2026-10-27
 > [!claim] [[Jason Beech|Beech, J.]]
 > **[[Pluri-Scalar Governance|多标度治理]]下辅助性原则界限的模糊化** 比奇（Jason Beech）进一步指出，当代活跃于全球教育领域的各类新型行动者（超国家联盟、跨国咨询公司与国际组织）构成了纵横交错的[[Pluri-Scalar Governance|多标度治理]]网络，打破了传统主权国家的二元等级运作；辅助性原则所预设的“国家主权内”与“国家主权外”的绝对边界被[[Space of Flows|流动空间]]击碎，超国家话语通过本土[[Gatekeepers|把关人]]与指标规训深度侵入课堂，使宪制上的辅助性防护转变为一种象征性的修辞合法化仪式。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
 
+> [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
+> **进取型政府间主义对主权防线的主动放弃** 乔治·帕西亚斯（George Pasias）与扬尼斯·鲁萨基斯（Yannis Roussakis）指出，1990 年代各成员国严守辅助性原则与非协调化教条以防范共同体越权；但在新千年里斯本战略下，成员国治理取向转向进取型政府间主义并叠加新功能主义外溢，主动放弃死守主权的消极防守，自愿签署共同量化指标并接受常态化全景监视，使辅助性原则的宪制屏障在自愿合规的表象下被实质性超越。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 481–482, 490–493)]]
+
 ---
 
 ### 命题二　跨机构数据外包共生使超国家实体在宪制辅助性约束下达成事实一体化治理
@@ -147,7 +150,7 @@ updated: 2026-10-27
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **软法规训与形式规避** | 揭示超国家机构如何在恪守宪制约束的形式下依托软法实现事实集权 | 欧盟一体化与超国家教育空间制作 | António Nóvoa |
+> | **软法规训与形式规避** | 揭示超国家机构如何在恪守宪制约束的形式下依托软法实现事实集权 | 欧盟一体化与超国家教育空间制作 | António Nóvoa; George Pasias & Yannis Roussakis |
 > | **多标度网络穿透** | 论证多标度治理网络如何击穿辅助性原则预设的主权容器边界 | 全球教育[[Policy Mobility\|政策流动]]与跨国治理[[Champ\|场域]] | Jason Beech |
 > | **数据外包与共生补位** | 阐明超国家中枢如何借助第三方国际组织的数据基础设施规避立法禁令 | 欧盟与经合组织跨机构合作、跨国[[Performance Indicators\|教育指标]]体系建设 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
 

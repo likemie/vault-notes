@@ -4,7 +4,7 @@ aliases:
   - 开放协调法
   - 开放式协调机制
   - OMC
-summary: "欧盟创设的超国家软性政策治理范式。在恪守辅助性原则、排除强制性立法的前提下，通过确立共同目标、设定量化基准指标（Benchmarks）、促进最佳实践交流并开展同行评议与定期监测，对各成员国施加声誉同侪压力，驱动国家教育与社会政策向超国家战略优先事项自愿收敛与制度趋同。"
+summary: "欧盟创设的超国家软性政策治理范式。在恪守辅助性原则、排除强制性立法的前提下，通过确立共同目标、设定量化基准指标（Benchmarks）、促进最佳实践交流并开展同行评议与定期监测，对各成员国施加声誉同侪压力，驱动国家教育与社会政策向超国家战略优先事项自愿靠拢与制度趋同。"
 type: concept
 domain: "comparative-education"
 related_count: 27
@@ -116,8 +116,8 @@ updated: 2026-10-27
 
 ---
 
-> [!contrast-table] 命题归纳
-> | 维度 | 核心指向 | 适用情境 | 代表学者 |
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **治理术与空间制作** | 揭示量化指标与同侪学习如何实现隐秘[[Disciplina and Doctrina\|规训]]与超国家空间虚构 | 欧洲教育治理与主权规训分析 | António Nóvoa; Martin Lawn |
 > | **多标度均质化** | 阐明最佳实践修辞如何削弱民族国家的替代性政策想象力 | 跨国[[Policy Mobility\|政策流动]]与[[Recontextualization\|再情境化]]批判 | Jason Beech |
@@ -128,6 +128,7 @@ updated: 2026-10-27
 > [!dev-timeline] 概念演变
 > - **2000 — [[Lisbon Strategy|里斯本战略]]正式确立** 欧洲理事会里斯本峰会正式命名“开放协调法”，将其定位为欧洲在[[Knowledge-Based Economy|知识经济]]时代实现结构性改革的核心手段。
 > - **2002 — 教育领域全面展开** Nóvoa (2002) 系统解构[[EU|欧盟]]依托 OMC 三大机制跨越宪制主权边界、制作[[European Education Space|欧洲教育空间]]的微观过程。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
+> - **2009 — 全景敞视监视技术解构** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] 运用福柯监视与规训理论解构 OMC，指出其整合凝视技术、绩效技术与治理技术，在超国家层面构筑起现代欧洲教育全景敞视。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 492–493)]]
 > - **2010 — 欧洲 2020 战略指标化** 欧盟确立包含[[Academic Attrition|早期离校]]率低于 10%、高等教育完成率达 40% 等五大约束性教育基准线，OMC 的量化刚度进一步攀升。
 > - **2020 年代 — [[Governing by Numbers|数字治理]]与欧洲教育区** OMC 深度嵌入“欧洲教育区（EEA 2025）”愿景，与[[OECD|经合组织]] [[PISA]] 数据相互咬合，构成超国家数字规训闭环。
 
@@ -146,25 +147,7 @@ updated: 2026-10-27
 
 ---
 
-> [!entry-map] 条目关联
->
-> | 条目 | 类型 | 关联维度与贡献 |
-> |:---|:---|:---|
-> | [[Subsidiarity Principle]] | 概念 | 宪制前提，OMC 作为在辅助性原则严禁硬法立法情境下的替代治理工具。 |
-> | [[European Education Space]] | 概念 | 实践产物，OMC 是超国家机构虚构与制作欧洲教育空间的核心技术载体。 |
-> | [[Europe of Knowledge]] | 概念 | 宏观政策话语，OMC 作为落实“知识欧洲”路线图与技能商品化的治理载体。 |
-> | [[Governing by Numbers]] | 概念 | 理论纽带，OMC 深度践行以基准线与量化指标为核心的数字治理[[Paradigm\|范式]]。 |
-> | [[Performance Indicators]] | 概念 | 操作工具，绩效指标为 OMC 的跨国比较与同侪监控提供了客观化修辞。 |
-> | [[Pluri-Scalar Governance]] | 概念 | 分析范式，OMC 串联了超国家、国家与地方学区三个不同标度的治理层次。 |
-> | [[Panopticism]] | 理论 | 批判理论透镜，揭示 OMC 如何依托凝视、绩效与治理技术构筑欧洲教育全景敞视。 |
-> | [[Bologna Process]] | 事实 | 伴随实践，博洛尼亚进程在高等教育领域与 OMC 形成软治理双轨协同。 |
-
----
-
-> [!evidence-grid-a] 相关研究
->
-> | 研究 | 视角 / 核心发现 |
-> |:---|:---|
-> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | 剖析开放协调法作为监视与规训技术，如何通过凝视技术、绩效技术与治理技术在超国家尺度确立“欧洲教育全景敞视建筑”。（pp. 480–481, 492–493） |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 剖析[[EU\|欧盟]]如何借助开放协调法的三大机制（最佳实践修辞、量化指标基准线与学位标准化）绕开[[Subsidiarity Principle\|辅助性原则]]，渗透成员国教育政策。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 分析欧洲超国家治理如何通过非强制性政策协调网络，将[[Student Mobility\|学生流动]]重塑为符合[[Knowledge-Based Economy\|知识经济]]需要的欧洲公民美德。 |
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 剖析开放协调法作为监视与规训技术，如何通过凝视技术、绩效技术与治理技术在超国家尺度确立“欧洲教育全景敞视建筑”（pp. 480–481, 492–493）。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析[[EU|欧盟]]如何借助开放协调法的三大机制（最佳实践修辞、量化指标基准线与学位标准化）绕开[[Subsidiarity Principle|辅助性原则]]，渗透成员国教育政策。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 分析欧洲超国家治理如何通过非强制性政策协调网络，将[[Student Mobility|学生流动]]重塑为符合[[Knowledge-Based Economy|知识经济]]需要的欧洲公民美德。
