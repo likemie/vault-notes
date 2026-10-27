@@ -80,6 +80,7 @@ related_arguments:
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
   - "[[Argument_Kelly_Licona_2018_EpistemicPractices]]"
   - "[[Argument_King_2020_ECNUROE]]"
+  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
 related_facts:
   - "[[OECD]]"
   - "[[UNESCO]]"
@@ -161,7 +162,7 @@ updated: 2026-10-27
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 研究课堂互动中的语言使用和权力关系；分析宏观政策文本和超国家教育[[Discourse|话语]]的建构方式（如解构[[OECD|经合组织]]报告中的话语滑移与社会想象；Rizvi & Lingard, 2009）；比较不同国际组织、跨国智库与国家政策文本中的深层预设同构与[[Discursive Field|话语空间]]排他性规制机制（如解构 UNESCO、世界银行与 OECD 的全球教育话语普遍模型；Beech, 2009b）；剖析大国对外政策话语的深层地缘机制与意识形态框架（如运用费尔克拉夫三维模型解构“一带一路”教育行动文本；Woo, 2023）；理解儿童如何通过语言参与[[Knowledge Building Theory|知识建构]]（Edwards & Mercer, 1987）；揭示话语中系统性扭曲沟通的压制性力量（Habermas）。
+> - **适合使用** 研究课堂互动中的语言使用和权力关系；分析宏观政策文本和超国家教育[[Discourse|话语]]的建构方式（如解构[[OECD|经合组织]]报告中的话语滑移与社会想象；Rizvi & Lingard, 2009）；解构超国家一体化中官方白皮书将新自由主义经济竞争自然化为教育真理政制的话语技术（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）；比较不同国际组织、跨国智库与国家政策文本中的深层预设同构与[[Discursive Field|话语空间]]排他性规制机制（如解构 UNESCO、世界银行与 OECD 的全球教育话语普遍模型；Beech, 2009b）；剖析大国对外政策话语的深层地缘机制与意识形态框架（如运用费尔克拉夫三维模型解构“一带一路”教育行动文本；Woo, 2023）；理解儿童如何通过语言参与[[Knowledge Building Theory|知识建构]]（Edwards & Mercer, 1987）；揭示话语中系统性扭曲沟通的压制性力量（Habermas）。
 > - **谨慎使用** 当需要大样本统计概括时；当[[Research Question|研究问题]]更适合通过实验或调查回答时；当研究者的话语立场可能过度影响解释时。
 > - **不适合使用** 需要标准化测量和[[Causality|因果推断]]的研究；将语言仅视为信息传递工具的研究。
 
@@ -202,3 +203,4 @@ updated: 2026-10-27
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用批判政策话语分析解构[[OECD]]自1990年代中期以来的核心政策文本，揭示其如何通过描述性与规范性话语的滑移建构“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，并将性别平权与社会凝聚力重构为经济效率手段。
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 运用政策话语分析系统比对[[Forum on China-Africa Cooperation|中非合作论坛]]行动计划与教育部《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，剖析[[South-South Cooperation|南南合作]]框架下教育与人力资源开发话语由单向奖学金培训向全面能力合作与跨洲互联互通的演进机制。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 结合费尔克拉夫与科森话语权力理论，解构经合组织官方报告与媒体如何通过技术中立化话语将新自由主义权力关系自然化（p. 423）。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用政策话语分析解构欧盟 1993 至 2007 年标志性官方文本（白皮书、滚动议程、里斯本峰会结论），揭示“就业能力”与“终身学习”等话语如何被建构为服务于新自由主义治理的真理政制。（pp. 479–481, 484–486, 490–492）

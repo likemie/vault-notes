@@ -61,6 +61,8 @@ related_facts:
   - "[[Belt and Road Education Action Plan]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
+  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 confidence: high
 status: active
 created: 2026-10-19
@@ -109,7 +111,7 @@ updated: 2026-10-27
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
-> | 材料来源 | 国家教育主管部门印发的行动规划、部委联合顶层规划方案、领导人外交演讲及新闻通稿。[[Argument_Woo_2023_HEP\|(Woo, 2023, pp. 682–684)]] |
+> | 材料来源 | 国家教育主管部门印发的行动规划、部委联合顶层规划方案、领导人外交演讲及新闻通稿（[[Argument_Woo_2023_HEP\|Woo, 2023, pp. 682–684]]）；超国家机构官方白皮书、理事会峰会结论与跨国工作规划文本群（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias & Roussakis, 2009, pp. 479–481]]）。 |
 > | 抽样或选案 | 选取在政策立项、制度设计与价值动员中具有最高权威性与引导力的关键政策文本群。 |
 > | 研究者位置 | 保持批判性距离，立足教育政策学与[[Cultural Political Economy|文化政治经济学]]跨学科视角审视政策文本的话语效能。 |
 > | 资料边界 | 聚焦特定国家倡议（如“[[Belt and Road Initiative|一带一路]]”）自提出至全面铺开期间颁布的核心涉外教育文件群。 |
@@ -123,7 +125,7 @@ updated: 2026-10-27
 ---
 
 > [!method-fit] 适用判断
-> - **适合使用** 适合分析国家宏观教育战略演进、跨国教育合作政策的意识形态合法化过程、国际组织（如 [[OECD]]、[[World Bank|世界银行]]）教育评价报告的[[Discourse|话语]]霸权解构。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680–682)]]
+> - **适合使用** 适合分析国家宏观教育战略演进、跨国教育合作政策的意识形态合法化过程（[[Argument_Woo_2023_HEP|Woo, 2023, pp. 680–682]]）、超国家机构政策白皮书中新自由主义真理政制的建构（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, pp. 479–481]]）、国际组织（如 [[OECD]]、[[World Bank|世界银行]]）教育评价报告的[[Discourse|话语]]霸权解构。
 > - **谨慎使用** 纯技术性教学流程测量、课堂微观师生语言互动的秒级编码（更宜采用[[Conversation Analysis|会话分析]] Conversation Analysis）。
 > - **不适合使用** 评估教育干预措施的大样本平均因果效应或开展跨国[[Academic Achievement|学业成绩]]排名的量化统计建模。
 
