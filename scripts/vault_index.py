@@ -24,7 +24,7 @@ import subprocess
 import sys
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Any
+from typing import Any, Callable
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import vaultlib  # noqa: E402
@@ -592,42 +592,61 @@ FOLDER_TO_INSTRUMENT_TYPE = {
 }
 
 
+def iter_entry_files(directory: Path) -> list[Path]:
+    return sorted(path for path in directory.rglob("*.md") if path.is_file())
+
+
+def write_base_fields(
+    path: Path, text: str, frontmatter: str, body: str, *,
+    dry_run: bool, check: bool, update_date: bool,
+) -> bool:
+    next_text = f"---\n{frontmatter}---\n{body}"
+    changed = next_text != text
+    if changed and not dry_run and not check:
+        if update_date:
+            frontmatter = set_frontmatter_value(
+                frontmatter, "updated", datetime.date.today().isoformat(), [r"^created:\s*"])
+            next_text = f"---\n{frontmatter}---\n{body}"
+        write_md(path, next_text)
+    return changed
+
+
+def maintain_base_fields(
+    kind: str, marker: str, paths: list[Path],
+    update: Callable[..., tuple[bool, tuple[int, str] | None]], *, dry_run: bool, check: bool,
+) -> int:
+    changed_count = 0
+    summaries: list[tuple[int, str, str]] = []
+    for path in paths:
+        changed, summary = update(path, dry_run=dry_run, check=check)
+        if summary:
+            related_count, related_stars = summary
+            summaries.append((related_count, related_stars, path.relative_to(ROOT).as_posix()))
+        if changed:
+            changed_count += 1
+            prefix = "would update" if dry_run or check else "updated"
+            print(f"{marker} {prefix}: {path.relative_to(ROOT).as_posix()}")
+
+    summaries.sort(key=lambda item: item[0], reverse=True)
+    print(f"{marker} {kind} base fields checked: {len(summaries)}; changed: {changed_count}")
+    for related_count, related_stars, rel_path in summaries[:10]:
+        print(f"{related_count:>3} {related_stars:<6} {rel_path}")
+    return int(check and changed_count > 0)
+
+
 def upsert_concept_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
-    lines = raw_frontmatter.rstrip("\n").splitlines()
-    filtered: list[str] = []
-    i = 0
-    while i < len(lines):
-        line = lines[i]
-        m_key = KEY_RE.match(line)
-        if m_key and m_key.group(1) in CONCEPT_GENERATED_KEYS:
-            i += 1
-            while i < len(lines) and re.match(r"^(?:\s+|-\s)", lines[i]):
-                i += 1
-            continue
-        filtered.append(line)
-        i += 1
-
-    insert_at = 0
-    for idx, line in enumerate(filtered):
-        if re.match(r"^type:\s*", line):
-            insert_at = idx + 1
-            break
-
-    generated = [
+    return vaultlib.upsert_generated_fields(raw_frontmatter, CONCEPT_GENERATED_KEYS, [
         f"domain: {yaml_string(str(fields['domain']))}",
         f"related_count: {int(fields['related_count'])}",
         f"related_level: {int(fields['related_level'])}",
         f"related_stars: {yaml_string(str(fields['related_stars']))}",
         f"related_color: {yaml_string(str(fields['related_color']))}",
-    ]
-    filtered[insert_at:insert_at] = generated
-    return "\n".join(filtered).rstrip() + "\n"
+    ],
+        stop_after=("type",))
 
 
 def iter_concept_files() -> list[Path]:
-    if not CONCEPTS_DIR.exists():
-        return []
-    return sorted(path for path in CONCEPTS_DIR.rglob("*.md") if path.is_file())
+    return iter_entry_files(CONCEPTS_DIR)
 
 
 def update_concept_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
@@ -652,37 +671,14 @@ def update_concept_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[
         "related_stars": related_stars,
         "related_color": CONCEPT_COLORS[min(related_level, len(CONCEPT_COLORS) - 1)],
     })
-    next_text = f"---\n{next_frontmatter}---\n{body}"
-    changed = next_text != text
-    if changed and not dry_run and not check:
-        today_str = datetime.date.today().isoformat()
-        next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
-        next_text = f"---\n{next_frontmatter}---\n{body}"
-        write_md(path, next_text)
+    changed = write_base_fields(path, text, next_frontmatter, body,
+                                dry_run=dry_run, check=check, update_date=True)
     return changed, (related_count, related_stars)
 
 
 def maintain_concept_base_fields(dry_run: bool = False, check: bool = False) -> int:
-    changed_count = 0
-    summaries: list[tuple[int, str, str]] = []
-    for path in iter_concept_files():
-        changed, summary = update_concept_base_fields(path, dry_run=dry_run, check=check)
-        if summary:
-            related_count, related_stars = summary
-            rel_path = path.relative_to(ROOT).as_posix()
-            summaries.append((related_count, related_stars, rel_path))
-        if changed:
-            changed_count += 1
-            prefix = "would update" if dry_run or check else "updated"
-            print(f"✨ {prefix}: {path.relative_to(ROOT).as_posix()}")
-
-    summaries.sort(key=lambda item: item[0], reverse=True)
-    print(f"✨ concept base fields checked: {len(summaries)}; changed: {changed_count}")
-    for related_count, related_stars, rel_path in summaries[:10]:
-        print(f"{related_count:>3} {related_stars:<6} {rel_path}")
-    if check:
-        return 1 if changed_count else 0
-    return 0
+    return maintain_base_fields("concept", "✨", iter_concept_files(),
+                                update_concept_base_fields, dry_run=dry_run, check=check)
 
 
 def instrument_stars_for(count: int) -> tuple[int, str]:
@@ -696,42 +692,17 @@ def instrument_color_for(kind: str, level: int) -> str:
 
 
 def upsert_instrument_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
-    lines = raw_frontmatter.rstrip("\n").splitlines()
-    filtered: list[str] = []
-    i = 0
-    while i < len(lines):
-        line = lines[i]
-        m_key = KEY_RE.match(line)
-        if m_key and m_key.group(1) in INSTRUMENT_GENERATED_KEYS:
-            i += 1
-            while i < len(lines) and re.match(r"^(?:\s+|-\s)", lines[i]):
-                i += 1
-            continue
-        filtered.append(line)
-        i += 1
-
-    insert_at = 0
-    for idx, line in enumerate(filtered):
-        if re.match(r"^instrument_type:\s*", line):
-            insert_at = idx + 1
-            break
-        if re.match(r"^type:\s*", line) and insert_at == 0:
-            insert_at = idx + 1
-
-    generated = [
+    return vaultlib.upsert_generated_fields(raw_frontmatter, INSTRUMENT_GENERATED_KEYS, [
         f"instrument_related_count: {int(fields['instrument_related_count'])}",
         f"instrument_related_level: {int(fields['instrument_related_level'])}",
         f"instrument_related_stars: {yaml_string(str(fields['instrument_related_stars']))}",
         f"instrument_related_color: {yaml_string(str(fields['instrument_related_color']))}",
-    ]
-    filtered[insert_at:insert_at] = generated
-    return "\n".join(filtered).rstrip() + "\n"
+    ],
+        stop_after=("instrument_type",), fallback_after=("type",))
 
 
 def iter_instrument_files() -> list[Path]:
-    if not INSTRUMENTS_DIR.exists():
-        return []
-    return sorted(path for path in INSTRUMENTS_DIR.rglob("*.md") if path.is_file())
+    return iter_entry_files(INSTRUMENTS_DIR)
 
 
 def update_instrument_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
@@ -761,37 +732,14 @@ def update_instrument_base_fields(path: Path, dry_run: bool, check: bool) -> tup
         "instrument_related_stars": related_stars,
         "instrument_related_color": instrument_color_for(kind, related_level),
     })
-    next_text = f"---\n{next_frontmatter}---\n{body}"
-    changed = next_text != text
-    if changed and not dry_run and not check:
-        today_str = datetime.date.today().isoformat()
-        next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
-        next_text = f"---\n{next_frontmatter}---\n{body}"
-        write_md(path, next_text)
+    changed = write_base_fields(path, text, next_frontmatter, body,
+                                dry_run=dry_run, check=check, update_date=True)
     return changed, (related_count, related_stars)
 
 
 def maintain_instrument_base_fields(dry_run: bool = False, check: bool = False) -> int:
-    changed_count = 0
-    summaries: list[tuple[int, str, str]] = []
-    for path in iter_instrument_files():
-        changed, summary = update_instrument_base_fields(path, dry_run=dry_run, check=check)
-        if summary:
-            related_count, related_stars = summary
-            rel_path = path.relative_to(ROOT).as_posix()
-            summaries.append((related_count, related_stars, rel_path))
-        if changed:
-            changed_count += 1
-            prefix = "would update" if dry_run or check else "updated"
-            print(f"🧰 {prefix}: {path.relative_to(ROOT).as_posix()}")
-
-    summaries.sort(key=lambda item: item[0], reverse=True)
-    print(f"🧰 instrument base fields checked: {len(summaries)}; changed: {changed_count}")
-    for related_count, related_stars, rel_path in summaries[:10]:
-        print(f"{related_count:>3} {related_stars:<6} {rel_path}")
-    if check:
-        return 1 if changed_count else 0
-    return 0
+    return maintain_base_fields("instrument", "🧰", iter_instrument_files(),
+                                update_instrument_base_fields, dry_run=dry_run, check=check)
 
 
 def method_family_for(path: Path, meta: dict[str, Any]) -> str:
@@ -809,43 +757,18 @@ def method_stars_for(count: int) -> tuple[int, str]:
 
 
 def upsert_method_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
-    lines = raw_frontmatter.rstrip("\n").splitlines()
-    filtered: list[str] = []
-    i = 0
-    while i < len(lines):
-        line = lines[i]
-        m_key = KEY_RE.match(line)
-        if m_key and m_key.group(1) in METHOD_GENERATED_KEYS:
-            i += 1
-            while i < len(lines) and re.match(r"^(?:\s+|-\s)", lines[i]):
-                i += 1
-            continue
-        filtered.append(line)
-        i += 1
-
-    insert_at = 0
-    for idx, line in enumerate(filtered):
-        if re.match(r"^method_type:\s*", line):
-            insert_at = idx + 1
-            break
-        if re.match(r"^type:\s*", line):
-            insert_at = idx + 1
-
-    generated = [
+    return vaultlib.upsert_generated_fields(raw_frontmatter, METHOD_GENERATED_KEYS, [
         f"method_family: {yaml_string(str(fields['method_family']))}",
         f"method_related_count: {int(fields['method_related_count'])}",
         f"method_related_level: {int(fields['method_related_level'])}",
         f"method_related_stars: {yaml_string(str(fields['method_related_stars']))}",
         f"method_related_color: {yaml_string(str(fields['method_related_color']))}",
-    ]
-    filtered[insert_at:insert_at] = generated
-    return "\n".join(filtered).rstrip() + "\n"
+    ],
+        stop_after=("method_type",), after=("type",))
 
 
 def iter_method_files() -> list[Path]:
-    if not METHODS_DIR.exists():
-        return []
-    return sorted(path for path in METHODS_DIR.rglob("*.md") if path.is_file())
+    return iter_entry_files(METHODS_DIR)
 
 
 def update_method_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
@@ -875,37 +798,14 @@ def update_method_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[b
         "method_related_stars": related_stars,
         "method_related_color": METHOD_COLORS.get(family, "#e5e7eb"),
     })
-    next_text = f"---\n{next_frontmatter}---\n{body}"
-    changed = next_text != text
-    if changed and not dry_run and not check:
-        today_str = datetime.date.today().isoformat()
-        next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
-        next_text = f"---\n{next_frontmatter}---\n{body}"
-        write_md(path, next_text)
+    changed = write_base_fields(path, text, next_frontmatter, body,
+                                dry_run=dry_run, check=check, update_date=True)
     return changed, (related_count, related_stars)
 
 
 def maintain_method_base_fields(dry_run: bool = False, check: bool = False) -> int:
-    changed_count = 0
-    summaries: list[tuple[int, str, str]] = []
-    for path in iter_method_files():
-        changed, summary = update_method_base_fields(path, dry_run=dry_run, check=check)
-        if summary:
-            related_count, related_stars = summary
-            rel_path = path.relative_to(ROOT).as_posix()
-            summaries.append((related_count, related_stars, rel_path))
-        if changed:
-            changed_count += 1
-            prefix = "would update" if dry_run or check else "updated"
-            print(f"🧭 {prefix}: {path.relative_to(ROOT).as_posix()}")
-
-    summaries.sort(key=lambda item: item[0], reverse=True)
-    print(f"🧭 method base fields checked: {len(summaries)}; changed: {changed_count}")
-    for related_count, related_stars, rel_path in summaries[:10]:
-        print(f"{related_count:>3} {related_stars:<6} {rel_path}")
-    if check:
-        return 1 if changed_count else 0
-    return 0
+    return maintain_base_fields("method", "🧭", iter_method_files(),
+                                update_method_base_fields, dry_run=dry_run, check=check)
 
 
 def theory_field_for(path: Path) -> str:
@@ -920,41 +820,18 @@ def theory_stars_for(count: int) -> tuple[int, str]:
 
 
 def upsert_theory_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
-    lines = raw_frontmatter.rstrip("\n").splitlines()
-    filtered: list[str] = []
-    i = 0
-    while i < len(lines):
-        line = lines[i]
-        m_key = KEY_RE.match(line)
-        if m_key and m_key.group(1) in THEORY_GENERATED_KEYS:
-            i += 1
-            while i < len(lines) and re.match(r"^(?:\s+|-\s)", lines[i]):
-                i += 1
-            continue
-        filtered.append(line)
-        i += 1
-
-    insert_at = 0
-    for idx, line in enumerate(filtered):
-        if re.match(r"^type:\s*", line):
-            insert_at = idx + 1
-            break
-
-    generated = [
+    return vaultlib.upsert_generated_fields(raw_frontmatter, THEORY_GENERATED_KEYS, [
         f"theory_field: {yaml_string(str(fields['theory_field']))}",
         f"theory_related_count: {int(fields['theory_related_count'])}",
         f"theory_related_level: {int(fields['theory_related_level'])}",
         f"theory_related_stars: {yaml_string(str(fields['theory_related_stars']))}",
         f"theory_related_color: {yaml_string(str(fields['theory_related_color']))}",
-    ]
-    filtered[insert_at:insert_at] = generated
-    return "\n".join(filtered).rstrip() + "\n"
+    ],
+        stop_after=("type",))
 
 
 def iter_theory_files() -> list[Path]:
-    if not THEORIES_DIR.exists():
-        return []
-    return sorted(path for path in THEORIES_DIR.rglob("*.md") if path.is_file())
+    return iter_entry_files(THEORIES_DIR)
 
 
 def update_theory_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
@@ -976,37 +853,14 @@ def update_theory_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[b
         "theory_related_stars": related_stars,
         "theory_related_color": THEORY_COLORS[min(related_level, len(THEORY_COLORS) - 1)],
     })
-    next_text = f"---\n{next_frontmatter}---\n{body}"
-    changed = next_text != text
-    if changed and not dry_run and not check:
-        today_str = datetime.date.today().isoformat()
-        next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
-        next_text = f"---\n{next_frontmatter}---\n{body}"
-        write_md(path, next_text)
+    changed = write_base_fields(path, text, next_frontmatter, body,
+                                dry_run=dry_run, check=check, update_date=True)
     return changed, (related_count, related_stars)
 
 
 def maintain_theory_base_fields(dry_run: bool = False, check: bool = False) -> int:
-    changed_count = 0
-    summaries: list[tuple[int, str, str]] = []
-    for path in iter_theory_files():
-        changed, summary = update_theory_base_fields(path, dry_run=dry_run, check=check)
-        if summary:
-            related_count, related_stars = summary
-            rel_path = path.relative_to(ROOT).as_posix()
-            summaries.append((related_count, related_stars, rel_path))
-        if changed:
-            changed_count += 1
-            prefix = "would update" if dry_run or check else "updated"
-            print(f"🪜 {prefix}: {path.relative_to(ROOT).as_posix()}")
-
-    summaries.sort(key=lambda item: item[0], reverse=True)
-    print(f"🪜 theory base fields checked: {len(summaries)}; changed: {changed_count}")
-    for related_count, related_stars, rel_path in summaries[:10]:
-        print(f"{related_count:>3} {related_stars:<6} {rel_path}")
-    if check:
-        return 1 if changed_count else 0
-    return 0
+    return maintain_base_fields("theory", "🪜", iter_theory_files(),
+                                update_theory_base_fields, dry_run=dry_run, check=check)
 
 
 def fact_region_for(path: Path, meta: dict[str, Any]) -> str:
@@ -1034,46 +888,19 @@ def fact_color_for(kind: str, level: int) -> str:
 
 
 def upsert_fact_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
-    lines = raw_frontmatter.rstrip("\n").splitlines()
-    filtered: list[str] = []
-    i = 0
-    while i < len(lines):
-        line = lines[i]
-        m_key = KEY_RE.match(line)
-        if m_key and m_key.group(1) in FACT_GENERATED_KEYS:
-            i += 1
-            while i < len(lines) and re.match(r"^(?:\s+|-\s)", lines[i]):
-                i += 1
-            continue
-        filtered.append(line)
-        i += 1
-
-    insert_at = 0
-    for idx, line in enumerate(filtered):
-        if re.match(r"^region:\s*", line):
-            insert_at = idx + 1
-            break
-        if re.match(r"^subtype:\s*", line):
-            insert_at = idx + 1
-        if re.match(r"^type:\s*", line) and insert_at == 0:
-            insert_at = idx + 1
-
-    generated = [
+    return vaultlib.upsert_generated_fields(raw_frontmatter, FACT_GENERATED_KEYS, [
         f"fact_region: {yaml_string(str(fields['fact_region']))}",
         f"fact_kind: {yaml_string(str(fields['fact_kind']))}",
         f"fact_related_count: {int(fields['fact_related_count'])}",
         f"fact_related_level: {int(fields['fact_related_level'])}",
         f"fact_related_stars: {yaml_string(str(fields['fact_related_stars']))}",
         f"fact_related_color: {yaml_string(str(fields['fact_related_color']))}",
-    ]
-    filtered[insert_at:insert_at] = generated
-    return "\n".join(filtered).rstrip() + "\n"
+    ],
+        stop_after=("region",), after=("subtype",), fallback_after=("type",))
 
 
 def iter_fact_files() -> list[Path]:
-    if not FACTS_DIR.exists():
-        return []
-    return sorted(path for path in FACTS_DIR.rglob("*.md") if path.is_file())
+    return iter_entry_files(FACTS_DIR)
 
 
 def update_fact_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
@@ -1115,37 +942,14 @@ def update_fact_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[boo
         "fact_related_stars": related_stars,
         "fact_related_color": fact_color_for(kind, related_level),
     })
-    next_text = f"---\n{next_frontmatter}---\n{body}"
-    changed = next_text != text
-    if changed and not dry_run and not check:
-        today_str = datetime.date.today().isoformat()
-        next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
-        next_text = f"---\n{next_frontmatter}---\n{body}"
-        write_md(path, next_text)
+    changed = write_base_fields(path, text, next_frontmatter, body,
+                                dry_run=dry_run, check=check, update_date=True)
     return changed, (related_count, related_stars)
 
 
 def maintain_fact_base_fields(dry_run: bool = False, check: bool = False) -> int:
-    changed_count = 0
-    summaries: list[tuple[int, str, str]] = []
-    for path in iter_fact_files():
-        changed, summary = update_fact_base_fields(path, dry_run=dry_run, check=check)
-        if summary:
-            related_count, related_stars = summary
-            rel_path = path.relative_to(ROOT).as_posix()
-            summaries.append((related_count, related_stars, rel_path))
-        if changed:
-            changed_count += 1
-            prefix = "would update" if dry_run or check else "updated"
-            print(f"🧩 {prefix}: {path.relative_to(ROOT).as_posix()}")
-
-    summaries.sort(key=lambda item: item[0], reverse=True)
-    print(f"🧩 fact base fields checked: {len(summaries)}; changed: {changed_count}")
-    for related_count, related_stars, rel_path in summaries[:10]:
-        print(f"{related_count:>3} {related_stars:<6} {rel_path}")
-    if check:
-        return 1 if changed_count else 0
-    return 0
+    return maintain_base_fields("fact", "🧩", iter_fact_files(),
+                                update_fact_base_fields, dry_run=dry_run, check=check)
 
 
 def person_region_for(path: Path, meta: dict[str, Any]) -> str:
@@ -1166,46 +970,18 @@ def person_stars_for(count: int) -> tuple[int, str]:
 
 
 def upsert_person_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
-    lines = raw_frontmatter.rstrip("\n").splitlines()
-    filtered: list[str] = []
-    i = 0
-    while i < len(lines):
-        line = lines[i]
-        m_key = KEY_RE.match(line)
-        if m_key and m_key.group(1) in PERSON_GENERATED_KEYS:
-            i += 1
-            while i < len(lines) and re.match(r"^(?:\s+|-\s)", lines[i]):
-                i += 1
-            continue
-        filtered.append(line)
-        i += 1
-
-    insert_at = 0
-    for idx, line in enumerate(filtered):
-        if re.match(r"^nationality:\s*", line):
-            insert_at = idx + 1
-            break
-        if re.match(r"^subtype:\s*", line):
-            insert_at = idx + 1
-            break
-        if re.match(r"^type:\s*", line) and insert_at == 0:
-            insert_at = idx + 1
-
-    generated = [
+    return vaultlib.upsert_generated_fields(raw_frontmatter, PERSON_GENERATED_KEYS, [
         f"person_region: {yaml_string(str(fields['person_region']))}",
         f"person_related_count: {int(fields['person_related_count'])}",
         f"person_related_level: {int(fields['person_related_level'])}",
         f"person_related_stars: {yaml_string(str(fields['person_related_stars']))}",
         f"person_related_color: {yaml_string(str(fields['person_related_color']))}",
-    ]
-    filtered[insert_at:insert_at] = generated
-    return "\n".join(filtered).rstrip() + "\n"
+    ],
+        stop_after=("nationality", "subtype"), fallback_after=("type",))
 
 
 def iter_person_files() -> list[Path]:
-    if not PERSONS_DIR.exists():
-        return []
-    return sorted(path for path in PERSONS_DIR.rglob("*.md") if path.is_file())
+    return iter_entry_files(PERSONS_DIR)
 
 
 def update_person_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
@@ -1260,37 +1036,14 @@ def update_person_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[b
         "person_related_stars": related_stars,
         "person_related_color": PERSON_COLORS[min(related_level, len(PERSON_COLORS) - 1)],
     })
-    next_text = f"---\n{next_frontmatter}---\n{body}"
-    changed = next_text != text
-    if changed and not dry_run and not check:
-        today_str = datetime.date.today().isoformat()
-        next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
-        next_text = f"---\n{next_frontmatter}---\n{body}"
-        write_md(path, next_text)
+    changed = write_base_fields(path, text, next_frontmatter, body,
+                                dry_run=dry_run, check=check, update_date=True)
     return changed, (related_count, related_stars)
 
 
 def maintain_person_base_fields(dry_run: bool = False, check: bool = False) -> int:
-    changed_count = 0
-    summaries: list[tuple[int, str, str]] = []
-    for path in iter_person_files():
-        changed, summary = update_person_base_fields(path, dry_run=dry_run, check=check)
-        if summary:
-            related_count, related_stars = summary
-            rel_path = path.relative_to(ROOT).as_posix()
-            summaries.append((related_count, related_stars, rel_path))
-        if changed:
-            changed_count += 1
-            prefix = "would update" if dry_run or check else "updated"
-            print(f"👤 {prefix}: {path.relative_to(ROOT).as_posix()}")
-
-    summaries.sort(key=lambda item: item[0], reverse=True)
-    print(f"👤 person base fields checked: {len(summaries)}; changed: {changed_count}")
-    for related_count, related_stars, rel_path in summaries[:10]:
-        print(f"{related_count:>3} {related_stars:<6} {rel_path}")
-    if check:
-        return 1 if changed_count else 0
-    return 0
+    return maintain_base_fields("person", "👤", iter_person_files(),
+                                update_person_base_fields, dry_run=dry_run, check=check)
 
 
 def argument_kind_for(path: Path, meta: dict[str, Any]) -> str:
@@ -1359,31 +1112,7 @@ def argument_display_title_for(path: Path, meta: dict[str, Any]) -> str:
 
 
 def upsert_argument_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
-    lines = raw_frontmatter.rstrip("\n").splitlines()
-    filtered: list[str] = []
-    i = 0
-    while i < len(lines):
-        line = lines[i]
-        m_key = KEY_RE.match(line)
-        if m_key and m_key.group(1) in ARGUMENT_GENERATED_KEYS:
-            i += 1
-            while i < len(lines) and re.match(r"^(?:\s+|-\s)", lines[i]):
-                i += 1
-            continue
-        filtered.append(line)
-        i += 1
-
-    insert_at = 0
-    for idx, line in enumerate(filtered):
-        if re.match(r"^publication_type:\s*", line):
-            insert_at = idx + 1
-            break
-        if re.match(r"^subtype:\s*", line):
-            insert_at = idx + 1
-        if re.match(r"^type:\s*", line) and insert_at == 0:
-            insert_at = idx + 1
-
-    generated = [
+    return vaultlib.upsert_generated_fields(raw_frontmatter, ARGUMENT_GENERATED_KEYS, [
         f"title: {yaml_string(str(fields['argument_key']))}",
         f"argument_key: {yaml_string(str(fields['argument_key']))}",
         f"argument_display_title: {yaml_string(str(fields['argument_display_title']))}",
@@ -1392,15 +1121,12 @@ def upsert_argument_generated_fields(raw_frontmatter: str, fields: dict[str, Any
         f"argument_related_level: {int(fields['argument_related_level'])}",
         f"argument_related_stars: {yaml_string(str(fields['argument_related_stars']))}",
         f"argument_related_color: {yaml_string(str(fields['argument_related_color']))}",
-    ]
-    filtered[insert_at:insert_at] = generated
-    return "\n".join(filtered).rstrip() + "\n"
+    ],
+        stop_after=("publication_type",), after=("subtype",), fallback_after=("type",))
 
 
 def iter_argument_files() -> list[Path]:
-    if not ARGUMENTS_DIR.exists():
-        return []
-    return sorted(path for path in ARGUMENTS_DIR.rglob("*.md") if path.is_file())
+    return iter_entry_files(ARGUMENTS_DIR)
 
 
 def update_argument_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
@@ -1424,34 +1150,14 @@ def update_argument_base_fields(path: Path, dry_run: bool, check: bool) -> tuple
         "argument_related_stars": related_stars,
         "argument_related_color": argument_color_for(kind, related_level),
     })
-    next_text = f"---\n{next_frontmatter}---\n{body}"
-    changed = next_text != text
-    if changed and not dry_run and not check:
-        write_md(path, next_text)
+    changed = write_base_fields(path, text, next_frontmatter, body,
+                                dry_run=dry_run, check=check, update_date=False)
     return changed, (related_count, related_stars)
 
 
 def maintain_argument_base_fields(dry_run: bool = False, check: bool = False) -> int:
-    changed_count = 0
-    summaries: list[tuple[int, str, str]] = []
-    for path in iter_argument_files():
-        changed, summary = update_argument_base_fields(path, dry_run=dry_run, check=check)
-        if summary:
-            related_count, related_stars = summary
-            rel_path = path.relative_to(ROOT).as_posix()
-            summaries.append((related_count, related_stars, rel_path))
-        if changed:
-            changed_count += 1
-            prefix = "would update" if dry_run or check else "updated"
-            print(f"🔎 {prefix}: {path.relative_to(ROOT).as_posix()}")
-
-    summaries.sort(key=lambda item: item[0], reverse=True)
-    print(f"🔎 argument base fields checked: {len(summaries)}; changed: {changed_count}")
-    for related_count, related_stars, rel_path in summaries[:10]:
-        print(f"{related_count:>3} {related_stars:<6} {rel_path}")
-    if check:
-        return 1 if changed_count else 0
-    return 0
+    return maintain_base_fields("argument", "🔎", iter_argument_files(),
+                                update_argument_base_fields, dry_run=dry_run, check=check)
 
 
 # Frontmatter lines that tools maintain; a diff touching only these is not a

@@ -12,11 +12,13 @@ Contents
   bootstrap        ensure_venv()
   paths            ROOT, rel(), rel_to_root(), is_under()
   frontmatter      split_frontmatter(), frontmatter_raw(), parse_frontmatter_light()
+                   upsert_generated_fields() preserves type-specific field ordering
   YAML scalars     parse_scalar(), parse_inline_list(), yaml_quote()
   wikilinks        WIKILINK_RE, parse_wikilink(), wikilink_display(), wikilink_target()
   git              git_output(), git_files_at_ref(), parse_name_status_z(),
                    git_status_paths(), git_diff_paths()
-  JSON / files     load_json(), dump_json(), write_if_changed()
+  JSON / files     load_json() (optional required reads), dump_json() (optional atomic
+                   replace for task state), write_if_changed()
   text             has_cjk(), dedupe(), norm_doi(), normalized_source_language(),
                    author_label(), chinese_author_part(), asset_url_for_path()
 
@@ -165,6 +167,45 @@ def split_frontmatter(text: str) -> FrontmatterSplit:
 
 def frontmatter_raw(text: str) -> str | None:
     return split_frontmatter(text).raw
+
+
+def upsert_generated_fields(
+    raw: str, keys: set[str], generated: list[str], *,
+    stop_after: tuple[str, ...], after: tuple[str, ...] = (),
+    fallback_after: tuple[str, ...] = (),
+) -> str:
+    """Replace generated YAML fields, preserving each caller's anchor rules.
+
+    Stop at the first stop_after key; otherwise use the last after key, or
+    the first fallback_after key if no insertion position has been found.
+    Existing generated block-list continuations are removed with their key.
+    """
+    lines = raw.rstrip("\n").splitlines()
+    filtered: list[str] = []
+    i = 0
+    while i < len(lines):
+        match = re.match(r"^([A-Za-z0-9_-]+):\s*(.*)$", lines[i])
+        if match and match[1] in keys:
+            i += 1
+            while i < len(lines) and re.match(r"^(?:\s+|-\s)", lines[i]):
+                i += 1
+            continue
+        filtered.append(lines[i])
+        i += 1
+
+    insert_at = 0
+    for idx, line in enumerate(filtered):
+        match = re.match(r"^([A-Za-z0-9_-]+):\s*", line)
+        if not match:
+            continue
+        key = match[1]
+        if key in stop_after:
+            insert_at = idx + 1
+            break
+        if key in after or (key in fallback_after and insert_at == 0):
+            insert_at = idx + 1
+    filtered[insert_at:insert_at] = generated
+    return "\n".join(filtered).rstrip() + "\n"
 
 
 _KEY_RE = re.compile(r"^([A-Za-z0-9_][A-Za-z0-9_-]*):(?:\s+(.*)|\s*)$")
@@ -480,18 +521,25 @@ def git_diff_paths(base: str, head: str = "HEAD", pathspecs: Iterable[str] = (),
 # JSON / files
 # =============================================================================
 
-def load_json(path: Path, default: Any = None) -> Any:
-    """Parse a JSON file (a UTF-8 BOM is accepted); default when missing."""
+def load_json(path: Path, default: Any = None, *, required: bool = False) -> Any:
+    """Parse JSON (UTF-8 BOM accepted); required=True raises on missing files."""
     path = Path(path)
-    if not path.exists():
+    if not required and not path.exists():
         return default
     return json.loads(path.read_text(encoding="utf-8-sig"))
 
 
-def dump_json(path: Path, data: Any, *, indent: int = 1, sort_keys: bool = False) -> None:
-    Path(path).parent.mkdir(parents=True, exist_ok=True)
-    Path(path).write_text(json.dumps(data, ensure_ascii=False, indent=indent, sort_keys=sort_keys) + "\n",
-                          encoding="utf-8")
+def dump_json(
+    path: Path, data: Any, *, indent: int = 1, sort_keys: bool = False, atomic: bool = False,
+) -> None:
+    """Write JSON; atomic=True preserves related-update state via sibling replace."""
+    path = Path(path)
+    path.parent.mkdir(parents=True, exist_ok=True)
+    destination = path.with_suffix(path.suffix + ".tmp") if atomic else path
+    destination.write_text(json.dumps(data, ensure_ascii=False, indent=indent, sort_keys=sort_keys) + "\n",
+                           encoding="utf-8")
+    if atomic:
+        destination.replace(path)
 
 
 def write_if_changed(path: Path, content: str, *, dry_run: bool = False, check: bool = False) -> bool:

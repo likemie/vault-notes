@@ -13,7 +13,6 @@ import contextlib
 import datetime as dt
 import fcntl
 import hashlib
-import json
 import re
 import shlex
 import shutil
@@ -22,11 +21,12 @@ import sys
 import unicodedata
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[1]
+import vaultlib
+
+ROOT = vaultlib.ROOT
 VENV = ROOT / ".venv/bin/python3"
-if __name__ == "__main__" and VENV.exists() and Path(sys.prefix).resolve() != ROOT / ".venv":
-    import os
-    os.execv(str(VENV), [str(VENV), *sys.argv])
+if __name__ == "__main__":
+    vaultlib.ensure_venv()
 
 import yaml
 
@@ -51,13 +51,11 @@ def stamp():
 
 
 def read_json(path):
-    return json.loads(path.read_text(encoding="utf-8"))
+    return vaultlib.load_json(path, required=True)
 
 
 def write_json(path, value):
-    temp = path.with_suffix(path.suffix + ".tmp")
-    temp.write_text(json.dumps(value, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
-    temp.replace(path)
+    vaultlib.dump_json(path, value, indent=2, atomic=True)
 
 
 def fingerprint(path):
@@ -70,15 +68,15 @@ def key(value):
 
 def target(value):
     value = str(value).strip().removeprefix("[[").removesuffix("]]")
-    return value.replace("\\|", "|").split("|", 1)[0].split("#", 1)[0].removesuffix(".md").strip()
+    return vaultlib.parse_wikilink(value)[0].removesuffix(".md").strip()
 
 
 def read_note(path):
     text = path.read_text(encoding="utf-8")
-    match = re.match(r"\A---\s*\n(.*?)\n---\s*\n", text, re.S)
-    if not match:
+    split = vaultlib.split_frontmatter(text)
+    if not split.found:
         raise ValueError(f"缺少 frontmatter: {path}")
-    return yaml.safe_load(match[1]) or {}, text[match.end():]
+    return yaml.safe_load(split.raw) or {}, split.body
 
 
 class Lookup:
@@ -205,7 +203,8 @@ def prepare_prompt(job, state, batch, *, managed=False):
             "运行下方 accept，由其执行正常增量 vault_index→vault_lint 并登记本批完成，无须重复手动检查；随后停止，失败也停止。",
             "保存结果后停止；外部执行器负责正常增量 vault_index→vault_lint 及登记本批完成，勿调用本脚本。",
         )
-    templates = list(dict.fromkeys(entry_template(entry) for entry in batch["entries"]))
+    entry_templates = [entry_template(entry) for entry in batch["entries"]]
+    templates = list(dict.fromkeys(entry_templates))
     if batch.get("template") and (templates != [batch["template"]]
             or any(e["type"] != batch["type"] for e in batch["entries"])):
         raise ValueError("本批类型或模板已变化，请重新生成任务")
@@ -213,9 +212,9 @@ def prepare_prompt(job, state, batch, *, managed=False):
     if len(templates) == 1:
         prompt += f"本批类型：{batch['entries'][0]['type']}；统一模板：{templates[0]}\n"
     prompt += "目标（按序）：\n"
-    for position, entry in enumerate(batch["entries"], 1):
+    for position, (entry, template) in enumerate(zip(batch["entries"], entry_templates), 1):
         # Old queues remain readable without reordering existing status records.
-        suffix = f" → 模板 {templates.index(entry_template(entry)) + 1}" if len(templates) > 1 else ""
+        suffix = f" → 模板 {templates.index(template) + 1}" if len(templates) > 1 else ""
         prompt += f"{position}. {entry['path']}{suffix}\n"
     prompt += "\n必读规范：wiki/templates/TEMPLATE-SPEC.md、wiki/templates/CALLOUTS.md\n"
     if len(templates) > 1:
