@@ -5370,10 +5370,8 @@
     "Dai et al., 2024b": "Dai et al., 2024b",
     "Dalby (2013)": "Dalby, 2013",
     "Dalby, 2013": "Dalby, 2013",
-    "Dale & Robertson (2009)": "Dale & Robertson, 2009",
     "Dale & Robertson among others. Dale (1999)": "Dale & Robertson among others. Dale, 1999",
     "Dale & Robertson among others. Dale, 1999": "Dale & Robertson among others. Dale, 1999",
-    "Dale & Robertson, 2009": "Dale & Robertson, 2009",
     "Dale (1999)": "Dale, 1999",
     "Dale (2000)": "Dale, 2000",
     "Dale (2002)": "Dale, 2002",
@@ -14842,6 +14840,8 @@
     "Mandinach & Gummer, 2016": "Mandinach & Gummer, 2016",
     "Mangan (1986)": "Mangan, 1986",
     "Mangan, 1986": "Mangan, 1986",
+    "Mangez & Hilgers (2012)": "Mangez & Hilgers, 2012",
+    "Mangez & Hilgers, 2012": "Mangez & Hilgers, 2012",
     "Mangino (2004)": "Mangino, 2004",
     "Mangino, 2004": "Mangino, 2004",
     "Manhart (2016)": "Manhart, 2016",
@@ -26084,7 +26084,9 @@
     "中国北京, 2016": "中国北京, 2016",
     "临床医疗 (2025)": "临床医疗, 2025",
     "临床医疗, 2025": "临床医疗, 2025",
+    "丹麦 (2000)": "丹麦, 2000",
     "丹麦 (2011)": "丹麦, 2011",
+    "丹麦, 2000": "丹麦, 2000",
     "丹麦, 2011": "丹麦, 2011",
     "为入口 (2009)": "为入口, 2009",
     "为入口, 2009": "为入口, 2009",
@@ -26228,6 +26230,8 @@
     "基辛格, 2000": "基辛格, 2000",
     "基钦 (2014)": "基钦, 2014",
     "基钦, 2014": "基钦, 2014",
+    "墨西哥 (2008)": "墨西哥, 2008",
+    "墨西哥, 2008": "墨西哥, 2008",
     "大前研一 (1990)": "大前研一, 1990",
     "大前研一, 1990": "大前研一, 1990",
     "大阪 (1931)": "大阪, 1931",
@@ -65812,24 +65816,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/uk/Roger Dale.md"
-      ],
-      "title": ""
-    },
-    "Dale & Robertson, 2009": {
-      "aliases": [
-        "Dale & Robertson, 2009",
-        "Dale & Robertson (2009)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Dale & Robertson, 2009"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
-        "wiki/concepts/comparative-education/Methodological Educationism.md",
-        "wiki/concepts/comparative-education/Methodological Nationalism.md",
-        "wiki/concepts/educational-policy-reform/Theories of Policy Change.md"
       ],
       "title": ""
     },
@@ -134449,6 +134435,22 @@
       ],
       "title": ""
     },
+    "Mangez & Hilgers, 2012": {
+      "aliases": [
+        "Mangez & Hilgers, 2012",
+        "Mangez & Hilgers (2012)"
+      ],
+      "doi": "10.2304/eerj.2012.11.2.189",
+      "identity_keys": [
+        "Mangez & Hilgers, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
+        "wiki/concepts/sociology-of-education/Dual Hierarchization Principles.md"
+      ],
+      "title": "The Field of Knowledge and the Policy Field in Education: PISA and the Production of Knowledge for Policy"
+    },
     "Mangino, 2004": {
       "aliases": [
         "Mangino, 2004",
@@ -161281,6 +161283,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
+        "wiki/concepts/comparative-education/Learning Knowledge and Policy Knowledge.md",
         "wiki/theories/comparative-education/Three-Level Mechanism Model of PISA's Impact on Education Policy.md"
       ],
       "title": "What Do We Really Learn from PISA? The Sociology of Its Reception in Three European Countries (2001–2008)"
@@ -164862,6 +164865,7 @@
       "seen_in": [
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
         "wiki/arguments/journal-articles/Humanities and Social Sciences Communications/Argument_Li_2025_HSSC.md",
+        "wiki/concepts/comparative-education/The Curse of Success.md",
         "wiki/concepts/educational-policy-reform/Global Education Reform Movement.md"
       ],
       "title": "The Uses of the National PISA Results by Finnish Officials in Central Government"
@@ -215439,6 +215443,21 @@
       ],
       "title": ""
     },
+    "丹麦, 2000": {
+      "aliases": [
+        "丹麦, 2000",
+        "丹麦 (2000)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "丹麦, 2000"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/The Curse of Success.md"
+      ],
+      "title": ""
+    },
     "丹麦, 2011": {
       "aliases": [
         "丹麦, 2011",
@@ -216568,6 +216587,21 @@
       ],
       "title": ""
     },
+    "墨西哥, 2008": {
+      "aliases": [
+        "墨西哥, 2008",
+        "墨西哥 (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "墨西哥, 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/The Curse of Success.md"
+      ],
+      "title": ""
+    },
     "大前研一, 1990": {
       "aliases": [
         "大前研一, 1990",
@@ -217035,7 +217069,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/comparative-education/PISA Shock.md"
+        "wiki/concepts/comparative-education/PISA Shock.md",
+        "wiki/concepts/comparative-education/The Curse of Success.md"
       ],
       "title": ""
     },

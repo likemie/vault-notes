@@ -846,15 +846,32 @@ def programme_outcome_table(outcomes: list[dict], prefix: str) -> list[str]:
     return lines
 
 
+PENDING = '<span class="eef-pending">待核实</span>'
+
+
 def programme_date_range(record: dict, prefix: str) -> str:
     start, end = record.get(prefix + "_start"), record.get(prefix + "_end")
     if start and end:
         return f"{start} 至 {end}"
     if start:
-        return f"始于 {start}；结束时间未提供"
+        return f"{start} 至 {PENDING}"
     if end:
-        return f"结束于 {end}；开始时间未提供"
-    return "起止日期未提供"
+        return f"{PENDING} 至 {end}"
+    return PENDING
+
+
+def programme_project_period(trial: dict) -> str | None:
+    """Infer only the page project period; never populate observed study/teaching dates."""
+    duration = trial.get("page_project_duration") or ""
+    completed = trial.get("completed") or ""
+    match = re.fullmatch(r"(\d+) year\(s\) (\d+) month\(s\)", duration)
+    if not match or not re.fullmatch(r"\d{4}-(0[1-9]|1[0-2])", completed):
+        return None
+    years, months = map(int, match.groups())
+    year, month = map(int, completed.split("-"))
+    start_year, start_month = divmod(year * 12 + month - 1 - years * 12 - months, 12)
+    return (f"{start_year:04d}-{start_month + 1:02d} 至 {completed}"
+            f"（{years} 年 {months} 个月；起点按周期倒推，{PENDING}）")
 
 
 def render_programme_v2(slug: str, p: dict, errata: list) -> str:
@@ -875,7 +892,8 @@ def render_programme_v2(slug: str, p: dict, errata: list) -> str:
     for trial in p.get("trials", []):
         r = trial.get("record", {})
         phase = "推广" if trial.get("kind") == "scale_up" else EVIDENCE_TYPE_ZH.get(trial.get("type"), trial.get("type") or "阶段未提供")
-        study_time = programme_date_range(r, "study") + f"；页面完成时间 {trial.get('completed') or '未提供'}"
+        study_time = programme_date_range(r, "study") + f"；页面完成时间 {trial.get('completed') or PENDING}"
+        project_period = programme_project_period(trial)
         intervention_time = programme_date_range(r, "intervention")
         if r.get("intervention_weeks") is not None:
             intervention_time += f"；持续 {r['intervention_weeks']} 周"
@@ -890,8 +908,15 @@ def render_programme_v2(slug: str, p: dict, errata: list) -> str:
             dose += "；" + r["delivery_scope"]
         trial_cost = (f"£{r['cost_per_pupil_year']:g}／生／年，按 {r['cost_amortisation_years']} 年摊销"
                       if r.get("cost_per_pupil_year") is not None and r.get("cost_amortisation_years") is not None else "未核实")
+        if r.get("school_cost_year_one") is not None:
+            trial_cost += f"；学校首年 £{r['school_cost_year_one']:,.0f}"
+        if r.get("school_cost_annual_average") is not None:
+            trial_cost += f"；学校年均 £{r['school_cost_annual_average']:g}"
+        if r.get("cost_exclusions"):
+            trial_cost += "；" + r["cost_exclusions"]
         lines += [">", f"> > [!eef-trial]- [{esc(trial['label'])}]({trial['url']}) · {esc(phase)}",
-                  f"> > - **试验时间** {study_time}",
+                  *([f"> > - **项目周期** {project_period}"] if project_period else []),
+                  f"> > - **试验时间** {study_time if not project_period else programme_date_range(r, 'study')}",
                   f"> > - **干预时间** {intervention_time}",
                   f"> > - **独立评估** {esc(r.get('evaluator_zh') or trial.get('evaluator') or '未提供')}",
                   f"> > - **样本规模** {sample}",
@@ -909,32 +934,24 @@ def render_programme_v2(slug: str, p: dict, errata: list) -> str:
         if subgroup:
             lines += ["> >", f"> > > [!eef-subgroups]- {len(subgroup)} 项亚组结果", "> > >"]
             lines += programme_outcome_table(subgroup, "> > > ")
-        lines += ["> >", "> > > [!eef-trial-notes]- 实施场景与评估资料"]
-        if r.get("funder"):
-            lines.append(f"> > > - **评估资助** {esc(r['funder'])}")
-        if trial.get("page_project_duration"):
-            lines.append(f"> > > - **页面项目周期** {esc(trial['page_project_duration'])}；具体试验起止仍以研究安排为准。")
+        lines += ["> >", "> > > [!eef-trial-notes]- 样本特征与研究资料"]
         if r.get("design_note"):
             lines.append(f"> > > - **研究设计** {esc(r['design_note'])}")
         for context in r.get("sample_context", []):
             lines.append(f"> > > - **样本特征** {esc(context)}")
-        if r.get("school_cost_year_one") is not None:
-            lines.append(f"> > > - **首年学校成本** £{r['school_cost_year_one']:g}。")
-        if r.get("school_cost_annual_average") is not None:
-            lines.append(f"> > > - **学校年均成本** £{r['school_cost_annual_average']:g}，按三年摊销。")
-        if r.get("cost_assumption"):
-            lines.append(f"> > > - **成本假设** {esc(r['cost_assumption'])}")
-        if r.get("cost_exclusions"):
-            lines.append(f"> > > - **成本未含项目** {esc(r['cost_exclusions'])}")
         for document in trial.get("documents", []):
             title = document.get("title") or "文件"
+            title = {"Evaluation Protocol": "研究方案", "Evaluation protocol": "研究方案",
+                     "Evaluation protocol [v2]": "研究方案（修订版）", "Statistical Analysis Plan": "统计分析计划",
+                     "Statistical Analysis Plan (SAP)": "统计分析计划", "Project Report": "评估报告",
+                     "Evaluation report": "评估报告", "Further Appendices": "补充附录"}.get(title, title)
             url = document.get("url")
             if url:
                 date = (document.get("uploaded_at") or "")[:10]
                 lines.append(f"> > > - **评估资料** [{esc(title)}]({url})" + (f"；附件上传 {date}。" if date else ""))
         for note in r.get("review_notes", []):
-            lines.append(f"> > > - **待核事项** {esc(note)}")
-        lines += ["> >", "> > 月数、原始效应量与评级按各行保留；具体测量时点及未报告信息待评估报告核验。"]
+            lines.append(f"> > > - {PENDING} {esc(note)}")
+
     notes = p.get("review_notes", []) + [e.get("note", "") for e in errata if e.get("programme") == slug]
     if notes:
         lines += [">", f"> > [!eef-errata]- {len(notes)} 项项目核验说明"]

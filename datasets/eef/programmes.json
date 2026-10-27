@@ -115,7 +115,7 @@
       "sessions_per_week": 3,
       "session_minutes": 30,
       "group_size": 4,
-      "duration_note": "页面项目周期为 2 年 8 个月，试验起止日期未提供。",
+      "duration_note": "按页面完成时间 2018-07 减去项目周期 2 年 8 个月，推算项目起点为 2015-11；实际试验及授课日期待核实。",
       "evaluator_zh": "牛津大学（University of Oxford）",
       "developer": "边山大学（Edge Hill University）的 Every Child Counts 团队",
       "delivery_personnel": "受训助教；校内联络教师协调",
@@ -258,7 +258,7 @@
       "session_minutes": 30,
       "group_size": 4,
       "duration_note": "试验起止日期未提供，页面完成时间待核。",
-      "evaluator_zh": "NFER",
+      "evaluator_zh": "英国国家教育研究基金会（National Foundation for Educational Research，NFER）",
       "developer": "边山大学（Edge Hill University）的 Every Child Counts 团队",
       "delivery_personnel": "受训助教；校内联络教师协调",
       "funder": "EEF 委托评估，属于英国教育部 Accelerator Fund 的支持安排",
@@ -275,14 +275,14 @@
       "sample_context": [
        "73% 的试验学校属于全国免费校餐资格比例最高的 40% 学校。",
        "91% 位于城市，全国对应比例为 70%。",
-       "学校 KS2 数学达标率均值为 70.4，全国为 73.1。"
+       "学校 第二关键阶段（Key Stage 2，KS2） 数学达标率均值为 70.4，全国为 73.1。"
       ],
-      "design_note": "场景段列出随机分配学校 226 所；随机分配程序和分析方法待报告核验。",
+      "design_note": "随机分配程序和分析方法待报告核验。",
       "review_notes": [
-       "页面学校字段为 235 所，场景段列出随机分配学校 226 所，两者差额原因待核。",
-       "页面完成时间为 2026 年 10 月，评估报告附件上传日期为 2025 年 6 月 25 日；两项时间含义待核。",
-       "培训次数在导言与实施段的计数表述不同，待核。"
-      ]
+       "页面登记与随机分配学校数的差额原因待核。",
+       "页面完成时间晚于评估报告附件上传日期，两项时间含义待核。"
+      ],
+      "evaluator_url": "https://www.nfer.ac.uk/about-nfer/"
      }
     }
    ],

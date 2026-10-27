@@ -23957,3 +23957,14 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > :is(table, table:has(th:nth-child(6))) td:nth-child(n):first-child {
   white-space: nowrap !important;
 }
+
+/* EEF 缺失或推算待核字段：正文与卡片采用相同的文字状态。 */
+body .markdown-rendered .eef-pending,
+body .callout.callout.callout[data-callout="eef-programme"][data-callout-metadata="v2"] .eef-pending {
+  color: #b42318 !important;
+  font-weight: 600 !important;
+}
+body.theme-dark .markdown-rendered .eef-pending,
+body.theme-dark .callout.callout.callout[data-callout="eef-programme"][data-callout-metadata="v2"] .eef-pending {
+  color: #ff9b94 !important;
+}

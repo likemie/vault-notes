@@ -23,6 +23,9 @@ tags:
   - policy-borrowing
   - source/journal-article
 related_concepts:
+  - "[[The Curse of Success]]"
+  - "[[Dual Hierarchization Principles]]"
+  - "[[Learning Knowledge and Policy Knowledge]]"
   - "[[Global Eye and Tutorable Body]]"
   - "[[Global Testing Culture]]"
   - "[[Theoretical Perspective]]"
@@ -99,6 +102,7 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
 related_persons:
+  - "[[Xavier Pons]]"
   - "[[John W. Meyer]]"
   - "[[Pierre Bourdieu]]"
   - "[[Stephen Ball]]"
@@ -139,9 +143,9 @@ title: "Argument_Xie_Li_Huang_2021_GEO"
 argument_key: "Argument_Xie_Li_Huang_2021_GEO"
 argument_display_title: "全球药方还是特洛伊木马? PISA的教育政策效应批判——一份基于教育政策社会学视角的文献报告"
 argument_kind: "journal-article"
-argument_related_count: 99
-argument_related_level: 9
-argument_related_stars: "💎💎💎"
+argument_related_count: 101
+argument_related_level: 10
+argument_related_stars: "💎💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: "Global Education Outlook"
 book_title: ""
@@ -398,8 +402,8 @@ issuing_organization: ""
 
 #### 3. 行动者网络层面：学术与政治两类知识在转译博弈中引发政策趋异
 
-> [!contrast-table] PISA 知识转译中的学术知识与政治知识对照（Pons, 2011）
-> | 比较维度 | 学术知识 | 政治知识 |
+> [!contrast-table] PISA 知识转译中的[[Learning Knowledge and Policy Knowledge|学习性知识与政策性知识对照]]（Pons, 2011）
+> | 比较维度 | 学习性知识 | 政策性知识 |
 > |---|---|---|
 > | **核心关切** | 方法论严谨性、抽样偏差、测量误差与[[Cross-cultural Validity\|跨文化效度]] | 榜单排名、媒体轰动效应与公信力正当化 |
 > | **认知特征** | 复杂的上下文情境、多[[Variable\|变量]]交互与方法论怀疑 | 去背景化的口号、非黑即白的政绩裁决与危机标签 |
@@ -408,9 +412,9 @@ issuing_organization: ""
 
 > [!actor-grid] 国内[[Policy Network|政策网络]]知识转译的四类本土博弈场
 > - **分权体制缓冲** 在联邦制国家（如美国），高度分散的地方学区与州教育委员会在宪法上享有自治权，联邦政府缺乏强制推行统考的行政抓手，在制度上稀释了 PISA 数据的集权冲击（Dobbins & Martens, 2010）。
-> - **劳资利益博弈** 在高分国家（如芬兰），中央政府将优异排位归功于顶层设计并借机削减预算，教师工会则抨击当局漠视一线过劳并要求提高薪资，形成成功者的诅咒（Rautalin & Alasuutari, 2009）。
+> - **劳资利益博弈** 在高分国家（如芬兰），中央政府将优异排位归功于顶层设计并借机削减预算，教师工会则抨击当局漠视一线过劳并要求提高薪资，形成[[The Curse of Success|成功者的诅咒]]（Rautalin & Alasuutari, 2009）。
 > - **大众媒介放大** 商业化大众传媒热衷制造教育灾难与国家危机，将复杂的统计量化直接降解为吸引眼球的排位竞技，加剧了教育决策的政治化与部长化（Ball, 2012; Stack, 2007）。
-> - **专业知识抵制** 学术共同体与教师专业团体坚守教育复杂性与本土文化传统（如法国教育学者与工会），对去背景化的量化指标展开方法论批判，抵制跨国新自由主义渗透（Pons, 2011, 2016）。
+> - **专业知识抵制** 学术共同体与教师专业团体坚守教育复杂性与本土文化传统（如法国教育学者与工会），对去背景化的量化指标展开方法论批判，抵制跨国新自由主义渗透（[[Xavier Pons|Pons, 2011, 2016]]）。
 
 > [!warrant]- 步骤三推理桥梁：多层因果系统如何促成表层趋同与深层趋异并存
 > 跨国教育治理呈现为由超国家组织、主权国家与国内行动者网络共同驱动的多层动力学系统。超国家认知共同体确立了全球通用的政策词汇表，主权国家通过外部化借用消解本土改革阻力，而国内政策网络在学术理性与政治功利的撕裂中展开竞争性知识转译。正是三层机制的差异化交互，解释了全球教育政策在话语表层高度趋同与在微观实践深层持续趋异的结构性悖论。
@@ -426,7 +430,7 @@ issuing_organization: ""
 > - **新制度主义世界社会理论：[[Global Testing Culture\|全球考试文化]]与制度脱节**
 >   约翰·迈耶与布赖恩·罗恩（Meyer & Rowan, 1977, 2006）的世界社会理论阐明，二战后主权国家对现代学校体制的接纳是理性主义世界文化全球扩散的产物，超越了单一工业化技术环境的解释范畴。PISA 的制度合法性正是[[Global Testing Culture|全球考试文化]]制度化的产物（Ahsan & Smith, 2016）。该文化信奉[[Positivism|实证主义]]、个体主义与新自由主义问责。参与 PISA 成为主权国家确立自身现代性合法地位的仪式性要求，进而诱发了国家正式政策修辞与学校实际教学之间的深层制度脱节（Decoupling）。
 > - **场域与资本理论：全球教育政策场域与统计测量资本**
->   皮埃尔·布迪厄（Bourdieu, 1998）的场域理论弥补了传统分析只关注国家内部的局限。[[Bob Lingard|鲍勃·林加德]]与肖恩·罗沃尔（Lingard & Rawolle, 2011）据此提炼出相对自主的[[Global Educational Policy Field\|全球教育政策场域]]。经合组织通过制造跨国可通约指标积聚了巨额的统计测量资本与象征资本，进而演化为跨国教育仲裁者。主权国家自身的综合资本储量（地缘政治地位、经济与人力资本）则构成其抵御超国家场域支配力量的关键防护层。
+>   皮埃尔·布迪厄（Bourdieu, 1998）的场域理论弥补了传统分析只关注国家内部的局限。[[Bob Lingard|鲍勃·林加德]]与肖恩·罗沃尔（Lingard & Rawolle, 2011）据此提炼出相对自主的[[Global Educational Policy Field|全球教育政策场域]]；埃里克·曼格兹与马蒂厄·希尔格斯（Mangez & Hilgers, 2012）则进一步提炼出[[Dual Hierarchization Principles|双重等级原则]]，揭示 PISA 如何驱动外部他律原则压倒内部学术自律原则。经合组织通过制造跨国可通约指标积聚了巨额的统计测量资本与象征资本，进而演化为跨国教育仲裁者。主权国家自身的综合资本储量（地缘政治地位、经济与人力资本）则构成其抵御超国家场域支配力量的关键防护层。
 > - **生命政治与治理术理论：全景敞视式数字凝视与身体规训**
 >   米歇尔·福柯（Foucault, 1976）的治理术与生命政治分析将视线引向微观权力。PISA 构建起现代全球治理的全景敞视机制，通过远距离的数据可见性与排名技术，对参测国施加无所不在的外部凝视。这种数目化规训深入重塑了学校与个体的生存心态，构成了[[Global Eye and Tutorable Body|“全球眼”（Global Eye）对“受教身体”（Tutorable Body）]]的跨尺度折叠控制。[[Norman Fairclough|诺曼·费尔克拉夫]]（Fairclough, 1998）的[[Critical Discourse Analysis|批判性话语分析]]（Critical [[Discourse Analysis]], CDA）与戴维·科森（Corson, 1995）的话语权力研究进一步揭示，大众媒体与官方报告通过中立化语言将新自由主义权力关系自然化，掩盖了边缘群体的实质失语。
 

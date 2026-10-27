@@ -46,6 +46,32 @@ class ProgrammeTests(unittest.TestCase):
         self.assertNotIn('365', result)
         self.assertIn('未达统计显著', result)
 
+    def test_inferred_project_period_never_fills_observed_dates(self):
+        p = copy.deepcopy(self.programme)
+        original = copy.deepcopy(p)
+        result = eef.render_programme(SLUG, p, [], {})
+        self.assertIn('2015-11 至 2018-07', result)
+        self.assertIn('起点按周期倒推', result)
+        self.assertIn('**试验时间** ' + eef.PENDING, result)
+        self.assertIn('**干预时间** ' + eef.PENDING, result)
+        self.assertEqual(p, original)
+        self.assertIsNone(eef.programme_project_period({'page_project_duration': '2 year(s) 8 month(s)'}))
+        self.assertIsNone(eef.programme_project_period({'page_project_duration': '2 year(s) 8 month(s)', 'completed': '2018-99'}))
+        self.assertEqual(eef.programme_date_range({'study_start': '2016-01'}, 'study'), '2016-01 至 ' + eef.PENDING)
+
+    def test_supplementary_sources_do_not_repeat_trial_fields(self):
+        result = eef.render_programme(SLUG, self.programme, [], {})
+        self.assertIn('英国国家教育研究基金会（National Foundation for Educational Research，NFER）', result)
+        self.assertNotIn('起止日期未提供', result)
+        self.assertNotIn('2 year(s)', result)
+        self.assertEqual(result.count('学校首年 £1,612'), 1)
+        self.assertEqual(result.count('假定每年实施两组'), 1)
+        for section in result.split('[!eef-trial-notes]-')[1:]:
+            notes = section.split('> > [!eef-trial]-')[0]
+            self.assertNotIn('**成本假设**', notes)
+            self.assertNotIn('**页面项目周期**', notes)
+            self.assertNotIn('**培训安排**', notes)
+
     def test_zero_missing_and_unrated_remain_distinct(self):
         p = copy.deepcopy(self.programme)
         outcome = p['trials'][0]['outcomes'][0]

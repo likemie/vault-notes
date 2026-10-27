@@ -1251,6 +1251,18 @@
     ]
   },
   {
+    "title": "Learning Knowledge and Policy Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Learning Knowledge and Policy Knowledge.md",
+    "aliases": [
+      "学习性知识与政策性知识",
+      "学习性知识",
+      "政策性知识",
+      "Learning Knowledge vs Policy Knowledge",
+      "Pons's Two Forms of Knowledge"
+    ]
+  },
+  {
     "title": "Learnology",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Learnology.md",
@@ -2034,6 +2046,17 @@
       "试题研发",
       "测验研发",
       "标准化测验生产"
+    ]
+  },
+  {
+    "title": "The Curse of Success",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/The Curse of Success.md",
+    "aliases": [
+      "成功者的诅咒",
+      "PISA成功者的诅咒",
+      "芬兰经验悖论",
+      "Curse of Success in Education Governance"
     ]
   },
   {
@@ -16516,6 +16539,18 @@
     "aliases": [
       "自明真理",
       "不言自明"
+    ]
+  },
+  {
+    "title": "Dual Hierarchization Principles",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Dual Hierarchization Principles.md",
+    "aliases": [
+      "双重等级原则",
+      "教育知识领域的双重等级原则",
+      "场域双重等级化原则",
+      "Dual Principles of Hierarchisation",
+      "Internal vs External Hierarchisation"
     ]
   },
   {

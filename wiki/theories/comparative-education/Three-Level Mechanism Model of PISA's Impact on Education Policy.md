@@ -9,7 +9,7 @@ aliases:
 summary: "谢爱磊等 (2021) 与 Li et al. (2025) 建构的教育政策社会学理论模型，将 PISA 对各国教育政策的影响机制划分为超国家、民族国家与内部行动者网络三个层级；整合政策指引与政策背书的二维四象限模型及四类制度中介条件，系统阐明全球教育场域中的表层政策趋同与深层实践趋异"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 50
+theory_related_count: 52
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"
@@ -20,6 +20,8 @@ tags:
   - mechanism-model
   - region/global
 related_concepts:
+  - "[[Dual Hierarchization Principles]]"
+  - "[[Learning Knowledge and Policy Knowledge]]"
   - "[[Global Eye and Tutorable Body]]"
   - "[[Global Testing Culture]]"
   - "[[PISA Effect]]"
@@ -110,7 +112,7 @@ updated: 2026-10-27
 > | 外部化战略（[[Externalization]]） | 机制 | 民族国家层级核心机制：决策者在面临国内制度困局时诉诸外部国际权威以突破改革阻力 |
 > | 参考社会（[[Reference Society]] / 模范社会） | 概念 | 民族国家借用模板：PISA 排名树立的高分榜样（如芬兰、上海）为各国提供政策借用（[[Policy Borrowing]]）素材 |
 > | 自我认知落差（Self-Perception Gap） | 机制 | 国家层级关键触发条件：长期自我认知与实证结果之间的差距决定政策危机的爆发烈度 |
-> | 学术知识 vs 政治知识（Pons, 2011） | 概念 | 行动者网络层级分化：关注方法效度与情境严谨性的学术知识与追求榜单轰动及政绩辩护的政治知识相互撕裂 |
+> | [[Learning Knowledge and Policy Knowledge\|学习性知识与政策性知识]]（Pons, 2011） | 概念 | 行动者网络层级分化：追求方法严谨的学习性知识与服务政绩辩护的政策性知识相互撕裂 |
 > | 二维四象限分析框架 | 框架 | 政策回应分类工具：横轴为回应性质（政策指引／政策背书），纵轴为影响范围（范围广／范围小） |
 > | 四大制度中介条件 | [[Variable\|变量]] | 调节机制：成绩预期落差、文化教育传统、地缘政治资本与国内政治生态共同决定政策走向 |
 
@@ -128,7 +130,7 @@ updated: 2026-10-27
 > - **推导** 民族国家对 PISA 的响应体现了主权决策的主动性，决策者策略性利用外部测评数据为国内议程确立合法性，将其作为推动深层结构调整与突破议会阻力的重要政策工具。
 
 > [!proposition-chain] 核心命题三｜内部行动者网络层面：学术知识与政治知识在本土博弈中引发政策趋异
-> - **前提一** PISA 信息进入国内[[Policy Network|政策网络]]后，必然发生知识形态的分化。沙维尔·庞斯（Pons, 2011）指出，关注抽样偏差、测量误差与[[Cross-cultural Validity|跨文化效度]]的“学术知识”，同追求排名轰动、危机标签与政绩辩护的“政治知识”存在深刻对立。
+> - **前提一** PISA 信息进入国内[[Policy Network|政策网络]]后，必然发生知识形态的分化。沙维尔·庞斯（Pons, 2011）指出，关注抽样偏差、测量误差与[[Cross-cultural Validity|跨文化效度]]的[[Learning Knowledge and Policy Knowledge|“学习性知识”]]，同追求排名轰动、危机标签与政绩辩护的“政策性知识”存在深刻对立。
 > - **前提二** 国内政策网络中的各类行动者在四个本土博弈场中展开竞争性转译：在联邦制分权体制中国家统筹受到宪法缓冲；在劳资博弈中政府与工会各自借数据得出相反主张；大众媒体通过灾难化排位竞技放大政治焦虑；专业学者与教师团体则开展方法论批评以抵制去情境化规训。
 > - **推导** 外部量化数据经由国内多元行动者在权力[[Champ|场域]]中的竞争性过滤与利益再诠释，最终导致各国的实际政策落地形态呈现鲜明的本土特异性。
 
