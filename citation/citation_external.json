@@ -4572,6 +4572,7 @@
     "Clarke & Dawson, 1999": "Clarke & Dawson, 1999",
     "Clarke & Thom (2011)": "Clarke & Thom, 2011",
     "Clarke & Thom, 2011": "Clarke & Thom, 2011",
+    "Clarke (1940)": "Clarke, 1940",
     "Clarke (2005)": "Clarke, 2005",
     "Clarke (2006)": "Clarke, 2006",
     "Clarke (2010)": "Clarke, 2010",
@@ -4591,6 +4592,7 @@
     "Clarke et al., 2014": "Clarke et al., 2014",
     "Clarke et al., 2015": "Clarke et al., 2015",
     "Clarke et al., 2016": "Clarke et al., 2016",
+    "Clarke, 1940": "Clarke, 1940",
     "Clarke, 2005": "Clarke, 2005",
     "Clarke, 2006": "Clarke, 2006",
     "Clarke, 2010": "Clarke, 2010",
@@ -49171,8 +49173,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
-        "wiki/concepts/research-methodology/Document.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
       ],
       "title": ""
     },
@@ -60113,6 +60114,21 @@
       ],
       "title": ""
     },
+    "Clarke, 1940": {
+      "aliases": [
+        "Clarke, 1940",
+        "Clarke (1940)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Clarke, 1940"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/research-methodology/Document.md"
+      ],
+      "title": ""
+    },
     "Clarke, 2005": {
       "aliases": [
         "Clarke, 2005",
@@ -60765,7 +60781,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
+        "wiki/concepts/research-methodology/Document.md"
       ],
       "title": ""
     },
@@ -61368,7 +61385,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
-        "wiki/concepts/educational-philosophy/Linguistic Turn.md"
+        "wiki/concepts/educational-philosophy/Linguistic Turn.md",
+        "wiki/concepts/research-methodology/Document.md"
       ],
       "title": ""
     },
@@ -65214,8 +65232,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
-        "wiki/concepts/research-methodology/Document.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
       ],
       "title": ""
     },
@@ -79277,8 +79294,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
-        "wiki/concepts/research-methodology/Document.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
       ],
       "title": ""
     },
@@ -83059,8 +83075,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
-        "wiki/concepts/research-methodology/Document.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
       ],
       "title": ""
     },
@@ -83088,8 +83103,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
-        "wiki/concepts/research-methodology/Document.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
       ],
       "title": ""
     },
@@ -93987,8 +94001,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
-        "wiki/concepts/research-methodology/Document.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
       ],
       "title": ""
     },
@@ -94347,7 +94360,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
-        "wiki/concepts/research-methodology/Document.md",
         "wiki/concepts/research-methodology/Virtual Documents.md"
       ],
       "title": ""
@@ -134651,8 +134663,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
-        "wiki/concepts/research-methodology/Document.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
       ],
       "title": ""
     },
@@ -162876,8 +162887,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
-        "wiki/concepts/research-methodology/Document.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
       ],
       "title": ""
     },
@@ -182005,8 +182015,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
-        "wiki/concepts/research-methodology/Document.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
       ],
       "title": ""
     },
@@ -201646,8 +201655,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md",
-        "wiki/concepts/research-methodology/Document.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
       ],
       "title": ""
     },

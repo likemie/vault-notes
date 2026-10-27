@@ -265,7 +265,7 @@
     },
     {
       "number": 4,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -330,11 +330,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-27T19:24:45.177760+00:00"
     },
     {
       "number": 5,
-      "status": "pending",
+      "status": "done",
       "type": "theory",
       "template": "wiki/templates/template-theory.md",
       "entries": [
@@ -366,7 +367,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-27T19:28:49.695250+00:00"
     },
     {
       "number": 6,

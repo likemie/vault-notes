@@ -7,9 +7,9 @@ aliases:
 summary: "将教育与技能投资视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论；二战后经舒尔茨与贝克尔奠定微观与宏观基础，在冷战地缘博弈中成为经合组织（OECD）推行人力规划与世界银行构建跨国放贷指标帝国的理论支柱；尼曼与马滕斯（2018）等实证揭示其在当代被转化为 PISA 量化硬事实以确立经合组织全球认知权威与软治理机制"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 79
-theory_related_level: 7
-theory_related_stars: "💎💎⭐"
+theory_related_count: 80
+theory_related_level: 8
+theory_related_stars: "💎💎⭐⭐"
 theory_related_color: "#fef3c7"
 tags:
   - economics-of-education
@@ -105,6 +105,7 @@ related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
 confidence: high
 status: completed
 created: 2026-09-08
@@ -145,6 +146,7 @@ updated: 2026-10-28
 > - **2000 年代至今 — 全球指标治理与量化硬事实转化** 进入 21 世纪，人力资本逻辑在经合组织[[International Indicators of Education Systems|国际教育系统指标]]（INES）网络、《[[Education at a Glance|教育概览]]》（EAG）与[[PISA|国际学生评估项目]]（PISA）跨国技能测试中被深度重构为“全球知识经济[[Competitiveness|竞争力]]”治理框架；丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（Kerstin Martens, 2018）考证指出，经合组织成功将人力资本范式转译为量化“硬事实”，把学校教育简化为服务于经济生产率的个体核心素养，在缺乏法定强制力与财政制裁的情形下确立起全球通用的教育评估标尺与认知权威，促成全球教育政策的“经合组织化”（OECD-fication）。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 268–272)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–543)]]
 > - **2000–2009 年 — 欧洲知识经济与人力资本“无形投资”转向** 乔治·帕西亚斯与乔治·鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, pp. 482–484]]）指出，自《德洛尔白皮书》与 2000 年《里斯本战略》以来，欧盟委员会彻底将教育从传统社会福利消费重构为提升知识经济竞争力的“无形投资”；全景敞视式指标监测将个体学习者建构为对自身技能与就业能力自负盈亏的人力资本自营者，实现了结构性经济风险向个体的转移。
 > - **2018–2019 — 世界银行反思“有学无教”与人力资本积累微观转向** 世界银行发布《2018年世界发展报告》与《Teach 观察员手册》（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]），正式确立“[[Learning Crisis|学习贫困]]”（Learning Poverty）概念，反思发展中国家单纯依靠学校入学率扩张并未自发带来人力资本实质积累的历史困境；实证揭示教师教学质量是驱动学业成果的最关键校内源泉，推动人力资本积累分析从宏观入学年限穿透至微观课堂互动质量测评。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 1–3)]]
+> - **2021–2023 — 欧洲教育区量化基准的二十年连续性与财政挂钩** [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] 实证追踪面向 2030 年的[[European Education Area|欧洲教育区]]战略形成，揭示基础技能、早期离校与高教普及率等量化指标完全沿袭自里斯本战略以来的二十年人力资本规制网络，并通过挂钩欧洲学期国别建议与欧洲社会基金（ESF+），固化了超国家教育政策的就业导向。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857)]]
 
 ---
 
@@ -185,7 +187,7 @@ updated: 2026-10-28
 > **应用实例** 1970 年代经济滞胀导致大量高校毕业生面临结构性失业与文凭贬值时，教育行政官员援引劳动力市场结构性摩擦与统计时滞模型为规划失灵辩护，成功抵御了公众对教育扩张政策的追责。
 
 > [!theory-proposition] 命题四｜跨国组织将人力资本理论重构为控制论规划、指标帝国与软治理硬事实
-> **解释** 经合组织在冷战初期将人力资本理论与控制论规划结合以抗衡苏联计划经济，并在 1990 年代转向知识经济与终身学习范式；世界银行则建立教育收益率数据库作为结构性调整与政策放贷的量化门槛（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024]]）。丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（Kerstin Martens, 2018）进一步揭示，经合组织在当代通过跨国标准化测验（[[PISA]]）将人力资本范式编码为量化“硬事实”（[[Soft Power by Hard Facts|Hard Facts]]），把教育过程简化为服务于知识经济生产率的个体核心素养；在缺乏法定强制管辖权的情形下，经合组织依托硬事实与跨国排名确立起全球教育评估的[[Cognitive Authority|认知权威]]，通过激活各国内部危机意识实施跨国软治理（[[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018, pp. 268–272]]）。帕西亚斯与鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）论证，欧盟委员会在《里斯本战略》中同样将人力资本理论升格为超国家治理支柱，把教育界定为对人力资本的“无形投资”，并通过开放协调法（OMC）建立基准比对与指标监控，把适应知识经济波动的责任全面转嫁至受教育个体，将学习者塑造成自负盈亏的人力资本自营者。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–484)]]
+> **解释** 经合组织在冷战初期将人力资本理论与控制论规划结合以抗衡苏联计划经济，并在 1990 年代转向知识经济与终身学习范式；世界银行则建立教育收益率数据库作为结构性调整与政策放贷的量化门槛（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al., 2024]]）。丹尼斯·尼曼（Dennis Niemann）与克斯汀·马滕斯（Kerstin Martens, 2018）进一步揭示，经合组织在当代通过跨国标准化测验（[[PISA]]）将人力资本范式编码为量化“硬事实”（[[Soft Power by Hard Facts|Hard Facts]]），把教育过程简化为服务于知识经济生产率的个体核心素养；在缺乏法定强制管辖权的情形下，经合组织依托硬事实与跨国排名确立起全球教育评估的[[Cognitive Authority|认知权威]]，通过激活各国内部危机意识实施跨国软治理（[[Argument_Niemann_Martens_2018_GSP|Niemann & Martens, 2018, pp. 268–272]]）。帕西亚斯与鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）论证，欧盟委员会在《里斯本战略》中同样将人力资本理论升格为超国家治理支柱，把教育界定为对人力资本的“无形投资”，并通过开放协调法（OMC）建立基准比对与指标监控，把适应知识经济波动的责任全面转嫁至受教育个体，将学习者塑造成自负盈亏的人力资本自营者。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–484)]] 奈夫卡·亚历克夏杜与哈维尔·兰布拉（[[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou & Rambla, 2023]]）在分析面向 2030 年的[[European Education Area|欧洲教育区]]战略时进一步揭示，超国家人力资本治理展现出显著的制度惯性与连续性。从 2000 年里斯本战略、2009 年 ET2020 框架至 2021 年欧洲教育区，欧盟在基础技能、早期离校与高等教育比例等核心量化基准上保持了长达二十年的监控连续性；尽管委员会起草团队试图以社会包容与性别平等重新建构政策话语，但受制于欧洲学期的宏观经济协调与欧洲社会基金资助要求，以就业力和人力资本积累为核心的规制逻辑依然是维系各方妥协的制度压舱石。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857, 863–864)]]
 >
 > **应用实例** 瑞士在 PISA 测评中总分位居前列，但细分数据显示约 20% 学生阅读素养仅处于最低等级，经合组织据此发布报告指出其存在严重的人力资本短板，成功打破瑞士各州长期的教育分权自治壁垒，倒逼瑞士联邦政府采纳统一的国家教育标准（HarmoS 协约）。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 276)]]
 
@@ -362,3 +364,4 @@ updated: 2026-10-28
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 考察英国新工党福利改革跨国借用实践，揭示瑞典基于人力资本理论的深度技能培训方案因缺乏[[Randomised Controlled Trials|随机对照试验]]因果评估数据而被决策官员直接否决，输给美国“工作优先”随机实验项目的循证筛选机制。
 > - [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]] — 从社会建构主义视角剖析经合组织如何将人力资本范式转译为 PISA 量化硬事实，在缺乏法定权力下确立认知权威并实施重构国家教育格局的跨国软治理。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 解剖欧盟《里斯本战略》如何将人力资本理论升格为超国家教育软治理支柱，将教育重塑为知识经济“无形投资”并将就业风险个体化。（pp. 482–484）
+> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 追踪面向 2030 年欧洲教育区战略形成，揭示欧盟在基础技能与早期离校等指标上长达二十年的人力资本投资与就业导向连续性。
