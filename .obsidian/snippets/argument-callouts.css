@@ -17935,45 +17935,55 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(1),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(1),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(1) {
-  width: 125px !important;
-  min-width: 105px !important;
-  max-width: 145px !important;
+  width: 145px !important;
+  min-width: 130px !important;
+  max-width: 170px !important;
+  position: sticky;
+  left: 0;
+  z-index: 2;
+  background: var(--background-primary) !important;
+  box-shadow: 2px 0 6px rgba(0, 0, 0, 0.05);
+}
+
+.callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) thead th:nth-child(1),
+.callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) thead th:nth-child(1) {
+  z-index: 4;
 }
 
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) th:nth-child(2),
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(2),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(2),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(2) {
-  width: 145px !important;
-  min-width: 125px !important;
-  max-width: 165px !important;
+  width: 220px !important;
+  min-width: 190px !important;
+  max-width: 260px !important;
 }
 
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) th:nth-child(3),
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(3),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(3),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(3) {
-  width: 155px !important;
-  min-width: 135px !important;
-  max-width: 175px !important;
+  width: 260px !important;
+  min-width: 225px !important;
+  max-width: 310px !important;
 }
 
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) th:nth-child(4),
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(4),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(4),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(4) {
-  width: 175px !important;
-  min-width: 150px !important;
-  max-width: 200px !important;
+  width: 275px !important;
+  min-width: 240px !important;
+  max-width: 325px !important;
 }
 
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) th:nth-child(5),
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(5),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(5),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(5) {
-  width: 235px !important;
-  min-width: 195px !important;
-  max-width: 275px !important;
+  width: 360px !important;
+  min-width: 310px !important;
+  max-width: 440px !important;
   border-right: 1px solid rgba(68, 92, 120, 0.07);
 }
 
@@ -17981,9 +17991,26 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(6),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(6),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(6) {
-  width: 255px !important;
-  min-width: 215px !important;
-  max-width: 295px !important;
+  width: 320px !important;
+  min-width: 270px !important;
+  max-width: 390px !important;
+}
+
+/* 6 列场景取消末行高亮特殊样式（回归常规行展示） */
+.callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) tbody tr:last-child td,
+.callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) tbody tr:last-child td {
+  background: transparent !important;
+  border-top: none !important;
+  border-bottom: 1px solid rgba(68, 92, 120, 0.08) !important;
+  font-size: calc(var(--fs-table) * 0.91) !important;
+  line-height: 1.58 !important;
+}
+.callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) tbody tr:last-child td:first-child,
+.callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) tbody tr:last-child td:first-child {
+  background: var(--background-primary) !important;
+  color: rgb(40, 60, 85) !important;
+  font-weight: 650 !important;
+  border-right: 1px solid rgba(68, 92, 120, 0.12) !important;
 }
 
 /* 偶数行轻微斑马纹（提升横向长行辨识度） */
@@ -18119,6 +18146,29 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .theme-dark .callout[data-callout="row-contrast"] tbody tr:last-child:hover td,
 .theme-dark .callout[data-callout="compare-table"] tbody tr:last-child:hover td {
   background: rgba(60, 180, 165, 0.15) !important;
+}
+
+/* 6 列场景暗色模式：首列固定与末行常规化 */
+.theme-dark .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) th:nth-child(1),
+.theme-dark .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(1),
+.theme-dark .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(1),
+.theme-dark .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(1) {
+  background: var(--background-primary) !important;
+  color: rgb(185, 210, 238) !important;
+  box-shadow: 2px 0 6px rgba(0, 0, 0, 0.25);
+}
+.theme-dark .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) tbody tr:last-child td,
+.theme-dark .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) tbody tr:last-child td {
+  background: transparent !important;
+  border-top: none !important;
+  border-bottom: 1px solid rgba(138, 168, 202, 0.08) !important;
+  color: inherit !important;
+}
+.theme-dark .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) tbody tr:last-child td:first-child,
+.theme-dark .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) tbody tr:last-child td:first-child {
+  background: var(--background-primary) !important;
+  color: rgb(185, 210, 238) !important;
+  border-right: 1px solid rgba(138, 168, 202, 0.14) !important;
 }
 
 /* ═══════════════════════════════════════════════════════════════════════════
