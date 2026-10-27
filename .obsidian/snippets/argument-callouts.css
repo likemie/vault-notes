@@ -23652,7 +23652,7 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .cal
 body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content table:has(th:nth-child(4)):not(:has(th:nth-child(5))) th:nth-child(1)::before { content: "项目页影响"; }
 body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content table:has(th:nth-child(4)):not(:has(th:nth-child(5))) th:nth-child(2)::before { content: "证据阶段"; }
 body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content table:has(th:nth-child(4)):not(:has(th:nth-child(5))) th:nth-child(3)::before { content: "证据强度"; }
-body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content table:has(th:nth-child(4)):not(:has(th:nth-child(5))) th:nth-child(4)::before { content: "每生年成本"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content table:has(th:nth-child(4)):not(:has(th:nth-child(5))) th:nth-child(4)::before { content: "成本"; }
 
 /* 两栏信息表（k v）：不显示表头；左列为灰色小标签 */
 body .callout.callout.callout[data-callout][data-callout="eef-programme"] table:not(:has(th:nth-child(3))) thead { display: none !important; }
@@ -23711,6 +23711,10 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .cal
   body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(6)) { min-width: 540px !important; }
   body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content table:has(th:nth-child(4)):not(:has(th:nth-child(5))) td { font-size: 13px !important; white-space: normal !important; }
 }
+
+/* 成本评级：与 Toolkit 卡片相同的琥珀色圆点；总览格内第二行为每生年金额 */
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .eef-cost { color: rgb(196, 140, 40) !important; letter-spacing: .04em; font-weight: 500; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content table:has(th:nth-child(4)):not(:has(th:nth-child(5))) td small { display: block; margin-top: 1px; font-size: 11px !important; line-height: 15px !important; font-weight: 500; color: var(--ac-muted, var(--text-muted)); letter-spacing: 0; }
 
 /* 待核实标记：正文与卡片一致 */
 body .markdown-rendered .eef-pending, body .callout.callout.callout[data-callout][data-callout="eef-programme"] .eef-pending { color: #b42318 !important; font-weight: 600 !important; }

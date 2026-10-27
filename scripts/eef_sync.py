@@ -716,6 +716,9 @@ def cmd_import_programmes(args) -> int:
                 "completed_raw": mt.get("completed"),
                 "security_rating": t.get("evidence_strength_rating"),
                 "security_total": t.get("evidence_strength_total"),
+                "cost_rating": t.get("implementation_cost_rating"),
+                "cost_total": t.get("implementation_cost_total"),
+                "cost_status": t.get("implementation_cost_status"),
                 "outcomes": t.get("trial_outcomes", []),
                 "documents": t.get("documents", []),
                 "page_project_duration": mt.get("duration"),
@@ -737,6 +740,9 @@ def cmd_import_programmes(args) -> int:
             "card_version": 3,
             "security_rating": p.get("evidence_strength_rating"),
             "security_total": p.get("evidence_strength_total"),
+            "cost_rating": p.get("implementation_cost_rating"),
+            "cost_total": p.get("implementation_cost_total"),
+            "cost_status": p.get("implementation_cost_status"),
             "impact_label": p.get("impact_label"),
             "cost_context": next((s["text"].removeprefix(s["heading"]).strip() for s in p.get("sections", []) if "cost" in s.get("heading", "").lower()), ""),
             "checked_at": raw.get("exported_at", "")[:10],
@@ -871,6 +877,18 @@ def _dots(value, total=5, status="ok") -> str:
     return "●" * value + "○" * (total - value)
 
 
+COST_LEVEL_ZH = {1: "极低", 2: "低", 3: "中等", 4: "高", 5: "极高"}
+
+
+def _cost_rating(value, total=5, status="ok") -> str:
+    """EEF 实施成本评级（1–5，越高越贵），与 Toolkit 卡片的成本圆点一致。"""
+    if status == "not_provided" or (value is None and status != "not_rated"):
+        return "未提供"
+    if value is None:
+        return "未评级"
+    return f'<span class="eef-cost">{_dots(value, total)} {COST_LEVEL_ZH.get(value, "")}</span>'
+
+
 def _doc_title(title: str) -> str:
     return {"Evaluation Protocol": "研究方案", "Evaluation protocol": "研究方案", "Evaluation protocol [v2]": "研究方案（修订版）",
             "Evaluation protocol (amended)": "研究方案（修订版）", "Statistical Analysis Plan": "统计分析计划",
@@ -884,7 +902,9 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
     verification notes gathered in a single box at the end."""
     pend = lambda s: esc(s).replace("待核实", PENDING)
     impact = f"{programme_months(p['months'])} 个月" if p.get("months") is not None else (p.get("impact_label") or "未提供")
-    cost = f"£{p['cost_per_pupil']:g}/生/年" if p.get("cost_per_pupil") is not None else "未提供"
+    cost = _cost_rating(p.get("cost_rating"), p.get("cost_total"), p.get("cost_status") or "ok")
+    if p.get("cost_per_pupil") is not None:
+        cost += f"<br><small>£{p['cost_per_pupil']:g}/生/年</small>"
     stage = EVIDENCE_TYPE_ZH.get(p.get("evidence_type"), p.get("evidence_type") or "未提供")
     lines = [f"> [!eef-programme|v3] [{esc(p['name'])}]({p['url']})",
              f"> {PROG_ZH.get(slug, p.get('description') or '')}", ">",
@@ -940,6 +960,8 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
         if r.get("training"):
             rows.append(("培训", pend(r["training"])))
         money = []
+        if trial.get("cost_rating") is not None or trial.get("cost_status") in ("not_rated", "not_provided"):
+            money.append("成本评级 " + _cost_rating(trial.get("cost_rating"), trial.get("cost_total"), trial.get("cost_status") or "ok"))
         if trial.get("grant"):
             money.append(f"研究拨款 {esc(trial['grant'])}")
         if r.get("cost_per_pupil_year") is not None:

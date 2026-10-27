@@ -165,6 +165,15 @@ class ProgrammeTests(unittest.TestCase):
             self.assertLess(rendered.index('[!eef-programme|v3]'), rendered.index('[!finding-cards]'))
             self.assertNotIn('## ', rendered)
 
+    def test_cost_rating_programme_and_trials(self):
+        result = eef.render_programme(SLUG, self.programme, [], {})
+        self.assertIn('| <span class="eef-cost">●●○○○ 低</span><br><small>£93/生/年</small> |', result)
+        first, second = result.split('[!eef-errata]')[0].split('[!eef-trial]-')[1:]
+        self.assertIn('成本评级 <span class="eef-cost">●○○○○ 极低</span>', first)
+        self.assertIn('成本评级 <span class="eef-cost">●●○○○ 低</span>', second)
+        self.assertEqual(eef._cost_rating(None, 5, 'not_rated'), '未评级')
+        self.assertEqual(eef._cost_rating(None, 5, 'not_provided'), '未提供')
+
 
 if __name__ == '__main__':
     unittest.main()

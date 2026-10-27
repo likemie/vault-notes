@@ -83,7 +83,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 >
 > | imp | stage | sec | cost |
 > | --- | --- | --- | --- |
-> | +2 个月 | 成效试验 | ●●●●○ | £93/生/年 |
+> | +2 个月 | 成效试验 | ●●●●○ | <span class="eef-cost">●●○○○ 低</span><br><small>£93/生/年</small> |
 >
 > | k | v |
 > | --- | --- |
@@ -99,7 +99,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > > | 样本 | 页面学校数 130 所<br>130 所学校中，107 所被评为 Good 或 Outstanding。<br>学生中享有 pupil premium 资格的比例为 28%。 |
 > > | 剂量 | 每周 3 次 × 30 分钟，每组 4 人；项目方案；首次试验适用性<span class="eef-pending">待核实</span> |
 > > | 培训 | 助教六个半天；课堂教师两个半天。 |
-> > | 经费 | 研究拨款 £287,500；交付 £77/生/年（3 年摊销）；学校首年 £1,612；不含课堂教师及助教的替岗费用。 |
+> > | 经费 | 成本评级 <span class="eef-cost">●○○○○ 极低</span>；研究拨款 £287,500；交付 £77/生/年（3 年摊销）；学校首年 £1,612；不含课堂教师及助教的替岗费用。 |
 > > | 资料 | [研究方案](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Round_8_-_1st_Class_at_Number.pdf?v=1793056918) · [统计分析计划](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Round_8_-_1st_class_at_number_SAP.pdf?v=1793056918) · [评估报告](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/1stClass%40Number_evaluation_report.pdf?v=1793056918) |
 > >
 > > | out | grp | imp | es | sec | sig |
@@ -115,7 +115,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > > | 样本 | 页面学校数 235 所；随机分配学校 226 所<br>73% 的试验学校属于全国免费校餐资格比例最高的 40% 学校。<br>91% 位于城市，全国对应比例为 70%。<br>学校 第二关键阶段（Key Stage 2，KS2） 数学达标率均值为 70.4，全国为 73.1。 |
 > > | 剂量 | 每周 3 次 × 30 分钟，每组 4 人 |
 > > | 培训 | 导言写一个整天和四个半天；实施段另写六次培训，计数待核。 |
-> > | 经费 | 研究拨款 £386,457.59；交付 £93/生/年（3 年摊销）；学校年均 £745 |
+> > | 经费 | 成本评级 <span class="eef-cost">●●○○○ 低</span>；研究拨款 £386,457.59；交付 £93/生/年（3 年摊销）；学校年均 £745 |
 > > | 资料 | [评估报告](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/1stClassNo.1_evaluation-report_v.1.0.0_2025-06-25-173138_pttn.pdf?v=1793026194) · [研究方案（修订版）](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EECN_Study_Protocol_OnlineTrainingUpdate_V2.pdf?v=1793026194) · [研究方案](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/1stClass%40Number1_Evaluation-Protocol.pdf?v=1793026194) · [统计分析计划](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/1stClass%40Number1_Statistical-Analysis-Plan.pdf?v=1793026194) · [补充附录](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/1st%40ClassNo.1_further-appendices_v.1.0.0_2025-06-25-173129_zjgf.pdf?v=1793026194) |
 > >
 > > | out | grp | imp | es | sec | sig |

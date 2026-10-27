@@ -1117,14 +1117,6 @@
       ],
       "title": ""
     },
-    "Agenda 2000, 1997": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
-      ],
-      "title": ""
-    },
     "Aghion & Howitt, 1992": {
       "doi": "",
       "isbn": "",
@@ -30632,6 +30624,7 @@
       "doi": "10.1080/03054980600976320",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md",
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
         "wiki/theories/comparative-education/Three-Level Mechanism Model of PISA's Impact on Education Policy.md"
       ],
@@ -30964,12 +30957,19 @@
       ],
       "title": ""
     },
-    "Europe of Knowledge, 1997": {
+    "European Commission, 1993a": {
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md",
-        "wiki/concepts/comparative-education/Europe of Knowledge.md"
+        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
+      ],
+      "title": ""
+    },
+    "European Commission, 2003a": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
       ],
       "title": ""
     },
@@ -96043,6 +96043,14 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Sinicisation.md",
         "wiki/theories/political-economy-geopolitics/Sacrifice Theory.md"
+      ],
+      "title": ""
+    },
+    "Sorbonne Declaration, 1999": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
       ],
       "title": ""
     },

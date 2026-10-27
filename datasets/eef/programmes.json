@@ -139,7 +139,10 @@
        "免费校餐资格亚组的结构化评级为不适用，评估结论称其证据安全性低于全样本。"
       ],
       "delivery_scope": "项目方案；首次试验适用性待核实"
-     }
+     },
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclass-number1-second-trial",
@@ -283,7 +286,10 @@
        "页面完成时间晚于评估报告附件上传日期。"
       ],
       "evaluator_url": "https://www.nfer.ac.uk/about-nfer/"
-     }
+     },
+     "cost_rating": 2,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
    "entries": [
@@ -298,7 +304,10 @@
    "cost_note": "最近试验条件下的估算；假定每年实施两组，每组四名学生。现行价格待核实。",
    "review_notes": [],
    "developer": "边山大学（Edge Hill University）的 Every Child Counts 团队",
-   "delivery_organisation": "参与学校，由受训助教交付，校内联络教师协调"
+   "delivery_organisation": "参与学校，由受训助教交付，校内联络教师协调",
+   "cost_rating": 2,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "concept-cat": {
    "name": "Concept Cat",
@@ -329,10 +338,16 @@
      "security": null,
      "not_significant": false,
      "evaluator": "RANDUniversity of York",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/concept-cat_evaluation-report_v.1.2.0.pdf?v=1792947205"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/concept-cat_evaluation-report_v.1.2.0.pdf?v=1792947205",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "counting-collections": {
    "name": "Counting Collections",
@@ -365,10 +380,16 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "Sheffield Hallam University",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/counting_collections_evaluation_report_v.1.0.0.pdf?v=1792950129"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/counting_collections_evaluation_report_v.1.0.0.pdf?v=1792950129",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "dialogic-teaching": {
    "name": "Dialogic Teaching",
@@ -401,10 +422,16 @@
      "security": null,
      "not_significant": false,
      "evaluator": "Sheffield Hallam University",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Dialogic_Teaching_addendum_report__final_for_publication.pdf?v=1792926124"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Dialogic_Teaching_addendum_report__final_for_publication.pdf?v=1792926124",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "embedding-formative-assessment": {
    "name": "Embedding Formative Assessment",
@@ -437,7 +464,10 @@
      "security": "very high",
      "not_significant": false,
      "evaluator": "NIESR",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EFA_evaluation_report.pdf?v=1792930985"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EFA_evaluation_report.pdf?v=1792930985",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/embedding-formative-assessment-re-grant",
@@ -454,10 +484,16 @@
      "security": "very high",
      "not_significant": false,
      "evaluator": "Behavioural Insights Team",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EFA-Scaling-Evaluation-Final-Report.pdf?v=1792935978"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EFA-Scaling-Evaluation-Final-Report.pdf?v=1792935978",
+     "cost_rating": null,
+     "cost_total": 5,
+     "cost_status": "not_rated"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "emotion-coaching": {
    "name": "Emotion Coaching",
@@ -488,10 +524,16 @@
      "security": null,
      "not_significant": false,
      "evaluator": "NatCen",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/emotion-coaching-trial_evaluation-report_v.1.0.0.pdf?v=1792937627"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/emotion-coaching-trial_evaluation-report_v.1.0.0.pdf?v=1792937627",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "fft-reciprocal-reading": {
    "name": "FFT Reciprocal Reading",
@@ -524,7 +566,10 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "Queen’s University Belfast",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Reciprocal_Reading.pdf?v=1792934846"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Reciprocal_Reading.pdf?v=1792934846",
+     "cost_rating": 2,
+     "cost_total": 5,
+     "cost_status": "ok"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/fft-reciprocal-reading-2023-24-trial",
@@ -541,10 +586,16 @@
      "security": null,
      "not_significant": false,
      "evaluator": "Behavioural Insights Team",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Reciprocal-Reading-_evaluation-report_v.1.0.0_2026-02-09-181715_hbfl.pdf?v=1792934585"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Reciprocal-Reading-_evaluation-report_v.1.0.0_2026-02-09-181715_hbfl.pdf?v=1792934585",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "focus-for-teacher-assessment-in-primary-science-focus4taps": {
    "name": "Focus for Teacher Assessment in Primary Science (Focus4TAPS)",
@@ -577,7 +628,10 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "UCL Institute of Education",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Focus4TAPS-Report.pdf?v=1792945492"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Focus4TAPS-Report.pdf?v=1792945492",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/focus4taps-2024-25-trial",
@@ -594,10 +648,16 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "NatCen",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/focus-4-taps_evaluation-report.pdf?v=1792936131"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/focus-4-taps_evaluation-report.pdf?v=1792936131",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "lexia-reading-core5": {
    "name": "Lexia® Core5® Reading",
@@ -631,7 +691,10 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "The York Trials UnitUniversity of York",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Lexia-report-unconditional-effect-sizes.pdf?v=1792931573"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Lexia-report-unconditional-effect-sizes.pdf?v=1792931573",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/lexia-core5-reading-2022-2023-trial",
@@ -648,10 +711,16 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "RAND",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/lexia_effectiveness-evaluation-report_v.1.0.0.pdf?v=1792934512"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/lexia_effectiveness-evaluation-report_v.1.0.0.pdf?v=1792934512",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "mathematical-reasoning": {
    "name": "Mathematical Reasoning",
@@ -682,7 +751,10 @@
      "security": null,
      "not_significant": false,
      "evaluator": "NFER",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Oxford_Numeracy_and_Literacy.pdf?v=1792952697"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Oxford_Numeracy_and_Literacy.pdf?v=1792952697",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/mathematical-reasoning",
@@ -699,7 +771,10 @@
      "security": null,
      "not_significant": false,
      "evaluator": "NIESR",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Mathematical_Reasoning.pdf?v=1792948791"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Mathematical_Reasoning.pdf?v=1792948791",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/mathematical-reasoning-2022-23-pilot",
@@ -716,7 +791,10 @@
      "security": null,
      "not_significant": false,
      "evaluator": "UCL Institute of Education",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Mathematical_reasoning_evaluation_report.pdf?v=1792933857"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Mathematical_reasoning_evaluation_report.pdf?v=1792933857",
+     "cost_rating": null,
+     "cost_total": 0,
+     "cost_status": "not_provided"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/mathematical-reasoning-2023-24-trial",
@@ -733,10 +811,16 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "NFER",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/mathematical-reasoning_evaluation-report.pdf?v=1792937005"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/mathematical-reasoning_evaluation-report.pdf?v=1792937005",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "mathematics-mastery-primary": {
    "name": "Mathematics Mastery Primary",
@@ -767,7 +851,10 @@
      "security": "moderate-to-high",
      "not_significant": false,
      "evaluator": "UCL Institute of Education",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Report_MathematicsMasteryPrimary.pdf?v=1792949671"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Report_MathematicsMasteryPrimary.pdf?v=1792949671",
+     "cost_rating": 2,
+     "cost_total": 5,
+     "cost_status": "ok"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/mathematics-mastery-secondary",
@@ -784,10 +871,16 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "UCL Institute of Education",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Report_Mathematics_Mastery_Secondary.pdf?v=1792939867"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Report_Mathematics_Mastery_Secondary.pdf?v=1792939867",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 2,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "mathematics-mastery-secondary": {
    "name": "Mathematics Mastery Secondary",
@@ -818,7 +911,10 @@
      "security": "moderate-to-high",
      "not_significant": false,
      "evaluator": "UCL Institute of Education",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Report_MathematicsMasteryPrimary.pdf?v=1792949671"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Report_MathematicsMasteryPrimary.pdf?v=1792949671",
+     "cost_rating": 2,
+     "cost_total": 5,
+     "cost_status": "ok"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/mathematics-mastery-secondary",
@@ -835,10 +931,16 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "UCL Institute of Education",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Report_Mathematics_Mastery_Secondary.pdf?v=1792939867"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Report_Mathematics_Mastery_Secondary.pdf?v=1792939867",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "maths-champions": {
    "name": "Maths Champions",
@@ -872,7 +974,10 @@
      "security": null,
      "not_significant": false,
      "evaluator": "Durham UniversityThe York Trials Unit",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Maths_champions_evaluation_report.pdf?v=1792950146"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Maths_champions_evaluation_report.pdf?v=1792950146",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/maths-champions-effectiveness",
@@ -889,7 +994,10 @@
      "security": "very high",
      "not_significant": false,
      "evaluator": "Durham UniversityThe York Trials Unit",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Maths_Champions_Final_Report.pdf?v=1792944398"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Maths_Champions_Final_Report.pdf?v=1792944398",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/maths-champions-subsidised-programme",
@@ -906,10 +1014,16 @@
      "security": null,
      "not_significant": false,
      "evaluator": "Oxford MeasurEd",
-     "report": null
+     "report": null,
+     "cost_rating": null,
+     "cost_total": 0,
+     "cost_status": "not_provided"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "maths-whizz-intelligent-tutoring": {
    "name": "Maths-Whizz Intelligent Tutoring",
@@ -942,10 +1056,16 @@
      "security": null,
      "not_significant": false,
      "evaluator": "NFER",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/maths_whizz_-_evaluation_report_v.1.0.0.pdf?v=1792929006"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/maths_whizz_-_evaluation_report_v.1.0.0.pdf?v=1792929006",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "neli-preschool": {
    "name": "NELI Preschool",
@@ -976,10 +1096,16 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "NFER",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/NELI-preschool_evaluation-report_v.1.0.pdf?v=1792939123"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/NELI-preschool_evaluation-report_v.1.0.pdf?v=1792939123",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "nuffield-early-language-intervention": {
    "name": "Nuffield Early Language Intervention",
@@ -1013,7 +1139,10 @@
      "security": null,
      "not_significant": false,
      "evaluator": "The Institute for Fiscal Studies",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Report_Nuffield_Early_Language_Intervention.pdf?v=1792950153"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Report_Nuffield_Early_Language_Intervention.pdf?v=1792950153",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/nuffield-early-language-intervention1",
@@ -1030,7 +1159,10 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "RAND",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_NELI_addendum_report-final_OnWebsite.pdf?v=1792947182"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_NELI_addendum_report-final_OnWebsite.pdf?v=1792947182",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/nuffield-early-language-intervention-scale-up-impact-evaluation",
@@ -1047,7 +1179,10 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "NFER",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/NELI-wave-2-scale-up-impact-evaluation-report-FINAL_2023-09-13-094553_bzhh.pdf?v=1792941099"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/NELI-wave-2-scale-up-impact-evaluation-report-FINAL_2023-09-13-094553_bzhh.pdf?v=1792941099",
+     "cost_rating": null,
+     "cost_total": 5,
+     "cost_status": "not_rated"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/nuffield-early-language-intervention-neli",
@@ -1064,7 +1199,10 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "RANDNFERThe Institute for Fiscal Studies",
-     "report": null
+     "report": null,
+     "cost_rating": null,
+     "cost_total": 0,
+     "cost_status": "not_provided"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/neli-preschool-2023-24-trial",
@@ -1081,10 +1219,16 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "NFER",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/NELI-preschool_evaluation-report_v.1.0.pdf?v=1792939123"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/NELI-preschool_evaluation-report_v.1.0.pdf?v=1792939123",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "pals-uk": {
    "name": "PALS-UK",
@@ -1118,7 +1262,10 @@
      "security": null,
      "not_significant": false,
      "evaluator": "RAND",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/peer_assisted_learning_strategies_%E2%80%93_UK_-_evaluation_report.pdf?v=1792940868"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/peer_assisted_learning_strategies_%E2%80%93_UK_-_evaluation_report.pdf?v=1792940868",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/pals-uk-accelerator-fund",
@@ -1135,10 +1282,16 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "Manchester Metropolitan University",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/PALS_report_final.pdf?v=1792943320"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/PALS_report_final.pdf?v=1792943320",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "power-of-pictures": {
    "name": "Power of Pictures",
@@ -1169,10 +1322,16 @@
      "security": "moderate",
      "not_significant": false,
      "evaluator": "Behavioural Insights TeamUCL Institute of Education",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/pages/projects/Power_of_Pictures_Evaluation_Report_Final.pdf?v=1792950159"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/pages/projects/Power_of_Pictures_Evaluation_Report_Final.pdf?v=1792950159",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "reception-jigsaw": {
    "name": "Reception Jigsaw",
@@ -1206,10 +1365,16 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "NFER",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Reception-Jigsaw-addendum-report-final.pdf?v=1792945042"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Reception-Jigsaw-addendum-report-final.pdf?v=1792945042",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "stop-and-think": {
    "name": "Stop and Think",
@@ -1242,10 +1407,16 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "NatCen",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/stop_and_think_evaluation_report_2025-03-12-090827_npqf.pdf?v=1792929645"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/stop_and_think_evaluation_report_2025-03-12-090827_npqf.pdf?v=1792929645",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "success-for-all": {
    "name": "Success for All",
@@ -1281,10 +1452,16 @@
      "security": null,
      "not_significant": false,
      "evaluator": "Queen’s University Belfast",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Success_for_All_Evaluation_Report.pdf?v=1792944648"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Success_for_All_Evaluation_Report.pdf?v=1792944648",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "talking-time": {
    "name": "Talking Time",
@@ -1315,10 +1492,16 @@
      "security": "high",
      "not_significant": false,
      "evaluator": "NIESR",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/talking-time-trial_evaluation-report_v.1.0.0.pdf?v=1792936943"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/talking-time-trial_evaluation-report_v.1.0.0.pdf?v=1792936943",
+     "cost_rating": 1,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 1,
+   "cost_total": 5,
+   "cost_status": "ok"
   },
   "tutor-trust-primary": {
    "name": "Tutor Trust (primary)",
@@ -1351,7 +1534,10 @@
      "security": null,
      "not_significant": false,
      "evaluator": "NFER",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Tutor_Trust_Secondary.pdf?v=1792943333"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Tutor_Trust_Secondary.pdf?v=1792943333",
+     "cost_rating": 3,
+     "cost_total": 5,
+     "cost_status": "ok"
     },
     {
      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/tutor-trust-effectiveness-trial",
@@ -1368,10 +1554,16 @@
      "security": "high",
      "not_significant": true,
      "evaluator": "The York Trials Unit",
-     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Tutor_Trust.pdf?v=1792937709"
+     "report": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Tutor_Trust.pdf?v=1792937709",
+     "cost_rating": 2,
+     "cost_total": 5,
+     "cost_status": "ok"
     }
    ],
-   "entries": []
+   "entries": [],
+   "cost_rating": 2,
+   "cost_total": 5,
+   "cost_status": "ok"
   }
  }
 }

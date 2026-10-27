@@ -263,8 +263,6 @@
     "Agata Wojciuk et al., 2015": "Agata Wojciuk et al., 2015",
     "Agbenyega et al. (2023)": "Agbenyega et al., 2023",
     "Agbenyega et al., 2023": "Agbenyega et al., 2023",
-    "Agenda 2000 (1997)": "Agenda 2000, 1997",
-    "Agenda 2000, 1997": "Agenda 2000, 1997",
     "Aghion & Howitt (1992)": "Aghion & Howitt, 1992",
     "Aghion & Howitt, 1992": "Aghion & Howitt, 1992",
     "Aghion et al. (2015)": "Aghion et al., 2015",
@@ -7038,13 +7036,17 @@
     "Eugene Bardach & Robert Kagan, 1982": "Eugene Bardach & Robert Kagan, 1982",
     "Eugene Belisle (1944)": "Eugene Belisle, 1944",
     "Eugene Belisle, 1944": "Eugene Belisle, 1944",
-    "Europe of Knowledge (1997)": "Europe of Knowledge, 1997",
-    "Europe of Knowledge, 1997": "Europe of Knowledge, 1997",
+    "European Commission (1993)": "European Commission, 1993",
+    "European Commission (2003)": "European Commission, 2003",
     "European Commission (2007)": "European Commission, 2007",
     "European Commission (2010)": "European Commission, 2010",
     "European Commission (2016)": "European Commission, 2016",
     "European Commission (2018)": "European Commission, 2018",
     "European Commission (2021)": "European Commission, 2021",
+    "European Commission, 1993": "European Commission, 1993",
+    "European Commission, 1993a": "European Commission, 1993",
+    "European Commission, 2003": "European Commission, 2003",
+    "European Commission, 2003a": "European Commission, 2003",
     "European Commission, 2007": "European Commission, 2007",
     "European Commission, 2010": "European Commission, 2010",
     "European Commission, 2016": "European Commission, 2016",
@@ -21842,6 +21844,8 @@
     "Sophian, 2004": "Sophian, 2004",
     "Sorace (2021)": "Sorace, 2021",
     "Sorace, 2021": "Sorace, 2021",
+    "Sorbonne Declaration (1999)": "Sorbonne Declaration, 1999",
+    "Sorbonne Declaration, 1999": "Sorbonne Declaration, 1999",
     "Sorensen (1995)": "Sorensen, 1995",
     "Sorensen, 1995": "Sorensen, 1995",
     "Sorian & Baugh (2002)": "Sorian & Baugh, 2002",
@@ -28582,21 +28586,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
-      ],
-      "title": ""
-    },
-    "Agenda 2000, 1997": {
-      "aliases": [
-        "Agenda 2000, 1997",
-        "Agenda 2000 (1997)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Agenda 2000, 1997"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
       ],
       "title": ""
     },
@@ -77470,6 +77459,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md",
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
         "wiki/theories/comparative-education/Three-Level Mechanism Model of PISA's Impact on Education Policy.md"
       ],
@@ -78021,19 +78011,33 @@
       ],
       "title": ""
     },
-    "Europe of Knowledge, 1997": {
+    "European Commission, 1993": {
       "aliases": [
-        "Europe of Knowledge, 1997",
-        "Europe of Knowledge (1997)"
+        "European Commission, 1993",
+        "European Commission (1993)"
       ],
       "doi": "",
       "identity_keys": [
-        "Europe of Knowledge, 1997"
+        "European Commission, 1993a"
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md",
-        "wiki/concepts/comparative-education/Europe of Knowledge.md"
+        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
+      ],
+      "title": ""
+    },
+    "European Commission, 2003": {
+      "aliases": [
+        "European Commission, 2003",
+        "European Commission (2003)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "European Commission, 2003a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
       ],
       "title": ""
     },
@@ -185339,6 +185343,21 @@
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Sinicisation.md",
         "wiki/theories/political-economy-geopolitics/Sacrifice Theory.md"
+      ],
+      "title": ""
+    },
+    "Sorbonne Declaration, 1999": {
+      "aliases": [
+        "Sorbonne Declaration, 1999",
+        "Sorbonne Declaration (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sorbonne Declaration, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
       ],
       "title": ""
     },
