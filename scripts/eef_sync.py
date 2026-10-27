@@ -751,7 +751,7 @@ def cmd_import_programmes(args) -> int:
     for k, v in progs.items():
         v["entries"] = old.get("programmes", {}).get(k, {}).get("entries", [])
         # Human-reviewed translations and result-specific qualifications survive refreshes.
-        for key in ("cost_note", "review_notes", "developer", "delivery_organisation"):
+        for key in ("cost_note", "review_notes", "developer", "delivery_organisation", "delivery_schedule", "training_support", "cost_unit"):
             if key in old.get("programmes", {}).get(k, {}):
                 v[key] = old["programmes"][k][key]
         previous = {(t["url"], o.get("outcome_group")): o
@@ -785,7 +785,7 @@ def programme_checks(p: dict) -> list[str]:
     months = [t["months"] for t in p["trials"] if t["months"] is not None]
     if p.get("months") is not None and months and p["months"] not in months:
         out.append(f"**自动核算 · 影响月数对不上** 项目标注 {p['months']:+d} 个月，各试验报告的是 {'、'.join(f'{m:+d}' for m in months)} 个月。")
-    if p.get("months") is None:
+    if p.get("months") is None and not p.get("impact_label"):
         out.append("**自动核算 · 缺少影响月数** 项目页没有给出影响月数。")
     return out
 
@@ -858,14 +858,15 @@ def programme_project_period(trial: dict) -> str | None:
     """Infer only the page project period; never populate observed study/teaching dates."""
     duration = trial.get("page_project_duration") or ""
     completed = trial.get("completed") or ""
-    match = re.fullmatch(r"(\d+) year\(s\) (\d+) month\(s\)", duration)
-    if not match or not re.fullmatch(r"\d{4}-(0[1-9]|1[0-2])", completed):
+    match = re.fullmatch(r"(?:(\d+) year\(s\))?(?: ?(\d+) month\(s\))?", duration)
+    if not match or not any(match.groups()) or not re.fullmatch(r"\d{4}-(0[1-9]|1[0-2])", completed):
         return None
-    years, months = map(int, match.groups())
+    years, months = (int(value or 0) for value in match.groups())
     year, month = map(int, completed.split("-"))
     start_year, start_month = divmod(year * 12 + month - 1 - years * 12 - months, 12)
+    period_text = " ".join(text for value, text in ((years, f"{years} 年"), (months, f"{months} 个月")) if value)
     return (f"{start_year:04d}-{start_month + 1:02d} 至 {completed}"
-            f"（{years} 年 {months} 个月；起点按周期倒推，{PENDING}）")
+            f"（{period_text}；起点按周期倒推，{PENDING}）")
 
 
 def _dots(value, total=5, status="ok") -> str:
@@ -890,10 +891,29 @@ def _cost_rating(value, total=5, status="ok") -> str:
 
 
 def _doc_title(title: str) -> str:
-    return {"Evaluation Protocol": "研究方案", "Evaluation protocol": "研究方案", "Evaluation protocol [v2]": "研究方案（修订版）",
-            "Evaluation protocol (amended)": "研究方案（修订版）", "Statistical Analysis Plan": "统计分析计划",
-            "Statistical Analysis Plan (SAP)": "统计分析计划", "Project Report": "评估报告", "Evaluation report": "评估报告",
-            "Further Appendices": "补充附录", "Appendices": "附录"}.get(title, title)
+    normalized = title.casefold().strip()
+    named = {"neli": "纳菲尔德早期语言干预项目资料", "setting information sheet": "园所信息表",
+             "eef summary": "教育捐赠基金会评估摘要", "addendum report": "补充报告",
+             "interim report": "中期报告", "formative evaluation report": "形成性评估报告",
+             "misconceptions tests – technical report": "错误概念测验技术报告",
+             "technical notes": "技术说明", "technical appendices": "技术附录"}
+    if normalized in named:
+        return named[normalized]
+    if "appendices" in normalized:
+        return "附录" if normalized == "appendices" else "补充附录"
+    if "sap" in normalized or "statistical analysis plan" in normalized:
+        return "纵向分析计划" if "longitudinal" in normalized else "统计分析计划（修订版）" if "amended" in normalized else "统计分析计划"
+    if "protocol" in normalized or normalized.startswith("study plan"):
+        title_zh = "过程评估方案" if "process" in normalized else "研究方案"
+        if "primary" in normalized: title_zh += "（小学）"
+        elif "secondary" in normalized: title_zh += "（中学）"
+        elif any(value in normalized for value in ("amended", "update", "[v2]", "v1.1")): title_zh += "（修订版）"
+        return title_zh
+    if "report" in normalized:
+        if "longitudinal" in normalized: return "评估报告（含纵向随访）"
+        if "scale up" in normalized: return "推广评估报告"
+        return "评估报告（更新版）" if "update" in normalized else "评估报告"
+    return title
 
 
 def render_programme_v3(slug: str, p: dict, errata: list) -> str:
@@ -904,13 +924,14 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
     impact = f"{programme_months(p['months'])} 个月" if p.get("months") is not None else (p.get("impact_label") or "未提供")
     cost = _cost_rating(p.get("cost_rating"), p.get("cost_total"), p.get("cost_status") or "ok")
     if p.get("cost_per_pupil") is not None:
-        cost += f"<br><small>£{p['cost_per_pupil']:g}/生/年</small>"
+        cost += f"<br><small>£{p['cost_per_pupil']:g}{esc(p.get('cost_unit') or '/生/年')}</small>"
     stage = EVIDENCE_TYPE_ZH.get(p.get("evidence_type"), p.get("evidence_type") or "未提供")
     lines = [f"> [!eef-programme|v3] [{esc(p['name'])}]({p['url']})",
              f"> {PROG_ZH.get(slug, p.get('description') or '')}", ">",
              "> | imp | stage | sec | cost |", "> | --- | --- | --- | --- |",
              f"> | {esc(impact)} | {esc(stage)} | {_dots(p.get('security_rating'), p.get('security_total'))} | {cost} |"]
     facts = [("开发机构", p.get("developer")), ("实施主体", p.get("delivery_organisation")),
+             ("实施安排", p.get("delivery_schedule")), ("培训支持", p.get("training_support")),
              ("成本口径", p.get("cost_note") or p.get("cost_context"))]
     facts = [(k, v) for k, v in facts if v]
     if facts:
@@ -918,7 +939,7 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
     notes: list[str] = []
     for trial in p.get("trials", []):
         r = trial.get("record", {})
-        label = esc(trial["label"])
+        label = esc(r.get("label_zh") or trial["label"])
         phase = "推广" if trial.get("kind") == "scale_up" else EVIDENCE_TYPE_ZH.get(trial.get("type"), trial.get("type") or "阶段未提供")
         summary = [phase]
         if trial.get("completed"):

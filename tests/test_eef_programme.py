@@ -81,6 +81,26 @@ class ProgrammeTests(unittest.TestCase):
             for document in record['documents']:
                 self.assertIn(document['url'], trial)
 
+    def test_all_programmes_mapped_without_losing_source_outcomes(self):
+        data = eef.load_json(ROOT / 'datasets/eef/programmes.json')['programmes']
+        self.assertEqual(len(data), 23)
+        self.assertTrue(all(p['entries'] for p in data.values()))
+        raw = eef.load_json(ROOT / 'raw/EEF/EEF_promising_programmes_full .json')
+        source = {(t['url'], o['outcome_group']): o for t in raw['trials'] for o in t.get('trial_outcomes', [])}
+        actual = {(t['url'], o['outcome_group']): o for p in data.values() for t in p['trials'] for o in t.get('outcomes', [])}
+        self.assertEqual(set(source), set(actual))
+        for key, original in source.items():
+            for field in ('impact_months', 'effect_size', 'security_strength', 'security_status'):
+                self.assertEqual(actual[key].get(field), original.get(field), (key, field))
+        p = data['tutor-trust-primary']
+        self.assertIn('£112/生/干预周期', eef.render_programme('tutor-trust-primary', p, [], {}))
+        self.assertIn('小幅正向影响', eef.render_programme('emotion-coaching', data['emotion-coaching'], [], {}))
+
+    def test_project_period_supports_years_or_months_without_observed_dates(self):
+        self.assertIn('2012-01 至 2014-01', eef.programme_project_period({'page_project_duration': '2 year(s)', 'completed': '2014-01'}))
+        self.assertIn('2023-02 至 2023-12', eef.programme_project_period({'page_project_duration': '10 month(s)', 'completed': '2023-12'}))
+        self.assertIsNone(eef.programme_project_period({'page_project_duration': '', 'completed': '2014-01'}))
+
     def test_zero_missing_and_unrated_remain_distinct(self):
         p = copy.deepcopy(self.programme)
         outcome = p['trials'][0]['outcomes'][0]

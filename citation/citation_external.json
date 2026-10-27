@@ -7040,14 +7040,18 @@
     "Eugene Bardach & Robert Kagan, 1982": "Eugene Bardach & Robert Kagan, 1982",
     "Eugene Belisle (1944)": "Eugene Belisle, 1944",
     "Eugene Belisle, 1944": "Eugene Belisle, 1944",
-    "European Commission (1993)": "European Commission, 1993",
+    "European Commission (1993a)": "European Commission, 1993a",
+    "European Commission (1993b)": "European Commission, 1993b",
+    "European Commission (1995)": "European Commission, 1995",
     "European Commission (2007)": "European Commission, 2007",
     "European Commission (2010)": "European Commission, 2010",
     "European Commission (2016)": "European Commission, 2016",
     "European Commission (2018)": "European Commission, 2018",
     "European Commission (2021)": "European Commission, 2021",
-    "European Commission, 1993": "European Commission, 1993",
-    "European Commission, 1993a": "European Commission, 1993",
+    "European Commission, 1993a": "European Commission, 1993a",
+    "European Commission, 1993b": "European Commission, 1993b",
+    "European Commission, 1995": "European Commission, 1995",
+    "European Commission, 1995b": "European Commission, 1995",
     "European Commission, 2007": "European Commission, 2007",
     "European Commission, 2010": "European Commission, 2010",
     "European Commission, 2016": "European Commission, 2016",
@@ -7397,6 +7401,8 @@
     "Fidalgo, 2008": "Fidalgo, 2008",
     "Fidler (2001)": "Fidler, 2001",
     "Fidler, 2001": "Fidler, 2001",
+    "Field (1998)": "Field, 1998",
+    "Field, 1998": "Field, 1998",
     "Fielding & Fielding (1986)": "Fielding & Fielding, 1986",
     "Fielding & Fielding, 1986": "Fielding & Fielding, 1986",
     "Fielding & Lee (1998)": "Fielding & Lee, 1998",
@@ -12146,11 +12152,13 @@
     "Kazamias (1961)": "Kazamias, 1961",
     "Kazamias (1963)": "Kazamias, 1963",
     "Kazamias (1966)": "Kazamias, 1966",
+    "Kazamias (1995)": "Kazamias, 1995",
     "Kazamias (2001)": "Kazamias, 2001",
     "Kazamias (2009)": "Kazamias, 2009",
     "Kazamias, 1961": "Kazamias, 1961",
     "Kazamias, 1963": "Kazamias, 1963",
     "Kazamias, 1966": "Kazamias, 1966",
+    "Kazamias, 1995": "Kazamias, 1995",
     "Kazamias, 2001": "Kazamias, 2001",
     "Kazamias, 2009": "Kazamias, 2009",
     "Kazdin (1982)": "Kazdin, 1982",
@@ -17905,7 +17913,10 @@
     "Pasi Sahlberg (2012)": "Pasi Sahlberg, 2012",
     "Pasi Sahlberg, 2012": "Pasi Sahlberg, 2012",
     "Pasias (2005)": "Pasias, 2005",
+    "Pasias (2006)": "Pasias, 2006",
     "Pasias, 2005": "Pasias, 2005",
+    "Pasias, 2006": "Pasias, 2006",
+    "Pasias, 2006a": "Pasias, 2006",
     "Pasnak (1991)": "Pasnak, 1991",
     "Pasnak (1996)": "Pasnak, 1996",
     "Pasnak, 1991": "Pasnak, 1991",
@@ -21958,8 +21969,10 @@
     "Spratt, 2013": "Spratt, 2013",
     "Spreen (2004)": "Spreen, 2004",
     "Spreen, 2004": "Spreen, 2004",
+    "Spring (1998)": "Spring, 1998",
     "Spring (2013)": "Spring, 2013",
     "Spring (2015)": "Spring, 2015",
+    "Spring, 1998": "Spring, 1998",
     "Spring, 2013": "Spring, 2013",
     "Spring, 2015": "Spring, 2015",
     "Springer (2010)": "Springer, 2010",
@@ -78048,10 +78061,10 @@
       ],
       "title": ""
     },
-    "European Commission, 1993": {
+    "European Commission, 1993a": {
       "aliases": [
-        "European Commission, 1993",
-        "European Commission (1993)"
+        "European Commission, 1993a",
+        "European Commission (1993a)"
       ],
       "doi": "",
       "identity_keys": [
@@ -78061,7 +78074,37 @@
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
       ],
-      "title": ""
+      "title": "Green Paper 'European dimension in education'"
+    },
+    "European Commission, 1993b": {
+      "aliases": [
+        "European Commission, 1993b",
+        "European Commission (1993b)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "European Commission, 1993b"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/Growth, Competitiveness, Employment.md"
+      ],
+      "title": "Growth, competitiveness, and employment: The challenges and ways forward into the twenty-first century"
+    },
+    "European Commission, 1995": {
+      "aliases": [
+        "European Commission, 1995",
+        "European Commission (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "European Commission, 1995b"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/Teaching and Learning - Towards the Learning Society.md"
+      ],
+      "title": "Teaching and learning: Towards the learning society"
     },
     "European Commission, 2007": {
       "aliases": [
@@ -80677,6 +80720,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The impact of class size reduction on student achievement."
+    },
+    "Field, 1998": {
+      "aliases": [
+        "Field, 1998",
+        "Field (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Field, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/Teaching and Learning - Towards the Learning Society.md"
+      ],
+      "title": "European dimensions: education, training and the European Union"
     },
     "Fielding & Fielding, 1986": {
       "aliases": [
@@ -115173,6 +115231,21 @@
         "wiki/persons/uk/Matthew Arnold.md"
       ],
       "title": ""
+    },
+    "Kazamias, 1995": {
+      "aliases": [
+        "Kazamias, 1995",
+        "Kazamias (1995)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Kazamias, 1995"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/Teaching and Learning - Towards the Learning Society.md"
+      ],
+      "title": "Neo-European modernization and education: discourses and policies in an 'imagined Europe'"
     },
     "Kazamias, 2001": {
       "aliases": [
@@ -156744,6 +156817,21 @@
       ],
       "title": ""
     },
+    "Pasias, 2006": {
+      "aliases": [
+        "Pasias, 2006",
+        "Pasias (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pasias, 2006a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/Growth, Competitiveness, Employment.md"
+      ],
+      "title": "European Union and education. Vol. I: Institutional discourses and educational policy (1957–1999)"
+    },
     "Pasnak, 1991": {
       "aliases": [
         "Pasnak, 1991",
@@ -185412,7 +185500,7 @@
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
       ],
-      "title": ""
+      "title": "Joint declaration on harmonisation of the architecture of the European higher education system"
     },
     "Sorensen, 1995": {
       "aliases": [
@@ -186204,6 +186292,21 @@
         "wiki/arguments/journal-articles/Research in Comparative and International Education/Argument_Rappleye_2006_RCIE.md"
       ],
       "title": ""
+    },
+    "Spring, 1998": {
+      "aliases": [
+        "Spring, 1998",
+        "Spring (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Spring, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/Teaching and Learning - Towards the Learning Society.md"
+      ],
+      "title": "Education and the rise of the global economy"
     },
     "Spring, 2013": {
       "aliases": [
