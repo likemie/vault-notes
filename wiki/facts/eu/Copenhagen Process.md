@@ -98,7 +98,7 @@ updated: 2026-10-28
 
 > [!finding-cards] 效果与评价
 > - **职教资历互认架构的奠基** 成功促使全欧职业教育由关注“学制年限与教学输入”转向以“知识、技能与胜任力”为核心的学习产出范式。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 488–490)]]
-> - **成员国实施分歧与本土抗蚀** 比较教育实证研究（Ertl & Phillips, 2006）指出，由于各国历史沉淀的学徒制文化与劳动力市场制度迥异，共同指令在各国的理解与落实路径呈现显著分歧。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 491–492)]]
+> - **成员国实施分歧与本土抗蚀** 比较教育实证研究（Ertl & Phillips, 2006）指出，由于各国历史形成的学徒制文化与劳动力市场制度迥异，共同指令在各国的理解与落实路径呈现显著分歧。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 491–492)]]
 > - **职教沦为市场功利主义工具** 批判研究揭示该进程将职业教育狭隘定义为劳动力市场短期供给与适应性操演，削弱了其社会包容与公民培育维度。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480, 484)]]
 
 ---

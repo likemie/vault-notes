@@ -136,7 +136,7 @@ updated: 2026-10-28
 > 本类命题探讨多边监督如何将外部跨国意志内化为国家自发的政策行动，形成隐形而深层的规制权力。
 
 > [!claim] [[Nikolas Rose|Rose, N.]]
-> **数字监控与[[Governmentality|治理术]]延伸** 尼古拉斯·罗斯（Nikolas Rose, 1999）指出，以数字为中介的监控体系将权力的运作转化为客观[[Knowledge Production|知识生产]]；多边监督建立的技术标准使得治理无需通过外在的强加指令，而是让受治理主体在对照量化基准的自我审视中主动规范自身行为。
+> **数字监控与[[Governmentality|治理术]]延伸** 尼古拉斯·罗斯（Nikolas Rose, 1999）指出，以数字为中介的监控体系将权力的运作转化为客观[[Knowledge Production|知识生产]]；多边监督建立的技术标准让受治理主体在对照量化基准的自我审视中主动规范自身行为，省去了直接的外在强加指令。
 
 > [!claim] Rizvi, F. & Lingard, B.
 > **远处掌舵的制度通道** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）阐明，多边监督使超国家组织能够避开直接干预民族国家内政的法律红线；通过向全球公布经由多边监督汇总而成的各国相对排位与效能数据，国际组织得以撬动成员国内部的政策争论，实现了以最小主权阻力达成深层政策调控的远处掌舵效果。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
@@ -169,7 +169,7 @@ updated: 2026-10-28
 > > 争论多边监督究竟是主权国家平等交流与提升政策反思能力的互助网络，还是国际官僚借技术客观性侵蚀民族国家教育自主权的隐形手段。
 > >
 > > - **经合组织官方治理立场（1998）** 认为多边监督与同行质询是主权国家在复杂世界中克服本位主义、提升公共治理透明度与现代化的必要制度保障。
-> > - **[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]** 批评当代多边监督已蜕变为高度集权的数据霸权，通过预设新自由主义市场指标强行格式化各国的教育目的，严重损害了本土民主审议主权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–442)]]
+> > - **[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]** 批评当代多边监督已演变为高度集权的数据霸权，通过预设新自由主义市场指标强行格式化各国的教育目的，严重损害了本土民主审议主权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–442)]]
 
 ---
 

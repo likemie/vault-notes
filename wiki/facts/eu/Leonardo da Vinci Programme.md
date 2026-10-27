@@ -58,7 +58,7 @@ updated: 2026-10-28
 > 达芬奇计划（Leonardo da Vinci Programme / LEONARDO）是[[EU|欧洲联盟]]于 1995 年依据《马斯特里赫特条约》第 127 条设立的职业教育与培训领域旗舰行动计划，作为欧盟官方教育网络的核心支柱，旨在通过资助学徒与技能劳动者跨国实习、推动职教机构与企业合作，提升欧洲劳动力的流动性与职业技能水平。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 481, 485)]]
 
 > [!program-context] 项目背景
-> - **立项时间 / 周期** 1995 年正式立项启动（第一期 1995–1999 年，第二期 2000–2006 年），2006 年结项后统合入新千年综合性的终身学习计划（2007–2013）。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 485, 488)]]
+> - **立项时间 / 周期** 1995 年正式立项启动（第一期 1995–1999 年，第二期 2000–2006 年），2006 年结项后并入新千年综合性的终身学习计划（2007–2013）。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 485, 488)]]
 > - **发起方与制度基础** 依据《马斯特里赫特条约》（TEU）第 127 条确立（授权共同体实施职业培训政策），遵循合作程序（Article 189C），由欧盟委员会第 22 总司统筹运作。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 481, 485)]]
 > - **覆盖范围与对象** 覆盖全体欧盟成员国及伙伴国的初等与继续职业教育机构、学徒培训中心、中小企业以及行业协会。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]
 > - **核心问题导向** 应对欧洲统一大市场建设中技术工人流动壁垒高、职业资格缺乏跨国互认以及传统技能无法适应当代工业转型的问题。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482, 484–485)]]

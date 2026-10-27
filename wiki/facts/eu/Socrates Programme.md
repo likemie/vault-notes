@@ -4,7 +4,7 @@ aliases:
   - 苏格拉底计划
   - Socrates计划
   - SOCRATES项目
-summary: "欧洲联盟于 1995 年依据《马斯特里赫特条约》设立的官方普通教育旗舰合作计划，涵盖伊拉斯谟、夸美纽斯、格伦特维与语言学习等子计划，依托共同决策法与第 22 总司拨款推动跨国校际合作与师生流动；2006 年结项后统合入终身学习计划。"
+summary: "欧洲联盟于 1995 年依据《马斯特里赫特条约》设立的官方普通教育旗舰合作计划，涵盖伊拉斯谟、夸美纽斯、格伦特维与语言学习等子计划，依托共同决策法与第 22 总司拨款推动跨国校际合作与师生流动；2006 年结项后并入终身学习计划。"
 type: fact
 subtype: program
 region: eu
@@ -81,7 +81,7 @@ updated: 2026-10-28
 > [!dev-timeline] 项目推进历程
 > - **1995–1999 — 第一期（Socrates I）全面启动** 整合原有零散行动，形成覆盖高等教育与基础教育的统一资助框架。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]
 > - **2000–2006 — 第二期（Socrates II）深化推进** 拓展成人教育与信息通信技术教育，但科层管理繁琐与行动计划局限性引发广泛批评。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 486, 488)]]
-> - **2006 结项与统合** 传统离散行动计划被新千年综合性的终身学习计划（2007–2013）全面吸纳整合。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 488)]]
+> - **2006 结项与转轨** 传统离散行动计划被新千年综合性的终身学习计划（2007–2013）全面吸纳整合。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 488)]]
 
 ---
 
@@ -101,7 +101,7 @@ updated: 2026-10-28
 > [!finding-cards] 效果与评价
 > - **制度化跨国教育流动网络的建立** 奠定了全欧高校与中小学校际跨国合作的基础设施，显著提升了欧洲青年人口的跨国流动性与跨文化交往。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]
 > - **科层行政繁琐与官僚膨胀瓶颈** 后期评估暴露严重弊端，被学术界与政策界批评为管理效率低下且充斥着不成比例的繁文缛节（disproportionate bureaucracy）。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 486)]]
-> - **难以撬动国家教育宏观体制趋同** 单纯依靠项目申报模式无法直接促成成员国宏观教育体制的结构性收敛，最终促使欧盟转向里斯本开放协调法。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 486, 490)]]
+> - **难以撬动国家教育宏观体制趋同** 单纯依靠项目申报模式无法直接促成成员国宏观教育体制的结构性趋同，促使欧盟转向里斯本开放协调法。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 486, 490)]]
 
 ---
 
