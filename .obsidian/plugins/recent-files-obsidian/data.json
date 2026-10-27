@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "template-eef-programme",
+      "path": "wiki/templates/template-eef-programme.md"
+    },
+    {
+      "basename": "template-fact-eef-programme",
+      "path": "wiki/templates/template-fact-eef-programme.md"
+    },
+    {
       "basename": "上海市普陀区民政局关于印发《普陀区老龄事业发展“十五五”规划》的通知-上海普陀",
       "path": "Clippings/上海市普陀区民政局关于印发《普陀区老龄事业发展“十五五”规划》的通知-上海普陀.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Mitter_2009_Europe",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Mitter_2009_Europe.md"
-    },
-    {
-      "basename": "Argument_Niemann_Martens_2018_GSP",
-      "path": "wiki/arguments/journal-articles/Global Social Policy/Argument_Niemann_Martens_2018_GSP.md"
-    },
-    {
-      "basename": "Argument_Rizvi_Lingard_2009_OECDEducationPolicy",
-      "path": "tmp/callout-design-backup-v4/idp-before/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md"
     }
   ],
   "omittedPaths": [],
