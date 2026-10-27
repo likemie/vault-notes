@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 ---
@@ -159,6 +159,7 @@ updated: 2026-10-25
 > - **2000 — 治理转型** [[Lisbon Strategy|里斯本战略]]正式启动[[Open Method of Coordination|开放协调法]]（OMC），辅助性原则成为软法治理与量化基准线监测合法性辩护的理论支点。
 > - **2002–2009 — 批判解构** Nóvoa (2002) 与 [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] 奠定批判分析[[Paradigm|范式]]，指出辅助性原则在实操中未能阻止超国家教育[[Discourse|话语]]对国家主权的隐蔽穿透。
 > - **2009 — 数据基础设施共生与辅助性原则规避** [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24–25, 32–35)]] 揭示欧盟如何通过资助经合组织 PISA 调查并采购其 50%–60% 数据，在恪守辅助性原则法律形式下依托跨国数字指标推进欧洲教育空间事实一体化。
+> - **2009 — 进取型政府间主义与全景敞视建构** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009, pp. 481–482, 490–493)]] 考证马斯特里赫特条约第 126/127 条确立的辅助性原则与共同决策程序，揭示欧盟如何在新千年通过进取型政府间主义与新功能主义外溢，依托开放协调法与监视技术架空宪制防守。
 
 ---
 
@@ -187,6 +188,7 @@ updated: 2026-10-25
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 考证《马斯特里赫特条约》第 126/127 条辅助性原则，揭示欧盟如何通过进取型政府间主义与开放协调法突破宪制限制。（pp. 481–482, 490–493）
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析[[EU|欧盟]]在《马斯特里赫特条约》辅助性原则制约下，如何借助最佳实践修辞、量化指标基准线与[[Bologna Process|博洛尼亚进程]]三大软治理机制渗透成员国教育政策。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 揭示欧盟委员会如何通过出资资助 80% 成本并采购经合组织 50%–60% 统计数据，依托外部数据基础设施绕过辅助性原则在教育领域的立法约束。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 探讨[[European Education Space|欧洲教育空间]]建构过程中，超国家[[Discourse|话语]]如何在规避直接管辖争议的同时，将[[Student Mobility|学生流动]]重构为跨越成员国主权边界的公民美德。

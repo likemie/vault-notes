@@ -161,7 +161,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-05
-updated: 2026-10-22
+updated: 2026-10-27
 ---
 
 ---
@@ -218,11 +218,11 @@ updated: 2026-10-22
 
 >   - **阅读价值** 呈现比较教育学如何从早期准科学与历史人文传统，走向 1960 年代围绕“法则、预测与经验共变”的实证科学化运动，辨析芝加哥、哥大与伦敦学派在规律性质上的[[Epistemology\|认识论]]分野，并剖析实证方法与战后国家规划合法化之间的政治共谋与[[Paradigm\|范式]]衰变；Ch. 09 进一步平反十九世纪[[Influences Across Cultures|跨文化影响]]考证遗产，揭示 26 种理论范式共存的“健康[[Pluralism|多元主义]]”而非失控碎片化。
 > - **国家理论、依附性与全球化教育扩张**
->   - **相关章节** Ch. 06 [[Argument_Olmos_Torres_2009_StateTheories]]；Ch. 08 [[Argument_Arnove_2009_WorldSystems]]；Ch. 09 [[Argument_Rust_2009_Reflections]]；Ch. 11–20（Section 2 政治形态与教育系统）；Ch. 28 [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]；Ch. 29 [[Argument_Castro_2009_MultilateralBanks]]；Ch. 34（Whitty）；Ch. 64（Dale）。
->   - **阅读价值** 呈现比较教育学如何从抽象的普世现代主义叙事，走向对民族国家机器复杂性、全球资本积累阶段性、[[Conditioned State Theory\|受限国家]]双轨分选、世界体系中心-边缘依附、[[Pluri-Scalar Governance|多标度治理]]以及[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]]与[[OECD|经合组织]]“[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]”规训机制的批判政治经济学解构，并开辟基层社会运动的自下而上反抗视野；Ch. 09 确立涵盖“强制再生产”的[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]，Ch. 28 进一步剖析[[OECD]]如何通过[[PISA]]制造全球可[[Commensuration|通约]]的“[[Space of Equivalence|等值空间]]”并将性别平权与社会资本工具化为经济效率的附庸；Ch. 29 则从圈内人高阶视角解构[[Multilateral Development Bank|多边开发银行]]（世行与泛美行）作为主权信用合作社的金融运作本质，揭示[[Washington Consensus|华盛顿共识]]在教育放贷中衍生的九大技术信条，并直指官僚报销审计与重投入轻产出的执行评估失能。
+>   - **相关章节** Ch. 06 [[Argument_Olmos_Torres_2009_StateTheories]]；Ch. 08 [[Argument_Arnove_2009_WorldSystems]]；Ch. 09 [[Argument_Rust_2009_Reflections]]；Ch. 11–20（Section 2 政治形态与教育系统）；Ch. 28 [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]；Ch. 29 [[Argument_Castro_2009_MultilateralBanks]]；Ch. 30 [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]；Ch. 34（Whitty）；Ch. 64（Dale）。
+>   - **阅读价值** 呈现比较教育学如何从抽象的普世现代主义叙事，走向对民族国家机器复杂性、全球资本积累阶段性、[[Conditioned State Theory\|受限国家]]双轨分选、世界体系中心-边缘依附、[[Pluri-Scalar Governance|多标度治理]]以及[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]]与[[OECD|经合组织]]“[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]”规训机制的批判政治经济学解构，并开辟基层社会运动的自下而上反抗视野；Ch. 09 确立涵盖“强制再生产”的[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]，Ch. 28 进一步剖析[[OECD]]如何通过[[PISA]]制造全球可[[Commensuration|通约]]的“[[Space of Equivalence|等值空间]]”并将性别平权与社会资本工具化为经济效率的附庸；Ch. 29 从圈内人高阶视角解构[[Multilateral Development Bank|多边开发银行]]（世行与泛美行）作为主权信用合作社的金融运作本质，揭示[[Washington Consensus|华盛顿共识]]在教育放贷中衍生的九大技术信条，并直指官僚报销审计与重投入轻产出的执行评估失能；Ch. 30 则以《马斯特里赫特条约》至里斯本战略为轴线，运用福柯权力-知识理论与全景敞视分析框架，揭示欧盟如何在宪制辅助性原则限制下，通过危机叙事构筑“[[Europe of Knowledge|知识欧洲]]”市场化话语，并依托开放协调法整合指标凝视、绩效评审与技术官僚治理，最终在超国家尺度建立起事实上的“欧洲教育全景敞视建筑”。
 > - **教育转移与跨国制度流动**
->   - **相关章节** Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]；Ch. 09 [[Argument_Rust_2009_Reflections]]；Ch. 22 [[Argument_Beech_2009_GlobalGarden]]；Ch. 28 [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]；Ch. 67（Phillips）；Ch. 71（Steiner-Khamsi）。
->   - **阅读价值** 呈现[[Policy Borrowing\|教育借用]]从经典移植论向全球治理与去本土化分析的[[Paradigm\|范式]]演进；Ch. 09 示范了美德跨大西洋互动与挪威多边借用中“恶政与良教自然可分”的理性转译逻辑；Ch. 22 引入语篇位置与[[Space of Flows|流动空间]]视角，构建全球教育[[Champ|场域]]五位置模型，揭示多边国际组织基于[[Pragmatic Paradigm|实用主义]]对学术[[Discourse|话语]]的过度简化、拉美精英“[[Gatekeepers|守门人]]网络”对国家政策空间的闭合，以及通用模型落地学校机构引发的不可预测实践脱节；Ch. 28 则揭示[[OECD]]如何从成员国自愿国别审查的开放论坛转型为依托数字即政策与刚性[[Peer Pressure|同侪压力]]实施跨国远处掌舵的独立政策行动者。
+>   - **相关章节** Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]；Ch. 09 [[Argument_Rust_2009_Reflections]]；Ch. 22 [[Argument_Beech_2009_GlobalGarden]]；Ch. 28 [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]；Ch. 30 [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]；Ch. 67（Phillips）；Ch. 71（Steiner-Khamsi）。
+>   - **阅读价值** 呈现[[Policy Borrowing\|教育借用]]从经典移植论向全球治理与去本土化分析的[[Paradigm\|范式]]演进；Ch. 09 示范了美德跨大西洋互动与挪威多边借用中“恶政与良教自然可分”的理性转译逻辑；Ch. 22 引入语篇位置与[[Space of Flows|流动空间]]视角，构建全球教育[[Champ|场域]]五位置模型，揭示多边国际组织基于[[Pragmatic Paradigm|实用主义]]对学术[[Discourse|话语]]的过度简化、拉美精英“[[Gatekeepers|守门人]]网络”对国家政策空间的闭合，以及通用模型落地学校机构引发的不可预测实践脱节；Ch. 28 揭示[[OECD]]如何从成员国自愿国别审查的开放论坛转型为依托数字即政策与刚性[[Peer Pressure|同侪压力]]实施跨国远处掌舵的独立政策行动者；Ch. 30 进一步揭示欧盟开放协调法如何借助去立法的软法规训与指标监控，绕开宪制硬法阻碍推行成员国政策自愿趋同。
 > - **空间转向、流动性与人口治理**
 >   - **相关章节** Ch. 23 [[Argument_Sobe_Fischer_2009_MobilityMigration]]；Ch. 61（空间认知地图）；Ch. 67（Phillips 转移地理学）；Ch. 71（Steiner-Khamsi）。
 >   - **阅读价值** 呈现比较教育学如何从[[Enlightenment|启蒙运动]]将空间从属于时间的线性进化史观，转向批判性空间实践与[[Governmentality|治理术]]微观解剖；解构现代学校作为封闭容器对跨国与国内流动人口（移民、游牧民、[[Migrant Children|随迁儿童]]）的规训机制，揭示欧美政策[[Discourse|话语]]对[[Student Mobility|学生流动性]]（欧洲一体化公民资本 vs 美国 [[No Child Left Behind Act 2001|NCLB]] 漂泊失范）的阶层化道德双标，并统合知识理性系统与结构性参与公平。
@@ -245,9 +245,10 @@ updated: 2026-10-22
 >   - Ch. 23 [[Argument_Sobe_Fischer_2009_MobilityMigration]]。Sobe 与 Fischer 运用空间转向与[[Governmentality|治理术]]理论，解构欧美政策[[Discourse|话语]]对[[Student Mobility|学生流动性]]的阶层化双重编码（欧洲一体化跨国公民胜任力 vs 美国 [[No Child Left Behind Act 2001|NCLB]] 绩效问责下的病态漂泊与失范指标），剖析学校作为兼具物理封闭与社会资格筛选功能的空间治理容器；通过中（[[Hukou System|户籍制度]]排斥与[[Schools for Migrant Children|打工子弟学校]]整顿）、美（《[[Plyler v. Doe 1982|普莱勒诉多伊案]]》宪法平权与无证农工子女）、西（跨文化教育调适）、英（大篷车游民的空间文化失调）与印（游牧部族以教育避险的能动性）五国经验，揭示国家强制定居规训与边缘少数群体微观能动性的动态博弈，最终将知识理性系统与公平参与结构统合于空间实践[[Analytic Framework|分析框架]]。
 >   - Ch. 28 [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]。Rizvi 与 Lingard 系统对比[[OECD]]在 1960–1990 年帕帕多普洛斯社会民主主义妥协期与 1990 年代中期后新自由主义期的深刻断裂，阐明[[OECD]]如何依托[[New Growth Theory|内生新增长理论]]建构“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，推动学习从“[[Knowledge-that and Know-how-to|知其然]]”向“知其所以操作”与“学习型经济”转型；通过[[PISA]]制造全球可[[Commensuration|通约]]的“[[Space of Equivalence|等值空间]]”与“数字即政策”（以跨国[[Reliability|信度]]压倒[[Construct Validity|构念效度]]）；并在“[[Economic Fundamentalism|经济基要主义]]”逻辑下将教育公平、性别平权与社会资本全面工具化为经济效率的附庸，使自身从政府间开放论坛蜕变为独立的跨国政策行动者。
 >   - Ch. 29 [[Argument_Castro_2009_MultilateralBanks]]。Castro 运用机构政治经济学与长期内部决策视角，解构以[[World Bank|世界银行]]与美洲开发银行为代表的[[Multilateral Development Bank|多边开发银行]]在教育领域的双重性：既是提供廉价硬通货贷款的“资金银行”（Bank of Funds），又是试图通过结构调整附带条件与知识垄断重塑借款国政策的“理念银行”（Bank of Ideas）；系统剖析多边银行在专业官僚傲慢、忽视执行能力、偏好多重目标复杂项目及追逐教育时尚等方面的内在病理，并通过巴西、中非共和国及中东欧转轨国家的实证经验，证明外部贷款能否成功的决定性因素在于借款国的本土意愿与政治治理成熟度，而非外源性政策强制。
+>   - Ch. 30 [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]。Pasias 与 Roussakis 运用福柯权力-知识理论与全景敞视理论，解构 1992–2007 年[[EU|欧盟]]教育与培训政策的三阶段演化；揭示欧委会如何以全球化危机修辞建构市场导向的“[[Europe of Knowledge|知识欧洲]]”话语，将知识降格为易耗商品；并阐明在新千年进程中，欧盟如何以激进政府间主义与新功能主义取代防御型[[Subsidiarity Principle|辅助性原则]]，依托[[Open Method of Coordination|开放协调法]]（OMC）整合凝视技术、绩效技术与治理技术，最终在各成员国自愿合规表象下确立超国家“欧洲教育全景敞视建筑”。
 > - **优先处理章节** Ch. 01（联合导论）、Ch. 21（导论）、Ch. 61（新思维导论）、Ch. 79 与 Ch. 80（全书收束与结论）。
 > - **可暂缓章节** 专门聚焦特定国家微观细部、与全书主干理论对话相对松散的案例章节。
-> - **缺口提醒** 目前已完成 Ch. 02 至 Ch. 10 共 9 章，Section 2 收官章 Ch. 20，以及 Section 3 核心章节 Ch. 22、Ch. 23、Ch. 28、Ch. 29 共 14 章；全书第一板块（Section 1 学科的创建与再造）已全部夯实收束，第二板块（Section 2 政治形态与教育系统）与第三板块（Section 3 民族、国际与全球）的关键理论、国别制度与国际金融/政策组织案例已正式建立连接。
+> - **缺口提醒** 目前已完成 Ch. 02 至 Ch. 10 共 9 章，Section 2 收官章 Ch. 20，以及 Section 3 核心章节 Ch. 22、Ch. 23、Ch. 28、Ch. 29、Ch. 30 共 15 章；全书第一板块（Section 1 学科的创建与再造）已全部夯实收束，第二板块（Section 2 政治形态与教育系统）与第三板块（Section 3 民族、国际与全球）的核心理论、国别制度与超国家组织（OECD、世行、多边银行、欧盟）全景规训案例已全线打通并完成阶段性收官。
 
 
 ---
@@ -268,6 +269,7 @@ updated: 2026-10-22
 > - **Ch. 23 — Mobility, Migration and Minorities in Education** [[Argument_Sobe_Fischer_2009_MobilityMigration]] — 运用空间转向与[[Governmentality|治理术]]视角，解构欧美对[[Student Mobility|学生流动]]的阶层化双重政策编码，并通过中、美、西、英、印五国案例剖析学校作为封闭容器对流动少数群体的空间规训与能动博弈。
 > - **Ch. 28 — The [[OECD]] and Global Shifts in Education Policy** [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]] — 剖析[[OECD]]自 1990 年代中期后如何建构“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”并依托[[PISA]]制造全球可[[Commensuration|通约]]“[[Space of Equivalence|等值空间]]”，将教育公平、性别平权与社会资本全面工具化为经济效率的附庸，使自身从政府间论坛转型为独立的跨国政策行动者。
 > - **Ch. 29 — Can Multilateral Banks Educate the World?** [[Argument_Castro_2009_MultilateralBanks]] — 解构以[[World Bank|世行]]与美洲开发银行为代表的[[Multilateral Development Bank|多边开发银行]]在教育援助中“资金银行”与“理念银行”的双重角色，剖析多边机构的官僚病理、技术规训与政策套用盲区，实证阐明外部借贷成败取决于借款国本土政治意愿与制度能力。
+> - **Ch. 30 — Towards The European Panopticon: EU Discourses and Policies in Education and Training 1992–2007** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]] — 运用福柯权力-知识与全景敞视理论，解构欧盟教育政策三阶段演进，揭示“知识欧洲”话语与开放协调法如何借助指标凝视技术构筑超国家欧洲教育全景敞视。
 
 
 ---

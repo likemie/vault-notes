@@ -109,7 +109,7 @@ updated: 2026-10-27
 > [!sample-panel]- 材料与进入现场
 > | 维度 | 信息 |
 > |---|---|
-> | 材料来源 | 国家教育主管部门印发的行动规划、部委联合顶层规划方案、领导人外交演讲及新闻通稿。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 682–684)]] |
+> | 材料来源 | 国家教育主管部门印发的行动规划、部委联合顶层规划方案、领导人外交演讲及新闻通稿。[[Argument_Woo_2023_HEP\|(Woo, 2023, pp. 682–684)]] |
 > | 抽样或选案 | 选取在政策立项、制度设计与价值动员中具有最高权威性与引导力的关键政策文本群。 |
 > | 研究者位置 | 保持批判性距离，立足教育政策学与[[Cultural Political Economy|文化政治经济学]]跨学科视角审视政策文本的话语效能。 |
 > | 资料边界 | 聚焦特定国家倡议（如“[[Belt and Road Initiative|一带一路]]”）自提出至全面铺开期间颁布的核心涉外教育文件群。 |
@@ -148,5 +148,6 @@ updated: 2026-10-27
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯权力-知识理论与批判话语分析，解构欧盟官方白皮书与政策文本中“知识欧洲”的市场化话语建构。（pp. 479–481, 483–484）
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 创新结合费尔克拉夫三维批判[[Discourse Analysis|话语分析]]模型、政策框架理论与[[Critical Realism|批判实在论]][[Explanatory Critique|解释性批判]]，系统解构中国[[Belt and Road Education Action Plan|“一带一路”教育行动]]政策文本群的[[Discourse|话语]]建构与[[Geopolitics|地缘政治]]逻辑。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 引入费尔克拉夫批判性话语分析视角，揭示大众媒体与官方报告如何通过技术中立化语言将新自由主义权力关系自然化（p. 423）。

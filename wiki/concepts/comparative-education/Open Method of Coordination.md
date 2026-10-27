@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-22
+updated: 2026-10-27
 ---
 
 ---
@@ -111,13 +111,17 @@ updated: 2026-10-22
 > [!claim] [[Jason Beech|Beech, J.]]
 > **多标度网络中软性协调对政策空间的窄化** 比奇（Jason Beech）指出，开放协调法所搭建的“最佳实践”交流网络，实质上由跨国机构与官僚精英把关。这些中介机制将高度情境化的微观探索抽象为统一的通用工具包，剥离了各民族国家历史传统的独特性；成员国教育部在追逐超国家基准指标的过程中，逐渐失去了构想替代性本土政策的能力，最终促成了[[Global Educational Discourse|全球教育话语]]在各区域内的标准复刻。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
 
+> [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
+> **作为欧洲教育全景敞视监视技术的开放协调法** 乔治·帕西亚斯（George Pasias）与扬尼斯·鲁萨基斯（Yannis Roussakis）指出，开放协调法本质上是从跨国公司绩效评估移植而来的“监视技术（technologies of surveillance）”。该机制通过由指标和图表构成的“凝视技术（technologies of theasis）”、由基准线与同行评审构成的“绩效技术（technologies of performance）”，以及由欧洲技术官僚专家网络主导的“治理技术（technologies of governance）”，构筑起覆盖全欧的“全景敞视建筑”，使成员国在共同决策的形式下主动内化了外部规训控制。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 492–493)]]
+
 ---
 
 > [!contrast-table] 命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> | 维度 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **治理术与空间制作** | 揭示量化指标与同侪学习如何实现隐秘[[Disciplina and Doctrina\|规训]]与超国家空间虚构 | 欧洲教育治理与主权规训分析 | António Nóvoa; Martin Lawn |
 > | **多标度均质化** | 阐明最佳实践修辞如何削弱民族国家的替代性政策想象力 | 跨国[[Policy Mobility\|政策流动]]与[[Recontextualization\|再情境化]]批判 | Jason Beech |
+> | **全景敞视监视** | 阐明指标凝视、绩效评审与技术官僚网络如何构筑超国家监视建筑 | 超国家软法规训与微观权力解构 | George Pasias; Yannis Roussakis |
 
 ---
 
@@ -148,9 +152,11 @@ updated: 2026-10-22
 > |:---|:---|:---|
 > | [[Subsidiarity Principle]] | 概念 | 宪制前提，OMC 作为在辅助性原则严禁硬法立法情境下的替代治理工具。 |
 > | [[European Education Space]] | 概念 | 实践产物，OMC 是超国家机构虚构与制作欧洲教育空间的核心技术载体。 |
+> | [[Europe of Knowledge]] | 概念 | 宏观政策话语，OMC 作为落实“知识欧洲”路线图与技能商品化的治理载体。 |
 > | [[Governing by Numbers]] | 概念 | 理论纽带，OMC 深度践行以基准线与量化指标为核心的数字治理[[Paradigm\|范式]]。 |
 > | [[Performance Indicators]] | 概念 | 操作工具，绩效指标为 OMC 的跨国比较与同侪监控提供了客观化修辞。 |
 > | [[Pluri-Scalar Governance]] | 概念 | 分析范式，OMC 串联了超国家、国家与地方学区三个不同标度的治理层次。 |
+> | [[Panopticism]] | 理论 | 批判理论透镜，揭示 OMC 如何依托凝视、绩效与治理技术构筑欧洲教育全景敞视。 |
 > | [[Bologna Process]] | 事实 | 伴随实践，博洛尼亚进程在高等教育领域与 OMC 形成软治理双轨协同。 |
 
 ---
@@ -159,5 +165,6 @@ updated: 2026-10-22
 >
 > | 研究 | 视角 / 核心发现 |
 > |:---|:---|
+> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | 剖析开放协调法作为监视与规训技术，如何通过凝视技术、绩效技术与治理技术在超国家尺度确立“欧洲教育全景敞视建筑”。（pp. 480–481, 492–493） |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 剖析[[EU\|欧盟]]如何借助开放协调法的三大机制（最佳实践修辞、量化指标基准线与学位标准化）绕开[[Subsidiarity Principle\|辅助性原则]]，渗透成员国教育政策。 |
 > | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 分析欧洲超国家治理如何通过非强制性政策协调网络，将[[Student Mobility\|学生流动]]重塑为符合[[Knowledge-Based Economy\|知识经济]]需要的欧洲公民美德。 |

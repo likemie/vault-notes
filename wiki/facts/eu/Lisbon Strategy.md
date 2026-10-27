@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-10-26
+updated: 2026-10-27
 ---
 
 ---
@@ -190,4 +190,5 @@ updated: 2026-10-26
 > | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] | Argument | [[Systematic Review\|系统综述]]揭示 PISA 与里斯本战略在政策与概念框架上的紧密协同如何深刻推动欧盟国家的教育改革。 |
 > | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]] | Argument | 分析里斯本议程巴塞罗那研发目标的线性逻辑及其在欧洲现实中的受挫。 |
 > | [[Argument_Rambla_2022_Springer\|Rambla (2022)]] | Argument | 剖析从里斯本战略到欧洲 2020 战略的演进脉络及社会包容政策议程。 |
+> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | Argument | 剖析里斯本战略如何确立“由结果掌舵”范式，借助开放协调法与基准指标构筑欧洲全景敞视监控。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 论述开放协调法在欧洲教育空间塑造中的软治理传导机制。 |

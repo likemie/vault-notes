@@ -824,6 +824,9 @@ def render_programme(slug: str, p: dict, errata: list, titles: dict) -> str:
     return "\n".join(lines)
 
 
+PENDING = '<span class="eef-pending">待核实</span>'
+
+
 def programme_rating(value, total=5, status="ok") -> str:
     if status == "not_applicable":
         return "不适用"
@@ -881,7 +884,7 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
     verification notes gathered in a single box at the end."""
     pend = lambda s: esc(s).replace("待核实", PENDING)
     impact = f"{programme_months(p['months'])} 个月" if p.get("months") is not None else (p.get("impact_label") or "未提供")
-    cost = f"£{p['cost_per_pupil']:g} /生/年" if p.get("cost_per_pupil") is not None else "未提供"
+    cost = f"£{p['cost_per_pupil']:g}/生/年" if p.get("cost_per_pupil") is not None else "未提供"
     stage = EVIDENCE_TYPE_ZH.get(p.get("evidence_type"), p.get("evidence_type") or "未提供")
     lines = [f"> [!eef-programme|v3] [{esc(p['name'])}]({p['url']})",
              f"> {PROG_ZH.get(slug, p.get('description') or '')}", ">",
@@ -920,9 +923,7 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
         if r.get("evaluator_url"):
             evaluator = f"[{evaluator}]({r['evaluator_url']})"
         rows.append(("评估", evaluator + (f"；{pend(r['design_note'])}" if r.get("design_note") else "")))
-        sample = []
-        if trial.get("pupils") is not None:
-            sample.append(f"学生 {trial['pupils']:,} 人")
+        sample = []  # 学生数已在试验标题行，此处只列学校
         if trial.get("schools") is not None:
             sample.append(f"页面学校数 {trial['schools']:,} 所")
         if r.get("schools_randomised") is not None:
@@ -1010,10 +1011,15 @@ def cmd_render_programmes(args) -> int:
                 first = False
                 return result
             new = PROGRAMME_BLOCK_RE.sub(replace, text)
+        elif "\n> [!finding-cards]" in text:
+            # 与 template-fact-program 对齐：卡片位于成效段首，紧接 [!finding-cards]。
+            new = text.replace("\n> [!finding-cards]", "\n" + blocks + "\n\n> [!finding-cards]", 1)
         elif "## 成效评估\n" in text:
             new = text.replace("## 成效评估\n", "## 成效评估\n\n" + blocks + "\n", 1)
+        elif "\n> [!entry-map]" in text:
+            new = text.replace("\n> [!entry-map]", "\n" + blocks + "\n\n---\n\n> [!entry-map]", 1)
         else:
-            print(f"programme entry needs a module or 成效评估 section: {entry}", file=sys.stderr)
+            print(f"programme entry needs a module, [!finding-cards] or [!entry-map]: {entry}", file=sys.stderr)
             return 1
         if new != text:
             stale = True
@@ -1024,7 +1030,7 @@ def cmd_render_programmes(args) -> int:
 
 
 def cmd_template_programme(args) -> int:
-    """把指定项目的真实卡片写进 Program 模板的「成效评估」节，作为样板。"""
+    """把指定项目的真实卡片写进 EEF Program 模板的成效段，作为样板。"""
     data = load_json(PROG_JSON, None)
     titles = {e["title"] for e in load_json(WIKI_INDEX, [])}
     p = data["programmes"][args.slug]

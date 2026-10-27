@@ -862,6 +862,16 @@
     ]
   },
   {
+    "title": "Europe of Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Europe of Knowledge.md",
+    "aliases": [
+      "知识欧洲",
+      "欧洲知识区",
+      "Europe of Knowledge discourse"
+    ]
+  },
+  {
     "title": "European Education Space",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/European Education Space.md",
@@ -42995,6 +43005,11 @@
     "title": "Argument_Olmos_Torres_2009_StateTheories",
     "type": "argument",
     "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Olmos_Torres_2009_StateTheories.md"
+  },
+  {
+    "title": "Argument_Pasias_Roussakis_2009_EuropeanPanopticon",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
   },
   {
     "title": "Argument_Rizvi_Lingard_2009_OECDEducationPolicy",

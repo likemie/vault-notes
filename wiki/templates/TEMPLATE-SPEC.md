@@ -441,7 +441,7 @@ Fact 页写政策、事件、组织、项目、制度安排或可核查事实。
 - **Organization（机构）**：机构定位与宗旨、成立背景与发展历程、治理与组织架构、核心职能与旗舰产出、影响与评价、相关条目。
 - **Program（项目）**：项目背景与目标、方案设计与资助机制、实施历程与关键产出、成效评估与影响、反思与经验教训、相关条目。
 
-EEF 具名干预项目使用 `template-fact-eef-programme.md`，保留 Program 的独立推进历程与成效评估章节。项目卡片样板见 `template-eef-programme.md`；`[!eef-programme|v2]` 的每次试验独立归组，亚组结果放在所属试验内，由 `eef_sync.py` 生成。项目页与各次评估的评级分别保留，缺失值与零值分别显示。
+EEF 具名干预项目使用 `template-fact-eef-programme.md`，结构与 `template-fact-program.md` 对齐（分割线分段、不设 H2，推进历程与成效各自成段）。卡片已列出的试验节点、开发机构、实施主体、剂量与培训不在正文重复；推进历程除试验外无可核实节点时可整段省略，此为下文「推进历程须独立成节」的例外。`[!eef-programme|v3]` 取代 `[!indicators]` 与 `[!stat-cards]`，置于成效段首、`[!finding-cards]` 之前；样板直接放在该模板中（`eef_sync.py template-programme --slug <项目键>` 刷新）；`[!eef-programme|v3]` 每次试验一个折叠块，亚组以 ↳ 行并入该试验结果表，待核实事项统一收在卡片末尾，由 `eef_sync.py` 生成。卡片已列出的数字正文不重复。项目页与各次评估的评级分别保留，缺失值与零值分别显示。
 
 规则：
 

@@ -28,10 +28,11 @@ class ProgrammeTests(unittest.TestCase):
 
     def test_render_separates_trial_and_outcome_counts(self):
         result = eef.render_programme(SLUG, self.programme, [], {})
-        self.assertIn('[!eef-programme|v2]', result)
+        self.assertIn('[!eef-programme|v3]', result)
         self.assertEqual(result.count('[!eef-trial]-'), 2)
-        self.assertEqual(result.count('[!eef-subgroups]- 1 项亚组结果'), 2)
-        first, second = result.split('[!eef-trial]-')[1:]
+        self.assertEqual(result.count('| ↳ 免费校餐资格学生 |'), 2)
+        body = result.split('[!eef-errata]')[0]
+        first, second = body.split('[!eef-trial]-')[1:]
         self.assertIn('数量推理', first)
         self.assertNotIn('数学成绩', first)
         self.assertIn('数学成绩', second)
@@ -39,9 +40,10 @@ class ProgrammeTests(unittest.TestCase):
         self.assertNotIn('数据版本', result)
         self.assertIn('牛津大学', first)
         self.assertIn('NFER', second)
-        self.assertIn('£77／生／年', first)
-        self.assertIn('£93／生／年', second)
-        self.assertIn('学生 1,880 人；页面学校数 235 所；随机分配学校 226 所', result)
+        self.assertIn('£77/生/年', first)
+        self.assertIn('£93/生/年', second)
+        self.assertIn('| 样本 | 页面学校数 235 所；随机分配学校 226 所', result)
+        self.assertEqual(result.count('1,880'), 1)
         self.assertNotIn('2,412', result)
         self.assertNotIn('365', result)
         self.assertIn('未达统计显著', result)
@@ -52,8 +54,8 @@ class ProgrammeTests(unittest.TestCase):
         result = eef.render_programme(SLUG, p, [], {})
         self.assertIn('2015-11 至 2018-07', result)
         self.assertIn('起点按周期倒推', result)
-        self.assertIn('**试验时间** ' + eef.PENDING, result)
-        self.assertIn('**干预时间** ' + eef.PENDING, result)
+        self.assertIn('| 时间 | 试验 ' + eef.PENDING, result)
+        self.assertIn('干预 ' + eef.PENDING, result)
         self.assertEqual(p, original)
         self.assertIsNone(eef.programme_project_period({'page_project_duration': '2 year(s) 8 month(s)'}))
         self.assertIsNone(eef.programme_project_period({'page_project_duration': '2 year(s) 8 month(s)', 'completed': '2018-99'}))
@@ -66,14 +68,14 @@ class ProgrammeTests(unittest.TestCase):
         self.assertNotIn('2 year(s)', result)
         self.assertEqual(result.count('学校首年 £1,612'), 1)
         self.assertEqual(result.count('假定每年实施两组'), 1)
-        self.assertNotIn('[!eef-trial-notes]', result)
-        self.assertNotIn('样本特征与研究资料', result)
-        first, second = result.split('[!eef-trial]-')[1:]
+        self.assertEqual(result.count('[!eef-errata]'), 1)
+        body = result.split('[!eef-errata]')[0]
+        first, second = body.split('[!eef-trial]-')[1:]
         for trial, record in zip((first, second), self.programme['trials']):
-            self.assertEqual(trial.count('**样本特征**'), 1)
-            self.assertEqual(trial.count('**研究资料**'), 1)
-            self.assertLess(trial.index('**样本特征**'), trial.index('[!eef-outcomes]'))
-            self.assertGreater(trial.index('**研究资料**'), trial.index('[!eef-subgroups]'))
+            for key in ('时间', '评估', '样本', '剂量', '培训', '经费', '资料'):
+                self.assertEqual(trial.count(f'| {key} |'), 1, key)
+            self.assertLess(trial.index('| 样本 |'), trial.index('| out |'))
+            self.assertLess(trial.index('| 资料 |'), trial.index('| out |'))
             for context in record['record']['sample_context']:
                 self.assertIn(context, trial)
             for document in record['documents']:
@@ -143,7 +145,25 @@ class ProgrammeTests(unittest.TestCase):
                 self.assertEqual(eef.cmd_render_programmes(SimpleNamespace(check=True)), 0)
                 eef.cmd_render_programmes(SimpleNamespace(check=False))
                 self.assertEqual(note.read_text(), rendered)
-                self.assertEqual(rendered.count('[!eef-programme|v2]'), 1)
+                self.assertEqual(rendered.count('[!eef-programme|v3]'), 1)
+
+
+    def test_card_inserts_before_finding_cards_without_h2(self):
+        with tempfile.TemporaryDirectory() as directory:
+            folder = Path(directory)
+            note = folder / 'programme.md'
+            original = '---\n\n> [!claim] 项目定位\n> x\n\n---\n\n> [!finding-cards] 核心实证结论\n> - y\n\n---\n\n> [!entry-map] 相关条目网络\n'
+            note.write_text(original)
+            p = copy.deepcopy(self.programme); p['entries'] = ['programme.md']
+            database = folder / 'programmes.json'
+            eef.dump_json(database, {'programmes': {SLUG: p}})
+            with (patch.object(eef, 'ROOT', folder), patch.object(eef, 'PROG_JSON', database),
+                  patch.object(eef, 'ERRATA_JSON', folder / 'absent.json'),
+                  contextlib.redirect_stdout(io.StringIO())):
+                eef.cmd_render_programmes(SimpleNamespace(check=False))
+            rendered = note.read_text()
+            self.assertLess(rendered.index('[!eef-programme|v3]'), rendered.index('[!finding-cards]'))
+            self.assertNotIn('## ', rendered)
 
 
 if __name__ == '__main__':

@@ -86,6 +86,7 @@ updated: 2026-10-27
 > [!dev-timeline] 理论版本与贡献
 > - **1975年 — 规训全景奠基** Foucault 系统论证全景敞视建筑作为规训权力典范模型的空间拓扑、去个体化运作与心理内化机制。
 > - **1992年 — [[Societies of Control|控制社会]]扩展** Gilles Deleuze 发表《控制社会后记》，指出随着数字信息网络的发展，封闭机构的全景模具逐渐让位于无边界网络中的流动数据调制（Modulation）。
+> - **2009年 — 超国家教育全景敞视分析** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] 运用全景敞视理论解构欧盟教育与培训政策，揭示开放协调法、基准指标与凝视技术如何在超国家尺度构筑“欧洲教育全景敞视建筑”。（pp. 480–481, 492–493）
 > - **2011年 — 课堂双向可见性解构** [[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）将全景敞视理论用于解构《[[Visible Learning|可见的学习]]》中的“眼睛”隐喻，揭示双向可见性如何构筑现代微观全景规训。
 > - **2019–2020年 — 数字行政全景与组织病理** Golovchin、McKnight & Whitburn 与 Johnson & Janzen 将全景敞视拓展至教育测验软件（[[Assessment Tools for Teaching and Learning|asTTle]]）与[[Performance Indicators|绩效指标]]治理，批判“人人相互注视”的新行政全景敞视及其诱发的报表异化。
 > - **2021年 — 跨国测评的宏观全景凝视** [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] 揭示 PISA 建立起现代全球治理的全景敞视机制，通过远距离的数据可见性与国际排名凝视主权国家与学校，将受测个体塑造为顺应全球竞争需要的可教的身体。（p. 423）
@@ -101,6 +102,7 @@ updated: 2026-10-27
 > | 潜在注视假定（Unverifiable Gaze） | 心理机制 | 被监视者在无法确证监视何时发生的条件下，必须假定自己时刻被注视。 |
 > | 内化自我规训（Internalized [[Self-control|Self-Control]]） | 产出机制 | 外部强制彻底转化为当事人的自觉心理自律与行为审查。 |
 > | 新行政全景敞视（New Administrative Panopticism） | 衍生框架 | 依托数字指标与表单问责建立的人人相互监视的现代教育官僚控制生态。 |
+> | 欧洲教育全景敞视（European Panopticon） | 衍生架构 | 欧盟依托开放协调法、基准指标与同行评审建立的超国家软法规训网络。 |
 > | 全景式数字凝视（Panoptic Digital Gaze） | 衍生机制 | 超国家组织依托跨国测评与排名构建的宏观全景监管，促成参测国与个体的自愿合规。 |
 
 ---
@@ -174,6 +176,7 @@ updated: 2026-10-27
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用全景敞视理论解构欧盟教育政策，揭示开放协调法如何借助凝视、绩效与治理技术构筑超国家“欧洲教育全景敞视建筑”。（pp. 480–481, 492–493）
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合福柯全景敞视理论，解剖 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件如何演化为可见学习[[Barometer of Achievement|气压计图表]]并压缩[[Teacher Professional Agency|教师能动性]]。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 基于福柯权力理论解构可见学习的双向可见性隐喻，揭示其将行政统治转化为内化自我监控的微观全景规训。
 > - [[Argument_McKnight_2020_Discourse|McKnight and Whitburn (2020)]] — 从文化政治学解构视觉霸权构建的全景监控生态及其诱发的[[Ontology|本体论]]不安全。

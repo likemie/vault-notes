@@ -263,6 +263,8 @@
     "Agata Wojciuk et al., 2015": "Agata Wojciuk et al., 2015",
     "Agbenyega et al. (2023)": "Agbenyega et al., 2023",
     "Agbenyega et al., 2023": "Agbenyega et al., 2023",
+    "Agenda 2000 (1997)": "Agenda 2000, 1997",
+    "Agenda 2000, 1997": "Agenda 2000, 1997",
     "Aghion & Howitt (1992)": "Aghion & Howitt, 1992",
     "Aghion & Howitt, 1992": "Aghion & Howitt, 1992",
     "Aghion et al. (2015)": "Aghion et al., 2015",
@@ -7036,6 +7038,8 @@
     "Eugene Bardach & Robert Kagan, 1982": "Eugene Bardach & Robert Kagan, 1982",
     "Eugene Belisle (1944)": "Eugene Belisle, 1944",
     "Eugene Belisle, 1944": "Eugene Belisle, 1944",
+    "Europe of Knowledge (1997)": "Europe of Knowledge, 1997",
+    "Europe of Knowledge, 1997": "Europe of Knowledge, 1997",
     "European Commission (2007)": "European Commission, 2007",
     "European Commission (2010)": "European Commission, 2010",
     "European Commission (2016)": "European Commission, 2016",
@@ -28578,6 +28582,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research Review/Argument_Hagevold_Forsstrom_Keles_2026_ERR.md"
+      ],
+      "title": ""
+    },
+    "Agenda 2000, 1997": {
+      "aliases": [
+        "Agenda 2000, 1997",
+        "Agenda 2000 (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Agenda 2000, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
       ],
       "title": ""
     },
@@ -77999,6 +78018,22 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md"
+      ],
+      "title": ""
+    },
+    "Europe of Knowledge, 1997": {
+      "aliases": [
+        "Europe of Knowledge, 1997",
+        "Europe of Knowledge (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Europe of Knowledge, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md",
+        "wiki/concepts/comparative-education/Europe of Knowledge.md"
       ],
       "title": ""
     },
