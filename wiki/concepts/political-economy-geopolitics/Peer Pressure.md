@@ -120,6 +120,9 @@ updated: 2026-10-22
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]; [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]]
 > **远处掌舵的操作支点** 里兹维与林加德阐明，[[New Public Management|新公共管理]]推崇的“远处掌舵”在全球范围内的运转，依赖于主权国家面对同行压力时的积极回应；超国家机构无需下达法定行政命令，通过定期指标发布与排位更新施加横向对标压力，主权国家为了维系或重塑自身在国际同侪中的地位，会在国内自发吸纳经合组织推荐的办学标准与问责模式。尼曼与马滕斯进一步证实，经合组织正是依托将量化事实打造为不容置疑的客观基准，将知识中介与同行压力结合，实现了对成员国教育决策的远程塑模。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–442)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 272–274)]]
 
+> [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
+> **开放协调法下的基准对标与同行评审规训** 帕西亚斯与鲁萨基斯（Pasias and Roussakis, 2009）论证，在欧盟开放协调法（OMC）的全景敞视治理架构中，同行评审（Peer Review）、基准线（Benchmarks）与最佳实践收集构成了核心绩效技术。在辅助性原则阻断硬性立法的制度背景下，欧委会依托指标与基准常设工作组（SGIB）的年度国别审查与公开排名，制造跨国横向比较的声誉与同侪压力；各国为维护自身在知识经济竞赛中的声誉地位，在无直接法律制裁的情况下主动重塑国内教育培训体系，达成了超国家层面的远处掌舵。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 487, 491–492)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳

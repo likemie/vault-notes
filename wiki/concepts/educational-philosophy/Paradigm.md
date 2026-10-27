@@ -204,6 +204,9 @@ updated: 2026-10-26
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
 > **超国家治理范式从硬性条约法律转向软性量化数据治理** 格雷克论证，欧洲教育治理见证了从硬法指令向软治理范式的深刻转型：受欧盟条约[[Subsidiarity Principle|辅助性原则]]限制，布鲁塞尔无权制定强制性教育大纲或立法指令；欧盟因而转向开放协调法（OMC），通过资助 PISA 调查并大规模采信经合组织数据指标，建立以数据基准、排名对照与同伴压力为驱动的软性数字治理（[[Governing by Numbers|governing by numbers]]）范式。这一范式无需修改法律条约，仅凭量化比较的客观性权威，便在维系主权分权表象的同时达成了欧洲教育空间的深度政策趋同。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
 
+> [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
+> **从辅助性原则到全景敞视治理范式的历史性断裂** 帕西亚斯与鲁萨基斯（Pasias and Roussakis, 2009）进一步揭示了欧盟教育治理范式的历史性断裂：2000 年里斯本峰会前，欧盟教育合作范式严格受制于《马斯特里赫特条约》第 126/127 条确立的辅助性原则（Subsidiarity Principle），以尊重各成员国主权、文化多样性与自愿交流为边界；里斯本战略确立“最具活力的知识经济体”目标后，超国家治理范式彻底重构为全景敞视治理范式。欧委会绕过条约立法限制，依托开放协调法（OMC）、五大基准线与同行评审技术，将教育从主权文化领域收编为从属于经济增长与人力资本积累的“无形投资”，构建起全景式监控与政策趋同网络。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 488–491)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
@@ -212,7 +215,7 @@ updated: 2026-10-26
 > | **革命更迭** | 科学进步由非常规科学革命驱动，异常积累打破常规解谜并引发范式转换 | 自然科学与基础理论发展历史考察 | [[Thomas Kuhn\|Kuhn]]; [[Louis Cohen\|Cohen et al.]] |
 > | **不可通约与权力建制** | 范式间缺乏中立裁决公理，范式正统性深度依附学术权威与社会权力；行政审计通过锁定单一范式消除知识争议 | 跨范式论战、研究方法争鸣、学术体制与国家质量审计 | [[Thomas Kuhn\|Kuhn]]; [[Louis Cohen\|Cohen et al.]]; [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] |
 > | **多范式地缘演进** | 比较教育百年呈现从历史文化、实证论战到自创生系统论的多范式变迁，欧陆坚守文化主干 | 比较教育学科史、地缘知识社会学与跨国学术迁移 | [[Wolfgang Mitter\|Mitter]]; [[Jurgen Schriewer\|Schriewer]]; [[Brian Holmes\|Holmes]] |
-> | **评价与治理双重范式转换** | 评价认识论从大纲知识转向成人生活技能，超国家治理从硬法指令转向软性数字治理 | 跨国大规模测评认识论分析、超国家区域一体化治理与软法政策协调 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
+> | **评价与治理双重范式转换** | 评价认识论从大纲知识转向成人生活技能，超国家治理从硬法指令转向软性数字治理 | 跨国大规模测评认识论分析、超国家区域一体化治理与软法政策协调 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
 
 ---
 
@@ -222,6 +225,7 @@ updated: 2026-10-26
 > - **1980s–1990s — 教育研究中的“[[Paradigm Wars|范式战争]]”与[[Mixed Methods Research|混合方法]]调和** 教育学术界在定量实证范式与质性[[Constructivist Paradigm|建构主义范式]]之间展开长达十余年的“范式战争”（Paradigm Wars）；随后[[Mixed Methods Research|混合方法研究]]确立以[[Pragmatic Paradigm|实用主义]]（Pragmatism）为哲学根基，架桥弥合二元对立。（Gage, 1989; Tashakkori & Teddlie, 1998）
 > - **1990s–2010s — 后现代解构、系统论[[Autopoiesis|自创生]]与跨文化融合** 斯坦福[[World-Systems Theory|世界体系理论]]、后现代文化[[Pluralism|多元主义]]与[[Niklas Luhmann|尼克拉斯·卢曼]]的自创生系统论（Autopoietic System Theory）进入比较教育；施里维尔开创意义[[Externalization|外化]]比较范式，同时比较教育与多民族移民社会的[[Intercultural Education|跨文化教育]]实现范式合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 93–94, 97–98)]]
 > - **2009 — 评价功能化与软性数字治理双重范式确立** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）阐释全球教育领域中两项相互交织的范式转变：评价范式彻底脱离民族国家课程大纲、转向考查成人生活功能性应用能力；治理范式则在欧盟辅助性原则限制下，从传统的条约立法与信贷强制转向依托跨国测评与量化基准的软性数字治理。
+> - **2009 — 超国家教育治理全景敞视范式断裂** 帕西亚斯与鲁萨基斯阐明欧盟教育治理从基于辅助性原则的主权多样性传统范式，向依托里斯本战略、开放协调法与量化监控的全景敞视治理范式发生历史性断裂。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 488–491)]]
 > - **2020s 至今 — [[Geopolitics|地缘政治]]竞争中的范式对立与整合突破** 在跨国高等教育与地缘知识政治研究中，现实主义[[Knowledge Power|知识权力]]范式与自由主义[[Knowledge Diplomacy|知识外交]]范式呈现出明显的解释张力；学者引入辩证整合框架（如[[Tianxia Heuristic|天下启发式]]体系），旨在超越单一范式的[[Incommensurability|不可通约性]]与认知盲区，解释开放大众化与精英排他性网络的双轨并存。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
 > - **2020s — 循证治理与教育审计中的单一范式锁定与反思** [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] 揭示国家质量审计机构通过在文献综述中定向锚定单一研究范式来消解学术争议、制造确定性幻觉；而受邀学者在审议研讨中通过揭示教学情境性与教师真实生存环境，打破了单一范式的规范性垄断（pp. 649–651）。
 
@@ -262,3 +266,4 @@ updated: 2026-10-26
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 立足系统论盲点与身体[[Phenomenology|现象学]]，剖析可见学习范式在存在论与[[Epistemology|认识论]]层面的盲区，揭示不同教育观察主体间的不可[[Commensuration|通约]]性。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 剖析[[Geopolitics|地缘政治]][[Knowledge Power|知识权力]]范式与[[Developmentalism|发展主义]][[Knowledge Diplomacy|知识外交]]范式在跨国大学联盟解释中的理论张力与整合限度（pp. 1702–1705）。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以瑞典国家学校督导为工具性个案，分析行政审计如何通过编制锚定单一研究范式的知识综述消除学术争议，以及外部学者如何通过情境化辩驳打破单一范式的确定性幻觉（pp. 649–651）。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 历史社会学解构欧盟教育治理范式从《马斯特里赫特条约》辅助性原则向里斯本战略开放协调法（OMC）全景敞视治理范式的断裂性重构（pp. 488–491）。
