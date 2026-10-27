@@ -5,6 +5,10 @@
       "path": "wiki/facts/global/PISA.md"
     },
     {
+      "basename": "Commensuration",
+      "path": "wiki/concepts/sociology-of-education/Commensuration.md"
+    },
+    {
       "basename": "Argument_Xie_Li_Huang_2021_GEO",
       "path": "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Literature Review",
       "path": "wiki/concepts/research-methodology/Literature Review.md"
-    },
-    {
-      "basename": "Justified Warrants",
-      "path": "wiki/concepts/research-methodology/Justified Warrants.md"
     }
   ],
   "omittedPaths": [],
