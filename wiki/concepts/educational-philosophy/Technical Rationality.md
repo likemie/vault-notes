@@ -161,7 +161,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-26
+updated: 2026-10-28
 ---
 
 ---
@@ -303,6 +303,9 @@ updated: 2026-10-26
 > [!claim] [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]]
 > **跨国政策转移中的中立理性借鉴偏误与权力遮蔽** 戴安·斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，经典[[Policy Transfer Framework|政策转移框架]]深嵌于技术理性预设之中，将跨国[[Policy Mobility|政策流动]]窄化为技术性的中立经验汲取（Lesson-Drawing）与最佳实践复制，预设政策知识属于去政治化的工具性要素。这种技术理性假定不仅将流动方向单向锁定于由西方发达国家向落后边缘地区的扩散，更赋予自然科学与计量学科专家以独占性权威，完全漠视扎根于地方发展现场的经验智慧；国际发展合作实践表明，跨国政策借鉴必然嵌入于地缘政治的非对称权力网络之中，必须依托[[Policy Ambassador|政策大使]]与扎根本土的[[Representational Knowledge|代表性知识]]打破技术官僚理性垄断。[[Argument_Stone_2020_PolSoc\|(Stone et al., 2020, pp. 2–5, 8–10)]]
 
+> [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
+> **开放协调法下技术官僚理性的内化与主体规训** 帕西亚斯与鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）揭示了技术官僚理性在超国家教育治理中的自我规训机制：在欧盟开放协调法（OMC）构建的全景敞视网络中，欧委会设立的指标常设工作组与欧洲基准线将复杂的育人过程简化为就业率、文凭率与统计测绘；更为深层的是，各成员国教育部与专家群体在参与常态化同行评审、记分牌排位与最佳实践交流中，自发将以可就业性与绩效产出为核心的技术理性内化为国内政策制定的核心认知常模，完成了由外部行政监督向国家主体自我技术规训的深刻转化。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 487, 492–493)]]
+
 ---
 
 ### 命题三　超越技术理性要求从单向线性研究供给转向基于专业判断与社会互动的知识动员与证据知情实践
@@ -322,7 +325,7 @@ updated: 2026-10-26
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认识论批判命题** | 揭示技术理性手段-目的计算在复杂、不确定专业情境中的失效与错配 | 课堂教学、临床诊断等不确定性专业实践 | Schön; Nielsen & Klitmøller |
-> | **社会学与治理批判命题** | 揭示技术理性在教育治理中引发的[[Cognitive Deskilling\|去技能化]]、认识论断裂、人本精神失落与合法化危机 | [[Evidence-Based Education\|循证教育]]问责、新公共管理、数字化监测基础设施、国际指标测度与国家课程标准研制 | Habermas; Biesta; Kazamias; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]; [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]]; Helgetun and Menter; Serpell; Raudenbush; [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]]; [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]]; [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]]; [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]; [[Argument_Eacott_2017_SLM\|Eacott (2017)]]; [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]; [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] |
+> | **社会学与治理批判命题** | 揭示技术理性在教育治理中引发的[[Cognitive Deskilling\|去技能化]]、认识论断裂、人本精神失落与合法化危机 | [[Evidence-Based Education\|循证教育]]问责、新公共管理、数字化监测基础设施、国际指标测度与国家课程标准研制 | Habermas; Biesta; Kazamias; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]]; [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]]; Helgetun and Menter; Serpell; Raudenbush; [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]]; [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]]; [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]]; [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]]; [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]; [[Argument_Eacott_2017_SLM\|Eacott (2017)]]; [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]; [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
 > | **实践重构与替代命题** | 倡导以专业判断为枢纽、破除“证据自身发声”迷误，转向适切证据与深思熟虑参与双核互构 | 证据知情学校改进、[[Research-Practice Partnership\|研究-实践伙伴关系]]、高质量证据使用 | Nelson and Campbell; Bryk; Rickinson et al.; Coburn et al. |
 
 ---
@@ -338,6 +341,7 @@ updated: 2026-10-26
 > - **2001 — [[No Child Left Behind Act 2001\|NCLB]] 将技术理性固化为联邦规制法条** 乔治·布什签署《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]），延续并扩大[[Scientifically Based Research|基于科学的研究]]标准，将标准化测验与人事考核刚性绑定。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 > - **2009 — 卡扎米亚斯批判技术官僚理性并重申全人教化** 卡扎米亚斯系统批判技术官僚理性对比较教育人文传统的剥离，重申古典全人教化（*[[Paideia]]*）的人本底线。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 > - **2009 — 里兹维、林加德与格雷克批判跨国教育治理的技术官僚转向与数字遮蔽** [[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]与[[Argument_Grek_2009_JEdPolicy|Grek (2009)]] 剖析经合组织教育政策，揭示冷战后技术官僚理性如何以投入产出效率模型和跨国测评排位[[Epoché|悬置]]教育哲理辩论，实现“技术优先于政治”的[[Governing by Numbers|数字治理]]霸权。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–442, 447–448)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 25–26)]]
+> - **2009 — 欧盟开放协调法全景敞视中技术官僚理性的主体内化** 帕西亚斯与鲁萨基斯阐明欧盟成员国教育部与专家群体在常态化同行评审与最佳实践交流中，主动内化以可就业性与绩效产出为核心的技术官僚理性，实现全景敞视下的国家自我规训。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 487, 492–493)]]
 > - **2017 — 证据知情视阈下对技术理性线性供给的反思** [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] 批判自上而下的技术-理性灌输模型，倡导以[[Professional Judgment\|专业判断]]为核心的全系统[[Knowledge Mobilisation\|知识动员]]。
 > - **2019 — 数字化学校监测中技术理性修辞的批判性解构** [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] 展开美德跨国[[Comparative Case Study|比较案例研究]]，揭示全域监测系统中自动化即时反馈回路的技术理性修辞如何被即兴试错烹饪、算法选择性与五维做数据张力深刻击碎。
 > - **2019 — 德语区学校改进反思新治理调控工具的技术理性成效缺失** 马尼蒂乌斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）系统审视德语区二十年新治理改革，指出基于全域测评回传与外部督导的技术理性假定在单体学校遭遇成效缺失，重申教育改进不能依赖机械数据灌输。
@@ -409,6 +413,7 @@ updated: 2026-10-26
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 剖析美国卓越阅读法案立法中的技术理性规制机制，揭示法定科学本位研究如何剥夺教师专业判断并掩盖利益垄断。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 审视德语区全域统考与[[School Inspection|学校督导]]的技术理性成效缺失，揭示数据自动倒逼改进假说的破产与理论-实践困境重现。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析国际机构推行普适社会技术（教育规划、课程）的技术理性机制，揭示其如何塑造中立客观专家形象并去政治化掩盖冲突。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 剖析欧盟开放协调法（OMC）全景敞视网络中，成员国教育部与专家群体如何将以可就业性与绩效产出为核心的技术官僚理性内化为政策常模与自我规训机制（pp. 487, 492–493）。
 > - Schön (1983) — 奠基性著作《反思性实践者》，系统界定技术理性并阐明反思性实践作为专业认识论的替代方案。
 > - Habermas (1976) — 阐明技术理性作为晚期资本主义治理媒介对生活世界的侵蚀与合法化危机生成机制。
 
