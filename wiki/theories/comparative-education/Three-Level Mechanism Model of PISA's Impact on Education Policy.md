@@ -9,7 +9,7 @@ aliases:
 summary: "谢爱磊等 (2021) 与 Li et al. (2025) 建构的教育政策社会学理论模型，将 PISA 对各国教育政策的影响机制划分为超国家、民族国家与内部行动者网络三个层级；整合政策指引与政策背书的二维四象限模型及四类制度中介条件，系统阐明全球教育场域中的表层政策趋同与深层实践趋异"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 42
+theory_related_count: 44
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -57,6 +57,8 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[PISA Shock in Norway]]"
+  - "[[PISA Shock in Sweden]]"
   - "[[Klieme Report]]"
   - "[[Yutori Education]]"
   - "[[PISA]]"

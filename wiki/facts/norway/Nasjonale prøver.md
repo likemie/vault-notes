@@ -13,7 +13,7 @@ subtype: program
 region: norway
 fact_region: "norway"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -42,12 +42,13 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[PISA]]"
+  - "[[PISA Shock in Norway]]"
 related_arguments:
   - "[[Argument_Verger_2019_Discourse]]"
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-21
+updated: 2026-10-27
 ---
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-10-21
 > - **立项时间 / 周期** 2004 年由挪威议会立法启动，历经 2005 年停滞整顿，2007 年全面重启并常态化运行至今。
 > - **发起方与资助机制** 由挪威教育部发起、挪威教育与培训局（Utdanningsdirektoratet, Udir）组织执行，国家财政全额资助。
 > - **覆盖范围与对象** 面向全国所有公立与私立基础教育学校的 5 年级、8 年级与 9 年级全体在籍学生，主要施测阅读、数学计算与英语能力。
-> - **核心问题导向** 回应 1990 年代挪威将基础教育财权与管理权下放至市镇（Municipalities）后出现的中央宏观质量失控，以及 2001 年首轮 [[PISA]] 测评成绩平庸引发的“PISA 震荡”。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 254)]]
+> - **核心问题导向** 回应 1990 年代挪威将基础教育财权与管理权下放至市镇（Municipalities）后出现的中央宏观质量失控，以及 2001 年首轮 [[PISA]] 测评成绩平庸引发的[[PISA Shock in Norway|“PISA 震荡”（PISA-sjokket）]]。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 254)]]
 
 ---
 

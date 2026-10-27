@@ -10,7 +10,7 @@ subtype: organization
 region: sweden
 fact_region: "sweden"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -47,12 +47,13 @@ related_persons:
 related_facts:
   - "[[Ofsted]]"
   - "[[Swedish Institute for Educational Research]]"
+  - "[[PISA Shock in Sweden]]"
 related_arguments:
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-27
 ---
 
 ---
@@ -61,7 +62,7 @@ updated: 2026-10-22
 > 瑞典学校督察局（Swedish Schools Inspectorate；瑞典语 Skolinspektionen）是瑞典中央政府于 2008 年秋设立的国家[[School Inspection|学校督导]]机构，承接原属瑞典国家教育局（National Agency for Education, NAE）的督导职能。督察局负责对学前教育、义务教育、高中、成人教育与特殊学校开展外部督导，并以《教育法》中“科学依据与经验验证”（scientific grounds and proven experience）的要求为制度起点，把教育研究、研究者与[[Scientific Method|科学方法]]纳入督导流程。它因此成为观察[[Research Utilization|研究使用]]如何进入国家教育治理的关键中介。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–647)]]
 
 > [!org-context] 机构背景
-> - **成立时间与制度背景** 瑞典学校督导在缺席十余年后于 2003 年重新引入，由政府委托 NAE 以六年一轮的方式实施。2008 年秋，新的独立督导机构督察局开始运作。作为新设国家机构，督察局面临政府提高学生整体学业水平、提升学科知识与保障等值性的强烈政治要求，因而从头设计和开发各类督导流程。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
+> - **成立时间与制度背景** 瑞典学校督导在缺席十余年后于 2003 年重新引入，由政府委托 NAE 以六年一轮的方式实施。2008 年秋，新的独立督导机构督察局开始运作。作为新设国家机构，督察局面临政府提高学生整体学业水平、提升学科知识与保障等值性的强烈政治要求，特别是面对 2000 年代瑞典学生在国际测试中的急剧下滑以及后续演变为全国危机的[[PISA Shock in Sweden|瑞典 PISA 震荡]]，督察局从头设计和开发各类督导流程，承担起强化中央规制与纠偏过度市场化的职能。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
 > - **法律依据** 瑞典《教育法》（Education Act, SFS 2010:800）第 1 章第 5 节要求学校教育建立在“科学依据与经验验证”之上。2011 年 7 月起，督察局还可对不服从其决定的办学机构使用罚款等制裁。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–648)]]
 > - **督导范围** 督察局按三年一轮，对学前教育、小学与中学、成人教育及特殊学校按比例开展督导。大学与大学学院由另一督导机构负责，不在督察局委托范围内。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, p. 646)]]
 > - **核心宗旨** 通过常规督导、质量审计、投诉处理与独立学校许可，检查学校与办学机构是否符合国家目标、法规与质量标准；同时以研究综述、判断标准与报告，向学校、办学机构与公众传达何为良好实践。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 646–649)]]
@@ -173,4 +174,5 @@ updated: 2026-10-22
 > | [[Educational Brokerage Agency]] | Concept |督察局在研究与学校实践之间充当中介，但其中介方向受政治目标与机构流程约束。 |
 > | [[Ofsted]] | Fact (Organization) | 英国学校督导机构，与督察局同属外部督导体系，可比较两者如何把研究、标准与评级结合。 |
 > | [[Swedish Institute for Educational Research]] | Fact (Organization) | 瑞典另一家教育证据机构，侧重[[Systematic Review\|系统综述]]与研究资助，与督察局的督导型知识使用形成分工。 |
+> | [[PISA Shock in Sweden]] | Fact (Event) | 瑞典在 PISA 中的成绩断崖式下滑加速了国家对地方自治与市场化办学的集中规制，督察局正是这一中央再集权与质量监控的核心执行载体。 |
 > | [[Argument_Segerholm_Lindgren_Novak_2022_SJER\|Segerholm et al. (2022)]] | Argument | 以督察局为工具性个案，追踪教育研究如何被选择、转写并铭写进督导标准与报告。 |
