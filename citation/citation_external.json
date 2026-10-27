@@ -3554,6 +3554,8 @@
     "CIS, 2024": "CIS, 2024",
     "COAG (2018)": "COAG, 2018",
     "COAG, 2018": "COAG, 2018",
+    "COM (2020)": "COM, 2020",
+    "COM, 2020": "COM, 2020",
     "CONSORT-SPI (2018)": "CONSORT-SPI, 2018",
     "CONSORT-SPI, 2018": "CONSORT-SPI, 2018",
     "CPR (2013)": "CPR, 2013",
@@ -52717,6 +52719,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/australia/Gonski 2.0.md"
+      ],
+      "title": ""
+    },
+    "COM, 2020": {
+      "aliases": [
+        "COM, 2020",
+        "COM (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "COM, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/European Commission.md"
       ],
       "title": ""
     },

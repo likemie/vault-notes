@@ -11,7 +11,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -59,6 +59,7 @@ related_arguments:
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
 confidence: high
 status: active
 created: 2026-10-26
@@ -107,6 +108,7 @@ updated: 2026-10-28
 >
 >   出台《欧洲 2020 战略》与《欧洲技能议程》，设立 2025 年建成欧洲教育区（EEA）的顶层框架；在地缘科技博弈中主导《欧洲芯片法案》并审批微电子重大项目。
 >
+>   - **2020–2021** 欧委会发布《在 2025 年前建成欧洲教育区》公报（COM(2020) 625 final），尝试以“社会包容”重构政策议程并设立集中化治理平台；但该倡议遭到欧盟理事会纠偏，理事会决议推翻了委员会对终身学习的边缘化定位，将欧委会治理工具重新锁定在去立法的传统开放协调法（OMC）框架内。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857, 863–864)]]
 >   - **2023** 批准微电子与通信技术欧洲共同利益重大项目（IPCEI ME/CT），推进防卫性半导体产业战略。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
 ---
@@ -114,6 +116,7 @@ updated: 2026-10-28
 > [!actor-grid] 组织治理架构
 > - **委员学院（College of Commissioners）** 政治领导最高中枢，由 27 位各成员国提名的委员组成，负责审查并批准所有跨国教育战略通信、立法草案与白皮书。
 > - **专门业务总司（DG EAC 与 DG CNECT）** 教育、青年、体育与文化总司（DG EAC，前身为第 22 总司 DG XXII）主管日常教育战略与 OMC 推进；通信网络、内容和技术总司（DG CNECT）主导数字化与芯片产业政策。
+> - **跨总司管辖权分割（DG EAC 与 DG EMPL）** 欧委会内部教育与劳动力市场职能被制度化割裂：DG EAC 主管基础教育与高等教育，而职业教育与培训（VET）、技能议程与成人学习由就业总司（DG EMPL）管辖；此外，宏观欧洲学期监控由经济金融总司（DG-Economy）把控，导致委员会在推进一体化教育战略时面临内部科层协调壁垒。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 858–859)]]
 > - **常设指标工作组与专家网络** 设立常设指标与基准工作组（SGIB），吸纳各国技术官僚与数据专家确定衡量公尺；协同运行欧洲教育信息网络（[[Eurydice]]）。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 489–490)]]
 > - **成员国常设对接与同行评审网** 组织各成员国教育部门司局级官员召开常态化同行评审会议，负责评估各国《国家改革计划》（NRPs）与教育达标自评报告。
 
@@ -178,3 +181,4 @@ updated: 2026-10-28
 > | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | 论证 | 剖析欧委会如何通过全景敞视软治理与真理政制重构欧洲教育空间的代表性文献。 |
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] | 论证 | 剖析欧委会与经合组织制度共生、依托指标采购制作欧洲教育空间的实证文献。 |
 > | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | 论证 | 考察欧委会在芯片政策中协调型角色与国家援助审批的实证文献。 |
+> | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] | 论证 | 剖析欧委会在欧洲教育区战略中面临的跨总司分割、成员国阻力及开放协调法路径依赖的文献。 |

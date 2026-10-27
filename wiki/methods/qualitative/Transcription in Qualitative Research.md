@@ -6,11 +6,11 @@ aliases:
   - interview transcription
   - Verbatim Transcription
   - 逐字转录
-summary: "将口头访谈、人机交互有声思维或对话记录转换为书面文本的过程；涉及从口头与人际规则系统向书面语言符号系统的选择性转换，在人工智能时代演进为大模型语音识别与研究者多模态校对的协同转录机制。"
+summary: "将口头访谈、焦点小组或人机交互有声思维等口语遭遇转换为书面文本的过程；涉及从口头与人际规则系统向书面符号系统的理论性选择转换，在生成式人工智能时代演进为大模型语音识别与研究者多模态校对的协同转录机制。"
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -45,127 +45,112 @@ related_methods:
   - "[[Expert Interview]]"
   - "[[Classroom Observation]]"
   - "[[Qualitative Interview]]"
+related_instruments: []
+related_persons: []
+related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21]]"
   - "[[Argument_Wu_2025_ER]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
+  - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
 related_theories:
   - "[[Phenomenology]]"
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-10-20
+updated: 2026-10-28
 ---
 
 ---
 
 > [!def] Transcription in Qualitative Research
-> 转录（Transcription）是将口头访谈、[[Focus Group\|焦点小组]]研讨或人机交互有声思维（Think-Aloud Protocols）等口语遭遇转换为书面文本的过程。前缀 *trans* 表明状态或形式的根本性变化——转录本质上是一种**选择性转换（Selective Transformation）**，而非对原始场景的中性、客观复刻。它代表着从口语及人际交往规则系统，向书面语言和符号系统的不可逆跨越。在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）介入的研究情境中，转录进一步拓展为结合屏幕录制交互日志与即时口语表达的多模态数据对齐过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|(Kvale, 1996; Cohen et al., 2011, pp. 445–447)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–364)]]
+> 转录（Transcription in Qualitative Research，通称“质性转录”或“逐字转录”）是将口头访谈、[[Focus Group|焦点小组]]研讨或人机交互有声思维（Think-Aloud Protocols）等即时口头经验转换为书面文本的过程。词源前缀 trans 昭示了状态与载体的根本性跨越；质性转录本质上是一项**选择性转换（Selective Transformation）**，对原始交流情境进行具有理论导向的符号重构。它代表着从口语及人际交往规则系统向书面语言和符号系统的理论化转换；在[[Generative Artificial Intelligence|生成式人工智能]]（GenAI）介入的研究情境中，转录进一步拓展为结合屏幕录制交互日志与即时口语表达的多模态数据对齐过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|(Kvale, 1996; Cohen et al., 2011, pp. 445–447)]]; [[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 363–364)]]
 
-> [!concept-lens] 方法透镜
-> - **含义** 转录不只是把声音信号还原为字符，它涉及大规模的语境抽离、非言语信息过滤与复杂性精简。不存在单一、绝对客观的“标准转录本”，转录本始终是研究者基于特定[[Research Question\|研究问题]]进行理论建构与解释的中介产物。
-> - **用途** 使高维、流动的口语互动与认知过程转化为可供[[Coding in Qualitative Research\|质性编码]]、模式识别与论证提取的离散文本单元。
-> - **边界与[[Epistemic Responsibility\|认识论责任]]** 转录文本与原始经验情境之间存在固有的不透明性（Opaque Screen）。自动化转录工具的普及虽大幅提升了转录效率，但无法免除研究者对转录文本失真、语境断裂与算法虚构承担最终的[[Epistemic Responsibility\|认识论责任]]。
+> [!method-scope] 方法范围
+> - **研究对象** 深度访谈口语录音、焦点小组讨论音频、人机交互有声思维录音、课堂师生对话音视频以及配套的屏幕操作交互日志。
+> - **问题类型** 适合作为质性数据准备的基础环节，支撑后续的主题分析、话语解构、现象学还原、交互动态分析与认识立场演化追踪。
+> - **分析单位** 完整访谈对话、交互回合（Turns）、特定时间戳片段、单句有声思维话语单元或多模态对齐事件。
+> - **输出形式** 逐字文字转录稿、多模态时间戳对齐表格、副语言标记文本以及符合质性分析软件格式的标准数据包。
 
----
-
-> [!feature] 质性转录的多维信息记录范畴
-> - **言语内容（Verbatim Content）** 准确记录字面词汇、短语、重复表述与自我修正。
-> - **副语言特征（Paralinguistic Cues）** 语调（严厉、温和）、抑扬顿挫（升调疑问、降调肯定）、重音强调、停顿长短与沉默时刻。
-> - **情绪与心理状态（Emotional Affect）** 兴奋、焦虑、犹豫、挫败、叹息或苦笑等微表情与发音张力。
-> - **言语交互动态（Interaction Dynamics）** 打断、插话、重叠发言（Overlap / Together）、对话朝向（Who speaks to whom）。
-> - **情境与人机多模态事件（Multimodal Context）** 录音录像期间的伴随动作（如手势指向、视线转移）、屏幕点击、提示词输入与大模型生成等待延迟。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|(Cohen et al., 2011, p. 447)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 363)]]
+> [!citation-card] 理论性选择转换
+> 转录是对口头遭遇的选择性转换，前缀 trans 表明其涉及形式与规则系统的不可逆跨越；不存在单一客观的转录本，所有转录本都是理论建构的中介产物。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|(Cohen et al., 2011, p. 445)]]
+>
+> *Transcription is a selective transformation from oral discourse to written text. The prefix trans indicates a change of state or form; there is no such thing as an objective transcript.*
 
 ---
 
-## 围绕方法形成的命题
+> [!method-position] 认识论与方法定位
+> - **知识观** 采取解释学与建构主义立场，认识到转录涉及语境抽离、非言语信息过滤与复杂性精简的理论化过程。语言与意义的关系依附于具体语境，转录本始终是研究者基于特定研究问题进行意义建构的中介产物。
+> - **研究者角色** 研究者是转录文本的阐释者与认识论守护人；自动化工具的普及虽能降低手工输入负荷，但无法免除研究者对转录文本的语义失真、口音识别偏误与算法平滑承担最终的[[Epistemic Responsibility|认识论责任]]。
+> - **有效性标准** 遵循质性研究的可信度与保真度标准；通过多模态视听回溯、人工逐行校对、双人独立复核与规则一致性审计，保障转录文本的真实性与解释效度。
+> - **不声称回答的问题** 转录本身是数据准备技术，不直接产出终极因果结论或理论模型；不能将静态的书面转录本简单等同于原始生动的现场社会遭遇全貌。
+
+> [!method-stack] 方法层级
+> - **研究设计** 质性研究、现象学研究、扎根理论、多模态话语分析、人机共生认知实验。
+> - **数据收集** 高保真数字录音、现场多角度摄像、屏幕录制、人机交互日志抓取、知情同意与匿名脱敏。
+> - **分析方法** 传统人工逐字听录、大模型自动语音识别（ASR）快速初转、副语言特征标定、多模态时间轴对齐。
+> - **辅助技术**
+>   - 识别工具：Whisper 及深度学习转写管道。
+>   - 质性软件：NVivo、MAXQDA、ATLAS.ti、ELAN（音视频多模态对齐标注）。
+>   - 脱敏技术：化名映射表、专有名词与机构名称匿名替换。
 
 ---
 
-### 命题一　转录是去情境化的理论选择性转换而非客观复刻
+> [!proc] 通用程序
+> 1. **录制准备与脱敏标记** 采用高保真立体声录音设备，记录受访者唯一匿名编码并编制安全化名索引表。
+> 2. **算法自动化初转** 依托深度学习语音识别系统生成包含初始时间戳的粗转文本。
+> 3. **人工精细核验与副语言标记** 研究者同步对照原始音视频进行逐行精校，保留方言习惯、断句停顿（`...`）、重音与情绪语气词（如 `[laughter]`, `[sigh]`）。
+> 4. **多模态时间戳对齐** 在人机交互或课堂情境中，将受访者口头发言与屏幕操作行为或板书动作在毫秒级时间线上打标对齐。
+> 5. **格式标准化与软件导入** 统一行号排版与段落标识，导出符合质性分析软件规程的标准文本数据包。
 
-> [!concept-lens] 转录的数据建构本质
-> 探讨为何转录文本不能等同于原始社会遭遇本身，以及转录过程中的信息损耗机制。
+> [!sample-panel]- 材料与进入现场
+> | 维度 | 信息 |
+> |---|---|
+> | 材料来源 | 深度访谈录音、焦点小组讨论录音、人机交互有声思维视频、课堂师生实录及屏幕交互日志（如 [[Argument_Wu_2025_ER\|Wu et al., 2025]]; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]; [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou & Rambla, 2023]]）。 |
+> | 抽样或选案 | 根据质性研究目的抽样或理论抽样选定录音片段；在大型项目中可按核心交互事件或关键转折点进行焦点抽样。 |
+> | 研究者位置 | 研究者须保持认识论警觉；在转录过程中既要忠实于原始语音发音，又要防范先验理论前见对模糊字词的强行剪裁。 |
+> | 资料边界 | 明确转录的详尽程度（精细逐字 vs 规范可读）；确立背景杂音与无关私人寒暄的排除标准。 |
 
-> [!claim] Cohen et al.
-> **转录去情境化与冻结效应** 转录是对流动交互的去情境化（Decontextualization），区别于对原始交流的中性复印。声音与影像被从具体的时间、空间和人际动态中剥离抽嵌，冻结为静态符号。转录者在选择记录什么、忽略什么时，已在实质性地践行理论筛选。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|(Cohen et al., 2011, pp. 445–447)]]
-
----
-
-### 命题二　转录文本的意义具有语境依赖性且不具备绝对客观稳定性
-
-> [!concept-lens] 质性[[Reliability\|信度]]与解释多元性
-> 阐明为何固定访谈条件仍无法消除文本解释的多义性。
-
-> [!claim] Mishler; Scheurich
-> **语境定位与持续重构** 即使保持提问、访谈者、受访者与物理环境恒定，转录文本也无法产生绝对刚性、无歧义的数据。数据、语言与意义之间的对应关系是深度情境化的，随着分析者[[Theoretical Perspective\|理论视角]]的变迁而可被持续重构与多维诠释。引自 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, p. 446)]]
-
----
-
-### 命题三　人工智能自动化转写极大降低转录负荷但强化了研究者的认识论审查责任
-
-> [!concept-lens] [[Man-Computer Symbiosis|人机协同]]转录时代的[[Epistemology\|认识论]]重塑
-> 探讨大模型与语音识别工具（ASR）在加速质性数据处理的同时带来的算法风险与质量控制要求。
-
-> [!claim] Wu et al.
-> **算法辅助转录与研究者[[Epistemic Responsibility\|认识论责任]]守持** 现代基于深度学习的自动语音识别技术（如 Whisper 及大语言模型转写管道）能够极速生成初稿，将传统转录的人力时间成本缩减 80% 以上。然而，大模型在处理专业术语、口音、断句语气词及多人重叠对话时存在固有的“语义平滑”与算法幻觉倾向（可能自动脑补修饰受访者的语法或改换专有名词）。研究者必须维持高度的[[Epistemic Responsibility\|认识论责任]]，通过“多模态视听回溯+人工逐字校验”建立质性数据质量控制机制，确保转录文本对原始探究情境的高保真还原。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–364)]]
+> [!proc] 质性分析程序
+> 1. **初读与整体语感沉浸** 完整通听原始录音，建立对对话节奏、情感基调与人际互动关系的整体直观认知。
+> 2. **逐字核验与口语特征固化** 针对机器初转稿展开逐字校正，修正同音错字与专业术语，准确标定重叠发言（`[overlap]`）与话轮转换。
+> 3. **情境线索补足与注释嵌入** 将现场观察笔记中的非言语动作（手势、眼神接触、面部表情）以括号旁白形式插入转录对应节点。
+> 4. **格式规范化与质性编码准备** 整理符合规范的文本段落与发言者标签，为导入质性编码软件并实施开放编码或多模态话语分析奠定基础。
 
 ---
 
-> [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
-> |---|---|---|---|
-> | **选择性转换** | 转录是去情境化的理论建构，不存在单一中立转录本 | 访谈分析、质性数据准备与编码前处理 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011)]]; Kvale |
-> | **语境多义性** | 语言与意义的关系依附于语境，转录本不具机械稳定性 | [[Phenomenology\|现象学]]诠释、[[Grounded Theory\|扎根理论]]与[[Discourse Analysis\|话语分析]] | Mishler; Scheurich |
-> | **人机协同审查** | AI 转写极大提升效率，但研究者须对算法平滑与幻觉承担终极审验责任 | 人机交互有声思维追踪、智能时代[[Qualitative Research\|质性研究]] | [[Argument_Wu_2025_ER\|Wu et al. (2025)]] |
+> [!method-fit] 适用判断
+> - **适合使用** 需要深入解构行动者口语叙述、交互细节与微观话语策略的质性研究；探索学习者即时有声思维与人机交互动态的认知实验；追踪政策制定者闭门访谈中言语表述与态度取向的案例研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|(Cohen et al., 2011, pp. 445–447)]]; [[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 363–364)]]
+> - **谨慎使用** 受访者方言极重、背景噪音极大或多人激烈重叠争辩的录音场景，算法初转错误率极高，需投入大量人工反复精听。
+> - **不适合使用** 仅需获取受访者标准化事实信息（如人口统计特征）的研究；大规模量化问卷调查；无需质性文本呈现的纯行为追踪研究。
 
 ---
 
-> [!cost-table]- 质性转录技术形态演进与成本效益对比
-> | 转录模式 | 技术机制与特征 | 核心优势 | 主要代价与风险 | [[Epistemology\|认识论]]控制要求 |
-> |---|---|---|---|---|
-> | **传统人工转录** | 人工听录、脚踏板控制（Transcription Machine）逐字手打 | 能够深度感知语调、停顿与情绪微妙变化 | 极其耗时（1小时音频需耗费5–8小时）；容易疲劳漏记 | 依赖转录者的体力与专注度 |
-> | **大模型与 ASR 转写** | 深度神经网络语音识别（如 Whisper）结合 LLM 文本规整 | 速度极快（数分钟内完成），成本极低 | 遇口音、背景噪音或专业术语易出现语义平滑与幻觉替换 | 必须由研究者结合录音逐行进行人工校对与纠偏 |
-> | **多模态对齐转录** | 音频流、屏幕操作录像与提示词日志时间戳精确同步 | 全面捕获有声思维与人机界面交互的因果关联 | 数据维度庞杂，对齐软件与分析流程较为繁琐 | 建立多维时间轴编码标准，杜绝割裂分析 |
-
-> [!proc] 规范转录与[[Man-Computer Symbiosis|人机协同]]校对五步操作流程
-> 1. **音频录制与脱敏标记（Audio Capture & Anonymization）**
->    - 采用高保真录音设备，为受访者赋予唯一匿名编码，建立化名对照索引表。
-> 2. **算法自动化初转（Automated ASR Transcription）**
->    - 利用语音识别工具生成带初始时间戳的粗转文本。
-> 3. **人工精细核验与副语言标记（Verbatim Proofreading & Annotation）**
->    - 研究者边听录音边校对，严格保留口头习惯、语法错误、断句、犹豫（如 `...`）与语气词；
->    - 套用统一转录符号规范标注停顿、重音、叹息与重叠说话（如标注 `[laughter]`, `[overlap]`）。
-> 4. **多模态交互日志对齐（Multimodal Log Alignment）**
->    - 在涉及人机交互或软件操作的研究中，将受访者的有声思维文本与屏幕录制动作（提示词输入、AI 回复生成、修改撤销）在统一时间线上打标对齐。
-> 5. **格式标准化与编码导入（Formatting & Software Ingestion）**
->    - 规范行号、段落分段与页边留白，生成符合 NVivo / MAXQDA / ATLAS.ti 等质性分析软件要求的标准文本。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.1)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 363)]]
+> [!method-limits] 方法局限
+> - **偏误来源** 算法平滑与幻觉替换（ASR 自动脑补修饰语法或替换专有名词）；转录者主观听觉偏误与语境断裂；非言语信息的大量损耗。
+> - **适用边界** 转录文本是对口语遭遇的选择性重构，无法百分之百无损还原现场的物理与人际氛围；书面化可能无意中造成口语表达的“冻结”效应。
+> - **误用风险** 将转录稿误当作绝对中立的客观事实镜像；过度依赖 AI 自动生成而放弃人工核对；为追求文字流畅度而擅自删除具有实质分析价值的犹豫与语气词。
+> - **补救方式** 采用“大模型语音识别初转 + 人工视听对照逐行校验”的双重质控流程；结合多模态时间戳对齐与反思备忘录；在方法部分透明报告转录符号规范与清理规则。
 
 ---
 
-> [!tension] 逐字字面记录（Verbatim Fidelity） vs 语义可读性重构（Clean/Readable Transcription）
-> - **逐字保真派（[[Conversation Analysis]]）** 坚持记录每一个结巴、语气助词（“嗯”、“啊”）、呼吸声与毫秒级停顿，认为任何平滑都是对原始社会互动机制的破坏。
-> - **主题分析派（Thematic Analysis）** 主张适度清理不影响核心含义的语病与赘字，以提高文本可读性并聚焦于实质性观点。
-> - **折中规范** 严格区分研究性质：微观[[Discourse Analysis\|话语分析]]必须执行极致逐字转录，而宏观政策或主题提取研究可在明确说明的前提下进行规范化清理。
+> [!entry-map] 相关理论与方法
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Phenomenology]] | 理论基础 | 现象学关注生活世界的原初体验，为转录中保持对受访者主观经验的忠实性提供认识论导引。 |
+> | [[Qualitative Interview]] | 前置方法 | 质性访谈提供转录的原始口语语音材料，其录音质量直接决定转录保真度。 |
+> | [[Coding in Qualitative Research]] | 后续方法 | 转录生成的规范文本构成了开展质性开放编码与轴心编码的直接分析对象。 |
+> | [[Conversation Analysis]] | 专门形态 | 会话分析要求极致的微观逐字转录，精确记录停顿毫秒数与呼吸语调。 |
+> | [[Multimodal Discourse Analysis]] | 互补方法 | 多模态话语分析将转录从单纯言语符号拓展至图像、视线与屏幕动作的时间轴对齐。 |
 
 ---
 
-> [!example] 实证研究中的典型转录应用
-> - **经典[[In-depth Interview\|深度访谈]]与[[Focus Group\|焦点小组]]转录（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011]]）**
->   在[[School Leadership\|学校领导力]]变革研究中，研究者不仅转录教师访谈的字面内容，更细致标记了谈及绩效评估时的沉默停顿与苦笑，从而揭示出[[Questionnaire\|问卷]]中无法体现的隐性制度焦虑。
-> - **[[Man-Computer Symbiosis|人机共生]]探究中的有声思维多模态转录（[[Argument_Wu_2025_ER\|Wu et al., 2025]]）**
->   在师范生利用 ChatGPT 进行统计推论的人机交互研究中，研究者同步捕获学生的“边想边说”（Think-Aloud）音频与屏幕交互行为。通过将口语转录文本（如遇到 AI 生成公式时的疑惑叹气）与学生提示词修改动作进行毫秒级对齐转录，精准还原了学习者从绝对主义盲从向评价主义审问演进的动态认知轨迹。
-> - **人机协同[[Scientific Explanation|科学解释]]中的多模态对话与提示词日志转录（[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]）**
->   在高中生利用生成式 AI 协同建构科学解释的研究中，研究者同步采集课堂实时录音录像、AI 对话日志与学生最终修订文本。转录过程严格遵循逐字原则（Verbatim Transcription），完整保留学生的语气停顿、重复、疑惑发问与同伴争议，并与 AI 生成时间戳及提示词修改记录对齐，为后续开展[[Multimodal Discourse Analysis|多模态话语分析]]和[[Epistemological Vigilance|认识论警觉]]水平编码奠定了高保真数据基础。
-> - **课堂语音即时转录与[[Expert Interview|专家访谈]]文本删节重构（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）**
->   在[[Qualitative Research|质性研究]]中体现了转录技术的双重应用：一方面，在跨国远程专家访谈中，研究者对原始录音转录文稿进行保持主旨忠实与精确前提下的适度删节和可读性编辑，并将文本回传受访专家审阅，达成规范的主题对话呈现；另一方面，在[[Classroom Observation|课堂观察]]技术中，研发移动应用采集课堂师生音频，在 3 秒内实现实时语音转录与自动分类编码，在对 7000 至 8000 名教师的实测中以客观文字数据破除了教师自估发言仅占 20%–30% 而实占 70%–80% 的知觉盲区。
-
----
-
-> [!evidence-grid-a] [[Qualitative Research\|质性研究]]与方法索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 在跨国远程学者访谈中运用兼顾忠实与可读性的质性转录清洗编辑技术，并引入 3 秒课堂语音即时转录移动应用以客观记录数据破除教师的知觉盲区。
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 结合课堂音视频与 [[Generative Artificial Intelligence|GenAI]] 对话日志开展高精度逐字转录与时间戳对齐，为[[Multimodal Discourse Analysis|多模态话语分析]]与[[Man-Computer Symbiosis|人机协同]]解释的[[Epistemology|认识论]]审验提供经验证据。
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 在生成式 AI 学习实验中实施高精度多模态有声思维转录，结合屏幕日志与音频回溯系统编码学习者的[[Epistemic Stances\|认识立场]]演变与[[Cognitive Offloading\|认知卸载]]行为。
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21 & Ch. 28)]] — 详述[[Qualitative Interview\|质性访谈]]转录作为理论性选择转换的[[Epistemology\|认识论]]本质（第 21 章），以及质性数据准备中的转录规范与管理操作规程（第 28 章）。
+> - [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] — 结合课堂音视频与 [[Generative Artificial Intelligence|GenAI]] 对话日志开展高精度逐字转录与时间戳对齐，为[[Multimodal Discourse Analysis|多模态话语分析]]与[[Man-Computer Symbiosis|人机协同]]解释的[[Epistemology|认识论]]审验提供经验证据。
+> - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 在生成式 AI 学习实验中实施高精度多模态有声思维转录，结合屏幕日志与音频回溯系统编码学习者的[[Epistemic Stances|认识立场]]演变与[[Cognitive Offloading|认知卸载]]行为。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21|Cohen et al. (2011, Ch. 21 & Ch. 28)]] — 详述[[Qualitative Interview|质性访谈]]转录作为理论性选择转换的[[Epistemology|认识论]]本质（第 21 章），以及质性数据准备中的转录规范与管理操作规程（第 28 章）。
+> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 对 9 位欧盟高级决策官员的深度英文半结构化访谈进行完整录音并实施逐字转录与匿名编码，为后续的主题分析与话语权力解构奠定高保真文本基础。

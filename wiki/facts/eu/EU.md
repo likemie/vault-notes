@@ -12,7 +12,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 38
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -71,6 +71,7 @@ related_arguments:
   - "[[Argument_Rambla_2022_Springer]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
 confidence: high
 status: active
 created: 2026-10-16
@@ -116,6 +117,8 @@ updated: 2026-10-28
 > - **2010 年至今** **欧洲教育区（EEA）与双转型战略**
 >
 >   出台《欧洲 2020 战略》与《欧洲技能议程》，将教育政策紧密捆绑绿色与数字化双转型，设立 2025 年建成欧洲教育区（European Education Area）的顶层目标。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 164–175)]]
+>
+>   - **2021** 欧盟理事会通过《欧洲教育区 2030 战略框架决议》（2021/C 66/01），重申条约第 165 条的辅助性原则与成员国对教育体系的完全专属权；各成员国行使共识否决权，排除了设立超国家集中管理委员会的提议，并将教育指标挂钩欧洲学期国别建议与欧洲社会基金（ESF+）。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857, 860–862)]]
 
 ---
 
@@ -182,3 +185,4 @@ updated: 2026-10-28
 > | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 论证 | 追踪欧盟如何通过 ET 2020、EIPPEE [[Knowledge Mediation\|知识中介]]网络与 Eurydice 推动证据知情教育政策。 |
 > | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证 | 探讨欧洲教育空间中空间实践与学生流动的历史演变。 |
 > | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | 论证 | 运用福柯理论解构欧盟开放协调法，揭示软法协调如何借助指标与基准构建欧洲教育全景敞视监控体系。 |
+> | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] | 论证 | 剖析欧洲教育区（EEA 2030）战略中欧盟辅助性原则硬约束、理事会与欧委会博弈及开放协调法指标锁定的文献。 |
