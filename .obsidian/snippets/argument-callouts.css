@@ -22380,11 +22380,11 @@ body .callout.callout.callout:is([data-callout="col1-table"]) > .callout-title .
 body .callout.callout.callout:is([data-callout="concept-proposition"]) > .callout-title .callout-title-inner::before { content: "PROPOSITION" !important; }
 body .callout.callout.callout:is([data-callout="logic-map"]) > .callout-title .callout-title-inner::before { content: "LOGIC MAP" !important; }
 
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])) > .callout-content :is(table) { width: 100% !important; min-width: 0 !important; max-width: 100%; table-layout: auto !important; }
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])) > .callout-content :is(.table-wrapper) { width: 100% !important; }
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])) > .callout-content :is(th, td) { white-space: normal !important; overflow-wrap: break-word !important; word-break: normal !important; min-width: 0 !important; width: auto !important; max-width: none !important; }
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])) > .callout-content :is(th, td):first-child { min-width: 6em !important; }
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])) > .callout-content :is(th, td):only-child { min-width: 0 !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])) > .callout-content :is(table) { width: 100% !important; min-width: 0 !important; max-width: 100%; table-layout: auto !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])) > .callout-content :is(.table-wrapper) { width: 100% !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])) > .callout-content :is(th, td) { white-space: normal !important; overflow-wrap: break-word !important; word-break: normal !important; min-width: 0 !important; width: auto !important; max-width: none !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])) > .callout-content :is(th, td):first-child { min-width: 6em !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])) > .callout-content :is(th, td):only-child { min-width: 0 !important; }
 
 
 /* 宽数据表：保持可读列宽，超出时容器内横向滚动，不挤压数字 */
@@ -22629,23 +22629,127 @@ body .callout.callout.callout:is([data-callout="actor-grid"], [data-callout="arg
 }
 
 
-/* 自动：6 列及以上的表格保持可读列宽，超出时框内横向滚动 */
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])) > .callout-content:has(> table th:nth-child(6), > .table-wrapper th:nth-child(6)) { overflow-x: auto !important; }
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])) > .callout-content :is(table):has(th:nth-child(6)) { width: max-content !important; min-width: 100% !important; max-width: none !important; }
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])) > .callout-content :is(table):has(th:nth-child(6)) :is(th, td) { min-width: 6.5em !important; max-width: 13em !important; }
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])) > .callout-content :is(table):has(th:nth-child(6)) :is(th, td):first-child { min-width: 10em !important; max-width: 14em !important; }
+/* 自动：6 列及以上的表格保持可读列宽，超出时框内横向滚动（排除已具备专属列距架构的 row-contrast 与 compare-table） */
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])) > .callout-content:has(> table th:nth-child(6), > .table-wrapper th:nth-child(6)) { overflow-x: auto !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])) > .callout-content :is(table):has(th:nth-child(6)) { width: max-content !important; min-width: 100% !important; max-width: none !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])) > .callout-content :is(table):has(th:nth-child(6)) :is(th, td) { min-width: 6.5em !important; max-width: 13em !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])) > .callout-content :is(table):has(th:nth-child(6)) :is(th, td):first-child { min-width: 10em !important; max-width: 14em !important; }
 /* |wide：任意列数都按宽表处理 */
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])):is([data-callout-metadata="wide"],[data-callout-metadata^="wide|"],[data-callout-metadata$="|wide"],[data-callout-metadata*="|wide|"]) > .callout-content { overflow-x: auto !important; }
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])):is([data-callout-metadata="wide"],[data-callout-metadata^="wide|"],[data-callout-metadata$="|wide"],[data-callout-metadata*="|wide|"]) > .callout-content table { width: max-content !important; min-width: 100% !important; max-width: none !important; }
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])):is([data-callout-metadata="wide"],[data-callout-metadata^="wide|"],[data-callout-metadata$="|wide"],[data-callout-metadata*="|wide|"]) > .callout-content :is(table):is(table, :has(th:nth-child(6))) :is(th, td) { min-width: 6.5em !important; max-width: 13em !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])):is([data-callout-metadata="wide"],[data-callout-metadata^="wide|"],[data-callout-metadata$="|wide"],[data-callout-metadata*="|wide|"]) > .callout-content { overflow-x: auto !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])):is([data-callout-metadata="wide"],[data-callout-metadata^="wide|"],[data-callout-metadata$="|wide"],[data-callout-metadata*="|wide|"]) > .callout-content table { width: max-content !important; min-width: 100% !important; max-width: none !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])):is([data-callout-metadata="wide"],[data-callout-metadata^="wide|"],[data-callout-metadata$="|wide"],[data-callout-metadata*="|wide|"]) > .callout-content :is(table):is(table, :has(th:nth-child(6))) :is(th, td) { min-width: 6.5em !important; max-width: 13em !important; }
 /* |fit：强制挤在框内，不滚动 */
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])):is([data-callout-metadata="fit"],[data-callout-metadata^="fit|"],[data-callout-metadata$="|fit"],[data-callout-metadata*="|fit|"]) > .callout-content :is(table):is(table, :has(th:nth-child(6))) { width: 100% !important; min-width: 0 !important; }
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])):is([data-callout-metadata="fit"],[data-callout-metadata^="fit|"],[data-callout-metadata$="|fit"],[data-callout-metadata*="|fit|"]) > .callout-content :is(table):is(table, :has(th:nth-child(6))) :is(th, td):is(th, td, :first-child) { min-width: 0 !important; max-width: none !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])):is([data-callout-metadata="fit"],[data-callout-metadata^="fit|"],[data-callout-metadata$="|fit"],[data-callout-metadata*="|fit|"]) > .callout-content :is(table):is(table, :has(th:nth-child(6))) { width: 100% !important; min-width: 0 !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])):is([data-callout-metadata="fit"],[data-callout-metadata^="fit|"],[data-callout-metadata$="|fit"],[data-callout-metadata*="|fit|"]) > .callout-content :is(table):is(table, :has(th:nth-child(6))) :is(th, td):is(th, td, :first-child) { min-width: 0 !important; max-width: none !important; }
 /* |compact：小字号、紧凑行距 */
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])):is([data-callout-metadata="compact"],[data-callout-metadata^="compact|"],[data-callout-metadata$="|compact"],[data-callout-metadata*="|compact|"]) > .callout-content :is(table):is(table, :has(th:nth-child(6))) { font-size: .82em !important; }
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])):is([data-callout-metadata="compact"],[data-callout-metadata^="compact|"],[data-callout-metadata$="|compact"],[data-callout-metadata*="|compact|"]) > .callout-content :is(table):is(table, :has(th:nth-child(6))) :is(th, td) { padding: .4rem .55rem !important; line-height: 1.5 !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])):is([data-callout-metadata="compact"],[data-callout-metadata^="compact|"],[data-callout-metadata$="|compact"],[data-callout-metadata*="|compact|"]) > .callout-content :is(table):is(table, :has(th:nth-child(6))) { font-size: .82em !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])):is([data-callout-metadata="compact"],[data-callout-metadata^="compact|"],[data-callout-metadata$="|compact"],[data-callout-metadata*="|compact|"]) > .callout-content :is(table):is(table, :has(th:nth-child(6))) :is(th, td) { padding: .4rem .55rem !important; line-height: 1.5 !important; }
 /* |col1-wide：第一列加宽 */
-body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"])):is([data-callout-metadata="col1-wide"],[data-callout-metadata^="col1-wide|"],[data-callout-metadata$="|col1-wide"],[data-callout-metadata*="|col1-wide|"]) > .callout-content :is(table):is(table, :has(th:nth-child(6))) :is(th, td):first-child { min-width: 13em !important; }
+body .callout.callout.callout[data-callout]:not(:where([data-callout^="metax"], [data-callout="row-contrast"], [data-callout="compare-table"])):is([data-callout-metadata="col1-wide"],[data-callout-metadata^="col1-wide|"],[data-callout-metadata$="|col1-wide"],[data-callout-metadata*="|col1-wide|"]) > .callout-content :is(table):is(table, :has(th:nth-child(6))) :is(th, td):first-child { min-width: 13em !important; }
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   row-contrast & compare-table: 6 列场景专属黄金列距排布（第 5 列核心治理机制主导展宽）
+   ═══════════════════════════════════════════════════════════════════════════ */
+body .callout.callout.callout:is([data-callout="row-contrast"], [data-callout="compare-table"]) > .callout-content,
+body .callout.callout.callout:is([data-callout="row-contrast"], [data-callout="compare-table"]) .table-wrapper {
+  overflow-x: auto !important;
+  max-width: 100% !important;
+  -webkit-overflow-scrolling: touch !important;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(68, 92, 120, 0.35) transparent;
+}
+
+body .callout.callout.callout:is([data-callout="row-contrast"], [data-callout="compare-table"]) > .callout-content :is(table, .table-wrapper > table) {
+  width: max-content !important;
+  min-width: 100% !important;
+  max-width: none !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
+  margin: 0 !important;
+  table-layout: auto !important;
+}
+
+/* 6 列场景各列精准宽度控制 */
+body .callout.callout.callout:is([data-callout="row-contrast"], [data-callout="compare-table"]) > .callout-content :is(table, .table-wrapper > table):has(th:nth-child(6)) :is(th, td):nth-child(1) {
+  width: 140px !important;
+  min-width: 125px !important;
+  max-width: 165px !important;
+  position: sticky !important;
+  left: 0 !important;
+  z-index: 2 !important;
+  background: var(--background-primary) !important;
+  box-shadow: 2px 0 6px rgba(0, 0, 0, 0.08) !important;
+  border-right: 1px solid rgba(68, 92, 120, 0.12) !important;
+}
+
+body .callout.callout.callout:is([data-callout="row-contrast"], [data-callout="compare-table"]) > .callout-content :is(table, .table-wrapper > table):has(th:nth-child(6)) thead th:nth-child(1) {
+  z-index: 4 !important;
+}
+
+body .callout.callout.callout:is([data-callout="row-contrast"], [data-callout="compare-table"]) > .callout-content :is(table, .table-wrapper > table):has(th:nth-child(6)) :is(th, td):nth-child(2) {
+  width: 195px !important;
+  min-width: 170px !important;
+  max-width: 225px !important;
+}
+
+body .callout.callout.callout:is([data-callout="row-contrast"], [data-callout="compare-table"]) > .callout-content :is(table, .table-wrapper > table):has(th:nth-child(6)) :is(th, td):nth-child(3) {
+  width: 235px !important;
+  min-width: 205px !important;
+  max-width: 270px !important;
+}
+
+body .callout.callout.callout:is([data-callout="row-contrast"], [data-callout="compare-table"]) > .callout-content :is(table, .table-wrapper > table):has(th:nth-child(6)) :is(th, td):nth-child(4) {
+  width: 245px !important;
+  min-width: 215px !important;
+  max-width: 280px !important;
+}
+
+body .callout.callout.callout:is([data-callout="row-contrast"], [data-callout="compare-table"]) > .callout-content :is(table, .table-wrapper > table):has(th:nth-child(6)) :is(th, td):nth-child(5) {
+  width: 530px !important;
+  min-width: 470px !important;
+  max-width: 660px !important;
+  border-right: 1px solid rgba(68, 92, 120, 0.08) !important;
+}
+
+body .callout.callout.callout:is([data-callout="row-contrast"], [data-callout="compare-table"]) > .callout-content :is(table, .table-wrapper > table):has(th:nth-child(6)) :is(th, td):nth-child(6) {
+  width: 300px !important;
+  min-width: 260px !important;
+  max-width: 360px !important;
+}
+
+/* 6 列场景取消末行高亮特殊样式（回归常规行展示） */
+body .callout.callout.callout:is([data-callout="row-contrast"], [data-callout="compare-table"]) > .callout-content :is(table, .table-wrapper > table):has(th:nth-child(6)) tbody tr:last-child td {
+  background: transparent !important;
+  border-top: none !important;
+  border-bottom: 1px solid rgba(68, 92, 120, 0.08) !important;
+  font-size: calc(var(--fs-table) * 0.91) !important;
+  line-height: 1.58 !important;
+}
+body .callout.callout.callout:is([data-callout="row-contrast"], [data-callout="compare-table"]) > .callout-content :is(table, .table-wrapper > table):has(th:nth-child(6)) tbody tr:last-child td:first-child {
+  background: var(--background-primary) !important;
+  color: rgb(40, 60, 85) !important;
+  font-weight: 650 !important;
+  border-right: 1px solid rgba(68, 92, 120, 0.12) !important;
+}
+
+/* 暗色模式适配 */
+.theme-dark body .callout.callout.callout:is([data-callout="row-contrast"], [data-callout="compare-table"]) > .callout-content :is(table, .table-wrapper > table):has(th:nth-child(6)) :is(th, td):nth-child(1) {
+  background: var(--background-primary) !important;
+  color: rgb(185, 210, 238) !important;
+  box-shadow: 2px 0 6px rgba(0, 0, 0, 0.25) !important;
+  border-right-color: rgba(138, 168, 202, 0.14) !important;
+}
+.theme-dark body .callout.callout.callout:is([data-callout="row-contrast"], [data-callout="compare-table"]) > .callout-content :is(table, .table-wrapper > table):has(th:nth-child(6)) tbody tr:last-child td {
+  background: transparent !important;
+  border-top: none !important;
+  border-bottom: 1px solid rgba(138, 168, 202, 0.08) !important;
+  color: inherit !important;
+}
+.theme-dark body .callout.callout.callout:is([data-callout="row-contrast"], [data-callout="compare-table"]) > .callout-content :is(table, .table-wrapper > table):has(th:nth-child(6)) tbody tr:last-child td:first-child {
+  background: var(--background-primary) !important;
+  color: rgb(185, 210, 238) !important;
+  border-right: 1px solid rgba(138, 168, 202, 0.14) !important;
+}
 
 
 @media (prefers-reduced-motion: no-preference) {
