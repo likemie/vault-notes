@@ -23951,3 +23951,9 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
     gap: .55rem !important;
   }
 }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > :is(table, table:has(th:nth-child(6))) {
+  table-layout: fixed !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > :is(table, table:has(th:nth-child(6))) td:nth-child(n):first-child {
+  white-space: nowrap !important;
+}

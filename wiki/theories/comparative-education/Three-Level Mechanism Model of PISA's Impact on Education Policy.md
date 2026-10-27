@@ -9,10 +9,10 @@ aliases:
 summary: "谢爱磊等 (2021) 与 Li et al. (2025) 建构的教育政策社会学理论模型，将 PISA 对各国教育政策的影响机制划分为超国家、民族国家与内部行动者网络三个层级；整合政策指引与政策背书的二维四象限模型及四类制度中介条件，系统阐明全球教育场域中的表层政策趋同与深层实践趋异"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 48
-theory_related_level: 4
-theory_related_stars: "💎⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 50
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - pisa
   - education-policy
@@ -20,6 +20,7 @@ tags:
   - mechanism-model
   - region/global
 related_concepts:
+  - "[[Global Eye and Tutorable Body]]"
   - "[[Global Testing Culture]]"
   - "[[PISA Effect]]"
   - "[[Discourse]]"
@@ -45,6 +46,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Research Translation]]"
 related_theories:
+  - "[[OECD Modes of Governance]]"
   - "[[Actor-Network Theory]]"
   - "[[Pluri-Scalar Governance]]"
 related_methods:
@@ -103,7 +105,7 @@ updated: 2026-10-27
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | [[PISA]] 软治理（Soft Governance） | 概念 | 超国家层级核心机制：[[OECD]] 通过认知、规范与姑息治理，量化国家教育表现与经济发展的联系 |
+> | [[OECD Modes of Governance\|经合组织治理模式]] | 理论构件 | 超国家层级核心机制：[[OECD]] 通过认知、规范与纾困治理模式，确立政策议程与指标规训 |
 > | 跨国通约性（[[Commensuration]]） | 概念 | 超国家技术支柱：剥离本土历史情境，构建跨国可比的等价空间（[[Space of Equivalence]]） |
 > | 外部化战略（[[Externalization]]） | 机制 | 民族国家层级核心机制：决策者在面临国内制度困局时诉诸外部国际权威以突破改革阻力 |
 > | 参考社会（[[Reference Society]] / 模范社会） | 概念 | 民族国家借用模板：PISA 排名树立的高分榜样（如芬兰、上海）为各国提供政策借用（[[Policy Borrowing]]）素材 |
@@ -115,7 +117,7 @@ updated: 2026-10-27
 ---
 
 > [!proposition-chain] 核心命题一｜超国家层面：国际组织通过数目化软法与认知共同体施加全球趋同压力
-> - **前提一** [[OECD]] 缺乏法定条约制定权与强制财政手段，转而通过[[Epistemic Governance|认知治理]]、规范治理与姑息治理构建软治理体系（Woodward, 2009）。PISA 将国际测量专家、技术官僚与各国决策精英连接为跨国[[Epistemic Community|认知共同体]]（Haas, 1992）。
+> - **前提一** [[OECD]] 缺乏法定条约制定权与强制财政手段，转而通过[[OECD Modes of Governance|经合组织治理模式]]中的认知治理、规范治理与纾困治理构建软规训体系（Woodward, 2009）。PISA 将国际测量专家、技术官僚与各国决策精英连接为跨国[[Epistemic Community|认知共同体]]（Haas, 1992）。
 > - **前提二** PISA 依托去背景化（De-contextualization）与跨国通约技术建立等价空间，将复杂的育人实践降解为可测量的技能分数，并通过计量经济模型将分数直接与 GDP 增长率绑定。
 > - **推导** 超国家组织确立了全球通用的政策评价词汇表与“最佳实践”处方，在量化指标对标与[[Peer Debriefing|同行审议]]的压力下，驱动各国在话语表层接纳能力本位、国家标准与质量问责等同质化议程。
 

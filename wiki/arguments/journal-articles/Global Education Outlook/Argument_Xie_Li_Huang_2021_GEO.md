@@ -23,6 +23,7 @@ tags:
   - policy-borrowing
   - source/journal-article
 related_concepts:
+  - "[[Global Eye and Tutorable Body]]"
   - "[[Global Testing Culture]]"
   - "[[Theoretical Perspective]]"
   - "[[Methodological Nationalism]]"
@@ -78,6 +79,7 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Reliability]]"
 related_theories:
+  - "[[OECD Modes of Governance]]"
   - "[[World Society Theory]]"
   - "[[Governmentality]]"
   - "[[Institutional Isomorphism]]"
@@ -137,7 +139,7 @@ title: "Argument_Xie_Li_Huang_2021_GEO"
 argument_key: "Argument_Xie_Li_Huang_2021_GEO"
 argument_display_title: "全球药方还是特洛伊木马? PISA的教育政策效应批判——一份基于教育政策社会学视角的文献报告"
 argument_kind: "journal-article"
-argument_related_count: 97
+argument_related_count: 99
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -215,7 +217,7 @@ issuing_organization: ""
 > - **规制工具** 依靠统计指标、同行审议与最佳实践报告推行软治理。
 > - **治理导向** 将跨国比较数据转化为国家决策的合法性依据，重塑成员国政策议程。
 
-> [!feature] 伍德沃德经合组织教育软治理的四种理想型（Woodward, 2009）
+> [!feature] [[OECD Modes of Governance|伍德沃德经合组织全球治理模式]]（Woodward, 2009）
 > - **[[Epistemic Governance|认知治理]]（Cognitive Governance）** 通过共享的核心价值观与专业信念，将成员国决策精英连接为跨国认知共同体。
 > - **规范治理（Normative Governance）** 通过比较排名与[[Peer Debriefing|同行审议]]，重塑成员国内部决策人员的观念结构与政策偏好。
 > - **法律治理（Legal Governance）** 制定具有直接约束力的多边国际协定与条例（经合组织在教育事务中最缺乏此类权力）。
@@ -426,7 +428,7 @@ issuing_organization: ""
 > - **场域与资本理论：全球教育政策场域与统计测量资本**
 >   皮埃尔·布迪厄（Bourdieu, 1998）的场域理论弥补了传统分析只关注国家内部的局限。[[Bob Lingard|鲍勃·林加德]]与肖恩·罗沃尔（Lingard & Rawolle, 2011）据此提炼出相对自主的[[Global Educational Policy Field\|全球教育政策场域]]。经合组织通过制造跨国可通约指标积聚了巨额的统计测量资本与象征资本，进而演化为跨国教育仲裁者。主权国家自身的综合资本储量（地缘政治地位、经济与人力资本）则构成其抵御超国家场域支配力量的关键防护层。
 > - **生命政治与治理术理论：全景敞视式数字凝视与身体规训**
->   米歇尔·福柯（Foucault, 1976）的治理术与生命政治分析将视线引向微观权力。PISA 构建起现代全球治理的全景敞视机制，通过远距离的数据可见性与排名技术，对参测国施加无所不在的外部凝视。这种数目化规训深入重塑了学校与个体的生存心态，生产出主动顺应全球经济竞争需要的可教的身体（Tutorable Body）。[[Norman Fairclough|诺曼·费尔克拉夫]]（Fairclough, 1998）的[[Critical Discourse Analysis|批判性话语分析]]（Critical [[Discourse Analysis]], CDA）与戴维·科森（Corson, 1995）的话语权力研究进一步揭示，大众媒体与官方报告通过中立化语言将新自由主义权力关系自然化，掩盖了边缘群体的实质失语。
+>   米歇尔·福柯（Foucault, 1976）的治理术与生命政治分析将视线引向微观权力。PISA 构建起现代全球治理的全景敞视机制，通过远距离的数据可见性与排名技术，对参测国施加无所不在的外部凝视。这种数目化规训深入重塑了学校与个体的生存心态，构成了[[Global Eye and Tutorable Body|“全球眼”（Global Eye）对“受教身体”（Tutorable Body）]]的跨尺度折叠控制。[[Norman Fairclough|诺曼·费尔克拉夫]]（Fairclough, 1998）的[[Critical Discourse Analysis|批判性话语分析]]（Critical [[Discourse Analysis]], CDA）与戴维·科森（Corson, 1995）的话语权力研究进一步揭示，大众媒体与官方报告通过中立化语言将新自由主义权力关系自然化，掩盖了边缘群体的实质失语。
 
 #### 2. 批判范式要求打破国家容器预设并揭示量化指标背后的权力再生产
 

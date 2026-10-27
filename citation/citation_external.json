@@ -515,6 +515,8 @@
     "Alice Amsden, 2001": "Alice Amsden, 2001",
     "Alison Andrew (1985)": "Alison Andrew, 1985",
     "Alison Andrew, 1985": "Alison Andrew, 1985",
+    "Alison Woodward (2009)": "Alison Woodward, 2009",
+    "Alison Woodward, 2009": "Alison Woodward, 2009",
     "Alkaaf (2017)": "Alkaaf, 2017",
     "Alkaaf, 2017": "Alkaaf, 2017",
     "Alkan et al. (2017)": "Alkan et al., 2017",
@@ -30352,6 +30354,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12.md"
+      ],
+      "title": ""
+    },
+    "Alison Woodward, 2009": {
+      "aliases": [
+        "Alison Woodward, 2009",
+        "Alison Woodward (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Alison Woodward, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/comparative-education/OECD Modes of Governance.md"
       ],
       "title": ""
     },
