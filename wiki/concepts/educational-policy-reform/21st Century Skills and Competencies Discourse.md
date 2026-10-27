@@ -9,7 +9,7 @@ aliases:
   - 21世纪技能
   - 关键能力
   - 21世纪核心素养话语
-summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著赋能效应（ES = 0.76/0.84）。"
+summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著促进效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
 related_count: 70
@@ -111,7 +111,7 @@ updated: 2026-10-26
 ---
 
 > [!def] 21st Century Skills and Competencies Discourse
-> 21 世纪技能与素养[[Discourse|话语]]（21st Century Skills and Competencies Discourse，[[Single-Case Design|SCD]]）是一套在全球教育治理中广泛运作的政策修辞与规范框架。该话语由[[OECD|经合组织]]（OECD）、世界经济论坛（WEF）、[[UNESCO|联合国教科文组织]]（UNESCO）、[[EU|欧盟]]委员会及跨国商业智库共同塑造，旨在应对工业 4.0、数字化转型与[[Knowledge-Based Economy|知识经济]]的不确定性，界定未来劳动力参与劳动市场与社会生活所必须具备的关键通用能力（Key Competencies），进而通过国际评估、资格框架和课程重组规约各国的教育改革方向与个体的自我发展责任。在人工智能与先进制造深度重塑劳动形态的新时期，该话语进一步分化为“认知抽象论”与“实体排障手艺论”的深刻反思。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 254)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53, 58)]]
+> 21 世纪技能与素养[[Discourse|话语]]（21st Century Skills and Competencies Discourse，[[Single-Case Design|SCD]]）是一套在全球教育治理中广泛运作的政策修辞与规范框架。该话语由[[OECD|经合组织]]（OECD）、世界经济论坛（WEF）、[[UNESCO|联合国教科文组织]]（UNESCO）、[[EU|欧盟]]委员会及跨国商业智库共同塑造，旨在应对工业 4.0、数字化转型与[[Knowledge-Based Economy|知识经济]]的不确定性，界定未来劳动力参与劳动市场与社会生活所必须具备的关键通用能力（Key Competencies），进而通过国际评估、资格框架和课程重组引导各国的教育改革方向与个体的自我发展责任。在人工智能与先进制造深度重塑劳动形态的新时期，该话语进一步分化为“认知抽象论”与“实体排障手艺论”的深刻反思。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 254)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53, 58)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 话语将关注焦点从宏观社会结构的再分配改革，转向个体技能与素养的终身积累，将青年与劳动者塑造为必须对自身[[Employability|就业能力]]负全责的“[[Self-Entrepreneur|自我企业家]]”。
@@ -149,7 +149,7 @@ updated: 2026-10-26
 > | **OECD Learning Compass 2030 (2019)** | [[OECD\|经合组织]] | 变革性胜任力（创造新价值、调和张力、承担责任）、核心基础素养 | 强调学生能动性（Student Agency）与复合素养 |
 > | **[[European Qualifications Framework\|欧洲资格框架]] (EQF, 2008/2017)** | 欧洲议会与[[EU\|欧盟]]理事会 | 知识、技能、自主与责任（6–8 级聚焦批判分析与前沿创新） | 具法律效力的区域文凭元框架，驱动成果本位课程改革 |
 > | **皇家学会交叉素养蓝图 (2026)** | [[The Royal Society\|英国皇家学会]] | [[Scientific Literacy\|科学素养]]（证据评估）、[[Data Literacy\|数据素养]]（风险概率）、[[AI Literacy\|AI 素养]]、气候生态素养 | 纠正技能空心化，扎根于学科[[Big Ideas\|大概念]]与面向 18 岁宽口径大纲（p. 31） |
-> | **白宫 OSTP 制造公地与手艺素养 (2026)** | 白宫科技政策办公室 | 现场排障（Troubleshooting）、默会[[Process Knowledge\|过程知识]]、车间动手手艺（Craftsmanship）、人机协同验证 | 批判脱离实体制造的抽象技能空心化，重塑智能时代手艺与排障底座（pp. 51–53, 58） |
+> | **白宫 OSTP 制造公地与手艺素养 (2026)** | 白宫科技政策办公室 | 现场排障（Troubleshooting）、默会[[Process Knowledge\|过程知识]]、车间动手手艺（Craftsmanship）、人机协同验证 | 批判脱离实体制造的抽象技能空心化，重塑智能时代手艺与排障基础（pp. 51–53, 58） |
 
 ---
 
@@ -159,8 +159,8 @@ updated: 2026-10-26
 
 ### 命题一　核心素养在全球政策空间中作为漂浮能指运作，以高度可塑性促成跨意识形态趋同
 
-> [!concept-lens] [[Floating Signifier\|漂浮能指]]机制
-> 核心素养之所以能同时被立场迥异的国际多边机构和各国政府全盘接受，并非源于实质性教育哲学共识，而是因为概念在剥离具体历史情境后成为高度抽象的符号容器。
+> [!concept-lens] [[Floating Signifier|漂浮能指]]机制
+> 概念在剥离具体历史情境后成为高度抽象的符号容器，促成了不同意识形态背景下政策主体的广泛采纳。
 
 > [!claim] Beech; Zelinka
 > **抽象化与权威光环促成强制同质化** 能力[[Discourse|话语]]的可塑性使其能适应不同国家的文化与意识形态包装，而其稳定性的权威光环使其成为不可质疑的现代化政策象征；话语越空泛，能填充的语境越多，进而促成了全球范围内的强制同质化。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–355)]]; [[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 258)]]
@@ -183,17 +183,20 @@ updated: 2026-10-26
 > 话语将经济转型中的劳动风险完全个体化，创造出时刻准备自我更新的理想员工形象。
 
 > [!claim] Zelinka
-> **愿意主体生产与[[Self-Entrepreneur\|自我企业家]]规训** [[Single-Case Design\|SCD]] 确立了不断学习新技能的“愿意主体”（自我企业家）为规范标准，并将未能适应市场变迁的群体标记为“不愿主体”或“可弃置个体”，使国家免于承担解决劳动力市场结构性不平等的根本责任。[[Argument_Zelinka_2022_SCD_subjectivity\|(Zelinka, 2022, pp. 260–261)]]
+> **愿意主体生产与[[Self-Entrepreneur|自我企业家]]规训** [[Single-Case Design|SCD]] 确立了不断学习新技能的“愿意主体”（自我企业家）为规范标准，并将未能适应市场变迁的群体标记为“不愿主体”或“可弃置个体”，使国家免于承担解决劳动力市场结构性不平等的根本责任。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 260–261)]]
+
+> [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
+> **企业家精神与灵活素养的规训内化** 帕西亚斯与鲁萨基斯解构欧盟政策话语指出，欧洲委员会在里斯本战略中将“灵活技能与素养”（flexible skills and competences）推向核心，并把商业精神、冒险意识与自我雇佣倾向纳入各级教育课程规范；这种素养话语将个体重新编码为直面市场波动的自我负责主体，消解了公共福利托底责任。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 484, 487)]]
 
 ---
 
 ### 命题四　社会建构型合作学习为21世纪高阶素养的发展提供了高效益的课堂实现机制
 
 > [!concept-lens] 课堂干预效能
-> 政策话语中倡导的 4C 技能与高阶素养需要具体教学模式支撑；[[Meta-meta-analysis\|二阶元分析]]证实同伴协商与小组探究是发展综合素养的强效载体。
+> 政策话语中倡导的 4C 技能与高阶素养需要具体教学模式支撑；[[Meta-meta-analysis|二阶元分析]]证实同伴协商与小组探究是发展综合素养的强效载体。
 
 > [!claim] Güngör et al.
-> **合作互动对21世纪高阶技能具有高效益赋能** 二阶[[Meta-analysis\|元分析]]表明，[[Cooperative Learning\|合作学习]]对涵盖 21 世纪技能的[[Higher-Order Thinking Skills\|高阶思维]]产出具有强劲促进效应（$ES = 0.76$ $[0.42, 1.11]$），其中[[Jigsaw\|拼图法]]对 21 世纪复合素养的一阶促进效应达 $ES = 0.84$ $[0.66, 1.03]$。[[Heterogeneity\|异质性]]小群体的认知冲突与深度协作，为批判思维、[[Creativity\|创造力]]与沟通素养的具身养成提供了微观社会机制。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–9)]]
+> **合作互动对21世纪高阶技能具有显著促进效应** 二阶[[Meta-analysis|元分析]]表明，[[Cooperative Learning|合作学习]]对涵盖 21 世纪技能的[[Higher-Order Thinking Skills|高阶思维]]产出具有强劲促进效应（$ES = 0.76$ $[0.42, 1.11]$），其中[[Jigsaw|拼图法]]对 21 世纪复合素养的一阶促进效应达 $ES = 0.84$ $[0.66, 1.03]$。[[Heterogeneity|异质性]]小群体的认知冲突与深度协作，为批判思维、[[Creativity|创造力]]与沟通素养的具身养成提供了微观社会机制。[[Argument_Gungor_2026_CP|(Güngör et al., 2026, pp. 6–9)]]
 
 ---
 
@@ -206,7 +209,7 @@ updated: 2026-10-26
 > **宏观能力宣示与微观评价实践的制度断裂** 尽管[[OECD|经合组织]]成员国几乎全员在国家资格框架（如 [[European Qualifications Framework|EQF]]、《[[Melbourne Declaration|墨尔本宣言]]》）中将创造力与批判性思维列为最高培养目标，但微观评价层面存在三重系统性阻碍：
 > 1. **大规模考试[[Construct|构念]]代表性不足** 入学与执业考试依赖[[Multiple-Choice Questions|多项选择题]]（MCQs），仅测预设选项“再认”而无法测量“主动生成”；
 > 2. **课程模块化导致碎片化过度考核（Hyper-Assessment）** 学生三年需应付 60–80 项孤立测试，直接诱发应试[[Surface and Deep Learning|表层学习]]；
-> 3. **教师缺乏量规校准（Calibration）与[[Authentic Assessment|真实性评价]]素养** 导致表现性任务[[Reliability|信度]]难以维护。五大政策杠杆若不重塑微观考核，核心素养话语将沦为空泛的修辞宣示。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5, 23–28)]]
+> 3. **教师缺乏量规校准（Calibration）与[[Authentic Assessment|真实性评价]]素养** 导致表现性任务[[Reliability|信度]]难以维护。五项政策机制若不重塑微观考核，核心素养话语将沦为空泛的修辞宣示。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5, 23–28)]]
 
 ---
 
@@ -216,7 +219,7 @@ updated: 2026-10-26
 > 探讨人工智能普及使代码编写与文本推演边际成本急剧下降后，21 世纪核心素养为何必须向“实体排障手艺”与“人机自动化核验”深度转向。
 
 > [!claim] Kratsios, M.
-> **实体排障手艺与人机核验素养论** 白宫科技政策办公室 2026 报告深刻指出，单纯依赖黑板推导与抽象[[Text Generation|文本生成]]的传统 21 世纪技能话语已无法应对现代技术挑战。一方面，AI 在宏观规律挖掘与微观结构设计中展现出巨大赋能，要求人才具备[[Man-Computer Symbiosis|人机协同]]的黄金标准自动化核验能力；另一方面，由于物理世界的原子规律、芯片产线与精密实验仪器具有刚性制约，熟练机械师与高级工程师在现场沉淀的默会[[Process Knowledge|过程知识]]、物理排障直觉（[[Problem Solving|Troubleshooting]]）与车间动手手艺（Craftsmanship），重新成为不可替代的国家核心技能基石。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53, 58–60)]]
+> **实体排障手艺与人机核验素养论** 白宫科技政策办公室 2026 报告深刻指出，单纯依赖黑板推导与抽象[[Text Generation|文本生成]]的传统 21 世纪技能话语已无法应对现代技术挑战。一方面，AI 在宏观规律挖掘与微观结构设计中发挥了显著支撑作用，要求人才具备[[Man-Computer Symbiosis|人机协同]]的黄金标准自动化核验能力；另一方面，由于物理世界的原子规律、芯片产线与精密实验仪器具有刚性制约，熟练机械师与高级工程师在现场积累的默会[[Process Knowledge|过程知识]]、物理排障直觉（[[Problem Solving|Troubleshooting]]）与车间动手手艺（Craftsmanship），重新成为不可替代的国家核心技能基石。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53, 58–60)]]
 
 ---
 
@@ -225,20 +228,20 @@ updated: 2026-10-26
 > |---|---|---|---|
 > | **漂浮能指** | 概念抽象化促成全球政策同质化趋同 | [[Global Policy Space\|全球政策空间]]、跨国组织议程分析 | [[Jason Beech\|Beech (2009a)]]; [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]] |
 > | **认识论扎根** | 批判抽象技能清单，倡导学科大概念与实证探究融合 | K-12 科学课程设计、跨学科素养整合 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] |
-> | **自我企业家** | 将结构性经济风险转化为个体自我责任化 | 劳动力政策、主体性社会学分析 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022, p. 260)]] |
+> | **自我企业家** | 将结构性经济风险转化为个体自我责任化与灵活素养规训 | 劳动力政策、主体性社会学分析、欧盟里斯本战略批判 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022, p. 260)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
 > | **课堂教学效能** | 合作学习是培养 21 世纪高阶复合素养的强效载体 | 课堂教学法改革、高阶思维培养干预 | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
 > | **评价制度断裂** | 宏观素养宣示与高校微观考核滞后脱节，亟需真实表现评价 | 高教质量保障、学习增益测查、国家统考改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
 > | **手艺排障与核验** | 突破抽象文本技巧，确立实体现场排障手艺与自动化机器核验素养 | 智能时代劳动转型、[[Engineering Education\|高等工程教育]]、先进制造学徒制 | [[Michael Kratsios\|Kratsios, M.]] |
 
 ---
 
-> [!dev-timeline] [[Discourse|话语]]演变与跨国扩散六阶段
+> [!dev-timeline] [[Discourse|话语]]演变与跨国扩散阶段
 > - **阶段零（历史-物质起源） — [[Post-Fordism|后福特主义]]生产组织转型** 能力（Competence）概念源于企业管理由泰勒制向丰田制的转型，后福特主义劳动组织要求新型工人具备流程改善与团队协作能力；进入[[Global Policy Space\|全球政策空间]]后，其具体的资本主义车间历史起源被抽象化为普世教育命题。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 353–355)]]
-> - **第一阶段（2000 年代初） — 美国国家框架主导** enGauge（2003）与美国 P21（2009）框架确立 4C 技能（[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]、协作、沟通）雏形，强调数字时代素养。
+> - **第一阶段（2000 年代初） — 欧盟灵活素养规训与美国国家框架** 欧盟委员会通过里斯本战略与技能流动行动计划，将商业精神、自负盈亏与灵活技能确立为欧洲关键能力的核心，把宏观经济风险内化为个体的素养升级责任（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, pp. 484, 487]]）；同时 enGauge（2003）与美国 P21（2009）框架确立 4C 技能（[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]、协作、沟通）雏形，强调数字时代素养。
 > - **第二阶段（2010 年代） — 跨国协调与多边私营共建** ATCS 跨国评估项目、美国 NRC 报告（2012）与世界经济论坛（WEF, 2016）加入，私营部门直接介入技能标准设定，确立标准化测量意图。
 > - **第三阶段（2010 年代末至 2020 年代初） — 全球指标趋同与产品下沉** [[OECD]]《学习罗盘 2030》（2019）与[[EU|欧盟]]八大关键素养高度同质化；[[PISA]] 通过创新领域（协作[[Problem Solving\|问题解决]]、创造性思维）实现跨国测量落地。（OECD, 2019; [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p. 254]]）
 > - **第四阶段（2020 年代中） — 智能时代交叉素养与学科[[Epistemology\|认识论]]重构** 面对大模型与生成式 AI 冲击，以英国皇家学会（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]]）为代表的科学界反思抽象技能空心化，提出将 21 世纪核心素养扎根于四大交叉支柱：[[Scientific Literacy\|科学素养]] + [[Data Literacy\|数据素养]] + AI 素养 + 气候生态素养。
-> - **第五阶段（2020 年代后期） — 高等教育真实[[Authentic Assessment\|表现性评价]]与政策杠杆重构** OECD 报告（[[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023]]）引领从“口头倡导”转向“评价生态重构”，通过 [[TESTA Project\|TESTA]] 全课程整合评价、VALUE 量规校准与高利害统考增设大口试答辩，实质性破除 21 世纪素养落地的评价瓶颈。
+> - **第五阶段（2020 年代后期） — 高等教育真实[[Authentic Assessment\|表现性评价]]与政策机制重构** OECD 报告（[[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023]]）引领从“口头倡导”转向“评价生态重构”，通过 [[TESTA Project\|TESTA]] 全课程整合评价、VALUE 量规校准与高利害统考增设大口试答辩，实质性破除 21 世纪素养落地的评价瓶颈。
 > - **第六阶段（2026 年） — 实体制造公地、排障手艺与自动化机器核验** 白宫科技政策办公室（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）战略报告将技能话语从纯认知与软件抽象拉回物理现实，强调在[[Man-Computer Symbiosis|人机共生]]时代，车间动手实训、仪器建造技艺、现场排障直觉与黄金标准机器自动化核验构成不可替代的高阶素养新支柱。
 
 ---
@@ -264,7 +267,7 @@ updated: 2026-10-26
 >
 > | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.84"><span class="b17"></span></span>0.84 | [0.66, 1.03] | Cohen's $d$ / 随机效应模型 | $k = 10$ / $N = —$ | [[Dependent Variable\|结果变量]]：拼图法（Jigsaw）对 21 世纪技能（批判思维、[[Creativity\|创造性]]与问题解决）的促进效应 | — | 跨学科跨学段综合干预，印证[[Jigsaw\|拼图法]]对 21 世纪多元核心素养的稳健赋能 |
+> | Solissa et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.84"><span class="b17"></span></span>0.84 | [0.66, 1.03] | Cohen's $d$ / 随机效应模型 | $k = 10$ / $N = —$ | [[Dependent Variable\|结果变量]]：拼图法（Jigsaw）对 21 世纪技能（批判思维、[[Creativity\|创造性]]与问题解决）的促进效应 | — | 跨学科跨学段综合干预，印证[[Jigsaw\|拼图法]]对 21 世纪多元核心素养的稳健促进效应 |
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>
@@ -297,7 +300,7 @@ updated: 2026-10-26
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证 21 世纪高阶素养在高等教育落地中面临的评价瓶颈，提出重构学业评价的五大政策杠杆与全课程改革方案。
+> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证 21 世纪高阶素养在高等教育落地中面临的评价瓶颈，提出重构学业评价的五大政策机制与全课程改革方案。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 批判[[Discourse Analysis|话语分析]]，系统剖析 21 世纪技能[[Discourse|话语]]的全球演变、新自由主义主体性规训与被边缘化的全人素养。
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 考察能力话语在[[Global Policy Space|全球政策空间]]中的[[Floating Signifier|漂浮能指]]运作，揭示拉美教师教育中的转译断裂与概念混乱。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 提出智能时代四大交叉素养蓝图，主张核心素养必须扎根于学科[[Big Ideas|大概念]]与实证探究，批判技能空心化。
@@ -306,18 +309,4 @@ updated: 2026-10-26
 > - [[Argument_Wong_2022_HERD|Wong et al. (2022)]] — 探讨高等教育中 21 世纪技能话语与[[Graduate Attributes|毕业生特质]]的[[Operationalization|操作化]]对齐。
 > - [[Argument_Zhao_2020_JEC|Zhao (2020)]] — 批判新自由主义教育治理与技能测量对教育[[Public Value|公共价值]]的窄化。
 > - [[Argument_Gungor_2026_CP|Güngör et al. (2026)]] — [[Meta-meta-analysis|二阶元分析]]，量化证实[[Cooperative Learning|合作学习]]对 21 世纪技能等高阶认知产出的显著促进效能（$ES = 0.76$），并纳入 Solissa et al. (2023)（$ES = 0.84$）作为直接实证支撑。
-
----
-
-> [!entry-map] 相关条目网络
->
-> | 条目 | 类型 | 关系 |
-> |:-----|:-----|:-----|
-> | [[Higher-Order Thinking Skills]] | Concept | 21 世纪技能[[Discourse\|话语]]试图界定并测查的核心高阶认知与心智能力。 |
-> | [[Problem Solving]] | Concept | 21 世纪技能矩阵中解决劣构真实挑战的核心支柱[[Construct\|构念]]。 |
-> | [[Critical Thinking]] | Concept | 4C 技能中强调证据评估、论证辨析与反思怀疑的核心思维能力。 |
-> | [[Engineering Education]] | Concept | 推动 21 世纪素养从纯认知抽象向动手实训与多约束系统设计转化的教育[[Paradigm\|范式]]。 |
-> | [[Process Knowledge]] | Concept | 智能时代 21 世纪技能话语反思抽象空心化、重振实体排障手感所依赖的默会工艺知识。 |
-> | [[Graduate Attributes]] | Concept | 大学对 21 世纪通用能力话语进行院校本位转译与课程对齐的治理载体。 |
-> | [[OECD]] | Fact (Organization) | 长期主导全球 21 世纪技能标准设定与 [[PISA]] 测评跨国治理的多边组织。 |
-> | [[Michael Kratsios]] | Person | 主张重塑智能时代车间排障手艺与工匠素养底座的科技政策学者。 |
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯规训理论解构欧盟政策话语，揭示“灵活技能与素养”及商业企业家精神如何被工具化用于重塑自我雇佣与风险自负的现代劳动主体。

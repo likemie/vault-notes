@@ -241,6 +241,9 @@ updated: 2026-10-26
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
 > **脱离具体课程的成人生活技能与自我规制主体塑造** 格雷克论证，面向知识经济竞争的大规模测评（如 PISA）实现了教育评价认识论上的深刻转向：测验彻底跳过各个国家具体的教学大纲与课程内容，转而直接考查 15 岁学生在成人生活与未来劳动力市场中应对现实挑战所需的功能性核心素养。这一评价[[Paradigm|范式]]将传统仅针对成人的[[Lifelong Learning|终身学习]]概念前置至基础教育阶段，要求学生自我报告学习动机与策略，从而将应对不确定经济竞争的风险转嫁给个体，驱动受教育者成为对自身[[Human Capital Theory|人力资本]]增值负责、具备主动自我调节能力的知识经济劳动力。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27, 35)]]
 
+> [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
+> **里斯本战略与知识经济的全景敞视建筑** 帕西亚斯与鲁萨基斯运用福柯权力-规训理论解构欧盟教育政策指出，里斯本战略将欧洲建构为“全球最具竞争力的知识经济体”的宏图，实质上打造了一座超国家教育全景敞视建筑。在这一技术官僚知识经济中，知识被重新定义为具有保质期、随技术迭代迅速折旧的易耗商品；教育体系被全面工具化为服务于地缘经济竞争的支柱，依托开放协调法（OMC）与量化指标网络将各主权成员国规训在持续横向对标的监视网络之中。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–482, 486–487, 492–493)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
@@ -252,7 +255,7 @@ updated: 2026-10-26
 > | **评价断裂悖论** | 宏观政策高阶能力宣示与微观学业考核事实导向严重脱节 | 高教质量保障、学习增益测量、考试制度改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
 > | **网络治理与虚构商品** | 后工业巴斯德象限创新驱动国家向网络经纪转型，但知识商品化阻滞了跨组织协同 | [[National Innovation System\|国家创新体系]]转型、产学研联合攻关与知识产权制度反思 | [[Argument_Block_2008_PS\|Block (2008)]] |
 > | **社会想象与社会价值重构** | 国际组织[[Constructed Knowledge\|建构知识]]经济社会想象，推动“知其所以操作”转型并将公平与社会凝聚力工具化 | 跨国教育政策[[Discourse Analysis\|话语分析]]、OECD 指标治理、性别与社会资本政策批判 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] |
-> | **超国家软法治理与技能转向** | 超国家实体借跨国指标突破立法限制推行软法治理，推动评价转向成人生活技能与自我规制 | 区域一体化教育治理、超国家知识经济战略与大规模国际测评分析 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
+> | **超国家软法治理与技能转向** | 超国家实体借跨国指标与全景敞视监视推行软法治理，推动知识商品化与劳动力自我规制 | 区域一体化教育治理、超国家知识经济战略与大规模国际测评分析 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
 
 ---
 
@@ -262,6 +265,7 @@ updated: 2026-10-26
 > - **经济学理论化（1980s–1990s） — 内生增长与新自由主义全球化** Romer（1986）[[New Growth Theory|内生增长理论]]将知识与[[Human Capital Theory|人力资本]]确立为不受边际收益递减限制的内生动力；世界银行（1991）与 OECD（1996）正式将 KBE [[Discourse|话语]]确立为全球教育与经济政策主导典范。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]
 > - **发展型[[Network Governance|网络治理]]与虚构商品批判（2000s–2008） — 跨组织协同与产权反思** [[Fred Block|弗雷德·布洛克]]基于美国《R&D 100》大奖纵向追踪证实，后工业知识经济的突破性创新已从单一企业封闭研发转向由大学、联邦实验室与企业构成的跨组织网络，确立了去中心化[[Developmental Network State|发展型网络国家]]在[[Pasteur's Quadrant|巴斯德象限]]中的中介功能；同时从卡尔·波兰尼（Karl Polanyi）虚构商品视角批判了激进知识产权占有对开放科学与跨界研发协作的制度性反噬。[[Argument_Block_2008_PS|(Block, 2008, pp. 171–176, 195–198)]]
 > - **2009 — 超国家软法数据治理与成人生活技能转向** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）基于[[European Education Space|欧洲教育空间]]经验揭示知识经济下的两重治理机制：欧盟在[[Lisbon Strategy|里斯本战略]]下通过开放协调法与采购经合组织数据实施软法治理，突破辅助性原则限制；同时大规模跨国测评跳过具体课程大纲，直接考核面向成人市场的生活技能与终身学习自我调节，推动个体在知识经济中承担自我优化的终身责任。
+> - **2009 — 超国家全景敞视式知识经济规训批判** 帕西亚斯与鲁萨基斯解构里斯本战略，揭示知识被定义为易耗商品后，超国家实体如何依托开放协调法构筑全景敞视式软法监视体系，将成员国教育体系规训为知识经济竞争工具。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–482, 486–487)]]
 > - **全球扩散与空间运作（2000s–2010s） — 教育出口与枢纽建设** 亚洲国家与澳大利亚将 KBE 转化为教育出口战略；新加坡与迪拜通过“教育枢纽”政策将大学完全产业化为经济增长极。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022)]]; [[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022)]]
 > - **智能时代评价重构（2020s至今） — 聚焦高阶认知素养与评价治理** 面对生成式 AI 与劳动力深度重组，OECD 等国际组织反思“教育扩张”数量指标，转向推动以[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与真实表现任务为核心的高教评价与治理变革。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023)]]
 
@@ -318,3 +322,4 @@ updated: 2026-10-26
 > - [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]] — 比较新加坡与[[UAE Education Hub Projects|阿联酋教育枢纽]]，批判 KBE 话语掩盖制度建设不足的深层缺陷。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 揭示 21 世纪技能话语作为 KBE 在个体主体性层面的微观[[Operationalization|操作化]]与[[Self-Entrepreneur|自我企业家]]规训。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 剖析 OECD 如何依托新增长理论[[Constructed Knowledge|建构知识]]经济的全球[[Social Imaginary|社会想象]]，推动学习向操作性技能与学习型经济转型，并将性别平权与社会凝聚力重构为经济效率工具。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯全景敞视理论解构欧盟里斯本战略话语，揭示知识经济如何将知识异化为快速折旧的商品，并依托开放协调法构筑超国家软法规训体系。

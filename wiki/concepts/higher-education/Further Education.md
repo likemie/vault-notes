@@ -96,6 +96,9 @@ updated: 2026-10-25
 > [!claim] [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]]
 > **后福特生产方式下的再技能化必然性** 在制造业与服务业加速向高新技术转型的“永久创新经济”中，生产工艺与数字工具的高频更替导致劳动力技能折旧周期大幅压缩；这使得单纯依赖一次性正规高等教育已无法满足产业生命周期需求，促使继续教育成为国家与产业维持创新竞争力的战略必需。（p. 179）
 
+> [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
+> **超国家空间构建中的初始与继续教育一体化整合** 乔治·帕西亚斯与扬尼斯·鲁萨基斯考察欧洲联盟教育政策演进指出，在构筑制度化欧洲教育空间（European educational area）的过程中，欧盟通过正式网络、合作协议与资格互认机制，明确将初始教育（initial education）与继续教育体系（further education systems）的一体化整合确立为关键战略基石，使继续教育从教育外围上升为终身学习与区域一体化的核心支撑。（p. 485）
+
 ---
 
 ### 命题二　跨国企业继续教育展现出基于阶层资本的滴漏分层与商业模型波动性
@@ -121,7 +124,7 @@ updated: 2026-10-25
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **经济范式转型命题** | 永久创新经济与技能折旧加速确立继续教育的核心支柱地位 | 后福特主义产业升级、知识密集型经济、劳动力再技能化 | [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] |
+> | **经济范式转型命题** | 永久创新经济与技能折旧加速确立继续教育的核心支柱地位，驱动初始与继续教育一体化 | 后福特主义产业升级、知识密集型经济、欧洲教育空间建构 | [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
 > | **资本分层与市场命题** | 跨国企业培训遵循滴漏分层规律，商业培训市场面临权威与稳定张力 | 跨国公司人力资源管理、营利性教育市场分析 | [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] |
 > | **全周期链条贯通命题** | 继续教育衔接职前入职与在职技能迭代，构建全周期跨国数字人才链 | 职业教育对外开放、国际产能合作与跨境产教协同 | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] |
 
@@ -129,6 +132,7 @@ updated: 2026-10-25
 
 > [!dev-timeline] 概念演变
 > - **1990年代 — 后福特转型与再技能化觉醒** 制造业向知识密集型经济转型，Morris-Suzuki 提出“永久创新经济”命题，揭示劳动力持续技能迭代对经济体系的基础支撑作用。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, p. 179)]]
+> - **2000 年代 — 欧洲制度化教育空间的一体化整合** 欧盟通过白皮书倡议与资助网络，推动将初始教育与继续教育体系（initial and further education systems）进行深度贯通与学分互认，以构筑制度化的欧洲教育空间。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 485)]]
 > - **2000–2010年代 — 参与率攀升与多边统计建制** 欧盟启动继续职业教育培训调查（CVTS），数据显示 25–64 岁成人教育培训年参与率突破 40%，继续教育被纳入跨国终身学习政策指标体系。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 179–180)]]
 > - **2010年代末 — 微证书繁荣与商业寡头集聚** 替代性微证书（Micro-credentials）快速崛起，Skillsoft 等跨国在线商业培训机构依靠资本并购与平台效应形成全球性市场集聚。[[Argument_Hartmann_2022_CorporateEducation|(Hartmann, 2022, pp. 190–193)]]
 > - **2020年代至今 — 全周期技能贯通与跨国数字走廊** 在跨国工程合作与职业教育开放实践中，继续教育深度融入“职前、入职、在职”全生命周期资源库，依托多语种数字平台支撑区域技能标准化协同。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 300–301)]]
@@ -142,6 +146,8 @@ updated: 2026-10-25
 ---
 
 > [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | Eurostat (2016)，引自 [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] | 欧盟 28 国 25–64 岁劳动年龄人口 | 跨国成人教育与培训统计调查 | 过去 12 个月继续教育培训参与率 | 欧盟平均参与率超过 40%，并在高收入国家呈持续攀升态势 | — | 宏观统计印证了中学后继续教育在发达工业国家劳动力中的高普及度（p. 179） |
@@ -154,3 +160,4 @@ updated: 2026-10-25
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 系统梳理继续教育与企业教育的政治经济学脉络，揭示永久创新经济驱动机制、企业培训外化率以及跨国商业培训市场的运作逻辑。
 > - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合区域产教协同与职业教育出海实践，阐明在职继续教育在打通全周期人才培养链条与支撑跨国产业用工中的关键枢纽功能（pp. 300–301）。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 考察欧盟教育政策演进，指出构筑制度化欧洲教育空间的关键目标之一是推进初始教育与继续教育体系的一体化整合（p. 485）。
