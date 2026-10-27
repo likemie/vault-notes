@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-10-25
+updated: 2026-10-27
 ---
 
 ---
@@ -181,7 +181,17 @@ updated: 2026-10-25
 > 探讨欧洲联盟教育权能的法律宪制边界，以及后发成员国如何利用欧洲教育空间作为修辞工具掩盖本土制度惰性与保护主义。
 
 > [!claim] [[José Luis García Garrido|García Garrido]], J. L.
-> **主权防线与亲欧修辞借用** García Garrido 论证指出，在法理与现实运行中，欧洲联盟教育维度实质上是所有成员国教育体系的总和（none other than the sum of all its parts）。《马斯特里赫特条约》明确将教育主权完整保留在成员国手中，布鲁塞尔缺乏干涉成员国核心学制与课程的宪制权能。然而，在以西班牙为代表的后发转型国家中，欧洲教育空间与欧洲标准被执政精英高度符号化，成为国内立法前言中频密征引的亲欧修辞（Europeanist rhetoric）。这种修辞往往沦为[[Plaintive Comparison|诉苦式比较]]与掩盖体制改革迟滞的虔诚托辞（pious excuse）。在实践层面，所谓的高等教育趋同被降格为形式主义对齐：高校表面上全面采纳[[Bologna Process|博洛尼亚进程]]（Bologna Process）三级学位架构与欧洲学分互认体系（European Credit Transfer and Accumulation System，ECTS），但内部却长期受困于高达 95% 教师留校任教的[[Academic Inbreeding|学术近亲繁殖]]（inbreeding）以及地方保护壁垒；而西班牙在[[Erasmus Programme|伊拉斯谟计划]]中看似繁荣的留学生吸引力，实质上高度依赖温和气候与廉价生活成本等非学术禀赋，掩盖了高校教学科研国际[[Competitiveness|竞争力]]的真实落后。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]
+> **主权防线与亲欧修辞借用** García Garrido 论证指出，在法理与现实运行中，欧洲联盟教育维度实为所有成员国教育体系的总和（none other than the sum of all its parts）。《马斯特里赫特条约》明确将教育主权完整保留在成员国手中，布鲁塞尔缺乏干涉成员国核心学制与课程的宪制权能。然而，在以西班牙为代表的后发转型国家中，欧洲教育空间与欧洲标准被执政精英高度符号化，成为国内立法前言中频密征引的亲欧修辞（Europeanist rhetoric）。这种修辞往往沦为[[Plaintive Comparison|诉苦式比较]]与掩盖体制改革迟滞的虔诚托辞（pious excuse）。在实践层面，高等教育趋同流于形式主义对齐：高校表面上全面采纳[[Bologna Process|博洛尼亚进程]]（Bologna Process）三级学位架构与欧洲学分互认体系（European Credit Transfer and Accumulation System，ECTS），但内部却长期受困于高达 95% 教师留校任教的[[Academic Inbreeding|学术近亲繁殖]]（inbreeding）以及地方保护壁垒；西班牙在[[Erasmus Programme|伊拉斯谟计划]]中的留学生吸纳量高度依赖温和气候与低廉生活成本等非学术禀赋，高校教学科研的国际[[Competitiveness|竞争力]]依然滞后。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]
+
+---
+
+### 命题四　进取型政府间主义依托软法规训与指标监视在宪制约束外构筑超国家教育空间
+
+> [!concept-lens] 软治理技术、进取型政府间主义与全景敞视建构
+> 探讨欧盟委员会与成员国如何在条约排除超国家强制立法权的情况下，通过软法工具与可比指标网络搭建功能性的超国家教育空间。
+
+> [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
+> **进取型政府间主义与欧洲教育空间的全景敞视构建** 乔治·帕西亚斯与扬尼斯·鲁萨基斯指出，尽管《马斯特里赫特条约》严格限制欧盟在教育领域的立法权并确立[[Subsidiarity Principle|辅助性原则]]，但欧盟通过推行“进取型政府间主义”（enterprising intergovernmentalism）有效绕过了宪制壁垒。在[[Lisbon Strategy|里斯本战略]]确立的[[Open Method of Coordination|开放协调法]]（OMC）框架下，各主权成员国被吸纳进共同制定基准（benchmarking）、指标排位与同行审议的规训网络。这种软治理技术不仅未削弱一体化势头，反而在分散化与国家自主的表象下，将全景敞视式的规训凝视投射到各成员国教育体系中，使欧洲教育空间演化为高度组织化、受严密监视与持续横向对标的超国家治理场域。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–482, 486–487, 492–493)]]
 
 ---
 
@@ -191,14 +201,15 @@ updated: 2026-10-25
 > | **数据基础设施[[Disciplina and Doctrina\|规训]]命题** | 欧洲教育空间通过量化数据网格与比较指标建立跨国软性政策协调与研究吸附机制 | 国际大规模教育评估（PISA）、循证政策决策、指标治理 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]]; [[Argument_Li_2025_HSSC\|Li et al. (2025)]] |
 > | **空间治理与认同建构命题** | 欧洲教育空间通过美德化人员流动与项目网络建构超国家身份，同时转移就业责任与构筑外围边界 | [[Internationalization of Higher Education\|高等教育国际化]]、伊拉斯谟计划、[[TEMPUS\|天普计划]]、欧盟公民认同 | Nóvoa & Lawn (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
 > | **主权防线与修辞借用命题** | 欧洲教育空间受限于主权壁垒，易被后发成员国异化为立法修辞挡箭牌与形式对标，掩盖学术近亲繁殖与制度惰性 | 欧洲联盟教育治理限度、博洛尼亚进程落地异化、学术流动与大学近亲繁殖批判 | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] |
+> | **进取型政府间主义与全景敞视建构** | 依托开放协调法、基准指标与同行审议绕开硬法限制，将主权国家纳入全景敞视式软法规训网络 | 欧洲宏观教育治理、软法一体化、里斯本战略与超国家空间建构 | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
 
 ---
 
 > [!dev-timeline] 概念演变
 > - **1990 年代初 — 政策萌芽与条约确立** 1992 年《马斯特里赫特条约》（第 126 条）明确[[EU|欧盟]]在尊重成员国文化和语言多样性的前提下促进教育合作，[[Erasmus Programme|伊拉斯谟计划]]与 [[TEMPUS|天普计划]]相继铺开。
-> - **2000 年 — [[Lisbon Strategy|里斯本战略]]与开放协调机制** 欧盟提出建立全球最具[[Competitiveness|竞争力]]的[[Knowledge-Based Economy|知识经济]]体，正式确立以基准比对、量化指标和同伴学习为核心的开放协调机制（[[Open Method of Coordination|OMC]]），欧洲教育空间开始获得实操抓手。
+> - **2000 年 — [[Lisbon Strategy|里斯本战略]]与开放协调机制** 欧盟提出建立全球最具[[Competitiveness|竞争力]]的[[Knowledge-Based Economy|知识经济]]体，正式确立以基准比对、量化指标和同伴学习为核心的开放协调机制（[[Open Method of Coordination|OMC]]），欧洲教育空间确立了具体政策执行工具。
 > - **2002 年 — 比较教育学批判解构** [[António Nóvoa]] 与 Martin Lawn 出版《制造欧洲教育空间》（*Fabricating Europe: The Formation of an Education Space*），将该空间定性为通过数据与流动性进行主体塑造的[[Post-structuralism|后结构主义]]治理技术。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
-> - **2009 年 — 空间转向与现实主义制度反思** Sobe & Fischer 将其置于[[Spatial Governmentality|空间治理术]]视域下，揭示欧洲教育空间的双重包容与排斥机制；[[José Luis García Garrido|García Garrido]] 则从成员国宪制视角指出欧盟教育维度不过是成员国总和，揭示西班牙高校在博洛尼亚对标下的[[Academic Inbreeding|学术近亲繁殖]]与修辞借用假象。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–363)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]
+> - **2009 年 — 空间转向、主权防线与全景敞视批判** Sobe & Fischer 将其置于[[Spatial Governmentality|空间治理术]]视域下，揭示欧洲教育空间的双重包容与排斥机制；[[José Luis García Garrido|García Garrido]] 从西班牙宪制与近亲繁殖揭示形式对标与主权总和实质；[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] 运用全景敞视理论解构欧盟教育话语，揭示进取型政府间主义与开放协调法如何在法律辅助性原则之外构筑全景敞视式的超国家教育空间。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–363)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–482, 486–487)]]
 > - **2025 年 — 大规模评估实证反思** Li et al. 从全球实证综述视角证实欧洲教育空间对国际学术研究与政策评估的结构性吸附效应。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 
 ---
@@ -207,7 +218,7 @@ updated: 2026-10-25
 >
 > > [!axis] 自愿一体化 vs 隐性新自由主义规训
 > > - **官方政策叙事** 欧洲教育空间是通过自愿合作、学分互认与文化交流实现多元一体的和平民主项目，尊重各自主权。
-> > - **[[Critical Pedagogy|批判教育学]]者（Nóvoa, Lawn, Ball）** 欧洲教育空间实则是新自由主义[[Governmentality|治理术]]的高级形态，通过非强制的指标排位与资助竞争，迫使各成员国将教育目标悄然对齐劳动力市场与[[Human Capital Theory|人力资本]]积累。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> > - **[[Critical Pedagogy|批判教育学]]者（Nóvoa, Lawn, Ball）** 欧洲教育空间被视为新自由主义[[Governmentality|治理术]]的高级形态，通过非强制的指标排位与资助竞争，促使各成员国将教育目标对齐劳动力市场与[[Human Capital Theory|人力资本]]积累。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 >
 > > [!axis] 开放包容网络 vs 外围地缘文化排斥
 > > - **[[EU|欧盟]]一体化推动者** 强调 [[TEMPUS]] 与睦邻政策将欧洲先进教育模式辐射至东欧与地中海周边，促进制度现代化与民主转型。
@@ -215,7 +226,7 @@ updated: 2026-10-25
 >
 > > [!axis] 超国家共同政策实体 vs 成员国主权总和与修辞借用
 > > - **功能主义与超国家主义视角** 认为欧洲教育空间正通过[[Bologna Process|博洛尼亚进程]]和开放协调机制逐步形成具有实质约束力的欧洲共同政策实体，推动各国教育体制自发趋同。
-> > - **现实主义与制度批判学者（[[José Luis García Garrido|García Garrido]]）** 强调欧洲教育维度的实质不过是成员国各自主权的总和。布鲁塞尔在核心权能上面临严格宪制边界；而后发成员国往往将欧洲教育空间当作立法前言中的修辞工具，在形式上对齐学制框架，实质上却利用主权壁垒保护地方主义与[[Academic Inbreeding|学术近亲繁殖]]。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]
+> > - **现实主义与制度批判学者（[[José Luis García Garrido|García Garrido]]）** 强调欧洲教育维度的实质不过是成员国各自主权的总和。布鲁塞尔在核心权能上面临严格宪制边界；而后发成员国往往将欧洲教育空间当作立法前言中的修辞工具，在形式上对齐学制框架，同时利用主权壁垒保护地方主义与[[Academic Inbreeding|学术近亲繁殖]]。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]
 
 ---
 
@@ -236,6 +247,7 @@ updated: 2026-10-25
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 系统综述揭示全球 PISA 政策影响实证研究中有 62.4% 集中在欧洲，运用欧洲教育空间概念解释数据治理基建的吸附效应。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 剖析欧洲教育空间的制造过程，批判性揭示伊拉斯谟计划与天普计划如何将学生流动道德化为欧洲公民资本。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 从成员国主权视角审视欧洲教育空间，指出欧盟教育事务本质是成员国总和，揭示西班牙在博洛尼亚对标表象下的学术近亲繁殖与制度脱节。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯全景敞视理论解构欧盟教育政策话语，阐明进取型政府间主义与开放协调法如何绕开硬法宪制限制，将欧洲教育空间打造成严密监视与横向对标的超国家规训场域。
 
 ---
 
