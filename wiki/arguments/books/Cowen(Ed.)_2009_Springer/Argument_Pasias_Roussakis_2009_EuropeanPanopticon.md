@@ -1,5 +1,5 @@
 ---
-summary: "基于福柯权力与知识理论批判解构 1992 至 2007 年欧盟教育与培训政策，揭示欧盟在宪制辅助性原则限制下，通过危机修辞将知识重塑为可消费商品，并依托开放协调法整合凝视、绩效与治理技术，构筑起超国家欧洲教育全景敞视建筑"
+summary: "基于福柯权力与知识理论批判解构 1992 至 2007 年欧盟教育与培训政策，揭示欧盟在宪制辅助性原则限制下，通过危机修辞将知识重塑为可消费商品，并依托开放协调法整合凝视、绩效与治理技术，构筑起超国家欧洲教育全景敞视体系"
 type: argument
 subtype: book-chapter
 publication_type: book-chapter
@@ -87,7 +87,7 @@ sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch30_Pasias_Roussakis_2009|Ch30_Pasias_Roussakis_2009]]"
 status: draft
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 ---
@@ -96,7 +96,7 @@ updated: 2026-10-27
 > 在《马斯特里赫特条约》确立的[[Subsidiarity Principle|辅助性原则]]严格禁止推行统一教育立法的宪制约束下，[[EU|欧洲联盟]]（European Union, EU）如何在 1992 至 2007 年间重构其教育与培训政策？超国家机构如何利用 [[Europe of Knowledge|知识欧洲]] 宏观[[Discourse|话语]]体系将教育深度绑定于全球经济竞争与资本积累，并通过[[Open Method of Coordination|开放协调法]]（Open Method of Coordination, OMC）、量化基准指标与多重监视技术，建立起覆盖欧洲教育领域的超国家[[Panopticism|全景敞视]]规训机制？（pp. 479–481）
 
 > [!claim] 核心主张
-> 自 1992 年《马斯特里赫特条约》以来，欧盟教育治理经历了政策确立、就业政策渗透到新千年开放协调的三阶段演化；[[European Commission|欧盟委员会]]通过动员全球化与科技竞争危机修辞，构筑了吸纳新自由主义信条的 [[Europe of Knowledge|知识欧洲]] 市场化话语，将知识降格为易耗且可替换的商业产品；在新千年进程中，各成员国放弃死守教育主权的消极防守，主动通过开放协调法参与设定共同指标并接受考核，欧盟依托凝视、绩效与治理等监视技术，最终在各国自愿合规的表象下建立起事实上的超国家欧洲教育全景敞视建筑。（pp. 480–481, 486–487, 490–493）
+> 自 1992 年《马斯特里赫特条约》以来，欧盟教育治理经历了政策确立、就业政策渗透到新千年开放协调的三阶段演化；[[European Commission|欧盟委员会]]通过动员全球化与科技竞争危机修辞，构筑了吸纳新自由主义信条的 [[Europe of Knowledge|知识欧洲]] 市场化话语，将知识降格为易耗且可替换的商业产品；在新千年进程中，各成员国放弃死守教育主权的消极防守，主动通过开放协调法参与设定共同指标并接受考核，欧盟依托凝视、绩效与治理等监视技术，最终在各国自愿合规的表象下建立起事实上的超国家欧洲教育全景敞视体系。（pp. 480–481, 486–487, 490–493）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1992 年《马斯特里赫特条约》至 2007 年间欧盟官方发布的政策白皮书、咨询绿皮书、欧洲理事会主席国结论、理事会工作规划与教育行动计划。
@@ -140,7 +140,7 @@ updated: 2026-10-27
 >     B --> C["双轨渗透：借就业战略与结构基金绕开主权"]
 >     C --> D["治理转型：成员国主动签约接受开放协调法"]
 >     D --> E["规训技术：凝视、绩效与治理三重监视机制"]
->     E --> F["制度结局：建立超国家欧洲教育全景敞视建筑"]
+>     E --> F["制度结局：建立超国家欧洲教育全景敞视体系"]
 > ```
 
 ---
@@ -212,7 +212,7 @@ updated: 2026-10-27
 > | **欧洲教育空间** | **三大基础维度** 知识、公民、就业<br>**四大核心领域** 创新、研究、教育、培训 |
 > | **欧洲知识社会与[[Knowledge-Based Economy\|知识经济]]** | **五大核心主线** <br>1. 发展终身学习与继续培训<br>2. 维系欧盟社会模式<br>3. 维系欧洲认同<br>4. 缩小社会差距<br>5. 提高可就业性<br>**教育与就业关系关键词** <br>创新、竞争力、合规（compliance）；可就业性、灵活性、适应性；质量、评估、认证；绩效（performativity）、有效性、可耗费性（expendability）；工具理性、技术官僚话语；合法性重构、科学合法化；自愿参与、合作、凝聚性 |
 > | **知识政治与[[Lisbon Strategy\|里斯本战略]]** | **未来战略目标** 质量、可及性、[[Open-Mindedness\|开放性]]，以终身学习进程为核心载体 |
-> | **教育全景敞视建筑** | **知识技术** 参与、代表、磋商、凝视（theasis）、相互学习、治理、管理、监测、评价、问责、控制、操演（performativity）、监视（surveillance）<br>**持续评价与监视机制** [[Open Method of Coordination\|开放协调法]]（OMC）、基准化（benchmarking）、监护规程（custody rules）、标准、指标、准则、刚性时间表、监测、相互学习、最佳实践交流、同行评审（peer review） |
+> | **全景敞视监控体系** | **知识技术** 参与、代表、磋商、凝视（theasis）、相互学习、治理、管理、监测、评价、问责、控制、操演（performativity）、监视（surveillance）<br>**持续评价与监视机制** [[Open Method of Coordination\|开放协调法]]（OMC）、基准化（benchmarking）、监护规程（custody rules）、标准、指标、准则、刚性时间表、监测、相互学习、最佳实践交流、同行评审（peer review） |
 
 > [!proc] 1999 年滚动议程决议的制度过渡
 > 1. **行政弊病确诊** 传统行动计划的科层繁琐与官僚膨胀遭到广泛批评，且辅助性原则禁止欧委会强推一体化法令。（p. 486）
@@ -286,9 +286,9 @@ updated: 2026-10-27
 > *The Community should set firmly and clearly the essential requirements and the long-term objectives for measures and policies in order to make it easier to develop a new model for growth, competitiveness and employment in which education and training play a key role and to ensure essential equality of opportunity and the coherent development of the three dimensions of the European system of education and training.* (European Commission, 1993a, p. 122; cited on p. 483)
 
 > [!citation-card] 开放协调法作为欧洲教育全景敞视的制度载体
-> 在此语境下，直接源自跨国企业绩效考评程序的开放协调法催生了对监视技术的制度需求，以此作为衡量既定目标达标进度的工具……由于标准、指标与基准线均由成员国共同拟定，考评程序亦由其参与制定，成员国便自然接受了外部机构对本国政策规划的介入。在此过程中，各成员国主动将监视与顺从机制植入了社会与教育政策的核心敏感地带……欧洲教育图景逐步被特定的真理体制与知识系统所主导，技术官僚理性被持续引入、再生产并赋予合法性，最终依托治理术与监视技术构建起一座现代欧洲教育全景敞视建筑。
+> 在此语境下，直接源自跨国企业绩效考评程序的开放协调法催生了对监视技术的制度需求，以此作为衡量既定目标达标进度的工具……由于标准、指标与基准线均由成员国共同拟定，考评程序亦由其参与制定，成员国便自然接受了外部机构对本国政策规划的介入。在此过程中，各成员国主动将监视与顺从机制植入了社会与教育政策的核心敏感地带……欧洲教育图景逐步被特定的真理体制与知识系统所主导，技术官僚理性被持续引入、再生产并赋予合法性，最终依托治理术与监视技术构建起现代欧洲教育全景敞视体系。
 >
-> *In this context, OMC, a process directly drawn from the evaluation procedures of multinational companies for education, [[CREATES Project|creates]] the need to produce 'technologies of surveillance' as tools for the measurement of progress towards certain defined objectives... Since the member states decide in common the criteria, the indicators and the benchmarks and formulate the evaluative processes, they accept external controls in policy planning. In doing so they incorporate mechanisms of surveillance and conformity in sensitive and critical sectors of social and educational policy... Thus the European educational landscape is gradually dominated by 'regimes of truth' and 'systems of knowledge', which introduce, reproduce and legitimise the technocratic rationale in order to establish a modern European Panopticon based on technologies of governmentality, surveillance and control.* (pp. 492–493)
+> *In this context, OMC, a process directly drawn from the evaluation procedures of multinational companies for education, creates the need to produce 'technologies of surveillance' as tools for the measurement of progress towards certain defined objectives... Since the member states decide in common the criteria, the indicators and the benchmarks and formulate the evaluative processes, they accept external controls in policy planning. In doing so they incorporate mechanisms of surveillance and conformity in sensitive and critical sectors of social and educational policy... Thus the European educational landscape is gradually dominated by 'regimes of truth' and 'systems of knowledge', which introduce, reproduce and legitimise the technocratic rationale in order to establish a modern European Panopticon based on technologies of governmentality, surveillance and control.* (pp. 492–493)
 
 ---
 

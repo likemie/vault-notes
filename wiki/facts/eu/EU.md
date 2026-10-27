@@ -158,7 +158,7 @@ updated: 2026-10-28
 > > 争论欧盟教育政策是切实尊重国家主权的自愿协作，还是超国家技术官僚侵蚀教育主权的特洛伊木马。
 > >
 > > - **欧盟委员会与一体化拥护者** 坚称辅助性原则得到了严格遵守，所有基准与最佳实践均属于非强制性指引，旨在帮助成员国应对全球数字化与技术竞争。
-> > - **主权防御学者与批判社会学家** 严正指出，“软治理”实质比强制法令更具穿透力，[[Open Method of Coordination|开放协调法]]通过数据监控与榜单对比施加同伴压力，迫使成员国在不知不觉中交出教育自主权。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 34–35)]]；帕西亚斯与鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）论证，开放协调法与量化基准线构成了精巧的“欧洲教育全景敞视建筑”，通过常设指标工作组的持续数据照射与同行排位，使成员国在无行政惩罚表象下主动将超国家经济指标内化为本国教育规划法则。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 492–493)]]
+> > - **主权防御学者与批判社会学家** 严正指出，“软治理”实质比强制法令更具穿透力，[[Open Method of Coordination|开放协调法]]通过数据监控与榜单对比施加同伴压力，迫使成员国在不知不觉中交出教育自主权。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 34–35)]]；帕西亚斯与鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）论证，开放协调法与量化基准线构成了精巧的“欧洲教育全景敞视监控网络”，通过常设指标工作组的持续数据照射与同行排位，使成员国在无行政惩罚表象下主动将超国家经济指标内化为本国教育规划法则。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 492–493)]]
 >
 > > [!axis] 新自由主义功能主义与民主赤字批评
 > > 批评者指出，欧盟教育议程过度受制于单一市场竞争与[[Knowledge-Based Economy|知识经济]]资本积累逻辑，将复杂的[[National Education|国民教育]]降格为服务于区域经济增长的技能供应链，架空了各成员国地方议会关于教育本质的民主审议。
@@ -181,4 +181,4 @@ updated: 2026-10-28
 > | [[Argument_Rambla_2022_Springer\|Rambla (2022)]] | 论证 | 剖析[[EU Skills Agenda\|欧盟技能议程]]与创新联盟如何通过绩效指标建构区域治理想象的实证文献。 |
 > | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 论证 | 追踪欧盟如何通过 ET 2020、EIPPEE [[Knowledge Mediation\|知识中介]]网络与 Eurydice 推动证据知情教育政策。 |
 > | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证 | 探讨欧洲教育空间中空间实践与学生流动的历史演变。 |
-> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | 论证 | 运用福柯理论解构欧盟开放协调法，揭示软法协调如何借助指标与基准构建欧洲教育全景敞视建筑。 |
+> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | 论证 | 运用福柯理论解构欧盟开放协调法，揭示软法协调如何借助指标与基准构建欧洲教育全景敞视监控体系。 |

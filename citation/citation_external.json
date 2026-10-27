@@ -7037,7 +7037,6 @@
     "Eugene Belisle (1944)": "Eugene Belisle, 1944",
     "Eugene Belisle, 1944": "Eugene Belisle, 1944",
     "European Commission (1993)": "European Commission, 1993",
-    "European Commission (2003)": "European Commission, 2003",
     "European Commission (2007)": "European Commission, 2007",
     "European Commission (2010)": "European Commission, 2010",
     "European Commission (2016)": "European Commission, 2016",
@@ -7045,8 +7044,6 @@
     "European Commission (2021)": "European Commission, 2021",
     "European Commission, 1993": "European Commission, 1993",
     "European Commission, 1993a": "European Commission, 1993",
-    "European Commission, 2003": "European Commission, 2003",
-    "European Commission, 2003a": "European Commission, 2003",
     "European Commission, 2007": "European Commission, 2007",
     "European Commission, 2010": "European Commission, 2010",
     "European Commission, 2016": "European Commission, 2016",
@@ -78019,21 +78016,6 @@
       "doi": "",
       "identity_keys": [
         "European Commission, 1993a"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
-      ],
-      "title": ""
-    },
-    "European Commission, 2003": {
-      "aliases": [
-        "European Commission, 2003",
-        "European Commission (2003)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "European Commission, 2003a"
       ],
       "isbn": "",
       "seen_in": [
