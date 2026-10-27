@@ -23692,7 +23692,8 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callo
    v2 显式作用域，保留旧版项目卡片与 Toolkit 因素样式。
    表头直接使用 Markdown 中文文字，数字按列对齐；明细表可横向滚动。 */
 body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] {
-  --callout-color: 59, 91, 169;
+  --eef-accent: 59, 91, 169;
+  --callout-color: var(--eef-accent);
   --eef-line: var(--ac-hair, var(--background-modifier-border));
   --eef-muted: var(--ac-muted, var(--text-muted));
   padding: 1.25rem 1.35rem !important;
@@ -23751,8 +23752,8 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
   background: transparent !important;
   box-shadow: none !important;
 }
-body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content :is(table, table:has(th:nth-child(6))) th,
-body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout] > .callout-content :is(table, table:has(th:nth-child(6))) th {
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content :is(table, table:has(th:nth-child(6))) th:nth-child(n),
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout] > .callout-content :is(table, table:has(th:nth-child(6))) th:nth-child(n) {
   font-size: .69rem !important;
   font-weight: 500 !important;
   color: var(--eef-muted) !important;
@@ -23770,13 +23771,13 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > table {
   table-layout: fixed !important;
 }
-body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > table td {
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > :is(table, table:has(th:nth-child(6))) td:nth-child(n) {
   font-size: 1rem !important;
   font-weight: 600 !important;
   padding-top: .65rem !important;
   padding-bottom: .85rem !important;
 }
-body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > table td:first-child {
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > :is(table, table:has(th:nth-child(6))) td:nth-child(n):first-child {
   color: rgb(var(--callout-color)) !important;
   font-size: 1.4rem !important;
   line-height: 1.2 !important;
@@ -23793,7 +23794,7 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 }
 /* 子区保留因素样式的折叠方式，标题与表格密度一致。 */
 body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout] {
-  --callout-color: 59, 91, 169;
+  --callout-color: var(--eef-accent);
   border: 1px solid var(--eef-line) !important;
   border-radius: 3px !important;
   background: var(--background-primary) !important;
@@ -23849,10 +23850,35 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
     padding-left: .3rem !important;
     padding-right: .3rem !important;
   }
-  body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > table td {
+  body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > :is(table, table:has(th:nth-child(6))) td:nth-child(n) {
     font-size: .82rem !important;
   }
-  body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > table td:first-child {
+  body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > :is(table, table:has(th:nth-child(6))) td:nth-child(n):first-child {
     font-size: 1.1rem !important;
   }
+}
+body.theme-dark .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] {
+  --eef-accent: 157, 185, 255;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > p strong {
+  background: none !important;
+  padding: 0 !important;
+  color: var(--text-normal) !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-errata"] > .callout-content > ul {
+  margin: .6rem 0 0 !important;
+  padding: 0 0 0 1.2rem !important;
+  list-style: disc !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-errata"] > .callout-content > ul > li {
+  font-size: .8rem !important;
+  line-height: 1.65 !important;
+  padding: .25rem 0 !important;
+  margin: 0 !important;
+  color: var(--text-normal) !important;
+}
+/* 数据阅读保持稳定，避免通用入场动画令核验文字短暂不可读。 */
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"],
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] * {
+  animation: none !important;
 }

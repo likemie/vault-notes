@@ -315,6 +315,8 @@ EEF 数据存于 `datasets/eef/`（`eef.json` 由 `scripts/eef_sync.py import --
 - `[!eef*]` 块与 `[!metax*]` 块同样不参与补链、不写入 `related_*`，也不做写作审查；`vault_lint.py` 以 `EEF_STALE` 检查是否最新。
 - 外部文献：`eef_sync.py register-external` 把 EEF 与 MetaX 中尚未入库的研究登记到 `citation/external_identities.json`，有 DOI 写 DOI，否则写篇名，并以 `datasets`（如 `eef:feedback`、`metax:S0412`）注明来源；不改动已有行，同一作者同年的不同文献加年份字母，与库内 Argument 同作者同年时也加字母。入库为 Argument 后由 `citation_index.py` 自动移除。
 
+EEF 具名项目使用 `datasets/eef/programmes.json` 和 `template-fact-eef-programme.md`，归入 `Fact / program`。`eef_sync.py import-programmes --raw <JSON> --slug <项目键>` 仅刷新指定项目并保留其他项目；`entries` 显式映射项目页，`render-programmes` 生成 `[!eef-programme|v2]` 及内嵌的试验、分组结果与核验说明。基础索引和 EEF 门禁维护已映射模块，不自动新建项目条目。成本保留估算条件，样本逐试验列出，结果评级逐行保留；表头与 CSS contract 见 `wiki/templates/CALLOUTS.md`。
+
 ### tags
 
 - tags 全部英文、小写连字符。

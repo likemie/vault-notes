@@ -23,6 +23,21 @@
             }
           },
           {
+            "id": "b202955323b415b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/上海市普陀区民政局关于印发《普陀区老龄事业发展“十五五”规划》的通知-上海普陀.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "上海市普陀区民政局关于印发《普陀区老龄事业发展“十五五”规划》的通知-上海普陀"
+            }
+          },
+          {
             "id": "aac4f372d06fab2a",
             "type": "leaf",
             "state": {
@@ -67,7 +82,8 @@
               "title": "template-eef"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,26 +288,31 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bd88d0cdfde06150",
+  "active": "b202955323b415b3",
   "lastOpenFiles": [
+    "output/eef-programme-preview/dark.html",
+    "output/eef-programme-preview/light.html",
+    "tests/test_eef_programme.py",
+    "Clippings/关于印发《徐汇区老龄事业和养老服务发展“十五五”规划》的通知.md",
+    "Clippings/上海市普陀区民政局关于印发《普陀区老龄事业发展“十五五”规划》的通知-上海普陀.md",
+    "output/eef-programme-preview/preview.py",
+    "output/eef-programme-preview",
+    "raw/The Science of Science -- Wang, Dashun, Barabási, Albert-László -- 1, 2021-01-31 -- Cambridge University Press (Virtual Publishing) -- isbn13 9781108492669 -- 644081ccec9c998841bb8328176946c2 -- Anna’s Archive.pdf",
+    "Clippings/上海市统一政策发布平台_上海市人民政府.md",
+    "wiki/facts/uk/1stClass@Number 1.md",
+    "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
     "Clippings/海丰县附城镇 - 工作动态.md",
     "wiki/facts/global/PISA.md",
     "wiki/templates/template-fact-eef-programme.md",
-    "wiki/facts/uk/1stClass@Number 1.md",
     "output/汕尾/~$未命名.docx",
     "output/汕尾/未命名.docx",
     "output/汕尾/十四五规划.txt",
     "output/汕尾/magnet_links_2026-10-27.txt",
     "output/汕尾",
-    "output/未命名文件夹/magnet_links_2026-10-27.txt.sb-94ea79de-1In6I1",
-    "output/未命名文件夹/magnet_links_2026-10-27.txt",
-    "output/未命名文件夹",
     "output/eef-programme-design/03-example-1stclass-number-1.md",
     "output/eef-programme-design/02-card-template.md",
     "output/eef-programme-design/01-entry-template.md",
     "output/eef-programme-design/00-design.md",
-    "output/eef-programme-design",
-    "raw/EEF/EEF_promising_programmes_full .json",
     "wiki/concepts/sociology-of-education/Commensuration.md",
     "output/可见的学习课题和案例/_to_delete/xkm.png",
     "output/可见的学习课题和案例/_to_delete/xk-114.png",
@@ -314,11 +335,6 @@
     "wiki/arguments/journal-articles/Chinese Education & Society/Argument_Wang_Liang_Chen_2025_CES.md",
     "datasets/metax/reports/MetaX 映射审核.md",
     "wiki/concepts/educational-policy-reform/Industry-Education Integration Community.md",
-    "wiki/facts/china/China-ASEAN Education Cooperation Week.md",
-    "wiki/facts/china/Luban Workshop.md",
-    "wiki/concepts/political-economy-geopolitics/Educational Diplomacy.md",
-    "output/related-updates/Argument_Xie_Li_Huang_2021_GEO-0ffc334d/batch-021/prompt.md",
-    "output/related-updates/Argument_Xie_Li_Huang_2021_GEO-0ffc334d/batch-020/prompt.md",
-    "output/related-updates/Argument_Xie_Li_Huang_2021_GEO-0ffc334d/batch-019/prompt.md"
+    "wiki/facts/china/China-ASEAN Education Cooperation Week.md"
   ]
 }
