@@ -55,6 +55,33 @@
         }
       ]
     },
+    "Wang & Barabási, 2021": {
+      "aliases": [
+        "Wang & Barabási, 2021",
+        "Wang and Barabási (2021)"
+      ],
+      "argument": "Argument_Wang_Barabasi_2021_Cambridge",
+      "external": [
+        {
+          "apa": "Wang et al. (2021)",
+          "authors": "Wang, Sibaii, Lee, Gill, & Hatch",
+          "id": "S0168",
+          "source": "metax",
+          "status": "collision",
+          "title": "Meta-analytic findings on lower reading skills in children with cochlear implants",
+          "year": "2021"
+        },
+        {
+          "apa": "Wang (2021)",
+          "authors": "Wang",
+          "id": "S2310",
+          "source": "metax",
+          "status": "collision",
+          "title": "Technology integration in education: Policy, plans, teacher practices, and student outcomes",
+          "year": "2021"
+        }
+      ]
+    },
     "Xu, 2024": {
       "aliases": [
         "Xu, 2024",

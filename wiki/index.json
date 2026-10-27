@@ -992,6 +992,16 @@
     ]
   },
   {
+    "title": "Global Testing Culture",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Global Testing Culture.md",
+    "aliases": [
+      "全球考试文化",
+      "全球测验文化",
+      "跨国标准化测评文化"
+    ]
+  },
+  {
     "title": "Global-Local Binary",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Global-Local Binary.md",
@@ -33713,6 +33723,20 @@
     "subtype": "event"
   },
   {
+    "title": "PISA Response in France",
+    "type": "fact",
+    "path": "wiki/facts/france/PISA Response in France.md",
+    "aliases": [
+      "法国对PISA的政策回应",
+      "法国PISA应对",
+      "法国对国际学生评估项目的政策反应",
+      "PISA in France",
+      "French PISA Response",
+      "PISA-Reaktion in Frankreich"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Revue encyclopédique",
     "type": "fact",
     "path": "wiki/facts/france/Revue encyclopédique.md",
@@ -36019,6 +36043,19 @@
     "subtype": "policy"
   },
   {
+    "title": "PISA Response in Hungary",
+    "type": "fact",
+    "path": "wiki/facts/hungary/PISA Response in Hungary.md",
+    "aliases": [
+      "匈牙利对PISA的政策回应",
+      "匈牙利PISA应对",
+      "匈牙利国际学生评估项目应对",
+      "PISA in Hungary",
+      "Hungarian PISA Response"
+    ],
+    "subtype": "event"
+  },
+  {
     "title": "Hungarian Researcher Teacher Scheme",
     "type": "fact",
     "path": "wiki/facts/hungary/Hungarian Researcher Teacher Scheme.md",
@@ -36420,6 +36457,18 @@
       "National Union of Education Workers"
     ],
     "subtype": "organization"
+  },
+  {
+    "title": "Alianza por la Calidad de la Educación",
+    "type": "fact",
+    "path": "wiki/facts/mexico/Alianza por la Calidad de la Educación.md",
+    "aliases": [
+      "墨西哥教育质量联盟",
+      "教育质量联盟",
+      "Alliance for Quality Education",
+      "Alliance for Educational Quality (Mexico)"
+    ],
+    "subtype": "policy"
   },
   {
     "title": "Cram Schools",

@@ -11,7 +11,7 @@ subtype: organization
 region: "mexico"
 fact_region: "mexico"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Alianza por la Calidad de la Educación]]"
   - "[[World Bank]]"
   - "[[INEA]]"
   - "[[PISA]]"
@@ -104,7 +105,7 @@ updated: 2026-10-27
 > [!finding-cards] 关键成效与辐射影响
 > - **劳工福利底线保障** 确保了公立教师群体在历次宏观经济危机中免受剧烈降薪与大规模裁员冲击。
 > - **维系国家政权稳定** 充当了执政党在基层乡村与城市社区最广泛的社会动员中介。
-> - **阻碍基于绩效的现代化转型** 对编制买卖与岗位世袭的垄断严重阻碍了优胜劣汰的教师评价机制，促使政府最终利用 PISA 外部危机打破其排他性垄断。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 64, 69–70)]]
+> - **阻碍基于绩效的现代化转型** 对编制买卖与岗位世袭的垄断严重阻碍了优胜劣汰的教师评价机制，促使政府最终利用 PISA 外部危机联合工会签署《[[Alianza por la Calidad de la Educación|教育质量联盟]]》，打破其排他性垄断。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 64, 69–70)]]
 
 > [!stat-cards]- 核心规模数据
 > 160+ 万公立在编教职工会员，覆盖墨西哥全境 31 个州与联邦区，掌握数千个基层学校工会分会。

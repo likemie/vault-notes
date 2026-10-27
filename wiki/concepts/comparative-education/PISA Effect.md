@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育政策社会学中的核心分析构念，指经合组织国际学生评估项目（PISA）对主权国家教育体系产生的深层制度化重组与长效治理效应；区别于短期的急性 PISA 震荡危机，该构念阐明 PISA 作为多标度政策工具如何通过跨国等价空间构建、数目化治理常态化以及产出导向标准化改革，驱动全球教育政策在表层话语趋同与深层制度同构"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
