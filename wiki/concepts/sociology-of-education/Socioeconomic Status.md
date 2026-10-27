@@ -69,11 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-25
----
-
-（社会经济地位）
-
+updated: 2026-10-28
 ---
 
 > [!def] Socioeconomic Status

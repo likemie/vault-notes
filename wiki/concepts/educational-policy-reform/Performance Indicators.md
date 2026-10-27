@@ -104,6 +104,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
+  - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
 confidence: high
 status: active
 created: 2026-05-01
@@ -201,6 +202,9 @@ updated: 2026-10-26
 > [!claim] [[Argument_Rambla_2022_Springer|Rambla (2022)]]
 > **技术—权力双重属性与结构性选择** 绩效指标是将多元异质数据折算为单一尺度的社会建构工程，具有鲜明的权力规制特征。借鉴勒加莱斯（Patrick Le Galès, 2016）与杰索普（[[Bob Jessop]]）的国家理论，兰布拉指出指标的选择、赋权与发布是行动者网络中博弈协商的结果；指标通过决定度量什么和忽视什么执行结构性选择（[[Selectivity]]），在提供技术参考的同时反向规训着系统内部的资源流动与竞争格局。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 165)]]
 
+> [!claim] [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]]
+> **指标与宏观财政工具挂钩强化规制效力** 奈夫卡·亚历克夏杜与哈维尔·兰布拉在分析欧洲教育区（EEA 2030）指标演化时指出，绩效指标的权力规制成分不仅体现为话语性声誉压力，更取决于其与宏观资源分配工具的实质性联动。欧洲教育区在基础技能、早期离校与高教普及率上保持了二十年的指标监控连续性；当这些教育绩效指标被挂钩至欧洲学期（European Semester）的国别建议并连通欧洲社会基金（ESF+）资助时，原先缺乏约束力的软法指标获得了宏观经济与财政激励支撑，重塑了成员国的政策优先级。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857, 863–864)]]
+
 ---
 
 ### 命题二　指标具有强烈的反身履行性诱发系统性表演与应试异化
@@ -277,6 +281,7 @@ updated: 2026-10-26
 > - **2010s — 区域记分牌与多边排他性同盟分化** 欧盟推广区域创新记分牌（[[Regional Innovation System|RIS]]）；世界银行开发“[[Systems Approach for Better Education Results|改善教育成果系统分析法]]”（[[Systems Approach for Better Education Results|SABER]]），各多边机构形成自成体系的指标数据库并建立政策同盟。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 169–170)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 545–546)]]
 > - **2010s — 规制指标分层演进与控制网底深化** 国家测试问责体制在既有全员统考之上，通过层叠增设 6 岁语音拼读筛查与英国学士学位（EBacc）等细分绩效指标，对基层学校课程教学实施纵深规制。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 253, 256–257)]]
 > - **2012–2014 — 多源测评汇聚与 SABER 四级成熟度量规体系** 迈克·扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017, pp. 7–8]]）揭示，世界银行通过[[EdStats|教育统计查询系统]]（EdStats）将高收入国家测验（PISA、[[TIMSS]]）与全球南方区域测评（[[SACMEQ]]、[[PASEC]]、[[LLECE]]）合并，建立涵盖 242 个国家和地区的 3,261 项比较指标库；同时依托 SABER 将 13 个政策领域[[Operationalization|操作化]]为四级成熟度量规，构筑起全球教育指标的集中化管理中枢。
+> - **2021–2023 — 欧洲教育区量化基准与财政资金挂钩** 欧盟委员会发布《欧洲教育区 2030 战略框架》，在保持早期离校与基础技能量化指标连续性的同时，将指标监控接入欧洲学期国别建议并挂钩欧洲社会基金（ESF+），强化软法指标的财政硬约束。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855–857, 863–864)]]
 
 ---
 
@@ -332,3 +337,4 @@ updated: 2026-10-26
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 剖析欧洲教育空间中指标治理的生产网络，实证揭示欧盟里斯本战略指标体系有 50%–60% 的数据直接采购自经合组织，呈现跨机构数据基础设施依附。
 > - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 系统梳理英格兰等国测试问责政策演进，实证揭示国家通过层叠引入语音拼读筛查与 EBacc 等专门绩效指标收紧学校规制网底的制度过程。
 > - [[Argument_Zapp_2017_IJED|Zapp (2017)]] — 实证揭示世界银行通过 EdStats 整合 242 个国家和地区的 3,261 项教育指标，并以 SABER 四级量规确立全球指标垄断。（pp. 7–8）
+> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 分析欧洲教育区 2030 治理框架，揭示软法绩效指标如何通过挂钩欧洲学期国别建议与欧洲社会基金资助，获得实质性财政与行政规制效力。
