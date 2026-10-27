@@ -612,6 +612,7 @@ def cmd_register_external(args) -> int:
 PROG_JSON = DATA_DIR / "programmes.json"
 PROG_TEMPLATE = ROOT / "wiki/templates/template-fact-eef-programme.md"
 PROG_ZH = {
+    "the-visible-classroom-2015": "以课堂语音转写和个性化反馈支持小学教师发展的项目。",
     "1stclass-number-1": "为二年级数学困难学生设计的 10 周小组数学干预。",
     "concept-cat": "面向全班的早期语言概念教学方法。",
     "counting-collections": "面向学前班全班的早期数感项目，练习点数、目测数量、比较与组合。",
@@ -751,7 +752,7 @@ def cmd_import_programmes(args) -> int:
     for k, v in progs.items():
         v["entries"] = old.get("programmes", {}).get(k, {}).get("entries", [])
         # Human-reviewed translations and result-specific qualifications survive refreshes.
-        for key in ("cost_note", "review_notes", "developer", "delivery_organisation", "delivery_schedule", "training_support", "cost_unit"):
+        for key in ("cost_note", "review_notes", "developer", "delivery_organisation", "delivery_schedule", "training_support", "cost_unit", "is_promising", "source_file", "overview_source"):
             if key in old.get("programmes", {}).get(k, {}):
                 v[key] = old["programmes"][k][key]
         previous = {(t["url"], o.get("outcome_group")): o
@@ -926,7 +927,8 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
     if p.get("cost_per_pupil") is not None:
         cost += f"<br><small>£{p['cost_per_pupil']:g}{esc(p.get('cost_unit') or '/生/年')}</small>"
     stage = EVIDENCE_TYPE_ZH.get(p.get("evidence_type"), p.get("evidence_type") or "未提供")
-    lines = [f"> [!eef-programme|v3] [{esc(p['name'])}]({p['url']})",
+    metadata = "evaluation" if p.get("is_promising") is False else "v3"
+    lines = [f"> [!eef-programme|{metadata}] [{esc(p['name'])}]({p['url']})",
              f"> {PROG_ZH.get(slug, p.get('description') or '')}", ">",
              "> | imp | stage | sec | cost |", "> | --- | --- | --- | --- |",
              f"> | {esc(impact)} | {esc(stage)} | {_dots(p.get('security_rating'), p.get('security_total'))} | {cost} |"]
@@ -940,7 +942,7 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
     for trial in p.get("trials", []):
         r = trial.get("record", {})
         label = esc(r.get("label_zh") or trial["label"])
-        phase = "推广" if trial.get("kind") == "scale_up" else EVIDENCE_TYPE_ZH.get(trial.get("type"), trial.get("type") or "阶段未提供")
+        phase = "推广" if trial.get("kind") == "scale_up" else EVIDENCE_TYPE_ZH.get(trial.get("type"), trial.get("type") or PENDING)
         summary = [phase]
         if trial.get("completed"):
             summary.append(f"完成 {trial['completed']}")
@@ -959,8 +961,10 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
             when.append("试验 " + study)
         iv = programme_date_range(r, "intervention")
         when.append("干预 " + iv + (f"，共 {r['intervention_weeks']} 周" if r.get("intervention_weeks") is not None else ""))
+        if r.get("intervention_period_note"):
+            when.append("实施学期 " + pend(r["intervention_period_note"]))
         rows.append(("时间", "；".join(when)))
-        evaluator = esc(r.get("evaluator_zh") or trial.get("evaluator") or "未提供")
+        evaluator = pend(r.get("evaluator_zh") or trial.get("evaluator") or "待核实")
         if r.get("evaluator_url"):
             evaluator = f"[{evaluator}]({r['evaluator_url']})"
         rows.append(("评估", evaluator + (f"；{pend(r['design_note'])}" if r.get("design_note") else "")))
@@ -984,7 +988,7 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
         if trial.get("cost_rating") is not None or trial.get("cost_status") in ("not_rated", "not_provided"):
             money.append("成本评级 " + _cost_rating(trial.get("cost_rating"), trial.get("cost_total"), trial.get("cost_status") or "ok"))
         if trial.get("grant"):
-            money.append(f"研究拨款 {esc(trial['grant'])}")
+            money.append(f"研究拨款 {PENDING if trial['grant'] in ('TBC', 'TBD') else esc(trial['grant'])}")
         if r.get("cost_per_pupil_year") is not None:
             c = f"交付 £{r['cost_per_pupil_year']:g}/生/年"
             if r.get("cost_amortisation_years") is not None:
@@ -996,6 +1000,8 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
             money.append(f"学校年均 £{r['school_cost_annual_average']:g}")
         if r.get("cost_exclusions"):
             money.append(esc(r["cost_exclusions"]))
+        if r.get("cost_note"):
+            money.append(pend(r["cost_note"]))
         if money:
             rows.append(("经费", "；".join(money)))
         docs = []

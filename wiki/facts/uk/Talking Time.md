@@ -66,7 +66,7 @@ updated: 2026-10-28
 > | 培训支持 | 全员参加三次课后研修；负责人另获四次到班指导、三次在线指导和每周个人反思支持。 |
 > | 成本口径 | 园所平均成本约 £3,505，每名儿童年成本按三年平均，含每园二十小时培训时间。 现行价格<span class="eef-pending">待核实</span>。 |
 >
-> > [!eef-trial]- [试验](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/talking-time-2023-24-trial) · 阶段未提供 · 2,600 名学生 · +1 个月
+> > [!eef-trial]- [试验](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/talking-time-2023-24-trial) · <span class="eef-pending">待核实</span> · 2,600 名学生 · +1 个月
 > > | k | v |
 > > | --- | --- |
 > > | 时间 | 试验 <span class="eef-pending">待核实</span>；干预 <span class="eef-pending">待核实</span> |

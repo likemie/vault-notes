@@ -105,7 +105,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-26
+updated: 2026-10-28
 ---
 
 ---
@@ -225,6 +225,7 @@ updated: 2026-10-26
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 系统比对欧盟委员会公报、工作人员工作文件与欧盟理事会决议等战略政策文本，对比里斯本目标、ET2020 与欧洲教育区指标体系的历史演进与话语流变。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 运用政策法规与课程大纲文献分析，梳理阿根廷与巴西 1990 年代国家教育法、联邦课程指南及商业教辅目录，结合访谈揭示官方修辞与学校微观实践的剧烈脱节。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|Cohen et al. (2011, Ch. 12)]] — 系统介绍了文献分析方法的核心程序、三种理论传统、伦理与法律议题，并提供了教育研究中文献分析的多个案例。
 > - [[Argument_Hughes_2014_JRIE|Hughes (2014, pp. 35–41)]] — 以 2013 年 ToK 课程指南为材料，将课程目标、评估目标和最高等级评分描述符中的命令词与多套[[Critical Thinking|批判性思维]]分类框架进行质性对齐，以判断课程[[Internal Consistency|内部一致性]]及其[[Construct Validity|构念效度]]。

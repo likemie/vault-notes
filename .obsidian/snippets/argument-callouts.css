@@ -23719,3 +23719,8 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .cal
 /* 待核实标记：正文与卡片一致 */
 body .markdown-rendered .eef-pending, body .callout.callout.callout[data-callout][data-callout="eef-programme"] .eef-pending { color: #b42318 !important; font-weight: 600 !important; }
 body.theme-dark .markdown-rendered .eef-pending, body.theme-dark .callout.callout.callout[data-callout][data-callout="eef-programme"] .eef-pending { color: #ff9b94 !important; }
+
+/* 非有望清单项目仍采用相同评估布局，单独标识项目性质。 */
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="evaluation"] > .callout-title .callout-title-inner::before {
+  content: "EEF Project Evaluation" !important;
+}

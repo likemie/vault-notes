@@ -70,7 +70,7 @@ updated: 2026-10-28
 > > | k | v |
 > > | --- | --- |
 > > | 时间 | 试验 <span class="eef-pending">待核实</span>；干预 <span class="eef-pending">待核实</span> |
-> > | 评估 | 兰德研究机构（RAND Corporation）与约克大学（University of York） |
+> > | 评估 | 兰德研究机构与约克大学（University of York） |
 > > | 样本 | 页面学校数 90 所 |
 > > | 经费 | 成本评级 <span class="eef-cost">●○○○○ 极低</span>；研究拨款 £103,005 |
 > > | 资料 | [评估报告（更新版）](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/concept-cat_evaluation-report_v.1.2.0.pdf?v=1793033712) · [评估报告](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/concept_cat_evaluation_report_v.1.0.0.pdf?v=1793033712) · [研究方案](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/concept_cat_-_evaluation_protocol.pdf?v=1793033712) · [统计分析计划](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/concept_cat_-_statisitcal_analysis_plan_-_sap.pdf?v=1793033712) · [附录](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/concept_cat_appendices_v.1.0.0.pdf?v=1793033712) |

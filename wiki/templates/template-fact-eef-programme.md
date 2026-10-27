@@ -25,6 +25,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 [!eef-programme|v3] 卡片由 eef_sync.py render-programmes 按 datasets/eef/programmes.json 的 entries 生成，不手写；
 它取代 Program 模板的 [!indicators] 与 [!stat-cards]。卡片已列出的数字（影响、证据强度、成本、样本、剂量、培训、试验日期、开发机构、实施主体）正文不重复，只作解释并注明出处。
 正文每项事实链接对应 Argument，或注明 EEF 网页及具体页面；网页数据只支持网页实际报告的内容，未读报告时不补写研究设计或因果解释。
+学科和实施方式写入英文 tags，卡片不重复列标签。
 缩写首次出现写中文（英文全称，缩写）。缺材料的段落整段删除，不填造争议或发展节点。
 缺失日期写 <span class="eef-pending">待核实</span>；按周期倒推的起点须注明推算依据。 %%
 

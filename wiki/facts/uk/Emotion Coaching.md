@@ -66,7 +66,7 @@ updated: 2026-10-28
 > | 培训支持 | 两天在线培训，随后每隔两周参加一次两小时工作坊，共三次。 |
 > | 成本口径 | 园所平均成本约 £418.30，每名儿童年成本按三年平均。 现行价格<span class="eef-pending">待核实</span>。 |
 >
-> > [!eef-trial]- [试验](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/emotion-coaching-2024-25-trial) · 阶段未提供 · 3,200 名学生
+> > [!eef-trial]- [试验](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/emotion-coaching-2024-25-trial) · <span class="eef-pending">待核实</span> · 3,200 名学生
 > > | k | v |
 > > | --- | --- |
 > > | 时间 | 试验 <span class="eef-pending">待核实</span>；干预 <span class="eef-pending">待核实</span> |

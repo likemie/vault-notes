@@ -83,10 +83,11 @@ class ProgrammeTests(unittest.TestCase):
 
     def test_all_programmes_mapped_without_losing_source_outcomes(self):
         data = eef.load_json(ROOT / 'datasets/eef/programmes.json')['programmes']
-        self.assertEqual(len(data), 23)
+        self.assertEqual(len(data), 24)
         self.assertTrue(all(p['entries'] for p in data.values()))
         raw = eef.load_json(ROOT / 'raw/EEF/EEF_promising_programmes_full .json')
-        source = {(t['url'], o['outcome_group']): o for t in raw['trials'] for o in t.get('trial_outcomes', [])}
+        supplement = eef.load_json(ROOT / 'raw/EEF/EEF_promising_programmes_补充.json')
+        source = {(t['url'], o['outcome_group']): o for t in raw['trials'] + supplement['trials'] for o in t.get('trial_outcomes', [])}
         actual = {(t['url'], o['outcome_group']): o for p in data.values() for t in p['trials'] for o in t.get('outcomes', [])}
         self.assertEqual(set(source), set(actual))
         for key, original in source.items():
@@ -95,6 +96,22 @@ class ProgrammeTests(unittest.TestCase):
         p = data['tutor-trust-primary']
         self.assertIn('£112/生/干预周期', eef.render_programme('tutor-trust-primary', p, [], {}))
         self.assertIn('小幅正向影响', eef.render_programme('emotion-coaching', data['emotion-coaching'], [], {}))
+
+    def test_visible_classroom_is_evaluation_with_negative_and_zero_results(self):
+        data = eef.load_json(ROOT / 'datasets/eef/programmes.json')['programmes']
+        p = data['the-visible-classroom-2015']
+        self.assertIs(p['is_promising'], False)
+        result = eef.render_programme('the-visible-classroom-2015', p, [], {})
+        self.assertIn('[!eef-programme|evaluation]', result)
+        self.assertNotIn('[!eef-programme|v3]', result)
+        pilot, trial = result.split('[!eef-errata]')[0].split('[!eef-trial]-')[1:]
+        self.assertIn('2013—2014 学年内的两个学期', pilot)
+        self.assertIn('£367/生/年', pilot)
+        self.assertNotIn('| out |', pilot)
+        self.assertEqual(trial.count('| -1 | 未提供 |'), 2)
+        self.assertEqual(trial.count('| 0 | 未提供 | 不适用 |'), 2)
+        self.assertNotIn('研究拨款 TBC', result)
+        self.assertIn('研究拨款 ' + eef.PENDING, result)
 
     def test_project_period_supports_years_or_months_without_observed_dates(self):
         self.assertIn('2012-01 至 2014-01', eef.programme_project_period({'page_project_duration': '2 year(s)', 'completed': '2014-01'}))

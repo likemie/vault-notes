@@ -66,7 +66,7 @@ updated: 2026-10-28
 > | 培训支持 | 评估版本提供一至两天启动培训、两次到校发展支持和三次跨校工作坊。 |
 > | 成本口径 | 评估版本中，七年级一学年的学校成本约 £7,460；未折算每生年金额。 现行价格<span class="eef-pending">待核实</span>。 |
 >
-> > [!eef-trial]- [关联小学数学试验](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/mathematics-mastery-primary) · 阶段未提供 · 完成 2014-01 · +2 个月
+> > [!eef-trial]- [关联小学数学试验](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/mathematics-mastery-primary) · <span class="eef-pending">待核实</span> · 完成 2014-01 · +2 个月
 > > | k | v |
 > > | --- | --- |
 > > | 时间 | 项目周期 2012-01 至 2014-01（2 年；起点按周期倒推，<span class="eef-pending">待核实</span>）；干预 <span class="eef-pending">待核实</span> |

@@ -85,7 +85,7 @@ updated: 2026-10-28
 > > | k | v |
 > > | --- | --- |
 > > | 时间 | 试验 <span class="eef-pending">待核实</span>；干预 <span class="eef-pending">待核实</span> |
-> > | 评估 | 兰德研究机构（RAND Corporation） |
+> > | 评估 | 兰德研究机构 |
 > > | 样本 | 页面学校数 224 所 |
 > > | 经费 | 成本评级 <span class="eef-cost">●○○○○ 极低</span>；研究拨款 £1,036,515 |
 > > | 资料 | [研究方案（修订版）](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/lexia_evaluation_protocol.pdf?v=1793022312) · [研究方案](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Evaluation-protocol-Lexia.pdf?v=1793022312) · [统计分析计划](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/lexia_statistical_analysis_plan.pdf?v=1793022312) · [评估报告](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/lexia_effectiveness-evaluation-report_v.1.0.0.pdf?v=1793022312) |

@@ -479,6 +479,18 @@
     ]
   },
   {
+    "title": "Aggressive Intergovernmentalism",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Aggressive Intergovernmentalism.md",
+    "aliases": [
+      "进攻性政府间主义",
+      "进取型政府间主义",
+      "emphatic intergovernmentalism",
+      "进取性政府间主义",
+      "激进政府间主义"
+    ]
+  },
+  {
     "title": "Aidland",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Aidland.md",
@@ -1644,6 +1656,17 @@
       "比较教育政策科学",
       "政策科学",
       "policy science"
+    ]
+  },
+  {
+    "title": "Politics of Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Politics of Knowledge.md",
+    "aliases": [
+      "知识政治",
+      "EU politics of knowledge",
+      "knowledge politics",
+      "欧洲知识政治"
     ]
   },
   {
@@ -20666,6 +20689,16 @@
     ]
   },
   {
+    "title": "Discursive Institutionalism",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Discursive Institutionalism.md",
+    "aliases": [
+      "话语制度主义",
+      "DI",
+      "discursive institutionalist approach"
+    ]
+  },
+  {
     "title": "Disjointed Pluralism",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Disjointed Pluralism.md",
@@ -33451,6 +33484,17 @@
     "subtype": "policy"
   },
   {
+    "title": "European Education Area",
+    "type": "fact",
+    "path": "wiki/facts/eu/European Education Area.md",
+    "aliases": [
+      "欧洲教育区",
+      "EEA",
+      "European Education Area 2025"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "European Employment Strategy",
     "type": "fact",
     "path": "wiki/facts/eu/European Employment Strategy.md",
@@ -39010,8 +39054,7 @@
     "type": "fact",
     "path": "wiki/facts/uk/Dialogic Teaching Programme.md",
     "aliases": [
-      "对话教学项目",
-      "Dialogic Teaching"
+      "对话教学项目"
     ],
     "subtype": "program"
   },
@@ -39509,6 +39552,15 @@
     "aliases": [
       "Tutor Trust 小学数学辅导项目",
       "Tutor Trust (primary)"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Visible Classroom Programme",
+    "type": "fact",
+    "path": "wiki/facts/uk/Visible Classroom Programme.md",
+    "aliases": [
+      "可见课堂项目"
     ],
     "subtype": "program"
   },
@@ -44178,6 +44230,11 @@
     "title": "Argument_Naeem_2026_Episteme",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Episteme/Argument_Naeem_2026_Episteme.md"
+  },
+  {
+    "title": "Argument_Alexiadou_Rambla_2023_EERJ",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md"
   },
   {
     "title": "Argument_Dedering_2009_EERJ",

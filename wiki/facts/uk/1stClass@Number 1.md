@@ -19,6 +19,8 @@ tags:
   - eef
   - eef-programme
   - maths-intervention
+  - maths
+  - targeted-approach
   - region/uk
 related_concepts:
   - "[[Small Group Tuition]]"

@@ -21,10 +21,12 @@
     "wiki/facts/uk/Stop and Think.md",
     "wiki/facts/uk/Success for All UK.md",
     "wiki/facts/uk/Talking Time.md",
-    "wiki/facts/uk/Tutor Trust Primary.md"
+    "wiki/facts/uk/Tutor Trust Primary.md",
+    "wiki/facts/uk/Visible Classroom Programme.md"
   ],
   "existing": [
     "wiki/facts/uk/1stClass@Number 1.md"
   ],
-  "source": "raw/EEF/EEF_promising_programmes_full .json"
+  "source": "raw/EEF/EEF_promising_programmes_full .json",
+  "supplementary_source": "raw/EEF/EEF_promising_programmes_补充.json"
 }

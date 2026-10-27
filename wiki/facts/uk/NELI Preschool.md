@@ -67,7 +67,7 @@ updated: 2026-10-28
 > | 培训支持 | 实施者完成约八至十小时在线课程，并获得言语和语言专业人员支持。 |
 > | 成本口径 | 园所平均成本约 £2,682.80，每生年成本按三年平均，包含在线培训的人员时间。 现行价格<span class="eef-pending">待核实</span>。 |
 >
-> > [!eef-trial]- [试验](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/neli-preschool-2023-24-trial) · 阶段未提供 · 4,452 名学生 · +2 个月
+> > [!eef-trial]- [试验](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/neli-preschool-2023-24-trial) · <span class="eef-pending">待核实</span> · 4,452 名学生 · +2 个月
 > > | k | v |
 > > | --- | --- |
 > > | 时间 | 试验 <span class="eef-pending">待核实</span>；干预 <span class="eef-pending">待核实</span> |

@@ -2810,6 +2810,12 @@
         "wiki/facts/eu/Horizon Europe.md"
       ]
     },
+    "Council of the European Union": {
+      "seen_in": [
+        "wiki/facts/eu/EU Key Competences for Lifelong Learning.md",
+        "wiki/facts/eu/European Education Area.md"
+      ]
+    },
     "Department for Science, Innovation and Technology": {
       "seen_in": [
         "wiki/facts/uk/Government Office for Science.md",
@@ -2929,11 +2935,6 @@
     "Conselho Nacional de Educação (CNE) / Ministério da Educação (MEC)": {
       "seen_in": [
         "wiki/facts/brazil/Brazilian Secondary Education Curriculum Reform 1998.md"
-      ]
-    },
-    "Council of the European Union": {
-      "seen_in": [
-        "wiki/facts/eu/EU Key Competences for Lifelong Learning.md"
       ]
     },
     "Department of Education and Training Victoria": {

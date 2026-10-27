@@ -1303,4 +1303,6 @@ updated: 2026-10-21
 
 表头只写代号，中文列名由 CSS `th::before` 提供。真实零值、不适用、未评级和未提供分别显示，评级不跨结果行继承。网页完成时间、页面项目周期与实际试验起止分别保存；授课日期、持续周数与课时频率分别保存。缺失日期显示红字“待核实”（`.eef-pending`）。周期和完成月份齐备时可倒推项目起点，但须注明推算依据及待核状态，不能填入实际试验或授课日期。卡片置于 Program 条目成效段首，紧接 `[!finding-cards]`；样板见 `template-fact-eef-programme.md`。
 
+补充评估项目使用 `[!eef-programme|evaluation]`，沿用同一布局，页眉标识为 EEF Project Evaluation；不标为有望项目。
+
 正式项目使用 `template-fact-eef-programme.md`，卡片由 `scripts/eef_sync.py render-programmes` 按 `datasets/eef/programmes.json` 的 `entries` 显式映射生成。基础索引和 EEF 只读门禁检查已映射模块的一致性。每次试验的 `record` 保存核对后的字段，源段落或指标改变时使旧记录失效；结果行的中文标签与显著性也绑定原始结果。

@@ -85,7 +85,7 @@ updated: 2026-10-28
 > > | k | v |
 > > | --- | --- |
 > > | 时间 | 项目周期 2017-06 至 2020-05（2 年 11 个月；起点按周期倒推，<span class="eef-pending">待核实</span>）；干预 <span class="eef-pending">待核实</span> |
-> > | 评估 | 兰德研究机构（RAND Corporation） |
+> > | 评估 | 兰德研究机构 |
 > > | 样本 | 页面学校数 193 所 |
 > > | 经费 | 成本评级 <span class="eef-cost">●○○○○ 极低</span>；研究拨款 £526,443 |
 > > | 资料 | [评估报告](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Nuffield_Early_Language_Intervention.pdf?v=1793035726) · [补充报告](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_NELI_addendum_report-final_OnWebsite.pdf?v=1793035726) · [研究方案](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/NELI_trial_protocol_FINAL.pdf?v=1793035726) · [统计分析计划](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/2019_NELI_SAP__v.10.pdf?v=1793035726) |
@@ -109,16 +109,16 @@ updated: 2026-10-28
 > > | LanguageScreen 标准化语言成绩 | ↳ 免费校餐资格学生 | +7 | 0.56 | 不适用 | 未报告 |
 > > | LanguageScreen 标准化语言成绩 | ↳ 英语为附加语言的学生 | +4 | 0.29 | 不适用 | 未报告 |
 >
-> > [!eef-trial]- [入学班项目汇总页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/nuffield-early-language-intervention-neli) · 阶段未提供 · 完成 2026-10
+> > [!eef-trial]- [入学班项目汇总页](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/nuffield-early-language-intervention-neli) · <span class="eef-pending">待核实</span> · 完成 2026-10
 > > | k | v |
 > > | --- | --- |
 > > | 时间 | 试验 <span class="eef-pending">待核实</span>；干预 <span class="eef-pending">待核实</span> |
-> > | 评估 | 兰德研究机构（RAND Corporation）、英国国家教育研究基金会（National Foundation for Educational Research，NFER）与英国财政研究所（The Institute for Fiscal Studies） |
+> > | 评估 | 兰德研究机构、英国国家教育研究基金会（National Foundation for Educational Research，NFER）与英国财政研究所（The Institute for Fiscal Studies） |
 > > | 样本 | 未提供 |
 > > | 经费 | 成本评级 未提供 |
 > > | 资料 | [纳菲尔德早期语言干预项目资料](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/NELI-wave-2-scale-up-impact-evaluation-report-FINAL.pdf?v=1793022699) |
 >
-> > [!eef-trial]- [关联学前项目试验](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/neli-preschool-2023-24-trial) · 阶段未提供 · 4,452 名学生 · +2 个月
+> > [!eef-trial]- [关联学前项目试验](https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/neli-preschool-2023-24-trial) · <span class="eef-pending">待核实</span> · 4,452 名学生 · +2 个月
 > > | k | v |
 > > | --- | --- |
 > > | 时间 | 试验 <span class="eef-pending">待核实</span>；干预 <span class="eef-pending">待核实</span> |

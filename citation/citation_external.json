@@ -3898,6 +3898,8 @@
     "Carson, 2012": "Carson, 2012",
     "Carspecken (1996)": "Carspecken, 1996",
     "Carspecken, 1996": "Carspecken, 1996",
+    "Carstensen & Schmidt (2016)": "Carstensen & Schmidt, 2016",
+    "Carstensen & Schmidt, 2016": "Carstensen & Schmidt, 2016",
     "Carstensen (1989)": "Carstensen, 1989",
     "Carstensen, 1989": "Carstensen, 1989",
     "Carter (1993)": "Carter, 1993",
@@ -7043,6 +7045,8 @@
     "European Commission (1993a)": "European Commission, 1993a",
     "European Commission (1993b)": "European Commission, 1993b",
     "European Commission (1995)": "European Commission, 1995",
+    "European Commission (1997a)": "European Commission, 1997a",
+    "European Commission (1997b)": "European Commission, 1997b",
     "European Commission (2007)": "European Commission, 2007",
     "European Commission (2010)": "European Commission, 2010",
     "European Commission (2016)": "European Commission, 2016",
@@ -7052,6 +7056,8 @@
     "European Commission, 1993b": "European Commission, 1993b",
     "European Commission, 1995": "European Commission, 1995",
     "European Commission, 1995b": "European Commission, 1995",
+    "European Commission, 1997a": "European Commission, 1997a",
+    "European Commission, 1997b": "European Commission, 1997b",
     "European Commission, 2007": "European Commission, 2007",
     "European Commission, 2010": "European Commission, 2010",
     "European Commission, 2016": "European Commission, 2016",
@@ -20609,6 +20615,7 @@
     "Schmidt & Houang, 2012": "Schmidt & Houang, 2012",
     "Schmidt & Oh (2013)": "Schmidt & Oh, 2013",
     "Schmidt & Oh, 2013": "Schmidt & Oh, 2013",
+    "Schmidt (2008)": "Schmidt, 2008",
     "Schmidt (2010)": "Schmidt, 2010",
     "Schmidt (2016a)": "Schmidt, 2016a",
     "Schmidt (2016b)": "Schmidt, 2016b",
@@ -20616,6 +20623,7 @@
     "Schmidt et al. (2009)": "Schmidt et al., 2009",
     "Schmidt et al., 1985": "Schmidt et al., 1985",
     "Schmidt et al., 2009": "Schmidt et al., 2009",
+    "Schmidt, 2008": "Schmidt, 2008",
     "Schmidt, 2010": "Schmidt, 2010",
     "Schmidt, 2016": "Schmidt, 2016a",
     "Schmidt, 2016a": "Schmidt, 2016b",
@@ -55289,6 +55297,21 @@
       ],
       "title": ""
     },
+    "Carstensen & Schmidt, 2016": {
+      "aliases": [
+        "Carstensen & Schmidt, 2016",
+        "Carstensen & Schmidt (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Carstensen & Schmidt, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Discursive Institutionalism.md"
+      ],
+      "title": ""
+    },
     "Carstensen, 1989": {
       "aliases": [
         "Carstensen, 1989",
@@ -78105,6 +78128,36 @@
         "wiki/facts/eu/Teaching and Learning - Towards the Learning Society.md"
       ],
       "title": "Teaching and learning: Towards the learning society"
+    },
+    "European Commission, 1997a": {
+      "aliases": [
+        "European Commission, 1997a",
+        "European Commission (1997a)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "European Commission, 1997a"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Politics of Knowledge.md"
+      ],
+      "title": "Action Program 2000 (Agenda 2000)"
+    },
+    "European Commission, 1997b": {
+      "aliases": [
+        "European Commission, 1997b",
+        "European Commission (1997b)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "European Commission, 1997b"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Politics of Knowledge.md"
+      ],
+      "title": "Towards the Europe of knowledge"
     },
     "European Commission, 2007": {
       "aliases": [
@@ -176510,6 +176563,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Constructivist, problem-based learning does work: A meta-analysis of curricular comparisons involving a single medical school"
+    },
+    "Schmidt, 2008": {
+      "aliases": [
+        "Schmidt, 2008",
+        "Schmidt (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Schmidt, 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/political-economy-geopolitics/Discursive Institutionalism.md"
+      ],
+      "title": ""
     },
     "Schmidt, 2010": {
       "aliases": [

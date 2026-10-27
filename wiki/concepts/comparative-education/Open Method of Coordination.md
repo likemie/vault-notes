@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 ---
@@ -130,7 +130,7 @@ updated: 2026-10-27
 > - **2002 — 教育领域全面展开** Nóvoa (2002) 系统解构[[EU|欧盟]]依托 OMC 三大机制跨越宪制主权边界、制作[[European Education Space|欧洲教育空间]]的微观过程。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 > - **2009 — 全景敞视监视技术解构** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] 运用福柯监视与规训理论解构 OMC，指出其整合凝视技术、绩效技术与治理技术，在超国家层面构筑起现代欧洲教育全景敞视。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 492–493)]]
 > - **2010 — 欧洲 2020 战略指标化** 欧盟确立包含[[Academic Attrition|早期离校]]率低于 10%、高等教育完成率达 40% 等五大约束性教育基准线，OMC 的量化刚度进一步攀升。
-> - **2020 年代 — [[Governing by Numbers|数字治理]]与欧洲教育区** OMC 深度嵌入“欧洲教育区（EEA 2025）”愿景，与[[OECD|经合组织]] [[PISA]] 数据相互咬合，构成超国家数字规训体系。
+> - **2020 年代 — [[Governing by Numbers|数字治理]]与欧洲教育区** OMC 深度嵌入“欧洲教育区（EEA 2025）”愿景，与[[OECD|经合组织]] [[PISA]] 数据相互咬合。虽然欧盟委员会试图设立常设平台与指导委员会以强化集中协调，但欧盟理事会 2021 年决议重申教育合作仍须严格依托既有 OMC 工具箱，维护成员国主权权威。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 861)]]
 
 ---
 
@@ -148,6 +148,7 @@ updated: 2026-10-27
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 追踪欧洲教育区（EEA）战略议程磋商中欧盟委员会赋能框架构想与欧盟理事会坚持依托 OMC 工具箱的制度博弈，揭示软性协调机制在超国家权力平衡中的韧性。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 剖析开放协调法作为监视与规训技术，如何通过凝视技术、绩效技术与治理技术在超国家尺度确立“欧洲教育全景敞视建筑”（pp. 480–481, 492–493）。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析[[EU|欧盟]]如何借助开放协调法的三大机制（最佳实践修辞、量化指标基准线与学位标准化）绕开[[Subsidiarity Principle|辅助性原则]]，渗透成员国教育政策。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 分析欧洲超国家治理如何通过非强制性政策协调网络，将[[Student Mobility|学生流动]]重塑为符合[[Knowledge-Based Economy|知识经济]]需要的欧洲公民美德。

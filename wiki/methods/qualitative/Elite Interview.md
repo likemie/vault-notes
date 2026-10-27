@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-26
+updated: 2026-10-28
 ---
 
 ---
@@ -157,6 +157,7 @@ updated: 2026-10-26
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 对欧盟委员会教育文化总司、委员会主席内阁与欧盟理事会 9 位高级官员开展深度半结构化访谈，通过归纳主题分析与话语解读追踪欧洲教育区战略议程中的理念协调与机构博弈。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 深度访谈 33 位国际组织主管、教育部委高层与全球[[Evidence Network|证据网络]]负责人等关键知情人，定性解析证据利用中的制度瓶颈、资助政治与中介运作机制（pp. 18, 20）。
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 对 20 位具备英格兰教育政策内部准入资格的高级官员、政府顾问与学者展开精英访谈，揭示了[[Evidence Era\|证据时代]]教师教育治理中政府守门与[[Policy-Based Evidence-Making\|逆向证据生产]]机制。
 > - [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] — 结构化访谈全美及四州 111 位政策制定者、标准起草者、工会领袖与批评者，结合档案做[[Process Tracing|过程追踪]]，阐明共同核心各阶段对研究证据与政治价值的整合。

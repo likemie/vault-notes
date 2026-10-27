@@ -70,7 +70,7 @@ updated: 2026-10-28
 > > | k | v |
 > > | --- | --- |
 > > | 时间 | 项目周期 2019-02 至 2020-06（1 年 4 个月；起点按周期倒推，<span class="eef-pending">待核实</span>）；干预 <span class="eef-pending">待核实</span> |
-> > | 评估 | 兰德研究机构（RAND Corporation） |
+> > | 评估 | 兰德研究机构 |
 > > | 样本 | 页面学校数 89 所 |
 > > | 经费 | 成本评级 <span class="eef-cost">●○○○○ 极低</span>；研究拨款 £236,265 |
 > > | 资料 | [评估报告（更新版）](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/peer_assisted_learning_strategies_%E2%80%93_UK_-_evaluation_report.pdf?v=1793043077) · [评估报告](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/PALS.pdf?v=1793043077) · [研究方案（修订版）](https://d2tic4wvo1iusb.cloudfront.net/production/documents/pages/projects/PALS-trial-protocol-update-2021.pdf?v=1793043077) · [统计分析计划（修订版）](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/PALS_SAP_update_2021.pdf?v=1793043077) · [研究方案](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_trial_protocol_PALS_-UK_v_0102.pdf?v=1793043077) · [统计分析计划](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/PALS-UK-SAP_FINAL.pdf?v=1793043077) |
