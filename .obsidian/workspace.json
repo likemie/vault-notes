@@ -38,7 +38,7 @@
             }
           },
           {
-            "id": "5b4080ee3d417019",
+            "id": "9f6a7b58150da48c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -258,8 +258,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5b4080ee3d417019",
+  "active": "9f6a7b58150da48c",
   "lastOpenFiles": [
+    "wiki/facts/eu/EU.md",
+    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md",
+    "wiki/concepts/comparative-education/Subsidiarity Principle.md",
+    "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md",
+    "wiki/concepts/comparative-education/State Educational Sovereignty.md",
     "output/related-updates/Argument_Pasias_Roussakis_2009_EuropeanPanopticon-137c5028/batch-001/result.json",
     "output/related-updates/Argument_Pasias_Roussakis_2009_EuropeanPanopticon-137c5028/batch-013/batch-result.schema.json",
     "output/related-updates/Argument_Pasias_Roussakis_2009_EuropeanPanopticon-137c5028/batch-013/prompt.md",
@@ -280,22 +285,17 @@
     "output/related-updates/Argument_Pasias_Roussakis_2009_EuropeanPanopticon-137c5028/batch-005/prompt.md",
     "output/related-updates/Argument_Pasias_Roussakis_2009_EuropeanPanopticon-137c5028/batch-005/batch-result.schema.json",
     "output/related-updates/Argument_Pasias_Roussakis_2009_EuropeanPanopticon-137c5028/batch-004/prompt.md",
-    "output/related-updates/Argument_Pasias_Roussakis_2009_EuropeanPanopticon-137c5028/batch-004/batch-result.schema.json",
     "output/related-updates/Argument_Pasias_Roussakis_2009_EuropeanPanopticon-137c5028/batch-003/prompt.md",
     "output/related-updates/Argument_Pasias_Roussakis_2009_EuropeanPanopticon-137c5028/batch-002/prompt.md",
     "output/related-updates/Argument_Pasias_Roussakis_2009_EuropeanPanopticon-137c5028/batch-001/prompt.md",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md",
     "wiki/arguments/reports-policy-documents/Argument_Lester_2005_MIT.md",
     "wiki/arguments/journal-articles/Assessment & Evaluation in Higher Education/Argument_SpronkenSmith_2024_AEHE.md",
-    "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md",
     "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
     "file:/Users/shaoyangwu/Downloads/data-f42d5409-84c3-4470-a77a-0759d3fd2426-1782823498-b319b966-batch-0000/Claude_Backup_Export/projects/个人信息填写_019e8678/Project_Details.md",
     "file:/Users/shaoyangwu/Downloads/data-f42d5409-84c3-4470-a77a-0759d3fd2426-1782823498-b319b966-batch-0000/Claude_Backup_Export/projects/个人信息填写_019e8678/docs/伍绍杨_个人资料.md",
     "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
     "wiki/templates/template-fact-eef-programme.md",
-    "wiki/templates/template-eef.md",
-    "wiki/templates/template-fact-program.md",
-    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md",
     "output/eef-programme-preview/integrated-mobile.jpg",
     "output/eef-programme-preview/integrated-light.jpg",
     "output/eef-programme-preview/before-integration.jpg",

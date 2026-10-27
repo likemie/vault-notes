@@ -141,7 +141,7 @@ updated: 2026-10-26
 > 诺亚·索比与梅丽莎·菲舍尔援引帕帕齐巴（Papatsiba, 2005, 2006）关于欧洲一体化政策的研究指出，在知识与胜任力驱动的欧洲教育空间中，大学生的跨国流动被重塑为一种“个体化教育实践”。这一实践以与就业能力紧密绑定的各项胜任力（Employability-related Competencies）为中心，隐蔽地将应对现代劳动力市场动荡与提升竞争力的全部责任转嫁给流动个体自身；即便这些胜任力[[Discourse|话语]]被粉饰以公民参与和跨文化素养的高尚修辞，其深层治理逻辑依然是将竞争风险内化为个体的道德自律。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 > [!citation-card] 白宫 [[Office of Science and Technology Policy|OSTP]] 论国家[[Research Translation|技术转化]]与实体制造决定国家竞争力
-> 历史表明，决定国家综合实力维度的核心在于技术转化与制造能力。薛定谔方程向战略武器的转化直接塑造了战后世界核秩序，香农信息论向通信协议的转化构建了全球数字基础设施，精密物理向 GPS 的转化赋能了全球精确引导网络。战后形成的“政府资助基础研究、论文公开共享、市场自然承接”的单向线性模型在当代彻底失效。平板显示与锂电池化学的基础原理虽由美国率先突破，但因本土缺乏持续的制造生态支持，量产工艺与供应链红利被竞争对手全面获取。单纯依赖论文层面的学术卓越无法自发维系国家技术领导地位；必须打破行政许可枷锁，全面开放联邦试验测试设施，组建前竞争技术联合体，确保公共研发成果扎根于本土实体产业。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–35, 40–45)]]
+> 历史表明，决定国家综合实力维度的核心在于技术转化与制造能力。薛定谔方程向战略武器的转化直接塑造了战后世界核秩序，香农信息论向通信协议的转化构建了全球数字基础设施，精密物理向 GPS 的转化支撑了全球精确引导网络。战后形成的“政府资助基础研究、论文公开共享、市场自然承接”的单向线性模型在当代彻底失效。平板显示与锂电池化学的基础原理虽由美国率先突破，但因本土缺乏持续的制造生态支持，量产工艺与供应链红利被竞争对手全面获取。单纯依赖论文层面的学术卓越无法自发维系国家技术领导地位；必须打破行政许可枷锁，全面开放联邦试验测试设施，组建前竞争技术联合体，确保公共研发成果扎根于本土实体产业。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–35, 40–45)]]
 >
 > *History demonstrates that national power is ultimately decided by the capacity for research translation and domestic manufacturing... Scientific excellence alone does not guarantee leadership. Original breakthroughs funded by taxpayers were commercialized overseas due to the absence of domestic manufacturing anchors. We must dismantle regulatory barriers, open federal user facilities, and deploy pre-competitive consortia to anchor discovery in domestic production.*
 
@@ -332,7 +332,7 @@ updated: 2026-10-26
 
 ---
 
-> [!contrast-table] 竞争力核心命题归纳
+> [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **国家千年期长程决断** | 设立数百年乃至千年尺度的战略规划，以共同价值观与强大人力资本投资驱动现代化经济繁荣与地缘突破 | 资源匮乏国家的制度突围、长期战略规划与国家安全威慑 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025, Ch. 17); [[Lee Kuan Yew]] (1965); World Bank (2023) |
@@ -345,21 +345,19 @@ updated: 2026-10-26
 > | **教育标准与开源生态锁定** | 高校工程课程将开源指令集与 EDA 工具链植入教学，通过工程师技术偏好锁定全球产业事实标准与生态优势 | 大国深科技博弈、开源软硬件生态与技术事实标准争夺 | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026, p. 20)]]; [[Argument_Fan_2026_BCAS\|樊春良 (2026, pp. 24–27)]] |
 > | **超国家流动与就业责任个体化** | 超国家政策将跨国流动性美德化为公民资产，将劳动力市场竞争不确定性转嫁为个体需自我负责的就业胜任力 | [[European Education Space\|欧洲教育空间]]、ERASMUS、[[Internationalization of Higher Education\|高等教育国际化]]与劳动力政策 | Papatsiba (2005, 2006); Nóvoa (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
 > | **跨国教育对标与政策重构** | 国家经济竞争力被建构为直接系于由国际标准衡量的教育质量；多边监测将全球竞争内化为国内教育改革元目标 | 跨国数据治理、经合组织 PISA 国际排名、新自由主义教育改革 | Brown et al. (1997); [[Fazal Rizvi\|Rizvi]] & [[Bob Lingard\|Lingard]] (2009) |
+> | **超国家软法监视与竞争力规训** | 将教育全面工具化为地缘经济竞争力与就业适应性支柱，依托开放协调法构筑全景敞视式软法监视体系 | 欧洲宏观政策话语分析、里斯本战略与超国家规训网络 | Pasias & Roussakis (2009) |
 
 ---
 
-> [!dev-timeline] 竞争力概念在科技与高教政策中的演进脉络
+> [!dev-timeline] 概念演变
 > - **1945–1970s — 战后边疆契约与后发国家突围奠基** 范内瓦·布什确立线性科学模型；[[Lee Kuan Yew|李光耀]]在新加坡独立初期确立“面向千年期”的长程国家规划，通过重塑语言与[[Human Capital Theory|人力资本]]奠定突围基础。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197)]]
 > - **1980s — 制造危机震荡与产学协同中心制度化** 日本先进制造崛起引发美国产业竞争力恐慌；1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》与 1984 年 [[Engineering Research Centers|NSF ERC]] 计划相继出台，国家竞争力被法定确立为大学工程科研与产学协同的核心支柱。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
 > - **1990s — 产线组织学习与全员股权所有权创新** [[Competitive Semiconductor Manufacturing Program|CSM]] 项目实证确立一线组织学习对工程竞争力的核心作用（[[Argument_Macher_1998_CMR|Macher et al., 1998]]）；硅谷开创向全员授予股权的现代所有权模式；[[Sematech]] 与 [[EUV LLC]] 联合体探索前竞争共担机制。
 > - **1990s–2000s — [[Global Universities Rankings|全球大学排名]]基础设施化、跨国教育对标与欧洲流动性竞争** 英国开展 [[Research Excellence Framework|RAE]]/REF，德国推行卓越计划；[[EU|欧洲联盟]]启动[[Lisbon Strategy|里斯本战略]]，将提升欧洲整体竞争力与大学生的跨国流动能力绑定（Papatsiba, 2005; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）；[[OECD|经合组织]]启动[[PISA]]，确立国家经济竞争力直接系于教育绩效跨国对标的新自由主义政策[[Paradigm|范式]]（Brown et al., 1997; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）。
+> - **2009 — 超国家全景敞视式竞争力规训批判** 帕西亚斯与鲁萨基斯运用福柯权力-规训理论解构欧盟教育话语，揭示里斯本战略如何以成为全球最具竞争力的知识经济体为轴心，依托开放协调法与量化指标凝视构筑欧洲教育全景敞视建筑。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480, 486–487, 492–493)]]
 > - **2020s — 国家长程战略、开源标准与深科技竞争力重塑** 《[[CHIPS and Science Act|芯片与科学法案]]》推动建立前竞争中试枢纽（[[Albany NanoTech Complex|Albany NanoTech]] / MIT.nano）与“教育即标准”开源生态锁定机制；卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中系统总结国家千年期战略意志、创始人溢价与所有权公社对抵御短期金融化的决定性意义；白宫 [[Office of Science and Technology Policy|OSTP]] 发布战略报告重塑硬科技试验场与本土制造竞争力。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 17–26)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026)]]
 
 ---
-
-## 争议与批评
-
-围绕竞争力逻辑的深层学术争议集中于国家与市场的角色、治理结构以及[[Public Value|公共价值]]的平衡：
 
 > [!debates] 围绕竞争力逻辑的深层学术争议
 >
@@ -403,7 +401,7 @@ updated: 2026-10-26
 
 ---
 
-> [!evidence-grid] 相关研究索引
+> [!evidence-grid-a] 相关研究索引
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析美国[[Research Universities|研究型大学]]在国家半导体体系中的角色重构，提出“教育即标准”、三级人才梯队与中试共置构成了国家深科技竞争力的微观与制度支撑。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 分析新型举国体制与战略科技力量建设，揭示[[National Innovation System|国家创新体系]]中跨部门协同攻关与战略科技竞争力塑造机制。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室国家战略报告，系统重构国家硬科技竞争力体系，论证必须打破规制阻滞并锚定本土实体制造能力。
@@ -414,4 +412,5 @@ updated: 2026-10-26
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 援引 Papatsiba（2005）剖析超国家教育一体化政策，揭示官方[[Discourse|话语]]如何将劳动力市场竞争力与就业风险转化为青年需自负盈亏打造的跨国流动性美德。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 援引布朗等人（1997）论述，解构新自由主义[[Social Imaginary|社会想象]]如何将国家经济竞争力绑定于[[International Education|国际教育]]质量，揭示[[OECD|经合组织]]多边监测与 [[PISA]] 将全球竞争内化为国内政策议程的机制（pp. 444–445, 447）。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判全球[[Knowledge-Based Economy|知识经济]]与新自由主义竞争逻辑对教育哲学的侵蚀，揭示可见学习与量化[[Performance Indicators|绩效指标]]如何将教育降维为国家经贸竞争与劳动力人力资本最大化的工具，从而消解教育作为生命转化与全面启蒙的本质。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯全景敞视理论批判解构欧盟教育话语，揭示里斯本战略如何以全球竞争力为驱动，依托开放协调法与量化指标构筑超国家规训建筑（pp. 480, 486–487, 492–493）。
 

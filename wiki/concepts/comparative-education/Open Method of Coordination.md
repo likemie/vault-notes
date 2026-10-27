@@ -60,7 +60,7 @@ updated: 2026-10-27
 ---
 
 > [!def] Open Method of Coordination
-> **开放协调法（Open Method of Coordination，OMC / 开放式协调机制）** 是[[EU|欧洲联盟]]在后阿姆斯特丹条约与[[Lisbon Strategy|里斯本战略]]时期确立的一种新型超国家软法治理工具。该机制旨在各成员国保留排他性立法主权、欧盟缺乏直接指令权的政策领域（尤指教育、就业与社会保障），达成跨国政策的协同与趋同。其核心运作逻辑在于：超国家机构并不制定具法律拘束力的统一法令，而是通过拟定共同战略目标、建立量化评估指标体系与发展基准线（Benchmarks）、促进各国“最佳实践”辨识与经验对话，并辅以定期的国家行动计划汇报与同行评议（Peer Review），依靠声誉机制与同侪比较压力（Naming and Shaming），自下而上地引导成员国国内政策向超国家优先议程自主靠拢。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
+> **开放协调法（Open Method of Coordination，OMC / 开放式协调机制）** 是[[EU|欧洲联盟]]在后阿姆斯特丹条约与[[Lisbon Strategy|里斯本战略]]时期确立的一种新型超国家软法治理工具。该机制旨在各成员国保留排他性立法主权、欧盟缺乏直接指令权的政策领域（尤指教育、就业与社会保障），达成跨国政策的协同与趋同。其核心运作逻辑在于：超国家机构排除具法律拘束力的统一法令，通过拟定共同战略目标、建立量化评估指标体系与发展基准线（Benchmarks）、促进各国“最佳实践”辨识与经验对话，并辅以定期的国家行动计划汇报与同行评议（Peer Review），依靠声誉机制与同侪比较压力（Naming and Shaming），自下而上地引导成员国国内政策向超国家优先议程自主靠拢。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 
 > [!concept-lens] 概念透镜
 > - **指向** 一套不依赖主权让渡与法律制裁、纯粹依靠量化基准与同行监测实现的跨国软性规训机制。
@@ -74,7 +74,7 @@ updated: 2026-10-27
 
 > [!boundary]- 概念边界
 > - 不等于共同体法指令（Directives） — 欧盟指令具有法定强制效力，成员国逾期未转化将面临欧洲法院（ECJ）违约司法裁决；而开放协调法纯属无强制法律后果的“软法（Soft Law）”。
-> - 不等于无约束的松散外交磋商 — OMC 具备结构化、周期性的指标监测与量化数据反馈闭环，能施加实质性的国内政治舆论与声誉压力。
+> - 不等于无约束的松散外交磋商 — OMC 具备结构化、周期性的指标监测与量化数据反馈机制，能施加实质性的国内政治舆论与声誉压力。
 
 ---
 
@@ -106,7 +106,7 @@ updated: 2026-10-27
 > 探讨去政治化的同侪学习与量化指标如何作为隐秘权力技术，在绕开国内议会民主审议的同时实现新自由主义政策的大规模制度趋同。
 
 > [!claim] [[António Nóvoa|Nóvoa, A.]]
-> **作为空间制作与[[Governmentality|治理术]]载体的开放协调法** 安东尼奥·诺沃亚（António Nóvoa）与马丁·劳恩（Martin Lawn）指出，开放协调法本质上是[[EU|欧盟]]超国家机构开展[[European Education Space|欧洲教育空间]]制作（Fabrication）的核心权力治理术。通过将教育问题重新表述为可比较的数字与技术基准线，OMC 巧妙规避了直接触犯《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]的宪制风险；它将各成员国置于永无止境的“绩效照镜（Mirroring）”网络中，使国家决策者自发以内化欧盟指标为荣，从而在未通过任何一部共同体教育法的前提下，实现了全欧教育体系向[[Knowledge-Based Economy|知识经济]]与[[Human Capital Theory|人力资本]]逻辑的深度收敛。[[Argument_Beech_2009_GlobalGarden|(Nóvoa, 2002, cited in Beech, 2009b, p. 343)]]
+> **作为空间制作与[[Governmentality|治理术]]载体的开放协调法** 安东尼奥·诺沃亚（António Nóvoa）与马丁·劳恩（Martin Lawn）指出，开放协调法本质上是[[EU|欧盟]]超国家机构开展[[European Education Space|欧洲教育空间]]制作（Fabrication）的核心权力治理术。通过将教育问题重新表述为可比较的数字与技术基准线，OMC 巧妙规避了直接触犯《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]的宪制风险；它将各成员国置于永无止境的“绩效照镜（Mirroring）”网络中，使国家决策者自发以内化欧盟指标为荣，从而在未通过任何一部共同体教育法的前提下，驱动全欧教育体系持续向[[Knowledge-Based Economy|知识经济]]与[[Human Capital Theory|人力资本]]逻辑深度靠拢。[[Argument_Beech_2009_GlobalGarden|(Nóvoa, 2002, cited in Beech, 2009b, p. 343)]]
 
 > [!claim] [[Jason Beech|Beech, J.]]
 > **多标度网络中软性协调对政策空间的窄化** 比奇（Jason Beech）指出，开放协调法所搭建的“最佳实践”交流网络，实质上由跨国机构与官僚精英把关。这些中介机制将高度情境化的微观探索抽象为统一的通用工具包，剥离了各民族国家历史传统的独特性；成员国教育部在追逐超国家基准指标的过程中，逐渐失去了构想替代性本土政策的能力，最终促成了[[Global Educational Discourse|全球教育话语]]在各区域内的标准复刻。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
@@ -130,7 +130,7 @@ updated: 2026-10-27
 > - **2002 — 教育领域全面展开** Nóvoa (2002) 系统解构[[EU|欧盟]]依托 OMC 三大机制跨越宪制主权边界、制作[[European Education Space|欧洲教育空间]]的微观过程。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 > - **2009 — 全景敞视监视技术解构** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] 运用福柯监视与规训理论解构 OMC，指出其整合凝视技术、绩效技术与治理技术，在超国家层面构筑起现代欧洲教育全景敞视。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 492–493)]]
 > - **2010 — 欧洲 2020 战略指标化** 欧盟确立包含[[Academic Attrition|早期离校]]率低于 10%、高等教育完成率达 40% 等五大约束性教育基准线，OMC 的量化刚度进一步攀升。
-> - **2020 年代 — [[Governing by Numbers|数字治理]]与欧洲教育区** OMC 深度嵌入“欧洲教育区（EEA 2025）”愿景，与[[OECD|经合组织]] [[PISA]] 数据相互咬合，构成超国家数字规训闭环。
+> - **2020 年代 — [[Governing by Numbers|数字治理]]与欧洲教育区** OMC 深度嵌入“欧洲教育区（EEA 2025）”愿景，与[[OECD|经合组织]] [[PISA]] 数据相互咬合，构成超国家数字规训体系。
 
 ---
 
