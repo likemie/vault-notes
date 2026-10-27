@@ -1,0 +1,393 @@
+{
+  "exported_at": "2026-10-27T13:23:51.345Z",
+  "source": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes",
+  "programmes": [],
+  "trials": [
+    {
+      "key": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom",
+      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom",
+      "programme_url": null,
+      "implementation_cost_rating": null,
+      "implementation_cost_total": 0,
+      "implementation_cost_status": "not_provided",
+      "evidence_strength_rating": null,
+      "evidence_strength_total": 0,
+      "evidence_strength_status": "not_provided",
+      "impact_months_rating": null,
+      "impact_type": "not_provided",
+      "impact_label": "",
+      "impact_symbol": "",
+      "trial_outcomes": [],
+      "metrics_checked_at": "2026-10-27T13:23:23.506Z",
+      "title": "Visible Classroom – pilot",
+      "subtitle": "Using transcripts of classes to promote effective teacher practices.",
+      "organisation": "University of Melbourne",
+      "organisation_status": "ok",
+      "metrics": {
+        "schools": "10",
+        "grant": "£366,030",
+        "key_stage": "2",
+        "duration": "2 year(s) 11 month(s)",
+        "type_of_trial": "Pilot Study",
+        "completed": "Completed January 2016"
+      },
+      "sections": [
+        {
+          "id": "nav-the-project",
+          "heading": "The project",
+          "metadata": [],
+          "text": "This page covers the pilot of Visible Classroom, which tested its potential for a full trial. To read about the (efficacy) trial – testing whether it can work in schools under best possible conditions – click here.The Visible Classroom project aimed to use lesson transcripts to promote effective teaching practice and improve the attainment of pupils in primary school. The approach used ​‘real-time captioning’ technology to generate a live transcript of teachers’ speech in lessons and was developed by the University of Melbourne and technology provider Ai-Media UK.Lesson transcripts were made available to teachers and used as the basis of a personalised ​‘dashboard’ which provided information about key features of lessons, such as the balance of teacher and pupil talk, the amount of ​‘thinking time’ given to pupils and the types of questioning used.In addition, live transcripts could be projected directly onto a whiteboard or tablets. Pupils could use the transcripts to review learning instructions and goals, and used the devices to provide feedback on their learning at the end of each lesson.This pilot evaluation involved ten primary schools in London and the West Midlands. Participating schools received training and followed the approach over two terms in the academic year 2013 – 14.The evaluation had three aims. First, to assess the feasibility of the technology and overall approach. Second, to provide recommendations that could be used to improve the approach in the future. Third, to assess the promise of the approach, and its components, to inform any future trial.This project was co-funded by the EEF and Nominet Trust as part of a funding round focused on digital technology.",
+          "html": "<p><em>This page covers the pilot of Visible Classroom, which tested its potential for a&nbsp;full trial. To read about the (efficacy) trial – testing whether it can work in schools under best possible conditions – <a href=\"https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015\">click here</a>.</em></p><p>The Visible Classroom project aimed to use lesson transcripts to promote effective teaching practice and improve the attainment of pupils in primary school. The approach used <span class=\"push-single\"></span>​<span class=\"pull-single\">‘</span>real-time captioning’ technology to generate a&nbsp;live transcript of teachers’ speech in lessons and was developed by the University of Melbourne and technology provider Ai-Media UK.</p><p>Lesson transcripts were made available to teachers and used as the basis of a&nbsp;personalised <span class=\"push-single\"></span>​<span class=\"pull-single\">‘</span>dashboard’ which provided information about key features of lessons, such as the balance of teacher and pupil talk, the amount of <span class=\"push-single\"></span>​<span class=\"pull-single\">‘</span>thinking time’ given to pupils and the types of questioning used.</p><p>In addition, live transcripts could be projected directly onto a&nbsp;whiteboard or tablets. Pupils could use the transcripts to review learning instructions and goals, and used the devices to provide feedback on their learning at the end of each lesson.</p><p>This pilot evaluation involved ten primary schools in London and the West Midlands. Participating schools received training and followed the approach over two terms in the academic year 2013 – 14.</p><p>The evaluation had three aims. First, to assess the feasibility of the technology and overall approach. Second, to provide recommendations that could be used to improve the approach in the future. Third, to assess the promise of the approach, and its components, to inform any future trial.</p><p>This project was co-funded by the EEF and Nominet Trust as part of a&nbsp;funding round focused on digital technology.</p>",
+          "links": [
+            {
+              "text": "click here",
+              "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015"
+            }
+          ]
+        },
+        {
+          "id": "nav-key-conclusions",
+          "heading": "Key Conclusions",
+          "metadata": [],
+          "text": "Overall, teachers were positive about the Visible Classroom approach, and believed that it had the potential to benefit both themselves and their pupils.Most teachers were adept at using the technology in the classroom, even if they had not done so before this trial. There were some technical problems related to hardware, software, and internet connections, but after an initial bedding-in period most were overcome.Though few teachers spent time reviewing the verbatim transcripts, the online dashboard and more detailed feedback reports based on the transcripts were seen as valuable tools to support teacher development. To maximise the impact of the feedback, teachers would benefit from being given greater opportunity to review and discuss their practice with peers and managers.Pupils did not seem to use live transcripts of teacher dialogue regularly, consistently, or in a way that would suggest an obvious benefit in learning. Teachers had mixed views on whether the live transcripts might have additional benefit for disadvantaged pupils or their peers.Further research would be required to assess the level of impact the approach has on academic attainment. Prior to considering a full trial it would be valuable to undertake some additional development work to refine the approach.",
+          "html": "<ol><li>Overall, teachers were positive about the Visible Classroom approach, and believed that it had the potential to benefit both themselves and their pupils.</li><li>Most teachers were adept at using the technology in the classroom, even if they had not done so before this trial. There were some technical problems related to hardware, software, and internet connections, but after an initial bedding-in period most were overcome.</li><li>Though few teachers spent time reviewing the verbatim transcripts, the online dashboard and more detailed feedback reports based on the transcripts were seen as valuable tools to support teacher development. To maximise the impact of the feedback, teachers would benefit from being given greater opportunity to review and discuss their practice with peers and managers.</li><li>Pupils did not seem to use live transcripts of teacher dialogue regularly, consistently, or in a&nbsp;way that would suggest an obvious benefit in learning. Teachers had mixed views on whether the live transcripts might have additional benefit for disadvantaged pupils or their&nbsp;peers.</li><li>Further research would be required to assess the level of impact the approach has on academic attainment. Prior to considering a&nbsp;full trial it would be valuable to undertake some additional development work to refine the approach.</li></ol>",
+          "links": []
+        },
+        {
+          "id": "nav-what-is-the-impact",
+          "heading": "What is the impact?",
+          "metadata": [],
+          "text": "The pilot study found that the Visible Classroom approach is feasible and has the potential to make an impact on teacher practice that may lead to benefits in pupils’ learning.Most schools that participated in the project were enthusiastic about the approach. Teachers appreciated having a record of their teaching performance and believed that they benefited from the analysis dashboard and the more detailed feedback reports. Though very few teachers spent time reviewing the entire transcripts of their lessons, all participating teachers used the dashboard regularly, and felt that this was the aspect of the approach most likely to change their behaviour and lead to increased pupil attainment. To further improve the impact of this component, it would be valuable to ensure that teachers are provided with allocated time to reflect on feedback, and are able to discuss the feedback with peers or managers. Most teachers were adept at using the technology, even if they had not done so before the project.There was less evidence that live transcripts of lessons directly benefited pupils by increasing their engagement or enabling them to review previous parts of the lesson. Though some teachers thought that the transcripts were of benefit to children, many classes did not follow the live transcripts and some teachers actively discouraged pupils from following the live transcript during whole-class teaching.Teachers also had mixed views about which pupils were likely to have most benefited from the live transcripts. Some felt that transcripts offered reinforcement and information checking for poorer performing pupils whilst others felt the pupils had to be fairly skilled to find the information they needed and so only the higher performing children were able to do this.",
+          "html": "<p>The pilot study found that the Visible Classroom approach is feasible and has the potential to make an impact on teacher practice that may lead to benefits in pupils’ learning.</p><p>Most schools that participated in the project were enthusiastic about the approach. Teachers appreciated having a&nbsp;record of their teaching performance and believed that they benefited from the analysis dashboard and the more detailed feedback reports. Though very few teachers spent time reviewing the entire transcripts of their lessons, all participating teachers used the dashboard regularly, and felt that this was the aspect of the approach most likely to change their behaviour and lead to increased pupil attainment. To further improve the impact of this component, it would be valuable to ensure that teachers are provided with allocated time to reflect on feedback, and are able to discuss the feedback with peers or managers. Most teachers were adept at using the technology, even if they had not done so before the project.</p><p>There was less evidence that live transcripts of lessons directly benefited pupils by increasing their engagement or enabling them to review previous parts of the lesson. Though some teachers thought that the transcripts were of benefit to children, many classes did not follow the live transcripts and some teachers actively discouraged pupils from following the live transcript during whole-class teaching.</p><p>Teachers also had mixed views about which pupils were likely to have most benefited from the live transcripts. Some felt that transcripts offered reinforcement and information checking for poorer performing pupils whilst others felt the pupils had to be fairly skilled to find the information they needed and so only the higher performing children were able to do&nbsp;this.</p>",
+          "links": []
+        },
+        {
+          "id": "nav-how-secure-is-the-finding",
+          "heading": "How secure is the finding?",
+          "metadata": [],
+          "text": "The pilot was a qualitative evaluation of the Visible Classroom approach based on 27 semi-structured interviews with staff in participating schools, and two classroom observation visits. During observations the evaluation team assessed how the approach was used, levels of pupil engagement, and the use of tablets.",
+          "html": "<p>The pilot was a&nbsp;qualitative evaluation of the Visible Classroom approach based on 27 semi-structured interviews with staff in participating schools, and two classroom observation visits. During observations the evaluation team assessed how the approach was used, levels of pupil engagement, and the use of tablets.</p>",
+          "links": []
+        },
+        {
+          "id": "nav-how-much-does-it-cost",
+          "heading": "How much does it cost?",
+          "metadata": [],
+          "text": "The approach is estimated to cost approximately £367 per pupil, based on five hours captioning per week over one school year and class sizes of 25 pupils. This estimate includes analysis costs (£158 per pupil), equipment (£12 per pupil), training (£125 per teacher), and live captioning (£192 per pupil).",
+          "html": "<p>The approach is estimated to cost approximately £367 per pupil, based on five hours captioning per week over one school year and class sizes of 25 pupils. This estimate includes analysis costs (£158 per pupil), equipment (£12 per pupil), training (£125 per teacher), and live captioning (£192 per&nbsp;pupil).</p>",
+          "links": []
+        }
+      ],
+      "results_text": "What is the impact?\nThe pilot study found that the Visible Classroom approach is feasible and has the potential to make an impact on teacher practice that may lead to benefits in pupils’ learning.Most schools that participated in the project were enthusiastic about the approach. Teachers appreciated having a record of their teaching performance and believed that they benefited from the analysis dashboard and the more detailed feedback reports. Though very few teachers spent time reviewing the entire transcripts of their lessons, all participating teachers used the dashboard regularly, and felt that this was the aspect of the approach most likely to change their behaviour and lead to increased pupil attainment. To further improve the impact of this component, it would be valuable to ensure that teachers are provided with allocated time to reflect on feedback, and are able to discuss the feedback with peers or managers. Most teachers were adept at using the technology, even if they had not done so before the project.There was less evidence that live transcripts of lessons directly benefited pupils by increasing their engagement or enabling them to review previous parts of the lesson. Though some teachers thought that the transcripts were of benefit to children, many classes did not follow the live transcripts and some teachers actively discouraged pupils from following the live transcript during whole-class teaching.Teachers also had mixed views about which pupils were likely to have most benefited from the live transcripts. Some felt that transcripts offered reinforcement and information checking for poorer performing pupils whilst others felt the pupils had to be fairly skilled to find the information they needed and so only the higher performing children were able to do this.",
+      "documents": [
+        {
+          "title": "Project Report",
+          "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_report_TheVisibleClassroom.pdf?v=1793074378",
+          "uploaded_at": "2016-02-05T15:38:55+00:00",
+          "uploaded_date": "5 February, 2016",
+          "file_size": "1.4 MB",
+          "file_type": "pdf",
+          "source_page": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom",
+          "tracking_label": "eef_project_report_thevisibleclassroom.pdf"
+        },
+        {
+          "title": "EEF Project Protocol Visible Classroom",
+          "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Protocol_Visible_Classroom.pdf?v=1793074378",
+          "uploaded_at": "2016-11-07T16:27:01+00:00",
+          "uploaded_date": "7 November, 2016",
+          "file_size": "763.7 KB",
+          "file_type": "pdf",
+          "source_page": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom",
+          "tracking_label": "eef_project_protocol_visible_classroom.pdf"
+        }
+      ],
+      "document_count": 2,
+      "report_links": [
+        "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_report_TheVisibleClassroom.pdf?v=1793074378",
+        "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Protocol_Visible_Classroom.pdf?v=1793074378"
+      ],
+      "report_link_details": [
+        {
+          "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_report_TheVisibleClassroom.pdf?v=1793074378",
+          "text": "Project Report"
+        },
+        {
+          "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Protocol_Visible_Classroom.pdf?v=1793074378",
+          "text": "EEF Project Protocol Visible Classroom"
+        }
+      ],
+      "all_links": [
+        {
+          "text": "Projects",
+          "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation"
+        },
+        {
+          "text": "Projects",
+          "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects"
+        },
+        {
+          "text": "Visible Classroom - pilot",
+          "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom"
+        },
+        {
+          "text": "The project",
+          "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom"
+        },
+        {
+          "text": "Key ConclusionsThe following conclusions summarise the project outcomeOverall, teachers were positive about the Visible Classroom approach, and believed that it had the potential to benefit both themselves and their pupils.Most teachers were adept at using the technology in the classroom, even if they had not done so before this trial. There were some technical problems related to hardware, software, and internet connections, but after an initial bedding-in period most were overcome.Though few teachers spent time reviewing the verbatim transcripts, the online dashboard and more detailed feedback reports based on the transcripts were seen as valuable tools to support teacher development. To maximise the impact of the feedback, teachers would benefit from being given greater opportunity to review and discuss their practice with peers and managers.Pupils did not seem to use live transcripts of teacher dialogue regularly, consistently, or in a way that would suggest an obvious benefit in learning. Teachers had mixed views on whether the live transcripts might have additional benefit for disadvantaged pupils or their peers.Further research would be required to assess the level of impact the approach has on academic attainment. Prior to considering a full trial it would be valuable to undertake some additional development work to refine the approach.What is the impact?The pilot study found that the Visible Classroom approach is feasible and has the potential to make an impact on teacher practice that may lead to benefits in pupils’ learning.Most schools that participated in the project were enthusiastic about the approach. Teachers appreciated having a record of their teaching performance and believed that they benefited from the analysis dashboard and the more detailed feedback reports. Though very few teachers spent time reviewing the entire transcripts of their lessons, all participating teachers used the dashboard regularly, and felt that this was the aspect of the approach most likely to change their behaviour and lead to increased pupil attainment. To further improve the impact of this component, it would be valuable to ensure that teachers are provided with allocated time to reflect on feedback, and are able to discuss the feedback with peers or managers. Most teachers were adept at using the technology, even if they had not done so before the project.There was less evidence that live transcripts of lessons directly benefited pupils by increasing their engagement or enabling them to review previous parts of the lesson. Though some teachers thought that the transcripts were of benefit to children, many classes did not follow the live transcripts and some teachers actively discouraged pupils from following the live transcript during whole-class teaching.Teachers also had mixed views about which pupils were likely to have most benefited from the live transcripts. Some felt that transcripts offered reinforcement and information checking for poorer performing pupils whilst others felt the pupils had to be fairly skilled to find the information they needed and so only the higher performing children were able to do this.How secure is the finding?The pilot was a qualitative evaluation of the Visible Classroom approach based on 27 semi-structured interviews with staff in participating schools, and two classroom observation visits. During observations the evaluation team assessed how the approach was used, levels of pupil engagement, and the use of tablets.How much does it cost?The approach is estimated to cost approximately £367 per pupil, based on five hours captioning per week over one school year and class sizes of 25 pupils. This estimate includes analysis costs (£158 per pupil), equipment (£12 per pupil), training (£125 per teacher), and live captioning (£192 per pupil).",
+          "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom"
+        },
+        {
+          "text": "Key Conclusions",
+          "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom"
+        },
+        {
+          "text": "What is the impact?",
+          "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom"
+        },
+        {
+          "text": "How secure is the finding?",
+          "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom"
+        },
+        {
+          "text": "How much does it cost?",
+          "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom"
+        },
+        {
+          "text": "Downloads",
+          "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom"
+        },
+        {
+          "text": "click here",
+          "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015"
+        }
+      ],
+      "page_text": "Projects\n\nProjects\n\nVisible Classroom - pilot\n\nVisible Classroom - pilot\nVisible Classroom - pilot\nVisible Classroom - pilot\nVisible Classroom – pilot\nUniversity of Melbourne\nThe projectKey ConclusionsWhat is the impact?How secure is the finding?How much does it cost?Downloads\nResearch Results\nProject info\nIndependent Evaluator\nNatCen\nUsing transcripts of classes to promote effective teacher practices.\nSchools: 10 •\nGrant: £366,030\nKey Stage: 2 •\nDuration: 2 year(s) 11 month(s)\n•\nType of Trial: Pilot Study\nCompleted January 2016\nThe project\n\nThis page covers the pilot of Visible Classroom, which tested its potential for a full trial. To read about the (efficacy) trial – testing whether it can work in schools under best possible conditions – click here.\n\nThe Visible Classroom project aimed to use lesson transcripts to promote effective teaching practice and improve the attainment of pupils in primary school. The approach used ​‘real-time captioning’ technology to generate a live transcript of teachers’ speech in lessons and was developed by the University of Melbourne and technology provider Ai-Media UK.\n\nLesson transcripts were made available to teachers and used as the basis of a personalised ​‘dashboard’ which provided information about key features of lessons, such as the balance of teacher and pupil talk, the amount of ​‘thinking time’ given to pupils and the types of questioning used.\n\nIn addition, live transcripts could be projected directly onto a whiteboard or tablets. Pupils could use the transcripts to review learning instructions and goals, and used the devices to provide feedback on their learning at the end of each lesson.\n\nThis pilot evaluation involved ten primary schools in London and the West Midlands. Participating schools received training and followed the approach over two terms in the academic year 2013 – 14.\n\nThe evaluation had three aims. First, to assess the feasibility of the technology and overall approach. Second, to provide recommendations that could be used to improve the approach in the future. Third, to assess the promise of the approach, and its components, to inform any future trial.\n\nThis project was co-funded by the EEF and Nominet Trust as part of a funding round focused on digital technology.\n\nKey Conclusions\nThe following conclusions summarise the project outcome\nOverall, teachers were positive about the Visible Classroom approach, and believed that it had the potential to benefit both themselves and their pupils.\nMost teachers were adept at using the technology in the classroom, even if they had not done so before this trial. There were some technical problems related to hardware, software, and internet connections, but after an initial bedding-in period most were overcome.\nThough few teachers spent time reviewing the verbatim transcripts, the online dashboard and more detailed feedback reports based on the transcripts were seen as valuable tools to support teacher development. To maximise the impact of the feedback, teachers would benefit from being given greater opportunity to review and discuss their practice with peers and managers.\nPupils did not seem to use live transcripts of teacher dialogue regularly, consistently, or in a way that would suggest an obvious benefit in learning. Teachers had mixed views on whether the live transcripts might have additional benefit for disadvantaged pupils or their peers.\nFurther research would be required to assess the level of impact the approach has on academic attainment. Prior to considering a full trial it would be valuable to undertake some additional development work to refine the approach.\nWhat is the impact?\n\nThe pilot study found that the Visible Classroom approach is feasible and has the potential to make an impact on teacher practice that may lead to benefits in pupils’ learning.\n\nMost schools that participated in the project were enthusiastic about the approach. Teachers appreciated having a record of their teaching performance and believed that they benefited from the analysis dashboard and the more detailed feedback reports. Though very few teachers spent time reviewing the entire transcripts of their lessons, all participating teachers used the dashboard regularly, and felt that this was the aspect of the approach most likely to change their behaviour and lead to increased pupil attainment. To further improve the impact of this component, it would be valuable to ensure that teachers are provided with allocated time to reflect on feedback, and are able to discuss the feedback with peers or managers. Most teachers were adept at using the technology, even if they had not done so before the project.\n\nThere was less evidence that live transcripts of lessons directly benefited pupils by increasing their engagement or enabling them to review previous parts of the lesson. Though some teachers thought that the transcripts were of benefit to children, many classes did not follow the live transcripts and some teachers actively discouraged pupils from following the live transcript during whole-class teaching.\n\nTeachers also had mixed views about which pupils were likely to have most benefited from the live transcripts. Some felt that transcripts offered reinforcement and information checking for poorer performing pupils whilst others felt the pupils had to be fairly skilled to find the information they needed and so only the higher performing children were able to do this.\n\nHow secure is the finding?\n\nThe pilot was a qualitative evaluation of the Visible Classroom approach based on 27 semi-structured interviews with staff in participating schools, and two classroom observation visits. During observations the evaluation team assessed how the approach was used, levels of pupil engagement, and the use of tablets.\n\nHow much does it cost?\n\nThe approach is estimated to cost approximately £367 per pupil, based on five hours captioning per week over one school year and class sizes of 25 pupils. This estimate includes analysis costs (£158 per pupil), equipment (£12 per pupil), training (£125 per teacher), and live captioning (£192 per pupil).\n\nDownloads\nProject Report\nUploaded: 5 February, 2016 • 1.4 MB - pdf\nDownload resource Project Report\nEEF Project Protocol Visible Classroom\nUploaded: 7 November, 2016 • 763.7 KB - pdf\nDownload resource EEF Project Protocol Visible Classroom",
+      "content_length": 1787,
+      "project_kind": "evaluation",
+      "quality": {
+        "section_count": 5,
+        "result_characters": 1787,
+        "page_characters": 6372,
+        "has_results": true,
+        "used_fallback": false
+      },
+      "updated_at": "2026-10-27T13:22:39.175Z",
+      "status": "complete",
+      "discovery_source": "independent",
+      "completeness_checked_at": "2026-10-27T13:23:23.506Z",
+      "last_repair_attempt_at": "2026-10-27T13:23:23.506Z",
+      "v19_checked_at": "2026-10-27T13:23:23.506Z",
+      "v192_checked_at": "2026-10-27T13:23:23.506Z"
+    },
+    {
+      "key": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+      "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+      "programme_url": null,
+      "implementation_cost_rating": 1,
+      "implementation_cost_total": 5,
+      "implementation_cost_status": "ok",
+      "evidence_strength_rating": 4,
+      "evidence_strength_total": 5,
+      "evidence_strength_status": "ok",
+      "impact_months_rating": -1,
+      "impact_type": "months",
+      "impact_label": "",
+      "impact_symbol": "-",
+      "trial_outcomes": [
+        {
+          "trial_url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+          "outcome_group": "KS2 maths and reading, Year 5",
+          "is_subgroup": false,
+          "impact_months": -1,
+          "effect_size": null,
+          "security_strength": 4,
+          "security_total": 5,
+          "security_status": "ok",
+          "security_raw": "",
+          "source": "responsive-grid",
+          "raw_text": "KS2 maths and reading, Year 5 | -1Months' progress | "
+        },
+        {
+          "trial_url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+          "outcome_group": "KS2 maths and reading, Year 6",
+          "is_subgroup": false,
+          "impact_months": -1,
+          "effect_size": null,
+          "security_strength": 4,
+          "security_total": 5,
+          "security_status": "ok",
+          "security_raw": "",
+          "source": "responsive-grid",
+          "raw_text": "KS2 maths and reading, Year 6 | -1Months' progress | "
+        },
+        {
+          "trial_url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+          "outcome_group": "KS2 maths and reading, Year 5— FSM pupils",
+          "is_subgroup": true,
+          "impact_months": 0,
+          "effect_size": null,
+          "security_strength": null,
+          "security_total": 0,
+          "security_status": "not_applicable",
+          "security_raw": "N/A",
+          "source": "responsive-grid",
+          "raw_text": "KS2 maths and reading, Year 5— FSM pupils | 0Months' progress | N/A"
+        },
+        {
+          "trial_url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+          "outcome_group": "KS2 maths and reading, Year 6—FSM pupils",
+          "is_subgroup": true,
+          "impact_months": 0,
+          "effect_size": null,
+          "security_strength": null,
+          "security_total": 0,
+          "security_status": "not_applicable",
+          "security_raw": "N/A",
+          "source": "responsive-grid",
+          "raw_text": "KS2 maths and reading, Year 6—FSM pupils | 0Months' progress | N/A"
+        }
+      ],
+      "metrics_checked_at": "2026-10-27T13:23:24.599Z",
+      "title": "Visible Classroom – trial",
+      "subtitle": "Providing teachers with word-for-word transcripts and personalised analysis, specifically focusing on their ​“teacher talk” and classroom practice",
+      "organisation": "The University of Melbourne",
+      "organisation_status": "ok",
+      "metrics": {
+        "pupils": "7230",
+        "schools": "86",
+        "grant": "TBC",
+        "key_stage": "2",
+        "duration": "2 year(s) 6 month(s)",
+        "type_of_trial": "Efficacy level evidence",
+        "completed": "Completed July 2018"
+      },
+      "sections": [
+        {
+          "id": "nav-eef-summary",
+          "heading": "EEF Summary",
+          "metadata": [],
+          "text": "Quality of teaching is a key determinant of learning outcomes, and there is good evidence that timely, appropriate feedback can improve teaching. The EEF previously funded a pilot of the Visible Classroom intervention, which found that teachers were positive about the approach. This re-grant was designed to examine whether the approach had a positive impact on pupil outcomes.Our trial of the Visible Classrooms intervention involved teachers of 7230 students from 86 schools. The independent evaluation found that pupils taught by teachers in intervention schools made, on average, one month less progress is KS2 reading and maths. This result has moderate to high security. While this is our best estimate, the statistical uncertainty around the result is consistent with larger negative or small positive effects.The process evaluation identifies a number of barriers to implementation that might have prevented the intervention from having a positive impact. For example, teachers found they did not have enough time to properly engage with the feedback they were given, and some teachers felt self-conscious about lessons being recorded. A limitation of this trial is that it did not examine teacher practice change within schools.The EEF continues to be interested in approaches that aim to provide support to developing great teachers",
+          "html": "<p>Quality of teaching is a&nbsp;key determinant of learning outcomes, and there is good evidence that timely, appropriate feedback can improve teaching. The EEF previously funded <a href=\"https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom\">a&nbsp;pilot of the Visible Classroom intervention</a>, which found that teachers were positive about the approach. This re-grant was designed to examine whether the approach had a&nbsp;positive impact on pupil outcomes.</p><p>Our trial of the Visible Classrooms intervention involved teachers of 7230 students from 86 schools. The independent evaluation found that pupils taught by teachers in intervention schools made, on average, one month less progress is KS2 reading and maths. This result has moderate to high security. While this is our best estimate, the statistical uncertainty around the result is consistent with larger negative or small positive effects.</p><p>The process evaluation identifies a&nbsp;number of barriers to implementation that might have prevented the intervention from having a&nbsp;positive impact. For example, teachers found they did not have enough time to properly engage with the feedback they were given, and some teachers felt self-conscious about lessons being recorded. A&nbsp;limitation of this trial is that it did not examine teacher practice change within schools.</p><p>The EEF continues to be interested in approaches that aim to provide support to developing great teachers</p>",
+          "links": [
+            {
+              "text": "a pilot of the Visible Classroom intervention",
+              "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom"
+            }
+          ]
+        },
+        {
+          "id": "nav-evaluation-conclusions",
+          "heading": "Evaluation Conclusions",
+          "metadata": [],
+          "text": "Pupils in schools that received Visible Learning made, on average, one month less progress in combined KS2 maths and reading compared to children in the control schools. This is our best estimate, which has a high security rating. Variability around this best estimate means that possible impacts of the study include larger negative effects and negligible positive effects.A negative impact of two months reduction in learning was estimated for KS2 reading outcomes for students in Year 5. The variability around this best estimate means that, while the possible results are consistently negative, the magnitude may be larger or smaller than a two month reduction.Among children eligible for free school meals (FSM), those in the treatment schools made no additional progress in the KS2 maths and reading outcome measure compared to those in the control groups. These results may have lower security than the overall findings because of the smaller number of pupils. Variability around the estimate indicates that possible effects range between substantial positive and negative impacts.The IPE found that iterative feedback was especially well received in schools with an open working culture that encouraged feedback compared to schools where feedback was emphasised less.There were a number of implementation barriers that may have hindered the success of the intervention. Examples included teachers not having enough time to properly engage with the feedback they were given and, in some cases, feeling self-conscious about lessons being recorded.",
+          "html": "<ol><li>Pupils in schools that received Visible Learning made, on average, one month less progress in combined KS2 maths and reading compared to children in the control schools. This is our best estimate, which has a&nbsp;high security rating. Variability around this best estimate means that possible impacts of the study include larger negative effects and negligible positive effects.</li><li>A negative impact of two months reduction in learning was estimated for KS2 reading outcomes for students in Year 5. The variability around this best estimate means that, while the possible results are consistently negative, the magnitude may be larger or smaller than a&nbsp;two month reduction.</li><li>Among children eligible for free school meals (FSM), those in the treatment schools made no additional progress in the KS2 maths and reading outcome measure compared to those in the control groups. These results may have lower security than the overall findings because of the smaller number of pupils. Variability around the estimate indicates that possible effects range between substantial positive and negative impacts.</li><li>The IPE found that iterative feedback was especially well received in schools with an open working culture that encouraged feedback compared to schools where feedback was emphasised less.</li><li>There were a&nbsp;number of implementation barriers that may have hindered the success of the intervention. Examples included teachers not having enough time to properly engage with the feedback they were given and, in some cases, feeling self-conscious about lessons being recorded.</li></ol>",
+          "links": []
+        }
+      ],
+      "results_text": "EEF Summary\nQuality of teaching is a key determinant of learning outcomes, and there is good evidence that timely, appropriate feedback can improve teaching. The EEF previously funded a pilot of the Visible Classroom intervention, which found that teachers were positive about the approach. This re-grant was designed to examine whether the approach had a positive impact on pupil outcomes.Our trial of the Visible Classrooms intervention involved teachers of 7230 students from 86 schools. The independent evaluation found that pupils taught by teachers in intervention schools made, on average, one month less progress is KS2 reading and maths. This result has moderate to high security. While this is our best estimate, the statistical uncertainty around the result is consistent with larger negative or small positive effects.The process evaluation identifies a number of barriers to implementation that might have prevented the intervention from having a positive impact. For example, teachers found they did not have enough time to properly engage with the feedback they were given, and some teachers felt self-conscious about lessons being recorded. A limitation of this trial is that it did not examine teacher practice change within schools.The EEF continues to be interested in approaches that aim to provide support to developing great teachers\n\nEvaluation Conclusions\nPupils in schools that received Visible Learning made, on average, one month less progress in combined KS2 maths and reading compared to children in the control schools. This is our best estimate, which has a high security rating. Variability around this best estimate means that possible impacts of the study include larger negative effects and negligible positive effects.A negative impact of two months reduction in learning was estimated for KS2 reading outcomes for students in Year 5. The variability around this best estimate means that, while the possible results are consistently negative, the magnitude may be larger or smaller than a two month reduction.Among children eligible for free school meals (FSM), those in the treatment schools made no additional progress in the KS2 maths and reading outcome measure compared to those in the control groups. These results may have lower security than the overall findings because of the smaller number of pupils. Variability around the estimate indicates that possible effects range between substantial positive and negative impacts.The IPE found that iterative feedback was especially well received in schools with an open working culture that encouraged feedback compared to schools where feedback was emphasised less.There were a number of implementation barriers that may have hindered the success of the intervention. Examples included teachers not having enough time to properly engage with the feedback they were given and, in some cases, feeling self-conscious about lessons being recorded.",
+      "documents": [
+        {
+          "title": "Evaluation Protocol",
+          "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Protocol_Regrant_Visible_Classroom.pdf?v=1793040173",
+          "uploaded_at": "2017-06-14T14:23:45+01:00",
+          "uploaded_date": "14 June, 2017",
+          "file_size": "763.7 KB",
+          "file_type": "pdf",
+          "source_page": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+          "tracking_label": "eef_project_protocol_regrant_visible_classroom.pdf"
+        },
+        {
+          "title": "Amended Evaluation Protocol – February 2017",
+          "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Regrant_-_Visible_Classroom_AMENDED_1.pdf?v=1793040173",
+          "uploaded_at": "2017-08-08T13:16:01+01:00",
+          "uploaded_date": "8 August, 2017",
+          "file_size": "766.6 KB",
+          "file_type": "pdf",
+          "source_page": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+          "tracking_label": "regrant_-_visible_classroom_amended_1.pdf"
+        },
+        {
+          "title": "Statistical Analysis Plan",
+          "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Visible_Classroom_SAP.pdf?v=1793040173",
+          "uploaded_at": "2018-07-30T10:10:15+01:00",
+          "uploaded_date": "30 July, 2018",
+          "file_size": "641.8 KB",
+          "file_type": "pdf",
+          "source_page": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+          "tracking_label": "visible_classroom_sap.pdf"
+        },
+        {
+          "title": "Visible Classroom Evaluation Report",
+          "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/pages/projects/Visible_Classroom.pdf?v=1793040173",
+          "uploaded_at": "2021-09-06T12:06:41+01:00",
+          "uploaded_date": "6 September, 2021",
+          "file_size": "4.1 MB",
+          "file_type": "pdf",
+          "source_page": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+          "tracking_label": "visible_classroom.pdf"
+        }
+      ],
+      "document_count": 4,
+      "report_links": [
+        "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Protocol_Regrant_Visible_Classroom.pdf?v=1793040173",
+        "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Regrant_-_Visible_Classroom_AMENDED_1.pdf?v=1793040173",
+        "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Visible_Classroom_SAP.pdf?v=1793040173",
+        "https://d2tic4wvo1iusb.cloudfront.net/production/documents/pages/projects/Visible_Classroom.pdf?v=1793040173"
+      ],
+      "report_link_details": [
+        {
+          "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Protocol_Regrant_Visible_Classroom.pdf?v=1793040173",
+          "text": "Evaluation Protocol"
+        },
+        {
+          "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Regrant_-_Visible_Classroom_AMENDED_1.pdf?v=1793040173",
+          "text": "Amended Evaluation Protocol – February 2017"
+        },
+        {
+          "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Visible_Classroom_SAP.pdf?v=1793040173",
+          "text": "Statistical Analysis Plan"
+        },
+        {
+          "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/pages/projects/Visible_Classroom.pdf?v=1793040173",
+          "text": "Visible Classroom Evaluation Report"
+        }
+      ],
+      "all_links": [
+        {
+          "text": "Projects",
+          "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation"
+        },
+        {
+          "text": "Projects",
+          "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects"
+        },
+        {
+          "text": "Visible Classroom - trial",
+          "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015"
+        },
+        {
+          "text": "a pilot of the Visible Classroom intervention",
+          "url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom"
+        }
+      ],
+      "page_text": "ProjectsProjectsVisible Classroom - trialVisible Classroom - trialVisible Classroom - trialVisible Classroom - trialVisible Classroom – trialProviding teachers with word-for-word transcripts and personalised analysis, specifically focusing on their ​“teacher talk” and classroom practiceBY:The University of MelbourneImplementation costThe cost estimates are based on the average cost of delivering the intervention.Evidence strengthThis rating provides an overall estimate of the robustness of the evidence, to help support professional decision-making in schools.Impact (months)The impact measure shows the number of additional months of progress made, on average, by children and young people who received the intervention, compared to similar children and young people who did not.-1monthsProject infoIndependent EvaluatorBehavioural Insights TeamProviding teachers with word-for-word transcripts and personalised analysis, specifically focusing on their ​“teacher talk” and classroom practice\nPupils: 7230 •\nSchools: 86 •\nGrant: TBC\nKey Stage:\n 2 •\nDuration: 2 year(s) 6 month(s)•\nType of Trial: Efficacy level evidenceCompleted July 2018The Visible Classroom intervention supports teachers’ professional practice development by providing personalised feedback and mentorship on teaching practice, with the aim of improving student mathematics and reading outcomes in Years 5 and 6 (ages 9 – 11).Teachers received a word-for-word transcript of each of their lessons that they recorded and submitted to the programme platform, and a data dashboard with summary statistics (e.g.: teacher talk time, speed of speaking, number of teacher and student questions asked). In addition, they received a feedback report that assessed their lessons and offered considerations for improvement, designed to encourage critical reflection and improvements in classroom practice, as well as links to other informational resources, and collaborative professional dialogue sessions with a nominated teaching mentorEEF SummaryQuality of teaching is a key determinant of learning outcomes, and there is good evidence that timely, appropriate feedback can improve teaching. The EEF previously funded a pilot of the Visible Classroom intervention, which found that teachers were positive about the approach. This re-grant was designed to examine whether the approach had a positive impact on pupil outcomes.Our trial of the Visible Classrooms intervention involved teachers of 7230 students from 86 schools. The independent evaluation found that pupils taught by teachers in intervention schools made, on average, one month less progress is KS2 reading and maths. This result has moderate to high security. While this is our best estimate, the statistical uncertainty around the result is consistent with larger negative or small positive effects.The process evaluation identifies a number of barriers to implementation that might have prevented the intervention from having a positive impact. For example, teachers found they did not have enough time to properly engage with the feedback they were given, and some teachers felt self-conscious about lessons being recorded. A limitation of this trial is that it did not examine teacher practice change within schools.The EEF continues to be interested in approaches that aim to provide support to developing great teachersEvaluation ConclusionsPupils in schools that received Visible Learning made, on average, one month less progress in combined KS2 maths and reading compared to children in the control schools. This is our best estimate, which has a high security rating. Variability around this best estimate means that possible impacts of the study include larger negative effects and negligible positive effects.A negative impact of two months reduction in learning was estimated for KS2 reading outcomes for students in Year 5. The variability around this best estimate means that, while the possible results are consistently negative, the magnitude may be larger or smaller than a two month reduction.Among children eligible for free school meals (FSM), those in the treatment schools made no additional progress in the KS2 maths and reading outcome measure compared to those in the control groups. These results may have lower security than the overall findings because of the smaller number of pupils. Variability around the estimate indicates that possible effects range between substantial positive and negative impacts.The IPE found that iterative feedback was especially well received in schools with an open working culture that encouraged feedback compared to schools where feedback was emphasised less.There were a number of implementation barriers that may have hindered the success of the intervention. Examples included teachers not having enough time to properly engage with the feedback they were given and, in some cases, feeling self-conscious about lessons being recorded.Outcome/​GroupImpactThe size of the difference between pupils in this trial and other pupilsSecurityHow confident are we in this result?KS2 maths and reading, Year 5-1Months' progressKS2 maths and reading, Year 6-1Months' progressKS2 maths and reading, Year 5— FSM pupils0Months' progress\nN/A\nKS2 maths and reading, Year 6—FSM pupils0Months' progress\nN/A\nDownloadsEvaluation ProtocolUploaded: 14 June, 2017 • 763.7 KB - pdfDownload resource Evaluation ProtocolAmended Evaluation Protocol – February 2017Uploaded: 8 August, 2017 • 766.6 KB - pdfDownload resource Amended Evaluation Protocol – February 2017Statistical Analysis PlanUploaded: 30 July, 2018 • 641.8 KB - pdfDownload resource Statistical Analysis PlanVisible Classroom Evaluation ReportUploaded: 6 September, 2021 • 4.1 MB - pdfDownload resource Visible Classroom Evaluation Report",
+      "content_length": 2896,
+      "project_kind": "evaluation",
+      "quality": {
+        "section_count": 2,
+        "result_characters": 2896,
+        "page_characters": 5772,
+        "has_results": true,
+        "used_fallback": false
+      },
+      "updated_at": "2026-10-27T13:23:12.505Z",
+      "status": "complete",
+      "discovery_source": "independent",
+      "completeness_checked_at": "2026-10-27T13:23:24.599Z",
+      "last_repair_attempt_at": "2026-10-27T13:23:24.599Z",
+      "v19_checked_at": "2026-10-27T13:23:24.599Z",
+      "v192_checked_at": "2026-10-27T13:23:24.599Z"
+    }
+  ]
+}

@@ -29,9 +29,19 @@ class ProgrammeTests(unittest.TestCase):
     def test_render_separates_trial_and_outcome_counts(self):
         result = eef.render_programme(SLUG, self.programme, [], {})
         self.assertIn('[!eef-programme|v2]', result)
-        self.assertIn('2 个评估与推广记录', result)
-        self.assertIn('4 条页面列示结果', result)
-        self.assertIn('1,880／235', result)
+        self.assertEqual(result.count('[!eef-trial]-'), 2)
+        self.assertEqual(result.count('[!eef-subgroups]- 1 项亚组结果'), 2)
+        first, second = result.split('[!eef-trial]-')[1:]
+        self.assertIn('数量推理', first)
+        self.assertNotIn('数学成绩', first)
+        self.assertIn('数学成绩', second)
+        self.assertNotIn('数量推理', second)
+        self.assertNotIn('数据版本', result)
+        self.assertIn('牛津大学', first)
+        self.assertIn('NFER', second)
+        self.assertIn('£77／生／年', first)
+        self.assertIn('£93／生／年', second)
+        self.assertIn('学生 1,880 人；页面学校数 235 所；随机分配学校 226 所', result)
         self.assertNotIn('2,412', result)
         self.assertNotIn('365', result)
         self.assertIn('未达统计显著', result)
@@ -76,6 +86,7 @@ class ProgrammeTests(unittest.TestCase):
                 eef.cmd_import_programmes(args)
                 changed = eef.load_json(database)['programmes'][SLUG]
                 self.assertNotIn('significance', changed['trials'][0]['outcomes'][0])
+                self.assertNotIn('record', changed['trials'][0])
 
     def test_check_is_read_only_and_render_is_idempotent(self):
         with tempfile.TemporaryDirectory() as directory:

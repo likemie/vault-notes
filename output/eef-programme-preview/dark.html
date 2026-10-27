@@ -23887,6 +23887,75 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] * {
   animation: none !important;
 }
+
+/* 每次试验独立归组；总体结果与亚组结果均属于所在试验。 */
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] {
+  border: 0 !important;
+  border-top: 1px solid var(--eef-line) !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+  padding: .85rem 0 .4rem !important;
+  margin-top: 1rem !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-title .callout-title-inner {
+  color: rgb(var(--eef-accent)) !important;
+  font-weight: 650 !important;
+  font-size: .9rem !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-content > ul {
+  display: grid !important;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) !important;
+  gap: .65rem 1.1rem !important;
+  list-style: none !important;
+  padding: .8rem 0 .4rem !important;
+  margin: 0 !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-content > ul > li {
+  border: 0 !important;
+  background: none !important;
+  box-shadow: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  font-size: .77rem !important;
+  line-height: 1.65 !important;
+  color: var(--text-normal) !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-content > ul > li::before,
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-content > ul > li::after {
+  display: none !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-content > ul > li > strong {
+  display: block !important;
+  padding: 0 !important;
+  margin-bottom: .15rem !important;
+  background: none !important;
+  color: var(--eef-muted) !important;
+  font-size: .68rem !important;
+  font-weight: 500 !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout:is([data-callout="eef-outcomes"], [data-callout="eef-subgroups"]) > .callout-content :is(table, table:has(th:nth-child(6))) {
+  min-width: 640px !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout:is([data-callout="eef-outcomes"], [data-callout="eef-subgroups"]) > .callout-content :is(table, table:has(th:nth-child(6))) :is(th, td):nth-child(n+3):nth-child(-n+5) {
+  text-align: right !important;
+  white-space: nowrap !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial-notes"] > .callout-content > ul {
+  padding-left: 1.1rem !important;
+  margin: .5rem 0 !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial-notes"] > .callout-content > ul > li {
+  font-size: .76rem !important;
+  line-height: 1.7 !important;
+  padding: .2rem 0 !important;
+  color: var(--text-normal) !important;
+}
+@media (max-width: 600px) {
+  body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-content > ul {
+    grid-template-columns: minmax(0, 1fr) !important;
+    gap: .55rem !important;
+  }
+}
 </style><body class="theme-dark"><article class="markdown-preview-view markdown-rendered"><h1>1stClass@Number 1</h1><h2>项目背景与目标</h2>
 <div class="callout" data-callout="claim"><div aria-expanded="true" class="callout-title" role="button" tabindex="0"><div class="callout-title-inner">小学二年级的定向数学支持</div></div><div class="callout-content"><p>1stClass@Number 1 面向数学学习需要额外支持的小学二年级学生，以十周<a href="#Small-Group-Tuition">小组辅导</a>补充常规课堂。项目由边山大学（Edge Hill University）的 Every Child Counts 团队开发，英国<a href="#Education-Endowment-Foundation">教育捐赠基金会</a>（Education Endowment Foundation，EEF）开展了两次成效评估。<a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/1stclass-number-1">EEF 项目页</a></p>
 
@@ -23900,7 +23969,7 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 <li><strong>核心问题导向</strong> 支持学生掌握容易产生困难的数概念，结合数学语言与思考活动增进理解。</li>
 </ul>
 </div></div>
-<p>以上信息依据 <a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/1stclass-number-1">EEF 项目页</a>及<a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclass-number1-second-trial">第二次评估摘要</a>，使用 2026-10-27 网页快照。</p>
+<p>以上信息依据 <a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/1stclass-number-1">EEF 项目页</a>及<a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclass-number1-second-trial">第二次评估摘要</a>。</p>
 <h2>方案设计</h2>
 <div class="callout" data-callout="policy-design"><div aria-expanded="true" class="callout-title" role="button" tabindex="0"><div class="callout-title-inner">干预方案</div></div><div class="callout-content">
 
@@ -23942,7 +24011,7 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 <th>项目页影响</th>
 <th>证据阶段</th>
 <th>项目页证据强度</th>
-<th>交付成本</th>
+<th>当前项目页成本</th>
 </tr>
 </thead>
 <tbody>
@@ -23955,49 +24024,25 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </tbody>
 </table>
 <p><strong>成本口径</strong> 约 £93／生／年，按最近试验条件估算并分摊至三年；假定每年实施两组，每组四名学生。现行价格需向提供方核实。</p>
-<p><strong>数据版本</strong> EEF 网页快照 2026-10-27；评估 PDF 阅读情况见正文。</p>
-<div class="callout is-collapsible is-collapsed" data-callout="eef-trials"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">2 个评估与推广记录</div></div><div class="callout-content">
+<p><strong>开发机构</strong> 边山大学（Edge Hill University）的 Every Child Counts 团队</p>
+<p><strong>实施主体</strong> 参与学校，由受训助教交付，校内联络教师协调</p>
+<div class="callout is-collapsible is-collapsed" data-callout="eef-trial"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner"><a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclassnumber">第一次试验</a> · 成效试验</div></div><div class="callout-content">
+
+<ul>
+<li><strong>试验时间</strong> 起止日期未提供；页面完成时间 2018-07</li>
+<li><strong>干预时间</strong> 起止日期未提供；持续 10 周</li>
+<li><strong>独立评估</strong> 牛津大学（University of Oxford）</li>
+<li><strong>样本规模</strong> 学生 532 人；页面学校数 130 所</li>
+<li><strong>教学剂量</strong> 每周 3 次，每次 30 分钟，每组 4 人；项目方案；首次试验的具体课时安排待报告核验。</li>
+<li><strong>培训安排</strong> 助教六个半天；课堂教师两个半天。</li>
+<li><strong>研究拨款</strong> £287,500</li>
+<li><strong>交付成本</strong> £77／生／年，按 3 年摊销</li>
+</ul>
+<div class="callout is-collapsible" data-callout="eef-outcomes"><div aria-expanded="true" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▾</span><div class="callout-title-inner">总体结果</div></div><div class="callout-content">
 
 <table>
 <thead>
 <tr>
-<th>评估</th>
-<th>阶段</th>
-<th>页面所列完成时间</th>
-<th>学生／学校</th>
-<th>结果范围</th>
-<th>页面证据强度</th>
-<th>文件</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclassnumber">第一次试验</a></td>
-<td>成效试验</td>
-<td>2018-07</td>
-<td>532／130</td>
-<td>2 条分组结果</td>
-<td>4/5</td>
-<td><a href="https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/1stClass%40Number_evaluation_report.pdf?v=1793056918">报告</a></td>
-</tr>
-<tr>
-<td><a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclass-number1-second-trial">第二次试验</a></td>
-<td>成效试验</td>
-<td>2026-10</td>
-<td>1,880／235</td>
-<td>2 条分组结果</td>
-<td>4/5</td>
-<td><a href="https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/1stClassNo.1_evaluation-report_v.1.0.0_2025-06-25-173138_pttn.pdf?v=1793026194">报告</a></td>
-</tr>
-</tbody>
-</table>
-</div></div>
-<div class="callout is-collapsible is-collapsed" data-callout="eef-outcomes"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">4 条页面列示结果</div></div><div class="callout-content">
-
-<table>
-<thead>
-<tr>
-<th>评估</th>
 <th>指标</th>
 <th>人群</th>
 <th>额外月数</th>
@@ -24008,7 +24053,6 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </thead>
 <tbody>
 <tr>
-<td><a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclassnumber">第一次试验</a></td>
 <td>数量推理</td>
 <td>全体学生</td>
 <td>+2</td>
@@ -24016,8 +24060,24 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 <td>4/5</td>
 <td>未达统计显著</td>
 </tr>
+</tbody>
+</table>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="eef-subgroups"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">1 项亚组结果</div></div><div class="callout-content">
+
+<table>
+<thead>
 <tr>
-<td><a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclassnumber">第一次试验</a></td>
+<th>指标</th>
+<th>人群</th>
+<th>额外月数</th>
+<th>原始效应量</th>
+<th>结果证据强度</th>
+<th>显著性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
 <td>数量推理</td>
 <td>免费校餐资格学生</td>
 <td>0</td>
@@ -24025,8 +24085,55 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 <td>不适用</td>
 <td>未报告</td>
 </tr>
+</tbody>
+</table>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="eef-trial-notes"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">实施场景与评估资料</div></div><div class="callout-content">
+
+<ul>
+<li><strong>评估资助</strong> EEF 委托与资助评估</li>
+<li><strong>页面项目周期</strong> 2 year(s) 8 month(s)；具体试验起止仍以研究安排为准。</li>
+<li><strong>研究设计</strong> 网页描述了试验对照组；随机分配程序和具体比较安排待报告核验。</li>
+<li><strong>样本特征</strong> 130 所学校中，107 所被评为 Good 或 Outstanding。</li>
+<li><strong>样本特征</strong> 学生中享有 pupil premium 资格的比例为 28%。</li>
+<li><strong>首年学校成本</strong> £1612。</li>
+<li><strong>成本假设</strong> 每年两组，每组四名学生。</li>
+<li><strong>成本未含项目</strong> 不含课堂教师及助教的替岗费用。</li>
+<li><strong>评估资料</strong> <a href="https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Round_8_-_1st_Class_at_Number.pdf?v=1793056918">Evaluation Protocol</a>；附件上传 2017-06-12。</li>
+<li><strong>评估资料</strong> <a href="https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Round_8_-_1st_class_at_number_SAP.pdf?v=1793056918">Statistical Analysis Plan</a>；附件上传 2017-08-25。</li>
+<li><strong>评估资料</strong> <a href="https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/1stClass%40Number_evaluation_report.pdf?v=1793056918">Project Report</a>；附件上传 2018-07-12。</li>
+<li><strong>待核事项</strong> 免费校餐资格亚组的结构化评级为不适用，结论文字称证据安全性低于全样本，两项信息分别保留。</li>
+</ul>
+</div></div>
+<p>月数、原始效应量与评级按各行保留；具体测量时点及未报告信息待评估报告核验。</p>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="eef-trial"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner"><a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclass-number1-second-trial">第二次试验</a> · 成效试验</div></div><div class="callout-content">
+
+<ul>
+<li><strong>试验时间</strong> 起止日期未提供；页面完成时间 2026-10</li>
+<li><strong>干预时间</strong> 起止日期未提供；持续 10 周</li>
+<li><strong>独立评估</strong> NFER</li>
+<li><strong>样本规模</strong> 学生 1,880 人；页面学校数 235 所；随机分配学校 226 所</li>
+<li><strong>教学剂量</strong> 每周 3 次，每次 30 分钟，每组 4 人</li>
+<li><strong>培训安排</strong> 导言写一个整天和四个半天；实施段另写六次培训，计数待核。</li>
+<li><strong>研究拨款</strong> £386,457.59</li>
+<li><strong>交付成本</strong> £93／生／年，按 3 年摊销</li>
+</ul>
+<div class="callout is-collapsible" data-callout="eef-outcomes"><div aria-expanded="true" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▾</span><div class="callout-title-inner">总体结果</div></div><div class="callout-content">
+
+<table>
+<thead>
 <tr>
-<td><a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclass-number1-second-trial">第二次试验</a></td>
+<th>指标</th>
+<th>人群</th>
+<th>额外月数</th>
+<th>原始效应量</th>
+<th>结果证据强度</th>
+<th>显著性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
 <td>数学成绩</td>
 <td>全体学生</td>
 <td>+2</td>
@@ -24034,8 +24141,24 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 <td>4/5</td>
 <td>未报告</td>
 </tr>
+</tbody>
+</table>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="eef-subgroups"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">1 项亚组结果</div></div><div class="callout-content">
+
+<table>
+<thead>
 <tr>
-<td><a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclass-number1-second-trial">第二次试验</a></td>
+<th>指标</th>
+<th>人群</th>
+<th>额外月数</th>
+<th>原始效应量</th>
+<th>结果证据强度</th>
+<th>显著性</th>
+</tr>
+</thead>
+<tbody>
+<tr>
 <td>数学成绩</td>
 <td>免费校餐资格学生</td>
 <td>+2</td>
@@ -24045,23 +24168,36 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </tr>
 </tbody>
 </table>
-<p>月数与原始效应量按页面保留；效应量类型及测量时点待报告核验。各行评级独立显示。</p>
 </div></div>
-<div class="callout is-collapsible is-collapsed" data-callout="eef-errata"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">3 项数据核验说明</div></div><div class="callout-content">
+<div class="callout is-collapsible is-collapsed" data-callout="eef-trial-notes"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">实施场景与评估资料</div></div><div class="callout-content">
 
 <ul>
-<li>学校数口径待核：项目简介写 226 所；第二次评估页样本字段为 235 所。</li>
-<li>完成时间待核：第二次评估页写 2026 年 10 月，评估报告附件上传日期为 2025 年 6 月 25 日。</li>
-<li>首次试验免费校餐资格亚组的结构化评级为不适用，结果说明称该亚组证据安全性低于全样本；两项信息分别保留。</li>
+<li><strong>评估资助</strong> EEF 委托评估，属于英国教育部 Accelerator Fund 的支持安排</li>
+<li><strong>研究设计</strong> 场景段列出随机分配学校 226 所；随机分配程序和分析方法待报告核验。</li>
+<li><strong>样本特征</strong> 73% 的试验学校属于全国免费校餐资格比例最高的 40% 学校。</li>
+<li><strong>样本特征</strong> 91% 位于城市，全国对应比例为 70%。</li>
+<li><strong>样本特征</strong> 学校 KS2 数学达标率均值为 70.4，全国为 73.1。</li>
+<li><strong>学校年均成本</strong> £745，按三年摊销。</li>
+<li><strong>成本假设</strong> 每年两组，每组四名学生。</li>
+<li><strong>评估资料</strong> <a href="https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/1stClassNo.1_evaluation-report_v.1.0.0_2025-06-25-173138_pttn.pdf?v=1793026194">Evaluation report</a>；附件上传 2025-06-25。</li>
+<li><strong>评估资料</strong> <a href="https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EECN_Study_Protocol_OnlineTrainingUpdate_V2.pdf?v=1793026194">Evaluation protocol [v2]</a>；附件上传 2023-12-14。</li>
+<li><strong>评估资料</strong> <a href="https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/1stClass%40Number1_Evaluation-Protocol.pdf?v=1793026194">Evaluation protocol</a>；附件上传 2023-08-23。</li>
+<li><strong>评估资料</strong> <a href="https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/1stClass%40Number1_Statistical-Analysis-Plan.pdf?v=1793026194">Statistical Analysis Plan (SAP)</a>；附件上传 2024-03-27。</li>
+<li><strong>评估资料</strong> <a href="https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/1st%40ClassNo.1_further-appendices_v.1.0.0_2025-06-25-173129_zjgf.pdf?v=1793026194">Further Appendices</a>；附件上传 2025-06-25。</li>
+<li><strong>待核事项</strong> 页面学校字段为 235 所，场景段列出随机分配学校 226 所，两者差额原因待核。</li>
+<li><strong>待核事项</strong> 页面完成时间为 2026 年 10 月，评估报告附件上传日期为 2025 年 6 月 25 日；两项时间含义待核。</li>
+<li><strong>待核事项</strong> 培训次数在导言与实施段的计数表述不同，待核。</li>
 </ul>
+</div></div>
+<p>月数、原始效应量与评级按各行保留；具体测量时点及未报告信息待评估报告核验。</p>
 </div></div>
 </div></div>
 <h3>结果解释与适用范围</h3>
 <p>首次试验的数量推理指标报告整体额外两个月进步，同时明确主要结果未达统计显著。享有<a href="#Free-School-Meals">免费校餐</a>资格的学生（Free School Meals，FSM）在该指标上为零个月额外进步。阶段末数学测验也未检测到相应优势；评估摘要提出，测验敏感度及所覆盖内容的差别可能影响结果。<a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclassnumber">首次评估结论</a></p>
 <p>第二次试验的整体数学成绩对应原始<a href="#Effect-Size">效应量</a> 0.12，FSM 亚组为 0.11，两行均列出额外两个月进步。当前结构化记录没有注明效应量类型，所读摘要未给出各行显著性检验信息，具体分析仍需回查报告。<a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/1stclass-number1-second-trial">第二次评估摘要</a></p>
 <h3>实施条件与证据局限</h3>
-<p>项目简介描述最近试验学校中有 91% 位于城市，全国对应比例为 70%；参与学校的弱势学生比例也较高。学校采用项目时需要比较自身对象与试验场景。简介中的学校数为 226，评估页样本字段则为 235，两个值分别保留，样本口径待核。<a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/1stclass-number-1#nav-were-the-settings-in-the-trials-similar-to-my-setting">EEF 场景说明</a></p>
-<p>此条目依据 <a href="#Education-Endowment-Foundation">EEF</a> 项目页和两次评估页的 2026-10-27 导出快照。两个 PDF 仅作为阅读入口，尚未用于补充研究设计或报告细节。</p>
+<p>项目简介描述最近试验学校中有 91% 位于城市，全国对应比例为 70%；参与学校的弱势学生比例也较高。学校采用项目时需要比较自身对象与试验场景。评估页登记 235 所学校，场景说明明确列出随机分配学校 226 所；两项字段分别保留，差额原因待核。<a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/promising-programmes/1stclass-number-1#nav-were-the-settings-in-the-trials-similar-to-my-setting">EEF 场景说明</a></p>
+<p>资料依据 <a href="#Education-Endowment-Foundation">EEF</a> 项目页及两次评估页。评估 PDF 尚待阅读，具体研究设计与测量时点继续核验。</p>
 <div class="callout" data-callout="entry-map"><div aria-expanded="true" class="callout-title" role="button" tabindex="0"><div class="callout-title-inner">相关条目</div></div><div class="callout-content">
 
 <table>

@@ -27,7 +27,8 @@ def render(theme, expanded):
         title_html, _, body_start = first.decode_contents()[match.end():].partition('\n')
         first.extract()
         block.name = 'div'
-        collapsed = match[3] == '-' and not expanded
+        expanded_here = expanded is True or (expanded == 'first' and (match[1] == 'eef-subgroups' or match[1] == 'eef-trial' and '第一次' in title_html))
+        collapsed = match[3] == '-' and not expanded_here
         block['class'] = ['callout'] + (['is-collapsible'] if match[3] else []) + (['is-collapsed'] if collapsed else [])
         block['data-callout'] = match[1]
         if match[2]: block['data-callout-metadata'] = match[2]
@@ -55,7 +56,7 @@ class Handler(BaseHTTPRequestHandler):
         if parsed.path == '/argument-callouts.css':
             content=CSS.read_bytes(); kind='text/css'
         elif parsed.path == '/content':
-            content=render(q.get('theme',['light'])[0],q.get('expanded',['0'])[0]=='1').encode(); kind='text/html'
+            content=render(q.get('theme',['light'])[0],('first' if q.get('expanded',['0'])[0]=='first' else q.get('expanded',['0'])[0]=='1')).encode(); kind='text/html'
         else:
             width=int(q.get('width',['1060'])[0]); theme=q.get('theme',['light'])[0]; expanded=q.get('expanded',['0'])[0]
             source=f'/content?theme={theme}&expanded={expanded}'

@@ -25,6 +25,7 @@ Subcommands:
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import re
 import sys
@@ -717,6 +718,15 @@ def cmd_import_programmes(args) -> int:
                 "security_total": t.get("evidence_strength_total"),
                 "outcomes": t.get("trial_outcomes", []),
                 "documents": t.get("documents", []),
+                "page_project_duration": mt.get("duration"),
+                "source_digest": hashlib.sha256(json.dumps({
+                    "metrics": mt, "organisation": t.get("organisation"),
+                    "evaluator": ev.group(1).strip() if ev else None,
+                    "documents": [(d_.get("title"), (d_.get("url") or "").split("?", 1)[0], d_.get("uploaded_at")) for d_ in t.get("documents", [])],
+                    "sections": [(s.get("heading"), s.get("metadata"), s.get("text")) for s in t.get("sections", [])],
+                    "programme_sections": [(s.get("heading"), s.get("text")) for s in p.get("sections", [])],
+                    "outcomes": t.get("trial_outcomes", []),
+                }, ensure_ascii=False, sort_keys=True).encode()).hexdigest(),
             })
         trials.sort(key=lambda t: t["completed"] or "9999")
         progs[slug] = {
@@ -735,12 +745,15 @@ def cmd_import_programmes(args) -> int:
     for k, v in progs.items():
         v["entries"] = old.get("programmes", {}).get(k, {}).get("entries", [])
         # Human-reviewed translations and result-specific qualifications survive refreshes.
-        for key in ("cost_note", "review_notes"):
+        for key in ("cost_note", "review_notes", "developer", "delivery_organisation"):
             if key in old.get("programmes", {}).get(k, {}):
                 v[key] = old["programmes"][k][key]
         previous = {(t["url"], o.get("outcome_group")): o
                     for t in old.get("programmes", {}).get(k, {}).get("trials", []) for o in t.get("outcomes", [])}
         for trial in v["trials"]:
+            previous_trial = next((t for t in old.get("programmes", {}).get(k, {}).get("trials", []) if t["url"] == trial["url"]), {})
+            if previous_trial.get("source_digest") == trial["source_digest"] and "record" in previous_trial:
+                trial["record"] = previous_trial["record"]
             for outcome in trial["outcomes"]:
                 reviewed = previous.get((trial["url"], outcome.get("outcome_group")), {})
                 # Invalidate annotations whenever the source result changes.
@@ -821,43 +834,110 @@ def programme_months(value) -> str:
     return f"{value:+g}".replace("+0", "0") if value is not None else "未提供"
 
 
+def programme_outcome_table(outcomes: list[dict], prefix: str) -> list[str]:
+    lines = [prefix + "| 指标 | 人群 | 额外月数 | 原始效应量 | 结果证据强度 | 显著性 |",
+             prefix + "| --- | --- | --- | --- | --- | --- |"]
+    for outcome in outcomes:
+        effect = f"{outcome['effect_size']:g}" if outcome.get("effect_size") is not None else "未提供"
+        rating = programme_rating(outcome.get("security_strength"), outcome.get("security_total"), outcome.get("security_status"))
+        label = esc(outcome.get("label_zh") or outcome.get("outcome_group") or "指标未提供")
+        group = esc(outcome.get("group_zh") or ("亚组" if outcome.get("is_subgroup") else "页面列示人群"))
+        lines.append(f"{prefix}| {label} | {group} | {programme_months(outcome.get('impact_months'))} | {effect} | {rating} | {esc(outcome.get('significance') or '未报告')} |")
+    return lines
+
+
+def programme_date_range(record: dict, prefix: str) -> str:
+    start, end = record.get(prefix + "_start"), record.get(prefix + "_end")
+    if start and end:
+        return f"{start} 至 {end}"
+    if start:
+        return f"始于 {start}；结束时间未提供"
+    if end:
+        return f"结束于 {end}；开始时间未提供"
+    return "起止日期未提供"
+
+
 def render_programme_v2(slug: str, p: dict, errata: list) -> str:
-    """A programme summary, one row per evaluation, then one row per outcome."""
-    trials = p.get("trials", [])
-    outcomes = [(trial, outcome) for trial in trials for outcome in trial.get("outcomes", [])]
+    """Each trial owns its metadata, overall results and subgroup results."""
     impact = f"{programme_months(p['months'])} 个月" if p.get("months") is not None else p.get("impact_label") or "月数未提供"
     cost = f"£{p['cost_per_pupil']:g}" if p.get("cost_per_pupil") is not None else "未提供"
     stage = EVIDENCE_TYPE_ZH.get(p.get("evidence_type"), p.get("evidence_type") or "未提供")
     lines = [f"> [!eef-programme|v2] [{esc(p['name'])}]({p['url']})",
              f"> {PROG_ZH.get(slug, p.get('description') or '')}", ">",
-             "> | 项目页影响 | 证据阶段 | 项目页证据强度 | 交付成本 |",
+             "> | 项目页影响 | 证据阶段 | 项目页证据强度 | 当前项目页成本 |",
              "> | --- | --- | --- | --- |",
              f"> | {esc(impact)} | {esc(stage)} | {programme_rating(p.get('security_rating'), p.get('security_total'))} | {cost} |",
-             ">", f"> **成本口径** {esc(p.get('cost_note') or p.get('cost_context') or '未提供。')}",
-             ">", f"> **数据版本** EEF 网页快照 {p.get('checked_at') or '日期未提供'}；评估 PDF 阅读情况见正文。",
-             ">", f"> > [!eef-trials]- {len(trials)} 个评估与推广记录",
-             "> > | 评估 | 阶段 | 页面所列完成时间 | 学生／学校 | 结果范围 | 页面证据强度 | 文件 |",
-             "> > | --- | --- | --- | --- | --- | --- | --- |"]
-    for t in trials:
-        count = "／".join(f"{t[k]:,}" if t.get(k) is not None else "未提供" for k in ("pupils", "schools"))
-        scope = f"{len(t.get('outcomes', []))} 条分组结果" if t.get("outcomes") else "未提供结果表"
-        kind = "推广" if t.get("kind") == "scale_up" else EVIDENCE_TYPE_ZH.get(t.get("type"), t.get("type") or "阶段未提供")
-        report = f"[报告]({t['report']})" if t.get("report") else "未提供"
-        lines.append(f"> > | [{esc(t['label'])}]({t['url']}) | {esc(kind)} | {t.get('completed') or '未提供'} | {count} | {scope} | {programme_rating(t.get('security_rating'), t.get('security_total'))} | {report} |")
-    if outcomes:
-        lines += [">", f"> > [!eef-outcomes]- {len(outcomes)} 条页面列示结果",
-                  "> > | 评估 | 指标 | 人群 | 额外月数 | 原始效应量 | 结果证据强度 | 显著性 |",
-                  "> > | --- | --- | --- | --- | --- | --- | --- |"]
-        for t, o in outcomes:
-            effect = f"{o['effect_size']:g}" if o.get("effect_size") is not None else "未提供"
-            rating = programme_rating(o.get("security_strength"), o.get("security_total"), o.get("security_status"))
-            label = esc(o.get("label_zh") or o.get("outcome_group") or "指标未提供")
-            group = esc(o.get("group_zh") or ("亚组" if o.get("is_subgroup") else "页面列示人群"))
-            lines.append(f"> > | [{esc(t['label'])}]({t['url']}) | {label} | {group} | {programme_months(o.get('impact_months'))} | {effect} | {rating} | {esc(o.get('significance') or '未报告')} |")
-        lines += ["> >", "> > 月数与原始效应量按页面保留；效应量类型及测量时点待报告核验。各行评级独立显示。"]
+             ">", f"> **成本口径** {esc(p.get('cost_note') or p.get('cost_context') or '未提供。')}"]
+    if p.get("developer"):
+        lines += [">", f"> **开发机构** {esc(p['developer'])}"]
+    if p.get("delivery_organisation"):
+        lines += [">", f"> **实施主体** {esc(p['delivery_organisation'])}"]
+    for trial in p.get("trials", []):
+        r = trial.get("record", {})
+        phase = "推广" if trial.get("kind") == "scale_up" else EVIDENCE_TYPE_ZH.get(trial.get("type"), trial.get("type") or "阶段未提供")
+        study_time = programme_date_range(r, "study") + f"；页面完成时间 {trial.get('completed') or '未提供'}"
+        intervention_time = programme_date_range(r, "intervention")
+        if r.get("intervention_weeks") is not None:
+            intervention_time += f"；持续 {r['intervention_weeks']} 周"
+        pupils = f"{trial['pupils']:,}" if trial.get("pupils") is not None else "未提供"
+        schools = f"{trial['schools']:,}" if trial.get("schools") is not None else "未提供"
+        sample = f"学生 {pupils} 人；页面学校数 {schools} 所"
+        if r.get("schools_randomised") is not None:
+            sample += f"；随机分配学校 {r['schools_randomised']} 所"
+        dose = (f"每周 {r['sessions_per_week']} 次，每次 {r['session_minutes']} 分钟，每组 {r['group_size']} 人"
+                if all(r.get(k) is not None for k in ("sessions_per_week", "session_minutes", "group_size")) else "未核实")
+        if r.get("delivery_scope"):
+            dose += "；" + r["delivery_scope"]
+        trial_cost = (f"£{r['cost_per_pupil_year']:g}／生／年，按 {r['cost_amortisation_years']} 年摊销"
+                      if r.get("cost_per_pupil_year") is not None and r.get("cost_amortisation_years") is not None else "未核实")
+        lines += [">", f"> > [!eef-trial]- [{esc(trial['label'])}]({trial['url']}) · {esc(phase)}",
+                  f"> > - **试验时间** {study_time}",
+                  f"> > - **干预时间** {intervention_time}",
+                  f"> > - **独立评估** {esc(r.get('evaluator_zh') or trial.get('evaluator') or '未提供')}",
+                  f"> > - **样本规模** {sample}",
+                  f"> > - **教学剂量** {dose}",
+                  f"> > - **培训安排** {esc(r.get('training') or '未核实')}",
+                  f"> > - **研究拨款** {esc(trial.get('grant') or '未提供')}",
+                  f"> > - **交付成本** {trial_cost}"]
+        overall = [o for o in trial.get("outcomes", []) if not o.get("is_subgroup")]
+        subgroup = [o for o in trial.get("outcomes", []) if o.get("is_subgroup")]
+        lines += ["> >", "> > > [!eef-outcomes]+ 总体结果"]
+        if overall:
+            lines += ["> > >"] + programme_outcome_table(overall, "> > > ")
+        else:
+            lines += ["> > > 页面未提供结构化总体结果。"]
+        if subgroup:
+            lines += ["> >", f"> > > [!eef-subgroups]- {len(subgroup)} 项亚组结果", "> > >"]
+            lines += programme_outcome_table(subgroup, "> > > ")
+        lines += ["> >", "> > > [!eef-trial-notes]- 实施场景与评估资料"]
+        if r.get("funder"):
+            lines.append(f"> > > - **评估资助** {esc(r['funder'])}")
+        if trial.get("page_project_duration"):
+            lines.append(f"> > > - **页面项目周期** {esc(trial['page_project_duration'])}；具体试验起止仍以研究安排为准。")
+        if r.get("design_note"):
+            lines.append(f"> > > - **研究设计** {esc(r['design_note'])}")
+        for context in r.get("sample_context", []):
+            lines.append(f"> > > - **样本特征** {esc(context)}")
+        if r.get("school_cost_year_one") is not None:
+            lines.append(f"> > > - **首年学校成本** £{r['school_cost_year_one']:g}。")
+        if r.get("school_cost_annual_average") is not None:
+            lines.append(f"> > > - **学校年均成本** £{r['school_cost_annual_average']:g}，按三年摊销。")
+        if r.get("cost_assumption"):
+            lines.append(f"> > > - **成本假设** {esc(r['cost_assumption'])}")
+        if r.get("cost_exclusions"):
+            lines.append(f"> > > - **成本未含项目** {esc(r['cost_exclusions'])}")
+        for document in trial.get("documents", []):
+            title = document.get("title") or "文件"
+            url = document.get("url")
+            if url:
+                date = (document.get("uploaded_at") or "")[:10]
+                lines.append(f"> > > - **评估资料** [{esc(title)}]({url})" + (f"；附件上传 {date}。" if date else ""))
+        for note in r.get("review_notes", []):
+            lines.append(f"> > > - **待核事项** {esc(note)}")
+        lines += ["> >", "> > 月数、原始效应量与评级按各行保留；具体测量时点及未报告信息待评估报告核验。"]
     notes = p.get("review_notes", []) + [e.get("note", "") for e in errata if e.get("programme") == slug]
     if notes:
-        lines += [">", f"> > [!eef-errata]- {len(notes)} 项数据核验说明"]
+        lines += [">", f"> > [!eef-errata]- {len(notes)} 项项目核验说明"]
         lines += [f"> > - {esc(note)}" for note in notes]
     return "\n".join(lines)
 
@@ -919,8 +999,8 @@ updated: 2026-10-27
 ---
 
 %% 样板。正式模块由 EEF 同步脚本生成，不手写。
-   v2 项目总览四列，评估记录与分组结果分开；中文表头直接保存在 Markdown 中。
-   [!eef-programme|v2] 内嵌 [!eef-trials]-、[!eef-outcomes]- 与有事项时的 [!eef-errata]-。
+   v2 项目总览四列；每次试验独立成块，亚组结果嵌套在所属试验内。
+   [!eef-programme|v2] 内嵌 [!eef-trial]-，后者内嵌 [!eef-subgroups]- 与 [!eef-trial-notes]-。
    月数为零与未提供分别显示；结果评级按所在行保留。样本数逐试验显示，跨试验不合计。 %%
 
 """
