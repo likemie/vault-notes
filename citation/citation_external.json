@@ -5080,6 +5080,8 @@
     "Coughlin, 2011": "Coughlin, 2011",
     "Couldry (2003)": "Couldry, 2003",
     "Couldry, 2003": "Couldry, 2003",
+    "Council of the EU (2001)": "Council of the EU, 2001",
+    "Council of the EU, 2001": "Council of the EU, 2001",
     "Courtois & Veiga (2022)": "Courtois & Veiga, 2022",
     "Courtois & Veiga, 2022": "Courtois & Veiga, 2022",
     "Cousin (1930)": "Cousin, 1930",
@@ -6961,7 +6963,9 @@
     "Ertem (2021)": "Ertem, 2021",
     "Ertem, 2021": "Ertem, 2021",
     "Ertl & Phillips (2000)": "Ertl & Phillips, 2000",
+    "Ertl & Phillips (2006)": "Ertl & Phillips, 2006",
     "Ertl & Phillips, 2000": "Ertl & Phillips, 2000",
+    "Ertl & Phillips, 2006": "Ertl & Phillips, 2006",
     "Ertl (2006)": "Ertl, 2006",
     "Ertl, 2006": "Ertl, 2006",
     "Erwin Epstein (1970)": "Erwin Epstein, 1970",
@@ -7049,9 +7053,11 @@
     "European Commission, 2016": "European Commission, 2016",
     "European Commission, 2018": "European Commission, 2018",
     "European Commission, 2021": "European Commission, 2021",
+    "European Council (1997)": "European Council, 1997",
     "European Council (2011a)": "European Council, 2011a",
     "European Council (2011b)": "European Council, 2011b",
     "European Council (2013)": "European Council, 2013",
+    "European Council, 1997": "European Council, 1997",
     "European Council, 2011a": "European Council, 2011a",
     "European Council, 2011b": "European Council, 2011b",
     "European Council, 2013": "European Council, 2013",
@@ -17898,6 +17904,8 @@
     "Pascual et al., 2019": "Pascual et al., 2019",
     "Pasi Sahlberg (2012)": "Pasi Sahlberg, 2012",
     "Pasi Sahlberg, 2012": "Pasi Sahlberg, 2012",
+    "Pasias (2005)": "Pasias, 2005",
+    "Pasias, 2005": "Pasias, 2005",
     "Pasnak (1991)": "Pasnak, 1991",
     "Pasnak (1996)": "Pasnak, 1996",
     "Pasnak, 1991": "Pasnak, 1991",
@@ -63669,6 +63677,21 @@
       ],
       "title": ""
     },
+    "Council of the EU, 2001": {
+      "aliases": [
+        "Council of the EU, 2001",
+        "Council of the EU (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Council of the EU, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/Education and Training 2010.md"
+      ],
+      "title": ""
+    },
     "Courtois & Veiga, 2022": {
       "aliases": [
         "Courtois & Veiga, 2022",
@@ -77445,6 +77468,22 @@
       ],
       "title": ""
     },
+    "Ertl & Phillips, 2006": {
+      "aliases": [
+        "Ertl & Phillips, 2006",
+        "Ertl & Phillips (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ertl & Phillips, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/Copenhagen Process.md",
+        "wiki/facts/eu/Education and Training 2010.md"
+      ],
+      "title": ""
+    },
     "Ertl, 2006": {
       "aliases": [
         "Ertl, 2006",
@@ -77458,6 +77497,7 @@
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md",
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
+        "wiki/facts/eu/Socrates Programme.md",
         "wiki/theories/comparative-education/Three-Level Mechanism Model of PISA's Impact on Education Policy.md"
       ],
       "title": "Educational Standards and the Changing Discourse on Education: The Reception and Consequences of the PISA Study in Germany"
@@ -78097,6 +78137,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/eu/Horizon Europe Missions.md"
+      ],
+      "title": ""
+    },
+    "European Council, 1997": {
+      "aliases": [
+        "European Council, 1997",
+        "European Council (1997)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "European Council, 1997"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/European Employment Strategy.md"
       ],
       "title": ""
     },
@@ -151652,6 +151707,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
+        "wiki/concepts/comparative-education/Technologies of Surveillance.md",
         "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md",
         "wiki/persons/portugal/António Nóvoa.md",
         "wiki/theories/political-economy-geopolitics/Governing at a Distance.md"
@@ -156670,6 +156726,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-policy-reform/Global Education Reform Movement.md"
+      ],
+      "title": ""
+    },
+    "Pasias, 2005": {
+      "aliases": [
+        "Pasias, 2005",
+        "Pasias (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pasias, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Technologies of Surveillance.md"
       ],
       "title": ""
     },

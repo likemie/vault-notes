@@ -9,6 +9,12 @@ summary: "欧盟理事会于 2002 年通过的教育与培训综合合作规划�
 type: fact
 subtype: program
 region: eu
+fact_region: "eu"
+fact_kind: "program"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#ede9fe"
 period: "2002–2010"
 initiator_organization: European Commission
 tags:
@@ -115,13 +121,13 @@ updated: 2026-10-28
 > > 争论聚焦于开放协调法究竟是尊重多样性的自主合作模式，还是侵蚀宪制主权的隐性规训工具。
 > >
 > > - **欧盟官方立场（2001）** 强调规划以国家自愿为基石，完全尊重教育内容与体制的民族多样性。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 491)]]
-> > - **Pasias and Roussakis (2009)** 批判指出软协调实质上是放弃防御型政府间主义，通过指标强光照射建立起事实上的全景敞视监控系统。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 490–493)]]
+> > - **[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]** 批判指出软协调实质上是放弃防御型政府间主义，通过指标强光照射建立起事实上的全景敞视监控系统。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 490–493)]]
 >
 > > [!axis] 实施赤字根源的制度解释分歧
 > > 针对里斯本教育目标未能如期实现的根源，官方技术官僚与政策学者提出了截然不同的归因。
 > >
 > > - **欧委会与理事会报告（2003, 2005）** 归咎于目标覆盖领域过宽、优先级不清晰以及成员国协调意愿不均。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 491)]]
-> > - **Ertl and Phillips (2006)** 强调根源在于各国历史沉淀的制度异质性，统一欧盟指令在落地过程中遭遇了本土多样性的重构与抵触。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 491–492)]]
+> > - **Ertl and Phillips (2006)** 强调根源在于各国历史形成的制度异质性，统一欧盟指令在落地过程中遭遇了本土多样性的重构与抵触。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 491–492)]]
 
 ---
 

@@ -4,9 +4,13 @@ aliases:
   - 真理体制
   - 真理政制
   - regime of truth
-  - regimes of truth
 summary: "米歇尔·福柯提出的权力-知识概念，指特定社会或治理体制中被认可为‘客观真理’的规范知识系统、真假区分技术与话语实践机制；在教育治理中，表现为将质量、竞争力与绩效等特定新自由主义经济教条包装为不证自明的客观准则，从而规训并合法化国家教育改革。"
 type: concept
+domain: "educational-philosophy"
+related_count: 13
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/educational-philosophy
   - foucault
@@ -43,20 +47,20 @@ updated: 2026-10-28
 ---
 
 > [!def] Regimes of Truth
-> **真理体制（Regimes of Truth）**是法国哲学家米歇尔·福柯（Michel Foucault）提炼的核心权力-知识理论构念，指每个社会中由制度、技术与实践支撑的话语网络，规定了哪些知识系统是可接受的、哪些陈述具有“真理”效力，并确立区分真假陈述的标准与规程。在教育政策与比较教育研究中，它被用于解构超国家机构如何将质量、[[Competitiveness|竞争力]]、可就业性与[[Performativity|绩效]]等特定经济意识形态自然化为不容置疑的中立常识，以此控制知识政治并合法化各国的教育重构。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 492–493)]]
+> **真理体制（Regimes of Truth）** 是法国哲学家米歇尔·福柯（Michel Foucault）提炼的核心权力-知识理论构念，指每个社会中由制度、技术与实践支撑的话语网络，规定了哪些知识系统是可接受的、哪些陈述具有“真理”效力，并确立区分真假陈述的标准与规程。在教育政策与比较教育研究中，它被用于解构超国家机构如何将质量、[[Competitiveness|竞争力]]、可就业性与[[Performativity|绩效]]等特定经济意识形态自然化为不容置疑的中立常识，以此控制知识政治并合法化各国的教育重构。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 492–493)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向权力生产真理、真理反哺权力的共生网络，重点在于真理并非独立于社会实践的纯粹认知产物，而是由特定规程维系的制度化效应。
+> - **含义** 指向权力生产真理、真理反哺权力的共生网络，强调真理是植根于社会实践、由特定制度化规程维系与生产的效应。
 > - **用途** 帮助研究者透视看似中立客观的教育改革词汇（如质量保障、基准线、绩效评估）背后的规训实质，揭示其如何排除替代性教育价值。
 > - **边界** 侧重解构宏观到中观的话语与治理合法性机制，不适合直接替代具体的认知心理学真理判别或微观课堂师生互动分析。
 
 > [!citation-card] 关键表述
 > 欧盟的教育话语与实践常被用作米歇尔·福柯所称的‘真理体制’。它们标示出可被接受的知识系统，进而用于知识政治控制以及在国家与欧洲层面合法化教育改革。
 >
-> *The educational discourses and practices of the Union are often used as, what M. Foucault would call, 'regimes of truth'. They indicate acceptable systems of knowledge, which are in turn used for knowledge politics control and the legitimation of educational reforms, at both the national and the European levels.* (Pasias & Roussakis, 2009, p. 480; citing Foucault, 1980, p. 133)
+> *The educational discourses and practices of the Union are often used as, what M. Foucault would call, 'regimes of truth'. They indicate acceptable systems of knowledge, which are in turn used for knowledge politics control and the legitimation of educational reforms, at both the national and the European levels.* ([[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, p. 480]]; citing Foucault, 1980, p. 133)
 
 > [!boundary]- 概念边界
-> - 不等于单纯的意识形态虚假意识（False Consciousness）：真理体制不预设一个被扭曲遮蔽的先验客观实体，而是强调真理本身就在权力场域中被生产和落实，产生实实在在的制度规训效应。
+> - 不等于单纯的意识形态虚假意识（False Consciousness）：真理体制直接聚焦真理在权力场域内部如何被制度化生产、赋予权威并产生实质规训效应，无需预设先验纯粹的客观真理实体。
 > - 不等于单一话语陈述（[[Discourse]]）：话语侧重于语言和符号的表征秩序，而真理体制更强调维系真理生产的一整套制度网络、技术工具、法律规范与制裁机制。
 
 ---

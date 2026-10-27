@@ -2026,6 +2026,18 @@
     ]
   },
   {
+    "title": "Technologies of Surveillance",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Technologies of Surveillance.md",
+    "aliases": [
+      "监视技术",
+      "全景监视技术",
+      "规训监视技术",
+      "surveillance technologies",
+      "technologies of surveillance in education"
+    ]
+  },
+  {
     "title": "Technology Deficit of Education",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Technology Deficit of Education.md",
@@ -5424,6 +5436,16 @@
       "进步教育",
       "progressive education movement",
       "进步主义教育运动"
+    ]
+  },
+  {
+    "title": "Regimes of Truth",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Regimes of Truth.md",
+    "aliases": [
+      "真理体制",
+      "真理政制",
+      "regime of truth"
     ]
   },
   {
@@ -33348,6 +33370,16 @@
     "subtype": "organization"
   },
   {
+    "title": "Copenhagen Process",
+    "type": "fact",
+    "path": "wiki/facts/eu/Copenhagen Process.md",
+    "aliases": [
+      "哥本哈根进程",
+      "Copenhagen Declaration"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Critical Raw Materials Act",
     "type": "fact",
     "path": "wiki/facts/eu/Critical Raw Materials Act.md",
@@ -33415,6 +33447,15 @@
       "EU Chips Act",
       "欧盟芯片法案",
       "European Chips Act of 2023"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "European Employment Strategy",
+    "type": "fact",
+    "path": "wiki/facts/eu/European Employment Strategy.md",
+    "aliases": [
+      "欧洲就业战略"
     ],
     "subtype": "policy"
   },
@@ -33534,6 +33575,18 @@
     "subtype": "program"
   },
   {
+    "title": "Education and Training 2010",
+    "type": "fact",
+    "path": "wiki/facts/eu/Education and Training 2010.md",
+    "aliases": [
+      "教育与培训 2010",
+      "ET 2010",
+      "Education and Training 2010 Programme",
+      "ET2010"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Erasmus Programme",
     "type": "fact",
     "path": "wiki/facts/eu/Erasmus Programme.md",
@@ -33581,6 +33634,19 @@
     "subtype": "program"
   },
   {
+    "title": "Leonardo da Vinci Programme",
+    "type": "fact",
+    "path": "wiki/facts/eu/Leonardo da Vinci Programme.md",
+    "aliases": [
+      "达芬奇计划",
+      "LEONARDO",
+      "LEONARDO Programme",
+      "达·芬奇计划",
+      "达芬奇项目"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Peer-Learning Activities",
     "type": "fact",
     "path": "wiki/facts/eu/Peer-Learning Activities.md",
@@ -33589,6 +33655,17 @@
       "PLA",
       "Peer Learning Activities",
       "欧盟同伴学习活动"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Socrates Programme",
+    "type": "fact",
+    "path": "wiki/facts/eu/Socrates Programme.md",
+    "aliases": [
+      "苏格拉底计划",
+      "Socrates计划",
+      "SOCRATES项目"
     ],
     "subtype": "program"
   },

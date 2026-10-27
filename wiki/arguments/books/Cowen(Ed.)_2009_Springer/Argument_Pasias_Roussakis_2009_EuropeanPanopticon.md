@@ -108,13 +108,13 @@ updated: 2026-10-28
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **全景敞视主义与监视技术**<br>[[Panopticism]] | 借用米歇尔·福柯（Michel Foucault）基于边沁环形监狱构想提炼的微观权力理论，阐明欧盟如何通过数据透明化、指标强光照射与持续同侪评审，构建中央视线隐秘而外周完全暴露的监视网络，迫使成员国主动进行自我审查与政策对标。（pp. 480–481, 492–493） |
-> | **真理体制与治理术**<br>[[Governmentality]] / 真理体制（Regimes of Truth） | 揭示质量、[[Competitiveness\|竞争力]]、可就业性与[[Lifelong Learning\|终身学习]]等政策术语作为欧盟确立的规范知识系统，通过将特定经济学假定自然化为客观常识，促成超国家机构对国家教育治理体系的远距离掌舵。（pp. 480–481, 485, 493） |
+> | **全景敞视主义与监视技术**<br>[[Panopticism]] / [[Technologies of Surveillance\|监视技术]] | 借用米歇尔·福柯（Michel Foucault）基于边沁环形监狱构想提炼的微观权力理论，阐明欧盟如何通过数据透明化、指标强光照射与持续同侪评审，构建中央视线隐秘而外周完全暴露的监视网络，迫使成员国主动进行自我审查与政策对标。（pp. 480–481, 492–493） |
+> | **真理体制与治理术**<br>[[Governmentality]] / [[Regimes of Truth\|真理体制]] | 揭示质量、[[Competitiveness\|竞争力]]、可就业性与[[Lifelong Learning\|终身学习]]等政策术语作为欧盟确立的规范知识系统，通过将特定经济学假定自然化为客观常识，促成超国家机构对国家教育治理体系的远距离掌舵。（pp. 480–481, 485, 493） |
 > | **知识欧洲话语**<br>[[Europe of Knowledge]] | 作为贯穿欧盟宏观政策的话语矩阵与权力-知识图式，界定知识、公民与就业的三维关联，推动教育从公共福利要素转型为全球竞争中的生产性无形资产。（pp. 480, 486–487） |
 > | **辅助性原则与政府间主义演化**<br>[[Subsidiarity Principle]] | 勾勒欧盟教育治理的宪制边界及其突破路径；展现治理逻辑如何从 1990 年代守卫国家主权的防御型政府间主义，转向 2000 年后成员国主动交出监控权的进取型政府间主义与新功能主义外溢。（pp. 481–482, 490–491） |
 
 > [!warrant]- 理论如何支撑论证
-> 福柯的真理体制、[[Governmentality|治理术]]与[[Panopticism|全景敞视]]理论紧密衔接于欧盟教育政策演化历程：真理体制阐明欧盟如何通过白皮书与战略决议确立政策话语的正当性边界；治理术揭示超国家机构如何在缺乏行政强制手段的情境下，依托软性引导促使各成员国自我约束；全景敞视理论则为剖析开放协调法（OMC）的微观运作（指标公布、基准比对、最佳实践排位）提供了解释框架，揭示软法协调实质上构建了隐蔽高效的跨国规训监控网络。（pp. 480–481, 486–487, 492–493）
+> 福柯的[[Regimes of Truth|真理体制]]、[[Governmentality|治理术]]与[[Panopticism|全景敞视]]理论紧密衔接于欧盟教育政策演化历程：真理体制阐明欧盟如何通过白皮书与战略决议确立政策话语的正当性边界；治理术揭示超国家机构如何在缺乏行政强制手段的情境下，依托软性引导促使各成员国自我约束；全景敞视理论则为剖析开放协调法（OMC）的微观运作（指标公布、基准比对、最佳实践排位）提供了解释框架，揭示软法协调实质上构建了隐蔽高效的跨国规训监控网络。（pp. 480–481, 486–487, 492–493）
 
 ---
 
@@ -129,7 +129,7 @@ updated: 2026-10-28
 > |---|---|
 > | **基础条约与理事会结论** | 1992 年《欧洲联盟条约》（Treaty on European Union, TEU，通称《马斯特里赫特条约》）；1997 年卢森堡欧洲理事会主席国结论；2000 年里斯本欧洲理事会主席国结论；2002 年巴塞罗那欧洲理事会结论。 |
 > | **欧盟委员会白皮书与绿皮书** | 1993 年白皮书《增长、竞争力、就业》；1995 年白皮书《教与学：迈向学习型社会》；1993 年绿皮书《教育中的欧洲维度》；1995 年绿皮书《创新》；1996 年绿皮书《信息社会中的生活与工作》；1996 年绿皮书《跨国流动障碍》。 |
-> | **战略与规划文件** | 1997 年《2000 年议程》（Agenda 2000）；1997 年《迈向知识欧洲》；2001 年《让终身学习欧洲区成为现实》；2002 与 2003 年《教育与培训 2010》。 |
+> | **战略与规划文件** | 1997 年《2000 年议程》（Agenda 2000）；1997 年《迈向知识欧洲》；2001 年《让终身学习欧洲区成为现实》；2002 与 2003 年[[Education and Training 2010|《教育与培训 2010》]]。 |
 
 ---
 
@@ -184,7 +184,7 @@ updated: 2026-10-28
 #### 1. 把就业定为硬任务，借结构基金倒逼各国教育服从经济目标
 
 > [!quad-grid] 欧洲就业战略四大支柱对教育功能的重塑
-> 1997 年卢森堡欧洲理事会确立包含四大支柱的欧洲就业战略（European Employment Strategy, EES），直接将各成员国的教育体系纳入就业硬任务考核体系。（pp. 484–485）
+> 1997 年卢森堡欧洲理事会确立包含四大支柱的[[European Employment Strategy|欧洲就业战略]]（European Employment Strategy, EES），直接将各成员国的教育体系纳入就业硬任务考核体系。（pp. 484–485）
 >
 > - **可就业性（[[Employability]]）** 要求教育系统培养劳动者即时契合市场需求的实用技能，强化个人对自身失业风险的直接责任。（pp. 484–485）
 > - **企业家精神（Entrepreneurship）** 将商业精神、冒险意识与自我雇佣倾向纳入各级教育[[21st Century Skills and Competencies Discourse|核心素养]]与课程改革。（pp. 484–485）
@@ -197,7 +197,7 @@ updated: 2026-10-28
 > | 机制维度 | 官方教育网络 | 非正式教育网络 |
 > |---|---|---|
 > | **法律依据** | 《马斯特里赫特条约》（TEU）第 126 与 127 条、欧盟理事会决议与指令。（p. 485） | 欧盟在就业、社会凝聚、流动性与科研领域的跨界权能。（p. 485） |
-> | **载体与项目** | [[Socrates\|SOCRATES]]、LEONARDO、[[TEMPUS]] 行动计划，以及欧洲学分互认体系（European Credit Transfer and Accumulation System, ECTS）、欧洲技能护照（Europass）与[[European Qualifications Framework\|欧洲资格框架]]（European Qualifications Framework, EQF）。（p. 485） | 结构基金条例（德洛尔一期、二期与桑特一揽子计划）以及国家行动计划（National Action Plans, NAPs）。（p. 485） |
+> | **载体与项目** | [[Socrates Programme|SOCRATES]]、[[Leonardo da Vinci Programme|LEONARDO]]、[[TEMPUS]] 行动计划，以及欧洲学分互认体系（European Credit Transfer and Accumulation System, ECTS）、欧洲技能护照（Europass）与[[European Qualifications Framework\|欧洲资格框架]]（European Qualifications Framework, EQF）。（p. 485） | 结构基金条例（德洛尔一期、二期与桑特一揽子计划）以及国家行动计划（National Action Plans, NAPs）。（p. 485） |
 > | **治理方法** | 遵循经典共同体方法（Community Method），由 DG XXII 主导拨款。（p. 485） | 采用早期 [[Open Method of Coordination\|开放协调法]]（OMC），以财政补贴捆绑成员国宏观政策规划。（p. 485） |
 > | **核心目的** | 推动校际合作、学分转换与人员流动，促进初始教育与[[Further Education\|继续教育]]一体化。（p. 485） | 借助财政约束推动成员国经济趋同与政策合规，实质控制国家教育宏观规划。（p. 485） |
 
@@ -227,7 +227,7 @@ updated: 2026-10-28
 #### 1. 各国放弃死守教育主权，自愿签约接受按结果考核
 
 > [!contrast-table] 欧盟教育治理[[Paradigm|范式]]的历史性断裂对比
-> 2000 年里斯本欧洲理事会特别峰会确立“到 2010 年使欧洲成为世界上最具竞争力和活力的知识经济体”的战略目标，彻底重塑了欧盟教育治理范式，标志着其与 20 世纪 90 年代传统原则的历史性断裂。（pp. 488–491）
+> 2000 年里斯本欧洲理事会特别峰会确立“到 2010 年使欧洲成为世界上最具竞争力和活力的知识经济体”的战略目标，推动面向普通教育的里斯本进程、面向职业培训的[[Copenhagen Process|哥本哈根进程]]与面向高等教育的[[Bologna Process|博洛尼亚进程]]共同重塑欧盟教育治理范式，标志着其与 20 世纪 90 年代传统原则的历史性断裂。（pp. 488–491）
 >
 > | 治理特征 | 1990 年代：防御型政府间主义 | 2000 年后：激进政府间主义与新功能主义 |
 > |---|---|---|
@@ -236,13 +236,13 @@ updated: 2026-10-28
 > | **核心治理工具** | 欧洲委员会行动计划、分散的项目资助与共同决策法。（pp. 490–491） | 欧洲理事会领导下的[[Open Method of Coordination\|开放协调法]]（OMC），以共同指标与基准线为核心。（pp. 490–491） |
 > | **评价机制导向** | 关注项目合规性、流动人数与资助款项执行率。（pp. 485, 490） | 实行以结果为导向的掌舵治理（steering by results），开展常态化量化评估与国际横向比对。（pp. 490–492） |
 
-> [!case] 《教育与培训 2010》（Education and Training 2010, ET 2010）与指标基准常设工作组的建立
-> 2001 年教育理事会确立了提高质量与成效、促进全民获取教育培训、向外部世界开放三大战略目标，并在 2002 年通过《教育与培训 2010》（ET 2010）工作规划。该规划依托欧委会于 2003 年设立的指标与基准常设工作组（Standing Group for Indicators and Benchmarks, SGIB），设立了五大欧洲基准线：[[Academic Attrition|早期离校]]率低于 10%、理工科毕业生增加 15%、高中文凭普及率达 85%、低阅读能力比例下降 20%、成年人终身学习参与率达 12.5%，将复杂的国家教育系统拆解为接受全景审查的量化统计指标。（pp. 491–492）
+> [!case] [[Education and Training 2010|《教育与培训 2010》]]（Education and Training 2010, ET 2010）与指标基准常设工作组的建立
+> 2001 年教育理事会确立了提高质量与成效、促进全民获取教育培训、向外部世界开放三大战略目标，并在 2002 年通过[[Education and Training 2010|《教育与培训 2010》]]（ET 2010）工作规划。该规划依托欧委会于 2003 年设立的指标与基准常设工作组（Standing Group for Indicators and Benchmarks, SGIB），设立了五大欧洲基准线：[[Academic Attrition|早期离校]]率低于 10%、理工科毕业生增加 15%、高中文凭普及率达 85%、低阅读能力比例下降 20%、成年人终身学习参与率达 12.5%，将复杂的国家教育系统拆解为接受全景审查的量化统计指标。（pp. 491–492）
 
 #### 2. 数据曝光与同侪施压双管齐下，促使各国在无形凝视下自发看齐
 
 > [!proc] 开放协调法的三重规训技术配置
-> 开放协调法（OMC）直接源于跨国企业的绩效考评程序，其核心是一整套精密的监视技术（technologies of surveillance），在自愿学习与经验共享的修辞掩护下，构筑起覆盖全欧的规训网络。（pp. 492–493）
+> 开放协调法（OMC）直接源于跨国企业的绩效考评程序，其核心是一整套精密的[[Technologies of Surveillance|监视技术]]（technologies of surveillance），在自愿学习与经验共享的修辞掩护下，构筑起覆盖全欧的规训网络。（pp. 492–493）
 >
 > 1. **凝视技术（Technologies of Gazing / Theasis）** 运用指标体系、国家统计表单、雷达图与跨国排位，将各成员国复杂的教育体制转化为高度简化透明的数据表征，置于欧盟层级的强光注视之下。（pp. 487, 492）
 > 2. **绩效技术（Technologies of Performance）** 设立超国家基准指标（Benchmarks）、收集并推广最佳实践（Best Practices）、开展强制性的同行评审（Peer Review），制造跨国横向比较的声誉与[[Peer Pressure|同侪压力]]。（pp. 487, 492）
@@ -268,15 +268,15 @@ updated: 2026-10-28
 > [!stat-cards]- 核心政策历程与数据快照
 > - **1992** 年《马斯特里赫特条约》（TEU）第 126 与 127 条首次赋予欧盟教育补充性权能与职业培训权能。（p. 481）
 > - **1995** 年欧盟委员会正式设立负责教育与培训的第 22 总司（DG XXII）。（p. 482）
-> - **1997** 年卢森堡欧洲理事会确立包含四大支柱的欧洲就业战略（EES）。（p. 484）
+> - **1997** 年卢森堡欧洲理事会确立包含四大支柱的[[European Employment Strategy|欧洲就业战略]]（EES）。（p. 484）
 > - **2000** 年里斯本峰会提出 2010 年建成全球最具竞争力知识经济体目标并确立开放协调法（OMC）。（p. 490）
-> - **5** 项欧洲教育与培训基准线（ET 2010）全面量化早期离校率、理工科毕业生与终身学习参与率。（p. 491）
-> - **3** 重规训监视技术（凝视技术、绩效技术、治理技术）构成现代欧洲全景敞视架构。（p. 492）
+> - **5** 项欧洲教育与培训基准线（[[Education and Training 2010|ET 2010]]）全面量化早期离校率、理工科毕业生与终身学习参与率。（p. 491）
+> - **3** 重规训[[Technologies of Surveillance|监视技术]]（凝视技术、绩效技术、治理技术）构成现代欧洲全景敞视架构。（p. 492）
 
 ---
 
-> [!citation-card] 索邦宣言关于知识欧洲的奠基性陈述
-> 欧洲进程最近迈出了极其重要的步伐。无论这些进展多么重要，都不应让人忘记：欧洲不仅属于欧元、银行和经济，它也必须成为一个知识欧洲。我们必须强化并巩固我们大陆的智识、文化、社会与技术维度。
+> [!citation-card] 索邦宣言关于知识欧洲与博洛尼亚进程的奠基性陈述
+> 作为开启欧洲高等教育[[Bologna Process|博洛尼亚进程]]的基础文献，1999 年《索邦宣言》指出：欧洲进程最近迈出了极其重要的步伐。无论这些进展多么重要，都不应让人忘记：欧洲不仅属于欧元、银行和经济，它也必须成为一个知识欧洲。我们必须强化并巩固我们大陆的智识、文化、社会与技术维度。
 >
 > *The European process has very recently moved some extremely important steps ahead. Relevant as they are, they should not make one forget that Europe is not only that of the Euro, of the banks and the economy: it must be a Europe of knowledge as well. We must strengthen and build upon the intellectual, cultural, social and technical dimensions of our continent.* (Sorbonne Declaration, 1999, p. 1; cited on p. 480)
 
@@ -286,7 +286,7 @@ updated: 2026-10-28
 > *The Community should set firmly and clearly the essential requirements and the long-term objectives for measures and policies in order to make it easier to develop a new model for growth, competitiveness and employment in which education and training play a key role and to ensure essential equality of opportunity and the coherent development of the three dimensions of the European system of education and training.* (European Commission, 1993a, p. 122; cited on p. 483)
 
 > [!citation-card] 开放协调法作为欧洲教育全景敞视的制度载体
-> 在此语境下，直接源自跨国企业绩效考评程序的开放协调法催生了对监视技术的制度需求，以此作为衡量既定目标达标进度的工具……由于标准、指标与基准线均由成员国共同拟定，考评程序亦由其参与制定，成员国便自然接受了外部机构对本国政策规划的介入。在此过程中，各成员国主动将监视与顺从机制植入了社会与教育政策的核心敏感地带……欧洲教育图景逐步被特定的真理体制与知识系统所主导，技术官僚理性被持续引入、再生产并赋予合法性，最终依托治理术与监视技术构建起现代欧洲教育全景敞视体系。
+> 在此语境下，直接源自跨国企业绩效考评程序的开放协调法催生了对[[Technologies of Surveillance|监视技术]]的制度需求，以此作为衡量既定目标达标进度的工具……由于标准、指标与基准线均由成员国共同拟定，考评程序亦由其参与制定，成员国便自然接受了外部机构对本国政策规划的介入。在此过程中，各成员国主动将监视与顺从机制植入了社会与教育政策的核心敏感地带……欧洲教育图景逐步被特定的[[Regimes of Truth|真理体制]]与知识系统所主导，技术官僚理性被持续引入、再生产并赋予合法性，最终依托治理术与监视技术构建起现代欧洲教育全景敞视体系。
 >
 > *In this context, OMC, a process directly drawn from the evaluation procedures of multinational companies for education, creates the need to produce 'technologies of surveillance' as tools for the measurement of progress towards certain defined objectives... Since the member states decide in common the criteria, the indicators and the benchmarks and formulate the evaluative processes, they accept external controls in policy planning. In doing so they incorporate mechanisms of surveillance and conformity in sensitive and critical sectors of social and educational policy... Thus the European educational landscape is gradually dominated by 'regimes of truth' and 'systems of knowledge', which introduce, reproduce and legitimise the technocratic rationale in order to establish a modern European Panopticon based on technologies of governmentality, surveillance and control.* (pp. 492–493)
 

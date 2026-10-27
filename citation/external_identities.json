@@ -22349,6 +22349,14 @@
       ],
       "title": ""
     },
+    "Council of the EU, 2001": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/Education and Training 2010.md"
+      ],
+      "title": ""
+    },
     "Courtois & Veiga, 2022": {
       "doi": "",
       "isbn": "",
@@ -30620,12 +30628,22 @@
       ],
       "title": ""
     },
+    "Ertl & Phillips, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/Copenhagen Process.md",
+        "wiki/facts/eu/Education and Training 2010.md"
+      ],
+      "title": ""
+    },
     "Ertl, 2006": {
       "doi": "10.1080/03054980600976320",
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md",
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
+        "wiki/facts/eu/Socrates Programme.md",
         "wiki/theories/comparative-education/Three-Level Mechanism Model of PISA's Impact on Education Policy.md"
       ],
       "title": "Educational Standards and the Changing Discourse on Education: The Reception and Consequences of the PISA Study in Germany"
@@ -31004,6 +31022,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/eu/Horizon Europe Missions.md"
+      ],
+      "title": ""
+    },
+    "European Council, 1997": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/European Employment Strategy.md"
       ],
       "title": ""
     },
@@ -75711,6 +75737,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
+        "wiki/concepts/comparative-education/Technologies of Surveillance.md",
         "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md",
         "wiki/persons/portugal/António Nóvoa.md",
         "wiki/theories/political-economy-geopolitics/Governing at a Distance.md"
@@ -78733,6 +78760,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-policy-reform/Global Education Reform Movement.md"
+      ],
+      "title": ""
+    },
+    "Pasias, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/Technologies of Surveillance.md"
       ],
       "title": ""
     },
