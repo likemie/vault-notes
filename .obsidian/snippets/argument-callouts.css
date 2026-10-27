@@ -17930,14 +17930,14 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
   max-width: 320px !important;
 }
 
-/* 6 列场景专属黄金列距排布（均衡各列分布，避免长文挤压与末列失衡） */
+/* 6 列场景专属黄金列距排布（强化第 5 列“核心治理机制与政策举措”主导展宽，平滑横向拖拽） */
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) th:nth-child(1),
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(1),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(1),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(1) {
-  width: 145px !important;
-  min-width: 130px !important;
-  max-width: 170px !important;
+  width: 140px !important;
+  min-width: 125px !important;
+  max-width: 165px !important;
   position: sticky;
   left: 0;
   z-index: 2;
@@ -17954,36 +17954,36 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(2),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(2),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(2) {
-  width: 220px !important;
-  min-width: 190px !important;
-  max-width: 260px !important;
+  width: 195px !important;
+  min-width: 170px !important;
+  max-width: 225px !important;
 }
 
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) th:nth-child(3),
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(3),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(3),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(3) {
-  width: 260px !important;
-  min-width: 225px !important;
-  max-width: 310px !important;
+  width: 235px !important;
+  min-width: 205px !important;
+  max-width: 270px !important;
 }
 
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) th:nth-child(4),
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(4),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(4),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(4) {
-  width: 275px !important;
-  min-width: 240px !important;
-  max-width: 325px !important;
+  width: 245px !important;
+  min-width: 215px !important;
+  max-width: 280px !important;
 }
 
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) th:nth-child(5),
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(5),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(5),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(5) {
-  width: 360px !important;
-  min-width: 310px !important;
-  max-width: 440px !important;
+  width: 530px !important;
+  min-width: 470px !important;
+  max-width: 660px !important;
   border-right: 1px solid rgba(68, 92, 120, 0.07);
 }
 
@@ -17991,9 +17991,9 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .callout[data-callout="row-contrast"] table:has(thead th:nth-child(6)) td:nth-child(6),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) th:nth-child(6),
 .callout[data-callout="compare-table"] table:has(thead th:nth-child(6)) td:nth-child(6) {
-  width: 320px !important;
-  min-width: 270px !important;
-  max-width: 390px !important;
+  width: 300px !important;
+  min-width: 260px !important;
+  max-width: 360px !important;
 }
 
 /* 6 列场景取消末行高亮特殊样式（回归常规行展示） */
