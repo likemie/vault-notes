@@ -20,6 +20,7 @@ tags:
   - mechanism-model
   - region/global
 related_concepts:
+  - "[[Global Testing Culture]]"
   - "[[PISA Effect]]"
   - "[[Discourse]]"
   - "[[Externalization]]"
@@ -57,6 +58,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[PISA Response in France]]"
   - "[[PISA Shock in Norway]]"
   - "[[PISA Shock in Sweden]]"
   - "[[Klieme Report]]"
@@ -132,7 +134,7 @@ updated: 2026-10-27
 > - **第一象限：政策指引 × 范围广（全系统重塑）** 经历全[[Social Regime|社会体制]]性震荡，将 PISA 指标直接作为重构国家标准、学制、评价系统与教师培训的完整蓝图。典型国别包括德国、丹麦、瑞士、墨西哥、意大利、土耳其。
 > - **第二象限：政策指引 × 范围小（局部要素对标）** 在局部课程框架、特定学科能力测评或具体评价工具上对标 PISA，未引发全社会体制动荡。典型国别包括卢森堡、斯洛伐克、希腊、西班牙、智利。
 > - **第三象限：政策背书 × 范围广（全社会意识形态论战）** 测评排位引发全民社会震荡与政界广泛讨论，但各方主要将数据作为党派攻防与路线辩护的武器，深植于本土政治分歧。典型国别包括日本、匈牙利。
-> - **第四象限：政策背书 × 范围小（局部利益与政策辩护）** 测评未引发普遍社会危机，被特定政府部门、智库或工会策略性用于局部诉求与特定法案的利益辩护。典型国别包括波兰、英国、苏格兰、法国、澳大利亚、美国、瑞典、加拿大。
+> - **第四象限：政策背书 × 范围小（局部利益与政策辩护）** 测评未引发普遍社会危机，被特定政府部门、智库或工会策略性用于局部诉求与特定法案的利益辩护。典型国别包括波兰、英国、苏格兰、[[PISA Response in France\|法国]]、澳大利亚、美国、瑞典、加拿大。
 
 > [!mechanism-map] 三层机制与二维象限交互图
 > ```mermaid

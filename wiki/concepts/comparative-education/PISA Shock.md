@@ -77,6 +77,7 @@ related_persons:
   - "[[Bob Lingard]]"
   - "[[Michael Gove]]"
 related_facts:
+  - "[[PISA Response in France]]"
   - "[[PISA Shock in Norway]]"
   - "[[PISA Shock in Sweden]]"
   - "[[Klieme Report]]"
@@ -242,7 +243,7 @@ updated: 2026-10-27
 > 探讨外部量化冲击如何促使深植于人文主义或进步主义传统的民族国家调整学理防线，转向[[OECD|经合组织]]倡导的技术标准与产出监测。
 
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]; [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]]
-> **传统哲学辩护的退潮与技术标准吸纳** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，PISA 震荡不仅是一场行政与质量危机，更标志着各自主权国家长期信奉的教育哲学传统面临深刻挑战。无论是德国的洪堡全人教化（[[Bildung]]）、日本的战后宽松教育，还是法国的“文化例外”，面对跨国联赛排名引发的全民名次焦虑，国内政策辩护逐步退潮，转而全盘吸纳经合组织倡导的标准化测试、绩效问责与能力发展指标，展现出跨国数目化软治理对主权国家传统教育观念的深度重塑。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 58–60)]]
+> **传统哲学辩护的退潮与技术标准吸纳** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，PISA 震荡不仅是一场行政与质量危机，更标志着各自主权国家长期信奉的教育哲学传统面临深刻挑战。无论是德国的洪堡全人教化（[[Bildung]]）、日本的战后宽松教育，还是[[PISA Response in France\|法国的“文化例外”与政策背书]]，面对跨国联赛排名引发的全民名次焦虑，国内政策辩护逐步退潮，转而全盘吸纳经合组织倡导的标准化测试、绩效问责与能力发展指标，展现出跨国数目化软治理对主权国家传统教育观念的深度重塑。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, pp. 58–60)]]
 
 ---
 

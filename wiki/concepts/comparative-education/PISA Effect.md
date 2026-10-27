@@ -20,6 +20,7 @@ tags:
   - educational-governance
   - policy-instrumentation
 related_concepts:
+  - "[[Global Testing Culture]]"
   - "[[PISA Shock]]"
   - "[[Governing by Numbers]]"
   - "[[Commensuration]]"
@@ -135,6 +136,7 @@ updated: 2026-10-27
 > |:-----|:-----|:-----|
 > | [[PISA]] | Fact (Global) | 产生该长效治理效应的跨国大型学生评估项目母体。 |
 > | [[PISA Shock]] | Concept | 与 PISA 效应相对立的急性、短周期政治危机与舆论震荡概念。 |
+> | [[Global Testing Culture]] | Concept | 为 PISA 效应提供宏观制度正当性与现代性神话的全球文化环境。 |
 > | [[Governing by Numbers]] | Concept | 支撑 PISA 效应运转的数目化治理与计算理性核心机制。 |
 > | [[Three-Level Mechanism Model of PISA's Impact on Education Policy]] | Theory | 系统阐明 PISA 效应在超国家、国家与行动者网络间传导演化的理论模型。 |
 > | [[European Education Space]] | Concept | PISA 效应在欧洲多国教育治理中推动形成的新型跨国政策空间。 |

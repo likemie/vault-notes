@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "template-fact-eef-programme",
+      "path": "wiki/templates/template-fact-eef-programme.md"
+    },
+    {
+      "basename": "template-eef-programme",
+      "path": "wiki/templates/template-eef-programme.md"
+    },
+    {
+      "basename": "Critique of Meta-analysis",
+      "path": "wiki/concepts/research-methodology/Critique of Meta-analysis.md"
+    },
+    {
       "basename": "Argument_Stone_2020_PolSoc",
       "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
     },
@@ -15,14 +27,6 @@
     {
       "basename": "template-eef",
       "path": "wiki/templates/template-eef.md"
-    },
-    {
-      "basename": "template-eef-programme",
-      "path": "wiki/templates/template-eef-programme.md"
-    },
-    {
-      "basename": "template-fact-eef-programme",
-      "path": "wiki/templates/template-fact-eef-programme.md"
     },
     {
       "basename": "上海市普陀区民政局关于印发《普陀区老龄事业发展“十五五”规划》的通知-上海普陀",
@@ -159,10 +163,6 @@
     {
       "basename": "03-outline",
       "path": "output/global-evidence-education-governance/03-outline.md"
-    },
-    {
-      "basename": "Critique of Meta-analysis",
-      "path": "wiki/concepts/research-methodology/Critique of Meta-analysis.md"
     },
     {
       "basename": "Meta-analysis",
