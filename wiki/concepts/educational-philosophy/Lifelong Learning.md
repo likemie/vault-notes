@@ -230,6 +230,9 @@ updated: 2026-10-26
 > 1. **生命转化向持续自适应的降维** 传统德国教化与启蒙传统中对主体成熟度（Mündigkeit）与全人自由的追求，被简化为个体在[[Cognitive Capitalism|认知资本主义]]市场中应对知识折旧的永恒自适应命令；
 > 2. **可见性全景敞视与自我规训** 教师从引领[[Student Involvement|学生涉入]]文化传统的引路人降格为提供反馈与监控学习成效的数据管理者；终身学习演变为一种全景敞视监控系统（Panopticon），要求受教主体对自身的学习效能持续自我审计与自我优化，消解了教育作为生命破茧与意义生成的根本价值。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 7–10)]]
 
+> [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
+> **终身学习的规训属性与全景敞视式软法监控** 乔治·帕西亚斯（George Pasias）与扬尼斯·鲁萨基斯（Yannis Roussakis）指出，欧盟在“知识欧洲”治理图式下将终身学习重构为贯穿个体全生命周期的规训机制。该政策话语将知识与技能界定为不断折旧且需持续更替的易耗品，要求劳动者不断接受技能认证以维持市场就业能力；更通过开放协调法、量化基准指标与同侪比较压力，构筑起覆盖全欧的“全景敞视建筑”，将终身学习由全人发展的权利异化为跨国技术官僚实施远处治理与持续自我优化的规训装置。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483, 492–493)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
@@ -240,11 +243,11 @@ updated: 2026-10-26
 > | **全周期累积与技能重塑** | 宽基础课程支撑跨生命周期的交叉素养与职业转型 | 破除过早狭隘分科，启动国家长期队列[[Cohort Study\|追踪研究]] | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 30)]] |
 > | **跨国流动与就业风险个体化** | 超国家空间治理将跨国流动工具化吸纳为终身学习核心能力，将劳动力市场结构性动荡个体化为终身流动责任 | 警惕流动话语抽离文化内涵并异化为新自由主义就业规训 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, pp. 362–363)]]; Papatsiba (2005) |
 > | **知识折旧与终身生产力命令** | 学习型经济使静态知识快速折旧，终身学习被重构为掌握实践诀窍（knowing how）、分享创新与维持就业竞争力的生存机制，并由 PISA 将非认知自我规制倾向嵌入义务教育终点测度 | 将教育目的收束于新自由主义人力资本更新与跨国可比排位 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009, pp. 445–447)]]; Foray and Lundvall (1996); [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 26–27, 35)]] |
-> | **学习化异化与全景敞视规训** | 新自由主义与可见学习将教育置换为终身学习，使主体沦为应对[[Knowledge Capitalism\|知识资本主义]]折旧的持续自我优化客体，将教育关系降格为数据监控 | 警惕学习化（learnification）陷阱，重构关涉成熟自由与文化启蒙的教育学主体性 | [[Argument_Larsen_2019_EducSci\|Larsen (2019, pp. 7–10)]]; [[Argument_Biesta_2010_SPE\|Biesta (2010)]] |
+> | **学习化异化与全景敞视规训** | 新自由主义与可见学习将教育置换为终身学习，使主体沦为应对[[Knowledge Capitalism\|知识资本主义]]折旧的持续自我优化客体，将教育关系降格为数据监控 | 警惕学习化（learnification）陷阱，重构关涉成熟自由与文化启蒙的教育学主体性 | [[Argument_Larsen_2019_EducSci\|Larsen (2019, pp. 7–10)]]; [[Argument_Biesta_2010_SPE\|Biesta (2010)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias & Roussakis (2009)]] |
 
 ---
 
-> [!dev-timeline] 50 年概念演变脉络
+> [!dev-timeline] 概念演变
 > - **1970–1980 年代 [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 支持“循环教育与终身学习”** 经合组织教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation, CERI）赞助多项循环教育（recurrent education）与终身学习项目，彼时主要支持成员国社会民主主义福利国家议程，强调教育资源向弱势群体的二次再分配。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 441)]]; Papadopoulos (1994)
 > - **1972 年 [[UNESCO|联合国教科文组织]]《学会生存》报告奠基** 联合国教科文组织（UNESCO）发布《学会生存》（Learning to Be: The World of Education Today and Tomorrow，Faure 报告），首次在国际层面系统确立终身教育理念，强调教育的人本主义属性与个体自由全面发展。
 > - **1996 年 [[Delors Report|德洛尔报告]]确立四大支柱与应对全球化挑战** 联合国教科文组织发布《教育：财富蕴藏其中》（Learning: The Treasure Within，Delors 报告），将终身学习凝练为四大支柱：学会认知（Learning to know）、学会做事（Learning to do）、学会共处（Learning to live together）以及学会生存（Learning to be），并警惕经济全球化与纯粹功利主义可能侵蚀社会连带；但国际多边治理主导权已开始向国际金融机构倾斜。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
@@ -254,6 +257,7 @@ updated: 2026-10-26
 > - **2006 年与 2018 年 [[EU|欧盟]][[21st Century Skills and Competencies Discourse|关键能力]]框架** 欧洲联盟（European Union, EU）发布并更新《终身学习核心素养建议书》（[[EU Key Competences for Lifelong Learning]]），确立了包括科学、数学、数字素养、公民素养及[[Learner Autonomy|自主学习]]在内的八大终身学习关键能力。
 > - **2007 年 欧盟“终身学习计划”（Lifelong Learning Programme, LLP）确立跨国流动支柱** 欧盟正式启动 2007–2013 综合性“终身学习计划”（LLP），将[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）、夸美纽斯计划（COMENIUS）、达芬奇计划（LEONARDO [[Dynamic Assessment|DA]] VINCI）及格伦特维计划（GRUNDTVIG）全面整合；将学生跨国流动（[[Student Mobility|学生流动性]]）确立为获取终身学习素养与提升个体就业胜任力的核心制度载体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 > - **2009 年 — PISA 测评将终身学习前置并嵌入义务教育治理** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]）论证指出，经合组织通过 PISA 测评将终身学习机制前置至 15 岁义务教育阶段；测评不仅脱离了具体国家课程，更系统测查学生的学习动机、[[Self-Efficacy|自我效能感]]与自我规制策略，将青年学生提前塑造为必须终身自负其责、持续自我规制的知识经济主体（pp. 26–27, 35）。
+> - **2009 年 — 全景敞视式软法监控批判解构** 帕西亚斯与鲁萨基斯运用福柯规训理论解构欧盟终身学习话语，揭示知识易耗品化与开放协调法如何将终身学习重塑为全景敞视式软法监控建筑。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483, 492–493)]]
 > - **2020 年代中 数字化、绿色化转型与社会文化基础设施演进** 面对[[Generative Artificial Intelligence|生成式人工智能]]（Artificial Intelligence, AI）颠覆与气候变化危机，[[The Royal Society|英国皇家学会]]（Royal Society, 2026）重塑终身学习[[Construct|构念]]，提出涵盖[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养的交叉素养框架，并将科技馆、探索中心及[[Citizen Science|公民科学]]确立为保障全民终身学习的社会与文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 
 ---
@@ -309,3 +313,4 @@ updated: 2026-10-26
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–447)]] — 阐明[[OECD|经合组织]]如何借由学习型经济理论将终身学习重构为应对知识折旧的经济命令，并依托 [[PISA]] 测查学生的终身学习倾向。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判终身学习在“[[Learnification|学习化]]”（[[Learnification|learnification]]）[[Paradigm|范式]]下的异化，揭示新自由主义与可见学习如何将教育窄化为[[Cognitive Capitalism|认知资本主义]]下的无休止自我优化与[[Panopticism|全景敞视]]监控，消解了作为全人教化与精神自由的启蒙价值（pp. 7–10）。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 阐明经合组织（OECD）如何通过 PISA 测评将终身学习机制前置至 15 岁基础教育阶段，将学习动机与自我效能感等非认知自主规制倾向转化为跨国可比的政策指标，推动欧洲教育空间治理（pp. 26–27, 35）。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯权力-规训理论揭示欧盟如何通过“知识欧洲”与开放协调法将终身学习重塑为全景敞视式软法监控建筑（pp. 483, 492–493）。

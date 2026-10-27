@@ -121,36 +121,33 @@ updated: 2026-10-25
 
 ---
 
-## 核心要素
-
-欧洲教育空间在比较教育学中被解构为数据基建规训、流动性[[Governmentality|治理术]]与民族国家主权防御协同运作的复合体：
-
-```mermaid
-graph TD
-    EES["欧洲教育空间 (European Education Space)<br>超国家教育治理的三维空间建构"]
-    
-    EES --> M1["维度一：数据基础设施与统计规训<br>(Data Infrastructure & Statistical Gaze)"]
-    EES --> M2["维度二：流动网络与社会想象建构<br>(Mobility Networks & Social Imaginary)"]
-    EES --> M3["维度三：主权防线与亲欧修辞借用<br>(Sovereignty Defense & Rhetorical Borrowing)"]
-    
-    M1 --> D1["OECD PISA 数据库与欧盟指标交叠"]
-    M1 --> D2["基准化管理、国别排名与政策同行评议"]
-    M1 --> D3["解释 PISA 研究高度集中于欧洲 (62.4%)"]
-
-    M2 --> S1["ERASMUS / TEMPUS / 终身学习计划"]
-    M2 --> S2["将流动性编码为欧洲公民崇高美德"]
-    M2 --> S3["生产就业能力资本并设立外围文化边界"]
-
-    M3 --> R1["条约保障主权：欧盟教育实为成员国总和"]
-    M3 --> R2["立法前言亲欧修辞沦为改革迟滞托辞"]
-    M3 --> R3["博洛尼亚形式对标掩盖学术近亲繁殖"]
-```
-
 > [!feature] 核心要素
 > - **[[Data Infrastructure|数据基础设施]]与基准化考核** [[OECD]] 与[[EU|欧盟]]委员会长期共享趋同的政策议程，两套数据体系的交叠为成员国教育绩效提供了连续可比的基准图表（[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23, 32–34)]]）。[[PISA]] 成为定义欧洲国家教育健康度的核心量度，使得 62.4% 的 PISA 政策影响实证研究高度集聚在欧洲地区（[[Argument_Li_2025_HSSC|Li et al., 2025]]）。
 > - **跨国流动与象征性公民权** 自 1987 年设立的[[Erasmus Programme|伊拉斯谟计划]]（Erasmus Programme）及其后续框架，不仅资助了数以百万计的大学师生跨国交换，更重构了欧洲公民的心理边界，将跨界求学与多元文化适应力塑造成现代社会最宝贵的个人资产（Papatsiba, 2005; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, p. 362]]）。
 > - **地缘辐射与规范输出网络** 通过[[TEMPUS|天普计划]]，欧洲教育空间向东欧、西巴尔干、北非与中东等伙伴国延伸，输出[[Bologna Process|博洛尼亚进程]]模式与欧洲学分互认系统，在推进外围国家现代化的同时重塑欧洲文明的外部边界（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, p. 363]]）。
 > - **主权保留与政策修辞脱钩** 《马斯特里赫特条约》明确排除超国家机构对教学内容与学制的强制协调。这使成员国在实践中形成了双层策略：对外签署共同倡议以获取一体化合法性，对内则筑牢[[State Educational Sovereignty|国家教育主权]]防线，甚至利用对标欧洲的修辞掩盖国内结构性改革的滞后（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 321–325]]）。
+>
+> > [!logic-map]- 要素关系
+> > ```mermaid
+> > graph TD
+> >     EES["欧洲教育空间 (European Education Space)<br>超国家教育治理的三维空间建构"]
+> >     
+> >     EES --> M1["维度一：数据基础设施与统计规训<br>(Data Infrastructure & Statistical Gaze)"]
+> >     EES --> M2["维度二：流动网络与社会想象建构<br>(Mobility Networks & Social Imaginary)"]
+> >     EES --> M3["维度三：主权防线与亲欧修辞借用<br>(Sovereignty Defense & Rhetorical Borrowing)"]
+> >     
+> >     M1 --> D1["OECD PISA 数据库与欧盟指标交叠"]
+> >     M1 --> D2["基准化管理、国别排名与政策同行评议"]
+> >     M1 --> D3["解释 PISA 研究高度集中于欧洲 (62.4%)"]
+> > 
+> >     M2 --> S1["ERASMUS / TEMPUS / 终身学习计划"]
+> >     M2 --> S2["将流动性编码为欧洲公民崇高美德"]
+> >     M2 --> S3["生产就业能力资本并设立外围文化边界"]
+> > 
+> >     M3 --> R1["条约保障主权：欧盟教育实为成员国总和"]
+> >     M3 --> R2["立法前言亲欧修辞沦为改革迟滞托辞"]
+> >     M3 --> R3["博洛尼亚形式对标掩盖学术近亲繁殖"]
+> > ```
 
 ---
 
