@@ -70,6 +70,7 @@ related_arguments:
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Rambla_2022_Springer]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
+  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
 confidence: high
 status: active
 created: 2026-10-16
@@ -102,12 +103,14 @@ updated: 2026-10-26
 >
 >   - **1992** 签署《马斯特里赫特条约》，确立教育辅助性原则。
 >   - **1999** 欧洲 29 国教育部长签署《[[Bologna Process|博洛尼亚宣言]]》，全面启动[[Bologna Process|博洛尼亚进程]]，致力于构建统一的欧洲高等教育区（EHEA）。
+>   - **1999** 欧盟教育理事会通过关于滚动议程（Rolling Agenda）的决议，确立以信息交流、经验共享与最佳实践辨识为特征的新工作程序，推动传统行动计划向常态化软法协调过渡。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, p. 488)]]
 >
 > - **2000–2010** **[[Lisbon Strategy|里斯本战略]]与[[Open Method of Coordination|开放协调法]]（OMC）时代**
 >
 >   欧盟确立将欧洲建构为“全球最具[[Competitiveness|竞争力]][[Knowledge-Based Economy|知识经济]]体”的战略目标，全面推行开放协调法（Open Method of Coordination, OMC），将量化指标、基准线与同行评议引入各成员国基础与高等教育监测，并与[[OECD|经合组织]]建立跨机构共生同盟。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24, 32–35)]]
 >
 >   - **2000** 发布《里斯本战略》，正式引入开放协调法（OMC）。
+>   - **2002** 确立由“凝视技术”（常设指标工作组）、“绩效技术”（基准线比对与记分牌）与“治理技术”（同行评审与自评）构成的“欧洲教育全景敞视”网络，将国家改革全面纳入超国家量化监控体系。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 488–493)]]
 >   - **2006** 欧洲议会与理事会发布《[[Lifelong Learning|终身学习]][[21st Century Skills and Competencies Discourse|核心素养]]建议书》，确立八项跨国通用关键素养。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, p. 39)]]
 >
 > - **2010 年至今** **欧洲教育区（EEA）与双转型战略**
@@ -155,7 +158,7 @@ updated: 2026-10-26
 > > 争论欧盟教育政策是切实尊重国家主权的自愿协作，还是超国家技术官僚侵蚀教育主权的特洛伊木马。
 > >
 > > - **欧盟委员会与一体化拥护者** 坚称辅助性原则得到了严格遵守，所有基准与最佳实践均属于非强制性指引，旨在帮助成员国应对全球数字化与技术竞争。
-> > - **主权防御学者与批判社会学家** 严正指出，“软治理”实质比强制法令更具穿透力，[[Open Method of Coordination|开放协调法]]通过数据监控与榜单对比施加同伴压力，迫使成员国在不知不觉中交出教育自主权。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 34–35)]]
+> > - **主权防御学者与批判社会学家** 严正指出，“软治理”实质比强制法令更具穿透力，[[Open Method of Coordination|开放协调法]]通过数据监控与榜单对比施加同伴压力，迫使成员国在不知不觉中交出教育自主权。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]; [[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 34–35)]]；帕西亚斯与鲁萨基斯（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009]]）论证，开放协调法与量化基准线构成了精巧的“欧洲教育全景敞视建筑”，通过常设指标工作组的持续数据照射与同行排位，使成员国在无行政惩罚表象下主动将超国家经济指标内化为本国教育规划法则。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–481, 492–493)]]
 >
 > > [!axis] 新自由主义功能主义与民主赤字批评
 > > 批评者指出，欧盟教育议程过度受制于单一市场竞争与[[Knowledge-Based Economy|知识经济]]资本积累逻辑，将复杂的[[National Education|国民教育]]降格为服务于区域经济增长的技能供应链，架空了各成员国地方议会关于教育本质的民主审议。
@@ -178,3 +181,4 @@ updated: 2026-10-26
 > | [[Argument_Rambla_2022_Springer\|Rambla (2022)]] | 论证 | 剖析[[EU Skills Agenda\|欧盟技能议程]]与创新联盟如何通过绩效指标建构区域治理想象的实证文献。 |
 > | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 论证 | 追踪欧盟如何通过 ET 2020、EIPPEE [[Knowledge Mediation\|知识中介]]网络与 Eurydice 推动证据知情教育政策。 |
 > | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证 | 探讨欧洲教育空间中空间实践与学生流动的历史演变。 |
+> | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | 论证 | 运用福柯理论解构欧盟开放协调法，揭示软法协调如何借助指标与基准构建欧洲教育全景敞视建筑。 |

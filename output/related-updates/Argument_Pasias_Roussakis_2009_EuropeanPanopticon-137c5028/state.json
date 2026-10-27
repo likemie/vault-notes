@@ -438,7 +438,7 @@
     },
     {
       "number": 7,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -488,11 +488,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-27T16:50:53.934649+00:00"
     },
     {
       "number": 8,
-      "status": "pending",
+      "status": "done",
       "type": "person",
       "template": "wiki/templates/template-person.md",
       "entries": [
@@ -522,7 +523,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-27T16:55:14.064724+00:00"
     },
     {
       "number": 9,

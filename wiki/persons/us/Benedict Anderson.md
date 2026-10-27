@@ -8,7 +8,7 @@ summary: "爱尔兰裔美国政治学家与东南亚研究权威，康奈尔大�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -46,10 +46,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Xu_2024_CE]]"
+  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-22
+updated: 2026-10-28
 ---
 
 ---
@@ -84,7 +85,7 @@ updated: 2026-10-22
 ---
 
 > [!claim] 核心思想
-> 民族并非自古天然存在的血缘实体，而是在宗教神授秩序解体与印刷资本主义兴起背景下被历史性建构出来的想象政治共同体；通过共享印刷语言与同时性媒介消费，数以百万计素未谋面的陌生人得以建立起深厚的横向同志情谊。卡普与扎米斯卡进一步将其引申为认知政治学命题：正是安德森界定的这种“想象链接”，帮助人类突破了[[Dunbar's Number|邓巴数]]（约 150 人）的面对面社交物理极限，成为组织现代复杂工程、前沿科学攻坚与国家防卫的决定性纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Anderson, 1983/2006, pp. 6–7)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–194)]]
+> 民族是在宗教神授秩序解体与印刷资本主义兴起背景下被历史性建构出来的有限且享有主权的想象政治共同体；通过共享印刷语言与同时性媒介消费，数以百万计素未谋面的陌生人得以建立起深厚的横向同志情谊。卡普与扎米斯卡进一步将其引申为认知政治学命题：正是安德森界定的这种“想象链接”，帮助人类突破了[[Dunbar's Number|邓巴数]]（约 150 人）的面对面社交物理极限，成为组织现代复杂工程、前沿科学攻坚与国家防卫的决定性纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Anderson, 1983/2006, pp. 6–7)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–194)]]
 
 > [!citation-card] 民族作为有限且享有主权的政治想象
 > 最终，民族总是被想象为一种深沉的、横向的同志情谊。正是这种在过去两个世纪中促使数以百万计的人民不仅去屠杀、更心甘情愿为之献出生命的，正是这种有限而神圣的想象。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Anderson, 1983/2006, p. 7)]]
@@ -94,13 +95,14 @@ updated: 2026-10-22
 ---
 
 > [!influence-path] 影响路径
-> - **政治学与比较教育路径** 深刻重塑了民族主义研究的[[Constructivist Paradigm|建构主义范式]]，启发了关于教科书、课程大纲与国家[[Official Knowledge|官方知识]]生产的全球批判性研究。
+> - **政治学与比较教育路径** 深刻重塑了民族主义研究的[[Constructivist Paradigm|建构主义范式]]，启发了关于教科书、课程大纲与国家[[Official Knowledge|官方知识]]生产的全球批判性研究；在超国家区域一体化研究中，安德森的理论被进一步延伸用于分析欧洲联盟如何将教育作为核心文化象征工具，在主权阻滞情境下塑造“欧洲家园”与超国家认同（[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias & Roussakis, 2009, p. 482]]）。
 > - **认知人类学与宏观组织路径** 为解释人类如何跨越[[Dunbar's Number|邓巴数]]认知上限（约 150 人）开展超大规模跨地域协作提供了核心文化分析工具。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–191)]]
 > - **[[Technological Republic|技术共和国]][[Geopolitics|地缘政治]]路径** 卡普与扎米斯卡借用安德森的洞见论证，现代高科技社会与国家防卫不仅需要代码与算法，更需要依赖语言与共享历史叙事所维系的共同体想象；批评后现代去国家化思潮放弃巡守“[[Imagined Community|情感民族]]”边界的战略错误。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Xu_2024_CE|Xu (2024)]] — 运用安德森想象共同体框架，实证解构中国大陆与香港初中历史教材中的领土与族群叙事。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|Karp & Zamiska (2025, Ch. 17)]] — 将安德森想象共同体与邓巴数结合，论述现代高科技攻坚的大规模协同基础及情感民族边界防卫。
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 借用安德森想象共同体理论，剖析欧盟委员会在马斯特里赫特条约危机下如何将教育作为建构“欧洲认同”的象征动员工具。（p. 482）
 
 ---
 
@@ -126,7 +128,7 @@ updated: 2026-10-22
 > > 安东尼·史密斯（Anthony D. Smith）等族群象征主义学者批评安德森过度强调现代印刷媒介的断裂性建构，忽视了前现代族群（ethnie）神话、符号与血缘记忆对现代民族认同的深层连续性制约。
 >
 > > [!axis] [[Imagined Community|情感民族]]守卫 vs 后国家[[Cosmopolitanism|世界主义]]解构
-> > 针对后现代学者利用安德森建构论走向彻底消解国家认同的世界主义倾向，卡普与扎米斯卡指出，揭示共同体的想象性质绝非意味着应当抛弃它；放弃“情感民族”边界将摧毁现代高科技社会赖以生存的大规模信任与防卫[[Hard Power|硬实力]]根基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]
+> > 针对后现代学者利用安德森建构论走向彻底消解国家认同的世界主义倾向，卡普与扎米斯卡指出，共同体的想象属性是维系现代国家超大规模协作的制度基石；放弃“情感民族”边界将摧毁现代高科技社会赖以生存的大规模信任与防卫[[Hard Power|硬实力]]根基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 191–198)]]
 
 ---
 

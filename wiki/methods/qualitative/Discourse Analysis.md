@@ -5,7 +5,7 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 73
+method_related_count: 74
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#dbeafe"
@@ -93,7 +93,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-27
+updated: 2026-10-28
 ---
 
 ---
@@ -203,4 +203,4 @@ updated: 2026-10-27
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用批判政策话语分析解构[[OECD]]自1990年代中期以来的核心政策文本，揭示其如何通过描述性与规范性话语的滑移建构“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，并将性别平权与社会凝聚力重构为经济效率手段。
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 运用政策话语分析系统比对[[Forum on China-Africa Cooperation|中非合作论坛]]行动计划与教育部《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》，剖析[[South-South Cooperation|南南合作]]框架下教育与人力资源开发话语由单向奖学金培训向全面能力合作与跨洲互联互通的演进机制。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 结合费尔克拉夫与科森话语权力理论，解构经合组织官方报告与媒体如何通过技术中立化话语将新自由主义权力关系自然化（p. 423）。
-> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用政策话语分析解构欧盟 1993 至 2007 年标志性官方文本（白皮书、滚动议程、里斯本峰会结论），揭示“就业能力”与“终身学习”等话语如何被建构为服务于新自由主义治理的真理政制。（pp. 479–481, 484–486, 490–492）
+> - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 运用政策话语分析解构欧盟 1993 至 2007 年官方文本，揭示“就业能力”与“终身学习”如何被建构为新自由主义真理政制。（pp. 479–481, 484–486, 490–492）
