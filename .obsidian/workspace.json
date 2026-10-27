@@ -285,6 +285,12 @@
   },
   "active": "b202955323b415b3",
   "lastOpenFiles": [
+    "books/Cowen(Ed.)_2009_Springer/Ch30_Pasias_Roussakis_2009.pdf",
+    "scripts/sedpr1cif",
+    "tests/__pycache__/test_eef_programme.cpython-310.pyc",
+    "raw/alexiadou-rambla-2022-education-policy-governance-and-the-power-of-ideas-in-constructing-the-new-european-education-area.pdf",
+    "wiki/templates/template-fact-eef-programme.md",
+    "wiki/templates/template-eef-programme.md",
     "output/eef-programme-preview/integrated-mobile.jpg",
     "output/eef-programme-preview/integrated-light.jpg",
     "output/eef-programme-preview/before-integration.jpg",
@@ -299,11 +305,9 @@
     "wiki/concepts/sociology-of-education/Dual Hierarchization Principles.md",
     "wiki/concepts/comparative-education/Global Eye and Tutorable Body.md",
     "wiki/theories/comparative-education/OECD Modes of Governance.md",
-    "wiki/templates/template-fact-eef-programme.md",
     "output/eef-programme-preview/trial-layout.png",
     "raw/EEF/EEF_promising_programmes_补充.json",
     "output/eef-programme-design/04-structured-fields.md",
-    "wiki/templates/template-eef-programme.md",
     "wiki/facts/hungary/PISA Response in Hungary.md",
     "wiki/facts/mexico/Alianza por la Calidad de la Educación.md",
     "wiki/facts/france/PISA Response in France.md",
@@ -316,10 +320,7 @@
     "wiki/templates/template-eef.md",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge",
-    "books/Wang_Barabasi_2021_Cambridge/Wang_Barabasi_2021_Cambridge.pdf",
     "books/Wang_Barabasi_2021_Cambridge/Wang_Barabasi_2021_Cambridge.md",
-    "books/Wang_Barabasi_2021_Cambridge",
-    "raw/Wang_Barabasi_2021_Cambridge_txt/manifest.json",
     "wiki/facts/norway/PISA Shock in Norway.md",
     "wiki/facts/sweden/PISA Shock in Sweden.md",
     "wiki/facts/germany/Klieme Report.md",
@@ -329,7 +330,6 @@
     "output/可见的学习课题和案例/_to_delete/xk-114.png",
     "output/可见的学习课题和案例/_to_delete/xk-109.png",
     "output/可见的学习课题和案例/_to_delete/xk-099.png",
-    "output/可见的学习课题和案例/_to_delete/xk-091.png",
-    "output/可见的学习课题和案例/_to_delete/h2-052.png"
+    "output/可见的学习课题和案例/_to_delete/xk-091.png"
   ]
 }

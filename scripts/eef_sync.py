@@ -610,7 +610,7 @@ def cmd_register_external(args) -> int:
 
 # ----------------------------------------------------------------- promising programmes
 PROG_JSON = DATA_DIR / "programmes.json"
-PROG_TEMPLATE = ROOT / "wiki/templates/template-eef-programme.md"
+PROG_TEMPLATE = ROOT / "wiki/templates/template-fact-eef-programme.md"
 PROG_ZH = {
     "1stclass-number-1": "为二年级数学困难学生设计的 10 周小组数学干预。",
     "concept-cat": "面向全班的早期语言概念教学方法。",
@@ -734,7 +734,7 @@ def cmd_import_programmes(args) -> int:
             "months": int(p["months_progress"]) if re.fullmatch(r"[+-]?\d+", p.get("months_progress") or "") else None,
             "evidence_type": p.get("evidence_type"), "tags": p.get("tags", []), "cost_per_pupil": cost,
             "strands": strands, "trial_urls_listed": len(p.get("trial_urls") or []), "trials": trials, "entries": [],
-            "card_version": 2,
+            "card_version": 3,
             "security_rating": p.get("evidence_strength_rating"),
             "security_total": p.get("evidence_strength_total"),
             "impact_label": p.get("impact_label"),
@@ -785,8 +785,8 @@ def programme_checks(p: dict) -> list[str]:
 
 
 def render_programme(slug: str, p: dict, errata: list, titles: dict) -> str:
-    if p.get("card_version") == 2:
-        return render_programme_v2(slug, p, errata)
+    if p.get("card_version") in (2, 3):
+        return render_programme_v3(slug, p, errata)
     tags = " · ".join(TAG_ZH.get(t, t) for t in p["tags"])
     links = []
     for k in p["strands"]:
@@ -834,21 +834,6 @@ def programme_months(value) -> str:
     return f"{value:+g}".replace("+0", "0") if value is not None else "未提供"
 
 
-def programme_outcome_table(outcomes: list[dict], prefix: str) -> list[str]:
-    lines = [prefix + "| 指标 | 人群 | 额外月数 | 原始效应量 | 结果证据强度 | 显著性 |",
-             prefix + "| --- | --- | --- | --- | --- | --- |"]
-    for outcome in outcomes:
-        effect = f"{outcome['effect_size']:g}" if outcome.get("effect_size") is not None else "未提供"
-        rating = programme_rating(outcome.get("security_strength"), outcome.get("security_total"), outcome.get("security_status"))
-        label = esc(outcome.get("label_zh") or outcome.get("outcome_group") or "指标未提供")
-        group = esc(outcome.get("group_zh") or ("亚组" if outcome.get("is_subgroup") else "页面列示人群"))
-        lines.append(f"{prefix}| {label} | {group} | {programme_months(outcome.get('impact_months'))} | {effect} | {rating} | {esc(outcome.get('significance') or '未报告')} |")
-    return lines
-
-
-PENDING = '<span class="eef-pending">待核实</span>'
-
-
 def programme_date_range(record: dict, prefix: str) -> str:
     start, end = record.get(prefix + "_start"), record.get(prefix + "_end")
     if start and end:
@@ -874,94 +859,126 @@ def programme_project_period(trial: dict) -> str | None:
             f"（{years} 年 {months} 个月；起点按周期倒推，{PENDING}）")
 
 
-def render_programme_v2(slug: str, p: dict, errata: list) -> str:
-    """Each trial owns its metadata, overall results and subgroup results."""
-    impact = f"{programme_months(p['months'])} 个月" if p.get("months") is not None else p.get("impact_label") or "月数未提供"
-    cost = f"£{p['cost_per_pupil']:g}" if p.get("cost_per_pupil") is not None else "未提供"
+def _dots(value, total=5, status="ok") -> str:
+    if status == "not_applicable":
+        return "不适用"
+    if value is None:
+        return "未评级"
+    total = total or 5
+    return "●" * value + "○" * (total - value)
+
+
+def _doc_title(title: str) -> str:
+    return {"Evaluation Protocol": "研究方案", "Evaluation protocol": "研究方案", "Evaluation protocol [v2]": "研究方案（修订版）",
+            "Evaluation protocol (amended)": "研究方案（修订版）", "Statistical Analysis Plan": "统计分析计划",
+            "Statistical Analysis Plan (SAP)": "统计分析计划", "Project Report": "评估报告", "Evaluation report": "评估报告",
+            "Further Appendices": "补充附录", "Appendices": "附录"}.get(title, title)
+
+
+def render_programme_v3(slug: str, p: dict, errata: list) -> str:
+    """Compact programme card: four headline figures, a two-column fact table, one collapsible
+    block per trial (facts table + one outcome table, subgroups as indented rows) and all
+    verification notes gathered in a single box at the end."""
+    pend = lambda s: esc(s).replace("待核实", PENDING)
+    impact = f"{programme_months(p['months'])} 个月" if p.get("months") is not None else (p.get("impact_label") or "未提供")
+    cost = f"£{p['cost_per_pupil']:g} /生/年" if p.get("cost_per_pupil") is not None else "未提供"
     stage = EVIDENCE_TYPE_ZH.get(p.get("evidence_type"), p.get("evidence_type") or "未提供")
-    lines = [f"> [!eef-programme|v2] [{esc(p['name'])}]({p['url']})",
+    lines = [f"> [!eef-programme|v3] [{esc(p['name'])}]({p['url']})",
              f"> {PROG_ZH.get(slug, p.get('description') or '')}", ">",
-             "> | 项目页影响 | 证据阶段 | 项目页证据强度 | 每生年成本 |",
-             "> | --- | --- | --- | --- |",
-             f"> | {esc(impact)} | {esc(stage)} | {programme_rating(p.get('security_rating'), p.get('security_total'))} | {cost} |",
-             ">", f"> **成本口径** {esc(p.get('cost_note') or p.get('cost_context') or '未提供。').replace('待核实', PENDING)}"]
-    if p.get("developer"):
-        lines += [">", f"> **开发机构** {esc(p['developer'])}"]
-    if p.get("delivery_organisation"):
-        lines += [">", f"> **实施主体** {esc(p['delivery_organisation'])}"]
+             "> | imp | stage | sec | cost |", "> | --- | --- | --- | --- |",
+             f"> | {esc(impact)} | {esc(stage)} | {_dots(p.get('security_rating'), p.get('security_total'))} | {cost} |"]
+    facts = [("开发机构", p.get("developer")), ("实施主体", p.get("delivery_organisation")),
+             ("成本口径", p.get("cost_note") or p.get("cost_context"))]
+    facts = [(k, v) for k, v in facts if v]
+    if facts:
+        lines += [">", "> | k | v |", "> | --- | --- |"] + [f"> | {k} | {pend(v)} |" for k, v in facts]
+    notes: list[str] = []
     for trial in p.get("trials", []):
         r = trial.get("record", {})
+        label = esc(trial["label"])
         phase = "推广" if trial.get("kind") == "scale_up" else EVIDENCE_TYPE_ZH.get(trial.get("type"), trial.get("type") or "阶段未提供")
-        study_time = programme_date_range(r, "study") + f"；页面完成时间 {trial.get('completed') or PENDING}"
-        project_period = programme_project_period(trial)
-        intervention_time = programme_date_range(r, "intervention")
-        if r.get("intervention_weeks") is not None:
-            intervention_time += f"；持续 {r['intervention_weeks']} 周"
-        pupils = f"{trial['pupils']:,}" if trial.get("pupils") is not None else "未提供"
-        schools = f"{trial['schools']:,}" if trial.get("schools") is not None else "未提供"
-        sample = f"学生 {pupils} 人；页面学校数 {schools} 所"
-        if r.get("schools_randomised") is not None:
-            sample += f"；随机分配学校 {r['schools_randomised']} 所"
-        dose = (f"每周 {r['sessions_per_week']} 次，每次 {r['session_minutes']} 分钟，每组 {r['group_size']} 人"
-                if all(r.get(k) is not None for k in ("sessions_per_week", "session_minutes", "group_size")) else "未核实")
-        if r.get("delivery_scope"):
-            dose += "；" + r["delivery_scope"].replace("待核实", PENDING)
-        trial_cost = (f"£{r['cost_per_pupil_year']:g}／生／年，按 {r['cost_amortisation_years']} 年摊销"
-                      if r.get("cost_per_pupil_year") is not None and r.get("cost_amortisation_years") is not None else "未核实")
-        if r.get("school_cost_year_one") is not None:
-            trial_cost += f"；学校首年 £{r['school_cost_year_one']:,.0f}"
-        if r.get("school_cost_annual_average") is not None:
-            trial_cost += f"；学校年均 £{r['school_cost_annual_average']:g}"
-        if r.get("cost_exclusions"):
-            trial_cost += "；" + r["cost_exclusions"]
-        evaluator = esc(r.get('evaluator_zh') or trial.get('evaluator') or '未提供')
-        if r.get('evaluator_url'):
+        summary = [phase]
+        if trial.get("completed"):
+            summary.append(f"完成 {trial['completed']}")
+        if trial.get("pupils"):
+            summary.append(f"{trial['pupils']:,} 名学生")
+        if trial.get("months") is not None:
+            summary.append(f"{programme_months(trial['months'])} 个月")
+        rows = []
+        # time
+        period = programme_project_period(trial)
+        when = []
+        if period:
+            when.append("项目周期 " + period)
+        study = programme_date_range(r, "study")
+        if study != PENDING or not period:
+            when.append("试验 " + study)
+        iv = programme_date_range(r, "intervention")
+        when.append("干预 " + iv + (f"，共 {r['intervention_weeks']} 周" if r.get("intervention_weeks") is not None else ""))
+        rows.append(("时间", "；".join(when)))
+        evaluator = esc(r.get("evaluator_zh") or trial.get("evaluator") or "未提供")
+        if r.get("evaluator_url"):
             evaluator = f"[{evaluator}]({r['evaluator_url']})"
-        lines += [">", f"> > [!eef-trial]- [{esc(trial['label'])}]({trial['url']}) · {esc(phase)}",
-                  *([f'> > - **项目周期** <span class="eef-period">{project_period}</span>'] if project_period else []),
-                  f"> > - **试验时间** {study_time if not project_period else programme_date_range(r, 'study')}",
-                  f"> > - **干预时间** {intervention_time}",
-                  f"> > - **独立评估** {evaluator}"]
-        if r.get("design_note"):
-            lines.append(f"> > - **研究设计** {esc(r['design_note']).replace('待核实', PENDING)}")
-        lines.append(f"> > - **样本规模** {sample}")
+        rows.append(("评估", evaluator + (f"；{pend(r['design_note'])}" if r.get("design_note") else "")))
+        sample = []
+        if trial.get("pupils") is not None:
+            sample.append(f"学生 {trial['pupils']:,} 人")
+        if trial.get("schools") is not None:
+            sample.append(f"页面学校数 {trial['schools']:,} 所")
+        if r.get("schools_randomised") is not None:
+            sample.append(f"随机分配学校 {r['schools_randomised']} 所")
+        text = "；".join(sample) or "未提供"
         if r.get("sample_context"):
-            context = "<br>".join(esc(value) for value in r["sample_context"])
-            lines.append(f'> > - **样本特征** <span class="eef-context">{context}</span>')
-        lines += [f"> > - **教学剂量** {dose}",
-                  f"> > - **培训安排** {esc(r.get('training') or '未核实')}",
-                  f"> > - **研究拨款** {esc(trial.get('grant') or '未提供')}",
-                  f"> > - **交付成本** {trial_cost}"]
-        overall = [o for o in trial.get("outcomes", []) if not o.get("is_subgroup")]
-        subgroup = [o for o in trial.get("outcomes", []) if o.get("is_subgroup")]
-        lines += ["> >", "> > > [!eef-outcomes]+ 总体结果"]
-        if overall:
-            lines += ["> > >"] + programme_outcome_table(overall, "> > > ")
-        else:
-            lines += ["> > > 页面未提供结构化总体结果。"]
-        if subgroup:
-            lines += ["> >", f"> > > [!eef-subgroups]- {len(subgroup)} 项亚组结果", "> > >"]
-            lines += programme_outcome_table(subgroup, "> > > ")
-        documents = []
-        for document in trial.get("documents", []):
-            title = document.get("title") or "文件"
-            title = {"Evaluation Protocol": "研究方案", "Evaluation protocol": "研究方案",
-                     "Evaluation protocol [v2]": "研究方案（修订版）", "Statistical Analysis Plan": "统计分析计划",
-                     "Statistical Analysis Plan (SAP)": "统计分析计划", "Project Report": "评估报告",
-                     "Evaluation report": "评估报告", "Further Appendices": "补充附录"}.get(title, title)
-            url = document.get("url")
-            if url:
-                date = (document.get("uploaded_at") or "")[:10]
-                documents.append(f"[{esc(title)}]({url})" + (f"（{date} 上传）" if date else ""))
-        if documents:
-            lines += ["> >", '> > <span class="eef-documents">**研究资料** ' + " · ".join(documents) + '</span>']
-        for note in r.get("review_notes", []):
-            lines += ["> >", f'> > <span class="eef-note">{PENDING} {esc(note)}</span>']
-
-    notes = p.get("review_notes", []) + [e.get("note", "") for e in errata if e.get("programme") == slug]
+            text += "<br>" + "<br>".join(esc(v) for v in r["sample_context"])
+        rows.append(("样本", text))
+        if all(r.get(k) is not None for k in ("sessions_per_week", "session_minutes", "group_size")):
+            dose = f"每周 {r['sessions_per_week']} 次 × {r['session_minutes']} 分钟，每组 {r['group_size']} 人"
+            if r.get("delivery_scope"):
+                dose += "；" + pend(r["delivery_scope"])
+            rows.append(("剂量", dose))
+        if r.get("training"):
+            rows.append(("培训", pend(r["training"])))
+        money = []
+        if trial.get("grant"):
+            money.append(f"研究拨款 {esc(trial['grant'])}")
+        if r.get("cost_per_pupil_year") is not None:
+            c = f"交付 £{r['cost_per_pupil_year']:g}/生/年"
+            if r.get("cost_amortisation_years") is not None:
+                c += f"（{r['cost_amortisation_years']} 年摊销）"
+            money.append(c)
+        if r.get("school_cost_year_one") is not None:
+            money.append(f"学校首年 £{r['school_cost_year_one']:,.0f}")
+        if r.get("school_cost_annual_average") is not None:
+            money.append(f"学校年均 £{r['school_cost_annual_average']:g}")
+        if r.get("cost_exclusions"):
+            money.append(esc(r["cost_exclusions"]))
+        if money:
+            rows.append(("经费", "；".join(money)))
+        docs = []
+        for d_ in trial.get("documents", []):
+            if d_.get("url"):
+                docs.append(f"[{esc(_doc_title(d_.get('title') or '文件'))}]({d_['url']})")
+        if docs:
+            rows.append(("资料", " · ".join(docs)))
+        lines += [">", f"> > [!eef-trial]- [{label}]({trial['url']}) · " + " · ".join(summary),
+                  "> > | k | v |", "> > | --- | --- |"] + [f"> > | {k} | {v} |" for k, v in rows]
+        outcomes = sorted(trial.get("outcomes", []), key=lambda o: bool(o.get("is_subgroup")))
+        if outcomes:
+            lines += ["> >", "> > | out | grp | imp | es | sec | sig |", "> > | --- | --- | --- | --- | --- | --- |"]
+            for o in outcomes:
+                grp = esc(o.get("group_zh") or ("亚组" if o.get("is_subgroup") else "全体学生"))
+                if o.get("is_subgroup"):
+                    grp = "↳ " + grp
+                es = f"{o['effect_size']:g}" if o.get("effect_size") is not None else "未提供"
+                lines.append(f"> > | {esc(o.get('label_zh') or o.get('outcome_group') or '指标未提供')} | {grp} | "
+                             f"{programme_months(o.get('impact_months'))} | {es} | "
+                             f"{_dots(o.get('security_strength'), o.get('security_total'), o.get('security_status'))} | {esc(o.get('significance') or '未报告')} |")
+        notes += [f"**{label}** {esc(n)}" for n in r.get("review_notes", [])]
+    notes = [esc(n) for n in p.get("review_notes", [])] + notes
+    notes += [esc(e.get("note", "")) for e in errata if e.get("programme") == slug]
+    notes += programme_checks(p)
     if notes:
-        lines += [">", f"> > [!eef-errata]- {len(notes)} 项项目核验说明"]
-        lines += [f"> > - {esc(note)}" for note in notes]
+        lines += [">", f"> > [!eef-errata]- {len(notes)} 项待核实"] + [f"> > - {n}" for n in notes]
     return "\n".join(lines)
 
 
@@ -1007,27 +1024,15 @@ def cmd_render_programmes(args) -> int:
 
 
 def cmd_template_programme(args) -> int:
+    """把指定项目的真实卡片写进 Program 模板的「成效评估」节，作为样板。"""
     data = load_json(PROG_JSON, None)
     titles = {e["title"] for e in load_json(WIKI_INDEX, [])}
     p = data["programmes"][args.slug]
-    head = f"""---
-title: template-eef-programme
-aliases: []
-summary: "EEF 有望项目卡片样式样板，以 {p['name']} 的真实数据演示"
-type: template
-tags: []
-status: active
-created: 2026-10-27
-updated: 2026-10-27
----
-
-%% 样板。正式模块由 EEF 同步脚本生成，不手写。
-   v2 项目总览四列；每次试验独立成块，亚组结果嵌套在所属试验内。
-   [!eef-programme|v2] 内嵌 [!eef-trial]-，后者内嵌 [!eef-subgroups]-；研究设计与样本特征并入试验字段，资料链接置于底部。
-   月数为零与未提供分别显示；结果评级按所在行保留。样本数逐试验显示，跨试验不合计。 %%
-
-"""
-    PROG_TEMPLATE.write_text(head + render_programme(args.slug, p, load_json(ERRATA_JSON, []), titles) + "\n", encoding="utf-8")
+    card = render_programme(args.slug, p, load_json(ERRATA_JSON, []), titles)
+    text = PROG_TEMPLATE.read_text(encoding="utf-8")
+    if not PROGRAMME_BLOCK_RE.search(text):
+        print("模板中未找到 [!eef-programme] 卡片位置"); return 1
+    PROG_TEMPLATE.write_text(PROGRAMME_BLOCK_RE.sub(lambda m: card.rstrip("\n") + "\n", text, count=1), encoding="utf-8")
     print(f"wrote {PROG_TEMPLATE.relative_to(ROOT)}")
     return 0
 
