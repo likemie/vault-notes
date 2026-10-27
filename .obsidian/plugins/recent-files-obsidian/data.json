@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "PISA",
+      "path": "wiki/facts/global/PISA.md"
+    },
+    {
       "basename": "Argument_Xie_Li_Huang_2021_GEO",
       "path": "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md"
+    },
+    {
+      "basename": "Xie_Li_Huang_2021_GEO",
+      "path": "sources/Xie_Li_Huang_2021_GEO/Xie_Li_Huang_2021_GEO.md"
     },
     {
       "basename": "António Nóvoa",
@@ -149,10 +157,6 @@
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Steiner-Khamsi_2024_CE.md"
     },
     {
-      "basename": "PISA",
-      "path": "wiki/facts/global/PISA.md"
-    },
-    {
       "basename": "01-evidence-map",
       "path": "output/global-evidence-education-governance/01-evidence-map.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Justified Warrants",
       "path": "wiki/concepts/research-methodology/Justified Warrants.md"
-    },
-    {
-      "basename": "Blackstone's Ratio",
-      "path": "wiki/concepts/ethics-of-technology/Blackstone's Ratio.md"
     }
   ],
   "omittedPaths": [],
