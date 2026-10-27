@@ -920,7 +920,8 @@
         "European Commission",
         "欧盟委员会",
         "欧洲联盟委员会",
-        "欧委会"
+        "欧委会",
+        "EC"
       ]
     },
     "Eurydice": {
@@ -2802,6 +2803,13 @@
         "wiki/facts/russia/Federal Law No. 85-FZ on Enlightenment Activities.md"
       ]
     },
+    "欧洲议会与欧盟理事会（European Parliament and Council of the European Union）": {
+      "seen_in": [
+        "wiki/facts/eu/Critical Raw Materials Act.md",
+        "wiki/facts/eu/European Qualifications Framework.md",
+        "wiki/facts/eu/Horizon Europe.md"
+      ]
+    },
     "Department for Science, Innovation and Technology": {
       "seen_in": [
         "wiki/facts/uk/Government Office for Science.md",
@@ -2830,12 +2838,6 @@
       "seen_in": [
         "wiki/facts/china/Double First-Class Initiative.md",
         "wiki/facts/china/Made in China 2025.md"
-      ]
-    },
-    "欧洲议会与欧盟理事会（European Parliament and Council of the European Union）": {
-      "seen_in": [
-        "wiki/facts/eu/Critical Raw Materials Act.md",
-        "wiki/facts/eu/Horizon Europe.md"
       ]
     },
     "美国司法部（U.S. Department of Justice）": {
@@ -3387,11 +3389,6 @@
     "杜伦大学教育证据中心（Durham University Evidence Centre for Education）": {
       "seen_in": [
         "wiki/facts/uk/Feedback Action Research Trial.md"
-      ]
-    },
-    "欧洲议会与欧盟理事会": {
-      "seen_in": [
-        "wiki/facts/eu/European Qualifications Framework.md"
       ]
     },
     "法国国民教育部": {

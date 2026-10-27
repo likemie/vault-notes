@@ -5,7 +5,7 @@ aliases:
   - General Agreement on Trade in Services
   - 服务贸易总协定
   - 教育服务贸易
-summary: "WTO 框架下将高等教育等公共服务纳入全球多边贸易规约的制度安排。通过跨境交付、境外消费、商业存在与自然人流动四种模式推进教育商品化与市场准入，构建了教育多标度治理矩阵，深刻重塑了高等教育国际化理性与国家教育主权。"
+summary: "WTO 框架下将高等教育等公共服务纳入全球多边贸易规则体系的制度安排。通过跨境交付、境外消费、商业存在与自然人流动四种模式推进教育商品化与市场准入，构建了教育多标度治理矩阵，深刻重塑了高等教育国际化理性与国家教育主权。"
 type: fact
 subtype: policy
 region: global
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-26
+updated: 2026-10-28
 ---
 
 ---
@@ -118,7 +118,7 @@ updated: 2026-10-26
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 核心推动联盟** 欧美主要教育出口国（美、英、澳、新）政府与跨国高等教育企业。通过 GATS 确立全球教育市场通道，将留学生教育作为赚取巨额外汇和科研资金的核心战略产业。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 > - **高权力 · 低利益 / [[Strategic Autonomy|战略自主]]方 — 发展中战略大国** 如中国、印度等。虽面临教育主权开放压力，但依托庞大国内市场和较强国家能力，主动对接规则以吸引外资办学并倒逼国内高教现代化改革，保持了较强的战略主动性。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
-> - **低权力 · 高利益（受损方） — 脆弱边缘小国与公共教育联盟** 牙买加、尼加拉瓜等加勒比和拉美边缘国家，在外部金融压力与 [[World Trade Organization|WTO]] 规约下丧失教育宏观调控权；同时，全球教师工会联合会（[[Education International]]）与第三世界公立学校师生，面临公共经费萎缩与[[Educational Privatisation|教育私有化]]冲击。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
+> - **低权力 · 高利益（受损方） — 脆弱边缘小国与公共教育联盟** 牙买加、尼加拉瓜等加勒比和拉美边缘国家，在外部金融压力与 [[World Trade Organization|WTO]] 贸易规则下丧失教育宏观调控权；同时，全球教师工会联合会（[[Education International]]）与第三世界公立学校师生，面临公共经费萎缩与[[Educational Privatisation|教育私有化]]冲击。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 > - **低权力 · 低利益 — 偏远弱势群体** 边缘地区农村贫困家庭，既无力消费昂贵的跨国教育服务，又因国家财政向重点院校与商业机制倾斜而遭受进一步边缘化。
 
 > [!tension]- 联盟结构与冲突
@@ -160,7 +160,7 @@ updated: 2026-10-26
 > > [!axis] 中心大国战略机动性 vs 边缘小国宏观主权沦丧
 > > 争论 GATS 对主权国家调控教育能力的非对称冲击。
 > >
-> > - **[[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 深刻论证，GATS 带来了极不平等的主权侵蚀：大国能够主动利用规则提升[[Competitiveness|国家竞争力]]，而牙买加、尼加拉瓜等经济体量弱小的国家则在世贸规约面前彻底丧失了宏观调控教育与维护国民福利的能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
+> > - **[[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 深刻论证，GATS 带来了极不平等的主权侵蚀：大国能够主动利用规则提升[[Competitiveness|国家竞争力]]，而牙买加、尼加拉瓜等经济体量弱小的国家则在世贸规则面前彻底丧失了宏观调控教育与维护国民福利的能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 
 > [!citation-card] 代表性评论
 > 语言和文本可以创造、转变或维系意识形态。在服务贸易总协定的案例中，这种意识形态反映了一种新帝国主义——更强大的国家将发展中国家保留为市场，并在其中继续在智识上进行统治。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, p. 97, citing Collins, 2007, p. 283)]]
