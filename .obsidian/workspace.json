@@ -68,18 +68,13 @@
             }
           },
           {
-            "id": "85560c43055928d4",
+            "id": "cb1ac69d0707e996",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Argument_Xie_Li_Huang_2021_GEO"
+              "title": "新标签页"
             }
           }
         ],
@@ -288,8 +283,12 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "85560c43055928d4",
+  "active": "cb1ac69d0707e996",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md",
+    "file:/Users/shaoyangwu/Downloads/data-f42d5409-84c3-4470-a77a-0759d3fd2426-1782823498-b319b966-batch-0000/Claude_Backup_Export/projects/个人信息填写_019e8678/Project_Details.md",
+    "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
+    "sources/Xie_Li_Huang_2021_GEO/extracted_fulltext.txt",
     "wiki/templates/template-eef.md",
     "wiki/templates/template-eef-programme.md",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md",
@@ -303,7 +302,6 @@
     "raw/Wang_Barabasi_2021_Cambridge_txt/Ch21_Can_Science_Be_Accelerated.txt",
     "raw/Wang_Barabasi_2021_Cambridge_txt/Ch20_Ultimate_Impact.txt",
     "raw/Wang_Barabasi_2021_Cambridge_txt/Ch19_The_Time_Dimension_of_Science.txt",
-    "raw/Wang_Barabasi_2021_Cambridge_txt/Ch18_Scientific_Impact.txt",
     "wiki/facts/norway/PISA Shock in Norway.md",
     "wiki/facts/sweden/PISA Shock in Sweden.md",
     "wiki/facts/germany/Klieme Report.md",
@@ -332,9 +330,6 @@
     "output/可见的学习课题和案例/_to_delete/pg-003.png",
     "output/可见的学习课题和案例/_to_delete/pg-002.png",
     "output/可见的学习课题和案例/_to_delete/pg-001.png",
-    "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
-    "sources/Xie_Li_Huang_2021_GEO/Xie_Li_Huang_2021_GEO.md",
-    "tmp/_preview/template-eef-programme.md",
-    "wiki/persons/portugal/António Nóvoa.md"
+    "sources/Xie_Li_Huang_2021_GEO/Xie_Li_Huang_2021_GEO.md"
   ]
 }
