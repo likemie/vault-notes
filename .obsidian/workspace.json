@@ -38,18 +38,18 @@
             }
           },
           {
-            "id": "cb1ac69d0707e996",
+            "id": "5b4080ee3d417019",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "file:/Users/shaoyangwu/Downloads/data-f42d5409-84c3-4470-a77a-0759d3fd2426-1782823498-b319b966-batch-0000/Claude_Backup_Export/projects/个人信息填写_019e8678/Project_Details.md",
-                "mode": "source",
+                "file": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Project_Details"
+              "title": "Argument_Pasias_Roussakis_2009_EuropeanPanopticon"
             }
           }
         ],
@@ -258,11 +258,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "cb1ac69d0707e996",
+  "active": "5b4080ee3d417019",
   "lastOpenFiles": [
+    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md",
+    "wiki/arguments/reports-policy-documents/Argument_Lester_2005_MIT.md",
+    "wiki/arguments/journal-articles/Assessment & Evaluation in Higher Education/Argument_SpronkenSmith_2024_AEHE.md",
     "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md",
-    "file:/Users/shaoyangwu/Downloads/data-f42d5409-84c3-4470-a77a-0759d3fd2426-1782823498-b319b966-batch-0000/Claude_Backup_Export/projects/个人信息填写_019e8678/docs/伍绍杨_个人资料.md",
+    "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
     "file:/Users/shaoyangwu/Downloads/data-f42d5409-84c3-4470-a77a-0759d3fd2426-1782823498-b319b966-batch-0000/Claude_Backup_Export/projects/个人信息填写_019e8678/Project_Details.md",
+    "file:/Users/shaoyangwu/Downloads/data-f42d5409-84c3-4470-a77a-0759d3fd2426-1782823498-b319b966-batch-0000/Claude_Backup_Export/projects/个人信息填写_019e8678/docs/伍绍杨_个人资料.md",
     "wiki/concepts/research-methodology/Critique of Meta-analysis.md",
     "wiki/templates/template-fact-eef-programme.md",
     "wiki/templates/template-eef.md",
@@ -296,11 +300,7 @@
     "wiki/facts/hungary/PISA Response in Hungary.md",
     "wiki/facts/mexico/Alianza por la Calidad de la Educación.md",
     "wiki/facts/france/PISA Response in France.md",
-    "wiki/concepts/comparative-education/Global Testing Culture.md",
-    "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
     "sources/Xie_Li_Huang_2021_GEO/extracted_fulltext.txt",
-    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md",
-    "books/Wang_Barabasi_2021_Cambridge/Wang_Barabasi_2021_Cambridge.md",
     "output/可见的学习课题和案例/_to_delete/xkm.png",
     "output/可见的学习课题和案例/_to_delete/xk-114.png",
     "output/可见的学习课题和案例/_to_delete/xk-109.png",
