@@ -15648,11 +15648,21 @@
       ],
       "title": ""
     },
+    "COM, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/EU Skills Agenda.md"
+      ],
+      "title": ""
+    },
     "COM, 2020": {
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/facts/eu/European Commission.md"
+        "wiki/facts/eu/EU Skills Agenda.md",
+        "wiki/facts/eu/European Commission.md",
+        "wiki/facts/eu/European Education Area.md"
       ],
       "title": ""
     },
@@ -31061,16 +31071,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/facts/eu/EU Skills Agenda.md",
         "wiki/facts/eu/Europe 2020 Strategy.md"
-      ],
-      "title": ""
-    },
-    "European Commission, 2018": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/facts/eu/EU Skills Agenda.md"
       ],
       "title": ""
     },
@@ -31094,7 +31095,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/facts/eu/EU Skills Agenda.md",
         "wiki/facts/eu/Europe 2020 Strategy.md"
       ],
       "title": ""
@@ -93605,8 +93605,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Simpson_2019_ERE.md",
-        "wiki/concepts/research-methodology/Critique of Effect Size.md",
-        "wiki/facts/uk/Reach.md"
+        "wiki/concepts/research-methodology/Critique of Effect Size.md"
       ],
       "title": ""
     },

@@ -4,23 +4,26 @@ aliases:
   - 欧盟技能议程
   - Skills Agenda
   - New Skills Agenda for Europe
-summary: "EU 2016 年技能政策，融合积极劳动力市场政策与教育培训，并在欧盟各地呈现差异化实施路径"
+  - European Skills Agenda
+  - 欧洲技能议程
+summary: "欧洲联盟委员会于 2016 年发起并在 2020 年更新的跨国技能与就业战略框架。该政策融合积极劳动力市场政策与职业教育培训，由就业总司（DG EMPL）依托欧盟条约第 148 条、欧洲社会基金（ESF+）及欧洲学期主导推进；通过设定技能提升保障、学徒制与技能情报指标，建构以劳动力市场供需匹配为导向的区域人力资本治理体系，并在成员国地方层面呈现显著的制度选择性与就业优先偏向。"
 type: fact
 subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 23
+fact_related_count: 27
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: ''
+issuing_organization: "European Commission"
 tags:
-- region/eu
-- region/global
-- policy/employment
-- policy/education
-- policy/lifelong-learning
+  - fact/policy
+  - region/eu
+  - theme/employment
+  - theme/lifelong-learning
+  - theme/active-labour-market-policy
+  - theme/vocational-education
 related_concepts:
   - "[[Welfare-to-Work]]"
   - "[[Theories of Policy Change]]"
@@ -34,11 +37,15 @@ related_concepts:
   - "[[Selectivity]]"
   - "[[Discourse]]"
   - "[[Bureaucracy]]"
+  - "[[Human Capital Theory]]"
 related_theories:
   - "[[Theory of Change]]"
   - "[[Neocorporatism]]"
+  - "[[Policy Instrumentation Theory]]"
 related_methods:
   - "[[Expert Interview]]"
+  - "[[Documentary Analysis]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[EU]]"
@@ -46,82 +53,114 @@ related_facts:
   - "[[Europe 2020 Strategy]]"
   - "[[Innovation Union]]"
   - "[[Youth Guarantee Scheme]]"
-  - "[[English Schools Foundation Hong Kong]]"
   - "[[YOUNG_ADULLLT]]"
+  - "[[European Education Area]]"
 related_arguments:
   - "[[Argument_Rambla_2022_Springer]]"
-confidence: medium
+  - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
+confidence: high
 status: draft
-created: '2026-05-13'
-updated: 2026-10-26
+created: 2026-05-13
+updated: 2026-10-28
 ---
 
-> [!info] 背景
-> [[EU]] Skills Agenda（欧盟技能议程）全称"欧洲新技能议程"（A New Skills Agenda for Europe），由[[European Commission|欧盟委员会]]于 2016 年发布，是 [[Europe 2020 Strategy]]（2010–2020）的两大旗舰倡议之一。该议程融合了[[Welfare-to-Work|积极劳动力市场政策]]（Active Labour Market Policies, ALMPs）与欧盟教育培训战略（EU Education and Training Strategy），旨在同时提高就业率和生产率水平(European Commission, 2016; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168]])。
+---
+
+> [!policy-context] 政策背景
+> - **发布时间 / 发布主体** 2016 年 6 月[[European Commission|欧盟委员会]]出台《欧洲新技能议程》公报（COM(2016) 381 final）；2020 年 7 月欧委会就业总司发布全面更新的《面向可持续竞争力、社会公平与抗逆力的欧洲技能议程》（COM(2020) 274 final）。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 168)]]; [[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 856, 864)]]
+> - **适用地区 / 对象** 覆盖欧盟 27 个成员国的低技能成年人、失业青年、职业教育与培训在校生、雇主群体及社会伙伴。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 168–171)]]
+> - **问题背景** 应对欧洲面临的技能短缺、技能错配、早期辍学导致的社会阶层固化，以及绿色与数字化转型对传统劳动力岗位的结构性冲击。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 168–170)]]
+> - **制度位置** 承接《欧洲 2020 战略》旗舰倡议；在欧盟条约体系下主要依托第 148 条（就业指导方针与国家报告监督权），由就业、社会事务与包容总司（DG EMPL）主导运作，与教育文化总司（DG EAC）主管的[[European Education Area|欧洲教育区]]构成平行的政策双轨。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 856, 858–859)]]
+
+---
+
+> [!claim] 政策核心
+> 欧盟技能议程（EU Skills Agenda）是欧洲联盟打破教育与就业界限的跨部门劳动力发展战略。该议程将[[Welfare-to-Work|积极劳动力市场政策]]与职业教育培训深度融合，依托欧盟条约第 148 条赋予的就业协调权、欧洲社会基金（ESF+）专项预算与欧洲学期国别问责机制，构建以岗位匹配、技能情报与全生命周期劳动力增值为导向的超国家人力资本治理框架。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 168–171)]]; [[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 858–859, 864–865)]]
+
+> [!policy-design] 政策设计
+> - **政策目标** 消除欧洲技能错配与数字鸿沟，保障低技能成年人与失业人群的基本读写、计算与数字能力提升，建立跨国资格互认与微证书体系，提升欧洲产业整体竞争力。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 170–171)]]
+> - **适用对象** 成员国就业部门、职业教育与培训机构、大中小企业、工会与行业协会、非营利社会组织及成年劳动者。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 172–173)]]
+> - **政策工具** 技能提升保障路径（Upskilling Pathways）、欧洲技能公约（Pact for Skills）、技能情报平台（Skills Intelligence）、欧洲学徒联盟（EAfA）、微证书框架、欧洲社会基金（ESF+）以及欧洲学期国别建议（CSRs）。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 171–172)]]; [[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 865)]]
+> - **约束机制** 借助欧盟条约第 148 条的就业监督权，将技能指标直接接入欧洲学期财政支出审查，并以 ESF+ 基金拨付条件构成物质激励与约束，形成超越传统教育软法的治理穿透力。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 858–859, 864–865)]]
+
+> [!citation-card] 欧盟理事会界定成人学习与早期离校目标
+> 欧盟理事会决议指出：成人学习能对实现欧洲 2020 战略中将教育与培训早期离校率降低至 10% 以下的总体目标作出显著贡献。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 171)]]
 >
-> Skills Agenda 的提出回应了三重挑战：技能短缺与技能错配（skills mismatches）、数字转型对劳动力技能的冲击、以及早期辍学（early school leaving）对社会凝聚力的威胁。议程的核心理念是：技能形成既需要教育培训体系的支撑，也需要积极劳动力市场政策的介入——这两者不再被视为独立的政策领域([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168–169, 170]])。
+> *Adult learning can make a significant contribution to meeting the Europe 2020 goals of reducing early leaving from education and training to below 10%. (European Council, 2011b)*
 
-> [!abstract] 政策文本摘要
-> Skills Agenda 的核心框架围绕三个层面展开(European Commission, 2016; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168–171]])：
+---
+
+> [!timeline] 政策演进时间线
+> - 2011 欧盟理事会通过减少早期离校建议书（2011/C 191/01）与成人学习更新决议（2011/C 372/01），奠定技能战略基石。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 171)]]
+> - 2013 欧盟建立青年保障机制（[[Youth Guarantee Scheme]]），将青年就业救济与技能培训制度化衔接。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 168)]]
+> - 2014 容克委员会重组科层架构，将职业教育与培训及成人教育划归就业总司管辖。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 856)]]
+> - 2016 欧盟委员会正式发布《欧洲新技能议程》公报（COM(2016) 381 final）。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 168)]]
+> - 2018 欧盟委员会启动“数字技能与就业联盟”行动规划。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 171)]]
+> - 2020 欧委会就业总司发布更新版《面向可持续竞争力、社会公平与抗逆力的欧洲技能议程》（COM(2020) 274 final），提出 12 项旗舰行动。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 856, 864)]]
+
+---
+
+> [!actor-grid] 实施角色分工
+> - **主管机构（欧盟委员会 DG EMPL）** 就业、社会事务与包容总司负责议程设计、资金调配与欧洲学期对接，在内部科层博弈中拥有比教育总司更强的制度权力。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 858–859)]]
+> - **协同部门（欧盟委员会 DG EAC 与 DG GROW）** DG EAC 协同推进高等教育与数字素养；内部市场、工业、创业和中小企业总司协同产业技能公约。
+> - **成员国执行机构** 各成员国劳动部、公共就业服务机构（PES）及职业培训署，负责将技能指标转化为地方培训项目。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 172–173)]]
+> - **社会伙伴网络（雇主协会与工会）** 参与新社团主义三方协商，共商职业技能标准与学徒岗位供给。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 172–173)]]
+
+> [!pathways] 实施路径与地方异质性
+> - **跨国因果叙事建构** 议程与[[Innovation Union]]共享“创新生态与教育培训体系协同演化驱动经济增长”的变革理论，通过欧洲统计局（Eurostat）绩效指标将该叙事自然化为改革共识。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 166, 170–171)]]
+> - **多层次治理网络实施** 依托 ESF+ 基金向社会伙伴开放资助，EUROSTAT 按 NUTS2 区域追踪教育培训体系绩效（全年龄参与率、毕业生就业率）。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 172–173)]]
+> - **地方制度条件下的分化落地** YOUNG_ADULLLT 项目（16 个欧盟地区，168 名专家访谈）证实不同体制下的差异：
+>   - **新社团主义强传统地区（奥地利、德国、苏格兰）** 依托双元制学徒网络、政府-工会-雇主三方协商或“就业管道”，缓解了指标的机械筛选效应，维持了职业教育的育人品质。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 172–173)]]
+>   - **公民发展传统地区（芬兰）** 依托公私民伙伴关系，将终身学习理解为面向全体公民的人类发展服务，超越了单纯的失业救济工具。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 173)]]
+>   - **弱网络与脆弱转型地区（南欧、东欧）** 政策网络松散，专业人员缺乏系统理论支撑，政策实践高度受制于“尽快促成任何就业”的急功近利取向，产生了显著的底层边缘化选择性效应。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 173–174)]]
+
+---
+
+> [!indicators] 评价指标体系
+> - **投入与覆盖指标** 欧洲社会基金（ESF+）年度培训投资总额、技能提升保障项目参与人数。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 171–172)]]
+> - **过程与参与指标** 25–64 岁成年人年度学习参与率、工作本位学徒培训比例、数字技能培训覆盖率。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 171)]]; [[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 859)]]
+> - **结果与产出指标** 早期教育离校率（降至 10% / 9% 以下）、完成最高教育水平后 1–3 年内年轻毕业生的就业率。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 171, 174)]]
+
+> [!finding-cards] 效果与评价
+> - **重塑“教育培训体系”核心话语** 成功将教育培训体系与创新生态体系并列确立为欧盟知识经济战略的两大支柱，消解了教育与劳动就业的传统边界。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 170–171)]]
+> - **激发自下而上的社会创新实验** 在南欧部分地区催生了新型第二机会学校（Second Chance Schools），从单纯的补救安置所演进为高标准教育服务实体，拓展了青年社会融入路径。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 173)]]
+> - **政策实施的选择性窄化效应** 调查显示除芬兰外，绝大多数受访国家的专业人员均将技能议程的首要目标理解为短期就业安置；量化指标的操作便利性导致终身学习的公民育人功能在实践中被边缘化。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 173–175)]]
+
+> [!stat-cards]- 核心规模数据
+> - **168** YOUNG_ADULLLT 项目调研访谈的欧盟各地区终身学习政策专家与专业人员数量。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 172)]]
+> - **16** 该研究覆盖的具有不同制度传统的欧盟次国家级（NUTS2）区域总数。[[Argument_Rambla_2022_Springer|(Rambla, 2022, p. 172)]]
+> - **1/3** 教育目标挂钩欧洲学期建议后，成员国在教育与培训领域得以吸纳的欧洲社会基金（ESF+）大额预算占比。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 865)]]
+
+---
+
+> [!debates] 政策争议
 >
-> **提升低技能成年人技能水平** 要求成员国通过"技能保障"（Skills Guarantee）路径为低技能成年人提供提升技能（upskilling）的机会，涵盖在职和失业人群。目标是改善其识字、计算和数字技能，并在可能的情况下获得更高一级的学历资格（European Commission, 2016，引用于 Rambla, 2022, p.171）。
+> > [!axis] 就业功利主义偏向 vs 终身学习公民发展
+> > 除芬兰外，绝大多数受访国家的终身学习专业人员均将政策重心理解为短期就业安置；绩效指标使得就业率比人的全面发展更易量化考核，导致终身学习被功能主义窄化。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 174–175)]]
 >
-> **技能情报与可见性** 提出"技能情报"（skills intelligence）概念，使其成为学校、培训提供者和雇主的工具。国家和区域政府、基层组织和[[EU|欧盟]]层面的行动者共同提高对技能短缺和错配的认识，确保"没有人被落下"（European Commission, 2016, 2018; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.171]]）。
+> > [!axis] 绩效指标的技术简化与社会排斥
+> > EUROSTAT 的教育培训指标主要抓取在学与在职状态，无法反映非正式学习与复杂生命历程；指标驱动的实践在弱势地区诱发了“快速推向任何工作”的次级劳动力再生产，加剧了选择性效应。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 170, 174–175)]]
 >
-> **跨越传统政策边界** 鼓励就业、学校教育和职业教育与培训（VET）不再作为独立运作的部门，而是共同构成一个"教育培训体系"。技能形成需要教育培训和[[Welfare-to-Work|积极劳动力市场政策]]的双重支撑([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.170]])。
+> > [!axis] 布鲁塞尔跨总司科层壁垒与双轨对话负担
+> > DG EMPL 的欧洲技能议程与 DG EAC 的欧洲教育区在布鲁塞尔内部形成平行竞争；理事会批评总司分割迫使成员国教育部与劳动部分头开展两套双边对话，制造了严重的行政磋商损耗。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 856, 858–859, 864)]]
 
-> [!quote|notitle]
-> "Adult learning can make a significant contribution to meeting the [[Europe 2020 Strategy\|Europe 2020]] goals of reducing early leaving from education and training to below 10%."（European Council, 2011b，引用于 Rambla, 2022, p.171）
+---
 
-### 共同的变革理论
-
-Skills Agenda 与 [[Innovation Union]] 共享一个核心[[Theory of Change|变革理论]]（[[Theories of Policy Change]]）：[[Innovation Ecosystem|创新生态]]体系与教育培训体系协同演化 → 产生互利增效 → 实现智能、可持续与包容性增长。这一因果叙事未经独立实证检验，而是作为 [[Performance Indicators]] 的内在成分被嵌入政策工具中([[Argument_Rambla_2022_Springer|Rambla, 2022, p.166, 170–171]])。
-
-> [!note] 时间线
-> - 2011 年：[[EU|欧盟]]理事会发布关于减少早期辍学的建议书（European Council, 2011a）和关于成人教育更新的决议（European Council, 2011b），为 Skills Agenda 奠定政策基础
-> - 2013 年：[[Youth Guarantee Scheme]] 建立，将就业与教育培训衔接制度化
-> - 2016 年：欧盟委员会发布《欧洲新技能议程》通讯文件（European Commission, 2016）
-> - 2018 年：欧盟委员会发布数字技能与就业联盟行动计划（European Commission, 2018）
-
-> [!example] 实施情况
-> Skills Agenda 的实施依赖多层次治理网络（详见 [[Network Governance]] 中[[EU|欧盟]]部分）([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.172–173]])：
+> [!entry-map] 相关概念／理论
 >
-> - **财政支持** 欧盟社会基金（European Social Fund, [[English Schools Foundation Hong Kong\|ESF]]）对社会伙伴开放，支持培训和[[Welfare-to-Work|积极劳动力市场政策]]
-> - **政策扩散** EUROSTAT 的区域[[Performance Indicators\|教育指标]]追踪各 NUTS2 区域的"教育培训体系"绩效，包括全年龄段人口参与率和按"完成最高教育水平后年数"计算的就业率
-> - **利益相关方网络** 政策鼓励各级政府、社会伙伴、企业、非政府组织和公民社会组织建立合作伙伴关系
-
-### 制度传统较强的国家
-
-[[YOUNG_ADULLLT|YOUNG_ADULLLT 项目]]（n=168，16 个欧盟地区）揭示了 Skills Agenda 在地方层面的差异化接受([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–173]])：
-
-- **奥地利和德国** 地方专业人员以"[[Apprenticeship|学徒制]]系统"的[[Theory of Change|变革理论]]来理解和实施[[Lifelong Learning|终身学习]]政策。[[Policy Network|政策网络]]包含传统的[[Neocorporatism|新社团主义]]伙伴——政府、雇主协会和工会的[[Triangular Cooperation|三方合作]]，在一定程度上缓冲了[[Performance Indicators|绩效指标]]的 [[Selectivity]] 效应（p.172–173）
-- **芬兰** 以"公私民合作"（Public-Private-People-Partnerships）模式运作，终身学习被视为对所有人开放的人类发展服务，而非仅针对失业青年的就业工具（p.173）
-- **苏格兰** 采用"就业管道"（Employment Pipeline）模式，将就业服务、教育培训和非营利支持整合为一条龙网络（p.173）
-
-### 制度传统较弱的地区
-
-- **南欧和东欧** 政策网络较弱，专业人员缺乏系统的 [[Theories of Policy Change]] 支撑，倾向于依赖对青年受益人的负面刻板印象组织服务。选择性效应在此更为显著——"帮助青年尽快找到任何工作"成为压倒性的实践取向([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173–174]])
-- **意大利利古里亚和西班牙加泰罗尼亚** 第二机会学校展示了自下而上的创新路径，从"最后一搏的补救站"演变为"教育性、高标准的服务机构"。在加泰罗尼亚，非营利组织先行创建模式再寻求公共支持，形成了新型政治关系（p.173）
-
-> [!success] 效果与评价
-> - Skills Agenda 成功将"教育培训体系"建构为[[EU|欧盟]]政策[[Discourse|话语]]中的核心概念，使其与"[[Innovation Ecosystem\|创新生态]]体系"并列成为 [[Europe 2020 Strategy]] 的两大支柱([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.170–171]])
-> - 在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员将欧盟的官方[[Theory of Change\|变革理论]]内化并翻译为本地可操作的版本，表明欧盟的政策话语确实在地方层面产生了认知影响（p.172–173）
-
-> [!info] 核心数据
-> - [[YOUNG_ADULLLT\|YOUNG_ADULLLT 项目]]（Horizon 2020, Grant No 693167）：覆盖 16 个欧盟地区，168 名[[Lifelong Learning\|终身学习]]政策[[Expert Interview\|专家访谈]]([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.172]])
-> - 除芬兰外，所有受访国家的终身学习专业人员将政策首要目标理解为就业安置（p.174）
-
-> [!warning] 争议与评论
-> - **就业优先偏向** 除芬兰外，大多数[[EU|欧盟]]成员国的[[Lifelong Learning\|终身学习]]专业人员将 Skills Agenda 的核心目标理解为就业优先——即短期内帮助青年获得工作。政策的个人发展和公民参与维度在实践中被显著边缘化。这一偏向并非决策者有意的偏见，而是 [[Selectivity]] 的结构性效应——[[Performance Indicators\|绩效指标]]体系使就业安置在操作上比个人发展更容易被衡量和奖励([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.174]])
-> - **绩效指标的窄化效应** EUROSTAT 的教育培训指标只能捕捉各年龄段人群的"在学状态"，无法反映非正式学习、公民教育和整个生命历程中学习的丰富性。指标在定义"教育培训体系"的同时也窄化了终身学习的内涵([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.170, 174–175]])。详见 [[Performance Indicators]]
-> - **治理协调挑战** Skills Agenda 与 [[Innovation Union]] 通过模糊此前分离的政策领域边界，为代表布鲁塞尔、国家和次国家政府的行动者带来了大量协调问题——这些在政策设计层面可能未被充分预见([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.169]])
-
-> [!tip] 相关概念／理论
-> - [[Performance Indicators]] — EUROSTAT 区域教育指标是 Skills Agenda 的核心治理工具
-> - [[Selectivity]] — Skills Agenda 在[[Lifelong Learning\|终身学习]]中系统性地优先就业维度
-> - [[Theories of Policy Change]] — 与 [[Innovation Union]] 共享"创新+教育协同演化"的因果叙事
-> - [[Network Governance]] — Skills Agenda 在地方层面的实施呈现[[Bureaucracy|官僚制]]与网络治理的混合模式
-> - [[Youth Guarantee Scheme]] — 将教育与就业衔接制度化的配套政策
-> - [[Innovation Union]] — 同为 [[Europe 2020 Strategy\|Europe 2020]] 旗舰，共享[[Theory of Change\|变革理论]]
-> - [[Europe 2020 Strategy]] — Skills Agenda 所属的十年战略框架
-
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Performance Indicators]] | Concept | EUROSTAT 区域教育指标是技能议程监测的核心政策工具。 |
+> | [[Selectivity]] | Concept | 揭示技能议程在终身学习中系统性优先短期就业安置的选择性机制。 |
+> | [[Theories of Policy Change]] | Concept | 与创新联盟共享“创新与教育协同演化驱动经济增长”的因果叙事。 |
+> | [[Network Governance]] | Concept | 技能议程在次国家层面的实施呈现官僚制与网络治理的混合形态。 |
+> | [[Welfare-to-Work]] | Concept | 积极劳动力市场政策向职业技能培训延伸的福利改革取向。 |
+> | [[Apprenticeship]] | Concept | 双元制学徒培训构成技能议程在德奥等国落地的关键制度依托。 |
+> | [[Lifelong Learning]] | Concept | 技能议程试图重构但在实践中常被窄化为就业工具的核心概念。 |
+> | [[Human Capital Theory]] | Theory | 将技能视为提升全欧劳动生产率与抗逆力资产的底层经济理论。 |
+> | [[Youth Guarantee Scheme]] | Fact (Policy) | 欧盟早期将失业救济与职业培训紧密绑定的配套政策。 |
+> | [[Innovation Union]] | Fact (Policy) | 同为欧洲 2020 战略旗舰，与技能议程共享协同变革理论。 |
+> | [[Europe 2020 Strategy]] | Fact (Policy) | 技能议程创设时所属的十年顶层战略规划框架。 |
+> | [[European Education Area]] | Fact (Policy) | DG EAC 主管的平行教育战略，二者在超国家治理中形成科层割裂。 |
+> | [[Argument_Rambla_2022_Springer\|Rambla (2022)]] | Argument | 剖析欧盟技能议程如何通过绩效指标建构区域想象的实证研究。 |
+> | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] | Argument | 揭示技能议程与欧洲教育区跨总司科层竞争及 ESF+ 资金机制的研究。 |

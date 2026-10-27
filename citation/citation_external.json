@@ -3554,7 +3554,9 @@
     "CIS, 2024": "CIS, 2024",
     "COAG (2018)": "COAG, 2018",
     "COAG, 2018": "COAG, 2018",
+    "COM (2016)": "COM, 2016",
     "COM (2020)": "COM, 2020",
+    "COM, 2016": "COM, 2016",
     "COM, 2020": "COM, 2020",
     "CONSORT-SPI (2018)": "CONSORT-SPI, 2018",
     "CONSORT-SPI, 2018": "CONSORT-SPI, 2018",
@@ -7054,7 +7056,6 @@
     "European Commission (2007)": "European Commission, 2007",
     "European Commission (2010)": "European Commission, 2010",
     "European Commission (2016)": "European Commission, 2016",
-    "European Commission (2018)": "European Commission, 2018",
     "European Commission (2021)": "European Commission, 2021",
     "European Commission, 1993a": "European Commission, 1993a",
     "European Commission, 1993b": "European Commission, 1993b",
@@ -7065,7 +7066,6 @@
     "European Commission, 2007": "European Commission, 2007",
     "European Commission, 2010": "European Commission, 2010",
     "European Commission, 2016": "European Commission, 2016",
-    "European Commission, 2018": "European Commission, 2018",
     "European Commission, 2021": "European Commission, 2021",
     "European Council (1997)": "European Council, 1997",
     "European Council (2011a)": "European Council, 2011a",
@@ -52722,6 +52722,21 @@
       ],
       "title": ""
     },
+    "COM, 2016": {
+      "aliases": [
+        "COM, 2016",
+        "COM (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "COM, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/EU Skills Agenda.md"
+      ],
+      "title": ""
+    },
     "COM, 2020": {
       "aliases": [
         "COM, 2020",
@@ -52733,7 +52748,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/facts/eu/European Commission.md"
+        "wiki/facts/eu/EU Skills Agenda.md",
+        "wiki/facts/eu/European Commission.md",
+        "wiki/facts/eu/European Education Area.md"
       ],
       "title": ""
     },
@@ -78236,23 +78253,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/facts/eu/EU Skills Agenda.md",
         "wiki/facts/eu/Europe 2020 Strategy.md"
-      ],
-      "title": ""
-    },
-    "European Commission, 2018": {
-      "aliases": [
-        "European Commission, 2018",
-        "European Commission (2018)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "European Commission, 2018"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/facts/eu/EU Skills Agenda.md"
       ],
       "title": ""
     },
@@ -78297,7 +78298,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/facts/eu/EU Skills Agenda.md",
         "wiki/facts/eu/Europe 2020 Strategy.md"
       ],
       "title": ""
@@ -181433,8 +181433,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Educational Research and Evaluation/Argument_Simpson_2019_ERE.md",
-        "wiki/concepts/research-methodology/Critique of Effect Size.md",
-        "wiki/facts/uk/Reach.md"
+        "wiki/concepts/research-methodology/Critique of Effect Size.md"
       ],
       "title": ""
     },

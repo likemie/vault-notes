@@ -271,6 +271,14 @@
     {
       "sentence": "We said, 'we think these are the priorities', how we want to achieve these priorities, and we suggest to the member states to do it.",
       "target": "wiki/facts/us/Achieve.md"
+    },
+    {
+      "sentence": "宣称人人成功，往往意味着没有人真正成功。",
+      "target": "wiki/facts/us/Success for All.md"
+    },
+    {
+      "sentence": "And, 'these are the targets we want to reach'.",
+      "target": "wiki/facts/uk/Reach.md"
     }
   ]
 }
