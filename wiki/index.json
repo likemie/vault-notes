@@ -983,6 +983,18 @@
     ]
   },
   {
+    "title": "Global Eye and Tutorable Body",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Global Eye and Tutorable Body.md",
+    "aliases": [
+      "全球眼睛与受教身体",
+      "全球眼与受教身体",
+      "全球眼睛与可辅导身体",
+      "Global Eye and the Tutorable Body",
+      "全球眼与可辅导身体"
+    ]
+  },
+  {
     "title": "Global Policy Space",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Global Policy Space.md",
@@ -19003,6 +19015,18 @@
       "挪威教育改革四阶段模型",
       "Norwegian Four-Phase Policy Borrowing Model",
       "Four-Phase Educational Reform Model in Norway"
+    ]
+  },
+  {
+    "title": "OECD Modes of Governance",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/OECD Modes of Governance.md",
+    "aliases": [
+      "经合组织治理模式",
+      "经合组织全球治理模式",
+      "经合组织四种治理模式",
+      "OECD Global Governance Modes",
+      "Woodward's OECD Modes of Governance"
     ]
   },
   {
