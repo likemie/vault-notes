@@ -1,6 +1,7 @@
 ---
 citation: "Alexiadou, N., & Rambla, X. (2023). Education policy governance and the power of ideas in constructing the new European Education Area. European Educational Research Journal, 22(6), 852–869. https://doi.org/10.1177/14749041221121388"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
 processed_date: 2026-10-28
 ---
 
