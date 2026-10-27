@@ -17831,7 +17831,8 @@ table:has(thead th:nth-child(7)):not(:has(thead th:nth-child(8))) :is(th, td):nt
 .callout[data-callout="compare-table"] table {
   width: max-content !important;
   min-width: 100% !important;
-  border-collapse: collapse !important;
+  border-collapse: separate !important;
+  border-spacing: 0 !important;
   margin: 0 !important;
   table-layout: auto !important;
 }
