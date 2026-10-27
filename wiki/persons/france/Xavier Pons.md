@@ -8,10 +8,10 @@ summary: "法国当代著名教育政治社会学家，巴黎东岱大学（UPEC
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 14
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
-person_related_color: "#ede9fe"
+person_related_color: "#dbeafe"
 born: "1980"
 died: ""
 lifespan: "1980–至今"
@@ -63,33 +63,33 @@ updated: 2026-10-27
 > - **代表贡献** 提出区分技术参数与政客修辞的 [[Learning Knowledge and Policy Knowledge|学习性知识与政策性知识]] 框架；系统论证法国教育治理中的“国家科学”（science d’État）垄断机制对跨国新自由主义问责的阻滞作用（[[PISA Response in France]]）。
 
 > [!citation-card] 庞斯论政策转译与接收社会学的核心论断
-> 像 PISA 这类国际调查，无论数据多么扎实和有用，都不足以必然引发教育系统内的行动者学习他国的教育政策并带来跨国政策趋同；针对学生成绩的政治评论与后台技术图表之间存在严重的结构性脱节。[[Argument_Xie_Li_Huang_2021_GEO|(Pons, 2011, cited in 谢爱磊等, 2021, p. 71)]]
+> 像 PISA 这类国际调查，无论数据多么扎实和有用，都不足以必然引发教育系统内的行动者学习他国的教育政策并带来跨国政策趋同；针对学生成绩的政治评论与后台技术图表之间存在严重的结构性脱节。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 71)]]
 >
 > *International surveys like PISA, however solid and useful they may be, are not enough to necessarily prompt actors within educational systems to learn from other countries' policies and bring about policy convergence.*
 
 ---
 
 > [!timeline] 生平与职涯
-> - **2008** 获巴黎政治大学（Sciences Po）政治学与公共政策博士学位，师从法国公共政策分析权威皮埃尔·穆勒（Pierre Muller），博士论文系统聚焦法国教育评估体制的历史演进。
+> - **2008** 获巴黎政治大学（Sciences Po）政治学与公共政策博士学位，师从法国公共政策分析权威皮埃尔·穆勒（Pierre Muller），博士阶段研究系统聚焦法国教育评估体制的历史演进。
 > - **2008–2014** 参与欧盟第七框架计划科研项目“欧洲知识与政策”（Know&Pol），深入开展法国、葡萄牙、罗马尼亚与英国（苏格兰）面对 PISA 的多国比较实证研究。
-> - **2011** 发表代表性论文 *What Do We Really Learn from PISA?*，正式确立学习性知识与政策性知识两分法，成为比较政策社会学引用率极高的奠基文献。
+> - **2011** 发表代表作 *What Do We Really Learn from PISA?*，正式确立学习性知识与政策性知识两分法，成为比较政策社会学引用率极高的奠基文献。
 > - **2014–至今** 历任巴黎东岱大学副教授、特级教授，主持教育转型与社会学跨学科研究实验室（LIRTES），持续追踪全球化测试文化与国家教育标准的制度互动。
 
 ---
 
 > [!work-line] 主要著作
-> - **2011a — *What Do We Really Learn from PISA? The Sociology of Its Reception in Three European Countries (2001–2008)*** 比较追踪英、法、葡多国政界对测试的反应，阐明公共辩论如何与真实数据库分析脱节，创立 [[Learning Knowledge and Policy Knowledge|学习性知识与政策性知识]] 理论框架。[[Argument_Xie_Li_Huang_2021_GEO|(Pons, 2011)]]
+> - **2011a — *What Do We Really Learn from PISA? The Sociology of Its Reception in Three European Countries (2001–2008)*** 比较追踪英、法、葡多国政界对测试的反应，阐明公共辩论如何与真实数据库分析脱节，创立 [[Learning Knowledge and Policy Knowledge|学习性知识与政策性知识]] 理论框架。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 71)]]
 > - **2011b — *L’évaluation des politiques éducatives*（《教育政策评估》）** 梳理西方现代教育评估从心理测量技术向国家公共管理工具的演变脉络，剖析评估指标对学校自主权的重组。
-> - **2016 — *PISA: A Political Tool?*（收录于 Meyer & Benavot 编著的 *PISA, Power, and Policy*）** 深入分析法国中央行政精英如何依靠“国家科学”（science d’État）保持对合法知识的垄断，将跨国测试仅作为边缘的政策背书工具（[[PISA Response in France]]）。[[Argument_Xie_Li_Huang_2021_GEO|(Pons, 2016)]]
+> - **2016 — *PISA: A Political Tool?*（收录于 Meyer & Benavot 编著的 *PISA, Power, and Policy*）** 深入分析法国中央行政精英如何依靠“国家科学”（science d’État）保持对合法知识的垄断，将跨国测试仅作为边缘的政策背书工具（[[PISA Response in France]]）。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 63)]]
 > - **2019 — *School Accountability in Europe: A Trajectory of Global Governance*（与 Christian Maroy 等合著）** 考察欧洲各国从传统科层视导向多维绩效问责转型的多样化制度轨迹。
 
 ---
 
 > [!claim] 核心思想
-> 现代跨国教育测评绝非中立理性的客观反光镜，而是深嵌于主权国家本土权力网络中的政治工具。庞斯强调，国际大规模评估的信息流动必然经历高度选择性的转译过程：一方面，复杂的“学习性知识”在跨越国界后被极度简化为迎合选举政治与媒体轰动的“政策性知识”，成为执政联盟推介预设法案的修辞弹药；另一方面，具有深厚行政集权传统的民族国家能够依托本土官方精英生产的“国家科学”抵御去背景化量化冲击，坚守教育平权底线，从而使全球测试所引发的政策后果在不同国别呈现出深刻的制度分流。
+> 现代跨国教育测评是深嵌于主权国家本土权力网络中的政治工具。庞斯强调，国际大规模评估的信息流动必然经历高度选择性的转译过程：一方面，复杂的“学习性知识”在跨越国界后被极度简化为迎合选举政治与媒体轰动的“政策性知识”，成为执政联盟推介预设法案的修辞弹药；另一方面，具有深厚行政集权传统的民族国家能够依托本土官方精英生产的“国家科学”抵御去背景化量化冲击，坚守教育平权底线，从而使全球测试所引发的政策后果在不同国别呈现出深刻的制度分流。
 
 > [!citation-card] 庞斯论法国国家科学对跨国新自由主义的抵制
-> 由于历史和制度原因，法国的中央行政精英所生产的“国家科学”（science d’État）仍然强大，政府和官方学者依然是知识的合法和权威来源。在对 PISA 的解读上，他们一直强调其新自由主义实质，并提醒人们注意其所倡导的原则可能危及教育平等，导致人们对 PISA 持深深的怀疑态度。[[Argument_Xie_Li_Huang_2021_GEO|(Pons, 2011, cited in 谢爱磊等, 2021, p. 70)]]
+> 由于历史和制度原因，法国的中央行政精英所生产的“国家科学”（science d’État）仍然强大，政府和官方学者依然是知识的合法和权威来源。在对 PISA 的解读上，他们一直强调其新自由主义实质，并提醒人们注意其所倡导的原则可能危及教育平等，导致人们对 PISA 持深深的怀疑态度。[[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021, p. 70)]]
 
 ---
 

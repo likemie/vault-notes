@@ -134,11 +134,11 @@
        "130 所学校中，107 所被评为 Good 或 Outstanding。",
        "学生中享有 pupil premium 资格的比例为 28%。"
       ],
-      "design_note": "网页描述了试验对照组；随机分配程序和具体比较安排待报告核验。",
+      "design_note": "设有对照组；随机分配程序与具体比较安排待核实。",
       "review_notes": [
-       "免费校餐资格亚组的结构化评级为不适用，结论文字称证据安全性低于全样本，两项信息分别保留。"
+       "免费校餐资格亚组的结构化评级为不适用，评估结论称其证据安全性低于全样本。"
       ],
-      "delivery_scope": "项目方案；首次试验的具体课时安排待报告核验。"
+      "delivery_scope": "项目方案；首次试验适用性待核实"
      }
     },
     {
@@ -277,10 +277,10 @@
        "91% 位于城市，全国对应比例为 70%。",
        "学校 第二关键阶段（Key Stage 2，KS2） 数学达标率均值为 70.4，全国为 73.1。"
       ],
-      "design_note": "随机分配程序和分析方法待报告核验。",
+      "design_note": "随机分配程序与分析方法待核实。",
       "review_notes": [
-       "页面登记与随机分配学校数的差额原因待核。",
-       "页面完成时间晚于评估报告附件上传日期，两项时间含义待核。"
+       "页面登记学校数与随机分配学校数的差额原因不明。",
+       "页面完成时间晚于评估报告附件上传日期。"
       ],
       "evaluator_url": "https://www.nfer.ac.uk/about-nfer/"
      }
@@ -295,7 +295,7 @@
    "impact_label": "",
    "cost_context": "The average cost of implementing the programme as delivered in the latest trial was around £93 per pupil per year when averaged over three years (on the assumption that the intervention is delivered to two groups of four pupils each year). This is an estimate of the overall cost to a school of implementing the programme at the time of the evaluation. Schools can check the current cost of the programme through the Edge Hill University programme webpage.",
    "checked_at": "2026-10-27",
-   "cost_note": "约 £93／生／年，按最近试验条件估算并分摊至三年；假定每年实施两组，每组四名学生。现行价格需向提供方核实。",
+   "cost_note": "最近试验条件下的估算；假定每年实施两组，每组四名学生。现行价格待核实。",
    "review_notes": [],
    "developer": "边山大学（Edge Hill University）的 Every Child Counts 团队",
    "delivery_organisation": "参与学校，由受训助教交付，校内联络教师协调"

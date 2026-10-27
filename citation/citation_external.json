@@ -5370,8 +5370,10 @@
     "Dai et al., 2024b": "Dai et al., 2024b",
     "Dalby (2013)": "Dalby, 2013",
     "Dalby, 2013": "Dalby, 2013",
+    "Dale & Robertson (2009)": "Dale & Robertson, 2009",
     "Dale & Robertson among others. Dale (1999)": "Dale & Robertson among others. Dale, 1999",
     "Dale & Robertson among others. Dale, 1999": "Dale & Robertson among others. Dale, 1999",
+    "Dale & Robertson, 2009": "Dale & Robertson, 2009",
     "Dale (1999)": "Dale, 1999",
     "Dale (2000)": "Dale, 2000",
     "Dale (2002)": "Dale, 2002",
@@ -26490,8 +26492,6 @@
     "班斯立场, 2020": "班斯立场, 2020",
     "理学硕士 (1935)": "理学硕士, 1935",
     "理学硕士, 1935": "理学硕士, 1935",
-    "瑞典 (2012)": "瑞典, 2012",
-    "瑞典, 2012": "瑞典, 2012",
     "用斯塔克 (1995)": "用斯塔克, 1995",
     "用斯塔克, 1995": "用斯塔克, 1995",
     "用格拉斯与史密斯 (1979)": "用格拉斯与史密斯, 1979",
@@ -65816,6 +65816,24 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/uk/Roger Dale.md"
+      ],
+      "title": ""
+    },
+    "Dale & Robertson, 2009": {
+      "aliases": [
+        "Dale & Robertson, 2009",
+        "Dale & Robertson (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Dale & Robertson, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md",
+        "wiki/concepts/comparative-education/Methodological Educationism.md",
+        "wiki/concepts/comparative-education/Methodological Nationalism.md",
+        "wiki/concepts/educational-policy-reform/Theories of Policy Change.md"
       ],
       "title": ""
     },
@@ -217069,7 +217087,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/comparative-education/PISA Shock.md",
         "wiki/concepts/comparative-education/The Curse of Success.md"
       ],
       "title": ""
@@ -218506,21 +218523,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/us/William W. Brickman.md"
-      ],
-      "title": ""
-    },
-    "瑞典, 2012": {
-      "aliases": [
-        "瑞典, 2012",
-        "瑞典 (2012)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "瑞典, 2012"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/comparative-education/PISA Shock.md"
       ],
       "title": ""
     },

@@ -23935,16 +23935,6 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
   text-align: right !important;
   white-space: nowrap !important;
 }
-body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial-notes"] > .callout-content > ul {
-  padding-left: 1.1rem !important;
-  margin: .5rem 0 !important;
-}
-body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial-notes"] > .callout-content > ul > li {
-  font-size: .76rem !important;
-  line-height: 1.7 !important;
-  padding: .2rem 0 !important;
-  color: var(--text-normal) !important;
-}
 @media (max-width: 600px) {
   body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-content > ul {
     grid-template-columns: minmax(0, 1fr) !important;
@@ -23967,4 +23957,58 @@ body .callout.callout.callout[data-callout="eef-programme"][data-callout-metadat
 body.theme-dark .markdown-rendered .eef-pending,
 body.theme-dark .callout.callout.callout[data-callout="eef-programme"][data-callout-metadata="v2"] .eef-pending {
   color: #ff9b94 !important;
+}
+
+/* EEF 试验信息、样本与资料合为一个阅读单元。 */
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] {
+  border-radius: 2px !important; padding: 1.3rem 1.4rem !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-title .callout-title-inner {
+  font-size: 1.5rem !important; letter-spacing: -.025em !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > p {
+  font-size: .84rem !important; line-height: 1.75 !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] {
+  padding: 1.1rem 0 .6rem !important; margin-top: 1.25rem !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-title .callout-title-inner {
+  font-size: 1.05rem !important; line-height: 1.6 !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-content > ul {
+  gap: 1rem 2rem !important; padding: 1.1rem 0 .9rem !important; align-items: start !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-content > ul > li {
+  font-size: .86rem !important; line-height: 1.7 !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-content > ul > li > strong {
+  font-size: .73rem !important; letter-spacing: .02em !important; margin-bottom: .3rem !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-content > ul > li:has(.eef-period) {
+  grid-column: 1 / -1 !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-content > ul > li:has(.eef-context) {
+  grid-column: 1 / -1 !important; padding: .75rem 0 !important; border-top: 1px solid var(--eef-line) !important; border-bottom: 1px solid var(--eef-line) !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout:is([data-callout="eef-outcomes"], [data-callout="eef-subgroups"]) {
+  border: 0 !important; border-top: 1px solid var(--eef-line) !important; border-radius: 0 !important; background: transparent !important; padding: .9rem 0 0 !important; margin: .8rem 0 0 !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout:is([data-callout="eef-outcomes"], [data-callout="eef-subgroups"]) > .callout-title .callout-title-inner {
+  font-size: .86rem !important; font-weight: 650 !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-content > p:has(.eef-documents) {
+  font-size: .76rem !important; line-height: 2 !important; padding-top: .8rem !important; margin: 1rem 0 .3rem !important; border-top: 1px solid var(--eef-line) !important; color: var(--eef-muted) !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .eef-documents strong {
+  font-size: .73rem !important; background: none !important; padding: 0 !important; margin-right: .5rem !important; color: var(--eef-muted) !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .eef-documents a {
+  text-decoration: underline !important; text-decoration-thickness: 1px !important; text-underline-offset: .2em !important; color: rgb(var(--eef-accent)) !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-content > p:has(.eef-note) {
+  font-size: .76rem !important; line-height: 1.8 !important; margin: .4rem 0 !important; color: var(--eef-muted) !important;
+}
+@media (max-width: 600px) {
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] { padding: 1rem .8rem !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trial"] > .callout-content > ul { gap: .85rem !important; }
 }

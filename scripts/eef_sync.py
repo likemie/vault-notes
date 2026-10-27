@@ -881,10 +881,10 @@ def render_programme_v2(slug: str, p: dict, errata: list) -> str:
     stage = EVIDENCE_TYPE_ZH.get(p.get("evidence_type"), p.get("evidence_type") or "未提供")
     lines = [f"> [!eef-programme|v2] [{esc(p['name'])}]({p['url']})",
              f"> {PROG_ZH.get(slug, p.get('description') or '')}", ">",
-             "> | 项目页影响 | 证据阶段 | 项目页证据强度 | 当前项目页成本 |",
+             "> | 项目页影响 | 证据阶段 | 项目页证据强度 | 每生年成本 |",
              "> | --- | --- | --- | --- |",
              f"> | {esc(impact)} | {esc(stage)} | {programme_rating(p.get('security_rating'), p.get('security_total'))} | {cost} |",
-             ">", f"> **成本口径** {esc(p.get('cost_note') or p.get('cost_context') or '未提供。')}"]
+             ">", f"> **成本口径** {esc(p.get('cost_note') or p.get('cost_context') or '未提供。').replace('待核实', PENDING)}"]
     if p.get("developer"):
         lines += [">", f"> **开发机构** {esc(p['developer'])}"]
     if p.get("delivery_organisation"):
@@ -905,7 +905,7 @@ def render_programme_v2(slug: str, p: dict, errata: list) -> str:
         dose = (f"每周 {r['sessions_per_week']} 次，每次 {r['session_minutes']} 分钟，每组 {r['group_size']} 人"
                 if all(r.get(k) is not None for k in ("sessions_per_week", "session_minutes", "group_size")) else "未核实")
         if r.get("delivery_scope"):
-            dose += "；" + r["delivery_scope"]
+            dose += "；" + r["delivery_scope"].replace("待核实", PENDING)
         trial_cost = (f"£{r['cost_per_pupil_year']:g}／生／年，按 {r['cost_amortisation_years']} 年摊销"
                       if r.get("cost_per_pupil_year") is not None and r.get("cost_amortisation_years") is not None else "未核实")
         if r.get("school_cost_year_one") is not None:
@@ -914,13 +914,21 @@ def render_programme_v2(slug: str, p: dict, errata: list) -> str:
             trial_cost += f"；学校年均 £{r['school_cost_annual_average']:g}"
         if r.get("cost_exclusions"):
             trial_cost += "；" + r["cost_exclusions"]
+        evaluator = esc(r.get('evaluator_zh') or trial.get('evaluator') or '未提供')
+        if r.get('evaluator_url'):
+            evaluator = f"[{evaluator}]({r['evaluator_url']})"
         lines += [">", f"> > [!eef-trial]- [{esc(trial['label'])}]({trial['url']}) · {esc(phase)}",
-                  *([f"> > - **项目周期** {project_period}"] if project_period else []),
+                  *([f'> > - **项目周期** <span class="eef-period">{project_period}</span>'] if project_period else []),
                   f"> > - **试验时间** {study_time if not project_period else programme_date_range(r, 'study')}",
                   f"> > - **干预时间** {intervention_time}",
-                  f"> > - **独立评估** {esc(r.get('evaluator_zh') or trial.get('evaluator') or '未提供')}",
-                  f"> > - **样本规模** {sample}",
-                  f"> > - **教学剂量** {dose}",
+                  f"> > - **独立评估** {evaluator}"]
+        if r.get("design_note"):
+            lines.append(f"> > - **研究设计** {esc(r['design_note']).replace('待核实', PENDING)}")
+        lines.append(f"> > - **样本规模** {sample}")
+        if r.get("sample_context"):
+            context = "<br>".join(esc(value) for value in r["sample_context"])
+            lines.append(f'> > - **样本特征** <span class="eef-context">{context}</span>')
+        lines += [f"> > - **教学剂量** {dose}",
                   f"> > - **培训安排** {esc(r.get('training') or '未核实')}",
                   f"> > - **研究拨款** {esc(trial.get('grant') or '未提供')}",
                   f"> > - **交付成本** {trial_cost}"]
@@ -934,11 +942,7 @@ def render_programme_v2(slug: str, p: dict, errata: list) -> str:
         if subgroup:
             lines += ["> >", f"> > > [!eef-subgroups]- {len(subgroup)} 项亚组结果", "> > >"]
             lines += programme_outcome_table(subgroup, "> > > ")
-        lines += ["> >", "> > > [!eef-trial-notes]- 样本特征与研究资料"]
-        if r.get("design_note"):
-            lines.append(f"> > > - **研究设计** {esc(r['design_note'])}")
-        for context in r.get("sample_context", []):
-            lines.append(f"> > > - **样本特征** {esc(context)}")
+        documents = []
         for document in trial.get("documents", []):
             title = document.get("title") or "文件"
             title = {"Evaluation Protocol": "研究方案", "Evaluation protocol": "研究方案",
@@ -948,9 +952,11 @@ def render_programme_v2(slug: str, p: dict, errata: list) -> str:
             url = document.get("url")
             if url:
                 date = (document.get("uploaded_at") or "")[:10]
-                lines.append(f"> > > - **评估资料** [{esc(title)}]({url})" + (f"；附件上传 {date}。" if date else ""))
+                documents.append(f"[{esc(title)}]({url})" + (f"（{date} 上传）" if date else ""))
+        if documents:
+            lines += ["> >", '> > <span class="eef-documents">**研究资料** ' + " · ".join(documents) + '</span>']
         for note in r.get("review_notes", []):
-            lines.append(f"> > > - {PENDING} {esc(note)}")
+            lines += ["> >", f'> > <span class="eef-note">{PENDING} {esc(note)}</span>']
 
     notes = p.get("review_notes", []) + [e.get("note", "") for e in errata if e.get("programme") == slug]
     if notes:
@@ -1017,7 +1023,7 @@ updated: 2026-10-27
 
 %% 样板。正式模块由 EEF 同步脚本生成，不手写。
    v2 项目总览四列；每次试验独立成块，亚组结果嵌套在所属试验内。
-   [!eef-programme|v2] 内嵌 [!eef-trial]-，后者内嵌 [!eef-subgroups]- 与 [!eef-trial-notes]-。
+   [!eef-programme|v2] 内嵌 [!eef-trial]-，后者内嵌 [!eef-subgroups]-；研究设计与样本特征并入试验字段，资料链接置于底部。
    月数为零与未提供分别显示；结果评级按所在行保留。样本数逐试验显示，跨试验不合计。 %%
 
 """

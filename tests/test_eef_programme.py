@@ -66,11 +66,18 @@ class ProgrammeTests(unittest.TestCase):
         self.assertNotIn('2 year(s)', result)
         self.assertEqual(result.count('学校首年 £1,612'), 1)
         self.assertEqual(result.count('假定每年实施两组'), 1)
-        for section in result.split('[!eef-trial-notes]-')[1:]:
-            notes = section.split('> > [!eef-trial]-')[0]
-            self.assertNotIn('**成本假设**', notes)
-            self.assertNotIn('**页面项目周期**', notes)
-            self.assertNotIn('**培训安排**', notes)
+        self.assertNotIn('[!eef-trial-notes]', result)
+        self.assertNotIn('样本特征与研究资料', result)
+        first, second = result.split('[!eef-trial]-')[1:]
+        for trial, record in zip((first, second), self.programme['trials']):
+            self.assertEqual(trial.count('**样本特征**'), 1)
+            self.assertEqual(trial.count('**研究资料**'), 1)
+            self.assertLess(trial.index('**样本特征**'), trial.index('[!eef-outcomes]'))
+            self.assertGreater(trial.index('**研究资料**'), trial.index('[!eef-subgroups]'))
+            for context in record['record']['sample_context']:
+                self.assertIn(context, trial)
+            for document in record['documents']:
+                self.assertIn(document['url'], trial)
 
     def test_zero_missing_and_unrated_remain_distinct(self):
         p = copy.deepcopy(self.programme)
