@@ -235,6 +235,16 @@ updated: 2026-10-28
 
 ---
 
+### 命题六　终身学习展现出抵制超国家技术官僚认知重构与范畴降格的制度韧性
+
+> [!concept-lens] 话语制度主义、理念权威与路径依赖
+> 探讨成熟政策理念如何通过历史积累形成制度权威与共识黏性，从而抵御超国家行政精英试图用新兴概念对其进行降格置换的认知重构。
+
+> [!claim] [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]]
+> **终身学习的制度韧性与历史权威** 奈夫卡·亚历克夏杜与哈维尔·兰布拉在解构欧洲教育区（EEA 2030）议程建构时发现，欧盟委员会起草精英试图推动根本性认知转向，将“包容”拔高为主导范畴并单列性别平等，同时将“终身学习”边际化为兜底维度的修辞点缀。然而，这一激进重构在欧盟理事会闭门磋商中遭遇成员国强烈抵制并最终被纠偏。终身学习作为历经二十余年合作与多项条约深化的成熟理念，既是支撑全人发展与终身技能演进的完整制度范畴，也是连通教育文化总司与就业总司不可或缺的制度纽带；2021 年波尔图社会峰会与理事会决议最终促成终身学习的核心回归，证明成熟宏观理念具备深厚的历史制度韧性，能够抵制技术官僚单方面的认知颠覆。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 853–854, 866–867)]]
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | [[Praxis\|实践]]机制与政策含义 | 代表文献 / 来源 |
 > |---|---|---|---|
@@ -244,6 +254,7 @@ updated: 2026-10-28
 > | **跨国流动与就业风险个体化** | 超国家空间治理将跨国流动工具化吸纳为终身学习核心能力，将劳动力市场结构性动荡个体化为终身流动责任 | 警惕流动话语抽离文化内涵并异化为新自由主义就业规训 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009, pp. 362–363)]]; Papatsiba (2005) |
 > | **知识折旧与终身生产力命令** | 学习型经济使静态知识快速折旧，终身学习被重构为掌握实践诀窍（knowing how）、分享创新与维持就业竞争力的生存机制，并由 PISA 将非认知自我规制倾向嵌入义务教育终点测度 | 将教育目的收束于新自由主义人力资本更新与跨国可比排位 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009, pp. 445–447)]]; Foray and Lundvall (1996); [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 26–27, 35)]] |
 > | **学习化异化与全景敞视规训** | 新自由主义与可见学习将教育置换为终身学习，使主体沦为应对[[Knowledge Capitalism\|知识资本主义]]折旧的持续自我优化客体，将教育关系降格为数据监控 | 警惕学习化（learnification）陷阱，重构关涉成熟自由与文化启蒙的教育学主体性 | [[Argument_Larsen_2019_EducSci\|Larsen (2019, pp. 7–10)]]; [[Argument_Biesta_2010_SPE\|Biesta (2010)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
+> | **制度韧性与认知纠偏** | 终身学习具备深厚的历史制度权威与部门协同功能，能够抵御超国家起草精英的范畴降格与理念置换 | 揭示话语制度主义下宏观成熟理念对激进认知重构的制度制约 | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] |
 
 ---
 
@@ -259,10 +270,16 @@ updated: 2026-10-28
 > - **2009 年 — PISA 测评将终身学习前置并嵌入义务教育治理** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009]]）论证指出，经合组织通过 PISA 测评将终身学习机制前置至 15 岁义务教育阶段；测评不仅脱离了具体国家课程，更系统测查学生的学习动机、[[Self-Efficacy|自我效能感]]与自我规制策略，将青年学生提前塑造为必须终身自负其责、持续自我规制的知识经济主体（pp. 26–27, 35）。
 > - **2009 年 — 全景敞视式软法监控批判解构** 帕西亚斯与鲁萨基斯运用福柯规训理论解构欧盟终身学习话语，揭示知识易耗品化与开放协调法如何将终身学习重塑为全景敞视式软法监控建筑。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 483, 492–493)]]
 > - **2020 年代中 数字化、绿色化转型与社会文化基础设施演进** 面对[[Generative Artificial Intelligence|生成式人工智能]]（Artificial Intelligence, AI）颠覆与气候变化危机，[[The Royal Society|英国皇家学会]]（Royal Society, 2026）重塑终身学习[[Construct|构念]]，提出涵盖[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养的交叉素养框架，并将科技馆、探索中心及[[Citizen Science|公民科学]]确立为保障全民终身学习的社会与文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
+> - **2021–2023 年 — 波尔图非正式峰会与欧洲教育区终身学习核心地位捍卫** [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] 揭示欧盟委员会起草精英试图在《欧洲教育区 2030 通讯》中以“包容”置换终身学习并将其降格，但遭遇欧盟理事会与成员国抵制；波尔图社会峰会与理事会决议强力捍卫了终身学习连通教育与就业的制度基石地位。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 853–854, 866–867)]]
 
 ---
 
 > [!debates] 核心学术争议与张力
+>
+> > [!axis] 超国家技术官僚认知重构 vs 历史制度韧性与全生命周期范畴
+> > 争论终身学习是否可以被“包容”等新兴社会政策议题所替代或降格。
+> > - **超国家政策起草精英（欧盟委员会）** 试图将包容提升为主导性治理价值，把终身学习局限在边际弱势群体的兜底修补，作为重塑政策优先级的认知工具。
+> > - **制度主义与成员国实践视角（[[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou & Rambla, 2023]]）** 强调终身学习是跨越二十年合作积累、贯穿全生命周期的完整范畴与横向制度纽带，具备深厚的制度韧性，不能被窄化为单一包容目标的下位附庸。
 >
 > > [!axis] 经济工具主义 vs 人本主义全人发展
 > > 终身学习究竟是为了将劳动力驯化为适应资本积累的工具，还是为了追求人性的自由解放与生活乐趣？

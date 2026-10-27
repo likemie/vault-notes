@@ -250,5 +250,11 @@
       "sentence": "*In this context, OMC, a process directly drawn from the evaluation procedures of multinational companies for education, creates the need to produce 'technologies of surveillance' as tools for the measurement of progress towards certain defined objectives...",
       "target": "wiki/facts/eu/CREATES Project.md"
     }
+  ],
+  "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md": [
+    {
+      "sentence": "在欧洲教育区议程设定中，欧盟委员会与理事会不仅是遵循条约规则的行政实体，更是由具体官员组成的互动场域。",
+      "target": "wiki/concepts/sociology-of-education/Champ.md"
+    }
   ]
 }
