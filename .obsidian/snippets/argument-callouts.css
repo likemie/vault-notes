@@ -23687,3 +23687,172 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callo
 body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(6)::before { content: "安全性"; }
 body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(7) { width: 10% !important; }
 body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table):has(th:nth-child(6)) th:nth-child(7)::before { content: "报告"; }
+
+/* ── EEF programme v2 · 项目总览 / 评估 / 分组结果 ─────────────────────
+   v2 显式作用域，保留旧版项目卡片与 Toolkit 因素样式。
+   表头直接使用 Markdown 中文文字，数字按列对齐；明细表可横向滚动。 */
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] {
+  --callout-color: 59, 91, 169;
+  --eef-line: var(--ac-hair, var(--background-modifier-border));
+  --eef-muted: var(--ac-muted, var(--text-muted));
+  padding: 1.25rem 1.35rem !important;
+  margin: 1.2rem 0 !important;
+  border: 1px solid var(--eef-line) !important;
+  border-top: 3px solid rgb(var(--callout-color)) !important;
+  border-radius: 4px !important;
+  background: var(--ac-paper, var(--background-primary)) !important;
+  box-shadow: none !important;
+  overflow: visible !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-title {
+  margin-bottom: .65rem !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-title .callout-title-inner {
+  font-size: 1.24rem !important;
+  line-height: 1.4 !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-title .callout-title-inner::before {
+  content: "EEF · Promising Programme" !important;
+  padding-left: 0 !important;
+  margin-bottom: .4rem !important;
+  color: rgb(var(--callout-color)) !important;
+  font-size: .65rem !important;
+  letter-spacing: .1em !important;
+}
+/* 复位旧版六列表的伪表头、固定列宽、截断与字体规则。 */
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content :is(table, table:has(th:nth-child(6))),
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout] > .callout-content :is(table, table:has(th:nth-child(6))) {
+  display: table !important;
+  width: 100% !important;
+  min-width: 0 !important;
+  max-width: none !important;
+  margin: .5rem 0 .8rem !important;
+  border-collapse: collapse !important;
+  table-layout: auto !important;
+  background: transparent !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content :is(table, table:has(th:nth-child(6))) :is(th, td):nth-child(n),
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout] > .callout-content :is(table, table:has(th:nth-child(6))) :is(th, td):nth-child(n) {
+  width: auto !important;
+  min-width: 0 !important;
+  max-width: none !important;
+  padding: .55rem .6rem !important;
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
+  font-size: .8rem !important;
+  line-height: 1.6 !important;
+  color: var(--text-normal) !important;
+  text-align: left !important;
+  vertical-align: top !important;
+  font-variant-numeric: tabular-nums lining-nums;
+  border: 0 !important;
+  border-bottom: 1px solid var(--eef-line) !important;
+  background: transparent !important;
+  box-shadow: none !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content :is(table, table:has(th:nth-child(6))) th,
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout] > .callout-content :is(table, table:has(th:nth-child(6))) th {
+  font-size: .69rem !important;
+  font-weight: 500 !important;
+  color: var(--eef-muted) !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] :is(table, table:has(th:nth-child(6))) th::before,
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout] > .callout-content :is(table, table:has(th:nth-child(6))) th::before {
+  content: none !important;
+  display: none !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] th *,
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] td * {
+  font-size: inherit !important;
+  color: inherit !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > table {
+  table-layout: fixed !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > table td {
+  font-size: 1rem !important;
+  font-weight: 600 !important;
+  padding-top: .65rem !important;
+  padding-bottom: .85rem !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > table td:first-child {
+  color: rgb(var(--callout-color)) !important;
+  font-size: 1.4rem !important;
+  line-height: 1.2 !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > p {
+  font-size: .8rem !important;
+  color: var(--eef-muted) !important;
+  margin: .5rem 0 !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > p:first-child {
+  color: var(--text-normal) !important;
+  font-size: .88rem !important;
+  margin-bottom: 1rem !important;
+}
+/* 子区保留因素样式的折叠方式，标题与表格密度一致。 */
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout] {
+  --callout-color: 59, 91, 169;
+  border: 1px solid var(--eef-line) !important;
+  border-radius: 3px !important;
+  background: var(--background-primary) !important;
+  box-shadow: none !important;
+  padding: .6rem .75rem !important;
+  margin: .65rem 0 0 !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout]::before,
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout]::after {
+  display: none !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout] > .callout-title {
+  color: var(--text-normal) !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  gap: .5rem;
+  background: transparent !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout] > .callout-title .callout-title-inner {
+  font: 500 .78rem/1.5 var(--ac-sans, var(--font-text)) !important;
+  color: var(--text-normal) !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout] > .callout-title .callout-title-inner::before,
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout] > .callout-title .callout-icon {
+  display: none !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout] > .callout-content {
+  overflow-x: auto !important;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: thin;
+  padding: 0 !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout] > .callout-content :is(table, table:has(th:nth-child(6))) {
+  min-width: 740px !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-outcomes"] > .callout-content :is(table, table:has(th:nth-child(6))) :is(th, td):nth-child(n+4):nth-child(-n+6),
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-trials"] > .callout-content :is(table, table:has(th:nth-child(6))) :is(th, td):nth-child(4) {
+  text-align: right !important;
+  white-space: nowrap !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] .callout.callout[data-callout="eef-errata"] {
+  border-left: 2px solid rgb(169, 117, 47) !important;
+}
+body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] a:focus-visible {
+  outline: 2px solid rgb(var(--callout-color));
+  outline-offset: 3px;
+}
+@media (max-width: 600px) {
+  body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] {
+    padding: .9rem .7rem !important;
+  }
+  body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > table :is(th, td) {
+    padding-left: .3rem !important;
+    padding-right: .3rem !important;
+  }
+  body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > table td {
+    font-size: .82rem !important;
+  }
+  body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-callout-metadata="v2"] > .callout-content > table td:first-child {
+    font-size: 1.1rem !important;
+  }
+}

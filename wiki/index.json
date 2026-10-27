@@ -1529,6 +1529,9 @@
     "type": "concept",
     "path": "wiki/concepts/comparative-education/PISA Shock.md",
     "aliases": [
+      "PISA冲击",
+      "PISA震荡",
+      "PISA休克",
       "国际学生评估项目震荡",
       "国际学生评估项目冲击",
       "国际学生评估项目震动",
@@ -19033,7 +19036,10 @@
     "path": "wiki/theories/comparative-education/Three-Level Mechanism Model of PISA's Impact on Education Policy.md",
     "aliases": [
       "PISA 影响教育政策的三层机制模型",
-      "three-level mechanism model of PISA impact"
+      "three-level mechanism model of PISA impact",
+      "PISA政策影响三层机制模型",
+      "PISA政策回应二维四象限模型",
+      "Two-Dimensional Four-Quadrant Model of Policy Responses to PISA"
     ]
   },
   {
@@ -38629,6 +38635,16 @@
       "1979年学校委员会国际文凭可行性研究",
       "Schools Council IB Feasibility Study",
       "British Schools Council International Baccalaureate Feasibility Study"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "1stClass@Number 1",
+    "type": "fact",
+    "path": "wiki/facts/uk/1stClass@Number 1.md",
+    "aliases": [
+      "1stClass@Number 1 programme",
+      "1stClass@Number 1 数学干预项目"
     ],
     "subtype": "program"
   },
