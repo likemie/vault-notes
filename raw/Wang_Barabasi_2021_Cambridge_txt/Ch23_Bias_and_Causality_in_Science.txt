@@ -1,0 +1,1655 @@
+The Science of Science
+Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
+ISBN 9781108492669 | DOI 10.1017/9781108610834
+
+Part IV: Outlook
+Chapter 23: Bias and Causality in Science
+Print pages 241–251; one-based PDF pages 259–269
+
+[English original. Page markers identify print and PDF pages. References remain numbered as in the book. Shared supplementary materials are labelled separately. Download footers and recognized running heads are removed; original text, formulas and line breaks are otherwise retained. Verify exact mathematical notation, diagrams and table layout against the PDF.]
+
+
+========================================================================
+Chapter text
+========================================================================
+
+[p. 241] [PDF page 259]
+
+23 BIAS AND CAUSALITY IN SCIENCE
+         Science of science research relies on publications and citations
+as its primary data sources, an approach that has important
+implications.
+         First, the explored insights and findings are limited to ideas
+successful enough to merit publication. Yet, most ideas fail, sometimes
+spectacularly. As we lack data on failures, our current understanding
+of how science works has multiple blind spots. Arguably, by focusing
+only on successful research, we perpetuate systematic biases against
+failure.
+         Second, for most of this book, the success outcomes we’ve used
+rely on citation counts. While this bias toward citations is reflective of
+the current landscape of the field, it highlights the need to go beyond
+citations as the only “currency” of science.
+         Third, the data-driven nature of the science of science research
+indicates that most studies remain observational. While such descriptive
+studies can reveal strong associations between events and outcomes, to
+understand whether a specific event “causes” a specific outcome
+requires us to go beyond observational studies and systematically assess
+causality.
+         Next, we will discuss in more detail these important directions
+for the science of science. Let’s begin with a simple question: How big of
+a problem is our ignorance of failure?
+
+[p. 242] [PDF page 260]
+
+Figure 23.1 Survivorship bias. Illustration of hypothetical damage
+            pattern on a WW II bomber. The damaged portions of returning planes
+            show locations where they can take a hit and still return home safely;
+            those hit in other places do not survive. (Image from Wikipedia under
+            CC BY-SA 4.0.)
+
+
+
+
+23.1        Failure
+        In World War II, the British military had access to an armor
+material that could make its planes bulletproof. Yet, this new armor was
+heavy, hence it could be only deployed to cover some, but not all, parts
+of a plane without compromising its flight range or maneuverability.
+Hence the designers faced an important question: Which part of their
+planes should be armored first?
+        The Allied forces decided to take a data-driven approach.
+They looked at returning B-29 bombers and they marked every place
+where they had taken fire. Once they gathered the data, the decision
+seemed simple: Just apply the armor to areas most often pocked with
+bullet holes (Fig. 23.1). As they moved forward with the plan, Abra-
+ham Wald, a statistician in the research group, stepped in. He
+explained to the Defense Department that the correct strategy should
+be doing exactly the opposite: applying armor to areas where bullet
+holes weren’t recorded. After all, all the data comes from planes that
+successfully returned to the base. A fuselage that looks like Swiss
+cheese isn’t a real concern if it made a round-trip journey. Instead,
+parts that were missing bullet holes, corresponding to engines, culprit,
+
+[p. 243] [PDF page 261]
+
+and other critical parts, are what need the extra protection – as those
+planes never made it back.
+         This is a wonderful example where an initial conclusion had to
+be completely reversed because it’s based on data containing only
+successful samples. Similar biases abound in science: The literature
+tends to focus on the researchers who have successfully raised funds,
+published in peer-reviewed journals, patented inventions, launched new
+ventures, and experienced long, productive careers. These successful
+cases beg an important question: Given that our current understanding
+of science has been derived almost exclusively from successful stories,
+are we certain that the conclusions we’ve come to don’t require major
+corrections?
+         Failures in science remain underexplored mainly because it’s
+difficult to collect ground-truth information, accurately tracing failed
+ideas, individuals, and teams. That situation could be remedied, how-
+ever, by exploring new data sources and combining them with existing
+ones. For example, since 2001, patent applications filed at the US Patent
+and Trademark Office (USPTO) have been published within 18 months
+of their priority date, regardless of whether they’re granted or not. By
+tracing all applications filed, researchers can now identify successful
+ideas that were granted patents by the USPTO, alongside those that
+were turned down. Grant application databases, which contain both
+funded and unfunded grant proposals, represent another rich source of
+information for deepening our understanding of success and failure in
+science. A limited number of researchers have gained access to internal
+grant databases at funding agencies such as the US National Institutes of
+Health (NIH) [398], and the Netherlands Organization of Scientific
+Research [399]. When combined with existing publication and citation
+databases, this data could enable scientists to map out the rich contexts
+in which success and failure unfolds.
+         Initial investigations in this direction have offered several
+counterintuitive insights. Take one of our own studies as an example
+[398]. We focused on junior scientists whose R01 proposals to the
+NIH fell just above and below the funding cutoff, allowing us to
+compare “near-miss” with “narrow-win” individuals and to examine
+their longer-term career outcomes. These two groups of junior scien-
+tists were essentially the same before the “treatment” but faced a
+clearly different reality afterward: One group was awarded on average
+US$1.3 million over five years, while the other group was not. How big
+
+[p. 244] [PDF page 262]
+
+of a difference did this kind of early career setback make for junior
+scientists?
+         To find out, we followed both groups’ subsequent career his-
+tories, finding that an early career setback is indeed of consequence: It
+significantly increases attrition. Indeed, one near miss predicts more
+than a 10 percent chance the researcher would disappear permanently
+from the NIH system. This rate of attrition is somewhat alarming,
+because to become an NIH PI, applicants have to have a demonstrated
+track record and years of training. A single setback, in other words, can
+end a career.
+         Yet, most surprisingly, the data indicates that the near-miss
+individuals who kept working as scientists systematically outperformed
+the near-winners in the long run – their publications in the next 10 years
+garnered significantly higher impact. This finding is quite striking.
+Indeed, take two researchers with similar performance who are seeking
+to advance their careers. The two are virtually twins, except that one
+has had an early funding failure and the other an early funding success.
+It was puzzling to discover that it’s the one who failed who will write the
+higher-impact papers in the future.
+         One possible explanation for this finding is a screening mech-
+anism, where the “survivors” of the near-miss group have fixed, advan-
+tageous characteristics, giving those who remain in the field better
+performance on average than their narrow-win counterparts. But when
+we accounted for this screening effect, we find that screening alone
+cannot explain the performance gap. In other words, those who failed
+but persevered didn’t just start out as better performers; they also
+became better versions of themselves, reinforcing that “what doesn’t
+kill you makes you stronger.”
+         These results seem especially counterintuitive given that science
+is dominated by “rich get richer” dynamics, where success, not failure,
+brings future success. These findings therefore indicate that failure in
+science has powerful, opposing effects – hurting some careers, but also
+unexpectedly strengthening outcomes for others. Just like prior success,
+prior failure can also act as a marker of a future successful career. That’s
+good news, since scientists encounter failure on a weekly if not
+daily basis.
+         More generally, though, this study raises a broader point: While
+we’ve achieved some success in understanding success, we may have
+failed to understand failure. Given that scientists fail more often than
+
+[p. 245] [PDF page 263]
+
+they succeed, understanding the whens, whys, and hows of failure, and
+their consequences, will not only prove essential in our attempts to
+understand and improve science; they may also substantially further
+our understanding of the human imagination by revealing the total
+pipeline of creative activity.
+
+
+   Box 23.1 Manuscript rejections boost the impact of the paper
+   A scientist who submits a new paper, only to have it rejected time after
+   time, may conclude that the paper is simply not that good, and that even if
+   it ever gets published, it will likely fade away into obscurity. The data
+   shows otherwise: rejections actually boost the impact of a paper. We know
+   this thanks to a study that tracked the submission histories of 80,748
+   scientific articles published in 923 bioscience journals between 2006 and
+   2008 [400]. The study found that resubmissions are rare: 75 percent of all
+   papers were published in the journal to which they are first submitted. In
+   other words, scientists are good at gauging where their papers are best
+   suited. But when the authors compared resubmitted papers with those that
+   made it into publications on their first try, they were in for a surprise:
+   papers rejected on the first submission but published on the second were
+   more highly cited within six years of publication than papers accepted
+   immediately in the same journal. How does failure improve impact?
+          One possibility is that authors are good at assessing the potential
+   impact of their research. Hence, manuscripts that are initially submitted to
+   high-impact journals are intrinsically more “fit” for citations, even if they
+   are rejected. But this theory cannot fully explain what the researchers
+   observed: After all, resubmissions were more highly cited regardless of
+   whether the resubmissions moved to journals with higher or lower average
+   impact. This suggests another possibility: Feedback from editors and
+   reviewers, and the additional time spent revising the paper for resubmis-
+   sion, make for a better – and more citable – final product. So, if you’ve had
+   a paper rejected, don’t be frustrated with the resubmission process – what
+   doesn’t kill you may indeed make your work stronger.
+
+
+
+
+23.2        A Broader Definition of Impact
+Scientists have had a love–hate relationship with any metric for assess-
+ing a paper [401]. Indeed, why would researchers ever rely on proxies,
+rather than engage directly with the paper? And yet, citations are
+
+[p. 246] [PDF page 264]
+
+frequently used to gauge the recognition of a scientist by their peers. As
+our quantitative understanding of science improves, there is an increas-
+ing need to broaden the number and range of performance indicators.
+Consider the game of Go, where in each step of the game, you ought to
+ask yourself: What’s the right move? The answer there is unambiguous –
+the right move is the one that will most likely win the game. Yet science
+lacks a single “right move,” but many possible paths are interwoven. As
+the science of science develops, we are likely to witness the exploration
+of a multitude of “right moves,” a better understanding of how they
+interact with each other, and how they capture new dimensions of
+scientific production and reward. These new developments will likely
+fall within the following three categories.
+          The first encompasses variants on citations. While metrics will
+continue to rely on the citation relationships between papers, they will
+likely go beyond sheer citation counts, leveraging intricate structures
+within the citation network. The disruption index [207], discussed in
+Chapter 12, offers one example: Instead of asking how many citations a
+paper has received, we can view each of the citations within the context
+of literature that’s relevant to the paper. When papers that cite a given
+article also reference a substantial proportion of that article’s references,
+then the article can be seen as consolidating the current scientific think-
+ing. But, when the citations to an article ignore its intellectual forebears,
+it’s an indication that the paper eclipses its prior literature, suggesting it
+disrupts its domain with new ideas.
+          The second category, alternative metrics, or altmetrics, comple-
+ment the traditional citation-based impact measures. The development
+of Web 2.0 has changed the way research is shared within and outside
+academia, allowing for new innovative constructs for measuring the
+broader impact of a scientific work. One of the first altmetrics used for
+this purpose was a paper’s page views. As journals moved to the Web, it
+is possible to count precisely how often a paper was looked at. Similarly,
+the discussion of a paper on various platforms can also gauge its poten-
+tial impact. Scientists can calculate such metrics using data from social
+media, like Facebook and Twitter, blogs, and Wikipedia pages.
+          Researchers have calculated page views and tweets related to
+different papers [402, 403]. When comparing these measures with
+subsequent citations, there is usually a modest correlation at best. The
+lack of correlation with citations is both good and bad news for alt-
+metrics. On the one hand, this lack of correlation indicates that
+
+[p. 247] [PDF page 265]
+
+altmetrics complement citations counts, by approximating public per-
+ception and engagement in a way that citation-based measures do not.
+As funders often demand a measurable outcome on the broad impact of
+their spending, such complementary metric could be useful. It is par-
+ticularly appealing that altmetrics can be calculated shortly after a
+paper’s publication, offering more immediate feedback than accruing
+citations.
+         On the other hand, the lack of correlation with traditional
+citation metrics raises questions about the usefulness of altmetrics in
+evaluating and predicting scientific impact. Indeed, some altmetrics are
+prone to self-promotion, gaming, and other mechanisms used to boost a
+paper’s short-term visibility. After all, likes and mentions can be bought,
+and what’s popular online may not match the value system of science.
+Hence, it remains unclear if and how altmetrics will be incorporated
+into scientific decision-making. Nevertheless, altmetrics offer a step in
+the right direction, helping us to diversify the way we track the impact
+of science beyond science. Which brings us to the third category.
+         An equally promising direction may be quantifying and incorp-
+orating a broader definition of impact, especially the ripples of impact
+that reach beyond academic science. For example, researchers analyzed
+the output of NIH research grants, but instead of focusing on publica-
+tions and citations, they studied patents related to drugs, devices, and
+other medical technologies in the private sector, linking public research
+investments to commercial applications [404]. They found that about
+10 percent of NIH grants generated a patent directly, but 30 percent
+generate papers that are subsequently cited in patent applications. These
+results indicate that academic research has a much higher impact on
+commercial innovation and is a lot more important than what we might
+have thought. In a related example, researchers measured how patented
+inventions built on prior scientific inquiries by mapping a network of
+citations between papers and patents [405]. Their research found that
+an astonishing 80 percent of published papers could be connected to a
+future patent. These two examples suggest that scientific advances and
+marketplace inventions are pervasively and intimately connected. By
+broadening their definition of impact, these studies also demonstrate
+the value of scientific research reaches beyond academic science.
+Although the vast majority of research endeavors take place in an ivory
+tower, that work meaningfully impacts the development of patented
+inventions and generates productive private-sector applications.
+
+[p. 248] [PDF page 266]
+
+To be sure, more research is needed to understand what each
+new metric does, and how to avoid misuse. Future science of science
+research seeking to extend the definition of the impact will prove to be
+critical. For example, understanding the practical value of scientific
+research – particularly when it is paid for by federal funding agencies –
+is essential for determining how best to allocate money.
+
+
+23.3        Causality
+         Does funding someone make that person more productive? We
+can answer this by collecting large-scale datasets pertaining to individ-
+ual funding and linking that to subsequent productivity. Let’s assume
+that the data shows a clear relationship between the amount of funding
+and the number of papers published over the next five years. Can we
+claim to have definitively answered our question?
+         Not quite. A variety of other factors both increase the likeli-
+hood of getting funding and make people appear more productive later
+on. For example, it could be that some fields are trendier than others, so
+people working in these fields are more likely to attract funding and also
+tend to publish more. Institution prestige may also play a role: It may be
+easier for researchers at Harvard to get funding than their colleagues at
+lower-tier institutions, but those Harvard professors also tend to be
+more productive.
+         We can, however, control for these factors by introducing fix
+effects in the regression table. The limitation of this approach is that we
+can only control for factors that are observable and there are many
+unobservable factors that are just as plausible. Take, for example,
+what’s known as “the grit factor” [406]. Grittier researchers may be
+more likely to attain funding and are also more productive. These types
+of confounding factors are often observational studies’ worst enemies,
+because they question whether any observed correlation implies a causal
+relationship between the two variables.
+         Why do we care whether the relationship is causal or not? First,
+understanding causality is critical for deciding what to do with the
+insights we glean. For example, if funding indeed results in more publi-
+cations, then we can increase the amount of research in a certain area by
+increasing our investment in it. If, however, the observed relationship
+between funding and publications is entirely driven by the grit factor,
+then increased funding in an underexplored discipline would have little
+
+[p. 249] [PDF page 267]
+
+effect. Instead, we’d have to identify and support the researchers in that
+discipline who have grit.
+          Luckily, understanding causality is something science of science
+researchers can learn from their colleagues in economics. Over the last
+three decades, micro-economists have developed a series of techniques
+that can provide fairly reliable answers to some empirical questions.
+These methods, collectively known as the credibility revolution [407],
+rely on two basic tricks.
+          The first trick is utilizing a randomized controlled trial (RCT),
+an approach originated in medical research. To test if a certain treat-
+ment works, people participating in the trial are randomly allocated to
+either (1) the group receiving the treatment or (2) a control group that
+receives either no treatment or a placebo. The key element here is that
+the intervention is assigned randomly, ensuring that the treatment and
+control group are indistinguishable. If there are any detectable differ-
+ences between the two groups after the trial, they must be the outcome
+of the treatment alone, and not any other factors. Let’s look at an
+example.
+          We learned in Part III that teams now dominate the production
+of high-impact science. But we know very little about how scientific
+collaborations form in the first place. There is empirical evidence that
+new collaborations tend to occur among people who are geographically
+close to each other. One hypothesis posed to explain this observation is
+that finding collaborators presents a search problem: It’s costly to find
+the right ones, so we tend to work with people who are in our physical
+proximity. That theory makes sense, but there could be alternative
+explanations. Maybe the geographic closeness we see between collabor-
+ators is due to the friendships cultivated in a shared workspace. Or
+maybe it can be explained by the shared research interests that emerge
+in small departments. A critical test of the search problem hypothesis
+would be an RCT: If we reduce search costs for some pairs of potential
+collaborators by facilitating face-to-face interactions but not for others –
+creating a treatment group and a control group – will we see any
+differences in collaboration?
+          That’s precisely what researchers did when they organized a
+symposium for an internal funding opportunity at the Harvard Medical
+School [408]. They enabled face-to-face interactions during 90-minute
+idea-sharing sessions for some pairs of scientists who’d been randomly
+selected from among the 400 attendees. The probability of
+
+[p. 250] [PDF page 268]
+
+collaboration increased by 75 percent for the treated scientists com-
+pared with the control group, who participated in the same idea-sharing
+but did not have a face-to-face session. Since the two groups were
+randomized, the increased rate of collaboration among the treatment
+pairs isn’t due to other factors like shared interests or pre-existing
+friendships. Instead, we can attribute the increased likelihood of collab-
+oration to the fact that the pairs in question met face-to-face.
+         Randomized controlled trials remain the most reliable method
+in the world of causal inference. But experimenting on science also
+represents a significant challenge. Indeed, RCTs that can alter outcomes
+for individual researchers or institutions – which are mostly supported
+by tax dollars – are bound to attract criticism and push-back [79]. This
+is where quasi-experimental approaches will come in handy.
+         If we want to identify a causal relationship between factors,
+there’s a second trick we can use: Find a randomly occurring event, use
+it as a cutoff, and examine what happens before and after. This is
+known as a “natural experiment” or a “quasi-experiment.” The
+example on how early career setbacks lead to future success, used this
+trick [398]. Whether junior PIs were just above or below the funding
+threshold for NIH grants is an exogenous variation to any individual
+characteristics of the PIs themselves. People with more grit may be more
+resilient against setbacks, or publish higher-impact papers, but they
+could not choose to be in either side of this arbitrary threshold. Since
+being above or below the threshold only affects your chance of funding,
+hence if that predicts your future career outcome, it must mean that
+there is a link between funding and career outcome, independent of any
+other observable or unobservable factors.
+         If we can identify causal relationships in the studies we conduct,
+we can be more certain of the results we arrive at. Partly for this reason,
+the credibility revolution has had a major impact on economics. Indeed,
+in 2017, around 50 percent of working papers published by National
+Bureau of Economics Research (NBER) have the word “identification”
+in them [409]. But, this greater certainty comes at a price. Answers
+whose causal relationship can be well identified tend to cover a
+narrower range of topics. Indeed, one of the most critical lessons in
+interpreting results from RCTs is that the causal relationship, when it is
+established, only applies to the randomized population that was stud-
+ied. A drug treatment that healed 60-year-old patients in a New York
+hospital won’t necessarily work on adolescents in China. Similarly,
+
+[p. 251] [PDF page 269]
+
+effects discovered for NIH PIs around the funding threshold don’t
+necessarily generalize to other populations. This means that describing
+the conditions of the experiment is just as important as describing the
+results. As such, RCTs and other causal identification methods highlight
+an essential tension between certainty and generalizability: Small,
+limited questions can be answered with confidence, but bigger questions
+are subject to much more uncertainty.
+         Given the tension between certainty and generalizability, both
+experimental and observational insights are important in our under-
+standing of how science works. In a call for more experiments on
+science itself, MIT economist Pierre Azoulay pointed out [79]: “We
+inherited the current institutions of science from the period just after
+the Second World War. It would be a fortuitous coincidence if the
+systems that served us so well in the twentieth century were equally
+adapted to twenty-first-century needs.” Through quasi-experiments and
+carefully designed experiments, the science of science will hopefully
+yield causal insights that will have direct policy implications for this
+new era.
+         Yet, even within economics, there is a growing consensus that
+many big questions in society – like the impact of global warming –
+cannot be answered using super-reliable techniques [410]. But, we
+cannot afford to ignore these big questions. Therefore, the science of
+science of the future will benefit from a flourishing ecology of both
+observational and experimental studies. By engaging in tighter partner-
+ships with experimentalists, science of science researchers will be able to
+better identify associations discovered from models and large-scale data
+that have causal insights. Doing so will enrich their relevance in our
+policy and decision-making.
+
+
+========================================================================
+Book-level supplement: Last Thought — All the Science of Science
+========================================================================
+
+[p. 252] [PDF page 270]
+
+LAST THOUGHT: ALL THE SCIENCE
+                                    OF SCIENCE
+
+         We would like to end this book with an invitation. We began by
+drawing an analogy between the recent data revolution in science and
+how instruments like the microscope or the telescope have transformed
+their disciplines. As we’ve discussed throughout, the science of science
+has advanced thanks to key contributions by researchers from a range
+of fields – from information and library sciences to the social, physical,
+and biological sciences to engineering and design – each employing
+distinct disciplinary models, skills, intuition, standards, and objectives
+to address and evaluate different aspects of the scientific enterprise.
+         Yet, unlike the microscope or telescope, this latest instrument
+has a fundamentally different characteristic. Indeed, the very nature of
+science of science suggests that it must be of the sciences, by the sciences,
+and for the sciences. This powerfully illustrates how a science of science
+that relies only on a few disciplines – the information sciences, social
+sciences, or engineering, let’s say – will miss critical aspects of an
+enterprise that is growing larger, more complex, and more intercon-
+nected at an exponential rate. In other words, for science of science to
+succeed, it needs all science.
+         Indeed, in the next decade, the relationship between science and
+the science of science is expected to grow more intimate. Science of
+science will not just be about understanding how science is done.
+Instead, it will more deeply and creatively probe the question of how
+to do science better. This shift highlights the benefits for scientists from
+all disciplines to invest in science of science in order to improve their
+output by (1) identifying neglected yet important areas of inquiry, and
+
+[p. 253] [PDF page 271]
+
+(2) doing what they already do more efficiently – by, for example,
+reasoning across more of the literature than can be easily read and
+distilling mechanisms that will guide future investigation. A tighter
+integration between the creation of science and our understanding of
+it may also enable more rapid direct and indirect replication of research,
+promoting reproducibility and confidence in the firmness of scientific
+claims.
+          While a broad swathe of investigators can benefit from science
+of science research, which is consumed by all sciences, they contribute
+unequally. The success of science of science depends on us overcoming
+traditional disciplinary barriers. These include finding publication
+venues that are accessible to a broad audience and which can efficiently
+communicate results, methods, and insights; funding sources that sup-
+port a range of disciplinary perspectives and conveying insight to spe-
+cific disciplines so that institutions and systems can be fine-tuned
+accordingly.
+          Embracing the science of science in its entirety will surely benefit
+the community of researchers engaged in furthering the field. Indeed,
+although several key advances in the field concern the discovery of
+universals across science, substantial disciplinary differences in culture,
+habits, and preferences make some cross-domain insights difficult to
+appreciate within particular fields. That can make associated policies
+too generic, and challenging to implement in specific areas. As science
+grows larger and more complex, insights from science of science that are
+oblivious to discipline-specific peculiarities will become increasingly
+inadequate.
+          All this means that science of science must draw upon the
+talents, traditions, and heuristics of every discipline if we want to make
+science optimally beneficial for everyone. Therefore, please accept our
+sincere invitation – join us in this fascinating journey.
+
+
+========================================================================
+Book-level appendix: Complete references (shared by all chapters)
+========================================================================
+
+[p. 270] [PDF page 291]
+
+REFERENCES
+
+
+ [1] W. Dennis, Bibliographies of eminent scientists. Scientific Monthly, 79(3),
+     (1954), 180–183.
+ [2] D. K. Simonton, Creative productivity: A predictive and explanatory model of
+     career trajectories and landmarks. Psychological Review, 104(1), (1997), 66.
+ [3] S. Brodetsky, Newton: Scientist and man. Nature, 150, (1942), 698–699.
+ [4] Y. Dong, H. Ma, Z. Shen, et al., A century of science: Globalization of
+     scientific collaborations, citations, and innovations, in Proceedings of the
+     23rd ACM SIGKDD International Conference on Knowledge Discovery
+     and Data Mining (New York: ACM, 2017), pp. 1437–1446.
+ [5] R. Sinatra, P. Deville, M. Szell, et al., A century of physics. Nature Physics,
+     11(10), (2015), 791–796.
+ [6] M. L. Goldberger, B. A. Maher, and P. E. E. Flattau, Doctorate Programs
+     in the United States: Continuity and Change (Washington, DC: The
+     National Academies Press, 1995).
+ [7] L. Baird, Departmental publication productivity and reputational quality:
+     Disciplinary differences. Tertiary Education and Management, 15(4),
+     2009), 355–369.
+ [8] J. P. Ioannidis, Why most published research findings are false. PLoS
+     Medicine, 2(8), (2005), e124.
+ [9] W. Shockley, On the statistics of individual variations of productivity in
+     research laboratories. Proceedings of the IRE, 45(3), (1957), 279–290.
+[10] P. Fronczak, A. Fronczak, and J. A. Hołyst, Analysis of scientific
+     productivity using maximum entropy principle and fluctuation-dissipation
+     theorem. Physical Review E, 75(2), (2007), 026103.
+[11] A. J. Lotka, The frequency distribution of scientific productivity. Journal of
+     Washington Academy Sciences, 16(12), (1926), 317–324.
+
+[p. 271] [PDF page 292]
+
+[12] D. de Solla Price, Little Science, Big Science and Beyond (New York:
+     Columbia University Press, 1986).
+[13] H. C. Lehman, Men’s creative production rate at different ages and in
+     different countries. The Scientific Monthly, 78, (1954), 321–326.
+[14] P. D. Allison and J. A. Stewart, Productivity differences among scientists:
+     Evidence for accumulative advantage. American Sociological Review,
+     39(4), (1974), 596–606.
+[15] F. Radicchi and C. Castellano, Analysis of bibliometric indicators for
+     individual scholars in a large data set. Scientometrics, 97(3), (2013),
+     627–637.
+[16] A.-L. Barabási, The Formula: The Universal Laws of Success (London:
+     Hachette, 2018).
+[17] D. Bertsimas, E. Brynjolfsson, S. Reichman, et al., OR forum–tenure
+     analytics: Models for predicting research impact. Operations Research,
+     63(6), (2015), 1246–1261.
+[18] P. E. Stephan, How Economics Shapes Science vol. 1 (Cambridge, MA:
+     Harvard University Press, 2012).
+[19] A. Clauset, S. Arbesman, and D. B. Larremore, Systematic inequality and
+     hierarchy in faculty hiring networks. Science Advances, 1(1), (2015),
+     e1400005.
+[20] W. J. Broad, The publishing game: Getting more for less. Science, 211
+     (4487), (1981), 1137–1139.
+[21] N. R. Smalheiser and V. I. Torvik, Author name disambiguation. Annual
+     review of information science and technology, 43(1), (2009), 1–43.
+[22] A. A. Ferreira, M. A. Gonçalves, and A. H. Laender, A brief survey of
+     automatic methods for author name disambiguation. ACM SIGMOD
+     Record, 41(2), (2012), 15–26.
+[23] V. I. Torvik, M. Weeber, D. R. Swanson, et al., A probabilistic similarity
+     metric for Medline records: A model for author name disambiguation.
+     Journal of the American Society for Information Science and Technology,
+     56(2), (2005), 140–158.
+[24] A. J. Hey and P. Walters, Einstein’s Mirror (Cambridge, UK: Cambridge
+     University Press, 1997).
+[25] D. N. Mermin, My life with Landau, in E. A. Gotsman, Y. Ne’eman, and
+     A. Voronel, eds., Frontiers of Physics, Proceedings of the Landau
+     Memorial Conference (Oxford: Pergamon Press, 1990), p. 43.
+[26] J. E. Hirsch, An index to quantify an individual’s scientific research output.
+     Proceedings of the National Academy of Sciences, 102(46), (2005),
+     16569–16572.
+[27] R. Van Noorden, Metrics: A profusion of measures. Nature, 465(7300),
+     (2010), 864–866.
+
+[p. 272] [PDF page 293]
+
+[28] A. F. Van Raan, Comparison of the Hirsch-index with standard
+     bibliometric indicators and with peer judgment for 147 chemistry research
+     groups. Scientometrics, 67(3), (2006), 491–502.
+[29] L. Zhivotovsky and K. Krutovsky, Self-citation can inflate h-index.
+     Scientometrics, 77(2), (2008), 373–375.
+[30] A. Purvis, The h index: playing the numbers game. Trends in Ecology and
+     Evolution, 21(8), (2006), 422.
+[31] J. E. Hirsch, Does the h index have predictive power? Proceedings of the
+     National Academy of Sciences, 104(49), (2007), 19193–19198.
+[32] J. M. Cattell, American Men Of Science: A Biographical Directory (New
+     York: The Science Press, 1910).
+[33] J. Lane, Let’s make science metrics more scientific. Nature, 464(7288),
+     (2010), 488–489.
+[34] S. Alonso, F. J. Cabrerizo, E. Herrera-Viedma, et al., hg-index: A new index
+     to characterize the scientific output of researchers based on the h-and
+     g-indices. Scientometrics, 82(2), (2009), 391–400.
+[35] S. Alonso, F. J. Cabrerizo, E. Herrera-Viedma, et al., h-Index: A review
+     focused in its variants, computation and standardization for different
+     scientific fields. Journal of Informetrics, 3(4), (2009), 273–289.
+[36] Q. L. Burrell, On the h-index, the size of the Hirsch core and Jin’s A-index.
+     Journal of Informetrics, 1(2), (2007), 170–177.
+[37] F. J. Cabrerizo, S. Alonso, E. Herrera-Viedma, et al., q2-Index:
+     Quantitative and qualitative evaluation based on the number and impact of
+     papers in the Hirsch core. Journal of Informetrics, 4(1), (2010), 23–28.
+[38] B. Jin, L. Liang, R. Rousseau, et al., The R-and AR-indices:
+     Complementing the h-index. Chinese science bulletin, 52(6), (2007),
+     855–863.
+[39] M. Kosmulski, A new Hirsch-type index saves time and works equally well
+     as the original h-index. ISSI Newsletter, 2(3), (2006), 4–6.
+[40] L. Egghe, An improvement of the h-index: The g-index. ISSI newsletter,
+     2(1), (2006), 8–9.
+[41] L. Egghe, Theory and practise of the g-index. Scientometrics, 69(1), (2006),
+     131–152.
+[42] S. N. Dorogovtsev and J. F. F. Mendes, Ranking scientists. Nature Physics,
+     11(11), (2015), 882–883.
+[43] F. Radicchi, S. Fortunato, and C. Castellano, Universality of citation
+     distributions: Toward an objective measure of scientific impact.
+     Proceedings of the National Academy of Sciences, 105(45), (2008),
+     17268–17272.
+[44] J. Kaur, F. Radicchi, and F. Menczer, Universality of scholarly impact
+     metrics. Journal of Informetrics, 7(4), (2013), 924–932.
+
+[p. 273] [PDF page 294]
+
+[45] A. Sidiropoulos, D. Katsaros, and Y. Manolopoulos, Generalized Hirsch
+     h-index for disclosing latent facts in citation networks. Scientometrics,
+     72(2), (2007), 253–280.
+[46] J. Hirsch, An index to quantify an individual’s scientific research output
+     that takes into account the effect of multiple coauthorship. Scientometrics,
+     85(3), (2010), 741–754.
+[47] J. E. Hirsch, h α: An index to quantify an individual’s scientific leadership.
+     Scientometrics, 118(2), (2019), 673–686.
+[48] M. Schreiber, A modification of the h-index: The h m-index accounts for
+     multi-authored manuscripts. Journal of Informetrics, 2(3), (2008),
+     211–216.
+[49] L. Egghe, Mathematical theory of the h-and g-index in case of fractional
+     counting of authorship. Journal of the American Society for Information
+     Science and Technology, 59(10), (2008), 1608–1616.
+[50] S. Galam, Tailor based allocations for multiple authorship: A fractional gh-
+     index. Scientometrics, 89(1), (2011), 365.
+[51] T. Tscharntke, M. E. Hochberg, T. A. Rand et al., Author sequence and
+     credit for contributions in multiauthored publications. PLoS Biology, 5(1),
+     (2007), e18.
+[52] M. Ausloos, Assessing the true role of coauthors in the h-index measure of
+     an author scientific impact. Physica A: Statistical Mechanics and its
+     Applications, 422, (2015), 136–142.
+[53] X. Z. Liu and H. Fang, Modifying h-index by allocating credit of multi-
+     authored papers whose author names rank based on contribution. Journal
+     of Informetrics, 6(4), (2012), 557–565.
+[54] X. Hu, R. Rousseau, and J. Chen, In those fields where multiple authorship
+     is the rule, the h-index should be supplemented by role-based h-indices.
+     Journal of Information Science, 36(1), (2010), 73–85.
+[55] Google Scholar. Available online at https://scholar.google.com.
+[56] F. Radicchi, S. Fortunato, B. Markines, et al., Diffusion of scientific credits
+     and the ranking of scientists. Physical Review E, 80(5), (2009), 056103.
+[57] A. Abbott, D. Cyranoski, N. Jones, et al., Metrics: Do metrics matter?
+     Nature News, 465(7300), (2010), 860–862.
+[58] M. Pavlou and E. P. Diamandis, The athletes of science. Nature,
+     478(7369), (2011), 419–419.
+[59] T. S. Kuhn, The Structure of Scientific Revolutions (Chicago: University of
+     Chicago Press, 1962).
+[60] R. K. Merton, The Matthew effect in science. Science, 159(3810), (1968),
+     56–63.
+[61] T. S. Simcoe and D. M. Waguespack, Status, quality, and attention: What’s
+     in a (missing) name? Management Science, 57(2), (2011), 274–290.
+
+[p. 274] [PDF page 295]
+
+[62] A. Tomkins, M. Zhang, and W. D. Heavlin, Reviewer bias in single-versus
+     double-blind peer review. Proceedings of the National Academy of
+     Sciences, 114(48), (2017), 12708–12713.
+[63] B. McGillivray and E. De Ranieri, Uptake and outcome of manuscripts in
+     Nature journals by review model and author characteristics. Research
+     Integrity and Peer Review 3, (2018), 5, DOI: https://doi.org/10.1186/
+     s41073-018-0049-z
+[64] R. M. Blank, The effects of double-blind versus single-blind reviewing:
+     Experimental evidence from the American Economic Review. The
+     American Economic Review, 81(5), (1991), 1041–1067.
+[65] A. M. Petersen, S. Fortunato, R. K. Pan, et al., Reputation and impact in
+     academic careers. Proceedings of the National Academy of Sciences,
+     111 (2014), 15316–15321.
+[66] S. Cole, Age and scientific performance. American Journal of Sociology,
+     (1979), 958–977.
+[67] M. Newman, Networks: An Introduction (Oxford: Oxford University
+     Press, 2010).
+[68] A.-L. Barabási, Network Science (Cambridge: Cambridge University,
+     2015).
+[69] J. B. Fenn, M. Mann, C. K. Meng, et al., Electrospray ionization for mass
+     spectrometry of large biomolecules. Science, 246(4926), (1989), 64–71.
+[70] A. Mazloumian, Y.-H. Eom, D. Helbing, et al., How citation boosts
+     promote scientific paradigm shifts and Nobel Prizes. PloS one, 6(5), (2011),
+     e18975.
+[71] F. C. Fang, R. G. Steen, and A. Casadevall, Misconduct accounts for the
+     majority of retracted scientific publications. Proceedings of the National
+     Academy of Sciences, 109(42), (2012), 17028–17033.
+[72] S. F. Lu, G. Jin, B. Uzzi, et al., The retraction penalty: Evidence from the
+     Web of Science. Scientific Reports, 3(3146), (2013).
+[73] P. Azoulay, J. L. Furman, J. L. Krieger, et al., Retractions. Review of
+     Economics and Statistics, 97(5), (2015), 1118–1136.
+[74] P. Azoulay, A. Bonatti, and J. L. Krieger, The career effects of scandal:
+     Evidence from scientific retractions. Research Policy, 46(9), (2017),
+     1552–1569.
+[75] G. Z. Jin, B. Jones, S. Feng Lu, et al., The Reverse Matthew Effect:
+     Catastrophe and Consequence in Scientific Teams, working paper 19489
+     (Cambridge, MA: National Bureau of Economic Research, 2013).
+[76] R. K. Merton, Singletons and multiples in scientific discovery: A chapter in
+     the sociology of science. Proceedings of the American Philosophical
+     Society, 105(5), (1961), 470–486.
+[77] P. Azoulay, T. Stuart, and Y. Wang, Matthew: Effect or fable?
+     Management Science, 60(1), (2013), 92–109.
+
+[p. 275] [PDF page 296]
+
+[78] E. Garfield, and A. Welljams-Dorof, Of Nobel class: A citation perspective on
+     high impact research authors. Theoretical Medicine, 13(2), (1992), 117–135.
+[79] P. Azoulay, Research efficiency: Turn the scientific method on ourselves.
+     Nature, 484(7392), (2012), 31–32.
+[80] M. Restivo, and A. Van De Rijt, Experimental study of informal rewards in
+     peer production. PloS One, 7(3), (2012), e34358.
+[81] A. van de Rijt, S. M. Kang, M. Restivo, et al., Field experiments of success-
+     breeds-success dynamics. Proceedings of the National Academy of
+     Sciences, 111(19), (2014), 6934–6939.
+[82] B. Alberts, M. W. Kirschner, S. Tilghman, et al., Opinion: Addressing
+     systemic problems in the biomedical research enterprise. Proceedings of the
+     National Academy of Sciences, 112(7), (2015), 1912–1913.
+[83] J. Kaiser, Biomedical research. The graying of NIH research. Science,
+     322(5903), (2008), 848–849.
+[84] G. M. Beard, Legal Responsibility in Old Age (New York: Russells’
+     American Steam Printing House, 1874) pp. 5–42.
+[85] H. C. Lehman, Age and Achievement (Princeton, NJ: Princeton University
+     Press, 1953).
+[86] W. Dennis, Age and productivity among scientists. Science, 123, (1956),
+     724–725.
+[87] W. Dennis, Creative productivity between the ages of 20 and 80 years.
+     Journal of Gerontology, 21(1), (1966), 1–8.
+[88] B. F. Jones, Age and great invention. The Review of Economics and
+     Statistics, 92(1), (2010), 1–14.
+[89] B. Jones, E. J. Reedy, and B. A. Weinberg, Age and Scientific Genius,
+     working paper 19866 (Cambridge, MA: National Bureau of Economic
+     Research, 2014).
+[90] A. P. Usher, A History of Mechanical Inventions, revised edition (North
+     Chelmsford, MA: Courier Corporation, 1954).
+[91] M. L. Weitzman, Recombinant growth. Quarterly Journal of Economics,
+     113(2), (1998), 331–360.
+[92] B. Uzzi, S. Mukherjee, M. Stringer, et al., Atypical combinations and
+     scientific impact. Science, 342(6157), (2013), 468–472.
+[93] K. A. Ericsson, R. T. Krampe, and C. Tesch-Römer, The role of deliberate
+     practice in the acquisition of expert performance. Psychological Review,
+     100(3), (1993), 363–406.
+[94] K. A. Ericsson, and A. C. Lehmann, Expert and exceptional performance:
+     Evidence of maximal adaptation to task constraints. Annual Review of
+     Psychology, 47(1), (1996), 273–305.
+[95] K. A. Ericsson, R. R. Hoffman, A. Kozbelt, et al., The Cambridge
+     Handbook of Expertise and Expert Performance (Cambridge, UK:
+     Cambridge University Press, 2006).
+
+[p. 276] [PDF page 297]
+
+[96] D. C. Pelz, and F. M. Andrews, Scientists in Organizations: Productive
+      Climates for Research and Development (New York: Wiley, 1966).
+ [97] A. E. Bayer, and J. E. Dutton, Career age and research-professional
+      activities of academic scientists: Tests of alternative nonlinear models and
+      some implications for higher education faculty policies. The Journal of
+      Higher Education, 48(3), (1977), 259–282.
+ [98] R. T. Blackburn, C. E. Behymer, and D. E. Hall, Research note: Correlates
+      of faculty publications. Sociology of Education, 51(2) (1978), 132–141.
+ [99] K. R. Matthews, K. M. Calhoun, N. Lo, et al., The aging of biomedical
+      research in the United States. PLoS ONE, 6(12), (2011), e29738.
+[100] C. W. Adams, The age at which scientists do their best work. Isis, 36(3/4)
+      (1946), 166–169.
+[101] H. Zuckerman, Scientific Elite: Nobel Laureates in the United States
+      (Piscataway, NJ: Transaction Publishers, 1977).
+[102] D. K. Simonton, Career landmarks in science: Individual differences and
+      interdisciplinary contrasts. Developmental Psychology, 27(1), (1991),
+      119–130.
+[103] B. F. Jones, and B. A. Weinberg, Age dynamics in scientific creativity.
+      Proceedings of the National Academy of Sciences, 108(47), (2011),
+      18910–18914.
+[104] B. F. Jones, The burden of knowledge and the “death of the renaissance
+      man”: Is innovation getting harder? The Review of Economic Studies,
+      76(1), (2009), 283–317.
+[105] B. F. Jones, As science evolves, how can science policy? Innovation Policy
+      and the Economy, 11 (2011), 103–131.
+[106] F. Machlup, The Production and Distribution of Knowledge in the United
+      States (Princeton, NJ: Princeton University Press, 1962).
+[107] S. Fortunato, Growing time lag threatens Nobels. Nature, 508(7495),
+      (2014), 186–186.
+[108] D. C. Cassidy, Uncertainty: The Life and Science of Werner Heisenberg
+      (New York: Freeman, 1992), p. 1.
+[109] B. A. Weinberg, and D. W. Galenson, Creative Careers: The Life Cycles of
+      Nobel Laureates in Economics, working paper 11799 (Cambridge, MA:
+      National Bureau of Economic Research, 2005).
+[110] M. Rappa and K. Debackere, Youth and scientific innovation: The role of
+      young scientists in the development of a new field. Minerva, 31(1), (1993),
+      1–20.
+[111] M. Packalen and J. Bhattacharya, Age and the Trying Out of New Ideas.
+      working paper 20920 (Cambridge, MA: National Bureau of Economic
+      Research, 2015).
+[112] D. W. Galenson, Painting Outside the Lines: Patterns of Creativity in
+      Modern Art (Cambridge, MA: Harvard University Press, 2009).
+
+[p. 277] [PDF page 298]
+
+[113] D. W. Galenson, Old Masters and Young Geniuses: The Two Life Cycles
+      of Artistic Creativity (Princeton, NJ: Princeton University Press, 2011).
+[114] D. L. Hull, P. D. Tessner, and A. M. Diamond, Planck’s principle. Science,
+      202(4369), (1978), 717–723.
+[115] P. Azoulay, J. S. Zivin, and J. Wang, Superstar extinction. Quarterly
+      Journal of Economics, 125(2), (2010), 549–589.
+[116] R. Sinatra, D. Wang, P. Deville, et al., Quantifying the evolution of
+      individual scientific impact. Science, 354(6312), (2016), aaf5239.
+[117] L. Liu, Y. Wang, R. Sinatra, et al., Hot streaks in artistic, cultural, and
+      scientific careers. Nature, 559, (2018), 396–399.
+[118] D. K. Simonton, Creative productivity, age, and stress: A biographical
+      time-series analysis of 10 classical composers. Journal of Personality and
+      Social Psychology, 35(11), (1977), 791–804.
+[119] D. K. Simonton, Quality, quantity, and age: The careers of ten
+      distinguished psychologists. International Journal of Aging & Human
+      Development, 21(4), (1985), 241–254.
+[120] D. K. Simonton, Genius, Creativity, and Leadership: Historiometric
+      Inquiries (Cambridge, MA; Harvard University Press, 1984).
+[121] D. K. Simonton, Scientific Genius: A Psychology of Science (Cambridge,
+      UK: Cambridge University Press, 1988).
+[122] J. Li, Y. Yin, S. Fortunato, et al., Nobel laureates are almost the same as us.
+      Nature Reviews Physics, 1(5), (2019), 301–303.
+[123] P. Azoulay, B. F. Jones, N. J. D. Kim, et al., Age and High-Growth
+      Entrepreneurship working paper 24489 (Cambridge, MA: National
+      Bureau of Economic Research, 2018).
+[124] P. Azoulay, B. Jones, J. D. King, et al., Research: The average age of a
+      successful startup founder is 45. Harvard Business Review, (2018), July 11.
+[125] N. Powdthavee, Y. E. Riyanto, and J. L. Knetsch, Lower-rated publications
+      do lower academics’ judgments of publication lists: Evidence from a survey
+      experiment of economists. Journal of Economic Psychology, 66, (2018),
+      33–44.
+[126] T. Gilovich, R. Vallone, and A. Tversky, The hot hand in basketball: On
+      the misperception of random sequences. Cognitive Psychology, 17(3),
+      (1985), 295–314.
+[127] J. Miller and A. Sanjurjo, Surprised by the hot hand fallacy? A truth in the
+      law of small numbers. Econometrica, 86(6), (2018), 2019–2047, DOI:
+      https://doi.org/10.3982/ECTA14943.
+[128] P. Ayton, and I. Fischer, The hot hand fallacy and the gambler’s fallacy:
+      Two faces of subjective randomness? Memory & Cognition, 32(8), (2004),
+      1369–1378.
+[129] M. Rabin, and D. Vayanos, The gambler’s and hot-hand fallacies: Theory
+      and applications. Review of Economic Studies, 77(2), (2010), 730–778.
+
+[p. 278] [PDF page 299]
+
+[130] J. M. Xu, and N. Harvey, Carry on winning: The gamblers’ fallacy creates
+      hot hand effects in online gambling. Cognition, 131(2), (2014), 173–180.
+[131] P. Csapo and M. Raab, Correction “Hand down, Man down.” Analysis
+      of defensive adjustments in response to the hot hand in basketball using
+      novel defense metrics (vol. 9, e114184, 2014). PLoS One, 10(4), (2015),
+      e0124982.
+[132] A.-L. Barabási, The origin of bursts and heavy tails in human dynamics.
+      Nature, 435(7039), (2005), 207–211.
+[133] A. Vázquez, J. G. Oliveira, Z. Dezsö, et al., Modeling bursts and heavy
+      tails in human dynamics. Physical Review E, 73(3), (2006), 036127.
+[134] A.-L. Barabási, Bursts: The Hidden Patterns Behind Everything We Do,
+      From Your E-mail to Bloody Crusades (New York: Penguin, 2010).
+[135] B. P Abbott, R. Abbott, T. D. Abbott, et al., Observation of gravitational
+      waves from a binary black hole merger. Physical Review Letters, 116(6),
+      (2016), 061102.
+[136] S. Wuchty, B.F. Jones, and B. Uzzi, The increasing dominance of teams in
+      production of knowledge. Science, 316(5827), (2007), 1036–1039.
+[137] N. J. Cooke and M. L. Hilton (eds.), Enhancing the Effectiveness of Team
+      Science (Washington, DC: National Academies Press, 2015).
+[138] N. Drake, What is the human genome worth? Nature News, (2011), DOI:
+      https://doi.org/10.1038/news.2011.281.
+[139] J. Whitfield, Group theory. Nature, 455(7214), (2008), 720–723.
+[140] J. M. Valderas, Why do team-authored papers get cited more? Science, 317
+      (5844), (2007), 1496–1498.
+[141] E. Leahey, From solo investigator to team scientist: Trends in the practice
+      and study of research collaboration. Annual Review of Sociology, 42,
+      (2016), 81–100.
+[142] C. M. Rawlings and D. A. McFarland, Influence flows in the academy:
+      Using affiliation networks to assess peer effects among researchers. Social
+      Science Research, 40(3), (2011), 1001–1017.
+[143] B. F. Jones, S. Wuchty, and B. Uzzi, Multi-university research teams:
+      shifting impact, geography, and stratification in science. Science, 322
+      (5905), (2008), 1259–1262.
+[144] Y. Xie and A. A. Killewald, Is American Science in Decline? (Cambridge,
+      MA: Harvard University Press, 2012).
+[145] J. Adams, Collaborations: The fourth age of research. Nature, 497(7451),
+      (2013), 557–560.
+[146] Y. Xie, “Undemocracy”: Inequalities in science. Science, 344(6186),
+      (2014), 809–810.
+[147] M. Bikard, F. Murray, and J. S. Gans, Exploring trade-offs in the
+      organization of scientific work: Collaboration and scientific reward.
+      Management Science, 61(7), (2015), 1473–1495.
+
+[p. 279] [PDF page 300]
+
+[148] C. F. Manski, Identification of endogenous social effects: The reflection
+      problem. The Review of Economic Studies, 60(3), (1993), 531–542.
+[149] B. Sacerdote, Peer effects with random assignment: Results for Dartmouth
+      roommates. The Quarterly Journal of Economics, 116(2), (2001),
+      681–704.
+[150] A. Mas and E. Moretti, Peers at work. The American Economic Review,
+      99(1), (2009), 112–145.
+[151] D. Herbst and A. Mas, Peer effects on worker output in the laboratory
+      generalize to the field. Science, 350(6260), (2015), 545–549.
+[152] A. K. Agrawal, J. McHale, and A. Oettl, Why Stars Matter working paper
+      20012 (Cambrdige, MA: National Bureau of Economic Research, 2014).
+[153] J. D. Angrist and J. -S. Pischke, Mostly Harmless Econometrics: An
+      Empiricist’s Companion (Princeton, NJ: Princeton University Press,
+      2008).
+[154] G. J. Borjas and K. B. Doran, Which peers matter? The relative impacts of
+      collaborators, colleagues, and competitors. Review of Economics and
+      Statistics, 97(5), (2015), 1104–1117.
+[155] F. Waldinger, Peer effects in science: Evidence from the dismissal of
+      scientists in Nazi Germany. The Review of Economic Studies, 79(2),
+      (2011), 838–861.
+[156] D. Crane, Invisible Colleges: Diffusion of Knowledge in Scientific
+      Communities (Chicago: University of Chicago Press, 1972).
+[157] A. Oettl, Sociology: Honour the helpful. Nature, 489(7417), (2012),
+      496–497.
+[158] A. Oettl, Reconceptualizing stars: Scientist helpfulness and peer
+      performance. Management Science, 58(6), (2012), 1122–1140.
+[159] J. W. Grossman, Patterns of research in mathematics. Notices of the AMS,
+      52(1), (2005), 35–41.
+[160] G. Palla, A.-L. Barabási, and T. Vicsek, Quantifying social group
+      evolution. Nature, 446(7136), (2007), 664–667.
+[161] J. W. Grossman and P. D. Ion, On a portion of the well-known
+      collaboration graph. Congressus Numerantium, 108, (1995), 129–132.
+[162] J. W. Grossman, The evolution of the mathematical research collaboration
+      graph. Congressus Numerantium, 158, (2002), 201–212.
+[163] A. -L Barabási, H. Jeong, Z. Neda, et al., Evolution of the social network of
+      scientific collaborations. Physica A: Statistical Mechanics and its
+      Applications, 311(3), (2002), 590–614.
+[164] M. E. Newman, Coauthorship networks and patterns of scientific
+      collaboration. Proceedings of the National Academy of Sciences, 101
+      (suppl 1), (2004), 5200–5205.
+[165] M. E. Newman, The structure of scientific collaboration networks.
+      Proceedings of the National Academy of Sciences, 98(2), (2001), 404–409.
+
+[p. 280] [PDF page 301]
+
+[166] J. Grossman, The Erdős Number Project at Oakland University (2018),
+      available online at https://oakland.edu/enp/.
+[167] D. J. Watts and S. H. Strogatz, Collective dynamics of “small-world”
+      networks. Nature, 393(6684), (1998), 440–442.
+[168] B. Uzzi and J. Spiro, Collaboration and creativity: The small world
+      Problem1. American Journal of Sociology, 111(2), (2005), 447–504.
+[169] W. M. Muir, Group selection for adaptation to multiple-hen cages:
+      Selection program and direct responses. Poultry Science, 75(4), (1996),
+      447–458.
+[170] D. S. Wilson, Evolution for Everyone: How Darwin’s Theory Can Change
+      the Way We Think About Our Lives (McHenry, IL: Delta, 2007).
+[171] M. A., Marks, J. E. Mathieu, and S. J. Zaccaro, A temporally based
+      framework and taxonomy of team processes. Academy of Management
+      Review, 26(3), (2001), 356–376.
+[172] J. Scott, Discord turns academe’s hot team cold: The self-destruction of the
+      English department at Duke. The New York Times, (November 21, 1998).
+[173] D. Yaffe, The department that fell to Earth: The deflation of Duke English.
+      Lingua Franca: The Review of Academic Life, 9(1), (1999), 24–31.
+[174] R. I. Swaab, M. Schaerer, E. M. Anicich, et al., The too-much-talent effect
+      team interdependence determines when more talent is too much or not
+      enough. Psychological Science, 25(8), (2014), 1581–1591.
+[175] R. Ronay, K. Greenaway, E. M. Anicich, et al., The path to glory is paved
+      with hierarchy when hierarchical differentiation increases group
+      effectiveness. Psychological Science, 23(6), (2012), 669–677.
+[176] B. Groysberg, J. T. Polzer, and H. A. Elfenbein, Too many cooks spoil the
+      broth: How high-status individuals decrease group effectiveness.
+      Organization Science, 22(3), (2011), 722–737.
+[177] B. Uzzi, S. Wuchty, J. Spiro, et al., Scientific teams and networks change
+      the face of knowledge creation, in B. Vedres and M. Scotti (eds.), Networks
+      in Social Policy Problems (Cambridge: Cambridge University Press,
+      2012), pp. 47–59.
+[178] R. B. Freeman and W. Huang, Collaboration: Strength in diversity.
+      Nature, 513(7518), (2014), 305–305.
+[179] R. B. Freeman and W. Huang, Collaborating With People Like Me: Ethnic
+      Coauthorship Within the US, working paper 19905, (Cambridge, MA:
+      National Bureau of Economic Research, 2014).
+[180] M. J. Smith, C. Weinberger, E. M. Bruna, et al., The scientific impact of
+      nations: Journal placement and citation performance. PloS One, 9(10),
+      (2014), e109195.
+[181] B. K. AlShebli, T. Rahwan, and W. L. Woon, The preeminence of ethnic
+      diversity in scientific collaboration. Nature Communications, 9(1), (2018),
+      5163.
+
+[p. 281] [PDF page 302]
+
+[182] K. Powell, These labs are remarkably diverse: Here’s why they’re winning
+      at science. Nature, 558(7708), (2018), 19–22.
+[183] J. N. Cummings, S. Kiesler, R. Bosagh Zadeh, et al., Group heterogeneity
+      increases the risks of large group size a longitudinal study of productivity
+      in research groups. Psychological Science, 24(6), (2013), 880–890.
+[184] I. J. Deary, Looking Down on Human Intelligence: From Psychometrics to
+      the Brain (Oxford: Oxford University Press, 2000).
+[185] C. Spearman, “General Intelligence,” objectively determined and
+      measured. The American Journal of Psychology, 15(2), (1904), 201–292.
+[186] A.W. Woolley, C. F. Chabris, A. Pentland, et al., Evidence for a collective
+      intelligence factor in the performance of human groups. Science, 330
+      (6004), (2010), 686–688.
+[187] R. Guimera, B. Uzzi, J. Spiro, et al., Team assembly mechanisms determine
+      collaboration network structure and team performance. Science, 308
+      (5722), (2005), 697–702.
+[188] M. De Vaan, D. Stark, and B. Vedres, Game changer: The topology of
+      creativity. American Journal of Sociology, 120(4), (2015), 1144–1194.
+[189] B. Vedres, Forbidden triads and creative success in jazz: The Miles Davis
+      factor. Applied Network Science, 2(1), (2017), 31.
+[190] A. M. Petersen, Quantifying the impact of weak, strong, and super ties in
+      scientific careers. Proceedings of the National Academy of Sciences, 112
+      (34), (2015), E4671–E4680.
+[191] L. Dahlander and D. A. McFarland, Ties that last tie formation and
+      persistence in research collaborations over time. Administrative Science
+      Quarterly, 58(1), (2013), 69–110.
+[192] M. S. Brown and J. L. Goldstein, A receptor-mediated pathway for
+      cholesterol homeostasis. Science, 232(4746), (1986), 34–47.
+[193] M. Heron, Deaths: Leading causes for 2012. National Vital Statistics
+      Reports, 64(10), (2015).
+[194] G. Aad, B. Abbott, J. Abdallah, et al., Combined measurement of the Higgs
+      boson mass in pp collisions at √s= 7 and 8 TeV with the ATLAS and CMS
+      experiments. Physical Review Letters, 114(19), (2015), 191803.
+[195] D. Castelvecchi, Physics paper sets record with more than 5,000 authors.
+      Nature News, May 15, 2015.
+[196] S. Milojevic, Principles of scientific research team formation and evolution.
+      Proceedings of the National Academy of Sciences, 111(11), (2014),
+      3984–3989.
+[197] M. Klug and J. P. Bagrow, Understanding the group dynamics and success
+      of teams. Royal Society Open Science, 3(4), (2016), 160007.
+[198] P. B. Paulus, N. W. Kohn, L. E. Arditti, et al., Understanding the group size
+      effect in electronic brainstorming. Small Group Research, 44(3), (2013),
+      332–352.
+
+[p. 282] [PDF page 303]
+
+[199] K. R. Lakhani, K. J. Boudreau, P.-R. Loh, et al., Prize-based contests can
+      provide solutions to computational biology problems. Nature
+      Biotechnology, 31(2), (2013), 108–111.
+[200] S. J. Barber, C. B. Harris, and S. Rajaram, Why two heads apart are better
+      than two heads together: Multiple mechanisms underlie the collaborative
+      inhibition effect in memory. Journal of Experimental Psychology: Learning
+      Memory and Cognition, 41(2), (2015), 559–566.
+[201] J. A. Minson and J. S. Mueller, The cost of collaboration: Why joint
+      decision-making exacerbates rejection of outside information.
+      Psychological Science, 23(3), (2012), 219–224.
+[202] S. Greenstein and F. Zhu, Open content, Linus’ law, and neutral point of
+      view. Information Systems Research, 27(3), (2016), 618–635.
+[203] C. M. Christensen, and C. M. Christensen, The Innovator’s Dilemma: The
+      Revolutionary Book That Will Change the Way You do Business (New
+      York: Harper Business Essentials, 2003).
+[204] P. Bak, C. Tang, and K. Wiesenfeld, Self-organized criticality: An
+      explanation of the 1/f noise. Physical Review Letters, 59(4), (1987),
+      381–384.
+[205] K.B. Davis, M. -O. Mewes, M. R. Andrews, et al., Bose–Einstein
+      condensation in a gas of sodium atoms. Physical Review Letters, 75(22),
+      (1995), 3969–3973.
+[206] L. Wu, D. Wang, and J. A. Evans, Large teams develop and small teams
+      disrupt science and technology. Nature, 566(7744), (2019), 378–382.
+[207] R. J. Funk, and J. Owen-Smith, A dynamic network measure of
+      technological change. Management Science, 63(3), (2017), 791-817.
+[208] A. Einstein, Die feldgleichungen der gravitation. Sitzung der physikalische-
+      mathematischen Klasse, 25, (1915), 844–847.
+[209] J. N. Cummings and S. Kiesler, Coordination costs and project outcomes in
+      multi-university collaborations. Research Policy, 36(10), (2007), 1620–1634.
+[210] M. Biagioli and P. Galison, Scientific Authorship: Credit and Intellectual
+      Property in Science (Abingdon, UK: Routledge, 2014).
+[211] E. A. Corrêa Jr, F. N. Silva, L. da F. Costa, et al., Patterns of authors
+      contribution in scientific manuscripts. Journal of Informetrics, 11(22),
+      (2016), 498–510.
+[212] V. Larivière, N. Desrochers, B. Macaluso, et al., Contributorship and
+      division of labor in knowledge production. Social Studies of Science, 46(3),
+      (2016), 417–435.
+[213] R. M. Slone, Coauthors’ contributions to major papers published in the
+      AJR: frequency of undeserved coauthorship. American Journal of
+      Roentgenology, 167(3), (1996), 571–579.
+[214] P. Campbell, Policy on papers’ contributors. Nature, 399(6735), (1999),
+      393.
+
+[p. 283] [PDF page 304]
+
+[215] V. Ilakovac, K. Fister, M. Marusic, et al., Reliability of disclosure forms of
+      authors’ contributions. Canadian Medical Association Journal, 176(1),
+      (2007), 41–46.
+[216] R. Deacon, M. J. Hurley, C. M. Rebolledo, et al., Nrf2: a novel therapeutic
+      target in fragile X syndrome is modulated by NNZ2566. Genes, Brain, and
+      Behavior, 16(7), (2017), 1–10.
+[217] M. L. Conte, S. L. Maat, and M. B. Omary, Increased co-first authorships
+      in biomedical and clinical publications: a call for recognition. The FASEB
+      Journal, 27(10), (2013), 3902–3904.
+[218] E. Dubnansky and M. B. Omary, Acknowledging joint first authors of
+      published work: the time has come. Gastroenterology, 143(4), (2012),
+      879–880.
+[219] M. B. Omary, M. B. Wallace, E. M. El-Omar, et al., A multi-journal
+      partnership to highlight joint first-authors of manuscripts. Gut, 64(2),
+      (2015), 189.
+[220] D. G. Drubin, MBoC improves recognition of co-first authors. Molecular
+      Biology of the Cell, 25(13), (2014), 1937.
+[221] L. Waltman, An empirical analysis of the use of alphabetical authorship in
+      scientific publishing. Journal of Informetrics, 6(4), (2012), 700–711.
+[222] S. Jabbehdari and J. P. Walsh, Authorship norms and project structures in
+      science. Science, Technology, and Human Values, 42(5), (2017), 872–900.
+[223] A. G. Heffner, Authorship recognition of subordinates in collaborative
+      research. Social Studies of Science, 9(3), (1979), 377–384.
+[224] S. Shapin, The invisible technician. American Scientist, 77(6), (1989),
+      554–563.
+[225] G. Schott, Mechanica hydraulico-pneumatica (Wurzburg, 1657).
+[226] A. S. Rossi, Women in science: Why so few? Science, 148(3674), (1965),
+      1196–1202.
+[227] Y. Xie and K. A. Shauman, Women in Science: Career Processes and
+      Outcomes (Cambridge, MA: Harvard University Press, 2003).
+[228] S. J. Ceci, D. K. Ginther, S. Kahn, et al., Women in academic science:
+      A changing landscape. Psychological Science in the Public Interest, 15(3),
+      (2014), 75–141.
+[229] D. K. Ginther and S. Kahn, Women in economics: moving up or falling off
+      the academic career ladder? The Journal of Economic Perspectives, 18(3),
+      (2004), 193–214.
+[230] H. Sarsons, Gender differences in recognition for group work. Working
+      paper (2017), available online at https://scholar.harvard.edu/files/sarsons/
+      files/full_v6.pdf.
+[231] M. Niederle and L. Vesterlund, Do women shy away from competition?
+      Do men compete too much? The Quarterly Journal of Economics, 122(3),
+      (2007), 1067–1101.
+
+[p. 284] [PDF page 305]
+
+[232] W. I. Thomas and D. S. Thomas, The Child in America: Behavior
+      Problems and Programs. (New York: A. A. Knopf. 1928).
+[233] R. K. Merton, The Thomas theorem and the Matthew effect. Social Forces,
+      74(2), (1995), 379–422.
+[234] R. K. Merton, The Sociology of Science: Theoretical and Empirical
+      Investigations (Chicago: University of Chicago Press, 1973).
+[235] G. Arnison, A. Astbury, B. Aubert, et al., Experimental observation of
+      isolated large transverse energy electrons with associated missing energy at
+      sqrt (s)= 540 GeV. Physics Letters B, 122 (1983), 103–116.
+[236] H.-W. Shen and A.-L. Barabási, Collective credit allocation in science.
+      Proceedings of the National Academy of Sciences, 111(34), (2014),
+      12325–12330.
+[237] F. Englert and R. Brout, Broken symmetry and the mass of gauge vector
+      mesons. Physical Review Letters, 13(9), (1964), 321–323.
+[238] P. W. Higgs, Broken symmetries and the masses of gauge bosons. Physical
+      Review Letters, 13(16), (1964), 508–509.
+[239] G. S. Guralnik, C. R. Hagen, and T. W. Kibble, Global conservation laws
+      and massless particles. Physical Review Letters, 13(20), (1964), 585–587.
+[240] J. -P. Maury, Newton: Understanding the Cosmos (London: Thames &
+      Hudson, 1992).
+[241] D. de Solla Price, Science Since Babylon (New Haven, CT: Yale University
+      Press, 1961).
+[242] G. N. Gilbert and S. Woolgar, The quantitative study of science: An
+      examination of the literature. Science Studies, 4(3), (1974), 279–294.
+[243] M. Khabsa and C. L. Giles, The number of scholarly documents on the
+      public web. PLoS One, 9(5), (2014), e93949.
+[244] A. Sinha, Z. Shen, Y. Song, et al., An overview of Microsoft Academic
+      Service (MAS) and applications, in WWW ’15 Companion: Proceedings of
+      the 24th International Conference on World Wide Web (New York: ACM,
+      2015), pp. 243–246.
+[245] The Works of Francis Bacon vol. IV: Translations of the Philosophical
+      Works ed. J. Spedding, R. L. Ellis, D. D. Heath (London: Longmans &
+      Co., 1875), p. 109.
+[246] M. Baldwin, “Keeping in the race”: Physics, publication speed and
+      national publishing strategies in Nature, 1895–1939. The British Journal
+      for the History of Science, 47(2), (2014), 257–279.
+[247] Editorial, Form follows need. Nature Physics, 12, (2016), 285.
+[248] A. Csiszar, The Scientific Journal: Authorship and the Politics of Knowledge
+      in the Nineteenth Century (Chicago: University of Chicago Press, 2018).
+[249] C. Wendler, B. Bridgeman, F. Cline, et al., The Path Forward: The Future
+      of Graduate Education in the United States (Prnceton, NJ: Educational
+      Testing Service, 2010).
+
+[p. 285] [PDF page 306]
+
+[250] Council of Graduate Schools, PhD Completion and Attrition: Policy,
+      Numbers, Leadership, and Next Steps (Washington, DC: Council of
+      Graduate Schools, 2004).
+[251] M. Schillebeeckx, B. Maricque, and C. Lewis, The missing piece to changing
+      the university culture. Nature Biotechnology, 31(10), (2013), 938–941.
+[252] D. Cyranoski, N. Gilbert, H. Ledford, et al., Education: The PhD factory.
+      Nature News, 472(7343), (2011), 276–279.
+[253] Y. Yin and D. Wang, The time dimension of science: Connecting the past
+      to the future. Journal of Informetrics, 11(2), (2017), 608–621.
+[254] R. D. Vale, Accelerating scientific publication in biology. Proceedings of
+      the National Academy of Sciences, 112(44), (2015), 13439–13446.
+[255] C. Woolston, Graduate survey: A love–hurt relationship. Nature, 550
+      (7677), (2017), 549–552.
+[256] K. Powell, The future of the postdoc. Nature, 520(7546), (2015), 144.
+[257] N. Zolas, N. Goldschlag, R. Jarmin, et al., Wrapping it up in a person:
+      Examining employment and earnings outcomes for PhD recipients.
+      Science, 350(6266), (2015), 1367–1371.
+[258] Editorial, Make the most of PhDs. Nature News, 528(7580), (2015), 7.
+[259] N. Bloom, C. I. Jones, J. Van Reenen, et al., Are Ideas Getting Harder to
+      Find? working paper 23782 (Cambridge, MA: National Bureau of
+      Economic Research, 2017).
+[260] S. Milojevic, Quantifying the cognitive extent of science. Journal of
+      Informetrics, 9(4), (2015), 962–973.
+[261] R. Van Noorden, B. Maher, and R. Nuzzo, The top 100 papers. Nature,
+      514(7524), (2014), 550–553.
+[262] D. J. de Solla Price, Networks of scientific papers. Science, 149(3683),
+      (1965), 510–515.
+[263] E. Garfield and I. H. Sher, New factors in the evaluation of scientific
+      literature through citation indexing. American Documentation, 14(3),
+      (1963), 195–201.
+[264] V. Pareto, Cours d’économie politique (Geneva: Librairie Droz, 1964).
+[265] A. Vázquez, Statistics of citation networks. arXiv preprint https://arxiv
+      .org/abs/cond-mat/0105031, (2001).
+[266] S. Lehmann, B. Lautrup, and A. D. Jackson, Citation networks in high
+      energy physics. Physical Review E, 68(2), (2003) 026113.
+[267] P. O. Seglen, The skewness of science. Journal of the American Society for
+      Information Science, 43(9), (1992) 628–638.
+[268] I. I. Bommarito, J. Michael, and D. M. Katz, Properties of the United States
+      code citation network. arXiv preprint https://arxiv.org/abs/0911.1751,
+      (2009).
+[269] Y.-H. Eom and S. Fortunato, Characterizing and modeling citation
+      dynamics. PloS One, 6(9), (2011), e24926.
+
+[p. 286] [PDF page 307]
+
+[270] F. Menczer, Evolution of document networks. Proceedings of the National
+      Academy of Sciences, 101(suppl 1), (2004), 5261–5265.
+[271] F. Radicchi and C. Castellano, Rescaling citations of publications in
+      physics. Physical Review E, 83(4), (2011), 046116.
+[272] S. Redner, Citation statistics from 110 years of Physical Review. Physics
+      Today, 58 (2005), 49–54.
+[273] M. J. Stringer, M. Sales-Pardo, and L. A. N. Amaral, Effectiveness of
+      journal ranking schemes as a tool for locating information. PloS One, 3(2),
+      (2008), e1683.
+[274] C. Castellano and F. Radicchi, On the fairness of using relative indicators
+      for comparing citation performance in different disciplines. Archivum
+      immunologiae et therapiae experimentalis, 57(2), (2009), 85–90.
+[275] M. J. Stringer, M. Sales-Pardo, and L. A. N. Amaral, Statistical validation
+      of a global model for the distribution of the ultimate number of citations
+      accrued by papers published in a scientific journal. Journal of the American
+      Society for Information Science and Technology, 61(7), (2010),
+      1377–1385.
+[276] M. L. Wallace, V. Larivière, and Y. Gingras, Modeling a century of
+      citation distributions. Journal of Informetrics, 3(4), (2009), 296–303.
+[277] A. D. Anastasiadis, M. P. de Albuquerque, M. P. de Albuquerque, et al.,
+      Tsallis q-exponential describes the distribution of scientific citations:
+      A new characterization of the impact. Scientometrics, 83(1), (2010),
+      205–218.
+[278] A. F. van Raan, Two-step competition process leads to quasi power-law
+      income distributions: Application to scientific publication and citation
+      distributions. Physica A: Statistical Mechanics and its Applications, 298(3),
+      (2001), 530–536.
+[279] A. F. Van Raan, Competition amongst scientists for publication status:
+      Toward a model of scientific publication and citation distributions.
+      Scientometrics, 51(1), (2001) 347–357.
+[280] V. V. Kryssanov, E. L. Kuleshov, and F. J. Rinaldo et al., We cite as we
+      communicate: A communication model for the citation process. arXiv
+      preprint https://arxiv.org/abs/cs/0703115, (2007).
+[281] A. -L. Barabási, C. Song, and D. Wang, Publishing: Handful of papers
+      dominates citation. Nature, 491(7422), (2012), 40.
+[282] D. W., Aksnes, Citation rates and perceptions of scientific contribution.
+      Journal of the American Society for Information Science and Technology,
+      57(2), (2006), 169–185.
+[283] F. Radicchi, In science “there is no bad publicity”: Papers criticized in
+      comments have high scientific impact. Scientific Reports, 2 (2012), 815.
+[284] M. J. Moravcsik and P. Murugesan, Some results on the function and
+      quality of citations. Social Studies of Science, 5(1), (1975), 86–92.
+
+[p. 287] [PDF page 308]
+
+[285] J. R. Cole and S. Cole, Social Stratification in Science (Chicago: University
+      of Chicago Press, 1973).
+[286] B. Cronin, Research brief rates of return to citation. Journal of
+      Documentation, 52(2), (1996), 188–197.
+[287] S. M. Lawani and A. E. Bayer, Validity of citation criteria for assessing the
+      influence of scientific publications: New evidence with peer assessment.
+      Journal of the American Society for Information Science, 34(1), (1983),
+      59–66.
+[288] T. Luukkonen, Citation indicators and peer review: Their time-scales,
+      criteria of evaluation, and biases. Research Evaluation, 1(1), (1991),
+      21–30.
+[289] C. Oppenheim and S. P. Renn, Highly cited old papers and the reasons why
+      they continue to be cited. Journal of the American Society for Information
+      Science, 29(5), (1978), 225–231.
+[290] E. J. Rinia, T. N. van Leeuwen, H. G. van Vuren, et al., Comparative
+      analysis of a set of bibliometric indicators and central peer review criteria:
+      Evaluation of condensed matter physics in the Netherlands. Research
+      policy, 27(1), (1998), 95–107.
+[291] F. Radicchi, A. Weissman, and J. Bollen, Quantifying perceived impact of
+      scientific publications. Journal of Informetrics, 11(3), (2017), 704–712.
+[292] A. B. Jaffe, Patents, patent citations, and the dynamics of technological
+      change. NBER Reporter, (1998, summer), 8–11.
+[293] A. B. Jaffe, M. S. Fogarty, and B. A. Banks, Evidence from patents and
+      patent citations on the impact of NASA and other federal labs on
+      commercial innovation. The Journal of Industrial Economics, 46(2),
+      (1998), 183–205.
+[294] M. Trajtenberg, A penny for your quotes: patent citations and the value of
+      innovations. The Rand Journal of Economics, 221(1), (1990), 172–187.
+[295] B. H. Hall, A. B. Jaffe, and M. Trajtenberg, Market Value and Patent
+      Citations: A First Look, working paper 7741, (Cambridge, MA: National
+      Bureau of Economic Research, 2000).
+[296] D. Harhoff, F. Narin, F. M. Scherer, et al., Citation frequency and the
+      value of patented inventions. Review of Economics and Statistics, 81(3),
+      (1999), 511–515.
+[297] D. de Solla Price, A general theory of bibliometric and other cumulative
+      advantage processes. Journal of the American Society for Information
+      Science, 27(5), (1976), 292–306.
+[298] D. Wang, C. Song, and A. -L. Barabási, Quantifying long-term scientific
+      impact. Science, 342(6154), (2013), 127–132.
+[299] F. Eggenberger and G. Pólya, Über die statistik verketteter vorgänge.
+      ZAMM-Journal of Applied Mathematics and Mechanics/Zeitschrift für
+      Angewandte Mathematik und Mechanik, 3(4), (1923), 279–289.
+
+[p. 288] [PDF page 309]
+
+[300] G. U. Yule, A mathematical theory of evolution, based on the conclusions
+      of Dr. JC Willis, FRS. Philosophical Transactions of the Royal Society of
+      London. Series B, Containing Papers of a Biological Character, 213
+      (1925), 21–87.
+[301] R. Gibrat, Les inégalités économiques (Paris: Recueil Sirey, 1931).
+[302] G. K. Zipf, Human Behavior and the Principle of Least Effort (Boston,
+      MA: Addison-Wesley Press, 1949).
+[303] H. A. Simon, On a class of skew distribution functions. Biometrika,
+      42(3/4), (1955), 425–440.
+[304] A.-L. Barabási and R. Albert, Emergence of scaling in random networks.
+      Science, 286(5439), (1999), 509–512.
+[305] M. E .J. Newman, The first-mover advantage in scientific publication. EPL
+      (Europhysics Letters), 86(6), (2009), 68001.
+[306] J. Bardeen, L. N. Cooper, and J. R. Schrieffer, Theory of superconductivity.
+      Physical Review, 108(5), (1957), 1175–1204.
+[307] G. Bianconi and A. -L. Barabási, Competition and multiscaling in evolving
+      networks. EPL (Europhysics Letters), 54(4), (2001), 436–442.
+[308] G. Bianconi and A. -L. Barabási, Bose–Einstein condensation in complex
+      networks. Physical Review Letters,. 86(24), (2001) 5632.
+[309] L. Fleming, S. Mingo, and D. Chen, Collaborative brokerage, generative
+      creativity, and creative success. Administrative Science Quarterly, 52(3),
+      (2007), 443-475.
+[310] H. Youn, D. Strumsky, L. M. A. Bettencourt, et al., Invention as a
+      combinatorial process: Evidence from US patents. Journal of The Royal
+      Society Interface, 12(106), (2015), 20150272.
+[311] J. Wang, R. Veugelers, and P. Stephan, Bias against novelty in science:
+      A cautionary tale for users of bibliometric indicators. Research Policy,
+      46(8), (2017), 1416–1436.
+[312] Y. -N. Lee, J. P. Walsh, and J. Wang, Creativity in scientific teams:
+      Unpacking novelty and impact. Research Policy, 44(3), (2015), 684–697.
+[313] C. J. Phiel, F. Zhang, E. Y. Huang, et al., Histone deacetylase is a direct
+      target of valproic acid, a potent anticonvulsant, mood stabilizer, and
+      teratogen. Journal of Biological Chemistry, 276(39), (2001), 36734–36741.
+[314] P. Stephan, R. Veugelers, and J. Wang, Reviewers are blinkered by
+      bibliometrics. Nature News,. 544(7651), (2017), 411.
+[315] R. Van Noorden, Interdisciplinary research by the numbers. Nature,
+      525(7569), (2015), 306–307.
+[316] C. S. Wagner, J. D. Roessner, K. Bobb, et al., Approaches to understanding
+      and measuring interdisciplinary scientific research (IDR): A review of the
+      literature. Journal of Informetrics, 5(1), (2011), 14–26.
+[317] V. Larivière, S. Haustein, and K. Börner, Long-distance interdisciplinarity
+      leads to higher scientific impact. PLoS ONE, 10(3), (2015), e0122565.
+
+[p. 289] [PDF page 310]
+
+[318] E. Leahey, and J. Moody, Sociological innovation through subfield
+      integration. Social Currents, 1(3), (2014), 228-256.
+[319] J. G. Foster, A. Rzhetsky, and J.A. Evans, Tradition and innovation in
+      scientists’ research strategies. American Sociological Review, 80(5),
+      (2015), 875–908.
+[320] L. Fleming, Breakthroughs and the “long tail” of innovation. MIT Sloan
+      Management Review, 49(1), (2007), 69.
+[321] K. J. Boudreau, E. Guinan, K. R. Lakhani, et al., Looking across and
+      looking beyond the knowledge frontier: Intellectual distance, novelty, and
+      resource allocation in science. Management Science, 62(10), (2016),
+      2765–2783.
+[322] L. Bromham, R. Dinnage, and X. Hua, Interdisciplinary research has
+      consistently lower funding success. Nature, 534(7609), (2016),
+      684–687.
+[323] J. Kim, C. -Y. Lee, and Y. Cho, Technological diversification, core-
+      technology competence, and firm growth. Research Policy, 45(1), (2016),
+      113–124.
+[324] D. P. Phillips, E. J. Kanter, B. Bednarczyk, et al., Importance of the lay press
+      in the transmission of medical knowledge to the scientific community. The
+      New England Journal of Medicine, 325(16), (1991), 1180–1183.
+[325] F. Gonon, J. -P. Konsman, D. Cohen, et al., Why most biomedical findings
+      echoed by newspapers turn out to be false: The case of attention deficit
+      hyperactivity disorder. PLoS One, 7(9), (2012), e44275.
+[326] E. Dumas-Mallet, A. Smith, T. Boraud, et al., Poor replication validity of
+      biomedical association studies reported by newspapers. PLoS One, 12(2),
+      (2017), e0172650.
+[327] R. D. Peng, Reproducible research in computational science. Science,
+      334(6060), (2011), 1226–1227.
+[328] Open Science Collaboration, A. Aarts, J. Anderson, et al., Estimating the
+      reproducibility of psychological science. Science, 349(6251), (2015),
+      aac4716.
+[329] A. J. Wakefield, S. H. Murch, A. Anthony, et al., RETRACTED: Ileal-
+      lymphoid-nodular hyperplasia, non-specific colitis, and pervasive
+      developmental disorder in children. The Lancet, 351(1998), 637–641.
+[330] C. Catalini, N. Lacetera, and A. Oettl, The incidence and role of negative
+      citations in science. Proceedings of the National Academy of Sciences,
+      112(45), (2015), 13823–13826.
+[331] F. C. Fang and A. Casadevall, Retracted science and the retraction index.
+      Infection and Immunity, 79(10), (2011), 3855–3859.
+[332] A. Sandison, Densities of use, and absence of obsolescence, in physics
+      journals at MIT. Journal of the American Society for Information Science,
+      25(3), (1974), 172–182.
+
+[p. 290] [PDF page 311]
+
+[333] C. Candia, C. Jara-Figueroa, C. Rodriguez-Sickert, et al., The universal
+      decay of collective memory and attention. Nature Human Behaviour, 3(1),
+      (2019), 82–91.
+[334] S. Mukherjee, D. M. Romero, B. Jones, et al., The age of past knowledge
+      and tomorrow’s scientific and technological breakthroughs. Science
+      Advances, 3(4), (2017), e1601315.
+[335] A. Odlyzko, The rapid evolution of scholarly communication. Learned
+      Publishing, 15(1), (2002), 7–19.
+[336] V. Larivière, É. Archambault, and Y. Gingras, Long-term variations in the
+      aging of scientific literature: From exponential growth to steady-state
+      science (1900–2004). Journal of the American Society for Information
+      Science and Technology, 59(2), (2008), 288–296.
+[337] A. Verstak, A. Acharya H. Suzuki et al., On the shoulders of giants: The
+      growing impact of older articles. arXiv preprint https://arxiv.org/abs/
+      1411.0275, (2014).
+[338] J. A. Evans, Electronic publication and the narrowing of science and
+      scholarship. Science, 321(5887), (2008), 395–399.
+[339] J. C. Burnham, The evolution of editorial peer review. Journal of the
+      American Medical Association, 263(10), (1990), 1323–1329.
+[340] R. Spier, The history of the peer-review process. Trends in Biotechnology,
+      20(8), (2002), 357–358.
+[341] Q. L. Burrell, Modelling citation age data: Simple graphical methods from
+      reliability theory. Scientometrics, 55(2), (2002), 273–285.
+[342] W. Glänzel, Towards a model for diachronous and synchronous citation
+      analyses. Scientometrics, 60(3), (2004), 511–522.
+[343] H. Nakamoto, Synchronous and diachronous citation distribution, in L.
+      Egghe and R. Rousseau (eds.), Informetrics 87/88: Select Proceedings of the
+      First International Conference on Bibliometrics and Theoretical Aspects of
+      Information Retrieval (Amsterdam: Elsevier Science Publishers, 1988).
+[344] R. K. Pan, A. M. Petersena, F. Pammolli, et al., The memory of science:
+      Inflation, myopia, and the knowledge network. Journal of Informetrics,
+      12, (2016), 656–678.
+[345] P. D. B. Parolo, R. K. Pan, R. Ghosh, et al., Attention decay in science.
+      Journal of Informetrics, 9(4), (2015), 734–745.
+[346] A. F. Van Raan, Sleeping beauties in science. Scientometrics, 59(3), (2004),
+      467–472.
+[347] Q. Ke, E. Ferrara, F. Radicchi, et al., Defining and identifying Sleeping
+      Beauties in science. Proceedings of the National Academy of Sciences, 112
+      (24), (2015), 7426–7431.
+[348] Z. He, Z. Lei, and D. Wang, Modeling citation dynamics of “atypical”
+      articles. Journal of the Association for Information Science and
+      Technology, 69(9), (2018), 1148–1160.
+
+[p. 291] [PDF page 312]
+
+[349] E. Garfield, Citation indexes for science. Science, 122(3159), (1955),
+      108–111.
+[350] P. Erdős, and A. Rényi, On the evolution of random graphs. Publications
+      of the Mathematical Institute of the Hungarian Academy of Sciences, 5(1),
+      (1960), 17–61.
+[351] J. A. Evans, Future science. Science, 342(44), (2013), 44–45.
+[352] Y. N. Harari, Sapiens: A Brief History of Humankind (London: Random
+      House, 2014).
+[353] J. A. Evans, and J. G. Foster, Metaknowledge. Science, 331(6018), (2011),
+      721–725.
+[354] R. D. King, J. Rowland, S. G. Olive et al., The automation of science.
+      Science, 324(5923), (2009), 85–89.
+[355] J. Evans, and A. Rzhetsky, Machine science. Science, 329(5990), (2010),
+      399–400.
+[356] D. R. Swanson, Migraine and magnesium: Eleven neglected connections.
+      Perspectives in Biology and Medicine, 31(4), (1988), 526–557.
+[357] A. Rzhetsky, J. G. Foster, I. T. Foster, et al., Choosing experiments to
+      accelerate collective discovery. Proceedings of the National Academy of
+      Sciences, 112(47), (2015), 14569–14574.
+[358] P. Azoulay, J. Graff-Zivin, B. Uzzi, et al., Toward a more scientific science.
+      Science, 361(6408), (2018), 1194–1197.
+[359] S. A., Greenberg, How citation distortions create unfounded authority:
+      analysis of a citation network. The BMJ, 339, (2009), b2680.
+[360] A. S. Gerber, and N. Malhotra, Publication bias in empirical sociological
+      research: Do arbitrary significance levels distort published results?
+      Sociological Methods and Research, 37(1), (2008), 3–30.
+[361] D. J. Benjamin, J. O. Berger, M. Johannesson, et al., Redefine statistical
+      significance. Nature Human Behaviour, 2(1), (2018), 6–10.
+[362] O. Efthimiou, and S. T. Allison, Heroism science: Frameworks for an
+      emerging field. Journal of Humanistic Psychology,. 58(5), (2018),
+      556–570.
+[363] B. A. Nosek, C. R. Ebersole, A. C. DeHaven, et al., The preregistration
+      revolution. Proceedings of the National Academy of Sciences, 115(11),
+      (2018), 2600–2606.
+[364] T. S. Kuhn, The Essential Tension: Selected Studies in Scientific Tradition
+      and Change (Chicago: University of Chicago Press, 1977).
+[365] P. Bourdieu, The specificity of the scientific field and the social conditions
+      of the progress of reasons. Social Science Information, 14(6), (1975),
+      19–47.
+[366] L. Yao, Y. Li, S. Ghosh, et al., Health ROI as a measure of misalignment of
+      biomedical needs and resources. Nature Biotechnology, 33(8), (2015),
+      807–811.
+
+[p. 292] [PDF page 313]
+
+[367] W. Willett, Nutritional Epidemiology (New York: Oxford University
+      Press, 2012).
+[368] J. M. Spector, R. S. Harrison, and M.C. Fishman, Fundamental science
+      behind today’s important medicines. Science Translational Medicine,
+      10(438), (2018), eaaq1787.
+[369] A. Senior, J. Jumper, and D. Hassabis, AlphaFold: Using AI for scientific
+      discovery. Deepmind article/blog post available online at https://bit.ly/
+      34PXtzA (2020).
+[370] Y. N. Harari, Reboot for the AI revolution. Nature News, 550(7676),
+      (2017), 324–327.
+[371] A. Krizhevsky, I. Sutskever, and G. E. Hinton. ImageNet classification with
+      deep convolutional neural networks, in Advances in Neural Information
+      Processing Systems 25 (NIPS 2012) (San Diego, CA: NIPS Foundation, 2012).
+[372] C. Farabet, C. Couprie, L. Najman, et al., Learning hierarchical features
+      for scene labeling. IEEE Transactions on Pattern Analysis and Machine
+      Intelligence, 35(8), (2012), 1915–1929.
+[373] J. J. Tompson, A. Jain, Y. LeCun, et al., Joint training of a convolutional
+      network and a graphical model for human pose estimation, in Advances in
+      Neural Information Processing Systems 27 (NIPS 2014) (San Diego, CA:
+      NIPS Foundation, 2014).
+[374] C. Szegedy, W. Liu, Y. Jia, et al., Going deeper with convolutions, in
+      Proceedings of the IEEE Conference on Computer Vision and Pattern
+      Recognition (Piscataway, NJ: IEEE, 2015), pp. 1–9.
+[375] T. Mikolov, A. Deoras, D. Povey, et al., Strategies for training large scale
+      neural network language models, in 2011 IEEE Workshop on Automatic
+      Speech Recognition & Understanding (Piscataway, NJ: IEEE, 2011),
+      pp. 196–201.
+[376] G. Hinton, L. Deng, D. Yu, et al., Deep neural networks for acoustic
+      modeling in speech recognition. IEEE Signal Processing Magazine, 29(6),
+      (2012), 82–97.
+[377] T. N. Sainath, A. Mohamed, B. Kingsbury, et al. Deep convolutional
+      neural networks for LVCSR, in 2013 IEEE International Conference on
+      Acoustics, Speech and Signal Processing (Piscataway, NJ: IEEE, 2013),
+      pp. 8614–8618.
+[378] A. Bordes, S. Chopra, and J. Weston, Question answering with subgraph
+      embeddings. arXiv preprint https://arxiv.org/pdf/1406.3676.pdf, (2014).
+[379] S. Jean, K. Cho, R. Memisevic, et al., On using very large target vocabulary
+      for neural machine translation. arXiv preprint https://arxiv.org/abs/
+      1412.2007, (2014).
+[380] I. Sutskever, O. Vinyals, and Q. V. Le. Sequence to sequence learning with
+      neural networks, in Advances in Neural Information Processing Systems
+      27 (NIPS 2014) (San Diego, CA: NIPS Foundation, 2014).
+
+[p. 293] [PDF page 314]
+
+[381] J. Ma, R. P. Sheridan, A. Liaw, et al., Deep neural nets as a method for
+      quantitative structure–activity relationships. Journal of Chemical
+      Information and Modeling,. 55(2), (2015), 263–274.
+[382] T. Ciodaro, D. Deva, J. M. de Seixas, et al., Online particle detection with
+      neural networks based on topological calorimetry information. Journal of
+      Physics: Conference Series, 368, (2012), 012030.
+[383] Kaggle. Higgs boson machine learning challenge. Available online at www
+      .kaggle.com/c/higgs-boson/overview (2014).
+[384] M. Helmstaedter, K. Briggman, S. Turaga, et al., Connectomic
+      reconstruction of the inner plexiform layer in the mouse retina. Nature,
+      500(7461), (2013), 168–174.
+[385] M. K. Leung, H. Y. Xiong, L. Lee, et al., Deep learning of the tissue-
+      regulated splicing code. Bioinformatics, 30(12), (2014), i121–i129.
+[386] H. Y. Xiong, B. Alipanahi, L. Lee, et al., The human splicing code reveals
+      new insights into the genetic determinants of disease. Science, 347(6218),
+      (2015), 1254806.
+[387] D. Silver, T. Hubert, J. Schrittwieser, et al., A general reinforcement
+      learning algorithm that masters chess, shogi, and Go through self-play.
+      Science, 362(6419), (2018), 1140–1144.
+[388] J. De Fauw, J. R. Ledsam , B. Romera-Parede, et al., Clinically applicable
+      deep learning for diagnosis and referral in retinal disease. Nature Medicine,
+      24(9), (2018), 1342–1350.
+[389] A. Esteva, B. Kuprel, R. A. Novoa, et al., Dermatologist-level classification of
+      skin cancer with deep neural networks. Nature, 542(7639), (2017), 115–118.
+[390] J. J. Titano, M. Badgeley, J. Schefflein, et al., Automated deep-neural-
+      network surveillance of cranial images for acute neurologic events. Nature
+      Medicine, 24(9), (2018), 1337–1341.
+[391] B. A. Nosek and T. M. Errington, Reproducibility in cancer biology:
+      Making sense of replications. Elife, 6, (2017), e23383.
+[392] C. F. Camerer, A. Dreber, E. Forsell, et al., Evaluating replicability of laboratory
+      experiments in economics. Science, 351(6280), (2016), 1433–1436.
+[393] C. F. Camerer, A. Dreber, F. Holzmeister, et al., Evaluating the
+      replicability of social science experiments in Nature and Science between
+      2010 and 2015. Nature Human Behaviour, 2(9), (2018), 637–644.
+[394] A. Chang and P. Li, Is economics research replicable? Sixty published
+      papers from thirteen journals say “usually not.” Finance and Economics
+      Discussion Series 2015-083. Washington, DC: Board of Governors of the
+      Federal Reserve System. Available online at https://bit.ly/34RI3uy, (2015).
+[395] Y. Wu, Y. Yang, and B. Uzzi, An artificial and human intelligence
+      approach to the replication problem in science. [Unpublished data.]
+[396] M. Tegmark, Life 3.0: Being Human in the Age of Artificial Intelligence
+      (New York: Alfred A. Knopf, (2017).
+
+[p. 294] [PDF page 315]
+
+[397] J. Dastin, Amazon scraps secret AI recruiting tool that showed bias against
+      women. Reuters news article, available online at https://bit.ly/3cChuwe,
+      (October 10, 2018).
+[398] Y. Wang, B. F. Jones, and D. Wang, Early-career setback and future career
+      impact. Nature Communications, 10, (2019), 4331.
+[399] T. Bol, M. de Vaan, and A. van de Rijt, The Matthew effect in science
+      funding. Proceedings of the National Academy of Sciences, 115(19),
+      (2018), 4887–4890.
+[400] V. Calcagno, E. Demoinet, K. Gollner, et al., Flows of research
+      manuscripts among scientific journals reveal hidden submission patterns.
+      Science, 338(6110), (2012), 1065–1069.
+[401] P. Azoulay, Small-team science is beautiful. Nature, 566(7744), (2019),
+      330–332.
+[402] S. Haustein, I. Peters, C. R. Sugimoto, et al., Tweeting biomedicine: An
+      analysis of tweets and citations in the biomedical literature. Journal of the
+      Association for Information Science and Technology, 65(4), (2014), 656–669.
+[403] T. V. Perneger, Relation between online “hit counts” and subsequent
+      citations: Prospective study of research papers in The BMJ. The BMJ,
+      329(7465), (2004), 546–547.
+[404] D. Li, P. Azoulay and B. N. Sampat, The applied value of public
+      investments in biomedical research. Science,. 356(6333), (2017), 78–81.
+[405] M. Ahmadpoor and B. F. Jones, The dual frontier: Patented inventions and
+      prior scientific advance. Science,. 357(6351), (2017), 583–587.
+[406] A. Duckworth and A. Duckworth, Grit: The Power of Passion and
+      Perseverance (New York: Scribner, 2016).
+[407] J. D. Angrist and J.-S. Pischke, The credibility revolution in empirical
+      economics: How better research design is taking the con out of
+      econometrics. Journal of Economic Perspectives, 24(2), (2010), 3–30.
+[408] K. J. Boudreau, T. Brady, I. Ganguli, et al., A field experiment on search
+      costs and the formation of scientific collaborations. Review of Economics
+      and Statistics, 99(4), (2017), 565–576.
+[409] H. J. Kleven, Language trends in public economics. Slides available online
+      at https://bit.ly/2RSSTuT, (2018).
+[410] C. J. Ruhm, Deaths of Despair or Drug Problems?, working paper 24188
+      (Cambridge, MA: National Bureau of Economic Research, 2018).
+[411] S. Redner, How popular is your paper? An empirical study of the citation
+      distribution. The European Physical Journal B: Condensed Matter and
+      Complex Systems, 4(2), (1998), 131–134.
+[412] H. Jeong, Z. Néda, and A.-L. Barabási, Measuring preferential attachment
+      in evolving networks. Europhysics Letters, 61(4), (2003), 567.
+[413] M. E. Newman, Clustering and preferential attachment in growing
+      networks. Physical Review E, 64(2), (2001), 025102.
+
+[p. 295] [PDF page 316]
+
+[414] P. L. Krapivsky and S. Redner, Organization of growing random networks.
+      Physical Review E, 63(6), (2001), 066123.
+[415] G. J. Peterson, S. Pressé, and K.A. Dill, Nonuniversal power law scaling in
+      the probability distribution of scientific citations. Proceedings of the
+      National Academy of Sciences, 107(37), (2010), 16023–16027.
+[416] M. V. Simkin and V. P. Roychowdhury, Do copied citations create
+      renowned papers? Annals of Improbable Research, 11(1), (2005), 24–27.
+[417] M. V. Simkin and V. P. Roychowdhury, A mathematical theory of citing.
+      Journal of the American Society for Information Science and Technology,
+      58(11), (2007), 1661–1673.
+[418] R. A. Bentley, M.W. Hahn, and S. J. Shennan, Random drift and culture
+      change. Proceedings of the Royal Society of London. Series B: Biological
+      Sciences, 271(1547), (2004), 1443–1450.
+[419] A. Vazquez, Knowing a network by walking on it: Emergence of scaling.
+      arXiv preprint https://arxiv.org/pdf/cond-mat/0006132v1.pdf, (2000).
+[420] J. M. Kleinberg, R. Kumar, P. Raghavan, et al., The web as a graph:
+      Measurements, models, and methods, in Lecture Notes in Computer
+      Science, vol. 1627, Computing and Combinatorics, (Berlin: Springer-
+      Verlag, 1999), pp. 1–17.
+[421] J. P. Perdew and Y. Wang, Accurate and simple analytic representation of the
+      electron–gas correlation energy. Physical Review B, 45(23), (1992), 13244.
+[422] M. V. Simkin and V. P. Roychowdhury, Read before you cite! arXiv
+      preprint https://arxiv.org/pdf/cond-mat/0212043.pdf, (2002).
+[423] J. M. Kosterlitz and D. J. Thouless, Ordering, metastability and phase
+      transitions in two-dimensional systems. Journal of Physics C: Solid State
+      Physics, 6(7), (1973), 1181–1203.
+[424] F. Radicchi and C. Castellano, A reverse engineering approach to the
+      suppression of citation biases reveals universal properties of citation
+      distributions. PLoS One, 7(3), (2012), e33833.

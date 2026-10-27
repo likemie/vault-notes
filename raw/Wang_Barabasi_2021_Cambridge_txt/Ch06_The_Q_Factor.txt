@@ -1,0 +1,478 @@
+The Science of Science
+Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
+ISBN 9781108492669 | DOI 10.1017/9781108610834
+
+Part I: The Science of Career
+Chapter 6: The Q-Factor
+Print pages 60–70; one-based PDF pages 78–88
+
+[English original. Page markers identify print and PDF pages. References remain numbered as in the book. Shared supplementary materials are labelled separately. Download footers and recognized running heads are removed; original text, formulas and line breaks are otherwise retained. Verify exact mathematical notation, diagrams and table layout against the PDF.]
+
+
+========================================================================
+Chapter text
+========================================================================
+
+[p. 60] [PDF page 78]
+
+6                                       THE Q-FACTOR
+
+
+         What distinguishes successful scientists from their peers? Our
+ability to identify the roots of a successful career is limited by the fact
+that productivity, impact, and luck are intimately intertwined. Indeed, if
+breakthroughs in a career occur at random, what is the relevance of
+luck, talent, or hard work? Can we at all separate the innate talent and
+ability of a scientist from his luck? To understand these questions, let’s
+start with a thought experiment: How likely is it that Einstein’s excep-
+tional output may emerge purely by chance?
+
+
+6.1         Pure Coincidence
+        Given an infinite length of time, a chimpanzee punching at
+random on a typewriter will surely type out a Shakespeare play. So,
+with a sufficiently large number of scientists in the world, shouldn’t we
+expect that chance alone will inevitably lead to someone as impactful as
+Einstein?
+        The random impact rule discussed in Chapter 5 allows us to
+build a “null” model of scientific careers to answer this question. Let us
+assume for the moment that for a scientist a publication is the equivalent
+of drawing a lottery ticket. In other words, we assume that talent plays
+no role, allowing us to ask, what does a career driven by chance alone
+look like?
+        In a random career the impact of each paper is determined
+solely by luck. This means that we simply pick a random number from
+a given impact distribution and assign it to the paper published by our
+
+[p. 61] [PDF page 79]
+
+scientist. This procedure allows us to generate a collection of “syn-
+thetic” careers which are purely driven by chance. For convenience,
+we will call this procedure the random model, or the R-model.
+         In some ways, these random careers may appear quite similar to
+the real ones. For example, they will show individual differences in
+career impact, as some scientists are inevitably luckier than others when
+they select their random numbers. And each career will obey the
+random impact rule as well: Since the impact of every paper is chosen
+randomly, the highest impact work will be random in the sequence of
+papers published by each scientist. But will these random scientists
+differ from the real ones?
+         If each paper’s impact is drawn randomly from the same impact
+distribution, a more productive scientist will draw more tickets, hence
+will more likely stumble upon a high impact publication. In other
+words, the R-model predicts that more productive scientists are more
+likely to make breakthroughs. To test this effect, we measured how the
+                                            
+impact of a scientist’s most-cited paper, c∗ 10 , depends on her product-
+ivity, N. We find that indeed, the more papers a scientist publishes, the
+higher is the impact of her highest impact paper. Yet, not high enough:
+The measurements indicate that in real careers the impact of the highest
+impact work increases faster with N than the R-model predicts
+(Fig. 6.1). In other words, as scientists become more productive, their
+home-run papers are much more impactful than what we would expect
+if impact is like a lottery ticket, randomly assigned. This indicates that
+something is missing from our null model. It’s not hard to guess what:
+scientists inherently differ from each other, in either talent or ability or
+other characteristics relevant to producing high-impact works. This
+suggests that highly productive scientists don’t stand out in productivity
+alone – they possess something that the low-productivity scientists do
+not, which helps them publish higher-impact work. Next, we adjust the
+model to account for the fact that not all scientists are alike.
+
+
+6.2         The Q-Model
+          Each scientific project starts with an idea. A light bulb goes off,
+prompting the scientist to think, “I’m curious if that idea might work.”
+But it is hard to evaluate the inherent importance or novelty of the idea
+in advance. Not knowing what its true value is, let’s assume that the
+idea has some random value r. Some ideas are of incremental
+
+[p. 62] [PDF page 80]
+
+6
+
+
+
+                   5
+
+
+
+                   4
+
+
+
+                   3
+                                                 Data
+                                                 R-model
+                   2                             Q-model
+                          101                     102
+
+
+
+              Figure 6.1 Scientific careers are not random. Scatter plot shows the
+            citation of the highest impact paper, c∗
+                                                   10 vs. the number of publications N
+            during a scientist’s career. Each gray dot corresponds to a scientist. The
+            circles are the logarithmic binning of the scattered data. The cyan curve
+            represents the prediction of the R-model, which shows systematic
+            deviation from data. The red curve corresponds to the analytical
+            prediction of the Q-model. After Sinatra et al. [116].
+
+
+
+
+importance, only interesting to a limited number of people in our
+immediate field, which would correspond to a modest r. Occasionally,
+though, we stumble upon an idea that could be transformative – that is,
+if it works out. The better the idea – the larger its r value – the more
+likely it is to have high impact.
+          But having a good idea isn’t enough. The ultimate impact of the
+project depends on a scientist’s ability to turn that idea into a truly
+impactful product. One may begin with a terrific idea, but lacking the
+necessary expertise, experience, resources, or thoroughness to bring out
+its full potential, the end result will suffer. Yet, turning that idea into a
+discovery requires an ability that varies from person to person. So, let us
+assign a parameter Q to characterize an individual’s ability to turn a
+random idea r into a discovery of a given impact.
+          In other words, let us assume that the impact of each paper we
+publish, c10 , is determined by two factors: luck (r) and the Qi parameter
+unique to individual i. The combination of the two could invoke some
+complicated functions. To keep it simple, we assume a simple linear
+function, writing
+
+c10 = rQi.                                                                                         (6.1)
+
+[p. 63] [PDF page 81]
+
+Equation (6.1) has multiple assumptions behind it:
+
+(1) When we start a new project, we pick a random idea r from a
+    pool of possibilities. Scientist may pick their r from the same
+    distribution P(r), as we all have access to the same literature
+    and hence the same pool of knowledge. Or each scientist may
+    pick her r from her own P(r), as some scientists are better at
+    picking good ideas than others.
+(2) Scientists differ in their Q parameter, which characterizes the
+    ability of an individual to take the same idea but turn it into
+    works with variable impacts. If a scientist with a low Q-factor
+    comes across an idea with huge r value, despite the idea’s inher-
+    ent potential, the project’s impact will be mediocre, since the
+    resulting product rQ is diminished by the scientist’s limited Q.
+    On the other hand, a high Q scientist may also put out weak or
+    mediocre works, if the idea he started with was poor (small r).
+    Truly high-impact papers are those perfect-storm instances when
+    a high Q individual stumbles upon a brilliant idea (high r). In
+    other words, the model assumes that the ultimate impact of a
+    paper is the product of two factors: a yet-to-be-realized potential
+    of an idea and a scientist’s ability to realize it.
+(3) Finally, productivity matters: Scientists with high N, even with the
+    same Q and P(r), have more chances to stumble across a high r
+    project, turning it into a paper with a high impact (c10).
+
+The problem is that none of these factors are expected to be inde-
+pendent of each other: high Q individuals may also have a talent at
+recognizing high-potential projects, hence their P(r) distribution
+could be skewed towards higher r values. And those who publish
+higher-impact papers may also have more resources to publish more
+papers, hence will have higher productivity. In other words, the
+outcome of the model (6.1) is determined by the joint probability
+P(r, Q, N), with unknown correlations between r, Q, and N. To
+understand what real careers look like, one needs to measure the
+correlations between the three parameters. This measurement led
+to the covariance matrix [116]:
+
+       σ 2r
+      0                               1 0                  1
+                    σ r, Q     σ r, N       0:93 0:00 0:00
+Σ ¼ @ σ r, Q         σ 2Q      σ Q, N A ¼ @ 0:00 0:21 0:09 A,                                      ð6:2Þ
+      σ r, N        σ Q, N      σ 2N        0:00 0:09 0:33
+
+[p. 64] [PDF page 82]
+
+which makes two unexpected predictions about individual careers:
+
+(1) σ r, N ¼ σ r, Q ffi 0 indicates that the value of an initial idea (r) is
+    largely independent of a scientist’s productivity N or her Q-factor.
+    Therefore, scientists source their ideas randomly from a P(r) distri-
+    bution that is the same for all individuals, capturing a universal –
+    that is, scientist-independent – luck component behind impact.
+(2) The nonzero σ Q, N indicates that the hidden parameter Q and
+    productivity N do correlate with each other, but its small value also
+    shows that high Q is only slightly associated with higher
+    productivity.
+
+The lack of correlations between the idea value r and (Q, N) allows us
+to analytically calculate how the highest impact paper c∗
+                                                        10 is expected to
+change with productivity N. As shown in Fig. 6.1, the prediction of the
+Q-model is now in excellent agreement with the data, indicating that the
+hidden Q-factor and variations in the productivity N can explain the
+empirically observed impact differences between scientists, correcting
+the shortcomings of the R-model.
+          The fact that we need other parameters besides luck to char-
+acterize a scientist’s career impact makes sense. It’s not hard to
+imagine that there are differences between individual scientists, which
+need to be accounted for to have an accurate description of real
+careers. What is surprising, however, is that we appear to need only
+one additional parameter besides luck. Incorporating the Q-factor
+alone seems sufficient to explain the impact differences among
+scientists.
+          What exactly does the Q-model offer that the R-model
+misses? The R-model’s failure tells us that a successful career isn’t
+built on chance alone. Indeed, the Q-factor pinpoints a critical char-
+acteristic of a career: Great scientists are consistently great across
+their projects. True, each scientist probably has one important paper
+they are known for. But that paper didn’t appear by chance. A great
+scientist’s second-best paper, or her third, or, for that matter, many
+of her other papers are unusually highly cited as well. Which means
+that there must be something unique about a researcher who can
+consistently produce outstanding papers. That unique characteristic is
+what Q aims to capture. In other words, while luck is important, by
+itself it won’t get you far. The Q-factor helps to turn luck into a
+consistently high-impact career.
+
+[p. 65] [PDF page 83]
+
+6.3            What Is your Q?
+         The Q-model not only helps us break down the elements
+associated with high-impact careers, but it also allows us to calculate
+the Q-factor for each scientist, based on their sequence of publications.
+The precise solution for Q is somewhat mathematically involved, but
+once a scientist has published a sufficient number of papers, we can
+approximate her Q by a rather simple formula [116]. Consider a career
+in which each paper j published by scientist i collects c10, ij citations in ten
+years. Start by calculating log c10, ij , for each paper, then averaging over
+all logarithmic citations. The Qi is the exponential of that average,
+
+Qi ¼ eh log c10, i iμp ,                                                                          ð6:3Þ
+
+where µp is a normalization factor, that depends on the career output of
+all scientists. Given its dependence on the average of log c10, ij , Q is not
+dominated by a single high- (or low-) impact discovery, but captures,
+instead, a scientist’s sustained ability to systematically turn her projects
+into high (or low) impact publications. To better understand Q, let’s
+look at an example.
+         The three scientists shown in Fig. 6.2 have comparable
+productivity, all having published N ’ 100 papers. Yet, their careers
+have noticeably different impact. Using (6.2), we can calculate the
+Q-factor for each of them, obtaining Q = 9.99, 3.31, and 1.49,
+respectively. As Fig. 6.2 illustrates, the Q-factor captures persistent
+differences in impact across a scientist’s sequence of publications: the
+Q = 9.99 researcher produces one high-impact paper after another.
+In contrast, the work by the Q = 1.49 scientist garners consistently
+limited impact. The one in the middle may occasionally publish a
+
+
+(a)                                 (b)                                  (c)
+     300                                300                                    300
+     200                                200                                    200
+     100                                100                                    100
+       0                                   0                                     0
+           1   10    20      30                1    10    20      30              1   10      20     30
+
+                                                   Time (years)
+ Figure 6.2 Careers with different Q-factor. The figures illustrate career histories
+of three scientists with comparable productivity (N ’100), documenting the notable
+differences between the papers published by them, given their different Q-factors.
+
+[p. 66] [PDF page 84]
+
+paper that jumps out of the pack – that is, if he gets lucky – but its
+impact is dwarfed by what the researcher to his left has managed to
+achieve. Therefore, Q describes scientists’ different ability to take
+random projects r and systematically turn them into high- (or low-)
+impact publications. Any single one of the projects may be influ-
+enced by luck. But inspecting project after project, the true Q of a
+scientist starts to stand out.
+         There are many benefits of the mathematical Eq. (6.3). To
+begin with, it allows us to estimate the expected impact of a career.
+For example, how many papers does a scientist need to publish
+before he can expect one of them to reach a certain level of impact?
+According to (6.3), a scientist with the somewhat low Q = 1.2,
+similar to that shown in Fig. 6.2c, needs to write at least 100 papers
+if he wants one of them to acquire 30 citations over a 10-year period.
+On the other hand, an equally productive scientist with Q = 10 can
+expect to have at least one of her papers reach 250 citations over the
+same 10-year period.
+         Consider next what happens if both scientists ramp up their
+productivity. Regardless of Q, a higher productivity increases the
+chance of stumbling upon a fabulous idea, i.e., picking a higher r value.
+Hence, we expect the highest impact paper to increase for both careers.
+If the low-Q scientist doubles his productivity though, he’ll only
+enhance the impact of his best paper by seven citations. Compare that
+with the high-Q scientist, who will see a boost of more than 50. In other
+words, for a scientist with limited Q, an increase in productivity doesn’t
+substantially improve his chances for a breakthrough – simply working
+harder isn’t enough.
+         Does the Q-factor increase with age and experience? As scien-
+tists, we would like to think that as we advance in our careers, we
+become better at translating our ideas into high-impact publications. To
+test the stability of the Q parameter throughout the overall career, we
+consider careers with at least 50 papers and calculate their early and late
+Q parameters (Qearly and Qlate, respectively) using Eq. (6.3) on the first
+and second half of their papers, respectively. As Fig. 6.3 shows, Qlate is
+proportional to Qearly, indicating that the Q parameter does not sys-
+tematically increase or decrease over a career. In other words, a scien-
+tist’s Q-factor appears relatively stable during her career. This raises a
+tantalizing question: can the Q parameter predict the career impact of a
+scientist?
+
+[p. 67] [PDF page 85]
+
+10
+
+
+                   8
+
+
+                   6
+
+
+                   4
+
+
+                   2
+
+
+                   0
+                       0     2       4       6       8      10
+
+
+
+
+              Figure 6.3 The Q-factor appears relatively stable during a career. We
+            compare the Q parameter at early-career (Qearly) and late-career (Qlate)
+            stage of 823 scientists with at least 50 papers. We measured the two values
+            of the Q parameters using only the first and second half of published
+            papers, respectively. We perform these measurements on the real data
+            (circles) and on randomized careers, where the order of papers is shuffled
+            (shaded areas). For most of the careers (95.1%), the changes between
+            early- and late-career stages fall within the fluctuations predicted by the
+            shuffled careers, suggesting that the Q parameter is relatively stable
+            throughout a career.
+
+
+
+6.4         Predicting Impact
+         To understand if the Q-factor is more effective at gauging the
+overall impact of an individual’s work, we throw several metrics we’ve
+discussed so far in this book into a kind of horse race. We start by
+checking how well these different measures can forecast Nobel prize-
+winners [116]. For that we can rank physicists based on their product-
+ivity N, total number of citations C, citations of the highest impact
+paper c∗ 10 , h-index, and Q. To compare the performance of each
+ranking, we use a receiver operating characteristic (ROC) plot that
+measures the fraction of Nobel laureates at the top of the ranked list.
+Figure 6.4 shows that, overall, cumulative citation measures, like the
+number of citations collected by the highest impact paper of a scientist,
+and the total career citations, do reasonably well. And the h-index is
+indeed more effective than these citation measures, ranking Nobel-
+winning careers at a higher accuracy. The worst predictor, interestingly,
+is the productivity, representing the number of papers published by
+
+[p. 68] [PDF page 86]
+
+1
+
+
+                               0.8
+
+
+
+
+             Nobel laureates
+                               0.6
+
+
+                               0.4
+                                                        Scientist
+                                                        h-index
+                               0.2                      Highest impact
+                                                        Total citations
+                                                        Productivity
+                                0
+                                     0   0.2      0.4      0.6        0.8   1
+                                               Other scientists
+              Figure 6.4 Predicting Nobel laureates. ROC plot captures the ranking
+            of scientists based on Q, productivity N, total number of citations C,
+            citations of the highest impact paper c∗10 and h-index. Each curve
+            represents the fraction of Nobel laureates versus the fraction of other
+            scientists for a given rank threshold. The diagonal (no-discrimination line)
+            corresponds to random ranking; the area under each curve measures the
+            accuracy to rank Nobel laureates (reported in the legend, with 1 being the
+            maximum). After Sinatra et al. [116].
+
+
+scientists. In other words, simply publishing a lot is not a path toward
+the Nobel.
+         Yet, despite the strength of the h-index, and other citation-
+based measures, the career-based Q-factor wins out, predicting Nobel
+careers more accurately than all other measures tested in Fig. 6.4.
+Therefore, while the h-index remains an excellent measure for the
+overall impact of a scientist, the Q-factor seems to offer even better
+predictive power. What does Q capture that h misses?
+         To understand the difference between Q and h, let’s look at a
+randomized field experiment exploring how economists assess each
+other’s CVs [125]. Professors from 44 universities were randomly
+selected from among the top 10 percent research-based universities in
+the world. These professors were asked to rate fake CVs based on the
+publication histories outlined in those CVs. The fake CVs contained
+either a publication history that listed only papers that had appeared in
+elite journals, or a publication history with both the elite papers and
+additional publications that had appeared in lower-tier journals. Eco-
+nomics is an excellent discipline for such a test, because there is a rather
+stable hierarchy of prestige among the journals. In other words, every
+
+[p. 69] [PDF page 87]
+
+economist tends to agree which journals are higher- and which are
+lower-tier. So, would including publications from well-known,
+respected, but lower-ranked journals alongside papers from higher-
+ranked ones make a CV stronger? If so, how much stronger?
+         The survey respondents were asked to rate the CVs on a scale of
+1 to 10, with 1 being the absolute worst and 10 the absolute best. On
+average, the short CVs listing only top publications received a rating of
+8.1. The long CVs – which, remember, contained the same top-tier
+papers as the short CVs but with additional lower-tiered publications –
+received an average rating of 7.6. This means, a short CV was system-
+atically preferred to a long CV, even though they both featured identical
+elite publication histories. In other words, the additional publications
+from lower-tier journals not only didn’t help, they actually negatively
+affected the experts’ assessment.
+         These results are both intuitive and puzzling. On the one hand,
+they lend evidence to the often-held conjecture that publishing too
+frequently in lower-ranked journals may work against you. On the
+other hand, though, these results simply don’t make sense if we think
+in terms of the metrics we use to assess scientific achievement. Indeed, of
+all the measures we’ve discussed, from productivity to total number of
+citations to h-index, each increases monotonically with the number of
+papers. From this perspective, it will always make sense to publish
+another paper, even if its impact is limited. First, it will certainly increase
+your publication count. Second, even if the paper wasn’t published in a
+prestigious journal, with time it may accumulate citations that will
+contribute to your overall impact, and perhaps even to your h-index.
+At the very least, it can’t hurt.
+         Except these results show us that it does hurt. And that makes
+sense if we think in terms of the Q-factor. In contrast to other measures,
+Q doesn’t simply grow with an expanding publication list. Instead, it
+depends on if the additional papers are, on average, better or worse than
+your other papers. In other words, the purpose of Q is to quantify a
+scientist’s consistent ability to put out high-impact papers over the
+course of her career. It takes into account all papers, not just the high-
+impact ones. Hence, if you already have a stellar publication record
+and publish a few more papers, these additional papers will enhance
+each of your other metrics, but they aren’t guaranteed to increase your
+Q-factor. In fact, unless your new papers are on par with the papers you
+typically publish, they may actually lower it.
+
+[p. 70] [PDF page 88]
+
+The superior accuracy of the Q-factor in predicting career
+impact therefore illustrates that for a career, consistency matters. This
+conclusion, together with the stability of the Q parameter suggested by
+Fig. 6.3, paints a picture of rather monotonic careers: we all start our
+careers with a given Q, high or low. That Q-factor governs the impact
+of each paper we publish and stays with us until retirement. But is it
+true? Can we ever break this robotic monotonicity? In other words, do
+we ever experience periods in our career where we are actually really
+good at what we do?

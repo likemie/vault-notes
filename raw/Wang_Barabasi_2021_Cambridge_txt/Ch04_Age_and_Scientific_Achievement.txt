@@ -1,0 +1,518 @@
+The Science of Science
+Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
+ISBN 9781108492669 | DOI 10.1017/9781108610834
+
+Part I: The Science of Career
+Chapter 4: Age and Scientific Achievement
+Print pages 39–50; one-based PDF pages 57–68
+
+[English original. Page markers identify print and PDF pages. References remain numbered as in the book. Shared supplementary materials are labelled separately. Download footers and recognized running heads are removed; original text, formulas and line breaks are otherwise retained. Verify exact mathematical notation, diagrams and table layout against the PDF.]
+
+
+========================================================================
+Chapter text
+========================================================================
+
+[p. 39] [PDF page 57]
+
+4                AGE AND SCIENTIFIC ACHIEVEMENT
+
+
+         When Elias Zerhouni was named director of the National Insti-
+tutes of Health (NIH) in 2002, he faced a seemingly intractable crisis:
+The investigators that his organization funds were aging at an alarming
+rate. Back in 1980, for example, about 18 percent of all recipients of
+R01s – NIH’s most common research grants for individual investiga-
+tors – were junior scientists aged 36 or younger. Senior investigators,
+those 66 years old or above, accounted for less than 1 percent of the
+grantees. In the 30 years since, however, a remarkable reversal has
+taken place (Fig. 4.1) [82]: The number of senior investigators increased
+ten-fold by 2010, whereas the percentage of young investigators plum-
+meted dramatically, from 18 percent to 7 percent. In other words, back
+in 1980, for every senior investigator, the NIH funded 18 junior faculty.
+By 2010, there were twice as many senior investigators as those just
+starting out. Zerhouni declared this trend to be “the number one issue
+in American science” [83].
+         Why was the director of NIH so worried about this trend? After
+all, senior researchers have a proven track record, know how to manage
+projects, understand risks, and can serve as experienced mentors for the
+next generation of scientists. So, when after a rigorous peer review process,
+senior principal investigators (PIs) win out over the fresh-faced youngsters,
+shouldn’t we feel reassured that our tax dollars are in safe hands?
+         To comprehend the threat this demographic shift poses to the
+productivity and pre-eminence of American science, we need to explore
+a question that has fascinated researchers for centuries: At what age
+does a person make their most significant contribution to science?
+
+[p. 40] [PDF page 58]
+
+20.0%
+                                                                    2623                     Age 36 and younger
+
+
+
+
+             Percent of all principal investigators
+                                                                                             Age 66 and older
+                                                      16.0%
+
+
+                                                      12.0%
+
+
+                                                      8.0%                                                  1544
+
+
+                                                      4.0%                                                  662
+
+                                                              145
+                                                      0.0%
+                                                         1980       1985   1990     1995      2000   2005    2010
+                                                                                  Fiscal year
+
+             Figure 4.1 The graying of science. Changes in the percentage of NIH
+            R01 grant recipients, aged 36 and younger and aged 66 and older,
+            1980–2010. After Alberts et al. [82].
+
+
+4.1         When Do Scientists Do their Greatest Work?
+        The earliest investigation into the link between a person’s age
+and exceptional accomplishment dates back to 1874, when George
+M. Beard estimated that peak performance in science and the creative
+arts occurred between the ages of 35 and 40 [84]. Subsequently, Harvey
+C. Lehman devoted around three decades to the subject, summarizing
+his findings in Age and Achievement, a book published in 1953 [85].
+Since then, dozens of studies have explored the role of age in a wide
+range of creative domains, revealing a remarkably robust pattern: No
+matter what creative domain we look at or how we define achievement,
+one’s best work tends to occur around mid-career, or between 30 to 40
+years of age [2, 66, 85–87].
+        Figure 4.2 shows the age distribution of signature achievements,
+capturing Nobel prizewinners and great technological innovators of the
+twentieth century [88]. The figure conveys three key messages:
+
+(1) There is a large variance when it comes to age. While there are many
+    great innovations by individuals in their 30s (42%), a high fraction
+    contributed in their 40s (30%), and some 14 percent had their
+    breakthrough beyond the age of 50.
+(2) There are no great achievers younger than 19. While Einstein had
+    his annus mirabilis at the tender age of 26, and Newton’s annus
+    mirabilis came even earlier, at the age of 23, the Einsteins and
+    Newtons of the world are actually rare, because only 7 percent of
+
+[p. 41] [PDF page 59]
+
+0.05
+                                                 Nobel Prize winners
+                         0.04                    Great inventors
+
+
+
+             Frequency
+                         0.03
+
+                         0.02
+
+                         0.01
+
+                         0.00
+                                20   30   40   50    60     70    80
+                                               Age
+
+              Figure 4.2 Age distribution of great innovation. The plot shows the age
+             of innovators at the moment of their great innovation, combining all
+             twentieth-century observations. After Jones [88].
+
+    the sample have accomplished their great achievement at or before
+    the age of 26.
+(3) The Nobel laureates and the inventors come from two independ-
+    ent data sources, with only 7 percent overlap between the two
+    lists. Yet, the age distributions of these two samples are remark-
+    ably similar.
+        Thus, Fig. 4.2 demonstrates that scientific performance peaks
+in middle age [2, 66, 85–87]. The life cycle of a scientist often begins
+with a learning period, absent of major creative outputs. This is
+followed by a rapid rise in creative output that peaks in the late 30s
+or 40s and ends with a slow decline as he advances through his later
+years. These patterns are remarkably universal. Researchers have
+explored them in a variety of ways, identifying important scientists
+by their Nobel Prizes, by their listings in encyclopedias, and by their
+membership in elite groups like the Royal Society or the National
+Academies. No matter how you slice the data, the patterns observed
+in Fig. 4.2 remain essentially the same, raising two questions: Why
+does creativity take off during our 20s and early 30s? And why does it
+decline in later life?
+
+
+4.2          The Life Cycle of a Scientist
+4.2.1        The Early Life Cycle
+        A remarkable feature of a scientific career is the lack of contri-
+butions in the beginning of life [89]. Simply put, no 18 year old has
+managed to produce anything worthy of a Nobel. The early life cycle
+coincides with schooling, suggesting that the need for education may be
+
+[p. 42] [PDF page 60]
+
+responsible for the absence of exceptional output in early age. This is
+also consistent with theories of creativity, where “creativity” is often
+defined as an ability to identify interesting combinations of existing
+knowledge [90–92]. Indeed, if we see knowledge as Lego pieces, and
+new inventions and ideas hinge on figuring out novel ways to combine
+these pieces, then we first need to accumulate enough pieces before we
+can start building anything meaningful.
+        Empirical evidence using World Wars I and II as natural experi-
+ments [88], supports the idea that training is responsible for the lack of
+discovery and invention in the early life cycle. Indeed, war created
+interruptions that affected the training phase of careers. When Nobel
+laureates experienced either World War I or II between the ages of
+20 and 25, their probability of creating innovative work between the
+ages of 25 and 30 was substantially reduced, even though the wars were
+over. This means, scientists do not magically start innovating at a
+certain age; rather, interruptions during their training phase must be
+made up. This finding is consistent with the much-discussed “10,000-
+hours hypothesis” in psychology, which estimates that roughly 10 years
+of deliberate practice are needed to achieve excellence across broad
+domains of human performance [93–95].
+
+
+4.2.2       The Middle and Late Life Cycle
+         Once a scientist completes the training phase, a productive
+career may blossom, as evidenced by the prominent peak in Fig. 4.2.
+Yet, Fig. 4.2 also shows that the likelihood of a scientific breakthrough
+decreases following this peak around middle age. Compared to the
+rapid rise in the early life cycle, this decline is relatively slower.
+         There are many potential explanations for this decline, from the
+obsolescence of skills to degradation in health. But none of them offer a
+satisfactory explanation for why the decline occurs so early, usually
+before a scientist reaches 50 – long before he is considered old, biologic-
+ally. For this reason, alternative explanations that consider the realities
+of the research process stand out as more plausible, including family
+responsibilities and increasing administrative duties. In other words,
+older scientists may well have the capacity to produce great science
+but have limited time to do so. Instead, they’re running labs, applying
+for grants, reviewing papers and deciding tenure cases. Interestingly,
+scientific careers are sometimes characterized by a “second peak” prior
+
+[p. 43] [PDF page 61]
+
+to retirement, which can be interpreted as a rush to get remaining ideas
+and unpublished research in press [89, 96–98].
+         These findings help us return to the challenge facing American
+science (Fig. 4.1): While senior researchers have more experience, scien-
+tists tend to produce their best work at a younger age, suggesting that a
+preference for funding only older researchers could stifle innovation.
+For example, from 1980 to 2010, 96 scientists won a Nobel Prize in
+medicine or chemistry for work supported by NIH. Yet their prize-
+winning research was conducted at an average age of 41 [99] – a full
+year younger than the average age of a NIH investigator starting
+out today.
+
+
+4.3          What Determines the Timing of Our Peak?
+         What determines when our creativity peaks? Many believe that
+a scientist’s field is a key factor, as some fields are “young” and others
+are “old.” Indeed, the prevailing hypothesis is that individuals working
+in disciplines that focus on deduction and intuition tend to have their
+great achievements at younger ages, explaining why peak performance
+comes earlier in disciplines like math or physics than in medicine [85,
+100–102].
+         But this stereotype – of precocious physicists and wizened med-
+ical doctors – is increasingly contested. For example, researchers tabu-
+lated peak age in different fields by surveying the literature. Upon
+putting all these numbers together, they found that the peak age was
+all over the map [89], lacking obvious so-called young or old fields.
+Even the canonical example of physics vs. medicine doesn’t seem to
+hold. For example, while it’s true that physics Nobel laureates during
+the 1920s and 1930s were younger than scientists in all other fields,
+since 1985, physics laureates have actually been older when they made
+their prizewinning contribution compared to other fields [103].
+         If field is not a determining factor, then what is? As we discuss
+next, two convincing theories have emerged: the burden of knowledge
+and the nature of work.
+
+
+4.3.1        Burden of Knowledge
+        A simple re-examination of Fig. 4.2 reveals an interesting pat-
+tern [88]. If we take the datasets of Nobel prizewinners and great
+
+[p. 44] [PDF page 62]
+
+0.05
+                                                        Before 1935
+                         0.04                           1935–1965
+
+
+
+             Frequency
+                                                        After 1965
+                         0.03
+
+                         0.02
+
+                         0.01
+
+                         0.00
+                                20   30   40    50    60    70   80
+                                     Age at noted achievement
+
+              Figure 4.3 Shifts in the age distribution of great innovation. Data
+            includes Nobel prizewinners and great inventors. The twentieth century is
+            divided into three chronological periods: 1900–1935, 1935–1965, and
+            1965 to present. After Jones [88].
+
+
+inventors, and divide the twentieth century into three consecutive
+chronological periods, we observe a systematic shift (Fig. 4.3): The peak
+age of great minds has increased over time. Indeed, in the early days of
+the Nobel prize, two thirds of the recipients did their prize-winning
+work by age 40, and 20 percent earned the distinction before they
+turned 30. Lawrence Bragg, the youngest Nobel laureate in physics,
+received his award at the astonishing age of 25. Today, a 25-year-old
+physicist has probably only recently decided on which PhD program to
+enroll at to begin her training. And since 1980, the mean age for Nobel
+winning achievement in physics has shifted to 48. Overall, as the
+twentieth century progressed, the great achievements by both Nobel
+laureates and inventors have occurred at later and later ages, with the
+mean peak age rising by about six years in total.
+          There are two plausible explanations for this shift. The first
+hypothesis is that the life cycle of innovation has changed, so that great
+minds now innovate at a later stage of their career. This could be due to
+the extended length of time required for education, which delays the
+onset of active innovative careers. The second hypothesis reasons that
+the upward age trend simply reflects general demographic shifts. In
+other words, if everyone in the world is getting older on average, science
+as a profession should be no exception.
+          Yet, even after controlling for demographic effects, substantial
+shifts in peak age remain unexplained, especially the delays in the early
+life cycle, when innovators began their active careers [88]. For example,
+while at the start of the twentieth century a scientist became “research
+active” at age 23, by the end of the century this moment had shifted to
+age 31.
+
+[p. 45] [PDF page 63]
+
+To understand the origin of the observed shift, Jones proposed
+the “burden of knowledge” theory [88, 104, 105]. First, innovators
+must undertake sufficient education to reach the frontier of knowledge.
+Second, because science has been growing exponentially, the amount of
+knowledge one has to master to reach that frontier increases with time.
+This theory offers a fresh perspective of Newton’s famous remark about
+“standing on the shoulders of giants”: In order to stand on a giant’s
+shoulders, one must first climb up his back. But the greater the body of
+knowledge, the longer the climb.
+         Clearly, education is an important prerequisite for innovation
+[88]. Yet if scientists tend to innovate when they are young, then each
+additional minute they spend in training is one less minute they can
+spend pushing science forward, potentially reducing the total career
+output of individual scientists. And if individuals have less time to
+innovate, society as a whole innovates less [89]. A back-of-the-envelope
+calculation suggests that a typical R&D worker contributes approxi-
+mately only 30 percent of his time to aggregate productivity gains as
+he did at the beginning of the twentieth century – a shift that can be
+attributed to the burden of knowledge. In other words, an increase
+in the age of peak performance potentially contributes to the well-
+documented decline in per capita output of R&D workers in terms of
+both patent counts and productivity growth [106].
+
+
+     Box 4.1 Nobel Prize threatened
+     It’s not only discovery that’s delayed these days – so is recognition [107].
+     Indeed, there is a steadily increasing gap in time between when a scientist
+     makes a discovery worthy of a Nobel and when she is awarded for it. Before
+     1940, only 11 percent of physics, 15 percent of chemistry, and 24 percent of
+     physiology or medicine Nobel Prize recipients had to wait more than
+     20 years for their recognition after the original discovery. Since 1985, a
+     two-decade delay has affected 60 percent, 52 percent, and 45 percent of the
+     awards, respectively. The increasing interval between discovery and its
+     formal recognition is approximated by an exponential curve, projecting
+     that by the end of this century, the prizewinners’ average age for receiving
+     the award is likely to exceed their projected life expectancy. In other words,
+     most candidates will not live long enough to attend their Nobel ceremonies.
+     Given that the Nobel Prize cannot be awarded posthumously, this lag
+     threatens to undermine science’s most venerable institution.
+
+[p. 46] [PDF page 64]
+
+4.3.2       Experimental vs. Conceptual Innovators
+By the time Heisenberg entered the University of Munich in 1920, it was
+clear that the leading theory of the atom developed by Bohr, Sommer-
+feld, and others, while successful in certain domains, had encountered
+fundamental challenges. Heisenberg earned his PhD in Munich with
+Arnord Sommerfeld in 1923 and moved on to work with Max Born
+in Göttingen, where he developed matrix mechanics in 1925. The
+following year he became Niels Bohr’s assistant in Copenhagen, where,
+at the age of 25, he proposed the uncertainty principle. In the past
+century, historians have repeatedly documented his “extraordinary
+abilities: complete command of the mathematical apparatus and daring
+physical insight” – to borrow from Sommerfeld, his PhD advisor [108].
+          What is less known, however, is that he nearly failed his PhD
+defense. On July 23, 1923, the 21-year-old Heisenberg appeared before
+four professors in the University of Munich. He easily handled Som-
+merfeld’s questions and those relating to mathematics, but he stumbled
+with astronomy, and flunked badly in experimental physics [108].
+When all was said and done, he passed with a C-equivalent grade.
+When he showed up the next morning at Max Born’s office – who
+had already hired him as his teaching assistant for the coming year –
+Heisenberg said sheepishly, “I wonder if you still want to have me.”
+          Why, you might ask, did an astonishingly brilliant physicist fail
+an exam covering the basics of his field? Perhaps because of the kind of
+innovator he was. There are, broadly speaking, two polar extremes in
+scholarly creativity: conceptual and experimental [109]. Experimental
+innovators work inductively, accumulating knowledge from experience.
+This type of work relies heavily on the works of others and tends to be
+more empirical. Heisenberg was, on the other hand, a conceptual
+innovator, who worked deductively, applying abstract principles. Con-
+sequently, his work tended to be more theoretical and derived from a
+priori logic. This distinction between experimental and conceptual cre-
+ativity suggests that the nature of the work a scientist does affects when
+she peaks: Conceptual innovators tend to do their most important work
+earlier in their careers than their experimental colleagues.
+          To explore the distinct life cycles of the two types of scientists,
+researchers rated Nobel-winning economists as either conceptual or
+experimental based on the nature of their discovery, and examined the
+age when each group published their best work [109]. The difference
+
+[p. 47] [PDF page 65]
+
+0.05
+                                                   Theorists
+                        0.04
+                                                      Empiricists
+
+
+            Frequency
+                        0.03
+
+                        0.02
+
+                        0.01
+
+                        0.00
+                               20   40           60                 80
+                                         Age
+
+              Figure 4.4 Theorists vs. empiricists among Nobel laureates. This figure
+            separates profiles for Nobel laureates, whose prizewinning work was
+            theoretical compared to those whose prizewinning work was empirical,
+            showing clear differences in life cycle of creativity between the two. After
+            Jones [89].
+
+was stark: Conceptual laureates made their most important contribu-
+tions to science at the average age of 35.8. Compare that to the average
+age of 56 for experimental laureates – a staggering difference of 20.2
+years. Indeed, 75 percent of conceptual Nobel laureates in economics
+published their best work within the first 10 years of their career, while
+none of the experimental laureates managed to do so.
+         Another way of looking at the nature of work is to separate it
+into the categories of empirical or theoretical. Note that this distinction is
+not equivalent with conceptual vs. experimental. Indeed, while concep-
+tual innovations tend to be more theoretical, a conceptual innovator can
+certainly be rooted in empirical work as well. Likewise, experimental
+innovators can also make theoretical contributions. Nevertheless, when
+Nobel laureates were separated into either empirical or theoretical cat-
+egories, a similar pattern emerged (Fig. 4.4) [89]: the empirical research-
+ers did their prizewinning work 4.6 years later (at 39.9 years of age
+compared to 35.3 years) than those doing theoretical work.
+         There are many reasons why conceptual work tends to happen
+early and experimental work tends to happen later in a career [89].
+First, conceptual innovators like Heisenberg do not need to accumulate
+large amounts of experience in order to make their contributions. By
+contrast, Charles Darwin, who did experimental work, needed time to
+accumulate the evidence necessary to develop his theories. Sure, he was
+a brilliant naturalist, but his work would have gone nowhere if he
+hadn’t boarded the HMS Beagle to voyage around the world. Collecting
+all the pieces of evidence and drawing connections among them took
+time. Indeed, the trip itself took five years. That means it took Darwin a
+
+[p. 48] [PDF page 66]
+
+half-decade of travel to even have the raw materials for writing The
+Voyage of the Beagle.
+         Second, some of the most important conceptual work involves
+radical departures from existing paradigms, and it may be easier to
+disrupt a paradigm shortly after initial exposure to it, before an individ-
+ual has produced a large body of work that rests upon the prevailing
+wisdom. Thus, while experience benefits experimental innovators, new-
+ness to a field benefits conceptual innovators. Indeed, nearly failing his
+PhD exam did not prevent Heisenberg from doing groundbreaking
+work. To a certain degree, it might have even helped. In other words,
+knowing too much might even “kill” your creativity [110, 111].
+         In some sense, conceptual and experimental innovators are like
+a Kölsch beer and a vintage port. The former is best served fresh,
+whereas the latter ages with more pleasing mouthfeel and softening of
+tannins. This contrasting approach to the creative process translates to
+fields beyond science. Among important conceptual innovators in the
+modern era, Albert Einstein, Pablo Picasso, Andy Warhol, and Bob
+Dylan all made their landmark contributions between the ages of
+24 and 36, whereas the great experimental innovators, such as Charles
+Darwin, Mark Twain, Paul Cézanne, Frank Lloyd Wright, and Robert
+Frost, made their greatest contributions between the ages of 48 and 76
+[112, 113]. The nature of work is such a strong predictor of when an
+innovator peaks, that sometimes you don’t even need data to see its
+effect. Take for example art. In Fig. 4.5, we put side-by-side works by
+
+
+
+
+ Figure 4.5 Michelangelo vs. Picasso. Two famous paintings side by side. (a) The
+Creation of Adam, by Michelangelo (1511–1512). (b) Woman with Mustard Pot,
+by Picasso (1910). Can you guess which of these two artists’ career peaked early and
+which is the one that required longer time to mature?
+
+[p. 49] [PDF page 67]
+
+Michelangelo and by Picasso. Can you guess who is the Kölsch beer and
+who is the vintage port?
+
+
+     Box 4.2 Age and adoption of new ideas: Planck’s principle
+     Widely held is the idea that younger researchers are more likely to make
+     radical departures from convention. Max Planck vividly put it this way:
+     “A new scientific truth does not triumph by convincing its opponents and
+     making them see the light, but rather because its opponents eventually die,
+     and a new generation grows up that is familiar with it.” This school of
+     thought argues age as an important factor driving scientific progress. In
+     other words, if young and old scientists have different affinities for
+     accepting new ideas, then scientific progress will have to wait for older
+     scientists to fade in relevance, before the discipline can move forward. Yet
+     by contrast, another school of thought argues that new ideas triumph
+     when they are supported by more empirical evidence than the competing
+     hypotheses. Therefore in science, reason, argument, and evidence are all
+     that matter, suggesting that the age factors may not be as important as we
+     thought. So is what Planck said true for science?
+             Although people have long suspected that younger researchers are
+     more willing to make radical departures from convention, there has trad-
+     itionally been limited evidence supporting Planck’s principle. For example,
+     Hull and colleagues found that older scientists were just as quick to accept
+     Darwin’s theory of evolution as younger scientists [114]. This finding
+     supports the idea that scientific progress is self-correcting, guided only by
+     truth. Yet a study focusing on 452 prominent life scientists who passed
+     away suddenly while at their peak of their career, offers empirical support
+     for Planck’s principle [115]. After the unexpected death of a prominent
+     scientist, her frequent collaborators – the junior researchers who coauthored
+     papers with her – experience a sudden drop in productivity. At the same
+     time, there is a marked increase in published work by newcomers to the
+     field, and these contributions are disproportionately likely to be highly cited.
+     They are also more likely to be authored by young outsiders to the field.
+             These results are also consistent with a study that investigates the link
+     between age and the adoption of new ideas. By measuring new words used
+     in a paper as a proxy for new ideas, researchers found that young research-
+     ers are much more likely than older scientists to tackle exciting, innovative
+     topics – and when they do, the resulting work has a higher impact [111].
+     These results document a “Goliath’s shadow” effect in science: Outsiders
+     are reluctant to challenge the leading thinker within a field while he is still
+     alive, but stream in and take over leadership once he has passed away.
+
+[p. 50] [PDF page 68]
+
+Regardless of whether the scientists applying for NIH funding
+were conceptual or experimental innovators, Elias Zerhouni was right
+to be concerned: One needs the funds to innovate immediately, the other
+to collect the evidence that would facilitate her breakthrough decades
+later. Overall, this chapter unveils an intimate link between age and
+scientific achievement, showing that a scientist’s performance peaks
+relatively early, followed by a rapid, if brutal decline. Once we pass
+the peak, hope for a breakthrough starts to dim.
+         Or so it seemed anyway. While the research we shared here is
+solid, older scientists can maintain their hope. Because, as we show in
+the next chapter, there’s more to the story.

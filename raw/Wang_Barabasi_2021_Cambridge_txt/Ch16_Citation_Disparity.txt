@@ -1,0 +1,407 @@
+The Science of Science
+Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
+ISBN 9781108492669 | DOI 10.1017/9781108610834
+
+Part III: The Science of Impact
+Chapter 16: Citation Disparity
+Print pages 174–183; one-based PDF pages 192–201
+
+[English original. Page markers identify print and PDF pages. References remain numbered as in the book. Shared supplementary materials are labelled separately. Download footers and recognized running heads are removed; original text, formulas and line breaks are otherwise retained. Verify exact mathematical notation, diagrams and table layout against the PDF.]
+
+
+========================================================================
+Chapter text
+========================================================================
+
+[p. 174] [PDF page 192]
+
+16                                   CITATION DISPARITY
+
+
+        On the fiftieth anniversary of Eugene Garfield’s Science Citation
+Index (SCI), Nature teamed up with Thomson Reuters to tally the
+number of papers indexed by SCI, counting 58 million in all [261]. If
+we were to print just the first page of each of these papers and stack
+them on top of each other, the pile would almost reach to the top of
+Mt. Kilimanjaro (Fig. 16.1).
+        While this heap is certainly impressive, even more remarkable is
+the disparity in scientific impact that the mountain hides. If we order the
+pages based on the number of citations each paper received, placing the
+most cited ones on top and working downward, the bottom 2,500
+meters – nearly half of the mountain – would consist of papers that
+have never been cited. At the other extreme, the top 1.5 meters would
+consist of papers that have received at least 1,000 citations. And just a
+centimeter and a half at the very tip of this mountain would have been
+cited more than 10,000 times, accounting for some of the most recog-
+nizable discoveries in the history of science.
+
+
+16.1        Citation Distribution
+         The difference in impact among papers can be captured by a
+citation distribution, P(c), representing the probability that a randomly
+chosen paper has c citations. de Solla Price was the first to compute this
+distribution [262], relying on citation data manually curated by Garfield
+and Sher in the early 1960s [263]. For this he counted by hand the
+number of papers that had been cited once, twice, three times, and so
+
+[p. 175] [PDF page 193]
+
+Figure 16.1 The mountain of science. If you print out just the first page
+of each research paper indexed in Web of Science by 2014, the stack
+would reach almost to the top of Mt. Kilimanjaro. Only the top 1.5 m of
+that stack would have received 1,000 citations or more, and just 1.5 cm
+would have been cited more than 10,000 times. The top 100 papers have
+all been cited more than 12,000 times, including some of the most
+recognizable scientific discoveries in history. After Van Noorden [261].
+
+[p. 176] [PDF page 194]
+
+forth. He found that most papers had very few citations, but that a
+handful of papers had many more. Plotting the data, he realized that the
+citation distribution can be approximated by a power-law function,
+
+P(c)~cγ,                                                                                        (16.1)
+with citation exponent γ  3.
+         Most quantities in nature follow a normal or Gaussian distri-
+bution, commonly known as a bell curve. For example, if you measure
+the height of all your adult male acquaintances, you will find that most
+of them are between five and six feet tall. If you draw a bar graph to
+represent their heights, it will have a peak somewhere between five and
+six feet, and will decay quickly as you move away from the peak in
+either direction. After all, it is very unlikely that you know an eight-foot
+or a four-foot adult. Many phenomena, from the speed of molecules in a
+gas to human IQ, follow a similar bell curve.
+         Power laws like (16.1), however, belong to a different class of
+distributions, often called “fat-tailed distributions.” The key property of
+these fat-tailed distributions is their high variance. For example, as
+Fig. 16.2 shows, the millions of papers with only a few citations coexist
+with a tiny minority of papers that have thousands of citations. (See also
+Box 16.1 The 80/20 rule.) If citations were to follow a bell curve, we
+would never observe such highly cited papers. Indeed, imagine a planet
+where the heights of the inhabitants follow a fat-tailed distribution. On
+
+            (a)                                  (b)
+                       Many papers
+                       with a few
+                       citations
+              ( )                                  ( )
+
+                            Few papers
+                            with many
+                            citations
+
+
+
+              Figure 16.2 Illustrating normal, power-law, and lognormal
+            distributions. (a) Comparing a power law and a lognormal function to a
+            normal distribution on a linear–linear plot. (b) The same comparison
+            shown on a log–log plot, helping us see the fundamental difference
+            between the normal and fat-tailed distributions in the high citation regime.
+            A power law follows a straight line on a log–log plot, its slope indicating
+            the citation exponent γ. Sometimes, it can be difficult to tell lognormal and
+            power laws apart, as they appear similar on a log–log plot.
+
+[p. 177] [PDF page 195]
+
+such a planet, most creatures would be quite short, under one foot – but
+we would also occasionally encounter two-mile-tall monsters walking
+down the street. The strangeness of this imaginary planet highlights the
+stark difference between the fat-tail distribution followed by citations
+and the bell curves frequently seen in nature (Fig. 16.2).
+
+
+   Box 16.1 The 80/20 rule
+   Power law distributions are frequently seen in the context of income and
+   wealth. Vilfredo Pareto, a nineteenth-century economist, noticed that in
+   Italy a few wealthy individuals were earning most of the money, while the
+   majority of the population earned rather small amounts. Looking more
+   closely, he concluded that incomes follow a power law [264]. His finding is
+   also known as the 80/20 rule: He observed that roughly 80 percent of
+   money is earned by only 20 percent of the population.
+           Versions of the 80/20 rule apply to many quantities that follow fat-
+   tailed distributions [68, 265, 266]. For example, in business, 20 percent of
+   sales reps typically generate 80 percent of total sales; on the World Wide
+   Web, 80 percent of links lead to 15 percent of webpages; and in hospitals,
+   20 percent of patients account for 80 percent of healthcare spending.
+
+
+
+
+16.2        Universality of Citation Distributions
+          There are remarkable differences in citations between disciplines.
+For example, biology papers regularly collect hundreds or even thousands
+of citations, while a highly influential math paper may struggle to collect a
+few dozen. These differences are illustrated in Fig. 16.3a, which depicts
+the distribution of citations for papers published in 1999 across several
+disciplines. As these plots show, the probability of an aerospace engineer-
+ing paper gathering 100 citations is about 100 times smaller than the odds
+of a developmental biology paper reaching the same threshold. These
+systematic differences indicate that simply comparing the number of
+citations received by two papers in different disciplines would be mean-
+ingless. The less-cited aerospace engineering paper may have reported
+defining discoveries in that field, whereas a more-cited biology paper may
+have reported a merely incremental advance within its discipline.
+          To get a better idea of how influential a particular paper is, we
+can compare it to the average article in its discipline. Dividing a paper’s
+
+[p. 178] [PDF page 196]
+
+(a) 100                                                              (b)
+                                                                               100
+         10-1
+
+                                                                               10-1          Hematology
+         10-2                                                                                Anesthesiology
+                                                                                             Allergy
+                                                                               10-2          Tropical Medicine
+
+ P(c )   10-3                                                       c0 P(c )                 Neuroimaging
+                                                                                             Astronomy & Astrophysics
+                                                                               10-3          Engineering, Aerospace
+         10-4                                                                                Physics, Nuclear
+                                                                                             Microbiology
+                                                                               10-4          Developmental Biology
+                                                                                             Biology
+         10-5
+                                                                                             Mathematics
+                                                                               10-5          Computer Science, Cybernetics
+                                                                                             Agricultural Economics & Policy
+         10-6
+                     0                1            2            3
+                10               10           10           10                         10-2        10-1       100        101    102
+                                          c                                                                  cf
+                         Engineering, Aerospace   <c> = 5.65
+                         Biology                  <c> = 14.60
+                         Astronomy & Astrophysics <c> = 23.77
+                         Hematology               <c> = 30.61
+                         Developmental Biology    <c>= 38.67
+
+
+  Figure 16.3 Universality of citation distribution. (a) The distribution of
+citations for papers published in 1999, grouped by discipline. The panel shows
+the probability P(c) of a paper receiving exactly c citations for several scientific
+disciplines, illustrating that in some fields, like developmental biology, highly cited
+papers are more common than in engineering. (b) Rescaled citation distribution,
+illustrating that all curves shown in (a) follow the same distribution, once rescaled
+by hci, the average number of citations in the same field and year. The dashed line
+shows lognormal fit (16.2) to the data. After Radicchi et al. [43].
+
+
+citations by the average number of citations for papers in the same
+field in the same year gives us a better measure of relative impact. When
+the raw citation counts are normalized in this way, we find that the
+distribution for every field now neatly follows a single universal func-
+tion (Fig. 16.3b). The finding that the curves that were so visibly
+different in Fig. 16.3a now collapse in a single curve offers two import-
+ant messages:
+
+(1) Citation patterns are remarkably universal. Whether you publish in
+    math, the social sciences or biology, the impact of your work
+    relative to your own discipline has the same odds of being mediocre,
+    average, or exceptional as the research happening in every other
+    building on campus (Fig. 16.2b).
+(2) The universal curves are well approximated by a lognormal function
+                                        
+                  1        ð ln c  μÞ2
+          PðcÞ pffiffiffiffiffi exp                                                                                                  ð16:2Þ
+              e 2π σc
+                                          :
+                                2σ 2
+
+[p. 179] [PDF page 197]
+
+Box 16.2 A variety of functions capture citation distributions
+   As illustrated in Fig. 16.2, when plotted, fat-tailed distributions like the
+   lognormal (16.2) or power-law function (16.1) can appear quite similar to
+   each other. But how do we know which function offers the best fit? Various
+   studies have argued that a variety of functions could capture the citation
+   distribution – from power laws [265–268] and shifted power laws, [269] to
+   lognormals [43, 268, 270–275], to other more complicated forms [276–280].
+   How well these distributions suit the data often depends on which corpus of
+   papers researchers analyzed, the publication year, the selection of journals,
+   scholars, and their departments, universities, and nations of origin, to name a
+   few factors. The mechanisms governing the emergence of different forms for
+   P(c) is an active research topic and will be discussed in the next chapters.
+
+
+          The universality of the citation distributions offers a simple way
+to compare scientific impact across disciplines. Let’s focus on two
+hypothetical papers: Paper A is a computational geometry paper pub-
+lished in 1978, which has collected 32 citations to date; paper B is a
+biomedical paper published in 2002 with 100 citations. Although it may
+feel like an apples-to-oranges comparison, the relative citation function
+helps us compare the impact of the two papers. To do so, we first take
+all computational geometry papers published in 1978 and count their
+average citations. Similarly, we take all biomedical papers published in
+2002, and calculate their corresponding average. Comparing the raw
+citation counts of paper A and B to the averages in their respective field
+and year provides a metric of relative impact for each, allowing us to
+make an unbiased comparison between the two.
+          In Table A2.1 (in Appendix A2), we calculate the average
+citation counts up to 2012 for all subject categories in 2004. As the
+table reveals, the more papers in a particular subject area, the more
+citations its average paper tends to receive – likely because there are
+more opportunities to be cited in that field. For instance, the biological
+sciences have some of the highest average citation counts, mostly in the
+20s, whereas those in engineering and math have some of the lowest.
+There can be large differences even within the same subject. For
+example, biomaterials, a hot subfield of material science averages
+23:02. Yet, the characterization and testing of materials, another subfield
+of material science, averages just 4:59: Interestingly, the number of
+papers in the two areas are not that different (2,082 vs. 1,239), suggest-
+ing that biomaterials papers are often cited in other disciplines.
+
+[p. 180] [PDF page 198]
+
+Box 16.3 The widening citation gap
+The 2008 Occupy Wall Street Movement, highlighted the fact that in
+the US, 1 percent of the population earns a disproportionate 15 percent
+of total income. This signals a profound income disparity, rooted in the
+fact that the income distribution follows a power-law distribution. Yet
+the debate about the 1 percent is less about the magnitude of its wealth
+than its trend over time: Income disparity has been skyrocketing for the
+last several decades (Fig. 16.4).
+
+
+
+            25
+                   PR citation
+                   US income
+            20
+
+
+
+
+Share [%]
+            15
+
+
+            10
+
+
+            5
+
+
+            0
+            1900                    1950                      2000
+                                 Citing year
+  Figure 16.4 The top 1 percent of Science. The fraction of income earned
+by the top 1 percent of the population in US between 1930 and 2010, and
+the share of citations received by the top 1 percent most cited papers in
+Physical Reviews (PR). We used the PR corpus of 463,348 papers published
+between 1893 and 2009 to examine the share of citations each paper gains the
+following year. After Barabási, Song, and Wang [281].
+
+
+
+       Given that citations follow fat-tailed distributions, could there be a
+similar rise in impact disparity in science? To answer this, we looked at the
+most-cited 1 percent of papers published in Physical Reviews journals in
+every year since 1893, measuring what fraction of total citations those
+papers received in the year following publication [281]. As Fig. 16.4
+shows, impact disparity in the physical sciences has also been rising
+steadily over the past century.
+
+[p. 181] [PDF page 199]
+
+16.3        What Do Citations (Not) Capture?
+        Citations and citation-based indicators are often used to quan-
+tify the impact or the quality of a paper. These metrics play an
+important role both in science policy and in the evaluation of individ-
+ual scientists, institutions, and research fields. For example, citation
+counts are often discussed at hiring and tenure decisions, as well as in
+prize recommendations. Furthermore, many countries consider them
+in decisions pertaining to grants and other resources. Given their
+widespread use, it is easy to forget that citations are merely a proxy
+for impact or scientific quality. Indeed, there are many groundbreak-
+ing scientific discoveries that have received relatively few citations,
+even as less important papers amass hundreds. Consider some of the
+reasons why this could be:
+
+ Review papers that summarize the state of a field or a topic, tend to
+  be more frequently cited than regular articles, yet are often viewed as
+  minor contributions to science than original research [282].
+ Sometimes citations seek not to build upon what came before, but
+  rather to criticize or correct previous papers. These should be viewed
+  as “negative citations” – yet citation counts do not distinguish
+  between supporting and critical references [283].
+ Some citations may be “perfunctory,” simply acknowledging that
+  other studies have been conducted without contributing to the main
+  narrative of the discovery. Indeed, manual examinations of 30 articles
+  in Physical Review on theoretical high energy physics from 1968 to
+  1972 suggest that the fraction of such citations could be substantial
+  [284]. This means, while each citation is counted the same, they have
+  different roles in advancing science.
+
+         All of which prompts the question: Are better cited papers really
+better? To what degree do citations correctly approximate scientific
+impact, or what working scientists perceive as important? A number
+of studies have explored these questions. Overall, they find that citations
+correlate positively with other measures of scientific impact or recogni-
+tion, including awards, reputation [285], peer ratings [286–290], as
+well as the authors’ own assessments of their scientific contributions
+[282]. For example, a survey of the 400 most-cited biomedical scientists
+asked each of them a simple question [11]: Is your most highly cited
+paper also your most important one? The vast majority of this elite
+
+[p. 182] [PDF page 200]
+
+group answered yes, confirming that citation counts do constitute a
+valuable metric for a paper’s perceived significance.
+         But would other researchers in the field agree? If we picked two
+papers in the same field, showed them side-by-side to researchers who
+work in that area, and asked them to say which is more relevant to their
+research, would they reliably pick the paper with more citations?
+         Close to 2,000 authors from two large universities performed
+precisely this exercise. However, the results were not straightforward
+[291]. The scholar’s selection typically depended on whether or not he
+was asked to judge his own work. If both papers offered had been
+authored by the researcher, he systematically picked his better cited
+paper as the more relevant one. If, however, the author was asked to
+compare his paper with a paper by someone else, he overwhelmingly
+preferred his own paper – even if the other option was one of the most
+cited papers in their field, and even if the difference in impact amounts
+to several orders of magnitude.
+         These results suggest that, just as someone else’s baby – no
+matter how adorable – can never compare to your own, scientists have
+a blind spot when asked to compare their work to that of others, which
+can skew their perception of even the most pivotal work.
+         Taken together, these surveys seem to tell two conflicting stor-
+ies. On one end, scientists are not immune to biases, especially when it
+comes to their own work. But at the same time, citations could be a
+meaningful measure, since they largely align with the perceptions of
+experts. This suggests that, despite their shortcomings, citations likely
+play a critical role in gauging scientific impact.
+         But there is another, more fundamental reason why citations
+matter: There is not one scientist in the world who can single-
+handedly demand that a paper amass citations [16]. Each of us decides
+on our own whose shoulders to stand upon, citing the papers that
+inspired our work, and those which were key to developing our ideas.
+When all of those individual decisions are combined, what emerges
+is the collective wisdom of the scientific community on a paper’s
+importance. It is not enough for one scientist to decide that a paper
+is great. Others in the community must also agree, with each add-
+itional citation acting as an independent endorsement. In other words,
+scientific impact is not about what you think; it’s about what everyone
+else thinks.
+
+[p. 183] [PDF page 201]
+
+Box 16.4 Patent citations
+Citations can also help quantify the importance of inventions. When a
+patent is issued by the patent office, it includes citations to prior patents, as
+well as to the academic literature. Patent citations can be added by invent-
+ors, their attorneys or by patent examiners. Just like in science, patents
+with the most citations tend to describe important inventions [292, 293].
+But patent citations go a step further, conveying not just an invention’s
+importance, but also its economic impact. For example, studies have found
+that more highly cited medical diagnostic imaging patents produce
+machines that attract more demand [294] and that companies with highly
+cited patents have higher stock market values [295]. More importantly,
+the link between the commercial value of a patent and its citations is
+positive and highly nonlinear. One survey polled patent owners 20 years
+after their invention, asking them how much they should have asked for
+their patent knowing what they know today. The responses revealed a
+dramatic, exponential relationship between the economic value of a patent
+and its citations [296]: A patent with 14 citations, for example, had
+100 times the value of a patent with 8 citations.

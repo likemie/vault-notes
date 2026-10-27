@@ -1,0 +1,549 @@
+The Science of Science
+Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
+ISBN 9781108492669 | DOI 10.1017/9781108610834
+
+Part II: The Science of Collaboration
+Chapter 13: Scientific Credit
+Print pages 134–146; one-based PDF pages 152–164
+
+[English original. Page markers identify print and PDF pages. References remain numbered as in the book. Shared supplementary materials are labelled separately. Download footers and recognized running heads are removed; original text, formulas and line breaks are otherwise retained. Verify exact mathematical notation, diagrams and table layout against the PDF.]
+
+
+========================================================================
+Chapter text
+========================================================================
+
+[p. 134] [PDF page 152]
+
+13                                    SCIENTIFIC CREDIT
+
+
+         At the Nobel Prize banquet in December 2008, Douglas
+Prasher, dressed in a white tie and tails, sat with his wife, Gina, beneath
+glittering chandeliers suspended from the Blue Hall’s seven-story ceiling.
+Prasher was in Stockholm to celebrate the impact his work has had on
+the world: Green fluorescent protein (GFP), the luminous protein that
+Prasher had cloned for the first time in 1992, had become “a guiding
+star for biochemistry,” according to the Nobel Foundation, allowing
+scientists to glimpse the inner workings of cells and organs in unpreced-
+ented detail.
+         However, Prasher was attending the banquet as a guest, not a
+prizewinner. Among the honorees that night, the celebrated winners of
+the 2008 Nobel Prize in Chemistry, were Martin Chalfie and Roger
+Tsien, two researchers to whom Prasher had mailed his cloned GFP
+gene in a moment of career-crushing despondency just when he
+decided to leave science. On the morning of October 8, 2008, when
+Prasher heard on his kitchen radio the news that GFP-related research
+had won the Nobel Prize, he was just getting ready to go to work – not
+in a lab or university, but as a courtesy van driver at a Toyota
+dealership in Huntsville, Alabama. Prasher’s trip to Sweden, paid for
+by the newly minted prizewinners, was the first vacation he had taken
+in years. The tuxedo he wore was rented for the night, and it paired
+well with the dressy shoes that a Huntsville store had let him borrow.
+He watched the ceremony from the audience because his decision to
+leave science decades ago also dropped him off the Nobel
+committee’s map.
+
+[p. 135] [PDF page 153]
+
+In this and the next chapters, we are going to focus on a question
+of growing importance today: How is scientific credit allocated? Indeed,
+for the solo-authored work that dominated previous eras, there was no
+ambiguity as to where the credit should go. But since modern discoveries
+are increasingly made by teams, involving anywhere between two and a
+thousand authors, who should we attribute the credit to? Or perhaps the
+more pragmatic question isn’t who should get the credit, but who will get
+the credit? In this chapter, we will examine the first question; in the next
+chapter, we will address the second.
+         For many, discussions about credit are unnerving, even taboo.
+Indeed, we do science for the sake of science, not to revel in the glory of
+recognition. But, whether we like it or not, credit is allocated unevenly,
+so it is important to understand how this process works, if not for
+ourselves, then for our students and collaborators. Especially now that
+we have learned so much about team science, we wouldn’t want the
+issue of credit to stand in the way of very valuable collaborations. While
+none of us want to claim credit that doesn’t belong to us, we also don’t
+want to find ourselves in Douglas Prasher’s borrowed shoes at the
+Nobel Prize banquet, clapping along in stunned disbelief while someone
+else accepts the trophy for his work.
+
+
+13.1        Who Did What in a Paper?
+         Compared with other professions, science is notorious for its
+emphasis on celebrating individuals rather than teams, particularly
+when it comes to rewards and recognition [105]. Indeed, iconic achieve-
+ments are often known by the discovering scientist’s name: Euclidean
+geometry, Newton’s laws of motion, Mendelian inheritance, and the
+Heisenberg uncertainty principle, to name a few. Similarly, the science
+prizes that bestow significant financial reward and notoriety – from the
+Nobel Prizes, to the Fields Medal, to the A. M. Turing Award – tend to
+exclusively value individual contributions.
+         While the mode of production in science has been shifting
+toward teams, important decisions in science are still based almost
+entirely on individual achievement. Indeed, appointment, promotion,
+and tenure processes in academia center on individual evaluations,
+despite the fact that most careers are now built through teamwork.
+We scientists therefore often need to distinguish our contributions from
+our collaborators’, whether applying for a grant, being considered for
+
+[p. 136] [PDF page 154]
+
+Figure 13.1 Who gets the Nobel? (a) The last author, David J. Wineland was
+awarded the 2012 Nobel Prize in Physics for his contribution to quantum
+computing. (b) Steven Chu, the first author, won the 1997 Nobel in Physics for the
+paper focusing on the cooling and trapping of atoms with laser light. (c) In 2007,
+Albert Fert, the middle author of the paper, received the Nobel Prize in Physics for
+the discovery of the giant magnetoresistance effect (GMR). All three examples are
+prizewinning papers published in the same journal, Physical Review Letters,
+demonstrating the ambiguity of allocating credit by simply reading the byline of
+a paper.
+
+
+an award, seeking an academic appointment, or requesting a promo-
+tion. So how do tenure committees and award-granting institutions
+attempt to discern which individuals deserve credit for collaborative
+research?
+         The difficulty with allocating credit for collaborative work is
+rooted in a deep information asymmetry: We cannot easily discern the
+significance of individual contributions by reading the byline of a paper.
+For example, Fig. 13.1 shows three Nobel prizewinning papers with
+multiple authors, each published in the same journal, Physical Review
+Letters (PRL). Only one author from each paper was awarded the
+Nobel Prize. So, who were the lucky prizewinners? As the figure shows,
+there is no simple answer: the Nobelist is sometimes the first author,
+sometimes the last, or can be somewhere in between.
+         To be clear, this issue isn’t just about recognition, or giving
+credit where credit is due; it’s also about responsibility – because with
+
+[p. 137] [PDF page 155]
+
+greater contribution comes greater responsibility. Who is responsible
+for which part of the project? Lacking consistent guidelines for classify-
+ing individual contributions to a paper, we rely on our own assump-
+tions, traditions, and heuristics to infer responsibility and credit. The
+most commonly used method is by inspecting the order of authors on a
+paper [51, 210]. In general, there are two norms for sorting authors,
+alphabetical and non-alphabetical. Let’s start with the more prevalent
+one: non-alphabetical ordering.
+
+
+13.2        The First or the Last
+         In many areas of science, especially the natural sciences, authors
+order themselves on a byline based on their contributions within the
+team. In biology, the individual performing the lion’s share of the work
+is the lead author, followed sequentially by those making progressively
+lesser contributions. Therefore, we expect that the second author had
+less substantial contributions than the first, but more than the third
+author, and so on. The critical exception is the last author, who often
+gets as much credit, if not more, than the first author. Listing the
+principal investigator last has become an accepted standard in natural
+sciences and engineering. The last author, also called the corresponding
+author, is assumed to be the intellectual, financial, and organizational
+driving force behind the research. Hence evaluation committees and
+funding bodies often take last authorship as a sign of intellectual lead-
+ership and use this as a criterion in hiring, granting, and promotion.
+         But does the order of authorship indeed reflect what it pur-
+ports to represent? We now have quantitative answers to this question,
+thanks to specific author contribution sections included in publica-
+tions across multiple disciplines [211–213]. Nature, for example,
+started to include explicit lists of author contributions in 1999 [214],
+a practice now adopted by many other journals. While the exact
+classification scheme differs from journal to journal, authors are gen-
+erally asked to self-report their contributions in six categories: (1)
+analyzed data, (2) collected data, (3) conceived experiments, (4) per-
+formed experiments, (5) wrote the paper, and (6) revised the paper.
+Analyzing these self-reports allows us to relate the duties performed on
+any given project to author order. Indeed, by analyzing about 80,000
+articles published between 2006 and 2014 in the multidisciplinary
+journal PLOS ONE, researchers confirmed that first and last authors
+
+[p. 138] [PDF page 156]
+
+(a)
+                               8000                                                            1st author
+                               7000                                                            2nd author
+                                                                                               last author
+                               6000
+
+                               5000
+
+ Counts                        4000
+
+                               3000
+
+                               2000
+
+                               1000
+
+                                     0
+                                     Performed the Analyzed   Collected  Wrote Conceived the
+                                      experiments the data    the data the paper experiments
+
+
+    (b)
+                                                                                               1st author
+                               0.6
+                                                                                               2nd author
+
+
+
+
+ Average author contribution
+                               0.5                                                             3rd author
+                                                                                               4th author
+                               0.4                                                             5th author
+                                                                                               6th author
+                               0.3
+                                                                                               7th author
+                               0.2                                                             8th author
+                                                                                               9th author
+                               0.1                                                             10th author
+                                                                                               last author
+                                         2   3     4      5    6     7     8   9    10
+                                                       Number of authors
+ Figure 13.2 Author contributions in a paper. (a) Authors of different ranks
+make different contributions to the paper. (b) Average number of distinct
+contributions by an author as a function of its ranking, confirming that typically the
+first and last authors contributed most to the paper. After Corrêa et al. [211].
+
+
+
+
+are indeed the two most important on a paper: The first author is
+typically involved in almost all aspects of the reported research, from
+running the experiment to writing the paper, and the last author
+assumes a supervisory role for the project, mainly designing and
+conceiving the research and writing the paper (Fig. 13.2a). Regardless
+of how many authors are on the paper, the first author always makes
+
+[p. 139] [PDF page 157]
+
+the largest number of contributions, and the last author usually con-
+tributes the second most (Fig. 13.2b). Interestingly, however, only the
+first and the last authors stand out – followed by the second author but
+with almost no detectable difference in contributions for all other
+authors on the paper. The contributions by the third and fourth
+author, for instance, are typically indistinguishable (Fig. 13.2b).
+          These results suggest that author positions in the byline can be
+an effective way to infer each team member’s true contributions. But,
+there are caveats. First, the way that journals collect this information is
+not exact. Since there is no clear definition of each contribution, just
+general criteria, authors may have their own interpretations about what
+“analyzed data” or “conceived experiments” means. And it seems that,
+at times, coauthors do not necessarily agree amongst themselves about
+who contributed what. For example, in a study of all manuscripts
+submitted to the Croatian Medical Journal, researchers compared which
+contributions the corresponding author credited to their coauthors
+versus which contributions those authors claimed for themselves. They
+found that more than two-thirds (69.4%) of 919 corresponding authors
+disagreed with their coauthors regarding contributions [215]; specific-
+ally, coauthors listed more contribution categories on their own forms
+than the corresponding authors chose for them.
+          Second, the practice of listing authors based on their contribu-
+tions is not always exercised [51]. Sociology and psychology, for
+example, do not follow the tradition of putting the most senior author
+last. In these disciplines, being the last author really is the least desirable
+position. Moreover, it is not uncommon for a mentor to be in the first-
+author slot for the crucial guidance, intellectual contributions, and
+financial leadership of the project, even if the trainee may have done
+all the heavy lifting.
+          The uneven acceptance of senior authorship often leads to
+ambiguities when evaluating a scientist, especially when it comes to
+cross-disciplinary hires. A psychology professor may ask why a pro-
+spective applicant from another discipline doesn’t have any recent first-
+author publications, since in psychology, the absence of first-authorship
+is something to be frowned upon, even for an established scientist. But
+since listing senior authors last is the norm in other fields, like biology
+and physics, a biologist or physicist may see too many first-author
+papers as a red flag, calling into question the candidate’s collaboration
+style and mentorship abilities.
+
+[p. 140] [PDF page 158]
+
+The different preferences on author ordering also sometimes lead
+to conflicts. For example, a 2017 paper published in Genes, Brain, and
+Behavior [216] was retracted a few months after its publication, but not
+for academic misconduct or error, but due to a dispute over the order of
+the authors, prompting the journal to release an unusual statement:
+
+            The retraction has been agreed as all authors cannot agree on a
+            revised author order, and at least one author continues to
+            dispute the original order.
+
+
+    Box 13.1 Joint first authorship
+    The percentage of publications in which two or more coauthors claim joint
+    first authorship has dramatically increased in the past 30 years. Such “co-
+    first authorship,” as it’s called, is particularly prominent in biomedical and
+    clinical journals. Many journals went from having no such papers in
+    1990 to having co-first authorship in more than 30 percent of all research
+    publications in 2012 [217].The increase has been most dramatic in high-
+    impact journals: In 2012, 36.9 percent of Cell papers, 32.9 percent of
+    Nature papers, and 24.9 percent of Science papers had co-first authors.
+            There are many reasons for the increasing prevalence of joint first
+    authorships. First, publishing in a competitive journal requires extensive
+    effort by more than one lead investigator. Hence this trend is likely to
+    continue, especially as research grows increasingly complex and as teams
+    are increasingly needed to tackle important scientific and clinical chal-
+    lenges. Also, in interdisciplinary work, a project often requires the joint,
+    focused contribution of two or more lead authors with complementary
+    expertise; no one individual has all of the knowledge needed to usher a
+    project through independently.
+            Yet, co-first authorships also introduce new credit allocation prob-
+    lems. Indeed, although co-first authorship is clearly indicated by asterisks
+    or superscripts in the original paper, when a citation is encountered on a
+    reference list, there is no way of knowing whether it was a co-first author
+    situation or not. Worse still, for long author lists, citations adopt the
+    “et al.” style, which lists the first author’s last name only. At the time of
+    this writing, we are only just beginning to develop new conventions
+    around joint authorships: Journals like Gastroenterology [218, 219] and
+    Molecular Biology of the Cell [220], for instance, now require authors to
+    use bold lettering in citations referring to joint first authorships, so that
+    every deserving author receives equal recognition every time their work
+    is cited.
+
+[p. 141] [PDF page 159]
+
+13.3        From A to Z
+         While biology or medicine place special emphasis on first and last
+authors, disciplines like mathematics and experimental particle physics
+are known for their stubbornly alphabetical approach to author lists. Yet
+when researchers estimated alphabetical authorship across all fields of
+science, they found that the overall use of the practice is on the decline
+[221]. In 2011, less than 4 percent of all papers chose to list their authors
+alphabetically. Admittedly, 4 percent is a small number, but that does not
+mean that alphabetical authorship is likely to disappear entirely. The
+decline simply reflects the fact that non-alphabetical disciplines, like
+biology and medicine, are expanding more rapidly than fields like math-
+ematics. Indeed, the alphabetic convention remains highly concentrated
+in a handful of scientific subjects, within which its use has remained rather
+stable. Alphabetic listing of authorship is most common in mathematics,
+accounting for 73.3 percent of papers (Table 13.1). Finance comes in
+second with 68.3 percent, followed by economics and particle physics.
+         Why don’t these fields embrace a more informative non-
+alphabetical convention? A statement from the American Mathematical
+Society (AMS) offers a hint [166]:
+            In most areas of mathematics, joint research is a sharing of ideas
+            and skills that cannot be attributed to the individuals separ-
+            ately. Researchers’ roles are seldom differentiated (as they are in
+            laboratory sciences, for example). Determining which person
+            contributed which ideas is often meaningless because the ideas
+            grow from complex discussions among all partners.
+
+Additionally, in fields that obey alphabetical ordering, the definition of
+authorship is substantially different from those that don’t. In non-
+alphabetical disciplines, since the placement of names within the author
+list clearly suggests the role they played in the project, individuals who
+made a marginal contribution to the work can be added to the author list
+in a way that does not devalue the core authors’ hard work. But since
+everyone on an alphabetical list is considered equal, adding an undeserv-
+ing person is far more costly, and hence warrants more delicate consider-
+ations. For example, in alphabetical fields like economics, merely
+contributing data to a project doesn’t warrant authorship, while in
+biology or medicine, which are non-alphabetical disciplines, it frequently
+does. Consequently, the acknowledgments section on a mathematics
+paper often contain acknowledgements for significant “author-worthy”
+
+[p. 142] [PDF page 160]
+
+Table 13.1 The prevalence of alphabetical ordering of authors. The table
+shows the fraction of “alphabetical” papers in a given subject, listing a
+selection of subjects that have a low, mid, or high fraction of intentionally
+alphabetical papers. Intentionally alphabetical ordering is estimated by
+comparing the observed number of alphabetical papers with the expected
+number of coincidental alphabetical cases. After Waltman [221].
+
+Subject category                                                            Alphabetical percentage
+
+Biochemistry & Molecular Biology                                               0.1%
+
+Biology                                                                        0.2%
+
+Medicine, General & Internal                                                   0.2%
+
+Materials Science, Multidisciplinary                                           0.6%
+
+Neurosciences                                                                  0.8%
+
+Chemistry, Multidisciplinary                                                   0.9%
+
+Chemistry, Physical                                                            0.9%
+
+Physics, Applied                                                               1.3%
+
+Engineering, Electrical & Electronic                                           3.6%
+
+History                                                                      30.7%
+
+Physics, Mathematical                                                        32.1%
+
+Statistics & Probability                                                     33.8%
+
+Mathematics, Applied                                                         44.7%
+
+Economics                                                                    57.4%
+
+Physics, Particles & Fields                                                  57.4%
+
+Mathematics                                                                  72.8%
+
+
+
+contributions, like providing the foundational idea for the project or
+correct proofs of key technical results needed by the authors. It is not
+uncommon for mathematicians to offer their colleagues authorship, only
+to be politely declined. So colleagues whose contributions were essential
+to the success of a paper end up merely acknowledged.
+         There are several benefits to the alphabetical ordering. For
+starters, it’s convenient, allowing authors to avoid the awkward debate
+about whose name goes first or second. Furthermore, with the bar for
+authorship held high, alphabetization decreases the frequency of
+“guest” authors. (See Box 2.6.1.)
+
+[p. 143] [PDF page 161]
+
+Box 13.2 Ghosts and guests
+The trend of growing author lists has a troubling side effect: the rise of “guest
+authors,” those who made only very minimal contributions to the research.
+A recent survey of 2,300 lead authors found that a shocking 33 percent of
+scholarly papers in the biological, physical or social sciences had at least one
+author whose contribution did not meet accepted definitions for coauthor-
+ship [166, 222]. The incidence of “undeserved” coauthors increases from
+9 percent on papers with three authors to 30 percent on papers with more
+than six authors [213], with the most commonly cited reason for accepting
+undeserved authorship being academic promotion [141].
+       A far more serious concern are “ghost authors,” individuals who
+made substantive contributions to a publication but who were not
+acknowledged as authors [223]. Take, for example, Robert Boyle, the
+most acclaimed chemist in seventeenth-century London. His laboratory
+was populated with assistants who tended distillations, amalgamations,
+and rectifications, made observations, and recorded them for Boyle’s use
+[224]. Yet we know absolutely nothing about these researchers or their
+contributions to the research – not even their names – since Boyle pub-
+lished all their findings and contributions as his own (Fig. 13.3).
+       Unfortunately, this phenomenon has not abated in the centuries
+since. A recent estimate indicates that more than half of the papers in
+many disciplines have at least one ghost author [222]. The primary victims
+are often graduate students, whose relegation to ghost author status can
+hurt their chances of career advancement.
+
+
+
+
+  Figure 13.3 Invisible technicians. Artistic convention helped ensure the
+lowly technician’s invisibility in the seventeenth century by depicting the
+agents operating scientific instruments as putti, or cherubs, rather than human
+beings. From Gaspar Schott, Mechanica hydraulico-pneumatica [225]. After
+Shapin [224].
+
+[p. 144] [PDF page 162]
+
+Yet, alphabetical ranking also leaves out important informa-
+tion. Even if all authors have contributed equally, there is plenty of
+room, without explicit attribution, for the community to make (often
+inaccurate) inferences about who a paper’s rightful “owner” is. As we
+will see next, this can have some serious consequences.
+
+
+13.4        The Collaboration Penalty for Women
+         Economics, like many other disciplines, remains a stubbornly
+male-dominated profession. While women are disproportionately more
+likely to abandon the field at every stage, from high school to post-PhD
+[226–228], one especially leaky segment of the academic pipeline has
+puzzled economists for decades: Female economists are twice as likely to
+be denied tenure as their male colleagues [229, 230]. If we look at all
+faculty members in economics departments at the top 30 American
+universities, about 30 percent of them failed to win tenure at their first
+institution [230]. Yet, broken down by gender, a giant disparity
+emerges: forty-eight percent of women – nearly half of all female appli-
+cants! – were turned down for tenure, compared to just 23 percent of
+male applicants.
+         Why does such a chasm exist? Could it be rooted in different
+productivity patterns? The answer is no. If we measure the number of
+publications for both men and women economists before receiving
+tenure, and account for the prestige of the journals in which these
+papers were published, we find that the two groups are statistically
+indistinguishable [230]. Over the years researchers have investigated
+other plausible explanations, including heterogeneous tenure-granting
+rates across universities, which subfields of economics women work in,
+behavioral differences such as competitiveness and confidence [231],
+and the role of child-bearing. But it turns out, none of these factors can
+quite explain the gender gap in tenure outcomes [229].1 As such, a
+significant portion (over 30%) of the gender promotion gap has
+remained a puzzling mystery [229, 230].
+         But recent research has found that the explanation for the
+gender gap in tenure rates may be quite simple [230]: Women
+
+1
+    To be sure, many of these variables do play a role. For example, the family commitment of
+    female faculty is a significant factor, but it mostly explains why women take a year longer on
+    average to be considered for tenure, and appears to have no impact on tenure outcome.
+
+[p. 145] [PDF page 163]
+
+1.0
+
+                     0.8
+
+                     0.6
+            Tenure
+                     0.4
+                                                             Male
+                     0.2
+                                                             Female
+                     0.0
+                           0.0       0.2      0.4      0.6      0.8
+                           Fraction of papers that are solo-authored
+
+              Figure 13.4 Team composition of papers and tenure rate. Correlation
+            between tenure rate and the fraction of an individual’s papers that are
+            solo-authored, split by gender. Both variables are plotted after controlling
+            for the number of years it took to go up for tenure, average journal rank
+            for solo and coauthored publications, total citations, with tenure school,
+            year, and field fixed effects. The line of best fit is shown separately for men
+            and women (N = 552), which shows the slope equals to 0.41 for women
+            and 0.05 for men. After Sarsons [230].
+
+
+
+economists face an enormous penalty for collaborating (Fig. 13.4). That
+is, if we sort economists based on their tendency to collaborate – as
+measured by the fraction of solo-authored papers in an economist’s
+career – female economists who always work alone have exactly the
+same success rate for receiving tenure as their male counterparts.
+Indeed, for both male and female economists, each solo-authored paper
+raises the probability of getting tenure by about 8 or 9 percent. Yet, as
+soon as their CVs start to include team-authored papers, the two
+genders part ways.
+         Men get just as much credit for collaborative research as for
+solo work, meaning that the career prospects of solitary economists and
+team players are effectively the same for men. However, when women
+write with female coauthors, the benefit to their career prospects is less
+than half that accorded to men. Things get especially dismal when
+women write with men. When a female economist collaborates with
+one or more male economists, her tenure prospects don’t improve at all.
+In other words, when it comes to tenure, women get essentially zero
+credit if they collaborate with men. The effect is so dramatic that this
+single variable – the fraction of solo-authored papers – can explain most
+of gender differences in tenure outcomes.
+         Could this collaboration-based gender penalty be due to a lack of
+clear credit allocation protocols in economics? Sociologists, for example,
+
+[p. 146] [PDF page 164]
+
+collaborate almost as often, but they explicitly describe who deserves the
+most credit in a collaboration by listing that person as the first author.
+Perhaps as a result, tenure rates in sociology are comparable for men and
+women, even though men tend to produce more solo-authored papers
+than women. Hence, it appears that by listing authors in order of their
+contributions, it may help scientists eliminate the impulse to make infer-
+ences and assumptions based on bias. By contrast, most economics
+papers list authors alphabetically, a process that allows gender-based
+judgments, however unconscious, to have a devastating power.
+                                      *
+In this chapter we compared science authorship protocols and their
+implications for scientific credit. However, the discussion so far only
+explores how credit should have been allocated in principle. But as the
+tenure gap for female economists illustrates, there are major issues with
+how scientific credit is allocated in practice. This is the focus of the next
+chapter.

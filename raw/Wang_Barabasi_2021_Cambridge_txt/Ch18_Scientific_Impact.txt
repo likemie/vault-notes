@@ -1,0 +1,331 @@
+The Science of Science
+Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
+ISBN 9781108492669 | DOI 10.1017/9781108610834
+
+Part III: The Science of Impact
+Chapter 18: Scientific Impact
+Print pages 189–196; one-based PDF pages 207–214
+
+[English original. Page markers identify print and PDF pages. References remain numbered as in the book. Shared supplementary materials are labelled separately. Download footers and recognized running heads are removed; original text, formulas and line breaks are otherwise retained. Verify exact mathematical notation, diagrams and table layout against the PDF.]
+
+
+========================================================================
+Chapter text
+========================================================================
+
+[p. 189] [PDF page 207]
+
+18                                    SCIENTIFIC IMPACT
+
+
+         If we assume that citations approximate a paper’s scientific
+impact, then the fat-tailed shape of the impact distribution implies that
+most papers have, unfortunately, almost no impact at all; indeed, only a
+very small fraction of the literature affects the development of a field. As
+the preceding chapter showed, high fitness is crucial for certain ideas to
+make a large impact. But what predicts high fitness? And how can we
+amplify the scientific impact of our work? In this chapter, we will focus
+on the role of two different factors – one is internal to a paper and the
+other is external – novelty and publicity.
+
+
+18.1        The Link between Novelty and Scientific Impact
+        While many qualities can affect the ‘fitness’ of a paper, one, in
+particular, has attracted much attention: novelty. What exactly is nov-
+elty, and how do we measure it in science? And does novelty help or
+hurt a paper’s impact?
+
+
+18.1.1      Measuring Novelty
+         As discussed in Chapter 3.1, new ideas typically synthesize
+existing knowledge. For example, inventions bring together pre-existing
+ideas or processes to create something original (Fig. 18.1) [309]. The
+steamboat is a combination of a sailing ship and a steam engine, and the
+Benz Patent-Motorwagen, the first automobile in the world, combined a
+bicycle, a carriage, and an internal combustion engine. Even the
+
+[p. 190] [PDF page 208]
+
+Figure 18.1 New ideas are often an original combination of existing
+            ones. The Benz Patent-Motorwagen (“patent motorcar”), built in 1885, is
+            regarded as the world’s first production automobile. The vehicle was
+            awarded the German patent number 37435, for which Karl Benz applied
+            on January 29, 1886. The Motorwagen represents a combination of three
+            pre-existing ideas: bicycle, carriage, and internal combustion engine.
+
+
+smartphone in your pocket is simply a combination of many pre-
+existing parts and features: memory, digital music, a cell phone, Internet
+access, and a lightweight battery.
+         The theory that existing technologies are recombined to gener-
+ate new inventions is confirmed by the analysis of US patents [310].
+Each patent is classified by the US patent office (USPTO) using a unified
+scheme of technology codes (a class and a subclass). For example, one of
+the original patents for iPod, assigned to Apple Computer, Inc with
+Steve Jobs listed as one of the inventors [US20030095096A1], has a
+class-subclass pair 345/156, denoting class 345 (Computer Graphics
+Processing and Selective Visual Display Systems) and subclass 156
+(Display Peripheral Interface Input Device). Examining all US patents
+dating from 1790 to 2010, researchers found that, during the nineteenth
+century, nearly half of all patents issued in the US were for single-code
+inventions – those that utilize a single technology, rather than combin-
+ing multiple technology areas. Today, by contrast, 90 percent of inven-
+tions combine at least two codes, showing that invention is increasingly
+a combinatorial process.
+         This combinatorial view of innovation offers a way to quantify
+novelty in science. Indeed, scientific papers draw their references from
+
+[p. 191] [PDF page 209]
+
+multiple journals, signaling the domains from which they sourced their
+ideas [92, 311, 312]. Some of these combinations are anticipated,
+whereas others are novel, deviating from conventional wisdom.
+         If a paper cites a pair of journals that are rarely brought
+together, it may suggest that the paper introduces a novel combination
+of prior work. Take for instance a 2001 paper in the Journal of Bio-
+logical Chemistry, which pinpointed the protein with which a known
+antipsychotic drug interacts and used this insight to identify other
+biological effects [313]. Its reference list is the first ever to cite both
+the journal Gene Expression and the Journal of Clinical Psychiatry
+[314], representing a novel combination of prior knowledge. On the
+other hand, other journals cited in the same paper, like the Journal of
+Biological Chemistry and Biochemical Journal, are frequently cocited in
+the literature, an example of the conventional pairings that reflect more
+mainstream thinking in the field.
+
+
+18.1.2      The Novelty Paradox
+         Evidence from a broad array of investigations consistently
+shows that rare combinations in scientific publications or patented
+inventions are associated with a higher likelihood that the publication
+or invention will achieve high impact. In other words, with novelty
+comes an increased chance of hitting a home run. This finding also
+validates the key premise of interdisciplinary research [315–317] – that
+many fruitful discoveries come from the cross-pollination of different
+fields and ways of thinking, combining previously disconnected ideas
+and resources [5, 317, 318].
+         Yet, while novel ideas often to lead to high-impact work, they
+also lead to higher degrees of uncertainty [311, 319, 320]. In fact, very
+novel ideas and combinations can just as well lead to failure as to a
+breakthrough. For example, an analysis of more than 17,000 patents
+found that the greater the divergence between the collaborators’ fields of
+expertise, the higher the variance of the outcomes; highly divergent
+patents were more likely than average both to be a breakthrough, and
+to be a failure (Fig. 18.2) [320].
+         Similarly, papers that cite more novel combinations of journals
+are more likely to be in the top 1 percent of cited papers in their field.
+Yet at the same time, they are also riskier, tending to take a longer time
+before they begin accumulating more citations [311]. The higher risk
+
+[p. 192] [PDF page 210]
+
+Value of innovation
+
+
+                  Breakthroughs
+
+
+
+
+                                                         Average
+
+
+
+                  Failures
+
+
+
+
+               Single discipline                               Multidiscipline
+              Figure 18.2 Multidisciplinary collaborations in patenting. As
+            collaborations among inventors become more multidisciplinary, the
+            overall quality of their patents decreases. But multidisciplinary
+            collaboration increases the variance of the outcome, meaning that both
+            failures and breakthroughs are more likely. After Fleming [320].
+
+
+inherent in innovation may play a major role in determining what kind
+of innovation takes place (or doesn’t) in academia. For instance, in the
+field of biochemistry, studying chemical relationships between unex-
+plored compound pairs is much more novel than focusing on well-
+studied chemicals, and such strategies are indeed more likely to achieve
+high impact. But the risk of failure of exploring such previously unex-
+plored combinations is so high that, as an analysis estimated, the
+additional reward may not justify the risk [319].
+         The high variance in the impact of novel ideas may be rooted in
+the human bias against novelty. Studies of grant applications show that
+scientists tend to be biased against novel concepts before the work is
+realized. At a leading US medical school, researchers randomly assigned
+142 world-class scientists to review 15 grant proposals. In parallel, the
+researchers measured the occurrences of rare combinations of keywords
+in each proposal [321]. For example, proposals combining the terms
+“Type 1 diabetes” and “Insulin” were typical, whereas proposals with
+“Type 1 diabetes” and “Zebrafish” presented a novel combination
+rarely seen in the literature. But would the more novel proposals be
+graded more or less favorably? The researchers found that proposals
+that scored high on novelty received systematically lower ratings than
+
+[p. 193] [PDF page 211]
+
+their less novel counterparts. Even nominally “interdisciplinary” grants
+are not immune to similar biases [322]. Analyzing all 18,476 proposals
+submitted to an Australian funding program, including both successful
+and unsuccessful applications, researchers measured how many differ-
+ent fields were represented in each proposal, which is weighted by how
+distant those fields were. The results indicated that the more interdiscip-
+linary the proposed work, the lower the likelihood of being funded.
+         And, so we are left with a paradox. It is clear that novelty is
+essential in science – novel ideas are those that score big. Yet the novelty
+bias observed in grant applications suggests that an innovative scientist
+may have trouble getting the funding necessary to test these ideas at the
+first place. And, even if she does, novel ideas are more likely to fail than
+mediocre ones.
+         Is there anything we can do to ameliorate this paradox?
+Recent studies have offered one crucial insight: balance novelty with
+conventionality. Consider that Darwin devoted the first part of On the
+Origin of Species to highly conventional, well-accepted knowledge
+about the selective breeding of dogs, cattle, and birds. In doing so,
+he exhibited an essential feature of many high-fitness ideas that do
+achieve great impact: They tend to be grounded in conventional com-
+binations of prior work, while also merging hitherto un-combined,
+atypical knowledge. Analyzing 17.9 million papers spanning all scien-
+tific fields, researchers found that papers that introduced novel com-
+binations, yet remained embedded in conventional work, were at least
+twice as likely to be hits than the average paper [92]. These results
+show that novelty can become especially influential when paired with
+familiar, conventional thought [92, 323].
+
+
+18.2        Publicity (Good or Bad) Amplifies Citations
+         Does media coverage amplify scientific impact? Are we more
+likely to cite papers that have been publicized in the popular press? To
+answer these questions, let’s turn to a major news outlet: The New York
+Times.
+         Since papers about human health are often of general interest,
+researchers in one study looked at whether articles published by The
+New England Journal of Medicine (NEJM) were covered by the Times.
+They compared the number of citations NEJM articles received when
+they had been written up in the Times, versus when they were not
+
+[p. 194] [PDF page 212]
+
+written up in the Times. [324]. They found that overall, articles covered
+by the Times received 72.8 percent more citations in the first year than
+the non-covered group.
+         But can we attribute this dramatic impact difference to the
+publicity that the Times offers? Or could it be that the Times simply
+covered outstanding papers, which would have gathered just as many
+citations without their coverage? A natural experiment allowed the
+researchers to find a more definitive answer: The Times staff under-
+went a 12-week strike from August 10 to November 5, 1978. During
+this period, it continued to print a reduced “edition of record” but
+did not sell copies to the public. In other words, it continued to
+earmark articles it deemed worthy of coverage during the strike,
+but this information never reached its readership. During this period,
+researchers found, the citation advantage disappeared entirely – the
+articles that the Times selected for coverage did no better than those
+it didn’t in terms of citations. Therefore, the citation advantage of
+attention-grabbing papers cannot be explained solely by their higher
+quality, novelty, or even mass appeal – it is also the result of media
+coverage itself.
+         It is not hard to see why publicity helps boost citations. Media
+coverage increases the reach of the audience, potentially allowing a
+wider group of researchers to learn about the findings. It may also act
+as a stamp of approval, bolstering the credibility of the paper in the eye
+of the scientific community. But perhaps the most basic reason is that
+media publicity is, more often than not, good publicity. Indeed, a TV
+station or newspaper does not pretend to be a check or balance on
+science. When media chooses to spend its limited air time or ink on a
+scientific study, it usually presents findings that are deemed genuine,
+interesting, and important – after all, if they weren’t all of these things,
+then why bother wasting the audience’s time?
+         Media offers only good publicity for science, which may have
+important consequences for the public perception of science (see
+Box 18.1). But, the checks and balances used to ensure that scientific
+work is accurate and honest are maintained by scientists. Scientific
+critiques and rebuttals can come in many forms: some only offer an
+alternative interpretation of the original results, and others may refute
+only a part of a study. In most cases, however, rebuttals aim to
+highlight substantial flaws in published papers, acting as the first line
+of defense after scientific research has passed through the peer review
+
+[p. 195] [PDF page 213]
+
+Box 18.1 Media bias and science
+The important role the media plays in disseminating science raises a critical
+question: Does the press offer balanced coverage? Research on media
+coverage of medical studies found that journalists prefer to cover only
+initial findings, many of which are refuted by subsequent studies and meta-
+analyses. But journalists often fail to inform the public when the studies
+they covered are disproven [325, 326]. When a team of researchers exam-
+ined 5,029 articles about risk factors for diseases and how those articles
+were covered in the media [326], they found that studies reporting positive
+associations about disease risk and protection (e.g., studies suggesting that
+a certain food may cause cancer, or that a certain behavior may help stave
+off heart disease) tend to be widely covered. In contrast, studies finding no
+significant association received basically zero media interest. Moreover,
+when follow-up analyses fail to replicate widely reported positive associ-
+ations, these follow-up results are rarely mentioned in the media. This is
+troubling since the researchers found that, of the 156 studies reported by
+newspapers that initially described positive associations, only 48.7 percent
+were supported by subsequent studies.
+        This hints at the main tension between the media and the sciences:
+While the media tends to cover the latest advances, in science, it’s the
+complete body of scientific work that matters. A single study can almost
+never definitively prove or disprove an effect, nor confirm or discredit an
+explanation [327, 328]. Indeed, the more novel a paper’s initial findings,
+the more vulnerable they are to refutation [8].
+        The media’s tendency to report simple, preliminary results can have
+severe consequences, as the media coverage of vaccinations reveals. Pres-
+ently, many parents in the United States refuse to vaccinate their children
+against measles, mumps, and rubella (MMR), fearing that the vaccine
+could cause autism. Why do they believe that? This fear is rooted in a
+1998 paper published by Andrew Wakefield in The Lancet, which received
+worldwide media coverage [329]. However, the original study was based
+on only 12 children, and follow-up studies unanimously failed to confirm
+the link. Furthermore, researchers later found that Wakefield had distorted
+his data, hence the paper was retracted. He subsequently lost his license
+and was barred from practicing medicine (see https://en.wikipedia.org/
+wiki/Andrew_Wakefield). Yet, although Wakefield’s findings have been
+widely refuted and discredited in the scientific community, the media’s
+coverage of Wakefield’s claim led to a decline in vaccination rates in the
+United States, the United Kingdom, and Ireland.
+
+[p. 196] [PDF page 214]
+
+system. Here, it seems, we finally have a form of bad publicity. But do
+these critiques and rebuttals diminish a paper’s impact? And, if so,
+how much?
+         Comments, which tend to question the validity of a paper, are
+often seen as “negative citations,” ostensibly making the original paper
+less trustworthy in the eye of the scientific community. Hence, one
+would expect commented papers to have less impact. Yet studies have
+revealed the opposite: Commented papers are not only cited more than
+non-commented papers – they are also significantly more likely to be
+among the most cited papers in a journal [283].
+         Similar results are uncovered by studies of negative citations –
+references that pinpoint limitations, inconsistencies, or flaws of prior
+studies [330]. Researchers used machine learning and natural language
+processing techniques to classify negative citations from a training set of
+15,000 citations extracted from the Journal of Immunology, categoriz-
+ing the citations as “negative” or “objective” with the help of five
+immunology experts. They then used the tool to analyze 15,731 articles
+from the same journal. They found that papers pay only a slight long-
+term penalty in the total number of citations they receive after a negative
+one, and the criticized papers continue to garner citations over time,
+which paints the picture that it’s better to receive negative attention than
+none at all.
+         Together, these results show that comments and negative cit-
+ations seem to play a role that’s the opposite of what is intended; they
+are early indicators of a paper’s impact. Why does such bad publicity
+amplify citation impact?
+         The main culprit is a selection effect: Scientists are often reluc-
+tant to devote time to writing comments on weak or irrelevant results
+[331]. Hence, only papers perceived as potentially significant draw
+enough attention to be commented on in the first place. Moreover,
+while comments or negative citations are critical in tone, they often
+offer a more nuanced understanding of the results, advancing the argu-
+ment presented in the paper rather than simply invalidating its key
+findings. In addition, comments also bring attention to the paper,
+further boosting its visibility. Even in science, it appears, there’s no such
+thing as bad publicity.

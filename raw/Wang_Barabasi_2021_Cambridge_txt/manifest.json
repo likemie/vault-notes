@@ -1,0 +1,2547 @@
+{
+  "source": "raw/The Science of Science -- Wang, Dashun, Barabási, Albert-László -- 1, 2021-01-31 -- Cambridge University Press (Virtual Publishing) -- isbn13 9781108492669 -- 644081ccec9c998841bb8328176946c2 -- Anna’s Archive.pdf",
+  "source_sha256": "98795280f952d07c4406e821b6196afa3e2bec58f27ef05d9798f4d1e0c282a4",
+  "book_title": "The Science of Science",
+  "authors": [
+    "Dashun Wang",
+    "Albert-László Barabási"
+  ],
+  "year": 2021,
+  "copyright_year": 2020,
+  "publisher": "Cambridge University Press",
+  "isbn": "9781108492669",
+  "doi": "10.1017/9781108610834",
+  "source_pdf_pages": 325,
+  "encoding": "UTF-8",
+  "extraction": "Poppler pdftotext -layout from the digital text layer; common ligatures expanded, recognized running heads and Cambridge download-footer notices removed; no semantic rewriting.",
+  "page_mapping": "Print pp. 1–256 map to PDF page N+18; print pp. 257–303 map to PDF page N+21 due to duplicated appendix A1.",
+  "included_print_page_range": [
+    1,
+    295
+  ],
+  "omitted_blank_print_pages": [
+    84,
+    220,
+    222
+  ],
+  "removed_duplicate_pdf_pages": {
+    "5": 1,
+    "7": 3,
+    "8": 4,
+    "9": 1,
+    "11": 3,
+    "12": 4,
+    "275": 272,
+    "276": 273,
+    "277": 274
+  },
+  "excluded_materials": [
+    "Duplicate title and copyright pages",
+    "Blank pages and dedication",
+    "Contents",
+    "Index (print pp. 296–303)"
+  ],
+  "page_audit": {
+    "1": {
+      "pdf_page": 19,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "2": {
+      "pdf_page": 20,
+      "removed_running_headers": [
+        "             2 /       The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "3": {
+      "pdf_page": 21,
+      "removed_running_headers": [
+        "             3 /       Introduction"
+      ],
+      "download_footer_removed": true
+    },
+    "4": {
+      "pdf_page": 22,
+      "removed_running_headers": [
+        "             4 /       The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "5": {
+      "pdf_page": 23,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "6": {
+      "pdf_page": 24,
+      "removed_running_headers": [
+        "             6 /       The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "7": {
+      "pdf_page": 25,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "8": {
+      "pdf_page": 26,
+      "removed_running_headers": [
+        "             8 /       The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "9": {
+      "pdf_page": 27,
+      "removed_running_headers": [
+        "             9 /                       Productivity of a Scientist"
+      ],
+      "download_footer_removed": true
+    },
+    "10": {
+      "pdf_page": 28,
+      "removed_running_headers": [
+        "             10    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "11": {
+      "pdf_page": 29,
+      "removed_running_headers": [
+        "             11    /    Productivity of a Scientist"
+      ],
+      "download_footer_removed": true
+    },
+    "12": {
+      "pdf_page": 30,
+      "removed_running_headers": [
+        "             12     / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "13": {
+      "pdf_page": 31,
+      "removed_running_headers": [
+        "             13    /    Productivity of a Scientist"
+      ],
+      "download_footer_removed": true
+    },
+    "14": {
+      "pdf_page": 32,
+      "removed_running_headers": [
+        "             14    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "15": {
+      "pdf_page": 33,
+      "removed_running_headers": [
+        "             15    /    Productivity of a Scientist"
+      ],
+      "download_footer_removed": true
+    },
+    "16": {
+      "pdf_page": 34,
+      "removed_running_headers": [
+        "             16     / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "17": {
+      "pdf_page": 35,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "18": {
+      "pdf_page": 36,
+      "removed_running_headers": [
+        "             18    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "19": {
+      "pdf_page": 37,
+      "removed_running_headers": [
+        "             19     / The h-Index"
+      ],
+      "download_footer_removed": true
+    },
+    "20": {
+      "pdf_page": 38,
+      "removed_running_headers": [
+        "             20     / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "21": {
+      "pdf_page": 39,
+      "removed_running_headers": [
+        "             21    / The h-Index"
+      ],
+      "download_footer_removed": true
+    },
+    "22": {
+      "pdf_page": 40,
+      "removed_running_headers": [
+        "             22        / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "23": {
+      "pdf_page": 41,
+      "removed_running_headers": [
+        "             23    / The h-Index"
+      ],
+      "download_footer_removed": true
+    },
+    "24": {
+      "pdf_page": 42,
+      "removed_running_headers": [
+        "             24     / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "25": {
+      "pdf_page": 43,
+      "removed_running_headers": [
+        "             25    / The h-Index"
+      ],
+      "download_footer_removed": true
+    },
+    "26": {
+      "pdf_page": 44,
+      "removed_running_headers": [
+        "             26    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "27": {
+      "pdf_page": 45,
+      "removed_running_headers": [
+        "             27    / The h-Index"
+      ],
+      "download_footer_removed": true
+    },
+    "28": {
+      "pdf_page": 46,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "29": {
+      "pdf_page": 47,
+      "removed_running_headers": [
+        "             29    / The Matthew Effect"
+      ],
+      "download_footer_removed": true
+    },
+    "30": {
+      "pdf_page": 48,
+      "removed_running_headers": [
+        "             30    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "31": {
+      "pdf_page": 49,
+      "removed_running_headers": [
+        "             31     / The Matthew Effect"
+      ],
+      "download_footer_removed": true
+    },
+    "32": {
+      "pdf_page": 50,
+      "removed_running_headers": [
+        "             32     / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "33": {
+      "pdf_page": 51,
+      "removed_running_headers": [
+        "             33    / The Matthew Effect"
+      ],
+      "download_footer_removed": true
+    },
+    "34": {
+      "pdf_page": 52,
+      "removed_running_headers": [
+        "             34     / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "35": {
+      "pdf_page": 53,
+      "removed_running_headers": [
+        "             35    / The Matthew Effect"
+      ],
+      "download_footer_removed": true
+    },
+    "36": {
+      "pdf_page": 54,
+      "removed_running_headers": [
+        "             36    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "37": {
+      "pdf_page": 55,
+      "removed_running_headers": [
+        "             37     / The Matthew Effect"
+      ],
+      "download_footer_removed": true
+    },
+    "38": {
+      "pdf_page": 56,
+      "removed_running_headers": [
+        "             38                                     / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "39": {
+      "pdf_page": 57,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "40": {
+      "pdf_page": 58,
+      "removed_running_headers": [
+        "             40    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "41": {
+      "pdf_page": 59,
+      "removed_running_headers": [
+        "             41      / Age and Scientific Achievement"
+      ],
+      "download_footer_removed": true
+    },
+    "42": {
+      "pdf_page": 60,
+      "removed_running_headers": [
+        "             42      / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "43": {
+      "pdf_page": 61,
+      "removed_running_headers": [
+        "             43      / Age and Scientific Achievement"
+      ],
+      "download_footer_removed": true
+    },
+    "44": {
+      "pdf_page": 62,
+      "removed_running_headers": [
+        "             44    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "45": {
+      "pdf_page": 63,
+      "removed_running_headers": [
+        "             45     / Age and Scientific Achievement"
+      ],
+      "download_footer_removed": true
+    },
+    "46": {
+      "pdf_page": 64,
+      "removed_running_headers": [
+        "             46      / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "47": {
+      "pdf_page": 65,
+      "removed_running_headers": [
+        "             47    / Age and Scientific Achievement"
+      ],
+      "download_footer_removed": true
+    },
+    "48": {
+      "pdf_page": 66,
+      "removed_running_headers": [
+        "             48    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "49": {
+      "pdf_page": 67,
+      "removed_running_headers": [
+        "             49     / Age and Scientific Achievement"
+      ],
+      "download_footer_removed": true
+    },
+    "50": {
+      "pdf_page": 68,
+      "removed_running_headers": [
+        "             50    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "51": {
+      "pdf_page": 69,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "52": {
+      "pdf_page": 70,
+      "removed_running_headers": [
+        "             52    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "53": {
+      "pdf_page": 71,
+      "removed_running_headers": [
+        "             53    /    Random Impact Rule"
+      ],
+      "download_footer_removed": true
+    },
+    "54": {
+      "pdf_page": 72,
+      "removed_running_headers": [
+        "             54    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "55": {
+      "pdf_page": 73,
+      "removed_running_headers": [
+        "             55    /    Random Impact Rule"
+      ],
+      "download_footer_removed": true
+    },
+    "56": {
+      "pdf_page": 74,
+      "removed_running_headers": [
+        "             56                  / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "57": {
+      "pdf_page": 75,
+      "removed_running_headers": [
+        "             57     /   Random Impact Rule"
+      ],
+      "download_footer_removed": true
+    },
+    "58": {
+      "pdf_page": 76,
+      "removed_running_headers": [
+        "             58             / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "59": {
+      "pdf_page": 77,
+      "removed_running_headers": [
+        "             59     /        Random Impact Rule"
+      ],
+      "download_footer_removed": true
+    },
+    "60": {
+      "pdf_page": 78,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "61": {
+      "pdf_page": 79,
+      "removed_running_headers": [
+        "             61    / The Q-Factor"
+      ],
+      "download_footer_removed": true
+    },
+    "62": {
+      "pdf_page": 80,
+      "removed_running_headers": [
+        "             62    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "63": {
+      "pdf_page": 81,
+      "removed_running_headers": [
+        "             63    / The Q-Factor"
+      ],
+      "download_footer_removed": true
+    },
+    "64": {
+      "pdf_page": 82,
+      "removed_running_headers": [
+        "             64    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "65": {
+      "pdf_page": 83,
+      "removed_running_headers": [
+        "             65    / The Q-Factor"
+      ],
+      "download_footer_removed": true
+    },
+    "66": {
+      "pdf_page": 84,
+      "removed_running_headers": [
+        "             66    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "67": {
+      "pdf_page": 85,
+      "removed_running_headers": [
+        "             67    / The Q-Factor"
+      ],
+      "download_footer_removed": true
+    },
+    "68": {
+      "pdf_page": 86,
+      "removed_running_headers": [
+        "             68    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "69": {
+      "pdf_page": 87,
+      "removed_running_headers": [
+        "             69    / The Q-Factor"
+      ],
+      "download_footer_removed": true
+    },
+    "70": {
+      "pdf_page": 88,
+      "removed_running_headers": [
+        "             70    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "71": {
+      "pdf_page": 89,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "72": {
+      "pdf_page": 90,
+      "removed_running_headers": [
+        "             72    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "73": {
+      "pdf_page": 91,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "74": {
+      "pdf_page": 92,
+      "removed_running_headers": [
+        "             74    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "75": {
+      "pdf_page": 93,
+      "removed_running_headers": [
+        "             75    /    Hot Streaks"
+      ],
+      "download_footer_removed": true
+    },
+    "76": {
+      "pdf_page": 94,
+      "removed_running_headers": [
+        "             76    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "77": {
+      "pdf_page": 95,
+      "removed_running_headers": [
+        "             77     /   Hot Streaks"
+      ],
+      "download_footer_removed": true
+    },
+    "78": {
+      "pdf_page": 96,
+      "removed_running_headers": [
+        "             78    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "79": {
+      "pdf_page": 97,
+      "removed_running_headers": [
+        "             79    /    Hot Streaks"
+      ],
+      "download_footer_removed": true
+    },
+    "80": {
+      "pdf_page": 98,
+      "removed_running_headers": [
+        "             80    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "81": {
+      "pdf_page": 99,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "82": {
+      "pdf_page": 100,
+      "removed_running_headers": [
+        "             82    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "83": {
+      "pdf_page": 101,
+      "removed_running_headers": [
+        "             83    / The Science of Collaboration"
+      ],
+      "download_footer_removed": true
+    },
+    "85": {
+      "pdf_page": 103,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "86": {
+      "pdf_page": 104,
+      "removed_running_headers": [
+        "             86                    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "87": {
+      "pdf_page": 105,
+      "removed_running_headers": [
+        "             87     / The Increasing Dominance of Teams in Science"
+      ],
+      "download_footer_removed": true
+    },
+    "88": {
+      "pdf_page": 106,
+      "removed_running_headers": [
+        "             88    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "89": {
+      "pdf_page": 107,
+      "removed_running_headers": [
+        "             89    / The Increasing Dominance of Teams in Science"
+      ],
+      "download_footer_removed": true
+    },
+    "90": {
+      "pdf_page": 108,
+      "removed_running_headers": [
+        "             90    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "91": {
+      "pdf_page": 109,
+      "removed_running_headers": [
+        "             91            / The Increasing Dominance of Teams in Science"
+      ],
+      "download_footer_removed": true
+    },
+    "92": {
+      "pdf_page": 110,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "93": {
+      "pdf_page": 111,
+      "removed_running_headers": [
+        "             93    / The Increasing Dominance of Teams in Science"
+      ],
+      "download_footer_removed": true
+    },
+    "94": {
+      "pdf_page": 112,
+      "removed_running_headers": [
+        "             94    / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "95": {
+      "pdf_page": 113,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "96": {
+      "pdf_page": 114,
+      "removed_running_headers": [
+        "             96     / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "97": {
+      "pdf_page": 115,
+      "removed_running_headers": [
+        "             97    / The Invisible College"
+      ],
+      "download_footer_removed": true
+    },
+    "98": {
+      "pdf_page": 116,
+      "removed_running_headers": [
+        "             98     / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "99": {
+      "pdf_page": 117,
+      "removed_running_headers": [
+        "             99    / The Invisible College"
+      ],
+      "download_footer_removed": true
+    },
+    "100": {
+      "pdf_page": 118,
+      "removed_running_headers": [
+        "             100 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "101": {
+      "pdf_page": 119,
+      "removed_running_headers": [
+        "             101 / The Invisible College"
+      ],
+      "download_footer_removed": true
+    },
+    "102": {
+      "pdf_page": 120,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "103": {
+      "pdf_page": 121,
+      "removed_running_headers": [
+        "             103 /       Coauthorship Networks"
+      ],
+      "download_footer_removed": true
+    },
+    "104": {
+      "pdf_page": 122,
+      "removed_running_headers": [
+        "             104 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "105": {
+      "pdf_page": 123,
+      "removed_running_headers": [
+        "             105 /       Coauthorship Networks"
+      ],
+      "download_footer_removed": true
+    },
+    "106": {
+      "pdf_page": 124,
+      "removed_running_headers": [
+        "             106 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "107": {
+      "pdf_page": 125,
+      "removed_running_headers": [
+        "             107 /       Coauthorship Networks"
+      ],
+      "download_footer_removed": true
+    },
+    "108": {
+      "pdf_page": 126,
+      "removed_running_headers": [
+        "             108 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "109": {
+      "pdf_page": 127,
+      "removed_running_headers": [
+        "             109 /       Coauthorship Networks"
+      ],
+      "download_footer_removed": true
+    },
+    "110": {
+      "pdf_page": 128,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "111": {
+      "pdf_page": 129,
+      "removed_running_headers": [
+        "             111 / Team Assembly"
+      ],
+      "download_footer_removed": true
+    },
+    "112": {
+      "pdf_page": 130,
+      "removed_running_headers": [
+        "             112 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "113": {
+      "pdf_page": 131,
+      "removed_running_headers": [
+        "             113 / Team Assembly"
+      ],
+      "download_footer_removed": true
+    },
+    "114": {
+      "pdf_page": 132,
+      "removed_running_headers": [
+        "             114 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "115": {
+      "pdf_page": 133,
+      "removed_running_headers": [
+        "             115 / Team Assembly"
+      ],
+      "download_footer_removed": true
+    },
+    "116": {
+      "pdf_page": 134,
+      "removed_running_headers": [
+        "             116 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "117": {
+      "pdf_page": 135,
+      "removed_running_headers": [
+        "             117 / Team Assembly"
+      ],
+      "download_footer_removed": true
+    },
+    "118": {
+      "pdf_page": 136,
+      "removed_running_headers": [
+        "             118 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "119": {
+      "pdf_page": 137,
+      "removed_running_headers": [
+        "             119 / Team Assembly"
+      ],
+      "download_footer_removed": true
+    },
+    "120": {
+      "pdf_page": 138,
+      "removed_running_headers": [
+        "             120 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "121": {
+      "pdf_page": 139,
+      "removed_running_headers": [
+        "             121 / Team Assembly"
+      ],
+      "download_footer_removed": true
+    },
+    "122": {
+      "pdf_page": 140,
+      "removed_running_headers": [
+        "             122 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "123": {
+      "pdf_page": 141,
+      "removed_running_headers": [
+        "             123 / Team Assembly"
+      ],
+      "download_footer_removed": true
+    },
+    "254": {
+      "pdf_page": 272,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "255": {
+      "pdf_page": 273,
+      "removed_running_headers": [
+        "             255 /        Modeling Team Assembly"
+      ],
+      "download_footer_removed": true
+    },
+    "256": {
+      "pdf_page": 274,
+      "removed_running_headers": [
+        "             256 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "124": {
+      "pdf_page": 142,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "125": {
+      "pdf_page": 143,
+      "removed_running_headers": [
+        "             125 /       Small and Large Teams"
+      ],
+      "download_footer_removed": true
+    },
+    "126": {
+      "pdf_page": 144,
+      "removed_running_headers": [
+        "             126 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "127": {
+      "pdf_page": 145,
+      "removed_running_headers": [
+        "             127 /       Small and Large Teams"
+      ],
+      "download_footer_removed": true
+    },
+    "128": {
+      "pdf_page": 146,
+      "removed_running_headers": [
+        "             128 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "129": {
+      "pdf_page": 147,
+      "removed_running_headers": [
+        "             129 /       Small and Large Teams"
+      ],
+      "download_footer_removed": true
+    },
+    "130": {
+      "pdf_page": 148,
+      "removed_running_headers": [
+        "             130 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "131": {
+      "pdf_page": 149,
+      "removed_running_headers": [
+        "             131 /                              Small and Large Teams"
+      ],
+      "download_footer_removed": true
+    },
+    "132": {
+      "pdf_page": 150,
+      "removed_running_headers": [
+        "             132 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "133": {
+      "pdf_page": 151,
+      "removed_running_headers": [
+        "             133 /       Small and Large Teams"
+      ],
+      "download_footer_removed": true
+    },
+    "134": {
+      "pdf_page": 152,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "135": {
+      "pdf_page": 153,
+      "removed_running_headers": [
+        "             135 /       Scientific Credit"
+      ],
+      "download_footer_removed": true
+    },
+    "136": {
+      "pdf_page": 154,
+      "removed_running_headers": [
+        "             136 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "137": {
+      "pdf_page": 155,
+      "removed_running_headers": [
+        "             137 /       Scientific Credit"
+      ],
+      "download_footer_removed": true
+    },
+    "138": {
+      "pdf_page": 156,
+      "removed_running_headers": [
+        "             138 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "139": {
+      "pdf_page": 157,
+      "removed_running_headers": [
+        "             139 /       Scientific Credit"
+      ],
+      "download_footer_removed": true
+    },
+    "140": {
+      "pdf_page": 158,
+      "removed_running_headers": [
+        "             140 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "141": {
+      "pdf_page": 159,
+      "removed_running_headers": [
+        "             141 /       Scientific Credit"
+      ],
+      "download_footer_removed": true
+    },
+    "142": {
+      "pdf_page": 160,
+      "removed_running_headers": [
+        "             142 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "143": {
+      "pdf_page": 161,
+      "removed_running_headers": [
+        "             143 /       Scientific Credit"
+      ],
+      "download_footer_removed": true
+    },
+    "144": {
+      "pdf_page": 162,
+      "removed_running_headers": [
+        "             144 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "145": {
+      "pdf_page": 163,
+      "removed_running_headers": [
+        "             145 /       Scientific Credit"
+      ],
+      "download_footer_removed": true
+    },
+    "146": {
+      "pdf_page": 164,
+      "removed_running_headers": [
+        "             146 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "147": {
+      "pdf_page": 165,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "148": {
+      "pdf_page": 166,
+      "removed_running_headers": [
+        "             148 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "149": {
+      "pdf_page": 167,
+      "removed_running_headers": [
+        "             149 /       Credit Allocation"
+      ],
+      "download_footer_removed": true
+    },
+    "150": {
+      "pdf_page": 168,
+      "removed_running_headers": [
+        "             150 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "151": {
+      "pdf_page": 169,
+      "removed_running_headers": [
+        "             151 /       Credit Allocation"
+      ],
+      "download_footer_removed": true
+    },
+    "152": {
+      "pdf_page": 170,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "153": {
+      "pdf_page": 171,
+      "removed_running_headers": [
+        "             153 /       Credit Allocation"
+      ],
+      "download_footer_removed": true
+    },
+    "154": {
+      "pdf_page": 172,
+      "removed_running_headers": [
+        "             154 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "155": {
+      "pdf_page": 173,
+      "removed_running_headers": [
+        "             155 /       Credit Allocation"
+      ],
+      "download_footer_removed": true
+    },
+    "156": {
+      "pdf_page": 174,
+      "removed_running_headers": [
+        "             156 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "157": {
+      "pdf_page": 175,
+      "removed_running_headers": [
+        "             157 /       Credit Allocation"
+      ],
+      "download_footer_removed": true
+    },
+    "158": {
+      "pdf_page": 176,
+      "removed_running_headers": [
+        "             158 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "159": {
+      "pdf_page": 177,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "160": {
+      "pdf_page": 178,
+      "removed_running_headers": [
+        "             160 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "161": {
+      "pdf_page": 179,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "162": {
+      "pdf_page": 180,
+      "removed_running_headers": [
+        "             162 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "163": {
+      "pdf_page": 181,
+      "removed_running_headers": [
+        "             163 /       Big Science"
+      ],
+      "download_footer_removed": true
+    },
+    "164": {
+      "pdf_page": 182,
+      "removed_running_headers": [
+        "             164 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "165": {
+      "pdf_page": 183,
+      "removed_running_headers": [
+        "             165 /       Big Science"
+      ],
+      "download_footer_removed": true
+    },
+    "166": {
+      "pdf_page": 184,
+      "removed_running_headers": [
+        "             166 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "167": {
+      "pdf_page": 185,
+      "removed_running_headers": [
+        "             167 /       Big Science"
+      ],
+      "download_footer_removed": true
+    },
+    "168": {
+      "pdf_page": 186,
+      "removed_running_headers": [
+        "             168 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "169": {
+      "pdf_page": 187,
+      "removed_running_headers": [
+        "             169 /       Big Science"
+      ],
+      "download_footer_removed": true
+    },
+    "170": {
+      "pdf_page": 188,
+      "removed_running_headers": [
+        "             170 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "171": {
+      "pdf_page": 189,
+      "removed_running_headers": [
+        "             171 /                                              Big Science"
+      ],
+      "download_footer_removed": true
+    },
+    "172": {
+      "pdf_page": 190,
+      "removed_running_headers": [
+        "             172 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "173": {
+      "pdf_page": 191,
+      "removed_running_headers": [
+        "             173 /       Big Science"
+      ],
+      "download_footer_removed": true
+    },
+    "174": {
+      "pdf_page": 192,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "175": {
+      "pdf_page": 193,
+      "removed_running_headers": [
+        "             175 /       Citation Disparity"
+      ],
+      "download_footer_removed": true
+    },
+    "176": {
+      "pdf_page": 194,
+      "removed_running_headers": [
+        "             176 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "177": {
+      "pdf_page": 195,
+      "removed_running_headers": [
+        "             177 /       Citation Disparity"
+      ],
+      "download_footer_removed": true
+    },
+    "178": {
+      "pdf_page": 196,
+      "removed_running_headers": [
+        "             178 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "179": {
+      "pdf_page": 197,
+      "removed_running_headers": [
+        "             179 /       Citation Disparity"
+      ],
+      "download_footer_removed": true
+    },
+    "180": {
+      "pdf_page": 198,
+      "removed_running_headers": [
+        "             180 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "181": {
+      "pdf_page": 199,
+      "removed_running_headers": [
+        "             181 /       Citation Disparity"
+      ],
+      "download_footer_removed": true
+    },
+    "182": {
+      "pdf_page": 200,
+      "removed_running_headers": [
+        "             182 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "183": {
+      "pdf_page": 201,
+      "removed_running_headers": [
+        "             183 /       Citation Disparity"
+      ],
+      "download_footer_removed": true
+    },
+    "184": {
+      "pdf_page": 202,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "185": {
+      "pdf_page": 203,
+      "removed_running_headers": [
+        "             185 /       High-Impact Papers"
+      ],
+      "download_footer_removed": true
+    },
+    "186": {
+      "pdf_page": 204,
+      "removed_running_headers": [
+        "             186 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "187": {
+      "pdf_page": 205,
+      "removed_running_headers": [
+        "             187 /       High-Impact Papers"
+      ],
+      "download_footer_removed": true
+    },
+    "188": {
+      "pdf_page": 206,
+      "removed_running_headers": [
+        "             188 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "189": {
+      "pdf_page": 207,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "190": {
+      "pdf_page": 208,
+      "removed_running_headers": [
+        "             190 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "191": {
+      "pdf_page": 209,
+      "removed_running_headers": [
+        "             191 /       Scientific Impact"
+      ],
+      "download_footer_removed": true
+    },
+    "192": {
+      "pdf_page": 210,
+      "removed_running_headers": [
+        "             192 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "193": {
+      "pdf_page": 211,
+      "removed_running_headers": [
+        "             193 /       Scientific Impact"
+      ],
+      "download_footer_removed": true
+    },
+    "194": {
+      "pdf_page": 212,
+      "removed_running_headers": [
+        "             194 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "195": {
+      "pdf_page": 213,
+      "removed_running_headers": [
+        "             195 /       Scientific Impact"
+      ],
+      "download_footer_removed": true
+    },
+    "196": {
+      "pdf_page": 214,
+      "removed_running_headers": [
+        "             196 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "197": {
+      "pdf_page": 215,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "198": {
+      "pdf_page": 216,
+      "removed_running_headers": [
+        "             198 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "199": {
+      "pdf_page": 217,
+      "removed_running_headers": [
+        "             199 / The Time Dimension of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "200": {
+      "pdf_page": 218,
+      "removed_running_headers": [
+        "             200 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "201": {
+      "pdf_page": 219,
+      "removed_running_headers": [
+        "             201 / The Time Dimension of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "202": {
+      "pdf_page": 220,
+      "removed_running_headers": [
+        "             202 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "203": {
+      "pdf_page": 221,
+      "removed_running_headers": [
+        "             203 / The Time Dimension of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "204": {
+      "pdf_page": 222,
+      "removed_running_headers": [
+        "             204 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "205": {
+      "pdf_page": 223,
+      "removed_running_headers": [
+        "             205 / The Time Dimension of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "206": {
+      "pdf_page": 224,
+      "removed_running_headers": [
+        "             206 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "207": {
+      "pdf_page": 225,
+      "removed_running_headers": [
+        "             207 / The Time Dimension of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "208": {
+      "pdf_page": 226,
+      "removed_running_headers": [
+        "             208 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "209": {
+      "pdf_page": 227,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "210": {
+      "pdf_page": 228,
+      "removed_running_headers": [
+        "             210 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "211": {
+      "pdf_page": 229,
+      "removed_running_headers": [
+        "             211 /       Ultimate Impact"
+      ],
+      "download_footer_removed": true
+    },
+    "212": {
+      "pdf_page": 230,
+      "removed_running_headers": [
+        "             212 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "213": {
+      "pdf_page": 231,
+      "removed_running_headers": [
+        "             213 /                Ultimate Impact"
+      ],
+      "download_footer_removed": true
+    },
+    "214": {
+      "pdf_page": 232,
+      "removed_running_headers": [
+        "             214 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "215": {
+      "pdf_page": 233,
+      "removed_running_headers": [
+        "             215 /       Ultimate Impact"
+      ],
+      "download_footer_removed": true
+    },
+    "216": {
+      "pdf_page": 234,
+      "removed_running_headers": [
+        "             216 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "217": {
+      "pdf_page": 235,
+      "removed_running_headers": [
+        "             217 /       Ultimate Impact"
+      ],
+      "download_footer_removed": true
+    },
+    "218": {
+      "pdf_page": 236,
+      "removed_running_headers": [
+        "             218 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "219": {
+      "pdf_page": 237,
+      "removed_running_headers": [
+        "             219 /       Ultimate Impact"
+      ],
+      "download_footer_removed": true
+    },
+    "257": {
+      "pdf_page": 278,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "258": {
+      "pdf_page": 279,
+      "removed_running_headers": [
+        "             258 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "259": {
+      "pdf_page": 280,
+      "removed_running_headers": [
+        "             259 /       Modeling Citations"
+      ],
+      "download_footer_removed": true
+    },
+    "260": {
+      "pdf_page": 281,
+      "removed_running_headers": [
+        "             260 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "261": {
+      "pdf_page": 282,
+      "removed_running_headers": [
+        "             261 /       Modeling Citations"
+      ],
+      "download_footer_removed": true
+    },
+    "262": {
+      "pdf_page": 283,
+      "removed_running_headers": [
+        "             262 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "263": {
+      "pdf_page": 284,
+      "removed_running_headers": [
+        "             263 /       Modeling Citations"
+      ],
+      "download_footer_removed": true
+    },
+    "264": {
+      "pdf_page": 285,
+      "removed_running_headers": [
+        "             264 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "265": {
+      "pdf_page": 286,
+      "removed_running_headers": [
+        "             265 /       Modeling Citations"
+      ],
+      "download_footer_removed": true
+    },
+    "266": {
+      "pdf_page": 287,
+      "removed_running_headers": [
+        "             266 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "267": {
+      "pdf_page": 288,
+      "removed_running_headers": [
+        "             267 /       Modeling Citations"
+      ],
+      "download_footer_removed": true
+    },
+    "268": {
+      "pdf_page": 289,
+      "removed_running_headers": [
+        "             268 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "269": {
+      "pdf_page": 290,
+      "removed_running_headers": [
+        "             269 /       Modeling Citations"
+      ],
+      "download_footer_removed": true
+    },
+    "221": {
+      "pdf_page": 239,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "223": {
+      "pdf_page": 241,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "224": {
+      "pdf_page": 242,
+      "removed_running_headers": [
+        "             224 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "225": {
+      "pdf_page": 243,
+      "removed_running_headers": [
+        "             225 /       Can Science Be Accelerated?"
+      ],
+      "download_footer_removed": true
+    },
+    "226": {
+      "pdf_page": 244,
+      "removed_running_headers": [
+        "             226 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "227": {
+      "pdf_page": 245,
+      "removed_running_headers": [
+        "             227 /       Can Science Be Accelerated?"
+      ],
+      "download_footer_removed": true
+    },
+    "228": {
+      "pdf_page": 246,
+      "removed_running_headers": [
+        "             228 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "229": {
+      "pdf_page": 247,
+      "removed_running_headers": [
+        "             229 /       Can Science Be Accelerated?"
+      ],
+      "download_footer_removed": true
+    },
+    "230": {
+      "pdf_page": 248,
+      "removed_running_headers": [
+        "             230 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "231": {
+      "pdf_page": 249,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "232": {
+      "pdf_page": 250,
+      "removed_running_headers": [
+        "             232 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "233": {
+      "pdf_page": 251,
+      "removed_running_headers": [
+        "             233 / Artificial Intelligence"
+      ],
+      "download_footer_removed": true
+    },
+    "234": {
+      "pdf_page": 252,
+      "removed_running_headers": [
+        "             234 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "235": {
+      "pdf_page": 253,
+      "removed_running_headers": [
+        "             235 / Artificial Intelligence"
+      ],
+      "download_footer_removed": true
+    },
+    "236": {
+      "pdf_page": 254,
+      "removed_running_headers": [
+        "             236 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "237": {
+      "pdf_page": 255,
+      "removed_running_headers": [
+        "             237 / Artificial Intelligence"
+      ],
+      "download_footer_removed": true
+    },
+    "238": {
+      "pdf_page": 256,
+      "removed_running_headers": [
+        "             238 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "239": {
+      "pdf_page": 257,
+      "removed_running_headers": [
+        "             239 / Artificial Intelligence"
+      ],
+      "download_footer_removed": true
+    },
+    "240": {
+      "pdf_page": 258,
+      "removed_running_headers": [
+        "             240 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "241": {
+      "pdf_page": 259,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "242": {
+      "pdf_page": 260,
+      "removed_running_headers": [
+        "             242 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "243": {
+      "pdf_page": 261,
+      "removed_running_headers": [
+        "             243 /       Bias and Causality in Science"
+      ],
+      "download_footer_removed": true
+    },
+    "244": {
+      "pdf_page": 262,
+      "removed_running_headers": [
+        "             244 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "245": {
+      "pdf_page": 263,
+      "removed_running_headers": [
+        "             245 /       Bias and Causality in Science"
+      ],
+      "download_footer_removed": true
+    },
+    "246": {
+      "pdf_page": 264,
+      "removed_running_headers": [
+        "             246 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "247": {
+      "pdf_page": 265,
+      "removed_running_headers": [
+        "             247 /       Bias and Causality in Science"
+      ],
+      "download_footer_removed": true
+    },
+    "248": {
+      "pdf_page": 266,
+      "removed_running_headers": [
+        "             248 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "249": {
+      "pdf_page": 267,
+      "removed_running_headers": [
+        "             249 /       Bias and Causality in Science"
+      ],
+      "download_footer_removed": true
+    },
+    "250": {
+      "pdf_page": 268,
+      "removed_running_headers": [
+        "             250 / The Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "251": {
+      "pdf_page": 269,
+      "removed_running_headers": [
+        "             251 /       Bias and Causality in Science"
+      ],
+      "download_footer_removed": true
+    },
+    "252": {
+      "pdf_page": 270,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "253": {
+      "pdf_page": 271,
+      "removed_running_headers": [
+        "             253 /       Last Thought: All the Science of Science"
+      ],
+      "download_footer_removed": true
+    },
+    "270": {
+      "pdf_page": 291,
+      "removed_running_headers": [],
+      "download_footer_removed": true
+    },
+    "271": {
+      "pdf_page": 292,
+      "removed_running_headers": [
+        "             271 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "272": {
+      "pdf_page": 293,
+      "removed_running_headers": [
+        "             272 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "273": {
+      "pdf_page": 294,
+      "removed_running_headers": [
+        "             273 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "274": {
+      "pdf_page": 295,
+      "removed_running_headers": [
+        "             274 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "275": {
+      "pdf_page": 296,
+      "removed_running_headers": [
+        "             275 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "276": {
+      "pdf_page": 297,
+      "removed_running_headers": [
+        "             276 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "277": {
+      "pdf_page": 298,
+      "removed_running_headers": [
+        "             277 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "278": {
+      "pdf_page": 299,
+      "removed_running_headers": [
+        "             278 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "279": {
+      "pdf_page": 300,
+      "removed_running_headers": [
+        "             279 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "280": {
+      "pdf_page": 301,
+      "removed_running_headers": [
+        "             280 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "281": {
+      "pdf_page": 302,
+      "removed_running_headers": [
+        "             281 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "282": {
+      "pdf_page": 303,
+      "removed_running_headers": [
+        "             282 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "283": {
+      "pdf_page": 304,
+      "removed_running_headers": [
+        "             283 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "284": {
+      "pdf_page": 305,
+      "removed_running_headers": [
+        "             284 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "285": {
+      "pdf_page": 306,
+      "removed_running_headers": [
+        "             285 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "286": {
+      "pdf_page": 307,
+      "removed_running_headers": [
+        "             286 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "287": {
+      "pdf_page": 308,
+      "removed_running_headers": [
+        "             287 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "288": {
+      "pdf_page": 309,
+      "removed_running_headers": [
+        "             288 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "289": {
+      "pdf_page": 310,
+      "removed_running_headers": [
+        "             289 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "290": {
+      "pdf_page": 311,
+      "removed_running_headers": [
+        "             290 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "291": {
+      "pdf_page": 312,
+      "removed_running_headers": [
+        "             291 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "292": {
+      "pdf_page": 313,
+      "removed_running_headers": [
+        "             292 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "293": {
+      "pdf_page": 314,
+      "removed_running_headers": [
+        "             293 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "294": {
+      "pdf_page": 315,
+      "removed_running_headers": [
+        "             294 /       References"
+      ],
+      "download_footer_removed": true
+    },
+    "295": {
+      "pdf_page": 316,
+      "removed_running_headers": [
+        "             295 /       References"
+      ],
+      "download_footer_removed": true
+    }
+  },
+  "entries": [
+    {
+      "chapter": 1,
+      "title": "Productivity of a Scientist",
+      "chinese_navigation_label": "科学家的产出",
+      "part": "I",
+      "part_title": "The Science of Career",
+      "print_pages": [
+        7,
+        16
+      ],
+      "pdf_pages": [
+        25,
+        34
+      ],
+      "txt": "Ch01_Productivity_of_a_Scientist.txt",
+      "supplements": [
+        {
+          "material": "Acknowledgements",
+          "pdf_pages": [
+            16,
+            18
+          ],
+          "print_pages": [
+            "viii",
+            "x"
+          ]
+        },
+        {
+          "material": "Biographical notes",
+          "pdf_pages": [
+            1,
+            1
+          ]
+        },
+        {
+          "material": "Introduction",
+          "print_pages": [
+            1,
+            4
+          ]
+        },
+        {
+          "material": "Part I opening",
+          "print_pages": [
+            5,
+            6
+          ]
+        }
+      ],
+      "characters": 41814,
+      "sha256": "114d37a2159e95f18efdbb7ce79e99c55cff7a1ee7e5496a33c2ad3e13ca993c"
+    },
+    {
+      "chapter": 2,
+      "title": "The h-Index",
+      "chinese_navigation_label": "h 指数",
+      "part": "I",
+      "part_title": "The Science of Career",
+      "print_pages": [
+        17,
+        27
+      ],
+      "pdf_pages": [
+        35,
+        45
+      ],
+      "txt": "Ch02_The_h_Index.txt",
+      "supplements": [],
+      "characters": 26020,
+      "sha256": "af965315b422ff681b299be16e109662ba45204ab4a166fdc1b086c0269386df"
+    },
+    {
+      "chapter": 3,
+      "title": "The Matthew Effect",
+      "chinese_navigation_label": "马太效应",
+      "part": "I",
+      "part_title": "The Science of Career",
+      "print_pages": [
+        28,
+        38
+      ],
+      "pdf_pages": [
+        46,
+        56
+      ],
+      "txt": "Ch03_The_Matthew_Effect.txt",
+      "supplements": [],
+      "characters": 28132,
+      "sha256": "d213f05f53bc024d4b8abbb1b5774df61da8a6669328af01f1f31b02290399d5"
+    },
+    {
+      "chapter": 4,
+      "title": "Age and Scientific Achievement",
+      "chinese_navigation_label": "年龄与科学成就",
+      "part": "I",
+      "part_title": "The Science of Career",
+      "print_pages": [
+        39,
+        50
+      ],
+      "pdf_pages": [
+        57,
+        68
+      ],
+      "txt": "Ch04_Age_and_Scientific_Achievement.txt",
+      "supplements": [],
+      "characters": 28478,
+      "sha256": "cbccd185e7f4a2532d279cbe48b48f114af0591de400fdceac1a90b1c23755ae"
+    },
+    {
+      "chapter": 5,
+      "title": "Random Impact Rule",
+      "chinese_navigation_label": "随机影响规律",
+      "part": "I",
+      "part_title": "The Science of Career",
+      "print_pages": [
+        51,
+        59
+      ],
+      "pdf_pages": [
+        69,
+        77
+      ],
+      "txt": "Ch05_Random_Impact_Rule.txt",
+      "supplements": [],
+      "characters": 21323,
+      "sha256": "e7ae73032c82cff0f526486ebb2644d16b1338edb974929719734299c8d7b3a8"
+    },
+    {
+      "chapter": 6,
+      "title": "The Q-Factor",
+      "chinese_navigation_label": "Q 因子",
+      "part": "I",
+      "part_title": "The Science of Career",
+      "print_pages": [
+        60,
+        70
+      ],
+      "pdf_pages": [
+        78,
+        88
+      ],
+      "txt": "Ch06_The_Q_Factor.txt",
+      "supplements": [],
+      "characters": 25303,
+      "sha256": "4cb6e92dc66cf368708b2354b8ce8038bb384d1888b7dcb453fd226eabecd75d"
+    },
+    {
+      "chapter": 7,
+      "title": "Hot Streaks",
+      "chinese_navigation_label": "高产高影响时期",
+      "part": "I",
+      "part_title": "The Science of Career",
+      "print_pages": [
+        71,
+        80
+      ],
+      "pdf_pages": [
+        89,
+        98
+      ],
+      "txt": "Ch07_Hot_Streaks.txt",
+      "supplements": [],
+      "characters": 20584,
+      "sha256": "721173f330bb676bffe5b988f95daca3fe9b82171f7b58a260973d402b95aee0"
+    },
+    {
+      "chapter": 8,
+      "title": "The Increasing Dominance of Teams in Science",
+      "chinese_navigation_label": "团队在科学中的主导地位日益增强",
+      "part": "II",
+      "part_title": "The Science of Collaboration",
+      "print_pages": [
+        85,
+        94
+      ],
+      "pdf_pages": [
+        103,
+        112
+      ],
+      "txt": "Ch08_The_Increasing_Dominance_of_Teams_in_Science.txt",
+      "supplements": [
+        {
+          "material": "Part II opening",
+          "print_pages": [
+            81,
+            84
+          ]
+        }
+      ],
+      "characters": 28994,
+      "sha256": "3dee94d3b1206486813be89778a7572034f9514e722b9f64e196edd29401a125"
+    },
+    {
+      "chapter": 9,
+      "title": "The Invisible College",
+      "chinese_navigation_label": "无形学院",
+      "part": "II",
+      "part_title": "The Science of Collaboration",
+      "print_pages": [
+        95,
+        101
+      ],
+      "pdf_pages": [
+        113,
+        119
+      ],
+      "txt": "Ch09_The_Invisible_College.txt",
+      "supplements": [],
+      "characters": 16657,
+      "sha256": "d1d17f1433eb29c7f317cd2ed2df56dbf93b0e3d24e5ee5177c3828786cc0300"
+    },
+    {
+      "chapter": 10,
+      "title": "Coauthorship Networks",
+      "chinese_navigation_label": "合著网络",
+      "part": "II",
+      "part_title": "The Science of Collaboration",
+      "print_pages": [
+        102,
+        109
+      ],
+      "pdf_pages": [
+        120,
+        127
+      ],
+      "txt": "Ch10_Coauthorship_Networks.txt",
+      "supplements": [],
+      "characters": 16794,
+      "sha256": "34c5843bd8938f75bcc0abc37333e41eb0945461b39b4c98ba6195265816c85c"
+    },
+    {
+      "chapter": 11,
+      "title": "Team Assembly",
+      "chinese_navigation_label": "团队组建",
+      "part": "II",
+      "part_title": "The Science of Collaboration",
+      "print_pages": [
+        110,
+        123
+      ],
+      "pdf_pages": [
+        128,
+        141
+      ],
+      "txt": "Ch11_Team_Assembly.txt",
+      "supplements": [
+        {
+          "material": "Appendix A1 — Modeling Team Assembly",
+          "print_pages": [
+            254,
+            256
+          ]
+        }
+      ],
+      "characters": 41426,
+      "sha256": "789e434f212b293377431c164cc91fd953a402ebd3d25246484648de22018308"
+    },
+    {
+      "chapter": 12,
+      "title": "Small and Large Teams",
+      "chinese_navigation_label": "小团队与大团队",
+      "part": "II",
+      "part_title": "The Science of Collaboration",
+      "print_pages": [
+        124,
+        133
+      ],
+      "pdf_pages": [
+        142,
+        151
+      ],
+      "txt": "Ch12_Small_and_Large_Teams.txt",
+      "supplements": [],
+      "characters": 23507,
+      "sha256": "df2b6a05e4cf2b79f699bf0cb449e80e48cbad689dcc5457b4733a3ea8446a2f"
+    },
+    {
+      "chapter": 13,
+      "title": "Scientific Credit",
+      "chinese_navigation_label": "科学贡献的认可",
+      "part": "II",
+      "part_title": "The Science of Collaboration",
+      "print_pages": [
+        134,
+        146
+      ],
+      "pdf_pages": [
+        152,
+        164
+      ],
+      "txt": "Ch13_Scientific_Credit.txt",
+      "supplements": [],
+      "characters": 30948,
+      "sha256": "eca3f79f56d4bccb3262441d302b7f1ab7a6555ce896003e7ab0de3b060a93bd"
+    },
+    {
+      "chapter": 14,
+      "title": "Credit Allocation",
+      "chinese_navigation_label": "贡献认可的分配",
+      "part": "II",
+      "part_title": "The Science of Collaboration",
+      "print_pages": [
+        147,
+        158
+      ],
+      "pdf_pages": [
+        165,
+        176
+      ],
+      "txt": "Ch14_Credit_Allocation.txt",
+      "supplements": [],
+      "characters": 27808,
+      "sha256": "69db07b528f6bb9ba35ba31fcb3d9c66686627206ffb37e8f863a317d0654e3c"
+    },
+    {
+      "chapter": 15,
+      "title": "Big Science",
+      "chinese_navigation_label": "大科学",
+      "part": "III",
+      "part_title": "The Science of Impact",
+      "print_pages": [
+        161,
+        173
+      ],
+      "pdf_pages": [
+        179,
+        191
+      ],
+      "txt": "Ch15_Big_Science.txt",
+      "supplements": [
+        {
+          "material": "Part III opening",
+          "print_pages": [
+            159,
+            160
+          ]
+        }
+      ],
+      "characters": 35172,
+      "sha256": "a05c4f9fbadcd9a413a2bb68b4f6f6dd448fb3ce014be5ba2b229ab4fd85018a"
+    },
+    {
+      "chapter": 16,
+      "title": "Citation Disparity",
+      "chinese_navigation_label": "引用差异",
+      "part": "III",
+      "part_title": "The Science of Impact",
+      "print_pages": [
+        174,
+        183
+      ],
+      "pdf_pages": [
+        192,
+        201
+      ],
+      "txt": "Ch16_Citation_Disparity.txt",
+      "supplements": [],
+      "characters": 22893,
+      "sha256": "cc28d6f3a9faa63a9f43011699d8499226bc2c3e46e0c53e83b095c1f6a328b8"
+    },
+    {
+      "chapter": 17,
+      "title": "High-Impact Papers",
+      "chinese_navigation_label": "高影响论文",
+      "part": "III",
+      "part_title": "The Science of Impact",
+      "print_pages": [
+        184,
+        188
+      ],
+      "pdf_pages": [
+        202,
+        206
+      ],
+      "txt": "Ch17_High_Impact_Papers.txt",
+      "supplements": [],
+      "characters": 12393,
+      "sha256": "6368a86911381031601e6842205d60b62e75f6988b5dd06e88dc7022dc109ddb"
+    },
+    {
+      "chapter": 18,
+      "title": "Scientific Impact",
+      "chinese_navigation_label": "科学影响",
+      "part": "III",
+      "part_title": "The Science of Impact",
+      "print_pages": [
+        189,
+        196
+      ],
+      "pdf_pages": [
+        207,
+        214
+      ],
+      "txt": "Ch18_Scientific_Impact.txt",
+      "supplements": [],
+      "characters": 18817,
+      "sha256": "38cd106ac86207d2715936135b5a6a16a8e9b91caba9d9b4e7d01775f082659c"
+    },
+    {
+      "chapter": 19,
+      "title": "The Time Dimension of Science",
+      "chinese_navigation_label": "科学的时间维度",
+      "part": "III",
+      "part_title": "The Science of Impact",
+      "print_pages": [
+        197,
+        208
+      ],
+      "pdf_pages": [
+        215,
+        226
+      ],
+      "txt": "Ch19_The_Time_Dimension_of_Science.txt",
+      "supplements": [],
+      "characters": 29233,
+      "sha256": "44ca611d1bdad873751d9bd78b31feb9b3e3fe8d8ff0e1f89f521e01da301fdc"
+    },
+    {
+      "chapter": 20,
+      "title": "Ultimate Impact",
+      "chinese_navigation_label": "最终影响",
+      "part": "III",
+      "part_title": "The Science of Impact",
+      "print_pages": [
+        209,
+        219
+      ],
+      "pdf_pages": [
+        227,
+        237
+      ],
+      "txt": "Ch20_Ultimate_Impact.txt",
+      "supplements": [
+        {
+          "material": "Appendix A2 — Modeling Citations",
+          "print_pages": [
+            257,
+            269
+          ]
+        }
+      ],
+      "characters": 56754,
+      "sha256": "511b525c8bb9c628861508ba9b3d985c336a59ab330c1f805f1a702216d47a9b"
+    },
+    {
+      "chapter": 21,
+      "title": "Can Science Be Accelerated?",
+      "chinese_navigation_label": "科学可以加速吗",
+      "part": "IV",
+      "part_title": "Outlook",
+      "print_pages": [
+        223,
+        230
+      ],
+      "pdf_pages": [
+        241,
+        248
+      ],
+      "txt": "Ch21_Can_Science_Be_Accelerated.txt",
+      "supplements": [
+        {
+          "material": "Part IV opening",
+          "print_pages": [
+            221,
+            222
+          ]
+        }
+      ],
+      "characters": 20473,
+      "sha256": "7fdcc73b3527d77890179edf2143f447aca9e79af7d53a587170150a2759ed62"
+    },
+    {
+      "chapter": 22,
+      "title": "Artificial Intelligence",
+      "chinese_navigation_label": "人工智能",
+      "part": "IV",
+      "part_title": "Outlook",
+      "print_pages": [
+        231,
+        240
+      ],
+      "pdf_pages": [
+        249,
+        258
+      ],
+      "txt": "Ch22_Artificial_Intelligence.txt",
+      "supplements": [],
+      "characters": 23403,
+      "sha256": "611ea424509fbdff298547e90225f26c7dc63f0977069c7f37107a25abc2abd7"
+    },
+    {
+      "chapter": 23,
+      "title": "Bias and Causality in Science",
+      "chinese_navigation_label": "科学中的偏差与因果性",
+      "part": "IV",
+      "part_title": "Outlook",
+      "print_pages": [
+        241,
+        251
+      ],
+      "pdf_pages": [
+        259,
+        269
+      ],
+      "txt": "Ch23_Bias_and_Causality_in_Science.txt",
+      "supplements": [
+        {
+          "material": "Last Thought",
+          "print_pages": [
+            252,
+            253
+          ]
+        },
+        {
+          "material": "Complete references",
+          "print_pages": [
+            270,
+            295
+          ]
+        }
+      ],
+      "characters": 99626,
+      "sha256": "3d5e29b99fe1d0ab6a15e9b305547cbd82fdd7d6b3bcd3982ecd6b53b3685734"
+    }
+  ]
+}

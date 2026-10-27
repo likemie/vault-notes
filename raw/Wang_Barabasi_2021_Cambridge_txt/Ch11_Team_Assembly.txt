@@ -1,0 +1,715 @@
+The Science of Science
+Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
+ISBN 9781108492669 | DOI 10.1017/9781108610834
+
+Part II: The Science of Collaboration
+Chapter 11: Team Assembly
+Print pages 110–123; one-based PDF pages 128–141
+
+[English original. Page markers identify print and PDF pages. References remain numbered as in the book. Shared supplementary materials are labelled separately. Download footers and recognized running heads are removed; original text, formulas and line breaks are otherwise retained. Verify exact mathematical notation, diagrams and table layout against the PDF.]
+
+
+========================================================================
+Chapter text
+========================================================================
+
+[p. 110] [PDF page 128]
+
+11                                       TEAM ASSEMBLY
+
+
+         William M. Muir, a professor of animal sciences at Purdue
+University, thinks about team productivity in a different context:
+chickens [169]. Specifically, Muir wanted to know whether he could
+group hens into different cages to maximize the number of eggs they lay.
+Could he, in other words, assemble highly productive teams? That
+question is much easier to answer with chickens than with humans,
+partly because Muir didn’t need a hen’s permission to move her around.
+Plus, performance in this context is easy to measure – all you need to do
+is to count the eggs.
+         Muir assembled two types of cages. First, he identified the most
+productive hen from each cage and put them together in the same cage,
+creating a select group of “super-chickens.” Then Muir identified the
+most productive cage – a group of hens that had produced a lot of eggs
+as a team, although not necessarily as individuals – and left it intact.
+How much better would the offspring of the super-chickens do than the
+most productive existing team? To find out, he let both groups breed for
+six generations (a standard procedure in animal science), after which he
+tallied the eggs.
+         Six generations in, his control group of chickens from the highly
+productive cage were doing just fine. They were a brood of healthy,
+plump, and fully feathered birds, and their egg production had
+increased dramatically over the generations. What about the super-
+chickens? When Muir presented his results at a scientific conference,
+he showed a slide of the descendants of his carefully selected top-
+performers [170]. The audience gasped. After six generations, the
+
+[p. 111] [PDF page 129]
+
+number of chickens in the cage had dwindled from nine to three. The
+rest had been murdered by their coop-mates. And the once-stunning egg
+production of their fore-mothers was a thing of the past. The surviving
+descendants of the super-chickens, now sickly and pocked with battle
+scars, were under so much stress that they barely laid any eggs.
+         We assume, wrongly, that creating a successful team is as simple
+as recruiting the best of the best. Muir’s experiment with chickens is an
+important reminder that there’s far more to it than that. Sure, you need
+talented teammates, but they also must learn to work together, “to
+achieve something beyond the capabilities of individuals working
+alone” [171]. Indeed, just like recipes that produce a memorable dish,
+team assembly is not just about tossing the best ingredients you find in
+your fridge into a pot. We also need to consider how these ingredients fit
+together.
+         So how can scientists leverage singular talents without harming
+the greater team dynamic? Why are some teams exceptionally success-
+ful, winning in a seemingly predictable manner, while some teams flop,
+even when they’re brimming with talent? Over the years, several repro-
+ducible patterns have emerged, which can help us understand and
+predict the success and failure of scientific teams.
+
+
+11.1        Is There Such a Thing As “Too Much Talent”?
+         When it comes to humans, should we really be concerned about
+having too much talent on a team? We tend to think, just as Muir did,
+that when we group top-performers together, we’ll get excellent team
+performance. We even have a name for this approach: the “all-star
+team.” At the very least, an all-star team should create a critical mass,
+the typical thinking goes, helping us to attract even greater talents. To
+see if this is the case, let’s look at the Duke University English
+department.
+         If there has ever been an all-star academic team, it was Duke’s
+English department in the late 1980s and early 1990s [172, 173].
+Hoping to raise Duke’s profile, university administrators decided to
+recruit the cream of the crop. They started by hiring Frank Lentricchia,
+then the most famous graduate of the department, away from Rice
+University in 1984. Next, at Lentricchia’s suggestion, the administration
+recruited Stanley Fish from Johns Hopkins to head the department.
+His chairmanship would go on to become legendary for the
+
+[p. 112] [PDF page 130]
+
+uncompromising and expensive recruiting efforts Fish undertook.
+Indeed, Fish had a knack for hiring scholars who were stars or about
+to become stars. In just a few years, he lured outstanding professors
+from everywhere: Barbara Herrnstein Smith, who was about to become
+president of the Modern Language Association; Guggenheim fellow
+Janice Radway; pioneering queer theorists Eve Kosofsky Sedgwick,
+Jonathan Goldberg, and Michael Moon; future African-American
+studies institution builder Henry Louis Gates Jr.; along with pioneering
+medieval literature scholar Lee Patterson and his influential wife,
+Annabel Patterson.
+         All of a sudden, Fish turned a respectable but staid English
+department into a Who’s Who of the literary world. And these moves
+made an impact: Between 1985 and 1991, graduate applications
+increased four-fold. In the area of gender and literature, US News and
+World Report would eventually rank the graduate program first in the
+country. When an external review committee came in 1992, their
+reports were filled with nothing but admiration: “We were struck by
+the chorus of testimony we heard from faculty outside the department
+that English has become a kind of engine or life-pump for the human-
+ities at Duke, a supplier of intellectual energy and stimulation for the
+university at large. It is not easy to produce changes of this sort.”
+         One can only imagine how shocked the external review com-
+mittee members were when they came back merely six years later for
+their routine evaluation. By the end of spring 1997, Sedgwick, Moon,
+and Goldberg had accepted offers elsewhere; American Literature
+editor Cathy N. Davidson had resigned her professorship to join the
+university administration; Lee Patterson and his wife had defected to
+Yale. Although Lentricchia remained at Duke, he had left the depart-
+ment and publicly denounced his field. Fish, the man who started
+Duke’s empire, also made plans of his own, announcing in July that
+he and his wife, Americanist Jane Tompkins, were leaving for the
+University of Illinois at Chicago, where he would serve as dean of
+the College of Arts and Sciences. By then, Tompkins had practically
+quit teaching, working instead as a cook at a local restaurant. Alas, it
+seemed that professors in the all-star department had not been busy
+with research or teaching, but with waging ego-fueled wars against
+one another. The dramatic demise of the once-great department
+landed on the front page of the New York Times, sealing its tarnished
+legacy [172].
+
+[p. 113] [PDF page 131]
+
+What unfolded in Duke’s English department is often described
+by psychologists as the too-much-talent effect [174], and it applies to
+several other team settings as well. For example, teams composed
+exclusively of high-testosterone individuals experience reduced per-
+formance because group members fight for dominance [175]. Having
+a large proportion of high-status members can also negatively affect the
+performance of financial research teams [176]. Make no mistake, highly
+talented individuals remain critical to team success. A large body of
+research confirms that adding more talents to the team can help improve
+outcomes – but only to a certain extent, beyond which the benefits may
+not be guaranteed.
+         So, when does “all-star” become “too-much-talent”? A com-
+parison of team performance across different sports may offer some
+initial answers. Using real-world sports data, researchers found that
+in both basketball and soccer, the teams with the greatest proportion
+of elite athletes performed worse than those with more moderate
+proportions of top players [174]. In baseball, however, extreme
+accumulation of top talent did not have the same negative effect.
+The difference may be rooted in the fact that baseball depends far less
+on coordination and task interdependence between team members
+than either basketball or soccer. This evidence suggests that the
+transition from “all-star” to “too-much-talent” may be particularly
+pronounced when teams require members to work together as a
+cohesive unit.
+         Applied to science, the implications of these findings are obvi-
+ous: There are few endeavors that require more coordinated, interde-
+pendent, and harmonious teamwork than scientific collaborations. This
+suggests that, scientists should take care not to overstuff their teams
+with all-stars, lest they suffer the same fate as an overloaded soccer team
+or the Duke English department.
+
+
+11.2        The Right Balance
+         Assembling a successful team is not just about finding talents,
+but about choosing team members who offer the right balance of
+traits. But how do we find the right balance? Are we better off
+working with people whom we are familiar with, since they “speak
+our language,” allowing us to march forward in harmonious lock-
+step? Or should we pick collaborators who bring experience,
+
+[p. 114] [PDF page 132]
+
+expertise, and know-how quite different from our own, so that,
+together, we can tackle problems that none of us can solve alone?
+These are some of the most studied questions in the literature of team
+science, attracting researchers in disciplines ranging from psychology
+to economics to sociology [137]. Often this research hinges on the
+assumption that greater heterogeneity within a team leads to more
+diverse perspectives, which, in turn, leads to better outcomes. Yet at
+the same time, there are reasons to believe that diversity may not
+always be a good thing. For example, although diversity may poten-
+tially spur creativity, it can also promote conflict and miscommunica-
+tion [177]. It therefore begs the question: Does diversity in scientific
+collaborations hurt or help?
+         Recent studies have examined many different dimensions of
+diversity, including nationality, ethnicity, institution, gender, academic
+age, and disciplinary backgrounds. These studies offer consistent evi-
+dence that diversity within a scientific team promotes the effectiveness of
+the team, either by enhancing productivity or resulting in works with
+higher impact, or both. Let us briefly review a few key findings in this
+domain:
+
+Ethnic diversity: Using ethnicity as a measure of diversity, researchers
+   found that diversity, or lack thereof, strongly influences both how
+   much we publish and the impact of those publications [178, 179]. In
+   general, authors with English surnames were disproportionately
+   likely to coauthor papers with other authors with English surnames
+   and those with Chinese names were more likely to collaborate with
+   other Chinese scientists. The papers that result from such homo-
+   phily, however, tend to land in lower impact journals and garner
+   fewer citations. Indeed, when researchers studied the ethnic diver-
+   sity of over 2.5 million research papers written by US-based authors
+   from 1985 to 2008, they showed that papers with four or five
+   authors from different ethnicities had, on average, 5–10 percent
+   more citations than those written by authors all of the same ethni-
+   city [178, 179].
+International diversity: A similar effect holds for international diversity
+   [179, 180]. Analyses of all papers published between 1996 and 2012
+   in eight disciplines showed that papers authored by scientists from
+   more countries are more likely to be published by higher-impact
+   journals and tend to receive more citations [180].
+
+[p. 115] [PDF page 133]
+
+Institutional diversity: Teaming up with someone from another insti-
+   tution also seems to reliably improve productivity and result in highly
+   cited work, compared to teaming up with someone down the corri-
+   dor [139, 143, 179]. Examining 4.2 million papers published over
+   three decades, researchers [143] found that across virtually all fields
+   of science, engineering, and social science, multi-university collabor-
+   ations consistently have a citation advantage over within-school
+   collaborations.
+         Interestingly, across various measures of diversity, ethnic diver-
+sity of a team seems to offer the most significant lift in the impact of
+their papers. A group of researchers analyzed over 9 million papers
+authored by 6 million scientists to study the relationship between
+research impact and 5 classes of team diversity: ethnicity, discipline,
+gender, affiliation, and academic age [181]. When they plotted those
+diversity measures against the teams’ five-year citation counts, ethnic
+diversity correlated with impact more strongly than did any other
+category (Fig. 11.1a). The researchers further showed that ethnic diver-
+sity, not some other factor, was indeed behind this impact boost.
+Indeed, even when they controlled for publication year, number of
+authors, field of study, author impact level prior to publication, and
+university ranking, the clear association between diversity and scientific
+impact remained: Ethnic diversity on a team was associated with an
+impact gain of 10.63 percent.
+         One explanation for this relationship is that scientists who
+collaborate with a broader variety of colleagues happen to also do
+better science – that is, the gain could come from having open-minded,
+collaborative team members, not from ethnic diversity itself. To test this
+explanation, researchers devised a measure called “individual diver-
+sity,” which compiled all of an author’s earlier coauthors and examined
+how ethnically diverse that list was. They then compared that to “team”
+diversity, the degree of ethnic diversity among coauthors of a single
+particular paper. The results indicate that while both team and individ-
+ual diversities can be valuable, the former has a greater effect on
+scientific impact (Fig. 11.1b). In other words, impact is really about
+how diverse a team is; not how open to diversity each team member is.
+         Still, the mechanism behind this impact boost remains unclear.
+It could happen because high-quality researchers tend to attract the best
+people from around the world, for example, or because different
+
+[p. 116] [PDF page 134]
+
+(a)                                60                                           (b)
+                                           r = 0.77
+                                    40                                                        Average paper
+                                                                                              citation count
+                                                                                   Group                       Individual
+                                    20
+                                                                                  diversity                     diversity
+
+                                     0
+                                               0.3       0.4         0.5   0.6
+                                                                                                                  High
+                                         Mean group ethnic diversity                   High
+
+
+                                    60
+                                           r = 0.65
+                                    40
+
+
+
+
+ Average five-year citation count
+                                    20
+
+                                                                                                                  Low
+                                     0
+                                         0.2     0.3      0.4        0.5   0.6         High
+                                                      Age diversity
+
+
+
+                                    60
+                                           r = 0.45
+                                    40
+
+
+                                    20                                                                            High
+                                                                                       Low
+                                     0
+                                                0.1            0.2         0.3
+                                                 Gender diversity
+
+
+
+                                    60
+                                           r = 0.28
+                                    40
+                                                                                                                  Low
+                                    20                                                 Low
+
+
+                                     0
+                                         0.2     0.3      0.4        0.5   0.6
+                                                 Affiliation diversity
+
+  Figure 11.1 Team diversity and scientific impact. (a) An analysis of more than
+1 million papers in 24 academic subfields (circles) shows that ethnic diversity
+correlates more strongly (r) with citation counts than do diversity in age, gender, or
+affiliation. (b) Comparing team versus individual diversity reveals that diversity
+within the list of authors on a paper (team diversity) has a stronger effect on citation
+count than diversity in a researcher’s network of collaborators (individual
+diversity). After Powell [182].
+
+[p. 117] [PDF page 135]
+
+cultures cross-fertilize ideas. Regardless of the underlying mechanisms,
+these findings suggest that just knowing a team’s ethnic diversity can
+help predict their scientific impact, which in itself has implications
+[181]. For example, recruiters may want to encourage and promote
+ethnic diversity, especially if new hires complement the ethnic compos-
+ition of existing members. Furthermore, while collaborators with differ-
+ent skill sets are often needed to perform complex tasks, these results
+suggest that multidisciplinarity may be just one of several critical forms
+of diversity. Bringing together individuals of different ethnicities – with
+the attendant differences in culture and social perspectives – may also
+pay off in terms of performance and impact.
+         Keep in mind, however, that the studies covered in this chapter
+relied on publication data, meaning that their findings are limited to
+teams that were successful enough to publish in the first place. However,
+
+
+
+   Box 11.1 Collective intelligence
+   The concept of measurable human intelligence, more commonly known as
+   IQ, is based on one remarkable fact: People who do well on one mental
+   task tend to do well on most others, despite large variation in the nature of
+   the tasks [184]. While still considered controversial, the empirical fact of
+   general cognitive ability, first demonstrated by Spearman [185], is now,
+   arguably, the most replicated result in psychology [184]. But if we can
+   accurately measure individual intelligence – and research shows we can –
+   can we gauge the intelligence of a team?
+          The answer is provided by the concept of collective intelligence
+   [186], referring to the general ability of a group to perform a wide variety
+   of tasks. Interestingly, collective intelligence is not strongly correlated
+   with the average or maximum individual intelligence of the group
+   members. Instead, it’s correlated with the average social sensitivity of
+   group members, equality in the distribution of conversational turn-
+   taking, and the proportion of females in the group. Teams with more
+   socially sensitive people, fewer one-sided conversationalists, and more
+   women have been shown to predictably exhibit superior group perform-
+   ance in a variety of tasks. These results suggest that a team’s ability to
+   perform well depends primarily on the composition of the team and the
+   way team members interact, rather than the characteristics of individual
+   team members.
+
+[p. 118] [PDF page 136]
+
+it is possible that a team’s diversity can increase its chances of failure in
+the stages before publication, potentially because of communication and
+coordination costs or barriers between disciplines. For example, an
+analysis of more than 500 projects funded by the US National Science
+Foundation revealed that the most diverse teams are on average the least
+productive – that is, diversity results in a higher risk of publishing less, or
+not at all [139, 183]. This highlights a major gap in our understanding of
+team science in general: We know very little about teams that failed, an
+issue that we will return to in the outlook chapter (Chapter 23).
+         Therefore, the insights discussed in this chapter should be inter-
+preted under an important condition: when teams do form and publish,
+diversity is associated with a higher impact. Overall, a research team’s
+diversity and breadth of knowledge contribute to the quality of the
+science that the team produces [179]. Having a diverse team means that
+collaborators bring different ideas and ways of thinking to the joint
+effort, improving the outcome of their collaborative work.
+
+
+11.3        Assembling a Winning Team
+         How do we assemble a winning team? The most successful teams
+are embedded in interconnected webs of colleagues from many fields – in
+other words, a large, wide-ranging network from which to draw ideas.
+Being part of such networks can offer the kind of inspiration, support,
+and feedback that leads to the most winning enterprises. But not all
+networks are equally fertile for collaborations, and some can be less
+advantageous. The way a team chooses its members plays an important
+role in how well the team will perform. To see how, let’s look at a simple
+model that aims to capture how teams come together [177, 187].
+         In any team, there are two types of members: (i) Newcomers, or
+rookies, who have limited experience and unseasoned skills, but who
+often bring a refreshing, brash approach to innovation, and (ii) incum-
+bents, the veterans with proven track records, established reputations,
+and identifiable talents. If we categorize all scientists as either rookies
+or veterans, we can distinguish four different types of coauthorship links
+in a joint publication: (1) newcomer–newcomer, (2) newcomer–
+incumbent, (3) incumbent–incumbent, or, if both are incumbents who
+have worked together before, (4) repeat incumbent–incumbent.
+         These four types of links offer a simple way to capture the many
+possible configurations of diversity and expertise among team members.
+
+[p. 119] [PDF page 137]
+
+For example, research on grant-funded projects demonstrates that pro-
+jects whose principal investigators share prior collaboration experience
+(a repeat incumbent–incumbent link) are more likely to be successful
+than those involving members who had never written a joint paper
+before [183]. However, teams that predominantly consist of repeat
+incumbent–incumbent links may be limited in their ability to produce
+innovative ideas because their shared experiences tend to homogenize
+their pool of knowledge. In contrast, teams with a variety of links may
+have more diverse perspectives from which to draw but may lack the
+trust and shared knowledge base needed to make progress.
+         Varying the proportion of the four types of links within a team
+can help us understand how certain coauthorship patterns will impact
+the team’s success. We can explore this relationship using two param-
+eters [187]:
+
+ The incumbency parameter, p, represents the fraction of incumbents
+  within a team. Higher values of p indicate that a team is mostly made
+  up of experienced veterans, whereas low values of p signal that a team
+  consists mostly of rookies. Therefore, the incumbency parameter
+  approximates the collective experience of a team.
+ The diversity parameter, q, captures the degree to which veterans
+  involve their former collaborators. An increased q indicates that
+  incumbents are more inclined to collaborate with those with whom
+  they have collaborated before.
+
+By varying the two parameters, we can set up a generative model that
+not only captures teams with different collaborative patterns [187]
+(see Appendix A.1 for more details), but also helps us quantify the
+relationship between the team assembly patterns and innovative output.
+Indeed, researchers collected the publication records of teams across
+four different scientific disciplines (social psychology, economics, ecol-
+ogy, and astronomy) and extracted the incumbency and diversity
+parameters (p and q) by examining how teams were assembled in each
+case. To measure performance, they compared the values of these
+parameters with each journal’s impact factor, a proxy for the overall
+quality of the team’s output.
+         Across economics, ecology, and social psychology, there is con-
+sistent evidence that a journal’s impact factor is positively correlated with
+the incumbency parameter p, but negatively correlated with the diversity
+parameter, q. This means that the teams publishing in high-impact
+
+[p. 120] [PDF page 138]
+
+journals often have a higher fraction of incumbents. On the other hand,
+the negative correlation between the journal impact factor and diversity
+parameter, q, implies that teams suffer when they are composed of
+incumbents who mainly choose to work with prior collaborators. While
+these kinds of team alignments may breed familiarity, they do not breed
+the ingenuity that new team members can offer.
+
+
+    Box 11.2 Successful teams
+    The recipe for assembling a successful team applies in a broad range of
+    creative enterprises, from Broadway shows to video games to jazz.
+
+       Musicals: In a study of 2,258 musicals performed at least once on
+         Broadway between 1877 to 1990 [187], researchers defined a team as
+         the group of individuals responsible for composing the music, writing
+         the libretto and the lyrics, designing the choreography, directing, and
+         producing the show. And although Broadway musicals and scientific
+         collaborations seem like vastly different creative endeavors, they share
+         the same recipe for success. The best-received musicals benefit both
+         from the experience of veterans and the new ideas and fresh thinking
+         of newcomers.
+       Video games: A study of teams behind 12,422 video games released
+         worldwide from 1979 to 2009 found the most effective collabor-
+         ations were comprised of people who had experience working
+         together but who brought different knowledge and skills to the task
+         at hand [188].
+       Jazz: Data on the entire history of recorded jazz from 1896 to 2010
+         (175,000 recording sessions) revealed that combining musicians who
+         have worked together with new players is critically important to the
+         success of a jazz album, as measured by the number of times an album
+         is released [189]. That was certainly the case with Miles Davis’ Kind
+         of Blue, the most re-issued jazz album in history. By the time the
+         album was recorded, Paul Chambers, the bass player, was a true
+         veteran who’d played a total of 58 sessions. Out of these sessions,
+         22 were with Miles Davis, the trumpeter and band leader, and 8 were
+         with Wynton Kelly, the pianist. However, Davis and Kelly had never
+         played together prior to Kind of Blue. Therefore, while Davis and
+         Kelly were both deeply familiar to Chambers, the fact that they did
+         not know each other added a fresh dynamic to the powerful linkages
+         the incumbent team members already shared, creating a situation ripe
+         for innovation.
+
+[p. 121] [PDF page 139]
+
+Taken together, these results show that there’s a strong correl-
+ation between team composition and the quality of the work they
+produce. In particular, these findings teach us two important lessons
+about how to assemble a successful team [177]. First and foremost,
+experience matters: While brash newcomers may brim with energy and
+are fearless in taking risks, teams composed entirely of rookies are more
+likely to flop. Second, although the experience of veteran scientists is
+important, successful teams include some portion of new people who
+can stimulate new ideas and approaches. Too many incumbents, espe-
+cially those who have worked together repeatedly in the past, limit
+diverse thinking, which can lead to low-impact research.
+
+
+11.4        The Dynamic Duos
+                  If team success depends on the balance of new collabor-
+ators and existing ones, how do scientists typically engage with their
+coauthors? Do we tend to gravitate towards a few very close collabor-
+ators, or do scientific collaborations feature a high turnover rate? An
+empirical analysis of 473 researchers from cell biology and physics and
+their 166,000 collaborators reveals three important patterns in the way
+we form and maintain collaborations [190].
+         First, scientific collaborations are characterized by a high turn-
+over rate, dominated by weak ties that do not last. Indeed, out of the
+more than 166,000 collaboration ties, 60–80 percent lasted for only a
+single year. And even when a relationship lasted more than two years, it
+didn’t have much long-term staying power: Roughly two-thirds of
+collaborators went their separate ways within five years.
+         Second, whereas weak ties dominate most collaborations,
+“super ties” – extremely close working relationships – are more
+common than expected. Nine percent of biologists and 20 percent of
+physicists have a super-tie collaborator with whom they coauthored
+more than half of their papers. In particular, 1 percent of collaborations
+lasted more than 20 years. These capture lifelong collaborative part-
+ners – they are the Batmen and Robins of science. When we quantify the
+frequency of super ties [190], we find that they occur every 1 in 25
+collaborators on average.
+         Third, and most important, super ties yield substantial product-
+ivity and citation premiums [190, 191]. If we compare the papers a
+scientist published with her super tie to those she published with other
+
+[p. 122] [PDF page 140]
+
+collaborators, her productivity with the super tie was roughly eight
+times higher. Similarly, the additional citation impact from each super
+tie is 14 times larger than the net citation impact from all other collabor-
+ators. For both biology and physics, publications with super ties receive
+roughly 17 percent more citations than their counterparts. In other
+words, the work you do with your super tie, if you have one, is what
+tends to define your career.
+          The significant positive impact of super ties reflects the fact that
+“life partners” in science exist for a reason. For example, researchers
+analyzed collaboration records among 3,052 Stanford University fac-
+ulty between 1993 and 2007, extracting data from student dissertation
+records, grant proposal submissions, and joint publications [191]. They
+identified when new, untenured faculty arrived on campus, tracing
+when these newcomers began to form their first ties and exploring
+why some of these relationships persisted over time, becoming repeat
+collaborations. They found that repeated collaborations are of a funda-
+mentally different nature from first-time collaborations – whereas new
+collaborations are mostly driven by opportunity and preference,
+repeated collaborations are a function of obligation and complementary
+experience. Indeed, when someone seeks a collaborator for the first
+time, they tend to select someone who has a similar skill-set, as they
+are less familiar with the other person’s workstyle. Yet, as the two
+work together on more projects, they become better acquainted with
+each other’s unique talents. If they decide to continue collaborating, it
+suggests that each individual has realized that their partner has some-
+thing novel to contribute, which may lead to a better final outcome.
+Thus, productive relationships are most often sustained when the indi-
+viduals have non-identical knowledge, so they can be complementary to
+each other.
+          The value of a super tie is exemplified by the case of Michael
+S. Brown and Joseph L. Goldstein. Professors at the University of Texas
+Southwestern Medical School, Brown and Goldstein have both enjoyed
+stellar careers and achieved remarkable productivity, each publishing
+over 500 papers and earning numerous awards, including the Nobel
+Prize and National Medal of Science. Yet a quick look at their publica-
+tion records reveals a truly special relationship: More than 95 percent of
+their papers are jointly authored. Searching through the Web of Science
+database, we find that Brown and Goldstein coauthored a stunning
+509 papers by 2018. Over the course of their long careers, Goldstein
+
+[p. 123] [PDF page 141]
+
+has published only 22 papers without Brown, and Brown has published
+only 4 papers without Goldstein.
+         The impact of their joint research goes way beyond their aca-
+demic accolades. The duo has made real impact in improving human
+health. In a joint paper published in 1974, Brown and Goldstein dis-
+covered LDL (low-density lipoprotein) receptors, which earned them a
+Nobel Prize in Physiology or Medicine in 1985 [192]. Low-density
+lipoprotein, which is often referred to as the “bad cholesterol,” is highly
+associated with cardiovascular diseases like coronary artery disease, the
+number one killer of people worldwide [193]. Drugs that help lower
+cholesterol levels, called statins, are more widely prescribed than any
+other type of medication. Atorvastatin, the most popular variant of
+statins (marketed under the brand name Lipitor) is the world’s best-
+selling drug of all time, with more than US$125 billion in sales over its
+14-year life-span. It’s not a stretch to say, then, that millions of lives
+have been saved thanks to Brown and Goldstein’s super tie.
+
+
+========================================================================
+Supplement: Appendix A1 — Modeling Team Assembly
+========================================================================
+
+[p. 254] [PDF page 272]
+
+A1                      MODELING TEAM ASSEMBLY
+
+
+
+        In any team, there are two types of members: (1) Newcomers,
+or rookies, who have limited experience and unseasoned skills,
+but who often bring a refreshing, brash approach to innovation, and
+(2) incumbents, the veterans with proven track records, established
+reputations, and identifiable talents. If we categorize all scientists as
+either rookies or veterans, we can distinguish four different types
+of coauthorship links in a joint publication: (i) newcomer–newcomer,
+(ii) newcomer–incumbent, (iii) incumbent–incumbent, or, if both are
+incumbents who have worked together before, (iv) repeat incumbent–
+incumbent.
+        Varying the proportion of these four types of links within a team
+allows researchers to develop a model capturing how teams are assem-
+bled, which then in turn helps us understand how certain coauthorship
+patterns impact the team’s success [187]. The proportions of newcomer–
+newcomer, newcomer–incumbent, incumbent–incumbent, and repeat
+incumbent–incumbent links can be characterized by two parameters:
+The incumbency parameter, p, which represents the fraction of incum-
+bents within a team, and the diversity parameter, q, which captures the
+degree to which veterans involve their former collaborators.
+        As illustrated in Fig. A1.1, the model starts with a pool of
+newcomers (green circles) who haven’t worked with anyone else
+before. Newcomers turn into incumbents (blue circles) when they are
+drafted onto a team for the first time. For simplicity, let’s assume for
+
+[p. 255] [PDF page 273]
+
+6
+                            1                     4              1                   4
+
+                                      3                                  3
+
+                            2                     5              2                   5
+
+
+
+Incumbents                 Incumbents                     Repeat                         Incumbents
+  1 2        p                  1 2
+      4                                                    3 5                             1 2 5      p
+  3 5               4           3 5       p           4                          4                            4
+                                                                     q
+
+                                                           1 2
+             p                                3            3 5           3                            3           6
+                                          p                          q
+Newcomers                  Newcomers                       All                           Newcomers        p
+
+ Figure A1.1 Assembling teams in science. The model starts with a pool of
+newcomers (green circles) and incumbents (blue circles). To draft team members,
+with a probability p we draw from the pool of incumbents, and with a probability
+1 p, we resort to newcomers. If we decide to draw from the incumbents’ pool, the
+diversity parameter q captures the likelihood of involving past collaborators: (i)
+with probability q, the new member is randomly selected from past collaborators
+of a randomly selected incumbent already on the team; (ii) otherwise, the new
+member is selected at random among all incumbents (center-right box). After
+Guimera et al. [187].
+
+
+
+now that all teams have the same size. To draft team members, with
+probability p we draw from the pool of incumbents, and with prob-
+ability 1 p, we resort to newcomers. If we decide to draw from the
+incumbents’ pool and there is already another incumbent on the team
+(second panel), then we have another decision to make: If we need a
+veteran on the team, are we going to introduce a new one or bring in a
+past collaborator? This is captured by the diversity parameter q: (i)
+with probability q, the new member is randomly selected from past
+collaborators of a randomly selected incumbent already on the team,
+mimicking the tendency of existing team members to choose past
+collaborators; (ii) otherwise, the new member is selected at random
+among all incumbents (second panel).
+         Consider, for example, the creation of a three-person team
+(m = 3). At time zero, the collaboration network consists of five
+agents, all incumbents (blue circles). Along with the incumbents, there
+is a large pool of newcomers (green circles) eager to join new teams. As
+a concrete example, let us assume that incumbent 4 is selected as the
+first member in the new team (leftmost box). Let us also assume that
+the second agent is an incumbent, too (center-left box), which means
+
+[p. 256] [PDF page 274]
+
+we need to take the second step, to consider if we should choose from
+past collaborators or a new veteran. In this example, the second agent
+is a past collaborator of agent 4, specifically agent 3 (center-right box).
+Lastly, the third agent is selected from the pool of newcomers; this
+agent then becomes incumbent 6 (rightmost box).
+         The model predicts two distinct outcomes for the coauthorship
+network. The precise shape of the network is largely determined by the
+incumbency parameter p: When p is small, choosing experienced vet-
+erans is not a priority, offering ample opportunities for newcomers to
+enter the field. Yet frequently choosing rookies who have not worked
+with others before means that the coauthorship network will be frag-
+mented into many small teams with little overlap. Increasing p increases
+the likelihood of having veterans on the team, thus increasing the
+chance that a team connects with other teams in the same network.
+Indeed, because veterans are on multiple teams, they are the source of
+overlaps throughout the network. Therefore, as p increases, the for-
+merly fragmented teams start to form a larger cohesive cluster within
+the coauthorship network.
+         Interestingly, comparing the incumbency and diversity param-
+eters (p and q) and a journal’s impact factor, which serves as a proxy for
+the overall quality of the team’s output, researchers find that the impact
+factor is positively correlated with the incumbency parameter p, but
+negatively correlated with the diversity parameter, q. This means that
+teams publishing in high-impact journals often have a higher fraction of
+incumbents. On the other hand, the negative correlation between the
+journal impact factor and diversity parameter, q, implies that teams
+suffer when they are composed of incumbents who mainly choose to
+work with prior collaborators. While these kinds of team alignments
+may breed familiarity, they do not breed the ingenuity that new team
+members can offer.

@@ -1,0 +1,396 @@
+The Science of Science
+Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
+ISBN 9781108492669 | DOI 10.1017/9781108610834
+
+Part IV: Outlook
+Chapter 22: Artificial Intelligence
+Print pages 231–240; one-based PDF pages 249–258
+
+[English original. Page markers identify print and PDF pages. References remain numbered as in the book. Shared supplementary materials are labelled separately. Download footers and recognized running heads are removed; original text, formulas and line breaks are otherwise retained. Verify exact mathematical notation, diagrams and table layout against the PDF.]
+
+
+========================================================================
+Chapter text
+========================================================================
+
+[p. 231] [PDF page 249]
+
+22                              ARTIFICIAL INTELLIGENCE
+
+
+            “What just happened?”
+
+The sentiment circling the hallways of the CASP conference on Decem-
+ber 2, 2018 was one of puzzlement. CASP, short for the Critical Assess-
+ment of Structure Prediction, is a biannual competition aimed at
+predicting the 3D structure of proteins – large, complex molecules
+essential for sustaining life. Predicting a protein’s shape is crucial for
+understanding its role within a cell, as well as diagnosing and treating
+diseases caused by misfolded proteins, such as Alzheimer’s, Parkinson’s,
+Huntington’s, and cystic fibrosis [369]. But how proteins fold their long
+chains of amino acids into a compact 3D shape remains one of the most
+important unsolved problems in biology.
+         Established in 1994, CASP is the Kentucky Derby of protein
+folding. Every two years, leading groups in the field convene to “horse-
+race” their best methods, establishing a new benchmark for the entire
+field. Then the researchers return to their labs, study each other’s
+methods, refine and develop their own approaches, only to reconvene
+and race again in another two years.
+         At the 2018 conference, two things were unusual. First, there
+had been “unprecedented progress in the ability of computational
+methods to predict protein structure,” as the organizers put it. To put
+that progress in perspective, roughly two competitions worth of
+improvement had been achieved in one. Second, this giant leap was
+not achieved by any of the scientists in the field. The winning team was a
+complete stranger to the community.
+
+[p. 232] [PDF page 250]
+
+What happened at the 2018 CASP competition was merely one
+instance out of many in the past few years, where artificial intelligence
+(AI) systematically outperformed human experts in a large variety of
+domains. These advances have led to the consensus that the ongoing AI
+revolution will change almost every line of work, creating enormous
+social and economic opportunities, and just as many challenges [370].
+As society is preparing for the moment when AI may outperform and
+even replace human doctors, drivers, soldiers, and bankers, we must
+ask: How will AI impact science? And, what do these changes mean for
+scientists?
+
+
+22.1        What’s New With This Wave of AI?
+         The technology that underlies the current AI revolution is called
+deep learning, or more specifically, deep neural networks. While there are
+many things AI experts have yet to agree on – including whether we
+should call the field “artificial intelligence” or “machine learning” – there
+is a consensus, in and out of academia, that this really is the next big thing.
+         A defining feature of deep learning is that it really works. Since
+2012, it has beaten existing machine-learning techniques in more areas
+than we can keep track of. These advances have surely changed such
+typical computer science areas as image [371–374] and speech recogni-
+tion [375–377], question answering [378], and language translation
+[379, 380]. But deep neural networks have also shattered records in
+such far-flung domains as predicting the activities of drugs [381], ana-
+lyzing particle accelerator data [382, 383], reconstructing brain circuits
+[384], and predicting gene mutations and expression [385, 386].
+         Most importantly, many of these advances were not incremen-
+tal, but represent jumps in performance. When in 2012, deep learning
+debuted at the ImageNet Challenge, the premier annual competition for
+recognizing objects in images, it almost halved the state-of-art error
+rate. Since then, deep learning algorithms are rapidly approaching
+human-level performance. In some cases, like strategy games such as
+Go or shogi (Japanese chess), and multi-player video games that empha-
+size collaborations, or bluffing at Texas hold’em tables, they even
+surpass the performance of human experts. At the CASP conference in
+2018, deep learning added one more accolade to its growing resume of
+super-human performances: It beat all scientists at predicting the 3D
+structure of proteins.
+
+[p. 233] [PDF page 251]
+
+In simple terms, AI helps us find patterns or structures in data
+that are implicit and probabilistic rather than explicit. These are the
+type of patterns which are easy for humans to find (i.e., where the cat is
+in a picture) but were traditionally difficult for computers. More pre-
+cisely, it used to be difficult for humans to translate such tasks to
+computers. With AI, the machines have developed an uncanny way to
+do this translation themselves.
+         Although AI is popping up everywhere, major recent advances
+all hinge on a single approach: Supervised learning, where algorithms
+are supplied with only two sets of information – a large amount of
+input, or “training data,” and clear instructions (“labels”) for sorting
+the input. For example, if the goal is to identify spam emails, you supply
+the algorithms with millions of emails and tell it which ones are spam
+and which are not. The algorithm then sifts through the data to deter-
+mine what kinds of emails tend to be spam. Later, when shown a new
+email, it tells you if it looks “spammy” based on what it has
+already seen.
+         The magic of deep learning lies in its ability to figure out the
+best way of representing the data without human input. That’s thanks
+to its many intermediate layers which each offer a way to represent and
+transform the data based on the labels. With sufficient number of layers,
+the system becomes very good at discovering even the most intricate
+structures or patterns hidden in the data. More notably, it can discover
+these patterns all by itself. We can think of the different layers of deep
+neural networks as having the flexibility of tuning millions of knobs. As
+long as the system is given enough data with clear directions, it can tune
+all the knobs automatically and figure out the best way to represent
+the data.
+         What’s so different about AI this time around? After all, more
+than 20 years ago, IBM’s chess-playing program, Deep Blue, beat Garry
+Kasparov, back then the world champion. In the past AI was meticu-
+lous, but it lacked intelligence. Deep Blue defeated Mr. Kasparov
+because it could evaluate 200 million positions per second, allowing it
+to anticipate which move was most likely to lead to victory. This type of
+AI fails at more complex games like Go or the protein folding problem,
+where it can’t process all the possibilities.
+         Deep learning, on the other hand, has been wildly successful in
+these arenas. In 2016, AlphaGo, created by researchers at DeepMind,
+defeated the world Go champion Lee Sedol over five matches. It didn’t
+
+[p. 234] [PDF page 252]
+
+win by evaluating every possible move. Instead, it studied games of Go
+completed by human players, learning what kinds of moves tend to lead
+to victory or defeat.
+         But why learn from us, when the system could learn from itself?
+Here is where it gets really interesting. Merely one year after AlphaGo’s
+victory over humans, DeepMind introduced AlphaZero [387], which
+has no prior knowledge or data input beyond the rules of the game. In
+other words, it truly started from scratch, teaching itself by repeatedly
+playing against itself. AlphaZero not only mastered Go, it also mastered
+chess and shogi, defeating every human player and computer program.
+         Most importantly, because AlphaZero didn’t learn from human
+games, it doesn’t play like a human. It’s more like an alien, showing a
+kind of intuition and insight which grandmasters had never seen before.
+Ke Jie, the world champion of Go, remarked that AI plays “like a god.”
+Indeed, it didn’t rely on human knowledge to discover its intricate,
+elegant solutions. And AlphaZero managed this feat at super-human
+speed: After a mere four hours of chess training and eight hours of Go
+training, its performance exceeded the best existing programs.
+         Think about these numbers again. We gave an AI algorithm the
+rules of humanity’s richest and most studied games, left it with only the
+rules and a board, and let it work out strategies by itself. It started by
+making all sorts of stupid mistakes, like all beginners do. But, by the
+time you came back and checked on it later that day, it had become the
+best player there has ever been.
+         If deep learning can beat humanity at its own board games,
+finding previously unimagined solutions to complex problems, how will
+it impact science, a discipline dedicated to advancing creative
+innovation?
+
+
+22.2        The Impact of AI on Science
+         There are two major avenues through which AI could affect the
+way we do science. One is similar to what Google has done to the
+Internet: AI will drastically improve access to information, optimizing
+the various aspects of science, from information access to the automa-
+tion of many processes scientists now perform. This is the utopic ver-
+sion, as most scientists would welcome the automation of the routine
+tasks, allowing us to focus on the creative process. The other avenue
+will be more similar to what AlphaGo has done to games of Go: AI
+
+[p. 235] [PDF page 253]
+
+systems could offer high-speed, creative solutions to complex problems.
+In a dystopic world, AI could one day replace us, scientists, moving
+science forward with a speed and accuracy unimaginable to us today.
+
+
+22.2.1      Organizing Information
+         Artificial intelligence already powers many areas of modern
+society. Every time you type a search query into Google, AI scours the
+web, guessing what you really want. When you open the Facebook app,
+AI determines which friend’s update you see first. When you shop on
+Amazon, AI offers you products that you may also like, even though
+these items were never on your shopping list. AI is also increasingly
+present in our devices. When you hold up your smartphone to snap a
+photo, AI circles in on faces and adjusts the focus to best capture them.
+When you address your “personal assistant” – Siri, Alexa, or Cortana –
+you’re relying on AI to transcribe your commands into text.
+         What aspects of science can be augmented by this kind of AI?
+To begin with, today there is more literature published than we could
+ever hope to keep up with. Could AI identify and personalize what
+papers we should read? Can it cohesively summarize the text of these
+papers, extracting the key findings relevant to us, creating a newsletter-
+style digest of the key advances in the field? These new capabilities will
+help researchers expand the depth and quality of knowledge they
+acquire, as well as help identify new research possibilities.
+         For decision-makers in science AI could offer a more compre-
+hensive “horizon scanning” capability, suggesting areas for strategic
+investment, and identifying ideas and even assembling teams that could
+lead to transformative science. Publishers may also use deep learning to
+identify which referees to seek for a manuscript, or to automatically
+identify apparent flaws and inconsistencies in a manuscript, avoiding
+the need to bother human reviewers.
+         Some of these applications may seem far-fetched, especially if
+we hope to achieve the high level of accuracy and reliability that
+scientists and decision-makers require. But the reality is that, although
+technology has substantially re-shaped human society in the past two
+decades, technologies that could facilitate scientific processes have
+languished. If you’re unconvinced, just take a look at the grant submis-
+sion websites of the National Science Foundation, or at the Scholar-
+One manuscript systems which handle most of the site’s editorial
+
+[p. 236] [PDF page 254]
+
+functionalities – they resemble fossil websites abandoned since the dot
+com boom.
+
+
+22.2.2      Solving Scientific Problems
+         Will AI one day help us pose and solve fundamental scientific
+problems? By integrating diverse sources of information that no indi-
+vidual scientist can master, can AI systems help scientists come up with
+more creative and better solutions faster? Can it also suggest new
+hypotheses, or even new areas to explore?
+         We’ve already seen some encouraging early progress in this
+area. For instance, researchers applied deep learning to medical diagno-
+sis and developed an algorithm to classify a wide range of retinal
+pathologies, obtaining the same degree of accuracy as human experts
+[388]. In another example, an AI algorithm trained to classify images of
+skin lesions as benign or malignant achieved the accuracy of board-
+certified dermatologists [389]. And in emergency rooms, deep learning
+can now help us to decide whether a patient’s CT scan shows signs of a
+stroke [390]. The new algorithm flagged these telltale signals at a level
+of accuracy comparable to medical experts’ – but, crucially, it did so
+150 times faster.
+         And of course, there’s AlphaFold, the deep learning system that
+filled CASP attendees with awe. In the CASP contest, competing teams
+were given the linear sequence of amino acids for 90 proteins. The 3D
+shape of these proteins was known but had not yet been published.
+Teams then computed how the proteins would fold. By sifting through
+past known protein folding patterns, the predictions by AlphaFold
+were, on average, more accurate than any of its 97 competitors.
+         These successful uses of AI technology possess the two critical
+ingredients for deep learning: a large amount of training data and a
+clear way to classify it. For example, to detect skin cancers, researchers
+fed the algorithm with millions of images of skin lesions, telling it which
+ones are benign and which are malignant. Because the algorithm didn’t
+go through the same training as dermatologists do, it may not see the
+same patterns that dermatologists are trained to see. This means, the AI
+system may also recognize patterns that have so far eluded us.
+         What scientific areas would most benefit from these advances?
+It may be helpful to think about this question in terms of the two critical
+ingredients for deep learning – copious data and clear perimeters for
+
+[p. 237] [PDF page 255]
+
+sorting it. This suggests that scientific areas that may more directly
+benefit from AI technology are those that are narrow enough, so that
+we can provide an algorithm with clear sorting strategies, but also deep
+enough that, by looking at all the data – which no scientist could ever
+do – could allow the AI to arrive at new results.
+         But most importantly, although machines are rapidly improving
+their efficiency and accuracy, the most exciting future of science belongs
+to neither humans or machines alone, but to a strategic partnership
+between the two.
+
+
+22.3        Artificial and Human Intelligence
+         Let’s think again about what happened in the AlphaFold case.
+Scientists using a new technology but without expertise or training in
+the specific scientific domain, were able to outperform the entire com-
+munity of experts relying on traditional technologies. This example
+raises an important question: what if we pair the latest technology with
+researchers’ subject matter expertise?
+         A critical area of future science of science research concerns the
+integration of AI so that machines and minds can work together.
+Ideally, AI will broaden a scientist’s perspective in a way that human
+collaborators can’t, which has far-reaching implications for science.
+         A recent example comes to mind. Hoping to remedy a present-
+day challenge in science known as the “reproducibility crisis,” research-
+ers used deep learning to uncover patterns in the narrative of scientific
+papers which signal strong and weak scientific findings. In 2015, the
+“Reproducibility Project: Psychology” (RPP) manually tested the replic-
+ability of 100 papers from top psychology journals by using the exact
+procedures implemented in the original studies, finding that 61 of 100
+papers failed their replication test [328]. Since then, studies in psych-
+ology, economics, finance, and medicine have reported similar cases for
+papers that fail to reproduce [391–394].
+         In response, researchers combined artificial and human intelli-
+gence to estimate replicability [395]. Using data on 96 studies that
+underwent rigorous manual replication tests, they trained a neural
+network to estimate a paper’s likelihood of replicability and tested the
+model’s generalizability on 249 out-of-sample studies. The results are
+fascinating: The model achieved an average area under the curve (AUC)
+of 0.72, indicating that its predictions were significantly better than
+
+[p. 238] [PDF page 256]
+
+chance. To put this result in context relative to the prognosticative
+information provided by expert reviewers, researchers trained a new
+AI model that used only reviewer metrics using the same data and
+training procedures, finding that the reviewer metrics-only model is
+significantly less accurate than the narrative-only model (an AUC of
+0.68). These results suggest that the AI relies on diagnostic information
+not captured by expert reviewers. Indeed, although the statistics
+reported in the paper are typically used to evaluate its merits, the
+accuracy of the AI shows that the narrative text actually holds more
+previously unexplored explanatory power. Most importantly, combin-
+ing the information from the narrative model and the reviewer metrics
+model – in other words, combining the insights of machines and
+humans – yields a new AI model with the highest accuracy (AUC =
+0.74).
+         Analyses of the mechanisms behind the model’s predictive
+power indicate that conspicuous factors – such as word or persuasion
+phrase frequencies, writing style, discipline, journal, authorship, or
+topics – do not explain the results. Rather, the AI system uses an
+intricate network of linguistic relationships to predict replicability.
+And while words outnumber statistics in scientific papers by orders of
+magnitude, a paper’s text has so far been largely unexploited in the
+science of science. Algorithms can now take advantage of the full text of
+papers, to detect new patterns and weak scientific findings that human
+experts may miss.
+         This example highlights a novel, and potentially formidable,
+human–machine partnership. Indeed, while machines can consume
+and digest more information than humans can, the current AI applica-
+tions all belong to the category of “narrow AI,” in that they can only
+tackle a specifically defined problem. In this respect, current AI systems
+are much like washing machines. They can wash any piece of clothing
+you throw their way, but they wouldn’t know what to do with your
+dishes. For that, you need to build another narrow machine called a
+dishwasher. Similarly, we can build AI systems that are extremely good
+at protein folding, but which can do almost nothing else. By contrast,
+humans have the ability to learn, extrapolate, and think creatively in
+ways that machines can’t.
+         The physics Nobel laureate Frank Wilczek famously predicted
+that, in 100 years, the best physicist will be a machine. Advances like
+AlphFold offer credibility to this prediction. But Wilczek’s prediction
+
+[p. 239] [PDF page 257]
+
+also simplifies a complex picture: science is not only about solving well-
+defined problems. The most admired scientists are often those that
+propose new problems and identify new areas of study. Those that
+realize that the tools and the knowledge have advanced to the point
+that new discoveries are possible to break through from fallow grounds.
+It took humans, therefore, to realize that time is ripe to enter these new
+areas, and to address the challenges they present. It took humans to
+realize that the data and tools have matured enough that we can move
+forward successfully. That is, science is not only about problem solving.
+It is also about intuition, and ability to spot new frontiers, courage to go
+there, and leadership.
+          AI has made fabulous advances in solving problems posed by
+humans. It could even formulate new hypotheses within the realm of an
+existing body of knowledge and paradigm. Will AI ever get to the point
+to detect the need for a new theory, like evolution or quantum mechan-
+ics, and pursue it doggedly? As of now, there are no indications on the
+horizon that AI is capable of that, and many AI experts doubt it could
+ever be possible [396]. Hence, for now machines do not yet claim
+potential ownership over the future of science. Rather, our most excit-
+ing future discoveries require a strategic partnership between humans
+and machines. Indeed, if we assign tasks based on the abilities of each
+partner, scientists working in tandem with machines will potentially
+increase the rate of scientific progress dramatically, mitigate human
+blind spots, and in the process, revolutionize the practice of science.
+
+                                                      *
+There is, however, an important “but.” A major drawback with the
+current wave of AI is that it’s a black-box. Sure, it works really well,
+but no one knows why – which could be a big problem, especially in
+science. To see why, consider Amazon’s experience of using AI to pick
+their future employees. Since 2014, Amazon has been building com-
+puter programs to review job applicants’ resumes. The company’s
+experimental AI tool rated job candidates by one to five stars – much
+like shoppers do when they rate products on Amazon. At first glance, it
+looked to be an HR holy grail. You give it 100 resumes, and it’ll spit
+out the top five. But soon, the company realized that its new algorithm
+systematically penalized female candidates. The program was trained
+to vet applicants by observing patterns in resumes submitted to the
+company over a 10-year period, most of which came from men. So, the
+
+[p. 240] [PDF page 258]
+
+system quickly taught itself to prefer male candidates. It penalized
+resumes that included the word “women” and downgraded graduates
+of two all-women’s colleges [397].
+          The moral of this story is not that AI can’t do its job right. After
+all, the system did exactly what it was trained to do. Humans asked it to
+look at millions of past resumes, both rejects and hires, and to use this
+information to spot future hires. What Amazon’s debacle illustrates is
+that, as our tools grow in accuracy and sophistication, they’ll amplify
+and help perpetuate whatever biases we humans already have. Which
+means that as the science of science advances, there will be an increased
+need to understand biases and causal relationships in the tools and
+metrics our community builds.

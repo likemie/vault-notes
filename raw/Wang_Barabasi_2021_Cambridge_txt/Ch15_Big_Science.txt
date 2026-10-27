@@ -1,0 +1,656 @@
+The Science of Science
+Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
+ISBN 9781108492669 | DOI 10.1017/9781108610834
+
+Part III: The Science of Impact
+Chapter 15: Big Science
+Print pages 161–173; one-based PDF pages 179–191
+
+[English original. Page markers identify print and PDF pages. References remain numbered as in the book. Shared supplementary materials are labelled separately. Download footers and recognized running heads are removed; original text, formulas and line breaks are otherwise retained. Verify exact mathematical notation, diagrams and table layout against the PDF.]
+
+
+========================================================================
+Part III opening: The Science of Impact
+========================================================================
+
+[p. 159] [PDF page 177]
+
+Part
+     III                     THE SCIENCE OF IMPACT
+
+         “If I have seen further, it is by standing on the shoulders of
+giants,” wrote Isaac Newton in a letter to Robert Hooke on February
+1676 [240]. That oft-quoted line succinctly captures a fundamental
+feature of science: its cumulative nature. Indeed, scientific discoveries
+rarely emerge in isolation but tend to build on previous work by other
+scientists. Scientists throughout the ages have typically acknowledged
+the provenance of the ideas they built upon. Over time this custom has
+turned into a strict norm, giving rise to citations.
+         A citation is a formal reference to some earlier research or
+discovery, explicitly identifying a particular research paper, book,
+report, or other form of scholarship in a way that allows the reader
+to find the source. Citations are critical to scientific communication,
+allowing readers to determine whether previous work truly supports
+the author’s argument. Used appropriately, they help the author
+bolster the strength and validity of their evidence, attribute prior
+ideas to the appropriate sources, uphold intellectual honesty, and
+avoid plagiarism. For the author, citations offer a vehicle to con-
+dense and signal knowledge and eliminate the need to reproduce
+all of the background information necessary to understand the
+new work.
+         Lately, however, citations have taken on an additional role: the
+scientific community has begun using them to gauge the scientific impact
+of a particular paper or body of work. This is possible, the thinking
+goes, because scientists only cite papers that are relevant to their work.
+Consequently, groundbreaking papers that inspire many scientists and
+
+[p. 160] [PDF page 178]
+
+research projects should receive many citations. On the other hand,
+incremental results should receive few or no citations.
+         Yet as straightforward as this linkage between impact and
+citations may appear, it is fraught with ambiguity: How many citations
+constitutes “a lot”? What mechanisms drive the accumulation of cit-
+ations? And what kinds of discoveries tend to garner more citations?
+Can we know how many citations a paper will collect in the future?
+How soon can we tell if a discovery has sparked serious interest? We
+must also take a step back and ask what citation counts tell us about the
+validity and impact of the ideas described in the paper. Put simply: Are
+citations meaningful at all?
+         We seek quantitative answers to these questions in the next six
+chapters. We have previously examined a range of patterns underlying
+individual scientific careers and collaborations in the first two parts of
+this book. Now that we have understood a lot more about the “produ-
+cers” of science, be it individuals or teams, it is now time to focus on
+what they produce. Our first question is therefore, how many papers
+have we produced? For that, we need to go back to 1949 and pay a visit
+to Singapore.
+
+
+========================================================================
+Chapter text
+========================================================================
+
+[p. 161] [PDF page 179]
+
+15                                            BIG SCIENCE
+
+
+          In 1949, Derek de Solla Price was teaching applied mathematics
+at Raffles College in Singapore when the college’s new library received a
+complete set of the Philosophical Transactions of the Royal Society of
+London. Published since 1662, Philosophical Transactions was the first
+journal exclusively devoted to science. As the library was still waiting
+for its future building, de Solla Price kept the volumes at his bedside. He
+spent the next year reading the journals cover to cover, sorting each
+decade of volumes into a separate pile. One day, as he looked up from
+his reading, he made a curious observation: the pile for the first decade
+was tiny, and the second only slightly taller. But as the decades went on,
+the height of the piles began to grow faster and faster, accelerating
+wildly in the most recent decades. Altogether, the 28 piles formed what
+looked like a classic exponential curve.
+          It was an observation that sparked a lifetime of passion – in the
+following decades, de Solla Price would systematically explore how
+science grew over time. By 1961, he had counted everything he could
+get his hands on: the number of scientific journals, the number of
+scientists who contributed to them, and the total number of abstracts
+in multiple fields [241]. No matter which dimension he charted, the
+same exponential curve greeted him, confirming his original insight that
+science was accelerating [241]. “[E]xponential growth, at an amazingly
+fast rate, was apparently universal and remarkably long-lived,” he
+concluded [12].
+          But, de Solla Price was quick to realize, such exponential
+growth is rarely sustainable. We know that from studies on bacterial
+
+[p. 162] [PDF page 180]
+
+colonies: the number of bacteria grows exponentially in the beginning,
+but eventually the nutrients that sustain their growth are exhausted, and
+the growth saturates. Hence, de Solla Price predicted that the exponen-
+tial growth of science must represent merely an initial growth spurt.
+Science must run out of steam and saturate eventually. He even went as
+far as to predict that the rapid growth in science should taper off shortly
+after the 1950s [242].
+         As we show in this chapter, while his observation was real, his
+prediction was wrong. The exponential growth of scientific research has
+continued virtually uninterrupted since de Solla Price’s time, dramatic-
+ally reshaping the world along the way.
+
+
+15.1                         The Exponential Growth of Science
+        Figure 15.1 shows the number of publications indexed yearly
+by Web of Science (WoS), documenting that for over a century the
+number of published papers has been increasing exponentially. On
+average, the total number has doubled roughly every 12 years. The
+
+
+                         6
+                    10            Web of Science
+                                  Core physics
+                         5
+                    10
+
+
+
+
+ Number of papers
+                         4
+                    10
+
+
+                         3
+                    10
+
+
+                         2
+                    10
+
+
+
+                     1900       1910   1920   1930   1940   1950   1960   1970    1980     1990     2000
+                                                            Year
+  Figure 15.1 The growth of science. The number of papers catalogued in the Web
+of Science (WoS) published over the past century, illustrates the exponential growth
+of the scientific literature. It was only disrupted around 1915 and 1940 due to the
+World Wars. The figure also shows the growth of the physics literature, which
+follows an exponential growth similar to that followed by science as a whole. After
+Sinatra et al. [116].
+
+[p. 163] [PDF page 181]
+
+figure also shows that science did not saturate after the 1950s as de Solla
+Price expected. Rather, its exponential growth has continued for the
+past 110 years, an expansion that was halted only temporarily by the
+two World Wars. Moreover, if we measure the growth rate of a single
+discipline, such as physics, we find similar exponential growth
+(Fig. 15.1). The fact that individual disciplines have accelerated in the
+same fashion suggests that the expansion of science is not simply driven
+by the emergence of new fields, but is instead a feature that applies
+across all areas of science.
+         What has the exponential growth of science meant for science,
+and for scientists? In this chapter, we will attempt to answer these
+complex questions.
+
+
+
+   Box 15.1 How many papers are there?
+   Considering the exponential growth of science over the centuries, you
+   might wonder how many papers science has produced. In 2014, research-
+   ers estimated the total number of scholarly documents on the Internet
+   using a “mark and recapture” method [243] (originally developed by
+   ecologists to estimate the population size of wild animals when they
+   cannot count every individual). They found that back then, there were at
+   least 114 million English-language scholarly documents accessible on the
+   Web. Obviously, given the size of the Internet, we will never know the
+   precise number of scholarly documents out there. But whatever the esti-
+   mated number may be at any given point in time, it would quickly become
+   outdated. Indeed, thanks to the exponential growth of science, by March
+   2018, four years after the 114 million estimated, Microsoft Academic
+   Search has indexed more than 171 million papers [244].
+
+
+
+
+15.2        The Meaning of Exponential Growth
+        Any system following an exponential growth must expand at a
+rate proportional to its current size. Since the scientific literature
+doubles roughly every 12 years, this means that of all scientific work
+ever produced, half of it has been produced in the last 12 years. Thus,
+science is characterized by immediacy [12]: the bulk of knowledge
+remains always at the cutting edge. Furthermore, with an ever-
+growing number of scientists, scientists are often contemporaneous
+
+[p. 164] [PDF page 182]
+
+with those who have revolutionized their discipline. This is well cap-
+tured by de Solla Price in his book, Little Science, Big Science, and
+Beyond [12]:
+            During a meeting at which a number of great physicists were to
+            give firsthand accounts of their epoch-making discoveries, the
+            chairman opened the proceedings with the remark: “Today we
+            are privileged to sit side-by-side with the giants on whose shoul-
+            ders we stand.” This, in a nutshell, exemplifies the peculiar
+            immediacy of science, the recognition that so large a proportion
+            of everything scientific that has ever occurred is happening now,
+            within living memory. To put it another way, using any reason-
+            able definition of a scientist, we can say that 80 to 90 percent of
+            all the scientists that have ever lived are alive now.
+
+To understand what this exponential growth has meant for individuals,
+imagine a young scientist at the beginning of her career [12]. After years
+of reading the literature, with guidance from knowledgeable mentors,
+she has finally reached the frontier of her discipline, and is ready to
+strike out on her own. If science had stopped growing years ago, she
+would be voyaging alone into uncharted seas. While happily making
+discovery after discovery, she would also be quite lonely, having rela-
+tively few peers with whom to collaborate or learn from. Hence, in this
+respect, the continual growth of science is good news, supplying ample
+like-minded colleagues and interesting ideas, so that scientists can build
+on the work of one another and explore the world of unknowns
+together.
+         But the rapid expansion of science gives rise to another prob-
+lem. As our young scientist unties the rope and tries to sail away from
+the harbor, she will find that there are many other boats, big and small,
+headed in the same direction, captained by peers with the same level of
+training, ambition, determination, and resources. This competitive
+environment will have serious consequences for our young scientist
+throughout her career.
+         First, try as she might, it will not be possible for her to monitor
+closely where each boat is headed. While the volume of new knowledge
+grows exponentially, the time a scientist can devote to absorbing new
+knowledge remains finite. As such, it is impossible for an individual
+today to read every paper in her own field.
+
+[p. 165] [PDF page 183]
+
+Perhaps more importantly, each of those boats is hoping to
+discover something new. Indeed, in science, priority for a discovery
+has always been of key importance. Our young scientist would rather
+chart a new water than to sail in the wake of others. But so much
+competition may affect the individual’s odds of making that grand
+discovery.
+         Many people have a heroic conception of science, believing
+that the field is moved forward by a small number of geniuses. But in
+reality, groundbreaking discoveries are often the culmination of years
+of hard work by many scientists. A “Eureka” moment happens when
+someone acknowledges what came before and manages to take the
+next logical leap. Indeed, Francis Bacon once argued, all innovations,
+social or scientific are “a birth of time rather than of wit” [245]. In
+other words, apples fall when they are ripe, regardless of who is around
+to harvest them. Thus, if a scientist misses a particular discovery,
+someone else will discover it instead. After all, if we already have a
+steam engine and a boat, how long will it take for someone to invent a
+steamboat?
+         This perhaps underlies one of the most important ways in which
+science differs from other creative endeavors. If Michelangelo or Picasso
+had never existed, the sculptures and paintings we admire in art
+museums would be quite different. Similarly, without Beethoven, we
+would not have the 5th Symphony, nor the distinctive “Pa pa pa PAM!”
+However, if Copernicus had never existed, we would not have arrived at
+an alternative description of the solar system – sooner or later we would
+have figured out that the Earth orbits around the Sun, and not the other
+way around.
+         This has important implications for scientists: Apples may not
+care who harvests them – but for apple pickers, being the first to reach a
+ripe apple is critical. If science is a race to be the first to report a
+discovery, then the exponential growth of science poses a major ques-
+tion: Did the increasing competition make it more difficult to practice
+science?
+         The answer is not obvious. After all, as spectacular as the recent
+growth of science has been, the historical record suggests that pressures
+to digest and create new knowledge are not new. For example, in
+1900, after being scooped by Pierre and Marie Curie on a radioactivity
+paper, Ernest Rutherford wrote: “I have to publish my present work as
+
+[p. 166] [PDF page 184]
+
+rapidly as possible in order to keep in the race” [246] (see Box 15.1). Or
+consider this confession [12]:
+
+            One of the diseases of this age is the multiplicity of books; they
+            doth so overcharge the world that it is not able to digest the
+            abundance of idle matter that is every day hatched and brought
+            forth into the world.
+This passage by Barnaby Rich dates back to 1613, half a century before
+the publication of the first scientific journal. Clearly the experience of
+feeling overwhelmed by the quantity of existing knowledge – and
+daunted by the prospect of adding to it – predates our generation. So,
+is practicing science really getting harder? To find out, let’s break down
+the steps required to become a successful scientist, examining how each
+step has evolved in this age of big science.
+
+
+    Box 15.2 The birth of “letters”
+    Letters are a common publication format in many journals, such as
+    Nature or Physical Review Letters. But the title may seem deceiving;
+    these “letters” are usually complete research papers, rather than any-
+    thing resembling a letter. So where does the name come from? It
+    traces back to Ernest Rutherford, whose pragmatic choice of communi-
+    cating his research shaped the way we disseminate scientific knowledge
+    today [247].
+           At the beginning of the twentieth century, being the first to make a
+    discovery was already an important goal; however, very few journals
+    published frequently enough to allow for the rapid dissemination of new
+    discoveries [248]. One such journal was Nature, which was published
+    weekly and was read by European (mainly British) scientists, Rutherford’s
+    primary competition and audience. He cleverly started using the “Letters
+    to the Editor” section – a column traditionally dedicated to comments on
+    someone else’s work – as a way to rapidly communicate his own discover-
+    ies and establish priority. If you read Rutherford’s “letters” as far back as
+    1902, you will find that they look more like scientific papers than short
+    commentaries. This Trojan horse approach proved so successful that it
+    was soon adopted by Rutherford’s students and collaborators, notably
+    Otto Hahn, Niels Bohr, and James Chadwick. By the 1930s Otto Frisch,
+    Lise Meitner, and the “Copenhagen school” of physicists working with
+    Bohr had adopted it, eventually morphing the letters section into the
+    format we know today.
+
+[p. 167] [PDF page 185]
+
+Time to completion
+                         10
+
+
+
+
+            Number of years
+                              8
+
+                              6
+                                                    Earth, atmospheric,
+                              4                     and ocean sciences
+                                                    Physical sciences
+                              2
+                                                    Biological sciences
+
+                              0
+                                  1979   83   87   91     95   99   03    07
+                                                   Year
+             Figure 15.2 How long does it take to get a PhD in the United States? In
+            2007, it took a median of 7.2 years to complete a science or engineering
+            PhD. After Cyranoski et al. [252].
+
+
+
+15.3        Is it Getting Harder to Become a Scientist?
+        Becoming a scientist these days requires a number of essential
+steps, from getting the appropriate degree, to finding employment
+that allows the individual to pursue science. The rapid growth of
+training opportunities and that of the scientific workforce have
+affected these steps.
+
+
+15.3.1      Obtaining a PhD
+         Figure 15.2 plots the time it takes to complete a science PhD in the
+United States, showing that the process today takes only slightly longer
+than it did 40 years ago. Despite a slight downward trend in the last two
+decades, the average time to degree in the life sciences and engineering
+remains six to eight years. In fact, the five years quoted by most PhD
+programs, remains a dream for most candidates – less than 25 percent of
+students manage to complete degrees within this period [249, 250].
+Instead, 55 percent of candidates require seven or more years to complete
+their degree. And these statistics only count the individuals who do obtain
+a degree, obscuring the fact that 40 percent to 50 percent of candidates
+who begin their doctoral education in the US never graduate [249, 251].
+         It certainly seems easier than ever to begin doctorate training,
+given the rapidly growing number of programs. But, why does it take so
+long to acquire a PhD? Multiple measures show that, once enrolled in
+
+[p. 168] [PDF page 186]
+
+the program, it is getting harder to produce the dissertation required for
+graduation.
+         Consider, for example, the length of the thesis itself: The average
+length of biology, chemistry, and physics PhD theses nearly doubled
+between 1950 and 1990, soaring from 100 pages to nearly 200 pages
+in just four decades [76]. The number of references contained in a paper
+has been also rising over the years [253], indicating that research papers
+today build on a larger body of previous knowledge than ever before.
+Finally, the bar for publishing that dissertation – often a key milestone
+for aspiring scientists – has also grown higher: Comparing biology
+papers published in three major journals in the first six months of
+1984 with the same period in 2014, researchers found that the number
+of panels in experimental figures (the charts and graphs published along-
+side papers) rose two- to four-fold [254], indicating that the amount of
+evidence required for a successful publication has increased significantly.
+         These statistics make clear how hard it has become to earn a
+PhD. But completing one’s degree is only the first step toward a success-
+ful career in science.
+
+
+15.3.2      Securing an Academic Job
+         Price’s observation that “80 percent to 90 percent of the scien-
+tists who ever lived are alive now” memorably illuminates the exponen-
+tial growth of the scientific workforce. Yet not all parts of the academic
+pipeline have expanded equally quickly. For example, the number of
+science doctorates earned each year grew by nearly 40 percent between
+1998 and 2008, reaching 34,000 across the 34 countries that constitute
+the Organization for Economic Co-operation and Development
+(OECD) [252]. In the same three decades, however, the number of
+faculty positions in those nations has remained largely unchanged and
+even fallen slightly (Fig. 15.3) [251].
+         While not everyone with a PhD aims to secure an academic
+position, the vast majority of PhDs today do seem to prefer an academic
+career to alternatives in industry, government, or non-profits. In a
+world-wide survey conducted by Nature in 2017, nearly 75 percent of
+the 5,700 doctoral students polled preferred a job in academia to these
+non-academic alternatives [255]. For them, the trend shown in Fig. 15.3
+may seem disheartening, showing a steadily growing PhD pool compet-
+ing for a fixed number of opportunities.
+
+[p. 169] [PDF page 187]
+
+45k
+                                     Faculty positions
+                            40k      PhDs awarded
+
+                            35k
+
+                            30k
+
+
+
+
+            Annual number
+                            25k
+
+                            20k
+
+                            15k
+
+                            10k
+
+                             5k
+
+                              0
+                              1982                 1996                      2010
+                                                    Year
+              Figure 15.3 The academic pipeline. Since 1982, almost 800,000 PhDs
+            have been awarded in science and engineering (S&E). These graduates
+            competed for about 100,000 academic faculty positions. The number of
+            S&E PhDs awarded annually gradually increased over this time frame,
+            from 19,000 in 1982 to 36,000 in 2011. Yet the number of faculty
+            positions created each year has remained stable or even fallen slightly.
+            In 2010, the 40,000 PhD candidates competed for roughly 3,000 new
+            academic positions. After Schillebeeckx et al. [251].
+
+
+
+         One consequence of increasing PhD production is a booming
+number of postdoctoral fellowships, representing short-term, non-tenure
+track research positions. As Fig. 15.5 illustrates, the number of research-
+ers in US postdoctoral positions has more than tripled since 1979, with
+growth particularly prominent in the life sciences. Although postdocs
+drive research in many disciplines, they are often poorly compensated.
+Five years after receiving a PhD, the median salaries of scientists in
+tenure-track positions or industry far outstrip those of postdocs.
+         Such bleak prospects for landing a full-time university job
+means that many scientists have to seek alternatives outside academia.
+But how well do they fare once they leave science? To answer this
+question, researchers collected data in eight American universities and
+linked anonymized census data on employment and income to adminis-
+trative records of graduate students at these universities [257]. Focusing
+
+[p. 170] [PDF page 188]
+
+Box 15.3 Academic pipelines around the world (Figure 15.4)
+The United States produced an estimated 19,733 PhDs in the life and
+physical sciences in 2009 [252], a number that has continued to increase
+ever since. But the proportion of science PhDs who secure tenure-track
+academic positions has been dropping steadily, and industry has not been
+able to fully absorb the slack. In 1973, 55 percent of US doctorates in the
+biological sciences had secured tenure-track positions six years after com-
+pleting their PhDs, and only 2 percent were still in a postdoc or other
+untenured academic position. By 2006, the fraction of graduates who had
+secured a tenure-track position within six years dropped to 15 percent –
+but 18 percent were now holding untenured positions.
+
+
+
+
+ Figure 15.4        Academic pipelines around the world.
+
+
+       The number of PhD holders in mainland China is also going
+through the roof, with some 50,000 students graduating with doctorates
+across all disciplines in 2009, more than twice the number of US degree
+recipients. However, thanks to China’s booming economy, most Chinese
+PhD holders quickly find jobs in the private sector.
+       Japan, too, has sought to get its science capacity on par with the
+West. In 1996, the country’s government announced an ambitious initia-
+tive to increase the number of Japanese postdocs to 10,000. Yet, the
+government gave little thought to where all those postdocs would find
+jobs. Even though the government once offered companies a subsidy of
+around 4 million yen (US$47,000) to hire these well-educated individuals,
+the country still has 18,000 former postdocs who are still unemployed.
+
+[p. 171] [PDF page 189]
+
+70
+                                              Health                    Median Non-postdoctoral                                   US$76,000
+                                              Engineering               salaries
+
+
+
+
+Postdoctoral appointees (thousands)
+                                              Science                     2010 Postdoctoral              $43,000
+                                      60
+
+                                                                                                                   Physical sciences 13%
+                                      50
+
+
+                                      40
+                                                                                                                          Engineering 11%
+
+                                      30
+                                                                                                   Postdoc
+                                                                                                  disciplines               Maths and computer
+                                                                                                    2012                    sciences 3%
+                                      20
+                                                                                                                           Geosciences 3%
+
+                                      10                                                                                  Psychology,
+                                                                                                                          social sciences
+                                                                        Life sciences                                     and other 5%
+                                                                                 65%
+                                      0
+                                           1979                  2012
+
+                                                                                                                           SOURCE: NATIONAL ACADEMIES
+
+
+
+
+  Figure 15.5 The postdoc pileup. The number of researchers in US postdoctoral
+positions has more than tripled since 1979. The vast majority of postdocs are in the
+life sciences. Across fields, median postdoc salaries are outstripped by those who
+choose non-postdoc careers, when measured up to five years after receiving a PhD.
+After Powell [256].
+
+
+on those PhD students who graduated between 2009 and 2011, they
+found that almost 40 percent had entered industry, with many getting
+jobs at large, high-wage establishments in the technology and profes-
+sional services industries. Top employers included electronics, engineer-
+ing and pharmaceutical companies. These results show that PhDs who
+leave science tend to navigate toward large firms and earn a median
+salary of more than US$90,000. Related research also suggests that
+scientists in the private sector experience very low unemployment rates
+overall [258]. According to the National Science Foundation’s Survey of
+Doctorate Recipients, just 2.1 percent of individuals with doctorates in
+science, engineering, or health in the United States were unemployed in
+2013, while the overall national unemployment rate for people aged
+25 and older was 6.3 percent.
+         Together, these data show that for the voyagers, the ocean of
+knowledge and opportunities is getting increasingly crowded. As the
+number of PhDs grows and the number of available university posts
+remains constant, competition intensifies, leading to a soaring number
+of postdocs, and more people leaving academia to pursue careers else-
+where. But it is important to note that this trend is not necessarily
+detrimental to society, nor to the scientists who pursue a wide range
+of careers. All signs so far indicate that PhDs who leave science do tend
+to find fulfilling jobs. And while they may not be creating knowledge in
+the scholarly sense, their work often leads to critical patents, products,
+
+[p. 172] [PDF page 190]
+
+and innovative solutions. As such, the loss for science is often a gain
+for society.
+
+
+15.4        Is Science Running Out of Gas?
+          As we stated earlier, apples fall when they are ripe – that is,
+scientific breakthroughs are possible once a critical mass of knowledge
+has been amassed. But with more and more people trying to harvest ripe
+apples, has the remaining fruit on the tree become harder to reach?
+More specifically, do new discoveries require more effort now than they
+did in the past?
+          Tracking changes in productivity can help us answer this ques-
+tion. Economists define productivity as the amount of work-hours
+required to produce an output, like building a car or printing a book.
+In science, it corresponds to making a new discovery, measuring the
+amount of effort required to write a research paper. As we have shown,
+both scientific discoveries and the scientific workforce have been grow-
+ing exponentially for decades. But depending on which has grown
+faster, the average productivity per scientist may be either rising or
+falling. And if scientific productivity has indeed decreased, that would
+imply that more labor is now required to achieve any breakthrough – in
+other words, that science may be becoming more difficult.
+          Consider a related example from the computer industry. In 1965,
+Intel cofounder Gordon Moore noticed that the number of transistors
+per square inch on integrated circuit boards (now called microchips)
+had doubled every year since their invention. He predicted that this
+trend would continue into the foreseeable future. Moore’s prediction
+proved correct: For nearly half a century, the chip density has indeed
+doubled approximately every 18 months, representing one of the most
+robust growth phenomena in history. But this growth required the efforts
+of an ever-increasing number of researchers [259]. Indeed, the number of
+individuals required to double chip density today is more than 18 times
+larger than the number required in the early 1970s. Therefore, even
+though processing power continues to grow exponentially, when it comes
+to producing the next generation of microchip, individual productivity
+has plummeted; every new release requires unprecedented amounts of
+manpower. Similar patterns have been observed in a wide array of indus-
+tries, from agricultural crop yields to the number of new drugs approved
+per billion dollars spent on research [259]. This means that in these
+
+[p. 173] [PDF page 191]
+
+industries, the exponential growth of progress hides the fact that
+“apples” are indeed getting harder and harder to find.
+         In science, while the number of publications has grown expo-
+nentially, large-scale text analysis of physics, astronomy, and biomedi-
+cine publications revealed that the number of unique phrases in article
+titles has grown only linearly [260]. This suggests that the cognitive
+space of science – approximating the number of distinct scientific ideas
+in existence – may be growing much slower than scientific outputs.
+         So, is science running out of gas? As shown in this chapter,
+the exponential increase of scientific publications is indeed accompanied
+by an exponential growth in the number of scientists. But, if we compare
+the two growth rates across a large variety of disciplines, ranging from
+computer science to physics and chemistry to biomedicine, we find that
+the former is often comparable with the latter [4]. Indeed, as we discussed
+in Chapter 1, in science, individual productivity has stayed relatively
+stable over the past century, and even increased slightly in recent years.
+         As scientists look back upon the twentieth century, we marvel
+at the discoveries and inventions that our predecessors have made, from
+internal combustion engines to computers to antibiotics. The tremen-
+dous progress in these areas could imply diminishing returns, as the
+sweetest, juiciest apples are already harvested. Yet this does not seem to
+be the case. The data suggests that we are poised to discover and invent
+even more in the next 20 years than we have in all of scientific history.
+In other words, even after a century of breakneck progress, science
+today is fresher and more energetic than ever.
+         How can science continue to run tirelessly after a century of
+exponential growth? Because unlike a car or a colony of bacteria,
+science runs on ideas. While a car will eventually run out of gas, and
+bacteria will run out of nutrients, ideas are resources that grow the more
+they are used. Existing ideas give birth to new ones, which soon begin to
+multiply. So, while our ability to further improve internal combustion
+engines, computers, or antibiotics may indeed have diminished, we now
+look forward to new advances in genetic engineering, regenerative
+medicine, nanotechnology, and artificial intelligence – fields that will
+once again revolutionize science and our society, opening up whole new
+chapters beyond our wildest imagination.

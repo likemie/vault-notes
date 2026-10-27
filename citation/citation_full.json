@@ -9831,6 +9831,24 @@
       "title": "Argument_Wadhwa_2024_RER",
       "year": "2024"
     },
+    "Wang & Barabási, 2021": {
+      "aliases": [
+        "Wang & Barabási, 2021",
+        "Wang and Barabási (2021)"
+      ],
+      "argument": "Argument_Wang_Barabasi_2021_Cambridge",
+      "authors": [
+        "Wang, D.",
+        "Barabási, A.-L."
+      ],
+      "citation": "Wang, D., & Barabási, A.-L. (2021). The science of science. Cambridge University Press. https://doi.org/10.1017/9781108610834",
+      "doi": "10.1017/9781108610834",
+      "isbn": "9781108492669",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md",
+      "source_language": "en",
+      "title": "Argument_Wang_Barabasi_2021_Cambridge",
+      "year": "2021"
+    },
     "Wang & McLaughlin, 2025": {
       "aliases": [
         "Wang & McLaughlin, 2025",
@@ -9848,6 +9866,24 @@
       "source_language": "en",
       "title": "Argument_Wang_2025_CE",
       "year": "2025"
+    },
+    "Wang and Barabási (2021)": {
+      "aliases": [
+        "Wang & Barabási, 2021",
+        "Wang and Barabási (2021)"
+      ],
+      "argument": "Argument_Wang_Barabasi_2021_Cambridge",
+      "authors": [
+        "Wang, D.",
+        "Barabási, A.-L."
+      ],
+      "citation": "Wang, D., & Barabási, A.-L. (2021). The science of science. Cambridge University Press. https://doi.org/10.1017/9781108610834",
+      "doi": "10.1017/9781108610834",
+      "isbn": "9781108492669",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md",
+      "source_language": "en",
+      "title": "Argument_Wang_Barabasi_2021_Cambridge",
+      "year": "2021"
     },
     "Wang and McLaughlin (2025)": {
       "aliases": [

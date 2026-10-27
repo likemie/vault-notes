@@ -1,0 +1,1123 @@
+The Science of Science
+Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
+ISBN 9781108492669 | DOI 10.1017/9781108610834
+
+Part III: The Science of Impact
+Chapter 20: Ultimate Impact
+Print pages 209–219; one-based PDF pages 227–237
+
+[English original. Page markers identify print and PDF pages. References remain numbered as in the book. Shared supplementary materials are labelled separately. Download footers and recognized running heads are removed; original text, formulas and line breaks are otherwise retained. Verify exact mathematical notation, diagrams and table layout against the PDF.]
+
+
+========================================================================
+Chapter text
+========================================================================
+
+[p. 209] [PDF page 227]
+
+20                                      ULTIMATE IMPACT
+
+
+         The jump-decay citation patterns described in the last chapter
+call to mind the notion of “15 minutes of fame.” Are we left to conclude
+that the papers we publish – works we spend countless days and nights
+researching, writing, and agonizing over – will only be read for at most a
+few years after publication? Figure 20.1 shows the yearly citation count
+for 200 randomly selected papers published between 1960 and 1970 in
+Physical Review, conveying a clear message: citation patterns for individ-
+ual papers are complicated. While, in aggregate citations may follow a
+uniform jump-decay pattern, citations of individual papers do not appear
+to be dictated by any apparent temporal pattern. Instead, they are
+remarkably variable. While most work is forgotten shortly after publica-
+tion, a few papers seem to have an especially long lifespan. How can we
+make sense of this diverse set of trajectories?
+         If all papers were to follow the same jump-decay pattern, then
+we could easily predict the future impact of any paper after just its first
+few years. However, since individual discoveries take wildly different
+paths toward their ultimate impact, estimating the future impact of a
+paper appears a hopeless task. Making the matter worse is the fact that
+many influential discoveries are notoriously under-appreciated at first –
+research suggests that the more a discovery deviates from the current
+paradigm, the longer it will take to be appreciated by the community
+[59]. Indeed, given the myriad factors that affect how a new discovery is
+received – from the work’s intrinsic value to its timing, publishing
+venue, and sheer chance – finding regularities in the citations of individ-
+ual papers remains elusive.
+
+[p. 210] [PDF page 228]
+
+60
+                                                                    1960           1965            1970
+        40
+ c(t)
+        20
+
+        0
+        1960            1970                1980               1990               2000               2010
+
+  Figure 20.1 Citation histories of individual papers. We randomly selected
+200 papers published between 1960 and 1970 in Physical Review, showing how
+many citations each acquired yearly following its publication. The color of the lines
+indicates the publication year. Blue papers were published around 1960, whereas
+the red were published closer to 1970. After Wang et al. [298].
+
+        Yet, as we will show in this chapter, beneath the randomness
+and the apparent lack of order lie some striking patterns. And these
+patterns make the citation dynamics of individual papers quite
+predictable.
+
+
+20.1           Citation Dynamics of Individual Papers
+         Let’s recap the mechanisms that we have already shown to
+affect the impact of a paper [298]:
+
+ First is the exponential growth of science (Chapter 15). In order for
+  papers to gain new citations, new papers must be published; hence,
+  the rate at which these new papers are published affects how existing
+  papers will accumulate citations.
+ Second, preferential attachment captures the fact that highly cited
+  papers are more visible and thus more likely than their less-cited
+  counterparts to be cited again (Chapter 17).
+ Third, fitness captures the inherent differences between papers,
+  accounting for the perceived novelty and importance of a discovery
+  (Chapter 17).
+ And lastly, aging captures how new ideas are integrated into subse-
+  quent work: Every paper’s propensity for citations eventually fades
+  (Chapter 19), in a fashion best described by a log-normal survival
+  probability.
+
+What do these factors tell us about citation patterns? It turns out that
+we can combine these features in a mathematical model, and then solve
+the model analytically (see Appendix A2.4 for more detail), arriving to a
+
+[p. 211] [PDF page 229]
+
+Figure 20.2 Citation patterns predicted by Eq. (20.1). The citation history of
+paper i is characterized by three parameters: (1) the relative fitness λi capturing a
+paper’s ability to attract citations relative to other papers; (2) the immediacy μi
+captures how quickly a paper will get attention from the community, governing the
+time required for a paper to reach its citation peak, and (3) the longevity σi captures
+how quickly the attention decays over time.
+
+
+
+formula describing the cumulative number of citations acquired by
+paper i at time t after publication:
+                     !
+                     ln t μi
+              λi ϕ
+cti ¼ m e
+                        σi
+                               1 :                                                               ð20:1Þ
+
+                  Ðx
+Here, ϕðxÞ  p2ffiffiπ ∞ e y =2 dy is the cumulative normal distribution, and
+                          2
+
+
+m corresponds to the average number of references each new paper
+cites. As Fig. 20.2 illustrates, for different parameters (20.1) describes a
+wide range of citation trajectories.
+         Equation (20.1) makes a remarkable prediction: As noisy and
+unpredictable as citation patterns of individual papers may seem
+(Fig. 20.1), they are all governed by the same universal equation.
+The differences between papers can be reduced to differences in
+three fundamental parameters, λ, μ, and σ. Indeed, Eq. (20.1)
+predicts that if we know the (λi, μi, σi) parameters for each paper
+and rescale the formula accordingly, using t~  ð ln t μi Þ=σ i and
+
+[p. 212] [PDF page 230]
+
+(a)                                (b)1.0                                         (c)1.0
+  100
+
+
+
+
+                                    Rescaled citation                             Rescaled citation
+                                                        0.8                                           0.8
+   80
+                                                        0.6                                           0.6
+   60
+                                                        0.4                                           0.4
+   40
+
+   20                                                   0.2                                           0.2
+
+      0                                                 0.0                                           0.0
+       0   5 10 15 20 25 30                               -4 -3 -2 -1 0 1 2 3 4                         -4 -3 -2 -1 0 1 2 3 4
+                  [Year]                                      Rescaled time                                 Rescaled time
+
+  Figure 20.3 Universality in citation dynamics. (a) Citation histories of four
+papers published in Physical Review in 1964, selected for their distinct patterns: a
+“jump-decay” pattern (blue), a delayed peak (magenta), a constant number of
+citations over time (green), and an increasing number of citations each year (red).
+(b) Citations of an individual paper are governed by three parameters: fitness λi,
+immediacy μi, and longevity σi. Upon rescaling the citation history of each paper in
+(a) by the appropriate (λi, μi, σi) parameters, the four papers collapse into a single
+universal function [298]. (c) We rescaled all the papers published between 1950 and
+1980 in Physical Review that garnered more than 30 citations in 30 years (8,000
+papers). After Wang et al. [298].
+
+
+            ct
+              
+~c  ln 1 þ mi =λi , then each paper’s citation history may follow the
+same universal curve:
+~c ¼ Φð~t Þ:                                                                                                          ð20:2Þ
+
+In other words, all citation histories, as different as they seem, may be
+governed by a single formula. Next, we will test whether the empirical
+evidence bears out this unexpected prediction.
+
+
+20.2        Citation Dynamics: Remarkably Universal
+           Let us select four papers whose citation histories are clearly
+dissimilar (Fig. 20.3a). Yet, Eq. (20.1) tells us that, if we obtain the set
+of (λi, μi, σi) parameters that best describe each paper’s citation history and
+rescale them following (20.2), all these different curves may collapse into a
+single one. As Fig. 20.3b illustrates, that is precisely what happens. In other
+words, even though we selected these papers specifically for their diverse
+citation histories, none of them appears to defy this universal pattern. In
+fact, we could choose any number of papers published in different decades
+by different journals in different disciplines, as we did with some 8,000
+
+[p. 213] [PDF page 231]
+
+Box 20.1 Sleeping beauties and second acts
+There are some papers whose citations deviate from the typical rise-and-fall
+trajectories of Eq. (20.2). These come in at least two categories. First, there
+are “sleeping beauties,” papers whose importance is not recognized until
+years after publication [346–348]. The classic paper by Garfield that intro-
+duced citation indices offers a fine example ([349], Fig. 20.4). Published in
+1955, it only “awoke” after 2000, thanks to an increased interest in citation
+networks. Other sleeping beauties only awaken when they are independ-
+ently discovered by a new scientific community. One example is the 1959
+mathematics paper by Paul Erdős and Alfréd Rényi on random networks
+[350], whose impact exploded in the twenty-first century following the
+emergence of network science (Fig. 20.4).
+       The “theory of superconductivity” paper by Bardeen, Cooper, and
+Schrieffer (BCS) [306] offers an example of a “second act” [272], another
+form of atypical trajectories (Fig. 20.4). The paper took off quickly after its
+publication in 1957, and even won its authors the Nobel Prize in physics in
+1972. Yet, soon the enthusiasm dwindled, bottoming out in 1985. How-
+ever, the 1986 discovery of high-temperature superconductivity made the
+BCS paper relevant again, helping it experience a “second act.”
+       These atypical trajectories are not particularly rare [347]. Indeed, in
+multidisciplinary journals more than 7 percent of papers can be classified
+as sleeping beauties. We can extend the citation model discussed in the
+previous section to include a second peak, helping to predict about 90 per-
+cent of the atypical cases [348].
+            300
+                        ER
+            250         BCS
+                        Garfield
+            200
+
+
+ Citation
+            150
+
+            100
+
+            50
+
+              0
+                    1960 1970 1980 1990 2000 2010 2020
+                                    Year
+
+  Figure 20.4 Atypical citation histories. Garfield’s paper on citations is an
+exemplary case of a sleeping beauty [349]. Similarly, the Erdős–Rényi paper
+(ER) was highly regarded within mathematics but had only limited impact
+outside the field. However, the emergence of network science in 1999 drew new,
+multidisciplinary attention to the paper, fueling its explosive citation count. The
+superconductivity paper by Bardeen, Cooper, and Schrieffer (BCS) experienced
+a second act when high-temperature superconductivity was discovered.
+
+[p. 214] [PDF page 232]
+
+physics papers in Fig. 20.3c, and according to Eq. (20.2) they should all
+collapse on the same universal curve. As our sample of papers grows, there
+are inevitably some that have had irregular citation histories (see also
+Box 20.1). Yet, remarkably, once we determine the parameters for each
+paper and rescale their trajectories accordingly, their citation histories
+largely follow the same curve (20.2).
+         As such, all observed differences in citation histories can be
+attributed to three measurable parameters: fitness, immediacy and lon-
+gevity. This reveals a surprising degree of regularity in a system that
+seems noisy, unpredictable, and driven by countless other factors. This
+regularity is rooted in the fact that citations are a collective measure,
+reflecting the collective opinion of the scientific community on a paper’s
+importance. Hence individual actions do not much alter a paper’s path
+to success or oblivion – it is the collective action of countless scientists
+that shape their impact. As such, recognition from the community as a
+collective follows highly reproducible patterns and is also dominated by
+a small number of detectable mechanisms.
+         But why does this universality matter?
+
+
+
+20.3        Ultimate Impact
+         While the ups and downs of a discovery’s impact presents a
+fascinating puzzle, many scientists are interested in the net result of all
+these fluctuations: They want to know what a paper’s cumulative impact
+will be when all is said and done. Equation (20.1) offers an elegant way to
+calculate this cumulative impact. Indeed, if we set the time period to
+infinity, then (20.1) represents the total number of citations a paper will
+ever acquire during its lifetime, or its ultimate impact (c∞),
+c∞i ¼ m eλi 1 :
+              
+                                                                     ð20:3Þ
+
+Recall that we needed three parameters to describe the time-dependent
+citation count of a paper. Yet, when it comes to ultimate impact,
+according to (20.3), only one parameter is relevant: the relative fitness
+λ. It does not matter how soon the paper starts to garner attention
+(immediacy, μ), or how fast its appeal decays over time (longevity, σ).
+Its ultimate impact is determined by its relative fitness only, capturing
+the paper’s importance relative to its peers.
+
+[p. 215] [PDF page 233]
+
+As such, we may evaluate the long-term impact of a paper
+without considering the journal in which it was published. To illustrate
+this, we can pick papers with a comparable fitness λ  1, but published in
+three very different journals and follow their citation histories over their
+first 20 years. Despite being published in journals with widely different
+readership and impact, the total citation counts acquired by these papers
+are remarkably similar (Fig. 20.5). This is precisely what (20.3) tells us:
+given the similar fitness λ, they should ultimately have the same impact,
+c∞ = 51.5. The takeaway: Just as we don’t judge a book by its cover, we
+can’t judge a paper by its journal. Cell may appear to be a more coveted
+venue than PNAS – but as long as the papers have the same fitness,
+ultimately they are expected to acquire the same number of citations.
+
+
+20.4        Future Impact
+          Figure 20.6 shows a typical weather forecast, the kind that
+often airs on TV news. It warns of a hurricane brewing in the Caribbean
+and predicts where and when it will hit Tennessee. This kind of detailed
+prediction can help residents and emergency personnel make better
+plans, to stock food and seek shelter.
+          How did scientists acquire such a predictive capability? First,
+massive amounts of data on past hurricane trajectories allowed them to
+study in minute detail the patterns characterizing these trajectories and
+the physical factors that drive them. Then, using that information, they
+built predictive models that tell us where hurricanes tend to go, given
+where they have already been. Can we use the same approach to predict
+the impact of a publication?
+          It turns out, we can adapt the model introduced in this chapter to
+predict future citations of each paper. For this we use a paper’s citation
+history up to year TTrain after publication to train the model, allowing us
+to estimate the parameters λi, μi, σi for the paper. We illustrate this in
+Fig. 20.7a, where we use a five-year training period to predict the subse-
+quent trajectories of three papers. The figure shows the predicted most
+likely citation path (red line) with an uncertainty envelope (shaded area)
+for each paper. Comparing our predictions to the actual citation histories,
+we find that two of the three papers indeed fell within the envelope. For
+the third paper, the model overestimated future citations. But using a
+longer training period ameliorates this problem. Indeed, if we increase the
+
+[p. 216] [PDF page 234]
+
+Fitness selection
+
+ (a)       1.0
+                                                        Cell
+           0.8                                          PNAS
+           0.6
+                                                        PRB
+  P(λ)
+           0.4
+
+           0.2
+
+           0.0
+                  0   1         2       3         4        5         6
+                                        λ
+
+ (b)
+           0.10
+                                                       Year 2
+
+           0.00
+
+           0.10
+                                                       Year 4
+
+           0.00
+
+  P(c t)   0.10
+                                                       Year 10
+
+           0.00
+
+           0.10
+                                                       Year 20
+
+           0.00
+                  0            50                100               150
+                                         ct
+  Figure 20.5 Ultimate impact. We select three journals with different
+readership and impact: (1) Physical Review B (PRB), with an impact
+factor (IF) around 3.26 in 1992, is the largest journal within the
+Physical Review family, covering a specialized domain of physics; (2)
+Proceedings of the National Academy of Sciences (PNAS) (IF = 10.48)
+is a high-impact multidisciplinary journal covering all areas of science;
+
+[p. 217] [PDF page 235]
+
+Figure 20.6 Hurricane forecast. Although the storm is thousands of miles away
+from Tennessee, residents know well in advance when and where it is going to hit
+their state and its likely intensity upon arrival. Can we develop similar predictive
+tools for science?
+
+training period from 5 years to 10 years, the cone of predictions shrinks
+(Fig. 20.7b) and the model’s predictive accuracy improves: The third
+paper now falls well within the prediction envelope, while the expected
+paths of the other two papers now align even more closely with their real-
+life citation trajectories. Note that the model discussed in this chapter is a
+minimal model, integrating mechanisms known to influence citations. As
+such, the examples shown in Fig. 20.7 represent an initial attempt, whose
+predictive accuracy and robustness can be further improved with more
+sophisticated models.
+
+
+            Figure 20.5 (cont’d) and (3) Cell (IF = 33.62) is an elite biology journal.
+            For each paper published in these journals, we measure the fitness λ,
+            obtaining their distinct journal-specific fitness distribution (a). We then
+            select all papers with comparable fitness λ  1 published in each journal
+            and follow their citation histories. As expected, the paper’s particular
+            path depends on the journal’s prestige: In early years, Cell papers run
+            slightly ahead and PRB papers stay behind, resulting in distinct citation
+            distributions from year 2 to year 4 (T = 2  4). Yet, by year 20 the
+            cumulative number of citations acquired by these papers converges in a
+            remarkable way (b). This is precisely what (20.3) tells us: given their
+            similar fitness λ, eventually these papers should have the same ultimate
+            impact c∞ = 51.5. After Wang et al. [298].
+
+[p. 218] [PDF page 236]
+
+Real data                      Predicted
+
+            (a) 300
+                              250
+
+
+
+
+             Total citation
+                              200
+
+                              150
+                                         TTrain = 5
+                              100
+
+                               50
+
+                                0
+                                 0   5           10          15     20    25     30
+                                                           Time (years)
+
+            (b) 300
+                              250
+
+                              200
+
+
+
+             Total citation
+                              150                     TTrain = 10
+
+                              100
+
+                               50
+
+                                0
+                                 0   5           10          15     20    25     30
+                                                           Time (years)
+              Figure 20.7 Predicting future citations. We can adapt the citation model
+            to predict future citations of any given paper, by learning the model
+            parameters from its existing citation histories. The uncertainty in estimating
+            these parameters then translate into a prediction envelop with its most likely
+            trajectory, similar to what we saw in the hurricane’s example. As we
+            observe more of its citation records, the envelope shrinks, and more
+            accurately encapsulates a paper’s citation history. After Wang et al. [298].
+
+
+
+        In summary, each paper follows wildly different paths on its
+way to achieving its ultimate impact. Yet, as we showed in this chapter,
+this apparent variability in citation dynamics hides a remarkable degree
+of regularity. Indeed, citation histories can be accurately captured by a
+simple model with just three parameters: fitness, immediacy, and lon-
+gevity. Once we discern the three parameters characterizing a paper’s
+
+[p. 219] [PDF page 237]
+
+citation history, we can estimate how and when the paper will accumu-
+late its citations.
+          Importantly, while three parameters are required to capture the
+particular pattern of citation growth, when it comes to predicting the
+paper’s ultimate impact, representing the total number of citations
+accumulated over a paper’s lifetime, only one parameter, the fitness,
+matters. Indeed, as we show, papers that have the same fitness tend to
+acquire the same number of citations in the long run, regardless of
+where they are published. In contrast to impact factor and short-term
+citation count, which lack predictive power, ultimate impact offers a
+journal-independent measure of a paper’s long-term impact.
+          The predictive accuracy of the model raises an interesting ques-
+tion: Could the act of predicting an article’s success alter that success –
+or the scientific discourse at large [351]? There is reason to think so.
+Widespread, consistent prediction of an idea’s future impact will neces-
+sarily speed up its acceptance and may undermine ideas that are pre-
+dicted to fare worse, by suggesting that they do not deserve our
+attention or resources. As such, predicting an article’s reception could
+act as a self-fulfilling prophecy, leading to the premature abortion of
+valuable ideas. On the plus side, however, the ability to better predict an
+article’s future impact could accelerate a paper’s life cycle – the time
+between a paper’s publication and its acceptance in the community.
+
+
+========================================================================
+Supplement: Appendix A2 — Modeling Citations
+========================================================================
+
+[p. 257] [PDF page 278]
+
+A2                            MODELING CITATIONS
+
+
+
+A2.1        The Price Model
+         The Price model can explain the citation disparity among scien-
+tific publications, and the universal, field-independent nature of citation
+distributions. To formalize the citation process, let’s have m represent
+the number of citations on a given paper’s reference list. When a
+scientist cites a paper, he/she does not choose it at random. Rather,
+the probability that the new paper cites paper i depends on how many
+citations i has already received, ci :
+         ci
+Πi ¼           ,                                                                                 ðA2:1Þ
+        Σ i ci
+
+an expression known in the network science literature as preferential
+attachment [304]. This means that when a scientist is choosing between
+two papers to cite, if one has twice as many citations as the other, she is
+about twice as likely to pick the more cited paper.
+         As written, preferential attachment (A2.1) leads to a catch-22: If
+a paper has no citations yet ðci ¼ 0Þ, it can not attract new citations. We
+can resolve this by acknowledging that each new paper has a finite
+initial probability of being cited for the first time, called the initial
+attractiveness of a paper, c0 . Hence the probability that a paper i is
+cited can be modified as
+           ci_ þ c0
+Πi ¼                   :                                                                         ðA2:2Þ
+        Σ i ðci þ c0 Þ
+
+[p. 258] [PDF page 279]
+
+Box A2.1 Do the rich really get richer?
+Preferential attachment relies on the assumption that new papers tend to
+cite highly cited papers. But how do we know that preferential attachment
+is actually present when it comes to citations? We can answer this by
+measuring the citation rate of a paper (citations per year, for example) as a
+function of its existing citation count [20]. If preferential attachment is
+active, then a paper’s citation rate should be linearly proportional to its
+total citations. Measurements have shown that this is indeed the case [272,
+412, 413], offering direct empirical support for the presence of preferential
+attachment.
+        When does the rich-get-richer effect start to kick in? The answer lies
+in the initial attractiveness parameter, c0 , introduced in Eq. (A2.2).
+According to this, when a paper has very few citations (c < c0 ), its chance
+of getting cited is determined mainly by the initial attractiveness, c0 . To
+see when a paper begins to benefit from the rich-get-richer effect, we can
+compare the predictions of Price’s model with the Barabási–Albert model,
+which ignores the initial attractiveness [298], finding that the tipping point
+for preferential attachment is around c0  7. That is, before a paper
+acquires 7 citations, its citations accumulate as though preferential attach-
+ment does not apply. Preferential attachment only turns on once the paper
+gets past this 7-citation threshold (Fig. A2.1).
+
+
+       104
+
+       103
+
+       102
+
+       101
+ (k)
+                                     All papers
+       100
+                                     Papers older than 5 years
+                                     Papers older than 10 years
+       10-1                          A = 0.0
+                                     A = 7.0
+       10-2
+              100       101              102              103
+                                     k
+
+  Figure A2.1 Empirical validation of initial attractiveness and preferential
+attachment. The solid line captures the case of initial attractiveness c0 = 7
+citations. The dashed line corresponds to the case without initial attractiveness
+(c0 = 0). After Eom and Fortunato [269].
+
+[p. 259] [PDF page 280]
+
+The model described above captures two key aspects of
+            citations:
+
+            (1) The growth of the scientific literature. New papers are continuously
+                published, each of which cite m previous papers.
+            (2) Preferential attachment. The probability that an author chooses a
+                particular paper to cite is not uniform, but proportional to how
+                many citations the paper already has.
+                    The model with Eq. (A2.2) was first proposed by de Solla Price
+            in 1976, hence it is sometimes called the Price model [297]. It allows us
+            to analytically calculate the distribution of the number of citations
+            received by papers, yielding:
+
+            pc ðc þ c0 Þ γ ,                                                                                 ðA2:3Þ
+              e
+            where the citation exponent γ follows
+                        c0
+            γ¼2þ           :                                                                                 ðA2:4Þ
+                        m
+
+            For c 
+c0 , (A2.3) becomes pc c γ , predicting a power-law citation
+                                           e
+            distribution. Equation (A2.3) is in remarkable agreement with the
+            citation distribution observed by Price in 1965 [262], as well as
+            later measurements [265, 267–269, 411]. It predicts that the citation
+            exponent (A2.4) is strictly greater than two. Many empirical meas-
+            urements put the exponent around γ = 3, consistent with the case of
+            c0 = m.
+
+
+            A2.2        The Origins of Preferential Attachment
+                     The rich-get-richer effect might seem to suggest that each
+            scientist meticulously keeps track of the citation counts of every paper,
+            so that she can cite the more cited ones. This is obviously not the case.
+            So where does preferential attachment come from? We can answer this
+            question by inspecting the way we encounter and cite new papers.
+            A common way to discover the research relevant to one’s work is by
+            using the papers we have read to find other papers related to our topic
+            of interest. That is, when we read a paper, we tend to inspect its
+            reference list, occasionally choosing to read some of the papers refer-
+            enced therein. When we later cite a paper that we discovered by
+
+[p. 260] [PDF page 281]
+
+reading another paper, we are effectively “copying” a citation from
+the earlier paper.
+         This copying process can help explain the origins of preferen-
+tial attachment [303, 414–420]. More specifically, imagine a scientist
+who is deciding which papers to cite in his next paper. He could pick
+a random paper from the literature, something he encountered by
+searching for the appropriate topic or keywords. If he only chooses
+papers in this random way, the resulting citation distribution would
+follow a Poisson distribution, meaning that every citation is a
+random, independent event. Imagine, however, that the scientist
+occasionally chooses to “copy” one of the references of the paper
+that he randomly selected and cite that reference instead. As simple as
+it is, this act of copying naturally leads to preferential attachment.
+This is because a paper with a large number of citations will inevit-
+ably be included in multiple papers’ reference lists. So, the more
+citations a paper has, the more likely it is that it will show up
+on the reference list of the paper we chose, and so the more likely it
+is that we will cite it.
+         The beauty of the copy model is that it does not require us to
+keep track of the citation counts of the published papers. Rather,
+preferential attachment arises naturally and necessarily from the model,
+if individuals only rely on local information (i.e., the reference lists of
+the papers they read previously) to find additional papers to cite. The
+copy model is not merely a theory – the fingerprints of this process can
+be detected directly in the data (Box A2.2).
+
+
+
+A2.3        The Fit Get Richer
+         Price’s model assumes that the growth rate of a paper’s citations
+is determined solely by its current number of citations. To build upon
+this basic model, let’s assume that citation rate is driven by both
+preferential attachment and a paper’s fitness. This is called the fitness
+model or the Bianconi–Barabási model [307, 308], which incorporates
+the following two assumptions:
+
+• Growth: In each time step, a new paper i with m references and
+  fitness ƞi is published, where ƞi is a random number chosen from a
+  distribution p(ƞ). Once assigned, the paper’s fitness does not change
+  over time.
+
+[p. 261] [PDF page 282]
+
+Box A2.2 Evidence of citation copying
+   With more than 220,000 citations on Google Scholar, John P. Perdew, the
+   pioneer of density functional theory, is one of the world’s most cited
+   physicists. His 1992 Physical Review B paper [421], coauthored with
+   Y. Wang, has alone collected over 20,000 citations. However, Perdew
+   himself has noted that thousands of those citations were likely misplaced,
+   as many of those authors apparently intended to cite a completely different
+   paper. Perdew and Wang had coauthored another lesser-known paper just
+   a year before their breakthrough – but in some popular references, the
+   paper was mistakenly listed as the more cited 1992 paper.
+           Analyzing such citation misprints can offer direct empirical evi-
+   dence for citation copying [422]. Occasionally a reference to a certain
+   paper will include a typo; for example, one digit of a paper’s 4-digit page
+   number may be misprinted. If the same misprinted number shows up
+   repeatedly in many reference lists, this suggests that citations were simply
+   copied from earlier publications. Indeed, the chance that multiple research-
+   ers make the same mistake independently is very low (10 4 in this example).
+   Yet when researchers [422] traced a particular citation misprint back to a
+   relatively well-known paper [423], they found that subsequent citations
+   were disproportionately likely to carry the exact same typo. Although
+   different authors cited the article 196 different ways, the citation with the
+   typo was observed 78 times, suggesting that those who cited this paper may
+   have simply copied the reference from some other paper. These repeated
+   misprints indicate that citation “copying” is not just metaphorical, but can
+   be quite literal.
+
+
+• Preferential attachment: The probability that the new paper cites an
+   existing paper i is proportional to the product of paper i’s previous
+   citations and its fitness ƞi,
+        η ci
+Πi ¼ P i         :                                                ðA2:5Þ
+         j ηj cj
+
+In (A2.5) the probability’s dependence on ci captures the preferential
+attachment mechanism we have discussed earlier. Its dependence on ƞi
+indicates that between two papers with the same number of citations
+(ci), the one with higher fitness will attract citations at a higher rate.
+Hence, (A2.5) assures that even a relatively new paper, with a few
+citations initially, can acquire citations rapidly if it has greater fitness
+than other papers.
+
+[p. 262] [PDF page 283]
+
+A2.4        Minimal Citation Model for Individual Papers
+        In Part III, we discussed four different mechanisms that are
+shown to affect the impact of a paper [298]: the exponential growth
+of science (Chapter 15), preferential attachment (Chapter 17), fitness
+(Chapter 17), and aging (Chapter 19). Combining these four mechan-
+isms allows us to build a minimal citation model that captures the time
+evolution of the citations a paper receives [298]. To do so, we write the
+probability that paper i is cited at time t after publication as
+Πi ðt Þ e ηi cti Pi ðt Þ:                                                                        ðA2:6Þ
+
+In (A2.6), ηi captures the paper’s fitness, which is a collective measure
+capturing the community’s response to the work and ci measures pref-
+erential attachment, indicating that the paper’s probability of being
+cited is proportional to the total number of citations it has received
+previously. Lastly, the long-term decay in the paper’s citations is well
+approximated by a log-normal survival probability function
+                                    
+             1          ð ln t μi Þ2
+Pi ðt Þ ¼ pffiffiffiffiffi exp                  ,                           ðA2:7Þ
+           2π σ i t          2σ 2i
+where t is time elapsed since publication; μ captures the immediacy of
+impact, governing the time required for a paper to reach its citation
+peak; and σ is longevity, capturing the decay rate of citations.
+        The growth rate (A2.8) helps us calculate the rate at which
+paper i acquires new citations at time t after its publication,
+dcti    Πi
+     ¼ PN      ,                                                                                 ðA2:8Þ
+dN      i¼1 Πi
+
+where N represents the total number of papers, with N(t)  exp(βt), and
+β characterizes the rate of science’s exponential growth (Chapter 15).
+The rate equation (A2.8) tells us that with the publication of each new
+paper, paper i has a smaller and smaller chance of acquiring an add-
+itional citation. The analytical solution of the master equation (A2.8)
+leads to the closed-form solution, Eq. (20.1), predicting the cumulative
+number of citations acquired by paper i at time t after publication.
+         Table A2.1 shows average citation counts <c> up to 2012 for
+all subject categories in 2004 [424]. The table also lists the number of
+publications, N, in each category. This table shows the remarkable
+heterogeneity in citations across fields, highlighting the importance of
+normalizing citations when comparing and evaluating impacts, as dis-
+cussed in Chapter 16.
+
+[p. 263] [PDF page 284]
+
+Table A2.1 The average citation counts < c > up to 2012 for all subject
+categories in 2004 and the number of publications, N, in each category
+[424].
+
+Subject categories                                                                  <c>           N
+
+Physics, Acoustics                                                                    8.78         3,361
+
+Agriculture, Agricultural Economics & Policy                                          7.87            592
+
+Agriculture, Dairy & Animal Science                                                   8.99         3,868
+
+Agriculture, Multidisciplinary                                                      12.07          2,803
+
+Agriculture, Agronomy                                                                 10.0         4,767
+
+Medicine, Allergy                                                                   18.97          1,617
+
+Medicine, Anatomy & Morphology                                                      11.79          1,022
+
+Medicine, Andrology                                                                 11.46             248
+
+Medicine, Anesthesiology                                                            10.06          4,122
+
+Physics, Astronomy & Astrophysics                                                   21.41         13,392
+
+Engineering, Automation & Control Systems                                           12.91          3,449
+
+Behavioral Sciences                                                                 16.95          3,426
+
+Biology, Biochemical Research Methods                                               20.54          9,674
+
+Biology, Biochemistry & Molecular Biology                                           26.18         43,556
+
+Biology, Biodiversity Conservation                                                  14.03          2,117
+
+Biology                                                                             16.13          5,302
+
+Biophysics                                                                          19.48          9,609
+
+Biology, Biotechnology & Applied Microbiology                                       19.63         13,899
+
+Medicine, Cardiac & Cardiovascular Systems                                          20.21         12,472
+
+Biology, Cell & Tissue Engineering                                                    31.4            322
+
+Biology, Cell Biology                                                               32.72         17,610
+
+Chemistry, Analytical                                                               15.04         14,446
+
+Chemistry, Applied                                                                  11.76          7,542
+
+Chemistry, Inorganic & Nuclear                                                      12.33         10,219
+
+Chemistry, Medicinal                                                                14.62          6,444
+
+Chemistry, Multidisciplinary                                                        21.38         23,501
+
+[p. 264] [PDF page 285]
+
+Table A2.1 cont'd
+Subject categories                                                                   <c>          N
+
+Chemistry, Organic                                                                   14.56        16,878
+
+Chemistry, Physical                                                                  18.52        29,735
+
+Medicine, Clinical Neurology                                                         16.95        15,563
+
+Computer Science, Artificial Intelligence                                             16.77          4,690
+
+Computer Science, Cybernetics                                                        10.42          1,068
+
+Computer Science, Hardware & Architecture                                             9.83          2,890
+
+Computer Science, Information Systems                                                11.58          4,633
+
+Computer Science, Interdisciplinary Applications                                     10.25          5,761
+
+Computer Science, Software Engineering                                                8.85          4,718
+
+Computer Science, Theory & Methods                                                    9.59          3,918
+
+Engineering, Construction & Building Technology                                       7.36          2,302
+
+Medicine, Critical Care Medicine                                                     18.15          3,116
+
+Chemistry, Crystallography                                                              8.1         7,032
+
+Medicine, Oral Surgery & Medicine                                                    11.11          5,040
+
+Medicine, Dermatology                                                                10.08          4,808
+
+Biology, Developmental Biology                                                       31.01          3,289
+
+Ecology                                                                              18.02          9,860
+
+Education, Scientific Disciplines                                                      6.32          1,930
+
+Chemistry, Electrochemistry                                                          17.34          5,539
+
+Medicine, Emergency Medicine                                                          7.59          1,661
+
+Endocrinology & Metabolism                                                           21.68        11,259
+
+Engineering, Energy & Fuels                                                           11.9          5,977
+
+Engineering, Aerospace                                                                  4.7         1,902
+
+Engineering, Biomedical                                                              18.82          4,717
+
+Engineering, Chemical                                                                10.78        13,612
+
+Engineering, Civil                                                                      7.0         5,972
+
+Engineering, Electrical & Electronic                                                 11.32        26,432
+
+[p. 265] [PDF page 286]
+
+Table A2.1 cont'd
+Subject categories                                                                  <c>           N
+
+Engineering, Environmental                                                          16.39          4,850
+
+Engineering, Geological                                                               7.08         1,406
+
+Engineering, Industrial                                                               8.28         3,109
+
+Engineering, Manufacturing                                                            8.28         3,385
+
+Engineering, Marine                                                                   1.06            489
+
+Engineering, Mechanical                                                               7.54         8,503
+
+Engineering, Multidisciplinary                                                          7.3        4,443
+
+Engineering, Ocean                                                                      7.5           874
+
+Engineering, Petroleum                                                                2.14         1,613
+
+Biology, Entomology                                                                   7.76         4,371
+
+Environmental Sciences                                                              14.88         16,938
+
+Biology, Evolutionary Biology                                                       22.88          3,170
+
+Agriculture, Fisheries                                                              10.79          3,495
+
+Food Science & Technology                                                           11.97          9,457
+
+Forestry                                                                            11.42          2,811
+
+Medicine, Gastroenterology & Hepatology                                             19.03          7,518
+
+Biology, Genetics & Heredity                                                        25.56         12,947
+
+Geography, Geochemistry & Geophysics                                                15.79          5,777
+
+Geography, Physical                                                                   14.6         2,230
+
+Geography, Geology                                                                  12.42          1,604
+
+Geography, Multidisciplinary                                                        11.71         10,683
+
+Geriatrics & Gerontology                                                              15.1         2,387
+
+Medicine, Health Care Sciences & Services                                           11.78          3,577
+
+Medicine, Hematology                                                                25.88          9,875
+
+History & Philosophy Of Science                                                       4.18            919
+
+Imaging Science & Photographic Technology                                           16.28          1,136
+
+Medicine, Immunology                                                                22.17         17,048
+
+[p. 266] [PDF page 287]
+
+Table A2.1 cont'd
+Subject categories                                                                   <c>          N
+
+Medicine, Infectious Diseases                                                        18.47          7,727
+
+Engineering, Instruments & Instrumentation                                            8.28          8,599
+
+Medicine, Integrative & Complementary Medicine                                       10.45            885
+
+Limnology                                                                            13.27          1,208
+
+Biology, Marine & Freshwater Biology                                                 12.33          6,939
+
+Materials Science, Biomaterials                                                      23.02          2,082
+
+Materials Science, Ceramics                                                           7.87          3,443
+
+Materials Science, Characterization & Testing                                         4.59          1,293
+
+Materials Science, Coatings & Films                                                  11.03          4,993
+
+Materials Science, Composites                                                         9.44          1,539
+
+Materials Science, Multidisciplinary                                                 13.68        34,391
+
+Materials Science, Paper & Wood                                                       4.67          1,048
+
+Materials Science, Textiles                                                           5.72            949
+
+Biology, Mathematical & Computational Biology                                        20.05          2,304
+
+Mathematics                                                                           4.61        13,390
+
+Mathematics, Applied                                                                  6.65        11,863
+
+Mathematics, Interdisciplinary Applications                                          10.37          4,370
+
+Mechanics                                                                             9.49        10,165
+
+Medical Ethics                                                                        6.27            443
+
+Medicine, Medical Informatics                                                        11.66          1,196
+
+Medicine, Medical Laboratory Technology                                              11.13          2,210
+
+Medicine, General & Internal                                                         19.97        14,814
+
+Medicine, Legal                                                                       7.02            993
+
+Medicine, Research & Experimental                                                    20.29          8,861
+
+Metallurgy & Metallurgical Engineering                                                8.12          8,077
+
+Physics, Meteorology & Atmospheric Sciences                                          15.86          6,720
+
+Biology, Microbiology                                                                19.84        13,224
+
+[p. 267] [PDF page 288]
+
+Table A2.1 cont'd
+Subject categories                                                                  <c>           N
+
+Microscopy                                                                              9.9           674
+
+Engineering, Mineralogy                                                             10.95          1,724
+
+Engineering, Mining & Mineral Processing                                              6.01         1,553
+
+Multidisciplinary Sciences                                                          48.85         10,909
+
+Biology, Mycology                                                                   10.45          1,019
+
+Nanoscience & Nanotechnology                                                        20.63          7,183
+
+Biology, Neuroimaging                                                               25.95          1,430
+
+Biology, Neurosciences                                                              23.48         23,796
+
+Engineering, Nuclear Science & Technology                                             6.03         7,589
+
+Medicine, Nursing                                                                     7.86         2,365
+
+Medicine, Nutrition & Dietetics                                                     18.44          4,767
+
+Medicine, Obstetrics & Gynecology                                                   11.78          7,384
+
+Geography, Oceanography                                                             13.66          4,159
+
+Medicine, Oncology                                                                  23.44         19,647
+
+Operations Research & Management Science                                            10.69          3,902
+
+Medicine, Ophthalmology                                                             11.97          6,359
+
+Physics, Optics                                                                     12.16         12,693
+
+Biology, Ornithology                                                                  8.36            928
+
+Medicine, Orthopedics                                                                 13.0         5,607
+
+Medicine, Otorhinolaryngology                                                         9.01         3,235
+
+Biology, Paleontology                                                                   9.7        1,559
+
+Parasitology                                                                        11.06          2,239
+
+Medicine, Pathology                                                                 14.42          5,694
+
+Medicine, Pediatrics                                                                10.69          9,553
+
+Medicine, Peripheral Vascular Disease                                               25.41          8,353
+
+Medicine, Pharmacology & Pharmacy                                                   14.65         20,991
+
+Physics, Applied                                                                    14.24         28,999
+
+[p. 268] [PDF page 289]
+
+Table A2.1 cont'd
+Subject categories                                                                   <c>          N
+
+Physics, Atomic, Molecular & Chemical                                                14.32        12,973
+
+Physics, Condensed Matter                                                            13.39        22,654
+
+Physics, Fluids & Plasmas                                                            12.31          5,648
+
+Physics, Mathematical                                                                11.38          6,624
+
+Physics, Multidisciplinary                                                           16.17        15,438
+
+Physics, Nuclear                                                                     10.24          4,987
+
+Physics, Particles & Fields                                                          14.33          8,759
+
+Physiology                                                                           18.73          7,846
+
+Biology, Plant Sciences                                                              15.45        12,844
+
+Materials Science, Polymer Science                                                   14.16        11,170
+
+Medicine, Primary Health Care                                                         6.93          1,140
+
+Medicine, Psychiatry                                                                 20.88          9,108
+
+Medicine, Psychology                                                                 17.93          2,942
+
+Medicine, Public, Environmental & Occupational Health                                15.31        10,171
+
+Medicine, Radiology, Nuclear Medicine & Medical Imaging                              15.78        12,165
+
+Rehabilitation                                                                       11.45          1,863
+
+Engineering, Remote Sensing                                                          14.94          1,301
+
+Biology, Reproductive Biology                                                        15.26          3,710
+
+Medicine, Respiratory System                                                         16.34          6,259
+
+Medicine, Rheumatology                                                               18.28          3,058
+
+Engineering, Robotics                                                                11.17            497
+
+Soil Science                                                                         11.08          2,766
+
+Materials Science, Spectroscopy                                                       9.56          6,648
+
+Sport Sciences                                                                       13.44          4,701
+
+Mathematics, Statistics & Probability                                                 9.04          4,922
+
+Substance Abuse                                                                      16.99          1,049
+
+Medicine, Surgery                                                                    12.25        22,687
+
+[p. 269] [PDF page 290]
+
+Table A2.1 cont'd
+Subject categories                                                                  <c>           N
+
+Engineering, Telecommunications                                                       9.97         5,196
+
+Physics, Thermodynamics                                                               9.76         3,809
+
+Medicine, Toxicology                                                                13.82          6,214
+
+Medicine, Transplantation                                                           13.21          4,665
+
+Medicine, Transportation Science & Technology                                         5.44         1,562
+
+Medicine, Tropical Medicine                                                         11.39          1,298
+
+Medicine, Urology & Nephrology                                                      15.58          7,784
+
+Medicine, Veterinary Sciences                                                         7.64         7,967
+
+Medicine, Virology                                                                  21.66          4,713
+
+Water Resources                                                                     10.86          5,490
+
+Biology, Zoology                                                                    10.07          6,684

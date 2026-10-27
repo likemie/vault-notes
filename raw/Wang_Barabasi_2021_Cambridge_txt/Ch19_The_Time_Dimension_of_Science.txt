@@ -1,0 +1,548 @@
+The Science of Science
+Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
+ISBN 9781108492669 | DOI 10.1017/9781108610834
+
+Part III: The Science of Impact
+Chapter 19: The Time Dimension of Science
+Print pages 197–208; one-based PDF pages 215–226
+
+[English original. Page markers identify print and PDF pages. References remain numbered as in the book. Shared supplementary materials are labelled separately. Download footers and recognized running heads are removed; original text, formulas and line breaks are otherwise retained. Verify exact mathematical notation, diagrams and table layout against the PDF.]
+
+
+========================================================================
+Chapter text
+========================================================================
+
+[p. 197] [PDF page 215]
+
+19 THE TIME DIMENSION OF SCIENCE
+         The Library of Alexandria had a simple but ambitious goal: to
+collect all knowledge in existence at the time. Built in the Eastern
+Harbor of Alexandria in Egypt, where Queen Cleopatra first laid eyes
+on Julius Caesar, the library relied on a unique method to enrich its
+collection: Every ship that sailed into the busy Alexandria harbor was
+searched for books. If one was found, it was confiscated on the spot,
+and taken to the library where scribes would copy it word for word. The
+rightful owner was eventually returned the copy along with adequate
+compensation, while the library kept the original. Although historians
+continue to debate the precise number of books it managed to amass,
+the library at its peak was estimated to possess nearly half a million
+scrolls – that is, until Julius Caesar burned it all down in 48 BCE.
+         Imagine you are at the library of Alexandria, watching the fire
+spread slowly towards the building. You are surrounded by the world’s
+single greatest archive of knowledge and you know that it will soon be
+turned into ashes. You have time to step in and save a few scrolls.
+Which ones should you rescue? Should you collect the oldest scrolls,
+containing the ideas that have stood the test of time? Or should you run
+for the most recent documents, as they synthesize the best of past
+knowledge? Or perhaps you should pick some documents at random.
+The fire is approaching, and time is running out – what would you do?
+         Tomorrow’s biggest discoveries necessarily build on past know-
+ledge. But when choosing which discoveries to build upon, how far back
+should we go? And, relatedly, how long will others continue to cite our
+own work before the fires of time render it irrelevant? These are the
+
+[p. 198] [PDF page 216]
+
+questions we will explore in this chapter. We will pinpoint the unique
+combinations of old and relatively new knowledge that are most likely
+to produce new breakthroughs. In doing so, we will see that the way we
+build on past knowledge follows clear patterns – and we will explore
+how these patterns shape future scientific discourse. Let’s begin with a
+simple question: How far back into the past do scientists typically
+anchor their inquiries?
+
+
+19.1        Myopic or Not?
+          The famous Newton quote, “If I have seen further than others,
+it is by standing upon the shoulders of giants,” suggests that older work,
+tested by time, is the foundation for new discoveries. However, Francis
+Bacon disagreed, arguing that discoveries occur only when their time
+has come [245]. If Bacon is right, then it is the most recent work that
+drives breakthroughs. So, if you don’t want to miss out on a discovery,
+you’d better stay at the bleeding edge of knowledge.
+          Who is right, Newton or Bacon? One way to test the two
+theories is to compile the age distribution of the references in
+research papers, measuring the time gap between a work’s publica-
+tion year and the publication years of its references. This approach
+has a long history: librarians used to look at the ages of references to
+determine which older journal volumes could be discarded to free up
+shelf space [332].
+          Figure 19.1 shows the probability that a paper cites a paper
+published t years earlier. The distribution vividly documents the myopic
+nature of science: most references point to works published just two to
+three years earlier. One may argue that this is a consequence of the fact
+that there were many more papers published in recent years than in
+years further back [297, 333]. But even when we account for the
+exponential growth of literature, the distribution nonetheless decays
+rapidly with time. While scholars do regularly reach back to “vintage”
+knowledge more than 20 years old, the likelihood of citing research
+older than that decays rather quickly.
+          The distribution in Fig. 19.1 captures the collective foraging
+patterns of scientists, showing that we tend to rely heavily on recent
+information, yet balance it occasionally with vintage, or canonical
+knowledge. Individual scientists may differ, however, in how they
+search for past knowledge, raising the question: Could the varied
+
+[p. 199] [PDF page 217]
+
+0.1
+
+
+                  0.08
+
+
+                  0.06
+             't
+                  0.04
+
+
+                  0.02
+
+
+                      0
+                          0               20                 40               60
+
+                                                  P('t)
+              Figure 19.1 The age of citations. To understand where new knowledge
+            comes from, we can look at how old the references of a paper are. The age
+            distribution of citations for papers published in 2010 shows a peak around
+            two years and decays quickly afterwards. Much research has been devoted
+            to reasoning about how best to characterize the distribution of citation
+            ages. A classic meta-analysis of over 20 studies indicates that the age of
+            references is best approximated by an exponential distribution [297].
+            A more recent analysis suggests that a lognormal distribution with an
+            exponential cutoff offers a better fit [253], shown in the figure as a solid
+            line. After Yin and Wang [253].
+
+patterns of information foraging predict the impact of their work? Is
+there a search strategy that is particularly well-suited to prompting
+tomorrow’s breakthroughs?
+
+
+19.2        The Hotspot of Discovery
+         Imagine four papers that differ in the way they cite previous
+literature (Fig. 19.2). Which one will have the highest impact? We can
+make a case for each of them. The deep-reach paper (Fig. 19.2a) pri-
+marily cites old papers, building on well-established, well-tested classics.
+By contrast, the paper in Fig. 19.2b draws only upon hot, recent topics
+that are absorbing the community’s attention at the moment. The paper
+in Fig. 19.2c combines the best of both worlds, featuring a judicious mix
+of new and vintage knowledge, with an emphasis on more recent
+
+[p. 200] [PDF page 218]
+
+0   2x   4x   6x   8x    10x 12x   14x   16x   18x   20x
+      1965          1975           1985     1995         (e)
+                                                                                                                     4.0
+
+                                                                                                                     3.6
+ (a) Old mean & low variance
+                                                                                                                     3.2
+
+                                                                                                                     2.8
+                                                                                                                           σT
+                                                                                                                     2.4
+ (b) Recent mean & low variance
+                                                                                                                     2.0
+
+                                                                                                                     1.6
+
+                                                                                                                     1.2
+ (c) Recent mean & high variance
+                                                                                                                     0.8
+
+                                                                                                                     0.4
+
+                                                                                                                     0.0
+ (d) Old mean & high variance
+                                                               0   5    10   15    20   25   30   35     40   45    50
+                                                                                  <T > (years)
+
+
+  Figure 19.2 Knowledge hotspots predict high impact. (a–d) Potential
+information search patterns characterizing individual papers. (e) The hotspot,
+shown in red, captures “hit” papers that cite prior knowledge with a low mean
+age, < T >, and a high coefficient of variation for age, σT (data shown for the year
+1995, capturing N = 546,912 publications). The background rate is the likelihood
+that a paper chosen at random is in the top 5 percent of citations for papers in its
+field. Papers in the hotspot are on average more than two times more likely than the
+background rate to be hits. Notably, 75 percent of papers are outside the hotspot,
+and their likelihood of being a hit is no greater than expected by chance. After
+Mukherjee et al. [334].
+
+
+discoveries, while the one in Fig. 19.2d draws upon knowledge some-
+what uniformly across time.
+         Which strategy is associated with the greatest impact? To
+answer this question, a team of researchers analyzed more than 28 mil-
+lion papers in the Web of Science, capturing two parameters for each
+paper [334]: the mean age of its references (<T>) and the coefficient of
+variation (σT) for the age distribution of its references, which captures
+how far those references’ publication dates are spread out. Then the
+researchers measured the number of citations each paper had accumu-
+lated eight years after its publication. They considered a work of high-
+impact (i.e., a hit paper) if it lay within the top fifth percentile of citation
+counts in its subfield.
+         The relationship between <T>, σT, and impact is captured by
+the heat plot shown in Fig. 19.2e. Each point represents the <T> and
+σT values of papers published in 1995 and the color corresponds to the
+probability of finding hit papers at that particular combination of Tμ
+and σT, defining the “hotspots” of discovery. Three main conclusions
+emerge from Fig. 19.2e:
+
+[p. 201] [PDF page 219]
+
+ Papers with low <T> and high σT are in the middle of the hotspot,
+  offering the highest impact. In other words, papers whose references
+  are centered just behind the bleeding edge of knowledge but which
+  also combine an unusually broad mix of old and new (as in
+  Fig. 19.2c) tend to garner the most citations. Papers of this sort are
+  2.2 times more likely to become homeruns in their field than a
+  randomly chosen publication.
+ Papers that center their references exclusively on new knowledge
+  (those with low <T> and low σT, Fig. 19.2b) have a surprisingly
+  low impact, rarely exceeding what would be expected by chance. This
+  suggests, the conventional bias towards heavily referencing recent
+  work may be misguided; more recent references are only valuable
+  when supplemented with older references.
+ Papers whose references are centered in “vintage” knowledge
+  (papers with high <T > and low σT, Fig. 19.2a) have a particu-
+  larly low impact. Their likelihood of becoming homeruns in their
+  field is about half of what is expected by chance. This is quite
+  remarkable, given that some 27 percent of all papers fall in this
+  category.
+
+        Figure 19.2e shows that being at the cutting edge is key for
+future impact, but only when paired with an appreciation for older
+work. Building only on recent knowledge amounts to throwing a
+dart to determine your paper’s impact – you are leaving it entirely to
+the whims of chance. Furthermore, the lowest impact works are
+those that are stuck in the past, building exclusively on vintage
+knowledge while oblivious of recent developments. These are not
+merely sweeping generalizations: Disaggregating the data by field
+reveals the same pattern of hotspots in nearly every branch of
+science. What’s more, the effect of referencing patterns has become
+more universal in recent decades. While at the beginning of the
+postwar era about 60 percent of fields displayed a clear link
+between hotspots and hits, by the 2000s, this link was detectable
+in almost 90 percent of research fields.
+        This suggests, despite important differences among scientific
+fields in methods, culture, and the use of data versus theory, the
+way a scientist chooses to build upon earlier work consistently influ-
+ences whether or not her work will make a splash, no matter
+her field.
+
+[p. 202] [PDF page 220]
+
+19.3        The Growing Impact of Older Discoveries
+         Access to scholarly knowledge has fundamentally changed over
+the years. Today’s students may never set foot in a library. Instead, they
+hunt for the relevant literature from their browsers, using powerful
+search engines like Google Scholar. And while they may be impressed
+by the heavy bookshelves and neat piles of printed journals in a profes-
+sor’s office, it may be hard for them to imagine how he once relied on
+them to keep up with the latest developments in his field. Many scien-
+tists today first learn about their colleagues’ new research from social
+media and they feel satisfied when someone retweets their latest
+preprints.
+         But how do the changes in information access alter the way we
+build on past knowledge? On one hand, new tools and technologies
+allow us to reach deeper into the past [335–337]. Today every journal
+offers online access and a digital archive of its older articles, making all
+research accessible 24/7 for anyone with Internet access. These changes
+make older knowledge more accessible [337], ostensibly increasing the
+chances that scientists will build upon it, especially since search engines
+often allow users to see the most relevant results first, not just the most
+recent ones.
+         Yet there are also reasons to believe that these changes may in
+fact narrow the ideas scientists build upon [338]. Following hyperlinks
+is likely to steer researchers towards the current prevailing opinion,
+rather than something deep within the archives. Indeed, trips to the
+library might have been inefficient, but they also offered an opportunity
+for serendipity; flipping through dusty pages, scholars were forced to
+interact with findings from the distant past, noticing papers and know-
+ledge they were not necessarily seeking. Therefore, digital publishing
+has the potential to make us more myopic, its convenience shifting us
+away from the classics and towards more recent work. Moreover, the
+digital tools we rely on also push us closer than ever to the frontier of
+knowledge. Today’s scientist receives an email alert the moment a new
+paper in her field has been published or is shared on social media. She
+does not even need to wait for a journal publication to learn about the
+latest advances, as preprint sharing (wherein a paper is circulated pub-
+licly before being published in a peer-reviewed journal) is now the norm
+in several disciplines. Taken together, these changes may further reduce
+the time gap between what scientists produce and what they build upon.
+
+[p. 203] [PDF page 221]
+
+To estimate the impact of digitization, researchers studied
+papers published between 1990 and 2013, counting how many cited
+papers that were at least 10 years old [337]. They found that the
+fraction of older citations grew steadily between 1990 and 2013, even
+accelerating after 2000. The shift was most pronounced between
+2002 and 2013, when sophisticated search engines emerged. By 2013,
+four of the nine broad research areas had at least 40 percent citations to
+older articles, the “humanities, literature and arts” category leading the
+pack with 51 percent.
+         This trend is not limited to the last two decades. Plotting the
+average age of references over time, we find that since the 1960s,
+scientists have been systematically reaching deeper into the literature,
+citing older and older papers (Fig. 19.3). Why did such deep referencing
+start in the 1960s? While the answer is not entirely clear, one possible
+answer is rooted in the advent of peer review [5]. Before the 1960s,
+
+
+                            10
+
+
+                            9.5
+
+
+                             9
+
+
+
+
+            Reference age
+                            8.5
+
+
+                             8
+
+
+                            7.5
+
+
+                             7
+                                 1950   1970          1990             2010
+
+
+                                               Year
+              Figure 19.3 Building on the past. The average age of the references of
+            papers stayed around 7.5 years from 1950 to 1970, after which we
+            observe a remarkable increasing trend, indicating that scientists are
+            systematically reaching deeper into the literature. The dotted line marks
+            the year 1967, when Nature officially introduced peer review. The fact
+            that the start of peer review coincided with changes in referencing patterns
+            has led researchers to hypothesize a link between the two [5].
+
+[p. 204] [PDF page 222]
+
+papers were accepted mainly at the editors’ discretion [339]. By the mid-
+twentieth century the increasing specialization of science had intensified
+the need for expert opinions – yet disseminating a paper to geographic-
+ally dispersed readers was difficult until photocopying became available
+in 1959 [340]. Nature officially introduced peer review in 1967, and the
+practice became mainstream throughout scholarly publishing shortly
+thereafter. It is likely that these reviewers could point out relevant older
+work for the authors to consider, not only boosting references to
+canonical literature, but also inducing a behavioral change, prompting
+authors to more carefully credit earlier work.
+         Together, these results indicate that technological shifts have
+made it easier to find the most relevant articles, irrespective of their age.
+Happily, important advances are no longer getting lost on shelves, but are
+able to continue to influence research for decades longer. But just how
+long can a researcher expect their corpus of work to remain relevant?
+
+
+    Box 19.1 The age distribution of citations: Two distinct
+    approaches
+    Historically, two rather distinct approaches have been used to measure the
+    age distribution of citations. The retrospective (citation from) approach
+    considers papers cited by a publication during a particular year and
+    analyzes the age distribution of these citations [272], looking back in time
+    [341–343]. By contrast, the prospective (citations to) approach studies the
+    distribution of citations gained over time by papers published in a given
+    year [272, 341–344].
+           Research shows that the two approaches are connected through
+    precise mathematical relationships, allowing us to derive and even predict
+    one approach from the other [253]. Yet, while both approaches measure the
+    age of citations, they capture different processes. The retrospective
+    approach, which we have used so far in this chapter, measures how far
+    back in time the authors of a paper look as they cite earlier references,
+    characterizing the citing “memory” of a paper. The prospective approach,
+    on the other hand, represents a collective measure, quantifying how a
+    particular paper is remembered over time. Hence, the prospective approach
+    (which we will use next) is more useful for understanding how impact
+    changes with time. Note, however, that studies prior to 2000 mostly relied
+    on the retrospective approach. The reason is mainly computational: the
+    retrospective approach is easier to implement, since the citing paper is fixed.
+
+[p. 205] [PDF page 223]
+
+2.5                                      Publication year
+                 2.0                                                      1950
+                                                                          1960
+                 1.5                                                      1970
+                                                                          1980
+                 1.0                                                      1990
+                 0.5
+
+                   0
+                       0                10                  20                   30
+
+
+              Figure 19.4 The jump-decay pattern of citations. The average number
+            of citations as a function of the time elapsed since publication. Each line
+            represents a group of papers, the color denoting their publication year. As
+            the curves indicate, most citations come within the first five years after
+            publication; after that, the chance of a paper being cited again drops
+            dramatically.
+
+
+
+
+19.4        Your Expiration Date
+          As we saw in Fig. 19.1, our chance of referencing an older paper
+decays quickly with the paper’s age. For the scientist, this prompts a
+critical, if uncomfortable, question: Do papers have an expiration date,
+after which they lose their relevance to the scientific community?
+          To answer this question, we can consider the average number of
+citations cðt Þ a paper acquires each year after publication. As Fig. 19.4
+shows, citations follow a jump-decay pattern [298, 345]: A paper’s
+citation rate rises quickly after publication, reaching a peak around year
+two or three, after which it starts to drop. In other words, a typical paper
+achieves its greatest impact within the first few years of its publication.
+After that, its impact diminishes quickly. As Box 19.2 explains, this jump-
+decay pattern is the rationale behind the two-year window used to
+measure the “impact factor,” a metric used to evaluate journals.
+          The jump-decay citation pattern suggests that, if we wish to
+fairly compare the impact of two papers, we must first factor in their
+age. A paper published in 2000 may have a higher citation count than a
+2010 paper simply because it has been around longer (Fig. 19.5a). Yet,
+as Fig. 19.5b indicates, a paper’s cumulative citations do not increase
+indefinitely, but saturate after a few years. For example, by 2006 the
+citation distributions of papers published in 1991 or 1993 were statis-
+tically indistinguishable (Fig. 19.5b). In other words, the citation
+
+[p. 206] [PDF page 224]
+
+(a)
+
+
+
+
+             Probability density
+                                   1.0
+                                               2004                         2000
+                                                      2002                      1998
+                                   0.5
+
+
+                                         0.0      0.5        1.0   1.5    2.0       2.5   3.0
+                                                      Log10 (Number of citations)
+            (b)
+
+
+
+
+             Probability density
+                                   1.0
+
+
+                                   0.5
+
+
+                                         0.0      0.5        1.0   1.5    2.0       2.5   3.0
+                                                      Log10 (Number of citations)
+
+              Figure 19.5 Time evolution of citation distributions. Taking papers
+            published by Journal of Biological Chemistry, (a) shows the distribution of
+            citations accrued by the end of 2006 [273]. Papers published in
+            2004 constitute the far-left curve, because they had only two years to
+            collect citations. Papers published in earlier years, which have had more
+            time to collect citations, are further to the right. However, as papers get
+            older, this temporal shift wanes. In (b), we consider the citations to papers
+            published between 1991 and 1993. Since those published in 1991 have
+            mostly stopped acquiring new citations by 2006, their citation distribution
+            is identical to that of papers published in 1993. After Stringer et al. [273].
+
+
+distributions converge to a steady-state form after a certain time period
+(with that period varying from journal to journal) [273]. From that
+point on, the number of new citations a paper garners becomes negli-
+gible – those papers have reached their expiration date.
+
+
+            Summary
+        At the beginning of this chapter, we posed a difficult question: If
+you were at the Library of Alexandria watching the flames grow nearer,
+which research would you save – the old, or the new? The issues
+discussed in this chapter not only help us to answer this question, but
+may also help scientists more realistically understand the lifespan of
+their work.
+
+[p. 207] [PDF page 225]
+
+Box 19.2 Impact factor
+   The impact factor (IF), often used to quantify the importance of a journal,
+   captures the average number of citations that papers published in that
+   journal collect within two years of publication. Nature, for example, has
+   an impact factor of 38.1 for the year 2015, while Physical Review Letters
+   has an impact factor of 7.6, American Sociological Review 4.3, and
+   Journal of Personality and Social Psychology 4.7. Lately, however, the
+   impact factor has started to take on a new, concerning function. When a
+   paper is published in a certain journal, readers increasingly use that
+   journal’s impact factor to evaluate the potential importance of the paper.
+   This is as misguided as trying to judge a book by its cover. Indeed, as
+   Fig. 19.6 shows, papers published within the same journal can have vastly
+   different impacts, telling us that the impact factor cannot predict an
+   individual paper’s impact.
+
+        10-1
+                                                                                            Cell
+        10-2                                                                                PNAS
+                                                                                            PRB
+   10
+        10-3
+
+        10-4
+
+        10-5
+               0                          10                           100                        1,000
+                                                          10
+
+
+     Figure 19.6 Impact factor does not predict the impact of individual papers.
+   (a) Distribution of the cumulative citations ten years after publication (c10) for
+   all papers published in Cell (IF = 33.62 in 1992), PNAS (IF = 10.48), and
+   Physical Review B (PRB) (IF = 3.26). Papers published by the same journal
+   have vastly different impacts, despite sharing the same impact factor. After
+   Wang et al. [298].
+
+
+
+         As we have discussed, scientists follow reproducible patterns
+when drawing upon prior knowledge. The cutting edge of new research
+is integral to the discovery process, given that the vast majority of
+references are to papers published within the last two to three years.
+Yet citing work from the frontier does not by itself guarantee impact:
+Papers with a judicious mix of new and canonical knowledge are twice
+as likely to be home runs than typical papers in the field. Therefore,
+
+[p. 208] [PDF page 226]
+
+while building upon cutting-edge work is key, a paper’s impact is lifted
+when it considers a wide horizon of research. Put simply, if the person at
+the Library of Alexandria wanted to ensure that great scientific discov-
+eries would still be possible going forward, she should try to stack up on
+newly published scrolls, but also grab a few older ones.
+         In general, a paper garners most of its citations within the first
+couple of years of publication. However, old papers are never entirely
+forgotten – hence, focusing exclusively on the impact garnered within
+the first few years is likely to miss the long-term impact of a discovery.
+That means it is only fair to compare the impact of two papers if they
+have had a similar amount of time to be cited, or if both papers have
+been around long enough that they have already collected the bulk of
+their citations. Often, we may not know a paper’s true impact for more
+than a decade.
+         For scientists, there is another takeaway: Each of our papers
+have an expiration date. Whether we like it or not, there will come a
+point when every paper we have written stops being relevant to the
+community. However, this dark cloud has a silver lining: Thanks to
+digitization, older articles are getting more and more attention, indicat-
+ing that the collective horizon of science is expanding.
+         But if every paper will sooner or later stop acquiring citations,
+what is the “ultimate” impact for each paper? And can we estimate a
+paper’s total impact in advance?

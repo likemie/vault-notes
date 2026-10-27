@@ -1,0 +1,472 @@
+The Science of Science
+Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
+ISBN 9781108492669 | DOI 10.1017/9781108610834
+
+Part I: The Science of Career
+Chapter 3: The Matthew Effect
+Print pages 28–38; one-based PDF pages 46–56
+
+[English original. Page markers identify print and PDF pages. References remain numbered as in the book. Shared supplementary materials are labelled separately. Download footers and recognized running heads are removed; original text, formulas and line breaks are otherwise retained. Verify exact mathematical notation, diagrams and table layout against the PDF.]
+
+
+========================================================================
+Chapter text
+========================================================================
+
+[p. 28] [PDF page 46]
+
+3                              THE MATTHEW EFFECT
+
+
+         Lord Rayleigh is a giant of physics, with several laws of nature
+carrying his name. He is also known beyond the profession thanks to
+Rayleigh scattering, which answers the proverbial question, “Why is the
+sky blue?” Rayleigh was already a respected scientist when, in 1886, he
+submitted a new paper to the British Association for the Advancement
+of Science to discuss some paradoxes of electrodynamics. The paper was
+promptly rejected on the grounds that it did not meet the journal’s
+expectation of relevance and quality. Yet, shortly after the decision,
+the editors reversed course. Not because anything changed about the
+paper itself. Rather, it turns out that Rayleigh’s name had been inadvert-
+ently omitted from the paper when it was first submitted. Once the
+editors realized it was Rayleigh’s work, it was immediately accepted
+with profuse apologies [59, 60]. In other words, what was initially
+viewed as the scribblings of some “paradoxer,” suddenly became worth
+publishing once it became clear that it was the work of a world-
+renowned scientist.
+         This anecdote highlights a signaling mechanism critical in sci-
+ence: the role of scientific reputation. Robert K. Merton in 1968 [60]
+called this the Matthew effect after a verse in the biblical Gospel of
+Matthew pertaining to Jesus’ parable of the talents: “For to everyone
+who has will more be given, and he will have an abundance. But from
+the one who has not, even what he has will be taken away.” The
+Matthew effect as a concept has been independently discovered in
+multiple disciplines over the last century, and we will encounter it again
+in Chapter 17, when we discuss citations. In the context of careers, the
+
+[p. 29] [PDF page 47]
+
+Matthew effect implies that a scientist’s status and reputation alone
+can bring additional attention and recognition. This means that status
+not only influences the community’s perception of the scientist’s cred-
+ibility, playing an important role in how her work is evaluated, but it
+also translates into tangible assets – from research funding to access to
+outstanding students and collaborators – which in turn further
+improve her reputation. The goal of this chapter is to unpack the role
+of the Matthew effect in careers. When does it matter? And to what
+extent?
+
+
+3.1         What’s in a Name?
+         The Internet Engineering Task Force (IETF) is a community of
+engineers and computer scientists who develop the protocols that run
+the Internet. To ensure quality and functionality, engineers must submit
+all new protocols as manuscripts that undergo rigorous peer review. For
+a while, each manuscript included the name of every author. However,
+beginning in 1999, some manuscripts replaced the full author list with a
+generic “et al.,” concealing the name of some authors from the review
+committee.
+         By comparing cases where well-known authors were hidden by
+the et al. label with those where the hidden names were little-known,
+researchers effectively conducted a real-world Lord Rayleigh experi-
+ment [61]. They found that when an eminent name was present on a
+submission, like the chair of a working group, which signals profes-
+sional standing, the submission was 9.4 percent more likely to be
+published. However, the “chair effect” declined by 7.2 percent when
+the senior author’s name was masked by the et al. label. In other words,
+name-based signaling accounts for roughly 77 percent of the benefits of
+having an experienced author as a coauthor on the manuscript.
+         Interestingly, when the analysis was restricted to a small pool
+of manuscripts that were “pre-screened,” or closely scrutinized, the
+author name premium disappeared. This suggests that the status effect
+only existed when the referees were dealing with high submission rates.
+In other words, when the reviewers do actually read the manuscript,
+carefully judging their content, status signals tend to disappear.
+         Given the exponential growth of science, we frequently encoun-
+ter the “too many to read” situations. Yet, typically, peer review is a
+rather involved process, with multiple rounds of communication
+
+[p. 30] [PDF page 48]
+
+between authors and expert reviewers, suggesting that the status signal-
+ing may be less of a concern for scientific manuscripts. Indeed, through
+those rebuttals and revisions, an objective assessment of the work is
+expected to prevail. Yet, as we see next, the status effect is rarely
+eliminated.
+         Whether an author’s status affects the perceived quality of his/
+her papers has been long debated in the scientific community. To truly
+assess the role of status, we need randomized control experiments,
+where the same manuscript undergoes two separate reviews, one in
+which the author identities are revealed and another in which they are
+hidden. For obvious ethical and logistical reasons, such an experiment
+is difficult to carry out. Yet, in 2017, a team of researchers at Google
+were asked to co-chair the program of the Tenth Association for
+Computing Machinery International Conference on Web Search and
+Data Mining (WSDM), a highly selective computer science conference
+with a 15.6 percent acceptance rate. The researchers decided to use the
+assignment as a chance to assess the importance of status for a paper’s
+acceptance [62].
+         There are multiple ways to conduct peer review. The most
+common is the “single-blind” review, when the reviewers are fully
+aware of the identity of the authors and the institution where they
+work, but, the authors of the paper are not privy to the reviewer’s
+identity. In contrast, in “double-blind” review, neither the authors nor
+the reviewers know each other’s identity. For the 2017 WSDM confer-
+ence the reviewers on the program committee were randomly split into a
+single-blind and a double-blind group. Each paper was assigned to four
+reviewers, two from the single-blind group and two from the double-
+blind group. In other words, two groups of referees were asked to
+independently judge the same paper, where one group was aware of
+who the authors were, while the other was not.
+         Given the Lord Rayleigh example, the results were not surpris-
+ing: Well-known author – defined as having at least three papers
+accepted by previous WSDM conferences and at least 100 computer
+science papers in total – were 63 percent more likely to have the paper
+accepted under single-blind review than in double-blind review. The
+papers under review in these two processes were exactly the same,
+therefore, the difference in acceptance rate can only be explained by
+author identity. Similarly, authors from top universities had a 58 percent
+increase in acceptance once their affiliation was known. Further, for
+
+[p. 31] [PDF page 49]
+
+authors working at Google, Facebook, or Microsoft, considered presti-
+gious institutions in computer science, the acceptance rate more than
+doubled, increasing by 110 percent.
+        These results indicate that in science we do rely on reputation –
+captured by both author identity and institution prestige – when we
+judge a scientific paper. While we may debate whether the use of such
+information helps us make better or worse decisions, status signaling
+plays a key role in getting published in prestigious venues.
+
+
+     Box 3.1 Double blind vs. single blind
+     If two papers are identical except that one is written by an unknown
+     scientist while the other by a researcher of considerable reputation, they
+     obviously should have an equal chance of being published. Yet, this may
+     only happen if the reviews are double-blind. Isn’t this a strong reason for
+     all science to switch to a double-blind review? New evidence shows that
+     this simple question may not have a simple answer.
+             An experiment performed by Nature shows that making double-
+     blind review optional does not solve the problem [63]. Nature started to
+     offer the option of double-blind review in 2015. Analyzing all papers
+     received between March 2015 and February 2017 by 25 Nature-branded
+     journals, researchers found that corresponding authors from less presti-
+     gious institutions were more likely to choose double-blind review, presum-
+     ably as an attempt to correct for pre-existing biases. However, the success
+     rate at both first decision and peer review was significantly lower for
+     double-blind than single-blind reviewed papers.
+             Take Nature, the flagship journal, as an example. Under a single-
+     blind process, the odds of your paper to be sent out for review is 23
+     percent. But if you opt for a double-blind review, those odds drop to 8
+     percent. The prospects don’t improve once the paper is reviewed: The
+     likelihood that your paper is accepted after review is around 44 percent
+     for single-blind submissions but only 25 percent for double-blind papers.
+     In other words, referees are more critical if they are unaware of an author’s
+     identity. And these differences matter: If you multiply the probabilities
+     of being sent out for review and acceptance after review, the chances of
+     your paper being accepted in Nature through the double-blind review
+     process is a staggering 2 percent. While a single-blind review is still a long
+     shot, it has a success rate of 10.1 percent. In other words, your odds of
+     acceptance may drop as much as five-fold by simply selecting the double-
+     blind option.
+
+[p. 32] [PDF page 50]
+
+A possible explanation for the observed difference is the quality of
+     papers [63]. Indeed, papers by less-known authors or from less prestigious
+     institutions may not report research of the same quality as those coming
+     from experienced authors from elite institutions. This argument is refuted
+     by a randomized experiment conducted at the American Economic Review
+     (AER) [64], an influential journal in economics. From May 1987 to May
+     1989, AER ran a randomized experiment on submitted papers, assigning
+     one-half to a double-blind review process and the other half to single-blind
+     one. Because the experiment was randomized, there was no quality differ-
+     ence between the two piles. Yet, the acceptance rate was still much lower
+     for papers in the double-blind group.
+             These results suggest positive discrimination as a more likely explan-
+     ation: authors with perceived status are subject of the benefit of the doubt,
+     whereas those without the status get extra scrutiny on issues from research
+     design to methodology. Yet, it is difficult to find objective reasons why
+     double-blind review should not be the norm of scientific publishing. Its
+     widespread use would level the playing field, lowering the hold of research-
+     ers with status – whether earned through the impact of previous work, or
+     simply through affiliation with highly prestigious institutions.
+
+
+
+
+3.2         Boosting Impact
+          A scientist’s reputation facilitates the publication of her paper, but
+does it also affect the long-term impact of their discoveries? While accept-
+ance only requires a momentary consensus among reviewers, its impact is
+driven by the broader consensus of the scientific community, who may
+choose to build further on the work, or may simply ignore it. Do papers
+published by a well-known scientist also enjoy an impact premium?
+          But, how do we measure reputation? A good starting point may
+be ci(t), representing the total citation count of all papers an author has
+published prior to a new paper’s publication [65, 66]. Indeed, ci(t)
+combines both productivity (the number of papers published by an
+author) and impact (how often these papers are cited by others), which
+together offer a reasonable proxy of the author’s name recognition
+within her research community.
+          The rate at which a paper acquires new citations tends to be
+proportional to how many citations the paper has already collected [67,
+68]. Indeed, highly cited papers are more read, hence are more likely to be
+
+[p. 33] [PDF page 51]
+
+cited again. This phenomenon is called preferential attachment, which we
+will discuss again in detail in Chapter 17. To see how an author’s
+reputation affects the impact of her publications, we can measure the
+early citation premium for well-known authors [65]. For example, for
+a group of well-known physicists, their paper has acquired around 40
+citations (cx  40) before preferential attachment turns on (Fig. 3.1). In
+contrast, for junior faculty in physics (assistant professors), cx drops from
+40 to 10. In other words, right after its publication, a senior author’s
+paper appears four times more likely to be cited than a junior author’s.
+         Figure 3.1 suggests that reputation plays an important role
+early on, when the number of citations is small (i.e., when c < cx).
+Yet, with time, the reputation effect fades away, and the paper’s long-
+term impact is primarily driven by mechanisms inherent to papers
+rather than their authors. In other words, well-known authors enjoy
+an early citation premium, representing better odds of their work to be
+noticed by the community. This leads to a leg-up in early citations. But
+with time, this reputation effect vanishes, and preferential attachment
+takes over, whose rate is driven primarily by the collective perception of
+the inherent value of the discovery.
+         The reputation boost discussed above is not limited to new
+papers. Eminence can spill over to earlier works as well, boosting their
+impact. Sudden recognitions, like receiving the Nobel Prize, allow us
+to quantify this effect. Consider, for example, John Fenn, who received
+the 2002 Nobel Prize in chemistry for the development of the
+
+
+
+
+                                        40
+
+
+
+
+                                  Citations,
+
+              Figure 3.1 The cross-over effect of reputation on citations. The linear
+            attachment rate breaks down for c < cx, suggesting that additional forces
+            provide a citation boost which elevates c(t) to deviate from what is
+            predicted by the pure preferential attachment mechanism. Datasets include
+            100 top-cited physicists, and another 100 highly prolific physicists. After
+            Petersen et al. [65].
+
+[p. 34] [PDF page 52]
+
+electrospray ionization technique. His original discovery, published in
+Science in 1989 [69], is Fenn’s most cited work, collecting close to
+8,500 citations by 2018 according to Google Scholar. But as his
+landmark paper started to collect citations at an exceptional rate
+following its publication, the citation rates of several of Fenn’s older
+papers also started to grow at a higher pace. Analyses of 124 Nobel
+laureates show that this boost is common [70]: The publication of a
+major discovery increases the citation rates of papers the author pub-
+lished before. Interestingly, the older papers that enjoyed the citation
+boosts are not necessarily related to the topic of the new discovery. In
+other words, reputational signaling operates by bringing professional
+attention to the individual. Consequently, when an author becomes
+prominent in one area of science, her reputation may be extended to
+her other line of work, even in unrelated fields.
+
+     Box 3.2 From boom to bust: The reverse Matthew effect
+     If a major breakthrough blesses both past and future scholarship, what
+     does a scandal do to a career? Scientists are certainly fallible, and the
+     scientific community regularly confronts major mistakes or misconduct.
+     These incidents lead to retractions of articles, particularly in top journals
+     [71], where they receive enhanced scrutiny. To what degree does a
+     retracted paper affect a scientific career? Are eminent authors affected
+     more or less severely than their junior colleagues? While retractions are
+     good for science, helping other researchers avoid false hypotheses, retrac-
+     tions are never good for the authors of the retracted paper: they experience
+     a spillover, leading to citation losses to their prior body of work as well
+     [72–74]. The negative impact is not distributed equally, however: Eminent
+     scientists are more harshly penalized for their retracted papers than when
+     retractions happen to their less-distinguished peers [74]. Importantly, this
+     conclusion only holds when the retractions involve fraud or misconduct.
+     In other words, when the retraction is perceived to be the consequence of
+     an “honest mistake,” the penalty differential between high- and low-status
+     authors disappears [74].
+             When a senior and junior scientists are on the same retracted paper,
+     however, the status penalty becomes quite different [75]: Senior authors
+     often escape mostly unscathed, whereas their junior collaborators carry
+     the blame, sometimes even to a career-ending degree. We will return to this
+     effect in Chapter 13, where we explore the benefits and the drawbacks of
+     collaborative work.
+
+[p. 35] [PDF page 53]
+
+3.3         Is it Really the Matthew Effect After All?
+         Great scientists are seldom one-hit wonders [60, 76]. Newton is a
+prime example: beyond the Newtonian mechanics, he developed the
+theory of gravitation, calculus, laws of motion, optics, and optimization.
+In fact, well-known scientists are often involved in multiple discoveries,
+another phenomenon potentially explained by the Matthew effect.
+Indeed, an initial success may offer a scientist legitimacy, improve peer
+perception, provide knowledge of how to score and win, enhance social
+status, and attract resources and quality collaborators, each of these
+payoffs further increasing her odds of scoring another win. Yet, there is
+an appealing alternative explanation: Great scientists have multiple hits
+and consistently succeed in their scientific endeavors simply because
+they’re exceptionally talented. Therefore, future success again goes to
+those who have had success earlier, not because of advantages offered
+by the previous success, but because the earlier success was indicative of a
+hidden talent. The Matthew effect posits that success alone increases the
+future probability of success, raising the question: Does status dictate
+outcomes, or does it simply reflect an underlying talent or quality? In
+other words, is there really a Matthew effect after all?
+         Why should we care about which is the more likely explan-
+ation, if the outcome is the same? Indeed, independent of the mechan-
+ism, people who have previously succeeded are more likely to succeed
+again in the future. But, if innate differences in talent is the only reason
+why some people succeed while others don’t, it means that the deck is
+simply stacked in favor of some – at the expense of others – from the
+outset. If, however, the Matthew effect is real, each success you experi-
+ence will better your future chances. You may not be Einstein, but if you
+are lucky to get that early win, you may narrow the gap between
+yourself and someone of his eminence, as your success snowballs.
+         Unfortunately, it is rather difficult to distinguish these two
+competing theories, as they yield similar empirical observations. One
+test of these contrasting hypotheses was inspired by the French Acad-
+emy’s mythical “41st chair.” The Academy decided early on to have
+only 40 seats, limiting its membership to 40 so-called “immortals,” and
+would only consider nominations or applications for new members if
+one of the seats became vacant through the death of a member. Given
+this restriction, many deserving individuals were never elected into the
+Academy, being eternally delegated to the 41st chair. It’s a crowded
+
+[p. 36] [PDF page 54]
+
+seat, shared by true immortals like Descartes, Pascal, Molière, Rous-
+seau, Saint-Simon, Diderot, Stendahl, Flauberta, Zola, and Proust [60].
+At the same time, many of those who did hold a seat in the esteemed
+club are (unfortunately) utterly irrelevant to us today. With time, the
+41st chair became a symbol of the many talented scientists who should
+have been, but were never, recognized as giants of their discipline.
+         But, does it actually matter if someone is formally recognized or
+not? Indeed, how does the post-award perception of major prizewinners
+compare to scientists who had comparable performance, but who were
+not officially recognized? In other words, how does the career of those
+that occupied the 41st chair differed, had they been elected to the French
+Academy? The answer is provided by a study, exploring the impact of a
+major status-conferring prize [77].
+         As a prestigious private funding organization for biomedical
+research in the United States, the Howard Hughes Medical Institute
+(HHMI) selects “people, not projects,” generously supporting scientists
+rather than awarding them grants for specific peer-reviewed research
+proposals. The HHMI offers about US$1 million per investigator each
+year, providing long-term, flexible funding that allows awardees the
+freedom to follow their instincts, and if necessary, change research direc-
+tions. Beyond the monetary freedom, being appointed an HHMI investi-
+gator is seen as a highly prestigious honor. To measure the impact of the
+HHMI award, the challenge is to create a control group of scientists who
+were close contenders but who were not selected for the award and
+compare their scientific outputs with those of the HHMI investigators.
+         But, let’s assume that we identify this control group of scientists,
+and do find evidence that HHMI investigators have more impact. How can
+we know that the difference is purely because of their newfound status?
+After all, the US$1 million annual grant gives them the resources to do
+better work. To sort this out, we can focus only on articles written by the
+awardees before they received the award. Therefore, any citation differ-
+ences between the two groups couldn’t be simply the result of the superior
+resources offered to awardees. Sure enough, the analysis uncovered a post-
+appointment citation boost to earlier works, offering evidence that in
+science, the haves are indeed more likely to have more than the have-nots.
+         This success-breeds-success effect is not limited to HHMI inves-
+tigators. When a scientist moves from a laureate-to-be to a Nobel
+laureate, her previously published work – whether of Nobel prize-
+winning caliber or not – gathers far more attention [78]. Once again,
+
+[p. 37] [PDF page 55]
+
+like the case of John Fenn discussed above, a person’s previous work
+doesn’t change when she becomes an HHMI investigator or a Nobel
+laureate. But with new accolades casting warm light on her contribu-
+tion, attention to her work increases.
+         Interestingly, though, strictly controlled tests suggest that status
+has only a modest role on impact, and that role is limited to a short
+window of time. Consistent with theories of the Matthew effect, a prize
+has a significantly larger effect when there is uncertainty about article
+quality, and when prizewinners are of (relatively) low status at the time of
+the award. Together, these results suggest that while the standard
+approach to estimating the effect of status on performance is likely to
+overstate its true influence, prestigious scientists do garner greater recog-
+nition for their outputs, offering further support for the Matthew effect.
+
+
+
+     Box 3.3 Causal evidence for the Matthew effect: Field
+     experiments
+     Randomized experiments offer the best way to untangle the role of status
+     from individual differences such as talent. We can select two groups – a
+     control and a treatment group – and randomly assign an advantage to
+     some while denying it to others. If success is allocated independent of prior
+     success or status, any discrepancy in the subsequent advantage of recipi-
+     ents over non-recipients can only be attributed to the exogenously allo-
+     cated early success.
+            While we can’t assign life-altering awards or grants to randomly
+     chosen scientists [79], we can explore the phenomenon using experiments
+     carried out in real-world settings where the intervention causes minimal
+     harm. This is what Arnout van de Rijt and his collaborators did in a series
+     of experiments [80, 81]. They randomly selected the most productive
+     Wikipedia contributors within a subset of the top 1 percent of editors
+     and randomly assigned them to one of two groups. Then they gave out
+     “barnstars” to the experimental group – an award used within the com-
+     munity to recognize outstanding editors, while leaving the control group
+     unrecognized. As shown in Fig. 3.2, prior to intervention, the activities of
+     the two groups are indistinguishable, as they were drawn randomly from
+     the same sample of productive editors. Yet once the fake barnstars
+     were bestowed on the experimental group, the awardees exhibited more
+     engagement than their peers in the control group, demonstrating greater
+     sustained productivity and less likelihood of discontinuing their editorial
+
+[p. 38] [PDF page 56]
+
+3.00
+                                                                                                          2.94
+
+
+
+
+Running total / pre-treatment total
+                                                                                                          2.21
+                                      2.00
+
+
+
+
+                                      1.00                                                   Experiment
+                                                                                             Control
+                                                                                             Award received
+
+                                      0.00
+
+                                             -30             0            30            60             90
+
+                                                                 Days since treatment
+
+  Figure 3.2 The Matthew effect: Evidence from a field experiment.
+Researchers randomly assigned Wikipedia editors into two groups, then
+awarded barnstars to the experimental group, and did nothing for the control
+group. Circles show when the editors received additional real awards after the
+treatment. Twelve subjects in the experimental group received a total of 14
+awards, whereas only two subjects in the control condition received a total of
+three awards. After Restivo and van de Rijt [80].
+
+activity. Indeed, receiving a barnstar increased median productivity by
+60 percent compared to the control group. Most importantly, they also
+went on to win many more real barnstars from other editors. These
+additional awards were not just due to their increased productivity, since
+within the experimental group, the awarded individuals were not more
+active than those who received no additional barnstars. The observed
+success-breeds-success phenomenon was shown to persist across domains
+of crowdfunding, status, endorsement, and reputation [81], documenting
+that initial endowments, even if they are arbitrary, can create lasting
+disparities in individual success, and offering causal evidence for the
+Matthew effect.

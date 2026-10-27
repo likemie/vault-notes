@@ -1,0 +1,377 @@
+The Science of Science
+Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
+ISBN 9781108492669 | DOI 10.1017/9781108610834
+
+Part I: The Science of Career
+Chapter 7: Hot Streaks
+Print pages 71–80; one-based PDF pages 89–98
+
+[English original. Page markers identify print and PDF pages. References remain numbered as in the book. Shared supplementary materials are labelled separately. Download footers and recognized running heads are removed; original text, formulas and line breaks are otherwise retained. Verify exact mathematical notation, diagrams and table layout against the PDF.]
+
+
+========================================================================
+Chapter text
+========================================================================
+
+[p. 71] [PDF page 89]
+
+7                                         HOT STREAKS
+
+
+         In physics, 1905 is known as the “miracle year.” It is the year
+that Einstein published four discoveries that changed the discipline
+forever. By the summer, he’d explained Brownian motion, which
+pointed to the existence of atoms and molecules; discovered the photo-
+electric effect, for which he was awarded the Nobel Prize 15 years later,
+representing a pivotal step toward quantum mechanics; and developed
+the theory of special relativity, which changed the way we think about
+time and space altogether. Then, before the year ended, he scribbled
+down the world’s most famous equation: E = mc2.
+         Einstein’s 1905 can be described as a “hot streak,” a burst of
+outstanding achievements. Hot streak is a familiar term in sports or
+gambling. If in basketball you land two shots without even touching the
+rim, you are not at all surprised when you land that third one. You
+probably could even “feel” that strange and magical momentum. While
+for decades hot streaks were taken as a given, in 1985 a much-quoted
+psychology study contested their existence [126], concluding that bas-
+ketball is no streakier than a coin toss. The finding suggested that the
+concept is a fallacy, rooted in our psychological biases for small
+numbers – it only feels that you’re on a roll, yet in reality that streak
+of luck is what one would expect by chance. The 1985 study triggered a
+still-ongoing debate among psychologists and statisticians [127–130],
+with the latest statistics papers arguing that the fallacy may itself be a
+fallacy, and hot streaks do seem to exist in sports after all [127, 131].
+Yet, as the debate unfolds in sports, gambling, and financial markets, it
+raises an intriguing question: If we define our career as the sequence of
+
+[p. 72] [PDF page 90]
+
+papers a scientist produces over a lifetime, do we ever experience hot
+streaks in our career?
+
+
+7.1         Bursts of Hits
+        Across the careers of scientists, artists, and film directors, we’ve
+seen that the three biggest hits of a career each occur at random within
+the sequence of works one produces. This finding tells us that creativity
+is random and unpredictable, with chance playing an outsized role in
+the timing of key achievements. In other words, scientific careers are
+unlikely to include hot streaks. Yet, at the same time, the random
+impact rule raises a puzzling question: What happens after we finally
+produce a breakthrough?
+        The Matthew effect tells us that winning begets more winnings.
+So, if we produce one big hit, even if its timing is random, it would
+follow that we’d produce more hits afterwards. Yet according to the
+random impact rule, the opposite seems to be true. Indeed, if the impact
+of each work in a career is truly random, then one’s next work after a
+hit may be more mediocre than spectacular, reflecting regression toward
+the mean. So, are we really regressing toward mediocrity after we break
+through?
+        To answer this question, we examined the relative timing of
+hit works within a career [117]. Specifically, we asked: Given when
+someone produced their best work, when would their second-best
+work be? To measure the correlation between the timing of the two
+biggest hits within a career (e.g., N∗ and N∗∗) we calculate the joint
+probability P(N∗, N∗∗) for the two of them to occur together, and
+compare it with a null hypothesis in which N∗ and N∗∗ each occur
+at random on their own. Mathematically, this is captured by the
+normalized joint probability, φ(N∗,N∗∗) = P(N∗,N∗∗)/P(N∗)P(N∗∗),
+which is best represented as a matrix (Fig. 7.1). If φ(N∗,N∗∗) is
+approximately 1, then the chance to find the biggest and the second
+biggest hit to occur together within a career is about what we would
+expect if both occur at random. If, however, φ(N∗, N∗∗) is above 1,
+it means that N∗ and N∗∗ are more likely to appear together, corres-
+ponding to a correlation that is not anticipated by the random
+impact rule.
+        Figure 7.1 shows φ(N∗, N∗∗) for careers across sciences,
+movies, and arts, leading to three important conclusions:
+
+[p. 73] [PDF page 91]
+
+(a)
+
+
+
+
+(b)
+
+
+
+
+(c)
+
+
+
+
+  Figure 7.1 Hot-streaks in scientific, cultural, and artistic careers.
+φ(N∗,N∗∗), color-coded, measures the joint probability of the top two highest-
+impact works within the career of (a) scientists, (b) film directors, and (c) artists.
+φ(N∗,N∗∗) > 1 (red along diagonal) indicates that two hits are more likely
+to occur next to each other than expected by chance. After Liu et al. [117].
+
+[p. 74] [PDF page 92]
+
+ First, φ(N∗, N∗∗) is notably higher along the diagonal elements of
+  matrices, indicating that N∗ and N∗∗ are much more likely to co-
+  locate with each other than expected by chance. In other words, if we
+  know where your biggest hit happens in the course of your career, we
+  would know quite well where your second biggest hit is – it will be
+  just around the corner of your biggest hit. The two most important
+  works of a scientist are on average 1.57 times more likely to occur
+  back-to-back than we’d expect to see by chance.
+ Second, φ features a roughly even split across the diagonal, which
+  means that there is a comparable likelihood of the biggest hit arriving
+  either before or after the second biggest hit.
+ Third, the co-location pattern is not limited to the two highest impact
+  works within a career. Indeed, if we repeat our analyses for other
+  pairs of hits, such as N∗ vs. N∗∗∗ and N∗∗ vs. N∗∗∗, we find the
+  same pattern. It is not only the top two hits which appear close to
+  each other. The third hit is also in the vicinity of the first two.
+         These results offer a more nuanced portrait of individual
+careers. Indeed, while the timing of each highest impact works is
+random, the relative timing of the top papers in an individual’s career
+follows highly predictable patterns. As such, individual career trajector-
+ies are not truly random. Rather, hit works within a career show a high
+degree of temporal clustering, with each career being characterized by
+bursts of high-impact works coming in close succession. Further, these
+patterns are not limited to scientific careers. The hits of artists and film
+directors show similar temporal patterns, suggesting that there’s a ubi-
+quitous clustering of successful work emerging across a range of cre-
+ative careers. What are the mechanisms responsible for these
+remarkable patterns?
+
+
+7.2         The Hot-Streak Model
+          To understand the origin of the observed bursts of career hits,
+let’s start with the Q-model discussed in the previous chapter. Imagine
+that every time a scientist publishes a paper, the work’s impact is
+determined by a random number generated from a given distribution,
+which is fixed for that individual. Since citations are well approximated
+by lognormal distributions, let’s assume for convenience that their
+logarithm is drawn from a normal distribution, with average Γi.
+
+[p. 75] [PDF page 93]
+
+A career generated by this null model will nicely follow the random
+impact rule: each hit, including the biggest one, occurs randomly within
+a career [2, 116]. It all depends on luck – the pay-off of a lottery ticket
+drawn from a distribution of random numbers.
+         However, this null model fails to capture the temporal correl-
+ations documented in Fig. 7.1. The main reason is shown in Fig. 7.2a–c,
+where, for illustration purposes, we selected one individual from each of
+the three domains and measured the dynamics of Γi during his or her
+career. These examples indicate that Γi is not constant. Rather, it is
+characterized by a baseline performance (Γ0) until a certain point in a
+career, after which it is elevated to a higher value ΓH (ΓH > Γ0). That
+elevated performance is sustained for some time before eventually fall-
+ing back to a level similar to Γ0. This observation raises an interesting
+question: Could a simple model, which assumes everyone experiences a
+short period like ΓH, explain the patterns documented in Fig. 7.1?
+         Remember, this new model introduces only a simple variation
+over the Q-model – a brief period of elevated impact. But interestingly,
+that small change can account for the empirical observations that the
+random impact rule or the Q model failed to capture (Fig. 7.1). During
+the period in which ΓH operates, the individual seemingly performs at a
+higher level than her typical performance (Γ0). We call this model the
+hot-streak model, where the ΓH period corresponds to the hot streak.
+         The true value of the hot-streak model emerges when we apply
+it to career data, allowing us to obtain the parameters which character-
+ize the timing and the magnitude of hot streaks for individual scientists,
+leading to several important observations:
+
+(1) The measurements indicate that hot streaks are ubiquitous across
+    creative careers. About 90 percent of scientists experience at least
+    one hot streak, as do 91 percent of artists and 82 percent of film
+    directors. This means that hot streaks are not limited to Einstein’s
+    miracle year of 1905. The director Peter Jackson’s hot streak lasted
+    for 3 years, while he directed The Lord of the Rings series, and
+    Vincent van Gogh’s occurred in 1888, the year he moved from Paris
+    to Southern France, producing works like The Yellow House, Van
+    Gogh’s Chair, Bedroom in Arles, The Night Café, Starry Night
+    Over the Rhone, and Still Life: Vase with Twelve Sunflowers.
+(2) Despite their ubiquity, hot streaks are usually unique in a creative
+    career. Indeed, when we relaxed our algorithm to allow for up to
+
+[p. 76] [PDF page 94]
+
+(a)                                    (d)
+
+
+
+
+            (b)                                    (e)
+
+
+
+
+            (c)                                    (f)
+
+
+
+
+              Figure 7.2 The hot-streak model. (a–c) Γ(N) for one scientist (a), artist
+            (b) and film director (c), selected for illustration purposes. It shows that
+            real careers can have strong temporal variations, characterized by brief
+            period of elevated impact. (d–f ) Histogram of the number of hot streaks in
+            a career shows that hot streaks are ubiquitous yet usually unique. Most
+            people have hot streaks, and they mostly likely have just one. After Liu
+            et al. [117].
+
+    three hot streaks, we found that 68 percent of high-impact scientists
+    experience only one hot streak (Fig. 7.2d). A second hot streak may
+    occur but is less likely, and occurrences of more than two are rare.
+(3) Hot streaks occur randomly within a career, offering a further
+    explanation for the random impact rule. Indeed, if the hot streak
+
+[p. 77] [PDF page 95]
+
+occurs randomly within the sequence of works produced in a career,
+    and the highest impact works are statistically more likely to appear
+    within the hot streak, then the timing of the highest impact works
+    would also appear to be random.
+(4) Hot streaks last for a relatively short period. The duration distribu-
+    tion of hot streaks peaks around 3.7 years for scientists, indicating
+    that, whether it happens early or late in a scientist’s career, it most
+    likely lasts for only 4 years. For artists or film directors, it lasts
+    about 5 years.
+(5) While people create more impactful work during hot streaks, they
+    aren’t more productive than we would expect during that time. It’s
+    just that what they do produce is substantially better relative to the
+    rest of their work.
+
+         Why do we have hot streaks in the first place? There are several
+plausible hypotheses. For example, innovators may stumble upon a
+groundbreaking or temporally resonant idea, which then results in mul-
+tiple high-impact publications. Alternatively, since high-impact outcomes
+are increasingly produced by teams, an individual’s hot streak may reflect
+
+
+
+     Box 7.1 Bursts in human activities
+     Short periods of elevated performance are not limited to creative achieve-
+     ments: bursts are also observed in a wide range of human activity patterns.
+     For example, it is often assumed that the timing of specific human activity,
+     like making phone calls, is random. If it is truly random, the inter-event
+     times between consecutive events should follow an exponential distribu-
+     tion. The measurements indicate otherwise: The inter-event times in most
+     human activities is well approximated by a power law distribution [132–
+     134]. This means that the sequence of events is characterized by bursts of
+     activities, occurring within a relatively short time frame, and occasionally
+     there are long time gaps between two events. The “bursty” pattern of
+     human behavior has been documented in a number of activities, from
+     email communications to call patterns and sexual contacts. Although the
+     burstiness and hot streaks are measured differently, these examples suggest
+     that hot streaks have commonalities with the bursts observed in human
+     activities, and the hot-streak phenomena may have relevance beyond
+     human creativity.
+
+[p. 78] [PDF page 96]
+
+a fruitful, repeated, but short-lasting collaboration. Or perhaps it is
+related to shifting institutional factors like tenure track, corresponding
+to career opportunities that augment impact but last for a fixed duration.
+Analyses of real careers suggest that, while plausible, none of these
+hypotheses alone can explain the observed hot-streak phenomena.
+Instead, our preliminary analyses of scientific careers suggest that a par-
+ticular combination of research strategies, namely exploration followed
+by exploitation, seems to be particularly powerful in predicting the
+beginning of a hot streak. As more data on individual careers becomes
+available, we may be able to identify the drivers and triggers for hot
+streaks, helping us answer a range of new questions. Can we anticipate
+the start and the end of a hot streak? Can we create an environment to
+facilitate and promote the onset of a hot streak, and to extend it when
+it emerges?
+
+
+7.3         What Do Hot Streaks Mean for Us?
+         In science, future impact is critical for hiring, career advance-
+ment, research support, and other decisions. Yet, the hot-streak phe-
+nomenon shows that performance can be rather uneven: scientists have
+substantially higher performance during a hot streak. Indeed, the timing
+and magnitude of hot streaks dominate a researcher’s career impact,
+measured by the total citations collected by all of her papers. As such,
+ignoring the existence of hot streaks – and their singular nature – may
+lead us to systematically over- or under-estimate the future impact of a
+career.
+         For example, if a hot streak comes early in a career, it would
+lead to a period of high impact that peaks early. That impact may
+diminish, however, unless a second hot streak emerges. On the other
+hand, if an individual has not yet experienced her hot streak, judging
+her career based on her current impact may underestimate her future
+potential. The hot streak phenomenon is also quite relevant to funding
+agencies, given that hot streaks and research grant both last about four
+years, raising the question of how can funding best maximize its impact
+on individual careers.
+         But, admittedly, implementing changes in light of the hot streak
+phenomenon is a challenge. It would be absurd for a junior scientist to
+justify his middling dossier to his tenure committee by saying, “My hot
+streak is coming!” Similar puzzles confront prize committees when the
+
+[p. 79] [PDF page 97]
+
+prize has an age threshold. The Fields Medal, the highest reward in
+mathematics, only recognizes mathematicians under 40. The National
+Science Fund for Distinguished Young Scholars, an important milestone
+of a successful scientific career in China, excludes applicants over 45.
+Given these arbitrary age thresholds and the randomness of hot streaks,
+it means that a substantial portion of well-deserving candidates will
+miss out if they experience their big break late.
+         Further, our preliminary analysis also suggests that incorpor-
+ating hot streaks in funding decision may not be as intuitive as it
+appears either. For example, we examined the relationship between
+the timing of NIH awards and the beginning of hot streaks for their
+PIs, finding that PIs are more likely to have initiated a hot streak than
+expected prior to being awarded their first R01 grant. In other words, a
+scientist’s hot streak did not follow funding. Rather, it was funding that
+follows hot streaks. These findings are consistent with NIH’s emphases
+on preliminary results, and they also appear reasonable from a funder’s
+perspective, as people who have had a hot streak tend to have higher
+impact (hence worthy of funding). Yet at the same time, these findings
+raise the question of whether – by associating funding decisions with
+past success – funders may miss the critical period when PIs are most
+creative, especially considering the fact that hot streaks are usually
+unique in an individual career.
+         Taken together, if our goal is to identify and nurture individuals
+who are more likely to have a lasting impact in their field, we must
+consider incorporating the notion of hot streaks into the calculus. If we
+don’t, we may miss out on vitally important contributions. Yale Uni-
+versity learned this the hard way.
+         We already encountered John Fenn, and his late discovery. It
+was at age 67, when he published a study that identified a novel
+electrospray ion source. It was a real breakthrough – or at least he
+thought so. But Yale still pushed him out the door, by sending him into
+retirement. After he reluctantly relocated to Virginia Commonwealth
+University, which provided him with the lab he needed to continue his
+investigations, he embarked on a classical hot streak. Between 1984 and
+1989, he published one study after another, ultimately developing
+electrospray ionization for mass spectrometry, which enabled faster,
+more accurate measurement of large molecules and proteins, spurring
+multiple innovations in cancer diagnosis and therapy. That five-year hot
+streak, which took place during Fenn’s forced retirement, ultimately
+
+[p. 80] [PDF page 98]
+
+defined his career, and earned him the 2002 Nobel Prize in chemistry.
+His hot streak is so evident that you can see directly just by inspecting
+Fig. 5.5. When is Fenn’s most-cited paper? And when is his second
+highest? What about the third? They all fall within the same five-year
+window.
+         In Fenn’s career, we see perhaps the most important – and
+uplifting – implication of the hot-streak phenomenon for the many
+individual scientists out there striving to make their mark on the world.
+Remember that the conventional view, which we discussed in depth in
+Chapter 3, is this: Our best work will likely happen in our 30s or 40s,
+when we have a solid base of experience and the energy and enthusiasm
+to sustain high productivity; once we pass the mid-career point, our
+hopes of a breakthrough start to dim. The hot streak phenomenon,
+coupled with the random impact rule contradicts this, indicating,
+instead, that a hot streak can emerge at any stage of your career,
+resulting in a cluster of high-impact works.
+         Therefore, this chapter offers hope: Each new gray hair, literal
+or figurative, does not by itself make us obsolete. As long as we keep
+putting work out into the world like Fenn – drawing cards from the
+deck in search of a lucky ace – our hot streak could be just around the
+corner.
+         This means that while we may not all have Einstein or Fenn’s
+impact, if we keep trying, our own version of a miracle year may still be
+ahead, just out of sight.
