@@ -9,6 +9,12 @@ summary: "欧洲联盟理事会的核心常设决策准备机构，由各成员�
 type: fact
 subtype: organization
 region: eu
+fact_region: "eu"
+fact_kind: "organization"
+fact_related_count: 0
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dcfce7"
 org_type: intergovernmental-supranational-committee
 headquarters: "布鲁塞尔（比利时）"
 established: "1958"

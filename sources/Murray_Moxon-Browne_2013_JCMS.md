@@ -1,5 +1,5 @@
 ---
-citation: ""
+citation: "Murray, P., & Moxon-Browne, E. (2013). The European Union as a template for regional integration? The case of ASEAN and its Committee of Permanent Representatives. JCMS: Journal of Common Market Studies, 51(3), 522–537. https://doi.org/10.1111/jcms.12008"
 extracted_to: []
 processed_date: 2026-10-29
 ---

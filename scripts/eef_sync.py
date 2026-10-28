@@ -1038,7 +1038,9 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
         # order so each subgroup can follow its corresponding overall result.
         outcomes = r.get("outcomes") if "outcomes" in r else sorted(trial.get("outcomes", []), key=lambda o: bool(o.get("is_subgroup")))
         if outcomes:
-            lines += ["> >", "> > | out | grp | imp | es | sec | sig |", "> > | --- | --- | --- | --- | --- | --- |"]
+            has_ci = any(o.get("ci_lower") is not None and o.get("ci_upper") is not None for o in outcomes)
+            columns = ["out", "grp", "imp", "es"] + (["ci"] if has_ci else []) + ["sec", "sig"]
+            lines += ["> >", "> > | " + " | ".join(columns) + " |", "> > | " + " | ".join("---" for _ in columns) + " |"]
             for o in outcomes:
                 grp = esc(o.get("group_zh") or ("亚组" if o.get("is_subgroup") else "全体学生"))
                 if o.get("is_subgroup"):
@@ -1046,10 +1048,12 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
                 if o.get("sample_n") is not None:
                     grp += f"<br><small>n = {o['sample_n']:,}</small>"
                 es = f"{o['effect_size']:g}" if o.get("effect_size") is not None else "未提供"
+                ci = "未提供"
                 if o.get("ci_lower") is not None and o.get("ci_upper") is not None:
-                    es += f"<br><small>95%置信区间 [{o['ci_lower']:g}, {o['ci_upper']:g}]</small>"
+                    ci = f"[{o['ci_lower']:g}, {o['ci_upper']:g}]"
+                ci_cell = f"{ci} | " if has_ci else ""
                 lines.append(f"> > | {esc(o.get('label_zh') or o.get('outcome_group') or '指标未提供')} | {grp} | "
-                             f"{programme_months(o.get('impact_months'))} | {es} | "
+                             f"{programme_months(o.get('impact_months'))} | {es} | {ci_cell}"
                              f"{_dots(o.get('security_strength'), o.get('security_total'), o.get('security_status'))} | {esc(o.get('significance') or '未报告')} |")
             if r.get("outcome_note"):
                 lines += ["> >", "> > " + esc(r["outcome_note"])]

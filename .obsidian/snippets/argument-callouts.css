@@ -23712,6 +23712,21 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .cal
   body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content table:has(th:nth-child(4)):not(:has(th:nth-child(5))) td { font-size: 13px !important; white-space: normal !important; }
 }
 
+/* 有置信区间时独立成列，证据强度与显著性顺延。 */
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) :is(th, td):nth-child(1) { width: 21% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) :is(th, td):nth-child(2) { width: 22% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) :is(th, td):nth-child(3) { width: 8% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) :is(th, td):nth-child(4) { width: 8% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) :is(th, td):nth-child(5) { width: 17% !important; text-align: right; color: var(--text-normal); letter-spacing: normal; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) :is(th, td):nth-child(6) { width: 10% !important; color: rgb(var(--callout-color)); letter-spacing: .04em; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) :is(th, td):nth-child(7) { width: 14% !important; color: var(--ac-muted, var(--text-muted)); }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) th:nth-child(5)::before { content: "95%置信区间"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) th:nth-child(6)::before { content: "证据强度"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) th:nth-child(7)::before { content: "显著性"; }
+@media (max-width: 600px) {
+  body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) { min-width: 680px !important; }
+}
+
 /* 成本评级：与 Toolkit 卡片相同的琥珀色圆点；总览格内第二行为每生年金额 */
 body .callout.callout.callout[data-callout][data-callout="eef-programme"] .eef-cost { color: rgb(196, 140, 40) !important; letter-spacing: .04em; font-weight: 500; }
 body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content table:has(th:nth-child(4)):not(:has(th:nth-child(5))) td small { display: block; margin-top: 1px; font-size: 11px !important; line-height: 15px !important; font-weight: 500; color: var(--ac-muted, var(--text-muted)); letter-spacing: 0; }

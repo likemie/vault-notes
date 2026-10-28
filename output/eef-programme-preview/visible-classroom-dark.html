@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh-CN"><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1" name="viewport"/><title>Visible Classroom Programme</title>
+<!doctype html><html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Visible Classroom Programme</title>
 <style>
 :root{--font-text:-apple-system,BlinkMacSystemFont,"PingFang SC",sans-serif;--background-primary:#fff;--background-secondary:#f5f5f3;--text-normal:#242521;--text-muted:#62645f;--background-modifier-border:#dcded8;--ac-paper:#fafaf7;--ac-raised:#fff;--ac-hair:#dcded8;--ac-hair-soft:#e9eae5;--ac-muted:#62645f;--ac-sans:var(--font-text);--ac-serif:Georgia,"Songti SC",serif}
 body.theme-dark{--background-primary:#202020;--background-secondary:#292929;--text-normal:#e2e2df;--text-muted:#aaa9a4;--background-modifier-border:#454641;--ac-paper:#252622;--ac-raised:#2b2c27;--ac-hair:#454641;--ac-hair-soft:#383a34;--ac-muted:#aaa9a4}
@@ -23718,6 +23717,21 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .cal
   body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content table:has(th:nth-child(4)):not(:has(th:nth-child(5))) td { font-size: 13px !important; white-space: normal !important; }
 }
 
+/* 有置信区间时独立成列，证据强度与显著性顺延。 */
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) :is(th, td):nth-child(1) { width: 21% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) :is(th, td):nth-child(2) { width: 22% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) :is(th, td):nth-child(3) { width: 8% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) :is(th, td):nth-child(4) { width: 8% !important; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) :is(th, td):nth-child(5) { width: 17% !important; text-align: right; color: var(--text-normal); letter-spacing: normal; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) :is(th, td):nth-child(6) { width: 10% !important; color: rgb(var(--callout-color)); letter-spacing: .04em; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) :is(th, td):nth-child(7) { width: 14% !important; color: var(--ac-muted, var(--text-muted)); }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) th:nth-child(5)::before { content: "95%置信区间"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) th:nth-child(6)::before { content: "证据强度"; }
+body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) th:nth-child(7)::before { content: "显著性"; }
+@media (max-width: 600px) {
+  body .callout.callout.callout[data-callout][data-callout="eef-programme"] .callout.callout[data-callout="eef-trial"] table:has(th:nth-child(7)) { min-width: 680px !important; }
+}
+
 /* 成本评级：与 Toolkit 卡片相同的琥珀色圆点；总览格内第二行为每生年金额 */
 body .callout.callout.callout[data-callout][data-callout="eef-programme"] .eef-cost { color: rgb(196, 140, 40) !important; letter-spacing: .04em; font-weight: 500; }
 body .callout.callout.callout[data-callout][data-callout="eef-programme"] > .callout-content table:has(th:nth-child(4)):not(:has(th:nth-child(5))) td small { display: block; margin-top: 1px; font-size: 11px !important; line-height: 15px !important; font-weight: 500; color: var(--ac-muted, var(--text-muted)); letter-spacing: 0; }
@@ -23732,8 +23746,10 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 }
 </style><body class="theme-dark"><article class="markdown-preview-view markdown-rendered"><h1>Visible Classroom Programme</h1><hr/>
 <div class="callout" data-callout="claim"><div aria-expanded="true" class="callout-title" role="button" tabindex="0"><div class="callout-title-inner">项目定位</div></div><div class="callout-content"><p>可见课堂项目（Visible Classroom）通过课程语音转写与个性化教学反馈支持小学教师改进课堂实践，目标为改善学生的数学与阅读学习。英国<a href="#Education-Endowment-Foundation">教育捐赠基金会</a>（Education Endowment Foundation，EEF）先后资助试点研究与效能试验。<a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom">试点介绍</a> · <a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015">效能试验</a></p>
+
 </div></div>
 <div class="callout" data-callout="program-context"><div aria-expanded="true" class="callout-title" role="button" tabindex="0"><div class="callout-title-inner">项目背景</div></div><div class="callout-content">
+
 <ul>
 <li><strong>实施周期</strong> 从试点开发转入效能评估，两期试验均已结束。</li>
 <li><strong>发起方与资助机制</strong> 试点由 EEF 与 Nominet Trust 在数字技术资助轮次中共同支持。</li>
@@ -23743,8 +23759,10 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </div></div>
 <hr/>
 <div class="callout" data-callout="claim"><div aria-expanded="true" class="callout-title" role="button" tabindex="0"><div class="callout-title-inner">核心干预假说</div></div><div class="callout-content"><p>项目预设教师理解反馈、设定教学目标并与同事讨论后，逐步调整教学实践；学生也可通过实时字幕增加理解教学指令的机会。<a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, pp. 10–11, 15–20)</a></p>
+
 </div></div>
 <div class="callout" data-callout="policy-design"><div aria-expanded="true" class="callout-title" role="button" tabindex="0"><div class="callout-title-inner">方案设计</div></div><div class="callout-content">
+
 <ul>
 <li><strong>项目目标</strong> 支持教师反思和改进课堂实践，并检验学生数学与阅读学习的变化。</li>
 <li><strong>覆盖对象</strong> 试点面向小学三至六年级课堂，效能试验面向五、六年级教师及其学生。</li>
@@ -23754,20 +23772,16 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </div></div>
 <hr/>
 <div class="callout" data-callout="timeline"><div aria-expanded="true" class="callout-title" role="button" tabindex="0"><div class="callout-title-inner">项目推进历程</div></div><div class="callout-content">
+
 <ul>
-<li><strong>2014 年 3—7 月</strong> 第一期在小学课堂试用人工实时字幕与教学反馈，分批调整交付方式。<a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, pp. 8–9)</a></li>
-<li><strong>2015 年 2 月</strong> 第一期报告认为教师反馈路径具有可行性，同时提出继续改进交付方式后再开展完整试验。<a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, pp. 5, 25–27)</a></li>
-<li><strong>2016 年 3—9 月</strong> 第二期进入筹备：伦理审查安排在 3—4 月，学校招募与资格访谈安排在 4—9 月。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, p. 21)</a></li>
-<li><strong>2016 年 9—10 月</strong> 9 月按学校随机分配，随后开展教师培训；手机录课上传与导师对话成为后续干预的交付方式。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 4, 13, 21)</a></li>
-<li><strong>2017 年 2 月</strong> 修订方案把原定一个学年的实施延长一年，原五年级队列继续接受追踪；原定结束月份由 2017 年 6 月延至 2018 年 6 月。</li>
-<li><strong>2017—2018 年</strong> 两年均在 5—7 月开展过程评估，第二年减少录课轮次与提交要求。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 20–21)</a></li>
-<li><strong>2018 年 6—7 月</strong> 统计分析计划日期为 6 月 5 日；干预在 6 月结束，试验于 7 月完成。</li>
-<li><strong>2018 年 11 月—2019 年 10 月</strong> 完整报告初稿原定于 2018 年 11 月提交，因学生资料获取延迟，实际初稿推迟至 2019 年 10 月。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 21–22)</a></li>
-<li><strong>2021 年 2 月</strong> 第二期评估报告署期，完整报告同时呈现学业效果与实施过程。</li>
+<li><strong>2014—2015｜第一期试点</strong> 试用实时字幕与教学反馈，评估支持其可行性，并提出改进交付方式。<a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, pp. 5, 25–27)</a></li>
+<li><strong>2016—2018｜第二期效能试验</strong> 改用教师录课与导师对话，开展学校随机试验，并延长一年完成追踪。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 13, 20–21)</a></li>
+<li><strong>2019—2021｜评估报告</strong> 学生资料获取延迟后完成分析，形成第二期完整报告。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 21–22)</a></li>
 </ul>
 </div></div>
 <hr/>
 <div class="callout" data-callout="actor-grid"><div aria-expanded="true" class="callout-title" role="button" tabindex="0"><div class="callout-title-inner">实施协同矩阵</div></div><div class="callout-content">
+
 <ul>
 <li><strong>开发与支持方</strong> 墨尔本大学团队分析课堂记录并生成反馈，Ai-Media 提供转写和技术平台。</li>
 <li><strong>交付与协调方</strong> 首期由 Nesta 与大学团队招募、培训和管理学校；第二期由学校、学生与教师网络（The Schools, Students and Teachers Network，SSAT）负责招募与使用支持。</li>
@@ -23776,6 +23790,7 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </ul>
 </div></div>
 <div class="callout" data-callout="pathways"><div aria-expanded="true" class="callout-title" role="button" tabindex="0"><div class="callout-title-inner">实施路径与管理</div></div><div class="callout-content">
+
 <ul>
 <li><strong>课堂记录</strong> 首期由教师佩戴麦克风，人工实时转写后把字幕返回课堂；学生原声不进入转写。后续改为教师通过手机或平板录制并上传课程。</li>
 <li><strong>反馈使用</strong> 教学行为按准则进行人工频次编码，教师结合统计摘要与详细反馈理解指标、同伴参照及改进建议。</li>
@@ -23785,6 +23800,7 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </div></div>
 <hr/>
 <div class="callout" data-callout="eef-programme" data-callout-metadata="evaluation"><div aria-expanded="true" class="callout-title" role="button" tabindex="0"><div class="callout-title-inner"><a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015">Visible Classroom</a></div></div><div class="callout-content"><p>以课堂语音转写和个性化反馈支持小学教师发展的项目。</p>
+
 <table>
 <thead>
 <tr>
@@ -23826,6 +23842,7 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </tbody>
 </table>
 <div class="callout is-collapsible is-collapsed" data-callout="eef-trial"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner"><a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom">第一期试点</a> · 试点研究 · 实施 2014-03 至 2014-07 · 36 名教师</div></div><div class="callout-content">
+
 <table>
 <thead>
 <tr>
@@ -23840,11 +23857,11 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </tr>
 <tr>
 <td>评估</td>
-<td><a href="https://natcen.ac.uk/who-we-are/about-us">英国国家社会研究中心（National Centre for Social Research，NatCen）</a>；发展性过程评估；27 次半结构访谈、两次课堂观察，采用 Framework 整理访谈；干预团队另提供转写使用记录及附录教学行为分析。</td>
+<td><a href="https://natcen.ac.uk/who-we-are/about-us">英国国家社会研究中心（National Centre for Social Research，NatCen）</a>；过程评估：27 次半结构访谈、两次课堂观察。</td>
 </tr>
 <tr>
 <td>样本</td>
-<td>页面学校数 10 所<br/>伦敦与西米德兰兹的公立小学，参与三至六年级课堂。<br/>各校免费校餐资格比例为 7.9%—71.8%，全国均值为 26.7%。</td>
+<td>页面学校数 10 所<br/>伦敦与西米德兰兹的公立小学，参与三至六年级课堂。</td>
 </tr>
 <tr>
 <td>培训</td>
@@ -23852,7 +23869,7 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </tr>
 <tr>
 <td>经费</td>
-<td>成本评级 未提供；研究拨款 £366,030；交付 £367/生/年；按每周五小时转写、一学年及每班 25 人估算；转写 £192/生，分析 £158/生，设备 £12/生，培训 £125/教师。</td>
+<td>成本评级 未提供；研究拨款 £366,030；交付 £367/生/年；按每周五小时转写、一学年及每班 25 人估算。</td>
 </tr>
 <tr>
 <td>资料</td>
@@ -23860,7 +23877,8 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </tr>
 </tbody>
 </table>
-<div class="callout is-collapsible is-collapsed" data-callout="ref-table"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">三批实施安排</div></div><div class="callout-content">
+<div class="callout is-collapsible is-collapsed" data-callout="ref-table"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">关键发现与局限</div></div><div class="callout-content">
+
 <table>
 <thead>
 <tr>
@@ -23870,84 +23888,19 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </thead>
 <tbody>
 <tr>
-<td>第一批</td>
-<td>学校数：5；最长参与时间：四个月；使用要求：首四周每周至少两节读写课，随后自由选择；预订课次完成比例：65%；反馈后自由使用频率：约每周一课</td>
+<td>主要发现</td>
+<td>教师较认可统计摘要与个性化反馈，学生对实时字幕的使用有限。<a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, pp. 15–22)</a></td>
 </tr>
 <tr>
-<td>第二批</td>
-<td>学校数：3；最长参与时间：两个半月；使用要求：首四周每周至少两节读写课，随后自由选择；预订课次完成比例：70%；反馈后自由使用频率：约两周一课</td>
-</tr>
-<tr>
-<td>第三批</td>
-<td>学校数：2；最长参与时间：一个月；使用要求：方法节写至少每日一课、每周五至十小时；剂量节另写反馈前每周至少四课；预订课次完成比例：75%；反馈后自由使用频率：每周略少于三课</td>
+<td>证据边界</td>
+<td>未测量学生学业结果，也未独立测量教师实践的前后变化；试点只能支持可行性判断。<a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, pp. 25–27)</a></td>
 </tr>
 </tbody>
 </table>
-<p>完成比例以预订课次为分母，三批启动时间交叠。<a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, pp. 8, 23)</a></p>
-</div></div>
-<div class="callout is-collapsible is-collapsed" data-callout="ref-table"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">过程结果与证据边界</div></div><div class="callout-content">
-<table>
-<thead>
-<tr>
-<th>k</th>
-<th>v</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>第一期过程表现</td>
-<td>第一期发现教师更常使用统计摘要与个性化报告，同伴讨论和学生字幕使用仍受到时间、数据分享意愿及设备条件的限制。<a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, pp. 15–20)</a></td>
-</tr>
-<tr>
-<td>第一期证据范围</td>
-<td>独立过程评估没有测量学生学业结果，也未独立测量教师实践的前后变化。教师认可反馈的感受支持可行性判断，学业收益仍待检验。<a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, pp. 21, 25–27)</a></td>
-</tr>
-<tr>
-<td>干预团队的附录分析</td>
-<td>按每位教师转写材料的前、中、后三段和反馈前后比较行为频次，描述出密集组较能维持部分改进、教师个体差异较大；这些属于无对照的过程分析。<a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, pp. 34–35)</a></td>
-</tr>
-</tbody>
-</table>
-</div></div>
-<div class="callout is-collapsible is-collapsed" data-callout="ref-table"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">实施条件与局限</div></div><div class="callout-content">
-<table>
-<thead>
-<tr>
-<th>k</th>
-<th>v</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>指标解释</td>
-<td>第一批教师起初不清楚语速等指标的意义或适当参照，后续培训据反馈增加了理论说明与技术练习。<a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, p. 13)</a></td>
-</tr>
-<tr>
-<td>时间与数据边界</td>
-<td>长逐字稿阅读耗时，教师对他人据数据评价教学能力有所顾虑，计划中的同伴或管理者讨论很少发生。<a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, pp. 18–19, 22, 24)</a></td>
-</tr>
-<tr>
-<td>学生阅读与设备</td>
-<td>多人共享平板限制阅读与操作，较弱读者从长文本中筛选信息的能力也受到教师质疑；设备、软件和网络问题曾使部分教师暂停使用。<a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, pp. 14–17, 21–22)</a></td>
-</tr>
-<tr>
-<td>小组问卷</td>
-<td>学生共同评分受到操作机会与同伴协商影响，填写还占用部分课堂五至十分钟；参与教师普遍认为其反馈价值有限。<a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, pp. 17–18)</a></td>
-</tr>
-</tbody>
-</table>
-</div></div>
-<div class="callout is-collapsible is-collapsed" data-callout="figure"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">图 2：第一期项目的变化理论</div></div><div class="callout-content"><p><img alt="" src="file:///Users/shaoyangwu/Documents/MyNotes/sources/Skipp_Tanner_2015_EEF/figures/Skipp_Tanner_2015_EEF_Fig2_TheoryOfChange.jpg"/></p>
-<p><a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, p. 11)</a></p>
-</div></div>
-<div class="callout is-collapsible is-collapsed" data-callout="eef-errata"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">2 项报告记载差异</div></div><div class="callout-content">
-<ul>
-<li>摘要第 5 页称所有学校完成项目，正文第 24 页称一所学校退出；报告未给出能够统一两处表述的完成学校数。</li>
-<li>正文第 6、9 页概述每位教师收到两份反馈，附录第 34 页将第一批列为三份。</li>
-</ul>
 </div></div>
 </div></div>
 <div class="callout is-collapsible is-collapsed" data-callout="eef-trial"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner"><a href="https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015">第二期效能试验</a> · 效能试验 · 实施 2016-04 至 2018-07 · 7,230 名学生 · -1 个月</div></div><div class="callout-content">
+
 <table>
 <thead>
 <tr>
@@ -23966,15 +23919,11 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </tr>
 <tr>
 <td>样本</td>
-<td>页面学校数 86 所<br/>原五年级队列 3,531 人，原六年级队列 3,699 人。<br/>最终分析 6,934 人：原五年级 83 校、3,337 人，原六年级 85 校、3,597 人；国家学生数据库未匹配到 296 人。<br/>原五年级队列追踪至 2018 年，原六年级队列追踪至 2017 年；无法逐人确认原五年级队列的第二年干预暴露。</td>
-</tr>
-<tr>
-<td>方案样本</td>
-<td>2016 年方案目标为 140 所学校、11,760 名学生。</td>
+<td>页面学校数 86 所<br/>最终分析 6,934 人：原五年级 83 校、3,337 人，原六年级 85 校、3,597 人；296 人未匹配学生数据库。<br/>原五年级队列追踪两年，原六年级队列追踪一年；无法逐人确认原五年级队列的第二年干预暴露。</td>
 </tr>
 <tr>
 <td>实施剂量</td>
-<td>首年三轮、最多 15 次录课；次年减为两轮、最多 6 次。分析依从标准为累计至少 10 次，或第二年至少 5 次；137 名教师（81%）达标。</td>
+<td>首年最多 15 次录课，次年最多 6 次；81% 的教师达到依从标准。</td>
 </tr>
 <tr>
 <td>培训</td>
@@ -23982,7 +23931,7 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </tr>
 <tr>
 <td>经费</td>
-<td>成本评级 <span class="eef-cost">●○○○○ 极低</span>；研究拨款 <span class="eef-pending">待核实</span>（EEF 网页尚未公布金额）；首年学校成本 £2,604（£32/生），三年累计 £5,544、243 名学生，约 £23/生；假设三位教师、每班 27 人、持续参与且无需重训。</td>
+<td>成本评级 <span class="eef-cost">●○○○○ 极低</span>；研究拨款 <span class="eef-pending">待核实</span>（EEF 网页尚未公布金额）；报告估计约 £23/生（三年累计口径，假设教师持续参与且无需重训）；费用表之间的起始成本口径不一致。</td>
 </tr>
 <tr>
 <td>资料</td>
@@ -23997,6 +23946,7 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 <th>grp</th>
 <th>imp</th>
 <th>es</th>
+<th>ci</th>
 <th>sec</th>
 <th>sig</th>
 </tr>
@@ -24006,7 +23956,8 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 <td>数学与阅读综合成绩</td>
 <td>原五年级队列<br/><small>n = 3,337</small></td>
 <td>-1</td>
-<td>-0.09<br/><small>95%置信区间 [-0.22, 0.04]</small></td>
+<td>-0.09</td>
+<td>[-0.22, 0.04]</td>
 <td>●●●●○</td>
 <td>p = 0.191；未达统计显著</td>
 </tr>
@@ -24014,7 +23965,8 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 <td>数学与阅读综合成绩</td>
 <td>↳ 原五年级免费校餐资格学生<br/><small>n = 1,232</small></td>
 <td>0</td>
-<td>-0.03<br/><small>95%置信区间 [-0.23, 0.17]</small></td>
+<td>-0.03</td>
+<td>[-0.23, 0.17]</td>
 <td>不适用</td>
 <td>p = 0.77；未达统计显著</td>
 </tr>
@@ -24022,7 +23974,8 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 <td>数学与阅读综合成绩</td>
 <td>原六年级队列<br/><small>n = 3,597</small></td>
 <td>-1</td>
-<td>-0.05<br/><small>95%置信区间 [-0.19, 0.09]</small></td>
+<td>-0.05</td>
+<td>[-0.19, 0.09]</td>
 <td>●●●●○</td>
 <td>p = 0.55；未达统计显著</td>
 </tr>
@@ -24030,7 +23983,8 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 <td>数学与阅读综合成绩</td>
 <td>↳ 原六年级免费校餐资格学生<br/><small>n = 1,344</small></td>
 <td>0</td>
-<td>0.03<br/><small>95%置信区间 [-0.13, 0.2]</small></td>
+<td>0.03</td>
+<td>[-0.13, 0.2]</td>
 <td>不适用</td>
 <td>p = 0.71；未达统计显著</td>
 </tr>
@@ -24038,7 +23992,8 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 <td>数学成绩</td>
 <td>原五年级队列<br/><small>n = 3,337</small></td>
 <td>未提供</td>
-<td>-0.07<br/><small>95%置信区间 [-0.2, 0.07]</small></td>
+<td>-0.07</td>
+<td>[-0.2, 0.07]</td>
 <td>未评级</td>
 <td>p = 0.34；未达统计显著</td>
 </tr>
@@ -24046,7 +24001,8 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 <td>阅读成绩</td>
 <td>原五年级队列<br/><small>n = 3,337</small></td>
 <td>-2</td>
-<td>-0.13<br/><small>95%置信区间 [-0.25, -0.01]</small></td>
+<td>-0.13</td>
+<td>[-0.25, -0.01]</td>
 <td>未评级</td>
 <td>p = 0.04；负向显著</td>
 </tr>
@@ -24054,7 +24010,8 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 <td>数学成绩</td>
 <td>原六年级队列<br/><small>n = 3,597</small></td>
 <td>未提供</td>
-<td>-0.03<br/><small>95%置信区间 [-0.18, 0.11]</small></td>
+<td>-0.03</td>
+<td>[-0.18, 0.11]</td>
 <td>未评级</td>
 <td>p = 0.73；未达统计显著</td>
 </tr>
@@ -24062,14 +24019,16 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 <td>阅读成绩</td>
 <td>原六年级队列<br/><small>n = 3,597</small></td>
 <td>未提供</td>
-<td>-0.08<br/><small>95%置信区间 [-0.2, 0.04]</small></td>
+<td>-0.08</td>
+<td>[-0.2, 0.04]</td>
 <td>未评级</td>
 <td>p = 0.209；未达统计显著</td>
 </tr>
 </tbody>
 </table>
 <p>效应量为 Hedges g。免费校餐资格按国家学生数据库过去六年曾符合资格指标界定；报告分别估计该亚组，未报告与其余学生的交互检验。</p>
-<div class="callout is-collapsible is-collapsed" data-callout="ref-table"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">补充分析</div></div><div class="callout-content">
+<div class="callout is-collapsible is-collapsed" data-callout="ref-table"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">关键局限</div></div><div class="callout-content">
+
 <table>
 <thead>
 <tr>
@@ -24079,257 +24038,28 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </thead>
 <tbody>
 <tr>
-<td>依从者效应</td>
-<td>原五年级：−3.780（2.855）；3,337 人<br/>原六年级：−1.965（3.232）；3,597 人<br/>两者未达统计显著</td>
+<td>测量限制</td>
+<td>对照校教学实践信息不足，教师行为改变未获独立测量。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 5, 52)</a></td>
 </tr>
 <tr>
-<td>每增加一次录课</td>
-<td>原五年级：−0.279（0.170）；1,387 人<br/>原六年级：−0.171（0.186）；1,579 人<br/>描述性关联；均未达统计显著</td>
+<td>稳健性与机制</td>
+<td>依从分析和缺失基线复核未改变综合成绩结论；录课剂量与教师自陈关联不足以确认因果机制。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 35–38)</a></td>
 </tr>
 <tr>
-<td>教师策略使用频率</td>
-<td>原五年级：−25.763（16.250）<br/>原六年级：4.577（5.011）<br/>两者未达统计显著</td>
+<td>未实施的亚组</td>
+<td>教师评分最低三分之一的因果比较因对照组无对应评分而未实施。</td>
 </tr>
 <tr>
-<td>教师重视反馈</td>
-<td>原五年级：−12.319（4.869）；p &lt; 0.05<br/>原六年级：8.277（4.954）<br/>仅原五年级负向显著关联</td>
-</tr>
-<tr>
-<td>学校重视反馈（教师自陈）</td>
-<td>原五年级：−7.159（9.852）<br/>原六年级：4.654（3.332）<br/>两者未达统计显著</td>
+<td>实施障碍</td>
+<td>考试准备压力与录音顾虑妨碍持续参与，教师也未必有足够时间使用反馈。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 42–45)</a></td>
 </tr>
 </tbody>
 </table>
-<p>补充分析为原始分数回归系数，括号为学校聚类标准误；后三行学生样本分别为 321、482 人，控制对应问项前测，关联不能确定反馈态度的因果作用。排除缺失基线学生的复核仍仅原五年级阅读为负向显著。</p>
-</div></div>
-<div class="callout is-collapsible is-collapsed" data-callout="ref-table"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">原方案的交付安排</div></div><div class="callout-content">
-<table>
-<thead>
-<tr>
-<th>k</th>
-<th>v</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>学校资格</td>
-<td>五、六年级至少两名教师参加；排除正在使用 Visible Learning plus 的学校。</td>
-</tr>
-<tr>
-<td>反馈材料</td>
-<td>另提供培训手册与延伸阅读，详细反馈经邮件发送。</td>
-</tr>
-<tr>
-<td>反馈时限</td>
-<td>课堂统计摘要拟在课后 24 小时内提供，详细反馈拟在课堂发生后两周内提供。</td>
-</tr>
-<tr>
-<td>原定剂量</td>
-<td>一个学年三轮，每轮五小时录课和至少一小时导师对话，合计十五份逐字稿与摘要、三份详细反馈及三小时专业对话。</td>
-</tr>
-<tr>
-<td>个别调整</td>
-<td>根据小规模试用意见修改交付安排。</td>
-</tr>
-<tr>
-<td>交付场所</td>
-<td>校内录课及导师对话，集中面授在校外社区场所。</td>
-</tr>
-</tbody>
-</table>
-</div></div>
-<div class="callout is-collapsible is-collapsed" data-callout="ref-table"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">方案修订与分析预设</div></div><div class="callout-content">
-<table>
-<thead>
-<tr>
-<th>k</th>
-<th>v</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>报告门槛与人员调整</td>
-<td>每轮不足三次录课不生成报告。Daniel Carr 与 Jessica Heal 接替离职或转岗的评估人员。</td>
-</tr>
-<tr>
-<td>试验注册</td>
-<td>ISRCTN14774597。</td>
-</tr>
-<tr>
-<td>队列与结局</td>
-<td>原方案允许结果一致时合并年级；统计分析计划改为分别分析入组队列。第二关键阶段（Key Stage 2，KS2）综合成绩采用数学与阅读原始分数之和。</td>
-</tr>
-<tr>
-<td>模型保留</td>
-<td>所有预设协变量均保留，不按显著性筛除；标准化效应使用总方差。</td>
-</tr>
-<tr>
-<td>缺失结局</td>
-<td>超过 5% 时检查缺失机制，以既有成绩、学生特征和学校特征预测缺失；符合随机缺失条件时多重插补，再逐步移除插补变量检查敏感性。</td>
-</tr>
-<tr>
-<td>缺失基线</td>
-<td>有结局而无基线者按学校均值插补；缺少结局者不进入主分析。</td>
-</tr>
-<tr>
-<td>原定依从门槛</td>
-<td>以获得至少两份详细报告界定接受干预；实际分析的录课门槛按实施年度调整。</td>
-</tr>
-<tr>
-<td>教师评分亚组</td>
-<td>原拟比较评分最低三分之一教师所教学生，统计分析计划因对照组无对应评分而放弃因果比较；评分可能同时反映能力、动机与参与程度。</td>
-</tr>
-<tr>
-<td>探索分析指标</td>
-<td>统计分析计划拟按教师准则评分进行描述性剂量分析，最终报告使用上传录课次数；教师实践调查用于考察自陈与学业结果的关联。</td>
-</tr>
-</tbody>
-</table>
-<p><a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 18, 36–38)</a></p>
-</div></div>
-<div class="callout is-collapsible is-collapsed" data-callout="ref-table"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">原方案的功效假设</div></div><div class="callout-content">
-<table>
-<thead>
-<tr>
-<th>k</th>
-<th>v</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>每校每年级人数假设</td>
-<td>全体学生：42 人；免费校餐资格学生：7 人</td>
-</tr>
-<tr>
-<td>组内相关系数</td>
-<td>全体学生：0.15；免费校餐资格学生：同左</td>
-</tr>
-<tr>
-<td>既有成绩与结局相关假设</td>
-<td>全体学生：0.7；免费校餐资格学生：同左</td>
-</tr>
-<tr>
-<td>功效与显著性水平</td>
-<td>全体学生：80%，5%；免费校餐资格学生：同左</td>
-</tr>
-<tr>
-<td>原方案最小可检测效应</td>
-<td>全体学生：0.139；免费校餐资格学生：0.177</td>
-</tr>
-</tbody>
-</table>
-<p>原计算假定没有流失，控制第一关键阶段成绩。</p>
-</div></div>
-<div class="callout is-collapsible is-collapsed" data-callout="ref-table"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">分析计划中的样本记录</div></div><div class="callout-content">
-<table>
-<thead>
-<tr>
-<th>k</th>
-<th>v</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>原五年级</td>
-<td>学校数：86；计划更新时学生数：3,609；最小可检测效应：0.177</td>
-</tr>
-<tr>
-<td>原六年级</td>
-<td>学校数：85；计划更新时学生数：3,547；最小可检测效应：0.179</td>
-</tr>
-</tbody>
-</table>
-<p>当时合计 7,156 人，与最终入组记录属于不同口径，不能将差额直接解释为流失。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, p. 15)</a></p>
-</div></div>
-<div class="callout is-collapsible is-collapsed" data-callout="ref-table"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">分析计划中的随机分层记录</div></div><div class="callout-content">
-<table>
-<thead>
-<tr>
-<th>k</th>
-<th>v</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>免费校餐比例高于中位数</td>
-<td>干预学校：21；对照学校：20</td>
-</tr>
-<tr>
-<td>免费校餐比例不高于中位数</td>
-<td>干预学校：21；对照学校：21</td>
-</tr>
-<tr>
-<td>第一关键阶段成绩高于或等于中位数</td>
-<td>干预学校：20；对照学校：20</td>
-</tr>
-<tr>
-<td>第一关键阶段成绩不高于中位数</td>
-<td>干预学校：22；对照学校：22</td>
-</tr>
-<tr>
-<td>限额准入</td>
-<td>干预学校：5；对照学校：6</td>
-</tr>
-<tr>
-<td>不限额准入</td>
-<td>干预学校：39；对照学校：36</td>
-</tr>
-</tbody>
-</table>
-<p>成绩中位数标签在原表存在边界交叠，且部分分层资料缺失，各项合计不全部等于 86 校。</p>
-</div></div>
-<div class="callout is-collapsible is-collapsed" data-callout="ref-table"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">结果解释</div></div><div class="callout-content">
-<table>
-<thead>
-<tr>
-<th>k</th>
-<th>v</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>第二期主要结果</td>
-<td>两个入组队列的数学与阅读综合成绩均未达统计显著；原五年级队列的阅读单项呈负向显著结果。复核缺失基线和依从效应后，综合成绩结论保持一致。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 32–37)</a></td>
-</tr>
-<tr>
-<td>第二期亚组</td>
-<td>免费校餐资格学生的综合成绩区间包含正向和负向影响。报告未检验其与非资格学生的效应差异；教师评分最低三分之一亚组因对照组缺少评分，未作因果比较。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 34–35)</a></td>
-</tr>
-<tr>
-<td>第二期探索分析</td>
-<td>教师重视反馈与原五年级学生成绩的负向关联来自自陈调查回归；录课剂量分析也存在参与选择。两者均不能确认为改变反馈态度或增加录课造成的学业效应。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 18, 36–38)</a></td>
-</tr>
-</tbody>
-</table>
-</div></div>
-<div class="callout is-collapsible is-collapsed" data-callout="ref-table"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">实施条件与局限</div></div><div class="callout-content">
-<table>
-<thead>
-<tr>
-<th>k</th>
-<th>v</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>第二期参与与反馈文化</td>
-<td>26 次教师和导师访谈显示，考试准备压力、录音顾虑和技术问题妨碍持续使用；支持教师学习的学校更容易把反馈纳入专业发展。访谈偏向高参与者，学校文化的作用尚缺少学业效果交互检验。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 19–20, 42–50)</a></td>
-</tr>
-<tr>
-<td>第二期证据边界</td>
-<td>对照校教学实践信息不足，教师行为改变未获独立测量；教师实践自陈调查的关联结果与仅四份回应、未纳入分析的满意度调查分别处理。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 5, 18–20, 52)</a></td>
-</tr>
-</tbody>
-</table>
-</div></div>
-<div class="callout is-collapsible is-collapsed" data-callout="eef-errata"><div aria-expanded="false" class="callout-title" role="button" tabindex="0"><span class="callout-fold">▸</span><div class="callout-title-inner">1 项报告记载差异</div></div><div class="callout-content">
-<ul>
-<li>费用表 28 列三年 £4,945、每生每年 £21；表 29–30 列三年 £5,544、每生 £23 及首年 £2,604，报告没有说明两种起始费用口径的差额。</li>
-</ul>
 </div></div>
 </div></div>
 </div></div>
 <div class="callout" data-callout="finding-cards"><div aria-expanded="true" class="callout-title" role="button" tabindex="0"><div class="callout-title-inner">跨阶段结果解释</div></div><div class="callout-content">
+
 <ul>
 <li><strong>可行性与学业效果</strong> 试点支持教师反馈路径的可行性，后续综合成绩仍未达统计显著。<a href="#Argument_Skipp_Tanner_2015_EEF">(Skipp &amp; Tanner, 2015, pp. 25–27)</a>；<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 32–35)</a></li>
 <li><strong>机制证据边界</strong> 访谈有助于识别使用条件；教师自陈和录课剂量的关联不足以确定教学实践改变所产生的学业因果效应。<a href="#Argument_Sanders_2021_EEF">(Sanders et al., 2021, pp. 18, 36–38, 52)</a></li>
@@ -24337,6 +24067,7 @@ body .callout.callout.callout[data-callout][data-callout="eef-programme"][data-c
 </div></div>
 <hr/>
 <div class="callout" data-callout="entry-map"><div aria-expanded="true" class="callout-title" role="button" tabindex="0"><div class="callout-title-inner">相关条目</div></div><div class="callout-content">
+
 <table>
 <thead>
 <tr>

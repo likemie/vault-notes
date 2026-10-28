@@ -12772,6 +12772,16 @@
     ]
   },
   {
+    "title": "Institutional Mimesis",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Institutional Mimesis.md",
+    "aliases": [
+      "制度拟态",
+      "制度模仿",
+      "制度性拟态"
+    ]
+  },
+  {
     "title": "Insurrectionaries",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Insurrectionaries.md",
@@ -33401,6 +33411,18 @@
     "subtype": "organization"
   },
   {
+    "title": "Coreper",
+    "type": "fact",
+    "path": "wiki/facts/eu/Coreper.md",
+    "aliases": [
+      "常驻代表委员会",
+      "欧洲联盟常驻代表委员会",
+      "Comité des Représentants Permanents",
+      "Committee of Permanent Representatives"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "E4 Group",
     "type": "fact",
     "path": "wiki/facts/eu/E4 Group.md",
@@ -44579,6 +44601,11 @@
     "title": "Argument_Narayanamurti_2013_IST",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Issues in Science & Technology/Argument_Narayanamurti_2013_IST.md"
+  },
+  {
+    "title": "Argument_Murray_Moxon-Browne_2013_JCMS",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md"
   },
   {
     "title": "Argument_Hitchcock_2015_JBE",

@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-06
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -180,6 +180,6 @@ updated: 2026-10-22
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用历史与跨国比较政策分析方法，对比[[OECD]]在1960–1990年社会民主主义妥协期与1990年代中期后新自由主义期的治理架构、工作模式及[[PISA]]指标体系，揭示国际组织从政府间论坛向独立跨国政策行动者的制度转型。
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 在英国新工党福利改革案例中，横向对比英国决策者对美、瑞、新、澳四国政策及评估方案的选择性筛选过程，揭示因果评估证据充沛性如何决定跨国借用的最终取舍。
 > - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 运用比较政策分析视角审视现存 254 个跨国职教合作平台的空间分布与专业结构数据，剖析主权规制差异对跨境教育合作成效的制度制约（pp. 294–295）。
-- [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 采用比较政策与制度分析设计，系统对照欧盟常驻代表委员会与东盟常驻代表委员会的决策架构、履约约束力与协商规范，评估区域一体化中制度拟态的复制边界（pp. 522–534）。
+> - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 采用比较政策与制度分析设计，系统对照欧盟常驻代表委员会与东盟常驻代表委员会的决策架构、履约约束力与协商规范，评估区域一体化中制度拟态的复制边界（pp. 522–534）。
 
 ---
