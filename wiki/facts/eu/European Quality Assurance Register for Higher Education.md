@@ -7,10 +7,10 @@ aliases:
 summary: "2008 年由 E4 组织（ENQA、ESU、EUA、EURASHE）依据博洛尼亚进程卑尔根公报创设的欧洲首个法定实体机构，总部设于布鲁塞尔；负责依据 ESG 标准审核并登记合规的质量保障机构，将地方性机构合法化为全欧公认的质保载体，并开发运营外部质量保障结果数据库（DEQAR），推动跨国高校资质与学位互认。"
 type: fact
 subtype: organization
-region: "eu"
+region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 1
+fact_related_count: 0
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -28,10 +28,9 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
-related_arguments:
-  - "[[Argument_Grek_2024_EERJ]]"
+related_arguments: []
 confidence: high
-status: draft
+status: completed
 created: 2026-10-28
 updated: 2026-10-28
 ---
@@ -39,7 +38,7 @@ updated: 2026-10-28
 ---
 
 > [!claim] 核心定位
-> 博洛尼亚进程框架下设立的首个具备独立法人资格的实体机构；作为《欧洲高等教育区质量保障标准与准则》（ESG）的守门人，负责对全欧外部质量保障机构实施合规性注册准入，并将欧洲各国的质保中介转化为全欧通认的质量权威。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
+> 博洛尼亚进程框架下设立的首个具备独立法人资格的实体机构；作为《欧洲高等教育区质量保障标准与准则》（[[European Standards and Guidelines|ESG]]）的守门人，负责对全欧外部质量保障机构实施合规性注册准入，并将欧洲各国的质保中介转化为全欧通认的质量权威。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2008 年依据 2005 年博洛尼亚进程卑尔根部长级会议建议正式成立，由 E4 集团（ENQA、ESU、EUA、EURASHE）联合发起创设；旨在解决各国质保机构可信度参差不齐、跨国办学审查互不认可的问题。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 221, 223)]]
@@ -61,8 +60,8 @@ updated: 2026-10-28
 >
 >   由单纯的机构准入注册器延伸为欧洲高教数据中心与政策建言者，直连高校与学位认证微观实践。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224, 226)]]
 >
->   - **2018** 推出外部质量保障结果数据库（DEQAR），集中收录全欧评审报告。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 223–224)]]
->   - **2020** 启动 DEQAR Connect 项目，实现质保数据与欧洲高等教育机构注册库（ETER）及各国文凭认证中心对接。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 224)]]
+>   - **2018** 推出外部质量保障结果数据库（[[Database of External Quality Assurance Results|DEQAR]]），集中收录全欧评审报告。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 223–224)]]
+>   - **2020** 启动 DEQAR Connect 项目，实现质保数据与欧洲高等教育机构注册库（[[European Tertiary Education Register|ETER]]）及各国文凭认证中心对接。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 224)]]
 
 ---
 
@@ -102,3 +101,33 @@ updated: 2026-10-28
 > [!stat-cards]- 核心规模数据
 > - **2008** 博洛尼亚进程框架下设立首个法定实体的创设年份。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
 > - **49** 认可其注册权威的欧洲高等教育区成员国范围。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
+
+---
+
+> [!debates] 核心争议交锋
+>
+> > [!axis] 技术审查准入与成员国主权质保体制的博弈
+> > EQAR 注册委员会基于 ESG 对国家质保机构作出否决或延缓注册时引发的管辖权争议。
+> > - **合规至上立场** 注册委员会坚持，注册审查必须完全独立于国家政治关照，唯有保持最高合规标尺才能维系全欧质保名录的国际公信力。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
+> > - **主权防御立场** 个别成员国政府认为，法定质保机构属于国家主权事务，超国家注册机构严格的裁量权在客观上对国内法定机构形成了外部掣肘。
+>
+> > [!axis] 数据集中汇聚与高校评价自主性
+> > DEQAR 数据库汇集全欧数十万份质保报告是否会导致高校面临跨国透明度压力与排名化风险。
+> > - **透明与互认倡导** EQAR 团队强调，数据库只如实呈现经过合规中介认定的质保结论，旨在便利跨国学位互认与求学者知情权，不构建综合排名。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224–225)]]
+> > - **批判社会学观察** 格雷克与拉塞尔指出，集中化数据库使原本分散在各国的质保结论成为全欧可检索、可通约的数字知识，构成了无形的远距离治理工具。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 230–232)]]
+
+---
+
+> [!entry-map] 相关条目网络
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[European Standards and Guidelines]] | Fact (Policy) | EQAR 开展外部质保机构合规性审查与准入登记的法定通用基准。 |
+> | [[European Association for Quality Assurance in Higher Education]] | Fact (Organization) | 协同发起创设 EQAR 并承担注册申请第三方外部评审的关键行业协会。 |
+> | [[Database of External Quality Assurance Results]] | Fact (Program) | EQAR 开发并运营的欧洲外部质量保障报告集中共享数据库。 |
+> | [[European Tertiary Education Register]] | Fact (Program) | 与 EQAR DEQAR 数据库实现机构代码对接与数据共享的全欧高校名录。 |
+> | [[Bologna Process]] | Fact (Policy) | 授权设立 EQAR 并以其为质保基石实体的欧洲高等教育一体化改革。 |
+> | [[Epistemic Infrastructure]] | Concept | EQAR 构成欧洲高等教育质量保障认识论基础设施中的核心法定注册中枢。 |
+> | [[European Education Area]] | Fact (Policy) | EQAR 质保数据直连文凭自动互认网络所服务的欧盟顶层教育战略。 |
+> | [[Commensuration]] | Concept | EQAR 通过标准注册将多元异质的国家质保资质转化为全欧等价权威。 |
+> | [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]] | Argument | 深入解构 EQAR 如何从技术审查器演进为认识论基础设施政策参与者的核心文献。 |

@@ -6,7 +6,7 @@ aliases:
 summary: "欧洲高等教育质量保障注册局（EQAR）于 2018 年在欧盟委员会资助下启动的集中化质保数据库项目；汇聚各注册质保机构对全欧高校及专业的外部评估报告与认证决定，依托与 ETER 数据库的机构基准档案对接，嵌入各国学术学历互认中心（ENIC-NARIC）工作流程以实现自动化资质核验。"
 type: fact
 subtype: program
-region: "eu"
+region: eu
 fact_region: "eu"
 fact_kind: "program"
 fact_related_count: 3
@@ -26,13 +26,10 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[European Commission]]"
-  - "[[European Tertiary Education Register]]"
-related_arguments:
-  - "[[Argument_Grek_2024_EERJ]]"
+related_facts: []
+related_arguments: []
 confidence: high
-status: draft
+status: completed
 created: 2026-10-28
 updated: 2026-10-28
 ---
@@ -50,7 +47,7 @@ updated: 2026-10-28
 
 ---
 
-> [!claim] 核心机制假说
+> [!claim] 核心干预／机制假说
 > 将质保机构的离散式文本审查报告转化为结构化、机器可读的跨国数字凭证，通过将其直接嵌入各国学历互认中心（ENIC-NARIC）的日常行政工作流，重构跨国教育信任机制并促进高等教育一体化。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224–225)]]
 
 > [!policy-design] 方案设计
@@ -58,6 +55,11 @@ updated: 2026-10-28
 > - **收录标准** 仅接纳已在 EQAR 成功注册且符合 ESG 标准的独立质保机构上传的评估报告、认证决定与复核意见。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
 > - **系统架构整合** 依托 DEQAR Connect 项目直接复用[[European Tertiary Education Register|欧洲高等教育机构注册库]]（ETER）的基础机构档案编码，仅在其上挂载具体的外部评估结论。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 224)]]
 > - **行政工作流集成** 通过应用程序编程接口（API）与各国国家学术认可信息中心网络（ENIC-NARIC）连接，实现跨国学历审核时的自动质保背书核验。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224–225)]]
+
+> [!citation-card] DEQAR 论质保结果直连学历自动互认
+> DEQAR 的核心目标在于使外部质量保障报告在全欧范围内更易于获取与利用，特别是在承认高等教育资格方面。通过将报告数据直接供给国家学术认可信息中心（ENIC-NARIC），DEQAR 为落实跨国文凭自动互认提供了直接可操作的数字化核验工具。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224–225)]]
+>
+> *The main aim of DEQAR is to facilitate access to external quality assurance reports and decisions, specifically for the recognition of higher education qualifications. By linking quality data directly with ENIC-NARIC centres, DEQAR provides an operational digital tool for automatic recognition.*
 
 ---
 
@@ -88,8 +90,32 @@ updated: 2026-10-28
 
 > [!finding-cards] 核心成效与辐射影响
 > - **组织职能战略延伸** 推动 EQAR 由以往仅面向中介机构的注册名录，延伸至直连全欧大学微观认证状态的数据中心。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224, 226)]]
-> - **制度性互认赋能** 显著降低了跨境学位认知的交易成本，为欧洲教育区提出的资格“自动互认”目标提供了不可或缺的操作工具。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224–225, 230)]]
+> - **制度性互认支撑** 显著降低了跨境学位认知的交易成本，为欧洲教育区提出的资格“自动互认”目标提供了切实的操作工具。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224–225, 230)]]
 
 > [!stat-cards]- 关键实证数据
 > - **2018** DEQAR 数据库正式发布上线年份。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
 > - **10000+** 数据库内集中归档的全欧外部质保报告与有效认证决议估算规模。
+
+---
+
+> [!debates] 核心争议
+>
+> > [!axis] 数字数据库与远距离治理技术
+> > 集中化质保数据库究竟是纯粹的信息共享工具，还是超国家远距离规训技术。
+> > - **行政便利与透明度辩护** 运营团队与欧盟委员会认为，DEQAR 仅承担质保结论的客观汇集与公开呈现功能，旨在破除行政壁垒、保护跨境求学者正当权益。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224–225)]]
+> > - **认识论治理批判** 格雷克与拉塞尔指出，DEQAR 通过将原本深嵌于各国制度情境的质性审查文本编码为全欧可检索的数字档案，确立了全景敞视式的质量可见性，在避开成员国宪制辅助性限制的前提下实现了有效的“远距离治理”。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 230–232)]]
+
+---
+
+> [!entry-map] 相关条目网络
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[European Quality Assurance Register for Higher Education]] | Fact (Organization) | 开发并持续运营 DEQAR 数据库的欧洲法定质保实体。 |
+> | [[European Tertiary Education Register]] | Fact (Program) | 为 DEQAR 提供机构级微观数据档案与识别编码的基准数据库。 |
+> | [[European Standards and Guidelines]] | Fact (Policy) | DEQAR 所收录质保报告与认证决议的通用法定合规基准。 |
+> | [[European Commission]] | Fact (Organization) | 为 DEQAR 及 DEQAR Connect 项目提供全额资助的超国家机构。 |
+> | [[European Education Area]] | Fact (Policy) | DEQAR 支撑落实全欧学位与学分自动互认的核心战略框架。 |
+> | [[Epistemic Infrastructure]] | Concept | DEQAR 构成欧洲高等教育质量保障认识论基础设施中数字化注册库的核心形态。 |
+> | [[Governing at a Distance]] | Concept | DEQAR 依靠数据可见性实现跨国高校软性规训的理论治理机制。 |
+> | [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] | Argument | 深入解构 DEQAR 作为认识论基础设施与远距离治理工具的核心文献。 |

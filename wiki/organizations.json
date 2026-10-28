@@ -2848,6 +2848,12 @@
         "wiki/facts/netherlands/Higher Education and Research Plan.md"
       ]
     },
+    "European Ministers in charge of Higher Education": {
+      "seen_in": [
+        "wiki/facts/eu/European Standards and Guidelines.md",
+        "wiki/facts/europe/Bologna Process.md"
+      ]
+    },
     "National Bureau of Economic Research": {
       "seen_in": [
         "wiki/arguments/reports-policy-documents/Argument_Mowery_2011_NBER.md",
@@ -2995,11 +3001,6 @@
     "Education Scotland and The Wood Foundation": {
       "seen_in": [
         "wiki/facts/uk/RAiSE Programme.md"
-      ]
-    },
-    "EHEA": {
-      "seen_in": [
-        "wiki/facts/eu/European Standards and Guidelines.md"
       ]
     },
     "French Chamber of Deputies": {
