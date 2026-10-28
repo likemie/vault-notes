@@ -549,40 +549,6 @@
       "title": "Argument_Beech_2009_GlobalGarden",
       "year": "2009"
     },
-    "Behavioural Insights Team (2016)": {
-      "aliases": [
-        "Behavioural Insights Team, 2016",
-        "Behavioural Insights Team (2016)"
-      ],
-      "argument": "Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol",
-      "authors": [
-        "Behavioural Insights Team"
-      ],
-      "citation": "Behavioural Insights Team. (2016). Visible Classroom [Evaluation protocol; PDF created 14 September 2016]. Education Endowment Foundation.",
-      "doi": "",
-      "isbn": "",
-      "path": "wiki/arguments/reports-policy-documents/Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol.md",
-      "source_language": "en",
-      "title": "Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol",
-      "year": "2016"
-    },
-    "Behavioural Insights Team, 2016": {
-      "aliases": [
-        "Behavioural Insights Team, 2016",
-        "Behavioural Insights Team (2016)"
-      ],
-      "argument": "Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol",
-      "authors": [
-        "Behavioural Insights Team"
-      ],
-      "citation": "Behavioural Insights Team. (2016). Visible Classroom [Evaluation protocol; PDF created 14 September 2016]. Education Endowment Foundation.",
-      "doi": "",
-      "isbn": "",
-      "path": "wiki/arguments/reports-policy-documents/Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol.md",
-      "source_language": "en",
-      "title": "Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol",
-      "year": "2016"
-    },
     "Bergeron & Rivard, 2017": {
       "aliases": [
         "Bergeron & Rivard, 2017",
@@ -3607,6 +3573,24 @@
       "title": "Argument_Greene_2018_JEP",
       "year": "2018"
     },
+    "Grek & Russell, 2024": {
+      "aliases": [
+        "Grek & Russell, 2024",
+        "Grek and Russell (2024)"
+      ],
+      "argument": "Argument_Grek_2024_EERJ",
+      "authors": [
+        "Grek, S.",
+        "Russell, I."
+      ],
+      "citation": "Grek, S., & Russell, I. (2024). Beyond Bologna? Infrastructuring quality in European higher education. European Educational Research Journal, 23(2), 215–236. https://doi.org/10.1177/14749041231170518",
+      "doi": "10.1177/14749041231170518",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
+      "source_language": "en",
+      "title": "Argument_Grek_2024_EERJ",
+      "year": "2024"
+    },
     "Grek (2009)": {
       "aliases": [
         "Grek, 2009",
@@ -3623,6 +3607,24 @@
       "source_language": "en",
       "title": "Argument_Grek_2009_JEdPolicy",
       "year": "2009"
+    },
+    "Grek and Russell (2024)": {
+      "aliases": [
+        "Grek & Russell, 2024",
+        "Grek and Russell (2024)"
+      ],
+      "argument": "Argument_Grek_2024_EERJ",
+      "authors": [
+        "Grek, S.",
+        "Russell, I."
+      ],
+      "citation": "Grek, S., & Russell, I. (2024). Beyond Bologna? Infrastructuring quality in European higher education. European Educational Research Journal, 23(2), 215–236. https://doi.org/10.1177/14749041231170518",
+      "doi": "10.1177/14749041231170518",
+      "isbn": "",
+      "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
+      "source_language": "en",
+      "title": "Argument_Grek_2024_EERJ",
+      "year": "2024"
     },
     "Grek, 2009": {
       "aliases": [
@@ -4255,40 +4257,6 @@
       "path": "wiki/arguments/journal-articles/School Leadership & Management/Argument_Hattie_2017_SLM.md",
       "source_language": "en",
       "title": "Argument_Hattie_2017_SLM",
-      "year": "2017"
-    },
-    "Heal (2017)": {
-      "aliases": [
-        "Heal, 2017",
-        "Heal (2017)"
-      ],
-      "argument": "Argument_Heal_2017_VisibleClassroomProtocol",
-      "authors": [
-        "Heal, J."
-      ],
-      "citation": "Heal, J. (2017). Visible Classroom: Amendments February 2017 [Amended evaluation protocol]. Education Endowment Foundation.",
-      "doi": "",
-      "isbn": "",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Heal_2017_VisibleClassroomProtocol.md",
-      "source_language": "en",
-      "title": "Argument_Heal_2017_VisibleClassroomProtocol",
-      "year": "2017"
-    },
-    "Heal, 2017": {
-      "aliases": [
-        "Heal, 2017",
-        "Heal (2017)"
-      ],
-      "argument": "Argument_Heal_2017_VisibleClassroomProtocol",
-      "authors": [
-        "Heal, J."
-      ],
-      "citation": "Heal, J. (2017). Visible Classroom: Amendments February 2017 [Amended evaluation protocol]. Education Endowment Foundation.",
-      "doi": "",
-      "isbn": "",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Heal_2017_VisibleClassroomProtocol.md",
-      "source_language": "en",
-      "title": "Argument_Heal_2017_VisibleClassroomProtocol",
       "year": "2017"
     },
     "Helgetun & Menter, 2022": {
@@ -8383,26 +8351,6 @@
       "title": "Argument_Rømer_2018_EPT",
       "year": "2018"
     },
-    "Sanders et al. (2018)": {
-      "aliases": [
-        "Sanders et al., 2018",
-        "Sanders et al. (2018)"
-      ],
-      "argument": "Argument_Sanders_2018_VisibleClassroomSAP",
-      "authors": [
-        "Sanders, M.",
-        "Carr, D.",
-        "Ní Chonaire, A.",
-        "Northcott, H."
-      ],
-      "citation": "Sanders, M., Carr, D., Ní Chonaire, A., & Northcott, H. (2018). Statistical analysis plan: Visible Classroom. Education Endowment Foundation.",
-      "doi": "",
-      "isbn": "",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Sanders_2018_VisibleClassroomSAP.md",
-      "source_language": "en",
-      "title": "Argument_Sanders_2018_VisibleClassroomSAP",
-      "year": "2018"
-    },
     "Sanders et al. (2021)": {
       "aliases": [
         "Sanders et al., 2021",
@@ -8430,26 +8378,6 @@
       "source_language": "en",
       "title": "Argument_Sanders_2021_EEF",
       "year": "2021"
-    },
-    "Sanders et al., 2018": {
-      "aliases": [
-        "Sanders et al., 2018",
-        "Sanders et al. (2018)"
-      ],
-      "argument": "Argument_Sanders_2018_VisibleClassroomSAP",
-      "authors": [
-        "Sanders, M.",
-        "Carr, D.",
-        "Ní Chonaire, A.",
-        "Northcott, H."
-      ],
-      "citation": "Sanders, M., Carr, D., Ní Chonaire, A., & Northcott, H. (2018). Statistical analysis plan: Visible Classroom. Education Endowment Foundation.",
-      "doi": "",
-      "isbn": "",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Sanders_2018_VisibleClassroomSAP.md",
-      "source_language": "en",
-      "title": "Argument_Sanders_2018_VisibleClassroomSAP",
-      "year": "2018"
     },
     "Sanders et al., 2021": {
       "aliases": [

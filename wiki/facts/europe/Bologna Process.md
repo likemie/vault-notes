@@ -12,9 +12,9 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 28
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 31
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 tags:
   - bologna-process
@@ -24,6 +24,7 @@ tags:
   - region/europe
   - theme/internationalization
 related_concepts:
+  - "[[Europe of Knowledge]]"
   - "[[Heterogeneity]]"
   - "[[Subsidiarity Principle]]"
   - "[[Research Universities]]"
@@ -45,17 +46,19 @@ related_persons:
   - "[[Jason Beech]]"
   - "[[José Luis García Garrido]]"
 related_facts:
+  - "[[European Commission]]"
+  - "[[Copenhagen Process]]"
   - "[[European Standards and Guidelines]]"
   - "[[EU]]"
   - "[[Erasmus Programme]]"
-  - "[[European Commission]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[Times Higher Education World University Rankings]]"
 related_arguments:
+  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
-  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Grek_2024_EERJ]]"
 related_instruments:
   - "[[Epistemological Understanding Assessment]]"
 confidence: high
@@ -111,6 +114,7 @@ updated: 2026-10-28
 
 > [!finding-cards] 历史成效与制度突破
 > - **重塑全欧高等教育空间秩序** 成功打破 49 个成员国彼此割裂的学制藩篱，实现了学士、硕士、博士分层三周期学制与 ECTS 学分的制度化通用，使全欧跨境求学与学分认定成为常态。
+> - **从单一政策协调向复合认识论基础设施演变** 摆脱了最初仅依赖单一政策文件的局限，深化演进为由标准（ESG）、注册机构（EQAR）、微观高校注册库（ETER）与质保数据库（DEQAR）构成的多行动者、多标尺认识论基础设施；质量保障从最初的技术核验工具转化为驱动博洛尼亚深化与全欧高教一体化的核心引擎。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 216, 230–232)]]
 > - **激发高校的[[Geopolitics|地缘政治]]能动性** 实证研究确证，高校能在多层级权力网络中展现出卓越能动性，超越国家政策与地缘政治动荡被动承受者的传统角色，通过跨国联盟、共同学位及空间布局直接参与塑造高等教育地缘秩序。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
 > - **倒逼欧洲大陆传统体制行政现代化** 促使德、法、意等传统中央集权或讲座制国家打破繁琐终身文凭体系，推动课程大纲向强调[[Employability|就业能力]]（[[Employability]]）与学习产出的模块化转型。
 

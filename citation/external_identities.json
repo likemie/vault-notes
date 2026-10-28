@@ -6709,6 +6709,15 @@
       ],
       "title": ""
     },
+    "Bandola-Gill et al., 2022": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
+        "wiki/concepts/sociology-of-education/Epistemic Infrastructure.md"
+      ],
+      "title": ""
+    },
     "Bandura & Walters, 1963": {
       "doi": "",
       "isbn": "",
@@ -8651,6 +8660,14 @@
         "wiki/arguments/reports-policy-documents/Argument_Bouckaert_2023_OECD.md"
       ],
       "title": ""
+    },
+    "Behavioural Insights Team, 2016": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/uk/Visible Classroom Programme.md"
+      ],
+      "title": "Visible Classroom [Evaluation protocol]"
     },
     "Behrman, 2015": {
       "datasets": [
@@ -12699,6 +12716,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
         "wiki/concepts/sociology-of-education/Data Infrastructure.md"
       ],
       "title": ""
@@ -31092,6 +31110,14 @@
       ],
       "title": ""
     },
+    "European Commission, 2022": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md"
+      ],
+      "title": ""
+    },
     "European Council, 1997": {
       "doi": "",
       "isbn": "",
@@ -40320,6 +40346,14 @@
       ],
       "title": ""
     },
+    "Grek, 2022": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md"
+      ],
+      "title": ""
+    },
     "Grenier, 2013": {
       "datasets": [
         "eef:individualised-instruction"
@@ -44353,6 +44387,14 @@
         "wiki/concepts/science-policy/Problem of Many Hands.md"
       ],
       "title": ""
+    },
+    "Heal, 2017": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/uk/Visible Classroom Programme.md"
+      ],
+      "title": "Visible Classroom: Amendments February 2017 [Amended evaluation protocol]"
     },
     "Healy, 2001": {
       "doi": "",
@@ -55478,6 +55520,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Thompson_2022_Promising_Student.md",
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
         "wiki/concepts/educational-technology/Digital Self.md",
         "wiki/concepts/sociology-of-education/Data Infrastructure.md"
       ],
@@ -82083,6 +82126,7 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Boyadjieva_2022_Springer.md",
         "wiki/arguments/journal-articles/British Educational Research Journal/Argument_Wrigley_2018_BERJ.md",
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
         "wiki/concepts/higher-education/Global Universities Rankings.md"
       ],
       "title": ""
@@ -86926,6 +86970,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
         "wiki/arguments/journal-articles/Policy Studies/Argument_Legrand_2012_PolStud.md",
         "wiki/concepts/educational-policy-reform/Policy Mobility.md",
         "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md"
@@ -89406,6 +89451,14 @@
         "wiki/concepts/research-methodology/Effective Sample Size.md"
       ],
       "title": ""
+    },
+    "Sanders et al., 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/uk/Visible Classroom Programme.md"
+      ],
+      "title": "Statistical analysis plan: Visible Classroom"
     },
     "Sanders, 1979": {
       "datasets": [

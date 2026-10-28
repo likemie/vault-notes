@@ -5563,19 +5563,19 @@
         "role": "observed evaluation results"
        },
        {
-        "record": "Sanders_2018_VisibleClassroomSAP",
         "pages": "1–10",
-        "role": "prespecified analysis"
+        "role": "prespecified analysis",
+        "file": "raw/EEF/Visible_Classroom_SAP.pdf"
        },
        {
-        "record": "Heal_2017_VisibleClassroomProtocol",
         "pages": "1, 16, 20–21",
-        "role": "amended protocol"
+        "role": "amended protocol",
+        "file": "raw/EEF/Regrant_-_Visible_Classroom_AMENDED_1.pdf"
        },
        {
-        "record": "BehaviouralInsightsTeam_2016_VisibleClassroomProtocol",
         "pages": "1–19",
-        "role": "original protocol"
+        "role": "original protocol",
+        "file": "raw/EEF/EEF_Project_Protocol_Regrant_Visible_Classroom.pdf"
        }
       ],
       "source_reference": "[[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 13–23, 32–40)]]",

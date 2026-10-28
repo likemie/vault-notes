@@ -10,7 +10,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 16
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -22,28 +22,25 @@ tags:
   - theme/open-method-of-coordination
   - theme/educational-governance
 related_concepts:
-  - "[[Open Method of Coordination]]"
   - "[[Subsidiarity Principle]]"
+  - "[[Open Method of Coordination]]"
   - "[[Lifelong Learning]]"
-  - "[[Human Capital Theory]]"
   - "[[Performance Indicators]]"
   - "[[European Education Space]]"
 related_theories:
-  - "[[Discursive Institutionalism]]"
-related_methods:
-  - "[[Documentary Analysis]]"
-  - "[[Elite Interview]]"
+  - "[[Human Capital Theory]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
-  - "[[Education and Training 2010]]"
-  - "[[Europe 2020 Strategy]]"
-  - "[[EU Skills Agenda]]"
-  - "[[Lisbon Strategy]]"
   - "[[European Commission]]"
+  - "[[Education and Training 2010]]"
+  - "[[Lisbon Strategy]]"
+  - "[[EU Skills Agenda]]"
   - "[[EU]]"
 related_arguments:
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
+  - "[[Argument_Grek_2024_EERJ]]"
 confidence: high
 status: draft
 created: 2026-10-28
@@ -67,6 +64,7 @@ updated: 2026-10-28
 > - **政策目标** 消除跨境学习流动制度性障碍，提升全欧教育质量与公平性，增强教师队伍专业胜任力与职业声望，支持双转型技能供给，构建贯穿全生命周期的终身学习生态。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 860, 863)]]
 > - **适用对象** 成员国教育部、地方教育行政机构、大中小学及职业院校、教师与全阶段学习者。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 859)]]
 > - **政策工具** 七大量化基准指标（Targets/Benchmarks）、同侪学习活动（PLA）、伊拉斯谟+计划（Erasmus+）资助、欧洲大学倡议、欧洲社会基金（ESF+）以及欧洲学期国别建议。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 855, 865)]]
+> - **数据基础设施支撑** 依托欧洲高等教育质量保障注册局运营的 DEQAR 数据库及 ETER 机构数据，直连各国学术互认中心（ENIC-NARIC），为落实欧洲教育区文凭与学分自动互认提供可操作的数字核验基础。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 224–225, 230–231)]]
 > - **约束机制** 依托[[Open Method of Coordination|开放协调法]]（OMC）实施年度教育与培训监测报告（Education and Training Monitor）、联合中期进展审查以及成员国代表团同侪审议，通过声誉机制与资金挂钩形成软性施压，排除硬性法律规制。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 861, 864)]]
 
 > [!row-contrast] 欧盟委员会提议与欧盟理事会决议的结构重组

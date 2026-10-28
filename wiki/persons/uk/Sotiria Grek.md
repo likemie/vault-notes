@@ -7,7 +7,7 @@ summary: "英国爱丁堡大学欧洲与全球教育治理讲席教授，英国�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 35
+person_related_count: 36
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -63,10 +63,11 @@ related_facts:
   - "[[Eurydice]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Grek_2024_EERJ]]"
 confidence: high
 status: completed
 created: 2026-10-21
-updated: 2026-10-26
+updated: 2026-10-28
 ---
 
 ---
@@ -87,8 +88,8 @@ updated: 2026-10-26
 > - **2000 年代初** 获得牛津大学博士学位，随后加入爱丁堡大学教育社会学中心（[[Comparative and International Education Society|CES]]），投身欧洲教育质量保障与评估比较研究。
 > - **2006–2009** 作为核心研究员参与欧洲科学基金会重大跨国科研项目“[[Fabricating Quality in European Education|制造欧洲教育质量]]”（[[Fabricating Quality in European Education|FabQ]]），负责英格兰与苏格兰的实证调研。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 35)]]
 > - **2009** 在《教育政策杂志》（*Journal of Education Policy*）发表标志性研究成果《以数治教：[[PISA]] 在欧洲的“效应”》，奠定其在欧洲教育治理领域的国际学术声誉。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23–37)]]
-> - **2010 年代** 历任爱丁堡大学高级讲师、Reader 及讲席教授，主持欧盟第七框架“知识与政策”（Know+Pol）项目及欧洲研究理事会（[[Engineering Research Centers|ERC]]）启动基金项目。
-> - **2020 年代** 当选英国国家学术院院士与爱丁堡皇家学会院士，持续聚焦全球可持续发展指标与国际组织知识网络演进。
+> - **2010 年代** 历任爱丁堡大学高级讲师、Reader 及讲席教授，主持欧盟第七框架“知识与政策”（Know+Pol）项目及欧洲研究理事会（[[Engineering Research Centers|ERC]]）启动基金项目 METRO（国际组织与全球度量场域的兴起）。
+> - **2020 年代** 当选英国国家学术院院士与爱丁堡皇家学会院士，持续聚焦全球可持续发展指标治理与欧洲高等教育质量保障认识论基础设施演进。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 215–236)]]
 
 ---
 
@@ -97,6 +98,7 @@ updated: 2026-10-26
 > - **2012 — *Fabricating Europe: The Formation of an Education Space*（与 Martin Lawn 合著）** 系统阐发欧洲教育空间的历史制度生成，论述跨国专家网络与统计等价性在欧洲一体化中的构造功能。
 > - **2015 — *[[Governing by Inspection]]*（与 [[Jenny Ozga]] et al. 合著）** 比较欧洲各国督导制度的数字化转型，揭示视学评估由层级官僚问责向量化自我规训的技术演变。
 > - **2021 — *The New Production of Users: Making Education Data Productive*（与 [[Christian Ydesen]] et al. 合著）** 考察跨国[[Data Infrastructure|教育数据基础设施]]的用户生产与算法治理逻辑。
+> - **2024 — *Beyond Bologna? Infrastructuring quality in European higher education*（与 Ian Russell 合著）** 提出认识论基础设施分析框架，系统解构欧洲高教质保由单一博洛尼亚进程向多元数据物质载体与跨国专家网络深度交织的演变逻辑。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 215–236)]]
 
 ---
 

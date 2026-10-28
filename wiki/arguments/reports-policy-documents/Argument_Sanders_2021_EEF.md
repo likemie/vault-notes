@@ -17,9 +17,7 @@ related_methods:
   - "[[Semi-structured Interview]]"
 related_facts:
   - "[[Visible Classroom Programme]]"
-related_arguments:
-  - "[[Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol]]"
-  - "[[Argument_Sanders_2018_VisibleClassroomSAP]]"
+related_arguments: []
 sources:
   - "[[sources/Sanders_2021_EEF/Sanders_2021_EEF|Sanders_2021_EEF]]"
 status: "active"
@@ -31,7 +29,7 @@ title: "Argument_Sanders_2021_EEF"
 argument_key: "Argument_Sanders_2021_EEF"
 argument_display_title: "Visible Classroom: Re-grant evaluation report"
 argument_kind: "report"
-argument_related_count: 6
+argument_related_count: 4
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dcfce7"
@@ -143,9 +141,6 @@ issuing_organization: "Education Endowment Foundation"
 > | 原六年级 | 719；98.68（96.18, 101.18） | 625；100.69（98.07, 103.31） | 0.03（−0.13, 0.20） | 0.71 | n = 1,344，未达统计显著 |
 >
 > 两个队列均以数学与阅读综合成绩为结局，使用与主分析相同的模型。原六年级亚组在调整后由负的原始均值差转为正的处理系数。报告分别分析资格亚组，未报告与非资格学生的交互检验；两行均折算为零个月，不能由此确认等效或亚组差异。（pp. 17, 34–35）
-
-> [!boundary] 最低三分之一教师的因果亚组分析未能实施
-> 2016 年方案曾计划分析教学准则评分最低三分之一教师所教学生；2018 年统计分析计划指出对照组缺少相应评分，也缺少可比较的反事实，并放弃该因果比较。最终报告未提供这一亚组的处理效应。[[Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol|(Behavioural Insights Team, 2016, p. 12)]]；[[Argument_Sanders_2018_VisibleClassroomSAP|(Sanders et al., 2018, pp. 9–10)]]
 
 ### 缺失基线复核与依从分析未改变综合成绩结论
 

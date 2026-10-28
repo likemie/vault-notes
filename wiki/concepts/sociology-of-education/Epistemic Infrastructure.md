@@ -9,10 +9,10 @@ aliases:
 summary: "由测量物质载体、跨国行动者网络互联与治理技术三层互动构成的政策知识生产与验证架构，指涉通过数据指标、标准规程与分类注册系统将地方性异质实践编码为可比等价信息，驱动超国家政策空间在缺乏法定立法规制下实现自愿协调与持续扩张的社会-技术网络。"
 type: concept
 domain: "sociology-of-education"
-related_count: 0
+related_count: 3
 related_level: 0
 related_stars: "☆"
-related_color: "#fdba74"
+related_color: "#e5e7eb"
 tags:
   - concept/sociology-of-education
   - theme/infrastructure
@@ -21,21 +21,12 @@ tags:
   - theme/knowledge-production
 related_concepts:
   - "[[Data Infrastructure]]"
-  - "[[Governing by Numbers]]"
-  - "[[Epistemic Community]]"
-  - "[[Commensuration]]"
-related_theories:
-  - "[[Governing at a Distance]]"
-related_methods:
-  - "[[Discourse Analysis]]"
-  - "[[Elite Interview]]"
+  - "[[Policy Network]]"
+related_theories: []
+related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Sotiria Grek]]"
-related_facts:
-  - "[[Bologna Process]]"
-  - "[[European Standards and Guidelines]]"
-  - "[[European Education Area]]"
+related_persons: []
+related_facts: []
 related_arguments:
   - "[[Argument_Grek_2024_EERJ]]"
 confidence: high
@@ -60,8 +51,8 @@ updated: 2026-10-28
 > *Building on our use of the term elsewhere (Bandola-Gill et al., 2022), this article conceptualises the emergence and consolidation of an epistemic infrastructure of measurement relating to quality assurance and measurement within European higher education as an interplay of three levels: the materialities of measurement; interlinkages between actors and between actors and measures and finally, the use of QA as the means to govern not only higher education but the European Education Area as a whole.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Data Infrastructure]] 数据基础设施主要聚焦于底层数据的抽取、清洗、算法通约与存储流动等计算性装配，而认识论基础设施进一步统合了合法性评价标准、专家认知社团网络以及对政策议程的深层构建功能。
-> - 不等于 [[Policy Network]] 政策网络侧重于利益相关者之间的权力博弈、资源交换与人际关系，而认识论基础设施强调测量文本、注册表单与数据库界面等非人行动元的物质性规约效力。
+> - 不等于 [[Data Infrastructure]] 数据基础设施主要聚焦于底层数据的抽取、清洗、算法通约与存储流动等计算性装配，而认识论基础设施进一步整合了合法性评价标准、专家认知社团网络以及对政策议程的深层构建功能。
+> - 不等于 [[Policy Network]] 政策网络侧重于利益相关者之间的权力博弈、资源交换与人际关系，而认识论基础设施强调测量文本、注册表单与数据库界面等非人行动元的物质规范效力。
 
 ---
 

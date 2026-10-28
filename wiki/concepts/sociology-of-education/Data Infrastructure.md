@@ -9,10 +9,10 @@ aliases:
 summary: "围绕教育数据的去情境化抽取、算法通约折算与选择性再呈现而动态装配的社会-技术网络；是充斥算法选择性与即兴调配的实验性系统，深陷简化、通约、时效、公开与博弈五维张力，通过次级代表表象生产分布式治理权力。"
 type: concept
 domain: "sociology-of-education"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/sociology-of-education
   - theme/datafication
@@ -34,6 +34,7 @@ related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Hartong_2018_GSE]]"
+  - "[[Argument_Grek_2024_EERJ]]"
 related_concepts:
   - "[[Assemblage]]"
   - "[[Recontextualization]]"
@@ -77,7 +78,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-25
+updated: 2026-10-28
 ---
 
 ---
@@ -248,6 +249,7 @@ updated: 2026-10-25
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 考察欧洲高等教育机构注册库（ETER）与质保结果数据库（DEQAR）的系统互联，阐明跨国数据基础设施如何从底层打通机构识别与质保认证，支撑欧洲教育区一体化治理。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 揭示欧盟如何通过资助 80% 成本、采购 50%–60% 统计数据并嵌入 INES 委员会，依托经合组织数据基础设施在缺乏立法权下协调欧洲教育空间。
 > - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 系统解剖德国建立跨尺度绩效数据基础设施与国家[[Center of Calculation|计算中心]]的演化过程，论证数据流动如何促成教育政策的[[Topological Spatialisation|拓扑学重组]]。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 比较美德两地州级教育监测系统，全景剖析数据基础设施的四级技术架构与五维治理张力，首倡培育面向社会-技术系统的数据基础设施素养。

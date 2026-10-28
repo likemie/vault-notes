@@ -16686,6 +16686,18 @@
     ]
   },
   {
+    "title": "Epistemic Infrastructure",
+    "type": "concept",
+    "path": "wiki/concepts/sociology-of-education/Epistemic Infrastructure.md",
+    "aliases": [
+      "认识论基础设施",
+      "认知基础设施",
+      "知识基础设施",
+      "epistemic infrastructures",
+      "认识基础设施"
+    ]
+  },
+  {
     "title": "Establishment Caste",
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Establishment Caste.md",
@@ -33402,6 +33414,18 @@
     "subtype": "organization"
   },
   {
+    "title": "European Association for Quality Assurance in Higher Education",
+    "type": "fact",
+    "path": "wiki/facts/eu/European Association for Quality Assurance in Higher Education.md",
+    "aliases": [
+      "ENQA",
+      "欧洲高等教育质量保障协会",
+      "欧洲高等教育质量保障网络",
+      "European Network for Quality Assurance in Higher Education"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "European Commission",
     "type": "fact",
     "path": "wiki/facts/eu/European Commission.md",
@@ -33410,6 +33434,17 @@
       "欧洲联盟委员会",
       "欧委会",
       "EC"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "European Quality Assurance Register for Higher Education",
+    "type": "fact",
+    "path": "wiki/facts/eu/European Quality Assurance Register for Higher Education.md",
+    "aliases": [
+      "EQAR",
+      "欧洲高等教育质量保障注册局",
+      "欧洲高等教育质量保障注册中心"
     ],
     "subtype": "organization"
   },
@@ -33705,6 +33740,16 @@
     "subtype": "program"
   },
   {
+    "title": "Database of External Quality Assurance Results",
+    "type": "fact",
+    "path": "wiki/facts/eu/Database of External Quality Assurance Results.md",
+    "aliases": [
+      "DEQAR",
+      "外部质量保障结果数据库"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Education and Training 2010",
     "type": "fact",
     "path": "wiki/facts/eu/Education and Training 2010.md",
@@ -33736,6 +33781,17 @@
     "aliases": [
       "欧洲研究区",
       "欧洲科研区"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "European Tertiary Education Register",
+    "type": "fact",
+    "path": "wiki/facts/eu/European Tertiary Education Register.md",
+    "aliases": [
+      "ETER",
+      "欧洲高等教育机构注册库",
+      "欧洲高等教育机构注册表"
     ],
     "subtype": "program"
   },
@@ -44303,6 +44359,11 @@
     "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Dedering_2009_EERJ.md"
   },
   {
+    "title": "Argument_Grek_2024_EERJ",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md"
+  },
+  {
     "title": "Argument_Møller_2017_EERJ",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Møller_2017_EERJ.md"
@@ -44976,21 +45037,6 @@
     "title": "Argument_Cowen_2015_CHESS",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Cowen_2015_CHESS.md"
-  },
-  {
-    "title": "Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol",
-    "type": "argument",
-    "path": "wiki/arguments/reports-policy-documents/Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol.md"
-  },
-  {
-    "title": "Argument_Heal_2017_VisibleClassroomProtocol",
-    "type": "argument",
-    "path": "wiki/arguments/reports-policy-documents/Argument_Heal_2017_VisibleClassroomProtocol.md"
-  },
-  {
-    "title": "Argument_Sanders_2018_VisibleClassroomSAP",
-    "type": "argument",
-    "path": "wiki/arguments/reports-policy-documents/Argument_Sanders_2018_VisibleClassroomSAP.md"
   },
   {
     "title": "Argument_Sanders_2021_EEF",

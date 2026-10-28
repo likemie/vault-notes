@@ -914,6 +914,16 @@
         "欧洲共同体"
       ]
     },
+    "European Association for Quality Assurance in Higher Education": {
+      "path": "wiki/facts/eu/European Association for Quality Assurance in Higher Education.md",
+      "names": [
+        "European Association for Quality Assurance in Higher Education",
+        "ENQA",
+        "欧洲高等教育质量保障协会",
+        "欧洲高等教育质量保障网络",
+        "European Network for Quality Assurance in Higher Education"
+      ]
+    },
     "European Commission": {
       "path": "wiki/facts/eu/European Commission.md",
       "names": [
@@ -922,6 +932,15 @@
         "欧洲联盟委员会",
         "欧委会",
         "EC"
+      ]
+    },
+    "European Quality Assurance Register for Higher Education": {
+      "path": "wiki/facts/eu/European Quality Assurance Register for Higher Education.md",
+      "names": [
+        "European Quality Assurance Register for Higher Education",
+        "EQAR",
+        "欧洲高等教育质量保障注册局",
+        "欧洲高等教育质量保障注册中心"
       ]
     },
     "Eurydice": {
@@ -2978,7 +2997,7 @@
         "wiki/facts/uk/RAiSE Programme.md"
       ]
     },
-    "EHEA & ENQA": {
+    "EHEA": {
       "seen_in": [
         "wiki/facts/eu/European Standards and Guidelines.md"
       ]

@@ -10,9 +10,9 @@ summary: "针对政策制定者、高级官员、学术领袖等具有高层决�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 41
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 tags:
   - qualitative
@@ -63,6 +63,8 @@ related_facts:
 related_arguments:
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Grek_2024_EERJ]]"
+  - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Legrand_2012_PolStud]]"
 confidence: high
@@ -157,6 +159,7 @@ updated: 2026-10-28
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 运用滚雪球抽样深度访谈欧洲高等教育质保协会、注册局、欧盟委员会及经合组织现任与前任高层官员，解析欧洲高教质保认识论基础设施的演变格局与组织博弈。
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 对欧盟委员会教育文化总司、委员会主席内阁与欧盟理事会 9 位高级官员开展深度半结构化访谈，通过归纳主题分析与话语解读追踪欧洲教育区战略议程中的理念协调与机构博弈。
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]] — 深度访谈 33 位国际组织主管、教育部委高层与全球[[Evidence Network|证据网络]]负责人等关键知情人，定性解析证据利用中的制度瓶颈、资助政治与中介运作机制（pp. 18, 20）。
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 对 20 位具备英格兰教育政策内部准入资格的高级官员、政府顾问与学者展开精英访谈，揭示了[[Evidence Era\|证据时代]]教师教育治理中政府守门与[[Policy-Based Evidence-Making\|逆向证据生产]]机制。
