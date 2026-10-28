@@ -7,7 +7,7 @@ aliases:
 summary: "欧盟在 20 世纪 90 年代中后期确立的超国家宏观政策话语与治理图式，将教育、科研与培训深度绑定于全球经济竞争与就业增长，把知识界定为可度量与可消费的商品，依托欧洲教育区建设与全景敞视式软法规训驱动成员国体制趋同"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,10 +46,11 @@ related_facts:
   - "[[International Monetary Fund]]"
 related_arguments:
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Chou_2017_PolSoc]]"
 confidence: high
 status: draft
 created: 2026-10-27
-updated: 2026-10-27
+updated: 2026-10-29
 ---
 
 ---
@@ -103,6 +104,9 @@ updated: 2026-10-27
 > [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
 > **危机修辞驱动的市场化话语建构** 乔治·帕西亚斯（George Pasias）与扬尼斯·鲁萨基斯（Yannis Roussakis）指出，[[European Commission|欧盟委员会]]在 20 世纪 90 年代相继发布的《增长、竞争力、就业》（1993）与《教与学：迈向学习型社会》（1995）白皮书，正式奠定了知识欧洲的市场导向话语。该话语将全球化、信息社会与技术科学（techno-science）预设为不可逆转的外部巨变，以此倒逼欧洲重塑教育结构；教育被直接界定为决定就业与社会凝聚的无形投资，个体在社会中的地位也被简化为其掌握工具性知识的能力。该话语深度吸纳[[OECD|经合组织]]、[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]的新自由主义信条，倡导削减公共教育开支、推行受教育者共同出资以及按可测量绩效拨款，从而将知识矮化为可消费、可折旧与可替换的商业产品。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 482–484)]]
 
+> [!claim] Chou & Ravinet
+> **从政策边缘向战略核心的定位转移与干预合法化** 周孟萱（Meng-Hsuan Chou）与波琳·拉维内（Pauline Ravinet）基于欧洲高等教育区域政策演进指出，2000 年[[Lisbon Strategy|里斯本战略]]与欧洲 2020 战略将一体化整体目标锚定于建设“知识欧洲”，促使高等教育部门迅速从欧洲共同体决策的边缘地带上升至核心战略枢纽。知识经济话语将原本属于文化交流维度的学生流动重新诠释为向欧盟统一大市场输送高素质技能劳动力与创新活力的关键支撑；这种战略再定位突破了条约对超国家教育立法权的宪制约束（辅助性原则），为[[European Commission|欧盟委员会]]合法运用深层协调工具、深度介入成员国高等教育体制提供了坚实的政治与话语合法性基础。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147–148)]]
+
 ---
 
 ### 命题二　知识欧洲通过软法协调与指标监控构筑超国家教育全景敞视治理架构
@@ -118,7 +122,7 @@ updated: 2026-10-27
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **经济工具主义与知识商品化** | 借助全球化与信息技术震荡的危机叙事，将教育界定为从属于全球经济竞争与资本积累的生产要素，推动知识商品化与教育市场化重塑 | 欧洲超国家宏观政策话语分析、新自由主义教育改革批判 | Pasias & Roussakis |
+> | **经济工具主义与知识商品化** | 借助全球化危机叙事与知识经济定位，将高等教育从边缘领域提升至统一市场战略核心，重塑为从属于经济竞争与资本积累的生产要素 | 欧洲超国家宏观政策话语分析、新自由主义教育改革批判、区域主义政策演进 | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]]; [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] |
 > | **软法规训与全景监视机制** | 在缺乏统一立法权宪制约束下，依托开放协调法、凝视技术、绩效技术与治理技术构筑跨国全景敞视式软法规训 | 超国家教育治理、跨国软法监控与成员国政策趋同研究 | Pasias & Roussakis |
 
 ---
@@ -128,6 +132,7 @@ updated: 2026-10-27
 > - **1999–2000 — 制度化落地阶段** 《索邦宣言》签署与[[Lisbon Strategy|里斯本战略]]启动，确立建设全球最具竞争力的知识经济体战略目标，开放协调法被确立为核心治理工具。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480, 486)]]
 > - **2002–2010 — 规训监视深化阶段** “教育与培训 2010”工作规划全面展开，量化基准指标、同行评审与指标仪表板系统化嵌入成员国政策周期，形成常态化全景式治理。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 487–492)]]
 > - **2009 — 全景敞视批判解构** 帕西亚斯与鲁萨基斯运用福柯规训理论，系统解构知识欧洲政策网络，揭示其依托软法监控构筑现代教育全景敞视建筑的技术官僚本质。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 479–494)]]
+> - **2017 — 区域主义比较视阈下的战略定位解析** [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] 系统梳理欧洲高教区域演进，阐明“知识欧洲”战略定位如何驱动高等教育从条约边缘上升为欧盟核心议程，并为超国家机构创设深层政策工具提供合法化依托。
 
 ---
 
@@ -137,4 +142,5 @@ updated: 2026-10-27
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 从比较区域主义视角论述里斯本战略确立“知识欧洲”对高等教育政策地位的深层重塑，揭示知识经济话语如何将大学定位为区域创新与市场竞争的核心引擎，并为欧盟委员会拓展深层政策协调工具赋予制度合法性（pp. 147–148）。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯权力-知识理论批判解构 1992–2007 年欧盟教育话语演进，揭示知识欧洲如何通过市场化、软法协调与开放协调法构筑欧洲教育全景敞视建筑。

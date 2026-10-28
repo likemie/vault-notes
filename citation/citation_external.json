@@ -682,8 +682,8 @@
     "Alvarez-Montero et al., 2018": "Alvarez-Montero et al., 2018",
     "Alverez-Bueno et al. (2020)": "Alverez-Bueno et al., 2020",
     "Alverez-Bueno et al., 2020": "Alverez-Bueno et al., 2020",
-    "Alvik (1968)": "Alvik, 1968",
-    "Alvik, 1968": "Alvik, 1968",
+    "Alvesson & Sandberg (2011)": "Alvesson & Sandberg, 2011",
+    "Alvesson & Sandberg, 2011": "Alvesson & Sandberg, 2011",
     "Alvin Weinberg (1961)": "Alvin Weinberg, 1961",
     "Alvin Weinberg (1967)": "Alvin Weinberg, 1967",
     "Alvin Weinberg, 1961": "Alvin Weinberg, 1961",
@@ -1495,7 +1495,6 @@
     "Ball & Junemann, 2012": "Ball & Junemann, 2012",
     "Ball & Youdell (2007)": "Ball & Youdell, 2007",
     "Ball & Youdell, 2007": "Ball & Youdell, 2007",
-    "Ball (1987)": "Ball, 1987",
     "Ball (1990)": "Ball, 1990",
     "Ball (1991)": "Ball, 1991",
     "Ball (1993)": "Ball, 1993",
@@ -1516,7 +1515,6 @@
     "Ball et al. (2017)": "Ball et al., 2017",
     "Ball et al., 2012": "Ball et al., 2012",
     "Ball et al., 2017": "Ball et al., 2017",
-    "Ball, 1987": "Ball, 1987",
     "Ball, 1990": "Ball, 1990",
     "Ball, 1991": "Ball, 1991",
     "Ball, 1993": "Ball, 1993",
@@ -4999,7 +4997,6 @@
     "Cooper & Rosenthal, 1980": "Cooper & Rosenthal, 1980",
     "Cooper & Schindler (2001)": "Cooper & Schindler, 2001",
     "Cooper & Schindler, 2001": "Cooper & Schindler, 2001",
-    "Cooper (1965)": "Cooper, 1965",
     "Cooper (1989)": "Cooper, 1989",
     "Cooper (1994)": "Cooper, 1994",
     "Cooper (2007)": "Cooper, 2007",
@@ -5025,7 +5022,6 @@
     "Cooper et al., 2010": "Cooper et al., 2010",
     "Cooper et al., 2017": "Cooper et al., 2017",
     "Cooper et al., 2022": "Cooper et al., 2022",
-    "Cooper, 1965": "Cooper, 1965",
     "Cooper, 1989": "Cooper, 1989",
     "Cooper, 1994": "Cooper, 1994",
     "Cooper, 2007": "Cooper, 2007",
@@ -9509,8 +9505,6 @@
     "Haas, 2005b": "Haas, 2005b",
     "Haase et al. (2018)": "Haase et al., 2018",
     "Haase et al., 2018": "Haase et al., 2018",
-    "Haavedsrud (1970)": "Haavedsrud, 1970",
-    "Haavedsrud, 1970": "Haavedsrud, 1970",
     "Habermas & Horkheimer (1972)": "Habermas & Horkheimer, 1972",
     "Habermas & Horkheimer, 1972": "Habermas & Horkheimer, 1972",
     "Habermas (1970)": "Habermas, 1970",
@@ -11636,6 +11630,8 @@
     "John Rawls, 2005": "John Rawls, 2005",
     "John Rex (1974)": "John Rex, 1974",
     "John Rex, 1974": "John Rex, 1974",
+    "John Swales (1990)": "John Swales, 1990",
+    "John Swales, 1990": "John Swales, 1990",
     "John W. Kingdon (1984)": "John W. Kingdon, 1984",
     "John W. Kingdon, 1984": "John W. Kingdon, 1984",
     "John et al. (2012)": "John et al., 2012",
@@ -18720,10 +18716,8 @@
     "Prasad, 2002": "Prasad, 2002",
     "Prater (1993)": "Prater, 1993",
     "Prater, 1993": "Prater, 1993",
-    "Pratt (1984)": "Pratt, 1984",
     "Pratt et al. (1940)": "Pratt et al., 1940",
     "Pratt et al., 1940": "Pratt et al., 1940",
-    "Pratt, 1984": "Pratt, 1984",
     "Preckel et al. (2011)": "Preckel et al., 2011",
     "Preckel et al., 2011": "Preckel et al., 2011",
     "Premack & Woodruff (1978)": "Premack & Woodruff, 1978",
@@ -19829,8 +19823,6 @@
     "Rose, 2006": "Rose, 2006",
     "Rose, 2007": "Rose, 2007",
     "Rose, 2012": "Rose, 2012",
-    "Rosell (1968)": "Rosell, 1968",
-    "Rosell, 1968": "Rosell, 1968",
     "Rosemberg (2011)": "Rosemberg, 2011",
     "Rosemberg, 2011": "Rosemberg, 2011",
     "Rosemont (2012)": "Rosemont, 2012",
@@ -31653,14 +31645,14 @@
       "seen_in": [],
       "title": "Aerobic fitness and academic achievement: A systematic review and meta-analysis"
     },
-    "Alvik, 1968": {
+    "Alvesson & Sandberg, 2011": {
       "aliases": [
-        "Alvik, 1968",
-        "Alvik (1968)"
+        "Alvesson & Sandberg, 2011",
+        "Alvesson & Sandberg (2011)"
       ],
       "doi": "",
       "identity_keys": [
-        "Alvik, 1968"
+        "Alvesson & Sandberg, 2011"
       ],
       "isbn": "",
       "seen_in": [
@@ -37629,21 +37621,6 @@
         "wiki/arguments/journal-articles/International Journal of Educational Research/Argument_Rowe_2022_IJER.md",
         "wiki/concepts/educational-policy-reform/Policy Mobility.md",
         "wiki/methods/qualitative/Network Ethnography.md"
-      ],
-      "title": ""
-    },
-    "Ball, 1987": {
-      "aliases": [
-        "Ball, 1987",
-        "Ball (1987)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Ball, 1987"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/academic-writing/Deficiencies in Past Literature.md"
       ],
       "title": ""
     },
@@ -44865,8 +44842,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-        "wiki/concepts/academic-writing/Deficiencies in Past Literature.md"
+        "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
       ],
       "title": ""
     },
@@ -63325,21 +63301,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of Automaticity Training on Reading Performance: A Meta-Analysis"
-    },
-    "Cooper, 1965": {
-      "aliases": [
-        "Cooper, 1965",
-        "Cooper (1965)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Cooper, 1965"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/academic-writing/Deficiencies in Past Literature.md"
-      ],
-      "title": ""
     },
     "Cooper, 1989": {
       "aliases": [
@@ -96082,21 +96043,6 @@
       ],
       "title": ""
     },
-    "Haavedsrud, 1970": {
-      "aliases": [
-        "Haavedsrud, 1970",
-        "Haavedsrud (1970)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Haavedsrud, 1970"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/academic-writing/Deficiencies in Past Literature.md"
-      ],
-      "title": ""
-    },
     "Habermas & Horkheimer, 1972": {
       "aliases": [
         "Habermas & Horkheimer, 1972",
@@ -105290,8 +105236,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03.md",
-        "wiki/concepts/academic-writing/Deficiencies in Past Literature.md"
+        "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03.md"
       ],
       "title": ""
     },
@@ -111608,6 +111553,21 @@
         "wiki/persons/uk/John Rex.md",
         "wiki/persons/uk/Peter Woods.md",
         "wiki/theories/sociology-of-education/Thomas Theorem.md"
+      ],
+      "title": ""
+    },
+    "John Swales, 1990": {
+      "aliases": [
+        "John Swales, 1990",
+        "John Swales (1990)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "John Swales, 1990"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/academic-writing/Deficiencies in Past Literature.md"
       ],
       "title": ""
     },
@@ -162857,21 +162817,6 @@
       ],
       "title": ""
     },
-    "Pratt, 1984": {
-      "aliases": [
-        "Pratt, 1984",
-        "Pratt (1984)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Pratt, 1984"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/academic-writing/Deficiencies in Past Literature.md"
-      ],
-      "title": ""
-    },
     "Preckel et al., 2011": {
       "aliases": [
         "Preckel et al., 2011",
@@ -170885,21 +170830,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "Succeeding with high-risk k–3 populations using arts-based reading instruction  A longitudinal study"
-    },
-    "Rosell, 1968": {
-      "aliases": [
-        "Rosell, 1968",
-        "Rosell (1968)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Rosell, 1968"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/academic-writing/Deficiencies in Past Literature.md"
-      ],
-      "title": ""
     },
     "Rosemberg, 2011": {
       "aliases": [
@@ -214674,8 +214604,7 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md",
-        "wiki/concepts/academic-writing/Deficiencies in Past Literature.md"
+        "wiki/arguments/books/Creswell_2022_SAGE/Argument_Creswell_2022_SAGE.md"
       ],
       "title": ""
     },
