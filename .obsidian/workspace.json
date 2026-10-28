@@ -74,7 +74,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -82,7 +82,8 @@
               "title": "Argument_Murray_Moxon-Browne_2013_JCMS"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -287,8 +288,15 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bd88d0cdfde06150",
+  "active": "a2aa5f6545a9eecb",
   "lastOpenFiles": [
+    "wiki/facts/multi/ASEAN University Network.md",
+    "wiki/facts/multi/SEAMEO RIHED.md",
+    "output/related-updates/Argument_Murray_Moxon-Browne_2013_JCMS-dca7113b/batch-003/result.json",
+    "output/related-updates/Argument_Murray_Moxon-Browne_2013_JCMS-dca7113b/batch-002/result.json",
+    "raw_pdf_text.txt",
+    "output/related-updates/Argument_Murray_Moxon-Browne_2013_JCMS-dca7113b/batch-001/result.json",
+    "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md",
     "output/related-updates/Argument_Murray_Moxon-Browne_2013_JCMS-dca7113b/batch-004/prompt.md",
     "output/related-updates/Argument_Murray_Moxon-Browne_2013_JCMS-dca7113b/batch-004/batch-result.schema.json",
     "output/related-updates/Argument_Murray_Moxon-Browne_2013_JCMS-dca7113b/batch-003/prompt.md",
@@ -299,12 +307,7 @@
     "output/related-updates/Argument_Murray_Moxon-Browne_2013_JCMS-dca7113b/batch-001/batch-result.schema.json",
     "output/related-updates/Argument_Murray_Moxon-Browne_2013_JCMS-dca7113b/state.json",
     "output/related-updates/Argument_Murray_Moxon-Browne_2013_JCMS-dca7113b/batch-004",
-    "output/related-updates/Argument_Murray_Moxon-Browne_2013_JCMS-dca7113b/batch-003",
-    "output/related-updates/Argument_Murray_Moxon-Browne_2013_JCMS-dca7113b/batch-002",
-    "output/related-updates/Argument_Murray_Moxon-Browne_2013_JCMS-dca7113b/batch-001",
-    "output/related-updates/Argument_Murray_Moxon-Browne_2013_JCMS-dca7113b",
     "wiki/facts/eu/European Semester.md",
-    "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md",
     "wiki/facts/eu/Lisbon Strategy.md",
     "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
     "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md",
@@ -332,8 +335,6 @@
     "output/可见的学习课题和案例/_to_delete/r7/w-018.png",
     "output/可见的学习课题和案例/去AI味检测/文献综述_去AI味对比报告.md",
     "output/可见的学习课题和案例/_to_delete/litreview_after.md",
-    "output/可见的学习课题和案例/_to_delete/litreview.md",
-    "wiki/facts/europe/Bologna Follow-Up Group.md",
-    "wiki/facts/eu/E4 Group.md"
+    "output/可见的学习课题和案例/_to_delete/litreview.md"
   ]
 }

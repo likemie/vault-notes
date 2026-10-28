@@ -52,7 +52,7 @@ updated: 2026-10-29
 > [!citation-card] 制度拟态的复制限度
 > 若非欧洲区域组织试图通过制度拟态走捷径，无法保证这种模仿能够取得成效；形式的直接移植并不意味着能够自动获得支撑该机制有效运转的政治意愿与规范土壤。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 532)]]
 >
-> *Thus if ASEAN attempts a quick fix by a process of what might be termed 'institutional mimesis' there is no guarantee that it will succeed. Neither is it to be assumed that this is what the CPR wishes to [[Achieve|achieve]].*
+> *Thus if ASEAN attempts a quick fix by a process of what might be termed 'institutional mimesis' there is no guarantee that it will succeed. Neither is it to be assumed that this is what the CPR wishes to achieve.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Institutional Isomorphism|制度同构]] 制度同构是新制度主义解释组织[[Champ|场域]]整体结构趋同的上位宏观[[Paradigm|范式]]，包含强制型、规范型与模仿型机制；制度拟态更聚焦跨国与跨区域治理主体对外源制度形式的能动移植与象征性采纳。

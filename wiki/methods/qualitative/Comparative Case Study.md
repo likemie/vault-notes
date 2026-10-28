@@ -193,3 +193,4 @@ updated: 2026-10-26
 > - [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]] — 采用比较案例研究设计，横向对比 [[PISA]] 与 [[OECD AHELO Project|AHELO]] [[Test Production|测验生产]]早期阶段，通过档案挖掘与多[[Scale in Higher Education|尺度分析]]揭示跨国组织如何调动经验声誉、知识网络与官僚资源确立全球教育治理的合法权力。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 采用探索性比较案例研究设计，对比[[Belt and Road Initiative|一带一路倡议]]下的[[University Alliance of the Silk Road|丝绸之路大学联盟]]与[[Asian Universities Alliance|亚洲大学联盟]]在组织治理、准入门槛与合作机制上的制度异同，论证中国在[[Areas of Knowledge|知识领域]]兼具[[Knowledge Diplomacy|知识外交]]与[[Knowledge Power|知识权力]]的多元网络布局（pp. 1698–1699）。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 采用跨国比较案例研究设计，横向对比德国、英格兰、苏格兰与芬兰对 PISA 测评的政策反响，并在垂直尺度上追踪[[OECD|经合组织]]与[[European Commission|欧盟委员会]]的数据动员，实证揭示全球指标与国内政治议程的[[Externalization|策略性外在化]]机制（pp. 28–35）。
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 采用基于政策部门的跨区域比较案例研究设计，深度对比欧洲与东南亚高等教育区域治理的制度建构路径，揭示两地在政策理念、组织分工与知识话语吸纳机制上的类型差异（pp. 146–148）。

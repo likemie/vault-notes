@@ -62,6 +62,7 @@ updated: 2026-10-28
 > [!dev-timeline] 理论版本与贡献
 > - **2008 — 确立第四种新制度主义** Schmidt (2008) 确立话语制度主义的认识论坐标，将话语定义为行动者产生、审议与合法化理念的交互过程，区分协调性话语与交流性话语。
 > - **2016 — 提出理念权力三维分类** Carstensen and Schmidt (2016) 细化行动者运用理念行使权力的机制，确立通过理念行使权力、支配理念之权力与内置于理念之权力三大范畴。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 857)]]
+> - **2017 — 部门区域主义的观念视角拓展** [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] 拓展新制度主义观念视角，将理念区分为作为被解释变量的部门政策理念（高等教育区域主义的实质定位）与作为解释变量的宏观区域合作模式及知识话语，实证检验多层次跨国治理中的理念互动。
 > - **2023 — 应用于超国家教育治理分析** [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] 将该理论引入欧盟[[European Education Area|欧洲教育区]]战略建构研究，阐明认知性理念（如终身学习）与规范性理念（如性别平等）在跨机构闭门博弈中的韧性与取舍。
 
 ---
@@ -132,3 +133,4 @@ updated: 2026-10-28
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 运用话语制度主义与理念权力框架，结合对欧盟委员会与理事会 9 位高级官员的精英访谈与政策文本分析，深入解构欧洲教育区（EEA）战略议程的建构历程与机构博弈。
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 运用观念制度主义视角（ideas as explanandum and explanans），通过 53 场半结构化访谈与政策文献分析，对比欧洲与东南亚高等教育区域治理的理念演进机制。

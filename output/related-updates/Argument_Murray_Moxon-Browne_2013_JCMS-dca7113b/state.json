@@ -7,7 +7,7 @@
   "batches": [
     {
       "number": 1,
-      "status": "pending",
+      "status": "done",
       "type": "concept",
       "template": "wiki/templates/template-concept.md",
       "entries": [
@@ -68,11 +68,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-28T19:36:05.523917+00:00"
     },
     {
       "number": 2,
-      "status": "pending",
+      "status": "done",
       "type": "theory",
       "template": "wiki/templates/template-theory.md",
       "entries": [
@@ -138,11 +139,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-28T19:39:22.211453+00:00"
     },
     {
       "number": 3,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -160,7 +162,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-28T19:40:54.253906+00:00"
     },
     {
       "number": 4,

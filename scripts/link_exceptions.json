@@ -280,5 +280,17 @@
       "sentence": "And, 'these are the targets we want to reach'.",
       "target": "wiki/facts/uk/Reach.md"
     }
+  ],
+  "wiki/concepts/political-economy-geopolitics/Institutional Mimesis.md": [
+    {
+      "sentence": "Neither is it to be assumed that this is what the CPR wishes to achieve.*",
+      "target": "wiki/facts/us/Achieve.md"
+    }
+  ],
+  "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md": [
+    {
+      "sentence": "Neither is it to be assumed that this is what the CPR wishes to achieve.*",
+      "target": "wiki/facts/us/Achieve.md"
+    }
   ]
 }
