@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 ---
@@ -72,7 +72,7 @@ updated: 2026-10-28
 
 > [!logic-map]- 认识论基础设施生成与自我强化机制
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["测量物质载体<br>(ESG 标准 / 数据库 / 指标系统)"] -->|"赋予评估标准可操作形态"| B["专家网络与制度互联<br>(ENQA / EQAR / ETER / DEQAR)"]
 >     B -->|"打通跨国数据与机构互认"| C["超国家政策空间治理<br>(欧洲高等教育区 / 欧洲教育区)"]
 >     C -->|"催生新政策目标与资助项目"| D["系统扩容与新基础设施节点<br>(微证书 / 国际对标 / 自动化互认)"]

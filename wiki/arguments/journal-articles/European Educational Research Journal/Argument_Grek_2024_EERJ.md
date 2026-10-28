@@ -72,7 +72,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grek_2024_EERJ"
@@ -136,7 +136,7 @@ issuing_organization: ""
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["博洛尼亚进程初期协调<br>(政府间政治公报模式遭遇推进瓶颈)"] --> B["确立弹性准则与法定准入关口<br>(ESG 弹性规范 + EQAR 准入名录)"]
 >     B --> C["数据库互联穿透办学微观实体<br>(ETER 高校档案 + DEQAR 认证结果库)"]
 >     C --> D["机构双轨分工与项目资助共生<br>(ENQA 与 EQAR 辅导审计配合 + 欧委会资助引导 OECD 测评)"]

@@ -107,6 +107,9 @@ class ProgrammeTests(unittest.TestCase):
         pilot, trial = result.split('[!eef-errata]')[0].split('[!eef-trial]-')[1:]
         self.assertIn('实施 2014-03 至 2014-07', pilot)
         self.assertIn('36 名教师', pilot)
+        self.assertIn('干预 2014-03 至 2014-07', pilot)
+        self.assertIn('报告日期 2015-02', pilot)
+        self.assertNotIn(eef.PENDING, pilot)
         self.assertNotIn('2013-02 至 2016-01', pilot)
         self.assertNotIn('EEF_Project_Protocol_Visible_Classroom.pdf', pilot)
         self.assertNotIn('EEF_Project_Protocol_Regrant_Visible_Classroom.pdf', trial)
@@ -137,6 +140,11 @@ class ProgrammeTests(unittest.TestCase):
         self.assertIn('对照组无评分', trial)
         self.assertNotIn('研究拨款 TBC', result)
         self.assertIn('研究拨款 ' + eef.PENDING, result)
+        self.assertEqual(result.count(eef.PENDING), 1)
+        self.assertIn('EEF 网页尚未公布金额', result)
+        self.assertIn('3 项报告记载差异', result)
+        self.assertNotIn('5 项待核实', result)
+        self.assertIn('报告日期 2021-02', trial)
 
     def test_report_rows_do_not_overwrite_web_export_or_derive_months(self):
         p = eef.load_json(ROOT / 'datasets/eef/programmes.json')['programmes']['the-visible-classroom-2015']

@@ -939,6 +939,7 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
     if facts:
         lines += [">", "> | k | v |", "> | --- | --- |"] + [f"> | {k} | {pend(v)} |" for k, v in facts]
     notes: list[str] = []
+    discrepancies: list[str] = []
     for trial in p.get("trials", []):
         r = trial.get("record", {})
         label = esc(r.get("label_zh") or trial["label"])
@@ -967,6 +968,8 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
         when.append("干预 " + iv + (f"，共 {r['intervention_weeks']} 周" if r.get("intervention_weeks") is not None else ""))
         if r.get("intervention_period_note"):
             when.append("实施学期 " + pend(r["intervention_period_note"]))
+        if r.get("report_date"):
+            when.append("报告日期 " + esc(r["report_date"]))
         rows.append(("时间", "；".join(when)))
         evaluator = pend(r.get("evaluator_zh") or trial.get("evaluator") or "待核实")
         if r.get("evaluator_url"):
@@ -1002,7 +1005,10 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
         if trial.get("cost_rating") is not None or trial.get("cost_status") in ("not_rated", "not_provided"):
             money.append("成本评级 " + _cost_rating(trial.get("cost_rating"), trial.get("cost_total"), trial.get("cost_status") or "ok"))
         if trial.get("grant"):
-            money.append(f"研究拨款 {PENDING if trial['grant'] in ('TBC', 'TBD') else esc(trial['grant'])}")
+            grant = PENDING if trial['grant'] in ('TBC', 'TBD') else esc(trial['grant'])
+            if r.get("grant_note"):
+                grant += "（" + esc(r["grant_note"]) + "）"
+            money.append("研究拨款 " + grant)
         if r.get("cost_per_pupil_year") is not None:
             c = f"交付 £{r['cost_per_pupil_year']:g}/生/年"
             if r.get("cost_amortisation_years") is not None:
@@ -1055,11 +1061,14 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
             if r.get("additional_analysis_note"):
                 lines += ["> >", "> > " + esc(r["additional_analysis_note"])]
         notes += [f"**{label}** {esc(n)}" for n in r.get("review_notes", [])]
+        discrepancies += [f"**{label}** {esc(n)}" for n in r.get("source_discrepancies", [])]
     notes = [esc(n) for n in p.get("review_notes", [])] + notes
     notes += [esc(e.get("note", "")) for e in errata if e.get("programme") == slug]
     notes += programme_checks(p)
     if notes:
         lines += [">", f"> > [!eef-errata]- {len(notes)} 项待核实"] + [f"> > - {n}" for n in notes]
+    if discrepancies:
+        lines += [">", f"> > [!eef-errata]- {len(discrepancies)} 项报告记载差异"] + [f"> > - {n}" for n in discrepancies]
     return "\n".join(lines)
 
 

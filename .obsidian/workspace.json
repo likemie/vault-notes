@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/facts/uk/Visible Classroom Programme.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
@@ -67,7 +67,8 @@
               "title": "Argument_Grek_2024_EERJ"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -272,8 +273,21 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1938c14344215b35",
+  "active": "9f6a7b58150da48c",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
+    "wiki/facts/europe/Bologna Process.md",
+    "output/可见的学习课题和案例/_to_delete/r7/z-018.png",
+    "output/可见的学习课题和案例/_to_delete/r7/z-014.png",
+    "wiki/facts/uk/Visible Classroom Programme.md",
+    "tmp/pdfs/visible-check/trial.png",
+    "tmp/pdfs/visible-check/pilot.png",
+    "tmp/pdfs/visible-check",
+    "wiki/arguments/reports-policy-documents/Argument_Sanders_2021_EEF.md",
+    "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md",
+    "sources/Skipp_Tanner_2015_EEF/Skipp_Tanner_2015_EEF.md",
+    "output/可见的学习课题和案例/_to_delete/props2.txt",
+    "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
     "output/可见的学习课题和案例/_to_delete/r7/y-021.png",
     "output/可见的学习课题和案例/~$可见的学习”视域下中学生高阶能力培育的学校探索》结题报告 优化版.docx",
     "output/可见的学习课题和案例/_to_delete/r7/x-036.png",
@@ -282,13 +296,7 @@
     "output/可见的学习课题和案例/_to_delete/r7/w-017.png",
     "output/可见的学习课题和案例/_to_delete/lit_now.txt",
     "output/可见的学习课题和案例/_to_delete/r7/v-025.png",
-    "output/可见的学习课题和案例/_to_delete/r7/v-024.png",
-    "output/可见的学习课题和案例/_to_delete/r7/u-016.png",
-    "output/可见的学习课题和案例/_to_delete/r7/s-023.png",
-    "output/可见的学习课题和案例/_to_delete/r7/s-016.png",
-    "output/可见的学习课题和案例/_to_delete/r7/s-014.png",
     "output/可见的学习课题和案例/_to_delete/优化版_用户1053保存.docx",
-    "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
     "output/可见的学习课题和案例/_to_delete/r7",
     "output/可见的学习课题和案例/_to_delete/body_dump.txt",
     "output/可见的学习课题和案例/去AI味检测/文献综述_改后检测.json",
@@ -296,13 +304,11 @@
     "output/可见的学习课题和案例/_to_delete/litreview_after.md",
     "output/可见的学习课题和案例/去AI味检测/文献综述_语义层逐条判读.json",
     "output/可见的学习课题和案例/去AI味检测/文献综述_脚本检测.json",
-    "output/可见的学习课题和案例/去AI味检测",
     "output/可见的学习课题和案例/_to_delete/litreview.md",
     "wiki/facts/europe/Bologna Follow-Up Group.md",
     "wiki/facts/eu/E4 Group.md",
     "wiki/facts/eu/European Universities Initiative.md",
     "wiki/facts/eu/European Approach for Quality Assurance of Joint Programmes.md",
-    "sources/Grek_2024_EERJ/extracted_text.txt",
     "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md",
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-012/prompt.md",
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-011/prompt.md",
@@ -314,11 +320,6 @@
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-005/prompt.md",
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-004/prompt.md",
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-003/prompt.md",
-    "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-002/prompt.md",
-    "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-001/prompt.md",
-    "wiki/facts/uk/Visible Classroom Programme.md",
-    "wiki/arguments/journal-articles/Chinese Education & Society/Argument_Wang_Liang_Chen_2025_CES.md",
-    "wiki/facts/global/ASEAN.md",
-    "wiki/arguments/journal-articles/Chinese Studies Journal/Argument_Velasco_2022_CSJ.md"
+    "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-002/prompt.md"
   ]
 }
