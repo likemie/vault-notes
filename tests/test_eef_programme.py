@@ -134,6 +134,10 @@ class ProgrammeTests(unittest.TestCase):
         self.assertNotIn('95%置信区间 [', trial)
         self.assertIn('n = 1,232', trial)
         self.assertIn('最终分析 6,934 人', trial)
+        self.assertNotIn('页面学校数', result)
+        self.assertIn('招募 10 所小学', pilot)
+        self.assertIn('随机分配 86 所学校（干预组 44 所，对照组 42 所）', trial)
+        self.assertIn('原五年级 83 校、3,337 人，原六年级 85 校、3,597 人', trial)
         outcome_table = trial.split('| out | grp |')[1]
         self.assertLess(outcome_table.index('原五年级队列'), outcome_table.index('↳ 原五年级免费校餐资格学生'))
         self.assertLess(outcome_table.index('↳ 原五年级免费校餐资格学生'), outcome_table.index('原六年级队列'))
@@ -143,6 +147,11 @@ class ProgrammeTests(unittest.TestCase):
         self.assertIn('研究拨款 ' + eef.PENDING, result)
         self.assertEqual(result.count(eef.PENDING), 1)
         self.assertIn('EEF 网页尚未公布金额', result)
+        self.assertEqual(result.count('[!eef-errata]'), 1)
+        self.assertIn('[!eef-errata]- 资料缺漏与差异', result)
+        funding = trial.split('| 经费 |', 1)[1].splitlines()[0]
+        self.assertNotIn('待核实', funding)
+        self.assertNotIn('口径不一致', funding)
         self.assertNotIn('5 项待核实', result)
         self.assertIn('报告日期 2021-02', trial)
         self.assertEqual(pilot.count('> > > [!'), 1)

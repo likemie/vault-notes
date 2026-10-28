@@ -5430,7 +5430,8 @@
         ]
        }
       ],
-      "discrepancies_in_trial": true
+      "discrepancies_in_trial": true,
+      "sample_summary": "招募 10 所小学"
      }
     },
     {
@@ -5568,8 +5569,10 @@
       "intervention_end": "2018-06",
       "label_zh": "第二期效能试验",
       "evaluator_zh": "行为洞察团队（Behavioural Insights Team，BIT）",
-      "design_note": "学校层面两臂集群随机试验，44 所干预、42 所常规教学对照；按免费校餐资格比例、第一关键阶段成绩及名额准入方式分层。意向治疗分析控制分层和既有成绩，标准误按学校聚类。",
-      "review_notes": [],
+      "design_note": "学校层面两臂集群随机试验，与常规教学比较；按免费校餐资格比例、第一关键阶段成绩及名额准入方式分层。意向治疗分析控制分层和既有成绩，标准误按学校聚类。",
+      "review_notes": [
+       "研究拨款 待核实（EEF 网页尚未公布金额）。"
+      ],
       "training": "2016 年干预前，教师一天面授；导师一小时网络研修。",
       "verification_sources": [
        {
@@ -5614,11 +5617,11 @@
       "report_date": "2021-02",
       "sample_context": [
        "最终分析 6,934 人：原五年级 83 校、3,337 人，原六年级 85 校、3,597 人；296 人未匹配学生数据库。",
-       "原五年级队列追踪两年，原六年级队列追踪一年；无法逐人确认原五年级队列的第二年干预暴露。"
+       "原五年级队列追踪两年，原六年级队列追踪一年。"
       ],
       "actual_dose_note": "首年最多 15 次录课，次年最多 6 次；81% 的教师达到依从标准。",
       "outcome_note": "效应量为 Hedges g。免费校餐资格按国家学生数据库过去六年曾符合资格指标界定；报告分别估计该亚组，未报告与其余学生的交互检验。",
-      "cost_note": "报告估计约 £23/生（三年累计口径，假设教师持续参与且无需重训）；费用表之间的起始成本口径不一致。",
+      "cost_note": "报告估计约 £23/生（三年累计口径，假设教师持续参与且无需重训）。",
       "outcomes": [
        {
         "trial_url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
@@ -5840,7 +5843,9 @@
        ]
       },
       "grant_note": "EEF 网页尚未公布金额",
-      "source_discrepancies": [],
+      "source_discrepancies": [
+       "费用表 28 列三年成本 £4,945，表 29 列 £5,544；报告未解释差额。"
+      ],
       "date_verification": {
        "source": "Sanders_2021_EEF",
        "pages": "21",
@@ -5852,7 +5857,7 @@
         "rows": [
          [
           "测量限制",
-          "对照校教学实践信息不足，教师行为改变未获独立测量。[[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 5, 52)]]"
+          "对照校教学实践信息不足，教师行为改变未获独立测量。原五年级队列第二年的干预暴露未能逐人确认。[[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 5, 52)]]"
          ],
          [
           "稳健性与机制",
@@ -5869,9 +5874,11 @@
         ]
        }
       ],
-      "discrepancies_in_trial": true,
+      "discrepancies_in_trial": false,
       "timeline_plan_note": "2016 年原方案为一个学年；2017 年 2 月修订延长一年。",
-      "analysis_changes_provenance": "教师评分最低三分之一亚组因对照组无评分而未作因果比较；描述性剂量指标由准则评分改为上传录课次数。"
+      "analysis_changes_provenance": "教师评分最低三分之一亚组因对照组无评分而未作因果比较；描述性剂量指标由准则评分改为上传录课次数。",
+      "sample_summary": "随机分配 86 所学校（干预组 44 所，对照组 42 所）",
+      "grant_in_notes": true
      }
     }
    ],

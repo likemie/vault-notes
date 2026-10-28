@@ -980,7 +980,7 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
             sample.append(f"页面学校数 {trial['schools']:,} 所")
         if r.get("schools_randomised") is not None:
             sample.append(f"随机分配学校 {r['schools_randomised']} 所")
-        text = "；".join(sample) or "未提供"
+        text = esc(r["sample_summary"]) if r.get("sample_summary") else ("；".join(sample) or "未提供")
         if r.get("sample_context"):
             text += "<br>" + "<br>".join(esc(v) for v in r["sample_context"])
         rows.append(("样本", text))
@@ -1004,7 +1004,7 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
         money = []
         if trial.get("cost_rating") is not None or trial.get("cost_status") in ("not_rated", "not_provided"):
             money.append("成本评级 " + _cost_rating(trial.get("cost_rating"), trial.get("cost_total"), trial.get("cost_status") or "ok"))
-        if trial.get("grant"):
+        if trial.get("grant") and not r.get("grant_in_notes"):
             grant = PENDING if trial['grant'] in ('TBC', 'TBD') else esc(trial['grant'])
             if r.get("grant_note"):
                 grant += "（" + esc(r["grant_note"]) + "）"
@@ -1088,9 +1088,11 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
     notes = [esc(n) for n in p.get("review_notes", [])] + notes
     notes += [esc(e.get("note", "")) for e in errata if e.get("programme") == slug]
     notes += programme_checks(p)
-    if notes:
+    if notes and discrepancies:
+        lines += [">", "> > [!eef-errata]- 资料缺漏与差异"] + [f"> > - {pend(n)}" for n in notes + discrepancies]
+    elif notes:
         lines += [">", f"> > [!eef-errata]- {len(notes)} 项待核实"] + [f"> > - {n}" for n in notes]
-    if discrepancies:
+    elif discrepancies:
         lines += [">", f"> > [!eef-errata]- {len(discrepancies)} 项报告记载差异"] + [f"> > - {n}" for n in discrepancies]
     return "\n".join(lines)
 
