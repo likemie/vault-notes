@@ -1,0 +1,237 @@
+{
+  "version": 1,
+  "root": "/Users/shaoyangwu/Documents/MyNotes",
+  "created": "2026-10-28T19:32:45.014563+00:00",
+  "argument": "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md",
+  "argument_hash": "5d4e003ae0855d44bb112fa4118cc6368272fcc107638b613ce2e41c2c305e23",
+  "batches": [
+    {
+      "number": 1,
+      "status": "pending",
+      "type": "concept",
+      "template": "wiki/templates/template-concept.md",
+      "entries": [
+        {
+          "title": "Institutional Mimesis",
+          "type": "concept",
+          "path": "wiki/concepts/political-economy-geopolitics/Institutional Mimesis.md",
+          "aliases": [
+            "制度拟态",
+            "制度模仿",
+            "制度性拟态"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Champ",
+          "type": "concept",
+          "path": "wiki/concepts/sociology-of-education/Champ.md",
+          "aliases": [
+            "场域",
+            "field"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Paradigm Wars",
+          "type": "concept",
+          "path": "wiki/concepts/educational-philosophy/Paradigm Wars.md",
+          "aliases": [
+            "范式战争",
+            "paradigm war",
+            "范式之争",
+            "quantitative-qualitative debate"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Paradigm",
+          "type": "concept",
+          "path": "wiki/concepts/educational-philosophy/Paradigm.md",
+          "aliases": [
+            "范式",
+            "paradigms",
+            "Kuhn's paradigm",
+            "研究范式"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "status": "pending",
+      "type": "theory",
+      "template": "wiki/templates/template-theory.md",
+      "entries": [
+        {
+          "title": "Institutional Isomorphism",
+          "type": "theory",
+          "path": "wiki/theories/comparative-education/Institutional Isomorphism.md",
+          "aliases": [
+            "制度同构",
+            "制度同形",
+            "制度性同构",
+            "institutional isomorphism theory",
+            "DiMaggio and Powell isomorphism"
+          ],
+          "discovered_by": [
+            "related_theories",
+            "body"
+          ]
+        },
+        {
+          "title": "Historical Institutionalism",
+          "type": "theory",
+          "path": "wiki/theories/political-economy-geopolitics/Historical Institutionalism.md",
+          "aliases": [
+            "历史制度主义",
+            "历史制度主义理论",
+            "历史制度学派"
+          ],
+          "discovered_by": [
+            "related_theories",
+            "body"
+          ]
+        },
+        {
+          "title": "Path Dependence",
+          "type": "theory",
+          "path": "wiki/theories/political-economy-geopolitics/Path Dependence.md",
+          "aliases": [
+            "路径依赖",
+            "路径依赖理论",
+            "path dependence theory",
+            "技术锁定",
+            "锁定效应"
+          ],
+          "discovered_by": [
+            "related_theories",
+            "body"
+          ]
+        },
+        {
+          "title": "Organizational Culture",
+          "type": "theory",
+          "path": "wiki/theories/sociology-of-education/Organizational Culture.md",
+          "aliases": [
+            "组织文化",
+            "organisational culture",
+            "Schein's model of organizational culture",
+            "组织文化三层次模型",
+            "组织文化理论"
+          ],
+          "discovered_by": [
+            "related_theories",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "pending",
+      "type": "method",
+      "template": "wiki/templates/template-method.md",
+      "entries": [
+        {
+          "title": "Comparative Policy Analysis",
+          "type": "method",
+          "path": "wiki/methods/qualitative/Comparative Policy Analysis.md",
+          "aliases": [
+            "比较政策分析",
+            "比较产业政策分析",
+            "Comparative Policy Design"
+          ],
+          "discovered_by": [
+            "related_methods",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "pending",
+      "type": "fact",
+      "template": "wiki/templates/template-fact-organization.md",
+      "entries": [
+        {
+          "title": "EU",
+          "type": "fact",
+          "path": "wiki/facts/eu/EU.md",
+          "aliases": [
+            "European Union",
+            "欧洲联盟",
+            "欧盟",
+            "European Community",
+            "欧洲共同体"
+          ],
+          "subtype": "organization",
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        },
+        {
+          "title": "Coreper",
+          "type": "fact",
+          "path": "wiki/facts/eu/Coreper.md",
+          "aliases": [
+            "常驻代表委员会",
+            "欧洲联盟常驻代表委员会",
+            "Comité des Représentants Permanents",
+            "Committee of Permanent Representatives"
+          ],
+          "subtype": "organization",
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        },
+        {
+          "title": "ASEAN",
+          "type": "fact",
+          "path": "wiki/facts/global/ASEAN.md",
+          "aliases": [
+            "东南亚国家联盟",
+            "东盟",
+            "Association of Southeast Asian Nations"
+          ],
+          "subtype": "organization",
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        },
+        {
+          "title": "Achieve",
+          "type": "fact",
+          "path": "wiki/facts/us/Achieve.md",
+          "aliases": [
+            "阿奇夫",
+            "阿奇夫组织",
+            "Achieve, Inc."
+          ],
+          "subtype": "organization",
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        }
+      ]
+    }
+  ]
+}
