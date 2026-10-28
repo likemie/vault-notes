@@ -33401,6 +33401,18 @@
     "subtype": "organization"
   },
   {
+    "title": "E4 Group",
+    "type": "fact",
+    "path": "wiki/facts/eu/E4 Group.md",
+    "aliases": [
+      "E4 集团",
+      "E4 组织",
+      "E4",
+      "The E4 Group"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "EU",
     "type": "fact",
     "path": "wiki/facts/eu/EU.md",
@@ -33540,6 +33552,18 @@
       "欧洲2020战略",
       "EU 2020 Strategy",
       "Europe 2020"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "European Approach for Quality Assurance of Joint Programmes",
+    "type": "fact",
+    "path": "wiki/facts/eu/European Approach for Quality Assurance of Joint Programmes.md",
+    "aliases": [
+      "联合学位项目质量保障欧洲路径",
+      "联合项目质保欧洲路径",
+      "European Approach for QA of Joint Programmes",
+      "European Approach"
     ],
     "subtype": "policy"
   },
@@ -33796,6 +33820,18 @@
     "subtype": "program"
   },
   {
+    "title": "European Universities Initiative",
+    "type": "fact",
+    "path": "wiki/facts/eu/European Universities Initiative.md",
+    "aliases": [
+      "欧洲大学倡议",
+      "欧洲大学联盟",
+      "European Universities alliances",
+      "European Universities"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "Fabricating Quality in European Education",
     "type": "fact",
     "path": "wiki/facts/eu/Fabricating Quality in European Education.md",
@@ -33917,6 +33953,17 @@
       "部门创新数据库"
     ],
     "subtype": "event"
+  },
+  {
+    "title": "Bologna Follow-Up Group",
+    "type": "fact",
+    "path": "wiki/facts/europe/Bologna Follow-Up Group.md",
+    "aliases": [
+      "博洛尼亚后续行动组",
+      "博洛尼亚后续工作组",
+      "BFUG"
+    ],
+    "subtype": "organization"
   },
   {
     "title": "CERN",

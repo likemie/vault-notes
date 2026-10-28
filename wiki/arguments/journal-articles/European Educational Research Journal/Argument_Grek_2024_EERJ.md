@@ -49,8 +49,7 @@ related_methods:
   - "[[Snowball Sampling]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Ethnography]]"
-related_instruments:
-  - "[[Epistemological Understanding Assessment]]"
+related_instruments: []
 related_persons:
   - "[[Sotiria Grek]]"
 related_facts:
@@ -64,6 +63,8 @@ related_facts:
   - "[[European Tertiary Education Register]]"
   - "[[Database of External Quality Assurance Results]]"
   - "[[EU]]"
+  - "[[European Universities Initiative]]"
+  - "[[European Approach for Quality Assurance of Joint Programmes]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
 sources:
@@ -78,9 +79,9 @@ title: "Argument_Grek_2024_EERJ"
 argument_key: "Argument_Grek_2024_EERJ"
 argument_display_title: "Beyond Bologna? Infrastructuring quality in European higher education"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "European Educational Research Journal"
 book_title: ""
@@ -120,7 +121,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **文献话语分析**<br>[[Discourse Analysis]] | 收集过去 20 年间欧洲高等教育质量保障领域的公开战略[[Document\|文献]]，重点涵盖 ENQA、EQAR、博洛尼亚后续行动工作组（Bologna Follow-Up Group, BFUG）、欧盟委员会及 OECD 发布的标准报告、评估准则与政策简报；运用主题编码梳理制度演变脉络。 |
+> | **文献话语分析**<br>[[Discourse Analysis]] | 收集过去 20 年间欧洲高等教育质量保障领域的公开战略[[Document\|文献]]，重点涵盖 ENQA、EQAR、[[Bologna Follow-Up Group|博洛尼亚后续行动组]]（Bologna Follow-Up Group, BFUG）、欧盟委员会及 OECD 发布的标准报告、评估准则与政策简报；运用主题编码梳理制度演变脉络。 |
 > | **精英半结构化访谈**<br>[[Elite Interview]] | 运用[[Snowball Sampling\|滚雪球抽样]]法，深度访谈欧洲高等教育质量保障关键机构（ENQA、EQAR）、国际组织（OECD）及欧盟委员会的现任与前任高级官员，涵盖资深掌舵人与新入行专业人员，揭示幕后组织互动与网络演变。 |
 > | **网络与制度互依分析**<br>Network Analysis | 剖析多元组织在章程设定、资金来源、理事会席位与数据流转中的结构性位置，解构技术分工背后的权力平衡与制度共生机制。 |
 
@@ -151,7 +152,7 @@ issuing_organization: ""
 #### 1. ESG 采用弹性表述凝聚共识，成为驱动成员国制度变革的源头动力
 
 > [!policy-context] ESG 制度缘起与三部规范
-> - **制度渊源与研制授权** 2003 年博洛尼亚进程柏林公报明确提出质量保障是欧洲高等教育区的核心命脉，授权由 ENQA 联合欧洲学生联盟（European Students' Union, ESU）、欧洲大学协会（European University Association, [[Epistemological Understanding Assessment|EUA]]）与欧洲高等教育机构协会（European Association of Institutions in Higher Education, EURASHE）构成的四方协商网络（E4 Group，简称 E4 集团）研制全欧标准，于 2005 年卑尔根部长级会议正式通过。
+> - **制度渊源与研制授权** 2003 年博洛尼亚进程柏林公报明确提出质量保障是欧洲高等教育区的核心命脉，授权由 ENQA 联合欧洲学生联盟（European Students' Union, ESU）、欧洲大学协会（European University Association, EUA）与欧洲高等教育机构协会（European Association of Institutions in Higher Education, EURASHE）构成的四方协商网络（[[E4 Group|E4 集团]]）研制全欧标准，于 2005 年卑尔根部长级会议正式通过。
 > - **高校内部质保（第一部分）** 规范课程审批、定期评估与以学生为中心的教学考核机制，要求高校公开明确的学习成果与支持资源。
 > - **中介外部质保（第二部分）** 规定质保机构执行外部评估时，必须依据公开透明且前后一致的标准作出结论，保障被评高校的正当权益。
 > - **机构自身资质（第三部分）** 明确质保机构必须具备明确公开的使命目标、充足的财力人力保障以及独立不受干预的[[Professional Judgment|专业判断]]能力。
@@ -166,7 +167,7 @@ issuing_organization: ""
 #### 2. EQAR 严把准入关口，赋予地方质保机构全欧执业公信力
 
 > [!feature] EQAR 的法定地位与准入职责
-> - **法定实体创设** 依据 2005 年卑尔根公报建议，E4 伙伴于 2008 年共同设立欧洲高等教育质量保障注册局（[[European Quality Assurance Register for Higher Education|EQAR]]），成为博洛尼亚进程框架下首个具有独立法人地位的实体。
+> - **法定实体创设** 依据 2005 年卑尔根公报建议，[[E4 Group|E4]] 伙伴于 2008 年共同设立欧洲高等教育质量保障注册局（[[European Quality Assurance Register for Higher Education|EQAR]]），成为博洛尼亚进程框架下首个具有独立法人地位的实体。
 > - **官方守门裁决** 设立独立的注册委员会，依据第三方专家组对申请机构的合规审查结论，行使全欧准入裁决权，严格核验其是否具备录入官方名录的资质。
 
 > [!proc] 跨国质保合法性转化机制
@@ -189,8 +190,8 @@ issuing_organization: ""
 >
 > | 度量物质载体 | 确立年份与发起主体 | 法定属性与依托机制 | 核心管理数据对象 | 系统互操作功能与治理角色 |
 > |---|---|---|---|---|
-> | **欧洲质保标准（ESG）** | 2005 年（2015 年修订）<br>E4 集团起草 / 部长级会议通过 | 泛欧质量保障元标准（Meta-Standard）；软法共识 | 院校内部质保程序、外部审查规程与质保机构资质要求 | 确立全欧互信的统一规范门槛，充当整个质保认识论基础设施的基石文本 |
-> | **欧洲质保注册局（EQAR）** | 2008 年<br>E4 集团创设 | 博洛尼亚进程首个独立法定实体；准入注册机构 | 经审查符合 ESG 准则的法定外部质量保障机构名录 | 行使官方[[Gatekeepers\|守门人]]职责，将地方质保机构转化为具备全欧执业资质的合法载体 |
+> | **欧洲质保标准（ESG）** | 2005 年（2015 年修订）<br>[[E4 Group|E4 集团]]起草 / 部长级会议通过 | 泛欧质量保障元标准（Meta-Standard）；软法共识 | 院校内部质保程序、外部审查规程与质保机构资质要求 | 确立全欧互信的统一规范门槛，充当整个质保认识论基础设施的基石文本 |
+> | **欧洲质保注册局（EQAR）** | 2008 年<br>[[E4 Group|E4 集团]]创设 | 博洛尼亚进程首个独立法定实体；准入注册机构 | 经审查符合 ESG 准则的法定外部质量保障机构名录 | 行使官方[[Gatekeepers\|守门人]]职责，将地方质保机构转化为具备全欧执业资质的合法载体 |
 > | **欧洲高等教育机构注册库（ETER）** | 2013 年<br>欧盟委员会资助设立 | 欧盟委员会高教统计微观数据库项目 | 全欧数千所高等教育机构的人口统计、师生规模、财务科研数据 | 提供欧洲高校标准化微观档案底账，为各跨系统数据库互联提供唯一机构识别编码 |
 > | **外部质保结果数据库（DEQAR）** | 2018 年<br>EQAR 开发运营（欧委会资助） | 开放式集中化评估结果互联平台 | EQAR 注册机构出具的高校及专业外部评估报告与认证决议 | 直接嵌合 ETER 编码并连通各国文凭互认中心，实现跨国资质与学分的自动核验 |
 
@@ -207,16 +208,16 @@ issuing_organization: ""
 #### 1. ENQA 负责咨询辅导而 EQAR 严管准入，双轨配合共同确立质保权威
 
 > [!tension] ENQA 与 EQAR 的组织身份定位博弈
-> - **ENQA：政策母体与行业代言人** 拥有遍及 40 个国家的 55 家正式会员机构，常设布鲁塞尔展开游说（CG int.）；倾向于将自身定位为政策研制母体，将 EQAR 视作 E4 派生出的登记工具，形象表述为“他们是我们的孩子，只是一本登记簿”（CG int.）。
-> - **EQAR：独立知识中心与法定把关人** 拒绝接受被动注册器的狭隘定位；伴随 DEQAR 的建成，EQAR 汇聚了全欧大学与专业的庞大档案，以独立专家身份向博洛尼亚决策提供经验支撑（CT int.）。
+> - **ENQA：政策母体与行业代言人** 拥有遍及 40 个国家的 55 家正式会员机构，常设布鲁塞尔展开游说（CG int.）；倾向于将自身定位为政策研制母体，将 EQAR 视作 [[E4 Group|E4]] 派生出的登记工具，形象表述为“他们是我们的孩子，只是一本登记簿”（CG int.）。
+> - **EQAR：独立知识中心与法定把关人** 拒绝接受被动注册器的狭隘定位；伴随 DEQAR 的建成，EQAR 汇聚了全欧大学与专业的庞大档案，以独立专家身份向[[Bologna Follow-Up Group|博洛尼亚后续行动组]]（BFUG）等决策平台提供经验支撑（CT int.）。
 
 > [!feature] 好警察与坏警察的双轨分工共生机制
-> - **好警察：ENQA 会员支持与行业辅导** 聚焦行业自治与能力建设，为各成员机构提供良好实践共享与咨询指导，代表院校诉求参与高层政策博弈。
+> - **好警察：ENQA 会员支持与行业辅导** 聚焦行业自治与能力建设，为各成员机构提供良好实践共享与咨询指导，坐在[[Bologna Follow-Up Group|博洛尼亚后续行动组]]（BFUG）谈判桌旁代表院校诉求参与高层政策博弈。
 > - **坏警察：EQAR 准入审查与公信把关** 严格对照 ESG 条款行使准入裁决，对不达标机构坚决予以驳回或除名，捍卫全欧注册名录的公信力防线。
 > - **自组织演化与体系互补** 跨国专业机构在微观博弈与边界调试中形成弹性自组织演化，通过支持与审计的双轨协同，共同确立了质保体系的治理权威。
 
 > [!case] 案例：母子同构[[Discourse|话语]]与双轨职能分工
-> 面对学界与政界对质保官僚体系重叠冗余的批评，ENQA 领导层曾公开将 EQAR 形容为“由 E4 孕育的孩子”（CG int.），试图通过界定母体与派生实体的等级序位来维护自身的战略引领角色。EQAR 执行团队则以 DEQAR 数据库的知识产出反击，证明自身已从单纯审查中介资质延伸至直面高等教育院校微观实践的知识中心（CT int.）。最终，双方在治理网络中分化为以发展支持为主的好警察角色（ENQA）与以严格审计为主的坏警察角色（EQAR），通过功能互补共同稳固了质量保障体系的威慑力与接受度。
+> 面对学界与政界对质保官僚体系重叠冗余的批评，ENQA 领导层曾公开将 EQAR 形容为“由 [[E4 Group|E4]] 孕育的孩子”（CG int.），试图通过界定母体与派生实体的等级序位来维护自身的战略引领角色。EQAR 执行团队则以 DEQAR 数据库的知识产出反击，证明自身已从单纯审查中介资质延伸至直面高等教育院校微观实践的知识中心（CT int.）。最终，双方在治理网络中分化为以发展支持为主的好警察角色（ENQA）与以严格审计为主的坏警察角色（EQAR），通过功能互补共同稳固了质量保障体系的威慑力与接受度。
 
 #### 2. 欧盟委员会依托专项资助引导 OECD 测评，柔性牵引各国政策走向
 
@@ -257,7 +258,7 @@ issuing_organization: ""
 #### 1. 质保数据库直通各国文凭核验流程，实质落实全欧学历免检互认
 
 > [!policy-context] 欧洲教育区战略定位与制度约束
-> - **战略愿景与旗舰布局** 欧盟委员会推进[[European Education Area|欧洲教育区]]战略以消除跨境流动障碍，于 2018 年 5 月公布四大旗舰倡议：学历成果自动互认、提升语言成效、欧洲学生卡倡议与欧洲大学联盟倡议，其中三项直接植根于高等教育领域。
+> - **战略愿景与旗舰布局** 欧盟委员会推进[[European Education Area|欧洲教育区]]战略以消除跨境流动障碍，于 2018 年 5 月公布四大旗舰倡议：学历成果自动互认、提升语言成效、欧洲学生卡倡议与[[European Universities Initiative|欧洲大学倡议]]，其中三项直接植根于高等教育领域。
 > - **条约约束与技术替代** 在《欧洲联盟运作条约》第 165 条严格限制欧盟行使超国家教育立法权的背景下，学历与学分自动互认无法依赖强制指令，转而依托以 DEQAR 与 ETER 为核心的质保基础设施提供实操技术支撑。
 
 > [!row-contrast] 欧洲教育区四大旗舰倡议与质保认识论基础设施支撑关系
@@ -265,7 +266,7 @@ issuing_organization: ""
 > | 旗舰倡议名称 | 核心政策目标 | 对应执行周期与指标 | 质保认识论基础设施支撑功能 |
 > |---|---|---|---|
 > | **学历与研修成果自动互认** | 消除跨境求学与学分转换的行政壁垒，实现全欧资格互认免检流转 | 2025 年建成欧洲教育区基础框架 | 依托 DEQAR 直连各国学术认可中心（ENIC-NARIC），提供经 ESG 审计的权威资质证明 |
-> | **欧洲大学联盟倡议** | 组建深度融合的跨国高校联盟，推行跨国联合课程体系与共同学位 | 至 2024 年建成至少 20 所联盟（每所由至少 3 所跨国高校组成） | 依托统一质保标准为跨国联合学位设置联合评估认证规程，化解各国审批标准抵触 |
+> | **[[European Universities Initiative\|欧洲大学倡议]]** | 组建深度融合的跨国高校联盟，推行跨国联合课程体系与共同学位 | 至 2024 年建成至少 20 所联盟（每所由至少 3 所跨国高校组成） | 依托《[[European Approach for Quality Assurance of Joint Programmes\|联合学位项目质量保障欧洲路径]]》（European Approach for Quality Assurance of Joint Programmes），由单一注册质保机构进行跨国整体评估，化解多国重复认证冲突 |
 > | **欧洲学生卡倡议** | 建立全欧通用的数字学生身份认证，简化跨境学生管理与公共服务兑现 | 全面覆盖全欧流动学子并对接伊拉斯谟+移动端 | 依托 ETER 提供的统一高校识别编码，实现跨国院校学籍与学分信息的底层可互操作性 |
 > | **语言学习质量提升** | 增强多语种教学能力，推动双语及多语跨文化学习素养达标 | 贯穿全学段教育体系 | 纳入高校内部质保规范评估体系，促进外语教学考核标准向欧洲语言共同参考框架对齐 |
 
@@ -279,7 +280,8 @@ issuing_organization: ""
 #### 2. 欧洲大学被赋予地缘政治使命，成为展现欧洲软实力的战略灯塔
 
 > [!feature] 欧洲大学地缘战略角色的制度升华
-> - **欧洲生活方式的灯塔** 欧盟委员会在 2022 年《欧洲大学战略》公报中明确将大学界定为展现欧洲生活方式的鲜明特征与战略灯塔（Lighthouses of our European way of life），承载全球欧洲地缘竞争雄心。
+> - **欧洲生活方式的灯塔** 欧盟委员会在 2022 年《欧洲大学战略》公报中明确将大学界定为展现欧洲生活方式的鲜明特征与战略灯塔（Lighthouses of our European way of life），依托[[European Universities Initiative|欧洲大学倡议]]承载全球欧洲地缘竞争雄心。
+> - **跨国联合学位的质保底盘** 跨国大学联盟开展跨国联合办学，深度依托《[[European Approach for Quality Assurance of Joint Programmes|联合学位项目质量保障欧洲路径]]》与 EQAR 注册机构的集中评审，使跨国学分与联合学位免于陷入各国主权审批泥淖。
 > - **自持型网络的欧洲化动力** 质量保障构建的监控网络与认证名录将全欧高校深度连结；在多极主体有机互动下，该网络演进为具有自持繁殖能力的认识论基础设施，赋予博洛尼亚进程深层制度活力。
 
 ---

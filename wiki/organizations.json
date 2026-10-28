@@ -307,6 +307,15 @@
         "Gates Foundation"
       ]
     },
+    "Bologna Follow-Up Group": {
+      "path": "wiki/facts/europe/Bologna Follow-Up Group.md",
+      "names": [
+        "Bologna Follow-Up Group",
+        "博洛尼亚后续行动组",
+        "博洛尼亚后续工作组",
+        "BFUG"
+      ]
+    },
     "British Association for International and Comparative Education": {
       "path": "wiki/facts/uk/British Association for International and Comparative Education.md",
       "names": [
@@ -773,6 +782,16 @@
         "TIP",
         "Directorate for TIP",
         "Technology, Innovation and Partnerships Directorate"
+      ]
+    },
+    "E4 Group": {
+      "path": "wiki/facts/eu/E4 Group.md",
+      "names": [
+        "E4 Group",
+        "E4 集团",
+        "E4 组织",
+        "E4",
+        "The E4 Group"
       ]
     },
     "Early Childhood Development Action Network": {
@@ -3001,6 +3020,11 @@
     "Education Scotland and The Wood Foundation": {
       "seen_in": [
         "wiki/facts/uk/RAiSE Programme.md"
+      ]
+    },
+    "EHEA Ministerial Conference": {
+      "seen_in": [
+        "wiki/facts/eu/European Approach for Quality Assurance of Joint Programmes.md"
       ]
     },
     "French Chamber of Deputies": {

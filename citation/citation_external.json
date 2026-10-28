@@ -389,6 +389,8 @@
     "Al-Wasy, 2020": "Al-Wasy, 2020",
     "AlMahdawi et al. (2021)": "AlMahdawi et al., 2021",
     "AlMahdawi et al., 2021": "AlMahdawi et al., 2021",
+    "Ala-Vähälä & Saarinen (2009)": "Ala-Vähälä & Saarinen, 2009",
+    "Ala-Vähälä & Saarinen, 2009": "Ala-Vähälä & Saarinen, 2009",
     "Alacapinar & Mustafa (2020)": "Alacapinar & Mustafa, 2020",
     "Alacapinar & Mustafa, 2020": "Alacapinar & Mustafa, 2020",
     "Alain Desrosières (1998)": "Alain Desrosières, 1998",
@@ -4872,6 +4874,8 @@
     "Conduct (2002)": "Conduct, 2002",
     "Conduct, 1999": "Conduct, 1999",
     "Conduct, 2002": "Conduct, 2002",
+    "Cone & Brøgger (2020)": "Cone & Brøgger, 2020",
+    "Cone & Brøgger, 2020": "Cone & Brøgger, 2020",
     "Conley et al. (2004)": "Conley et al., 2004",
     "Conley et al., 2004": "Conley et al., 2004",
     "Conlin (2006)": "Conlin, 2006",
@@ -6459,6 +6463,8 @@
     "E. G., 2000": "E. G., 2000",
     "EAG (1992)": "EAG, 1992",
     "EAG, 1992": "EAG, 1992",
+    "EC (2022)": "EC, 2022",
+    "EC, 2022": "EC, 2022",
     "ECI (1999)": "ECI, 1999",
     "ECI, 1999": "ECI, 1999",
     "ED (2002)": "ED, 2002",
@@ -29500,6 +29506,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Park_2026_TSC.md"
+      ],
+      "title": ""
+    },
+    "Ala-Vähälä & Saarinen, 2009": {
+      "aliases": [
+        "Ala-Vähälä & Saarinen, 2009",
+        "Ala-Vähälä & Saarinen (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ala-Vähälä & Saarinen, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/E4 Group.md"
       ],
       "title": ""
     },
@@ -62235,6 +62256,21 @@
       "seen_in": [],
       "title": "Evaluation of the first 3 years of the fast track prevention trial with children at high risk for adolescent conduct problems"
     },
+    "Cone & Brøgger, 2020": {
+      "aliases": [
+        "Cone & Brøgger, 2020",
+        "Cone & Brøgger (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cone & Brøgger, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/European Approach for Quality Assurance of Joint Programmes.md"
+      ],
+      "title": ""
+    },
     "Conley et al., 2004": {
       "aliases": [
         "Conley et al., 2004",
@@ -73782,6 +73818,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/global/INES Lugano General Assembly 1991.md"
+      ],
+      "title": ""
+    },
+    "EC, 2022": {
+      "aliases": [
+        "EC, 2022",
+        "EC (2022)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "EC, 2022"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/European Universities Initiative.md"
       ],
       "title": ""
     },
