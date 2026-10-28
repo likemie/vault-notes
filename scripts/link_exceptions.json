@@ -292,5 +292,15 @@
       "sentence": "Neither is it to be assumed that this is what the CPR wishes to achieve.*",
       "target": "wiki/facts/us/Achieve.md"
     }
+  ],
+  "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md": [
+    {
+      "sentence": "**新欧洲治理的软法机制** 1990 年代传统指令性集中立法模式面临阻力，以自愿协商、最佳实践分享和同行审议压力为特征的软法治理，成为突破主权阻力、推动政策协调的关键方式 (Ravinet, 2011)。",
+      "target": "wiki/methods/qualitative/Peer Debriefing.md"
+    },
+    {
+      "sentence": "东南亚区域高教治理相关的学术文献与官方档案在可获取性上显著少于欧洲，客观上存在材料非对称性；SHARE 项目等当代区域间合作倡议在调研期间仍处于推进阶段，其对两地权力关系的长期重塑效应尚待后续追踪研究检验。",
+      "target": "wiki/methods/quantitative/Cohort Study.md"
+    }
   ]
 }
