@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Alumnus Effect",
+      "path": "wiki/concepts/comparative-education/Alumnus Effect.md"
+    },
+    {
+      "basename": "European Commission",
+      "path": "wiki/facts/eu/European Commission.md"
+    },
+    {
+      "basename": "Argument_Pasias_Roussakis_2009_EuropeanPanopticon",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
+    },
+    {
+      "basename": "EU",
+      "path": "wiki/facts/eu/EU.md"
+    },
+    {
+      "basename": "Europe of Knowledge",
+      "path": "wiki/concepts/comparative-education/Europe of Knowledge.md"
+    },
+    {
       "basename": "Visible Classroom Programme",
       "path": "wiki/facts/uk/Visible Classroom Programme.md"
     },
@@ -9,20 +29,12 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md"
     },
     {
-      "basename": "EU",
-      "path": "wiki/facts/eu/EU.md"
-    },
-    {
       "basename": "Visible",
       "path": "Users/shaoyangwu/Documents/MyNotes/wiki/facts/uk/Visible.md"
     },
     {
       "basename": "整理结果",
       "path": "output/eef-programme-design/整理结果.md"
-    },
-    {
-      "basename": "Argument_Pasias_Roussakis_2009_EuropeanPanopticon",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
     },
     {
       "basename": "Subsidiarity Principle",
@@ -187,14 +199,6 @@
     {
       "basename": "Argument_Block_2008_PS",
       "path": "wiki/arguments/journal-articles/Politics & Society/Argument_Block_2008_PS.md"
-    },
-    {
-      "basename": "Argument_Zhu_Yang_2023_HEP",
-      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_Zhu_Yang_2023_HEP.md"
-    },
-    {
-      "basename": "Zhu_Yang_2023_HEP",
-      "path": "sources/Zhu_Yang_2023_HEP/Zhu_Yang_2023_HEP.md"
     }
   ],
   "omittedPaths": [],

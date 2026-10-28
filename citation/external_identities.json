@@ -8661,14 +8661,6 @@
       ],
       "title": ""
     },
-    "Behavioural Insights Team, 2016": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/facts/uk/Visible Classroom Programme.md"
-      ],
-      "title": "Visible Classroom [Evaluation protocol]"
-    },
     "Behrman, 2015": {
       "datasets": [
         "eef:performance-pay"
@@ -23690,6 +23682,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of artificial intelligence-powered virtual agents on learning outcomes in computer-based simulations: A meta-analysis."
+    },
+    "Dakowska, 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md"
+      ],
+      "title": ""
     },
     "Dalby, 2013": {
       "doi": "",
@@ -40346,6 +40346,14 @@
       ],
       "title": ""
     },
+    "Grek, 2013": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md"
+      ],
+      "title": ""
+    },
     "Grek, 2022": {
       "doi": "",
       "isbn": "",
@@ -44387,14 +44395,6 @@
         "wiki/concepts/science-policy/Problem of Many Hands.md"
       ],
       "title": ""
-    },
-    "Heal, 2017": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/facts/uk/Visible Classroom Programme.md"
-      ],
-      "title": "Visible Classroom: Amendments February 2017 [Amended evaluation protocol]"
     },
     "Healy, 2001": {
       "doi": "",
@@ -89452,14 +89452,6 @@
       ],
       "title": ""
     },
-    "Sanders et al., 2018": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/facts/uk/Visible Classroom Programme.md"
-      ],
-      "title": "Statistical analysis plan: Visible Classroom"
-    },
     "Sanders, 1979": {
       "datasets": [
         "metax:S1283"
@@ -97225,6 +97217,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/sociology-of-education/Boundary Object.md"
+      ],
+      "title": ""
+    },
+    "Star, 1999": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md"
       ],
       "title": ""
     },

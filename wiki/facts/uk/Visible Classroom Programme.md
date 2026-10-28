@@ -56,7 +56,7 @@ updated: 2026-10-28
 > - **编码与反馈** 编码员依据教学行为准则进行人工频次编码；教师获得课堂统计摘要和详细反馈，了解指标含义、同伴参照及改进建议。
 > - **后续调整** 第二期改为手机或平板录制上传，强调教师反馈与指定导师的专业对话，移除了面向学生的实时字幕路径。2017 年修订把一个学年延长至两个学年，第二年减少录课轮次和提交要求。
 
-[[Argument_Skipp_Tanner_2015_EEF|(Skipp & Tanner, 2015, pp. 6–10, 20, 29–30)]]；[(Behavioural Insights Team, 2016, pp. 1, 5–7, 14)](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Protocol_Regrant_Visible_Classroom.pdf)；[(Heal, 2017, 修订说明页)](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Regrant_-_Visible_Classroom_AMENDED_1.pdf)；[[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 13, 18, 20)]]
+[[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 13, 18, 20)]]
 
 > [!actor-grid] 第一期实施分工
 > - **开发与分析** 墨尔本大学与 Ai-Media UK 开发方案，干预团队编码转写并生成反馈。
@@ -123,7 +123,7 @@ updated: 2026-10-28
 > > | 分析变更 | 教师评分最低三分之一亚组因对照组无评分而未作因果比较；描述性剂量指标由准则评分改为上传录课次数。 |
 > > | 培训 | 2016 年干预前，教师一天面授；导师一小时网络研修。 |
 > > | 经费 | 成本评级 <span class="eef-cost">●○○○○ 极低</span>；研究拨款 <span class="eef-pending">待核实</span>；首年学校成本 £2,604（£32/生），三年累计 £5,544、243 名学生，约 £23/生；假设三位教师、每班 27 人、持续参与且无需重训。 |
-> > | 资料 | [研究方案](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Protocol_Regrant_Visible_Classroom.pdf?v=1793040173) · [研究方案（修订版）](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Regrant_-_Visible_Classroom_AMENDED_1.pdf?v=1793040173) · [统计分析计划](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Visible_Classroom_SAP.pdf?v=1793040173) · [评估报告](https://d2tic4wvo1iusb.cloudfront.net/production/documents/pages/projects/Visible_Classroom.pdf?v=1793040173) · [[Argument_Sanders_2021_EEF\|(Sanders et al., 2021, pp. 13–23, 32–40)]] |
+> > | 资料 | [评估报告](https://d2tic4wvo1iusb.cloudfront.net/production/documents/pages/projects/Visible_Classroom.pdf?v=1793040173) · [[Argument_Sanders_2021_EEF\|(Sanders et al., 2021, pp. 13–23, 32–40)]] |
 > >
 > > | out | grp | imp | es | sec | sig |
 > > | --- | --- | --- | --- | --- | --- |
@@ -168,7 +168,7 @@ updated: 2026-10-28
 > | 参与支持 | 通过平台记录录课、阅读、摘要访问与导师会面，为低参与教师提供额外支持。 |
 > | 交付场所 | 校内录课及导师对话，集中面授在校外社区场所。 |
 >
-> [（Behavioural Insights Team, 2016, pp. 3–7）](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Protocol_Regrant_Visible_Classroom.pdf)
+>
 
 > [!ref-table]- 第二期的方案修订与分析预设
 >
@@ -184,7 +184,7 @@ updated: 2026-10-28
 > | 教师评分亚组 | 原拟比较评分最低三分之一教师所教学生，统计分析计划因对照组无对应评分而放弃因果比较；评分可能同时反映能力、动机与参与程度。 |
 > | 探索分析指标 | 统计分析计划拟按教师准则评分进行描述性剂量分析，最终报告使用上传录课次数；教师实践调查用于考察自陈与学业结果的关联。 |
 >
-> [（Heal, 2017, 修订说明页及原印页 15–16、18、21）](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Regrant_-_Visible_Classroom_AMENDED_1.pdf)；[（Sanders et al., 2018, pp. 1–10）](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Visible_Classroom_SAP.pdf)；[[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 18, 36–38)]]
+> [[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 18, 36–38)]]
 
 > [!ref-table]- 第二期原方案的功效假设与时间表
 >
@@ -196,7 +196,7 @@ updated: 2026-10-28
 > | 功效与显著性水平 | 80%，5% | 同左 |
 > | 原方案最小可检测效应 | 0.139 | 0.177 |
 >
-> 原计算假定没有流失，控制第一关键阶段成绩。[（Behavioural Insights Team, 2016, pp. 9–10）](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Protocol_Regrant_Visible_Classroom.pdf)
+> 原计算假定没有流失，控制第一关键阶段成绩。
 >
 > | 日期 | 原计划活动与责任方 |
 > | --- | --- |
@@ -208,7 +208,7 @@ updated: 2026-10-28
 > | 2017 年 5—7 月 | 原定过程评估；修订后另加 2018 年 5—7 月一轮。 |
 > | 2018 年 11 月 | 原定完整报告初稿；实际因学生资料获取延迟，初稿为 2019 年 10 月。 |
 >
-> [（Behavioural Insights Team, 2016, p. 19）](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Protocol_Regrant_Visible_Classroom.pdf)；[（Heal, 2017, 原印页 21）](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Regrant_-_Visible_Classroom_AMENDED_1.pdf)；[[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 21–22)]]
+> [[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 21–22)]]
 
 > [!ref-table]- 分析计划中的样本记录
 >
@@ -217,7 +217,7 @@ updated: 2026-10-28
 > | 原五年级 | 86 | 3,609 | 0.177 |
 > | 原六年级 | 85 | 3,547 | 0.179 |
 >
-> 该时点合计 7,156 人，最终报告入组为 7,230 人，差额不能直接解释为流失。[（Sanders et al., 2018, p. 6）](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Visible_Classroom_SAP.pdf)；[[Argument_Sanders_2021_EEF|(Sanders et al., 2021, p. 15)]]
+> 该时点合计 7,156 人，最终报告入组为 7,230 人，差额不能直接解释为流失。[[Argument_Sanders_2021_EEF|(Sanders et al., 2021, p. 15)]]
 >
 > | 随机分层变量 | 干预学校 | 对照学校 |
 > | --- | ---: | ---: |
@@ -228,13 +228,13 @@ updated: 2026-10-28
 > | 限额准入 | 5 | 6 |
 > | 不限额准入 | 39 | 36 |
 >
-> 成绩中位数标签在原表存在边界交叠，且部分分层资料缺失，各项合计不全部等于 86 校。[（Sanders et al., 2018, p. 4）](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Visible_Classroom_SAP.pdf)
+> 成绩中位数标签在原表存在边界交叠，且部分分层资料缺失，各项合计不全部等于 86 校。
 
 > [!finding-cards] 结果解释
 > - **第一期证据范围** 独立过程评估没有测量学生学业结果，也未独立测量教师实践的前后变化。教师认可反馈的感受支持可行性判断，学业收益仍待检验。[[Argument_Skipp_Tanner_2015_EEF|(Skipp & Tanner, 2015, pp. 21, 25–27)]]
 > - **干预团队的附录分析** 按每位教师转写材料的前、中、后三段和反馈前后比较行为频次，描述出密集组较能维持部分改进、教师个体差异较大；这些属于无对照的过程分析。[[Argument_Skipp_Tanner_2015_EEF|(Skipp & Tanner, 2015, pp. 34–35)]]
 > - **第二期主要结果** 两个入组队列的数学与阅读综合成绩均未达统计显著；原五年级队列的阅读单项呈负向显著结果。复核缺失基线和依从效应后，综合成绩结论保持一致。[[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 32–37)]]
-> - **第二期亚组** 免费校餐资格学生的综合成绩区间包含正向和负向影响。报告未检验其与非资格学生的效应差异；教师评分最低三分之一亚组因对照组缺少评分，未作因果比较。[[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 34–35)]]；[(Sanders et al., 2018, pp. 9–10)](https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Visible_Classroom_SAP.pdf)
+> - **第二期亚组** 免费校餐资格学生的综合成绩区间包含正向和负向影响。报告未检验其与非资格学生的效应差异；教师评分最低三分之一亚组因对照组缺少评分，未作因果比较。[
 > - **第二期探索分析** 教师重视反馈与原五年级学生成绩的负向关联来自自陈调查回归；录课剂量分析也存在参与选择。两者均不能确认为改变反馈态度或增加录课造成的学业效应。[[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 18, 36–38)]]
 
 ---
