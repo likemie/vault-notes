@@ -10,9 +10,9 @@ subtype: organization
 region: europe
 fact_region: "europe"
 fact_kind: "organization"
-fact_related_count: 0
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "政府间跨国政策协调与执行常设机构"
 headquarters: "由部长级会议主办国轮值秘书处支持（轮值制）"
@@ -23,13 +23,24 @@ tags:
   - theme/bologna-process
   - theme/higher-education
   - theme/educational-governance
-related_concepts: []
+related_concepts:
+  - "[[Epistemic Infrastructure]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Bologna Process]]"
+  - "[[European Commission]]"
+  - "[[European Standards and Guidelines]]"
+  - "[[European Quality Assurance Register for Higher Education]]"
+  - "[[European Approach for Quality Assurance of Joint Programmes]]"
+  - "[[European Education Area]]"
+  - "[[European Universities Initiative]]"
+  - "[[European Association for Quality Assurance in Higher Education]]"
+  - "[[E4 Group]]"
+related_arguments:
+  - "[[Argument_Grek_2024_EERJ]]"
 confidence: high
 status: draft
 created: 2026-10-28
@@ -94,7 +105,7 @@ updated: 2026-10-28
 > - **催生质保认识论基础设施** 审议确立 ESG 规范、通过欧洲路径框架并认可 DEQAR 数据库，构建起全欧高等教育的度量网络。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 221, 224, 229)]]
 
 > [!citation-card] ENQA 与 EQAR 在 BFUG 决策平台中的智识定位
-> Grek 与 Russell 指出，ENQA 与 EQAR 绝非仅仅对照 ESG 标准对高校进行技术性检查的工具机构；坐在 BFUG 的谈判桌前，它们作为质量保障专家与机构代表，持续参与塑造欧洲高等教育区的未来与战略方向。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 226–227)]]
+> Grek 与 Russell 指出，ENQA 与 EQAR 在履行对照 ESG 标准审查高校资质等技术职能的同时，坐在 BFUG 的谈判桌前作为质保专家与机构代表，持续参与塑造欧洲高等教育区的未来与战略方向。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 226–227)]]
 >
 > *ENQA and EQAR perform a lot more than just the technical role of inspecting HE institutions on the basis of the ESGs. Sitting at the BFUG table as experts in QA and representatives of QAAs, they contribute to shaping the future and strategic direction of EHEA.*
 

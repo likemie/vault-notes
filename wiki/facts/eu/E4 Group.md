@@ -11,7 +11,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 0
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -25,13 +25,21 @@ tags:
   - theme/higher-education
   - theme/bologna-process
   - theme/governance
-related_concepts: []
+related_concepts:
+  - "[[Epistemic Infrastructure]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
-related_facts: []
-related_arguments: []
+related_facts:
+  - "[[Bologna Follow-Up Group]]"
+  - "[[European Standards and Guidelines]]"
+  - "[[European Quality Assurance Register for Higher Education]]"
+  - "[[European Association for Quality Assurance in Higher Education]]"
+  - "[[Bologna Process]]"
+  - "[[European Commission]]"
+related_arguments:
+  - "[[Argument_Grek_2024_EERJ]]"
 confidence: high
 status: draft
 created: 2026-10-28
@@ -105,7 +113,7 @@ updated: 2026-10-28
 > [!indicators] 影响力维度与指标
 > - **网络覆盖规模** 涵盖欧洲高等教育区 49 国的公私立大学联合会、45 个国家学生会以及数十家受认可外部质保机构。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 221, 226)]]
 > - **政策合法性赋予** E4 达成的共识草案几乎均被博洛尼亚部长级会议原案审议采纳为官方政策文件。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 221, 229)]]
-> - **制度稳固度** 在欧盟委员会积极扩展教育管辖权的背景下，E4 捍卫了高等教育界通过自我规约主导质量标准的自治传统。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 228, 231)]]
+> - **制度稳固度** 在欧盟委员会积极扩展教育管辖权的背景下，E4 捍卫了高等教育界通过行业自律与自我管理主导质量标准的自治传统。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 228, 231)]]
 
 ---
 
