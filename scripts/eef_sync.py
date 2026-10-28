@@ -1054,12 +1054,16 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
             if r.get("outcome_note"):
                 lines += ["> >", "> > " + esc(r["outcome_note"])]
         if r.get("additional_analyses"):
-            lines += ["> >", "> > | 补充分析 | 原五年级队列 | 原六年级队列 | 解释 |",
-                      "> > | --- | --- | --- | --- |"]
+            # Extra raw-score regressions are not the six-column standardised
+            # outcomes or the four headline metrics. Use the existing key/value
+            # table contract so their labels remain visible in Obsidian.
+            lines += ["> >", "> > > [!ref-table]- 补充分析",
+                      "> > > | k | v |", "> > > | --- | --- |"]
             for analysis in r["additional_analyses"]:
-                lines.append("> > | " + " | ".join(esc(analysis[key]) for key in ("analysis", "year5", "year6", "interpretation")) + " |")
+                value = f"原五年级：{analysis['year5']}<br>原六年级：{analysis['year6']}<br>{analysis['interpretation']}"
+                lines.append(f"> > > | {esc(analysis['analysis'])} | {esc(value)} |")
             if r.get("additional_analysis_note"):
-                lines += ["> >", "> > " + esc(r["additional_analysis_note"])]
+                lines += ["> > >", "> > > " + esc(r["additional_analysis_note"])]
         notes += [f"**{label}** {esc(n)}" for n in r.get("review_notes", [])]
         discrepancies += [f"**{label}** {esc(n)}" for n in r.get("source_discrepancies", [])]
     notes = [esc(n) for n in p.get("review_notes", [])] + notes

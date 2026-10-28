@@ -145,6 +145,22 @@ class ProgrammeTests(unittest.TestCase):
         self.assertIn('3 项报告记载差异', result)
         self.assertNotIn('5 项待核实', result)
         self.assertIn('报告日期 2021-02', trial)
+        self.assertIn('> > > [!ref-table]- 补充分析', trial)
+        self.assertNotIn('| 补充分析 | 原五年级队列 |', trial)
+
+    def test_visible_classroom_follows_programme_template_order(self):
+        note = (ROOT / 'wiki/facts/uk/Visible Classroom Programme.md').read_text()
+        background = note.split('> [!program-context] 项目背景\n', 1)[1].split('\n---\n', 1)[0]
+        self.assertEqual(len([line for line in background.splitlines() if line.startswith('> - **')]), 4)
+        design = note.split('> [!policy-design] 方案设计\n', 1)[1].split('\n---\n', 1)[0]
+        self.assertEqual([line.split('**')[1] for line in design.splitlines() if line.startswith('> - **')],
+                         ['项目目标', '覆盖对象', '干预措施', '实施控制'])
+        self.assertLess(note.index('> [!claim] 核心干预假说'), note.index('> [!policy-design]'))
+        self.assertLess(note.index('> [!pathways]'), note.index('> [!eef-programme'))
+        module = eef.PROGRAMME_BLOCK_RE.search(note)
+        self.assertIsNotNone(module)
+        self.assertTrue(note[module.end():].lstrip().startswith('> [!finding-cards]'))
+        self.assertNotIn('\n## ', note)
 
     def test_report_rows_do_not_overwrite_web_export_or_derive_months(self):
         p = eef.load_json(ROOT / 'datasets/eef/programmes.json')['programmes']['the-visible-classroom-2015']
