@@ -20036,12 +20036,14 @@
     "Russell & Spada, 2006": "Russell & Spada, 2006",
     "Russell (1946)": "Russell, 1946",
     "Russell (1998)": "Russell, 1998",
+    "Russell (2024)": "Russell, 2024",
     "Russell Gersten et al. (2015)": "Russell Gersten et al., 2015",
     "Russell Gersten et al., 2015": "Russell Gersten et al., 2015",
     "Russell Rumberger (2003)": "Russell Rumberger, 2003",
     "Russell Rumberger, 2003": "Russell Rumberger, 2003",
     "Russell, 1946": "Russell, 1946",
     "Russell, 1998": "Russell, 1998",
+    "Russell, 2024": "Russell, 2024",
     "Rust (1987)": "Rust, 1987",
     "Rust (1989)": "Rust, 1989",
     "Rust (1990)": "Rust, 1990",
@@ -151976,7 +151978,6 @@
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md",
         "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Grek_2009_JEdPolicy.md",
-        "wiki/concepts/comparative-education/European Education Space.md",
         "wiki/concepts/comparative-education/Methodological Nationalism.md",
         "wiki/concepts/comparative-education/Open Method of Coordination.md",
         "wiki/concepts/comparative-education/Subsidiarity Principle.md",
@@ -172398,6 +172399,22 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of published research on the effects of non-maternal care on child development."
+    },
+    "Russell, 2024": {
+      "aliases": [
+        "Russell, 2024",
+        "Russell (2024)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Russell, 2024"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/European Education Space.md",
+        "wiki/concepts/comparative-education/Subsidiarity Principle.md"
+      ],
+      "title": ""
     },
     "Rust et al., 1999": {
       "aliases": [

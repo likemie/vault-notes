@@ -145,6 +145,9 @@ updated: 2026-10-28
 > [!claim] Grek, S.
 > **[[OECD|经合组织]]数据基础设施对欧盟辅助性立法短板的实质性补位** 索蒂里亚·格雷克（[[Sotiria Grek]]）剖析了欧盟如何通过跨机构资源互补绕过辅助性原则的硬性限制。《欧洲联盟条约》关于辅助性原则的规定严格维护成员国在教育领域的主权独立，布鲁塞尔机构既无法推行欧洲统一大纲，亦无力独立研发庞大的测评体系。面对这一宪制短板，[[European Commission|欧盟委员会]]通过资助成员国 80% 的 [[PISA]] 调查国家参与成本，并采购经合组织 50%–60% 的基础数据（依托 [[UOE Data Collection|UOE]] 联合数据集）以支持[[Lisbon Strategy|里斯本战略]]指标体系。通过将数据生产外包给具备客观科学声誉的第三方国际组织，欧盟借助跨国排名与同行比较压力，在恪守辅助性原则法律形式的前提下，有效推进了[[European Education Space|欧洲教育空间]]的深度整合。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–25, 32–35)]]
 
+> [!claim] [[Sotiria Grek|Grek, S.]] & Russell, I. (2024)
+> **认识论基础设施与微观自动化核验对辅助性原则的实质架空** [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] 进一步论证指出，在《欧洲联盟运行条约》第 165 条严格坚持辅助性原则并排除任何形式法令协调的宪制约束下，欧盟无法依靠自上而下的硬法指令强制推行跨境文凭与学分互认。然而，超国家治理技术已从单纯采购经合组织宏观数据，演进为由欧洲质保标准（[[European Standards and Guidelines|ESG]]）、注册局（[[European Quality Assurance Register for Higher Education|EQAR]]）以及高校与评估数据库（[[European Tertiary Education Register|ETER]] 与 [[Database of External Quality Assurance Results|DEQAR]]）构成的复合[[Epistemic Infrastructure|认识论基础设施]]。通过将微观高校档案与质保决议编码标准化，并直接嵌合各国文凭互认中心（ENIC-NARIC）的工作流，该基础设施以去政治化的技术可信性替代了逐案行政互审，在形式上完全恪守辅助性原则的前提下，达成了文凭免检流转与欧洲高等教育一体化事实管辖。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024)]]
+
 ---
 
 ### 命题三　辅助性原则与共识决规则赋予成员国对超国家价值倡导的绝对否决权
@@ -164,6 +167,7 @@ updated: 2026-10-28
 > | **多标度网络穿透** | 论证多标度治理网络如何击穿辅助性原则预设的主权容器边界 | 全球教育[[Policy Mobility\|政策流动]]与跨国治理[[Champ\|场域]] | Jason Beech |
 > | **数据外包与共生补位** | 阐明超国家中枢如何借助第三方国际组织的数据基础设施规避立法禁令 | 欧盟与经合组织跨机构合作、跨国[[Performance Indicators\|教育指标]]体系建设 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
 > | **共识否决与价值过滤** | 阐明辅助性原则与共识决规则如何赋予成员国抵御超国家价值扩张、纠偏治理集权的实质性否决权 | 欧洲教育区战略审议、性别平等争议与理事会磋商 | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] |
+> | **认识论基建与微观架空** | 揭示高校档案与质保数据库互联如何以去政治化技术自动化免检核验架空辅助性宪制壁垒 | 欧洲高等教育区、跨国文凭自动互认、ETER 与 DEQAR 数据库互联 | [[Sotiria Grek\|Grek]] & Russell (2024) |
 
 ---
 
@@ -175,6 +179,7 @@ updated: 2026-10-28
 > - **2009 — 数据基础设施共生与辅助性原则规避** [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24–25, 32–35)]] 揭示欧盟如何通过资助经合组织 PISA 调查并采购其 50%–60% 数据，在恪守辅助性原则法律形式下依托跨国数字指标推进欧洲教育空间事实一体化。
 > - **2009 — 进取型政府间主义与全景敞视建构** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009, pp. 481–482, 490–493)]] 考证马斯特里赫特条约第 126/127 条确立的辅助性原则与共同决策程序，揭示欧盟如何在新千年通过进取型政府间主义与新功能主义外溢，依托开放协调法与监视技术架空宪制防守。
 > - **2021 — 欧洲教育区决议审议中的辅助性原则与共识否决** [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] 实证揭示，在《欧洲联盟运行条约》第 165 条辅助性原则与理事会共识决机制下，成员国不仅阻断了欧盟委员会创设集中化治理框架的企图，更通过动用否决权纠偏了超国家起草精英单列“性别平等”的激进认知倡导。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 854, 860–862)]]
+> - **2024 — 认识论基础设施与微观自动化核验架空辅助性限制** [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] 证实欧盟在《欧洲联盟运行条约》第 165 条辅助性原则约束下，依托 ESG、EQAR、ETER 与 DEQAR 复合认识论基础设施，通过微观数据库互联与文凭免检流转，在完全规避主权立法冲突的同时实现了事实上的超国家一体化管辖。
 
 ---
 
@@ -204,6 +209,7 @@ updated: 2026-10-28
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 结合欧洲教育区（EEA 2030）个案，揭示辅助性原则与理事会共识决如何赋予成员国抵御超国家机构集权与过滤价值倡导的制度权力。
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 阐明欧盟在第 165 条辅助性原则约束下，如何依托质保认识论基础设施（ESG/EQAR/ETER/DEQAR）实现跨国文凭自动核验与高教事实一体化。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 考证《马斯特里赫特条约》第 126/127 条辅助性原则，揭示欧盟如何通过进取型政府间主义与开放协调法突破宪制限制。（pp. 481–482, 490–493）
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析[[EU|欧盟]]在《马斯特里赫特条约》辅助性原则制约下，如何借助最佳实践修辞、量化指标基准线与[[Bologna Process|博洛尼亚进程]]三大软治理机制渗透成员国教育政策。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 揭示欧盟委员会如何通过出资资助 80% 成本并采购经合组织 50%–60% 统计数据，依托外部数据基础设施绕过辅助性原则在教育领域的立法约束。

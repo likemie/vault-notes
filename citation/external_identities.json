@@ -75860,7 +75860,6 @@
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md",
         "wiki/arguments/journal-articles/Journal of Education Policy/Argument_Grek_2009_JEdPolicy.md",
-        "wiki/concepts/comparative-education/European Education Space.md",
         "wiki/concepts/comparative-education/Methodological Nationalism.md",
         "wiki/concepts/comparative-education/Open Method of Coordination.md",
         "wiki/concepts/comparative-education/Subsidiarity Principle.md",
@@ -88133,6 +88132,15 @@
       "isbn": "",
       "seen_in": [],
       "title": "A meta-analysis of published research on the effects of non-maternal care on child development."
+    },
+    "Russell, 2024": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/comparative-education/European Education Space.md",
+        "wiki/concepts/comparative-education/Subsidiarity Principle.md"
+      ],
+      "title": ""
     },
     "Rust et al., 1999": {
       "doi": "",

@@ -95,12 +95,10 @@ updated: 2026-10-28
 > - **用途** 帮助研究者透视超国家机构如何绕开法定条约限制，依托量化比较与软法协调实现跨国[[Governing at a Distance|远距治理]]，并分析成员国在主权防御下的策略性借用。
 > - **边界** 不等于欧洲政治或法律上的中央集权一体化，亦不适用于解释排斥标准化与数据对齐的前现代或孤立教育体系。
 
-> [!citation-card|notitle]
-> **Nóvoa (2002) & [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 论欧洲空间认同与流动性建构**
+> [!citation-card] 欧洲空间认同与流动性建构
 > [[António Nóvoa|安东尼奥·诺沃亚]]指出，流动性已成为面向欧盟的欧洲认同形成的核心试金石。该概念成为想象欧洲公民身份的手段，因为它内含了对过往旅程与文化漫游的[[Social Imaginary|社会想象]]，并唤起了一种对未来的自由与开放感。伊拉斯谟等流动项目在每个公民心中烙印下一种集体化且统一的欧洲体验，这种体验与多样性、多元认同的欧洲空间想象完美契合。欧洲教育空间的制造将传统国家建构策略（旗帜、国歌、教科书）与基于知识和胜任力的新归属疆域结合起来，通过将人群汇聚在临时性合作项目与流动网络中，把个体流动性铸造为特权公民的正当品质。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
-> [!citation-card|notitle]
-> **[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] 论欧盟教育维度的国家主权边界与修辞借用**
+> [!citation-card] 欧盟教育维度的国家主权边界与修辞借用
 > 欧洲联盟在教育事务中的实质不过是其所有成员国各自教育体系的总和。尽管布鲁塞尔机构常年发起各类交流项目与协调倡议，但条约明确保障了各成员国对课程大纲与治理体系的绝对主权。在后发成员国的国内政治中，欧洲标准往往被立法者降格为掩饰本国体制沉疴与推卸改革责任的虔诚托辞，致使[[Bologna Process|博洛尼亚进程]]与跨国学术流动流于形式对标与地方保护主义。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]
 >
 > *The European Union, educationally speaking, is none other than the sum of all its parts... it has served as a pious excuse for our politicians not to engage in reforms that were urgently needed.*
@@ -205,6 +203,16 @@ updated: 2026-10-28
 
 ---
 
+### 命题六　质保认识论基础设施通过微观数据互联为欧洲教育区奠定超越博洛尼亚宣言的治理砖石
+
+> [!concept-lens] 认识论基础设施与微观数据互操作
+> 探讨欧洲高等教育治理如何从抽象的政府间政治公报，下沉演进为依托微观高校注册库与质保结果数据库互联的社会-技术网络，支撑欧洲教育区落地并重塑大学地缘战略角色。
+
+> [!claim] [[Sotiria Grek|Grek, S.]] & Russell, I. (2024)
+> **认识论基础设施对欧洲教育区落地的实操支撑** [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] 论证指出，欧洲高等教育治理已超越博洛尼亚进程初期依赖政府间宣言的单一中心协调模式，演进为由欧洲质保标准（[[European Standards and Guidelines|ESG]]）、注册局（[[European Quality Assurance Register for Higher Education|EQAR]]）、欧洲高等教育机构注册库（[[European Tertiary Education Register|ETER]]）与外部质量保障结果数据库（[[Database of External Quality Assurance Results|DEQAR]]）构成的多极复合[[Epistemic Infrastructure|认识论基础设施]]。在《欧洲联盟运行条约》第 165 条禁止超国家立法统一步调的宪制背景下，该基础设施通过统一机构识别码与标准化质保决议的微观互联，将全欧数千所大学的办学档案直接对接入各国文凭互认中心（ENIC-NARIC）行政流程，为[[European Education Area|欧洲教育区]]（EEA）四大旗舰倡议（尤其是学历成果自动互认与欧洲大学联盟）奠定了可操作的技术砖石；同时，跨国高校网络依托该基础设施建立起深层协同，使大学升华为践行全球欧洲战略与彰显欧洲生活方式的地缘灯塔。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024)]]
+
+---
+
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
@@ -213,6 +221,7 @@ updated: 2026-10-28
 > | **主权防线与修辞借用命题** | 欧洲教育空间受限于主权壁垒，易被后发成员国异化为立法修辞挡箭牌与形式对标，掩盖学术近亲繁殖与制度惰性 | 欧洲联盟教育治理限度、博洛尼亚进程落地异化、学术流动与大学近亲繁殖批判 | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] |
 > | **进取型政府间主义与全景敞视建构** | 依托开放协调法、基准指标与同行审议绕开硬法限制，将主权国家纳入全景敞视式软法规训网络 | 欧洲宏观教育治理、软法一体化、里斯本战略与超国家空间建构 | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] |
 > | **理念权力与制度惯性博弈** | 欧洲教育区议程设定反映出理念权力与历史制度传统的冲突妥协，总司分立与财政紧缩削弱了治理整体性 | 欧洲教育区 2030 议程构建、话语制度主义、科层政治与主权协商 | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] |
+> | **认识论基础设施与教育区微观落地** | 依托标准（ESG）、注册局（EQAR）与微观数据库（ETER/DEQAR）互联，以技术可信性支撑文凭免检流转与欧洲教育区建设 | 欧洲高等教育治理、欧洲教育区落地、跨境资质核验与大学地缘战略 | [[Sotiria Grek\|Grek]] & Russell (2024) |
 
 ---
 
@@ -222,6 +231,7 @@ updated: 2026-10-28
 > - **2002 年 — 比较教育学批判解构** [[António Nóvoa]] 与 Martin Lawn 出版《制造欧洲教育空间》（*Fabricating Europe: The Formation of an Education Space*），将该空间定性为通过数据与流动性进行主体塑造的[[Post-structuralism|后结构主义]]治理技术。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
 > - **2009 年 — 空间转向、主权防线与全景敞视批判** Sobe & Fischer 将其置于[[Spatial Governmentality|空间治理术]]视域下，揭示欧洲教育空间的双重包容与排斥机制；[[José Luis García Garrido|García Garrido]] 从西班牙宪制与近亲繁殖揭示形式对标与主权总和实质；[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] 运用全景敞视理论解构欧盟教育话语，揭示进取型政府间主义与开放协调法如何在法律辅助性原则之外构筑全景敞视式的超国家教育空间。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–363)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 321–325, 332–333)]]; [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–482, 486–487)]]
 > - **2021–2023 年 — 欧洲教育区（EEA 2030）构建与理念制度博弈** [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] 运用话语制度主义解构 2030 议程设定，揭示超国家委员会技术官僚在推动理念转向时，如何遭遇终身学习历史传统反弹、保守成员国共识否决与内部总司分立掣肘。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 852–854, 866–867)]]
+> - **2024 年 — 认识论基础设施演进与欧洲教育区深层互联** [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] 运用 STS 与治理社会学视域，揭示欧洲高等教育治理从博洛尼亚单一政策协调向复合认识论基础设施的演进，证实 ESG、EQAR、ETER 与 DEQAR 的微观数据互联如何为欧洲教育区提供实操支撑。
 > - **2025 年 — 大规模评估实证反思** Li et al. 从全球实证综述视角证实欧洲教育空间对国际学术研究与政策评估的结构性吸附效应。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 
 ---
@@ -256,6 +266,7 @@ updated: 2026-10-28
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 结合精英访谈与战略文本分析，解构欧洲教育区 2030 议程设定中的理念权力博弈、历史制度韧性与科层分立困境。
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 结合精英访谈与制度分析，揭示欧洲高等教育质保认识论基础设施（ESG/EQAR/ETER/DEQAR）如何为欧洲教育区奠定落地砖石并重塑大学地缘角色。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 结合对芬兰、德国与英国的案例比较及欧盟官员访谈，揭示经合组织与欧盟委员会如何通过数据基础设施与财政资助共谋建构欧洲教育空间。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 系统综述揭示全球 PISA 政策影响实证研究中有 62.4% 集中在欧洲，运用欧洲教育空间概念解释数据治理基建的吸附效应。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] — 剖析欧洲教育空间的制造过程，批判性揭示伊拉斯谟计划与天普计划如何将学生流动道德化为欧洲公民资本。

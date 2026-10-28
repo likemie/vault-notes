@@ -59,7 +59,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -275,6 +275,10 @@
   },
   "active": "abba685a99836a68",
   "lastOpenFiles": [
+    "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-003/result.json",
+    "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md",
+    "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
+    "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-002/result.json",
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-001/result.json",
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-012/prompt.md",
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-012/batch-result.schema.json",
@@ -293,9 +297,7 @@
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-005/batch-result.schema.json",
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-005/prompt.md",
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-004/prompt.md",
-    "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-004/batch-result.schema.json",
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-003/prompt.md",
-    "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-003/batch-result.schema.json",
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-002/prompt.md",
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-001/prompt.md",
     "wiki/facts/uk/Visible Classroom Programme.md",
@@ -310,8 +312,6 @@
     "wiki/concepts/comparative-education/Europe of Knowledge.md",
     "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md",
     "sources/Grek_2024_EERJ/figures/Grek_2024_EERJ_Fig1_DEQAR_Database.jpg",
-    "sources/Grek_2024_EERJ/Grek_2024_EERJ.md",
-    "sources/Grek_2024_EERJ.md",
     "tmp/pdfs/visible-second/figure-check.png",
     "sources/Sanders_2021_EEF/figures/Sanders_2021_EEF_Fig4_TeacherPracticeModel.jpg",
     "sources/Sanders_2021_EEF/figures/Sanders_2021_EEF_Fig3_Year6Outcomes.jpg",

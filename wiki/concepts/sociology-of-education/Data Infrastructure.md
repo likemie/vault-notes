@@ -185,6 +185,9 @@ updated: 2026-10-28
 > [!claim] Grek, S.
 > **[[EU|欧盟]]与[[OECD|经合组织]]的数据基础设施共生与跨国协调** 索蒂里亚·格雷克（[[Sotiria Grek]]）揭示，数据基础设施在超国家层面的运作呈现跨机构共生特征。受《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]限制，[[EU|欧盟]]缺乏直接立法权与独立的测评开发能力；[[European Commission|欧盟委员会]]通过资助成员国 80% 的 [[PISA]] 调查参与成本、直接采购经合组织 50%–60% 的基础统计数据（依托 [[UOE Data Collection|UOE]] 数据集），并常态嵌入 [[International Indicators of Education Systems|INES]] 指标委员会，深度借用经合组织的数据基础设施。这种跨机构共生使欧盟得以在不修改宪制条约的前提下，依托可比数据与同行学习压力推进[[European Education Space|欧洲教育空间]]的一体化治理。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
 
+> [!claim] [[Sotiria Grek|Grek, S.]] & Russell, I. (2024)
+> **微观注册库互联与自组织数据基础设施演进** [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] 进一步揭示，超国家数据基础设施经历了从采购宏观统计指标（如经合组织 PISA 与 UOE 数据集）向建设微观机构数据库互联的纵深演进。欧盟委员会通过资助[[European Tertiary Education Register|欧洲高等教育机构注册库]]（ETER）确立数千所高校的标准化微观档案与唯一识别码，并由[[European Quality Assurance Register for Higher Education|欧洲高等教育质量保障注册局]]（EQAR）建立[[Database of External Quality Assurance Results|外部质量保障结果数据库]]（DEQAR）结构化挂载评估决议。这一基础设施依托统一标识符打通机构识别与专业质保，并通过数据接口直连 ENIC-NARIC 文凭互认网络，在缺乏强制立法权下通过技术互操作性实现了全欧范围内的办学资质自动化免检核验。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
@@ -194,7 +197,7 @@ updated: 2026-10-28
 > | **治理张力命题** | 数据系统必然在简化、[[Commensuration\|通约]]、时效、公开与博弈五维两难中求取妥协 | 绩效仪表盘设计、社会经济指数编制、资源分配与高利害问责 | Hartong & Förschler; Ozga (2009) |
 > | **权力重构命题** | 基础设施通过次级表象行使分布式权力，呼唤培育数据基础设施素养 | 批判性教育治理研究、教育算法审计、公民与师生民主参与 | Kitchin (2014); Gray et al. (2018) |
 > | **证据合成命题** | 独立于商业出版的中央证据数据基础设施与全量归档制度可阻断发表偏倚，支撑动态一级元分析 | 循证证据库治理、元分析基础设施规范与学术成果评价改革 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
-> | **超国家共生命题** | 缺乏直接立法管辖权的超国家中枢通过资金分担与指标采购嵌入外部数据基础设施，实现区域教育空间协调 | 跨国[[Performance Indicators\|教育指标]]体系建设、欧盟软法协调与全球[[Governing by Numbers\|数字治理]] | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
+> | **超国家共生命题** | 缺乏直接立法管辖权的超国家中枢通过资金分担与指标采购嵌入外部数据基础设施，实现区域教育空间协调 | 跨国[[Performance Indicators\|教育指标]]体系建设、欧盟软法协调与全球[[Governing by Numbers\|数字治理]] | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]]; [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]] |
 
 ---
 
@@ -206,6 +209,7 @@ updated: 2026-10-28
 > - **2017 — 数字教育治理与平台基础设施化** 本·威廉姆森（Ben Williamson, 2017）系统将批判性数据基础设施理论引入教育学，揭示商业科技公司与全球政策智库如何通过算法管道重构教育决策。
 > - **2018 — 联邦多级教育政策的[[Topological Spatialisation|拓扑重组]]** [[Argument_Hartong_2018_GSE|Hartong (2018)]] 结合装配理论与[[Topological Spatialisation|拓扑空间化]]，揭示德国在 [[PISA]] 震荡后如何通过国家标准题库、[[Vergleichsarbeiten|VERA]] 统一测试与 [[Institute for Educational Quality Improvement|IQB]] 建设跨尺度绩效数据基础设施，在分权体制中实现[[Governing at a Distance|远处治理]]。
 > - **2019 — 州级教育行政机构数据黑箱的经验拆解** [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] 开展美德跨国[[Comparative Case Study|比较案例研究]]，系统勾勒出四级技术架构与做数据五维治理张力，并倡导培育数据基础设施素养。
+> - **2024 — 微观数据基础设施互联与跨国资质自动化核验** [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] 揭示欧洲高等教育数据基础设施从宏观指标向微观数据库互联（ETER 与 DEQAR）的演化，证实标准化识别编码与接口集成如何在宪制辅助性限制下实现文凭与学分的自动化跨境互认。
 
 ---
 
