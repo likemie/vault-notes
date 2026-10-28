@@ -186,6 +186,15 @@
         "Association of Southeast Asian Nations"
       ]
     },
+    "ASEAN University Network": {
+      "path": "wiki/facts/multi/ASEAN University Network.md",
+      "names": [
+        "ASEAN University Network",
+        "东盟大学联盟",
+        "东盟大学网络",
+        "AUN"
+      ]
+    },
     "Asia South Pacific Association for Basic and Adult Education": {
       "path": "wiki/facts/multi/Asia South Pacific Association for Basic and Adult Education.md",
       "names": [
@@ -2315,6 +2324,16 @@
         "SDG 4 HLSC",
         "全球教育合作机制高级别指导委员会",
         "High-Level Steering Committee for SDG 4"
+      ]
+    },
+    "SEAMEO RIHED": {
+      "path": "wiki/facts/multi/SEAMEO RIHED.md",
+      "names": [
+        "SEAMEO RIHED",
+        "东南亚教育部长组织高等教育与发展区域中心",
+        "东南亚教育部长组织高教中心",
+        "RIHED",
+        "Regional Centre for Higher Education and Development"
       ]
     },
     "Sematech": {

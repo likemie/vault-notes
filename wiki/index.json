@@ -9362,8 +9362,11 @@
     "type": "concept",
     "path": "wiki/concepts/higher-education/Global Regionalisms.md",
     "aliases": [
+      "高等教育区域主义",
       "高等教育中的全球区域主义",
-      "全球区域主义"
+      "全球区域主义",
+      "Higher Education Regionalism",
+      "higher education regionalisms"
     ]
   },
   {
@@ -36943,6 +36946,17 @@
     "subtype": "organization"
   },
   {
+    "title": "ASEAN University Network",
+    "type": "fact",
+    "path": "wiki/facts/multi/ASEAN University Network.md",
+    "aliases": [
+      "东盟大学联盟",
+      "东盟大学网络",
+      "AUN"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Asia South Pacific Association for Basic and Adult Education",
     "type": "fact",
     "path": "wiki/facts/multi/Asia South Pacific Association for Basic and Adult Education.md",
@@ -36971,6 +36985,18 @@
       "国际文凭北美公司",
       "IB North America",
       "IBNA"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "SEAMEO RIHED",
+    "type": "fact",
+    "path": "wiki/facts/multi/SEAMEO RIHED.md",
+    "aliases": [
+      "东南亚教育部长组织高等教育与发展区域中心",
+      "东南亚教育部长组织高教中心",
+      "RIHED",
+      "Regional Centre for Higher Education and Development"
     ],
     "subtype": "organization"
   },
@@ -44861,6 +44887,11 @@
     "title": "Argument_Jovchevski_2026_PT",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Philosophy & Technology/Argument_Jovchevski_2026_PT.md"
+  },
+  {
+    "title": "Argument_Chou_2017_PolSoc",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md"
   },
   {
     "title": "Argument_Stone_2020_PolSoc",

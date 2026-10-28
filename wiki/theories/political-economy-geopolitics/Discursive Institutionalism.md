@@ -7,10 +7,10 @@ aliases:
 summary: "由薇薇安·施密特（Vivien A. Schmidt）系统确立的制度主义分析范式，将理念与话语置于制度解释的核心，区分实质内容（认知性理念与规范性理念）与互动语境（协调性话语与交流性话语），结合理念权力（通过、支配与内置理念之权力），阐明行动者如何在既有制度结构中协商、重塑或维系制度权威与政策议程。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 10
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 25
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/political-economy-geopolitics
   - theme/institutional-analysis
@@ -19,51 +19,66 @@ tags:
   - paradigm/constructivism
 related_concepts:
   - "[[Discourse]]"
-  - "[[Open Method of Coordination]]"
-  - "[[Subsidiarity Principle]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Epistemology]]"
+  - "[[Ideational Power]]"
+  - "[[Paradigm]]"
+  - "[[Variable]]"
+  - "[[Global Regionalisms]]"
+  - "[[Lifelong Learning]]"
+  - "[[Champ]]"
+  - "[[Research Question]]"
+  - "[[Rule Ambiguity]]"
+  - "[[Geopolitics]]"
 related_theories:
   - "[[Historical Institutionalism]]"
-  - "[[Theory of Gradual Institutional Change]]"
+  - "[[Path Dependence]]"
 related_methods:
-  - "[[Documentary Analysis]]"
+  - "[[Analytic Framework]]"
   - "[[Elite Interview]]"
+  - "[[Transcription in Qualitative Research]]"
+  - "[[Semi-structured Interview]]"
+  - "[[Documentary Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Jürgen Habermas]]"
 related_facts:
+  - "[[EU]]"
   - "[[European Education Area]]"
-  - "[[Lisbon Strategy]]"
+  - "[[European Commission]]"
 related_arguments:
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
+  - "[[Argument_Chou_2017_PolSoc]]"
 confidence: high
 status: active
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 ---
 
 > [!theory-position] 理论定位
-> - **解释对象** 政策制定与制度演化过程中理念（Ideas）与话语（Discourse）的建构、传播、协商及其对制度变迁或维系的作用机制。
-> - **理论问题** 传统制度主义三大流派（理性选择制度主义、历史制度主义、社会学制度主义）侧重外生冲击或内生路径依赖，难以解释行动者如何在既定制度约束下通过意义建构主动发起变革或化解制度危机。
-> - **理论类型** 分析框架与解释性理论，兼具批判性审视政策修辞与制度变迁动力的理论功能。
-> - **知识位置** 政治学与公共政策分析中的“第四种新制度主义”，结合建构主义认识论与制度互动论，与历史制度主义构成紧密的对话与互补关系。
+> - **解释对象** 政策制定与制度演化过程中理念（Ideas）与[[Discourse|话语]]（Discourse）的建构、传播、协商及其对制度变迁或维系的作用机制。
+> - **理论问题** 传统制度主义三大流派（理性选择制度主义、[[Historical Institutionalism|历史制度主义]]、社会学制度主义）侧重外生冲击或内生[[Path Dependence|路径依赖]]，难以解释行动者如何在既定制度约束下通过意义建构主动发起变革或化解制度危机。
+> - **理论类型** [[Analytic Framework|分析框架]]与解释性理论，兼具批判性审视政策修辞与制度变迁动力的理论功能。
+> - **知识位置** 政治学与公共政策分析中的“第四种新制度主义”，结合[[Constructivist Paradigm|建构主义]][[Epistemology|认识论]]与制度互动论，与历史制度主义构成紧密的对话与互补关系。
 
 > [!claim] 核心判断
-> 制度既包含约束行动的外部规则，又是行动者在特定历史制度脉络中通过理念与话语持续协商、再生产与重构的意义网络；行动者的理念权力能否引发政策实质转向，取决于新理念能否在既有组织架构中获得权威行动者的协调支持与规范合法性背书。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 856–857)]]
+> 制度既包含约束行动的外部规则，又是行动者在特定历史制度脉络中通过理念与话语持续协商、再生产与重构的意义网络；行动者的[[Ideational Power|理念权力]]能否引发政策实质转向，取决于新理念能否在既有组织架构中获得权威行动者的协调支持与规范合法性背书。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 856–857)]]
 
 ---
 
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 政治学者薇薇安·施密特（Vivien A. Schmidt）于 2008 年发表《话语制度主义：新制度主义中的第四流派》（*Discursive Institutionalism: The Fourth 'New Institutionalism'?*），并在后续研究中与马丁·卡斯滕森（Martin B. Carstensen）联合拓展理念权力分类学（Carstensen & Schmidt, 2016）。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 856–857)]]
 > - **原初问题** 欧洲一体化进程与各国福利国家改革中频繁出现制度形式未改而实质政策重点剧烈变动的经验事实，既有理性主义或结构主义模型难以解释这种“无制度剧变的观念演变”。
-> - **理论资源与材料** 吸收尤尔根·哈贝马斯（Jürgen Habermas）的交往理性与沟通行动理论、米歇尔·福柯（Michel Foucault）的话语权力洞见，以及比较政治经济学中关于政策范式转移的实证案例。
+> - **理论资源与材料** 吸收[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas）的交往理性与沟通行动理论、米歇尔·福柯（Michel Foucault）的话语权力洞见，以及比较政治经济学中关于政策[[Paradigm|范式]]转移的实证案例。
 > - **形成路径** 将理念按功能划分为认知维度与规范维度，将话语按互动场景划分为协调性与交流性维度，进而在 2016 年整合结构与能动视角，提出涵盖三个权力向度的理念权力模型。
 
 > [!dev-timeline] 理论版本与贡献
 > - **2008 — 确立第四种新制度主义** Schmidt (2008) 确立话语制度主义的认识论坐标，将话语定义为行动者产生、审议与合法化理念的交互过程，区分协调性话语与交流性话语。
 > - **2016 — 提出理念权力三维分类** Carstensen and Schmidt (2016) 细化行动者运用理念行使权力的机制，确立通过理念行使权力、支配理念之权力与内置于理念之权力三大范畴。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 857)]]
-> - **2017 — 部门区域主义的观念视角拓展** [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] 拓展新制度主义观念视角，将理念区分为作为被解释变量的部门政策理念（高等教育区域主义的实质定位）与作为解释变量的宏观区域合作模式及知识话语，实证检验多层次跨国治理中的理念互动。
-> - **2023 — 应用于超国家教育治理分析** [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] 将该理论引入欧盟[[European Education Area|欧洲教育区]]战略建构研究，阐明认知性理念（如终身学习）与规范性理念（如性别平等）在跨机构闭门博弈中的韧性与取舍。
+> - **2017 — 部门区域主义的观念视角拓展** [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] 拓展新制度主义观念视角，将理念区分为作为被解释[[Variable|变量]]的部门政策理念（[[Global Regionalisms|高等教育区域主义]]的实质定位）与作为解释变量的宏观区域合作模式及知识话语，实证检验多层次跨国治理中的理念互动。
+> - **2023 — 应用于超国家教育治理分析** [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] 将该理论引入[[EU|欧盟]][[European Education Area|欧洲教育区]]战略建构研究，阐明认知性理念（如[[Lifelong Learning|终身学习]]）与规范性理念（如性别平等）在跨机构闭门博弈中的韧性与取舍。
 
 ---
 
@@ -84,10 +99,10 @@ updated: 2026-10-28
 >
 > **应用实例** 在欧盟制定面向 2030 年的教育战略时，终身学习既作为连接基础教育、职教与成人技能提升的认知因果方案，又承载着保障公民全生命周期学习权利的规范价值。
 
-> [!theory-proposition] 命题二｜政策话语在精英协调网络与公众沟通场域中分层运作
+> [!theory-proposition] 命题二｜政策话语在精英协调网络与公众沟通[[Champ|场域]]中分层运作
 > **解释** 话语制度主义强调话语的互动本质。协调性话语发生于由政策官僚、内阁顾问与专家委员会构成的相对封闭网络中，其重点在于技术方案的推敲、妥协方案的达成以及跨部门共识的捏合；交流性话语表现为官方公报、议会辩论与公开宣传，旨在将协调成型的战略框架向社会公众展示，借助基准指标与战略愿景唤起普遍认同。两类话语层级可能存在节奏与重心的错位。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 856–857)]]
 >
-> **应用实例** 欧盟委员会发布欧洲教育区倡议公报属于交流性话语，而欧盟理事会教育委员会内部各成员国代表闭门修改指标文本属于深层的协调性话语。
+> **应用实例** [[European Commission|欧盟委员会]]发布欧洲教育区倡议公报属于交流性话语，而欧盟理事会教育委员会内部各成员国代表闭门修改指标文本属于深层的协调性话语。
 
 > [!theory-proposition] 命题三｜理念权力的达成依托行动者能动性与既有制度结构的互构
 > **解释** 行动者改变政策方向的理念权力区分为三种形态：其一为通过理念行使权力（Power through ideas），即行动者凭借论证说服他人接受新观点；其二为支配理念之权力（Power over ideas），即行动者控制议程与意义解释权，压制竞争性替代主张；其三为内置于理念之权力（Power in ideas），即某种理念长期嵌入制度框架，成为不证自明的制度权威。如果新理念无法在现有科层结构中找到制度支撑，单凭个别行动者的说服力往往难以撼动长久积累的内置权力。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 857)]]
@@ -97,9 +112,9 @@ updated: 2026-10-28
 ---
 
 > [!theory-use] 框架入口
-> - **研究问题** 政策议程如何形成？为什么某些改革倡议被广泛采纳而另一些方案遭遇流产？多边组织中权力与话语如何博弈？
-> - **分析对象与单位** 政策文件链条、官僚机构间的往来备忘录、决策精英访谈实录与制度协商过程。
-> - **需要的材料** 官方政策白皮书、法案决议修订草案、会议纪要与针对核心决策者的深入访谈转录资料。
+> - **[[Research Question|研究问题]]** 政策议程如何形成？为什么某些改革倡议被广泛采纳而另一些方案遭遇流产？多边组织中权力与话语如何博弈？
+> - **分析对象与单位** 政策文件链条、官僚机构间的往来备忘录、决策[[Elite Interview|精英访谈]]实录与制度协商过程。
+> - **需要的材料** 官方政策白皮书、法案决议修订草案、会议纪要与针对核心决策者的深入访谈[[Transcription in Qualitative Research|转录]]资料。
 > - **解释目标** 揭示政策变迁背后思想主张与权力结构的深层互动，剖析制度维持或渐进转型的观念驱动力。
 
 > [!theory-framework] 命题如何转化为分析维度
@@ -113,7 +128,7 @@ updated: 2026-10-28
 ---
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 存在意义争论、制度模糊性或多边协商空间的政策制定与议程设置过程；解释外生结构压力下政策文本的微观妥协机制；透视跨部门科层网络中的话语博弈。
+> - **适合分析** 存在意义争论、[[Rule Ambiguity|制度模糊性]]或多边协商空间的政策制定与议程设置过程；解释外生结构压力下政策文本的微观妥协机制；透视跨部门科层网络中的话语博弈。
 > - **成立条件** 需要获取未公开的政策草案、闭门会议纪要或高层决策者的深入访谈资料以追踪真实的协调性话语；需要政策行动者具备一定的自由裁量权与理念表达空间。
 > - **解释不足** 对完全受刚性物质资源约束、地缘军事胁迫或高度封闭威权指令驱动的决策场景解释力较弱；较少直接测算理念转化为基层实施效果的滞后因果量级。
 > - **转化困难** 行动者在访谈中所表述的理念动机难以与策略性修辞截然剥离；三种理念权力的实证边界在具体文本博弈中常出现交叉重叠。
@@ -124,7 +139,7 @@ updated: 2026-10-28
 > [!debates] 理论争议
 >
 > > [!axis] 观念驱动 vs 物质利益驱动
-> > 批评学者认为，话语制度主义容易夸大行动者言语与思想的独立因果效力，忽视深层经济利益、资源控制与地缘政治力量对决策的决定性约束；支持者则主张，物质利益本身正是通过理念建构与话语界定才获得具体的政治形态，二者相互交织。
+> > 批评学者认为，话语制度主义容易夸大行动者言语与思想的独立因果效力，忽视深层经济利益、资源控制与[[Geopolitics|地缘政治]]力量对决策的决定性约束；支持者则主张，物质利益本身正是通过理念建构与话语界定才获得具体的政治形态，二者相互交织。
 > >
 > > - **理性选择制度主义** 坚持行动者的物质利益与偏好是外生给定的，话语往往只是掩饰自利算计的外在修辞。
 > > - **话语制度主义者（Schmidt, 2008）** 指出偏好本身处于内生演变中，行动者必须通过理念来理解自身利益并在话语互动中重塑偏好。
@@ -133,4 +148,4 @@ updated: 2026-10-28
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] — 运用话语制度主义与理念权力框架，结合对欧盟委员会与理事会 9 位高级官员的精英访谈与政策文本分析，深入解构欧洲教育区（EEA）战略议程的建构历程与机构博弈。
-> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 运用观念制度主义视角（ideas as explanandum and explanans），通过 53 场半结构化访谈与政策文献分析，对比欧洲与东南亚高等教育区域治理的理念演进机制。
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 运用观念制度主义视角（ideas as explanandum and explanans），通过 53 场[[Semi-structured Interview|半结构化访谈]]与[[Documentary Analysis|政策文献分析]]，对比欧洲与东南亚高等教育区域治理的理念演进机制。
