@@ -3,10 +3,10 @@ title: Science and Technology Studies
 aliases:
   - 科学技术研究
   - STS
-summary: "跨学科研究领域，主张科学是一种社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产、转译和施行性为关键概念。"
+summary: "跨学科研究领域，主张科学知识与技术媒介是由异质性行动者网络、物质实践与制度权力共同生产的社会技术成就，核心关注知识如何被制造、动员、验证与施行，并在教育治理中表现为指标规程、特许脚本与数据库网络的物质建构。"
 type: concept
 domain: "curriculum"
-related_count: 22
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,8 @@ related_concepts:
   - "[[International Education]]"
   - "[[Visible Learning]]"
   - "[[Implementation Fidelity]]"
+  - "[[Data Infrastructure]]"
+  - "[[Epistemic Infrastructure]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
@@ -42,16 +44,17 @@ related_facts:
 related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
+  - "[[Argument_Grek_2024_EERJ]]"
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-22
+updated: 2026-10-28
 ---
 
 ---
 
 > [!def] Science and Technology Studies
-> **科学技术研究（Science and Technology Studies, STS）** 是一个跨学科研究领域，主张科学知识与技术工具本质上是由[[Heterogeneity|异质性]]行动者网络、物质实践、制度规训与治理权力共同构成的社会技术成就，突破了关于外部客观世界透明镜像的静态设想。STS 拒绝自然/社会、科学/政治等二元对立，核心关注知识如何被生产、动员、验证、转译与施行（[[Performativity|performativity]]），以及统计指标、计算规程与评估工具如何深度嵌构并重塑现代教育治理与学校实践[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 6)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 253)]]。
+> 科学技术研究（Science and Technology Studies, STS）是一个跨学科研究领域，主张科学知识与技术工具本质上是由[[Heterogeneity|异质性]]行动者网络、物质实践、制度规训与治理权力共同构成的社会技术成就，突破了关于外部客观世界透明镜像的静态设想。STS 拒绝自然/社会、科学/政治等二元对立，核心关注知识如何被生产、动员、验证、转译与施行（[[Performativity|performativity]]），以及统计指标、计算规程与评估工具如何深度嵌构并重塑现代教育治理与学校实践。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 6)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 253)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向科学知识与技术媒介的物质性、实践性与政治性，主张科学是一种正在制造中的社会实践网络。
@@ -64,9 +67,9 @@ updated: 2026-10-22
 > *explore how knowledge-making is incorporated into practices of state-making, or of governance more broadly, and, in reverse, how practices of governance influence the making and use of knowledge. States, we may say, are made of knowledge, just as knowledge is constituted by states.*
 
 > [!boundary]- 概念边界
-> - **不等于 [[Positivism|实证主义]]科学哲学** 实证主义将科学假定为发现客观先验规律的[[Independent Knowing|独立认知]]活动；STS 将科学界定为由材料、仪器、资金与制度妥协共同维系的异质实践网络[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 6)]]。
-> - **不等于 抽象[[Ideology Critique|意识形态批判]]** 传统[[Critical Theory|批判理论]]往往直接作宏观阶级或利益定性；STS 则坚持“跟随行动者”，通过微观解剖指标计算表、会议备忘录、课堂录音[[Transcription in Qualitative Research|转录]]与特许法律合同等物质中介揭示权力运作[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 253–254)]]。
-> - **不适用于 剥离物质载体的观念史分析** STS 核心在于考察非人行动者（图表、算法、脚本、物料）的能动性与施行性，脱离技术工具与物质网络的纯思辨文本不在其解释视域之内。
+> - 不等于 [[Positivism|实证主义]]科学哲学 实证主义将科学假定为发现客观先验规律的[[Independent Knowing|独立认知]]活动；STS 将科学界定为由材料、仪器、资金与制度妥协共同维系的异质实践网络。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 6)]]
+> - 不等于 抽象[[Ideology Critique|意识形态批判]] 传统[[Critical Theory|批判理论]]往往直接作宏观阶级或利益定性；STS 则坚持“跟随行动者”，通过微观解剖指标计算表、会议备忘录、课堂录音[[Transcription in Qualitative Research|转录]]与特许法律合同等物质中介揭示权力运作。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 253–254)]]
+> - 不适用于 剥离物质载体的观念史分析 STS 核心在于考察非人行动者（图表、算法、脚本、物料）的能动性与施行性，脱离技术工具与物质网络的纯思辨文本不在其解释视域之内。
 
 ---
 
@@ -81,10 +84,10 @@ updated: 2026-10-22
 ---
 
 > [!feature] 科学技术研究的核心分析构件
-> - **共同生产（[[Knowledge Co-production|Co-production]]）** 知识秩序与社会秩序相互塑造；[[Performance Indicators|教育指标]]既是统计科学成果，又是跨国治理的干预工具，两者紧密纠缠且不可分割[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 6)]]。
-> - **转译与网络（Translation & Networks）** 异质行动者通过谈判、妥协与利益对齐将科研成果转变为标准化干预工具，形成跨越国家边界的施效网络[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 17)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 253)]]。
-> - **机械客观性（Mechanical Objectivity）** 通过排除个人主观经验、推行刚性标准化规程（如逐字培训脚本或统一计算公式）生产可被信赖的制度权威[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 12)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 254–255)]]。
-> - **物质施行性（Material [[Performativity]]）** 测量工具、评测软件与培训物料不仅描述教育现实，更在持续重塑师生认知与课堂实践，反向生产其所声称测量的现实[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 18–19)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 257–258)]]。
+> - **共同生产（[[Knowledge Co-production|Co-production]]）** 知识秩序与社会秩序相互塑造；[[Performance Indicators|教育指标]]既是统计科学成果，又是跨国治理的干预工具，两者紧密纠缠且不可分割。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 6)]]
+> - **转译与网络（Translation & Networks）** 异质行动者通过谈判、妥协与利益对齐将科研成果转变为标准化干预工具，形成跨越国家边界的施效网络。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 17)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 253)]]
+> - **机械客观性（Mechanical Objectivity）** 通过排除个人主观经验、推行刚性标准化规程（如逐字培训脚本或统一计算公式）生产可被信赖的制度权威。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 12)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 254–255)]]
+> - **物质施行性（Material [[Performativity]]）** 测量工具、评测软件与培训物料不仅描述教育现实，更在持续重塑师生认知与课堂实践，反向生产其所声称测量的现实。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, pp. 18–19)]]; [[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 257–258)]]
 
 > [!logic-map]- 科学技术研究在教育治理中的施效机制
 > ```mermaid
@@ -123,3 +126,60 @@ updated: 2026-10-22
 
 > [!claim] [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]]
 > **数字记录工具的施行性与数据资产回流网络** 课堂移动端实时语音[[Transcription in Qualitative Research|转录]]与编码应用不仅作为测量工具破除教师自评与实测的认知盲区，更作为物质中介重塑师生对有效学习的常识理解；学者借助跨国商业特许网络从全球 23 国学校持续回收数以万计的实践数据，展现出学术声誉与跨国教育商业深度互构的治理新形态。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, pp. 258–260)]]
+
+---
+
+### 命题三　认识论基础设施依赖分类标准与微观数据库的模块化增量缝合实现治理扩张
+
+> [!concept-lens] 基础设施的物质载体与增量缝合
+> 关注分类系统、标准化表单与数字数据库等隐性技术载体，如何通过模块化增量缝合在行动者网络中确立持久的制度秩序。
+
+> [!claim] [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]]
+> **分类标准与数据库的模块化增量缝合** 科学技术研究揭示，跨国治理体系的成型依赖分类标准与数字代码等物质载体的支撑。借鉴 Star（1999）与 Bowker and Star（1999）的基础设施社会技术理论，跨国高等教育质量保障网络依托专家中介在多边博弈中对独立模块进行持续调适，通过准则规程（ESG）、注册局准入名录（EQAR）以及高校微观底账（ETER）与认证结果数据库（DEQAR）的模块化增量缝合（Modular Increments），逐步演进为具有自持繁殖能力的超国家治理基础设施。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 219–220, 227–228)]]
+
+---
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **机械客观性与指标建构** | 跨国指标借助排序操作与排除主观经验的公式生产治理可信度 | 国际比较教育测评、指标政治与弱势专业专家防御 | [[Argument_Gorur_2014_Discourse\|Gorur (2014)]]; Porter (1995) |
+> | **物质网络与技术规训** | 循证方案依托法律特许、工作坊逐字脚本与数据应用行使跨国控制 | 跨国商业教育项目扩散、教师自主权规训与微观课堂重构 | [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] |
+> | **基础设施与模块化增量缝合** | 隐性标准与数据库网络依靠专家中介的增量缝合支撑超国家治理 | 跨国高等教育空间建构、标准通约与微观数据库互联 | [[Argument_Grek_2024_EERJ\|Grek and Russell (2024)]]; Star (1999) |
+
+---
+
+> [!dev-timeline] 概念演变
+> - **1970s–1980s — 实验室研究与行动者网络理论奠基** 科学社会学爆发经验转向，布鲁诺·拉图尔（Bruno Latour）与史蒂夫·伍尔加（Steve Woolgar）通过实验室民族志揭示事实的建构过程；米歇尔·卡隆（Michel Callon）与拉图尔创立行动者网络理论（ANT），将非人行动元赋予本体论能动性。
+> - **1990s — 基础设施与分类政治研究拓展** 杰弗里·鲍克（Geoffrey Bowker）与苏珊·利·斯塔（Susan Leigh Star）出版《分类与后果》（Sorting Things Out, 1999），确立了分类表单、标准编码与寄存库作为社会技术基础设施的分析传统。
+> - **2004 — 共同生产框架提出** 希拉·贾萨诺夫（Sheila Jasanoff）提出共同生产（Co-production）概念，阐明自然知识的生产与社会秩序的建构具有内在对称与相互构成的属性。
+> - **2014 — 国际教育统计指标的 STS 解构** 拉迪卡·戈鲁尔（[[Argument_Gorur_2014_Discourse|Gorur, 2014]]）将 STS 分析框架引入 OECD 跨国教育指标研究，揭示《教育概览》等指标在跨国博弈中如何借助程序妥协生产机械客观性。
+> - **2017 — 循证方案物质网络与施行性剖析** 扬·克努森（[[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017]]）运用 STS 视角解构《可见的学习》跨国特许推广，展现商业合同、逐字脚本与录音转录应用对学校微观实践的技术规训。
+> - **2024 — 高等教育认识论基础设施系统分析** 索蒂丽亚·格雷克与伊恩·拉塞尔（[[Argument_Grek_2024_EERJ|Grek & Russell, 2024]]）依托 STS 与治理社会学框架，解构欧洲高等教育质量保障标准、注册库与数据库互联形成的三层认识论基础设施。
+
+---
+
+## 争议与批评
+
+> [!debates] 学术争议
+>
+> > [!axis] 客观实在镜像反映 vs 社会技术互构共同生产
+> > 争论科学知识与技术工具究竟是外部客观物质规律的独立测量镜像，还是由行动者网络、政治妥协与制度需求深度交织而成的共同生产物。
+> >
+> > - **传统实证科学观** 坚持自然实在的独立先验性，认为科学仪器与统计规程的核心职能在于消除主观偏差以还原客观规律。
+> > - **STS 共同生产观** 论证科学知识与社会治理秩序互为因果，测量工具在记录现实的同时反向建构了其所声称测量的社会空间。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 6)]]
+>
+> > [!axis] 超然技术理性追求 vs 专家团体的制度防御策略
+> > 争论严格的数字规程与量化模型是出于对真理的严密求证，还是专业中介群体在面对外部政治审查时维系自身正当性的机械客观性壁垒。
+> >
+> > - **技术理性视角** 视标准化计算为提高政策决策科学化与跨国可比性的必要手段。
+> > - **机械客观性批判视角** 揭示严密的指标程序实质上是弱势专家用来抵御政治干预、掩盖底层妥协的技术防护罩。[[Argument_Gorur_2014_Discourse|(Gorur, 2014, p. 12)]]
+
+> [!warning] 适用局限
+> 科学技术研究高度依赖微观行动者跟踪与物质材料审视（指标计算规程、特许合同条款、数据库界面代码等），在缺乏细部技术文本或纯观念思辨研究中操作化难度较高；同时，将人与非人行动者赋予完全对称能动性的分析取向，若脱离具体制度脉络，可能弱化对宏观阶级结构与不对称国家权力的政治经济学批判力度。
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Gorur_2014_Discourse|Gorur (2014)]] — 运用 STS 视角解构 OECD《教育概览》指标生产过程，阐明跨国排序操作与机械客观性建构机制。
+> - [[Argument_Knudsen_2017_NordSTEP|Knudsen (2017)]] — 结合丹麦学校实践追踪《可见的学习》特许推广网络，揭示逐字脚本、商事合同与数据收集应用的技术规训施行性。
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 基于 STS 与治理社会学框架，系统论证欧洲高等教育质量保障准则、注册名录与互联数据库构建认识论基础设施的微观机制。

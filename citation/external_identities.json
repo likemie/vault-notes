@@ -12708,6 +12708,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/curriculum/Science and Technology Studies.md",
         "wiki/concepts/sociology-of-education/Data Infrastructure.md"
       ],
       "title": ""
@@ -96234,6 +96235,14 @@
       ],
       "title": ""
     },
+    "Sorting Things Out, 1999": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/curriculum/Science and Technology Studies.md"
+      ],
+      "title": ""
+    },
     "Sosa et al., 2011": {
       "datasets": [
         "metax:S1885"
@@ -97213,7 +97222,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md"
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
+        "wiki/concepts/curriculum/Science and Technology Studies.md"
       ],
       "title": ""
     },

@@ -21890,6 +21890,8 @@
     "Sorian & Baugh, 2002": "Sorian & Baugh, 2002",
     "Soros (1998)": "Soros, 1998",
     "Soros, 1998": "Soros, 1998",
+    "Sorting Things Out (1999)": "Sorting Things Out, 1999",
+    "Sorting Things Out, 1999": "Sorting Things Out, 1999",
     "Sosa (1980)": "Sosa, 1980",
     "Sosa et al. (2011)": "Sosa et al., 2011",
     "Sosa et al., 2011": "Sosa et al., 2011",
@@ -47858,6 +47860,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/curriculum/Science and Technology Studies.md",
         "wiki/concepts/sociology-of-education/Data Infrastructure.md"
       ],
       "title": ""
@@ -185736,6 +185739,21 @@
       ],
       "title": ""
     },
+    "Sorting Things Out, 1999": {
+      "aliases": [
+        "Sorting Things Out, 1999",
+        "Sorting Things Out (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sorting Things Out, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/curriculum/Science and Technology Studies.md"
+      ],
+      "title": ""
+    },
     "Sosa et al., 2011": {
       "aliases": [
         "Sosa et al., 2011",
@@ -187355,7 +187373,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md"
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
+        "wiki/concepts/curriculum/Science and Technology Studies.md"
       ],
       "title": ""
     },

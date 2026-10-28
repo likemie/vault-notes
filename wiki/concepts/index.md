@@ -348,7 +348,7 @@ Total entries: **1803**
 > - [[Reading Programs]] — Visible Learning MetaX 因素综合阅读项目、高中综合阅读项目、亲子共读项目、音乐辅助阅读项目、阅读理解项目、特定群体阅读项目、重复阅读项目的条目，归属课程 › 读写与艺术；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Reading Strategies]] — Visible Learning MetaX 因素阅读策略的条目，归属课程 › 读写与艺术；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Regulative and Instructional Discourse]] — 伯恩斯坦提出的课程构建双机制，规约性话语创造秩序、关系和身份，教学性话语包含所选知识及其组织，教学性话语嵌入更强的规约性话语之中
-> - [[Science and Technology Studies]] — 跨学科研究领域，主张科学是一种社会实践，核心关注知识如何被生产、动员、验证和挑战，以共同生产、转译和施行性为关键概念。
+> - [[Science and Technology Studies]] — 跨学科研究领域，主张科学知识与技术媒介是由异质性行动者网络、物质实践与制度权力共同生产的社会技术成就，核心关注知识如何被制造、动员、验证与施行，并在教育治理中表现为指标规程、特许脚本与数据库网络的物质建构。
 > - [[Science Conceptual Change Programs]] — Visible Learning MetaX 因素科学概念转变项目的条目，归属课程 › 数学与科学；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Science Lab Programs]] — Visible Learning MetaX 因素科学实验项目的条目，归属课程 › 数学与科学；目前只收录 MetaX 元分析汇总数据，概念界定待补充。
 > - [[Science Programs]] — Visible Learning MetaX 因素科学项目的条目，归属课程 › 数学与科学；目前只收录 MetaX 元分析汇总数据，概念界定待补充。

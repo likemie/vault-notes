@@ -1,0 +1,692 @@
+{
+  "version": 1,
+  "root": "/Users/shaoyangwu/Documents/MyNotes",
+  "created": "2026-10-28T05:08:46.643455+00:00",
+  "argument": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
+  "argument_hash": "07e9a9a382b740c6ef15a4b4388bc46df17f8a453e74076dc5a03dd1087a5a96",
+  "batches": [
+    {
+      "number": 1,
+      "status": "done",
+      "type": "concept",
+      "template": "wiki/templates/template-concept.md",
+      "entries": [
+        {
+          "title": "Epistemic Infrastructure",
+          "type": "concept",
+          "path": "wiki/concepts/sociology-of-education/Epistemic Infrastructure.md",
+          "aliases": [
+            "认识论基础设施",
+            "认知基础设施",
+            "知识基础设施",
+            "epistemic infrastructures",
+            "认识基础设施"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Geopolitics",
+          "type": "concept",
+          "path": "wiki/concepts/political-economy-geopolitics/Geopolitics.md",
+          "aliases": [
+            "地缘政治",
+            "地缘政治学",
+            "地缘政治视角",
+            "地缘政治分析",
+            "地缘政治理论",
+            "Geopolitical Theory",
+            "Geopolitical Perspective"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Heterogeneity",
+          "type": "concept",
+          "path": "wiki/concepts/research-methodology/Heterogeneity.md",
+          "aliases": [
+            "异质性",
+            "研究间异质性"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Science and Technology Studies",
+          "type": "concept",
+          "path": "wiki/concepts/curriculum/Science and Technology Studies.md",
+          "aliases": [
+            "科学技术研究",
+            "STS"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Paradigm",
+          "type": "concept",
+          "path": "wiki/concepts/educational-philosophy/Paradigm.md",
+          "aliases": [
+            "范式",
+            "paradigms",
+            "Kuhn's paradigm",
+            "研究范式"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ],
+      "finished": "2026-10-28T05:13:37.845052+00:00"
+    },
+    {
+      "number": 2,
+      "status": "pending",
+      "type": "concept",
+      "template": "wiki/templates/template-concept.md",
+      "entries": [
+        {
+          "title": "European Education Space",
+          "type": "concept",
+          "path": "wiki/concepts/comparative-education/European Education Space.md",
+          "aliases": [
+            "欧洲教育空间",
+            "EES",
+            "European educational space",
+            "欧洲教育治理空间"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Knowledge Production",
+          "type": "concept",
+          "path": "wiki/concepts/university-industry-collaboration/Knowledge Production.md",
+          "aliases": [
+            "知识生产",
+            "知识生成",
+            "Knowledge Construction"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Governing by Numbers",
+          "type": "concept",
+          "path": "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md",
+          "aliases": [
+            "数目化治理",
+            "数目化管理",
+            "数字治理",
+            "以数字治理",
+            "按数字治理",
+            "governance by numbers",
+            "Governance by Numbers",
+            "Governance by numbers",
+            "governance by numbers 2.0",
+            "Governance by Numbers 2.0",
+            "数字治理 2.0",
+            "数目化治理 2.0"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Data Infrastructure",
+          "type": "concept",
+          "path": "wiki/concepts/sociology-of-education/Data Infrastructure.md",
+          "aliases": [
+            "数据基础设施",
+            "教育数据基础设施",
+            "Data Assemblage",
+            "数据汇聚体",
+            "digital data infrastructure"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Subsidiarity Principle",
+          "type": "concept",
+          "path": "wiki/concepts/comparative-education/Subsidiarity Principle.md",
+          "aliases": [
+            "辅助性原则",
+            "辅助原则",
+            "Subsidiarity",
+            "Principle of Subsidiarity"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "status": "pending",
+      "type": "concept",
+      "template": "wiki/templates/template-concept.md",
+      "entries": [
+        {
+          "title": "Document",
+          "type": "concept",
+          "path": "wiki/concepts/research-methodology/Document.md",
+          "aliases": [
+            "documentary source",
+            "文献",
+            "文献源"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Professional Judgment",
+          "type": "concept",
+          "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md",
+          "aliases": [
+            "专业判断",
+            "专业判断力"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Peer Pressure",
+          "type": "concept",
+          "path": "wiki/concepts/political-economy-geopolitics/Peer Pressure.md",
+          "aliases": [
+            "同行压力",
+            "同侪压力",
+            "peer pressure in policy governance"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Gatekeepers",
+          "type": "concept",
+          "path": "wiki/concepts/research-methodology/Gatekeepers.md",
+          "aliases": [
+            "守门人",
+            "把关人",
+            "gatekeeper",
+            "研究准入把关人",
+            "变革把关人",
+            "政策把关人",
+            "循证学校把关人",
+            "制度把关人",
+            "跨国知识把关人",
+            "依附性把关人"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Discourse",
+          "type": "concept",
+          "path": "wiki/concepts/research-methodology/Discourse.md",
+          "aliases": [
+            "话语",
+            "话语实践",
+            "Discursive Practice",
+            "Discursive Recontextualisation"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "status": "pending",
+      "type": "concept",
+      "template": "wiki/templates/template-concept.md",
+      "entries": [
+        {
+          "title": "Champ",
+          "type": "concept",
+          "path": "wiki/concepts/sociology-of-education/Champ.md",
+          "aliases": [
+            "场域",
+            "field"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "State Educational Sovereignty",
+          "type": "concept",
+          "path": "wiki/concepts/comparative-education/State Educational Sovereignty.md",
+          "aliases": [
+            "国家教育权",
+            "国家教育主权",
+            "state right to educate",
+            "教育国家化",
+            "教育为国家公共资源",
+            "education as a public resource"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        },
+        {
+          "title": "Commensuration",
+          "type": "concept",
+          "path": "wiki/concepts/sociology-of-education/Commensuration.md",
+          "aliases": [
+            "通约",
+            "数量通约化",
+            "通约化",
+            "价值通约",
+            "commensuration process"
+          ],
+          "discovered_by": [
+            "related_concepts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "status": "pending",
+      "type": "theory",
+      "template": "wiki/templates/template-theory.md",
+      "entries": [
+        {
+          "title": "Governing at a Distance",
+          "type": "theory",
+          "path": "wiki/theories/political-economy-geopolitics/Governing at a Distance.md",
+          "aliases": [
+            "远处治理",
+            "远距治理",
+            "遥控治理",
+            "远程治理",
+            "governing from a distance",
+            "governance at a distance",
+            "action at a distance"
+          ],
+          "discovered_by": [
+            "related_theories",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "status": "pending",
+      "type": "method",
+      "template": "wiki/templates/template-method.md",
+      "entries": [
+        {
+          "title": "In-depth Interview",
+          "type": "method",
+          "path": "wiki/methods/qualitative/In-depth Interview.md",
+          "aliases": [
+            "深度访谈",
+            "in-depth interviews"
+          ],
+          "discovered_by": [
+            "related_methods",
+            "body"
+          ]
+        },
+        {
+          "title": "Analytic Framework",
+          "type": "method",
+          "path": "wiki/methods/qualitative/Analytic Framework.md",
+          "aliases": [
+            "分析框架",
+            "analytic tradition",
+            "analytic frameworks in qualitative research",
+            "理论分析框架"
+          ],
+          "discovered_by": [
+            "related_methods",
+            "body"
+          ]
+        },
+        {
+          "title": "Discourse Analysis",
+          "type": "method",
+          "path": "wiki/methods/qualitative/Discourse Analysis.md",
+          "aliases": [
+            "话语分析"
+          ],
+          "discovered_by": [
+            "related_methods",
+            "body"
+          ]
+        },
+        {
+          "title": "Elite Interview",
+          "type": "method",
+          "path": "wiki/methods/qualitative/Elite Interview.md",
+          "aliases": [
+            "精英访谈",
+            "高层访谈",
+            "关键知情人访谈",
+            "elite interviewing",
+            "elite interview method"
+          ],
+          "discovered_by": [
+            "related_methods",
+            "body"
+          ]
+        },
+        {
+          "title": "Snowball Sampling",
+          "type": "method",
+          "path": "wiki/methods/qualitative/Snowball Sampling.md",
+          "aliases": [
+            "滚雪球抽样",
+            "snowball sample",
+            "链式转介法",
+            "chain-referral sampling",
+            "受访者驱动抽样",
+            "respondent-driven sampling"
+          ],
+          "discovered_by": [
+            "related_methods",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "status": "pending",
+      "type": "method",
+      "template": "wiki/templates/template-method.md",
+      "entries": [
+        {
+          "title": "Transcription in Qualitative Research",
+          "type": "method",
+          "path": "wiki/methods/qualitative/Transcription in Qualitative Research.md",
+          "aliases": [
+            "转录",
+            "质性研究转录",
+            "interview transcription",
+            "Verbatim Transcription",
+            "逐字转录"
+          ],
+          "discovered_by": [
+            "related_methods",
+            "body"
+          ]
+        },
+        {
+          "title": "Ethnography",
+          "type": "method",
+          "path": "wiki/methods/qualitative/Ethnography.md",
+          "aliases": [
+            "民族志",
+            "人种志",
+            "人类学研究",
+            "民族志研究",
+            "ethnographic research"
+          ],
+          "discovered_by": [
+            "related_methods",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "status": "pending",
+      "type": "instrument",
+      "template": "wiki/templates/template-instrument.md",
+      "entries": [
+        {
+          "title": "Epistemological Understanding Assessment",
+          "type": "instrument",
+          "path": "wiki/instruments/questionnaires/Epistemological Understanding Assessment.md",
+          "aliases": [
+            "EUA",
+            "认识论理解评估工具"
+          ],
+          "discovered_by": [
+            "related_instruments",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "status": "pending",
+      "type": "person",
+      "template": "wiki/templates/template-person.md",
+      "entries": [
+        {
+          "title": "Sotiria Grek",
+          "type": "person",
+          "path": "wiki/persons/uk/Sotiria Grek.md",
+          "aliases": [
+            "索蒂丽亚·格雷克",
+            "S. Grek"
+          ],
+          "discovered_by": [
+            "related_persons",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "status": "pending",
+      "type": "fact",
+      "template": "wiki/templates/template-fact-policy.md",
+      "entries": [
+        {
+          "title": "Bologna Process",
+          "type": "fact",
+          "path": "wiki/facts/europe/Bologna Process.md",
+          "aliases": [
+            "博洛尼亚进程",
+            "博洛尼亚宣言",
+            "Bologna Declaration",
+            "European Higher Education Area",
+            "EHEA"
+          ],
+          "subtype": "policy",
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        },
+        {
+          "title": "European Standards and Guidelines",
+          "type": "fact",
+          "path": "wiki/facts/eu/European Standards and Guidelines.md",
+          "aliases": [
+            "ESG",
+            "ESG 2015",
+            "欧洲高等教育区质量保障标准与准则",
+            "Standards and Guidelines for Quality Assurance in the European Higher Education Area"
+          ],
+          "subtype": "policy",
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        },
+        {
+          "title": "European Education Area",
+          "type": "fact",
+          "path": "wiki/facts/eu/European Education Area.md",
+          "aliases": [
+            "欧洲教育区",
+            "EEA",
+            "European Education Area 2025"
+          ],
+          "subtype": "policy",
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "status": "pending",
+      "type": "fact",
+      "template": "wiki/templates/template-fact-organization.md",
+      "entries": [
+        {
+          "title": "European Association for Quality Assurance in Higher Education",
+          "type": "fact",
+          "path": "wiki/facts/eu/European Association for Quality Assurance in Higher Education.md",
+          "aliases": [
+            "ENQA",
+            "欧洲高等教育质量保障协会",
+            "欧洲高等教育质量保障网络",
+            "European Network for Quality Assurance in Higher Education"
+          ],
+          "subtype": "organization",
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        },
+        {
+          "title": "European Quality Assurance Register for Higher Education",
+          "type": "fact",
+          "path": "wiki/facts/eu/European Quality Assurance Register for Higher Education.md",
+          "aliases": [
+            "EQAR",
+            "欧洲高等教育质量保障注册局",
+            "欧洲高等教育质量保障注册中心"
+          ],
+          "subtype": "organization",
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        },
+        {
+          "title": "European Commission",
+          "type": "fact",
+          "path": "wiki/facts/eu/European Commission.md",
+          "aliases": [
+            "欧盟委员会",
+            "欧洲联盟委员会",
+            "欧委会",
+            "EC"
+          ],
+          "subtype": "organization",
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        },
+        {
+          "title": "OECD",
+          "type": "fact",
+          "path": "wiki/facts/global/OECD.md",
+          "aliases": [
+            "经济合作与发展组织",
+            "Organisation for Economic Co-operation and Development",
+            "经合组织"
+          ],
+          "subtype": "organization",
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        },
+        {
+          "title": "EU",
+          "type": "fact",
+          "path": "wiki/facts/eu/EU.md",
+          "aliases": [
+            "European Union",
+            "欧洲联盟",
+            "欧盟",
+            "European Community",
+            "欧洲共同体"
+          ],
+          "subtype": "organization",
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "status": "pending",
+      "type": "fact",
+      "template": "wiki/templates/template-fact-program.md",
+      "entries": [
+        {
+          "title": "European Tertiary Education Register",
+          "type": "fact",
+          "path": "wiki/facts/eu/European Tertiary Education Register.md",
+          "aliases": [
+            "ETER",
+            "欧洲高等教育机构注册库",
+            "欧洲高等教育机构注册表"
+          ],
+          "subtype": "program",
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        },
+        {
+          "title": "Database of External Quality Assurance Results",
+          "type": "fact",
+          "path": "wiki/facts/eu/Database of External Quality Assurance Results.md",
+          "aliases": [
+            "DEQAR",
+            "外部质量保障结果数据库"
+          ],
+          "subtype": "program",
+          "discovered_by": [
+            "related_facts",
+            "body"
+          ]
+        }
+      ]
+    }
+  ]
+}

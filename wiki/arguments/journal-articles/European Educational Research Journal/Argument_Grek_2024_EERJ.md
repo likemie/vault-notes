@@ -78,9 +78,9 @@ title: "Argument_Grek_2024_EERJ"
 argument_key: "Argument_Grek_2024_EERJ"
 argument_display_title: "Beyond Bologna? Infrastructuring quality in European higher education"
 argument_kind: "journal-article"
-argument_related_count: 19
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 39
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "European Educational Research Journal"
 book_title: ""
