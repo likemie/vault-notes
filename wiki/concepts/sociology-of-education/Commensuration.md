@@ -9,7 +9,7 @@ aliases:
 summary: "将不同性质的异质事物转化为基于同一通用尺度或公分母的标准化可比量化指标的社会过程，为跨情境绩效评价与资源配置确立形式公平，但伴随着质性情境剥离、统计公平与地域公平冲突及策略性博弈操纵等治理代价"
 type: concept
 domain: "sociology-of-education"
-related_count: 36
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -236,3 +236,4 @@ updated: 2026-10-28
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 揭示经合组织如何通过通约技术构建等值空间，将异质教育传统化约为通用标尺以实现跨国软治理。
 > - [[Argument_Larsen_2019_EducSci|Larsen (2019)]] — 批判可见学习以效应量为公分母将多元教育过程通约化，阐明数量通约对师生具身关系与漫长教化过程的遮蔽。
 > - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 将跨国通约性界定为 PISA 规制权威的三大技术支柱之一，揭示其依托等价空间排位将新自由主义绩效治理包装为中立测量事实的机制。
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 阐释欧洲高等教育区如何依托 ESG 元标准与 DEQAR 数据库构建通约公分母，将各国异质质保体制转化为全欧可比与自动互认的等值空间。

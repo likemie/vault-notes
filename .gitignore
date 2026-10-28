@@ -30,3 +30,6 @@ books/**/*.EPUB
 
 # Local Claude Code settings (machine-specific)
 .claude/settings.local.json
+
+# Personal files (signature etc.), never pushed.
+private/
