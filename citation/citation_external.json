@@ -16496,8 +16496,6 @@
     "Moynihan Report, 1965": "Moynihan Report, 1965",
     "Mubarok (2017)": "Mubarok, 2017",
     "Mubarok, 2017": "Mubarok, 2017",
-    "Muhr (2010)": "Muhr, 2010",
-    "Muhr, 2010": "Muhr, 2010",
     "Muhtadi et al. (2022a)": "Muhtadi et al., 2022a",
     "Muhtadi et al. (2022b)": "Muhtadi et al., 2022b",
     "Muhtadi et al., 2022": "Muhtadi et al., 2022a",
@@ -18218,8 +18216,6 @@
     "Perkmann et al., 2013": "Perkmann et al., 2013",
     "Perlow et al. (2017)": "Perlow et al., 2017",
     "Perlow et al., 2017": "Perlow et al., 2017",
-    "Perrotta (2016)": "Perrotta, 2016",
-    "Perrotta, 2016": "Perrotta, 2016",
     "Perry & Morris (2023)": "Perry & Morris, 2023",
     "Perry & Morris, 2023": "Perry & Morris, 2023",
     "Perry & Southwell (2011)": "Perry & Southwell, 2011",
@@ -19611,7 +19607,6 @@
     "Robertson & Dale, 2015": "Robertson & Dale, 2015",
     "Robertson & Olds (2023)": "Robertson & Olds, 2023",
     "Robertson & Olds, 2023": "Robertson & Olds, 2023",
-    "Robertson (2008)": "Robertson, 2008",
     "Robertson (2010)": "Robertson, 2010",
     "Robertson (2012)": "Robertson, 2012",
     "Robertson (2014)": "Robertson, 2014",
@@ -19620,7 +19615,6 @@
     "Robertson et al. (2016)": "Robertson et al., 2016",
     "Robertson et al., 2002": "Robertson et al., 2002",
     "Robertson et al., 2016": "Robertson et al., 2016",
-    "Robertson, 2008": "Robertson, 2008",
     "Robertson, 2010": "Robertson, 2010",
     "Robertson, 2012": "Robertson, 2012",
     "Robertson, 2014": "Robertson, 2014",
@@ -52484,7 +52478,8 @@
       ],
       "isbn": "978-0-19-968230-0",
       "seen_in": [
-        "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md"
+        "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md",
+        "wiki/concepts/higher-education/Global Regionalisms.md"
       ],
       "title": "The Oxford handbook of comparative regionalism"
     },
@@ -109782,7 +109777,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_Springer.md",
-        "wiki/concepts/higher-education/Global Regionalisms.md",
         "wiki/concepts/political-economy-geopolitics/Regulatory Regionalism.md"
       ],
       "title": ""
@@ -146538,21 +146532,6 @@
       "seen_in": [],
       "title": "Cooperative Integrated Reading and Composition (CIRC) and Reading Motivation  Examining The Effect on Students’ Reading Ability"
     },
-    "Muhr, 2010": {
-      "aliases": [
-        "Muhr, 2010",
-        "Muhr (2010)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Muhr, 2010"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/Global Regionalisms.md"
-      ],
-      "title": ""
-    },
     "Muhtadi et al., 2022a": {
       "aliases": [
         "Muhtadi et al., 2022a",
@@ -159151,21 +159130,6 @@
       ],
       "title": ""
     },
-    "Perrotta, 2016": {
-      "aliases": [
-        "Perrotta, 2016",
-        "Perrotta (2016)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Perrotta, 2016"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/Global Regionalisms.md"
-      ],
-      "title": ""
-    },
     "Perry & Morris, 2023": {
       "aliases": [
         "Perry & Morris, 2023",
@@ -169329,21 +169293,6 @@
       ],
       "title": ""
     },
-    "Robertson, 2008": {
-      "aliases": [
-        "Robertson, 2008",
-        "Robertson (2008)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Robertson, 2008"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/higher-education/Global Regionalisms.md"
-      ],
-      "title": ""
-    },
     "Robertson, 2010": {
       "aliases": [
         "Robertson, 2010",
@@ -169356,7 +169305,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_Springer.md",
-        "wiki/concepts/higher-education/Global Regionalisms.md",
         "wiki/concepts/political-economy-geopolitics/Regulatory Regionalism.md"
       ],
       "title": ""
