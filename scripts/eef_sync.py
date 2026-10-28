@@ -1064,8 +1064,23 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
                 lines.append(f"> > > | {esc(analysis['analysis'])} | {esc(value)} |")
             if r.get("additional_analysis_note"):
                 lines += ["> > >", "> > > " + esc(r["additional_analysis_note"])]
+        for section in r.get("supplementary_sections", []):
+            kind = "figure" if section.get("image_url") else "ref-table"
+            lines += ["> >", f"> > > [!{kind}]- {esc(section['title'])}"]
+            if section.get("rows"):
+                lines += ["> > > | k | v |", "> > > | --- | --- |"]
+                lines += [f"> > > | {esc(key)} | {esc(value)} |" for key, value in section["rows"]]
+            if section.get("image_url"):
+                lines.append(f"> > > ![]({section['image_url']})")
+            for paragraph in section.get("paragraphs", []):
+                lines += ["> > >", "> > > " + paragraph]
         notes += [f"**{label}** {esc(n)}" for n in r.get("review_notes", [])]
-        discrepancies += [f"**{label}** {esc(n)}" for n in r.get("source_discrepancies", [])]
+        trial_discrepancies = r.get("source_discrepancies", [])
+        if trial_discrepancies and r.get("discrepancies_in_trial"):
+            lines += ["> >", f"> > > [!eef-errata]- {len(trial_discrepancies)} 项报告记载差异"]
+            lines += ["> > > - " + esc(note) for note in trial_discrepancies]
+        else:
+            discrepancies += [f"**{label}** {esc(n)}" for n in trial_discrepancies]
     notes = [esc(n) for n in p.get("review_notes", [])] + notes
     notes += [esc(e.get("note", "")) for e in errata if e.get("programme") == slug]
     notes += programme_checks(p)
