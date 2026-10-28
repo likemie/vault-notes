@@ -280,5 +280,11 @@
       "sentence": "And, 'these are the targets we want to reach'.",
       "target": "wiki/facts/uk/Reach.md"
     }
+  ],
+  "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md": [
+    {
+      "sentence": "**制度渊源与研制授权** 2003 年博洛尼亚进程柏林公报明确提出质量保障是欧洲高等教育区的核心命脉，授权由 ENQA 联合欧洲学生联盟（European Students' Union, ESU）、欧洲大学协会（European University Association, EUA）与欧洲高等教育机构协会（European Association of Institutions in Higher Education, EURASHE）构成的四方协商网络（E4 Group，简称 E4 集团）研制全欧标准，于 2005 年卑尔根部长级会议正式通过。",
+      "target": "wiki/instruments/questionnaires/Epistemological Understanding Assessment.md"
+    }
   ]
 }

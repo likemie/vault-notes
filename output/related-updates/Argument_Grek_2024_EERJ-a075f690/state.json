@@ -433,7 +433,7 @@
     },
     {
       "number": 7,
-      "status": "pending",
+      "status": "done",
       "type": "method",
       "template": "wiki/templates/template-method.md",
       "entries": [
@@ -469,11 +469,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-28T05:46:48.267898+00:00"
     },
     {
       "number": 8,
-      "status": "pending",
+      "status": "done",
       "type": "instrument",
       "template": "wiki/templates/template-instrument.md",
       "entries": [
@@ -490,11 +491,12 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-28T05:49:09.476900+00:00"
     },
     {
       "number": 9,
-      "status": "pending",
+      "status": "done",
       "type": "person",
       "template": "wiki/templates/template-person.md",
       "entries": [
@@ -511,7 +513,8 @@
             "body"
           ]
         }
-      ]
+      ],
+      "finished": "2026-10-28T05:53:51.631199+00:00"
     },
     {
       "number": 10,
