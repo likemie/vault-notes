@@ -53,7 +53,7 @@ updated: 2026-10-29
 ---
 
 > [!info] 定义
-> 全球高等教育区域主义指高等教育被整合进世界各地区大规模政治经济区域整合项目的现象。作为一种[[Geopolitics|地缘政治]]协调形式，区域主义旨在通过正式的制度建设项目或政策（如 [[EU]]、[[ASEAN]] 等区域国际组织）来创建、维持或修改世界区域的秩序（Thompson & Parreira do Amaral, 2022, p.11）。周孟萱（Meng-Hsuan Chou）与波琳·拉维内（Pauline Ravinet）将其界定为包含国家权威（国家、超国家或国际层面）参与的区域建构政治项目，由该权威界定并划分相关活动所延伸的地理区域（[[Argument_Chou_2017_PolSoc|Chou & Ravinet, 2017, p. 144]]）。
+> 全球高等教育区域主义指高等教育被整合进世界各地区大规模政治经济区域整合项目的现象。作为一种[[Geopolitics|地缘政治]]协调形式，区域主义旨在通过正式的制度建设项目或政策（如 [[EU]]、[[ASEAN]] 等区域国际组织）来创建、维持或修改世界区域的秩序（Thompson & Parreira do Amaral, 2022, p.11）。周孟萱（Meng-Hsuan Chou）与波琳·拉维内（Pauline Ravinet）将其界定为包含国家权威（国家、超国家或国际层面）参与的区域建构政治项目，由该权威界定并划分相关活动所延伸的地理区域[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 144)]]。
 >
 
 > [!example] 概念辨析
@@ -94,12 +94,12 @@ updated: 2026-10-29
 > [!success] 实证发现
 > - [[EU|欧盟]]层面：过去 20 年间大多数与科学、教育和培训相关的政策在欧盟理事会确立"成为全球最具[[Competitiveness|竞争力]][[Knowledge-Based Economy\|知识经济]]体"目标后制定；教育研究在 Horizon 2020 框架中被整合为横向议题，直接为政策制定提供证据基础（Thompson & Parreira do Amaral, 2022, pp.11–12）
 > - [[Horizon Europe]] (2021–) 进一步深化了这种"嵌入式"逻辑，SSH 研究被要求服务于"Europe's missions"（如抗击癌症、适应气候变化等），加剧了学科间的层级化分工（Thompson & Parreira do Amaral, 2022, pp.11–12）
-> - [[ASEAN|东盟]]与东南亚层面：东南亚高等教育区域合作采取多元主体并存的分工格局，由[[ASEAN University Network|东盟大学联盟]]（AUN）承担旗舰大学间的学科结网与学分互认，由[[SEAMEO RIHED]]承担政府间高教政策协调，通过非约束性协商推进区域高等教育空间建设（[[Argument_Chou_2017_PolSoc|Chou & Ravinet, 2017, pp. 151–154]]）。
+> - [[ASEAN|东盟]]与东南亚层面：东南亚高等教育区域合作采取多元主体并存的分工格局，由[[ASEAN University Network|东盟大学联盟]]（AUN）承担旗舰大学间的学科结网与学分互认，由[[SEAMEO RIHED]]承担政府间高教政策协调，通过非约束性协商推进区域高等教育空间建设[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–154)]]。
 >
 
 > [!warning] 争议与批评
 > - 区域主义框架可能将高等教育缩减为经济竞争的工具，忽略其文化、民主和伦理功能（Thompson & Parreira do Amaral, 2022, pp.12–13）
 > - 区域主义研究多以西方（尤其是[[EU|欧盟]]）经验为中心，其他区域的分析相对不足
-> - **博洛尼亚进程输出假说的经验局限** 比较区域主义常预设欧洲高等教育趋同模式通过政策借鉴、竞争或模仿向全球单向扩散；实地调研表明东南亚决策机构基于对[[State Educational Sovereignty|国家教育主权]]的审慎维护，明确拒绝将博洛尼亚模式作为区域模板，坚持以本土现实为基准的务实协调机制（[[Argument_Chou_2017_PolSoc|Chou & Ravinet, 2017, pp. 153–156]]）。
+> - **博洛尼亚进程输出假说的经验局限** 比较区域主义常预设欧洲高等教育趋同模式通过政策借鉴、竞争或模仿向全球单向扩散；实地调研表明东南亚决策机构基于对[[State Educational Sovereignty|国家教育主权]]的审慎维护，明确拒绝将博洛尼亚模式作为区域模板，坚持以本土现实为基准的务实协调机制[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–156)]]。
 >
 
