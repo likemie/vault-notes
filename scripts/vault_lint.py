@@ -301,7 +301,7 @@ APA_INVERTED_PERSON_RE = re.compile(
 ORGANIZATION_CREATOR_RE = re.compile(
     r"\b(?:academy|agency|assessment|association|board|center|centre|college|commission|company|"
     r"corporation|council|department|foundation|group|institute|laboratory|ministry|office|"
-    r"organization|service|society|university)\b",
+    r"organization|service|society|team|university)\b",
     re.IGNORECASE,
 )
 

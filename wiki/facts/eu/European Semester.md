@@ -11,9 +11,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 20
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "European Commission"
 tags:
@@ -26,23 +26,16 @@ tags:
 related_concepts:
   - "[[Open Method of Coordination]]"
   - "[[Subsidiarity Principle]]"
-  - "[[Governing by Numbers]]"
   - "[[Performance Indicators]]"
-  - "[[Human Capital Theory]]"
-  - "[[Competitiveness]]"
-  - "[[Academic Attrition]]"
 related_theories:
-  - "[[Discursive Institutionalism]]"
-related_methods:
-  - "[[Documentary Analysis]]"
-  - "[[Elite Interview]]"
+  - "[[Human Capital Theory]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[European Commission]]"
   - "[[EU]]"
   - "[[Europe 2020 Strategy]]"
-  - "[[Lisbon Strategy]]"
   - "[[European Education Area]]"
   - "[[EU Skills Agenda]]"
   - "[[Education and Training 2020]]"

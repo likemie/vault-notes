@@ -7,6 +7,11 @@ aliases:
   - 思想权力
 summary: "政治学与话语制度主义中用以解释思想理念如何塑造政治行为与制度选择的核心分析框架，由马丁·卡斯滕森与薇薇安·施密特系统建构；涵盖通过理念行使权力（说服与规范吸引）、支配理念之权力（控制意义与议程排他）以及内置于理念之权力（制度化结构的先验权威）三元维度，揭示了理念如何依托制度合法性与话语互动转化为实质性的政治统治力量。"
 type: concept
+domain: "political-economy-geopolitics"
+related_count: 3
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/political-economy
   - concept/discursive-institutionalism
@@ -14,22 +19,12 @@ tags:
   - theme/policy-ideas
 related_concepts:
   - "[[Knowledge Power]]"
-  - "[[Discourse]]"
-  - "[[Governing by Numbers]]"
   - "[[Soft Power]]"
-  - "[[Hard Power]]"
-  - "[[Paradigm]]"
-related_theories:
-  - "[[Discursive Institutionalism]]"
-related_methods:
-  - "[[Documentary Analysis]]"
-  - "[[Elite Interview]]"
+related_theories: []
+related_methods: []
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[European Education Area]]"
-  - "[[Open Method of Coordination]]"
-  - "[[Lifelong Learning]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
 confidence: high
@@ -113,8 +108,8 @@ updated: 2026-10-28
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **制度结构约束命题** | 内置于理念之权力能够抵御行政官僚的自发颠覆企图 | 具有悠久合作历史与多边条约基础的跨国政策领域 | Alexiadou and Rambla (2023); Carstensen and Schmidt (2016) |
-> | **规则赋能排他命题** | 制度规则决定了行动者行使支配理念权力的强度 | 实行共识决或拥有一票否决权的多边审议机构 | Alexiadou and Rambla (2023) |
+> | **制度结构约束命题** | 内置于理念之权力能够抵御行政官僚的自发颠覆企图 | 具有悠久合作历史与多边条约基础的跨国政策领域 | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]]; Carstensen and Schmidt (2016) |
+> | **规则赋能排他命题** | 制度规则决定了行动者行使支配理念权力的强度 | 实行共识决或拥有一票否决权的多边审议机构 | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] |
 
 ---
 

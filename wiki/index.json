@@ -12664,6 +12664,17 @@
     ]
   },
   {
+    "title": "Ideational Power",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Ideational Power.md",
+    "aliases": [
+      "理念权力",
+      "观念权力",
+      "Power of Ideas",
+      "思想权力"
+    ]
+  },
+  {
     "title": "Ideological Capture of Science",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Ideological Capture of Science.md",
@@ -28190,6 +28201,15 @@
     ]
   },
   {
+    "title": "Nafsika Alexiadou",
+    "type": "person",
+    "path": "wiki/persons/sweden/Nafsika Alexiadou.md",
+    "aliases": [
+      "Alexiadou, N.",
+      "纳夫西卡·亚历克夏杜"
+    ]
+  },
+  {
     "title": "Torsten Husén",
     "type": "person",
     "path": "wiki/persons/sweden/Torsten Husén.md",
@@ -33427,6 +33447,19 @@
     "subtype": "policy"
   },
   {
+    "title": "Education and Training 2020",
+    "type": "fact",
+    "path": "wiki/facts/eu/Education and Training 2020.md",
+    "aliases": [
+      "教育与培训 2020",
+      "ET 2020",
+      "Strategic Framework for European Cooperation in Education and Training",
+      "ET2020",
+      "教育与培训2020战略框架"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "EU Evidence-Informed Education Policy Initiatives",
     "type": "fact",
     "path": "wiki/facts/eu/EU Evidence-Informed Education Policy Initiatives.md",
@@ -33508,6 +33541,18 @@
     "subtype": "policy"
   },
   {
+    "title": "European Pillar of Social Rights",
+    "type": "fact",
+    "path": "wiki/facts/eu/European Pillar of Social Rights.md",
+    "aliases": [
+      "欧洲社会权利支柱",
+      "欧洲社会权利支柱框架",
+      "European Pillar of Social Rights (EPSR)",
+      "EPSR"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "European Qualifications Framework",
     "type": "fact",
     "path": "wiki/facts/eu/European Qualifications Framework.md",
@@ -33517,6 +33562,18 @@
       "欧洲资格框架",
       "欧洲高等教育区资格框架",
       "European Qualifications Framework for Lifelong Learning"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "European Semester",
+    "type": "fact",
+    "path": "wiki/facts/eu/European Semester.md",
+    "aliases": [
+      "欧洲学期",
+      "EU Semester",
+      "European Semester for Economic Policy Coordination",
+      "欧洲政策协调学期"
     ],
     "subtype": "policy"
   },
@@ -44919,6 +44976,16 @@
     "title": "Argument_Cowen_2015_CHESS",
     "type": "argument",
     "path": "wiki/arguments/reports-policy-documents/Argument_Cowen_2015_CHESS.md"
+  },
+  {
+    "title": "Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol.md"
+  },
+  {
+    "title": "Argument_Skipp_Tanner_2015_EEF",
+    "type": "argument",
+    "path": "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md"
   },
   {
     "title": "Argument_Bergeron_2015_TeachingTOK",

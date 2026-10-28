@@ -1,5 +1,4 @@
 ---
-title: "Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol"
 summary: "记录后续学校集群随机试验的计划方案，区分目标样本、干预剂量与实际网页结果"
 type: "argument"
 authors: ["Behavioural Insights Team"]
@@ -7,21 +6,35 @@ source_language: "en"
 citation: "Behavioural Insights Team. (2016). Visible Classroom [Evaluation protocol; PDF created 14 September 2016]. Education Endowment Foundation."
 year: 2016
 doi: ""
+citation_aliases:
+  - "Behavioural Insights Team, 2016"
+  - "Behavioural Insights Team (2016)"
 isbn: ""
-citation_aliases: []
 tags: ["eef", "visible-classroom", "teacher-professional-development"]
 related_concepts: []
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Cluster Randomized Trials]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Visible Classroom Programme]]"
 related_arguments: []
+sources:
+  - "[[sources/BehaviouralInsightsTeam_2016_VisibleClassroomProtocol|BehaviouralInsightsTeam_2016_VisibleClassroomProtocol]]"
 status: "active"
 created: "2026-10-28"
 updated: "2026-10-28"
 subtype: "report"
 publication_type: "report"
+title: "Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol"
+argument_key: "Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol"
+argument_display_title: "Visible Classroom [Evaluation protocol; PDF created 14 September 2016]"
+argument_kind: "report"
+argument_related_count: 2
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dcfce7"
 publisher: "Education Endowment Foundation"
 issuing_organization: "Education Endowment Foundation"
 ---

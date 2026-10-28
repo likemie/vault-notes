@@ -6,7 +6,7 @@ aliases:
 summary: "由墨尔本大学与 Ai-Media 联合研发的课堂移动端语音即时转录与自动编码系统，3 秒内生成言语记录并反馈师生互动指标，用于诊断教师课堂知觉盲区"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 6
+instrument_related_count: 7
 instrument_related_level: 0
 instrument_related_stars: "☆"
 instrument_related_color: "#cffafe"
@@ -39,11 +39,12 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments:
+  - "[[Argument_Skipp_Tanner_2015_EEF]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
 confidence: high
 status: stable
 created: 2026-10-19
-updated: 2026-10-20
+updated: 2026-10-28
 ---
 
 （可见课堂）
@@ -55,6 +56,54 @@ updated: 2026-10-20
 > - **开发者与年份** University of Melbourne and Ai-Media (2013)。
 > - **测量目的** 用于诊断教师课堂言语知觉偏差、监测师生言语时间分配并为教学反思提供量化镜像。
 > - **实施方式** 教师佩戴智能手机或随身音频采集设备，通过移动网络传输音频并借助实时语音转录技术与算法仪表盘生成自动化反馈。
+
+---
+
+### 2014 年英国试点的人工转写与编码
+
+> [!instrument-profile] 人工实时转写与教学行为编码
+> 教师声音传给英国转写员，转写文本再由编码员按教学实践评价准则记录频次。每份转写分配十五至三十分钟编码时间；新编码员与有经验编码员在练习材料上达到至少 80% 一致后开始正式编码，项目经理核查数据。学生原声不进入转写文本。[[Argument_Skipp_Tanner_2015_EEF|(Skipp & Tanner, 2015, pp. 6, 9, 29)]]
+
+> [!observation-focus]- 教学实践编码准则（表 A1）
+>
+> | 编号 | 观察项目 | 编码内容 |
+> | --- | --- | --- |
+> | 1 | 深化理解 | 通过开放问题和持续对话联系已有知识与新观点。 |
+> | 2 | 支架活动与合作 | 安排同伴合作和支架活动。 |
+> | 3 | 联系真实世界 | 帮助学生联系现实情境。 |
+> | 4 | 聚合式提问 | 通过封闭问题检查事实记忆或唯一答案。 |
+> | 5 | 回顾 | 在课堂开始或过程中回顾已有概念。 |
+> | 6 | 重复学生表述 | 回答前重复学生的评论或问题。 |
+> | 7 | 积极课堂环境 | 支持学生自发提出与任务内容有关的问题和反馈。 |
+> | 8 | 指令 | 提供完成任务的分步说明。 |
+> | 9 | 提示与追问 | 通过问题或陈述引出适当回应。 |
+> | 10 | 总结 | 归纳要点并提供后续参与机会。 |
+> | 11 | 行为要求 | 说明行为期望并作提醒。 |
+> | 12 | 引入与解释 | 解释复杂词汇，以具体例子帮助理解抽象概念。 |
+> | 13 | 资源 | 使用文字、视觉或声音资源支持学习。 |
+> | 14 | 重点 | 强调重要内容。 |
+> | 15 | 反馈 | 向学生或小组提供即时、具体且具有纠正作用的反馈。 |
+> | 16 | 目标与成功标准 | 说明教学目的和预期结果，并在过程中回到目标。 |
+>
+> 各项以课堂行为出现频次进入数据库，包含课次、学科、时长与反馈前后标记；按项目分别统计频次，未报告等级总分。[[Argument_Skipp_Tanner_2015_EEF|(Skipp & Tanner, 2015, pp. 29–30)]]
+
+> [!figure]- 图 A1：第一期教师个人课堂统计界面
+> ![](https://img.mylikemie.icu/sources/Skipp_Tanner_2015_EEF/figures/Skipp_Tanner_2015_EEF_FigA1_Dashboard.jpg)
+
+> [!ref-table]- 第一期课后小组反馈界面
+>
+> | 题目 | 界面作答形式 | 填写单位 |
+> | --- | --- | --- |
+> | 评价本课学习质量 | 一至五星 | 共享平板的学生小组 |
+> | 评价本课字幕质量 | 一至五星 | 学生小组 |
+> | 教师清楚解释困难内容 | 从强烈不同意到强烈同意，共六级 | 学生小组 |
+> | 喜欢本课的学习方式 | 六级同意选项 | 学生小组 |
+> | 困惑时教师知道如何帮助理解 | 六级同意选项 | 学生小组 |
+>
+> 正文概述为五点量尺，附录界面显示前两题五星评分、后三题六级同意选项；小组共同填答也限制了把答案解释为个人体验。[[Argument_Skipp_Tanner_2015_EEF|(Skipp & Tanner, 2015, pp. 17–18, 32–33)]]
+
+> [!figure]- 图 A2：第一期课后学生小组问卷界面
+> ![](https://img.mylikemie.icu/sources/Skipp_Tanner_2015_EEF/figures/Skipp_Tanner_2015_EEF_FigA2_PupilSurvey.jpg)
 
 ---
 
@@ -93,6 +142,7 @@ updated: 2026-10-20
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
+> | [[Argument_Skipp_Tanner_2015_EEF\|(Skipp & Tanner, 2015, pp. 8–12, 29–35)]] | 英国 2014 年发展性试点 | 10 所小学、36 名教师；用人工转写、行为频次编码与课堂反馈支持教师学习 | 编码训练一致率至少 80%，未提供量表信效度系数 | 独立过程评估没有检验学业效果；附录另载干预团队的描述性实践分析 |
 > | [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] | 手机移动端应用程序 | 7,000–8,000 名一线中小学教师，用于课堂言语知觉偏差实测与反馈 | 3 秒语音极速文字[[Transcription in Qualitative Research\|转录]]与自动化分类编码 | 证实一线教师普遍自估发言仅占 20%–30%，但客观系统实测证实教师实际讲话时长高达 70%–80% |
 
 ---

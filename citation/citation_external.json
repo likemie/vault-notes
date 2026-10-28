@@ -476,6 +476,8 @@
     "Alexander, 2020": "Alexander, 2020",
     "Alexandra Wigdor (1998)": "Alexandra Wigdor, 1998",
     "Alexandra Wigdor, 1998": "Alexandra Wigdor, 1998",
+    "Alexiadou (2001)": "Alexiadou, 2001",
+    "Alexiadou, 2001": "Alexiadou, 2001",
     "Alfano (2020)": "Alfano, 2020",
     "Alfano, 2020": "Alfano, 2020",
     "Alfaro (2012)": "Alfaro, 2012",
@@ -26208,6 +26210,8 @@
     "卓泽林和王芮, 2025": "卓泽林和王芮, 2025",
     "博纳尔与戴尔 (2002)": "博纳尔与戴尔, 2002",
     "博纳尔与戴尔, 2002": "博纳尔与戴尔, 2002",
+    "卡斯滕森与施密特 (2016)": "卡斯滕森与施密特, 2016",
+    "卡斯滕森与施密特, 2016": "卡斯滕森与施密特, 2016",
     "卡斯特罗 (2009)": "卡斯特罗, 2009",
     "卡斯特罗, 2009": "卡斯特罗, 2009",
     "卡普与扎米斯卡 (2025)": "卡普与扎米斯卡, 2025",
@@ -30126,6 +30130,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/National Reading Panel.md"
+      ],
+      "title": ""
+    },
+    "Alexiadou, 2001": {
+      "aliases": [
+        "Alexiadou, 2001",
+        "Alexiadou (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Alexiadou, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md"
       ],
       "title": ""
     },
@@ -55344,6 +55363,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md",
+        "wiki/concepts/political-economy-geopolitics/Ideational Power.md",
         "wiki/theories/political-economy-geopolitics/Discursive Institutionalism.md"
       ],
       "title": "Power through, over and in ideas: theorizing ideational power in discursive institutionalism"
@@ -216396,6 +216416,21 @@
       "seen_in": [
         "wiki/facts/global/GATS and Trade in Education Services.md",
         "wiki/persons/uk/Susan L. Robertson.md"
+      ],
+      "title": ""
+    },
+    "卡斯滕森与施密特, 2016": {
+      "aliases": [
+        "卡斯滕森与施密特, 2016",
+        "卡斯滕森与施密特 (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "卡斯滕森与施密特, 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Ideational Power.md"
       ],
       "title": ""
     },

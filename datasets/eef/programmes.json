@@ -5342,22 +5342,75 @@
      "page_project_duration": "2 year(s) 11 month(s)",
      "source_digest": "c048c6ab4bfbe48ee3422289e7508a058e3a3b5825c0c4806d0adf0eacd857dd",
      "record": {
-      "study_start": null,
-      "study_end": null,
+      "study_start": "2014-03",
+      "study_end": "2014-07",
       "intervention_start": null,
       "intervention_end": null,
-      "label_zh": "试点研究",
+      "label_zh": "第一期试点",
       "evaluator_zh": "英国国家社会研究中心（National Centre for Social Research，NatCen）",
       "evaluator_url": "https://natcen.ac.uk/who-we-are/about-us",
-      "design_note": "质性评估，包括 27 次工作人员半结构访谈及两次课堂观察。",
+      "design_note": "发展性过程评估；27 次半结构访谈、两次课堂观察，采用 Framework 整理访谈；干预团队另提供转写使用记录及附录教学行为分析。",
       "sample_context": [
-       "伦敦与西米德兰兹地区的小学。"
+       "伦敦与西米德兰兹的公立小学，参与三至六年级课堂。",
+       "各校免费校餐资格比例为 7.9%—71.8%，全国均值为 26.7%。"
       ],
-      "intervention_period_note": "2013—2014 学年内的两个学期",
+      "intervention_period_note": "2014 年春、夏两学期，三批交叠实施",
       "cost_per_pupil_year": 367,
       "delivery_scope": "每周五小时转写、每班 25 人的一学年成本估计",
-      "review_notes": [],
-      "cost_note": "按每周五小时转写、一学年及每班 25 人估算；转写 £192/生，分析 £158/生，设备 £12/生，培训 £125/教师。"
+      "review_notes": [
+       "报告封面为 2015 年 2 月，网页完成字段为 2016 年 1 月，两项日期的含义待核实。",
+       "摘要称所有学校完成项目，正文第 24 页另述一所学校退出，完成口径待核实。",
+       "正文概述每位教师收到两份反馈，附录第 34 页另述第一批收到三份；第三批规定频率在第 8 页与第 23 页有不同表述。"
+      ],
+      "cost_note": "按每周五小时转写、一学年及每班 25 人估算；转写 £192/生，分析 £158/生，设备 £12/生，培训 £125/教师。",
+      "teacher_count": 36,
+      "training": "第一、二批各一天集中培训；第三批到校培训两小时。",
+      "report_date": "2015-02",
+      "source_reference": "[[Argument_Skipp_Tanner_2015_EEF|(Skipp & Tanner, 2015, pp. 8–13, 22–23)]]",
+      "verification_sources": [
+       {
+        "record": "Skipp_Tanner_2015_EEF",
+        "pages": "8–13, 22–23, 29–35"
+       }
+      ],
+      "documents": [
+       {
+        "title": "Project Report",
+        "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_report_TheVisibleClassroom.pdf?v=1793074378",
+        "uploaded_at": "2016-02-05T15:38:55+00:00",
+        "uploaded_date": "5 February, 2016",
+        "file_size": "1.4 MB",
+        "file_type": "pdf",
+        "source_page": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom",
+        "tracking_label": "eef_project_report_thevisibleclassroom.pdf"
+       }
+      ],
+      "phase_records": [
+       {
+        "phase": 1,
+        "schools": 5,
+        "max_months": 4,
+        "interviews": 17,
+        "booked_lesson_completion": 0.65,
+        "post_feedback_frequency": "约每周一课"
+       },
+       {
+        "phase": 2,
+        "schools": 3,
+        "max_months": 2.5,
+        "interviews": 8,
+        "booked_lesson_completion": 0.7,
+        "post_feedback_frequency": "约两周一课"
+       },
+       {
+        "phase": 3,
+        "schools": 2,
+        "max_months": 1,
+        "interviews": 2,
+        "booked_lesson_completion": 0.75,
+        "post_feedback_frequency": "每周略少于三课"
+       }
+      ]
      }
     },
     {
@@ -5495,8 +5548,72 @@
       "intervention_end": null,
       "label_zh": "效能试验",
       "evaluator_zh": "行为洞察团队（Behavioural Insights Team）",
-      "design_note": "比较干预学校与对照学校的学业结果；随机分配程序待核实。",
-      "review_notes": []
+      "design_note": "2016 年方案规定学校层面两臂集群随机试验；按免费校餐资格比例、第一关键阶段成绩及名额准入方式分层。",
+      "review_notes": [],
+      "planned_sample_note": "2016 年方案目标为 140 所学校、11,760 名学生。",
+      "planned_intervention_note": "2016 年 9 月至 2017 年 6 月（计划）",
+      "training": "2016 年方案规定教师一天面授，导师一小时网络研修（计划）。",
+      "planned_dose_note": "一个学年三轮，每轮五小时录课及至少一小时导师对话（计划）。",
+      "verification_sources": [
+       {
+        "record": "BehaviouralInsightsTeam_2016_VisibleClassroomProtocol",
+        "pages": "1–7, 19",
+        "role": "protocol, not observed implementation"
+       }
+      ],
+      "source_reference": "[[Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol|(Behavioural Insights Team, 2016, pp. 1–7, 19)]]",
+      "documents": [
+       {
+        "title": "Evaluation Protocol",
+        "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Protocol_Regrant_Visible_Classroom.pdf?v=1793040173",
+        "uploaded_at": "2017-06-14T14:23:45+01:00",
+        "uploaded_date": "14 June, 2017",
+        "file_size": "763.7 KB",
+        "file_type": "pdf",
+        "source_page": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+        "tracking_label": "eef_project_protocol_regrant_visible_classroom.pdf"
+       },
+       {
+        "title": "Amended Evaluation Protocol – February 2017",
+        "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Regrant_-_Visible_Classroom_AMENDED_1.pdf?v=1793040173",
+        "uploaded_at": "2017-08-08T13:16:01+01:00",
+        "uploaded_date": "8 August, 2017",
+        "file_size": "766.6 KB",
+        "file_type": "pdf",
+        "source_page": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+        "tracking_label": "regrant_-_visible_classroom_amended_1.pdf"
+       },
+       {
+        "title": "Statistical Analysis Plan",
+        "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/Visible_Classroom_SAP.pdf?v=1793040173",
+        "uploaded_at": "2018-07-30T10:10:15+01:00",
+        "uploaded_date": "30 July, 2018",
+        "file_size": "641.8 KB",
+        "file_type": "pdf",
+        "source_page": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+        "tracking_label": "visible_classroom_sap.pdf"
+       },
+       {
+        "title": "Visible Classroom Evaluation Report",
+        "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/pages/projects/Visible_Classroom.pdf?v=1793040173",
+        "uploaded_at": "2021-09-06T12:06:41+01:00",
+        "uploaded_date": "6 September, 2021",
+        "file_size": "4.1 MB",
+        "file_type": "pdf",
+        "source_page": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+        "tracking_label": "visible_classroom.pdf"
+       },
+       {
+        "title": "后续效能试验方案（2016）",
+        "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Protocol_Visible_Classroom.pdf?v=1793074378",
+        "uploaded_at": "2016-11-07T16:27:01+00:00",
+        "uploaded_date": "7 November, 2016",
+        "file_size": "763.7 KB",
+        "file_type": "pdf",
+        "source_page": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom",
+        "tracking_label": "eef_project_protocol_visible_classroom.pdf"
+       }
+      ]
      }
     }
    ],

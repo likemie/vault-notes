@@ -2789,6 +2789,13 @@
         "wiki/facts/spain/Organic Law on the General Organization of the Education System 1990.md"
       ]
     },
+    "Council of the European Union": {
+      "seen_in": [
+        "wiki/facts/eu/EU Key Competences for Lifelong Learning.md",
+        "wiki/facts/eu/Education and Training 2020.md",
+        "wiki/facts/eu/European Education Area.md"
+      ]
+    },
     "French-speaking Community of Belgium": {
       "seen_in": [
         "wiki/facts/belgium/French-Speaking Belgium Education System.md",
@@ -2808,12 +2815,6 @@
         "wiki/facts/eu/Critical Raw Materials Act.md",
         "wiki/facts/eu/European Qualifications Framework.md",
         "wiki/facts/eu/Horizon Europe.md"
-      ]
-    },
-    "Council of the European Union": {
-      "seen_in": [
-        "wiki/facts/eu/EU Key Competences for Lifelong Learning.md",
-        "wiki/facts/eu/European Education Area.md"
       ]
     },
     "Department for Science, Innovation and Technology": {
@@ -3390,6 +3391,11 @@
     "杜伦大学教育证据中心（Durham University Evidence Centre for Education）": {
       "seen_in": [
         "wiki/facts/uk/Feedback Action Research Trial.md"
+      ]
+    },
+    "欧洲联盟理事会与欧洲议会": {
+      "seen_in": [
+        "wiki/facts/eu/European Pillar of Social Rights.md"
       ]
     },
     "法国国民教育部": {

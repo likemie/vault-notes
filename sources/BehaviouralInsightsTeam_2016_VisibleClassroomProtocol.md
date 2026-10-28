@@ -1,6 +1,7 @@
 ---
 citation: "Behavioural Insights Team. (2016). Visible Classroom [Evaluation protocol; PDF created 14 September 2016]. Education Endowment Foundation."
-extracted_to: []
+extracted_to:
+  - "[[Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol]]"
 processed_date: 2026-10-28
 ---
 

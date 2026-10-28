@@ -1,6 +1,7 @@
 ---
 citation: "Skipp, A., & Tanner, E. (2015). The Visible Classroom: Evaluation report and executive summary. Education Endowment Foundation."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Skipp_Tanner_2015_EEF]]"
 processed_date: 2026-10-28
 ---
 

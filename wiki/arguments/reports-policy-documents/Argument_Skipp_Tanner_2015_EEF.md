@@ -1,5 +1,4 @@
 ---
-title: "Argument_Skipp_Tanner_2015_EEF"
 summary: "以访谈与课堂观察评估可见课堂试点的可行性，区分教师反馈的价值、学生字幕使用与未检验的学业效果"
 type: "argument"
 authors: ["Skipp, A.", "Tanner, E."]
@@ -7,21 +6,38 @@ source_language: "en"
 citation: "Skipp, A., & Tanner, E. (2015). The Visible Classroom: Evaluation report and executive summary. Education Endowment Foundation."
 year: 2015
 doi: ""
+citation_aliases:
+  - "Skipp & Tanner, 2015"
+  - "Skipp and Tanner (2015)"
 isbn: ""
-citation_aliases: []
 tags: ["eef", "visible-classroom", "teacher-professional-development"]
-related_concepts: []
+related_concepts:
+  - "[[Visible Learning]]"
 related_theories: []
-related_methods: []
-related_instruments: []
+related_methods:
+  - "[[Semi-structured Interview]]"
+  - "[[Classroom Observation]]"
+related_instruments:
+  - "[[Visible Classroom]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Visible Classroom Programme]]"
 related_arguments: []
+sources:
+  - "[[sources/Skipp_Tanner_2015_EEF/Skipp_Tanner_2015_EEF|Skipp_Tanner_2015_EEF]]"
 status: "active"
 created: "2026-10-28"
 updated: "2026-10-28"
 subtype: "report"
 publication_type: "report"
+title: "Argument_Skipp_Tanner_2015_EEF"
+argument_key: "Argument_Skipp_Tanner_2015_EEF"
+argument_display_title: "The Visible Classroom: Evaluation report and executive summary"
+argument_kind: "report"
+argument_related_count: 5
+argument_related_level: 0
+argument_related_stars: "☆"
+argument_related_color: "#dcfce7"
 publisher: "Education Endowment Foundation"
 issuing_organization: "Education Endowment Foundation"
 ---
@@ -115,15 +131,7 @@ issuing_organization: "Education Endowment Foundation"
 
 ### 更密集的短期实施保持了较多使用，但不能据此识别剂量的因果作用
 
-> [!ref-table] 实施与使用记录
->
-> | 批次 | 最长参与时间 | 规定使用安排 | 预订课次完成比例 | 反馈后自由使用频率 |
-> | --- | --- | --- | ---: | --- |
-> | 第一批 | 四个月 | 首四周每周至少两节读写课，之后自由选择 | 65% | 约每周一课 |
-> | 第二批 | 两个半月 | 首四周每周至少两节读写课，之后自由选择 | 70% | 约两周一课 |
-> | 第三批 | 一个月 | 方法节写至少每日一课、每周五至十小时；剂量节另写反馈前每周至少四课 | 75% | 每周略少于三课 |
->
-> 各批次启动时间交叠，使用比例的分母为预订课次。批次安排与参与者不同，使用差异属于实施描述。（pp. 8, 23）
+不同批次的使用安排、参与时间和人员构成都有差别；预订课次完成比例与自由选择阶段的使用频率随批次变化，使用量比较不能单独识别剂量的效果。（pp. 8, 23）
 
 > [!figure]- 图 4：反馈前后完成的转写课次数
 > ![](https://img.mylikemie.icu/sources/Skipp_Tanner_2015_EEF/figures/Skipp_Tanner_2015_EEF_Fig4_TranscriptUse.jpg)

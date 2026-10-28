@@ -25,6 +25,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Open Method of Coordination]]"
   - "[[Subsidiarity Principle]]"
+  - "[[Ideational Power]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Champ]]"
@@ -55,6 +56,8 @@ related_facts:
   - "[[European Commission]]"
   - "[[EU]]"
   - "[[European Education Area]]"
+  - "[[European Semester]]"
+  - "[[Education and Training 2020]]"
   - "[[EU Skills Agenda]]"
   - "[[English Schools Foundation Hong Kong]]"
   - "[[Success for All]]"
@@ -73,7 +76,7 @@ title: "Argument_Alexiadou_Rambla_2023_EERJ"
 argument_key: "Argument_Alexiadou_Rambla_2023_EERJ"
 argument_display_title: "Education policy governance and the power of ideas in constructing the new European Education Area"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -87,15 +90,15 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 在 2000 年[[Lisbon Strategy|里斯本战略]]确立[[European Education Space|欧洲教育空间]]二十年后，[[European Commission|欧洲联盟委员会]]（European Commission）与[[EU|欧洲联盟]]理事会（Council of the European Union）如何协商确立面向 2021 至 2030 年的[[European Education Area|欧洲教育区]]（European Education Area, EEA）战略框架？理念、制度与能动者如何在超国家议程设定中相互作用？为何[[Lifelong Learning|终身学习]]与性别平等理念在机构间闭门磋商中激化深刻分歧？此外，欧盟委员会教育、青年、体育与文化总司（Directorate-General for Education, Youth, Sport and Culture, DG-EAC，简称教育文化总司）与就业、社会事务与包容总司（Directorate-General for Employment, Social Affairs and Inclusion, DG-EMPL，简称就业总司）在欧洲学期（European Semester）监管下的科层张力，又如何制约统一连贯的欧洲教育政策构建？
+> 在 2000 年[[Lisbon Strategy|里斯本战略]]确立[[European Education Space|欧洲教育空间]]二十年后，[[European Commission|欧洲联盟委员会]]（European Commission）与[[EU|欧洲联盟]]理事会（Council of the European Union）如何协商确立面向 2021 至 2030 年的[[European Education Area|欧洲教育区]]（European Education Area, EEA）战略框架？理念、制度与能动者如何在超国家议程设定中相互作用？为何[[Lifelong Learning|终身学习]]与性别平等理念在机构间闭门磋商中激化深刻分歧？此外，欧盟委员会教育、青年、体育与文化总司（Directorate-General for Education, Youth, Sport and Culture, DG-EAC，简称教育文化总司）与就业、社会事务与包容总司（Directorate-General for Employment, Social Affairs and Inclusion, DG-EMPL，简称就业总司）在[[European Semester|欧洲学期]]（European Semester）监管下的科层张力，又如何制约统一连贯的欧洲教育政策构建？
 
 > [!claim] 核心主张
-> 新政策理念要在超国家治理中确立权威，必须依托长期形成的制度结构，并获得关键行动者的政治支持。欧盟委员会起草团队试图以包容替代终身学习并拔高性别平等议题，这种认知重构因触碰成员国主权红线及二十年[[Open Method of Coordination|开放协调法]]（Open Method of Coordination, OMC）的传统积累，遭到欧盟理事会与成员国的普遍抵制和纠偏。[[Lifelong Learning|终身学习]]理念因横跨教育与就业两大领域而展现出持久的制度韧性；但教育文化总司与就业总司的职能分割，加之欧洲学期的宏观财政约束，使欧洲教育政策在扩大影响力的同时，始终面临自主权受限的结构性困境。
+> 新政策理念要在超国家治理中确立权威，必须依托长期形成的制度结构，并获得关键行动者的政治支持。欧盟委员会起草团队试图以包容替代终身学习并拔高性别平等议题，这种认知重构因触碰成员国主权红线及二十年[[Open Method of Coordination|开放协调法]]（Open Method of Coordination, OMC）的传统积累，遭到欧盟理事会与成员国的普遍抵制和纠偏。[[Lifelong Learning|终身学习]]理念因横跨教育与就业两大领域而展现出持久的制度韧性；但教育文化总司与就业总司的职能分割，加之[[European Semester|欧洲学期]]的宏观财政约束，使欧洲教育政策在扩大影响力的同时，始终面临自主权受限的结构性困境。
 
 > [!concept-lens] 阅读透镜
-> - **关注对象** 欧盟委员会教育文化总司（DG-EAC）、委员会主席内阁、欧盟理事会教育委员会高级官员及核心战略政策文件。
-> - **制度张力** 超国家技术官僚的改革诉求与主权国家维持[[Subsidiarity Principle|辅助性原则]]（Subsidiarity Principle）及既有 OMC 工具箱之间的对立；教育自主发展目标与宏观经济治理（欧洲学期）劳动力市场导向之间的张力。
-> - **理论洞见** 引入[[Discursive Institutionalism|话语制度主义]]的理念权力视角，还原从委员会公报到理事会决议的闭门协商过程，揭示理念层级与制度惯性如何共同塑造超国家教育政策的连续性与妥协形态。
+> - **关注对象** 瑞典学者[[Nafsika Alexiadou|纳夫西卡·亚历克夏杜（Nafsika Alexiadou）]]与西班牙学者哈维尔·兰布拉（Xavier Rambla）聚焦欧盟委员会教育文化总司（DG-EAC）、委员会主席内阁、欧盟理事会教育委员会高级官员及核心战略政策文件。
+> - **制度张力** 超国家技术官僚的改革诉求与主权国家维持[[Subsidiarity Principle|辅助性原则]]（Subsidiarity Principle）及既有 OMC 工具箱之间的对立；教育自主发展目标与宏观经济治理（[[European Semester|欧洲学期]]）劳动力市场导向之间的张力。
+> - **理论洞见** 引入[[Discursive Institutionalism|话语制度主义]]的[[Ideational Power|理念权力]]视角，还原从委员会公报到理事会决议的闭门协商过程，揭示理念层级与制度惯性如何共同塑造超国家教育政策的连续性与妥协形态。
 
 ---
 
@@ -103,7 +106,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **话语制度主义**<br>[[Discursive Institutionalism]] | 薇薇安·施密特（Vivien A. Schmidt）确立的理论[[Paradigm\|范式]]。将制度视为行动者通过理念与[[Discourse\|话语]]在互动中建构的意义网络，区分认知性理念与规范性理念、协调性话语与交流性话语，用以解释行动者如何在既定制度约束下展开政策方案审议与价值辩护。（Schmidt, 2008, 2010） |
-> | **理念权力框架**<br>Ideational Power | 马丁·卡斯滕森（Martin B. Carstensen）与施密特提炼的分析模型。细化为通过理念行使权力（说服能力）、支配理念之权力（控制意义与排他能力）以及内置于理念之权力（制度化结构的先验权威），用以阐明不同层级政策官僚如何运用思想资源维系或改变政策方向。（Carstensen & Schmidt, 2016） |
+> | **理念权力框架**<br>[[Ideational Power]] | 马丁·卡斯滕森（Martin B. Carstensen）与施密特提炼的分析模型。细化为通过理念行使权力（说服能力）、支配理念之权力（控制意义与排他能力）以及内置于理念之权力（制度化结构的先验权威），用以阐明不同层级政策官僚如何运用思想资源维系或改变政策方向。（Carstensen & Schmidt, 2016） |
 
 > [!warrant]- 理论如何支撑论证
 > 话语制度主义连接了宏观制度结构与微观政策行动者之间的动态关联。在欧洲教育区议程设定中，欧盟委员会与理事会不仅是遵循条约规则的行政实体，更是由具体官员组成的互动[[Champ|场域]]。各级官员在互动中运用认知性理念界定政策问题，运用规范性理念寻求价值正当性；协调性话语促成了闭门妥协，交流性话语则负责向公众展现最终愿景。理念权力模型清晰揭示了技术官僚的主观创新主张在遭遇条约传统与历史制度权威时妥协退让的机制。
@@ -113,15 +116,15 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **战略政策文献分析**<br>[[Documentary Analysis]] | 选取欧盟委员会 2020 年公报、委员会工作人员工作文件、欧盟理事会 2021 年战略框架决议及附件，并向前追溯 2000 年里斯本战略与 2009 年《教育与培训 2020》战略框架（Education and Training 2020, ET2020）决议，比对各阶段指标、议程重点与话语转变。 |
-> | **半结构化精英深度访谈**<br>[[Elite Interview]] | 于 2021 年对 9 位具有直接内部准入资格的欧盟高级官员开展[[In-depth Interview\|深度访谈]]，覆盖政策出台背景、历史连续性、机构互动及理念驱动力。 |
+> | **战略政策文献分析**<br>[[Documentary Analysis]] | 选取欧盟委员会 2020 年公报、委员会工作人员工作文件、欧盟理事会 2021 年战略框架决议及附件，并向前追溯 2000 年里斯本战略与 2009 年《[[Education and Training 2020|教育与培训 2020]]》战略框架（Education and Training 2020, ET2020）决议，比对各阶段指标、议程重点与话语转变。 |
+> | **半结构化精英深度访谈**<br>[[Elite Interview]] | 借鉴[[Nafsika Alexiadou|纳夫西卡·亚历克夏杜]]的政策执行制度情境访谈分析规程（Alexiadou, 2001），于 2021 年对 9 位具有直接内部准入资格的欧盟高级官员开展[[In-depth Interview\|深度访谈]]，覆盖政策出台背景、历史连续性、机构互动及理念驱动力。 |
 > | **归纳主题分析**<br>Thematic Analysis | 遵循质性主题分析规程，系统归纳受访官员对教育政策目标、机构间权责博弈与实施障碍的表述，提炼协调性话语的核心议题。 |
 > | **话语解读与质性诠释**<br>Discursive Interpretation | 解读访谈与文本中行动者如何使用合法化论据，审视深层理念结构如何对哪些政策方案具备政治可行性构成隐性制约。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **文本样本** | 欧盟委员会《在 2025 年前建成欧洲教育区》公报（文档编号 `COM(2020) 625 final`）及工作文件（文档编号 `SWD(2020) 212 final`）；欧盟理事会决议（2021/C 66/01）；欧洲议会决议（2020/2243(INI)）；《教育与培训 2010》战略框架（Education and Training 2010, ET2010）与 ET2020 历史基准文件。 |
+> | **文本样本** | 欧盟委员会《在 2025 年前建成欧洲教育区》公报（文档编号 `COM(2020) 625 final`）及工作文件（文档编号 `SWD(2020) 212 final`）；欧盟理事会决议（2021/C 66/01）；欧洲议会决议（2020/2243(INI)）；《教育与培训 2010》战略框架（Education and Training 2010, ET2010）与 [[Education and Training 2020|ET2020]] 历史基准文件。 |
 > | **访谈样本** | 9 位欧盟政策决策精英：4 位 DG-EAC 政策官员（受访者 1、3、6、7）、3 位欧盟理事会常驻专员（受访者 4、8、9）、1 位 DG-EAC 专员加布里埃尔（Mariya Gabriel）内阁成员（受访者 5）、1 位欧盟委员会主席冯德莱恩（Ursula von der Leyen）内阁高级官员（受访者 2）。 |
 > | **材料情境** | 访谈于 2021 年欧洲教育区决议审议期间进行，时长 60 至 80 分钟，全程英文录音并完整匿名[[Transcription in Qualitative Research\|转录]]。 |
 
@@ -144,7 +147,7 @@ issuing_organization: ""
 ## 论证结构
 
 > [!claim] 论证步骤一　[[European Education Area|欧洲教育区]]沿袭了二十年的[[Human Capital Theory|人力资本]]投资与就业导向
-> 梳理 2000 年[[Lisbon Strategy|里斯本战略]]、2009 年 ET2020 框架至 2021 年欧洲教育区战略文本，核心量化指标高度重合；[[EU|欧盟]]始终把教育作为提升劳动力市场[[Competitiveness|竞争力]]的工具，通过跨国可比数据持续监控基础技能、[[Academic Attrition|早期离校]]与高等教育比例。
+> 梳理 2000 年[[Lisbon Strategy|里斯本战略]]、2009 年 [[Education and Training 2020|ET2020]] 框架至 2021 年欧洲教育区战略文本，核心量化指标高度重合；[[EU|欧盟]]始终把教育作为提升劳动力市场[[Competitiveness|竞争力]]的工具，通过跨国可比数据持续监控基础技能、[[Academic Attrition|早期离校]]与高等教育比例。
 
 #### 1. 核心指标二十年保持稳定，始终紧扣就业与技能获取
 
@@ -152,7 +155,7 @@ issuing_organization: ""
 
 > [!row-contrast] 表 1：早期战略框架与欧洲教育区（EEA）政策理念与指标演进对照
 >
-> | 政策议题领域 | 里斯本战略目标（2000 年） | ET 2020 基准指标（2009 年） | 欧洲教育区（EEA）目标指标（2021 年） |
+> | 政策议题领域 | 里斯本战略目标（2000 年） | [[Education and Training 2020|ET2020 基准指标]]（2009 年） | 欧洲教育区（EEA）目标指标（2021 年） |
 > |:---|:---|:---|:---|
 > | **早期离校** | 到 2010 年，仅具备初中以下学历且未参与后续教育培训的 18–24 岁青年比例减半。 | 到 2020 年，早期离开教育与培训的比例应低于 10%。 | 到 2030 年，早期离开教育与培训的比例应低于 9%。 |
 > | **基础素养** | 将所有联网的中小学校与培训中心建为面向全民的综合学习中心，采用适宜方法覆盖各类群体。 | 到 2020 年，15 岁学生在阅读、数学和科学领域的低成就比例应低于 15%。 | 到 2030 年，15 岁学生在阅读、数学和科学领域的低成就比例应低于 15%。 |
@@ -165,7 +168,7 @@ issuing_organization: ""
 #### 2. 欧盟回避直接财政投入，转用跨国比较数据倒逼成员国改革
 
 > [!policy-context] 超国家教育治理的人力资本导向与指标监控特征
-> - **制度依据** 欧洲理事会里斯本峰会结论、欧盟理事会 2009 年决议与 2021 年欧洲教育区战略框架决议。
+> - **制度依据** 欧洲理事会里斯本峰会结论、欧盟理事会 2009 年决议、2017 年《[[European Pillar of Social Rights|欧洲社会权利支柱]]》（EPSR）及 2021 年欧洲教育区战略框架决议。
 > - **监控范围** 覆盖欧盟 27 国学前教育普及率、义务教育基础素养达标率、中职工作本位学习比例与高等教育人口比例。
 > - **政策定位** 将教育改革直接对应于欧洲劳动力市场的国际竞争力，防范技能短缺与结构性失业。
 > - **治理机制** 依托欧洲统计局（Eurostat）与[[International Large-Scale Assessments|国际大规模评估]]数据建立跨国排名，借助[[Peer Pressure|同侪压力]]促使成员国自愿调整政策。
@@ -228,7 +231,7 @@ issuing_organization: ""
 ---
 
 > [!claim] 论证步骤三　部门分立与财政紧缩削弱了欧洲教育政策的独立性
-> 容克改革将职业教育与成人学习划归就业总司，导致普通教育与技能培训被人为割裂为平行的双头轨道；教育文化总司虽然借由欧洲学期获得了可观的建设资金，但同时也受到宏观经济部门紧缩开支的严苛制约，导致教育治理难以保持独立自主。
+> 容克改革将职业教育与成人学习划归就业总司，导致普通教育与技能培训被人为割裂为平行的双头轨道；教育文化总司虽然借由[[European Semester|欧洲学期]]获得了可观的建设资金，但同时也受到宏观经济部门紧缩开支的严苛制约，导致教育治理难以保持独立自主。
 
 #### 1. 职能人为拆分为两大总司，导致教育政策碎片化与双头竞争
 
@@ -246,7 +249,7 @@ issuing_organization: ""
 > | **主导战略平台** | 欧洲教育区（European Education Area, EEA）。 | 欧洲技能议程（European [[EU Skills Agenda\|Skills Agenda]]）与就业战略。 |
 > | **管辖教育阶段** | 学前教育、中小学基础教育、高等教育及教师专业发展。 | 职业教育与培训（VET）、[[Apprenticeship\|学徒制]]、成人技能提升与再培训。 |
 > | **治理话语取向** | 强调教育质量、公民素养、文化认同、公平包容与教育系统内部连续性。 | 强调劳动力市场供需匹配、岗位生产力、技能短缺填补与宏观经济抗逆力。 |
-> | **对成员国对话渠道** | 与成员国教育部开展以软性同侪学习为主的双边对话。 | 借由欧洲学期与成员国劳动及财政部门展开更具问责色彩的政策审议。 |
+> | **对成员国对话渠道** | 与成员国教育部开展以软性同侪学习为主的双边对话。 | 借由[[European Semester|欧洲学期]]与成员国劳动及财政部门展开更具问责色彩的政策审议。 |
 
 > [!case] 案例：欧洲技能议程与欧洲教育区的双重平行对话
 > - **条约赋权与话语竞争** 容克改革后，DG-EAC 主导推进欧洲教育区，而 DG-EMPL 则独立运作《欧洲技能议程》。就业总司依托欧盟条约第 148 条的直接协调权，在内部官僚竞争中占据显著优势。
@@ -256,9 +259,9 @@ issuing_organization: ""
 #### 2. 欧洲学期虽带来大额建设资金，却带来宏观财政紧缩压力
 
 > [!chain-link] 超国家教育治理软硬机制演进链
-> - **前提：宏观战略定位将教育议题嵌入欧盟核心** 里斯本战略与欧洲 2020 战略将早期离校与高等教育完成率列为顶层指标，使教育文化总司摆脱边缘地位，成功获取超国家合法性。
-> - **机制：资金与学期绑定提升了超国家政策吸引力** [[Performance Indicators|教育指标]]挂钩欧洲学期国别建议后，成员国得以直接吸纳约三分之一的欧洲社会基金（European Social Fund Plus, [[English Schools Foundation Hong Kong|ESF]]+），赋予了软性教育合作空前强大的物质支撑。
-> - **制约：宏观财政部门主导带来结构性紧缩压力** 欧洲学期由经济金融事务总司（Directorate-General for Economic and Financial Affairs, DG-Economy）与就业总司主导，宏观官僚坚持赤字控制教条，在经济危机期倒逼成员国削减教育支出，导致政策诉求产生内在冲突。
+> - **前提：宏观战略定位将教育议题嵌入欧盟核心** 里斯本战略、欧洲 2020 战略与《[[European Pillar of Social Rights|欧洲社会权利支柱]]》将早期离校与高等教育完成率列为顶层指标，使教育文化总司摆脱边缘地位，成功获取超国家合法性。
+> - **机制：资金与学期绑定提升了超国家政策吸引力** [[Performance Indicators|教育指标]]挂钩[[European Semester|欧洲学期]]国别建议后，成员国得以直接吸纳约三分之一的欧洲社会基金（European Social Fund Plus, [[English Schools Foundation Hong Kong|ESF]]+），赋予了软性教育合作空前强大的物质支撑。
+> - **制约：宏观财政部门主导带来结构性紧缩压力** [[European Semester|欧洲学期]]由经济金融事务总司（Directorate-General for Economic and Financial Affairs, DG-Economy）与就业总司主导，宏观官僚坚持赤字控制教条，在经济危机期倒逼成员国削减教育支出，导致政策诉求产生内在冲突。
 > - **结论：主权防御机制将超国家治理重新锁定于软法** 面对委员会借集中平台强化硬约束的意图，成员国坚决捍卫国家事权底线，排除了集权化常设机构，将欧洲教育治理牢固约束在 [[Open Method of Coordination|OMC]] 传统工具箱内。
 
 > [!case] 案例：欧洲社会基金预算与经济金融部门的紧缩冲动
@@ -275,14 +278,14 @@ issuing_organization: ""
 ---
 
 > [!finding-cards] 核心发现
-> 1. **历史制度惯性主导指标延续** 欧洲教育区 2030 指标体系本质上是里斯本战略与 ET2020 人力资本投资逻辑的直接延续，跨国数据监控与劳动力市场竞争需求构成了超国家教育议程不可动摇的基石。
+> 1. **历史制度惯性主导指标延续** 欧洲教育区 2030 指标体系本质上是里斯本战略与 [[Education and Training 2020|ET2020]] 人力资本投资逻辑的直接延续，跨国数据监控与劳动力市场竞争需求构成了超国家教育议程不可动摇的基石。
 > 2. **激进理念重构遭遇主权纠偏** 欧盟委员会起草精英试图以包容替代终身学习并将性别议题单列的认知转向，在理事会闭门审议中因触碰成员国主权红线与制度传统而遭全盘纠偏。
 > 3. **终身学习展现跨界制度韧性** 终身学习之所以能够在欧洲教育区战略中强势回归，恰恰在于其横跨教育与就业两大部门，并享有深植于欧盟二十年合作架构的权威合法性。
 > 4. **科层双头割裂削弱政策整体性** 容克改革造成的总司分立使教育政策被人为割裂为普通教育与技能培训两套平行轨道，双重双边对话机制严重破坏了欧洲教育治理的完整连贯性。
 
 > [!stat-cards]- 核心数据
 > - **9** 位欧盟高级决策精英[[In-depth Interview|深度访谈]]（覆盖 DG-EAC、理事会、加布里埃尔专员内阁与冯德莱恩主席内阁）。
-> - **20** 年欧盟教育合作战略历程（涵盖 ET2010、ET2020 与 EEA 2030）。
+> - **20** 年欧盟教育合作战略历程（涵盖 ET2010、[[Education and Training 2020|ET2020]] 与 EEA 2030）。
 > - **7** 项欧洲教育区 2030 年量化基准指标（含早期离校低于 9%、高教完成率达 45% 等）。
 > - **4** 个保守成员国在理事会审议中坚决抵制在决议中直接出现性别（Gender）术语。
 > - **1/3** 欧洲社会基金（ESF+）公共预算直接投向教育与技能发展基础设施。
@@ -313,11 +316,11 @@ issuing_organization: ""
 ---
 
 > [!warning] 边界与推进方向
-> 访谈样本聚焦于直接参与欧洲教育区顶层文本起草与审议的核心决策者及外交代表，未涵盖各成员国国内教育部委在落实指标过程中的地方政治博弈。此外，面向 2030 年的欧洲教育区刚进入实施初期，终身学习在未来年度磋商与欧洲学期资源分配中的实际走向，仍有待长期实证观察。
+> 访谈样本聚焦于直接参与欧洲教育区顶层文本起草与审议的核心决策者及外交代表，未涵盖各成员国国内教育部委在落实指标过程中的地方政治博弈。此外，面向 2030 年的欧洲教育区刚进入实施初期，终身学习在未来年度磋商与[[European Semester|欧洲学期]]资源分配中的实际走向，仍有待长期实证观察。
 
 > [!implication]- 理论与政策治理意涵
-> - **理论洞见：制度惯性制约理念重构的有效边界** [[Discursive Institutionalism|话语制度主义]]的理念权力分析揭示，单纯依靠行政技术官僚的认知转向与规范性理念重塑，无法逾越由条约传统与历史制度所构筑的深层合法性防线。
-> - **政策治理：软法传统与双头科层的长期并存** 只要欧盟条约排他性捍卫辅助性原则的法律边界不改，欧洲教育区就必然保持以共识驱动的软法形态；而两大总司的职权割裂与欧洲学期的财政监控，将持续成为困扰欧洲教育治理整体性的深层制度性障碍。
+> - **理论洞见：制度惯性制约理念重构的有效边界** [[Discursive Institutionalism|话语制度主义]]的[[Ideational Power|理念权力]]分析揭示，单纯依靠行政技术官僚的认知转向与规范性理念重塑，无法逾越由条约传统与历史制度所构筑的深层合法性防线。
+> - **政策治理：软法传统与双头科层的长期并存** 只要欧盟条约排他性捍卫辅助性原则的法律边界不改，欧洲教育区就必然保持以共识驱动的软法形态；而两大总司的职权割裂与[[European Semester|欧洲学期]]的财政监控，将持续成为困扰欧洲教育治理整体性的深层制度性障碍。
 
 ---
 

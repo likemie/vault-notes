@@ -944,15 +944,19 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
         label = esc(r.get("label_zh") or trial["label"])
         phase = "推广" if trial.get("kind") == "scale_up" else EVIDENCE_TYPE_ZH.get(trial.get("type"), trial.get("type") or PENDING)
         summary = [phase]
-        if trial.get("completed"):
+        if r.get("study_start") and r.get("study_end"):
+            summary.append(f"实施 {r['study_start']} 至 {r['study_end']}")
+        elif trial.get("completed"):
             summary.append(f"完成 {trial['completed']}")
+        if r.get("teacher_count") is not None:
+            summary.append(f"{r['teacher_count']} 名教师")
         if trial.get("pupils"):
             summary.append(f"{trial['pupils']:,} 名学生")
         if trial.get("months") is not None:
             summary.append(f"{programme_months(trial['months'])} 个月")
         rows = []
         # time
-        period = programme_project_period(trial)
+        period = None if r.get("study_start") or r.get("study_end") else programme_project_period(trial)
         when = []
         if period:
             when.append("项目周期 " + period)
@@ -977,6 +981,12 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
         if r.get("sample_context"):
             text += "<br>" + "<br>".join(esc(v) for v in r["sample_context"])
         rows.append(("样本", text))
+        if r.get("planned_sample_note"):
+            rows.append(("方案样本", pend(r["planned_sample_note"])))
+        if r.get("planned_intervention_note"):
+            rows.append(("计划实施", pend(r["planned_intervention_note"])))
+        if r.get("planned_dose_note"):
+            rows.append(("方案剂量", pend(r["planned_dose_note"])))
         if all(r.get(k) is not None for k in ("sessions_per_week", "session_minutes", "group_size")):
             dose = f"每周 {r['sessions_per_week']} 次 × {r['session_minutes']} 分钟，每组 {r['group_size']} 人"
             if r.get("delivery_scope"):
@@ -1005,9 +1015,11 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
         if money:
             rows.append(("经费", "；".join(money)))
         docs = []
-        for d_ in trial.get("documents", []):
+        for d_ in r.get("documents", trial.get("documents", [])):
             if d_.get("url"):
                 docs.append(f"[{esc(_doc_title(d_.get('title') or '文件'))}]({d_['url']})")
+        if r.get("source_reference"):
+            docs.append(esc(r["source_reference"]))
         if docs:
             rows.append(("资料", " · ".join(docs)))
         lines += [">", f"> > [!eef-trial]- [{label}]({trial['url']}) · " + " · ".join(summary),

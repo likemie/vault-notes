@@ -5,6 +5,14 @@
       "path": "wiki/facts/uk/Visible Classroom Programme.md"
     },
     {
+      "basename": "Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol",
+      "path": "wiki/arguments/reports-policy-documents/Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol.md"
+    },
+    {
+      "basename": "Argument_Skipp_Tanner_2015_EEF",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md"
+    },
+    {
       "basename": "EU",
       "path": "wiki/facts/eu/EU.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Zhu_Yang_2023_HEP",
       "path": "sources/Zhu_Yang_2023_HEP/Zhu_Yang_2023_HEP.md"
-    },
-    {
-      "basename": "Argument_Woo_2023_HEP",
-      "path": "wiki/arguments/journal-articles/Higher Education Policy/Argument_Woo_2023_HEP.md"
-    },
-    {
-      "basename": "Feedback",
-      "path": "wiki/concepts/instruction-pedagogy/Feedback.md"
     }
   ],
   "omittedPaths": [],
