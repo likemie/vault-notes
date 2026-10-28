@@ -44,7 +44,7 @@
               "type": "markdown",
               "state": {
                 "file": "wiki/facts/uk/Visible Classroom Programme.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -273,13 +273,17 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9f6a7b58150da48c",
+  "active": "abba685a99836a68",
   "lastOpenFiles": [
+    "wiki/facts/uk/Visible Classroom Programme.md",
+    "output/可见的学习课题和案例/_to_delete/r7/q2-020.png",
+    "output/可见的学习课题和案例/_to_delete/r7/q2-013.png",
+    "output/可见的学习课题和案例/~$可见的学习”视域下中学生高阶能力培育的学校探索》结题报告 优化版.docx",
+    "wiki/templates/template-fact-eef-programme.md",
     "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
     "wiki/facts/europe/Bologna Process.md",
     "output/可见的学习课题和案例/_to_delete/r7/z-018.png",
     "output/可见的学习课题和案例/_to_delete/r7/z-014.png",
-    "wiki/facts/uk/Visible Classroom Programme.md",
     "tmp/pdfs/visible-check/trial.png",
     "tmp/pdfs/visible-check/pilot.png",
     "tmp/pdfs/visible-check",
@@ -289,13 +293,10 @@
     "output/可见的学习课题和案例/_to_delete/props2.txt",
     "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md",
     "output/可见的学习课题和案例/_to_delete/r7/y-021.png",
-    "output/可见的学习课题和案例/~$可见的学习”视域下中学生高阶能力培育的学校探索》结题报告 优化版.docx",
     "output/可见的学习课题和案例/_to_delete/r7/x-036.png",
     "output/可见的学习课题和案例/_to_delete/r7/x-035.png",
     "output/可见的学习课题和案例/_to_delete/r7/w-018.png",
-    "output/可见的学习课题和案例/_to_delete/r7/w-017.png",
     "output/可见的学习课题和案例/_to_delete/lit_now.txt",
-    "output/可见的学习课题和案例/_to_delete/r7/v-025.png",
     "output/可见的学习课题和案例/_to_delete/优化版_用户1053保存.docx",
     "output/可见的学习课题和案例/_to_delete/r7",
     "output/可见的学习课题和案例/_to_delete/body_dump.txt",
@@ -318,8 +319,6 @@
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-007/prompt.md",
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-006/prompt.md",
     "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-005/prompt.md",
-    "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-004/prompt.md",
-    "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-003/prompt.md",
-    "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-002/prompt.md"
+    "output/related-updates/Argument_Grek_2024_EERJ-a075f690/batch-004/prompt.md"
   ]
 }
