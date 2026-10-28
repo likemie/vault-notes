@@ -24779,11 +24779,13 @@
     "Whitford et al., 2018": "Whitford et al., 2018",
     "Whitty & Edwards (1994)": "Whitty & Edwards, 1994",
     "Whitty & Edwards, 1994": "Whitty & Edwards, 1994",
+    "Whyte (1943)": "Whyte, 1943",
     "Whyte (1955)": "Whyte, 1955",
     "Whyte (1982)": "Whyte, 1982",
     "Whyte (1986)": "Whyte, 1986",
     "Whyte (1991)": "Whyte, 1991",
     "Whyte (1993)": "Whyte, 1993",
+    "Whyte, 1943": "Whyte, 1943",
     "Whyte, 1955": "Whyte, 1955",
     "Whyte, 1982": "Whyte, 1982",
     "Whyte, 1986": "Whyte, 1986",
@@ -40880,7 +40882,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md",
-        "wiki/concepts/research-methodology/Gatekeepers.md",
         "wiki/methods/qualitative/Social Cartography.md"
       ],
       "title": ""
@@ -41300,8 +41301,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05.md",
-        "wiki/concepts/research-methodology/Access and Acceptance in Research.md",
-        "wiki/concepts/research-methodology/Gatekeepers.md"
+        "wiki/concepts/research-methodology/Access and Acceptance in Research.md"
       ],
       "title": ""
     },
@@ -172412,7 +172412,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/comparative-education/European Education Space.md",
-        "wiki/concepts/comparative-education/Subsidiarity Principle.md"
+        "wiki/concepts/comparative-education/Subsidiarity Principle.md",
+        "wiki/concepts/research-methodology/Gatekeepers.md"
       ],
       "title": ""
     },
@@ -206370,6 +206371,21 @@
       ],
       "title": ""
     },
+    "Whyte, 1943": {
+      "aliases": [
+        "Whyte, 1943",
+        "Whyte (1943)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Whyte, 1943"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/research-methodology/Gatekeepers.md"
+      ],
+      "title": ""
+    },
     "Whyte, 1955": {
       "aliases": [
         "Whyte, 1955",
@@ -206448,7 +206464,6 @@
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26.md",
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28.md",
-        "wiki/concepts/research-methodology/Gatekeepers.md",
         "wiki/concepts/research-methodology/Sponsor in Research.md",
         "wiki/methods/qualitative/Member Checking.md",
         "wiki/persons/us/William Foote Whyte.md"
