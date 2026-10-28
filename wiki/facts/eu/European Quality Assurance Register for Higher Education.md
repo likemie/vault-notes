@@ -80,7 +80,7 @@ updated: 2026-10-28
 
 > [!finding-cards] 核心产品与业务矩阵
 > - **官方注册名录（Official Register）** 权威公示在全欧范围内具备法定执业可信度的质量保障机构清单。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 223)]]
-> - **外部质量保障结果数据库（DEQAR）** 开放检索的跨国数据库，收割各机构对全欧高校及专业认证的明细档案。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 223–224)]]
+> - **外部质量保障结果数据库（DEQAR）** 开放检索的跨国数据库，集中收录各机构对全欧高校及专业认证的明细档案。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, pp. 223–224)]]
 > - **全欧质保政策监测报告** 基于名录运作实践编纂的高等教育质保制度进展与法律壁垒监测成果。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024, p. 226)]]
 
 > [!citation-card] 从技术审查器向政策建言者的演进

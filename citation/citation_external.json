@@ -9171,9 +9171,7 @@
     "Greig & Taylor, 1999": "Greig & Taylor, 1999",
     "Grek & Lindgren (2015)": "Grek & Lindgren, 2015",
     "Grek & Lindgren, 2015": "Grek & Lindgren, 2015",
-    "Grek (2013)": "Grek, 2013",
     "Grek (2022)": "Grek, 2022",
-    "Grek, 2013": "Grek, 2013",
     "Grek, 2022": "Grek, 2022",
     "Grenier (2013)": "Grenier, 2013",
     "Grenier, 2013": "Grenier, 2013",
@@ -37892,7 +37890,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
         "wiki/concepts/sociology-of-education/Epistemic Infrastructure.md"
       ],
       "title": ""
@@ -47860,7 +47857,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
         "wiki/concepts/sociology-of-education/Data Infrastructure.md"
       ],
       "title": ""
@@ -93592,21 +93588,6 @@
       ],
       "title": ""
     },
-    "Grek, 2013": {
-      "aliases": [
-        "Grek, 2013",
-        "Grek (2013)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Grek, 2013"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md"
-      ],
-      "title": ""
-    },
     "Grek, 2022": {
       "aliases": [
         "Grek, 2022",
@@ -118643,7 +118624,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Thompson_2022_Promising_Student.md",
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
         "wiki/concepts/educational-technology/Digital Self.md",
         "wiki/concepts/sociology-of-education/Data Infrastructure.md"
       ],
@@ -162406,7 +162386,6 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Boyadjieva_2022_Springer.md",
         "wiki/arguments/journal-articles/British Educational Research Journal/Argument_Wrigley_2018_BERJ.md",
-        "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md",
         "wiki/concepts/higher-education/Global Universities Rankings.md"
       ],
       "title": ""
