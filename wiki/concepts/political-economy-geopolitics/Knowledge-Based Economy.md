@@ -110,10 +110,11 @@ related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Amos_2022_Springer]]"
   - "[[Argument_Erfurth_2022_education-hubs]]"
+  - "[[Argument_Chou_2017_PolSoc]]"
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -177,6 +178,9 @@ updated: 2026-10-26
 
 > [!claim] Moisio; Rizvi
 > **大学作为[[Competitiveness|国家竞争力]]的战略支柱** 随着资本积累从物质密集型转向知识密集型，大学的战略政治角色根本性增加；亚洲各国政府与西方发达国家普遍以 KBE [[Discourse|话语]]为合法性依据，大规模扩张高等教育预算并实施教育出口战略，将高教政策转变为经济、外交与地缘安全政策的复合体。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 23)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 95–100)]]
+
+> [!claim] Chou & Ravinet
+> **区域一体化中知识话语的本土化转译与合法化功能** 周孟萱（Meng-Hsuan Chou）与波琳·拉维内（Pauline Ravinet）基于欧洲与东南亚的跨区域实证比较指出，全球知识经济话语在超国家与次区域一体化进程中充当了重塑高等教育战略属性的合法化工具。在欧洲，[[European Commission|欧盟委员会]]将知识经济话语与[[Lisbon Strategy|里斯本战略]]深度绑定，把学生跨境流动重新诠释为向统一大市场输送高技能劳动力的基础设施，推动高等教育从欧盟条约边陲上升至核心经济战略；在东南亚，东盟各国政府在 2015 年东盟经济共同体建成的外部时间表下，同样援引知识经济话语将高等教育界定为经济生产力引擎，在严格维护国家教育主权与东盟方式的前提下，为名校结网与部委柔性协调提供了合法性支点。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147–149, 153–155)]]
 
 ---
 
@@ -249,7 +253,7 @@ updated: 2026-10-26
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **地缘战略定位** | 大学被重构为国家[[Intellectual Capital\|知识资本]]与全球博弈核心基础设施 | 高教财政扩张、教育出口、国际化枢纽政策 | [[Argument_Moisio_2022_Springer\|Moisio (2022)]]; [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] |
+> | **地缘战略定位** | 大学被重构为国家[[Intellectual Capital\|知识资本]]与全球博弈核心基础设施 | 高教财政扩张、教育出口、国际化枢纽政策 | [[Argument_Moisio_2022_Springer\|Moisio (2022)]]; [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]]; [[Argument_Chou_2017_PolSoc\|Chou & Ravinet (2017)]] |
 > | **能力[[Paradigm\|范式]]演进** | 自动化压力迫使价值来源从事实记忆转向批判与创造技能 | 劳动力技能转型、课程改革、人才需求测绘 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
 > | **主体性规训** | 通过技能话语将劳动力市场风险转化为个体终身投资义务 | [[Lifelong Learning\|终身学习]]、继续教育、自我企业家精神 | [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]]; [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] |
 > | **评价断裂悖论** | 宏观政策高阶能力宣示与微观学业考核事实导向严重脱节 | 高教质量保障、学习增益测量、考试制度改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
@@ -267,6 +271,7 @@ updated: 2026-10-26
 > - **2009 — 超国家软法数据治理与成人生活技能转向** 索蒂里亚·格雷克（[[Argument_Grek_2009_JEdPolicy|Grek, 2009, pp. 26–27, 32–35]]）基于[[European Education Space|欧洲教育空间]]经验揭示知识经济下的两重治理机制：欧盟在[[Lisbon Strategy|里斯本战略]]下通过开放协调法与采购经合组织数据实施软法治理，突破辅助性原则限制；同时大规模跨国测评跳过具体课程大纲，直接考核面向成人市场的生活技能与终身学习自我调节，推动个体在知识经济中承担自我优化的终身责任。
 > - **2009 — 超国家全景敞视式知识经济规训批判** 帕西亚斯与鲁萨基斯解构里斯本战略，揭示知识被定义为易耗商品后，超国家实体如何依托开放协调法构筑全景敞视式软法监视体系，将成员国教育体系规训为知识经济竞争工具。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480–482, 486–487)]]
 > - **全球扩散与空间运作（2000s–2010s） — 教育出口与枢纽建设** 亚洲国家与澳大利亚将 KBE 转化为教育出口战略；新加坡与迪拜通过“教育枢纽”政策将大学完全产业化为经济增长极。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022)]]; [[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022)]]
+> - **2017 — 跨区域比较中的知识话语本土化赋权** 周孟萱与波琳·拉维内（[[Argument_Chou_2017_PolSoc|Chou & Ravinet, 2017, pp. 147–149, 153–155]]）揭示全球知识经济话语在区域一体化中的双重赋权机制：在欧洲被用作将高等教育吸纳进统一大市场战略的深层协调支点，在东南亚则充当在不触碰国家主权红线的前提下推进跨国高教务实合作的合法化锚点。
 > - **智能时代评价重构（2020s至今） — 聚焦高阶认知素养与评价治理** 面对生成式 AI 与劳动力深度重组，OECD 等国际组织反思“教育扩张”数量指标，转向推动以[[Critical Thinking|批判性思维]]、[[Creativity|创造力]]与真实表现任务为核心的高教评价与治理变革。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023)]]
 
 ---
@@ -323,3 +328,4 @@ updated: 2026-10-26
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 揭示 21 世纪技能话语作为 KBE 在个体主体性层面的微观[[Operationalization|操作化]]与[[Self-Entrepreneur|自我企业家]]规训。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 剖析 OECD 如何依托新增长理论[[Constructed Knowledge|建构知识]]经济的全球[[Social Imaginary|社会想象]]，推动学习向操作性技能与学习型经济转型，并将性别平权与社会凝聚力重构为经济效率工具。
 > - [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] — 结合福柯全景敞视理论解构欧盟里斯本战略话语，揭示知识经济如何将知识异化为快速折旧的商品，并依托开放协调法构筑超国家软法规训体系。
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 跨区域比较欧洲与东南亚高等教育合作，揭示全球知识经济话语如何作为观念解释变量，在欧洲赋权超国家协调、在东南亚为维系主权的务实结网提供合法性支点。
