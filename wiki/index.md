@@ -3980,7 +3980,7 @@ Total entries: **4417**
 
 > [!index-list]- Organization (6)
 > - [[American Society for Cultural Relations with Russia]] — 1927年前后在美成立的民间文化交流组织，John Dewey 任副主席，以书籍期刊交换为核心活动，1928年组织了 Dewey et al. 25名美国教育者的访苏之行，后被反共势力指控为共产党的外围宣传组织
-> - [[ASEAN University Network]] — 东南亚国家联盟框架下的区域旗舰高校联盟网络，总部设于曼谷，聚焦顶尖大学间学科项目协同、学生跨境流动与跨国质量保障体系建设，代表以大学网络为基准的实用主义高等教育区域合作模式。
+> - [[ASEAN University Network]] — 东南亚国家联盟框架下的区域旗舰高校联盟网络，总部设于曼谷朱拉隆功大学，聚焦 30 所顶尖研究型大学间的微观学科协同、学分转换（ACTS）与质量保障（AUN-QA），代表东南亚高等教育中以大学自主结网为重心的实用主义竞逐模式。
 > - [[Asia South Pacific Association for Basic and Adult Education]] — 1964年创立于悉尼、设于菲律宾马尼拉与印度孟买的亚太区域民间社会教育运动联盟，连接亚太30余个国家的200余个草根组织与教育同盟，作为全球受教育权运动的核心发起方之一，在联合国教科文组织全球证据中介测绘中被列为区域公民社会证据倡导与政策问责的关键网络。
 > - [[Forum on China-Africa Cooperation]] — 中国与非洲友好国家于2000年共同创设的官方多边对话与合作机制，每三年轮流举行部长级会议与峰会，在教育、医疗、科技和人力资源开发等领域提供系统性跨国能力合作与资金支持。
 > - [[International Baccalaureate North America]] — 1975 年在纽约注册的北美非营利区域组织，通过本地筹资、学校推广、大学关系与教师培训推动国际文凭进入美国和加拿大公立高中，同时由日内瓦维持课程和考试控制。
@@ -3990,7 +3990,7 @@ Total entries: **4417**
 > - [[Best Evidence in Brief]] — Johns Hopkins University 与约克大学创建的全球证据传播网络（每两周简报），扩展至 NNU 中国大陆中文版和 CUHK 海外华人版（Slavin et al., 2021）
 > - [[Korea Innovation Policy System]] — 韩国构建的以企业为主导的创新政策体系，通过科技规划引导、大企业核心驱动、产学研合作和企业需求导向的人才培养，实现从模仿创新向自主创新的转型，在半导体和显示技术等领域取得全球领先地位。
 > - [[Regional Comprehensive Economic Partnership]] — 由东盟十国发起并由中日韩澳新共同参与签署的区域多边自由贸易协定，构建了涵盖全球约30%人口与经济总量的超级自贸区，对亚太跨国产能合作、资历框架互认与技术技能人才跨境流动产生深远影响。
-> - [[Southeast Asian Higher Education Common Space]] — 2024年东盟与东南亚教育部长组织联合签署的宣言，旨在推动东南亚区域内高等教育合作、学分互认与人员流动，标志着区域教育一体化的新阶段
+> - [[Southeast Asian Higher Education Common Space]] — 东南亚国家联盟与东南亚教育部长组织等推动的区域高等教育协作框架；在东盟方式与国家主权防卫原则下包容名校联盟与部委协调双轨机制，促进区域内学分互认、质量保障与人员流动，形成不同于欧洲趋同旗舰的多元竞逐高教空间。
 > - [[Swiss Innovation Policy System]] — 瑞士联邦政府构建的创新政策体系，涵盖战略规划、税收优惠、职业教育、知识与技术转移等维度，通过制度环境营造和应用场景布局推动产学研协同创新，使瑞士连续13年蝉联全球创新指数第一。
 
 > [!index-list]- Program (7)

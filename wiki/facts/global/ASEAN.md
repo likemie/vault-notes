@@ -98,6 +98,7 @@ updated: 2026-10-29
 >
 >   - **1995** 越南加入；同年成立[[ASEAN University Network|东盟大学网络]]（ASEAN University Network, AUN），构建区域高等教育质保与学分转换框架。
 >   - **1997–1999** 老挝、缅甸与柬埔寨相继加入，完成东盟十国一体化版图。
+>   - **2007** 东盟峰会确立 2015 年建成东盟经济共同体（AEC）的决定性时间表，横向倒逼东盟社会文化共同体（ASCC）加速推进高等教育学分互认与人员流动对接。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]
 >   - **2007–2008** 签署并生效《东盟宪章》，正式确立东盟独立法人地位，依据第 12 条设立常驻东盟代表委员会（CPR），推动首脑会议改为每年两次并组建东盟协调理事会。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
 >
 > - **2010–至今** **共同体建成与地缘[[Educational Diplomacy|教育外交]]枢纽**
@@ -123,6 +124,7 @@ updated: 2026-10-29
 > - **协商一致原则（Consensus）** 坚持在充分兼顾各成员国利益与舒适度的基础上形成政策共识，不采取多数表决制强加决议。
 > - **轮值主席国制度** 成员国按国名英文首字母顺序轮流担任主席国，每年主导并承办东盟峰会及系列部长级会议。
 > - **多边对话与“10+X”伙伴机制** 以“东盟中心地位”（ASEAN Centrality）为原则，主导与中国、日本、韩国、美国、[[EU|欧盟]]等对话伙伴的多边高层磋商机制。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 2, 7)]]
+> - **东盟方式与部门双轨分工** 坚持非正式、不干涉内政与协商一致的东盟方式，在高等教育治理中刻意维持精英高校网络（[[ASEAN University Network|AUN]]）与政府部委平台（[[SEAMEO RIHED]] / SOM-ED）的平级分立，防范国家官员与东盟代表权力混杂，排斥超国家集权官僚的生成。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]
 
 ---
 
@@ -149,6 +151,7 @@ updated: 2026-10-29
 > - **本土[[Human Capital Theory|人力资本]]支撑** 紧密衔接“[[Belt and Road Initiative|一带一路]]”倡议基础设施建设项目（如铁路、深水港、工业园区），为东盟发展中国家培养工程、物流与经贸专门技术人才。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 11, 12)]]
 > - **[[Educational Diplomacy|教育外交]]三大支柱成型** 中国在东盟区域逐步确立了依托留学生定向招募、境外独立分校与联合办学、以及深度嵌入大学建制的[[Confucius Institute|孔子学院]]网络三大实践支柱，拓展了多层次人文纽带。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 83–85)]]
 > - **跨区域职业教育协同与产能对接** 在双边贸易突破 6.41 万亿元人民币背景下，双方依托《中国—东盟战略伙伴关系2030年愿景》推进[[China-ASEAN Education Cooperation Week|中国—东盟教育交流周]]与职业教育高水平开放合作，逐步从单一学校协议走向涵盖全产业链的线面平台与产教生态圈，协同培育新质技能人才。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 291, 298–301)]]
+> - **多帆竞逐模式的区域高教治理** 依托自愿试点与底线互通，构建起名校结网与部委协调并立的“多帆竞逐”高教协作模式，证伪了欧洲博洛尼亚自上而下单向扩散假说。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 154–156)]]
 
 > [!stat-cards]- 核心规模数据
 > - **10** （个） 东南亚国家联盟正式成员国总数。
@@ -201,6 +204,9 @@ updated: 2026-10-29
 > | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 系统剖析面向东盟的教育外交三大支柱及地缘领土争端下的权力转化困境。 |
 > | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 剖析中国—东盟职业教育高水平开放合作的价值立意、逻辑要点与产教生态圈实践进路。 |
 > | [[Argument_Murray_Moxon-Browne_2013_JCMS\|Murray and Moxon-Browne (2013)]] | Argument | 比较欧盟与东盟决策预备机构，剖析东盟依据《东盟宪章》设立常驻代表委员会中的制度拟态与治理局限。 |
+> | [[SEAMEO RIHED]] | Fact (Organization) | 与东盟教育机制紧密协同但保持平级分立的跨国政府间高教政策协调中心。 |
+> | [[Southeast Asian Higher Education Common Space]] | Fact (Policy) | 东盟与 SEAMEO 联合推进的区域高等教育协作弹性框架。 |
+> | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] | Argument | 比较欧洲与东南亚高等教育区域主义，剖析东盟方式与双轨治理分工的实证文献。 |
 
 ---
 
@@ -209,3 +215,4 @@ updated: 2026-10-29
 > - [[Argument_Velasco_2022_CSJ|Velasco (2022)]] — 系统剖析面向东盟的教育外交三大支柱及领土争端约束下的软实力权力转化困境。
 > - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合中国—东盟全面战略伙伴关系与经贸走廊建设，系统论述职业教育高水平对外开放的政策链条、多边组织平台与现代工匠学院产教协同机制（pp. 286–301）。
 > - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 比较欧盟常驻代表委员会与东盟常驻代表委员会的治理架构，评估东盟在制度拟态中面临的资源约束、协商规范差异与履约机制缺失等治理瓶颈（pp. 522–535）。
+> - [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] — 比较欧洲与东南亚高等教育区域主义，揭示东盟方式如何内生塑造名校结网与部委协调并立的双轨治理格局。
