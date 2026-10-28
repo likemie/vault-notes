@@ -5542,26 +5542,43 @@
      "page_project_duration": "2 year(s) 6 month(s)",
      "source_digest": "e664a0eeced1b6488476006173910633dffa602883814bcce625db78b3c9190f",
      "record": {
-      "study_start": null,
-      "study_end": null,
-      "intervention_start": null,
-      "intervention_end": null,
-      "label_zh": "效能试验",
-      "evaluator_zh": "行为洞察团队（Behavioural Insights Team）",
-      "design_note": "2016 年方案规定学校层面两臂集群随机试验；按免费校餐资格比例、第一关键阶段成绩及名额准入方式分层。",
-      "review_notes": [],
+      "study_start": "2016-04",
+      "study_end": "2018-07",
+      "intervention_start": "2016-09",
+      "intervention_end": "2018-06",
+      "label_zh": "第二期效能试验",
+      "evaluator_zh": "行为洞察团队（Behavioural Insights Team，BIT）",
+      "design_note": "学校层面两臂集群随机试验，44 所干预、42 所常规教学对照；按免费校餐资格比例、第一关键阶段成绩及名额准入方式分层。意向治疗分析控制分层和既有成绩，标准误按学校聚类。",
+      "review_notes": [
+       "费用表 28 合计三年 £4,945、£21/生/年；表 29–30 改用三年 £5,544、£23/生及首年 £2,604，起始费用口径待核实。",
+       "统计分析计划写干预于 2017 年末开始，评估报告时间表则为 2016 年 9 月至 2018 年 6 月；实施日期采用报告。"
+      ],
       "planned_sample_note": "2016 年方案目标为 140 所学校、11,760 名学生。",
-      "planned_intervention_note": "2016 年 9 月至 2017 年 6 月（计划）",
-      "training": "2016 年方案规定教师一天面授，导师一小时网络研修（计划）。",
-      "planned_dose_note": "一个学年三轮，每轮五小时录课及至少一小时导师对话（计划）。",
+      "planned_intervention_note": "2016 年原方案为一个学年；2017 年 2 月修订延长一年。",
+      "training": "2016 年干预前，教师一天面授；导师一小时网络研修。",
       "verification_sources": [
        {
+        "record": "Sanders_2021_EEF",
+        "pages": "4–5, 13–23, 32–40, 51–52",
+        "role": "observed evaluation results"
+       },
+       {
+        "record": "Sanders_2018_VisibleClassroomSAP",
+        "pages": "1–10",
+        "role": "prespecified analysis"
+       },
+       {
+        "record": "Heal_2017_VisibleClassroomProtocol",
+        "pages": "1, 16, 20–21",
+        "role": "amended protocol"
+       },
+       {
         "record": "BehaviouralInsightsTeam_2016_VisibleClassroomProtocol",
-        "pages": "1–7, 19",
-        "role": "protocol, not observed implementation"
+        "pages": "1–19",
+        "role": "original protocol"
        }
       ],
-      "source_reference": "[[Argument_BehaviouralInsightsTeam_2016_VisibleClassroomProtocol|(Behavioural Insights Team, 2016, pp. 1–7, 19)]]",
+      "source_reference": "[[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 13–23, 32–40)]]",
       "documents": [
        {
         "title": "Evaluation Protocol",
@@ -5602,18 +5619,271 @@
         "file_type": "pdf",
         "source_page": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
         "tracking_label": "visible_classroom.pdf"
+       }
+      ],
+      "report_date": "2021-02",
+      "sample_context": [
+       "入组 7,230 人；原五年级队列 3,531 人、原六年级队列 3,699 人。",
+       "最终分析 6,934 人：原五年级 83 校、3,337 人，原六年级 85 校、3,597 人；国家学生数据库未匹配到 296 人。",
+       "原五年级队列追踪至 2018 年，原六年级队列追踪至 2017 年；无法逐人确认原五年级队列的第二年干预暴露。"
+      ],
+      "actual_dose_note": "首年三轮、最多 15 次录课；次年减为两轮、最多 6 次。分析依从标准为累计至少 10 次，或第二年至少 5 次；137 名教师（81%）达标。",
+      "outcome_note": "效应量为 Hedges g。免费校餐资格按国家学生数据库过去六年曾符合资格指标界定；报告分别估计该亚组，未报告与其余学生的交互检验。",
+      "cost_note": "首年学校成本 £2,604（£32/生），三年累计 £5,544、243 名学生，约 £23/生；假设三位教师、每班 27 人、持续参与且无需重训。",
+      "outcomes": [
+       {
+        "trial_url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+        "source": "Sanders_2021_EEF",
+        "effect_measure": "Hedges g",
+        "security_strength": 4,
+        "security_total": 5,
+        "security_status": "ok",
+        "label_zh": "数学与阅读综合成绩",
+        "group_zh": "原五年级队列",
+        "is_subgroup": false,
+        "effect_size": -0.09,
+        "ci_lower": -0.22,
+        "ci_upper": 0.04,
+        "p_value": 0.191,
+        "sample_n": 3337,
+        "intervention_n": 1666,
+        "control_n": 1671,
+        "impact_months": -1,
+        "significance": "p = 0.191；未达统计显著"
        },
        {
-        "title": "后续效能试验方案（2016）",
-        "url": "https://d2tic4wvo1iusb.cloudfront.net/production/documents/projects/EEF_Project_Protocol_Visible_Classroom.pdf?v=1793074378",
-        "uploaded_at": "2016-11-07T16:27:01+00:00",
-        "uploaded_date": "7 November, 2016",
-        "file_size": "763.7 KB",
-        "file_type": "pdf",
-        "source_page": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom",
-        "tracking_label": "eef_project_protocol_visible_classroom.pdf"
+        "trial_url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+        "source": "Sanders_2021_EEF",
+        "effect_measure": "Hedges g",
+        "security_strength": null,
+        "security_total": 0,
+        "security_status": "not_applicable",
+        "label_zh": "数学与阅读综合成绩",
+        "group_zh": "原五年级免费校餐资格学生",
+        "is_subgroup": true,
+        "effect_size": -0.03,
+        "ci_lower": -0.23,
+        "ci_upper": 0.17,
+        "p_value": 0.77,
+        "sample_n": 1232,
+        "intervention_n": 636,
+        "control_n": 596,
+        "impact_months": 0,
+        "significance": "p = 0.77；未达统计显著"
+       },
+       {
+        "trial_url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+        "source": "Sanders_2021_EEF",
+        "effect_measure": "Hedges g",
+        "security_strength": 4,
+        "security_total": 5,
+        "security_status": "ok",
+        "label_zh": "数学与阅读综合成绩",
+        "group_zh": "原六年级队列",
+        "is_subgroup": false,
+        "effect_size": -0.05,
+        "ci_lower": -0.19,
+        "ci_upper": 0.09,
+        "p_value": 0.55,
+        "sample_n": 3597,
+        "intervention_n": 1859,
+        "control_n": 1738,
+        "impact_months": -1,
+        "significance": "p = 0.55；未达统计显著"
+       },
+       {
+        "trial_url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+        "source": "Sanders_2021_EEF",
+        "effect_measure": "Hedges g",
+        "security_strength": null,
+        "security_total": 0,
+        "security_status": "not_applicable",
+        "label_zh": "数学与阅读综合成绩",
+        "group_zh": "原六年级免费校餐资格学生",
+        "is_subgroup": true,
+        "effect_size": 0.03,
+        "ci_lower": -0.13,
+        "ci_upper": 0.2,
+        "p_value": 0.71,
+        "sample_n": 1344,
+        "intervention_n": 719,
+        "control_n": 625,
+        "impact_months": 0,
+        "significance": "p = 0.71；未达统计显著"
+       },
+       {
+        "trial_url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+        "source": "Sanders_2021_EEF",
+        "effect_measure": "Hedges g",
+        "security_strength": null,
+        "security_total": 0,
+        "security_status": "not_rated",
+        "label_zh": "数学成绩",
+        "group_zh": "原五年级队列",
+        "is_subgroup": false,
+        "effect_size": -0.07,
+        "ci_lower": -0.2,
+        "ci_upper": 0.07,
+        "p_value": 0.34,
+        "sample_n": 3337,
+        "intervention_n": 1666,
+        "control_n": 1671,
+        "impact_months": null,
+        "significance": "p = 0.34；未达统计显著"
+       },
+       {
+        "trial_url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+        "source": "Sanders_2021_EEF",
+        "effect_measure": "Hedges g",
+        "security_strength": null,
+        "security_total": 0,
+        "security_status": "not_rated",
+        "label_zh": "阅读成绩",
+        "group_zh": "原五年级队列",
+        "is_subgroup": false,
+        "effect_size": -0.13,
+        "ci_lower": -0.25,
+        "ci_upper": -0.01,
+        "p_value": 0.04,
+        "sample_n": 3337,
+        "intervention_n": 1666,
+        "control_n": 1671,
+        "impact_months": -2,
+        "significance": "p = 0.04；负向显著"
+       },
+       {
+        "trial_url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+        "source": "Sanders_2021_EEF",
+        "effect_measure": "Hedges g",
+        "security_strength": null,
+        "security_total": 0,
+        "security_status": "not_rated",
+        "label_zh": "数学成绩",
+        "group_zh": "原六年级队列",
+        "is_subgroup": false,
+        "effect_size": -0.03,
+        "ci_lower": -0.18,
+        "ci_upper": 0.11,
+        "p_value": 0.73,
+        "sample_n": 3597,
+        "intervention_n": 1859,
+        "control_n": 1738,
+        "impact_months": null,
+        "significance": "p = 0.73；未达统计显著"
+       },
+       {
+        "trial_url": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
+        "source": "Sanders_2021_EEF",
+        "effect_measure": "Hedges g",
+        "security_strength": null,
+        "security_total": 0,
+        "security_status": "not_rated",
+        "label_zh": "阅读成绩",
+        "group_zh": "原六年级队列",
+        "is_subgroup": false,
+        "effect_size": -0.08,
+        "ci_lower": -0.2,
+        "ci_upper": 0.04,
+        "p_value": 0.209,
+        "sample_n": 3597,
+        "intervention_n": 1859,
+        "control_n": 1738,
+        "impact_months": null,
+        "significance": "p = 0.209；未达统计显著"
        }
-      ]
+      ],
+      "analysis_records": {
+       "randomised_schools": 86,
+       "intervention_schools": 44,
+       "control_schools": 42,
+       "enrolled_pupils": 7230,
+       "analysis_pupils": 6934,
+       "unmatched_pupils": 296,
+       "cohorts": [
+        {
+         "entry_year": 5,
+         "enrolled": 3531,
+         "analysis_schools": 83,
+         "analysis_pupils": 3337,
+         "endpoint_year": 2018,
+         "fsm_analysis_n": 1232,
+         "icc": 0.1,
+         "mdes": 0.16
+        },
+        {
+         "entry_year": 6,
+         "enrolled": 3699,
+         "analysis_schools": 85,
+         "analysis_pupils": 3597,
+         "endpoint_year": 2017,
+         "fsm_analysis_n": 1344,
+         "icc": 0.12,
+         "mdes": 0.17
+        }
+       ],
+       "cace": [
+        {
+         "entry_year": 5,
+         "coefficient": -3.78,
+         "clustered_se": 2.855,
+         "n": 3337
+        },
+        {
+         "entry_year": 6,
+         "coefficient": -1.965,
+         "clustered_se": 3.232,
+         "n": 3597
+        }
+       ],
+       "dose_response": [
+        {
+         "entry_year": 5,
+         "coefficient": -0.279,
+         "clustered_se": 0.17,
+         "n": 1387
+        },
+        {
+         "entry_year": 6,
+         "coefficient": -0.171,
+         "clustered_se": 0.186,
+         "n": 1579
+        }
+       ]
+      },
+      "analysis_plan_changes": "教师评分最低三分之一亚组因对照组无评分而未作因果比较；描述性剂量指标由准则评分改为上传录课次数。",
+      "additional_analyses": [
+       {
+        "analysis": "依从者效应",
+        "year5": "−3.780（2.855）；3,337 人",
+        "year6": "−1.965（3.232）；3,597 人",
+        "interpretation": "两者未达统计显著"
+       },
+       {
+        "analysis": "每增加一次录课",
+        "year5": "−0.279（0.170）；1,387 人",
+        "year6": "−0.171（0.186）；1,579 人",
+        "interpretation": "描述性关联；均未达统计显著"
+       },
+       {
+        "analysis": "教师策略使用频率",
+        "year5": "−25.763（16.250）",
+        "year6": "4.577（5.011）",
+        "interpretation": "两者未达统计显著"
+       },
+       {
+        "analysis": "教师重视反馈",
+        "year5": "−12.319（4.869）；p < 0.05",
+        "year6": "8.277（4.954）",
+        "interpretation": "仅原五年级负向显著关联"
+       },
+       {
+        "analysis": "学校重视反馈（教师自陈）",
+        "year5": "−7.159（9.852）",
+        "year6": "4.654（3.332）",
+        "interpretation": "两者未达统计显著"
+       }
+      ],
+      "additional_analysis_note": "补充分析为原始分数回归系数，括号为学校聚类标准误；后三行学生样本分别为 321、482 人，控制对应问项前测，关联不能确定反馈态度的因果作用。排除缺失基线学生的复核仍仅原五年级阅读为负向显著。"
      }
     }
    ],
@@ -5634,7 +5904,7 @@
    "overview_source": "https://educationendowmentfoundation.org.uk/projects-and-evaluation/projects/the-visible-classroom-2015",
    "developer": "墨尔本大学（University of Melbourne）与 Ai-Media UK",
    "delivery_organisation": "参与学校教师使用课程转写与反馈；效能试验安排指定教学导师进行专业对话",
-   "cost_note": "效能试验交付成本待核实；试点费用按一年实施条件估算。"
+   "cost_note": "效能试验按三年累计 £5,544、243 名学生估算 £23/生；试点按一年实施条件估算。"
   }
  }
 }

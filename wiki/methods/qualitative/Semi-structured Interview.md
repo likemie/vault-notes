@@ -8,7 +8,7 @@ summary: "在预先准备的话题提纲与开放式追问之间取得平衡的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 42
+method_related_count: 43
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
@@ -55,6 +55,7 @@ related_arguments:
   - "[[Argument_Zhu_Yang_2023_HEP]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
   - "[[Argument_Skipp_Tanner_2015_EEF]]"
+  - "[[Argument_Sanders_2021_EEF]]"
 related_facts:
   - "[[OECD]]"
   - "[[Semiconductor Research Corporation]]"
@@ -156,3 +157,4 @@ updated: 2026-10-28
 > - [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025, pp. 1047–1048)]] — 在金边及在华针对 40 位关键知情人（涵盖中柬高教项目管理者、[[Confucius Institute|孔子学院]]教职员、留学生及第三方外援项目协调人）开展半结构化[[In-depth Interview|深度访谈]]，通过平衡利益相关者与转岗/对比官员视角，解构对外高教合作的落地成效与深层张力。
 
 > - [[Argument_Skipp_Tanner_2015_EEF|(Skipp & Tanner, 2015, pp. 8, 12)]] — 在可见课堂试点的三个交叠批次中开展 27 次半结构访谈，结合两次课堂观察识别技术、反馈使用与专业讨论的实施条件。
+> - [[Argument_Sanders_2021_EEF|(Sanders et al., 2021, pp. 19–20)]] — 在可见课堂效能试验中目的抽样访谈教师和导师共 26 次，逐行编码归纳主题，样本偏向高参与者。

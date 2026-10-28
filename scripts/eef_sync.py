@@ -987,6 +987,10 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
             rows.append(("计划实施", pend(r["planned_intervention_note"])))
         if r.get("planned_dose_note"):
             rows.append(("方案剂量", pend(r["planned_dose_note"])))
+        if r.get("actual_dose_note"):
+            rows.append(("实施剂量", pend(r["actual_dose_note"])))
+        if r.get("analysis_plan_changes"):
+            rows.append(("分析变更", pend(r["analysis_plan_changes"])))
         if all(r.get(k) is not None for k in ("sessions_per_week", "session_minutes", "group_size")):
             dose = f"每周 {r['sessions_per_week']} 次 × {r['session_minutes']} 分钟，每组 {r['group_size']} 人"
             if r.get("delivery_scope"):
@@ -1024,17 +1028,32 @@ def render_programme_v3(slug: str, p: dict, errata: list) -> str:
             rows.append(("资料", " · ".join(docs)))
         lines += [">", f"> > [!eef-trial]- [{label}]({trial['url']}) · " + " · ".join(summary),
                   "> > | k | v |", "> > | --- | --- |"] + [f"> > | {k} | {v} |" for k, v in rows]
-        outcomes = sorted(trial.get("outcomes", []), key=lambda o: bool(o.get("is_subgroup")))
+        # Report-verified rows live with the source-bound record; preserve their
+        # order so each subgroup can follow its corresponding overall result.
+        outcomes = r.get("outcomes") if "outcomes" in r else sorted(trial.get("outcomes", []), key=lambda o: bool(o.get("is_subgroup")))
         if outcomes:
             lines += ["> >", "> > | out | grp | imp | es | sec | sig |", "> > | --- | --- | --- | --- | --- | --- |"]
             for o in outcomes:
                 grp = esc(o.get("group_zh") or ("亚组" if o.get("is_subgroup") else "全体学生"))
                 if o.get("is_subgroup"):
                     grp = "↳ " + grp
+                if o.get("sample_n") is not None:
+                    grp += f"<br><small>n = {o['sample_n']:,}</small>"
                 es = f"{o['effect_size']:g}" if o.get("effect_size") is not None else "未提供"
+                if o.get("ci_lower") is not None and o.get("ci_upper") is not None:
+                    es += f"<br><small>95%置信区间 [{o['ci_lower']:g}, {o['ci_upper']:g}]</small>"
                 lines.append(f"> > | {esc(o.get('label_zh') or o.get('outcome_group') or '指标未提供')} | {grp} | "
                              f"{programme_months(o.get('impact_months'))} | {es} | "
                              f"{_dots(o.get('security_strength'), o.get('security_total'), o.get('security_status'))} | {esc(o.get('significance') or '未报告')} |")
+            if r.get("outcome_note"):
+                lines += ["> >", "> > " + esc(r["outcome_note"])]
+        if r.get("additional_analyses"):
+            lines += ["> >", "> > | 补充分析 | 原五年级队列 | 原六年级队列 | 解释 |",
+                      "> > | --- | --- | --- | --- |"]
+            for analysis in r["additional_analyses"]:
+                lines.append("> > | " + " | ".join(esc(analysis[key]) for key in ("analysis", "year5", "year6", "interpretation")) + " |")
+            if r.get("additional_analysis_note"):
+                lines += ["> >", "> > " + esc(r["additional_analysis_note"])]
         notes += [f"**{label}** {esc(n)}" for n in r.get("review_notes", [])]
     notes = [esc(n) for n in p.get("review_notes", [])] + notes
     notes += [esc(e.get("note", "")) for e in errata if e.get("programme") == slug]
