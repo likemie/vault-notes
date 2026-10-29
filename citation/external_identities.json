@@ -1810,6 +1810,14 @@
       ],
       "title": ""
     },
+    "Albert-László Barabási & Albert, 1999": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Preferential Attachment in Academia.md"
+      ],
+      "title": ""
+    },
     "Alberts, 2011": {
       "doi": "",
       "isbn": "",
@@ -1984,6 +1992,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/higher-education/Student Involvement.md"
+      ],
+      "title": ""
+    },
+    "Alexander M. Petersen et al., 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Preferential Attachment in Academia.md"
       ],
       "title": ""
     },
@@ -5671,7 +5687,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/higher-education/Matthew Effect in Academia.md"
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md",
+        "wiki/concepts/higher-education/The 41st Chair.md"
       ],
       "title": ""
     },
@@ -25782,6 +25799,14 @@
       ],
       "title": ""
     },
+    "Derek de Solla Price, 1965": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Preferential Attachment in Academia.md"
+      ],
+      "title": ""
+    },
     "Derksen, 2000": {
       "doi": "",
       "isbn": "",
@@ -27346,7 +27371,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/science-policy/g-Index.md"
       ],
       "title": ""
     },
@@ -29438,6 +29464,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/science-policy/g-Index.md",
         "wiki/concepts/science-policy/h-Index.md"
       ],
       "title": ""
@@ -60901,6 +60928,14 @@
       "seen_in": [],
       "title": "Examination of One District's Identification, Assessment Practices, Preventative Interventions, and Longitudinal Literacy Learning of At-risk Readers"
     },
+    "Leo Egghe, 2006": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/g-Index.md"
+      ],
+      "title": ""
+    },
     "Leo Strauss, 1959": {
       "doi": "",
       "isbn": "",
@@ -80668,7 +80703,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/higher-education/Matthew Effect in Academia.md"
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md",
+        "wiki/theories/science-policy/Preferential Attachment in Academia.md"
       ],
       "title": ""
     },
@@ -86118,7 +86154,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/higher-education/The 41st Chair.md"
       ],
       "title": ""
     },
@@ -94443,6 +94480,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/academic-writing/Conference-Centric Publication Model.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md"
       ],
       "title": ""
@@ -102858,6 +102896,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/academic-writing/Conference-Centric Publication Model.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md"
       ],
       "title": ""

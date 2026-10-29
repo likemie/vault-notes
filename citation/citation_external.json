@@ -426,6 +426,8 @@
     "Albert Hirschman, 1958": "Albert Hirschman, 1958",
     "Albert O. Hirschman (1958)": "Albert O. Hirschman, 1958",
     "Albert O. Hirschman, 1958": "Albert O. Hirschman, 1958",
+    "Albert-László Barabási & Albert (1999)": "Albert-László Barabási & Albert, 1999",
+    "Albert-László Barabási & Albert, 1999": "Albert-László Barabási & Albert, 1999",
     "Alberts (2011)": "Alberts, 2011",
     "Alberts (2015)": "Alberts, 2015",
     "Alberts, 2011": "Alberts, 2011",
@@ -475,6 +477,8 @@
     "Alexander (2020)": "Alexander, 2020",
     "Alexander Astin (1984)": "Alexander Astin, 1984",
     "Alexander Astin, 1984": "Alexander Astin, 1984",
+    "Alexander M. Petersen et al. (2014)": "Alexander M. Petersen et al., 2014",
+    "Alexander M. Petersen et al., 2014": "Alexander M. Petersen et al., 2014",
     "Alexander et al. (1999)": "Alexander et al., 1999",
     "Alexander et al., 1999": "Alexander et al., 1999",
     "Alexander, 1994": "Alexander, 1994",
@@ -5858,7 +5862,9 @@
     "Derakhshan et al. (2024)": "Derakhshan et al., 2024",
     "Derakhshan et al., 2024": "Derakhshan et al., 2024",
     "Derek de Solla Price (1963)": "Derek de Solla Price, 1963",
+    "Derek de Solla Price (1965)": "Derek de Solla Price, 1965",
     "Derek de Solla Price, 1963": "Derek de Solla Price, 1963",
+    "Derek de Solla Price, 1965": "Derek de Solla Price, 1965",
     "Derksen (2000)": "Derksen, 2000",
     "Derksen, 2000": "Derksen, 2000",
     "Derrington & Kendall (2004)": "Derrington & Kendall, 2004",
@@ -13848,6 +13854,8 @@
     "Lennon (2007)": "Lennon, 2007",
     "Lennon, 1999": "Lennon, 1999",
     "Lennon, 2007": "Lennon, 2007",
+    "Leo Egghe (2006)": "Leo Egghe, 2006",
+    "Leo Egghe, 2006": "Leo Egghe, 2006",
     "Leo Strauss (1959)": "Leo Strauss, 1959",
     "Leo Strauss, 1959": "Leo Strauss, 1959",
     "Leon et al. (2010)": "Leon et al., 2010",
@@ -29888,6 +29896,21 @@
       ],
       "title": ""
     },
+    "Albert-László Barabási & Albert, 1999": {
+      "aliases": [
+        "Albert-László Barabási & Albert, 1999",
+        "Albert-László Barabási & Albert (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Albert-László Barabási & Albert, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Preferential Attachment in Academia.md"
+      ],
+      "title": ""
+    },
     "Alberts, 2011": {
       "aliases": [
         "Alberts, 2011",
@@ -30191,6 +30214,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/higher-education/Student Involvement.md"
+      ],
+      "title": ""
+    },
+    "Alexander M. Petersen et al., 2014": {
+      "aliases": [
+        "Alexander M. Petersen et al., 2014",
+        "Alexander M. Petersen et al. (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Alexander M. Petersen et al., 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Preferential Attachment in Academia.md"
       ],
       "title": ""
     },
@@ -36307,7 +36345,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/higher-education/Matthew Effect in Academia.md"
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md",
+        "wiki/concepts/higher-education/The 41st Chair.md"
       ],
       "title": ""
     },
@@ -69584,6 +69623,21 @@
       ],
       "title": ""
     },
+    "Derek de Solla Price, 1965": {
+      "aliases": [
+        "Derek de Solla Price, 1965",
+        "Derek de Solla Price (1965)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Derek de Solla Price, 1965"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Preferential Attachment in Academia.md"
+      ],
+      "title": ""
+    },
     "Derksen, 2000": {
       "aliases": [
         "Derksen, 2000",
@@ -72182,7 +72236,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/science-policy/g-Index.md"
       ],
       "title": ""
     },
@@ -75691,6 +75746,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/science-policy/g-Index.md",
         "wiki/concepts/science-policy/h-Index.md"
       ],
       "title": ""
@@ -127527,6 +127583,21 @@
       "seen_in": [],
       "title": "Examination of One District's Identification, Assessment Practices, Preventative Interventions, and Longitudinal Literacy Learning of At-risk Readers"
     },
+    "Leo Egghe, 2006": {
+      "aliases": [
+        "Leo Egghe, 2006",
+        "Leo Egghe (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Leo Egghe, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/g-Index.md"
+      ],
+      "title": ""
+    },
     "Leo Strauss, 1959": {
       "aliases": [
         "Leo Strauss, 1959",
@@ -160176,7 +160247,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/higher-education/Matthew Effect in Academia.md"
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md",
+        "wiki/theories/science-policy/Preferential Attachment in Academia.md"
       ],
       "title": ""
     },
@@ -169222,7 +169294,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/higher-education/The 41st Chair.md"
       ],
       "title": ""
     },
@@ -183041,6 +183114,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/academic-writing/Conference-Centric Publication Model.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md"
       ],
       "title": ""
@@ -196816,6 +196890,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/academic-writing/Conference-Centric Publication Model.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md"
       ],
       "title": ""

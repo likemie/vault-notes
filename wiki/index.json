@@ -33,6 +33,17 @@
     ]
   },
   {
+    "title": "Conference-Centric Publication Model",
+    "type": "concept",
+    "path": "wiki/concepts/academic-writing/Conference-Centric Publication Model.md",
+    "aliases": [
+      "会议主导型发表范式",
+      "计算机科学会议发表传统",
+      "学术会议发表范式",
+      "Conference-Centric Publishing"
+    ]
+  },
+  {
     "title": "Deficiencies in Past Literature",
     "type": "concept",
     "path": "wiki/concepts/academic-writing/Deficiencies in Past Literature.md",
@@ -9839,6 +9850,17 @@
     ]
   },
   {
+    "title": "The 41st Chair",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/The 41st Chair.md",
+    "aliases": [
+      "第四十一把交椅",
+      "第41把交椅",
+      "法兰西学术院第41把交椅",
+      "隐性天资假说"
+    ]
+  },
+  {
     "title": "University as Public Space",
     "type": "concept",
     "path": "wiki/concepts/higher-education/University as Public Space.md",
@@ -15954,6 +15976,16 @@
     ]
   },
   {
+    "title": "g-Index",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/g-Index.md",
+    "aliases": [
+      "g指数",
+      "Egghe's g-index",
+      "艾格指数"
+    ]
+  },
+  {
     "title": "Gold Standard Science",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Gold Standard Science.md",
@@ -21356,6 +21388,17 @@
       "知识蓄水池理论",
       "知识池隐喻",
       "Pool of Knowledge Theory"
+    ]
+  },
+  {
+    "title": "Preferential Attachment in Academia",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Preferential Attachment in Academia.md",
+    "aliases": [
+      "学术优先连接",
+      "学术累积引文吸附机制",
+      "优先连接理论",
+      "Preferential Attachment in Citation Dynamics"
     ]
   },
   {
