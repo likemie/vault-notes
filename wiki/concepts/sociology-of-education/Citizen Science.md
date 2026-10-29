@@ -10,7 +10,7 @@ aliases:
 summary: "公众自愿、直接参与科学研究全生命周期（从数据采集、模式分类到议程共创与政策转化）的协作科研范式，兼具突破科研时空瓶颈、赋权公众科学资本与民主化重大使命创新方向的多维价值。"
 type: concept
 domain: "sociology-of-education"
-related_count: 32
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Wicked Problem]]"
+  - "[[Scientific Productivity]]"
   - "[[Big Science]]"
   - "[[Nature of Science]]"
   - "[[Self-Efficacy]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Homework]]"
   - "[[Scientific Literacy]]"
+  - "[[Document]]"
 related_theories: []
 related_facts:
   - "[[Big Butterfly Count]]"
@@ -61,7 +63,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -89,7 +91,7 @@ updated: 2026-10-26
 
 > [!feature] 公民科学的四大理论支柱（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|The Royal Society, 2026, pp. 43, 46]]）
 >
-> - **科研生产力与海量时空数据赋能（Scientific Data & Scalability）** 突破传统职业科研团队在资金、编制与地理覆盖面上的物理瓶颈，构建数以百万计的连续时空监测数据集，为国家生态红线规划与复杂[[Big Science|大科学工程]]提供基准底座。
+> - **[[Scientific Productivity|科研生产力]]与海量时空数据赋能（Scientific Data & Scalability）** 突破传统职业科研团队在资金、编制与地理覆盖面上的物理瓶颈，构建数以百万计的连续时空监测数据集，为国家生态红线规划与复杂[[Big Science|大科学工程]]提供基准底座。
 > - **[[Nature of Science|科学本质]]理解与探究心智培育（Nature of Science & Epistemic Mindset）** 使公众亲身经历提出问题、收集证据、辨别噪声与验证假说的完整科研过程，深刻领会科学知识的证据驱动性与暂定性，破除对静态教科书结论的教条迷信。
 > - **第三部门会员网络与法定政策转化（Third-Sector Mobilisation & Policy Impact）** 依托大型会员制公益机构（如英国国家信托拥有逾 500 万会员、英国皇家鸟类保护协会（Royal Society for the Protection of Birds, RSPB））动员全社会参与物种普查，将公民科学数据直接接入国家生物多样性网络与环境立法。
 > - **社区赋权与民主环境行动力（Community Agency & Environmental Action）** 通过在地化课题与身心健康研究，将抽象的科技原理转化为公众可感知、可操作的切身生活实践，极大激发公民的[[Self-Efficacy|自我效能感]]与集体环保治理行动力。
@@ -182,5 +184,5 @@ updated: 2026-10-26
 > | [[UN Sustainable Development Goals]] | 事实目标 | 公民科学广泛对接可持续发展目标中的气候行动、陆地与水下生物保护等指标监测。 |
 > | [[Big Butterfly Count]] | 实践案例 | 英国最具代表性的生态观测类公民科学国家工程。 |
 > | [[The Perception Census]] | 实践案例 | 全球首个大规模认知神经多样性艺术与科学跨界公民科学普查。 |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026)]] | 实证文献 | 系统评估英国公民科学项目、非正式科学基建与四级评估框架的权威报告。 |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026)]] | 实证[[Document\|文献]] | 系统评估英国公民科学项目、非正式科学基建与四级评估框架的权威报告。 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 理论文献 | 阐述使命导向创新政策中公众参与、公民协商与社会挑战共创的经典论述。 |

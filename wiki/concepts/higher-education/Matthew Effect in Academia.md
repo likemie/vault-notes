@@ -8,7 +8,7 @@ aliases:
 summary: "Merton (1968) 提出、经 Schulze-Cleven et al. (2017) 制度化的概念，描述绩效拨款和排名如何使资源向已有资源的机构进一步集中，形成评估-拨款-资源累积的自我强化循环"
 type: concept
 domain: "higher-education"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -32,10 +32,11 @@ related_facts:
   - "[[Engineering Research Centers]]"
 related_arguments:
   - "[[Argument_Schulze-Cleven_2017_HE]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!info] 定义
@@ -73,10 +74,36 @@ Meyer & Zhou的分析揭示了美国精英大学捐赠基金的马太效应：�
 
 精英大学吸引最好的研究者，最好的研究者产出最有影响的成果，最有影响的成果吸引更多的博士生和博士后，这些初级研究者的劳动又进一步提升了导师和所在机构的产出。当一位高产研究者从一所普通大学被挖到一所精英大学后，前者不仅失去了一位人才，还失去了围绕这位研究者建立的研究团队、课程和外部合作网络。
 
+### 同行评审与引用扩散中的个体声望马太效应
+
+在微观学者个体与论文评价层面，学术声望构成了强大的信号机制，引发显著的正向歧视与引用积累（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021, pp. 28–38]]）：
+- **同行评审中的声望溢价** 在 IETF 协议评审实验中，知名高级作者姓名使协议录用率提升 9.4%；当姓名被“et al.”遮蔽时该效应下降 7.2%，表明姓名声望贡献了 77% 的合著优势；但该效应在严格预审精读样本中完全消失，表明地位信号主要在评审专家面临信息过载时发挥启发式替代功能（Simcoe & Waguespack, 2011; [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021, pp. 29–30]]）。在 WSDM 2017 的随机双盲与单盲对照实验中，知名学者在单盲评审中的录用率较双盲组高出 63%，顶尖高校作者高出 58%，顶尖科技企业作者高出 110%（Tomkins et al., 2017; [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021, pp. 30–31]]）。
+- **早期引用的跨越效应与向历史成果溢出** 在论文发表初期，顶尖知名物理学家的论文仅凭作者声望即可迅速越过 $c_x \approx 40$ 次引用的门槛，其被引概率是青年学者（$c_x \approx 10$）的 4 倍；但在跨过门槛后，声望效应逐步退场，转由成果自身内在价值与优先连接机制决定长期轨迹（Petersen et al., 2014; [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021, pp. 32–33]]）。此外，当学者荣获诺贝尔奖等重大认可后，其早年发表的历史旧作亦会迎来显著的被引爆发（Azoulay et al., 2014; [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021, pp. 33–34]]）。
+- **外生声望赋予的因果滚雪球效应** 针对维基百科前 1% 高产编辑开展的随机田野实验证实，完全随机赋予虚构荣誉勋章使实验组编辑的中位数产出提升了 60%，并在后续 90 天内赢得了显著更多来自真实社群其他成员颁发的客观荣誉勋章，提供了先发外生荣誉本身足以启动自我强化循环的直接因果证据（Restivo & van de Rijt, 2012, 2014; [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021, pp. 37–38]]）。
+
 > [!warning] 为什么公平竞争加剧了马太效应？
 > 一个反直觉的发现是：表面上制造公平竞争的评估和排名制度，实际上**加速了**而非遏制了马太效应。原因在于：
 >
 > - **指标本身的偏向性** 大多数评估指标，影响因子、引用数、拨款金额、国际师生比例，都偏向已有资源优势的机构和学者。一个来自教学型大学、在地方性期刊上发表社区研究的学者，在 REF 框架中几乎不可见，无论其研究的实际社会影响如何([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.801–802]])
 > - **规则由领先者制定** 评估标准，什么算好研究、什么算"影响力"——往往反映了精英机构的学术文化。当所有人被要求按照精英机构的标准来竞争时，精英机构已经在起跑线上领先了
 > - **补偿机制的缺席** 在真正的市场竞争中，落后者可以通过降价或差异化来找到生存空间。但在准市场中，"价格"（拨款金额）是由评估结果决定的，没有"打折"或"小众定位"的选项。一个专注于卓越教学而非研究的大学，在 REF 框架中几乎没有获得 QR 拨款的途径
+
+---
+
+> [!empirical-divider]
+
+> [!ref-table]- 其他实证结果（无效应量）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | WSDM 2017 国际学术会议同行评审（同一论文双向分流评审） | 随机对照双盲与单盲实验 | 知名作者与顶尖机构在单盲相对于双盲环境下的录用率优势 | 知名学者单盲录用率较双盲高 63%；顶尖大学高 58%；顶尖企业作者高 110% | 计算机领域顶级会议全量随机实验 | 证实评审人对高声望学者与机构存在显著正向歧视的疑罪从无偏倚 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 维基百科前 1% 高产编辑社群随机实验 | 随机现场干预实验 | 随机赋予外生荣誉星章对后续编辑产出与真实荣誉获取的影响 | 实验组编辑中位数生产力提升 60%，且后续 90 天内赢得真实荣誉勋章显著增多 | 排除初始天赋差异的严格因果干预 | 证明外生赋予的声望认可独立于内在能力，直接启动自我强化的累积优势 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 物理学家引文网络追踪（顶尖学者 vs 助理教授） | 引文动态跨越模型 | 论文发表初期学术声望推动引用的经验阈值 $c_x$ | 顶尖学者跨越阈值 $c_x \approx 40$ 次引用；助理教授为 $c_x \approx 10$ 次引用 | 经验引文增长率拟合 | 证实声望仅在论文发表初期发挥 4 倍提振功能，长期依然取决于成果内在质量 |
+
+---
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 阐述高等教育准市场与绩效评估机制如何推动学术资源向已有优势机构集中，形成制度化的学术马太效应。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 结合同行评审随机实验、早期引文跨越模型与维基百科现场干预，提供学术声望在微观成果评价与学术承认中诱发马太效应的直接因果证据。
 

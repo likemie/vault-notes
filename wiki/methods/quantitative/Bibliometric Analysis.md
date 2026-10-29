@@ -12,21 +12,36 @@ summary: "运用数学与统计学方法对学术文献外部特征、引文网�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 4
-method_related_level: 0
-method_related_stars: "☆"
+method_related_count: 19
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
   - method/bibliometrics
   - theme/scientometrics
   - theme/knowledge-production
-related_concepts: []
+related_concepts:
+  - "[[Document]]"
+  - "[[Scientific Productivity]]"
+  - "[[Unit of Analysis]]"
+  - "[[Research Problem]]"
+  - "[[Paradigm]]"
+  - "[[Champ]]"
+  - "[[Epistemology]]"
+  - "[[Knowledge Production]]"
+  - "[[Literature Search]]"
+  - "[[Literature Review]]"
+  - "[[Causality]]"
+  - "[[Variable]]"
+  - "[[Heterogeneity]]"
+  - "[[Research Utilization]]"
 related_theories: []
 related_methods:
-  - "[[Network Analysis]]"
   - "[[Systematic Review]]"
+  - "[[Network Analysis]]"
   - "[[Survey Research]]"
+  - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -35,34 +50,34 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Bibliometric Analysis
-> 文献计量分析（Bibliometric Analysis）是运用数学与统计学方法对已发表学术文献的载体特征、学者合作网络、关键词共现频率以及引文网络展开量化建模的实证研究方法。该方法主要用于呈现特定学科领域的宏观演进趋势、核心研究前沿、学科分支结构以及学者共同体的引证关联格局。
+> [[Document|文献]]计量分析（Bibliometric Analysis）是运用数学与统计学方法对已发表学术文献的载体特征、学者合作网络、关键词共现频率以及引文网络展开量化建模的实证研究方法。该方法主要用于呈现特定学科领域的宏观演进趋势、核心研究前沿、学科分支结构以及学者共同体的引证关联格局。
 
 > [!method-scope] 方法范围
-> - **研究对象** 同行评审期刊刊载成果、学术专著、会议文献、专利报告、系统综述与引文索引数据库记录。
-> - **问题类型** 适合回答学术生产力增长率测算、高影响力学者与文献识别、学科知识基础追踪、跨学科引用模式比较以及概念演化路径分析。
-> - **分析单位** 单篇文献、科研人员、研究机构、国家、出版期刊、学科领域或引文网络中的节点与聚类。
+> - **研究对象** 同行评审期刊刊载成果、学术专著、会议文献、专利报告、[[Systematic Review|系统综述]]与引文索引数据库记录。
+> - **问题类型** 适合回答[[Scientific Productivity|学术生产力]]增长率测算、高影响力学者与文献识别、学科知识基础追踪、跨学科引用模式比较以及概念演化路径分析。
+> - **[[Unit of Analysis|分析单位]]** 单篇文献、科研人员、研究机构、国家、出版期刊、学科领域或引文网络中的节点与聚类。
 > - **输出形式** 历年发文量增长曲线、引文频次分布、高被引文献排行榜、共被引网络聚类图谱、关键词共现网络及主题演化流向图。
 
 > [!citation-card] 科学图谱与文献计量的计算定位
-> 文献计量分析旨在运用文本分析与引文分析计算技术，生成研究领域的全景图景。该方法是识别核心研究议题并利用计算途径呈现学术宏观图景的标准化范式。通过关键词分析识别核心主题演进，借助共被引分析生成学科领域全景并提取知识聚类。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 64)]]
+> 文献计量分析旨在运用文本分析与引文分析计算技术，生成研究领域的全景图景。该方法是识别核心[[Research Problem|研究议题]]并利用计算途径呈现学术宏观图景的标准化[[Paradigm|范式]]。通过关键词分析识别核心主题演进，借助共被引分析生成学科领域全景并提取知识聚类。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, p. 64)]]
 >
-> *Bibliometric analysis aims to generate a picture of a research field using both text analysis and citation analysis. It is a way of identifying core research topics and illustrating an academic landscape using a computational approach. Here, we used a keyword analysis to identify important themes in education and public health research and how those have changed over time. We also used a co-citation analysis to generate an overview of the field and to extract research clusters.*
+> *Bibliometric analysis aims to generate a picture of a research [[Champ|field]] using both text analysis and citation analysis. It is a way of identifying core research topics and illustrating an academic landscape using a computational approach. Here, we used a keyword analysis to identify important themes in education and public health research and how those have changed over time. We also used a co-citation analysis to generate an overview of the field and to extract research clusters.*
 
 ---
 
-> [!method-position] 认识论与方法定位
-> - **知识观** 视学术文献的引用关系与发表记录为知识生产、流动与合法化过程的物质化痕迹；认为文献之间的引证关联反映了概念亲缘性、学术认同与范式分化。
+> [!method-position] [[Epistemology|认识论]]与方法定位
+> - **知识观** 视学术文献的引用关系与发表记录为[[Knowledge Production|知识生产]]、流动与合法化过程的物质化痕迹；认为文献之间的引证关联反映了概念亲缘性、学术认同与范式分化。
 > - **研究者角色** 研究者在检索式设计、数据库选择、停用词清洗、共被引阈值设定及聚类算法挑选过程中扮演裁量角色，需要结合领域专长对计算图谱进行实质性质性解读。
-> - **有效性标准** 遵循文献检索策略的全面性与可复现性、数据清洗与实体对齐的严谨度、网络拓扑统计量（中心度、模块化指数）的稳健性，以及定性文献综述与定量计量图谱之间的互证度。
-> - **不声称回答的问题** 不能仅凭被引频次高低直接推断单篇文献的内在真理性或方法严谨性，也不能从共引关联直接确立两派学者之间存在直接的思想师承因果关系。
+> - **有效性标准** 遵循[[Literature Search|文献检索]]策略的全面性与可复现性、数据清洗与实体对齐的严谨度、网络拓扑统计量（中心度、模块化指数）的稳健性，以及定性[[Literature Review|文献综述]]与定量计量图谱之间的互证度。
+> - **不声称回答的问题** 不能仅凭被引频次高低直接推断单篇文献的内在真理性或方法严谨性，也不能从共引关联直接确立两派学者之间存在直接的思想师承[[Causality|因果关系]]。
 
-> [!method-stack] 数据、变量与模型
+> [!method-stack] 数据、[[Variable|变量]]与模型
 > - **数据来源** Web of Science 核心合集、Scopus、Dimensions、PubMed 等标准化引文数据库，以及跨学科预印本库。
 > - **核心变量** 历年发文总量、发文年均复合增长率、篇均被引频次、相对引文影响因子、节点度中心度（Degree Centrality）、中介中心度（Betweenness Centrality）。
 > - **分析模型** 普赖斯文献增长模型、布拉德福文献离散定律、共词分析（Co-word Analysis）、文献共被引分析（Co-citation Analysis）、引文关联分析（Bibliographic Coupling）及社区发现聚类算法（如 Louvain 算法、InfoMap）。
@@ -89,7 +104,7 @@ updated: 2026-10-26
 
 > [!method-limits] 方法局限
 > - **数据库收录偏误** 国际商业引文数据库存在明显的英语中心主义倾向与全球北方出版物偏好，可能系统性低估全球南方本土语言文献的生产力与知识贡献。
-> - **引用动机异质性** 学术引用行为包含赞同、借鉴、仪式性堆叠、批判反驳或学术结盟等多种复杂动机，简单将引用等同于正面学术认可易产生误判。
+> - **引用动机[[Heterogeneity|异质性]]** 学术引用行为包含赞同、借鉴、仪式性堆叠、批判反驳或学术结盟等多种复杂动机，简单将引用等同于正面学术认可易产生误判。
 > - **马太效应与时滞效应** 新近发表的高质量前沿成果由于积累时间短而处于被引低位，早期奠基文献容易因引证滚雪球效应形成垄断性高被引表象。
 > - **补救方式** 结合定性系统文献综述进行交叉验证，采用标准化加权算法校正发表时延偏误，并在检索阶段补充区域性学术数据库。
 
@@ -101,9 +116,10 @@ updated: 2026-10-26
 > |:-----|:-----|:-----|
 > | [[Network Analysis]] | 基础分析技术 | 社会网络分析为共被引与共词网络提供中心度、凝聚子群及拓扑结构算法。 |
 > | [[Systematic Review]] | 互补综述方法 | 系统综述提供透明严谨的文献检索与质量评价规程，为计量分析提供样本底库。 |
-> | [[Survey Research]] | 经验补充方法 | 问卷调查法可直接收集科研人员与实践者对领域前沿与证据使用的直接感知。 |
+> | [[Survey Research]] | 经验补充方法 | [[Questionnaire\|问卷调查]]法可直接收集科研人员与实践者对领域前沿与[[Research Utilization\|证据使用]]的直接感知。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024, pp. 29–32)]] — 运用文献计量分析比对公共卫生与教育循证政策研究的发文增长率（30.5% vs 23.6%）与共被引网络，揭示教育证据研究社群高度自指与分散碎片的结构特征。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021, pp. 8–12, 17–23)]] — 基于全球数千万作者与近亿篇论文的全量引文数据，运用文献计量分析测定科研生产力的人均百年稳态、对数正态长尾分布与 h 指数的长期前瞻预测效度。

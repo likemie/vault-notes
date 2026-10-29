@@ -2,6 +2,7 @@
 citation: "Wang, D., & Barabási, A.-L. (2021). The science of science. Cambridge University Press. https://doi.org/10.1017/9781108610834"
 extracted_to:
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
 processed_date: 2026-10-27
 ---
 

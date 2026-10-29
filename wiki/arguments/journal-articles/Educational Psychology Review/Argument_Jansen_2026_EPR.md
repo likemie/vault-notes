@@ -22,6 +22,7 @@ tags:
   - field/educational-psychology
 related_concepts:
   - "[[Visible Learning]]"
+  - "[[Document]]"
   - "[[Evaluation Research]]"
   - "[[Automated Data Extraction]]"
   - "[[Paradigm]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Literature Search]]"
   - "[[Research Question]]"
+  - "[[Scientific Productivity]]"
   - "[[Primary and Secondary Documents]]"
 related_theories: []
 related_methods:
@@ -63,14 +65,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-18
-updated: 2026-10-23
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Jansen_2026_EPR"
 argument_key: "Argument_Jansen_2026_EPR"
 argument_display_title: "Automated data extraction by large language models: Assessing accuracy in comparison to human experts using the example of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 33
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -83,7 +85,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 在教育心理学与实证教育研究中，[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analyses, SOMAs）通过定量汇总大量一阶[[Meta-analysis\|元分析]]结果，能够系统评估宏观干预效能、比较跨领域影响要素并确立[[Effect Size\|效应量]]基准（如[[John Hattie\|约翰·哈蒂]]（John Hattie）的《[[Visible Learning\|可见的学习]]》项目）。然而，二阶元分析面临沉重的时间与人力成本壁垒：系统性从学术文献全文中提取统计结果单篇耗时达 125–172 分钟（中等综述需 44–66 小时，大型综述超 300 小时）。前沿大语言模型（Large Language Models, LLMs）能否胜任二阶元分析中复杂的统计数据提取并达到人类专家水平？以往[[Evaluation Research\|评估研究]]简单将单一人类提取预设为无误差真值的做法存在何种方法论缺陷？如何建立专家仲裁校准的金标准基准以解构机器与人类的真实误差形态？
+> 在教育心理学与实证教育研究中，[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analyses, SOMAs）通过定量汇总大量一阶[[Meta-analysis\|元分析]]结果，能够系统评估宏观干预效能、比较跨领域影响要素并确立[[Effect Size\|效应量]]基准（如[[John Hattie\|约翰·哈蒂]]（John Hattie）的《[[Visible Learning\|可见的学习]]》项目）。然而，二阶元分析面临沉重的时间与人力成本壁垒：系统性从学术[[Document|文献]]全文中提取统计结果单篇耗时达 125–172 分钟（中等综述需 44–66 小时，大型综述超 300 小时）。前沿大语言模型（Large Language Models, LLMs）能否胜任二阶元分析中复杂的统计数据提取并达到人类专家水平？以往[[Evaluation Research\|评估研究]]简单将单一人类提取预设为无误差真值的做法存在何种方法论缺陷？如何建立专家仲裁校准的金标准基准以解构机器与人类的真实误差形态？
 
 > [!claim] 核心主张
 > 前沿大语言模型在规范提示词引导下，对复杂教育元分析文献进行[[Automated Data Extraction\|自动化数据提取]]的统计准确性全面达到甚至部分超越人类专家水平（与仲裁金标准的[[Intraclass Correlation Coefficient\|组内相关系数]] $\text{ICC} = 0.96–0.97$ vs 专家 $\text{ICC} = 0.81–0.95$；一致率达 77%–81% vs 专家 80%–86%）；模型之间表现出高达 87%–90% 的高度收敛一致性。事实性AI 幻觉在规范抽取中发生率极低（3–4 例，与专家持平），主要误差源于跨表格加总学生总数与原文报告模糊性。研究据此构建了双模型独立初筛结合专家分歧仲裁的人机混合验证[[Paradigm\|范式]]，在恪守[[Meaningful Human Control\|有意义的人类控制]]（Meaningful Human Control, MHC）的前提下消减 80% 人工劳动，实现[[Research Synthesis|证据综合]]效率与精度的帕累托最优。
@@ -241,7 +243,7 @@ issuing_organization: ""
 #### 2. 基于有意义人类控制的四步混合验证范式
 
 > [!goal] 混合验证规程的设计目标
-> - **核心目标** 将大模型的提取潜能转化为严谨的学术生产力，结合RAiSE 负责任[[Research Synthesis|证据综合]]指南，在恪守[[Meaningful Human Control\|有意义的人类控制]]原则的前提下，最大化节约专家劳动。
+> - **核心目标** 将大模型的提取潜能转化为严谨的[[Scientific Productivity|学术生产力]]，结合RAiSE 负责任[[Research Synthesis|证据综合]]指南，在恪守[[Meaningful Human Control\|有意义的人类控制]]原则的前提下，最大化节约专家劳动。
 
 > [!proc] 证据综合中有意义人类控制的四步混合验证规程
 > 1. **提示词开发与预试校准** 编制涵盖变量代码簿、提取优先级与少样本示例的标准化提示词，在独立先导文献集上完成参数调优。

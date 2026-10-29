@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Center of Calculation]]"
   - "[[Big Science]]"
   - "[[Paradigm]]"
+  - "[[Scientific Productivity]]"
   - "[[University-Based Research Infrastructure]]"
   - "[[University-Industry Collaboration]]"
 related_persons:
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-10-22
 ---
 
 > [!finding-cards] 关键成效与历史辐射
-> - **确立大型科研设施的同行评议开放[[Paradigm|范式]]** 超级[[Center of Calculation|计算中心]]不仅提供了算力，更在制度上树立了典范：昂贵且稀缺的国家公共科研设备无须由所在院校近亲独占，通过全国范围内的同行评议公平分配，能够以最高学术效率最大化释放科研生产力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]
+> - **确立大型科研设施的同行评议开放[[Paradigm|范式]]** 超级[[Center of Calculation|计算中心]]不仅提供了算力，更在制度上树立了典范：昂贵且稀缺的国家公共科研设备无须由所在院校近亲独占，通过全国范围内的同行评议公平分配，能够以最高学术效率最大化释放[[Scientific Productivity|科研生产力]]。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 41)]]
 > - **奠定计算科学作为“第三科研范式”的学术地位** 推动数值模拟与计算科学从边缘工具跃升为与“理论推导”和“实验室实验”并驾齐驱的现代科研支柱。
 > - **实证依托[[University-Based Research Infrastructure|大学科研基础设施]]与青年研究生创新活力** NCSA 催生 Mosaic 浏览器的史实深刻证明：国家在大学设立的高水平科研基础设施不仅解决了特定算力任务，更在宽松开放的高校学术生态中赋能了在读青年研究生群体自下而上的颠覆性技术创新，释放出重塑全球数字经济的巨大外部性。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 40–41)]]
 > - **释放民用信息高速公路的颠覆性技术红利** 围绕中心诞生的 NSFNET 与 Mosaic 浏览器，构成了从联邦公共科研投资向全球高科技经济与数字经济跨越的最壮丽成功范式之一。

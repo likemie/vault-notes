@@ -7,9 +7,9 @@ aliases:
 summary: "知识的创造、建构与合法化过程。在宏观治理与地缘场域揭示资本偏向、跨国指标自指性、国家教育督导对单一范式知识的行政建构与清洗，以及大国脱钩对知识策源地地位的冲击；在微观教学场域指向学习者在协商共同体中依托证据协调自主生成新知并内化审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 128
-related_level: 12
-related_stars: "💎💎💎💎"
+related_count: 131
+related_level: 13
+related_stars: "💎💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - subject/comparative-education
@@ -43,6 +43,8 @@ related_concepts:
   - "[[Epistemic Governance]]"
   - "[[Dynamic Research Notebook]]"
   - "[[Humboldtian Model of Higher Education]]"
+  - "[[Scientific Productivity]]"
+  - "[[Document]]"
   - "[[Intellectual Capital]]"
   - "[[Narrative Knowledge]]"
   - "[[Gatekeepers]]"
@@ -59,6 +61,7 @@ related_concepts:
   - "[[Gold Standard Science]]"
   - "[[Pilot Scale Platform]]"
   - "[[Technology Readiness Level]]"
+  - "[[Theory of Knowledge]]"
   - "[[Metacognition]]"
   - "[[Reflective Structuration]]"
   - "[[Evaluative Judgement]]"
@@ -70,6 +73,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Evaluativist]]"
   - "[[Cultural Hierarchy]]"
+  - "[[Epistemic Inequality]]"
   - "[[Mode 2 Knowledge Production]]"
   - "[[Direct Instruction]]"
   - "[[Knowledge Exchange]]"
@@ -84,7 +88,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Heterogeneous Integration]]"
-  - "[[Theory of Knowledge]]"
   - "[[Chain of Evidence]]"
   - "[[Internationalization of Higher Education]]"
 related_theories:
@@ -159,7 +162,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -256,8 +259,8 @@ updated: 2026-10-26
 
 ### 命题二　去中心化的竞争性资助体制造就了高产出知识生态但诱发了系统性学术避险
 
-> [!concept-lens] 科研资助经济学与学术生产力
-> 审视联邦项目竞争制在激发科研活力的同时，对青年学者研究方向与文献质量产生的潜在扭曲。
+> [!concept-lens] 科研资助经济学与[[Scientific Productivity|学术生产力]]
+> 审视联邦项目竞争制在激发科研活力的同时，对青年学者研究方向与[[Document|文献]]质量产生的潜在扭曲。
 
 > [!claim] [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]]; [[Argument_Stephan_2013_NBER|Stephan (2013)]]
 > **竞争性知识生产的双刃剑效应** Atkinson & Blanpied 论证指出，美国联邦研发基金直接资助教师个人而非大学当局的去中心化同行评审机制，激发了高校间争夺人才与课题的激烈竞争，构成了战后顶尖学术成果井喷的制度保障；但与此同时，当资助成功率走低与高校 2–3 年启动金耗尽时，生存压力迫使学者退守风险较低的增量课题，导致学术知识生产出现广泛的学术避险与文献平庸化现象。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42, 44–45)]]
@@ -339,7 +342,7 @@ updated: 2026-10-26
 > 揭示班级学习群体如何通过自适应组织重构克服孤岛式探究，实现全班共享知识前沿的跨越。
 
 > [!claim] [[Argument_Zhang_2022_SE|Zhang et al. (2022)]]
-> **弹性重构与公共知识前沿推进假说** [[Jianwei Zhang|张建伟]]等学者证实，在基于知识论坛的长期探究中，学生通过定期开展[[Metacognition|元认知]]反思评估，能够自主识别当前知识盲区并重组跨界小组（如将“眼睛组”与“大脑组”重组为“视觉传导神经信号组”）；这种[[Reflective Structuration|反思性结构化]]打破了传统小组合作的固定边界，使分散的朴素猜想在多轮发帖与辩难中聚合为高度融贯的系统因果机制模型，实质性推进了班级集体的公共知识前沿。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–893)]]
+> **弹性重构与公共知识前沿推进假说** [[Jianwei Zhang|张建伟]]等学者证实，在基于[[Theory of Knowledge|知识论]]坛的长期探究中，学生通过定期开展[[Metacognition|元认知]]反思评估，能够自主识别当前知识盲区并重组跨界小组（如将“眼睛组”与“大脑组”重组为“视觉传导神经信号组”）；这种[[Reflective Structuration|反思性结构化]]打破了传统小组合作的固定边界，使分散的朴素猜想在多轮发帖与辩难中聚合为高度融贯的系统因果机制模型，实质性推进了班级集体的公共知识前沿。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–893)]]
 
 ---
 
@@ -395,7 +398,7 @@ updated: 2026-10-26
 > [!dev-timeline] 知识生产概念的谱系演化脉络
 > - **1810s–1870s — 现代[[Research Universities|研究型大学]]知识生产使命的确立** 柏林洪堡大学确立“研究与教学合一”信条；1876 年约翰斯·霍普金斯大学创立将这一[[Paradigm|范式]]引入美国，确立现代大学生产知识与传播知识并重的双重职能。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
 > - **1945–1950s — 战后公共科研契约确立与基础研究蓄水池假说** 《[[Science, The Endless Frontier 1945|布什报告]]》确立联邦支持大学基础科研的公共品契约，提出基础科学如同全社会共享的知识蓄水池，为后续工业技术开发提供源头活水；[[National Science Foundation|NSF]] 创设确立同行评审竞争资助传统。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–36)]]
-> - **1950s–1970s — 殖民知识体系批判与[[Epistemology|认识论]]去依附** 弗朗茨·[[Frantz Fanon|法农]]揭示宗主国如何通过语言与[[Cultural Hierarchy|文化等级]]制造依附性知识生产；[[Post-colonial Theory|后殖民理论]]呼吁打破西方中心主义认识论霸权。
+> - **1950s–1970s — 殖民知识体系批判与[[Epistemology|认识论]]去依附** 弗朗茨·[[Frantz Fanon|法农]]揭示宗主国如何通过语言与[[Cultural Hierarchy|文化等级]]制造依附性知识生产；[[Post-colonial Theory|后殖民理论]]呼吁打破西方中心主义[[Epistemic Inequality|认识论霸权]]。
 > - **1960s–2000s — 比较教育学科知识生产由大学诠释向跨国指标治理位移** [[Wolfgang Mitter|沃尔夫冈·米特]]尔梳理学科史指出，知识生产早年植根于大学历史哲学反思，晚近则被超国家机构（[[OECD]]、[[IEA]]）大规模标准化量化测度体系（如 [[PISA]]）全面收编。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94–98)]]
 > - **1980s — 《[[Bayh-Dole Act of 1980|拜杜法案]]》与产学研协同机制确立** 国会通过《[[Bayh-Dole Act of 1980|拜杜法案]]》将联邦资助专利归属下放给大学，NSF 试点[[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]，知识生产成果从政府公有转向资本商业化流转。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **1990s — [[Mode 2 Knowledge Production|Mode 2]] 模式确立与[[Academic Capitalism|学术资本主义]]审视** 迈克尔·吉本斯等学者提出知识生产从传统象牙塔（Mode 1）向跨学科、应用导向与[[Reflexivity|反思性]]情境（Mode 2）转型；随后学术界深入揭示知识产权私有化对公有性的侵蚀。

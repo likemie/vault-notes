@@ -1304,7 +1304,11 @@
     "Azevedo, 2010": "Azevedo, 2010",
     "Azmi et al. (2024)": "Azmi et al., 2024",
     "Azmi et al., 2024": "Azmi et al., 2024",
+    "Azoulay et al. (2011)": "Azoulay et al., 2011",
+    "Azoulay et al. (2014)": "Azoulay et al., 2014",
     "Azoulay et al. (2019)": "Azoulay et al., 2019",
+    "Azoulay et al., 2011": "Azoulay et al., 2011",
+    "Azoulay et al., 2014": "Azoulay et al., 2014",
     "Azoulay et al., 2019": "Azoulay et al., 2019",
     "B. L. Serwer (1966)": "B. L. Serwer, 1966",
     "B. L. Serwer, 1966": "B. L. Serwer, 1966",
@@ -2481,8 +2485,10 @@
     "Blanchenay et al., 2014": "Blanchenay et al., 2014",
     "Blank & de las Alas (2009)": "Blank & de las Alas, 2009",
     "Blank & de las Alas, 2009": "Blank & de las Alas, 2009",
+    "Blank (1991)": "Blank, 1991",
     "Blank (1993)": "Blank, 1993",
     "Blank (2000)": "Blank, 2000",
+    "Blank, 1991": "Blank, 1991",
     "Blank, 1993": "Blank, 1993",
     "Blank, 2000": "Blank, 2000",
     "Blase (1989)": "Blase, 1989",
@@ -5800,10 +5806,12 @@
     "Dennebaum, 1994": "Dennebaum, 1994",
     "Dennett (1978)": "Dennett, 1978",
     "Dennett, 1978": "Dennett, 1978",
+    "Dennis (1954)": "Dennis, 1954",
     "Dennis et al. (2016)": "Dennis et al., 2016",
     "Dennis et al. (2021)": "Dennis et al., 2021",
     "Dennis et al., 2016": "Dennis et al., 2016",
     "Dennis et al., 2021": "Dennis et al., 2021",
+    "Dennis, 1954": "Dennis, 1954",
     "Denny Taylor (1998)": "Denny Taylor, 1998",
     "Denny Taylor, 1998": "Denny Taylor, 1998",
     "Denscombe (1995)": "Denscombe, 1995",
@@ -6160,10 +6168,12 @@
     "Dong & Chiu, 2023": "Dong & Chiu, 2023",
     "Dong & Chow (2022)": "Dong & Chow, 2022",
     "Dong & Chow, 2022": "Dong & Chow, 2022",
+    "Dong et al. (2014)": "Dong et al., 2014",
     "Dong et al. (2020)": "Dong et al., 2020",
     "Dong et al. (2023a)": "Dong et al., 2023a",
     "Dong et al. (2023b)": "Dong et al., 2023b",
     "Dong et al. (2025)": "Dong et al., 2025",
+    "Dong et al., 2014": "Dong et al., 2014",
     "Dong et al., 2020": "Dong et al., 2020",
     "Dong et al., 2023": "Dong et al., 2023a",
     "Dong et al., 2023a": "Dong et al., 2023b",
@@ -6207,6 +6217,8 @@
     "Dori, 1995": "Dori, 1995",
     "Dormann & Dedering (2014)": "Dormann & Dedering, 2014",
     "Dormann & Dedering, 2014": "Dormann & Dedering, 2014",
+    "Dorogovtsev & Mendes (2015)": "Dorogovtsev & Mendes, 2015",
+    "Dorogovtsev & Mendes, 2015": "Dorogovtsev & Mendes, 2015",
     "Dorothy Heathcote (1991)": "Dorothy Heathcote, 1991",
     "Dorothy Heathcote, 1991": "Dorothy Heathcote, 1991",
     "Dorsett (2014)": "Dorsett, 2014",
@@ -6682,6 +6694,8 @@
     "Egger et al. (1997)": "Egger et al., 1997",
     "Egger et al., 1997": "Egger et al., 1997",
     "Egger, 2019": "Egger, 2019",
+    "Egghe (2006)": "Egghe, 2006",
+    "Egghe, 2006": "Egghe, 2006",
     "Ehmke (2010)": "Ehmke, 2010",
     "Ehmke, 2010": "Ehmke, 2010",
     "Ehren et al. (2013)": "Ehren et al., 2013",
@@ -10445,9 +10459,15 @@
     "Hirose & Creswell (2022)": "Hirose & Creswell, 2022",
     "Hirose & Creswell, 2022": "Hirose & Creswell, 2022",
     "Hirsch (1988)": "Hirsch, 1988",
+    "Hirsch (2005)": "Hirsch, 2005",
+    "Hirsch (2007)": "Hirsch, 2007",
     "Hirsch (2011)": "Hirsch, 2011",
+    "Hirsch (2019)": "Hirsch, 2019",
     "Hirsch, 1988": "Hirsch, 1988",
+    "Hirsch, 2005": "Hirsch, 2005",
+    "Hirsch, 2007": "Hirsch, 2007",
     "Hirsch, 2011": "Hirsch, 2011",
+    "Hirsch, 2019": "Hirsch, 2019",
     "History Boys (2004)": "History Boys, 2004",
     "History Boys, 2004": "History Boys, 2004",
     "Hitchcock & Hughes (1989)": "Hitchcock & Hughes, 1989",
@@ -11107,6 +11127,8 @@
     "Interview 9, 2009": "Interview 9, 2009",
     "Ioannidis & Trikalinos (2007)": "Ioannidis & Trikalinos, 2007",
     "Ioannidis & Trikalinos, 2007": "Ioannidis & Trikalinos, 2007",
+    "Ioannidis et al. (2014)": "Ioannidis et al., 2014",
+    "Ioannidis et al., 2014": "Ioannidis et al., 2014",
     "Ion et al. (2021)": "Ion et al., 2021",
     "Ion et al., 2021": "Ion et al., 2021",
     "Ionescu (2012)": "Ionescu, 2012",
@@ -11552,6 +11574,8 @@
     "Jin Li, 2012": "Jin Li, 2012",
     "Jin Yuelin (1955)": "Jin Yuelin, 1955",
     "Jin Yuelin, 1955": "Jin Yuelin, 1955",
+    "Jin et al. (2019)": "Jin et al., 2019",
+    "Jin et al., 2019": "Jin et al., 2019",
     "Jinmin & Qi (2023)": "Jinmin & Qi, 2023",
     "Jinmin & Qi, 2023": "Jinmin & Qi, 2023",
     "Jitendra (2000)": "Jitendra, 2000",
@@ -14505,10 +14529,12 @@
     "Lu (2017a)": "Lu, 2017a",
     "Lu (2017b)": "Lu, 2017b",
     "Lu (2020)": "Lu, 2020",
+    "Lu et al. (2013)": "Lu et al., 2013",
     "Lu et al. (2021)": "Lu et al., 2021",
     "Lu et al. (2022)": "Lu et al., 2022",
     "Lu et al. (2023)": "Lu et al., 2023",
     "Lu et al. (2024)": "Lu et al., 2024",
+    "Lu et al., 2013": "Lu et al., 2013",
     "Lu et al., 2021": "Lu et al., 2021",
     "Lu et al., 2022": "Lu et al., 2022",
     "Lu et al., 2023": "Lu et al., 2023",
@@ -16830,7 +16856,9 @@
     "National Student Clearinghouse, 2024": "National Student Clearinghouse, 2024",
     "Nattland & Kerres (2009)": "Nattland & Kerres, 2009",
     "Nattland & Kerres, 2009": "Nattland & Kerres, 2009",
+    "Nature (2017)": "Nature, 2017",
     "Nature (2024)": "Nature, 2024",
+    "Nature, 2017": "Nature, 2017",
     "Nature, 2024": "Nature, 2024",
     "Nay (2012)": "Nay, 2012",
     "Nay, 2012": "Nay, 2012",
@@ -18310,6 +18338,8 @@
     "Petersen (1991)": "Petersen, 1991",
     "Petersen (2018)": "Petersen, 2018",
     "Petersen (2021)": "Petersen, 2021",
+    "Petersen et al. (2014)": "Petersen et al., 2014",
+    "Petersen et al., 2014": "Petersen et al., 2014",
     "Petersen, 1991": "Petersen, 1991",
     "Petersen, 2018": "Petersen, 2018",
     "Petersen, 2021": "Petersen, 2021",
@@ -18990,6 +19020,8 @@
     "Radford, 2008": "Radford, 2008",
     "Radhika Gorur (2016)": "Radhika Gorur, 2016",
     "Radhika Gorur, 2016": "Radhika Gorur, 2016",
+    "Radicchi et al. (2008)": "Radicchi et al., 2008",
+    "Radicchi et al., 2008": "Radicchi et al., 2008",
     "Radkau (2005)": "Radkau, 2005",
     "Radkau, 2005": "Radkau, 2005",
     "Radwan (1997)": "Radwan, 1997",
@@ -19291,6 +19323,8 @@
     "Resnick, 1989": "Resnick, 1989",
     "Resnik (2006)": "Resnik, 2006",
     "Resnik, 2006": "Resnik, 2006",
+    "Restivo & van de Rijt (2012)": "Restivo & van de Rijt, 2012",
+    "Restivo & van de Rijt, 2012": "Restivo & van de Rijt, 2012",
     "Rethlefsen et al. (2021)": "Rethlefsen et al., 2021",
     "Rethlefsen et al., 2021": "Rethlefsen et al., 2021",
     "Reuters Institute DNR (2025)": "Reuters Institute DNR, 2025",
@@ -19545,7 +19579,9 @@
     "Robert H. Ennis, 1989": "Robert H. Ennis, 1989",
     "Robert J. Gordon (2016)": "Robert J. Gordon, 2016",
     "Robert J. Gordon, 2016": "Robert J. Gordon, 2016",
+    "Robert K. Merton (1968)": "Robert K. Merton, 1968",
     "Robert K. Merton (1972)": "Robert K. Merton, 1972",
+    "Robert K. Merton, 1968": "Robert K. Merton, 1968",
     "Robert K. Merton, 1972": "Robert K. Merton, 1972",
     "Robert Lieberman (2006)": "Robert Lieberman, 2006",
     "Robert Lieberman, 2006": "Robert Lieberman, 2006",
@@ -21289,6 +21325,8 @@
     "Shiroma, 2014": "Shiroma, 2014",
     "Shirvan et al. (2016)": "Shirvan et al., 2016",
     "Shirvan et al., 2016": "Shirvan et al., 2016",
+    "Shockley (1957)": "Shockley, 1957",
+    "Shockley, 1957": "Shockley, 1957",
     "Shor & Freire (1987)": "Shor & Freire, 1987",
     "Shor & Freire, 1987": "Shor & Freire, 1987",
     "Shore (1996)": "Shore, 1996",
@@ -21434,6 +21472,8 @@
     "Silvia et al., 2013": "Silvia et al., 2013",
     "Sim (2014)": "Sim, 2014",
     "Sim, 2014": "Sim, 2014",
+    "Simcoe & Waguespack (2011)": "Simcoe & Waguespack, 2011",
+    "Simcoe & Waguespack, 2011": "Simcoe & Waguespack, 2011",
     "Simmonds & Webb (2013)": "Simmonds & Webb, 2013",
     "Simmonds & Webb, 2013": "Simmonds & Webb, 2013",
     "Simmons (1995)": "Simmons, 1995",
@@ -21494,6 +21534,8 @@
     "Simsek & Ozaslan, 2021": "Simsek & Ozaslan, 2021",
     "Simsek (2015)": "Simsek, 2015",
     "Simsek, 2015": "Simsek, 2015",
+    "Sinatra et al. (2016)": "Sinatra et al., 2016",
+    "Sinatra et al., 2016": "Sinatra et al., 2016",
     "Singer (1975)": "Singer, 1975",
     "Singer (2025)": "Singer, 2025",
     "Singer, 1975": "Singer, 1975",
@@ -23353,6 +23395,8 @@
     "Tomic, 1998": "Tomic, 1998",
     "Tominey (2011)": "Tominey, 2011",
     "Tominey, 2011": "Tominey, 2011",
+    "Tomkins et al. (2017)": "Tomkins et al., 2017",
+    "Tomkins et al., 2017": "Tomkins et al., 2017",
     "Tomkinson (2004)": "Tomkinson, 2004",
     "Tomkinson, 2004": "Tomkinson, 2004",
     "Tomlin (1995)": "Tomlin, 1995",
@@ -24971,6 +25015,8 @@
     "William Mehrens & Elizabeth Kaminski, 1989": "William Mehrens & Elizabeth Kaminski, 1989",
     "William S. Robinson (1950)": "William S. Robinson, 1950",
     "William S. Robinson, 1950": "William S. Robinson, 1950",
+    "William Shockley (1957)": "William Shockley, 1957",
+    "William Shockley, 1957": "William Shockley, 1957",
     "William Tunmer (1986)": "William Tunmer, 1986",
     "William Tunmer, 1986": "William Tunmer, 1986",
     "William, 2004": "William, 2004",
@@ -26453,6 +26499,8 @@
     "拉斯库姆与勒加莱斯, 2007": "拉斯库姆与勒加莱斯, 2007",
     "拉森 (2019)": "拉森, 2019",
     "拉森, 2019": "拉森, 2019",
+    "指数 (2019)": "指数, 2019",
+    "指数, 2019": "指数, 2019",
     "挪威 (2005)": "挪威, 2005",
     "挪威, 2005": "挪威, 2005",
     "提出 (1979)": "提出, 1979",
@@ -26727,6 +26775,8 @@
     "被马奥尼与希伦, 2009": "被马奥尼与希伦, 2009",
     "詹姆逊 (1991)": "詹姆逊, 1991",
     "詹姆逊, 1991": "詹姆逊, 1991",
+    "评价模型 (2005)": "评价模型, 2005",
+    "评价模型, 2005": "评价模型, 2005",
     "译注本 (1968)": "译注本, 1968",
     "译注本, 1968": "译注本, 1968",
     "诞生期 (2009)": "诞生期, 2009",
@@ -36224,6 +36274,37 @@
       ],
       "title": ""
     },
+    "Azoulay et al., 2011": {
+      "aliases": [
+        "Azoulay et al., 2011",
+        "Azoulay et al. (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Azoulay et al., 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
+    },
+    "Azoulay et al., 2014": {
+      "aliases": [
+        "Azoulay et al., 2014",
+        "Azoulay et al. (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Azoulay et al., 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md"
+      ],
+      "title": ""
+    },
     "Azoulay et al., 2019": {
       "aliases": [
         "Azoulay et al., 2019",
@@ -44837,6 +44918,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Effects of Teacher Professional Development on Gains in Student Achievement: How Meta Analysis Provides Scientific Evidence Useful to Education Leaders"
+    },
+    "Blank, 1991": {
+      "aliases": [
+        "Blank, 1991",
+        "Blank (1991)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Blank, 1991"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
     },
     "Blank, 1993": {
       "aliases": [
@@ -69131,6 +69227,21 @@
       "seen_in": [],
       "title": "Ecological and Population Validity of Mathematics Interventions for Diverse Students With Low Mathematics Achievement: A Meta-Analysis."
     },
+    "Dennis, 1954": {
+      "aliases": [
+        "Dennis, 1954",
+        "Dennis (1954)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Dennis, 1954"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
+    },
     "Denny Taylor, 1998": {
       "aliases": [
         "Denny Taylor, 1998",
@@ -71699,6 +71810,22 @@
       "seen_in": [],
       "title": "Home Literacy Environment and English as A Second Language Acquisition: A Meta-analysis."
     },
+    "Dong et al., 2014": {
+      "aliases": [
+        "Dong et al., 2014",
+        "Dong et al. (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Dong et al., 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/science-policy/Scientific Productivity.md"
+      ],
+      "title": ""
+    },
     "Dong et al., 2020": {
       "aliases": [
         "Dong et al., 2020",
@@ -72020,6 +72147,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/educational-policy-reform/Evidence-Based School Development.md"
+      ],
+      "title": ""
+    },
+    "Dorogovtsev & Mendes, 2015": {
+      "aliases": [
+        "Dorogovtsev & Mendes, 2015",
+        "Dorogovtsev & Mendes (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Dorogovtsev & Mendes, 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
       ],
       "title": ""
     },
@@ -75515,6 +75657,22 @@
       "isbn": "",
       "seen_in": [],
       "title": "Boost your brain, while having a break! The effects of long-term cognitively engaging physical activity breaks on children's executive functions and academic achievement."
+    },
+    "Egghe, 2006": {
+      "aliases": [
+        "Egghe, 2006",
+        "Egghe (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Egghe, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/science-policy/h-Index.md"
+      ],
+      "title": ""
     },
     "Ehmke, 2010": {
       "aliases": [
@@ -103061,6 +103219,38 @@
       ],
       "title": ""
     },
+    "Hirsch, 2005": {
+      "aliases": [
+        "Hirsch, 2005",
+        "Hirsch (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hirsch, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/science-policy/h-Index.md"
+      ],
+      "title": ""
+    },
+    "Hirsch, 2007": {
+      "aliases": [
+        "Hirsch, 2007",
+        "Hirsch (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hirsch, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/science-policy/h-Index.md"
+      ],
+      "title": ""
+    },
     "Hirsch, 2011": {
       "aliases": [
         "Hirsch, 2011",
@@ -103073,6 +103263,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "After-school programs for high school students  An evaluation of After School Matters"
+    },
+    "Hirsch, 2019": {
+      "aliases": [
+        "Hirsch, 2019",
+        "Hirsch (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Hirsch, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
     },
     "History Boys, 2004": {
       "aliases": [
@@ -107841,6 +108046,21 @@
       ],
       "title": ""
     },
+    "Ioannidis et al., 2014": {
+      "aliases": [
+        "Ioannidis et al., 2014",
+        "Ioannidis et al. (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ioannidis et al., 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
+    },
     "Ion et al., 2021": {
       "aliases": [
         "Ion et al., 2021",
@@ -111021,6 +111241,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Encuentros sobre Educación/Argument_Schulte_2009_EncuentrosEducacion.md"
+      ],
+      "title": ""
+    },
+    "Jin et al., 2019": {
+      "aliases": [
+        "Jin et al., 2019",
+        "Jin et al. (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jin et al., 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
       ],
       "title": ""
     },
@@ -132120,6 +132355,21 @@
       "seen_in": [],
       "title": "Types of intelligence and academic performance: A systematic review and meta-analysis."
     },
+    "Lu et al., 2013": {
+      "aliases": [
+        "Lu et al., 2013",
+        "Lu et al. (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lu et al., 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
+    },
     "Lu et al., 2021": {
       "aliases": [
         "Lu et al., 2021",
@@ -148983,6 +149233,21 @@
       ],
       "title": ""
     },
+    "Nature, 2017": {
+      "aliases": [
+        "Nature, 2017",
+        "Nature (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Nature, 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
+    },
     "Nature, 2024": {
       "aliases": [
         "Nature, 2024",
@@ -159831,6 +160096,22 @@
       ],
       "title": ""
     },
+    "Petersen et al., 2014": {
+      "aliases": [
+        "Petersen et al., 2014",
+        "Petersen et al. (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Petersen et al., 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md"
+      ],
+      "title": ""
+    },
     "Petersen, 1991": {
       "aliases": [
         "Petersen, 1991",
@@ -164819,6 +165100,22 @@
       ],
       "title": ""
     },
+    "Radicchi et al., 2008": {
+      "aliases": [
+        "Radicchi et al., 2008",
+        "Radicchi et al. (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Radicchi et al., 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/science-policy/h-Index.md"
+      ],
+      "title": ""
+    },
     "Radkau, 2005": {
       "aliases": [
         "Radkau, 2005",
@@ -166975,6 +167272,22 @@
       ],
       "title": ""
     },
+    "Restivo & van de Rijt, 2012": {
+      "aliases": [
+        "Restivo & van de Rijt, 2012",
+        "Restivo & van de Rijt (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Restivo & van de Rijt, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md"
+      ],
+      "title": ""
+    },
     "Rethlefsen et al., 2021": {
       "aliases": [
         "Rethlefsen et al., 2021",
@@ -168813,6 +169126,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Consumer Internet.md"
+      ],
+      "title": ""
+    },
+    "Robert K. Merton, 1968": {
+      "aliases": [
+        "Robert K. Merton, 1968",
+        "Robert K. Merton (1968)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Robert K. Merton, 1968"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
       ],
       "title": ""
     },
@@ -181565,6 +181893,21 @@
       "seen_in": [],
       "title": "The effectiveness of Strategy-Based Instruction in teaching English as a second or foreign language: A meta-analysis of experimental studies."
     },
+    "Shockley, 1957": {
+      "aliases": [
+        "Shockley, 1957",
+        "Shockley (1957)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Shockley, 1957"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Scientific Productivity.md"
+      ],
+      "title": ""
+    },
     "Shor & Freire, 1987": {
       "aliases": [
         "Shor & Freire, 1987",
@@ -182603,6 +182946,22 @@
       "seen_in": [],
       "title": "A Shared Reading Intervention with Parents to Enhance Young Children's Early Literacy Skills"
     },
+    "Simcoe & Waguespack, 2011": {
+      "aliases": [
+        "Simcoe & Waguespack, 2011",
+        "Simcoe & Waguespack (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Simcoe & Waguespack, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md"
+      ],
+      "title": ""
+    },
     "Simmonds & Webb, 2013": {
       "aliases": [
         "Simmonds & Webb, 2013",
@@ -183043,6 +183402,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of the Dialogic and Traditional Reading Techniques on Children's Language Development"
+    },
+    "Sinatra et al., 2016": {
+      "aliases": [
+        "Sinatra et al., 2016",
+        "Sinatra et al. (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sinatra et al., 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
     },
     "Singer, 1975": {
       "aliases": [
@@ -196347,6 +196721,22 @@
       "seen_in": [],
       "title": "Red light, purple light  Findings from a randomized trial using circle time games to improve behavioral self-regulation in preschool"
     },
+    "Tomkins et al., 2017": {
+      "aliases": [
+        "Tomkins et al., 2017",
+        "Tomkins et al. (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Tomkins et al., 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md"
+      ],
+      "title": ""
+    },
     "Tomkinson, 2004": {
       "aliases": [
         "Tomkinson, 2004",
@@ -207850,6 +208240,21 @@
       ],
       "title": ""
     },
+    "William Shockley, 1957": {
+      "aliases": [
+        "William Shockley, 1957",
+        "William Shockley (1957)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "William Shockley, 1957"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
+    },
     "William Tunmer, 1986": {
       "aliases": [
         "William Tunmer, 1986",
@@ -218324,6 +218729,21 @@
       ],
       "title": ""
     },
+    "指数, 2019": {
+      "aliases": [
+        "指数, 2019",
+        "指数 (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "指数, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Jorge E. Hirsch.md"
+      ],
+      "title": ""
+    },
     "挪威, 2005": {
       "aliases": [
         "挪威, 2005",
@@ -220364,6 +220784,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/educational-philosophy/Postmodernism.md"
+      ],
+      "title": ""
+    },
+    "评价模型, 2005": {
+      "aliases": [
+        "评价模型, 2005",
+        "评价模型 (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "评价模型, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Jorge E. Hirsch.md"
       ],
       "title": ""
     },

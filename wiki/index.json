@@ -15988,6 +15988,18 @@
     ]
   },
   {
+    "title": "h-Index",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/h-Index.md",
+    "aliases": [
+      "h指数",
+      "H指数",
+      "Hirsch index",
+      "希尔施指数",
+      "Hirsch-Index"
+    ]
+  },
+  {
     "title": "Hardware Security",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Hardware Security.md",
@@ -16312,6 +16324,19 @@
       "复制危机",
       "可复现性危机",
       "Replication Crisis"
+    ]
+  },
+  {
+    "title": "Scientific Productivity",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Scientific Productivity.md",
+    "aliases": [
+      "科研生产力",
+      "科学产出率",
+      "学者生产力",
+      "学术生产力",
+      "Researcher Productivity",
+      "Publication Productivity"
     ]
   },
   {
@@ -21355,6 +21380,18 @@
     "aliases": [
       "ROAR Policy Framework",
       "ROAR Framework for Innovation Policy"
+    ]
+  },
+  {
+    "title": "Shockley's Multiplicative Hurdle Model",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Shockley's Multiplicative Hurdle Model.md",
+    "aliases": [
+      "肖克利乘法跨栏模型",
+      "肖克利跨栏模型",
+      "乘法跨栏模型",
+      "Multiplicative Hurdle Model",
+      "Shockley's Model of Scientific Productivity"
     ]
   },
   {
@@ -30644,6 +30681,18 @@
       "Meyer, J. W.",
       "John Meyer",
       "约翰·迈耶"
+    ]
+  },
+  {
+    "title": "Jorge E. Hirsch",
+    "type": "person",
+    "path": "wiki/persons/us/Jorge E. Hirsch.md",
+    "aliases": [
+      "乔治·E·希尔施",
+      "乔治·希尔施",
+      "Jorge Hirsch",
+      "J. E. Hirsch",
+      "Hirsch, J. E."
     ]
   },
   {
@@ -44266,6 +44315,11 @@
     "title": "Argument_Wang_Barabasi_2021_Cambridge",
     "type": "argument",
     "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
+  },
+  {
+    "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit01",
+    "type": "argument",
+    "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
   },
   {
     "title": "Argument_Zhang_2023_PHEI",

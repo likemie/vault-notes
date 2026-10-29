@@ -33,7 +33,9 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[National Rejuvenation Narrative]]"
   - "[[Telling China's Story Well]]"
+  - "[[Document]]"
   - "[[Competitiveness]]"
+  - "[[Scientific Productivity]]"
   - "[[Research Universities]]"
   - "[[Alumnus Effect]]"
   - "[[Para-Diplomatic Roles]]"
@@ -59,14 +61,14 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Velasco_2022_CSJ"
 argument_key: "Argument_Velasco_2022_CSJ"
 argument_display_title: "China’s soft power strategy: Education as an apparatus of influence in Southeast Asia"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 35
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -194,7 +196,7 @@ sources:
 > |:---|:---|:---|
 > | **文化** | 文化产品出口规模、世界遗产数量、国际体育赛事与艺术传播 | 优势领域，传统文化积淀与文化盛会带来较强吸引力 |
 > | **国际交往** | 外交使团网络、发展援助支出、国际多边条约与全球治理贡献 | 优势领域，积极参与全球治理与大规模对外援助拉高得分 |
-> | **教育** | 高水平大学国际排名、科技文献产出、留学生双向流动规模 | 排名出现下滑，优质涉外教育资源供给仍显不足 |
+> | **教育** | 高水平大学国际排名、科技[[Document\|文献]]产出、留学生双向流动规模 | 排名出现下滑，优质涉外教育资源供给仍显不足 |
 > | **数字化** | 互联网基础设施、数字政府发展水平、科技创新平台渗透率 | 得分相对偏低，数字化生态的海外规范认同度有限 |
 > | **企业活力** | 营商环境、外商直接投资、跨国商业品牌创新度与合规度 | 得分相对偏低，海外市场竞争与经贸合规形象承压 |
 > | **政府治理** | 政治体制透明度、人权保护状况、法治指数与公民自由 | 弱势领域，意识形态体制差异导致西方受众打分受挫 |
@@ -210,7 +212,7 @@ sources:
 ---
 
 > [!claim] 论证步骤二　大学科研[[Competitiveness|竞争力]]的提升直接服务于国家外交战略
-> 自 1990 年代以来的持续高教改革与[[Double First-Class Initiative|双一流建设]]极大释放了高校科研生产力，完成了从技术模仿向自主创新的转变，为国家将一流大学打造为服务对外战略的智识引擎提供了坚实基础。
+> 自 1990 年代以来的持续高教改革与[[Double First-Class Initiative|双一流建设]]极大释放了高校[[Scientific Productivity|科研生产力]]，完成了从技术模仿向自主创新的转变，为国家将一流大学打造为服务对外战略的智识引擎提供了坚实基础。
 
 #### 1. 长期高强度投入推动高校科研产出超越美国
 

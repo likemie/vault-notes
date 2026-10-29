@@ -9,7 +9,7 @@ summary: "美国当代著名科学经济学家，佐治亚州立大学经济学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,12 +26,14 @@ related_concepts:
   - "[[Soft-Money Faculty Model]]"
   - "[[Shopping Mall Model of Research Universities]]"
   - "[[PhD Overproduction in Science]]"
+  - "[[Scientific Productivity]]"
   - "[[Creativity]]"
   - "[[Knowledge Production]]"
   - "[[Externalization]]"
 related_theories:
   - "[[Academic Capitalism]]"
-related_methods: []
+related_methods:
+  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
@@ -48,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -62,8 +64,8 @@ updated: 2026-10-22
 
 > [!timeline] 生平与职涯
 > - **1972** 获密歇根大学（University of Michigan）经济学博士学位。
-> - **1970s–1980s** 长期执教于佐治亚州立大学，专注于学术劳动力市场、科研生产力与年龄结构研究。
-> - **1990s** 与 Sharon Levin 合作出版《学术采金：年龄、地域与时间在科学中的重要性》（*Striking the Mother Lode in Science*），奠定其在科学计量学与学术生涯经济分析中的地位。
+> - **1970s–1980s** 长期执教于佐治亚州立大学，专注于学术劳动力市场、[[Scientific Productivity|科研生产力]]与年龄结构研究。
+> - **1990s** 与 Sharon Levin 合作出版《学术采金：年龄、地域与时间在科学中的重要性》（*Striking the Mother Lode in Science*），奠定其在[[Bibliometric Analysis|科学计量学]]与学术生涯经济分析中的地位。
 > - **2010s** 担任美国[[National Research Council|国家研究委员会]]（NRC）科研劳动力委员会成员；2012 年出版代表作《经济学如何塑造科学》（*How Economics Shapes Science*，哈佛大学出版社），系统批判学术科研体制的激励失真与结构脆弱性。
 > - **2013** 发表 NBER 专题研究报告，反思《[[Science, The Endless Frontier 1945|无尽的前沿]]》出台后近七十年来大学如何主动重构联邦资助契约及其累积的体制压力。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 1–37)]]
 

@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -155,6 +155,7 @@ updated: 2026-10-25
 > - **1960s–1980s — [[Bibliometric Analysis|科学计量学]]与科学学奠基（普赖斯学派）** 德里克·德索拉·普赖斯（Derek de Solla Price）奠定科学[[Quantitative Research|量化研究]]基础，探索科学文献增长、引文网络与无形学院（Invisible Colleges）运作规律。
 > - **2000s–2010s — [[Reproducibility Crisis|可重复性危机]]与科研方法反思（Ioannidis 学派）** 约翰·约阿尼迪斯（John Ioannidis）发表《为什么大多数已发表的研究发现都是虚假的》，引发对生物医学与心理学可重复性危机的大反思，元科学正式成为独立学术研究领域。
 > - **2020s 初 — 政策元科学萌芽与 [[DARPA]] / HHMI [[Paradigm|范式]]重估** 科技政策界开始从单纯揭露问题转向**机制干预**，系统总结 [[DARPA]] 项目经理自由裁量制与霍华德·休斯医学研究所（HHMI）对人资助模式的制度优越性。
+> - **2021 年 — 大数据与复杂网络科学学范式奠基（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási, 2021]]）** 王大顺与巴拉巴西出版《科学的科学》（The Science of Science），系统整合跨世纪数千万论文与学者大数据、复杂网络科学与人工智能分析工具，将科学学拓展为涵盖科研生涯演化、团队协同与影响力动力学的定量微观实证学科。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 1–4)]]
 > - **2024 年 — [[United Kingdom Metascience Unit|英国元科学单元]]（UK Metascience Unit）设立** 英国科学、创新和技术部（DSIT）与[[UK Research and Innovation|英国研究与创新署]]（UKRI）联合创立全球首个国家级元科学专门机构，率先针对分布式同行评议、部分[[Random Assignment|随机化]]资助及评审一致性开展大规模实证试验。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
 > - **2025 年 — 教育学首个[[Preregistration|预注册]]全库元科学质量审计（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）** 瑞典卡尔门达尔（Kalmendal）等学者对全球最庞大的教育[[Research Synthesis|证据综合]]库《[[Visible Learning|可见的学习]]》（1.2 版）实施全量预注册元科学质量审计，构建了涵盖[[Research Question|研究问题]]纳入、设计分类与数据提取复现的三阶审计规程。实证揭示该体系仅 19% 满足 [[PICO Framework|PICO]] 标准且数据提取复现率仅 0.66%，为元科学从“资助[[Mechanism Experiments|机制实验]]”拓展至“海量合成证据的全生命周期质量审查”树立了标杆范式。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 > - **2026 年 — 美国联邦元科学单元法定化与国家科技新政** 白宫科技政策办公室在《[[Science A New Golden Age 2026|科学：新的黄金时代]]》中正式提出：要求全美所有联邦科研资助机构（[[National Science Foundation|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]]、[[Department of Defense|DoD]]）均设立直属于局长的元科学单元，将资助对照实验确立为国家研发预算管理的法定优先序。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32, 86)]]
@@ -188,4 +189,5 @@ updated: 2026-10-25
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 阐述元科学在科技体制改革中的定位，剖析低资助率下同行评议的激励扭曲，主张在联邦机构设立元科学单元、开展资助机制对照实验（含[[Pull Mechanisms for Innovation|拉动机制]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 提出科学的科学（Science of Science）计算范式，运用大数据与网络科学对全球科研人员生产力分布、评价指标有效性与声望马太效应开展微观机制建模与实证检验。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展教育学首个针对《[[Visible Learning|可见的学习]]》全库 322 个影响因素的[[Preregistration|预注册]]元科学质量审计，构建三阶审查规程并实证证实仅 19% 满足 [[PICO Framework|PICO]] 标准且数据提取复现率仅 0.66%，为元科学审查宏观合成证据确立了实证[[Paradigm|范式]]。

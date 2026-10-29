@@ -33,6 +33,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Competitiveness]]"
   - "[[Workforce Development]]"
+  - "[[Scientific Productivity]]"
   - "[[Emergence]]"
   - "[[Presence]]"
   - "[[Paradigm]]"
@@ -61,14 +62,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-04
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Murphy_2026_JTS"
 argument_key: "Argument_Murphy_2026_JTS"
 argument_display_title: "Building collaboration and knowledge in semiconductor research: A case study on CHIPS & Science Act workshops"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -189,7 +190,7 @@ issuing_organization: ""
 ---
 
 > [!claim] 论证步骤二　基于四大理论的 DBR 三阶段迭代促成了跨学科协作与知识共享
-> 单次碎片化的培训无法形成持久的科研生产力，唯有依托情境学习、[[Cognitive Constructivism|认知建构主义]]、[[Constructivist Paradigm|社会建构主义]]与[[Transformative Learning Theory|转化学习]]四大理论，并借助 [[Design-Based Research|基于设计的研究]]（DBR）进行多轮迭代，才能使工作坊的规模、广度与成效逐级攀升，成功孵化半导体跨学科实践共同体。
+> 单次碎片化的培训无法形成持久的[[Scientific Productivity|科研生产力]]，唯有依托情境学习、[[Cognitive Constructivism|认知建构主义]]、[[Constructivist Paradigm|社会建构主义]]与[[Transformative Learning Theory|转化学习]]四大理论，并借助 [[Design-Based Research|基于设计的研究]]（DBR）进行多轮迭代，才能使工作坊的规模、广度与成效逐级攀升，成功孵化半导体跨学科实践共同体。
 
 #### 1. 工作坊规模与范围在三轮实境迭代中逐级扩展
 

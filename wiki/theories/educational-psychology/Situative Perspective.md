@@ -8,7 +8,7 @@ aliases:
 summary: "一种将学习和认知视为特定社会、文化与物理环境中持续进行的参与实践（participation in social practices），而非个体头脑内部脱域知识存储的理论范式。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 25
+theory_related_count: 27
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Epistemic Climate]]"
   - "[[Evidence Standards]]"
+  - "[[Scientific Productivity]]"
   - "[[Research Proposal]]"
   - "[[Constructivist Paradigm]]"
   - "[[Commensuration]]"
@@ -37,6 +38,7 @@ related_concepts:
 related_theories:
   - "[[Cognitive Constructivism]]"
   - "[[Third Generation Activity Theory]]"
+  - "[[Legitimate Peripheral Participation]]"
   - "[[Integrative Pluralism]]"
 related_methods:
   - "[[Fieldwork]]"
@@ -53,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-19
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -65,7 +67,7 @@ updated: 2026-10-22
 > - **知识位置** 植根于[[Lev Vygotsky|维果茨基]]社会文化历史学派，与情境学习（Situated Learning）、[[Communities of Practice|实践共同体]]（Communities of Practice）、分布式认知（Distributed Cognition）及[[Third Generation Activity Theory|活动理论]]（Activity Theory）同属一个理论家族。代表人物包括 James Greeno, Jean Lave, Etienne Wenger 等。
 
 > [!claim] 核心判断
-> 情境主义（Situative Perspective / Situativity Theory）主张知识并非脱离语境的抽象命题，认知也绝非孤立锁在个体头脑内部的信息加工过程；相反，认知是一种分布式、具身化的社会文化实践，学习的本质是个体作为合法边缘参与者（Legitimate Peripheral Participation）逐步融入实践共同体文化规范、言语工具与核心攻关网络的社会化进程。在面向国家重大科技任务的跨学科组织中，情境学习解释了不同背景学者如何通过小群研讨打破学术孤岛，逐步向核心半导体攻关网络过渡。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]; [[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3, 6)]]
+> 情境主义（Situative Perspective / Situativity Theory）主张知识并非脱离语境的抽象命题，认知也绝非孤立锁在个体头脑内部的信息加工过程；相反，认知是一种分布式、具身化的社会文化实践，学习的本质是个体作为合法[[Legitimate Peripheral Participation|边缘参与]]者（Legitimate Peripheral Participation）逐步融入实践共同体文化规范、言语工具与核心攻关网络的社会化进程。在面向国家重大科技任务的跨学科组织中，情境学习解释了不同背景学者如何通过小群研讨打破学术孤岛，逐步向核心半导体攻关网络过渡。[[Argument_Sandoval_2016_RRE|(Sandoval et al., 2016)]]; [[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3, 6)]]
 
 ---
 
@@ -102,7 +104,7 @@ updated: 2026-10-22
 > [!theory-proposition] 命题二｜[[Communities of Practice|实践共同体]]依托合法边缘性参与实现跨领域拓展与网络凝聚
 > **解释** 复杂的专业共同体并非封闭的精英孤岛，而是具备多层级梯度的开放生态。初涉新领域的外部学者无需立即承担核心研发任务，而是通过作为观察者、倾听者或参与初级研讨（即合法边缘性参与）逐步沉浸，在面对面互动与互补合作中逐步建立自信心与学术互信，最终向核心攻关圈层过渡。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, p. 6)]]
 >
-> **应用实例** [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] 发现，单次培训难以沉淀科研生产力，而三期逐级扩圈的工作坊成功开辟了一个合法边缘性参与空间，使原本从事基础物理或计算机算法的学者能够通过小组研讨切入半导体重大专项，参与学者申报国家项目的就绪度从校内 50% 跃升并稳定在 80%。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 5–6)]]
+> **应用实例** [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] 发现，单次培训难以沉淀[[Scientific Productivity|科研生产力]]，而三期逐级扩圈的工作坊成功开辟了一个合法边缘性参与空间，使原本从事基础物理或计算机算法的学者能够通过小组研讨切入半导体重大专项，参与学者申报国家项目的就绪度从校内 50% 跃升并稳定在 80%。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 5–6)]]
 
 ---
 

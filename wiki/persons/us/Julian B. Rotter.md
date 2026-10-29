@@ -8,7 +8,7 @@ summary: "美国心理学家，社会学习理论的主要奠基人之一，提�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Causality]]"
+  - "[[Scientific Productivity]]"
 related_theories:
   - "[[Social Learning Theory]]"
   - "[[Attribution Theory]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!person-profile] 人物档案
@@ -62,7 +63,7 @@ updated: 2026-10-22
 > - **1975** — 对控制点构念的应用问题进行澄清，包括连续体性质而非二分法的强调
 
 > [!success] 影响
-> - Rotter 的[[Social Learning Theory\|社会学习理论]]四[[Variable\|变量]]框架被后续研究者广泛应用，如 Crutchfield (1986) 将其应用于学术生产力研究
+> - Rotter 的[[Social Learning Theory\|社会学习理论]]四[[Variable\|变量]]框架被后续研究者广泛应用，如 Crutchfield (1986) 将其应用于[[Scientific Productivity|学术生产力]]研究
 > - [[Locus of Control\|控制点]]（[[Locus of Control]]）[[Construct\|构念]]成为动机心理学和人格心理学的核心概念之一
 > - Rotter 的工作直接影响了 Weiner 的[[Attribution Theory\|归因理论]]（[[Attribution Theory]]）发展——Weiner 将 Rotter 的单维度控制点概念扩展为来源、稳定性和可控性三个独立维度
 > - [[Social Learning Theory\|社会学习理论]]构成了 Bandura 社会认知理论的前置基础

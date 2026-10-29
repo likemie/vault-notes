@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Normal School]]"
   - "[[Policy Borrowing]]"
+  - "[[Institutional Mimesis]]"
   - "[[Research Universities]]"
   - "[[Global Universities Rankings]]"
   - "[[Heterogeneity]]"
@@ -39,12 +40,11 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Competitiveness]]"
   - "[[Discourse]]"
-  - "[[State Educational Sovereignty]]"
+  - "[[Scientific Productivity]]"
   - "[[Transfer Space]]"
 related_facts:
   - "[[CNRS]]"
   - "[[Academic Ranking of World Universities]]"
-  - "[[Chinese Academy of Sciences]]"
   - "[[GEMS Education]]"
   - "[[Nord Anglia Education]]"
   - "[[Imperial Universities]]"
@@ -61,13 +61,13 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Grandes Ecoles
-> 法国大学校（Grandes Écoles，单数 Grande École）是法国高等教育中独立于大众化综合公立大学（Universités）的精英专业学院系统。其肇始于 18 世纪末法国大革命与拿破仑时期，以极其严苛的高中毕业会考（Baccalauréat）后预科班（Classes Préparatoires aux Grandes Écoles, CPGE）选拔统考（Concours）为门槛，专注于为国家行政官僚体系、工商业财团及国防工程培养高级技术专家、高级公务员与商业领袖（如巴黎综合理工学院 École Polytechnique、国立行政学院 ENA、巴黎高等[[Normal School|师范学院]] ENS、巴黎高等商学院 HEC 等）（[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008, p. 42]]）。在比较教育与历史社会学中，大学校不仅因与[[CNRS|法国国家科学研究中心]]（CNRS）和综合大学构成“三元分立”格局而成为高教制度分析的典型客体，更作为近代主权国家间双边[[Policy Borrowing|政策借用]]与制度模仿的经典原型（如巴西早期对法国大学校的制度模仿，Cowen & Figueiredo, 1992；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 344]]）。
+> 法国大学校（Grandes Écoles，单数 Grande École）是法国高等教育中独立于大众化综合公立大学（Universités）的精英专业学院系统。其肇始于 18 世纪末法国大革命与拿破仑时期，以极其严苛的高中毕业会考（Baccalauréat）后预科班（Classes Préparatoires aux Grandes Écoles, CPGE）选拔统考（Concours）为门槛，专注于为国家行政官僚体系、工商业财团及国防工程培养高级技术专家、高级公务员与商业领袖（如巴黎综合理工学院 École Polytechnique、国立行政学院 ENA、巴黎高等[[Normal School|师范学院]] ENS、巴黎高等商学院 HEC 等）（[[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008, p. 42]]）。在比较教育与历史社会学中，大学校不仅因与[[CNRS|法国国家科学研究中心]]（CNRS）和综合大学构成“三元分立”格局而成为高教制度分析的典型客体，更作为近代主权国家间双边[[Policy Borrowing|政策借用]]与[[Institutional Mimesis|制度模仿]]的经典原型（如巴西早期对法国大学校的制度模仿，Cowen & Figueiredo, 1992；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 344]]）。
 
 > [!concept-lens] 概念透镜
 > - **制度本质** 法国中央集权理性主义与国家贵族（Noblesse d'État）再生产的特权专业机器，其社会威望与选拔严苛度远超常规综合性公立大学。
@@ -75,7 +75,7 @@ updated: 2026-10-26
 > - **治理结构性代价** 导致高层次教学与前沿基础科学研究在物理和体制层面深度割裂，使法国在以英美[[Research Universities|研究型大学]]为评价基准的[[Global Universities Rankings|全球大学排名]]中长期陷于被动。
 
 > [!citation-card] 教学与前沿科研的体制性割裂
-> 在美国，最杰出的前沿研究与高层次人才培养紧密相连。然而在法国，国家科学研究中心（CNRS）自设专职研究所吸纳了最顶级的科研力量，其研究员无教学硬性考核；而拔尖青年学生却在规模狭小的大学校接受高度职业化的技术与管理培训，导致科研生产与精英教学产生了体制性与物理性的割裂。这种深层的历史路径依赖使得法国在试图复制英美[[Research Universities|研究型大学]]模式时遭遇了巨大的结构性制度阻力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
+> 在美国，最杰出的前沿研究与高层次人才培养紧密相连。然而在法国，国家科学研究中心（CNRS）自设专职研究所吸纳了最顶级的科研力量，其研究员无教学硬性考核；而拔尖青年学生却在规模狭小的大学校接受高度职业化的技术与管理培训，导致科研生产与精英教学产生了体制性与物理性的割裂。这种深层的历史[[Path Dependence|路径依赖]]使得法国在试图复制英美[[Research Universities|研究型大学]]模式时遭遇了巨大的结构性制度阻力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 >
 > *In France, the tripartite separation between the CNRS institutes, the Grandes Écoles, and the mass public universities has created a structural barrier to the integration of advanced research and graduate education. Top researchers in CNRS laboratories do not have teaching requirements, while top students in the Grandes Écoles are trained for professional and technocratic careers rather than Basic Research careers. This historical path dependence hinders France from replicating the Anglo-American research university model.*
 
@@ -124,7 +124,7 @@ updated: 2026-10-26
 > 探讨主权国家在现代化初期如何通过自上而下的双边模仿引入法国大学校，并以此作为透视当代跨国商业网络化[[Policy Mobility|政策流动]]的历史基准。
 
 > [!claim] Cowen & Figueiredo; Beech
-> **双边国家制度模仿的经典形态与当代空间超越** [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）与费格雷多（Cowen & Figueiredo, 1992）以及[[Jason Beech|杰森·比奇]]（Jason Beech, 2009b, p. 344）指出，在前全球化时期，跨国教育[[Policy Borrowing|政策借用]]（[[Policy Borrowing]]）的范式相对清晰单纯，通常表现为主权国家主导的单向、双边制度模仿。19 世纪至 20 世纪初，巴西等拉丁美洲新兴国家为了构建本国工业化基础与官僚技术阶层，系统性地以法国大学校（Grandes Écoles）为模板创办本国的工程与军事技术专[[Chinese Academy of Sciences|科学院]]，构成了主权国家跨国制度移植的经典历史样本。然而，比奇进一步论证，这种以主权国家为核心的双边机构模仿模式在当代已被跨国教育集团（如 [[GEMS Education|GEMS]]、[[Nord Anglia Education|Nord Anglia]]）主导的多标量网络流动所超越；现代教育转移不再局限于国家间对特定院校形态（如法国大学校或美国学分制）的制度复制，而是转变为跨国商业资本纵向穿透边界的全球政策营销。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
+> **双边国家[[Institutional Mimesis|制度模仿]]的经典形态与当代空间超越** [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）与费格雷多（Cowen & Figueiredo, 1992）以及[[Jason Beech|杰森·比奇]]（Jason Beech, 2009b, p. 344）指出，在前全球化时期，跨国教育[[Policy Borrowing|政策借用]]（[[Policy Borrowing]]）的范式相对清晰单纯，通常表现为主权国家主导的单向、双边制度模仿。19 世纪至 20 世纪初，巴西等拉丁美洲新兴国家为了构建本国工业化基础与官僚技术阶层，系统性地以法国大学校（Grandes Écoles）为模板创办本国的工程与军事技术专科学院，构成了主权国家跨国制度移植的经典历史样本。然而，比奇进一步论证，这种以主权国家为核心的双边机构模仿模式在当代已被跨国教育集团（如 [[GEMS Education|GEMS]]、[[Nord Anglia Education|Nord Anglia]]）主导的多标量网络流动所超越；现代教育转移不再局限于国家间对特定院校形态（如法国大学校或美国学分制）的制度复制，而是转变为跨国商业资本纵向穿透边界的全球政策营销。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
 
 > [!citation-card] 论经典双边制度模仿与当代跨国转移的断裂
 > 在过去，教育转移的模型相当直接清晰。教育借用通常是双边的，并由民族国家具体实施。例如，巴西对法国大学校（Grandes Écoles）的模仿（Cowen & Figueiredo, 1992），或者将美国学分制引入中国的高校（Steiner-Khamsi, 2000）……与此形成鲜明对比的是，当代的教育转移由跨国公司与多标量网络所介导。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
@@ -189,7 +189,7 @@ updated: 2026-10-26
 > |---|---|---|---|
 > | **学生群体规模与分流** | 全法高等教育在读生结构 | 大学校预科班及在读生仅占高教总生源约 **1%–2%**；普通综合公立大学承担逾 **60%** 生源 | 极端的精英与大众二元分化，公共资源向极少数特权学院高度倾斜 |
 > | **国家核心决策圈垄断率** | 法国政商顶级领导层教育背景 | 历任总统、总理及 CAC 40 强跨国企业首席执行官逾 **70%** 出自巴黎综合理工、ENA 或 HEC | 证实大学校对国家治理与经济命脉的绝对垄断地位 |
-> | **科教结合与科研产出** | [[CNRS]] 与大学校联合研究单元（UMR）占比 | 超过 **80%** 的顶级前沿基础科学论文标注单位归属于 CNRS 专职研究所 | 大学机构自身缺乏独立完整的科研生产力，在跨国排名中长期被动 |
+> | **科教结合与科研产出** | [[CNRS]] 与大学校联合研究单元（UMR）占比 | 超过 **80%** 的顶级前沿基础科学论文标注单位归属于 CNRS 专职研究所 | 大学机构自身缺乏独立完整的[[Scientific Productivity\|科研生产力]]，在跨国排名中长期被动 |
 > | **历史制度移植样本（巴西）** | 19 世纪末至 20 世纪初跨国教育借用（Cowen & Figueiredo, 1992；[[Argument_Beech_2009_GlobalGarden\|Beech, 2009b, p. 344]]） | 巴西全面以法国大学校理工科与军事专门学院模式重塑本国高等专科教育 | 成为比较教育学中主权国家主导双边制度模仿的经典历史基准 |
 
 ---

@@ -13,7 +13,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 24
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -32,11 +32,13 @@ related_concepts:
   - "[[Megascience Installations]]"
   - "[[Research Universities]]"
   - "[[International Branch Campus]]"
+  - "[[Scientific Productivity]]"
   - "[[Public Diplomacy]]"
   - "[[Global Universities Rankings]]"
   - "[[Educational Diplomacy]]"
   - "[[Student Mobility]]"
   - "[[English-Medium Instruction in Higher Education]]"
+  - "[[Document]]"
   - "[[People-to-People Connectivity]]"
   - "[[Academic Freedom]]"
 related_theories: []
@@ -59,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -107,7 +109,7 @@ updated: 2026-10-26
 
 > [!pathways] 实施路径
 > - **中央战略统筹与超常规资金倾斜** 国家持续增加对高等教育的公共财政投入，从 2016 年的 10,110 亿元大幅扩充至 2020 年的约 14,000 亿元，为尖端实验设备、高薪引才与大型科研攻关提供充裕资金保障。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 81–82)]]
-> - **聚焦自然科学与工程技术科研生产力** 强调国际同行评议指标与顶级期刊发文量，推动科研从技术跟踪向原始创新转变，使中国科技发文总量在 2018 年超越美国，并在 2020 年达到 195 万篇。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 81)]]
+> - **聚焦自然科学与工程技术[[Scientific Productivity|科研生产力]]** 强调国际同行评议指标与顶级期刊发文量，推动科研从技术跟踪向原始创新转变，使中国科技发文总量在 2018 年超越美国，并在 2020 年达到 195 万篇。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 81)]]
 > - **服务[[Public Diplomacy|对外公共外交]]与国际生源汇聚** 依托持续攀升的[[Global Universities Rankings|全球大学排名]]与全英文优势学科，打造面向“[[Belt and Road Initiative|一带一路]]”沿线及东南亚国家的[[Educational Diplomacy|教育外交]]高地，带动在华外国留[[Student Mobility|学生流动]]规模在 2018 年增至 49.2 万人。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 82–83)]]
 
 ---
@@ -118,7 +120,7 @@ updated: 2026-10-26
 > - **结果指标** 科学与工程学术发文总量（2020 年达 195 万篇）、全球权威大学排名前列入选校数、国际留学生在华注册总数（2018 年达 49.2 万人）。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 81–83)]]
 
 > [!finding-cards] 效果与成效
-> - **科学文献产出规模显著扩展** 中国科研学术发文规模由 2010 年的 142 万篇增长至 2020 年的 195 万篇，在 2018 年实现对美国的数量超越，展现出从技术模仿向自主科研的转变。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 81)]]
+> - **科学[[Document|文献]]产出规模显著扩展** 中国科研学术发文规模由 2010 年的 142 万篇增长至 2020 年的 195 万篇，在 2018 年实现对美国的数量超越，展现出从技术模仿向自主科研的转变。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, p. 81)]]
 > - **[[Academic Ranking of World Universities|世界大学学术排名]]显著攀升** 在主流全球高等教育排行榜中，中国高水平研究型大学上榜数量与位次持续上升，多所领军高校进入世界百强。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 80–82)]]
 > - **充当国家软实力与教育外交的关键支点** 伴随大学科研实力增强，中国高校对周边发展中国家青年精英的吸引力大幅提升，有力支撑了涵盖留学生招募、海外分校建设与[[Confucius Institute|孔子学院]]合作的对外战略布局。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 81–85)]]
 > - **边界条件** 政策成效高度依托中央与地方高强度财政专项配给；在缺乏充足地方财力配套与基础学科底蕴的中西部非中心院校，建设成效易受外部资源波动制约。
