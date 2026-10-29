@@ -89,6 +89,10 @@ related_facts:
   - "[[Southeast Asian Higher Education Common Space]]"
   - "[[ASEAN Economic Community]]"
   - "[[SHARE Programme]]"
+  - "[[SEAMEO]]"
+  - "[[AIMS Programme]]"
+  - "[[European University Association]]"
+  - "[[Court of Justice of the European Union]]"
 related_arguments: []
 sources:
   - "[[sources/Chou_2017_PolSoc|Chou_2017_PolSoc]]"
@@ -138,8 +142,8 @@ updated: 2026-10-29
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **访谈样本** | 东南亚完成 43 场深度访谈（2015 年 4 月至 2016 年 3 月，于曼谷、雅加达和新加坡进行），系统覆盖东盟布鲁塞尔委员会、东盟秘书处、[[ASEAN University Network\|东盟大学联盟（ASEAN University Network, AUN）]]秘书处、亚欧基金会（Asia-Europe Foundation, ASEF）、英国文化教育协会、[[European Association for Quality Assurance in Higher Education\|欧洲高等教育质量保障协会（European Association for Quality Assurance in Higher Education, ENQA）]]、欧洲大学协会（European University Association, EUA）、欧洲驻东南亚国家外交使团（法、英）、德意志学术交流中心（German Academic Exchange Service, DAAD）、[[SEAMEO RIHED\|东南亚教育部长组织高等教育与发展区域中心（SEAMEO Regional Centre for Higher Education and Development, SEAMEO RIHED）]]与[[UNESCO\|联合国教科文组织（United Nations Educational, Scientific and Cultural Organization, UNESCO）]]曼谷办事处代表；布鲁塞尔完成 10 场欧洲委员会总署访谈（发展合作总署、教育文化总署、对外行动署）。 |
-> | **文本样本** | 欧洲方面涵盖 1950 年代欧洲共同体成立备忘录、1980 年代欧洲法院教育判例、1987 年[[Erasmus Programme\|伊拉斯谟计划]]决议、1999 年博洛尼亚宣言及后续部长级公报、欧盟[[Lisbon Strategy\|里斯本战略]]与欧洲 2020 战略；东南亚方面涵盖 1965 年东南亚教育部长组织（Southeast Asian Ministers of Education Organisation, SEAMEO）宪章、1967 年东盟曼谷宣言、东盟大学联盟章程、2007 年《东盟大学联盟质量保障指南》、东南亚教育部长组织高教中心 2008 年区域一体化测绘报告与 2012 年质量保障研究报告。 |
+> | **访谈样本** | 东南亚完成 43 场深度访谈（2015 年 4 月至 2016 年 3 月，于曼谷、雅加达和新加坡进行），系统覆盖东盟布鲁塞尔委员会、东盟秘书处、[[ASEAN University Network|东盟大学联盟（ASEAN University Network, AUN）]]秘书处、亚欧基金会（Asia-Europe Foundation, ASEF）、英国文化教育协会、[[European Association for Quality Assurance in Higher Education|欧洲高等教育质量保障协会（European Association for Quality Assurance in Higher Education, ENQA）]]、[[European University Association|欧洲大学协会（European University Association, EUA）]]、欧洲驻东南亚国家外交使团（法、英）、德意志学术交流中心（German Academic Exchange Service, DAAD）、[[SEAMEO RIHED|东南亚教育部长组织高等教育与发展区域中心（SEAMEO Regional Centre for Higher Education and Development, SEAMEO RIHED）]]与[[UNESCO|联合国教科文组织（United Nations Educational, Scientific and Cultural Organization, UNESCO）]]曼谷办事处代表；布鲁塞尔完成 10 场欧洲委员会总署访谈（发展合作总署、教育文化总署、对外行动署）。 |
+> | **文本样本** | 欧洲方面涵盖 1950 年代欧洲共同体成立备忘录、1980 年代[[Court of Justice of the European Union|欧洲法院]]教育判例、1987 年[[Erasmus Programme|伊拉斯谟计划]]决议、1999 年博洛尼亚宣言及后续部长级公报、欧盟[[Lisbon Strategy|里斯本战略]]与欧洲 2020 战略；东南亚方面涵盖 1965 年[[SEAMEO|东南亚教育部长组织]]（Southeast Asian Ministers of Education Organisation, SEAMEO）宪章、1967 年东盟曼谷宣言、东盟大学联盟章程、2007 年《东盟大学联盟质量保障指南》、东南亚教育部长组织高教中心 2008 年区域一体化测绘报告与 2012 年质量保障研究报告。 |
 > | **材料情境** | 针对两地公开档案可获取性的严重非对称性（欧洲[[Document\|文献]]极其丰富易得，东南亚公开资料相对稀缺），材料收集严格遵循匿名[[Informed Consent\|知情同意]]原则以保障受访者真实表达，并通过多方口述交叉互证补足东南亚[[Deficiencies in Past Literature\|文献缺口]]。 |
 
 ---
@@ -183,16 +187,16 @@ updated: 2026-10-29
 #### 2. 软法治理结合知识经济竞争，促成全域统一的旗舰模式
 
 > [!actor-grid] 欧洲高教多层次治理中的行动者博弈
-> - **欧洲联盟委员会（European Commission）** 在缺乏条约直接立法权的情况下展现出高度能动性，借助职业培训条约条款与欧洲法院判例，通过专项资助和议程设置深入介入高教事务。
+> - **欧洲联盟委员会（European Commission）** 在缺乏条约直接立法权的情况下展现出高度能动性，借助职业培训条约条款与[[Court of Justice of the European Union|欧洲法院]]判例，通过专项资助和议程设置深入介入高教事务。
 > - **成员国政府与教育部** 坚决捍卫宪法规定的教育主权，抵制超国家硬法立法，坚持以自愿参加的政府间部长会议推进合作。
-> - **欧洲大学协会与高校组织** 代表基层学术机构参与区域顶层设计，在维护大学办学自主权与对接全欧资历标准之间寻求平衡。
+> - **[[European University Association|欧洲大学协会]]与高校组织** 代表基层学术机构参与区域顶层设计，在维护大学办学自主权与对接全欧资历标准之间寻求平衡。
 > - **欧洲质量保障协会（[[European Association for Quality Assurance in Higher Education|ENQA]]）与专业机构** 研制并落实欧洲高等教育质量保障标准与指南（[[European Standards and Guidelines|Standards and Guidelines for Quality Assurance in the European Higher Education Area]], ESG），充当推动各国评价制度实质对接的技术主力。
 
 > [!quad-grid] 欧洲高教旗舰模式成型的四大支柱
 > - **公民欧洲的政治需求** 1980 年代欧洲一体化重启时，决策层为了摆脱单一经济共同体的局限，试图通过高教交流培育欧洲公民认同，同时为统一市场提供具有跨国机动性的专业人才。
 > - **新欧洲治理的软法机制** 1990 年代传统指令性集中立法模式面临阻力，以自愿协商、最佳实践分享和同行审议压力为特征的软法治理，成为突破主权阻力、推动政策协调的关键方式 (Ravinet, 2011)。
 > - **知识经济的全球竞争压力** 全球化要求各国强化高技能劳动力供给，欧盟顺势将高等教育界定为关乎全欧经济增长与创新竞争的核心引擎。
-> - **欧洲法院的司法切入点** 欧洲法院 1980 年代对职业培训范围的司法解释，为欧盟委员会介入高教合作提供了关键法律依据 (Pépin, 2006)。
+> - **[[Court of Justice of the European Union|欧洲法院]]的司法切入点** 欧洲法院 1980 年代对职业培训范围的司法解释，为欧盟委员会介入高教合作提供了关键法律依据 (Pépin, 2006)。
 
 > [!warrant]- 步骤一论证逻辑收束：从资助流动到全域趋同旗舰模式的治理演进
 > 欧洲高教合作历程展现了功能主义与观念建构的相互强化。由于直接立法权受到民族国家严格防御，欧洲联盟委员会借助软法治理（自愿协调、[[Peer Debriefing|同行审议]]与最佳实践共享）规避了主权对立；同时借助全球知识经济竞争话语，将高等教育重新锚定为关乎全欧经济增长的核心部门。两大机制相互支撑，使欧洲突破了早期分散的单项资助，最终演进为以博洛尼亚进程为牵引、追求全域实质趋同的旗舰模式。
@@ -205,7 +209,7 @@ updated: 2026-10-29
 #### 1. 东南亚高教合作起步更早，在发展中确立高校与部委双轨分工
 
 > [!dev-timeline] 东南亚高教区域合作演化的四个历史阶段
-> - **1960–1980 年代 — 外交框架优先与高教议题从属** 东南亚多边教育合作早于欧洲大规模实践。1961 年[[UNESCO|联合国教科文组织]]在曼谷设立办事处；1965 年东南亚教育部长组织正式成立，促进教育、科学与文化合作；1967 年东南亚国家联盟宣告成立。初期虽设立了东盟教育部长级会议（ASEAN Education Ministers Meeting, ASED），但该机制很快停摆，政府间实质合作主要依托 SEAMEO 开展 (Dang, 2012)。当时高等教育未被列为独立优先事项，多边合作重心完全聚焦于搭建区域多边外交骨架，未深入涉及实质教育政策内容。
+> - **1960–1980 年代 — 外交框架优先与高教议题从属** 东南亚多边教育合作早于欧洲大规模实践。1961 年[[UNESCO|联合国教科文组织]]在曼谷设立办事处；1965 年[[SEAMEO|东南亚教育部长组织]]正式成立，促进教育、科学与文化合作；1967 年东南亚国家联盟宣告成立。初期虽设立了东盟教育部长级会议（ASEAN Education Ministers Meeting, ASED），但该机制很快停摆，政府间实质合作主要依托 SEAMEO 开展 (Dang, 2012)。当时高等教育未被列为独立优先事项，多边合作重心完全聚焦于搭建区域多边外交骨架，未深入涉及实质教育政策内容。
 > - **1990 年代 — 高教战略地位提升与双轨分工确立** 1990 年代初东南亚迎来明确的高教战略转向，先后设立了两个理念截然不同的多边平台。其一是 1992 年提议、1995 年正式设立的东盟大学联盟（AUN），聚焦区域内 30 所顶尖旗舰大学，围绕具体学科开展务实的项目合作与人员流动；其二是 1993 年东南亚教育部长组织在曼谷恢复设立的SEAMEO 高教中心，代表政府间教育部委权威，推进全域层面的宏观政策协调。
 > - **2000 年代末 — 经济共同体建设倒逼教育对接加速** 2007 年东盟峰会确立了在 2015 年前建成[[ASEAN Economic Community|东盟经济共同体]]（ASEAN Economic Community, AEC）的决定性时间表。这一高度政治化的经济整合承诺产生横向带动效应，倒逼东盟社会文化共同体（ASEAN Socio-Cultural Community, ASCC）加快解决人才流动与专业资质互认难题。全球知识经济话语使各国政府认识到高等教育与经济生产力的紧密联系，将高教合作深度融入区域整体发展议程。
 > - **2010 年代至今 — 弹性伞式框架下建设共同空间** 面对 AUN 与 RIHED 多年积累的大量分散项目，东南亚各方提出建设[[Southeast Asian Higher Education Common Space|东南亚高等教育共同空间]]。这一概念用于包容并理顺既有机制，充当弹性的伞式平台，通过东盟互联互通总体规划（[[People-to-People Connectivity]]）推动校际学分互认与质保经验对话，在充分尊重制度多样性的前提下促进务实连通。
@@ -225,7 +229,7 @@ updated: 2026-10-29
 > [!line-b] 东南亚教育部长组织高教中心（SEAMEO RIHED）：政府部委权威与宏观政策对话
 > - **组织属性与定位** 跨国政府间教育组织的自治专门中心，直属于各成员国教育部部长组成的理事会管辖。
 > - **协作逻辑与范围** 覆盖东南亚全部公立与私立高校，遵循多边协商一致原则，通过跨国政府试点稳步扩大示范。
-> - **代表性政策工具** 发布《区域高教空间规划报告》(SEAMEO RIHED, 2008) 并推进亚洲国际学生流动计划（Asian International Mobility for Students, AIMS）。
+> - **代表性政策工具** 发布《区域高教空间规划报告》(SEAMEO RIHED, 2008) 并推进[[AIMS Programme|亚洲国际学生流动计划]]（Asian International Mobility for Students, AIMS）。
 
 > [!tension-table] 东南亚高教合作两大核心实体的理念与功能分治
 > | 比较维度 | [[ASEAN University Network\|东盟大学联盟（AUN）]] | [[SEAMEO RIHED\|东南亚教育部长组织高教中心（SEAMEO RIHED）]] |
@@ -234,7 +238,7 @@ updated: 2026-10-29
 > | **组织法律属性** | 名义上列入东盟部门机构附录，实际决策权由各成员国顶尖高校校长主导 | 跨国政府间教育组织的自治专门中心，直属各成员国教育部部长组成的理事会管辖 |
 > | **核心治理理念** | 以旗舰大学为重心的务实网络化协同，围绕特定学科开展微观互惠合作 | 以具备政策制定权的主权政府官员为主体，谋求覆盖全域各类型高校的宏观政策协调 |
 > | **辐射对象与范围** | 严格限制为东盟各成员国 30 所顶尖[[Research Universities\|研究型大学]]，向非东盟伙伴有限开放 | 覆盖东南亚全部成员国（含非东盟成员东帝汶）的全体公立与私立高等教育机构 |
-> | **代表性政策工具** | 《质量保障指南》(AUN, 2007) 与东盟学分转移系统（ACTS） | 《区域高教空间规划报告》(SEAMEO RIHED, 2008)、《国家质保框架对接》(SEAMEO RIHED, 2012) 与亚洲国际学生流动计划（AIMS） |
+> | **代表性政策工具** | 《质量保障指南》(AUN, 2007) 与东盟学分转移系统（ACTS） | 《区域高教空间规划报告》(SEAMEO RIHED, 2008)、《国家质保框架对接》(SEAMEO RIHED, 2012) 与[[AIMS Programme|亚洲国际学生流动计划（AIMS）]] |
 > | **实施推进机制** | 遵循院校自愿个案参与原则，项目由各校自主认领并自筹匹配资金 | 遵循多边政府间协商一致原则，通过多国政府间小范围试点稳步扩大示范 |
 
 #### 3. 经济一体化倒逼政策连通，知识话语成为维护主权的合作支点
