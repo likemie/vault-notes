@@ -200,7 +200,9 @@
     "Adams & Titler (2013)": "Adams & Titler, 2013",
     "Adams & Titler, 2013": "Adams & Titler, 2013",
     "Adams (2009)": "Adams, 2009",
+    "Adams (2013)": "Adams, 2013",
     "Adams, 2009": "Adams, 2009",
+    "Adams, 2013": "Adams, 2013",
     "Adamson (1972)": "Adamson, 1972",
     "Adamson, 1972": "Adamson, 1972",
     "Adamsons & Johnson (2013)": "Adamsons & Johnson, 2013",
@@ -283,6 +285,8 @@
     "Agnew (2003)": "Agnew, 2003",
     "Agnew, 1994": "Agnew, 1994",
     "Agnew, 2003": "Agnew, 2003",
+    "Agrawal et al. (2017)": "Agrawal et al., 2017",
+    "Agrawal et al., 2017": "Agrawal et al., 2017",
     "Aguilera & Perales-Palacios (2018)": "Aguilera & Perales-Palacios, 2018",
     "Aguilera & Perales-Palacios, 2018": "Aguilera & Perales-Palacios, 2018",
     "Aguirre (1997)": "Aguirre, 1997",
@@ -1312,10 +1316,12 @@
     "Azevedo, 2010": "Azevedo, 2010",
     "Azmi et al. (2024)": "Azmi et al., 2024",
     "Azmi et al., 2024": "Azmi et al., 2024",
+    "Azoulay et al. (2010)": "Azoulay et al., 2010",
     "Azoulay et al. (2011)": "Azoulay et al., 2011",
     "Azoulay et al. (2014)": "Azoulay et al., 2014",
     "Azoulay et al. (2019)": "Azoulay et al., 2019",
     "Azoulay et al. (2020)": "Azoulay et al., 2020",
+    "Azoulay et al., 2010": "Azoulay et al., 2010",
     "Azoulay et al., 2011": "Azoulay et al., 2011",
     "Azoulay et al., 2014": "Azoulay et al., 2014",
     "Azoulay et al., 2019": "Azoulay et al., 2019",
@@ -1630,6 +1636,8 @@
     "Barab & Squire, 2004": "Barab & Squire, 2004",
     "Barabási (2002)": "Barabási, 2002",
     "Barabási (2005)": "Barabási, 2005",
+    "Barabási et al. (2002)": "Barabási et al., 2002",
+    "Barabási et al., 2002": "Barabási et al., 2002",
     "Barabási, 2002": "Barabási, 2002",
     "Barabási, 2005": "Barabási, 2005",
     "Baram-Tsabari & Segev (2018)": "Baram-Tsabari & Segev, 2018",
@@ -2736,6 +2744,8 @@
     "Borgen, 2020": "Borgen, 2020",
     "Boring (2006)": "Boring, 2006",
     "Boring, 2006": "Boring, 2006",
+    "Borjas & Doran (2012)": "Borjas & Doran, 2012",
+    "Borjas & Doran, 2012": "Borjas & Doran, 2012",
     "Borkowsky (1970)": "Borkowsky, 1970",
     "Borkowsky, 1970": "Borkowsky, 1970",
     "Borman & D'Agostino (1996a)": "Borman & D'Agostino, 1996a",
@@ -5321,6 +5331,8 @@
     "Culliney, 2021": "Culliney, 2021",
     "Cullum Clark (2022)": "Cullum Clark, 2022",
     "Cullum Clark, 2022": "Cullum Clark, 2022",
+    "Cummings & Kiesler (2005)": "Cummings & Kiesler, 2005",
+    "Cummings & Kiesler, 2005": "Cummings & Kiesler, 2005",
     "Cummings (1985)": "Cummings, 1985",
     "Cummings (1989)": "Cummings, 1989",
     "Cummings (2004)": "Cummings, 2004",
@@ -9310,6 +9322,7 @@
     "Grossman & Helpman, 1991": "Grossman & Helpman, 1991",
     "Grossman (1998a)": "Grossman, 1998a",
     "Grossman (1998b)": "Grossman, 1998b",
+    "Grossman (2019)": "Grossman, 2019",
     "Grossman et al. (2010)": "Grossman et al., 2010",
     "Grossman et al. (2013)": "Grossman et al., 2013",
     "Grossman et al., 2010": "Grossman et al., 2010",
@@ -9317,6 +9330,7 @@
     "Grossman, 1998": "Grossman, 1998a",
     "Grossman, 1998a": "Grossman, 1998b",
     "Grossman, 1998b": "Grossman, 1998b",
+    "Grossman, 2019": "Grossman, 2019",
     "Grosvenor (2007)": "Grosvenor, 2007",
     "Grosvenor, 2007": "Grosvenor, 2007",
     "Grove et al. (2017)": "Grove et al., 2017",
@@ -11817,11 +11831,14 @@
     "Jones (2009b)": "Jones, 2009b",
     "Jones (2010a)": "Jones, 2010a",
     "Jones (2010b)": "Jones, 2010b",
+    "Jones (2011)": "Jones, 2011",
     "Jones (2015)": "Jones, 2015",
     "Jones (2016)": "Jones, 2016",
     "Jones (2017)": "Jones, 2017",
     "Jones (2020a)": "Jones, 2020a",
     "Jones (2020b)": "Jones, 2020b",
+    "Jones et al. (2008)": "Jones et al., 2008",
+    "Jones et al., 2008": "Jones et al., 2008",
     "Jones, 1967": "Jones, 1967",
     "Jones, 1971": "Jones, 1971",
     "Jones, 1979": "Jones, 1979",
@@ -11839,6 +11856,7 @@
     "Jones, 2010": "Jones, 2010a",
     "Jones, 2010a": "Jones, 2010b",
     "Jones, 2010b": "Jones, 2010b",
+    "Jones, 2011": "Jones, 2011",
     "Jones, 2015": "Jones, 2015",
     "Jones, 2016": "Jones, 2016",
     "Jones, 2017": "Jones, 2017",
@@ -15290,6 +15308,8 @@
     "Marzouki et al., 2017": "Marzouki et al., 2017",
     "Marzuki et al. (2023)": "Marzuki et al., 2023",
     "Marzuki et al., 2023": "Marzuki et al., 2023",
+    "Mas & Moretti (2009)": "Mas & Moretti, 2009",
+    "Mas & Moretti, 2009": "Mas & Moretti, 2009",
     "Mascarenhas (1989)": "Mascarenhas, 1989",
     "Mascarenhas et al. (2018)": "Mascarenhas et al., 2018",
     "Mascarenhas et al., 2018": "Mascarenhas et al., 2018",
@@ -17060,6 +17080,7 @@
     "Newman & Gough, 2020": "Newman & Gough, 2020",
     "Newman (1986)": "Newman, 1986",
     "Newman (1989)": "Newman, 1989",
+    "Newman (2001)": "Newman, 2001",
     "Newman (2004a)": "Newman, 2004a",
     "Newman (2004b)": "Newman, 2004b",
     "Newman (2025)": "Newman, 2025",
@@ -17069,6 +17090,7 @@
     "Newman et al., 2025": "Newman et al., 2025",
     "Newman, 1986": "Newman, 1986",
     "Newman, 1989": "Newman, 1989",
+    "Newman, 2001": "Newman, 2001",
     "Newman, 2004": "Newman, 2004a",
     "Newman, 2004a": "Newman, 2004b",
     "Newman, 2004b": "Newman, 2004b",
@@ -17555,6 +17577,8 @@
     "Odo, 2021": "Odo, 2021",
     "Odumosu & Vinsel (2013)": "Odumosu & Vinsel, 2013",
     "Odumosu & Vinsel, 2013": "Odumosu & Vinsel, 2013",
+    "Oettl (2012)": "Oettl, 2012",
+    "Oettl, 2012": "Oettl, 2012",
     "Ofcom (2025)": "Ofcom, 2025",
     "Ofcom, 2025": "Ofcom, 2025",
     "Offenberg (2004)": "Offenberg, 2004",
@@ -17896,6 +17920,8 @@
     "Palgrave Macmillan (2019)": "Palgrave Macmillan, 2019",
     "Palgrave Macmillan, 2019": "Palgrave Macmillan, 2019",
     "Palgrave, 2006": "Palgrave, 2006",
+    "Palla et al. (2005)": "Palla et al., 2005",
+    "Palla et al., 2005": "Palla et al., 2005",
     "Pallonen (1998)": "Pallonen, 1998",
     "Pallonen, 1998": "Pallonen, 1998",
     "Palmer (1949)": "Palmer, 1949",
@@ -20316,6 +20342,8 @@
     "Sabato, 1993": "Sabato, 1993",
     "Sabine (1951)": "Sabine, 1951",
     "Sabine, 1951": "Sabine, 1951",
+    "Sacerdote (2001)": "Sacerdote, 2001",
+    "Sacerdote, 2001": "Sacerdote, 2001",
     "Sachs (2003)": "Sachs, 2003",
     "Sachs, 2003": "Sachs, 2003",
     "Sackett et al. (1996)": "Sackett et al., 1996",
@@ -24006,6 +24034,10 @@
     "Uysal & Kanadl, 2022": "Uysal & Kanadl, 2022",
     "Uysal & Sarier (2018)": "Uysal & Sarier, 2018",
     "Uysal & Sarier, 2018": "Uysal & Sarier, 2018",
+    "Uzzi & Spiro (2005)": "Uzzi & Spiro, 2005",
+    "Uzzi & Spiro, 2005": "Uzzi & Spiro, 2005",
+    "Uzzi et al. (2013)": "Uzzi et al., 2013",
+    "Uzzi et al., 2013": "Uzzi et al., 2013",
     "V. D. (2004)": "V. D., 2004",
     "V. D., 2004": "V. D., 2004",
     "Vachkov (2018)": "Vachkov, 2018",
@@ -24452,6 +24484,8 @@
     "Walder et al. (2000)": "Walder et al., 2000",
     "Walder et al., 2000": "Walder et al., 2000",
     "Walder, 1995": "Walder, 1995",
+    "Waldinger (2010)": "Waldinger, 2010",
+    "Waldinger, 2010": "Waldinger, 2010",
     "Waldow (2017)": "Waldow, 2017",
     "Waldow, 2017": "Waldow, 2017",
     "Waldrop (1992)": "Waldrop, 1992",
@@ -24706,6 +24740,8 @@
     "Watt, 1997": "Watt, 1997",
     "Watts & Ebbutt (1987)": "Watts & Ebbutt, 1987",
     "Watts & Ebbutt, 1987": "Watts & Ebbutt, 1987",
+    "Watts & Strogatz (1998)": "Watts & Strogatz, 1998",
+    "Watts & Strogatz, 1998": "Watts & Strogatz, 1998",
     "Watts (2003)": "Watts, 2003",
     "Watts, 2003": "Watts, 2003",
     "Wax (1982)": "Wax, 1982",
@@ -25433,6 +25469,8 @@
     "Wu, 2024": "Wu, 2024a",
     "Wu, 2024a": "Wu, 2024b",
     "Wu, 2024b": "Wu, 2024b",
+    "Wuchty et al. (2007)": "Wuchty et al., 2007",
+    "Wuchty et al., 2007": "Wuchty et al., 2007",
     "Wurster & Gärtner (2013)": "Wurster & Gärtner, 2013",
     "Wurster & Gärtner, 2013": "Wurster & Gärtner, 2013",
     "Wuthnow (1989)": "Wuthnow, 1989",
@@ -26123,7 +26161,9 @@
     "Zucker et al., 2009": "Zucker et al., 2009",
     "Zucker, 2013": "Zucker, 2013",
     "Zucker, 2021": "Zucker, 2021",
+    "Zuckerman (1967)": "Zuckerman, 1967",
     "Zuckerman (1977)": "Zuckerman, 1977",
+    "Zuckerman, 1967": "Zuckerman, 1967",
     "Zuckerman, 1977": "Zuckerman, 1977",
     "Zukin (2020)": "Zukin, 2020",
     "Zukin, 2020": "Zukin, 2020",
@@ -28369,6 +28409,21 @@
       "seen_in": [],
       "title": "The Importance of Multi-dimensional Reading Interventions in Addressing the Summer Achievement Gap"
     },
+    "Adams, 2013": {
+      "aliases": [
+        "Adams, 2013",
+        "Adams (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Adams, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
+    },
     "Adamson, 1972": {
       "aliases": [
         "Adamson, 1972",
@@ -28955,6 +29010,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Parreira do Amaral_2022_geopolitics-knowledge.md"
+      ],
+      "title": ""
+    },
+    "Agrawal et al., 2017": {
+      "aliases": [
+        "Agrawal et al., 2017",
+        "Agrawal et al. (2017)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Agrawal et al., 2017"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
       ],
       "title": ""
     },
@@ -36400,6 +36470,21 @@
       ],
       "title": ""
     },
+    "Azoulay et al., 2010": {
+      "aliases": [
+        "Azoulay et al., 2010",
+        "Azoulay et al. (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Azoulay et al., 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
+    },
     "Azoulay et al., 2011": {
       "aliases": [
         "Azoulay et al., 2011",
@@ -38742,6 +38827,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Technology Studies/Argument_Murphy_2026_JTS.md"
+      ],
+      "title": ""
+    },
+    "Barabási et al., 2002": {
+      "aliases": [
+        "Barabási et al., 2002",
+        "Barabási et al. (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Barabási et al., 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
       ],
       "title": ""
     },
@@ -46907,6 +47007,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Does team-based variable pay work?"
+    },
+    "Borjas & Doran, 2012": {
+      "aliases": [
+        "Borjas & Doran, 2012",
+        "Borjas & Doran (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Borjas & Doran, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
     },
     "Borkowsky, 1970": {
       "aliases": [
@@ -65690,6 +65805,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Hall_Boccanfuso_2025_Springer/Argument_Byrne_2025_InnovationCenters.md"
+      ],
+      "title": ""
+    },
+    "Cummings & Kiesler, 2005": {
+      "aliases": [
+        "Cummings & Kiesler, 2005",
+        "Cummings & Kiesler (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Cummings & Kiesler, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
       ],
       "title": ""
     },
@@ -94846,6 +94976,21 @@
       "seen_in": [],
       "title": "Does mentoring work? An impact study of the Big Brothers Big Sisters Program"
     },
+    "Grossman, 2019": {
+      "aliases": [
+        "Grossman, 2019",
+        "Grossman (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Grossman, 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
+    },
     "Grosvenor, 2007": {
       "aliases": [
         "Grosvenor, 2007",
@@ -112990,6 +113135,21 @@
       ],
       "title": ""
     },
+    "Jones et al., 2008": {
+      "aliases": [
+        "Jones et al., 2008",
+        "Jones et al. (2008)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jones et al., 2008"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
+    },
     "Jones, 1967": {
       "aliases": [
         "Jones, 1967",
@@ -113155,6 +113315,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/concepts/science-policy/Age and High-Growth Entrepreneurship.md",
         "wiki/theories/science-policy/Burden of Knowledge.md"
       ],
@@ -113205,6 +113366,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "A school-randomized clinical trial of an integrated social-emotional learning and literacy intervention  Impacts after 1 school year."
+    },
+    "Jones, 2011": {
+      "aliases": [
+        "Jones, 2011",
+        "Jones (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jones, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
     },
     "Jones, 2015": {
       "aliases": [
@@ -137974,6 +138150,21 @@
       ],
       "title": ""
     },
+    "Mas & Moretti, 2009": {
+      "aliases": [
+        "Mas & Moretti, 2009",
+        "Mas & Moretti (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Mas & Moretti, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
+    },
     "Mascarenhas et al., 2018": {
       "aliases": [
         "Mascarenhas et al., 2018",
@@ -142267,6 +142458,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
         "wiki/concepts/science-policy/Goliath's Shadow.md"
       ],
@@ -150870,6 +151062,21 @@
       ],
       "title": ""
     },
+    "Newman, 2001": {
+      "aliases": [
+        "Newman, 2001",
+        "Newman (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Newman, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
+    },
     "Newman, 2004a": {
       "aliases": [
         "Newman, 2004a",
@@ -154507,6 +154714,21 @@
       ],
       "title": ""
     },
+    "Oettl, 2012": {
+      "aliases": [
+        "Oettl, 2012",
+        "Oettl (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Oettl, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
+    },
     "Ofcom, 2025": {
       "aliases": [
         "Ofcom, 2025",
@@ -156946,6 +157168,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/germany/Kerstin Martens.md"
+      ],
+      "title": ""
+    },
+    "Palla et al., 2005": {
+      "aliases": [
+        "Palla et al., 2005",
+        "Palla et al. (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Palla et al., 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
       ],
       "title": ""
     },
@@ -174668,6 +174905,21 @@
       "seen_in": [
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Partaken_2022_Springer.md",
         "wiki/facts/uk/Areopagitica.md"
+      ],
+      "title": ""
+    },
+    "Sacerdote, 2001": {
+      "aliases": [
+        "Sacerdote, 2001",
+        "Sacerdote (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Sacerdote, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
       ],
       "title": ""
     },
@@ -201233,6 +201485,36 @@
       "seen_in": [],
       "title": "Meta-analysis of school leadership effects on student achievement in USA and Turkey"
     },
+    "Uzzi & Spiro, 2005": {
+      "aliases": [
+        "Uzzi & Spiro, 2005",
+        "Uzzi & Spiro (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Uzzi & Spiro, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
+    },
+    "Uzzi et al., 2013": {
+      "aliases": [
+        "Uzzi et al., 2013",
+        "Uzzi et al. (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Uzzi et al., 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
+    },
     "V. D., 2004": {
       "aliases": [
         "V. D., 2004",
@@ -204362,6 +204644,21 @@
       ],
       "title": ""
     },
+    "Waldinger, 2010": {
+      "aliases": [
+        "Waldinger, 2010",
+        "Waldinger (2010)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Waldinger, 2010"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
+    },
     "Waldow, 2017": {
       "aliases": [
         "Waldow, 2017",
@@ -206117,6 +206414,21 @@
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21.md",
         "wiki/methods/qualitative/Group Interview.md"
+      ],
+      "title": ""
+    },
+    "Watts & Strogatz, 1998": {
+      "aliases": [
+        "Watts & Strogatz, 1998",
+        "Watts & Strogatz (1998)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Watts & Strogatz, 1998"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
       ],
       "title": ""
     },
@@ -211384,6 +211696,21 @@
       "seen_in": [],
       "title": "Exploring the effects of digital technology on deep learning: a meta-analysis."
     },
+    "Wuchty et al., 2007": {
+      "aliases": [
+        "Wuchty et al., 2007",
+        "Wuchty et al. (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wuchty et al., 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
+    },
     "Wurster & Gärtner, 2013": {
       "aliases": [
         "Wurster & Gärtner, 2013",
@@ -216164,6 +216491,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Teaching Together  Pilot study of a tiered language and literacy intervention with Head Start teachers and linguistically diverse families"
+    },
+    "Zuckerman, 1967": {
+      "aliases": [
+        "Zuckerman, 1967",
+        "Zuckerman (1967)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Zuckerman, 1967"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
     },
     "Zuckerman, 1977": {
       "aliases": [

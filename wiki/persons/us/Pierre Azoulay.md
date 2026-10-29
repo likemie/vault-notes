@@ -10,7 +10,7 @@ summary: "法裔美籍实证经济学家与科学学学者，麻省理工学院�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -76,7 +76,7 @@ updated: 2026-10-30
 > - **2001** 在加利福尼亚大学伯克利分校哈斯商学院获得博士学位，指导教师为技术经济学专家[[David C. Mowery|大卫·莫厄里]]（David Mowery）。
 > - **2001–2006** 任哥伦比亚大学商学院助理教授、副教授。
 > - **2006** 加入麻省理工学院斯隆管理学院，历任副教授、讲席正教授。
-> - **2010** 在《经济学季刊》（QJE）发表《超级巨星陨落》（Superstar Extinction），开创利用明星学者意外逝世外生冲击测度知识扩散与合作网络脆弱性的因果分析[[Paradigm|范式]]，实证证实学术合作者质量调整产出率下降 5% 至 8%，为[[Invisible College|无形学院]]的客观存在确立因果证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–100)]]
+> - **2010** 在《经济学季刊》（QJE）发表《超级巨星陨落》（Superstar Extinction），开创利用明星学者意外逝世外生冲击测度知识扩散与合作网络脆弱性的因果分析[[Paradigm|范式]]，实证证实学术合作同行质量调整产出率下降 5% 至 8%，为[[Invisible College|无形学院]]的客观存在确立因果证据。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–100)]]
 > - **2011** 在《美国经济评论》（AER）发表针对 HHMI 资助模式的研究，证实对早期失败的宽容与长周期支持显著提升高风险探索性成果的产出概率。
 > - **2014** 在《管理科学》（Management Science）发表《马太效应：事实还是神话？》（Matthew: Effect or Fable?），依托 HHMI 评选准自然实验证实外生声望符号具备独立于个体天资的引文因果力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–37)]]
 > - **2019** 在《美国经济评论》（AER）发表《科学真理真的随着反对者死去而胜利吗？》（Does Science Advance One Funeral at a Time?），通过 452 位生命科学明星学者猝逝准自然实验实证检验普朗克原理，揭示“歌利亚阴影”阻碍新人进场的因果机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 49–50)]]

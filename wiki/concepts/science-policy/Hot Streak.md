@@ -142,7 +142,7 @@ updated: 2026-10-30
 
 > [!warning|limits] 适用局限
 > - 爆发期检测依赖长周期的学者全量发表与被引记录，难以对刚入行的年轻学者开展即时预测。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 74–77)]]
-> - 模型基于个体为核心单元测度代表作序列，在数千人参与的大型粒子对撞机或跨国大科学协作网络中，个人爆发期与团队周期的耦合关系仍有待进一步界定。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 75–76)]]
+> - 模型基于个体为核心单元测度代表作序列，在数千人参与的大型粒子对撞机或跨国大科学协作网络中，个人爆发期与团队周期的交互作用仍有待进一步界定。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 75–76)]]
 
 ---
 

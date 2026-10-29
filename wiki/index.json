@@ -25562,7 +25562,7 @@
     "path": "wiki/methods/quantitative/Relative Team Impact.md",
     "aliases": [
       "相对团队影响力",
-      "RTI"
+      "相对团队影响力指标"
     ]
   },
   {
@@ -45143,6 +45143,11 @@
     "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit03",
     "type": "argument",
     "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
+  },
+  {
+    "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit04",
+    "type": "argument",
+    "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
   },
   {
     "title": "Argument_Zhang_2023_PHEI",

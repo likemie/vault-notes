@@ -10,7 +10,7 @@ summary: "美国科学社会学家，哥伦比亚大学社会学荣休教授，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
