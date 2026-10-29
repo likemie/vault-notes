@@ -1,0 +1,71 @@
+---
+title: John B. Fenn
+aliases:
+  - 约翰·B·芬恩
+  - 约翰·芬恩
+  - J. B. Fenn
+  - Fenn, J. B.
+summary: "美籍分析化学家、发明家与诺贝尔化学奖得主，曾任耶鲁大学与弗吉尼亚联邦大学教授；因发明用于生物大分子质谱分析的电喷雾电离技术（ESI）于 2002 年荣获诺贝尔奖，其在年逾七旬被耶鲁强制退休后转校继续探索并做出巅峰突破的经历，成为当代科学学中反驳年龄限制创造力迷思的标志性例证。"
+type: person
+nationality: us
+person_region: "us"
+person_related_count: 1
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
+born: "1917"
+died: "2010"
+lifespan: "1917–2010"
+tags:
+  - person/scholar
+  - theme/chemistry
+  - theme/science-of-science
+  - theme/scientific-career
+related_concepts: []
+related_theories: []
+related_methods: []
+related_instruments: []
+related_persons: []
+related_facts: []
+related_arguments:
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+confidence: high
+status: active
+created: 2026-10-29
+updated: 2026-10-29
+---
+
+---
+
+> [!person-profile] 人物档案
+> - **身份位置** 美籍分析化学家与工程物理学家，美国文理科学院院士，曾任耶鲁大学化学工程与应用物理教授、弗吉尼亚联邦大学研究教授。
+> - **核心角色** 生物大分子现代分析质谱技术的奠基人，科学学生涯动力学中最具说服力的大器晚成型代表。
+> - **代表贡献** 开发电喷雾电离（ESI）质谱离子源技术，荣获 2002 年诺贝尔化学奖；以 70 岁后的重磅突破证实只要维持活跃生产力，晚年学者同样具备斩获顶级成果的可能。
+
+> [!citation-card] 王大顺与巴拉巴西论芬恩的晚年突破
+> 约翰·芬恩的传奇经历为随机影响法则提供了生动的例证。年逾七旬从耶鲁大学强制退休后，他转入弗吉尼亚联邦大学继续推进未竟的实验，最终成功开发出电喷雾电离技术并在 15 年后荣膺诺贝尔奖。只要研究人员在职业晚期不放弃产出探索，科学影响便绝不会因年岁而褪色。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 56–58)]]
+>
+> *For those that keep trying, the breakthrough may not be as elusive. A wonderful example is offered by John Fenn... He identified a novel electrospray ion source at the very end of his official academic career, just as he was forcefully retired by Yale University.*
+
+---
+
+> [!timeline] 生平与职涯
+> - **1917** 出生于美国纽约市。
+> - **1940** 在耶鲁大学获得化学博士学位。
+> - **1940–1967** 曾任职于工业界及普林斯顿大学分子束实验室。
+> - **1967–1987** 担任耶鲁大学教授，从事分子束与超声速自由射流研究。
+> - **1987** 达到 70 岁规定上限被耶鲁大学强制退休，随后转赴弗吉尼亚联邦大学建立新实验室。
+> - **1988–1989** 发表电喷雾电离质谱技术突破性论著，成功测定完整蛋白质大分子的分子量。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 56–58)]]
+> - **2002** 荣获诺贝尔化学奖。
+> - **2010** 逝世于弗吉尼亚州里士满。
+
+---
+
+> [!work-line] 主要论著
+> - **1988 — *Electrospray Interface for Liquid Chromatographs and Mass Spectrometers*（《科学》）** 首次展示电喷雾电离对非挥发性生物大分子的无损离子化效能。
+> - **1989 — *Electrospray Ionization for Mass Spectrometry of Large Biomolecules*（《科学》）** 确立现代蛋白质组学质谱鉴定的核心物理方法。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 58)]]
+
+---
+
+> [!claim] 核心思想
+> 约翰·B·芬恩（John B. Fenn）的一生印证了科学探究的持久生命力。他在 70 岁后的技术突破从实证角度打破了将创造力局限于青年期的教条，证明了维持科研仪器研制的热情与持续的探索尝试，是学者在生命全周期不断实现重大发现的根本保障。

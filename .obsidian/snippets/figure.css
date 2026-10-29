@@ -1,0 +1,100 @@
+/* =====================================================================
+   Figure · 扁平 + 动效（2026-10-29）
+   与 v4.1 扁平体系一致：短横眉标 + 衬线标题 + 发丝线框；图片放在浅底“展台”上，图注退为灰色小字。
+   动效：悬停时顶边光线自中间展开、图片轻微放大、折叠箭头旋转；展开时内容淡入上浮。
+   关闭本 snippet 即回到 argument-callouts.css 中的原样式。
+   ===================================================================== */
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"] {
+  --fg-accent: rgb(71, 105, 160);
+  position: relative; padding: 0 !important; overflow: hidden !important;
+  background: var(--ac-paper, var(--background-primary)) !important;
+  border: 1px solid var(--ac-hair, var(--background-modifier-border)) !important; border-radius: 10px !important;
+  box-shadow: none !important;
+  background-image: linear-gradient(90deg, transparent, var(--fg-accent) 50%, transparent) !important;
+  background-repeat: no-repeat !important; background-position: 50% 0 !important; background-size: 0% 1.5px !important;
+  transition: background-size .7s cubic-bezier(.2,.7,.2,1), border-color .35s, box-shadow .45s !important;
+}
+html body.theme-dark .callout.callout.callout.callout.callout.callout[data-callout="figure"] { --fg-accent: rgb(129, 161, 214); }
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"]:hover {
+  background-size: 92% 1.5px !important;
+  border-color: color-mix(in srgb, var(--fg-accent) 35%, var(--ac-hair, #ddd)) !important;
+  box-shadow: 0 22px 44px -30px color-mix(in srgb, var(--fg-accent) 60%, transparent) !important;
+}
+
+/* 标题行：眉标 FIGURE · 图 + 衬线标题，与其他扁平组件一致 */
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"] > .callout-title {
+  display: flex !important; align-items: center !important; gap: .8rem !important; cursor: pointer;
+  margin: 0 !important; padding: .85rem 1.1rem .8rem !important; border: 0 !important; background: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"]:not(.is-collapsed) > .callout-title {
+  border-bottom: 1px solid var(--ac-hair, var(--background-modifier-border)) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"] > .callout-title .callout-title-inner {
+  display: block !important; flex: 1 1 auto; min-width: 0;
+  font-family: var(--ac-serif, Georgia, serif) !important; font-size: 1em !important; font-weight: 500 !important;
+  line-height: 1.5 !important; color: var(--text-normal) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"] > .callout-title .callout-title-inner::before {
+  content: "FIGURE · 图" !important; display: block !important; width: max-content !important;
+  margin: 0 0 .3rem !important; padding: 0 0 0 20px !important; border: 0 !important; border-radius: 0 !important;
+  background: linear-gradient(var(--fg-accent), var(--fg-accent)) left center / 12px 2px no-repeat !important;
+  color: var(--fg-accent) !important; font-family: var(--ac-sans, var(--font-text)) !important;
+  font-size: 10.5px !important; font-weight: 650 !important; letter-spacing: .14em !important; line-height: 1.5 !important;
+  text-transform: uppercase; transition: background-size .45s cubic-bezier(.2,.7,.2,1);
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"]:hover > .callout-title .callout-title-inner::before { background-size: 14px 2px !important; }
+
+/* 折叠按钮：圆形，悬停着色，折叠时旋转 */
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"] > .callout-title .callout-fold {
+  flex: none; margin-left: auto !important; width: 1.7rem; height: 1.7rem; padding: 0 !important;
+  display: grid !important; place-items: center; border-radius: 50%; opacity: 1 !important;
+  color: var(--text-muted) !important; background: color-mix(in srgb, var(--fg-accent) 8%, transparent);
+  transition: transform .35s cubic-bezier(.2,.7,.2,1), background-color .25s, color .25s;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"] > .callout-title:hover .callout-fold {
+  color: var(--fg-accent) !important; background: color-mix(in srgb, var(--fg-accent) 16%, transparent);
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"].is-collapsed > .callout-title .callout-fold { transform: rotate(-90deg); }
+
+/* 内容：浅底展台，图片白底细框，图注灰色小字 */
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"] > .callout-content {
+  margin: 0 !important; padding: 1.1rem 1.2rem 1rem !important; border: 0 !important;
+  background: var(--ac-sunken, var(--background-secondary)) !important; font-size: .95em; line-height: 1.75;
+  animation: fg-reveal .45s cubic-bezier(.2,.7,.2,1) both;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"] > .callout-content :is(img, .mermaid svg) {
+  display: block; max-width: 100%; height: auto; margin: 0 auto; border-radius: 6px;
+  border: 1px solid var(--ac-hair, var(--background-modifier-border)); background: #fff;
+  transition: transform .6s cubic-bezier(.2,.7,.2,1), box-shadow .6s;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"]:hover > .callout-content img {
+  transform: scale(1.012); box-shadow: 0 16px 34px -22px rgba(15, 23, 42, .45);
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"] > .callout-content > p:has(> img:only-child) { text-align: center; margin: 0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"] > .callout-content > p:not(:has(img)) {
+  margin: .8rem auto 0 !important; max-width: 46em; text-align: left !important;
+  font-size: .88em; line-height: 1.7; color: var(--text-muted) !important;
+  padding-left: .8rem; border-left: 2px solid color-mix(in srgb, var(--fg-accent) 45%, transparent);
+}
+
+/* 图片未上传：虚线占位框 */
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"]:not(:has(> .callout-content img)) > .callout-content {
+  margin: .9rem 1.1rem 1.1rem !important; padding: 1.4rem 1rem !important; text-align: center; border-radius: 8px !important;
+  border: 1.5px dashed color-mix(in srgb, var(--fg-accent) 40%, transparent) !important;
+  background: color-mix(in srgb, var(--fg-accent) 4%, transparent) !important; color: var(--text-muted);
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"]:not(:has(> .callout-content img)) > .callout-content > p { border: 0 !important; padding: 0 !important; text-align: center !important; }
+
+@keyframes fg-reveal { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) {
+  html body .callout[data-callout="figure"], html body .callout[data-callout="figure"] *, html body .callout[data-callout="figure"] *::before { animation: none !important; transition: none !important; }
+}
+
+/* 图片与图注写在同一段（Obsidian 常见写法）：段内的斜体图注独立成行显示 */
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"] > .callout-content > p:has(img) { text-align: center; margin: 0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"] > .callout-content > p:has(img) > br { display: none; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="figure"] > .callout-content > p:has(img) > :is(em, i) {
+  display: block; margin: .8rem auto 0; max-width: 46em; text-align: left; font-style: normal;
+  font-size: .88em; line-height: 1.7; color: var(--text-muted);
+  padding-left: .8rem; border-left: 2px solid color-mix(in srgb, var(--fg-accent) 45%, transparent);
+}

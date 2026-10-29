@@ -1,0 +1,159 @@
+/* Concept labels · 保留既有 callout 配色、边框、字号与动效。
+   仅在七类 callout 显式使用 |notitle 时隐藏通用标题，保留英文眉标。 */
+
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-lens"],[data-callout="citation-card"],[data-callout="contrast-table"],[data-callout="debates"],[data-callout="tension"],[data-callout="critique"],[data-callout="evidence-grid-a"]):is([data-callout-metadata="notitle"],[data-callout-metadata^="notitle|"],[data-callout-metadata$="|notitle"],[data-callout-metadata*="|notitle|"]) > .callout-title .callout-title-inner {
+ font-size: 0 !important; line-height: 0 !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout:is([data-callout="concept-lens"],[data-callout="citation-card"],[data-callout="contrast-table"],[data-callout="debates"],[data-callout="tension"],[data-callout="critique"],[data-callout="evidence-grid-a"]):is([data-callout-metadata="notitle"],[data-callout-metadata^="notitle|"],[data-callout-metadata$="|notitle"],[data-callout-metadata*="|notitle|"]) > .callout-title .callout-title-inner::before {
+ display: block !important; font-size: 10.5px !important; line-height: 1.5 !important;
+ margin: 0 !important;
+}
+
+/* Concept Proposition · 命题题签。单独使用此 callout 也生效。 */
+
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] {
+ --cp-accent: var(--cs-accent, 31, 111, 106);
+ --cp-surface: var(--background-primary);
+ --cp-ink: var(--text-normal);
+ --cp-rule: var(--background-modifier-border);
+ position: relative; isolation: isolate;
+ margin: 2.2rem 0 1.25rem !important;
+ padding: 1.35rem 1.55rem 1.25rem 1.8rem !important;
+ background: color-mix(in srgb, rgb(var(--cp-accent)) 5%, var(--cp-surface)) !important;
+ background-image: none !important;
+ border: 1px solid var(--cp-rule) !important;
+ border-radius: 3px 10px 10px 3px !important;
+ box-shadow: none !important;
+ overflow: hidden !important; transform: none !important; animation: none !important;
+}
+html body.theme-dark .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] { --cp-accent: var(--cs-accent, 102, 190, 178); }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]::before {
+ content: "" !important; display: block !important;
+ position: absolute !important; inset: 0 auto 0 0 !important;
+ width: 3px !important; height: auto !important;
+ background: rgb(var(--cp-accent)) !important;
+ border: 0 !important; border-radius: 0 !important;
+ opacity: .65 !important; pointer-events: none;
+ transform: none !important; animation: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]::after { content: none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title {
+ display: flex; align-items: flex-start; gap: .75rem;
+ margin: 0 !important; padding: 0 !important;
+ border: 0 !important; background: none !important; box-shadow: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-icon { display: none !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-title-inner {
+ min-width: 0; flex: 1; overflow-wrap: anywhere;
+ font-family: var(--cs-serif, "Source Han Serif SC", "Songti SC", Georgia, serif) !important;
+ font-size: 1.42em !important; line-height: 1.55 !important;
+ font-weight: 650 !important; letter-spacing: .015em !important;
+ color: var(--cp-ink) !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-title-inner::before {
+ content: "PROPOSITION" !important; display: block !important;
+ position: static !important; width: auto !important; height: auto !important;
+ margin: 0 0 .65rem !important; padding: 0 !important;
+ font: 650 10px/1.4 var(--font-interface, sans-serif) !important;
+ letter-spacing: .16em !important;
+ color: rgb(var(--cp-accent)) !important;
+ background: none !important; border: 0 !important; border-radius: 0 !important;
+ box-shadow: none !important; transform: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-content {
+ margin-top: 1rem !important; padding: .9rem 0 0 !important;
+ border: 0 !important; border-top: 1px solid var(--cp-rule) !important;
+ background: none !important; color: var(--text-muted) !important;
+ font-size: .94em !important; line-height: 1.85 !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-content > p:first-child { margin-top: 0 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-content > p:last-child { margin-bottom: 0 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-content > p:first-child > strong:first-child {
+ display: block; margin: 0 0 .4rem !important; padding: 0 !important;
+ color: rgb(var(--cp-accent)) !important;
+ font-size: .9em !important; font-weight: 650 !important;
+ background: none !important; border: 0 !important;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-fold {
+ align-self: center; padding: .5rem !important;
+ color: rgb(var(--cp-accent)) !important; opacity: .8;
+}
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"].is-collapsed > .callout-title { margin: 0 !important; }
+html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"].is-collapsed > .callout-content { display: none !important; }
+@container (max-width: 580px) {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] { padding: 1.1rem 1.1rem 1rem 1.3rem !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-title-inner { font-size: 1.18em !important; }
+}
+@media (max-width: 580px) {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] { padding: 1.1rem 1.1rem 1rem 1.3rem !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] > .callout-title .callout-title-inner { font-size: 1.18em !important; }
+}
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] { transition: border-color .24s ease !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]::before { transition: opacity .24s ease !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]:hover, html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]:focus-within { border-color: rgba(var(--cp-accent), .4) !important; }
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]:hover::before, html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]:focus-within::before { opacity: 1 !important; }
+}
+@media (prefers-reduced-motion: reduce), print {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"], html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] *, html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]::before, html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"]::after { animation: none !important; transition: none !important; transform: none !important; }
+}
+@media print {
+ html body .callout.callout.callout.callout.callout.callout.callout.callout[data-callout="concept-proposition"] { background: none !important; overflow: visible !important; break-inside: avoid; }
+}
+
+/* 适用局限 · [!warning|limits]；其他 warning 保留既有样式。 */
+html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) {
+ --wl-accent: 146, 99, 32;
+ --wl-rule: color-mix(in srgb, rgb(var(--wl-accent)) 23%, var(--background-modifier-border));
+ position: relative; overflow: hidden;
+ margin: 1.5rem 0 !important; padding: 1.15rem 1.35rem 1.2rem 1.5rem !important;
+ background: color-mix(in srgb, rgb(var(--wl-accent)) 5%, var(--background-primary)) !important;
+ background-image: none !important;
+ border: 1px solid var(--wl-rule) !important;
+ border-left: 3px solid rgb(var(--wl-accent)) !important;
+ border-radius: 3px 8px 8px 3px !important;
+ box-shadow: none !important; transform: none !important; animation: none !important;
+}
+html body.theme-dark .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) { --wl-accent: 214, 174, 108; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"])::before, html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"])::after { display: none !important; content: none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) > .callout-title {
+ display: flex; align-items: center; gap: .65rem;
+ margin: 0 !important; padding: 0 !important; border: 0 !important;
+ background: none !important; box-shadow: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) > .callout-title .callout-icon { display: none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) > .callout-title .callout-title-inner {
+ flex: 1; min-width: 0; color: var(--text-normal) !important;
+ font-family: var(--font-text, sans-serif) !important;
+ font-size: 1.08em !important; font-weight: 650 !important; line-height: 1.5 !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) > .callout-title .callout-title-inner::before {
+ content: "LIMITATIONS" !important; display: block !important;
+ margin: 0 0 .45rem !important; padding: 0 !important;
+ font: 650 10px/1.4 var(--font-interface, sans-serif) !important;
+ color: rgb(var(--wl-accent)) !important; letter-spacing: .14em !important;
+ background: none !important; border: 0 !important; box-shadow: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) > .callout-title .callout-title-inner::after { display: none !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) > .callout-content {
+ margin: .85rem 0 0 !important; padding: .85rem 0 0 !important;
+ border-top: 1px solid var(--wl-rule) !important;
+ background: none !important; color: var(--text-normal) !important;
+ font-size: .94em !important; line-height: 1.85 !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) > .callout-content > :first-child { margin-top: 0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) > .callout-content > :last-child { margin-bottom: 0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) > .callout-content > :is(ul,ol) { padding-left: 1.25em !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) > .callout-content > :is(ul,ol) > li { margin: .5em 0; padding-left: .2em; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) > .callout-content > :is(ul,ol) > li::marker { color: rgb(var(--wl-accent)) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) > .callout-title .callout-fold { padding: .5rem !important; color: rgb(var(--wl-accent)) !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]).is-collapsed > .callout-content { display: none !important; }
+@media (max-width:580px) { html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) { padding: 1rem 1rem 1rem 1.15rem !important; } }
+@media (hover:hover) and (prefers-reduced-motion:no-preference) {
+ html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) { transition: border-color .22s ease !important; }
+ html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]):hover, html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]):focus-within { border-color: rgba(var(--wl-accent), .65) !important; }
+}
+@media (prefers-reduced-motion:reduce), print {
+ html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]), html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) *, html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"])::before, html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"])::after { animation: none !important; transition: none !important; transform: none !important; }
+}
+@media print { html body .callout.callout.callout.callout.callout.callout[data-callout="warning"]:is([data-callout-metadata="limits"],[data-callout-metadata^="limits|"],[data-callout-metadata$="|limits"],[data-callout-metadata*="|limits|"]) { background: none !important; overflow: visible; break-inside: avoid; } }
