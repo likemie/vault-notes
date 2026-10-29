@@ -2032,7 +2032,7 @@
         25,
         34
       ],
-      "txt": "Ch01_Productivity_of_a_Scientist.txt",
+      "txt": "Unit01_Ch01-03_Productivity_Metrics_and_Matthew_Effect.txt",
       "supplements": [
         {
           "material": "Acknowledgements",
@@ -2043,32 +2043,38 @@
           "print_pages": [
             "viii",
             "x"
-          ]
+          ],
+          "txt": "Unit01_Ch01-03_Productivity_Metrics_and_Matthew_Effect.txt"
         },
         {
           "material": "Biographical notes",
           "pdf_pages": [
             1,
             1
-          ]
+          ],
+          "txt": "Unit01_Ch01-03_Productivity_Metrics_and_Matthew_Effect.txt"
         },
         {
           "material": "Introduction",
           "print_pages": [
             1,
             4
-          ]
+          ],
+          "txt": "Unit01_Ch01-03_Productivity_Metrics_and_Matthew_Effect.txt"
         },
         {
           "material": "Part I opening",
           "print_pages": [
             5,
             6
-          ]
+          ],
+          "txt": "Unit01_Ch01-03_Productivity_Metrics_and_Matthew_Effect.txt"
         }
       ],
-      "characters": 41814,
-      "sha256": "114d37a2159e95f18efdbb7ce79e99c55cff7a1ee7e5496a33c2ad3e13ca993c"
+      "original_txt": "Ch01_Productivity_of_a_Scientist.txt",
+      "reading_unit": 1,
+      "original_extraction_characters": 41814,
+      "original_extraction_sha256": "114d37a2159e95f18efdbb7ce79e99c55cff7a1ee7e5496a33c2ad3e13ca993c"
     },
     {
       "chapter": 2,
@@ -2084,10 +2090,12 @@
         35,
         45
       ],
-      "txt": "Ch02_The_h_Index.txt",
+      "txt": "Unit01_Ch01-03_Productivity_Metrics_and_Matthew_Effect.txt",
       "supplements": [],
-      "characters": 26020,
-      "sha256": "af965315b422ff681b299be16e109662ba45204ab4a166fdc1b086c0269386df"
+      "original_txt": "Ch02_The_h_Index.txt",
+      "reading_unit": 1,
+      "original_extraction_characters": 26020,
+      "original_extraction_sha256": "af965315b422ff681b299be16e109662ba45204ab4a166fdc1b086c0269386df"
     },
     {
       "chapter": 3,
@@ -2103,10 +2111,12 @@
         46,
         56
       ],
-      "txt": "Ch03_The_Matthew_Effect.txt",
+      "txt": "Unit01_Ch01-03_Productivity_Metrics_and_Matthew_Effect.txt",
       "supplements": [],
-      "characters": 28132,
-      "sha256": "d213f05f53bc024d4b8abbb1b5774df61da8a6669328af01f1f31b02290399d5"
+      "original_txt": "Ch03_The_Matthew_Effect.txt",
+      "reading_unit": 1,
+      "original_extraction_characters": 28132,
+      "original_extraction_sha256": "d213f05f53bc024d4b8abbb1b5774df61da8a6669328af01f1f31b02290399d5"
     },
     {
       "chapter": 4,
@@ -2122,10 +2132,12 @@
         57,
         68
       ],
-      "txt": "Ch04_Age_and_Scientific_Achievement.txt",
+      "txt": "Unit02_Ch04-05_Age_Achievement_and_Random_Impact.txt",
       "supplements": [],
-      "characters": 28478,
-      "sha256": "cbccd185e7f4a2532d279cbe48b48f114af0591de400fdceac1a90b1c23755ae"
+      "original_txt": "Ch04_Age_and_Scientific_Achievement.txt",
+      "reading_unit": 2,
+      "original_extraction_characters": 28478,
+      "original_extraction_sha256": "cbccd185e7f4a2532d279cbe48b48f114af0591de400fdceac1a90b1c23755ae"
     },
     {
       "chapter": 5,
@@ -2141,10 +2153,12 @@
         69,
         77
       ],
-      "txt": "Ch05_Random_Impact_Rule.txt",
+      "txt": "Unit02_Ch04-05_Age_Achievement_and_Random_Impact.txt",
       "supplements": [],
-      "characters": 21323,
-      "sha256": "e7ae73032c82cff0f526486ebb2644d16b1338edb974929719734299c8d7b3a8"
+      "original_txt": "Ch05_Random_Impact_Rule.txt",
+      "reading_unit": 2,
+      "original_extraction_characters": 21323,
+      "original_extraction_sha256": "e7ae73032c82cff0f526486ebb2644d16b1338edb974929719734299c8d7b3a8"
     },
     {
       "chapter": 6,
@@ -2160,10 +2174,12 @@
         78,
         88
       ],
-      "txt": "Ch06_The_Q_Factor.txt",
+      "txt": "Unit03_Ch06-07_Q_Factor_and_Hot_Streaks.txt",
       "supplements": [],
-      "characters": 25303,
-      "sha256": "4cb6e92dc66cf368708b2354b8ce8038bb384d1888b7dcb453fd226eabecd75d"
+      "original_txt": "Ch06_The_Q_Factor.txt",
+      "reading_unit": 3,
+      "original_extraction_characters": 25303,
+      "original_extraction_sha256": "4cb6e92dc66cf368708b2354b8ce8038bb384d1888b7dcb453fd226eabecd75d"
     },
     {
       "chapter": 7,
@@ -2179,10 +2195,12 @@
         89,
         98
       ],
-      "txt": "Ch07_Hot_Streaks.txt",
+      "txt": "Unit03_Ch06-07_Q_Factor_and_Hot_Streaks.txt",
       "supplements": [],
-      "characters": 20584,
-      "sha256": "721173f330bb676bffe5b988f95daca3fe9b82171f7b58a260973d402b95aee0"
+      "original_txt": "Ch07_Hot_Streaks.txt",
+      "reading_unit": 3,
+      "original_extraction_characters": 20584,
+      "original_extraction_sha256": "721173f330bb676bffe5b988f95daca3fe9b82171f7b58a260973d402b95aee0"
     },
     {
       "chapter": 8,
@@ -2198,18 +2216,21 @@
         103,
         112
       ],
-      "txt": "Ch08_The_Increasing_Dominance_of_Teams_in_Science.txt",
+      "txt": "Unit04_Ch08-10_Teams_College_and_Coauthorship_Networks.txt",
       "supplements": [
         {
           "material": "Part II opening",
           "print_pages": [
             81,
             84
-          ]
+          ],
+          "txt": "Unit04_Ch08-10_Teams_College_and_Coauthorship_Networks.txt"
         }
       ],
-      "characters": 28994,
-      "sha256": "3dee94d3b1206486813be89778a7572034f9514e722b9f64e196edd29401a125"
+      "original_txt": "Ch08_The_Increasing_Dominance_of_Teams_in_Science.txt",
+      "reading_unit": 4,
+      "original_extraction_characters": 28994,
+      "original_extraction_sha256": "3dee94d3b1206486813be89778a7572034f9514e722b9f64e196edd29401a125"
     },
     {
       "chapter": 9,
@@ -2225,10 +2246,12 @@
         113,
         119
       ],
-      "txt": "Ch09_The_Invisible_College.txt",
+      "txt": "Unit04_Ch08-10_Teams_College_and_Coauthorship_Networks.txt",
       "supplements": [],
-      "characters": 16657,
-      "sha256": "d1d17f1433eb29c7f317cd2ed2df56dbf93b0e3d24e5ee5177c3828786cc0300"
+      "original_txt": "Ch09_The_Invisible_College.txt",
+      "reading_unit": 4,
+      "original_extraction_characters": 16657,
+      "original_extraction_sha256": "d1d17f1433eb29c7f317cd2ed2df56dbf93b0e3d24e5ee5177c3828786cc0300"
     },
     {
       "chapter": 10,
@@ -2244,10 +2267,12 @@
         120,
         127
       ],
-      "txt": "Ch10_Coauthorship_Networks.txt",
+      "txt": "Unit04_Ch08-10_Teams_College_and_Coauthorship_Networks.txt",
       "supplements": [],
-      "characters": 16794,
-      "sha256": "34c5843bd8938f75bcc0abc37333e41eb0945461b39b4c98ba6195265816c85c"
+      "original_txt": "Ch10_Coauthorship_Networks.txt",
+      "reading_unit": 4,
+      "original_extraction_characters": 16794,
+      "original_extraction_sha256": "34c5843bd8938f75bcc0abc37333e41eb0945461b39b4c98ba6195265816c85c"
     },
     {
       "chapter": 11,
@@ -2263,18 +2288,21 @@
         128,
         141
       ],
-      "txt": "Ch11_Team_Assembly.txt",
+      "txt": "Unit05_Ch11-12_Team_Assembly_and_Size.txt",
       "supplements": [
         {
           "material": "Appendix A1 — Modeling Team Assembly",
           "print_pages": [
             254,
             256
-          ]
+          ],
+          "txt": "Unit05_Ch11-12_Team_Assembly_and_Size.txt"
         }
       ],
-      "characters": 41426,
-      "sha256": "789e434f212b293377431c164cc91fd953a402ebd3d25246484648de22018308"
+      "original_txt": "Ch11_Team_Assembly.txt",
+      "reading_unit": 5,
+      "original_extraction_characters": 41426,
+      "original_extraction_sha256": "789e434f212b293377431c164cc91fd953a402ebd3d25246484648de22018308"
     },
     {
       "chapter": 12,
@@ -2290,10 +2318,12 @@
         142,
         151
       ],
-      "txt": "Ch12_Small_and_Large_Teams.txt",
+      "txt": "Unit05_Ch11-12_Team_Assembly_and_Size.txt",
       "supplements": [],
-      "characters": 23507,
-      "sha256": "df2b6a05e4cf2b79f699bf0cb449e80e48cbad689dcc5457b4733a3ea8446a2f"
+      "original_txt": "Ch12_Small_and_Large_Teams.txt",
+      "reading_unit": 5,
+      "original_extraction_characters": 23507,
+      "original_extraction_sha256": "df2b6a05e4cf2b79f699bf0cb449e80e48cbad689dcc5457b4733a3ea8446a2f"
     },
     {
       "chapter": 13,
@@ -2309,10 +2339,12 @@
         152,
         164
       ],
-      "txt": "Ch13_Scientific_Credit.txt",
+      "txt": "Unit06_Ch13-14_Scientific_Credit_and_Allocation.txt",
       "supplements": [],
-      "characters": 30948,
-      "sha256": "eca3f79f56d4bccb3262441d302b7f1ab7a6555ce896003e7ab0de3b060a93bd"
+      "original_txt": "Ch13_Scientific_Credit.txt",
+      "reading_unit": 6,
+      "original_extraction_characters": 30948,
+      "original_extraction_sha256": "eca3f79f56d4bccb3262441d302b7f1ab7a6555ce896003e7ab0de3b060a93bd"
     },
     {
       "chapter": 14,
@@ -2328,10 +2360,12 @@
         165,
         176
       ],
-      "txt": "Ch14_Credit_Allocation.txt",
+      "txt": "Unit06_Ch13-14_Scientific_Credit_and_Allocation.txt",
       "supplements": [],
-      "characters": 27808,
-      "sha256": "69db07b528f6bb9ba35ba31fcb3d9c66686627206ffb37e8f863a317d0654e3c"
+      "original_txt": "Ch14_Credit_Allocation.txt",
+      "reading_unit": 6,
+      "original_extraction_characters": 27808,
+      "original_extraction_sha256": "69db07b528f6bb9ba35ba31fcb3d9c66686627206ffb37e8f863a317d0654e3c"
     },
     {
       "chapter": 15,
@@ -2347,18 +2381,21 @@
         179,
         191
       ],
-      "txt": "Ch15_Big_Science.txt",
+      "txt": "Unit07_Ch15-16_Science_Growth_and_Citation_Distribution.txt",
       "supplements": [
         {
           "material": "Part III opening",
           "print_pages": [
             159,
             160
-          ]
+          ],
+          "txt": "Unit07_Ch15-16_Science_Growth_and_Citation_Distribution.txt"
         }
       ],
-      "characters": 35172,
-      "sha256": "a05c4f9fbadcd9a413a2bb68b4f6f6dd448fb3ce014be5ba2b229ab4fd85018a"
+      "original_txt": "Ch15_Big_Science.txt",
+      "reading_unit": 7,
+      "original_extraction_characters": 35172,
+      "original_extraction_sha256": "a05c4f9fbadcd9a413a2bb68b4f6f6dd448fb3ce014be5ba2b229ab4fd85018a"
     },
     {
       "chapter": 16,
@@ -2374,10 +2411,12 @@
         192,
         201
       ],
-      "txt": "Ch16_Citation_Disparity.txt",
+      "txt": "Unit07_Ch15-16_Science_Growth_and_Citation_Distribution.txt",
       "supplements": [],
-      "characters": 22893,
-      "sha256": "cc28d6f3a9faa63a9f43011699d8499226bc2c3e46e0c53e83b095c1f6a328b8"
+      "original_txt": "Ch16_Citation_Disparity.txt",
+      "reading_unit": 7,
+      "original_extraction_characters": 22893,
+      "original_extraction_sha256": "cc28d6f3a9faa63a9f43011699d8499226bc2c3e46e0c53e83b095c1f6a328b8"
     },
     {
       "chapter": 17,
@@ -2393,10 +2432,12 @@
         202,
         206
       ],
-      "txt": "Ch17_High_Impact_Papers.txt",
+      "txt": "Unit08_Ch17-18_Formation_of_High_Impact_Research.txt",
       "supplements": [],
-      "characters": 12393,
-      "sha256": "6368a86911381031601e6842205d60b62e75f6988b5dd06e88dc7022dc109ddb"
+      "original_txt": "Ch17_High_Impact_Papers.txt",
+      "reading_unit": 8,
+      "original_extraction_characters": 12393,
+      "original_extraction_sha256": "6368a86911381031601e6842205d60b62e75f6988b5dd06e88dc7022dc109ddb"
     },
     {
       "chapter": 18,
@@ -2412,10 +2453,12 @@
         207,
         214
       ],
-      "txt": "Ch18_Scientific_Impact.txt",
+      "txt": "Unit08_Ch17-18_Formation_of_High_Impact_Research.txt",
       "supplements": [],
-      "characters": 18817,
-      "sha256": "38cd106ac86207d2715936135b5a6a16a8e9b91caba9d9b4e7d01775f082659c"
+      "original_txt": "Ch18_Scientific_Impact.txt",
+      "reading_unit": 8,
+      "original_extraction_characters": 18817,
+      "original_extraction_sha256": "38cd106ac86207d2715936135b5a6a16a8e9b91caba9d9b4e7d01775f082659c"
     },
     {
       "chapter": 19,
@@ -2431,10 +2474,12 @@
         215,
         226
       ],
-      "txt": "Ch19_The_Time_Dimension_of_Science.txt",
+      "txt": "Unit09_Ch19-20_Citation_Dynamics_and_Ultimate_Impact.txt",
       "supplements": [],
-      "characters": 29233,
-      "sha256": "44ca611d1bdad873751d9bd78b31feb9b3e3fe8d8ff0e1f89f521e01da301fdc"
+      "original_txt": "Ch19_The_Time_Dimension_of_Science.txt",
+      "reading_unit": 9,
+      "original_extraction_characters": 29233,
+      "original_extraction_sha256": "44ca611d1bdad873751d9bd78b31feb9b3e3fe8d8ff0e1f89f521e01da301fdc"
     },
     {
       "chapter": 20,
@@ -2450,18 +2495,21 @@
         227,
         237
       ],
-      "txt": "Ch20_Ultimate_Impact.txt",
+      "txt": "Unit09_Ch19-20_Citation_Dynamics_and_Ultimate_Impact.txt",
       "supplements": [
         {
           "material": "Appendix A2 — Modeling Citations",
           "print_pages": [
             257,
             269
-          ]
+          ],
+          "txt": "Unit09_Ch19-20_Citation_Dynamics_and_Ultimate_Impact.txt"
         }
       ],
-      "characters": 56754,
-      "sha256": "511b525c8bb9c628861508ba9b3d985c336a59ab330c1f805f1a702216d47a9b"
+      "original_txt": "Ch20_Ultimate_Impact.txt",
+      "reading_unit": 9,
+      "original_extraction_characters": 56754,
+      "original_extraction_sha256": "511b525c8bb9c628861508ba9b3d985c336a59ab330c1f805f1a702216d47a9b"
     },
     {
       "chapter": 21,
@@ -2477,18 +2525,21 @@
         241,
         248
       ],
-      "txt": "Ch21_Can_Science_Be_Accelerated.txt",
+      "txt": "Unit10_Ch21-22_Accelerating_Science_and_AI.txt",
       "supplements": [
         {
           "material": "Part IV opening",
           "print_pages": [
             221,
             222
-          ]
+          ],
+          "txt": "Unit10_Ch21-22_Accelerating_Science_and_AI.txt"
         }
       ],
-      "characters": 20473,
-      "sha256": "7fdcc73b3527d77890179edf2143f447aca9e79af7d53a587170150a2759ed62"
+      "original_txt": "Ch21_Can_Science_Be_Accelerated.txt",
+      "reading_unit": 10,
+      "original_extraction_characters": 20473,
+      "original_extraction_sha256": "7fdcc73b3527d77890179edf2143f447aca9e79af7d53a587170150a2759ed62"
     },
     {
       "chapter": 22,
@@ -2504,10 +2555,12 @@
         249,
         258
       ],
-      "txt": "Ch22_Artificial_Intelligence.txt",
+      "txt": "Unit10_Ch21-22_Accelerating_Science_and_AI.txt",
       "supplements": [],
-      "characters": 23403,
-      "sha256": "611ea424509fbdff298547e90225f26c7dc63f0977069c7f37107a25abc2abd7"
+      "original_txt": "Ch22_Artificial_Intelligence.txt",
+      "reading_unit": 10,
+      "original_extraction_characters": 23403,
+      "original_extraction_sha256": "611ea424509fbdff298547e90225f26c7dc63f0977069c7f37107a25abc2abd7"
     },
     {
       "chapter": 23,
@@ -2523,25 +2576,324 @@
         259,
         269
       ],
-      "txt": "Ch23_Bias_and_Causality_in_Science.txt",
+      "txt": "Unit11_Ch23_Bias_Failure_and_Causality.txt",
       "supplements": [
         {
           "material": "Last Thought",
           "print_pages": [
             252,
             253
-          ]
+          ],
+          "txt": "Unit11_Ch23_Bias_Failure_and_Causality.txt"
         },
         {
           "material": "Complete references",
           "print_pages": [
             270,
             295
-          ]
+          ],
+          "txt": "References.txt"
         }
       ],
-      "characters": 99626,
-      "sha256": "3d5e29b99fe1d0ab6a15e9b305547cbd82fdd7d6b3bcd3982ecd6b53b3685734"
+      "original_txt": "Ch23_Bias_and_Causality_in_Science.txt",
+      "reading_unit": 11,
+      "original_extraction_characters": 99626,
+      "original_extraction_sha256": "3d5e29b99fe1d0ab6a15e9b305547cbd82fdd7d6b3bcd3982ecd6b53b3685734"
     }
+  ],
+  "organization": "11 reading units combining 23 original chapters; complete references stored separately",
+  "merged_date": "2026-10-29",
+  "reading_units": [
+    {
+      "unit": 1,
+      "title": "科研产出、h 指数与马太效应",
+      "english_title": "Productivity Metrics and Matthew Effect",
+      "chapters": [
+        1,
+        2,
+        3
+      ],
+      "print_pages": [
+        7,
+        38
+      ],
+      "main_pages": 32,
+      "txt": "Unit01_Ch01-03_Productivity_Metrics_and_Matthew_Effect.txt",
+      "sections": [
+        "Book-level supplement: Acknowledgements",
+        "Book-level supplement: Biographical notes (2021 publication)",
+        "Book-level supplement: Introduction",
+        "Part I opening: The Science of Career",
+        "Original Chapter 1: Productivity of a Scientist",
+        "Original Chapter 2: The h-Index",
+        "Original Chapter 3: The Matthew Effect"
+      ],
+      "characters": 94839,
+      "sha256": "54fe1ab29d022aa20c28569690487130112ac757b6bd0f39e3a03bd9ae3eef79"
+    },
+    {
+      "unit": 2,
+      "title": "年龄、科学成就与随机影响规律",
+      "english_title": "Age Achievement and Random Impact",
+      "chapters": [
+        4,
+        5
+      ],
+      "print_pages": [
+        39,
+        59
+      ],
+      "main_pages": 21,
+      "txt": "Unit02_Ch04-05_Age_Achievement_and_Random_Impact.txt",
+      "sections": [
+        "Original Chapter 4: Age and Scientific Achievement",
+        "Original Chapter 5: Random Impact Rule"
+      ],
+      "characters": 49224,
+      "sha256": "48e984a8e52e82eb51864ab0a1f5b6b5e7f86321b9a09a25cdafaaf06103948b"
+    },
+    {
+      "unit": 3,
+      "title": "Q 因子与科研生涯中的高影响时期",
+      "english_title": "Q Factor and Hot Streaks",
+      "chapters": [
+        6,
+        7
+      ],
+      "print_pages": [
+        60,
+        80
+      ],
+      "main_pages": 21,
+      "txt": "Unit03_Ch06-07_Q_Factor_and_Hot_Streaks.txt",
+      "sections": [
+        "Original Chapter 6: The Q-Factor",
+        "Original Chapter 7: Hot Streaks"
+      ],
+      "characters": 45276,
+      "sha256": "5c575d2f69a1a0c74e1c406fa395a8529f2cdf6362b6a1805eea24344e6d057d"
+    },
+    {
+      "unit": 4,
+      "title": "团队科学、学术环境与合著网络",
+      "english_title": "Teams College and Coauthorship Networks",
+      "chapters": [
+        8,
+        9,
+        10
+      ],
+      "print_pages": [
+        85,
+        109
+      ],
+      "main_pages": 25,
+      "txt": "Unit04_Ch08-10_Teams_College_and_Coauthorship_Networks.txt",
+      "sections": [
+        "Part II opening: The Science of Collaboration",
+        "Original Chapter 8: The Increasing Dominance of Teams in Science",
+        "Original Chapter 9: The Invisible College",
+        "Original Chapter 10: Coauthorship Networks"
+      ],
+      "characters": 61322,
+      "sha256": "9da5738ce47595e4272489098f3b458f56f2b48ffa23d9b3fa31e92b0ebbf9fc"
+    },
+    {
+      "unit": 5,
+      "title": "团队组建与团队规模",
+      "english_title": "Team Assembly and Size",
+      "chapters": [
+        11,
+        12
+      ],
+      "print_pages": [
+        110,
+        133
+      ],
+      "main_pages": 24,
+      "txt": "Unit05_Ch11-12_Team_Assembly_and_Size.txt",
+      "sections": [
+        "Original Chapter 11: Team Assembly",
+        "Original Chapter 12: Small and Large Teams",
+        "Supplement: Appendix A1 — Modeling Team Assembly"
+      ],
+      "characters": 64317,
+      "sha256": "748e76ad26eadd1b22c6561ae72e1ad53f233d95033e5f7d88f380fd21a8756f"
+    },
+    {
+      "unit": 6,
+      "title": "科学贡献的认可与分配",
+      "english_title": "Scientific Credit and Allocation",
+      "chapters": [
+        13,
+        14
+      ],
+      "print_pages": [
+        134,
+        158
+      ],
+      "main_pages": 25,
+      "txt": "Unit06_Ch13-14_Scientific_Credit_and_Allocation.txt",
+      "sections": [
+        "Original Chapter 13: Scientific Credit",
+        "Original Chapter 14: Credit Allocation"
+      ],
+      "characters": 58150,
+      "sha256": "3b2ff87247faa8e575ba8d9c5ec681a123ba4d87af9fa1c38783d7611906cd3d"
+    },
+    {
+      "unit": 7,
+      "title": "科学规模增长与引用分布",
+      "english_title": "Science Growth and Citation Distribution",
+      "chapters": [
+        15,
+        16
+      ],
+      "print_pages": [
+        161,
+        183
+      ],
+      "main_pages": 23,
+      "txt": "Unit07_Ch15-16_Science_Growth_and_Citation_Distribution.txt",
+      "sections": [
+        "Part III opening: The Science of Impact",
+        "Original Chapter 15: Big Science",
+        "Original Chapter 16: Citation Disparity"
+      ],
+      "characters": 57474,
+      "sha256": "56e5bf937fe8a63767ce679d319e83c0ec584b993c849bae1391a072b56c7831"
+    },
+    {
+      "unit": 8,
+      "title": "高影响成果的形成机制",
+      "english_title": "Formation of High Impact Research",
+      "chapters": [
+        17,
+        18
+      ],
+      "print_pages": [
+        184,
+        196
+      ],
+      "main_pages": 13,
+      "txt": "Unit08_Ch17-18_Formation_of_High_Impact_Research.txt",
+      "sections": [
+        "Original Chapter 17: High-Impact Papers",
+        "Original Chapter 18: Scientific Impact"
+      ],
+      "characters": 30618,
+      "sha256": "6c470db981013438a0e22bb1483148903c5a49cea42408254a3e9eaebbc4f175"
+    },
+    {
+      "unit": 9,
+      "title": "引用随时间变化与最终影响",
+      "english_title": "Citation Dynamics and Ultimate Impact",
+      "chapters": [
+        19,
+        20
+      ],
+      "print_pages": [
+        197,
+        219
+      ],
+      "main_pages": 23,
+      "txt": "Unit09_Ch19-20_Citation_Dynamics_and_Ultimate_Impact.txt",
+      "sections": [
+        "Original Chapter 19: The Time Dimension of Science",
+        "Original Chapter 20: Ultimate Impact",
+        "Supplement: Appendix A2 — Modeling Citations"
+      ],
+      "characters": 85408,
+      "sha256": "a465e405c15f221eb73bd5e82ab6d049a0217296c3c7370b0987d6c95a5578f8"
+    },
+    {
+      "unit": 10,
+      "title": "科学加速与人工智能",
+      "english_title": "Accelerating Science and AI",
+      "chapters": [
+        21,
+        22
+      ],
+      "print_pages": [
+        223,
+        240
+      ],
+      "main_pages": 18,
+      "txt": "Unit10_Ch21-22_Accelerating_Science_and_AI.txt",
+      "sections": [
+        "Part IV opening: Outlook",
+        "Original Chapter 21: Can Science Be Accelerated?",
+        "Original Chapter 22: Artificial Intelligence"
+      ],
+      "characters": 43323,
+      "sha256": "cc3b71ad7c164b980da99a0d1a4cc0a3d137f3643e2a3cdae19a96d0862c1811"
+    },
+    {
+      "unit": 11,
+      "title": "偏差、失败与因果推断",
+      "english_title": "Bias Failure and Causality",
+      "chapters": [
+        23
+      ],
+      "print_pages": [
+        241,
+        251
+      ],
+      "main_pages": 11,
+      "txt": "Unit11_Ch23_Bias_Failure_and_Causality.txt",
+      "sections": [
+        "Original Chapter 23: Bias and Causality in Science",
+        "Book-level supplement: Last Thought — All the Science of Science"
+      ],
+      "characters": 30614,
+      "sha256": "d6eb9c456ba01266e42e5b3a36dd8b4147c1a4e4f751d5460ed236b4b2e5e724"
+    }
+  ],
+  "references": {
+    "txt": "References.txt",
+    "print_pages": [
+      270,
+      295
+    ],
+    "pdf_pages": [
+      291,
+      316
+    ],
+    "sha256": "e4d1a0e6202cac951944f1d39b8e1481859ba385b9ac2d1ff60ad06e61eeb0d4"
+  },
+  "original_section_text_sha256": [
+    "7c20007986afadd83dc0b1d377e6914e5d9e99356911493f73de53afc1c1ec64",
+    "aa5d9f7832ff43034a117108f88c967d6aa910c3de35ace1cbdaa84a80224376",
+    "50a0dfa03ae582a0e0a81c8d0710bcc084d09dea6c2308757be666cfef267047",
+    "10e23f7ebd7438ef7aeffd820d332a617344999143e126370e78c153059d5514",
+    "8a47f707cec9010b7acc498b08af1af3630bdd731c9250d4c218317950d2f7b2",
+    "0bb03914b7e89420326ba9f11a1562c9bd408a05be357a4a667d45d37bd409ee",
+    "08566673bbdea0cbc3174969ddb7e36aaaef216c7ece4a8ec9e709bd1e71c7cd",
+    "af557f3c7986fce7c27bfe5b3d46a398bc2ca084db357de57afff2b64838e9e6",
+    "485db988814b933a4bc8c0832d4c720294e15fe5665cc032b8f36e4d879f61de",
+    "9efe470923f7445e9a51afd7578bec532e5a8bd41365c124edc9a5396ced0164",
+    "6d71080c95d2b1af728640f9a2946d5f4917a91e7a3cf709f6be221171a75383",
+    "849656c6ac111a9dd77e30c11ef3b3f0beeb9cf40287f8703734734a3de973fe",
+    "0234b38085c08ebe2f9ecbaa26d752febdec1003b96312a20af9e67ea0209086",
+    "677500e3fb330e3ca286f76a5f1a308b003dfe2e3e41fe47d867e0428dcf3619",
+    "04d8982e74f08f2440aed7c12a5bbf69d467b4c1cac8972c05058241bf53217b",
+    "adba711548705f7ddaa1f6daf31e42f494bbcf6b515a82d154caf579f80cf69c",
+    "0751818ec688c767d38fd606d0fa9392727fced2744083af862936c32f0d7d49",
+    "0d76a0cebda63bd74d0086546fcf58ea1c5c30d954934df24b957f74acbad303",
+    "b79999d81bc99a2f5f77a206490b6fd531c7f146090ec147ba9ae2ff811ee75c",
+    "0a8142b247acf6c3e2073f148fde7329a1ec4b568c724dcf2b86404ec9c03ece",
+    "9613740cfa93ae3ea7ed9beb5e159631f771df4d65d57a3d625ee831e988dfbd",
+    "d5a6a46ae8237b0eefcf544de1d912fb4e1f56b73d05bc2a1096d60284fe4e9e",
+    "7f1ddde173c84c49e8ef73b4263ee687cfbf49e431083f3cf7375226da381f36",
+    "add3f00cc2fbfaab6279a678120fe481b4daecc6b9d8458218fba1f8e7596576",
+    "af62a4920ff0e4b1b32bc4620277340e8096c2a34df69e32baaafca8fd88fabc",
+    "2849332197c7fa3ca2dcdf29cd18f81c7bf81e6ef0605bb31bd0fdb9f25411d5",
+    "6fed3678153cdfcea9bc2c4e01bc3d37ed44e7c7cb2b4ba72d4dd6c76c6e74e1",
+    "aea435f0398e33b5be505b42d9c084e05eb786a843ea94f7c13a546258270837",
+    "989cb6219685735a7ecf0f637146814df0ee00161e6b6ad3473b9374597387d7",
+    "fa9341c2baf735ce2f0ac6c01a7c5ae5dbdc1db3c6382dbddbb45fc3b7e3bc4c",
+    "27d510ef7ffcc2e6c7491502c8d59349bc96607d1966d0fec73d555d50be0926",
+    "fc63ddfb50af9f9d2550fa306ecd1d98365c05d8760518ef89c6865f7765e321",
+    "1743f215be806fbeb8ea6f6e7a7d24ffa9a0b822a8bc834f9657f131de85a6d3",
+    "bc37354c0943b9732206dd2e8da047361651d76f654bb42569de06269b9d709d"
   ]
 }

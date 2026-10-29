@@ -1,0 +1,1663 @@
+The Science of Science
+Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
+
+Reading Unit 01: Productivity Metrics and Matthew Effect
+Original chapters: 1, 2, 3
+Main chapter pages: 7–38 (32 pages; supplements excluded)
+
+[Reading units follow the agreed thematic grouping. Original chapter numbers, titles, text and page markers are retained. References.txt contains the complete numbered reference list for all units. Original section text has not been rewritten.]
+
+Original chapter contents:
+Chapter 1: Productivity of a Scientist (pp. 7–16)
+Chapter 2: The h-Index (pp. 17–27)
+Chapter 3: The Matthew Effect (pp. 28–38)
+
+
+========================================================================
+Book-level supplement: Acknowledgements
+========================================================================
+
+[p. viii] [PDF page 16]
+
+ACKNOWLEDGEMENTS
+
+
+        As teams are the fundamental engine for today’s innovation, we
+must thank our lab members first and foremost. Indeed, our lab
+members contributed to this project in some of the most fundamental
+ways – not only did their work compose a large part of the initial book
+proposal, it also contributed fresh insights which grew into several new
+chapters, broadening and deepening our understanding of the subjects
+we set out to explore. These team members include Roberta Sinatra,
+Chaoming Song, Lu Liu, Yian Yin, Yang Wang, Ching Jin, Hua-Wei
+Shen, Pierre Deville, Michael Szell, Tao Jia, Lingfei Wu, Zhongyang He,
+Jichao Li, Binglu Wang, Suman Kalyan Maity, Woo Seong Jo, Jian Gao,
+Nima Dehmamy, Yi Bu, David Moser, Alex Gates, Junming Huang,
+Qing Ke, and Xindi Wang. Our science of science journey has been
+infinitely more fun because we had the opportunity to work and learn in
+such inspiring company.
+        Chapter 9 on the invisible college discusses the “bright ambi-
+ence” of brilliant minds, a concept that we experienced vividly while
+writing this book. Indeed, so many friends and colleagues have been
+generous with their time and expertise along the way, that listing some
+of those risks excluding many others. We feel compelled to express our
+sincere thanks to Luis Amaral, Sinan Aral, Pierre Azoulay, Federico
+Battiston, Jeanne Brett, Elizabeth Caley, Manuel Cebrian, Damon
+Centola, Jillian Chown, Noshir Contractor, Ying Ding, Yuxiao Dong,
+Tina Eliassi-Rad, Eli Finkel, Santo Fortunato, Morgan Frank, Lee Giles,
+Danny Goroff, Shlomo Havlin, Cesar Hidalgo, Travis Hoppe, Ian B.
+Hutchins, Ben Jones, Brayden King, Rebecca Meseroll, Sam Molyneux,
+
+[p. ix] [PDF page 17]
+
+Karim Lakhani, David Lazer, Jessie Li, Zhen Lei, Jess Love, Stasa
+Milojevic, Federico Musciotto, Willie Ocasio, Sandy Pentland, Alex
+Petersen, Filippo Radicchi, Iyad Rahwan, Lauren Rivera, Matt Salga-
+nik, George Santangelo, Iulia Georgescu, Ned Smith, Paula Stephan,
+Toby Stuart, Boleslaw Szymanski, Arnout van de Rijt, Alessandro
+Vespignani, John Walsh, Ludo Waltman, Kuansan Wang, Ting Wang,
+Adam Waytz, Klaus Weber, Stefan Wuchty, Yu Xie, Hyejin Youn.
+         Among the many people who made this journey possible, our
+special thanks go to two of them in particular, whose “bright ambi-
+ence” is especially omnipresent throughout the pages and over the
+years. Brian Uzzi is not only always generous with his time, he also
+has remarkable insight. Time and again he manages to take ideas we’re
+struggling to present and effortlessly elevates them. We are also grateful
+to Brian for championing the somewhat radical idea that physicists can
+contribute to the social sciences. Our colleague James Evans has been a
+close friend and collaborator, and several ideas discussed in this book
+would have not been born without him, including but not limited to the
+concluding remarks on engaging “all the science of science” for the
+future development of the field.
+         We are extremely grateful for the generous research support we
+have received over the years. In particular Riq Parra from AFOSR has
+been a true believer from the very beginning, when few people knew
+what we meant by the “science of science.” Many concepts discussed in
+this book would not have been possible without his strong and con-
+tinued support. Dashun also wishes to express his special thanks to the
+Kellogg School of Management, an institution that offered a level of
+support and trust that most researchers only dream of.
+         Many unsung heroes contributed to this text, collectively log-
+ging countless hours to help guide the book along. We have benefited
+tremendously from the excellent and dedicated editorial assistance of
+Carrie Braman, Jake Smith, and James Stanfill, as well as Enikő Jankó,
+Hannah Kiefer, Alanna Lazarowich, Sheri Gilbert, Michelle Guo, and
+Krisztina Eleki. Special thanks to Alice Grishchenko who took on the
+brave redesign effort, diligently redrawing all the figures and giving a
+visual identity to the book. Yian Yin and Lu Liu have been our go-to
+people behind the scenes, springing into action whenever we needed
+help, and contributing to a variety of essential tasks ranging from data
+analysis to managing references.
+
+[p. x] [PDF page 18]
+
+Special thanks to our very professional publishing team at
+Cambridge, from our enthusiastic champion, Simon Capelin, to the
+editorial team who worked tirelessly to move the project forward and
+across the finish line: Roisin Munnelly, Nicholas Gibbons, Henry Cock-
+burn, and Marion Moffatt. Thank you for all your help, and for putting
+up with numerous missed deadlines.
+         And finally, Dashun would like to thank his wife Tian Shen,
+and dedicate this book to her. Thank you, for everything.
+
+
+========================================================================
+Book-level supplement: Biographical notes (2021 publication)
+========================================================================
+
+Dashun Wang is an Associate Professor at Kellogg School of Management,
+and (by courtesy) McCormick School of Engineering, Northwestern Uni-
+versity, where he directs the Center for Science of Science and Innovation.
+He is a recipient of the AFOSR Young Investigator Award and was named
+Poets&Quants Best 40 Under 40 Business School Professors in 2019.
+
+Albert-László Barabási is Robert Gray Dodge Professor of Network
+Science and Distinguished University Professor at Northeastern University,
+where he directs the Center for Complex Network Research. He holds
+appointments in the Departments of Physics and the College of Computer
+and Information Science, in the Department of Medicine at Harvard Med-
+ical School, at Brigham and Women’s Hospital in the Channing Division of
+Network Science, and the Department of Network and Data Science at
+Central European University in Budapest, Hungary.
+
+
+========================================================================
+Book-level supplement: Introduction
+========================================================================
+
+[p. 1] [PDF page 19]
+
+INTRODUCTION
+
+
+         Scientific revolutions are often driven by the invention of new
+instruments – the microscope, the telescope, genome sequencing – each
+of which have radically changed our ability to sense, measure, and
+reason about the world. The latest instrument at our disposal?
+A windfall of digital data that traces the entirety of the scientific enter-
+prise, helping us capture its inner workings at a remarkable level of
+detail and scale. Indeed, scientists today produce millions of research
+articles, preprints, grant proposals, and patents each year, leaving
+detailed fingerprints of the work we admire and how they come about.
+Access to this data is catalyzing the emergence of a new multidisciplin-
+ary field, called science of science, which, by helping us to understand in
+a quantitative fashion the evolution of science, has the potential to
+unlock enormous scientific, technological, and educational value.
+         The increasing availability of all this data has created an unpre-
+cedented opportunity to explore scientific production and reward. Parallel
+developments in data science, network science, and artificial intelligence
+offer us powerful tools and techniques to make sense of these millions of
+data points. Together, they tell a complex yet insightful story about how
+scientific careers unfold, how collaborations contribute to discovery, and
+how scientific progress emerges through a combination of multiple inter-
+connected factors. These opportunities – and the challenges that come
+with them – have fueled the emergence of a new multidisciplinary com-
+munity of scientists that are united by their goals of understanding
+science. These practitioners of science of science use the scientific methods
+to study themselves, examine projects that work as well as those that fail,
+
+[p. 2] [PDF page 20]
+
+quantify the patterns that characterize discovery and invention, and offer
+lessons to improve science as a whole. In this book, we aim to introduce
+this burgeoning field – its rich historical context, exciting recent develop-
+ments, and promising future applications.
+         We had three core audiences in mind as we wrote this book.
+The primary audience includes any scientist or student curious about
+the mechanisms that govern our passion, science. One of the founding
+fathers of the science of science, Thomas Kuhn, a physicist turned
+philosopher, triggered worldwide interest in the study of science back
+to 1962 with the publication of The Structure of Scientific Revolutions.
+Kuhn’s notion of “paradigm shift” today is used in almost every cre-
+ative activity, and continues to dominate the way we think about the
+emergence and acceptance of new ideas in science. In many ways, the
+science of science represents the next major milestone in this line of
+thinking, addressing a series of questions that are dear to the heart of
+every scientist but may well lay outside of the Kuhnian worldview:
+When do scientists do their best work? What is the life cycle of scientific
+creativity? Are there signals for when a scientific hit will occur in a
+career? Which kinds of collaboration triumph and which are destined to
+for disaster? How can young researchers maximize their odds of suc-
+cess? For any working scientist, this book can be a tool, providing data-
+driven insight into the inner workings of science, and helping them
+navigate the institutional and scholarly landscape in order to better
+their career.
+         A broader impact of the science of science lies in its implications
+for policy. Hence, this book may be beneficial to academic adminis-
+trators, who can use science of science to inform evidence-based deci-
+sion-making. From department chairs to deans to vice presidents of
+research, university administrators face important personnel and invest-
+ment decisions as they try to implement and direct strategic research.
+While they are often aware of a profusion of empirical evidence on this
+subject, they lack cohesive summaries that would allow them to extract
+signals from potential noise. As such, this book may offer the know-
+ledge and the data to help them better take advantage of useful insights
+the science of science community has to offer. What does an h-index of
+25 tell us about a physics faculty member seeking tenure? What would
+the department most benefit from: a junior vs. a senior hire? When
+should we invest in hiring a superstar, and what can we expect their
+impact will be?
+
+[p. 3] [PDF page 21]
+
+We also hope that program directors with National Science
+Foundation (NSF), National Institutes of Health (NIH), and other public
+and private funding agencies will find the book useful for supporting
+high-performing individuals and teams to best address science’s emerging
+challenges. Many civilian and military government agencies, nonprofits,
+and private foundations are already collecting data and developing tools
+rooted in science of science. The framework offered in the coming chap-
+ters will allow them to utilize this data in a way that best serves their own
+purposes, helping them set up more effective funding mechanisms, and
+ultimately benefitting both science and society.
+          The changing landscape of science also affects scholarly pub-
+lishers, who often compete to publish articles that will impact the
+direction and the rate of scientific progress. We hope journal editors
+will also find science of science useful for a range of practical purposes –
+from understanding the natural life cycle of a discovery’s impact to
+identifying hit ideas before they become hits – which may, in turn,
+augment the impact of what they publish.
+          Lastly, this book is intended for scientists who are currently
+involved in science of science research, or for those who wish to enter
+this exciting field. It is our aim to offer the first coherent overview of the
+key ideas that currently capture the discipline’s practitioners. Such an
+overview is necessary, we believe, precisely because our community is
+highly interdisciplinary. Indeed, key advances in the science of science
+have been generated by researchers in fields ranging from the infor-
+mation and library sciences to the social, physical, and biological sci-
+ences to engineering and design. As such, approaches and perspectives
+vary, and researchers often publish their results in venues with non-
+overlapping readership. Consequently, research on the science of sci-
+ence can be fragmented, often along disciplinary boundaries. Such
+boundaries encourage jargon, parochial terms, and local values. In the
+book we aim to summarize and translate the insights from highly
+diverse disciplines, presenting them to students and researchers cohe-
+sively and comprehensively. We will not only emphasize the common
+intellectual heritage of the diverse set of ideas that coexist in the field,
+but also provide approaches to orient new research. Thus, we hope the
+book will be a resource for interested students and researchers just
+discovering the field.
+          The book is structured in four parts: The Science of Career
+focuses on the career path of individual scientists, asking when we do
+
+[p. 4] [PDF page 22]
+
+our best work and what distinguishes us from one another. The Science
+of Collaboration explores the advantages and pitfalls of teamwork,
+from how to assemble a successful team to who gets the credit for the
+team’s work. The Science of Impact explores the fundamental dynamics
+underlying scientific ideas and their impacts. The Outlook part sum-
+marizes some of the hottest frontiers, from the role of AI to bias and
+causality. Each part begins with its own introduction which illuminates
+the main theme using questions and anecdotes. These questions are then
+addressed in separate chapters that cover the science relevant to each.
+         By analyzing large-scale data on the prevailing production and
+reward systems in science, and identifying universal and domain-specific
+patterns, science of science not only offers novel insights into the nature
+of our discipline, it also has the potential to meaningfully improve our
+work. With a deeper understanding of the precursors of impactful
+science, it will be possible to develop systems and policies that more
+reliably improve the odds of success for each scientist and science
+investment, thus enhancing the prospects of science as a whole.
+
+
+========================================================================
+Part I opening: The Science of Career
+========================================================================
+
+[p. 5] [PDF page 23]
+
+Part
+      I                      THE SCIENCE OF CAREER
+
+          Albert Einstein published 248 papers in his lifetime, Charles
+Darwin 119, Louis Pasteur 172, Michael Faraday 161, Siméon Denis
+Poisson 158, and Sigmund Freud 330 [1]. Contrast these numbers with
+the body of work of Peter Higgs, who had published only 25 papers by
+the age of 84, when he received the Nobel Prize for predicting the Higgs
+boson. Or think of Gregor Mendel, who secured an enduring legacy
+with only seven scientific publications to his name [2].
+          These differences show that in the long run what matters to a
+career is not productivity, but impact. Indeed, there are remarkable
+differences among the impact of the publications. Even for star scien-
+tists, of all papers they publish, at most a few may be remembered by a
+later generation of scientists. Indeed, we tend to associate Einstein’s
+name with relativity and Marie Curie with radioactivity, while lacking
+general awareness of the many other discoveries made by each. In other
+words, one or at most a few discoveries – the outliers – seem to be what
+define a scientist’s career. So, do these outliers accurately represent a
+scientific career? Or did these superstar scientists just get lucky in one or
+a few occasions along their careers?
+          And, if only one or at most a few papers are remembered, when
+do scientists make that defining discovery? Einstein once quipped, “A
+person who has not made his great contribution to science before the
+age of 30 will never do so” [3]. Indeed, Einstein was merely 26 years old
+when he published his Annus Mirabilis papers. Yet, his observation
+about the link between youth and discovery was not merely autobio-
+graphical. Many of the physicists of his generation too made their
+
+[p. 6] [PDF page 24]
+
+defining discoveries very early in their career – Heisenberg and Dirac at
+24; Pauli, Fermi, and Wigner at 25; Rutherford and Bohr at 28. But is
+youth a necessity for making an outstanding contribution to science?
+Clearly not. Alexander Fleming was 47 when he discovered penicillin.
+Luc Montagnier was 51 when he discovered HIV. And John Fenn was
+67 when he first began to pursue the research that would later win him
+the Nobel Prize in chemistry. So, how is creativity, as captured by
+scientific breakthroughs, distributed across the lifespan of a career?
+         The first part of this book will dive into these sets of fascinating
+questions regarding scientific careers. Indeed, as we survey our young
+and not so young colleagues doing groundbreaking work, we are
+prompted to ask: Are there quantitative patterns underlying when
+breakthrough work happens in a scientific career? What mechanisms
+drive the productivity and impact of a scientist? The chapters in this part
+will provide quantitative answers to these questions, offering insights
+that affect both the way we train scientists and the way we acknowledge
+and reward scientific excellence.
+
+
+========================================================================
+Original Chapter 1: Productivity of a Scientist
+========================================================================
+
+[p. 7] [PDF page 25]
+
+1                      PRODUCTIVITY OF A SCIENTIST
+
+
+        Paul Erdős, arguably the most prolific mathematician in the
+twentieth century, was, by all accounts, rather eccentric. The
+Hungarian-born mathematician – who moved to the US before the start
+of WWII – lived out of a ragged suitcase that he famously dragged with
+him to scientific conferences, universities, and the homes of colleagues
+all over the world. He would show up unannounced on a colleague’s
+doorstep, proclaim gleefully, “My mind is open.” He then spent a few
+days working with his host, before moving on to surprise some other
+colleague at some other university. His meandering was so constant that
+it eventually earned him undue attention from the FBI. To his fellow
+mathematicians, he was an eccentric but lovable scientist. But to law
+enforcement officers during the Cold War, it was suspicious that he
+crossed the Iron Curtain with such ease. Indeed, Erdős was once
+arrested in 1941 for poking around a secret radio tower. “You see,
+I was thinking about mathematical theorems,” he explained to the
+authorities in his thick Hungarian accent. It took decades of tracking
+for the Bureau to finally believe him, concluding that his rambling was
+indeed just for the sake of math.
+        His whole life was, too. He had no wife, no children, no
+job, not even a home to tie him down. He earned enough in guest
+lecturer stipends from universities and from various mathematics
+awards to fund his travels and basic needs. He meticulously
+avoided any commitment that might stand in the way of his work.
+Before he died in 1996 at the age of 83, Erdős had written or
+coauthored a stunning 1,475 academic papers in collaboration
+
+[p. 8] [PDF page 26]
+
+with 511 colleagues. If total publication counts as a measure of
+productivity, how does Erdős’ number compare to the productivity
+of an ordinary scientist? It surely seems exceptional. But how
+exceptional?
+
+
+1.1         How Much Do We Publish?
+         Scholarly publications are the primary mode of communication
+in science, helping disseminate knowledge. The productivity of a scien-
+tist captures the rate at which she adds units of knowledge to the field.
+Over the past century, the number of publications has grown exponen-
+tially. An important question is whether the growth in our body of
+knowledge is simply because there are now more scientists, or because
+each scientist produces more on average than their colleagues in
+the past.
+         An analysis of over 53 million authors and close to 90 million
+papers published across all branches of science shows that both the
+number of papers and scientists grew exponentially over the past
+century [4]. Yet, while the former grew slightly faster than the latter
+(Fig. 1.1a), meaning that the number of publications per capita has
+been decreasing over time, for each scientist, individual productivity
+has stayed quite stable over the past century. For example, the
+number of papers a scientist produces each year has hovered at
+around two for the entire twentieth century (Fig. 1.1b, blue curve),
+and has even increased slightly during the past 15 years. As of 2015,
+the typical scientist authors or coauthors about 2.5 papers per year.
+This growth in individual productivity has its origins in collabor-
+ations: Individual productivity is boosted as scientists end up on
+many more papers as coauthors (Fig. 1.1b, red curve). In other
+words, while in terms of how many scientists it takes to produce a
+paper, that number has been trending downwards over the past
+century, thanks to collaborative work individual productivity has
+increased during the past decade.
+
+
+1.2         Productivity: Disciplinary Ambiguities
+       But, when it comes to a scientist’s productivity, it’s not easy to
+compare across disciplines. First, each publication may represent a unit
+of knowledge, but that unit comes in different sizes. A sociologist may
+
+[p. 9] [PDF page 27]
+
+(a) Overall                                              (b) Average
+                 10   7                                                           5
+                                #papers                                                  #authors/paper
+                                #authors                                                 #papers/author
+
+
+
+
+                                                                 Average number
+                                                                                  4
+
+
+
+
+Overall number
+                 10 6
+                                                                                  3
+                 10 5
+                                                                                  2
+                 10 4                                                             1
+
+                 10 3                                                             0
+                  1900          1925     1950      1975   2000                    1900   1925    1950   1975   2000
+                                             Year                                                   Year
+  Figure 1.1 The growing number of scientists. (a) During the past century, both
+the number of scientists and the number of papers has increased at an exponential
+rate. (b) The number of papers coauthored by each scientist has been hovering
+around two during the past 100 years, and increased gradually in the past 15 years.
+This growth is a direct consequence of collaborative effects: Individual productivity
+is boosted as scientists end up on many more papers as coauthors. Similar trends
+were reported using data within a single field [5]. For physics, for example, the
+number of papers coauthored by each physicist has been less than one during the
+past 100 years, but increased sharply in the past 15 years. After Dong et al. [4] and
+Sinatra et al. [5].
+
+
+not feel their theory is fully articulated unless the introduction of the
+paper spans a dozen pages. Meanwhile, a paper published in Physical
+Review Letters, one of the most respected physics journals, has a strict
+four-page limit, including figures, tables, and references. Also, when we
+talk about individual productivity, we tend to count publications in
+scientific journals. But in some branches of the social sciences and
+humanities, books are the primary form of scholarship. While each
+book is counted as one unit of publication, that unit is admittedly much
+more time-consuming to produce.
+         And then there is computer science (CS). As one of the youngest
+scientific disciplines (the first CS department was formed at Purdue
+University in 1962), computer science has adopted a rather unique
+publication tradition. Due to the rapidly developing nature of the field,
+computer scientists choose conference proceedings rather than journals
+as their primary venue to communicate their advances. This approach
+has served the discipline well, given everything that has been accom-
+plished in the field – from the Internet to artificial intelligence – but it
+can be quite confusing to those outside the discipline.
+
+[p. 10] [PDF page 28]
+
+Ignoring the varying publication conventions that characterize
+different disciplines can have serious consequences. For example, in
+2017, the US News and World Report (US News), which develops
+authoritative ranking of colleges, graduate schools, and MBA programs
+around the world, published their first ranking of the world’s best
+computer science departments. The ranking was so absurd that the
+Computing Research Association (CRA) had to put out a special
+announcement, calling it “nonsense” and “a grave disservice” to its
+readers.
+         How could an experienced organization specializing in ranking
+academic institutions get it so wrong? It turns out that US News
+calculated their rankings based on journal publications recorded by
+Web of Science, a procedure that served them well in all other discip-
+lines. But, by ignoring peer-reviewed papers published in conferences,
+the US News rankings were completely divorced from computer scien-
+tists’ own perceptions of quality and impact.
+         The productivity difference across disciplines can be quanti-
+fied using data from the National Research Council on research
+doctorate programs in the US [6, 7]. Using the average number of
+publications by faculty in each department over a five-year period as
+a proxy, researchers find that the numbers ranged from 1.2 in
+history to 10.5 in chemistry. Even between similar disciplines we
+see large productivity differences. For example, within biological
+sciences, faculty productivity ranged from 5.1 in ecology to 9.5 in
+pharmacy.
+         Taken together, the data presented so far in this chapter make
+at least one message crystal clear: no matter how we measure it, the
+productivity of a typical scientist is nowhere near Erdős’. Indeed, his
+total – 1,475 papers – implies a staggering two papers per month over
+a span of 60 years. By contrast, a study focusing on more than
+15 million scientists between 1996 and 2011, found that less than
+1 percent of our colleagues managed to publish at least one paper
+every year [8]. Hence, only a small fraction of the scientific workforce
+can maintain a steady stream of publications. Interestingly, this small
+fraction contains the most high-impact researchers. Though they rep-
+resent less than 1 percent of all publishing scientists, this stable core
+puts out 41.7 percent of all papers, and 87.1 percent of all papers with
+more than 1,000 citations. And if a productive scientist’s pace lags, so
+does the impact of their contributions. Indeed, the average impact of
+
+[p. 11] [PDF page 29]
+
+papers published by a researcher is substantially lower if they skipped
+even a single year.
+        While Erdős is an outlier, his impressive productivity speaks to
+the enormous productivity differences among researchers. Why are
+there such differences? After all, we all have a 24-hour day to work
+with. So how can people like Erdős be so much more productive than
+their peers? To answer these questions, we need to visit the legendary
+Bell Laboratory in its heyday.
+
+
+1.3         Productivity: The Difference
+         The career of William Shockley, the man who brought silicon to
+Silicon Valley, was not free of controversies. To be sure, his attempts to
+commercialize a new transistor design in the 1950s and 1960s trans-
+formed the Valley into the hotbed of electronics. Yet, his troubling
+advocacy for eugenics eventually isolated him from his colleagues,
+friends, and family. Shockley spent his most productive years at the Bell
+Laboratory, where he co-invented the transistor with John Bardeen and
+Walter Brattain. That discovery not only won the trio the 1956 Nobel
+Prize in Physics, it also began the digital revolution we continue to
+experience today.
+         While managing a research group at Bell Labs, Shockley
+became curious [9]: Were there measurable differences in the prod-
+uctivity of his fellow researchers? So he gathered statistics on the
+publication records of employees in national labs such as Los Alamos
+and Brookhaven. Once he charted the numbers, he was surprised by
+the outcome: The curve indicated that individual productivity, the
+number of papers published by a researcher, N, follows a lognormal
+distribution
+                                    
+            1            ð ln N μÞ2
+PðN Þ ¼     pffiffiffiffiffi exp                 :                            ð1:1Þ
+         Nσ 2π                2σ 2
+
+Lognormal distributions are fat-tailed, capturing great variations in
+productivity. In other words, Shockley learned that most researchers
+publish very few papers, whereas a non-negligible fraction of scientists
+are orders of magnitude more productive than the average. Evidence for
+(1.1) is shown in Fig. 1.2, plotting the distribution of the number of
+papers written by all authors listed in INSPECT, together with a log-
+normal fit [10].
+
+[p. 12] [PDF page 30]
+
+7
+                                                   10
+
+
+
+
+             number of authors with publications
+                                                   105
+
+
+
+                                                   103
+
+
+
+                                                   101
+                                                              all authors
+                                                              log-norm. distr.
+
+                                                          0            1               2             3    4
+                                                         10         10               10             10   10
+                                                                           Number of publications
+
+             Figure 1.2 Productivity distribution. The blue symbols show the
+            number of papers published by all authors listed in the INSPECT database
+            of scientific and technical literature, in the period 1969–2004 (over
+            3 million authors). The red line corresponds to the lognormal fit to the
+            data (1.1). After Fronczak et al. [10].
+
+
+
+
+     Box 1.1 The study of productivity has a long history [9–15]
+     In 1926, Alfred J. Lotka [11] observed that the number of papers produced
+     by scientists follows a fat-tailed distribution. In other words, he found that
+     a small fraction of scientists are responsible for the bulk of scientific
+     literature. Lotka studied 6,891 authors listed in Chemical Abstracts pub-
+     lishing between 1907 and 1916, concluding that the number of authors
+     making N contributions follows a power law
+
+     PðN ÞeN α ,                                                                                              ð1:2Þ
+
+     where the exponent α  2. A power law predicts that productivity has a
+     long tail, capturing major variations among individuals. Note that it often
+     requires a large amount of data to reliably distinguish a power law from a
+     lognormal distribution [9], which Lotka did not have in 1926.
+
+
+       This lognormal distribution of productivity is rather odd, as
+Shockley quickly noticed. Indeed, in most competitive arenas, individual
+performance metrics almost always follow a narrow distribution. Think
+about running. At the Rio Olympics in 2016, Usain Bolt finished the
+100-meter final in just 9.81 seconds. Justin Gatlin came in second and
+
+[p. 13] [PDF page 31]
+
+Andre De Grasse in third, with running times 9.89 s and 9.91 s, respect-
+ively. These numbers are awfully close, reflecting a well-known fact that
+performance differences between individuals are typically bounded [16].
+Similarly, Tiger Woods, even on his best day, only took down his closest
+contenders by a few strokes, and the fastest typist may only type a few
+words more per minute than a merely good one. The bounded nature of
+performance reminds us that it is difficult, if not impossible, to signifi-
+cantly outperform the competition in any domain. Yet, according to
+Fig. 1.2, this boundedness does not hold for scientific performance.
+Apparently, it is possible to be much better than your competitors when
+it comes to churning out papers. Why is that?
+
+
+1.4         Why So Productive?
+        Shockley proposed a simple model to explain the lognormal
+productivity distribution he observed (Eq. 1.1) [9]. He suggested that in
+order to publish a paper, a scientist must juggle multiple factors, like:
+
+F1. Identify a good problem.
+F2. Make progress with it.
+F3. Recognize a worthwhile result.
+F4. Make a decision as to when to stop the research and start writing up
+    the results.
+F5. Write adequately.
+F6. Profit constructively from criticism.
+F7. Show determination to submit the paper for publication.
+F8. Make changes if required by the journal or the referees.
+
+If any of these steps fail, there will be no publication. Let us assume that
+the odds of a person clearing hurdle Fi from the list above is pi. Then,
+the publication rate of a scientist is proportional to the odds of clearing
+each of the subsequent hurdles, that is N ~ p1p2p3p4p5p6p7p8. If each of
+these odds are independent random variables, then the multiplicative
+nature of the process predicts that P(N) follows a lognormal distribu-
+tion of the form (1.1).
+         To understand where the outliers come from, imagine, that
+Scientist A has the same capabilities as Scientist B in all factors, except
+that A is twice as good at solving a problem (F2), knowing when to stop
+(F4), and determination (F7). As a result, A’s productivity will be eight
+times higher than B’s. In other words, for each paper published by
+
+[p. 14] [PDF page 32]
+
+Scientist B, Scientist A will publish eight. Hence small differences in
+scientists’ ability to clear individual hurdles can together lead to large
+variations in overall productivity.
+         Shockley’s model not only explains why productivity follows
+lognormal distribution, but it also offers a framework to improve our
+own productivity. Indeed, the model reminds us that publishing a paper
+does not hinge on a single factor, like having a great idea. Rather, it
+requires scientists to excel at multiple factors. When we see someone
+who is hyper-productive, we tend to attribute it to a single exceptional
+factor. Professor X is really good at coming up with new problems (F1),
+or conveying her ideas in writing (F5). The model suggests, however,
+that the outliers are unlikely to be explained by a single factor; rather, a
+researcher is most productive when she excels across many factors and
+fails in none.
+         The hurdle model indicates that a single weak point can
+choke an individual’s productivity, even if he or she has many
+strengths. It also tells us that Erdős may have not been as super-
+human as we often think he was, or that his productivity might be
+attainable with careful honing of various skills. Indeed, if we could
+improve at every step of writing a paper, and even if it’s just a tiny bit
+in each step, these improvements can combine to exponentially
+enhance productivity. Admittedly, this is easier said than done. But
+you can use this list to diagnose yourself: What step handicaps your
+productivity the most?
+         The remarkable variations in productivity have implications
+for reward. Indeed, Shockley made another key observation: while
+the productivity of a scientist is multiplicative, his salary – a form of
+reward often tied to performance – is additive. The highest paid
+employees earn at best about 50–100 percent more than their peers.
+There are many reasons why this is the case – it certainly seems fairer,
+and it helps ensure a collaborative environment. Yet, from a paper-
+per-dollar perspective, Shockley’s findings raise some interesting ques-
+tions about whether the discrepancy between additive salaries and
+multiplicative productivities could be exploited. Indeed, an institution
+may be better off employing a few star scientists, even if that means
+paying them a great deal more than their peers. Shockley’s arguments
+are often used as a rationale for why top individuals at research-
+intensive institutions are offered much higher salaries and special
+
+[p. 15] [PDF page 33]
+
+perks, and why top departments within a university get disproportio-
+nately more funding and resources.
+         To be sure, gauging a career based on publication count
+alone grossly misrepresents how science works. Yet, individual prod-
+uctivity has been shown to closely correlate with the eminence of a
+scientist as well as her perceived contributions to the field. This
+pattern was documented by Wayne Dennis, dating back at least to
+1954 [1], when he studied 71 members of the US National Academy
+of Sciences and eminent European scientists. He found that, almost
+without exception, highly productive individuals have also achieved
+scientific eminence, as demonstrated by their listing in the Encyclo-
+pedia Britannica or in histories of important developments they have
+contributed to the sciences. Higher productivity has been shown to
+increase the odds of receiving tenure [17], and of securing funding
+for future research [18]. At the institutional level, the publication
+rates of the faculty are not only a reliable predictor of a program’s
+reputation, they also influence the placement of graduates into fac-
+ulty jobs [19].
+         In sum, sustained high productivity is rare, but it correlates with
+scientific impact and eminence. Given this evidence, it may appear that
+productivity is the key indicator for a meaningful career in science. Yet,
+as we show in the following chapters, among the many metrics used to
+quantify scientific excellence, productivity is the least predictive. The
+reason is simple: While great scientists tend to be very productive, not
+all scientists who are productive make long-lasting contributions. In
+fact, most of them do not. Multiple paths can lead to achieving high
+productivity. For example, lab technicians in certain fields may find
+their names on more than a hundred – or sometimes as many as a
+thousand – papers. Hence, they appear to be exceptionally prolific
+based on their publication counts, but are rarely credited as the intellec-
+tual owner of the research. The way people publish is also changing
+[20]. Coauthorship is on the rise, as are multiple publications on
+the same data. There have also been more discussions about LPUs,
+which stands for least publishable unit [20] or the “salami publishing”
+approach, which could further contribute to inflated productivity
+counts.
+         So, if productivity is not the defining factor of a successful
+career, what is?
+
+[p. 16] [PDF page 34]
+
+Box 1.2 Name disambiguation
+Our ability to accurately track individual productivity relies on our skill to
+identify the individual(s) who wrote a paper and all other work that
+belongs to that individual [21, 22]. This seemingly simple task represents
+a major unsolved problem [21–23], limited by four challenges. First, a
+single individual may appear in print under multiple names because of
+orthographic and spelling variants, misspellings, name changes due to
+marriage, religious conversion, gender reassignment, or the use of pen
+names. Second, some common names can be shared by multiple individ-
+uals. Third, the necessary metadata is often incomplete or missing. This
+includes cases where publishers and bibliographic databases failed to
+record authors’ first names, their geographical locations, or other identify-
+ing information. Fourth, an increasing percentage of papers is not only
+multi-authored, but also represents multidisciplinary and multi-
+institutional efforts. In such cases, disambiguating some of the authors
+does not necessarily help assign the remaining authors.
+        While multiple efforts are underway to solve the name disambigu-
+ation problem, we need to be somewhat mindful about the results pre-
+sented in this and following chapters, as some conclusions may be affected
+by the limitations in disambiguation. In general, it is easier to disambigu-
+ate productive scientists, who have a long track record of papers, com-
+pared with those who have authored only a few publications. Therefore,
+many studies focus on highly productive scientists with unusually long
+careers instead of “normal” scientists.
+
+
+========================================================================
+Original Chapter 2: The h-Index
+========================================================================
+
+[p. 17] [PDF page 35]
+
+2                                          THE h-INDEX
+
+
+         Lev Landau, a giant of Russian physics, kept a handwritten list in
+his notebook, ranking physicists on a logarithmic scale of achievement
+and grading them into “leagues” [24]. According to Landau, Isaac
+Newton and Albert Einstein belonged to the highest rank, above anyone
+else: he gave Newton the rank 0 and Einstein a 0.5. The first league, a
+rank of 1, contains the founding fathers of quantum mechanics, scientists
+like Niels Bohr, Werner Heisenberg, Paul Dirac, and Erwin Schrödinger.
+Landau originally gave himself a modest 2.5, which he eventually ele-
+vated to 2 after discovering superfluidity, an achievement for which he
+was awarded the Nobel Prize. Landau’s classification system wasn’t
+limited to famous scientists, but included everyday physicists, who are
+given a rank of 5. In his 1988 talk “My Life with Landau: Homage of a 4
+1/2 to a 2,” David Mermin, who coauthored the legendary textbook
+Solid State Physics, rated himself a “struggling 4.5” [25].
+         When scientists leave league 5 behind and start approaching the
+likes of Landau and other founders of a discipline, it’s obvious that their
+research has impact and relevance. Yet for the rest of us, things are
+somewhat blurry. How do we quantify the cumulative impact of an
+individual’s research output? The challenge we face in answering this
+question is rooted in the fact that an individual’s scientific performance
+is not just about how many papers one publishes, but a convolution of
+productivity and impact, requiring us to balance the two aspects in a
+judicious manner.
+         Of the many metrics developed to evaluate and compare scien-
+tists, one stands out in its frequency of use: the h-index, proposed by
+
+[p. 18] [PDF page 36]
+
+Jorge E. Hirsch in 2005 [26]. What is the h-index, and how to calculate
+it? Why is it so effective in gauging scientific careers? Does it predict the
+future productivity and impact of a scientist? What are its limitations?
+And how do we overcome these limitations? Answering these questions
+is the aim of this chapter.
+
+
+2.1         The h-Index: Definitions and Implications
+         The index of a scientist is h if h of her papers have at least h
+citations and each of the remaining papers have less than h citations
+[26]. For example, if a scientist has an h-index of 20 (h = 20), it means
+that she has 20 papers with more than 20 citations, and the rest of her
+papers all have less than 20 citations. To measure h, we sort an individ-
+ual’s publications based on her citations, going from the most cited
+paper to the least cited ones. We can plot them on a figure, that shows
+the number of citations of each paper, resulting in a monotonically
+decreasing curve. Fig. 2.1 uses the careers of Albert Einstein and Peter
+Higgs as case studies showing how to calculate their h-index.
+         Is an h-index of 8, for example, impressive or modest? What is
+the expected h-index of a scientist? To answer these questions, let’s take
+a look at a simple but insightful model proposed by Hirsch [26].
+Imagine that a researcher publishes n papers each year. Let us also
+assume that each paper earns c new citations every year. Hence a
+paper’s citations increase linearly with its age. This simple model pre-
+dicts the scientist’s time dependent h-index as
+          c
+h¼             t:                                                                                   ð2:1Þ
+       1 þ c=n
+
+Therefore, if we define
+      1
+m  1 þ1 ,                                                                                          ð2:2Þ
+    =c =n
+
+we can rewrite (2.1) as
+
+h = mt,                                                                                            (2.3)
+
+indicating that a scientist’s h-index increases approximately linearly
+with time. Obviously, researchers don’t publish exactly the same
+number of papers every year (see Chapter 1), and citations to a
+paper follow varied temporal trajectories (as we will cover in
+
+[p. 19] [PDF page 37]
+
+(a)                 Einstein     = 67                  (b)                   Higgs      =8
+     104
+                                                          103
+                                         more
+                                         than
+     103                                                                                     more
+                                         citations                                           than
+                                                          102
+     102                                                                                     citations
+
+            first   papers                                101
+     101
+                                                                  first    papers
+
+     100                                                  100
+           100         100           101                        100                      101
+                              N                                                      N
+  Figure 2.1 The h-index of Albert Einstein (a) and Peter Higgs (b). To calculate
+the h-index, we plot the number of citations versus paper number, with papers listed
+in order of decreasing citations. The intersection of the 45 line with the curve gives
+h. The total number of citations is the area under the curve [26]. According to
+Microsoft Academic Graph, Einstein has an h-index of 67, and Higgs 8. The top
+three most cited papers by Einstein are: (1) Can quantum mechanical description of
+physical reality be considered complete, Physical Review, 1935; (2) Investigations
+on the theory of Brownian movement, Annalen der Physik, 1905; and (3) On the
+electrodynamics of moving bodies, Annalen der Physik, 1905. The top three for
+Higgs are: (1) Broken symmetries and the masses of gauge bosons, Physical Review
+Letters, 1964; (2) Broken symmetries, massless particles and gauge fields, Physics
+Letters, 1964; (3) Spontaneous symmetry breakdown without massless bosons,
+Physical Review, 1966.
+
+
+Chapter 19). Yet, despite the model’s simplicity, the linear relation-
+ship predicted by (2.3) holds up generally well for scientists with
+long scientific careers [26].
+        This linear relationship (2.3) has two important implications:
+(1) If a scientist’s h-index increases roughly linearly with time, then its
+    speed of growth is an important indicator of her eminence. In other
+    words, the differences between individuals can be characterized by
+    the slope, m. As (2.2) shows, m is a function of both n and c. So, if a
+    scientist has higher productivity (a larger n), or if her papers collect
+    more citations (higher c), she has a higher m. And the higher the m,
+    the more eminent is the scientist.
+(2) Based on typical values of m, the linear relationship (2.3) also
+    offers a guideline for how a typical career should evolve. For
+
+[p. 20] [PDF page 38]
+
+example, Hirsch suggested in 2005 that for a physicist at
+      major research universities, h  12 might be a typical value
+      for achieving tenure (i.e., the advancement to associate profes-
+      sor) and that h  18 might put a faculty member into consider-
+      ation for a full professorship. Fellowship in the American
+      Physical Society might typically occur around h  15–20, and
+      membership in the US National Academy of Sciences may
+      require h  45 or higher.
+         Since its introduction, the h-index has catalyzed a profusion of
+metrics and greatly popularized the idea of using objective indicators to
+quantify nebulous notions of scientific quality, impact or prestige [27].
+As a testament to its impact, Hirsh’s paper, published in 2005, had been
+cited more than 8,000 times as of the beginning of 2019, according to
+Google Scholar. It even prompted behavioral changes – some ethically
+questionable – with scientists adding self-citations for papers on the
+edge of their h-index, in hopes of boosting it [28–30]. Given its preva-
+lence, we must ask: can the h-index predict the future impact of a
+career?
+
+
+     Box 2.1 The Eddington number
+     The h-index for scientists is analogous to the Eddington number for
+     cyclists, named after Sir Arthur Eddington (1882–1944), an English
+     astronomer, physicist, and mathematician, famous for his work on the
+     theory of relativity. As a cycling enthusiast, Eddington devised a measure
+     of a cyclist’s long-distance riding achievements. The Eddington number,
+     E, is the number of days in your life when you have cycled more than E
+     miles. Hence an Eddington number of 70 would mean that the person in
+     question has cycled at least 70 miles a day on 70 occasions. Achieving a
+     high Eddington number is difficult, since jumping from, say, 70 to 75
+     may require more than 5 new long-distance rides. That’s because any
+     rides shorter than 75 miles will no longer be included. Those hoping to
+     increase their Eddington number are forced to plan ahead. It might be
+     easy to achieve an E of 15 by doing 15 trips of 15 miles – but turning that
+     E = 15 into an E = 16 could force a cyclist to start over, since an E number
+     of 16 only counts trips of 16 miles or more. Arthur Eddington, who
+     reached an E = 87 by the time he died in 1944, clearly understood that if
+     he wanted to achieve a high E number, he had to start banking long rides
+     early on.
+
+[p. 21] [PDF page 39]
+
+2.2         The Predictive Power of the h-Index
+         To understand the value of the h-index, let’s take a look at the
+“usual suspects” – metrics that are commonly used to evaluate a scien-
+tist’s performance, and review their strengths and limitations [26].
+
+(1) Total number of publications (N).
+    Advantage: Measures the productivity of an individual.
+    Disadvantage: Ignores the impact of papers.
+(2) Total number of citations (C).
+    Advantage: Measures a scientist’s total impact.
+    Disadvantage: It can be affected by a small number of big hits,
+       which may not be representative of the individual’s overall
+       career, especially when these big hits were coauthored with
+       others. It also gives undue weight to highly cited reviews as
+       opposed to original research contributions.
+(3) Citations per paper (C/N).
+    Advantage: Allows us to compare scientists of different ages.
+    Disadvantage: Outcomes can be skewed by highly cited papers.
+(4) The number of “significant papers,” with more than c citations.
+    Advantage: Eliminates the disadvantages of (1), (2), (3), and meas-
+       ure broad and sustained impact.
+    Disadvantage: The definition of “significant” introduces an arbi-
+       trary parameter, which favors some scientists or disfavors others.
+(5) The number of citations acquired by each of the q most-cited papers
+    (for example, q = 5).
+    Advantage: Overcomes many of the disadvantages discussed above.
+    Disadvantage: Does not provide a single number to characterize a
+       given career, making it more difficult to compare scientists to
+       each other. Further, the choice of q is arbitrary, favoring some
+       scientists while handicapping others.
+
+The key advantage of the h-index is that it sidesteps all of the
+disadvantages of the metrics listed above. But, is it more effective
+at gauging the impact of an individual’s work? When it comes to
+evaluating the predictive power of metrics, two questions are often
+the most relevant.
+
+Q1: Given the value of a metric at a certain time t1, how well does it
+ predict the value of itself or of another metric at a future time t2?
+
+[p. 22] [PDF page 40]
+
+This question is especially interesting for hiring decisions. For example,
+if one consideration regarding a faculty hire is the likelihood of the
+candidate to become a member of the National Academy of Sciences
+20 years down the line, then it would be useful to rank the candidates by
+their projected cumulative achievement after 20 years. Hirsch tested Q1
+by selecting a sample of condensed matter physicists and looked at their
+publication records during the first 12 years of their career and in the
+subsequent 12 years [31]. More specifically, he calculated four different
+metrics for each individual based on their career records in the first 12
+years, including the h-index (Fig. 2.2a), the total number of citations
+
+
+
+(a)                                                     (b)
+
+
+
+  c(t1)                                                   c(t1)
+
+
+
+
+                            h(t1)                                                  c(t1)
+
+
+(c)                                                     (d)
+
+
+  c(t2)                                                    c(t2)
+
+
+
+
+                           n(t1)                                                 c(t1) / n(t1)
+
+
+  Figure 2.2 Quantifying predictive power of the h-index. Scatter plots compare
+the total number of citations, C, after t2 = 24 years vs. the value of the various
+indicators at t1 = 12 year for each individual within the sample. Hirsch hypothesized
+C may grow quadratically with time, and hence used its square root when calculating
+the total number of citations. By calculating the correlation coefficient, he found that
+the h-index (a) and the number of citations at t1 (b) are the best predictors of the
+future cumulative citations at t2. The number of papers correlates less (c), and the
+number of citations per paper performs the worst (d). After Hirsch [31].
+
+[p. 23] [PDF page 41]
+
+(Fig. 2.2b), the total number of publications (Fig. 2.2c), and the average
+number of citations per paper (Fig. 2.2d). He then asked if we want to
+select candidates that have the most total citations by year 24, which
+one of the four indicators gives us the best chance? By measuring the
+correlation coefficient between future cumulative citations at time t2 and
+four different metrics calculated at time t1, he found that the h-index
+and the number of citations at time t1 turn out to be the best predictors
+(Fig. 2.2).
+         While Fig. 2.2 shows that the h-index predicts cumulative
+impact, in many cases it’s the future scientific output that matters the
+most. For example, if we’re deciding who should get a grant, how many
+more citations an applicant’s earlier papers are expected to collect in the
+next few years is largely irrelevant. We’re concerned, instead, with
+papers that the potential grantee has not yet written and the impact of
+those papers. Which brings us to Q2:
+
+Q2: How well do the different metrics predict future scientific output?
+
+To answer Q2, we need to use indicators obtained at t1 to predict
+scientific achievement occurring only in the subsequent period,
+thereby omitting all citations to work performed prior to t1.
+Hirsch repeated the similar prediction task for the four metrics,
+but this time used each of them to predict total citations accrued
+by papers published only in the next 12 years. Naturally, this is a
+more difficult task, but an important one for allocating research
+resources. Hirsch found that the h-index again emerges as the
+best predictor for achievement incurred purely in future time
+frame [31].
+        These findings indicate that two individuals with similar h are
+comparable in terms of their overall scientific achievement, even if their
+total number of papers or citations are quite different. Conversely, two
+individuals of the same scientific age can have a similar number of total
+papers or citation counts but very different h values. In this case, the
+researcher with the higher h is typically viewed by the community as the
+more accomplished. Together, these results highlight the key strength of
+the h-index: When evaluating scientists, it gives an easy but relatively
+accurate estimate of an individual’s overall scientific achievements.
+Yet at the same time, we must also ask: What are the limitations of
+the h-index?
+
+[p. 24] [PDF page 42]
+
+Box 2.2 The birth of the h-index
+     Since its inception, the h-index has been an integral part of a scientific life.
+     Its exceptional influence prompted us to reach out to Jorge Hirsch to ask
+     how he arrived to the measure. He kindly responded, writing:
+
+                I thought about it first in mid 2003, over the next weeks
+                I computed the h-index of everybody I knew and found that it
+                usually agreed with the impression I had of the scientist. Shared it
+                with colleagues in my department, several found it interesting.
+                   Mid June 2005 I wrote up a short draft paper, sent it to
+                4 colleagues here. One skimmed over it, liked it and made some
+                suggestions, one liked some of it and was nonplussed by some of
+                it, two didn’t respond. So I wasn’t sure what to do with it.
+                   Mid July 2005 I got out of the blue an email from Manuel
+                Cardona in Stuttgart saying he had heard about the index from
+                Dick Zallen at Virginia Tech who had heard about it from one of
+                my colleagues at UCSD (didn’t say who but I can guess). At that
+                point I decided to clean up the draft and post it in arXiv, which
+                I did August 3, 2005, still was not sure what to do with it.
+                Quickly got a lot of positive (and some negative) feedback, sent
+                it to PNAS August 15.
+
+
+
+
+2.3         Limitations of the h-Index
+         The main street of College Hill in Easton, Pennsylvania – the
+home of the Lafayette College – is named after James McKeen Cattell.
+As an American psychologist, Cattell played an instrumental role in
+establishing psychology as a legitimate science, advocacy that prompted
+the New York Times to call him “the dean of American science” in his
+obituary.
+         While many have thought of developing new metrics to system-
+ically evaluate their fellow researchers, Cattell was the first to popular-
+ize the idea of ranking scientists. He wrote in his 1910 book, American
+Men of Science: A Biographical Directory [32]: “It is surely time for
+scientific men to apply scientific method to determine the circumstances
+that promote or hinder the advancement of science.” So, today’s obses-
+sion of measuring impact using increasingly sophisticated yardsticks is
+
+[p. 25] [PDF page 43]
+
+by no means a modern phenomenon. Scientists have been sizing up their
+colleagues since the beginning of the discipline itself. A century after
+Cattell’s book, the need and the rationale for a reliable toolset to
+evaluate scientists has not changed [33].
+         As the h-index has become a frequently used metric of scientific
+achievements, we must be mindful about its limitations. For example,
+although a high h is a somewhat reliable indicator of high accomplish-
+ment, the converse is not necessarily always true [31]: an author with a
+relatively low h can achieve an exceptional scientific impact with a few
+seminal papers, such as the case of Peter Higgs (Fig. 2.1b). Conversely, a
+scientist with a high h achieved mostly through papers with many
+coauthors would be treated overly kindly by his or her h. Furthermore,
+there is considerable variation in citation distributions even within a
+given subfield, and subfields where large collaborations are typical (e.g.,
+high-energy experimental physics) will exhibit larger h values, suggest-
+ing that one should think about how to normalize h to more effectively
+compare and evaluate different scientists.
+         Next we discuss a few frequently mentioned limitations of the
+h-index, along with variants that can – at least to a certain degree –
+remedy them.
+
+ Highly cited papers. The main advantage of the h-index is that its
+  value is not boosted by a single runaway success. Yet this also means
+  that it neglects the most impactful work of a researcher. Indeed, once
+  a paper’s citations get above h, its relative importance becomes invis-
+  ible to the h-index. And herein lies the problem – not only do outlier
+  papers frequently define careers, they arguably are what define sci-
+  ence itself. Many remedies have been proposed to correct for this [34–
+  39], including the g-index (the highest number g of papers that
+  together received g2 or more citations [40, 41]) and the o-index (the
+  geometric mean of the number of citations gleaned   pffiffiffiffiffiffiby
+                                                                         ffiffi a scientist’s
+  highest cited papers c∗ and her h-index: o = c∗ h [42]). Other
+  measures proposed to correct this bias include a-index [36, 38];
+  h(2)-index [39]; hg-index [34]; q2-index [37]; and more [35].
+ Inter-field differences. Molecular biologists tend to get cited more
+  often than physicists who, in turn, are cited more often than math-
+  ematicians. Hence biologists typically have higher h-index than physi-
+  cists, and physicists tend to have an h-index that is higher than
+  mathematicians. To compare scientists across different fields, we
+
+[p. 26] [PDF page 44]
+
+must account for the field-dependent nature of citations [43]. This can
+  be achieved by the hg-index, which rescales the rank of each paper n
+  by the average number of papers written by author in the same year
+  and discipline, n0 [43] or the hs-index, which normalizes the h-index
+  by the average h of the authors in the same discipline [44].
+ Time dependence. As we discussed in Chapter 2.2, the h-index is time
+  dependent. When comparing scientists in different career stages, one
+  can use the m quotient (2.2) [26], or contemporary h-index [45].
+ Collaboration effects. Perhaps the greatest shortcoming of the h-index
+  is its inability to discriminate between authors that have very different
+  coauthorship patterns [46–48]. Consider two scientists with similar
+  h indices. The first one is usually the intellectual leader of his/her
+  papers, mostly coauthored with junior researchers, whereas the second
+  one is mostly a junior author on papers coauthored with eminent
+  scientists. Or consider the case where one author always publishes
+  alone whereas the other one routinely publishes with a large number
+  of coauthors. As far as the h-index is concerned, all these scientists are
+  indistinguishable. Several attempts have been proposed to account for
+  the collaboration effect, including fractionally allocating credit in
+  multi-authored papers [48–50], and counting different roles played
+  by each coauthor [51–54] by for example differentiating the first and
+  last authorships. Hirsch himself has also repeatedly acknowledged this
+  issue [46, 47], and proposed the hα-index to quantify an individual’s
+  scientific leadership for their collaborative outcomes [47]. Among all
+  the papers that contribute to the h-index of a scientist, only those
+  where he or she was the most senior author (the highest h-index among
+  all the coauthors) are counted toward the hα-index. This suggests that a
+  high h-index in conjunction with a high hα/h ratio is a hallmark of
+  scientific leadership [47].
+
+In addition to these variations of the h-index, there are other metrics to
+quantify the overall achievement of individual scientists, including the
+i10-index, used exclusively by Google Scholar [55], which computes the
+number of articles with at least 10 citations each; or the SARA method
+[56], which uses a diffusion algorithm that mimics the spreading of
+scientific credits on the citation network to quantify an individual’s
+scientific eminence. Despite the multitude of metrics attempting to
+correct the shortcomings of the h-index, to date no other bibliometric
+
+[p. 27] [PDF page 45]
+
+index has emerged as preferable to the h-index, cementing the status of
+the h-index as a widely used indicator of scientific achievement.
+          As we dug deeper into h-index and the voluminous body of
+work motivated by it, it was easy to forget a perhaps more important
+point: No scientist’s career can be summarized by a single number. Any
+metric, no matter how good it is at achieving its stated goal, has
+limitations that must be recognized before it is used to draw conclusions
+about a person’s productivity, the quality of her research, or her scien-
+tific impact. More importantly, a scientific career is not just about
+discoveries and citations. Rather, scientists are involved in much
+broader sets of activities including teaching, mentoring, organizing
+scientific meetings, reviewing, and serving on editorial boards, to name
+a few. As we encounter more metrics for scientific eminence, it’s import-
+ant to keep in mind that, while they may help us understand certain
+aspects of scientific output, none of them alone can capture the diverse
+contributions scientists make to our community and society [57, 58].
+Just as Einstein cautioned: “Many of the things you can count, don’t
+count. Many of the things you can’t count, do count.”
+          Therefore, we must keep in mind that the h-index is merely a
+proxy to quantify scientific eminence and achievement. But the problem
+is, in science, status truly matters, influencing the perception of quality
+and importance of one’s work. That’s what we will focus on in the next
+chapter, asking if and when status matters, and by how much.
+
+
+========================================================================
+Original Chapter 3: The Matthew Effect
+========================================================================
+
+[p. 28] [PDF page 46]
+
+3                              THE MATTHEW EFFECT
+
+
+         Lord Rayleigh is a giant of physics, with several laws of nature
+carrying his name. He is also known beyond the profession thanks to
+Rayleigh scattering, which answers the proverbial question, “Why is the
+sky blue?” Rayleigh was already a respected scientist when, in 1886, he
+submitted a new paper to the British Association for the Advancement
+of Science to discuss some paradoxes of electrodynamics. The paper was
+promptly rejected on the grounds that it did not meet the journal’s
+expectation of relevance and quality. Yet, shortly after the decision,
+the editors reversed course. Not because anything changed about the
+paper itself. Rather, it turns out that Rayleigh’s name had been inadvert-
+ently omitted from the paper when it was first submitted. Once the
+editors realized it was Rayleigh’s work, it was immediately accepted
+with profuse apologies [59, 60]. In other words, what was initially
+viewed as the scribblings of some “paradoxer,” suddenly became worth
+publishing once it became clear that it was the work of a world-
+renowned scientist.
+         This anecdote highlights a signaling mechanism critical in sci-
+ence: the role of scientific reputation. Robert K. Merton in 1968 [60]
+called this the Matthew effect after a verse in the biblical Gospel of
+Matthew pertaining to Jesus’ parable of the talents: “For to everyone
+who has will more be given, and he will have an abundance. But from
+the one who has not, even what he has will be taken away.” The
+Matthew effect as a concept has been independently discovered in
+multiple disciplines over the last century, and we will encounter it again
+in Chapter 17, when we discuss citations. In the context of careers, the
+
+[p. 29] [PDF page 47]
+
+Matthew effect implies that a scientist’s status and reputation alone
+can bring additional attention and recognition. This means that status
+not only influences the community’s perception of the scientist’s cred-
+ibility, playing an important role in how her work is evaluated, but it
+also translates into tangible assets – from research funding to access to
+outstanding students and collaborators – which in turn further
+improve her reputation. The goal of this chapter is to unpack the role
+of the Matthew effect in careers. When does it matter? And to what
+extent?
+
+
+3.1         What’s in a Name?
+         The Internet Engineering Task Force (IETF) is a community of
+engineers and computer scientists who develop the protocols that run
+the Internet. To ensure quality and functionality, engineers must submit
+all new protocols as manuscripts that undergo rigorous peer review. For
+a while, each manuscript included the name of every author. However,
+beginning in 1999, some manuscripts replaced the full author list with a
+generic “et al.,” concealing the name of some authors from the review
+committee.
+         By comparing cases where well-known authors were hidden by
+the et al. label with those where the hidden names were little-known,
+researchers effectively conducted a real-world Lord Rayleigh experi-
+ment [61]. They found that when an eminent name was present on a
+submission, like the chair of a working group, which signals profes-
+sional standing, the submission was 9.4 percent more likely to be
+published. However, the “chair effect” declined by 7.2 percent when
+the senior author’s name was masked by the et al. label. In other words,
+name-based signaling accounts for roughly 77 percent of the benefits of
+having an experienced author as a coauthor on the manuscript.
+         Interestingly, when the analysis was restricted to a small pool
+of manuscripts that were “pre-screened,” or closely scrutinized, the
+author name premium disappeared. This suggests that the status effect
+only existed when the referees were dealing with high submission rates.
+In other words, when the reviewers do actually read the manuscript,
+carefully judging their content, status signals tend to disappear.
+         Given the exponential growth of science, we frequently encoun-
+ter the “too many to read” situations. Yet, typically, peer review is a
+rather involved process, with multiple rounds of communication
+
+[p. 30] [PDF page 48]
+
+between authors and expert reviewers, suggesting that the status signal-
+ing may be less of a concern for scientific manuscripts. Indeed, through
+those rebuttals and revisions, an objective assessment of the work is
+expected to prevail. Yet, as we see next, the status effect is rarely
+eliminated.
+         Whether an author’s status affects the perceived quality of his/
+her papers has been long debated in the scientific community. To truly
+assess the role of status, we need randomized control experiments,
+where the same manuscript undergoes two separate reviews, one in
+which the author identities are revealed and another in which they are
+hidden. For obvious ethical and logistical reasons, such an experiment
+is difficult to carry out. Yet, in 2017, a team of researchers at Google
+were asked to co-chair the program of the Tenth Association for
+Computing Machinery International Conference on Web Search and
+Data Mining (WSDM), a highly selective computer science conference
+with a 15.6 percent acceptance rate. The researchers decided to use the
+assignment as a chance to assess the importance of status for a paper’s
+acceptance [62].
+         There are multiple ways to conduct peer review. The most
+common is the “single-blind” review, when the reviewers are fully
+aware of the identity of the authors and the institution where they
+work, but, the authors of the paper are not privy to the reviewer’s
+identity. In contrast, in “double-blind” review, neither the authors nor
+the reviewers know each other’s identity. For the 2017 WSDM confer-
+ence the reviewers on the program committee were randomly split into a
+single-blind and a double-blind group. Each paper was assigned to four
+reviewers, two from the single-blind group and two from the double-
+blind group. In other words, two groups of referees were asked to
+independently judge the same paper, where one group was aware of
+who the authors were, while the other was not.
+         Given the Lord Rayleigh example, the results were not surpris-
+ing: Well-known author – defined as having at least three papers
+accepted by previous WSDM conferences and at least 100 computer
+science papers in total – were 63 percent more likely to have the paper
+accepted under single-blind review than in double-blind review. The
+papers under review in these two processes were exactly the same,
+therefore, the difference in acceptance rate can only be explained by
+author identity. Similarly, authors from top universities had a 58 percent
+increase in acceptance once their affiliation was known. Further, for
+
+[p. 31] [PDF page 49]
+
+authors working at Google, Facebook, or Microsoft, considered presti-
+gious institutions in computer science, the acceptance rate more than
+doubled, increasing by 110 percent.
+        These results indicate that in science we do rely on reputation –
+captured by both author identity and institution prestige – when we
+judge a scientific paper. While we may debate whether the use of such
+information helps us make better or worse decisions, status signaling
+plays a key role in getting published in prestigious venues.
+
+
+     Box 3.1 Double blind vs. single blind
+     If two papers are identical except that one is written by an unknown
+     scientist while the other by a researcher of considerable reputation, they
+     obviously should have an equal chance of being published. Yet, this may
+     only happen if the reviews are double-blind. Isn’t this a strong reason for
+     all science to switch to a double-blind review? New evidence shows that
+     this simple question may not have a simple answer.
+             An experiment performed by Nature shows that making double-
+     blind review optional does not solve the problem [63]. Nature started to
+     offer the option of double-blind review in 2015. Analyzing all papers
+     received between March 2015 and February 2017 by 25 Nature-branded
+     journals, researchers found that corresponding authors from less presti-
+     gious institutions were more likely to choose double-blind review, presum-
+     ably as an attempt to correct for pre-existing biases. However, the success
+     rate at both first decision and peer review was significantly lower for
+     double-blind than single-blind reviewed papers.
+             Take Nature, the flagship journal, as an example. Under a single-
+     blind process, the odds of your paper to be sent out for review is 23
+     percent. But if you opt for a double-blind review, those odds drop to 8
+     percent. The prospects don’t improve once the paper is reviewed: The
+     likelihood that your paper is accepted after review is around 44 percent
+     for single-blind submissions but only 25 percent for double-blind papers.
+     In other words, referees are more critical if they are unaware of an author’s
+     identity. And these differences matter: If you multiply the probabilities
+     of being sent out for review and acceptance after review, the chances of
+     your paper being accepted in Nature through the double-blind review
+     process is a staggering 2 percent. While a single-blind review is still a long
+     shot, it has a success rate of 10.1 percent. In other words, your odds of
+     acceptance may drop as much as five-fold by simply selecting the double-
+     blind option.
+
+[p. 32] [PDF page 50]
+
+A possible explanation for the observed difference is the quality of
+     papers [63]. Indeed, papers by less-known authors or from less prestigious
+     institutions may not report research of the same quality as those coming
+     from experienced authors from elite institutions. This argument is refuted
+     by a randomized experiment conducted at the American Economic Review
+     (AER) [64], an influential journal in economics. From May 1987 to May
+     1989, AER ran a randomized experiment on submitted papers, assigning
+     one-half to a double-blind review process and the other half to single-blind
+     one. Because the experiment was randomized, there was no quality differ-
+     ence between the two piles. Yet, the acceptance rate was still much lower
+     for papers in the double-blind group.
+             These results suggest positive discrimination as a more likely explan-
+     ation: authors with perceived status are subject of the benefit of the doubt,
+     whereas those without the status get extra scrutiny on issues from research
+     design to methodology. Yet, it is difficult to find objective reasons why
+     double-blind review should not be the norm of scientific publishing. Its
+     widespread use would level the playing field, lowering the hold of research-
+     ers with status – whether earned through the impact of previous work, or
+     simply through affiliation with highly prestigious institutions.
+
+
+
+
+3.2         Boosting Impact
+          A scientist’s reputation facilitates the publication of her paper, but
+does it also affect the long-term impact of their discoveries? While accept-
+ance only requires a momentary consensus among reviewers, its impact is
+driven by the broader consensus of the scientific community, who may
+choose to build further on the work, or may simply ignore it. Do papers
+published by a well-known scientist also enjoy an impact premium?
+          But, how do we measure reputation? A good starting point may
+be ci(t), representing the total citation count of all papers an author has
+published prior to a new paper’s publication [65, 66]. Indeed, ci(t)
+combines both productivity (the number of papers published by an
+author) and impact (how often these papers are cited by others), which
+together offer a reasonable proxy of the author’s name recognition
+within her research community.
+          The rate at which a paper acquires new citations tends to be
+proportional to how many citations the paper has already collected [67,
+68]. Indeed, highly cited papers are more read, hence are more likely to be
+
+[p. 33] [PDF page 51]
+
+cited again. This phenomenon is called preferential attachment, which we
+will discuss again in detail in Chapter 17. To see how an author’s
+reputation affects the impact of her publications, we can measure the
+early citation premium for well-known authors [65]. For example, for
+a group of well-known physicists, their paper has acquired around 40
+citations (cx  40) before preferential attachment turns on (Fig. 3.1). In
+contrast, for junior faculty in physics (assistant professors), cx drops from
+40 to 10. In other words, right after its publication, a senior author’s
+paper appears four times more likely to be cited than a junior author’s.
+         Figure 3.1 suggests that reputation plays an important role
+early on, when the number of citations is small (i.e., when c < cx).
+Yet, with time, the reputation effect fades away, and the paper’s long-
+term impact is primarily driven by mechanisms inherent to papers
+rather than their authors. In other words, well-known authors enjoy
+an early citation premium, representing better odds of their work to be
+noticed by the community. This leads to a leg-up in early citations. But
+with time, this reputation effect vanishes, and preferential attachment
+takes over, whose rate is driven primarily by the collective perception of
+the inherent value of the discovery.
+         The reputation boost discussed above is not limited to new
+papers. Eminence can spill over to earlier works as well, boosting their
+impact. Sudden recognitions, like receiving the Nobel Prize, allow us
+to quantify this effect. Consider, for example, John Fenn, who received
+the 2002 Nobel Prize in chemistry for the development of the
+
+
+
+
+                                        40
+
+
+
+
+                                  Citations,
+
+              Figure 3.1 The cross-over effect of reputation on citations. The linear
+            attachment rate breaks down for c < cx, suggesting that additional forces
+            provide a citation boost which elevates c(t) to deviate from what is
+            predicted by the pure preferential attachment mechanism. Datasets include
+            100 top-cited physicists, and another 100 highly prolific physicists. After
+            Petersen et al. [65].
+
+[p. 34] [PDF page 52]
+
+electrospray ionization technique. His original discovery, published in
+Science in 1989 [69], is Fenn’s most cited work, collecting close to
+8,500 citations by 2018 according to Google Scholar. But as his
+landmark paper started to collect citations at an exceptional rate
+following its publication, the citation rates of several of Fenn’s older
+papers also started to grow at a higher pace. Analyses of 124 Nobel
+laureates show that this boost is common [70]: The publication of a
+major discovery increases the citation rates of papers the author pub-
+lished before. Interestingly, the older papers that enjoyed the citation
+boosts are not necessarily related to the topic of the new discovery. In
+other words, reputational signaling operates by bringing professional
+attention to the individual. Consequently, when an author becomes
+prominent in one area of science, her reputation may be extended to
+her other line of work, even in unrelated fields.
+
+     Box 3.2 From boom to bust: The reverse Matthew effect
+     If a major breakthrough blesses both past and future scholarship, what
+     does a scandal do to a career? Scientists are certainly fallible, and the
+     scientific community regularly confronts major mistakes or misconduct.
+     These incidents lead to retractions of articles, particularly in top journals
+     [71], where they receive enhanced scrutiny. To what degree does a
+     retracted paper affect a scientific career? Are eminent authors affected
+     more or less severely than their junior colleagues? While retractions are
+     good for science, helping other researchers avoid false hypotheses, retrac-
+     tions are never good for the authors of the retracted paper: they experience
+     a spillover, leading to citation losses to their prior body of work as well
+     [72–74]. The negative impact is not distributed equally, however: Eminent
+     scientists are more harshly penalized for their retracted papers than when
+     retractions happen to their less-distinguished peers [74]. Importantly, this
+     conclusion only holds when the retractions involve fraud or misconduct.
+     In other words, when the retraction is perceived to be the consequence of
+     an “honest mistake,” the penalty differential between high- and low-status
+     authors disappears [74].
+             When a senior and junior scientists are on the same retracted paper,
+     however, the status penalty becomes quite different [75]: Senior authors
+     often escape mostly unscathed, whereas their junior collaborators carry
+     the blame, sometimes even to a career-ending degree. We will return to this
+     effect in Chapter 13, where we explore the benefits and the drawbacks of
+     collaborative work.
+
+[p. 35] [PDF page 53]
+
+3.3         Is it Really the Matthew Effect After All?
+         Great scientists are seldom one-hit wonders [60, 76]. Newton is a
+prime example: beyond the Newtonian mechanics, he developed the
+theory of gravitation, calculus, laws of motion, optics, and optimization.
+In fact, well-known scientists are often involved in multiple discoveries,
+another phenomenon potentially explained by the Matthew effect.
+Indeed, an initial success may offer a scientist legitimacy, improve peer
+perception, provide knowledge of how to score and win, enhance social
+status, and attract resources and quality collaborators, each of these
+payoffs further increasing her odds of scoring another win. Yet, there is
+an appealing alternative explanation: Great scientists have multiple hits
+and consistently succeed in their scientific endeavors simply because
+they’re exceptionally talented. Therefore, future success again goes to
+those who have had success earlier, not because of advantages offered
+by the previous success, but because the earlier success was indicative of a
+hidden talent. The Matthew effect posits that success alone increases the
+future probability of success, raising the question: Does status dictate
+outcomes, or does it simply reflect an underlying talent or quality? In
+other words, is there really a Matthew effect after all?
+         Why should we care about which is the more likely explan-
+ation, if the outcome is the same? Indeed, independent of the mechan-
+ism, people who have previously succeeded are more likely to succeed
+again in the future. But, if innate differences in talent is the only reason
+why some people succeed while others don’t, it means that the deck is
+simply stacked in favor of some – at the expense of others – from the
+outset. If, however, the Matthew effect is real, each success you experi-
+ence will better your future chances. You may not be Einstein, but if you
+are lucky to get that early win, you may narrow the gap between
+yourself and someone of his eminence, as your success snowballs.
+         Unfortunately, it is rather difficult to distinguish these two
+competing theories, as they yield similar empirical observations. One
+test of these contrasting hypotheses was inspired by the French Acad-
+emy’s mythical “41st chair.” The Academy decided early on to have
+only 40 seats, limiting its membership to 40 so-called “immortals,” and
+would only consider nominations or applications for new members if
+one of the seats became vacant through the death of a member. Given
+this restriction, many deserving individuals were never elected into the
+Academy, being eternally delegated to the 41st chair. It’s a crowded
+
+[p. 36] [PDF page 54]
+
+seat, shared by true immortals like Descartes, Pascal, Molière, Rous-
+seau, Saint-Simon, Diderot, Stendahl, Flauberta, Zola, and Proust [60].
+At the same time, many of those who did hold a seat in the esteemed
+club are (unfortunately) utterly irrelevant to us today. With time, the
+41st chair became a symbol of the many talented scientists who should
+have been, but were never, recognized as giants of their discipline.
+         But, does it actually matter if someone is formally recognized or
+not? Indeed, how does the post-award perception of major prizewinners
+compare to scientists who had comparable performance, but who were
+not officially recognized? In other words, how does the career of those
+that occupied the 41st chair differed, had they been elected to the French
+Academy? The answer is provided by a study, exploring the impact of a
+major status-conferring prize [77].
+         As a prestigious private funding organization for biomedical
+research in the United States, the Howard Hughes Medical Institute
+(HHMI) selects “people, not projects,” generously supporting scientists
+rather than awarding them grants for specific peer-reviewed research
+proposals. The HHMI offers about US$1 million per investigator each
+year, providing long-term, flexible funding that allows awardees the
+freedom to follow their instincts, and if necessary, change research direc-
+tions. Beyond the monetary freedom, being appointed an HHMI investi-
+gator is seen as a highly prestigious honor. To measure the impact of the
+HHMI award, the challenge is to create a control group of scientists who
+were close contenders but who were not selected for the award and
+compare their scientific outputs with those of the HHMI investigators.
+         But, let’s assume that we identify this control group of scientists,
+and do find evidence that HHMI investigators have more impact. How can
+we know that the difference is purely because of their newfound status?
+After all, the US$1 million annual grant gives them the resources to do
+better work. To sort this out, we can focus only on articles written by the
+awardees before they received the award. Therefore, any citation differ-
+ences between the two groups couldn’t be simply the result of the superior
+resources offered to awardees. Sure enough, the analysis uncovered a post-
+appointment citation boost to earlier works, offering evidence that in
+science, the haves are indeed more likely to have more than the have-nots.
+         This success-breeds-success effect is not limited to HHMI inves-
+tigators. When a scientist moves from a laureate-to-be to a Nobel
+laureate, her previously published work – whether of Nobel prize-
+winning caliber or not – gathers far more attention [78]. Once again,
+
+[p. 37] [PDF page 55]
+
+like the case of John Fenn discussed above, a person’s previous work
+doesn’t change when she becomes an HHMI investigator or a Nobel
+laureate. But with new accolades casting warm light on her contribu-
+tion, attention to her work increases.
+         Interestingly, though, strictly controlled tests suggest that status
+has only a modest role on impact, and that role is limited to a short
+window of time. Consistent with theories of the Matthew effect, a prize
+has a significantly larger effect when there is uncertainty about article
+quality, and when prizewinners are of (relatively) low status at the time of
+the award. Together, these results suggest that while the standard
+approach to estimating the effect of status on performance is likely to
+overstate its true influence, prestigious scientists do garner greater recog-
+nition for their outputs, offering further support for the Matthew effect.
+
+
+
+     Box 3.3 Causal evidence for the Matthew effect: Field
+     experiments
+     Randomized experiments offer the best way to untangle the role of status
+     from individual differences such as talent. We can select two groups – a
+     control and a treatment group – and randomly assign an advantage to
+     some while denying it to others. If success is allocated independent of prior
+     success or status, any discrepancy in the subsequent advantage of recipi-
+     ents over non-recipients can only be attributed to the exogenously allo-
+     cated early success.
+            While we can’t assign life-altering awards or grants to randomly
+     chosen scientists [79], we can explore the phenomenon using experiments
+     carried out in real-world settings where the intervention causes minimal
+     harm. This is what Arnout van de Rijt and his collaborators did in a series
+     of experiments [80, 81]. They randomly selected the most productive
+     Wikipedia contributors within a subset of the top 1 percent of editors
+     and randomly assigned them to one of two groups. Then they gave out
+     “barnstars” to the experimental group – an award used within the com-
+     munity to recognize outstanding editors, while leaving the control group
+     unrecognized. As shown in Fig. 3.2, prior to intervention, the activities of
+     the two groups are indistinguishable, as they were drawn randomly from
+     the same sample of productive editors. Yet once the fake barnstars
+     were bestowed on the experimental group, the awardees exhibited more
+     engagement than their peers in the control group, demonstrating greater
+     sustained productivity and less likelihood of discontinuing their editorial
+
+[p. 38] [PDF page 56]
+
+3.00
+                                                                                                          2.94
+
+
+
+
+Running total / pre-treatment total
+                                                                                                          2.21
+                                      2.00
+
+
+
+
+                                      1.00                                                   Experiment
+                                                                                             Control
+                                                                                             Award received
+
+                                      0.00
+
+                                             -30             0            30            60             90
+
+                                                                 Days since treatment
+
+  Figure 3.2 The Matthew effect: Evidence from a field experiment.
+Researchers randomly assigned Wikipedia editors into two groups, then
+awarded barnstars to the experimental group, and did nothing for the control
+group. Circles show when the editors received additional real awards after the
+treatment. Twelve subjects in the experimental group received a total of 14
+awards, whereas only two subjects in the control condition received a total of
+three awards. After Restivo and van de Rijt [80].
+
+activity. Indeed, receiving a barnstar increased median productivity by
+60 percent compared to the control group. Most importantly, they also
+went on to win many more real barnstars from other editors. These
+additional awards were not just due to their increased productivity, since
+within the experimental group, the awarded individuals were not more
+active than those who received no additional barnstars. The observed
+success-breeds-success phenomenon was shown to persist across domains
+of crowdfunding, status, endorsement, and reputation [81], documenting
+that initial endowments, even if they are arbitrary, can create lasting
+disparities in individual success, and offering causal evidence for the
+Matthew effect.

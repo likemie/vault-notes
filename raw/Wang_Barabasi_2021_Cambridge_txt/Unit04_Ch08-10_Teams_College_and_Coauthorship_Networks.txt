@@ -1,0 +1,1101 @@
+The Science of Science
+Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
+
+Reading Unit 04: Teams College and Coauthorship Networks
+Original chapters: 8, 9, 10
+Main chapter pages: 85–109 (25 pages; supplements excluded)
+
+[Reading units follow the agreed thematic grouping. Original chapter numbers, titles, text and page markers are retained. References.txt contains the complete numbered reference list for all units. Original section text has not been rewritten.]
+
+Original chapter contents:
+Chapter 8: The Increasing Dominance of Teams in Science (pp. 85–94)
+Chapter 9: The Invisible College (pp. 95–101)
+Chapter 10: Coauthorship Networks (pp. 102–109)
+
+
+========================================================================
+Part II opening: The Science of Collaboration
+========================================================================
+
+[p. 81] [PDF page 99]
+
+Part
+     II THE SCIENCE OF COLLABORATION
+
+         In 2015, Marco Drago was a postdoctoral researcher at the
+Albert Einstein Institute in Hannover, Germany, working on the Laser
+Interferometer Gravitational-Wave Observatory (LIGO) experiment.
+The project’s goal was to detect gravitational waves – ripples in the
+fabric of spacetime caused by the collision and merging of two black
+holes. Drago spent most of his time overseeing one of four data “pipe-
+lines” – automated computer systems which scoured the raw data
+coming from the LIGO detectors for unusual signals. Just before lunch
+on September 14, 2015, while on the phone with a colleague, he
+received an automated email alert notifying him that the 4 km-long
+tunnels housing sensitive laser beams in ultrahigh vacuum, had just
+vibrated. Such an event was not uncommon, but as Drago clicked open
+the email, he quickly realized this one was different. The event it
+reported was huge by LIGO’s standards. While the vibration was less
+than a trillionth of an inch, that was more than double the size of a
+typical event. It was so large, in fact, that Drago instantly dismissed it. It
+seemed too good to be true.
+         It took another five months to officially confirm the truth
+behind the September 14 event. As announced on February 12,
+2016, the event registered by the automated email had been the real
+deal. That tiny signal told us that about 1.3 billion years ago, across
+the Universe, two black holes collided, forming a new black hole that
+was 62 times as heavy as our Sun. Their collision radiated 100 times
+more energy than all the stars in the Universe combined, generating
+gravitational waves that rippled in every direction. Weakening as they
+
+[p. 82] [PDF page 100]
+
+traveled through space at the speed of light, the waves finally reached
+Earth on that quiet September morning in 2015, shaking the detectors
+by about a thousandth of the diameter of a proton. That vibration
+validated the prediction of Albert Einstein’s general theory of relativ-
+ity, becoming, according to some, the “discovery of the twenty-first
+century.”
+         While Drago was the lucky person who saw the signal first, it
+wasn’t really his discovery. An international team of scientists spent
+over 40 years building the experiment, and when the paper reporting
+the detection of gravitational waves was finally published, it listed over
+1,000 authors from all over the world [135]. There were the physicists
+who dreamed up the project and calculated its feasibility, the engineers
+who designed the tunnels, and the administrative staff who oversaw the
+day to day operations. At US$1.1 billion, LIGO is still the largest and
+most ambitious project ever funded by the US National Science
+Foundation (NSF).
+         By contrast, when the Prussian Academy of Science first heard
+about what would be deemed the “discovery of the twentieth century”
+in November 1915, it had a single author, Albert Einstein. Occurring
+exactly 100 years apart, these two discoveries reveal an important way
+that science has changed over the past century. We imagine science as a
+solitary endeavor, picturing Einstein, Darwin, and Hawking on solo
+journeys, inching toward that “Eureka!” moment. Yet today, most
+science is carried out by teams [136, 137]. Indeed, 90 percent of all
+science and engineering publications are written by multiple authors.
+These can be two-person teams, such as Watson and Crick, who
+unveiled the structure of DNA, but many important discoveries are
+made through large-scale collaborations, like those pursued at CERN,
+the Manhattan Project, or Project Apollo. Scientific teams have pro-
+duced breakthroughs that could not have been achieved by lone investi-
+gators. And such large-scale team projects often have an enormous
+impact, not just on science, but on the economy and society. Take for
+example the Human Genome Project. It not only jump started the
+genomic revolution; its direct expenditures of about US$3.8 billion also
+generated US$796 billion in economic growth and created 310,000 jobs
+[138]. However, these kinds of massive collaborations also introduce a
+new set of unique challenges for scientists, from team communication to
+coordination, which, if left unaddressed, could jeopardize the success of
+their projects.
+
+[p. 83] [PDF page 101]
+
+Why are some collaborations impactful, fruitful, and lasting,
+while others fail (at times, spectacularly)? What factors help or hinder
+the effectiveness of teams? How do we assemble a highly productive
+team? Is there an optimal size for the team? How do teams evolve and
+dissolve over time, and how can they maintain and diversify their mem-
+bership? And how do we assign credit for a team’s work? In Part II, we
+focus on the rich body of literature that is often called the science of
+team science (SciTS), examining how scientists collaborate and work
+together in teams. We start by asking a simple question: Do teams matter
+in science?
+
+
+========================================================================
+Original Chapter 8: The Increasing Dominance of Teams in Science
+========================================================================
+
+[p. 85] [PDF page 103]
+
+THE INCREASING DOMINANCE OF
+        8                        TEAMS IN SCIENCE
+
+         To what degree do teams contribute to the production of science
+in the twenty-first century? The answer is provided by a study that
+explored the authorship of 19.9 million research articles and 2.1 million
+patents [136], revealing a nearly universal shift towards teams in all
+branches of science (Fig. 8.1a). For example, in 1955, nearly half of all
+science and engineering publications were by single authors, but by 2000,
+the number of solo-authored papers had dwindled dramatically, while
+team-authored papers now made up 80 percent of all publications.
+Importantly, the shift toward teams is not simply driven by the fact that
+the experimental challenges are becoming larger, more complex, and
+more expensive. Pencil-and-paper disciplines like mathematics and the
+social sciences exhibit the same patterns. Teams wrote only 17.5 percent
+of social science papers in 1955, but, by 2000, team-based papers became
+the majority, reaching 51.5 percent – witnessing the same trend toward
+teamwork as had been observed decades earlier in the natural sciences.
+         But perhaps more interesting than the trend itself is the kind of
+research that team work has produced. Teams do not merely produce
+more science; they are increasingly responsible for discoveries with
+larger impacts [136]. Indeed, on average, team-authored papers garner
+more citations than single-authored work at all points in time and
+across all broad research areas (Fig. 8.1b).1
+
+1
+    It may be tempting to attribute the higher impact of team-authored papers to self-promotion:
+    Authors like to cite their own work, so the more authors a paper has, the more citations it’s
+    guaranteed to get. Yet, the higher impact of team-authored paper remains unchanged if we
+    remove self-citations [139, 140].
+
+[p. 86] [PDF page 104]
+
+(a)                                                              (b)
+             100                                                                         10
+
+
+
+
+                                                                  Relative team impact
+                  80
+
+
+
+
+ Authorship (%)
+                  60
+
+                  40
+
+                  20
+
+                  0                                                                      1
+                         1960   1970      1980   1990      2000                               1960   1970   1980   1990   2000
+
+                                       Arts & humanities                         Science & engineering
+                                       Patents                                   Social sciences
+
+  Figure 8.1 The growing dominance of teams. (a) Changes in the fraction of
+papers and patents written by teams over the past five decades. Each line represents
+the arithmetic average taken over all subfields in each year, with colors indicating
+different fields. (b) The relative team impact (RTI) represents the mean number of
+citations received by team-authored work divided by the mean number of citations
+received by solo-authored work in the same field. A ratio of 1 implies that team- and
+solo-authored work have comparable impact. The lines present the arithmetic
+average of RTI in a given year for the entire field. After Wuchty et al. [136].
+
+
+        The influence of teams is especially interesting if we focus
+exclusively on the very top tier of high-impact papers: Teams are
+increasingly responsible for producing the most important scientific hits.
+Indeed, whereas in the early 1950s, the most cited paper in a field was
+more likely to have been written by a lone author than a team, that
+pattern reversed decades ago [139]. Today in science and engineering a
+team-authored paper is 6.3 times more likely than a solo-authored
+paper to receive at least 1,000 citations. This pattern is even more
+pronounced in the arts, humanities, and patents, where since 1950s
+teams have always been more likely than individuals to produce the
+most influential work.
+
+
+8.1                       The Rise of Team Science
+         Why do teams dominate science to such a degree? One hypoth-
+esis is that teams excel in generating truly novel ideas. By grouping
+experts with diverse but specialized knowledge, teams give their
+members access to a broader pool of knowledge than any individual
+collaborator could have. By harnessing varied methodologies and
+bodies of research, teams are more capable of creating innovative
+
+[p. 87] [PDF page 105]
+
+combinations of ideas and concepts. Indeed, as we will learn in later
+chapters (Chapter 17), papers that introduce novel combinations while
+also remaining embedded in conventional thinking increase their chance
+of becoming hits by at least twofold [92] – and teams are 37.7 percent
+more likely than solo authors to insert novel combinations into familiar
+knowledge domains [92]. Since the greatest challenges of modern sci-
+ence often require interdisciplinary expertise, teams are emerging as the
+key innovation engine to produce tomorrow’s breakthroughs.
+         For the individual researcher, there are also other benefits to
+working in teams [141]. For example, colleagues working together can
+bounce ideas off one another and check one another’s work, aiding
+both innovation and rigor. Collaboration also boosts the visibility of a
+researcher by exposing her publications to new coauthors and discip-
+lines, resulting in a broader and more diverse audience. Additionally,
+teamwork not only leads to a wider readership, but also helps in
+
+
+
+     Box 8.1 Ageless teamwork
+     Collaboration in the creative space is not a modern invention. The Yongle
+     Encyclopedia, or Yongle dadian (“The Great Canon of the Yongle Era”),
+     is the world’s largest paper-based encyclopedia, comprising 22,937 rolls or
+     chapters in 11,095 volumes. Commissioned by the Yongle Emperor of the
+     Ming dynasty in 1403 in China, it required the collaborative effort of
+     2,000 scholars over a period of five years.
+
+
+
+
+      Figure 8.2 The Yongle Encyclopedia, on display at The National Library
+     of China in 2014.
+
+[p. 88] [PDF page 106]
+
+securing funding for further research. Indeed, a study focusing on a
+sample of 2,034 faculty members at Stanford University over a 15-year
+period found that collaborations produce more grant submissions, are
+more likely to be awarded grants, and yield larger dollar amounts [142].
+         It is therefore not hard to imagine that the best and brightest
+scientists are those who are more willing to collaborate. In 1963, the
+sociologist Harriet Zuckerman set out to discover how outstanding
+scientists worked, interviewing 41 out of the 55 Nobel laureates living
+in the US at that time. She found that an internal bent toward teamwork
+seemed to be a trait that they all shared. The Nobel laureates were more
+willing to collaborate than their less prominent colleagues, which
+offered them a clear, long-term advantage in science [101].
+
+
+8.2         The Drivers of Team Science
+         The recent explosion of teamwork can be attributed to two
+major trends. First, as science grows increasingly complex, the instru-
+ments required to expand the frontier of knowledge have increased in
+scale and precision. For example, the Large Hadron Collider (LHC), the
+world’s largest particle collider at CERN, is crucial for advances in
+particle physics. However, such a tool would be unaffordable to indi-
+vidual investigators or institutions. The LHC – both its conception and
+its financing – would have been unthinkable without teamwork. Over
+10,000 scientists and engineers from over 100 countries contributed to
+the project. Hence collaboration is not just beneficial, it’s necessary,
+forcing the community to pool resources together to help advance
+scientific understanding.
+         Second, the ever-broadening body of human knowledge is so
+vast that it is impossible for any one person to know everything. Even
+for those working in relatively small, esoteric fields, the burden of
+knowledge on successive generations of scientists is continually increas-
+ing. To cope, scientists often specialize, narrowing their focus in order
+to manage the knowledge demand and to reach the frontiers of know-
+ledge faster. Such specialization has led to the “death of the renaissance
+man” in science, a phenomenon documented in the context of inven-
+tions [104]. Indeed, data on consecutive patent applications filed by solo
+inventors show that individuals increasingly remain within a single
+technological area and demonstrate a decreased capacity to contribute
+new, unrelated inventions. Thus, as the burden of knowledge required
+
+[p. 89] [PDF page 107]
+
+to move between fields becomes more overwhelming, collaborations
+become one way to reach beyond one’s own specialized subfield [104,
+105]. In other words, scientists not only want to collaborate – they have
+to. Increasing specialization means that each person has an excellent
+command of one piece of the puzzle. But to address the complex
+problems faced by modern science, scientists need to bring these pieces
+together, melding diverse skill-sets and knowledge in ways that allow us
+to innovate.
+
+
+8.3         The Death of Distance
+        With worldwide Internet access and increasingly inexpensive
+transportation, it is now easier than ever to collaborate across borders,
+overcoming traditional geographical constraints (Fig. 8.3). As the figure
+shows, between 1900 and 1924, collaborations across different institu-
+tions were prominent only in the US; international collaborations were
+mainly between the US and the UK. However, both types of collabor-
+ations were relatively rare. Between 1925 and 1949, international collab-
+orations started to form between India and the UK, as well as between
+
+
+
+
+  Figure 8.3 A brief history of globalization of science collaborations. The figure
+shows two types of collaborations: across institutions within the same country
+(blue/green) and across institutions of different countries (red). Circles represent the
+top 200 most cited institutions in the world. Each circle’s size is proportional to
+the institution’s citation count. After Dong et al. [4].
+
+[p. 90] [PDF page 108]
+
+Australia and the US. Due to World War II collaborations in Europe
+shrank during this period. Meanwhile, collaborative relationships in
+America were rapidly developing in the Midwest. Between 1950 and
+1974, Israel and Japan started to engage in international teamwork. At
+the same time, the West Coast and the Southern United States became
+hubs of scientific collaboration. Between 1975 and 1999, Africa began to
+develop relationships with Europe. Surprisingly, within-institution collab-
+orations in the US decreased relative to those in Europe, although the
+absolute number of collaborations grew substantially over time for all
+countries. In the twenty-first century, more and more countries have risen
+to the international stage to collaborate extensively with others. Indeed,
+teams increasingly span institutional and national boundaries. Analyzing
+4.2 million papers published between 1975 and 2005, researchers distin-
+guished three types of authorship: solo authors, collaborators working at
+the same university, and collaborators who bridged the gap between
+institutions [143]. Of the three, collaborations between university faculty
+at different institutions was the fastest – and, in fact, the only steadily
+growing authorship structure. During the 30-year period examined, such
+inter-institutional collaborations quadrupled in science and engineering,
+reaching 32.8 percent of all papers published (Fig. 8.4a). The social
+sciences experienced similar trends, with their share of papers written in
+multi-university collaborations rising even more rapidly over the period
+and peaking at 34.4 percent (Fig. 8.4b).
+         Teams today are increasingly spanning national boundaries as
+well. Worldwide, between 1988 and 2005, the share of publications
+with authors from multiple countries increased from 8 percent to
+20 percent [144]. Another analysis of papers published between
+1981 and 2012 calculated the balance of international and domestic
+research collaboration in different countries [145]. As shown in Fig. 8.5,
+while total research output has grown substantially over time, domestic
+output has flat-lined in the United States and in western European
+countries. This means that these days, international collaborations fuel
+the growth of science in these countries. By contrast, in emerging
+economies, international collaborations have yet to match – much less
+eclipse – domestic output. The total volume of papers from China,
+Brazil, India, and South Korea has increased 20-fold, from fewer than
+15,000 papers annually in 1981 to more than 300,000 papers in 2011.
+Yet, about 75 percent of the research output from these four countries
+remains entirely domestic (right column in Fig. 8.5).
+
+[p. 91] [PDF page 109]
+
+(a)                  Science & engineering               (b)             Social sciences
+             100                                         100
+
+              80                                          80
+
+
+
+Percentage
+              60                                          60
+
+              40                                          40
+
+              20                                          20
+
+              0                                            0
+                    1980         1990         2000                1980           1990           2000
+
+
+               Single authors                            Within-school collaboration
+               Between-school collaboration
+
+  Figure 8.4 The rise in multi-university collaboration. By comparing the
+percentage of papers produced by different authorship combinations, the plots
+document the increasing share of multi-university collaborations between 1975 and
+2005. This rise is especially strong in science and engineering (a) and social sciences
+(b), whereas it remains weak in arts and humanities, in which collaboration of any
+kind is rare [143]. The share of single-university collaborations remains roughly
+constant with time, whereas the share of solo-authored papers strongly declined in
+science & engineering and social sciences. After Jones et al. [143].
+
+
+         The growth we see in international collaborations bodes well
+for a few reasons. We already know that citation impact is typically
+greater for teams than for solo authors. That benefit strengthens when
+the collaborators in question are either international [145] or between
+universities [143]. In both the UK and US, papers with shared inter-
+national authorship are cited more than papers with only domestic
+authors. And the benefit appears to be growing – between 2001 and
+2011, this “impact premium” rose in both countries by 20 percent.
+Multi-university collaborations have a similar impact advantage [143]:
+When an entire team comes from the same university, their probability
+of publishing a paper with above-average citations is around 32.7
+percent in science and engineering and 34.1 percent in the social sci-
+ences. But, if the collaboration involves different institutions, that prob-
+ability increases by 2.9 percent or 5.8 percent, respectively.
+         While the advantages of collaborations across geographies are
+clear, an important consequence of the “death of distance” in modern
+science is increasing inequality in both impact and access to resources
+[12, 141, 146]. Indeed, scientists often reach across university boundar-
+ies as they select coauthors, but rarely across university prestige levels.
+
+[p. 92] [PDF page 110]
+
+Domestic % total papers
+                                     STRENGTH IN NUMBERS                                                       Total output
+                                     Growth in international collaboration eclipses domestic
+                                                                                                               Domestic papers
+                                     output in established economies, but not in emerging ones.
+
+                                     UNITED STATES                                           CHINA
+                                     The country is less internationally                     More than three-quarters of research
+                                     collaborative than those in Western Europe.             output remains domestic.
+                               400                                              100   200                                                  100
+
+
+
+
+                               300                                              75    150                                                  75
+
+
+
+
+ Papers per year (thousands)
+                               200                                              50    100                                                  50
+
+
+
+
+                               100                                              25     50                                                  25
+
+
+
+
+                                 0                                              0        0                                                 0
+                                 1981          1991         2001         2011            1981           1991        2001            2011
+
+                                     UNITED KINGDOM                                          SOUTH KOREA
+                                     International collaboration has almost                  Even more rapid growth than China,
+                                     doubled in the past decade.                             driven by domestic research.
+                               120                                              100 50.0                                                   100
+
+
+
+
+                                90                                              75    37.5                                                 75
+
+
+
+
+ Papers per year (thousands)
+                                60                                              50    25.0                                                 50
+
+
+
+
+                                30                                              25    12.5                                                 25
+
+
+
+
+                                 0                                              0        0                                                 0
+                                 1981          1991         2001         2011            1981           1991        2001            2011
+
+  Figure 8.5 The increasing role of international collaboration. If a paper only
+contains authors whose addresses are from the home country, then it is counted as
+domestic output of that country. Comparing the left and right panels shows that
+growth in international collaboration eclipses the growth of domestic output in
+established economies, but not in emerging ones. After Adams [145].
+
+[p. 93] [PDF page 111]
+
+Researchers at elite universities are more likely to collaborate with
+scientists at other elite universities, and scientists at lower-ranked insti-
+tutions tend to collaborate with researchers from institutions of compar-
+able rank [143]. Hence, even as geographic distance loses its importance,
+the role of social distance is increasing. This kind of stratification among
+institutions may further intensify inequality for individual scientists.
+         Furthermore, the benefits of collaboration vary greatly based on
+a scientist’s position in a collaboration network. For instance, if an
+African country devotes special funding to help its researchers collabor-
+ate with their US-based colleagues, which American institution will the
+researchers approach first: an Ivy League university, or a small liberal-
+arts college? Unsurprisingly, they will likely seek out well-known
+researchers at elite institutions. That means successful scientists at pres-
+tigious institutions are more likely to benefit from the resources offered
+by the global collaborative networks. Given that multi-university publi-
+cations have a larger impact than collaborations within the same uni-
+versity, and that researchers at elite universities are also more likely to
+engage in such cross-university collaborations, the production of out-
+standing science may become more and more concentrated at elite
+institutions [141, 143].
+         Although team science intensifies inequality for individual scien-
+tists and institutions, it has benefits across the globe [146]. Today, a
+successful scientist at a prestigious university in America or Europe can
+design studies to be carried out by collaborators in less-developed coun-
+tries, such as China, where labor-intensive scientific work is less expen-
+sive. Such collaborations can offer mutual benefits and help reduce the
+gap in knowledge between more- and less-developed countries.
+         On the other hand, the globalization of science also has dire
+implications for “brain drain” [145], which may fuel a growing divide
+between international and domestic research. Indeed, as science
+becomes more international, every nation will be able to more easily
+connect to the same global knowledge base, making it possible for their
+brightest scientists to continue their research elsewhere. This, in turn,
+compromises human resources in science for individual nations.
+Therefore, understanding the nuanced dynamics of team science may
+be necessary for nations to stay competitive, helping them to retain and
+attract global talents amid the growing scarcity of truly able researchers.
+                                                     *
+
+[p. 94] [PDF page 112]
+
+As we showed in this chapter, teams play an increasingly important role
+in driving the overall production of knowledge, as well as key break-
+throughs. Once a rarity, team science has become a dominant force in
+science, a phenomenon that cannot be ignored by scientists, policy-
+makers, or funding agencies. Yet, despite the many benefits teamwork
+affords, there are also reasons to believe that teams are not optimized
+for discovery [137, 141, 147]. For example, while collaboration lends
+legitimacy to an idea – after all, a whole team needs to believe in a
+project to pursue it [147] – colleagues must reach consensus before they
+can move forward, a process which can hinder the group’s headway.
+And while collaborations help researchers bridge disciplinary boundar-
+ies and generate new insights and hypotheses, the time and energy they
+must devote to coordination and communication can be costly, in some
+cases outweighing the benefits garnered by working collaboratively.
+This tradeoff is further complicated by the increased ambiguity about
+who should, and does, receive credit for the collaborative work. Indeed,
+strategically balancing these complex trade-offs is critical to building
+successful teams in science, and that’s what we will discuss in the next
+chapters.
+
+
+========================================================================
+Original Chapter 9: The Invisible College
+========================================================================
+
+[p. 95] [PDF page 113]
+
+9                             THE INVISIBLE COLLEGE
+
+
+         We tend to believe that rubbing shoulders with the top per-
+formers in their field will also make us great. But do our peers truly
+make us better scientists? In the previous chapter, we have explored
+how collaboration influences the impact of a project. But how does
+collaboration influence the productivity and the impact of individual
+scientists? This question encompasses a broader set of problems, known
+in the economics literature as “peer effects” [148–151]. To see how
+powerful peer effects can be, let’s visit the dormitories at Dartmouth
+College [149].
+         Freshmen entering Dartmouth College are randomly assigned
+to dorms and to roommates. However, a study found that when stu-
+dents with low grade-point averages (GPA) were assigned to a room
+with higher-scoring students, their grades improved. Since students with
+different majors lived together, we can’t attribute the improvement to
+something like weaker students getting help from their roommates on
+shared coursework. Rather, they became better students because they
+were surrounded by higher-performing peers.
+         Peer effects also come into play when people work together
+towards common goals. Indeed, over the past 20 years, numerous
+studies have documented peer effects in diverse occupations, from fruit
+pickers, to supermarket cashiers, to physicians, to sales teams, and
+more [151]. For example, examining a national supermarket chain,
+researchers found that when a less productive cashier was replaced
+with a more productive cashier on a shift, other cashiers on the same
+shift scanned items more quickly [150]. This change in behavior seems
+
+[p. 96] [PDF page 114]
+
+counterintuitive – after all, if a star cashier replaces a slower scanner,
+other cashiers could simply take it easy, engaging in the so-called “free
+riding” phenomenon. Yet, the cashiers acted in the exact opposite way:
+The presence of their productive peer nudged them to enhance their
+performance.
+        Understanding how we are influenced by others is important,
+because it could unleash social multiplier effects, eventually improving
+everyone’s outcome. Consider again the college dorm example: If the
+academic performance of some students improves, then their improved
+performance could in turn improve the outcomes of others in their
+respective peer groups and continue rippling out to more and more
+students.
+        But do peer effects exist in science? And if so, how can
+students, scientists, administrators, and policymakers take advantage
+of them?
+
+
+     Box 9.1 Mencius’ mother, three moves
+     The Chinese philosopher, Mencius (372–289 BCE), is the most famous
+     Confucian after Confucius himself. One of the most famous Chinese
+     four-character idioms is Meng Mu San Qian, meaning “Mencius’
+     mother, three moves” a phrase that captures one of the earliest examples
+     of peer influence. It describes why Mencius’ mother moved houses three
+     times before finding a place she felt was suitable for her child’s upbring-
+     ing. Mencius’ father died when he was little, so Mencius’ mother,
+     Zhang, raised Mencius alone. Poor as they were, their first home was
+     next to a cemetery, where people loudly mourned for the dead. Soon
+     Mencius’ mother noticed that her son had started to imitate the paid
+     mourners. Horrified, she decided to move near a market in town. It
+     wasn’t long before the young Mencius began to imitate the cries of
+     merchants, a profession of ill-repute in early China. So, Zhang, dis-
+     traught, decided to move again, this time landing in a house next to a
+     school. There Mencius began to spend time with the students and
+     scholars, imitating their habits and becoming more focused on his own
+     studies. Pleased to see such behavior in her son, and attributing it to his
+     proximity to the scholars, Zhang decided to make the house by the
+     school her permanent home, ensuring that Mencius would become
+     Mencius.
+
+[p. 97] [PDF page 115]
+
+9.1         A Bright Ambiance
+          Following numerous interviews with Nobel laureates, Robert
+Merton noted the “bright ambiance” that such star scientists often
+provide [60]. That is, star scientists not only achieve excellence them-
+selves; they also have the capacity to evoke excellence in others.
+We may measure this capacity by examining changes in a department
+after it hires a new star scientist. In one study, researchers traced
+the publication and citation records of each member of a department
+after a star scientist arrived, examining 255 evolutionary biology
+departments and 149,947 articles written by their members between
+1980 and 2008 [152]. They found that after a star arrived, the
+department-level output (measured in number of publications, with
+each paper weighted by its citation count) increased by 54 percent.
+This increase could not be attributed to the publications of the stars
+themselves: After removing the direct contributions of the star, the
+output of the department still increased by 48 percent. In other words,
+much of the observed gains came from the increased productivity of
+the colleagues who’d been there before the star arrived. And import-
+antly, the productivity gain persisted over time: Even eight years
+after the star’s arrival, the productivity of her colleagues had not
+diminished.
+          It’s worth noting that those individuals in the department
+whose research was the most related to the star – i.e., those who have
+cited her papers before – saw the biggest boost in productivity. By
+contrast, colleagues whose research was unrelated to the new hire were
+far less influenced.
+          Yet the star’s biggest contribution to her new department comes
+not in productivity increases but in the quality of future hires. Indeed,
+the quality of subsequent faculty hires (measured by the average cit-
+ations of papers published by a scientist at the time she joined the
+department) jumped by 68 percent after the arrival of a star. Differenti-
+ating again between the new hires related and unrelated to the star’s
+research, the quality of related new hires increased by a staggering 434
+percent. Furthermore, the quality of unrelated new hires also increased
+by 48 percent. It seems that stars not only shine on their peers,
+prompting them to succeed, but also attract other future stars to
+join them.
+
+[p. 98] [PDF page 116]
+
+Box 9.2 Causal inference for peer effects
+In observational studies, i.e., those that rely on pre-existing datasets to
+draw conclusions, peer effects are difficult to quantify, hence insights
+obtained in such data-driven studies must be interpreted with care. For
+instance, is it possible that stars do not cause the rise in productivity, but
+rather they are attracted to already improving departments? Or could it be
+that an unobserved variable, like a positive shock to department resources
+(e.g., philanthropic gifts, increase in government funding, the construction
+of a new building) offered the opportunity for the department to hire a
+star – and that the same shock increased its incumbent productivity and
+the quality of subsequent recruits?
+        The challenge of identifying causal evidence for peer effects is
+widespread [153], commonly known as the “reflection problem” in social
+science [148]. Imagine two students, Allen and Mark. Allen started to
+hang out with Mark, the better student, and we later observe that Allen
+improved his grades. Did Allen do well because Mark had a good influence
+on him? Not necessarily. At least three other mechanisms could be at play:
+
+ It is just as plausible to think that Allen chose to hang out with Mark
+  because he was also a good student. This phenomenon is called the
+  “selection effect”: individuals generally self-select into groups of peers,
+  making it difficult to separate out any actual peer effect.
+ Allen and Mark can affect each other simultaneously, making it
+  difficult to single out the impact Mark’s outcome has on Allen’s
+  outcome.
+ The observed improvement in Allen’s grades can be induced by common
+  confounding factors that we cannot observe. For example, Allen may
+  have improved his grades simply because a new teacher or a better after-
+  school program came along.
+
+Given these challenges, we often rely on randomized experiments to tease
+out peer effects. This is the concept behind the Dartmouth dorm study,
+where students were assigned randomly into different rooms, thereby
+eliminating most alternative explanations. Alternatively, we may rely on
+external, unexpected shocks to a system for a so-called “natural
+experiment.” If there is a sudden change in one parameter while other
+variables remain the same, we can be more certain that the response of the
+system is a pure response to the external shock. We will cover one such
+example in the next section, where researchers use the unexpected deaths
+of star scientists to quantify their influence on their colleagues’
+productivity and impact.
+
+[p. 99] [PDF page 117]
+
+9.2         The Invisible College
+         The examples of students and cashiers suggest that peer effects
+are most prominent when individuals interact directly with their peers.
+For example, the improvement of students’ GPA was only detectable at
+the individual room level, but absent at the dorm level [149]. In other
+words, an exceptional student had no influence on the performance of a
+neighbor down the hall. Similarly, the cashiers who became more
+productive were the ones who could see their star peer joining the shift.
+Others on the same shift who were not aware of the shift change
+continued at their normal pace [150]. What’s particularly interesting
+in science, however, is that many of the observed peer effects are not
+limited to physical proximity. Rather, they transcend the physical space,
+extending into the world of ideas. To demonstrate this, let’s look at
+what happens when superstar scientists die suddenly and unexpectedly.
+         In one study, researchers examined how the productivity and
+impact of a superstar scientist’s coauthors (measured by publications,
+citations, and grants from the National Institutes of Health) changed
+when their high-performing collaborator suddenly passed away [115].
+Following a superstar’s death, her collaborators experienced a lasting
+5 percent to 8 percent decline in their quality-adjusted publication rates.
+Interestingly, these effects appear to be driven primarily by the loss of an
+irreplaceable source of ideas rather than a social or physical proximity.
+Indeed, coauthors who worked on similar topics experienced a sharper
+decline in output than those coauthors who worked on topics further
+afield. And when a superstar’s collaborator was heavily cited, she
+tended to experience a steeper decline in productivity than the super-
+star’s less renowned collaborators. These results together provide evi-
+dence of what seventeenth-century scientist Robert Boyle called an
+“invisible college” of scientists, bound together by interests in specific
+scientific topics and ideas – a college which suffers a permanent and
+reverberating intellectual loss when a star is lost.
+         Similar effects were observed after the collapse of the Soviet
+Union, when the country experienced a mass emigration of Soviet
+scientists. Researchers studied the output of mathematicians who
+remained in Russia, examining what happened when their coauthors
+suddenly fled to other countries [154]. They found that the emigration
+of an average colleague or collaborator did not affect the productivity of
+those he left behind. In fact, some of his former colleagues even enjoyed
+
+[p. 100] [PDF page 118]
+
+a modest boost in their output, perhaps because the loss improved
+opportunities for those who remained. However, when researchers
+inspected the loss of very high-quality collaborators, measured by prod-
+uctivity in their fields, they uncovered major consequences. Ranking
+authors according to the quality of their collaborators, they found that
+the top 5 percent of authors suffered an 8 percent decline in publications
+for every 10 percent of their collaborators who had emigrated. This
+suggests that while we may manage the loss of an average collaborator,
+losing an outstanding one is, however, highly detrimental.
+
+
+    Box 9.3 The helpful scientists
+    Star scientists are typically defined by their individual productivity and
+    output, such as, citations, publications, patents, and research funding
+    [157]. But do these qualities accurately capture a scientist’s value to an
+    institution? What kind of scientist should a department hire – an
+    investigator who churns out high-impact papers in quick succession,
+    yet rarely finds the time to show up to department meetings? Or a
+    researcher who works at a slower pace but who is willing to problem-
+    solve departmental concerns, attend seminars, and offer feedback on
+    colleagues’ unpublished works?
+           It appears that both are critical in different ways. Indeed, we have
+    seen the significant impact that a “star” scientist can have on colleagues’
+    productivity, and on new hires. But research shows that the “helpful”
+    scientist also has something important, but distinct, to offer.
+           For example, a study examining the acknowledgment sections of
+    papers identified “helpful” scientists as those who were frequently thanked
+    by others [158]. When these helpful scientists died unexpectedly, the
+    quality (though not the quantity) of their collaborators’ papers dropped
+    precipitously. By contrast, the study found no such decline after the deaths
+    of less helpful scientists. In addition, scientists who provided conceptual
+    feedback – namely, critiques and advice – had a more significant impact on
+    their coauthors’ performance than those who provided help with material
+    access, scientific tools, or technical work. It seems that there is often an
+    invisible social dimension to performance. Being helpful and collegial is
+    not merely a nice thing to do – it can genuinely affect the quality of
+    scientific output of your colleagues.
+
+
+         This finding is consistent with research examining the peer
+effects on science professors in Germany, after the Nazi government
+
+[p. 101] [PDF page 119]
+
+dismissed their colleagues between 1925 and 1938 [155]. The loss of a
+coauthor of average quality reduced a German professor’s productivity
+by about 13 percent in physics and 16.5 percent in chemistry. But, once
+again, the loss of the higher-than-average coauthors led to a much larger
+productivity loss. To be clear, these coauthors were not necessarily
+colleagues in the same university but were often located in different
+institutions and cities across Germany. Once again, these results speak
+to the idea that, at least in science, the “invisible college” is as important
+as the formal college in which we reside [156].
+         In this chapter, we have demonstrated the highly connected
+nature of science, showing how a scientist’s productivity and creativity
+depends on her network of collaborators and colleagues. As much as we
+emphasize individual talent and celebrate independent thought in sci-
+ence, the fact is that scientists are highly dependent upon each other.
+Indeed, our productivity is strongly influenced by our departmental
+colleagues, regardless of whether they collaborate with us directly, or
+whether their research is merely related to what we do. Most import-
+antly, we are not just influenced by our next-door neighbors. However
+far away our collaborators might be, their achievements can propagate
+through the network of ideas to produce long-lasting effects on our own
+careers. In other words, the idea of the lone genius was never accurate –
+in science we are never alone.
+
+
+========================================================================
+Original Chapter 10: Coauthorship Networks
+========================================================================
+
+[p. 102] [PDF page 120]
+
+10                           COAUTHORSHIP NETWORKS
+
+
+         Throughout history, only eight mathematicians have pub-
+lished more than 500 papers. Lucien Godeaux (1887–1975) is one
+of them [159]. A prolific Belgian mathematician, he’s ranked fifth
+among the most published in history. Sitting on the very top of this
+list is Paul Erdős, the Hungarian mathematician we encountered in
+Chapter 1.
+         There is, however, a fundamental difference between Godeaux
+and Erdős. Of the 644 papers published by Godeaux, he was the sole
+author on 643 of them. In other words, only once in his career did he
+venture out of his lonely pursuit of mathematics and coauthor a paper
+with someone else. Erdős, on the other hand, is famous not only for his
+unparalleled productivity, but also for the more than 500 coauthors
+with whom he worked throughout his career. Indeed, most of Erdős’
+papers were the fruit of collaborations – so much so that they inspired
+the so-called “Erdős number,” a popular pastime of mathematicians
+curious about their distance to this giant of mathematics.
+         Erdős, by definition, has an Erdős number of zero. Those who
+have coauthored at least one paper with Erdős are given an Erdős
+number of 1. Those who have coauthored with these people but not
+with Erdős himself have an Erdős number of 2, and so forth. It is an
+unparalleled honor to have an Erdős number of 1, or, in other words, to
+be counted among his plentiful but still rarefied list of collaborators.
+Short of that, it’s a great distinction to be only two links away from him.
+In fact, having a relatively small Erdős number gives a person bragging
+rights not only in mathematics, but in many different disciplines – it’s
+
+[p. 103] [PDF page 121]
+
+not unusual for scientists of all kinds to have that prized numeral listed,
+only partially in jest, on their CVs and websites.
+         The very existence of the Erdős number demonstrates how
+the scientific community forms a highly interconnected web, linking
+scientists to one another through the papers they have collaborated
+on. This web is often referred to as the coauthorship network. But is
+there a pattern underlying the way we collaborate? Which kinds of
+scientists are most, or least, willing to collaborate with one another?
+Understanding coauthorship networks, and the insights they reveal
+about the structure and the evolution of science, is the focus of this
+chapter.
+
+
+10.1        A First Look at Coauthorship Network
+         As soon as massive digitized publication records became avail-
+able around 2000, researchers started constructing large-scale co-
+authorship networks, capturing collaborative patterns within physics
+[160, 164], mathematics [161–164], biology [164], computer science
+[165], and neuroscience [163]. To construct a coauthorship network,
+we go through each publication and add a link between two scientists
+if they appeared on the same paper together. Figure 10.1 illustrates the
+local structure of one such network surrounding a randomly selected
+author, highlighted in the center [160]. A quick look at this network
+reveals several important features of collaborations: First, the network
+is held together by a few highly connected nodes, or hubs, who are
+highly collaborative individuals like Erdős. Second, the network con-
+sists of densely connected cliques of authors or communities. To
+highlight these communities, we can apply to this network a
+community-finding algorithm designed to identify cliques [160], and
+color the nodes based on whether they belong to a clearly identifiable
+clique. Those that do not belong to any recognizable community are
+colored black. As the figure illustrates, the vast majority of nodes take
+up a color, indicating that most scientists belong to at least one
+identifiable community.
+
+
+10.2        The Number of Collaborators
+         With more than 500 coauthors within mathematics, Erdős is
+clearly an outlier. But how unusual is he for a mathematician? To find
+
+[p. 104] [PDF page 122]
+
+Figure 10.1 Coauthorship network. The figure shows the local structure of
+the coauthorship network between physicists in the vicinity of a randomly chosen
+individual (marked by a red frame). The network is constructed based on papers
+from Cornell University’s archive server (cond-mat), the precursor of the widely
+used arXiv, containing at that time over 30,000 authors. Each node is a scientist,
+and links document collaborative relationships in the form of coauthored
+publications. The color-coded communities represent groups of collaborators
+that belong to locally densely interconnected parts within the network. Black
+nodes/edges mark those scientists that do not belong to any community. After
+Palla et al. [160].
+
+
+out, next we compare the collaboration networks across biology,
+physics, and mathematics [164]. A key property of a node in a network
+is its degree, which represents the number of links it has to other nodes
+[67, 68]. In the context of the coauthorship network, the degree ki of
+node i represents the number of collaborators scientist i has. The
+distribution of the number of collaborators that scientists have in each
+of the three disciplines, P(k), is shown in Fig. 10.2. Each of these
+distributions is fat-tailed, indicating that, regardless of their discipline,
+
+[p. 105] [PDF page 123]
+
+collaborators
+                                     104
+
+
+
+                                     102
+
+
+
+
+            Number of authors with
+                                             Biology
+                                     100
+                                             Physics
+                                             Mathematics
+                                     10-2
+                                         1      10          100        1000
+                                             Number of collaborators
+
+              Figure 10.2 Collaboration networks are heterogeneous. The plots
+            show the distribution of numbers of collaborators for scientists in physics,
+            biology, and mathematics, indicating that the underlying distributions are
+            fat tailed. After Newman et al. [164].
+
+
+
+
+almost all scientists work with only a few coauthors, while a rare
+fraction accumulates an enormous number of collaborators. But,
+though all three distributions shown in Fig. 10.2 are fat-tailed, the
+curves follow distinct patterns. Indeed, the distribution for biology
+(dark) has a longer tail, reflecting the higher likelihood that a biologist
+will have a large number of collaborators, whereas the distribution for
+mathematics (green) decays the fastest among the three. Hence, highly
+collaborative individuals are especially rare in mathematics – and an
+ultra-collaborator like Erdős is rare in any discipline.
+        Importantly, the number of collaborators a scientist has
+already worked with can predict her odds of establishing new collab-
+orations in the future. That’s the idea of preferential attachment, a
+concept we will discuss again in Part III, stating that we are more likely
+to collaborate with highly collaborative individuals. Indeed, when an
+author publishes for the first time, odds are she’ll be coauthoring her
+paper with senior authors, such as her advisor, someone who already
+has a large number of coauthors, rather than a fellow graduate stu-
+dent, who likely lacks collaboration links [163]. The same is true for
+new collaborations among scientists who are already part of the
+network: they are more likely to form new links to highly connected
+authors than less connected ones. As a consequence of preferential
+
+[p. 106] [PDF page 124]
+
+attachment, authors with more collaborators more quickly increase
+their circles of collaborators, gradually turning into hubs of the scien-
+tific collaboration network.
+
+
+10.3        Small World
+         As word of the Erdős number spread, mathematicians around
+the world began to calculate their distance from the esoteric center of
+the math universe. Their efforts were documented by Jerry Grossman,
+a math professor at Oakland University in Rochester, Michigan, who
+maintains the Erdős Number Project [166]. If you visit the project’s
+website, you soon realize that the Erdős number extends well beyond
+mathematics. Listed next to mathematicians are economists, physi-
+cists, biologists, and computer scientists who can claim a link to
+Erdős. Bill Gates is there, for example, thanks to his 1979 publication
+with Christos H. Papadimitriou, who in turn published with Xiao Tie
+Deng, who in turn published with Erdős’ coauthor Pavol Hell. That
+means that Gates has an Erdős number of 4. That may sound like a
+small number of steps to connect a Hungarian mathematician to
+someone who almost never engages in scientific publishing. But, as
+we will see, the paths between scientists are often shorter than we
+might have imagined.
+         This kind of far-flung yet proximal connection has to do with
+the small-world phenomenon [167], also known as “six degrees of
+separation” (Box 10.1). Put in network science terms, this popular
+concept captures the fact that there is a short path between most pairs
+of nodes within a network. Indeed, if we measure the minimum number
+of links that separate any two scientists in a coauthorship network, the
+typical distance is about six links. This pattern holds for biologists,
+physicists, computer scientists [165], mathematicians, and neuroscien-
+tists [163]. That means that if one scientist picks another random
+scientist, even one she has never heard of, chances are that she will be
+able to connect to this person through just five or six coauthorship links.
+Moreover, the distance between a typical scientist and a highly con-
+nected hub of the collaboration network is even smaller. For instance,
+the average distance from Paul Erdős to other mathematicians is about
+4.7 [166], significantly lower than the typical distance in the network as
+a whole.
+
+[p. 107] [PDF page 125]
+
+Box 10.1 Six degrees of separation
+   The small-world phenomenon is also known as six degrees of separation,
+   after John Guare’s 1990 Broadway play. In the words of one of the play’s
+   characters:
+
+               Everybody on this planet is separated by only six other people.
+               Six degrees of separation. Between us and everybody else on this
+               planet. The president of the United States. A gondolier in
+               Venice. . . It’s not just big names. It’s anyone. A native in a rain
+               forest. A Tierra del Fuegan. An Eskimo. I am bound to everyone
+               on this planet by a trail of six people. It’s a profound thought.
+
+
+         Because research teams are embedded in the coauthorship
+network, the size and shape of that network can affect how teams
+perform. In an enormous, far-flung network, many teams will be
+more than six steps apart, leaving their members isolated and unable
+to easily exchange new ideas. On the other hand, if the world of
+collaborations is too small, it can form an echo chamber that is
+detrimental to out-of-the-box thinking. That means there may be a
+sweet spot in the middle which provides creative collaborators with
+the most advantageous environment for nurturing creative ideas.
+         To understand how “small-worldliness” affects a team’s creativ-
+ity, we can explore the collaboration patterns of the creative artists
+involved in the production of Broadway musicals [168]. In the Broadway
+network, two artists are connected if they worked together in a musical
+before, either as producers, directors, designers, or actors. Figure 10.3
+shows three networks of teams characterized by varying degrees of the
+small-world property. Let’s use W to denote the “small-worldliness” of
+each network. The map on the left of Fig. 10.3 shows a “big world” with
+low W where the artists are removed from one another, due to the
+sparseness of the links between the different teams. By contrast, the
+network on the right is more densely connected (high W).
+         Measuring each team’s performance based on box-office earn-
+ings (financial success) as well as the average of the critics’ reviews of
+their musical (artistic success), researchers found that W correlates with
+team performance. When a team is embedded in a low-W network, the
+creative artists are less likely to develop successful shows. Given the few
+
+[p. 108] [PDF page 126]
+
+Low                                    Medium                                      High
+
+  Figure 10.3 Small worlds and team performance. Diagrams of networks of
+Broadway artists illustrate the role of the small world effect on team performance.
+The parameter W quantifies the “small-worldliness” of a network. When W is low,
+there are few links between teams (cliques), resulting in a network of low
+connectivity and cohesion. As W increases, there are many between-team links,
+resulting in high connectivity and cohesion in the network’s topology. At medium
+levels of W the small-world network offers an optimal amount of connectivity and
+cohesion. After Uzzi and Spiro [168].
+
+
+links between the teams, a production team is unlikely to exchange
+creative ideas with many others in the network. As W increases, the
+network of artists becomes more connected and cohesive, facilitating
+the flow of creative material across clusters. This increased information
+flow can make the exchange of tips and conventions more likely and
+provide artists with feedback that empowers them to take bigger risks,
+boosting the performance of teams embedded in the network.
+          But only to a certain degree. The same study shows that too
+much connectivity and cohesion (high W network) can also become a
+liability for creativity. Indeed, cohesive cliques tend to overlook useful
+information that contradicts their shared understandings. Taken
+together, that data indicates that on Broadway, teams perform best
+when the network they inhabit is neither too big, nor too small.
+
+
+10.4        Connected Components
+       The fact that Bill Gates has a small Erdős number (four)
+prompts a broader question: Why does Gates even have an Erdős
+
+[p. 109] [PDF page 127]
+
+number? After all, for Gates to have an Erdős number, there must exist
+a path on the coauthorship network between Gates and Erdős. If there is
+no such a path, then Gates would have an Erdős number of infinity. The
+fact that Gates has an Erdős number at all indicates that he and Erdős
+are on the same “connected component” of the collaboration network.
+In general, a connected component represents a group of nodes that are
+all connected to one another through paths of intermediate nodes. One
+key property of real coauthorship network is its connectedness; almost
+everyone in the community is connected to almost everyone else by
+some path of intermediate coauthors. For example, if we count the
+connected components within the three networks used in the study
+shown in Fig. 10.2, we will find that the largest connected component
+contains around 80 or 90 percent of all authors. A large connected
+component speaks to the idea of the invisible college, the web of social
+and professional contacts linking scientists across universities and con-
+tinents, creating intellectual communities of shared values and
+knowledge base.
+         The fact that so many scientists are a part of the same connected
+component lets us draw several conclusions. First, and most obviously, it
+means that scientists collaborate. But if scientists always collaborate with
+the same set of coauthors, the network would be fragmented into small
+cliques isolated from each other, representing isolated schools of
+thought, like the low-W network seen in Fig. 10.3. Luckily, our invisible
+college is an expansive one. But what holds together more than 80 per-
+cent of all scientists in the same coauthorship network? Understanding
+the roots of this process reveals fundamental insights into how teams are
+assembled. To unpack these rules, let’s first pay a visit to a chicken coop.

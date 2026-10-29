@@ -1,16 +1,358 @@
 The Science of Science
 Dashun Wang and Albert-László Barabási | 2021 | Cambridge University Press
-ISBN 9781108492669 | DOI 10.1017/9781108610834
 
-Part IV: Outlook
-Chapter 22: Artificial Intelligence
-Print pages 231–240; one-based PDF pages 249–258
+Reading Unit 10: Accelerating Science and AI
+Original chapters: 21, 22
+Main chapter pages: 223–240 (18 pages; supplements excluded)
 
-[English original. Page markers identify print and PDF pages. References remain numbered as in the book. Shared supplementary materials are labelled separately. Download footers and recognized running heads are removed; original text, formulas and line breaks are otherwise retained. Verify exact mathematical notation, diagrams and table layout against the PDF.]
+[Reading units follow the agreed thematic grouping. Original chapter numbers, titles, text and page markers are retained. References.txt contains the complete numbered reference list for all units. Original section text has not been rewritten.]
+
+Original chapter contents:
+Chapter 21: Can Science Be Accelerated? (pp. 223–230)
+Chapter 22: Artificial Intelligence (pp. 231–240)
 
 
 ========================================================================
-Chapter text
+Part IV opening: Outlook
+========================================================================
+
+[p. 221] [PDF page 239]
+
+Part
+     IV                                            OUTLOOK
+
+         In the previous three parts, we aimed to offer an overview of the
+current body of knowledge that the science of science has offered us in
+the past few decades. Yet, we could not do justice to the full breadth of
+the subject. In this last part, we offer a brief overview of the field’s
+emerging frontiers, discussing several areas that are just gaining traction
+in the community, and that have the potential to offer new, promising
+developments in the coming years. Unlike our approach in Parts I–III,
+here we do not aim to offer a comprehensive coverage, but rather to
+introduce some interesting problems posed by the existing research,
+offer some representative examples, suggest new opportunities, and
+imagine where they might lead us.
+         We will see how understanding the doings of science may
+change how science is done – how knowledge is discovered, hypotheses
+are raised, and experiments are prioritized – and what these changes
+may imply for individual scientists. We will consider the coming age of
+artificial intelligence, think through how it might impact science, and
+illustrate how human and machine can work together to achieve speed
+and efficiency that neither human nor machine can achieve alone. We
+will also examine how the science of science can go beyond its current
+attempts at correcting potential biases and how to generate causal
+insights with actionable policy implications.
+
+
+========================================================================
+Original Chapter 21: Can Science Be Accelerated?
+========================================================================
+
+[p. 223] [PDF page 241]
+
+21                      CAN SCIENCE BE ACCELERATED?
+
+
+         In the mid eighteenth century, the steam engine jump started the
+Industrial Revolution, affecting most aspects of daily life and providing
+countries that benefitted from it with a new pathway to power and
+prosperity. The steam engine emerged from the somewhat counterintui-
+tive yet profound idea that energy in one form – heat – can be converted
+to another – motion. While some see the steam engine as one of the most
+revolutionary ideas in science, it was arguably also the most overlooked
+[352]. Indeed, ever since we knew how to use fire to boil water, we’ve
+been quite familiar with that annoying sound the kettle lid makes as it
+vibrates when water reaches a rolling boil. Heat was routinely con-
+verted to motion in front of the millions, but for centuries no one
+seemed to recognize its practical implications.
+         The possibility that breakthrough ideas like the steam engine
+hover just under our noses, points to one of the most fruitful futures for
+the science of science. If our knowledge about knowledge grows in
+breadth and quality, will it enable researchers and decision makers to
+reshape our discipline, “identify areas in need of reexamination, reweight
+former certainties, and point out new paths that cut across revealed
+assumptions, heuristics, and disciplinary boundaries” [353]?
+         Machines have aided the scientific process for decades. Will
+they be able to take the next step, and help us automatically identify
+promising new discoveries and technologies? If so, it could drastically
+accelerate the advancement of science. Indeed, scientists have been
+relying on robot-driven laboratory instruments to screen for drugs and
+to sequence genomes. But, humans are still responsible for forming
+
+[p. 224] [PDF page 242]
+
+hypotheses, designing experiments, and drawing conclusions. What if a
+machine could be responsible for the entire scientific process – formu-
+lating a hypothesis, designing and running the experiment, analyzing
+data, and deciding which experiment to run next – all without human
+intervention? The idea may sound like a plot from a futuristic sci-fi
+novel, but that sci-fi scenario has, in fact, already happened. Indeed, a
+decade ago, back in 2009, a robotic system made a new scientific
+discovery with virtually no human intellectual input [354].
+
+
+21.1        Close the Loop
+        Figure 21.1 shows “Adam,” our trusty robot scientist, whose
+training ground was baker’s yeast, an organism frequently used to
+model more complex life systems. While yeast is one of the best studied
+
+
+
+
+              Figure 21.1 The robot scientist Adam. Adam differs from other
+            complex laboratory systems in the individual design of the experiments to
+            test hypotheses and the utilization of complex internal cycles. Adam has
+            the following components: (a) an automated 20 C freezer; (b) three liquid
+            handlers; (c) three automated +30 C incubators; (d) two automated plate
+            readers; (e) three robot arms; (f ) two automated plate slides; (g) an
+            automated plate centrifuge; (h) an automated plate washer; (i) two high-
+            efficiency particulate air filters; and (j) a rigid transparent plastic enclosure.
+            It also has 2 bar-code readers, 7 cameras, 20 environment sensors, and
+            4 personal computers, as well as software, allowing it to design and
+            initiate over 1,000 new strains and defined-growth-medium experiments
+            each day. After King et al. [354].
+
+[p. 225] [PDF page 243]
+
+organisms, the function of 10 to 15 percent of its roughly 6,000 genes
+remains unknown. Adam’s mission was to shed light on the role of some
+of these mystery genes. Adam was armed with a model of yeast metab-
+olism and a database of the genes and proteins necessary for metabolism
+in other species. Then it was set loose, with the role of the supervising
+scientists being limited to periodically add laboratory consumables and
+to remove waste.
+         Adam sought out gaps in the metabolism model, aiming to
+uncover “orphan” enzymes, which haven’t been linked to any parent
+genes. After selecting a desirable orphan, Adam scoured the database
+for similar enzymes in other organisms, along with their corresponding
+genes. Using this information, Adam then hypothesized that similar
+genes in the yeast genome may encode the orphan enzyme and began
+to test this hypothesis.
+         It did so by performing basic operations: It selected specified
+yeast strains from a library held in a freezer, inoculated these strains into
+microtiter plate wells containing rich medium, measured their growth
+curves, harvested cells from each well, inoculated these cells into wells
+containing defined media, and measured the growth curves on the
+specified media. These operations are very similar to the tasks per-
+formed by a lab assistant, but they are executed robotically.
+         Adam is a good lab assistant, but what truly makes this
+machine so extraordinary is its ability to “close the loop,” acting as a
+scientist would. After analyzing the data and running follow-up experi-
+ments, it then designed and initiated over a thousand new experiments.
+When all was said and done, Adam formulated and tested 20 hypotheses
+relating to genes that encode 13 different orphan enzymes. The weight
+of the experimental evidence for these hypotheses varied, but Adam’s
+experiments confirmed 12 novel hypotheses.
+         To test Adam’s findings, researchers examined the scientific
+literature on the 20 genes investigated. They found strong empirical
+evidence supporting 6 of Adam’s 12 hypotheses. In other words, 6 of
+Adam’s 12 findings were already reported in the literature, so technic-
+ally they were not new. But they were new to Adam, because it had an
+incomplete bioinformatics database, hence was unaware that the litera-
+ture has already confirmed these six hypotheses. In other words, Adam
+arrived at these six findings independently.
+         Most importantly, Adam discovered three genes which together
+coded for an orphan enzyme. This finding represents new knowledge
+
+[p. 226] [PDF page 244]
+
+that did not yet exist in the literature. And when researchers conducted
+the experiment by hand, they confirmed Adam’s findings. The implica-
+tion of this is stunning: A machine, acting alone, created new scientific
+knowledge.
+         We can raise some fair criticisms about Adam, particularly
+regarding the novelty of its findings. Although the scientific knowledge
+“discovered” by Adam wasn’t trivial, it was implicit in the formulation
+of the problem, so its novelty is, arguably, modest at best. But the true
+value of Adam is not about what it can do today, but what it may be
+able to achieve tomorrow.
+         As a “scientist,” Adam has several distinctive advantages. First,
+it doesn’t sleep. As long as it is plugged into a power outlet, it will
+unceasingly, doggedly putter away in its pursuit of new knowledge.
+Second, this kind of “scientist” scales, easily replicable into many
+different copies. Third, the engine that powers Adam – including both
+its software and hardware – is doubling in efficiency every year. The
+human brain is not.
+         Which means Adam is only the beginning. Computers already
+play a key role in helping scientists store, manipulate, and analyze data.
+New capabilities like those offered by Adam, however, are rapidly
+extending the reach of computers from analysis to the formulation of
+hypotheses [355]. As computational tools become more powerful, they
+will play an increasingly important role in the genesis of scientific
+knowledge. They will enable automated, high-volume hypothesis gen-
+eration to guide high-throughput experimentation. These experiments
+will likely advance a wide range of domains, from biomedicine to
+chemistry to physics, and even to the social sciences [355]. Indeed, as
+computational tools efficiently synthesize new concepts and relation-
+ships from the existing pool of knowledge, they will be able to usefully
+expand that pool by generating new hypotheses and drawing new
+conclusions [355].
+         These advances raise an important next question: How do we
+generate the most fruitful hypotheses in order to more efficiently
+advance science?
+
+
+21.2        The Next Experiment
+        To improve our ability to discover new, fruitful hypotheses, we
+need to develop a deeper understanding of how scientists explore the
+
+[p. 227] [PDF page 245]
+
+knowledge frontier, and what types of exploration – or exploitation –
+tend to be the most fruitful. Indeed, merely increasing the pool of
+concepts and relationships between them typically leads to a large
+number of low-quality hypotheses. Instead, we need to be discerning.
+One example of how to home in on valuable discoveries is the Swanson
+hypothesis [356]. Swanson posits that if concepts A and B are studied in
+one literature, and B and C in another, then the link between A and
+C may be worth exploring. Using this approach, Swanson hypothesized
+that fish oil could lessen the symptoms of Raynaud’s blood disorder and
+that magnesium deficits are linked to migraine headaches, both of which
+were later validated [356].
+         Recent attempts at applying computational tools to massive
+corpora of scientific texts and databases of experimental results have
+substantially improved our ability to trace the dynamic frontier of
+knowledge [319, 357]. Analyzing the abstracts of millions of biomedical
+papers published from 1983 to 2008, researchers identified chemicals
+jointly studied in a paper, represented specific research problems as
+links between various scientific entities, and organized them in a know-
+ledge graph [357]. This graph allowed them to infer the typical strategy
+used by scientists to explore a novel chemical relationship.
+         For example, Fig. 21.2 shows that scientists have the tendency
+to explore the neighborhood of prominent chemicals. This paints a
+picture of a “crowded frontier” [358], where multiple researchers focus
+their investigations on a very congested neighborhood of the discover-
+able space, rather than exploring the space of the unknown more
+broadly.
+         While these prominent chemicals may warrant more investiga-
+tions, this example suggests that there could be more optimal ways to
+explore the map of knowledge. For example, the model estimates that,
+overall, the optimal strategy for uncovering 50 percent of the graph can
+be nearly 10 times more efficient than the random strategy, which tests
+all edges with equal probability. This illustrates that a deeper under-
+standing of how science evolves could help us accelerate the discipline’s
+growth, allowing us to strategically choose the best next experiments.
+
+
+21.3        New Challenges
+        “White spaces” offer both opportunity and peril. There is, of
+course, untapped potential in exploring fresh connections. But the
+
+[p. 228] [PDF page 246]
+
+Figure 21.2 Choosing experiments to accelerate collective discovery.
+            The actual, estimated search process illustrated on a hypothetical graph of
+            chemical relationships. Here each node is a chemical and links indicate the
+            pair of chemicals examined together in a paper, representing publishable
+            chemical relationships. The graph shows simulation results averaged from
+            500 runs of that search strategy. The strategy swarms around a few
+            “important,” highly connected chemicals, whereas more optimal
+            strategies estimated are much more even and less likely to “follow the
+            crowd” in their search across the space of scientific possibilities.
+            Adapted from [357].
+
+
+underlying dangers are in the “file-drawer problem,” i.e. results that
+never got published, which is driven by scientists’ preference for pub-
+lishing positive results [8, 359] and statistical findings that exceed field-
+specific thresholds (e.g. p-value < 0.05) [360, 361]. It is possible,
+therefore, that many gaps in the literature have been explored by
+previous generations of scientists, but, because they didn’t find inter-
+pretable results, they never reported their efforts [353].
+         If we want to accelerate scientific progress, these negative results
+have positive value. Indeed, instead of being discarded, negative results
+should be saved, shared, compiled, and analyzed. This would not only
+offer a less biased view of the knowledge landscape – helping us separate
+opportunity from peril – it would also improve the reproducibility of
+findings, since we increase the credibility of positive results when we
+place them in the context of negative ones. This is already done in clinical
+trials, where results must be published at https://clinicaltrials.gov/,
+
+[p. 229] [PDF page 247]
+
+independent of the outcome. Indeed, biochemical journals require inves-
+tigators to register early phase 1 clinical trials, as failed attempts are of
+critical importance to public health. For this reason, the top journals
+have all agreed that they won’t publish the findings of phase 3 trials if
+their earlier phase 1 results – whether positive or negative – weren’t
+reported first [362].
+          As of 2019, we’re already seeing promising indications that
+other areas of science are moving in this direction. For example, the
+“preregistration revolution” encourages scientists to specify their
+research plans in advance, before they gather any data [363]. This
+practice originated in psychology, but it’s being adopted by other dis-
+ciplines as well. If journals and funding agencies provide the right
+nudges, preregistered studies may one day become the rule rather than
+exception.
+          Attempting to optimize the way we explore the knowledge
+landscape presents a second challenge: The design of incentive struc-
+tures which encourage individual risk-taking. Whereas scientists share
+the overall objective of exploring the space of unknowns, individually
+they may hold objectives that are not optimized for science as a whole.
+Sociologists of science have long hypothesized that researchers’ choices
+are shaped by an “essential tension” between productive tradition and
+risky innovation [364, 365]. Scientists who adhere to a research trad-
+ition often appear productive by publishing a steady stream of contri-
+butions that advance a focused research agenda. But a focused agenda
+may limit a researcher’s ability to sense and seize opportunities for
+staking out new ideas. Indeed, although an innovative publication
+may lead to higher impact than a conservative one, high-risk innovation
+strategies are rare, because the potential reward does not compensate
+for the risk of failing to publish at all [353].
+          Scientific awards and accolades offer a possible way to encourage
+risk-taking, functioning as key incentives for taking risks to produce
+innovative research. Funding agencies can also help. By proactively spon-
+soring risky projects that test truly unexplored hypotheses, we may see
+more scientists venturing off well-worn research paths. But this is often
+easier said than done. Indeed, measurements show that the allocation of
+biomedical funding across topics and disciplines in the United States is
+better correlated to previous allocations than to the actual need, defined
+by the burden of diseases [366]. For example, the US spends about
+55 percent of its biomedical research funding on genetic approaches,
+
+[p. 230] [PDF page 248]
+
+despite the fact that genome-based variation can explain only about
+15–30 percent of disease causation [367]. Much less funding is devoted
+to environmental effects and diet, despite these being responsible for the
+lion’s share of the disease burden experienced by the population [367],
+from diabetes to heart disease. These findings highlight a systemic mis-
+alignment between US health needs and research investment, casting
+doubt on the degree to which funding agencies – which are often run
+by scientists embedded in established paradigms – can successfully influ-
+ence the evolution of science without additional oversight, incentives, and
+feedback.
+         To manage risk, scientists can learn from Wall Street, which
+invests in portfolios rather than individual stocks. While no one can
+really predict which experiment will work and which won’t, we can
+spread the risk across a portfolio of experiments. Doing so would take
+some of the pressure off of individual research endeavors and individual
+scientists. For example, policymakers could design institutions that
+cultivate intelligent risk-taking by shifting evaluation from the individ-
+ual to the group, as practiced at Bell Labs. They could also fund
+promising people rather than projects, an approach successfully imple-
+mented by the Howard Hughes Medical Institute. With the right incen-
+tives and institutions, researchers can choose experiments that benefit
+not just themselves, but also science and society more broadly [357].
+                                       *
+Of course, we face challenges in realizing this vision, but the potential
+benefit of doing so is enormous. Eighty percent of the most transforma-
+tive drugs from the past 25 years can be traced to basic scientific
+discoveries [368]. Shockingly, though, these discoveries were published
+on average 31 years before the resulting drugs achieved FDA approval.
+The decades-long gap between a basic discovery to a FDA approval
+highlights just how vital the science of science could be in fundamentally
+transforming the practice of science and its policy. What if we could
+identify if a new discovery could lead to a new drug at time of its
+publication? What if we could short cut the pathway to arrive at new
+technologies and applications faster?
+        Indeed, as we discuss next, with the rise of artificial intelligence,
+some of these goals no longer seem far-fetched. In fact, the resulting
+advances may even change the very meaning of doing science.
+
+
+========================================================================
+Original Chapter 22: Artificial Intelligence
 ========================================================================
 
 [p. 231] [PDF page 249]
