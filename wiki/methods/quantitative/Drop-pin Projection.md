@@ -145,7 +145,7 @@ updated: 2026-10-30
 > >
 > > 拖动滑块 $s$ 可直观观察到，在保持各篇论著发表年份与总产出完全固定的前提下，图钉垂直高度（$c_{10}$）在不同年份之间发生置换，重大突破出现的学术时机独立于科研人员的生理年龄。
 > >
-> > ![[wiki/assets/geogebra/drop_pin_career_projection.ggb|480]]
+> > ![[wiki/assets/geogebra/drop_pin_career_projection.ggb]]
 
 ---
 

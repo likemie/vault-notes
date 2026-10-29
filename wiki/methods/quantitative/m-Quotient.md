@@ -121,7 +121,7 @@ updated: 2026-10-30
 > >
 > > 拖动滑块 $n$ 与 $c$ 可直观验证调和平均瓶颈效应：单方面极大增加发文量（如 $n=10$）而缺乏引用（如 $c=1$），$m$ 值将被牢固锁死在 $1.0$ 以下；唯有发文与被引双轮驱动，方能跨入杰出教授区间。
 > >
-> > ![[wiki/assets/geogebra/hirsch_m_quotient.ggb|480]]
+> > ![[wiki/assets/geogebra/hirsch_m_quotient.ggb]]
 
 ---
 
