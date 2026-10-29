@@ -764,6 +764,8 @@
     "Anastasiou et al., 2024": "Anastasiou et al., 2024",
     "Anderberg (1996)": "Anderberg, 1996",
     "Anderberg, 1996": "Anderberg, 1996",
+    "Anders Ericsson et al. (1993)": "Anders Ericsson et al., 1993",
+    "Anders Ericsson et al., 1993": "Anders Ericsson et al., 1993",
     "Anders et al. (2017)": "Anders et al., 2017",
     "Anders et al., 2017": "Anders et al., 2017",
     "Andersen (2020)": "Andersen, 2020",
@@ -2085,6 +2087,8 @@
     "Bengtsson, 2008": "Bengtsson, 2008",
     "Benick (2021)": "Benick, 2021",
     "Benick, 2021": "Benick, 2021",
+    "Benjamin F. Jones (2009)": "Benjamin F. Jones, 2009",
+    "Benjamin F. Jones, 2009": "Benjamin F. Jones, 2009",
     "Benjamin et al. (2000)": "Benjamin et al., 2000",
     "Benjamin et al., 2000": "Benjamin et al., 2000",
     "Benkler (2006)": "Benkler, 2006",
@@ -3248,6 +3252,8 @@
     "Brubaker, 1971": "Brubaker, 1971",
     "Bruce (2001)": "Bruce, 2001",
     "Bruce (2004)": "Bruce, 2004",
+    "Bruce Alberts et al. (2014)": "Bruce Alberts et al., 2014",
+    "Bruce Alberts et al., 2014": "Bruce Alberts et al., 2014",
     "Bruce Smith (1983)": "Bruce Smith, 1983",
     "Bruce Smith, 1983": "Bruce Smith, 1983",
     "Bruce Yandle (1983)": "Bruce Yandle, 1983",
@@ -5574,6 +5580,8 @@
     "David Held, 1991": "David Held, 1991",
     "David Hughes (1995)": "David Hughes, 1995",
     "David Hughes, 1995": "David Hughes, 1995",
+    "David Hull et al. (1978)": "David Hull et al., 1978",
+    "David Hull et al., 1978": "David Hull et al., 1978",
     "David Kang (2010)": "David Kang, 2010",
     "David Kang, 2010": "David Kang, 2010",
     "David Patterson (2014)": "David Patterson, 2014",
@@ -5709,6 +5717,8 @@
     "Dean (1990)": "Dean, 1990",
     "Dean (2009)": "Dean, 2009",
     "Dean (2015)": "Dean, 2015",
+    "Dean Keith Simonton (1988)": "Dean Keith Simonton, 1988",
+    "Dean Keith Simonton, 1988": "Dean Keith Simonton, 1988",
     "Dean, 1990": "Dean, 1990",
     "Dean, 2009": "Dean, 2009",
     "Dean, 2015": "Dean, 2015",
@@ -18524,6 +18534,8 @@
     "Pieper et al., 2014": "Pieper et al., 2014",
     "Piercy (1997)": "Piercy, 1997",
     "Piercy, 1997": "Piercy, 1997",
+    "Pierre Azoulay et al. (2019)": "Pierre Azoulay et al., 2019",
+    "Pierre Azoulay et al., 2019": "Pierre Azoulay et al., 2019",
     "Pierre Bourdieu (2003)": "Pierre Bourdieu, 2003",
     "Pierre Bourdieu, 2003": "Pierre Bourdieu, 2003",
     "Pierson & Castles (2002)": "Pierson & Castles, 2002",
@@ -18604,6 +18616,8 @@
     "Pittman, 1998": "Pittman, 1998",
     "Pizmony-Levy & Woolsey (2017)": "Pizmony-Levy & Woolsey, 2017",
     "Pizmony-Levy & Woolsey, 2017": "Pizmony-Levy & Woolsey, 2017",
+    "Planck (1948)": "Planck, 1948",
+    "Planck, 1948": "Planck, 1948",
     "Planning Aid's Good Practice Guide (2010)": "Planning Aid's Good Practice Guide, 2010",
     "Planning Aid's Good Practice Guide, 2010": "Planning Aid's Good Practice Guide, 2010",
     "Plano Clark & Creswell (2008)": "Plano Clark & Creswell, 2008",
@@ -19653,6 +19667,8 @@
     "Robert Weber, 1990": "Robert Weber, 1990",
     "Robert Wuthnow (1989)": "Robert Wuthnow, 1989",
     "Robert Wuthnow, 1989": "Robert Wuthnow, 1989",
+    "Roberta Sinatra et al. (2016)": "Roberta Sinatra et al., 2016",
+    "Roberta Sinatra et al., 2016": "Roberta Sinatra et al., 2016",
     "Roberts & Kaiser (2011)": "Roberts & Kaiser, 2011",
     "Roberts & Kaiser, 2011": "Roberts & Kaiser, 2011",
     "Roberts & Strudler (2013)": "Roberts & Strudler, 2013",
@@ -32342,6 +32358,21 @@
       "seen_in": [],
       "title": "The effects of reciprocal teaching techniques on reading comprehension for limited English proficient students"
     },
+    "Anders Ericsson et al., 1993": {
+      "aliases": [
+        "Anders Ericsson et al., 1993",
+        "Anders Ericsson et al. (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Anders Ericsson et al., 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Constant-Probability-of-Success Model.md"
+      ],
+      "title": ""
+    },
     "Anders et al., 2017": {
       "aliases": [
         "Anders et al., 2017",
@@ -36401,7 +36432,8 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
         "wiki/concepts/science-policy/Goliath's Shadow.md",
-        "wiki/concepts/university-industry-collaboration/Star Scientists.md"
+        "wiki/concepts/university-industry-collaboration/Star Scientists.md",
+        "wiki/theories/science-policy/Planck's Principle.md"
       ],
       "title": ""
     },
@@ -42029,6 +42061,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Fostering Self-Regulated Learning in Primary School Students  Can Additional Teacher Training Enhance the Effectiveness of an Intervention?"
+    },
+    "Benjamin F. Jones, 2009": {
+      "aliases": [
+        "Benjamin F. Jones, 2009",
+        "Benjamin F. Jones (2009)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Benjamin F. Jones, 2009"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Burden of Knowledge.md"
+      ],
+      "title": ""
     },
     "Benjamin et al., 2000": {
       "aliases": [
@@ -50609,6 +50656,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Thinking Skills and Creativity/Argument_Park_2026_TSC.md"
+      ],
+      "title": ""
+    },
+    "Bruce Alberts et al., 2014": {
+      "aliases": [
+        "Bruce Alberts et al., 2014",
+        "Bruce Alberts et al. (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bruce Alberts et al., 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Burden of Knowledge.md"
       ],
       "title": ""
     },
@@ -67502,6 +67564,21 @@
       ],
       "title": ""
     },
+    "David Hull et al., 1978": {
+      "aliases": [
+        "David Hull et al., 1978",
+        "David Hull et al. (1978)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "David Hull et al., 1978"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Planck's Principle.md"
+      ],
+      "title": ""
+    },
     "David Kang, 2010": {
       "aliases": [
         "David Kang, 2010",
@@ -68515,6 +68592,22 @@
         "wiki/concepts/instruction-pedagogy/Discovery Learning.md",
         "wiki/concepts/learning-science-cognitive-science/Productive Failure.md",
         "wiki/persons/us/David Klahr.md"
+      ],
+      "title": ""
+    },
+    "Dean Keith Simonton, 1988": {
+      "aliases": [
+        "Dean Keith Simonton, 1988",
+        "Dean Keith Simonton (1988)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Dean Keith Simonton, 1988"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Constant-Probability-of-Success Model.md",
+        "wiki/theories/science-policy/Random Impact Rule.md"
       ],
       "title": ""
     },
@@ -106715,7 +106808,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/theories/science-policy/Planck's Principle.md"
       ],
       "title": ""
     },
@@ -112996,7 +113090,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/theories/science-policy/Burden of Knowledge.md"
       ],
       "title": ""
     },
@@ -161526,6 +161621,21 @@
       "seen_in": [],
       "title": "The Effects of Multi-Strategy Instruction upon Reading Comprehension"
     },
+    "Pierre Azoulay et al., 2019": {
+      "aliases": [
+        "Pierre Azoulay et al., 2019",
+        "Pierre Azoulay et al. (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Pierre Azoulay et al., 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Planck's Principle.md"
+      ],
+      "title": ""
+    },
     "Pierre Bourdieu, 2003": {
       "aliases": [
         "Pierre Bourdieu, 2003",
@@ -162121,6 +162231,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/facts/us/FairTest.md"
+      ],
+      "title": ""
+    },
+    "Planck, 1948": {
+      "aliases": [
+        "Planck, 1948",
+        "Planck (1948)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Planck, 1948"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Planck's Principle.md"
       ],
       "title": ""
     },
@@ -169749,6 +169874,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Discursive Field.md"
+      ],
+      "title": ""
+    },
+    "Roberta Sinatra et al., 2016": {
+      "aliases": [
+        "Roberta Sinatra et al., 2016",
+        "Roberta Sinatra et al. (2016)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Roberta Sinatra et al., 2016"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Random Impact Rule.md"
       ],
       "title": ""
     },
