@@ -105,7 +105,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 ---
@@ -152,6 +152,7 @@ updated: 2026-10-28
 > - **教学干预性质与时长剂量的不可[[Commensuration|通约]]异质性（Intervention [[Incommensurability]] & Duration Heterogeneity）** 教育研究中的教学干预在本质上属于无法在单一连续标尺上线性比对的多维实体。[[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker）等人指出，将计算机辅助教学、网络学习、[[Direct Instruction|直接教学]]等异质性极强的教学法置于统一的“排行榜”上，如同将德甲足球联赛积分榜机械套用于教学法比较，犯下了不可通约性的[[Category Mistake|范畴错误]]（Kategoriefehler）；同时干预时长跨越单次 20 分钟实验到长达 4 个月的学期课程，忽略时间剂量异质性而强行平均，彻底抹杀了效应量随时间累积或衰减的非线性特征。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 31–33)]]
 > - **[[Meta-meta-analysis|元-元分析]]层级累加的经验损耗与方法学异质性遮蔽（Mega-analysis Level Loss & Methodological Heterogeneity）** 德语教学论学者[[Ewald Terhart|特哈特]]（[[Argument_Terhart_2011_JCS|Terhart, 2011, pp. 427–429, 436]]）揭示，一阶元分析本身是将异质研究汇总压缩的统计工具；当进一步将其组合为元-元分析（mega-analysis）时，原始研究的详细经验参数、测量背景与控制条件在反复累加中遭遇系统性损耗，无法实现无损通约（正如货币汇兑必然存在折损）。更为严重的是，这种巨型综合缺乏严格的初级元分析准入质控门槛，将高度异质的随机对照实验与宽松的调查[[Questionnaire|问卷]]、不同年代（大多源于 1980–1990 年代）的研究陈旧数据机械合并，以单一平均效应量掩盖了方法学与时间维度的深层异质性。
 > - **制度情境与政策反应的异质性（Institutional & Contextual Policy Heterogeneity）** [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 28–29)]] 揭示，跨国治理测评试图通过标准化等值标尺建立统一的比较空间，但不同国家与地区的历史传统与政策文化展现出深刻的制度异质性（Institutional Heterogeneity）：芬兰将 PISA 视作对本土综合学校体制的外部确证，德国经历“PISA 震荡”后重构国家教育标准，英格兰将其作为维系政策排位的连续工具，苏格兰则将测评作为与英格兰保持制度距离的政策载体。统一量化等值尺度无法抹平国家内部的政策解读与制度反应异质性。
+> - **学科知识载体与学术发表模式的异质性（Disciplinary & Publication Carrier Heterogeneity）** 在学术评价与文献计量分析中，学科间知识交流与传播载体存在深刻的结构性异质性：人文学科以耗时漫长的专著为核心，物理学偏好篇幅受限的快报短文，计算机科学自 1962 年建系起便以顶级同行评审会议录为首要交流渠道；若忽视学科载体异质性而机械套用单一期刊数据库指标，会产生严重失真的评价偏差。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 9–11)]]
 
 > [!logic-map]- 教育异质性层级与聚合失真分析模型
 > ```mermaid
@@ -346,10 +347,12 @@ updated: 2026-10-28
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, pp. 25–27, 32–33)]] | 5 项家庭作业元分析（161 项研究）与班级规模元分析 | 二阶元分析数理重析与方法学批判 | 二阶算术平均与非线性曲线截尾失真指标 | 家庭作业无权简单平均为 $d=0.29$（高中 $d=0.64$ vs 小学 $d=0.15$）；班级规模非线性曲线被截尾矮化为 $d=0.09$ | — | 实证确证不加权简单平均与局部平缓尾部截取会人为清洗掉具有关键实践指导价值的亚组异质性与非线性关系 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 29–33)]] | 网络学习与直接教学二阶聚合审计 | 统计模型重构与敏感性分析 | 受试人群跨度（医学生 vs 中小学生）与干预时长（20分钟至4个月）异质性 | 经去重与加权重新核算后，网络学习效应量从 $d=0.33$ 降至 $d=-0.03$，有效性排行榜跌落 72 位 | $p < .05$ | 证实无视不可通约干预异质性与微小样本量下 $\tau^2$ 估计瘫痪，会导致宏观排行榜彻底失真 |
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011, pp. 427–429, 436)]] | 816 项元分析、52,649 项初级研究与 146,626 个效应量 | 巨型综合元研究方法审计 | 二阶元分析多级累加损耗、纳入质控门槛缺位与文献时效异质性 | 纳入的一阶元分析大多发表于 1980–1990 年代，存在时效滞后；未设立一阶元分析质控标准，混杂严格实验与松散调查 | — | 证明缺乏质控的多级聚合不仅无法消除异质性，反而会制造均质化确定性的量化假象，抹杀真正的实证变异线索 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 美国[[National Research Council\|国家研究委员会]]（NRC）博士点项目教研人员产出数据 | 跨学科院系生产力比对调查 | 院系五年期人均发表量的跨学科分布 | 历史学 1.2 篇 vs 化学 10.5 篇；生态学 5.1 篇 vs 药学 9.5 篇 | 机构普查数据 | 证实学科文化与知识载体异质性决定了产出基准，不可直接跨学科比对篇数 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 揭示人文学科专著、物理学快报与计算机科学会议录的学术载体异质性，证实跨学科评价中不可机械通约发表篇数。
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — [[Systematic Review|系统综述]]基于 [[PISA]] 2015 及[[Cognitive Load Theory|认知负荷理论]]的实证文献，论证了探究教学中[[Construct|构念]]子维度异质性（实验设计 vs 课堂争论）与学习者认知群体异质性（先前知识逆转、[[Executive Function|执行功能]][[Inhibitory Control|抑制控制]]）对教学干预效能边界的决定性作用。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统解构《[[Visible Learning|可见的学习]]》在应对教育真实异质性时的模型双重失配（[[Fixed-Effect Model|固定效应]]同质性假定破产 vs 二级[[Random-Effects Model|随机效应]]微小[[Sample Size Determination|样本量]]下 $\tau^2$ 估计瘫痪），揭示教学法排名的德甲联赛式[[Category Mistake|范畴错误]]与干预时长剂量异质性扭曲。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 11, 23, 32)]] — 提出学校像监狱 100 人质性归因案例，论证单一统计指标对解释异质性的遮蔽，并阐明[[Complexity Theory|复杂性理论]]中异质性作为多重视角与多元[[Paradigm|范式]]倡导的核心公理。
