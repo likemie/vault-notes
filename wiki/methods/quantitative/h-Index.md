@@ -134,13 +134,20 @@ updated: 2026-10-29
 > > [!method-limits] 参数与注意事项
 > > 模型假设 $n$ 与 $c$ 长期稳定，对中途转向、停顿或早期爆发后停滞的学者不成立。
 >
-> **动态参数模拟（GeoGebra）** 横轴为年资 $t$，纵轴为 $h$；绿色滑块为 $n$，红色滑块为 $c$，红线为 $h(t)=mt$。拖动滑块可看到 $m$ 受 $n$ 与 $c$ 中较小一方限制。
->
-> ```geogebra
-> file: wiki/assets/geogebra/hirsch_h_index_v2.ggb
-> height: 480
-> toolbar: false
-> ```
+> > [!geogebra] 动态参数模拟
+> > - **横轴** 年资 $t$
+> > - **纵轴** $h$
+> > - **滑块 n** 年均发文数（绿色）
+> > - **滑块 c** 单篇年均新增被引（红色）
+> > - **红线** $h(t)=mt$
+> >
+> > 拖动滑块可看到 $m$ 受 $n$ 与 $c$ 中较小一方限制。
+> >
+> > ```geogebra
+> > file: wiki/assets/geogebra/hirsch_h_index_v2.ggb
+> > height: 480
+> > toolbar: false
+> > ```
 
 > [!software-impl] 软件实现
 > - **数据来源** Web of Science、Scopus、Google Scholar 覆盖范围不同，同一学者的 $h$ 会不同，报告时须注明数据库与检索日期。

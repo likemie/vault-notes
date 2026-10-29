@@ -16337,6 +16337,19 @@
     ]
   },
   {
+    "title": "Reverse Matthew Effect in Academia",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Reverse Matthew Effect in Academia.md",
+    "aliases": [
+      "学术界的逆向马太效应",
+      "逆向学术马太效应",
+      "逆向马太效应",
+      "撤稿声誉惩罚",
+      "Reverse Matthew Effect",
+      "Status Penalty in Retractions"
+    ]
+  },
+  {
     "title": "Scientific Productivity",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Scientific Productivity.md",
@@ -16372,6 +16385,20 @@
       "早期种子资助",
       "Strategic Seeding",
       "Seed money"
+    ]
+  },
+  {
+    "title": "Status Bias in Peer Review",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Status Bias in Peer Review.md",
+    "aliases": [
+      "同行评审中的声望偏倚",
+      "评审声望偏倚",
+      "机构地位偏倚",
+      "自选双盲悖论",
+      "Status Bias in Peer Review",
+      "Prestige Bias in Peer Review",
+      "Optional Double-Blind Paradox"
     ]
   },
   {

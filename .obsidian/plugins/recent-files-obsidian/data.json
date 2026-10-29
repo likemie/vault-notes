@@ -5,6 +5,30 @@
       "path": "wiki/methods/quantitative/h-Index.md"
     },
     {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit01",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+    },
+    {
+      "basename": "Argument_Murray_Moxon-Browne_2013_JCMS",
+      "path": "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md"
+    },
+    {
+      "basename": "Argument_Skipp_Tanner_2015_EEF",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
+    },
+    {
+      "basename": "g-Index",
+      "path": "wiki/methods/quantitative/g-Index.md"
+    },
+    {
+      "basename": "Argument_Ryan_2010_HKUP",
+      "path": "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_HKUP.md"
+    },
+    {
       "basename": "template-metax",
       "path": "wiki/templates/template-metax.md"
     },
@@ -15,14 +39,6 @@
     {
       "basename": "template-method-quant",
       "path": "wiki/templates/template-method-quant.md"
-    },
-    {
-      "basename": "g-Index",
-      "path": "wiki/methods/quantitative/g-Index.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit01",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
     },
     {
       "basename": "Shockley's Multiplicative Hurdle Model",
@@ -47,14 +63,6 @@
     {
       "basename": "template-person",
       "path": "wiki/templates/template-person.md"
-    },
-    {
-      "basename": "Argument_Murray_Moxon-Browne_2013_JCMS",
-      "path": "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
     },
     {
       "basename": "Bibliometric Analysis",
@@ -83,10 +91,6 @@
     {
       "basename": "Argument_Grek_2024_EERJ",
       "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md"
-    },
-    {
-      "basename": "Argument_Skipp_Tanner_2015_EEF",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md"
     },
     {
       "basename": "Visible Classroom Programme",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Lester_2005_MIT",
       "path": "wiki/arguments/reports-policy-documents/Argument_Lester_2005_MIT.md"
-    },
-    {
-      "basename": "Argument_SpronkenSmith_2024_AEHE",
-      "path": "wiki/arguments/journal-articles/Assessment & Evaluation in Higher Education/Argument_SpronkenSmith_2024_AEHE.md"
     }
   ],
   "omittedPaths": [],

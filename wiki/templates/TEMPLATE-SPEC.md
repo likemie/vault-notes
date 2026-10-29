@@ -359,6 +359,7 @@ Method 页写研究方法、研究设计、资料收集方法、分析方法、�
 - 模板选择：有明确计算或估计规则的量化方法使用 `template-method-quant.md`；质性方法、混合方法和没有公式的量化设计（抽样、实验设计、问卷调查等）使用 `template-method.md`。
 - 量化形态用 tags 标注，不新增 YAML 字段：`method/indicator`（测度指标与指数）、`method/statistical`（统计量与检验）、`method/model`（统计、计量与综合评价模型），每页选一个。
 - 指标类条目必须在 `[!method-scope]` 的“测量或估计对象”中链接被测的 Concept；构念的含义、争议和实证发现写在 Concept，指标页只写与计算、解读和使用边界有关的内容。
+- 公式有 GeoGebra 模拟文件时，在对应 `[!formula-step]` 内用 `[!geogebra] 动态参数模拟` 承载：图例列表、观察提示、geogebra 代码块，不用加粗段落直接放代码块。
 - 每个 `[!formula-step]` 优先附一个 `[!example]- 手算示例`，用少量数字走一遍计算；自拟数字须标“示例”，不得写成实证结果。
 - 来源报告的参照基准、阈值或常模写入 `[!ref-table]- 参照基准与阈值`，逐行附 Argument；Method 页不使用 Concept 的实证数据表格与 marker。
 - 指标有清楚的提出和修正历程时，可用 `[!dev-timeline]- 方法演变`；变体指标另有独立条目时，在 `[!entry-map]` 中以“变体”关系链接。

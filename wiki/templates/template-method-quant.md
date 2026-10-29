@@ -69,7 +69,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 >   D --> E["解读与比较"]
 > ```
 
-%% 每个关键公式各写一个 formula-step；只有一个公式时删除上面的总览图。 %%
+%% 每个关键公式各写一个 formula-step；只有一个公式时删除上面的总览图。有 GeoGebra 文件时保留卡内的 geogebra 模块，否则删除。 %%
 
 > [!formula-step] 步骤一　步骤名称
 > $$公式写在这里$$
@@ -88,6 +88,19 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 >
 > > [!method-limits] 参数与注意事项
 > > 隐含假设、常见误读、边界条件或与替代公式的区别。
+>
+> > [!geogebra] 动态参数模拟
+> > - **横轴** 对应的变量
+> > - **纵轴** 对应的变量
+> > - **滑块 a** 对应的参数及颜色
+> >
+> > 一句话说明拖动滑块时应观察什么。
+> >
+> > ```geogebra
+> > file: wiki/assets/geogebra/<文件名>.ggb
+> > height: 480
+> > toolbar: false
+> > ```
 
 > [!software-impl] 软件实现
 > - **数据来源** 数据库、导出格式与口径差异。
