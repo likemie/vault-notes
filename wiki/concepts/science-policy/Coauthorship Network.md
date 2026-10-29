@@ -8,7 +8,7 @@ aliases:
 summary: "依据学术论著联合署名关系构建的复杂拓扑网络；具有跨学科异质性的重尾度分布、少数超级枢纽节点、平均路径约为 6 步的小世界特性以及覆盖 80%–90% 活跃学者的巨连通分支，是刻画科学共同体知识重组与协同演化的基础网络结构。"
 type: concept
 domain: "science-policy"
-related_count: 10
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -78,7 +78,7 @@ updated: 2026-10-30
 > - **重尾度分布与超级枢纽节点** 绝大多数科学家的合著学者数量十分有限，而极少数像[[Paul Erdős|保罗·埃尔德什]]（Paul Erdős）这样的超级合作学者拥有数百位合著者，成为维系整个网络低阶连通的核心枢纽。生物学尾部最长，物理学次之，数学衰减最快。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 104–105)]]
 > - **优先连接机制驱动网络集聚** 早期初入网络的青年学者更倾向于与导师或既有高连通度资深学者联合署名，使拥有更多学术伙伴的学者以更快速度吸纳新连线，逐步固化为网络拓扑的核心枢纽。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 105–106)]]
 > - **小世界六度分隔拓扑** 尽管科学界包含数以百万计的学者，任意两位学者之间的平均最短合著路径长度通常仅为 5 至 6 步，且与核心枢纽学者的平均距离更短（如数学家到 Erdős 的平均距离仅为 4.7 步）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 106)]]
-> - **巨连通分支的普遍覆盖** 真实学科合著网络中 80% 至 90% 的学者被统一包含在同一个最大弱连通分支内部，证实科学界本质上是一个广泛连接的有机整体而非彼此隔绝的孤立派系。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 108–109)]]
+> - **巨连通分支的普遍覆盖** 真实学科合著网络中 80% 至 90% 的学者被统一包含在同一个最大弱连通分支即巨连通分支（Giant Connected Component, GCC）内部，证实科学界本质上是一个广泛连接的有机整体而非彼此隔绝的孤立派系。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 108–109)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid

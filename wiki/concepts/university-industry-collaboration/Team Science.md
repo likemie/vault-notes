@@ -77,7 +77,7 @@ updated: 2026-10-30
 
 > [!feature] 核心要素
 > - **团队生产模式的全面主导** 在科学与工程领域，团队成果占比从 1955 年的约 50% 攀升至 2000 年的 80%；在社会科学领域，团队成果占比从 17.5% 上升至 51.5%，跨越了协作主导的分水岭。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
-> - **相对团队影响力的系统性占优** 依托[[Relative Team Impact|相对团队影响力]]（RTI）测度表明，团队论著在全部历史时期与学科门类均获得高于单人的篇均被引；在理工科斩获 1,000 次以上引用的概率是单人的 6.3 倍。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–87)]]
+> - **相对团队影响力的系统性占优** 依托[[Relative Team Impact|相对团队影响力]]（Relative Team Impact, RTI）测度表明，团队论著在全部历史时期与学科门类均获得高于单人的篇均被引；在理工科斩获 1,000 次以上引用的概率是单人的 6.3 倍。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–87)]]
 > - **非共识知识重组与创新溢价** 团队能够整合多元异质知识，将罕见非典型知识组合嵌入熟悉范式的概率比单人成果高出 37.7%，这构成了其斩获顶尖突破的认知基础。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 86–87)]]
 > - **跨校合作崛起与声望分层固化** 跨校合作份额在三十年间翻两番达到 32.8% 以上，带来更高的引文溢价；但学者物色伙伴遵循学术声望同质匹配，使顶尖科研资源加速向精英名校同盟聚拢。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 90–93)]]
 

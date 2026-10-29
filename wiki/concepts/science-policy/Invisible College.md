@@ -49,7 +49,7 @@ updated: 2026-10-30
 > - **边界** 不等同于具有官方规章与行政编制的实体学术单位，亦不局限于同一大学内部的实体实验室。
 
 > [!citation-card|notitle] 无形学院的实质存在
-> 这些结果共同证实了 17 世纪科学家罗伯特·波义耳所称的科学家“无形学院”的存在。他们因对特定科学议题与思想的共同志趣而凝聚在一起；当失去一位明星学者时，这一无形学院便遭受持久且深远的智识损失。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–100)]]
+> 这些结果共同证实了 17 世纪科学家罗伯特·波义耳所称的无形学院的存在。他们因对特定科学议题与思想的共同志趣而凝聚在一起；当失去一位明星学者时，这一无形学院便遭受持久且深远的智识损失。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–100)]]
 >
 > *These results together provide evidence of what seventeenth-century scientist Robert Boyle called an "invisible college" of scientists, bound together by interests in specific scientific topics and ideas – a college which suffers a permanent and reverberating intellectual loss when a star is lost.*
 
@@ -72,7 +72,7 @@ updated: 2026-10-30
 > [!feature] 核心要素
 > - **思想纽带超越空间距离** 无形学院内部的学术互动主要依托思想网络流转。外生冲击实验表明，明星学者离世导致的合作学者产出下降，在研究方向高度重叠的同行身上最为剧烈，即使他们身处不同城市或国家，而同楼但方向无关的同事所受影响微乎其微。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–100)]]
 > - **智识损失的持久性与不可逆性** 区别于物理设备损坏可按市价重置，无形学院中卓越学者的非预期丧失会带来不可替代的智识源泉断裂，引发核心合作网络成员成果质量调整后发表率达 5% 至 8% 的永久性下滑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 99)]]
-> - **热心学者的隐性润滑机制** 无形学院的运转高度依赖在致谢部分频繁出现的“热心科学家”。他们通过提供概念性反馈、尖锐学术批判与构想建议提升整个网络的论著质量，其社会性贡献无法被传统引文与独立发文篇数完全度量。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
+> - **热心学者的隐性润滑机制** 无形学院的运转高度依赖在致谢部分频繁出现的热心学者。他们通过提供概念性反馈、尖锐学术批判与构想建议提升整个网络的论著质量，其社会性贡献无法被传统引文与独立发文篇数完全度量。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 100)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -117,7 +117,7 @@ updated: 2026-10-30
 ---
 
 > [!dev-timeline] 概念演变
-> - **1646 — 概念发端** 罗伯特·波义耳（Robert Boyle）在信件中首次提出“无形学院”，指代早期围绕自然哲学开展学术交流与实验通信的学者网络。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 99)]]
+> - **1646 — 概念发端** 罗伯特·波义耳（Robert Boyle）在信件中首次提出无形学院概念，指代早期围绕自然哲学开展学术交流与实验通信的学者网络。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 99)]]
 > - **1963 — 科学社会学规范化** 德里克·德索拉·普赖斯（Derek de Solla Price）在《小科学，大科学》中将无形学院形式化为围绕前沿问题定期交换预印本的小型精英学者圈。
 > - **2010 — 因果实证检验确立客观实在性** 皮埃尔·阿祖莱（Pierre Azoulay）等通过明星科学家意外猝逝外生冲击，证实无形学院是由知识互补性构成的实质因果网络。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 99–100)]]
 
