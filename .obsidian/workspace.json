@@ -82,7 +82,8 @@
               "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit01"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -297,8 +298,22 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "bd88d0cdfde06150",
+  "active": "a2aa5f6545a9eecb",
   "lastOpenFiles": [
+    "wiki/concepts/science-policy/Exploration-Exploitation in Science.md",
+    "wiki/concepts/science-policy/Hot Streak.md",
+    "wiki/theories/science-policy/Hot-Streak Model.md",
+    "wiki/methods/quantitative/Q-Factor.md",
+    "wiki/theories/science-policy/Q-Model.md",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_7-2_Hot_Streak_Model_Dynamics_and_Frequency.jpg",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_7-1_Hot_Streaks_Co_Location_of_Hits.jpg",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_6-4_Predicting_Nobel_Laureates_ROC.jpg",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_6-3_Stability_of_Q_Factor_Over_Career.jpg",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_6-2_Careers_With_Different_Q_Factor.jpg",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_6-1_Scientific_Careers_Not_Random_Q_Model.jpg",
+    "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md",
+    "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md",
+    "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
     "wiki/assets/geogebra/dorogovtsev_o_index.ggb",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
@@ -327,23 +342,10 @@
     "wiki/methods/quantitative/Career Shuffling Method.md",
     "wiki/methods/quantitative/Drop-pin Projection.md",
     "wiki/persons/us/Harvey C. Lehman.md",
-    "wiki/persons/us/David Galenson.md",
-    "wiki/theories/science-policy/Random Impact Rule.md",
-    "wiki/concepts/science-policy/Conceptual Innovators.md",
-    "wiki/templates/template-argument.md",
-    "wiki/concepts/comparative-education/Scientific Paradigm.md",
-    "wiki/concepts/science-policy/Experimental Innovators.md",
-    "wiki/concepts/science-policy/Lost Winners.md",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-6_Older_Entrepreneurs_Likelihood_of_Success.jpg",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-5_Academic_Career_of_John_Fenn.jpg",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-4_Career_Patterns_of_Nobel_Laureates_Lost_Winners.jpg",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-3_Random_Impact_Rules_Across_Creative_Domains.jpg",
-    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-2_Random_Impact_Rule_P_t_star.jpg",
-    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-1_Publication_History_Kenneth_Wilson_Drop_Pin.jpg",
-    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_4-5_Michelangelo_vs_Picasso.jpg",
-    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_4-4_Theorists_vs_Empiricists_Nobel_Laureates.jpg",
-    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_4-3_Shifts_in_Age_Distribution_of_Great_Innovation.jpg",
-    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_4-2_Age_Distribution_of_Great_Innovation.jpg",
     "未命名.canvas"
   ]
 }

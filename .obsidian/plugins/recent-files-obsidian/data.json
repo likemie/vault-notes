@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Argument_Alexiadou_Rambla_2023_EERJ",
-      "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md"
-    },
-    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit02",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
+    },
+    {
+      "basename": "Argument_Skipp_Tanner_2015_EEF",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md"
+    },
+    {
+      "basename": "Argument_Stone_2020_PolSoc",
+      "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
+    },
+    {
+      "basename": "Argument_Alexiadou_Rambla_2023_EERJ",
+      "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit01",
@@ -117,10 +125,6 @@
       "path": "未命名.canvas"
     },
     {
-      "basename": "Argument_Skipp_Tanner_2015_EEF",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md"
-    },
-    {
       "basename": "template-eef",
       "path": "wiki/templates/template-eef.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Ryan_2010_HKUP",
       "path": "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_HKUP.md"
-    },
-    {
-      "basename": "Argument_Chou_2017_PolSoc",
-      "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md"
     }
   ],
   "omittedPaths": [],

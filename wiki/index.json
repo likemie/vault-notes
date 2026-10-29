@@ -21622,6 +21622,17 @@
     ]
   },
   {
+    "title": "Q-Model",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Q-Model.md",
+    "aliases": [
+      "Q 模型",
+      "Q-模型",
+      "Q-Model of Scientific Success",
+      "Sinatra Q-Model"
+    ]
+  },
+  {
     "title": "Random Impact Rule",
     "type": "theory",
     "path": "wiki/theories/science-policy/Random Impact Rule.md",
@@ -25297,6 +25308,17 @@
       "倾向评分匹配",
       "倾向得分匹配法",
       "Propensity Score Matching Method"
+    ]
+  },
+  {
+    "title": "Q-Factor",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Q-Factor.md",
+    "aliases": [
+      "Q 因子",
+      "Q-因子",
+      "Individual Q-Factor",
+      "Ability Parameter Q"
     ]
   },
   {

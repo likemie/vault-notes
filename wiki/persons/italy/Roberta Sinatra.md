@@ -24,15 +24,18 @@ tags:
 related_concepts: []
 related_theories:
   - "[[Random Impact Rule]]"
+  - "[[Q-Model]]"
 related_methods:
   - "[[Career Shuffling Method]]"
   - "[[Drop-pin Projection]]"
   - "[[Bibliometric Analysis]]"
+  - "[[Q-Factor]]"
 related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
 confidence: high
 status: active
 created: 2026-10-29

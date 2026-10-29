@@ -16,8 +16,8 @@ related_methods: []
     <a href="/bases/arguments"><span>论证</span><strong>387</strong></a>
     <a href="/bases/facts"><span>事实</span><strong>1022</strong></a>
     <a href="/bases/persons"><span>人物</span><strong>574</strong></a>
-    <a href="/bases/theories"><span>理论</span><strong>257</strong></a>
-    <a href="/bases/methods"><span>方法</span><strong>353</strong></a>
+    <a href="/bases/theories"><span>理论</span><strong>258</strong></a>
+    <a href="/bases/methods"><span>方法</span><strong>354</strong></a>
     <a href="/bases/instruments"><span>测量工具</span><strong>81</strong></a>
   </div>
 

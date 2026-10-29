@@ -23,15 +23,18 @@ tags:
   - theme/scientific-career
 related_concepts:
   - "[[Experimental Innovators]]"
+  - "[[Hot Streak]]"
 related_theories:
   - "[[Random Impact Rule]]"
   - "[[Constant-Probability-of-Success Model]]"
+  - "[[Hot-Streak Model]]"
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
 confidence: high
 status: active
 created: 2026-10-29
