@@ -1634,6 +1634,8 @@
     "Bar-Yam, 1997": "Bar-Yam, 1997",
     "Barab & Squire (2004)": "Barab & Squire, 2004",
     "Barab & Squire, 2004": "Barab & Squire, 2004",
+    "Barabási & Albert (1999)": "Barabási & Albert, 1999",
+    "Barabási & Albert, 1999": "Barabási & Albert, 1999",
     "Barabási (2002)": "Barabási, 2002",
     "Barabási (2005)": "Barabási, 2005",
     "Barabási et al. (2002)": "Barabási et al., 2002",
@@ -2356,6 +2358,8 @@
     "Biagioli, 2002": "Biagioli, 2002",
     "Bianco (2010)": "Bianco, 2010",
     "Bianco, 2010": "Bianco, 2010",
+    "Bianconi & Barabási (2001)": "Bianconi & Barabási, 2001",
+    "Bianconi & Barabási, 2001": "Bianconi & Barabási, 2001",
     "Biber et al. (2011)": "Biber et al., 2011",
     "Biber et al., 2011": "Biber et al., 2011",
     "Bicak (1962)": "Bicak, 1962",
@@ -3099,6 +3103,8 @@
     "Brian Pusser & Sarah Turner, 2004": "Brian Pusser & Sarah Turner, 2004",
     "Brian Rowan (1977)": "Brian Rowan, 1977",
     "Brian Rowan, 1977": "Brian Rowan, 1977",
+    "Brian Uzzi (2005)": "Brian Uzzi, 2005",
+    "Brian Uzzi, 2005": "Brian Uzzi, 2005",
     "Brian W. Head (2008)": "Brian W. Head, 2008",
     "Brian W. Head, 2008": "Brian W. Head, 2008",
     "Brice (2017a)": "Brice, 2017a",
@@ -18876,6 +18882,8 @@
     "Prevoo et al., 2016": "Prevoo et al., 2016",
     "Prewett (2020)": "Prewett, 2020",
     "Prewett, 2020": "Prewett, 2020",
+    "Price (1965)": "Price, 1965",
+    "Price, 1965": "Price, 1965",
     "Price-Mohr (2015)": "Price-Mohr, 2015",
     "Price-Mohr, 2015": "Price-Mohr, 2015",
     "Pridemore (1995)": "Pridemore, 1995",
@@ -19913,7 +19921,9 @@
     "Román-Caballero et al. (2021)": "Román-Caballero et al., 2021",
     "Román-Caballero et al., 2021": "Román-Caballero et al., 2021",
     "Ronald Burt (2000)": "Ronald Burt, 2000",
+    "Ronald Burt (2004)": "Ronald Burt, 2004",
     "Ronald Burt, 2000": "Ronald Burt, 2000",
+    "Ronald Burt, 2004": "Ronald Burt, 2004",
     "Ronald Fisher (1938)": "Ronald Fisher, 1938",
     "Ronald Fisher, 1938": "Ronald Fisher, 1938",
     "Rongtao (2011)": "Rongtao, 2011",
@@ -36490,7 +36500,8 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/concepts/science-policy/Invisible College.md",
         "wiki/concepts/science-policy/Peer Effects in Science.md",
-        "wiki/concepts/science-policy/Reflection Problem.md"
+        "wiki/concepts/science-policy/Reflection Problem.md",
+        "wiki/methods/quantitative/Difference-in-Differences.md"
       ],
       "title": ""
     },
@@ -38836,6 +38847,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Journal of Technology Studies/Argument_Murphy_2026_JTS.md"
+      ],
+      "title": ""
+    },
+    "Barabási & Albert, 1999": {
+      "aliases": [
+        "Barabási & Albert, 1999",
+        "Barabási & Albert (1999)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Barabási & Albert, 1999"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Preferential Attachment in Academia.md"
       ],
       "title": ""
     },
@@ -44116,6 +44142,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Early Training in Oral Comprehension and Phonological Skills  Results of a Three-Year Longitudinal Study"
+    },
+    "Bianconi & Barabási, 2001": {
+      "aliases": [
+        "Bianconi & Barabási, 2001",
+        "Bianconi & Barabási (2001)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Bianconi & Barabási, 2001"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Preferential Attachment in Academia.md"
+      ],
+      "title": ""
     },
     "Biber et al., 2011": {
       "aliases": [
@@ -49641,6 +49682,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/comparative-education/World Society Theory.md"
+      ],
+      "title": ""
+    },
+    "Brian Uzzi, 2005": {
+      "aliases": [
+        "Brian Uzzi, 2005",
+        "Brian Uzzi (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Brian Uzzi, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Small-World Collaboration Model.md"
       ],
       "title": ""
     },
@@ -95015,7 +95071,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
+        "wiki/theories/science-policy/Preferential Attachment in Academia.md"
       ],
       "title": ""
     },
@@ -151123,7 +151180,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
-        "wiki/concepts/science-policy/Coauthorship Network.md"
+        "wiki/concepts/science-policy/Coauthorship Network.md",
+        "wiki/methods/mixed/Network Analysis.md"
       ],
       "title": ""
     },
@@ -160893,8 +160951,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
-        "wiki/persons/us/Alexander M. Petersen.md",
-        "wiki/theories/science-policy/Preferential Attachment in Academia.md"
+        "wiki/persons/us/Alexander M. Petersen.md"
       ],
       "title": ""
     },
@@ -164244,6 +164301,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effectiveness of a social-emotional learning program  A mixed-method study of The Leader in Me"
+    },
+    "Price, 1965": {
+      "aliases": [
+        "Price, 1965",
+        "Price (1965)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Price, 1965"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Preferential Attachment in Academia.md"
+      ],
+      "title": ""
     },
     "Price-Mohr, 2015": {
       "aliases": [
@@ -171754,6 +171826,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/theories/sociology-of-education/Lefebvre's Spatial Triad.md"
+      ],
+      "title": ""
+    },
+    "Ronald Burt, 2004": {
+      "aliases": [
+        "Ronald Burt, 2004",
+        "Ronald Burt (2004)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ronald Burt, 2004"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Small-World Collaboration Model.md"
       ],
       "title": ""
     },
@@ -201551,7 +201638,8 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/concepts/competency-and-assessment/Creativity.md",
-        "wiki/concepts/science-policy/Coauthorship Network.md"
+        "wiki/concepts/science-policy/Coauthorship Network.md",
+        "wiki/theories/science-policy/Small-World Collaboration Model.md"
       ],
       "title": ""
     },

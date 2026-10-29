@@ -10,7 +10,7 @@ aliases:
 summary: "由 Benjamin F. Jones (2009) 提出的创新经济学理论；指出随着人类知识存量呈指数扩张，后继学者抵达前沿所需的前置受训时间大幅延长，挤压了个体全生命周期的有效创新窗口，导致科研巅峰年龄后移与人均产出率放缓，促使科学组织转向团队协作。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 2
+theory_related_count: 5
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"

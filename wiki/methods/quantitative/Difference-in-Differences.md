@@ -11,7 +11,7 @@ summary: "一种用于评估公共政策或教育干预因果效应的准实验�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 31
+method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -36,6 +36,9 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Reliability]]"
   - "[[Educational Evidence Clearinghouses]]"
+  - "[[Reflection Problem]]"
+  - "[[Peer Effects in Science]]"
+  - "[[Invisible College]]"
 related_theories: []
 related_methods:
   - "[[Random Assignment]]"
@@ -53,17 +56,20 @@ related_methods:
   - "[[Ordinary Least Squares]]"
   - "[[Covariate Adjustment]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Pierre Azoulay]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Researching School Choices]]"
   - "[[National Pupil Database]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -72,13 +78,13 @@ updated: 2026-10-29
 > **双重差分法（Difference-in-Differences，简称 DID）** 是计量经济学与实证教育政策研究中最核心的准实验因果识别方法之一。其基本思想是：在缺乏人为[[Random Assignment\|随机分配]]的情况下，利用外生政策冲击在时间维度与人群维度的自然差异，分别计算处理组在政策出台前后的纵向变动量，以及对照组在同期内的纵向变动量，进而通过**两次做差（差分的差分）** 剥离宏观时间趋势与固有群体差异，识别出政策本身的净因果效应（Net Causal Effect）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 经历政策冲击或制度改革的学校、学区、地区或学生群体的纵向面板数据（Panel Data）或多时期重复截面数据（Repeated Cross-sections）。
-> - **问题类型** 因果效应评估问题（回答“某项宏观结构性政策、办学体制转型或教育经费改革对学生成就平均带来多大净变化”）。
-> - **[[Unit of Analysis\|分析单位]]** 学生个体、学校、多学院信托（MAT）、学区或地方行政区。
+> - **研究对象** 经历政策冲击或制度改革的学校、学区、地区或学生群体的纵向面板数据（Panel Data）或多时期重复截面数据（Repeated Cross-sections）；以及科学学与劳动经济学中经历外生突发冲击（如明星科学家猝逝、地缘变动外流、院系学者解聘）的学术合作网络与院系纵向追踪数据。
+> - **问题类型** 因果效应评估与溢出效应识别问题（回答“某项宏观结构性政策、办学体制转型或教育经费改革对学生成就平均带来多大净变化”，或“突发事件冲击下卓越同行对学者科研产出的真实因果溢出多大”）。
+> - **[[Unit of Analysis\|分析单位]]** 学生个体、学校、多学院信托（MAT）、学区、地方行政区、学者个体或科研院系。
 > - **输出形式** 平均处理效应（ATT）、动态事件研究时间路径系数、政策交互项回归估计值 $\beta_{\text{DID}}$ 及其[[Standard Error\|标准误]]与[[Confidence Interval\|置信区间]]。
 
 > [!citation-card] [[Quasi-Experimental Designs\|准实验设计]]与宏观教育政策评估的[[Paradigm\|范式]]拓展（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
-> 面对学校宏观办学机制转型等无法强行人为随机化的现实难题，英国 [[Education Endowment Foundation\|EEF]] 设立了“[[Researching School Choices\|研究学校选择]]”（Researching School Choices）专属资助流。该资助流不再依赖传统 [[Randomised Controlled Trials\|RCT]]，而是依托[[National Pupil Database\|国家学生数据库]]（NPD）详实的纵向普查大数据，采用双重差分法（DID）、[[Propensity Score Matching\|倾向得分匹配]]（PSM）与回归断点设计（[[Regression Discontinuity Design\|RDD]]）等严密的准实验架构，科学评估真实教育生态下的宏观治理决策。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
+> 面对学校宏观办学机制转型等无法强行人为随机化的现实难题，英国 [[Education Endowment Foundation\|EEF]] 设立了“[[Researching School Choices\|研究学校选择]]”（Researching School Choices）专属资助流。该资助流依托[[National Pupil Database\|国家学生数据库]]（NPD）详实的纵向普查大数据，采用双重差分法（DID）、[[Propensity Score Matching\|倾向得分匹配]]（PSM）与回归断点设计（[[Regression Discontinuity Design\|RDD]]）等严密的准实验架构，科学评估真实教育生态下的宏观治理决策。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 55–56)]]
 >
 > *“In 2019, the EEF opened the 'Researching School Choices' funding stream... exploiting naturally occurring policy changes and variations using longitudinal data from the National Pupil Database (NPD). Quasi-experimental designs, including difference-in-differences and propensity score [[Matching]], enable rigorous evaluation where randomisation is not feasible.”*
 
@@ -170,6 +176,7 @@ updated: 2026-10-29
 > - **适合使用**
 >   - 宏观体制与办学机制变革（如英格兰学校转制为多学院信托 MAT、公立学校特许化改革）；
 >   - 区域性或全国分批落地的重大教育财政、生均拨款调整（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）；
+>   - 依托外生突发冲击（如明星学者意外离世、地缘变动人才外流、政治性教员驱逐）的准自然实验，比较关联群体与对照组在冲击前后的动态变化，排除选择效应与同时性混杂，识别学术界同伴溢出效应与无形学院影响；[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 98–101)]]
 >   - 无法实施人为[[Random Assignment\|随机分配]]，但能获取国家级纵向普查面板大数据的评估课题。
 > - **谨慎使用**
 >   - 政策出台前两组已呈现显著发散趋势的研究（严重违反平行趋势假定）；
@@ -217,8 +224,13 @@ updated: 2026-10-29
 > | [[Fixed-Effect Model]] | 计量基础 | TWFE 面板回归为 DID 提供了参数化估计与[[Covariate Adjustment\|协变量控制]]的统计支架。 |
 > | [[National Pupil Database]] | 数据基础 | 英国支撑长周期 DID 政策评估的国家级微观行政纵向普查库。 |
 > | [[Researching School Choices]] | 实践载体 | [[Education Endowment Foundation\|EEF]] 设立的依托 DID 等准实验评估宏观学校办学决策的重大资助流。 |
+> | [[Pierre Azoulay]] | 代表学者 | 运用匹配 DID 与明星学者猝逝等准自然实验，开创同伴效应与学术网络因果识别实证范式。 |
+> | [[Reflection Problem]] | 概念 | DID 结合准自然实验用于实证克服的选择效应与同时性反向因果难题。 |
+> | [[Peer Effects in Science]] | 概念 | DID 模型用于识别与测度的学术同行真实因果溢出效应。 |
+> | [[Invisible College]] | 概念 | DID 准自然实验实证支持的无形思想学术纽带构念。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述了英国 [[Education Endowment Foundation\|EEF]] 突破对单一 [[Randomised Controlled Trials\|RCT]] 的教条依赖，设立“[[Researching School Choices\|研究学校选择]]”资助流，依托[[National Pupil Database\|国家学生数据库]]运用双重差分法与[[Propensity Score Matching\|倾向得分匹配]]评估学校宏观体制选择的因果成效。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang & Barabási (2021)]] — 综述生命科学家猝逝等准自然实验（Azoulay et al., 2010），运用匹配双重差分模型克服同伴效应中的反射问题与选择偏误，因果识别学术网络对科研伙伴生产力的实质溢出。
