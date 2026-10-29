@@ -211,10 +211,8 @@ updated: "2026-10-29"
 > - **滑块 $\sigma$（橙色）** 对应公式中的尺度参数 $\sigma$（调节长尾分化程度：增大 $\sigma$ 时曲线峰值急剧左移变窄，右侧厚尾急剧延伸）
 >
 > ```geogebra
-> file: wiki/assets/geogebra/shockley_lognormal.ggb
+> file: wiki/assets/geogebra/shockley_lognormal_v2.ggb
 > height: 480
-> app: classic
-> algebraview: true
 > toolbar: false
 > ```
 
@@ -332,10 +330,8 @@ updated: "2026-10-29"
 > - **红色直线** 对应动态计算的增长轨迹 $h(t) = mt$；调和平均斜率 $m = \frac{c \cdot n}{c + n}$ 受到 $n$ 与 $c$ 较小一方的瓶颈约束
 >
 > ```geogebra
-> file: wiki/assets/geogebra/hirsch_h_index.ggb
+> file: wiki/assets/geogebra/hirsch_h_index_v2.ggb
 > height: 480
-> app: classic
-> algebraview: true
 > toolbar: false
 > ```
 
