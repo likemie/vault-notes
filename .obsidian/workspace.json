@@ -290,6 +290,12 @@
   },
   "active": "abba685a99836a68",
   "lastOpenFiles": [
+    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md",
+    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+    "wiki/assets/geogebra/hirsch_h_index.ggb",
+    "wiki/assets/geogebra/shockley_lognormal.ggb",
+    "wiki/assets/geogebra",
+    "wiki/assets",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_3-2_Matthew_Effect_Field_Experiment_Barnstars.jpg",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_3-1_Crossover_Effect_Reputation_Citations.jpg",
     "books/Wang_Barabasi_2021_Cambridge/figures/Figure_2-2_Predictive_Power_of_h_Index.jpg",
@@ -300,7 +306,6 @@
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-001/result.json",
     "output/可见的学习课题和案例/~$可见的学习”视域下中学生高阶能力培育的学校探索》结题报告 优化版.docx",
     "wiki/theories/science-policy/Shockley's Multiplicative Hurdle Model.md",
-    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
     "wiki/methods/quantitative/Bibliometric Analysis.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-006/batch-result.schema.json",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-007/prompt.md",
@@ -308,15 +313,10 @@
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-006/prompt.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-005/prompt.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-005/batch-result.schema.json",
-    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-004/batch-result.schema.json",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-004/prompt.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-003/prompt.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-002/prompt.md",
-    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-001/batch-result.schema.json",
-    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-003/batch-result.schema.json",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-001/prompt.md",
-    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-002/batch-result.schema.json",
-    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md",
     "wiki/templates/template-argument.md",
     "wiki/templates/template-argument-monograph.md",
     "wiki/templates/template-argument-edited-volume.md",
@@ -334,7 +334,6 @@
     "tmp/pdfs/visible-pilot-reread/page-33.png",
     "tmp/pdfs/visible-pilot-reread/page-23.png",
     "tmp/pdfs/visible-pilot-reread/page-11.png",
-    "output/可见的学习课题和案例/_to_delete/r7/q2-020.png",
-    "output/可见的学习课题和案例/_to_delete/r7/q2-013.png"
+    "output/可见的学习课题和案例/_to_delete/r7/q2-020.png"
   ]
 }
