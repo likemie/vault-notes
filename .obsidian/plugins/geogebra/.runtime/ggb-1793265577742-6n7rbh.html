@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>GeoGebra</title>
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+    background: #fff;
+  }
+  #ggb-host, #ggb {
+    width: 100%;
+    height: 100%;
+    box-sizing: border-box;
+  }
+</style>
+<script src="https://www.geogebra.org/apps/deployggb.js"></script>
+</head>
+<body>
+<div id="ggb-host">
+  <div id="ggb"></div>
+</div>
+<script>
+(function () {
+  function fail(msg) {
+    document.body.textContent = msg;
+    document.body.style.padding = "16px";
+    document.body.style.fontFamily = "sans-serif";
+    document.body.style.color = "#b00020";
+  }
+  function hostSize() {
+    var host = document.getElementById("ggb-host");
+    var w = host ? host.clientWidth : 0;
+    var h = host ? host.clientHeight : 0;
+    return {
+      w: Math.max(Math.floor(w || window.innerWidth || 320), 100),
+      h: Math.max(Math.floor(h || window.innerHeight || 480), 100)
+    };
+  }
+  function applySize(api) {
+    var s = hostSize();
+    try {
+      if (api && typeof api.setSize === "function") api.setSize(s.w, s.h);
+      else if (window.ggbApplet && typeof window.ggbApplet.setSize === "function") {
+        window.ggbApplet.setSize(s.w, s.h);
+      }
+    } catch (e) {}
+  }
+  function applyUi(api) {
+    if (!api) return;
+    try {
+      if (typeof api.enableRightClick === "function") {
+        api.enableRightClick(false);
+      }
+    } catch (e) {}
+    var algebraView = "auto";
+    if (algebraView === "show" || algebraView === "hide") {
+      try {
+        if (typeof api.setPerspective === "function") {
+          api.setPerspective(algebraView === "show" ? "+A" : "-A");
+        } else if (typeof api.evalCommand === "function") {
+          api.evalCommand(algebraView === "show" ? 'SetPerspective("+A")' : 'SetPerspective("-A")');
+        }
+      } catch (e) {}
+    }
+  }
+  try {
+    var params = {"appName":"classic","width":320,"height":480,"showToolBar":false,"showAlgebraInput":true,"showMenuBar":false,"allowStyleBar":true,"enableRightClick":false,"enableShiftDragZoom":true,"enableLabelDrags":true,"showResetIcon":false,"errorDialogsActive":true,"language":"zh","preventFocus":false,"autoHeight":false,"ggbBase64":"UEsDBBQAAAAAANyBXV33Yy/enw8AAJ8PAAAMAAAAZ2VvZ2VicmEueG1sPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPGdlb2dlYnJhIGZvcm1hdD0iNS4wIiB2ZXJzaW9uPSI1LjIuODU5LjAiIGFwcD0iY2xhc3NpYyIgcGxhdGZvcm09InciIHhzaTpub05hbWVzcGFjZVNjaGVtYUxvY2F0aW9uPSJodHRwOi8vd3d3Lmdlb2dlYnJhLm9yZy9hcHBzL3hzZC9nZ2IueHNkIiB4bWxucz0iaHR0cDovL3d3dy5nZW9nZWJyYS5vcmcvYXBwcy94c2QvZ2diIiB4bWxuczp4c2k9Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvWE1MU2NoZW1hLWluc3RhbmNlIj4KPGd1aT4KCTx3aW5kb3cgd2lkdGg9IjkwMCIgaGVpZ2h0PSI1MjAiIC8+Cgk8bGFiZWxpbmdTdHlsZSB2YWw9IjAiLz4KPC9ndWk+CjxldWNsaWRpYW5WaWV3PgoJPGNvb3JkU3lzdGVtIHhaZXJvPSI4MCIgeVplcm89IjQyMCIgc2NhbGU9IjI1IiB5c2NhbGU9IjgwMCIvPgoJPGV2U2V0dGluZ3MgYXhlcz0idHJ1ZSIgZ3JpZD0idHJ1ZSIgZ3JpZElzQm9sZD0iZmFsc2UiIHBvaW50Q2FwdHVyaW5nPSIzIiByaWdodEFuZ2xlU3R5bGU9IjEiIGNoZWNrYm94U2l6ZT0iMjYiIGdyaWRUeXBlPSIwIi8+Cgk8YXhpcyBpZD0iMCIgc2hvdz0idHJ1ZSIgbGFiZWw9IuWPkeaWh+mHjyBOICjnr4cpIiB1bml0TGFiZWw9IiIgdGlja1N0eWxlPSIwIiBzaG93TnVtYmVycz0idHJ1ZSIvPgoJPGF4aXMgaWQ9IjEiIHNob3c9InRydWUiIGxhYmVsPSLmpoLnjoflr4bluqYgUChOKSIgdW5pdExhYmVsPSIiIHRpY2tTdHlsZT0iMCIgc2hvd051bWJlcnM9InRydWUiLz4KPC9ldWNsaWRpYW5WaWV3Pgo8Y29uc3RydWN0aW9uIHRpdGxlPSJTaG9ja2xleSBMb2dub3JtYWwgUHJvZHVjdGl2aXR5IiBhdXRob3I9IiIgZGF0ZT0iIj4KCTwhLS0g5Z2H5YC8IG11IOa7keWdlyAo5Z+65LqO5pWw5a2m5Z2Q5qCH77yM55u06KeC5pS+572u5Zyo55S75biD6aG26YOo5Yy65Z+fIHk9MC4zNSkgLS0+Cgk8ZWxlbWVudCB0eXBlPSJwb2ludCIgbGFiZWw9IkExIj4KCQk8Y29vcmRzIHg9IjIiIHk9IjAuMzgiIHo9IjEiLz4KCQk8c2hvdyBvYmplY3Q9ImZhbHNlIiBsYWJlbD0iZmFsc2UiLz4KCQk8Zml4ZWQgdmFsPSJ0cnVlIi8+Cgk8L2VsZW1lbnQ+Cgk8ZWxlbWVudCB0eXBlPSJwb2ludCIgbGFiZWw9IkIxIj4KCQk8Y29vcmRzIHg9IjEyIiB5PSIwLjM4IiB6PSIxIi8+CgkJPHNob3cgb2JqZWN0PSJmYWxzZSIgbGFiZWw9ImZhbHNlIi8+CgkJPGZpeGVkIHZhbD0idHJ1ZSIvPgoJPC9lbGVtZW50PgoJPGNvbW1hbmQgbmFtZT0iU2VnbWVudCI+PGlucHV0IGEwPSJBMSIgYTE9IkIxIi8+PG91dHB1dCBhMD0ic2VnTXUiLz48L2NvbW1hbmQ+Cgk8ZWxlbWVudCB0eXBlPSJzZWdtZW50IiBsYWJlbD0ic2VnTXUiPgoJCTxzaG93IG9iamVjdD0idHJ1ZSIgbGFiZWw9ImZhbHNlIi8+CgkJPG9iakNvbG9yIHI9IjIwIiBnPSIxMDAiIGI9IjEzMCIgYWxwaGE9IjAiLz4KCQk8bGluZVN0eWxlIHRoaWNrbmVzcz0iMyIgdHlwZT0iMCIvPgoJPC9lbGVtZW50PgoJPGNvbW1hbmQgbmFtZT0iUG9pbnQiPjxpbnB1dCBhMD0ic2VnTXUiLz48b3V0cHV0IGEwPSJQdE11Ii8+PC9jb21tYW5kPgoJPGVsZW1lbnQgdHlwZT0icG9pbnQiIGxhYmVsPSJQdE11Ij4KCQk8Y29vcmRzIHg9IjUiIHk9IjAuMzgiIHo9IjEiLz4KCQk8c2hvdyBvYmplY3Q9InRydWUiIGxhYmVsPSJ0cnVlIi8+CgkJPG9iakNvbG9yIHI9IjIwIiBnPSIxMDAiIGI9IjEzMCIgYWxwaGE9IjAiLz4KCQk8cG9pbnRTaXplIHZhbD0iNyIvPgoJCTxjYXB0aW9uIHZhbD0i5Z2H5YC8IM68Ii8+CgkJPGxhYmVsTW9kZSB2YWw9IjMiLz4KCTwvZWxlbWVudD4KCTwhLS0gbXUg55qE5a6e6ZmF5pWw5YC8OiDlsIYgUHRNdSDnmoQgeCAoMn4xMikg57q/5oCn5pig5bCE5YiwIDAuNX4zLjUgLS0+Cgk8ZXhwcmVzc2lvbiBsYWJlbD0ibXUiIGV4cD0iMC41ICsgKHgoUHRNdSkgLSAyKSAqIDAuMyIvPgoJPGVsZW1lbnQgdHlwZT0ibnVtZXJpYyIgbGFiZWw9Im11Ij48dmFsdWUgdmFsPSIxLjQiLz48L2VsZW1lbnQ+CgoJPCEtLSDmlrnlt64gc2lnbWEg5ruR5Z2XICjnlLvluIMgeT0wLjMwKSAtLT4KCTxlbGVtZW50IHR5cGU9InBvaW50IiBsYWJlbD0iQTIiPgoJCTxjb29yZHMgeD0iMiIgeT0iMC4zMCIgej0iMSIvPgoJCTxzaG93IG9iamVjdD0iZmFsc2UiIGxhYmVsPSJmYWxzZSIvPgoJCTxmaXhlZCB2YWw9InRydWUiLz4KCTwvZWxlbWVudD4KCTxlbGVtZW50IHR5cGU9InBvaW50IiBsYWJlbD0iQjIiPgoJCTxjb29yZHMgeD0iMTIiIHk9IjAuMzAiIHo9IjEiLz4KCQk8c2hvdyBvYmplY3Q9ImZhbHNlIiBsYWJlbD0iZmFsc2UiLz4KCQk8Zml4ZWQgdmFsPSJ0cnVlIi8+Cgk8L2VsZW1lbnQ+Cgk8Y29tbWFuZCBuYW1lPSJTZWdtZW50Ij48aW5wdXQgYTA9IkEyIiBhMT0iQjIiLz48b3V0cHV0IGEwPSJzZWdTaWdtYSIvPjwvY29tbWFuZD4KCTxlbGVtZW50IHR5cGU9InNlZ21lbnQiIGxhYmVsPSJzZWdTaWdtYSI+CgkJPHNob3cgb2JqZWN0PSJ0cnVlIiBsYWJlbD0iZmFsc2UiLz4KCQk8b2JqQ29sb3Igcj0iMjAwIiBnPSIxMDAiIGI9IjIwIiBhbHBoYT0iMCIvPgoJCTxsaW5lU3R5bGUgdGhpY2tuZXNzPSIzIiB0eXBlPSIwIi8+Cgk8L2VsZW1lbnQ+Cgk8Y29tbWFuZCBuYW1lPSJQb2ludCI+PGlucHV0IGEwPSJzZWdTaWdtYSIvPjxvdXRwdXQgYTA9IlB0U2lnbWEiLz48L2NvbW1hbmQ+Cgk8ZWxlbWVudCB0eXBlPSJwb2ludCIgbGFiZWw9IlB0U2lnbWEiPgoJCTxjb29yZHMgeD0iNiIgeT0iMC4zMCIgej0iMSIvPgoJCTxzaG93IG9iamVjdD0idHJ1ZSIgbGFiZWw9InRydWUiLz4KCQk8b2JqQ29sb3Igcj0iMjAwIiBnPSIxMDAiIGI9IjIwIiBhbHBoYT0iMCIvPgoJCTxwb2ludFNpemUgdmFsPSI3Ii8+CgkJPGNhcHRpb24gdmFsPSLmoIflh4blt64gz4MiLz4KCQk8bGFiZWxNb2RlIHZhbD0iMyIvPgoJPC9lbGVtZW50PgoJPCEtLSBzaWdtYSDnmoTlrp7pmYXmlbDlgLw6IOWwhiBQdFNpZ21hIOeahCB4ICgyfjEyKSDnur/mgKfmmKDlsITliLAgMC4zfjEuNSAtLT4KCTxleHByZXNzaW9uIGxhYmVsPSJzaWdtYSIgZXhwPSIwLjMgKyAoeChQdFNpZ21hKSAtIDIpICogMC4xMiIvPgoJPGVsZW1lbnQgdHlwZT0ibnVtZXJpYyIgbGFiZWw9InNpZ21hIj48dmFsdWUgdmFsPSIwLjc4Ii8+PC9lbGVtZW50PgoKCTwhLS0g5qaC546H5a+G5bqm5Ye95pWwIFAoTikgLS0+Cgk8Y29tbWFuZCBuYW1lPSJGdW5jdGlvbiI+CgkJPGlucHV0IGEwPSIxIC8gKHggKiBzaWdtYSAqIHNxcnQoMiAqIHBpKSkgKiBleHAoLSgobG4oeCkgLSBtdSleMikgLyAoMiAqIHNpZ21hXjIpKSIgYTE9IjAuMDUiIGEyPSIzNSIvPgoJCTxvdXRwdXQgYTA9IlAiLz4KCTwvY29tbWFuZD4KCTxlbGVtZW50IHR5cGU9ImZ1bmN0aW9uIiBsYWJlbD0iUCI+CgkJPHNob3cgb2JqZWN0PSJ0cnVlIiBsYWJlbD0idHJ1ZSIvPgoJCTxvYmpDb2xvciByPSIyMCIgZz0iMTAwIiBiPSIxNDAiIGFscGhhPSIwIi8+CgkJPGxheWVyIHZhbD0iMCIvPgoJCTxsaW5lU3R5bGUgdGhpY2tuZXNzPSI1IiB0eXBlPSIwIiB0eXBlSGlkZGVuPSIxIi8+CgkJPGNhcHRpb24gdmFsPSJQKE4pIi8+Cgk8L2VsZW1lbnQ+CgoJPCEtLSDnlLvluIPliqjmgIHmlofmnKzor7TmmI4gLS0+Cgk8Y29tbWFuZCBuYW1lPSJUZXh0Ij4KCQk8aW5wdXQgYTA9IiZxdW90O+WPguaVsO+8ms68ID0gJnF1b3Q7ICsgcm91bmQobXUsIDIpICsgJnF1b3Q7LCAgz4MgPSAmcXVvdDsgKyByb3VuZChzaWdtYSwgMikiLz4KCQk8b3V0cHV0IGEwPSJ0eHQxIi8+Cgk8L2NvbW1hbmQ+Cgk8ZWxlbWVudCB0eXBlPSJ0ZXh0IiBsYWJlbD0idHh0MSI+CgkJPHN0YXJ0UG9pbnQgeD0iMiIgeT0iMC40NSIgej0iMSIvPgoJCTxvYmpDb2xvciByPSIyMCIgZz0iODIiIGI9IjEwOCIgYWxwaGE9IjAiLz4KCQk8Zm9udCBzZXJpZj0iZmFsc2UiIHNpemVNPSIxLjEiIHNpemU9IjMiIHN0eWxlPSIxIi8+CgkJPHNob3cgb2JqZWN0PSJ0cnVlIiBsYWJlbD0iZmFsc2UiLz4KCTwvZWxlbWVudD4KPC9jb25zdHJ1Y3Rpb24+CjwvZ2VvZ2VicmE+UEsBAhQDFAAAAAAA3IFdXfdjL96fDwAAnw8AAAwAAAAAAAAAAAAAAIABAAAAAGdlb2dlYnJhLnhtbFBLBQYAAAAAAQABADoAAADJDwAAAAA="};
+    var initial = hostSize();
+    params.width = Math.max(initial.w, 320);
+    params.height = Math.max(initial.h, 480);
+    params.appletOnLoad = function (api) {
+      applyUi(api);
+      applySize(api);
+      window.setTimeout(function () { applyUi(api); applySize(api); }, 0);
+      window.setTimeout(function () { applyUi(api); applySize(api); }, 250);
+      document.documentElement.setAttribute("data-ggb-ready", "1");
+    };
+    if (typeof GGBApplet !== "function") {
+      fail("无法加载 GeoGebra 引擎，请检查网络是否能访问 geogebra.org");
+      return;
+    }
+    var applet = new GGBApplet(params, true);
+    applet.inject("ggb");
+    window.addEventListener("resize", function () { applySize(window.ggbApplet); });
+    if (typeof ResizeObserver === "function") {
+      var ro = new ResizeObserver(function () { applySize(window.ggbApplet); });
+      var host = document.getElementById("ggb-host");
+      if (host) ro.observe(host);
+    }
+  } catch (err) {
+    fail(String(err && err.message ? err.message : err));
+  }
+})();
+</script>
+</body>
+</html>

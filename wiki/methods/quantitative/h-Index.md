@@ -78,7 +78,7 @@ updated: 2026-10-29
 >   - $m$ 商（Hirsch, 2005）：$m=h/t$，扣除年资影响。
 >   - $h_\alpha$ 指数（Hirsch, 2019）：只计入学者在合著者中 $h$ 最高的论著，识别团队中的学术引领者。
 
-> [!dev-timeline]- 方法演变
+> [!dev-timeline] 方法演变
 > - **2003 — 初次构想** 希尔施手动测算身边物理学家的 $h$ 值，发现排序与同行声誉高度一致。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 24–25)]]
 > - **2005 — 正式提出** 手稿上传 arXiv 并投稿《美国国家科学院院刊》（Proceedings of the National Academy of Sciences, PNAS），同时给出线性增长模型与物理学职称参照值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 17–20, 24–25)]]
 > - **2006–2008 — 修正指标出现** $g$ 指数针对高被引钝感，$h_g$ 指数针对学科基准差异。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–26)]]
@@ -109,12 +109,14 @@ updated: 2026-10-29
 > > [!example]- 手算示例
 > > 示例：某学者 6 篇论著的被引降序为 25、8、5、4、3、0。第 4 篇被引 4 次，满足 $4 \ge 4$；第 5 篇被引 3 次，不满足 $3 \ge 5$。所以 $h=4$。第 1 篇从 25 次涨到 2500 次，$h$ 仍为 4。
 >
-> > [!result-reading]- 结果怎么读
-> > $h$ 越大，表示被引至少 $h$ 次的论著越多。$h$ 低可能是论著少，也可能是被引少，两种情况要回到原始数据区分。希格斯（Peter Higgs）发表 25 篇、$h=8$，爱因斯坦（Albert Einstein）发表 248 篇、$h=67$，说明 $h$ 偏向持续多产者。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 18–19)]]
->
-> > [!method-limits] 参数与注意事项
-> > - **超额引用不可见** 论著被引一旦超过 $h$，增加的引用对 $h$ 没有贡献。
-> > - **只增不减** $h$ 随时间单调不降，学者停止产出后数值仍保持。
+> > [!formula-reading] 结果解读与注意事项
+> > | 类型 | 要点 | 说明 |
+> > |---|---|---|
+> > | 读法 | 数值方向 | $h$ 越大，表示被引至少 $h$ 次的论著越多。 |
+> > | 读法 | 低值来源 | $h$ 低可能是论著少，也可能是被引少，要回到原始数据区分。 |
+> > | 读法 | 典型对比 | 希格斯（Peter Higgs）发表 25 篇、$h=8$，爱因斯坦（Albert Einstein）发表 248 篇、$h=67$，说明 $h$ 偏向持续多产者。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|(Wang & Barabási, 2021, pp. 18–19)]] |
+> > | 注意 | 超额引用不可见 | 论著被引一旦超过 $h$，增加的引用对 $h$ 没有贡献。 |
+> > | 注意 | 只增不减 | $h$ 随时间单调不降，学者停止产出后数值仍保持。 |
 
 > [!formula-step] 步骤二　线性增长与年资校正
 > $$h(t)\approx mt,\qquad m=\frac{1}{1/c+1/n}=\frac{cn}{c+n}$$
@@ -128,11 +130,12 @@ updated: 2026-10-29
 > > [!example]- 手算示例
 > > 示例：$n=4$、$c=4$ 时 $m=16/8=2$，10 年后 $h\approx20$；$n=12$、$c=1$ 时 $m=12/13\approx0.9$，10 年后 $h\approx9$。
 >
-> > [!result-reading]- 结果怎么读
-> > 用 $m=h/t$ 可比较不同年资的学者。希尔施给出的物理学经验值为：一般学者 $m\approx1$，优秀学者 $m\approx2$，顶尖学者 $m\approx3$。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 18–20)]]
->
-> > [!method-limits] 参数与注意事项
-> > 模型假设 $n$ 与 $c$ 长期稳定，对中途转向、停顿或早期爆发后停滞的学者不成立。
+> > [!formula-reading] 结果解读与注意事项
+> > | 类型 | 要点 | 说明 |
+> > |---|---|---|
+> > | 读法 | 年资校正 | 用 $m=h/t$ 可比较不同年资的学者。 |
+> > | 读法 | 经验参照 | 希尔施给出的物理学经验值：一般学者 $m\approx1$，优秀学者 $m\approx2$，顶尖学者 $m\approx3$。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|(Wang & Barabási, 2021, pp. 18–20)]] |
+> > | 注意 | 稳定性假设 | 模型假设 $n$ 与 $c$ 长期稳定，对中途转向、停顿或早期爆发后停滞的学者不成立。 |
 >
 > > [!geogebra] 动态参数模拟
 > > - **横轴** 年资 $t$

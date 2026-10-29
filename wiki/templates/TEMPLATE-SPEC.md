@@ -360,9 +360,10 @@ Method 页写研究方法、研究设计、资料收集方法、分析方法、�
 - 量化形态用 tags 标注，不新增 YAML 字段：`method/indicator`（测度指标与指数）、`method/statistical`（统计量与检验）、`method/model`（统计、计量与综合评价模型），每页选一个。
 - 指标类条目必须在 `[!method-scope]` 的“测量或估计对象”中链接被测的 Concept；构念的含义、争议和实证发现写在 Concept，指标页只写与计算、解读和使用边界有关的内容。
 - 公式有 GeoGebra 模拟文件时，在对应 `[!formula-step]` 内用 `[!geogebra] 动态参数模拟` 承载：图例列表、观察提示、geogebra 代码块，不用加粗段落直接放代码块。
+- `[!formula-step]` 内的结果读法与注意事项合写为一个 `[!formula-reading] 结果解读与注意事项` 表格，三列为“类型 / 要点 / 说明”：类型只写“读法”或“注意”，读法行在前、注意行在后；要点写 2–6 字短语，说明写一句话并附出处。表格单元格内的 wikilink 别名分隔符写 `\|`。不再分写 `[!result-reading]` 与卡内 `[!method-limits]`。
 - 每个 `[!formula-step]` 优先附一个 `[!example]- 手算示例`，用少量数字走一遍计算；自拟数字须标“示例”，不得写成实证结果。
 - 来源报告的参照基准、阈值或常模写入 `[!ref-table]- 参照基准与阈值`，逐行附 Argument；Method 页不使用 Concept 的实证数据表格与 marker。
-- 指标有清楚的提出和修正历程时，可用 `[!dev-timeline]- 方法演变`；变体指标另有独立条目时，在 `[!entry-map]` 中以“变体”关系链接。
+- 指标有清楚的提出和修正历程时，可用 `[!dev-timeline] 方法演变`（不折叠）；变体指标另有独立条目时，在 `[!entry-map]` 中以“变体”关系链接。
 - `method_type` 使用 `qualitative`、`quantitative` 或 `mixed`。
 - Method 条目 frontmatter 固定写 `cssclasses: [method-manual]`，启用方法页样式（见 `CALLOUTS.md` 第 14 节）。`[!method-fit]` 的三条按适合、谨慎、不适合的顺序写，样式按顺序着色。
 - 复杂量化模型仍写 `method_type: quantitative`；不要为每种模型另造 YAML 类型。

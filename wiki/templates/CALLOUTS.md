@@ -45,38 +45,28 @@ updated: 2026-10-21
 
 - CSS 位置：`argument-callouts.css` 末尾 `11 Component designs` 段，由 `tmp/callout-design-backup-v4/gen.py` 生成。新增组件时把名字加进对应形态的列表即可获得整套样式。
 
-### 14 · v5 Method Manual：方法页工具手册（2026-10-29）
+### 14 · v6 Method Flat+：方法页扁平质感与动效（2026-10-29）
 
-Method 条目改为“一个组件一种形态”，不再统一套用纸面容器、眉标、衬线标题和白卡。样式在独立 snippet `.obsidian/snippets/method-manual.css`，由 `tmp/method-manual-v5/gen.py` 生成；在“外观 → CSS 代码片段”关闭它即回到 v4.1。
+Method 条目沿用 v4.1 扁平体系（短横眉标 + 衬线标题 + 发丝线框 + 扁平卡片），在其上加一层质感与动效。样式在独立 snippet `.obsidian/snippets/method-manual.css`，由 `tmp/method-manual-v6/gen6.py` 读取同目录的 `gen6_src.css` 生成；在“外观 → CSS 代码片段”关闭它即回到 v4.1。只在 frontmatter 含 `cssclasses: [method-manual]` 的页面生效。
 
-| 组件 | 形态 | 动效 |
-| --- | --- | --- |
-| def | 无框导语，左侧渐变色条 | 色条自上而下画出 |
-| method-scope | 面板内规格表：标签列 + 值列，行间发丝线 | 悬停时整行底色由左扫入 |
-| method-position | 十字分隔的四象限，角标编号 | 悬停淡底 |
-| method-stack | 竖轨 + 节点；子列表为芯片 | 节点放大填色，芯片右移浮起 |
-| citation-card | 渐变大引号 + 中文正文，英文原文退为灰色脚注 | — |
-| dev-timeline | 去掉外框，保留节点轨道 | — |
-| formula-set | 点阵蓝图底 | 底纹缓慢平移 |
-| formula-step | 主卡：描边编号、公式铭牌、小号标签，相邻步骤以虚线相连 | 编号由下而上填色，公式铭牌掠过一道光 |
-| example（卡内） | 方格工作纸 + 虚线框 + WORKED EXAMPLE 标签；可折叠 | 折叠按钮旋转 |
-| result-reading | 绿色圆角读数框，左侧内嵌色条；可折叠 | 折叠按钮旋转 |
-| method-limits（卡内） | 琥珀圆角框，左侧内嵌色条 | — |
-| geogebra | 渐变描边舞台：LIVE 色标、图例芯片、说明一句、嵌入画布 | LIVE 点呼吸，画布悬停浮起 |
-| software-impl | 箭头清单 | 箭头右移 |
-| formula（代码） | 深色终端，三色窗口点 | — |
-| method-fit | 前三条依次为适合（绿 ✓）、谨慎（琥珀 !）、不适合（红 ✕） | 图标弹出，悬停上浮 |
-| method-limits（页面级） | 琥珀编号清单 | — |
-| ref-table / entry-map | 圆角数据表，等宽数字 | 行悬停左侧色条 |
-| evidence-grid-a | 箭头索引 | 箭头右移 |
+| 层 | 效果 |
+| --- | --- |
+| 容器 | 悬停时发丝线着色，顶边一道强调色光线自中间展开，下方出现柔和投影；内嵌子块只着色不叠投影 |
+| 眉标 | 悬停时短横在左侧留白内伸长（最长 14px），不碰文字、字距不变 |
+| 白卡（scope / position / stack / limits / software-impl） | 悬停上浮 2px，顶边强调线点亮，左上角柔光渐显 |
+| 滚动入场 | 页面级组件淡入上浮（scroll-driven animation，不支持时直接显示） |
+| formula-step | 卡片右上角等宽描边编号 01、02，悬停时由下而上填色；相邻步骤以虚线相连 |
+| example | 扁平卡加浅方格底纹 |
+| formula-reading | 扁平卡：眉标 READ · 解读与注意 + 衬线标题 + 三列表格（类型 / 要点 / 说明），行悬停左侧绿色强调条；取代卡内分写的 result-reading 与 method-limits |
+| geogebra | 扁平卡：眉标 LIVE · 动态模拟（呼吸点代替短横）+ 衬线标题 + 图例白卡 + 画布，画布悬停浮起 |
+| formula | 深色代码终端，三色窗口点 |
+| method-fit | 前三条依次为适合（绿 ✓）、谨慎（琥珀 !）、不适合（红 ✕），图标入场弹出 |
 
-- 组件标题统一为“等宽色标 + 无衬线标题”，色标文字由 CSS 生成（SPEC、VALIDITY、STACK、FLOW、RUN、FIT、CAVEATS、REF、LINKS、USED IN、HISTORY）。
-- 生效范围：method-* / formula-* / software-impl / result-reading 全站生效；def、citation-card、example、formula、ref-table、entry-map、evidence-grid-a、dev-timeline 只在 frontmatter 含 `cssclasses: [method-manual]` 的页面生效，避免影响 Concept、Theory 与 Argument。
-- `[!geogebra]` 写法：先用列表写图例（`**横轴**`、`**纵轴**`、`**滑块 n**` 等，每项一个芯片），再写一句观察提示，最后放 ```geogebra 代码块。放在对应 `[!formula-step]` 内，位于注意事项之后。
-- 手算示例与结果解读默认折叠（`[!example]-`、`[!result-reading]-`），注意事项与 GeoGebra 不折叠。
-- `method-fit` 依赖条目顺序：第一条写适合使用，第二条写谨慎使用，第三条写不适合使用。
-- 滚动入场使用 scroll-driven animation（`animation-timeline: view()`），不支持时直接显示；系统开启“减少动态效果”时关闭全部动画与过渡。
-- 修改样式时改 `gen.py` 再生成，不直接手改 CSS。
+- `[!geogebra]` 写法：先用列表写图例（`**横轴**`、`**纵轴**`、`**滑块 n**` 等），再写一句观察提示，最后放 ```geogebra 代码块；放在对应 `[!formula-step]` 内，位于注意事项之后。
+- `[!formula-reading] 结果解读与注意事项` 放在 `[!formula-step]` 内、手算示例之后：类型列只写“读法”或“注意”，读法行在前；不折叠。
+- `[!dev-timeline] 方法演变` 在 Method 页不折叠。
+- 系统开启“减少动态效果”时关闭全部动画与过渡。
+- 修改样式时改 `gen6_src.css` 再运行 `gen6.py`，不直接手改生成的 CSS。v5（工具手册版）生成脚本保留在 `tmp/method-manual-v5/`。
 
 ### 12 · Visible Learning MetaX 模块（2026-10-22）
 
