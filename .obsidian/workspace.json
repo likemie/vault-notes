@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -288,8 +288,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a2aa5f6545a9eecb",
+  "active": "9f6a7b58150da48c",
   "lastOpenFiles": [
+    "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md",
     "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-010/result.json",
     "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-009/result.json",
     "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-008/result.json",
@@ -300,7 +301,6 @@
     "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-003/result.json",
     "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-002/result.json",
     "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-001/result.json",
-    "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-013/batch-result.schema.json",
     "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-013/prompt.md",
     "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-012/prompt.md",
     "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-011/prompt.md",
