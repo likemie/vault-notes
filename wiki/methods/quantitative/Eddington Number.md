@@ -10,7 +10,7 @@ summary: "由英国天体物理学家 Arthur Eddington 提出的离散累加成�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
+method_related_count: 8
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -31,6 +31,7 @@ related_methods:
   - "[[h-Index]]"
 related_instruments: []
 related_persons:
+  - "[[Arthur Eddington]]"
   - "[[Jorge E. Hirsch]]"
 related_facts: []
 related_arguments:
@@ -44,7 +45,7 @@ updated: 2026-10-30
 ---
 
 > [!def] Eddington Number
-> **埃丁顿数（Eddington Number）** 最初由英国天体物理学家亚瑟·爱丁顿（Sir Arthur Eddington）提出，用于衡量长途自行车骑行成就。其数学规则定义为：**若一名骑行者一生中有 $E$ 天的单日骑行里程均不少于 $E$ 英里，则其埃丁顿数为 $E$**。该指标在数学结构上与[[Bibliometric Analysis|文献计量学]]中的 $h$ 指数严格同构，在科学学中常作为阐释高门槛非线性累积动力学的经典物理隐喻。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 20)]]
+> **埃丁顿数（Eddington Number）** 最初由英国天体物理学家[[Arthur Eddington|亚瑟·爱丁顿]]（Sir Arthur Eddington）提出，用于衡量长途自行车骑行成就。其数学规则定义为：**若一名骑行者一生中有 $E$ 天的单日骑行里程均不少于 $E$ 英里，则其埃丁顿数为 $E$**。该指标在数学结构上与[[Bibliometric Analysis|文献计量学]]中的 $h$ 指数严格同构，在科学学中常作为阐释高门槛非线性累积动力学的经典物理隐喻。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 20)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 离散行为个体的极限稳态表现与高阶成就门槛，在科学学中对应 [[Scientific Productivity|科研生产力]] 与单次产出强度的交叉测度。

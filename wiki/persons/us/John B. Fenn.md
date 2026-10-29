@@ -9,7 +9,7 @@ summary: "美籍分析化学家与诺贝尔化学奖得主，曾任耶鲁大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 3
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -21,7 +21,8 @@ tags:
   - theme/chemistry
   - theme/science-of-science
   - theme/scientific-career
-related_concepts: []
+related_concepts:
+  - "[[Experimental Innovators]]"
 related_theories:
   - "[[Random Impact Rule]]"
   - "[[Constant-Probability-of-Success Model]]"
@@ -41,7 +42,7 @@ updated: 2026-10-30
 
 > [!person-profile] 人物档案
 > - **身份位置** 美籍分析化学家与工程物理学家，美国文理科学院院士，曾任耶鲁大学化学工程与应用物理教授、弗吉尼亚联邦大学研究教授。
-> - **核心角色** 生物大分子现代分析质谱技术的奠基人，科学学生涯动力学中最具说服力的大器晚成型代表。
+> - **核心角色** 生物大分子现代分析质谱技术的奠基人，科学学生涯动力学中最具说服力的大器晚成型[[Experimental Innovators|实验型创新者]]代表。
 > - **代表贡献** 开发电喷雾电离（ESI）质谱离子源技术，荣获 2002 年诺贝尔化学奖；以 70 岁后的重磅突破证实只要维持活跃生产力，晚年学者同样具备斩获顶级成果的可能。
 
 > [!citation-card] 王大顺与巴拉巴西论芬恩的晚年突破
@@ -102,3 +103,4 @@ updated: 2026-10-30
 > |:-----|:-----|:-----|
 > | [[Random Impact Rule]] | 理论 | 以 70 岁做出诺贝尔奖成果的经历，成为印证随机影响法则与晚期突破潜能的实证标杆。 |
 > | [[Constant-Probability-of-Success Model]] | 理论 | 展现维持高频试错尝试即可在任何生涯阶段触碰顶尖成果的微观逻辑。 |
+> | [[Experimental Innovators]] | 概念 | 以七旬强制退休后做出诺贝尔奖成果的经历，作为实验型创新者厚积薄发的标杆案例。 |

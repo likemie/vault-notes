@@ -11,7 +11,7 @@ summary: "由 Alexander M. Petersen et al. (2014) 提出的文献计量微观动
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 8
+method_related_count: 9
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -33,7 +33,8 @@ related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Alexander M. Petersen]]"
 related_facts:
   - "[[National Academy of Sciences]]"
 related_arguments:
@@ -47,7 +48,7 @@ updated: 2026-10-30
 ---
 
 > [!def] Reputation Velocity Threshold Model
-> **声望加速度临界阈值模型（Reputation Velocity Threshold Model）** 由物理学家与[[Bibliometric Analysis|科学计量学]]者亚历山大·M·彼得森（Alexander M. Petersen）等人于 2014 年提出，是刻画新发表学术成果引文获取动态的微观量化方法。该模型将成果的边际引文增长率 $\Pi(c)$ 形式化为带有外生初速度的广义偏好连接方程：在[[Document|文献]]面世早期，学者既有学术声誉提供初始加速度 $c_0$（$\Pi(c) \propto c + c_0$）；当累积引用突破临界交叠阈值 $c_x$ 之后，声誉促进项归零，引文动态完全由成果内在质量主导的经典偏好连接（$\Pi(c) \propto c$）接管。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 32–34)]]
+> **声望加速度临界阈值模型（Reputation Velocity Threshold Model）** 由物理学家与[[Bibliometric Analysis|科学计量学]]者[[Alexander M. Petersen|亚历山大·M·彼得森]]（Alexander M. Petersen）等人于 2014 年提出，是刻画新发表学术成果引文获取动态的微观量化方法。该模型将成果的边际引文增长率 $\Pi(c)$ 形式化为带有外生初速度的广义偏好连接方程：在[[Document|文献]]面世早期，学者既有学术声誉提供初始加速度 $c_0$（$\Pi(c) \propto c + c_0$）；当累积引用突破临界交叠阈值 $c_x$ 之后，声誉促进项归零，引文动态完全由成果内在质量主导的经典偏好连接（$\Pi(c) \propto c$）接管。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 32–34)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 单篇学术成果的微观引文增长加速度、学者历史声望对新成果的早期溢价效应，以及声誉红利出清的临界被引阈值 $c_x$。
@@ -145,4 +146,4 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 结合引文动力学与物理学者实证数据，系统论证 Petersen 等人的声誉加速度与 $c_x$ 临界阈值模型。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 结合引文动力学与物理学者实证数据，系统论证 Petersen et al. 的声誉加速度与 $c_x$ 临界阈值模型。

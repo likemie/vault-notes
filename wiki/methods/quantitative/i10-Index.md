@@ -5,7 +5,7 @@ aliases:
   - i10 指数
   - Google Scholar i10 指数
   - i10-Metric
-summary: "由 Google Scholar 于 2011 年推出的文献计量指标，定义为学者名下发表成果中被引频次不少于 10 次的论文总篇数；计算轻便透明且对学术生涯早期积累敏感，与 h 指数并行呈现，但受限于固定的绝对阈值而存在学科不均衡与年资累积偏倚。"
+summary: "由 Google Scholar 于 2011 年推出的文献计量指标，定义为学者名下发表成果中被引频次不少于 10 次的论著总篇数；计算轻便透明且对学术生涯早期积累敏感，与 h 指数并行呈现，但受限于固定的绝对阈值而存在学科不均衡与年资累积偏倚。"
 type: method
 method_type: quantitative
 method_family: "quantitative"
@@ -46,23 +46,23 @@ updated: 2026-10-30
 > **i10 指数（i10-Index）** 由学术搜索引擎 Google Scholar 于 2011 年推出，是针对学者个人学术影响力的简易阈值测度指标。其数学规则定义为：**学者所有公开发表的学术成果中，累计被引频次不低于 10 次的论著总篇数**。该指标被集成于 Google Scholar 学术个人主页，用于反映学者具备中等实质学术反响的核心论著规模。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
 
 > [!method-scope] 方法范围
-> - **测量或估计对象** 学者达到基础同行认可门槛的有影响力论文规模，对应 [[Scientific Productivity|科研生产力]] 与 学术影响力 的初阶结合。
+> - **测量或估计对象** 学者达到基础同行认可门槛的有影响力成果规模，对应 [[Scientific Productivity|科研生产力]] 与 学术影响力 的初阶结合。
 > - **问题类型** 测度个体具备有效学术反响的研究发表规模。
 > - **[[Unit of Analysis|分析单位]]** 学者个体科研产出全集。
-> - **输入数据** 学者经过[[Author Name Disambiguation|姓名消歧]]后的论文发表记录及对应的独立被引频次。
+> - **输入数据** 学者经过[[Author Name Disambiguation|姓名消歧]]后的论著发表记录及对应的独立被引频次。
 > - **输出形式** 一个非负整数。
 
 > [!citation-card] Google Scholar 独家采用的 i10 指数
-> 除了 h 指数的各种变体外，学界还发展了其他用于量化个别科学家整体成就的指标，包括由 Google Scholar 独家采纳的 i10 指数，该指标计算学者名下每篇被引至少达到 10 次的论文数量。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
+> 除了 h 指数的各种变体外，学界还发展了其他用于量化个别科学家整体成就的指标，包括由 Google Scholar 独家采纳的 i10 指数，该指标计算学者名下每项被引至少达到 10 次的论著数量。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
 >
 > *In addition to these variations of the [[h-Index|h-index]], there are other metrics to quantify the overall achievement of individual scientists, including the i10-index, used exclusively by Google Scholar, which computes the number of articles with at least 10 citations each.*
 
 ---
 
 > [!method-position] 方法定位
-> - **[[Construct Validity|构念效度]]** 相比单纯发文量，有效过滤了零引用与边缘论文；相比 $h$ 指数，对处于学术积累初期的青年学者更为敏感，计算规则透明直观。
+> - **[[Construct Validity|构念效度]]** 相比单纯发文量，有效过滤了零引用与边缘成果；相比 $h$ 指数，对处于学术积累初期的青年学者更为敏感，计算规则透明直观。
 > - **研究者判断** 阈值 10 为人工设定的固定常数，并未依据不同学科的引用基准进行动态校准。
-> - **不声称回答的问题** 无法反映超越 10 次阈值后的高被引长尾分布，一篇被引 10 次的论文与被引 1000 次的论文在权重上等同计为 1。
+> - **不声称回答的问题** 无法反映超越 10 次阈值后的高被引长尾分布，一项被引 10 次的成果与被引 1000 次的成果在权重上等同计为 1。
 
 > [!method-stack] 方法层级
 > - **上位方法** [[Bibliometric Analysis]]。
@@ -85,19 +85,19 @@ updated: 2026-10-30
 > - $N$：学者名下经消歧确认的论著总篇数；
 > - $c_i$：第 $i$ 篇论著获取的累计被引次数；
 > - $\mathbb{I}(\cdot)$：指示函数；
-> - $i10$：最终输出的有效达标论文总篇数。
+> - $i10$：最终输出的有效达标论著总篇数。
 >
 > **数学直觉** 采用固定的常数截断门槛，将连续长尾的被引分布二值化为“有效成果”与“未达标成果”，通过伯努利累加实现轻量级评价。
 >
 > > [!example]- 手算示例
 > > 设一名青年学者的论著被引频次降序排列如下：
-> > - 论文 1：45 次（$\ge 10$）
-> > - 论文 2：28 次（$\ge 10$）
-> > - 论文 3：12 次（$\ge 10$）
-> > - 论文 4：9 次（$< 10$）
-> > - 论文 5：3 次（$< 10$）
+> > - 成果 1：45 次（$\ge 10$）
+> > - 成果 2：28 次（$\ge 10$）
+> > - 成果 3：12 次（$\ge 10$）
+> > - 成果 4：9 次（$< 10$）
+> > - 成果 5：3 次（$< 10$）
 > >
-> > 满足被引 $\ge 10$ 的论著共有 3 篇，故其 $i10 = 3$。该学者若要提升该指标，须推动第 4 篇论文新增 1 次被引使其跨过 10 次门槛。
+> > 满足被引 $\ge 10$ 的论著共有 3 篇，故其 $i10 = 3$。该学者若要提升该指标，须推动第 4 项成果新增 1 次被引使其跨过 10 次门槛。
 
 > [!formula-reading] 结果解读与注意事项
 > | 类型 | 要点 | 说明 |

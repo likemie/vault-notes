@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "i10-Index",
-      "path": "wiki/methods/quantitative/i10-Index.md"
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit02",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
+    },
+    {
+      "basename": "Career Shuffling Method",
+      "path": "wiki/methods/quantitative/Career Shuffling Method.md"
+    },
+    {
+      "basename": "Conceptual Innovators",
+      "path": "wiki/concepts/science-policy/Conceptual Innovators.md"
+    },
+    {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
+      "basename": "Ordinary Least Squares",
+      "path": "wiki/methods/quantitative/Ordinary Least Squares.md"
+    },
+    {
+      "basename": "Scientific Paradigm",
+      "path": "wiki/concepts/comparative-education/Scientific Paradigm.md"
+    },
+    {
+      "basename": "Lost Winners",
+      "path": "wiki/concepts/science-policy/Lost Winners.md"
+    },
+    {
+      "basename": "Goliath's Shadow",
+      "path": "wiki/concepts/science-policy/Goliath's Shadow.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit01",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+    },
+    {
+      "basename": "template-concept",
+      "path": "wiki/templates/template-concept.md"
+    },
+    {
+      "basename": "i10-Index",
+      "path": "wiki/methods/quantitative/i10-Index.md"
     },
     {
       "basename": "Shockley's Multiplicative Hurdle Model",
@@ -41,20 +77,12 @@
       "path": "wiki/methods/quantitative/h-Index.md"
     },
     {
-      "basename": "template-concept",
-      "path": "wiki/templates/template-concept.md"
-    },
-    {
       "basename": "未命名",
       "path": "未命名.canvas"
     },
     {
       "basename": "o-Index",
       "path": "wiki/methods/quantitative/o-Index.md"
-    },
-    {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
     },
     {
       "basename": "Argument_Skipp_Tanner_2015_EEF",
@@ -171,34 +199,6 @@
     {
       "basename": "European Semester",
       "path": "wiki/facts/eu/European Semester.md"
-    },
-    {
-      "basename": "Lisbon Strategy",
-      "path": "wiki/facts/eu/Lisbon Strategy.md"
-    },
-    {
-      "basename": "Argument_Campbell_2026_JPCC",
-      "path": "wiki/arguments/journal-articles/Journal of Professional Capital and Community/Argument_Campbell_2026_JPCC.md"
-    },
-    {
-      "basename": "Argument_McPhail_2023_JCS",
-      "path": "wiki/arguments/journal-articles/Journal of Curriculum Studies/Argument_McPhail_2023_JCS.md"
-    },
-    {
-      "basename": "Argument_Stone_2020_PolSoc",
-      "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
-    },
-    {
-      "basename": "Bologna Process",
-      "path": "wiki/facts/europe/Bologna Process.md"
-    },
-    {
-      "basename": "Argument_Sanders_2021_EEF",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Sanders_2021_EEF.md"
-    },
-    {
-      "basename": "Skipp_Tanner_2015_EEF",
-      "path": "sources/Skipp_Tanner_2015_EEF/Skipp_Tanner_2015_EEF.md"
     }
   ],
   "omittedPaths": [],

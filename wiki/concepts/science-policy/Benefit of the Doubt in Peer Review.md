@@ -11,7 +11,7 @@ aliases:
 summary: "描述单盲同行评审中资深知名学者因学术声望积累而享有的系统性审稿倾斜；面对非传统假说、推导生僻或细节瑕疵，审稿人倾向于推定知名学者必言之成理并给予宽容信任，而普通或青年学者提交同等文本则面临缺陷推定与严苛挑剔，成为单盲审稿相较双盲审稿录取率剧增 58%–63% 的核心认知机制。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,6 +37,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Harriet Zuckerman]]"
+  - "[[Rebecca Blank]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-10-29
 > [!claim] [[Harriet Zuckerman|Zuckerman, H.]]
 > **学术威望赋予压倒性质疑豁免** [[Harriet Zuckerman|哈里特·朱克曼]]（Harriet Zuckerman）对全美诺贝尔奖得主的[[In-depth Interview|深度访谈]]证实，顶尖学者公开承认其知名度为复杂成果进入审稿程序提供了决定性的疑罪从无空间，大幅降低了编辑与审稿人的初筛阻力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 28)]]
 
-> [!claim] Blank, R. M.
+> [!claim] [[Rebecca Blank|Blank, R. M.]]
 > **单盲审稿赋予名门机构显著超额录用率** 丽贝卡·M·布兰克在《美国经济评论》（AER）开展的双盲与单盲[[Randomised Controlled Trials|随机对照试验]]证明，在控制成果学术水准完全同质的条件下，单盲组中顶尖高校与知名学者的成果录用率显著领先，印证了审稿人对名家成果的默认信赖倾向。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 31–32)]]
 
 ---

@@ -6,11 +6,11 @@ aliases:
   - Sidiropoulos 当代指数
   - hc-Index
   - hc 指数
-summary: "由 Antonis Sidiropoulos 等人 (2007) 提出的时间加权文献计量指标；通过为单篇论著引入发表年资幂律衰减因子，对近期新产出赋予更高权重并衰减陈旧引用，解决传统 h 指数只增不减、难以捕捉学者近期真实科研活跃度的时滞缺陷。"
+summary: "由 Antonis Sidiropoulos et al. (2007) 提出的时间加权文献计量指标；通过为单篇论著引入发表年资幂律衰减因子，对近期新产出赋予更高权重并衰减陈旧引用，解决传统 h 指数只增不减、难以捕捉学者近期真实科研活跃度的时滞缺陷。"
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 5
+method_related_count: 7
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -22,15 +22,14 @@ tags:
   - theme/scientometrics
   - theme/research-evaluation
 related_concepts:
-  - "[[Scientific Productivity]]"
-  - "[[Research Impact]]"
   - "[[Unit of Analysis]]"
   - "[[Construct Validity]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[h-Index]]"
-  - "[[m-Quotient]]"
   - "[[Bibliometric Analysis]]"
+  - "[[m-Quotient]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -45,10 +44,10 @@ updated: 2026-10-30
 ---
 
 > [!def] Contemporary h-Index
-> **当代 h 指数（Contemporary h-Index，记作 $h^c$）** 由 Antonis Sidiropoulos、Dimitrios Katsaros 和 Yannis Manolopoulos 于 2007 年提出，是针对 $h$ 指数时间单调性缺陷开发的时间衰减修正指标。其数学规则定义为：**通过为学者发表的每项论著按其距今出版年限赋予幂律时间衰减权重，重算该项研究的“当代得分”，并求取满足加权得分不低于名次序号的最大论著篇数**。该指标用于动态奖励活跃产出，削减历史远期既有引用的累积优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
+> **当代 h 指数（Contemporary [[h-Index]]，记作 $h^c$）** 由 Antonis Sidiropoulos、Dimitrios Katsaros 和 Yannis Manolopoulos 于 2007 年提出，是针对 $h$ 指数时间单调性缺陷开发的时间衰减修正指标。其数学规则定义为：**通过为学者发表的每项论著按其距今出版年限赋予幂律时间衰减权重，重算该项研究的“当代得分”，并求取满足加权得分不低于名次序号的最大论著篇数**。该指标用于动态奖励活跃产出，削减历史远期既有引用的累积优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
 
 > [!method-scope] 方法范围
-> - **测量或估计对象** 学者在近期时间窗口内的实际学术活跃度与持续知识供给能力，对应带有时间维度的动态 [[Research Impact|学术影响力]]。
+> - **测量或估计对象** 学者在近期时间窗口内的实际学术活跃度与持续知识供给能力，对应带有时间维度的动态 学术影响力。
 > - **问题类型** 评估学者的当代科研生命力，校正资深学者因历史旧作累积形成的年资惯性优势。
 > - **[[Unit of Analysis|分析单位]]** 学者个体科研产出全集。
 > - **输入数据** 学者各项论著的发表年份、累计被引频次以及评估当期基准年份。
@@ -85,7 +84,7 @@ updated: 2026-10-30
 > **这个公式在做什么** 对学者名下的第 $i$ 项论著，计算其经过时间衰减折算后的有效引用贡献度 $S^c(i)$。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
 >
 > **符号说明**
-> - $Y^{\text{now}}$：当前进行文献计量评估的自然年份；
+> - $Y^{\text{now}}$：当前进行[[Document|文献]]计量评估的自然年份；
 > - $Y_i$：第 $i$ 项论著的正式出版年份；
 > - $C_i$：第 $i$ 项论著截至当期获得的原始被引总频次；
 > - $\gamma$：时间加权放大系数（经典设定 $\gamma = 4$）；

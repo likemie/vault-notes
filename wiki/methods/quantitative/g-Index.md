@@ -8,7 +8,7 @@ summary: "由 Leo Egghe (2006) 提出的文献计量指标，以被引最高的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
+method_related_count: 8
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -29,20 +29,21 @@ related_methods:
   - "[[h-Index]]"
   - "[[Bibliometric Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Leo Egghe]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
 
 > [!def] g-Index
-> **g 指数（g-Index）** 由里奥·艾格（Leo Egghe）于 2006 年提出，是 h 指数的修正指标。把学者论著按被引次数降序排列，被引最高的 $g$ 篇累计被引至少 $g^2$ 次的最大整数即为 $g$。它允许高被引论著的超额引用进入数值，补足 $h$ 指数对奠基性成果的钝感。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–26)]]
+> **g 指数（g-Index）** 由[[Leo Egghe|里奥·埃格]]（Leo Egghe）于 2006 年提出，是 h 指数的修正指标。把学者论著按被引次数降序排列，被引最高的 $g$ 篇累计被引至少 $g^2$ 次的最大整数即为 $g$。它允许高被引论著的超额引用进入数值，补足 $h$ 指数对奠基性成果的钝感。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–26)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 学者核心论著的累积学术影响，对应 [[Research Impact]]。

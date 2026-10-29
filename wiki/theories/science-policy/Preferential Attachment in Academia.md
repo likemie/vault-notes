@@ -8,7 +8,7 @@ aliases:
 summary: "由 Derek de Solla Price (1965) 与 Albert-László Barabási (1999) 发展的引文网络演化理论，阐明学术成果获取新引用的速率与已累积引用量成正比（dc/dt ∝ c）；Petersen et al. (2014) 跨越模型进一步证明，学术声望仅在成果面世早期（c < cx）提供暂态红利，越过阈值后纯粹优先连接机制接管，长期影响回归发现本身的内在价值。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 8
+theory_related_count: 9
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -28,6 +28,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Derek de Solla Price]]"
+  - "[[Alexander M. Petersen]]"
 related_facts:
   - "[[National Academy of Sciences]]"
 related_arguments:
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -53,7 +54,7 @@ updated: 2026-10-29
 ---
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** [[Derek de Solla Price|德里克·德索拉·普赖斯]]（Derek de Solla Price, 1965）在《科学》（Science）发表论著提出累积优势网络机制；阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási & Albert, 1999）正式构建无标度网络优先连接微观动力学方程；亚历山大·彼得森（Alexander M. Petersen et al., 2014）在《[[National Academy of Sciences|美国国家科学院]]院刊》（PNAS）建立学者声望与纯优先连接之间的交叉跨越模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34)]]
+> - **提出者与原始文本** [[Derek de Solla Price|德里克·德索拉·普赖斯]]（Derek de Solla Price, 1965）在《科学》（Science）发表论著提出累积优势网络机制；阿尔伯特-拉斯洛·巴拉巴西（Albert-László Barabási & Albert, 1999）正式构建无标度网络优先连接微观动力学方程；[[Alexander M. Petersen|亚历山大·彼得森]]（Alexander M. Petersen et al., 2014）在《[[National Academy of Sciences|美国国家科学院]]院刊》（PNAS）建立学者声望与纯优先连接之间的交叉跨越模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34)]]
 > - **原初问题** 全球学术文献的引文分布呈现极端右偏的重尾特征，绝大多数引用集聚于极少数文献，打破了传统高斯正态分布假设。
 > - **理论资源与材料** 科学引文索引（SCI）大样本引文流转数据、百名高被引顶尖物理学者与百名高产物理学者的终身发表与引文时间序列。
 > - **形成路径** 将物理学网络动力学引入文献引用场景，发现经典线性附着速率在 $c < c_x$ 时发生系统性偏移，从而分离出“早期声望驱动期”与“后期纯优先连接期”。

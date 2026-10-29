@@ -11,9 +11,9 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit01"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit01"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 55
-argument_related_level: 5
-argument_related_stars: "💎⭐⭐"
+argument_related_count: 60
+argument_related_level: 6
+argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
 book_title: "The Science of Science"
 publisher: "Cambridge University Press"
@@ -77,11 +77,16 @@ related_persons:
   - "[[William Shockley]]"
   - "[[Derek de Solla Price]]"
   - "[[Alfred J. Lotka]]"
+  - "[[Wayne Dennis]]"
   - "[[Jorge E. Hirsch]]"
+  - "[[Arthur Eddington]]"
   - "[[Max Planck]]"
+  - "[[Leo Egghe]]"
   - "[[James McKeen Cattell]]"
   - "[[Robert K. Merton]]"
   - "[[Harriet Zuckerman]]"
+  - "[[Rebecca Blank]]"
+  - "[[Alexander M. Petersen]]"
   - "[[John B. Fenn]]"
   - "[[René Descartes]]"
   - "[[Jean-Jacques Rousseau]]"
@@ -273,7 +278,7 @@ updated: 2026-10-30
 > [!sub-claim] 4. 追求篇数脱离实质贡献，发文量是预测长远突破最弱的指标
 
 > [!warning] 发文量虚高不等同于学术贡献：[[Salami Publishing|切香肠式发表]]的干扰
-> 尽管生产力与学术声望呈现高度正相关（Dennis, 1954），但在预测长远突破与卓越贡献时，单纯的发文量却是所有文献计量指标中预测力最弱的一个。高产并不等同于长久贡献，实验室技术人员的常规挂名、为追求考核指标而采取的[[Salami Publishing|切香肠式发表]]（salami publishing）与拆分最小可发表单元（Least Publishable Units, LPUs）都会虚假抬高产出数值，却无助于产生持久的知识增量（pp. 15–16）。
+> 尽管生产力与学术声望呈现高度正相关（[[Wayne Dennis|韦恩·丹尼斯]]，Dennis, 1954），但在预测长远突破与卓越贡献时，单纯的发文量却是所有文献计量指标中预测力最弱的一个。高产并不等同于长久贡献，实验室技术人员的常规挂名、为追求考核指标而采取的[[Salami Publishing|切香肠式发表]]（salami publishing）与拆分最小可发表单元（Least Publishable Units, LPUs）都会虚假抬高产出数值，却无助于产生持久的知识增量（pp. 15–16）。
 
 ---
 
@@ -290,7 +295,7 @@ updated: 2026-10-30
 > *注：(a) 阿尔伯特·爱因斯坦与 (b) 彼得·希格斯成果被引曲线及 h 指数测算对比。实线为按被引量递减排列的论著曲线，虚线为 45 度对角线，两线交点定义了 h 指数。希格斯凭借 1964 年奠基性工作荣获诺贝尔奖，因发表总量极少导致生涯 $h=8$；爱因斯坦发表逾 200 项成果，达到 $h=67$（p. 19）。*
 
 > [!example] 爱丁顿骑行数的门槛动力学隐喻
-> 希尔施提出的科学界 $h$ 指数，在机制上直接暗合了著名英国天文学家、物理学家亚瑟·爱丁顿爵士（Sir Arthur Eddington, 1882–1944）为自行车长途骑行设计的爱丁顿数（[[Eddington Number]], $E$）。
+> 希尔施提出的科学界 $h$ 指数，在机制上直接暗合了著名英国天文学家、物理学家[[Arthur Eddington|亚瑟·爱丁顿]]爵士（Sir Arthur Eddington, 1882–1944）为自行车长途骑行设计的爱丁顿数（[[Eddington Number]], $E$）。
 > 
 > 作为狂热的骑行爱好者，爱丁顿将 $E$ 定义为：骑行者一生中有 $E$ 天骑行里程均不少于 $E$ 英里。若某人拥有 $E=70$，意味着他至少在 70 个不同的骑行日里完成了 70 英里以上的长途跋涉。提高爱丁顿数极其困难，因为当指标从 70 跨越至 75 时，骑行者不仅需要新增 5 次长途骑行，而且此前所有在 70 至 74 英里之间的骑行记录将全部失效。这种逐级递进的阶梯式门槛特性要求参与者必须提前规划长程目标。爱丁顿于 1944 年去世时生涯纪录停留在 $E=87$。爱丁顿数与 $h$ 指数一样，通过对产出数量与被引强度设立动态联合门槛，构成了衡量长程累积耐力与卓越成就的苛刻度量（p. 21）。
 
@@ -333,7 +338,7 @@ updated: 2026-10-30
 > [!contrast-table] h 指数的四大内生结构缺陷与学界修正方案比对
 > | 缺陷维度 | 结构性缺陷机制 | 学界代表性修正指标与方案 | 评价边界与代价 |
 > |---|---|---|---|
-> | **极端高被引成果漠视** | 单项论著一旦被引突破 $h$，不论后续获得 1,000 次还是 10,000 次引用，对 $h$ 指数的边际贡献完全为零。单篇划时代发现被严重低估（彼得·希格斯生涯 $h=8$ vs 爱因斯坦 $h=67$）。 | **[[g-Index\|g 指数]]（Egghe, 2006）** 排名前 $g$ 项论著累计获得至少 $g^2$ 次引用。<br>**[[o-Index\|o 指数]]（Dorogovtsev & Mendes, 2015）** 取 $h$ 与单篇最高被引 $c^*$ 的几何平均数 $o = \sqrt{h \cdot c^*}$。 | 重新赋予厚尾突破权重，但对历史极度偶然的大爆款敏感度增加。 |
+> | **极端高被引成果漠视** | 单项论著一旦被引突破 $h$，不论后续获得 1,000 次还是 10,000 次引用，对 $h$ 指数的边际贡献完全为零。单篇划时代发现被严重低估（彼得·希格斯生涯 $h=8$ vs 爱因斯坦 $h=67$）。 | **[[g-Index\|g 指数]]（[[Leo Egghe\|Egghe]], 2006）** 排名前 $g$ 项论著累计获得至少 $g^2$ 次引用。<br>**[[o-Index\|o 指数]]（Dorogovtsev & Mendes, 2015）** 取 $h$ 与单篇最高被引 $c^*$ 的几何平均数 $o = \sqrt{h \cdot c^*}$。 | 重新赋予厚尾突破权重，但对历史极度偶然的大爆款敏感度增加。 |
 > | **跨学科引用基准鸿沟** | 各学科因发表载体、参考文献数量与合作规模差异，基础引用率大相径庭。分子生物学 $h$ 基准远高于物理学，物理学又显著高于数学，无法直接跨学科横向比对。 | **$h_g$ 指数（Radicchi et al., 2008）** 根据学者在同领域同年度发表的所有论著平均被引排名进行广义归一化。<br>**$h_s$ 指数** 除以所属学科平均 $h$ 指数。 | 消除了学科鸿沟，但算法依赖准确的跨学科分类标准与全库数据基准。 |
 > | **年资被动累积倾向** | 由于发文量与被引量在时间尺度上具有严格的不可逆非递减特性，$h$ 指数天生偏向资深学者，无法直接用于不同发展阶段青年学者的公平竞争。 | **[[m-Quotient\|m 商数（Hirsch, 2005）]]** 除以学者自首篇发表以来的年资 $m = h/t$。<br>**[[Contemporary h-Index\|当代 h 指数（Contemporary h-index）]]** 引入发表年限幂律时间衰减因子重算微观单篇得分。 | 惩罚了中途休学或[[Transitology\|转型学]]者，对早期爆发后停滞者识别滞后。 |
 > | **合作模式与搭便车失真** | $h$ 指数不区分学者在科研团队中是学术领军者、普通参与者还是资深挂名者，实验平台技术员因挂名上百项成果可虚假获取超高 $h$ 值。 | **[[h-alpha Index\|h_α 指数（Hirsch, 2019）]]** 限定只计入学者在合著者中拥有最高 $h$ 指数（资深学术引领者）的核心成果群。 | 高 $h$ 伴随高 $h_\alpha/h$ 比值有效甄别了领军科学家，但压制了多学科平行平等合作团队。 |
@@ -373,7 +378,7 @@ updated: 2026-10-30
 > - Google、Facebook、Microsoft 等顶尖企业机构的录用率暴增 **110%**。
 
 > [!case] AER 双盲实验：消除声望信号改善边缘机构录用率（Blank, 1991）
-> 丽贝卡·布兰克在《美国经济评论》（American Economic Review, AER）开展的著名双盲随机实验表明，在单盲状态下顶尖机构学者的录用率显著虚高，而在双盲状态下低知名度院校与国外学者的录用率迎来了显著改善（Rebecca Blank, 1991）。
+> [[Rebecca Blank|丽贝卡·布兰克]]（Rebecca Blank）在《美国经济评论》（American Economic Review, AER）开展的著名双盲随机实验表明，在单盲状态下顶尖机构学者的录用率显著虚高，而在双盲状态下低知名度院校与国外学者的录用率迎来了显著改善（Rebecca Blank, 1991）。
 
 > [!sub-claim] 3. 自选双盲反成负面信心标签，唯有全面强制双盲才能破除偏见
 
@@ -400,7 +405,7 @@ updated: 2026-10-30
 
 > [!sub-claim] 1. 先发声望提供数倍早期引用，但成果长期扩散仍由内在质量决定
 
-为了量化声誉对成果引文演化的动态影响，彼得森等人提出了声望加速度与临界阈值模型（Petersen et al., 2014）。新发表成果在学术网络中获得引用的概率最初受学者先验学术声望推动，但该声誉红利仅在累积引用低于临界阈值 $c_x$（知名物理学家约为 40 次，普通学者约为 10 次）的窗口期内有效；一旦跨越 $c_x$，成果的长期引用演化完全贴合由内在质量决定的纯偏好连接基准线（pp. 32–34）。完整分段方程推导、参数估计与交互式动态模拟见 [[Reputation Velocity Threshold Model]]。
+为了量化声誉对成果引文演化的动态影响，[[Alexander M. Petersen|亚历山大·彼得森]]（Alexander M. Petersen）等人提出了声望加速度与临界阈值模型（Petersen et al., 2014）。新发表成果在学术网络中获得引用的概率最初受学者先验学术声望推动，但该声誉红利仅在累积引用低于临界阈值 $c_x$（知名物理学家约为 40 次，普通学者约为 10 次）的窗口期内有效；一旦跨越 $c_x$，成果的长期引用演化完全贴合由内在质量决定的纯偏好连接基准线（pp. 32–34）。完整分段方程推导、参数估计与交互式动态模拟见 [[Reputation Velocity Threshold Model]]。
 
 > [!figure]- 图3-1：学术声望对早期引用的跨越式促进效应
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_3-1_Crossover_Effect_Reputation_Citations.jpg)

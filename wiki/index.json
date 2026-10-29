@@ -15839,14 +15839,17 @@
     ]
   },
   {
-    "title": "Conceptual and Experimental Innovators",
+    "title": "Conceptual Innovators",
     "type": "concept",
-    "path": "wiki/concepts/science-policy/Conceptual and Experimental Innovators.md",
+    "path": "wiki/concepts/science-policy/Conceptual Innovators.md",
     "aliases": [
-      "概念型与实验型创新者",
-      "概念型与实验型创造者",
-      "概念型学者与经验型学者",
-      "Conceptual vs. Experimental Innovators"
+      "Conceptual Innovator",
+      "Conceptual Innovation",
+      "Conceptual innovation",
+      "概念型创新者",
+      "概念型创造者",
+      "概念型学者",
+      "概念型创新"
     ]
   },
   {
@@ -15985,6 +15988,23 @@
       "厄鲁姆定律",
       "反摩尔定律",
       "Eroom's law of drug discovery"
+    ]
+  },
+  {
+    "title": "Experimental Innovators",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Experimental Innovators.md",
+    "aliases": [
+      "Experimental Innovator",
+      "Experimental Innovation",
+      "Experimental innovation",
+      "实验型创新者",
+      "经验型创新者",
+      "实验型学者",
+      "经验型学者",
+      "实验型创新",
+      "经验型创新",
+      "实验型创造者"
     ]
   },
   {
@@ -26923,6 +26943,17 @@
     ]
   },
   {
+    "title": "Leo Egghe",
+    "type": "person",
+    "path": "wiki/persons/belgium/Leo Egghe.md",
+    "aliases": [
+      "里奥·埃格",
+      "里奥·艾格",
+      "L. Egghe",
+      "Egghe, L."
+    ]
+  },
+  {
     "title": "Camilla de Hollanda Amado",
     "type": "person",
     "path": "wiki/persons/brazil/Camilla de Hollanda Amado.md",
@@ -28828,6 +28859,19 @@
     ]
   },
   {
+    "title": "Arthur Eddington",
+    "type": "person",
+    "path": "wiki/persons/uk/Arthur Eddington.md",
+    "aliases": [
+      "亚瑟·爱丁顿",
+      "亚瑟·斯坦利·爱丁顿",
+      "Arthur Stanley Eddington",
+      "Sir Arthur Eddington",
+      "A. Eddington",
+      "Eddington, A."
+    ]
+  },
+  {
     "title": "Basil Bernstein",
     "type": "person",
     "path": "wiki/persons/uk/Basil Bernstein.md",
@@ -29893,6 +29937,18 @@
       "Alex Karp",
       "A. C. Karp",
       "Karp, A. C."
+    ]
+  },
+  {
+    "title": "Alexander M. Petersen",
+    "type": "person",
+    "path": "wiki/persons/us/Alexander M. Petersen.md",
+    "aliases": [
+      "亚历山大·彼得森",
+      "亚历山大·M·彼得森",
+      "A. M. Petersen",
+      "Petersen, A. M.",
+      "Alexander Petersen"
     ]
   },
   {
@@ -31705,6 +31761,18 @@
     ]
   },
   {
+    "title": "Rebecca Blank",
+    "type": "person",
+    "path": "wiki/persons/us/Rebecca Blank.md",
+    "aliases": [
+      "丽贝卡·布兰克",
+      "丽贝卡·M·布兰克",
+      "R. M. Blank",
+      "Blank, R. M.",
+      "Rebecca M. Blank"
+    ]
+  },
+  {
     "title": "Richard C. Atkinson",
     "type": "person",
     "path": "wiki/persons/us/Richard C. Atkinson.md",
@@ -32212,6 +32280,16 @@
     "aliases": [
       "Mignolo, W.",
       "沃尔特·米尼奥罗"
+    ]
+  },
+  {
+    "title": "Wayne Dennis",
+    "type": "person",
+    "path": "wiki/persons/us/Wayne Dennis.md",
+    "aliases": [
+      "韦恩·丹尼斯",
+      "W. Dennis",
+      "Dennis, W."
     ]
   },
   {
