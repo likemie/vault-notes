@@ -1629,7 +1629,9 @@
     "Barab & Squire (2004)": "Barab & Squire, 2004",
     "Barab & Squire, 2004": "Barab & Squire, 2004",
     "Barabási (2002)": "Barabási, 2002",
+    "Barabási (2005)": "Barabási, 2005",
     "Barabási, 2002": "Barabási, 2002",
+    "Barabási, 2005": "Barabási, 2005",
     "Baram-Tsabari & Segev (2018)": "Baram-Tsabari & Segev, 2018",
     "Baram-Tsabari & Segev, 2018": "Baram-Tsabari & Segev, 2018",
     "Baranik et al. (2010)": "Baranik et al., 2010",
@@ -16094,6 +16096,8 @@
     "Miller & Dollard, 1941": "Miller & Dollard, 1941",
     "Miller & Rose (1990)": "Miller & Rose, 1990",
     "Miller & Rose, 1990": "Miller & Rose, 1990",
+    "Miller & Sanjurjo (2018)": "Miller & Sanjurjo, 2018",
+    "Miller & Sanjurjo, 2018": "Miller & Sanjurjo, 2018",
     "Miller (1989)": "Miller, 1989",
     "Miller (1992)": "Miller, 1992",
     "Miller (1995)": "Miller, 1995",
@@ -17627,6 +17631,8 @@
     "Olesen, 2000": "Olesen, 2000",
     "Olina (2002)": "Olina, 2002",
     "Olina, 2002": "Olina, 2002",
+    "Oliveira & Barabási (2005)": "Oliveira & Barabási, 2005",
+    "Oliveira & Barabási, 2005": "Oliveira & Barabási, 2005",
     "Oliveira et al. (2012)": "Oliveira et al., 2012",
     "Oliveira et al., 2012": "Oliveira et al., 2012",
     "Oliver & Jorre de St Jorre (2018)": "Oliver & Jorre de St Jorre, 2018",
@@ -25409,10 +25415,12 @@
     "Wu (2024a)": "Wu, 2024a",
     "Wu (2024b)": "Wu, 2024b",
     "Wu et al. (2015)": "Wu et al., 2015",
+    "Wu et al. (2019)": "Wu et al., 2019",
     "Wu et al. (2021a)": "Wu et al., 2021a",
     "Wu et al. (2021b)": "Wu et al., 2021b",
     "Wu et al. (2021c)": "Wu et al., 2021c",
     "Wu et al., 2015": "Wu et al., 2015",
+    "Wu et al., 2019": "Wu et al., 2019",
     "Wu et al., 2021": "Wu et al., 2021c",
     "Wu et al., 2021a": "Wu et al., 2021b",
     "Wu et al., 2021b": "Wu et al., 2021a",
@@ -38749,6 +38757,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22.md"
+      ],
+      "title": ""
+    },
+    "Barabási, 2005": {
+      "aliases": [
+        "Barabási, 2005",
+        "Barabási (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Barabási, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
       ],
       "title": ""
     },
@@ -89946,6 +89969,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md",
         "wiki/theories/science-policy/Hot-Streak Model.md"
       ],
       "title": ""
@@ -131124,7 +131148,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md",
+        "wiki/facts/us/Microsoft Academic Graph.md"
       ],
       "title": "Effectiveness of the flipped classroom on the development of self-directed learning in nursing education: A meta-analysis."
     },
@@ -143772,6 +143797,21 @@
       ],
       "title": ""
     },
+    "Miller & Sanjurjo, 2018": {
+      "aliases": [
+        "Miller & Sanjurjo, 2018",
+        "Miller & Sanjurjo (2018)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Miller & Sanjurjo, 2018"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
+      ],
+      "title": ""
+    },
     "Miller, 1989": {
       "aliases": [
         "Miller, 1989",
@@ -154983,6 +155023,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of classroom evaluation strategies on student achievement and attitudes"
+    },
+    "Oliveira & Barabási, 2005": {
+      "aliases": [
+        "Oliveira & Barabási, 2005",
+        "Oliveira & Barabási (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Oliveira & Barabási, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
+      ],
+      "title": ""
     },
     "Oliveira et al., 2012": {
       "aliases": [
@@ -183938,6 +183993,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md",
         "wiki/concepts/science-policy/Lost Winners.md",
+        "wiki/facts/us/Microsoft Academic Graph.md",
         "wiki/methods/quantitative/Career Shuffling Method.md",
         "wiki/persons/us/Harvey C. Lehman.md"
       ],
@@ -211182,6 +211238,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Creativity Research Journal/Argument_Runco_2026_CRJ.md"
+      ],
+      "title": ""
+    },
+    "Wu et al., 2019": {
+      "aliases": [
+        "Wu et al., 2019",
+        "Wu et al. (2019)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Wu et al., 2019"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/us/Microsoft Academic Graph.md"
       ],
       "title": ""
     },

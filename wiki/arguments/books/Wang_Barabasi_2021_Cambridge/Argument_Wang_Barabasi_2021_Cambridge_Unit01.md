@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit01"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit01"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -92,6 +92,7 @@ related_persons:
   - "[[Jean-Jacques Rousseau]]"
   - "[[Arnout van de Rijt]]"
 related_facts:
+  - "[[Microsoft Academic Graph]]"
   - "[[National Research Council]]"
   - "[[National Academy of Sciences]]"
 related_arguments: []
@@ -133,7 +134,7 @@ updated: 2026-10-30
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **大数据[[Bibliometric Analysis\|文献计量分析]]**<br>Bibliometric Big Data Analytics | 依托微软学术图谱（Microsoft Academic Graph, MAG）与科学引文索引（Web of Science）数据库，对跨越百年的全量学术出版物与学者档案展开时间序列平稳性检验与分布拟合。 |
+> | **大数据[[Bibliometric Analysis\|文献计量分析]]**<br>Bibliometric Big Data Analytics | 依托[[Microsoft Academic Graph\|微软学术图谱]]（Microsoft Academic Graph, MAG）与科学引文索引（Web of Science）数据库，对跨越百年的全量学术出版物与学者档案展开时间序列平稳性检验与分布拟合。 |
 > | **队列追踪与纵向预测设计**<br>Longitudinal Predictive Cohort Design | 选取 1996–2011 年间 1,500 余万名科学家以及凝聚态物理学者 24 年发表全景，以生涯前 12 年各项指标对未来 12 年新增成果被引展开前瞻相关回归。 |
 > | **随机对照试验与准自然实验**<br>RCTs and Natural Experiments | 借助网络搜索与数据挖掘国际会议（Web Search and Data Mining, WSDM）2017 年同批文稿双向分流单双盲对照实验、互联网工程任务组（Internet Engineering Task Force, IETF）协议姓名遮蔽准自然实验，以及维基百科虚构星章现场干预，剥离内在天赋并确立声望马太效应的纯[[Causality\|因果性]]。 |
 
@@ -166,7 +167,7 @@ updated: 2026-10-30
 > [!sub-claim] 1. 队伍扩充推高宏观文献总量，个人年均发文稳停在两篇
 
 > [!mechanism] 宏观文献爆炸由科研队伍扩张驱动，个体年均产出保持认知稳态
-> 学界常依直觉假定，科学知识规模的宏观膨胀源于个体学者生产效率的普遍提高。[[Derek de Solla Price|德里克·德索拉·普赖斯]]（Derek de Solla Price, 1963）在《小科学，[[Big Science|大科学]]》（*Little Science, Big Science*）中最早系统记录了科学出版物总量的指数级激增，并提出[[Price's Law|普赖斯平方根定律]]（$k \approx \sqrt{N}$），揭示在宏观扩张背后，学科半数文献始终由总科研人口平方根规模的核心精英群体所包揽。依托微软学术图谱（Microsoft Academic Graph, MAG）与科学引文索引（Web of Science）数据库，对跨越百年的 5,300 万名研究者与近 9,000 万篇文献的量化追踪证实，文献总量与科研人员规模确实同步呈指数级扩张（图 1-1a；Dong et al., 2014; Sinatra et al., 2016）。
+> 学界常依直觉假定，科学知识规模的宏观膨胀源于个体学者生产效率的普遍提高。[[Derek de Solla Price|德里克·德索拉·普赖斯]]（Derek de Solla Price, 1963）在《小科学，[[Big Science|大科学]]》（*Little Science, Big Science*）中最早系统记录了科学出版物总量的指数级激增，并提出[[Price's Law|普赖斯平方根定律]]（$k \approx \sqrt{N}$），揭示在宏观扩张背后，学科半数文献始终由总科研人口平方根规模的核心精英群体所包揽。依托[[Microsoft Academic Graph|微软学术图谱]]（Microsoft Academic Graph, MAG）与科学引文索引（Web of Science）数据库，对跨越百年的 5,300 万名研究者与近 9,000 万篇文献的量化追踪证实，文献总量与科研人员规模确实同步呈指数级扩张（图 1-1a；Dong et al., 2014; Sinatra et al., 2016）。
 >
 > 然而，在学者个体微观层面，科学家的平均年产出率在整个 20 世纪牢固维持在每年约 2 篇左右（图 1-1b 蓝线）。直到进入 21 世纪的过去十五年间，学者年均署名文章数量才轻微上浮至约 2.5 篇。这一微小增幅的实质动力完全来自科研协作网络的结构性扩张：多位学者联合署名的成果占比急剧攀升，成果平均署名人数从 1900 年的每篇 1 人稳步增至 2015 年的每篇 3.5 人以上（图 1-1b 红线）。换言之，学者个体在单位时间内独立构思、实验验证与撰写文本的生理与认知负荷保持着高度稳态，宏观知识库的指数级扩张本质上是由接受专业学术训练的科研队伍基数膨胀所驱动（Dong et al., 2014; Sinatra et al., 2016; pp. 8–9）。
 

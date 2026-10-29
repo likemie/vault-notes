@@ -7126,6 +7126,14 @@
       ],
       "title": ""
     },
+    "Barabási, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
+      ],
+      "title": ""
+    },
     "Baram-Tsabari & Segev, 2018": {
       "doi": "",
       "isbn": "",
@@ -38002,6 +38010,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md",
         "wiki/theories/science-policy/Hot-Streak Model.md"
       ],
       "title": ""
@@ -63052,7 +63061,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md",
+        "wiki/facts/us/Microsoft Academic Graph.md"
       ],
       "title": "Effectiveness of the flipped classroom on the development of self-directed learning in nursing education: A meta-analysis."
     },
@@ -70762,6 +70772,14 @@
       ],
       "title": ""
     },
+    "Miller & Sanjurjo, 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
+      ],
+      "title": ""
+    },
     "Miller, 1989": {
       "doi": "",
       "isbn": "",
@@ -77511,6 +77529,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Effects of classroom evaluation strategies on student achievement and attitudes"
+    },
+    "Oliveira & Barabási, 2005": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
+      ],
+      "title": ""
     },
     "Oliveira et al., 2012": {
       "doi": "",
@@ -94949,6 +94975,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md",
         "wiki/concepts/science-policy/Lost Winners.md",
+        "wiki/facts/us/Microsoft Academic Graph.md",
         "wiki/methods/quantitative/Career Shuffling Method.md",
         "wiki/persons/us/Harvey C. Lehman.md"
       ],
@@ -111587,6 +111614,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Creativity Research Journal/Argument_Runco_2026_CRJ.md"
+      ],
+      "title": ""
+    },
+    "Wu et al., 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/us/Microsoft Academic Graph.md"
       ],
       "title": ""
     },

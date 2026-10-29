@@ -43801,6 +43801,18 @@
     "subtype": "program"
   },
   {
+    "title": "Microsoft Academic Graph",
+    "type": "fact",
+    "path": "wiki/facts/us/Microsoft Academic Graph.md",
+    "aliases": [
+      "微软学术图谱",
+      "MAG",
+      "Microsoft Academic",
+      "微软学术知识图谱"
+    ],
+    "subtype": "program"
+  },
+  {
     "title": "MN-IP Create",
     "type": "fact",
     "path": "wiki/facts/us/MN-IP Create.md",
