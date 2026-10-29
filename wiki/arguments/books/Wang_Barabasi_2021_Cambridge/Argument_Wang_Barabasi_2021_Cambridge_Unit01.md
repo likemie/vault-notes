@@ -227,10 +227,7 @@ updated: 2026-10-30
 > | **分布形态** | 有界的窄峰高斯正态分布 | 无界的长尾对数正态分布 |
 > | **解释机制** | 单一生理能力的随机变异 | 八重关卡能力的概率连乘放大 |
 
-> [!formula-step] 肖克利科研生产力对数正态模型
-> $$P(N) = \frac{1}{N\sigma\sqrt{2\pi}} \exp\left(-\frac{(\ln N - \mu)^2}{2\sigma^2}\right)$$
->
-> **这个公式在做什么** [[William Shockley|威廉·肖克利]]（1957）将学者发文总量 $N$ 形式化为连续型对数正态概率密度函数，揭示微观关卡概率连乘在宏观上生成的极端右偏厚尾特征（Shockley, 1957; pp. 11–12）。完整公式推导、八重关卡清单、参数估计方法与交互式动态模拟见 [[Shockley's Multiplicative Hurdle Model]]。
+学者发表总量 $N$ 在经验上服从对数正态分布 $P(N) = \frac{1}{N\sigma\sqrt{2\pi}} \exp\left(-\frac{(\ln N - \mu)^2}{2\sigma^2}\right)$，多数学者产出极少，而顶尖学者的发表量呈现厚尾暴增（Shockley, 1957; pp. 11–12）。概率密度函数推导、参数估计与交互式动态模拟见 [[Shockley's Multiplicative Hurdle Model]]。
 
 > [!figure]- 图1-2：科研生产力的对数正态分布与跨栏机制
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_1-2_Productivity_Lognormal_Hurdle.jpg)
@@ -405,7 +402,7 @@ updated: 2026-10-30
 
 > [!sub-claim] 1. 先发声望提供数倍早期引用，但成果长期扩散仍由内在质量决定
 
-为了量化声誉对成果引文演化的动态影响，[[Alexander M. Petersen|亚历山大·彼得森]]（Alexander M. Petersen）等人提出了声望加速度与临界阈值模型（Petersen et al., 2014）。新发表成果在学术网络中获得引用的概率最初受学者先验学术声望推动，但该声誉红利仅在累积引用低于临界阈值 $c_x$（知名物理学家约为 40 次，普通学者约为 10 次）的窗口期内有效；一旦跨越 $c_x$，成果的长期引用演化完全贴合由内在质量决定的纯偏好连接基准线（pp. 32–34）。完整分段方程推导、参数估计与交互式动态模拟见 [[Reputation Velocity Threshold Model]]。
+为了量化声誉对成果引文演化的动态影响，亚历山大·彼得森（[[Alexander M. Petersen]]）等人提出了声望加速度与临界阈值模型（Petersen et al., 2014）。新发表成果在学术网络中获得引用的概率最初受学者先验学术声望推动，但该声誉红利仅在累积引用低于临界阈值 $c_x$（知名物理学家约为 40 次，普通学者约为 10 次）的窗口期内有效；一旦跨越 $c_x$，成果的长期引用演化完全贴合由内在质量决定的纯偏好连接基准线（pp. 32–34）。完整分段方程推导、参数估计与交互式动态模拟见 [[Reputation Velocity Threshold Model]]。
 
 > [!figure]- 图3-1：学术声望对早期引用的跨越式促进效应
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_3-1_Crossover_Effect_Reputation_Citations.jpg)
