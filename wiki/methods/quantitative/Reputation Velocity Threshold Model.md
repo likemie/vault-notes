@@ -11,7 +11,7 @@ summary: "由 Alexander M. Petersen et al. (2014) 提出的文献计量微观动
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 8
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -25,17 +25,13 @@ tags:
   - theme/citations
 related_concepts:
   - "[[Document]]"
-  - "[[Metascience]]"
   - "[[Matthew Effect in Academia]]"
-  - "[[Paradigm]]"
+  - "[[Unit of Analysis]]"
+  - "[[Construct Validity]]"
   - "[[Heterogeneity]]"
-  - "[[Scientific Productivity]]"
-  - "[[Research Impact]]"
-related_theories:
-  - "[[Preferential Attachment in Academia]]"
+related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
-  - "[[h-Index]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -51,12 +47,12 @@ updated: 2026-10-30
 ---
 
 > [!def] Reputation Velocity Threshold Model
-> **声望加速度临界阈值模型（Reputation Velocity Threshold Model）** 由物理学家与科学计量学者亚历山大·M·彼得森（Alexander M. Petersen）等人于 2014 年提出，是刻画新发表学术成果引文获取动态的微观量化方法。该模型将成果的边际引文增长率 $\Pi(c)$ 形式化为带有外生初速度的广义偏好连接方程：在文献面世早期，学者既有学术声誉提供初始加速度 $c_0$（$\Pi(c) \propto c + c_0$）；当累积引用突破临界交叠阈值 $c_x$ 之后，声誉促进项归零，引文动态完全由成果内在质量主导的经典偏好连接（$\Pi(c) \propto c$）接管。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 32–34)]]
+> **声望加速度临界阈值模型（Reputation Velocity Threshold Model）** 由物理学家与[[Bibliometric Analysis|科学计量学]]者亚历山大·M·彼得森（Alexander M. Petersen）等人于 2014 年提出，是刻画新发表学术成果引文获取动态的微观量化方法。该模型将成果的边际引文增长率 $\Pi(c)$ 形式化为带有外生初速度的广义偏好连接方程：在[[Document|文献]]面世早期，学者既有学术声誉提供初始加速度 $c_0$（$\Pi(c) \propto c + c_0$）；当累积引用突破临界交叠阈值 $c_x$ 之后，声誉促进项归零，引文动态完全由成果内在质量主导的经典偏好连接（$\Pi(c) \propto c$）接管。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 32–34)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 单篇学术成果的微观引文增长加速度、学者历史声望对新成果的早期溢价效应，以及声誉红利出清的临界被引阈值 $c_x$。
-> - **问题类型** 非线性偏好连接拟合、引文演化阶段识别、学术马太效应的时间边界测算。
-> - **分析单位** 跨学科单篇学术[[Document|文献]]及其署名学者的完整生涯发表记录。
+> - **问题类型** 非线性偏好连接拟合、引文演化阶段识别、[[Matthew Effect in Academia|学术马太效应]]的时间边界测算。
+> - **[[Unit of Analysis|分析单位]]** 跨学科单篇学术[[Document|文献]]及其署名学者的完整生涯发表记录。
 > - **输入数据** 文献各年度的新增被引时间序列，以及署名学者在文献发表时刻的累积总引用量与 $h$ 指数。
 > - **输出形式** 初始声誉加速度参数估计值 $\hat{c}_0$、临界交叠阈值 $\hat{c}_x$ 及分段引文增长概率密度函数。
 
@@ -68,14 +64,14 @@ updated: 2026-10-30
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 突破了传统观点将学术马太效应视作终身无界累积的泛化假设，在数理结构上界定了声誉加速窗口与质量检验阶段的分界线。
+> - **[[Construct Validity|构念效度]]** 突破了传统观点将学术马太效应视作终身无界累积的泛化假设，在数理结构上界定了声誉加速窗口与质量检验阶段的分界线。
 > - **研究者判断** $c_x$ 阈值的具体数值受学科平均引文规模调节（例如物理学资深学者约为 40，而在年均引用较少的小众量化分支中绝对值会相应收缩）。
 > - **有效性标准** 早期引文非线性拟合优度、双对数图上的斜率拐点显著性检验，以及跨资历群体的参数显著性比较。
 > - **不声称回答的问题** 不用于测量极少数历经数十年才被学界发掘的睡美人文献，亦不直接评价同行评阅意见书的文本内容。
 
 > [!method-stack] 方法层级
 > - **上位方法** [[Bibliometric Analysis]]。
-> - **理论对话** 拓展了复杂网络中的经典 [[Preferential Attachment in Academia|偏好连接理论]]，将其零度数冷启动困境形式化为声誉偏置参数；数理上细化了 [[Matthew Effect in Academia|学术马太效应]] 的衰减阶段。
+> - **理论对话** 拓展了复杂网络中的经典 偏好连接理论，将其零度数冷启动困境形式化为声誉偏置参数；数理上细化了 [[Matthew Effect in Academia|学术马太效应]] 的衰减阶段。
 > - **后续应用** 为学术期刊推荐算法、科技基金结项评审与代表作评价提供时间窗截断依据。
 
 > [!dev-timeline] 方法演变
@@ -143,7 +139,7 @@ updated: 2026-10-30
 
 > [!warning] 适用局限与理论边界
 > - **引文规范生态依赖** 模型假定引用行为主要由真实的学术同行参考驱动；在存在不当互引或排他性引用小圈子时，声誉溢价可能在越过 $c_x$ 后继续非正常维系。
-> - **团队合署异质性** 模型将声誉主要映射至单篇成果的单一代表学者，对多位不同资历学者深度协作时的声望归属划分需结合署名权重细化。
+> - **团队合署[[Heterogeneity|异质性]]** 模型将声誉主要映射至单篇成果的单一代表学者，对多位不同资历学者深度协作时的声望归属划分需结合署名权重细化。
 > - **学科引用基线差异** 不同领域的基础引文速度不同，在实务应用中需根据学科引用中位数对 $c_x$ 和 $c_0$ 作基准归一化。
 
 ---

@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit01"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit01"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -52,7 +52,6 @@ related_concepts:
 related_theories:
   - "[[Lotka's Law]]"
   - "[[Price's Law]]"
-  - "[[Reputation Velocity Threshold Model]]"
   - "[[Central Limit Theorem]]"
   - "[[Transitology]]"
   - "[[Preferential Attachment in Academia]]"
@@ -64,6 +63,7 @@ related_methods:
   - "[[o-Index]]"
   - "[[m-Quotient]]"
   - "[[h-alpha Index]]"
+  - "[[Reputation Velocity Threshold Model]]"
   - "[[Author Name Disambiguation]]"
   - "[[Experimental Research]]"
   - "[[In-depth Interview]]"
@@ -79,6 +79,7 @@ related_persons:
   - "[[James McKeen Cattell]]"
   - "[[Robert K. Merton]]"
   - "[[Harriet Zuckerman]]"
+  - "[[John B. Fenn]]"
   - "[[René Descartes]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Arnout van de Rijt]]"
@@ -394,7 +395,7 @@ updated: 2026-10-30
 
 > [!sub-claim] 1. 先发声望提供数倍早期引用，但成果长期扩散仍由内在质量决定
 
-为了量化声誉对成果引文演化的动态影响，彼得森等人提出了[[Reputation Velocity Threshold Model|声望加速度与临界阈值模型]]（Petersen et al., 2014）。新发表成果在学术网络中获得引用的概率最初受学者先验学术声望推动，但该声誉红利仅在累积引用低于临界阈值 $c_x$（知名物理学家约为 40 次，普通学者约为 10 次）的窗口期内有效；一旦跨越 $c_x$，成果的长期引用演化完全贴合由内在质量决定的纯偏好连接基准线（pp. 32–34）。完整分段方程推导、参数估计与交互式动态模拟见 [[Reputation Velocity Threshold Model]]。
+为了量化声誉对成果引文演化的动态影响，彼得森等人提出了声望加速度与临界阈值模型（Petersen et al., 2014）。新发表成果在学术网络中获得引用的概率最初受学者先验学术声望推动，但该声誉红利仅在累积引用低于临界阈值 $c_x$（知名物理学家约为 40 次，普通学者约为 10 次）的窗口期内有效；一旦跨越 $c_x$，成果的长期引用演化完全贴合由内在质量决定的纯偏好连接基准线（pp. 32–34）。完整分段方程推导、参数估计与交互式动态模拟见 [[Reputation Velocity Threshold Model]]。
 
 > [!figure]- 图3-1：学术声望对早期引用的跨越式促进效应
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_3-1_Crossover_Effect_Reputation_Citations.jpg)
@@ -417,7 +418,7 @@ updated: 2026-10-30
 
 > [!evidence-grid] 重大荣誉对历史旧作的追溯溢出效应（Azoulay et al., 2014）
 > - **荣誉降临触发跨主题被引激增** Azoulay et al. (2014) 追踪了 124 位诺贝尔奖得主的完整引文网络，发现重大荣誉降临会瞬间使获奖者数十年前发表的旧作被引速率激增，即便这些旧作在[[Research Topic|研究主题]]上与获奖成果毫无关联（pp. 33–34）。
-> - **芬恩案例：非获奖领域论著同步爆发** 约翰·芬恩凭借电喷雾电离技术荣获 2002 年化学奖后，其早年在流体力学等非获奖领域的论著均迎来爆发式被引增长，展现出[[Prizewinner Retroactive Spillover Effect|重大科学奖项的追溯溢出效应]]（pp. 33–34）。
+> - **芬恩案例：非获奖领域论著同步爆发** [[John B. Fenn|约翰·芬恩]]凭借电喷雾电离技术荣获 2002 年化学奖后，其早年在流体力学等非获奖领域的论著均迎来爆发式被引增长，展现出[[Prizewinner Retroactive Spillover Effect|重大科学奖项的追溯溢出效应]]（pp. 33–34）。
 
 > [!case] 撤稿危机中的[[Reverse Matthew Effect in Academia|逆向马太效应]]与失衡责任分担
 > 科研探索难免犯错，学术界定期面临文献撤稿事件。撤稿对科学界纠偏防伪至关重要，但对涉事学者却构成毁灭性打击（pp. 34–35）。对顶级期刊撤稿事件的计量追踪显示出声望带来的双刃剑效应：

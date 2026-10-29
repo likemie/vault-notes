@@ -11,7 +11,7 @@ aliases:
 summary: "描述学者获得诺贝尔奖或当选 HHMI 研究员等顶级学术荣誉后，其在获奖前发表的历史旧作（甚至与获奖研究主题毫无关联的边缘论著）均迎来显著引用增长的科学学因果现象；证实外生学术声誉符号具有独立的跨时空注意力引流效能，彻底排除了成果内在科学质量随获奖发生变化的内生解释。"
 type: concept
 domain: "science-policy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,12 +29,13 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Causality]]"
   - "[[Primary and Secondary Documents]]"
-related_theories:
+related_theories: []
+related_methods:
   - "[[Reputation Velocity Threshold Model]]"
-related_methods: []
 related_instruments: []
 related_persons:
   - "[[Pierre Azoulay]]"
+  - "[[John B. Fenn]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -93,7 +94,7 @@ updated: 2026-10-29
 > **诺贝尔奖诱发历史论著全谱系被引加速** 皮埃尔·阿祖莱团队通过追踪 124 位诺贝尔奖得主的完整引文网络确证，重大奖项降临直接使获奖者早年发表的非核心成果被引增速显著上扬，证实声望资本具有强烈的逆向时间扩散效应。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 34)]]
 
 > [!claim] Wang, D. & Barabási, A.-L.
-> **芬恩案例印证非获奖研究领域的同步受益** 约翰·芬恩凭借电喷雾电离质谱荣获 2002 年化学奖后，其早年在超声速分子束与流体力学等非化学领域的历史[[Document|文献]]同样迎来爆发式引用，展现出顶级声望跨越学科边界的巨大牵引力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34)]]
+> **芬恩案例印证非获奖研究领域的同步受益** [[John B. Fenn|约翰·芬恩]]凭借电喷雾电离质谱荣获 2002 年化学奖后，其早年在超声速分子束与流体力学等非化学领域的历史[[Document|文献]]同样迎来爆发式引用，展现出顶级声望跨越学科边界的巨大牵引力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–34)]]
 
 ---
 

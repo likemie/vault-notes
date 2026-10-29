@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Shockley's Multiplicative Hurdle Model",
+      "path": "wiki/methods/quantitative/Shockley's Multiplicative Hurdle Model.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit01",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
     },
     {
+      "basename": "Knowledge Exchange",
+      "path": "wiki/concepts/university-industry-collaboration/Knowledge Exchange.md"
+    },
+    {
+      "basename": "Bibliometric Analysis",
+      "path": "wiki/methods/quantitative/Bibliometric Analysis.md"
+    },
+    {
       "basename": "Reputation Velocity Threshold Model",
       "path": "wiki/methods/quantitative/Reputation Velocity Threshold Model.md"
+    },
+    {
+      "basename": "Status Bias in Peer Review",
+      "path": "wiki/concepts/science-policy/Status Bias in Peer Review.md"
     },
     {
       "basename": "h-alpha Index",
@@ -27,10 +43,6 @@
     {
       "basename": "未命名",
       "path": "未命名.canvas"
-    },
-    {
-      "basename": "Shockley's Multiplicative Hurdle Model",
-      "path": "wiki/methods/quantitative/Shockley's Multiplicative Hurdle Model.md"
     },
     {
       "basename": "o-Index",
@@ -125,10 +137,6 @@
       "path": "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_HKUP.md"
     },
     {
-      "basename": "Bibliometric Analysis",
-      "path": "wiki/methods/quantitative/Bibliometric Analysis.md"
-    },
-    {
       "basename": "Argument_Chou_2017_PolSoc",
       "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Governing by Numbers",
       "path": "wiki/concepts/political-economy-geopolitics/Governing by Numbers.md"
-    },
-    {
-      "basename": "Argument_Wang_Liang_Chen_2025_CES",
-      "path": "wiki/arguments/journal-articles/Chinese Education & Society/Argument_Wang_Liang_Chen_2025_CES.md"
-    },
-    {
-      "basename": "ASEAN",
-      "path": "wiki/facts/global/ASEAN.md"
     }
   ],
   "omittedPaths": [],
