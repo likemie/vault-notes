@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md"
     },
     {
+      "basename": "Southeast Asian Higher Education Common Space",
+      "path": "wiki/facts/multi/Southeast Asian Higher Education Common Space.md"
+    },
+    {
       "basename": "Erasmus Programme",
       "path": "wiki/facts/eu/Erasmus Programme.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Xie_Li_Huang_2021_GEO",
       "path": "sources/Xie_Li_Huang_2021_GEO/Xie_Li_Huang_2021_GEO.md"
-    },
-    {
-      "basename": "António Nóvoa",
-      "path": "wiki/persons/portugal/António Nóvoa.md"
     }
   ],
   "omittedPaths": [],
