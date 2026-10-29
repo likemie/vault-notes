@@ -28,7 +28,6 @@ related_concepts:
   - "[[Open Method of Coordination]]"
   - "[[Governing by Numbers]]"
   - "[[Subsidiarity Principle]]"
-  - "[[Total War]]"
   - "[[Lifelong Learning]]"
   - "[[European Education Space]]"
   - "[[Performance Indicators]]"
@@ -42,6 +41,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Policy Borrowing]]"
   - "[[Theoretical Perspective]]"
+  - "[[Employability]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -61,7 +61,6 @@ related_facts:
   - "[[Eurydice]]"
   - "[[Peer-Learning Activities]]"
   - "[[Europe 2020 Strategy]]"
-  - "[[CORE Education]]"
   - "[[European Education Area]]"
 related_arguments:
   - "[[Argument_Grek_2009_JEdPolicy]]"
@@ -71,10 +70,11 @@ related_arguments:
   - "[[Argument_Caraca_2009_TFSC]]"
   - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
+  - "[[Argument_Chou_2017_PolSoc]]"
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 ---
@@ -86,7 +86,7 @@ updated: 2026-10-28
 > - **时间跨度 / 空间地理** 2000 年 3 月启动，实施周期为 2000–2010 年；覆盖欧盟全体成员国。[[Argument_Li_2025_HSSC|(Li et al., 2025, p. 318)]]; [[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 164–169)]]
 > - **核心当事主体** 欧洲理事会、[[European Commission|欧盟委员会]]（教育与文化总司）、各成员国政府教育与财政部门，以及作为核心技术伙伴的经合组织（OECD）。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23, 32)]]
 > - **深层制度与社会背景** 1990 年代末，经济全球化与信息技术革命加速，美国在信息技术与知识经济领域的领先地位使欧洲面临严峻的生产率增长与技术创新滞后压力；与此同时，欧洲联盟条约第 126/149 条所确立的[[Subsidiarity Principle|辅助性原则]]（Subsidiarity Principle）严格保障各成员国在教育领域的主权独立，布鲁塞尔既无权推行欧洲统一教学大纲，亦无力独立研发庞大的测评体系。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24, 32)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
-> - **直接导火索 / 触发事件** 2000 年 3 月里斯本特别峰会正式通过决议，确立了欧洲迈向知识经济的[[Total War|总体战]]略目标，要求欧洲教育与培训系统适应知识社会的需求，并由此引入开放协调法以跨越超国家立法的权限壁垒。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23–24)]]; [[Argument_Li_2025_HSSC|(Li et al., 2025, p. 318)]]
+> - **直接导火索 / 触发事件** 2000 年 3 月里斯本特别峰会正式通过决议，确立了欧洲迈向知识经济的整体战略目标，要求欧洲教育与培训系统适应知识社会的需求，并由此引入开放协调法以跨越超国家立法的权限壁垒。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23–24)]]; [[Argument_Li_2025_HSSC|(Li et al., 2025, p. 318)]]
 
 ---
 
@@ -97,7 +97,7 @@ updated: 2026-10-28
 > - **2001–2005 — 教育基准设定、中期审查与战略重心重组**
 >   - 2002-03 巴塞罗那欧洲理事会确立了欧盟研发投资占国内生产总值（GDP）3% 的量化目标，并拟定首批覆盖早期辍学率、数学科学毕业生规模与[[Lifelong Learning|终身学习]]参与率的欧洲教育基准线。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 186)]]
 >   - 2004-11 维姆·科克（Wim Kok）主持的中期审查报告（Kok Report）指出里斯本战略因目标过于分散与缺乏硬性约束导致执行进展迟缓。
->   - 2005-03 欧洲理事会重新调整战略重心，将政策精力集中于“增长与就业”（Growth and Jobs），教育政策进一步向劳动力市场技能供给与量化产出监控聚焦。
+>   - 2005-03 欧洲理事会重新调整战略重心，将政策精力集中于“增长与就业”（Growth and Jobs），教育政策进一步向劳动力市场技能供给与量化产出监控聚焦；周孟娴（Meng-Hsuan Chou）与宝琳·拉维内（Pauline Ravinet）（[[Argument_Chou_2017_PolSoc|Chou & Ravinet, 2017, pp. 150–151]]）指出，修订后的战略明确将高等教育界定为经济增长引擎，推动其从欧盟决策边缘步入核心议程。
 > - **2005–2010 — 经合组织数据嵌入、[[European Education Space|欧洲教育空间]]成型与向“欧洲 2020”过渡**
 >   - 2005–2008 欧盟委员会深度嵌入经合组织国家[[Performance Indicators|教育指标]]系统（[[International Indicators of Education Systems|INES]]），采纳[[PISA|国际学生评估项目]]（Programme for International Student Assessment, [[PISA]]）测评框架与[[UNESCO|联合国教科文组织]]-经合组织-欧盟统计局联合数据收集机制（[[UOE Data Collection|UNESCO-OECD-Eurostat]], UOE）数据集，在里斯本教育进展年度监测中形成超过半数的基础数据外包采购。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–34)]]
 >   - 2010-06 里斯本战略十年期满，欧洲理事会正式通过接续性文件《欧洲 2020 战略》（Europe 2020 Strategy），继承了知识经济和教育质量的核心议程，并将早期辍学率降至 10% 以下及高等教育普及率达到 40% 确立为欧盟核心头条指标。[[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 164–169)]]
@@ -142,6 +142,7 @@ updated: 2026-10-28
 > - **构筑超国家教育全景敞视监控体系** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009, pp. 488–493)]] 指出，里斯本战略确立了“由结果掌舵”（steering by outcomes）的治理范式；通过开放协调法，欧盟委员会将凝视技术（涵盖 29 项指标与 5 大基准的图表排位）、绩效技术（最佳实践交流与隐性竞争）与治理技术（同行评议与部长对话）熔铸为一体，构筑起精巧的超国家全景敞视监控体系，迫使成员国在“自愿合作”修辞下主动内化外部绩效标准，对国家教育规划实施了实质性的符号与行政控制。
 > - **促成国内教育改革的[[Externalization|策略性外在化]]** 跨国排名与指标差距被各成员国政府转化为[[Externalization|策略性外在化]]（Strategic Externalization）资源；政策制定者借助里斯本指标与 PISA 数据将国内改革归因于外部客观现实与跨国竞争压力，从而压制本土争议并推进绩效问责改革。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 28–32, 34–35)]]; [[Argument_Li_2025_HSSC|(Li et al., 2025, p. 318)]]
 > - **二十年量化指标网络的制度锁定与财政挂钩** 奈夫卡·亚历克夏杜与哈维尔·兰布拉（[[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou & Rambla, 2023, pp. 855–857]]）实证揭示，里斯本战略开创的基于软法 OMC 的指标监控展现出极强的制度韧性。从 2000 年里斯本峰会、2009 年 ET2020 到 2021 年面向 2030 年的欧洲教育区（EEA），欧盟在早期离校率、基础技能不足比例与高等教育普及率三大核心指标上保持了长达二十年的连续性；该指标体系进而通过连通欧洲学期国别建议与欧洲社会基金（ESF+），使里斯本战略遗留的软法工具获得了实质性财政激励支撑。
+> - **高等教育向核心议程的位移与深层协调合法化** 周孟娴与宝琳·拉维内（[[Argument_Chou_2017_PolSoc|Chou & Ravinet, 2017, pp. 150–151]]）指出，伴随里斯本战略将欧洲建设目标重塑为“知识欧洲”，高等教育作为知识生产、传播与运用的关键部门，从欧盟决策的边缘地带上升至政策议程核心。知识经济话语将跨国学生流动从早期的公民认同与文化体验，重新阐述为提升毕业生[[Employability|就业能力]]与大市场[[Competitiveness|竞争力]]的关键要素，从而在缺乏条约直接立法权的情境下，赋予欧洲联盟委员会合法运用超越流动资助的深层政策协调工具的理论支撑。
 
 > [!stat-cards]- 核心历史数据
 > - **2000–2010** 里斯本战略设定的总体跨国推进周期为十年，最终由覆盖 2010–2020 年的《欧洲 2020 战略》接续。[[Argument_Li_2025_HSSC|(Li et al., 2025, p. 318)]]; [[Argument_Rambla_2022_Springer|(Rambla, 2022, pp. 164–169)]]
@@ -180,7 +181,7 @@ updated: 2026-10-28
 > | [[EU]] | Fact (Organization) | 里斯本战略的发起者与总体推进主体。 |
 > | [[OECD]] | Fact (Organization) | 为里斯本战略提供 50%–60% 基础教育数据与测评技术的核心合作伙伴。 |
 > | [[PISA]] | Fact (Program) | 经合组织核心测评项目，其能力导向框架与里斯本战略知识经济理念深度嵌合。 |
-> | [[Europe 2020 Strategy]] | Fact (Policy) | 里斯本战略到期后的接续性战略规划，延续了知识经济与[[CORE Education\|核心教育]]基准。 |
+> | [[Europe 2020 Strategy]] | Fact (Policy) | 里斯本战略到期后的接续性战略规划，延续了知识经济与关键教育指标基准。 |
 > | [[European Education Area]] | Fact (Policy) | 里斯本战略与 ET 框架在 2020 年代后的长效制度延续，保持核心量化基准一致。 |
 > | [[International Indicators of Education Systems]] | Fact (Program) | 经合组织国家教育指标系统（INES），欧盟委员会拥有法定席位并依托其指标开展监测。 |
 > | [[UNESCO]] | Fact (Organization) | 与经合组织及欧盟统计局共建 UOE 数据集，为里斯本战略提供底层教育统计支持。 |
@@ -201,3 +202,4 @@ updated: 2026-10-28
 > | [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon\|Pasias and Roussakis (2009)]] | Argument | 剖析里斯本战略如何确立“由结果掌舵”范式，借助开放协调法与基准指标构筑欧洲全景敞视监控。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 论述开放协调法在欧洲教育空间塑造中的软治理传导机制。 |
 > | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] | Argument | 实证追踪里斯本战略开创的 OMC 指标网络在欧洲教育区（EEA 2030）中长达二十年的制度锁定与财政挂钩。 |
+> | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] | Argument | 比较分析欧洲与东南亚高教区域主义，揭示里斯本战略如何借助知识经济话语将高等教育提升至欧盟核心议程并赋予深层政策协调合法性。 |

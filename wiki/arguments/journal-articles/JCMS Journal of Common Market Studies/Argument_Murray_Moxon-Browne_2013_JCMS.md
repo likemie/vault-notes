@@ -2,7 +2,7 @@
 summary: "运用比较制度分析框架，系统比对欧洲联盟常驻代表委员会与东南亚国家联盟常驻代表委员会的决策架构与组织文化；指出东盟通过制度拟态借用欧盟三大支柱、法律人格与大使委员会等外在架构以展现一体化抱负，但受制于不干预内政、协商一致与拒绝让渡主权的政府间传统，难以简单复制欧盟基于法律拘束力、多数表决与齿合协商文化的超国家一体化效能；东盟应在设立宏大一体化愿景与防止照搬不契合制度的裁量空间内，发挥雅加达常驻代表的渐进社会化与对外协调功能"
 type: argument
 authors:
-  - "Murray, P."
+  - "[[Philomena Murray|Murray, P.]]"
   - "Moxon-Browne, E."
 source_language: en
 citation: "Murray, P., & Moxon-Browne, E. (2013). The European Union as a template for regional integration? The case of ASEAN and its Committee of Permanent Representatives. JCMS: Journal of Common Market Studies, 51(3), 522–537. https://doi.org/10.1111/jcms.12008"

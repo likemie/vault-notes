@@ -83,7 +83,7 @@ updated: 2026-10-29
 >   《里斯本条约》取消支柱结构后，Coreper 继续作为理事会日常立法的把关中枢，与欧洲对外行动署（European External Action Service, EEAS）紧密协同。
 >
 >   - **2009** 《里斯本条约》第 240 条明确规定：“常驻代表委员会负责为理事会的工作做准备，并执行理事会委托的任务。”
->   - **2010** 与[[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN）[[Committee of Permanent Representatives (ASEAN)|常驻代表委员会]]建立正式跨区域业务交流机制。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
+>   - **2010** 与[[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN）[[Committee of Permanent Representatives to ASEAN|常驻代表委员会]]建立正式跨区域业务交流机制。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
 
 ---
 
@@ -159,7 +159,7 @@ updated: 2026-10-29
 > |:-----|:-----|:-----|
 > | [[EU]] | Fact (Organization) | Coreper 所属的超国家政治实体，Coreper 担任其理事会的常设预备中枢。 |
 > | [[ASEAN]] | Fact (Organization) | 依据《东盟宪章》设立常驻代表委员会（CPR）时将 Coreper 视作借鉴原型的区域组织。 |
-> | [[Committee of Permanent Representatives (ASEAN)]] | Fact (Organization) | 东南亚国家联盟依据《东盟宪章》直接模仿 Coreper 设立的大使级常设机构。 |
+> | [[Committee of Permanent Representatives to ASEAN]] | Fact (Organization) | 东南亚国家联盟依据《东盟宪章》直接模仿 Coreper 设立的大使级常设机构。 |
 > | [[ASEAN Charter]] | Fact (Policy) | 依据第 12 条正式创设并法定赋权 CPR 的东南亚国家联盟最高宪制文本。 |
 > | [[Institutional Mimesis]] | Concept | 揭示东盟常驻代表委员会机械复制欧盟 Coreper 外壳而缺乏内在履约机制的制度现象。 |
 > | [[Institutional Isomorphism]] | Theory | 新制度主义用于解释跨国组织间出现类似决策架构趋同与模仿的理论。 |

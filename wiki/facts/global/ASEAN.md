@@ -10,9 +10,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 34
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 42
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
 org_type: intergovernmental-organization
 headquarters: 雅加达（印度尼西亚）
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Internationalization of Higher Education]]"
   - "[[People-to-People Connectivity]]"
+  - "[[Falsification]]"
   - "[[South-South Cooperation]]"
   - "[[Soft Power]]"
   - "[[Educational Soft Power]]"
@@ -40,6 +41,8 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Internationalization of Vocational Education]]"
   - "[[Institutional Mimesis]]"
+  - "[[Global Regionalisms]]"
+  - "[[Document]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Tributary System]]"
@@ -47,7 +50,9 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[ASEAN Charter]]"
   - "[[ASEAN University Network]]"
+  - "[[Committee of Permanent Representatives to ASEAN]]"
   - "[[Belt and Road Initiative]]"
   - "[[Xiamen University Malaysia]]"
   - "[[Confucius Institute]]"
@@ -55,13 +60,16 @@ related_facts:
   - "[[Chinese-ASEAN Modern Craftsmanship Institute]]"
   - "[[Coreper]]"
   - "[[EU]]"
+  - "[[SEAMEO RIHED]]"
   - "[[China-ASEAN Education Cooperation Week]]"
   - "[[Ministry of Education of the People's Republic of China]]"
   - "[[Royal University of Phnom Penh]]"
   - "[[Asian Infrastructure Investment Bank]]"
+  - "[[Southeast Asian Higher Education Common Space]]"
 related_arguments:
   - "[[Argument_Zhu_Yang_2025_HE]]"
   - "[[Argument_Velasco_2022_CSJ]]"
+  - "[[Argument_Chou_2017_PolSoc]]"
   - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: high
@@ -78,7 +86,7 @@ updated: 2026-10-29
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1967 年 8 月 8 日，印度尼西亚、马来西亚、菲律宾、新加坡与泰国五国外长在曼谷签署《曼谷宣言》（东盟宣言），旨在冷战阴影下促进东南亚和平、稳定与区域协作。
 > - **总部地点 / 业务辐射** 总部设于印度尼西亚雅加达，覆盖文莱、柬埔寨、印度尼西亚、老挝、马来西亚、缅甸、菲律宾、新加坡、泰国与越南等十个成员国，并延伸至“东盟+3”（中日韩）及东亚峰会等多边对话机制。
-> - **法人属性与经费基础** 依据《东盟宪章》设立的政府间国际法实体，营运经费源自成员国法定分摊会费、东盟发展基金及多边对话伙伴的合作发展基金资助。
+> - **法人属性与经费基础** 依据[[ASEAN Charter|《东盟宪章》]]设立的政府间国际法实体，营运经费源自成员国法定分摊会费、东盟发展基金及多边对话伙伴的合作发展基金资助。
 > - **核心宗旨与法定职责** 维持并增进区域和平与稳定，构建涵盖“东盟政治安全共同体”、“东盟经济共同体”与“东盟社会文化共同体”的三大支柱体系；在社会文化支柱下推进教育互联互通、人力资源开发、跨国学分互认与青年流动。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 2)]]
 
 ---
@@ -99,7 +107,7 @@ updated: 2026-10-29
 >   - **1995** 越南加入；同年成立[[ASEAN University Network|东盟大学网络]]（ASEAN University Network, AUN），构建区域高等教育质保与学分转换框架。
 >   - **1997–1999** 老挝、缅甸与柬埔寨相继加入，完成东盟十国一体化版图。
 >   - **2007** 东盟峰会确立 2015 年建成东盟经济共同体（AEC）的决定性时间表，横向倒逼东盟社会文化共同体（ASCC）加速推进高等教育学分互认与人员流动对接。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]
->   - **2007–2008** 签署并生效[[ASEAN Charter|《东盟宪章》]]，正式确立东盟独立法人地位，依据第 12 条设立[[Committee of Permanent Representatives (ASEAN)|常驻东盟代表委员会（CPR）]]，推动首脑会议改为每年两次并组建东盟协调理事会。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
+>   - **2007–2008** 签署并生效[[ASEAN Charter|《东盟宪章》]]，正式确立东盟独立法人地位，依据第 12 条设立[[Committee of Permanent Representatives to ASEAN|常驻东盟代表委员会]]（CPR），推动首脑会议改为每年两次并组建东盟协调理事会。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
 >
 > - **2010–至今** **共同体建成与地缘[[Educational Diplomacy|教育外交]]枢纽**
 >
@@ -116,7 +124,7 @@ updated: 2026-10-29
 > [!actor-grid] 组织治理架构
 > - **最高决策机构（东盟峰会）** 由成员国国家元首或政府首脑组成的东盟峰会（ASEAN Summit），每年召开两次，决定战略发展方针与核心政策议程。
 > - **执行与统筹机构（东盟协调理事会与秘书处）** 外交部长组成的协调理事会统领全局；设于雅加达的东盟秘书处由东盟秘书长领导，下设政治安全、经济、社会文化三个共同体事务部门。
-> - **常设预备与对外协调中介（常驻代表委员会）** 依据[[ASEAN Charter|《东盟宪章》]]设立的[[Committee of Permanent Representatives (ASEAN)|常驻东盟代表委员会（CPR）]]，由成员国派驻雅加达的大使级代表组成，负责支援三大共同体理事会、协调东盟国家秘书处并统筹与外部对话伙伴的国际合作。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523, 532–533)]]
+> - **常设预备与对外协调中介（[[Coreper|常驻代表委员会]]）** 依据[[ASEAN Charter|《东盟宪章》]]设立的常驻东盟代表委员会（CPR），由成员国派驻雅加达的大使级代表组成，负责支援三大共同体理事会、协调东盟国家秘书处并统筹与外部对话伙伴的国际合作。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523, 532–533)]]
 > - **教育专门治理机制（东盟教育部长会议）** 东盟教育部长会议（ASEAN Education Ministers Meeting, ASED）及其高级别官员会议（SOM-ED），负责制定区域教育合作战略与工作计划。
 > - **高等教育协作平台（东盟大学网络）** 东盟大学网络（AUN）汇聚区域内顶尖[[Research Universities|研究型大学]]，执行高等教育质量保障评价（AUN-QA）及区域学分转换系统（ACTS）。
 
@@ -151,7 +159,7 @@ updated: 2026-10-29
 > - **本土[[Human Capital Theory|人力资本]]支撑** 紧密衔接“[[Belt and Road Initiative|一带一路]]”倡议基础设施建设项目（如铁路、深水港、工业园区），为东盟发展中国家培养工程、物流与经贸专门技术人才。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 11, 12)]]
 > - **[[Educational Diplomacy|教育外交]]三大支柱成型** 中国在东盟区域逐步确立了依托留学生定向招募、境外独立分校与联合办学、以及深度嵌入大学建制的[[Confucius Institute|孔子学院]]网络三大实践支柱，拓展了多层次人文纽带。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 83–85)]]
 > - **跨区域职业教育协同与产能对接** 在双边贸易突破 6.41 万亿元人民币背景下，双方依托《中国—东盟战略伙伴关系2030年愿景》推进[[China-ASEAN Education Cooperation Week|中国—东盟教育交流周]]与职业教育高水平开放合作，逐步从单一学校协议走向涵盖全产业链的线面平台与产教生态圈，协同培育新质技能人才。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288, 291, 298–301)]]
-> - **多帆竞逐模式的区域高教治理** 依托自愿试点与底线互通，构建起名校结网与部委协调并立的“多帆竞逐”高教协作模式，证伪了欧洲博洛尼亚自上而下单向扩散假说。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 154–156)]]
+> - **多帆竞逐模式的区域高教治理** 依托自愿试点与底线互通，构建起名校结网与部委协调并立的“多帆竞逐”高教协作模式，[[Falsification|证伪]]了欧洲博洛尼亚自上而下单向扩散假说。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 154–156)]]
 
 > [!stat-cards]- 核心规模数据
 > - **10** （个） 东南亚国家联盟正式成员国总数。
@@ -200,7 +208,7 @@ updated: 2026-10-29
 > | [[China-ASEAN Education Cooperation Week]] | Fact (Program) | 中国与东盟政府间教育合作与人文交流的旗舰平台。 |
 > | [[Internationalization of Vocational Education]] | Concept | 双边经贸扩张与国际产能重组背景下职业技术人才跨国培养的核心概念。 |
 > | [[Coreper]] | Fact (Organization) | 欧盟常驻代表委员会，东盟设立常驻东盟代表委员会（CPR）时的[[Institutional Mimesis\|制度拟态]]借鉴原型。 |
-> | [[Committee of Permanent Representatives (ASEAN)]] | Fact (Organization) | 依据《东盟宪章》第 12 条设立的常驻雅加达大使级协调与外事支持机构。 |
+> | [[Committee of Permanent Representatives to ASEAN]] | Fact (Organization) | 依据《东盟宪章》第 12 条设立的常驻雅加达大使级协调与外事支持机构。 |
 > | [[ASEAN Charter]] | Fact (Policy) | 2007 年签署并于 2008 年生效的东盟最高宪制性条约，确立法人地位与三大支柱。 |
 > | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 实证分析东盟第一大贸易伙伴背景下中国在东盟（柬埔寨）的高等教育地缘拓展。 |
 > | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 系统剖析面向东盟的教育外交三大支柱及地缘领土争端下的权力转化困境。 |
@@ -208,7 +216,7 @@ updated: 2026-10-29
 > | [[Argument_Murray_Moxon-Browne_2013_JCMS\|Murray and Moxon-Browne (2013)]] | Argument | 比较欧盟与东盟决策预备机构，剖析东盟依据《东盟宪章》设立常驻代表委员会中的制度拟态与治理局限。 |
 > | [[SEAMEO RIHED]] | Fact (Organization) | 与东盟教育机制紧密协同但保持平级分立的跨国政府间高教政策协调中心。 |
 > | [[Southeast Asian Higher Education Common Space]] | Fact (Policy) | 东盟与 SEAMEO 联合推进的区域高等教育协作弹性框架。 |
-> | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] | Argument | 比较欧洲与东南亚高等教育区域主义，剖析东盟方式与双轨治理分工的实证文献。 |
+> | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] | Argument | 比较欧洲与东南亚[[Global Regionalisms\|高等教育区域主义]]，剖析东盟方式与双轨治理分工的实证[[Document\|文献]]。 |
 
 ---
 

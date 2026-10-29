@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -288,24 +288,32 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9f6a7b58150da48c",
+  "active": "a2aa5f6545a9eecb",
   "lastOpenFiles": [
+    "wiki/persons/australia/Philomena Murray.md",
+    "wiki/theories/political-economy-geopolitics/Comparative Regionalism.md",
+    "wiki/concepts/political-economy-geopolitics/Engrenage.md",
+    "tmp/pdfs/visible-pilot-reread/cases-preview.html",
+    "tmp/pdfs/visible-pilot-reread/argument-preview.html",
+    "wiki/concepts/political-economy-geopolitics/Zone of Discretion.md",
+    "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-013/result.json",
+    "tmp/pdfs/visible-pilot-reread/page-33.png",
+    "tmp/pdfs/visible-pilot-reread/page-23.png",
+    "tmp/pdfs/visible-pilot-reread/page-11.png",
+    "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-012/result.json",
+    "tmp/pdfs/visible-pilot-reread/page-46.txt",
+    "tmp/pdfs/visible-pilot-reread/page-45.txt",
+    "tmp/pdfs/visible-pilot-reread/page-44.txt",
+    "tmp/pdfs/visible-pilot-reread/page-43.txt",
+    "tmp/pdfs/visible-pilot-reread/page-42.txt",
+    "tmp/pdfs/visible-pilot-reread/page-41.txt",
+    "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md",
     "wiki/facts/uk/Visible Classroom Programme.md",
     "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md",
     "wiki/facts/global/Committee of Permanent Representatives to ASEAN.md",
     "wiki/facts/global/ASEAN Charter.md",
     "wiki/facts/global/Committee of Permanent Representatives (ASEAN).md",
-    "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-011/result.json",
     "wiki/instruments/observation-tools/Visible Classroom.md",
-    "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-010/result.json",
-    "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-009/result.json",
-    "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-008/result.json",
-    "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-007/result.json",
-    "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-006/result.json",
-    "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-005/result.json",
-    "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-004/result.json",
-    "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-003/result.json",
-    "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-002/result.json",
     "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-013/prompt.md",
     "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-012/prompt.md",
     "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-011/prompt.md",
@@ -321,20 +329,12 @@
     "output/related-updates/Argument_Chou_2017_PolSoc-ce10175c/batch-001/prompt.md",
     "sources/Chou_2017_PolSoc.md",
     "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md",
-    "wiki/facts/multi/ASEAN University Network.md",
-    "wiki/facts/multi/SEAMEO RIHED.md",
-    "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md",
-    "output/related-updates/Argument_Murray_Moxon-Browne_2013_JCMS-dca7113b/batch-004/prompt.md",
-    "output/related-updates/Argument_Murray_Moxon-Browne_2013_JCMS-dca7113b/batch-003/prompt.md",
     "output/可见的学习课题和案例/_to_delete/r7/q2-020.png",
     "output/可见的学习课题和案例/_to_delete/r7/q2-013.png",
     "output/可见的学习课题和案例/_to_delete/r7/z-018.png",
     "output/可见的学习课题和案例/_to_delete/r7/z-014.png",
     "tmp/pdfs/visible-check/trial.png",
     "tmp/pdfs/visible-check/pilot.png",
-    "output/可见的学习课题和案例/_to_delete/r7/y-021.png",
-    "output/可见的学习课题和案例/_to_delete/r7/x-036.png",
-    "output/可见的学习课题和案例/_to_delete/r7/x-035.png",
-    "output/可见的学习课题和案例/_to_delete/r7/w-018.png"
+    "output/可见的学习课题和案例/_to_delete/r7/y-021.png"
   ]
 }
