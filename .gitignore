@@ -33,3 +33,8 @@ books/**/*.EPUB
 
 # Personal files (signature etc.), never pushed.
 private/
+
+# Local datasets, generated output, and accidental home-directory copies.
+/datasets/
+/output/
+/Users/
