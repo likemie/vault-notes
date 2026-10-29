@@ -9,10 +9,10 @@ summary: "美籍创新经济学家与科学学者，西北大学凯洛格管理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 10
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1972"
 died: ""
 lifespan: "1972–至今"
@@ -26,11 +26,14 @@ related_concepts:
   - "[[Experimental Innovators]]"
   - "[[The Graying of Science]]"
   - "[[Age and High-Growth Entrepreneurship]]"
+  - "[[Team Science]]"
 related_theories:
   - "[[Burden of Knowledge]]"
-related_methods: []
+related_methods:
+  - "[[Relative Team Impact]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Brian Uzzi]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
@@ -68,8 +71,8 @@ updated: 2026-10-30
 ---
 
 > [!work-line] 主要论著
-> - **2007 — *The Increasing Dominance of Teams in the Production of Knowledge*（《科学》）** 与 Stefan Wuchty 和 Brian Uzzi 合作，分析 1,990 万篇论文与 210 万件专利，提出相对团队影响力（RTI），证实团队产出在几乎所有科学门类中的全面引文超越。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
-> - **2008 — *Multi-University Research Teams: Shifting Ground, Diverse Contributors, or Extreme Collaborators?*（《科学》）** 证实跨校科研团队在过去三十年间迅猛崛起，其产出顶级论文的几率显著超越单一机构内部合作。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 90–92)]]
+> - **2007 — *The Increasing Dominance of Teams in the Production of Knowledge*（《科学》）** 与 Stefan Wuchty 和 [[Brian Uzzi]] 合作，分析 1,990 万篇期刊论著与 210 万件专利，提出相对团队影响力（RTI），证实团队产出在几乎所有科学门类中的全面引文超越。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
+> - **2008 — *Multi-University Research Teams: Shifting Ground, Diverse Contributors, or Extreme Collaborators?*（《科学》）** 证实跨校科研团队在过去三十年间迅猛崛起，其产出顶级成果的几率显著超越单一机构内部合作。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 90–92)]]
 > - **2009 — *The Burden of Knowledge and the "Death of the Inventor" Life Cycle*（《经济研究评论》）** 形式化推导了知识前沿扩张推迟科研活跃起始年龄并压低研发人均产出的微观机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 44–45)]]
 > - **2010 — *Age and Great Invention*（《经济学与统计学评论》）** 运用诺贝尔奖得主与大发明家全量数据库，揭示创新巅峰年龄后移 6 岁并实证检验了理论学者与经验学者的生命周期差异。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 40–48)]]
 
@@ -77,6 +80,9 @@ updated: 2026-10-30
 
 > [!claim] 核心思想
 > 本杰明·F·琼斯（Benjamin F. Jones）主张，科学创新的组织形式演变与个体产出规律深植于人类知识存量的几何级增长。面对个人有限生理认知能力与无限知识海洋的根本矛盾，知识负担迫使学者推迟独立产出时间，并驱动现代科学从个体孤胆探索走向多学科大规模团队协作。
+
+> [!citation-card] 琼斯论通才消亡与团队分工拼图
+> 知识存量膨胀导致单个创新者无法再掌握相邻领域的工具，迫使学者极度专业化，导致通才消亡；这倒逼科研人员通过团队协作组装异质分工拼图，以攻克复杂的科学前沿。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–89)]]
 
 ---
 
@@ -86,13 +92,13 @@ updated: 2026-10-30
 > - **政策路径** 直接影响美国科学基金会（NSF）与国立卫生研究院（NIH）针对青年学者早期独立资助的政策制定，推动跨学科团队资助倾斜。
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 深度引用并延伸琼斯的知识负担理论与年龄分布经验发现，作为全书第四章“年龄与成就”的核心理论骨架。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|第 2 单元]] 深入引用琼斯关于知识负担理论与年龄成就曲线的实证；在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|第 4 单元]] 深度引用其关于团队科学主导地位（RTI）与跨校合作网络扩张的奠基研究。
 
 ---
 
 > [!person-network] 关系网络
 > - **合作学者** 布鲁斯·温伯格（Bruce Weinberg）— 共同开展科学家年龄与创新生命周期计量研究。
-> - **合作学者** 斯特凡·乌祖齐（Stefan Uzzi）— 共同研究团队科学、非典型引文组合与大科学合作网络。
+> - **合作学者** [[Brian Uzzi]] 与 Stefan Wuchty — 共同构建 RTI 指标并开展半世纪跨学科科研生产大数据分析。
 > - **资助政策影响** [[National Science Foundation]] — 为科研人才培养与青年学者独立政策提供决策咨询。
 
 ---
@@ -109,6 +115,8 @@ updated: 2026-10-30
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Burden of Knowledge]] | 理论 | 形式化建立知识前沿扩张推迟科研起步并挤压创新有效期的核心理论。 |
+> | [[Team Science]] | 概念 | 共同提出相对团队影响力（RTI），奠定现代科学团队主导转型的经验基础。 |
+> | [[Relative Team Impact]] | 方法 | 共同创立测度团队引文相对溢价的标准方法，量化评估团队科研优势。 |
 > | [[Conceptual Innovators]] | 概念 | 实证测定概念演绎创新者在生涯早期（均值 35.8 岁）集中爆发的峰值规律。 |
 > | [[Experimental Innovators]] | 概念 | 实证测定经验归纳创新者在成熟期（均值 56.0 岁）达到成就巅峰的演进特征。 |
 > | [[The Graying of Science]] | 概念 | 揭示国家级基金 PI 首资年龄（42 岁）与顶尖突破窗口（41 岁）的时序脱节。 |

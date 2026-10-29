@@ -10,7 +10,7 @@ summary: "美国科学社会学家，哥伦比亚大学社会学荣休教授，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,6 +30,8 @@ related_concepts:
   - "[[Halo Effect]]"
   - "[[Matthew Effect in Academia]]"
   - "[[Paradigm]]"
+  - "[[Team Science]]"
+  - "[[Coauthorship Network]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Interview]]"
@@ -96,4 +98,21 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 多次援引朱克曼对诺奖得主的访谈实证，确证知名学者在单盲同行评审中享有压倒性的疑罪从无特权。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|第 1 单元]] 深入援引其诺奖得主访谈实证，确证知名学者享有疑罪从无特权；在 [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|第 4 单元]] 援引其关于科学精英对团队合作具有内生偏好以获取竞争优势的实证发现。
+
+---
+
+> [!person-network] 关系网络
+> - **师承与长期学术伴侣** [[Robert K. Merton]] — 博士导师与长期思想伙伴，共同发展科学社会学累积优势假说。
+> - **访谈研究对象** 41 位美国诺贝尔奖得主 — 构成《科学精英》质性访谈与师徒谱系分析的经验基石。
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Benefit of the Doubt in Peer Review]] | 概念 | 基于诺奖得主深度访谈，首次提炼知名学者在同行评审中享有的疑罪从无特权。 |
+> | [[The 41st Chair]] | 概念 | 实证考察因名额限制未获诺奖的同等卓越学者群体，为第四十一把交椅提供质性材料。 |
+> | [[Team Science]] | 概念 | 揭示诺奖得主对团队合作的内生偏好，证实合作策略是顶尖精英维系卓越的组织基石。 |
+> | [[Matthew Effect in Academia]] | 概念 | 通过扎实的口述访谈与计量统计，为学术界马太效应假说确立实证经验基础。 |
