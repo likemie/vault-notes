@@ -6,6 +6,8 @@ aliases:
   - 随机生涯零模型
   - Career Shuffling
   - Randomized Career Null Model
+  - 代表作相对位次均匀分布判定
+  - 相对位次均匀分布判定
 summary: "由 Roberta Sinatra et al. (2016) 提出的科学学生涯纵向引文序列建模与反事实检验方法；在保持学者发表时间与产出速率不变的前提下对单篇成果被引影响力进行随机置换，以此构建代表作时序服从随机分布的反事实零模型，用于分离年龄与生产力对重大突破时机的独立影响。"
 type: method
 method_type: quantitative
