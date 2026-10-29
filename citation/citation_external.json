@@ -11827,6 +11827,8 @@
     "Jordan, 2012": "Jordan, 2012",
     "Jordan-Black (2005)": "Jordan-Black, 2005",
     "Jordan-Black, 2005": "Jordan-Black, 2005",
+    "Jorge E. Hirsch (2005)": "Jorge E. Hirsch, 2005",
+    "Jorge E. Hirsch, 2005": "Jorge E. Hirsch, 2005",
     "Jose et al. (2025)": "Jose et al., 2025",
     "Jose et al., 2025": "Jose et al., 2025",
     "Joseph (1999)": "Joseph, 1999",
@@ -113036,6 +113038,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of the Primary Movement programme on the academic performance of children attending ordinary primary school"
+    },
+    "Jorge E. Hirsch, 2005": {
+      "aliases": [
+        "Jorge E. Hirsch, 2005",
+        "Jorge E. Hirsch (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jorge E. Hirsch, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
     },
     "Jose et al., 2025": {
       "aliases": [
