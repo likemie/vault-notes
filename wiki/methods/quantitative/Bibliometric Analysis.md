@@ -122,4 +122,4 @@ updated: 2026-10-29
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024, pp. 29–32)]] — 运用文献计量分析比对公共卫生与教育循证政策研究的发文增长率（30.5% vs 23.6%）与共被引网络，揭示教育证据研究社群高度自指与分散碎片的结构特征。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021, pp. 8–12, 17–23)]] — 基于全球数千万作者与近亿篇论文的全量引文数据，运用文献计量分析测定科研生产力的人均百年稳态、对数正态长尾分布与 h 指数的长期前瞻预测效度。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021, pp. 8–12, 17–23)]] — 基于全球数千万学者与近亿篇学术文献的全量引文数据，运用文献计量分析测定科研生产力的人均百年稳态、对数正态长尾分布与 h 指数的长期前瞻预测效度。
