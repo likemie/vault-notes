@@ -186,6 +186,14 @@
         "Association of Southeast Asian Nations"
       ]
     },
+    "ASEAN Education Ministers Meeting": {
+      "path": "wiki/facts/multi/ASEAN Education Ministers Meeting.md",
+      "names": [
+        "ASEAN Education Ministers Meeting",
+        "东盟教育部长会议",
+        "ASED"
+      ]
+    },
     "ASEAN Intergovernmental Commission on Human Rights": {
       "path": "wiki/facts/global/ASEAN Intergovernmental Commission on Human Rights.md",
       "names": [
@@ -221,6 +229,15 @@
         "亚太基础与成人教育协会",
         "Asia South Pacific Association for Basic and Adult Education (ASPBAE)",
         "ASPBAE"
+      ]
+    },
+    "Asia-Europe Foundation": {
+      "path": "wiki/facts/multi/Asia-Europe Foundation.md",
+      "names": [
+        "Asia-Europe Foundation",
+        "亚欧基金会",
+        "ASEF",
+        "Fondation Asie-Europe"
       ]
     },
     "Asian Infrastructure Investment Bank": {
@@ -731,6 +748,17 @@
         "CCSSO"
       ]
     },
+    "Court of Justice of the European Union": {
+      "path": "wiki/facts/eu/Court of Justice of the European Union.md",
+      "names": [
+        "Court of Justice of the European Union",
+        "欧洲联盟法院",
+        "欧洲法院",
+        "ECJ",
+        "CJEU",
+        "European Court of Justice"
+      ]
+    },
     "Danish Clearinghouse for Educational Research": {
       "path": "wiki/facts/denmark/Danish Clearinghouse for Educational Research.md",
       "names": [
@@ -1008,6 +1036,14 @@
         "EQAR",
         "欧洲高等教育质量保障注册局",
         "欧洲高等教育质量保障注册中心"
+      ]
+    },
+    "European University Association": {
+      "path": "wiki/facts/europe/European University Association.md",
+      "names": [
+        "European University Association",
+        "欧洲大学协会",
+        "Association européenne de l'université"
       ]
     },
     "Eurydice": {
@@ -2353,6 +2389,14 @@
         "SDG 4 HLSC",
         "全球教育合作机制高级别指导委员会",
         "High-Level Steering Committee for SDG 4"
+      ]
+    },
+    "SEAMEO": {
+      "path": "wiki/facts/multi/SEAMEO.md",
+      "names": [
+        "SEAMEO",
+        "东南亚教育部长组织",
+        "Southeast Asian Ministers of Education Organisation"
       ]
     },
     "SEAMEO RIHED": {

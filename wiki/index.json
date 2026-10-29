@@ -33498,6 +33498,19 @@
     "subtype": "organization"
   },
   {
+    "title": "Court of Justice of the European Union",
+    "type": "fact",
+    "path": "wiki/facts/eu/Court of Justice of the European Union.md",
+    "aliases": [
+      "欧洲联盟法院",
+      "欧洲法院",
+      "ECJ",
+      "CJEU",
+      "European Court of Justice"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "E4 Group",
     "type": "fact",
     "path": "wiki/facts/eu/E4 Group.md",
@@ -34071,6 +34084,16 @@
       "欧洲核子研究中心",
       "European Organization for Nuclear Research",
       "Organisation européenne pour la recherche nucléaire"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "European University Association",
+    "type": "fact",
+    "path": "wiki/facts/europe/European University Association.md",
+    "aliases": [
+      "欧洲大学协会",
+      "Association européenne de l'université"
     ],
     "subtype": "organization"
   },
@@ -37101,6 +37124,16 @@
     "subtype": "organization"
   },
   {
+    "title": "ASEAN Education Ministers Meeting",
+    "type": "fact",
+    "path": "wiki/facts/multi/ASEAN Education Ministers Meeting.md",
+    "aliases": [
+      "东盟教育部长会议",
+      "ASED"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "ASEAN University Network",
     "type": "fact",
     "path": "wiki/facts/multi/ASEAN University Network.md",
@@ -37123,6 +37156,17 @@
     "subtype": "organization"
   },
   {
+    "title": "Asia-Europe Foundation",
+    "type": "fact",
+    "path": "wiki/facts/multi/Asia-Europe Foundation.md",
+    "aliases": [
+      "亚欧基金会",
+      "ASEF",
+      "Fondation Asie-Europe"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Forum on China-Africa Cooperation",
     "type": "fact",
     "path": "wiki/facts/multi/Forum on China-Africa Cooperation.md",
@@ -37140,6 +37184,16 @@
       "国际文凭北美公司",
       "IB North America",
       "IBNA"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "SEAMEO",
+    "type": "fact",
+    "path": "wiki/facts/multi/SEAMEO.md",
+    "aliases": [
+      "东南亚教育部长组织",
+      "Southeast Asian Ministers of Education Organisation"
     ],
     "subtype": "organization"
   },
@@ -37177,6 +37231,16 @@
     "subtype": "policy"
   },
   {
+    "title": "Master Plan on ASEAN Connectivity",
+    "type": "fact",
+    "path": "wiki/facts/multi/Master Plan on ASEAN Connectivity.md",
+    "aliases": [
+      "东盟互联互通总体规划",
+      "MPAC"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Regional Comprehensive Economic Partnership",
     "type": "fact",
     "path": "wiki/facts/multi/Regional Comprehensive Economic Partnership.md",
@@ -37208,6 +37272,27 @@
       "瑞士创新体系"
     ],
     "subtype": "policy"
+  },
+  {
+    "title": "AIMS Programme",
+    "type": "fact",
+    "path": "wiki/facts/multi/AIMS Programme.md",
+    "aliases": [
+      "亚洲国际学生流动计划",
+      "Asian International Mobility for Students",
+      "AIMS 项目"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "ASEAN Credit Transfer System",
+    "type": "fact",
+    "path": "wiki/facts/multi/ASEAN Credit Transfer System.md",
+    "aliases": [
+      "东盟学分转移系统",
+      "ACTS"
+    ],
+    "subtype": "program"
   },
   {
     "title": "Asia-Africa Growth Corridor",

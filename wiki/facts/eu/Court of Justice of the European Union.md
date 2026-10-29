@@ -12,6 +12,10 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
+fact_related_count: 9
+fact_related_level: 0
+fact_related_stars: "☆"
+fact_related_color: "#dcfce7"
 org_type: "超国家司法机构"
 headquarters: "卢森堡市（卢森堡）"
 established: "1952"

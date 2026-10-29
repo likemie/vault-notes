@@ -9117,6 +9117,8 @@
     "Graves (2011)": "Graves, 2011",
     "Graves, 2010": "Graves, 2010",
     "Graves, 2011": "Graves, 2011",
+    "Gravier (1985)": "Gravier, 1985",
+    "Gravier, 1985": "Gravier, 1985",
     "Gray (2007)": "Gray, 2007",
     "Gray (2012)": "Gray, 2012",
     "Gray et al. (1986)": "Gray et al., 1986",
@@ -93234,6 +93236,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of tier 2 literacy instruction in sixth grade  Toward the development of a response-to-intervention model in middle school"
+    },
+    "Gravier, 1985": {
+      "aliases": [
+        "Gravier, 1985",
+        "Gravier (1985)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gravier, 1985"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/eu/Court of Justice of the European Union.md"
+      ],
+      "title": ""
     },
     "Gray et al., 1986": {
       "aliases": [

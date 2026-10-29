@@ -10,6 +10,10 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#ede9fe"
 period: "2009–至今"
 initiator_organization: "[[SEAMEO RIHED]]"
 tags:

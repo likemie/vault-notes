@@ -2,7 +2,6 @@
 title: European University Association
 aliases:
   - 欧洲大学协会
-  - EUA
   - Association européenne de l'université
 summary: "代表欧洲 48 国 800 余所大学与各国校长会议的独立性学术组织，2001 年在布鲁塞尔成立，作为博洛尼亚进程后续行动组的核心咨询机构与欧盟政策对话伙伴，在维护大学办学自主权、参与欧洲高等教育区及欧洲研究区规则研制中发挥关键引领作用。"
 type: fact
@@ -10,6 +9,10 @@ subtype: organization
 region: europe
 fact_region: "europe"
 fact_kind: "organization"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dcfce7"
 org_type: "学术组织/大学联合会"
 headquarters: "布鲁塞尔（比利时）"
 established: "2001"
@@ -103,7 +106,7 @@ updated: 2026-10-29
 > [!debates] 核心争议交锋
 >
 > > [!axis] 自下而上独立协会与官方跨国机构的类型差异（EUA 对勘 AUN）
-> > Chou & Ravinet (2017) 明确将欧洲的 EUA 与东南亚的 AUN 开展了组织类型学对勘。
+> > [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] 明确将欧洲的 EUA 与东南亚的 AUN 开展了组织类型学对勘。
 > >
 > > - **非政府自治代表属性（EUA 路径）** EUA 是自下而上建立、拥有 800 余所高校会员的独立性非政府学术组织，其核心使命在于代表基层大学维护办学自主权，对超国家行政权力保持警惕与制衡。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
 > > - **官方部委架构延伸属性（AUN 路径）** 东南亚的[[ASEAN University Network|东盟大学联盟]]（AUN）虽然由顶尖名校构成，但在创设渊源与政治法理上直接源自成员国政府教育部长会议，并在东盟官方官僚架构中占有正式席位，体现出政府主导的微观政策工具属性。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 151)]]
@@ -117,7 +120,7 @@ updated: 2026-10-29
 > | [[Bologna Process]] | Fact (Policy) | EUA 作为核心咨询成员深度参与的欧洲高教政策协调平台。 |
 > | [[European Commission]] | Fact (Organization) | EUA 在超国家层面展开政策对话与游说的主要欧盟行政机构。 |
 > | [[European Association for Quality Assurance in Higher Education]] | Fact (Organization) | EUA 联合制定全欧质保指南（ESG）的关键专业伙伴。 |
-> | [[ASEAN University Network]] | Fact (Organization) | Chou & Ravinet (2017) 用以对勘大学联盟组织属性的东南亚案例。 |
+> | [[ASEAN University Network]] | Fact (Organization) | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] 用以对勘大学联盟组织属性的东南亚案例。 |
 > | [[EU]] | Fact (Organization) | EUA 总部所在地与主要政策辐射的超国家共同体环境。 |
 > | [[Research Universities]] | Concept | EUA 核心会员群体所依托的高校办学形态。 |
 > | [[Europe of Knowledge]] | Concept | EUA 积极倡导并深度参与建构的全欧战略愿景。 |

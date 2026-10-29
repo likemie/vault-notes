@@ -9,6 +9,10 @@ subtype: organization
 region: multi
 fact_region: "multi"
 fact_kind: "organization"
+fact_related_count: 12
+fact_related_level: 1
+fact_related_stars: "⭐"
+fact_related_color: "#dcfce7"
 org_type: "政府间国际组织"
 headquarters: "曼谷（泰国）"
 established: "1965"
@@ -120,4 +124,4 @@ updated: 2026-10-29
 > | [[ASEAN University Network]] | Fact (Organization) | 东盟旗下的精英大学联盟网络，与 SEAMEO 的部委协调功能平级分立。 |
 > | [[Southeast Asian Higher Education Common Space]] | Fact (Program) | SEAMEO 协同东盟各方共同推进的弹性区域高等教育合作空间。 |
 > | [[ASEAN Way]] | Concept | 指导 SEAMEO 内部多边协商与项目自愿参与的规范原则。 |
-> | [[Comparative Regionalism]] | Theory | Chou & Ravinet (2017) 用以分析 SEAMEO 治理模式的理论视角。 |
+> | [[Comparative Regionalism]] | Theory | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] 用以分析 SEAMEO 治理模式的理论视角。 |
