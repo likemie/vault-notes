@@ -35709,6 +35709,18 @@
     "subtype": "policy"
   },
   {
+    "title": "ASEAN Economic Community",
+    "type": "fact",
+    "path": "wiki/facts/global/ASEAN Economic Community.md",
+    "aliases": [
+      "东盟经济共同体",
+      "AEC",
+      "ASEAN 经济共同体",
+      "Komunitas Ekonomi ASEAN"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Australia in the Asian Century White Paper",
     "type": "fact",
     "path": "wiki/facts/global/Australia in the Asian Century White Paper.md",
@@ -37247,6 +37259,19 @@
       "科学技术与社会变迁课程试点",
       "Science Technology and Social Change",
       "科学、技术与社会变迁"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "SHARE Programme",
+    "type": "fact",
+    "path": "wiki/facts/multi/SHARE Programme.md",
+    "aliases": [
+      "欧盟支持东盟高等教育项目",
+      "SHARE 项目",
+      "EU Support to Higher Education in the ASEAN Region",
+      "European Union Support to Higher Education in the ASEAN Region",
+      "SHARE Initiative"
     ],
     "subtype": "program"
   },

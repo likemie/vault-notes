@@ -7,10 +7,10 @@ title: "Argument_Chou_2017_PolSoc"
 argument_key: "Argument_Chou_2017_PolSoc"
 argument_display_title: "Higher education regionalism in Europe and Southeast Asia: Comparing policy ideas"
 argument_kind: "journal-article"
-argument_related_count: 49
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 51
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Policy and Society"
 authors:
   - "Chou, M.-H."
@@ -87,6 +87,8 @@ related_facts:
   - "[[Lisbon Strategy]]"
   - "[[European Standards and Guidelines]]"
   - "[[Southeast Asian Higher Education Common Space]]"
+  - "[[ASEAN Economic Community]]"
+  - "[[SHARE Programme]]"
 related_arguments: []
 sources:
   - "[[sources/Chou_2017_PolSoc|Chou_2017_PolSoc]]"
@@ -106,7 +108,7 @@ updated: 2026-10-29
 
 > [!concept-lens] 阅读透镜
 > - **对象** 欧洲（[[EU|欧洲联盟]]（European Union, EU）与博洛尼亚进程 48 个参与国）与东南亚（ASEAN 十国与东南亚教育部长组织）的高等教育区域一体化倡议、多边治理机构及关键政策官员与决策者。
-> - **张力** 比较区域主义理论中普遍预设的欧洲中心主义单向扩散假说（假定非欧洲区域必然通过政策借鉴、规制竞争或规范模仿吸收博洛尼亚模板）与东南亚后殖民历史下深层主权防卫、组织职能分立及维护多样性本土诉求之间的实质张力。
+> - **张力** [[Comparative Regionalism|比较区域主义]]理论中普遍预设的欧洲中心主义单向扩散假说（假定非欧洲区域必然通过政策借鉴、规制竞争或规范模仿吸收博洛尼亚模板）与东南亚后殖民历史下深层主权防卫、组织职能分立及维护多样性本土诉求之间的实质张力。
 > - **贡献** 确立了基于政策部门的比较区域主义分析[[Paradigm|范式]]，将观念细化为被解释[[Variable|变量]]（界定区域主义性质与目标的政策理念）与解释变量（宏观区域合作模式与全球知识经济话语），通过扎实的一手田野证据揭示了发展中国家区域高等教育空间建构的内生动力与自主机制。
 
 ---
@@ -119,7 +121,7 @@ updated: 2026-10-29
 > | **[[ASEAN Way\|东盟方式（ASEAN Way）]]**<br>Koga (2010); Narine (2008) | 建立在不干涉内政、协商一致、非正式互动与非约束性承诺基础上的区域外交与治理规范，解释了东南亚国家为何主动避免设立超国家集权实体，并刻意维系多元分散的组织分工。 |
 > | **[[Bologna Process Export Thesis\|博洛尼亚进程输出假说（Bologna Process Export Thesis）]]**<br>Huisman et al. (2012) | 预设欧洲经验是全球高教协调样板的欧洲中心主义扩散命题；本研究通过东南亚内生时序、官方文本拒斥与双轨分工实证对其进行系统证伪。 |
 > | **[[Norm Localisation\|规范本土化（Norm Localisation）]]**<br>Acharya (2004, 2015) | 揭示本土行动者如何主动转译、修剪与适配外部规范；解释东南亚如何主动重构跨国观念以契合本土认知先验与主权防卫需求，突破了被动模仿博洛尼亚模板的理论假设。 |
-> | **比较区域主义扩散机制（Diffusion Mechanisms）**<br>Börzel and Risse (2016) | 梳理主流扩散理论预设的三大机制（政策借鉴、规制竞争、规范模仿），为实证检验并证伪博洛尼亚进程输出假说提供精确的分析靶标。 |
+> | **[[Comparative Regionalism\|比较区域主义扩散机制（Diffusion Mechanisms）]]**<br>Börzel and Risse (2016) | 梳理主流扩散理论预设的三大机制（政策借鉴、规制竞争、规范模仿），为实证检验并证伪博洛尼亚进程输出假说提供精确的分析靶标。 |
 
 > [!warrant]- 理论如何支撑论证
 > 观念制度主义视角为解构多层次复杂治理中的行动者选择提供了关键分析桥梁。政策理念紧密连接着行动者的政治利益与制度认同，是政策内容、联盟建构与权威分配的核心载体。将高等教育区域主义视为行动者在特定制度脉络中协商达成的政策理念，有助于穿透表面相似的政策工具（如学分转换机制与质量保障标准），揭示出两地在治理哲学、主权让渡意愿与组织架构上的深刻[[Heterogeneity|异质性]]。
@@ -205,7 +207,7 @@ updated: 2026-10-29
 > [!dev-timeline] 东南亚高教区域合作演化的四个历史阶段
 > - **1960–1980 年代 — 外交框架优先与高教议题从属** 东南亚多边教育合作早于欧洲大规模实践。1961 年[[UNESCO|联合国教科文组织]]在曼谷设立办事处；1965 年东南亚教育部长组织正式成立，促进教育、科学与文化合作；1967 年东南亚国家联盟宣告成立。初期虽设立了东盟教育部长级会议（ASEAN Education Ministers Meeting, ASED），但该机制很快停摆，政府间实质合作主要依托 SEAMEO 开展 (Dang, 2012)。当时高等教育未被列为独立优先事项，多边合作重心完全聚焦于搭建区域多边外交骨架，未深入涉及实质教育政策内容。
 > - **1990 年代 — 高教战略地位提升与双轨分工确立** 1990 年代初东南亚迎来明确的高教战略转向，先后设立了两个理念截然不同的多边平台。其一是 1992 年提议、1995 年正式设立的东盟大学联盟（AUN），聚焦区域内 30 所顶尖旗舰大学，围绕具体学科开展务实的项目合作与人员流动；其二是 1993 年东南亚教育部长组织在曼谷恢复设立的SEAMEO 高教中心，代表政府间教育部委权威，推进全域层面的宏观政策协调。
-> - **2000 年代末 — 经济共同体建设倒逼教育对接加速** 2007 年东盟峰会确立了在 2015 年前建成东盟经济共同体（ASEAN Economic Community, AEC）的决定性时间表。这一高度政治化的经济整合承诺产生横向带动效应，倒逼东盟社会文化共同体（ASEAN Socio-Cultural Community, ASCC）加快解决人才流动与专业资质互认难题。全球知识经济话语使各国政府认识到高等教育与经济生产力的紧密联系，将高教合作深度融入区域整体发展议程。
+> - **2000 年代末 — 经济共同体建设倒逼教育对接加速** 2007 年东盟峰会确立了在 2015 年前建成[[ASEAN Economic Community|东盟经济共同体]]（ASEAN Economic Community, AEC）的决定性时间表。这一高度政治化的经济整合承诺产生横向带动效应，倒逼东盟社会文化共同体（ASEAN Socio-Cultural Community, ASCC）加快解决人才流动与专业资质互认难题。全球知识经济话语使各国政府认识到高等教育与经济生产力的紧密联系，将高教合作深度融入区域整体发展议程。
 > - **2010 年代至今 — 弹性伞式框架下建设共同空间** 面对 AUN 与 RIHED 多年积累的大量分散项目，东南亚各方提出建设[[Southeast Asian Higher Education Common Space|东南亚高等教育共同空间]]。这一概念用于包容并理顺既有机制，充当弹性的伞式平台，通过东盟互联互通总体规划（[[People-to-People Connectivity]]）推动校际学分互认与质保经验对话，在充分尊重制度多样性的前提下促进务实连通。
 
 > [!citation-card] 东南亚刻意分立高校与部委职能以防范集权
@@ -239,7 +241,7 @@ updated: 2026-10-29
 
 > [!quad-grid] 东南亚高教竞逐模式成型的四大支柱
 > - **东盟方式的规制约束** 成员国普遍保有深厚的去殖民化历史记忆，对外部干预和让渡国家主权怀有极高警惕；坚持不干预内政与协商一致，刻意将权力分散在 AUN 与 RIHED 两个互不隶属的平台，防范出现超国家集权官僚。
-> - **经济共同体的时间倒逼** 2007 年确立的 2015 年东盟经济共同体（AEC）建成期限，激发出前所未有的横向协调压力，促使教育官员跨出单一领域，将学分转换与专业人才机动性纳入落实经济自由流动目标的议程。
+> - **经济共同体的时间倒逼** 2007 年确立的 2015 年[[ASEAN Economic Community|东盟经济共同体]]（AEC）建成期限，激发出前所未有的横向协调压力，促使教育官员跨出单一领域，将学分转换与专业人才机动性纳入落实经济自由流动目标的议程。
 > - **知识经济话语的赋权支点** 强调知识驱动经济增长与提升国际竞争力的全球话语，为东南亚突破有限领域合作传统提供了合法性支点，使政府得以在不触碰政治主权红线的前提下深化高教合作。
 > - **共同空间概念的包容属性** 东南亚界定的共同空间不同于欧洲追求趋同的高等教育区，该概念充当弹性的伞式平台，旨在包容既有碎片化、多头并进的项目，在尊重制度多元性的前提下维护务实连通。
 
@@ -261,7 +263,7 @@ updated: 2026-10-29
 > | **治理权威架构** | 政府间部长会议与超国家欧盟委员会深度交织，逐步形成准集权协调机制 | 严格分离各平台权限，维持部委网络与高校网络的平级分工，防范权力集中 |
 > | **多样性应对哲学** | 将多样性视作一体化阻碍，通过推行通用工具（ECTS/ESG）消除学制差异 | 将多样性视作不可侵犯的现实基础，依托自愿试点与弹性学分折算实现互通 |
 > | **品牌标识认同** | 伊拉斯谟与博洛尼亚成为全欧乃至全球公认的高教合作超级品牌 | 缺乏全域统一品牌，主要表现为分散的阶段性具体项目（如东盟大学联盟质量保障网络（ASEAN University Network-Quality Assurance, AUN-QA）、AIMS） |
-> | **外部合作姿态** | 倾向于对外展示并输出自身一体化制度成果、资历标准与成熟工具包 | 在接纳外部合作（如欧盟支持东盟高等教育项目（European Union Support to Higher Education in the ASEAN Region, SHARE））时高度警惕干预，坚守本土主导权 |
+> | **外部合作姿态** | 倾向于对外展示并输出自身一体化制度成果、资历标准与成熟工具包 | 在接纳外部合作（如[[SHARE Programme|欧盟支持东盟高等教育项目]]（European Union Support to Higher Education in the ASEAN Region, SHARE））时高度警惕干预，坚守本土主导权 |
 > | **演进动力机制** | 内部自愿协调逐步获得超国家行政资源支撑，依靠指标化[[Peer Pressure\|同行压力]]驱动 | 经济共同体一体化目标外部倒逼，依托国家领导人政治承诺与柔性协商 |
 
 #### 2. 东南亚官方明确排斥博洛尼亚模板，三大政策扩散机制全部失灵
@@ -276,11 +278,11 @@ updated: 2026-10-29
 >
 > *Our findings indicate that the 'Bologna Process export thesis' and the diffusion assumptions of comparative regionalism are too simplistic and misleading... in their search for 'best practices' South-East Asian actors explicitly rejected the Bologna Process as the model that should be embraced.*
 
-> [!case] 区域间政策互动中的[[Epistemic Friction|认知摩擦]]：欧盟-东盟 SHARE 项目案例
-> - **政策背景与倡议初衷** 2015 年启动的欧盟支持东盟高等教育项目（SHARE）旨在深化跨区域[[Dialogue in Education|教育对话]]与人员流动。
+> [!case] 区域间政策互动中的[[Epistemic Friction|认知摩擦]]：[[SHARE Programme|欧盟-东盟 SHARE 项目]]案例
+> - **政策背景与倡议初衷** 2015 年启动的[[SHARE Programme|欧盟支持东盟高等教育项目]]（SHARE）旨在深化跨区域[[Dialogue in Education|教育对话]]与人员流动。
 > - **单向移植引发认知摩擦** 欧洲官员因对东南亚既有内生协调成果（AUN-QA 与 SEAMEO RIHED 工具包）缺乏知晓与尊重，试图直接移植欧洲资历标准，诱发深层[[Epistemic Friction\|认知摩擦]]。
-> - **本土主权防卫与对质重构** 东南亚政策制定者明确拒绝欧洲一刀切模板，坚守东盟方式与本土主导权，迫使项目回归对区域多样性与既有机制的承认。
-> - **案例经验启示** SHARE 项目的波折证实，跨区域高等教育政策互动受制于本土合法性过滤机制，具有鲜明的权力和利益博弈属性。
+> - **本土主权防卫与对质重构** 东南亚政策制定者明确拒绝欧洲一刀切模板，坚守[[ASEAN Way|东盟方式]]与本土主导权，迫使项目回归对区域多样性与既有机制的承认。
+> - **案例经验启示** [[SHARE Programme|SHARE 项目]]的波折证实，跨区域高等教育政策互动受制于本土合法性过滤机制，具有鲜明的权力和利益博弈属性。
 
 #### 3. 比较区域主义必须跳出欧洲中心主义，立足政策部门与实地田野
 
