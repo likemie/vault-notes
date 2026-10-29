@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "h-Index",
-      "path": "wiki/methods/quantitative/h-Index.md"
+      "basename": "template-fact-program",
+      "path": "wiki/templates/template-fact-program.md"
     },
     {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit01",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      "basename": "template-instrument",
+      "path": "wiki/templates/template-instrument.md"
+    },
+    {
+      "basename": "template-metax",
+      "path": "wiki/templates/template-metax.md"
+    },
+    {
+      "basename": "template-method",
+      "path": "wiki/templates/template-method.md"
+    },
+    {
+      "basename": "template-method-quant",
+      "path": "wiki/templates/template-method-quant.md"
     },
     {
       "basename": "Argument_Murray_Moxon-Browne_2013_JCMS",
@@ -17,8 +29,24 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md"
     },
     {
+      "basename": "LISA Spatiotemporal Transition",
+      "path": "wiki/methods/quantitative/LISA Spatiotemporal Transition.md"
+    },
+    {
+      "basename": "Longitudinal Study",
+      "path": "wiki/methods/quantitative/Longitudinal Study.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit01",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+    },
+    {
+      "basename": "h-Index",
+      "path": "wiki/methods/quantitative/h-Index.md"
     },
     {
       "basename": "g-Index",
@@ -27,18 +55,6 @@
     {
       "basename": "Argument_Ryan_2010_HKUP",
       "path": "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_HKUP.md"
-    },
-    {
-      "basename": "template-metax",
-      "path": "wiki/templates/template-metax.md"
-    },
-    {
-      "basename": "template-instrument",
-      "path": "wiki/templates/template-instrument.md"
-    },
-    {
-      "basename": "template-method-quant",
-      "path": "wiki/templates/template-method-quant.md"
     },
     {
       "basename": "Shockley's Multiplicative Hurdle Model",
@@ -55,10 +71,6 @@
     {
       "basename": "template-concept",
       "path": "wiki/templates/template-concept.md"
-    },
-    {
-      "basename": "template-method",
-      "path": "wiki/templates/template-method.md"
     },
     {
       "basename": "template-person",
@@ -187,18 +199,6 @@
     {
       "basename": "Subsidiarity Principle",
       "path": "wiki/concepts/comparative-education/Subsidiarity Principle.md"
-    },
-    {
-      "basename": "State Educational Sovereignty",
-      "path": "wiki/concepts/comparative-education/State Educational Sovereignty.md"
-    },
-    {
-      "basename": "Argument_Sobe_Fischer_2009_MobilityMigration",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Sobe_Fischer_2009_MobilityMigration.md"
-    },
-    {
-      "basename": "Argument_Lester_2005_MIT",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Lester_2005_MIT.md"
     }
   ],
   "omittedPaths": [],

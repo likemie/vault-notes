@@ -1,17 +1,19 @@
 /* =====================================================================
-   v5 · Method Manual（方法页工具手册）2026-10-29
-   作用范围：method-* / formula-* / software-impl / result-reading 全站生效；
-   def、citation-card、example、formula、ref-table、entry-map、evidence-grid-a、dev-timeline
-   只在 frontmatter 含 cssclasses: method-manual 的页面生效。关闭本 snippet 即回到 v4.1。
-   设计：一个组件一种形态，不再统一套“纸面容器 + 眉标 + 衬线标题 + 白卡”。
+   v6 · Method Flat+（方法页：扁平 + 质感 + 动效）2026-10-29
+   作用范围：frontmatter 含 cssclasses: method-manual 的页面（Method 条目）。
+   做法：组件外观沿用 v4.1 扁平体系（短横眉标 + 衬线标题 + 发丝线框 + 扁平卡片），
+   本文件只加一层质感与动效，另保留四个专门设计：formula 代码终端、method-fit 三档、
+   formula-step 编号、geogebra 模块与手算示例方格纸。关闭本 snippet 即回到 v4.1。
    ===================================================================== */
+
 
 body {
   --mm-ink: #0f172a;
   --mm-ink-2: #334155;
   --mm-mute: #64748b;
-  --mm-hair: rgba(15, 23, 42, .09);
-  --mm-hair-2: rgba(15, 23, 42, .16);
+  --mm-hair: rgba(15, 23, 42, .10);
+  --mm-hair-2: rgba(15, 23, 42, .18);
+  --mm-panel: #fbfcfe;
   --mm-surface: #ffffff;
   --mm-sunk: #f8fafc;
   --mm-indigo: 79, 70, 229;
@@ -32,8 +34,9 @@ body {
   --mm-ink: #f1f5f9;
   --mm-ink-2: #cbd5e1;
   --mm-mute: #94a3b8;
-  --mm-hair: rgba(226, 232, 240, .10);
-  --mm-hair-2: rgba(226, 232, 240, .18);
+  --mm-hair: rgba(226, 232, 240, .13);
+  --mm-hair-2: rgba(226, 232, 240, .22);
+  --mm-panel: rgba(255, 255, 255, .028);
   --mm-surface: rgba(255,255,255,.03);
   --mm-sunk: rgba(255,255,255,.025);
   --mm-indigo: 129, 140, 248;
@@ -48,305 +51,129 @@ body {
 }
 
 /* ---------------------------------------------------------------------
-   00 · 共同复位：去掉 v4.1 的纸面容器、眉标、衬线标题与白卡
+   01 · 质感：容器悬停时发丝线着色 + 顶边光线自中间展开 + 柔和投影
    --------------------------------------------------------------------- */
-:is(.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="software-impl"], [data-callout="result-reading"]), .method-manual .callout.callout.callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="evidence-grid-a"], [data-callout="citation-card"], [data-callout="def"], [data-callout="example"], [data-callout="formula"], [data-callout="dev-timeline"])) {
-  --mm-c: var(--mm-indigo);
-  background: none !important; background-image: none !important;
-  border: 0 !important; border-radius: 0 !important; box-shadow: none !important;
-  padding: 0 !important; margin: 2.1rem 0 !important; overflow: visible !important;
-  color: var(--mm-ink-2);
+.method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="result-reading"], [data-callout="example"], [data-callout="geogebra"]) {
+  background-image: linear-gradient(90deg, transparent, var(--ac-accent) 50%, transparent) !important;
+  background-repeat: no-repeat !important; background-position: 50% 0 !important; background-size: 0% 1.5px !important;
+  transition: background-size .7s var(--mm-ease), border-color .35s var(--mm-ease), box-shadow .45s var(--mm-ease) !important;
 }
-:is(.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="software-impl"], [data-callout="result-reading"]), .method-manual .callout.callout.callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="evidence-grid-a"], [data-callout="citation-card"], [data-callout="def"], [data-callout="example"], [data-callout="formula"], [data-callout="dev-timeline"])) > .callout-title {
-  display: flex !important; align-items: center !important; gap: .6rem !important;
-  margin: 0 0 .85rem !important; padding: 0 !important; border: 0 !important;
-  background: none !important; box-shadow: none !important;
+.method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="result-reading"], [data-callout="example"], [data-callout="geogebra"]):hover {
+  background-size: 92% 1.5px !important;
+  border-color: color-mix(in srgb, var(--ac-accent) 35%, var(--ac-hair)) !important;
+  box-shadow: 0 1px 2px rgba(15,23,42,.03), 0 22px 44px -30px color-mix(in srgb, var(--ac-accent) 60%, transparent) !important;
 }
-:is(.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="software-impl"], [data-callout="result-reading"]), .method-manual .callout.callout.callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="evidence-grid-a"], [data-callout="citation-card"], [data-callout="def"], [data-callout="example"], [data-callout="formula"], [data-callout="dev-timeline"])) > .callout-title .callout-icon { display: none !important; }
-:is(.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="software-impl"], [data-callout="result-reading"]), .method-manual .callout.callout.callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="evidence-grid-a"], [data-callout="citation-card"], [data-callout="def"], [data-callout="example"], [data-callout="formula"], [data-callout="dev-timeline"])) > .callout-title .callout-title-inner {
-  font-family: var(--mm-sans) !important; font-size: 1.02rem !important; font-weight: 650 !important;
-  letter-spacing: -.005em !important; color: var(--mm-ink) !important; line-height: 1.35 !important;
-  display: flex !important; align-items: center !important; gap: .6rem !important;
-}
-:is(.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="software-impl"], [data-callout="result-reading"]), .method-manual .callout.callout.callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="evidence-grid-a"], [data-callout="citation-card"], [data-callout="def"], [data-callout="example"], [data-callout="formula"], [data-callout="dev-timeline"])) > .callout-title::before,
-:is(.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="software-impl"], [data-callout="result-reading"]), .method-manual .callout.callout.callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="evidence-grid-a"], [data-callout="citation-card"], [data-callout="def"], [data-callout="example"], [data-callout="formula"], [data-callout="dev-timeline"])) > .callout-title::after { content: none !important; display: none !important; }
-:is(.callout.callout.callout.callout.callout.callout[data-callout="result-reading"], .method-manual .callout.callout.callout.callout.callout[data-callout="citation-card"]) > .callout-title .callout-title-inner::before { content: none !important; display: none !important; }
-/* 组件标识：方形色标 + 等宽小字，替代原来的短横英文眉标 */
-:is(.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="formula-set"], [data-callout="software-impl"]), .method-manual .callout.callout.callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"])) > .callout-title .callout-title-inner::before {
-  content: var(--mm-tag) !important;
-  display: inline-flex !important; align-items: center; justify-content: center;
-  width: auto !important; height: 1.45rem; padding: 0 .5rem !important; margin: 0 !important;
-  border-radius: 6px !important; border: 1px solid rgba(var(--mm-c), .22) !important;
-  background: rgba(var(--mm-c), .07) !important; color: rgb(var(--mm-c)) !important;
-  font-family: var(--mm-mono) !important; font-size: .62rem !important; font-weight: 600 !important;
-  letter-spacing: .08em !important; text-transform: uppercase; line-height: 1 !important;
-  animation: none !important; transform: none !important; position: static !important;
-}
-:is(.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="software-impl"], [data-callout="result-reading"]), .method-manual .callout.callout.callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="evidence-grid-a"], [data-callout="citation-card"], [data-callout="def"], [data-callout="example"], [data-callout="formula"], [data-callout="dev-timeline"])) > .callout-title .callout-title-inner::after { content: none !important; display: none !important; }
-:is(.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="software-impl"], [data-callout="result-reading"]), .method-manual .callout.callout.callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="evidence-grid-a"], [data-callout="citation-card"], [data-callout="def"], [data-callout="example"], [data-callout="formula"], [data-callout="dev-timeline"])) > .callout-content {
-  padding: 0 !important; margin: 0 !important; background: none !important; border: 0 !important;
-  box-shadow: none !important; font-size: .95rem; line-height: 1.75;
-}
-.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="software-impl"]) > .callout-content > ul {
-  display: block !important; grid-template-columns: none !important; gap: 0 !important;
-  margin: 0 !important; padding: 0 !important; list-style: none !important; counter-reset: none;
-}
-.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="software-impl"]) > .callout-content > ul > li {
-  list-style: none !important; margin: 0 !important; background: none !important; border: 0 !important;
-  border-radius: 0 !important; box-shadow: none !important; transform: none !important;
-  font-size: .95rem !important; line-height: 1.75 !important; color: var(--mm-ink-2) !important;
-}
-.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="software-impl"]) > .callout-content > ul > li::before,
-.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="software-impl"]) > .callout-content > ul > li::after { content: none; }
-.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="software-impl"]) > .callout-content > ul > li > strong:first-child {
-  display: inline !important; margin: 0 !important; padding: 0 !important; background: none !important;
-  border: 0 !important; font-size: inherit !important; letter-spacing: 0 !important; text-transform: none !important;
-}
+/* 内嵌子块不叠加外层投影，只着色 */
+.method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="result-reading"], [data-callout="example"], [data-callout="geogebra"]) .method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="result-reading"], [data-callout="example"], [data-callout="geogebra"]):hover { box-shadow: none !important; }
 
-.callout.callout.callout.callout.callout.callout[data-callout="method-scope"]    { --mm-c: var(--mm-indigo);  --mm-tag: "Spec"; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-position"] { --mm-c: var(--mm-violet);  --mm-tag: "Validity"; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-stack"]    { --mm-c: var(--mm-sky);     --mm-tag: "Stack"; }
-.callout.callout.callout.callout.callout.callout[data-callout="formula-set"]     { --mm-c: var(--mm-indigo);  --mm-tag: "Flow"; }
-.callout.callout.callout.callout.callout.callout[data-callout="software-impl"]   { --mm-c: var(--mm-teal);    --mm-tag: "Run"; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-fit"]      { --mm-c: var(--mm-emerald); --mm-tag: "Fit"; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-limits"]   { --mm-c: var(--mm-amber);   --mm-tag: "Caveats"; }
-.method-manual .callout.callout.callout.callout.callout[data-callout="ref-table"]       { --mm-c: var(--mm-sky);     --mm-tag: "Ref"; }
-.method-manual .callout.callout.callout.callout.callout[data-callout="dev-timeline"]    { --mm-c: var(--mm-violet);  --mm-tag: "History"; }
-.method-manual .callout.callout.callout.callout.callout[data-callout="entry-map"]       { --mm-c: var(--mm-violet);  --mm-tag: "Links"; }
-.method-manual .callout.callout.callout.callout.callout[data-callout="evidence-grid-a"] { --mm-c: var(--mm-teal);    --mm-tag: "Used in"; }
+/* 眉标短横：悬停伸长 */
+.method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="result-reading"], [data-callout="example"], [data-callout="geogebra"]) > .callout-title .callout-title-inner::before { transition: background-size .45s var(--mm-ease), letter-spacing .45s var(--mm-ease), color .3s !important; }
+.method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="result-reading"], [data-callout="example"], [data-callout="geogebra"]):hover > .callout-title .callout-title-inner::before { background-size: 22px 2px !important; letter-spacing: .18em !important; }
+
+/* 白卡：悬停上浮 + 顶边强调线 + 左上角柔光 */
+.method-manual .callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"]) > .callout-content > ul > li {
+  position: relative; overflow: hidden;
+  transition: transform .35s var(--mm-ease), box-shadow .35s var(--mm-ease), border-color .3s !important;
+}
+.method-manual .callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"]) > .callout-content > ul > li::after {
+  content: "" !important; position: absolute; inset: 0; pointer-events: none; opacity: 0; display: block !important;
+  background: radial-gradient(420px circle at 0% 0%, color-mix(in srgb, var(--ac-accent) 12%, transparent), transparent 60%) !important;
+  transition: opacity .45s var(--mm-ease);
+}
+.method-manual .callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"]) > .callout-content > ul > li:hover::after { opacity: 1; }
+.method-manual .callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"]) > .callout-content > ul > li:hover {
+  transform: translateY(-2px) !important; border-color: color-mix(in srgb, var(--ac-accent) 40%, var(--ac-hair)) !important;
+  box-shadow: inset 0 2px 0 var(--ac-accent), 0 12px 26px -16px color-mix(in srgb, var(--ac-accent) 55%, transparent) !important;
+}
+.method-manual .callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"]) > .callout-content > ul > li > strong:first-of-type { transition: color .3s, letter-spacing .4s var(--mm-ease); }
+.method-manual .callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"]) > .callout-content > ul > li:hover > strong:first-of-type { letter-spacing: .02em !important; }
+
+/* 卡内子块不出现滚动条 */
+.method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="result-reading"], [data-callout="example"], [data-callout="geogebra"]) > .callout-content { overflow: visible !important; max-height: none !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="formula-step"] .callout-content { overflow: visible !important; }
 
 /* ---------------------------------------------------------------------
-   01 · def：页首导语。无框；左侧色条入场时自上而下画出
-   --------------------------------------------------------------------- */
-.method-manual .callout.callout.callout.callout.callout[data-callout="def"] { position: relative; padding: .2rem 0 .2rem 1.35rem !important; margin-top: 1.2rem !important; }
-.method-manual .callout.callout.callout.callout.callout[data-callout="def"]::before {
-  content: "" !important; display: block !important; position: absolute !important; left: 0; top: 0; bottom: 0; width: 3px !important; height: auto !important; border-radius: 3px;
-  background: linear-gradient(180deg, rgb(var(--mm-indigo)), rgb(var(--mm-violet)) 60%, rgba(var(--mm-violet), .15));
-  transform-origin: top; animation: mm-draw .9s var(--mm-ease) both;
-}
-.method-manual .callout.callout.callout.callout.callout[data-callout="def"] > .callout-title { margin-bottom: .45rem !important; }
-.method-manual .callout.callout.callout.callout.callout[data-callout="def"] > .callout-title .callout-title-inner { font-size: 0 !important; }
-.method-manual .callout.callout.callout.callout.callout[data-callout="def"] > .callout-title .callout-title-inner::before {
-  content: "Definition" !important; display: inline-block !important; font-family: var(--mm-mono) !important;
-  font-size: .66rem !important; font-weight: 600 !important; letter-spacing: .14em !important;
-  text-transform: uppercase; color: rgb(var(--mm-indigo)) !important; background: none !important;
-  border: 0 !important; padding: 0 !important; margin: 0 !important; width: auto !important; height: auto !important;
-}
-.method-manual .callout.callout.callout.callout.callout[data-callout="def"] > .callout-content { font-size: 1.06rem !important; line-height: 1.85 !important; color: var(--mm-ink) !important; }
-.method-manual .callout.callout.callout.callout.callout[data-callout="def"] > .callout-content strong { color: var(--mm-ink); font-weight: 650; }
-
-/* ---------------------------------------------------------------------
-   02 · method-scope：规格表。标签列 + 值列，行间发丝线，悬停时整行底色由左扫入
-   --------------------------------------------------------------------- */
-.callout.callout.callout.callout.callout.callout[data-callout="method-scope"] > .callout-content > ul { border-top: 1px solid var(--mm-hair-2) !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-scope"] > .callout-content > ul > li {
-  position: relative; padding: .7rem .6rem .7rem 9.2rem !important; border-bottom: 1px solid var(--mm-hair) !important; min-height: 0 !important; height: auto !important;
-  background: linear-gradient(90deg, rgba(var(--mm-c), .06), rgba(var(--mm-c), 0)) no-repeat left / 0% 100% !important;
-  transition: background-size .45s var(--mm-ease);
-}
-.callout.callout.callout.callout.callout.callout[data-callout="method-scope"] > .callout-content > ul > li:hover { background-size: 100% 100% !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-scope"] > .callout-content > ul > li > strong:first-child {
-  position: absolute; left: .6rem; top: .7rem; width: 8.2rem;
-  font-family: var(--mm-sans); font-size: .8rem !important; font-weight: 600 !important;
-  color: var(--mm-mute) !important; line-height: 1.75;
-}
-.callout.callout.callout.callout.callout.callout[data-callout="method-scope"] > .callout-content > ul > li:hover > strong:first-child { color: rgb(var(--mm-c)) !important; }
-
-/* ---------------------------------------------------------------------
-   03 · method-position：效度四象限。十字发丝线分隔，无卡片；角标编号
-   --------------------------------------------------------------------- */
-.callout.callout.callout.callout.callout.callout[data-callout="method-position"] > .callout-content > ul {
-  display: grid !important; grid-template-columns: 1fr 1fr !important; counter-reset: mm-q;
-  border-radius: 14px; overflow: hidden; border: 1px solid var(--mm-hair-2) !important;
-  background: var(--mm-hair) !important; gap: 1px !important;
-}
-.callout.callout.callout.callout.callout.callout[data-callout="method-position"] > .callout-content > ul > li {
-  counter-increment: mm-q; position: relative; background: var(--background-primary) !important;
-  padding: 1.05rem 1.15rem 1.1rem !important; font-size: .9rem !important; line-height: 1.72 !important;
-  transition: background-color .3s var(--mm-ease);
-}
-.callout.callout.callout.callout.callout.callout[data-callout="method-position"] > .callout-content > ul > li:hover { background: rgba(var(--mm-c), .035) !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-position"] > .callout-content > ul > li::after {
-  content: "0" counter(mm-q) !important; position: absolute; right: .9rem; top: .85rem;
-  font-family: var(--mm-mono); font-size: .66rem; letter-spacing: .08em; color: rgba(var(--mm-c), .55);
-}
-.callout.callout.callout.callout.callout.callout[data-callout="method-position"] > .callout-content > ul > li > strong:first-child {
-  display: block !important; margin-bottom: .3rem !important; color: rgb(var(--mm-c)) !important;
-  font-size: .86rem !important; font-weight: 650 !important;
-}
-@media (max-width: 560px) { .callout.callout.callout.callout.callout.callout[data-callout="method-position"] > .callout-content > ul { grid-template-columns: 1fr !important; } }
-
-/* ---------------------------------------------------------------------
-   04 · method-stack：层级轨道。竖轨 + 节点；子列表为可悬停的芯片轨
-   --------------------------------------------------------------------- */
-.callout.callout.callout.callout.callout.callout[data-callout="method-stack"] > .callout-content > ul { position: relative; padding-left: 1.5rem !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-stack"] > .callout-content > ul::before {
-  content: ""; position: absolute; left: .42rem; top: .55rem; bottom: .9rem; width: 1px;
-  background: linear-gradient(rgba(var(--mm-c), .55), rgba(var(--mm-c), .08));
-}
-.callout.callout.callout.callout.callout.callout[data-callout="method-stack"] > .callout-content > ul > li { position: relative; padding: .25rem 0 .7rem !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-stack"] > .callout-content > ul > li::before {
-  content: "" !important; position: absolute; left: -1.5rem; top: .72rem; width: 9px; height: 9px; margin-left: .2rem;
-  border-radius: 50%; background: var(--background-primary); border: 2px solid rgb(var(--mm-c));
-  box-shadow: 0 0 0 4px rgba(var(--mm-c), .1); transition: transform .3s var(--mm-ease), background .3s;
-}
-.callout.callout.callout.callout.callout.callout[data-callout="method-stack"] > .callout-content > ul > li:hover::before { transform: scale(1.25); background: rgb(var(--mm-c)); }
-.callout.callout.callout.callout.callout.callout[data-callout="method-stack"] > .callout-content > ul > li > strong:first-child { color: var(--mm-ink) !important; font-weight: 650 !important; margin-right: .35rem !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-stack"] > .callout-content > ul > li > ul { margin: .5rem 0 .1rem !important; padding: 0 !important; list-style: none !important; display: grid; gap: .4rem; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-stack"] > .callout-content > ul > li > ul > li {
-  list-style: none !important; margin: 0 !important; padding: .5rem .8rem !important; font-size: .88rem !important; line-height: 1.65;
-  border: 1px solid var(--mm-hair) !important; border-radius: 10px !important; background: var(--mm-sunk) !important;
-  transition: border-color .25s, transform .3s var(--mm-ease), box-shadow .3s;
-}
-.callout.callout.callout.callout.callout.callout[data-callout="method-stack"] > .callout-content > ul > li > ul > li::before { content: none !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-stack"] > .callout-content > ul > li > ul > li:hover { border-color: rgba(var(--mm-c), .35) !important; transform: translateX(3px); box-shadow: var(--mm-shadow); }
-
-/* ---------------------------------------------------------------------
-   05 · citation-card：引文。大引号 + 中文正文；英文原文退为灰色斜体脚注
-   --------------------------------------------------------------------- */
-.method-manual .callout.callout.callout.callout.callout[data-callout="citation-card"] { position: relative; padding: .4rem 0 .4rem 3rem !important; }
-.method-manual .callout.callout.callout.callout.callout[data-callout="citation-card"]::before {
-  content: "\201C" !important; display: block !important; position: absolute !important; left: 0; top: -.6rem; font: 700 4.2rem/1 Georgia, serif !important;
-  background: linear-gradient(135deg, rgb(var(--mm-indigo)), rgb(var(--mm-violet)));
-  -webkit-background-clip: text; background-clip: text; color: transparent; opacity: .85;
-}
-.method-manual .callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-title .callout-title-inner { font-size: .8rem !important; color: var(--mm-mute) !important; font-weight: 600 !important; }
-.method-manual .callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > p:first-child { font-size: 1.04rem; line-height: 1.85; color: var(--mm-ink) !important; }
-.method-manual .callout.callout.callout.callout.callout[data-callout="citation-card"] > .callout-content > p:last-child:not(:first-child) {
-  margin-top: .6rem !important; padding: 0 !important; border: 0 !important; background: none !important;
-  font-size: .86rem; color: var(--mm-mute) !important; font-family: Georgia, serif;
-}
-
-/* ---------------------------------------------------------------------
-   06 · formula-set：流程蓝图。点阵底纹缓慢平移；mermaid 居中
-   --------------------------------------------------------------------- */
-.callout.callout.callout.callout.callout.callout[data-callout="formula-set"] > .callout-content {
-  padding: 1rem 1rem .6rem !important; border-radius: 14px !important; border: 1px solid var(--mm-hair-2) !important;
-  background: radial-gradient(rgba(var(--mm-c), .16) 1px, transparent 1.2px) 0 0 / 16px 16px, var(--mm-sunk) !important;
-  animation: mm-drift 40s linear infinite;
-}
-.callout.callout.callout.callout.callout.callout[data-callout="formula-set"] .mermaid, .callout.callout.callout.callout.callout.callout[data-callout="formula-set"] pre { background: none !important; border: 0 !important; text-align: center; }
-
-/* ---------------------------------------------------------------------
-   07 · formula-step：主角。编号步骤 + 公式铭牌 + 卡内标签；相邻步骤以竖线相连
+   02 · formula-step 编号：标题前加等宽编号，悬停由描边填色；相邻步骤虚线相连
    --------------------------------------------------------------------- */
 .markdown-rendered, .markdown-preview-section, .cm-content { counter-reset: mm-step; }
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] {
-  counter-increment: mm-step; position: relative;
-  padding: 1.35rem 1.4rem 1.2rem 4.4rem !important; border-radius: 18px !important;
-  border: 1px solid var(--mm-hair-2) !important; background: var(--mm-surface) !important;
-  box-shadow: var(--mm-shadow) !important; transition: box-shadow .4s var(--mm-ease), border-color .4s;
-}
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"]:hover { border-color: rgba(var(--mm-indigo), .35) !important; box-shadow: 0 1px 2px rgba(15,23,42,.04), 0 18px 40px -18px rgba(var(--mm-indigo), .35) !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"]::before {
-  content: counter(mm-step, decimal-leading-zero) !important; display: block !important; position: absolute !important; left: 1.25rem; top: 1.05rem;
-  width: auto !important; height: auto !important; border: 0 !important; box-shadow: none !important;
-  font: 700 1.9rem/1 var(--mm-mono) !important; letter-spacing: -.04em;
-  color: transparent; -webkit-text-stroke: 1px rgba(var(--mm-indigo), .55);
-  background: linear-gradient(135deg, rgb(var(--mm-indigo)), rgb(var(--mm-violet)));
-  -webkit-background-clip: text; background-clip: text; background-size: 100% 0%; background-repeat: no-repeat; background-position: bottom;
+.method-manual .callout.callout.callout.callout.callout[data-callout="formula-step"] { counter-increment: mm-step; position: relative !important; overflow: visible !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-title .callout-title-inner::after {
+  content: counter(mm-step, decimal-leading-zero) !important; display: block !important; position: absolute !important;
+  right: 1.15rem; top: 1rem; width: auto !important; height: auto !important; margin: 0 !important; padding: 0 !important; border: 0 !important;
+  font: 700 2rem/1 var(--mm-mono) !important; letter-spacing: -.04em !important;
+  color: transparent !important; -webkit-text-stroke: 1px color-mix(in srgb, var(--ac-accent) 55%, transparent);
+  background: linear-gradient(135deg, var(--ac-accent), color-mix(in srgb, var(--ac-accent) 45%, #a78bfa)) bottom / 100% 0% no-repeat !important;
+  -webkit-background-clip: text !important; background-clip: text !important;
   transition: background-size .6s var(--mm-ease);
 }
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"]:hover::before { background-size: 100% 100%; }
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] + .callout.callout.callout.callout.callout.callout[data-callout="formula-step"] { margin-top: 2.6rem !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] + .callout.callout.callout.callout.callout.callout[data-callout="formula-step"]::after {
-  content: ""; position: absolute; left: 2.35rem; top: -2.6rem; height: 2.6rem; width: 1px;
-  background: repeating-linear-gradient(rgba(var(--mm-indigo), .45) 0 4px, transparent 4px 8px);
+.method-manual .callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-title, .method-manual .callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-title .callout-title-inner { position: static !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-title .callout-title-inner { padding-right: 3.2rem !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="formula-step"]:hover > .callout-title .callout-title-inner::after { background-size: 100% 100% !important; }
+.method-manual .callout.callout.callout.callout.callout.callout[data-callout="formula-step"] + .callout.callout.callout.callout.callout.callout[data-callout="formula-step"], .method-manual .el-div:has(> .callout.callout.callout.callout.callout.callout[data-callout="formula-step"]) + .el-div:has(> .callout.callout.callout.callout.callout.callout[data-callout="formula-step"]) > .callout { margin-top: 2.2rem !important; }
+.method-manual .callout.callout.callout.callout.callout.callout[data-callout="formula-step"] + .callout.callout.callout.callout.callout.callout[data-callout="formula-step"]::after, .method-manual .el-div:has(> .callout.callout.callout.callout.callout.callout[data-callout="formula-step"]) + .el-div:has(> .callout.callout.callout.callout.callout.callout[data-callout="formula-step"]) > .callout::after {
+  content: "" !important; display: block !important; position: absolute !important; left: 2rem; top: -2.2rem; height: 2.2rem; width: 1px;
+  background: repeating-linear-gradient(var(--ac-accent) 0 4px, transparent 4px 8px) !important; opacity: .55; border: 0 !important;
 }
-.el-div:has(> .callout.callout.callout.callout.callout.callout[data-callout="formula-step"]) + .el-div:has(> .callout.callout.callout.callout.callout.callout[data-callout="formula-step"]) > .callout { margin-top: 2.6rem !important; }
-.el-div:has(> .callout.callout.callout.callout.callout.callout[data-callout="formula-step"]) + .el-div:has(> .callout.callout.callout.callout.callout.callout[data-callout="formula-step"]) > .callout::after {
-  content: ""; position: absolute; left: 2.35rem; top: -2.6rem; height: 2.6rem; width: 1px;
-  background: repeating-linear-gradient(rgba(var(--mm-indigo), .45) 0 4px, transparent 4px 8px);
-}
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-title { margin-bottom: 1rem !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-title .callout-title-inner { font-size: 1.12rem !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-title .callout-title-inner::before { content: none !important; display: none !important;}
-/* 公式铭牌 */
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-content > p:first-child, .callout.callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-content > .math-block:first-child,
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-content > p:has(> .katex-display), .callout.callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-content > p:has(> mjx-container[display]),
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-content > .math.math-block {
-  position: relative; margin: 0 0 1.1rem !important; padding: 1.1rem 1rem !important; overflow: hidden;
-  border-radius: 12px; border: 1px solid rgba(var(--mm-indigo), .16);
-  background: linear-gradient(180deg, rgba(var(--mm-indigo), .05), rgba(var(--mm-violet), .02)) !important;
-  font-size: 1.12em; text-align: center;
-}
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-content > p:has(> .katex-display)::after, .callout.callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-content > .math.math-block::after {
-  content: ""; position: absolute; inset: 0; transform: translateX(-100%);
-  background: linear-gradient(100deg, transparent 30%, rgba(255,255,255,.55) 50%, transparent 70%);
-  pointer-events: none;
-}
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"]:hover > .callout-content > p:has(> .katex-display)::after,
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"]:hover > .callout-content > .math.math-block::after { transition: transform 1.1s var(--mm-ease); transform: translateX(100%); }
-.theme-dark .callout.callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-content > p:has(> .katex-display)::after { background: linear-gradient(100deg, transparent 30%, rgba(255,255,255,.08) 50%, transparent 70%); }
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] .katex-display { margin: 0 !important; }
-/* 卡内加粗引导词 → 小号标签独占一行 */
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-content > p > strong:first-child {
-  display: block; margin-bottom: .15rem; font-family: var(--mm-sans); font-size: .74rem; font-weight: 650;
-  letter-spacing: .02em; color: rgb(var(--mm-indigo)) !important;
-}
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] > .callout-content > p { margin: 0 0 .8rem !important; font-size: .94rem; line-height: 1.75; }
-
-/* 07a · 手算示例：工作纸。方格底 + 虚线框 + 等宽数字 */
-.method-manual .callout.callout.callout.callout.callout[data-callout="example"] {
-  margin: 1rem 0 !important; padding: .85rem 1rem .9rem !important; border-radius: 12px !important;
-  border: 1px dashed rgba(var(--mm-sky), .45) !important;
-  background: linear-gradient(rgba(var(--mm-sky), .06) 1px, transparent 1px) 0 0 / 100% 22px,
-              linear-gradient(90deg, rgba(var(--mm-sky), .06) 1px, transparent 1px) 0 0 / 22px 100%,
-              var(--background-primary) !important;
-}
-.method-manual .callout.callout.callout.callout.callout[data-callout="example"] > .callout-title { margin-bottom: .4rem !important; }
-.method-manual .callout.callout.callout.callout.callout[data-callout="example"] > .callout-title .callout-title-inner { font-size: .86rem !important; color: rgb(var(--mm-sky)) !important; }
-.method-manual .callout.callout.callout.callout.callout[data-callout="example"] > .callout-title .callout-title-inner::before {
-  content: "Worked example" !important; display: inline-block !important; width: auto !important; height: auto !important;
-  padding: .1rem .45rem !important; margin: 0 !important; border-radius: 5px !important; border: 0 !important;
-  background: rgba(var(--mm-sky), .12) !important; color: rgb(var(--mm-sky)) !important;
-  font-family: var(--mm-mono) !important; font-size: .6rem !important; letter-spacing: .1em !important; text-transform: uppercase;
-}
-.method-manual .callout.callout.callout.callout.callout[data-callout="example"] > .callout-content { font-size: .9rem !important; font-variant-numeric: tabular-nums; }
-
-/* 07b · 结果怎么读：绿色读数条 */
-.callout.callout.callout.callout.callout.callout[data-callout="result-reading"] {
-  margin: 1rem 0 !important; padding: .75rem 1rem .8rem 1.1rem !important; border-radius: 0 12px 12px 0 !important;
-  border-left: 3px solid rgb(var(--mm-emerald)) !important; background: rgba(var(--mm-emerald), .06) !important;
-}
-.callout.callout.callout.callout.callout.callout[data-callout="result-reading"] > .callout-title { margin-bottom: .3rem !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="result-reading"] > .callout-title .callout-title-inner { font-size: .86rem !important; color: rgb(var(--mm-emerald)) !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="result-reading"] > .callout-content { font-size: .9rem !important; }
-
-/* 07c · 卡内注意事项：琥珀细条，不重复大标题 */
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] .callout.callout.callout.callout.callout.callout[data-callout="method-limits"] {
-  margin: 1rem 0 0 !important; padding: .7rem 1rem .75rem 1.1rem !important; border-radius: 0 12px 12px 0 !important;
-  border-left: 3px solid rgb(var(--mm-amber)) !important; background: rgba(var(--mm-amber), .06) !important;
-}
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] .callout.callout.callout.callout.callout.callout[data-callout="method-limits"] > .callout-title { margin-bottom: .3rem !important; border: 0 !important; padding: 0 !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] .callout.callout.callout.callout.callout.callout[data-callout="method-limits"] > .callout-title .callout-title-inner { font-size: .86rem !important; color: rgb(var(--mm-amber)) !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] .callout.callout.callout.callout.callout.callout[data-callout="method-limits"] > .callout-title .callout-title-inner::before { content: none !important; display: none !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] .callout.callout.callout.callout.callout.callout[data-callout="method-limits"] > .callout-content > ul > li { padding: .1rem 0 !important; font-size: .9rem !important; border: 0 !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] .callout.callout.callout.callout.callout.callout[data-callout="method-limits"] > .callout-content > ul > li > strong:first-child { color: var(--mm-ink) !important; margin-right: .3rem !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] .callout.callout.callout.callout.callout.callout[data-callout="method-limits"] > .callout-content > ul > li::before { content: none !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="formula-step"] .callout.callout.callout.callout.callout.callout[data-callout="method-limits"] > .callout-content > p { font-size: .9rem; margin: 0 !important; }
-
-/* 折叠子块的展开动画 */
-:is(.callout.callout.callout.callout.callout.callout[data-callout="result-reading"], .method-manual .callout.callout.callout.callout.callout[data-callout="example"]) > .callout-title { cursor: pointer; }
-:is(.callout.callout.callout.callout.callout.callout[data-callout="result-reading"], .method-manual .callout.callout.callout.callout.callout[data-callout="example"]) .callout-fold { margin-left: auto; color: var(--mm-mute); transition: transform .3s var(--mm-ease); }
-:is(.callout.callout.callout.callout.callout.callout[data-callout="result-reading"], .method-manual .callout.callout.callout.callout.callout[data-callout="example"]).is-collapsed .callout-fold { transform: rotate(-90deg); }
 
 /* ---------------------------------------------------------------------
-   08 · software-impl + formula：运行面板。终端标题栏 + 深色代码
+   03 · 手算示例：扁平卡 + 浅方格底纹
    --------------------------------------------------------------------- */
-.callout.callout.callout.callout.callout.callout[data-callout="software-impl"] > .callout-content > ul > li {
-  position: relative; padding: .55rem 0 .55rem 1.4rem !important; border-bottom: 1px dashed var(--mm-hair-2) !important;
+.method-manual .callout.callout.callout.callout.callout[data-callout="example"] {
+  background-image:
+    linear-gradient(color-mix(in srgb, var(--ac-accent) 9%, transparent) 1px, transparent 1px),
+    linear-gradient(90deg, color-mix(in srgb, var(--ac-accent) 9%, transparent) 1px, transparent 1px) !important;
+  background-size: 100% 22px, 22px 100% !important; background-position: 0 0, 0 0 !important; background-repeat: repeat !important;
 }
-.callout.callout.callout.callout.callout.callout[data-callout="software-impl"] > .callout-content > ul > li:last-child { border-bottom: 0 !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="software-impl"] > .callout-content > ul > li::before {
-  content: "\203A" !important; position: absolute; left: .2rem; top: .5rem;
-  font: 700 1rem/1.75 var(--mm-mono); color: rgb(var(--mm-c));
-  transition: transform .3s var(--mm-ease);
-}
-.callout.callout.callout.callout.callout.callout[data-callout="software-impl"] > .callout-content > ul > li:hover::before { transform: translateX(3px); }
-.callout.callout.callout.callout.callout.callout[data-callout="software-impl"] > .callout-content > ul > li > strong:first-child { color: var(--mm-ink) !important; font-weight: 650 !important; margin-right: .4rem !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="software-impl"] code, .callout.callout.callout.callout.callout.callout[data-callout="method-scope"] code { font-family: var(--mm-mono); font-size: .82em; padding: .1em .38em; border-radius: 5px; background: rgba(var(--mm-teal), .09); color: rgb(var(--mm-teal)); }
+.method-manual .callout.callout.callout.callout.callout[data-callout="example"]:hover { background-size: 100% 22px, 22px 100% !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="example"] > .callout-content { font-variant-numeric: tabular-nums; }
 
+/* ---------------------------------------------------------------------
+   04 · geogebra：扁平卡。LIVE 眉标（呼吸点代替短横）+ 衬线标题 + 图例白卡 + 画布
+   --------------------------------------------------------------------- */
+.method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] {
+  --ac-accent: rgb(13, 148, 136);
+  background-color: var(--ac-paper, var(--background-primary)) !important;
+  border: 1px solid var(--ac-hair, var(--background-modifier-border)) !important; border-radius: 10px !important;
+  padding: 1rem 1.1rem 1.1rem !important; box-shadow: none !important; margin: 1rem 0 0 !important;
+}
+.theme-dark .method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] { --ac-accent: rgb(45, 212, 191); }
+.method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] > .callout-title { display: block !important; padding: 0 0 .7rem !important; margin: 0 0 .85rem !important; border: 0 !important; border-bottom: 1px solid var(--ac-hair, var(--background-modifier-border)) !important; background: none !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] > .callout-title .callout-icon { display: none !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] > .callout-title .callout-title-inner {
+  font-family: var(--ac-serif, Georgia, serif) !important; font-size: 1.1em !important; font-weight: 500 !important; color: var(--text-normal) !important;
+}
+.method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] > .callout-title .callout-title-inner::before {
+  content: "LIVE · 动态模拟" !important; display: block !important; width: max-content !important; margin: 0 0 .35rem !important; padding: 0 0 0 16px !important;
+  background: radial-gradient(circle at 4px 50%, var(--ac-accent) 3.5px, transparent 4px) left center / 10px 10px no-repeat !important;
+  color: var(--ac-accent) !important; font-family: var(--ac-sans, var(--font-text)) !important; font-size: .62em !important; font-weight: 650 !important;
+  letter-spacing: .14em !important; text-transform: uppercase; line-height: 1.5; border: 0 !important;
+  animation: mm-breathe 1.8s ease-in-out infinite;
+}
+.method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] > .callout-content { padding: 0 !important; background: none !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] > .callout-content > ul { display: flex !important; flex-wrap: wrap; gap: .45rem; margin: 0 0 .75rem !important; padding: 0 !important; list-style: none !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] > .callout-content > ul > li {
+  list-style: none !important; margin: 0 !important; padding: .3rem .65rem !important; border-radius: 6px !important;
+  background: var(--ac-raised, var(--background-primary)) !important; border: 1px solid var(--ac-hair, var(--background-modifier-border)) !important;
+  font-size: .82rem !important; line-height: 1.5 !important; transition: border-color .3s, transform .3s var(--mm-ease);
+}
+.method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] > .callout-content > ul > li:hover { border-color: var(--ac-accent) !important; transform: translateY(-1px); }
+.method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] > .callout-content > ul > li > :is(.list-bullet, .list-collapse-indicator), .method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] > .callout-content > ul > li::before { display: none !important; content: none !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] > .callout-content > ul > li > strong:first-of-type { display: inline !important; margin: 0 .35rem 0 0 !important; color: var(--ac-accent) !important; font-weight: 650 !important; font-size: inherit !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] > .callout-content > p { margin: 0 0 .75rem !important; font-size: .9rem; color: var(--text-muted); }
+.method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] .geogebra-embed {
+  margin: 0 !important; border-radius: 8px !important; border: 1px solid var(--ac-hair, var(--background-modifier-border)) !important;
+  transition: transform .45s var(--mm-ease), box-shadow .45s var(--mm-ease), border-color .3s;
+}
+.method-manual .callout.callout.callout.callout.callout[data-callout="geogebra"] .geogebra-embed:hover { transform: translateY(-2px); border-color: color-mix(in srgb, var(--ac-accent) 45%, transparent) !important; box-shadow: 0 18px 36px -22px color-mix(in srgb, var(--ac-accent) 60%, transparent); }
+@keyframes mm-breathe { 0%, 100% { background-size: 10px 10px; } 50% { background-size: 14px 14px; } }
+
+/* ---------------------------------------------------------------------
+   05 · formula：深色代码终端（保留 v5）
+   --------------------------------------------------------------------- */
+.method-manual .callout.callout.callout.callout.callout[data-callout="formula"] { border: 0 !important; padding: 0 !important; margin: 1rem 0 !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="formula"] > .callout-title .callout-icon { display: none !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="formula"] > .callout-title .callout-title-inner::after { content: none !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="formula"] > .callout-content { padding: 0 !important; margin: 0 !important; border: 0 !important; background: none !important; overflow: visible !important; }
 .method-manual .callout.callout.callout.callout.callout[data-callout="formula"] { margin-top: 1rem !important; border-radius: 14px !important; overflow: hidden !important; background: var(--mm-code-bg) !important; box-shadow: var(--mm-shadow) !important; }
 .method-manual .callout.callout.callout.callout.callout[data-callout="formula"] > .callout-title {
   margin: 0 !important; padding: .6rem .9rem !important; background: rgba(255,255,255,.04) !important;
@@ -364,99 +191,41 @@ body {
 .method-manual .callout.callout.callout.callout.callout[data-callout="formula"] > .callout-content pre code { background: none !important; color: var(--mm-code-ink) !important; font: 400 .82rem/1.7 var(--mm-mono) !important; padding: 0 !important; }
 
 /* ---------------------------------------------------------------------
-   09 · method-fit：判定三档。前三条依次为 适合 / 谨慎 / 不适合
+   06 · method-fit：判定三档（保留 v5）。前三条依次为 适合 / 谨慎 / 不适合
    --------------------------------------------------------------------- */
-.callout.callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul { display: grid !important; gap: .55rem !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li {
+.method-manual .callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul { display: grid !important; grid-template-columns: none !important; margin: 0 !important; padding: 0 !important; list-style: none !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li { list-style: none !important; margin: 0 !important; line-height: 1.72 !important; color: var(--text-normal) !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li > :is(.list-bullet, .list-collapse-indicator) { display: none !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li::after { content: none !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul { display: grid !important; gap: .55rem !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li {
   --v: var(--mm-emerald); --g: "\2713";
   position: relative; padding: .8rem 1rem .8rem 3.3rem !important; border-radius: 12px !important;
   background: rgba(var(--v), .055) !important; border: 1px solid rgba(var(--v), .16) !important;
   transition: transform .35s var(--mm-ease), box-shadow .35s var(--mm-ease);
 }
-.callout.callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(2) { --v: var(--mm-amber); --g: "!"; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(3) { --v: var(--mm-rose); --g: "\2715"; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li:hover { transform: translateY(-2px); box-shadow: 0 10px 24px -14px rgba(var(--v), .55); }
-.callout.callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li::before {
+.method-manual .callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(2) { --v: var(--mm-amber); --g: "!"; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li:nth-child(3) { --v: var(--mm-rose); --g: "\2715"; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li:hover { transform: translateY(-2px); box-shadow: 0 10px 24px -14px rgba(var(--v), .55); }
+.method-manual .callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li::before {
   content: var(--g) !important; position: absolute; left: .95rem; top: .85rem; width: 1.55rem; height: 1.55rem;
   display: grid; place-items: center; border-radius: 50%;
   background: rgb(var(--v)); color: #fff; font: 700 .78rem/1 var(--mm-sans);
   box-shadow: 0 0 0 4px rgba(var(--v), .14);
 }
-.callout.callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li > strong:first-child { display: block !important; color: rgb(var(--v)) !important; font-size: .84rem !important; font-weight: 700 !important; margin-bottom: .1rem !important; }
+.method-manual .callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li > strong:first-of-type { display: block !important; color: rgb(var(--v)) !important; font-size: .84rem !important; font-weight: 700 !important; margin-bottom: .1rem !important; }
 
 /* ---------------------------------------------------------------------
-   10 · method-limits（页面级）：注意事项清单。琥珀编号 + 发丝线
+   07 · 滚动入场：容器淡入上浮，眉标短横自 0 伸出（支持 scroll-driven animation 时）
    --------------------------------------------------------------------- */
-.callout.callout.callout.callout.callout.callout[data-callout="method-limits"] > .callout-content > ul { counter-reset: mm-l; border-top: 2px solid rgba(var(--mm-amber), .5) !important; }
-.callout.callout.callout.callout.callout.callout[data-callout="method-limits"] > .callout-content > ul > li {
-  counter-increment: mm-l; position: relative; padding: .65rem 0 .65rem 2.4rem !important; border-bottom: 1px solid var(--mm-hair) !important;
-}
-.callout.callout.callout.callout.callout.callout[data-callout="method-limits"] > .callout-content > ul > li::before {
-  content: counter(mm-l, decimal-leading-zero) !important; position: absolute; left: 0; top: .72rem;
-  font: 600 .72rem/1.6 var(--mm-mono); color: rgb(var(--mm-amber)); letter-spacing: .04em;
-}
-.callout.callout.callout.callout.callout.callout[data-callout="method-limits"] > .callout-content > ul > li > strong:first-child { color: var(--mm-ink) !important; font-weight: 650 !important; margin-right: .4rem !important; }
-
-/* ---------------------------------------------------------------------
-   11 · 表格（ref-table / entry-map）：数据表。等宽数字、无竖线、行悬停左侧色条
-   --------------------------------------------------------------------- */
-.method-manual .callout.callout.callout.callout.callout:is([data-callout="ref-table"], [data-callout="entry-map"]) > .callout-content { border-radius: 14px !important; border: 1px solid var(--mm-hair-2) !important; overflow: hidden !important; }
-.method-manual .callout.callout.callout.callout.callout:is([data-callout="ref-table"], [data-callout="entry-map"]) table { width: 100%; border-collapse: collapse !important; margin: 0 !important; border: 0 !important; background: none !important; font-size: .88rem !important; }
-.method-manual .callout.callout.callout.callout.callout:is([data-callout="ref-table"], [data-callout="entry-map"]) thead th {
-  background: var(--mm-sunk) !important; color: var(--mm-mute) !important; border: 0 !important; border-bottom: 1px solid var(--mm-hair-2) !important;
-  font: 600 .7rem/1.4 var(--mm-sans) !important; letter-spacing: .06em !important; text-transform: uppercase; padding: .6rem .9rem !important; text-align: left !important;
-}
-.method-manual .callout.callout.callout.callout.callout:is([data-callout="ref-table"], [data-callout="entry-map"]) tbody td {
-  border: 0 !important; border-bottom: 1px solid var(--mm-hair) !important; padding: .62rem .9rem !important;
-  background: none !important; font-variant-numeric: tabular-nums; color: var(--mm-ink-2) !important;
-  transition: background-color .25s, box-shadow .25s;
-}
-.method-manual .callout.callout.callout.callout.callout:is([data-callout="ref-table"], [data-callout="entry-map"]) tbody tr:last-child td { border-bottom: 0 !important; }
-.method-manual .callout.callout.callout.callout.callout:is([data-callout="ref-table"], [data-callout="entry-map"]) tbody tr:hover td { background: rgba(var(--mm-c), .045) !important; }
-.method-manual .callout.callout.callout.callout.callout:is([data-callout="ref-table"], [data-callout="entry-map"]) tbody tr:hover td:first-child { box-shadow: inset 3px 0 0 rgb(var(--mm-c)); }
-/* entry-map 第二列（类型）显示为胶囊 */
-.method-manual .callout.callout.callout.callout.callout[data-callout="entry-map"] tbody td:nth-child(2) { white-space: nowrap; }
-.method-manual .callout.callout.callout.callout.callout[data-callout="entry-map"] tbody td:nth-child(2) > * , .method-manual .callout.callout.callout.callout.callout[data-callout="entry-map"] tbody td:nth-child(2) {
-  font-size: .76rem !important; font-weight: 600; color: rgb(var(--mm-c)) !important;
-}
-.method-manual .callout.callout.callout.callout.callout[data-callout="entry-map"] > .callout-content > p:empty { display: none; }
-
-/* ---------------------------------------------------------------------
-   12 · evidence-grid-a：研究索引。箭头列表
-   --------------------------------------------------------------------- */
-.method-manual .callout.callout.callout.callout.callout[data-callout="evidence-grid-a"] > .callout-content > ul { display: block !important; margin: 0 !important; padding: 0 !important; list-style: none !important; }
-.method-manual .callout.callout.callout.callout.callout[data-callout="evidence-grid-a"] > .callout-content > ul > li {
-  list-style: none !important; position: relative; padding: .6rem .2rem .6rem 1.8rem !important; margin: 0 !important;
-  background: none !important; border: 0 !important; border-bottom: 1px solid var(--mm-hair) !important; border-radius: 0 !important; box-shadow: none !important;
-  font-size: .92rem !important;
-}
-.method-manual .callout.callout.callout.callout.callout[data-callout="evidence-grid-a"] > .callout-content > ul > li::before {
-  content: "\2192" !important; display: block !important; position: absolute !important; left: .2rem; top: .6rem; font: 600 .95rem/1.75 var(--mm-sans);
-  color: rgb(var(--mm-c)); background: none !important; transition: transform .3s var(--mm-ease);
-  width: auto !important; height: auto !important; border: 0 !important;
-}
-.method-manual .callout.callout.callout.callout.callout[data-callout="evidence-grid-a"] > .callout-content > ul > li:hover::before { transform: translateX(4px); }
-.method-manual .callout.callout.callout.callout.callout[data-callout="evidence-grid-a"] > .callout-content > ul > li::after { content: none !important; }
-
-/* ---------------------------------------------------------------------
-   13 · 动效：滚动入场（支持 scroll-driven animation 时）、色条绘制、底纹平移
-   --------------------------------------------------------------------- */
-@keyframes mm-draw { from { transform: scaleY(0); } to { transform: scaleY(1); } }
-@keyframes mm-drift { from { background-position: 0 0, 0 0; } to { background-position: 160px 80px, 0 0; } }
-@keyframes mm-rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: none; } }
+@keyframes mm-rise { from { opacity: 0; transform: translateY(16px) scale(.995); } to { opacity: 1; transform: none; } }
+@keyframes mm-dash { from { background-size: 0 2px; } to { background-size: 12px 2px; } }
 @keyframes mm-pop { 0% { transform: scale(.4); opacity: 0; } 70% { transform: scale(1.12); opacity: 1; } 100% { transform: scale(1); } }
 @supports (animation-timeline: view()) {
-  :is(.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="software-impl"]), .method-manual .callout.callout.callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="evidence-grid-a"], [data-callout="citation-card"], [data-callout="formula"])) {
-    animation: mm-rise linear both !important; animation-timeline: view() !important; animation-range: entry 0% entry 38% !important;
-  }
-  .callout.callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li::before { animation: mm-pop linear both; animation-timeline: view(); animation-range: entry 10% entry 60%; }
-  .callout.callout.callout.callout.callout.callout[data-callout="method-stack"] > .callout-content > ul > li::before { animation: mm-pop linear both; animation-timeline: view(); animation-range: entry 5% entry 45%; }
+  .method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="method-fit"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="formula"]) { animation: mm-rise linear both !important; animation-timeline: view() !important; animation-range: entry 0% entry 40% !important; }
+  .method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="result-reading"], [data-callout="example"], [data-callout="geogebra"]) .method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="method-fit"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="formula"]) { animation: none !important; }
+  .method-manual .callout.callout.callout.callout.callout[data-callout="method-fit"] > .callout-content > ul > li::before { animation: mm-pop linear both; animation-timeline: view(); animation-range: entry 10% entry 60%; }
 }
 @media (prefers-reduced-motion: reduce) {
-  :is(.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="software-impl"]), .method-manual .callout.callout.callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="evidence-grid-a"], [data-callout="citation-card"], [data-callout="formula"], [data-callout="def"])),
-  :is(.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="software-impl"]), .method-manual .callout.callout.callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="evidence-grid-a"], [data-callout="citation-card"], [data-callout="formula"], [data-callout="def"])) *,
-  :is(.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="software-impl"]), .method-manual .callout.callout.callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="evidence-grid-a"], [data-callout="citation-card"], [data-callout="formula"], [data-callout="def"]))::before,
-  :is(.callout.callout.callout.callout.callout.callout:is([data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-fit"], [data-callout="method-limits"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="software-impl"]), .method-manual .callout.callout.callout.callout.callout:is([data-callout="entry-map"], [data-callout="ref-table"], [data-callout="evidence-grid-a"], [data-callout="citation-card"], [data-callout="formula"], [data-callout="def"])) *::before {
-    animation: none !important; transition: none !important;
-  }
+  .method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="result-reading"], [data-callout="example"], [data-callout="geogebra"], [data-callout="method-fit"], [data-callout="formula"]), .method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="result-reading"], [data-callout="example"], [data-callout="geogebra"], [data-callout="method-fit"], [data-callout="formula"]) *, .method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="result-reading"], [data-callout="example"], [data-callout="geogebra"], [data-callout="method-fit"], [data-callout="formula"])::before, .method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="result-reading"], [data-callout="example"], [data-callout="geogebra"], [data-callout="method-fit"], [data-callout="formula"])::after, .method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="result-reading"], [data-callout="example"], [data-callout="geogebra"], [data-callout="method-fit"], [data-callout="formula"]) *::before, .method-manual .callout.callout.callout.callout.callout:is([data-callout="def"], [data-callout="method-scope"], [data-callout="method-position"], [data-callout="method-stack"], [data-callout="method-limits"], [data-callout="software-impl"], [data-callout="citation-card"], [data-callout="ref-table"], [data-callout="entry-map"], [data-callout="evidence-grid-a"], [data-callout="dev-timeline"], [data-callout="formula-set"], [data-callout="formula-step"], [data-callout="result-reading"], [data-callout="example"], [data-callout="geogebra"], [data-callout="method-fit"], [data-callout="formula"]) *::after { animation: none !important; transition: none !important; }
 }
