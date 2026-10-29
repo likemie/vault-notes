@@ -212,9 +212,10 @@ updated: "2026-10-29"
 >
 > ```geogebra
 > file: wiki/assets/geogebra/shockley_lognormal.ggb
-> height: 420
+> height: 480
+> app: classic
+> algebraview: true
 > toolbar: false
-> algebra: false
 > ```
 
 > [!figure]- 图1-2：科研生产力的对数正态分布与跨栏机制
@@ -332,9 +333,10 @@ updated: "2026-10-29"
 >
 > ```geogebra
 > file: wiki/assets/geogebra/hirsch_h_index.ggb
-> height: 420
+> height: 480
+> app: classic
+> algebraview: true
 > toolbar: false
-> algebra: false
 > ```
 
 > [!warrant]- h 指数的线性增长律使其可用于跨年资职称参照
