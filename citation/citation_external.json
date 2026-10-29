@@ -2485,8 +2485,10 @@
     "Blanchenay et al., 2014": "Blanchenay et al., 2014",
     "Blank & de las Alas (2009)": "Blank & de las Alas, 2009",
     "Blank & de las Alas, 2009": "Blank & de las Alas, 2009",
+    "Blank (1991)": "Blank, 1991",
     "Blank (1993)": "Blank, 1993",
     "Blank (2000)": "Blank, 2000",
+    "Blank, 1991": "Blank, 1991",
     "Blank, 1993": "Blank, 1993",
     "Blank, 2000": "Blank, 2000",
     "Blase (1989)": "Blase, 1989",
@@ -44920,6 +44922,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Effects of Teacher Professional Development on Gains in Student Achievement: How Meta Analysis Provides Scientific Evidence Useful to Education Leaders"
+    },
+    "Blank, 1991": {
+      "aliases": [
+        "Blank, 1991",
+        "Blank (1991)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Blank, 1991"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
     },
     "Blank, 1993": {
       "aliases": [
@@ -141850,6 +141867,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md"
       ],
       "title": ""
