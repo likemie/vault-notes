@@ -5,11 +5,11 @@ aliases:
   - 肯尼斯·威尔逊
   - K. G. Wilson
   - Wilson, K. G.
-summary: "美籍理论物理学家、1982 年诺贝尔物理学奖得主，曾任康奈尔大学与俄亥俄州立大学教授；开创重整化群理论并系统解决相变临界现象，在科学学与文献计量学中，其跨越数十年的完整学术论著发表轨迹被 Roberta Sinatra et al. 作为 drop pin 图钉投影法的奠基案例，用于揭示学术生涯成果影响力的时序演化。"
+summary: "美籍理论物理学家、1982 年诺贝尔物理学奖得主，曾任康奈尔大学与俄亥俄州立大学教授；开创重整化群理论并解决相变临界现象，其跨越数十年的完整学术出版序列被科学学者作为图钉投影法与生涯序列置换的经典微观案例。"
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 1
+person_related_count: 3
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -22,8 +22,10 @@ tags:
   - theme/science-of-science
   - theme/scientific-career
 related_concepts: []
-related_theories: []
-related_methods: []
+related_theories:
+  - "[[Random Impact Rule]]"
+related_methods:
+  - "[[Career Shuffling Method]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -67,4 +69,36 @@ updated: 2026-10-29
 ---
 
 > [!claim] 核心思想
-> 肯尼斯·G·威尔逊（Kenneth G. Wilson）展现了理论物理学家沉静探索与攻坚克难的典范精神。其相对精炼但单篇影响力极高的发表全景，为科学学研究者提供了观测个体学者学术产出质量与时间动态的纯净微观标本。
+> 肯尼斯·G·威尔逊（Kenneth G. Wilson）展现了理论物理学家深入攻坚克难的典范风格。其相对精炼但单篇影响力极高的发表全景，为科学学研究者提供了观测个体学者学术产出质量与时间动态的纯净微观标本。
+
+---
+
+> [!influence-path] 影响路径
+> - **理论物理路径** 创立重整化群方法，打通从微观量子场论到宏观相变临界现象的跨尺度计算桥梁，彻底改写凝聚态与高能物理学研究范式。
+> - **计算科学路径** 极力倡导大科学计算在基础物理中的应用，创办康奈尔超级计算中心并推动格点量子色动力学数值模拟。
+> - **科学学与计量学路径** 其 48 篇紧凑论著序列被选定为图钉投影法的标准演示范式，为全样本学者反事实生涯打乱实验奠定微观基准。
+
+> [!evidence-grid-a] 相关研究索引
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 以威尔逊的真实发表轨迹与随机打乱轨迹进行直观投影对照，作为全书阐释随机影响法则的代表性案例。
+
+---
+
+> [!person-network] 关系网络
+> - **学术导师** 默里·盖尔曼（Murray Gell-Mann）— 加州理工学院博士导师，夸克模型提出者。
+> - **合作学者** 迈克尔·费希尔（Michael Fisher）— 康奈尔大学长期合作学者，共同发展 $\epsilon$ 展开方法。
+
+---
+
+> [!debates] 学术争议
+>
+> > [!axis] 论著数量产出 vs 单篇深潜质量
+> > 威尔逊一生仅发表 48 篇论著，但其代表作十年被引高达 1,263 次并摘得诺贝尔奖，成为科技评价中反思单纯追求发文篇数、倡导深潜攻坚的标志性案例。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 52)]]
+
+---
+
+> [!entry-map] 条目关联
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Random Impact Rule]] | 理论 | 其全生命周期发表序列被选定为验证随机影响法则的微观经典案例。 |
+> | [[Career Shuffling Method]] | 方法 | 其论著时间线与十年被引图钉被作为生涯序列置换实验的基准示范标本。 |
