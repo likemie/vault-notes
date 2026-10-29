@@ -278,7 +278,7 @@ updated: 2026-10-30
 
 > [!figure]- 图5-1：肯尼斯·G·威尔逊的真实与随机打乱学术生涯
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-1_Publication_History_Kenneth_Wilson_Drop_Pin.jpg)
-> *(a) 威尔逊真实学术生涯的[[Drop-pin Projection|图钉投影]]，横轴为学术年龄，垂直线高度为单篇成果十年被引量 c10；(b) 保持发文时间与篇数不变、完全随机置换十年被引高度后的反事实随机打乱生涯（p. 52）。*
+> (a) 威尔逊真实学术生涯的[[Drop-pin Projection|图钉投影]]，横轴为学术年龄，垂直线高度为单篇成果十年被引量 $c_{10}$；(b) 保持发文时间与篇数不变、完全随机置换十年被引高度后的反事实随机打乱生涯（Sinatra et al., 2016）。
 
 ---
 
@@ -297,7 +297,7 @@ updated: 2026-10-30
 
 > [!figure]- 图5-2：真实与随机置换条件下的巅峰影响时间分布
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-2_Random_Impact_Rule_P_t_star.jpg)
-> *真实学者生涯巅峰发表时间 t* 的概率分布 P(t*)（黑圈）与反事实随机置换模型曲线（实线）完美重合，表明影响力分布完全受生产力周期驱动（p. 53）。*
+> 真实学者生涯巅峰发表时间 $t^*$ 的概率分布 $P(t^*)$（黑圈）与反事实随机置换模型曲线（实线）完美重合，表明影响力分布完全受生产力周期驱动（Sinatra et al., 2016）。
 
 ---
 
@@ -318,7 +318,7 @@ updated: 2026-10-30
 
 > [!figure]- 图5-3：跨科学与创意领域的随机影响法则
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-3_Random_Impact_Rules_Across_Creative_Domains.jpg)
-> *(a) 20,040 位科学家、(b) 3,480 位艺术家与 (c) 6,233 位电影导演代表作相对位置 N*/N 的累积分布 P>(N*/N)，前三大代表作（i=1, 2, 3）全部严格贴合斜率为 -1 的平直线（p. 56）。*
+> (a) 20,040 位科学家（以成果十年被引量测度）、(b) 3,480 位艺术家（以艺术品拍卖成交价测度）与 (c) 6,233 位电影导演（以 IMDb 观众评分测度）代表作相对位置 $N_i/N$ 的互补累积分布函数 $P_>(N_i/N)$。各领域排名前三的重大代表作（$i = 1, 2, 3$）的经验散点均严格贴合斜率为 $-1$ 的理论预测直线（虚线 $P_>(N_i/N) = 1 - N_i/N$），证实无论在科学探索还是文艺创作中，划时代突破在个体全生命周期的作品次序中均服从均匀随机分布，其产出概率并不受生理年龄约束（Liu et al., 2018）。
 
 ---
 
@@ -334,7 +334,7 @@ updated: 2026-10-30
 
 > [!figure]- 图5-4：诺贝尔奖得主的职业发表模式与生存偏差
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-4_Career_Patterns_of_Nobel_Laureates_Lost_Winners.jpg)
-> *(a) 包含获奖论著时，诺奖得主相对位置偏向早期；(b) 排除直接获奖成果后，前三高被引成果的累积分布完全符合随机影响法则的虚线预测（p. 57）。*
+> (a) 包含直接获奖成果时，诺奖得主最高引论著相对位置向职业生涯早期强烈偏斜；(b) 排除直接获奖成果后，其余前三高被引成果的累积分布 $P_>(N_i/N)$ 完全恢复至斜率为 $-1$ 的平直虚线上，证明诺奖成果的早期集聚源于在世授奖规则引发的生存偏差（Li et al., 2019）。
 
 ---
 
@@ -348,7 +348,7 @@ updated: 2026-10-30
 
 > [!figure]- 图5-5：约翰·B·芬恩的学术生涯引文轨迹
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-5_Academic_Career_of_John_Fenn.jpg)
-> *芬恩在被耶鲁大学强制退休后继续开展科研，其毕生最高被引代表作在 1988 年（71 岁）产出，直接助力斩获 2002 年诺贝尔化学奖（p. 58）。*
+> 芬恩在被耶鲁大学强制退休后继续开展科研，其毕生最高被引代表作在 1988 年（71 岁）产出，直接助力斩获 2002 年诺贝尔化学奖（p. 58）。
 
 > [!case] 硅谷年轻创业者神话的破灭与[[Age and High-Growth Entrepreneurship|高成长创业中的年龄优势]]
 > 青年等于创造力的教条不仅盛行于学术界，在商业创新与科技创业领域同样根深蒂固，而全口径行政实证揭示了[[Age and High-Growth Entrepreneurship|高成长创业中的年龄优势]]（Azoulay et al., 2020, p. 58）。硅谷主流媒体与顶级风投对年轻创始人展现出高度一致的追捧：
@@ -364,7 +364,7 @@ updated: 2026-10-30
 
 > [!figure]- 图5-6：初创企业创始人年龄与超常成功概率的边际效应
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-6_Older_Entrepreneurs_Likelihood_of_Success.jpg)
-> *普通最小二乘回归系数显示，以 20 岁创始人为基准，入围全美前 0.1% 极速成长企业的概率随创始人年龄单调递增直至 50 岁后期（p. 59）。*
+> 普通最小二乘（OLS）回归系数显示，以 20 岁创始人为基准，入围全美前 0.1% 极速成长企业的概率随创始人年龄单调递增直至 50 岁后期（Azoulay et al., 2020）。
 
 ---
 
