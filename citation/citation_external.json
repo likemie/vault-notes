@@ -15062,6 +15062,8 @@
     "Mansell, 2011": "Mansell, 2011",
     "Mansfield et al. (1978)": "Mansfield et al., 1978",
     "Mansfield et al., 1978": "Mansfield et al., 1978",
+    "Manski (1993)": "Manski, 1993",
+    "Manski, 1993": "Manski, 1993",
     "Mantzicopoulos (1992a)": "Mantzicopoulos, 1992a",
     "Mantzicopoulos (1992b)": "Mantzicopoulos, 1992b",
     "Mantzicopoulos (2013)": "Mantzicopoulos, 2013",
@@ -17581,6 +17583,8 @@
     "Odo, 2021": "Odo, 2021",
     "Odumosu & Vinsel (2013)": "Odumosu & Vinsel, 2013",
     "Odumosu & Vinsel, 2013": "Odumosu & Vinsel, 2013",
+    "Oettl (2012)": "Oettl, 2012",
+    "Oettl, 2012": "Oettl, 2012",
     "Ofcom (2025)": "Ofcom, 2025",
     "Ofcom, 2025": "Ofcom, 2025",
     "Offenberg (2004)": "Offenberg, 2004",
@@ -29026,7 +29030,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
+        "wiki/concepts/science-policy/Peer Effects in Science.md"
       ],
       "title": ""
     },
@@ -36483,7 +36488,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
+        "wiki/concepts/science-policy/Invisible College.md",
+        "wiki/concepts/science-policy/Peer Effects in Science.md"
       ],
       "title": ""
     },
@@ -47036,7 +47043,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
+        "wiki/concepts/science-policy/Invisible College.md"
       ],
       "title": ""
     },
@@ -65836,7 +65844,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
+        "wiki/concepts/university-industry-collaboration/Team Science.md"
       ],
       "title": ""
     },
@@ -113179,7 +113188,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
+        "wiki/concepts/university-industry-collaboration/Team Science.md"
       ],
       "title": ""
     },
@@ -113348,7 +113358,9 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/concepts/science-policy/Age and High-Growth Entrepreneurship.md",
+        "wiki/concepts/university-industry-collaboration/Team Science.md",
         "wiki/theories/science-policy/Burden of Knowledge.md"
       ],
       "title": ""
@@ -136393,6 +136405,21 @@
       ],
       "title": ""
     },
+    "Manski, 1993": {
+      "aliases": [
+        "Manski, 1993",
+        "Manski (1993)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Manski, 1993"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+      ],
+      "title": ""
+    },
     "Mantzicopoulos, 1992a": {
       "aliases": [
         "Mantzicopoulos, 1992a",
@@ -138194,7 +138221,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
+        "wiki/concepts/science-policy/Peer Effects in Science.md"
       ],
       "title": ""
     },
@@ -142493,7 +142521,8 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
-        "wiki/concepts/science-policy/Goliath's Shadow.md"
+        "wiki/concepts/science-policy/Goliath's Shadow.md",
+        "wiki/concepts/science-policy/Peer Effects in Science.md"
       ],
       "title": ""
     },
@@ -154744,6 +154773,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/science-policy/Long-Term Public Utility.md"
+      ],
+      "title": ""
+    },
+    "Oettl, 2012": {
+      "aliases": [
+        "Oettl, 2012",
+        "Oettl (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Oettl, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
       ],
       "title": ""
     },
@@ -174938,7 +174982,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
+        "wiki/concepts/science-policy/Peer Effects in Science.md"
       ],
       "title": ""
     },
@@ -211726,7 +211771,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
+        "wiki/concepts/university-industry-collaboration/Team Science.md"
       ],
       "title": ""
     },

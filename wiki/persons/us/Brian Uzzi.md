@@ -69,7 +69,7 @@ updated: 2026-10-30
 ---
 
 > [!theoretical-contributions] 理论贡献与核心建树
-> - **现代科学团队霸权的确立** 依托对数千万篇论文与数百万件专利的跨半世纪实证追踪，证实团队生产模式在科学、工程、社会科学乃至专利发明中实现对个体独立模式的全面替代。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
+> - **现代科学团队霸权的确立** 依托对数千万篇学术成果与数百万件专利的跨半世纪实证追踪，证实团队生产模式在科学、工程、社会科学乃至专利发明中实现对个体独立模式的全面替代。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 85–86)]]
 > - **小世界网络与团队创造力机制** 建立[[Small-World Collaboration Model|小世界协作模型]]，阐明协作网络中的局域黏性与全局捷径如何非线性调控创意团队的表现，确立了适度小世界拓扑促进高水平创新的理论基石。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
 
 ---
