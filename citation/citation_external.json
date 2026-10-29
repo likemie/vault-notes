@@ -13936,6 +13936,7 @@
     "Lewis (1998)": "Lewis, 1998",
     "Lewis (2000)": "Lewis, 2000",
     "Lewis (2004)": "Lewis, 2004",
+    "Lewis (2005)": "Lewis, 2005",
     "Lewis (2006)": "Lewis, 2006",
     "Lewis (2015)": "Lewis, 2015",
     "Lewis et al. (2005)": "Lewis et al., 2005",
@@ -13944,6 +13945,7 @@
     "Lewis, 1998": "Lewis, 1998",
     "Lewis, 2000": "Lewis, 2000",
     "Lewis, 2004": "Lewis, 2004",
+    "Lewis, 2005": "Lewis, 2005",
     "Lewis, 2006": "Lewis, 2006",
     "Lewis, 2015": "Lewis, 2015",
     "Lewis-Beck (1993)": "Lewis-Beck, 1993",
@@ -128109,6 +128111,21 @@
       ],
       "title": ""
     },
+    "Lewis, 2005": {
+      "aliases": [
+        "Lewis, 2005",
+        "Lewis (2005)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lewis, 2005"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Engrenage.md"
+      ],
+      "title": ""
+    },
     "Lewis, 2006": {
       "aliases": [
         "Lewis, 2006",
@@ -147384,7 +147401,9 @@
         "Murray, 2010"
       ],
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/persons/australia/Philomena Murray.md"
+      ],
       "title": "Comparative Regional Integration in the EU and East Asia: Moving beyond Integration Snobbery"
     },
     "Murthy et al., 2012": {

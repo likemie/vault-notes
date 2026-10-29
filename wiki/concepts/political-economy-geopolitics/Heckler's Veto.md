@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -76,7 +76,7 @@ updated: 2026-10-22
 > [!concept-lens] 宪法权利与公共交往机制
 > 探讨行政当局若顺从反对者的抗议威胁，将如何系统性扭曲言论市场的竞争规则，并在制度上奖励极化抗争策略。
 
-> [!claim] [[Pauli Murray|Murray, P.]]
+> [!claim] [[Pauli Murray|Murray, A. P.]]
 > **宪法权利的不可剥夺性** 即使发声者的观点极具冒犯性且面临潜在暴力冲突，法律也必须保护其表达权，而不能允许第三方的抗议情绪演变为阻断公共表达的特权，否则言论自由将彻底沦为多数人或激进群体的附庸。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 58–59)]]
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]

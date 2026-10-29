@@ -3,7 +3,7 @@ title: Pauli Murray
 aliases:
   - 保利·默里
   - Anna Pauline Murray
-  - Murray, P.
+  - Murray, A. P.
 summary: "美国著名非裔民权活动家、法学家、女性主义先驱、首位非裔圣公会女牧师，全国妇女组织（NOW）联合创始人；以在1963年耶鲁信函中前瞻性批判“起哄者否决”并捍卫宪法言论自由原则著称。"
 type: person
 nationality: us
@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -79,7 +79,7 @@ updated: 2026-10-22
 > - **1960年代 — 宪法第一修正案与学术论辩[[Champ|场域]]捍卫** 将平权抗争置于严格的宪法法治框架内，坚信抵御种族主义的最佳武器是阳光下的理性辩驳而非行政审查。
 >   - **代表事件** 1963 年耶鲁华莱士演讲事件致信。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 58–59)]]
 >   - **关键概念／方法** [[Heckler's Veto]]、宪法权利不可减损性。
-> - **1970–1980年代 — 灵性追求与人权自传沉淀** 转向宗教神学与个人生命史书写，阐释信仰、正义与和解的深刻关系。
+> - **1970–1980年代 — 灵性追求与人权自传撰写** 转向宗教神学与个人生命史书写，阐释信仰、正义与和解的深刻关系。
 >   - **代表著作** *Song in a Weary Throat: Memoir of an American Pilgrimage* (1987)。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 59)]]
 
 ---

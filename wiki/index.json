@@ -12431,6 +12431,17 @@
     ]
   },
   {
+    "title": "Engrenage",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Engrenage.md",
+    "aliases": [
+      "齿轮啮合",
+      "齿轮效应",
+      "政策啮合",
+      "嵌合机制"
+    ]
+  },
+  {
     "title": "Epistemic Coloniality",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Epistemic Coloniality.md",
@@ -20679,6 +20690,17 @@
     ]
   },
   {
+    "title": "Comparative Regionalism",
+    "type": "theory",
+    "path": "wiki/theories/political-economy-geopolitics/Comparative Regionalism.md",
+    "aliases": [
+      "比较区域主义",
+      "比较区域主义理论",
+      "比较区域一体化",
+      "区域主义比较研究"
+    ]
+  },
+  {
     "title": "Concealment-Exposure Framework",
     "type": "theory",
     "path": "wiki/theories/political-economy-geopolitics/Concealment-Exposure Framework.md",
@@ -26387,6 +26409,15 @@
     ]
   },
   {
+    "title": "Philomena Murray",
+    "type": "person",
+    "path": "wiki/persons/australia/Philomena Murray.md",
+    "aliases": [
+      "Murray, P.",
+      "菲洛梅娜·默里"
+    ]
+  },
+  {
     "title": "Scott Eacott",
     "type": "person",
     "path": "wiki/persons/australia/Scott Eacott.md",
@@ -30992,7 +31023,7 @@
     "aliases": [
       "保利·默里",
       "Anna Pauline Murray",
-      "Murray, P."
+      "Murray, A. P."
     ]
   },
   {

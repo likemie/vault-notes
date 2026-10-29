@@ -11,7 +11,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,7 +25,9 @@ tags:
   - theme/governance
   - theme/eu-institutions
 related_concepts:
+  - "[[Engrenage]]"
   - "[[Paradigm]]"
+  - "[[Zone of Discretion]]"
   - "[[Constructivist Paradigm]]"
   - "[[Document]]"
   - "[[Institutional Mimesis]]"
@@ -42,6 +44,8 @@ related_facts:
   - "[[ASEAN]]"
   - "[[European Commission]]"
   - "[[Reach]]"
+  - "[[ASEAN Charter]]"
+  - "[[Committee of Permanent Representatives to ASEAN]]"
 related_arguments:
   - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
 confidence: high
@@ -83,7 +87,7 @@ updated: 2026-10-29
 >   《里斯本条约》取消支柱结构后，Coreper 继续作为理事会日常立法的把关中枢，与欧洲对外行动署（European External Action Service, EEAS）紧密协同。
 >
 >   - **2009** 《里斯本条约》第 240 条明确规定：“常驻代表委员会负责为理事会的工作做准备，并执行理事会委托的任务。”
->   - **2010** 与[[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN）[[Committee of Permanent Representatives to ASEAN|常驻代表委员会]]建立正式跨区域业务交流机制。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
+>   - **2010** 与[[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN）常驻代表委员会建立正式跨区域业务交流机制。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
 
 ---
 
@@ -94,7 +98,7 @@ updated: 2026-10-29
 > - **轮值主席国协调团队** 配合理事会轮值主席国的半年任期，主导议程设置、主持日常谈判并代表理事会与欧洲议会开展调解谈判。
 
 > [!pathways] 业务运行机制与协商文化
-> - **齿合机制（Engrenage）** 借用机械齿轮紧密咬合的隐喻，描述成员国国内政策诉求与欧盟超国家优先事项在布鲁塞尔多层官僚网络中相互嵌入并达成共识的深度制度化过程。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 531)]]
+> - **[[Engrenage|齿轮啮合]]机制（Engrenage）** 借用机械齿轮紧密咬合的隐喻，描述成员国国内政策诉求与欧盟超国家优先事项在布鲁塞尔多层官僚网络中相互嵌入并达成共识的深度制度化过程。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 531)]]
 > - **雅努斯双重忠诚（Dual Loyalty）** 常驻代表犹如罗马双面神雅努斯：一面忠于本国政府的委托授权，另一面忠于布鲁塞尔形成的寻求欧洲共同解法（communautaire consensus）的集体规范。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 531)]]
 > - **共识反射与妥协文化（Consensus Reflex & Culture of Compromise）** 建立在长期密切接触、高强度闭门马拉松会谈、深层信任与漫延式互惠基础上的非正式协商行为准则，促使各方优先寻求包容性共识，避免轻易动用孤立少数国家的简单多数表决。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 531)]]
 > - **议程分流过滤（A/B 议程机制）** 通过密集技术会商，将理事会议程严格划分为各方已达成一致、无需部长讨论即可直接盖章通过的 A 类议题，以及留待部长展开政治博弈的 B 类议题。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 531)]]
@@ -138,7 +142,7 @@ updated: 2026-10-29
 > > 批评该委员会长期推行闭门磋商与非公开议事，导致欧盟绝大多数法规由未经直选的外交技术官僚决定，存在民主赤字风险。
 > >
 > > - **批评视角（反方）** 学术界指出，Coreper 的谈判缺乏公开会议记录与立法听证，削弱了国家议会与欧洲公众对立法过程的实质监督，构成了超国家科层治理中的“黑箱”。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 531)]]
-> > - **机构与实务立场（正方）** 辩护者认为，非公开磋商为各国代表提供了免受国内政治极化干扰的裁量空间，是外交官打破狭隘国家立场、达成包容性妥协不可或缺的制度保护壳。
+> > - **机构与实务立场（正方）** 辩护者认为，非公开磋商为各国代表提供了免受国内政治极化干扰的[[Zone of Discretion|裁量空间]]，是外交官打破狭隘国家立场、达成包容性妥协不可或缺的制度保护壳。
 >
 > > [!axis] 雅努斯双重忠诚与主权代表性张力
 > > 围绕常驻代表究竟是成员国首都利益的忠实传声筒，还是已被布鲁塞尔氛围“欧洲化”并倒逼本国政府让步的超国家制度信徒展开辩论。
@@ -158,7 +162,7 @@ updated: 2026-10-29
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[EU]] | Fact (Organization) | Coreper 所属的超国家政治实体，Coreper 担任其理事会的常设预备中枢。 |
-> | [[ASEAN]] | Fact (Organization) | 依据《东盟宪章》设立常驻代表委员会（CPR）时将 Coreper 视作借鉴原型的区域组织。 |
+> | [[ASEAN]] | Fact (Organization) | 依据[[ASEAN Charter\|《东盟宪章》]]设立常驻代表委员会（[[Committee of Permanent Representatives to ASEAN\|CPR]]）时将 Coreper 视作借鉴原型的区域组织。 |
 > | [[Committee of Permanent Representatives to ASEAN]] | Fact (Organization) | 东南亚国家联盟依据《东盟宪章》直接模仿 Coreper 设立的大使级常设机构。 |
 > | [[ASEAN Charter]] | Fact (Policy) | 依据第 12 条正式创设并法定赋权 CPR 的东南亚国家联盟最高宪制文本。 |
 > | [[Institutional Mimesis]] | Concept | 揭示东盟常驻代表委员会机械复制欧盟 Coreper 外壳而缺乏内在履约机制的制度现象。 |

@@ -26,10 +26,13 @@ tags:
   - region/asia
 related_concepts:
   - "[[Institutional Mimesis]]"
+  - "[[Zone of Discretion]]"
   - "[[Champ]]"
   - "[[Paradigm Wars]]"
+  - "[[Engrenage]]"
   - "[[Paradigm]]"
 related_theories:
+  - "[[Comparative Regionalism]]"
   - "[[Institutional Isomorphism]]"
   - "[[Historical Institutionalism]]"
   - "[[Path Dependence]]"
@@ -42,7 +45,8 @@ related_facts:
   - "[[EU]]"
   - "[[Coreper]]"
   - "[[ASEAN]]"
-  - "[[Achieve]]"
+  - "[[Committee of Permanent Representatives to ASEAN]]"
+  - "[[ASEAN Charter]]"
 related_arguments: []
 sources:
   - "[[sources/Murray_Moxon-Browne_2013_JCMS|Murray_Moxon-Browne_2013_JCMS]]"
@@ -55,7 +59,7 @@ title: "Argument_Murray_Moxon-Browne_2013_JCMS"
 argument_key: "Argument_Murray_Moxon-Browne_2013_JCMS"
 argument_display_title: "The European Union as a template for regional integration? The case of ASEAN and its Committee of Permanent Representatives"
 argument_kind: "journal-article"
-argument_related_count: 13
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -68,18 +72,19 @@ journal: "JCMS: Journal of Common Market Studies"
 > 区域一体化中的[[Institutional Mimesis|制度拟态]]能否跨越主权边界？[[EU|欧洲联盟]]（European Union, EU）以[[Coreper|常驻代表委员会]]（Comité des Représentants Permanents, Coreper）为标志的深度协商与超国家决策模式，能否通过机构形式的直接借用，成为[[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN）推进一体化的有效模板？
 
 > [!claim] 核心主张
-> [[Institutional Mimesis|制度拟态]]能够帮助东盟借助欧盟的名分与外在架构展现一体化雄心，却无法通过机械模仿移植欧盟以主权让渡、超国家法律约束与长期官僚社会化为支撑的共识决策模式。东盟的一体化探索受制于不干预原则与政府间主义传统，必须在追求远大抱负与契合本土现实的裁量空间中，探索以渐进社会化和对外协调为特征的自主制度路径。
+> [[Institutional Mimesis|制度拟态]]能够帮助东盟借助欧盟的名分与外在架构展现一体化雄心，却无法通过机械模仿移植欧盟以主权让渡、超国家法律约束与长期官僚社会化为支撑的共识决策模式。东盟的一体化探索受制于不干预原则与政府间主义传统，必须在追求远大抱负与契合本土现实的[[Zone of Discretion|裁量空间]]中，探索以渐进社会化和对外协调为特征的自主制度路径。
 
 > [!concept-lens] 阅读透镜
-> - **对象** [[Coreper|欧盟常驻代表委员会]]与[[Committee of Permanent Representatives to ASEAN|东盟常驻代表委员会]]（Committee of Permanent Representatives, CPR）的组织架构、决策规程、常驻使团规模与法案审议产出。
+> - **对象** 欧盟常驻代表委员会与[[Committee of Permanent Representatives to ASEAN|东盟常驻代表委员会]]（Committee of Permanent Representatives, CPR）的组织架构、决策规程、常驻使团规模与法案审议产出。
 > - **张力** 制度形式的跨区域同构拟态与底层主权规范（超国家约束 vs. 绝对不干预原则）之间的深层脱节。
-> - **贡献** 突破宏观地区主义关于欧洲经验普适论与东亚绝对特殊论的二元对立，开辟微观委员会层面的比较分析路径，提出评估区域制度移植限度的裁量空间分析视角。
+> - **贡献** 突破宏观地区主义关于欧洲经验普适论与东亚绝对特殊论的二元对立，开辟微观委员会层面的比较分析路径，提出评估区域制度移植限度的[[Zone of Discretion|裁量空间]]分析视角。
 
 ---
 
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
+> | **比较区域主义**<br>[[Comparative Regionalism]] | 克服以欧洲联盟为唯一样板的欧洲中心主义二元论，通过跨区域多维制度与规范比较解释一体化治理的多样化路径。 |
 > | **制度拟态**<br>[[Institutional Mimesis]] | 解释发展中区域组织为克服治理赤字、应对合法性危机，主动借用成熟一体化模板的组织架构与概念标签的能动过程。 |
 > | **制度同构理论**<br>[[Institutional Isomorphism]] | 揭示组织[[Champ\|场域]]内面对不确定性时产生的模仿型同构冲动，以及制度表层采纳与实际执行之间的制度脱耦现象。 |
 > | **比较政策分析**<br>[[Comparative Policy Analysis]] | 提供跨区域多维制度功能比对架构，系统解构两大委员会在权力授权、议程控制、谈判网络与资源配备上的异同。 |
@@ -93,14 +98,14 @@ journal: "JCMS: Journal of Common Market Studies"
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **文本与条约分析** | 深入研读[[ASEAN Charter|《东盟宪章》]]（2008 年）、《里斯本条约》（2009）、历届东盟首脑声明、东盟年度报告以及常驻代表委员会官方业务纪要。 |
+> | **文本与条约分析** | 深入研读[[ASEAN Charter\|《东盟宪章》]]（2008 年）、《里斯本条约》（2009）、历届东盟首脑声明、东盟年度报告以及常驻代表委员会官方业务纪要。 |
 > | **跨区域比较案例研究**<br>[[Comparative Policy Analysis]] | 构建涵盖法律约束力、决策程序、人员编制规模、非正式协商文化与外部协调职能的多维比较框架，对 Coreper 与 CPR 开展微观对照。 |
 > | **决策者访谈与经验追踪** | 采信前东盟秘书长王景荣（Ong Keng Yong）等核心决策者的权威访谈记录（Jetschke & Murray, 2012），结合布鲁塞尔与雅加达多轮跨机构互访的外交纪实展开互证。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **核心文本** | [[ASEAN Charter|《东盟宪章》]]（重点审查第 12 条）、《东南亚友好合作条约》（Treaty of Amity and Cooperation in Southeast Asia, TAC）、《马斯特里赫特条约》、《里斯本条约》（第 240 条）。 |
+> | **核心文本** | [[ASEAN Charter\|《东盟宪章》]]（重点审查第 12 条）、《东南亚友好合作条约》（Treaty of Amity and Cooperation in Southeast Asia, TAC）、《马斯特里赫特条约》、《里斯本条约》（第 240 条）。 |
 > | **官方报告** | 东盟名人小组报告（ASEAN Eminent Persons Group, 2007）、东盟经济共同体记分牌（2010）、《东盟共同体统计数据 2010》、东盟年度工作报告（2010–2012）。 |
 > | **外交实践材料** | 2010 年 4 月东盟常驻代表委员会因冰岛火山灰延期访欧纪实、2011–2012 年东盟加三 CPR 会议通报、东盟常驻使团双边外事记录。 |
 
@@ -135,7 +140,7 @@ journal: "JCMS: Journal of Common Market Studies"
 > - **欧洲经验普适论（蓝方）** 将新功能主义、超国家法治与主权让渡视作衡量全球所有区域项目的单一黄金标准，陷入一体化优越感（integration snobbery, Murray, 2010）。
 > - **新地区主义多元论（红方）** 强调非欧洲地区独特的政经与历史现实，主张打破一刀切模板，承认多样化区域治理形态的内在合法性（Acharya & Johnston, 2007; Warleigh-Lack & Rosamond, 2010）。
 
-> [!critique] 比较地区主义对欧洲中心主义标杆的反思
+> [!critique] [[Comparative Regionalism|比较区域主义]]对欧洲中心主义标杆的反思
 > - **破除单一黄金标准** 传统理论将布鲁塞尔超国家模式普遍化，新地区主义指出盲目推崇欧洲经验会忽视非欧洲地区截然不同的一体化驱动力与主权关切。
 > - **聚焦微观功能运转** 跨区域比较应从宏观宪制叙事转向微观决策实体，审视委员会层面的实质运转方式与规范约束。
 
@@ -170,13 +175,13 @@ journal: "JCMS: Journal of Common Market Studies"
 ---
 
 > [!claim] 论证步骤三　常驻代表机构无法通过机械模仿跨越履约机制与协商文化的鸿沟
-> 东盟依据[[ASEAN Charter|《东盟宪章》]]第 12 条直接模仿欧盟 Coreper 设立[[Committee of Permanent Representatives to ASEAN|常驻代表委员会]]，但二者在法律裁决权、编制规模、议事产出与协商文化上存在本质差异；单凭制度拟态难以形成布鲁塞尔历经数十年演进的齿合机制与深层信任。
+> 东盟依据[[ASEAN Charter|《东盟宪章》]]第 12 条直接模仿欧盟 Coreper 设立常驻代表委员会，但二者在法律裁决权、编制规模、议事产出与协商文化上存在本质差异；单凭制度拟态难以形成布鲁塞尔历经数十年演进的[[Engrenage|齿轮啮合]]机制与深层信任。
 
-#### 1. 欧盟常驻代表委员会的成功植根于深层信任、妥协文化与齿合机制
+#### 1. 欧盟常驻代表委员会的成功植根于深层信任、妥协文化与齿轮啮合机制
 
 > [!feature] 欧盟 Coreper 协商运行的核心支柱
 > - **严密的科层铺垫网络** 依托约 300 个常设技术工作组对委员会草案进行逐条审查，分流为无需部长辩论直接通过的 A 类事项与需部长谈判的 B 类事项，极大提高了理事会立法运转效能。
-> - **齿合机制与深层信任** 杰弗里·刘易斯（Jeffrey Lewis）等学者的实证研究表明（Lewis, 1998, 2002, 2005），Coreper 大使在长期高强度工作中建立了深层信任、漫延式互惠与共识反射，将各国政策偏好与欧洲共同利益紧密咬合在一起。
+> - **[[Engrenage|齿轮啮合]]机制与深层信任** 杰弗里·刘易斯（Jeffrey Lewis）等学者的实证研究表明（Lewis, 1998, 2002, 2005），Coreper 大使在长期高强度工作中建立了深层信任、漫延式互惠与共识反射，将各国政策偏好与欧洲共同利益紧密咬合在一起。
 > - **雅努斯的双重忠诚** 常驻代表犹如面向两个方向的罗马双面神雅努斯：一面维护本国政府的委托授权，另一面自觉致力于达成共同体妥协；非正式社交网络进一步巩固了这一集体文化。
 > - **庞大的专业外交后盾** 欧洲主要成员国派驻布鲁塞尔的常驻代表团拥有数十乃至数百名部委专业人员，直接参与共同决策程序中与欧洲议会的三方谈判。
 
@@ -236,10 +241,10 @@ journal: "JCMS: Journal of Common Market Studies"
 > [!citation-card] 制度拟态的复制限度
 > 若东盟试图通过制度拟态走捷径，无法保证这种模仿能够取得成效；形式的直接移植并不意味着能够自动获得支撑该机制有效运转的政治意愿与规范土壤。
 >
-> *Thus if ASEAN attempts a quick fix by a process of what might be termed 'institutional mimesis' there is no guarantee that it will succeed. Neither is it to be assumed that this is what the CPR wishes to [[Achieve|achieve]].*
+> *Thus if ASEAN attempts a quick fix by a process of what might be termed 'institutional mimesis' there is no guarantee that it will succeed. Neither is it to be assumed that this is what the CPR wishes to achieve.*
 
-> [!citation-card] 齿合协商与双重忠诚
-> 齿合（法文 engrenage，原指齿轮咬合运转）精准刻画了欧盟与成员国政策偏好在常驻代表委员会中的独特融合；委员会成员在对本国政府的代表责任与寻求共同体共识的承诺之间承受着双重忠诚。
+> [!citation-card] [[Engrenage|齿轮啮合]]协商与双重忠诚
+> 齿轮啮合（法文 [[Engrenage|engrenage]]，原指齿轮咬合运转）精准刻画了欧盟与成员国政策偏好在常驻代表委员会中的独特融合；委员会成员在对本国政府的代表责任与寻求共同体共识的承诺之间承受着双重忠诚。
 >
 > *The French word 'engrenage' (normally used to describe the engagement of cogwheels in an engine) provides an apt metaphor for the unique blending of EU and national policy preferences in which Coreper plays a key role... Coreper members see themselves as bound by a 'dual loyalty'.*
 

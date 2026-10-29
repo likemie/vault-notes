@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Chou_2017_PolSoc",
+      "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md"
+    },
+    {
+      "basename": "Erasmus Programme",
+      "path": "wiki/facts/eu/Erasmus Programme.md"
+    },
+    {
+      "basename": "Argument_Grek_2024_EERJ",
+      "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md"
+    },
+    {
       "basename": "Argument_Murray_Moxon-Browne_2013_JCMS",
       "path": "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "Argument_Stone_2020_PolSoc",
       "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
-    },
-    {
-      "basename": "Argument_Grek_2024_EERJ",
-      "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Grek_2024_EERJ.md"
     },
     {
       "basename": "template-fact-eef-programme",
@@ -191,14 +199,6 @@
     {
       "basename": "António Nóvoa",
       "path": "wiki/persons/portugal/António Nóvoa.md"
-    },
-    {
-      "basename": "Whole Person Education",
-      "path": "wiki/concepts/educational-philosophy/Whole Person Education.md"
-    },
-    {
-      "basename": "Argument_Bangs_2022_PerspectivesOnResearch",
-      "path": "wiki/arguments/books/Revai(Ed.)_2022_OECD/Argument_Bangs_2022_PerspectivesOnResearch.md"
     }
   ],
   "omittedPaths": [],
