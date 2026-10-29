@@ -59,6 +59,7 @@ related_theories:
   - "[[Constant-Probability-of-Success Model]]"
 related_methods:
   - "[[Career Shuffling Method]]"
+  - "[[Drop-pin Projection]]"
   - "[[Ordinary Least Squares]]"
 related_instruments: []
 related_persons:
@@ -69,6 +70,8 @@ related_persons:
   - "[[Kenneth G. Wilson]]"
   - "[[Dean Keith Simonton]]"
   - "[[John B. Fenn]]"
+  - "[[David Galenson]]"
+  - "[[Harvey C. Lehman]]"
 related_facts:
   - "[[National Institutes of Health]]"
 related_arguments: []
@@ -168,7 +171,7 @@ updated: 2026-10-30
 >
 > - **黄金突破与中年峰值聚集（30–40 岁）**
 >
->   跨学科经验数据展现出高度稳健的倒 U 型轨迹（Beard, 1874; Lehman, 1953）。20 世纪全量诺贝尔奖得主与大发明家档案揭示，42% 的重大成就诞生于 30 至 39 岁，30% 诞生于 40 至 49 岁，14% 诞生于 50 岁以上（Jones, 2010, pp. 40–41; 图 4-2）。诺奖得主名录与工业发明家名录两个独立数据源重合度仅 7%，但其年龄分布曲线高度重叠。
+>   跨学科经验数据展现出高度稳健的倒 U 型轨迹（Beard, 1874; [[Harvey C. Lehman|Lehman]], 1953）。20 世纪全量诺贝尔奖得主与大发明家档案揭示，42% 的重大成就诞生于 30 至 39 岁，30% 诞生于 40 至 49 岁，14% 诞生于 50 岁以上（Jones, 2010, pp. 40–41; 图 4-2）。诺奖得主名录与工业发明家名录两个独立数据源重合度仅 7%，但其年龄分布曲线高度重叠。
 >
 > - **体制职责分流与退休冲刺（50 岁及以后）**
 >
@@ -217,7 +220,7 @@ updated: 2026-10-30
 ---
 
 > [!sub-claim] 4. 理论学者凭抽象推理年少成名，实验学者靠经验积累大器晚成
-> 学科刻板印象无法解释创新时序的广泛方差，科学工作的内在[[Epistemology|认识论]]性质分化出概念演绎型与实验经验型两类创新者，形塑了相差二十年的学术巅峰鸿沟（Jones, 2010, pp. 46–49; 图 4-4, 图 4-5）。
+> 学科刻板印象无法解释创新时序的广泛方差，科学工作的内在[[Epistemology|认识论]]性质由[[David Galenson|戴维·加伦森]]（David Galenson）界定为概念演绎型与实验经验型两类创新者，形塑了相差二十年的学术巅峰鸿沟（Jones, 2010, pp. 46–49; 图 4-4, 图 4-5）。
 
 > [!contrast-table] 概念型与实验型创新者的多维对照
 > | 比较维度 | [[Conceptual Innovators\|概念型创新者]]（早熟演绎型） | [[Experimental Innovators\|实验型创新者]]（大器晚成归纳型） |
