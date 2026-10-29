@@ -19,13 +19,16 @@ tags:
   - theme/science-policy
   - theme/economics-of-science
   - theory/innovation
-related_concepts: []
+related_concepts:
+  - "[[Team Science]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Benjamin F. Jones]]"
 related_facts: []
 related_arguments:
+  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
 confidence: high
@@ -85,7 +88,7 @@ updated: 2026-10-30
 > [!theory-proposition] 命题三｜知识负担加重促使个体分工极度窄化并倒逼团队协作
 > **解释** 当个体面对指数扩张的知识存量无法在单一生涯内穷尽相邻领域的工具与理论时，科学家与发明家普遍采取深度专业化策略以快速抵达前沿，从而导致科学界“通才的消亡”（death of the renaissance man）。对独立发明人连续专利申请大数据的实证表明，个体发明人日益局限在单一技术门类内部，向无关新领域拓展的能力持续衰退。知识负担加剧使得单枪匹马跨界攀爬变得难以承受，迫使学者转向团队合作，通过整合异质分工拼图来攻克复杂科学挑战。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–89)]]
 >
-> **应用实例** 现代微观专利申请与自然科学前沿大科学装置（如 CERN 大型强子对撞机、引力波探测 LIGO 实验）研究中，单篇成果署名作者数动辄达数百甚至上千人，反映出跨学科团队分摊个体知识攀爬成本的制度必然性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 81–83, 88–89)]]
+> **应用实例** 现代微观专利申请与自然科学前沿大科学装置（如 CERN 大型强子对撞机、引力波探测 LIGO 实验）研究中，单篇成果署名学者数动辄达数百甚至上千人，反映出跨学科团队分摊个体知识攀爬成本的制度必然性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 81–83, 88–89)]]
 
 ---
 
@@ -129,4 +132,4 @@ updated: 2026-10-30
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 梳理 20 世纪诺贝尔奖得主与发明家年龄右移数据，系统验证知识负担理论对科研巅峰后移与有效窗口挤压的解释力。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 结合跨世纪诺贝尔奖得主与发明家年龄右移（[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|第 2 单元]]）及跨领域创新能力萎缩与团队协作兴起（[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|第 4 单元]]），系统阐释知识负担理论的解释力。

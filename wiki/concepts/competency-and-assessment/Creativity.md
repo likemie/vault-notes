@@ -127,7 +127,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -138,14 +138,14 @@ updated: 2026-10-29
 > [!concept-lens] 概念透镜
 > - **含义** 指向生成原创且具有现实应用价值成果的复杂心理机制、行为表现及制度化探索能力。
 > - **用途** 评估个体认知与潜能发展、优化课堂教学干预与思维训练课程，为[[Creativity Assessment|创造力测评]]提供[[Ontology|本体论]]与认知[[Construct|构念]]基础；在政策层面用于诊断学术评价机制对颠覆性探索的激励或抑制；在技术文明层面辨析从 0 到 1 的原真突破与浅层商业拼贴。
-> - **边界** 创造力不等于缺乏适切性与可行性的纯粹幻想，不等于常规智力测验表现，不等于成熟[[Paradigm|范式]]内的增量论文切香肠，更不等于将消除日常微观琐事过度包装为颠覆性创新的商业派生品。
+> - **边界** 创造力不等于缺乏适切性与可行性的纯粹幻想，不等于常规智力测验表现，不等于成熟[[Paradigm|范式]]内的碎化发表，更不等于将消除日常微观琐事过度包装为颠覆性创新的商业派生品。
 
-> [!citation-card] 关键表述：创造力的双重[[Variable|变量]]定位与可塑性
+> [!citation-card] Runco 与郭等论创造力的双重[[Variable|变量]]定位与可塑性
 > 这一区分反映了这样一个事实：有时创造力被定义为一种结果或产物，并在分析中作为效标，以其他变量作为预测指标；而在其他时候，研究将创造力作为[[Independent Variable|预测变量]]，去预测健康、问题解决或学业成功等其他结果。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]
 >
 > *The distinction reflects the fact that sometimes creativity is defined as an outcome or result and used in analyses as the criterion, with other variables used as predictors... Other times the research has used creativity as a predictor and there are other outcomes (e.g., health or problem solving or academic success)...*
 >
-> 总体而言，结果显示训练项目对大学生的创造力具有中等但在统计上显著的影响（Hedges' $g = 0.628$）。这些发现为教育工作者和政策制定者在制定旨在培养学生创造力的课程和干预措施时提供了宝贵见解。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 1)]]
+> 总体而言，结果显示训练项目对大学生的创造力具有中等但在统计上显著的影响（Hedges' $g = 0.628$）。这些发现为教育实践者和政策制定者在制定旨在培养学生创造力的课程和干预措施时提供了宝贵见解。[[Argument_Guo_2025_TSC|(Guo et al., 2025, p. 1)]]
 
 > [!citation-card] 科学创造力的生命周期规律与体制性风险规避
 > 创新经济学与科学学研究表明，科学家取得颠覆性突破的‘大想法（Great Ideas）’与诺贝尔奖级发现的高峰期，普遍集中在其 20 岁末至 30 岁中期的早年阶段（Jones, 2010）。然而，当代学术评价体系中泛滥的增量发表指标、极低的基金资助率与共识型同行评议，迫使最具创造力的年轻学者陷入严重的‘学术风险规避（[[Academic Risk Aversion]]）’，将精力耗费在迎合主流范式的切香肠式平庸研究中。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]
@@ -157,11 +157,17 @@ updated: 2026-10-29
 >
 > *The artist Jean-Michel Basquiat, whose paintings in the 1980s demanded that the boundaries of what could be considered high art be redrawn... So much of what made his paintings original, however, would later be repurposed and recycled, almost endlessly, by a culture ravenous for even hints of the novel... There was some real art being created, some Basquiats refining their craft. But most of the companies were lifeless and derivative works.*
 
+> [!citation-card] 王大顺与巴拉巴西论协作网络拓扑对团队创造力的倒 U 形法则
+> 团队科学与艺术创作的实证表明，合作网络拓扑对集体创造力具有决定性影响。由小世界商数 $W$ 测度的小世界网络特征与团队创造力及绩效呈现典型的倒 U 形曲线：当 $W$ 过低时，网络割裂且缺乏凝聚力，异质构想难以流动融合；当 $W$ 过高时，所有团队陷入重叠度过高的同质化小圈子，形成认知回音室并扼杀原创突破；唯有在中等小世界网络拓扑下，团队才能在保障高效沟通信任的同时吸收跨集群的异质思想，最大化释放协同创造潜能。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
+>
+> *The small-world topology of collaboration networks facilitates creative success up to a point, after which hyper-cohesiveness stifles novelty and locks teams into cognitive echo chambers.*
+
 > [!boundary]- 概念边界
 > - 不等于 [[Divergent Thinking|发散思维]]：发散思维侧重于构想生成阶段的流畅与灵活性，创造力则涵盖[[Problem Finding|问题发现]]、评价选择与产品实现的完整系统。
 > - 不等于 创新（Innovation）：创造力侧重于新颖适切构想的生成，创新侧重于构想在组织、市场或社会实践中的应用、推广与价值转化。
-> - 不等于 [[Document|文献]]发表数量（Publication Volume）：在学术建制中，论文发表数量高并不等同于高创造力；切香肠式增量发表往往反映的是规避风险的常规劳动，而非开辟新领域的突破性创造力。
-> - 不等于 衍生性商业拼贴（Derivative Pastiche）：对既有成熟技术或通信协议的表面重组、界面换皮与商业分销套利，无法等同于推动文明边界跃升的原真创造力。
+> - 不等于 [[Document|文献]]发表数量（Publication Volume）：在学术建制中，论著发表数量高并不等同于高创造力；切香肠式增量发表往往反映的是规避风险的常规劳动，而非开辟新领域的突破性创造力。
+> - 不等于 衍生性商业拼贴（Derivative Pastiche）：对既有成熟技术或通信协议的表面重组、界面换皮与商业分销套利，无法等同于推动文明边界拓展的原真创造力。
+> - 区别于 单兵作战个体创造力：团队创造力依赖合著网络拓扑与多学科异质思想重组，受制于小世界网络结构中的群聚与捷径平衡。
 
 ---
 
@@ -176,23 +182,24 @@ updated: 2026-10-29
 
 > [!feature] 核心要素
 > - **创造者（Person）** 探讨创造者的认知能力、人格特质（如经验[[Open-Mindedness|开放性]]、精神质）、动机状态（内在动机）与生命周期创造力峰值（20–30 岁早年黄金期）。
-> - **创造过程（Process）** 探讨[[Problem Finding|问题发现]]、[[Divergent Thinking|发散思维]]、顿悟、酝酿与收敛评估等内在认知加工阶段，以及 AI 假设生成与物理实验[[Falsification|证伪]]的协同。
+> - **创造过程（Process）** 探讨[[Problem Finding|问题发现]]、[[Divergent Thinking|发散思维]]、顿悟、酝酿与批判性评估等内在认知加工阶段，以及 AI 假设生成与物理实验[[Falsification|证伪]]的协同。
 > - **创造产品（Product）** 探讨最终产出的作品、观念、专利、科学定律或技术原型在特定领域的颠覆性与实用价值。
 > - **创造环境（Press / Environment）** 探讨物理空间、组织气候、同行评议机制、科研资助生态对高风险探索的包容或压制。
+> - **团队协作网络拓扑与集体创造力（Collaboration Network Topology & Collective Creativity）** 团队创造力不仅取决于成员个体的认知潜能，更受制于合作网络的宏观拓扑结构。以小世界商数 $W$ 表征的[[Small-World Collaboration Model|小世界协作网络]]通过局部群聚与全局捷径的拓扑张力调节异质思维输入，适度小世界网络构成了激发突破性团队创新的最佳结构基底。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
 > - **创造力作为[[Epistemic Virtues and Vices|理智美德]]（Creativity as an Intellectual Virtue）** 结合[[Virtue Epistemology|德性认识论]]框架，创造力不仅表现为外显的发散思维技能，更是深层的理智美德，由**动机成分**与**技能成分**双重构成，并依赖于将新构想与个体独特的具身体验、个人叙事及多领域经验图式深度交织。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 270, 277–278)]]
 > - **原真性与超越衍生性（Authentic Originality vs Derivative Pastiche）** 真正的颠覆性创造力如同巴斯奎特（Basquiat）开创涂鸦艺术，要求打破旧有[[Paradigm|范式]]并重新划定人类认知边界；而在无差别商业投机与消费主义规训下，创造力极易退化为对既有通信协议的浅层排列组合与无生命衍生作品。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 > - **反从众与[[Social Deafness|社交失聪]]（Counter-Conformity & Social Deafness）** 颠覆性创造力在微观心理上要求个体具备抵抗群体一致性从众压力的认知绝缘性，如莫奈因白内障促成抽象表现主义、贝多芬因耳聋开创新声响世界一般，保持对世俗舆论与同侪非难的钝感。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 137–138)]]
 > - **从无到有的创造傲慢与抵抗性张力（Hubris of Creation & Creative Friction）** 突破性创造要求从认知幼年的模仿中决裂，具备坚信既有方案不足的创造傲慢，并依赖抵抗性师生碰撞与组织创造性摩擦冲破平庸合群的牢笼。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–159)]]
-> - **自愿自我约束与长周期托管（The Odysseus Constraint & Long-term Stewardship）** 真正的长周期创造力并非随波逐流的随意调头灵活性，而是如奥德修斯自缚船桅以抗拒塞壬诱惑一般，通过对单一愿景的执着承诺与自愿限制选择空间，抵御外界与资本市场的短期噪音；同时结合面向数十年乃至数百年的长程资产托管哲学，为前沿突破提供持久支撑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 208–209, 212)]]
+> - **自愿自我约束与长周期托管（The Odysseus Constraint & Long-term Stewardship）** 长周期创造力体现为主动拒绝随波逐流的随意调头灵活性，正如奥德修斯自缚船桅以抗拒塞壬诱惑一般，通过对单一愿景的执着承诺与自愿限制选择空间，抵御外界与资本市场的短期噪音；同时结合面向数十年乃至数百年的长程资产托管哲学，为前沿突破提供持久支撑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 208–209, 212)]]
 
 > [!logic-map]- 要素关系与制度激励拓扑
 > ```mermaid
 > flowchart LR
 >     A["创造者 (Person)<br>（生命周期峰值/内在动机/社交失聪）"] --> E["创造产物与突破 (Product)"]
->     B["创造过程 (Process)<br>（发散构想/收敛验证/建设性不服从）"] --> E
+>     B["创造过程 (Process)<br>（发散构想/批判验证/建设性不服从）"] --> E
 >     C["创造环境 (Press)<br>（同行评议/非共识资助/组织包容度）"] --> B
 >     C --> A
->     E --> F["科学范式跃迁 / 技术突破 / 终身发展"]
+>     E --> F["科学范式更迭 / 技术突破 / 终身发展"]
 > ```
 
 ---
@@ -223,20 +230,20 @@ updated: 2026-10-29
 
 ---
 
-> [!concept-proposition] 命题三｜[[Generative Artificial Intelligence|生成式人工智能]]作为发散性构想伙伴能显著拓展创意空间，但其有效性受制于文风均质化与探索过早收敛风险
+> [!concept-proposition] 命题三｜[[Generative Artificial Intelligence|生成式人工智能]]作为发散性构想伙伴能显著拓展创意空间，但其有效性受制于文风均质化与探索过早定型风险
 > **探讨维度　[[Man-Computer Symbiosis|人机协同]]中的发散生成与独创性侵蚀张力** 考察生成式 AI 在[[Brainstorming|头脑风暴]]与开放探究中如何打破认知定势，以及非结构化依赖如何抑制深层创意的诞生。
 
 > [!claim] Li et al.
-> **ChatGPT 对创造性思维的赋能维度与局限机制** 对高等教育实证研究的[[Systematic Review|系统综述]]表明，ChatGPT 作为发散性认知中介展现出强大的创意激发潜能：能有效拓展构想空间并打破头脑风暴僵局，提供多模态结构支架，并促进跨学科视角转换。然而，在缺乏[[Reflexivity|反思性]]规制的自由使用中，模型基于统计概率生成的输出极易导致文风均质化、探索停滞与过早收敛，以及个体独特学术声音的湮没。唯有将 AI 定位于启发式初稿探索，并强制要求学生进行批判性改写与个体化经验注入，才能实现真正的高质量创造。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 7–8, 11)]]
+> **ChatGPT 对创造性思维的赋能维度与局限机制** 对高等教育实证研究的[[Systematic Review|系统综述]]表明，ChatGPT 作为发散性认知中介展现出强大的创意激发潜能：能有效拓展构想空间并打破头脑风暴僵局，提供多模态结构支架，并促进跨学科视角转换。然而，在缺乏[[Reflexivity|反思性]]规制的自由使用中，模型基于统计概率生成的输出极易导致文风均质化、探索停滞与过早定型，以及个体独特学术声音的湮没。唯有将 AI 定位于启发式初稿探索，并强制要求学生进行批判性改写与个体化经验注入，才能实现真正的高质量创造。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 7–8, 11)]]
 
 > [!claim] Urban et al.; Monib et al.
-> **创意构想发散与个人叙事声音稀释的实证确证** Urban et al. (2024) 发现 ChatGPT 显著提升了学生在设计任务中的构想流畅度与灵活性，但生成的方案独创性呈现向主流统计均值收敛的倾向；Monib et al. (2025) 针对留学生写作的研究进一步证实，无节制的 AI 润色会系统性抹平作者的原生文化叙事与个体声音，造成创意的表面光滑与实质平庸。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 8, 11)]]
+> **创意构想发散与个人叙事声音稀释的实证确证** Urban et al. (2024) 发现 ChatGPT 显著提升了学生在设计任务中的构想流畅度与灵活性，但生成的方案独创性呈现向主流统计均值靠拢的倾向；Monib et al. (2025) 针对留学生写作的研究进一步证实，无节制的 AI 润色会系统性抹平撰写者的原生文化叙事与个体声音，造成创意的表面光滑与实质平庸。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 8, 11)]]
 
 > [!claim] Zhao et al.
 > **生成式 AI 对创造力促进相对有限与内容同质化瓶颈** 一阶[[Meta-analysis|元分析]]证实，生成式 AI 对学生创造力与创造性思维的促进效应呈现中等偏小幅度，不仅显著落后于程序性[[Problem Solving|问题解决能力]]与批判性思维，而且在三大高阶认知维度中处于末位。创造力本质上要求打破常规、提出独特的创新构想；然而大语言模型本质上是根据训练数据生成概率最高的文本，其输出天然倾向于中规中矩的“大众平均水平”与常规套路。当学生缺乏[[Self-Regulated Learning|自主调节学习]]能力与显性反思支架时，极易走捷径直接套用 AI 给出的现成方案，导致产出千篇一律，难以形成真正的突破性创意。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–11, 13–15)]]
 
 > [!claim] Naeem; Doshi & Hauser
-> **群体多样性萎缩与[[Creative Deskilling|创造力去技能化]]防范：[[Counterfactual|反事实]]探究与经验图式交织** 针对生成式 AI 介入对创造力的深层影响，实证研究（Doshi & Hauser, 2024）表明，尽管 AI 能在微观个体层面提升低能力写作者的故事吸引力与构想丰富度，但在宏观群体层面却显著降低了集体叙事的多样性，导致作品在情节逻辑与意象隐喻上高度趋同。[[Argument_Naeem_2026_Episteme|Naeem (2026)]] 进一步指出，当学习者过度依赖 AI 直接产出创意方案时，将引发“创造力[[Cognitive Deskilling|去技能化]]（Creative Deskilling）”危机——弱化自主远距离联想、反事实思维与深层构想生成的能力。为化解此风险，需依托[[Socrates|苏格拉底]]式提问[[AI Agent in Education|智能体]]（如 Q-Tutor）实施“假若（What-if）”反事实与跨视角探究支架（例如“假如重力减弱城市建筑会怎样变化”、“若轮子从未被发明古代贸易如何演进”、“从蝴蝶视角审视城市废墟”），并通过强制拦截直接答案、引导学生调动个人独特经验图式（如结合音乐声学或空间模型），将 AI 转化为美德与技能训练的[[Scaffolding|脚手架]]，实现创造力美德在人机协同中的深度激活。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 272–273, 277–278)]]
+> **群体多样性萎缩与[[Creative Deskilling|创造力去技能化]]防范：[[Counterfactual|反事实]]探究与经验图式交织** 针对生成式 AI 介入对创造力的深层影响，实证研究（Doshi & Hauser, 2024）表明，尽管 AI 能在微观个体层面提升低表达能力学生的叙事吸引力与构想丰富度，但在宏观群体层面却显著降低了集体叙事的多样性，导致作品在情节逻辑与意象隐喻上高度趋同。[[Argument_Naeem_2026_Episteme|Naeem (2026)]] 进一步指出，当学习者过度依赖 AI 直接产出创意方案时，将引发“创造力[[Cognitive Deskilling|去技能化]]（Creative Deskilling）”危机——弱化自主远距离联想、反事实思维与深层构想生成的能力。为化解此风险，需依托[[Socrates|苏格拉底]]式提问[[AI Agent in Education|智能体]]（如 Q-Tutor）实施“假若（What-if）”反事实与跨视角探究支架（例如“假如重力减弱城市建筑会怎样变化”、“若轮子从未被发明古代贸易如何演进”、“从蝴蝶视角审视城市废墟”），并通过强制拦截直接答案、引导学生调动个人独特经验图式（如结合音乐声学或空间模型），将 AI 转化为美德与技能训练的[[Scaffolding|脚手架]]，实现创造力美德在人机协同中的深度激活。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 272–273, 277–278)]]
 
 ---
 
@@ -244,7 +251,7 @@ updated: 2026-10-29
 > **探讨维度　科学学、创新经济学与科研制度激励维度** 探讨个体科研人员在生命周期各阶段的创造力演变规律，以及现行科研评价体制对高风险、高方差颠覆性创造力的抑制机制。
 
 > [!claim] Jones; Chu & Evans; Kratsios
-> **生命周期创造力窗口与学术风险规避的制度破除** 创新经济学与[[Bibliometric Analysis|科学计量学]]研究证实，基础科学领域的重大颠覆性发现与诺贝尔奖级原创成果主要由科学家在 30 岁上下的早年阶段完成（Jones, 2010）。然而，当代学术评价体制日益被“微小增量（[[Salami Publishing|Salami Slicing]]）”与“共识型同行评议（Consensus-seeking Peer Review）”所绑架。由于低资助率（低于 20%）和论文引用量考核，年轻学者在最具创造力的峰值期被迫规避高风险颠覆性假说，转向迎合[[Star Scientists|明星科学家]]主导的既定[[Paradigm|范式]]进行安全、平庸的微小修补。要重新激活颠覆性创造力，必须推行“非共识资助机制”（如设立仅需单一评委强烈推荐即可立项的 Golden Tickets 制度、抽签资助试验）和“便携式独立人才基金”，使青年探索者摆脱对成熟学术圈子的依附，真正释放探索未知的前沿创造力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–17)]]
+> **生命周期创造力窗口与学术风险规避的制度破除** 创新经济学与[[Bibliometric Analysis|科学计量学]]研究证实，基础科学领域的重大颠覆性发现与诺贝尔奖级原创成果主要由科学家在 30 岁上下的早年阶段完成（Jones, 2010）。然而，当代学术评价体制日益被“微小增量（[[Salami Publishing|Salami Slicing]]）”与“共识型同行评议（Consensus-seeking Peer Review）”所绑架。由于低资助率（低于 20%）和文献引用量考核，年轻学者在最具创造力的峰值期被迫规避高风险颠覆性假说，转向迎合[[Star Scientists|明星科学家]]主导的既定[[Paradigm|范式]]进行安全、平庸的微小修补。要重新激活颠覆性创造力，必须推行“非共识资助机制”（如设立仅需单一评委强烈推荐即可立项的 Golden Tickets 制度、抽签资助试验）和“便携式独立人才基金”，使青年探索者摆脱对成熟学术圈子的依附，真正释放探索未知的前沿创造力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–17)]]
 
 ---
 
@@ -314,6 +321,7 @@ updated: 2026-10-29
 > - **1950 年代 天才与智力脱钩** Guilford 在 APA 主席演讲中呼吁重视创造力研究，打破创造力等同于高智商的传统观点。
 > - **1960–1970 年代 4P 框架确立** Rhodes 提出创造者、创造过程、创造产品与创造环境四要素模型，奠定跨学科研究骨架。
 > - **1980–1990 年代 系统论与日常创造力转向** Csikszentmihalyi 提出领域-[[Champ|场域]]系统模型，Runco & Richards 倡导日常创造力与潜能观。
+> - **2005–2021 年 协作网络拓扑与团队创造力倒 U 形法则** Uzzi and Spiro (2005) 与 [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang and Barabási (2021)]] 建立小世界协作网络模型，量化确立了网络小世界商数 $W$ 与团队创造力之间的倒 U 形规律，揭示过度紧密抱团对突破性创新的扼杀机制。
 > - **2010 年代 科学学与生命周期创造力计量** Jones (2010) 等量化确立了科学家产生颠覆性创见的早年年龄峰值规律，揭示认知探索灵活性随年龄与[[Paradigm|范式]]深化的消长特征。
 > - **2020 年代 [[Meta-meta-analysis|二阶元分析]]确立实证效应基准** [[Argument_Runco_2026_CRJ|Runco et al. (2026)]] 综合 52 项一阶[[Meta-analysis|元分析]]确立创造力关联全景基准；[[Argument_Gungor_2026_CP|Güngör et al. (2026)]] 证实[[Cooperative Learning|合作学习]]对创造性思维等[[Higher-Order Thinking Skills|高阶认知技能]]的优先促进效能。
 > - **2025 年 高校[[Creativity Training|创造力干预]][[Three-Level Meta-Analysis|多层元分析]]** [[Argument_Guo_2025_TSC|Guo et al. (2025)]] 综合 29 项实证研究确立大学生创造力干预基准（$g = 0.628$）；[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 揭示生成式 AI 对创造性思维干预基准（$g = 0.444$）及其套路化同质局限。
@@ -333,6 +341,12 @@ updated: 2026-10-29
 > > - **Runco 团队** 承认效标问题导致创造力作为[[Dependent Variable|因变量]]时的效应量分散，但强调多维评估（结合潜能与表现）是化解效标困境的可行路径。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 8)]]
 > > - **Shapiro (1970)** 系统论述效标问题对[[Creativity Assessment|创造力测量]]科学性的根本制约。
 >
+> > [!axis] 团队高度抱团内聚 vs 适度异质弱连接
+> > 争论高凝聚力的小圈子网络是否有助于增进创造力，还是会因群体盲思而损害原创性。
+> >
+> > - **高内聚信任派** 认为紧密的局部强连接能够建立深厚的同行互信，降低跨学科交流的试错成本并保障默契协作。
+> > - **小世界倒 U 形拓扑派（Uzzi & Spiro / Wang & Barabási）** 证实过度紧密的抱团网络会演化为认知回音室，导致团队创造力发生系统性衰退；唯有中等小世界网络才能兼顾沟通默契与异质思维注入。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 107–108)]]
+>
 > > [!axis] 领域一般性 vs [[Domain Specificity|领域特殊性]]
 > > 争论创造力是一种跨学科通用的普遍认知潜能，还是高度依赖特定领域知识与技能的情境化能力。
 > >
@@ -346,7 +360,7 @@ updated: 2026-10-29
 > > - **批判派（Monib et al. / Li et al. / Zhao et al. / Naeem）** 警告过度依赖算法输出将导致文化表达高度同质化并引发[[Creative Deskilling|创造力去技能化]]（[[Argument_Naeem_2026_Episteme|Naeem, 2026]]; [[Argument_Zhao_2025_JIntell|Zhao et al., 2025]]）。
 >
 > > [!axis] 高风险颠覆性创造力 vs 增量切香肠式常规科学
-> > - **颠覆性创造力派** 强调真正的重大科技跃迁来自于突破既有[[Paradigm|范式]]的高方差假说，必须建立容错与非共识资助机制保护探索者。
+> > - **颠覆性创造力派** 强调真正的重大科技突破来自于突破既有[[Paradigm|范式]]的高方差假说，必须建立容错与非共识资助机制保护探索者。
 > > - **增量累积论派** 认为常规科学的细密论证与严谨复现是科学大厦稳固的基石，过度追逐所谓颠覆性会导致学术漂浮与虚华。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–16)]]
 >
 > > [!axis] 开创性原真创造 vs 衍生性重组拼贴
@@ -451,7 +465,8 @@ updated: 2026-10-29
 >
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 7–8)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合 | ChatGPT 对创造性思维（CrT）影响的主题频数分布 | 赋能维度：构想发散与[[Brainstorming\|头脑风暴]]（31 项）、结构脚手架（24 项）、视角转换（18 项）、修辞表达丰富（12 项）；风险维度：文风均质化（19 项）、探索停滞与过早收敛（15 项）、个人声音淹没（13 项）、表面流畅掩盖实质平庸（11 项） | — | 质性主题证据，揭示[[Generative Artificial Intelligence\|生成式 AI]] 对创造性思维的赋能显著，但伴随输出同质化风险 |
+> | [[Argument_Li_2026_CEAI\|Li et al. (2026, pp. 7–8)]] | $N = 67$ 项高等教育实证研究（涵盖 2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合 | ChatGPT 对创造性思维（CrT）影响的主题频数分布 | 赋能维度：构想发散与[[Brainstorming\|头脑风暴]]（31 项）、结构脚手架（24 项）、视角转换（18 项）、修辞表达丰富（12 项）；风险维度：文风均质化（19 项）、探索停滞与过早定型（15 项）、个人声音淹没（13 项）、表面流畅掩盖实质平庸（11 项） | — | 质性主题证据，揭示[[Generative Artificial Intelligence\|生成式 AI]] 对创造性思维的赋能显著，但伴随输出同质化风险 |
+| [[Argument_Wang_Barabasi_2021_Cambridge_Unit04\|Wang & Barabási (2021)]]; Uzzi and Spiro (2005) | 1889–2004 年百老汇音乐剧创作团队与全美跨学科科研合作网络 | 小世界网络拓扑回归与非线性样条分析 | 网络小世界商数 $W$ 对团队商业成功与艺术原创评价的影响 | 小世界商数与团队创造力及绩效呈现典型倒 U 形曲线；中等 $W$ 产出最高，极高 $W$ 导致绩效显著衰退 | 二次项与样条回归显著（$p < .01$） | 证实团队创造力依赖于网络局部凝聚力与全局异质连接的最佳拓扑平衡，过度紧密会形成认知回音室 |
 
 ---
 
@@ -462,7 +477,8 @@ updated: 2026-10-29
 > - [[Argument_Park_2026_TSC|Park et al. (2026)]] — 一阶元分析确立创造力与[[Critical Thinking|批判性思维]]的中等正相关（$r = 0.386$），揭示自陈测量组合放大了相关。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 剖析科学创造力早年峰值与学术风险规避的体制冲突，倡导便携式青年资助与非共识评审机制。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 批判[[Technological Pastiche|技术拼贴]]与模仿毒性，论证[[Social Deafness|社交失聪]]与创造性摩擦对颠覆性创造力的保护；并在 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|第 18 章]] 论证软件构建的艺术审美品味属性，以奥德修斯绑缚船桅阐明自愿自我约束与长程资产托管对抵御短期主义并实现创造性生产的决定性作用。
-> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[Systematic Review|系统综述]][[OECD|经合组织]]国家高等教育创造力与[[Critical Thinking Assessment|批判性思维评价]]政策与实践，详析真实性量规的破局路径。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit04|Wang and Barabási (2021)]] — 建立小世界协作网络模型，实证揭示网络小世界拓扑与团队创造力之间的倒 U 形非线性规律，阐明兼顾信任沟通与异质创新的最优网络结构。
+> - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[Systematic Review|系统综述]][[OECD|经合组织]]国家高等教育创造力与[[Critical Thinking Assessment|批判性思维评价]]政策与实践，详析真实性量规的实施路径。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 系统综述揭示 ChatGPT 拓展构想空间与结构[[Scaffolding|脚手架]]的赋能效能，警示文风均质化与个人声音淹没风险。
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 元分析确立生成式 AI 对学生创造力的中等偏小促进效应（$g = 0.444$），揭示统计模型同质化瓶颈。
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 界定创造力为[[Epistemic Virtues and Vices|理智美德]]，揭示过度依赖 AI 导致的[[Cognitive Deskilling|去技能化]]风险，提出[[Counterfactual|反事实]]设问与经验图式交织的支架路径。

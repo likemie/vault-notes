@@ -11835,7 +11835,6 @@
     "Jones (2009b)": "Jones, 2009b",
     "Jones (2010a)": "Jones, 2010a",
     "Jones (2010b)": "Jones, 2010b",
-    "Jones (2011)": "Jones, 2011",
     "Jones (2015)": "Jones, 2015",
     "Jones (2016)": "Jones, 2016",
     "Jones (2017)": "Jones, 2017",
@@ -11860,7 +11859,6 @@
     "Jones, 2010": "Jones, 2010a",
     "Jones, 2010a": "Jones, 2010b",
     "Jones, 2010b": "Jones, 2010b",
-    "Jones, 2011": "Jones, 2011",
     "Jones, 2015": "Jones, 2015",
     "Jones, 2016": "Jones, 2016",
     "Jones, 2017": "Jones, 2017",
@@ -38852,7 +38850,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
         "wiki/concepts/science-policy/Coauthorship Network.md"
       ],
       "title": ""
@@ -113414,21 +113411,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "A school-randomized clinical trial of an integrated social-emotional learning and literacy intervention  Impacts after 1 school year."
-    },
-    "Jones, 2011": {
-      "aliases": [
-        "Jones, 2011",
-        "Jones (2011)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Jones, 2011"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
-      ],
-      "title": ""
     },
     "Jones, 2015": {
       "aliases": [
@@ -201568,6 +201550,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md",
+        "wiki/concepts/competency-and-assessment/Creativity.md",
         "wiki/concepts/science-policy/Coauthorship Network.md"
       ],
       "title": ""
