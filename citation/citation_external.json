@@ -2485,10 +2485,8 @@
     "Blanchenay et al., 2014": "Blanchenay et al., 2014",
     "Blank & de las Alas (2009)": "Blank & de las Alas, 2009",
     "Blank & de las Alas, 2009": "Blank & de las Alas, 2009",
-    "Blank (1991)": "Blank, 1991",
     "Blank (1993)": "Blank, 1993",
     "Blank (2000)": "Blank, 2000",
-    "Blank, 1991": "Blank, 1991",
     "Blank, 1993": "Blank, 1993",
     "Blank, 2000": "Blank, 2000",
     "Blase (1989)": "Blase, 1989",
@@ -5857,6 +5855,8 @@
     "DerSimonian & Laird, 1986": "DerSimonian & Laird, 1986",
     "Derakhshan et al. (2024)": "Derakhshan et al., 2024",
     "Derakhshan et al., 2024": "Derakhshan et al., 2024",
+    "Derek de Solla Price (1963)": "Derek de Solla Price, 1963",
+    "Derek de Solla Price, 1963": "Derek de Solla Price, 1963",
     "Derksen (2000)": "Derksen, 2000",
     "Derksen, 2000": "Derksen, 2000",
     "Derrington & Kendall (2004)": "Derrington & Kendall, 2004",
@@ -9860,6 +9860,8 @@
     "Harrell, 1983": "Harrell, 1983",
     "Harriet Finlay-Johnson (1912)": "Harriet Finlay-Johnson, 1912",
     "Harriet Finlay-Johnson, 1912": "Harriet Finlay-Johnson, 1912",
+    "Harriet Zuckerman (1977)": "Harriet Zuckerman, 1977",
+    "Harriet Zuckerman, 1977": "Harriet Zuckerman, 1977",
     "Harris & Cumming (2003)": "Harris & Cumming, 2003",
     "Harris & Cumming, 2003": "Harris & Cumming, 2003",
     "Harris & Rosenthal (1985)": "Harris & Rosenthal, 1985",
@@ -11324,6 +11326,8 @@
     "James Mahoney & Kathleen Thelen (2010)": "James Mahoney & Kathleen Thelen, 2010",
     "James Mahoney & Kathleen Thelen, 2009": "James Mahoney & Kathleen Thelen, 2009",
     "James Mahoney & Kathleen Thelen, 2010": "James Mahoney & Kathleen Thelen, 2010",
+    "James McKeen Cattell (1910)": "James McKeen Cattell, 1910",
+    "James McKeen Cattell, 1910": "James McKeen Cattell, 1910",
     "James R. Bartholomew (1989)": "James R. Bartholomew, 1989",
     "James R. Bartholomew, 1989": "James R. Bartholomew, 1989",
     "James Scott (1998)": "James Scott, 1998",
@@ -14471,6 +14475,8 @@
     "Lortie-Forgues & Inglis, 2019": "Lortie-Forgues & Inglis, 2019",
     "Losinski et al. (2019)": "Losinski et al., 2019",
     "Losinski et al., 2019": "Losinski et al., 2019",
+    "Lotka's Law (1926)": "Lotka's Law, 1926",
+    "Lotka's Law, 1926": "Lotka's Law, 1926",
     "Lotowycz (1984)": "Lotowycz, 1984",
     "Lotowycz, 1984": "Lotowycz, 1984",
     "Lott (1983)": "Lott, 1983",
@@ -16856,9 +16862,7 @@
     "National Student Clearinghouse, 2024": "National Student Clearinghouse, 2024",
     "Nattland & Kerres (2009)": "Nattland & Kerres, 2009",
     "Nattland & Kerres, 2009": "Nattland & Kerres, 2009",
-    "Nature (2017)": "Nature, 2017",
     "Nature (2024)": "Nature, 2024",
-    "Nature, 2017": "Nature, 2017",
     "Nature, 2024": "Nature, 2024",
     "Nay (2012)": "Nay, 2012",
     "Nay, 2012": "Nay, 2012",
@@ -19197,6 +19201,8 @@
     "Reay et al., 2009": "Reay et al., 2009",
     "Reay, 1998": "Reay, 1998",
     "Reay, 2004": "Reay, 2004",
+    "Rebecca Blank (1991)": "Rebecca Blank, 1991",
+    "Rebecca Blank, 1991": "Rebecca Blank, 1991",
     "Rebecca DerSimonian & Nan Laird (1986)": "Rebecca DerSimonian & Nan Laird, 1986",
     "Rebecca DerSimonian & Nan Laird, 1986": "Rebecca DerSimonian & Nan Laird, 1986",
     "Rebelo et al. (2018)": "Rebelo et al., 2018",
@@ -44915,21 +44921,6 @@
       "seen_in": [],
       "title": "The Effects of Teacher Professional Development on Gains in Student Achievement: How Meta Analysis Provides Scientific Evidence Useful to Education Leaders"
     },
-    "Blank, 1991": {
-      "aliases": [
-        "Blank, 1991",
-        "Blank (1991)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Blank, 1991"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
-      ],
-      "title": ""
-    },
     "Blank, 1993": {
       "aliases": [
         "Blank, 1993",
@@ -69558,6 +69549,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Robot-Assisted Language Learning: A Meta-Analysis."
+    },
+    "Derek de Solla Price, 1963": {
+      "aliases": [
+        "Derek de Solla Price, 1963",
+        "Derek de Solla Price (1963)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Derek de Solla Price, 1963"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
     },
     "Derksen, 2000": {
       "aliases": [
@@ -98811,6 +98817,21 @@
       ],
       "title": ""
     },
+    "Harriet Zuckerman, 1977": {
+      "aliases": [
+        "Harriet Zuckerman, 1977",
+        "Harriet Zuckerman (1977)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Harriet Zuckerman, 1977"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
+    },
     "Harris & Cumming, 2003": {
       "aliases": [
         "Harris & Cumming, 2003",
@@ -109467,6 +109488,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md"
+      ],
+      "title": ""
+    },
+    "James McKeen Cattell, 1910": {
+      "aliases": [
+        "James McKeen Cattell, 1910",
+        "James McKeen Cattell (1910)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "James McKeen Cattell, 1910"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
       ],
       "title": ""
     },
@@ -131969,6 +132005,21 @@
       "seen_in": [],
       "title": "An Investigation of Co-Teaching to Improve Academic Achievement of Students with Disabilities: A Meta-Analysis."
     },
+    "Lotka's Law, 1926": {
+      "aliases": [
+        "Lotka's Law, 1926",
+        "Lotka's Law (1926)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Lotka's Law, 1926"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
+    },
     "Lotowycz, 1984": {
       "aliases": [
         "Lotowycz, 1984",
@@ -149230,21 +149281,6 @@
       ],
       "title": ""
     },
-    "Nature, 2017": {
-      "aliases": [
-        "Nature, 2017",
-        "Nature (2017)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Nature, 2017"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
-      ],
-      "title": ""
-    },
     "Nature, 2024": {
       "aliases": [
         "Nature, 2024",
@@ -166367,6 +166403,21 @@
       ],
       "title": ""
     },
+    "Rebecca Blank, 1991": {
+      "aliases": [
+        "Rebecca Blank, 1991",
+        "Rebecca Blank (1991)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rebecca Blank, 1991"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
+    },
     "Rebecca DerSimonian & Nan Laird, 1986": {
       "aliases": [
         "Rebecca DerSimonian & Nan Laird, 1986",
@@ -167280,7 +167331,6 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md"
       ],
       "title": ""
@@ -181901,6 +181951,7 @@
       ],
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/concepts/science-policy/Scientific Productivity.md"
       ],
       "title": ""

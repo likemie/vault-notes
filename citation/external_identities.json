@@ -10884,14 +10884,6 @@
       "seen_in": [],
       "title": "The Effects of Teacher Professional Development on Gains in Student Achievement: How Meta Analysis Provides Scientific Evidence Useful to Education Leaders"
     },
-    "Blank, 1991": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
-      ],
-      "title": ""
-    },
     "Blank, 1993": {
       "doi": "",
       "isbn": "",
@@ -25773,6 +25765,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "Robot-Assisted Language Learning: A Meta-Analysis."
+    },
+    "Derek de Solla Price, 1963": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
     },
     "Derksen, 2000": {
       "doi": "",
@@ -43425,6 +43425,14 @@
       ],
       "title": ""
     },
+    "Harriet Zuckerman, 1977": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
+    },
     "Harris & Cumming, 2003": {
       "datasets": [
         "metax:S0031"
@@ -49835,6 +49843,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Politics/Argument_VanDerHeijden_2011_Politics.md"
+      ],
+      "title": ""
+    },
+    "James McKeen Cattell, 1910": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
       ],
       "title": ""
     },
@@ -63639,6 +63655,14 @@
       "seen_in": [],
       "title": "An Investigation of Co-Teaching to Improve Academic Achievement of Students with Disabilities: A Meta-Analysis."
     },
+    "Lotka's Law, 1926": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
+    },
     "Lotowycz, 1984": {
       "datasets": [
         "eef-ey:extra-hours"
@@ -74090,14 +74114,6 @@
       ],
       "title": ""
     },
-    "Nature, 2017": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
-      ],
-      "title": ""
-    },
     "Nature, 2024": {
       "doi": "",
       "isbn": "",
@@ -84403,6 +84419,14 @@
       ],
       "title": ""
     },
+    "Rebecca Blank, 1991": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
+    },
     "Rebecca DerSimonian & Nan Laird, 1986": {
       "doi": "",
       "isbn": "",
@@ -84974,7 +84998,6 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md"
       ],
       "title": ""
@@ -93766,6 +93789,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/concepts/science-policy/Scientific Productivity.md"
       ],
       "title": ""
