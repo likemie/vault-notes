@@ -11,9 +11,9 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit02"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit02"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 37
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
 book_title: "The Science of Science"
 publisher: "Cambridge University Press"
@@ -263,10 +263,10 @@ updated: 2026-10-30
 > [!claim|step] 论证步骤二　代表作在学术生涯中随时可能降临，早期成就多只因当时发表更频繁
 > 在控制学者生命周期生产力波动的前提下，单篇研究的影响力在发表序列中服从均匀随机分布；青年时期的重大突破富集纯粹是由该时期更为旺盛的发表频次所驱动，只要学者在晚年保持发文产出，取得卓越科学影响的几率绝不随年龄衰减。（pp. 51–59）
 
-> [!sub-claim] 1. 大数据同名消歧与图钉投影消除了精英偏差，完整还原普通学者的学术轨迹
-> [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）等人引入图钉投影方法，依托机器学习在学者同名消歧上的突破将分析视野拓展至海量普通研究者，确立了全生命周期衡量学术巅峰的标准化时序基准（Sinatra et al., 2016, pp. 51–53; 图 5-1）。
+> [!sub-claim] 1. 大数据同名消歧与[[Drop-pin Projection|图钉投影]]消除了精英偏差，完整还原普通学者的学术轨迹
+> [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）等人引入[[Drop-pin Projection|图钉投影]]方法，依托机器学习在学者同名消歧上的突破将分析视野拓展至海量普通研究者，确立了全生命周期衡量学术巅峰的标准化时序基准（Sinatra et al., 2016, pp. 51–53; 图 5-1）。
 
-> [!proc] 学者生涯图钉投影构建程序
+> [!proc] [[Drop-pin Projection|学者生涯图钉投影构建程序]]
 > 1. **全样本同名消歧建档**
 >    依托大数据机器学习在学者同名消歧领域的突破，克服既往仅关注诺奖得主的精英偏误，从海量文献库中精准重构普通学者的全生命周期发表序列（Sinatra et al., 2016, pp. 51–53）。
 >
@@ -278,7 +278,7 @@ updated: 2026-10-30
 
 > [!figure]- 图5-1：肯尼斯·G·威尔逊的真实与随机打乱学术生涯
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-1_Publication_History_Kenneth_Wilson_Drop_Pin.jpg)
-> *(a) 威尔逊真实学术生涯的图钉投影，横轴为学术年龄，垂直线高度为单篇成果十年被引量 c10；(b) 保持发文时间与篇数不变、完全随机置换十年被引高度后的反事实随机打乱生涯（p. 52）。*
+> *(a) 威尔逊真实学术生涯的[[Drop-pin Projection|图钉投影]]，横轴为学术年龄，垂直线高度为单篇成果十年被引量 c10；(b) 保持发文时间与篇数不变、完全随机置换十年被引高度后的反事实随机打乱生涯（p. 52）。*
 
 ---
 

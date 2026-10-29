@@ -9,7 +9,7 @@ summary: "美籍理论物理学家、1982 年诺贝尔物理学奖得主，曾�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 3
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -26,6 +26,7 @@ related_theories:
   - "[[Random Impact Rule]]"
 related_methods:
   - "[[Career Shuffling Method]]"
+  - "[[Drop-pin Projection]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -44,7 +45,7 @@ updated: 2026-10-29
 > - **核心角色** 量子场论与统计物理相变理论的革命性领军人物；在现代科学学中作为学者个体学术生涯被引轨迹投影的标准典型案例。
 > - **代表贡献** 创立算符乘积展开与重整化群方法，荣获 1982 年诺贝尔物理学奖；其 48 篇论著的发表时间与十年引文高度被作为阐述生涯打乱模型与随机影响规律的参照蓝本。
 
-> [!citation-card] 王大顺与巴拉巴西论威尔逊的学术生涯图钉投影
+> [!citation-card] 王大顺与巴拉巴西论威尔逊的学术生涯[[Drop-pin Projection|图钉投影]]
 > 威尔逊的学术时间线始于他的第一篇论著。每当他发表一篇新成果，就在对应年份插入一枚图钉，图钉的高度精确反映该论著发表后十年的被引数量。威尔逊最具影响力的代表作发表于 1974 年，即入行第 9 年，也是其全部 48 篇论著中的第 17 篇。通过随机打乱这些图钉的位置，可以检验重大影响的涌现是否受发表时间次序的内在约束。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 52–53)]]
 >
 > *This 'drop pin' view allows us to represent the career of every scientist in the same way... Wilson's highest impact paper was published in 1974, 9 years after his first publication; it is the 17th of his 48 papers, hence t* = 9, N* = 17, N = 48.*

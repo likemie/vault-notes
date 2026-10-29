@@ -14,7 +14,7 @@ aliases:
 summary: "由戴维·加伦森（David Galenson）提出并由本杰明·琼斯（Benjamin F. Jones）扩展至科学学的认知进路分类；指依据归纳积累、一手经验素材收集与持续试错、在长期技能打磨后于学术或创作生涯中晚期达到成就巅峰的研究者与创意从业者。"
 type: concept
 domain: "science-policy"
-related_count: 6
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -31,6 +31,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[David Galenson]]"
   - "[[Benjamin F. Jones]]"
   - "[[John B. Fenn]]"
 related_facts: []
@@ -45,7 +46,7 @@ updated: 2026-10-30
 ---
 
 > [!def] Experimental Innovators
-> 实验型创新者是指依据归纳积累、一手经验素材收集与持续实验试错，在经历长期技能打磨后于学术或创作生涯中晚期迎来成就巅峰的研究者与创意从业者。该群体依赖扎实的实地观测、反常事实搜集或实验设备反复调制，其重大科学突破往往随着经验与默会知识的沉淀而自然涌现，典型代表包括查尔斯·达尔文（Charles Darwin）与约翰·B·芬恩（John B. Fenn）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–49)]]
+> 实验型创新者是指依据归纳积累、一手经验素材收集与持续实验试错，在经历长期技能打磨后于学术或创作生涯中晚期迎来成就巅峰的研究者与创意从业者。该群体依赖扎实的实地观测、反常事实搜集或实验设备反复调制，其重大科学突破往往随着经验与默会知识的深厚积累而自然涌现，典型代表包括查尔斯·达尔文（Charles Darwin）与约翰·B·芬恩（John B. Fenn）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–49)]]
 
 > [!concept-lens|notitle] 概念透镜
 > - **含义** 揭示经验试错与素材沉潜进路对创新者巅峰产出时序所施加的经验累积约束。
@@ -77,7 +78,7 @@ updated: 2026-10-30
 
 > [!feature] 核心要素
 > - **经验试错依赖性** 实验型学者必须经历漫长的一手数据采集、观测记录比对与实验装置调试，时间沉潜是形成深刻洞见的必要生产要素。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 47–48)]]
-> - **渐进归纳性** 理论框架并非先验预设，而是随着反常事实和经验拼图的持续补充逐步浮出水面。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 48)]]
+> - **渐进归纳性** 理论框架由经验事实与反常现象的持续补充逐步归纳成型，呈现出经验驱动的演化特征。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 48)]]
 > - **晚熟累积效应** 随着在具体研究情境中沉浸年限加深，默会知识与直觉技巧持续增益，成就高峰显著延后。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 56–58)]]
 
 > [!logic-map]- 要素关系
@@ -119,7 +120,7 @@ updated: 2026-10-30
 ---
 
 > [!dev-timeline] 概念演变
-> - **2001–2006 — 艺术经济学提出** 戴维·加伦森（David Galenson）在研究现代艺术拍卖与文学创作时首次界定实验型创新者，以大器晚成的保罗·塞尚为典型。
+> - **2001–2006 — 艺术经济学提出** [[David Galenson|戴维·加伦森]]（David Galenson）在研究现代艺术拍卖与文学创作时首次界定实验型创新者，以大器晚成的保罗·塞尚为典型。
 > - **2010 — 科学学实证拓展** 本杰明·F·琼斯（Benjamin F. Jones）将实验型创新者引入科技发明家与诺贝尔奖得主计量分析，证实经验实证学者在生涯中晚期迎来巅峰。
 > - **2021 — 科学学系统整合** 王大顺与阿尔伯特-拉斯洛·巴拉巴西将实验型创新者整合入科研生涯动力学框架，揭示经验积累对晚期突破的决定性支撑。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–49)]]
 

@@ -10,7 +10,7 @@ summary: "由 Roberta Sinatra et al. (2016) 提出的科学学生涯纵向引文
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 2
+method_related_count: 3
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ related_concepts: []
 related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
+  - "[[Drop-pin Projection]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -64,7 +65,7 @@ updated: 2026-10-30
 > - **研究设计** 观察性大样本计算实验与反事实模拟零模型设计。
 > - **数据收集** 学术文献全量引文数据库、基于机器学习的高精度学者同名消歧。
 > - **分析方法** 蒙特卡洛无放回置换算法、经验概率密度估计与柯尔莫哥洛夫－斯米尔诺夫检验。
-> - **辅助技术** 生涯图钉投影（Drop-pin Projection）、长周期被引窗口标准化（如 $c_{10}$）。
+> - **辅助技术** [[Drop-pin Projection|生涯图钉投影]]（Drop-pin Projection）、长周期被引窗口标准化（如 $c_{10}$）。
 
 ---
 

@@ -11,7 +11,7 @@ aliases:
 summary: "由戴维·加伦森（David Galenson）提出并由本杰明·琼斯（Benjamin F. Jones）扩展至科学学的认知进路分类；指依据先验逻辑与抽象公理系统展开演绎推演、倾向于在涉足特定领域初期打破既定范式并于学术生涯早期达到成就巅峰的研究者与创意从业者。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,6 +33,7 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
+  - "[[David Galenson]]"
   - "[[Werner Heisenberg]]"
   - "[[John B. Fenn]]"
   - "[[Benjamin F. Jones]]"
@@ -123,7 +124,7 @@ updated: 2026-10-30
 ---
 
 > [!dev-timeline] 概念演变
-> - **2001–2006 — 艺术经济学提出** 戴维·加伦森（David Galenson）在研究现代艺术拍卖与文学创作时首次界定概念型创新者，以早熟的毕加索为代表。
+> - **2001–2006 — 艺术经济学提出** [[David Galenson|戴维·加伦森]]（David Galenson）在研究现代艺术拍卖与文学创作时首次界定概念型创新者，以早熟的毕加索为代表。
 > - **2010 — 科学学实证拓展** 本杰明·F·琼斯（Benjamin F. Jones）将概念型创新者引入科技发明家与诺贝尔奖得主计量分析，证实理论学者在生涯早期存在系统性突破优势。
 > - **2021 — 科学学系统整合** 王大顺与阿尔伯特-拉斯洛·巴拉巴西将概念型创新者整合入科研生涯动力学框架，用以解构学科[[Determinism|决定论]]的刻板印象。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 46–49)]]
 

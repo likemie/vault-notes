@@ -24267,6 +24267,20 @@
     ]
   },
   {
+    "title": "Drop-pin Projection",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Drop-pin Projection.md",
+    "aliases": [
+      "学者生涯图钉投影法",
+      "图钉投影",
+      "图钉投影法",
+      "学者生涯图钉投影",
+      "图钉视图",
+      "Drop-pin View",
+      "Drop-pin Model"
+    ]
+  },
+  {
     "title": "Ebel Method",
     "type": "method",
     "path": "wiki/methods/quantitative/Ebel Method.md",
@@ -30342,6 +30356,18 @@
     ]
   },
   {
+    "title": "David Galenson",
+    "type": "person",
+    "path": "wiki/persons/us/David Galenson.md",
+    "aliases": [
+      "戴维·加伦森",
+      "加伦森",
+      "David W. Galenson",
+      "D. Galenson",
+      "Galenson, D."
+    ]
+  },
+  {
     "title": "David Graeber",
     "type": "person",
     "path": "wiki/persons/us/David Graeber.md",
@@ -30785,6 +30811,19 @@
       "Harriet Anne Zuckerman",
       "H. Zuckerman",
       "Zuckerman, H."
+    ]
+  },
+  {
+    "title": "Harvey C. Lehman",
+    "type": "person",
+    "path": "wiki/persons/us/Harvey C. Lehman.md",
+    "aliases": [
+      "哈维·C·莱曼",
+      "哈维·莱曼",
+      "莱曼",
+      "Harvey Lehman",
+      "H. C. Lehman",
+      "Lehman, H. C."
     ]
   },
   {

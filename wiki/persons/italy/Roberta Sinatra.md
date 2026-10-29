@@ -9,7 +9,7 @@ summary: "意大利复杂网络科学家与计算科学学者，哥本哈根信�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -26,6 +26,7 @@ related_theories:
   - "[[Random Impact Rule]]"
 related_methods:
   - "[[Career Shuffling Method]]"
+  - "[[Drop-pin Projection]]"
   - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -102,4 +103,5 @@ updated: 2026-10-29
 > |:-----|:-----|:-----|
 > | [[Random Impact Rule]] | 理论 | 领衔提出并形式化随机影响法则，证实成果影响力在职业序列中均匀随机分布。 |
 > | [[Career Shuffling Method]] | 方法 | 研发在固定学者发文节奏下随机重组被引次序的反事实零模型方法。 |
+> | [[Drop-pin Projection]] | 方法 | 引入学者生涯图钉投影法，实现全生命周期作品时序与十年引文高度的降维表达。 |
 > | [[Bibliometric Analysis]] | 方法 | 将统计物理系综置换模型深度融入微观文献计量与生涯轨迹分析。 |
