@@ -158,11 +158,38 @@ wiki/
 |---|---|---|
 | Concept | `wiki/concepts/<field>/` | 按领域，如 `comparative-education`、`curriculum`、`educational-philosophy`、`educational-leadership-administration` |
 | Theory | `wiki/theories/<field>/` | 只放可作为理论框架、解释机制或分析视角的理论／框架／模型 |
-| Method | `wiki/methods/qualitative/`、`quantitative/`、`mixed/` | 只放研究方法、研究设计、资料收集／分析方法、项目评价方法；课堂教学法放 Concept |
+| Method | `wiki/methods/qualitative/`、`quantitative/`、`mixed/` | 放研究方法、研究设计、资料收集／分析方法、项目评价方法，以及测度指标与指数、统计量、统计与计量模型、综合评价模型；课堂教学法放 Concept；判断规则见下方“条目类型判断” |
 | Instrument | `wiki/instruments/<instrument-type>/` | 放命名量表、问卷、测验、清单、评分规程、观察工具和访谈工具。标准子目录为 `tests/`（最高表现测验）、`scales/`（典型表现量表）、`questionnaires/`（事实与经历问卷）、`inventories/`（倾向清单/存表）、`rubrics/`（表现评价量规）、`checklists/`（方法学质评核查表）、`observation-tools/`（观察编码规程）、`interview-tools/`（访谈与焦点小组指南）；构念放 Concept，通用程序放 Method |
 | Person | `wiki/persons/<nationality-or-region>/`、`wiki/persons/schools/` | 按国籍／地区；不明或跨国身份放 `global`；学术流派／学派放 `schools`（使用学派模板） |
 | Fact | `wiki/facts/<region>/` | 按地区；全球性放 `global`；多国比较放 `multi`；`subtype` 固定为 `policy`（政策法案）、`event`（历史事件）、`organization`（组织机构）、`program`（重大项目）四大标准类别 |
 | Argument | `wiki/arguments/journal-articles/<journal-name>/`、`wiki/arguments/books/<book-folder>/`、`wiki/arguments/reports-policy-documents/` | 按文献类型；期刊论文 Argument 按 `journal` 字段对应的期刊名称分组；书籍 Argument 再按具体书籍文件夹分组 |
+
+
+### 条目类型判断
+
+先看条目要回答的核心问题，再定类型。名称像不像术语、是否出现在政策争论中、有没有公式，都不能单独决定类型。
+
+| 核心问题 | 类型 | 库内例子 |
+|---|---|---|
+| 这是什么现象、构念或分类？ | Concept | Scientific Productivity、Research Impact |
+| 怎样获得、测量、计算或分析数据？ | Method | h-Index、I-squared Statistic、Cronbach's Alpha、Difference-in-Differences、Coupling Coordination Model |
+| 为什么会这样，用什么机制解释？ | Theory | Shockley's Multiplicative Hurdle Model |
+| 用哪个具体工具施测？ | Instrument | 命名量表、问卷、测验 |
+
+量化对象按以下顺序判断，命中即停：
+
+1. 有明确的计算或估计规则（输入数据，经公式或算法，输出数值、等级或估计量），读者需要知道怎么算、怎么读、何时失效：建 Method，使用 `template-method-quant.md`。包括测度指标与指数（h 指数、g 指数、期刊影响因子）、统计量（$I^2$、Cronbach's α、效应量）、统计与计量模型（回归、双重差分、多层线性模型）、综合评价模型（耦合协调模型、熵权法）。
+2. 数学模型用来解释现象为何如此分布或变化，输出的是机制判断，不是对某个样本的测量值：建 Theory。例如 Shockley 跨栏连乘模型、Lotka 定律。
+3. 指标或模型所测量的对象本身：建 Concept。h 指数测的是学者的累积学术影响，这一构念归入 Scientific Productivity、Research Impact 等 Concept；h-Index 页在 `[!method-scope]` 中链接它们。
+4. 可施测、有版本和题项的具体工具：建 Instrument。
+
+常见误判：
+
+- 指标常以“X 指数”“X index”命名，读起来像术语，容易归入 Concept。判断看页面主体：主体是定义式、计算步骤、数据口径、效度和变体，就是 Method。
+- 指标在科研评价或政策争论中被频繁讨论，不改变其类型。对该指标使用方式的争议写入 Method 的 `[!method-fit]` 和 `[!method-limits]`；关于量化评价科研这一更大议题的讨论，写入相应 Concept。
+- 同一文献同时讨论指标和它测量的构念时，分别建条目并互链，不合成一页。
+- Method 页内服务于指标解读的子模型（如 h 指数的线性增长式 $h(t)\approx mt$）作为 `[!formula-step]` 留在该页；子模型被独立用来解释现象时，另建 Theory。
+- Concept 页中如需列出定义式以外的计算步骤、数据口径或软件实现，说明该对象应建为 Method。
 
 文件名、文件夹名、`title`、`tags` 使用英文；正文使用简体中文。
 
@@ -562,6 +589,8 @@ Argument 引用规则：
 - **严禁**使用中文的“等人”或“等学者”来代替英文多作者（例如：不得写成 `Machamer 等人指出` 或 `Sandoval 等学者发现`，必须规范写作 `Machamer et al. (2000) 指出` 或 `Sandoval et al. (2016) 发现`）。
 - 两名作者的文献在叙述时，严禁使用中文的“和”或“与”（例如：严禁写 `Hofer 和 Pintrich (1997)`）。叙述性引用必须使用英文 `and`（如 `Hofer and Pintrich (1997)`），括号内引用必须使用 `&`（如 `(Hofer & Pintrich, 1997)`）；三人及以上作者首引或续引均统一使用 `et al.`，彻底剔除口语化的“等人”与“和”，保持严格的 APA 原文引用语态。
 
+- **公式归属** 公式的完整说明（`[!formula-step]` 中的符号、数学直觉、手算示例、结果读法、GeoGebra 模拟）写在对应的 Method 或 Theory 条目。条目已完整收录某个公式后，Argument 删除该 `[!formula-step]`，改为一两句话说明作者用公式得出的结论，可保留行内主公式，并链接条目。条目尚未建立或尚未收录时，Argument 可暂留 `[!formula-step]`，迁移完成后再删除；迁移前先核对条目已包含原卡片的全部信息与出处。
+
 ### Writing and Template Rules
 
 - 新建或重写条目必须读取三个文件：`wiki/templates/TEMPLATE-SPEC.md`、`wiki/templates/CALLOUTS.md`、对应 `wiki/templates/template-*.md`。
@@ -621,7 +650,7 @@ ID 必须为不重复的 16 位小写十六进制字符串。例外绑定条目�
 
 ### Method
 
-论文提供以下任一信息时，可建 Method 条目：研究设计、数据收集或分析方式、方法选择的理由、认识论立场、操作步骤、适用场景或局限。方法只被命名但无介绍时，不因其定义新建或扩写 Method 条目，但实证研究仍需按下面规则记录方法案例。
+论文提供以下任一信息时，可建 Method 条目：研究设计、数据收集或分析方式、方法选择的理由、认识论立场、操作步骤、适用场景或局限。文献给出指标、统计量或模型的计算规则时，也按 Method 建条目，类型判断见第 3 节“条目类型判断”。方法只被命名但无介绍时，不因其定义新建或扩写 Method 条目，但实证研究仍需按下面规则记录方法案例。
 
 除思辨类、评论类、理论建构类和概念辨析类文献外，所有实证研究都必须至少记录一条方法案例。量化、质性和混合方法研究都适用。
 

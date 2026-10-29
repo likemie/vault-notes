@@ -355,6 +355,13 @@ Method 页写研究方法、研究设计、资料收集方法、分析方法、�
 规则：
 
 - 课堂教学法不放 Method，通常放 Concept。
+- 类型归属先按 `vault-schema.md` 第 3 节“条目类型判断”确定。测度指标与指数、统计量、统计与计量模型、综合评价模型都是 Method，不建为 Concept。
+- 模板选择：有明确计算或估计规则的量化方法使用 `template-method-quant.md`；质性方法、混合方法和没有公式的量化设计（抽样、实验设计、问卷调查等）使用 `template-method.md`。
+- 量化形态用 tags 标注，不新增 YAML 字段：`method/indicator`（测度指标与指数）、`method/statistical`（统计量与检验）、`method/model`（统计、计量与综合评价模型），每页选一个。
+- 指标类条目必须在 `[!method-scope]` 的“测量或估计对象”中链接被测的 Concept；构念的含义、争议和实证发现写在 Concept，指标页只写与计算、解读和使用边界有关的内容。
+- 每个 `[!formula-step]` 优先附一个 `[!example]- 手算示例`，用少量数字走一遍计算；自拟数字须标“示例”，不得写成实证结果。
+- 来源报告的参照基准、阈值或常模写入 `[!ref-table]- 参照基准与阈值`，逐行附 Argument；Method 页不使用 Concept 的实证数据表格与 marker。
+- 指标有清楚的提出和修正历程时，可用 `[!dev-timeline]- 方法演变`；变体指标另有独立条目时，在 `[!entry-map]` 中以“变体”关系链接。
 - `method_type` 使用 `qualitative`、`quantitative` 或 `mixed`。
 - 复杂量化模型仍写 `method_type: quantitative`；不要为每种模型另造 YAML 类型。
 - `## 定义` 优先用 `[!method-scope]` 区分研究对象、问题类型、分析单位和输出形式。

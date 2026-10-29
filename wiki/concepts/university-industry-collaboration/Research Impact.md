@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Document]]"
   - "[[Technology Transfer]]"
-  - "[[h-Index]]"
   - "[[Knowledge Exchange]]"
   - "[[Citizen Science]]"
   - "[[Public Engagement with Science]]"
@@ -45,6 +44,7 @@ related_theories: []
 related_methods:
   - "[[Case Study]]"
   - "[[Systematic Review]]"
+  - "[[h-Index]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -86,10 +86,10 @@ updated: 2026-10-29
 > [!contrast-table] 科研影响力、学术内部引用与科技成果商业化辨析
 > | 维度 | 科研影响力（Research Impact） | 学术内部引用（Academic Citations） | 科技成果商业化（Commercialisation） |
 > |---|---|---|---|
-> | **评估对象** | 研究对社会、经济与文化的广泛效益 | 同行学者对论文论著的引证频次 | 专利许可、[[Technology Transfer\|技术转让]]与衍生企业营收 |
+> | **评估对象** | 研究对社会、经济与文化的广泛效益 | 同行学者对学术论著的引证频次 | 专利许可、[[Technology Transfer\|技术转让]]与衍生企业营收 |
 > | **核心受益人** | 公众、患者、企业、政府与非政府组织 | 学术圈同行与特定学科研究人员 | 工业界客户、投资者与高校技术转移办 |
 > | **成效测量** | 叙述性影响力案例（[[Case Study]]）与佐证链 | 期刊影响因子、[[h-Index\|H指数]]等计量统计 | 授权收入、专利数与孵化企业产值 |
-> | **因果周期** | 5 至 20 年的非线性潜移默化与长周期累积 | 论文发表后 2 至 5 年的引证窗口期 | 依据商业合同周期与产品上市时间决定 |
+> | **因果周期** | 5 至 20 年的非线性潜移默化与长周期累积 | 成果面世后 2 至 5 年的引证窗口期 | 依据商业合同周期与产品上市时间决定 |
 > | **代表机制** | 英国科研卓越框架（[[Research Excellence Framework\|REF]]）影响力考评 | 科学引文索引（Web of Science）数据库 | [[Bayh-Dole Act of 1980\|拜杜法案]]框架、[[Knowledge Exchange\|知识交流]]框架（[[UK Knowledge Exchange Framework\|KEF]]） |
 
 ---
@@ -173,7 +173,7 @@ updated: 2026-10-29
 > 探讨教育科研影响力评估在实践中的制度性瓶颈。绝大多数旨在促进证据使用的中介机构与干预项目，其评价实践普遍停留在中间过程与使用态度层面，面临无法将干预归因于最终受益人成效的实效评估赤字。
 
 > [!claim] [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]]; Gough et al. (2018); Gu et al. (2021)
-> **“有效机构”（[[What Works Network\|What Works Centres]]）评估赤字与最终受益人归因断裂** 绝大多数旨在促进证据使用的中介机构与干预举措，其自身极少对所促进的“最终影响力”（如学生[[Academic Achievement\|学业成绩]]或健康改善）进行严格独立评估。跨国实证调查显示，[[OECD\|经合组织]]仅有 17% 的系统对教学实践端的研究利用开展系统监测，仅有 22% 对政策制定端开展监测；对全球“有效机构”（What Works Centres）的[[Systematic Review\|系统综述]]亦发现其普遍缺乏对最终受益人产出的实证检验（Gough et al., 2018）。即便如英国“[[Research Schools Network\|研究学校网络]]”（Research Schools Network, RSN）长达三年的大规模实证评估（Gu et al., 2021），也仅能证实教师研究意识与校本文化的积极转变，而未能检测到学生学业成绩（GCSE 成绩）产生统计学显著改善。这种“中间过程繁荣”与“最终成效因果断裂”的张力，构成了教育科研影响力评估的核心治理挑战。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 117–118)]]
+> **“有效机构”（[[What Works Network\|What Works Centres]]）评估赤字与最终受益人归因断裂** 绝大多数旨在促进证据使用的中介机构与干预举措，其自身极少对所促进的“最终影响力”（如学生[[Academic Achievement\|学业成绩]]或健康改善）进行严格独立评估。跨国实证调查显示，[[OECD\|经合组织]]仅有 17% 的系统对教学实践端的研究利用开展系统监测，仅有 22% 对政策制定端开展监测；对全球“有效机构”（What Works Centres）的[[Systematic Review\|系统综述]]亦发现其普遍缺乏对最终受益人产出的实证检验（Gough et al., 2018）。即便如英国“[[Research Schools Network\|研究学校网络]]”（Research Schools Network, RSN）长达三年的大规模实证评估（Gu et al., 2021），也仅能证实教师研究意识与学校教研风气的积极转变，而未能检测到学生学业成绩（GCSE 成绩）产生统计学显著改善。这种“中间过程繁荣”与“最终成效因果断裂”的张力，构成了教育科研影响力评估的核心治理挑战。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 117–118)]]
 
 ---
 
@@ -188,10 +188,10 @@ updated: 2026-10-29
 ---
 
 > [!dev-timeline] 概念演变
-> - **1986–2008 — 纯学术产出阶段（[[Research Excellence Framework\|RAE]] 时代）** 英国大学评估（RAE）聚焦于论文发表质量（Outputs）与同行评议等级，科研影响力未进入国家资源分配考核。
+> - **1986–2008 — 纯学术产出阶段（[[Research Excellence Framework\|RAE]] 时代）** 英国大学评估（RAE）聚焦于论著发表质量（Outputs）与同行评议等级，科研影响力未进入国家资源分配考核。
 > - **2014 — 社会影响法定化（REF 2014）** 英国科研卓越框架首次正式引入“影响力案例”（Impact Cases），设置 20% 考评权重，要求论证科研对经济与社会的实质效益，引发全球高校研究评估[[Paradigm\|范式]]转型。
 > - **2021 — 权重深化与路径反思（REF 2021）** 影响力权重提升至 25%；近半数案例展现公众参与价值，但商业化偏倚与量化因果证明困难促发学界强烈反思。
-> - **2022 — 系统生态视角下的教育研究影响力反思与评估层级确立** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 提出教育科学的影响力具有间接性与缓慢渗透特征，主张以崇高目标（乌托邦之喻）统摄全系统；[[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] 进一步提炼出影响力评估的三层阶梯，指出中介机构普遍缺乏对最终受益人成效监测的制度赤字。
+> - **2022 — 系统生态视角下的教育研究影响力反思与评估层级确立** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 提出教育科学的影响力具有间接性与缓慢渗透特征，主张以崇高目标（乌托邦之喻）统领全系统；[[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] 进一步提炼出影响力评估的三层阶梯，指出中介机构普遍缺乏对最终受益人成效监测的制度赤字。
 > - **2029 — 过程与生态重构（REF 2029）** 针对以往过度聚焦短期经济结果的弊端，改革方案设立独立的“参与与影响”（Engagement and Impact）考评剖面，要求将参与战略内嵌于科研环境并核算专职队伍编制。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, p. 101)]]
 
 ---
@@ -216,7 +216,7 @@ updated: 2026-10-29
 > | **政策端[[Research Utilization\|研究利用]]监测** | **22%** | 监测政策制定流程中是否正式征引或考量研究证据 | 仅两成系统建立了政策层面的研究利用追踪机制，大部分系统缺乏常态化监测手段 |
 > | **实践端研究利用监测** | **17%** | 监测学校教学、领导力与课程实践中对研究证据的采纳程度 | 实践端监测率显著偏低，难以系统掌握一线课堂对实证干预的真实吸纳现状 |
 > | **“有效机构”（[[What Works Network\|What Works Centres]]）实证综述** | **极度匮乏** | 评估中介干预对最终受益人（学生、弱势群体）学业与健康的直接增益 | 普遍将“信息分发量”或“教师参与人次”替代最终效益，面临因果链归因断裂（Gough et al., 2018） |
-> | **[[Research Schools Network\|英国研究学校网络]]（RSN）3年评估** | 中介成效显著，**学生成绩无显著差异** | 测量教师研究意识、校本教研文化以及学生 GCSE 统一考试[[Academic Achievement\|学业表现]] | 证实知识中介干预能有效重塑中观学校文化与微观教师认知，但难以在短期内线性转化为学生统考成绩跃升（Gu et al., 2021; [[Argument_Torres_2022_BarriersMechanisms\|Torres, 2022a, p. 118]]） |
+> | **[[Research Schools Network\|英国研究学校网络]]（RSN）3年评估** | 中介成效显著，**学生成绩无显著差异** | 测量教师研究意识、校本教研文化以及学生 GCSE 统一考试[[Academic Achievement\|学业表现]] | 证实知识中介干预能有效重塑中观学校文化与微观教师认知，但难以在短期内线性转化为学生统考成绩显著提高（Gu et al., 2021; [[Argument_Torres_2022_BarriersMechanisms\|Torres, 2022a, p. 118]]） |
 
 ---
 

@@ -11833,8 +11833,6 @@
     "Jordan, 2012": "Jordan, 2012",
     "Jordan-Black (2005)": "Jordan-Black, 2005",
     "Jordan-Black, 2005": "Jordan-Black, 2005",
-    "Jorge E. Hirsch (2005)": "Jorge E. Hirsch, 2005",
-    "Jorge E. Hirsch, 2005": "Jorge E. Hirsch, 2005",
     "Jose et al. (2025)": "Jose et al., 2025",
     "Jose et al., 2025": "Jose et al., 2025",
     "Joseph (1999)": "Joseph, 1999",
@@ -13854,8 +13852,6 @@
     "Lennon (2007)": "Lennon, 2007",
     "Lennon, 1999": "Lennon, 1999",
     "Lennon, 2007": "Lennon, 2007",
-    "Leo Egghe (2006)": "Leo Egghe, 2006",
-    "Leo Egghe, 2006": "Leo Egghe, 2006",
     "Leo Strauss (1959)": "Leo Strauss, 1959",
     "Leo Strauss, 1959": "Leo Strauss, 1959",
     "Leon et al. (2010)": "Leon et al., 2010",
@@ -19472,6 +19468,8 @@
     "Riggs, 2006": "Riggs, 2006",
     "Riglin et al. (2014)": "Riglin et al., 2014",
     "Riglin et al., 2014": "Riglin et al., 2014",
+    "Rijt et al. (2014)": "Rijt et al., 2014",
+    "Rijt et al., 2014": "Rijt et al., 2014",
     "Riley (1963)": "Riley, 1963",
     "Riley (1997)": "Riley, 1997",
     "Riley (2016)": "Riley, 2016",
@@ -25033,8 +25031,6 @@
     "William Mehrens & Elizabeth Kaminski, 1989": "William Mehrens & Elizabeth Kaminski, 1989",
     "William S. Robinson (1950)": "William S. Robinson, 1950",
     "William S. Robinson, 1950": "William S. Robinson, 1950",
-    "William Shockley (1957)": "William Shockley, 1957",
-    "William Shockley, 1957": "William Shockley, 1957",
     "William Tunmer (1986)": "William Tunmer, 1986",
     "William Tunmer, 1986": "William Tunmer, 1986",
     "William, 2004": "William, 2004",
@@ -72237,7 +72233,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/science-policy/g-Index.md"
+        "wiki/methods/quantitative/g-Index.md",
+        "wiki/methods/quantitative/h-Index.md"
       ],
       "title": ""
     },
@@ -75746,8 +75743,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/science-policy/g-Index.md",
-        "wiki/concepts/science-policy/h-Index.md"
+        "wiki/methods/quantitative/h-Index.md"
       ],
       "title": ""
     },
@@ -103323,7 +103319,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/science-policy/h-Index.md"
+        "wiki/methods/quantitative/h-Index.md"
       ],
       "title": ""
     },
@@ -103340,7 +103336,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/concepts/research-methodology/Predictive Validity.md",
-        "wiki/concepts/science-policy/h-Index.md"
+        "wiki/methods/quantitative/h-Index.md"
       ],
       "title": ""
     },
@@ -103368,7 +103364,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/methods/quantitative/h-Index.md"
       ],
       "title": ""
     },
@@ -113094,21 +113091,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of the Primary Movement programme on the academic performance of children attending ordinary primary school"
-    },
-    "Jorge E. Hirsch, 2005": {
-      "aliases": [
-        "Jorge E. Hirsch, 2005",
-        "Jorge E. Hirsch (2005)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Jorge E. Hirsch, 2005"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
-      ],
-      "title": ""
     },
     "Jose et al., 2025": {
       "aliases": [
@@ -127582,21 +127564,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "Examination of One District's Identification, Assessment Practices, Preventative Interventions, and Longitudinal Literacy Learning of At-risk Readers"
-    },
-    "Leo Egghe, 2006": {
-      "aliases": [
-        "Leo Egghe, 2006",
-        "Leo Egghe (2006)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "Leo Egghe, 2006"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/science-policy/g-Index.md"
-      ],
-      "title": ""
     },
     "Leo Strauss, 1959": {
       "aliases": [
@@ -165252,7 +165219,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/science-policy/h-Index.md"
+        "wiki/methods/quantitative/h-Index.md"
       ],
       "title": ""
     },
@@ -168382,6 +168349,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Relationship between Emotional Problems and Subsequent School Attainment: A Meta-Analysis"
+    },
+    "Rijt et al., 2014": {
+      "aliases": [
+        "Rijt et al., 2014",
+        "Rijt et al. (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Rijt et al., 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
     },
     "Riley, 1963": {
       "aliases": [
@@ -208395,21 +208377,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Unit of Analysis.md"
-      ],
-      "title": ""
-    },
-    "William Shockley, 1957": {
-      "aliases": [
-        "William Shockley, 1957",
-        "William Shockley (1957)"
-      ],
-      "doi": "",
-      "identity_keys": [
-        "William Shockley, 1957"
-      ],
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
       ],
       "title": ""
     },

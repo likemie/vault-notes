@@ -24,7 +24,6 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Social Regime]]"
   - "[[Document]]"
-  - "[[h-Index]]"
   - "[[Heterogeneity]]"
   - "[[Knowledge Production]]"
   - "[[Predictive Validity]]"
@@ -34,6 +33,7 @@ related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Effect Size]]"
+  - "[[h-Index]]"
 related_instruments: []
 related_persons: []
 related_facts:

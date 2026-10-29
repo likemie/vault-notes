@@ -23,12 +23,12 @@ tags:
   - theme/condensed-matter-physics
   - theme/science-policy
 related_concepts:
-  - "[[h-Index]]"
   - "[[Predictive Validity]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
+  - "[[h-Index]]"
 related_instruments: []
 related_persons: []
 related_facts:

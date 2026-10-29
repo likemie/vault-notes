@@ -27372,7 +27372,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/science-policy/g-Index.md"
+        "wiki/methods/quantitative/g-Index.md",
+        "wiki/methods/quantitative/h-Index.md"
       ],
       "title": ""
     },
@@ -29464,8 +29465,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/science-policy/g-Index.md",
-        "wiki/concepts/science-policy/h-Index.md"
+        "wiki/methods/quantitative/h-Index.md"
       ],
       "title": ""
     },
@@ -46129,7 +46129,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/science-policy/h-Index.md"
+        "wiki/methods/quantitative/h-Index.md"
       ],
       "title": ""
     },
@@ -46139,7 +46139,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/concepts/research-methodology/Predictive Validity.md",
-        "wiki/concepts/science-policy/h-Index.md"
+        "wiki/methods/quantitative/h-Index.md"
       ],
       "title": ""
     },
@@ -46156,7 +46156,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/methods/quantitative/h-Index.md"
       ],
       "title": ""
     },
@@ -52029,14 +52030,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "The effects of the Primary Movement programme on the academic performance of children attending ordinary primary school"
-    },
-    "Jorge E. Hirsch, 2005": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
-      ],
-      "title": ""
     },
     "Jose et al., 2025": {
       "doi": "",
@@ -60927,14 +60920,6 @@
       "isbn": "",
       "seen_in": [],
       "title": "Examination of One District's Identification, Assessment Practices, Preventative Interventions, and Longitudinal Literacy Learning of At-risk Readers"
-    },
-    "Leo Egghe, 2006": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/concepts/science-policy/g-Index.md"
-      ],
-      "title": ""
     },
     "Leo Strauss, 1959": {
       "doi": "",
@@ -83702,7 +83687,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/science-policy/h-Index.md"
+        "wiki/methods/quantitative/h-Index.md"
       ],
       "title": ""
     },
@@ -85608,6 +85593,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "The Relationship between Emotional Problems and Subsequent School Attainment: A Meta-Analysis"
+    },
+    "Rijt et al., 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+      ],
+      "title": ""
     },
     "Riley, 1963": {
       "doi": "",
@@ -109935,14 +109928,6 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/research-methodology/Unit of Analysis.md"
-      ],
-      "title": ""
-    },
-    "William Shockley, 1957": {
-      "doi": "",
-      "isbn": "",
-      "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
       ],
       "title": ""
     },

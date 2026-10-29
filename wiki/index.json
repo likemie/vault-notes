@@ -15976,16 +15976,6 @@
     ]
   },
   {
-    "title": "g-Index",
-    "type": "concept",
-    "path": "wiki/concepts/science-policy/g-Index.md",
-    "aliases": [
-      "g指数",
-      "Egghe's g-index",
-      "艾格指数"
-    ]
-  },
-  {
     "title": "Gold Standard Science",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Gold Standard Science.md",
@@ -16017,16 +16007,6 @@
       "社会重大挑战",
       "grand societal challenges",
       "社会大挑战"
-    ]
-  },
-  {
-    "title": "h-Index",
-    "type": "concept",
-    "path": "wiki/concepts/science-policy/h-Index.md",
-    "aliases": [
-      "h指数",
-      "Hirsch index",
-      "希尔施指数"
     ]
   },
   {
@@ -24222,6 +24202,16 @@
     ]
   },
   {
+    "title": "g-Index",
+    "type": "method",
+    "path": "wiki/methods/quantitative/g-Index.md",
+    "aliases": [
+      "g指数",
+      "Egghe's g-index",
+      "艾格指数"
+    ]
+  },
+  {
     "title": "Generalized Estimating Equations",
     "type": "method",
     "path": "wiki/methods/quantitative/Generalized Estimating Equations.md",
@@ -24230,6 +24220,16 @@
       "广义估计方程模型",
       "GEE",
       "Generalized Estimating Equations Model"
+    ]
+  },
+  {
+    "title": "h-Index",
+    "type": "method",
+    "path": "wiki/methods/quantitative/h-Index.md",
+    "aliases": [
+      "h指数",
+      "Hirsch index",
+      "希尔施指数"
     ]
   },
   {
@@ -31265,6 +31265,18 @@
     ]
   },
   {
+    "title": "Pierre Azoulay",
+    "type": "person",
+    "path": "wiki/persons/us/Pierre Azoulay.md",
+    "aliases": [
+      "皮埃尔·阿祖莱",
+      "阿祖莱",
+      "Pierre-Alexandre Azoulay",
+      "P. Azoulay",
+      "Azoulay, P."
+    ]
+  },
+  {
     "title": "Ralph Waldo Emerson",
     "type": "person",
     "path": "wiki/persons/us/Ralph Waldo Emerson.md",
@@ -31854,6 +31866,18 @@
       "Jeynes, W. H.",
       "威廉·杰恩斯",
       "杰尼斯"
+    ]
+  },
+  {
+    "title": "William Shockley",
+    "type": "person",
+    "path": "wiki/persons/us/William Shockley.md",
+    "aliases": [
+      "威廉·肖克利",
+      "肖克利",
+      "William Bradford Shockley",
+      "W. Shockley",
+      "Shockley, W."
     ]
   },
   {
