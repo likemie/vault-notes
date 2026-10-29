@@ -81,19 +81,15 @@ created: 2026-06-23
 updated: 2026-10-22
 ---
 
-## 定义
-
-预测效度是衡量测量工具外部有效性与未来发展解释力的核心心理测量学指标。
+---
 
 > [!def] Predictive Validity
 > 预测效度（Predictive Validity）是[[Criterion-related Validity|效标关联效度]]的一种核心形式，指某一测量工具在当前时间点获取的得分在多大程度上能够准确预测受试者在**未来某一时间点**所展现的外部效标行为、[[Academic Achievement|学业表现]]或实际成果。其核心判定标准在于**时间间隔（Time Interval）** 的存在，即预测源测量（Predictor）在时间上显著先于效标测量（Criterion）。在教育实证研究中，它既涵盖标准化选拔测验或高阶认知潜能对长期发展成就的跨期推断，也涵盖标准化[[Classroom Observation|课堂观察]]工具得分对学生未来学业增益的计量经济学预测。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 179)]]; [[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 2–3)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 12)]]
 
-从测验开发者与政策制定者的双重视角审视，预测效度提供了评估工具实用价值的核心准绳。
-
 > [!concept-lens] 概念透镜
 > - **含义** 预测效度回答的是：“当前工具测得的分数，能在多大程度上揭示个体在未来的发展轨迹、实际效能或学业增益？”
 > - **用途** 在选拔性考试（如[[Gaokao|高考]]、大学入学考试）、拔尖创新潜能甄拔、教学质量监测（如课堂观察工具赋分）及教育干预追踪中，预测效度是论证工具合法性与外推效力的根本支柱。
-> - **边界** 预测效度不评估测验工具本身的内在[[Construct|理论构念]]，而是通过建立时间先后序列与统计关联系数，为工具对未来外部真实结果的预测力提供经验支持。
+> - **边界** 预测效度侧重于评估测验得分与未来外部效标之间的经验关联强度；工具本身内在理论构念的完整性与真实性则由构念效度负责检验。
 
 学术界对[[Independent Variable|预测变量]]的角色定位与微观教学行为的跨期效用进行了深入探索。
 
@@ -118,10 +114,6 @@ updated: 2026-10-22
 
 ---
 
-## 概念辨析
-
-通过横向比对[[Criterion-related Validity|效标关联效度]]、[[Construct Validity|构念效度]]与[[Content Validity|内容效度]]，可以明确预测效度在时间序列与分析目标上的独特性。
-
 > [!contrast-table] 预测效度与相关效度维度的辨析
 > | 维度 | 预测效度（Predictive Validity） | [[Concurrent Validity\|共时效度]]（Concurrent Validity） | [[Construct Validity\|构念效度]]（Construct Validity） | [[Content Validity\|内容效度]]（Content Validity） |
 > |---|---|---|---|---|
@@ -132,14 +124,11 @@ updated: 2026-10-22
 
 ---
 
-## 核心要素与验证逻辑
-
-建立可靠的预测效度要求在预测工具、外部效标及时间追踪设计之间形成严谨的三角支撑。
-
-> [!feature] 预测效度成立的三大核心支柱
+> [!feature] 预测效度成立的四大核心支柱
 > - **预测源工具的高测量[[Reliability|信度]]（Predictor Reliability）** 预测工具必须具备高度的[[Internal Consistency|内部一致性]]与跨评分者稳定性，避免抽样与测量噪声衰减真实的预测关联系数。
 > - **效标指标的无偏性与客观性（Criterion Quality）** 外部效标必须与预测目标实质相关、测量精确且排除评分者主观偏倚（如避免评分者已知前测分数带来的效标污染，Wolf, 1994; [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]]）。
 > - **合理的追踪时滞跨度（Temporal Gap）** 时间间隔需足以使因果机制或潜能充分展开，但又不过长以致混杂过多外生不可控的环境噪声。
+> - **科研产出评价指标的长程预测效度** 在学术成就与学者评价中，指标对学者未来产出与引用的预测力构成了核心检验标准。实证追踪表明，相比单纯发文量或篇均引用量，$h$ 指数对学者未来长程总被引量及新作被引增量展现出最强的统计预测效度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]]
 
 从操作流程上看，预测效度的实证检验遵循标准化的纵向设计程序。
 

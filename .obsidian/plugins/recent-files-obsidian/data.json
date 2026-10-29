@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "template-argument-edited-volume",
-      "path": "wiki/templates/template-argument-edited-volume.md"
-    },
-    {
-      "basename": "template-argument-monograph",
-      "path": "wiki/templates/template-argument-monograph.md"
+      "basename": "Shockley's Multiplicative Hurdle Model",
+      "path": "wiki/theories/science-policy/Shockley's Multiplicative Hurdle Model.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit01",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
     },
     {
+      "basename": "Bibliometric Analysis",
+      "path": "wiki/methods/quantitative/Bibliometric Analysis.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
+    },
+    {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
+      "basename": "template-argument-monograph",
+      "path": "wiki/templates/template-argument-monograph.md"
+    },
+    {
+      "basename": "template-argument-edited-volume",
+      "path": "wiki/templates/template-argument-edited-volume.md"
+    },
+    {
+      "basename": "template-argument-textbook",
+      "path": "wiki/templates/template-argument-textbook.md"
+    },
+    {
+      "basename": "template-concept",
+      "path": "wiki/templates/template-concept.md"
     },
     {
       "basename": "Argument_Chou_2017_PolSoc",
@@ -179,26 +199,6 @@
     {
       "basename": "template-fact-organization",
       "path": "wiki/templates/template-fact-organization.md"
-    },
-    {
-      "basename": "Argument_Xie_Li_Huang_2021_GEO",
-      "path": "wiki/arguments/journal-articles/Global Education Outlook/Argument_Xie_Li_Huang_2021_GEO.md"
-    },
-    {
-      "basename": "上海市普陀区民政局关于印发《普陀区老龄事业发展“十五五”规划》的通知-上海普陀",
-      "path": "Clippings/上海市普陀区民政局关于印发《普陀区老龄事业发展“十五五”规划》的通知-上海普陀.md"
-    },
-    {
-      "basename": "关于印发《徐汇区老龄事业和养老服务发展“十五五”规划》的通知",
-      "path": "Clippings/关于印发《徐汇区老龄事业和养老服务发展“十五五”规划》的通知.md"
-    },
-    {
-      "basename": "上海市统一政策发布平台_上海市人民政府",
-      "path": "Clippings/上海市统一政策发布平台_上海市人民政府.md"
-    },
-    {
-      "basename": "1stClass@Number 1",
-      "path": "wiki/facts/uk/1stClass@Number 1.md"
     }
   ],
   "omittedPaths": [],
