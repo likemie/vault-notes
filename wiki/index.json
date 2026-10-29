@@ -24001,6 +24001,18 @@
     ]
   },
   {
+    "title": "Contemporary h-Index",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Contemporary h-Index.md",
+    "aliases": [
+      "当代h指数",
+      "当代 h 指数",
+      "Sidiropoulos 当代指数",
+      "hc-Index",
+      "hc 指数"
+    ]
+  },
+  {
     "title": "Content Validity Index",
     "type": "method",
     "path": "wiki/methods/quantitative/Content Validity Index.md",
@@ -24202,6 +24214,18 @@
       "Ebel procedure",
       "Ebel difficulty-relevance matrix",
       "难度相关度矩阵法"
+    ]
+  },
+  {
+    "title": "Eddington Number",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Eddington Number.md",
+    "aliases": [
+      "埃丁顿数",
+      "骑行埃丁顿数",
+      "Eddington 数",
+      "E-Number",
+      "Eddington's Number"
     ]
   },
   {
@@ -24456,6 +24480,17 @@
       "I-squared",
       "异质性百分比",
       "Higgins I2"
+    ]
+  },
+  {
+    "title": "i10-Index",
+    "type": "method",
+    "path": "wiki/methods/quantitative/i10-Index.md",
+    "aliases": [
+      "i10指数",
+      "i10 指数",
+      "Google Scholar i10 指数",
+      "i10-Metric"
     ]
   },
   {
