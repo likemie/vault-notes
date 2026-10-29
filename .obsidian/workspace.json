@@ -53,21 +53,6 @@
             }
           },
           {
-            "id": "abba685a99836a68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit01"
-            }
-          },
-          {
             "id": "a2aa5f6545a9eecb",
             "type": "leaf",
             "state": {
@@ -81,9 +66,24 @@
               "icon": "lucide-file",
               "title": "Argument_Murray_Moxon-Browne_2013_JCMS"
             }
+          },
+          {
+            "id": "d2c2692e91b4a6b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concepts/science-policy/h-Index.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "h-Index"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -288,12 +288,13 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "abba685a99836a68",
+  "active": "d2c2692e91b4a6b5",
   "lastOpenFiles": [
+    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+    "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md",
     "wiki/assets/geogebra/hirsch_h_index_v2.ggb",
     "wiki/assets/geogebra/shockley_lognormal_v2.ggb",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md",
-    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
     "wiki/assets/geogebra/hirsch_h_index.ggb",
     "wiki/assets/geogebra/shockley_lognormal.ggb",
     "wiki/assets/geogebra",
@@ -311,7 +312,6 @@
     "wiki/methods/quantitative/Bibliometric Analysis.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-006/batch-result.schema.json",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-007/prompt.md",
-    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-007/batch-result.schema.json",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-006/prompt.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-005/prompt.md",
     "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit01-fde31ae3/batch-004/prompt.md",
