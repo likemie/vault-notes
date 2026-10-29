@@ -78,25 +78,25 @@ related_facts:
   - "[[Bologna Process]]"
   - "[[ASEAN]]"
   - "[[EU]]"
+  - "[[SEAMEO]]"
   - "[[European Commission]]"
   - "[[ASEAN University Network]]"
+  - "[[Asia-Europe Foundation]]"
   - "[[European Association for Quality Assurance in Higher Education]]"
+  - "[[European University Association]]"
   - "[[SEAMEO RIHED]]"
   - "[[UNESCO]]"
+  - "[[Court of Justice of the European Union]]"
   - "[[Erasmus Programme]]"
   - "[[Lisbon Strategy]]"
   - "[[European Standards and Guidelines]]"
-  - "[[Southeast Asian Higher Education Common Space]]"
-  - "[[ASEAN Economic Community]]"
-  - "[[SHARE Programme]]"
-  - "[[SEAMEO]]"
-  - "[[AIMS Programme]]"
-  - "[[European University Association]]"
-  - "[[Court of Justice of the European Union]]"
-  - "[[Master Plan on ASEAN Connectivity]]"
   - "[[ASEAN Education Ministers Meeting]]"
+  - "[[ASEAN Economic Community]]"
+  - "[[Southeast Asian Higher Education Common Space]]"
+  - "[[Master Plan on ASEAN Connectivity]]"
   - "[[ASEAN Credit Transfer System]]"
-  - "[[Asia-Europe Foundation]]"
+  - "[[AIMS Programme]]"
+  - "[[SHARE Programme]]"
 related_arguments: []
 sources:
   - "[[sources/Chou_2017_PolSoc|Chou_2017_PolSoc]]"
@@ -115,7 +115,7 @@ updated: 2026-10-29
 > 欧洲与东南亚的[[Global Regionalisms|高等教育区域主义]]属于两种截然不同的制度类型。两地演进深受各自区域合作传统与全球知识话语的影响：欧洲依托[[Bologna Process|博洛尼亚进程]]形成了追求全域趋同的旗舰模式；东南亚立足[[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN）倡导的[[ASEAN Way|东盟方式]]，发展出名校结网与部委协调并立的竞逐模式。这一实证发现[[Falsification|证伪]]了欧洲政策单向扩散的理论假说，表明[[Comparative Regionalism|比较区域主义]]应当以具体政策部门为[[Unit of Analysis|分析单位]]，立足实地田野开展扎根研究。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 欧洲（[[EU|欧洲联盟]]（European Union, EU）与博洛尼亚进程 48 个参与国）与东南亚（ASEAN 十国与东南亚教育部长组织）的高等教育区域一体化倡议、多边治理机构及关键政策官员与决策者。
+> - **对象** 欧洲（[[EU|欧洲联盟]]（European Union, EU）与博洛尼亚进程 48 个参与国）与东南亚（ASEAN 十国与[[SEAMEO|东南亚教育部长组织]]）的高等教育区域一体化倡议、多边治理机构及关键政策官员与决策者。
 > - **张力** [[Comparative Regionalism|比较区域主义]]理论中普遍预设的欧洲中心主义单向扩散假说（假定非欧洲区域必然通过政策借鉴、规制竞争或规范模仿吸收博洛尼亚模板）与东南亚后殖民历史下深层主权防卫、组织职能分立及维护多样性本土诉求之间的实质张力。
 > - **贡献** 确立了基于政策部门的比较区域主义分析[[Paradigm|范式]]，将观念细化为被解释[[Variable|变量]]（界定区域主义性质与目标的政策理念）与解释变量（宏观区域合作模式与全球知识经济话语），通过扎实的一手田野证据揭示了发展中国家区域高等教育空间建构的内生动力与自主机制。
 
@@ -146,8 +146,8 @@ updated: 2026-10-29
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **访谈样本** | 东南亚完成 43 场深度访谈（2015 年 4 月至 2016 年 3 月，于曼谷、雅加达和新加坡进行），系统覆盖东盟布鲁塞尔委员会、东盟秘书处、[[ASEAN University Network|东盟大学联盟（ASEAN University Network, AUN）]]秘书处、[[Asia-Europe Foundation|亚欧基金会]]（Asia-Europe Foundation, ASEF）、英国文化教育协会、[[European Association for Quality Assurance in Higher Education|欧洲高等教育质量保障协会（European Association for Quality Assurance in Higher Education, ENQA）]]、[[European University Association|欧洲大学协会（European University Association, EUA）]]、欧洲驻东南亚国家外交使团（法、英）、德意志学术交流中心（German Academic Exchange Service, DAAD）、[[SEAMEO RIHED|东南亚教育部长组织高等教育与发展区域中心（SEAMEO Regional Centre for Higher Education and Development, SEAMEO RIHED）]]与[[UNESCO|联合国教科文组织（United Nations Educational, Scientific and Cultural Organization, UNESCO）]]曼谷办事处代表；布鲁塞尔完成 10 场欧洲委员会总署访谈（发展合作总署、教育文化总署、对外行动署）。 |
-> | **文本样本** | 欧洲方面涵盖 1950 年代欧洲共同体成立备忘录、1980 年代[[Court of Justice of the European Union|欧洲法院]]教育判例、1987 年[[Erasmus Programme|伊拉斯谟计划]]决议、1999 年博洛尼亚宣言及后续部长级公报、欧盟[[Lisbon Strategy|里斯本战略]]与欧洲 2020 战略；东南亚方面涵盖 1965 年[[SEAMEO|东南亚教育部长组织]]（Southeast Asian Ministers of Education Organisation, SEAMEO）宪章、1967 年东盟曼谷宣言、东盟大学联盟章程、2007 年《东盟大学联盟质量保障指南》、东南亚教育部长组织高教中心 2008 年区域一体化测绘报告与 2012 年质量保障研究报告。 |
+> | **访谈样本** | 东南亚完成 43 场深度访谈（2015 年 4 月至 2016 年 3 月，于曼谷、雅加达和新加坡进行），系统覆盖东盟布鲁塞尔委员会、东盟秘书处、[[ASEAN University Network\|东盟大学联盟（ASEAN University Network, AUN）]]秘书处、[[Asia-Europe Foundation\|亚欧基金会]]（Asia-Europe Foundation, ASEF）、英国文化教育协会、[[European Association for Quality Assurance in Higher Education\|欧洲高等教育质量保障协会（European Association for Quality Assurance in Higher Education, ENQA）]]、[[European University Association\|欧洲大学协会（European University Association, EUA）]]、欧洲驻东南亚国家外交使团（法、英）、德意志学术交流中心（German Academic Exchange Service, DAAD）、[[SEAMEO RIHED\|东南亚教育部长组织高等教育与发展区域中心（SEAMEO Regional Centre for Higher Education and Development, SEAMEO RIHED）]]与[[UNESCO\|联合国教科文组织（United Nations Educational, Scientific and Cultural Organization, UNESCO）]]曼谷办事处代表；布鲁塞尔完成 10 场欧洲委员会总署访谈（发展合作总署、教育文化总署、对外行动署）。 |
+> | **文本样本** | 欧洲方面涵盖 1950 年代欧洲共同体成立备忘录、1980 年代[[Court of Justice of the European Union\|欧洲法院]]教育判例、1987 年[[Erasmus Programme\|伊拉斯谟计划]]决议、1999 年博洛尼亚宣言及后续部长级公报、欧盟[[Lisbon Strategy\|里斯本战略]]与欧洲 2020 战略；东南亚方面涵盖 1965 年[[SEAMEO\|东南亚教育部长组织]]（Southeast Asian Ministers of Education Organisation, SEAMEO）宪章、1967 年东盟曼谷宣言、东盟大学联盟章程、2007 年《东盟大学联盟质量保障指南》、东南亚教育部长组织高教中心 2008 年区域一体化测绘报告与 2012 年质量保障研究报告。 |
 > | **材料情境** | 针对两地公开档案可获取性的严重非对称性（欧洲[[Document\|文献]]极其丰富易得，东南亚公开资料相对稀缺），材料收集严格遵循匿名[[Informed Consent\|知情同意]]原则以保障受访者真实表达，并通过多方口述交叉互证补足东南亚[[Deficiencies in Past Literature\|文献缺口]]。 |
 
 ---
@@ -168,10 +168,10 @@ updated: 2026-10-29
 
 ## 论证结构
 
-> [!claim] 论证步骤一　欧洲高教一体化通过自愿政策协调确立全域趋同的旗舰模式
+> [!claim|step] 论证步骤一　欧洲高教一体化通过自愿政策协调确立全域趋同的旗舰模式
 > 欧洲高等教育一体化历经长期曲折探索，其早期创设欧洲大学实体的构想因民族国家主权防卫而受挫；直到将资助[[Student Mobility|学生流动]]确立为核心理念，才推动欧洲委员会逐步介入高等教育领域；最终在世纪之交因应消除流动结构性壁垒与提升全球[[Competitiveness|竞争力]]的诉求，演化为以自愿趋同和政策协调为标志的博洛尼亚治理网络。
 
-#### 1. 资助流动无法消除学制壁垒，博洛尼亚进程转向自愿政策协调
+> [!sub-claim] 1. 资助流动无法消除学制壁垒，[[Bologna Process|博洛尼亚进程]]转向自愿政策协调
 
 > [!dev-timeline] 欧洲高等教育政策演化的四个历史阶段
 > - **1950–1970 年代 — 主权防卫与实体大学构想搁浅** 政策合作讨论始于 1955 年 (Corbett, 2005)。当时曾有倡议试图设立一所超国家的欧洲大学（European University），但法国等民族国家政府对本国教育主权极度敏感，坚决抵制这一构想，导致其未能在《罗马条约》中取得法律地位。此后二十年间，高教政策合作只能在[[EU|欧洲共同体]]正式架构之外展开，主要依靠欧洲委员会（Council of Europe）的政府间条约网络，以及欧洲高校校长常设会议的专业人际网络来维持。
@@ -188,7 +188,7 @@ updated: 2026-10-29
 >
 > *This seemingly subtle change in ideational emphasis masked the awareness among Bologna members that embracing funding student mobility as the sole policy idea for European [[Global Regionalisms|higher education regionalism]] was flawed... While these developments were geared towards improving the overall mobility of European students, the importance of student employability and competitiveness of European higher education dominated.*
 
-#### 2. 软法治理结合知识经济竞争，促成全域统一的旗舰模式
+> [!sub-claim] 2. 软法治理结合知识经济竞争，促成全域统一的旗舰模式
 
 > [!actor-grid] 欧洲高教多层次治理中的行动者博弈
 > - **欧洲联盟委员会（European Commission）** 在缺乏条约直接立法权的情况下展现出高度能动性，借助职业培训条约条款与[[Court of Justice of the European Union|欧洲法院]]判例，通过专项资助和议程设置深入介入高教事务。
@@ -207,23 +207,23 @@ updated: 2026-10-29
 
 ---
 
-> [!claim] 论证步骤二　东南亚恪守[[ASEAN|东盟]]方式捍卫主权，演化出大学结网与部委协调并立的竞逐模式
+> [!claim|step] 论证步骤二　东南亚恪守[[ASEAN|东盟]]方式捍卫主权，演化出大学结网与部委协调并立的竞逐模式
 > 东南亚多边教育合作早于欧洲博洛尼亚进程。面对深厚的后殖民历史记忆与强烈的国家主权诉求，东南亚国家坚持不干涉内政与协商一致的[[ASEAN Way|东盟方式]]，刻意避开建立超国家集权机构。两大多边平台由此确立分工：[[ASEAN University Network|东盟大学联盟]]专注于少数顶尖大学的务实结网，[[SEAMEO RIHED|东南亚教育部长组织高教中心]]则负责各国教育部的政策沟通。在经济共同体建设倒逼下，全球知识话语成为合法化合作的有效工具，促成了多帆并进的竞逐模式。
 
-#### 1. 东南亚高教合作起步更早，在发展中确立高校与部委双轨分工
+> [!sub-claim] 1. 东南亚高教合作起步更早，在发展中确立高校与部委双轨分工
 
 > [!dev-timeline] 东南亚高教区域合作演化的四个历史阶段
 > - **1960–1980 年代 — 外交框架优先与高教议题从属** 东南亚多边教育合作早于欧洲大规模实践。1961 年[[UNESCO|联合国教科文组织]]在曼谷设立办事处；1965 年[[SEAMEO|东南亚教育部长组织]]正式成立，促进教育、科学与文化合作；1967 年东南亚国家联盟宣告成立。初期虽设立了[[ASEAN Education Ministers Meeting|东盟教育部长会议]]（ASEAN Education Ministers Meeting, ASED），但该机制很快停摆，政府间实质合作主要依托 SEAMEO 开展 (Dang, 2012)。当时高等教育未被列为独立优先事项，多边合作重心完全聚焦于搭建区域多边外交骨架，未深入涉及实质教育政策内容。
 > - **1990 年代 — 高教战略地位提升与双轨分工确立** 1990 年代初东南亚迎来明确的高教战略转向，先后设立了两个理念截然不同的多边平台。其一是 1992 年提议、1995 年正式设立的东盟大学联盟（AUN），聚焦区域内 30 所顶尖旗舰大学，围绕具体学科开展务实的项目合作与人员流动；其二是 1993 年东南亚教育部长组织在曼谷恢复设立的SEAMEO 高教中心，代表政府间教育部委权威，推进全域层面的宏观政策协调。
 > - **2000 年代末 — 经济共同体建设倒逼教育对接加速** 2007 年东盟峰会确立了在 2015 年前建成[[ASEAN Economic Community|东盟经济共同体]]（ASEAN Economic Community, AEC）的决定性时间表。这一高度政治化的经济整合承诺产生横向带动效应，倒逼东盟社会文化共同体（ASEAN Socio-Cultural Community, ASCC）加快解决人才流动与专业资质互认难题。全球知识经济话语使各国政府认识到高等教育与经济生产力的紧密联系，将高教合作深度融入区域整体发展议程。
-> - **2010 年代至今 — 弹性伞式框架下建设共同空间** 面对 AUN 与 RIHED 多年积累的大量分散项目，东南亚各方提出建设[[Southeast Asian Higher Education Common Space|东南亚高等教育共同空间]]。这一概念用于包容并理顺既有机制，充当弹性的伞式平台，通过[[Master Plan on ASEAN Connectivity|《东盟互联互通总体规划》]]（Master Plan on ASEAN Connectivity, MPAC）的人文互联支柱（[[People-to-People Connectivity]]）推动校际学分互认与质保经验对话，在充分尊重制度多样性的前提下促进务实连通。
+> - **2010 年代至今 — 弹性伞式框架下建设共同空间** 面对 AUN 与 RIHED 多年积累的大量分散项目，东南亚各方提出建设[[Southeast Asian Higher Education Common Space|东南亚高等教育共同空间]]。这一概念用于包容并理顺既有机制，充当弹性的伞式平台，通过《[[Master Plan on ASEAN Connectivity|东盟互联互通总体规划]]》（Master Plan on ASEAN Connectivity, MPAC）的人文互联支柱（[[People-to-People Connectivity]]）推动校际学分互认与质保经验对话，在充分尊重制度多样性的前提下促进务实连通。
 
 > [!citation-card] 东南亚刻意分立高校与部委职能以防范集权
 > 区域历史遗产与[[ASEAN Way|东盟方式]]促成了东盟大学联盟与高教中心这种独特的分工格局。各成员国普遍希望严格区分主权政府官员与东盟代表的决策权限，防止权力混杂并防范超国家机构的出现。
 >
 > *Our interviewees repeatedly referred to the ASEAN Way, and the region's historical legacy, as responsible for the singular organisational division of labour – i.e. AUN and RIHED – for South-East Asian higher education regionalism. This approach reflects participating member states' general preference to prevent any potential co-mingling of decision-making powers between state officials and ASEAN representatives.*
 
-#### 2. 东盟大学联盟聚焦名校务实结网，高教中心主导部委政策对接
+> [!sub-claim] 2. 东盟大学联盟聚焦名校务实结网，高教中心主导部委政策对接
 
 > [!line-a] 东盟大学联盟（AUN）：精英高校网络与微观务实协同
 > - **组织属性与定位** 1995 年依托曼谷朱拉隆功大学设立常设秘书处，决策权由成员国顶尖高校校长主导。
@@ -242,10 +242,10 @@ updated: 2026-10-29
 > | **组织法律属性** | 名义上列入东盟部门机构附录，实际决策权由各成员国顶尖高校校长主导 | 跨国政府间教育组织的自治专门中心，直属各成员国教育部部长组成的理事会管辖 |
 > | **核心治理理念** | 以旗舰大学为重心的务实网络化协同，围绕特定学科开展微观互惠合作 | 以具备政策制定权的主权政府官员为主体，谋求覆盖全域各类型高校的宏观政策协调 |
 > | **辐射对象与范围** | 严格限制为东盟各成员国 30 所顶尖[[Research Universities\|研究型大学]]，向非东盟伙伴有限开放 | 覆盖东南亚全部成员国（含非东盟成员东帝汶）的全体公立与私立高等教育机构 |
-> | **代表性政策工具** | 《质量保障指南》(AUN, 2007) 与[[ASEAN Credit Transfer System|东盟学分转移系统（ACTS）]] | 《区域高教空间规划报告》(SEAMEO RIHED, 2008)、《国家质保框架对接》(SEAMEO RIHED, 2012) 与[[AIMS Programme|亚洲国际学生流动计划（AIMS）]] |
+> | **代表性政策工具** | 《质量保障指南》(AUN, 2007) 与[[ASEAN Credit Transfer System\|东盟学分转移系统（ACTS）]] | 《区域高教空间规划报告》(SEAMEO RIHED, 2008)、《国家质保框架对接》(SEAMEO RIHED, 2012) 与[[AIMS Programme\|亚洲国际学生流动计划（AIMS）]] |
 > | **实施推进机制** | 遵循院校自愿个案参与原则，项目由各校自主认领并自筹匹配资金 | 遵循多边政府间协商一致原则，通过多国政府间小范围试点稳步扩大示范 |
 
-#### 3. 经济一体化倒逼政策连通，知识话语成为维护主权的合作支点
+> [!sub-claim] 3. 经济一体化倒逼政策连通，知识话语成为维护主权的合作支点
 
 > [!quad-grid] 东南亚高教竞逐模式成型的四大支柱
 > - **东盟方式的规制约束** 成员国普遍保有深厚的去殖民化历史记忆，对外部干预和让渡国家主权怀有极高警惕；坚持不干预内政与协商一致，刻意将权力分散在 AUN 与 RIHED 两个互不隶属的平台，防范出现超国家集权官僚。
@@ -258,10 +258,10 @@ updated: 2026-10-29
 
 ---
 
-> [!claim] 论证步骤三　东南亚自主抵制博洛尼亚模式，[[Falsification|证伪]]了[[Bologna Process Export Thesis|博洛尼亚进程输出假说]]
+> [!claim|step] 论证步骤三　东南亚自主抵制博洛尼亚模式，[[Falsification|证伪]]了[[Bologna Process Export Thesis|博洛尼亚进程输出假说]]
 > 欧洲与东南亚的高等教育区域建设代表了两类截然不同的治理路径。实地调研与官方报告证实，东南亚政策制定者明确拒绝全盘照搬博洛尼亚模式。这一发现推翻了[[Comparative Regionalism|比较区域主义]][[Document|文献]]中预设的单向扩散假说，表明区域治理不存在单一发展范本。比较区域主义必须跳出欧洲中心主义，以具体政策部门为基本[[Unit of Analysis|分析单位]]，立足实地[[Fieldwork|田野调查]]发掘多元内生动力。
 
-#### 1. 欧洲旗舰统领与东南亚多帆竞逐代表两类本质不同的治理路径
+> [!sub-claim] 1. 欧洲旗舰统领与东南亚多帆竞逐代表两类本质不同的治理路径
 
 > [!row-contrast] 欧洲与东南亚高等教育区域主义的核心维度对比
 > | 考察维度 | 欧洲高等教育区域主义（旗舰模式） | 东南亚高等教育区域主义（竞逐模式） |
@@ -270,11 +270,11 @@ updated: 2026-10-29
 > | **核心政策诉求** | 追求全域实质趋同，建立统一互认的学制架构、学分标准与资历框架 | 强调尊重多样性与[[State Educational Sovereignty\|国家教育主权]]，追求最低底线兼容，倡导务实协调与底线互通 |
 > | **治理权威架构** | 政府间部长会议与超国家欧盟委员会深度交织，逐步形成准集权协调机制 | 严格分离各平台权限，维持部委网络与高校网络的平级分工，防范权力集中 |
 > | **多样性应对哲学** | 将多样性视作一体化阻碍，通过推行通用工具（ECTS/ESG）消除学制差异 | 将多样性视作不可侵犯的现实基础，依托自愿试点与弹性学分折算实现互通 |
-> | **品牌标识认同** | 伊拉斯谟与博洛尼亚成为全欧乃至全球公认的高教合作超级品牌 | 缺乏全域统一品牌，主要表现为分散的阶段性具体项目（如东盟大学联盟质量保障网络（ASEAN University Network-Quality Assurance, AUN-QA）、[[AIMS Programme|AIMS]]） |
-> | **外部合作姿态** | 倾向于对外展示并输出自身一体化制度成果、资历标准与成熟工具包 | 在接纳外部合作（如[[SHARE Programme|欧盟支持东盟高等教育项目]]（European Union Support to Higher Education in the ASEAN Region, SHARE））时高度警惕干预，坚守本土主导权 |
+> | **品牌标识认同** | 伊拉斯谟与博洛尼亚成为全欧乃至全球公认的高教合作超级品牌 | 缺乏全域统一品牌，主要表现为分散的阶段性具体项目（如东盟大学联盟质量保障网络（ASEAN University Network-Quality Assurance, AUN-QA）、[[AIMS Programme\|AIMS]]） |
+> | **外部合作姿态** | 倾向于对外展示并输出自身一体化制度成果、资历标准与成熟工具包 | 在接纳外部合作（如[[SHARE Programme\|欧盟支持东盟高等教育项目]]（European Union Support to Higher Education in the ASEAN Region, SHARE））时高度警惕干预，坚守本土主导权 |
 > | **演进动力机制** | 内部自愿协调逐步获得超国家行政资源支撑，依靠指标化[[Peer Pressure\|同行压力]]驱动 | 经济共同体一体化目标外部倒逼，依托国家领导人政治承诺与柔性协商 |
 
-#### 2. 东南亚官方明确排斥博洛尼亚模板，三大政策扩散机制全部失灵
+> [!sub-claim] 2. 东南亚官方明确排斥博洛尼亚模板，三大政策扩散机制全部失灵
 
 > [!critique-data] 对[[Bologna Process Export Thesis|博洛尼亚进程输出假说]]三大扩散机制的实证证伪
 > - **经验借鉴机制（Lesson-Drawing）在田野中破产** 主流扩散理论假定后发区域会主动借鉴成熟组织的先进治理方案以提高效率；然而东南亚教育部长组织高教中心 2008 年受命开展的官方测绘报告明确指出，博洛尼亚模式在亚洲引发了广泛疑虑，在规划本土进程时必须审慎规避其自上而下的同构趋同路径 (SEAMEO RIHED, 2008, p. 82)。
@@ -286,13 +286,13 @@ updated: 2026-10-29
 >
 > *Our findings indicate that the 'Bologna Process export thesis' and the diffusion assumptions of comparative regionalism are too simplistic and misleading... in their search for 'best practices' South-East Asian actors explicitly rejected the Bologna Process as the model that should be embraced.*
 
-> [!case] 区域间政策互动中的[[Epistemic Friction|认知摩擦]]：[[SHARE Programme|欧盟-东盟 SHARE 项目]]案例
+> [!case] 区域间政策互动中的[[Epistemic Friction|认知摩擦]]：欧盟-东盟 SHARE 项目案例
 > - **政策背景与倡议初衷** 2015 年启动的[[SHARE Programme|欧盟支持东盟高等教育项目]]（SHARE）旨在深化跨区域[[Dialogue in Education|教育对话]]与人员流动。
 > - **单向移植引发认知摩擦** 欧洲官员因对东南亚既有内生协调成果（AUN-QA 与 SEAMEO RIHED 工具包）缺乏知晓与尊重，试图直接移植欧洲资历标准，诱发深层[[Epistemic Friction\|认知摩擦]]。
 > - **本土主权防卫与对质重构** 东南亚政策制定者明确拒绝欧洲一刀切模板，坚守[[ASEAN Way|东盟方式]]与本土主导权，迫使项目回归对区域多样性与既有机制的承认。
 > - **案例经验启示** [[SHARE Programme|SHARE 项目]]的波折证实，跨区域高等教育政策互动受制于本土合法性过滤机制，具有鲜明的权力和利益博弈属性。
 
-#### 3. 比较区域主义必须跳出欧洲中心主义，立足政策部门与实地田野
+> [!sub-claim] 3. 比较区域主义必须跳出欧洲中心主义，立足政策部门与实地田野
 
 > [!chain-link] 跨国政策理念在区域部门中的差异化转译与制度成型机制
 > - **前提：跨国观念与制度场景** 全球知识经济话语与跨国流动倡议在世界各大地理区域广泛传播，构成各区域政策协调的共同宏观背景。

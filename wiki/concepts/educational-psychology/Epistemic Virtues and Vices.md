@@ -40,13 +40,13 @@ related_concepts:
   - "[[Intellectual Emotions]]"
   - "[[Ontology]]"
   - "[[Epistemic Cognition]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Effective Teaching]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Cognitive Deskilling]]"
   - "[[Creative Deskilling]]"
   - "[[Reliability]]"
-  - "[[Generative Artificial Intelligence]]"
 related_theories:
   - "[[Virtue Epistemology]]"
   - "[[Expanded Framework of Epistemic Cognition]]"
@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -124,10 +124,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　理智美德由追求真理的内在动机与成功导向的智力技能双重构成
-
-> [!concept-lens] [[Virtue Epistemology|德性认识论]]责任论与两成分构件模型
-> 探讨理智美德与中性智力技能的[[Ontology|本体论]]界限，确立品格教育不可将美德简化为单纯的思维技巧。
+> [!concept-proposition] 命题一｜理智美德由追求真理的内在动机与成功导向的智力技能双重构成
+> **探讨维度　[[Virtue Epistemology|德性认识论]]责任论与两成分构件模型** 探讨理智美德与中性智力技能的[[Ontology|本体论]]界限，确立品格教育不可将美德简化为单纯的思维技巧。
 
 > [!claim] Naeem, H.
 > **动机成分与技能构件的不可替代性** 依据德性责任论，理智美德不是单纯的习惯反应或机械技术，而是具有两成分结构的复合品格：① **动机成分** 主体对真理和理解等认知善品的内在真诚热爱；② **能力构件** 确保认识成功的有效智力技能（如提问、推理）。技能描述认识主体“能做什么”，可以被缺乏求真态度的人用来应试或诡辩；美德才代表认识主体“是谁”，必须以真诚求真为内核。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 271–274)]]
@@ -137,20 +135,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　理智情感充当操作性智力技能内化升华为持久理智美德的心理催化纽带
-
-> [!concept-lens] 情感[[Epistemology|认识论]]与理智品格内化动力学
-> 探讨认识主体如何从外在的技能操作练习跃升为内在对真理的持久追求。
+> [!concept-proposition] 命题二｜[[Intellectual Emotions|理智情感]]充当操作性智力技能内化升华为持久理智美德的心理催化纽带
+> **探讨维度　情感[[Epistemology|认识论]]与理智品格内化动力学** 探讨认识主体如何从外在的技能操作练习跃升为内在对真理的持久追求。
 
 > [!claim] Naeem, H.
 > **[[Intellectual Emotions|理智情感]]对求真动机的内化催化作用** 仅仅通过外在要求或重复训练[[Skill of Questioning|提问技能]]，学生可能只为了应付考试或取悦教师，无法自发生成理智美德。基于情感认识论（Brady, 2019; Battaly, 2006），好奇、着迷与惊异等[[Intellectual Emotions|理智情感]]能够点燃个体对探究本身的深层吸引力，使个体超越功利性目标，发自内心地热爱真理与探索，从而将外在技能稳固沉淀为[[Open-Mindedness|思想开放]]与[[Creativity|创造力]]等理智美德。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 278–282)]]
 
 ---
 
-### 命题三　生成式人工智能可通过功能性德性榜样与启发式提问脚手架有效培育理智品格
-
-> [!concept-lens] [[Man-Computer Symbiosis|人机协同]]教学法与数智品格教育可行性
-> 探讨无意识的人工智能系统如何超越解题机器，成为儿童理智美德发展的[[Effective Teaching|有效教学]]支架。
+> [!concept-proposition] 命题三｜[[Generative Artificial Intelligence|生成式人工智能]]可通过功能性德性榜样与启发式提问[[Scaffolding|脚手架]]有效培育理智品格
+> **探讨维度　[[Man-Computer Symbiosis|人机协同]]教学法与数智品格教育可行性** 探讨无意识的人工智能系统如何超越解题机器，成为儿童理智美德发展的[[Effective Teaching|有效教学]]支架。
 
 > [!claim] Naeem, H.
 > **提问导师与故事模式的功能性示范机制** 针对机器能否参与美德教育的质疑，应当区分本体论上拥有美德与功能上示范美德行为。通过将大语言模型设计为提问导师（Question-Tutor, Q-Tutor），系统在 AI 主导探究与学生主导练习中拒绝直接给答案，训练提问技能；同时借助故事模式生成贴合学生个人兴趣的拟人角色故事（如蜘蛛打破常规异形织网案例），在功能上生动模拟有美德者面对困惑时的[[Humility|谦逊]]求教与开放倾听，有效激发儿童的情感共鸣并促成理智品格的养成。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 275–282)]]

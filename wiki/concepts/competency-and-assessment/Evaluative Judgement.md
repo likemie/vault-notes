@@ -8,7 +8,7 @@ aliases:
 summary: "学习者理解何为良好工作质量，并能够对自己及他人的工作质量做出审慎、明智评价决策的核心能力。在高等教育与智能化求知情境中，评价性判断被确立为不可向算法外包的核心认识能力与终身学习基石。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Strategic Compliance]]"
   - "[[Theoretical Perspective]]"
   - "[[Lifelong Learning]]"
+  - "[[Peer Assessment]]"
   - "[[Communities of Practice]]"
   - "[[Tacit Knowledge]]"
   - "[[Epistemic Dependence]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Operationalization]]"
   - "[[Epistemology]]"
+  - "[[Scoring Rubrics]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[AI Literacy]]"
@@ -48,7 +50,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 （评价性判断 / 评估判断力）
@@ -110,30 +112,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　评价性判断是学习者超越外在教学依赖、维系终身自主学习的基石
-
-> [!concept-lens] 学习者能动性与[[Lifelong Learning\|终身学习]]发展机制
-> 传统教育往往将评分特权垄断在教师手中，导致学生离开学校后缺乏独立评估自身工作水准的能力。
+> [!concept-proposition] 命题一｜评价性判断是学习者超越外在教学依赖、维系终身[[Learner Autonomy|自主学习]]的基石
+> **探讨维度　学习者能动性与[[Lifelong Learning\|终身学习]]发展机制** 传统教育往往将评分特权垄断在教师手中，导致学生离开学校后缺乏独立评估自身工作水准的能力。
 
 > [!claim] Tai et al. (2018); Boud et al.
 > **终身学习的评价能力基础** 高等教育不能止步于传授静态知识，其根本使命在于培养学生的评价性判断力。当学生进入真实职场与学术界时，不再有教师提供现成答案或批改量规；专业人员必须能够独立判断一份方案是否完备、推导是否严密。因此，评价实践必须从“教师单向评价学生”转向“引导学生在实践中演练评价”，使学生逐步成为自身与他人成果的合格评判者。
 
 ---
 
-### 命题二　评价性判断在多源范例对比与同伴互评的社会性交互中生成而非单纯依靠显性量规
-
-> [!concept-lens] [[Communities of Practice|实践社群]]与内隐知识社会化
-> 卓越工作的质量判准往往包含大量无法被语言完全穷尽的[[Tacit Knowledge|隐性知识]]（Tacit Knowledge）。
+> [!concept-proposition] 命题二｜评价性判断在多源范例对比与[[Peer Assessment|同伴互评]]的社会性交互中生成而非单纯依靠显性量规
+> **探讨维度　[[Communities of Practice|实践社群]]与内隐知识社会化** 卓越工作的质量判准往往包含大量无法被语言完全穷尽的[[Tacit Knowledge|隐性知识]]（Tacit Knowledge）。
 
 > [!claim] Boud and Soler (2016)
 > **多源范例对比与校准机制** 单纯提供详尽的量规文字无法自动生成高水平的评价性判断。量规往往是抽象和死板的；唯有让学生接触不同质量水平的真实范例，并组织同伴之间相互评阅、对比辩论，学生才能在观察他人优缺点与自我对比的碰撞中，体会什么是高水平论证，进而将外在规则内化为敏锐的专业品味。
 
 ---
 
-### 命题三　人工智能环境下的评价性判断具有不可委托性，是区分生产性与有害认识依赖的核心分水岭
-
-> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]环境中的判断权分配
-> 探讨生成式技术的即时评级与润色如何威胁学习者的评价能力，确立人类不可让渡的认知底线。
+> [!concept-proposition] 命题三｜人工智能环境下的评价性判断具有不可委托性，是区分生产性与有害[[Epistemic Dependence|认识依赖]]的核心分水岭
+> **探讨维度　[[Man-Computer Symbiosis|人机共生]]环境中的判断权分配** 探讨生成式技术的即时评级与润色如何威胁学习者的评价能力，确立人类不可让渡的认知底线。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **评价性判断不可委托与[[Epistemic Dependence\|认识依赖]]诊断** 人工智能介入学习的风险从来不在于使用频次的多寡，而在于协助形态与认知判断之间的实质关系。生成式模型以流畅自信的语调输出解答，极易诱使学生将判定论点是否充分、理论是否切题的“评价性判断”完全让渡给算法。一旦评价性判断被算法接管，学习者便失去了权衡证据与承受不确定性的中间认识动作，导致推导可恢复性崩溃与严重的有害认识依赖。相反，若学生将模型输出仅作为“探究对象”，主动调动学科标准对其进行红队查错与独立裁决，评价性判断便在人机交互中得到显著锤炼，实现关系性[[Epistemic Agency\|认识主体性]]的稳固维护。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–6)]]
@@ -160,7 +156,7 @@ updated: 2026-10-25
 > [!debates] 理论与实践争议
 >
 > > [!axis] 量规标准化（Explicit Rubrics） vs [[Tacit Knowledge|默会知识]]判断力（Tacit Evaluative Taste）
-> > 争论教学中是否应当将评价标准尽可能细化为穷尽的评分量规。
+> > 争论教学中是否应当将评价标准尽可能细化为穷尽的[[Scoring Rubrics|评分量规]]。
 > >
 > > - **量规细化论** 强调越详尽的量规越能保证评分公平性与透明度，降低学生的认知焦虑。
 > > - **判断力生成论（Sadler, 2014; Tai et al., 2018）** 批评过度细化的量规会导致“考核点清单主义（Tick-box Mentality）”，剥夺了学生面对真实复杂问题时把握整体卓越品质的判断力。

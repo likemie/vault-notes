@@ -10,7 +10,7 @@ aliases:
 summary: "由斯蒂芬·鲍尔与德博拉·尤德尔界定的教育私有化核心形态，特指通过合同承包、公私伙伴关系（PPP）、特许学校以及购买教育管理组织（EMO）服务，将公共教育的基础设施、教学交付、评价研发乃至政策制定权全面向私营资本和非民选精英网络开放。当代外生私有化呈现出以免税信托控股营利实体的双层法人避税架构，并进一步演变为国家教育立法议程本身的隐性私有化。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,6 +22,7 @@ tags:
   - charter-schools
 related_concepts:
   - "[[Public-Private Partnership]]"
+  - "[[Charter Schools]]"
   - "[[Educational Management Organisation]]"
   - "[[Dual-Entity Legal Structure]]"
   - "[[Endogenous Privatisation]]"
@@ -41,6 +42,7 @@ related_instruments:
 related_persons:
   - "[[Stephen Ball]]"
   - "[[John O'Neill]]"
+  - "[[James C. Scott]]"
 related_facts:
   - "[[Partnership Schools Kura Hourua]]"
   - "[[Cognition Education]]"
@@ -50,13 +52,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Exogenous Privatisation
-> **外生私有化（Exogenous Privatisation）**，亦称**针对公立教育的私有化（Privatisation of Public Education）**，是由[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）提出的理论范畴，特指通过合同承包、[[Public-Private Partnership|公私伙伴关系]]（PPP）、特许学校（Charter Schools / Partnership Schools）以及向私营[[Educational Management Organisation|教育管理组织]]（EMO）采购核心业务，将原本由公共部门承担的校舍建设、课程开发、测验评价与日常教学交付全面向营利或非营利私营实体开放的制度过程。当代实证研究（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）进一步揭示，外生私有化已经从早期的后勤基建承包，演进为涵盖免税慈善信托控股营利实体的[[Dual-Entity Legal Structure|双层法人架构]]，并最终演变为跨界商业网络直接主导国家教育立法与政策议程设置的**政策制定权隐性私有化**。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 4–6)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
+> **外生私有化（Exogenous Privatisation）**，亦称**针对公立教育的私有化（Privatisation of Public Education）**，是由[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell, 2007）提出的理论范畴，特指通过合同承包、[[Public-Private Partnership|公私伙伴关系]]（PPP）、[[Charter Schools|特许学校]]（Charter Schools / Partnership Schools）以及向私营[[Educational Management Organisation|教育管理组织]]（EMO）采购核心业务，将原本由公共部门承担的校舍建设、课程开发、测验评价与日常教学交付全面向营利或非营利私营实体开放的制度过程。当代实证研究（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）进一步揭示，外生私有化已经从早期的后勤基建承包，演进为涵盖免税慈善信托控股营利实体的[[Dual-Entity Legal Structure|双层法人架构]]，并最终演变为跨界商业网络直接主导国家教育立法与政策议程设置的**政策制定权隐性私有化**。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 4–6)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 剖析私营资本与非民选精英网络如何以合同契约和特许权为通道，系统性接管公共教育交付职能并分割公共财政税收。
@@ -111,43 +113,35 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　外生合同承包将公共经常性税收持续转化为私营资本商业利润与管理费
-
-> [!concept-lens] 财政转移与资本积累维度
-> 探讨公共资金如何通过购买服务渠道脱离公共监督并转化为私人资本收益。
+> [!concept-proposition] 命题一｜外生合同承包将公共经常性税收持续转化为私营资本商业利润与管理费
+> **探讨维度　财政转移与资本积累维度** 探讨公共资金如何通过购买服务渠道脱离公共监督并转化为私人资本收益。
 
 > [!claim] O'Neill, J. et al.
 > **经常性税收的利润化转移** [[John O'Neill|约翰·奥尼尔]]（John O'Neill）等基于[[Partnership Schools Kura Hourua|新西兰特许学校]]与[[Educational Management Organisation|教育管理组织]]（EMO）财务报表的实证审计指出，外生私有化的本质是国家公共教育预算的“利润提取通道”。例如，私营教育集团 [[Cognition Education|认知教育]]在改组为商业实体后，其年收入的 70% 以上直接来自教育部公共合同；管理层通过设立高昂的“集团管理费”（Corporate Overheads）和高管分红，合法将纳税人投入基础教育的税收转化为股东收益与商业留存资金。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 8, 76–85)]]
 
 ---
 
-### 命题二　双层法人架构借助慈善信托合法实现税收抵扣并屏蔽信息公开法审查
-
-> [!concept-lens] 法人治理与避税遮蔽维度
-> 揭示私营教育机构如何利用法律结构规避公众财务审查与国家税赋。
+> [!concept-proposition] 命题二｜[[Dual-Entity Legal Structure|双层法人架构]]借助慈善信托合法实现税收抵扣并[[Screening Off|屏蔽]]信息公开法审查
+> **探讨维度　法人治理与避税遮蔽维度** 揭示私营教育机构如何利用法律结构规避公众财务审查与国家税赋。
 
 > [!claim] O'Neill, J. et al.
 > **双层法人与民主问责[[Epoché|悬置]]** 奥尼尔等人剖析发现，现代外生私有化普遍采用免税慈善信托控股营利有限责任公司的双层结构。营利子公司负责竞标政府合同并赚取利润，随后将大部分利润以慈善捐赠形式全额转移给母体信托，使得应纳企业所得税实际归零。与此同时，当独立研究者或公众根据《官方信息法》（OIA）申请查阅其实际运营成本、高管薪酬与教学利润率时，政府与企业均以“属于私营公司商业机密”为由合法拒绝披露，造成严重的民主问责真空。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. vi–vii, 70–75)]]
 
 ---
 
-### 命题三　外生私有化呈现从外围辅助服务承包向国家教育政策制定权本身的深层跃迁
-
-> [!concept-lens] [[Policy Network|政策网络]]与治理主权转移维度
-> 探讨外部私有化如何从技术执行层面上升为对国家立法与制度设计的直接控制。
+> [!concept-proposition] 命题三｜外生私有化呈现从外围辅助服务承包向国家教育政策制定权本身的深层跃迁
+> **探讨维度　[[Policy Network|政策网络]]与治理主权转移维度** 探讨外部私有化如何从技术执行层面上升为对国家立法与制度设计的直接控制。
 
 > [!claim] O'Neill, J. et al.
 > **政策制定权本身的私有化** 奥尼尔等明确指出，外生私有化已经超越了鲍尔早年界定的服务外包范围，演变为“教育政策制定权的私有化（[[Educational Privatisation|privatisation of education]] Policy-Making）”。跨国出版巨头、对冲基金合伙人以及本土教育管理公司高管，通过担任政府特别顾问、资助智库与进入部委遴选委员会，直接操刀了新西兰《2013年教育修正法案》和《2015年教育立法法案》的条文起草。公共政策制定的核心议程不再产生于议会民主辩论，而是在非正式政商网络内部协商定制，使公共教育的法定受托责任被彻底掏空。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 4–6, 49–54)]]
 
 ---
 
-### 命题四　跨国政策网络与风险慈善以特许学校为支点瓦解教师工会与公立劳动基准
-
-> [!concept-lens] 劳动政治与去工会化维度
-> 探讨特许学校外包如何成为瓦解教师集体权益与专业准入标准的政策杠杆。
+> [!concept-proposition] 命题四｜跨国政策网络与[[Venture Philanthropy|风险慈善]]以[[Charter Schools|特许学校]]为支点瓦解教师工会与公立劳动基准
+> **探讨维度　劳动政治与去工会化维度** 探讨特许学校外包如何成为瓦解教师集体权益与专业准入标准的政策杠杆。
 
 > [!claim] [[Stephen Ball|Ball, S.]] J.; Scott, J.
-> **[[Venture Philanthropy|风险慈善]]与劳动弹性化** 斯蒂芬·鲍尔与贾妮尔·斯科特（Janelle Scott）指出，[[Venture Philanthropy|风险慈善]]基金会与跨国商业公司推崇特许学校，其深层政治目的是打破公立教师工会的统一集体谈判权。外生特许学校普遍享有雇佣豁免权，能够自主压低新手教师起薪、取消终身教职并延长法定工作时间，以实现高度弹性化的企业用工制度，从而将公立教育系统的教师劳动彻底去专业化。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 46–48, 54–57)]]
+> **[[Venture Philanthropy|风险慈善]]与劳动弹性化** 斯蒂芬·鲍尔与贾妮尔·[[James C. Scott|斯科特]]（Janelle Scott）指出，[[Venture Philanthropy|风险慈善]]基金会与跨国商业公司推崇特许学校，其深层政治目的是打破公立教师工会的统一集体谈判权。外生特许学校普遍享有雇佣豁免权，能够自主压低新手教师起薪、取消终身教职并延长法定工作时间，以实现高度弹性化的企业用工制度，从而将公立教育系统的教师劳动彻底去专业化。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 46–48, 54–57)]]
 
 ---
 

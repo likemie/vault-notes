@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -87,10 +87,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　克服非人性化是解放教育与批判实践的最高天职
-
-> [!concept-lens] 存在论与教育伦理维度
-> 探讨教育如何通过消解物化霸权，恢复受压迫者与压迫者双方的人性完整。
+> [!concept-proposition] 命题一｜克服非人性化是解放教育与批判实践的最高天职
+> **探讨维度　存在论与教育伦理维度** 探讨教育如何通过消解物化霸权，恢复受压迫者与压迫者双方的人性完整。
 
 > [!claim] [[Paulo Freire\|Freire, P.]]
 > **克服非人性化的教育天职** 弗莱雷指出，教育变革不能止于知识传授，而必须以克服非人性化不公、建立基于爱的社会团结为最高使命。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 43, p. 57; Freire, 2004b, p. 35; Darwish, 2009, pp. 61–63)]]

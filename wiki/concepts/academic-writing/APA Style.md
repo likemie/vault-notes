@@ -4,19 +4,20 @@ aliases: ["APA style manual", "Publication Manual of the APA", "APA 7th edition"
 summary: "美国心理学会出版手册规定的学术写作与文献著录规范，是社会科学、行为科学与教育学研究中应用最广泛的学术格式，涵盖文中引用、参考文献表、标题层级、图表呈现、章节时态及包容性无偏见语言等核心规则。"
 type: concept
 domain: "academic-writing"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
 related_concepts:
+  - "[[Document]]"
   - "[[GB/T 7714-2015]]"
   - "[[Voice, Tense, and Concision in Academic Writing]]"
   - "[[Literature Review]]"
   - "[[Red Tape]]"
   - "[[Construct]]"
-  - "[[Linguistic Turn]]"
   - "[[Knowledge Production]]"
+  - "[[Linguistic Turn]]"
   - "[[Automation Bias]]"
   - "[[Positivism]]"
 related_theories:
@@ -30,11 +31,11 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!def] APA Style
-> APA 格式（APA Style）是由美国心理学会（American Psychological Association, APA）在其《美国心理学会出版手册》（*Publication Manual of the American Psychological Association*）中确立的学术写作与引文著录规范体系。它是全球社会科学、教育学、心理学和行为科学领域最通行的学术标准，涵盖正文文献引用、文后参考文献表、论文结构、标题五级系统、图表设计以及包容性语言规范（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
+> APA 格式（APA Style）是由美国心理学会（American Psychological Association, APA）在其《美国心理学会出版手册》（*Publication Manual of the American Psychological Association*）中确立的学术写作与引文著录规范体系。它是全球社会科学、教育学、心理学和行为科学领域最通行的学术标准，涵盖正文[[Document|文献]]引用、文后参考文献表、论文结构、标题五级系统、图表设计以及包容性语言规范（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** APA 格式提供了一整套标准化的学术交流形式语言，旨在规范研究成果的呈现逻辑、证据引证路径和出版排版机制。
@@ -82,7 +83,7 @@ APA 格式采用“著者-出版年”制，主要分为**括号引用（Parenth
 
 ### 参考文献表四大核心要素（Reference List Elements）
 
-参考文献表置于文末，所有条目按第一作者姓氏字母顺序升序排列，采用**悬挂缩进（Hanging Indent 0.5 英寸 / 1.27 cm）**。每个条目均围绕四大核心问题构建：
+参考[[Document|文献]]表置于文末，所有条目按第一作者姓氏字母顺序升序排列，采用**悬挂缩进（Hanging Indent 0.5 英寸 / 1.27 cm）**。每个条目均围绕四大核心问题构建：
 
 ```text
 责任者（Who）        年代（When）          题名（What）                      来源与出处（Where）
@@ -173,20 +174,16 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 
 ---
 
-### 命题一　格式规范通过降低外在认知负荷使读者聚焦实质学术内容
-
-> [!concept-lens] 认知负荷与学术传播效率
-> 探讨学术写作格式的统一性如何优化读者的阅读加工机制并提升学术对话的精确度。
+> [!concept-proposition] 命题一｜格式规范通过降低外在认知负荷使读者聚焦实质学术内容
+> **探讨维度　认知负荷与学术传播效率** 探讨学术写作格式的统一性如何优化读者的阅读加工机制并提升学术对话的精确度。
 
 > [!claim] Creswell & Creswell
 > **降低认知负荷** APA 格式的核心目的不是[[Red Tape|繁文缛节]]或装饰性排版，而是消除形式层面的视觉噪音与歧义，让读者的眼睛不停顿、思维不磕绊，从而将认知资源完全投入到对[[Construct\|理论构念]]、方法设计和实证证据的批判性审视之中。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022)]]
 
 ---
 
-### 命题二　包容性语言规范推动了学术知识生产中的伦理自觉与平等建构
-
-> [!concept-lens] [[Linguistic Turn\|语言学转向]]与学术伦理
-> 探讨学术写作格式如何通过语言表述规则塑造学术共同体的包容性价值观。
+> [!concept-proposition] 命题二｜包容性语言规范推动了学术[[Knowledge Production|知识生产]]中的伦理自觉与平等建构
+> **探讨维度　[[Linguistic Turn\|语言学转向]]与学术伦理** 探讨学术写作格式如何通过语言表述规则塑造学术共同体的包容性价值观。
 
 > [!claim] American Psychological Association
 > **伦理与语言包容性** 学术语言不仅反映现实，也在建构社会权力关系。通过在格式规范中制度化确立单数 they、人本语言及去标签化规则，APA 格式促使研究者在[[Literature Review\|文献综述]]、数据采集与结果报告中保持对边缘群体的伦理敏感性，避免在[[Knowledge Production\|知识生产]]中复制历史偏见与刻板印象。
@@ -202,7 +199,7 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 ---
 
 > [!warning] 频繁改版的迁移成本与工具依赖
-> - **版本迭代成本** APA 格式从第 6 版到第 7 版的规则变更（如取消出版地、et al. 阈值调整为 3 人、DOI 格式变更）导致大量既有文献数据库、课程大纲与学术软件需全面重新配置，增加了研究者的格式迁移负担。
+> - **版本迭代成本** APA 格式从第 6 版到第 7 版的规则变更（如取消出版地、et al. 阈值调整为 3 人、DOI 格式变更）导致大量既有[[Document|文献]]数据库、课程大纲与学术软件需全面重新配置，增加了研究者的格式迁移负担。
 > - **软件[[Automation Bias|自动化偏差]]** 虽然 EndNote、Zotero 等引文软件极大简化了著录，但各数据库元数据清洗不全时，自动生成的 APA 格式常出现大小写错误（如期刊论文题名错误使用了 Title Case）或作者姓名颠倒，仍高度依赖人工校对。
 
 > [!warning] [[Positivism\|实证主义范式]]倾向与人文学科适配局限

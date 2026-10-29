@@ -8,7 +8,7 @@ aliases:
 summary: "指在多元行动者共同参与的复杂决策网络与层叠制度中，由于行动者增厚与权责边界重叠，导致无法将系统后果归咎于任何单一主体的责任困境与治理病理。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ tags:
 related_concepts:
   - "[[Institutional Layering]]"
   - "[[Grand Challenges]]"
+  - "[[Document]]"
   - "[[Multiplicity]]"
   - "[[Emergence]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -41,7 +42,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-10-22
 > *Responsibilities for action or non-action are hard to determine, causing a 'problem of many hands' especially if multiple actors, policy domains, and governance levels need to cooperate.*
 
 > [!citation-card] 机构图层重叠与责任模糊诱发多手难题
-> 涉及向既有规制体制增加私营部门行动者或非营利组织等新主体的文献指出，由于重叠图层的存在，往往导致管辖权模糊不清与责任界限淡化，这让人联想起丹尼斯·汤普森著名的多手难题。这一脉络可概括为聚焦于向既有情境添加行动者的政府增厚。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
+> 涉及向既有规制体制增加私营部门行动者或非营利组织等新主体的[[Document|文献]]指出，由于重叠图层的存在，往往导致管辖权模糊不清与责任界限淡化，这让人联想起丹尼斯·汤普森著名的多手难题。这一脉络可概括为聚焦于向既有情境添加行动者的政府增厚。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 >
 > *Issues referred to in this branch of literature often relate to unclearness of jurisdiction and blurring of responsibilities as a result of overlapping layers (e.g. Brenner, 1975), which reminds us of Denis Thompson’s (1980) famous ‘problem of many hands’. This use of the concept could be summarised as the ‘thickening of government’ (Light, 1995), with a strong focus on adding actors to existing situations.*
 
@@ -116,10 +117,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　治理主体的分散性与因果链条的断裂导致复杂政策系统的道德与行政责任归责不能
-
-> [!concept-lens] 责任归因与制度结构困境
-> 探讨现代庞大官僚体系与跨界网络中，个体职务行为与整体决策结果之间出现的因果脱节与责任消散现象。
+> [!concept-proposition] 命题一｜治理主体的分散性与因果链条的断裂导致复杂政策系统的道德与行政责任归责不能
+> **探讨维度　责任归因与制度结构困境** 探讨现代庞大官僚体系与跨界网络中，个体职务行为与整体决策结果之间出现的因果脱节与责任消散现象。
 
 > [!claim] Thompson, D. F.
 > **很多手导致无可责之人的制度困境** 在现代政府运作中，绝大多数政策结果不是由单一官员决定的，而是由很多双手共同塑造的。由于每个人所做的工作都只是最终决策的一小部分，且通常依照既定规则行事，因此当政策产生灾难性后果时，往往找不到一个完全满足知情、意图和因果条件的个体来承担全部道德或法律责任。
@@ -129,20 +128,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　多手难题构成阻碍棘手问题达成收敛的关键系统性复杂性障碍
-
-> [!concept-lens] [[Wicked Problem|棘手问题]]治理阻力
-> 探讨多手难题如何加剧重大社会挑战的结构复杂性，并阻碍政策从发散走向收敛。
+> [!concept-proposition] 命题二｜多手难题构成阻碍[[Wicked Problem|棘手问题]]达成收敛的关键系统性复杂性障碍
+> **探讨维度　[[Wicked Problem|棘手问题]]治理阻力** 探讨多手难题如何加剧重大社会挑战的结构复杂性，并阻碍政策从发散走向收敛。
 
 > [!claim] Wanzenböck, I. et al.
 > **多手难题加剧社会挑战的发散性** 在解构[[Grand Challenges|重大挑战]]的复杂性维度时，多手难题是导致[[Problem Finding|问题界定]]与方案选择长期陷入发散的核心根源之一。例如在荷兰风电发展与农业转型中，由于中央能源部、地方市镇政府、环保部门与电网企业各司其职又互不统属，导致规划指标在长达数年内因管辖权冲突无法落地，必须借助国家级多方协议平台重新理顺权责分工。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 476–477, 484–485)]]
 
 ---
 
-### 命题三　制度层叠中的行动者增厚必然诱发管辖权冲突并加剧多手难题的责任稀释
-
-> [!concept-lens] [[Institutional Layering|制度层叠]]与行动者增厚的病理演化
-> 探讨公共行政与规制体制在长期演化中，通过不断叠加组织主体应对治理挑战，如何反向导致权力层级重叠、管辖界限模糊与系统性责任稀释。
+> [!concept-proposition] 命题三｜[[Institutional Layering|制度层叠]]中的行动者增厚必然诱发管辖权冲突并加剧多手难题的责任稀释
+> **探讨维度　[[Institutional Layering|制度层叠]]与行动者增厚的病理演化** 探讨公共行政与规制体制在长期演化中，通过不断叠加组织主体应对治理挑战，如何反向导致权力层级重叠、管辖界限模糊与系统性责任稀释。
 
 > [!claim] [[Jeroen van der Heijden|Van der Heijden, J.]]
 > **行动者层叠增厚诱发多手难题与管辖权模糊** [[Institutional Layering|制度层叠]]在其长期的学术演化中，存在着一条从行动者增厚（Thickening）到[[Regulatory Ratchet|规制棘轮]]的清晰演进脉络。从战后行政机构在不同地理层级上的持续增设（Belisle, 1944），到在既有规制体系中引入私营部门与非营利组织，政府始终倾向于通过添加行动者来应对新问题。然而，这种层叠并未带来治理效能的线性增长，反而因多层权威（Layers of Authority）与规制图层的相互重叠，制造了严重的管辖权模糊不清（Unclearness of Jurisdiction）与责任边界淡化（Blurring of Responsibilities；Brenner, 1975）。这种制度增厚与重叠使得行政系统陷入典型的多手难题，最终削弱了公共权力的整体问责能力。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]

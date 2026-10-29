@@ -15,10 +15,10 @@ aliases:
 summary: "高等教育机构在母国境外部署全资或联合拥有的实体校园，提供全日制学位教育并冠以母校名称的跨境教育办学形态"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 15
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept
   - higher-education
@@ -30,12 +30,18 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Education Going Global]]"
   - "[[International Education Hubs]]"
+  - "[[Triangular Cooperation]]"
+  - "[[Educational Diplomacy]]"
+  - "[[Educational Soft Power]]"
   - "[[Academic Freedom]]"
+  - "[[Massive Open Online Courses]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[Xiamen University Malaysia]]"
+  - "[[ASEAN]]"
   - "[[Belt and Road Initiative]]"
   - "[[Fudan University Budapest Campus]]"
 related_arguments:
@@ -44,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -60,7 +66,7 @@ updated: 2026-10-25
 > [!citation-card] 中国高校设立国际分校的实践探索（[[Argument_Woo_2023_HEP|Woo, 2023]]）
 > 为了提升教育[[Soft Power|软实力]]，部分中国高校已经开始启动跨国高等教育项目，例如厦门大学在马来西亚建立独立分校。然而，缺乏基层社会互信的高层顶层海外分校项目，极易在东道国地方政治选举与市民社会的抗议中遭遇严重挫折。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 693–694)]]
 >
-> *Some Chinese universities have begun embarking on transnational education projects for education soft power, such as Xiamen University Malaysia... in contrast to top-level ideological agreements, plans to build a campus faced massive protests.*
+> *Some Chinese universities have begun embarking on transnational education projects for education soft power, such as [[Xiamen University Malaysia]]... in contrast to top-level ideological agreements, plans to build a campus faced massive protests.*
 
 > [!boundary]- 概念边界
 > - 不等于双联学位项目（Dual-Degree Programs） — 双联学位通常借用东道国既有大学的教学设施开展课程衔接，无需母校在海外购置土地或建设独立校园实体。
@@ -72,7 +78,7 @@ updated: 2026-10-25
 > | 维度 | 本概念（国际分校） | 境外教学中心（Study Center） | [[International Education Hubs\|国际教育枢纽]] |
 > |---|---|---|---|
 > | **实体资产规模** | 拥有独立土地、图书馆、实验室与学生宿舍 | 租用写字楼或东道国合作高校部分教室 | 由东道国政府统一规划建设的大型多高校聚集区 |
-> | **学术自治与管理** | 派驻母校管理团队与教师，执行母校质量保障标准 | 主要由第三方合作机构或当地外包团队维持日常运作 | 由东道国自贸区或开发区管委会提供统一公共服务 |
+> | **学术自治与管理** | 派驻母校管理团队与教师，执行母校质量保障标准 | 主要由第[[Triangular Cooperation\|三方合作]]机构或当地外包团队维持日常运作 | 由东道国自贸区或开发区管委会提供统一公共服务 |
 > | **学位授予属性** | 直接授予母校本校正式文凭与学位认证 | 仅提供预科学分、学分转换证明或非学历结业证书 | 各入驻国际分校自主独立颁发其各自母校学位 |
 > | **政治与社会风险** | 容易卷入东道国土地主权、债务负担与意识形态争议 | 规模较小，政治敏感度与社会能见度相对有限 | 高度依附于东道国国家级的招商引资与税收优惠政策 |
 
@@ -102,23 +108,19 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　国际分校承载着母国投射软实力与技术标准的外交地缘功能
-
-> [!concept-lens] 地缘功能维度
-> 探究跨国高等教育分校如何超越纯粹的学术教育属性，成为大国外交与区域合作的象征符号。
+> [!concept-proposition] 命题一｜国际分校承载着母国投射[[Soft Power|软实力]]与技术标准的外交地缘功能
+> **探讨维度　地缘功能维度** 探究跨国高等教育分校如何超越纯粹的学术教育属性，成为大国外交与区域合作的象征符号。
 
 > [!claim] Woo, E.
-> **大国[[Soft Power|软实力]]与战略落地的实体支点** Woo 指出，厦门大学马来西亚分校等代表性案例表明，中国高水平大学设立海外分校不仅是为了拓展学术影响力，更是国家将教育作为软实力工具与外交互信纽带的制度化部署；海外分校承担着服务中资企业出海、培养知华友华当地技术精英以及提升国家国际声誉的战略功能。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 686–687)]]
+> **大国[[Soft Power|软实力]]与战略落地的实体支点** Woo 指出，[[Xiamen University Malaysia|厦门大学马来西亚分校]]等代表性案例表明，中国高水平大学设立海外分校不仅是为了拓展学术影响力，更是国家将教育作为软实力工具与外交互信纽带的制度化部署；海外分校承担着服务中资企业出海、培养知华友华当地技术精英以及提升国家国际声誉的战略功能。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 680, 686–687)]]
 >
 > [!claim] Velasco, J. C.
-> **教育外交战略实体延伸** 中国高校在东南亚建立境外分校与合作办学项目（如厦门大学马来西亚分校、老挝苏州大学及泰国曼谷商学院），构成了中国面向东盟投射教育软实力、缓解地缘邻国不满以及重塑区域影响力的重要制度支柱。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
+> **[[Educational Diplomacy|教育外交]]战略实体延伸** 中国高校在东南亚建立境外分校与合作办学项目（如厦门大学马来西亚分校、老挝苏州大学及泰国曼谷商学院），构成了中国面向[[ASEAN|东盟]]投射[[Educational Soft Power|教育软实力]]、缓解地缘邻国不满以及重塑区域影响力的重要制度支柱。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 84–85)]]
 
 ---
 
-### 命题二　国际分校的在地生存高度依赖东道国草根社会的政治信任与财务透明度
-
-> [!concept-lens] 在地合法性维度
-> 探究由高层政府间推动的海外校区项目在面对东道国多元利益群体与地方民主选举时所遭遇的合法性危机。
+> [!concept-proposition] 命题二｜国际分校的在地生存高度依赖东道国草根社会的政治信任与财务透明度
+> **探讨维度　在地合法性维度** 探究由高层政府间推动的海外校区项目在面对东道国多元利益群体与地方民主选举时所遭遇的合法性危机。
 
 > [!claim] Woo, E.
 > **草根社会抵制对顶层教育合作的制约** Woo 通过分析匈牙利布达佩斯市民针对复旦大学海外分校建设的大规模抗议事件指出，自上而下的政府间高层签约如果忽视了合作国本土公民社会的诉求，容易因主权债务负担、挤占本土公共教育资源及意识形态审查担忧而触发强烈的民意反弹；缺乏基层社会信任的海外分校项目在东道国地方政治博弈中表现出高度的脆弱性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
@@ -154,7 +156,7 @@ updated: 2026-10-25
 > - **教育资源分配不公质疑** 豪华的独立海外分校校区建设占用当地土地与学生宿舍配额，易激化与东道国本土大学生群体的资源竞争矛盾。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 693–694)]]
 
 > [!warning] 适用局限
-> 该概念特指拥有物理校园的独立实体分校，在解释纯数字化在线跨境交付平台（MOOCs）或无固定资产的微证书合作网络时不具解释力。
+> 该概念特指拥有物理校园的独立实体分校，在解释纯数字化在线跨境交付平台（[[Massive Open Online Courses|MOOCs]]）或无固定资产的微证书合作网络时不具解释力。
 
 ---
 

@@ -11,7 +11,7 @@ aliases:
 summary: "与实证主义相对的研究范式，强调从行动者内部视角理解主观意义、生活世界与情境独特性，以归纳、扎根与自然主义方式整体把握人类意向行动。"
 type: concept
 domain: "educational-philosophy"
-related_count: 58
+related_count: 59
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Paradigm Wars]]"
   - "[[Champ]]"
+  - "[[Self Explanation]]"
   - "[[Cultural Capital]]"
   - "[[Interpretivism]]"
   - "[[Causality]]"
@@ -88,7 +89,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -144,7 +145,7 @@ updated: 2026-10-22
 
 ## 核心命题
 
-### 命题一　研究单元从行为向行动转向：以内部主观视角领会社会实在
+> [!concept-proposition] 命题一｜研究单元从行为向行动转向：以内部主观视角领会社会实在
 
 [[Jack Douglas|道格拉斯]]（Jack Douglas, 1973）深刻剖析了实证与诠释[[Paradigm|范式]]的核心分水岭在于对人类活动本质的界定：
 
@@ -154,7 +155,7 @@ updated: 2026-10-22
 > - **机制** 诠释范式将研究对象定位于“行动”（Action）——即被主观意图所渗透的行为。行动的原因不是单纯由过去的物理刺激机械决定的，而是行动者面向未来目标、在当下情境中权衡协商的产物。
 > - **结论** 研究者必须打破外在客观观察者的冷漠特权，深入参与者的参照框架（Beck, 1979），通过主位进路（Emic）去理解参与者“为什么这样做”。
 
-### 命题二　教室草莓事件深描揭示定量行为编码的机械破产与情境索引性
+> [!concept-proposition] 命题二｜教室草莓事件[[Rich and Thick Description|深描]]揭示定量行为编码的机械破产与情境[[Indexicality|索引性]]
 
 教材第 1 章通过经典教育[[Ethnography|民族志]]实验（Box 1.5 教室草莓事件与弗兰德斯互动分析分类系统 FIAC 的破产；Walker & Adelman, 1975）提供了反[[Positivism|实证主义]]的标志性论证：
 
@@ -163,7 +164,7 @@ updated: 2026-10-22
 > - **定量编码的彻底瘫痪** 若使用当时风靡的[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析]]分类系统（FIAC，标准化 10 范畴编码），这一事件只能被机械记录为“范畴 9（学生主动发言）”接着“范畴 10（无法分类的混乱与杂音）”。编码在统计[[Reliability\|信度]]上高度精准，却把整个事件的真实教育意义屠戮殆尽——它完全无法解释大家为什么哄堂大笑。
 > - **情境[[Indexicality\|索引性]]与历时性意义共同体** 沃尔克与阿德尔曼（Walker & Adelman, 1975）深入调查发现：前一天该班进行投影阅读教学时，曾放映过巨大的“草莓”图片；学生借用前一天的图像指代今天的卡车，是在巧妙幽默地考验实习教师的情境反应。这一[[Discourse|话语]]意义深深嵌入在班级历时性发展的组织脉络中。任何抽离历时性情境的量化切片，都必然陷入严重的方法学盲区。
 
-### 命题三　自然主义探究公理重构方法论规范：从普遍法则走向扎根理论与厚描述
+> [!concept-proposition] 命题三｜自然主义探究公理重构方法论规范：从普遍法则走向[[Grounded Theory|扎根理论]]与厚描述
 
 林肯与古巴（Lincoln & Guba, 1985）系统构建了自然主义探究的方法论大厦，彻底重塑了学术有效性的定义标准：
 
@@ -174,7 +175,7 @@ updated: 2026-10-22
 > - **归纳式[[Grounded Theory\|扎根理论]]生成** 理论不是从先验公理演绎而来的闭合体系，而是追随研究行动、在持续比较分析中从经验材料中[[Emergence\|涌现]]并扎根的实质理论（Glaser & Strauss, 1967）。
 > - **概括性的创新重释** 勒孔特与普莱斯尔（LeCompte & Preissle, 1993, p. 47）指出，民族志拒绝抽象的统计普适外推，代之以**可比较性（Comparability）**（群体特征清晰描述以供横向参照）与**可翻译性（Translatability）**（理论范畴跨学科可转换性）。
 
-### 命题四　超越质性与量化的二元教条对立
+> [!concept-proposition] 命题四｜超越质性与量化的二元教条对立
 
 针对 1970 年代[[Paradigm Wars|范式之争]]中形成的“量化=假设检验、质性=假设生成”的僵化断裂，当代教育方法论界展开了深层修正（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 11, pp. 405–407）：
 
@@ -201,7 +202,7 @@ updated: 2026-10-22
 
 > [!debates] 理论争鸣与局限
 > 
-> > [!axis] 行动者自我解释 vs 虚假意识遮蔽
+> > [!axis] 行动者[[Self Explanation|自我解释]] vs 虚假意识遮蔽
 > > 争论焦点在于：行动者的主观界定是否就是社会的全部实在？
 > > 
 > > - **诠释学派立场** 社会现实就是行动者体验到的现实；脱离参与者的主观定义，社会学将失去研究对象。

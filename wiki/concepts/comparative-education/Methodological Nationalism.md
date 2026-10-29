@@ -5,10 +5,10 @@ aliases:
 summary: "把民族国家视为现代社会自然单位与唯一分析容器的认识论立场，容易遮蔽跨国网络、非国家主体漫步全球花园对国家边界的横切，以及跨尺度流动空间与地方空间交互关系的复杂性"
 type: concept
 domain: "comparative-education"
-related_count: 47
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 51
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - region/global
   - theme/geopolitics
@@ -44,7 +44,9 @@ related_concepts:
   - "[[Variable]]"
   - "[[Falsification]]"
   - "[[Gatekeepers]]"
-related_theories: []
+  - "[[Paradigm]]"
+related_theories:
+  - "[[Pluri-Scalar Governance]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Network Analysis]]"
@@ -61,17 +63,19 @@ related_facts:
   - "[[Bologna Process]]"
   - "[[OECD]]"
   - "[[Definition and Selection of Competencies]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Marginson_2025_ECNUROE]]"
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Beech_2015_GSE]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: draft
 created: 2026-05-12
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -114,7 +118,7 @@ updated: 2026-10-26
 > - **与规范性民族主义共谋** 认为“国家是唯一分析单位”的预设会强化“本国优先”的价值立场，Massey（2005）称之为“对连贯国族性的浪漫幻想”和净化国家空间的徒劳尝试。
 > - **高等教育中的具体表现** 表现为大学排名将“国家表现”作为关键指标；研究将大学的国际合作与流动视为国家政策的附属物。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 8–9]]
 > - **比较教育中的具体表现** 主流传统寻找“在一个语境中有效”的制度、思想或实践，试图将其转移到新语境，这一传统隐含着以国家为边界的假设。即使文化主义视角强调本地适应与[[Recontextualization|再脉络化]]，仍然基于[[Geopolitics|地缘政治]]和领土性的空间定义。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
-> - **四大致命假设与多标度治理遮蔽** 戴尔与罗伯逊（Dale & Robertson, 2009）批判方法论民族主义包含国家容器假设、比较捆绑假设、零和博弈假设与规则等同假设，强行将比较方法与领土单元捆绑并预设全球化与国家的二元对抗，完全遮蔽了超国家、主权国与地方行动者共同构成的多标度跨国治理现实。（[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等, 2021]]）
+> - **四大致命假设与[[Pluri-Scalar Governance|多标度治理]]遮蔽** 戴尔与罗伯逊（Dale & Robertson, 2009）批判方法论民族主义包含国家容器假设、比较捆绑假设、零和博弈假设与规则等同假设，强行将比较方法与领土单元捆绑并预设全球化与国家的二元对抗，完全遮蔽了超国家、主权国与地方行动者共同构成的多标度跨国治理现实。（[[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等, 2021]]）
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -138,10 +142,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　民族国家容器预设在语言与分析框架上系统性遮蔽全球流动空间
-
-> [!concept-lens] 空间偏见与尺度超越
-> 探讨学者如何剖析方法论民族主义在概念术语与认识框架层面对空间维度的遮蔽，以及引入多重空间理论实现[[Epistemology|认识论]]超越。
+> [!concept-proposition] 命题一｜民族国家容器预设在语言与[[Analytic Framework|分析框架]]上系统性遮蔽全球[[Space of Flows|流动空间]]
+> **探讨维度　空间偏见与尺度超越** 探讨学者如何剖析方法论民族主义在概念术语与认识框架层面对空间维度的遮蔽，以及引入多重空间理论实现[[Epistemology|认识论]]超越。
 
 > [!claim] [[Jason Beech|Beech, J.]]
 > **比较教育概念的内生国家偏见与[[Space of Flows|流动空间]]区隔** 比较教育常用的“跨国”（Transnational）、“国际”（International）甚至“超国家”（Supranational）术语，均在语言与认识底层预设了民族国家作为一切社会活动的前提基准。为摆脱将国家视为默认空间参照的局限，必须引入 Castells 的[[Space of Flows|流动空间]]与[[Space of Places|地方空间]][[Analytic Framework|分析框架]]，将全球教育政策空间（流动空间）与学校实践（地方空间）作为纵向不对称的多维尺度进行解构。[[Argument_Beech_2009_CE|Beech, 2009a, pp. 348–349]]
@@ -151,20 +153,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　教育转移的静态领土假设遮蔽了关系性空间中的多维流通与再脉络化
-
-> [!concept-lens] 领土静态预设与流通重构
-> 批判传统[[Policy Borrowing|政策借用]]研究将输出国与输入国视为固定物理领土的机械模型，转向关系性流通与情境重塑。
+> [!concept-proposition] 命题二｜教育转移的静态领土假设遮蔽了关系性空间中的多维流通与[[Recontextualization|再脉络化]]
+> **探讨维度　领土静态预设与流通重构** 批判传统[[Policy Borrowing|政策借用]]研究将输出国与输入国视为固定物理领土的机械模型，转向关系性流通与情境重塑。
 
 > [!claim] Beech, J. & [[Alejandro Artopoulos|Artopoulos, A.]]
 > **摒弃静态领土转移观走向关系性流通** 主流比较教育在考察教育转移时，往往预设政策是在两个边界清晰的固定国家容器之间“平移”，形成静态的转移解释。实质上，教育思想与政策实践的流动是高度动态、多维且去中心化的关系性流通，其核心机制在于[[Policy Network|政策网络]]内部的转译与本地行动者的[[Recontextualization|再脉络化]]。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
 
 ---
 
-### 命题三　三主义叠加遮蔽跨国治理网络而方法论跨国主义解构国家容器假设
-
-> [!concept-lens] 治理网络解构与跨国主义替代
-> 揭示国家中心预设与[[Methodological Educationism|教育主义]]、国家主义的共谋，确立超越国家自足容器与单向霸权假定的[[Methodological Transnationalism|方法论跨国主义]]进路。
+> [!concept-proposition] 命题三｜三主义叠加遮蔽跨国治理网络而[[Methodological Transnationalism|方法论跨国主义]]解构国家容器假设
+> **探讨维度　治理网络解构与跨国主义替代** 揭示国家中心预设与[[Methodological Educationism|教育主义]]、国家主义的共谋，确立超越国家自足容器与单向霸权假定的[[Methodological Transnationalism|方法论跨国主义]]进路。
 
 > [!claim] [[Roger Dale|Dale, R.]] & Robertson, S.
 > **三主义叠加对跨国治理网络的系统性遮蔽** 全球化时代的教育研究不仅受限于方法论民族主义，更与[[Methodological Statism|方法论国家中心主义]]（将国家视为唯一法定治理行动者）和[[Methodological Educationism|方法论教育主义]]（将教育等同于制度化学校教育）相互纠缠、层叠强化，导致分析视角严重遮蔽跨国治理网络、非国家中介组织以及学校围墙之外的全球教育实践。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
@@ -174,10 +172,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题四　全球花园中多元非国家主体跨切国家疆界并依托五位置网络重塑跨国教育空间
-
-> [!concept-lens] 空间扩展与多元行动者横切机制
-> 阐明全球化下教育转移如何超越传统的国家间双边借用模式，由跨国流动空间中的多元非国家主体横切国家分界，构建多位置环流网络。
+> [!concept-proposition] 命题四｜全球花园中多元非国家主体跨切国家疆界并依托五位置网络重塑跨国教育空间
+> **探讨维度　空间扩展与多元行动者横切机制** 阐明全球化下教育转移如何超越传统的国家间双边借用模式，由跨国流动空间中的多元非国家主体横切国家分界，构建多位置环流网络。
 
 > [!claim] [[Jason Beech|Beech, J.]]
 > **非国家主体横切与五位置流通假说** 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）指出，传统比较教育将“教育转移”狭隘理解为主权国家之间的双边互动，本质上深陷方法论民族主义泥潭。在全球化语境下，国际影响呈现为吉登斯所谓的跨切国家分界（Crosscut State Divisions）的无界限空间实践。四类新型行动者漫步于“全球花园”：四处兜售灵丹妙药的“魅力型顾问”、为弥补财政缺口向发展中国家出口咨询的新重商主义大学、通过指标基准与[[Bologna Process|博洛尼亚进程]]引导成员国政策的[[EU|欧盟]]等区域集团，以及直接向多国政府建言的跨国私营教育企业（如 [[GEMS Education|GEMS]]）。这些主体脱离单一地理领土，依托由全球学术空间、国际组织、国家、本土学术空间与学校机构构成的五位置网络，直接穿透并重塑主权国家的政策与实践，彻底终结了将民族国家视为封闭自足[[Unit of Analysis|分析单位]]的正当性。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–345, 349–351)]]
@@ -251,5 +247,5 @@ updated: 2026-10-26
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 提出全球教育[[Champ|场域]]五位置模型，揭示非国家主体漫步全球花园横切国家区隔，以及拉美[[Gatekeepers|把关人]]群体如何封闭国家政策空间。
 > - [[Argument_Beech_2015_GSE|Beech and Artopoulos (2015)]] — 揭示传统比较教育中静态教育转移的国家领土假设，提出关系性流通的阐释。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 运用该概念批判历史和比较教育研究中的“方法论民族主义、国家主义、[[Methodological Educationism|教育主义]]叠加”现象，阐释其对跨国教育网络研究的遮蔽。
-> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 批判 PISA 研究中将民族国家预设为唯一容器的方法论民族主义，系统解构戴尔与罗伯逊的四大假设，论证向多标度空间治理范式转型的必要性。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 批判 [[PISA]] 研究中将民族国家预设为唯一容器的方法论民族主义，系统解构戴尔与罗伯逊的四大假设，论证向多标度空间治理[[Paradigm|范式]]转型的必要性。
 

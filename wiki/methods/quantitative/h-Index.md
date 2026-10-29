@@ -8,7 +8,7 @@ summary: "由 Jorge E. Hirsch (2005) 提出的文献计量指标，以学者至�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 16
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -22,13 +22,19 @@ tags:
 related_concepts:
   - "[[Scientific Productivity]]"
   - "[[Research Impact]]"
+  - "[[Construct]]"
+  - "[[Unit of Analysis]]"
+  - "[[Construct Validity]]"
+  - "[[Document]]"
   - "[[Predictive Validity]]"
   - "[[Research Universities]]"
-related_theories:
-  - "[[Shockley's Multiplicative Hurdle Model]]"
+related_theories: []
 related_methods:
+  - "[[Author Name Disambiguation]]"
   - "[[Bibliometric Analysis]]"
   - "[[g-Index]]"
+  - "[[o-Index]]"
+  - "[[Shockley's Multiplicative Hurdle Model]]"
 related_instruments: []
 related_persons:
   - "[[Jorge E. Hirsch]]"
@@ -36,7 +42,6 @@ related_facts:
   - "[[National Academy of Sciences]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
 confidence: high
 status: draft
 created: "2026-10-29"
@@ -49,10 +54,10 @@ updated: 2026-10-29
 > **h 指数（h-Index）** 由物理学家[[Jorge E. Hirsch|乔治·E·希尔施]]（Jorge E. Hirsch）于 2005 年提出，用于测度学者个人的累积学术影响。一名学者的指数为 $h$，当且仅当其全部论著中至多有 $h$ 篇各获得至少 $h$ 次引用，其余论著的被引次数均未达到 $h$。计算时把论著按被引次数降序排列，找出排名不超过自身被引次数的最大名次，即为 $h$。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 17–18)]]
 
 > [!method-scope] 方法范围
-> - **测量或估计对象** 学者成果的数量与被引影响的联合水平，对应 [[Scientific Productivity]] 与 [[Research Impact]] 两个构念。
+> - **测量或估计对象** 学者成果的数量与被引影响的联合水平，对应 [[Scientific Productivity]] 与 [[Research Impact]] 两个[[Construct|构念]]。
 > - **问题类型** 描述与评价学者的累积学术成就，并预测其未来产出的影响。
-> - **分析单位** 学者个人；也可用于团队、机构或期刊的论著集合。
-> - **输入数据** 学者全部论著的逐篇被引次数，需完成作者姓名消歧。
+> - **[[Unit of Analysis|分析单位]]** 学者个人；也可用于团队、机构或期刊的论著集合。
+> - **输入数据** 学者全部论著的逐篇被引次数，需完成[[Author Name Disambiguation|姓名消歧]]。
 > - **输出形式** 一个非负整数 $h$；配合年资可得增长斜率 $m$。
 
 > [!citation-card] 希尔施论 h 指数的优势
@@ -63,9 +68,9 @@ updated: 2026-10-29
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** $h$ 只计入同时满足数量与被引门槛的核心成果，代表学者持续产出受关注成果的能力；越过门槛之后的超额引用、门槛以下的成果以及教学、指导、评审等非文献贡献都不进入数值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–27)]]
+> - **[[Construct Validity|构念效度]]** $h$ 只计入同时满足数量与被引门槛的核心成果，代表学者持续产出受关注成果的能力；越过门槛之后的超额引用、门槛以下的成果以及教学、指导、评审等非[[Document|文献]]贡献都不进入数值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–27)]]
 > - **研究者判断** 选择哪个数据库、统计哪些成果类型、是否剔除自引、如何消歧，都会改变 $h$ 的数值。
-> - **有效性标准** 预测效度是主要支撑。希尔施（Hirsch, 2007）对凝聚态物理学者 24 年发表记录的追踪显示，在预测未来累积引用与新作影响时，前 12 年的 $h$ 优于发文总量、总被引与篇均被引。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]]
+> - **有效性标准** [[Predictive Validity|预测效度]]是主要支撑。希尔施（Hirsch, 2007）对凝聚态物理学者 24 年发表记录的追踪显示，在预测未来累积引用与新作影响时，前 12 年的 $h$ 优于发文总量、总被引与篇均被引。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]]
 > - **不声称回答的问题** 不能比较不同学科学者的高低，不能识别合著中的实际贡献，也不能单独证明某项成果的原创性。
 
 > [!method-stack] 方法层级
@@ -73,14 +78,14 @@ updated: 2026-10-29
 > - **前置步骤** 作者姓名消歧、论著去重、被引次数采集。
 > - **变体与扩展**
 >   - [[g-Index]]（Egghe, 2006）：前 $g$ 篇累计被引至少 $g^2$ 次，恢复高被引论著的权重。
->   - $o$ 指数（Dorogovtsev & Mendes, 2015）：$o=\sqrt{c^{*}h}$，$c^{*}$ 为单篇最高被引。
+>   - [[o-Index]]（Dorogovtsev & Mendes, 2015）：$o=\sqrt{c^{*}h}$，$c^{*}$ 为单篇最高被引。
 >   - $h_g$ 指数（Radicchi et al., 2008）：按同领域同年份论著的被引基准归一化。
->   - $m$ 商（Hirsch, 2005）：$m=h/t$，扣除年资影响。
->   - $h_\alpha$ 指数（Hirsch, 2019）：只计入学者在合著者中 $h$ 最高的论著，识别团队中的学术引领者。
+>   - m 商数（Hirsch, 2005）：$m=h/t$，扣除年资影响。
+>   - h_α 指数（Hirsch, 2019）：只计入学者在合著者中 $h$ 最高的论著，识别团队中的学术引领者。
 
 > [!dev-timeline] 方法演变
 > - **2003 — 初次构想** 希尔施手动测算身边物理学家的 $h$ 值，发现排序与同行声誉高度一致。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 24–25)]]
-> - **2005 — 正式提出** 手稿上传 arXiv 并投稿《美国国家科学院院刊》（Proceedings of the National Academy of Sciences, PNAS），同时给出线性增长模型与物理学职称参照值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 17–20, 24–25)]]
+> - **2005 — 正式提出** 手稿上传 arXiv 并投稿《[[National Academy of Sciences|美国国家科学院]]院刊》（Proceedings of the National Academy of Sciences, PNAS），同时给出线性增长模型与物理学职称参照值。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 17–20, 24–25)]]
 > - **2006–2008 — 修正指标出现** $g$ 指数针对高被引钝感，$h_g$ 指数针对学科基准差异。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–26)]]
 > - **2007 — 预测效度检验** 希尔施以 24 年纵向数据检验 $h$ 对未来表现的预测力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]]
 > - **2019 — 合著修正** 希尔施提出 $h_\alpha$ 指数。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
@@ -206,7 +211,7 @@ updated: 2026-10-29
 > |:-----|:-----|:-----|
 > | [[Scientific Productivity]] | 测量对象 | $h$ 把发文数量纳入门槛，反映持续产出能力。 |
 > | [[Research Impact]] | 测量对象 | $h$ 以被引次数代表论著的学术影响。 |
-> | [[Shockley's Multiplicative Hurdle Model]] | 理论 | 解释科研产出为何高度偏斜，说明 $h$ 的个体差异为何很大。 |
+> | [[Shockley's Multiplicative Hurdle Model]] | 方法 | 解释科研产出为何高度偏斜，说明 $h$ 的个体差异为何很大。 |
 > | [[g-Index]] | 变体 | 以累计被引门槛恢复高被引论著的权重。 |
 > | [[Bibliometric Analysis]] | 上位方法 | $h$ 是文献计量分析中的个体层面指标。 |
 

@@ -43,7 +43,7 @@ related_facts:
   - "[[OECD AHELO Project]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -94,20 +94,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　文化效度要求研究者反思自身文化滤镜并确立认识论谦逊
-
-> [!concept-lens] 研究者主体性与符号暴力反思
-> 探讨研究者如何超越自身学术文化的先验预设，在跨文化情境中避免对本土群体实施[[Epistemology|认识论]]强加。
+> [!concept-proposition] 命题一｜文化效度要求研究者反思自身文化滤镜并确立[[Epistemology|认识论]][[Humility|谦逊]]
+> **探讨维度　研究者主体性与符号暴力反思** 探讨研究者如何超越自身学术文化的先验预设，在跨文化情境中避免对本土群体实施[[Epistemology|认识论]]强加。
 
 > [!claim] Morgan (2005) / [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]
 > **文化滤镜反思与认识论[[Humility|谦逊]]** 研究者自身深嵌于特定的学术文化、[[Epistemology|认识论]]传统与语言体系中；缺乏对自身文化滤镜的反思，极易将特定地方性知识误认为普适标准，从而对被研究文化构成符号暴力。文化效度要求研究者确立认识论谦逊，承认自身理论预设的局限性，在全流程中倾听本土成员的声音。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, pp. 186–187)]]
 
 ---
 
-### 命题二　忽视文化效度的评价工具跨国硬移植必然导致跨文化水土不服与测量妥协
-
-> [!concept-lens] 评价工具移植与本土语境冲突
-> 剖析跨国组织在测评工具研发中若直接照搬单一大国现成测验，必然因情境文化差异引发严重的文化效度危机。
+> [!concept-proposition] 命题二｜忽视文化效度的评价工具跨国硬移植必然导致跨文化水土不服与测量妥协
+> **探讨维度　评价工具移植与本土语境冲突** 剖析跨国组织在测评工具研发中若直接照搬单一大国现成测验，必然因情境文化差异引发严重的文化效度危机。
 
 > [!claim] [[Argument_Morgan_Shahjahan_2014_CE|Morgan and Shahjahan (2014)]]
 > **现成测验直接移植的[[Cross-cultural Validity|跨文化效度]]危机** 跨国组织在研制国际测评工具时若为了压缩成本而采取[[Hard Policy Transfer|硬政策转移]]、直接照搬植根于单一大国（如美国）文化土壤的现成表现性测验（如美国大学学习评估 [[Collegiate Learning Assessment|CLA]]），其任务情境与问题背景极易因文化隔阂在非美参测国引发严重的文化效度危机，迫使研发团队推翻全表现性设计，增补传统客观多选题并重构框架以作妥协。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–201)]]

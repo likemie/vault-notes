@@ -24,8 +24,8 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Cultural Relativism]]"
   - "[[Innovation Park]]"
-  - "[[Creativity]]"
   - "[[Technological Republic]]"
+  - "[[Creativity]]"
   - "[[Market Shaping and Creating]]"
   - "[[Patriotic Education]]"
   - "[[General Education]]"
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -102,30 +102,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　公民仪式是制造现代民族国家并维系陌生人政治团结不可或缺的制度化装置
-
-> [!concept-lens] 国家构建理论与政治人类学
-> 探讨现代世俗国家如何通过教育正典与防卫服役等公民装置，在庞大异质人群中生产国家凝聚力。
+> [!concept-proposition] 命题一｜公民仪式是制造现代民族国家并维系陌生人政治团结不可或缺的制度化装置
+> **探讨维度　国家构建理论与政治人类学** 探讨现代世俗国家如何通过教育正典与防卫服役等公民装置，在庞大异质人群中生产国家凝聚力。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, Ch. 18)]]
 > **国家制造装置的不可替代性** 承接 E. D. 赫希（E. D. Hirsch Jr., 1988）等学者的理论洞察，民族国家并非自然生成的有机体，而是通过一整套精密设计的公民仪式“制造（manufacture）”出来的制度产物。公立学校的统一通识正典、国民普遍防卫服役、标准共同语言以及自由蓬勃的公共新闻论坛，构成了维系陌生人之间“想象亲密感”与跨阶层政治团结的核心基础设施。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–217)]]
 
 ---
 
-### 命题二　公民仪式的荒废使公共领域丧失凝聚纽带，导致大众退守娱乐亚文化与科技阶层异化为孤立技术城邦
-
-> [!concept-lens] 共同体瓦解与认同替代
-> 阐明仪式荒废后国家意义真空如何被商业消费娱乐与封闭式高科技城邦所填补，进而加剧政治共同体的碎裂。
+> [!concept-proposition] 命题二｜公民仪式的荒废使公共领域丧失凝聚纽带，导致大众退守娱乐亚文化与科技阶层异化为孤立技术城邦
+> **探讨维度　共同体瓦解与认同替代** 阐明仪式荒废后国家意义真空如何被商业消费娱乐与封闭式高科技城邦所填补，进而加剧政治共同体的碎裂。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, Ch. 18)]]
 > **意义真空与双重认同异化** 战后西方对集体事业的厌恶与[[Cultural Relativism|文化相对主义]]解构拆毁了传统公民装置，使得公共生活中的共有纽带退化为体育、娱乐、明星与时尚；而硅谷科技企业（如帕洛阿尔托与山景城的高[[Innovation Park|科技园区]]）则抓住认同真空，建构起提供全方位生活供给的封闭式“现代技术公社/技术城邦”，以全员股权和自由创造吸引顶尖人才，却在客观上造成了科技精英与国家安全使命的深度脱节。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 217–218)]]
 
 ---
 
-### 命题三　重铸技术共和国要求在自由市场个人创造力与崇高公民仪式体验之间达成历史和解
-
-> [!concept-lens] 技术共和主义与政治秩序重构
-> 论证面向人工智能等颠覆性竞争，维系西方现代文明必须将自由市场活力与共同体公民仪式紧密结合。
+> [!concept-proposition] 命题三｜重铸[[Technological Republic|技术共和国]]要求在自由市场个人[[Creativity|创造力]]与崇高公民仪式体验之间达成历史和解
+> **探讨维度　技术共和主义与政治秩序重构** 论证面向人工智能等颠覆性竞争，维系西方现代文明必须将自由市场活力与共同体公民仪式紧密结合。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, Ch. 18)]]
 > **个人[[Creativity|创造力]]与崇高集体体验的和解** 地缘竞争对手深谙确立共享文化传统与集体仪式的力量；西方若要避免衰亡，绝不能彻底拒绝共同生活。重铸[[Technological Republic|技术共和国]]的根本路径在于实现自由市场的个人创造力与人类对崇高集体体验渴求的和解——在教育、防务与科技创新中全面恢复能够凝聚国民的公民仪式，汲取[[Lee Kuan Yew|李光耀]]（Lee Kuan Yew, 2000）的治国美德，以坚实的敏捷软件[[Hard Power|硬实力]]与深厚文化信念铸就长治久安。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 216–218)]]

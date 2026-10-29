@@ -6,10 +6,10 @@ aliases:
 summary: "在认识论认知AIR模型中，指引探究、发现与信念形成过程的规范性意向与认知成就追求，是区分认识论认知与非认识论认知的根本标尺。"
 type: concept
 domain: "educational-psychology"
-related_count: 37
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation
@@ -22,8 +22,10 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Reliability]]"
   - "[[Justificatory Standards]]"
+  - "[[Learning Strategies]]"
   - "[[Epistemic Value]]"
   - "[[Scientific Explanation]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Cognitive Deskilling]]"
   - "[[Working Memory]]"
   - "[[Skill of Questioning]]"
@@ -34,12 +36,14 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Academic Achievement]]"
   - "[[Technology Infusion]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Interaction Effect]]"
   - "[[Authentic Science Practices]]"
   - "[[Procedural Skill]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Heterogeneity]]"
+  - "[[Variable]]"
+  - "[[Measurement Alignment]]"
+  - "[[Procedural Knowledge]]"
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
   - "[[Virtue Epistemology]]"
@@ -59,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -118,40 +122,32 @@ updated: 2026-10-25
 
 ## 围绕概念形成的命题
 
-### 命题一　认识论目标调解认识论信念向学习策略转化的因果路径
-
-> [!concept-lens] 目标对信念—行为转化的中介与调控维度
-> 解释为何持有相同[[Epistemological Beliefs\|认识论信念]]的学习者在实际任务中展现出完全相悖的探究行为，确立目标对认知策略的决定性。
+> [!concept-proposition] 命题一｜[[Epistemology|认识论]]目标调解[[Epistemological Beliefs|认识论信念]]向[[Learning Strategies|学习策略]]转化的因果路径
+> **探讨维度　目标对信念—行为转化的中介与调控维度** 解释为何持有相同[[Epistemological Beliefs\|认识论信念]]的学习者在实际任务中展现出完全相悖的探究行为，确立目标对认知策略的决定性。
 
 > [!claim] [[Clark A. Chinn\|Chinn, C. A.]] et al.
 > **目标调控策略选取** 单纯测量学习者关于知识复杂性的抽象信念无法可靠预测其实际学习行为。即便学习者深信知识具备高度复杂性，若其当下的认识目标仅为通过考试，机械背诵依然会被作为首选策略；若其感知深层理解的认知成本过高，亦会主动放弃深层探究。唯有将认识目标与[[Epistemic Value\|认识价值]]作为首要构件纳入模型，才能准确预测个体何时采纳深层对比或表层应试策略。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 147–148)]]
 
 ---
 
-### 命题二　认识论目标界定了科学论证任务的探究范畴与认识成就空间
-
-> [!concept-lens] 目标对科学实践与论证评价的规范塑形维度
-> 探讨科学教学中任务设定的[[Epistemology\|认识论]]目标如何界定学习者调动[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]的深度。
+> [!concept-proposition] 命题二｜认识论目标界定了科学论证任务的探究范畴与认识成就空间
+> **探讨维度　目标对科学实践与论证评价的规范塑形维度** 探讨科学教学中任务设定的[[Epistemology\|认识论]]目标如何界定学习者调动[[Epistemic Ideals\|认识论理想]]与[[Reliable Epistemic Processes\|可靠过程]]的深度。
 
 > [!claim] Duncan, R. G. & Chinn, C. A.
 > **目标框定实践范畴** 在科学探究与论证中，认识目标决定了论证者究竟是在开展真正的科学裁决还是在进行修辞性话术包装。科学教育应当将认识目标从记忆标准答案拓展至建构因果模型与裁决相互竞争的[[Scientific Explanation\|科学解释]]，正是这种指向模型辨析的高阶认识目标，驱动着论证者调动全域证据契合、多源收敛等高水平认识论理想以及对生成条件的审视。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 206–208)]]
 
 ---
 
-### 命题三　任务目标与测验维度的认识论对齐决定学业干预效应的显现幅度
-
-> [!concept-lens] 目标对齐与评价敏感性维度
-> 探讨[[Epistemic Cognition\|认识论认知]]干预的成效为何高度依赖评价任务所预设的认识目标层级，揭示测验对齐对干预效应释放的决定性影响。
+> [!concept-proposition] 命题三｜任务目标与测验维度的认识论对齐决定学业干预效应的显现幅度
+> **探讨维度　目标对齐与评价敏感性维度** 探讨[[Epistemic Cognition\|认识论认知]]干预的成效为何高度依赖评价任务所预设的认识目标层级，揭示测验对齐对干预效应释放的决定性影响。
 
 > [!claim] [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]
 > **目标对齐与高阶认识成就敏感性** 认识论认知干预的学业收益并非无差别地投射在所有类型的学业测验上，而是取决于评价任务所激活的认识目标层级。在对[[Intervention Research\|干预研究]]的一阶[[Meta-analysis\|元分析]]中，当[[Pre-test and Post-test\|后测]]任务直接对齐高阶认识目标（如撰写需要协调冲突证据的论证性文章或建构因果解释模型）时，学生展现出极高的干预获益；而当后测降级为脱离具体认识目标的通用远程标准化测验或低阶事实记忆时，干预效应则大幅衰减甚至变得不显著。这一机制表明，认识论认知干预的核心价值在于赋能深层探究与批判性知识裁决，而非提升机械化的解题效率。
 
 ---
 
-### 命题四　生成式人工智能时代教育的认识论目标必须坚持内生机能、智力技能与理智品格的三重统合
-
-> [!concept-lens] 教育认识论目标的本体层级与技术依赖抵御
-> 探讨生成式 AI 时代教育认识论目标如何突破单纯产出效率与外在完成度，确立以培育学生内在机体能力与德性品格为核心的规范边界。
+> [!concept-proposition] 命题四｜[[Generative Artificial Intelligence|生成式人工智能]]时代教育的认识论目标必须坚持内生机能、智力技能与理智品格的三重统合
+> **探讨维度　教育认识论目标的本体层级与技术依赖抵御** 探讨生成式 AI 时代教育认识论目标如何突破单纯产出效率与外在完成度，确立以培育学生内在机体能力与德性品格为核心的规范边界。
 
 > [!claim] [[Argument_Naeem_2026_Episteme\|Naeem (2026)]]
 > **教育三重认识论目标体系与[[Cognitive Deskilling|去技能化]]阻断** 教育的核心认识论目标在于强化认识主体自身的内在成长，具体包含三大递进层级：① 锤炼内生认知机能（如[[Working Memory|工作记忆]]与逻辑推理）；② 传授程序性智力技能（如写作、论证与[[Skill of Questioning|善于提问]]）；③ 塑造健全的[[Epistemic Virtues and Vices|理智美德]]（如[[Open-Mindedness|思想开放]]与[[Creativity|创造力]]）。当学生将写作与推理全盘外包给生成式 AI 以追求快速完成[[Homework|作业]]的外在产出时，直接切断了内生思维机能所必需的认知挣扎，引发认知与创造力的双重[[Cognitive Deskilling|去技能化]]。因此，教育系统的认识论目标不能降级为表层的任务产出效率，必须将技术交互规约锁定在保护认知挣扎、训练提问技能并滋养求真品格的内生发展上。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 270–274)]]
@@ -199,13 +195,13 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 测量对齐 | 近端任务对齐 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.706"><span class="b14"></span></span>0.706 | [0.490, 0.923] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Measurement Alignment\|测量对齐]] | 近端任务对齐 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.706"><span class="b14"></span></span>0.706 | [0.490, 0.923] | — |
 > |  |  | 远端测验对齐 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.298"><span class="b6"></span></span>0.298 | [0.096, 0.500] | — |
 > | 同上 | 结果类型 | 论证表现 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | [0.722, 1.372] | — |
 > |  |  | 概念知识 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.557"><span class="b11"></span></span>0.557 | [0.370, 0.744] | — |
-> |  |  | 程序知识 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.140"><span class="b3"></span></span>0.140 | [−0.076, 0.355] | — |
+> |  |  | [[Procedural Knowledge\|程序知识]] |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.140"><span class="b3"></span></span>0.140 | [−0.076, 0.355] | — |
 
 ---
 

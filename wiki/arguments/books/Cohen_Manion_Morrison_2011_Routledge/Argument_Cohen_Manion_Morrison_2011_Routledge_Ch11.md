@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_display_title: "Research Methods in Education · Ch11"
 argument_kind: "book-chapter"
-argument_related_count: 86
+argument_related_count: 88
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Interpretive Paradigm]]"
   - "[[Positivism]]"
+  - "[[Document]]"
   - "[[Rich and Thick Description]]"
   - "[[Naturalistic Generalization]]"
   - "[[Creativity]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Trustworthiness]]"
   - "[[Reliability]]"
   - "[[Variable]]"
+  - "[[Teacher Qualifications]]"
   - "[[Class Size]]"
   - "[[Epistemic Stances]]"
   - "[[Praxis]]"
@@ -123,7 +125,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-24
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 > [!knowledge-map] 第11章：[[Concept Mapping\|概念地图]]
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_11-1_Concept_Map.jpg)
@@ -139,7 +141,7 @@ updated: 2026-10-22
 > [!concept-lens] 阅读透镜
 > - **对象** 自然主义、质性和民族志研究方法的范式基础、规划与操作全流程，以及批判民族志分支。
 > - **张力** 自然主义（长期驻留）vs 质性方法（数据类型导向）；[[Interpretive Paradigm\|诠释范式]] vs [[Positivism\|实证主义]]的认识论对立；线性阶段模型 vs 迭代递归的操作现实；传统民族志（"是什么"）vs 批判民族志（"可能是什么"）的政治立场分歧。
-> - **贡献** 将散落于不同方法论文献中的质性研究指南整合为可操作的12阶段模型，并系统呈现了批判民族志的五阶段操作模型。
+> - **贡献** 将散落于不同方法论[[Document|文献]]中的质性研究指南整合为可操作的12阶段模型，并系统呈现了批判民族志的五阶段操作模型。
 
 ---
 
@@ -220,7 +222,7 @@ Lincoln and Guba（1985, pp. 39–43）将这些公理转化为以下几组操�
 ---
 
 > [!exegesis]- 教育情境：为何情境不可剥离
-> 一位研究者想了解某中学数学成绩远优于同类校的原因。量化思路测量[[Variable\|变量]]（教师资质、[[Class Size\|班级规模]]、经费），发现相关关系。自然主义研究者进入学校数周：观察课堂，发现数学教师将"数学即解谜"替代"数学即应试"；参与教研活动，感受教师团队的强集体效能；访谈学生，听到"老师真相信我们能学好"。这些嵌入情境的意义和过程不能被拆解为独立变量，而是解释了学校成功的关键原因。
+> 一位研究者想了解某中学数学成绩远优于同类校的原因。量化思路测量[[Variable\|变量]]（[[Teacher Qualifications|教师资质]]、[[Class Size\|班级规模]]、经费），发现相关关系。自然主义研究者进入学校数周：观察课堂，发现数学教师将"数学即解谜"替代"数学即应试"；参与教研活动，感受教师团队的强集体效能；访谈学生，听到"老师真相信我们能学好"。这些嵌入情境的意义和过程不能被拆解为独立变量，而是解释了学校成功的关键原因。
 
 ---
 
@@ -244,7 +246,7 @@ Lincoln and Guba（1985, pp. 39–43）将这些公理转化为以下几组操�
 
 ---
 
-> [!claim] 论证步骤一：确立认识论基础
+> [!claim|step] 论证步骤一：确立认识论基础
 > 自然主义/质性/民族志研究共享一个连贯的认识论范式，系统地区别于[[Positivism\|实证主义]]传统。此范式不仅提供了替代性的[[Ontology\|本体论]]和认识论立场，也为后续研究规划、抽样、数据收集和分析提供了内在一致的操作原则。
 
 **民族志研究的核心要素。** LeCompte and Preissle（1993）定义民族志为兼具探究方法、结果和记录的过程，旨在尽可能生动地重构所研究的文化或群体（p.235）：
@@ -290,7 +292,7 @@ Lofland（1971）提出自然主义方法旨在回答三个核心问题：社会
 
 ---
 
-> [!claim] 论证步骤二：自然主义与实证主义的系统性对比
+> [!claim|step] 论证步骤二：自然主义与实证主义的系统性对比
 > 自然主义/民族志方法与实证主义传统之间存在系统的、多维度的差异。但这些差异在某些方面，特别是认识论层面的对立，被过度夸大。Woods（1992）指出质性技术既可用于生成理论，也可用于检验理论。民族志学者的任务是平衡两种承诺：捕捉社会互动的多样性和独特性（通过厚描述），同时寻求其中的规律性和模式。正如 Durkheim（1982）所指出，"社会事实"客观存在。
 
 > [!contrast-table] 民族志方法 vs 实证主义方法（LeCompte & Preissle, 1993, pp. 39–44）
@@ -318,7 +320,7 @@ Lofland（1971）提出自然主义方法旨在回答三个核心问题：社会
 
 ---
 
-> [!claim] 论证步骤三：有效民族志的标志
+> [!claim|step] 论证步骤三：有效民族志的标志
 > Spindler and Spindler（1992, pp. 72–74）的11条有效民族志标准将认识论原则转化为可操作的质量基准，是对前述理论框架的自然延伸，也是后续12阶段操作模型的质量控制锚点。
 
 > [!seq-table] 有效民族志的11条标志（Spindler & Spindler, 1992）
@@ -338,7 +340,7 @@ Lofland（1971）提出自然主义方法旨在回答三个核心问题：社会
 
 ---
 
-> [!claim] 论证步骤四：研究设计的迭代性：线性模型与递归现实的张力
+> [!claim|step] 论证步骤四：研究设计的迭代性：线性模型与递归现实的张力
 > 质性研究规划可呈现为阶段模型，但实操本质是**迭代和递归**的。Flick（2009, p. 133）的循环模型，主张质性研究设计元素相互告知，比线性描述更准确。阶段模型提供导航框架而非刚性处方；小型质性研究（如一次性质性调查）可能不需经历全部阶段（pp.406–408）。
 
 质性研究规划过程受七个贯穿因素持续影响：
@@ -606,7 +608,7 @@ Morse（1994, p. 228）将信息提供者分为两类：
 
 #### 阶段8：现场数据收集（Data Collection in Situ）
 
-Lincoln and Guba（1985, p. 199）区分"干扰性"方法（访谈、观察、非言语语言，有他人在场）和"非干扰性"方法（文档和记录，无他人在场）。质性研究者可使用[[Field Notes|田野笔记]]、[[Participant Observation|参与观察]]、[[Semi-structured Interview|半结构化访谈]]、日记、生命史、文献和[[Audiovisual, Social Media, and Digital Materials|视听材料]]等多种工具。
+Lincoln and Guba（1985, p. 199）区分"干扰性"方法（访谈、观察、非言语语言，有他人在场）和"非干扰性"方法（文档和记录，无他人在场）。质性研究者可使用[[Field Notes|田野笔记]]、[[Participant Observation|参与观察]]、[[Semi-structured Interview|半结构化访谈]]、日记、生命史、[[Document|文献]]和[[Audiovisual, Social Media, and Digital Materials|视听材料]]等多种工具。
 
 **[[Qualitative Interview|质性访谈]]。** 半结构化访谈是最广泛使用的技术，时间表足够开放以允许重新排序、题外话、新路径加入和进一步追问。Carspecken（1996, pp. 159–160）从"温和鼓励"→"非引导性"引导→主动倾听→低推断改述→中推断改述→高推断改述的光谱。质性访谈从预结构化转向开放式/半结构化，允许灵活性而非固定的讨论序列。
 Lincoln and Guba（1985, pp. 268–270）提出访谈的四类目的：
@@ -768,7 +770,7 @@ Larsson（2009, p. 36）最终论证：**质性研究概括化的责任在于受
 
 ---
 
-> [!claim] 论证步骤六：批判民族志：从描述到变革
+> [!claim|step] 论证步骤六：[[Critical Ethnography|批判民族志]]：从描述到变革
 > [[Critical Ethnography\|批判民族志]]不否定传统民族志，而是将传统民族志暴露于[[Ideology Critique\|意识形态批判]]之下。传统民族志关注"**是什么**"（what is），批判民族志关注"**可能是什么**"（what could be）（Thomas, 1993, p. 4）。研究不仅是科学/技术实践，也不仅是诠释学理解；它必须成为反对霸权压迫的**政治行动和行动主义（pp.446–451）**。
 
 > [!chain-link] 传统民族志到批判民族志的转换逻辑
@@ -790,7 +792,7 @@ Larsson（2009, p. 36）最终论证：**质性研究概括化的责任在于受
 
 ---
 
-> [!claim] 论证步骤七：十大内在困难
+> [!claim|step] 论证步骤七：十大内在困难
 > 自然主义和民族志方法尽管重要，面临影响可靠性和可信度的多项**固有**困难。这些不是外部批评攻击，而是方法本身未完全解决的内在张力；在研究设计阶段即应预判。
 
 > [!challenges] 自然主义和民族志方法的十大内在困难

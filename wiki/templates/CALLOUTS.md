@@ -45,6 +45,31 @@ updated: 2026-10-21
 
 - CSS 位置：`argument-callouts.css` 末尾 `11 Component designs` 段，由 `tmp/callout-design-backup-v4/gen.py` 生成。新增组件时把名字加进对应形态的列表即可获得整套样式。
 
+### 16 · figure：扁平与动效（2026-10-29）
+
+独立 snippet `.obsidian/snippets/figure.css`，全站生效，关闭即回到原样式。写法不变，仍为 `[!figure]-`，默认折叠。
+
+- 标题行：眉标 FIGURE · 图（短横 + 小字）+ 衬线标题，与其他扁平组件一致；右侧圆形折叠按钮，折叠时旋转。
+- 内容：浅底展台，图片白底细框居中；图片下方的斜体图注（与图片同段或另起一段均可）显示为灰色小字，左侧细色条。
+- 未上传图片：虚线占位框，居中显示“原文图 X：图名（待上传）”。
+- 动效：悬停时顶边光线自中间展开、边框着色、图片轻微放大并浮起投影，眉标短横伸长；展开时内容淡入上浮。系统开启“减少动态效果”时关闭。
+
+### 15 · 字号层级与论证页层级（2026-10-29）
+
+独立 snippet `.obsidian/snippets/type-scale.css`，全站生效，关闭即回到原字号。
+
+| 层级 | 写法 | 外观 |
+| --- | --- | --- |
+| 论证步骤 | `> [!claim|step] 论证步骤一　<主张>` | 大标题：衬线 1.42em 加粗，靛蓝眉标 ARGUMENT STEP 与底线；主张正文在靛蓝浅底面板里 |
+| 子论点 | `> [!sub-claim] 1. <子论点>`（只写标题） | 青绿左色条 + 渐隐浅底 + 底部细线，宋体（与全站衬线一致）1.1em 半粗 |
+| 组件标题 | 各类 callout | 衬线 1em（嵌套子块 .95em） |
+| 图表与提示类标题 | figure、warning、note 等 | 无衬线加粗 .94em |
+| 眉标 | 标题前的英文小字 | 固定 10.5px |
+| H4（非论证页） | `####` | 无衬线 1.1em |
+
+- 例外：question、各类 divider、MetaX、EEF，以及带 `lead`、`notitle` 元数据的 callout 保持原样。
+- Argument 页的 `#### 子论点` 已全部改为 `[!sub-claim]`，`[!claim] 论证步骤` 已改为 `[!claim|step]`（脚本与备份：`tmp/subclaim-migration/`）。教材、专著中以 `### 小节` 组织、未出现论证步骤的页面仍用 H4。
+
 ### 14 · v6 Method Flat+：方法页扁平质感与动效（2026-10-29）
 
 Method 条目沿用 v4.1 扁平体系（短横眉标 + 衬线标题 + 发丝线框 + 扁平卡片），在其上加一层质感与动效。样式在独立 snippet `.obsidian/snippets/method-manual.css`，由 `tmp/method-manual-v6/gen6.py` 读取同目录的 `gen6_src.css` 生成；在“外观 → CSS 代码片段”关闭它即回到 v4.1。只在 frontmatter 含 `cssclasses: [method-manual]` 的页面生效。
@@ -550,7 +575,7 @@ Method 条目沿用 v4.1 扁平体系（短横眉标 + 衬线标题 + 发丝线�
   - 有数据但不是效应量的结果（百分位提升、成功率、计票比例、检验统计量、测量效度相关）放进“其他实证结果（无效应量）”；没有任何数据的纯文字结论和词频、提及次数这类表层计数不写进实证表格。只有样本量、结果栏仍是文字的行同样不写（lint 拦截新增的无数据行）。
   - 写完运行 `python3 scripts/effect_table.py --write <文件>` 生成效应条（统一换算到 $d$ 尺度，只决定条长，单元格仍显示原始数值；换算值显示为斜纹，界值末端渐隐）；`vault_lint.py` 会检查指标、数值格式和效应条是否与数值一致。
 - **废止的章节标题（2026-10-22）**：`## 相关研究`、`## 领域应用`、`## 总览`、`## 实证数据`、`## 条目关联`、`## 相关条目` 不再使用（lint `RETIRED_HEADING` 报错）。章节名写进 callout 标题：`[!evidence-grid-a] 相关研究索引`、`[!entry-map] 条目关联`、`[!area-map] 领域应用`、`[!textbook-overview] 章节总览`；实证表格由表内 marker 识别。脚本只依赖 `## 来源`。标题下不写“……如下”“与……紧密相连：”之类的引导句。
-- **`|notitle`**：callout 标题与紧邻的上方章节标题相同（或只多“索引／矩阵／汇总”等字）时加 `|notitle`，只显示眉标。`[!entry-map]`、`[!evidence-grid-a]` 一律写标题，不加 `|notitle`。提示类（info／note／warning 等）加 `|notitle` 时整行标题隐藏。同一章节下有多个 callout、各自标题区分内容时（如“主要著作”与“思想发展”），保留标题。
+- **`|notitle`**：callout 标题与紧邻的上方章节标题相同（或只多“索引／矩阵／汇总”等字）时加 `|notitle`，只显示眉标。`[!entry-map]`、`[!evidence-grid-a]` 保留标题；Concept 模板中的通用“相关研究索引”可加 `|notitle`，视觉上只显示 EVIDENCE 眉标。提示类（info／note／warning 等）加 `|notitle` 时整行标题隐藏。同一章节下有多个 callout、各自标题区分内容时（如“主要著作”与“思想发展”），保留标题。
 - **折叠统一规则（2026-10-21）**：只有以下几类写 `-` 默认折叠，其余一律不加 `-` / `+`：
   - 解读类：`[!exegesis]-`、`[!implication]-`、`[!result-reading]-`
   - 推理与边界：`[!warrant]-`、`[!boundary]-`
@@ -1329,3 +1354,13 @@ Method 条目沿用 v4.1 扁平体系（短横眉标 + 衬线标题 + 发丝线�
 补充评估项目使用 `[!eef-programme|evaluation]`，沿用同一布局，页眉标识为 EEF Project Evaluation；不标为有望项目。
 
 正式项目使用 `template-fact-eef-programme.md`，卡片由 `scripts/eef_sync.py render-programmes` 按 `datasets/eef/programmes.json` 的 `entries` 显式映射生成。基础索引和 EEF 只读门禁检查已映射模块的一致性。每次试验的 `record` 保存核对后的字段，源段落或指标改变时使旧记录失效；结果行的中文标签与显著性也绑定原始结果。
+
+### Concept 通用标题显示
+
+`.obsidian/snippets/concept-study.css` 补充 `|notitle` 的兼容规则，并单独设计 `[!concept-proposition]`。其余卡片外观沿用 `argument-callouts.css` 与 `type-scale.css`。
+
+Concept 模板中的通用标题“概念透镜”“关键表述”“概念辨析”“学术争议”“核心张力”“外部批评”和“相关研究索引”使用 `|notitle`，视觉上只保留英文眉标。中文标题保留在 Markdown 中供编辑时识别。标题改为具体引文主题、比较对象或争议名称时，去掉 `|notitle` 以显示该标题；命题主张和“所有命题归纳”继续显示。
+
+`[!concept-proposition]` 使用浅青底命题卡、左侧强调线和衬线主张标题；探讨维度在分隔线下单列。悬停或键盘聚焦时边线加深，不移动正文；窄屏缩小标题和内边距，减少动态效果及打印时关闭过渡。该样式按 callout 类型生效，不需要页面类名。
+
+`[!warning|limits] 适用局限` 使用低饱和琥珀色侧线、LIMITATIONS 眉标和独立正文区，保留段落与列表结构；悬停或聚焦时边框加深。仅显式标注 `limits` 的 warning 使用该样式，普通 warning 沿用原样。深色模式提高强调色亮度，减少动态效果和打印时关闭过渡。

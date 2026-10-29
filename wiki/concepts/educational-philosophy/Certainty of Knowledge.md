@@ -10,7 +10,7 @@ aliases:
 summary: "关于知识本质的底层认知假设与哲学追求。在西方思想史中体现为以数学和逻辑为范式追求客观永恒真知的文化传统；在教育心理学中则是衡量个体认识论成熟度（绝对固定 vs 相对演变）的核心维度，实证表明其独立负向预测学业成绩并受学科选择与社会化的双重塑造。"
 type: concept
 domain: "educational-philosophy"
-related_count: 53
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Discourse]]"
   - "[[Self-Cultivation]]"
+  - "[[Learning Strategies]]"
   - "[[Wicked Problem]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Reflexivity]]"
@@ -34,8 +35,8 @@ related_concepts:
   - "[[Sage]]"
   - "[[Open-Mindedness]]"
   - "[[Mind and Its Wonders]]"
-  - "[[Metacognition]]"
   - "[[Epistemological Theories]]"
+  - "[[Metacognition]]"
   - "[[Construct]]"
   - "[[Epistemic Cognition]]"
   - "[[Academic Achievement]]"
@@ -62,6 +63,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Questionnaire]]"
   - "[[Effect Size]]"
+  - "[[Pre-test and Post-test]]"
   - "[[Cohort Study]]"
 related_instruments:
   - "[[Global Certainty Scale]]"
@@ -84,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -94,7 +96,7 @@ updated: 2026-10-25
 
 > [!concept-lens] 概念透镜
 > - **含义** 包含宏观哲学层面上对超感官永恒秩序的追寻，以及微观认知发展层面上对知识“绝对确定 vs. 暂时演变”的信念取向。
-> - **用途** 在跨文化比较中，用于区分西方追求外在世界客观真理与东方追求内在道德[[Self-Cultivation\|修身]]的学习传统；在教育测量中，用于预测学生的高阶学习策略、[[Wicked Problem|劣构问题]]推理能力与学术分流轨迹。
+> - **用途** 在跨文化比较中，用于区分西方追求外在世界客观真理与东方追求内在道德[[Self-Cultivation\|修身]]的学习传统；在教育测量中，用于预测学生的高阶[[Learning Strategies|学习策略]]、[[Wicked Problem|劣构问题]]推理能力与学术分流轨迹。
 > - **边界** 不等于[[Simplicity of Knowledge\|知识的简单性]]（后者关注知识是离散碎片还是复杂网络）；不适用于纯道德人伦的实践规范；不可等同于后现代的虚无主义或彻底不可知论。
 
 > [!citation-card] 关键表述
@@ -169,10 +171,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　追求知识的确定性是西方学习传统的基石
-
-> [!concept-lens] 文化与哲学传统维度
-> 探讨西方文化如何将“真知（True Knowledge）”理解为不依赖感官经验的绝对可靠结论，并确立为求知活动的终极目标。
+> [!concept-proposition] 命题一｜追求知识的确定性是西方学习传统的基石
+> **探讨维度　文化与哲学传统维度** 探讨西方文化如何将“真知（True Knowledge）”理解为不依赖感官经验的绝对可靠结论，并确立为求知活动的终极目标。
 
 > [!claim] [[Jin Li\|Li, J.]]
 > **作为文化基因的真知追求** Li 识别出“追求知识的确定性”是西方学习传统的第一核心主题。西方文化将真知界定为客观的、确定的、普遍的与永恒的。这一信念以数学和演绎逻辑为绝对[[Paradigm\|范式]]：
@@ -181,10 +181,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　知识的确定性是个体认识论理论的核心心理维度
-
-> [!concept-lens] 认知心理与测量维度
-> 探讨个体在心智发展过程中，如何逐步改变对“知识是否绝对固定”的底层预设，及其对[[Metacognition\|元认知]]策略的调节机制。
+> [!concept-proposition] 命题二｜知识的确定性是个体[[Epistemological Theories|认识论理论]]的核心心理维度
+> **探讨维度　认知心理与测量维度** 探讨个体在心智发展过程中，如何逐步改变对“知识是否绝对固定”的底层预设，及其对[[Metacognition\|元认知]]策略的调节机制。
 
 > [!claim] Hofer, B. K. & Pintrich, P. R.
 > **个体[[Epistemological Theories\|认识论理论]]的核心[[Construct\|构念]]** 在教育心理学领域，知识的确定性（Certainty of Knowledge）是构成个体“认识论理论（Personal [[Epistemology]]）”的两大知识本质维度之一。通过系统审查 Perry (1970)、King and Kitchener (1994) 和 Schommer (1990) 的模型，研究者确立了确定性维度作为认知成熟度的普适标尺：
@@ -198,10 +196,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题三　科学知识确定性信念负向预测学业成就并受学科选择与社会化双重塑造
-
-> [!concept-lens] 纵向因果与学科分化机制
-> 探讨确定性信念能否在控制智力与阶层后独立预测[[Academic Achievement\|学业成就]]，以及学科间的确定性分化是由入学前的生源自我选择所致还是大学环境的社会化所致。
+> [!concept-proposition] 命题三｜科学知识确定性信念负向预测学业成就并受学科选择与社会化双重塑造
+> **探讨维度　纵向因果与学科分化机制** 探讨确定性信念能否在控制智力与阶层后独立预测[[Academic Achievement\|学业成就]]，以及学科间的确定性分化是由入学前的生源自我选择所致还是大学环境的社会化所致。
 
 > [!claim] Trautwein, U. & Lüdtke, O.
 > **学业净负向预测力与学科双重分化机制** 基于德国中等教育转型与学术职业追踪项目（[[TOSCA\|Transformation of the Secondary School System and Academic Careers]]，[[TOSCA]]）的大规模两波纵向追踪数据（高中毕业 Time 1，T1 与大学就读 Time 2，T2），研究证实了确定性信念对学业表现的稳健阻碍作用，并揭示了学科认识论分化的复合演进路径：
@@ -211,10 +207,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题四　办学导向与性别角色塑造确定知识信念的成熟度分化
-
-> [!concept-lens] 制度文化与性别社会化维度
-> 探讨办学导向与性别如何塑造学生对知识可变性与不确定性的包容水平。
+> [!concept-proposition] 命题四｜办学导向与性别角色塑造确定知识信念的成熟度分化
+> **探讨维度　制度文化与性别社会化维度** 探讨办学导向与性别如何塑造学生对知识可变性与不确定性的包容水平。
 
 > [!claim] [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]]
 > **办学导向与性别分化主张** 确定知识信念的成熟度受学校办学导向与性别社会化的显著调节。
@@ -275,7 +269,7 @@ updated: 2026-10-25
 >
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 测验时点 | 延时后测 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.966"><span class="b19"></span></span>0.966 | [0.802, 1.131] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 测验时点 | 延时[[Pre-test and Post-test\|后测]] | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.966"><span class="b19"></span></span>0.966 | [0.802, 1.131] | — |
 
 > [!ref-table]- 其他实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

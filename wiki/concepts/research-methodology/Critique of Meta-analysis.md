@@ -5,7 +5,7 @@ aliases:
 summary: "围绕元分析方法论前提、证据库与操作程序、统计推断、聚合后的政策用途和认识论立场形成的批评体系，并对照各项批评的方法学回应与遗留问题"
 type: concept
 domain: "research-methodology"
-related_count: 80
+related_count: 82
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -39,10 +39,12 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Sampling Error]]"
   - "[[Literature Review]]"
+  - "[[Commensuration]]"
   - "[[Business as Usual]]"
   - "[[Developer-Made Measures]]"
   - "[[Extending School Time]]"
   - "[[Interaction Effect]]"
+  - "[[Document]]"
   - "[[Direct Instruction]]"
   - "[[Web-Based Learning]]"
   - "[[Cargo Cult Science]]"
@@ -103,7 +105,7 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -133,10 +135,8 @@ updated: 2026-10-26
 
 ## 一、方法论前提
 
-### 命题一　合并不可比的研究时，平均效应量缺乏明确含义
-
-> [!concept-lens] 可比性的前提条件
-> 当纳入研究在干预定义、测量工具、参与者与研究设计上差异过大时，平均[[Effect Size|效应量]]只是不同事物的混合，无法对应任何具体的干预。
+> [!concept-proposition] 命题一｜合并不可比的研究时，平均[[Effect Size|效应量]]缺乏明确含义
+> **探讨维度　可比性的前提条件** 当纳入研究在干预定义、测量工具、参与者与研究设计上差异过大时，平均[[Effect Size|效应量]]只是不同事物的混合，无法对应任何具体的干预。
 
 > [!claim] Eysenck (1978); Wolf (1986); Morrison (2001)
 > **苹果与橙子** Eysenck (1978) 批评早期[[Meta-analysis|元分析]]把不可比的研究混为一谈；Glass et al. (1981) 与 McGaw (1997) 也承认存在综合相似性不足的研究的风险。Wolf (1986) 把可比性列为元分析六项批评之首：干预、测量、[[Variable\|变量]]定义与参与者各不相同的研究，难以得出逻辑一致的结论。Morrison (2001) 进一步追问：当各实验的假设分属不同[[Construct\|构念]]的[[Operationalization\|操作化]]，[[Randomised Controlled Trials\|RCT]] 的时间框架、干预方案、控制条件与测量工具各不相同时，如何确定合并是公平的？Smith and Glass (1977) 的回应是差异可以编码并在分析中处理，但这并未消除根本质疑。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17)]]
@@ -163,10 +163,8 @@ updated: 2026-10-26
 > - **构念偏离** 其中 4 项测量的对象偏离了形成性认知反馈：Bangert-Drowns et al. (1991) 是[[Behaviorism\|行为主义]]式的测后纠错，Lysakowski and Walberg (1982) 把金钱、代币与糖果奖励都算作反馈，Tenbrink (1970) 汇总的是教师非言语亲和力，Rummel (1983) 是[[Dynamic Assessment\|动态测验]]后的重复练习。
 > - **被平均值掩盖的负效应** 唯一契合现代反馈定义的 Kluger and DeNisi (1996) 显示，607 个效应量中约 38% 为负，但这一信息在 $d = 0.73$ 中完全消失（见命题八）。
 
-### 命题二　低质量研究的偏误不会因合并而消除
-
-> [!concept-lens] 输入质量与合并逻辑
-> 增加研究数量能抵消随机误差，但不能抵消系统偏误。若低质量研究偏向同一方向，合并只会让偏误看起来更精确。
+> [!concept-proposition] 命题二｜低质量研究的偏误不会因合并而消除
+> **探讨维度　输入质量与合并逻辑** 增加研究数量能抵消随机误差，但不能抵消系统偏误。若低质量研究偏向同一方向，合并只会让偏误看起来更精确。
 
 > [!claim] Eysenck (1978)
 > **垃圾进，垃圾出** Eysenck (1978, p. 517) 批评元分析把好的、坏的和平庸的报告一并输入计算机，“希望人们不再关心结论所基于的材料的质量”，并以“垃圾进——垃圾出”概括其后果（引自 [[Argument_OConnor_2020_AJLL\|O'Connor, 2020, p. 143]]）。这一批评奠定了后续讨论的基本命题：聚合的质量取决于输入的质量。
@@ -177,10 +175,8 @@ updated: 2026-10-26
 > [!claim] [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]
 > **设计再好也救不了输入** 对设计不良的研究做元分析，无论元分析本身设计得多好，都不可避免地得到不可靠的结论。[[Argument_Snook_2009_NZJES\|(Snook et al., 2009, pp. 96–97)]]
 
-### 命题三　元分析在医学中成立的条件，在教育中经常不成立
-
-> [!concept-lens] 领域迁移的适配性
-> 元分析起源于医学，那里概念界定清楚、设计标准化、机制可以分离。批评者认为，问题出在方法与研究对象之间的基础性错配，改进执行无法解决。
+> [!concept-proposition] 命题三｜元分析在医学中成立的条件，在教育中经常不成立
+> **探讨维度　领域迁移的适配性** 元分析起源于医学，那里概念界定清楚、设计标准化、机制可以分离。批评者认为，问题出在方法与研究对象之间的基础性错配，改进执行无法解决。
 
 > [!claim] [[Argument_Snook_2010_NZJES\|Snook et al. (2010)]]; Tripp (1985)
 > **概念化差、设计弱** [[Argument_Snook_2010_NZJES\|Snook et al. (2010, p. 96)]] 在回应 [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] 时指出，教育中“被研究的变量往往概念化差，研究也经常不够严格”：如何清楚区分“以教师为中心”与“以学生为中心”的课堂，又如何在三十多人的嘈杂课堂里控制所有变量？他们引用 Nuthall (2007) 的结论，强调识别可信的[[Lesson Study|课堂研究]]需要非常有选择性，并以 Nuthall 的 *The Hidden Lives of Learners* 对照 Hattie 的《[[Visible Learning\|可见的学习]]》，暗示两者[[Epistemology|认识论]]取向不同。Tripp (1985) 则指出，量化研究只要求每个案例测量少量共同变量，研究累积只增加[[Sample Size Determination|样本量]]，数据的复杂性并未随之增加，导致元分析去综合相似性不足的研究。
@@ -192,10 +188,8 @@ updated: 2026-10-26
 
 ## 二、证据库与操作程序
 
-### 命题四　发表偏倚与选择偏倚系统性地扭曲证据库
-
-> [!concept-lens] 证据库的完整性
-> [[Meta-analysis|元分析]]的结论取决于纳入研究的代表性。已发表研究与未发表研究系统不同时，平均[[Effect Size|效应量]]会高估真实效果。技术诊断方法见 [[Publication Bias]] 与 [[Funnel Plot]]。
+> [!concept-proposition] 命题四｜[[Publication Bias|发表偏倚]]与选择偏倚系统性地扭曲证据库
+> **探讨维度　证据库的完整性** [[Meta-analysis|元分析]]的结论取决于纳入研究的代表性。已发表研究与未发表研究系统不同时，平均[[Effect Size|效应量]]会高估真实效果。技术诊断方法见 [[Publication Bias]] 与 [[Funnel Plot]]。
 
 > [!claim] Wolf (1986); Rosenthal (1991)
 > **文件抽屉问题** Wolf (1986) 把发表偏倚列为第三项批评：已发表研究更受青睐，结果不显著的未发表研究难以纳入。Glass et al. (1981) 回应称，未发表研究（尤其是博士和硕士学位研究）报告的效应往往较弱，纳入它们可以对冲已发表研究。Rosenthal (1991) 提出计算推翻显著结论所需的零效应未发表研究数，但该方法假定未发表研究的平均效应为零，这一假设本身可能不成立。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17)]]
@@ -210,10 +204,8 @@ updated: 2026-10-26
 > - **按技术质量而非理论相关性选研究** 元分析通常依据设计质量（如是否为 [[Randomised Controlled Trials|RCT]]）选择源研究，原研究讨论部分的理论内容在最终报告中往往消失；[[Education Endowment Foundation\|EEF]] 工具包的体育参与条目只基于三个元分析中的四个效应量 [[Argument_Wrigley_2019_ERE\|(Wrigley & McCusker, 2019, pp. 119–123)]]。
 > - **难以收集反驳证据** 若元分析遵循[[Scientific Method\|科学方法]]，就必须收集可能推翻假设的替代解释与数据；但已发表研究可能只报告“成功”，未发表研究难以定位，数据的所有权与公开也可能受限 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17)]]。
 
-### 命题五　数据提取与编码错误会直接进入合并结果
-
-> [!concept-lens] 从原始研究到效应量的[[Transcription in Qualitative Research|转录]]链
-> 元分析的每个数字都经过提取、换算与编码。这条链上的任何错误，都会以“精确数字”的形式进入结论，而读者通常无从核查。
+> [!concept-proposition] 命题五｜数据提取与编码错误会直接进入合并结果
+> **探讨维度　从原始研究到效应量的[[Transcription in Qualitative Research|转录]]链** 元分析的每个数字都经过提取、换算与编码。这条链上的任何错误，都会以“精确数字”的形式进入结论，而读者通常无从核查。
 
 > [!claim] McGaw (1997); Wolf (1986)
 > **编码的主观性与伪精确** 编码类别的精确度、[[Intercoder Agreement\|编码者间信度]]与效度必须明示；Hunter et al. (1982) 主张，若[[Sampling Error\|抽样误差]]等人为因素不能解释至少 75% 的观察方差，结果就不应作为单一效应接受。Wolf (1986) 的第六项批评警告，元分析表面上的客观与精确可能掩盖纳入研究的程序缺陷，带来“有害后果”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17)]]
@@ -228,10 +220,8 @@ updated: 2026-10-26
 
 ## 三、统计推断
 
-### 命题六　非随机研究的有偏估计不会因合并而抵消
-
-> [!concept-lens] 统计推断与[[Causality|因果推断]]
-> [[Meta-analysis|元分析]]用于估计因果效应时，要求被合并的研究是可比的随机实验，且可视为某个总体的概率样本。批评者认为，这些前提在教育研究中几乎从未满足。
+> [!concept-proposition] 命题六｜非随机研究的有偏估计不会因合并而抵消
+> **探讨维度　统计推断与[[Causality|因果推断]]** [[Meta-analysis|元分析]]用于估计因果效应时，要求被合并的研究是可比的随机实验，且可视为某个总体的概率样本。批评者认为，这些前提在教育研究中几乎从未满足。
 
 > [!claim] [[Argument_Berk_2011_EvalRev\|Berk (2011)]]
 > **三重批判** 基于多年编辑经验，[[Argument_Berk_2011_EvalRev\|Berk (2011, pp. 198–199)]] 提出：
@@ -244,10 +234,8 @@ updated: 2026-10-26
 > [!claim] Cooper and Rosenthal (1980); Cook et al. (1992)
 > **两类错误难以同时控制** Cooper and Rosenthal (1980) 与 Hedges and Olkin (1980) 认为元分析有助于避免 II 型错误；Cook et al. (1992) 则指出随着纳入研究增多，II 型错误反而可能更常见，而 Rosenthal 的文件抽屉方法针对的是 I 型错误。两类错误在元分析中同时存在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17)]]
 
-### 命题七　效应量跨研究不可比，合并违背统计通约性
-
-> [!concept-lens] 效应量难以充当通用货币
-> 标准化效应量的大小不仅取决于干预本身，还取决于比较组、样本范围、测量工具与研究设计。这些因素在不同研究领域系统性地不同。
+> [!concept-proposition] 命题七｜效应量跨研究不可比，合并违背统计[[Commensuration|通约]]性
+> **探讨维度　效应量难以充当通用货币** 标准化效应量的大小不仅取决于干预本身，还取决于比较组、样本范围、测量工具与研究设计。这些因素在不同研究领域系统性地不同。
 
 > [!claim] [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]]
 > **可比较性与可合并性两项假设均被违背** 教育元分析依赖两项假设：效应量越大的干预教育意义越大（可比较性），不同研究的效应量可以合并（可合并性）[[Argument_Simpson_2017_JEdPolicy\|(Simpson, 2017, pp. 4–5)]]。三类系统偏差使两者都不成立（详见 [[Effect Size#Simpson (2017) 的三大系统性偏差：原始论证]]）：
@@ -260,10 +248,8 @@ updated: 2026-10-26
 > [!claim] Morris and DeShon (2002); [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]
 > **不同设计估计不同的总体参数** 组间设计的效应量以个体间变异标准化，组内前[[Pre-test and Post-test|后测]]设计的效应量取决于前后测相关与变化分数的标准差，两者估计的是不同参数，未经换算不能直接平均 (Morris & DeShon, 2002)。[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] 发现，《[[Visible Learning|可见的学习]]》只有 30% 的影响因素纯粹基于组间实验，27%（82 项）把组间实验与相关研究混在一起，另有 10% 混入了全部三类设计。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 7–8, 15–16)]]
 
-### 命题八　平均效应量掩盖了效应的变异与方向
-
-> [!concept-lens] 平均值的陷阱
-> 单一汇总效应量给人精确可靠的印象，但它背后可能是极度分散的效应，甚至相当比例的效应方向相反。
+> [!concept-proposition] 命题八｜平均效应量掩盖了效应的变异与方向
+> **探讨维度　平均值的陷阱** 单一汇总效应量给人精确可靠的印象，但它背后可能是极度分散的效应，甚至相当比例的效应方向相反。
 
 > [!claim] Kluger and DeNisi (1996); [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]]
 > **反馈：三分之一以上为负** Kluger and DeNisi (1996) 综合 131 项研究的 607 个效应量，平均约 0.4 个标准差，Hattie (1999) 据此提出“改善教育的最简单处方必须是大量的反馈”。但效应量的标准差约为 1，约 38% 的效应为负：超过三分之一的情况下，不给反馈反而更好。不了解干预经由什么机制起作用，就可能在特定情境中持续产生负效果。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, pp. 10–11)]]
@@ -281,13 +267,11 @@ updated: 2026-10-26
 
 ## 四、聚合层级与政策用途
 
-### 命题九　二阶聚合在层级之间传播并放大偏倚
-
-> [!concept-lens] 二阶聚合的特有风险
-> [[Meta-meta-analysis\|元-元分析]]在[[Meta-analysis|元分析]]之上再次合并，上述各层问题会在层级之间传播并放大。此处概述主要论点，完整论证见 [[Critique of Meta-meta-analysis]]。
+> [!concept-proposition] 命题九｜二阶聚合在层级之间传播并放大偏倚
+> **探讨维度　二阶聚合的特有风险** [[Meta-meta-analysis\|元-元分析]]在[[Meta-analysis|元分析]]之上再次合并，上述各层问题会在层级之间传播并放大。此处概述主要论点，完整论证见 [[Critique of Meta-meta-analysis]]。
 
 > [!claim] [[Argument_Terhart_2011_JCS\|Terhart (2011)]]
-> **信息损耗、时效滞后与双重困境** Terhart 指出，元分析把不同项目、方法与背景的研究结果当作可自由兑换的“通用货币”，层层累加中原始研究的情境与机制不可逆地流失。从原始研究到一阶元分析约有 5 年滞后，再到二阶综合又有 10 至 20 年，巨型证据库反映的多是数十年前的学校。他还提出稳定性/变异性双重困境：若教学规律稳定，综合得出的高效因素不过重申了教科书常识；若规律随情境变化，依赖陈旧文献的某些结论（如教师专业知识影响微弱）已被 [[COACTIV]] 等新研究推翻 (Baumert et al., 2010)。巨型综合因此无法成为终结争议的“圣杯”，更像一座需要不断修补的金字塔。[[Argument_Terhart_2011_JCS\|(Terhart, 2011)]]
+> **信息损耗、时效滞后与双重困境** Terhart 指出，元分析把不同项目、方法与背景的研究结果当作可自由兑换的“通用货币”，层层累加中原始研究的情境与机制不可逆地流失。从原始研究到一阶元分析约有 5 年滞后，再到二阶综合又有 10 至 20 年，巨型证据库反映的多是数十年前的学校。他还提出稳定性/变异性双重困境：若教学规律稳定，综合得出的高效因素不过重申了教科书常识；若规律随情境变化，依赖陈旧[[Document|文献]]的某些结论（如教师专业知识影响微弱）已被 [[COACTIV]] 等新研究推翻 (Baumert et al., 2010)。巨型综合因此无法成为终结争议的“圣杯”，更像一座需要不断修补的金字塔。[[Argument_Terhart_2011_JCS\|(Terhart, 2011)]]
 
 > [!claim] [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]
 > **伪[[Standard Error|标准误]]与文献重叠** Haas (2005) [[Direct Instruction\|直接教学]]元分析缺少原始[[Sample Size Determination|样本量]]，后续综合以[[Effect Size|效应量]]离散标准差除以 $\sqrt{19}$ 拼出标准误 0.135，使其权重只有约 54.9；按原始样本量推算的标准误为 0.092（权重约 118.1），权重被削减 53.5%。[[Web-Based Learning|网络学习]]条目中，Olson and Wisher (2002) 的 15 项研究有 14 项（93.3%）与 Sitzmann et al. (2006) 重复；忽略重复并简单平均得到 $d = 0.59$（第 26 位），去重并[[Inverse-Variance Weighting\|逆方差加权]]后降至 $d = 0.23$（第 98 位）。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 29–30)]]
@@ -301,10 +285,8 @@ updated: 2026-10-26
 > [!claim] [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]
 > **效应量过度离散** 对《可见的学习》133 项正值效应量计算变差系数，全库达 56.87%，远超 33% 的同质性标准，学生、学校、教师三个子领域分别为 71.24%、65.97%、51.01%；在如此离散的数据上输出单一的 $d = 0.40$ 关节点缺乏数理依据。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, pp. 238–241)]]
 
-### 命题十　排行榜与通俗化指标把不确定的证据变成伪精确的政策信号
-
-> [!concept-lens] 从证据到决策的降维
-> 当平均效应量被排成气压计、排行榜或“额外学习月数”时，变异、比较组与证据质量等信息在转译中进一步流失，决策者看到的是一个看似确定的顺序。
+> [!concept-proposition] 命题十｜排行榜与通俗化指标把不确定的证据变成伪精确的政策信号
+> **探讨维度　从证据到决策的降维** 当平均效应量被排成气压计、排行榜或“额外学习月数”时，变异、比较组与证据质量等信息在转译中进一步流失，决策者看到的是一个看似确定的顺序。
 
 > [!claim] [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]]; [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]]
 > **排名不等于教育重要性** 由于效应量受研究设计操纵自由度影响（命题七），排名靠前往往只说明该领域的研究更容易做出大效应量，未必说明干预更重要。[[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 据此提出 11 点评估清单（见下文）。
@@ -319,10 +301,8 @@ updated: 2026-10-26
 
 ## 五、认识论
 
-### 命题十一　以平均效应量为中心的知识观有其盲点
-
-> [!concept-lens] 能看见什么，看不见什么
-> 这一层批评不针对某个程序错误，而针对[[Meta-analysis|元分析]]的知识观本身：把教育知识等同于可测量、可平均的效应，会遮蔽什么？
+> [!concept-proposition] 命题十一｜以平均[[Effect Size|效应量]]为中心的知识观有其盲点
+> **探讨维度　能看见什么，看不见什么** 这一层批评不针对某个程序错误，而针对[[Meta-analysis|元分析]]的知识观本身：把教育知识等同于可测量、可平均的效应，会遮蔽什么？
 
 > [!claim] [[Argument_Larsen_2019_EducSci\|Larsen (2019)]]
 > **观察者盲点** Larsen 从二阶控制论与德意志教化（[[Bildung]]）传统出发指出，元分析[[Discourse|话语]]把教育简化为可调控的参数与绩效排名；宣称借助数据看清教育全部真相的观察者，恰恰看不见自身观察框架的历史局限，陷入一阶观察的盲点。[[Argument_Larsen_2019_EducSci\|(Larsen, 2019, pp. 3–4, 10)]]
@@ -397,7 +377,7 @@ updated: 2026-10-26
 
 ---
 
-> [!evidence-grid-a] 核心文献索引
+> [!evidence-grid-a] 核心[[Document|文献]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch. 17)]] — 系统整理[[Meta-analysis|元分析]]批判的主要维度，涵盖 Wolf 的六项批评、可比性、[[Randomised Controlled Trials|RCT]] 的抽样与伦理问题及程序改进建议。
 > - [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] — 识别元分析在教育中应用的特有方法论问题。
 > - [[Argument_Snook_2010_NZJES\|Snook et al. (2010)]] — 论证元分析从医学到教育的移植存在基础性错配。

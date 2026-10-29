@@ -25,6 +25,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Test Production]]"
   - "[[Value Neutrality]]"
+  - "[[Politics of Knowledge]]"
   - "[[Technical Rationality]]"
   - "[[Soft Policy Transfer]]"
   - "[[Hard Policy Transfer]]"
@@ -41,6 +42,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Comparative Case Study]]"
@@ -70,14 +72,14 @@ sources:
 part_of:
 status: completed
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Morgan_Shahjahan_2014_CE"
 argument_key: "Argument_Morgan_Shahjahan_2014_CE"
 argument_display_title: "The legitimation of OECD's global educational governance: examining PISA and AHELO test production"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -98,7 +100,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 经合组织两项旗舰测评工程在研发初期的解密档案、会议纪要、工作底稿与利益相关方交流备忘录。
 > - **张力** 跨国评估工具被宣称为[[Value Neutrality|价值中立]]的客观科学，但其标准确立过程实质充斥着制度排异、权力博弈与跨文化水土不服。
-> - **贡献** 将全球教育治理分析的视野前移至[[Test Production|测验生产]]阶段，解构了国际测评在技术包装下的知识政治与政策转移机制。
+> - **贡献** 将全球教育治理分析的视野前移至[[Test Production|测验生产]]阶段，解构了国际测评在技术包装下的[[Politics of Knowledge|知识政治]]与政策转移机制。
 
 ---
 
@@ -146,10 +148,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　跨国组织通过唤醒历史成功经验建构信息缺口并确立合法威权
+> [!claim|step] 论证步骤一　跨国组织通过唤醒历史成功经验建构信息缺口并确立合法威权
 > [[OECD|经合组织]]善于利用既往标志性成果树立专业威信，将复杂的教育需求精准定性为亟待填补的信息缺口，从而确立自身作为权威数据生产者的无可替代性。
 
-#### 1. 依托既往旗舰产品固化指标文化并开辟自主数据生产路径
+> [!sub-claim] 1. 依托既往旗舰产品固化指标文化并开辟自主数据生产路径
 
 在基础教育领域，经合组织系统继承并拓展了 1988 年启动的[[International Indicators of Education Systems|教育系统国际指标项目]]（Indicators of Education Systems, INES，[[International Indicators of Education Systems|国际教育指标体系]]）积累的制度红利。
 
@@ -160,7 +162,7 @@ issuing_organization: ""
 
 <br>
 
-#### 2. 借力既往测验威权开辟高教评估新战场并划清排名界限
+> [!sub-claim] 2. 借力既往测验威权开辟高教评估新战场并划清排名界限
 
 在高等教育领域，经合组织直接将 PISA 树立的学术声誉转化为启动新项目的合法资本，主动发起[[OECD AHELO Project|高等教育学习成果评估]]（[[OECD AHELO Project|AHELO]]）。
 
@@ -171,10 +173,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　组建专家认知共同体并借助硬政策转移固定评价微观规程
+> [!claim|step] 论证步骤二　组建专家认知共同体并借助硬政策转移固定评价微观规程
 > 经合组织吸纳测量学家与学科专家组建专属[[Epistemic Community|认知共同体]]，将脱离具体课程的通用素养确立为国际标杆，并通过直接复制试题规程的[[Hard Policy Transfer|硬政策转移]]，迫使参测国在测验成形期便全面接纳其评价标准。
 
-#### 1. 掌控心理测量中枢并以素养框架重塑课程考核逻辑
+> [!sub-claim] 1. 掌控心理测量中枢并以素养框架重塑课程考核逻辑
 
 经合组织超越单纯的官僚行政指令，重点通过吸纳全球顶尖学术力量为自身[[Technical Rationality|技术理性]]赋予正当性。
 
@@ -191,7 +193,7 @@ issuing_organization: ""
 
 <br>
 
-#### 2. 学科职场胜任力拓展与通用认知技能机械照搬的挫折
+> [!sub-claim] 2. 学科职场胜任力拓展与[[Generic Skills|通用认知技能]]机械照搬的挫折
 
 在 AHELO 研制中，经合组织动员了由 300 名多国专家、250 位大学管理层与上万名师生构成的庞大网络，全面推进四大分支维度的测评研发。
 
@@ -203,10 +205,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　依托多层官僚行政架构协调多方利益并集中战略管控
+> [!claim|step] 论证步骤三　依托多层官僚行政架构协调多方利益并集中战略管控
 > 经合组织依托高度严密的官僚组织网络，既通过专门委员会吸纳参测国决策者以维系政治互信，又牢牢掌控终极裁决权，确保测评体系严格契合自身的治理蓝图。
 
-#### 1. 设立专属统计机构并将 PISA 监管权收拢至核心决策层
+> [!sub-claim] 1. 设立专属统计机构并将 PISA 监管权收拢至核心决策层
 
 经合组织根据业务演进动态调整行政机构，确保[[Test Production|测评工具研制]]始终处于强有力的官僚系统支撑之下。
 
@@ -217,7 +219,7 @@ issuing_organization: ""
 
 <br>
 
-#### 2. 设立多层咨询委员会缓冲高教主权抵制
+> [!sub-claim] 2. 设立多层咨询委员会缓冲高教主权抵制
 
 由于高等教育机构拥有更强烈的办学自主传统，经合组织在 AHELO 项目中打造了更为精密的治理协同矩阵。
 
@@ -228,10 +230,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤四　测验生产过程的脆弱性揭示了全球教育治理的认知[[Geopolitics|地缘政治]]
+> [!claim|step] 论证步骤四　测验生产过程的脆弱性揭示了全球教育治理的认知[[Geopolitics|地缘政治]]
 > 测验生产过程充斥着财政制约、认知依附与文化抗拒，具有高度的政治脆弱性；研究者需要深入解构全球教育政策生产的政治经济学，超越单纯的方法论批评与事后影响分析。
 
-#### 1. 经济周期制约与高教机构自主权形成的双重阻击
+> [!sub-claim] 1. 经济周期制约与高教机构自主权形成的双重阻击
 
 相较于 PISA 研制时期较为平稳的宏观经济环境，AHELO 的诞生正值 2008 年全球金融危机之后，成员国普遍遭遇财政紧缩，项目资助受到严重波及。
 
@@ -244,7 +246,7 @@ issuing_organization: ""
 
 <br>
 
-#### 2. 警惕全球模板背后隐藏的认知垄断与意义固化
+> [!sub-claim] 2. 警惕全球模板背后隐藏的认知垄断与意义固化
 
 国际组织主持的测验研发看似中立规范，实则构建了界定何为有效知识的全球示范[[Champ|场域]]。
 
@@ -276,7 +278,7 @@ issuing_organization: ""
 > *Through comparative analysis of two [[International Education]] assessment tools, we demonstrate that the OECD deploys various governance mechanisms during the production stages of [[PISA]] and [[OECD AHELO Project|AHELO]] to acquire the legitimate power to define what counts in education. These mechanisms include: (1) building on past OECD successes; (2) assembling knowledge capacity; and (3) deploying bureaucratic resources. By analysing the stages of assessment production, we illustrate the specific ways in which educational transfer takes place.*
 
 > [!citation-card] 全球教育治理的认知[[Geopolitics|地缘政治]]与批判视野
-> 国际组织测验研制的早期阶段构成了至关重要的‘全球教室’，用以在竞争性全球经济中构建、协商、传播并合法化何种知识与学习受到认可，其性质超越了单纯的[[Technical Rationality|技术理性]]流程。我们建议比较教育学者拓展超出文献中随处可见的方法论批评与后续影响研究，深入审视全球教育政策生产的认知地缘政治。
+> 国际组织测验研制的早期阶段构成了至关重要的‘全球教室’，用以在竞争性全球经济中构建、协商、传播并合法化何种知识与学习受到认可，其性质超越了单纯的[[Technical Rationality|技术理性]]流程。我们建议比较教育学者拓展超出[[Document|文献]]中随处可见的方法论批评与后续影响研究，深入审视全球教育政策生产的认知地缘政治。
 >
 > *The early stages of test production vis-à-vis IOs are not simply techno-rational processes, but important ‘global classrooms’ for constructing, negotiating, disseminating and legitimising what counts as knowledge and learning in a competitive global economy... In short, we recommend moving beyond the plentiful methodological critiques and impact studies of assessment tools in the existing literature to critically examine the geopolitics of producing global education policy.*
 

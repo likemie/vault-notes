@@ -8,7 +8,7 @@ aliases:
 summary: "新兴知识领域通过确立学术研究范式、建立大学独立系所学位项目、获得外部公共经费持续支持并形成专业共同体的社会历史过程；二战后美国联邦国防研发资助直接催化了计算机科学等新兴技术领域从工程辅助工具走向正规大学学科建制。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Epistemology]]"
   - "[[Knowledge Mediation]]"
+  - "[[General Purpose Technology]]"
   - "[[Market Failure]]"
   - "[[Innovation Ecosystem]]"
   - "[[Cold War University]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -87,20 +88,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　新兴通用技术学科的建制化依赖国家公共研发资金对大学基础科研与实验基础设施的早期战略注资
-
-> [!concept-lens] 外部公共资本对大学学科孵化的杠杆效应
-> 探讨私营企业[[Market Failure|市场失灵]]背景下，国家研发资金如何克服短期商业逐利偏向，主导推动高校前沿学科建制成型。
+> [!concept-proposition] 命题一｜新兴[[General Purpose Technology|通用技术]]学科的建制化依赖国家公共研发资金对大学基础科研与实验基础设施的早期战略注资
+> **探讨维度　外部公共资本对大学学科孵化的杠杆效应** 探讨私营企业[[Market Failure|市场失灵]]背景下，国家研发资金如何克服短期商业逐利偏向，主导推动高校前沿学科建制成型。
 
 > [!claim] Fabrizio & Mowery
 > **公共研发培育前沿独立学科** 计算机等高科技学科在战后顶尖大学的正式建制化，无法单纯依托私营计算机硬件厂商的自发市场行为实现。由于早期前沿计算理论具有强公共品属性和高试错不确定性，是美国联邦国防研发经费对大学基础科研的系统性注资，支撑斯坦福、麻省理工和宾夕法尼亚大学等建立了跨学科计算实验室与独立教学研究建制，进而奠定了计算机科学作为一个独立学科的全球学术领导地位。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 38)]]
 
 ---
 
-### 命题二　大学新兴学科建制化充当了打通军民与产学壁垒的知识中介与高层次人力资本策源地
-
-> [!concept-lens] 学科建制对国家[[Innovation Ecosystem|创新生态]]的系统溢出功能
-> 阐释大学学科建制化所形成的学术网络如何超越单纯的校内教学，转化为驱动整个工业体系技术跃迁的[[Knowledge Mediation|知识中介]]。
+> [!concept-proposition] 命题二｜大学新兴学科建制化充当了打通军民与产学壁垒的[[Knowledge Mediation|知识中介]]与高层次[[Human Capital Theory|人力资本]]策源地
+> **探讨维度　学科建制对国家[[Innovation Ecosystem|创新生态]]的系统溢出功能** 阐释大学学科建制化所形成的学术网络如何超越单纯的校内教学，转化为驱动整个工业体系技术跃迁的[[Knowledge Mediation|知识中介]]。
 
 > [!claim] Fabrizio & Mowery
 > **学科建制化构建产学军知识网络** 大学计算机科学学科建制化的深远意义不仅在于产出了前沿硬件架构与网络协议，更在于大学成为连接联邦政府、国防部门与民用商业产业的核心枢纽。大学培养出大批兼具扎实科学理论与工程实践素养的高层次青年学者与工程师，打破了国防科研与商业市场之间的知识阻隔，形成了持续的人才输送与跨部门知识流动机制。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 38)]]

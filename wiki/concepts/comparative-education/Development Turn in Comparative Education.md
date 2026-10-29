@@ -7,7 +7,7 @@ aliases:
 summary: "Gita Gita Steiner-Khamsi (2006)提出的概念，指二战后领土帝国崩溃、冷战超级大国争夺新独立国家背景下，比较教育的资金、焦点和方法系统性转向发展中国家教育的过程。在冷战地缘博弈和科学主义的合谋下，该转向将教育规划重构为经济投资，并在后冷战时期演变为新自由主义全球治理下的“最佳实践”输出机制。"
 type: concept
 domain: "comparative-education"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[International Education]]"
   - "[[Policy Borrowing]]"
+  - "[[Mutual Learning]]"
   - "[[Methodological Statism]]"
   - "[[Scientism]]"
   - "[[Competitiveness]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-10-22
 
 > [!boundary]- 概念边界
 > - 不等于 [[International Education\|国际教育]] — 国际教育更侧重于促进跨国理解、和平倡议以及多边组织的日常教育活动；而发展转向则特指在特定地缘竞争和经济主义视角下，学科向单向的“技术输出”与现代化改造的功利性转变。
-> - 不适用于 战前单纯的[[Policy Borrowing\|政策借用]] — 19世纪的政策借用基于主权国家之间因实力焦虑而进行的相互学习与自发引介；发展转向则表现为由强大超国家组织（如[[World Bank\|世界银行]]、[[OECD\|经合组织]]）主导的、伴随资金援助和科学化指标的单向话语灌输。
+> - 不适用于 战前单纯的[[Policy Borrowing\|政策借用]] — 19世纪的政策借用基于主权国家之间因实力焦虑而进行的[[Mutual Learning|相互学习]]与自发引介；发展转向则表现为由强大超国家组织（如[[World Bank\|世界银行]]、[[OECD\|经合组织]]）主导的、伴随资金援助和科学化指标的单向话语灌输。
 
 ---
 
@@ -109,10 +110,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　“发展转向”并非单纯的学术范式变迁，而是冷战地缘对抗与科学主义理论合谋的知识型重构
-
-> [!concept-lens] 政治与学术的合谋
-> 这一维度的命题探讨了二战后大国援助政策如何与新兴的[[Scientism\|科学主义]]教育理论（特别是[[Human Capital Theory\|人力资本理论]]）深度绑定，从而将去政治化的科学测量转化为合法的地缘控制技术。
+> [!concept-proposition] 命题一｜“发展转向”并非单纯的学术[[Paradigm|范式]]变迁，而是冷战地缘对抗与[[Scientism|科学主义]]理论合谋的知识型重构
+> **探讨维度　政治与学术的合谋** 这一维度的命题探讨了二战后大国援助政策如何与新兴的[[Scientism\|科学主义]]教育理论（特别是[[Human Capital Theory\|人力资本理论]]）深度绑定，从而将去政治化的科学测量转化为合法的地缘控制技术。
 
 > [!claim] Gita Steiner-Khamsi (2006)
 > **干预合法化与“落后”[[Discourse|话语]]构建** 认为将[[Development Education|发展中国家教育]]体系诊断为“滞后于”西方标准，其核心功能在于为超级大国和国际组织输出“技术援助”提供去政治化的合规证据——即通过构建“落后”的病理话语，正当化西方的专家干预，并固化“北方教导南方”的不对称权力结构。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]])
@@ -122,10 +121,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　新自由主义全球化并未终结“发展范式”，而是通过数据化与标准化的远处治理对其进行了深化
-
-> [!concept-lens] 新自由主义的延续
-> 这一维度的命题关注冷战结束后，“发展话语”如何转化为以[[World Bank\|世界银行]]和[[OECD\|经合组织]]（OECD）为载体的新自由主义全球规训，通过效率指标和“最佳实践”输出维系资本积累。
+> [!concept-proposition] 命题二｜新自由主义全球化并未终结“发展范式”，而是通过数据化与标准化的[[Governing at a Distance|远处治理]]对其进行了深化
+> **探讨维度　新自由主义的延续** 这一维度的命题关注冷战结束后，“发展话语”如何转化为以[[World Bank\|世界银行]]和[[OECD\|经合组织]]（OECD）为载体的新自由主义全球规训，通过效率指标和“最佳实践”输出维系资本积累。
 
 > [!claim] Tikly (2004)
 > **发展话语演变为全球新自由主义霸权** 提出最初为遏制共产主义和推广美国发展模式而发明的话语，在冷战后转化为支配性的新自由主义“最佳实践”标准。这一过程继续将西方的教育现代化范本施加于全球，扮演着“知识新帝国”的角色。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 422–428]])

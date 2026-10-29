@@ -8,10 +8,10 @@ aliases:
 summary: "Martin Wight 国际关系三大传统之一（对应 Machiavelli 思想），视主权领土国家为核心行动者，以无政府状态下的“权力”斗争与国家生存为核心逻辑。在比较教育中，它催生了工具性借用、参照社会与文明化工程等研究形态。"
 type: concept
 domain: "comparative-education"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 theory_related_count: 5
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -45,14 +45,13 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
-  - "[[Chinese Academy of Sciences]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -103,18 +102,14 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　比较教育的借用实践与参考框架是大国间实力消长和工业焦虑的直接产物
-
-> [!concept-lens] 工具理性与均势政治
-> 这一命题分析为何比较教育总是跟随霸权的兴衰和地缘危机旋转。
+> [!concept-proposition] 命题一｜比较教育的借用实践与参考框架是大国间实力消长和工业焦虑的直接产物
+> **探讨维度　工具理性与均势政治** 这一命题分析为何比较教育总是跟随霸权的兴衰和地缘危机旋转。
 
 > [!claim] [[Michael Sadler\|Sadler, M.]] et al.
-> **萨德勒焦虑、黑船危机与太空冲击下的[[Policy Borrowing\|教育借用]]** 阐明，从现实主义视角来看，比较教育本质上是因国家间的权力及技术差距而引发的主动或被动防御。19 世纪大国间“贪婪而好奇”的互相借鉴（如 1831 年 Cousin 调查普鲁士教育服务于法国建国），奠定了学科基础。Sadler 创办“特别调查与报告处”旨在通过剖析美、德职业教育，反击本国工业优势的丧失以维系“世界工厂”地位；日本在遭受“黑船事件”军事劣势后，将西方教育锁定为核心钥匙实施多源借用；1957 年苏联 launch [[Sputnik Shock 1957\|Sputnik]] 则造成了美方的科学[[Soft Power\|软实力]]恐慌，不仅促成了 1970 年代旨在优化“政策引入”的“科学化转向”，亦引发了冷战两翼（西德 Frankurt/Bochum 机构与苏联[[Chinese Academy of Sciences|科学院]]）对敌对阵营展开的“滞后性/反共反资”对比记录。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 419–420]])
+> **萨德勒焦虑、黑船危机与太空冲击下的[[Policy Borrowing\|教育借用]]** 阐明，从现实主义视角来看，比较教育本质上是因国家间的权力及技术差距而引发的主动或被动防御。19 世纪大国间“贪婪而好奇”的互相借鉴（如 1831 年 Cousin 调查普鲁士教育服务于法国建国），奠定了学科基础。Sadler 创办“特别调查与报告处”旨在通过剖析美、德职业教育，反击本国工业优势的丧失以维系“世界工厂”地位；日本在遭受“黑船事件”军事劣势后，将西方教育锁定为核心钥匙实施多源借用；1957 年苏联 launch [[Sputnik Shock 1957\|Sputnik]] 则造成了美方的科学[[Soft Power\|软实力]]恐慌，不仅促成了 1970 年代旨在优化“政策引入”的“科学化转向”，亦引发了冷战两翼（西德 Frankurt/Bochum 机构与苏联科学院）对敌对阵营展开的“滞后性/反共反资”对比记录。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 419–420]])
 
-### 命题二　学科自身曾深嵌于大国文明教化与冷战大国争夺的扩张工程中
-
-> [!concept-lens] 帝国地理与地缘知识合谋
-> 这一命题解析现实主义下的“[[Development Turn in Comparative Education\|发展转向]]”如何确立了区域单国研究的方法论合法性。
+> [!concept-proposition] 命题二｜学科自身曾深嵌于大国文明教化与冷战大国争夺的扩张工程中
+> **探讨维度　帝国地理与地缘知识合谋** 这一命题解析现实主义下的“[[Development Turn in Comparative Education\|发展转向]]”如何确立了区域单国研究的方法论合法性。
 
 > [!claim] [[Gita Steiner-Khamsi\|Steiner-Khamsi, G.]]
 > **帝国调研与冷战发展转向的学科红利** 证明，西方大国在开拓海外势力时，比较教育被招募为技术开路先锋。Monroe and Kandel 在哥大 TC 对被占领土的“技术提升”，以及伦敦大学 Colonial Department (1927-1952) 等机构对大英帝国殖民政府的政策输入，均为此逻辑的体现。冷战爆发后，美苏两大阵营为争夺第三世界新独立国家的政治效忠，向其注入大量资金开发“区域单国研究”，通过将对方描绘为“发展滞后/欠发达”来获取合法干预权，学科因而获取了源源不断的政策红利并巩固了在高等院校中的[[Disciplinary Institutionalization|学科建制]]。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 420–421]])

@@ -10,7 +10,7 @@ aliases:
 summary: "认知心理学与学习科学概念，指个体因信息获取的容易性、文本表层语义流畅性或即时提取的顺畅感，产生的一种误将‘容易理解与阅读顺畅’等同于‘已真正掌握与内化知识’的元认知监控偏差。"
 type: concept
 domain: "educational-psychology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Cognitive Offloading]]"
   - "[[Epistemic Friction]]"
   - "[[Reflexivity]]"
+  - "[[Deliberate Practice]]"
   - "[[Brainstorming]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Critical Thinking]]"
@@ -42,7 +43,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 （能力错觉 / 虚假能力错觉）
@@ -75,7 +76,7 @@ updated: 2026-10-22
 > | **[[Metacognition\|元认知监控]]状态** | 监控钝化，将“看得懂”直接等同于“会操作” | 监控高度活跃，能准确标定知识边界与盲区 |
 > | **面对阻力时的反应** | 依赖外部即时答案，回避[[Epistemic Friction\|认识论摩擦]] | 主动承受[[Reflexivity\|反思性]]挣扎，通过试错修正图式 |
 > | **独立测评表现** | 脱离 AI 或外部提示后表现断崖式下跌 | 在无辅助的迁移情境与现场答辩中表现稳健 |
-> | **干预与破除途径** | 闭卷提取练习、反思性红队查错、[[Socrates\|苏格拉底]]追问 | 持续的刻意练习与变式迁移应用 |
+> | **干预与破除途径** | 闭卷提取练习、反思性红队查错、[[Socrates\|苏格拉底]]追问 | 持续的[[Deliberate Practice\|刻意练习]]与变式迁移应用 |
 
 ---
 
@@ -114,30 +115,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　流畅性启发式是诱发虚假能力错觉的根本元认知偏差
-
-> [!concept-lens] 认知启发式与[[Metacognition\|元认知监控]]缺陷
-> 阐明人类心智在评估自身掌握度时对“轻松感”的天然偏好与易受骗性。
+> [!concept-proposition] 命题一｜流畅性启发式是诱发虚假能力错觉的根本[[Metacognition|元认知]]偏差
+> **探讨维度　认知启发式与[[Metacognition\|元认知监控]]缺陷** 阐明人类心智在评估自身掌握度时对“轻松感”的天然偏好与易受骗性。
 
 > [!claim] Bjork et al. (2013)
 > **流畅性误判规律** 学习者在评估自身知识掌握水平时，高度依赖即时加工的容易程度（Retrieval/Processing Fluency）。当材料容易阅读或有现成答案参考时，元认知监控系统会错误地发出“已完全掌握”的虚假信号，抑制后续的深层复习与巩固。[[Argument_Li_2026_CEAI\|(Bjork et al., 2013; Li et al., 2026, p. 10)]]
 
 ---
 
-### 命题二　生成式 AI 的即时语义流畅性加剧了学习者的能力错觉并诱发构想惰性
-
-> [!concept-lens] 智能算法对认知监控的系统性扭曲
-> 揭示大语言模型如何放大传统的元认知偏差。
+> [!concept-proposition] 命题二｜生成式 AI 的即时语义流畅性加剧了学习者的能力错觉并诱发构想惰性
+> **探讨维度　智能算法对认知监控的系统性扭曲** 揭示大语言模型如何放大传统的元认知偏差。
 
 > [!claim] [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
 > **AI 诱发的能力错觉与思维早熟收敛** ChatGPT 输出的权威语调与顺滑结构，使得学生极易产生自己能够轻松解决复杂问题的错觉。在高等教育实证中，超过 45% 的学生在得到首个 AI 建议后立即停止独立探索，表现出严重的构想惰性与论证盲从，并在统计上与批判性反思呈显著负相关（[[Causal Modeling\|SEM]] $\beta = -0.34, p < .001$）。[[Argument_Li_2026_CEAI\|(Awal, 2024; Li et al., 2026, pp. 8, 10)]]
 
 ---
 
-### 命题三　生产性认识论摩擦与过程性提取检验是破除能力错觉的核心教学策略
-
-> [!concept-lens] 教学干预与元认知校准
-> 探讨如何通过针对性的教学设计纠正学生的虚假掌握感。
+> [!concept-proposition] 命题三｜生产性[[Epistemic Friction|认识论摩擦]]与过程性提取检验是破除能力错觉的核心教学策略
+> **探讨维度　教学干预与元认知校准** 探讨如何通过针对性的教学设计纠正学生的虚假掌握感。
 
 > [!claim] Bjork et al. (2013); [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
 > **元认知校准与提取干预** 单纯告知学生“AI 会犯错”无法有效破除能力错觉；必须通过强制性的无辅助提取练习、红队去幻觉查错任务、过程性提示词溯源与口头现场辩护，让学生直接体验到脱离 AI 时的认知阻力，从而校准元认知监控并恢复认知主体性。[[Argument_Li_2026_CEAI\|(Bjork et al., 2013; Li et al., 2026, pp. 11–13)]]

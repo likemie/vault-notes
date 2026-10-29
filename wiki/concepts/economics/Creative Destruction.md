@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -95,10 +95,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　激进创新内涵的创造性破坏必然引发深层的制度滞后与社会调适危机
-
-> [!concept-lens] 激进创新与制度匹配机制
-> [[Evolutionary Economics|演化经济学]]探讨激进创新如何打破平滑的技术积累通道，促使整个经济系统必须面对旧制度框架阻碍新[[Paradigm|范式]]扩散的深层结构性矛盾。
+> [!concept-proposition] 命题一｜激进创新内涵的[[Creativity|创造性]]破坏必然引发深层的制度滞后与社会调适危机
+> **探讨维度　激进创新与制度匹配机制** [[Evolutionary Economics|演化经济学]]探讨激进创新如何打破平滑的技术积累通道，促使整个经济系统必须面对旧制度框架阻碍新[[Paradigm|范式]]扩散的深层结构性矛盾。
 
 > [!claim] [[Carlota Perez|Perez, C.]]
 > **激进创新与制度摩擦** 适宜于旧技术架构的社会与制度框架绝无法无缝适应激进新技术；渐进式创新能够被既有体系自然吸收，而包含[[Creativity|创造性]]破坏属性的激进创新群集则会与旧制度产生严重摩擦，带来技术扩散迟滞、管理组织混乱与严重的制度滞后。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]

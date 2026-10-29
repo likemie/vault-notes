@@ -7,7 +7,7 @@ aliases:
 summary: "论辩推理模型中的基础认识论立场，视知识为绝对客观、存在唯一正确答案的事实；在人机共生学习中表现为将大模型视为确定性答案机而产生表面顺从与消极认知卸载。"
 type: concept
 domain: "educational-psychology"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Multiplist]]"
   - "[[Evaluativist]]"
   - "[[Reflexivity]]"
+  - "[[Areas of Knowledge]]"
   - "[[Metacognition]]"
   - "[[Problem Solving]]"
   - "[[Theoretical Perspective]]"
@@ -42,7 +43,7 @@ related_methods:
   - "[[Chi-Squared Test]]"
 status: active
 created: 2026-08-15
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -85,20 +86,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　绝对论在不同知识领域的退隐呈现顺序性差异
-
-> [!concept-lens] 绝对论的局部解构
-> 探讨个体是如何逐步摆脱对确定性和单一真相的依赖的。
+> [!concept-proposition] 命题一｜绝对论在不同[[Areas of Knowledge|知识领域]]的退隐呈现顺序性差异
+> **探讨维度　绝对论的局部解构** 探讨个体是如何逐步摆脱对确定性和单一真相的依赖的。
 
 > [!claim] [[Deanna Kuhn\|Kuhn, D.]] 等
 > **物理与价值领域的防线最难攻破** 对正在脱离绝对论的儿童的研究表明，主观性的觉醒极不均匀。儿童首先能够在品味和审美领域接受“每个人都有自己正确的偏好”，但他们极难在关于物理现象或道德价值观的冲突上接受同样的逻辑。在这两个领域，他们依然坚守“绝对客观的真相一定存在”的信念。这意味着绝对论的消解是一个分步被击破的过程，而非全盘心智革命。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 323)]]
 
 ---
 
-### 命题二　生成式人工智能环境下绝对主义立场诱发消极认知卸载与表面顺从
-
-> [!concept-lens] 人机交互中的[[Epistemology\|认识论]]脆弱性
-> 揭示在智能技术介入解决复杂问题时，绝对主义立场如何阻碍深度学习并导致[[Epistemic Agency\|认识主体性]]丧失。
+> [!concept-proposition] 命题二｜[[Generative Artificial Intelligence|生成式人工智能]]环境下绝对主义立场诱发消极[[Cognitive Offloading|认知卸载]]与表面顺从
+> **探讨维度　人机交互中的[[Epistemology\|认识论]]脆弱性** 揭示在智能技术介入解决复杂问题时，绝对主义立场如何阻碍深度学习并导致[[Epistemic Agency\|认识主体性]]丧失。
 
 > [!claim] Wu et al.
 > **绝对主义[[Cognitive Offloading\|认知卸载]]病理与干预路径** 在面对统计推论或跨学科探究等任务时，持绝对主义立场的学习者倾向于直接采用大模型推荐的单一方法（例如直接套用[[Chi-Squared Test\|卡方检验]]而忽略数据尺度与配对约束），并迅速将模型输出与讲义对齐作为终结标准。这种绝对主义立场使认知卸载演变为完全放弃[[Metacognition\|元认知监控]]的“表面顺从（Superficial [[Strategic Compliance|compliance]]）”。唯有通过提示词工程（强制模型呈现冲突观点与推导过程）与同行评审双轨支架，才能迫使其打破对单一权威答案的迷信。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–366)]]

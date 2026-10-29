@@ -7,7 +7,7 @@ aliases:
 summary: "大众媒介在报道教育事务时惯常套用的一种仪式化与还原论叙事框架，无论实证数据是否平稳，均系统性将国家教育系统描述为处于标准下滑与全面危机之中"
 type: concept
 domain: "sociology-of-education"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Policy Avoidance]]"
   - "[[Rashomon Effect]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Accounts]]"
@@ -42,13 +43,14 @@ related_facts:
   - "[[TIMSS]]"
   - "[[OECD]]"
   - "[[Ofsted]]"
+  - "[[NAPLAN]]"
   - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_Grey_2018_CE]]"
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -95,10 +97,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　水平下降模板通过仪式化修辞割裂实证数据与公众认知以制造教育恐慌
-
-> [!concept-lens] 叙事剧本对客观事实的替代机制
-> 探讨大众媒介如何依靠长期固化的文化叙事模板，完全脱离实证数据本身的历时表现，独立建构出虚假的公共危机。
+> [!concept-proposition] 命题一｜水平下降模板通过仪式化修辞割裂实证数据与公众认知以制造教育恐慌
+> **探讨维度　叙事剧本对客观事实的替代机制** 探讨大众媒介如何依靠长期固化的文化叙事模板，完全脱离实证数据本身的历时表现，独立建构出虚假的公共危机。
 
 > [!claim] Warmington & Murphy; Baroutsis
 > **教育新闻的负面仪式化本能** 大众媒体对教育的公共叙述本质上是惩戒性、规训性与还原论的；在媒介生态中，教育的“正常运作”或“稳步维持”不具备新闻价值，唯有“危机”、“退化”与“失范”方能构成卖点，水平下降模板正是维系媒体商业利益与公众注意力黏性的核心装置。
@@ -108,10 +108,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　水平下降模板被政治行动者策略性吸纳为转移政策矛盾与合法化激进整顿的修辞工具
-
-> [!concept-lens] 政治权力对媒介叙事模板的寄生与工具化
-> 揭示执政精英如何借力水平下降模板所制造的公共焦虑，将自身包装为打破体制沉疴的救赎者，为争议性激进政策开道。
+> [!concept-proposition] 命题二｜水平下降模板被政治行动者策略性吸纳为转移政策矛盾与合法化激进整顿的修辞工具
+> **探讨维度　政治权力对媒介叙事模板的寄生与工具化** 揭示执政精英如何借力水平下降模板所制造的公共焦虑，将自身包装为打破体制沉疴的救赎者，为争议性激进政策开道。
 
 > [!claim] Grey & Morris
 > **救赎叙事与争议政策的借壳通关** 水平下降模板在建构危机的同时，天然为强人政治提供了“救赎剧本”（Redemption Tale）；英国教育大臣 [[Michael Gove]] 敏锐顺应媒体的模板偏好，将平稳数据定性为工党 300 亿英镑公学投资的彻底失败，顺理成章地将此前遭广大师生强烈抵制的学院化（Academies）、教师[[Performance Pay\|绩效工资]]制（PRP）以及 [[Ofsted]] 惩罚性督导包装为拯救国家免于沉沦的五大必由之路。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 116–120)]]
@@ -129,7 +127,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **2004 — 概念奠基** Paul Warmington 与 Roger Murphy 在《British Journal of Educational Studies》发表里程碑论文，系统剖析英国媒体对 A-level 考试成绩报道，确立“水平下降模板”的[[Construct\|理论构念]]。
 > - **2011 — 失败者故事模型的深化** Shanahan 等人提出叙事政策框架（NPF），将模板细化为“赢家故事”与“输家故事”的对抗结构。
-> - **2015 — 国际扩散与公学危机研究** Athina Baroutsis 探讨澳大利亚报刊对国家评估项目（NAPLAN）的报道，证实该模板具有跨国普遍性。
+> - **2015 — 国际扩散与公学危机研究** Athina Baroutsis 探讨澳大利亚报刊对国家评估项目（[[NAPLAN]]）的报道，证实该模板具有跨国普遍性。
 > - **2018 — 跨国数据治理中的机制升华** [[Paul Morris]] 与 Sue Grey 将该模板置于跨国大规模评估与[[Mediatised Governance\|媒介化治理]]的核心交汇点，揭示其如何协同[[Policy Avoidance\|政策规避]]导致民主监督失效。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
 
 ---
@@ -156,4 +154,4 @@ updated: 2026-10-22
 > | [[PISA]] | Fact (Program) | 沦为水平下降模板最常借用的跨国排列表与宏观危机修辞依据。 |
 > | [[OECD]] | Fact (Organization) | 其制作的极简排列表与价值倡导报告为媒体套用水平下降模板提供了便利燃料。 |
 > | [[Paul Morris]] | Person | 系统揭示英格兰媒体如何利用水平下降模板扭曲跨国教育评估的核心比较教育学者。 |
-> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 深入解构水平下降模板在 PISA 2012 报道中如何运作的关键实证文献。 |
+> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 深入解构水平下降模板在 PISA 2012 报道中如何运作的关键实证[[Document\|文献]]。 |

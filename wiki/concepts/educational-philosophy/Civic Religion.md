@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -108,20 +108,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　公民宗教通过将历史叙事与宪政理想世俗化提供维系共和国共同体的道德纽带
-
-> [!concept-lens] 政治共同体的道德发生学
-> 探讨现代多元移民社会如何依托世俗公共信仰克服阶层与族群碎片化、构建宏大政治认同。
+> [!concept-proposition] 命题一｜公民宗教通过将历史叙事与宪政理想世俗化提供维系共和国共同体的道德纽带
+> **探讨维度　政治共同体的道德发生学** 探讨现代多元移民社会如何依托世俗公共信仰克服阶层与族群碎片化、构建宏大政治认同。
 
 > [!claim] Bellah (1967) & McNeill (1986)
 > **世俗信仰与国家凝聚力的制度化生成** [[Robert Bellah|罗伯特·贝拉]]与[[William H. McNeill|威廉·麦克尼尔]]论证，美国等现代共和国之所以能整合多元移民，核心在于形成了一套既独立于教会又具有崇高神圣感的世俗公民宗教；通过文明核心课程与公共纪念仪式，历史真理与立国抱负被内化为公民共享的情感纽带。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 84–85)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 
 ---
 
-### 命题二　解构公民宗教将耗尽传统道德资本并使自由民主政体沦为虚无主义与消费主义的附庸
-
-> [!concept-lens] 道德资本透支与公共精神危机
-> 探讨后现代西方解构历史正典与宗教传统对国家生存能力施加的侵蚀。
+> [!concept-proposition] 命题二｜解构公民宗教将耗尽传统道德资本并使自由民主政体沦为虚无主义与消费主义的附庸
+> **探讨维度　道德资本透支与公共精神危机** 探讨后现代西方解构历史正典与宗教传统对国家生存能力施加的侵蚀。
 
 > [!claim] Smith (2017) & [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **自由民主的道德借贷危机与文明重建** 哲学家詹姆斯·K·A·史密斯与卡普、扎米斯卡指出，西方自由民主政体数百年间实际上深度借力了宗教沉淀的道德资本；当现代精英全盘摧毁公民宗教而仅留下狭隘的市场资本主义与个人消极权利时，公共领域必然陷入道德真空，社会退化为由消费娱乐主导的脆弱躯壳；重构[[Technological Republic|技术共和国]]必须勇敢恢复对共享德性与世俗信仰的肯定。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]

@@ -15,10 +15,10 @@ aliases:
 summary: "一手文献是由事件目击者直接记录或原始实证研究生成的文献，二手文献是通过对一手文献的分析、改写或综合形成的阐述。在循证教育中，一手与二手文献在理解门槛、信息保真度与实践转化效能上呈现出显著的方法学差异。"
 type: concept
 domain: "research-methodology"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/research-methodology
   - method/historical-research
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Months of Progress]]"
   - "[[Literature Review]]"
   - "[[Academic Achievement]]"
+  - "[[Null Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
   - "[[Attrition]]"
@@ -55,6 +56,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Questionnaire]]"
   - "[[Action Research]]"
+  - "[[Descriptive Analysis]]"
   - "[[Analysis of Variance]]"
   - "[[Participant Observation]]"
   - "[[Content Analysis]]"
@@ -74,13 +76,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-24
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Primary and Secondary Documents
-> **一手文献（Primary [[Document]] / Primary Source，原始文献）** 在历史与[[Documentary Analysis\|文献研究]]中是由事件目击者或参与者作为直接记录而生产的原材料；在当代教育实证与循证研究中，特指直接报告研究设计、抽样、原始组别统计与未调整[[Effect Size\|效应量]]的原始学术期刊论文与独立评估报告。**二手文献（Secondary Document / Secondary Source，转译或改写文献）** 是通过对一手文献进行选择、分析、综合或通俗改写形成的阐述（如[[Systematic Review\|系统综述]]、证据摘要、清算所工具包等），为使用者提供进入特定领域的导航入口，但经过了中介作者的分析过滤。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015)]]; [[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 576–588)]]
+> **一手[[Document|文献]]（Primary [[Document]] / Primary Source，原始文献）** 在历史与[[Documentary Analysis\|文献研究]]中是由事件目击者或参与者作为直接记录而生产的原材料；在当代教育实证与循证研究中，特指直接报告研究设计、抽样、原始组别统计与未调整[[Effect Size\|效应量]]的原始学术期刊论文与独立评估报告。**二手文献（Secondary Document / Secondary Source，转译或改写文献）** 是通过对一手文献进行选择、分析、综合或通俗改写形成的阐述（如[[Systematic Review\|系统综述]]、证据摘要、清算所工具包等），为使用者提供进入特定领域的导航入口，但经过了中介作者的分析过滤。[[Argument_QiMei_2015_EducationalResearchMethods\|(齐梅, 2015)]]; [[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 576–588)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 一手文献指向原始数据与因果事实的直接记录；二手文献是在一手文献基础上提炼、分类和转译的派生产物。
@@ -124,40 +126,32 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　要求一线教师直接研读一手统计文献面临严重专业认知壁垒并极易诱发实施的致命变异
-
-> [!concept-lens] 教师研读一手文献的认知负荷与变异风险
-> 该命题聚焦于“教师人人成为研究者”的浪漫化设想在微观课堂落地时所遭遇的现实挫折。
+> [!concept-proposition] 命题一｜要求一线教师直接研读一手统计[[Document|文献]]面临严重专业认知壁垒并极易诱发实施的致命变异
+> **探讨维度　教师研读一手文献的认知负荷与变异风险** 该命题聚焦于“教师人人成为研究者”的浪漫化设想在微观课堂落地时所遭遇的现实挫折。
 
 > [!claim] [[Stephen Gorard\|Gorard, S.]]
 > **直接研读一手文献导致教学实操异化** 戈拉德等学者指出，要求忙碌的一线教师直接审阅充斥着复杂回归模型与显著性检验的一手学术期刊，不仅是不切实际的幻想，更超越了专业分工边界。杜伦大学开展的教师反馈[[Action Research\|行动研究]]试验（See et al., 2016）证实：由于缺乏严密的方法学素养，教师在研读一手文献后，将及时的形成性矫正教学异化为耗费工时的机械批改与繁琐表格勾选，发生典型的“致命变异”（Lethal Mutation），导致学生统考学业毫无改善。[[Argument_Gorard_2020_ROE\|(See et al., 2016; Gorard et al., 2020, pp. 594–596)]]
 
 ---
 
-### 命题二　二手改写摘要与通俗工具包在严格因果检验中无法穿透至实践行为改变与终端学业提升
-
-> [!concept-lens] 二手文本改写的信息赤字假设破产
-> 该命题探讨通过降低阅读门槛是否能够驱动一线教学实践变革。
+> [!concept-proposition] 命题二｜二手改写摘要与通俗工具包在严格因果检验中无法穿透至实践行为改变与终端学业提升
+> **探讨维度　二手文本改写的信息赤字假设破产** 该命题探讨通过降低阅读门槛是否能够驱动一线教学实践变革。
 
 > [!claim] Lord, P., Rabiasz, A., & Styles, B.
 > **单向推送二手改写材料无法撬动课堂生产力** 针对全英 800 余所小学开展的大规模 4 级 [[Randomised Controlled Trials\|RCT]] 试验（“[[Literacy Octopus\|识字八爪鱼]]”试验）证实：单纯向学校寄送改写后的二手实证摘要、教学资源包及在线指南，教师在日常课堂中的 6 项量化使用行为完全没有发生可测量的改变，学生在国家统考中的[[Academic Achievement\|学业成绩]]净增益为零（$ES pprox 0.00$）。严格[[Counterfactual\|反事实]]证据宣告了单纯依赖二手文献通俗改写的信息赤字假设破产。[[Argument_Gorard_2020_ROE\|(Lord et al., 2017; Gorard et al., 2020, pp. 586–588)]]
 
 ---
 
-### 命题三　一手实证文献应当剔除繁复的零假设显著性检验并回归透明朴素的描述统计
-
-> [!concept-lens] 一手学术报告的呈现[[Paradigm\|范式]]重构
-> 该命题批判传统学术论文对 $p$ 值的过度包装，主张一手实证文献的规范化呈现。
+> [!concept-proposition] 命题三｜一手实证文献应当剔除繁复的[[Null Hypothesis|零假设]]显著性检验并回归透明朴素的[[Descriptive Analysis|描述统计]]
+> **探讨维度　一手学术报告的呈现[[Paradigm\|范式]]重构** 该命题批判传统学术论文对 $p$ 值的过度包装，主张一手实证文献的规范化呈现。
 
 > [!claim] Gorard, S.
 > **去伪存真的原始数据透明呈现** 传统一手文献充斥着 $t$ 检验、[[Analysis of Variance\|方差分析]]与显著性概率值（$p$ 值），极易诱发数据窥探并掩盖真实效应规模。真正易于理解且具备科学公信力的一手文献，应当彻底剔除显著性检验包装，直接完整汇报干预组与对照组的前[[Pre-test and Post-test\|后测]][[Sample Size Determination\|样本量]]、均值、标准差、绝对差值及标准化[[Effect Size\|效应量]]，使证据恢复其朴素透明的物理形态。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 584–586)]]
 
 ---
 
-### 命题四　学科早期过度依赖二手文献构建诠释性论文，学术成熟期促成了多元一手实证调查的并起
-
-> [!concept-lens] 比较教育学数据策略从二手综述向多元一手调查的历史演进
-> 该命题探讨比较教育学科史中研究者如何从早期依赖二手文献构建思辨性诠释论文，逐步走向融合多元一手实证调查（田野、[[Questionnaire|问卷]]、人口普查）的科学成熟期。
+> [!concept-proposition] 命题四｜学科早期过度依赖二手文献构建诠释性论文，学术成熟期促成了多元一手实证调查的并起
+> **探讨维度　比较教育学数据策略从二手综述向多元一手调查的历史演进** 该命题探讨比较教育学科史中研究者如何从早期依赖二手文献构建思辨性诠释论文，逐步走向融合多元一手实证调查（田野、[[Questionnaire|问卷]]、人口普查）的科学成熟期。
 
 > [!claim] [[Argument_Rust_2009_Reflections|Rust et al. (2009)]]
 > **二手[[Literature Review|文献综述]]的诠释局限与一手实证调查策略的繁荣** 拉斯特等人指出，数十年之前比较教育学的数据搜集策略极为局限，主要依赖历史数据与“文献综述”——在此特指“基于二手文献展开论证并因此可被视作诠释性论文（interpretive essays）的研究”。随着学科迈向成熟与社会科学化，研究者大幅引入了以一手资料为基础的常规社会[[Scientific Method|科学方法]]，包括访谈、[[Ethnography|民族志]]、[[Participant Observation|参与观察]]、问卷调查、项目评估、文本[[Content Analysis|内容分析]]及人口普查大数据库分析，实现了从二手思辨向一手实证[[Pluralism|多元主义]]的根本转型。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 130–131)]]

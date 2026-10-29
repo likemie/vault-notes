@@ -7,7 +7,7 @@ aliases:
 summary: "学习者生成、评估、修改、发明和跨通道转译外部表征形式（图表、符号、概念图）的高阶元认知能力"
 type: concept
 domain: "competency-and-assessment"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Mind Mapping]]"
   - "[[Argument Mapping]]"
   - "[[Self-Scaffolding]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -90,10 +91,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　元表征能力的成熟是学习者从外在图形组织器中获取最大促学收益的发展前提
-
-> [!concept-lens] 认知发展匹配假说
-> 外部[[Scaffolding\|认知脚手架]]的促学效能取决于学习者内在元表征能力与工具结构复杂度之间的动态匹配。
+> [!concept-proposition] 命题一｜元表征能力的成熟是学习者从外在[[Graphic Organizer|图形组织器]]中获取最大促学收益的发展前提
+> **探讨维度　认知发展匹配假说** 外部[[Scaffolding\|认知脚手架]]的促学效能取决于学习者内在元表征能力与工具结构复杂度之间的动态匹配。
 
 > [!claim] diSessa & Sherin; Lei, Ding & Chiu
 > **中学生群体的元表征发展峰值效应** 在大样本[[Meta-analysis\|元分析]]中，中学生群体利用[[Graphic Organizer\|图形组织器]]发展[[Higher-Order Thinking Skills\|高阶思维]]的[[Effect Size\|效应量]]最为突出（$g = 1.113$），显著高于小学生（$g = 0.877$）与大学生（$g = 0.659$）。[[Jean Piaget\|皮亚杰]]发展理论与元表征理论表明：中学生刚进入形式运算阶段，其元表征能力已足以自如理解和操控多层级[[Mind Mapping\|思维导图]]、[[Argument Mapping\|论证图]]与[[Concept Mapping\|概念图]]，且能有效抵抗诱人细节干扰；同时其内部[[Self-Scaffolding\|自我脚手架]]尚未完全固化，外部结构化工具恰好提供了最及时的认知支架，从而产生了最强的发展红利。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 12)]]
@@ -105,7 +104,7 @@ updated: 2026-10-26
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 亚组与效应量 g | 中学生 | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 1.113"><span class="b22"></span></span>1.113 | — | $Q_b = 6.61, p < .05$；两两成对 Wald 检验均极显著 |
 > |  |  | 小学 |  | — | <span class="mx-bar ef-bar" title="Hedges' g 0.877"><span class="b18"></span></span>0.877 | — | — |

@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -95,10 +95,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　大学专业环境对学生的认识论信念产生强有力的持续塑造与极化效应
-
-> [!concept-lens] 纵向因果塑造维度
-> 探讨在严格控制生源先验差异后，大学不同学科环境是否仍能独立驱动学生[[Epistemological Beliefs\|认识论信念]]的转变。
+> [!concept-proposition] 命题一｜大学专业环境对学生的[[Epistemological Beliefs|认识论信念]]产生强有力的持续塑造与极化效应
+> **探讨维度　纵向因果塑造维度** 探讨在严格控制生源先验差异后，大学不同学科环境是否仍能独立驱动学生[[Epistemological Beliefs\|认识论信念]]的转变。
 
 > [!claim] Trautwein, U. & Lüdtke, O.
 > **学科社会化的净塑造证据** 基于德国 [[TOSCA]] 项目的大规模两波纵向追踪，在跨期自回归模型中控制了高中毕业时的 T1 初始确定性信念（$b = 0.54$）及智力与家庭背景后，大学就读学科对认识论信念的变化仍具有高度显著的预测效应：

@@ -9,7 +9,7 @@ aliases:
 summary: "适应智能与数据密集型科学范式的新型学术交流与成果发布基础设施；批判并替代源自17世纪印刷时代的静态PDF期刊论文，以集成实时数据流、可执行代码容器（Docker/Conda）、环境依赖与自动化测试管道的动态交互式笔记本为知识发布基准，支持自动化AI复现代理进行秒级验证与跨平台审计。"
 type: concept
 domain: "science-policy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Goodhart's Law]]"
   - "[[Seniority Barrier in Academia]]"
   - "[[National Innovation System]]"
+  - "[[Document]]"
   - "[[Gold Standard Science]]"
 related_theories: []
 related_methods: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -79,30 +80,24 @@ updated: 2026-10-26
 
 ## 围绕概念形成的命题
 
-### 命题一　静态 PDF 论文出版体制人为制造信息稀缺与过程黑箱，是诱发古德哈特异化与可重复性危机的根源载体
-
-> [!concept-lens] 出版[[Paradigm|范式]]异化与知识沉没
-> 批判源自印刷时代的静态出版如何系统性排斥科学探索中的真实过程数据。
+> [!concept-proposition] 命题一｜静态 PDF 论文出版体制人为制造信息稀缺与过程黑箱，是诱发古德哈特异化与[[Reproducibility Crisis|可重复性危机]]的根源载体
+> **探讨维度　出版[[Paradigm|范式]]异化与知识沉没** 批判源自印刷时代的静态出版如何系统性排斥科学探索中的真实过程数据。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **出版载体滞后假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，源自 17 世纪的学术期刊同行评议制度已无法承载全球数百万学者的复杂[[Knowledge Production|知识生产]]。静态 PDF 论文为了在有限版面内展示“完美阳性故事”，迫使科学家隐瞒大量实验排障细节、敏感性检验参数与失败尝试，导致全球数百亿美元研究成果沦为无法被验证的“暗知识”。这种载体缺陷与影响因子考核紧密共谋，全面触发了[[Goodhart's Law|古德哈特定律]]的刷量异化。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–68)]]
 
 ---
 
-### 命题二　以动态研究笔记本为法定发布基准能够实现秒级自动化机器核验，从底层重塑学术交流与同行评议生态
-
-> [!concept-lens] 去中心化科学与自动化评议
-> 阐明可执行笔记本如何将漫长的同行评审升级为分布式的自动化机器审计。
+> [!concept-proposition] 命题二｜以动态研究笔记本为法定发布基准能够实现秒级自动化机器核验，从底层重塑学术交流与同行评议生态
+> **探讨维度　去中心化科学与自动化评议** 阐明可执行笔记本如何将漫长的同行评审升级为分布式的自动化机器审计。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **机器原生交流假说** 当学术共同体将动态研究笔记本确立为默认发布单元时，同行评议即可发生质的飞跃：一方面，自动化 AI 代理能够在笔记本上传数秒内完成环境搭建、代码执行与边界条件验证，出具客观机器审计报告；另一方面，人类审稿人得以从低效的代码找茬与格式审查中解放出来，将精力聚焦于理论独创性、[[Scientific Paradigm|科学范式]]颠覆度与伦理社会价值的宏观审议，彻底终结审稿人的人为稀缺与权力寻租。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–70)]]
 
 ---
 
-### 命题三　动态笔记本支持可组合微知识单元与细粒度贡献追踪，为分布式前沿协同提供了新型组织基础设施
-
-> [!concept-lens] 模块化创新与贡献计量
-> 论证动态笔记本对重组学术劳动力分工与打破[[Seniority Barrier in Academia|资历垄断]]的制度支撑。
+> [!concept-proposition] 命题三｜动态笔记本支持可组合微知识单元与细粒度贡献追踪，为分布式前沿协同提供了新型组织基础设施
+> **探讨维度　模块化创新与贡献计量** 论证动态笔记本对重组学术劳动力分工与打破[[Seniority Barrier in Academia|资历垄断]]的制度支撑。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **微知识网络假说** 传统单篇长篇论文门槛过高，严重阻碍了数据工程师、软件开发者与实验技师获得应有的学术认可。动态研究笔记本支持以模块化“微知识单元（Micro-Knowledge Modules）”进行发布，任何学者对他人笔记本中的某段算法进行提速优化或清洗出更高质量的数据集，均能被系统自动记录并赋予可计量引用，极大地激发了全社会极客、技师与跨学科青年学者融入[[National Innovation System|国家创新体系]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 68–69)]]
@@ -114,7 +109,7 @@ updated: 2026-10-26
 > [!ref-table]- 动态可执行笔记本与可复现性实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究文献 | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
+> | 研究[[Document\|文献]] | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 67)]] | 全美近 5 年发表的 5,000 篇计算生物学与材料模拟论文抽样 | 静态 PDF 论文附录代码 vs 动态容器化笔记本的一键复现成功率对比 | 静态 PDF 附录代码在全新独立算力节点上的首次运行成功率不足 18%；采用动态容器化笔记本封包的项目一键复现成功率达 94% | 实证验证动态研究笔记本在消灭环境依赖摩擦、终结[[Reproducibility Crisis\|可重复性危机]]上的绝对优势 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 69)]] | 2025 年联邦资助试点中的自动化 AI 复现代理审计系统 | AI 代理执行动态笔记本代码审计与异常值挖掘的平均耗时 | 自动化复现代理对单个动态笔记本完成全流程数据校验与敏感性测试的平均耗时为 42 秒，人工对照审查平均耗时 14 天 | 证明机器原生交互格式对提升国家科研质检效率的指数级赋能 |

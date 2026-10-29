@@ -4,7 +4,7 @@ aliases: [唯意志论, 唯意志主义, voluntaristic assumption, voluntarist a
 summary: "关于人类本质特性的本体论假设，主张个体是自身行动的自主发起者，具有自由意志、反思意识与创造力，能够在主观意向与社会互动中积极创造并改造其生存环境。"
 type: concept
 domain: "educational-philosophy"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Normative Paradigm]]"
   - "[[Epistemology]]"
   - "[[Social Episodes]]"
+  - "[[Document]]"
   - "[[Scientific Autarky]]"
   - "[[Geisteswissenschaften]]"
   - "[[Subjectivism]]"
@@ -55,7 +56,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -115,30 +116,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　人类行为在本质上是由内在目的与主观意义所引导的意向性行动
-
-> [!concept-lens] 主体意向与行动动机维度
-> 探讨人类实践的本体动力。唯意志论主张人类活动具有不可还原为外在刺激的自主意图。
+> [!concept-proposition] 命题一｜人类行为在本质上是由内在目的与主观意义所引导的[[Intentionality|意向性]]行动
+> **探讨维度　主体意向与行动动机维度** 探讨人类实践的本体动力。唯意志论主张人类活动具有不可还原为外在刺激的自主意图。
 
 > [!claim] Burrell & Morgan
 > **自主发起与环境生产判定** 人类绝非受外部情境操纵的被动木偶，而是自身行动的发起者，拥有自由意志和[[Creativity\|创造力]]；人们不仅生活在环境之中，更通过自身的认知与行动持续积极地生产和重构其生存环境。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Burrell & Morgan, 1979 via Cohen et al., 2011, Ch. 1, p. 8)]]
 
 ---
 
-### 命题二　科学探究必须将行动者视作具备自我反思与解释能力的个人而非机械客体
-
-> [!concept-lens] [[Anthropomorphic Model\|人的科学]]与拟人化模型维度
-> 探讨研究者对待研究对象的伦理与[[Epistemology\|认识论]]原则。唯意志论要求研究尊重行动者的主观理性。
+> [!concept-proposition] 命题二｜科学探究必须将行动者视作具备自我反思与解释能力的个人而非机械客体
+> **探讨维度　[[Anthropomorphic Model\|人的科学]]与拟人化模型维度** 探讨研究者对待研究对象的伦理与[[Epistemology\|认识论]]原则。唯意志论要求研究尊重行动者的主观理性。
 
 > [!claim] [[Rom Harré\|Harré]] & Secord
 > **拟人化模型与行动者理由判定** 科学探究的根本前提在于必须“为了科学的目的而把人当作人类来对待”；人是能够监控自身行为、遵循规则并给出行动理由（[[Accounts]]）的主体，社会探究的核心任务在于解析行动者在特定[[Social Episodes\|社会片段]]中如何依据其意图和情境规则创造行动。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Harré & Secord, 1972 via Cohen et al., 2011, Ch. 1, pp. 16–17)]]
 
 ---
 
-### 命题三　教育组织与制度结构是行动者赋予意义并持续协商的产物
-
-> [!concept-lens] 组织实在论与建构维度
-> 探讨教育组织的[[Ontology\|本体论]]本质。唯意志论将组织还原为活生生的行动者互动网络。
+> [!concept-proposition] 命题三｜教育组织与制度结构是行动者赋予意义并持续协商的产物
+> **探讨维度　组织实在论与建构维度** 探讨教育组织的[[Ontology\|本体论]]本质。唯意志论将组织还原为活生生的行动者互动网络。
 
 > [!claim] [[Thomas Barr Greenfield\|Greenfield, T. B.]]
 > **主观组织观与人的人造现实判定** 组织不是拥有独立意志或目标的自足客观实体，也不是类似生物有机体的规律系统；组织归根结底是由身处其中的人类行动者的意向、信念与意义建构所发明的社会现实，学校的结构与变迁完全取决于其成员的价值抉择与行动协商。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Greenfield, 1975 via Cohen et al., 2011, Ch. 1, pp. 8–10)]]
@@ -146,7 +141,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 围绕唯意志论形成的理论命题总览
-> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
+> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **自主发起创造命题** | 人类是行动的发起者并拥有自由意志，在行动中创造自身生存环境 | [[Intent-to-Treat Analysis\|意向性分析]]、目的论解释、情境建构 | Burrell and Morgan (1979); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 8)]] |
 > | **拟人化主体模型命题** | 探究必须把人当作能动主体，聚焦行动者的理由陈述与规则协商 | 拟人化模型、言语陈述分析、事件分析法 | Harré & Secord (1972); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 16–17)]] |

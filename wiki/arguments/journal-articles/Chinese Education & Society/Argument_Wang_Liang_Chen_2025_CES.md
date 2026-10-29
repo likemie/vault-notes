@@ -7,9 +7,9 @@ title: "Argument_Wang_Liang_Chen_2025_CES"
 argument_key: "Argument_Wang_Liang_Chen_2025_CES"
 argument_display_title: "High-level open cooperation in vocational education: Purpose, criteria and pathways—Observations on Chinese-ASEAN cooperation in vocational education"
 argument_kind: "journal-article"
-argument_related_count: 28
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 30
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Chinese Education & Society"
 authors:
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Educational Diplomacy]]"
   - "[[People-to-People Connectivity]]"
   - "[[Regulatory Impact Analysis]]"
+  - "[[Document]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Empiricism]]"
   - "[[Education Going Global]]"
@@ -47,6 +48,7 @@ related_concepts:
   - "[[Massive Open Online Courses]]"
   - "[[Emergent Talents]]"
   - "[[Competitiveness]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Further Education]]"
   - "[[Institutional Displacement]]"
 related_theories: []
@@ -72,7 +74,7 @@ sources:
 status: draft
 confidence: medium
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 ---
 
@@ -105,7 +107,7 @@ updated: 2026-10-26
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **政策文献分析**<br>[[Documentary Analysis]] | 系统梳理中国与东盟自贸区协定、《中国—东盟战略伙伴关系2030年愿景》、党的二十届三中全会决议以及部区会商推进职业教育高质量发展等核心政策文献。 |
+> | **政策文献分析**<br>[[Documentary Analysis]] | 系统梳理中国与东盟自贸区协定、《中国—东盟战略伙伴关系2030年愿景》、党的二十届三中全会决议以及部区会商推进职业教育高质量发展等核心政策[[Document\|文献]]。 |
 > | **比较政策分析**<br>[[Comparative Policy Analysis]] | 运用比较政策视角，审视现存 254 个合作平台的空间集聚与学科失衡数据（Zhongchang & Jia, 2023），剖析规制差异对跨国办学成效的制约。 |
 > | **多层典型案例解构** | 深度考察泰国大城技术学院[[Luban Workshop\|鲁班工坊]]、[[China-ASEAN Federation for Vocational Education\|中国—东盟职业教育联合会]]及[[Chinese-ASEAN Modern Craftsmanship Institute\|中国—东盟现代工匠学院]]集群等典型实体载体的运行经验与机制困境。 |
 > | **系统治理框架推演** | 运用系统论与制度分析视角，提炼制约职业教育合作深化的结构性瓶颈，推演包含政策贯通、平台升级与生态共建的系统治理框架。 |
@@ -131,10 +133,10 @@ updated: 2026-10-26
 
 ---
 
-> [!claim] 论证步骤一　职业教育对外开放必须服务国家周边外交与跨国产能布局
+> [!claim|step] 论证步骤一　职业教育对外开放必须服务国家周边外交与跨国产能布局
 > 随着中国与东盟经贸规模持续扩大，出海企业面临严重的属地化技术工人短缺。职业教育必须打破单纯的校际交流局限，将人才培养与国家外交战略及海外产能布局紧密绑定，为区域经济合作提供高素质技能人才支撑。
 
-#### 1. 双边经贸扩张带来巨大用工缺口，职教合作直接支撑区域经济合作
+> [!sub-claim] 1. 双边经贸扩张带来巨大用工缺口，职教合作直接支撑区域经济合作
 
 地缘相邻与文化相通为中国与东盟深化合作奠定了天然基础。随着双边自贸区建设深入推进，两地经贸合作全面提速，客观上要求技能人才培养紧跟跨国产业链布局。
 
@@ -154,7 +156,7 @@ updated: 2026-10-26
 
 面对跨国产业链的快速重组，传统职业教育的封闭培养模式无法满足海外需求，必须从育人理念与体制机制上系统重塑。
 
-#### 2. 建设职教强国必须打破本土封闭思维，转向对接跨国产业链的复合育人
+> [!sub-claim] 2. 建设职教强国必须打破本土封闭思维，转向对接跨国产业链的复合育人
 
 建设现代职业教育强国的核心在于培育具有全球视野的高技能人才。高水平对外开放要求职业教育走出本土产业的单一局限，主动适应区域产业合作需要。
 
@@ -168,7 +170,7 @@ updated: 2026-10-26
 
 这种培养逻辑的转变，推动职业院校从单一的技术传授机构转变为跨国知识与技能协作的重要载体。
 
-#### 3. 职业院校必须与出海企业紧密绑定，以解决海外用工痛点赢得国际认可
+> [!sub-claim] 3. 职业院校必须与出海企业紧密绑定，以解决海外用工痛点赢得国际认可
 
 提升中国职业教育的国际声誉，关键在于院校伴随中资企业出海，切实解决东道国急需的技术技能用工难题。
 
@@ -182,10 +184,10 @@ updated: 2026-10-26
 
 ---
 
-> [!claim] 论证步骤二　现有合作受制于政策上下脱节、办学载体单薄与资格互认缺失
+> [!claim|step] 论证步骤二　现有合作受制于政策上下脱节、办学载体单薄与资格互认缺失
 > 双边职业教育合作在快速推进的同时，暴露出严重的制度与机制软肋：宏观政策难以穿透至微观办学，单校主导的点状项目资源枯竭，且缺乏多边职业资历框架互认支撑。
 
-#### 1. 多头推进与层级脱节导致政策难以落地，跨国办学缺乏统一规制保障
+> [!sub-claim] 1. 多头推进与层级脱节导致政策难以落地，跨国办学缺乏统一规制保障
 
 政策引导为中国与东盟职业教育合作指引方向并规范边界，但既有政策体系仍面临效能衰减挑战。
 
@@ -196,7 +198,7 @@ updated: 2026-10-26
 
 规制体系的不完备，使得微观院校在推进跨国项目时往往面临规则真空与权责失衡。
 
-#### 2. 单校点状合作难以长期维持，现有平台布局面临严重的区域分化与学科失衡
+> [!sub-claim] 2. 单校点状合作难以长期维持，现有平台布局面临严重的区域分化与学科失衡
 
 合作平台是汇聚跨国教育资源的核心载体。然而实证调研显示，现有平台不仅过度依赖单所学校的有限资源，在空间与专业布局上也存在严重失衡。
 
@@ -235,7 +237,7 @@ updated: 2026-10-26
 
 单校依托点状协议推进的合作模式受制于资源瓶颈，亟需向高能级的线面网络升级。
 
-#### 3. 区域资历框架缺位且校企出海脱节，导致跨国合作停留在浅层交流
+> [!sub-claim] 3. 区域资历框架缺位且校企出海脱节，导致跨国合作停留在浅层交流
 
 共同体体现为多元主体围绕共同目标结成的互惠利益集聚体，但在实际运作中面临深层结构性阻滞。
 
@@ -251,10 +253,10 @@ updated: 2026-10-26
 
 ---
 
-> [!claim] 论证步骤三　推进高水平开放需要理顺四级政策链条、升级多边平台并构建共生生态
+> [!claim|step] 论证步骤三　推进高水平开放需要理顺四级政策链条、升级多边平台并构建共生生态
 > 针对政策断裂、单校瓶颈与浅层合作等现实困境，化解之道在于打通中央—省—市—校四级管理链条，实现开放载体向多边网络扩容，围绕新质生产力需求构建[[Industry-Education Integration Community|行业产教融合共同体]]与共生生态。
 
-#### 1. 建立中央到院校的四级联动机制，消除政策失序、断裂与错位
+> [!sub-claim] 1. 建立中央到院校的四级联动机制，消除政策失序、断裂与错位
 
 破除政策执行中的梗阻，必须运用系统思维重构管理链条，明确各层级职责定位，实现横向部门协同与纵向贯通。
 
@@ -263,7 +265,7 @@ updated: 2026-10-26
 > |---|---|---|---|
 > | **政策失序** | 政策起草与执行缺乏统一要求和刚性目标，多头推进导致预期成效落空。 | 提升政策工具精准性，开展扎实需求调研，强化国家级顶层设计与标准把控。 | 形成全域一盘棋的宏观规范与清晰实施指南。 |
 > | **政策断裂** | 中央—省—市—校层级衔接脆弱，地方与院校执行中出现信息梗阻与政策脱节。 | 构建四级纵向贯通机制，中央控方向、省市重产业、院校定细则。 | 实现从宏观战略到微观教学规程的无缝落地。 |
-> | **政策错位** | 双方政策制定未充分立足彼此真实诉求，导致跨国接口不稳与机制脱轨。 | 推进横向跨部门协同，将职教政策嵌入经贸合作框架，引入全周期[[Regulatory Impact Analysis|规制影响评估]]。 | 达成双边经贸发展与人才供给的供需高度契合。 |
+> | **政策错位** | 双方政策制定未充分立足彼此真实诉求，导致跨国接口不稳与机制脱轨。 | 推进横向跨部门协同，将职教政策嵌入经贸合作框架，引入全周期[[Regulatory Impact Analysis\|规制影响评估]]。 | 达成双边经贸发展与人才供给的供需高度契合。 |
 
 消除政策梗阻需要建立清晰规范的操作程序，确保宏观战略能够精准穿透为学校与企业的教学行为。
 
@@ -274,7 +276,7 @@ updated: 2026-10-26
 > 4. **跨部门横向整合** 破除单一教育部门壁垒，推动教育与外事、商务、发展改革部门的政策协同，将教育开放纳入双边经贸合作框架。
 > 5. **全流程[[Regulatory Impact Analysis|规制影响评估]]** 引入事前需求评估、事中运行监测与事后成效考核机制，动态调适政策供给。
 
-#### 2. 推动办学载体由单校签约转向多边协作网络，重点补齐关键工科短板
+> [!sub-claim] 2. 推动办学载体由单校签约转向多边协作网络，重点补齐关键工科短板
 
 针对 254 个平台反映出的商贸扎堆、工科缺失及单校脆弱性，国际合作平台必须向更高能级的多边网络升级。
 
@@ -293,11 +295,11 @@ updated: 2026-10-26
 > - **打造数字教育跨国共享枢纽** 依托数字丝绸之路建设（Min & Zaoming, 2023, 2024），建设中国—东盟职业教育数字资源中心、跨国[[Computer Simulation|虚拟仿真]]实训基地与远程多语种[[Massive Open Online Courses|慕课]]空间。
 > - **推广中文+职业技能集成标准** 联合东盟行业组织共同研制工程工艺技术规范与岗位培训标准，推动中国职业资格标准进入东盟国家职业资历框架。
 
-#### 3. 聚焦数字化与跨文化能力培养[[Emergent Talents|新质人才]]，形成校企双向共赢生态
+> [!sub-claim] 3. 聚焦数字化与跨文化能力培养[[Emergent Talents|新质人才]]，形成校企双向共赢生态
 
 高水平对外开放最终要落实到人才培养的质量上。面对产业数字化与智能化转型，必须面向区域全产业链培育具备国际[[Competitiveness|竞争力]]的新型技能骨干。
 
-> [!feature] 面向新质生产力的[[Emergent Talents|新质人才]]核心素养画像（Fang & Bingyuan, 2024）
+> [!feature] 面向新质生产力的[[Emergent Talents|新质人才]][[21st Century Skills and Competencies Discourse|核心素养]]画像（Fang & Bingyuan, 2024）
 > - **核心概念界定** 契合新质生产力发展要求，具备专精现场工艺与前沿技术应用能力的跨国复合型人才。
 > - **内在数字素养** 熟练运用智能化、数字化前沿生产工具，在工程实践中自主建构并动态迭代技术知识。
 > - **外在协同能力** 敏锐把握区域产业链重组趋势，主动适应跨文化职场生态，具备现场工艺革新与跨团队协作素养。
@@ -346,7 +348,7 @@ updated: 2026-10-26
 > [!citation-card] 制度政策运行异化及其治理
 > 构建中国—东盟职业教育制度化体系，要求在顶层设计中进行周密规划，有效防范制度实践中出现的失序、断裂与错位。失序指政策制定与执行缺乏统一的目标与规范约束；断裂指中央、地方与学校之间的纵向联动脱节；错位则指双方在政策制定中脱离彼此真实需求导致的供需脱轨。
 >
-> *Building an institutional system for Chinese-ASEAN cooperation in vocational education requires that detailed planning and designs be produced with respect to Chinese-ASEAN cooperation in vocational education from the top dimension, so as to avoid disorder, fracturing and [[Institutional Displacement|displacement]] of institutions in the process of existing practices. Here, disorder refers to a lack of unified requirements and objectives to be implemented in the process of policy drafting and implementation... Fracturing chiefly refers to weak links between central authorities and localities, localities and schools... Displacement chiefly refers to the problems of unsteady links, mismatched connections, and other problems arising in the process of implementation due to China and the nations of ASEAN being unable to properly premise the policy drafting process upon their mutual needs.*
+> *Building an institutional system for Chinese-ASEAN cooperation in vocational education requires that detailed planning and designs be produced with respect to Chinese-ASEAN cooperation in vocational education from the top dimension, so as to avoid disorder, fracturing and displacement of institutions in the process of existing practices. Here, disorder refers to a lack of unified requirements and objectives to be implemented in the process of policy drafting and implementation... Fracturing chiefly refers to weak links between central authorities and localities, localities and schools... [[Institutional Displacement|Displacement]] chiefly refers to the problems of unsteady links, mismatched connections, and other problems arising in the process of implementation due to China and the nations of ASEAN being unable to properly premise the policy drafting process upon their mutual needs.*
 
 ---
 

@@ -29,8 +29,8 @@ related_concepts:
   - "[[Rationalism in International Relations]]"
   - "[[Praxis]]"
   - "[[Epistemological Break]]"
-  - "[[Epistemology]]"
   - "[[Re-Westernisation]]"
+  - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Epistemic Coloniality]]"
   - "[[Knowledge Exchange]]"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -104,18 +104,14 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　比较教育是一项旨在揭露支配关系并追求世界结构重组的“道德事业”
-
-> [!concept-lens] [[Critical Theory\|批判理论]]与[[Dependency Theory\|依附论]]
-> 这一命题解析教育作为革命性解放工具的合法性。
+> [!concept-proposition] 命题一｜比较教育是一项旨在揭露支配关系并追求世界结构重组的“道德事业”
+> **探讨维度　[[Critical Theory\|批判理论]]与[[Dependency Theory\|依附论]]** 这一命题解析教育作为革命性解放工具的合法性。
 
 > [!claim] [[Martin Carnoy|Carnoy, M.]] et al.
 > **依附论时期的道德揭露与社会转型** 指出，在革命主义支配下，1970 年代至 1980 年代早期的依附论学者（Carnoy, 1974; Altbach, 1977; Arnove, 1980; Watson, 1982）拒绝了西方将第三世界贫困归结为“发展滞后/缺乏现代化”的[[Human Capital Theory\|人力资本]]逻辑。他们利用“中心-边缘”透镜，证明西方的学校教育输出是旨在延续心智奴役和资本榨取的帝国支配工具。Carnoy 进一步主张在社会向社会主义过渡期间，必须利用“自由学校”或“解放学校”打破资本主义分层；同时，第三世界革命政府可通过引进反向政策（如借鉴苏联的“ rabfaki 工人大学”模型）来重塑阶级主体性，从而开展阶级对抗。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 426]])
 
-### 命题二　学科自身是再西方化治理与欧洲殖民扩张分类的隐性载体
-
-> [!concept-lens] 去殖民[[Epistemology\|认识论]]
-> 这一命题揭示学科本身如何被共谋为新资本主义知识积累工具。
+> [!concept-proposition] 命题二｜学科自身是[[Re-Westernisation|再西方化]]治理与欧洲殖民扩张分类的隐性载体
+> **探讨维度　去殖民[[Epistemology\|认识论]]** 这一命题揭示学科本身如何被共谋为新资本主义知识积累工具。
 
 > [!claim] Silova, I. & Takayama, K.
 > **学科殖民性与西方地平线断裂** 指出，革命主义在当代演化为去殖民转向，其最激进的贡献在于将比较教育本身重铸为一种“帝国—殖民”认识型。这表明学科起源（如 Jullien 1817 计划）即深深扎根于欧洲帝国扩张的旅行、观察与差异分类实践；当前的“全球化”其实是掩盖殖民延续的[[Re-Westernisation\|再西方化]]进程，通过英语垄断、西方理论解释非西方现实以及将南方数据作为经验燃料来维系。要摆脱这一束缚，必须实现与西方认识型的“彻底断裂”。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 427–429]])

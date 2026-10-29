@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -99,10 +99,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　社会科学议题教学能够有效促进高阶非形式推理与论辩能力发展
-
-> [!concept-lens] 认知与推理进阶维度
-> 探讨 SSI 教学情境如何促使学生超越刻板的形式逻辑，在复杂现实问题中提升论证与证据评估水平。
+> [!concept-proposition] 命题一｜社会科学议题教学能够有效促进高阶[[Informal Reasoning|非形式推理]]与论辩能力发展
+> **探讨维度　认知与推理进阶维度** 探讨 SSI 教学情境如何促使学生超越刻板的形式逻辑，在复杂现实问题中提升论证与证据评估水平。
 
 > [!claim] Sadler, T. D. (2004)
 > **[[Informal Reasoning\|非形式推理]]的品质提升** [[Michael Sadler\|萨德勒]]系统梳理实证研究指出，传统的科学事实教学无法自发提升学生的推理品质；而置身于 SSI 辩论情境的学生，能够显著减少主观武断推论，表现出更高水平的证据权衡能力与多角度反驳能力。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, p. 154)]]
@@ -112,10 +110,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　社会科学议题重构了科学素养的内涵并确立了民主审议的价值导向
-
-> [!concept-lens] 课程哲学与公共民主维度
-> 探讨 SSI 如何将[[Scientific Literacy\|科学素养]]从纯粹的学科概念掌握拓展为支撑民主社会理性对话的[[21st Century Skills and Competencies Discourse\|核心素养]]。
+> [!concept-proposition] 命题二｜社会科学议题重构了[[Scientific Literacy|科学素养]]的内涵并确立了民主审议的价值导向
+> **探讨维度　课程哲学与公共民主维度** 探讨 SSI 如何将[[Scientific Literacy\|科学素养]]从纯粹的学科概念掌握拓展为支撑民主社会理性对话的[[21st Century Skills and Competencies Discourse\|核心素养]]。
 
 > [!claim] Kelly, G. J., & Licona, P. (2018)
 > **[[Epistemic Practices\|认识论实践]]的社会化扩展** 凯利与利科纳指出，SSI 将课堂认识论实践从“证实或[[Falsification\|证伪]]假说”拓展至“在公共领域协调多元冲突立场”，培养了学生“说服优于强制、开放思想优于教条”的理性民主素养。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 154–157, 161)]]

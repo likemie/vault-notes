@@ -10,7 +10,7 @@ aliases:
 summary: "主张科学研究应排除研究者主观价值偏见并保持程序中立的认识论规范；在启蒙发轫期曾服从于道德改良，在韦伯与20世纪实证学派中被法典化为科学基石，在批判理论中被解构为维护统治的意识形态，并在当代公共与科技竞争中凸显为区分描述性经验事实与规范性道德评价的认知脱钩求真能力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 88
+related_count: 89
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Geisteswissenschaften]]"
   - "[[Bildung]]"
+  - "[[Postpositivism]]"
   - "[[Operationalization]]"
   - "[[Knowledge Production]]"
   - "[[Educational Privatisation]]"
@@ -43,7 +44,6 @@ related_concepts:
   - "[[Epoché]]"
   - "[[Technical Rationality]]"
   - "[[Scientific Paradigm]]"
-  - "[[Postpositivism]]"
   - "[[Paradigm]]"
   - "[[Performance Indicators]]"
   - "[[Governing by Numbers]]"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Subjectivism]]"
   - "[[Reflexivity]]"
+  - "[[Document]]"
 related_theories:
   - "[[Transitology]]"
   - "[[Critical Theory]]"
@@ -118,7 +119,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -174,10 +175,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　19 世纪现代主义教育科学在发轫之初明确拒绝价值无涉并将事实经验彻底从属于全人伦理与制度改良
-
-> [!concept-lens] 伦理改良引领维度
-> 该维度澄清比较教育学与教育科学的历史源流，阐明其早期体系不仅不追求价值中立，反而明确将经验调查统领于全人教化与社会改良的崇高目的之中。
+> [!concept-proposition] 命题一｜19 世纪现代主义教育科学在发轫之初明确拒绝价值无涉并将事实经验彻底从属于全人伦理与制度改良
+> **探讨维度　伦理改良引领维度** 该维度澄清比较教育学与教育科学的历史源流，阐明其早期体系不仅不追求价值中立，反而明确将经验调查统领于全人教化与社会改良的崇高目的之中。
 
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias|Kazamias, A.]] M.
 > **早期准实证教育科学对价值无涉的明确拒斥** 19 世纪初现代主义先驱[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）的比较教育[[Questionnaire|问卷]]与跨国观察表，从一开始就明确拒绝现代价值无涉的实证论；朱利安将教育学划归为欧陆“二级[[Geisteswissenschaften|精神科学]]”，其经验事实搜集始终全面服从于服务全人道德教化（[[Bildung]]）、预防流血革命并促进欧洲持久和平的启蒙伦理。20 世纪美国行为实证派（Noah & Eckstein, 1969）以现代“价值中立”标尺指责其问卷带有引导性提问与主观偏见，完全陷入了时代倒错的辉格史谬误，忽视了教育探究在发轫期天然具有的道德改良属性（[[Educational Meliorism]]）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009, pp. 16–18)]]
@@ -187,10 +186,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　现代社会学确立的价值中立界限在战后实证主义清洗中演变为去价值负荷的科学图腾并遭遇内在反思
-
-> [!concept-lens] 科学事实说明与战后去价值负荷运动的交锋
-> 该维度回溯韦伯社会学传统，并深入战后比较教育学科争鸣，揭示[[Positivism|实证主义]]如何将排除“价值负荷”绝对化为科学资格基石，以及情境分析学者对其发起的内在[[Epistemology|认识论]]反思。
+> [!concept-proposition] 命题二｜现代社会学确立的价值中立界限在战[[Postpositivism|后实证主义]]清洗中演变为去价值负荷的科学图腾并遭遇内在反思
+> **探讨维度　科学事实说明与战后去价值负荷运动的交锋** 该维度回溯韦伯社会学传统，并深入战后比较教育学科争鸣，揭示[[Positivism|实证主义]]如何将排除“价值负荷”绝对化为科学资格基石，以及情境分析学者对其发起的内在[[Epistemology|认识论]]反思。
 
 > [!claim] [[Max Weber|Weber, M.]]
 > **学术作为志业中的价值自由界限** 韦伯确立的价值自由（Wertfreiheit）原则，旨在规范大学教授在学术讲台上不得滥用讲座特权兜售个人党派政见；[[Scientific Method|经验科学]]能够澄清手段的有效性与伴随代价，但绝无法代替行动者做出终极的价值决断。科学的职责在于促成智识清醒，无需充当道德先知。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, p. 29)]]
@@ -209,10 +206,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题三　批判理论揭示声称绝对中立的知识生产在政治实效上必然合谋于维系既有权力秩序
-
-> [!concept-lens] 知识旨趣与伪中立意识形态解构
-> 该维度聚焦法兰克福学派与[[Critical Pedagogy|批判教育学]]，揭露所谓“中立客观”背后隐藏的政治保守性与权力合谋。
+> [!concept-proposition] 命题三｜[[Critical Theory|批判理论]]揭示声称绝对中立的[[Knowledge Production|知识生产]]在政治实效上必然合谋于维系既有权力秩序
+> **探讨维度　知识旨趣与伪中立意识形态解构** 该维度聚焦法兰克福学派与[[Critical Pedagogy|批判教育学]]，揭露所谓“中立客观”背后隐藏的政治保守性与权力合谋。
 
 > [!claim] [[Jürgen Habermas|Habermas, J.]]
 > **知识构成旨趣与假中立意识形态** 任何人类[[Knowledge Production|知识生产]]都受制于深层的“知识构成旨趣”（技术旨趣、实践交往旨趣与解放旨趣）；实证主义将追求控制的技术旨趣伪装为唯一的、中立的客观科学，实际上通过排斥批判反思，剥夺了被压迫者挑战不公正体制的[[Discourse|话语]]武器，在客观实效上沦为巩固统治阶级既得利益的意识形态仆从。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, pp. 29, 113)]]
@@ -228,10 +223,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题四　当代循证教育对价值中立技术修辞的操弄本质上是服务于新自由主义数字审计治理
-
-> [!concept-lens] 循证科学修辞与新自由主义审计治理合谋
-> 该维度深入当代教育政策反思，解构[[Evidence-Based Education|循证教育]]运动如何利用“价值中立数据”瓦解教师[[Professional Judgment|专业判断]]并推行去政治化的量化问责。
+> [!concept-proposition] 命题四｜当代[[Evidence-Based Education|循证教育]]对价值中立技术修辞的操弄本质上是服务于新自由主义数字审计治理
+> **探讨维度　循证科学修辞与新自由主义审计治理合谋** 该维度深入当代教育政策反思，解构[[Evidence-Based Education|循证教育]]运动如何利用“价值中立数据”瓦解教师[[Professional Judgment|专业判断]]并推行去政治化的量化问责。
 
 > [!claim] [[Terry Wrigley|Wrigley, T.]]
 > **循证教育的中立修辞与新自由主义审计治理** 循证教育（EBE）狂热标榜“客观、中立、去价值”的 [[Randomised Controlled Trials|RCT]] [[Effect Size|效应量]]与统计均值，本质上是新自由主义审计文化的修辞策略；它刻意绕开关于教育根本目的（如教化 [[Bildung]]、民主解放与社会阶级平等）的民主辩论，将高度复杂的政治与道德抉择窄化为去情境的数学效率计算，极大地剥夺了教师基于微观教学情境的[[Professional Judgment|专业判断力]]。[[Argument_Wrigley_2018_BERJ|Wrigley (2018, pp. 4, 16)]]
@@ -247,10 +240,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题五　立法政策实务彻底打破价值中立假象并将科学证据转化为政治价值信念的辩护燃料
-
-> [!concept-lens] 立法政治中的价值嵌入与中立幻象解构
-> 该维度深入国家宏观立法与政策制定实务，揭示政策决策天然关乎政治价值取向；学术界自我标榜的“绝对客观超然”与“两造兼顾的谨慎中立”在立法生态中遭遇制度性排异，实证证据实质上充当支撑既定政治信仰的辩护燃料。
+> [!concept-proposition] 命题五｜立法政策实务彻底打破价值中立假象并将科学证据转化为政治价值信念的辩护燃料
+> **探讨维度　立法政治中的价值嵌入与中立幻象解构** 该维度深入国家宏观立法与政策制定实务，揭示政策决策天然关乎政治价值取向；学术界自我标榜的“绝对客观超然”与“两造兼顾的谨慎中立”在立法生态中遭遇制度性排异，实证证据实质上充当支撑既定政治信仰的辩护燃料。
 
 > [!claim] [[Carol Weiss|Weiss, C. H.]]
 > **政策制定本质关乎政治价值而非中立技术计算** 政策制定根本上是意识形态、利益博弈与道德价值取向的产物，具有鲜明的价值负载性（Weiss, 1977）。政策制定者极少仅凭一份新研究报告所提供的新颖经验数据而推翻既有的意识形态阵营与政治承诺（Weiss et al., 2008）；科学研究在现实政治世界中极少扮演发起变革的中立引擎，而主要扮演着为既定政治抉择提供合法性论证的辩护燃料（Weiss, 1991; Haskins & Baron, 2011）。[[Argument_Serpell_2020_EducPsychol|Serpell (2020, p. 42)]]
@@ -260,10 +251,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题六　当代公共舆论混淆事实描述与道德评价导致认知脱钩能力退化并诱发战略盲视
-
-> [!concept-lens] [[Cognitive Decoupling|认知脱钩]]与经验事实求真
-> 探讨当代知识界与公众如何因道德狂热丧失独立检验客观描述性事实的能力，阐明价值判断对事实求真与战略理性的侵蚀。
+> [!concept-proposition] 命题六｜当代公共舆论混淆事实描述与道德评价导致[[Cognitive Decoupling|认知脱钩]]能力退化并诱发战略盲视
+> **探讨维度　[[Cognitive Decoupling|认知脱钩]]与经验事实求真** 探讨当代知识界与公众如何因道德狂热丧失独立检验客观描述性事实的能力，阐明价值判断对事实求真与战略理性的侵蚀。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] & Silver (2024)
 > **事实描述与规范评价的二分及认知脱钩** 描述性事实（如[[Niall Ferguson|尼尔·弗格森]]考证的16世纪西方主要帝国在1910年代控制全球74%经济产出）是一项客观经验记录，并不等同于在道德规范上支持这种支配地位（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska, 2025, pp. 93–94]]）。[[Nate Silver|内特·银]]指出，认知脱钩（Decoupling）指个体在独立评估一个陈述的事实真伪时，能够暂时[[Epoché|悬置]]对其道德影响的预设，且无需依赖对言说者身份的评价；然而在当代公共舆论中，由于将经验事实与道德立场强行捆绑，这种认知脱钩能力已在绝大多数人身上退化（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska, 2025, pp. 94–95]]）。
@@ -347,7 +336,7 @@ updated: 2026-10-25
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统梳理西方研究方法论中价值中立的缘起、[[Positivism|实证主义]]预设及其遭受的批判，剖析[[Reflexivity|反身性]]与价值负荷对客观中立神话的解构。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析战后实证学派如何通过清除“价值负荷”确立科学身份，同时系统梳理霍姆斯对实证派指标[[Operationalization|操作化]]假中立的尖锐批判，揭示中立口号与战后理性规划技术官僚体制的共生关系。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 系统剖析早期比较教育文献，指出朱利安[[Questionnaire|问卷]]对道德宗教与全人教化的鲜明预设是欧陆[[Geisteswissenschaften|精神科学]]中经验事实服从于社会伦理改良的必然要求，强力清算了实证派的教条指责。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 系统剖析早期比较教育[[Document|文献]]，指出朱利安[[Questionnaire|问卷]]对道德宗教与全人教化的鲜明预设是欧陆[[Geisteswissenschaften|精神科学]]中经验事实服从于社会伦理改良的必然要求，强力清算了实证派的教条指责。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 梳理两百年比较教育学术流变，结合巴伯（Barber, 1972）与卡诺伊（Carnoy, 1983）论述，深刻解构战[[Postpositivism|后实证主义]]对“价值中立探究”的机械幻想，揭示其抽空教育伦理关切并沦为资本主义再生产与国家规划政治借口（alibi）的意识形态本质。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 结合拉美外围资本主义现实与[[Critical Pedagogy|批判教育学]]，揭示任何教育政策诊断均暗含特定的国家理论，解构技术官僚将[[Educational Privatisation|教育私有化]]与紧缩政策伪装为“价值中立科学方案”的意识形态实质。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学内部关于研究应当是[[Educational Meliorism|改良主义]]、[[Ideology Critique|意识形态批判]]抑或严格价值中立（Kazamias, 1961）的方法论交锋，将其作为学科科学化进程中的核心价值抉择。

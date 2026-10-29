@@ -28,6 +28,7 @@ related_concepts:
   - "[[Precompetitive Research]]"
   - "[[Wicked Problem]]"
   - "[[Incommensurability]]"
+  - "[[Science Programs]]"
   - "[[National Innovation System]]"
   - "[[Learning by Doing]]"
   - "[[Total Quality Management]]"
@@ -39,8 +40,8 @@ related_concepts:
 related_theories:
   - "[[Social Contract of Science]]"
   - "[[Technological Trajectories]]"
-  - "[[Evolutionary Economics]]"
   - "[[Systems of Innovation]]"
+  - "[[Evolutionary Economics]]"
   - "[[Pasteur's Quadrant]]"
   - "[[Three Generations of Mission-Oriented Policy]]"
 related_methods: []
@@ -55,7 +56,6 @@ related_facts:
   - "[[DARPA]]"
   - "[[Manhattan Project]]"
   - "[[Apollo Program]]"
-  - "[[Chinese Academy of Sciences]]"
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
   - "[[Science and Technology Centers]]"
@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -131,60 +131,48 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　大科学工程擅长破解物理技术极限，但难以直接迁移于复杂社会系统治理
-
-> [!concept-lens] 问题性质与组织适配维度
-> 探讨大[[Scientific Paradigm|科学范式]]的适用边界与制度局限。
+> [!concept-proposition] 命题一｜大科学工程擅长破解物理技术极限，但难以直接迁移于复杂社会系统治理
+> **探讨维度　问题性质与组织适配维度** 探讨大[[Scientific Paradigm|科学范式]]的适用边界与制度局限。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **物理目标与社会[[Wicked Problem|棘手问题]]的[[Incommensurability|不可通约性]]** 正如阿尔温·温伯格（Alvin Weinberg, 1967）所警示的，大科学模式的巨大成功依托于其攻关目标在物理和工程层面的清晰界定性；当政策制定者试图复制[[Manhattan Project|曼哈顿工程]]或[[Apollo Program|阿波罗计划]]的集权模式来解决贫困、城市衰败或绿色转型等社会问题时，由于这些问题深深嵌入人类价值观念、生活习惯与利益博弈中，封闭集权的大科学[[Paradigm|范式]]必然因缺乏社会响应性与敏捷互动而失效。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 794–795)]]
 
 ---
 
-### 命题二　大科学的长期社会经济价值依赖战略性公共采购与供应链技术学习
-
-> [!concept-lens] 需求侧拉动与技术外溢维度
-> 审视大科学项目如何转化为民用产业转型动力。
+> [!concept-proposition] 命题二｜大科学的长期社会经济价值依赖战略性公共采购与供应链技术学习
+> **探讨维度　需求侧拉动与技术外溢维度** 审视大[[Science Programs|科学项目]]如何转化为民用产业转型动力。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **公共采购作为大科学学习媒介** 大科学攻关若仅局限于实验室封闭研发，极易成为高成本的孤岛；其产生广泛民用技术外溢（如互联网、微电子与先进材料）的关键，在于公共部门通过提出严苛技术标准的公共采购合同，倒逼私营供应商在攻关过程中开展组织学习与工艺创新，从而在更广泛的产业生态中孵化出全新的民用[[Technological Trajectories|技术轨道]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–797)]]
 
 ---
 
-### 命题三　军工与大科学投入不等同于国家民用创新活力，体制隔离将引发深层创新系统失灵
-
-> [!concept-lens] [[Evolutionary Economics|演化经济学]]与[[National Innovation System|国家创新系统]]维度
-> 审视军工主导的大科学工程对国家民用经济的挤出效应与体制分割。
+> [!concept-proposition] 命题三｜军工与大科学投入不等同于国家民用创新活力，体制隔离将引发深层[[Systems of Innovation|创新系统]]失灵
+> **探讨维度　[[Evolutionary Economics|演化经济学]]与[[National Innovation System|国家创新系统]]维度** 审视军工主导的大科学工程对国家民用经济的挤出效应与体制分割。
 
 > [!claim] [[Argument_Freeman_1995_CJE|Freeman (1995)]]
-> **大科学军工分割与民用创新体系脱节** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，冷战时期大科学与国防科研的巨额投入并不必然带来经济繁荣。苏联将超过 70% 的研发资源投向国防与航天大科学工程、其研发总支出占国民生产总值比率在 1970 年代高达 3.6%，但其科技体制被割裂为封闭的[[Chinese Academy of Sciences|科学院]]研究所、部属设计局与缺乏研发活力的生产企业；由于缺乏生产车间的“[[Learning by Doing|干中学]]”（[[Learning by Doing]]）、质量管理（[[Total Quality Management|全面质量管理]]）与用户-供应商双向微观反馈，庞大的大科学军工复合体未能向民用产业形成有效技术扩散，最终导致民用经济长期落后与整个[[National Innovation System|国家创新系统]]的演化失败。这表明大科学唯有嵌入在产学研深度协同、具有微观互动学习机制的[[Systems of Innovation|创新系统]]中，方能转化为持久的[[Competitiveness|国家竞争力]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–12)]]
+> **大科学军工分割与民用创新体系脱节** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，冷战时期大科学与国防科研的巨额投入并不必然带来经济繁荣。苏联将超过 70% 的研发资源投向国防与航天大科学工程、其研发总支出占国民生产总值比率在 1970 年代高达 3.6%，但其科技体制被割裂为封闭的科学院研究所、部属设计局与缺乏研发活力的生产企业；由于缺乏生产车间的“[[Learning by Doing|干中学]]”（[[Learning by Doing]]）、质量管理（[[Total Quality Management|全面质量管理]]）与用户-供应商双向微观反馈，庞大的大科学军工复合体未能向民用产业形成有效技术扩散，最终导致民用经济长期落后与整个[[National Innovation System|国家创新系统]]的演化失败。这表明大科学唯有嵌入在产学研深度协同、具有微观互动学习机制的[[Systems of Innovation|创新系统]]中，方能转化为持久的[[Competitiveness|国家竞争力]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–12)]]
 
 ---
 
-### 命题四　大科学研发成本膨胀与外部问责刚性化加剧了科学社会契约的内在合法性危机
-
-> [!concept-lens] [[Social Contract of Science|科学社会契约]]与公共正当性演进维度
-> 审视大科学高成本演进如何反向推升外部行政审计、终结基础研究的免检特权。
+> [!concept-proposition] 命题四｜大科学研发成本膨胀与外部问责刚性化加剧了[[Social Contract of Science|科学社会契约]]的内在合法性危机
+> **探讨维度　[[Social Contract of Science|科学社会契约]]与公共正当性演进维度** 审视大科学高成本演进如何反向推升外部行政审计、终结基础研究的免检特权。
 
 > [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
 > **大科学成本膨胀终结基础研究免检特权** 樊春良指出，2010 年代以来美国科学的社会契约陷入结构性危机，不仅源于外部行政绩效问责（如 GPRAMA 法案）与使命导向的施压，更源于科学体系内部大科学模式的演进规律。[[Megascience Installations|大科学装置]]与跨学科巨型工程的扩张极度推高了单项科研任务的财政消耗与机会成本，倒逼国会与纳税人强化对其即时战略效用与可审计性的刚性要求。高昂的大科学成本与学术界“[[Reproducibility Crisis|可重复性危机]]”产生共振，彻底剥夺了基础科学自二战以来享有的“无需自证的免检资助地位”，迫使国家科技治理加速向强调确定性技术获取与程序可控的[[Technology-Oriented Social Contract|技术型社会契约]]滑动。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]
 
 ---
 
-### 命题五　大科学中心模式向大学工程科研的移植与“小科学”自由探索经费冲突
-
-> [!concept-lens] 高校科研组织转型与资助格局冲突维度
-> 审视大科学中心模式向民用大学工程领域的渗透，以及其与传统单 PI 自由探索经费池之间的深层资源争夺。
+> [!concept-proposition] 命题五｜大科学中心模式向大学工程科研的移植与“小科学”自由探索经费冲突
+> **探讨维度　高校科研组织转型与资助格局冲突维度** 审视大科学中心模式向民用大学工程领域的渗透，以及其与传统单 PI 自由探索经费池之间的深层资源争夺。
 
 > [!claim] [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]]
 > **产学中心大科学化与掠夺小科学经费争议** 1980 年代以前，大科学主要局限于国防、核能与航天等封闭国家实验室。1984 年[[National Science Foundation|美国国家科学基金会]]（NSF）启动[[Engineering Research Centers|工程研究中心]]（ERC）以及随后的[[Science and Technology Centers|科学技术中心]]（STC），标志着大科学模式（跨学科团队、巨型实验设施共享、大额多年期合作研究协议、多校联合攻关）正式向民用[[Research Universities|研究型大学]]与工程学科系统性移植。然而，这一重大组织转型直接引发了纯科学界传统学者的强烈反弹——数学、物理、化学等基础学科批评大科学中心“掠夺了小科学（Little Science）单项 PI 自由探索科研经费池”，并担忧大学沦为产业界应用研发的短期附庸。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365–366, 371)]]
 
 ---
 
-### 命题六　智能时代大科学演化为前竞争公私联合体与中等规模聚焦研究组织的新生态
-
-> [!concept-lens] 组织生态演化与公共品使能工具
-> 论证大科学如何突破传统单一国家实验室垄断，演化为连接顶尖大学、国家实验室、产业前竞争财团与自动化机器实验的新型中介网络。
+> [!concept-proposition] 命题六｜智能时代大科学演化为前竞争公私联合体与中等规模[[Focused Research Organization|聚焦研究组织]]的新生态
+> **探讨维度　组织生态演化与公共品使能工具** 论证大科学如何突破传统单一国家实验室垄断，演化为连接顶尖大学、国家实验室、产业前竞争财团与自动化机器实验的新型中介网络。
 
 > [!claim] Kratsios, M. (2026)
 > **中等规模工程科学、[[Focused Research Organization|聚焦研究组织]]与创世纪平台** 当代前沿突破日益发生在兼具[[Grand Theory|宏大理论]]雄心与现实重大应用的[[Pasteur's Quadrant|巴斯德象限]]。单体大学课题组受制于研究生轮转无法维持长期工程攻关团队，商业公司则因公共品属性缺乏独占动力，导致耗资数千万美元的中等规模工程科学（如[[Protein Data Bank|蛋白质数据库]]维护、高通量[[Mind Mapping|脑图]]谱绘制、开源科学 AI 模型训练）出现制度空白。大科学范式必须发生结构性扩展：一方面依托[[Focused Research Organization|聚焦研究组织]]（FRO）与 NSF [[Directorate for Technology, Innovation and Partnerships|TIP]] [[NSF X-Labs|X-Labs]] 建立全职工程团队攻克共性工程瓶颈；另一方面依托[[Genesis Mission|创世纪计划]]（Genesis Mission）将 17 所国家实验室算力与仪器整合成“美国科学与安全平台”（ASSP），并继承 [[EUV LLC]] 与 [[Human Genome Project|HGP]] 的前竞争联合体经验，将大科学从封闭武器研制升级为全社会可调用的公共技术底座。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21–26, 43–45, 61–63)]]

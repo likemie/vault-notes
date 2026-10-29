@@ -6,7 +6,7 @@ aliases:
 summary: "由奥斯曼尼·波尔图·德奥利维拉（Osmany Porto de Oliveira）提出并经戴安·斯通等人系统拓展的跨国政策行动者构念，指兼具国际魅力、跨文化沟通力与本土实践经验，以中介者身份穿梭于母国、国际组织与跨国政策网络之间，推动特定治理模型跨国扩散与制度化转化的能动主体。"
 type: concept
 domain: "comparative-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,13 +32,14 @@ related_persons: []
 related_facts:
   - "[[Participatory Budgeting]]"
   - "[[World Bank]]"
+  - "[[Chicago Boys]]"
   - "[[Inter-American Development Bank]]"
 related_arguments:
   - "[[Argument_Stone_2020_PolSoc]]"
 confidence: medium
 status: draft
 created: 2026-10-23
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -92,23 +93,19 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　政策大使依托跨文化资本充当政策创新的跨国传播中枢
-
-> [!concept-lens] 跨国能动主体的沟通网络
-> 政策大使依托个人学术威望、多语言沟通技巧与跨界社会网络，弥合不同政治体制之间的制度文化隔阂，推动本土治理创新跨越国界流动。
+> [!concept-proposition] 命题一｜政策大使依托跨[[Cultural Capital|文化资本]]充当政策创新的跨国传播中枢
+> **探讨维度　跨国能动主体的沟通网络** 政策大使依托个人学术威望、多语言沟通技巧与跨界社会网络，弥合不同政治体制之间的制度文化隔阂，推动本土治理创新跨越国界流动。
 
 > [!claim] Porto de Oliveira, O.
 > **跨国经纪与网络穿透** 奥斯曼尼·波尔图·德奥利维拉（Porto de Oliveira, 2017）指出，政策大使不同于局限于国内政策生态的行动者，他们通过在全球城市峰会、国际发展合作机构与跨界学术网络中频繁穿梭，将拉丁美洲等地区的本土民主参与方案（如[[Participatory Budgeting|参与式预算]]）编织成跨国治理的通用典范。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 6)]]
 
-> [!case] 智利芝加哥男孩的跨国政策倡导网络
+> [!case] [[Chicago Boys|智利芝加哥男孩]]的跨国政策倡导网络
 > 20 世纪 80 年代智利奥古斯托·皮诺切特政权时期的养老金私有化改革是政策大使跨国动员的典型[[Paradigm|范式]]。一批在芝加哥大学师从米尔顿·弗里德曼获得博士学位的智利学者回国主导经济改革，被称为芝加哥男孩（Chicago Boys）。他们随后以跨国顾问和政策大使身份穿梭于拉美多国，以高度的信念执着与专业权威游说各国政要，有力推动了养老金私有化在拉美各国的采纳。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, p. 12)]]
 
 ---
 
-### 命题二　政策大使的人员循环构成国际组织采纳南方创新模型的微观动力
-
-> [!concept-lens] 官僚网络吸纳与[[Paradigm|范式]]输出
-> 发展中国家的实务官员与政策学者通过进出多边国际组织形成旋转门机制，驱动国际金融机构将区域试点经验提炼为全球通用的发展工具。
+> [!concept-proposition] 命题二｜政策大使的人员循环构成国际组织采纳南方创新模型的微观动力
+> **探讨维度　官僚网络吸纳与[[Paradigm|范式]]输出** 发展中国家的实务官员与政策学者通过进出多边国际组织形成旋转门机制，驱动国际金融机构将区域试点经验提炼为全球通用的发展工具。
 
 > [!claim] Stone, D. et al.
 > **体制内吸纳与多边扩散** 戴安·斯通等学者（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，在[[Conditional Cash Transfers|有条件现金转移支付]]（Conditional Cash Transfers, CCTs）与公共交通改革中，曾主导巴西、智利、哥伦比亚和墨西哥方案设计的政策官员与专家顾问，相继进入[[World Bank|世界银行]]、联合国开发计划署（United Nations Development Programme, UNDP）及美洲开发银行（[[Inter-American Development Bank]], IDB）任职；这种由政策大使构成的密集人事流动，直接促成了多边机构对南方政策模型的全球背书与规模化推广。（pp. 12–13）

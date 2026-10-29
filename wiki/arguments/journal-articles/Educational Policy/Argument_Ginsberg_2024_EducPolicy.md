@@ -37,6 +37,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Academic Achievement]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Critique of Randomized Controlled Trials]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
@@ -82,14 +83,14 @@ sources:
   - "[[sources/Ginsberg_2024_EducPolicy/Ginsberg_2024_EducPolicy|Ginsberg_2024_EducPolicy]]"
 status: stable
 created: 2026-09-17
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Ginsberg_2024_EducPolicy"
 argument_key: "Argument_Ginsberg_2024_EducPolicy"
 argument_display_title: "Does ESSA assure the use of evidence-based educational practices? Educational Policy, 38(1), 161–185"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -122,7 +123,7 @@ issuing_organization: ""
 > | **教育财政投入与产出关联假说**<br>Compensatory Education Hypotheses | Dynarski and Kainz (2015) 提出的资金强度不足假说与无效实践挤占假说，以及 Gordon (2004) 证实的地方财政挤出效应（crowd-out effect），用于解释 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金为何长期未能一致改善处境不利学生的[[Academic Achievement\|学业成就]]。 |
 
 > [!warrant]- 理论框架对实证审计的支撑机理
-> 论文通过并置比较 [[Every Student Succeeds Act\|ESSA]] 法定四级证据框架与全量证据评价[[Paradigm\|范式]]，搭建起检验政策执行实质效力的理论桥梁。长期以来关于 Title I 资金对学业影响的实证文献结论分歧严重：Borman & D'Agostino (1996) 与 Torgesen et al. (2007) 发现了积极效果，而 Puma et al. (1997)、van der Klaauw (2008) 及 Deke et al. (2012) 则未发现显著影响。Dynarski and Kainz (2015) 明确提出两大理论猜想：其一是人均拨款强度过低；其二是大量资金被耗散在缺乏实效的实践中。若法定证据标准过于宽松（仅需单项研究证明显著效果），学区便可利用挑樱桃（cherry-picking）策略为既有低效支出披上合法外衣；这一治理困境深度呼应了[[Critique of Randomized Controlled Trials\|随机对照试验批判]]对法定单项因果证据作为政策通货的质疑；只有引入全量[[Research Synthesis|证据综合]]视角，才能测出形式合规与实质有效之间的真实差距。
+> 论文通过并置比较 [[Every Student Succeeds Act\|ESSA]] 法定四级证据框架与全量证据评价[[Paradigm\|范式]]，搭建起检验政策执行实质效力的理论桥梁。长期以来关于 Title I 资金对学业影响的实证[[Document|文献]]结论分歧严重：Borman & D'Agostino (1996) 与 Torgesen et al. (2007) 发现了积极效果，而 Puma et al. (1997)、van der Klaauw (2008) 及 Deke et al. (2012) 则未发现显著影响。Dynarski and Kainz (2015) 明确提出两大理论猜想：其一是人均拨款强度过低；其二是大量资金被耗散在缺乏实效的实践中。若法定证据标准过于宽松（仅需单项研究证明显著效果），学区便可利用挑樱桃（cherry-picking）策略为既有低效支出披上合法外衣；这一治理困境深度呼应了[[Critique of Randomized Controlled Trials\|随机对照试验批判]]对法定单项因果证据作为政策通货的质疑；只有引入全量[[Research Synthesis|证据综合]]视角，才能测出形式合规与实质有效之间的真实差距。
 
 > [!coding-frame] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
@@ -172,10 +173,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　学区 Title I 预算主要固化于人事编制与常规运营，微观账目穿透与实践构件拆解是开展循证审计的前提
+> [!claim|step] 论证步骤一　学区 Title I 预算主要固化于人事编制与常规运营，微观账目穿透与实践构件拆解是开展循证审计的前提
 > 学区宏观预算科目掩盖了资金高度倾斜于常规人事编制与运营维持的实质；唯有深入学校一线穿透至微观财务细项并解构复合实践构件，才能打破会计代码与科研数据库之间的语义壁垒，建立精准的循证审计映射。
 
-#### 1. 穿透预算会计代码：学区中心统筹与校本分权的资金图景
+> [!sub-claim] 1. 穿透预算会计代码：学区中心统筹与校本分权的资金图景
 
 在以往的教育财政研究中，由于缺乏细粒度的账目穿透，学者往往难以厘清大规模联邦资金究竟采购了何种具体的课堂实践。
 
@@ -186,7 +187,7 @@ issuing_organization: ""
 > [!figure]- 图 1　SUD 学区 Title I 年度资金大致分配结构
 > ![](https://img.mylikemie.icu/sources/Ginsberg_2024_EP/figures/Ginsberg_2024_EP_Fig1_Title_I_Funding_Distribution.jpg)
 
-#### 2. 微观财务账目穿透：将采购物品与人员编制还原为具体教育实践
+> [!sub-claim] 2. 微观财务账目穿透：将采购物品与人员编制还原为具体教育实践
 
 学校层面的财务账目通常只记录采购物品本身，必须通过深入学校行政一线的[[Semi-structured Interview|半结构化访谈]]与实物档案审查，才能还原其对应的教育活动。
 
@@ -224,17 +225,17 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　法定单项合格门槛导致逾 95% 的名义合规率，而全量证据综合评价下获得积极实证支持的资金比例降至不足六成
+> [!claim|step] 论证步骤二　法定单项合格门槛导致逾 95% 的名义合规率，而全量证据综合评价下获得积极实证支持的资金比例降至不足六成
 > ESSA 单项合格研究标准赋予了学区极大的文牍抗辩空间，营造出逾 95% 资金合规的名义表象；但置于全量[[Research Synthesis|证据综合]]审视下，获稳定积极支持的资金比例降至 49%–58%，暴露出宽松法定门槛对实证研究异质性、零效应与负面结果的掩蔽。
 
-#### 1. 单项合格研究门槛下的合规表象：逾 95% 资金跨过法定红线
+> [!sub-claim] 1. 单项合格研究门槛下的合规表象：逾 95% 资金跨过法定红线
 
 法定标准的宽松性赋予了学区巨大的自由裁量权，只要能在某一数据库中找到一篇显示积极效果的文献，该项采购即可获得法律正当性。
 
 > [!figure]- 图 2　依据 ESSA 法定定义投资于循证实践的资金比例
 > ![](https://img.mylikemie.icu/sources/Ginsberg_2024_EP/figures/Ginsberg_2024_EP_Fig2_ESSA_Tiers_Fund_Percentage.jpg)
 
-#### 2. 全量证据体审视下的结果分化：获得积极实证支持的资金比例降至 49%–58%
+> [!sub-claim] 2. 全量证据体审视下的结果分化：获得积极实证支持的资金比例降至 49%–58%
 
 当从单一[[Experimental Research|实验研究]]拓宽至全量证据体时，大量原本被评为积极的实践因存在相互冲突的研究结论而直接降级为混合效应。
 
@@ -273,10 +274,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　联邦证据法案未改变学区既有人事与采购路径，教育科研供给侧的学段与微观构件断层制约了循证实践落地
+> [!claim|step] 论证步骤三　联邦证据法案未改变学区既有人事与采购路径，教育科研供给侧的学段与微观构件断层制约了循证实践落地
 > ESSA 证据标准正式实施后未促发学区资金配置的结构性调整，三年追踪期内循证支出占比保持平稳；资金分配缺乏转变不仅源于学区师资编制与商业采购渠道的既有依赖，也反映出教育实证科研在学段衔接、微观实践形态与情境适用性上的供给不足。
 
-#### 1. 三年纵向追踪：法律生效前后的资金分配结构性固化
+> [!sub-claim] 1. 三年纵向追踪：法律生效前后的资金分配结构性固化
 
 在 2016–2017 至 2018–2019 三个学年间，正值学区被正式要求全面对接 ESSA [[Evidence Standards|证据标准]]的关键转折期。
 
@@ -294,7 +295,7 @@ issuing_organization: ""
 > - **联邦指导方针的非约束性特征** 美国教育部 2016 年关于全量证据体的指南仅具有非约束性建议性质，无法对抗法案正文所确立的单项研究合法性。
 > - **一线学区科研信息检索能力不足** 学校校长与项目主管缺乏足够工时与专业技能深入四大数据库交叉比对相互冲突的实证研究。
 
-#### 2. 教育科研供给侧制约：学段空白、构件混杂与情境迁移衰减
+> [!sub-claim] 2. 教育科研供给侧制约：学段空白、构件混杂与情境迁移衰减
 
 [[Evidence-Based Policy-Making|循证决策]]无法落实的关键堵点不仅在需求端，更在科研供给端。
 

@@ -50,6 +50,7 @@ related_concepts:
   - "[[Structured Teaching]]"
   - "[[Heterogeneity]]"
   - "[[External Validity]]"
+  - "[[Document]]"
   - "[[Literature Search]]"
   - "[[Flow]]"
   - "[[Research Question]]"
@@ -109,16 +110,16 @@ related_theories:
   - "[[Creative Problem Solving]]"
 status: draft
 created: 2026-08-23
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 79
-argument_related_level: 7
-argument_related_stars: "💎💎⭐"
+argument_related_count: 80
+argument_related_level: 8
+argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 journal: "Creativity Research Journal"
 book_title: ""
@@ -206,11 +207,11 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一 创造力二阶元分析的设计架构与方法学质量控制
+> [!claim|step] 论证步骤一 创造力二阶元分析的设计架构与方法学质量控制
 > [[Meta-meta-analysis\|二阶元分析]]在大样本水平上整合多重一阶[[Meta-analysis\|元分析]]，采用[[AMSTAR\|系统评价质量评估工具]]与多水平[[Robust Variance Estimation\|稳健方差估计]]，能够克服单一研究局限，提供高度稳健且具备[[External Validity\|可推广性]]的[[Creativity\|创造力]][[Effect Size\|效应量]]基准。
 
 > [!proc] 创造力二阶元分析研究程序
-> 1. **多数据库检索与灰色文献扩展** 检索五个专业数据库、博硕士论文库、四大专刊期刊与学术搜索平台，获取 4,228 篇文献。
+> 1. **多数据库检索与灰色[[Document|文献]]扩展** 检索五个专业数据库、博硕士论文库、四大专刊期刊与学术搜索平台，获取 4,228 篇文献。
 > 2. **[[PRISMA]] 筛选与严格排除** 全文评估 78 篇，排除无合并统计量的质性综述（如 Bicer et al., 2021）与无关系效应量的脑成像坐标元分析（如 Boccia et al., 2015; Brown & Kim, 2021; Gonen-Yaacovi et al., 2013; Pidgeon et al., 2016; Wu et al., 2015），最终纳入 52 篇。
 > 3. **AMSTAR 12 项方法学质量评估** 双人独立编码（97% 一致性），设立得分达到 0.75 为高质量判定门槛。
 > 4. **效应量标准化转换与正态化** 统一转换为相关系数 $r$ 并经费舍尔 $z$ 正态化转换。
@@ -287,7 +288,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二 预测变量与效标变量的效应不对称性：[[Second-Order Meta-Regression|二阶元回归]]检验
+> [!claim|step] 论证步骤二 预测变量与效标变量的效应不对称性：[[Second-Order Meta-Regression|二阶元回归]]检验
 > 创造力作为[[Independent Variable\|预测变量]]时展现出中等偏大的稳定关联效应（$r = 0.29$），作为效标[[Dependent Variable\|结果变量]]时的关联效应较弱（$r = 0.12$）；[[Variable\|变量]]角色的不对称性构成了全领域唯一统计显著的异质性调节来源（$F(1, 16.3) = 9.43, p = .007$）。
 
 > [!stat-cards]- 一阶效应量强度分布基准（Kraft, 2020 百分位数标准）
@@ -353,7 +354,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三 测量类型与多维相关因素的调节机制：教育干预的显著效能
+> [!claim|step] 论证步骤三 测量类型与多维相关因素的调节机制：教育干预的显著效能
 > 在测量类型上，涵盖多维认知加工的综合创造过程（$r = 0.27$）展现出高于单一[[Divergent Thinking\|发散思维]]测验（$r = 0.14$）的关联；在相关因素中，教育项目与[[Creativity Training\|创造力训练]]干预（$r = 0.20$）与创造力关联最强，证实了创造力在教育情境中的高度可干预性。
 
 > [!contrast-table] 综合创造过程测量 vs 单一发散思维测验

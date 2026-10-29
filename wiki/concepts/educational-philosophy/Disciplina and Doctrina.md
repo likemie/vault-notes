@@ -29,8 +29,8 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Ontology]]"
   - "[[Competitiveness]]"
-  - "[[Determinism]]"
   - "[[Champ]]"
+  - "[[Determinism]]"
   - "[[Governing by Numbers]]"
   - "[[Open-Mindedness]]"
   - "[[Knowledge-Based Economy]]"
@@ -82,7 +82,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -155,70 +155,56 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　课程设计须在学科分类深度与跨学科时代问题探究之间维持二元平衡
-
-> [!concept-lens] 学科深度与跨学科的平衡
-> 这一命题探讨如何在尊重既有学科深度（disciplina）的前提下，实现促进知识更新与创新的跨学科广度（doctrina）。
+> [!concept-proposition] 命题一｜课程设计须在学科分类深度与跨学科时代问题探究之间维持二元平衡
+> **探讨维度　学科深度与跨学科的平衡** 这一命题探讨如何在尊重既有学科深度（disciplina）的前提下，实现促进知识更新与创新的跨学科广度（doctrina）。
 
 > [!claim] [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]]
 > **学科[[Ontology|本体论]]深度与时代问题探究** 优秀的教育设计不能抛弃学科，因为学科分类是人类探索现象的历史积累，具备本体论深度（disciplina）；但教学不能止步于此，必须引导学生围绕[[Epochal Key Problems|时代关键问题]]（如可持续性发展）开展跨学科的协同探索，激发知识的创造（doctrina）。[[Argument_Schaffar_2024_CogentEdu|(Schaffar & Wolff, 2024, pp. 4–6, 10)]]
 
 ---
 
-### 命题二　新自由主义绩效评估指标体系将生命世界体验异化为单向度的数据规训
-
-> [!concept-lens] 可测量性对教学批判力的抹杀
-> 这一命题剖析数字资本主义与评估产业如何通过标准化控制将教学异化为单一的规训程序。
+> [!concept-proposition] 命题二｜新自由主义绩效评估指标体系将生命世界体验异化为单向度的数据规训
+> **探讨维度　可测量性对教学批判力的抹杀** 这一命题剖析数字资本主义与评估产业如何通过标准化控制将教学异化为单一的规训程序。
 
 > [!claim] Foran (2020)
 > **指标体系对生命世界体验的规训化收口** 当学生被还原为度量衡和政府数据时，原本指向反思与合作的生命世界体验在学校中失去了意义，doctrina 的批判潜能被指标体系彻底窒息，学校转变为纯粹的规训机器（disciplina）。[[Argument_Schaffar_2024_CogentEdu|(Foran, 2020, cited in Schaffar & Wolff, 2024, pp. 9–10)]]
 
 ---
 
-### 命题三　超国家治理与科研资助机制对学术研究施加规训压力并约束批判知识生产
-
-> [!concept-lens] [[Knowledge Production|知识生产]]与学术自律维度
-> 本命题将规训与知识更新的张力拓展至宏观学术体制，剖析外部政策资助与技术官僚治理如何规训学者的知识生产活动。
+> [!concept-proposition] 命题三｜超国家治理与科研资助机制对学术研究施加规训压力并约束批判[[Knowledge Production|知识生产]]
+> **探讨维度　[[Knowledge Production|知识生产]]与学术自律维度** 本命题将规训与知识更新的张力拓展至宏观学术体制，剖析外部政策资助与技术官僚治理如何规训学者的知识生产活动。
 
 > [!claim] [[Argument_Mitter_2009_Europe|Mitter (2009)]]
 > **科研资助与政策问责对知识生产的规训化** 米特指出，后冷战与全球化时代超国家治理机构（如[[OECD|经合组织]]、[[EU|欧盟]]）及国家科研资助体系对学术研究施加了前所未有的规训压力（disciplining pressure）。学术探究原本具有的开放创新与批判性知识生产面向（doctrina）受到严密约束，被迫屈从于以经济[[Competitiveness|竞争力]]、[[Human Capital Theory|人力资本]]测度与短期政策效用为导向的技术官僚规训框架（disciplina）。这种规训压力使学者从独立的制度批判者退化为政策合规的论证者。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
 
 ---
 
-### 命题四　资本主义国家学校场域兼具劳动力规训再生产与大众民主赋权的双重张力
-
-> [!concept-lens] 批判政治经济学与国家理论维度
-> 这一命题剖析学校教育在资本主义生产关系中的制度定位，打破早期机械[[Determinism|决定论]]，揭示单向阶级规训（disciplina）与底层民主反思及赋权（doctrina）在学校[[Champ|场域]]内的持久拉锯。
+> [!concept-proposition] 命题四｜资本主义国家学校[[Champ|场域]]兼具劳动力规训再生产与大众民主赋权的双重张力
+> **探讨维度　批判政治经济学与国家理论维度** 这一命题剖析学校教育在资本主义生产关系中的制度定位，打破早期机械[[Determinism|决定论]]，揭示单向阶级规训（disciplina）与底层民主反思及赋权（doctrina）在学校[[Champ|场域]]内的持久拉锯。
 
 > [!claim] Carnoy (1985) & [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]]
 > **学校作为生产关系规训再生产与民主化诉求交织的博弈场域** 早期激进马克思主义往往将学校机械等同于资本主义统治阶级单向规训工人的社会控制工具（disciplina）；[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy）在 1980 年代与卡扎米亚斯在第四阶段学科史梳理中指出，学校构成了充满深刻内在拉锯的复杂场域：一方面，学校承担为资本主义经济体系维持社会分工与劳动力顺从的规训再生产任务（disciplina）；另一方面，工薪大众与底层学生始终在学校中争取平等的民主表达权利、主体解放与批判性认知（具备 doctrina 的开放探索特质）。在转型期国家中，政治国家权力的能动干预更证明了教育的规训形态具有相对自主性。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 153–154)]]
 
 ---
 
-### 命题五　跨国等价空间与数字排位赛对主权国家课程施加远处规训并压制教育目的民主审议
-
-> [!concept-lens] 跨国治理与数字规训维度
-> 探讨超国家机构如何通过标准化测评等价空间与“数字政策”机制，将主权国家教育实践收拢于远处规训，压制关于教育公共目的的本土民主协商。
+> [!concept-proposition] 命题五｜跨国等价空间与数字排位赛对主权国家课程施加远处规训并压制教育目的民主审议
+> **探讨维度　跨国治理与数字规训维度** 探讨超国家机构如何通过标准化测评等价空间与“数字政策”机制，将主权国家教育实践收拢于远处规训，压制关于教育公共目的的本土民主协商。
 
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]
 > **跨国数字排位赛的远处规训与教育目的审议压制** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）揭示，[[PISA|国际学生评估项目]]（PISA）建立的全球等价空间（Desrosières, 1998）已成为一种新型的跨国远程规训装置（disciplina）。通过发布跨国绩效联赛榜，PISA 将成员国置于激烈的国际竞争中，诱发国内政策恐慌（如德国 2000 年后的“PISA 震荡”），并迫使主权国家教育体系按照经合组织的技能范畴进行课程与教学对齐。援引罗斯（Rose, 1999: 208）的[[Governing by Numbers|数字治理]]洞见，他们强调“数字政策”通过技术化外观将测评背后高度复杂的价值判断“隐形化并不容置疑”，从而剥夺了公众和专业共同体对教育本质、文化传承与社会正义等[[Open-Mindedness|开放性]]议题进行反思与民主辩论的空间（doctrina），使教育完全屈从于[[Knowledge-Based Economy|知识经济]]的人力资本规训。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 ---
 
-### 命题六　新泰勒主义管理监控与清单崇拜将教师实践降格为全景式技术规训并消解教育的人文关系属性
-
-> [!concept-lens] [[Neo-Taylorism|新泰勒主义]]监控与清单规训维度
-> 剖析[[Evidence-Based Education|循证教育]]倡导者如何通过行政监控软件、气压计指标与外科手术式核查清单，将一线教学降格为可直接管制的机械技术操作，剥夺教师在具体情境中的伦理审议与关系建构权力。
+> [!concept-proposition] 命题六｜[[Neo-Taylorism|新泰勒主义]]管理监控与清单崇拜将教师实践降格为全景式技术规训并消解教育的人文关系属性
+> **探讨维度　[[Neo-Taylorism|新泰勒主义]]监控与清单规训维度** 剖析[[Evidence-Based Education|循证教育]]倡导者如何通过行政监控软件、气压计指标与外科手术式核查清单，将一线教学降格为可直接管制的机械技术操作，剥夺教师在具体情境中的伦理审议与关系建构权力。
 
 > [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
 > **新泰勒主义监控与教学人文关系维度的剥夺** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）揭示，《[[Visible Learning|可见的学习]]》对“科学管理”的狂热追求在本质上延续了泰勒制（Taylorism）工时与动作拆解的工业流水线逻辑（[[Argument_Eacott_2017_SLM|Eacott, 2017]]; Taylor, 1911）。在该[[Paradigm|范式]]中，[[John Hattie|约翰·哈蒂]]将一线教师的经验交流斥为缺乏科学依据的“轶事传闻”，甚至援引保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]的论调将教学贬抑为“不成熟的职业”（immature profession），从而为建立自上而下的技术规训（disciplina）确立合法性。哈蒂不仅主持开发了具备全景监控潜力的 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机网络系统，更将该系统的[[Barometer of Achievement|气压计图表]]迁移至专著中，主张教学应当向外科手术与高山救援看齐。这种粗暴类比严重混淆了机械技术操作与复杂育人实践的本质边界：外科手术依赖固定清单与标准打结，而真正的教学（doctrina）是在特定社区与充满差异的班级中建设师生学习共同体的复杂人际与伦理过程。当学校被改造成由外部标准清单管制的加盟连锁店时，教师被异化为全景受控的技术操作工，学生被降格为未来测验的数据产出点，教育本身的人文关怀、民主价值与批判探索被技术规训彻底摧毁。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
 
 ---
 
-### 命题七　双向可见性视觉隐喻将外显行政支配内化为全景微观规训并遮蔽实质教化
-
-> [!concept-lens] 视觉隐喻与自我监控全景规训
-> 探讨可见学习的视觉修辞如何以学生自我反思为面具，建立起内化的全景监控网络，压制实质教化与知识批判。
+> [!concept-proposition] 命题七｜双向可见性视觉隐喻将外显行政支配内化为全景微观规训并遮蔽实质教化
+> **探讨维度　视觉隐喻与自我监控全景规训** 探讨可见学习的视觉修辞如何以学生自我反思为面具，建立起内化的全景监控网络，压制实质教化与知识批判。
 
 > [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011)]]
 > **双向可见性对行政强制的内化与微观规训建构** [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）基于福柯权力理论指出，《可见的学习》将“互看、互见与互相被观察”确立为教与学模型的核心。这种双向可见性将传统公开外显的统治体制转变为内化、微妙且去中心化的全景监控规训（disciplina）。教师凭借“激活者”权威在暗中支配课堂，借由学生成为自身教师的修辞掩盖了微观支配关系；同时，该模式将所有教学维度均质化为[[Effect Size|效应量]]操作，彻底排除了[[Didaktik|欧陆教学论]]对学科实质内容正当性与[[Bildung|精神教化]]（doctrina）的审议。[[Argument_Terhart_2011_JCS|(Terhart, 2011, pp. 430–435)]]

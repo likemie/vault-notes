@@ -25,6 +25,7 @@ related_concepts:
   - "[[South-South Cooperation]]"
   - "[[Discourse]]"
   - "[[People-to-People Connectivity]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Mutual Learning]]"
   - "[[Technology Transfer]]"
@@ -55,14 +56,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-20
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_King_2020_ECNUROE"
 argument_key: "Argument_King_2020_ECNUROE"
 argument_display_title: "China–Africa education cooperation: From FOCAC to Belt and Road"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 23
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -83,7 +84,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 中非合作论坛第六届（2015）与第七届（2018）峰会行动计划、[[Ministry of Education of the People's Republic of China|中国教育部]]2016年《推进共建“一带一路”教育行动》以及2019年“一带一路”建设进展报告。
 > - **张力** 平等互惠的南南合作双向修辞与实际以单向奖学金培训为主的资源配置之间的张力；泛非层面的宏观指标承诺与务实双边磋商执行机制之间的分工张力；中非合作论坛区域机制与“一带一路”超大陆教育共同体愿景之间的嵌套关系。
-> - **贡献** [[Kenneth King|肯尼斯·金]]（Kenneth King）首次在学术文献中系统比对中非合作论坛与“一带一路”教育行动的人力资源承诺，揭示中国对非教育合作从单向高等教育奖学金供给向深度产教协同（如[[Luban Workshop|鲁班工坊]]）、制度化联合研究（如[[Sino-Africa Joint Research Center|中非联合研究中心]]）以及全方位文明互鉴网络演进的政策逻辑。
+> - **贡献** [[Kenneth King|肯尼斯·金]]（Kenneth King）首次在学术[[Document|文献]]中系统比对中非合作论坛与“一带一路”教育行动的人力资源承诺，揭示中国对非教育合作从单向高等教育奖学金供给向深度产教协同（如[[Luban Workshop|鲁班工坊]]）、制度化联合研究（如[[Sino-Africa Joint Research Center|中非联合研究中心]]）以及全方位文明互鉴网络演进的政策逻辑。
 
 ---
 
@@ -130,10 +131,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　中非论坛确立平等合作原则，大幅扩大培训规模并共建实体机构
+> [!claim|step] 论证步骤一　中非论坛确立平等合作原则，大幅扩大培训规模并共建实体机构
 > [[Forum on China-Africa Cooperation|中非合作论坛]]自2000年创立以来，始终将高等教育与人力资源培训作为合作支柱。文件表述通过平等互惠用语确立非洲的主体参与地位；在第六届与第七届峰会上，政府奖学金与培训名额大幅翻倍，合作载体也由短期项目全面转向共建实体机构。
 
-#### 1. 双边协商确立平等合作地位，但资源投入仍以中方单向供给为主
+> [!sub-claim] 1. 双边协商确立平等合作地位，但资源投入仍以中方单向供给为主
 
 中非合作论坛在官方文件中系统摒弃传统援助术语，着力构建平等的[[South-South Cooperation|南南合作]]关系。
 
@@ -148,7 +149,7 @@ issuing_organization: ""
 > - **双向平等的协商话语（蓝方）** 政策文本系统强调双向交流与互利共赢。约翰内斯堡行动计划文化章节中 21 项条款以“双方”为主语（仅 6 项以“中方”为主语），并为非洲学者提供访华平台，确立了非洲的主权能动性。
 > - **单向供给的物质现实（红方）** 人力资源开发指标实质上依赖出资国单向资源供给。中国单向提供数万个政府全额奖学金名额，境内机构单向承办短期业务培训，大型实训基地亦由中国中央财政出资援建。
 
-#### 2. 峰会培训配额成倍增长，合作方式升级为共建实体机构与高职基地
+> [!sub-claim] 2. 峰会培训配额成倍增长，合作方式升级为共建实体机构与高职基地
 
 第六届约翰内斯堡峰会（2015）与第七届北京峰会（2018）接连出台大规模教育资助方案，推动对非合作由分散的流动资助升级为常设实体机构建设。
 
@@ -184,10 +185,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　“一带一路”教育行动超越双边模式，构建跨区域多边合作网络
+> [!claim|step] 论证步骤二　“一带一路”教育行动超越双边模式，构建跨区域多边合作网络
 > 中国教育部2016年发布的《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》将教育置于[[People-to-People Connectivity|民心相通]]的社会基石地位，构建起覆盖亚非欧三大洲的教育合作框架，在覆盖范围、制度对接和产教结合上全面扩展了中非合作论坛的既有模式。
 
-#### 1. 教育合作以[[People-to-People Connectivity|民心相通]]为导向，为跨国经贸与基础设施投资凝聚民意
+> [!sub-claim] 1. 教育合作以[[People-to-People Connectivity|民心相通]]为导向，为跨国经贸与基础设施投资凝聚民意
 
 在“一带一路”互联互通布局中，教育不仅是一项独立的对外交流事业，更承担着为基础设施建设、贸易畅通与资金融通培育民意基础的社会纽带功能。
 
@@ -217,7 +218,7 @@ issuing_organization: ""
 > 3. **共建多边协同平台，强化战略科技联合研发**
 >    组建大学联盟与智库网络，在交通、能源、海洋等战略领域联合设立研究实验室与[[Technology Transfer|技术转移]]基地。
 
-#### 2. 合作由单纯资助留学生转向产教协同，直接服务重大产业与基建项目
+> [!sub-claim] 2. 合作由单纯资助留学生转向产教协同，直接服务重大产业与基建项目
 
 《推进共建“一带一路”教育行动》明确提出优化留学人员结构，并推动高水平职业教育伴随中资企业出海，实现教育与产业的深度融合。
 
@@ -240,10 +241,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　传统文化理念凝聚合作共识，常态磋商与督查保障项目高效落实
+> [!claim|step] 论证步骤三　传统文化理念凝聚合作共识，常态磋商与督查保障项目高效落实
 > 中国对外教育合作展现出较强的政策执行力，这一方面得益于传统文化思想资源为南南合作凝聚了广泛道义共识，另一方面依托全非宏观承诺与国别双边磋商相结合的常态化督查推进机制。
 
-#### 1. 引入儒家理念与非洲谚语，以互学互鉴化解地缘竞争思维
+> [!sub-claim] 1. 引入儒家理念与非洲谚语，以互学互鉴化解地缘竞争思维
 
 政策文件广泛汲取中非传统思想资源，强调文明互学互鉴，展现出不同于[[Classical Geopolitics|传统地缘政治]]零和博弈的合作话语。
 
@@ -262,7 +263,7 @@ issuing_organization: ""
 > | 话语基调 | 突出意识形态优越感与制度规训 | 突出包容共存、民心相通与[[Community of Shared Future for Mankind\|命运共同体]]理念 |
 > | 伙伴关系定位 | 传统的捐助国—受援国等级关系，往往附加政治治理条件 | 强调平等协商、相互支持与不干涉内政的南南合作 |
 
-#### 2. 全非宏观指标对接国别具体项目，常态化督查确保承诺如期兑现
+> [!sub-claim] 2. 全非宏观指标对接国别具体项目，常态化督查确保承诺如期兑现
 
 在具体实施机制上，中非合作论坛采取全非宏观承诺与国别双边磋商相结合的推进模式，由中方后续行动委员会同在京非洲使团保持常态对接与进度跟踪。
 

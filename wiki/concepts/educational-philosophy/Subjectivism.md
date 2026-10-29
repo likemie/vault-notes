@@ -9,7 +9,7 @@ aliases:
 summary: "社会科学与教育研究的基本认识论与方法论取向，将社会世界视为主观意识、语言符号与人造意义的建构产物；在组织与方法论上持唯名论、反实证主义、意志论与个例式假定，在比较教育学史中历经战后实证范式的系统清洗、批判二元论的情境整合以及后现代思潮对多元真理体制的重新合法化。"
 type: concept
 domain: "educational-philosophy"
-related_count: 51
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Idiographic]]"
   - "[[Positivism]]"
+  - "[[Regimes of Truth]]"
   - "[[Intentionality]]"
   - "[[Falsification]]"
   - "[[Absolutist]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Voluntarism]]"
   - "[[Research Purpose]]"
   - "[[Externalization]]"
+  - "[[Scientific Paradigm]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Grand Theory]]"
@@ -79,13 +81,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Subjectivism
-> **主观主义（Subjectivism）** 是社会科学与教育研究的基本[[Epistemology\|认识论]]与方法论取向，在吉布森·伯勒尔与加雷斯·摩根（Gibson Burrell & Gareth Morgan）的社会学[[Analytic Framework\|分析框架]]中代表主观—客观维度的关键一极。该取向将社会世界视为主观意识与人际互动创造的产物，主张研究的核心使命在于理解个体如何创造、修正与解释其所置身的世界；关注独特的[[Idiographic\|个例式]]案例而非抽象的普适定律，强调相对主义的社会现实而非绝对主义的外部客观存在。在教育学与比较教育学史中，主观主义既构成了历史人文传统的阐释基石，也在战后经历了[[Positivism\|实证主义范式]]的系统清洗、批判理性主义的情境整合以及后现代思潮对多元真理体制的重新合法化。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 60–62, 68–69)]]
+> **主观主义（Subjectivism）** 是社会科学与教育研究的基本[[Epistemology\|认识论]]与方法论取向，在吉布森·伯勒尔与加雷斯·摩根（Gibson Burrell & Gareth Morgan）的社会学[[Analytic Framework\|分析框架]]中代表主观—客观维度的关键一极。该取向将社会世界视为主观意识与人际互动创造的产物，主张研究的核心使命在于理解个体如何创造、修正与解释其所置身的世界；关注独特的[[Idiographic\|个例式]]案例而非抽象的普适定律，强调相对主义的社会现实而非绝对主义的外部客观存在。在教育学与比较教育学史中，主观主义既构成了历史人文传统的阐释基石，也在战后经历了[[Positivism\|实证主义范式]]的系统清洗、批判理性主义的情境整合以及后现代思潮对多元[[Regimes of Truth|真理体制]]的重新合法化。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]; [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 60–62, 68–69)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向人类行动者的主观经验、价值信仰、[[Intentionality|意向性]]与意义诠释对社会现实的建构性作用。
@@ -156,10 +158,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　社会与组织实在是个体主观赋予意义与文化诠释的产物而非独立于知者的客观实体
-
-> [!concept-lens] [[Nominalism\|唯名论]]本体与[[Interpretive Paradigm\|反实证主义]]建构
-> 主观主义学者从根本上颠覆了[[Positivism\|实证主义]]的实在论假定，主张社会制度、组织规则乃至学校架构并非天然存在的物质对象，而是行动者在日常交往中不断赋予意义、解释并维持的观念构建物。
+> [!concept-proposition] 命题一｜社会与组织实在是个体主观赋予意义与文化诠释的产物而非独立于知者的客观实体
+> **探讨维度　[[Nominalism\|唯名论]]本体与[[Interpretive Paradigm\|反实证主义]]建构** 主观主义学者从根本上颠覆了[[Positivism\|实证主义]]的实在论假定，主张社会制度、组织规则乃至学校架构并非天然存在的物质对象，而是行动者在日常交往中不断赋予意义、解释并维持的观念构建物。
 
 > [!claim] Burrell, G. & Morgan, G.
 > **个体主观经验对社会世界的建构律** 伯勒尔与摩根指出，主观主义研究取向的核心在于关注个体如何创造、修正和解释其身处的世界。社会世界本质上是一个主观的、相对主义的意义系统，而非独立于人类知觉之外的客观物质实体；研究者绝不能采用自然科学剥离主体经验的外在测量方式，而必须投身于行动者的生活经验中，通过[[Idiographic\|个例式]]进路理解具体情境下社会行动的主观规则。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]
@@ -169,10 +169,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　战后实证科学范式视主观主义为学科科学化的首要障碍并力图通过量化与变量控制清洗观察者偏见
-
-> [!concept-lens] 战后[[Behaviorism|行为主义]]革命与去主观化运动
-> 20 世纪 50 至 60 年代，伴随行为主义革命与对自然科学工程成就的崇拜，教育与社会科学界掀起了一场激烈的去主观化运动，将主观主义、印象主义与价值沉思视为前科学阶段的严重弊端并予以系统清理。
+> [!concept-proposition] 命题二｜战后实证[[Scientific Paradigm|科学范式]]视主观主义为学科科学化的首要障碍并力图通过量化与[[Variable|变量]]控制清洗观察者偏见
+> **探讨维度　战后[[Behaviorism|行为主义]]革命与去主观化运动** 20 世纪 50 至 60 年代，伴随行为主义革命与对自然科学工程成就的崇拜，教育与社会科学界掀起了一场激烈的去主观化运动，将主观主义、印象主义与价值沉思视为前科学阶段的严重弊端并予以系统清理。
 
 > [!claim] Templeton, R. G.
 > **清洗主观主义作为确立学科科学地位的首要前提** 罗伯特·坦普尔顿（Robert G. Templeton）及战后实证派学者明确指出，比较教育学若要在学术体制中获得与现代社会科学平起平坐的合法地位，其首要前提便是彻底废除主观主义、印象主义、道德思辨、直觉洞察与先验偏见（Templeton, 1958; Epperson & Schmuck, 1963; Clayton, 1972）。批评者指责古典历史学派过度依赖学者个人的直觉顿悟与道德热望，充斥着难以检验的价值偏见与主观随意性，无法为战后迫切的制度重建提供确定可靠的经验依据。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 61–62)]]
@@ -182,10 +180,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题三　批判二元论与后现代多元思潮超越了机械客观主义并重新确立了主观阐释的认识论合法性
-
-> [!concept-lens] 批判理性情境综合与后现代真理体制复数化
-> 经历实证量化[[Paradigm\|范式]]在实践中的合法化异化与现实规划承诺破产后，学界通过[[Critical Dualism\|批判二元论]]将主观信念整合为情境分析的规范要素，并在后现代思潮中恢复了主观主义与质性进路的同等学术尊严。
+> [!concept-proposition] 命题三｜[[Critical Dualism|批判二元论]]与后现代多元思潮超越了机械[[Objectivism|客观主义]]并重新确立了主观阐释的[[Epistemology|认识论]]合法性
+> **探讨维度　批判理性情境综合与后现代[[Regimes of Truth|真理体制]]复数化** 经历实证量化[[Paradigm\|范式]]在实践中的合法化异化与现实规划承诺破产后，学界通过[[Critical Dualism\|批判二元论]]将主观信念整合为情境分析的规范要素，并在后现代思潮中恢复了主观主义与质性进路的同等学术尊严。
 
 > [!claim] [[Brian Holmes\|Holmes, B.]]
 > **规范法则对行动者主观精神与文化理想的情境化包容** [[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes）对美国经验派将民族文化特质与行动者主观偏好彻底放逐的机械[[Objectivism\|客观主义]]发起了深刻清算。基于[[Karl Popper\|卡尔·波普尔]]（Karl Popper）的[[Critical Dualism\|批判二元论]]，霍姆斯将人类主观信念、道德理想与价值诉求定义为“规范法则”（由人类设立且可被人自主废除的准则），断言若要理解学校运行，就必须系统考掘这些构成制度深层背景的主观文化规范，从而在假说-演绎[[Problem Approach\|问题法]]中实现了客观机构规律与主观文化意向的辩证统一。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 62–63, 66–67)]]

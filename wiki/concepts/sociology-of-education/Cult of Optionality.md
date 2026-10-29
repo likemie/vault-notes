@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -63,20 +63,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　选择权最大化驱动精英人才从实体创造向金融与咨询等中介行业群体性漂移
-
-> [!concept-lens] 职业流动与社会资本分配
-> 考察选择权崇拜如何深刻扭曲高等教育的人才导向，导致顶尖智力资源从前沿工程、人文学科与公共治理领域流失。
+> [!concept-proposition] 命题一｜选择权最大化驱动精英人才从实体创造向金融与咨询等中介行业群体性漂移
+> **探讨维度　职业流动与社会资本分配** 考察选择权崇拜如何深刻扭曲高等教育的人才导向，导致顶尖智力资源从前沿工程、人文学科与公共治理领域流失。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **智力资源的避险转移** 对选择权的无休止追逐导致当代最优秀的一代头脑普遍游离于重大历史与现实问题之外；哈佛大学等顶尖学府毕业生近半数涌向金融与管理咨询业，正是选择权崇拜在职业选择中的制度化体现。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 75–76)]]
 
 ---
 
-### 命题二　缺乏破釜沉舟勇气的永久准备状态扼杀了实质性突破与人格成长
-
-> [!concept-lens] 创新心理与失败机制
-> 探讨真正的开创性成就为何必须以断绝退路、承担实质性失败为前提。
+> [!concept-proposition] 命题二｜缺乏破釜沉舟勇气的永久准备状态扼杀了实质性突破与人格成长
+> **探讨维度　创新心理与失败机制** 探讨真正的开创性成就为何必须以断绝退路、承担实质性失败为前提。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **断绝退路作为卓越创新的前提** 真正的成功或具有启发意义的失败，要求行动者近乎不顾一切地投身于某项事业；无处不在的备用计划与妥协本能消解了年轻人的智识勇气，使其沦为平庸的履历制造者。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 70)]]

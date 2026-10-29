@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -65,10 +65,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　大学向行政看护者的蜕化使青年知识分子丧失了抵御思想操纵的批判性免疫力
-
-> [!concept-lens] 教育体制与主体性培育
-> 论述系统性表达与反思自身信念的[[Liberal Education|博雅教育]]，是抵御思想沦为他人工具的唯一防线。
+> [!concept-proposition] 命题一｜大学向行政看护者的蜕化使青年知识分子丧失了抵御思想操纵的批判性免疫力
+> **探讨维度　教育体制与主体性培育** 论述系统性表达与反思自身信念的[[Liberal Education|博雅教育]]，是抵御思想沦为他人工具的唯一防线。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **心智产品化的防御机制** 真正教育的根本目的，在于引导学生系统性地表达、审视并捍卫自身的实质信念；唯有重建对历史矛盾与世界运动保持好奇与担当的[[Engineering Education|工程教育]]，才能防止一代人的头脑被商业与政治寡头彻底产品化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 76)]]

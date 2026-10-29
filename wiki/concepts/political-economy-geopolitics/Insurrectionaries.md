@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义渐进变迁理论中的四类变革行动者之一，长期谋求彻底推翻旧制度，短期采取公开违规与正面对抗策略；在弱否决可能性与低解释执行裁量权下驱动制度置换，在联盟博弈中必须拉拢摇摆的机会主义者跨过临界阈值以实现突破"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Institutional Layering]]"
   - "[[Institutional Drift]]"
   - "[[Institutional Conversion]]"
+  - "[[Zone of Discretion]]"
   - "[[Paradigm]]"
   - "[[Avatar]]"
   - "[[Determinism]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -108,30 +109,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　反体制诉求与公开违规策略将起义者直接锚定于制度置换模式
-
-> [!concept-lens] 变迁形态选择维度
-> 探讨激进反对者的策略组合如何与特定的制度变迁形态形成内在因果亲和力。
+> [!concept-proposition] 命题一｜反体制诉求与公开违规策略将起义者直接锚定于[[Institutional Displacement|制度置换]]模式
+> **探讨维度　变迁形态选择维度** 探讨激进反对者的策略组合如何与特定的制度变迁形态形成内在因果亲和力。
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & Thelen, K. (2009)
-> **排他性目标诱发[[Institutional Displacement|制度置换]]** 起义者的目标既不是如[[Subversives|颠覆者]]那样在旧核心边缘做增量补充（层叠），也不是如[[Symbionts|共生者]]那样利用缝隙套利（漂移），更不是如[[Opportunists|机会主义者]]那样顺应规则进行重定向转用（转换）。起义者的长期终结意图与短期公开抵制，决定了其只能走向彻底清除旧规则或引入全新规则体系与旧规则展开正面对决；在弱否决阻力与低裁量空间下，这一逻辑直接驱动了制度置换（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 23–24, 28]]）。
+> **排他性目标诱发[[Institutional Displacement|制度置换]]** 起义者的目标既不是如[[Subversives|颠覆者]]那样在旧核心边缘做增量补充（层叠），也不是如[[Symbionts|共生者]]那样利用缝隙套利（漂移），更不是如[[Opportunists|机会主义者]]那样顺应规则进行重定向转用（转换）。起义者的长期终结意图与短期公开抵制，决定了其只能走向彻底清除旧规则或引入全新规则体系与旧规则展开正面对决；在弱否决阻力与低[[Zone of Discretion|裁量空间]]下，这一逻辑直接驱动了制度置换（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 23–24, 28]]）。
 
 ---
 
-### 命题二　起义者主导渐进置换源于短期博弈约束而非妥协退让
-
-> [!concept-lens] 渐进演化动力学维度
-> 阐明为何激进革命型行动者在特定情境下会成为长周期渐进变迁的因果载体。
+> [!concept-proposition] 命题二｜起义者主导渐进置换源于短期博弈约束而非妥协退让
+> **探讨维度　渐进演化动力学维度** 阐明为何激进革命型行动者在特定情境下会成为长周期渐进变迁的因果载体。
 
 > [!claim] Mahoney, J. & Thelen, K. (2009)
 > **渐进演替作为约束下的次优推进** 传统观点常将起义者等同于瞬间发生的革命或外生危机爆发。马奥尼与希伦指出，起义者的理想目标永远是急速推翻旧体制；然而，当守旧力量仍掌握一定抵抗资源但无法完全封杀新规则引入时，起义者会策略性地开辟平行的替代性制度轨道。随着越来越多的参与者背叛旧体制并转移至新规则，渐进置换实质上是起义者在能力受限下采取的蚕食战略，其反体制内核从未发生动摇（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 24]]）。
 
 ---
 
-### 命题三　向中立机会主义者传递胜选信号是起义者打破政治僵局的关键前提
-
-> [!concept-lens] 联盟政治与级联突破维度
-> 揭示弱势起义少数派如何通过策略性联盟构建克服制度现状偏误。
+> [!concept-proposition] 命题三｜向中立机会主义者传递胜选信号是起义者打破政治僵局的关键前提
+> **探讨维度　联盟政治与级联突破维度** 揭示弱势起义少数派如何通过策略性联盟构建克服制度现状偏误。
 
 > [!claim] Mahoney, J. & Thelen, K. (2009)
 > **临界动员与级联滚雪球效应** 既有制度天然享有报酬递增与维持现状的结构优势，起义者通常在初期处于人数劣势与体制边缘。起义者必须在制度挑战者阵营中广泛联合，但单凭挑战者自身难以撼动大局；成功的关键在于能否向庞大规避风险的中间机会主义群体证明“变革不可逆”。一旦起义抗争突破临界阈值，机会主义者将迅速改变表露偏好集体倒戈，从而引发势不可挡的制度替换浪潮（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 30–31]]）。

@@ -19,6 +19,7 @@ tags:
   - welfare-to-work
   - randomized-experiments
 related_concepts:
+  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Policy Mobility]]"
   - "[[Evidence-Based Policy-Making]]"
@@ -30,6 +31,7 @@ related_concepts:
   - "[[Hard Policy Transfer]]"
   - "[[Chain of Evidence]]"
   - "[[Policy Borrowing]]"
+  - "[[Scientific Method]]"
   - "[[Demonstration Effect]]"
   - "[[New Public Management]]"
   - "[[Heterogeneity]]"
@@ -64,14 +66,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Legrand_2012_PolStud"
 argument_key: "Argument_Legrand_2012_PolStud"
 argument_display_title: "Overseas and over here: policy transfer and evidence-based policy-making"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -84,7 +86,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 为什么政策行动者会主动跨国吸纳特定国家的政策经验？既有政策转移（Policy Transfer）框架多将跨国借鉴归因于外部制度强制、全球化竞争压力或政党意识形态亲和，未能充分解释在缺乏外部强制的情境下，战略行动者为何倾向于选择特定国家而非其他同质国家的微观动力机制；同时，在转移客体层次（即转移什么）上，既有文献往往局限于政策[[Discourse|话语]]、价值理念与方案法律文本，忽视了量化评价技术与实证研究规程在跨国[[Policy Mobility|政策流动]]中所承担的关键载体功能。
+> 为什么政策行动者会主动跨国吸纳特定国家的政策经验？既有政策转移（Policy Transfer）框架多将跨国借鉴归因于外部制度强制、全球化竞争压力或政党意识形态亲和，未能充分解释在缺乏外部强制的情境下，战略行动者为何倾向于选择特定国家而非其他同质国家的微观动力机制；同时，在转移客体层次（即转移什么）上，既有[[Document|文献]]往往局限于政策[[Discourse|话语]]、价值理念与方案法律文本，忽视了量化评价技术与实证研究规程在跨国[[Policy Mobility|政策流动]]中所承担的关键载体功能。
 
 > [!claim] 核心主张
 > 英国新工党政府推行的[[Evidence-Based Policy-Making|证据本位政策制定]]（Evidence-Based Policy-Making, EBPM）与何者有效（What Works）[[Paradigm|范式]]，不仅构成了其从美国借用[[Welfare-to-Work|福利到工作]]（Welfare-to-Work）方案的关键决策动力，更催生了跨国政策转移载体的深层拓展——即美国以[[Random Assignment|随机分配]]（Random Assignment）为代表的社会实验量化评估技术与专业评估机构被成套植入英国国家治理体系，形成了深层的[[Methodology Transfer|方法论转移]]。
@@ -145,10 +147,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　新工党何者有效循证范式重塑了跨国政策学习的制度环境
+> [!claim|step] 论证步骤一　新工党何者有效循证范式重塑了跨国政策学习的制度环境
 > 传统政策转移研究偏重意识形态契合或外部强制，忽视了自主借用背后的实际动因；英国新工党确立的[[Evidence-Based Policy-Making|循证决策]]规范，促使行政体系优先搜寻具备严密评估记录的海外方案。
 
-#### 1. 既有政策转移框架缺乏因果驱动机制与客体技术维度的审视
+> [!sub-claim] 1. 既有政策转移框架缺乏因果驱动机制与客体技术维度的审视
 
 戴维·多洛维茨与戴维·马什（Dolowitz & Marsh, 1996, 2000）提出的分析模型将[[Policy Mobility|政策流动]]置于自愿借鉴与外部强制构成的连续谱系中，但对战略行动者自愿开展跨国搜寻的深层机制阐述不足。
 
@@ -166,7 +168,7 @@ issuing_organization: ""
 > - **分类清单缺乏因果解释** 传统的转移模型更偏向描述性的分类框架，未能阐明特定类型转移为何仅在特定国家与时空触发 (Benson & Jordan, 2011; James & Lodge, 2003)。
 > - **意识形态亲和论解释力不足** 将托尼·布莱尔（Tony Blair）政府对美国模式的借用笼统归结为第三条道路哲学共鸣 (Blair, 1997; Driver, 2004; Giddens, 1998, 2000)，既无法解释为何同样秉持第三条道路先驱理念的澳大利亚方案未被全盘采纳 (Pierson, 2003; Pierson & Castles, 2002)，也无法解释官员对具体操作组件的细致取舍。
 
-#### 2. 英国中央政府将经验科学证据确立为政策合法性的硬性门槛
+> [!sub-claim] 2. 英国中央政府将[[Scientific Method|经验科学]]证据确立为政策合法性的硬性门槛
 
 1997 年新工党执政后，力图打破以往基于政党教条的决策模式，明确提出务实有效才是优良治理的施政原则，将实证数据提升为政策制定的前置条件。
 
@@ -185,10 +187,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　美国福利改革的深厚实验评估积累契合了英国官员的循证刚需
+> [!claim|step] 论证步骤二　美国福利改革的深厚实验评估积累契合了英国官员的循证刚需
 > 英国官员在推进新政（New Deal）劳动力市场改革时，舍弃瑞典、新西兰与澳大利亚经验而坚定对标美国，关键在于美国各州长期开展的福利改革实验积累了大量经过严格评估验证的因果数据，满足了英国高层应对循证审查的说服需求。
 
-#### 1. 美国自 1980 年代确立的州级试点与强制随机实验传统奠定了数据优势
+> [!sub-claim] 1. 美国自 1980 年代确立的州级试点与强制随机实验传统奠定了数据优势
 
 美国在 1996 年颁布《个人责任与工作机会和解法案》（Personal Responsibility and Work Opportunity Reconciliation Act, PRWORA）之前，地方州已积累了系统的实验经验。
 
@@ -200,7 +202,7 @@ issuing_organization: ""
 
 这一连贯的制度积累使美国方案在评估严密性上显著领先于其他发达国家，成为英国官员决策的核心考量。
 
-#### 2. 跨国方案横向比对展现英国决策官僚依据证据完备度进行的理性淘汰
+> [!sub-claim] 2. 跨国方案横向比对展现英国决策官僚依据证据完备度进行的理性淘汰
 
 对参与新政设计的核心决策官员开展的[[In-depth Interview|深度访谈]]证实，面对大臣们对实证成效的严苛要求，政策制定者主动调动美国的现成评估数据来为本土改革辩护。
 
@@ -220,10 +222,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　跨国借用从政策理念深化为实验评估技术与专业机构的硬转移
+> [!claim|step] 论证步骤三　跨国借用从政策理念深化为实验评估技术与专业机构的硬转移
 > 英国从美国吸收的不仅是[[Welfare-to-Work|福利到工作]]的治理概念与工作优先规范，而且将以随机分配为代表的实证评估规程及美方专业智库成套引入英国本土，实现了政策评估工具与操作规程的跨国[[Hard Policy Transfer|硬转移]]。
 
-#### 1. 循证导向推动随机分配实验规程突破本土政治伦理争议
+> [!sub-claim] 1. 循证导向推动随机分配实验规程突破本土政治伦理争议
 
 1997 年底，英国下议院社会保障特别委员会赴美调研后建议，英国应当引入更具弹性的试点与区域性实验，以实现更加聚焦集约的因果评估 (House of Commons Social Security Select Committee, 1998)。然而，将[[Experimental Research|实验设计]]植入社会政策领域必然遭遇深刻的价值冲突。
 
@@ -231,7 +233,7 @@ issuing_organization: ""
 > - **残障人士项目评估受阻** 2002 年，DWP 尝试在残障人士新政（New Deal for Disabled People, NDDP）中采用美式随机对照实验，但因设置不享受补贴的对照组而遭到社会倡导团体强烈抗议，被指责违背伦理、歧视弱势群体，导致项目一度搁浅 (Prasad, 2002)。
 > - **循证需求推动更大规模实验立项** 尽管面临伦理争议，决策层对严格因果检验的追求并未中断。DWP 随后于 2002 年正式立项启动英国[[Employment Retention and Advancement|就业留任与晋升]]（Employment Retention and Advancement, ERA）示范项目，成为英国社会政策史上规模最大的随机对照实验。
 
-#### 2. 英国就业留任与晋升示范项目成套吸纳美方设计并由美方智库实施
+> [!sub-claim] 2. 英国就业留任与晋升示范项目成套吸纳美方设计并由美方智库实施
 
 英国 ERA 示范项目全面借鉴了美国卫生与公众服务部此前开展的同名实验，不仅在方案上复制其双重激励设计，更直接交由美国专业团队落地执行。
 

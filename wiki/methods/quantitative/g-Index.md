@@ -8,7 +8,7 @@ summary: "由 Leo Egghe (2006) 提出的文献计量指标，以被引最高的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 4
+method_related_count: 7
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -21,8 +21,11 @@ tags:
   - theme/research-evaluation
 related_concepts:
   - "[[Research Impact]]"
+  - "[[Unit of Analysis]]"
+  - "[[Construct Validity]]"
 related_theories: []
 related_methods:
+  - "[[Author Name Disambiguation]]"
   - "[[h-Index]]"
   - "[[Bibliometric Analysis]]"
 related_instruments: []
@@ -39,24 +42,24 @@ updated: 2026-10-29
 ---
 
 > [!def] g-Index
-> **g 指数（g-Index）** 由里奥·艾格（Leo Egghe）于 2006 年提出，是 [[h-Index|h 指数]]的修正指标。把学者论著按被引次数降序排列，被引最高的 $g$ 篇累计被引至少 $g^2$ 次的最大整数即为 $g$。它允许高被引论著的超额引用进入数值，补足 $h$ 指数对奠基性成果的钝感。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–26)]]
+> **g 指数（g-Index）** 由里奥·艾格（Leo Egghe）于 2006 年提出，是 h 指数的修正指标。把学者论著按被引次数降序排列，被引最高的 $g$ 篇累计被引至少 $g^2$ 次的最大整数即为 $g$。它允许高被引论著的超额引用进入数值，补足 $h$ 指数对奠基性成果的钝感。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–26)]]
 
 > [!method-scope] 方法范围
 > - **测量或估计对象** 学者核心论著的累积学术影响，对应 [[Research Impact]]。
 > - **问题类型** 描述与评价学者的累积学术成就，尤其是有高被引代表作的学者。
-> - **分析单位** 学者个人，或团队、机构的论著集合。
-> - **输入数据** 学者全部论著的逐篇被引次数，需完成作者姓名消歧。
+> - **[[Unit of Analysis|分析单位]]** 学者个人，或团队、机构的论著集合。
+> - **输入数据** 学者全部论著的逐篇被引次数，需完成[[Author Name Disambiguation|姓名消歧]]。
 > - **输出形式** 一个非负整数 $g$，且恒有 $g \ge h$。
 
 > [!citation-card] 高被引成果在 h 指数中不可见
 > h 指数的主要优势是它的数值不会被单次偶然成功抬高，但这也意味着它忽视了研究者最有影响力的工作。论著被引一旦超过 h，其相对重要性在 h 指数中就不可见了。为此学界提出了 g 指数等多种补救方案。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 25)]]
 >
-> *The main advantage of the h-index is that its value is not boosted by a single runaway success. Yet this also means that it neglects the most impactful work of a researcher. Indeed, once a paper’s citations get above h, its relative importance becomes invisible to the h-index. Many remedies have been proposed to correct for this, including the g-index.*
+> *The main advantage of the [[h-Index|h-index]] is that its value is not boosted by a single runaway success. Yet this also means that it neglects the most impactful work of a researcher. Indeed, once a paper’s citations get above h, its relative importance becomes invisible to the h-index. Many remedies have been proposed to correct for this, including the g-index.*
 
 ---
 
 > [!method-position] 方法定位
-> - **构念效度** 用累计被引代替逐篇门槛，高被引论著的影响得以计入；代价是对少数极高被引论著更敏感。
+> - **[[Construct Validity|构念效度]]** 用累计被引代替逐篇门槛，高被引论著的影响得以计入；代价是对少数极高被引论著更敏感。
 > - **研究者判断** 数据库、成果类型、自引处理与消歧方式都会改变 $g$。
 > - **不声称回答的问题** 不能跨学科直接比较，不能识别合著中的个人贡献，也不用于评价单篇论著。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 25–26)]]
 

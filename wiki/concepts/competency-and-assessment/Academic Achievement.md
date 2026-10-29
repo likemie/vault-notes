@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（Official Academic Achievement, OAA）、预估总评成绩（Estimated Overall Academic Achievement, EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 161
+related_count: 166
 related_level: 16
 related_stars: "💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Simplicity of Knowledge]]"
   - "[[Ways of Knowing]]"
   - "[[Learned Helplessness]]"
+  - "[[Theoretical Validity]]"
   - "[[Measurement Alignment]]"
   - "[[Dependent Variable]]"
   - "[[Developer-Made Measures]]"
@@ -67,6 +68,7 @@ related_concepts:
   - "[[Small Group Tuition]]"
   - "[[Class Size]]"
   - "[[Heterogeneity]]"
+  - "[[Student Motivation]]"
   - "[[Learning Strategies]]"
   - "[[International Large-Scale Assessments]]"
   - "[[School Inspection]]"
@@ -96,6 +98,8 @@ related_concepts:
   - "[[Deficit Framing]]"
   - "[[Critical Thinking]]"
   - "[[Problem-Based Learning]]"
+  - "[[Document]]"
+  - "[[Achievement and Aptitude Tests]]"
   - "[[Rote Learning]]"
   - "[[Tutoring Interventions]]"
   - "[[Gender Differences in Academic Achievement]]"
@@ -186,10 +190,11 @@ related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Erdem_2026_SHE]]"
   - "[[Argument_Larsen_2019_EducSci]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
 confidence: high
 status: active
 created: 2026-08-15
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 （学业成就）
@@ -264,10 +269,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　学业成就的认知加工层级与任务结构共同调节认识论信念的预测效能
-
-> [!concept-lens] 认知深度与[[Task Structure|任务结构]]的双重边界假设
-> 探讨学生的深层[[Epistemological Beliefs|认识论信念]]何时能够有效转化为显性学业成就，剖析认知加工深度与任务结构化程度所构成的联合调节机制。
+> [!concept-proposition] 命题一｜学业成就的认知加工层级与[[Task Structure|任务结构]]共同调节[[Epistemological Beliefs|认识论信念]]的预测效能
+> **探讨维度　认知深度与[[Task Structure|任务结构]]的双重边界假设** 探讨学生的深层[[Epistemological Beliefs|认识论信念]]何时能够有效转化为显性学业成就，剖析认知加工深度与任务结构化程度所构成的联合调节机制。
 
 > [!claim] [[Argument_Greene_2018_JEP|Greene et al. (2018)]]
 > **认知加工层级的阶梯式敏感性** 测量任务所要求的认知加工越复杂深层，学业成就与学生深层认知信念的相关性就越显著。大规模[[Meta-analysis|元分析]]证据表明，[[Epistemic Cognition|认识论认知]]能够稳健且正向地预测概念性知识掌握与高阶论证辩护水平，对零散事实与陈述性知识的预测效力显著减弱，而对机械套用规则的程序性运算则呈现脱节状态。深层认识论信念只有在面对需要原理迁移、概念网络重构与多源论据权衡的高阶学业考核时，才能发挥实质性的促学价值。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]
@@ -277,10 +280,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　学生学业成就的水平梯度与性别优势深植于能力可塑性观与反思性认识方式
-
-> [!concept-lens] 学业分化中的认识信念与[[Ways of Knowing|认知方式]]根源
-> 探讨学生长期学业成绩的优劣分化以及群体间性别差异背后的心理机制，阐明能力可塑性观与认知方式如何驱动差异化学习产出。
+> [!concept-proposition] 命题二｜学生学业成就的水平梯度与性别优势深植于能力可塑性观与反思性认识方式
+> **探讨维度　学业分化中的认识信念与[[Ways of Knowing|认知方式]]根源** 探讨学生长期学业成绩的优劣分化以及群体间性别差异背后的心理机制，阐明能力可塑性观与认知方式如何驱动差异化学习产出。
 
 > [!claim] [[Argument_Lodewyk_2007_EducPsych|Lodewyk (2007)]]; [[Argument_Greene_2010_JEP|Greene et al. (2010)]]
 > **高低学业阶梯中的信念断层与恶性循环** 学生长期学业成绩的优劣分化与能力可塑性信念及知识复杂性认识紧密相关。学业优异学生普遍持有成长型能力信念与复杂知识网络观，倾向于将学习视为主动建构与概念整合的过程，从而在面对挑战时保持坚韧的自我调节；相反，学业落后群体普遍深信学习能力天生固定且知识仅为被动记忆的碎片，遇到学业困难时极易产生[[Learned Helplessness|习得性无助]]；此外，特定学科的持续失败经验会反向强化教条主义认识，促使学生滑向初级认识论阶段。[[Argument_Lodewyk_2007_EducPsych|(Lodewyk, 2007, pp. 318–320)]]; [[Argument_Greene_2010_JEP|(Greene et al., 2010)]]
@@ -290,10 +291,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题三　学业成就测量的理论效度依赖于测验客观性对齐与独立标准化工具的严格遴选
-
-> [!concept-lens] 测量工具质量准则与因果评估效度控制
-> 探讨实证研究与因果干预评估中测验工具的选取原则，剖析[[Measurement Alignment|测量对齐]]、效标锚定以及自编测验偏倚对理论结论真伪的决定性作用。
+> [!concept-proposition] 命题三｜学业成就测量的[[Theoretical Validity|理论效度]]依赖于测验客观性对齐与独立标准化工具的严格遴选
+> **探讨维度　测量工具质量准则与因果评估效度控制** 探讨实证研究与因果干预评估中测验工具的选取原则，剖析[[Measurement Alignment|测量对齐]]、效标锚定以及自编测验偏倚对理论结论真伪的决定性作用。
 
 > [!claim] [[Argument_Greene_2018_JEP|Greene et al. (2018)]]; [[Argument_Lodewyk_2007_EducPsych|Lodewyk (2007)]]
 > **客观性对齐与效标锚定机制** 学业成就测量的精细度与客观性直接决定了实证研究中理论关联的稳健性。脱离客观效标的笼统自我汇报会因主观偏倚大幅稀释学业成就与心理[[Construct|构念]]之间的真实相关，而标准化独立测验与专门工具则能灵敏捕获理论效应；当学生的平时成绩自评经过严谨指导并与学校官方教务记录建立严格的效标核验时，同样能展现极高的[[Criterion-related Validity|效标效度]]，为量化分析提供稳健的[[Dependent Variable|结果变量]]。[[Argument_Greene_2018_JEP|(Greene et al., 2018)]]; [[Argument_Lodewyk_2007_EducPsych|(Lodewyk, 2007, p. 314)]]
@@ -306,10 +305,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题四　生成式人工智能诱发终稿学业成就的表面流畅性脱钩危机并倒逼过程性评价转向
-
-> [!concept-lens] 技术中介下的表观产出与内在心智脱节
-> 探讨[[Generative Artificial Intelligence|生成式人工智能]]普及背景下，以最终文本为单一评价尺度的学业成就构念如何面临效度瓦解，以及转向过程性自适应专业特长的评价重构。
+> [!concept-proposition] 命题四｜[[Generative Artificial Intelligence|生成式人工智能]]诱发终稿学业成就的表面流畅性脱钩危机并倒逼过程性评价转向
+> **探讨维度　技术中介下的表观产出与内在心智脱节** 探讨[[Generative Artificial Intelligence|生成式人工智能]]普及背景下，以最终文本为单一评价尺度的学业成就构念如何面临效度瓦解，以及转向过程性自适应专业特长的评价重构。
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
 > **终稿表象与深层[[Cognitive Offloading|认知卸载]]的效度危机** 传统教育研究常将[[Higher-Order Thinking Skills|高阶思维]]粗放等同于一般的学业表现。生成式人工智能普及后，学生极易借助算法生成文面极其光滑、结构看似完备的表面学业成果，这种表面流畅性掩盖了深层认知卸载与批判性反思的退化。单纯依赖终稿成果（如课程长文写作或期末作品得分）已无法表征学生真实的认知建构水平，迫使学业成就评价系统从静态结果交付转向以提示词溯源链、查错反思日志与方案迭代辩护为核心的过程性评价生态。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 1–3, 11–13)]]
@@ -319,10 +316,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题五　宏观量化治理下的跨国学业成就指标具备高度话语可塑性并易被异化为国家审计考核工具
-
-> [!concept-lens] 宏观治理中的学业成就[[Discourse|话语]]建构与政治功能
-> 探讨在大规模国际评估（如 [[PISA]]）中，去情境化的学业成就指标如何从客观心理测量结果异化为高度可塑的话语资本，被执政者用于制造危机修辞与推行新自由主义问责管理。
+> [!concept-proposition] 命题五｜宏观量化治理下的跨国学业成就指标具备高度[[Discourse|话语]]可塑性并易被异化为国家审计考核工具
+> **探讨维度　宏观治理中的学业成就[[Discourse|话语]]建构与政治功能** 探讨在大规模国际评估（如 [[PISA]]）中，去情境化的学业成就指标如何从客观心理测量结果异化为高度可塑的话语资本，被执政者用于制造危机修辞与推行新自由主义问责管理。
 
 > [!claim] [[Argument_Grey_2018_CE|Grey and Morris (2018)]]
 > **客观平稳数据与政治危机叙事的策略性断裂** 跨国评估中的宏观学业成就指标具备极高的话语可塑性。在国际多边评估中，即使受测系统的客观实证数据长期保持平稳且处于均线之上，执政官员仍可通过策略性的“遗漏话语”将客观事实重构为灾难性的停滞衰退与国际[[Competitiveness|竞争力]]丧失。这种将宏观学业成就指标工具化与修辞化的做法，使原本中立的技术测量沦为推行私有化、[[Performance Pay|绩效工资]]制与惩罚性问责等争议性政策的[[Social Science as Legitimation Alibi|合法化借口]]，揭示了全球量化治理中数据对本土政治修辞的深度依附。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, pp. 114–116, 125–126)]]
@@ -335,10 +330,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题六　学生学业成就作为多层因果链条的最远端产出与上游政策投入及中介行为存在结构性脱节
-
-> [!concept-lens] 宏观与中介投入向微观终端成就传导的阻隔规律
-> 探讨为何宏观财政注资、行政数据回传以及教师中介行为改变往往无法转化为学生终端学业成绩的实质提高，剖析多层因果链条中的传递阻滞与松散联结机制。
+> [!concept-proposition] 命题六｜学生学业成就作为多层因果链条的最远端产出与上游政策投入及中介行为存在结构性脱节
+> **探讨维度　宏观与中介投入向微观终端成就传导的阻隔规律** 探讨为何宏观财政注资、行政数据回传以及教师中介行为改变往往无法转化为学生终端学业成绩的实质提高，剖析多层因果链条中的传递阻滞与松散联结机制。
 
 > [!claim] [[Argument_Gorard_2020_ROE|Gorard et al. (2020)]]
 > **中介行为改善与终端学业成绩的系统性脱节** 学业成就是检验各类教育改革与[[Knowledge Mobilisation|知识动员]]模式的最严酷因果试金石。在大规模严格因果试验中，诸多循证干预虽能显著提升教师的[[Data Literacy|数据素养]]、跨学科协作意愿与教研兴趣等中介产出，但学生终端客观统考成绩却普遍呈现顽固的零效应。这一规律确立：教师主观自报与过程性实践改变绝不可直接充当学业成就的有效替代指标，唯有以经过严格因果检验的工程化工件直接封装最佳教学实践，才能跨越中介断裂并稳定撬动学生终端学业成就的实质增长。[[Argument_Gorard_2020_ROE|(Gorard et al., 2020, pp. 577–578, 586–596)]]
@@ -351,10 +344,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题七　学生学业成就变异呈现多层级结构，微观动态课堂教学实践构成系统内部最大的可控因果源泉
-
-> [!concept-lens] 学业变异的多层来源与校内可控枢纽辨析
-> 探讨决定学生学业成就的多元变异来源，辨析不可控的学生先验背景与教育系统内部最大可控影响力量，反思技术主义归因对社会结构性不平等的掩蔽。
+> [!concept-proposition] 命题七｜学生学业成就变异呈现多层级结构，微观动态课堂教学实践构成系统内部最大的可控因果源泉
+> **探讨维度　学业变异的多层来源与校内可控枢纽辨析** 探讨决定学生学业成就的多元变异来源，辨析不可控的学生先验背景与教育系统内部最大可控影响力量，反思技术主义归因对社会结构性不平等的掩蔽。
 
 > [!claim] [[Argument_Hattie_2005_ACER|Hattie (2005)]]; [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]]
 > **教师课堂互动效能的核心枢纽地位** 基于大规模方差分解与微观计量回归，学生学业成就总变异的最大份额源于学生个体先验背景，但这属于学校教育的既定输入；在学校教育系统内部，教师教学质量构成最大的可控因果枢纽。高低效能教师对学生学业增益的影响差异极大；更为重要的是，传统的学历、教龄与执照等静态资质对学业成就变异缺乏解释力，而通过标准化[[Classroom Observation|课堂观察]]测得的微观动态互动质量（涵盖[[Teacher Clarity|教学清晰度]]、认知挑战与形成性反馈），能够稳健且显著地预测学生标准化测验成绩的持续增长。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 13–14)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–5)]]
@@ -370,10 +361,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题八　结构化分层循证教学与针对性密集辅导能够系统性缩小薄弱学校的学业成就差距
-
-> [!concept-lens] 针对薄弱学校学业落后的因果干预与分层阻断机制
-> 探讨高贫困薄弱学校学生的学业落后是否属于不可逆转的背景宿命，阐明如何通过分层循证教学干预与针对性微观辅导实现学业成就差距的规模化缩减。
+> [!concept-proposition] 命题八｜结构化分层循证教学与针对性密集辅导能够系统性缩小薄弱学校的学业成就差距
+> **探讨维度　针对薄弱学校学业落后的因果干预与分层阻断机制** 探讨高贫困薄弱学校学生的学业落后是否属于不可逆转的背景宿命，阐明如何通过分层循证教学干预与针对性微观辅导实现学业成就差距的规模化缩减。
 
 > [!claim] [[Argument_Slavin_2019_EducPsychol|Slavin (2019)]]
 > **全班教学升级与多层助教辅导对学业落后的系统阻断** 针对倒数薄弱学校与贫困受援学校的因果评估表明，弱势学生的早期学业落后主要源于缺乏[[Effective Teaching|有效教学]]支持的系统性后果，有别于不可逆转的家庭背景宿命。通过推行经实验验证的全班教学方案（Tier 1，如结构化[[Cooperative Learning|合作学习]]），并由经过培训的教学助教开展针对性的[[Small Group Tuition|小组辅导]]（Tier 2）与高强度一对一辅导（Tier 3），公立学校能够以可承受的财政成本显著提升后进生的阅读与数学学业成就，从而在制度层面根本性阻断早期学业失败。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 25, 27–29)]]
@@ -383,13 +372,11 @@ updated: 2026-10-25
 
 ---
 
-### 命题九　均质综合学制在缺乏差异化支持时会诱发学业成就分布的高失败率与系统性平庸
-
-> [!concept-lens] 宏观学制设计对国家整体学业成就分布形态的制约
-> 探讨追求形式平等的延长年限单一综合制初中若漠视学生的客观禀赋[[Heterogeneity|异质性]]，为何会导致高失败率与极低卓越率并存的整体平庸化现象。
+> [!concept-proposition] 命题九｜均质综合学制在缺乏差异化支持时会诱发学业成就分布的高失败率与系统性平庸
+> **探讨维度　宏观学制设计对国家整体学业成就分布形态的制约** 探讨追求形式平等的延长年限单一综合制初中若漠视学生的客观禀赋[[Heterogeneity|异质性]]，为何会导致高失败率与极低卓越率并存的整体平庸化现象。
 
 > [!claim] [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]]
-> **单一综合制对学业成就分布两极的双向破坏机制** 宏观比较教育政策分析表明，追求形式平等的均质综合学制在延长义务教育年限的过程中，若缺乏弹性课程分流与学业多样化分支，将对国家学业成就分布产生双向破坏：一方面，强行在初中实施完全统一、不设分流的综合课程大纲，漠视学生客观禀赋与兴趣的异质性，导致大量后进生彻底丧失学习动机沦为学业抗拒者，大幅推高义务教育结业阶段的学业失败与辍学重修比例；另一方面，均质化政策为了迁就后进生而系统性降低学业考核标准，不仅未能实质提升弱势群体的达标水平，反而严重压制了优异学生的深层学术潜能，致使国家达到卓越等级的顶尖学生比例极度匮乏，造成整体学业表现滑向系统性平庸。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–332)]]
+> **单一综合制对学业成就分布两极的双向破坏机制** 宏观比较教育政策分析表明，追求形式平等的均质综合学制在延长义务教育年限的过程中，若缺乏弹性课程分流与学业多样化分支，将对国家学业成就分布产生双向破坏：一方面，强行在初中实施完全统一、不设分流的综合课程大纲，漠视学生客观禀赋与兴趣的异质性，导致大量后进生彻底丧失[[Student Motivation|学习动机]]沦为学业抗拒者，大幅推高义务教育结业阶段的学业失败与辍学重修比例；另一方面，均质化政策为了迁就后进生而系统性降低学业考核标准，不仅未能实质提升弱势群体的达标水平，反而严重压制了优异学生的深层学术潜能，致使国家达到卓越等级的顶尖学生比例极度匮乏，造成整体学业表现滑向系统性平庸。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–332)]]
 
 ---
 
@@ -481,7 +468,7 @@ updated: 2026-10-25
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.71"><span class="b14"></span></span>0.71 | [0.52, 0.90] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 11$；$E = 12$；$k = —$；$N = —$（全数据集总 $k = 403$） | 结果变量：[[Cooperative Learning\|合作学习]]对学业成就（Academic Achievement）的干预效应 | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 涵盖语言、数学、社科与自然科学多学科，效应量稳健中等，但学科间样本分布不均衡 |
 > | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | <span class="mx-bar ef-bar" title="SMD 0.59"><span class="b12"></span></span>0.59 | [0.37, 0.81] | 标准化均差（SMD）/ [[Random-Effects Model\|随机效应模型]] | $M = 20$；$E = 15$（理论性知识亚组）；$k = 469$；$N = —$ | 结果变量：高等教育 [[Problem-Based Learning\|问题本位学习]]（PBL）对理论性知识的促进效应 | 全集 $Q(46) = 730.67, p < .001, I^2 = 93.70\%$；95% PI 未报告 | 理论性知识为知识获取类结果，与学业成就相关但不完全等同；高等教育情境 |
 > | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.68"><span class="b14"></span></span>0.68 | [0.48, 0.87] | Cohen's $d$ / 随机效应模型经典逆方差加权 | $M = 19$（总体）；$E = 8$（学业成就亚组）；$k = —$；$N = 58,702$（总体） | 结果变量：AI 教育应用对学业成就的促进效应（8 项一阶元分析（First-Order Meta-analysis, FOM）亚组结果） | 全集 $Q(18) = 118.26, p < .001, I^2 = 84.78\%, \tau^2 = .05$；95% PI 未报告 | 检索 2020–2025 年 AIEd 元分析，仅限英语文献；AI 类型与成果类型亚组间无显著差异；教育阶段和学科领域存在显著调节效应 |
-> | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 428)]]（审查 Hattie, 2009） | <span class="mx-bar ef-bar" title="Cohen's d 0.40"><span class="b8"></span></span>0.40 | — | Cohen's $d$ / 二阶简单算术加权 | $M = 816$；$E = 146,626$；$k = 52,649$；$N = 83,033,433$ | 结果变量：影响学生学业成就（Academic Achievement）的全球二阶元分析巨型综合 | 未报告 $Q$ 与 $I^2$；将 $d = 0.40$ 设为期望效应门槛 | 涵盖 138 个影响因素；缺乏初级研究纳入质控标准；未对原始研究异质性进行模型加权调整；底层文献发表年份多集中于 1980–1990 年代 |
+> | [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 428)]]（审查 Hattie, 2009） | <span class="mx-bar ef-bar" title="Cohen's d 0.40"><span class="b8"></span></span>0.40 | — | Cohen's $d$ / 二阶简单算术加权 | $M = 816$；$E = 146,626$；$k = 52,649$；$N = 83,033,433$ | 结果变量：影响学生学业成就（Academic Achievement）的全球二阶元分析巨型综合 | 未报告 $Q$ 与 $I^2$；将 $d = 0.40$ 设为期望效应门槛 | 涵盖 138 个影响因素；缺乏初级研究纳入质控标准；未对原始研究异质性进行模型加权调整；底层[[Document\|文献]]发表年份多集中于 1980–1990 年代 |
 
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
@@ -490,7 +477,7 @@ updated: 2026-10-25
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 方案类型 | 全班 Tier 1 方案 | ES | — | <span class="mx-bar ef-bar range" title="ES +0.10–+0.58；取区间中点"><span class="b7"></span></span>+0.10–+0.58 | — | — |
 > |  |  | 助教 Tier 2 / Tier 3 辅导 | ES | — | <span class="mx-bar ef-bar range" title="ES +0.21–+0.86；取区间中点"><span class="b11"></span></span>+0.21–+0.86 | — | — |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 测量工具性质 | 标准化成就测验 | Hedges' $g$ | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.13"><span class="b3"></span></span>0.13 | [−0.03, 0.28] | $Q_b(1) = 7.97, p = .005$ |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 测量工具性质 | 标准化[[Achievement and Aptitude Tests\|成就测验]] | Hedges' $g$ | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.13"><span class="b3"></span></span>0.13 | [−0.03, 0.28] | $Q_b(1) = 7.97, p = .005$ |
 > |  |  | 教师自编/课程期末考试 |  | k = 115 | <span class="mx-bar ef-bar" title="Hedges' g 0.37"><span class="b7"></span></span>0.37 | [0.29, 0.46] | — |
 > | Greene et al.（测量方式亚组） | 测量方式亚组 | 标准化测试 | $r$ | k = 18 | <span class="mx-bar ef-bar conv" title="r 0.214 → d ≈ 0.44（d = 2r / √(1 − r²)）"><span class="b9"></span></span>0.214 | [0.148, 0.278] | $Q_b = 16.48, p < .001$ |
 > |  |  | 专门测验 |  | k = 74 | <span class="mx-bar ef-bar conv" title="r 0.177 → d ≈ 0.36（d = 2r / √(1 − r²)）"><span class="b7"></span></span>0.177 | [0.136, 0.217] | — |

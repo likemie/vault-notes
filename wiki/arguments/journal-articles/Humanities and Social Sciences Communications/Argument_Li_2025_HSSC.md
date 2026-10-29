@@ -32,6 +32,7 @@ related_concepts:
   - "[[Theories of Policy Change]]"
   - "[[Policy Network]]"
   - "[[Literature Review]]"
+  - "[[Document]]"
   - "[[Purpose Statement]]"
   - "[[European Education Space]]"
   - "[[Research Scope]]"
@@ -81,6 +82,7 @@ related_facts:
   - "[[European Commission]]"
   - "[[PISA Shock in Germany]]"
   - "[[PISA Shock in Japan]]"
+  - "[[Yutori Education]]"
   - "[[HarmoS]]"
   - "[[Canadian Education Indicators Program]]"
   - "[[National Assessment of Education Quality China 2007]]"
@@ -97,14 +99,14 @@ sources:
 part_of:
 status: draft
 created: 2026-07-05
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 62
+argument_related_count: 64
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -163,7 +165,7 @@ issuing_organization: ""
 > | **纳入标准** | 同行评审、英文、期刊论文、实证研究（质性/量化/[[Mixed Methods Research\|混合方法]]）、聚焦基础教育。 |
 > | **排除标准** | 重复文献、非英文、全文不可获取、非期刊论文、[[Literature Review\|文献综述]]/评论/[[Meta-analysis\|元分析]]、非基础教育领域。 |
 > | **方法分布** | 49 篇质性数据分析，36 篇混合研究方法。主要设计：[[Case Study\|案例研究]]、历史比较研究、国际比较研究。量化数据来源：TIMSS、PISA 分数和排名数据；质性数据来源：教育部等中央部门官方政策文件、国家媒体报道和政治演讲、参与教育政策制定的学者咨询报告、政府官员和专家访谈。 |
-> | **地区分布** | 西欧 39 篇（德国 20、法国 8、英国 5、西班牙 5、瑞士 2）、北欧 14 篇（芬兰 6、挪威 8）、亚洲 16 篇（中国 8、日韩约旦澳大利亚各 2）、北美 10 篇（美国 5、加拿大 5）、南美 6 篇（阿根廷、乌拉圭、智利各 2）。欧盟/欧洲经济区成员国合计占 62.4%。西欧占总量 45.9%。PISA 已吸引 90 多个国家和经济体参与 OECD 全球倡议（OECD, 2022b），但截至 2023 年 9 月仅有 17 个国家有相关文献，中东、非洲、南亚和东南亚构成经验研究的主要盲区。纳入文献的核心主题涵盖教育质量改革（宏观/中观/微观三层决策）、教育公平（机会/过程/结果）、政策趋同与转译机制及影响因素（国际组织角色、国内政治、文化传统），文献数量随时间呈上升趋势。 |
+> | **地区分布** | 西欧 39 篇（德国 20、法国 8、英国 5、西班牙 5、瑞士 2）、北欧 14 篇（芬兰 6、挪威 8）、亚洲 16 篇（中国 8、日韩约旦澳大利亚各 2）、北美 10 篇（美国 5、加拿大 5）、南美 6 篇（阿根廷、乌拉圭、智利各 2）。欧盟/欧洲经济区成员国合计占 62.4%。西欧占总量 45.9%。PISA 已吸引 90 多个国家和经济体参与 OECD 全球倡议（OECD, 2022b），但截至 2023 年 9 月仅有 17 个国家有相关[[Document\|文献]]，中东、非洲、南亚和东南亚构成经验研究的主要盲区。纳入文献的核心主题涵盖教育质量改革（宏观/中观/微观三层决策）、教育公平（机会/过程/结果）、政策趋同与转译机制及影响因素（国际组织角色、国内政治、文化传统），文献数量随时间呈上升趋势。 |
 
 > [!method-panel] 分析方法
 > | 模块 | 材料与处理方式 |
@@ -196,7 +198,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一：研究区域分布与特征
+> [!claim|step] 论证步骤一：研究区域分布与特征
 > [[PISA]] 对国际基础教育政策影响的研究呈现显著的**区域集中**特征：欧洲国家是研究焦点，[[EU|欧盟]]/欧洲经济区成员国文献占 62.4%（区域分布数据见研究方法 > 样本快照 > 地区分布）。尽管全球已有 90 多个国家和经济体参与 PISA，截至 2023 年 9 月仅有 17 个国家有相关实证研究文献可用。
 
 > [!warrant]- 推理桥梁
@@ -213,7 +215,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二：PISA 影响教育改革的质量路径
+> [!claim|step] 论证步骤二：PISA 影响教育改革的质量路径
 > 从**质量**维度看，OECD 通过 PISA 强调对学生在阅读、数学和科学中应用知识和技能应对真实生活挑战的全面评估。PISA 能力框架要求教育体系为年轻人提供应对现代社会挑战所需的知识和工具：快速变化的劳动力市场、持续数字化、社会流动、国内不平等加剧、大规模国际移民和气候变化（OECD, 2019）。PISA 的质量影响可在**宏观、中观和微观**三个决策层面分别识别。
 
 > [!dimension] 宏观决策层面的五种表现
@@ -237,7 +239,7 @@ issuing_organization: ""
 > 德国的改革动力之所以高度令人惊讶，是因为该国传统教育体系和政治以深厚历史遗产、多层利益相关者和改革阻碍制度为特征。自 1970 年代以来，德国一直存在宏大教育改革积压（backlog of grand education reforms），而 PISA 的外部压力**彻底改变了这一局面**。
 
 > [!case] 案例 2：日本 PISA 震荡
-> 与德国不同，日本在 2003 年第二次 PISA 后意识到问题在于**教育内容**而非制度或组织（详见专门事实条目：[[PISA Shock in Japan]] 与 [[PISA Literacy]]；Ninomiya, 2019）。1980–1990 年代推行的宽松教育（ゆとり教育, yutori education）导致 20 世纪末日本学生学业水平和学习能力下降，引起教育学家、经济学家和行政官员的广泛关注。2003 年 PISA 结果公布后，众多新闻媒体广泛报道并比较 2003 年与 2000 年的结果：日本学生在多个重点领域的排名下滑（MEXT, 2004），证实了自 1980 年代以来学生学业水平下降和教育危机论的蔓延。
+> 与德国不同，日本在 2003 年第二次 PISA 后意识到问题在于**教育内容**而非制度或组织（详见专门事实条目：[[PISA Shock in Japan]] 与 [[PISA Literacy]]；Ninomiya, 2019）。1980–1990 年代推行的[[Yutori Education|宽松教育]]（ゆとり教育, yutori education）导致 20 世纪末日本学生学业水平和学习能力下降，引起教育学家、经济学家和行政官员的广泛关注。2003 年 PISA 结果公布后，众多新闻媒体广泛报道并比较 2003 年与 2000 年的结果：日本学生在多个重点领域的排名下滑（MEXT, 2004），证实了自 1980 年代以来学生学业水平下降和教育危机论的蔓延。
 >
 > 在 PISA 2003 结果的推动下，**PISA素养（PISA literacy）** 概念于 2004 年被正式纳入国家教育政策目标，指阅读和更广泛的课程知识，聚焦问题解决、知识应用、创造性工作和知识回忆等高阶能力（National Institute for Education Policy, 2019）。PISA素养引入了与以往理解不同的新学力概念，即扎实的学力（robust academic proficiency），涉及高阶知识和技能的应用（Ninomiya, 2019）。
 
@@ -259,7 +261,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三：PISA 影响教育改革的公平路径
+> [!claim|step] 论证步骤三：PISA 影响教育改革的公平路径
 > PISA 基于公平教育是实现可持续和包容性增长的关键这一原则。PISA 的公平框架包含两个相关概念（OECD, 2019）：**包容性（inclusiveness）**，指教育体系是否确保所有学生获得基本基础技能；**公平性（equity）**，指学生背景环境在多大程度上影响教育结果。总体而言，PISA 的公平框架关注一国或地区教育体系能否确保所有学生，无论其背景或处境，都能获得高质量教育。政策回应在机会、过程和结果三个维度上分别显现。
 
 > [!dimension] 机会公平
@@ -289,7 +291,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤四：三层机制模型
+> [!claim|step] 论证步骤四：三层机制模型
 > PISA 对各国教育政策的影响不是直接的因果效应，而是在**超国家组织（OECD 的软治理与模范社会塑造）**、**国家层面（自我认知落差、文化-制度转译与[[Policy Borrowing\|政策借用]]）** 和**内部行动者网络（政策制定者、政党、协会、媒体对 PISA 信息的诠释与传递）** 三个层级的[[Interaction Effect\|交互作用]]下实现的。不同国家的政策回应差异取决于这三层机制在该国具体历史、社会、政治和文化条件下的组合方式。该模型揭示了 PISA 与教育改革之间的双向互动：PISA 通过超国家层级的软治理影响国家政策，各国也通过选择性政策借用和内部行动者转译来主动回应和重新解释 PISA 信息。
 
 > [!factors] 第一层：超国家层级
@@ -343,7 +345,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤五：跨国差异的综合分析
+> [!claim|step] 论证步骤五：跨国差异的综合分析
 > 各国对 PISA 的政策回应构成一个连续光谱：从全面的教育体系改革（瑞士、德国）到几乎不产生任何影响（美国早期）。差异源于每个国家独特的政治、历史、文化和制度条件在三个层级上的具体组合方式。
 
 > [!contrast-table] 六国 PISA 政策回应对比

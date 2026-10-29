@@ -37,10 +37,10 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Directionality of Innovation]]"
   - "[[Advance Market Commitments]]"
+  - "[[Public Value]]"
   - "[[Market Shaping and Creating]]"
   - "[[Metascience]]"
   - "[[Process Knowledge]]"
-  - "[[Public Value]]"
 related_theories: []
 related_persons:
   - "[[Rainer Kattel]]"
@@ -63,7 +63,7 @@ related_methods: []
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -133,20 +133,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　重大挑战是第三代使命导向政策引领公共价值与市场塑造的战略载体
-
-> [!concept-lens] 使命导向与[[Directionality of Innovation|创新方向性]]
-> 探讨公共研发政策如何超越新古典经济学的“[[Market Failure|市场失灵]]”修补框架，通过设定重大挑战主动开辟未来产业蓝海。
+> [!concept-proposition] 命题一｜重大挑战是第三代使命导向政策引领[[Public Value|公共价值]]与[[Market Shaping and Creating|市场塑造]]的战略载体
+> **探讨维度　使命导向与[[Directionality of Innovation|创新方向性]]** 探讨公共研发政策如何超越新古典经济学的“[[Market Failure|市场失灵]]”修补框架，通过设定重大挑战主动开辟未来产业蓝海。
 
 > [!claim] Mazzucato, M. & [[Rainer Kattel|Kattel, R.]]
 > **重大挑战驱动的场地倾斜与[[Market Shaping and Creating|市场创造]]** 21 世纪的公共科研投资不能局限于被动分担私营部门风险，而必须通过重大挑战凝聚国家战略意志，主动向清洁能源、公共健康与包容性发展等长期公共目标[[Tilting the Playing Field|倾斜竞争场地]]；重大挑战通过提供跨部门的政策组合（研发、采购、规制、税收），创造出私营资本自发状态下不敢涉足的全新市场需求。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789, 796–798)]]
 
 ---
 
-### 命题二　客观盲测基准与拉动机制是解锁重大挑战底层探索树的催化杠杆
-
-> [!concept-lens] [[Metascience|元科学]]设计与[[Pull Mechanisms for Innovation|拉动机制]]
-> 探讨如何通过严密的评测架构克服传统学术同行评审的保守性，驱动颠覆性科学发现。
+> [!concept-proposition] 命题二｜客观盲测基准与[[Pull Mechanisms for Innovation|拉动机制]]是解锁重大挑战底层探索树的催化杠杆
+> **探讨维度　[[Metascience|元科学]]设计与[[Pull Mechanisms for Innovation|拉动机制]]** 探讨如何通过严密的评测架构克服传统学术同行评审的保守性，驱动颠覆性科学发现。
 
 > [!claim] Kratsios, M. (2026)
 > **基准盲测与高杠杆问题表述的催化效应** 科学资助的最大瓶颈往往不是资金规模，而是问题表述的模糊性与评审标准的偏狭；设立具有明确盲测真值的重大挑战（如 [[Critical Assessment of Structure Prediction|CASP]] 蛋白质结构预测竞赛与 [[DARPA]] 自动驾驶挑战赛），能够在不指定具体技术路径的前提下，最大化激发全球跨学科团队的算法创新与工程探索，并使革命性突破（如 AlphaFold）得以在客观基准上被瞬间公认，从而解锁整片下游科学发现与商业应用生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44, 62)]]

@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -79,10 +79,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　初创企业的组织优越性在于层级的可拆解速度而非虚假的零层级神话
-
-> [!concept-lens] 组织权力学与[[Agile Governance|敏捷治理]]维度
-> 解构硅谷扁平化神话，确立动态可重构性作为组织敏捷度核心指标。
+> [!concept-proposition] 命题一｜初创企业的组织优越性在于层级的可拆解速度而非虚假的零层级神话
+> **探讨维度　组织权力学与[[Agile Governance|敏捷治理]]维度** 解构硅谷扁平化神话，确立动态可重构性作为组织敏捷度核心指标。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **层级可重构性决定组织创新生命力断言** 卡普与扎米斯卡指出，包括硅谷科技巨头在内的一切人类机构都必须对人员进行组织；真正将卓越初创公司与僵化大企业区分开来的，绝非所谓的扁平无等级，而是这种层级结构的流动性——即它们被拆除与重组的速度有多快，以及整个团队有多少[[Creativity|创造力]]被浪费在维系这些层级和内部自我钻营之上。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, p. 125)]]

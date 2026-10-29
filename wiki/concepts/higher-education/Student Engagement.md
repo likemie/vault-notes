@@ -9,7 +9,7 @@ aliases:
 summary: "学生在教育性活动中投入时间、精力与心智的综合构念，涵盖行为、情感、认知与认识论维度，受阶层文化习性制约，并作为连接教育环境与深层学业发展的核心中介机制。"
 type: concept
 domain: "higher-education"
-related_count: 34
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -34,11 +34,13 @@ related_concepts:
   - "[[Extracurricular Activities]]"
   - "[[Directionality of Innovation]]"
   - "[[Critical Thinking]]"
+  - "[[Habitus]]"
   - "[[Cultural Capital]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Homework]]"
   - "[[Scientific Uncertainty]]"
+  - "[[Document]]"
   - "[[Time Management]]"
   - "[[Epistemic Friction]]"
   - "[[Academic Engagement]]"
@@ -63,7 +65,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 （学生投入）
@@ -142,30 +144,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　学生投入是连接大学环境与教育产出的核心中介机制
-
-> [!concept-lens] 院校影响力与学生能动性
-> 大学提供的资源与平台并非自动转化为成长；唯有通过学生将精力和时间实质性投入教育性实践，才能产出积极的学习成果与能力发展。
+> [!concept-proposition] 命题一｜学生投入是连接大学环境与教育产出的核心中介机制
+> **探讨维度　院校影响力与学生能动性** 大学提供的资源与平台并非自动转化为成长；唯有通过学生将精力和时间实质性投入教育性实践，才能产出积极的学习成果与能力发展。
 
 > [!claim] George Kuh; Pascarella & Terenzini
 > **投入的中介转化效应** 大量高等教育[[Longitudinal Study\|纵向研究]]证明，无论学生的入学成绩与前置基础如何，其在大学期间对学术研讨、深入阅读和师生互动的投入程度，均强力正向预测其认知发展、学业满意度、[[Critical Thinking\|批判性思维]]提升与毕业率（Pascarella & Terenzini, 2005; Kuh et al., 1991）。学校的核心使命在于优化制度设计以激发这种深层投入。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 112–114)]]
 
 ---
 
-### 命题二　学生投入不仅存在数量多寡，更具有策略方向性并深刻受制于家庭阶层习性
-
-> [!concept-lens] 投入的质性分化与社会学机制
-> 挑战传统“投入时间越长越好”的线性假设，揭示[[Cultural Capital\|文化资本]]与家庭习性如何决定学生对投入机会的认知与策略把握。
+> [!concept-proposition] 命题二｜学生投入不仅存在数量多寡，更具有策略方向性并深刻受制于家庭阶层[[Habitus|习性]]
+> **探讨维度　投入的质性分化与社会学机制** 挑战传统“投入时间越长越好”的线性假设，揭示[[Cultural Capital\|文化资本]]与家庭习性如何决定学生对投入机会的认知与策略把握。
 
 > [!claim] [[Yajun Zheng\|郑雅君]]
 > **投入方向性与阶层习性制约** 投入并非阶层中立的自由选择，而是深刻折射出家庭背景所赋予的文化习性。优势背景学生往往展现出“[[Goal-Controlled Mode\|目标掌控模式]]”，能够提前规划、将时间精准投入到具有高长效回报的科研、名企实习与高质量社交中；而弱势背景的第一代大学生多呈现“[[Intuition-Dependent Mode\|直觉依赖模式]]”，其投入往往局限于琐碎事务或机械课程[[Homework\|作业]]，投入缺乏明确的方向性与策略协同，难以有效转化为生涯竞争优势。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 120–128)]]
 
 ---
 
-### 命题三　人工智能环境下的表层情感与行为投入容易掩盖深层认识性投入的缺席
-
-> [!concept-lens] 智能交互生态与认知中介异化
-> 探讨生成式技术如何通过界面易用性与对话温度制造参与繁荣假象，分析认知动作剥离对实质心智投入的侵蚀。
+> [!concept-proposition] 命题三｜人工智能环境下的表层情感与行为投入容易掩盖深层认识性投入的缺席
+> **探讨维度　智能交互生态与认知中介异化** 探讨生成式技术如何通过界面易用性与对话温度制造参与繁荣假象，分析认知动作剥离对实质心智投入的侵蚀。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **表层交互活跃对深层认识性投入的遮蔽** 商业化教育系统常以用户留存、使用时长与即时互动频次作为“学生投入”的核心指标。然而，大语言模型的支持性语调与自适应答疑虽能显著提升学生的情感满意度与行为交互频次，却极易诱导“无摩擦的认知委托”：学生在界面上高频交互，但由于直接采纳算法生成的现成解释与框架，其在甄别证据缺陷、承受[[Scientific Uncertainty\|认知不确定性]]及反思论点漏洞等关键环节上的“认识性投入（Epistemic Engagement）”被完全置换。教育评估必须穿透表层的交互繁荣，聚焦检验学生是否真正开展了[[Evaluative Judgement\|评价性判断]]与深层思考。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5–6, 8)]]
@@ -173,7 +169,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 学生投入核心命题归纳
-> | 命题类别 | 核心理论断言 | 实践与政策抓手 | 代表文献 |
+> | 命题类别 | 核心理论断言 | 实践与政策抓手 | 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **中介转化论** | 学生投入是连接院校资源供给与实际能力产出的决定性中介桥梁 | 改进第一学年体验、增加高影响力教学实践（HIPs） | Kuh; Pascarella & Terenzini |
 > | **方向与习性论** | 投入兼具量与方向性特征，弱势群体往往因习性缺乏策略方向 | 提供显性学业与生涯导航，实施定向社会性支持 | 郑雅君 |

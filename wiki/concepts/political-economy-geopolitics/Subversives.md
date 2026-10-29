@@ -8,10 +8,10 @@ aliases:
 summary: "历史制度主义渐进变迁理论中的四类变革行动者之一，长期谋求消灭既有制度但短期伪装成模范守法者潜伏运作；在强否决可能性与低解释执行裁量权下运用地下室白蚁机制在边缘赞助新规则，主导驱动制度层叠并在时机成熟时架空旧核心"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - subversives
   - institutional-change
@@ -19,6 +19,7 @@ tags:
   - historical-institutionalism
   - institutional-layering
 related_concepts:
+  - "[[Zone of Discretion]]"
   - "[[Veto Possibilities]]"
   - "[[Enforcement Discretion]]"
   - "[[Institutional Layering]]"
@@ -46,13 +47,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Subversives
-> 颠覆者（Subversives）是[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）（2009）[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中界定的四类制度变革行动者之一。该类型通过解耦行动者的长期制度维系目标与短期策略遵从行为确立，特指长期目标谋求消灭或取代既有制度（不追求制度维系），但在短期博弈中伪装成模范合规者（遵守既有规则）、在体制内潜伏运作的行动主体。在面临强维持现状阻力与低规则裁量空间（强[[Veto Possibilities|否决可能性]] + 低解释[[Enforcement Discretion|执行裁量权]]）的制度情境下，公开违规或正面挑战必遭否决点严厉封杀，颠覆者只能选择顺从规章表象，在旧制度边缘与缝隙中赞助新规则层叠，如同“地下室白蚁”般悄然侵蚀体制根基，待时机成熟时彻底架空旧制度核心，是驱动[[Institutional Layering|制度层叠]]的主导微观变革行动者（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 25–26, 28, 30–31]]）。
+> 颠覆者（Subversives）是[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）（2009）[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中界定的四类制度变革行动者之一。该类型通过解耦行动者的长期制度维系目标与短期策略遵从行为确立，特指长期目标谋求消灭或取代既有制度（不追求制度维系），但在短期博弈中伪装成模范合规者（遵守既有规则）、在体制内潜伏运作的行动主体。在面临强维持现状阻力与低规则[[Zone of Discretion|裁量空间]]（强[[Veto Possibilities|否决可能性]] + 低解释[[Enforcement Discretion|执行裁量权]]）的制度情境下，公开违规或正面挑战必遭否决点严厉封杀，颠覆者只能选择顺从规章表象，在旧制度边缘与缝隙中赞助新规则层叠，如同“地下室白蚁”般悄然侵蚀体制根基，待时机成熟时彻底架空旧制度核心，是驱动[[Institutional Layering|制度层叠]]的主导微观变革行动者（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 25–26, 28, 30–31]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向对既有体制怀抱长期终结诉求、但在日常实践中恪守制度规范、通过边际叠加新条款渐进抽空旧体制核心的隐蔽变革者。
@@ -106,30 +107,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　强否决壁垒倒逼体制反对者采取合规伪装与潜伏策略
-
-> [!concept-lens] 策略形态筛选维度
-> 探讨宏观政治[[Veto Possibilities|否决结构]]如何筛选并塑造反对阵营的微观策略选择。
+> [!concept-proposition] 命题一｜强否决壁垒倒逼体制反对者采取合规伪装与潜伏策略
+> **探讨维度　策略形态筛选维度** 探讨宏观政治[[Veto Possibilities|否决结构]]如何筛选并塑造反对阵营的微观策略选择。
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & Thelen, K. (2009)
 > **否决壁垒与[[Strategic Compliance|策略性合规]]** 在拥有众多否决点或强力否决参与者的政治语境中，公开宣称反体制目标并采取违规抗争的起义行为，必然招致体制掌权者调动国家机器予以严厉镇压和封杀。在此刚性约束下，理性的体制挑战者不得不隐瞒其真实偏好，将自身嵌入体制内部，通过严格遵守既有规约来换取生存与行动合法性，从而演变为典型的颠覆者角色（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 25, 29]]）。
 
 ---
 
-### 命题二　在旧规则边缘赞助新规则是颠覆者推进制度层叠的核心手段
-
-> [!concept-lens] 变迁推进机制维度
-> 阐明隐蔽合规者如何在不直接修改旧法条的前提下推进实质体制改造。
+> [!concept-proposition] 命题二｜在旧规则边缘赞助新规则是颠覆者推进[[Institutional Layering|制度层叠]]的核心手段
+> **探讨维度　变迁推进机制维度** 阐明隐蔽合规者如何在不直接修改旧法条的前提下推进实质体制改造。
 
 > [!claim] Mahoney, J. & Thelen, K. (2009)
 > **边缘嫁接与资源分流** 颠覆者深知无法直接修改或废除旧体制的核心法律文本，因此其策略着眼于在旧规则的外围与边缘推进增量立法、补充规章或设立自治试点。守旧阵营因旧制度形式核心依然完好，往往缺乏足够动机或正当理由动用否决权阻止这些边际修正；然而，这些边缘层叠随着时间推移，不断吸纳新的利益群体与资源，反向抽空对旧核心的依赖，最终实现不可逆的体制质变（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 25–26]]）。
 
 ---
 
-### 命题三　地下室白蚁机制决定了颠覆性变迁具有长周期潜伏与滞后爆发特征
-
-> [!concept-lens] 时间性与因果感知维度
-> 揭示为何颠覆者主导的制度变迁往往在观察上表现为长期的平静假象与随后的突发性剧变。
+> [!concept-proposition] 命题三｜地下室白蚁机制决定了颠覆性变迁具有长周期潜伏与滞后爆发特征
+> **探讨维度　时间性与因果感知维度** 揭示为何颠覆者主导的制度变迁往往在观察上表现为长期的平静假象与随后的突发性剧变。
 
 > [!claim] Mahoney, J. & Thelen, K. (2009)
 > **延迟显现与隐性侵蚀** 颠覆者的微观运作具有高度隐秘性与时间滞后性。正如皮尔逊所指出的白蚁效应，颠覆者在外围所造成的制度侵蚀在较短时间截面上极难被常规指标捕捉，外部观察者甚至会将其误判为制度高度稳定的证据；只有在长历史周期中，当外围规则的累积效应跨过承重临界阈值、或外部政治机会窗口开启时，体制变迁才以看似“突变”的形式彻底显露（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 31]]）。

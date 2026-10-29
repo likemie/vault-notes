@@ -10,10 +10,10 @@ aliases:
 summary: "指认知主体在知识建构中主动审视信念合法性与社会后果的理性伦理责任；在知识建构学派中体现为共同体成员不仅对个人理解负责，更对全班公共知识推进承担的集体认知责任；在人机共生中体现为审问算法输出、拒绝盲目认知卸载的终极求证底线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - educational-philosophy
   - freire
@@ -41,6 +41,7 @@ related_concepts:
   - "[[AI Agent in Education]]"
   - "[[Evaluative Judgement]]"
   - "[[Democratic Education]]"
+  - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Liberal Education]]"
   - "[[Open-Mindedness]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -141,30 +142,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　认识论责任是主动学习与民主公民培育的核心基柱
-
-> [!concept-lens] 批判[[Epistemology|认识论]]伦理维度
-> 探讨认知主体如何通过负起认识论责任，防止[[Active Learning|主动学习]]退化为无批判反思的技术训练。
+> [!concept-proposition] 命题一｜[[Epistemology|认识论]]责任是[[Active Learning|主动学习]]与民主公民培育的核心基柱
+> **探讨维度　批判[[Epistemology|认识论]]伦理维度** 探讨认知主体如何通过负起认识论责任，防止[[Active Learning|主动学习]]退化为无批判反思的技术训练。
 
 > [!claim] [[Paulo Freire|Freire, P.]]
 > **认识论责任的民主培育价值** 弗莱雷与达维什论证指出，真正的[[Democratic Education|民主教育]]要求受教者不仅具备道德关怀，更必须承担认识论责任，审查生活中的不平等与霸权[[Discourse|话语]]，进而积极参与社会重构。[[Argument_Darwish_2009_Queens|(Freire, 1998a, p. 49; Darwish, 2009, pp. 54, 57)]]
 
 ---
 
-### 命题二　人机共生学习中认识论责任的守持是规避消极认知卸载与维持认识主体性的伦理底线
-
-> [!concept-lens] 智能时代认知主体性的伦理防御
-> 揭示学习者若放弃对大模型输出的认识论责任，将如何引发消极[[Cognitive Offloading|认知卸载]]与[[Epistemic Agency|认识主体性]]瓦解。
+> [!concept-proposition] 命题二｜[[Man-Computer Symbiosis|人机共生]]学习中认识论责任的守持是规避消极[[Cognitive Offloading|认知卸载]]与维持[[Epistemic Agency|认识主体性]]的伦理底线
+> **探讨维度　智能时代认知主体性的伦理防御** 揭示学习者若放弃对大模型输出的认识论责任，将如何引发消极[[Cognitive Offloading|认知卸载]]与[[Epistemic Agency|认识主体性]]瓦解。
 
 > [!claim] Wu et al.
-> **算法交互中认识论责任的防御与促学机制** 在[[Generative Artificial Intelligence|生成式人工智能]]高度可用的环境下，学习者面临将思考过程全面外包的巨大诱惑。若学习者卸载了认识论责任，就会直接滑入绝对主义的表面顺从，将 AI 编造的虚假文献与错误公式全盘接受，引发学术失范与心智惰性；唯有在教学中强化认识论责任要求（如要求学生为最终方案提供[[Primary and Secondary Documents|一手文献]]与数据验证证据），学习者才能被有效驱动转向评价主义立场，在[[Man-Computer Symbiosis|人机共生]]中牢牢掌握认识主动权。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 363–366)]]
+> **算法交互中认识论责任的防御与促学机制** 在[[Generative Artificial Intelligence|生成式人工智能]]高度可用的环境下，学习者面临将思考过程全面外包的巨大诱惑。若学习者卸载了认识论责任，就会直接滑入绝对主义的表面顺从，将 AI 编造的虚假[[Document|文献]]与错误公式全盘接受，引发学术失范与心智惰性；唯有在教学中强化认识论责任要求（如要求学生为最终方案提供[[Primary and Secondary Documents|一手文献]]与数据验证证据），学习者才能被有效驱动转向评价主义立场，在[[Man-Computer Symbiosis|人机共生]]中牢牢掌握认识主动权。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 363–366)]]
 
 ---
 
-### 命题三　协作知识建构中的集体认知责任驱动分布式网络互联与全班知识前沿的持续跃升
-
-> [!concept-lens] 知识共同体社会伦理与网络演进维度
-> 阐明学习者如何超越个体竞争，通过承担集体认知责任自发展开跨小组知识协同与观点提升。
+> [!concept-proposition] 命题三｜[[Knowledge Building Theory|协作知识建构]]中的集体认知责任驱动分布式网络互联与全班知识前沿的持续跃升
+> **探讨维度　知识共同体社会伦理与网络演进维度** 阐明学习者如何超越个体竞争，通过承担集体认知责任自发展开跨小组知识协同与观点提升。
 
 > [!claim] [[Argument_Zhang_2022_SE|Zhang et al. (2022)]]
 > **集体认知责任驱动知识网络的分布式演进** [[Knowledge Building Theory|知识建构]]课堂中知识的深层生长依托每位成员对共同体公共知识进展所承担的集体认知责任。当学生意识到全班在某一关键机制（如脑-眼视觉协同）上存在认知断裂时，能够自发跨越既有小组边界，开展跨组流动与联合攻关；这种责任感将探究话语从孤立的任务完成转化为持续的观点提升（[[Research in Schools Evaluation|RISE]]-above），在全班构建起无孤立节点的高密度社会认知网络。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 892–893, 903–905)]]

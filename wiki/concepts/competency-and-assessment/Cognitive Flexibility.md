@@ -53,8 +53,8 @@ related_methods:
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Prediction Interval]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Meta-meta-analysis]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -131,30 +131,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　认知灵活性构成发散思维与突破功能固着的底层执行功能中枢
-
-> [!concept-lens] [[Executive Function\|执行功能]]支持与[[Creativity\|创造性]]加工
-> 创造力不是单纯的无序放空，而是高度依赖前额叶执行控制网络对思维范畴的灵活调度。
+> [!concept-proposition] 命题一｜认知灵活性构成[[Divergent Thinking|发散思维]]与突破功能固着的底层[[Executive Function|执行功能]]中枢
+> **探讨维度　[[Executive Function\|执行功能]]支持与[[Creativity\|创造性]]加工** 创造力不是单纯的无序放空，而是高度依赖前额叶执行控制网络对思维范畴的灵活调度。
 
 > [!claim] Diamond; Zabelina et al.; Park et al.
 > **执行功能基底命题** 认知神经科学与[[Three-Level Meta-Analysis\|三水平元分析]]表明，创造力与[[Divergent Thinking\|发散思维]]高度依赖以认知灵活性为核心的执行功能网络。在[[Alternate Uses Test\|另类用途测验]]（[[Alternate Uses Test\|AUT]]）等创造力任务中，高创造力个体并非只是更快地列出物品用途，而是展现出频繁的“语义范畴切换（Category Switching）”能力。当面对某一常见物品时，认知灵活性使大脑能够迅速抑制其首要物理功能（如砖头用于“砌墙”），灵活解离出形状、重量、材质等多维属性，从而实现突破功能固着的远距概念跳跃。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]]; Diamond (2013)
 
 ---
 
-### 命题二　在复杂不良结构领域中知识的多重视角表征是深层理解与迁移的前提
-
-> [!concept-lens] 认知灵活性理论（CFT）与高级专业学习
-> 现实复杂问题极具上下文依附性，单向度的僵化灌输必然导致“过度简化偏见”与知识惰性。
+> [!concept-proposition] 命题二｜在复杂不良结构领域中知识的多重视角表征是深层理解与迁移的前提
+> **探讨维度　认知灵活性理论（CFT）与高级专业学习** 现实复杂问题极具上下文依附性，单向度的僵化灌输必然导致“过度简化偏见”与知识惰性。
 
 > [!claim] Spiro et al.; Feltovich
 > **多重表征与自适应重构命题** 斯皮罗等提出的认知灵活性理论（Cognitive Flexibility Theory）指出，在医学、工程、法律与教育领导力等不良结构领域中，传统基于良构规则的线性教学往往导致学习者产生“过度简化偏差（Over-simplification Bias）”。唯有通过在不同情境中从多重概念视角反复审视同一案例，并在需要时像[[Assemblage\|组装]]积木一样自适应提取和重组知识，学习者才能形成高度灵活的非线性认知图式，从而在面对前所未遇的复杂挑战时实现成功的近迁移与远迁移。Spiro et al. (1988)
 
 ---
 
-### 命题三　显性思维干预通过启发式任务能显著促进大学生的认知灵活性与创造表现
-
-> [!concept-lens] 认知能力可塑性与干预效能
-> 认知灵活性并非不可更改的固定特质，而是可以通过系统化的认知练习获得显著提升。
+> [!concept-proposition] 命题三｜显性思维干预通过启发式任务能显著促进大学生的认知灵活性与创造表现
+> **探讨维度　认知能力可塑性与干预效能** 认知灵活性并非不可更改的固定特质，而是可以通过系统化的认知练习获得显著提升。
 
 > [!claim] Guo et al.; Rute-Pérez et al.
 > **思维训练促通灵活性命题** 多层[[Meta-analysis\|元分析]]证实，以提升认知灵活性、发散思维与[[Problem Solving\|问题解决能力]]为核心目标的“思维训练（Thinking training）”对大学生创造力表现具有强效促进作用（$g = 0.762, N = 31$），效果仅次于言语训练，显著高于情绪训练。通过密集演练[[Lateral Thinking\|侧向思维]]谜题（Lateral Thinking Puzzles）、[[Brainstorming\|头脑风暴]]与[[Mind Mapping\|思维导图]]，学生学会了主动质疑思维定势、在不同假设间灵活跳跃，其任务转换速度与发散范畴广度显著改善，直接确立了认知灵活性作为[[Creativity Training\|创造力教学]]干预核心靶点的实证地位。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 8–10)]]; Rute-Pérez et al. (2024)
@@ -220,7 +214,7 @@ updated: 2026-10-25
 >
 > - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 干预方式** 证实聚焦认知灵活性的思维训练效能稳居前列，显著优于单纯规则套用的技术型训练
 > - **Karr et al. (2018) · 测查范式** 客观任务转换范式测量认知灵活性能更精准排除主观自陈中的方法变异污染
-> - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] · 心理维度** 认知加工能力的预测效应量显著高于单纯的人格特质或情绪信念
+> - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] · 心理维度** 认知加工能力的预测[[Effect Size|效应量]]显著高于单纯的人格特质或情绪信念
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>

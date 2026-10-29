@@ -9,7 +9,7 @@ aliases:
 summary: "技术经济学与工程教育的核心理论命题，由内森·罗森伯格提出，指在通用目的技术扩散过程中，原本相互割裂的工业部门与学科领域逐渐汇聚于共同的底层科学原理、制造工艺、工程技能体系与标准物理界面上，为高等工程教育课程标准化与跨行业工程人才流动奠定基础。"
 type: concept
 domain: "economics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Engineering Education]]"
   - "[[Dual In-Line Package]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Assemblage]]"
   - "[[Heterogeneity]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -77,7 +78,7 @@ updated: 2026-10-22
 > | **核心驱动力** | [[General Purpose Technology\|通用目的技术]]（GPT）的跨行业标准化 | 特定细分任务的极度精度与专用性需求 | 用户体验整合与数字网络互联 |
 > | **对[[Engineering Education\|工程教育]]的影响** | 推动工程学院开设通用核心课程（如数字逻辑、固态电子学） | 导致学科高度割裂与行业专有技术壁垒 | 催生[[Comparative Education as a Cross-Sectional Area\|交叉学科]]与综合应用型专业 |
 > | **劳动力流动性** | 极高：掌握通用技术的工程师可自由跨行业流动 | 较低：技能被锁定于狭窄特定行业内 | 中等：依赖跨界创意与复合技能 |
-> | **代表文献** | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]]; Rosenberg (1963) | 传统工科文献 | 传播学与计算机文献 |
+> | **代表[[Document\|文献]]** | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]]; Rosenberg (1963) | 传统工科文献 | 传播学与计算机文献 |
 
 ---
 
@@ -103,20 +104,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　技术收敛依托标准元器件架构与物理接口消除了跨行业应用的技术转换成本
-
-> [!concept-lens] 接口标准化与[[General Purpose Technology|通用技术]]跨行业扩散
-> 探讨[[Heterogeneity|异质性]]工业部门如何通过共同采纳标准化的微电子物理封装与逻辑芯片，消除特定行业专有技术的沉没壁垒。
+> [!concept-proposition] 命题一｜技术收敛依托标准元器件架构与物理接口消除了跨行业应用的技术转换成本
+> **探讨维度　接口标准化与[[General Purpose Technology|通用技术]]跨行业扩散** 探讨[[Heterogeneity|异质性]]工业部门如何通过共同采纳标准化的微电子物理封装与逻辑芯片，消除特定行业专有技术的沉没壁垒。
 
 > [!claim] Lécuyer, C.
 > **标准封装界面驱动跨行业工艺汇聚** 莱屈耶（Christophe Lécuyer）论证道，硅微电子技术由军用利基向全美工业转型的根本机制在于促成了跨行业的技术收敛。通过推出以[[Dual In-Line Package|双列直插封装]]（DIP）为代表的标准化组件，[[Fairchild Semiconductor|仙童半导体]]成功使商用大型计算机、家用电视机和汽车电子控制系统共享完全相同的印刷电路板设计规范与自动化插装设备，打破了此前各行业依赖专用分立元件的割裂格局，极大地压低了跨部门采纳新技术的重组成本。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–181, 207–209)]]
 
 ---
 
-### 命题二　工程技能与设计范式的收敛为现代高等工程教育通用课程与人才跨界流动提供了知识基础
-
-> [!concept-lens] 工程知识体系重塑与[[Human Capital Theory|人力资本]]流动
-> 探讨底层技术的统一如何反向重塑[[Engineering Education|工程教育]]学科边界，促成通用型工程人才的培育与高效跨界配置。
+> [!concept-proposition] 命题二｜工程技能与设计[[Paradigm|范式]]的收敛为现代[[Engineering Education|高等工程教育]]通用课程与人才跨界流动提供了知识基础
+> **探讨维度　工程知识体系重塑与[[Human Capital Theory|人力资本]]流动** 探讨底层技术的统一如何反向重塑[[Engineering Education|工程教育]]学科边界，促成通用型工程人才的培育与高效跨界配置。
 
 > [!claim] Lécuyer, C.
 > **通用工程知识库与跨行业人才流动自由** 莱屈耶指出，随着仙童[[Application Engineering|应用工程]]实验室向全社会分发开源《应用说明书》并普及标准电路设计方法，原本分散在真空管、机电继电器和锗晶体管领域的工程师群体，迅速收敛并掌握了以硅逻辑门为基础的通用微电子设计语言。这种知识[[Paradigm|范式]]的汇聚不仅促成了工程师在计算机、消费电子与汽车工业之间的自由流动，更直接为高等院校重构电子工程与计算机学科的基础教学大纲提供了统一的工业参照。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 190–194, 208–209)]]
@@ -160,7 +157,7 @@ updated: 2026-10-22
 
 ---
 
-> [!evidence-grid-a] 核心来源文献索引
+> [!evidence-grid-a] 核心来源[[Document|文献]]索引
 > - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 从[[Fairchild Semiconductor|仙童半导体]]企业史角度，实证检验了微电子技术如何通过制造革新、[[Application Engineering|应用工程]]和系统级封装促成全美工业部门的技术收敛。
 
 ---

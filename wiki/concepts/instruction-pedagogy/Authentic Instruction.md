@@ -8,7 +8,7 @@ aliases:
 summary: "以真实情境、劣构问题、角色扮演、情境模拟与宏观情境锚定为载体，引导学生在有意义的问题解决中建构知识与发展批判性思维的教学模式。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,10 +27,12 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Variable]]"
   - "[[Simulation-Based Learning]]"
+  - "[[Document]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Learning by Doing]]"
   - "[[Central Phenomenon]]"
   - "[[Heterogeneity]]"
+  - "[[Critical Thinking Disposition]]"
   - "[[Mentorship]]"
 related_theories:
   - "[[Situative Perspective]]"
@@ -49,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -95,7 +97,7 @@ updated: 2026-10-25
 > [!ref-table]- 真实性教学具体子策略与实证索引表
 > <span class="concept-authentic-strategy-table-marker" aria-hidden="true"></span>
 >
-> | 策略编码与名称 | 核心机制与操作特征 | 证据规模 $k$ | 效应量 $g+$ (95% CI) | 关联条目 / 代表文献 |
+> | 策略编码与名称 | 核心机制与操作特征 | 证据规模 $k$ | 效应量 $g+$ (95% CI) | 关联条目 / 代表[[Document\|文献]] |
 > |---|---|---|---|---|
 > | **3.2 [[Role-playing\|角色扮演教学法]]**<br>（Role-playing） | 代入不同利益方视角，经历价值冲突与证据协商 | $k = 5$ | $0.61$ $[0.24, 0.98]$ | [[Role-playing]] |
 > | **3.1 应用型问题解决**<br>（Applied problem solving） | 面对现实应用问题收集数据并论证方案 | $k = 31$ | $0.35$ $[0.20, 0.49]$ | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
@@ -125,18 +127,14 @@ updated: 2026-10-25
 
 ## 围绕概念形成的命题
 
-### 命题一　真实情境为思维提供认知锚点与意义载体
-
-> [!concept-lens] 认知机制
-> 探讨抽象概念如何通过具身与情境化的锚定转化为可操作的思考工具。
+> [!concept-proposition] 命题一｜真实情境为思维提供认知锚点与意义载体
+> **探讨维度　认知机制** 探讨抽象概念如何通过具身与情境化的锚定转化为可操作的思考工具。
 
 > [!claim] Abrami, P. C., et al.; [[John Dewey\|Dewey, J.]]
 > **真实情境转化概念为思维工具** [[John Dewey\|杜威]]（John Dewey）批评脱离情境的[[Rote Learning\|死记硬背]]使学生无法理解事实的真实意义，主张必须将知识置于对学生而言真实的探究情境中。Abrami et al. 进一步指出，通过将复杂概念锚定在应用型[[Problem Solving\|问题解决]]、[[Role-playing\|角色扮演]]或情境模拟中，学生得以在处理真实阻碍的过程中经历假设检验与证据权衡，从而使抽象认知技能获得生动的运用载体。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286–287)]]
 
-### 命题二　真实性教学与对话及导师指导的协同整合产生最大干预效应
-
-> [!concept-lens] 教学协同
-> 考察真实性教学在不同干预组合中的独立效应与复合放大效应。
+> [!concept-proposition] 命题二｜真实性教学与对话及导师指导的协同整合产生最大干预效应
+> **探讨维度　教学协同** 考察真实性教学在不同干预组合中的独立效应与复合放大效应。
 
 > [!claim] Abrami, P. C., et al.
 > **三维教学协同具有最高促进效应** [[Meta-analysis\|元分析]]证据表明，单纯采用真实性教学能够显著提升[[Critical Thinking\|批判性思维]]（$g+ = 0.25, p < .05$）；当真实性教学与师生/生生对话结合时，[[Effect Size\|效应量]]提升至 $g+ = 0.32$；而当真实性教学、深度对话与导师指导三者整合（A + D + M）时，效应量跃升至 $g+ = 0.57$（$p < .001$）。这表明真实情境构成了认知挑战的基底，对话提供了理性论辩的平台，而导师指导则发挥了关键的催化与[[Scaffolding\|脚手架]]功能。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 293–295)]]
@@ -162,7 +160,7 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 具体教学子策略 | 角色扮演 | Hedges' $g$ | k = 5 | <span class="mx-bar ef-bar" title="Hedges' g 0.61"><span class="b12"></span></span>0.61 | [0.24, 0.98] | [[Role-playing\|角色扮演]]、应用解题与情境模拟均显著大于 0 |
 > |  |  | 应用型问题解决 |  | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.35"><span class="b7"></span></span>0.35 | [0.20, 0.49] | — |
@@ -171,7 +169,7 @@ updated: 2026-10-25
 > |  | 策略组合梯度 | 真实性教学（A） | Hedges' $g$ | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.25"><span class="b5"></span></span>0.25 | [0.05, 0.46] | $Q_b(3) = 8.19, \text{df} = 3, p = .04$；A+D+M 对比 A+D $z = 1.98, p = .024$ |
 > |  |  | 真实性+对话（A+D） |  | k = 45 | <span class="mx-bar ef-bar" title="Hedges' g 0.32"><span class="b6"></span></span>0.32 | [0.17, 0.47] | — |
 > |  |  | 真实性+对话+导师指导（A+D+M） |  | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.57"><span class="b11"></span></span>0.57 | [0.38, 0.77] | — |
-> |  | 思维倾向培养 | 真实性教学干预对批判性思维倾向的促进效应 | Hedges' $g$ | k = 8 | <span class="mx-bar ef-bar" title="Hedges' g 0.29"><span class="b6"></span></span>0.29 | — | 显著大于 0 |
+> |  | 思维倾向培养 | 真实性教学干预对[[Critical Thinking Disposition\|批判性思维倾向]]的促进效应 | Hedges' $g$ | k = 8 | <span class="mx-bar ef-bar" title="Hedges' g 0.29"><span class="b6"></span></span>0.29 | — | 显著大于 0 |
 >
 > - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 具体教学子策略** 角色扮演能够强力驱动换位思考与多重证据权衡，[[Effect Size\|效应量]]最高
 > - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 策略组合梯度** 三维组合展现最强协同增益

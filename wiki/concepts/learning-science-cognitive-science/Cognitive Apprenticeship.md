@@ -6,7 +6,7 @@ aliases:
 summary: "学习科学中的经典教学范式，通过示范、辅导、支架、阐明、反思与探索六大方法将专家的隐性认知与问题解决过程外显化，使新手逐步获得高阶思维能力"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,8 +25,10 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Task Structure]]"
   - "[[Concept Mapping]]"
+  - "[[Inquisitive Mode of Governance]]"
   - "[[Mentorship]]"
   - "[[Authentic Instruction]]"
+  - "[[Variable]]"
   - "[[Blind Spot in Observation]]"
 related_theories: []
 related_methods: []
@@ -38,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -69,16 +71,14 @@ updated: 2026-10-25
 > - **支架与渐退（[[Scaffolding]] & Fading）** 导师提供认知支架（如提问句干、流程向导、[[Concept Mapping\|概念图]]），随着学生能力增长逐步撤除支持，将控制权移交学生。
 > - **阐明（Articulation）** 要求学生清晰表达并辩护自己的推理过程、概念模型与解题依据，实现知识的显性化。
 > - **反思（Reflection）** 引导学生将自己的解题策略与专家或同伴进行横向对比，诊断自身认知偏见与盲区。
-> - **探索（Exploration）** 推动学生自主进入独立探究模式，自主定义问题、设立检验标准并尝试创新解法。
+> - **探索（Exploration）** 推动学生自主进入独立[[Inquisitive Mode of Governance|探究模式]]，自主定义问题、设立检验标准并尝试创新解法。
 
 ---
 
 ## 围绕概念形成的命题
 
-### 命题一　认知学徒机制是导师制在真实探究情境中发挥催化作用的微观支柱
-
-> [!concept-lens] 策略协同与认知整合机制
-> 探讨[[Mentorship\|导师制]]如何与真实任务及对话研讨发生协同共振。
+> [!concept-proposition] 命题一｜认知学徒机制是[[Mentorship|导师制]]在真实探究情境中发挥催化作用的微观支柱
+> **探讨维度　策略协同与认知整合机制** 探讨[[Mentorship\|导师制]]如何与真实任务及对话研讨发生协同共振。
 
 > [!claim] Abrami, P. C., et al.; Collins, A., et al.
 > **三维复合策略的认知学徒解释** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 发现，将[[Authentic Instruction\|真实性教学]]（A）、对话研讨（D）与[[Mentorship\|导师制]]（M）结合时，[[Critical Thinking\|批判性思维]]增益达到最高水平（$g+ = 0.57$），且导师指导发挥了关键的催化功能（$z = 1.98, p = .024$）。从认知[[Apprenticeship|学徒制]]视角看，真实性任务提供了探究情境，对话研讨提供了“阐明与反思”的社交载体，而导师的“示范与辅导”则精准填补了新手面对复杂[[Wicked Problem|劣构问题]]时的认知鸿沟，三者共同构成了完整的认知学徒闭环。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288, 298)]]
@@ -90,7 +90,7 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 亚组 | 真实性+对话+导师制（A+D+M 复合干预） | Hedges' $g$ | k = 19 | <span class="mx-bar ef-bar" title="Hedges' g 0.57"><span class="b11"></span></span>0.57 | [0.38, 0.77] | 显著优于单独真实性（$0.25$）、单独对话（$0.23$）及 A+D（$0.32$） |
 >

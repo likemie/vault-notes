@@ -7,10 +7,10 @@ aliases:
 summary: "顺应新质生产力与产业技术革命需求，兼具深厚现场工艺积淀、数字化与智能化工具驾驭能力及跨文化敏捷协作素养的创新型复合工程技术技能人才。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 3
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 14
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/competency
   - vocational-education
@@ -19,18 +19,29 @@ tags:
   - talent-development
 related_concepts:
   - "[[New Quality Productive Forces]]"
+  - "[[Engineering Education]]"
   - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[General Education]]"
+  - "[[Critical Thinking]]"
+  - "[[Problem Solving]]"
+  - "[[Computer Simulation]]"
+  - "[[Industry-Education Integration Community]]"
+  - "[[Internationalization of Vocational Education]]"
+  - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Wang Yangming]]"
+related_facts:
+  - "[[ASEAN]]"
 related_arguments:
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -40,7 +51,7 @@ updated: 2026-10-25
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向在智能制造与全球化产业链中能够完成高复杂度现场决策与技术落地的顶尖现场工程师与数字技术人才。
-> - **用途** 克服传统将技术工人窄化为单一重复流水线操作工的局限，为现代职业教育与工程教育课程重构提供能力标准。
+> - **用途** 克服传统将技术工人窄化为单一重复流水线操作工的局限，为现代职业教育与[[Engineering Education|工程教育]]课程重构提供能力标准。
 > - **边界** 区别于纯基础理论科研学者；新质人才强调技术方案在工程一线的应用转化、现场工艺改进与数字化运维。
 
 > [!citation-card] 新质生产力导向下的人才内涵
@@ -50,7 +61,7 @@ updated: 2026-10-25
 
 > [!boundary]- 概念边界
 > - 不等于 传统熟练工（Traditional Skilled Workers） 传统熟练工偏重特定机床或工艺的经验性肌肉记忆与固定工序执行；新质人才强调数字素养、现场软硬件调试与动态工艺再造。
-> - 不等于 [[21st Century Skills and Competencies Discourse|21世纪技能素养]] 21世纪素养侧重基础教育与通识教育中的批判性思维与通用沟通；新质人才深植于现代工业与高端产业现场，直接绑定具体工程技术能力。
+> - 不等于 [[21st Century Skills and Competencies Discourse|21世纪技能]]素养 21世纪素养侧重基础教育与[[General Education|通识教育]]中的[[Critical Thinking|批判性思维]]与通用沟通；新质人才深植于现代工业与高端产业现场，直接绑定具体工程技术能力。
 
 ---
 
@@ -64,8 +75,8 @@ updated: 2026-10-25
 ---
 
 > [!feature] 核心要素
-> - **专精工艺与现场决策能力（Specialized Technological Acumen）** 具备现代制造系统、自动化产线或复杂工程装备的现场操作、故障排查与参数优化能力。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 300)]]
-> - **数字智能工具集成运用（Digital-Intelligent Tool Integration）** 能够熟练驾驭工业软件、虚拟仿真系统与数据智能辅助工具，实现工程数据的实时分析与反馈。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 300)]]
+> - **专精工艺与现场决策能力（Specialized Technological Acumen）** 具备现代制造系统、自动化产线或复杂工程装备的现场操作、[[Problem Solving|故障排查]]与参数优化能力。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 300)]]
+> - **数字智能工具集成运用（Digital-Intelligent Tool Integration）** 能够熟练驾驭工业软件、[[Computer Simulation|虚拟仿真]]系统与数据智能辅助工具，实现工程数据的实时分析与反馈。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 300)]]
 > - **跨文化协同与敏捷适应（Cross-Cultural & Agile Adaptability）** 能够适应跨国产能转移多语言、多文化工作情境，参与国际通用技能标准的现场转化。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 291, 300)]]
 
 > [!logic-map]- 新质人才能力图式
@@ -95,13 +106,11 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　新质人才培养依赖全生命周期技能生态圈与跨界产教共生载体
+> [!concept-proposition] 命题一｜新质人才培养依赖全生命周期技能生态圈与跨界产教共生载体
+> **探讨维度　育人模式与产业协同维度** 聚焦现代工程技术技能升级对传统单一学制课堂教学的冲击，探讨多主体协同培养的实现机制。
 
-> [!concept-lens] 育人模式与产业协同维度
-> 聚焦现代工程技术技能升级对传统单一学制课堂教学的冲击，探讨多主体协同培养的实现机制。
-
-> [!claim] Wang, Y.
-> **全链条生态培养** 新质人才无法通过封闭单一的学校课堂培育，必须依托行业产教融合共同体，整合职前系统学历教育、入职工程定制实训与在职数字化技能提升，形成跨越学校与工厂界限的全生命周期育人通道，以支撑国际产能合作的技术韧性。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 299–301)]]
+> [!claim] [[Wang Yangming|Wang, Y.]]
+> **全链条生态培养** 新质人才无法通过封闭单一的学校课堂培育，必须依托[[Industry-Education Integration Community|行业产教融合共同体]]，整合职前系统学历教育、入职工程定制实训与在职数字化技能提升，形成跨越学校与工厂界限的全生命周期育人通道，以支撑国际产能合作的技术韧性。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 299–301)]]
 
 ---
 
@@ -113,8 +122,8 @@ updated: 2026-10-25
 ---
 
 > [!dev-timeline] 概念演变
-> - **2023年 — 新质生产力战略提出** 随着国家加快培育新质生产力，理论界开始探索匹配新生产力形态的新型劳动力规格，提出由传统技能型向创新复合型人才转变的命题。
-> - **2024年 — 新质人才内涵与学理界定** 学者（Fang & Bingyuan, 2024）系统阐释新质人才的理论逻辑，指出其兼具专精技术与创新潜质；随后该概念被拓展至职业教育高水平对外开放领域（[[Argument_Wang_Liang_Chen_2025_CES|Wang et al., 2025, pp. 299–301]]）。
+> - **2023年 — [[New Quality Productive Forces|新质生产力]]战略提出** 随着国家加快培育新质生产力，理论界开始探索匹配新生产力形态的新型劳动力规格，提出由传统技能型向创新复合型人才转变的命题。
+> - **2024年 — 新质人才内涵与学理界定** 学者（Fang & Bingyuan, 2024）系统阐释新质人才的理论逻辑，指出其兼具专精技术与创新潜质；随后该概念被拓展至[[Internationalization of Vocational Education|职业教育高水平对外开放]]领域（[[Argument_Wang_Liang_Chen_2025_CES|Wang et al., 2025, pp. 299–301]]）。
 
 ---
 
@@ -133,12 +142,12 @@ updated: 2026-10-25
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | 针对中国—东盟双边经贸（6.41 万亿元）与 175 所合作院校的实证分析 | 质性政策与案例解构 | 新质人才供求匹配与用工规模 | 伴随双边贸易突破 6.41 万亿元，东盟对掌握中国装备标准的本土工程师缺口显著扩大；既有 254 个合作平台中初级技能培训占比较高（pp. 291, 294, 296, 300） | — | 实证剖析跨国产业链重组带来的高技术技能人才缺口特征 |
+> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | 针对中国—[[ASEAN\|东盟]]双边经贸（6.41 万亿元）与 175 所合作院校的实证分析 | 质性政策与案例解构 | 新质人才供求匹配与用工规模 | 伴随双边贸易突破 6.41 万亿元，东盟对掌握中国装备标准的本土工程师缺口显著扩大；既有 254 个合作平台中初级技能培训占比较高（pp. 291, 294, 296, 300） | — | 实证剖析跨国产业链重组带来的高技术技能人才缺口特征 |
 
 ---
 

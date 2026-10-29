@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -93,10 +93,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　重大使命工程的主管在关键任务选型上的保守偏好并不妨碍宏观产业前沿技术的整体加速
-
-> [!concept-lens] 微观避险决策与宏观技术加速维度
-> 探讨组织层面的保守选型行为如何与全行业技术前沿突破共存。
+> [!concept-proposition] 命题一｜重大使命工程的主管在关键任务选型上的保守偏好并不妨碍宏观产业前沿技术的整体加速
+> **探讨维度　微观避险决策与宏观技术加速维度** 探讨组织层面的保守选型行为如何与全行业技术前沿突破共存。
 
 > [!claim] [[Argument_Schnee_1978_RP|Schnee (1978)]]
 > **双轨技术张力协调机制** [[Jerome E. Schnee|施尼]]（[[Argument_Schnee_1978_RP|Schnee, 1978]]）基于 [[National Aeronautics and Space Administration|NASA]] 访谈与产业数据指出，虽然 NASA 主管在双子座与阿波罗载人飞船的飞行航电选型中表现出对已定型分立半导体器件的偏好，但阿波罗导航计算机（Apollo Guidance Computer, AGC）与民兵导弹制导系统对体积与功耗的苛刻要求，使政府成为集成电路最早的大规模订购者；微观管理者的保守选型与宏观工程的极端约束相互配合，反而在保障任务安全的同时极大地加速了硅半导体与集成电路整体产业的成熟。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 14–17)]]

@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -73,10 +73,8 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　认知灵活性是创造力与批判性思维共享的执行功能成分
-
-> [!concept-lens] [[Higher-Order Thinking Skills\|高阶思维]]共同基础
-> 认知转换（灵活性）是[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共同依赖的[[Executive Function\|执行功能]]成分之一，构成两者正相关的认知基础。
+> [!concept-proposition] 命题一｜[[Cognitive Flexibility|认知灵活性]]是[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共享的[[Executive Function|执行功能]]成分
+> **探讨维度　[[Higher-Order Thinking Skills\|高阶思维]]共同基础** 认知转换（灵活性）是[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共同依赖的[[Executive Function\|执行功能]]成分之一，构成两者正相关的认知基础。
 
 > [!claim] [[Argument_Park_2026_TSC\|Park et al. (2026)]]
 > 认知转换（灵活性）是[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]共同依赖的[[Executive Function\|执行功能]]成分之一（连同抑制与[[Working Memory\|工作记忆]]，Benedek et al., 2012, 2014），构成两者正相关的认知基础之一。（pp. 2–3）

@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -73,10 +73,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　人类传统企业对动物啄序的制度化模仿构成了创新活力的主要杀手
-
-> [!concept-lens] 演化行为学与制度批判维度
-> 揭示人类科层组织复刻动物本能等级的灾难性后果。
+> [!concept-proposition] 命题一｜人类传统企业对动物啄序的制度化模仿构成了创新活力的主要杀手
+> **探讨维度　演化行为学与制度批判维度** 揭示人类科层组织复刻动物本能等级的灾难性后果。
 
 > [!claim] [[Konrad Lorenz|Lorenz, K. Z.]]
 > **群居鸟类严苛种姓支配推导** 劳伦兹指出，寒鸦群体内的等级序列不仅不可逾越，而且处于支配顶端的高阶个体会表现出对底层同类的极端蔑视，通过日常行为压制维系其统治地位。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, p. 124)]]

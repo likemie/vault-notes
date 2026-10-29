@@ -7,7 +7,7 @@ aliases:
 summary: "指专业新闻从业者面向公众开展的针对科学探索、科研产出及其社会伦理影响的独立调查、诠释与报道实践；在媒介生态重构冲击下，正经历从传统专职记者主导向数字社交平台多元分发的深刻转型，面临高校通稿过度营销、商业点击率驱动与科研诚信标准对接等核心挑战。"
 type: concept
 domain: "science-communication"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,9 +25,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Scientific Uncertainty]]"
   - "[[Conflict of Interest in Research]]"
+  - "[[Epistemic Infrastructure]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Epistemology]]"
   - "[[Humility]]"
+  - "[[Document]]"
   - "[[Positivism]]"
   - "[[Solutions Journalism]]"
   - "[[Variable]]"
@@ -50,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -122,20 +124,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　专业科学新闻构成维系现代民主社会理性协商与科技信任的核心知识基础设施
-
-> [!concept-lens] 民主治理与媒介中介机制
-> 科学绝非少数专业精英的封闭特权；在高度技术化的现代社会中，公共政策（如防疫、气候适应、人工智能立法规制）深度依赖科学证据，而专业科学新闻正是公众理解科技决策、参与民主质询的关键桥梁。
+> [!concept-proposition] 命题一｜专业科学新闻构成维系现代民主社会理性协商与科技信任的核心[[Epistemic Infrastructure|知识基础设施]]
+> **探讨维度　民主治理与媒介中介机制** 科学绝非少数专业精英的封闭特权；在高度技术化的现代社会中，公共政策（如防疫、气候适应、人工智能立法规制）深度依赖科学证据，而专业科学新闻正是公众理解科技决策、参与民主质询的关键桥梁。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
 > **民主协商的知识基石** 科学新闻不仅传播知识，更在公共领域中扮演着客观审视者与议程设置者的双重角色；尽管传统纸媒与电视受众面临流失，但主流新闻机构开展的高质量科学调查依然主导着全社会的公共讨论议题；若专业科学新闻持续衰退，公共理性将被算法驱动的极化信息与伪科学所吞噬。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 56–58)]]
 
 ---
 
-### 命题二　媒体行业经济萎缩与高校通稿过度营销联手催生了科学新闻流水线化的体制危机
-
-> [!concept-lens] 媒介政治经济学与知识异化机制
-> 传统大众传媒商业模式瓦解导致专业科学记者岗位大幅削减，留存记者面临高频发稿压力，从而被迫依赖机构新闻通稿，导致源头过度夸大在传播链条中层层放大。
+> [!concept-proposition] 命题二｜媒体行业经济萎缩与高校通稿过度营销联手催生了科学新闻流水线化的体制危机
+> **探讨维度　媒介政治经济学与知识异化机制** 传统大众传媒商业模式瓦解导致专业科学记者岗位大幅削减，留存记者面临高频发稿压力，从而被迫依赖机构新闻通稿，导致源头过度夸大在传播链条中层层放大。
 
 > [!claim] Sumner et al. (2014)
 > **源头通稿过度营销对大众媒体的污染效应** 对 20 所顶尖大学新闻通稿的大规模实证追踪证明，主流媒体科学新闻中的夸大其词绝非仅仅由于记者“理解偏差”，高达三分之一以上的误导性断言（如将相关性篡改为因果建议、将动物实验夸大为人体疗效）直接发端于大学自身的官方通稿；当通稿夸大时，媒体报道失真的发生比（OR）激增 6.5 至 56 倍。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 62)]]
@@ -145,10 +143,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题三　坦诚披露证据不确定性与局限是专业科学新闻重筑公众信任的核心抓手
-
-> [!concept-lens] [[Epistemology\|认识论]][[Humility\|谦逊]]与受众信任建构机制
-> 传统新闻编辑普遍担忧披露研究局限或[[Confidence Interval\|置信区间]]会导致公众困惑、削弱科学权威，这种假定在实证上已被现代传播学研究所推翻。
+> [!concept-proposition] 命题三｜坦诚披露[[Scientific Uncertainty|证据不确定性]]与局限是专业科学新闻重筑公众信任的核心抓手
+> **探讨维度　[[Epistemology\|认识论]][[Humility\|谦逊]]与受众信任建构机制** 传统新闻编辑普遍担忧披露研究局限或[[Confidence Interval\|置信区间]]会导致公众困惑、削弱科学权威，这种假定在实证上已被现代传播学研究所推翻。
 
 > [!claim] Kerr et al. (2022)
 > **证据透明度对公众信任的正向增益** 大规模代表性在线[[Randomised Controlled Trials\|随机对照实验]]证实，无论采用数值置信区间还是定性限定词，在科学报道中公开披露证据局限与未解决的不确定性，不仅未削弱公众对科学事实的认可度，反而显著提升了受众对科学家及新闻报道本身的诚实度与可[[Reliability\|信度]]评价。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 61–62)]]
@@ -159,7 +155,7 @@ updated: 2026-10-26
 ---
 
 > [!contrast-table] 专业科学新闻核心命题归纳
-> | 命题类别 | 核心理论判定 | 实践与政策抓手 | 代表文献 |
+> | 命题类别 | 核心理论判定 | 实践与政策抓手 | 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **民主中介命题** | 科学新闻是现代民主协商与公共科技决策不可替代的知识底座 | 抵御媒体算法浅俗化，确立专业科学报道的编辑优先权 | [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 57)]] |
 > | **源头异化命题** | 高校公关过度营销与媒体流水线化是虚假信息的主要策源地 | 将新闻发布纳机构科研诚信（[[Responsible Conduct of Research\|RCR]]）考核与伦理审查 | Sumner et al. (2014); Nature (2024) |

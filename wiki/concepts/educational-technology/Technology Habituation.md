@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -94,10 +94,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　前沿颠覆性技术的低门槛常态化接触是打破社会信任赤字与认知神秘化的根本育人路径
-
-> [!concept-lens] 技术社会接纳与早期具身认知机制
-> 探讨面对人工智能等颠覆性科技，社会治理何以必须超越商业后期的单向公关营销，转而在早期教育阶段构建长效社会信任许可。
+> [!concept-proposition] 命题一｜前沿颠覆性技术的低门槛常态化接触是打破社会信任赤字与认知神秘化的根本育人路径
+> **探讨维度　技术社会接纳与早期具身认知机制** 探讨面对人工智能等颠覆性科技，社会治理何以必须超越商业后期的单向公关营销，转而在早期教育阶段构建长效社会信任许可。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|The Royal Society (2026)]]
 > **技术去神秘化命题** 颠覆性技术要真正获得社会的持久理解与[[Social License to Operate\|社会许可]]（Social License to Operate），绝不能等到商业应用完全定型后才进行单向宣讲；新兴科技企业与政府必须以基础教育为前沿阵地，通过资助中小学校开展常态化接触与工具[[Habituation\|习惯化]]，消除技术的黑箱神秘感，使未来公民在青年时期即具备对技术风险、治理边界与利益归属开展理性民主审议的深层胜任力。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch04\|(The Royal Society, 2026, pp. 72–73, 76)]]

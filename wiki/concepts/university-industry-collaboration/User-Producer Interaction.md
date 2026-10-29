@@ -9,10 +9,10 @@ aliases:
 summary: "由本格特-奥克·伦德瓦尔等演化经济学家提出、后成为国家创新系统微观基础的核心概念；指技术装备和先进材料的供应企业与下游行业用户之间持续开展的非正式、双向且制度化的信息交换、协同开发与反馈网络；强调技术创新不仅源于实验室科学推动，更依赖于供需双方在地理与文化邻近性基础上形成的日常互动学习，是决定复杂技术扩散速度与比较优势形成的关键微观机制。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/innovation-economics
   - theme/systems-of-innovation
@@ -39,14 +39,13 @@ related_persons:
   - "[[Chris Freeman]]"
   - "[[Michael Porter]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[Education Resources Information Center]]"
 related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -99,23 +98,19 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　跨界互动学习是渐进式创新与技术扩散的微观核心
-
-> [!concept-lens] 创新源泉从孤立实验室向产业网络的位移
-> 探讨决定技术改良速度与生产率提升的关键究竟是正规研发人员的规模，还是产业上下游的协同配合能力。
+> [!concept-proposition] 命题一｜跨界互动学习是渐进式创新与技术扩散的微观核心
+> **探讨维度　创新源泉从孤立实验室向产业网络的位移** 探讨决定技术改良速度与生产率提升的关键究竟是正规研发人员的规模，还是产业上下游的协同配合能力。
 
 > [!claim] [[Bengt-Åke Lundvall|Lundvall, B.-Å.]]
 > **互动学习决定比较优势** 创新不是个体或孤立企业的单一行为，而是一个深深根植于社会网络的互动学习过程；与先进用户的紧密互动使得生产者能够先于国际竞争对手捕捉技术演进方向，从而构筑稳固的非价格竞争优势。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11, 17)]]
 
 > [!claim] [[Chris Freeman|Freeman, C.]]
-> **解释体制效率落差的关键砝码** 1970 年代日本与前苏联[[National Innovation System|国家创新系统]]的悬殊反差清晰印证了该机制：日本制造业建立了供应商、总装厂与客户之间极度敏捷的用户—生产者网络；而前苏联[[Chinese Academy of Sciences|科学院]]、行业所与生产企业彼此隔离，缺乏市场采购与用户端的真实反馈回路，导致其庞大的军工级研发无法转化为民用技术生产力。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11–13)]]
+> **解释体制效率落差的关键砝码** 1970 年代日本与前苏联[[National Innovation System|国家创新系统]]的悬殊反差清晰印证了该机制：日本制造业建立了供应商、总装厂与客户之间极度敏捷的用户—生产者网络；而前苏联科学院、行业所与生产企业彼此隔离，缺乏市场采购与用户端的真实反馈回路，导致其庞大的军工级研发无法转化为民用技术生产力。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11–13)]]
 
 ---
 
-### 命题二　局域化互动网络构成抵抗全球无国界均质化的制度锚固
-
-> [!concept-lens] 全球化趋势下的地域集聚与制度[[Heterogeneity|异质性]]
-> 考察跨国资本流动是否能够完全抹平基于地理文化邻近性生长出来的微观网络优势。
+> [!concept-proposition] 命题二｜局域化互动网络构成抵抗全球无国界均质化的制度锚固
+> **探讨维度　全球化趋势下的地域集聚与制度[[Heterogeneity|异质性]]** 考察跨国资本流动是否能够完全抹平基于地理文化邻近性生长出来的微观网络优势。
 
 > [!claim] Freeman, C.
 > **母国网络不可替代性** 即便跨国企业在全球范围内进行生产与投资扩张，其最高阶的战略研发、复杂设计与核心控制权仍九成以上牢固锚固于母国；因为支撑这些前沿探索的正是母国历经数十年沉淀的精密用户—生产者网络、深厚信任关系与高素质技术劳动力供给。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 16–18, 21)]]

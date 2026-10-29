@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -102,10 +102,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　过度层级化的管理架构必然割裂核心领导者与创造性生产者之间的生命线
-
-> [!concept-lens] 组织结构与[[Creativity|创造力]]异化维度
-> 阐明工业[[Bureaucracy|科层制]]对知识型专家艺术家的系统性挤压与异化机制。
+> [!concept-proposition] 命题一｜过度层级化的管理架构必然割裂核心领导者与[[Creativity|创造性]]生产者之间的生命线
+> **探讨维度　组织结构与[[Creativity|创造力]]异化维度** 阐明工业[[Bureaucracy|科层制]]对知识型专家艺术家的系统性挤压与异化机制。
 
 > [!claim] [[Peter Drucker|Drucker, P. F.]]
 > **知识型组织扁平化与直连必要性推论** 德鲁克指出，工业时代构建在层层管理中介上的科层制无法适应[[Knowledge Production|知识生产]]规律；正如交响乐团中数打副总裁指挥会毁掉整场演奏一样，高科技组织必须保证领导者与一线专业人员之间的直接视线接触，才能凝聚顶尖合力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, p. 127)]]

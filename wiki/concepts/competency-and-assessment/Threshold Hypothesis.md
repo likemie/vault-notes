@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -95,20 +95,16 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　基础智力构成创造力的必要非充分条件
-
-> [!concept-lens] 认知必要性与非充分性
-> 探讨认知加工能力如何为概念搜索与远距离联想提供必要的信息检索底座，但无法单独保证[[Creativity\|创造性]]构想的诞生。
+> [!concept-proposition] 命题一｜基础智力构成[[Creativity|创造力]]的必要非[[Necessary and Sufficient Conditions|充分条件]]
+> **探讨维度　认知必要性与非充分性** 探讨认知加工能力如何为概念搜索与远距离联想提供必要的信息检索底座，但无法单独保证[[Creativity\|创造性]]构想的诞生。
 
 > [!claim] Guilford (1967); Karwowski et al. (2021)
 > **必要非充分认知约束** 个体在进行复杂概念组合与问题重构时，需要最低限度的[[Working Memory\|工作记忆]]广度与抽象推理能力（必要性）；然而，智力并不自动提供打破常规的意愿、对模糊性的容忍度与原创性偏好（非充分性），因此高智力个体完全可能表现出刻板守旧的思维模式。
 
 ---
 
-### 命题二　二阶宏观综合证实认知能力对创造力的独立贡献有限且与外认知因素相当
-
-> [!concept-lens] 宏观[[Effect Size\|效应量]]聚合与跨领域裁决
-> 探讨全领域大样本[[Meta-analysis\|元分析]]汇总数据对智力[[Determinism\|决定论]]的实证检验。
+> [!concept-proposition] 命题二｜二阶宏观综合证实认知能力对创造力的独立贡献有限且与外认知因素相当
+> **探讨维度　宏观[[Effect Size\|效应量]]聚合与跨领域裁决** 探讨全领域大样本[[Meta-analysis\|元分析]]汇总数据对智力[[Determinism\|决定论]]的实证检验。
 
 > [!claim] [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Weiss and Steger (2021)
 > **宏观认知效应量约束** 跨 52 项一阶元分析的大规模[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）表明，认知相关因素（Cognitive Correlates，包含智力、[[Academic Achievement\|学业成绩]]、工作记忆）与创造力的综合二阶[[Effect Size\|效应量]]仅为 **$r = 0.12$**（95% [[Confidence Interval\|置信区间]] $[0.04, 0.19]$），与非认知/外认知因素（Extracognitive Correlates，$r = 0.14$，包含动机、心境与自我信念）在统计上完全重叠。这一宏观证据强力印证了门槛假说推论：在未限制智力范围的全样本中，认知能力的全局解释力非常温和，创造力的实现高度依赖于动机、[[Self-Efficacy\|自我效能]]与专门教学干预的共同协同。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]

@@ -22,8 +22,8 @@ related_concepts:
   - "[[Soft Belief]]"
   - "[[Anonymity in Research]]"
   - "[[Grandes Ecoles]]"
-  - "[[Discourse]]"
   - "[[Performativity]]"
+  - "[[Discourse]]"
   - "[[Open-Mindedness]]"
   - "[[Hard Power]]"
 related_theories:
@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -82,20 +82,16 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　信念的真实性与其承担的现实代价成正比，缺乏风险的道德表达必然退化为表演性空洞容器
-
-> [!concept-lens] 道德哲学与精英选拔机制
-> 探讨现代公共舆论对争议的惩罚如何驱逐硬信念，并在制度上筛选出只求程序合规的平庸管理者。
+> [!concept-proposition] 命题一｜信念的真实性与其承担的现实代价成正比，缺乏风险的道德表达必然退化为[[Performativity|表演性]]空洞容器
+> **探讨维度　道德哲学与精英选拔机制** 探讨现代公共舆论对争议的惩罚如何驱逐硬信念，并在制度上筛选出只求程序合规的平庸管理者。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **避险文化对智识勇气的消解** 当代西方文化系统性惩罚公开表露真实信念的公共人物，导致高校、政界与商界充斥着毫无道德情感的“空洞容器”（Empty Vessels）。这种制度性规训剥夺了个体形成深层信念的本能，使社会在面对关乎文明存续的重大地缘危机时丧失领导决断力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 60–64)]]
 
 ---
 
-### 命题二　自由主义若放弃对实质硬信念的阐发与辩护，必将在公共领域制造滋生极端偏狭的道德真空
-
-> [!concept-lens] 政治哲学与民主政体合法性
-> 探讨程序中立与道德撤退如何导致公共[[Discourse|话语]]退化为琐碎八卦与民粹激化。
+> [!concept-proposition] 命题二｜自由主义若放弃对实质硬信念的阐发与辩护，必将在公共领域制造滋生极端偏狭的道德真空
+> **探讨维度　政治哲学与民主政体合法性** 探讨程序中立与道德撤退如何导致公共[[Discourse|话语]]退化为琐碎八卦与民粹激化。
 
 > [!claim] [[Michael Sandel|Sandel, M. J.]]
 > **自由主义道德撤退的制度危机** 现代自由主义将个人权利绝对置于共同善之上，并在核心伦理争议前主动退避。这种单薄的程序主义无法容纳充满生机的民主生活所必需的道德能量，留下了一个被琐碎丑闻与政治极端主义占据的危险精神真空。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 68)]]; (Sandel, 1998, p. 217)

@@ -24,7 +24,7 @@ related_methods: []
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -57,7 +57,7 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　领域参照测验的科学性取决于题目抽样的代表性
+> [!concept-proposition] 命题一｜领域参照测验的科学性取决于题目抽样的代表性
 
 > [!claim] Gipps, C.
 > **代表性抽样决定推断质量** 如果内容全域包含 1000 个项目，测验从中抽取 50 题，学生答对 30 题，就可以估计他掌握了全域的 60%。但这一推断只有在 50 题能够公平代表全域时才成立；如果题目集中在局部内容，60% 便不能代表整体掌握程度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011, Ch. 24.3)]]

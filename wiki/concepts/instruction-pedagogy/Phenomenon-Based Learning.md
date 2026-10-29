@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -119,10 +119,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题类型一：现象学与教化逻辑下的教学设计与目的（Pedagogical Design and Purposes under Phenomenological and Bildung Logics）
-
-> [!concept-lens] [[Phenomenology\|现象学]]体验与[[Reflexivity\|反思性]]主体生成
-> 这类命题关注现象本位学习（PhBL）在哲学层面的本源目的，强调其作为连接学生“生活世界”、激发反思性主体能动性以及重审教育意义的教学入口。
+> [!concept-proposition] 命题类型一｜[[Phenomenology|现象学]]与教化逻辑下的教学设计与目的（Pedagogical Design and Purposes under Phenomenological and [[Bildung]] Logics）
+> **探讨维度　[[Phenomenology\|现象学]]体验与[[Reflexivity\|反思性]]主体生成** 这类命题关注现象本位学习（PhBL）在哲学层面的本源目的，强调其作为连接学生“生活世界”、激发反思性主体能动性以及重审教育意义的教学入口。
 
 > [!claim] Rauste-von Wright, M.
 > 现象本位学习作为一种“自我修正的课程模型”，将 [[John Dewey]] 的[[Reflective Thinking\|反思性探究]]与 [[George Herbert Mead]] 的具身社会互动论融合为[[Pragmatic Paradigm\|实用主义]][[Constructivist Paradigm\|建构主义]]（[[Pragmatic Constructivism]]）。它主张教学应当从预设的课程大纲导向转向基于学生自身世界观的生成，将学习视为“情境化与语境化的互动过程”，以弥合理论与实践的传统鸿沟。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]
@@ -132,10 +130,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题类型二：学科深度与全球治理的工具化张力（Tensions of Disciplinary Depth and Global Governance Instrumentalisation）
-
-> [!concept-lens] 跨学科深度与新自由主义技能原子化
-> 这类命题关注现象本位学习在实施过程中的边界条件与政策拉扯，聚焦在跨学科整合中如何维护学科自身的[[Ontology\|本体论]]深度，以及如何抵御新自由主义下的技能原子化侵蚀。
+> [!concept-proposition] 命题类型二｜学科深度与全球治理的工具化张力（Tensions of Disciplinary Depth and Global Governance Instrumentalisation）
+> **探讨维度　跨学科深度与新自由主义技能原子化** 这类命题关注现象本位学习在实施过程中的边界条件与政策拉扯，聚焦在跨学科整合中如何维护学科自身的[[Ontology\|本体论]]深度，以及如何抵御新自由主义下的技能原子化侵蚀。
 
 > [!claim] Wheelahan, L.
 > 跨学科探究必须以尊重学科自身的内在理论逻辑与本体论深度为前提。[[Discipline-Based Theory\|学科理论]]是人类探索世界不同维度的历史积淀与系统化秩序，若将系统知识拆散为碎片化的能力指标或活动模块，将侵蚀学科的内在教育价值。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 5]]

@@ -26,8 +26,8 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Metacognition]]"
   - "[[Epistemology]]"
-  - "[[Construct Validity]]"
   - "[[Commensuration]]"
+  - "[[Construct Validity]]"
   - "[[Space of Equivalence]]"
 related_theories: []
 related_methods:
@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -114,20 +114,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　阅读素养构念从印刷单文本向数字多源文本的演进重塑了信息社会的批判性评价标准
-
-> [!concept-lens] 数字时代阅读[[Epistemology|认识论]]转向
-> 该命题探讨 [[PISA]] 阅读框架如何突破传统单纯的篇章信息[[Decodification|解码]]，将其推进为应对算法时代信息茧房、虚假信息与认知操纵的关键公民防御机制。
+> [!concept-proposition] 命题一｜阅读素养[[Construct|构念]]从印刷单文本向数字多源文本的演进重塑了信息社会的批判性评价标准
+> **探讨维度　数字时代阅读[[Epistemology|认识论]]转向** 该命题探讨 [[PISA]] 阅读框架如何突破传统单纯的篇章信息[[Decodification|解码]]，将其推进为应对算法时代信息茧房、虚假信息与认知操纵的关键公民防御机制。
 
 > [!claim] OECD (2018) & [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]]
 > **信息辨伪与[[Metacognition|元认知]]能力建构** 在前互联网时代，印刷文本由出版机构提供了前置的权威背书与质量过滤；而在开放的数字网络生态中，任何个体均可自由发布未经核实的内容。PISA 2018 阅读框架明确将“评估文本的质量与可[[Reliability|信度]]”（Evaluating quality and credibility）和“处理文本冲突”（Corroborating and handling conflict）提升为主测的核心认知维度，促使各成员国基础母语课程从传统的“信任文本、复述大意”转向“质询文本、多方交叉验证”的批判性媒介素养培育。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 7–8)]]
 
 ---
 
-### 命题二　脱离具体国家母语文学传统的通约化构念在确立跨国可比性的同时消解了本土文化与深层文本诠释的多样性
-
-> [!concept-lens] 跨国度量技术与本土文化[[Construct Validity|构念效度]]冲突
-> 该命题探讨[[Commensuration|通约化]]统计量表在消除地方特异性过程中对本土文学传统与历史厚度造成的系统性矮化。
+> [!concept-proposition] 命题二｜脱离具体国家母语文学传统的[[Commensuration|通约化]]构念在确立跨国可比性的同时消解了本土文化与深层文本诠释的多样性
+> **探讨维度　跨国度量技术与本土文化[[Construct Validity|构念效度]]冲突** 该命题探讨[[Commensuration|通约化]]统计量表在消除地方特异性过程中对本土文学传统与历史厚度造成的系统性矮化。
 
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]
 > **统计信度优先对本土文学本体效度的消解** 为构建跨国横向通用的[[Space of Equivalence|等值空间]]（Space of Equivalence），PISA 必须将所有试题经由多语言双向[[Back Translation|回译]]，剔除任何深植于特定民族语言修辞、历史典故或深层哲思的文本材料。这种测量技术使阅读评价被窄化为功利性、信息处理式的功能性技能（Functional literacy），虽然实现了跨国排名的统计[[Reliability|信度]]，却在实质上消解了母语教育中涵养文化认同、审美人格与历史厚度的深层[[Construct Validity|构念效度]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]

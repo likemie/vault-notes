@@ -7,7 +7,7 @@ aliases:
 summary: "国际政治学与全球治理构念，指国际组织在缺乏法定强制管辖权的前提下，依托专业技术特长、去政治化理性声誉、自主科研产出与标准化量规，被主权国家公认为界定政策问题与提供决策咨询的合法权威形态；在教育领域表现为经合组织以测评数据行使软治理，以及世界银行以知识生产、管理与传播构建全球常识。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Inquisitive Mode of Governance]]"
   - "[[Discourse]]"
   - "[[Policy Conditionalities]]"
+  - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
 related_theories:
@@ -39,6 +40,7 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
+  - "[[Martha Finnemore]]"
   - "[[Kerstin Martens]]"
 related_facts:
   - "[[OECD]]"
@@ -57,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-23
+updated: 2026-10-29
 ---
 
 ---
@@ -115,10 +117,8 @@ updated: 2026-10-23
 
 ---
 
-### 命题一　认知权威通过去政治化的技术理性声誉赋予非强制性治理以政治合法性
-
-> [!concept-lens] 权威构建与合法性机制
-> 探讨无强制制裁手段的国际机构如何凭借[[Technical Rationality|技术理性]]外观突破委托代理理论预设的权力边界。
+> [!concept-proposition] 命题一｜认知权威通过去政治化的[[Technical Rationality|技术理性]]声誉赋予非强制性治理以政治合法性
+> **探讨维度　权威构建与合法性机制** 探讨无强制制裁手段的国际机构如何凭借[[Technical Rationality|技术理性]]外观突破委托代理理论预设的权力边界。
 
 > [!claim] Broome and Seabrooke (2012); [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]]
 > **技术理性声誉与自主权威生成** 传统委托代理理论假定国际组织仅为主权国家的仆从；国际组织社会学则指出，国际组织通过发展内部行政网络与专业工作机制，能够获取超越原始委托范围的自主行动空间。当国际组织在特定领域展现出严密、理性和不偏不倚的技术官僚专业水准时，便被政策社群接纳为合法的“认知权威”。这种权威主要在持续的专业实践、知识供给与声誉积累中自发建构，独立于主权条约的法理授权，使国际组织提出的政策方案具备不可轻易否定的客观正当性。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 269–270)]]
@@ -128,23 +128,19 @@ updated: 2026-10-23
 
 ---
 
-### 命题二　认知权威依托探究与调解双重模式将原始测量数据转化为政策行动脚本
-
-> [!concept-lens] 知识转化与议程介入模式
-> 阐释国际组织如何通过两阶段认知加工将客观统计数据转变为重塑国内利益格局的规制力量。
+> [!concept-proposition] 命题二｜认知权威依托探究与调解双重模式将原始测量数据转化为政策行动脚本
+> **探讨维度　知识转化与议程介入模式** 阐释国际组织如何通过两阶段认知加工将客观统计数据转变为重塑国内利益格局的规制力量。
 
 > [!claim] Mahon and McBride (2009); [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]]
 > **探究与[[Meditative Mode of Governance|调解模式]]的协同推进** 认知权威对政策现实的建构通过[[Inquisitive Mode of Governance|探究模式]]与调解模式的递进协同得以完成。在探究模式下，国际组织开展系统的信息收集，将零散事实根据自身价值理念加工为具备因果解释力的实质性知识，夺取对“问题何在”的定义权；在调解模式下，国际组织直接介入公共政策讨论，依据提炼出的最佳实践向成员国公开发布政策指南与横向参照蓝图。通过向国内利益团体提供权威的论辩弹药，国际组织强化偏好相同改革的本土联盟的[[Discourse|话语]]权，间接改变国内决策的力量均衡。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 271, 277–278)]]
 
 ---
 
-### 命题三　国际组织依托知识生产、标准化管理与实地干预的三位一体机制构建全生命周期的认知权威体系
-
-> [!concept-lens] 认知全生命周期与实体制度化机制
-> 探讨国际多边组织如何超越外部指标测评，通过自主科研编制、指标管理规程与贷款项目干预的相互支撑构筑深层认知统治力。
+> [!concept-proposition] 命题三｜国际组织依托[[Knowledge Production|知识生产]]、标准化管理与实地干预的三位一体机制构建全生命周期的认知权威体系
+> **探讨维度　认知全生命周期与实体制度化机制** 探讨国际多边组织如何超越外部指标测评，通过自主科研编制、指标管理规程与贷款项目干预的相互支撑构筑深层认知统治力。
 
 > [!claim] [[Argument_Zapp_2017_IJED|Zapp (2017)]]
-> **[[Knowledge Production|知识生产]]、管理与传播的三位一体机制** 迈克·扎普（Mike Zapp）将新制度主义社会学与全球治理理论相结合，指出国际组织的治理机制涵盖规制性、规范性与认知性三大谱系。当以资金供给和[[Policy Conditionalities|贷款附加条件]]为核心的规制性信贷触及制度上限时，[[World Bank|世界银行]]通过确立[[Knowledge Bank|知识银行]]战略全面转向认知权威。国际组织不仅是政策协调平台，更是世界社会普遍理性化与科学化变迁的理论家；其认知权威依托实体化知识生产（专职科研编制与自主学术发表）、标准化知识管理（文献库集中化与跨国度量量规研发）以及全球化知识传播（虚拟研修与实地信贷干预深度绑定）三位一体机制得以确立，在规避主权直接对抗的同时实现了对借款国政策认知框架与常识边界的深层重构。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 2–5, 9–10)]]
+> **[[Knowledge Production|知识生产]]、管理与传播的三位一体机制** 迈克·扎普（Mike Zapp）将新制度主义社会学与全球治理理论相结合，指出国际组织的治理机制涵盖规制性、规范性与认知性三大谱系。当以资金供给和[[Policy Conditionalities|贷款附加条件]]为核心的规制性信贷触及制度上限时，[[World Bank|世界银行]]通过确立[[Knowledge Bank|知识银行]]战略全面转向认知权威。国际组织不仅是政策协调平台，更是世界社会普遍理性化与科学化变迁的理论家；其认知权威依托实体化知识生产（专职科研编制与自主学术发表）、标准化知识管理（[[Document|文献]]库集中化与跨国度量量规研发）以及全球化知识传播（虚拟研修与实地信贷干预深度绑定）三位一体机制得以确立，在规避主权直接对抗的同时实现了对借款国政策认知框架与常识边界的深层重构。[[Argument_Zapp_2017_IJED|(Zapp, 2017, pp. 2–5, 9–10)]]
 
 ---
 
@@ -158,7 +154,7 @@ updated: 2026-10-23
 ---
 
 > [!dev-timeline] 概念演变
-> - **2002–2004 — 国际组织权威的社会学奠基** 迈克尔·巴奈特（Michael Barnett）与玛莎·芬尼莫尔（Martha Finnemore）论证国际组织官僚机构能够基于理性和专业特长建构社会现实与行动规则，指出非政治化的技术声誉是其规制合法性的核心来源。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 270)]]
+> - **2002–2004 — 国际组织权威的社会学奠基** 迈克尔·巴奈特（Michael Barnett）与玛莎·芬尼莫尔（[[Martha Finnemore]]）论证国际组织官僚机构能够基于理性和专业特长建构社会现实与行动规则，指出非政治化的技术声誉是其规制合法性的核心来源。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 270)]]
 > - **2007 — 声誉机制在多边规制中的[[Operationalization|操作化]]** 沙尔曼（J. C. Sharman）论证国际组织政策产出的实际规制效力，在因果上直接绑定于国际社会对其“理性与中立”的声誉评价。[[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, p. 270)]]
 > - **2012 — 认知权威[[Construct|构念]]的正式提出** 安德烈·布鲁姆（André Broome）与伦纳德·西布鲁克（Leonard Seabrooke）在《新政治经济学》系统提出国际组织的“认知权威”，分析其如何通过特定指标与测量视角规范成员国宏观政策。
 > - **2017 — 国际组织认知权威的三维机制建构** 迈克·扎普（[[Argument_Zapp_2017_IJED|Zapp, 2017]]）系统提出涵盖知识生产、知识管理与知识传播的三维[[Epistemic Governance|认知治理]]模型，通过多源纵向统计揭示世界银行如何从单纯信贷供给转向以实体科研与度量量规构建全球常识的认知权威中枢。

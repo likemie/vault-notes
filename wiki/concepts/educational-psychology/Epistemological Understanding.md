@@ -9,10 +9,10 @@ aliases:
 summary: "个体对认知的主观维度与客观维度的协调能力，以及对认识论理想与可靠认识过程之规范合理性与边界条件的元认知理解。"
 type: concept
 domain: "educational-psychology"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/epistemology
   - theme/cognitive-development
@@ -37,6 +37,8 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Operationalization]]"
   - "[[Epistemic Resources]]"
+  - "[[Variable]]"
+  - "[[Construct]]"
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
@@ -56,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-16
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -120,30 +122,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　认识论阶段演进呈现跨知识领域的反向不对称序列
-
-> [!concept-lens] 跨领域发展的不对称反转维度
-> 考察[[Epistemology\|认识论]]理解从绝对论向多元论、再由多元论向评价论演进时，具体[[Areas of Knowledge\|知识领域]]的本质属性如何制约主观觉醒与客观重建的发生顺序。
+> [!concept-proposition] 命题一｜[[Epistemology|认识论]]阶段演进呈现跨[[Areas of Knowledge|知识领域]]的反向不对称序列
+> **探讨维度　跨领域发展的不对称反转维度** 考察[[Epistemology\|认识论]]理解从绝对论向多元论、再由多元论向评价论演进时，具体[[Areas of Knowledge\|知识领域]]的本质属性如何制约主观觉醒与客观重建的发生顺序。
 
 > [!claim] [[Deanna Kuhn\|Kuhn, D.]] 等
 > **跨领域反向转变序列** 认识论理解向多元论（接纳主观）的转变，是以“个人品味 > 审美 > 价值观 > 社会事实 > 物理事实”的序列推进的；而向评价论（重新整合客观标准）的转变则呈现完全相反的序列，最先在物理与社会事实领域实现，而在价值观与审美领域遭遇最大阻碍。这一反向序列源于主观性的觉醒依赖于日常感官差异的自发体验，而客观维度的理性重建则必须诉诸规范性的实证准则与方法体系。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, pp. 319–320)]]
 
 ---
 
-### 命题二　成年期认识论成熟普遍受阻于多元论的宽容错觉
-
-> [!concept-lens] 文化规范与高阶认识论发展的张力维度
-> 探讨为何生理年龄增长与高学历教育未能自发带来全领域的评价论成熟，分析社会宽容文化对理性裁决机制的阻滞。
+> [!concept-proposition] 命题二｜成年期认识论成熟普遍受阻于多元论的宽容错觉
+> **探讨维度　文化规范与高阶认识论发展的张力维度** 探讨为何生理年龄增长与高学历教育未能自发带来全领域的评价论成熟，分析社会宽容文化对理性裁决机制的阻滞。
 
 > [!claim] [[Deanna Kuhn\|Kuhn, D.]] 等
 > **宽容文化阻滞高阶理性评价** 年龄增长和教育背景并不能保障个体在所有领域达成评价论。大量成年人（包括高学历群体）在价值观与审美议题上永久停滞于多元论阶段。这主要是因为现代文化中推崇的“包容宽容”与“多元共存”伦理被错误泛化：人们将“尊重他人持有多元立场的权利”混淆为“所有立场在认识论上具有同等效力”，从而主动放弃运用证据与逻辑对争议观点进行优劣裁决，导致评价论发展陷入停滞。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, pp. 325–326)]]
 
 ---
 
-### 命题三　学科探究中的成熟认识论理解必须通达规程成立的因果机理与适用边界
-
-> [!concept-lens] 认知操作执行与元认识论理解的分野维度
-> 分析探究实践中规范性评价准则的掌握机制，揭示理解方法成立的因果原理如何防止规则的机械误用。
+> [!concept-proposition] 命题三｜学科探究中的成熟认识论理解必须通达规程成立的因果机理与适用边界
+> **探讨维度　认知操作执行与元认识论理解的分野维度** 分析探究实践中规范性评价准则的掌握机制，揭示理解方法成立的因果原理如何防止规则的机械误用。
 
 > [!claim] Duncan, R. G. & [[Clark A. Chinn\|Chinn, C. A.]]
 > **元认识论理解决定探究准则的有效运用** 认识论理解在具体学科探究中不能停留在认知层面的规程知晓，而必须通达元认识论理解。若学生仅知道“双盲是科学标准”而不知其是通过阻断心理暗示与观察者偏见发挥效能，便无法理解为何在心理动力学疗法中无法设立双盲安慰剂；若学生仅知晓“推论直接性理想”而缺乏演化机制理解，便会草率判定动物病毒实验对人类模型毫无价值。唯有掌握准则背后的因果机制与边界条件，探究者才能在复杂实践中审慎调用[[Epistemic Ideals\|认识论理想]]。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 207–208, 221–222)]]
@@ -184,11 +180,11 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 测量工具调节 | 认识论理解量表（EUI） | $r$ | k = 5 | <span class="mx-bar ef-bar conv" title="r .242 → d ≈ 0.50（d = 2r / √(1 − r²)）"><span class="b10"></span></span>.242 | [.104, .371] | 问卷工具间效应差异显著（$p < .05$） |
 >
-> - **[[Argument_Greene_2018_JEP|Greene et al. (2018)]] · 测量工具调节** 证实聚焦认识论理解构念的测评工具对学业成就具有中等偏强的正向预测效力，显著高于传统泛化信念量表
+> - **[[Argument_Greene_2018_JEP|Greene et al. (2018)]] · 测量工具调节** 证实聚焦认识论理解[[Construct|构念]]的测评工具对学业成就具有中等偏强的正向预测效力，显著高于传统泛化信念量表
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

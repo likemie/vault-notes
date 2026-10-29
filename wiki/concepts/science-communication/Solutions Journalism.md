@@ -7,7 +7,7 @@ aliases:
 summary: "指基于实证证据对社会、环境与健康议题应对方案进行系统调查、成效评估与局限审视的严谨新闻实践范式；旨在克服传统轰动性负面报道引发的“新闻回避”与受众习得性无助，在肯定行动希望的同时恪守证据批判与反思边界。"
 type: concept
 domain: "science-communication"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Critical Thinking Disposition]]"
+  - "[[Document]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -107,10 +108,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　提供具有行动效能感的建设性希望是扭转全球公众新闻回避危机的根本路径
-
-> [!concept-lens] 受众心理防御与认知生态机制
-> 现代受众对传统新闻的厌弃并非源于漠不关心，而是由于媒介长期沉溺于“流血即头条（If it bleeds, it leads）”的负面轰动主义，导致受众陷入情感枯竭与[[Learned Helplessness\|习得性无助]]。
+> [!concept-proposition] 命题一｜提供具有行动效能感的建设性希望是扭转全球公众新闻回避危机的根本路径
+> **探讨维度　受众心理防御与认知生态机制** 现代受众对传统新闻的厌弃并非源于漠不关心，而是由于媒介长期沉溺于“流血即头条（If it bleeds, it leads）”的负面轰动主义，导致受众陷入情感枯竭与[[Learned Helplessness\|习得性无助]]。
 
 > [!claim] Newman et al. (2025)
 > **负面情绪饱和驱动的主动新闻回避** 牛津大学路透新闻研究院《2025 全球数字新闻报告》大样本调查证实，主动回避新闻的受众比例在全球及英国均创下历史新高；受访者最核心的回避动机是“新闻带来的无休止焦虑、沮丧与绝望感”，受众急切需要能够展现“人类如何建设性应对危机”的高质量新闻报道。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 59)]]
@@ -120,20 +119,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　科学共同体的问题解决本能为解决方案新闻提供了最坚实的实证叙事依托
-
-> [!concept-lens] 科学认知特性与公共对话转化机制
-> 科学研究绝不仅是抽象定律的推导，其本质是通过实证探索提供应对疾病、饥荒、生态崩溃与能源转型的实际手段，与解决方案新闻具有天然的内在契合。
+> [!concept-proposition] 命题二｜科学共同体的[[Problem Solving|问题解决]]本能为解决方案新闻提供了最坚实的实证叙事依托
+> **探讨维度　科学认知特性与公共对话转化机制** 科学研究绝不仅是抽象定律的推导，其本质是通过实证探索提供应对疾病、饥荒、生态崩溃与能源转型的实际手段，与解决方案新闻具有天然的内在契合。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
 > **科学作为建设性新闻的供给策源地** 英国广播公司（BBC）受众调研显示，超过 92% 的英国公众对科学议题保持着强烈求知欲，62% 的人明确表达希望看到更多科学报道；科学共同体拥有源源不断的[[Problem Solving\|问题解决]]案例（如疫苗技术迭代、清洁能源突破、土壤修复实践），新闻界应当主动将科学界的方案探索置于采编优先位置，引导公众从被动恐慌转向理性建设。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 59, 63)]]
 
 ---
 
-### 命题三　严密审视实施局限与不确定性是防范解决方案新闻蜕化为公关神话的防御边界
-
-> [!concept-lens] 科学[[Critical Thinking Disposition\|批判精神]]与反思治理机制
-> 解决方案新闻若缺乏对研究局限的苛刻拷问，极易被高校公关、商业资本与政治力量所俘获，沦为掩盖结构性矛盾的技术粉饰。
+> [!concept-proposition] 命题三｜严密审视实施局限与不确定性是防范解决方案新闻蜕化为公关神话的防御边界
+> **探讨维度　科学[[Critical Thinking Disposition\|批判精神]]与反思治理机制** 解决方案新闻若缺乏对研究局限的苛刻拷问，极易被高校公关、商业资本与政治力量所俘获，沦为掩盖结构性矛盾的技术粉饰。
 
 > [!claim] Kerr et al. (2022)
 > **平衡不确定性筑牢报道公信力** 传播学[[Randomised Controlled Trials\|随机对照实验]]表明，高质量解决方案报道绝不可隐瞒方案的技术成熟度缺陷或环境适应边界；公开承认“方案目前仅在实验室有效”或“尚需五年临床验证”的不确定性，不仅不会打击公众信心，反而能够赢得受众对新闻报道客观性与科学家诚实品质的深度认可。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 61–62)]]
@@ -144,7 +139,7 @@ updated: 2026-10-26
 ---
 
 > [!contrast-table] 解决方案新闻核心命题归纳
-> | 命题类别 | 核心理论判定 | 适用情境与实践路径 | 代表文献 |
+> | 命题类别 | 核心理论判定 | 适用情境与实践路径 | 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **受众赋能命题** | 建设性方案叙事是克服习得性无助与逆转新闻回避的核心解药 | 复杂公共危机（气候变化、公共卫生、贫困）的大众传播 | Newman et al. (2025); Majid (2022) |
 > | **科学策源命题** | 科学研究天然的问题解决面向是建设性公共议程的基石 | 科学新闻采编优先级的重塑与科技议题大众化传播 | [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] |

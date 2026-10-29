@@ -26,8 +26,10 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
+  - "[[Document]]"
   - "[[Effective Teaching]]"
   - "[[Commensuration]]"
+  - "[[Teacher Subject Matter Knowledge]]"
   - "[[Direct Instruction]]"
   - "[[Zone of Desired Effects]]"
   - "[[Microteaching]]"
@@ -37,9 +39,10 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Academic Achievement]]"
   - "[[Performance Pay]]"
-  - "[[Hypothesis]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Hypothesis]]"
   - "[[Variable]]"
+  - "[[Teacher Effects]]"
   - "[[Discourse]]"
 related_theories:
   - "[[Stability vs. Variability Dilemma]]"
@@ -69,16 +72,16 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-23
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Terhart_2011_JCS"
 argument_key: "Argument_Terhart_2011_JCS"
 argument_display_title: "Has John Hattie really found the holy grail of research on teaching? An extended review of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 42
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Journal of Curriculum Studies"
 ---
@@ -120,7 +123,7 @@ journal: "Journal of Curriculum Studies"
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **文本样本** | 约翰·哈蒂（John Hattie, 2009）专著《可见的学习》（*Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*），全书 378 页，包含约 1,700 条参考文献。 |
+> | **文本样本** | 约翰·哈蒂（John Hattie, 2009）专著《可见的学习》（*Visible Learning: A Synthesis of Over 800 Meta-Analyses Relating to Achievement*），全书 378 页，包含约 1,700 条参考[[Document\|文献]]。 |
 > | **底层数据样本** | [[John Hattie\|哈蒂]]综合的 816 项[[Meta-analysis\|元分析]]、52,649 项初级研究、83,033,433 名学生与 146,626 个[[Effect Size\|效应量]]。 |
 > | **政策与机构样本** | 奥克兰大学可见学习实验室（Visible Learning Laboratories）、[[Assessment Tools for Teaching and Learning\|新西兰教育成就评估工具（Assessment Tools for Teaching and Learning, asTTle）]]、新西兰教育部政策咨询报告与相关学者批判文献（[[Argument_Snook_2010_NZJES\|Snook et al., 2010]]; Smythe, 2010）。 |
 
@@ -143,17 +146,17 @@ journal: "Journal of Curriculum Studies"
 
 ---
 
-> [!claim] 论证步骤一　二阶聚合消解经验情境且掩盖数据异质性
+> [!claim|step] 论证步骤一　二阶聚合消解经验情境且掩盖数据异质性
 > [[Meta-meta-analysis|二阶元分析]]将已经高度汇总的[[Meta-analysis|元分析]]数据再次聚合，造成原始经验情境信息的系统性损耗；缺乏明确的纳入质控标准且过度依赖陈旧文献，导致其庞大数据库在方法学质量与时效性上呈现严重缺陷。
 
-#### 1. 层级累加导致信息损耗且缺乏质控标准
+> [!sub-claim] 1. 层级累加导致信息损耗且缺乏质控标准
 
 [[John Hattie|哈蒂]]通过对 800 余项元分析进行再聚合，提炼出 138 个影响因素并依据[[Effect Size|效应量]]建立全域排行榜，被媒体比附为寻获[[Effective Teaching|有效教学]]的圣杯。然而，统计汇总层级的提升是以牺牲具体研究的情境参数为代价的。
 
 > [!critique-method] 巨型综合的方法学缺陷
 > - **经验信息的层级损耗** 元分析本是压缩复杂研究结果的工具，若将多个元分析再次组合为元-元分析（mega-analysis），原始研究的详尽经验信息与控制条件在反复累加中消失殆尽，无法如货币汇兑般无损[[Commensuration|通约]]。
 > - **纳入质控标准缺位** 哈蒂未提供筛选一阶元分析的质量标准，似乎纳入了所有可获得的元分析，导致底层数据混杂了严格的[[Experimental Research|实验研究]]与缺乏严格控制的[[Survey Research|调查研究]]，整体质量极度异质。
-> - **底层数据时效严重滞后** 纳入的元分析大多发表于 1980 年代与 1990 年代，且初级研究通常比元分析发表早约 5 年，导致核心实证基底脱离教学实际，未能纳入关于教师学科知识（Content Knowledge, CK）与学科教学法知识（Pedagogical Content Knowledge, PCK）的最新前沿。
+> - **底层数据时效严重滞后** 纳入的元分析大多发表于 1980 年代与 1990 年代，且初级研究通常比元分析发表早约 5 年，导致核心实证基底脱离教学实际，未能纳入关于[[Teacher Subject Matter Knowledge|教师学科知识]]（Content Knowledge, CK）与学科教学法知识（Pedagogical Content Knowledge, PCK）的最新前沿。
 
 哈蒂将所有 138 个因素归纳为六大来源，并以 $d = 0.40$ 作为期望效应门槛，构建了影响气压计。
 
@@ -185,10 +188,10 @@ journal: "Journal of Curriculum Studies"
 
 ---
 
-> [!claim] 论证步骤二　形式化教学理论抽空学科实质且潜藏全景规训
+> [!claim|step] 论证步骤二　形式化教学理论抽空学科实质且潜藏全景规训
 > 哈蒂的形式化[[Didaktik|教学理论]]完全抽空了德国教学论与教化传统所关注的学科实质内容与课程正当性；其倡导的双向可见性与教师激活角色，在福柯视角下展现为将传统公开外显统治转化为内化自我监控的现代全景规训技术。
 
-#### 1. 课程缺乏教化实质且双向可见性沦为微观监控
+> [!sub-claim] 1. 课程缺乏教化实质且双向可见性沦为微观监控
 
 哈蒂借助贝莱特（Bereiter, 2002）对波普尔[[Popper's Three Worlds Theory|三个世界理论]]的联想式借用，构建了区分表层信息、深层理解与理论建构的学习模型，却彻底遗漏了教育的实质内容。
 
@@ -227,10 +230,10 @@ journal: "Journal of Curriculum Studies"
 
 ---
 
-> [!claim] 论证步骤三　巨型综合金字塔终结圣杯神话并陷入双重困境
+> [!claim|step] 论证步骤三　巨型综合金字塔终结圣杯神话并陷入双重困境
 > 二阶元分析试图以追求最高确定性的科学知识指导教育决策，却在[[Epistemology|认识论]]上同时受制于[[Stability vs. Variability Dilemma|稳定性假说]]与变异性假说；哈蒂未曾获得终结教学争议的圣杯，其实际成果为筑起了一座既已固化又需无休止修补扩建的庞大金字塔。
 
-#### 1. 循证决策面临常识逼近与结论过时的不可调和矛盾
+> [!sub-claim] 1. [[Evidence-Based Policy-Making|循证决策]]面临常识逼近与结论过时的不可调和矛盾
 
 [[Evidence-Based Education|证据本位教育]]假定科学证据能够消除复杂性并提供客观稳定的决策基础。然而，科学研究的内在演进始终伴随着复杂性与分化的持续增长，绝不可能收敛为单一的终极结论。
 
@@ -260,7 +263,7 @@ journal: "Journal of Curriculum Studies"
 > [!stat-cards]- 核心数据
 > - **816 / 52,649 / 83.03M** [[John Hattie|哈蒂]]综合的[[Meta-analysis|元分析]]数、初级研究数与涵盖学生样本规模。
 > - **0.40** 全书 138 个影响因素的总体平均[[Effect Size|效应量]] $d$ 与关节点门槛。
-> - **0.49 / 0.23** 六大贡献领域中教师效应与学校效应的均值对比。
+> - **0.49 / 0.23** 六大贡献领域中[[Teacher Effects|教师效应]]与学校效应的均值对比。
 > - **0.60 / 0.17** 教师作为激活者与作为促进者的平均效应量对比。
 > - **8%–21%** 教师效能对学生[[Academic Achievement|学业成就]]变异的解释比例。
 

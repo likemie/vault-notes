@@ -6,7 +6,7 @@ aliases:
 summary: "主张所有社会现象、制度演进与集体结果必须且只能通过个体行动者的动机、信念、决策与互动来解释的方法论与认识论原则"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Literature Search]]"
   - "[[Epistemic Value]]"
+  - "[[Document]]"
   - "[[Teacher Knowledge Base]]"
   - "[[Evidence-Based Education]]"
   - "[[Operationalization]]"
@@ -48,7 +49,7 @@ related_persons: []
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -103,23 +104,19 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　方法论个体主义通过微观机制阐释宏观规律，为社会制度与组织行为提供了清晰的行动基础
-
-> [!concept-lens] 微观基础与机制解释
-> 阐明方法论个体主义在破除空洞宏观思辨、建立具有实证可检验性的个体行动机制上的[[Epistemic Value\|认识论价值]]。
+> [!concept-proposition] 命题一｜方法论个体主义通过微观机制阐释宏观规律，为社会制度与组织行为提供了清晰的行动基础
+> **探讨维度　微观基础与机制解释** 阐明方法论个体主义在破除空洞宏观思辨、建立具有实证可检验性的个体行动机制上的[[Epistemic Value\|认识论价值]]。
 
 > [!claim] Weber (1922); Popper (1945); Boudon (1982); Elster (1989)
 > **微观机制的解释优先性** 诸如学校改进、政策扩散与制度变迁等宏观现象本身不具有独立的心理意图；唯有穿透宏观表象，深入分析置身于特定激励结构与情境约束中的个体行动者如何理解规则、权衡利弊并采取行动，社会科学才能建立起具有严密因果逻辑的机制性解释，避免将集体概念实体化或神秘化。
 
 ---
 
-### 命题二　教育研究中对方法论个体主义的不当泛化会遮蔽结构性约束，系统性滋生赤字框架与循环论证
-
-> [!concept-lens] 个体归因偏差与制度盲区
-> 揭示教育实证研究若将分析焦点严格局限于教师个体态度与技能，必然导致对制度信任、组织环境等系统条件的忽视。
+> [!concept-proposition] 命题二｜教育研究中对方法论个体主义的不当泛化会遮蔽结构性约束，系统性滋生[[Deficit Framing|赤字框架]]与循环论证
+> **探讨维度　个体归因偏差与制度盲区** 揭示教育实证研究若将分析焦点严格局限于教师个体态度与技能，必然导致对制度信任、组织环境等系统条件的忽视。
 
 > [!claim] [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]
-> **个体主义[[Paradigm\|范式]]的理论闭环与赤字偏见** 30 年来关于教育领域[[Research Utilization\|研究使用]]的文献高度受方法论个体主义范式支配，普遍将研究使用界定为教师个体的阅读消费行为，并采用自陈[[Questionnaire\|问卷]]测量其态度与技能；这种取向在逻辑上预设了使用不足源于教师个体能力欠缺（[[Deficit Framing\|赤字框架]]），并在建议中一味推行技能培训，从而在方法论层面自我确证了最初的赤字前设，遮蔽了教师在真实教学中依托[[Teacher Knowledge Base\|教师知识库]]进行多源[[Knowledge Integration\|知识整合]]与价值把关的复杂情境。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, pp. 6–7)]]
+> **个体主义[[Paradigm\|范式]]的理论闭环与赤字偏见** 30 年来关于教育领域[[Research Utilization\|研究使用]]的[[Document|文献]]高度受方法论个体主义范式支配，普遍将研究使用界定为教师个体的阅读消费行为，并采用自陈[[Questionnaire\|问卷]]测量其态度与技能；这种取向在逻辑上预设了使用不足源于教师个体能力欠缺（[[Deficit Framing\|赤字框架]]），并在建议中一味推行技能培训，从而在方法论层面自我确证了最初的赤字前设，遮蔽了教师在真实教学中依托[[Teacher Knowledge Base\|教师知识库]]进行多源[[Knowledge Integration\|知识整合]]与价值把关的复杂情境。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, pp. 6–7)]]
 
 ---
 

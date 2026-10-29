@@ -10,7 +10,7 @@ title: "Argument_Wang_2025_CE"
 argument_key: "Argument_Wang_2025_CE"
 argument_display_title: "Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -30,11 +30,13 @@ related_concepts:
   - "[[Learner-Centred Education]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Quality Education]]"
+  - "[[Teacher Professional Development Programs]]"
   - "[[Decodification]]"
   - "[[Critical Thinking]]"
   - "[[Policy Borrowing]]"
   - "[[Selective Affinity]]"
   - "[[Recontextualization]]"
+  - "[[Lecturing]]"
   - "[[Constructivist Paradigm]]"
   - "[[Dialogue in Education]]"
   - "[[Document]]"
@@ -72,7 +74,7 @@ sources:
 part_of: ''
 status: active
 created: 2026-05-26
-updated: 2026-10-23
+updated: 2026-10-29
 year: 2025
 doi: "10.1080/03050068.2024.2423445"
 citation_aliases:
@@ -84,7 +86,7 @@ citation_aliases:
 > [!question]
 > 在全球教育治理研究中，[[Test-Based Accountability\|考试问责]]（Test-Based Accountability）与以学生为中心教育（[[Learner-Centred Education]], LCE）常被简化为二元对立：前者依赖标准化考试、绩效管理与行政监管，后者强调[[Inquiry-Based Learning\|探究学习]]、学生自主与民主课堂。许多学者认为高利害考试必然扼杀进步主义教学改革（Ball, 2003; Schweisfurth, 2015）。然而，在东亚高压应试文化下，学校能否打破应试与改革的二元排他假象，实现考试优异与教学法创新的并行？
 >
-> 中国拥有上千年的[[Civil Service Examination\|科举]]考试（Keju）传统，现代[[Gaokao\|高考]]与中考依然主导着学生的升学与社会流动。自 1990 年代起，中国全面推行[[Quality Education\|素质教育]]，并积极引入以学生为中心的教学理念。本研究基于一项由英国大学团队（剑桥大学与谢菲尔德大学团队）在华北某区域（济南高新区）主持的跨国教师专业发展项目（包含 15 所学校、4 轮为期两周的研讨会），深入追踪其中 4 所典型案例学校，追问两个核心问题：
+> 中国拥有上千年的[[Civil Service Examination\|科举]]考试（Keju）传统，现代[[Gaokao\|高考]]与中考依然主导着学生的升学与社会流动。自 1990 年代起，中国全面推行[[Quality Education\|素质教育]]，并积极引入以学生为中心的教学理念。本研究基于一项由英国大学团队（剑桥大学与谢菲尔德大学团队）在华北某区域（济南高新区）主持的跨国[[Teacher Professional Development Programs|教师专业发展项目]]（包含 15 所学校、4 轮为期两周的研讨会），深入追踪其中 4 所典型案例学校，追问两个核心问题：
 > 1. 在引入国外教学经验后，[[Test-Based Accountability\|考试问责]]机制与 [[Learner-Centred Education\|LCE]] 改革系统在案例学校中各自如何被情境化？
 > 2. 这两个活动系统是否发生互动？若发生互动，如何通过内部与系统间矛盾的调解，影响教学改革的本土化转译、扩展性改造与落地边界？
 
@@ -108,7 +110,7 @@ citation_aliases:
 > |---|---|---|---|
 > | **主体（Subject）** | 参与活动系统的个人或群体 | 背负行政考核与社会期待的校长与教师 | 参加中英跨国培训的校长与骨干教师 |
 > | **客体（Object）** | 活动系统指向的意图与目标 | 提高统考/[[Gaokao\|高考]]成绩，保障学生升学与学校生存 | 推行以学生为中心教学，促进学生自主与探究 |
-> | **中介工具（Mediating Tools）** | 主体达致客体所使用的中介手段 | 教师主导式讲授法、统考后精细化数据诊断 | 英国真实课堂案例、[[Constructivist Paradigm\|建构主义]]/社会文化理论、研讨会 |
+> | **中介工具（Mediating Tools）** | 主体达致客体所使用的中介手段 | 教师主导式[[Lecturing\|讲授法]]、统考后精细化数据诊断 | 英国真实课堂案例、[[Constructivist Paradigm\|建构主义]]/社会文化理论、研讨会 |
 > | **规则（Rules）** | 规范与约束系统运行的显隐性制度 | 自上而下目标责任制，年度绩效与升学率挂钩 | 初始缺乏鼓励课改的激励或容错机制 |
 > | **共同体（Community）** | 主体所嵌入的社会关系网络 | 高度关注分数的家长、地方教育局与社会公众 | 态度模糊或抵触的家长、跨国项目专家团队 |
 > | **劳动分工（Division of Labor）** | 任务分配、权力结构与风险担当 | 自上而下：教育局/校长下达指标，教师单打独斗提分 | 倡导“共享领导”，但教师缺乏校长制度性背书 |
@@ -155,7 +157,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤一：考试问责与 LCE 改革在案例学校中的要素情境化及初始失调
+> [!claim|step] 论证步骤一：考试问责与 LCE 改革在案例学校中的要素情境化及初始失调
 > [[Test-Based Accountability\|考试问责]]系统在案例学校中呈现为一个自我强化、高度咬合的封闭循环，其正当性扎根于标准化考试保障社会流动的文化信念。初始阶段仅作为外部中介工具引入的 [[Learner-Centred Education\|LCE]] 改革因缺乏配套的评价规则、共同体信任与明确的风险分工担保，表现出深刻的系统性失调与错位。
 
 > [!contrast-table] 案例学校中双活动系统的要素情境化对比
@@ -173,7 +175,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤二：保守防御型与跟风改良型案例拆解：城市一校与农村一校的改革卡顿
+> [!claim|step] 论证步骤二：保守防御型与跟风改良型案例拆解：城市一校与农村一校的改革卡顿
 > 仅依赖外部经验的引入而未能建立学校特定共享目标，或者在维持现有成绩的防御性定位下，学校缺乏动力打破既有考试系统的要素平衡，导致教学改革流于表面并陷入停滞。
 
 > [!case] 改革停滞案例一：城市一校（Urban School 1）的维持顶尖陷阱
@@ -197,7 +199,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤三：突破进取型案例拆解：城市二校与农村二校的扩展性改造与实践机制
+> [!claim|step] 论证步骤三：突破进取型案例拆解：城市二校与农村二校的扩展性改造与实践机制
 > 谋求突破性成绩或处于垫底位置急需翻盘的学校具有强烈的动机打破传统教学的天花板。通过将 [[Learner-Centred Education\|LCE]] 重新[[Decodification\|解码]]为达成特定考试目标的必由路径（应对考核[[Critical Thinking\|批判性思维]]的新考情或提升农村课堂 45 分钟效率），并在工具、规则与分工上展开全校性协同重组，学校能够促成双活动系统的扩展性改造（Expansive Transformation）。
 
 > [!case] 扩展性改造案例一：城市二校（Urban School 2）的冲击前 20% 攻坚战与评课量表重构
@@ -235,7 +237,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤四：中国考试文化与儒家传统中 LCE 的选择性亲和与硬边界
+> [!claim|step] 论证步骤四：中国考试文化与儒家传统中 LCE 的选择性亲和与硬边界
 > [[Learner-Centred Education\|LCE]] 在案例学校的本土化是与中国考试文化及儒家教育传统的深度对话。这种转译在赋予教学改革认知与效率强化的同时，也显现出不可跨越的结构性实施边界。
 
 > [!contrast-table] 理想型 LCE 与中国本土化 LCE 的维度张力对比

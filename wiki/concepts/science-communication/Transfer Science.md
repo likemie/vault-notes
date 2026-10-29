@@ -9,7 +9,7 @@ aliases:
 summary: "指将知识与创新从研究向实践、行政及政策领域流动的机制、条件与转化过程作为独立经验与理论对象的科学形态，强调突破单向线性传输与医学转化类比，致力于阐明转移对象、行动者网络配置与复杂情境中的作用假设。"
 type: concept
 domain: "science-communication"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -35,12 +35,14 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Total War]]"
   - "[[School Inspection]]"
+  - "[[Champ]]"
   - "[[Further Education]]"
   - "[[Praxis]]"
   - "[[Knowledge Mediation]]"
   - "[[Incommensurability]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[Neuromyth]]"
 related_methods:
   - "[[Meta-analysis]]"
@@ -56,7 +58,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 > [!def] Transfer Science
@@ -133,30 +135,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　教育知识转移具有非线性与高度情境依赖性，排斥机械医学转化类比
-
-> [!concept-lens] 机制复杂性与医学类比批判
-> 该命题直面教育研究中长期盛行的循证医学移植假定，从[[Epistemology|认识论]]与情境复杂性层面论证为何教育[[Knowledge Transfer|知识转移]]无法遵循单向线性通道。
+> [!concept-proposition] 命题一｜教育[[Knowledge Transfer|知识转移]]具有非线性与高度情境依赖性，排斥机械医学转化类比
+> **探讨维度　机制复杂性与医学类比批判** 该命题直面教育研究中长期盛行的循证医学移植假定，从[[Epistemology|认识论]]与情境复杂性层面论证为何教育[[Knowledge Transfer|知识转移]]无法遵循单向线性通道。
 
 > [!claim] Manitius & van Holt
 > **情境特殊性排斥普适性医学转化** 教育知识转移无法被还原为线性的研究发现到实践措施转化链条，因为转移过程中的因果关联极难预测，且高度受制于实践者的主观态度、价值取向与具体制度情境。尽管[[Evidence-Based Education|循证教育]]倡导者频频援引医学转化经验作为典范，但医学领域的干预结果具备高度的生理普适性与外部有效性，而教育学的研究对象是充满主观建构与多元互动的高度复杂情境，简单的医学机械类比忽视了教育实践对转化转译的质性要求。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 9, 11]]
 
 ---
 
-### 命题二　转移成效取决于中层制度界面与多重行动者配置的系统协同
-
-> [!concept-lens] 中层治理实体与行动者网络
-> 该命题聚焦教育系统内部被长期忽视的中间层，指出知识转移不仅是大学研究者与学校教师的两极互动，更依赖中层支持机构的制度性承托。
+> [!concept-proposition] 命题二｜转移成效取决于中层制度界面与多重行动者配置的系统协同
+> **探讨维度　中层治理实体与行动者网络** 该命题聚焦教育系统内部被长期忽视的中间层，指出知识转移不仅是大学研究者与学校教师的两极互动，更依赖中层支持机构的制度性承托。
 
 > [!claim] Manitius & van Holt
 > **中层中介实体是转移链条的决定性枢纽** 德国教育政策纲领（如[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]，KMK [[Total War|总体战]]略）虽然在政策文本中将[[School Inspection|学校督导]]与州立研训机构确立为核心支撑主体，但实证研究长期对这些中层实体严重忽视。国际政策执行研究表明，缺乏对中层行动者网络、接口协同与制度互依性的系统考察，单向推出的新治理工具必然在基层遭遇成效缺失（mangelnde Effekte）与体制性虚脱。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 9, 11–12]]
 
 ---
 
-### 命题三　教师教育是制度化的知识转化场域，承担双向转化的核心枢纽功能
-
-> [!concept-lens] 教师教育的法定转化属性
-> 该命题从专业化理论出发，界定教师职前大学培养与在职[[Further Education|继续教育]]（Lehrerfortbildung）在全域转移中的法定制度功能。
+> [!concept-proposition] 命题三｜教师教育是制度化的知识转化[[Champ|场域]]，承担双向转化的核心枢纽功能
+> **探讨维度　教师教育的法定转化属性** 该命题从专业化理论出发，界定教师职前大学培养与在职[[Further Education|继续教育]]（Lehrerfortbildung）在全域转移中的法定制度功能。
 
 > [!claim] Manitius & van Holt
 > **教师教育本质上是面向实践的制度化转化器** 教师教育涵盖职前大学阶段、见习阶段与职后进修三大环节，其法定制度功能正是通过科学研究成果促进教育实践者的专业化，从而实现学校质量改进。然而，这种专业化转化绝非单纯将研究成果作为外部规约灌输给教师，而是在多[[Paradigm|范式]]张力下促进教师理论反思能力的发展，并在持续的科研与实践对话中实现知识的双向建构。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 12–13]]
@@ -196,7 +192,7 @@ updated: 2026-10-25
 >
 > | 研究 | 样本与情境 | 研究设计与模型 | [[Variable\|变量]]或核心指标 | 关键实证结果 | 不确定性与解释边界 |
 > |---|---|---|---|---|---|
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, pp. 12–13)]] | 德国联邦与 16 州联合教育改革项目 | 宏观政策档案分析与治理文献审查 | [[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]（Qualitätsoffensive Lehrerbildung, QLB）资助规模 | 联合投入高达 **5 亿欧元（500 Mio. Euro）** 专项经费优化全德三阶段师资质量（联邦-州行政协议 BLV, 2013） | 官方财政协议统计，覆盖全德各高校师训改革 |
+> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, pp. 12–13)]] | 德国联邦与 16 州联合教育改革项目 | 宏观政策档案分析与治理[[Document\|文献]]审查 | [[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]（Qualitätsoffensive Lehrerbildung, QLB）资助规模 | 联合投入高达 **5 亿欧元（500 Mio. Euro）** 专项经费优化全德三阶段师资质量（联邦-州行政协议 BLV, 2013） | 官方财政协议统计，覆盖全德各高校师训改革 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 12)]]（引 Otto et al., 2019） | [[NuBiL]] 项目：中小学在岗教师样本 | 实证[[Questionnaire\|问卷调查]]与动机[[Typological Analysis\|类型分析]] | 教师使用教育科研成果的驱动动因 | 教师并非被动消费研究成果，其科研使用行为高度由解决微观教学困惑的自主反思动机驱动 | 德语区 NuBiL 项目一期阶段性实证调查 |
 > | [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] | 德国高校教师教育者与在岗研训主管（$N = 189$） | 问卷调查与教学中介效用评价 | [[Clearing House Unterricht\|教学清算中心（Clearing House Unterricht, CHU）]]使用效用评分（1–6 分） | 个人使用效用、自身教学适用性、专业知识拓展与时间精力减负均获 4–5 分高正面评价 | 教师教育者主观接受度与中介减负感知 |
 

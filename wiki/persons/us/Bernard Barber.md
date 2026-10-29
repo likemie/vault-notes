@@ -7,7 +7,7 @@ summary: "哥伦比亚大学社会学教授、美国文理科学院院士，科�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 23
+person_related_count: 24
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Value Neutrality]]"
   - "[[Reliability]]"
+  - "[[Document]]"
   - "[[Knowledge Production]]"
   - "[[Scientific Method]]"
   - "[[Postpositivism]]"
@@ -39,26 +40,26 @@ related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
+  - "[[Robert K. Merton]]"
   - "[[Talcott Parsons]]"
   - "[[George Psacharopoulos]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Andreas Kazamias]]"
 related_facts:
-  - "[[Chinese Academy of Sciences]]"
   - "[[American Association for the Advancement of Science]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国哥伦比亚大学巴纳德学院社会学系终身教授、美国文理[[Chinese Academy of Sciences|科学院]]院士（[[American Association for the Advancement of Science|AAAS]] Fellow）、著名科学社会学家。师从罗伯特·默顿（Robert K. Merton）与[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）。
+> - **身份位置** 美国哥伦比亚大学巴纳德学院社会学系终身教授、美国文理科学院院士（[[American Association for the Advancement of Science|AAAS]] Fellow）、著名科学社会学家。师从[[Robert K. Merton|罗伯特·默顿]]（Robert K. Merton）与[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）。
 > - **核心角色** 现代科学社会学的重要奠基人之一，1952 年出版划时代专著《科学与社会秩序》（*Science and the Social Order*）；1972 年在《比较教育评论》发表专论，对社会科学与比较教育学中的“[[Empiricism|唯方法论主义]]”（Methodologism）发起经典[[Epistemology|认识论]]清算，成为解构战后经验[[Positivism|实证主义]]迷思的权威思想资源。
 > - **代表贡献** 奠定科学制度化运行与科学家规范结构的[[Analytic Framework|分析框架]]；提出并界定“唯方法论主义”概念，批判将科学矮化为单一全能数学规程的教条倾向；开创现代信任社会学传统（《信任的逻辑与界限》，1983）。
 
@@ -83,7 +84,7 @@ updated: 2026-10-22
 
 > [!work-line] 代表著作
 > - **1952 — *Science and the Social Order*** 科学社会学开山之作，全面剖析了科学在现代民主社会中的社会控制、同行评议与价值关联。
-> - **1962 — *The Sociology of Science* (Ed.)** 与沃尔特·赫希合编，汇聚战后科学社会学前沿成果的奠基性文献集。
+> - **1962 — *The Sociology of Science* (Ed.)** 与沃尔特·赫希合编，汇聚战后科学社会学前沿成果的奠基性[[Document|文献]]集。
 > - **1972 — *Science, Salience and Social Scientific Inquiry*** 发表于《比较教育评论》，系统界定并批判[[Empiricism|唯方法论主义]]（Methodologism）的经典论文。
 > - **1983 — *The Logic and Limits of Trust*** 组织社会学与制度分析权威名著，阐释技术能力期望与道德信义义务在社会秩序维持中的功能。
 > - **1990 — *Social Studies of Science*** 晚期反思专著，重申科学[[Knowledge Production|知识生产]]中社会结构与[[Epistemology|认识论]]自主性的辩证张力。

@@ -6,7 +6,7 @@ aliases:
 summary: "国际文凭大学预科项目的必修核心要素，通过学生自主选题、长期研究、导师指导和外部评价，把个人兴趣转化为一项可纳入跨国文凭的独立学术探究。"
 type: concept
 domain: "curriculum"
-related_count: 32
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,10 +31,12 @@ related_concepts:
   - "[[Concurrency of Learning]]"
   - "[[Knowledge Framework]]"
   - "[[Reliability]]"
+  - "[[Teacher Collaboration]]"
   - "[[Critical Thinking]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Advanced Placement Program]]"
   - "[[Academic Achievement]]"
+  - "[[Document]]"
   - "[[Necessary and Sufficient Conditions]]"
 related_theories: []
 related_methods:
@@ -56,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -101,18 +103,14 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　自主选题把个人兴趣转化为受约束的学术责任
-
-> [!concept-lens] 个人热情与课程责任
-> 自主性来自题目选择和研究路径，学术责任来自问题范围、完成期限、导师指导、篇幅要求和外部评价。两者共同把兴趣推进为持续的智识工作。
+> [!concept-proposition] 命题一｜自主选题把个人兴趣转化为受约束的学术责任
+> **探讨维度　个人热情与课程责任** 自主性来自题目选择和研究路径，学术责任来自问题范围、完成期限、导师指导、篇幅要求和外部评价。两者共同把兴趣推进为持续的智识工作。
 
 > [!claim] [[Alec Peterson\|Peterson, A. D. C.]]
 > **个人热情获得学术出口** [[Kurt Hahn\|库尔特·哈恩]]（Kurt Hahn）重视青年人的强烈个人热情。六学科能够提供深入学习，研究对象仍由课程大纲决定。EE 允许每位文凭学生从自己的学习领域[[Multiple-Choice Questions|选择题]]目，用四至六个月完成约 4,000 字论文，并接受外部考官评价。部分学生只是完成要求，另一些学生却投入到影响其他科目学习的程度。自主选题由此既产生内在投入，也要求学生学习控制[[Research Scope\|研究范围]]、时间和优先次序。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
 
-### 命题二　外部评价使个人化研究能够进入共同文凭
-
-> [!concept-lens] 自主研究与跨校可比性
-> EE 的题目和材料高度多样，国际资格仍需向大学提供可以共同解释的证据。导师、外部考官与核心矩阵分别承担支持、判断和资格整合功能。
+> [!concept-proposition] 命题二｜外部评价使个人化研究能够进入共同文凭
+> **探讨维度　自主研究与跨校可比性** EE 的题目和材料高度多样，国际资格仍需向大学提供可以共同解释的证据。导师、外部考官与核心矩阵分别承担支持、判断和资格整合功能。
 
 > [!claim] [[Alec Peterson\|Peterson, A. D. C.]]
 > **共同标准不取消个人选择** 学生在自己的时间内研究自选问题，教师只提供程度不一的指导，最终成果由外部考官判断。这样的责任分配避免学校直接决定自己学生的最终成绩，也让不同学科和不同学校的个人研究进入同一综合评价。EE 因而同时是一项课程经验和一项资格证据。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 45, 56–57)]]
@@ -120,20 +118,16 @@ updated: 2026-10-22
 > [!claim] Darwish, L.
 > **核心矩阵提高制度权重** EE 与 [[Theory of Knowledge\|TOK]] 的 A 至 E 等级共同换算核心奖励分，最高可以增加三分。EE 获得 E 级还会触发不合格条件。独立研究因而具有直接的文凭后果，学校和学生不能把它降为不计分的附加活动。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 18–19)]]
 
-### 命题三　EE 可以连接认识论反思、学科研究与现实行动
-
-> [!concept-lens] 跨组件[[Concurrency of Learning\|并发学习]]
-> TOK 提供审查知识主张的语言，EE 把这些原则用于具体研究，[[Chinese Academy of Sciences|CAS]] 则提供现实经验和行动情境。连贯性来自问题、证据与行动在三项核心之间迁移。
+> [!concept-proposition] 命题三｜EE 可以连接[[Epistemology|认识论]]反思、学科研究与现实行动
+> **探讨维度　跨组件[[Concurrency of Learning\|并发学习]]** TOK 提供审查知识主张的语言，EE 把这些原则用于具体研究，[[Chinese Academy of Sciences|CAS]] 则提供现实经验和行动情境。连贯性来自问题、证据与行动在三项核心之间迁移。
 
 > [!claim] Metli, A. & Akış, D.
-> **[[Epistemology\|认识论]]工具在研究中获得具体对象** TOK 的[[Knowledge Framework\|知识框架]]可以帮助学生界定 EE 的问题，并在[[Literature Review\|文献综述]]中检查信源[[Reliability\|可靠性]]、证据效力与方法限制。CAS 经验可以提供[[Research Question\|研究问题]]，EE 结论也可以转化为社区项目。EE 由此位于反思、探究和行动之间，而非只承担长篇写作训练。这样的连接需要图书馆员研讨、共同词汇和教师协作来显性推动。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 226–229)]]
+> **[[Epistemology\|认识论]]工具在研究中获得具体对象** TOK 的[[Knowledge Framework\|知识框架]]可以帮助学生界定 EE 的问题，并在[[Literature Review\|文献综述]]中检查信源[[Reliability\|可靠性]]、证据效力与方法限制。CAS 经验可以提供[[Research Question\|研究问题]]，EE 结论也可以转化为社区项目。EE 由此位于反思、探究和行动之间，而非只承担长篇写作训练。这样的连接需要图书馆员研讨、共同词汇和[[Teacher Collaboration|教师协作]]来显性推动。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 226–229)]]
 
 ---
 
-### 命题四　长期独立研究能够形成大学学习所需的准备
-
-> [!concept-lens] 学术收益与长效影响
-> 大学准备不仅包括已经掌握的学科内容，也包括能否管理长期任务、独立判断资料、维持论证并完成规范写作。
+> [!concept-proposition] 命题四｜长期独立研究能够形成大学学习所需的准备
+> **探讨维度　学术收益与长效影响** 大学准备不仅包括已经掌握的学科内容，也包括能否管理长期任务、独立判断资料、维持论证并完成规范写作。
 
 > [!claim] Metli, A. & Akış, D.
 > **研究经验支持高等教育过渡** 既有研究把 EE 与[[Critical Thinking\|批判性思维]]、独立思考、自我调节和[[Inquiry-Based Learning\|探究式学习]]联系起来。学生借此熟悉大学所需的研究与写作方法；与[[Advanced Placement Program\|大学先修课程]]（[[Advanced Placement Program\|Advanced Placement]]，AP）学生的比较还发现，EE 成绩与大学平均绩点（Grade Point Average，[[Academic Achievement\|GPA]]）存在显著正相关。早期参与者也曾把 EE 评价为进入大学后最有帮助的 [[IB Diploma Programme\|IBDP]] 经历之一。Wray、Aulls 与 Lemay、Inkelas 等研究见 [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, p. 220)]]；早期学生反馈见 [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]。
@@ -154,7 +148,7 @@ updated: 2026-10-22
 > - **早期调整　提交期限因学生过度投入而提前** 一些学生沉浸于自选题目，开始忽视其他课程并危及文凭考试。[[International Baccalaureate\|国际文凭]]办公室（International Baccalaureate Office，IBO）把截止日期提前到课程结束前数月，为六学科恢复学习时间。
 > - **1970 年代至 1985 年　选题指导与外部评价逐步成熟** 学生需要避免过宽、资料不可得和超过 4,000 字的题目，并形成学术态度。历史论文从集中于政治强人逐步扩展到地方史，科学论文常使用长期田野或实验，少数成果进入学术期刊。外部考官结合导师报告评分，可奖励 1–2 分，严重缺乏投入则扣 1 分。1985 年有 1,471 人获 1 分、310 人获 2 分、234 人被扣 1 分。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 181–182)]]
 > - **2009 年所记录的制度　EE 与 [[Theory of Knowledge\|TOK]] 共同进入核心奖励分矩阵** 两项外部评价等级交叉换算零至三分奖励分，EE 的最低等级还与文凭资格直接相连。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 18–19)]]
-> - **2022 年　EE 被进一步理解为核心组件之间的连接点** TOK 的知识审查可以进入 EE 的研究设计和文献评价，[[Chinese Academy of Sciences|CAS]] 的经验可以生成[[Research Question\|研究问题]]，EE 的发现也可以转化为 CAS 行动。学校实践中的连接仍经常停留在表层。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 226–230)]]
+> - **2022 年　EE 被进一步理解为核心组件之间的连接点** TOK 的知识审查可以进入 EE 的研究设计和[[Document|文献]]评价，[[Chinese Academy of Sciences|CAS]] 的经验可以生成[[Research Question\|研究问题]]，EE 的发现也可以转化为 CAS 行动。学校实践中的连接仍经常停留在表层。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 226–230)]]
 
 ---
 

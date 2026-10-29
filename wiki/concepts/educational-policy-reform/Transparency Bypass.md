@@ -8,7 +8,7 @@ aliases:
 summary: "教育治理与政策工具分析概念，指在中央或国家政府明确暂停、废除或拒绝编制公立学校表现排行榜之后，地方市政当局、大众传媒或市场倡导型智库利用公共行政透明度法案与信息公开规章合法调取原始评估数据，并在体制外自主编制和发布非官方学校排位表，使市场竞争与声誉问责得以变相存续的制度溢出机制。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[School Choice]]"
   - "[[Test-Based Accountability]]"
+  - "[[Differentiated Instruction]]"
   - "[[National Large-Scale Assessments]]"
   - "[[Analytical Stance]]"
 related_theories:
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-10-22
 > | 驱动主体 | 商业大众媒体、民间政策智库、次国家级自治政府 | 国家教育部、中央督导机构或考试院 | 学校管理团队、教学教研部门 |
 > | 法律通道 | 普遍性公共行政透明度法案、信息自由条例 | 国家教育问责专门法案、学校表现评价法令 | 教学指导规程、学校内部质保细则 |
 > | 呈现形态 | 媒体头条排位表、商业排行榜、智库学校成绩单 | 官方督导红黄牌分级、行政整肃公告单 | 内部诊断学情报表、增值分析雷达图 |
-> | 规训效果 | 激发家长[[School Choice\|择校]]迁移、制造学校社会声誉焦虑 | 触发学校接管整顿、经费削减或校长解聘 | 引导教师改进课程进度与差异化教学策略 |
+> | 规训效果 | 激发家长[[School Choice\|择校]]迁移、制造学校社会声誉焦虑 | 触发学校接管整顿、经费削减或校长解聘 | 引导教师改进课程进度与[[Differentiated Instruction\|差异化教学]]策略 |
 
 ---
 
@@ -94,20 +95,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　测评数据基础设施具有脱离原初政策意图的自组织外溢性
-
-> [!concept-lens] 数据装置的自主生命周期
-> 探讨数据密集型治理工具建立之后，底层数据资产如何突破官方政策边界而发生自组织扩散。
+> [!concept-proposition] 命题一｜测评[[Data Infrastructure|数据基础设施]]具有脱离原初政策意图的自组织外溢性
+> **探讨维度　数据装置的自主生命周期** 探讨数据密集型治理工具建立之后，底层数据资产如何突破官方政策边界而发生自组织扩散。
 
 > [!claim] Verger, A., Fontdevila, C. & Parcerisa, L.
 > **数据资产外溢效应** 即使执政联盟通过政治决议叫停官方排行榜，科层系统中累积的数据资产依然构成潜在的规制资本；社会力量能够利用制度缝隙激活数据，使被中央政策抑制的市场竞争机制在体制外变相重组。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]
 
 ---
 
-### 命题二　一般行政透明度法规与教育去竞争政策存在目标冲突
-
-> [!concept-lens] 法律制度层面的交叉折射
-> 探讨公共行政领域的善治原则与教育领域的反标签化诉求在法理与实践中所产生的结构性张力。
+> [!concept-proposition] 命题二｜一般行政透明度法规与教育去竞争政策存在目标冲突
+> **探讨维度　法律制度层面的交叉折射** 探讨公共行政领域的善治原则与教育领域的反标签化诉求在法理与实践中所产生的结构性张力。
 
 > [!claim] Simmonds, M. & Webb, P. T.
 > **透明度法律异化为市场规训通道** 旨在保障公民知情权与民主监督的普遍性信息自由法律，在遭遇追求[[School Choice|择校]]竞争的市场力量时，被策略性转换为获取学校考试分数的取数工具，架空了教育行政部门维护教育生态均衡的政策努力。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 258)]]

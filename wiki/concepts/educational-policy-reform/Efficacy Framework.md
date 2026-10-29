@@ -8,7 +8,7 @@ aliases:
 summary: "由跨国教育出版巨头培生集团在首席教育顾问 Michael Barber 主导下推出的全球商业产品审计体系，要求所有产品附带量化学习成效证据，被批判教育社会学揭示为跨国资本垄断公共采购标准、构建循证话语门槛的核心治理工具。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Teacher Professional Agency]]"
   - "[[Professional Judgment]]"
+  - "[[Charter Schools]]"
   - "[[Critical Pedagogy]]"
 related_theories: []
 related_methods:
@@ -51,7 +52,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -111,10 +112,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　跨国出版资本通过设定实效性标准将商业评测转化为排他性的公共采购准入门槛
-
-> [!concept-lens] 市场准入与准垄断机制
-> 探讨跨国教育企业如何利用高成本的因果实证审计设定行业准入门槛，将中小竞争者与传统公办机构排除出政府采购清单。
+> [!concept-proposition] 命题一｜跨国出版资本通过设定实效性标准将商业评测转化为排他性的公共采购准入门槛
+> **探讨维度　市场准入与准垄断机制** 探讨跨国教育企业如何利用高成本的因果实证审计设定行业准入门槛，将中小竞争者与传统公办机构排除出政府采购清单。
 
 > [!claim] [[Michael Barber|Barber, M.]]
 > **商业问责正当性** 跨国教育机构有道德义务证明其每一项商业销售都能带来真实的学习成效改善，通过公开实效审计报告能够打破低效产品的市场生存空间。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 78)]]
@@ -127,10 +126,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　实效性话语将复杂的教育人文本质窄化为可量化的技术理性因果产出
-
-> [!concept-lens] [[Epistemology|认识论]]还原与[[Technical Rationality|技术理性]]异化
-> 聚焦实效性框架如何将丰富多元的育人价值还原为标准化的测试数据，挤压[[Teacher Professional Agency|教师专业自主权]]。
+> [!concept-proposition] 命题二｜实效性[[Discourse|话语]]将复杂的教育人文本质窄化为可量化的[[Technical Rationality|技术理性]]因果产出
+> **探讨维度　[[Epistemology|认识论]]还原与[[Technical Rationality|技术理性]]异化** 聚焦实效性框架如何将丰富多元的育人价值还原为标准化的测试数据，挤压[[Teacher Professional Agency|教师专业自主权]]。
 
 > [!claim] O'Neill et al.
 > **技术理性压制[[Professional Judgment|专业判断]]** 实效性框架以因果量化为唯一合法尺度，迫使公立学校采购能够短期推高测验分数的流水线式工具，削弱了教师基于具体学生情境的专业反思。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 11, 134–135)]]
@@ -144,7 +141,7 @@ updated: 2026-10-22
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **市场准入门槛命题** | 跨国资本利用高门槛实效审计排除竞争对手并垄断公立政府采购 | 全球基础教育数字化采购与课程外包招标 | Barber (2013); [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; Ball (2012) |
-> | **技术理性异化命题** | 严格的量化因果标准窄化了教育育人内涵并侵蚀教师专业自主权 | 基础教育标准化测验、自适应教学软件应用与私立特许学校推广 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; Ball (2012) |
+> | **技术理性异化命题** | 严格的量化因果标准窄化了教育育人内涵并侵蚀教师专业自主权 | 基础教育标准化测验、自适应教学软件应用与私立[[Charter Schools\|特许学校]]推广 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; Ball (2012) |
 
 ---
 

@@ -94,7 +94,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ## 定义
@@ -186,10 +186,8 @@ updated: 2026-10-22
 
 围绕后[[Positivism|实证主义]]对实证主义确定性的解构、广义科学体系的确立、中程假设的构建以及多元方法论的开展，学术界形成了四组关键理论命题。
 
-### 命题一　科学探究产出的知识具有本质上的推测性、理论负荷性与可错性
-
-> [!concept-lens] 批判理性主义与反基础主义[[Epistemology\|认识论]]
-> 该维度聚焦波普尔批判理性主义及科学哲学对经典实证主义证实神话的根本颠覆，阐明知识推测性、可错论与事实价值不可分的认识论机理。
+> [!concept-proposition] 命题一｜科学探究产出的知识具有本质上的推测性、理论负荷性与可错性
+> **探讨维度　批判理性主义与反基础主义[[Epistemology\|认识论]]** 该维度聚焦波普尔批判理性主义及科学哲学对经典实证主义证实神话的根本颠覆，阐明知识推测性、可错论与事实价值不可分的认识论机理。
 
 > [!claim] Popper, K.
 > **猜测与反驳机制下的可错主义与[[Falsification\|可证伪性]]划界** 科学理论的本质不是已被终极证实的绝对真理，而是大胆的推测（conjectures）；归纳证实无法跨越逻辑上的有限经验鸿沟，真正划定科学与非科学界限的标准是理论潜在的可证伪性（falsifiability）。安全的、一劳永逸的基础主义知识并不存在，一切科学主张都是可错的（fallible）和尝试性的；科学的成长依靠提出可证伪的假设并在严密经验批判中不断反驳与修正。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 731)]]
@@ -200,10 +198,8 @@ updated: 2026-10-22
 > [!claim] [[David Phillips\|Phillips, D.]] C. & Burbules, N. C.
 > **后实证经验研究的概率[[Determinism\|决定论]]与推测性检验** 后实证主义虽保留[[Quantitative Research\|量化研究]]对[[Causality\|因果关系]]的探索，但彻底告别了机械决定论与绝对真理诉求；在教育与社会探究中，原因仅仅在一定概率上决定结果。研究者从理论假设出发收集经验数据，研究结果只能提供支持或削弱假设的暂时性证据，永远无法提供一劳永逸的最终证明；因此，量化研究的核心姿态应当是严格审视方法论偏误并不断完善理论。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 7)]]
 
-### 命题二　后实证认识论破除狭隘实证科学垄断并将广义科学范畴向人文探究开放
-
-> [!concept-lens] 科学概念溯源与跨文化认识论体系重建
-> 该维度关注卡扎米亚斯与当代科学哲学家如何打破战后英美[[Empiricism\|经验主义]]对“科学”[[Discourse|话语]]的技术性垄断，恢复欧陆博大[[Geisteswissenschaften|人文科学]]传统的合法地位。
+> [!concept-proposition] 命题二｜后实证认识论破除狭隘实证科学垄断并将广义科学范畴向人文探究开放
+> **探讨维度　科学概念溯源与跨文化认识论体系重建** 该维度关注卡扎米亚斯与当代科学哲学家如何打破战后英美[[Empiricism\|经验主义]]对“科学”[[Discourse|话语]]的技术性垄断，恢复欧陆博大[[Geisteswissenschaften|人文科学]]传统的合法地位。
 
 > [!claim] [[Andreas Kazamias\|Kazamias, A.]] M.
 > **德语 Wissenschaft 与希腊语 Episteme 破除英语 Science 的实证霸权** 20 世纪 60 年代实证学派对历史与哲学比较传统的贬斥，根源于其将“科学”（Science）狭隘垄断为自然科学与数理统计实证主义的语义霸权。在欧洲大陆思想史中，德语词 *Wissenschaft* 与古希腊词 *Episteme* 始终指代统辖自然、社会、文化与人文学科的系统化、规范化理性知识体系。一旦突破英语 *Science* 的技术狭义化，关注制度历史演化根由与文化意涵的历史比较探究，完全符合规范科学的严密标准。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
@@ -214,10 +210,8 @@ updated: 2026-10-22
 > [!claim] [[Nicholas Hans\|Hans, N.]]
 > **比较教育坐落于科学与人文交界边缘的哲学品格** 比较教育学绝非单纯处理外在可测量指标的机械技术学科；作为一门学术学科，它恰恰坐落于人文科学与自然科学的交界边缘（border line between humanities and sciences），在本质上类似于哲学。因此，比较教育学必须同时容纳实证事实的收集与形而上观念、民族价值理念的深刻洞察。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 39–40; Hans, 1959, p. 299)]]
 
-### 命题三　非普适探索性假说与中程归纳在个殊历史事实与普遍理论建构之间架起有效解释桥梁
-
-> [!concept-lens] 比较史学工作假设法对实证个殊不可比教条的超越
-> 该维度聚焦卡扎米亚斯援引比较史学理论，解构实证派所谓“历史个案不可重复因而不可比较”的方法论教条，确立中程工作假设的理论建构效能。
+> [!concept-proposition] 命题三｜非普适[[Working Hypothesis|探索性假说]]与中程归纳在个殊历史事实与普遍理论建构之间架起有效解释桥梁
+> **探讨维度　比较史学工作假设法对实证个殊不可比教条的超越** 该维度聚焦卡扎米亚斯援引比较史学理论，解构实证派所谓“历史个案不可重复因而不可比较”的方法论教条，确立中程工作假设的理论建构效能。
 
 > [!claim] [[Crane Brinton\|Brinton, C.]] & Kazamias, A. M.
 > **非普适[[Working Hypothesis|探索性假说]]跨情境检验消解个案与普遍规律的二元对立** 实证派学者指责历史学仅处理时空不可重复的个殊事件因而无法进行科学比较，这一指控被比较史学实践彻底击碎。著名比较史学家克莱恩·布林顿（Crane Brinton）证明，学者完全有能力对具体个殊的历史现象进行分类归纳，提炼出具有概括性的“非普适探索性假说”（Working [[Hypothesis|hypotheses]] of a Limited Nature）。这些中程假说虽非放之四海皆准的永恒铁律，但能够作为解释工具投射至其他面临类似矛盾的情境中接受检验，并反过来深刻照亮另一个独特的历史个案；历史学与社会科学的差异仅在于研究重心与目标的侧重，而非方法论性质的对立。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56; Kazamias, 1963, p. 396)]]
@@ -225,10 +219,8 @@ updated: 2026-10-22
 > [!claim] Nisbett, R. E.
 > **认知框架与观察方式的社会情境建构性** [[Scientific Method\|经验科学]]研究者的思维方式、分类体系与观察视角本身就是文化与社会历史情境的产物。社会事实并非天然独立地等待冷漠镜像去反映，个案分类与概念抽象不可避免地带有文化情境印记；因此，非普适的中程探索性假说比声称放之四海皆准的普适法则更能准确反映复杂的社会教育实在。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 732)]]
 
-### 命题四　后实证研究在实在观上呈现多元分化并与复杂性及质性研究形成方法论亲和
-
-> [!concept-lens] 多元实在论、诠释亲和性与新兴系统研究取向
-> 该维度关注后实证主义在实在观上的分支演进，展现其如何为[[Qualitative Research\|质性研究]]、[[Complexity Theory\|复杂性理论]]及[[Mixed Methods Research\|混合方法]]提供坚实的哲学支撑。
+> [!concept-proposition] 命题四｜后实证研究在实在观上呈现多元分化并与复杂性及[[Qualitative Research|质性研究]]形成方法论亲和
+> **探讨维度　多元实在论、诠释亲和性与新兴系统研究取向** 该维度关注后实证主义在实在观上的分支演进，展现其如何为[[Qualitative Research\|质性研究]]、[[Complexity Theory\|复杂性理论]]及[[Mixed Methods Research\|混合方法]]提供坚实的哲学支撑。
 
 > [!claim] [[Louis Cohen\|Cohen, L.]], [[Lawrence Manion\|Manion, L.]] & [[Keith Morrison\|Morrison, K.]]
 > **多元实在论与主观诠释取向的并存演进** 后实证主义在实在观上分化出两种取向：其一是“多元实在论”，承认客观实在持续存在，但主张存在多重共存的实在（multiple, coexisting realities）而非单一实在；其二是“主观诠释取向”，与[[Phenomenology\|现象学]]及解释学传统深度融合，强调研究者与参与者主观多元诠释的中心地位。这两种取向共同赋予个体声音以合法性，放弃对简单线性因果行为法则的机械追求。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, pp. 733–734, 776)]]

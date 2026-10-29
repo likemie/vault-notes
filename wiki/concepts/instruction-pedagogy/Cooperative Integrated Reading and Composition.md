@@ -8,7 +8,7 @@ aliases:
 summary: "由 Stevens et al.（1987）开发的综合性语言与读写合作学习模式。该技术将教师主导的阅读理解策略精讲与异质性同伴配对朗读、词汇协商、故事语法图解、同伴互评修改及故事续写系统整合，是合作学习中干预效应最为突出的技术模式（ES = 2.04）。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,7 +23,9 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Decodification]]"
   - "[[Peer-Supported Learning]]"
+  - "[[Reading Strategies]]"
   - "[[Scaffolding]]"
+  - "[[Peer Assessment]]"
   - "[[Teacher Professional Agency]]"
   - "[[Implementation Fidelity]]"
   - "[[Classroom Management]]"
@@ -50,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -64,7 +66,7 @@ updated: 2026-10-25
 > - **边界** 专为语言与文学读写教学设计，依赖成套的阅读材料与结构化写作支架，不直接适用于非语言类符号学科。
 
 > [!citation-card] CIRC 的核心机制与读写一体化
-> 合作整合阅读与写作（CIRC）将教师直接指导阅读策略与学生团队内的异质结对操练紧密结合，通过故事结构分析、配对轮流朗读、词汇意义协商以及同伴编辑清单，使阅读理解与写作表达形成闭环。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
+> 合作整合阅读与写作（CIRC）将教师直接指导[[Reading Strategies|阅读策略]]与学生团队内的异质结对操练紧密结合，通过故事结构分析、配对轮流朗读、词汇意义协商以及同伴编辑清单，使阅读理解与写作表达形成闭环。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
 >
 > *Cooperative Integrated Reading and Composition (CIRC) is a comprehensive program for teaching reading and writing in upper elementary grades, combining teacher instruction with peer-supported team activities.*
 
@@ -107,20 +109,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　CIRC 通过即时语言输出排练与同伴支架展现出极高的学业与读写赋能效应
-
-> [!concept-lens] 语言互动与[[Scaffolding\|认知支架]]协同机制
-> 结对朗读与同伴互评将学生的语言加工从被动接收转化为高频主动输出，为弱势阅读者提供了极高密度的低焦虑练习机会。
+> [!concept-proposition] 命题一｜CIRC 通过即时语言输出排练与同伴支架展现出极高的学业与读写赋能效应
+> **探讨维度　语言互动与[[Scaffolding\|认知支架]]协同机制** 结对朗读与[[Peer Assessment|同伴互评]]将学生的语言加工从被动接收转化为高频主动输出，为弱势阅读者提供了极高密度的低焦虑练习机会。
 
 > [!claim] Stevens & Slavin; Fuad et al.; Güngör et al.
 > **CIRC 在[[Cooperative Learning\|合作学习]]技术中[[Effect Size\|效应量]]居首** [[Meta-meta-analysis\|二阶元分析]]表明，在所有合作学习具体技术模式中，CIRC 展现出最为强劲的综合干预成效（$ES = 2.04, 95\%\text{ CI} = [1.05, 3.03]$）；在一阶[[Meta-analysis\|元分析]]中，Fuad et al. (2023) 针对语言阅读教学的准实验综合同样报告了 $ES = 2.04$ 的极大效应量，实证确立了读写一体化同伴教学对打破阅读障碍、大幅提升阅读理解与写作质量的决定性价值。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–9)]]
 
 ---
 
-### 命题二　作为 SFA 旗舰课程基座，CIRC 构成循证改革中全校 Tier 1 读写教学的核心支柱
-
-> [!concept-lens] 循证课程规模化与全校改革架构
-> CIRC 不仅是单项课堂教学法，更作为全美标志性全校改革方案的核心读写引擎，经受住了长期大规模实验的严苛检验。
+> [!concept-proposition] 命题二｜作为 [[Success for All|SFA]] 旗舰课程基座，CIRC 构成循证改革中全校 Tier 1 读写教学的核心支柱
+> **探讨维度　循证课程规模化与全校改革架构** CIRC 不仅是单项课堂教学法，更作为全美标志性全校改革方案的核心读写引擎，经受住了长期大规模实验的严苛检验。
 
 > [!claim] [[Robert Slavin\|Slavin, R.]] E.
 > **作为全校性改革项目的全班核心课程** 在全员成功（[[Success for All]], SFA）方案中，CIRC 被深度整合为小学中高年级（2–6 年级）的全班核心阅读与写作教学体系（TIER 1）。通过全校每天固定 90 分钟的结构化读写操练，配合 80% 教师匿名投票准入与全员专业发展培训，CIRC 支撑了 SFA 在全美 1,000 余所学校的规模化成功落地，并在联邦全面学校改革计划（Comprehensive School Reform, CSR）和《让每个学生都成功法案》（[[Every Student Succeeds Act]], ESSA）中获得最高等级的强有力实证评价（Strong Evidence, $ES = +0.41$）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25, 27)]]

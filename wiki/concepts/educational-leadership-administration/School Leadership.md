@@ -6,7 +6,7 @@ aliases:
 summary: "围绕学校方向设定、人员发展、组织改进与信任建立展开的教育实践，在证据知情视域下依托榜样示范与制度化排程促成高质量研究使用与学校变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Professional Learning Community]]"
   - "[[Evidence-Based School Development]]"
+  - "[[Habitus]]"
   - "[[School Autonomy]]"
   - "[[Champ]]"
   - "[[Institutional Displacement]]"
@@ -76,7 +77,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 > [!def] School Leadership
@@ -144,50 +145,40 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　学校领导力深嵌于微观社会情境与宏观权力结构之中，不存在脱离情境的通用卓越处方
-
-> [!concept-lens] 情境特异性与权力结构嵌入
-> 批判将学校领导力抽象为普适商业管理技术的流行假设，阐明具体社会文化背景与权力关系对领导实践的决定性塑造。
+> [!concept-proposition] 命题一｜学校领导力深嵌于微观社会情境与宏观权力结构之中，不存在脱离情境的通用卓越处方
+> **探讨维度　情境特异性与权力结构嵌入** 批判将学校领导力抽象为普适商业管理技术的流行假设，阐明具体社会文化背景与权力关系对领导实践的决定性塑造。
 
 > [!claim] Møller; Eacott
 > **情境嵌入机制** 成功的学校领导力在本质上是高度情境化的，任何试图提炼脱离本土语境的通用成功公式的努力都是徒劳的。乔伦·莫勒（[[Jorunn Møller]]）与[[James C. Scott|斯科特]]·埃科特（[[Scott Eacott]]）基于国际成功学校校长项目（ISSPP）跨国案例指出，同样是设定方向或改进组织，在社会经济处境不利、种族文化多元的薄弱学校与在资源充沛的同质化精英学校中，面临截然不同的制度阻力与伦理权衡。领导力不仅是对校内人际的沟通协调，更时刻受到外部政治问责体制与宏观教育资本分配格局的深层规制。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376–381)]]；[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 45–49)]]
 
 ---
 
-### 命题二　市场化自主权与新公共管理绩效主义将校长撕裂于教育育人与企业化交付的制度陷阱
-
-> [!concept-lens] [[New Public Management\|新公共管理]]与校长双重习性绑定
-> 揭示市场化[[School Autonomy\|学校自主权]]改革如何将校长重构为国家外包政策的交付者，剖析企业家压力对教育伦理的结构性侵蚀。
+> [!concept-proposition] 命题二｜市场化自主权与[[New Public Management|新公共管理]]绩效主义将校长撕裂于教育育人与企业化交付的制度陷阱
+> **探讨维度　[[New Public Management\|新公共管理]]与校长双重[[Habitus|习性]]绑定** 揭示市场化[[School Autonomy\|学校自主权]]改革如何将校长重构为国家外包政策的交付者，剖析企业家压力对教育伦理的结构性侵蚀。
 
 > [!claim] Eacott; Keddie et al.
 > **管理主义双重绑定** 市场驱动的学校自主权与新公共管理（NPM）改革，将学校校长推入了不可调和的制度性撕裂之中。埃科特与阿曼达·凯迪（Amanda Keddie）等学者基于[[Pierre Bourdieu\|皮埃尔·布迪厄]]（Pierre Bourdieu）[[Champ\|场域]]理论及对澳大利亚校长的实证研究表明，校长被赋予了看似庞大的预算与用人自主权，但实质上沦为国家竞争性问责项目的交付者（Deliverers）。校长不得不把大量精力转向争夺生源、包装学校形象、追逐标准化统考名次与应付繁琐审计；这种企业家角色的膨胀诱发了严重的目标置换（Goal [[Institutional Displacement|displacement]]），不仅削弱了对处境不利学生的公平扶助，更导致校长群体普遍陷入身心健康危机与严重职业倦怠。[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 49–54)]]；(Keddie et al., 2020, pp. 438–442)
 
 ---
 
-### 命题三　在证据知情实践中，榜样型领导示范与互信文化构成了破除教师防卫与实现高质量证据转化的决定性杠杆
-
-> [!concept-lens] 组织使能与证据转化机制
-> 探讨外部科研证据如何穿透学校微观壁垒，论证领导者亲身示范与制度化排程对教师常态化循证行为的促进机制。
+> [!concept-proposition] 命题三｜在[[Evidence-Informed Practice|证据知情实践]]中，榜样型领导示范与互信文化构成了破除教师防卫与实现高质量证据转化的决定性杠杆
+> **探讨维度　组织使能与证据转化机制** 探讨外部科研证据如何穿透学校微观壁垒，论证领导者亲身示范与制度化排程对教师常态化循证行为的促进机制。
 
 > [!claim] Rickinson et al.
 > **榜样型领导与心理安全** 在推动高质量研究[[Research Utilization\|证据使用]]的过程中，学校领导者承担着不可替代的组织使能中枢功能。[[Mark Rickinson\|马克·里金森]]（Mark Rickinson）等学者基于澳大利亚中小学实证调查指出，领导者口头倡导研究无法消除一线教师的抵触与信心赤字，唯有领导者言行一致、躬身示范研究在教学中的具体转化，才能赋予教师试错的心理安全感；通过在日常排程中刚性划拨专有研读工时、建立[[Professional Learning Community\|专业学习共同体]]（PLCs），领导者成功破除了行政文书杂务对教研的残酷挤压，使得外部适切证据能够在互信对话中扎根微观课堂。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 187–188, 191–193)]]
 
 ---
 
-### 命题四　产出导向与循证治理驱动学校领导者系统重置微观工时，向专业化教育企业管理者转型
-
-> [!concept-lens] 工时结构重置与专业身份转型
-> 探讨宏观治理模式如何穿透学校领导者的日常时间分配，论证从兼课教师向教育企业管理者的结构性转型机制。
+> [!concept-proposition] 命题四｜产出导向与[[Output-Oriented Governance|循证治理]]驱动学校领导者系统重置微观工时，向专业化教育企业管理者转型
+> **探讨维度　工时结构重置与专业身份转型** 探讨宏观治理模式如何穿透学校领导者的日常时间分配，论证从兼课教师向教育企业管理者的结构性转型机制。
 
 > [!claim] Altrichter et al.
 > **教育企业管理者角色的经验确立** [[Herbert Altrichter\|阿尔特里希特]]（Herbert Altrichter）等学者基于对奥地利中小学校长的实证调查指出，领导力的制度重塑最终必须落实于微观时间结构的重构。在传统科层体制下，中小学校长长期固守兼任行政事务的资深任课教师（Unterrichtende mit Zusatzaufgaben）这一历史角色；而高度认同产出导向与[[Output-Oriented Governance\|循证治理]]的校长，在实践中系统性缩减了近 14 个百分点的直接授课负担，将释放出的宝贵工时实质性投向深入课堂听课观摩、教学诊断研讨与校本自我评估，在实际行动中转型为以组织改进和教学质量引领为核心的教育企业管理者（Manager eines pädagogischen Betriebs）。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 30–33)]]
 
 ---
 
-### 命题五　学校领导力作为高位组织使能杠杆获得专家德尔菲高度认可，是整合微观教学的不可替代支撑
-
-> [!concept-lens] 组织使能杠杆与实践价值分层
-> 探讨在全要素证据库的去情境化排行中，学校领导力如何作为高位组织使能[[Variable|变量]]，获得专家评审的高度认可与战略定位。
+> [!concept-proposition] 命题五｜学校领导力作为高位组织使能杠杆获得专家德尔菲高度认可，是整合微观教学的不可替代支撑
+> **探讨维度　组织使能杠杆与实践价值分层** 探讨在全要素证据库的去情境化排行中，学校领导力如何作为高位组织使能[[Variable|变量]]，获得专家评审的高度认可与战略定位。
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
 > **专家评审确立学校领导力为核心组织使能支柱** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）开展德尔菲相关度评定时，学校领导力在全库所有组织与管理类变量中位列前茅。专家评定指出：与直接发生在教室内的微观教学行为不同，学校领导力虽不直接作用于学生个人认知加工，却是保障优质微观教学实践得以常态化发生、隔绝外部行政杂务干扰并建立互信教研生态的高位组织使能杠杆。将其与微观教学因素置于同一扁平[[Effect Size|效应量]]排行榜进行机械名次比较，抹杀了组织杠杆的系统性孵化功能。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]

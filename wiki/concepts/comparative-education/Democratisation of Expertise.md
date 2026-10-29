@@ -8,7 +8,7 @@ aliases:
 summary: "Sabine Maasen 与 Peter Weingart (2005) 提出的科学社会学概念，指教育等公共领域由于缺乏排他性专业壁垒与术语隔阂，公众皆自视为专家，导致研究证据高度暴露于公共争议之中，迫使政策中介机构诉诸严苛的证据层级体系重塑中立权威。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
   - theme/policy-brokerage
   - theme/politics-of-expertise
 related_concepts:
+  - "[[Politics of Knowledge]]"
   - "[[Technologies of Exclusion]]"
   - "[[Champ]]"
   - "[[Policy Brokerage]]"
@@ -50,13 +51,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Democratisation of Expertise
-> 专业知识民主化（Democratisation of Expertise）是指在特定公共政策领域中，专业知识与学术研究失去了由排他性行话、法定理化准入或职业壁垒所赋予的神圣垄断地位，使得广泛的公众、从业者、政治家与媒体均能直接理解、参与评判乃至自诩为行业专家的社会学现象。该概念由科学社会学家莎宾·玛森（Sabine Maasen）与彼得·魏因加特（Peter Weingart）于 2005 年系统提出，后被引入知识政治学与比较政策研究。在教育领域，由于几乎所有社会成员都拥有亲身受教育的经历，教育研究证据呈现出高度的可追溯性与通俗可读性，因而缺乏类似医疗卫生领域的专业排他性技术（[[Technologies of Exclusion]]）；这使得教育政策天然沦为意识形态交锋与公众辩论的激烈争议[[Champ\|场域]]（Contestation），并迫使[[Policy Brokerage\|政策中介]]机构不得不通过确立严苛的证据等级秩序（如将[[Randomised Controlled Trials\|随机对照试验]]奉为黄金标准、将[[OECD\|经合组织]]塑造为超党派中立裁判）来艰难维系自身的专业公信力。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 539)]]
+> 专业知识民主化（Democratisation of Expertise）是指在特定公共政策领域中，专业知识与学术研究失去了由排他性行话、法定理化准入或职业壁垒所赋予的神圣垄断地位，使得广泛的公众、从业者、政治家与媒体均能直接理解、参与评判乃至自诩为行业专家的社会学现象。该概念由科学社会学家莎宾·玛森（Sabine Maasen）与彼得·魏因加特（Peter Weingart）于 2005 年系统提出，后被引入[[Politics of Knowledge|知识政治]]学与比较政策研究。在教育领域，由于几乎所有社会成员都拥有亲身受教育的经历，教育研究证据呈现出高度的可追溯性与通俗可读性，因而缺乏类似医疗卫生领域的专业排他性技术（[[Technologies of Exclusion]]）；这使得教育政策天然沦为意识形态交锋与公众辩论的激烈争议[[Champ\|场域]]（Contestation），并迫使[[Policy Brokerage\|政策中介]]机构不得不通过确立严苛的证据等级秩序（如将[[Randomised Controlled Trials\|随机对照试验]]奉为黄金标准、将[[OECD\|经合组织]]塑造为超党派中立裁判）来艰难维系自身的专业公信力。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 539)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画专业知识壁垒瓦解后，公共政策领域内“人人皆为评判者”的泛知识化与去精英化状态。
@@ -107,20 +108,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　排他性技术壁垒的缺失导致教育研究证据天然暴露于高烈度的公共争议之中
-
-> [!concept-lens] 知识壁垒与公共争议
-> 探讨教育领域区别于其他专业公共政策领域的认知生态，分析为何教育科学的学术结论极难像医学或工程学那样在公众中形成无争议的技术权威。
+> [!concept-proposition] 命题一｜排他性技术壁垒的缺失导致教育研究证据天然暴露于高烈度的公共争议之中
+> **探讨维度　知识壁垒与公共争议** 探讨教育领域区别于其他专业公共政策领域的认知生态，分析为何教育科学的学术结论极难像医学或工程学那样在公众中形成无争议的技术权威。
 
 > [!claim] Maasen, S. & Weingart, P.
 > **专业边界的消解与争议常态化** 当科学知识被广泛应用于公共决策治理时，其传统的神圣性与垄断地位必然面临民主化侵蚀。在缺乏强有力技术排除机制的社会领域，专家知识从一种单向的技术权威降格为政治博弈中的普通争鸣意见；大众依据日常生活常识对专家断言进行直接解构，使得该领域的任何政策干预方案都天然具备高强度的公共争议性。（Maasen & Weingart, 2005）
 
 ---
 
-### 命题二　去神圣化环境倒逼政策中介机构通过构建证据认识论层级来重塑中立权威
-
-> [!concept-lens] 证据分层与权威工程
-> 探讨在人人自命专家的民主化生态下，国际智库与[[Policy Brokerage\|政策中介]]如何通过[[Scientism\|科学主义]]的量化方法与制度包装重建[[Discourse|话语]]合法性。
+> [!concept-proposition] 命题二｜去神圣化环境倒逼[[Policy Brokerage|政策中介]]机构通过构建证据[[Epistemology|认识论]]层级来重塑中立权威
+> **探讨维度　证据分层与权威工程** 探讨在人人自命专家的民主化生态下，国际智库与[[Policy Brokerage\|政策中介]]如何通过[[Scientism\|科学主义]]的量化方法与制度包装重建[[Discourse|话语]]合法性。
 
 > [!claim] [[Gita Steiner-Khamsi\|Steiner-Khamsi, G.]] et al.
 > **公信力两难下的等级制防御** 政策制定者面临着双重公信力困境：他们既需要熟悉官僚运作的体制内专家提供务实方案，又需要学术界外部独立专家提供客观背书。在专业知识民主化的严酷冲击下，政策中介机构为了自证比其他竞争对手更为公允无私，不得不构建起严格的“知识与证据层级体系”；通过宣称[[Randomised Controlled Trials\|随机对照试验]]具有不可动摇的黄金科学地位，以及将[[OECD\|经合组织]]的数据测验塑造成无可挑剔的中立基准，中介机构得以用精密的数字技术防御外界的政治偏见质疑。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 539)]]
@@ -137,7 +134,7 @@ updated: 2026-10-26
 
 > [!dev-timeline] 概念演变
 > - **2005 — 科学社会学立论** 莎宾·玛森与彼得·魏因加特出版《专业知识的民主化？探讨现代社会治理中科学建议的新形态》（*Democratization of Expertise? Exploring Novel Forms of Scientific Advice in Governing Modern Societies*），奠定该概念的社会学基础。
-> - **2017 — 国际组织专家知识政治学** 克里斯蒂娜·博斯韦尔（Christina Boswell）深入剖析国际官僚体系中专家知识的政治符号功能，揭示出内部实用专家与外部独立专家难以兼得的制度两难。
+> - **2017 — 国际组织专家[[Politics of Knowledge|知识政治]]学** 克里斯蒂娜·博斯韦尔（Christina Boswell）深入剖析国际官僚体系中专家知识的政治符号功能，揭示出内部实用专家与外部独立专家难以兼得的制度两难。
 > - **2024 — 教育[[Policy Brokerage\|政策中介]]生态根源确立** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] 将专业知识民主化直接引入比较教育政策分析，将其定位为引发教育领域高烈度公共争议性（Contestation）的底层成因。
 
 ---

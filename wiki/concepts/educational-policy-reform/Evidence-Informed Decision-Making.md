@@ -7,10 +7,10 @@ aliases:
 summary: "在规划、实施或调整政策、项目与服务前系统咨询最佳可用研究证据的审议过程，强调通过六大因果机制改变决策者行为与心理状态的系统框架。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/evidence-informed-practice
   - theme/research-use
@@ -32,6 +32,8 @@ related_concepts:
   - "[[Construct]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Knowledge Production]]"
+  - "[[Document]]"
+  - "[[Deliberative Space]]"
   - "[[Research Translation]]"
   - "[[Epistemology]]"
   - "[[Data Literacy]]"
@@ -63,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -146,33 +148,27 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　证据利用在本质上是由多层干预驱动决策者行为改变的因果干预过程
-
-> [!concept-lens] 行为改变视角下的证据利用本体
-> 突破将[[Research Utilization\|知识利用]]窄化为纯粹认知功能或静态信息消费的理论偏误，确立其作为多维行为干预过程的因果机制。
+> [!concept-proposition] 命题一｜证据利用在本质上是由多层干预驱动决策者行为改变的因果干预过程
+> **探讨维度　行为改变视角下的证据利用本体** 突破将[[Research Utilization\|知识利用]]窄化为纯粹认知功能或静态信息消费的理论偏误，确立其作为多维行为干预过程的因果机制。
 
 > [!claim] Langer, Tripney, & Gough (2016) / [[Argument_Torres_2022_KMModels\|Torres (2022b)]]
 > **证据知情决策的行为因果链条** 证据知情决策是一个受到干预类型、组织层级、心理[[Construct\|构念]]与制度结构多重制约的复杂行为改变过程。该框架根本性打破了[[Knowledge Mobilisation\|知识动员]]传统上以“[[Knowledge Production\|知识生产]]”为支配重心的供给侧偏误（Levin, 2013），将知识动员的终极锚点明确转移至“引发决策者行为改变”。证据若未能在能力（Capability）、动机（Motivation）或机会（Opportunity）层面引发决策者的心理状态迁移，就无法克服行政惯性生成真实的政策采纳。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 46–47)]]
 
 ---
 
-### 命题二　孤立的信息供给无法促成决策转化且唯有六大机制协同才能激活决策机会与能力
-
-> [!concept-lens] 机制协同与制度约束
-> 揭示单一的“文献推介”在政策环境中的低效性，论证软性能力培养与硬性行政规程双轮驱动的必要性。
+> [!concept-proposition] 命题二｜孤立的信息供给无法促成决策转化且唯有六大机制协同才能激活决策机会与能力
+> **探讨维度　机制协同与制度约束** 揭示单一的“[[Document|文献]]推介”在政策环境中的低效性，论证软性能力培养与硬性行政规程双轮驱动的必要性。
 
 > [!claim] Langer, Tripney, & Gough (2016) / [[Argument_Torres_2022_KMModels\|Torres (2022b)]]
-> **六大因果机制的非充分性与协同整合** 仅靠“沟通可及”（如将报告改写为政策摘要）无法确保证据知情决策的发生。如果决策者缺乏解读实证研究的方法素养（缺乏能力 Skills），或者面临紧迫的政治问责压力而排斥反直觉的学术结论（缺乏认同 Agreement 与动机 Motivation），抑或行政体制内并未规定重大决策必须附带证据综述报告（缺乏结构规程 Structure），证据依然会被边缘化。唯有将意识、认同、技能、沟通、互动与结构六大机制立体嵌套，才能为决策者营造实质性的循证审议空间。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 46–47)]]
+> **六大因果机制的非充分性与协同整合** 仅靠“沟通可及”（如将报告改写为政策摘要）无法确保证据知情决策的发生。如果决策者缺乏解读实证研究的方法素养（缺乏能力 Skills），或者面临紧迫的政治问责压力而排斥反直觉的学术结论（缺乏认同 Agreement 与动机 Motivation），抑或行政体制内并未规定重大决策必须附带证据综述报告（缺乏结构规程 Structure），证据依然会被边缘化。唯有将意识、认同、技能、沟通、互动与结构六大机制立体嵌套，才能为决策者营造实质性的循证[[Deliberative Space|审议空间]]。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 46–47)]]
 >
 > [!claim] [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024)]]
 > **常设转化网络对证据知情决策的制度化支撑** [[UNESCO|联合国教科文组织]]全球教育研究利用战略审查通过跨部门治理对比指出，证据知情决策的持续发生高度依赖常设性转化基础设施。世界卫生组织于 2005 年发起的[[EVIPNet|证据知情政策网络]]（EVIPNet）确立了全球与本土垂直贯通的双层架构：在总部制定高质量[[Research Synthesis|证据综合]]准则，而在各成员国内部设立由本土专业团队运营的国家知识转化平台（[[Research Translation|Knowledge Translation]] Platforms, KTPs），通过将实证审查制度化嵌入法规流程与长效监测机制，有效化解了单向知识推送导致的政策采纳障碍，为全球公共治理推进证据知情决策提供了成熟的组织架构样板。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 36–37, 48–49)]]
 
 ---
 
-### 命题三　真实的证据知情决策依赖制度使能环境与认识论正义，反对将政策转化阻碍个体责任化归咎于官员素养
-
-> [!concept-lens] 制度使能环境与[[Epistemology|认识论]]正义
-> 探讨超国家[[Discourse|话语]]中证据知情决策的个体化偏颇，论证系统使能条件与地方包容性审议对推进实质性证据知情决策的核心价值。
+> [!concept-proposition] 命题三｜真实的证据知情决策依赖制度使能环境与[[Epistemology|认识论]]正义，反对将政策转化阻碍个体责任化归咎于官员素养
+> **探讨维度　制度使能环境与[[Epistemology|认识论]]正义** 探讨超国家[[Discourse|话语]]中证据知情决策的个体化偏颇，论证系统使能条件与地方包容性审议对推进实质性证据知情决策的核心价值。
 
 > [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
 > **超越个体责任化与重塑包容性证据知情生态** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对[[OECD|经合组织]]、教科文组织与[[World Bank|世界银行]]政策文本的分析指出，主流超国家话语常将证据知情决策的推进瓶颈归咎于决策官员缺乏[[Data Literacy|数据素养]]与分析技能，从而将原本深嵌于科层体制与政治环境的系统性阻碍转化为公职人员的个体能力缺陷（个体责任化）；推进真实的证据知情决策，必须超越单纯的个体技能培训，着力重构涵盖行政时间保障、跨界对话空间与制度激励的使能环境，并在全球实证证据与本土[[Phronesis|实践智慧]]之间确立认识论正义与包容性审议空间。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 340, 347–351)]]

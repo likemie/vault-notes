@@ -7,7 +7,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge"
 argument_display_title: "The Science of Science"
 argument_kind: "book"
-argument_related_count: 4
+argument_related_count: 6
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#ede9fe"
@@ -32,6 +32,9 @@ related_concepts:
   - "[[Team Science]]"
   - "[[Causality]]"
   - "[[Document]]"
+related_arguments:
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
 status: "draft"
 created: "2026-10-27"
 updated: 2026-10-29
@@ -42,7 +45,7 @@ updated: 2026-10-29
 > - **撰写者** 王大顺（Dashun Wang）与艾伯特－拉斯洛·巴拉巴西（Albert-László Barabási）。
 > - **出版信息** Cambridge University Press，2021 年首版；版权页标注 2020 年。
 > - **处理粒度** `chapter-arguments`，23 章按主题合为 11 个解读单元，依次用于后续论证页。
-> - **阅读范围** 当前完成目录和页码核对，已导出英文文本，已完成单元 01（第 1–3 章）解读。
+> - **阅读范围** 当前完成目录和页码核对，已导出英文文本，已完成单元 01（第 1–3 章）与单元 02（第 4–5 章）解读。
 
 ---
 
@@ -50,7 +53,7 @@ updated: 2026-10-29
 > | 单元与主题 | 原章节及正文页码 | 文本与进度 |
 > |---|---|---|
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|01 科研产出、h 指数与马太效应]] | 第 1–3 章；pp. 7–38，正文 32 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit01_Ch01-03_Productivity_Metrics_and_Matthew_Effect.txt)；已解读 |
-> | 02 年龄、科学成就与随机影响规律 | 第 4–5 章；pp. 39–59，正文 21 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit02_Ch04-05_Age_Achievement_and_Random_Impact.txt)；待解读 |
+> | [[Argument_Wang_Barabasi_2021_Cambridge_Unit02\|02 年龄、科学成就与随机影响规律]] | 第 4–5 章；pp. 39–59，正文 21 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit02_Ch04-05_Age_Achievement_and_Random_Impact.txt)；已解读 |
 > | 03 Q 因子与科研生涯中的高影响时期 | 第 6–7 章；pp. 60–80，正文 21 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit03_Ch06-07_Q_Factor_and_Hot_Streaks.txt)；待解读 |
 > | 04 [[Team Science\|团队科学]]、学术环境与合著网络 | 第 8–10 章；pp. 85–109，正文 25 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit04_Ch08-10_Teams_College_and_Coauthorship_Networks.txt)；待解读 |
 > | 05 团队组建与团队规模 | 第 11–12 章；pp. 110–133，正文 24 页 | [TXT](../../../../raw/Wang_Barabasi_2021_Cambridge_txt/Unit05_Ch11-12_Team_Assembly_and_Size.txt)；待解读 |

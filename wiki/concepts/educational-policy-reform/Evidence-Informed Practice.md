@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据定位为多元决策资源之一的实践取向，主张以专业判断为核心枢纽，情境化整合研究证据、系统数据与课堂数据，并依托榜样领导、专有排程与全系统知识动员推进高质量证据使用与教育改进"
 type: concept
 domain: "educational-policy-reform"
-related_count: 93
+related_count: 97
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Evidence-Informed Decision-Making]]"
   - "[[Evidence-Based Education]]"
   - "[[Research-Informed Teaching Practice]]"
+  - "[[Document]]"
   - "[[Data-Based Decision Making]]"
   - "[[School Enquiry Cycle]]"
   - "[[Pragmatism in China]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Formative Assessment]]"
   - "[[Homework]]"
+  - "[[Differentiated Instruction]]"
   - "[[School Leadership]]"
   - "[[Research Translation]]"
   - "[[Data Literacy]]"
@@ -57,6 +59,8 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Problem Solving]]"
   - "[[Activity Traps]]"
+  - "[[Educational Brokerage Agency]]"
+  - "[[Scaffolding]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Reliability]]"
   - "[[Normal School]]"
@@ -120,7 +124,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -146,7 +150,7 @@ updated: 2026-10-26
 > [!boundary]- 概念边界
 > - 区别于 [[Evidence-Based Education\|证据本位教育]]（EBE）：EBE 主张由高等级[[Experimental Research\|实验研究]]直接处方化指导决策；EIP 将研究定位为多元输入之一，由专业判断进行审慎权衡与情境改编。
 > - 区别于证据知情决策（Evidence-Informed Decision-Making, EIDM）：EIP 聚焦一线学校与课堂教学实践情境中的专业审议；EIDM 则聚焦系统治理、跨部门政策制定与公共服务项目方案调整中的决策咨询程序（Langer et al., 2016；[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 18]]）。
-> - 区别于 [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）：RITP 侧重学术文献的直接转化与教学法启发；EIP 强调系统管理数据与课堂过程性数据具有同等合法的证据地位，两者在现实中常沦为平行孤岛，EIP 致力于将二者融为一体（[[Argument_Brown_2017_EducRes\|Brown et al., 2017, p. 156]]）。
+> - 区别于 [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）：RITP 侧重学术[[Document|文献]]的直接转化与教学法启发；EIP 强调系统管理数据与课堂过程性数据具有同等合法的证据地位，两者在现实中常沦为平行孤岛，EIP 致力于将二者融为一体（[[Argument_Brown_2017_EducRes\|Brown et al., 2017, p. 156]]）。
 > - 区别于 [[Data-Based Decision Making\|基于数据的决策]]（DBDM）：DBDM 通常局限于校内测试数据的局部调整与学情病因诊断；EIP 强调将内部数据诊断与外部成熟研究干预统一嵌入[[School Enquiry Cycle\|学校探究循环]]（[[Argument_Brown_2017_EducRes\|Brown et al., 2017, pp. 165–167]]）。
 > - 区别于 [[Knowledge Mobilisation\|知识动员]]（KMb）：知识动员是支撑 EIP 实现的中介转化机制与系统策略；EIP 则是教育者在专业决策中所秉持的实践取向本身。
 
@@ -173,7 +177,7 @@ updated: 2026-10-26
 > |---|---|---|---|
 > | **[[Professional Judgment\|专业判断]]** | 教师基于伦理价值、教学经验、情境洞察与反思形成的审议能力。 | 多源信息整合的枢纽；赋予抽象规律情境适切性，把关教育长远价值。 | 缺乏客观证据约束时易沦为主观偏见或[[Empiricism\|经验主义]]停滞。 |
 > | **系统层面数据** | 学校、学区、省州或国家层面的学业测评、督导评估与资源配置数据。 | 提供宏观基准线与质量监控信号，支持系统性问题诊断与战略规划。 | 单独主导易诱发唯分数论与技术官僚主义问责。 |
-> | **课堂数据** | [[Formative Assessment\|形成性评估]]、课堂质性观察、学生[[Homework\|作业]]与师生交互反馈。 | 反映微观教学即时动态，为差异化教学与过程性调整提供第一手证据。 | 易过度依赖终结性测试，缺乏定性与定量的[[Triangulation\|三角验证]]。 |
+> | **课堂数据** | [[Formative Assessment\|形成性评估]]、课堂质性观察、学生[[Homework\|作业]]与师生交互反馈。 | 反映微观教学即时动态，为[[Differentiated Instruction\|差异化教学]]与过程性调整提供第一手证据。 | 易过度依赖终结性测试，缺乏定性与定量的[[Triangulation\|三角验证]]。 |
 > | **研究证据** | 经学术规范生产的实证发现、理论综合与[[Systematic Review\|系统综述]]。 | 提供普遍因果规律、干预机制解释与概率性效果参考，拓宽实践视野。 | 脱离微观情境生搬硬套易导致实践水土不服。 |
 
 > [!factors] 支撑 EIP 常态化落地的校级使能条件
@@ -227,10 +231,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　EIP 将研究证据定位为多元决策资源之一，以专业判断为情境整合枢纽
-
-> [!concept-lens] 证据地位与多源整合机制
-> 探讨研究证据在专业决策中的本体定位，确立[[Professional Judgment\|专业判断]]作为连接抽象规律与微观课堂情境的核心转化枢纽。
+> [!concept-proposition] 命题一｜EIP 将研究证据定位为多元决策资源之一，以[[Professional Judgment|专业判断]]为情境整合枢纽
+> **探讨维度　证据地位与多源整合机制** 探讨研究证据在专业决策中的本体定位，确立[[Professional Judgment\|专业判断]]作为连接抽象规律与微观课堂情境的核心转化枢纽。
 
 > [!claim] [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]; Sharples (2013)
 > **多源整合与专业审议** 证据知情实践将专业专长、系统管理数据、课堂即时数据与来自研究的外部证据有机融合。研究证据是关键拼图，但不构成决策的全部；教育决策兼具技术性、伦理价值与政治情境性，唯有通过教育者的专业判断进行审议与改编，外部研究才能克服教条主义，转化为高质量的实践行动。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 127–129)]]
@@ -240,10 +242,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　因果黄金标准与实践本位证据构成认识论张力，实践生成性知识具有不可替代的形成性价值
-
-> [!concept-lens] 证据合法性与[[Practice-Based Evidence\|实践本位证据]]
-> 审视实证因果黄金标准与一线教师生成的实践知识之间的[[Epistemology\|认识论]]冲突，确立多元证据的共存与互补关系。
+> [!concept-proposition] 命题二｜因果黄金标准与[[Practice-Based Evidence|实践本位证据]]构成[[Epistemology|认识论]]张力，实践生成性知识具有不可替代的形成性价值
+> **探讨维度　证据合法性与[[Practice-Based Evidence\|实践本位证据]]** 审视实证因果黄金标准与一线教师生成的实践知识之间的[[Epistemology\|认识论]]冲突，确立多元证据的共存与互补关系。
 
 > [!claim] Goldacre (2013); Bredo (2006)
 > **有效性与育人价值的[[Paradigm\|范式]]对立** [[Evidence-Based Education\|证据本位教育]]倡导者主张通过[[Randomised Controlled Trials\|随机对照试验]]（RCT）建立关于有效性（What Works）的因果证据；批判学者指出，将教育研究窄化为实验因果律会排斥关乎教育目的与伦理价值的议题（What Matters），EIP 必须包容多元认识论视角。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 128)]]
@@ -253,10 +253,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题三　EIP 的系统化推进取决于全系统知识动员与跨界中介，而非单纯增加学术研究供给
-
-> [!concept-lens] 知识流动机制与系统动员条件
-> 剖析证据从生成到应用之间的转化阻滞，论证全系统生态建设与中介能力培育在克服双向能力赤字中的决定性功能。
+> [!concept-proposition] 命题三｜EIP 的系统化推进取决于全系统[[Knowledge Mobilisation|知识动员]]与跨界中介，而非单纯增加学术研究供给
+> **探讨维度　知识流动机制与系统动员条件** 剖析证据从生成到应用之间的转化阻滞，论证全系统生态建设与中介能力培育在克服双向能力赤字中的决定性功能。
 
 > [!claim] [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]; Carrier (2017); Cooper et al. (2017)
 > **肥沃土壤与同行网络中介** 推进 EIP 的关键前提在于培育使教育者能够主动批判、实施与改编证据的肥沃土壤，单纯向学校推送研究报告无法突破专业壁垒。一线教师获取实践信息高度依赖同行人际网络，需发展分析性立场以抵御缺乏实证支撑的说服性商业修辞，并依托[[School Leadership\|学校领导]]与工会等中介组织实现专业转译。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 127, 130)]]
@@ -269,10 +267,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题四　EIP 的实质成效取决于从关注证据质量转向使用质量，依托榜样领导与工时排程破除时间赤字
-
-> [!concept-lens] 使用质态与组织使能机制
-> 探讨研究证据进入实践现场后如何避免形式化套用，剖析高质量使用的实践特征与学校组织生态保障。
+> [!concept-proposition] 命题四｜EIP 的实质成效取决于从关注证据质量转向使用质量，依托榜样领导与工时排程破除时间赤字
+> **探讨维度　使用质态与组织使能机制** 探讨研究证据进入实践现场后如何避免形式化套用，剖析高质量使用的实践特征与学校组织生态保障。
 
 > [!claim] [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson, Walsh, et al. (2022)]]
 > **从证据质量向使用质量的范式位移** 证据知情实践的成败不仅取决于外部证据本身是否达到方法学严谨，更取决于实践端的使用质量（Quality of Use）。忽视使用质量会导致 EIP 蜕化为追逐时髦风向、证实偏见或管理层单向强推新奇点子等劣质使用；高质量 EIP 具备目标明确、常态嵌入、连接专业精神、集体参与、依赖时间精力与好奇心驱动六大特征，其实质是将研究内化为教师专业反思与协作改进的内在基因。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 185–191)]]
@@ -282,20 +278,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题五　EIP 的成效评估面临知识与方法双重缺口，须统筹观测中间探究心智与多维长期实践重塑
-
-> [!concept-lens] 成果分层类型学与多维评估
-> 针对 EIP 实施程度与实际影响评估的滞后性，构建涵盖行为心智与深层实践重塑的观测框架。
+> [!concept-proposition] 命题五｜EIP 的成效评估面临知识与方法双重缺口，须统筹观测中间探究心智与多维长期实践重塑
+> **探讨维度　成果分层类型学与多维评估** 针对 EIP 实施程度与实际影响评估的滞后性，构建涵盖行为心智与深层实践重塑的观测框架。
 
 > [!claim] [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]; Wentworth et al. (2017)
 > **双重知识缺口与成果分层类型学** 评估 EIP 对教学实践与学生成果的影响面临实证匮乏与方法工具不成熟的双重挑战。成效评估须区分以搜寻行为与探究心智为主的中间成果（Intermediate Outcomes），以及涵盖工具性直接改进、概念性思维重塑与象征性合法化辩护的长期成果（Long-Term Outcomes），坚持多维量化指标与丰富质性描述并重，避免落入窄化量化主义的陷阱。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 131–133)]]
 
 ---
 
-### 命题六　EIP 在学校层面的落地取决于能力、文化规范、学习环境与结构资源四类条件的共同具备
-
-> [!concept-lens] 学校层面的条件配置
-> 这类命题把 EIP 的[[Unit of Analysis\|分析单位]]由个体决策上移至学校组织，讨论哪些组织条件必须同时存在，研究使用才能从个别教师的做法变为学校的常态。
+> [!concept-proposition] 命题六｜EIP 在学校层面的落地取决于能力、文化规范、学习环境与结构资源四类条件的共同具备
+> **探讨维度　学校层面的条件配置** 这类命题把 EIP 的[[Unit of Analysis\|分析单位]]由个体决策上移至学校组织，讨论哪些组织条件必须同时存在，研究使用才能从个别教师的做法变为学校的常态。
 
 > [!claim] Brown, C. & [[Toby Greany\|Greany, T.]]
 > **四类条件的互补性** 学校要把自身建成[[Research-Engaged School\|研究参与学校]]，须同时具备参与研究并运用证据的能力、使研究使用成为常规的文化、以[[Professional Learning Community\|专业学习共同体]]为载体的有效学习环境，以及支撑研究使用的结构、系统与资源。四者并非可相互替代的并列选项：能力不足会使证据无法被正确解读，文化缺位会使个别教师的使用难以持续，学习环境薄弱会使研究使用退化为技巧采纳，结构缺位则使前两者失去时间与空间保障。任一环节缺位，证据知情实践都难以在学校层面稳定下来。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122–126)]]
@@ -308,10 +300,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题七　推进教师专业化循证转向必须依托专门证据中介机构建立受众适配的决策脚手架
-
-> [!concept-lens] 教师教育中介化专业化机制
-> 探讨如何克服教师专业立论要求与学术文献深奥深层脱节的矛盾，论证通过第三方[[Educational Evidence Clearinghouses\|证据清算中心]]对高因果[[Reliability\|信度]][[Meta-analysis\|元分析]]进行二次加工、并以师资培训者为骨干支点推动 EIP 常态化落实的内在机制。
+> [!concept-proposition] 命题七｜推进教师专业化循证转向必须依托专门[[Educational Brokerage Agency|证据中介机构]]建立受众适配的决策[[Scaffolding|脚手架]]
+> **探讨维度　教师教育中介化专业化机制** 探讨如何克服教师专业立论要求与学术[[Document|文献]]深奥深层脱节的矛盾，论证通过第三方[[Educational Evidence Clearinghouses\|证据清算中心]]对高因果[[Reliability\|信度]][[Meta-analysis\|元分析]]进行二次加工、并以师资培训者为骨干支点推动 EIP 常态化落实的内在机制。
 
 > [!claim] Knogler, M., et al.
 > **中介转化与骨干辐射机制** 教师职业向类似医学的专门职业转型，其核心特征是教学决策日益建立在坚实的科学实证证据之上；然而，学术研究的理论旨趣与微观课堂的即时操作诉求存在深刻的生产逻辑割裂，导致单纯的信息发布无法转化为实践行动。克服这一阻滞的关键在于引入第三方的专门[[Educational Evidence Clearinghouses\|教育证据清算机构]]（如德国 [[Clearing House Unterricht]]）：专家团队以高因果信度的[[Meta-analysis\|元分析]]为基底，依据严格标准提炼为轻量化教学简评（Kurzreviews）、术语指南与专题播客，实质性消除实践者的语言与统计认知门槛；同时，重点面向高校[[Normal School\|师范教育]]者（Lehrkräftebildende）与进修主管等骨干中介群体（Multiplikatoren），将证据知情探究内生嵌入教师职前培养与在职研修体系，依托双向反馈机制推动证据知情实践在教育教学常态中持续落实。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 13–16)]]

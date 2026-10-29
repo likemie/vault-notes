@@ -8,7 +8,7 @@ aliases:
 summary: "指由信息通信技术和交通革命驱动的物理距离与沟通时滞的急剧缩减，它深刻改变了资本、劳动力与知识的流动方式，成为界定全球化时代教育变革与传统世界体系历史阶段质性差异的关键本体论基础。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Post-Fordism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Educational Privatisation]]"
+  - "[[Distance Education]]"
   - "[[Space of Places]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -106,10 +107,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　时空压缩推动了全球资本积累方式与教育劳动的弹性化重构
-
-> [!concept-lens] [[Varieties of Capitalism|生产体制]]转型与教育功能的重塑
-> 聚焦时空压缩如何改变现代资本主义的积累机制，以及这种改变如何倒逼教育系统从标准化培养转向弹性适应。
+> [!concept-proposition] 命题一｜时空压缩推动了全球资本积累方式与教育劳动的弹性化重构
+> **探讨维度　[[Varieties of Capitalism|生产体制]]转型与教育功能的重塑** 聚焦时空压缩如何改变现代资本主义的积累机制，以及这种改变如何倒逼教育系统从标准化培养转向弹性适应。
 
 > [!claim] Harvey, D.
 > **[[Post-Fordism|后福特制]]积累与弹性专精** 资本主义为克服利润率下降与过度积累危机，必须加速资本循环周期；时空压缩瓦解了刚性的福特制国家生产框架，催生了以即时响应、灵活雇佣和跨国供应链为特征的弹性积累体制，对劳动力提出了多技能与快速重构的要求。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107)]]
@@ -119,10 +118,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　通信技术的时空压缩为草根跨国联合与自下而上的全球化抗争创造了物质前提
-
-> [!concept-lens] 数字连接与全球社会正义抗争网络
-> 探讨时空压缩如何为边缘群体克服地理阻隔、实现跨国界社会运动联合提供战略性武器。
+> [!concept-proposition] 命题二｜通信技术的时空压缩为草根跨国联合与[[Globalization from Below|自下而上的全球化]]抗争创造了物质前提
+> **探讨维度　数字连接与全球社会正义抗争网络** 探讨时空压缩如何为边缘群体克服地理阻隔、实现跨国界社会运动联合提供战略性武器。
 
 > [!claim] [[Manuel Castells|Castells, M.]]
 > **网络化抗争空间的诞生** 瞬时通信网络不仅重构了财富生产的逻辑，也为社会运动创造了摆脱传统国家和主流媒体把关的自治沟通空间，使得分散在世界各地的抗争行动能够实现横向连接与同步共振。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 112–113)]]
@@ -135,7 +132,7 @@ updated: 2026-10-22
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **生产体制与教育弹性化** | 阐明时空压缩如何驱使资本主义生产从福特制转向丰田制，并倒逼教育系统转向[[Lifelong Learning\|终身学习]]与弹性技能培养 | 全球知识经济、新资本主义劳动过程、跨国远程教育研究 | Harvey, D.; Arnove, R. F. |
+> | **生产体制与教育弹性化** | 阐明时空压缩如何驱使资本主义生产从福特制转向丰田制，并倒逼教育系统转向[[Lifelong Learning\|终身学习]]与弹性技能培养 | 全球知识经济、新资本主义劳动过程、跨国[[Distance Education\|远程教育]]研究 | Harvey, D.; Arnove, R. F. |
 > | **网络赋能与跨国草根反抗** | 揭示通信技术跨越空间阻隔的特性如何为被边缘化群体提供全球协同抗争与身份重构的平台 | 国际教师工会运动、反新自由主义教育私有化抗争、原住民教育权运动 | Castells, M.; Arnove, R. F. |
 
 ---

@@ -42,6 +42,7 @@ related_concepts:
   - "[[Constructivist Instruction]]"
   - "[[Problem-Based Learning]]"
   - "[[Problem Solving]]"
+  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Nature of Science]]"
   - "[[Publication Bias]]"
@@ -50,9 +51,9 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Scientific Method]]"
   - "[[Direct Instruction]]"
+  - "[[Developer-Made Measures]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Measurement Alignment]]"
-  - "[[Developer-Made Measures]]"
   - "[[Dependent Variable]]"
   - "[[Sleeper Effect]]"
   - "[[Learner Autonomy]]"
@@ -96,14 +97,14 @@ sources:
 part_of: ""
 status: active
 created: 2026-09-21
-updated: 2026-10-23
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cartiff_2021_JEP"
 argument_key: "Argument_Cartiff_2021_JEP"
 argument_display_title: "The effect of epistemic cognition interventions on academic achievement: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -146,7 +147,7 @@ journal: "Journal of Educational Psychology"
 > | **调节变量：特异性水平与对齐** | 划分干预内容与测验指标的跨度层级：分为领域通用（跨学科通用思维）、领域特定（如物理学、历史学等学科门类）以及具体主题特定（如光合作用、气候变化等特定单元）。对齐是指干预层级与测验层级完全吻合。 | 编码干预层级、测验层级以及二者是否完全对齐。如 Lam and Chan (2008) 兼具领域通用与主题特定测验。 |
 > | **调节变量：干预时长** | 干预实施的时间长短与课时密度，划分为五档：单次高强度集中教学、短期干预（数天至 1 周）、中期干预（2 至 4 周）、长期干预（5 至 10 周）以及全学期及以上教学。 | 编码实际干预周数与课时量。从 1 小时即时干预（Barzilai & Ka'adan, 2017）到一学期（15 周）物理课程整合（Sahin, 2010b）。 |
 >
-> **图表解读** 本表系统界定了[[Meta-analysis\|元分析]]的变量操作化标准，将原本异质的认识论干预文献归入清晰的理论与操作维度，为后续检验因果效应及其[[Heterogeneity\|异质性]]来源提供了统一标尺。
+> **图表解读** 本表系统界定了[[Meta-analysis\|元分析]]的变量操作化标准，将原本异质的认识论干预[[Document|文献]]归入清晰的理论与操作维度，为后续检验因果效应及其[[Heterogeneity\|异质性]]来源提供了统一标尺。
 
 ---
 
@@ -219,10 +220,10 @@ journal: "Journal of Educational Psychology"
 
 ---
 
-> [!claim] 论证步骤一　认识论认知干预能够有效改善学业成绩且因果效应达到中等强度
+> [!claim|step] 论证步骤一　认识论认知干预能够有效改善学业成绩且因果效应达到中等强度
 > [[Meta-analysis\|元分析]]合并结果证实，针对[[Epistemic Cognition\|认识论认知]]的教学干预能够带来显著且稳健的[[Academic Achievement\|学业成就]]提升，其平均效应达到中等偏上水平（[[Random-Effects Model\|随机效应模型]] $d = 0.509$），确立了认识论认知的因果改善作用。
 
-#### 1. 实验与准实验干预平均带来中等程度的学业表现提升
+> [!sub-claim] 1. 实验与准实验干预平均带来中等程度的学业表现提升
 
 > [!ref-table]- 表 2：纳入研究总体[[Effect Size\|效应量]]合并结果
 > | 统计模型 | [[Sample Size Determination\|样本量]]（k） | 效应量（d） | 95% [[Confidence Interval\|置信区间]]（95% CI） | Z 值 | Q 值 | df | [[Heterogeneity\|异质性]]（I²） |
@@ -235,7 +236,7 @@ journal: "Journal of Educational Psychology"
 > [!result-reading]- 效应量的教育意义
 > 随机效应模型下的平均效应量为 $d = 0.509$（$95\% \text{ CI } [0.326, 0.692], p < .001$）。根据 Hattie (2015) 对大量教育干预研究的综述，常规教育教学措施的平均效果约为 $d = 0.40$。认识论认知干预不仅超越了这一基准线，而且在 Hattie 汇总的 195 类教学措施中位列前 50 位。这意味着接受认识论指导的学生，平均学业表现超过了对照组约 69% 的学生。
 
-#### 2. 考虑多重测量相关性后因果促进效应依然高度稳健
+> [!sub-claim] 2. 考虑多重测量相关性后因果促进效应依然高度稳健
 
 > [!evidence-grid] 多重测量相关性敏感性检验
 > - **合并计算（保守假设）** 假定同一研究内各测验高度相关，先平均为单一指标（$k = 28$），得出随机效应 $d = 0.509$。
@@ -248,10 +249,10 @@ journal: "Journal of Educational Psychology"
 
 ---
 
-> [!claim] 论证步骤二　提供结构化指导与信源评估规则显著优于无支架的开放式探究
+> [!claim|step] 论证步骤二　提供结构化指导与信源评估规则显著优于无支架的开放式探究
 > 干预效果高度取决于具体的教学组织形式：明确讲授证据评估策略的[[Inquiry-Based Learning\|指导式探究]]（$d = 0.808$）与[[Source Evaluation\|信源评估]]（$d = 0.800$）成效突出，而缺乏指导的自主[[Problem Solving\|问题解决]]（$d = 0.340$）与开放辩论（$d = 0.134$）效果微弱且不显著。
 
-#### 1. 讲授具体确证策略的指导式教学相比放任型问题解决和辩论更具优势
+> [!sub-claim] 1. 讲授具体确证策略的指导式教学相比放任型问题解决和辩论更具优势
 
 > [!ref-table]- 表 3：干预[[Framework for Teaching|教学框架]][[Moderator Analysis\|调节变量分析]]
 > | 教学框架 | 被试量（N） | 样本量（k） | 效应量（d） | 95% 置信区间（95% CI） | Z 值 | Q 值 | df |
@@ -271,7 +272,7 @@ journal: "Journal of Educational Psychology"
 > - **[[Source Evaluation\|信源评估]]** Mason et al. (2014) 在中学生阅读冲突性网络健康材料时，[[Direct Instruction\|直接讲授]]鉴别网络信息的操作准则——查看作者专业资质、出版机构商业利益倾向、结论是否有数据支撑。学生学会这套规则后迅速摆脱盲信盲从，跨文本理解能力显著提升；Barzilai & Ka'adan (2017) 也发现教授信息整合策略能有效提高学生权衡不同观点的能力。
 > - **论证教学为何参差不齐** 辩论教学平均仅 $d = 0.134$ 且不显著，原因在于设计存在极大分歧：Nussbaum et al. (2008) 和 Osborne et al. (2013) 明确讲授了论据构造与反驳规则，成效良好；Ferguson et al. (2013) 和 Stoel et al. (2017) 仅将两篇冲突文章发给学生自行讨论，未提供评估论据强弱的指导，学生面对冲突信息无所适从，产生了严重认知负担。
 
-#### 2. 聚焦知识来源与证据确证维度的理论设计比宽泛的学习信念干预更为有效
+> [!sub-claim] 2. 聚焦知识来源与证据确证维度的理论设计比宽泛的学习信念干预更为有效
 
 > [!ref-table]- 表 4：理论模型调节变量分析
 > | 理论模型 | 被试量（N） | 样本量（k） | 效应量（d） | 95% 置信区间（95% CI） | Z 值 | Q 值 | df | 异质性（I²） |
@@ -294,10 +295,10 @@ journal: "Journal of Educational Psychology"
 
 ---
 
-> [!claim] 论证步骤三　认识论干预深度促进高阶论证与概念转变而非底层机械记忆
+> [!claim|step] 论证步骤三　认识论干预深度促进高阶论证与概念转变而非底层机械记忆
 > 认识论干预对学业成就的提升具有鲜明的任务层次性：它能够大幅促进高阶论证表现（$d = 1.047$）与深层概念转变（$d = 0.557$），但对公式套用与[[Rote Learning\|机械记忆]]无效；同时因自编测验敏锐捕捉到了深层变化，呈现出未对齐测验效应反常偏高的方法学特征。
 
-#### 1. 论证建构与深层概念测试对认识论提升最敏感而常规程序性任务完全脱节
+> [!sub-claim] 1. 论证建构与深层概念测试对认识论提升最敏感而常规程序性任务完全脱节
 
 > [!ref-table]- 表 8：学业成就测量类型调节变量分析
 > | 学业成就类型 | 被试量（N） | 样本量（k） | 效应量（d） | 95% 置信区间（95% CI） | Z 值 | Q 值 | df | 异质性（I²） |
@@ -315,7 +316,7 @@ journal: "Journal of Educational Psychology"
 > - **论证与概念转变** Kuhn et al. (2017) 的论证评估中，接受认识论干预的学生在陈述论点、搜集反驳理由以及协调多元观点方面表现出跨越式进步；Barger et al. (2018) 的大学化学测验中，认识论的转变帮助学生主动推翻朴素日常直觉，完成高难度的化学概念重塑。
 > - **机械程序与记忆任务** 一般常规小测验（如 Osborne et al., 2013 中考查知识点回忆的普通测验）以及程序性操作测验（如 Schiefer et al., 2017 中单纯按操作规程执行的测试，$d = 0.140$）并未因认识论提升而改善。
 
-#### 2. 未对齐测验表现反常偏高主要源于研究者自编测验对深层思维的捕捉敏感度
+> [!sub-claim] 2. 未对齐测验表现反常偏高主要源于[[Developer-Made Measures|研究者自编测验]]对深层思维的捕捉敏感度
 
 > [!ref-table]- 表 5：干预特异性水平调节分析
 > | 干预特异性水平 | 被试量（N） | 样本量（k） | 效应量（d） | 95% 置信区间（95% CI） | Z 值 | Q 值 | df |
@@ -365,10 +366,10 @@ journal: "Journal of Educational Psychology"
 
 ---
 
-> [!claim] 论证步骤四　短周期集中教学比长周期干预更易见效且具有延时内化红利
+> [!claim|step] 论证步骤四　短周期集中教学比长周期干预更易见效且具有延时内化红利
 > 实证数据推翻了教育干预历时越长越有效的经验直觉：短期与中期集中干预（$d = 0.615 \sim 0.925$）远优于全学期长周期干预（$d = 0.234, p > .05$）；进一步的交叉列联表明长期干预成效偏低很大程度上是由于选用了不敏感的期末统一考试；延时[[Pre-test and Post-test\|后测]]展现出效应翻倍（$d = 0.966$）的[[Sleeper Effect\|沉睡者效应]]（内化沉淀特征）。
 
-#### 1. 短期干预效果显著而全学期干预面临效应衰减与对照组追赶
+> [!sub-claim] 1. 短期干预效果显著而全学期干预面临效应衰减与对照组追赶
 
 > [!ref-table]- 表 12：干预实施时长调节变量分析
 > | 干预时长 | 被试量（N） | 样本量（k） | 效应量（d） | 95% 置信区间（95% CI） | Z 值 | Q 值 | df | 异质性（I²） |
@@ -387,7 +388,7 @@ journal: "Journal of Educational Psychology"
 > - **全学期干预的明显缩水** 历时一整学期的 11 项研究虽然覆盖了 2,687 名学生，但平均效应降至无[[Statistical Significance\|统计显著性]]的 $d = 0.234$；
 > - **非线性增长与[[Fade-out Effect\|效应衰退]]机制** 结合认知干预生长模型（Cameron et al., 2015; Dumas & McNeish, 2017）的解释：高强度短期干预能促使学生快速吸收核心策略并达到平台期；若干预时间拖得过长，教学浓度被稀释，对照组在日常学习中也在逐渐积累经验并迎头赶上，期末时两组净差距被明显压缩。
 
-#### 2. 长期干预表现微弱很大程度上是由于选用了无法测出深层变化的期末统考
+> [!sub-claim] 2. 长期干预表现微弱很大程度上是由于选用了无法测出深层变化的期末统考
 
 > [!ref-table]- 表 16：干预时长与学业成就测量类型的交叉列联表
 > | 干预实施时长 | 平均学分绩点（GPA） | 研究者自编测验 | 外部标准化测验 | 教师自编常规测验 | 效应量总计 |
@@ -404,7 +405,7 @@ journal: "Journal of Educational Psychology"
 > [!result-reading]- 长周期干预成效偏低的测量归因
 > 交叉数据表明，长周期教学并不一定本身低效，而是因为长期融入学校常规课程的研究，通常只能采用学校统一组织的期末统考或标准化测验来评定成绩。这些统考大多考查基础知识记忆，无法测量高阶批判思维与证据确证能力，掩盖了长期教学的真实价值。
 
-#### 3. 认识论习惯需要时间消化因而在延时测验中表现出更强的后劲（[[Sleeper Effect|沉睡者效应]]）
+> [!sub-claim] 3. 认识论习惯需要时间消化因而在延时测验中表现出更强的后劲（[[Sleeper Effect|沉睡者效应]]）
 
 > [!ref-table]- 表 13：后测实施时间点调节变量分析
 > | 后测时间节点 | 被试量（N） | 样本量（k） | 效应量（d） | 95% 置信区间（95% CI） | Z 值 | Q 值 | df | 异质性（I²） |
@@ -423,10 +424,10 @@ journal: "Journal of Educational Psychology"
 
 ---
 
-> [!claim] 论证步骤五　中小学是认识论干预的黄金窗口期且常规学科教师完全能够胜任
+> [!claim|step] 论证步骤五　中小学是认识论干预的黄金窗口期且常规学科教师完全能够胜任
 > 元分析数据打破了低龄儿童缺乏抽象认识论思维的发育偏见，中小学学生的因果获益（$d = 0.606$）达到大学生的两倍（$d = 0.309$）；常规学科在职教师和计算机软件均能有效实施干预，且准实验与真实验效果高度一致，确立了其在真实大班课堂的可行性。
 
-#### 1. 中小学生尚未固化认知定势因而干预收益是大学生的两倍
+> [!sub-claim] 1. 中小学生尚未固化认知定势因而干预收益是大学生的两倍
 
 > [!ref-table]- 表 11：教育阶段调节变量分析
 > | 教育阶段 | 被试量（N） | 样本量（k） | 效应量（d） | 95% 置信区间（95% CI） | Z 值 | Q 值 | df | 异质性（I²） |
@@ -441,7 +442,7 @@ journal: "Journal of Educational Psychology"
 > [!result-reading]- 中小学生更易获益的认知发展解释
 > 中小学生获益更明显与 [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 的元分析发现高度一致：大学生经过十余年应试训练与学科专门化，往往已形成较为固定的思维套路和认知定势，改变阻力较大；而中小学生正处于认知信念剧烈塑形的萌芽期与敏感期，思维开放度高，一旦获得合理的证据确证指导，就能迅速完成[[Ways of Knowing\|认知方式]]的升级。
 
-#### 2. 常规科任教师和计算机自适应系统实施干预同样能够取得良好效果
+> [!sub-claim] 2. 常规科任教师和计算机自适应系统实施干预同样能够取得良好效果
 
 > [!ref-table]- 表 10：干预教学实施主体调节变量分析
 > | 教学实施主体 | 被试量（N） | 样本量（k） | 效应量（d） | 95% 置信区间（95% CI） | Z 值 | Q 值 | df | 异质性（I²） |

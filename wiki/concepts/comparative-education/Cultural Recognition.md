@@ -8,7 +8,7 @@ aliases:
 summary: "朱俊成与杨锐于2025年提出的对外高等教育输出分析概念。指主权国家超越古代基于文化优越感单向灌输的文化同化预设，通过在课程设置、高阶研修与跨国办学中系统传授当代国家发展治理经验与现代化成就，谋求国际社会特别是全球南方精英对自身发展道路、制度模式与价值观念的理性理解与实质承认。"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,6 +33,7 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments: []
 related_persons:
+  - "[[Rui Yang]]"
   - "[[John King Fairbank]]"
   - "[[Suyan Pan]]"
 related_facts:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-20
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -101,12 +102,10 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　跨国高教输出通过传播当代治理经验确立文化认同而非复刻古代文化同化
+> [!concept-proposition] 命题一｜跨国高教输出通过传播当代治理经验确立文化认同而非复刻古代文化同化
+> **探讨维度　文化认同替代文化同化** 探讨当代大国在跨国高教实践中如何通过重构知识传播内容，以现代治理经验的理性认可取代传统[[Tributary System|朝贡体系]]所预设的文明从属。
 
-> [!concept-lens] 文化认同替代文化同化
-> 探讨当代大国在跨国高教实践中如何通过重构知识传播内容，以现代治理经验的理性认可取代传统[[Tributary System|朝贡体系]]所预设的文明从属。
-
-> [!claim] Zhu, K. & Yang, R.
+> [!claim] Zhu, K. & [[Rui Yang|Yang, R.]]
 > **治理经验知识分享构建实质认同** 朱俊成与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）通过中柬高等教育合作实证研究指出，来华留学教育与[[Confucius Institute|孔子学院]]教学重心已全面发生转向。教育部在《中国概况》课程中将古代与当代知识点比例调整为 1:1.2，重点讲授改革开放与现代科技治理；孔子学院与顶尖高校研讨班将移动支付、数字经济与特区建设作为核心内容。实证表明周边受援国主要通过研学中国治理模式激发对母国发展路径的深度反思，确立了以发展治理理性为纽带的文化认同机制。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1048–1050)]]
 
 ---

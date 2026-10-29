@@ -9,7 +9,7 @@ aliases:
 summary: "由维果茨基提出的心智发展与教学核心构念，指个体独立解决问题的实际水平与在他人指导或协作下的潜在水平之间的动态差距。现代教育理论已将其从儿童认知与自适应智能体脚手架，进一步拓展至基于课堂观察诊断的教师专业发展与循证辅导。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Peer-Supported Learning]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
+  - "[[Variable]]"
   - "[[Procedural Skill]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Powerful Knowledge]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ## 定义
@@ -180,7 +181,7 @@ updated: 2026-10-26
 
 ## 围绕概念形成的命题
 
-### 命题一　动态脚手架在最近发展区内的适切介入与渐进衰减是高级心理机能内化的核心动力
+> [!concept-proposition] 命题一｜动态[[Scaffolding|脚手架]]在最近发展区内的适切介入与渐进衰减是高级心理机能内化的核心动力
 
 高级心理机能的生成并非个体孤立反思的产物，而是社会文化中介工具内化的必然结果。
 
@@ -192,7 +193,7 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　基于微观观察诊断的定向辅导能够有效锚定成人在职学习的最近发展区
+> [!concept-proposition] 命题二｜基于微观观察诊断的定向辅导能够有效锚定成人在职学习的最近发展区
 
 ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年专业工作者的能力重塑。
 
@@ -295,7 +296,7 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Kraft, Blazar and Hogan (2018); Popova et al. (2018) | 结果类型 | 教师教学实践 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.49"><span class="b10"></span></span>0.49 | — | — |
 > |  |  | 学生标准化成绩 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.18"><span class="b4"></span></span>0.18 | — | — |

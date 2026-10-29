@@ -7,28 +7,50 @@ aliases:
 summary: "教育研究与社会科学中对已有研究文献开展系统检索、批判性评估与综合归纳的论证性学术实践；不仅为明确研究问题与构建理论框架提供跳板，而且在不同研究范式中承担从量化变量假设推导到质性归纳比较的差异化认识论功能。"
 type: concept
 domain: "research-methodology"
-related_count: 16
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 38
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - source/textbook
   - method/research-process
 related_concepts:
+  - "[[Document]]"
   - "[[Research Topic]]"
   - "[[Research Question]]"
-  - "[[Literature Search]]"
+  - "[[Reliability]]"
+  - "[[Variable]]"
   - "[[Abstract]]"
+  - "[[Literature Search]]"
+  - "[[Primary and Secondary Documents]]"
+  - "[[Construct]]"
+  - "[[Epistemology]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Critical Thinking]]"
+  - "[[Definition of Terms]]"
+  - "[[Concept Mapping]]"
+  - "[[Reading Strategies]]"
+  - "[[Paradigm]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Variable]]"
+  - "[[Institutional Layering]]"
+  - "[[Open-Mindedness]]"
+  - "[[National Large-Scale Assessments]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
   - "[[Literature Map]]"
+  - "[[Cluster Analysis]]"
+  - "[[Mixed Methods Research]]"
+  - "[[Quantitative Research]]"
+  - "[[Qualitative Research]]"
+  - "[[Narrative Synthesis]]"
+  - "[[Fieldwork]]"
+  - "[[Grounded Theory]]"
   - "[[Effect Size]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06]]"
@@ -39,18 +61,18 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Literature Review
-> **文献综述（Literature Review）** 是对特定[[Research Topic|研究主题]]已有学术成果开展系统检索、批判性评估与综合建构的论证性写作规程（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 25]]）。它向读者全面呈现与研究问题密切相关的既有知识图谱，将拟开展的探究深度置于更广阔的学术对话脉络之中；通过诊断已有文献的知识空白、方法瓶颈与学术争议，为明确后续[[Research Question|研究问题]]、选择合适方法与构建理论框架确立合法性基础与论证跳板（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch. 6, p. 112]]；[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch. 1, p. 18]]）。
+> **[[Document|文献]]综述（Literature Review）** 是对特定[[Research Topic|研究主题]]已有学术成果开展系统检索、批判性评估与综合建构的论证性写作规程（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p. 25]]）。它向读者全面呈现与[[Research Question|研究问题]]密切相关的既有知识图谱，将拟开展的探究深度置于更广阔的学术对话脉络之中；通过诊断已有文献的知识空白、方法瓶颈与学术争议，为明确后续[[Research Question|研究问题]]、选择合适方法与构建理论框架确立合法性基础与论证跳板（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch. 6, p. 112]]；[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch. 1, p. 18]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 文献综述是一个围绕明确论题推进的论证性文本，通过综合多方文献构建累积性论点，最终导向开展当前研究的必要性与可行性结论。
-> - **用途** 为研究确立理论框架、方法适切性与概念信度效度基础；界定核心术语与变量关系；识别学科盲区；充当进入自身研究的认知跳板。
-> - **边界** 文献综述区别于文献摘要的简单拼贴与阅读量展示；区别于定位资料的技术性文献检索，也区别于实证研究中的原始数据收集与直接结果呈现。
+> - **用途** 为研究确立理论框架、方法适切性与概念[[Reliability|信度]]效度基础；界定核心术语与[[Variable|变量]]关系；识别学科盲区；充当进入自身研究的认知跳板。
+> - **边界** 文献综述区别于[[Abstract|文献摘要]]的简单拼贴与阅读量展示；区别于定位资料的技术性[[Literature Search|文献检索]]，也区别于实证研究中的原始数据收集与直接结果呈现。
 
 > [!citation-card] 文献综述的论证性本质
 > 文献综述必须是有组织、有论证发展的文本。如果将材料以其他顺序呈现，文献综述将失去意义、连贯性、说服力、逻辑和目的。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 127–128)]]
@@ -60,17 +82,17 @@ updated: 2026-10-22
 > [!boundary]- 概念边界
 > - 不等于 [[Literature Search|文献检索]] — 检索是定位与获取学术资料的技术规程；综述是将检索材料批判性整合为严密论证的学术写作过程。
 > - 不等于 文献摘要堆砌 — 机械罗列单篇文献摘要缺乏贯通的综合视角与批判性审视，丧失了文献综述的问题意识与论述张力。
-> - 不等于 原始经验研究 — 传统文献综述基于二手文献的逻辑整合与理论建构，用于框定探究边界，不能替代针对原始经验事实的调查测量与统计分析。
+> - 不等于 原始经验研究 — 传统文献综述基于[[Primary and Secondary Documents|二手文献]]的逻辑整合与理论建构，用于框定探究边界，不能替代针对原始经验事实的调查测量与统计分析。
 
 ---
 
-> [!contrast-table] 文献综述与相关研究方法构念横向辨析
+> [!contrast-table] 文献综述与相关研究方法[[Construct|构念]]横向辨析
 > | 比较维度 | 文献综述（Literature Review） | [[Literature Search\|文献检索]] | [[Systematic Review\|系统综述]]（SLR） | [[Abstract\|文献摘要]]（Abstract） |
 > |---|---|---|---|---|
 > | **核心属性** | 论证性学术综合写作 | 信息检索与定位技术操作 | 遵循透明规程的经验性二次综合 | 单篇文献观点的浓缩概括 |
 > | **产出形式** | 结构连贯、观点聚焦的评述文本 | 检索文献清单、索引与[[Literature Map\|文献地图]] | 具备严格再现性的综述报告与分析矩阵 | 短小精练的客观观点摘要 |
-> | **认识论功能** | 确立研究跳板、界定概念并识别盲区 | 为研究提供原始文献储备与数据源 | 依据预设标准降低选择偏误并汇总证据 | 供读者快速判断文献利用价值 |
-> | **关键能力** | 批判性思维、正反证据权衡与论述综合 | 检索式设计、数据库筛选与布尔逻辑 | 独立盲审、质量评价与跨案例编码提取 | 提炼要旨、浓缩信息与准确转述 |
+> | **[[Epistemology\|认识论]]功能** | 确立研究跳板、界定概念并识别盲区 | 为研究提供原始文献储备与数据源 | 依据预设标准降低选择偏误并汇总证据 | 供读者快速判断文献利用价值 |
+> | **[[21st Century Skills and Competencies Discourse\|关键能力]]** | [[Critical Thinking\|批判性思维]]、正反证据权衡与论述综合 | 检索式设计、数据库筛选与布尔逻辑 | 独立盲审、质量评价与跨案例编码提取 | 提炼要旨、浓缩信息与准确转述 |
 > | **与当前研究关系** | 直接构成研究的问题来源与理论基础 | 服务于综述与论证的信息需求 | 可作为独立的研究成果或大尺度背景依据 | 属于阅读与文献整理的初级中间产物 |
 
 ---
@@ -78,7 +100,7 @@ updated: 2026-10-22
 > [!feature] 文献综述的核心功能与任务维度
 > - **避免重复劳动与确立原创性（Avoiding Reinventing the Wheel）** 确保拟议研究不盲目复制已有发现，精准定位自身在领域学术坐标系中的增量价值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|(Cohen et al., 2011, Ch. 6, p. 112)]]
 > - **确立学术信誉与合法性（Establishing Credibility & Legitimacy）** 展示研究者对领域前沿学术争鸣与关键议题的系统掌控，为研究方案赢得同行互信与方法合法性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 126–127)]]
-> - **澄清核心概念与理论框架（Conceptual & Theoretical Framing）** 界定关键构念的操作性定义与变量因果逻辑，为后续研究搭建稳固的概念支撑网络。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 25–28)]]
+> - **澄清核心概念与理论框架（Conceptual & Theoretical Framing）** 界定关键构念的[[Definition of Terms|操作性定义]]与变量因果逻辑，为后续研究搭建稳固的概念支撑网络。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 25–28)]]
 > - **剖析知识盲区与提供研究跳板（Identifying Gaps & Providing Springboards）** 系统检视既有文献在理论解释、抽样代表性或分析工具上的局限，为提出新问题提供充足理据。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1, p. 18)]]
 > - **批判综合正反论证（Critical Synthesis of Counter-Arguments）** 梳理对立学派的争鸣要点，并置呈现支持与反对的经验证据，保障文献评述的客观公正与思想深度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, p. 127)]]
 
@@ -92,10 +114,10 @@ updated: 2026-10-22
 > 2. **规范撰写的五部分结构**
 >    - **引言（Introduction）** 界定研究主题的性质、探讨背景与综述主线；
 >    - **主体（Main Body）** 围绕核心构念或相似研究发现分小节综合讨论，详述关键研究，略述次要文献；
->    - **小结（Summary）** 梳理已有知识图谱，通过概念图或对比表格呈现已有成果；
+>    - **小结（Summary）** 梳理已有知识图谱，通过[[Concept Mapping|概念图]]或对比表格呈现已有成果；
 >    - **结论（Conclusion）** 指出领域理论线索与未决问题，确立后续探究切入点；
 >    - **参考文献（References）** 规范列明引证文献的完整学术索引。
-> 3. **综合运用的三种阅读策略**
+> 3. **综合运用的三种[[Reading Strategies|阅读策略]]**
 >    - **浏览（Skimming）** 快速捕捉要点，判断文献与研究主题的相关度；
 >    - **泛读（General Reading）** 掌握基本论点与研究结论，把握学科动态与焦点；
 >    - **精读与批判性阅读（Critical Reading）** 深入分析实质内容、研究设计与逻辑严密性，识别潜在漏洞与争议。
@@ -136,33 +158,27 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　文献综述的本质是累积性论证而非描述性摘要堆砌
-
-> [!concept-lens] 论证导向与文本认识论维度
-> 审视文献综述的文体特征与学术本质，探讨文献综合如何通过严密结构构建新知识的合法性。
+> [!concept-proposition] 命题一｜[[Document|文献]]综述的本质是累积性论证而非描述性摘要堆砌
+> **探讨维度　论证导向与文本[[Epistemology|认识论]]维度** 审视文献综述的文体特征与学术本质，探讨文献综合如何通过严密结构构建新知识的合法性。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011)]]
 > **论证结构对文献综述学术价值的决定性作用** 文献综述超越了展示阅读广度的摘要集合，是具备严密组织与论证推进的连贯文本。研究者通过设定论证方向、呈现支持性材料、并置反对证据并得出批判性结论这四步逻辑链条，使分散的孤立研究汇聚为针对特定学术问题的有机对话。如果颠倒或脱离这种论证秩序，文献综述便会退化为缺乏说服力与学术目的的资料清单。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 127–128)]]
 
 > [!claim] [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]]
-> **结构化归纳与问题导向批评原则** 文献综述的核心使命在于依据确定的逻辑框架整理已有成果，剖析既有研究在理论与实证上的不足，明确研究发展方向并提出改进建议。综述写作必须以相似研究发现为基本单元进行聚类分析，避免简单罗列单篇文献结论，通过研究者的批判性评述揭示领域内的矛盾与薄弱环节。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1, pp. 18–20)]]
+> **结构化归纳与问题导向批评原则** 文献综述的核心使命在于依据确定的逻辑框架整理已有成果，剖析既有研究在理论与实证上的不足，明确研究发展方向并提出改进建议。综述写作必须以相似研究发现为基本单元进行[[Cluster Analysis|聚类分析]]，避免简单罗列单篇文献结论，通过研究者的批判性评述揭示领域内的矛盾与薄弱环节。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1, pp. 18–20)]]
 
 ---
 
-### 命题二　文献综述在不同研究范式中承担差异化的认识论与研究设计功能
-
-> [!concept-lens] 范式适应性与认识论角色分化维度
-> 探讨量化、质性与混合方法研究中，文献综述在研究时序、结构布局与假设推导上的功能分化。
+> [!concept-proposition] 命题二｜文献综述在不同[[Paradigm|研究范式]]中承担差异化的认识论与研究设计功能
+> **探讨维度　范式适应性与认识论角色分化维度** 探讨量化、质性与[[Mixed Methods Research|混合方法研究]]中，文献综述在研究时序、结构布局与假设推导上的功能分化。
 
 > [!claim] [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]
-> **三大研究范式中文献角色的差异化配置** 文献综述在不同研究路径中承担截然不同的认识论功能：在量化研究中，文献以演绎方式运作，通常作为独立章节置于研究开头，系统围绕[[Independent Variable|自变量]]、[[Dependent Variable|因变量]]及其关联展开推导，为提出经验假设与理论模型提供明确导向；在质性研究中，文献主要发挥归纳对照功能，既可置于引言作为初步探索框定，也可置于独立章节，更常置于文末作为与微观田野发现深入比较讨论的参照系，避免先验概念束缚对本土情境的开放感知；在混合方法研究中，文献的组织方式则取决于量化与质性成分的时序权重，呈现动态匹配形态。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 25–30)]]
+> **三大研究范式中文献角色的差异化配置** 文献综述在不同研究路径中承担截然不同的认识论功能：在[[Quantitative Research|量化研究]]中，文献以演绎方式运作，通常作为独立章节置于研究开头，系统围绕[[Independent Variable|自变量]]、[[Dependent Variable|因变量]]及其关联展开推导，为提出经验假设与理论模型提供明确导向；在[[Qualitative Research|质性研究]]中，文献主要发挥归纳对照功能，既可置于引言作为初步探索框定，也可置于独立章节，更常置于文末作为与微观田野发现深入比较讨论的参照系，避免先验概念束缚对本土情境的开放感知；在混合方法研究中，文献的组织方式则取决于量化与质性成分的时序权重，呈现动态匹配形态。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 25–30)]]
 
 ---
 
-### 命题三　标准化系统文献综述规程能够有效抑制选择偏误并提升大尺度政策综合的信度
-
-> [!concept-lens] 方法学严密性与偏误防御机制维度
-> 考察文献综述由传统叙事性归纳向透明、可重复之系统综述规程的演进机制与治理研究应用。
+> [!concept-proposition] 命题三｜标准化系统文献综述规程能够有效抑制选择偏误并提升大尺度政策综合的[[Reliability|信度]]
+> **探讨维度　方法学严密性与偏误防御机制维度** 考察文献综述由传统叙事性归纳向透明、可重复之[[Systematic Review|系统综述]]规程的演进机制与治理研究应用。
 
 > [!claim] [[Argument_Verger_2019_Discourse|Verger et al. (2019)]]; Petticrew and Roberts (2006)
 > **透明规范筛选规程对选择偏倚的有效防御** 传统叙事性文献综述常因缺乏明确抽样原则而面临主观樱桃采摘与选择性偏倚的批评。引入系统文献综述（SLR）规程——包括设定预先注册的检索语法、覆盖 Scopus 等核心跨国索引数据库、执行严格的入选与排除标准、开展双人背靠背独立初筛与全篇复核，并依托国别提取表进行系统编码——能够有效消除研究者的主观认知偏好，赋予跨国大规模文献综合以高度透明性、可再现性与经验信度。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 252, 269–270)]]
@@ -181,8 +197,8 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **1960s–1970s — 传统叙事性综述的经验化确立** 伴随现代社会科学研究的建制化发展，文献综述成为学术出版与学位研究的前置基石，主要以叙事性手法梳理学术源流与思想谱系。
 > - **1980s–1990s — 循证医学驱动与系统综述（SLR）范式兴起** 循证思潮批判传统文献综述存在主观筛选偏误，正式引入包含明确检索式、纳入排除标准与质量评估的系统文献综述方法，并逐步扩展至教育学与社会政策领域。
-> - **2000s — 教科书对综述论证本质与范式角色的系统化界定** Cohen et al. (2000/2011) 系统提出文献综述的七项目的与四步论证进路；[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 明确将文献区分为量化中的变量演绎指导者、质性中的文末对照参照系以及混合设计中的动态平衡要素。
-> - **2010s 至今 — 复杂治理领域的大尺度系统文献综述应用** 系统文献综述突破纯医学与实验局限，广泛应用于宏观教育治理与制度变迁研究。例如 [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] 基于 158 篇实证文献开展系统综述，揭示全球教育问责工具在不同行政传统下的制度分层与轨迹分化，展现了规范综述规程在驾驭复杂跨国质性材料中的解释效能。
+> - **2000s — 教科书对综述论证本质与范式角色的系统化界定** Cohen et al. (2000/2011) 系统提出文献综述的七项目的与四步论证进路；[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 明确将文献区分为量化中的[[Variable|变量]]演绎指导者、质性中的文末对照参照系以及混合设计中的动态平衡要素。
+> - **2010s 至今 — 复杂治理领域的大尺度系统文献综述应用** 系统文献综述突破纯医学与实验局限，广泛应用于宏观教育治理与制度变迁研究。例如 [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] 基于 158 篇实证文献开展系统综述，揭示全球教育问责工具在不同行政传统下的[[Institutional Layering|制度分层]]与轨迹分化，展现了规范综述规程在驾驭复杂跨国质性材料中的解释效能。
 
 ---
 
@@ -191,19 +207,19 @@ updated: 2026-10-22
 > > [!axis] 传统叙事性综述的主观洞见 vs 系统文献综述的程序客观性
 > > 围绕文献综述应当倚重视野开阔的理论洞察，还是遵循标准化的机械检索筛选流程展开方法学争论。
 > >
-> > - **理论洞见与叙事综合立场** 强调卓越的学者需要凭借深厚的学科积淀与批判性品味，在异质文献间捕捉隐秘思想脉络，认为将学术阅读降格为关键词布尔搜索与流程图打卡容易抹杀思想的灵动性与理论厚度。
+> > - **理论洞见与[[Narrative Synthesis|叙事综合]]立场** 强调卓越的学者需要凭借深厚的学科积淀与批判性品味，在异质文献间捕捉隐秘思想脉络，认为将学术阅读降格为关键词布尔搜索与流程图打卡容易抹杀思想的灵动性与理论厚度。
 > > - **程序透明与偏误控制立场** 指出传统叙事综述容易沦为证实预设立场的樱桃采摘工具，唯有公布明确的检索式、入选标准与排除理由，方能经受科学共同体的可复现性检验（[[Argument_Verger_2019_Discourse|Verger et al., 2019]]）。
 >
-> > [!axis] 质性前置理论框架束缚 vs 归纳探究开放性
-> > 围绕在开展质性调查与田野工作之前进行详尽的文献综述，是否会构成对受访者原生生活经验的概念遮蔽。
+> > [!axis] 质性前置理论框架束缚 vs 归纳探究[[Open-Mindedness|开放性]]
+> > 围绕在开展质性调查与[[Fieldwork|田野工作]]之前进行详尽的文献综述，是否会构成对受访者原生生活经验的概念遮蔽。
 > >
-> > - **经典扎根理论推迟综述立场** 主张研究者应推迟大规模文献综述，尽可能以理论空白的心智走进田野，防止既有学术概念先入为主地污染微观编码。
+> > - **经典[[Grounded Theory|扎根理论]]推迟综述立场** 主张研究者应推迟大规模文献综述，尽可能以理论空白的心智走进田野，防止既有学术概念先入为主地污染微观编码。
 > > - **审慎前置与文末对照立场** [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 指出完全无知的心智并不存在，前置综述有助于识别真正的问题边界；关键在于保持对本土情境的开放性，并将主要文献作为在文末与田野发现进行深度对照对话的认识论参照系。
 
 > [!warning] 适用局限与撰写误区
-> - **警惕摘要堆砌流水账** 避免将文献综述写成“甲学者指出……乙学者认为……”的离散卡片拼接，必须始终以当前研究问题为主线进行归纳综合。
+> - **警惕摘要堆砌流水账** 避免将文献综述写成“甲学者指出……乙学者认为……”的离散卡片拼接，必须始终以当前[[Research Question|研究问题]]为主线进行归纳综合。
 > - **注意综述规模的可管理性** 课题范围如果过于宏大散漫，极易导致检索文献量激增并在可用时间内无法妥善消化，削弱研究的可操作性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011]]）。
-> - **坚守一手初级文献核对** 尽量直接引用一手原始报告，审慎对待二手文献转述，杜绝未读原著即断章取义复制结论。
+> - **坚守一手[[Primary and Secondary Documents|初级文献]]核对** 尽量直接引用一手原始报告，审慎对待二手文献转述，杜绝未读原著即断章取义复制结论。
 
 ---
 
@@ -214,7 +230,7 @@ updated: 2026-10-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 252, 269–270)]] | 全球 158 篇涵盖经合组织与拉美中等收入国家的教育治理改革文献 | 遵循系统[[Literature Review\|文献综述]]（SLR）规程的跨国质性综合 | 针对国家大规模评估与测验问责工具的文献纳入量与编码表覆盖度 | 从 Scopus 核心库结合专家知情人推荐检索，经双人背靠背独立初筛与全篇复核，严格确立 158 篇同行评议入选文献 | 质性系统综述与国别分析表提取 | 证实规范化 SLR 规程可有效处理宏观制度演进与政治经济学文献，对非英语索引文献覆盖受限 |
+> | [[Argument_Verger_2019_Discourse\|Verger et al. (2019, pp. 252, 269–270)]] | 全球 158 篇涵盖[[OECD\|经合组织]]与拉美中等收入国家的教育治理改革文献 | 遵循系统[[Literature Review\|文献综述]]（SLR）规程的跨国质性综合 | 针对[[National Large-Scale Assessments\|国家大规模评估]]与测验问责工具的文献纳入量与编码表覆盖度 | 从 Scopus 核心库结合专家知情人推荐检索，经双人背靠背独立初筛与全篇复核，严格确立 158 篇同行评议入选文献 | 质性系统综述与国别分析表提取 | 证实规范化 SLR 规程可有效处理宏观制度演进与政治经济学文献，对非英语索引文献覆盖受限 |
 
 ---
 

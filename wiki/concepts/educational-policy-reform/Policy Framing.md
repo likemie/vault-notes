@@ -9,7 +9,7 @@ aliases:
 summary: "将零散或偶发的政策信息组织为结构化问题并隐含相应解法的组织原则与意义建构过程，涵盖诊断性、处方性与激励性三层维度。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Gatekeepers]]"
   - "[[Discourse]]"
+  - "[[Problem Finding]]"
   - "[[Epistemology]]"
   - "[[International Branch Campus]]"
   - "[[Community of Shared Future for Mankind]]"
@@ -31,7 +32,7 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[People-to-People Connectivity]]"
   - "[[Research Universities]]"
-  - "[[Problem Finding]]"
+  - "[[Educational Diplomacy]]"
   - "[[Explanatory Critique]]"
   - "[[Analytical Stance]]"
 related_theories:
@@ -51,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -105,20 +106,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　政策框架化通过问题界定与解法绑定预先限定政策行动的合法性空间
-
-> [!concept-lens] 认知塑造与正当性生产
-> 政策框架通过选择性地聚焦特定困境并将特定方案自然化为唯一解药，在[[Epistemology|认识论]]层面预先划定了行动合法性的边界。
+> [!concept-proposition] 命题一｜政策框架化通过[[Problem Finding|问题界定]]与解法绑定预先限定政策行动的合法性空间
+> **探讨维度　认知塑造与正当性生产** 政策框架通过选择性地聚焦特定困境并将特定方案自然化为唯一解药，在[[Epistemology|认识论]]层面预先划定了行动合法性的边界。
 
 > [!claim] [[Argument_Woo_2023_HEP|Woo (2023)]]
 > **国家战略导向的问题解法绑定** 在中国推进[[Belt and Road Education Action Plan|“一带一路”教育行动]]的政策建构中，诊断性框架将沿线国家教育协同不足与技术人才匮乏界定为基础设施建设推进的阻碍，处方性框架随即顺理成章地将中国高等教育[[International Branch Campus|境外办学]]、留学生奖学金供给、联合科研平台与应用型技术培训确立为不可或缺的解方，激励性框架则以“互利共赢”与“[[Community of Shared Future for Mankind|命运共同体]]”赋予行动崇高道义。这一框架化过程将教育系统与[[Geopolitics|地缘政治]]经济战略紧密衔接，使教育资源的跨国配置获得了充分的政治正当性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 683–687)]]
 
 ---
 
-### 命题二　激励性框架的道义升华容易掩盖深层地缘利益与不对称依赖关系
-
-> [!concept-lens] 意识形态遮蔽与工具性从属
-> [[Grand Theory|宏大叙事]]层面的崇高道德框架在凝聚跨国共识的同时，可能在[[Discourse|话语]]层面上淡化施展国经济产能输出与[[Hard Power|硬实力]]竞争的实质驱动。
+> [!concept-proposition] 命题二｜激励性框架的道义升华容易掩盖深层地缘利益与不对称依赖关系
+> **探讨维度　意识形态遮蔽与工具性从属** [[Grand Theory|宏大叙事]]层面的崇高道德框架在凝聚跨国共识的同时，可能在[[Discourse|话语]]层面上淡化施展国经济产能输出与[[Hard Power|硬实力]]竞争的实质驱动。
 
 > [!claim] [[Argument_Woo_2023_HEP|Woo (2023)]]
 > **道义话语对工具依附的符号掩映** 官方政策通过激励性框架高调宣示文明互鉴、[[People-to-People Connectivity|民心相通]]与区域共同繁荣，将跨国教育合作塑造为超越地缘博弈的纯粹共赢事业。然而，互文性与话语实践解构表明，该教育框架深度从属于国家对外经贸与基础设施出海的总体布局，[[Research Universities|研究型大学]]以前沿科技攻坚服务大国竞争，高等职业教育以技术实训对接海外中资工程，呈现出鲜明的战略工具性。当伙伴国感知到教育交流高度依附于经济利益与单向资助时，抽象的道德动员将面临去信任化与政策抵制的风险。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687, 692–694)]]
@@ -129,7 +126,7 @@ updated: 2026-10-22
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **命题一：问题解法合法性绑定** | 诊断与处方框架协同将特定国家方案自然化为唯一合法出路 | 宏观战略规划与跨境公共政策制定 | [[Argument_Woo_2023_HEP\|Woo (2023)]] |
-> | **命题二：道义框架符号掩映** | 崇高价值动员在建构共识的同时可能淡化实质地缘依附关系 | 跨国援助合作与教育外交政策分析 | [[Argument_Woo_2023_HEP\|Woo (2023)]] |
+> | **命题二：道义框架符号掩映** | 崇高价值动员在建构共识的同时可能淡化实质地缘依附关系 | 跨国援助合作与[[Educational Diplomacy\|教育外交]]政策分析 | [[Argument_Woo_2023_HEP\|Woo (2023)]] |
 
 ---
 

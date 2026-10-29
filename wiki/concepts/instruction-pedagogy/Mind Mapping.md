@@ -10,7 +10,7 @@ aliases:
 summary: "围绕单一中心概念向外辐射多级分支，借助色彩、关键词与自由联想规则外显化非线性思维过程的低认知开销空间视觉组织工具。在创造力干预与高阶思维培养中，它以极简拓扑结构最大化降低认知负荷，是激发发散思维与概念远距组合的核心教学支架。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Heterogeneity]]"
   - "[[Cognitive Shifting]]"
+  - "[[Meta-Representational Competence]]"
   - "[[Dependent Variable]]"
 related_theories:
   - "[[Dual Coding Theory]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -133,40 +134,32 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　低心智操作门槛使思维导图在高阶思维图形组织器干预中产生最强促学效能
-
-> [!concept-lens] 认知负荷卸载与结构开销权衡
-> 工具本身的组织规则越极简，学习者被外在操作规则侵占的心智资源越少，越能全力投入高阶认知加工。
+> [!concept-proposition] 命题一｜低心智操作门槛使思维导图在[[Higher-Order Thinking Skills|高阶思维]][[Graphic Organizer|图形组织器]]干预中产生最强促学效能
+> **探讨维度　认知负荷卸载与结构开销权衡** 工具本身的组织规则越极简，学习者被外在操作规则侵占的心智资源越少，越能全力投入高阶认知加工。
 
 > [!claim] Lei, Ding & Chiu; Buzan
 > **思维导图形态效能优势命题** 在[[Graphic Organizer\|图形组织器]]对[[Higher-Order Thinking Skills\|高阶思维]]促学效应的[[Meta-analysis\|元分析]]中，思维导图表现出高达 $g = 1.041$ 的强效促进作用，显著优于[[Argument Mapping\|论证图]]（$g = 0.798, W = 11.23, p < .001$）与概念图（$g = 0.548, W = 28.56, p < .001$）。这一效能级差的核心机理在于：思维导图采用单一中心发散结构与自由联想规则，不仅外在认知负荷极低，而且契合大脑的放射联想机制，从而以最低的认知门槛最大化释放了高阶思维潜能。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 9–11)]]
 
 ---
 
-### 命题二　思维导图对发散思维的赋能显著超越聚合逻辑推导
-
-> [!concept-lens] 空间辐射拓扑与发散生成契合
-> 放射状空间拓扑通过全景式视觉激活加速长时记忆的远距离语义检索，为发散创新提供了最具生产力的外在支架。
+> [!concept-proposition] 命题二｜思维导图对[[Divergent Thinking|发散思维]]的赋能显著超越聚合逻辑推导
+> **探讨维度　空间辐射拓扑与发散生成契合** 放射状空间拓扑通过全景式视觉激活加速长时记忆的远距离语义检索，为发散创新提供了最具生产力的外在支架。
 
 > [!claim] Lei, Ding & Chiu
 > **思维导图对[[Divergent Thinking\|发散思维]]的优先激活机制** 思维导图的空间分支布局天然鼓励多角度、多维度的观念拓展，因而对流畅性、灵活性与独创性等发散思维指标具有极强的放大效应（$g = 1.167$）；相比之下，受确定性规则与形式逻辑严密约束的[[Convergent Thinking\|聚合思维]]从自由导图中获取的增益相对稳健（$g = 0.680, Q_b = 7.07, p < .01$）。这确立了思维导图作为发散探究的首选教学工具定位。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4, 10)]]
 
 ---
 
-### 命题三　引入随机概念组合技术能有效克服传统导图的临近联想固着并显著提升独创性
-
-> [!concept-lens] 概念组合与打破思维定势
-> 传统导图容易受习惯性语义网络限制；嵌入随机刺激的复合导图能够强行激活非典型概念联结。
+> [!concept-proposition] 命题三｜引入随机概念组合技术能有效克服传统导图的临近联想固着并显著提升独创性
+> **探讨维度　概念组合与打破思维定势** 传统导图容易受习惯性语义网络限制；嵌入随机刺激的复合导图能够强行激活非典型概念联结。
 
 > [!claim] Malycha & Maier; Guo et al.
 > **随机图技术（Random-Map）增益命题** [[Experimental Research\|实验研究]]（$EG = 80 / CG = 80$）表明，传统思维导图虽能大幅提高观念流畅性，但在独创性（Originality）维度常陷入语义邻近词的自动化联想。通过将思维导图与概念组合技术相结合构建“随机图”（Random-Map Technique）——在导图绘制中强行注入不相关的随机刺激词汇并要求建立意义连接，受试者在[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（[[Torrance Tests of Creative Thinking\|TTCT]]）中的独创性表现显著超越传统导图组与对照组（$p < .01$）。这证明思维导图与启发式发散技术的结合能够有效瓦解心理固着。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]; Malycha and Maier (2017)
 
 ---
 
-### 命题四　独立个体绘制在策略内化与深层反思上显著优于松散的小组协作绘制
-
-> [!concept-lens] 导图绘制的认知参与深度与社会惰化防范
-> 探讨个人沉浸式梳理与团队合作讨论在思维导图应用中的认知生态差异。
+> [!concept-proposition] 命题四｜独立个体绘制在策略内化与深层反思上显著优于松散的小组协作绘制
+> **探讨维度　导图绘制的认知参与深度与社会惰化防范** 探讨个人沉浸式梳理与团队合作讨论在思维导图应用中的认知生态差异。
 
 > [!claim] Guo et al.; Lei, Ding & Chiu
 > **个体独立构图的认知内化优势** [[Three-Level Meta-Analysis\|多层元分析]]表明，[[Creativity\|创造力]]与高阶思维训练中独立练习（$g = 0.682$）的效果显著优于小组协作（$g = 0.567$）。在思维导图的具体应用中，独立绘制要求个体独自经历面对空白、调动语义检索、形成分支归类并进行[[Metacognition\|元认知]]自评的全过程，有效避免了小组协作中常见的“主绘者包办、其余成员搭便车”现象与同伴评价顾虑，从而保障了思维策略的高质量内化。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 6–7, 10)]]
@@ -237,7 +230,7 @@ updated: 2026-10-25
 >
 > - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 思维维度** 证实思维导图对发散思维的赋能显著超越对聚合逻辑推论的促进
 > - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 组织器形态** 确立组织器结构开销越低对高阶思维生成的净增益越大
-> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 学习阶段** 中学生具备形式运算与元表征能力且能抵抗诱人细节，获益最显著
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 学习阶段** 中学生具备形式运算与[[Meta-Representational Competence|元表征能力]]且能抵抗诱人细节，获益最显著
 
 > [!ma-table]- [[Meta-meta-analysis|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>

@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -92,10 +92,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　产物范式通过技术控制切断了探究过程与学习者的主体能动性
-
-> [!concept-lens] [[Technical Rationality\|技术理性]]批判维度
-> 探讨产物模式如何将教学异化为流水线生产，压制民主审议与批判思维。
+> [!concept-proposition] 命题一｜产物[[Paradigm|范式]]通过技术控制切断了探究过程与学习者的主体能动性
+> **探讨维度　[[Technical Rationality\|技术理性]]批判维度** 探讨产物模式如何将教学异化为流水线生产，压制民主审议与批判思维。
 
 > [!claim] Grundy, S.
 > **产物[[Paradigm\|范式]]控制本质** 格伦迪与达维什论证指出，产物范式建立在技术理性之上，将知识视为可剥离的静态存货，压制了师生的自由探究与主体能动性。[[Argument_Darwish_2009_Queens\|(Grundy, 1987, p. 28; Darwish, 2009, pp. 64–65)]]

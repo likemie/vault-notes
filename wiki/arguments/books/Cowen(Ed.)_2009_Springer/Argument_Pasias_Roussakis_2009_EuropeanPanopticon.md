@@ -7,10 +7,10 @@ title: "Argument_Pasias_Roussakis_2009_EuropeanPanopticon"
 argument_key: "Argument_Pasias_Roussakis_2009_EuropeanPanopticon"
 argument_display_title: "Towards the European panopticon: EU discourses and policies in education and training 1992–2007"
 argument_kind: "book-chapter"
-argument_related_count: 41
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#fef3c7"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 book_title: "International Handbook of Comparative Education"
 publication_place: "Dordrecht"
 publisher: "Springer"
@@ -40,17 +40,20 @@ related_concepts:
   - "[[Europe of Knowledge]]"
   - "[[Discourse]]"
   - "[[Open Method of Coordination]]"
+  - "[[Technologies of Surveillance]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Regimes of Truth]]"
   - "[[Competitiveness]]"
   - "[[Lifelong Learning]]"
-  - "[[Grandes Ecoles]]"
+  - "[[Aggressive Intergovernmentalism]]"
+  - "[[Document]]"
+  - "[[Politics of Knowledge]]"
   - "[[European Education Space]]"
   - "[[Employability]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Further Education]]"
   - "[[Geopolitics]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Open-Mindedness]]"
   - "[[Paradigm]]"
   - "[[Academic Attrition]]"
   - "[[Peer Pressure]]"
@@ -68,38 +71,44 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Benedict Anderson]]"
-  - "[[Socrates]]"
 related_facts:
   - "[[EU]]"
   - "[[European Commission]]"
   - "[[The Green Book]]"
+  - "[[Growth, Competitiveness, Employment]]"
+  - "[[Teaching and Learning - Towards the Learning Society]]"
+  - "[[Education and Training 2010]]"
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[OECD]]"
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
+  - "[[European Employment Strategy]]"
+  - "[[Socrates Programme]]"
+  - "[[Leonardo da Vinci Programme]]"
   - "[[TEMPUS]]"
   - "[[European Qualifications Framework]]"
   - "[[Lisbon Strategy]]"
-  - "[[CREATES Project]]"
+  - "[[Copenhagen Process]]"
+  - "[[Bologna Process]]"
 related_arguments: []
 sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch30_Pasias_Roussakis_2009|Ch30_Pasias_Roussakis_2009]]"
 status: draft
 created: 2026-10-27
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 ---
 
 > [!question]
-> 在《马斯特里赫特条约》确立的[[Subsidiarity Principle|辅助性原则]]严格禁止推行统一教育立法的宪制约束下，[[EU|欧洲联盟]]（European Union, EU）如何在 1992 至 2007 年间重构其教育与培训政策？超国家机构如何利用 [[Europe of Knowledge|知识欧洲]] 宏观[[Discourse|话语]]体系将教育深度绑定于全球经济竞争与资本积累，并通过[[Open Method of Coordination|开放协调法]]（Open Method of Coordination, OMC）、量化基准指标与多重监视技术，建立起覆盖欧洲教育领域的超国家[[Panopticism|全景敞视]]规训机制？（pp. 479–481）
+> 在《马斯特里赫特条约》确立的[[Subsidiarity Principle|辅助性原则]]严格禁止推行统一教育立法的宪制约束下，[[EU|欧洲联盟]]（European Union, EU）如何在 1992 至 2007 年间重构其教育与培训政策？超国家机构如何利用 [[Europe of Knowledge|知识欧洲]] 宏观[[Discourse|话语]]体系将教育深度绑定于全球经济竞争与资本积累，并通过[[Open Method of Coordination|开放协调法]]（Open Method of Coordination, OMC）、量化基准指标与多重[[Technologies of Surveillance|监视技术]]，建立起覆盖欧洲教育领域的超国家[[Panopticism|全景敞视]]规训机制？（pp. 479–481）
 
 > [!claim] 核心主张
 > 自 1992 年《马斯特里赫特条约》以来，欧盟教育治理经历了政策确立、就业政策渗透到新千年开放协调的三阶段演化；[[European Commission|欧盟委员会]]通过动员全球化与科技竞争危机修辞，构筑了吸纳新自由主义信条的 [[Europe of Knowledge|知识欧洲]] 市场化话语，将知识降格为易耗且可替换的商业产品；在新千年进程中，各成员国放弃死守教育主权的消极防守，主动通过开放协调法参与设定共同指标并接受考核，欧盟依托凝视、绩效与治理等监视技术，最终在各国自愿合规的表象下建立起事实上的超国家欧洲教育全景敞视体系。（pp. 480–481, 486–487, 490–493）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 1992 年《马斯特里赫特条约》至 2007 年间欧盟官方发布的政策白皮书、咨询绿皮书、欧洲理事会主席国结论、理事会工作规划与教育行动计划。
+> - **对象** 1992 年《马斯特里赫特条约》至 2007 年间欧盟官方发布的政策白皮书、咨询[[The Green Book|绿皮书]]、欧洲理事会主席国结论、理事会工作规划与教育行动计划。
 > - **张力** 条约对[[State Educational Sovereignty|国家教育主权]]的宪制保护（辅助性原则与不协调原则） vs 超国家机构通过软法治理、指标监控与经济话语对成员国政策规划实施的实质性全景规训。
 > - **贡献** 打破了将欧盟教育一体化视为平权自愿合作的制度主义叙事，引入福柯权力-知识理论与全景敞视[[Analytic Framework|分析框架]]，系统揭示了软治理背后由非民选技术专家主导的监视与控制机制。
 
@@ -111,7 +120,7 @@ updated: 2026-10-28
 > | **全景敞视主义与监视技术**<br>[[Panopticism]] / [[Technologies of Surveillance\|监视技术]] | 借用米歇尔·福柯（Michel Foucault）基于边沁环形监狱构想提炼的微观权力理论，阐明欧盟如何通过数据透明化、指标强光照射与持续同侪评审，构建中央视线隐秘而外周完全暴露的监视网络，迫使成员国主动进行自我审查与政策对标。（pp. 480–481, 492–493） |
 > | **真理体制与治理术**<br>[[Governmentality]] / [[Regimes of Truth\|真理体制]] | 揭示质量、[[Competitiveness\|竞争力]]、可就业性与[[Lifelong Learning\|终身学习]]等政策术语作为欧盟确立的规范知识系统，通过将特定经济学假定自然化为客观常识，促成超国家机构对国家教育治理体系的远距离掌舵。（pp. 480–481, 485, 493） |
 > | **知识欧洲话语**<br>[[Europe of Knowledge]] | 作为贯穿欧盟宏观政策的话语矩阵与权力-知识图式，界定知识、公民与就业的三维关联，推动教育从公共福利要素转型为全球竞争中的生产性无形资产。（pp. 480, 486–487） |
-> | **辅助性原则与政府间主义演化**<br>[[Subsidiarity Principle]] / [[Aggressive Intergovernmentalism\|进攻性政府间主义]] | 勾勒欧盟教育治理的宪制边界及其突破路径；展现治理逻辑如何从 1990 年代守卫国家主权的防御型政府间主义，转向 2000 年后成员国主动交出监控权的[[Aggressive Intergovernmentalism|进攻性政府间主义]]与新功能主义外溢。（pp. 481–482, 490–491） |
+> | **辅助性原则与政府间主义演化**<br>[[Subsidiarity Principle]] / [[Aggressive Intergovernmentalism\|进攻性政府间主义]] | 勾勒欧盟教育治理的宪制边界及其突破路径；展现治理逻辑如何从 1990 年代守卫国家主权的防御型政府间主义，转向 2000 年后成员国主动交出监控权的[[Aggressive Intergovernmentalism\|进攻性政府间主义]]与新功能主义外溢。（pp. 481–482, 490–491） |
 
 > [!warrant]- 理论如何支撑论证
 > 福柯的[[Regimes of Truth|真理体制]]、[[Governmentality|治理术]]与[[Panopticism|全景敞视]]理论紧密衔接于欧盟教育政策演化历程：真理体制阐明欧盟如何通过白皮书与战略决议确立政策话语的正当性边界；治理术揭示超国家机构如何在缺乏行政强制手段的情境下，依托软性引导促使各成员国自我约束；全景敞视理论则为剖析开放协调法（OMC）的微观运作（指标公布、基准比对、最佳实践排位）提供了解释框架，揭示软法协调实质上构建了隐蔽高效的跨国规训监控网络。（pp. 480–481, 486–487, 492–493）
@@ -124,12 +133,12 @@ updated: 2026-10-28
 > | **批判性政策话语分析**<br>[[Critical Discourse Analysis]] | 依托批判性政策[[Discourse Analysis\|话语分析]]（Critical Discourse Analysis, CDA），系统梳理 1992 至 2007 年间欧盟出台的标志性官方文献（含 1993 与 1995 白皮书、《2000 年议程》、《迈向知识欧洲》、里斯本峰会结论与《教育与培训 2010》工作规划），解构词汇表、核心概念隐喻及其与新自由主义经济意识形态的共生关联。（pp. 479–481, 484–486, 490–492） |
 > | **历史制度谱系考证**<br>历史制度分析 | 按制度权能、组织架构变迁与治理工具演变，将欧盟十五年教育历程细分为政策巩固期（1993–1996）、就业与结构政策笼罩期（1997–1999）及新千年开放协调期（2000–2007）三大阶段展开纵向对比。（pp. 481–482, 484–485, 487–490） |
 
-> [!sample-panel]- 样本与文献快照
+> [!sample-panel]- 样本与[[Document|文献]]快照
 > | 文本类型 | 纳入核心文本与出处 |
 > |---|---|
 > | **基础条约与理事会结论** | 1992 年《欧洲联盟条约》（Treaty on European Union, TEU，通称《马斯特里赫特条约》）；1997 年卢森堡欧洲理事会主席国结论；2000 年里斯本欧洲理事会主席国结论；2002 年巴塞罗那欧洲理事会结论。 |
-> | **欧盟委员会白皮书与绿皮书** | 1993 年白皮书[[Growth, Competitiveness, Employment|《增长、竞争力、就业》]]；1995 年白皮书[[Teaching and Learning - Towards the Learning Society|《教与学：迈向学习型社会》]]；1993 年绿皮书《教育中的欧洲维度》；1995 年绿皮书《创新》；1996 年绿皮书《信息社会中的生活与工作》；1996 年绿皮书《跨国流动障碍》。 |
-> | **战略与规划文件** | 1997 年《2000 年议程》（Agenda 2000）；1997 年《迈向知识欧洲》；2001 年《让终身学习欧洲区成为现实》；2002 与 2003 年[[Education and Training 2010|《教育与培训 2010》]]。 |
+> | **欧盟委员会白皮书与绿皮书** | 1993 年白皮书[[Growth, Competitiveness, Employment\|《增长、竞争力、就业》]]；1995 年白皮书[[Teaching and Learning - Towards the Learning Society\|《教与学：迈向学习型社会》]]；1993 年绿皮书《教育中的欧洲维度》；1995 年绿皮书《创新》；1996 年绿皮书《信息社会中的生活与工作》；1996 年绿皮书《跨国流动障碍》。 |
+> | **战略与规划文件** | 1997 年《2000 年议程》（Agenda 2000）；1997 年《迈向知识欧洲》；2001 年《让终身学习欧洲区成为现实》；2002 与 2003 年[[Education and Training 2010\|《教育与培训 2010》]]。 |
 
 ---
 
@@ -145,10 +154,10 @@ updated: 2026-10-28
 
 ---
 
-> [!claim] 论证步骤一　借经济危机把教育改造成市场竞争工具（1993–1996）
+> [!claim|step] 论证步骤一　借经济危机把教育改造成市场竞争工具（1993–1996）
 > 欧盟委员会利用《马斯特里赫特条约》有限授权，借全球化和技术冲击制造危机感，通过白皮书将教育改造成提升竞争力和拉动就业的经济工具。（pp. 481–484）
 
-#### 1. 条约限制直接插手教育，欧委会先打欧洲认同牌争取信任
+> [!sub-claim] 1. 条约限制直接插手教育，欧委会先打欧洲认同牌争取信任
 
 > [!boundary] 马斯特里赫特条约的宪制管辖禁区与二元权能分立
 > - **法律协调的严格排除** 条约第 126 条首次写入教育条款，但明确限定欧共体仅能“促进优质教育的发展”，明文禁止任何形式的跨国法律协调，以防侵害成员国在教学内容与学制组织上的排他性主权；决策遵循第 189B 条共同决策程序。（pp. 481–482）
@@ -158,12 +167,12 @@ updated: 2026-10-28
 > [!case] 马斯特里赫特条约批准危机与欧委会象征动员
 > 1992 年 6 月丹麦选民在全民公投中以 50.7% 的微弱多数否决条约，同年 9 月法国公投仅以 51% 艰难通过；德国联邦宪法法院在 1993 年布伦纳案审理中对超国家民主赤字提出严厉质询。面对公众对布鲁塞尔集权的疑虑与抵触，欧委会无法依法推行强制性改革，转而诉诸文化与意识形态动员。它借用[[Benedict Anderson|本尼迪克特·安德森]]（Benedict Anderson）的想象共同体理念，在 1992 至 1993 年间密集出台五份咨询政策文件，涵盖社会团结（1992 年 12 月 23 日）、社会政策（1993 年 11 月 17 日）、公民身份（1993 年 12 月 21 日）、民主赤字（1993 年 5 月 5 日）以及透明度治理（1993 年 6 月 2 日）。教育由此被赋予培育欧洲公民、营建欧洲家园以及塑造欧洲认同的政治象征使命。（p. 482）
 
-#### 2. 白皮书推行市场导向，将教育定性为自负盈亏的人力投资
+> [!sub-claim] 2. 白皮书推行市场导向，将教育定性为自负盈亏的人力投资
 
 > [!row-contrast] 欧盟两大纲领性白皮书的市场化话语建构特征
 > 在借由欧洲认同站稳脚跟后，欧委会迅速改变策略，将教育讨论从文化修辞转向直接服务于全球经贸竞争，通过接连发布两部纲领性白皮书系统确立新自由主义市场导向话语。（pp. 482–484）
 >
-> | 比较维度 | [[Growth, Competitiveness, Employment|《增长、竞争力、就业》（1993）]] | [[Teaching and Learning - Towards the Learning Society|《教与学：迈向学习型社会》（1995）]] |
+> | 比较维度 | [[Growth, Competitiveness, Employment\|《增长、竞争力、就业》（1993）]] | [[Teaching and Learning - Towards the Learning Society\|《教与学：迈向学习型社会》（1995）]] |
 > |---|---|---|
 > | **外部危机预设** | [[World Trade Organization\|世界贸易组织]]（World Trade Organization, WTO）与[[GATS and Trade in Education Services\|服务贸易总协定]]（General Agreement on Trade in Services, GATS）推进的国际市场开放，以及美日竞争造成的技术与竞争力鸿沟。（pp. 482–483） | 全球化、信息社会与技术科学（techno-science）构成的三大冲击因素。（p. 483） |
 > | **教育功能定位** | 确立教育与培训为新增长模型的核心基石，首次提出终身学习全面化与系统化。（p. 483） | 明确倡导加大对人力资源的投资，强调个人在社会中的地位取决于其掌握基础知识的能力。（p. 483） |
@@ -174,17 +183,17 @@ updated: 2026-10-28
 > 欧委会通过三部绿皮书进一步细化了教育与经济的嵌合路径：在 1995 年发布的《创新》绿皮书中，欧委会将教育培训系统对外部世界的适应不良与结构僵化定性为全欧技术创新的主要绊脚石；在 1996 年《信息社会中的生活与工作》绿皮书中，提议将信息通信技术（Information and Communication Technology, ICT）深度嵌入教育，构建以终身学习为核心的新型教育体系架构；在 1996 年《跨国流动障碍》绿皮书中，流动性被直接定义为应对统一大市场形成挑战与化解就业危机的结构性对策。（p. 484）
 
 > [!mechanism] 新自由主义话语注入与教育性质的资本化重构
-> 欧委会吸纳[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）、[[World Bank|世界银行]]（World Bank）与[[International Monetary Fund|国际货币基金组织]]（International Monetary Fund, IMF）的新自由主义理念，确立以灵活性、适应性、质量认证与评估为核心的话语谱系，从根本上重塑了教育的性质定位。以往教育常被视作福利国家财政负担的诱因之一，在此转向中转而成为化解经济危机、重振资本积累的核心手段；受教育者个人也必须对自身的人力资本投资与就业结果承担直接责任。（pp. 482–484）
+> 欧委会吸纳[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）、[[World Bank|世界银行]]（World Bank）与[[International Monetary Fund|国际货币基金组织]]（International Monetary Fund, IMF）的新自由主义理念，确立以灵活性、适应性、质量认证与评估为核心的话语谱系，从根本上重塑了教育的性质定位。以往教育常被视作福利国家财政负担的诱因之一，在此转向中转而成为化解经济危机、重振资本积累的核心手段；受教育者个人也必须对自身的[[Human Capital Theory|人力资本]]投资与就业结果承担直接责任。（pp. 482–484）
 
 ---
 
-> [!claim] 论证步骤二　借就业指标与专项资助绕开主权限制，把教育绑定为经济资产（1997–1999）
-> 欧盟避开条约法律僵局，借欧洲就业战略和结构基金建立非正式控制通道，并提出知识政治命题，把教育与科研定性为关乎欧洲存亡的核心无形投资。（pp. 484–487）
+> [!claim|step] 论证步骤二　借就业指标与专项资助绕开主权限制，把教育绑定为经济资产（1997–1999）
+> 欧盟避开条约法律僵局，借[[European Employment Strategy|欧洲就业战略]]和结构基金建立非正式控制通道，并提出[[Politics of Knowledge|知识政治]]命题，把教育与科研定性为关乎欧洲存亡的核心无形投资。（pp. 484–487）
 
-#### 1. 把就业定为硬任务，借结构基金倒逼各国教育服从经济目标
+> [!sub-claim] 1. 把就业定为硬任务，借结构基金倒逼各国教育服从经济目标
 
 > [!quad-grid] 欧洲就业战略四大支柱对教育功能的重塑
-> 1997 年卢森堡欧洲理事会确立包含四大支柱的[[European Employment Strategy|欧洲就业战略]]（European Employment Strategy, EES），直接将各成员国的教育体系纳入就业硬任务考核体系。（pp. 484–485）
+> 1997 年卢森堡欧洲理事会确立包含四大支柱的[[European Employment Strategy|欧洲就业战略]]（European Employment Strategy, [[European Education Space|EES]]），直接将各成员国的教育体系纳入就业硬任务考核体系。（pp. 484–485）
 >
 > - **可就业性（[[Employability]]）** 要求教育系统培养劳动者即时契合市场需求的实用技能，强化个人对自身失业风险的直接责任。（pp. 484–485）
 > - **企业家精神（Entrepreneurship）** 将商业精神、冒险意识与自我雇佣倾向纳入各级教育[[21st Century Skills and Competencies Discourse|核心素养]]与课程改革。（pp. 484–485）
@@ -197,11 +206,11 @@ updated: 2026-10-28
 > | 机制维度 | 官方教育网络 | 非正式教育网络 |
 > |---|---|---|
 > | **法律依据** | 《马斯特里赫特条约》（TEU）第 126 与 127 条、欧盟理事会决议与指令。（p. 485） | 欧盟在就业、社会凝聚、流动性与科研领域的跨界权能。（p. 485） |
-> | **载体与项目** | [[Socrates Programme|SOCRATES]]、[[Leonardo da Vinci Programme|LEONARDO]]、[[TEMPUS]] 行动计划，以及欧洲学分互认体系（European Credit Transfer and Accumulation System, ECTS）、欧洲技能护照（Europass）与[[European Qualifications Framework\|欧洲资格框架]]（European Qualifications Framework, EQF）。（p. 485） | 结构基金条例（德洛尔一期、二期与桑特一揽子计划）以及国家行动计划（National Action Plans, NAPs）。（p. 485） |
+> | **载体与项目** | [[Socrates Programme\|SOCRATES]]、[[Leonardo da Vinci Programme\|LEONARDO]]、[[TEMPUS]] 行动计划，以及欧洲学分互认体系（European Credit Transfer and Accumulation System, ECTS）、欧洲技能护照（Europass）与[[European Qualifications Framework\|欧洲资格框架]]（European Qualifications Framework, EQF）。（p. 485） | 结构基金条例（德洛尔一期、二期与桑特一揽子计划）以及国家行动计划（National Action Plans, NAPs）。（p. 485） |
 > | **治理方法** | 遵循经典共同体方法（Community Method），由 DG XXII 主导拨款。（p. 485） | 采用早期 [[Open Method of Coordination\|开放协调法]]（OMC），以财政补贴捆绑成员国宏观政策规划。（p. 485） |
 > | **核心目的** | 推动校际合作、学分转换与人员流动，促进初始教育与[[Further Education\|继续教育]]一体化。（p. 485） | 借助财政约束推动成员国经济趋同与政策合规，实质控制国家教育宏观规划。（p. 485） |
 
-#### 2. 确立知识欧洲蓝图，设计以终身学习为核心的监视架构
+> [!sub-claim] 2. 确立知识欧洲蓝图，设计以终身学习为核心的监视架构
 
 > [!mechanism] [[Politics of Knowledge|知识政治]]命题的确立：教育与科研作为核心无形投资
 > 1997 年欧委会在政策文件《2000 年议程》（Agenda 2000）中正式提出[[Politics of Knowledge|知识政治]]（politics of knowledge）命题，指出信息技术与经济全球化促成了无形产品的主导地位，科研与教育培训构成最核心的无形投资，决定着欧洲未来的[[Geopolitics|地缘政治]]前途。（p. 486）这一逻辑在随后的政策文件《迈向知识欧洲》（Towards a Europe of Knowledge）中系统化，将终身学习置于新经济增长战略的核心。（pp. 486–487）
@@ -211,7 +220,7 @@ updated: 2026-10-28
 > |---|---|
 > | **欧洲教育空间** | **三大基础维度** 知识、公民、就业<br>**四大核心领域** 创新、研究、教育、培训 |
 > | **欧洲知识社会与[[Knowledge-Based Economy\|知识经济]]** | **五大核心主线** <br>1. 发展终身学习与继续培训<br>2. 维系欧盟社会模式<br>3. 维系欧洲认同<br>4. 缩小社会差距<br>5. 提高可就业性<br>**教育与就业关系关键词** <br>创新、竞争力、合规（compliance）；可就业性、灵活性、适应性；质量、评估、认证；绩效（performativity）、有效性、可耗费性（expendability）；工具理性、技术官僚话语；合法性重构、科学合法化；自愿参与、合作、凝聚性 |
-> | **[[Politics of Knowledge|知识政治]]与[[Lisbon Strategy\|里斯本战略]]** | **未来战略目标** 质量、可及性、[[Open-Mindedness\|开放性]]，以终身学习进程为核心载体 |
+> | **[[Politics of Knowledge\|知识政治]]与[[Lisbon Strategy\|里斯本战略]]** | **未来战略目标** 质量、可及性、开放性，以终身学习进程为核心载体 |
 > | **全景敞视监控体系** | **知识技术** 参与、代表、磋商、凝视（theasis）、相互学习、治理、管理、监测、评价、问责、控制、操演（performativity）、监视（surveillance）<br>**持续评价与监视机制** [[Open Method of Coordination\|开放协调法]]（OMC）、基准化（benchmarking）、监护规程（custody rules）、标准、指标、准则、刚性时间表、监测、相互学习、最佳实践交流、同行评审（peer review） |
 
 > [!proc] 1999 年滚动议程决议的制度过渡
@@ -221,25 +230,25 @@ updated: 2026-10-28
 
 ---
 
-> [!claim] 论证步骤三　各国主动交出监控权，开放协调法用量化指标筑起全景监视网（2000 年至今）
+> [!claim|step] 论证步骤三　各国主动交出监控权，开放协调法用量化指标筑起全景监视网（2000 年至今）
 > 里斯本战略打破了各国坚守的教育主权防线，各成员国主动签署量化目标并接受考核；开放协调法通过常态化数据注视、同行排位与技术专家评审，将各国教育改革全面纳入全景敞视网络。（pp. 488–493）
 
-#### 1. 各国放弃死守教育主权，自愿签约接受按结果考核
+> [!sub-claim] 1. 各国放弃死守教育主权，自愿签约接受按结果考核
 
 > [!contrast-table] 欧盟教育治理[[Paradigm|范式]]的历史性断裂对比
 > 2000 年里斯本欧洲理事会特别峰会确立“到 2010 年使欧洲成为世界上最具竞争力和活力的知识经济体”的战略目标，推动面向普通教育的里斯本进程、面向职业培训的[[Copenhagen Process|哥本哈根进程]]与面向高等教育的[[Bologna Process|博洛尼亚进程]]共同重塑欧盟教育治理范式，标志着其与 20 世纪 90 年代传统原则的历史性断裂。（pp. 488–491）
 >
-> | 治理特征 | 1990 年代：防御型政府间主义 | 2000 年后：[[Aggressive Intergovernmentalism|进攻性政府间主义]]与新功能主义 |
+> | 治理特征 | 1990 年代：防御型政府间主义 | 2000 年后：[[Aggressive Intergovernmentalism\|进攻性政府间主义]]与新功能主义 |
 > |---|---|---|
 > | **宪制主权态度** | 严守[[Subsidiarity Principle\|辅助性原则]]，奉行非协调化（non-harmonisation）教条，防范共同体越权。（pp. 490–491） | 成员国自愿签署共同目标，主动让渡宏观政策制定权，推动超国家集中化协调。（pp. 490–491） |
-> | **理论依托模型** | 消极联邦主义，将教育隔离在各自主权疆域之内。（pp. 490–491） | [[Aggressive Intergovernmentalism|进攻性政府间主义]]叠加复兴的新功能主义，追求教育向经济增长与就业指标的制度性外溢。（p. 491） |
+> | **理论依托模型** | 消极联邦主义，将教育隔离在各自主权疆域之内。（pp. 490–491） | [[Aggressive Intergovernmentalism\|进攻性政府间主义]]叠加复兴的新功能主义，追求教育向经济增长与就业指标的制度性外溢。（p. 491） |
 > | **核心治理工具** | 欧洲委员会行动计划、分散的项目资助与共同决策法。（pp. 490–491） | 欧洲理事会领导下的[[Open Method of Coordination\|开放协调法]]（OMC），以共同指标与基准线为核心。（pp. 490–491） |
 > | **评价机制导向** | 关注项目合规性、流动人数与资助款项执行率。（pp. 485, 490） | 实行以结果为导向的掌舵治理（steering by results），开展常态化量化评估与国际横向比对。（pp. 490–492） |
 
-> [!case] [[Education and Training 2010|《教育与培训 2010》]]（Education and Training 2010, ET 2010）与指标基准常设工作组的建立
-> 2001 年教育理事会确立了提高质量与成效、促进全民获取教育培训、向外部世界开放三大战略目标，并在 2002 年通过[[Education and Training 2010|《教育与培训 2010》]]（ET 2010）工作规划。该规划依托欧委会于 2003 年设立的指标与基准常设工作组（Standing Group for Indicators and Benchmarks, SGIB），设立了五大欧洲基准线：[[Academic Attrition|早期离校]]率低于 10%、理工科毕业生增加 15%、高中文凭普及率达 85%、低阅读能力比例下降 20%、成年人终身学习参与率达 12.5%，将复杂的国家教育系统拆解为接受全景审查的量化统计指标。（pp. 491–492）
+> [!case] 《教育与培训 2010》（Education and Training 2010, ET 2010）与指标基准常设工作组的建立
+> 2001 年教育理事会确立了提高质量与成效、促进全民获取教育培训、向外部世界开放三大战略目标，并在 2002 年通过《教育与培训 2010》（ET 2010）工作规划。该规划依托欧委会于 2003 年设立的指标与基准常设工作组（Standing Group for Indicators and Benchmarks, SGIB），设立了五大欧洲基准线：[[Academic Attrition|早期离校]]率低于 10%、理工科毕业生增加 15%、高中文凭普及率达 85%、低阅读能力比例下降 20%、成年人终身学习参与率达 12.5%，将复杂的国家教育系统拆解为接受全景审查的量化统计指标。（pp. 491–492）
 
-#### 2. 数据曝光与同侪施压双管齐下，促使各国在无形凝视下自发看齐
+> [!sub-claim] 2. 数据曝光与同侪施压双管齐下，促使各国在无形凝视下自发看齐
 
 > [!proc] 开放协调法的三重规训技术配置
 > 开放协调法（OMC）直接源于跨国企业的绩效考评程序，其核心是一整套精密的[[Technologies of Surveillance|监视技术]]（technologies of surveillance），在自愿学习与经验共享的修辞掩护下，构筑起覆盖全欧的规训网络。（pp. 492–493）

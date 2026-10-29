@@ -10,10 +10,10 @@ aliases:
 summary: "个体或家庭在社会结构中所处层级位置与资源占有状况的综合度量指标，在教育实证中是学业表现最强的解释变量，其在元分析中被剔除为调节变量引发了阶级盲教学思维批判"
 type: concept
 domain: "sociology-of-education"
-related_count: 38
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - educational-sociology
   - inequality
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Variable]]"
   - "[[Home Environment]]"
+  - "[[Student Motivation]]"
   - "[[Cultural Capital]]"
   - "[[Construct]]"
   - "[[Habitus]]"
@@ -44,6 +45,7 @@ related_concepts:
   - "[[Teacher Beliefs]]"
   - "[[Critical Pedagogy]]"
   - "[[Ecological Validity]]"
+  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Interaction Effect]]"
 related_theories:
@@ -69,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 > [!def] Socioeconomic Status
@@ -81,7 +83,7 @@ updated: 2026-10-28
 > - **边界** SES 属于宏观制度与社会结构的既成变量，无法被还原为教师在教室内通过短期心理学技巧随手改变的操作性教学手段；同时不能将其误解为断定学生智识上限的生物遗传宿命论。
 
 > [!citation-card] 社会经济地位对学业成就的根本决定力
-> 在解释学生学业技能、态度与学习动机的所有方差变异源中，家庭与社会阶级背景构成了最关键、最持久的决定性来源。[[Argument_Nielsen_2021_NordPsych|(OECD, 2005; 引自 Nielsen & Klitmøller, 2021a, p. 6)]]
+> 在解释学生学业技能、态度与[[Student Motivation|学习动机]]的所有方差变异源中，家庭与社会阶级背景构成了最关键、最持久的决定性来源。[[Argument_Nielsen_2021_NordPsych|(OECD, 2005; 引自 Nielsen & Klitmøller, 2021a, p. 6)]]
 >
 > *In all sources of variation explaining student skills, attitudes, and motivation, family and social background constitutes the most decisive and persistent source.*
 
@@ -126,10 +128,8 @@ updated: 2026-10-28
 
 ---
 
-### 命题一　社会经济地位构成学生学业成就变异的首要来源，是教育公平政策的基础基准
-
-> [!concept-lens] 宏观社会结构对教育结果的决定性制约
-> 探讨社会阶层背景在全部学业方差中所占的客观比重，确立其作为教育政策效果评估不可绕过的基线地位。
+> [!concept-proposition] 命题一｜社会经济地位构成学生[[Academic Achievement|学业成就]]变异的首要来源，是教育公平政策的基础基准
+> **探讨维度　宏观社会结构对教育结果的决定性制约** 探讨社会阶层背景在全部学业方差中所占的客观比重，确立其作为教育政策效果评估不可绕过的基线地位。
 
 > [!claim] [[OECD]]; Snook et al.
 > **社会背景对学业技能变异的绝对主导地位** 国际大型学生评估机构与批判学者一致证实，家庭背景是塑造教育结果的最强力量：
@@ -138,10 +138,8 @@ updated: 2026-10-28
 
 ---
 
-### 命题二　将社会经济地位剔除为教学调节变量催生阶级盲教学思维，掩盖底层学生的结构性劣势
-
-> [!concept-lens] [[Technical Rationality|技术理性模型]]对阶层结构的刻意遮蔽与意识形态功能
-> 批判量化[[Meta-meta-analysis|元综合]]将社会阶层降格为孤立正向均值并拒绝将其作为调节[[Variable|变量]]的方法学操作，揭示其服务于[[Neo-Taylorism|新泰勒主义]]治理的技术主义本质。
+> [!concept-proposition] 命题二｜将社会经济地位剔除为教学调节[[Variable|变量]]催生阶级盲教学思维，掩盖底层学生的结构性劣势
+> **探讨维度　[[Technical Rationality|技术理性模型]]对阶层结构的刻意遮蔽与意识形态功能** 批判量化[[Meta-meta-analysis|元综合]]将社会阶层降格为孤立正向均值并拒绝将其作为调节[[Variable|变量]]的方法学操作，揭示其服务于[[Neo-Taylorism|新泰勒主义]]治理的技术主义本质。
 
 > [!claim] Nielsen & Klitmøller; Bergeron & Rivard; Wrigley
 > **正负数值转换误导与阶级盲教学思维的构建** [[John Hattie|约翰·哈蒂]]（[[John Hattie]]）在《[[Visible Learning|可见的学习]]》中对社会经济地位的处理存在严重的方法学与意识形态偏误：
@@ -242,7 +240,7 @@ updated: 2026-10-28
 > [!ma-table]- 社会经济地位在宏观综合中的实证数据对照
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 来源与文献 | 效应值 | 95% CI | 效应指标与模型 | 样本或研究规模 | 关键解释边界 | [[Variable\|变量]]或干预[[Construct\|构念]] | 实质定性与真实含义 |
+> | 来源与[[Document\|文献]] | 效应值 | 95% CI | 效应指标与模型 | 样本或研究规模 | 关键解释边界 | [[Variable\|变量]]或干预[[Construct\|构念]] | 实质定性与真实含义 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Hattie (2009) 附录数据<br>[[Argument_Nielsen_2021_NordPsych\|(Nielsen & Klitmøller, 2021a, p. 7)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.57"><span class="b11"></span></span>0.57 | — | Cohen's $d$；二阶未加权均值 | 涵盖数百项原始实证研究 | 隔离处理；将客观社会结构剥离于具体课堂干预之外；注：部分表述为 $0.59$ | 孤立测算的家庭社会经济地位（SES）效应 | 被[[John Hattie\|哈蒂]]列为排名前列的正向影响因素，但被禁止作为调节变量参与教学法分析 |
 > | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017, pp. 241–242)]] | <span class="mx-bar ef-bar neg" title="Cohen's d −0.57"><span class="b11"></span></span>−0.57 | — | Cohen's $d$ / 符号转换分析与资本匮乏测算 | 针对 Hattie $d=0.57$（或 $0.59$）效应量开展数学对偶审计 | 证实单向包装正向均值掩盖阶级压迫；结合挑战者号事故与鱼子酱物价指数比喻批判去情境化未加权汇总；注：对 Hattie 同一数值的基准反转审计（或 $-0.59$） | 底层贫困家庭面临的结构性资源匮乏真实净影响（基准参照反转） | 成为全书最具破坏力的逆向有害因素，超越留级（$-0.16$）、转学（$-0.34$）与过多看电视（$-0.18$） |

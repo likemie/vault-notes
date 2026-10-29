@@ -8,7 +8,7 @@ aliases:
 summary: "同一经验数据集因统计分析者选用的建模假定不同而导致效应量估计与统计推断发生大幅漂移的现象，揭示了实证证据高度脆弱的主观模型设定根源，催生了强制性预注册与统计分析计划"
 type: concept
 domain: "research-methodology"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Preregistration]]"
   - "[[Effective Sample Size]]"
+  - "[[Document]]"
   - "[[International Education]]"
   - "[[Type I and Type II Errors]]"
   - "[[Heterogeneity]]"
@@ -65,7 +66,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -129,20 +130,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　统计模型的微小假定差异足以颠覆大规模现场试验的政策定性与证据等级
-
-> [!concept-lens] 探讨维度：[[Causality\|因果推断]]在数学模型层面的高度脆弱性
-> 计量方法学研究揭示：教育干预的有效性判定绝非仅仅取决于教学方案本身，而是高度受制于后端统计分析师选用的回归公式结构。
+> [!concept-proposition] 命题一｜统计模型的微小假定差异足以颠覆大规模现场试验的政策定性与证据等级
+> **探讨维度　探讨维度：[[Causality\|因果推断]]在数学模型层面的高度脆弱性** 计量方法学研究揭示：教育干预的有效性判定绝非仅仅取决于教学方案本身，而是高度受制于后端统计分析师选用的回归公式结构。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 52)]]; Xiao, Higgins, & Kasim (2016)
 > **多模型复算下的显著性漂移** 杜伦大学团队对英国 17 项大规模教育 [[Randomised Controlled Trials\|RCT]] 原始数据进行的四模型复算显示：超过三分之二的干预项目，其是否具有[[Statistical Significance\|统计显著性]]完全取决于使用的是简单均值对比、[[Ordinary Least Squares\|OLS]] 回归、[[Hierarchical Linear Model\|MLM]] 还是 [[Generalized Estimating Equations\|GEE]] 模型。某些干预在研究者自选的模型中呈现耀眼的 $p < .05$，一旦放入严格校正学校两级嵌套的随机截距模型中，置信区间便直接跨越零点。这意味着如果没有统一的模型规范，政策制定者可能基于统计模型的偶然选择，错误资助无效方案或扼杀有潜力的实践。
 
 ---
 
-### 命题二　单纯依靠数据透明无法解决推断危机，必须通过前置统计分析计划（SAP）构建方法学制度防火墙
-
-> [!concept-lens] 探讨维度：从开放数据到流程规程化的治理转向
-> 开放科学研究指出：公开原始微观数据虽然保障了可复现性（Reproducibility），但无法自主解决可比性（Comparability）；唯有剥夺事后自由挑选模型的裁量权，才能维护循证科学的公信力。
+> [!concept-proposition] 命题二｜单纯依靠数据透明无法解决推断危机，必须通过前置[[Statistical Analysis Plan|统计分析计划]]（SAP）构建方法学制度防火墙
+> **探讨维度　探讨维度：从开放数据到流程规程化的治理转向** 开放科学研究指出：公开原始微观数据虽然保障了可复现性（Reproducibility），但无法自主解决可比性（Comparability）；唯有剥夺事后自由挑选模型的裁量权，才能维护循证科学的公信力。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 52–53)]]
 > **统计分析指南的制度化诞生** 面对 17 项试验复算揭示的模型依赖性危机，[[Education Endowment Foundation\|EEF]] 迅速将学术危机转化为治理法典，于 2018 年出台了行业里程碑《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）。该指南硬性确立三条基准：
@@ -153,7 +150,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **推断脆弱性命题** | 揭示同一数据集在不同建模假定下[[Effect Size\|效应量]]与显著性的质变漂移 | [[Quantitative Research\|量化研究]]方法论、二阶复算审计、Meta分析 | Xiao, Higgins, & Kasim (2016); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
 > | **制度防范治理命题** | 论证前置[[Preregistration\|预注册]]与强制统计分析计划（SAP）是消解模型依赖性唯一可靠路径 | 循证清算标准、科研治理、开放科学规范 | Demack (2019); The EEF (2018) |

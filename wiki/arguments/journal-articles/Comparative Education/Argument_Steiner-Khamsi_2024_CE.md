@@ -34,6 +34,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Construct]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Performance Indicators]]"
   - "[[Façade of Rationality]]"
   - "[[Knowledge Mediation]]"
@@ -68,6 +69,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
+  - "[[Institutional Mimesis]]"
 related_theories:
   - "[[Two-Communities Theory]]"
   - "[[Knowledge-to-Action Models]]"
@@ -107,8 +109,8 @@ related_facts:
   - "[[Programme for the International Assessment of Adult Competencies]]"
   - "[[Teaching and Learning International Survey]]"
   - "[[Education Policy Outlook]]"
-  - "[[Education for All]]"
   - "[[UNESCO]]"
+  - "[[Education for All]]"
   - "[[Poverty Reduction Strategy Papers]]"
   - "[[1964 UNESCO-World Bank Cooperative Agreement]]"
   - "[[World Bank Education Sector Policy Paper 1980]]"
@@ -142,14 +144,14 @@ part_of:
   - "[[Comparative Education]]"
 status: draft
 created: 2026-09-11
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Steiner-Khamsi_2024_CE"
 argument_key: "Argument_Steiner-Khamsi_2024_CE"
 argument_display_title: "Governance by numbers 2.0: policy brokerage as an instrument of global governance in the era of information overload"
 argument_kind: "journal-article"
-argument_related_count: 110
+argument_related_count: 112
 argument_related_level: 11
 argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -193,7 +195,7 @@ issuing_organization: ""
 > |------|----------------|
 > | **历史比较分析法**<br>[[Historical-Comparative Method\|Historical-Comparative Analysis]] | 梳理[[OECD\|经合组织]]与世界银行五十年发展档案，结合关键历史文献与亲历者访谈史料（如 Jarl Bengtsson 回忆录、[[George Psacharopoulos]] 政策评估文本），重构冷战与后殖民时期国际组织向教育统计与指标规制转型的制度轨迹。 |
 > | **跨国组织比较与网络分析**<br>Transnational & Relational Policy Network Analysis | 运用世界教育改革数据库（World Education Reform Database，WERD）等跨国数据，横向对比 OECD、世界银行、联合国教科文组织等在[[Policy Brokerage\|政策中介]]工具打包、[[Richard Rose\|Rose]]（1993）经验汲取模式（外向国别经验 vs 自指性实践库）及排他性联盟策略上的异同。 |
-> | **政策周期引文追踪法**<br>Procedural Citation Tracing in Policy Cycle | 依托北欧五国政策咨询网络实证研究材料，系统追踪专家咨询委员会报告与教育部正式法令之间的参考文献承继关系，精确量化跨国中介证据在行政规制出台阶段的损耗与过滤。 |
+> | **政策周期引文追踪法**<br>Procedural Citation Tracing in Policy Cycle | 依托北欧五国政策咨询网络实证研究材料，系统追踪专家咨询委员会报告与教育部正式法令之间的参考[[Document\|文献]]承继关系，精确量化跨国中介证据在行政规制出台阶段的损耗与过滤。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -216,10 +218,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　知识过剩并未消解决策歧义，教育特质倒逼中介机构以量化硬事实构筑[[Façade of Rationality|理性表象]]
+> [!claim|step] 论证步骤一　知识过剩并未消解决策歧义，教育特质倒逼中介机构以量化硬事实构筑[[Façade of Rationality|理性表象]]
 > 在数字经济造成海量证据供给过剩的环境下，政策决策的歧义性并未自发消除；教育领域固有的歧义性、公共争议性与不确定性，迫使决策者和国际组织诉诸具备理性客观表象的量化指标，从而促成中立[[Knowledge Mediation\|知识中介]]向政治化[[Policy Brokerage\|政策中介]]的深刻异化。
 
-#### 1. 证据供给过剩并未带来理性秩序，反而倒逼出选择性打包知识的政治化政策中介
+> [!sub-claim] 1. 证据供给过剩并未带来理性秩序，反而倒逼出选择性打包知识的政治化政策中介
 
 在数字化时代，科研成果呈现爆炸式增长，然而知识的充盈并未自发带来理性的决策秩序，反而导致了严重的认知超载与信息孤岛；致力于在科学界与政治界两社区之间转移、转译或推送研究事实的行动者被称为[[Boundary Spanner|边界跨越者]]（Boundary Spanners）或知识经纪人。
 
@@ -233,7 +235,7 @@ issuing_organization: ""
 
 政策中介之所以能够顺利崛起，根本原因在于其运作机制高度契合了教育决策环境固有的多重生态特征。
 
-#### 2. 教育决策固有的多重生态特质促成对量化指标脚手架的强烈依赖
+> [!sub-claim] 2. 教育决策固有的多重生态特质促成对量化指标[[Scaffolding|脚手架]]的强烈依赖
 
 教育领域的公共决策面临三重相互交织的制度生态约束，使得纯粹的学术研究成果无法顺畅转化为具体的政策行动。
 
@@ -245,10 +247,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　经合组织与世界银行借地缘对抗与全球危机叙事将教育与经济增长捆绑，奠定硬事实规制霸权
+> [!claim|step] 论证步骤二　经合组织与世界银行借地缘对抗与全球危机叙事将教育与经济增长捆绑，奠定硬事实规制霸权
 > [[OECD\|经合组织]]与[[World Bank\|世界银行]]作为政策中介的先行者，其制度轨迹发轫于冷战与后殖民时期的地缘对抗；两大机构通过将教育与经济增长紧密绑定，借助全球教育危机叙事与技术官僚规划，完成了从战后协调向不可逆转的量化指标帝国的历史跨越。
 
-#### 1. 经合组织从冷战技术官僚预测转向由外部危机感驱动的跨国比较指标帝国
+> [!sub-claim] 1. 经合组织从冷战技术官僚预测转向由外部危机感驱动的跨国比较指标帝国
 
 二战后西方阵营急需建立具有规范协调功能的国际机制以抵御苏联阵营的意识形态渗透，[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（[[Organisation for European Economic Co-operation]]，OEEC）应运而生并在 1961 年改组为经合组织，被史学界定性为与北约并行的经济北约。
 
@@ -270,7 +272,7 @@ issuing_organization: ""
 >
 >   1992 年首度出版《[[Education at a Glance\|教育概览]]》（Education at a Glance，EAG），并在 2000 年正式推出作为[[International Large-Scale Assessments\|国际大规模评估]]（International Large-Scale Assessments，ILSAs）旗舰标杆的国际学生评估项目（Programme for International Student Assessment，PISA）；此后相继衍生出[[Programme for the International Assessment of Adult Competencies\|国际成人能力评估项目]]（PIAAC）、[[Teaching and Learning International Survey\|教师教学国际调查]]（TALIS）、[[Education Policy Outlook\|教育政策展望]]等知识平台，确立了不可逆转的跨国比较规制体系。
 
-#### 2. 世界银行脱离教科文组织人文路线，以放贷权力和回报率指标构建自指性政策帝国
+> [!sub-claim] 2. 世界银行脱离[[UNESCO|教科文组织]]人文路线，以放贷权力和回报率指标构建自指性政策帝国
 
 在后殖民时期的全球南方，世界银行成为西方大国与苏联争夺不结盟国家影响力的关键金融与制度支柱；[[Development Turn in Comparative Education|发展转向]]对全球南方国家的作用，正如量化转向对非共产主义全球北方国家的作用一样——自 1990 年确立首项国际协议《[[Education for All|全民教育]]》（Education for All，EFA）开始，全球南方国家才被系统性置于国际组织的量化规制体系之下。
 
@@ -290,7 +292,7 @@ issuing_organization: ""
 > - **本土专家的工具化降格** 跨国大型数据库的设计与维护权牢牢保留在华盛顿总部手中，借贷国的本土学者与国家专家并未获得实[[Qualitative Research\|质性研究]]主导权，沦为仅负责为总部数据库搜集、填报指标并提供语篇翻译的基层信息员。
 > - **60 年回报率实证帝国的规制底色** 伴随这一集权过程，世界银行系统构建起庞大的应用政策研究体系；[[George Psacharopoulos\|乔治·萨卡罗普洛斯]]（George Psacharopoulos）与帕特里诺斯（Harry Anthony Patrinos，2018）对 60 年教育投资回报率研究的[[Systematic Review\|系统综述]]显示，该数据库累计涵盖 139 个国家的 1,120 项估算，为世行脱离联合国教科文组织、以[[Policy Conditionalities|贷款附加条件]]深度干预借贷国教育体制提供了自给自足的数据霸权。
 
-#### 3. 跨国会议网络与普遍危机叙事将命名与羞辱常规化，为政策中介确立持续政治合法性
+> [!sub-claim] 3. 跨国会议网络与普遍危机叙事将命名与羞辱常规化，为政策中介确立持续政治合法性
 
 两大先行机构之所以能将硬事实转化为公认的软性规制权力，核心在于熟练运用全球教育危机叙事并借助高规格国际会议展开政策动员。
 
@@ -313,10 +315,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　全球教育治理复合体在统一数字修辞掩护下深化组织利基并结成排他性权力同盟
+> [!claim|step] 论证步骤三　全球教育治理复合体在统一数字修辞掩护下深化组织利基并结成排他性权力同盟
 > 当代全球教育治理已演化为涵盖 30 个政府间组织、商业公司与慈善资本的治理复合体；各大组织在通用数字修辞下发展出差异化的中介工具打包策略，深耕各自利基并在表面协同的掩护下结成排他性战略同盟以争夺全球规制主导权。
 
-#### 1. 经济协调类组织大举跨界主导教育事务，以教育服务于使命的话语确立干预正当性
+> [!sub-claim] 1. 经济协调类组织大举跨界主导教育事务，以教育服务于使命的话语确立干预正当性
 
 从 1945 年仅有[[International Labour Organization|国际劳工组织]]（International Labour Organization，ILO）与联合国教科文组织涉足教育，到 2020 年已有 30 个政府间组织介入教育事务，教育在全球治理版图中经历了四十年的持续扩张并在世纪之交达到饱和状态。
 
@@ -334,7 +336,7 @@ issuing_organization: ""
 
 截至 2023 年，在参与全球教育治理的 30 个国际组织中，原本旨在协调经济合作的非专门组织已占据整整三分之一，说明各类机构通过将教育与自身使命相挂钩（即马滕斯等界定的[[Education-for-Mandates|使命性教育嵌入]]，Education-for-mandates），成功实现了对教育领域的跨界规制。
 
-#### 2. 国际组织差异化打包专属中介工具，并在数据共享假象下组建排他性战略同盟
+> [!sub-claim] 2. 国际组织差异化打包专属中介工具，并在数据共享假象下组建排他性战略同盟
 
 为了在日益拥挤的知识市场中维持不可替代性，各大国际组织将核心评测工具与专属知识产品打包，形成了截然不同的组织利基与经验汲取路径。
 
@@ -361,10 +363,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤四　主权国家在[[Transfer Space|转移空间]]中策略性动员外部权威，但在法定行政出台阶段实施严酷政治过滤
+> [!claim|step] 论证步骤四　主权国家在[[Transfer Space|转移空间]]中策略性动员外部权威，但在法定行政出台阶段实施严酷政治过滤
 > 主权国家对全球政策中介展现出高度自主的选择性；基于[[Methodological Transnationalism\|方法论跨国主义]]框架，国家政府在[[Transfer Space\|转移空间]]（Transfer Space）中对外部证据展开策略性利用，呈现出议程设置阶段借力动员、决策出台阶段严苛过滤的周期性断裂特征。
 
-#### 1. 决策者借助策略性外化将外部中介建构为准客观裁判，以“仿佛有效”的投射打破本土改革僵局
+> [!sub-claim] 1. 决策者借助策略性外化将外部中介建构为准客观裁判，以“仿佛有效”的投射打破本土改革僵局
 
 克服[[Methodological Nationalism|方法论民族主义]]的局限，要求将知识与政策的关系置于深层的制度生态与程序演变脉络中加以审视。
 
@@ -397,7 +399,7 @@ issuing_organization: ""
 > - **政策工具** 策略性构建“仿佛有效”的拟似外在参考点，工具性动员国际排名与标杆经验压制异见。
 > - **约束边界** 外部证据的动员深度与取舍偏好，完全受制于能否契合本土执政派别的既定施政蓝图与选拔利益。
 
-#### 2. 北欧政策咨询实证揭示专家委员会海量文献在最终行政法令中遭遇断崖式政治筛选
+> [!sub-claim] 2. 北欧政策咨询实证揭示专家委员会海量文献在最终行政法令中遭遇断崖式政治筛选
 
 北欧五国政策咨询网络的实证追踪，为揭示外部证据在政策周期内部的戏剧性流失与过滤提供了确凿依据。
 
@@ -455,7 +457,7 @@ issuing_organization: ""
 ---
 
 > [!warning] 自述局限
-> 文献自述的研究局限与未来议程包括：当前关于全球[[Policy Brokerage\|政策中介]]的研究仍过度聚焦于先行者[[OECD\|经合组织]]（特别是 [[PISA]]）与[[World Bank\|世界银行]]，未能充分展开对其他涉足教育的国际组织、区域枢纽及新兴公私伙伴的全面比较历史追踪；各国际组织在政策中介互动中的相互依赖机制（究竟是制度模仿、分而治之还是正面竞争）仍处于经验探索初期；面对公众对政治操弄的持续疑虑，政策中介如何在海量竞争者中持久维系科学公信力，仍是一个充满理论与实证张力的未决难题。
+> 文献自述的研究局限与未来议程包括：当前关于全球[[Policy Brokerage\|政策中介]]的研究仍过度聚焦于先行者[[OECD\|经合组织]]（特别是 [[PISA]]）与[[World Bank\|世界银行]]，未能充分展开对其他涉足教育的国际组织、区域枢纽及新兴公私伙伴的全面比较历史追踪；各国际组织在政策中介互动中的相互依赖机制（究竟是[[Institutional Mimesis|制度模仿]]、分而治之还是正面竞争）仍处于经验探索初期；面对公众对政治操弄的持续疑虑，政策中介如何在海量竞争者中持久维系科学公信力，仍是一个充满理论与实证张力的未决难题。
 
 ---
 

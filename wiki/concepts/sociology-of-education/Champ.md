@@ -6,7 +6,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指具有相对自主性、客观位置关系网络和资本分布结构的社会空间，行动者在此依据内隐规则争夺特定资源与象征资本；亦被拓展用于分析超国家机构通过数据基础设施与可比指标建构的跨国政策场域。"
 type: concept
 domain: "sociology-of-education"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -20,10 +20,10 @@ tags:
 related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Commensuration]]"
+  - "[[Habitus]]"
   - "[[Grandes Ecoles]]"
   - "[[Cultural Capital]]"
   - "[[Construct]]"
-  - "[[Habitus]]"
   - "[[Tacit Knowledge]]"
   - "[[New Public Management]]"
   - "[[School Leadership]]"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[European Education Space]]"
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Determinism]]"
   - "[[Operationalization]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-10-25
 
 > [!concept-lens] 概念透镜
 > - **核心本质** 场域是一张由客观位置相互关联构成的社会拓扑网络，其本质在于关系性（relationality）与博弈抗争（agonistic dynamics），拒斥实质主义对孤立实体的静态描述。
-> - **理论用途** 揭示不同社会子系统（如学术、教育、行政、市场）的相对自主性及其运作逻辑；阐明行动者如何在客观结构约束下调用先赋习性与资本展开策略性竞争。
+> - **理论用途** 揭示不同社会子系统（如学术、教育、行政、市场）的相对自主性及其运作逻辑；阐明行动者如何在客观结构约束下调用先赋[[Habitus|习性]]与资本展开策略性竞争。
 > - **解释边界** 场域不同于物理实体空间，亦不同于功能主义假定的封闭稳态系统；它始终处于外部力量渗透与内部边界保卫的动态张力之中。
 
 > [!citation-card] 场域作为客观博弈竞技场
@@ -127,40 +128,32 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　场域的相对自主性取决于其对外部政治与经济干预的折射能力
-
-> [!concept-lens] 相对自主性与外部场域渗透
-> 探讨教育场域如何维持自身独特的专业价值，以及[[New Public Management|新公共管理]]与市场逻辑对场域自主性的侵蚀。
+> [!concept-proposition] 命题一｜场域的相对自主性取决于其对外部政治与经济干预的折射能力
+> **探讨维度　相对自主性与外部场域渗透** 探讨教育场域如何维持自身独特的专业价值，以及[[New Public Management|新公共管理]]与市场逻辑对场域自主性的侵蚀。
 
 > [!claim] Eacott; Blackmore
 > **外部管理主义逻辑对教育场域自主性的侵蚀** 一个场域的相对自主性体现为其将外部干预折射为本场域内部专门逻辑的能力。在教育管理领域，随着[[New Public Management|新公共管理]]（NPM）与市场竞争机制的渗透，标准化测试成绩和外在排名被直接用于界定[[School Leadership|学校领导力]]与办学成效。当外在的政治与经济指标直接凌驾于育人过程之上时，教师与教育管理者丧失了自主定义成就标准的专业能力，标志着教育场域相对自主性的系统性退化。[[Argument_Eacott_2011_JEAH|(Eacott, 2011, pp. 48–49)]]
 
 ---
 
-### 命题二　行动者在场域中的策略选择与竞争轨迹取决于先赋习性与资本结构的互动
-
-> [!concept-lens] 阶层习性与场域筹码兑换
-> 探讨高等教育场域中不同社会背景学生的竞争策略分化与出路不平等机制。
+> [!concept-proposition] 命题二｜行动者在场域中的策略选择与竞争轨迹取决于先赋[[Habitus|习性]]与资本结构的互动
+> **探讨维度　阶层习性与场域筹码兑换** 探讨高等教育场域中不同社会背景学生的竞争策略分化与出路不平等机制。
 
 > [!claim] Zheng; Bourdieu
 > **精英大学场域中[[Cultural Capital|文化资本]]与习性对竞争轨迹的分层机制** 精英大学构成一个具有多重出路（出国、读研、就业）的复杂场域。不同阶层出身的学生进入该场域时，在隐性游戏规则的掌握与资本存量上存在系统性落差。优势阶层学生凭借与场域高度匹配的文化资本，采取[[Goal-Controlled Mode|目标掌控模式]]（[[Goal-Controlled Mode]]），能够精准识别高价值筹码并高效兑换优质出路；弱势阶层学生由于缺乏家庭层面的文化引导，容易陷入[[Intuition-Dependent Mode|直觉依赖模式]]（[[Intuition-Dependent Mode]]），在迷宫式的场域规则中摸索试错，揭示出场域客观竞争对阶层再生产的隐性强化机制。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023, pp. 31–38, 280–285)]]
 
 ---
 
-### 命题三　高利害绩效问责重构教育场域的权力关系与资本合法性结构
-
-> [!concept-lens] 问责规训与场域资本重构
-> 探讨量化实证指标与可见学习议程如何重塑学校内部各主体的实践逻辑与权力位置。
+> [!concept-proposition] 命题三｜高利害绩效问责重构教育场域的权力关系与资本合法性结构
+> **探讨维度　问责规训与场域资本重构** 探讨量化实证指标与可见学习议程如何重塑学校内部各主体的实践逻辑与权力位置。
 
 > [!claim] Larsen; Blackmore
 > **[[Performance Indicators|绩效指标]]对教师专业场域的异化重塑** 拉森（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 4–7]]）指出，当[[Visible Learning|可见的学习]]与标准化数据监测渗透入学校教育体系时，教师被深度卷入由行政问责、政治期望与生源竞争织就的制度化权力场域（field）中。在此类被外部绩效逻辑殖民的场域内部，教师的核心[[Phronesis|实践理性]]从关注学生具身成长与长周期涵育，异化为产出漂亮的达标测验数据以换取管理层的嘉奖与生存合法性。量化数据作为新型象征资本垄断了场域内的评价权，促使教师与学生的主观存在体验被客观化参数全面取代。
 
 ---
 
-### 命题四　跨国数据基础设施与可比指标将区域教育合作编织为新的超国家象征与功能政策场域
-
-> [!concept-lens] 超国家空间建构与象征资本竞争
-> 探讨超国家实体如何在缺乏法定集权的前提下，依托[[Data Infrastructure|数据基础设施]]建构起具备[[Commensuration|通约]]性与排位博弈特征的政策场域。
+> [!concept-proposition] 命题四｜跨国[[Data Infrastructure|数据基础设施]]与可比指标将区域教育合作编织为新的超国家象征与功能政策场域
+> **探讨维度　超国家空间建构与象征资本竞争** 探讨超国家实体如何在缺乏法定集权的前提下，依托[[Data Infrastructure|数据基础设施]]建构起具备[[Commensuration|通约]]性与排位博弈特征的政策场域。
 
 > [!claim] Nóvoa and Lawn (2002) / [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
 > **[[European Education Space|欧洲教育空间]]作为超国家政策场域的建构** 诺沃亚与劳恩（Nóvoa & Lawn, 2002）以及索蒂里亚·格雷克（[[Sotiria Grek]]）指出，[[Pierre Bourdieu|布迪厄]]的场域概念可延伸至超国家教育治理。超国家机构通过数据基础设施、跨国专家流动与可比性指标（如 [[PISA]]），在缺乏统一宪制立法权的前提下，共同编织出具有通约性与可规制性的“欧洲教育空间”（[[European Education Space]]）。在这一新型超国家政策场域内部，跨国数据排名与评估指标转化为最高形式的象征资本，[[OECD|经合组织]]与[[European Commission|欧盟委员会]]等机构依据互补资源展开结盟与博弈，重塑了民族国家在教育治理中的客观位置。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–25, 34–35)]]
@@ -168,7 +161,7 @@ updated: 2026-10-25
 ---
 
 > [!contrast-table] 围绕场域形成的理论命题归纳
-> | 命题类型 | 核心指向 | 理论机制与关键[[Variable\|变量]] | 代表学者与文献 |
+> | 命题类型 | 核心指向 | 理论机制与关键[[Variable\|变量]] | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **自主性折射命题** | 场域相对自主性依赖对外部经济政治逻辑的折射能力 | 外部指标渗透、管理主义语言、自主评价权丧失 | [[Argument_Eacott_2011_JEAH\|Eacott (2011)]]; Blackmore (2010) |
 > | **习性博弈分化命题** | 行动者竞争策略与轨迹取决于先赋习性与场域资本的匹配度 | 文化资本差异、目标掌控 vs 直觉依赖、筹码兑换体系 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]; Bourdieu (1990) |

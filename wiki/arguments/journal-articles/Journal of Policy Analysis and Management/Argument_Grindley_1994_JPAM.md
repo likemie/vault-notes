@@ -26,6 +26,8 @@ related_concepts:
   - "[[Precompetitive Research]]"
   - "[[Absorptive Capacity]]"
   - "[[Industry Affiliate Program]]"
+  - "[[Document]]"
+  - "[[Heterogeneity]]"
   - "[[Pilot Scale Platform]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Reliability]]"
@@ -37,7 +39,6 @@ related_concepts:
   - "[[Engineering Education]]"
   - "[[Further Education]]"
   - "[[Variable]]"
-  - "[[Heterogeneity]]"
   - "[[Counterpart Funds]]"
   - "[[Innovation Ecosystem]]"
   - "[[Open-Mindedness]]"
@@ -69,14 +70,14 @@ sources:
 part_of: ""
 status: active
 created: 2026-10-04
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Grindley_1994_JPAM"
 argument_key: "Argument_Grindley_1994_JPAM"
 argument_display_title: "SEMATECH and collaborative research: Lessons in the design of high-technology consortia"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -127,7 +128,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **文献与档案样本** | [[Sematech]] 1988–1993 年度报告、项目总结档案、美国国防科学委员会（Defense Science Board, DSB）1987 年报告、美国半导体行业协会（Semiconductor Industry Association, SIA）报告及美日欧 16 个研发联盟官方资料。 |
+> | **[[Document\|文献]]与档案样本** | [[Sematech]] 1988–1993 年度报告、项目总结档案、美国国防科学委员会（Defense Science Board, DSB）1987 年报告、美国半导体行业协会（Semiconductor Industry Association, SIA）报告及美日欧 16 个研发联盟官方资料。 |
 > | **访谈对象构成** | 25+ 位关键知情人，涵盖 [[Sematech]] 核心管理层、出资芯片厂商派驻项目经理、中小半导体设备与材料供应商总裁及技术总监。 |
 > | **产业数据覆盖** | 1979–1992 年全球前十大商用半导体芯片厂商产销数据、全球前十大半导体制造设备供应商销售额，以及 1991–1992 年美、日、欧各区域半导体资本支出与设备采购变动。 |
 
@@ -148,10 +149,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　直接竞争对手横向研发受阻迫使 SEMATECH 转向纵向设备供应链协同
+> [!claim|step] 论证步骤一　直接竞争对手横向研发受阻迫使 SEMATECH 转向纵向设备供应链协同
 > [[Sematech]] 成立初期试图在各大芯片制造企业之间联合开发通用制造工艺配方，但因各企业严密防范核心机密以及各自产线技术差异过大而受阻；在行业领袖推动下，联盟果断调整方向，转为支持上游半导体制造装备与材料行业，建立芯片制造商与设备供应商之间的纵向协同网络，由此奠定了联盟的实际工作基础。
 
-#### 1. 商业保密壁垒与产线异质性导致直接竞争者难以共享核心制造工艺配方
+> [!sub-claim] 1. 商业保密壁垒与产线[[Heterogeneity|异质性]]导致直接竞争者难以共享核心制造工艺配方
 
 1987 年，面对日本企业在动态随机存取存储器（Dynamic Random Access Memory, DRAM）市场的全面领先，[[Department of Defense|美国国防部]][[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）联合 14 家美国大型芯片制造企业共同组建 [[Sematech]]。各方约定每年投入 2 亿美元研发资金（政府与企业各承担 1 亿美元），在得克萨斯州奥斯汀建设共性研发[[Pilot Scale Platform|中试基地]]。
 
@@ -188,7 +189,7 @@ issuing_organization: ""
 > | **技术成果转化途径**<br>Technology Transfer | 依靠奥斯汀示范工厂向外单向输出完整工艺流程包。 | 缺乏针对各厂具体情况的工艺包难以在成员企业产线落地，出资企业难以从中获得直接收益。 |
 > | **成员企业诉求分化**<br>Member Divergence | 假定所有成员对先进制程研发具有完全一致的利益需求。 | 主攻 DRAM 的美光科技认为联盟无法带来专属技术优势，中小规模的 LSI Logic 与哈里斯认为大企业主导了研发方向，三家企业随后相继退出了联盟。 |
 
-#### 2. 重构为面向中小设备商的纵向协同网络能够有效降低技术交易与测试成本
+> [!sub-claim] 2. 重构为面向中小设备商的纵向协同网络能够有效降低技术交易与测试成本
 
 在确认横向联合开发制造工艺受阻后，[[Sematech]] 在首任首席执行官罗伯特·诺伊斯（Robert Noyce，英特尔联合创始人）和继任者威廉·斯宾塞（William Spencer，前施乐帕罗奥多研究中心（Palo Alto Research Center, PARC）主管）的主导下果断进行战略调整，将研发重点由芯片制造端转向支持全行业上游的半导体制造装备与材料工业，通过纵向产业链协同化解同行竞争冲突。
 
@@ -199,7 +200,7 @@ issuing_organization: ""
 > - **编制国家半导体技术路线图（NTRS）** 1992 年由联盟牵头编制国家半导体技术路线图（National Technology Roadmap for Semiconductors, NTRS，即国际半导体技术路线图 International Technology Roadmap for Semiconductors, ITRS 的前身），明确全行业未来 5 至 15 年芯片线宽（0.35μm、0.25μm、0.18μm）的技术演进时间表，为设备商指明前瞻性研发目标。
 > - **推行全行业工程管理与评估工具（[[Cost of Ownership|COO]] / [[Total Quality Management|TQM]] / [[Statistical Process Control|SPC]]）** 广泛推行所有权成本（Cost of Ownership, COO）模型、全面质量管理（Total Quality Management, TQM）及统计过程控制（Statistical Process Control, SPC）方法，帮助中小设备商建立规范的工程化与[[Reliability|可靠性]]管理体系。
 
-#### 3. 工程师借调轮换、大学卓越中心（SCOE）与供应链质量培训构筑了技术扩散的人才与知识底座
+> [!sub-claim] 3. 工程师借调轮换、[[Sematech Centers of Excellence|大学卓越中心]]（SCOE）与供应链质量培训构筑了技术扩散的人才与知识底座
 
 联盟深刻认识到，尖端微电子制造技术本质上高度依赖“做中学”（[[Learning by Doing]]）中积累的非编码化工艺诀窍（[[Tacit Knowledge]]）；唯有通过人才深度流动、产学研分工与全产业链[[Engineering Education|工程教育]]，才能打通实验室研发到产线商业化的知识转化断层：
 
@@ -210,10 +211,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　美国半导体份额反超主因在于宏观周期与产品结构而非单一联盟干预
+> [!claim|step] 论证步骤二　美国半导体份额反超主因在于宏观周期与产品结构而非单一联盟干预
 > 1990 年代初美国半导体芯片与制造设备全球市场份额的反超，主要由日元大幅升值、日本泡沫经济破裂导致资本支出锐减以及个人电脑微处理器爆发等宏观因素驱动；不能将行业复苏单一归功于 [[Sematech]]，但应当肯定联盟在重建上下游互信、提升设备运转稳定性与制定技术标准上的实质作用，同时客观认识其无法挽救重资产严重落后领域的局限。
 
-#### 1. 日元升值、日本泡沫破裂致资本支出锐减与个人电脑微处理器爆发主导了美日份额逆转
+> [!sub-claim] 1. 日元升值、日本泡沫破裂致资本支出锐减与个人电脑微处理器爆发主导了美日份额逆转
 
 1992 年，美国半导体芯片与半导体制造设备的全球市场份额双双重回世界第一。政策界常将其视为 [[Sematech]] 政策干预的直接战果。然而，通过分析跨国宏观经济数据与行业贸易统计，这种单一因果解释明显夸大了研发联盟的作用。
 
@@ -271,7 +272,7 @@ issuing_organization: ""
 > | **设备实际采购额（按市场所在地）**<br>- 日本<br>- 美加（USA/Canada）<br>- 欧洲<br>- 亚太其他地区<br>- **全球总计** | <br>\$4.1 (46%)<br>\$2.7 (30%)<br>\$0.9 (11%)<br>\$1.2 (14%)<br>**\$8.9 (100%)** | <br>\$3.0 (37%)<br>\$2.8 (34%)<br>\$1.0 (13%)<br>\$1.2 (15%)<br>**\$8.1 (100%)** | <br>**-25%**<br>+3%<br>+11%<br>+2%<br>**-9%** |
 > | **SME 销售额（按供应商总部所在地）**<br>- 日本厂商<br>- 美加厂商<br>- 欧洲厂商<br>- 亚太其他厂商<br>- **全球总计** | <br>\$4.8 (45%)<br>\$5.0 (47%)<br>\$0.6 (5%)<br>\$0.3 (3%)<br>**\$10.7 (100%)** | <br>\$4.2 (41%)<br>\$5.2 (51%)<br>\$0.6 (5%)<br>\$0.3 (3%)<br>**\$10.2 (100%)** | <br>**-13%**<br>**+3%**<br>-5%<br>-1%<br>**-5%** |
 
-#### 2. SEMATECH 有效提升了在役设备可靠性与买卖互信，但无法挽救光刻机等重资产严重落后领域
+> [!sub-claim] 2. SEMATECH 有效提升了在役设备可靠性与买卖互信，但无法挽救光刻机等重资产严重落后领域
 
 在剥离宏观因素后，作者团队基于 11 项工程案例的细致考证，将 [[Sematech]] 的微观实践严格区分为**实质贡献（优势）** 与**能力边界（局限）** 两个维度：
 
@@ -288,10 +289,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　高技术研发联盟治理效能取决于近中期共性定位、纵向协同与产业自主议程
+> [!claim|step] 论证步骤三　高技术研发联盟治理效能取决于近中期共性定位、纵向协同与产业自主议程
 > 通过对比美、日、欧 16 个代表性高技术研发联合体，论文提炼出决定联盟运行绩效的核心治理特征，确立了指导高技术公私协同研发联盟的五大制度设计原则。
 
-#### 1. 欧洲分散伞状行政模式与美日集中工程调度模式形成鲜明治理绩效反差
+> [!sub-claim] 1. 欧洲分散伞状行政模式与美日集中工程调度模式形成鲜明治理绩效反差
 
 论文系统梳理了美日欧三地研发联盟在经费规模、政府出资比例、组织架构、管理层职能、集中研发基地与技术定位上的特征差异：
 
@@ -315,7 +316,7 @@ issuing_organization: ""
 > | **[[Sematech\|SEMATECH II]]** | 美国 | 1993–至今 | 约\$200/年 | 50% | 集中式项目管理 | 研发工程调度 | 是 | 11 家 | 半导体制造装备与通用标准 |
 > | **[[JESSI]]** | 欧洲 | 1989–1996 | \$4,000 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 数十家（70个项目） | 联合欧洲亚微米硅器件计划 |
 
-#### 2. 产业主导、近中期共性聚焦、人员借调与大学基础科研互补构成联盟五大设计准则
+> [!sub-claim] 2. 产业主导、近中期共性聚焦、人员借调与大学基础科研互补构成联盟五大设计准则
 
 基于案例分析与跨国对比，作者总结出指导高技术公私研发联盟制度设计的五大基本原则：
 

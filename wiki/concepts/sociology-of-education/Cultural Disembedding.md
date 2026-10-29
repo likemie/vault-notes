@@ -13,7 +13,7 @@ related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-05-09'
-updated: 2026-10-22
+updated: 2026-10-29
 tags:
   - cultural-disembedding
   - higher-education
@@ -23,6 +23,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Champ]]"
+  - "[[Habitus]]"
   - "[[Discourse]]"
   - "[[The Shock of the Elite]]"
   - "[[Cultural Disorientation]]"
@@ -31,7 +32,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Cultural Hierarchy]]"
   - "[[Sense of Shame]]"
-  - "[[Habitus]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -46,7 +46,7 @@ related_arguments:
 ---
 
 > [!def] Cultural Disembedding
-> 文化脱嵌（Cultural Disembedding），指个体或群体在进入或面对某一特定的主导文化[[Champ\|场域]]（如精英大学、国家学校课程或主流体制）时，因其原本内化的语言、习俗、信仰与生活习惯（习性）与该场域认定的“默认常识”或“官方正统”相脱节，从而产生的强烈疏离感、不适应与身份断裂（Bourdieu & Wacquant, 1992; Lamont et al., 2015; [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023, p. 115]]; [[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p. 71]]）。
+> 文化脱嵌（Cultural Disembedding），指个体或群体在进入或面对某一特定的主导文化[[Champ\|场域]]（如精英大学、国家学校课程或主流体制）时，因其原本内化的语言、习俗、信仰与生活习惯（[[Habitus|习性]]）与该场域认定的“默认常识”或“官方正统”相脱节，从而产生的强烈疏离感、不适应与身份断裂（Bourdieu & Wacquant, 1992; Lamont et al., 2015; [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023, p. 115]]; [[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p. 71]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指指向行动者在其文化属性与制度化场域的默认规范不匹配时所体验到的主客观疏离现象。
@@ -97,20 +97,16 @@ related_arguments:
 
 ---
 
-### 命题一　寒门学子进入精英大学面临微观环境与社交语码的短期文化脱嵌
-
-> [!concept-lens] 精英大学[[Champ\|场域]]与阶层[[Cultural Barrier\|文化障碍]]
-> 探讨弱势阶层学生在进入精英高等教育时所经历的初级适应危机。
+> [!concept-proposition] 命题一｜寒门学子进入精英大学面临微观环境与社交语码的短期文化脱嵌
+> **探讨维度　精英大学[[Champ\|场域]]与阶层[[Cultural Barrier\|文化障碍]]** 探讨弱势阶层学生在进入精英高等教育时所经历的初级适应危机。
 
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]
 > **第一代大学生的文化脱嵌体验** [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] 提出文化脱嵌是寒门学子面临的第一重文化障碍。学生在进入精英大学后，感受到物理空间（大都市交通、选课系统）与社交[[Discourse|话语]]（无法用精英同学熟悉的语码表达）的全面陌生感，并伴随着[[Sense of Shame\|羞耻感]]。这一障碍偏向短期，随着同伴支持、组织整合与校园生活的累积，多数学生可在一年内逐步缓解[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 115–120)]]。
 
 ---
 
-### 命题二　少数民族与信教学生在汉儒中心课程中面临结构性与制度性的宏观文化脱嵌
-
-> [!concept-lens] 国家课程、[[Official Knowledge\|官方知识]]与民族边缘化
-> 探讨学校课程单向度推行主导文化时，如何在边缘少数族群中引发长期的身份疏离。
+> [!concept-proposition] 命题二｜少数民族与信教学生在汉儒中心课程中面临结构性与制度性的宏观文化脱嵌
+> **探讨维度　国家课程、[[Official Knowledge\|官方知识]]与民族边缘化** 探讨学校课程单向度推行主导文化时，如何在边缘少数族群中引发长期的身份疏离。
 
 > [!claim] [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]]
 > **官方课程中的国族文化脱嵌** [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 将文化脱嵌延伸至国家课程研究。217 册必修教材将“中国文化”系统等同于汉族儒家传统，而缺乏对少数民族与宗教文化的实质代表。这种[[Official Knowledge\|官方知识]]塑造导致少数民族和信教学生在接受课程时产生制度性的文化脱嵌——他们虽身在中国学校，却感到课程呈现的“中国性”极度陌生且排斥自身认同。约 86% 的边缘学生因此产生反思，拒斥官方的儒家垄断地位[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 68–71)]]。
@@ -120,7 +116,7 @@ related_arguments:
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 场域层级 | 机制与后果 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **微观阶层脱嵌** | 微观机构（精英大学） | 习性与语码不匹配；短期疏离与同伴调适 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
+> | **微观阶层脱嵌** | 微观机构（精英大学） | [[Habitus\|习性]]与语码不匹配；短期疏离与同伴调适 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
 > | **宏观国族脱嵌** | 宏观制度（国家学校课程） | 汉儒正统抹平多元；结构性排斥与反思抵抗 | [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] |
 
 ---

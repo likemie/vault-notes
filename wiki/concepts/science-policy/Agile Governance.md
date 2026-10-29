@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-29
 title: Agile Governance
 aliases:
   - 敏捷治理
@@ -131,30 +131,24 @@ aliases:
 
 ---
 
-### 命题一　敏捷治理是公共部门克服新公共管理行政去技能化的核心制度路径
-
-> [!concept-lens] 国家能力重构与[[Cognitive Deskilling|去技能化]]反思维度
-> 探讨如何通过在公共体系内部建立敏捷软件与服务设计能力，摆脱对外部大型咨询寡头的病态依赖。
+> [!concept-proposition] 命题一｜敏捷治理是公共部门克服[[New Public Management|新公共管理]]行政[[Cognitive Deskilling|去技能化]]的核心制度路径
+> **探讨维度　国家能力重构与[[Cognitive Deskilling|去技能化]]反思维度** 探讨如何通过在公共体系内部建立敏捷软件与服务设计能力，摆脱对外部大型咨询寡头的病态依赖。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **内化技术专才终结外部锁定** [[New Public Management|新公共管理]]推行数十年的全面外包，导致政府内部丧失了对复杂技术与数字化系统的理解力和判断力；以英国 [[Government Digital Service|GDS]] 为代表的敏捷治理实践证明，唯有在公共体系内部建立敏捷软件工程与服务设计能力，政府才能摆脱大型咨询寡头的[[Consultocracy|顾问统治]]，重塑现代国家的行政层级动态能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
 
 ---
 
-### 命题二　敏捷试错构成了“引领与学习范式”得以落地的微观操作方法论
-
-> [!concept-lens] 治理[[Paradigm|范式]]与操作工具维度
-> 审视宏观战略愿景如何通过基层的自适应实验与实证反馈机制转化为具体的政策效能。
+> [!concept-proposition] 命题二｜敏捷试错构成了“[[Lead-and-Learn Paradigm|引领与学习范式]]”得以落地的微观操作方法论
+> **探讨维度　治理[[Paradigm|范式]]与操作工具维度** 审视宏观战略愿景如何通过基层的自适应实验与实证反馈机制转化为具体的政策效能。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **试错实验连接宏观引领与微观学习** 应对 21 世纪重大社会挑战既需要国家在宏观上设立明确的方向性（引领 / Lead），又需要公共部门在微观上具备从错误和反馈中快速调整的能力（学习 / Learn）；敏捷治理通过原型迭代与实验反馈，在不确定的技术与社会环境中建立起制度化的学习通道，为[[Lead-and-Learn Paradigm|引领与学习范式]]提供了微观组织保障。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
 
 ---
 
-### 命题三　敏捷工程思维以自底向上的快速试错与免责归因终结自顶向下的教条主义僵化规划
-
-> [!concept-lens] [[Epistemology|认识论]]转向与组织纠错维度
-> 探讨如何以[[Engineering Pragmatism|工程实用主义]]和实战反馈取代削足适履的教条[[Determinism|决定论]]体系。
+> [!concept-proposition] 命题三｜敏捷[[Engineering Mindset|工程思维]]以自底向上的快速试错与免责归因终结自顶向下的教条主义僵化规划
+> **探讨维度　[[Epistemology|认识论]]转向与组织纠错维度** 探讨如何以[[Engineering Pragmatism|工程实用主义]]和实战反馈取代削足适履的教条[[Determinism|决定论]]体系。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]]
 > **代码实战检验破除刺猬型教条** 官僚体系常陷于自顶向下的决定论蓝图，在面对不可预测的技术现实时固执己见，将失败归咎于执行者而非模型本身的缺陷；敏捷[[Engineering Mindset|工程思维]]要求组织同构于敏锐的“狐狸”，以运行代码与物理世界的真实反馈为唯一裁判标准，依靠[[Five Whys|五问法]]开展免除个人指责的根因复盘，以数天乃至数小时的极高速度放弃无效路径并重构团队，从而赋予国家治理在生死博弈中持续演化的敏捷生命力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–163)]]

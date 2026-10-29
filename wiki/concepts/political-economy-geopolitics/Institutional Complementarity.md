@@ -19,8 +19,8 @@ tags:
   - theory/historical-institutionalism
 related_concepts:
   - "[[Structural Coupling]]"
+  - "[[Document]]"
   - "[[Institutional Layering]]"
-  - "[[Institutional Conversion]]"
   - "[[Patient Capital]]"
   - "[[Subversives]]"
   - "[[Opportunists]]"
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -58,9 +58,9 @@ updated: 2026-10-22
 > - **边界** 不等于所有制度要素必须严格自洽的刚性闭环；不能将制度共存简单等同于功能互补，忽视制度间的张力与内在矛盾。
 
 > [!citation-card] 制度互补性及其功能主义陷阱
-> 资本主义多样性文献倾向于将制度互补性描绘为高度精密、自成一体的均衡闭环。在这种功能主义视野下，任何局部变迁都会导致整个体制失衡，从而推导出体制要么整体保持连续性、要么在外生巨变下全盘崩溃的极端断言。然而现实中的政治经济制度从来不是完全连贯的钟表机械，制度之间的摩擦与松弛恰恰为渐进重构提供了可能。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6)]]
+> 资本主义多样性[[Document|文献]]倾向于将制度互补性描绘为高度精密、自成一体的均衡闭环。在这种功能主义视野下，任何局部变迁都会导致整个体制失衡，从而推导出体制要么整体保持连续性、要么在外生巨变下全盘崩溃的极端断言。然而现实中的政治经济制度从来不是完全连贯的钟表机械，制度之间的摩擦与松弛恰恰为渐进重构提供了可能。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6)]]
 >
-> *Contemporary scholarship on varieties of capitalism has often fallen into a functionalist trap by treating institutional complementarity as a tightly integrated equilibrium system ... Such frameworks are singularly ill-equipped to capture significant ongoing transformations that proceed through incremental [[Institutional Layering|layering]] and [[Institutional Conversion|conversion]] without systemic breakdown.*
+> *Contemporary scholarship on varieties of capitalism has often fallen into a functionalist trap by treating institutional complementarity as a tightly integrated equilibrium system ... Such frameworks are singularly ill-equipped to capture significant ongoing transformations that proceed through incremental [[Institutional Layering|layering]] and conversion without systemic breakdown.*
 
 > [!boundary]- 概念边界
 > - 不等于机械功能论意义上的系统整合 — 传统系统论将互补性视为各部件完全协调服务于系统生存；历史制度主义指出制度互补往往是历史妥协的副产品，内部充斥着相互冲突的规制逻辑。
@@ -108,20 +108,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　不同子系统的制度互补性能够产生比较制度优势并强化路径依赖
-
-> [!concept-lens] 制度协同与稳态锁定
-> 探讨发达资本主义国家为何在经济全球化竞争中未发生制度单一化趋同，反而各自强化了特有的协调模式。
+> [!concept-proposition] 命题一｜不同子系统的制度互补性能够产生比较制度优势并强化[[Path Dependence|路径依赖]]
+> **探讨维度　制度协同与稳态锁定** 探讨发达资本主义国家为何在经济全球化竞争中未发生制度单一化趋同，反而各自强化了特有的协调模式。
 
 > [!claim] [[Peter A. Hall|Hall, P. A.]] & Soskice, D.
 > **互补性诱发比较制度优势** 霍尔与索斯基斯论证，一国的微观经济制度并非互不相干的独立[[Variable|变量]]。在协调市场经济（CME）中，关系型银行融资、行业级集体谈判、共同决定制与[[German Dual Education System|双元制]]职业培训相互支撑，使企业能够承担对专用性资产的长期投资；而在[[Varieties of Capitalism|自由市场经济]]（LME）中，流动性资本市场与弹性劳动力市场相互匹配，便于快速重组资源。这种制度互补性使不同国家在不同的产业与创新形态中获得了比较优势，从而产生了强大的自强化报酬递增与[[Path Dependence|路径依赖]]锁定效应。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–5)]]
 
 ---
 
-### 命题二　现实中的制度互补性充满逻辑不一致与松弛空间，允许行动者推行局部自由化重构
-
-> [!concept-lens] 制度松弛与演化重组
-> 揭示现实中的互补性体制为何在法律连续的外壳下，依然能够容纳深刻的内生制度演化与结构重组。
+> [!concept-proposition] 命题二｜现实中的制度互补性充满逻辑不一致与松弛空间，允许行动者推行局部[[Liberalization|自由化]]重构
+> **探讨维度　制度松弛与演化重组** 揭示现实中的互补性体制为何在法律连续的外壳下，依然能够容纳深刻的内生制度演化与结构重组。
 
 > [!claim] [[Wolfgang Streeck|Streeck, W.]] & [[Kathleen Thelen|Thelen, K.]]
 > **突破超稳定功能主义神话** 施特雷克与希伦深刻批判了将制度互补性视为超稳定闭环的偏误。他们指出，没有任何现代经济的制度安排能够做到绝对的内在一致。恰恰相反，体制内部时刻充满着不同历史妥协遗留下来的不一致性与张力。当企业面临全球市场压力时，行动者并不需要颠覆整个互补性大厦，而是会主动利用制度边界处的“松弛”（Slack），向外围层叠灵活用工，或是将既有协调机制转换为市场化重组工具。因此，协调市场经济内部发生的广泛[[Liberalization|自由化]]演进，正是建立在对互补性制度的局部重构与功能侵蚀之上。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 19–21, 31–33)]]
@@ -157,4 +153,4 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 批判[[Varieties of Capitalism|资本主义多样性]]文献中的制度互补性静态偏误，提出基于制度松弛、杂糅与层叠的渐进演化模型（pp. 4–6, 19–22）。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 批判[[Varieties of Capitalism|资本主义多样性]][[Document|文献]]中的制度互补性静态偏误，提出基于制度松弛、杂糅与层叠的渐进演化模型（pp. 4–6, 19–22）。

@@ -39,9 +39,11 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Homework]]"
   - "[[Epistemic Responsibility]]"
+  - "[[Epistemic Dependence]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Text Generation]]"
   - "[[AI Hallucination]]"
+  - "[[Document]]"
   - "[[Metacognition]]"
   - "[[Open-Mindedness]]"
   - "[[Discourse]]"
@@ -83,14 +85,14 @@ sources:
 part_of:
 status: active
 created: 2026-09-22
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Wu_2025_ER"
 argument_key: "Argument_Wu_2025_ER"
 argument_display_title: "Strengthening human epistemic agency in the symbiotic learning partnership with generative artificial intelligence"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -158,16 +160,16 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　生成式人工智能打破传统教学系统模式，要求确立人机共享认识能动性与自适应认识立场
+> [!claim|step] 论证步骤一　生成式人工智能打破传统教学系统模式，要求确立人机共享认识能动性与自适应认识立场
 > [[Generative Artificial Intelligence\|生成式人工智能]]打破了传统基于预设规则与固定路径的教学系统模式，能够直接输出高度整合且连贯的知识解答；若缺乏主动反思，学习者面临让渡认知控制权的风险，因此必须将人机交互重塑为双方共同承担[[Epistemic Responsibility\|认知责任]]的共享[[Epistemic Agency\|认识能动性]]系统。
 
-#### 1. 生成式大模型输出的即时完整性容易诱发认知卸载与认识依赖
+> [!sub-claim] 1. 生成式大模型输出的即时完整性容易诱发认知卸载与[[Epistemic Dependence|认识依赖]]
 
 与传统[[Intelligent Tutoring Systems|智能教学系统]]（Intelligent Tutoring Systems, ITS）通常依赖预设规则、结构化题库和固定分支路径来提供反馈不同，新型生成式人工智能展现出高度流畅的多轮自然语言对话、开放式[[Text Generation|文本生成]]与逻辑推理推演能力。例如，由可汗学院开发的专用教学系统 [[Khanmigo]] 深度融合了[[Socrates|苏格拉底]]追问法与检索增强生成（RAG），但通用大模型若缺乏专门设计，则极易给学习者的认知加工带来严重冲击。
 
 > [!feature] 生成式人工智能介入教育的双重效应与认知危机
 > - **多轮对话与拟人化支持** 能够依据学习者的模糊提问即时给出条理清晰、步骤详尽的整合性解答，极大地降低了寻找分散资料的时间成本。
-> - **算法幻觉与虚假事实扩散** 大语言模型的概率生成机制伴随着算法幻觉（[[AI Hallucination]]），可能生成看似言之成理却完全错误的虚假推论或伪造文献。
+> - **算法幻觉与虚假事实扩散** 大语言模型的概率生成机制伴随着算法幻觉（[[AI Hallucination]]），可能生成看似言之成理却完全错误的虚假推论或伪造[[Document|文献]]。
 > - **[[Cognitive Offloading\|认知卸载]]与能动性让渡** 当机器能够一键交付完整答案包时，容易诱发认知卸载（Cognitive Offloading），使学习者跳过矛盾辨析与逻辑论证，削弱[[Epistemic Agency\|认识能动性]]（Epistemic Agency）。
 
 从交互模式与认知负荷的角度审视，两类技术系统在底层逻辑与[[Epistemology|认识论]]风险上存在显著差异：
@@ -180,7 +182,7 @@ issuing_organization: ""
 > | **内容输出** | 预设题解、预定义提示与确定性知识路径 | 即时生成的段落解释、代码推演与概率性内容整合 |
 > | **潜在认识论风险** | 学习路径机械僵化、缺乏灵活性 | 输出表面连贯掩盖事实错误，诱发认知卸载与盲目依赖 |
 
-#### 2. 人机协同超越单向工具操控，必须确立人机共享认识能动性并保留人类最终裁决权
+> [!sub-claim] 2. 人机协同超越单向工具操控，必须确立人机共享认识能动性并保留人类最终裁决权
 
 针对[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）在人工智能教育能力框架中强调的人类能动性要求，人机交互绝不能停留在人类下达指令、机器返回答案的单向工具操控模式。借用 [[Marlene Scardamalia|玛琳·斯卡达玛利亚]]（Marlene Scardamalia） 与 Bereiter（2006）关于认识能动性的经典界定，学习者必须在设定目标、选择策略与评价成果的全链条中享有实质自主权，因此人机交互应被重新定义为共生学习伙伴关系（Symbiotic Learning Partnership）。
 
@@ -194,10 +196,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　学习者的认识立场与先验知识决定其能否有效利用生成式模型开展批判性建构（修订蔡今中假说一）
+> [!claim|step] 论证步骤二　学习者的认识立场与先验知识决定其能否有效利用生成式模型开展批判性建构（修订蔡今中假说一）
 > 修订 Tsai (2004) 关于网络学习认识论的第一假说：学习者从生成式人工智能中获得的认知增益由其认识立场、先验知识与知识辩护方式所决定；先验知识丰富且持评价论立场的学习者能够实现深度理解，而缺乏先验知识且持绝对论立场的学习者容易陷入权威盲信。
 
-#### 1. 修订蔡今中网络学习第一假说：生成式环境下知识获取效益由认识立场与先验知识共同决定
+> [!sub-claim] 1. 修订蔡今中网络学习第一假说：生成式环境下知识获取效益由认识立场与先验知识共同决定
 
 在互联网教育兴起初期，[[Chin-Chung Tsai|蔡今中]]（Tsai, 2004）曾提出经典命题，指出不同[[Epistemological Beliefs|认识论信念]]的学习者从网络教学中的获益存在显著差异。生成式大模型的普及彻底改变了信息组织与交互形态，推动了该假说的时代重构。
 
@@ -207,7 +209,7 @@ issuing_organization: ""
 > - **生成式大模型环境下的修订命题（Modified Assertion 1）**
 >   大模型直接交付完整答案包。持有评价论且先验知识丰富者将输出视作工作假设并展开多轮压力测试；持有绝对论且缺乏先验知识者将其视作全知权威并直接照搬。
 
-#### 2. 三位学生的统计推论微观案例证实：高阶认识立场与丰富先验知识是抵御算法盲从的关键
+> [!sub-claim] 2. 三位学生的统计推论微观案例证实：高阶认识立场与丰富先验知识是抵御算法盲从的关键
 
 在高级统计学研究生课堂中，通过采集并分析三位具有不同先验知识与认识立场的学生（Student A, Student B, Student C）在完成真实复杂统计[[Homework|作业]]时与 ChatGPT 的多轮对[[Discourse|话语]]料，为该理论命题提供了微观实证检验。
 
@@ -256,10 +258,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　频繁的人机交互无法自发带来认识论成熟，必须结合溯源教学支架与技术提示策略推动立场向评价论演进（修订蔡今中假说二）
+> [!claim|step] 论证步骤三　频繁的人机交互无法自发带来认识论成熟，必须结合溯源教学支架与技术提示策略推动立场向评价论演进（修订蔡今中假说二）
 > 修订 Tsai (2004) 第二假说：单纯频繁使用生成式人工智能无法自发促进认识立场成熟；唯有将人机持续互动与跨源核验的教学反思支架及角色扮演、[[Chain-of-Thought Prompting\|思维链]]等技术策略相结合，才能推动学习者由绝对论向评价论稳步演进。
 
-#### 1. 修订蔡今中网络学习第二假说：缺乏反思机制的频繁交互容易固化绝对论盲从
+> [!sub-claim] 1. 修订蔡今中网络学习第二假说：缺乏反思机制的频繁交互容易固化绝对论盲从
 
 蔡今中（Tsai, 2004）在探讨网络教学时提出的第二假说认为：学习者在网络环境中的长期探索与信息碰撞，会反向重塑其认识论信念，促进其向[[Constructivist Paradigm|建构主义]]与高阶认识论演进。然而，在生成式人工智能环境下，这种演进具有严格的条件依赖性。虽然生成式 AI 的拟人化与去评价威胁特征为学习者提供了低心理门槛的[[Academic Help-Seeking|学业求助]]（Academic Help-Seeking）环境，消解了因害怕暴露愚蠢而不敢提问的求助恐惧；但若缺乏显性反思引导，单纯的频繁交互极易异化为机械依赖。
 
@@ -267,7 +269,7 @@ issuing_organization: ""
 > - **算法依赖与认识怠惰** 由于大模型能够源源不断地提供格式工整的现成答案，缺乏元认知监控的学生会逐渐形成提问后直接复制的习惯性依赖，进一步强化凡事皆有标准答案且机器知晓一切的绝对论信念。
 > - **认识论重塑的触发契机** 只有当教学环境刻意设计了检验与反思任务，让学生在人机交互中直面模型的逻辑破绽、事实幻觉与概率不确定性时，学生才能深刻意识到知识的可错性与建构性，进而激发从绝对论向多元论乃至评价论演进的内在动力。
 
-#### 2. 溯源核验教学设计与角色扮演、思维链技术提示共同构建促成深层理解的双轨干预路径
+> [!sub-claim] 2. 溯源核验教学设计与角色扮演、思维链技术提示共同构建促成深层理解的双轨干预路径
 
 为了防范认知卸载、捍卫人类的[[Epistemic Agency|认识能动性]]，并促进学习者认识立场向评价论稳步演进，文章构建了一套由教学设计支架与技术提示策略相互支撑的双轨干预体系。
 

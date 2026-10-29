@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育与全球治理研究中考察国际大规模评估起源的分析概念，指跨国组织在测试工具正式施测前开展的范式设定、议题界定、技术招标与试题编制过程；测验生产早期是跨国组织确立专业威权、固定能力定义并向成员国转移评价技术的关键政治场域。"
 type: concept
 domain: "comparative-education"
-related_count: 10
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,8 +24,10 @@ related_concepts:
   - "[[Construct]]"
   - "[[Epistemic Community]]"
   - "[[Technical Rationality]]"
+  - "[[Champ]]"
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
+  - "[[Politics of Knowledge]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -39,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -83,20 +85,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　测验生产早期是跨国组织转移评价制度微观实践的关键场域
-
-> [!concept-lens] 政策转移的前置发生
-> 该命题探讨全球教育治理中政策转移发生的时间节点，主张评价[[Paradigm|范式]]的同质化在工具生产过程中便已通过具体操作规程渗透至参测系统。
+> [!concept-proposition] 命题一｜测验生产早期是跨国组织转移评价制度微观实践的关键[[Champ|场域]]
+> **探讨维度　政策转移的前置发生** 该命题探讨全球教育治理中政策转移发生的时间节点，主张评价[[Paradigm|范式]]的同质化在工具生产过程中便已通过具体操作规程渗透至参测系统。
 
 > [!claim] Morgan & Shahjahan
 > **评价实践的前置转移** 跨国组织在研制国际测验时，要求各国专家遵循严格统一的题项编写与任务分解规则，通过试题研制微观规程将脱离特定课程的通用素养确立为通用标准，使参测国在测验尚未正式发布前就已全面内化了跨国机构的评价逻辑与操作技术。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 197–198)]]
 
 ---
 
-### 命题二　测验生产过程具有高度脆弱性并受制于跨文化适应与财政资源
-
-> [!concept-lens] 跨国评估研制的技术与政治张力
-> 该命题反思测验生产的均质化假设，揭示当跨国组织试图将单一文化背景下的成熟工具强行照搬至全球范围时必然遭遇的合法性危机。
+> [!concept-proposition] 命题二｜测验生产过程具有高度脆弱性并受制于跨文化适应与财政资源
+> **探讨维度　跨国评估研制的技术与政治张力** 该命题反思测验生产的均质化假设，揭示当跨国组织试图将单一文化背景下的成熟工具强行照搬至全球范围时必然遭遇的合法性危机。
 
 > [!claim] Morgan & Shahjahan
 > **直接照搬导致的生产挫折** 测验生产具有高度的政治与技术复杂性，缺乏充分本土协商与跨文化框架适配的直接移植极易导致测量失效；在缺乏充足财政支持与文化共识的高等教育等领域，测验生产会激化专业学者与行政官僚之间的深层矛盾。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–202)]]
@@ -106,7 +104,7 @@ updated: 2026-10-22
 > [!dev-timeline] 从结果考察向生产机制的转向
 > - **1990 年代至 2000 年代初 — 聚焦[[Policy Borrowing|政策借用]]与排名冲击** 学界多集中于 [[PISA]] 排名引发的国内危机叙事与政策借用现象，视测评工具为既定前提。
 > - **2010 年代 — 解构测验研发的政治社会学** 学者开始深入[[OECD|经合组织]]内部工作档案与会议备忘录，揭示测评标准与技术框架在研发初期如何被战略性建构。
-> - **2014 年至今 — 多项目比较与地缘知识政治剖析** 通过对比基础教育与高等教育等不同测评项目的生产历程，系统揭示跨国组织在全球教育治理中的认知与制度扩张路径。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 192–194)]]
+> - **2014 年至今 — 多项目比较与地缘[[Politics of Knowledge|知识政治]]剖析** 通过对比基础教育与高等教育等不同测评项目的生产历程，系统揭示跨国组织在全球教育治理中的认知与制度扩张路径。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 192–194)]]
 
 ---
 

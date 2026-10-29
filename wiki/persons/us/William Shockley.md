@@ -10,10 +10,10 @@ summary: "美籍物理学家与发明家，1956 年诺贝尔物理学奖得主�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 7
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 13
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1910"
 died: "1989"
 lifespan: "1910–1989"
@@ -23,17 +23,23 @@ tags:
   - theme/solid-state-physics
   - theme/science-policy
 related_concepts:
+  - "[[Scientific Productivity]]"
+  - "[[Co-invention]]"
+  - "[[Variable]]"
+  - "[[Paradigm]]"
+  - "[[Competitiveness]]"
   - "[[Research Topic]]"
-  - "[[Causality]]"
-related_theories:
-  - "[[Shockley's Multiplicative Hurdle Model]]"
+related_theories: []
 related_methods:
   - "[[Bibliometric Analysis]]"
-  - "[[Quantitative Research]]"
+  - "[[Shockley's Multiplicative Hurdle Model]]"
 related_instruments: []
 related_persons: []
 related_facts:
   - "[[National Academy of Sciences]]"
+  - "[[Bell Labs]]"
+  - "[[CREATES Project]]"
+  - "[[Fairchild Semiconductor]]"
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
 confidence: high
@@ -45,14 +51,14 @@ updated: 2026-10-29
 ---
 
 > [!person-profile] 人物档案
-> - **身份位置** 美籍物理学家、发明家与科学计量学者，美国国家科学院院士，曾任贝尔实验室固态物理研究组主管与斯坦福大学讲席教授。
-> - **核心角色** 半导体电子学与早期微观科学学的双重奠基人；在科学计量学领域开创了运用微观认知关卡与概率统计解析科研生产力非均衡分布的理论传统。
-> - **代表贡献** 共同发明双极结型晶体管并获 1956 年诺贝尔物理学奖；1957 年确立科研产出的对数正态分布并提出八重科研关卡的乘法跨栏模型（[[Shockley's Multiplicative Hurdle Model]]）。
+> - **身份位置** 美籍物理学家、发明家与[[Bibliometric Analysis|科学计量学]]者，[[National Academy of Sciences|美国国家科学院]]院士，曾任[[Bell Labs|贝尔实验室]]固态物理研究组主管与斯坦福大学讲席教授。
+> - **核心角色** 半导体电子学与早期微观科学学的双重奠基人；在科学计量学领域开创了运用微观认知关卡与概率统计解析[[Scientific Productivity|科研生产力]]非均衡分布的理论传统。
+> - **代表贡献** [[Co-invention|共同发明]]双极结型晶体管并获 1956 年诺贝尔物理学奖；1957 年确立科研产出的对数正态分布并提出八重科研关卡的[[Shockley's Multiplicative Hurdle Model|乘法跨栏模型]]（[[Shockley's Multiplicative Hurdle Model]]）。
 
 > [!citation-card] 肖克利论科研生产力的概率连乘机制
 > 大多数心理学能力在群体中呈现正态高斯分布，单一生理技能的顶尖差距往往不足百分之一；而科研产出的巨大鸿沟在于发表是一系列必须同时满足的独立条件的联合事件，各环节微幅优势的连乘积直接决定了科学家的累积学术产出。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 13–14)]]
 >
-> *Most traits vary normally... but publication requires the simultaneous satisfaction of a series of independent conditions. The multiplicative combination of small advantages in each factor creates enormous differences in overall output.*
+> *Most traits vary normally... but publication requires the simultaneous satisfaction of a series of independent conditions. The multiplicative combination of small advantages in each factor [[CREATES Project|creates]] enormous differences in overall output.*
 
 ---
 
@@ -78,7 +84,7 @@ updated: 2026-10-29
 > 科研生产力极度右偏厚尾的宏观分布根源于研究全流程中多项独立微观能力的概率连乘效应。由发现好问题、持续攻关、撰写成稿到投稿抗挫等构成的八重关卡，任何单一环节的短板都会使产出归零，而每个维度的微小领先连乘后则会指数级拉开总产量差距。加法式的薪酬补偿体制难以匹配乘法式的科研生产力，促使高水平研究机构高溢价延揽顶尖多产领军人才。
 
 > [!citation-card] 肖克利论科研生产力分布的数学形式
-> 经验数据显示科学家发表产出符合对数正态分布特征。当影响产出的诸多因素呈倍数相乘关系时，取对数后的变量服从高斯正态分布，因而在原始产出尺度上呈现出极度偏斜的长尾形态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 11–12)]]
+> 经验数据显示科学家发表产出符合对数正态分布特征。当影响产出的诸多因素呈倍数相乘关系时，取对数后的[[Variable|变量]]服从高斯正态分布，因而在原始产出尺度上呈现出极度偏斜的长尾形态。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 11–12)]]
 >
 > *The distribution of publication rates is lognormal rather than normal. When the underlying factors affecting output act multiplicatively, their logarithms add up, yielding a normal distribution in the logarithmic domain and extreme skewness in output.*
 
@@ -86,7 +92,7 @@ updated: 2026-10-29
 
 > [!influence-path] 影响路径
 > - **理论路径** 肖克利八重跨栏模型首次搭建起连接微观个体心理认知技能与宏观科学计量极端长尾分布的数理桥梁，启发后续关于学术分化机理的研究。
-> - **方法路径** 推动计量学界采用连续对数正态分布拟合个体科研产出，拓展了此前仅依靠离散经验幂律的单一范式。
+> - **方法路径** 推动计量学界采用连续对数正态分布拟合个体科研产出，拓展了此前仅依靠离散经验幂律的单一[[Paradigm|范式]]。
 > - **政策路径** 揭示出传统平均主义薪酬结构与科研人员实际指数级边际价值创造之间的错配，为现代研发机构建立基于产出溢价的弹性激励体制提供了理论参考。
 
 > [!evidence-grid-a] 相关研究索引
@@ -96,8 +102,8 @@ updated: 2026-10-29
 
 > [!debates] 学术争议
 >
-> > [!axis] 管理威权与仙童半导体创立风波
-> > 肖克利在半导体实验室推行的严苛微观管理导致罗伯特·诺伊斯、戈登·摩尔等核心技术骨干出走创办仙童半导体，此举虽然削弱了其本人企业的商业竞争力，却在客观上点燃了硅谷初创企业文化与风险投资浪潮。
+> > [!axis] 管理威权与[[Fairchild Semiconductor|仙童半导体]]创立风波
+> > 肖克利在半导体实验室推行的严苛微观管理导致罗伯特·诺伊斯、戈登·摩尔等核心技术骨干出走创办仙童半导体，此举虽然削弱了其本人企业的商业[[Competitiveness|竞争力]]，却在客观上点燃了硅谷初创企业文化与风险投资浪潮。
 > >
 > > - **科学史共识（1990s）** 肖克利在学术和技术构思上极具洞见，但其威权主义管理哲学与偏执风格成为组织失败的典型案例。
 >
@@ -112,5 +118,5 @@ updated: 2026-10-29
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Shockley's Multiplicative Hurdle Model]] | 理论 | 提出八重科研关卡能力概率连乘模型与对数正态分布。 |
+> | [[Shockley's Multiplicative Hurdle Model]] | 方法 | 提出八重科研关卡能力概率连乘模型与对数正态分布。 |
 > | [[Research Topic]] | 概念 | 将“发现好问题”确立为跨栏模型的第一道关键认知筛选关卡。 |

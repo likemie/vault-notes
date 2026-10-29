@@ -32,10 +32,10 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Directionality of Innovation]]"
   - "[[Patient Capital]]"
+  - "[[Reflexivity]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Big Science]]"
   - "[[Wicked Problem]]"
-  - "[[Reflexivity]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Operationalization]]"
 related_theories:
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -110,40 +110,32 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　引领与学习范式是破解现代公共政策复杂性悖论的核心治理路径
-
-> [!concept-lens] 政策复杂性与组织协调维度
-> 探讨现代政府面对复杂交织议题时如何避免退守部门壁垒与行政碎片化。
+> [!concept-proposition] 命题一｜引领与学习[[Paradigm|范式]]是破解[[Complexity Paradox|现代公共政策复杂性悖论]]的核心治理路径
+> **探讨维度　政策复杂性与组织协调维度** 探讨现代政府面对复杂交织议题时如何避免退守部门壁垒与行政碎片化。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **化解[[Complexity Paradox|复杂性悖论]]** 现代公共政策面临深刻的[[Complexity Paradox|复杂性悖论]]（Sweeney, 1985）：议题越复杂，行政机构越倾向于通过条块分割和细化规则来规避风险，导致跨部门协调机制全面失效。引领与学习[[Paradigm|范式]]通过设立具备统摄力与高辨识度的重大战略使命（Lead），将分散的部门规程重新锚定于共同目标，并依托跨部门[[Internet-Based Experiments|网络实验]]（Learn）打破条块分割，从根本上化解协调失灵。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 800)]]
 
 ---
 
-### 命题二　克服新公共管理青蛙视角要求政策评估从机械计量转向反思性系统学习
-
-> [!concept-lens] 政策评估与组织学习维度
-> 探讨如何破除微观合规指标陷阱以建立适应高不确定性探索的评估体系。
+> [!concept-proposition] 命题二｜克服[[New Public Management|新公共管理]]青蛙视角要求政策评估从机械计量转向[[Reflexivity|反思性]]系统学习
+> **探讨维度　政策评估与组织学习维度** 探讨如何破除微观合规指标陷阱以建立适应高不确定性探索的评估体系。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **反思学习替代机械计量** [[New Public Management|NPM]] 改革将政府预算与评估塞入统一的短期效率框架，形成了只看基层可见指标的青蛙视角，严重扼杀了高风险、长周期的重大探索；引领与学习范式要求将政策评估改造为嵌入式的系统反思平台，通过整合用户研究、实地实验与动态里程碑考核，使公共机构能够在不确定性中持续迭代战略认知。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–792, 797–798)]]
 
 ---
 
-### 命题三　引领与学习的高效运转取决于国家、政策与行政三层公共动态能力的有机衔接
-
-> [!concept-lens] 组织能力与制度保障维度
-> 探讨该范式落地所必须具备的公共行政支撑条件。
+> [!concept-proposition] 命题三｜引领与学习的高效运转取决于国家、政策与行政三层[[Public Dynamic Capabilities|公共动态能力]]的有机衔接
+> **探讨维度　组织能力与制度保障维度** 探讨该范式落地所必须具备的公共行政支撑条件。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **三层[[Public Dynamic Capabilities|公共动态能力]]支撑** 引领与学习不是抽象概念，必须由[[Public Dynamic Capabilities|公共动态能力]]作为组织载体支撑：在国家层面展现构建使命合法性的政治领导力；在政策层面统筹战略研发、需求侧采购与规制标准协同；在行政层面吸纳设计、技术专才组建敏捷流动团队。三层能力有机协同，才能确保引领具备战略威权、学习具备执行反馈通道。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
 
 ---
 
-### 命题四　引领与学习范式特别适用于以社会技术复杂难题为特征的第三代使命导向政策
-
-> [!concept-lens] 使命政策代际演进匹配维度
-> 探讨不同历史形态的使命政策与管理范式的适配性。
+> [!concept-proposition] 命题四｜引领与学习范式特别适用于以社会技术复杂难题为特征的第三代使命导向政策
+> **探讨维度　使命政策代际演进匹配维度** 探讨不同历史形态的使命政策与管理范式的适配性。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **第三代使命的专属治理范式** 在[[Three Generations of Mission-Oriented Policy|使命导向政策三代演进]]中，第一代追赶使命（骆驼形态）依赖科层规程，第二代冷战技术[[Big Science|大科学]]（狮子形态）依赖垂直权威实验室；而第三代使命（儿童形态）聚焦气候变化、老龄化与绿色转型等[[Wicked Problem|复杂社会难题]]，涉及多元利益群体与深层生活方式变革，唯有依托引领与学习范式，才能在去中心化网络中实现多方共创与敏捷适应。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796, 800)]]

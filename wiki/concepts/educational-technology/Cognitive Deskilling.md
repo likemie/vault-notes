@@ -9,7 +9,7 @@ aliases:
 summary: "指认识主体因过度依赖外部自动化认知工具或生成式人工智能系统，导致自身内生认知能力与程序性智力技能发生退化、萎缩或无法正常形成的现象。"
 type: concept
 domain: "educational-technology"
-related_count: 35
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Evaluative Judgement]]"
   - "[[Epistemic Aims]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Deliberate Practice]]"
   - "[[Knowledge Production]]"
   - "[[Socratic Dialogue]]"
   - "[[Homework]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Critical Thinking]]"
   - "[[Technology Infusion]]"
+  - "[[Use of Calculators]]"
   - "[[Alien Intelligence]]"
 related_theories:
   - "[[Formative Epistemic Injustice]]"
@@ -64,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -116,43 +118,35 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　生成式人工智能的即时答案输出切断认知挣扎，直接破坏教育增进学习者内在认知机能的根本目标
-
-> [!concept-lens] 认知挣扎剥夺与智力机能退化
-> 智力技能与肌肉遵循同样的用进废退规律：长期绕过思维挣扎过程的学习者，内在认知图式将不可逆地钝化。这一命题探讨即时答案输出的人机交互如何在根源上违背教育的[[Epistemic Aims|认识论目标]]。
+> [!concept-proposition] 命题一｜[[Generative Artificial Intelligence|生成式人工智能]]的即时答案输出切断认知挣扎，直接破坏教育增进学习者内在认知机能的根本目标
+> **探讨维度　认知挣扎剥夺与智力机能退化** 智力技能与肌肉遵循同样的用进废退规律：长期绕过思维挣扎过程的学习者，内在认知图式将不可逆地钝化。这一命题探讨即时答案输出的人机交互如何在根源上违背教育的[[Epistemic Aims|认识论目标]]。
 
 > [!claim] Naeem, H.
 > **认知挣扎是技能内化的[[Necessary and Sufficient Conditions|必要条件]]** 智力技能的习得必须经过重复的认知练习与必要的认知困难。当大语言模型直接提供现成答案时，学生绕过了概念理解与因果推导的中间环节；如同钢琴家数年不练指法便丧失手指记忆一样，学生将写作、推理与解题外包给 AI，将彻底失去发展内生认知机能的机会。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 270–273)]]
 
 > [!claim] Sternberg, R. J.
-> **认知技能必须在能力极限上持续接受挑战** 人类认知技能只有在个体的最高能力边界（Highest Level of Competence）上接受持续挑战与刻意练习才能维持与提升；[[Generative Artificial Intelligence|生成式人工智能]]在[[Knowledge Production|知识生成]]层面的强大能力若缺乏规范，将直接导致人类在写作、分析与[[Problem Solving|复杂问题解决]]上的普遍智力退化，使学习者在脱离工具时丧失独立思考能力。引自 [[Argument_Naeem_2026_Episteme|Naeem (2026, p. 270)]]
+> **认知技能必须在能力极限上持续接受挑战** 人类认知技能只有在个体的最高能力边界（Highest Level of Competence）上接受持续挑战与[[Deliberate Practice|刻意练习]]才能维持与提升；[[Generative Artificial Intelligence|生成式人工智能]]在[[Knowledge Production|知识生成]]层面的强大能力若缺乏规范，将直接导致人类在写作、分析与[[Problem Solving|复杂问题解决]]上的普遍智力退化，使学习者在脱离工具时丧失独立思考能力。引自 [[Argument_Naeem_2026_Episteme|Naeem (2026, p. 270)]]
 
 ---
 
-### 命题二　将人工智能从答案提供者重构为提问型脚手架是防范去技能化的核心策略
-
-> [!concept-lens] 交互逻辑逆转与认知主动性的保护
-> 该命题关注 AI 工具设计层面的系统性解决方案：通过改变人机交互的根本逻辑——以追问替代给答案——在保留 AI 教育优势的同时阻断去技能化的发生机制。
+> [!concept-proposition] 命题二｜将人工智能从答案提供者重构为提问型[[Scaffolding|脚手架]]是防范去技能化的核心策略
+> **探讨维度　交互逻辑逆转与认知主动性的保护** 该命题关注 AI 工具设计层面的系统性解决方案：通过改变人机交互的根本逻辑——以追问替代给答案——在保留 AI 教育优势的同时阻断去技能化的发生机制。
 
 > [!claim] Naeem, H.
 > **提问型导师通过拦截答案迫使学习者维持认知主动性** 克服认知去技能化的关键不在于简单禁用人工智能，而在于重塑其交互逻辑。通过将大语言模型配置为提问型导师（Question-Tutor, Q-Tutor），系统内置直接答案拦截规则，强制以层层递进的启发追问和[[Socratic Dialogue|苏格拉底式对话]]替代直接回答，迫使学生持续调动自身内在认知资源构思问题并连接前序知识。这一逆向交互架构将 AI 的角色从知识传递者彻底转变为认知挣扎的催化者，在保留学生主体性的同时实现对去技能化的有效防御。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 274–278)]]
 
 ---
 
-### 命题三　群体层面的创意同质化是认知去技能化在集体维度上的可观察后果
-
-> [!concept-lens] 算法平均化与集体创意多样性衰减
-> 认知去技能化不仅是个体能力的私人退化，更在群体层面制造了可实证测量的创意同质化效应。这一命题将去技能化的损失从个体技能扩展至文化生态层面。
+> [!concept-proposition] 命题三｜群体层面的创意同质化是认知去技能化在集体维度上的可观察后果
+> **探讨维度　算法平均化与集体创意多样性衰减** 认知去技能化不仅是个体能力的私人退化，更在群体层面制造了可实证测量的创意同质化效应。这一命题将去技能化的损失从个体技能扩展至文化生态层面。
 
 > [!claim] Doshi, A. R. & Hauser, O. P.
 > **个体效率提升与集体多样性降低的悖论** 实证研究发现，生成式 AI 虽在短期内提升了单个个体的写作平均表现，却显著压缩了整个群体的创意广度与独创性多样性——个体看似受益，集体创意生态却趋于同质化。这一悖论揭示了去技能化的隐性系统性代价：当大多数学习者都依赖同一基础模型生成初始思路时，文化层面的思想多样性将不可逆地收窄。引自 [[Argument_Naeem_2026_Episteme|Naeem (2026, p. 271)]]
 
 ---
 
-### 命题四　核心工序外包引发的认知去技能化实质构成了对学习者的成长性认识不正义
-
-> [!concept-lens] 私厨代劳与求知者发展权的侵害
-> 探讨认知去技能化与教育认识正义的深层交叉：高增益思维实践的剥离不仅导致个体机能退化，更构成了对主体作为求知者发展资格的伦理侵害。
+> [!concept-proposition] 命题四｜核心工序外包引发的认知去技能化实质构成了对学习者的[[Formative Epistemic Injustice|成长性认识不正义]]
+> **探讨维度　私厨代劳与求知者发展权的侵害** 探讨认知去技能化与教育认识正义的深层交叉：高增益思维实践的剥离不仅导致个体机能退化，更构成了对主体作为求知者发展资格的伦理侵害。
 
 > [!claim] Smith, S. J.
 > **私厨代劳式去技能化侵害求知者的成长权** 当教育者鼓励或放任学生将构思、提纲与反思修改等高认知增益环节外包给生成式 AI 时，如同聘请私厨代劳做饭。学生虽然交出了高品质的文本，却被剥夺了形成烹饪技能的机体实践机会。写作本质上是一门认知发现工序：构思阶段迫使学生直面空白提取生活经验，提纲阶段训练将网状思想线性化的认知控制（Piolat & Roussey, 1996），修改阶段驱动基于自我评估的深层观念重组（Nielsen, 2021）。将这些工序委托给算法，不仅导致内生智力机能严重退化，更诱发自我贬低的[[Reliability|信度]]赤字与盲目自满的信度通胀双重认知失真，直接剥夺了学生成长为成熟求知者的发展权，在[[Epistemology|认识论]]规范上构成了[[Formative Epistemic Injustice|成长性认识不正义]]。[[Argument_Smith_2026_SPE|Smith (2026, pp. 3–9)]]
@@ -186,7 +180,7 @@ updated: 2026-10-22
 > > - **教育[[Epistemology|认识论]]批判派（[[Argument_Naeem_2026_Episteme|Naeem, 2026]]; Cassinadri, 2024）** 强调教育具有培育机体自身内在能力（Onboard Abilities）的特殊规范目标；若延展导致个体脱离工具后无法运作，即构成有害去技能化。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 270–272)]]
 >
 > > [!axis] 计算器赋能论 vs 私厨代劳致残论：读写工序去技能化的性质争议
-> > [[Technology Infusion|技术融入]]论者主张在写作中使用大模型与数学课使用计算器无异，均属合法减负；认识正义论者指出语言生成包含不可替代的发现工序，全包代写实质是致残性的私厨代工。
+> > [[Technology Infusion|技术融入]]论者主张在写作中使用大模型与数学课[[Use of Calculators|使用计算器]]无异，均属合法减负；认识正义论者指出语言生成包含不可替代的发现工序，全包代写实质是致残性的私厨代工。
 > >
 > > - **计算器中性论** 认为算法仅代劳了词汇修饰等表层负荷，学生仍掌控高阶创意。
 > > - **私厨代劳致残论（[[Argument_Smith_2026_SPE\|Smith, 2026]]）** 论证构思、提纲与修改是思想生成的有机工序，AI 代劳不仅破坏思想线性化能力，更诱发双重[[Reliability|信度]]失真，构成严重的[[Formative Epistemic Injustice|成长性认识不正义]]。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 1–9)]]

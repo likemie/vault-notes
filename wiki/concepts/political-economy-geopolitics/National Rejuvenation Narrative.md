@@ -10,10 +10,10 @@ aliases:
 summary: "中国当代内政与对外战略中的核心政治与历史叙事，与百年屈辱史构成孪生叙事结构，将国家经济繁荣与跨国制度投射确立为洗雪历史屈辱、重现文明荣光的正当性依据"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept
   - geopolitics
@@ -36,9 +36,12 @@ related_concepts:
   - "[[Retroduction]]"
   - "[[Soft Power]]"
   - "[[Knowledge Diplomacy]]"
+  - "[[Educational Soft Power]]"
+  - "[[Total War]]"
   - "[[Student Mobility]]"
   - "[[Hard Power]]"
   - "[[Variable]]"
+  - "[[International Branch Campus]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
@@ -50,13 +53,15 @@ related_persons: []
 related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[Belt and Road Education Action Plan]]"
+  - "[[ASEAN]]"
+  - "[[Xiamen University Malaysia]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Velasco_2022_CSJ]]"
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -112,26 +117,22 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　民族复兴叙事构成了连接国内政治合法性与对外战略扩张的规范性纽带
-
-> [!concept-lens] 政治合法性与对外战略整合
-> 考察历史创伤叙事如何为当代跨国政策赋权，将国内繁荣诉求转换为国际秩序重塑的行动正当性。
+> [!concept-proposition] 命题一｜民族复兴叙事构成了连接国内政治合法性与对外战略扩张的规范性纽带
+> **探讨维度　政治合法性与对外战略整合** 考察历史创伤叙事如何为当代跨国政策赋权，将国内繁荣诉求转换为国际秩序重塑的行动正当性。
 
 > [!claim] Woo, E.
 > **历史正义与国家行动的因果桥接** [[Argument_Woo_2023_HEP|Woo (2023)]] 运用[[Critical Realism|批判实在论]]的[[Retroduction|逆推溯因]]（Retroduction）逻辑指出，[[Belt and Road Initiative|一带一路]]跨国教育行动之所以呈现深层战略从属性，是因为政策深植于民族复兴叙事这一基础[[Discursive Field|话语场域]]。复兴叙事建立在反转近代[[Century of Humiliation|百年屈辱]]的心理预设之上，使对外政策不仅被视作常规的国际合作，更被赋予了纠正历史不公、重塑大国尊严的崇高使命，使[[Education Going Global|教育出海]]在深层结构上必须服从于两个一百年奋斗目标的达成。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–689)]]
 
 ---
 
-### 命题二　教育跨国战略承载着从全球软实力边缘走向中心的复兴期待
-
-> [!concept-lens] [[Soft Power|软实力]]投射与文化地缘地位
-> 探讨民族复兴[[Discourse|话语]]如何界定高等教育在世界体系中的位置变迁，推动教育从国内经济助推器演变为全球软实力竞争的核心支柱。
+> [!concept-proposition] 命题二｜教育跨国战略承载着从全球[[Soft Power|软实力]]边缘走向中心的复兴期待
+> **探讨维度　[[Soft Power|软实力]]投射与文化地缘地位** 探讨民族复兴[[Discourse|话语]]如何界定高等教育在世界体系中的位置变迁，推动教育从国内经济助推器演变为全球软实力竞争的核心支柱。
 
 > [!claim] Woo, E.
 > **全球地缘教育地位的重塑诉求** [[Argument_Woo_2023_HEP|Woo (2023)]] 提出，新时代教育在民族复兴大局中承担双重战略角色：对内作为推动产业升级与经济赶超的技术引擎；对外则致力于帮助国家从全球软实力边缘迈向核心。随着国家经济体量位居世界前列，复兴叙事要求对外教育布局树立全球统筹视野，通过高额留学生奖学金设立、海外联合办学以及[[Knowledge Diplomacy|知识外交]]网络建设，争取在世界高等教育体系中确立与大国地位相称的话语权与主导权。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 688–689)]]
 
 > [!claim] [[Argument_Velasco_2022_CSJ|Velasco (2022)]]
-> **软实力战略重塑与两个一百年奋斗目标赋权** 考察中国高等教育软实力演进指出，“中国梦”愿景将实现中华民族伟大复兴确立为国家总体战略支点，直接驱动了软实力（ruan shili）理论的本土化重塑：从被动的文化防御升级为服务两个一百年奋斗目标的进取性行动工具。国家通过设立 21 世纪海上丝绸之路专项资金与大规模政府奖学金体系，推动高水平大学在东南亚定向招募留学生并设立境外实体分校，将区域教育合作深度嵌入民族复兴与大国对外战略大局之中。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 76–78, 83–85)]]
+> **软实力战略重塑与两个一百年奋斗目标赋权** 考察中国[[Educational Soft Power|高等教育软实力]]演进指出，“中国梦”愿景将实现[[Zhonghua Minzu|中华民族]]伟大复兴确立为国家[[Total War|总体战]]略支点，直接驱动了软实力（ruan shili）理论的本土化重塑：从被动的文化防御升级为服务两个一百年奋斗目标的进取性行动工具。国家通过设立 21 世纪海上丝绸之路专项资金与大规模政府奖学金体系，推动高水平大学在东南亚定向招募留学生并设立境外实体分校，将区域教育合作深度嵌入民族复兴与大国对外战略大局之中。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 76–78, 83–85)]]
 
 ---
 
@@ -176,7 +177,7 @@ updated: 2026-10-26
 > |---|---|---|---|---|---|---|
 > | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 2018年中国来华留学整体规模（全国高校） | 政策文本计量与官方统计引述 | 来华留学生总量及生源结构 | 492,185人（非洲与中亚沿线国家生源增长居首） | — | 说明生源结构随战略支点国家调整，但无法直接测度留学生对复兴叙事的心理认同度 |
 > | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 2020年中国对非高等教育奖学金供给 | 官方政策协议与智库报告统计 | 跨国高等教育奖学金名额 | 12,000个（成为非洲最大高等教育跨国奖学金提供国） | — | 证实国家通过高额补贴塑造知华友华精英网络，但无法推断受助者后续实际政策偏向 |
-> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | 2014–2018 年在华外国留学生总数与东南亚赴华生源结构 | 官方统计数据追踪与高教战略文本分析 | 留学生总量、东盟在华规模及高校境外办学载体 | 全国留学生由 2014 年 37.7 万人增至 2018 年 49.2 万人；东南亚在华生源增至约 8 万人；设立厦大马校等实体分校 | — | 反映民族复兴叙事下高等教育涉外供给的规模扩张轨迹与地缘战略支点功能 |
+> | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | 2014–2018 年在华外国留学生总数与东南亚赴华生源结构 | 官方统计数据追踪与高教战略文本分析 | 留学生总量、[[ASEAN\|东盟]]在华规模及高校[[International Branch Campus\|境外办学]]载体 | 全国留学生由 2014 年 37.7 万人增至 2018 年 49.2 万人；东南亚在华生源增至约 8 万人；设立[[Xiamen University Malaysia\|厦大马校]]等实体分校 | — | 反映民族复兴叙事下高等教育涉外供给的规模扩张轨迹与地缘战略支点功能 |
 
 ---
 

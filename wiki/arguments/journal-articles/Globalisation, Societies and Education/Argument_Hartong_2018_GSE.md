@@ -7,7 +7,7 @@ title: "Argument_Hartong_2018_GSE"
 argument_key: "Argument_Hartong_2018_GSE"
 argument_display_title: "Towards a topological re-assemblage of education policy? Observing the implementation of performance data infrastructures and ‘centers of calculation’ in Germany"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 45
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -41,9 +41,11 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Commensuration]]"
   - "[[Policy Mobility]]"
+  - "[[Paradigm]]"
   - "[[Total War]]"
   - "[[Public-Private Partnership]]"
   - "[[Test Production]]"
+  - "[[Cognitive Authority]]"
   - "[[Champ]]"
 related_theories:
   - "[[Actor-Network Theory]]"
@@ -83,7 +85,7 @@ sources:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-23
+updated: 2026-10-29
 ---
 ---
 
@@ -142,10 +144,10 @@ updated: 2026-10-23
 
 ---
 
-> [!claim] 论证步骤一　正统新制度主义同构论难以解释微观技术能动性：数据基础设施通过拓扑空间化重构教育政策尺度
+> [!claim|step] 论证步骤一　正统新制度主义同构论难以解释微观技术能动性：数据基础设施通过拓扑空间化重构教育政策尺度
 > 正统新制度主义将全球化视作国家间政策趋同（isomorphism）与世界体系扩张的宏观过程，忽视了微观物质技术的能动性；数字化[[Data Infrastructure\|数据基础设施]]通过[[Topological Spatialisation\|拓扑空间化]]与装配机制，打破了固定领土边界对政策尺度的固化约束，驱动了教育政策的[[Rescaling\|尺度重组]]。
 
-#### 1. 正统制度主义同构论忽视技术物质性且难以解释本土制度摩擦
+> [!sub-claim] 1. 正统制度主义同构论忽视技术物质性且难以解释本土制度摩擦
 
 传统教育政策社会学在解释全球化与[[Policy Mobility|政策流动]]时，往往受限于固定领土尺度或纯粹观念层面的同质化借用。
 
@@ -163,7 +165,7 @@ updated: 2026-10-23
 > - **外在性关系与去领土化/再领土化（Exteriority & Deterritorialisation）**
 >   系统构件具备外在性，可从既有科层中剥离并在新型拓扑网络中重新组合，产生新的治理权能。
 
-#### 2. 计算中心通过标准化数据表征实现跨尺度的远距离治理
+> [!sub-claim] 2. 计算中心通过标准化数据表征实现跨尺度的远距离治理
 
 拉图尔（[[Bruno Latour]]）与罗斯（[[Nikolas Rose]]）的社会学理论为剖析专业评估机构提供了微观分析路径。
 
@@ -182,10 +184,10 @@ updated: 2026-10-23
 
 ---
 
-> [!claim] 论证步骤二　PISA 震荡打破联邦分权路径依赖：驱动产出导向国家教育监测体系建立
+> [!claim|step] 论证步骤二　PISA 震荡打破联邦分权[[Path Dependence|路径依赖]]：驱动产出导向国家教育监测体系建立
 > 2000 年 [[PISA]] 震荡打破了德国各州各自为政的传统输入控制模式，促使 16 个联邦州在 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 框架下制定《[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]》，正式确立了包含四大支柱的产出导向多层级质量监测体系，并由联邦教研部（[[Federal Ministry of Education and Research\|BMBF]]）启动[[National Educational Panel Study\|德国国家教育发展追踪研究]]（NEPS）与“地方学习”计划深化微观与地方基建。
 
-#### 1. 文化主权壁垒与 PISA 震荡危机倒逼治理范式从输入控制转向产出监测
+> [!sub-claim] 1. 文化主权壁垒与 PISA 震荡危机倒逼治理[[Paradigm|范式]]从输入控制转向产出监测
 
 德国基础教育体系历史上长期受制于高度分散的制度[[Path Dependence|路径依赖]]。
 
@@ -215,10 +217,10 @@ updated: 2026-10-23
 
 ---
 
-> [!claim] 论证步骤三　IQB 依托跨尺度数据基础设施穿透行政边界：在去排名约束下实现实质性远距离治理
+> [!claim|step] 论证步骤三　IQB 依托跨尺度数据基础设施穿透行政边界：在去排名约束下实现实质性远距离治理
 > 柏林洪堡大学教育质量发展研究所（IQB）作为德国事实上的国家计算中心，通过统筹统一题库、接管 VERA 元治理、设立研究数据中心（FDZ）集成多源数据库以及上线数字化练习平台，在各州行政藩篱之间构筑起跨尺度的拓扑数据网络，促成了教育政策空间的深层重组。
 
-#### 1. IQB 通过垄断国家标准研制与统筹 VERA 确立元治理认知中枢地位
+> [!sub-claim] 1. IQB 通过垄断国家标准研制与统筹 VERA 确立元治理认知中枢地位
 
 在 KMK 授权下，2004 年创设的 IQB 逐步从最初的国家标准研制机构演变为统辖全国数据流动的中枢。
 
@@ -236,7 +238,7 @@ updated: 2026-10-23
 >
 >   设立教育研究数据中心（FDZ），系统集成 PISA、TIMSS、PIRLS 与 IQB 自身的所有微观数据库；上线在线练习任务平台，直接向全德一线教师分发标准任务，构建纵向拓扑数据连通机制。
 
-#### 2. 数字化任务平台绕过科层层级直接重塑微观课堂教学实践
+> [!sub-claim] 2. 数字化任务平台绕过科层层级直接重塑微观课堂教学实践
 
 IQB 不仅生产宏观报告，更通过数字化平台向微观教学现场延伸触角。
 
@@ -264,7 +266,7 @@ IQB 不仅生产宏观报告，更通过数字化平台向微观教学现场延�
 
 > [!finding-cards] 核心发现
 > 1. **[[Data Infrastructure\|数据基础设施]]作为政策重组的核心媒介** 绩效数据基础设施不仅是纯粹的技术工具，更是重组国家治理拓扑、将分散微观教学与宏观标准实时连接的核心制度媒介。
-> 2. **[[Institute for Educational Quality Improvement\|IQB]] 确立国家[[Center of Calculation\|计算中心]]的元治理地位** 柏林 IQB 通过主导国家标准研发、跨州趋势测试、统筹 [[Vergleichsarbeiten\|VERA]] 命题及运营 FDZ 数据库，成为全德最具认知权威的计算中枢。
+> 2. **[[Institute for Educational Quality Improvement\|IQB]] 确立国家[[Center of Calculation\|计算中心]]的元治理地位** 柏林 IQB 通过主导国家标准研发、跨州趋势测试、统筹 [[Vergleichsarbeiten\|VERA]] 命题及运营 FDZ 数据库，成为全德最具[[Cognitive Authority|认知权威]]的计算中枢。
 > 3. **拓扑穿透与去排名共识下的新型规训** 尽管德国坚守禁止学校公开排名的法律底线，但集约化的数据池与数字化任务平台已在实质上构筑起全域对标与远距离治理的能力。
 > 4. **分权与集权在装配体中的复合共生** 德国教育政策并未简单走向中央集权或维持旧有分权，而是在物质技术、法律条款与专家网络的动态博弈中形成了新型复合[[Assemblage|政策装配]]体。
 

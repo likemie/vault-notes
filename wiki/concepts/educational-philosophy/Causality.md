@@ -9,9 +9,9 @@ aliases:
 summary: "教育与社会科学中建立原因与效果之间关系的推理体系，涵盖概率因果、反事实潜在结果模型、因果识别设计层级（RCT/QED/RDD/SCD）以及生成性因果机制与筛选隔离逻辑。"
 type: concept
 domain: "educational-philosophy"
-related_count: 89
-related_level: 8
-related_stars: "💎💎⭐⭐"
+related_count: 90
+related_level: 9
+related_stars: "💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - causality
@@ -76,6 +76,7 @@ related_methods:
   - "[[Pretest-Posttest Control Group Design]]"
   - "[[Difference-in-Differences]]"
   - "[[Factorial Design]]"
+  - "[[Pilot Testing]]"
   - "[[Process Tracing]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
@@ -119,7 +120,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -203,50 +204,40 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　因果推断的底层基石是不可直接观测的反事实比较
-
-> [!concept-lens] [[Counterfactual\|反事实]]潜在结果模型
-> 因果推断的核心任务在于回答“如果干预未发生，结果会怎样”。
+> [!concept-proposition] 命题一｜因果推断的底层基石是不可直接观测的[[Counterfactual|反事实]]比较
+> **探讨维度　[[Counterfactual\|反事实]]潜在结果模型** 因果推断的核心任务在于回答“如果干预未发生，结果会怎样”。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen, Manion, & Morrison (2011)]]
 > **因果推断基本问题与实验[[Operationalization\|操作化]]回答** 依据 Holland (1986) 确立的“因果推断基本问题”，同一个体无法同时处于接受干预与未接受干预的状态，因此个体反事实永远无法直接观测。[[Experimental Research|实验设计]]通过[[Random Assignment\|随机化]]构建控制组，用控制组的平均潜在结果作为实验组反事实的无偏替代，从而在群体均值层面实现平均因果效应（[[Advanced Technological Education|ATE]]）的无偏估计。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 55–56)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|(Cohen et al., 2011, Ch. 16, p. 314)]]
 
 ---
 
-### 命题二　社会科学中的因果关系呈现为概率性、条件性与复合因果组合
-
-> [!concept-lens] [[Compound Causes\|复合原因]]与[[Interaction Effect\|交互效应]]
-> 单纯断言“X 导致 Y”在社会复杂系统中往往是不充分的，因果效力高度依赖必要与[[Necessary and Sufficient Conditions\|充分条件]]的特定组合。
+> [!concept-proposition] 命题二｜社会科学中的因果关系呈现为概率性、条件性与复合因果组合
+> **探讨维度　[[Compound Causes\|复合原因]]与[[Interaction Effect\|交互效应]]** 单纯断言“X 导致 Y”在社会复杂系统中往往是不充分的，因果效力高度依赖必要与[[Necessary and Sufficient Conditions\|充分条件]]的特定组合。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]]
 > **复合原因与[[Causal Over-determination\|因果过度决定]]** 单一原因很少能够单独产生社会效应。原因通常需要组合在一起形成**复合原因（Compound Causes）** 并发生交互作用（Interaction Effects）。在因果过度决定（Causal Over-determination）情境下，多个原因中每一个都可能单独产生效果，研究者必须通过[[Factorial Design\|析因设计]]与机制追踪防范过度简化的单一归因。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 56–57, 63–64)]]
 
 ---
 
-### 命题三　前向干预实验与后向机制追溯构成因果识别的互补双翼
-
-> [!concept-lens] 两种因果研究策略
-> 量化实验回答“原因之效果”，质性[[Process Tracing|过程追踪]]回答“效果之原因”。
+> [!concept-proposition] 命题三｜前向干[[Pilot Testing|预实验]]与后向机制追溯构成因果识别的互补双翼
+> **探讨维度　两种因果研究策略** 量化实验回答“原因之效果”，质性[[Process Tracing|过程追踪]]回答“效果之原因”。
 
 > [!claim] [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]]
 > **前向操纵与后向追溯的互补性** 量化实验通过前向施加干预来估计原因的平均效果大小；[[Qualitative Research\|质性研究]]（[[Ethnography\|民族志]]、[[Action Narratives\|行动叙事]]）则通过后向追溯深入行动者头脑，揭示因果链条中的动机、理解与情境互动机制。两者的结合能同时回答因果关系的“发生与否（Whether）”与“如何发生（How）”。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, pp. 56–58)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 74–92)]]
 
 ---
 
-### 命题四　单项研究内部因果确证不能自动等同于跨情境稳健的因果效能
-
-> [!concept-lens] 循证清算与因果综合门槛
-> 从微观单项实验的因果识别到宏观政策采纳，必须跨越[[Research Synthesis|证据综合]]与[[Construct Validity\|构念效度]]的双重门槛。
+> [!concept-proposition] 命题四｜单项研究内部因果确证不能自动等同于跨情境稳健的因果效能
+> **探讨维度　循证清算与因果综合门槛** 从微观单项实验的因果识别到宏观政策采纳，必须跨越[[Research Synthesis|证据综合]]与[[Construct Validity\|构念效度]]的双重门槛。
 
 > [!claim] [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]]
 > **因果有效性的综合门槛割裂** [[Internal Validity\|内部效度]]达标是因果推断成立的必要条件，但并非宏观认证的充分条件。Wadhwa et al. 揭示，由于不同清算机构在 **[[Evaluator Independence\|独立评估者]]复制**、**12 个月[[Fade-out Effect\|持续效果]]** 及 **[[Iatrogenic Effects in Education\|医源性伤害]]排除**等综合门槛上的分歧，单项高质量 [[Randomised Controlled Trials\|RCT]] 的因果结论在跨机构综合评级中表现出高达 35.4% 的极端冲突，要求政策制定者穿透评级标签审视底层因果证据。[[Argument_Hitchcock_2015_JBE\|(Hitchcock et al., 2015, pp. 461–462)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 4, 26)]]
 
 ---
 
-### 命题五　跨国教育因果推断受制于历史文化脉络与特定初始条件
-
-> [!concept-lens] 比较[[Epistemology|认识论]]与初始条件敏感性（Comparative Epistemology & Initial Conditions）
-> 跨国教育因果推断并非寻求放之四海而皆准的绝对全称因果律，而是依赖对特定历史文化脉络与初始条件的严密界定。
+> [!concept-proposition] 命题五｜跨国教育因果推断受制于历史文化脉络与特定初始条件
+> **探讨维度　比较[[Epistemology|认识论]]与初始条件敏感性（Comparative Epistemology & Initial Conditions）** 跨国教育因果推断并非寻求放之四海而皆准的绝对全称因果律，而是依赖对特定历史文化脉络与初始条件的严密界定。
 
 > [!claim] Holmes (1965); Popper (1959)
 > **假说演绎法与条件因果模型（$L + I = P$）** 霍姆斯在比较教育“[[Problem Approach|问题法]]（[[Problem Approach]]）”中引入波普尔的批判理性主义，坚决抛弃古典前相对论力学的机械[[Determinism|决定论]]与历史主义因果宿命论。霍姆斯论证指出，因果推断必须依赖特定初始条件：全称假说法则 $L$ 与特定情境下的初始条件 $I$ 共同演绎出可[[Falsification|证伪]]的预测 $P$。若抽离具体的制度生态与文化传统，任何因果主张均无法在不同国家体系间自动复制或成立。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, p. 150)]]

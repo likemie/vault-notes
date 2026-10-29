@@ -7,7 +7,7 @@ title: "Argument_DeJong_2023_ERR"
 argument_key: "Argument_DeJong_2023_ERR"
 argument_display_title: "Let’s talk evidence – The case for combining inquiry-based and direct instruction"
 argument_kind: "journal-article"
-argument_related_count: 70
+argument_related_count: 75
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -46,13 +46,16 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Direct Instruction]]"
+  - "[[Document]]"
   - "[[Business as Usual]]"
   - "[[Control of Variables Strategy]]"
   - "[[Epistemic Agency]]"
   - "[[Problem Solving]]"
   - "[[Productive Failure]]"
   - "[[Variable]]"
+  - "[[Authentic Science Practices]]"
   - "[[Epistemology]]"
+  - "[[Self Explanation]]"
   - "[[Active Learning]]"
   - "[[Rote Learning]]"
   - "[[Computer Simulation]]"
@@ -77,8 +80,10 @@ related_concepts:
   - "[[Avatar]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Scientific Explanation]]"
+  - "[[Inquisitive Mode of Governance]]"
   - "[[Interaction Effect]]"
   - "[[Feedback]]"
+  - "[[Worked Examples]]"
   - "[[Self-Efficacy]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
@@ -123,12 +128,12 @@ related_arguments:
   - "[[Argument_Zhang_2022_SE]]"
 status: active
 created: 2026-09-20
-updated: 2026-10-23
+updated: 2026-10-29
 ---
 ---
 
 > [!question]
-> 在科学与科学、技术、工程和数学（Science, Technology, Engineering, and Mathematics, [[STEM Education\|STEM]]）教育领域，围绕教学应以[[Inquiry-Based Learning\|探究式学习]]为主还是以[[Direct Instruction\|直接教学]]为主的争论已持续数十年。[[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 近期发表论文，断言直接教学在所有情境下全面压倒性地优于探究式教学，指责各国教育政策在课程标准中倡导科学实践与探究属于依据错误证据、无视关键实证事实。这一指控是否成立？现有实证文献究竟揭示了怎样的教学规律，科学教育研究又该如何走出非此即彼的二元对立？
+> 在科学与科学、技术、工程和数学（Science, Technology, Engineering, and Mathematics, [[STEM Education\|STEM]]）教育领域，围绕教学应以[[Inquiry-Based Learning\|探究式学习]]为主还是以[[Direct Instruction\|直接教学]]为主的争论已持续数十年。[[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 近期发表论文，断言直接教学在所有情境下全面压倒性地优于探究式教学，指责各国教育政策在课程标准中倡导科学实践与探究属于依据错误证据、无视关键实证事实。这一指控是否成立？现有实证[[Document|文献]]究竟揭示了怎样的教学规律，科学教育研究又该如何走出非此即彼的二元对立？
 >
 > 核心分析维度包括：
 > 1. 受控实验与[[Meta-analysis\|元分析]]证据是否支持直接教学的绝对优势。
@@ -188,16 +193,16 @@ updated: 2026-10-23
 
 ---
 
-> [!claim] 论证步骤一　受控实验与元分析证实：指导式探究在概念知识获得与远迁移上整体优于直接教学
+> [!claim|step] 论证步骤一　受控实验与元分析证实：指导式探究在概念知识获得与远迁移上整体优于直接教学
 > 受控实验与权威[[Meta-analysis\|元分析]]全景表明，辅以支架与指导的[[Inquiry-Based Learning\|探究式教学]]在促进概念知识获得与科学推理能力上显著优于单一[[Direct Instruction\|直接教学]]；直接教学倡导者宣称的绝对优势源于对个别初级实验的片面选择以及对教师指导内涵的曲解。
 
-#### 1. 真实科学探究依托规范认知结构与指导连续谱运作，而非毫无辅助的纯发现试错
+> [!sub-claim] 1. [[Authentic Science Practices|真实科学探究]]依托规范认知结构与指导连续谱运作，而非毫无辅助的纯发现试错
 
 围绕探究教学有效性的长期分歧，很大程度上源于批评者常将探究等同于没有任何教学支持的极端纯发现。现代科学教育中的探究教学具备明确的操作结构与指导支持。
 
 > [!feature] 科学探究教学六大核心[[Epistemology\|认识论]]要素
 > - **自主生成新知** 区别于先讲授后验证的验证式实验，在[[Inquiry-Based Learning\|探究式学习]]中调查探索先于理论讲授，学生通过调查生成对其个人而言全新的认知理解。
-> - **高阶主动认知加工** 学生开展深层推理与自我解释，展开高水平[[Active Learning\|主动学习]]与认知加工，主动协调概念表征，而非[[Rote Learning\|机械记忆]]现成结论。
+> - **高阶主动认知加工** 学生开展深层推理与[[Self Explanation|自我解释]]，展开高水平[[Active Learning\|主动学习]]与认知加工，主动协调概念表征，而非[[Rote Learning\|机械记忆]]现成结论。
 > - **严格依据经验证据** 知识主张的生成与辩护必须锚定于物理实验数据、[[Computer Simulation\|虚拟仿真]]结果或科学文本。
 > - **行使[[Epistemic Agency\|认识能动性]]（Epistemic Agency）** 学习者对自身的探究决策负有实质责任，能够自主提炼[[Research Question\|研究问题]]并对解释模型的有效性负责。
 > - **协调复杂推理** 学习者必须权衡相互冲突的多源证据，严谨评估替代性假设并处理反常数据。
@@ -212,7 +217,7 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 > | **无指导纯发现** | 完全放任学生自由探索微世界 | 盲目试误，高[[Working Memory\|工作记忆]]负荷，易陷入挫败与[[Activity Traps\|活动陷阱]] | 完全旁观不介入 | 已被认知科学判决无效（[[Richard E. Mayer\|Mayer, 2004]]） |
 > | **真实指导式探究** | 教学循环为主轴，按需即时嵌入显性解释 | 证据驱动的高阶推理，行使认识能动性，模型迭代 | 隐性支架搭建者、反思[[Socrates\|苏格拉底]]式提问者 | 复杂因果机制、概念转变与深层迁移应用 |
 
-#### 2. 元分析证据表明：增强型指导式探究全面显著优于直接教学，直接讲授仅是六种同等有效指导之一
+> [!sub-claim] 2. 元分析证据表明：增强型指导式探究全面显著优于直接教学，直接讲授仅是六种同等有效指导之一
 
 对科学教育领域相关元分析与[[Systematic Review|系统综述]]的全面梳理表明，在受控实验层面，指导式探究在概念学习上展现出整体优势。
 
@@ -224,7 +229,7 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 > | **[[Control of Variables Strategy\|变量控制策略]]（CVS）** | 引用 Schwichow et al. (2016) 元分析，宣称探究调查未能带来更好的[[Variable\|变量]]控制学习。 | 原文明确报告：显性讲授 CVS 规则的研究（$g = 0.58$ [0.46, 0.70]）与未显性讲授规则的探究研究（$g = 0.65$ [0.51, 0.79]）效应量无显著差异，直接教学并无相对优势。 |
 > | **[[Computer Simulation\|计算机模拟]]与虚拟实验** | 完全忽略现代数字化与计算机仿真探究文献。 | Smetana and Bell (2012) 综述 61 项研究，80% 证实配备支持结构的虚拟仿真探究优于传统讲授；d'Angelo et al. (2014) 59 篇文献（128 个[[Effect Size\|效应量]]）证实仿真探究在内容知识、推理技能与情意态度上全面显著优于非仿真传统教学，诸如[[PhET Interactive Simulations\|PhET 交互式仿真]]与虚拟实验室展现出坚实促学效能。 |
 
-#### 3. 变量控制策略的掌握依赖探究实践与深层反思，显性讲授在长效保持上未现优势
+> [!sub-claim] 3. 变量控制策略的掌握依赖探究实践与深层反思，显性讲授在长效保持上未现优势
 
 变量控制策略长期被视作证明显性规则讲授不可替代的核心案例。然而初级实验与元分析数据表明，探究实践与规则讲授在长效掌握上存在显著差异。
 
@@ -238,10 +243,10 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 
 ---
 
-> [!claim] 论证步骤二　跨国调查与课程实验表明：单一教学法无法垄断课堂，适度探究结合教师指导产出最高学业成效
+> [!claim|step] 论证步骤二　跨国调查与课程实验表明：单一教学法无法垄断课堂，适度探究结合教师指导产出最高学业成效
 > 大规模跨国调查（[[PISA]] 与 [[TIMSS]]）及多项长周期真实课程实验表明，探究频次与[[Academic Achievement\|学业成就]]呈倒 U 型非线性关联，探究与直接指导紧密结合产生最高学业成绩；真实学校环境中的长期[[Randomised Controlled Trials\|随机对照试验]]证实，指导式探究在宏观学科成效上毫不逊色于甚至显著超越传统直接讲授。
 
-#### 1. PISA 与 TIMSS 跨国数据揭示探究频次呈倒 U 型非线性规律，指导式探究与学业成就高度正相关
+> [!sub-claim] 1. PISA 与 TIMSS 跨国数据揭示探究频次呈倒 U 型非线性规律，指导式探究与学业成就高度正相关
 
 直接教学倡导者常引用 PISA 2015 报告中探究频次与科学成绩呈负相关的表面数据作为批评探究政策的主要论据。然而，这种表面相关掩盖了测量属性与深层非线性机制。
 
@@ -257,7 +262,7 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 > - **探究维度的[[Heterogeneity\|异质性]]分离**
 >   相关多国数据（涵盖 6 个英语国家以及 Cairns, 2019 在 69 个国家的研究）表明，探究活动包含异质构成：在课堂中频繁组织纯辩论往往与成绩负相关，而动手开展实验以及由实验数据推导结论则与科学成就高度正相关。
 
-#### 2. 长周期真实课程实验证实精心设计的探究课程成效不低于且常显著优于传统直接讲授
+> [!sub-claim] 2. 长周期真实课程实验证实精心设计的探究课程成效不低于且常显著优于传统直接讲授
 
 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 抨击宏观课程实验缺乏干净的实验室对照组且常伴随教师培训等混杂变量。De Jong et al. 针锋相对地指出：在[[Business as Usual|常态教学]]中，常规教学（Business as Usual）对照组的教师实施传统直接讲授多年、经验丰富，且学生对传统讲授规程高度适应；因此，在真实学校实验中探究课程若能取胜，其循证效力更为坚实。
 
@@ -270,10 +275,10 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 
 ---
 
-> [!claim] 论证步骤三　教学成效受知识属性与学习者特征调节：教学指导强度须依据目标层级与个体认知特质动态匹配
+> [!claim|step] 论证步骤三　教学成效受知识属性与学习者特征调节：教学指导强度须依据目标层级与个体认知特质动态匹配
 > 科学教育研究需要超越单一教学法普适最优的抽象争论，转向依据教学目标层级、领域先验知识储备以及学习者[[Inhibitory Control\|抑制控制]]等认知特征进行动态匹配的循证调节模型。
 
-#### 1. 表层事实与常规程序适合直接讲授，深层概念转变与远迁移更依赖探究教学
+> [!sub-claim] 1. 表层事实与常规程序适合直接讲授，深层概念转变与远迁移更依赖探究教学
 
 并非所有值得学习的内容都适合开展探究。教学设计的基本原则是教学策略与预期学习产出的严格对齐。
 
@@ -284,7 +289,7 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 > | **深层概念理解与概念转变** | 不良构领域、多变量动态平衡、反直觉与直觉迷思高发区 | 水的沸点随海拔高度上升而降低的物理机制；热量与温度的解耦；生态演替 | **[[Inquiry-Based Learning\|探究式学习]]** 诱发深刻认知冲突，迫使学习者反思既有朴素直觉，在证据协调中完成深层心理模型的重构。 |
 > | **远迁移与跨情境解决问题** | 复杂真实情境、学科实践程序规范 | 将浮力原理迁移应用于潜艇舱室设计；评估复杂工业排污对流域生态的长期影响 | **技术增强指导式探究** 学习者在虚拟微世界中经历主动假设检验与[[Control of Variables Strategy\|变量控制]]训练，形成灵活的图式表征。 |
 
-#### 2. 先验基础薄弱与抑制控制能力较低的学生在探究中需要更高密度的显性支持
+> [!sub-claim] 2. 先验基础薄弱与抑制控制能力较低的学生在探究中需要更高密度的显性支持
 
 教学面对的是高度异质性的学习者群体。大量微观实验证实，学习者的背景特征构成了教学法有效性的关键调节边界。
 
@@ -302,10 +307,10 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 
 ---
 
-> [!claim] 论证步骤四　探究与直接教学在功能上具有互补性：依托微观时序编排与自适应技术构建现代教学体系
+> [!claim|step] 论证步骤四　探究与直接教学在功能上具有互补性：依托微观时序编排与自适应技术构建现代教学体系
 > 探究教学与直接教学在课堂教学中并非相互排斥，二者存在明确的协同互补机制；通过[[Productive Failure\|生产性失败]]时序编排、适时按需介入以及自适应技术支持，能够形成兼具结构性指导与主动建构的现代教学体系。
 
-#### 1. 探究先行、直接先行与即时介入等微观时序设计实现了两种教学取向的功能互补
+> [!sub-claim] 1. 探究先行、直接先行与即时介入等微观时序设计实现了两种教学取向的功能互补
 
 如何将两种教学方式编织在同一个单元或课时中，是决定教学持久效能的关键。
 
@@ -319,7 +324,7 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 
 研究特别强调，脱离了持续探究与情境化演练的孤立直接教学，在面对延迟测验时遗忘率极高（Vitale et al., 2016）；唯有与探究活动时序融合，方能实现知识的长效保持与深层内化。
 
-#### 2. 机器视觉、智能代理与实时看板等自适应技术为规模化开展高质量指导式探究提供了可行支持
+> [!sub-claim] 2. 机器视觉、智能代理与实时看板等自适应技术为规模化开展高质量指导式探究提供了可行支持
 
 针对常态课堂中教师难以同时兼顾班级所有学生个性化探究进度的客观现实，数字化工具与人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）技术提供了重要的自适应辅助路径。
 
@@ -338,7 +343,7 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 > [!finding-cards] 核心发现
 > 1. **[[Inquiry-Based Learning\|指导式探究]]在概念掌握上全面超越[[Direct Instruction\|直接教学]]** 涵盖数十年的受控实验与多项大规模[[Meta-analysis\|元分析]]确证，只要具备充分支架与指导，探究式教学在理科概念知识习得与远迁移上整体显著优于单一直接教学，推翻了直接教学派宣称的绝对优势论断。
 > 2. **跨国评估证实探究频次呈倒 U 型教学黄金点** [[PISA]] 2015 与 [[TIMSS]] 跨国大规模数据揭示，课堂探究频次与[[Academic Achievement\|学业成就]]呈非线性关联；探究学习与教师直接指导深度融合时成绩增益达至峰值；指导式探究在全球各地区均与[[Scientific Literacy\|科学素养]]呈显著正相关。
-> 3. **全课程宏观长周期实验破除直接教学垄断合理性** 涵盖 WISE 平台 8,000 余人队列对比、密歇根大学 5 年期物理力学与光学[[Randomised Controlled Trials\|随机对照试验]]（RCT）等严谨课程实验表明，探究模式在宏观学业成果上毫不逊色于甚至显著超越传统直接讲授，为教师灵活施教提供了扎实理据。
+> 3. **全课程宏观长周期实验破除直接教学垄断合理性** 涵盖 WISE 平台 8,000 余人队列对比、密歇根大学 5 年期物理力学与光学[[Randomised Controlled Trials\|随机对照试验]]（RCT）等严谨课程实验表明，[[Inquisitive Mode of Governance|探究模式]]在宏观学业成果上毫不逊色于甚至显著超越传统直接讲授，为教师灵活施教提供了扎实理据。
 > 4. **以调节框架与微观时序设计实现功能互补** 教学效能受知识目标（表层 vs 深层）、先验知识与[[Inhibitory Control\|抑制控制]]等特质调节；二者并非相互排斥，借助[[Productive Failure\|生产性失败]]时序编排、即时介入与自适应技术支持，构建探究与直接教学协同互补的现代教学体系是走出长期争论的循证出路。
 
 > [!stat-cards]- 核心实证统计数据汇总
@@ -364,7 +369,7 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 > [!citation-card] 转向[[Scaffolding\|教学支架]]与时序编排实证探索的研究倡议
 > 正如 Alfieri et al. (2011) 所指出的，元分析的发现应当帮助我们将学术讨论从对无辅助纯发现的虚妄攻击中解脱出来，转向富有建设性的实证探索：如何在课堂情境中最佳地搭建脚手架？如何提供有效反馈？如何为多样化内容创设样例？以及在探究任务的何种时序节点上应当提供直接教学？
 >
-> *Perhaps the findings of these meta-analyses can help to move the debate away from issues of unassisted forms of discovery and toward a fruitful discussion and consequent empirical investigations of how scaffolding is best implemented, how to provide [[Feedback]] in classroom settings, how to create worked examples for varieties of content, and when during the learning task direct forms of instruction should be provided.*
+> *Perhaps the findings of these meta-analyses can help to move the debate away from issues of unassisted forms of discovery and toward a fruitful discussion and consequent empirical investigations of how scaffolding is best implemented, how to provide [[Feedback]] in classroom settings, how to create [[Worked Examples|worked examples]] for varieties of content, and when during the learning task direct forms of instruction should be provided.*
 
 ---
 

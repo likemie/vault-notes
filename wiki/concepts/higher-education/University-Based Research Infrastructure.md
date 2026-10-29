@@ -30,9 +30,9 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Corporate R&D Labs]]"
   - "[[Tacit Knowledge]]"
+  - "[[National Innovation System]]"
   - "[[Innovation Ecosystem]]"
   - "[[Disciplinary Institutionalization]]"
-  - "[[National Innovation System]]"
 related_theories:
   - "[[Actor-Network Theory]]"
   - "[[Human Capital Theory]]"
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -95,20 +95,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　依托大学的科研基础设施是战后国家创新系统中高层次工程人力资本与颠覆性技术衍生的最核心制度底座
-
-> [!concept-lens] 大学基础设施对国民经济的长期公共品赋能机制
-> 探讨大学科研平台如何超越单一课题任务，转化为驱动战后全美高科技工业持续领先的系统性策源地。
+> [!concept-proposition] 命题一｜依托大学的科研基础设施是战后[[National Innovation System|国家创新系统]]中高层次工程[[Human Capital Theory|人力资本]]与颠覆性技术衍生的最核心制度底座
+> **探讨维度　大学基础设施对国民经济的长期公共品赋能机制** 探讨大学科研平台如何超越单一课题任务，转化为驱动战后全美高科技工业持续领先的系统性策源地。
 
 > [!claim] Fabrizio & Mowery
 > **大学科研基础设施的战略外溢效应** 战后美国信息技术产业复合体的空前繁荣，根本上受益于联邦政府在大学层面奠定的科研基础设施。国防研发注资使斯坦福大学、麻省理工学院等名校建立起全球领先的工程与计算实验条件；这种基础设施不仅直接孕育了关系数据库、图文交互界面与分布式网络原型，更持续为半导体、软硬件工业输送了成千上万受过前沿技术洗礼的青年科学家与工程技术人才，是维系美国[[Innovation Ecosystem|创新生态]]生生不息的根本源泉。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 30–31, 38)]]
 
 ---
 
-### 命题二　国家研发预算短期战术化与学科分流将直接挤压大学工程物理科研基础设施并侵蚀长远创新潜能
-
-> [!concept-lens] 预算结构偏转对高校科研基础设施的脆弱性冲击
-> 分析 9/11 后反恐与国土安全预算动员背景下，大学基础科研平台所面临的资源收缩与结构性失衡危机。
+> [!concept-proposition] 命题二｜国家研发预算短期战术化与学科分流将直接挤压大学工程物理科研基础设施并侵蚀长远创新潜能
+> **探讨维度　预算结构偏转对高校科研基础设施的脆弱性冲击** 分析 9/11 后反恐与国土安全预算动员背景下，大学基础科研平台所面临的资源收缩与结构性失衡危机。
 
 > [!claim] Fabrizio & Mowery
 > **科研预算短期化对大学底座的侵蚀** 2001 年 9/11 事件后联邦研发预算向反恐与国土安全的大规模重组，给依托大学的科研基础设施带来了深层体制风险。由于反恐研发强烈偏向于短期可交付的战术开发以及由卫生与公众服务部主导的生物医学反恐，联邦对国防基础与应用研究预算的削减超过 20%，导致大学在计算机科学、电气工程与物理学等领域的长期科研基础设施面临资金失血风险，这将在中长期内严重削弱全美由学术底座向民用经济释放颠覆性知识外溢的创新潜能。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 41–44)]]

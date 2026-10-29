@@ -12,10 +12,10 @@ aliases:
 summary: "中国高等教育与职业教育系统性向海外延伸办学与输出制度经验的战略实践，涵盖境外办学、多边高校联盟、定向奖学金与产教协同标准输出"
 type: concept
 domain: "higher-education"
-related_count: 25
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 35
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept
   - higher-education
@@ -27,29 +27,39 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[International Branch Campus]]"
   - "[[Soft Power]]"
+  - "[[Educational Soft Power]]"
   - "[[Internationalization of Higher Education]]"
   - "[[International Education]]"
   - "[[Discourse]]"
   - "[[People-to-People Connectivity]]"
   - "[[Dialogue in Education]]"
+  - "[[South-South Cooperation]]"
   - "[[Policy Framing]]"
   - "[[Community of Shared Future for Mankind]]"
-  - "[[South-South Cooperation]]"
+  - "[[Public Diplomacy]]"
   - "[[Paradigm]]"
+  - "[[Variable]]"
 related_theories:
   - "[[Hegemony]]"
   - "[[Cultural Political Economy]]"
 related_methods:
   - "[[Critical Discourse Analysis]]"
   - "[[Discourse Analysis]]"
+  - "[[Effect Size]]"
+  - "[[Mixed Methods Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Confucius]]"
 related_facts:
   - "[[Belt and Road Education Action Plan]]"
+  - "[[Xiamen University Malaysia]]"
   - "[[Luban Workshop]]"
   - "[[University Alliance of the Silk Road]]"
+  - "[[ASEAN]]"
   - "[[Confucius Institute]]"
   - "[[Fudan University Budapest Campus]]"
+  - "[[China-ASEAN Federation for Vocational Education]]"
+  - "[[Chinese-ASEAN Modern Craftsmanship Institute]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Custer_2021_AidData]]"
@@ -57,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -71,9 +81,9 @@ updated: 2026-10-26
 > - **边界** 区别于单纯由跨国准市场学费利润驱动的西方商业化高等教育出口模式，侧重由中央政府战略主导、财政专项倾斜并服务于总体国家利益。
 
 > [!citation-card] 跨国高等教育出海的战略实践（[[Argument_Woo_2023_HEP|Woo, 2023]]）
-> 为了提升教育软实力，部分中国高校已经开始启动跨国高等教育项目，例如厦门大学在马来西亚建立独立分校。在双边学历互认与多边多校联盟的基础上，中国高水平大学还在沿线国家设立了针对未来技术官僚的高端公共管理培训基地。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679–680)]]
+> 为了提升[[Educational Soft Power|教育软实力]]，部分中国高校已经开始启动跨国高等教育项目，例如厦门大学在马来西亚建立独立分校。在双边学历互认与多边多校联盟的基础上，中国高水平大学还在沿线国家设立了针对未来技术官僚的高端公共管理培训基地。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 679–680)]]
 >
-> *Some Chinese universities have begun embarking on transnational education projects for education soft power, such as Xiamen University Malaysia. In addition to mutual recognition of academic degrees and university alliances, elite Chinese universities have established specialized administrative training bases for future technocrats from partner countries.*
+> *Some Chinese universities have begun embarking on transnational education projects for education soft power, such as [[Xiamen University Malaysia]]. In addition to mutual recognition of academic degrees and university alliances, elite Chinese universities have established specialized administrative training bases for future technocrats from partner countries.*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Internationalization of Higher Education|高等教育国际化]] — 传统高等教育国际化涵盖引进来与走出去的双向流动，且通常以大学自治与学术发展为主要驱动；教育出海特指国家顶层意志驱动下向海外单向度或网络化的实体性战略输出。
@@ -116,29 +126,25 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　教育出海在官方政策话语中被框架化为南南合作与互利共赢的崇高事业
-
-> [!concept-lens] [[Discourse|话语]]合法化维度
-> 探究官方政策文本如何通过语言建构将国家主导的教育对外输出合法化为服务区域发展的公共事业。
+> [!concept-proposition] 命题一｜教育出海在官方政策[[Discourse|话语]]中被框架化为[[South-South Cooperation|南南合作]]与互利共赢的崇高事业
+> **探讨维度　[[Discourse|话语]]合法化维度** 探究官方政策文本如何通过语言建构将国家主导的教育对外输出合法化为服务区域发展的公共事业。
 
 > [!claim] Woo, E.
 > **政策文本的三维话语建构** Woo 通过对教育部《[[Belt and Road Education Action Plan|推进共建“一带一路”教育行动]]》的[[Critical Discourse Analysis|批判话语分析]]，指出官方文本运用[[Policy Framing|诊断性框架]]指认沿线国家人才匮乏与学历互认瓶颈、运用处方性框架供给中国式海外办学与奖学金方案、运用激励性框架将教育出海与[[Community of Shared Future for Mankind|人类命运共同体]]理念深度绑定，在语言层面确立了教育出海作为区域互利共赢事业的道义正当性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 683–684)]]
 
 ---
 
-### 命题二　教育出海在跨部门运作中深层依附于国家地缘经济战略与工业产能扩张
-
-> [!concept-lens] 地缘工具性维度
-> 探究教育跨国输出在实际执行体系中与外交、科技及产业外溢之间的从属与协同关系。
+> [!concept-proposition] 命题二｜教育出海在跨部门运作中深层依附于国家地缘经济战略与工业产能扩张
+> **探讨维度　地缘工具性维度** 探究教育跨国输出在实际执行体系中与外交、科技及产业外溢之间的从属与协同关系。
 
 > [!claim] Woo, E.
 > **跨部门互文性揭示的工具化定位** 互文性解构显示，教育出海由中央全面领导与顶层设计统辖，服务于两个一百年奋斗目标；高校的国际化出海项目被明确分流为[[Research Universities|研究型大学]]攻关尖端科技、职业院校配套工业产能出海，构成了全面服从国家总体地缘经济与外交互信的执行载体。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]
 
 > [!claim] [[Argument_Custer_2021_AidData|Custer et al. (2021)]]
-> **职教出海与重大工程技术标准输出的互惠咬合** 萨曼莎·库斯特等（Samantha Custer et al.）针对南亚与中亚区域公共外交与教育合作的实证研究表明，高职教育出海（以[[Luban Workshop|鲁班工坊]]为核心载体）在产教协同中发挥了双向解套功能：一方面促使海外专业技术劳动力熟悉中国工业与工程技术标准体系，为中国高新技术装备与职业教育出海培育了持续的海外市场需求；另一方面，通过就地定向培训本土工程师与运维技术人员，有效化解了东道国公众对中资重大工程“过度依赖外派中国劳工、挤压本土就业”的负面认知，将教育出海转化为向当地社区释放可感知就业红利的实质纽带。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 22, 28)]]
+> **职教出海与重大工程技术标准输出的互惠咬合** 萨曼莎·库斯特等（Samantha Custer et al.）针对南亚与中亚区域[[Public Diplomacy|公共外交]]与教育合作的实证研究表明，高职教育出海（以[[Luban Workshop|鲁班工坊]]为核心载体）在产教协同中发挥了双向解套功能：一方面促使海外专业技术劳动力熟悉中国工业与工程技术标准体系，为中国高新技术装备与职业教育出海培育了持续的海外市场需求；另一方面，通过就地定向培训本土工程师与运维技术人员，有效化解了东道国公众对中资重大工程“过度依赖外派中国劳工、挤压本土就业”的负面认知，将教育出海转化为向当地社区释放可感知就业红利的实质纽带。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 22, 28)]]
 
 > [!claim] [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]]
-> **职教出海向系统化制度政策与产教生态圈的纵深升级** 王屹等（[[Argument_Wang_Liang_Chen_2025_CES|Wang et al., 2025]]）考察中国面向东盟的职业教育出海实践，指出既有职教出海面临政策失序、断裂与错位，以及过度依赖单校点状资源和区域资历框架缺失等瓶颈；高质量职教出海必须超越狭隘的本国中心主义，通过纵向贯通与横向协同的系统化政策治理，依托“点—线—面”推进高品质合作平台，并协同培育具备跨文化交流与前沿数字技术能力的新质技能人才，构建跨区域互利共赢的产教合作生态圈。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 294–301)]]
+> **职教出海向系统化制度政策与产教生态圈的纵深升级** 王屹等（[[Argument_Wang_Liang_Chen_2025_CES|Wang et al., 2025]]）考察中国面向[[ASEAN|东盟]]的职业教育出海实践，指出既有职教出海面临政策失序、断裂与错位，以及过度依赖单校点状资源和区域资历框架缺失等瓶颈；高质量职教出海必须超越狭隘的本国中心主义，通过纵向贯通与横向协同的系统化政策治理，依托“点—线—面”推进高品质合作平台，并协同培育具备跨文化交流与前沿数字技术能力的新质技能人才，构建跨区域互利共赢的产教合作生态圈。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 294–301)]]
 
 ---
 
@@ -177,15 +183,15 @@ updated: 2026-10-26
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | 南亚与中亚 13 国教育交流与高教出海网络（2000–2021 年） | 跨国混合方法评估与项目追踪 | 跨境学位合作授课语言、文化网络规模与职教基地建设 | 设立 65 所孔子机构；南亚高校合作学位项目中 66.4% 采用全英文授课；推动鲁班工坊技术实训落地以替代外派劳工 | — | 聚焦南亚与中亚地缘走廊，反映产教融合与主权补贴导向的高教出海特征 |
+> | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | 南亚与中亚 13 国教育交流与高教出海网络（2000–2021 年） | 跨国[[Mixed Methods Research\|混合方法]]评估与项目追踪 | 跨境学位合作授课语言、文化网络规模与职教基地建设 | 设立 65 所[[Confucius\|孔子]]机构；南亚高校合作学位项目中 66.4% 采用全英文授课；推动鲁班工坊技术实训落地以替代外派劳工 | — | 聚焦南亚与中亚地缘走廊，反映产教融合与主权补贴导向的高教出海特征 |
 > | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | 现存中国—东盟教育出海合作平台（Zhongchang & Jia, 2023） | 全景式平台统计与分类诊断 | 合作平台总量、区域分布与专业结构 | 现存 254 个合作平台；高度集聚于沿海与沿边开放省份，中西部匮乏；财经商贸类平台扎堆增长，水利与资源环境关键工科大类空白 | — | 实证揭示了以单校为主导的离散出海模式在区域与专业布局上的结构性失衡（p. 294） |
-> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | 中国—东盟职业教育联合会（2018–2022双百计划） | 多边联盟案例与机构构成统计 | 跨国联合会参与机构总数与中外构成比例 | 汇聚 175 家机构，包含中方单位 98 家、东盟十国机构 77 家，涵盖职业院校、科研院所与企业 | — | 展示了从双边点状协议向多边网络化组织协同进阶的平台探索（p. 294） |
-> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | 广西部区共建面向东盟职教高质量发展试验区 | 部区协同创新案例与项目追踪 | 区域性职教出海高能级平台载体立项数 | 截至 2024 年立项建设约 10 个中国—东盟技术创新学院与现代工匠学院集群 | — | 验证了政府搭台、部区协同与龙头企业集群出海的高能级实践可行性（p. 294） |
+> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | [[China-ASEAN Federation for Vocational Education\|中国—东盟职业教育联合会]]（2018–2022双百计划） | 多边联盟案例与机构构成统计 | 跨国联合会参与机构总数与中外构成比例 | 汇聚 175 家机构，包含中方单位 98 家、东盟十国机构 77 家，涵盖职业院校、科研院所与企业 | — | 展示了从双边点状协议向多边网络化组织协同进阶的平台探索（p. 294） |
+> | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | 广西部区共建面向东盟职教高质量发展试验区 | 部区协同创新案例与项目追踪 | 区域性职教出海高能级平台载体立项数 | 截至 2024 年立项建设约 10 个中国—东盟技术创新学院与[[Chinese-ASEAN Modern Craftsmanship Institute\|现代工匠学院]]集群 | — | 验证了政府搭台、部区协同与龙头企业集群出海的高能级实践可行性（p. 294） |
 
 ---
 

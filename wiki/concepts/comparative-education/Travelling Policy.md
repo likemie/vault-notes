@@ -8,7 +8,7 @@ aliases:
 summary: "在比较教育与政策分析中，指代全球化背景下教育改革模型脱离原有社会脉络，通过国际组织和政策网络在跨国空间中多维循环，并在不同本土情境中被不断转译、重新合法化和变形的非线性流变过程。"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Snowball Sampling]]"
 related_persons:
   - "[[Gita Steiner-Khamsi]]"
+  - "[[Jenny Ozga]]"
 related_facts:
   - "[[World Bank]]"
 related_arguments:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -96,10 +97,8 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　旅途政策并非简单的制度复制，而是本土政治力量借用全球话语进行“二次创作”的转译过程
-
-> [!concept-lens] 政策转译与本土博弈
-> 这一命题分析为何同一政策模型在不同国家呈现出完全相异的实践面貌。
+> [!concept-proposition] 命题一｜旅途政策并非简单的制度复制，而是本土政治力量借用全球[[Discourse|话语]]进行“二次创作”的转译过程
+> **探讨维度　政策转译与本土博弈** 这一命题分析为何同一政策模型在不同国家呈现出完全相异的实践面貌。
 
 > [!claim] [[Gita Steiner-Khamsi\|Steiner-Khamsi, G.]] et al.
 > **外生政策的本土政治工具化** 阐明，在全球流动中旅行的教育政策，被接收国吸收的动力往往不是出于技术优化，而是本土政治行动者将其用作“外在合法化”（externalisation）的借口，以压制国内反对意见或换取外部资金援助（如[[World Bank\|世界银行]]贷款）。政策一旦落地，便会经历深度的本地化“ Indigenisation ”，与其宣称的全球统一效果产生严重的“实施偏差”（implementation gaps），呈现出混杂（hybridity）的非预期形态。([[Argument_Beech_2009_CE\|Beech, 2009a]])
@@ -107,7 +106,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 发展脉络
-> - **2006 — 概念提出与空间解构** Jenny Ozga and Roger Jones 首次阐明 travelling policy，关注跨国新自由主义改革如何绕过国家机器通过[[Discourse|话语]]直接在地方学校网络中发生作用。
+> - **2006 — 概念提出与空间解构** [[Jenny Ozga]] and Roger Jones 首次阐明 travelling policy，关注跨国新自由主义改革如何绕过国家机器通过[[Discourse|话语]]直接在地方学校网络中发生作用。
 > - **2009 — [[Policy Network\|政策网络]]与空间流变整合** Beech 指出大国和多边组织通过跨国流转构筑“全球花园”，比较教育必须用新词汇突破“输入-输出”二元论；Cowen 提出 [[Transfer Translation Transformation\|3T 框架]]将“变形”引入政策旅行流。([[Argument_Beech_2009_CE\|Beech, 2009a]])
 > - **2012 — 协调与对齐实证** Steiner-Khamsi and Waldow 编著《教育[[Policy Borrowing\|政策借用]]与出借世界年鉴》，聚焦协调（harmonisation）和标准化（standardisation）作为旅途政策的主要制度化对齐方式。
 > - **2023 — [[Actor-Network Theory\|行动者网络理论]]（ANT）的全面耦合** Klerides 阐述在理性主义传统下，政策作为“非人类行动者”在异质网格（Actor-Network）中的流动，完成了从传统的静态对比到网络化动态分析的学科演变。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]])

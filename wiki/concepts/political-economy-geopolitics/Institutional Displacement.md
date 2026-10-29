@@ -7,10 +7,10 @@ aliases:
 summary: "历史制度主义与比较政治经济学中的制度变迁核心机制；指通过废除、取消或边缘化既有规则并引入全新规则体系的过程；既包含关键节点上的突发性体制颠覆，也涵盖边缘竞争性新体制通过持续吸引背叛与资源转移、最终累积挤出并彻底取代旧体制的渐进替代过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/institutional-change
   - theme/governance
@@ -26,8 +26,10 @@ related_concepts:
   - "[[Institutional Drift]]"
   - "[[Symbionts]]"
   - "[[Opportunists]]"
+  - "[[Zone of Discretion]]"
   - "[[Liberalization]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
 related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
@@ -44,7 +46,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -105,30 +107,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　弱否决门槛与低裁量空间驱使变革力量诉诸制度置换
-
-> [!concept-lens] 宏观制度环境与演进路径的匹配机制
-> 探讨宏观政治语境与制度微观属性如何共同约束行动者的策略选择，解释为何置换机制在特定制度构型下成为唯一可行或优势路径。
+> [!concept-proposition] 命题一｜弱否决门槛与低[[Zone of Discretion|裁量空间]]驱使变革力量诉诸制度置换
+> **探讨维度　宏观制度环境与演进路径的匹配机制** 探讨宏观政治语境与制度微观属性如何共同约束行动者的策略选择，解释为何置换机制在特定制度构型下成为唯一可行或优势路径。
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & [[Kathleen Thelen|Thelen, K.]]
 > **因果空间匹配路径** 当政治语境中的否决阻力较低且既有规则缺乏解释裁量权时，改革者既无需顾忌强力否决玩家的封杀，也无法在既有规则内部通过重新解释获得回旋余地；这使得直接替换成为阻力最小且最为彻底的理性策略。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 18–20)]]
 
 ---
 
-### 命题二　渐进置换依托双轨竞争与背叛级联实现无危机质变
-
-> [!concept-lens] 渐进置换的微观动力学与扩散机制
-> 批判将制度替代等同于暴力革命或间断均衡外生突变的传统观点，揭示渐进置换内部的内生演化与扩散规律。
+> [!concept-proposition] 命题二｜渐进置换依托双轨竞争与背叛级联实现无危机质变
+> **探讨维度　渐进置换的微观动力学与扩散机制** 批判将制度替代等同于暴力革命或间断均衡外生突变的传统观点，揭示渐进置换内部的内生演化与扩散规律。
 
 > [!claim] Mahoney, J. & Thelen, K.
 > **竞争性双轨侵蚀动力** 渐进置换并不依赖政权更迭等剧烈外部震荡；新体制往往由旧制度下的“受损者”在边缘建立并与旧制度直接竞争；只要旧体制支持者无法有效阻止行动者的策略性倒戈，新体制对资源的吸附就会触发不可逆的滚雪球效应，在和平时期完成对旧体制的彻底吞噬。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 16)]]
 
 ---
 
-### 命题三　市场化自由化改革借助个体退出机制享有低阻力置换优势
-
-> [!concept-lens] [[Liberalization|自由化]]置换的集体行动非对称性维度
-> 探讨当代资本主义制度演进中，为何解除规制与私有化置换往往比建立新型集体规制具有更低的政治推进门槛。
+> [!concept-proposition] 命题三｜市场化[[Liberalization|自由化]]改革借助个体退出机制享有低阻力置换优势
+> **探讨维度　[[Liberalization|自由化]]置换的集体行动非对称性维度** 探讨当代资本主义制度演进中，为何解除规制与私有化置换往往比建立新型集体规制具有更低的政治推进门槛。
 
 > [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]]
 > **退出逻辑对比呼吁逻辑的非对称优势** 建立或维系非市场化的集体规制制度，必须克服严重的搭便车困境，动员全社会各阶层承担协调成本并遵循统一的呼吁逻辑（Voice）；而推进新自由主义市场化置换，改革者只需向微观个体提供一个私有替代选项，个体追求利益最大化的退出冲动（Exit）便会自动触发集体制度的瓦解。这种行动门槛的非对称性，使置换成为当代西方国家深入推进市场化改革的特权通道。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 31–34)]]
@@ -145,7 +141,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 概念演变
-> - **1980年代–1990年代 — 间断均衡与外生更替[[Paradigm|范式]]** 早期新制度主义文献普遍将制度更替界定为外生重大冲击（战争、经济大萧条）摧毁既有制度垄断后的激进外生替代（Punctuated Equilibrium）。
+> - **1980年代–1990年代 — 间断均衡与外生更替[[Paradigm|范式]]** 早期新制度主义[[Document|文献]]普遍将制度更替界定为外生重大冲击（战争、经济大萧条）摧毁既有制度垄断后的激进外生替代（Punctuated Equilibrium）。
 > - **2005年 — [[Wolfgang Streeck|施特雷克]]与希伦开启内生类型学探讨** 沃尔夫冈·施特雷克（Wolfgang Streeck）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）在《超越延续性》（*Beyond Continuity*）导论中首次系统界定置换（Displacement）机制，指出边缘新规则如何通过背叛（Defection）与入侵（Invasion）逐步挤出旧规则并实现质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 19–24)]]
 > - **2009年 — [[James Mahoney|马奥尼]]与希伦建构因果矩阵与行动者模型** 马奥尼与希伦在《解释制度变迁》中系统界定置换在弱否决、低裁量语境下的因果机制，将[[Insurrectionaries|起义者]]确立为主导变革主体，确立双轨竞争置换模型。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 15–16, 23–24)]]
 

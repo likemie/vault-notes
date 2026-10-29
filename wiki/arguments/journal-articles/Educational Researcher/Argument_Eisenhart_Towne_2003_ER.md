@@ -31,8 +31,10 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Epistemology]]"
   - "[[Reading Programs]]"
+  - "[[Document]]"
   - "[[Knowledge Production]]"
   - "[[Research Question]]"
+  - "[[Big Science]]"
   - "[[Empiricism]]"
   - "[[Reliability]]"
   - "[[Causality]]"
@@ -78,14 +80,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-27
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Eisenhart_Towne_2003_ER"
 argument_key: "Argument_Eisenhart_Towne_2003_ER"
 argument_display_title: "Contestation and change in national policy on \"scientifically based\" education research"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 46
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -151,10 +153,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　联邦法律对“科学”的界定因制度功能而异，学界不应将政策笼统等同为行政压制
+> [!claim|step] 论证步骤一　联邦法律对“科学”的界定因制度功能而异，学界不应将政策笼统等同为行政压制
 > 不能把华盛顿所有政策中的科学界定混为一谈。联邦法律在制度功能上存在根本区隔：面向学校与服务机构的法律强调资金合规，偏好严苛的实验因果证据；而面向科研机构的法律则旨在界定学术探究边界，需要保留方法契合问题的包容性空间。
 
-#### 1. 学界争论把多部法律笼统等同于行政控制，忽略了不同政策文本的制度差异
+> [!sub-claim] 1. 学界争论把多部法律笼统等同于行政控制，忽略了不同政策文本的制度差异
 
 > [!critique-method] 围绕[[Scientifically Based Research|科学本位研究]]形成的三种主要观点
 > - **[[Positivism|实证主义]]阵营的支持立场（[[Argument_Slavin_2002_ER|Slavin, 2002]]）** 肯定[[Experimental Research|实验设计]]与[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trials, RCT）的规范作用，认为教育研究只有建立硬核因果证据，才能像现代医学与农业一样取得累积性进展。
@@ -164,15 +166,15 @@ issuing_organization: ""
 > [!attention] 学界普遍存在的政策混同倾向
 > 面对《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）与《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA），争鸣席卷了各大行业学会与学术期刊；但争论各方普遍将 NCLB（2001）、ESRA（2002）、NRC 报告《教育科学研究》（SRE, 2002）以及新设立的[[Institute of Education Sciences|教育科学研究院]]（Institute of Education Sciences, IES）中的定义直接等同起来，笼统视作联邦政府推行实证主义的单向政治控制，忽略了不同法律文本之间深刻的制度差异。
 
-#### 2. 《卓越阅读法》将财政拨款与科学证据挂钩，开创了强制资金合规的立法先例
+> [!sub-claim] 2. 《卓越阅读法》将财政拨款与科学证据挂钩，开创了强制资金合规的立法先例
 
 > [!case] 罗伯特·斯威特（Robert Sweet）起草 [[Reading Excellence Act|REA]] 科学定义的立法过程
-> - **历史背景** 1997 年国会启动 K–12 [[Reading Programs|阅读项目]]重新授权。时任[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]主席比尔·古德林（Bill Goodling）注意到 NRC 与国家阅读专家组（[[National Reading Panel]], NRP）正在系统梳理儿童早期阅读文献，决定通过立法将研究成果直接转化为政策要求。
+> - **历史背景** 1997 年国会启动 K–12 [[Reading Programs|阅读项目]]重新授权。时任[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]主席比尔·古德林（Bill Goodling）注意到 NRC 与国家阅读专家组（[[National Reading Panel]], NRP）正在系统梳理儿童早期阅读[[Document|文献]]，决定通过立法将研究成果直接转化为政策要求。
 > - **立法目标** 委员会多数党资深幕僚罗伯特·斯威特（Robert Sweet, 2003 年 7 月 16 日访谈）证实，起草该条款的核心意图是强制要求受资助者必须开发或选用基于最佳科学证据的阅读方案，以确保公共资金专款专用。
 > - **专家咨询网络** 为确立条文中的科学标准，斯威特查阅了包括 NRC 在内的科研机构资料，并集中咨询了约 20–25 位大学学者（绝大多数具有认知心理学背景），与他们反复传阅并修改条文草案。
 > - **制度后果** 该条款最终作为法定科学定义写入 1999 年《[[Reading Excellence Act|卓越阅读法]]》（REA），并在没有引发学界普遍关注的情况下顺利通过，成为后续多项联邦教育法案界定科学证据的最初范本。
 
-#### 3. 规约服务支出偏好严格实验因果，而管理科研资助必须为多元探究预留空间
+> [!sub-claim] 3. 规约服务支出偏好严格实验因果，而管理科研资助必须为多元探究预留空间
 
 > [!tension-table] 联邦科学标准的双重制度功能对比
 > | 制度维度 | 教育服务提供类立法（Service Statutes） | 科研资助管理类立法（Research Statutes） |
@@ -187,10 +189,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　学界的专业质证与公共审议，推动联邦科研标准从单一实验指标走向方法多元
+> [!claim|step] 论证步骤二　学界的专业质证与公共审议，推动联邦科研标准从单一实验指标走向方法多元
 > 联邦政策并不是固定不变的单向指令。从卡斯尔草案对[[Qualitative Research|质性研究]]的贬抑，到《教育科学改革法》明确写入方法契合[[Research Question|研究问题]]，再到[[What Works Clearinghouse|有效干预清算中心]]吸收公众意见修改审查规程，学术共同体的专业质证与公共参与切实促成了法定标准的放宽与完善。
 
-#### 1. 卡斯尔草案贬低质性研究引发强烈反弹，促使国家研究委员会确立六大科学原则
+> [!sub-claim] 1. 卡斯尔草案贬低质性研究引发强烈反弹，促使国家研究委员会确立六[[Big Science|大科学]]原则
 
 > [!contrast-table] 2000 年卡斯尔草案（H.R. 4875）对量化与质性研究的等级划分
 > | 法律条款与分类 | 核心法定要求 | 制度定位与规约机制 |
@@ -211,7 +213,7 @@ issuing_organization: ""
 >
 > 2000 年末，面对卡斯尔草案对 [[Office of Educational Research and Improvement|OERI]] 重新授权引发的学界焦虑，国家教育研究政策与优先事项委员会（NERPPB）正式委托 NRC 组建由[[Richard J. Shavelson|理查德·沙维尔森]]（Richard J. Shavelson）主持的科学原则委员会；2002 年 2 月，NRC 代表在国会众议院教育改革小组委员会听证会上直面指出：任何学科的科学进步都来自专业共同体内部的批判与审议，联邦法律绝不能用行政命令直接规定研究必须采取何种方法。
 
-#### 2. 《教育科学改革法》吸纳学者质证，彻底废除对质性研究的贬抑并确立“方法契合问题”
+> [!sub-claim] 2. 《教育科学改革法》吸纳学者质证，彻底废除对质性研究的贬抑并确立“方法契合问题”
 
 > [!index-table] 《不让一个孩子掉队法》（NCLB, 2001, pp. 126–127）关于科学本位研究的法定条款
 > | 条款款项 | 核心法定要求 | 规制意图与潜在偏颇 |
@@ -245,7 +247,7 @@ issuing_organization: ""
 > [!attention] 行政执行层面依然存在的实验偏好惯性
 > 尽管法律条文实现了方法契合问题的重大突破，但行政执行层面依然存在惯性收紧：[[United States Department of Education|美国教育部]]在 2002–2007 年战略规划中提出至 2004 年将 75% 因果研究采用随机分配的目标，且 IES 在 2002 财年资助的因果项目中全部采用了随机设计，表明行政规程仍倾向于向量化实验倾斜。
 
-#### 3. 有效干预清算中心在公众评议推动下修正审查规程，承认定量实验并非科学的唯一标准
+> [!sub-claim] 3. 有效干预清算中心在公众评议推动下修正审查规程，承认定量实验并非科学的唯一标准
 
 > [!contrast-table] [[Study Design and Implementation Assessment Device|WWC Study DIAD]] 规程根据公众评议（n=47）作出的调整
 > | 调整维度 | 公众评议关切焦点 | WWC 采纳并实施的制度修正 |
@@ -257,15 +259,15 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　教育研究者唯有主动参与公共政策审议，才能防止政治力量单向垄断科研标准
+> [!claim|step] 论证步骤三　教育研究者唯有主动参与公共政策审议，才能防止政治力量单向垄断科研标准
 > 国家层面的科学标准始终处于政治力量与学术力量的动态博弈中。教育研究者绝不能因为抵触行政干预而放弃政策对话；唯有主动利用不同法律文本之间的制度空隙，积极参与公共审议，才能有效阻止政治行政力量以狭隘方法垄断国家科研标准。
 
-#### 1. 学者消极退回象牙塔只会让政治力量单向定义国家科研标准
+> [!sub-claim] 1. 学者消极退回象牙塔只会让政治力量单向定义国家科研标准
 
 > [!attention] 学者群体退出政策对话的潜在风险
 > 如果学者群体因为对政策取向感到不满或厌恶行政管制而退回象牙塔，采取回避、冷眼旁观或全盘否定的态度，最终只会让学术共同体失去对政策规则的[[Discourse|话语]]权，导致政治力量单向封闭科学标准的界定。
 
-#### 2. 跨越方法门户分歧并积极参与政策对话，是维系研究多元生态的生命线
+> [!sub-claim] 2. 跨越方法门户分歧并积极参与政策对话，是维系研究多元生态的生命线
 
 > [!chain-link] 公共审议守护探究多样性的逻辑链条
 > - **现实前提：行政力量倾向于简化与标准化控制** 面对国会财务审计与纳税人问责压力，官僚机构天然倾向于将复杂的科学研究压缩为少数几个容易操作的量化指标。

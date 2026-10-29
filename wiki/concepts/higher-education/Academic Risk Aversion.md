@@ -9,7 +9,7 @@ aliases:
 summary: "在高度竞争性科研资助、同行评审可行性偏见与短周期考评约束下，科研人员与资助机构系统性偏向选择高确定性、短期可见的渐进型研究，极力规避长周期、高失败率之颠覆性探索的制度性行为偏好。"
 type: concept
 domain: "higher-education"
-related_count: 22
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Curiosity-Driven Research]]"
   - "[[Paradigm]]"
   - "[[Falsification]]"
+  - "[[Document]]"
   - "[[Return on Investment]]"
   - "[[Soft-Money Faculty Model]]"
   - "[[Scientific Autarky]]"
@@ -33,9 +34,11 @@ related_theories:
   - "[[Hegemony]]"
 related_methods:
   - "[[Pilot Testing]]"
+  - "[[Experimental Research]]"
 related_instruments: []
 related_persons:
   - "[[Paula Stephan]]"
+  - "[[Pierre Azoulay]]"
   - "[[Richard C. Atkinson]]"
   - "[[Vannevar Bush]]"
 related_facts:
@@ -51,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -70,7 +73,7 @@ updated: 2026-10-22
 > *"If the work that you propose to do isn’t virtually certain of success, then it won’t be funded... Yet, the kind of work that we would most like to see take place, which is groundbreaking and innovative, lies at the other extreme."*
 
 > [!boundary]- 概念边界
-> - 不等于科研严谨性（Scientific Rigor） — 严谨性指实验设计、测量控制与数据检验的科学规范；学术避险特指在选题、假说建构与技术路线上对不确定性的体制性排斥与自我审查。
+> - 不等于科研严谨性（Scientific Rigor） — 严谨性指[[Experimental Research|实验设计]]、测量控制与数据检验的科学规范；学术避险特指在选题、假说建构与技术路线上对不确定性的体制性排斥与自我审查。
 > - 不等于个体心理层面的风险厌恶 — 这里考察的不是科学家个体的心理人格特征，而是由项目中标率、终身教职时间表、间接费指标等制度环境结构性塑造的“组织化避险”。
 > - 不适用于享有长期无条件稳定支持的学术生态 — 在拥有充沛经常性经费拨款或任务导向特区（如早期[[Bell Labs|贝尔实验室]]、HHMI 研究员体系）中，学术避险倾向显著减弱。
 
@@ -116,30 +119,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　同行评审对可行性的教条偏好倒逼科学家以已完成的研究申请资助
+> [!concept-proposition] 命题一｜同行评审对可行性的教条偏好倒逼科学家以已完成的研究申请资助
+> **探讨维度　同行评审微观机制异化** 剖析评审标准的保守化如何扭曲科研立项申报的真实行为。
 
-> [!concept-lens] 同行评审微观机制异化
-> 剖析评审标准的保守化如何扭曲科研立项申报的真实行为。
-
-> [!claim] [[Paula Stephan|Stephan, P.]]; Alberts, B.; Azoulay, P.
+> [!claim] [[Paula Stephan|Stephan, P.]]; Alberts, B.; [[Pierre Azoulay|Azoulay, P.]]
 > **[[Pilot Testing|预实验]]完备性潜规则将颠覆性探索排斥在资助门槛之外** 科学经济学家保拉·斯蒂芬（Stephan）援引前[[National Academy of Sciences|美国国家科学院]]院长布鲁斯·阿尔伯茨（Bruce Alberts）与皮埃尔·阿祖莱（Pierre Azoulay）的研究指出，在同行评审中，项目往往因为“几近注定可行”才获高分；实证表明生命科学家在提交标书时，通常申报的三个核心目标已有两个在实验室中实际完成。这种机制不仅排除了真正的探索性冒险，更形成了对没有成熟实验储备的初次申请者与青年学者的系统性排斥。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 31)]]
 
 ---
 
-### 命题二　经费竞争白热化与长聘生存期倒逼青年学者退守安全课题并加剧成果平庸化
-
-> [!concept-lens] 青年学术劳动力与考评挤压
-> 揭示微观考核压力与低中标率如何迫使学术新星放弃高风险创新。
+> [!concept-proposition] 命题二｜经费竞争白热化与长聘生存期倒逼青年学者退守安全课题并加剧成果平庸化
+> **探讨维度　青年学术劳动力与考评挤压** 揭示微观考核压力与低中标率如何迫使学术新星放弃高风险创新。
 
 > [!claim] [[Richard C. Atkinson|Atkinson, R. C.]]; Blanpied, W. A.
-> **稀缺资金竞争倒逼学者提交安全型项目并加剧论文平庸化** 理查德·C·阿特金森（Richard C. Atkinson）与威廉·A·布兰皮德（William A. Blanpied）指出，面对多数学科联邦经费增长停滞及极低的中标率（如 [[National Science Foundation|NSF]] 总体资助率约为 30%，新毕业博士申请资助率仅约 20%），大学顶尖青年学者在 2 至 3 年启动资金耗尽后，为了在长聘考核与课题续期中生存，往往主动进行选题自我审查，选择申报高把握、低风险的“安全”课题；其直接后果是科学文献中充斥着平庸琐碎的研究成果，除拉长作者的发表篇目外几乎缺乏实质科学突破价值。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
+> **稀缺资金竞争倒逼学者提交安全型项目并加剧论文平庸化** 理查德·C·阿特金森（Richard C. Atkinson）与威廉·A·布兰皮德（William A. Blanpied）指出，面对多数学科联邦经费增长停滞及极低的中标率（如 [[National Science Foundation|NSF]] 总体资助率约为 30%，新毕业博士申请资助率仅约 20%），大学顶尖青年学者在 2 至 3 年启动资金耗尽后，为了在长聘考核与课题续期中生存，往往主动进行选题自我审查，选择申报高把握、低风险的“安全”课题；其直接后果是科学[[Document|文献]]中充斥着平庸琐碎的研究成果，除拉长作者的发表篇目外几乎缺乏实质科学突破价值。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
 
 ---
 
-### 命题三　全系统的组织化避险违背了国家资助基础科学的原初公共契约
-
-> [!concept-lens] 科技政策政治经济学与长期效用
-> 探讨学术避险如何架空公共财政支持大学科研的根本法理基础。
+> [!concept-proposition] 命题三｜全系统的组织化避险违背了国家资助基础科学的原初公共契约
+> **探讨维度　科技政策政治经济学与长期效用** 探讨学术避险如何架空公共财政支持大学科研的根本法理基础。
 
 > [!claim] Stephan, P.; Arrow, K.; Bush, V.
 > **全系统平庸化侵蚀了国家基础研发投资的长期回报** 肯尼斯·阿罗（Kenneth Arrow）曾确立基础研究具有不确定性、私人市场投资不足因而需要政府介入的经典经济学命题；[[Vannevar Bush|万尼瓦尔·布什]]（Bush）亦强调大学是全社会“最不受即时、可见成果压力约束”的冒险绿洲。然而斯蒂芬指出，演进至今的科研体制走向了其初衷的反面：当全系统学者为了在商场化大学中生存而齐齐转向避险与增量研究时，全社会面临着颠覆性变革成果枯竭、国家研发[[Return on Investment|投资回报率]]大幅衰退的系统性危机。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 31–32)]]

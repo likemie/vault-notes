@@ -32,8 +32,8 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Epoché]]"
   - "[[Meaningful Human Control]]"
-  - "[[Epistemic Friction]]"
   - "[[Defeater]]"
+  - "[[Epistemic Friction]]"
   - "[[Construct]]"
   - "[[Epistemic Responsibility]]"
 related_theories: []
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 （[[Epistemology|认识论]]顺从 / 认知让渡）
@@ -101,30 +101,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　过度顺从算法系统导致程序主义与实质主义双重自主性危机
-
-> [!concept-lens] 行动者自主性哲学的双重视角
-> 分析[[Epistemology|认识论]]顺从如何同时破坏行动者的内部认知连贯性与外部关系性地位。
+> [!concept-proposition] 命题一｜过度顺从算法系统导致程序主义与实质主义双重自主性危机
+> **探讨维度　行动者自主性哲学的双重视角** 分析[[Epistemology|认识论]]顺从如何同时破坏行动者的内部认知连贯性与外部关系性地位。
 
 > [!claim] [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **信念修正失灵与关系性自我怀疑** 程序主义自主性要求个体维持信念的一致性与基于证据的主动修正能力。当操作者在已察觉反常证据时仍反复顺从错误算法提示，表明其理性信念修正能力发生功能性断裂；而在实质主义/关系自主视角下，对系统的过度顺从反映出社会技术环境削弱了个体对自身作为合法认识权威的自我肯定态度（Lack of Self-Regarding Attitude），使人类在算法规约与制度压力下自主能动性受到削弱。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 12–17)]]
 
 ---
 
-### 命题二　向无道德能力的自动化系统顺从构成了对人类尊严与道德责任的背离
-
-> [!concept-lens] 高风险决策中的道德受托责任
-> 论证在关乎人的生命权与重大利益的情境中，认识论顺从具有严重的道德不正当性。
+> [!concept-proposition] 命题二｜向无道德能力的自动化系统顺从构成了对人类尊严与道德责任的背离
+> **探讨维度　高风险决策中的道德受托责任** 论证在关乎人的生命权与重大利益的情境中，认识论顺从具有严重的道德不正当性。
 
 > [!claim] [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **尊严关切的机器不可通达性** 人类生命具备内在道德价值，要求一切关乎生死的强制性裁决（如自主武器击杀、重症急救、司法刑罚）必须经过真实人类道德能动者的审慎评判。人工智能系统无法理解人类生命的伦理意义，亦无法产生真正的道德同理；操作者对系统提示的认识论顺从，实质上是将非人类系统置于关键裁决地位，构成了对人类尊严与专业道德受托责任的放弃。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
 
 ---
 
-### 命题三　通过反思机器与反驳型击败者重构可质询性是破除认识论顺从的根本路径
-
-> [!concept-lens] [[Epistemic Friction|认识论摩擦]]与权威再平衡
-> 探讨如何通过界面交互与技术架构设计重建操作者的认识抗辩权。
+> [!concept-proposition] 命题三｜通过反思机器与[[Defeater|反驳型击败者]]重构可质询性是破除认识论顺从的根本路径
+> **探讨维度　[[Epistemic Friction|认识论摩擦]]与权威再平衡** 探讨如何通过界面交互与技术架构设计重建操作者的认识抗辩权。
 
 > [!claim] Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **以反思摩擦打破无条件顺从** 破除操作者对系统的认识论顺从，不能单靠操作者个人意愿，必须在技术交互界面嵌入结构化的[[Epistemic Friction|认识论摩擦]]：

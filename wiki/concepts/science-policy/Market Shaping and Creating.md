@@ -11,7 +11,7 @@ aliases:
 summary: "指国家与公共机构不局限于事后修复既有市场失灵，而是通过战略投资、需求侧公共采购、标准规制、制度化附加条件与前沿引领，依托公共动态能力主动构筑、从零创造并共同重塑新经济、社会与技术景观的公共政策范式。"
 type: concept
 domain: "science-policy"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -74,6 +74,7 @@ related_facts:
   - "[[Infrastructure Investment and Jobs Act]]"
   - "[[Brookings Institution]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[American Spaces]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -140,50 +141,40 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　公共部门的主动市场塑造能够有效引导私人资本形成良性挤入而非必然导致挤出
-
-> [!concept-lens] 市场预期与资本配置引导维度
-> 传统[[Market Failure|市场失灵理论]]预设公共投资会与私人资本争夺有限资源并造成市场扭曲；演化与创新视角则强调创新驱动型增长取决于对未来技术与市场机会的预期构建。
+> [!concept-proposition] 命题一｜公共部门的主动市场塑造能够有效引导私人资本形成良性挤入而非必然导致挤出
+> **探讨维度　市场预期与资本配置引导维度** 传统[[Market Failure|市场失灵理论]]预设公共投资会与私人资本争夺有限资源并造成市场扭曲；演化与创新视角则强调创新驱动型增长取决于对未来技术与市场机会的预期构建。
 
 > [!claim] [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]
 > **投资挤入机制** 国家和使命型公共机构（如[[DARPA|美国国防高级研究计划局]] DARPA、[[National Institutes of Health|美国国立卫生研究院]] NIH 等）通过在最具不确定性的技术前沿开辟全新领域，明确了未来的经济增长轨道与社会需求，从而极大地提升了企业对新兴技术商业化前景的预期，有效带动并撬动了私人部门的后续跟进投资（Crowding in），实现了全新产业生态的共同塑造。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]
 
 ---
 
-### 命题二　市场共创必须建立风险共担与收益共享的对称性制度机制
-
-> [!concept-lens] 创新收益的社会化分配维度
-> 当代公共政策中普遍存在风险社会化（由纳税人和国家承担早期研发失败损失）而收益私有化（由少数私营企业垄断商业化暴利）的结构性失衡。
+> [!concept-proposition] 命题二｜市场共创必须建立风险共担与收益共享的对称性制度机制
+> **探讨维度　创新收益的社会化分配维度** 当代公共政策中普遍存在风险社会化（由纳税人和国家承担早期研发失败损失）而收益私有化（由少数私营企业垄断商业化暴利）的结构性失衡。
 
 > [!claim] [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]
 > **风险收益对称机制** 若公共资金在早期技术开发中承担了类似于甚至超越私人风险投资机构的高难度风险，那么公共部门必须享有与所承担风险相匹配的回报机制。通过保留黄金股知识产权、建立收益特许提成、推行与收入挂钩的贷款偿还机制或对由公共资助衍生的核心成果实施价格上限管制，不仅能够维持公共创新基金的长期可持续循环，更能确保创新红利惠及全体公众。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 
 ---
 
-### 命题三　公共部门动态能力是实现有效市场塑造而非被动俘获或寻租锁定的制度前提
-
-> [!concept-lens] 组织能力与市场共创互动维度
-> 探讨公共机构为何必须具备动态能力以避免退化为利益集团俘获或低效指令。
+> [!concept-proposition] 命题三｜[[Public Dynamic Capabilities|公共部门动态能力]]是实现有效市场塑造而非被动俘获或寻租锁定的制度前提
+> **探讨维度　组织能力与市场共创互动维度** 探讨公共机构为何必须具备动态能力以避免退化为利益集团俘获或低效指令。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **[[Public Dynamic Capabilities|公共动态能力]]奠定市场塑造制度基石** 市场塑造并非简单的国家干预，它高度依赖国家、政策与行政三层[[Public Dynamic Capabilities|公共动态能力]]。若缺乏专业能力与反思机制，产业规划极易像 1960 年代英国那样落入平庸利益集团的俘获与短期化；相反，战后法国计划署（[[French Modernisation Commissions|Commissariat Général du Plan]]）通过遴选意愿者与现代化委员会合作，[[CERN|欧洲核子研究组织]]（CERN）通过战略采购学习，均证明唯有公共部门自身具备战略理解、网络协调与敏捷反思能力，市场塑造才能转化为跨部门的持续创新繁荣。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
 
 ---
 
-### 命题四　公共首发采购与技术择优发包能够从零创造初始市场并重塑竞争性产业生态
-
-> [!concept-lens] 市场从无到有创设与打破垄断维度
-> 探讨国家如何在完全不存在民间商业需求的产业萌芽期，通过托底采购创造首发市场，并利用发包机制打破传统行业巨头垄断。
+> [!concept-proposition] 命题四｜公共首发采购与技术择优发包能够从零创造初始市场并重塑竞争性产业生态
+> **探讨维度　市场从无到有创设与打破垄断维度** 探讨国家如何在完全不存在民间商业需求的产业萌芽期，通过托底采购创造首发市场，并利用发包机制打破传统行业巨头垄断。
 
 > [!claim] [[Argument_Schnee_1978_RP|Schnee (1978)]]
 > **首发市场创设与竞争性结构重塑机制** [[Jerome E. Schnee|杰罗姆·E·施尼]]（Jerome E. Schnee）实证揭示，在 1962 年集成电路与 1954 年计算机商业化元年，联邦国防与空间采购包揽了 100% 的市场份额，直接从无到有创造了初始市场；更为关键的是，国防部坚持基于技术性能参数而非企业既往规模或声誉进行发包，将关键订单授予德州仪器、[[Fairchild Semiconductor|仙童半导体]]与 Transitron 等新创非电子管企业，使新创企业市场份额在十年内由 40% 跃升至 64%–69%，彻底打破了通用电气、美国无线电公司与雷神等老牌电子管巨头的垄断格局，通过支持激进进入者成功重塑了高度竞争的微电子产业生态。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–9)]]
 
 ---
 
-### 命题五　制度化附加条件与护栏条款是现代产业战略将市场塑造转化为公共价值的操作性契约杠杆
-
-> [!concept-lens] 市场塑造的[[Operationalization|操作化]]契约治理维度
-> 探讨现代国家如何超越单纯的资金供给，通过具有法律约束力的附加条件引导市场向包容性与[[Public Value|公共价值]]方向演进。
+> [!concept-proposition] 命题五｜[[Policy Conditionalities|制度化附加条件]]与护栏条款是现代产业战略将市场塑造转化为[[Public Value|公共价值]]的操作性契约杠杆
+> **探讨维度　市场塑造的[[Operationalization|操作化]]契约治理维度** 探讨现代国家如何超越单纯的资金供给，通过具有法律约束力的附加条件引导市场向包容性与[[Public Value|公共价值]]方向演进。
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
 > **附加条件契约与公共价值护栏** 埃利萨贝思·雷诺兹（Elisabeth B. Reynolds）实证考察美国三大现代产业法案指出，市场塑造不仅需要明确方向，更需要依托微观契约治理机制（The "How"）。在《芯片与科学法》（[[CHIPS and Science Act|CHIPS Act]]）与《[[Inflation Reduction Act|通胀削减法]]》（[[International Reading Association|IRA]]）中，政府通过将托儿服务（针对 >1.5 亿美元资助）、现行工资与[[Apprenticeship|学徒制]]（5 倍税收抵免乘数）、超额利润分成、禁止股票回购以及占 20% 权重的社区利益计划（CBP）作为资助前置条件，从制度层面确保了公共投资在扩大产能的同时塑造了高质量劳工与社区利益市场，防范了公共资金沦为私营股东的金融化投机工具。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–13)]]
@@ -258,5 +249,5 @@ updated: 2026-10-22
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统论证市场塑造与共创[[Paradigm|范式]]在应对重大社会挑战中的核心机制，提出超越[[Market Failure|市场失灵]]的[[Public Value|公共价值]]与评估框架。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 将市场塑造确立为使命政策两大支柱之一，论证其依托需求侧战略采购拉动技术外溢的机制，并提出三层[[Public Dynamic Capabilities|公共动态能力]]与[[Lead-and-Learn Paradigm|引领与学习范式]]作为制度保障。
-> - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统评估美国空间与国防项目对半导体和计算机等高科技产业的需求侧塑造机制，实证揭示早熟集成电路 100% 采购托底如何创造初始市场、释放 20%–30% 的[[Learning Economy|学习经济]]效应并扶植新进入者重塑竞争性格局。
+> - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统评估[[American Spaces|美国空间]]与国防项目对半导体和计算机等高科技产业的需求侧塑造机制，实证揭示早熟集成电路 100% 采购托底如何创造初始市场、释放 20%–30% 的[[Learning Economy|学习经济]]效应并扶植新进入者重塑竞争性格局。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 结合美国现代产业战略实施实践，实证阐述如何通过 [[Build America, Buy America Act|BABA]] 采购拉动、技术中立税收激励与托儿/[[Apprenticeship|学徒制]]/利润分享等[[Policy Conditionalities|制度化附加条件]]将市场塑造转化为具法律约束力的公私社会契约。

@@ -9,7 +9,7 @@ aliases:
 summary: "当代科学教育的核心范式：倡导学生像专业科学家共同体一样直面科学不确定性、构建与修订因果解释、展开基于证据的论辩并享有认识能动性，而非机械执行预设教案"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 27
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,10 +34,10 @@ related_concepts:
   - "[[Epistemological Break]]"
   - "[[Variable]]"
   - "[[Reflective Structuration]]"
+  - "[[Scientific Explanation]]"
   - "[[Discourse]]"
   - "[[Externalization]]"
   - "[[Direct Instruction]]"
-  - "[[Scientific Explanation]]"
   - "[[Epistemological Understanding]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
@@ -48,7 +48,8 @@ related_instruments: []
 related_persons:
   - "[[Clark A. Chinn]]"
   - "[[Jianwei Zhang]]"
-related_facts: []
+related_facts:
+  - "[[National Research Council]]"
 related_arguments:
   - "[[Argument_Zhang_2022_SE]]"
   - "[[Argument_Sandoval_2005_SE]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -115,10 +116,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　真实科学实践要求学习者直面不确定性并经历意义协商而非执行预设验证规程
-
-> [!concept-lens] [[Epistemology|认识论]]与探究本质维度
-> 本命题确立真实科学实践区别于伪探究的根本认识论分水岭：科学知识的生产内在地包含对模糊性与意外证据的持续导航。
+> [!concept-proposition] 命题一｜真实科学实践要求学习者直面不确定性并经历意义协商而非执行预设验证规程
+> **探讨维度　[[Epistemology|认识论]]与探究本质维度** 本命题确立真实科学实践区别于伪探究的根本认识论分水岭：科学知识的生产内在地包含对模糊性与意外证据的持续导航。
 
 > [!claim] [[Clark A. Chinn|Chinn, C. A.]] & Malhotra, B. A.
 > **真实科学与学校科学的[[Epistemological Break|认识论断裂]]** 钦恩与马尔霍特拉通过系统对比指出，传统学校实验多为直线性、去情境化的简单观察，向学生传递了“科学即按部就班寻找确定真理”的扭曲认识论；唯有引入[[Variable|变量]]控制的复杂性、多重假设竞争与理论修正，才能还原真实科学探究的认识论本色。(Chinn & Malhotra, 2002)
@@ -128,10 +127,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　行使认识能动性是区分真实科学实践与机械照搬教案的核心标志
-
-> [!concept-lens] 学生主体性与课堂权力维度
-> 组织层面的保障旨在支持学生从被动执行操作转变为实质意义上的科学研究者。
+> [!concept-proposition] 命题二｜行使[[Epistemic Agency|认识能动性]]是区分真实科学实践与机械照搬教案的核心标志
+> **探讨维度　学生主体性与课堂权力维度** 组织层面的保障旨在支持学生从被动执行操作转变为实质意义上的科学研究者。
 
 > [!claim] Stroupe, D.
 > **打破教师作为唯一认识权威的垄断** 斯特劳普指出，传统课堂中教师垄断了决定“研究什么、何时研究、何为正确”的全部权力；真实科学实践必须重构课堂社会权力构型，把探究方向的裁决权归还给学生共同体。(Stroupe, 2014)
@@ -141,10 +138,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题三　真实科学实践整合认识、社会与物质维度以促进深层科学解释建构
-
-> [!concept-lens] 实践多维整合维度
-> 科学探究是[[Discourse|话语]]、工具与社会规则交织的整体性实践，不能孤立地理解为心智运算。
+> [!concept-proposition] 命题三｜真实科学实践整合认识、社会与物质维度以促进深层[[Scientific Explanation|科学解释建构]]
+> **探讨维度　实践多维整合维度** 科学探究是[[Discourse|话语]]、工具与社会规则交织的整体性实践，不能孤立地理解为心智运算。
 
 > [!claim] Ford, M. J. & Forman, E. A.
 > **科学实践的双重社会角色** 福特与福曼提出，真实科学实践包含“观念主张的创造者”与“批判性证据的评审者”双重角色；课堂必须建立支持这两种角色对称互动的社会机制。(Ford & Forman, 2006)
@@ -166,7 +161,7 @@ updated: 2026-10-22
 > [!dev-timeline] 真实科学实践概念的学术演变脉络
 > - **2002 — [[Epistemology|认识论]]批判与奠基** Chinn & Malhotra 发表经典论文《Authentic Inquiry in the Classroom》，正式确立真实科学探究与传统学校实验的认识论对比框架。
 > - **2006 — 建模与社会实践转向** Lehrer & Schauble 及 Ford & Forman 推动科学教育从孤立技能训练转向“参与科学实践（Engaging in Scientific Practices）”与模型建构。
-> - **2012–2013 — 政策标准确立与八大实践规范化** 美国国家研究理事会（NRC）发布《K-12 科学教育框架》，随后《下一代科学标准》（NGSS）正式确立涵盖提问、建模、调查、论辩等在内的八项核心科学与工程实践（SEPs）。
+> - **2012–2013 — 政策标准确立与八大实践规范化** 美国国家研究理事会（[[National Research Council|NRC]]）发布《K-12 科学教育框架》，随后《下一代科学标准》（NGSS）正式确立涵盖提问、建模、调查、论辩等在内的八项核心科学与工程实践（SEPs）。
 > - **2015–2018 — 不确定性与[[Epistemic Agency|认识能动性]]深化** Manz、Miller 与 Stroupe 等学者深入探讨如何在真实课堂中驾驭[[Scientific Uncertainty|科学不确定性]]并落实学生的认识能动性。
 > - **2022 — 与[[Knowledge Building Theory|知识建构]]社群及自组织架构整合** [[Jianwei Zhang|张建伟]]等学者发表长周期实证[[Cohort Study|追踪研究]]，阐明如何通过[[Reflective Structuration|反思性结构化]]与[[Opportunistic Collaboration|弹性协作]]在小学科学课中全面激活学生的真实科学实践。[[Argument_Zhang_2022_SE\|(Zhang et al., 2022)]]
 

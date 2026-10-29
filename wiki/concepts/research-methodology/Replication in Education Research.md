@@ -11,7 +11,7 @@ aliases:
 summary: "在多元教育情境中对前人干预方案或实证发现进行独立重复检验的方法学机制，旨在克服小样本偏倚、开发者利益冲突与自编测验虚夸，确立研究成果的外部概化效度与实践可靠性"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,8 +27,11 @@ related_concepts:
   - "[[Evaluator Independence]]"
   - "[[Preregistration]]"
   - "[[Variable]]"
+  - "[[Chain of Evidence]]"
+  - "[[Reliability]]"
   - "[[Metascience]]"
   - "[[Visible Learning]]"
+  - "[[Document]]"
   - "[[Developer-Made Measures]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -56,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-17'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -88,28 +91,22 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　跨情境独立复现是保障教育干预外部效度与克服地方局限的唯一科学路径
-
-> [!concept-lens] [[External Validity\|外部效度]]与概化机制维度
-> 探讨如何通过跨情境复现化解单学区深入研究在向外推广时面临的生态局限。
+> [!concept-proposition] 命题一｜跨情境独立复现是保障教育干预[[External Validity|外部效度]]与克服地方局限的唯一科学路径
+> **探讨维度　[[External Validity\|外部效度]]与概化机制维度** 探讨如何通过跨情境复现化解单学区深入研究在向外推广时面临的生态局限。
 
 > [!claim] [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]
 > **多情境复现对抗单学区过度拟合** 针对学界主张单一学区深度合作优于跨区实验的观点，[[Robert Slavin\|罗伯特·斯莱文]]（Robert E. Slavin）指出，单学区深入研究虽高度契合本地，但极易与当地特殊的政治生态、强势领导力或特定人员发生过度绑定，反而严重阻碍了向其他常态化学校的推广；科学概化力的根基在于由独立团队在多元复杂的现实学校中进行高保真复现，只有在日益严格的第三方复现检验中依然保持正向成效的方案，才具备在全国范围内制度化推广的可靠依据。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 26–27)]]
 
-### 命题二　从直接复现走向改良型复现与情境迁移研究是标定证据有效边界的制度保障
-
-> [!concept-lens] 证据情境扰动与适用边界标定维度
-> 探讨如何通过系统改变关键实施参数，克服单纯直接复现无法指导现实复杂采办的供给断层。
+> [!concept-proposition] 命题二｜从直接复现走向改良型复现与情境迁移研究是标定证据有效边界的制度保障
+> **探讨维度　证据情境扰动与适用边界标定维度** 探讨如何通过系统改变关键实施参数，克服单纯直接复现无法指导现实复杂采办的供给断层。
 
 > [!claim] [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]]
 > **多维参数扰动的改良型复现克服证据情境衰减** [[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024]]）对大型城市学区 2.88 亿美元教育经费审计发现，单纯依靠在完全相同情境下重复实施的原样直接复现（Direct Replication），根本无法满足地方学区在多元现实生态中的采办需求。实证审计中有多达 26 项采购实践在目标学段检索不到任何实证研究，且大量研究呈现出严重的跨学段与跨群体情境迁移衰减。为此，研究者援引施奈德（Schneider, 2021）的方法学主张，呼吁将科研资助重点转向**改良型复现（Modified Replications）** 与**情境迁移研究（Transferability Studies）**——通过系统性地主动改变受试学生群体（如英语学习者、特殊教育）、学段层次（小学 vs 初高中）、区域生态（城市、郊区、农村）或交付机制（在岗教练辅导 vs 微课交付 vs 软件辅助）等一至多项核心[[Variable\|变量]]，精确测绘因果干预在不同现实条件下的有效性边界，防止学区因证据供给断层而滥用跨学段降维推断。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 177–180)]]
 
 ---
 
-### 命题三　从现场干预复现延伸至二阶数据提取复现是保障宏观证据链可信度的基石
-
-> [!concept-lens] [[Metascience|元科学]]数据审计与复现边界拓展
-> 探讨复现概念如何从微观一阶现场干预试验拓展至宏观[[Meta-meta-analysis|二阶元分析]]数据库的“数据提取独立复现”，揭示二阶知识汇总设施中数据断裂的系统性风险。
+> [!concept-proposition] 命题三｜从现场干预复现延伸至二阶数据提取复现是保障宏观[[Chain of Evidence|证据链]]可[[Reliability|信度]]的基石
+> **探讨维度　[[Metascience|元科学]]数据审计与复现边界拓展** 探讨复现概念如何从微观一阶现场干预试验拓展至宏观[[Meta-meta-analysis|二阶元分析]]数据库的“数据提取独立复现”，揭示二阶知识汇总设施中数据断裂的系统性风险。
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
 > **二阶数据提取复现检验与灾难性复现危机** 传统教育复现研究多聚焦于在学校现场重新实施一阶干预方案（如 [[Randomised Controlled Trials|RCT]] 复现）。然而卡尔门达尔（Kalmendal）等学者对《[[Visible Learning|可见的学习]]》数据库全量 322 个影响因素开展独立元科学审计表明，二阶[[Research Synthesis|证据综合]]基础设施自身同样面临致命的不可复现危机。研究团队制定了严谨的“遇错即止”独立数据提取复现规程（Replication until failure）：随机抽取各因素收录的[[Meta-analysis|元分析]]进行独立数据核查。结果揭示：在可查的 301 个影响因素中，仅有 **2 项**（0.66%）能够成功复现数据提取；高达 **44%** 的报告[[Effect Size|效应量]]在原文中完全不存在，另有 33% 提取自错误的无关子组；伴随的[[Sample Size Determination|样本量]]错误率高达 72%。这实证表明：若缺乏二阶数据提取层面的独立复现机制，所谓囊括数千万受试者的宏观证据库可能完全建立在虚假提取与数据幻象之上，其推荐清单无法作为任何政策与教学决策依据。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 18–19)]]
@@ -117,7 +114,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **多情境独立直接复现** | 依托[[Evaluator Independence\|第三方独立评估]]与跨区大样本整群试验，消除开发者期望与单学区过度拟合 | 国家级干预方案评估与循证推广准入 | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] |
 > | **改良型复现与情境迁移** | 系统变动群体、学段、区域与交付[[Variable\|变量]]，测绘因果效应有效性边界与衰减规律 | 地方学区多元采办决策与分层证据供给 | Schneider (2021); [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] |

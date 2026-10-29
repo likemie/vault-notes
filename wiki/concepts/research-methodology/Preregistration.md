@@ -5,10 +5,10 @@ aliases:
 summary: "在研究开始前公开登记研究设计、结果测量和分析计划的做法，用于减少事后调整、选择性报告和可疑研究实践。"
 type: concept
 domain: "research-methodology"
-related_count: 58
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - preregistration
   - research-methodology
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Reproducibility Crisis]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Document]]"
   - "[[Counterfactual]]"
   - "[[Variable]]"
   - "[[External Validity]]"
@@ -48,6 +49,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
+  - "[[Experimental Research]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Effect Size]]"
   - "[[Covariate Adjustment]]"
@@ -84,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -108,7 +110,7 @@ updated: 2026-10-22
 > *"All evaluations are protocol-driven and are pre-registered on the International Standard Randomised Controlled Trial Number (ISRCTN) registry... protocols and [[Structural Adjustment Programs|SAPs]] are published online ahead of trials starting, thereby preventing cherry-picking of results."*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Publication Bias\|发表偏倚]] 发表偏倚是文献库中系统性过滤零结果的宏观现象；预注册是微观与中观层面的前置解决方案。
+> - 不等于 [[Publication Bias\|发表偏倚]] 发表偏倚是[[Document|文献]]库中系统性过滤零结果的宏观现象；预注册是微观与中观层面的前置解决方案。
 > - 不等于 [[Researcher Degrees of Freedom\|研究者自由度]] 研究者自由度是预注册旨在规制的操作行为；预注册事前锁定分析模型，但无法完全消除事后变通空间。
 > - 不等于开放数据（Open Data） 预注册是事前分析意图的时间戳锁定；开放数据是事后微观原始数据的公开归档，二者前后互补，缺一不可。
 > - 不等于注册报告（Registered Reports） 注册报告是学术期刊在数据收集前即给予原则性接收（in-principle acceptance）的同行评审出版机制；预注册是研究者在平台独立备案方案的行为，本身不附带期刊直接录用承诺。
@@ -126,7 +128,7 @@ updated: 2026-10-22
 ---
 
 > [!feature] 预注册的核心要素体系
-> - **研究设计与[[Random Assignment\|随机化]]方案** 明确界定实验设计（如[[Cluster Randomized Trials\|整群随机试验]]、阶梯楔形设计）、分配单位（学生、班级、学校）、随机化序列生成机制以及[[Sample Size Determination\|样本量]]与最小可测[[Effect Size\|效应量]]（MDES）规划。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, pp. 443–444)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 51)]]
+> - **研究设计与[[Random Assignment\|随机化]]方案** 明确界定[[Experimental Research|实验设计]]（如[[Cluster Randomized Trials\|整群随机试验]]、阶梯楔形设计）、分配单位（学生、班级、学校）、随机化序列生成机制以及[[Sample Size Determination\|样本量]]与最小可测[[Effect Size\|效应量]]（MDES）规划。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, pp. 443–444)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 51)]]
 > - **主要与次要结果[[Variable\|变量]]界定** 预先声明主要学业产出指标（强制要求具有高[[External Validity\|外部效度]]的独立标准化考试）与次要探索性指标，杜绝在多重测量中后验挑拣显著变量（cherry-picking）。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 443)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 > - **[[Statistical Analysis Plan\|统计分析计划]]（Statistical Analysis Plan，SAP）** 预先详述最终计量模型、[[Covariate Adjustment\|协变量控制]]准则、班级聚类效应调整（Demack, 2019）、缺失值多重插补或完全用例假定，以及[[Intent-to-Treat Analysis\|意向性分析]]（[[Intent-to-Treat Analysis]]，[[Initial Teacher Training\|ITT]]）规程。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 51–53)]]
 > - **[[Counterfactual\|反事实]]对照条件描述** 详尽阐述对照组的具体活动，明确对照组是纯粹[[Business as Usual\|常态教学]]（business as usual）还是接受替代干预，防止反事实模糊掩盖真实效应。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 444)]]
@@ -158,26 +160,22 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　预注册通过事前锁定分析计划有效遏制假阳性与选择性报告
-
-> [!concept-lens] 自由度抑制机制
-> 围绕事前锁定如何阻断研究者在多重假设检验与海量模型组合中筛选虚假显著结果，学界强调制度化的时间戳备案能够从根本上扭转选择性报告偏倚。
+> [!concept-proposition] 命题一｜预注册通过事前锁定分析计划有效遏制假阳性与选择性报告
+> **探讨维度　自由度抑制机制** 围绕事前锁定如何阻断研究者在多重假设检验与海量模型组合中筛选虚假显著结果，学界强调制度化的时间戳备案能够从根本上扭转选择性报告偏倚。
 
 > [!claim] Wolf, P. J.
 > **准入约束阻断[[Publication Bias\|发表偏倚]]** 将预注册确立为教育项目审查机构准入前置条件能够有效解决假阳性危机。引用 Gehlbach and Robinson (2018) 在《教育成效评估期刊》（Journal of Research on Educational Effectiveness，JREE）上的论述，指出研究者在面对大量次要指标与亚组划分时具有极高的选择自由；若不强制在效能与有效性研究注册处（Registry of Efficacy and Effectiveness Studies，REES）登记主要终点与分析方法，最终报告必然倾向于选择性呈现最优效应。要求进入有效教育评价所（[[What Works Clearinghouse]]，WWC）的研究必须预注册，是杜绝此类可疑研究实践的核心制度解法。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 443)]]
 
 > [!claim] Edovald, T. & Nevill, C.
-> **全链条时间戳公开根除结果挑拣** 社会科学文献中显著正向结果的发表几率比零结果高出 40 个百分点（Franco et al., 2014）。英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）在资助大规模试验时，强制要求评估团队在干预开始前公开发布评估方案与[[Statistical Analysis Plan\|统计分析计划]]（SAP），并在国际标准[[Randomised Controlled Trials\|随机对照试验]]编码（[[ISRCTN]]）平台注册；评估报告模板严格基于试验报告统一标准（Consolidated Standards of Reporting Trials，CONSORT）声明，无论结果是否显著均无条件全量公开，从根本上杜绝了评估者根据事后数据走向挑拣结果或隐匿零结果的可能。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 51)]]
+> **全链条时间戳公开根除结果挑拣** 社会科学[[Document|文献]]中显著正向结果的发表几率比零结果高出 40 个百分点（Franco et al., 2014）。英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）在资助大规模试验时，强制要求评估团队在干预开始前公开发布评估方案与[[Statistical Analysis Plan\|统计分析计划]]（SAP），并在国际标准[[Randomised Controlled Trials\|随机对照试验]]编码（[[ISRCTN]]）平台注册；评估报告模板严格基于试验报告统一标准（Consolidated Standards of Reporting Trials，CONSORT）声明，无论结果是否显著均无条件全量公开，从根本上杜绝了评估者根据事后数据走向挑拣结果或隐匿零结果的可能。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 51)]]
 
 > [!claim] [[Robert Slavin\|Slavin, R.]] E.
 > **前置质控与外部独立评估破除[[Replication in Education Research\|复现危机]]** 早期教育[[Intervention Research\|干预研究]]屡现复现危机（[[Reproducibility Crisis|Replication Crisis]]），主要根源于小样本抽样、开发者自评利益冲突以及随意挑选自编测验等可疑研究实践。在《每个学生都成功法案》（[[Every Student Succeeds Act\|ESSA]]）循证改革中，大型联邦资助项目（如 i3 与 [[Education Innovation and Research\|EIR]]）和英国 EEF 强制要求在公共登记处（如 REES、ISRCTN）进行时间戳预注册并锁定统计分析计划（SAP），与[[Evaluator Independence\|第三方独立评估]]、多中心大样本整群试验共同构筑了坚实的质控标准，从根本上阻断了事后数据钓鱼与选择性报告，使达到循证标准的教育项目展现出高度可复现的实证效能。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25, 27)]]
 
 ---
 
-### 命题二　预注册无法完全消除观察数据后的自由度需配合数据开放与代码审计
-
-> [!concept-lens] 预注册的不充分性与互补规程
-> 围绕预注册为何不能单独构成研究质量的充分保证，学者指出数据呈现后的微观操作分叉依然存在，唯有打通微观数据库与统计代码共享，才能构建真正的可复现性防线。
+> [!concept-proposition] 命题二｜预注册无法完全消除观察数据后的自由度需配合数据开放与代码审计
+> **探讨维度　预注册的不充分性与互补规程** 围绕预注册为何不能单独构成研究质量的充分保证，学者指出数据呈现后的微观操作分叉依然存在，唯有打通微观数据库与统计代码共享，才能构建真正的可复现性防线。
 
 > [!claim] Gelman, A. & Loken, E.
 > **分叉路径的花园中仍存未记录自由度** 预注册虽然规定了大致的统计框架，但即使最详尽的预注册也无法完全穷尽数据处理的所有微观细节。研究者在观察到真实数据后，往往能够本能地提出看似合理的理由来排除离群值、合并亚组或变换[[Variable\|变量]]，从而在不违背宏观预注册声明的表象下，继续游走于分叉路径的花园（garden of forking paths）之中。因此，预注册提供了约束但不构成绝对担保。[[Argument_Wolf_2020_JREE\|(Gelman & Loken, 2014, 引用见 Wolf et al., 2020, p. 444, 引自 Wolf et al., 2020)]]
@@ -190,10 +188,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题三　方案偏离在开放学校生态中不可避免核心在于透明记录与合理性辩护
-
-> [!concept-lens] 制度刚性与实地生态的调试
-> 围绕预注册的刚性条款与教育现场复杂性之间的冲突，研究者论证了在开放学校环境中绝对零偏离的不现实性，确立了以透明报告和方法学合理性辩护为核心的应对准则。
+> [!concept-proposition] 命题三｜方案偏离在开放学校生态中不可避免核心在于透明记录与合理性辩护
+> **探讨维度　制度刚性与实地生态的调试** 围绕预注册的刚性条款与教育现场复杂性之间的冲突，研究者论证了在开放学校环境中绝对零偏离的不现实性，确立了以透明报告和方法学合理性辩护为核心的应对准则。
 
 > [!claim] Wolf, P. J.
 > **现实复杂情境要求允许有合理理由的合规偏离** 学校与学区环境具有高度动态性，干预往往难以完全依照实验室式的既定计划推进。由于突发组织变故、人员流动或实施环境异动，评估者不可避免需要调整原始方案。过于僵化、机械的预注册要求不仅会脱离一线实践，还可能迫使评估者掩盖必要的调整；因此，制度设计的关键在于建立规范的偏离辩护机制，允许评估者透明记录所有偏离原因，并交由审查机构评判其合理性。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 444)]]
@@ -203,10 +199,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题四　预注册规程与独立第三方评估的制度绑定构成证据安全度的关键防线
-
-> [!concept-lens] 制度设计与合规惩戒机制
-> 围绕预注册如何转化为实质性的科学约束力，学者指出必须将预注册与独立评估团队防火墙、合同权责约束及证据等级降级惩戒深度绑定。
+> [!concept-proposition] 命题四｜预注册规程与独立第三方评估的制度绑定构成证据安全度的关键防线
+> **探讨维度　制度设计与合规惩戒机制** 围绕预注册如何转化为实质性的科学约束力，学者指出必须将预注册与独立评估团队防火墙、合同权责约束及证据等级降级惩戒深度绑定。
 
 > [!claim] Edovald, T. & Nevill, C.
 > **协议防火墙与安全锁扣分机制形成强硬合规约束** 孤立的自愿预注册难以遏制利益相关方的发表冲动。EEF 将预注册置于独立的评估制度体系中：设立评估者专家库并推行三方资助协议，将干预项目方与评估团队在组织和财务上彻底物理隔离；在证据评级体系中研发了[[EEF Padlock Security Rating\|挂锁安全评级]]（The EEF, 2019c），明确将是否忠实遵循预注册评估方案与统计分析计划（SAP）作为核心审查项。凡未获预先批准擅自修改主要结果测量、变换分析模型或违背[[Intent-to-Treat Analysis\|意向性分析]]规程的研究，直接扣除 1 把挂锁，从而使 85% 以上发表报告稳固维持在 3 锁以上的高质量水平。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–52, 57)]]

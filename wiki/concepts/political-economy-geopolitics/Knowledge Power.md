@@ -57,7 +57,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-10-19
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -102,30 +102,24 @@ updated: 2026-10-25
 
 ## 围绕概念形成的命题
 
-### 命题一　排他性大学联盟是行使知识权力的制度载体
-
-> [!concept-lens] 制度载体与议程设定
-> 该命题探讨国家如何依托高门槛的跨国学术联盟，将优质高等教育与前沿科研资源转化为制度性主导权。
+> [!concept-proposition] 命题一｜排他性大学联盟是行使知识权力的制度载体
+> **探讨维度　制度载体与议程设定** 该命题探讨国家如何依托高门槛的跨国学术联盟，将优质高等教育与前沿科研资源转化为制度性主导权。
 
 > [!claim] Chou, M.-H. and Demiryol, T.
 > **排他性精英网络辐射[[Epistemic Governance|知识治理]]模式** 设立严苛准入门槛并吸纳少数旗舰[[Research Universities|研究型大学]]的跨国联盟，赋予主导高校高效设定学术议程的制度特权，推动其[[Epistemic Governance|知识治理]]模式辐射至关键区域节点。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1698–1702)]]
 
 ---
 
-### 命题二　知识权力与知识外交在外向型战略中呈现功能互补
-
-> [!concept-lens] 复合型外向战略逻辑
-> 该命题探讨新兴大国在构建跨国学术网络时，如何协同运用不同类型的多边机制加速全球网络中心性确立。
+> [!concept-proposition] 命题二｜知识权力与[[Knowledge Diplomacy|知识外交]]在外向型战略中呈现功能互补
+> **探讨维度　复合型外向战略逻辑** 该命题探讨新兴大国在构建跨国学术网络时，如何协同运用不同类型的多边机制加速全球网络中心性确立。
 
 > [!claim] Chou, M.-H. and Demiryol, T.
 > **双轨并行加速网络中心性确立** 新兴大国在构建跨国学术网络时并行采纳两种逻辑，依靠开放型网络扩大连接广度，依靠精英型联盟深化规则主导权，共同加速其全球网络中心地位的常态化确立。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
 
 ---
 
-### 命题三　源于本土扎根与道义团结的代表性知识挑战全球北方技术垄断并重塑跨国知识权力格局
-
-> [!concept-lens] 南南政策循环与[[Representational Knowledge|代表性知识]]权力
-> 探讨全球南方行动者如何依托本土扎根经验与道义号召力，打破全球北方对发展专业知识权力的单向垄断，推动跨国政策知识走向多向流动。
+> [!concept-proposition] 命题三｜源于本土扎根与道义团结的[[Representational Knowledge|代表性知识]]挑战全球北方技术垄断并重塑跨国知识权力格局
+> **探讨维度　南南政策循环与[[Representational Knowledge|代表性知识]]权力** 探讨全球南方行动者如何依托本土扎根经验与道义号召力，打破全球北方对发展专业知识权力的单向垄断，推动跨国政策知识走向多向流动。
 
 > [!claim] [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]]
 > **代表性知识对北方技术专长垄断的解构与反向流动** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）指出，国际发展合作中的跨国[[Policy Mobility|政策流动]]涉及深层的知识权力重塑。长期以来，国际金融机构（[[World Bank|世界银行]]、[[International Monetary Fund|国际货币基金组织]]等）与双边援助方凭借资金优势和计量因果模型，行使界定发展问题与改革方案的技术官僚专长（technocratic expertise）垄断。然而，源于全球南方本土实践、生存感知与道义团结的“[[Representational Knowledge|代表性知识]]”（representational knowledge），对这种单向知识权力构成了实质挑战。以[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）的[[Critical Pedagogy|批判教育学]]以及拉美[[Conditional Cash Transfers|有条件现金转移支付]]改革为例，[[Policy Ambassador|政策大使]]与去中心化实务网络将深植于发展边缘的代表性知识推入国际多边议程，反向输入欧美成熟民主政体并促使正统治理机构修正规程，确立了全球南方重塑跨国知识权力格局的制度效能。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 2–6)]]

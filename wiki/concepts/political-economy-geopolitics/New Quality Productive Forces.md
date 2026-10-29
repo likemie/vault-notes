@@ -6,7 +6,7 @@ aliases:
 summary: "指以创新为主导、以高科技、高效能、高质量为特征的先进生产力质态，以全要素生产率提升为标志，要求重塑技术技能人才素养结构与产教协同网络。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 2
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,12 +16,15 @@ tags:
   - policy/innovation
 related_concepts:
   - "[[Total Factor Productivity]]"
+  - "[[Industry-Education Integration Community]]"
 related_arguments:
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
+related_facts:
+  - "[[ASEAN]]"
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -76,10 +79,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　新质生产力发展要求职业教育重塑人才培养规格并转向全产业链协同育人
-
-> [!concept-lens] 生产力质态演进与人才供给规格
-> 探讨产业技术升级如何打破单一工种培训惯性，推动教育体系协同重组教学资源与实践网络。
+> [!concept-proposition] 命题一｜新质生产力发展要求职业教育重塑人才培养规格并转向全产业链协同育人
+> **探讨维度　生产力质态演进与人才供给规格** 探讨产业技术升级如何打破单一工种培训惯性，推动教育体系协同重组教学资源与实践网络。
 
 > [!claim] [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]]
 > **新质生产力导向下的复合育人重塑** 契合新质生产力发展要求的高素质技能人才，必须兼具内在的数字前沿工具运用能力与外在的跨文化现场协同素养。职业院校必须打破单纯以本土单一产业为基准的封闭办学惯性，依据跨国产业链重组与智能化升级需求，将模块化课程、工程实训基地与跨国产教合作紧密咬合，推动人才供给从低端工种技能培训迈向全生命周期的复合技能协同开发。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 289–291, 300–301)]]
@@ -95,7 +96,7 @@ updated: 2026-10-25
 
 > [!dev-timeline] 概念演变
 > - **2023年9月 — 概念首次提出** 在地方考察调研中首次明确提出“新质生产力”，强调整合科技创新资源，积极培育战略性新兴产业和未来产业。
-> - **2024年1月 — 理论内涵系统界定** 中央政治局第十一次集体学习系统阐释了新质生产力的科学内涵、核心标志（全要素生产率大幅提升）与基本特征（高科技、高效能、高质量）。
+> - **2024年1月 — 理论内涵系统界定** 中央政治局第十一次集体学习系统阐释了新质生产力的科学内涵、核心标志（[[Total Factor Productivity|全要素生产率]]大幅提升）与基本特征（高科技、高效能、高质量）。
 > - **2024–2025年 — 教育与跨国经贸实践深化** 学术界将新质生产力引入职业教育与区域经济合作研究，阐明新质生产力对技能人才素质画像的重塑要求，并推导构建跨区域产教合作生态圈的实践路径。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 286, 300)]]
 
 ---
@@ -106,4 +107,4 @@ updated: 2026-10-25
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合中国与东盟职业教育合作，剖析新质生产力对跨国复合技术技能人才素养规格的重构要求，论证从封闭式技能培训迈向跨区域产教共生生态圈的治理路径。
+> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合中国与[[ASEAN|东盟]]职业教育合作，剖析新质生产力对跨国复合技术技能人才素养规格的重构要求，论证从封闭式技能培训迈向[[Industry-Education Integration Community|跨区域产教共生生态圈]]的治理路径。

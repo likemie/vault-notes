@@ -8,7 +8,7 @@ aliases:
 summary: "指学习者在生成式人工智能支持环境中，因过度依赖算法的即时答案生成与认知外包，自发削减内部认知加工与反思监控努力，导致元认知觉知与自我调节能力停滞或钝化的现象"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 24
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,6 +38,9 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
+  - "[[Variable]]"
+  - "[[Language Skills]]"
+  - "[[Affective Outcomes]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -53,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 （[[Metacognition|元认知]]惰性）
@@ -112,10 +115,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　生成式人工智能的无门槛答案生成机制旁路了学习者内部元认知监控的自发激活
-
-> [!concept-lens] 人机交互中的内部监控抑制
-> 探讨生成式 AI 作为中介工具介入学习活动时，如何通过改变信息加工形态来抑制主体的[[Metacognition\|元认知]]加工深度。
+> [!concept-proposition] 命题一｜[[Generative Artificial Intelligence|生成式人工智能]]的无门槛答案生成机制旁路了学习者内部[[Metacognition|元认知监控]]的自发激活
+> **探讨维度　人机交互中的内部监控抑制** 探讨生成式 AI 作为中介工具介入学习活动时，如何通过改变信息加工形态来抑制主体的[[Metacognition\|元认知]]加工深度。
 
 > [!claim] Fan et al.
 > **[[Cognitive Offloading\|认知外包]]对深层加工的剥离** 学习者在与大语言模型对话时，往往将原本需要内部元认知统筹的问题拆解、推理验证和逻辑重构外包给模型；尽管作文与[[Homework\|作业]]得分显著提高，但概念内化与知识迁移测试中并无增益，表明缺乏思考挑战的交互形式导致了元认知监控机制的休眠。[[Argument_Chen_Cheung_2025_ERR\|(Fan et al., 2025; 引自 Chen & Cheung, 2025, p. 4)]]
@@ -125,10 +126,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　外在教学与技术脚手架的显性植入是打破元认知惰性并重塑自我调节学习的关键前提
-
-> [!concept-lens] 外部反思干预与元认知重塑
-> 探讨如何通过活动系统的规则重塑与工具再设计，将技术从信息供给型跃迁为思维激发型。
+> [!concept-proposition] 命题二｜外在教学与技术[[Scaffolding|脚手架]]的显性植入是打破元认知惰性并重塑[[Self-Regulated Learning|自我调节学习]]的关键前提
+> **探讨维度　外部反思干预与元认知重塑** 探讨如何通过活动系统的规则重塑与工具再设计，将技术从信息供给型跃迁为思维激发型。
 
 > [!claim] Karaoglan Yilmaz & Yilmaz
 > **元[[Scaffolding\|认知脚手架]]的不可或缺性** 学习者在使用 AI 工具时需要更强大的[[Self-Regulated Learning\|自我调节学习]]能力以主动设定目标和评估进度；未来技术与教学设计必须强制嵌入元认知脚手架，推动 AI 从单纯的信息传输转向促进[[Cognitive Flexibility\|认知灵活性]]与自省意识。[[Argument_Chen_Cheung_2025_ERR\|(Karaoglan Yilmaz & Yilmaz, 2025; 引自 Chen & Cheung, 2025, p. 16)]]
@@ -184,11 +183,11 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量维度比较 | 语言技能 | Hedges' $g$ | k = 21 | <span class="mx-bar ef-bar" title="Hedges' g 2.331"><span class="b28"></span></span>2.331 | [1.706, 2.956] | $Q_B = 152.551$, $p < 0.001$ |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量维度比较 | [[Language Skills\|语言技能]] | Hedges' $g$ | k = 21 | <span class="mx-bar ef-bar" title="Hedges' g 2.331"><span class="b28"></span></span>2.331 | [1.706, 2.956] | $Q_B = 152.551$, $p < 0.001$ |
 > |  | 结果变量维度比较 | 学业成绩 | Hedges' $g$ | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.633"><span class="b13"></span></span>0.633 | [0.472, 0.794] | 同上 |
-> |  | 结果变量维度比较 | 情感动机状态 | Hedges' $g$ | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.617"><span class="b12"></span></span>0.617 | [0.435, 0.799] | 同上 |
+> |  | 结果变量维度比较 | [[Affective Outcomes\|情感动机]]状态 | Hedges' $g$ | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.617"><span class="b12"></span></span>0.617 | [0.435, 0.799] | 同上 |
 > |  | 结果变量维度比较 | 高阶思维能力 | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.580"><span class="b12"></span></span>0.580 | [0.380, 0.781] | 同上 |
 > |  | 结果变量维度比较 | 元认知能力 | Hedges' $g$ | k = 10 | <span class="mx-bar ef-bar" title="Hedges' g 0.078"><span class="b2"></span></span>0.078 | [−0.490, 0.647] | 同上 |
 >

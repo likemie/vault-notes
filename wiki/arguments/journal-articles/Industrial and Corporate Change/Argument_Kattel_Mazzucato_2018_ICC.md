@@ -31,6 +31,7 @@ related_concepts:
   - "[[Cognitive Deskilling]]"
   - "[[Big Science]]"
   - "[[Organizational Ambidexterity]]"
+  - "[[Document]]"
   - "[[Tilting the Playing Field]]"
   - "[[Patient Capital]]"
   - "[[Demand-side Innovation Policy]]"
@@ -92,14 +93,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-03
-updated: 2026-10-23
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_key: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policy and dynamic capabilities in the public sector"
 argument_kind: "journal-article"
-argument_related_count: 62
+argument_related_count: 63
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -149,7 +150,7 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **经典历史案例库** | 普鲁士文化部[[System Althoff\|阿尔托夫体制]]（System Althoff）、[[Ministry of International Trade and Industry\|日本通商产业省]]（Ministry of International Trade and Industry, MITI）、[[French Modernisation Commissions\|法国战后计划署现代化委员会]]（Commissariat Général du Plan）、美国曼哈顿工程与阿波罗计划、橡树岭国家实验室、美国国防高级研究计划局（Defense Advanced Research Projects Agency, [[DARPA]]）、[[CERN\|欧洲核子研究组织]]（European Organization for Nuclear Research, CERN）及[[Government Digital Service\|英国政府数字服务局]]（Government Digital Service, GDS）。 |
-> | **制度文献与政策文本** | 涵盖亚历山大·汉密尔顿（Alexander Hamilton）《制造业报告》（1791）、弗里德里希·李斯特（Friedrich List）《政治经济学的国民体系》（1841）、欧盟[[Lund Declaration 2009\|《隆德宣言》]]（2009）、英国现代产业战略白皮书（2017）及[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）系统创新报告。 |
+> | **制度[[Document\|文献]]与政策文本** | 涵盖亚历山大·汉密尔顿（Alexander Hamilton）《制造业报告》（1791）、弗里德里希·李斯特（Friedrich List）《政治经济学的国民体系》（1841）、欧盟[[Lund Declaration 2009\|《隆德宣言》]]（2009）、英国现代产业战略白皮书（2017）及[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）系统创新报告。 |
 
 ---
 
@@ -166,10 +167,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　从被动修补市场失灵转向主动塑造创新方向以突破现代政策的条块分割困境
+> [!claim|step] 论证步骤一　从被动修补市场失灵转向主动塑造创新方向以突破现代政策的条块分割困境
 > 现代经济增长兼具增长速率与演进方向；传统基于新古典福利经济学的[[Market Failure|市场失灵]]修补框架无法指引具有最高社会收益的战略领域，而现代公共政策深陷议题越复杂、部门越割裂的[[Complexity Paradox|复杂性悖论]]，必须依托使命导向框架重塑市场预期并打破跨部门协调僵局。
 
-#### 1. 创新政策必须从关注增长速率转向引导技术与产业的发展方向
+> [!sub-claim] 1. 创新政策必须从关注增长速率转向引导技术与产业的发展方向
 
 > [!policy-context] 经济增长的方向性转向与传统干预框架的局限
 > 世界各国普遍致力于追求智慧型（创新引领）、包容性与可持续的经济增长。这一追求本身意味着经济增长不仅包含发生速率与规模，更包含多种可替代的技术与社会演进方向；然而，若将政府角色狭隘局限于被动修补市场失灵与平整场地，就无法为绿色转型、数字包容等长期社会目标提供战略引领，必须转向主动[[Tilting the Playing Field|倾斜竞争场地]]。
@@ -181,7 +182,7 @@ issuing_organization: ""
 > [!voice] 约翰·肯尼思·加尔布雷思（John Kenneth Galbraith）论创新价值的审慎评估
 > 创新的价值不能被简单预设为必然增进社会福利，而必须受到审慎的公共评估；在缺乏方向引导的市场环境中，技术探索极易被短期商业利润俘获，导致公共部门在面对深层社会转型时陷入制度阻滞。（Galbraith, 1973; p. 788）
 
-#### 2. 现代公共政策面临复杂性悖论，统摄性国家使命是打破条块分割的关键
+> [!sub-claim] 2. 现代公共政策面临复杂性悖论，统摄性国家使命是打破条块分割的关键
 
 > [!challenges] 复杂社会挑战下的跨部门协调失灵
 > 随着政策议题日益涉及气候适应、清洁能源与老龄化照护等多领域交织，政府内部的行政机构反而容易退守部门利益壁垒，导致跨部门协同机制严重失效，宏观战略目标在日常行政规程中被边缘化。
@@ -198,10 +199,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　使命导向政策在骆驼、狮子与儿童三次代际历史演进中的制度演变与范式更新
+> [!claim|step] 论证步骤二　使命导向政策在骆驼、狮子与儿童三次代际历史演进中的制度演变与范式更新
 > 使命导向政策在过去 150 年间经历了三次深刻的代际转型，从后发国家忍辱负重的社会经济追赶（骆驼），到冷战时期英雄式的大科学技术攻关（狮子），演化至当代以[[Distributed Agency|分布式主体]]与[[Agile Governance|敏捷试错]]为特征的社会–技术探索实验（儿童）。
 
-#### 1. 第一代骆驼形态与第二代狮子形态展现了国家追赶与大科学攻关的组织力量与历史局限
+> [!sub-claim] 1. 第一代骆驼形态与第二代狮子形态展现了国家追赶与大科学攻关的组织力量与历史局限
 
 > [!thought-timeline] 精神三变隐喻与使命政策的历史形态演化
 > 借鉴[[Friedrich Nietzsche|弗里德里希·尼采]]（Friedrich Nietzsche）在《查拉图斯特拉如是说》中关于精神三变（骆驼、狮子、儿童）的哲学寓言，使命导向政策在不同历史阶段展现出截然不同的观念动因、治理构型与组织载体。
@@ -220,7 +221,7 @@ issuing_organization: ""
 >   - **典型机构与案例** [[Government Digital Service|英国政府数字服务局]]（GDS）开发 gov.uk 打破 IT 采购寡头垄断并节省 40 亿英镑；欧盟[[Horizon Europe|地平线欧洲]]（Horizon Europe）战略使命；德国绿色能源转型（Energiewende）。
 >   - **治理特征** 分布式主体（多边组织、慈善基金会、草根社会运动）、以人为本的服务设计、[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT）与敏捷原型迭代。
 
-#### 2. 第三代儿童形态以多方共创、敏捷实验与跨部门协同应对复杂的社会转型挑战
+> [!sub-claim] 2. 第三代儿童形态以多方共创、敏捷实验与跨部门协同应对复杂的社会转型挑战
 
 > [!policy-design] 应对重大社会挑战的组织重构与治理哲学转向
 > 第三代使命政策从封闭单一的工程攻坚，转向以社会响应性、跨学科[[Co-Design|协同设计]]与去中心化实验为核心的治理架构，深刻重构了创新政策的组织设计诉求。
@@ -239,10 +240,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　综合熊彼特双元探索与韦伯国家能力以确立三层公共部门动态能力分析矩阵
+> [!claim|step] 论证步骤三　综合熊彼特双元探索与韦伯国家能力以确立三层公共部门动态能力分析矩阵
 > 必须打破企业动态能力理论与国家能力理论长期割裂的两种学术传统，在[[Evolutionary Economics|演化经济学]]视阈下将动态能力定义为贯穿于国家政治合法性、政策协同组合与行政敏捷流动三层结构内部的决策规则与组织技能。
 
-#### 1. 融合熊彼特双元动态能力与韦伯国家能力，确立国家、政策与行政三层演化矩阵
+> [!sub-claim] 1. 融合熊彼特双元动态能力与韦伯国家能力，确立国家、政策与行政三层演化矩阵
 
 > [!debates] 两种学术传统的长期割裂与演化融合契机
 > [[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）指出，长期以来学术界存在着互不对话的两套知识传统：以[[Joseph Schumpeter|熊彼特]]演化视角探讨企业双元性（平衡利用现有优势与探索未来机会）的动态能力理论（Teece & Pisano, 1994; March, 1991），以及以韦伯[[Bureaucracy|官僚制]]探讨国家发展能力的公共行政传统（Johnson, 1982; Evans & Rauch, 1999）。打破这一壁垒是构建现代[[Public Dynamic Capabilities|公共动态能力]]的核心前提。
@@ -253,7 +254,7 @@ issuing_organization: ""
 > - **政策层级能力** 统筹战略研发、需求侧公共采购、行业规制与税收激励形成连贯政策组合（Policy Mixes），建立跨部门网络协调与反思性评估机制。
 > - **行政层级能力** 吸纳工程技术、以人为本的服务设计与用户研究等复合型人才，建立流动性跨部门项目团队，促进非相关[[Areas of Knowledge|知识领域]]的交叉融合。
 
-#### 2. 历史实证案例印证了国家政治共识、政策组合协同与行政团队流动性的不可或缺性
+> [!sub-claim] 2. 历史实证案例印证了国家政治共识、政策组合协同与行政团队流动性的不可或缺性
 
 > [!taxonomy] 发展型国家与行政能力三分法的[[Operationalization|操作化]]衔接
 > 马丁·品特与乔恩·皮埃尔（Painter & Pierre, 2005）提出的国家、政策与行政能力三分法，为解析美欧亚各国的历史成败与制度能力提供了清晰的操作化矩阵。
@@ -271,10 +272,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤四　确立21世纪应对重大社会挑战的引领与学习创新政策治理新范式
+> [!claim|step] 论证步骤四　确立21世纪应对重大社会挑战的引领与学习创新政策治理新范式
 > 应对 21 世纪重大社会挑战要求创新政策实现彻底的[[Paradigm|范式]]转变，从新公共管理所主导的被动支持与衡量模式，转变为以国家主动塑造市场并依托敏捷实验实现持续组织进化的[[Lead-and-Learn Paradigm|引领与学习范式]]。
 
-#### 1. 摆脱新公共管理的微观合规束缚，以战略愿景引领市场并以系统实验开展反思学习
+> [!sub-claim] 1. 摆脱新公共管理的微观合规束缚，以战略愿景引领市场并以系统实验开展反思学习
 
 > [!assumptions] 创新不确定性对静态合规评估的[[Ontology|本体论]]挑战
 > [[Nature of Innovation|创新的本质]]是非线性的、开放的并充满根本不确定性，甚至直接冲击既有的制度框架与价值定义（如数字平台对传统城市治理体系的冲击），因而无法通过静态的数据建模与事前的微观合规指标进行精确预测。
@@ -289,7 +290,7 @@ issuing_organization: ""
 > | **组织结构** | 条块分割的科层等级制与核心职能[[Externalization\|外部化]]外包。 | 多学科融合、跨职能流动团队与敏捷实验特区。 |
 > | **容错文化** | 零容忍失败，将项目受挫视为财政与行政失职。 | 将探索性失败视为组织学习的必要对价与演化资产。 |
 
-#### 2. 建立涵盖市场共创、组织探索与反思评估的完整公共治理推进机制
+> [!sub-claim] 2. 建立涵盖[[Market Shaping and Creating|市场共创]]、组织探索与反思评估的完整公共治理推进机制
 
 > [!chain-link] 使命导向公共动态能力的演化推进链条
 > - **前提：重大社会挑战需要[[Market Shaping and Creating|市场共创]]** 气候危机等复杂问题无法通过单纯补贴或被动去风险解决，必须由国家主动设定方向并开辟新市场。

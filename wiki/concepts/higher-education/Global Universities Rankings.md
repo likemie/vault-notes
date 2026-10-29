@@ -179,10 +179,8 @@ updated: 2026-10-29
 
 ---
 
-### 命题一　全球大学排名是建构而非纯粹反映高等教育地缘政治秩序的基础设施
-
-> [!concept-lens] [[Geopolitics|地缘政治]]装置与[[Space Production|空间生产]]
-> 排名通过指标选择、空间想象与量化规制主动生产全球竞争关系，充当形塑[[Geopolitics of Higher Education|高等教育地缘政治]]秩序的基础设施。
+> [!concept-proposition] 命题一｜全球大学排名是建构而非纯粹反映[[Geopolitics of Higher Education|高等教育地缘政治]]秩序的基础设施
+> **探讨维度　[[Geopolitics|地缘政治]]装置与[[Space Production|空间生产]]** 排名通过指标选择、空间想象与量化规制主动生产全球竞争关系，充当形塑[[Geopolitics of Higher Education|高等教育地缘政治]]秩序的基础设施。
 
 > [!claim] [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]]
 > **[[Competitiveness|竞争性地缘政治装置]]的基础设施** 排名与指标化的运作不仅衡量竞争，更在根本上创造竞争。在排名诞生之前，全球高校之间并不天然处于可排序、同质化的零和博弈之中；排名通过裁定指标（成果引用、师生比、国际化率）并赋予权重的操作，将异质机构转化为同质可比单位。这一过程体现出排名的生产性：它在声称描述大学的同时规定了何为优质大学，进而驱使大学开发出以在线自评（[[Online Self-Assessment|OSA]]）为代表的[[Preemptive Governance|预判性治理]]工具，争夺[[Promising Student|有前景的学生]]以维系位次（[[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, pp. 219–226]]）。
@@ -192,10 +190,8 @@ updated: 2026-10-29
 
 ---
 
-### 命题二　排名充当高等教育新政治经济学中的非货币通货与多价合法性装置
-
-> [!concept-lens] 政治经济学[[Analytic Framework|分析框架]]
-> 排名在[[Academic Capitalism|学术资本主义]][[Champ|场域]]中充当价值通货、双重经济分配轴线以及制度化马太效应的放大器。
+> [!concept-proposition] 命题二｜排名充当高等教育新政治经济学中的非货币通货与多价合法性装置
+> **探讨维度　政治经济学[[Analytic Framework|分析框架]]** 排名在[[Academic Capitalism|学术资本主义]][[Champ|场域]]中充当价值通货、双重经济分配轴线以及制度化马太效应的放大器。
 
 > [!claim] [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]]
 > **[[Non-monetary Competition|非货币竞争]]的核心通货与双重经济** 在学术界的[[Non-monetary Competition|非货币竞争]]中，排名扮演了核心通货的角色。它将模糊的学术声誉压缩为连续的数字价格信号，为学生、雇主与资助方提供即时决策依据。排名塑造了兼具物质与[[Discourse|话语]]维度的双重经济：在物质层面直接牵引政府专项拨款、科研资助与社会捐赠流向；在话语层面垄断卓越的定义权并赋予符号权力，促成两种资本形态的互为强化（[[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, pp. 797–802]]）。
@@ -208,20 +204,16 @@ updated: 2026-10-29
 
 ---
 
-### 命题三　跨国学生流动动机与排名学术声誉存在结构性脱节，文化与地理红利无法替代实质卓越
-
-> [!concept-lens] 跨境流动与排名的动机脱节
-> 全球学生跨境流动的实际体验受生活世界与文化地缘深度塑造，高流动规模并不直接映射高校学术排名的卓越度。
+> [!concept-proposition] 命题三｜[[Student Mobility|跨国学生流动]]动机与排名学术声誉存在结构性脱节，文化与地理红利无法替代实质卓越
+> **探讨维度　跨境流动与排名的动机脱节** 全球学生跨境流动的实际体验受生活世界与文化地缘深度塑造，高流动规模并不直接映射高校学术排名的卓越度。
 
 > [!claim] [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（José Luis García Garrido, 2009, pp. 332–333）
 > **南欧流动繁荣与科研赤字的西班牙悖论** 加西亚·加里多在对西班牙高等教育的跨国考察中指出，西班牙大学在 [[Academic Ranking of World Universities|ARWU]] 和泰晤士高等教育等权威榜单中几乎全军覆没，暴露出其高达 95% 的[[Academic Inbreeding|学术近亲繁殖]]（endogamy）与自治区封闭壁垒造成的严重科研赤字。然而在[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]中，西班牙却长期高居全欧洲最主要的留学生输入国榜首。加里多揭示，驱动学生流向西班牙的核心因素是西班牙语的语言吸引力、宜人气候、丰富旅游资源与低廉生活成本，呈现出留[[Student Mobility|学生流动]]规模与大学科研声誉的显著脱节。这种流动繁荣与排名的鲜明反差证明，全球排名指标无法衡量高等教育在区域一体化与文化交往中的多元吸引力；同时加里多严正警示大学决策者切不可将气候与文化红利误读为学术繁荣，必须正视大学深层的[[Scientific Productivity|科研生产力]]瓶颈与制度危机（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）。
 
 ---
 
-### 命题四　跨国排行榜制造排名焦虑并支撑新公共管理远程操控
-
-> [!concept-lens] 超国家治理与政策话语异化维度
-> 探讨跨国绩效排行榜（league tables）如何将公共讨论从教育目的审议窄化为排名焦虑，并作为治理技术落实[[New Public Management|新公共管理]]远程操控。
+> [!concept-proposition] 命题四｜跨国排行榜制造排名焦虑并支撑[[New Public Management|新公共管理]]远程操控
+> **探讨维度　超国家治理与政策话语异化维度** 探讨跨国绩效排行榜（league tables）如何将公共讨论从教育目的审议窄化为排名焦虑，并作为治理技术落实[[New Public Management|新公共管理]]远程操控。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
 > **排行榜的政治效应：从目的辨析滑向排名焦虑与远程操控** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，跨国绩效排行榜（league tables）已演化为当代教育治理的核心操控机制。排行榜不仅测量教育系统，更深刻重塑了教育的政治话语：它在主权国家与院校层面制造了强烈的“排名焦虑”（rank anxiety），使公众与政策讨论从关于教育实质性目的与[[Public Value|公共价值]]的辨析，彻底滑向追求榜单名次的功利算计与技术合规。通过将异质复杂的办学实践压缩为可排名的单一数字序列，排行榜为[[New Public Management|新公共管理]]（NPM）的“远程操控”提供了强有力的问责工具，使国家与高校在自主决策的外衣下主动迎合超国家量化标尺。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]

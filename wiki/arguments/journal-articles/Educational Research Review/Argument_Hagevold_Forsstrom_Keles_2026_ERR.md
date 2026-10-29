@@ -7,7 +7,7 @@ title: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_key: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_display_title: "Research on research use in schools: A systematic review with a framework synthesis"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Global Education Reform Movement]]"
   - "[[Research Utilization]]"
+  - "[[Document]]"
   - "[[Deficit Framing]]"
   - "[[Research Literacy]]"
   - "[[Knowledge Mobilisation]]"
@@ -97,7 +98,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-25
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 ---
 
@@ -106,7 +107,7 @@ updated: 2026-10-26
 >
 > 在数据问责的推动下，标准化的"证据本位"做法常常变成对研究的[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]（Weiss, 1979）：新做法只是浅层叠加在旧思维之上。[[OECD]] 教育研究与[[Innovation Hub\|创新中心]]（[[Centre for Educational Research and Innovation]], CERI）2021 年启动"加强教育研究的影响"项目，呼吁从"中介"转向"参与"，并指出深思熟虑的参与只有在信任的环境里才能生长（[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022]]; Révai & Mouthaan, 2023）。与此同时，[[New Public Management\|新公共管理]]与[[Global Education Reform Movement\|全球教育改革运动]]（Global Education Reform Movement, GERM）带来的竞争、标准化与问责，进一步压缩了信任与创新的空间（Sahlberg, 2023）。
 >
-> 既有[[Systematic Review\|系统综述]]反复列出[[Research Utilization\|研究使用]]的障碍清单，却很少说明研究参与真正发生时是什么样子，也没有解释这些障碍为何如此顽固。要回答的问题有两个：第一，经验研究如何描述学校中的[[Research Utilization\|研究使用]]，其中包含哪些组成部分，它们之间是什么关系？第二，文献里提到了哪些阻碍和促进研究使用的因素？
+> 既有[[Systematic Review\|系统综述]]反复列出[[Research Utilization\|研究使用]]的障碍清单，却很少说明研究参与真正发生时是什么样子，也没有解释这些障碍为何如此顽固。要回答的问题有两个：第一，经验研究如何描述学校中的[[Research Utilization\|研究使用]]，其中包含哪些组成部分，它们之间是什么关系？第二，[[Document|文献]]里提到了哪些阻碍和促进研究使用的因素？
 
 > [!claim] 核心主张
 > 学校里的研究使用受系统条件塑造，但[[Documentary Analysis\|文献研究]]它时，大多把目光落在教师个体的技能和心态上。实际上，最顽固的障碍和最有用的促进条件都横跨个体、组织、系统三个层级，由信任、技能发展、可持续结构和关系这四类相互强化的机制共同塑造。因此，研究使用没法靠自上而下的政策指令强制实现，而应从实施（implementation）研究结论转向整合（integration）研究，依靠可持续的结构来培育教师的专业能动性。
@@ -179,7 +180,7 @@ updated: 2026-10-26
 
 ---
 
-> [!claim] 论证步骤一　文献如何描述研究使用：聚焦教师个体，组织与系统层面较少被研究
+> [!claim|step] 论证步骤一　文献如何描述研究使用：聚焦教师个体，组织与系统层面较少被研究
 > 纳入的研究大多把研究参与说成一种"缺失"或"挑战"，并把问题和部分解决办法归到个体、组织或系统三个层面之一。但聚合统计显示，个体层面的因素出现在 83% 的研究里，组织与系统层面的因素则很少被提及，说明[[Research Utilization\|研究使用]]研究明显偏向个体视角。
 
 > [!dimension] 研究使用在文献中被描述的四个分析层面
@@ -208,7 +209,7 @@ updated: 2026-10-26
 
 ---
 
-> [!claim] 论证步骤二　研究使用的障碍与促进因素：最顽固的障碍在系统与组织层面
+> [!claim|step] 论证步骤二　研究使用的障碍与促进因素：最顽固的障碍在系统与组织层面
 > 二十六年过去了，文献仍在报告同样的障碍清单，但这些障碍的系统性一面一直被低估：最常被提到的障碍（时间、问责、工作条件、研究与课堂的鸿沟）都属于系统和组织层面，而许多促进因素恰恰是这些障碍在结构、文化和领导上的镜像反转。
 
 > [!ref-table] 障碍因素：按层级的完整清单
@@ -251,7 +252,7 @@ updated: 2026-10-26
 
 ---
 
-> [!claim] 论证步骤三　塑造研究使用的四类跨层机制：信任、技能发展、可持续结构、关系
+> [!claim|step] 论证步骤三　塑造研究使用的四类跨层机制：信任、技能发展、可持续结构、关系
 > 一些主题既反复跨越多个层级，又同时出现在"框定/描述"和"障碍/促进"两类数据里，它们构成了四类治理机制：信任、技能发展、可持续结构和关系。这四类机制不属于任何单一层级，而是横跨并贯通整个系统，共同塑造学校里的研究使用。修订框架因而用四类机制取代了原先的层级嵌套逻辑。
 
 > [!theory-components] 治理研究使用的四类跨层机制
@@ -272,7 +273,7 @@ updated: 2026-10-26
 
 ---
 
-> [!claim] 论证步骤四　从实施转向整合：把研究融入专业判断与学校文化
+> [!claim|step] 论证步骤四　从实施转向整合：把研究融入[[Professional Judgment|专业判断]]与学校文化
 > 对研究使用的理解应从实施转向整合。整合有两层含义：认识论上，把研究知识与专业智慧、情境判断和经验知识调和起来；组织上，把研究参与嵌入学校文化、惯例与结构，使它成为持续的集体实践，而不是个别教师的偶发行为。
 
 > [!evidence-grid] 支持从实施转向整合的证据

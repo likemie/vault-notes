@@ -32,14 +32,15 @@ related_concepts:
   - "[[Second-Sourcing]]"
   - "[[Emergence]]"
   - "[[Disciplinary Institutionalization]]"
+  - "[[Epistemic Infrastructure]]"
   - "[[Knowledge Mediation]]"
   - "[[Learning Economy]]"
   - "[[Learning by Doing]]"
   - "[[Open-Mindedness]]"
   - "[[Technology Transfer]]"
+  - "[[Sage]]"
   - "[[Von Neumann Architecture]]"
   - "[[Variable]]"
-  - "[[Sage]]"
   - "[[Reliability]]"
 related_theories:
   - "[[Systems of Innovation]]"
@@ -70,14 +71,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-05
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fabrizio_Mowery_2005_REI"
 argument_key: "Argument_Fabrizio_Mowery_2005_REI"
 argument_display_title: "Defense-related R&D and the growth of the postwar information technology industrial complex in the United States"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -150,10 +151,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　国防研发投资通过知识基础设施、技术衍生与先导采购三大渠道系统奠定了新兴产业底座
+> [!claim|step] 论证步骤一　国防研发投资通过[[Epistemic Infrastructure|知识基础设施]]、技术衍生与先导采购三大渠道系统奠定了新兴产业底座
 > 国防公共投资对民用技术创新绩效的驱动力并不局限于狭义的军用武器研制，而是通过建立[[University-Based Research Infrastructure|大学科研基础设施]]、早期军转民技术衍生以及先导采购拉动微观学习效应三大核心渠道发挥全方位制度支撑作用。
 
-#### 1. 联邦国防科研经费长期主导全美研发并支撑起前沿学科的大学科研基础设施
+> [!sub-claim] 1. 联邦国防科研经费长期主导全美研发并支撑起前沿学科的大学科研基础设施
 
 二战后美国联邦研发预算长期占据全美科研总支出的主导地位，国防部更是这一公共投资体系的核心出资方。
 
@@ -172,7 +173,7 @@ issuing_organization: ""
 > [!theory-position] 国防研发资助对大学科研基础设施的制度塑造
 > 联邦对大学基础与应用研究的持续注资，不仅推动了高校前沿科学理论与工程原型的产出，更在客观上将斯坦福大学和麻省理工学院等顶尖学府塑造成连接政府、军方与产业界的[[Knowledge Mediation|知识中介]]，源源不断地为全美新兴信息产业培养出大批高素质的青年科学家与工程技术专家。
 
-#### 2. 公共资金通过科学知识供给、早期产品溢出与规模化采购学习向民用经济渗透
+> [!sub-claim] 2. 公共资金通过科学知识供给、早期产品溢出与规模化采购学习向民用经济渗透
 
 国防公共投资并非直接以商业化为导向，而是通过独特的制度中介机制向民用经济外溢。
 
@@ -186,10 +187,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　国防采购与研发支持在半导体、计算机硬件、软件及互联网的萌芽期展现出决定性的体制催化效应
+> [!claim|step] 论证步骤二　国防采购与研发支持在半导体、计算机硬件、软件及互联网的萌芽期展现出决定性的体制催化效应
 > 在半导体、计算机硬件、系统软件及互联网四大部门的早期发育阶段，国防部门的研发注资、先导采购订单与[[Open-Mindedness|开放性]]产业规制不仅解决了技术不确定性与早期市场需求，更塑造了美国特有的高度竞争、去中心化的企业进入格局。
 
-#### 1. 军方先导采购与第二货源机制打破了既有大企业垄断并催生出硅谷微电子生态
+> [!sub-claim] 1. 军方先导采购与第二货源机制打破了既有大企业垄断并催生出硅谷微电子生态
 
 半导体工业的发展展现了美国国防采购在打破垄断、培育独立新兴企业方面的独特制度优势。
 
@@ -216,7 +217,7 @@ issuing_organization: ""
 > | **企业市场取向** | 军品承包商主要为商业装备企业，视军品订单为走向民用市场的孵化跳板 | 军工企业依赖政府保护，对民用商业市场响应迟钝 |
 > | **产业组织形态** | [[Emergence\|涌现]]出以硅谷为代表的高度专业化、去中心化的独立商用半导体企业 | 形成由西门子、飞利浦等纵向一体化寡头主导但缺乏活力的僵化结构 |
 
-#### 2. 早期军资计算机研发、SAGE 防空工程与采购标准化条款共同孕育了软硬件产业基础
+> [!sub-claim] 2. 早期军资计算机研发、[[Sage|SAGE]] 防空工程与采购标准化条款共同孕育了软硬件产业基础
 
 在计算机硬件与软件发端之初，军方同样扮演了技术资助者与标准化买方的双重角色。
 
@@ -260,7 +261,7 @@ issuing_organization: ""
 > 2. **军品外包技术向民用大型系统溢出** TRW、密特公司（MITRE Corporation）、休斯（Hughes）及 IBM 等主承包商在军工合同中提炼出的复杂系统软件架构技术，迅速外溢并应用于民用商业领域（如早期的美航 Sabre 民航客票预订系统）。
 > 3. **强制采购规制确立通用商业语言** 国防部为解决软件兼容难题，强制要求军购计算机必须支持面向通用商业语言（Common Business-Oriented Language, COBOL），并要求所有防务管理软件必须用 COBOL 编写；国防部巨大的市场号召力直接推动了 COBOL 成为全美通用的商业编程语言标准。
 
-#### 3. DARPA 对分布式网络的分散资助与非专利公共协议确立了互联网开放架构
+> [!sub-claim] 3. DARPA 对分布式网络的分散资助与非专利公共协议确立了互联网开放架构
 
 互联网从实验室原型走向全球通用基础设施，是国防部高级研究计划局（[[DARPA|Defense Advanced Research Projects Agency]], DARPA）分散资助与公共领域政策的典型范例。
 
@@ -271,10 +272,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　随着商业民用市场成熟与技术逆向流动，国防政策的塑造效能呈现生命周期衰减
+> [!claim|step] 论证步骤三　随着商业民用市场成熟与技术逆向流动，国防政策的塑造效能呈现生命周期衰减
 > 当各技术领域发展成熟并演变为由民用商业需求主导时，军用与民用技术的性能要求产生深刻分化，国防研发与采购对产业[[Technological Trajectories|技术轨迹]]的塑造力显著衰减，甚至遭遇严重的技术逆向依赖与政策失灵。
 
-#### 1. 民用商业市场规模反超与技术前沿转移促成了由民向军的逆向技术溢出
+> [!sub-claim] 1. 民用商业市场规模反超与技术前沿转移促成了由民向军的逆向技术溢出
 
 商业市场的庞大规模逐渐超越国防订单，使传统军工向民用单向外溢（Spinoffs）逻辑发生根本性逆转。
 
@@ -285,7 +286,7 @@ issuing_organization: ""
 > | **技术性能要求** | 军民高度重叠，均追求基础运算[[Reliability\|可靠性]]与器件实现。 | 军品偏向耐高温振动等军用规格（Military Specification, milspec），民品追求低成本、高算力与商业通用性。 |
 > | **技术溢出方向** | 军品向民用单向外溢。 | 军品滞后于商业民品，演变为民用技术向军工系统的逆向溢出（Reverse Spillovers）。 |
 
-#### 2. VHSIC 计划与 Ada 语言受挫证实了成熟期军方自上而下强推专用技术规程的局限性
+> [!sub-claim] 2. VHSIC 计划与 Ada 语言受挫证实了成熟期军方自上而下强推专用技术规程的局限性
 
 当商业市场确立主导地位后，军方自上而下推行特种技术标准的尝试屡遭挫折。
 
@@ -295,10 +296,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤四　9/11 后反恐与国土安全研发预算重组呈现短期化与生物医药倾斜，面临削弱基础物理工程科研的深层风险
+> [!claim|step] 论证步骤四　9/11 后反恐与国土安全研发预算重组呈现短期化与生物医药倾斜，面临削弱基础物理工程科研的深层风险
 > 2001 年 9/11 事件后联邦研发预算发生结构性转向，国防支出触底反弹，但资金更向短期战术开发及卫生与公众服务部主导的生物医药反恐倾斜，这可能削弱支撑长期信息技术创新的大学工程与物理基础科研。
 
-#### 1. 反恐与国土安全研发预算迅速扩张并在内部向生物防御部门大比例倾斜
+> [!sub-claim] 1. 反恐与国土安全研发预算迅速扩张并在内部向生物防御部门大比例倾斜
 
 9/11 袭击促使美国开启了长达数十年反恐战争的技术与经济动员，逆转了冷战后国防科研占比下滑的历史趋势。
 
@@ -307,7 +308,7 @@ issuing_organization: ""
 > - **\$1.8B** 2006 财年国土安全研发中拨付给卫生与公众服务部（Department of Health and Human Services, HHS，管辖[[National Institutes of Health|美国国家卫生研究院]] [NIH] 与疾病控制与预防中心 [CDC]）的预算，远超国土安全部自身获得的 13 亿美元。
 > - **> 20%** 2006 财年白宫预算案中对国防部基础与应用科研经费的削减幅度，研发预算进一步向工程试验开发倾斜。
 
-#### 2. 短期战术化与学科经费分流将挤压大学物理工程基础研究并削弱长期外溢潜力
+> [!sub-claim] 2. 短期战术化与学科经费分流将挤压大学物理工程基础研究并削弱长期外溢潜力
 
 预算结构的偏转给国家[[Systems of Innovation|创新系统]]的长期演进带来了不确定性。
 

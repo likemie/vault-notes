@@ -10,7 +10,7 @@ aliases:
 summary: "认知主体在面临知识状态、信息缺口、认知冲突及探究活动时所体验到的特定情感反应（如好奇、惊异、着迷、认识论困惑与敬畏），是连接智力技能与理智美德动机成分的心理纽带与动力引擎。"
 type: concept
 domain: "educational-psychology"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Creativity]]"
   - "[[Epistemic Aims]]"
+  - "[[Academic Emotions]]"
   - "[[Construct]]"
   - "[[Pride in Learning]]"
   - "[[Humility]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-22
 > [!boundary]- 概念边界
 > - 不等于 道德情感（Moral Emotions） — 道德情感（如共情、内疚、正义感）评价人际交往与行为的正当性；理智情感评价信息状态、[[Epistemic Aims|认识论目标]]达成与认知信念的真理性。
 > - 不等于 审美情感（Aesthetic Emotions） — 审美情感侧重艺术形式之美与感官愉悦；理智情感侧重逻辑结构融贯、理论解释力与自然规律奥秘所引发的心智共鸣。
-> - 不等于 功利化学业情绪（Achievement Emotions） — 考试焦虑、分数喜悦属于由外在评价与学业成败驱动的结果性情绪；理智情感由探究过程与知识本身直接触发。
+> - 不等于 功利化[[Academic Emotions|学业情绪]]（Achievement Emotions） — 考试焦虑、分数喜悦属于由外在评价与学业成败驱动的结果性情绪；理智情感由探究过程与知识本身直接触发。
 
 ---
 
@@ -115,10 +116,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　理智情感构成理智美德动机成分生成的必要心理纽带与认知善品探究引擎
-
-> [!concept-lens] [[Virtue Epistemology|德性责任论]]中的情感奠基机制
-> 探讨理智情感在将冷认知技能转化为具备价值取向的[[Epistemic Virtues and Vices|理智美德]]过程中的心理催化功能。
+> [!concept-proposition] 命题一｜理智情感构成[[Epistemic Virtues and Vices|理智美德]]动机成分生成的必要心理纽带与认知善品探究引擎
+> **探讨维度　[[Virtue Epistemology|德性责任论]]中的情感奠基机制** 探讨理智情感在将冷认知技能转化为具备价值取向的[[Epistemic Virtues and Vices|理智美德]]过程中的心理催化功能。
 
 > [!claim] Brady, M. S.; Zagzebski, L.
 > **情感对理智品格的动机奠基** 德性[[Epistemic Responsibility|认识论责任]]论（Virtue Responsibilism）强调，理智美德不仅包含产生正确信念的技能，更包含对真理与深层理解等认知善品的内在动机。这种内在热爱无法仅通过纯粹逻辑规则的演练获得，而是由长期的好奇、惊异等理智情感体验所孕育。理智情感为探究活动赋予内在价值，使认知主体在缺乏外部奖励时仍能保持持久求知动力。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 273–274, 280)]]
@@ -128,20 +127,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　个性化叙事隐喻与兴趣锚定能高效唤起着迷与惊异以促进理智品格内化
-
-> [!concept-lens] 情境具身性与叙事唤起机制
-> 探讨如何通过贴合学习者先验经验与个人特长的具象化叙事激发理智情感。
+> [!concept-proposition] 命题二｜个性化叙事隐喻与兴趣锚定能高效唤起着迷与惊异以促进理智品格内化
+> **探讨维度　情境具身性与叙事唤起机制** 探讨如何通过贴合学习者先验经验与个人特长的具象化叙事激发理智情感。
 
 > [!claim] Morton, A.; Naeem, H.
 > **叙事隐喻对理智着迷与美德认同的激发机制** 抽象概念往往难以直接引起强烈的情感卷入。将理智美德具象化于生动的角色叙事（如蜘蛛在面临天敌时展现非对称几何织网的[[Creativity|创造性]]策略）或跨领域模型（如结合音乐声学与天文引力波）中，能够精准对接学生的个人兴趣点，高效唤起着迷与惊异等理智情感。学生在情感共鸣中不仅理解了何谓创造性与[[Open-Mindedness|思想开放]]，更产生强烈的自我认同与效仿意愿，从而极大加速了理智品格的内化。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 280–282)]]
 
 ---
 
-### 命题三　认识论困惑驱动认知失衡消解与概念重构，防范教条主义与智识傲慢
-
-> [!concept-lens] 认知冲突、反思监控与智识[[Humility|谦逊]]
-> 探讨“负向”理智情感（困惑、惊异、认知失调）在打破思维定势与促进概念重构中的积极建设性功能。
+> [!concept-proposition] 命题三｜[[Epistemology|认识论]]困惑驱动认知失衡消解与概念重构，防范教条主义与智识傲慢
+> **探讨维度　认知冲突、反思监控与智识[[Humility|谦逊]]** 探讨“负向”理智情感（困惑、惊异、认知失调）在打破思维定势与促进概念重构中的积极建设性功能。
 
 > [!claim] Scheffler, I.; D'Mello & Graesser
 > **生产性困惑在深层概念转变与理智谦逊养成中的核心价值** [[Epistemology|认识论]]困惑并非学习失败的表征，而是[[Higher-Order Thinking Skills|高阶思维]]激活的催化剂。当学习者在探究中遭遇反常证据或[[Counterfactual|反事实]]设问（What-if）时，产生的认识论困惑迫使其承认现有知识局限（培育理智谦逊），并调动反思监控机制审视底层假设，从而打破教条主义理智恶德，驱动深层概念转变与理论重构。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 275–277)]]

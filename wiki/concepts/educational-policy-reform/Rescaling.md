@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -104,20 +104,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　数字化绩效数据基础设施是驱动教育政策跨尺度重组的核心物质载体
-
-> [!concept-lens] 技术媒介与空间重组机制维度
-> 探讨数据流动与[[Center of Calculation\|计算中心]]如何改变传统政治尺度的运作方式，使远距离干预得以发生。
+> [!concept-proposition] 命题一｜数字化绩效[[Data Infrastructure|数据基础设施]]是驱动教育政策跨尺度重组的核心物质载体
+> **探讨维度　技术媒介与空间重组机制维度** 探讨数据流动与[[Center of Calculation\|计算中心]]如何改变传统政治尺度的运作方式，使远距离干预得以发生。
 
 > [!claim] [[Sigrid Hartong\|Hartong, S.]]; Brenner, N.
 > **[[Data Infrastructure\|数据基础设施]]对科层尺度的穿透与重构** 政策尺度的重构不仅体现在法律文本的条文修改，更实质性地发生于底层数据基础设施的铺设过程中。[[Argument_Hartong_2018_GSE\|Hartong (2018)]] 论证指出，在德国高度联邦分权的体制下，柏林 [[Institute for Educational Quality Improvement\|IQB]] 作为跨尺度的国家计算中心，通过统筹全国教育标准、跨州学业趋势测评（[[IQB-Bildungstrend]]）及统一题库系统，将分散在 16 个联邦州与数万间教室的微观数据汇聚在教育研究数据中心（FDZ）。这一数据流转机制使得联邦与跨国标准在不修改联邦宪法分配原则的前提下，直接穿透了州级行政壁垒，实现了国家教育政策空间的深度尺度重组（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 136, 143–145]]）。
 
 ---
 
-### 命题二　尺度重组呈现去领土化与再领土化的辩证张力而非民族国家的单一削弱
-
-> [!concept-lens] 领土政治与多层级博弈维度
-> 剖析全球化与尺度重组过程中地方[[Path Dependence|路径依赖]]、国家主权强化与次国家防御的复杂共存状态。
+> [!concept-proposition] 命题二｜尺度重组呈现去领土化与再领土化的辩证张力而非民族国家的单一削弱
+> **探讨维度　领土政治与多层级博弈维度** 剖析全球化与尺度重组过程中地方[[Path Dependence|路径依赖]]、国家主权强化与次国家防御的复杂共存状态。
 
 > [!claim] Brenner, N.; [[Sigrid Hartong\|Hartong, S.]]; [[Susan L. Robertson|Robertson, S. L.]]
 > **尺度重组中的领土防御与制度妥协** 尺度重组决非线性的去国家化，而是伴随着强烈的再领土化（Re-territorialisation）防御与制度再协商。在德国个案中，尽管 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 与 IQB 建立了跨尺度的统一测评网络，但各联邦州依然牢牢掌控着[[School Inspection\|学校督导]]权与具体人事财政权，并在法律上明文禁止发布公立学校绩效排行榜，以捍卫各州的文化主权（Kulturhoheit）。这表明尺度重组是在旧有的制度路径依赖与新型跨尺度治理技术之间的持续博弈与妥协构型（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 140–145]]）。

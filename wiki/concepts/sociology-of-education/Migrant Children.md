@@ -9,7 +9,7 @@ aliases:
 summary: "指跟随进城务工父母从户籍所在地流向输入地城镇共同生活的学龄人口；在城乡二元户籍壁垒与城市公共品空间排斥中，其教育获得经历了从体制外自办学校到两为主纳编、积分制准入的制度演变与身份认同重塑。"
 type: concept
 domain: "sociology-of-education"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,9 +22,11 @@ tags:
   - region/china
 related_concepts:
   - "[[Cultural Capital]]"
+  - "[[Document]]"
   - "[[Migrant Education]]"
-  - "[[Sedentarism]]"
   - "[[Discourse]]"
+  - "[[Sedentarism]]"
+  - "[[School Vouchers]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
   - "[[Student Mobility]]"
@@ -45,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -89,7 +91,7 @@ updated: 2026-10-22
 > | **主导政策逻辑** | 地方政府默许游离或强制取缔 | “两为主”推进，收取借读赞助费 | 公共服务均等化与公办率 85%+ 刚性考核 |
 > | **学生空间分布** | 城乡接合部、城中村违建校舍 | 公立学校独立分班或插班就读 | 全面按片区公办统筹或政府购买民办学位 |
 > | **微观排斥机制** | 办学资质非法化、随时面临拆迁 | 借读费经济壁垒、校内身份歧视标签 | “五证”审核、积分排位、异地中[[Gaokao\|高考]]户籍限制 |
-> | **代表文献考察** | Kwong (2004); French (2007) | Yan (2005); Yuankai (2006) | Liang and Chen (2007); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
+> | **代表[[Document\|文献]]考察** | Kwong (2004); French (2007) | Yan (2005); Yuankai (2006) | Liang and Chen (2007); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
 
 ---
 
@@ -97,30 +99,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　城乡二元户籍制度将居住权与公共品分配解绑，生产出具有空间准入壁垒的第二等教育公民身份
-
-> [!concept-lens] [[Hukou System|户籍制度]]的公民权排斥
-> 现代民族国家的社会契约通常预设“常住居住即享有地方公共品”；而二元户籍制度将受教育权与出生地血缘严格绑定，造成劳动力贡献与公共品享有的制度脱节。
+> [!concept-proposition] 命题一｜城乡二元[[Hukou System|户籍制度]]将居住权与公共品分配解绑，生产出具有空间准入壁垒的第二等教育公民身份
+> **探讨维度　[[Hukou System|户籍制度]]的公民权排斥** 现代民族国家的社会契约通常预设“常住居住即享有地方公共品”；而二元户籍制度将受教育权与出生地血缘严格绑定，造成劳动力贡献与公共品享有的制度脱节。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] & Liang and Chen (2007)
 > **二元户籍对流动儿童的教育剥夺** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, p. 365）援引梁在与陈艳霞（Zai Liang & Yanxia Chen, 2007）以及邵庆与守礼（Shaoqing & Shouli, 2004）的考证指出，中国城乡二元户籍制度在本质上建立了一种领地化准入壁垒。尽管数以千万计的进城务工人员为城市繁荣贡献了充沛的人口红利，但其随迁子女却被城市公共教育管理体系界定为“非正规城市居民”（Non-formal Urban Residents），长期被剥夺平等享受地方公共财政资助的权利，使其在法律和制度上沦为第二等教育公民。
 
 ---
 
-### 命题二　特大城市人口调控通过准入门槛行政化，将随迁子女就学工具化为劳动力空间筛选的人口治理技术
-
-> [!concept-lens] [[Spatial Governmentality|空间治理术]]与人口筛选杠杆
-> 当城市政府难以通过直接行政命令阻断劳动力流入时，抬升随迁家属与子女的公共服务获得门槛，便成为柔性调控人口分布的空间[[Governmentality|治理术]]。
+> [!concept-proposition] 命题二｜特大城市人口调控通过准入门槛行政化，将随迁子女就学工具化为劳动力空间筛选的人口治理技术
+> **探讨维度　[[Spatial Governmentality|空间治理术]]与人口筛选杠杆** 当城市政府难以通过直接行政命令阻断劳动力流入时，抬升随迁家属与子女的公共服务获得门槛，便成为柔性调控人口分布的空间[[Governmentality|治理术]]。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] & French (2007)
 > **教育准入作为空间人口调控的杠杆** 索贝与菲舍尔指出，特大城市对[[Migrant Education|流动儿童教育]]政策的收紧（如 2006 年北京集中关停上百所打工子弟学校，以及后续出台极其严苛的租房税、社保连续缴纳等入学前置审批），表面上是出于办学安全考量，实质上是城市政府为了控制特大城市人口承载规模所施行的空间[[Governmentality|治理术]]。在 2000 万流动儿童的庞大规模下，教育准入被异化为驱逐低端劳动力、筛选高技能人口的空间调控行政杠杆。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 365)]]
 
 ---
 
-### 命题三　随迁儿童进入公办学校后面临从显性空间隔离向隐性文化区隔的话语再生产
-
-> [!concept-lens] [[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]下的隐性文化排斥
-> 物理校舍大门的敞开并不代表实质平等的实现；象征空间的认知分类与[[Cultural Capital|文化资本]]差异，会完成对边缘主体的二次筛选。
+> [!concept-proposition] 命题三｜随迁儿童进入公办学校后面临从显性空间隔离向隐性文化区隔的[[Discourse|话语]]再生产
+> **探讨维度　[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]下的隐性文化排斥** 物理校舍大门的敞开并不代表实质平等的实现；象征空间的认知分类与[[Cultural Capital|文化资本]]差异，会完成对边缘主体的二次筛选。
 
 > [!claim] Yan (2005) & [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]]
 > **校园内部的象征区隔与文化贬抑** 严（Yan, 2005）的实证研究表明，即便公办学校依据“两为主”政策接纳了随迁儿童（满足了公平-参与层面的物理准入），但在知识分类与日常人际互动层面，由[[Sedentarism|定居主义]]主导的[[Discourse|话语]]体系依然将流动背景与“缺乏家教”、“普通话不标准”、“学业落后”紧密绑定。流动儿童往往在学校内部被安排在特定的后进生群体或边缘位置，面临着从物理阻隔向心理与文化象征隔离的异化再生产。
@@ -128,7 +124,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 随迁儿童核心命题归纳
-> | 命题类型 | 核心论断 | 实践机制与政策含义 | 代表文献 / 理论源流 |
+> | 命题类型 | 核心论断 | 实践机制与政策含义 | 代表[[Document\|文献]] / 理论源流 |
 > |---|---|---|---|
 > | **户籍制度与公民权二元化** | 城乡户籍将受教育权与出生地绑定，生产出享有不同权利的第二等教育公民 | 改革义务教育财政分权，推行生均公用经费“钱随人走” | Liang and Chen (2007); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] |
 > | **教育准入与空间人口调控** | 大城市通过抬高入学前置门槛，将随迁儿童教育工具化为人口调控杠杆 | 批判以控人为导向的入学五证审核，保障常住人口平等受教权 | French (2007) |
@@ -141,7 +137,7 @@ updated: 2026-10-22
 > > [!axis] 争议一：特大城市财政承载能力极限 vs 全民义务教育国家保障责任
 > > 大城市政府是否有正当理由因财政承载压力而限制随迁子女就学？
 > > - **输入地城市政府立场** 宣称特大城市土地、校舍与师资资源极度紧张，若无限制向外来人口敞开，将迅速击穿城市财政与空间承载极限，导致本地公共服务质量全面滑坡。
-> > - **教育公平与经济学者立场** 指出进城务工群体创造了城市税收与繁荣的底层基础，剥离其子女教育权利属于典型的制度搭便车；中央财政应通过跨省财政转移支付建立全国统一的教育券机制，破除地方保护主义。
+> > - **教育公平与经济学者立场** 指出进城务工群体创造了城市税收与繁荣的底层基础，剥离其子女教育权利属于典型的制度搭便车；中央财政应通过跨省财政转移支付建立全国统一的[[School Vouchers|教育券]]机制，破除地方保护主义。
 >
 > > [!axis] 争议二：初小阶段普惠包容 vs 高中阶段异地[[Gaokao|高考]]制度性封锁
 > > 随迁子女在义务教育阶段完成公办吸纳后，为何高中与高考通道依然深陷户籍壁垒？

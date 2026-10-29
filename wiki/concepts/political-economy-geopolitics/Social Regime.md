@@ -8,7 +8,7 @@ aliases:
 summary: "经济社会学与历史制度主义核心概念，指由具备合法暴力垄断权的第三方强制机构所背书的集体行为预期与规则体系；区分规则制定者与规则遵从者，将制度视为蕴含权力不对称的支配组织，构成理解制度设计与基层践行内生脱节的元理论基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,14 +25,15 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Performance Indicators]]"
   - "[[Rule Enactment]]"
-  - "[[Global Education Reform Movement]]"
   - "[[Strategic Compliance]]"
+  - "[[Global Education Reform Movement]]"
   - "[[Learning Intentions]]"
   - "[[Institutional Drift]]"
   - "[[Performativity]]"
   - "[[Teacher Professional Agency]]"
   - "[[New Public Management]]"
   - "[[Variable]]"
+  - "[[Document]]"
 related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -115,30 +116,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　制度合法性根植于第三方实施能力的强制保障而非自发的博弈均衡
-
-> [!concept-lens] 制度强制力与合法性基础
-> 探讨制度为何能够在面临微观利益冲突与顺从成本时保持长期存续，反驳将制度降格为无强制力协调博弈的技术性假设。
+> [!concept-proposition] 命题一｜制度合法性根植于第三方实施能力的强制保障而非自发的博弈均衡
+> **探讨维度　制度强制力与合法性基础** 探讨制度为何能够在面临微观利益冲突与顺从成本时保持长期存续，反驳将制度降格为无强制力协调博弈的技术性假设。
 
 > [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]]
 > **强制实施优先** [[Wolfgang Streeck|施特雷克]]与希伦指出，现实经济生活中的核心制度（如劳动法规、中央银行货币垄断、社会保障政策）从根本上属于第三方保障的社会规约。纯粹自发实施的博弈均衡由于缺乏再分配权威，无法解释承载集体价值与社会权利的现代制度。正因为制度对遵从者构成了高昂的遵从成本，规约的合法性才必须建立在外部第三方的潜在制裁能力之上；只有当违规行为能够被有效遏制时，制度所许诺的社会预期才能保持真实有效。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 10–13)]]
 
 ---
 
-### 命题二　规则设计与基层践行的内在缝隙是社会规约内生演化的微观根源
-
-> [!concept-lens] [[Rule Enactment|规则践行]]与解释性张力
-> 探讨社会规约在长期运行中为何必然产生内生性变迁，揭示形式条文与基层实施之间不可消除的结构性空间。
+> [!concept-proposition] 命题二｜规则设计与基层践行的内在缝隙是社会规约内生演化的微观根源
+> **探讨维度　[[Rule Enactment|规则践行]]与解释性张力** 探讨社会规约在长期运行中为何必然产生内生性变迁，揭示形式条文与基层实施之间不可消除的结构性空间。
 
 > [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]]
 > **设计与践行脱节驱动演化** 施特雷克与希伦强调，将制度定义为社会规约的核心价值，在于促使研究者在分析上将抽象的“规则设计”（Rule Design）与长期的“制度践行”（Rule Enactment）严格区分开来。由于任何规则在现实适用中都存在不完备性、设计者的有限认知以及行动者的自利性漏洞试探，规则设计与实际践行之间永远存在不闭合的缝隙。正是行动者在这一缝隙中所采取的微观策略（包括置换、层叠、漂移与转换），赋予了社会规约脱离原初立法轨道的内生演变动力。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 13–16)]]
 
 ---
 
-### 命题三　跨国量化问责规约依靠国家法定强制力背书并诱发基层策略性合规博弈
-
-> [!concept-lens] 全球教育治理与跨国政策规约维度
-> 探讨当代[[Global Education Reform Movement|全球教育改革运动]]（GERM）如何将跨国[[Performance Indicators|绩效指标]]塑造为强制性政策规约，剖析基层教师如何在结构性缝隙中通过形式主义合规化解规约控制。
+> [!concept-proposition] 命题三｜跨国量化问责规约依靠国家法定强制力背书并诱发基层[[Strategic Compliance|策略性合规]]博弈
+> **探讨维度　全球教育治理与跨国政策规约维度** 探讨当代[[Global Education Reform Movement|全球教育改革运动]]（GERM）如何将跨国[[Performance Indicators|绩效指标]]塑造为强制性政策规约，剖析基层教师如何在结构性缝隙中通过形式主义合规化解规约控制。
 
 > [!claim] Komatsu and Rappleye (2017) & [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
 > **全球政策规约与基层[[Strategic Compliance|策略性合规]]** 小松与拉普利（Komatsu & Rappleye, 2017）以及约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）揭示，当代基于实证统计与[[Meta-analysis|元分析]][[Effect Size|效应量]]建构的全球教育治理框架，实质上构成了强大的跨国政策规约（Global Policy Regime）。此类规约并非学校自发演化出的教学理性，而是依赖国家教育行政部门作为第三方强制实施机构，借助绩效问责、资格审查与常规巡视（如维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 督查）实施制度化压制。正由于规约体现了规则制定者（技术官僚、跨国机构与商业出版网络）同规则遵从者（一线教师）之间的权力非对称性，基层教师在面对脱离教学实际的硬性指标时，必然在践行缝隙中采取策略性合规（Strategic Compliance）——如上课前在白板上端正板书当堂课题与[[Learning Intentions|学习意图]]以迎合常规巡检。这种博弈导致政策规约发生严重的“[[Institutional Drift|制度漂移]]”（Institutional Drift），使原本宣称提升学习效能的治理规约演变为耗费基层心力的形式主义表演（[[Performativity]]）。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 29–31)]]
@@ -205,4 +200,4 @@ updated: 2026-10-22
 > | [[Strategic Compliance]] | 行动者策略 | 规则遵从者在面对第三方强制规约时采取的表面符合、实际变通的策略博弈。 |
 > | [[Performativity]] | 批判概念 | 刚性政策规约过度推行后诱发的基层虚假表演与合规仪式。 |
 > | [[Global Education Reform Movement]] | 宏观政策 | GERM 代表了跨国资本与技术官僚构建的全球量化教育政策规约。 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 实证文献 | 提供了全球政策规约在澳大利亚与新西兰落地并诱发基层策略性合规的批判实证。 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 实证[[Document\|文献]] | 提供了全球政策规约在澳大利亚与新西兰落地并诱发基层策略性合规的批判实证。 |

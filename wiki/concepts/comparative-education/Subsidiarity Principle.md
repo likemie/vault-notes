@@ -8,10 +8,10 @@ aliases:
 summary: "欧盟与现代联邦制治理中的核心宪制原则。规定公共决策应在最低有效层级做出，超国家或中央机构仅在成员国与地方无法有效达成目标时方可进行从属性干预；在欧洲教育治理中，其保障了成员国对教学内容与学制组织的核心主权，但批判学者揭示欧盟如何依托数据基础设施外包与软法规训绕开该原则以深度重塑成员国政策空间。"
 type: concept
 domain: "comparative-education"
-related_count: 33
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 47
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/comparative-education
   - theme/educational-governance
@@ -27,16 +27,21 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Space of Flows]]"
   - "[[Gatekeepers]]"
+  - "[[Aggressive Intergovernmentalism]]"
   - "[[Data Infrastructure]]"
   - "[[European Education Space]]"
+  - "[[Epistemic Infrastructure]]"
   - "[[Policy Mobility]]"
   - "[[Champ]]"
   - "[[Performance Indicators]]"
+  - "[[Epistemology]]"
   - "[[Paradigm]]"
+  - "[[Technologies of Surveillance]]"
   - "[[Variable]]"
   - "[[Student Mobility]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
+  - "[[Panopticism]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Semi-structured Interview]]"
@@ -49,19 +54,28 @@ related_facts:
   - "[[EU]]"
   - "[[Bologna Process]]"
   - "[[OECD]]"
+  - "[[Lisbon Strategy]]"
   - "[[European Commission]]"
   - "[[PISA]]"
   - "[[UOE Data Collection]]"
-  - "[[Lisbon Strategy]]"
+  - "[[European Standards and Guidelines]]"
+  - "[[European Quality Assurance Register for Higher Education]]"
+  - "[[European Tertiary Education Register]]"
+  - "[[Database of External Quality Assurance Results]]"
+  - "[[European Education Area]]"
   - "[[German Dual Education System]]"
+  - "[[Court of Justice of the European Union]]"
 related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
+  - "[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon]]"
+  - "[[Argument_Grek_2024_EERJ]]"
+  - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 ---
@@ -121,10 +135,8 @@ updated: 2026-10-28
 
 ---
 
-### 命题一　宪制层面的辅助性原则未能阻断超国家治理向主权教育空间的深度渗透
-
-> [!concept-lens] 超国家渗透与主权防线张力
-> 探讨法律条约对硬法的严格约束如何反向催化了超国家软法规训技术的进化，使得民族国家的主权防线在隐蔽的技术治理中被层层重塑。
+> [!concept-proposition] 命题一｜宪制层面的辅助性原则未能阻断超国家治理向主权教育空间的深度渗透
+> **探讨维度　超国家渗透与主权防线张力** 探讨法律条约对硬法的严格约束如何反向催化了超国家软法规训技术的进化，使得民族国家的主权防线在隐蔽的技术治理中被层层重塑。
 
 > [!claim] [[António Nóvoa|Nóvoa, A.]]
 > **超国家软治理对辅助性原则的形式性规避** 诺沃亚（António Nóvoa）指出，《马斯特里赫特条约》设立的辅助性原则虽然从法律上限制了[[EU|欧盟]]颁布强制性教育法令，但欧盟通过开辟三大软性规训路径——推广最佳实践[[Discourse|话语]]、制定量化基准指标（Benchmarks）以及推进[[Bologna Process|博洛尼亚进程]]，在形式上恪守辅助性原则的同时，依托数据化监测与文凭互认标准，对成员国教育制度实施战略导向与一体化制作。[[Argument_Beech_2009_GlobalGarden|(Nóvoa, 2002, cited in Beech, 2009b, p. 343)]]
@@ -133,30 +145,26 @@ updated: 2026-10-28
 > **[[Pluri-Scalar Governance|多标度治理]]下辅助性原则界限的模糊化** 比奇（Jason Beech）进一步指出，当代活跃于全球教育领域的各类新型行动者（超国家联盟、跨国咨询公司与国际组织）构成了纵横交错的[[Pluri-Scalar Governance|多标度治理]]网络，打破了传统主权国家的二元等级运作；辅助性原则所预设的“国家主权内”与“国家主权外”的绝对边界被[[Space of Flows|流动空间]]击碎，超国家话语通过本土[[Gatekeepers|把关人]]与指标规训深度侵入课堂，使宪制上的辅助性防护转变为一种象征性的修辞合法化仪式。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
 
 > [!claim] [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]]
-> **进取型政府间主义对主权防线的主动放弃** 乔治·帕西亚斯（George Pasias）与扬尼斯·鲁萨基斯（Yannis Roussakis）指出，1990 年代各成员国严守辅助性原则与非协调化教条以防范共同体越权；但在新千年里斯本战略下，成员国治理取向转向进取型政府间主义并叠加新功能主义外溢，主动放弃死守主权的消极防守，自愿签署共同量化指标并接受常态化全景监视，使辅助性原则的宪制屏障在自愿合规的表象下被实质性超越。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 481–482, 490–493)]]
+> **[[Aggressive Intergovernmentalism|进取型政府间主义]]对主权防线的主动放弃** 乔治·帕西亚斯（George Pasias）与扬尼斯·鲁萨基斯（Yannis Roussakis）指出，1990 年代各成员国严守辅助性原则与非协调化教条以防范共同体越权；但在新千年[[Lisbon Strategy|里斯本战略]]下，成员国治理取向转向进取型政府间主义并叠加新功能主义外溢，主动放弃死守主权的消极防守，自愿签署共同量化指标并接受常态化全景监视，使辅助性原则的宪制屏障在自愿合规的表象下被实质性超越。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 481–482, 490–493)]]
 
 ---
 
-### 命题二　跨机构数据外包共生使超国家实体在宪制辅助性约束下达成事实一体化治理
-
-> [!concept-lens] 数据外包与超国家软治理绕行
-> 探讨超国家实体在缺乏立法权的情境下，如何通过资助并嵌入第三方[[Data Infrastructure|数据基础设施]]，将数字指标转化为绕开宪制阻力的一体化治理手段。
+> [!concept-proposition] 命题二｜跨机构数据外包共生使超国家实体在宪制辅助性约束下达成事实一体化治理
+> **探讨维度　数据外包与超国家软治理绕行** 探讨超国家实体在缺乏立法权的情境下，如何通过资助并嵌入第三方[[Data Infrastructure|数据基础设施]]，将数字指标转化为绕开宪制阻力的一体化治理手段。
 
 > [!claim] Grek, S.
 > **[[OECD|经合组织]]数据基础设施对欧盟辅助性立法短板的实质性补位** 索蒂里亚·格雷克（[[Sotiria Grek]]）剖析了欧盟如何通过跨机构资源互补绕过辅助性原则的硬性限制。《欧洲联盟条约》关于辅助性原则的规定严格维护成员国在教育领域的主权独立，布鲁塞尔机构既无法推行欧洲统一大纲，亦无力独立研发庞大的测评体系。面对这一宪制短板，[[European Commission|欧盟委员会]]通过资助成员国 80% 的 [[PISA]] 调查国家参与成本，并采购经合组织 50%–60% 的基础数据（依托 [[UOE Data Collection|UOE]] 联合数据集）以支持[[Lisbon Strategy|里斯本战略]]指标体系。通过将数据生产外包给具备客观科学声誉的第三方国际组织，欧盟借助跨国排名与同行比较压力，在恪守辅助性原则法律形式的前提下，有效推进了[[European Education Space|欧洲教育空间]]的深度整合。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 24–25, 32–35)]]
 
-> [!claim] [[Sotiria Grek|Grek, S.]] & Russell, I. (2024)
-> **认识论基础设施与微观自动化核验对辅助性原则的实质架空** [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] 进一步论证指出，在《欧洲联盟运行条约》第 165 条严格坚持辅助性原则并排除任何形式法令协调的宪制约束下，欧盟无法依靠自上而下的硬法指令强制推行跨境文凭与学分互认。然而，超国家治理技术已从单纯采购经合组织宏观数据，演进为由欧洲质保标准（[[European Standards and Guidelines|ESG]]）、注册局（[[European Quality Assurance Register for Higher Education|EQAR]]）以及高校与评估数据库（[[European Tertiary Education Register|ETER]] 与 [[Database of External Quality Assurance Results|DEQAR]]）构成的复合[[Epistemic Infrastructure|认识论基础设施]]。通过将微观高校档案与质保决议编码标准化，并直接嵌合各国文凭互认中心（ENIC-NARIC）的工作流，该基础设施以去政治化的技术可信性替代了逐案行政互审，在形式上完全恪守辅助性原则的前提下，达成了文凭免检流转与欧洲高等教育一体化事实管辖。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024)]]
+> [!claim] Grek, S. & Russell, I. (2024)
+> **[[Epistemic Infrastructure|认识论基础设施]]与微观自动化核验对辅助性原则的实质架空** [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] 进一步论证指出，在《欧洲联盟运行条约》第 165 条严格坚持辅助性原则并排除任何形式法令协调的宪制约束下，欧盟无法依靠自上而下的硬法指令强制推行跨境文凭与学分互认。然而，超国家治理技术已从单纯采购经合组织宏观数据，演进为由欧洲质保标准（[[European Standards and Guidelines|ESG]]）、注册局（[[European Quality Assurance Register for Higher Education|EQAR]]）以及高校与评估数据库（[[European Tertiary Education Register|ETER]] 与 [[Database of External Quality Assurance Results|DEQAR]]）构成的复合[[Epistemic Infrastructure|认识论基础设施]]。通过将微观高校档案与质保决议编码标准化，并直接嵌合各国文凭互认中心（ENIC-NARIC）的工作流，该基础设施以去政治化的技术可信性替代了逐案行政互审，在形式上完全恪守辅助性原则的前提下，达成了文凭免检流转与欧洲高等教育一体化事实管辖。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024)]]
 
 ---
 
-### 命题三　辅助性原则与共识决规则赋予成员国对超国家价值倡导的绝对否决权
-
-> [!concept-lens] 政府间共识、主权否决与科层合法性
-> 探讨条约规定的辅助性原则如何转化为成员国在闭门审议中的战术武器，通过共识决机制直接否决超国家机构推行的激进规范与集中化治理构想。
+> [!concept-proposition] 命题三｜辅助性原则与共识决规则赋予成员国对超国家价值倡导的绝对否决权
+> **探讨维度　政府间共识、主权否决与科层合法性** 探讨条约规定的辅助性原则如何转化为成员国在闭门审议中的战术武器，通过共识决机制直接否决超国家机构推行的激进规范与集中化治理构想。
 
 > [!claim] [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]]
-> **辅助性原则赋予的共识否决与主权防御** 奈夫卡·亚历克夏杜与哈维尔·兰布拉在分析欧洲教育区（EEA 2030）决议谈判时指出，辅助性原则不仅限制了超国家立法的可能，更为成员国抵制超国家机构的价值扩张提供了制度盾牌。在《欧洲联盟运行条约》第 165 条的辅助性原则与欧洲理事会共识决规则下，个别保守成员国得以动用否决权，迫使理事会决议删去委员会文本中单列的“性别平等”优先维度，将其淡化为更宽泛的包容性修辞。同时，成员国依托辅助性原则坚决拒绝委员会设立集中化治理平台，牢牢将超国家教育协调框定在自愿开放协调法范围内。这表明，辅助性原则在实践中不仅是一道防范硬法扩张的边界，更赋予了成员国过滤与纠偏超国家技术官僚激进理念的实质性制度权力。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 854, 860–862, 866–867)]]
+> **辅助性原则赋予的共识否决与主权防御** 奈夫卡·亚历克夏杜与哈维尔·兰布拉在分析[[European Education Area|欧洲教育区]]（EEA 2030）决议谈判时指出，辅助性原则不仅限制了超国家立法的可能，更为成员国抵制超国家机构的价值扩张提供了制度盾牌。在《欧洲联盟运行条约》第 165 条的辅助性原则与欧洲理事会共识决规则下，个别保守成员国得以动用否决权，迫使理事会决议删去委员会文本中单列的“性别平等”优先维度，将其淡化为更宽泛的包容性修辞。同时，成员国依托辅助性原则坚决拒绝委员会设立集中化治理平台，牢牢将超国家教育协调框定在自愿[[Open Method of Coordination|开放协调法]]范围内。这表明，辅助性原则在实践中不仅是一道防范硬法扩张的边界，更赋予了成员国过滤与纠偏超国家技术官僚激进理念的实质性制度权力。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 854, 860–862, 866–867)]]
 
 ---
 
@@ -167,7 +175,7 @@ updated: 2026-10-28
 > | **多标度网络穿透** | 论证多标度治理网络如何击穿辅助性原则预设的主权容器边界 | 全球教育[[Policy Mobility\|政策流动]]与跨国治理[[Champ\|场域]] | Jason Beech |
 > | **数据外包与共生补位** | 阐明超国家中枢如何借助第三方国际组织的数据基础设施规避立法禁令 | 欧盟与经合组织跨机构合作、跨国[[Performance Indicators\|教育指标]]体系建设 | [[Argument_Grek_2009_JEdPolicy\|Grek (2009)]] |
 > | **共识否决与价值过滤** | 阐明辅助性原则与共识决规则如何赋予成员国抵御超国家价值扩张、纠偏治理集权的实质性否决权 | 欧洲教育区战略审议、性别平等争议与理事会磋商 | [[Argument_Alexiadou_Rambla_2023_EERJ\|Alexiadou and Rambla (2023)]] |
-> | **认识论基建与微观架空** | 揭示高校档案与质保数据库互联如何以去政治化技术自动化免检核验架空辅助性宪制壁垒 | 欧洲高等教育区、跨国文凭自动互认、ETER 与 DEQAR 数据库互联 | [[Sotiria Grek\|Grek]] & Russell (2024) |
+> | **[[Epistemology\|认识论]]基建与微观架空** | 揭示高校档案与质保数据库互联如何以去政治化技术自动化免检核验架空辅助性宪制壁垒 | 欧洲高等教育区、跨国文凭自动互认、ETER 与 DEQAR 数据库互联 | [[Sotiria Grek\|Grek]] & Russell (2024) |
 
 ---
 
@@ -177,7 +185,7 @@ updated: 2026-10-28
 > - **2000 — 治理转型** [[Lisbon Strategy|里斯本战略]]正式启动[[Open Method of Coordination|开放协调法]]（OMC），辅助性原则成为软法治理与量化基准线监测合法性辩护的理论支点。
 > - **2002–2009 — 批判解构** Nóvoa (2002) 与 [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] 奠定批判分析[[Paradigm|范式]]，指出辅助性原则在实操中未能阻止超国家教育[[Discourse|话语]]对国家主权的隐蔽穿透。
 > - **2009 — 数据基础设施共生与辅助性原则规避** [[Argument_Grek_2009_JEdPolicy|Grek (2009, pp. 24–25, 32–35)]] 揭示欧盟如何通过资助经合组织 PISA 调查并采购其 50%–60% 数据，在恪守辅助性原则法律形式下依托跨国数字指标推进欧洲教育空间事实一体化。
-> - **2009 — 进取型政府间主义与全景敞视建构** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009, pp. 481–482, 490–493)]] 考证马斯特里赫特条约第 126/127 条确立的辅助性原则与共同决策程序，揭示欧盟如何在新千年通过进取型政府间主义与新功能主义外溢，依托开放协调法与监视技术架空宪制防守。
+> - **2009 — 进取型政府间主义与[[Panopticism|全景敞视]]建构** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009, pp. 481–482, 490–493)]] 考证马斯特里赫特条约第 126/127 条确立的辅助性原则与共同决策程序，揭示欧盟如何在新千年通过进取型政府间主义与新功能主义外溢，依托开放协调法与[[Technologies of Surveillance|监视技术]]架空宪制防守。
 > - **2021 — 欧洲教育区决议审议中的辅助性原则与共识否决** [[Argument_Alexiadou_Rambla_2023_EERJ|Alexiadou and Rambla (2023)]] 实证揭示，在《欧洲联盟运行条约》第 165 条辅助性原则与理事会共识决机制下，成员国不仅阻断了欧盟委员会创设集中化治理框架的企图，更通过动用否决权纠偏了超国家起草精英单列“性别平等”的激进认知倡导。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 854, 860–862)]]
 > - **2024 — 认识论基础设施与微观自动化核验架空辅助性限制** [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] 证实欧盟在《欧洲联盟运行条约》第 165 条辅助性原则约束下，依托 ESG、EQAR、ETER 与 DEQAR 复合认识论基础设施，通过微观数据库互联与文凭免检流转，在完全规避主权立法冲突的同时实现了事实上的超国家一体化管辖。
 
@@ -192,7 +200,7 @@ updated: 2026-10-28
 > > - **Nóvoa（2002）** 揭示辅助性原则催生了以最佳实践和基准线为表象的隐蔽软性渗透机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 343)]]
 
 > [!warning] 适用局限
-> 辅助性原则的司法审查极其困难，在欧洲法院（ECJ）的实践中罕有以违反辅助性原则为由直接撤销共同体教育协调行动的先例，其法律实效在高度依赖专家网络的治理实践中常面临被边缘化的风险。
+> 辅助性原则的司法审查极其困难，在[[Court of Justice of the European Union|欧洲法院]]（ECJ）的实践中罕有以违反辅助性原则为由直接撤销共同体教育协调行动的先例，其法律实效在高度依赖专家网络的治理实践中常面临被边缘化的风险。
 
 ---
 

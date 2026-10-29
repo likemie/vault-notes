@@ -9,7 +9,7 @@ aliases:
 summary: "系统评价与元分析方法学概念，指运用自然语言处理与大语言模型等人工智能技术从学术文献全文中自动识别、抽取并结构化效应量、样本量等统计量与研究特征的自动化规程。"
 type: concept
 domain: "research-methodology"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - theme/artificial-intelligence
   - method/systematic-review
 related_concepts:
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Meaningful Human Control]]"
   - "[[Paradigm]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 （自动化数据提取 / 自动化数据抽取）
@@ -62,7 +63,7 @@ updated: 2026-10-22
 ---
 
 > [!def] Automated Data Extraction
-> 自动化数据提取（Automated Data Extraction，亦称机器辅助数据提取 Machine-Assisted Data Extraction）指在系统评价（[[Systematic Review]]）、[[Meta-analysis\|元分析]]（Meta-Analysis）与[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）研究流程中，运用自然语言处理（Natural Language Processing, NLP）与大语言模型（Large Language Models, LLMs）等人工智能技术，从非结构化文献全文（如 PDF 格式的期刊论文）中自动定位、识别、抽取并结构化呈现[[Effect Size\|效应量]]（Effect Size）、[[Sample Size Determination\|样本量]]（Sample Size）、亚组特征及方法学[[Variable\|变量]]的自动化计算规程。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 2–5)]]
+> 自动化数据提取（Automated Data Extraction，亦称机器辅助数据提取 Machine-Assisted Data Extraction）指在系统评价（[[Systematic Review]]）、[[Meta-analysis\|元分析]]（Meta-Analysis）与[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）研究流程中，运用自然语言处理（Natural Language Processing, NLP）与大语言模型（Large Language Models, LLMs）等人工智能技术，从非结构化[[Document|文献]]全文（如 PDF 格式的期刊论文）中自动定位、识别、抽取并结构化呈现[[Effect Size\|效应量]]（Effect Size）、[[Sample Size Determination\|样本量]]（Sample Size）、亚组特征及方法学[[Variable\|变量]]的自动化计算规程。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 2–5)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于传统纯人工双人独立提取（Dual Human Extraction），自动化数据提取旨在通过算法替代或辅助人工完成最耗时的文献信息结构化转化。
@@ -124,20 +125,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　前沿大语言模型在二阶元分析数据提取中的准确性已全面达到人类专家水准
-
-> [!concept-lens] 准确性等值与[[Reliability\|可靠性]]评估
-> 评估大语言模型与人类专家在面对高度复杂的学术[[Meta-analysis\|元分析]]文本时，提取[[Effect Size\|效应量]]、研究数与[[Sample Size Determination\|样本量]]的统计一致度与分布对齐性。
+> [!concept-proposition] 命题一｜前沿大语言模型在[[Meta-meta-analysis|二阶元分析]]数据提取中的准确性已全面达到人类专家水准
+> **探讨维度　准确性等值与[[Reliability\|可靠性]]评估** 评估大语言模型与人类专家在面对高度复杂的学术[[Meta-analysis\|元分析]]文本时，提取[[Effect Size\|效应量]]、研究数与[[Sample Size Determination\|样本量]]的统计一致度与分布对齐性。
 
 > [!claim] Jansen et al.
 > **模型提取准确度与专家基准无偏对齐** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 对 156 项教育元分析进行实证评测显示，三大前沿模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）与仲裁金标准的[[Intraclass Correlation Coefficient\|组内相关系数]]达到了卓越水平（$\text{ICC} = 0.96–0.97$），百分比一致率介于 77%–81%，不仅模型间彼此高度收敛（$\text{ICC} = 0.95–0.97$），且表现完全匹敌甚至超越了单一人类专家的提取精度（$\text{ICC} = 0.81–0.95$），彻底打破了以往将人类单次提取视为无误差真值的传统假设。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 16–19)]]
 
 ---
 
-### 命题二　二阶元分析数据提取的技术难点集中于总样本量计算与亚组选择而非事实幻觉
-
-> [!concept-lens] 误差结构解构与认知负荷分布
-> 识别大模型在[[Meta-meta-analysis\|二阶元分析]]特定场景下的典型瓶颈，破除对模型凭空捏造数据的泛化恐慌。
+> [!concept-proposition] 命题二｜二阶元分析数据提取的技术难点集中于总样本量计算与亚组选择而非事实幻觉
+> **探讨维度　误差结构解构与认知负荷分布** 识别大模型在[[Meta-meta-analysis\|二阶元分析]]特定场景下的典型瓶颈，破除对模型凭空捏造数据的泛化恐慌。
 
 > [!claim] Jansen et al.
 > **误差聚焦于分散数据加总与报告模糊性** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 揭示，在严格提示词约束下，模型的纯事实性幻觉发生率极低（仅 3–4 例，与专家持平）。提取误差的主要诱因在于：① 原始元分析对参与者总数（$N$）的报告往往分散在多个分表或亚组中，需要模型跨表多步累加，易引发计算疏漏；② [[Primary and Secondary Documents\|原始文献]]存在多重合理的总体效应汇报或摘要与正文数值矛盾，导致模型捕获了符合语境的局部亚组效应而非代码簿预期的主效应。（pp. 16–18）
@@ -148,7 +145,7 @@ updated: 2026-10-22
 > | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **准确性等值命题** | 前沿大语言模型在规范提示词引导下达到甚至超越人类单专家提取精度 | [[Research Synthesis\|证据综合]]、系统评价与二阶元分析自动化 | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]]; Gartlehner et al. (2025) |
-> | **误差结构命题** | 提取误差主要源于跨表计算累加与原始文献报告模糊性，而非生成式幻觉 | 二阶元分析统计提取、复杂医学与教育[[Literature Review\|文献综述]] | Marshall and Wallace (2019) |
+> | **误差结构命题** | 提取误差主要源于跨表计算累加与原始[[Document\|文献]]报告模糊性，而非生成式幻觉 | 二阶元分析统计提取、复杂医学与教育[[Literature Review\|文献综述]] | Marshall and Wallace (2019) |
 
 ---
 

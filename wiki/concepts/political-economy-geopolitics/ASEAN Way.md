@@ -7,7 +7,7 @@ aliases:
 summary: "东南亚国家联盟确立的区域外交与多边治理行为规范，以不干涉内政、非正式磋商、非对抗性互动与协商一致为核心准则；在教育与社会文化领域，该原则驱动成员国建立多元分散的机构分工以防范超国家集权，维护国家教育主权独立"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,8 +36,11 @@ related_facts:
   - "[[ASEAN University Network]]"
   - "[[SEAMEO RIHED]]"
   - "[[European Commission]]"
+  - "[[Court of Justice of the European Union]]"
   - "[[Treaty of Amity and Cooperation in Southeast Asia]]"
+  - "[[SEAMEO]]"
   - "[[ASEAN Charter]]"
+  - "[[ASEAN Economic Community]]"
   - "[[Committee of Permanent Representatives to ASEAN]]"
   - "[[Coreper]]"
   - "[[Southeast Asian Higher Education Common Space]]"
@@ -66,7 +69,7 @@ updated: 2026-10-29
 > *Unlike European integration and its overall emphasis on establishing independent supranational institutions and adopting binding rules in a variety of sectors (higher education being an exception), ASEAN cooperation has been on developing platforms for constructive exchanges among its member states (Dosch, 2011) and generating non-binding consensus. Known as the ASEAN Way, this style of cooperation is characterised by informality, non-interference in national affairs, non-confrontational consultation and consensus building as the main mode of decision-making (Koga, 2010). ... Our interviewees repeatedly referred to the ASEAN Way, and the region's historical legacy, as responsible for the singular organisational division of labour – i.e. AUN and RIHED – for South-East Asian higher education regionalism. This approach reflects participating member states' general preference to prevent any potential co-mingling of decision-making powers between state officials and ASEAN representatives.*
 
 > [!boundary]- 概念边界
-> - **区分于 欧洲共同体一体化方法（Community Method）** 共同体方法依托[[European Commission|欧洲联盟委员会]]垄断立法提案权、欧洲议会审议及欧洲法院做出终审司法裁决；东盟方式坚持协商一致，任何单一成员国均对重大决议拥有事实否决权，不存在具有法律强制力的超国家执法实体。
+> - **区分于 欧洲共同体一体化方法（Community Method）** 共同体方法依托[[European Commission|欧洲联盟委员会]]垄断立法提案权、欧洲议会审议及[[Court of Justice of the European Union|欧洲法院]]做出终审司法裁决；东盟方式坚持协商一致，任何单一成员国均对重大决议拥有事实否决权，不存在具有法律强制力的超国家执法实体。
 > - **区分于 现实主义传统权力均势（Realist Balance of Power）** 传统权力均势依赖纯粹的军事同盟对峙与零和博弈；东盟方式包含了深厚的非正式外交社交礼仪、关系维持（Face-saving）与渐进信任构建等[[Constructivist Paradigm|建构主义]]规范维度。
 > - **区分于 彻底无作为的消极隔离** 东盟方式专注于在不侵犯成员国宪制底线的前提下开展自愿协作、经验分享与技术互惠。
 
@@ -111,20 +114,16 @@ updated: 2026-10-29
 
 ---
 
-### 命题一　东盟方式的协商一致与非干涉准则塑造了东南亚去中心化的多轨高教治理架构
-
-> [!concept-lens] 区域外交准则对微观专业部门治理形态的制度塑造
-> 考察[[ASEAN|东盟]]宏观行为准则如何传导至教育领域，形塑去集权化的组织形态。
+> [!concept-proposition] 命题一｜[[ASEAN|东盟]]方式的协商一致与非干涉准则塑造了东南亚去中心化的多轨高教治理架构
+> **探讨维度　区域外交准则对微观专业部门治理形态的制度塑造** 考察[[ASEAN|东盟]]宏观行为准则如何传导至教育领域，形塑去集权化的组织形态。
 
 > [!claim] Chou, M.-H. and Ravinet, P.
 > **治理准则决定去中心化分工体系** 周孟娴与宝琳·拉维内（Meng-Hsuan Chou & Pauline Ravinet）实证指出，东盟方式在东南亚高等教育领域的具体体现，根植于对建立集权型超国家管理机构的高度制度警惕。在不干预内政与非正式磋商原则的主导下，东南亚国家走出了一条立足项目载体、由成员国自愿参与（case-by-case）的多元网络路径；这一柔性治理形态使区域合作能够规避成员国之间巨大的体制与发展[[Heterogeneity|异质性]]，以务实兼容达成多边共识。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–154)]]
 
 ---
 
-### 命题二　主权防卫逻辑驱动区域功能机构形成二元分立以阻隔部委公权与跨国代理人的权力掺杂
-
-> [!concept-lens] 防范超国家集权的组织隔离屏障
-> 揭示主权国家如何通过功能机构刻意分立，阻断跨国官僚机构向国内教育事务的权力渗透。
+> [!concept-proposition] 命题二｜主权防卫逻辑驱动区域功能机构形成二元分立以阻隔部委公权与跨国代理人的权力掺杂
+> **探讨维度　防范超国家集权的组织隔离屏障** 揭示主权国家如何通过功能机构刻意分立，阻断跨国官僚机构向国内教育事务的权力渗透。
 
 > [!claim] Chou, M.-H. and Ravinet, P.
 > **组织二元分立防范官僚权力掺杂** 周孟娴与宝琳·拉维内的访谈研究揭示，东南亚高等教育合作中 [[ASEAN University Network|AUN]]（高校联盟）与 [[SEAMEO RIHED]]（政府间高教中心）的长期并立，是东盟方式在主权防卫逻辑下的自觉制度设计。成员国教育部委深恐超国家常设官僚机构借助一体化进程变相侵夺本国法定教育大权；通过将高校微观学术协作（AUN）与政府间宏观政策研讨（RIHED）严格剥离在两个平行机构内，成员国有效切断了部委官方决策权与东盟派驻代表权力发生混同（co-mingling）的潜在制度缝隙，从组织根基上捍卫了[[State Educational Sovereignty|国家教育主权]]。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 152)]]
@@ -142,9 +141,9 @@ updated: 2026-10-29
 > [!dev-timeline]- 东盟方式的确立与高等教育实践演变
 > - **1967 — 《曼谷宣言》奠基** 印度尼西亚、马来西亚、菲律宾、新加坡与泰国签署宣言创立东盟，正式确立不干预内政与和平共处的区域行为准则。
 > - **1976 — [[Treaty of Amity and Cooperation in Southeast Asia|《东南亚友好合作条约》]]法典化** 正式将主权平等、领土完整、不干预内政与协商一致上升为全域具有根本约束力的准则性共识。
-> - **1992–1993 — 高教领域双轨制度化确立** 东盟成立 AUN 推进名校自主学术结网，SEAMEO 重启 RIHED 推进政府间高教对话，东盟方式在教育部门完成组织分工奠基。
+> - **1992–1993 — 高教领域双轨制度化确立** 东盟成立 AUN 推进名校自主学术结网，[[SEAMEO]] 重启 RIHED 推进政府间高教对话，东盟方式在教育部门完成组织分工奠基。
 > - **2007–2008 — [[ASEAN Charter|《东盟宪章》]]出台与主权共识再确认** 宪章虽赋予东盟国际法主体资格，但严格维系协商一致原则；同期 RIHED 报告重申坚持东盟方式、抵制照搬欧洲集权模型。
-> - **2015–至今 — 面向共同空间的务实自愿衔接** 在东盟经济共同体（AEC）建成背景下，东盟方式保障了各国在维系主权的前提下以技术兼容推动高教共同空间建设。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]
+> - **2015–至今 — 面向共同空间的务实自愿衔接** 在[[ASEAN Economic Community|东盟经济共同体]]（AEC）建成背景下，东盟方式保障了各国在维系主权的前提下以技术兼容推动高教共同空间建设。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]
 
 ---
 

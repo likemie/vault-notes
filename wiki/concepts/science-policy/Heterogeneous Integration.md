@@ -10,7 +10,7 @@ aliases:
 summary: "将采用不同半导体材料、制造工艺节点与特定功能特性的独立制造单元（如数字CMOS、射频、光子、高带宽存储器、微机电系统与模拟器件）在高阶微互连基板或三维堆叠结构中紧密集成的工程范式与制造技术，旨在突破单芯片单片集成物理极限，实现后摩尔时代的系统级算力与能耗效能扩展。"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Process Design Kit]]"
   - "[[Commercial Off-The-Shelf]]"
   - "[[Innovation Ecosystem]]"
+  - "[[Document]]"
   - "[[Pilot Scale Platform]]"
   - "[[Variable]]"
 related_theories: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -100,20 +101,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　异构集成打破物理微缩单维限制重构半导体系统性能扩展范式
-
-> [!concept-lens] 物理极限与系统算力扩展
-> 围绕二维晶体管特征尺寸逼近原子极限导致的物理收益递减，探讨如何通过多维多材料空间集成重塑系统算力曲线。
+> [!concept-proposition] 命题一｜异构集成打破物理微缩单维限制重构半导体系统性能扩展[[Paradigm|范式]]
+> **探讨维度　物理极限与系统算力扩展** 围绕二维晶体管特征尺寸逼近原子极限导致的物理收益递减，探讨如何通过多维多材料空间集成重塑系统算力曲线。
 
 > [!claim] [[National Science and Technology Council|NSTC]]
 > **后摩尔时代性能演进重心转移** 随着半导体特征尺寸微缩至 3 纳米及以下节点，量子隧穿效应与热耗散瓶颈显著加剧，单纯依赖二维微缩所获得的算力收益已无法满足下一代人工智能与高性能计算需求。异构集成通过在垂直维度紧密集成专用逻辑、近存计算模块与光学互连器件，将性能提升的主引擎从器件微观尺寸转移到系统级微互连架构，确立了微电子演进的全新技术路线。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 3, 10–12, 17–18)]]
 
 ---
 
-### 命题二　异构集成推动设计与制造解耦并重塑微电子创新门槛
-
-> [!concept-lens] 产业分工与中试准入门槛
-> 围绕尖端制程高昂全掩膜成本对大学与初创企业的排斥，探讨芯粒复用与先进封装如何降低硬件创新试验成本。
+> [!concept-proposition] 命题二｜异构集成推动设计与制造解耦并重塑微电子创新门槛
+> **探讨维度　产业分工与中试准入门槛** 围绕尖端制程高昂全掩膜成本对大学与初创企业的排斥，探讨芯粒复用与先进封装如何降低硬件创新试验成本。
 
 > [!claim] NSTC
 > **硬件敏捷迭代与创新去中心化** 传统单片先进制程流片动辄数千万美元的掩膜成本，使得学术界与初创企业被阻隔在硬件创新前沿之外。异构集成允许科研人员将创新的专用功能单元与商业现货（[[Commercial Off-The-Shelf]], COTS）成熟芯粒通过标准化[[Process Design Kit|装配设计套件]]（[[Process Design Kit|Assembly Design Kit]], ADK）进行封装级集成，在显著压缩研发周期与流片资本开支的同时，为跨学科原型验证与硬件[[Innovation Ecosystem|创新生态]]的繁荣提供了制度与技术支撑。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 14, 17–18, 28)]]
@@ -121,7 +118,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 异构集成核心命题概览
-> | 命题方向 | 核心论断 | 技术与政策意涵 | 代表文献 |
+> | 命题方向 | 核心论断 | 技术与政策意涵 | 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **物理与系统演进** | 性能跃升重心由单片晶体管微缩转向三维多材料系统耦合 | 确立三维异构集成（3DHI）作为国家战略技术主攻方向 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 3, 10–18)]] |
 > | **产业生态与创新准入** | 芯粒复用与封装解耦大幅降低尖端硬件原型验证门槛 | 支撑[[National Advanced Packaging Manufacturing Program\|国家先进封装制造计划]]（NAPMP）与[[Pilot Scale Platform\|中试平台]]建设 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 14, 17–28)]] |

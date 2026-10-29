@@ -9,7 +9,7 @@ aliases:
 summary: "以学生全天候在校寄宿与全域生活管理为组织特征的学校形态；既是现代国家通过物理隔离推行定居主义与文化同化的空间圈禁工具，又是维系精英阶层社会资本再生产与当代跨国文凭跳板的特权机构。"
 type: concept
 domain: "sociology-of-education"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[International Schools]]"
   - "[[Migrant Children]]"
   - "[[Champ]]"
+  - "[[Document]]"
   - "[[Intercultural Education]]"
   - "[[Geopolitics]]"
   - "[[Variable]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-17'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -94,7 +95,7 @@ updated: 2026-10-22
 > | **空间治理机制** | 强制与家庭物理隔离，惩处母语交流 | 设立固定定居点学校，阻断随牧迁徙 | 高端庄园式封闭园区，全封闭寄宿制管理 |
 > | **主要生源构成** | 被强制征调的美洲、澳洲原住民儿童 | 印度拉巴里等游牧部族学龄学童 | 欧美传统富裕阶层及亚洲跨国留学生 |
 > | **底层应对逻辑** | 被动承受严重文化创伤与身份分裂 | 战略性分派单个儿子就读作为生计保险 | 视作规避本土应试内卷、跃升顶尖大学的阶层跳板 |
-> | **代表文献考察** | 历史社会学与殖民[[Archival Research\|档案研究]] | Dyer (2001); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] |
+> | **代表[[Document\|文献]]考察** | 历史社会学与殖民[[Archival Research\|档案研究]] | Dyer (2001); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] |
 
 ---
 
@@ -102,30 +103,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　寄宿学校构成了现代国家推行定居主义与同化边缘部族的空间圈禁工具
-
-> [!concept-lens] 空间圈禁与定居政治
-> 现代民族国家的合法性建立在清晰划界的领土与可统计的人口之上；任何拒绝定居在固定空间的游动群体，都被国家[[Governmentality|治理术]]视为对社会秩序的潜在威胁。
+> [!concept-proposition] 命题一｜寄宿学校构成了现代国家推行[[Sedentarism|定居主义]]与同化边缘部族的空间圈禁工具
+> **探讨维度　空间圈禁与定居政治** 现代民族国家的合法性建立在清晰划界的领土与可统计的人口之上；任何拒绝定居在固定空间的游动群体，都被国家[[Governmentality|治理术]]视为对社会秩序的潜在威胁。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] & Dyer (2001)
 > **国家推行定居化的教育空间装置** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 366–367）援引卡罗琳·戴尔（Caroline Dyer, 2001）针对印度古吉拉特邦拉巴里（Rabari）游牧部族的实证考证指出，公立寄宿学校被国家明确用作推进定居化（Sedentarization）的核心工具。学校通过将游牧儿童全封闭固定在特定建筑与地理空间内，企图自幼消除部族的放牧习俗与流动性；正规寄宿学校不仅在空间上切断了儿童跟随父辈游牧学艺的物质条件，其课程体系更单向传播定居社会的文化价值观，构成国家空间[[Governmentality|治理术]]对流动人口的规训重塑。
 
 ---
 
-### 命题二　游牧与边缘家庭将寄宿学校识字教育重构为抵御外部盘剥的生计保险策略
-
-> [!concept-lens] 边缘群体的反向能动性博弈
-> 底层群体面对国家强加的同化学校并非只有被动顺从或彻底拒斥两种极端，而是能够借助工具性就学实现风险分散。
+> [!concept-proposition] 命题二｜游牧与边缘家庭将寄宿学校识字教育重构为抵御外部盘剥的生计保险策略
+> **探讨维度　边缘群体的反向能动性博弈** 底层群体面对国家强加的同化学校并非只有被动顺从或彻底拒斥两种极端，而是能够借助工具性就学实现风险分散。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] & Dyer (2001)
 > **作为生存风险保险单的寄宿教育** 拉巴里部族家庭在国家定居化压力下展现出精妙的生存智慧：长老与家长们意识到，完全脱离现代学校会导致下一代因缺乏读写算术能力而饱受外界商人欺瞒与官僚盘剥。许多游牧家庭采取“策略性分流”方案，精心挑选送一个儿子前往定点寄宿学校求学，把寄宿学校教育当作对冲外部制度风险的“保险单（Insurance）”；在维系放牧传统主体命脉的同时，定向培育具备现代文字交往能力的人才以维护部族利益。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 367)]]
 
 ---
 
-### 命题三　当代私立寄宿学校通过迎合新兴跨国阶层的文凭跳板诉求化解本土财政生存危机
-
-> [!concept-lens] 资本转化与财政依赖共生
-> 寄宿学校的当代存续揭示了全球教育市场的资本运作逻辑：后殖民时代的办学危机被新兴经济体的家庭阶层跃升焦虑所挽救。
+> [!concept-proposition] 命题三｜当代私立寄宿学校通过迎合新兴跨国阶层的文凭跳板诉求化解本土财政生存危机
+> **探讨维度　资本转化与财政依赖共生** 寄宿学校的当代存续揭示了全球教育市场的资本运作逻辑：后殖民时代的办学危机被新兴经济体的家庭阶层跃升焦虑所挽救。
 
 > [!claim] [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]]
 > **文凭跳板功能与中国生源预算依赖** 戈登·斯莱索格（Gordon Slethaug, 2010, pp. 20–21）考证指出，战后大英帝国殖民体系的瓦解使英、澳、加私立寄宿学校深陷生源萎缩与财政赤字危机。近年来，这些学校将自身重构为通往西方顶尖大学的“精英跳板”，吸引了大量寻求全球竞争优势的[[Chinese Learner|中国学习者]]。这种制度共生使得澳、加寄宿学校高度依赖中国家庭的高额学费来平衡年度预算，但其内核依然延续着“以学校母国语言、传统与习惯教育学生”的单一文化同化模式。
@@ -133,7 +128,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 寄宿学校核心命题归纳
-> | 命题类型 | 核心论断 | 实践机制与政策含义 | 代表文献 / 理论源流 |
+> | 命题类型 | 核心论断 | 实践机制与政策含义 | 代表[[Document\|文献]] / 理论源流 |
 > |---|---|---|---|
 > | **[[Sedentarism\|定居主义]]与空间圈禁** | 寄宿学校是国家强制消解部族流动性、强推定居化的空间规训装置 | 物理封闭切断传统游牧生态，以国家正规课程替代本土经验知识 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]]; Dyer (2001) |
 > | **底层生计保险博弈** | 边缘家庭策略性分派子女入读寄宿学校以获取读写资本对冲外部盘剥 | 反驳纯粹被动受害假定，揭示游牧主体在国家同化缝隙中的避险能动性 | 同上（拉巴里部族识字保险博弈） |

@@ -7,10 +7,10 @@ aliases:
 summary: "学习科学与教学设计中的前置探究时序模型，指在正式直接讲授前让学生先行尝试解决复杂的劣构问题，通过挫折激活先验图式并暴露认知盲区，为后续显性讲授创设最佳认知准备状态，进而促进深层概念理解与长效远迁移"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - learning-science
   - instructional-design
@@ -47,6 +47,7 @@ related_theories:
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Effect Size]]"
 related_instruments: []
 related_persons:
   - "[[Ton de Jong]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ## 定义
@@ -147,10 +148,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　前置劣构问题探究通过激活先验图式与暴露直觉盲区为后续显性讲授创设最佳认知准备状态
-
-> [!concept-lens] 认识准备与图式激活维度
-> 探讨探索与讲授的时序因果逻辑，阐明为何“先探索后讲授”能促成比“单纯[[Direct Instruction\|直接讲授]]”更深的概念理解。
+> [!concept-proposition] 命题一｜前置[[Wicked Problem|劣构问题]]探究通过激活先验图式与暴露直觉盲区为后续显性讲授创设最佳认知准备状态
+> **探讨维度　认识准备与图式激活维度** 探讨探索与讲授的时序因果逻辑，阐明为何“先探索后讲授”能促成比“单纯[[Direct Instruction\|直接讲授]]”更深的概念理解。
 
 > [!claim] Kapur, M.
 > **探索前置对深层认知架构的激活功能** 当学生在掌握正式概念前先行解决复杂问题时，他们不仅在尝试解题，更在积极构建对问题深层结构的心理表征。即便学生提出的解法在数学或物理上不成熟，这一生成过程使他们能够辨明问题的关键[[Variable\|变量]]及其相互关系。当教师随后提供标准讲解时，学生能够将科学概念直接与自身探索中体会到的概念维度进行精准对接，从而促成深层概念整合。（Kapur, 2016；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]）
@@ -160,10 +159,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　探究试错诱发的必要难度虽增加短期认知阻力但在延迟后测与远迁移中展现持久保持优势
-
-> [!concept-lens] 记忆保持与迁移韧性维度
-> 辨析即时测验成绩与长效学业保持之间的反直觉断裂，确立必要难度的循证价值。
+> [!concept-proposition] 命题二｜探究试错诱发的必要难度虽增加短期认知阻力但在延迟[[Pre-test and Post-test|后测]]与远迁移中展现持久保持优势
+> **探讨维度　记忆保持与迁移韧性维度** 辨析即时测验成绩与长效学业保持之间的反直觉断裂，确立必要难度的循证价值。
 
 > [!claim] Schmidt, R. A. & Bjork, R. A.
 > **必要难度假说对教学时序的反直觉阐释** 在学习过程中人为引入适度的阻碍与挑战（如前置试错、间隔练习），虽然会在短期内降低解题速度并增加错误率，但能显著促进信息的深层提取、语义加工与概念重构。相反，使学习过程平滑顺畅的单一直接示范，往往仅产生脆弱的表层短时记忆，在长周期追踪中遗忘率极高。（Schmidt & Bjork, 1992；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 8–9]]）
@@ -173,10 +170,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题三　生产性失败的促学效能严格依赖探究后教师的显性讲授与概念统整否则将退化为非生产性失败
-
-> [!concept-lens] 教学闭环与系统统整维度
-> 澄清生产性失败与放任自流的本质区别，确立教师讲授在失败转化中的核心地位。
+> [!concept-proposition] 命题三｜生产性失败的促学效能严格依赖探究后教师的显性讲授与概念统整否则将退化为非生产性失败
+> **探讨维度　教学闭环与系统统整维度** 澄清生产性失败与放任自流的本质区别，确立教师讲授在失败转化中的核心地位。
 
 > [!claim] Kapur, M. & [[Cindy E. Hmelo-Silver\|Hmelo-Silver, C. E.]]
 > **讲授统整环节对失败成效转化的决定性作用** 生产性失败的核心不在于“失败”本身，而在于“失败的生产性转化”。如果探索阶段结束后没有教师对典型错误解法的比较剖析，没有对学科本质概念的显性梳理，学生就会停留在挫败感与错误图式中，导致实验退化为无成效的认知损耗。唯有将探究的自主建构性与教师讲授的结构精确性有机融合，才能构成完整的循证教学闭环。（Hmelo-Silver, Kapur, & Hamstra, 2018；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 8, 10]]）
@@ -258,7 +253,7 @@ updated: 2026-10-25
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Kapur (2016)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]） | Cohen's $d$ | <span class="mx-bar ef-bar range" title="Cohen's d 0.40–0.60；取区间中点"><span class="b10"></span></span>0.40–0.60 | 统计显著（$p < .05$） | 生产性失败（探索 ➔ 讲授） vs 传统教学（讲授 ➔ 练习） | 概念理解与远迁移应用 | 系列中学数学与物理 [[Randomised Controlled Trials\|RCT]] | 生产性失败组在深层概念测验与迁移题上全面显著优于传统直接讲授组 | 标杆性多阶段 RCT；确立探索前置结合显性讲授在概念深度与弹性上的系统优势 |
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |

@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -109,20 +109,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　在后常规情境中以封闭专家技术官僚掩盖政治权衡必然引发公众信任危机
-
-> [!concept-lens] 信任侵蚀机制
-> 围绕决策者在重大风险决策中滥用权威科学[[Discourse|话语]]所产生的反噬后果展开探讨。
+> [!concept-proposition] 命题一｜在后常规情境中以封闭专家技术官僚掩盖政治权衡必然引发公众信任危机
+> **探讨维度　信任侵蚀机制** 围绕决策者在重大风险决策中滥用权威科学[[Discourse|话语]]所产生的反噬后果展开探讨。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
 > **政客滥用“遵循科学”口号是对科学公信力的制度性侵蚀** 当政府部长宣称自己只是在“遵循科学”（Following the science）时，往往掩盖了实际拍板是基于政治妥协、经济考量或党派利益的真相；这种虚假的科学客观性外衣一旦被戳破，不仅无法推卸决策失误的政治责任，反而让公众将对政策的不满直接转化为对科学本身的不信任，导致科学顾问机制丧失社会中立性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 86)]]
 
 ---
 
-### 命题二　透明披露科学不确定性并构建扩展同行对话是化解后常规死结的核心抓手
-
-> [!concept-lens] 民主审议与不确定性治理
-> 探讨如何通过制度化的透明度工具与公众对话重建高风险决策的社会合法性。
+> [!concept-proposition] 命题二｜透明披露[[Scientific Uncertainty|科学不确定性]]并构建扩展同行对话是化解后常规死结的核心抓手
+> **探讨维度　民主审议与不确定性治理** 探讨如何通过制度化的透明度工具与公众对话重建高风险决策的社会合法性。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
 > **坦诚呈现证据局限与解释未采纳理由是维系信任的根本** 要化解后常规科学难题陷入难以调和的僵局，国家科研与政策系统必须实现两项制度突破：其一，在发布立法与战略时强制附带通俗易懂的《科学证据陈述》（Scientific Evidence Statements），详尽标明[[Scientific Uncertainty\|科学不确定性]]的具体区间与假设边界；其二，科学界必须主动走出象牙塔，在技术萌芽阶段即组织包含广泛公众、受影响群体与政策决策者的前瞻公共对话（Public Dialogue），让公众在理解科学不确定性的前提下参与政策共同塑造。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 86–88)]]

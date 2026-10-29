@@ -7,7 +7,7 @@ aliases:
 summary: "文化社会学与批判话语分析的重要分析范畴，由罗伯特·伍斯诺系统阐发。指特定社会历史情境中塑造并制约人们思考、言说与意义建构的结构性话语空间；它为多元话语提供了竞争与被框架化的场所，从根本上确立了思考得以发生的基底性分类范畴，划定了何种问题能够被讨论与命名的合法边界。"
 type: concept
 domain: "research-methodology"
-related_count: 25
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Policy Framing]]"
   - "[[Heterogeneity]]"
   - "[[Problem Finding]]"
+  - "[[Ontology]]"
   - "[[Century of Humiliation]]"
   - "[[National Rejuvenation Narrative]]"
   - "[[Washington Consensus]]"
@@ -37,6 +38,7 @@ related_concepts:
   - "[[Retroduction]]"
   - "[[Determinism]]"
 related_theories:
+  - "[[Discursive Institutionalism]]"
   - "[[Critical Realism]]"
   - "[[Post-structuralism]]"
 related_methods:
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -119,20 +121,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　话语场域从深层预先界定了行动者思考与表达的本体论空间
-
-> [!concept-lens] 认知分类与思维边界限定
-> 文化社会学关注制度与历史如何通过语言符号体系形塑人类认知，确立特定时代不可逾越的思想地平线。
+> [!concept-proposition] 命题一｜[[Discourse|话语]][[Champ|场域]]从深层预先界定了行动者思考与表达的[[Ontology|本体论]]空间
+> **探讨维度　认知分类与思维边界限定** 文化社会学关注制度与历史如何通过语言符号体系形塑人类认知，确立特定时代不可逾越的思想地平线。
 
 > [!claim] Wuthnow, R.
 > **[[Discourse|话语]][[Champ|场域]]对认知结构的先验制约** 伍斯诺指出，话语深嵌于制度化的话语场域之中，受制于特定历史情境中的文化规则。话语场域作为一种深层文化现实，通过提供讨论的基本分类框架，确立了何种命题在逻辑与道义上能够被理解和接受，从而构成了社会集体意识的结构性骨架。
 
 ---
 
-### 命题二　宏观话语场域的演变构成了微观政策框架重组的结构性先决条件
-
-> [!concept-lens] 宏观社会历史情境对政策叙事的决定作用
-> 批判政策分析将具体的政策文件置于更广阔的历史社会学场域中进行检验，透视权力意志的转化机制。
+> [!concept-proposition] 命题二｜宏观话语场域的演变构成了微观政策框架重组的结构性先决条件
+> **探讨维度　宏观社会历史情境对政策叙事的决定作用** 批判政策分析将具体的政策文件置于更广阔的历史社会学场域中进行检验，透视权力意志的转化机制。
 
 > [!claim] Woo, E.
 > **宏观历史与地缘场域决定跨国教育政策话语** 伍国雄（Eric Woo, 2023）研究指出，中国[[Belt and Road Initiative|一带一路]]教育政策话语的生成，深刻受制于由“[[Century of Humiliation|百年屈辱史]]的创伤记忆”、“[[National Rejuvenation Narrative|中华民族伟大复兴]]的两个一百年目标”以及“对西方治理模式的反思与对[[Washington Consensus|华盛顿共识]]的替代诉求”共同构成的话语场域。这一深层话语场域确立了思考中国高等教育跨国使命的根本范畴，促使政策制定者将教育交流必然地框架化为服务国家大战略、输出[[China Solution|中国方案]]与重塑国际治理秩序的战略工具。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–691)]]
@@ -149,7 +147,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 概念演变
 > - **1989年 — 文化社会学理论确立** 罗伯特·伍斯诺出版《[[Discourse|话语]]共同体》，通过考察欧洲宗教改革、[[Enlightenment|启蒙运动]]与欧洲社会主义，确立话语[[Champ|场域]]在解释思想潮流兴衰中的分析地位。
-> - **2000年代 — 话语制度主义与政策研究拓展** [[Policy Science in Comparative Education|政策科学]]学者将话语场域引入公共政策分析，用于阐释福利国家改革与环境治理政策框架的制度化根源。
+> - **2000年代 — [[Discursive Institutionalism|话语制度主义]]与政策研究拓展** [[Policy Science in Comparative Education|政策科学]]学者将话语场域引入公共政策分析，用于阐释福利国家改革与环境治理政策框架的制度化根源。
 > - **2023年 — 跨国[[Geopolitics of Higher Education|高等教育地缘政治]][[Narrative Analysis|叙事分析]]** 伍国雄将话语场域作为[[Critical Realism|批判实在论]]因果[[Retroduction|逆推溯因]]的方法论中介，系统解析当代中国[[Belt and Road Initiative|一带一路]]高教政策深层的历史与政治结构根源。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–691)]]
 
 ---

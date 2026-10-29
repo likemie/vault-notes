@@ -7,9 +7,9 @@ aliases:
 summary: "学习者在知识建构、标准评估与探究决策中作为认知主体深度参与的能动权能，强调超越机械遵循预设程序，共同协商并塑造共同体的认识论准则，是指导式探究区别于直接讲授的核心标志"
 type: concept
 domain: "educational-psychology"
-related_count: 69
-related_level: 6
-related_stars: "💎💎"
+related_count: 70
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/epistemic-cognition
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Epistemic Cognition]]"
   - "[[Problem Solving]]"
+  - "[[Collaborative Learning]]"
   - "[[Epistemic Ideals]]"
   - "[[Reliable Epistemic Processes]]"
   - "[[Operationalization]]"
@@ -95,7 +96,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -175,20 +176,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　认识能动性的确立要求科学教学从被动程序遵循转向元认识论维度的公共协商
-
-> [!concept-lens] 教学[[Paradigm\|范式]]转型维度
-> 聚焦探究教学的核心矛盾：是将科学规程作为现成定论强行灌输给学生，还是引导学生在真实探究情境中自主推导规程背后的因果合理性。
+> [!concept-proposition] 命题一｜认识能动性的确立要求科学教学从被动程序遵循转向元[[Epistemology|认识论]]维度的公共协商
+> **探讨维度　教学[[Paradigm\|范式]]转型维度** 聚焦探究教学的核心矛盾：是将科学规程作为现成定论强行灌输给学生，还是引导学生在真实探究情境中自主推导规程背后的因果合理性。
 
 > [!claim] Duncan & Chinn
 > **超越程序主义的认识转向** 传统教学往往将控制[[Variable\|变量]]、设置对照组等方法论规则作为教条直接告知学生，导致学生仅机械套用步骤而不知其所以然。唯有引导学生直面相互对立的模型与存在严重缺陷的弱证据，并在课堂对话中辩护为何某种观察条件（如野外无物理遮挡、系统样线抽样）更为可靠，学生才能建立起深刻的[[Epistemological Understanding\|元认识论理解]]，真正确立认识能动性。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–223)]]
 
 ---
 
-### 命题二　认识能动性是区分有效指导式探究与传统直接教学的核心分水岭并驱动深层概念建构
-
-> [!concept-lens] [[Knowledge Production\|知识生成]]与概念内化机制
-> 探讨认识能动性在促进抽象概念转变与跨情境远迁移中的决定性作用，反思缺乏能动权的纯讲授教学局限。
+> [!concept-proposition] 命题二｜认识能动性是区分有效[[Inquiry-Based Learning|指导式探究]]与传统[[Direct Instruction|直接教学]]的核心分水岭并驱动深层概念建构
+> **探讨维度　[[Knowledge Production\|知识生成]]与概念内化机制** 探讨认识能动性在促进抽象概念转变与跨情境远迁移中的决定性作用，反思缺乏能动权的纯讲授教学局限。
 
 > [!claim] [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] & Chinn & Duncan
 > **认识能动性对概念重构的实质支撑** 在[[Direct Instruction\|直接教学]]中，认识能动权几乎完全由教师垄断，学生仅负责接收与消化，容易导致知识仅停留在表层程序记忆，在长周期保持中严重衰减；而在包含有效支架的[[Inquiry-Based Learning\|探究式教学]]中，学生行使认识能动性，通过假设提出、变量协调与证据检验主动协调认知冲突，促成[[Working Memory\|工作记忆]]资源向关联认知加工的高效转化，达成直接讲授无法企及的深度概念理解与长期保持。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–3)]]
@@ -198,20 +195,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题三　赋予学习者认识能动性是消除课堂话语边缘化并实现认识正义的必要途径
-
-> [!concept-lens] 认识正义与权力关系维度
-> 聚焦课堂知识生产中的权力分配：边缘群体与学业弱势学生的经验直觉是否被体制化标准压制，以及如何通过认识赋权予以纠正。
+> [!concept-proposition] 命题三｜赋予学习者认识能动性是消除课堂[[Discourse|话语]]边缘化并实现认识正义的必要途径
+> **探讨维度　认识正义与权力关系维度** 聚焦课堂知识生产中的权力分配：边缘群体与学业弱势学生的经验直觉是否被体制化标准压制，以及如何通过认识赋权予以纠正。
 
 > [!claim] Duncan & Chinn
 > **认识平等的实践建构** 当课堂评价被单一死板的句法结构（如必须套用刻板的论证连接词模板）所统治时，不熟悉主流学术[[Discourse|话语]]范式的边缘学生极易遭受认识边缘化。相反，若评价聚焦于学生对观察条件、因果机制与可靠认识过程的实质洞察，即便使用日常口语或零散短语的学生，其深刻的科学见解也能被识别和尊崇，从而在探究共同体中实现认识正义。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 223–224)]]
 
 ---
 
-### 命题四　人工智能中介环境中的认识主体性具有关系性与共享性特征，依赖适应性认识立场与双轨支架协同维系
-
-> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]与[[Epistemic Stances\|认识立场]]调节维度
-> 探讨在[[Generative Artificial Intelligence\|生成式人工智能]]深度介入学习的背景下，认识主体性如何超越孤立自足的技术怀疑论，转型为在人机共享网络与技术中介中行使审议、证据协调与裁决权。
+> [!concept-proposition] 命题四｜人工智能中介环境中的认识主体性具有关系性与共享性特征，依赖[[Epistemic Stances|适应性认识立场]]与双轨支架协同维系
+> **探讨维度　[[Man-Computer Symbiosis|人机共生]]与[[Epistemic Stances\|认识立场]]调节维度** 探讨在[[Generative Artificial Intelligence\|生成式人工智能]]深度介入学习的背景下，认识主体性如何超越孤立自足的技术怀疑论，转型为在人机共享网络与技术中介中行使审议、证据协调与裁决权。
 
 > [!claim] Wu et al.
 > **人机共享认识能动性与认识立场调节机制** 认识主体性并不追求脱离外部智能工具的孤立纯洁性。在生成式人工智能嵌入的学习环境中，人类学习者与大语言模型构成共享认识能动性（Shared Epistemic Agency）的共生伙伴关系：
@@ -230,10 +223,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题五　认识能动性的实质行使依赖学习者对探究方向与弹性组织结构的历时反思性共同结构化
-
-> [!concept-lens] 探究方向协同与组织架构突现维度
-> 阐明学习者如何超越孤立的任务内微观操作，通过在探究过程中持续重构四维共享探究结构（认识框架、社会构型、实践框架与价值准则），实现深层观点演进与集体知识前沿推进。
+> [!concept-proposition] 命题五｜认识能动性的实质行使依赖学习者对探究方向与弹性组织结构的历时[[Reflective Structuration|反思性共同结构化]]
+> **探讨维度　探究方向协同与组织架构突现维度** 阐明学习者如何超越孤立的任务内微观操作，通过在探究过程中持续重构四维共享探究结构（认识框架、社会构型、实践框架与价值准则），实现深层观点演进与集体知识前沿推进。
 
 > [!claim] [[Argument_Zhang_2022_SE|Zhang et al. (2022)]]
 > **[[Reflective Structuration|反思性共同结构化]]对认识能动性的实践赋能** [[Authentic Science Practices|真实的科学实践]]要求学生作为协作共同体，对探究工作的宏观与微观维度行使最高阶的认识能动权。通过[[Reflective Structuration|反思性结构化]]机制，学生在教师促学支持下，依据持续推进的探究进展与认知缺口，动态协商并扩展集体意向领域（Wondering Areas），自发组建并调整[[Opportunistic Collaboration|弹性探究小组]]（Opportunistic Groups），在[[Theory of Knowledge|知识论]]坛多重视图与[[Metacognition|元认知]]反思中协同整合全班最优理解（BOOK 视图）；这种对探究议程与社会组织构型的自主重塑，驱动了从表层事实搜寻向深层因果机制解释的稳步演进，并在全班构建起高密度的分布式认知网络。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 890, 892–894)]]
@@ -252,7 +243,7 @@ updated: 2026-10-25
 ---
 
 > [!dev-timeline] 概念演变
-> - **2000 年代初 — [[Knowledge Building Theory\|协作知识建构]]初涉** 计算机支持的协作学习（CSCL）学者探讨学习者对知识共同体认知产物的集体责任，初步提出分布式认识能动性假说。
+> - **2000 年代初 — [[Knowledge Building Theory\|协作知识建构]]初涉** 计算机支持的[[Collaborative Learning|协作学习]]（CSCL）学者探讨学习者对知识共同体认知产物的集体责任，初步提出分布式认识能动性假说。
 > - **2014 年 — 科学实践行动赋权确立** 科学教育学者系统界定课堂语境下的认识能动性，强调学生必须在科学实践中被赋予提出探究问题、[[Design-Based Research\|设计实验]]调查与修正理论模型的行动裁决权。
 > - **2018–2023 年 — 探究教学六要素核心支柱定位** [[Clark A. Chinn\|克拉克·钦]]（Clark A. Chinn）与拉维特·戈兰·邓肯（Ravit Golan Duncan）将认识能动性提炼为有效科学探究六要素的核心枢纽，并在 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 中作为反击极简指导污名化的理论支点。
 > - **2021 年 — [[Epistemology\|认识论]]干预[[Meta-analysis\|元分析]]确立支架对能动性行使的奠基作用** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 针对 26 项实验与准[[Experimental Research\|实验研究]]的元分析证实，放任自流的纯自主辩论与无指导[[Problem Solving\|问题解决]]无法带来稳定的学业增益，唯有在结构化指导与证据评估支架下行使认识主体性，才能有效推动认识论发展与深层成就提升。

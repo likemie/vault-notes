@@ -7,10 +7,10 @@ aliases:
 summary: "由格特·比斯塔提出的批判性哲学构念，用以诊断教育话语被以效果为中心的“学习”逻辑全面殖民的现象。该构念揭示：当教育被降维为无休止的学习过程、学习结果与效应量排名时，教师被降格为学习促进者，学生被重塑为需持续自我优化的学习客户，从而彻底遮蔽了关涉主体成人、民主公民与全人教化（Bildung）的崇高教育目的。"
 type: concept
 domain: "educational-philosophy"
-related_count: 48
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - concept/educational-philosophy
   - learnification
@@ -32,12 +32,14 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Pedagogical Subject]]"
   - "[[Externalization]]"
+  - "[[Document]]"
   - "[[Positivism]]"
   - "[[Developmentalism]]"
   - "[[Critical Pedagogy]]"
   - "[[Problem Solving]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
+  - "[[Personalized Learning]]"
   - "[[Rote Learning]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Employability]]"
@@ -75,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -112,7 +114,7 @@ updated: 2026-10-25
 > | **核心目的** | 最大化可测学习结果与劳动力[[Human Capital Theory\|人力资本]]效能 | 培育整全人格、道德审议力与社会文化担当 | 达成超越平均基准线（$d > 0.40$）的学业可见产出 | 寻求“什么在统计上有效”（what works）的实用工具理性 |
 > | **教师角色** | 学习促进者（Facilitator）、数据收集者与成效管理者 | 文化引路人、权威知识代表与精神对话主体 | 教学效果的评估者与干预策略校准者 | 科学实证证据的忠实执行者与干[[Pilot Testing\|预测试]]者 |
 > | **学生地位** | 需对自身效能持续负责的学习消费者与优化代理人 | 处于未成熟状态、渴望跨入文化传统的完整主体（[[Pedagogical Subject]]） | 需将思维过程完全[[Externalization\|外化]]并接受指标监控的受测客体 | 提供[[Pre-test and Post-test\|前测]]后测表现数据的试验对象 |
-> | **代表文献** | [[Argument_Biesta_2010_SPE\|Biesta (2010)]]; [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] | 洪堡; 赫尔巴特; 施莱尔马赫; [[Wolfgang Klafki\|克拉夫基]] | [[John Hattie\|Hattie]] (2009, 2012); Hattie and Clarke (2019) | [[Argument_Slavin_2002_ER\|Slavin (2002)]]; Davies (1999); Goldacre (2013) |
+> | **代表[[Document\|文献]]** | [[Argument_Biesta_2010_SPE\|Biesta (2010)]]; [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] | 洪堡; 赫尔巴特; 施莱尔马赫; [[Wolfgang Klafki\|克拉夫基]] | [[John Hattie\|Hattie]] (2009, 2012); Hattie and Clarke (2019) | [[Argument_Slavin_2002_ER\|Slavin (2002)]]; Davies (1999); Goldacre (2013) |
 
 ---
 
@@ -155,10 +157,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　学习话语的语义转译抽离了教育的规范目的并消解了主体化维度
-
-> [!concept-lens] 语言转译、目的抽离与主体化消解
-> 探讨教育学词汇向“学习”[[Discourse|话语]]的转译如何改变师生伦理关系，将价值反思边缘化。
+> [!concept-proposition] 命题一｜学习[[Discourse|话语]]的语义转译抽离了教育的规范目的并消解了主体化维度
+> **探讨维度　语言转译、目的抽离与主体化消解** 探讨教育学词汇向“学习”[[Discourse|话语]]的转译如何改变师生伦理关系，将价值反思边缘化。
 
 > [!claim] [[Argument_Biesta_2010_SPE|Biesta (2010)]]
 > **学习化对教育核心问题的遮蔽与主体性的消解** 比斯塔论证指出，用“学习”概念置换“教育”概念带来了深刻的哲学危机：
@@ -167,10 +167,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　可见学习构成了学习化范式的极端技术化显影与全景敞视监控
-
-> [!concept-lens] [[Effect Size|效应量]]崇拜、[[Panopticism|全景敞视]]与技术治理
-> 探讨量化实证研究如何将学习化推进为无所不包的监控装置。
+> [!concept-proposition] 命题二｜可见学习构成了学习化[[Paradigm|范式]]的极端技术化显影与[[Panopticism|全景敞视]]监控
+> **探讨维度　[[Effect Size|效应量]]崇拜、[[Panopticism|全景敞视]]与技术治理** 探讨量化实证研究如何将学习化推进为无所不包的监控装置。
 
 > [!claim] [[Argument_Larsen_2019_EducSci|Larsen (2019)]]
 > **可见学习（[[Visible Learning]]）对教学的机械还原与监控强化** 拉森指出，[[John Hattie|约翰·哈蒂]]的可见学习模型是学习化[[Paradigm|范式]]的终极体现：
@@ -179,10 +177,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题三　认知资本主义将批判教育学的“学习”概念吸收为终身发展的自适应命令
-
-> [!concept-lens] 历史沿革、概念收编与新自由主义资本治理
-> 探讨原本具有解放意涵的学习概念如何被全球经济体制收编为劳动力规训工具。
+> [!concept-proposition] 命题三｜[[Cognitive Capitalism|认知资本主义]]将[[Critical Pedagogy|批判教育学]]的“学习”概念吸收为终身发展的自适应命令
+> **探讨维度　历史沿革、概念收编与新自由主义资本治理** 探讨原本具有解放意涵的学习概念如何被全球经济体制收编为劳动力规训工具。
 
 > [!claim] [[Argument_Larsen_2019_EducSci|Larsen (2019)]]
 > **从解放性诉求向资本主义发展强制的历史嬗变** 拉森通过考察丹麦教育史揭示了学习概念的深刻逆转：
@@ -191,14 +187,12 @@ updated: 2026-10-25
 
 ---
 
-### 命题四　学习化将教育学关系简化为服务消费交易并取消了教师的教导天职
-
-> [!concept-lens] 教师降格、服务消费化与教导权威的丧失
-> 探讨学习促进者模式如何瓦解师生之间的精神代际传承。
+> [!concept-proposition] 命题四｜学习化将教育学关系简化为服务消费交易并取消了教师的教导天职
+> **探讨维度　教师降格、服务消费化与教导权威的丧失** 探讨学习促进者模式如何瓦解师生之间的精神代际传承。
 
 > [!claim] [[Argument_Biesta_2010_SPE|Biesta (2010)]]; [[Argument_Larsen_2019_EducSci|Larsen (2019)]]
 > **教育学权威的瓦解与教导维度的流失** 比斯塔与拉森论证指出：
-> 1. **教师成为服务提供商** 在学习化话语中，学生被视作具有既定偏好的学习消费者，教师则成为按需提供个性化学习方案的促进者；教育关系退化为市场契约关系；
+> 1. **教师成为服务提供商** 在学习化话语中，学生被视作具有既定偏好的学习消费者，教师则成为按需提供[[Personalized Learning|个性化学习]]方案的促进者；教育关系退化为市场契约关系；
 > 2. **教导（Teaching）作为介入性礼物的消失** 真正的教育需要教师带来学生原本无法自发渴望或知晓的外部文化遗产，需要“被打扰”与“被唤醒”的精神遭遇。学习化将学习窄化为个体内在认知潜能的自发释放与既有欲望的满足，取消了教师作为引路人向学生呈递精神传统的崇高天职。[[Argument_Biesta_2010_SPE|(Biesta, 2010, pp. 18–19)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019, pp. 2–3)]]
 
 ---

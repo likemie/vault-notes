@@ -10,7 +10,7 @@ aliases:
 summary: "打破传统自上而下单向或离散工程壁垒，在微电子系统全生命周期中将底层物理材料、器件物理、制造工艺、高级封装、电路架构、算法软件直至终端应用需求进行全栈双向信息互通与联合优化的工程研发范式。"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Electronic Design Automation]]"
   - "[[Computer Simulation]]"
+  - "[[Document]]"
   - "[[Process Design Kit]]"
 related_theories: []
 related_methods:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -98,20 +99,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　协同设计是突破先进工艺节点物理限制与跨尺度瓶颈的核心路径
-
-> [!concept-lens] 物理极限与系统级优化
-> 围绕半导体物理微缩带来的互连延迟剧增、暗硅效应与热耗散危机，探讨跨层次联合优化如何释放系统级算力潜力。
+> [!concept-proposition] 命题一｜协同设计是突破先进工艺节点物理限制与跨尺度瓶颈的核心路径
+> **探讨维度　物理极限与系统级优化** 围绕半导体物理微缩带来的互连延迟剧增、暗硅效应与热耗散危机，探讨跨层次联合优化如何释放系统级算力潜力。
 
 > [!claim] [[National Science and Technology Council|NSTC]]
 > **设计与工艺联合优化化解物理孤岛效应** 在先进制程下，微观物理效应已无法通过抽象黑箱进行有效隔离。单纯改进单一器件结构或单纯优化上层算法均无法获得性能突破。协同设计（DTCO/STCO）通过将工艺物理特性前置导入电路架构与编译器优化，能够在不依赖极限物理微缩的前提下，实现能效比与运算速度的成倍提升。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10, 13–16)]]
 
 ---
 
-### 命题二　协同设计将安全性与可持续性从外生补丁重塑为内生结构要素
-
-> [!concept-lens] 安全性与全生命周期环境约束
-> 围绕传统[[Hardware Security|硬件安全]]后期修补的脆弱性以及半导体制造能耗扩张，探讨全栈协同如何构建内生可信与低碳体系。
+> [!concept-proposition] 命题二｜协同设计将安全性与可持续性从外生补丁重塑为内生结构要素
+> **探讨维度　安全性与全生命周期环境约束** 围绕传统[[Hardware Security|硬件安全]]后期修补的脆弱性以及半导体制造能耗扩张，探讨全栈协同如何构建内生可信与低碳体系。
 
 > [!claim] NSTC
 > **全生命周期安全与绿色设计前置化** 面对日益复杂的硬件木马、侧信道物理攻击以及高昂的环境碳足迹，事后追加防护或工艺补救措施成本极高且效果有限。通过在材料选择、电路拓扑与系统级协议之间实施协同设计，研究团队能够在架构根基处构建零信任硬件信任根与低功耗绿色制造参数，从源头上保障国家安全关键基础设施的韧性。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 13, 18–20)]]
@@ -119,7 +116,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 协同设计核心命题概览
-> | 命题方向 | 核心论断 | 技术与政策意涵 | 代表文献 |
+> | 命题方向 | 核心论断 | 技术与政策意涵 | 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **物理与架构效能** | 跨尺度全栈双向反馈突破传统单片物理微缩收益递减瓶颈 | 推动先进[[Electronic Design Automation\|电子设计自动化]]（EDA）与跨尺度仿真工具研发 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 10–16)]] |
 > | **安全与系统可持续性** | 硬件信任根与全生命周期低碳参数必须在前置阶段内生嵌入 | 指导国防关键芯片与绿色半导体制造重大研发计划布局 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 18–20)]] |

@@ -8,7 +8,7 @@ aliases:
 summary: "以标准化高利害考试成绩为教育质量与个体价值核心衡量指标的制度化教学与评价体系。在中国根植于科举文化传统并由高考多层问责机制维持；在当代全球语境下表现为与教育计算机化对齐的模式识别与公式套路化规训，前置性造成未成年学习者的成长性认识不正义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 33
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Quality Education]]"
   - "[[Epistemology]]"
+  - "[[Social Support]]"
   - "[[Test-Based Accountability]]"
   - "[[Rote Learning]]"
   - "[[Academic Achievement]]"
@@ -31,6 +32,7 @@ related_concepts:
   - "[[Epistemic Malformation]]"
   - "[[Reliability]]"
   - "[[Learned Helplessness]]"
+  - "[[Document]]"
   - "[[Intercultural Education]]"
   - "[[Epistemic Agency]]"
   - "[[Going Native]]"
@@ -60,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 （应试教育 / 考试驱动型教育）
@@ -78,7 +80,7 @@ updated: 2026-10-22
 > [!citation-card] 传统考试文化对当代学校实践的支撑
 > 考试驱动教育的传统，结合高考在大学录取中的主导重要性……强化了社会对当前学校教育实践的支持。
 >
-> *...the tradition of examination-driven education, combined with the predominant importance of Gaokao (College Entrance Examination) in college admission ... has reinforced social support for current schooling practices.* ([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p. 589]])
+> *...the tradition of examination-driven education, combined with the predominant importance of Gaokao (College Entrance Examination) in college admission ... has reinforced [[Social Support|social support]] for current schooling practices.* ([[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, p. 589]])
 
 > [!citation-card] 读写教育的技能主义与应试异化
 > 人们阅读不再是为了探索善，而是为了寻找中心句和圈出过渡词。
@@ -135,40 +137,32 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　应试教育是通过多层制度问责与社会流动认同自稳运行的高协调性活动系统
-
-> [!concept-lens] 制度协调性与阻力场
-> 应试教育绝非个别教师理念落后的孤立现象，而是一个各要素紧密咬合、自我维系的制度化活动系统。
+> [!concept-proposition] 命题一｜应试教育是通过多层制度问责与社会流动认同自稳运行的高协调性活动系统
+> **探讨维度　制度协调性与阻力场** 应试教育绝非个别教师理念落后的孤立现象，而是一个各要素紧密咬合、自我维系的制度化活动系统。
 
 > [!claim] Wang & McLaughlin
 > **系统维系机制与教师的道德理性** 在四所中国学校的[[Fieldwork|田野调查]]中，应试教育表现为贯穿课堂讲授、统考数据分析、行政问责与家校期望的整体系统。教师即便认可并理解[[Learner-Centred Education|以学习者为中心的教育]]（LCE），但在强大的行政目标分解与家长高压下，仍必然将提分置于首位。更关键的是，教师将帮助薄弱背景学生通过标准化考试实现阶层向上流动视为自身的职业道德责任；这种来自历史传统与现实公平诉求的深层认同，赋予了应试教育坚不可摧的合法性。（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp. 593–595]]）
 
 ---
 
-### 命题二　应试教育对公式套路与模式识别的规训导致教学“计算机化”并前置造成成长性认识不正义
-
-> [!concept-lens] 技能主义异化与认识能力损害
-> 当应试评价将复杂心智窄化为对确定性规则的模式识别时，学校教育在本质上退化为计算机算力的前置训练。
+> [!concept-proposition] 命题二｜应试教育对公式套路与模式识别的规训导致教学“计算机化”并前置造成[[Formative Epistemic Injustice|成长性认识不正义]]
+> **探讨维度　技能主义异化与认识能力损害** 当应试评价将复杂心智窄化为对确定性规则的模式识别时，学校教育在本质上退化为计算机算力的前置训练。
 
 > [!claim] Learned et al.; Davies; Collin; Smith
 > **[[Computerization of Education|教育计算机化]]与公式写作的认识压迫** 在欧美[[High-Stakes Testing|高利害测验]]中，标准化考核迫使教师在课堂推行公式化套路写作（Formulaic Writing），造成学生严重的心理焦虑与情绪创伤（Learned et al., 2020）。读写教学从探讨至善与道德探究，退化为寻找中心句与圈出过渡词的技术套路（Applebee, 1974; Collin, 2024）。Davies (2022) 与 [[Argument_Smith_2026_SPE|Smith (2026)]] 论证，这种以模式识别和信息处理压制主观阐释、深层理解的人文教学异化，构成了[[Computerization of Education|教育计算机化]]（Computerization of Education）。在生成式 AI 问世前，应试教育体制早已切断了知识理由的传递、剥夺了复杂探究的技能实践，使学生遭受深度的[[Formative Epistemic Injustice|成长性认识不正义]]与[[Epistemic Malformation|认知畸变]]。（[[Argument_Smith_2026_SPE|Smith, 2026, pp. 5–6]]）
 
 ---
 
-### 命题三　生成式 AI 与应试套路共谋系统性放大未成年人的心智致残风险
-
-> [!concept-lens] 算法与八股共谋的认知致残
-> 当学校体制推崇模式化套路时，生成式 AI 的概率拼接与应试教育发生病理共振。
+> [!concept-proposition] 命题三｜生成式 AI 与应试套路共谋系统性放大未成年人的心智致残风险
+> **探讨维度　算法与八股共谋的认知致残** 当学校体制推崇模式化套路时，生成式 AI 的概率拼接与应试教育发生病理共振。
 
 > [!claim] Smith
 > **算法代劳对应试八股的寄生性致残** 生成式大语言模型的统计概率预测机制本质上就是高级模式识别。当应试体制本身就在奖励机械、标准化的套路写作时，大模型的引入不仅没有解放师生，反而促使师生将灵感构思、提纲架构与反思修改全盘拱手让给算法。学生凭借 AI 交出精美的应试作文而产生盲目自满的[[Reliability|信度]]通胀（Credibility Excess），一旦进入无工具的独立考场便产生深度的[[Learned Helplessness|习得性无助]]与信度赤字（Self-Imposed Credibility Deficit），使成长性[[Epistemic Injustice|认识不正义]]在技术介入下被极度放大。（[[Argument_Smith_2026_SPE|Smith, 2026, pp. 5–9]]）
 
 ---
 
-### 命题四　应试刚性底线制约并重塑以学习者为中心的教学改革路径
-
-> [!concept-lens] 改革悖论与妥协策略
-> 教学改革的推进并不取决于理念的先进性，而取决于其能否兼容应试成绩不下滑的底线预设。
+> [!concept-proposition] 命题四｜应试刚性底线制约并重塑以学习者为中心的教学改革路径
+> **探讨维度　改革悖论与妥协策略** 教学改革的推进并不取决于理念的先进性，而取决于其能否兼容应试成绩不下滑的底线预设。
 
 > [!claim] Wang & McLaughlin; Schulte
 > **应试底线对教学创新的工具化收编** 实证研究显示，应试体系与教学创新并非简单的排斥关系：在既有成绩稳居前列（前 5%）的优势学校，教师倾向于安于现状，继续维持教师中心讲授；而在渴望突破提分天花板的学校，LCE 教学法反而被工具化采纳为激发学生分析能力的高效手段。但无论何种情境，确保考试成绩不出现任何下滑是推行任何教学创新的绝对前置条件，这证明应试逻辑构成了主导教育实践的最高规范框架。（[[Argument_Wang_2025_CE|Wang & McLaughlin, 2025, pp. 595–600]]; [[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]）
@@ -176,7 +170,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心论点 | 适用情境 | 代表文献 |
+> | 命题类型 | 核心论点 | 适用情境 | 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **系统维系命题** | 应试教育是由行政问责、家长期望与教师道德责任多层锁定的高协调性自稳活动系统 | 东亚社会、中国基础教育改革与[[Intercultural Education\|跨文化教育]]治理 | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]; You (2019) |
 > | **计算机化异化命题** | 追求标准化得分将教学窄化为模式识别与公式套路，前置剥夺了学生的深层探究权与[[Epistemic Agency\|认识主体性]] | 高利害测验、欧美与全球标准化读写教学改革 | Learned et al. (2020); Collin (2024); Davies (2022); [[Argument_Smith_2026_SPE\|Smith (2026)]] |

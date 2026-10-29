@@ -25,6 +25,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
+  - "[[Document]]"
   - "[[Interaction Effect]]"
   - "[[Absorptive Capacity]]"
   - "[[Source of Knowledge]]"
@@ -49,14 +50,14 @@ sources:
 part_of:
 status: draft
 created: 2026-06-26
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Glitz_2020_AmEconRev"
 argument_key: "Argument_Glitz_2020_AmEconRev"
 argument_display_title: "Industrial Espionage and Productivity"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -170,7 +171,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一：识别策略——从面板固定效应到工具变量
+> [!claim|step] 论证步骤一：识别策略——从面板固定效应到工具变量
 > 面板[[Fixed-Effect Model\|固定效应模型]]的 [[Ordinary Least Squares\|OLS]] 估计可能因遗漏[[Variable\|变量]]和测量问题产生偏误，需要通过工具变量策略建立情报流入对 [[Total Factor Productivity\|TFP]] 差距缩小的因果效应。
 
 > [!chain-link] 证据到判断
@@ -183,7 +184,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二：两种工具变量的构建与效力
+> [!claim|step] 论证步骤二：两种工具变量的构建与效力
 > 两种工具变量——"老线人"[[Shift-Share Instrument\|shift-share IV]] 和"退出线人"IV——均满足相关性和外生性条件，IV 估计结果较 OLS 更大，表明 OLS 可能存在衰减偏误。
 
 > [!chain-link] 证据到判断
@@ -196,7 +197,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三：分解与稳健性
+> [!claim|step] 论证步骤三：分解与稳健性
 > 工业间谍主要通过加速东德 TFP 增长来缩小差距，对西德 TFP 无显著影响；且这一结论对多种替代设定保持稳健。
 
 > [!chain-link] 证据到判断
@@ -209,7 +210,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤四：替代[[Dependent Variable|结果变量]]
+> [!claim|step] 论证步骤四：替代[[Dependent Variable|结果变量]]
 > 工业间谍不仅提高了基于价值的 TFP，还增加了实物产量、产品多样性和出口能力。
 
 > [!chain-link] 证据到判断
@@ -220,12 +221,12 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤五：异质性——信息质量与技术前沿距离
+> [!claim|step] 论证步骤五：异质性——信息质量与技术前沿距离
 > 工业间谍的生产率效应高度集中在少数高质量情报和接近技术前沿的行业中。
 
 > [!chain-link] 证据到判断
 > - **信息质量** 将情报按斯塔西内部质量评估分为 1–5 级（并插补缺失值）后，"非常有价值"（1 级）情报的边际效应远大于所有其他类别，对 log TFP 差距的系数为 −1.570（p=0.040），而"有价值"（2 级）为 0.136（不显著），"中等价值"（3 级）为 −0.020（不显著）。大部分情报可能是可有可无的。
-> - **技术前沿距离** 按初始 TFP 差距四分位数分组的交互项显示，工业间谍在初始差距较小的行业（即更接近西德技术前沿的行业）效应最大（pp.1096, Figure 6 Panel A）。这与标准 R&D 文献中"距离前沿越远回报越大"的发现形成对比。
+> - **技术前沿距离** 按初始 TFP 差距四分位数分组的交互项显示，工业间谍在初始差距较小的行业（即更接近西德技术前沿的行业）效应最大（pp.1096, Figure 6 Panel A）。这与标准 R&D [[Document|文献]]中"距离前沿越远回报越大"的发现形成对比。
 > - **进口壁垒** 按进口强度差距四分位数未发现异质性——间谍在贸易开放和贸易受限行业中效用相似（Figure 6 Panel B）。
 
 > [!warrant]- 推理桥梁
@@ -233,7 +234,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤六：[[Counterfactual|反事实]]模拟与成本收益
+> [!claim|step] 论证步骤六：[[Counterfactual|反事实]]模拟与成本收益
 > 工业间谍对东德经济的总体影响显著但数量有限，但在某些关键行业（如电子行业）几乎是维持技术[[Competitiveness|竞争力]]的生命线；初步[[Cost-Benefit Analysis|成本收益分析]]显示其净回报极为可观。
 
 > [!chain-link] 证据到判断

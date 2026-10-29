@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-14
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -110,7 +110,7 @@ updated: 2026-10-26
 
 ## 概念辨析
 
-通过对比不同研究传统与实验设计中的对照条件，可以清晰界定常态教学的[[Epistemology|认识论]]定位与方法论特征。
+通过对比不同研究传统与[[Experimental Research|实验设计]]中的对照条件，可以清晰界定常态教学的[[Epistemology|认识论]]定位与方法论特征。
 
 > [!contrast-table] 常态教学与邻近对照概念辨析
 > | 维度 | 本概念：常态教学（Business as Usual, BAU） | 医学安慰剂（Placebo） | 替代性积极干预（Active Alternative） | 实验室受控对照（Lab Control） |
@@ -125,7 +125,7 @@ updated: 2026-10-26
 
 ## 核心要素
 
-常态教学在循证实验设计中包含了基线高度、[[Counterfactual|反事实]]透明度、教法惯性与组织生态等多重理论要素。
+常态教学在循证[[Experimental Research|实验设计]]中包含了基线高度、[[Counterfactual|反事实]]透明度、教法惯性与组织生态等多重理论要素。
 
 > [!feature] 核心要素
 > - **动态高基线属性** 公立学校的常态教学并非落后低效的真空，而是包含了受过专业师范培训教师的日常讲授、校本教研、课后答疑与国家统考准备（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。任何外部干预必须在这一高起点基线上展示增量增益。
@@ -170,20 +170,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　缺乏显著正效应往往映射常态教学的高质量基线而非干预绝对无效
-
-> [!concept-lens] 认识论地位与效度基准维度
-> 探讨教育实验中微弱[[Effect Size\|效应量]]的实质归因，破除将“未超越常态教学”简单等同于“干预毫无价值”的技术主义偏见。
+> [!concept-proposition] 命题一｜缺乏显著正效应往往映射常态教学的高质量基线而非干预绝对无效
+> **探讨维度　认识论地位与效度基准维度** 探讨教育实验中微弱[[Effect Size\|效应量]]的实质归因，破除将“未超越常态教学”简单等同于“干预毫无价值”的技术主义偏见。
 
 > [!claim] Edovald, K. & Nevill, C.
 > **常态教学高基线认识论与无效证据的[[Public Value|公共价值]]** 在大规模教育现场试验中，绝大多数流行干预方案仅产生微弱的[[Effect Size\|效应量]]（如英美 141 项 [[Randomised Controlled Trials\|RCT]] 中位效应量仅 $d = 0.06$），甚至未能显著超越对照组。传统的[[Deficiencies Model for an Introduction\|缺陷模型]]常将此归咎于干预设计失败或试验无信息量；然而，在成熟的公共教育体系中，这一微弱净效应实质反映出学校日常开展的常态教学本身已具备相当高的专业成熟度与教学质量。评估结论必须客观界定为“该干预未能胜过一个极高水准的对照基准”，而非干预在绝对意义上毫无功效。向决策者证明何种流行方案无法击败常态教学，对于保护公共财政免受商业营销绑架具有决定性的治理价值。（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）
 
 ---
 
-### 命题二　未界定常态教学黑箱导致反事实因果推断可解释性的系统性侵蚀
-
-> [!concept-lens] 报告透明度与[[Counterfactual\|反事实]]界定维度
-> 剖析对照组报告模糊对[[Causality\|因果推断]][[External Validity\|外部效度]]与效应量解释力造成的结构性损害。
+> [!concept-proposition] 命题二｜未界定常态教学黑箱导致[[Counterfactual|反事实]][[Causality|因果推断]]可解释性的系统性侵蚀
+> **探讨维度　报告透明度与[[Counterfactual\|反事实]]界定维度** 剖析对照组报告模糊对[[Causality\|因果推断]][[External Validity\|外部效度]]与效应量解释力造成的结构性损害。
 
 > [!claim] [[Adrian Simpson\|Simpson, A.]]
 > **反事实黑箱化对因果推断可解释性的侵蚀** 许多教育试验在报告中仅笼统声明对照组维持“常态教学”，却未对对照组实际开展的课程内容、师生配比与资源投入进行实质测量。这种未界定的反事实对照在不同学校和学区中含义截然不同，导致读者无法确认干预组与对照组之间究竟存在何种实质性实践差异。缺乏对照组具体行为的透明报告，会使得效应量的因果归因失去扎实的实证根基，严重动摇教育试验的可重复性与政策指导价值。（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, p. 113]]）
@@ -193,10 +189,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题三　真实学校课程实验中常态直接讲授构成了深厚熟练且高生态效度的检验基准
-
-> [!concept-lens] 宏观课程实验生态效度与对照基准维度
-> 澄清宏观真实课程试验与实验室微观受控实验在对照基准设定上的[[Paradigm\|范式]]分歧与循证效度。
+> [!concept-proposition] 命题三｜真实学校课程实验中常态[[Direct Instruction|直接讲授]]构成了深厚熟练且高生态效度的检验基准
+> **探讨维度　宏观课程实验生态效度与对照基准维度** 澄清宏观真实课程试验与实验室微观受控实验在对照基准设定上的[[Paradigm\|范式]]分歧与循证效度。
 
 > [!claim] [[Ton de Jong\|De Jong, T.]] et al.
 > **常态[[Direct Instruction\|直接讲授]]的熟练沉淀与真实课程实验的高生态效度** 直接教学倡导者批评宏观课程级探究实验缺乏干净的实验室对照组且混杂教师培训等[[Variable\|变量]]（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]）。然而，在真实学校生态中，常态教学并非无组织的低质状态，而是由资深教师实施其操练多年的传统直接讲授，学生亦对直接讲授规程高度熟悉。在如此深厚且高度熟练的常态对照基线之下，新型探究课程若能取得统计显著的学业优势（如 WISE 项目在 4 门学科中显著胜出）或保持等价学业成效，其循证效力与生态效度远比人为剥离教学情境的短期实验室受控测试更为坚实可靠。（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]）
@@ -265,15 +259,15 @@ updated: 2026-10-26
 > | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Schuster et al. (2018)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]） | Cohen's $d$ | <span class="mx-bar ef-bar" title="Cohen's d 0.00"><span class="b0"></span></span>0.00 | 非显著（$p > .05$） | 精心设计的[[Direct Instruction\|直接教学]] vs [[Inquiry-Based Learning\|指导式探究]]（[[Randomised Controlled Trials\|RCT]]） | 核心物理概念掌握 | 5 年、每年逾 100 名学员，8 天密集物理课程 | 两组核心概念测试得分高度接近 | 受控 RCT；摒弃模糊 BAU，两组均由专业教师规范实施，表明教学法本身在概念掌握上并无绝对优劣 |
 > | Foliano et al. (2019)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 54]]） | ES | <span class="mx-bar ef-bar" title="ES 0.00"><span class="b0"></span></span>0.00 | 非显著（$p > .05$） | [[Growth Mindset\|成长型思维]]全校大班培训 vs 常态教学（BAU） | 英国全国关键阶段统考（KS2）成绩 | 全英数十所小学大规模现场 RCT | 干预组与对照组全国统考成绩无显著差异 | 大规模现场 RCT；表明流行心理干预未能显著超越学校既有成熟的常态教学基线 |
-> | Lortie-Forgues and Inglis (2019)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 56]]） | Cohen's $d$（中位数） | <span class="mx-bar ef-bar" title="Cohen's d 0.06"><span class="b1"></span></span>0.06 | 效应量总体极度微弱 | 英美 141 项中介资助大样本教育 RCT vs BAU | 学科学业表现 | 141 项大型 RCT，跨越英美数万名学生与数百所学校 | 绝大多数干预未能取得大幅度增量 | 揭示在公立教育体系坚实的常态基线之上取得大幅度净增益面临极高生态门槛 |
+> | Lortie-Forgues and Inglis (2019)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 56]]） | Cohen's $d$（中位数） | <span class="mx-bar ef-bar" title="Cohen's d 0.06"><span class="b1"></span></span>0.06 | 效应量总体极度微弱 | 英美 141 项中介资助大样本教育 RCT vs BAU | 学科[[Academic Achievement\|学业表现]] | 141 项大型 RCT，跨越英美数万名学生与数百所学校 | 绝大多数干预未能取得大幅度增量 | 揭示在公立教育体系坚实的常态基线之上取得大幅度净增益面临极高生态门槛 |
 
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | Hanley et al. (2015) & Kitmitto et al. (2018)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]） | 试验类型 | 效力试验 | ES | — | <span class="mx-bar ef-bar" title="ES +0.22"><span class="b4"></span></span>+0.22 | — | — |
-> |  |  | 实效试验 | ES | — | <span class="mx-bar ef-bar" title="ES +0.03"><span class="b1"></span></span>+0.03 | — | — |
+> | Hanley et al. (2015) & Kitmitto et al. (2018)（引自 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]） | 试验类型 | [[Efficacy Trial\|效力试验]] | ES | — | <span class="mx-bar ef-bar" title="ES +0.22"><span class="b4"></span></span>+0.22 | — | — |
+> |  |  | [[Effectiveness Trial\|实效试验]] | ES | — | <span class="mx-bar ef-bar" title="ES +0.03"><span class="b1"></span></span>+0.03 | — | — |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

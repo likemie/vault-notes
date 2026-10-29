@@ -10,7 +10,7 @@ aliases:
 summary: "衡量个体或群体接受正规学校教育的时长与最高学历层级的社会学与人口学范畴。在微观层面是认知成熟与认识论信念演化的解释变量，在宏观政治经济学层面是国家财政分配、阶级再生产与双轨分流的制度化阶梯"
 type: concept
 domain: "sociology-of-education"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,8 +30,10 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Compensatory Legitimation]]"
   - "[[Educational Privatisation]]"
+  - "[[School Vouchers]]"
   - "[[Credential Inflation]]"
   - "[[Heterogeneity]]"
   - "[[Structural Adjustment Programs]]"
@@ -60,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-15
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -90,7 +92,7 @@ updated: 2026-10-22
 > | **核心视角** | 复杂知识环境驱动的认知信念成熟 | 生产力技能与边际劳动生产率投资 | 阶级再生产、特权垄断与国家合法化工具 |
 > | **[[Variable\|变量]]角色** | 催化[[Epistemology\|认识论]]由绝对主义走向理性的关键变量 | 决定劳动力市场收入溢价的核心[[Independent Variable\|自变量]] | 国家资源倾斜与[[Dual School System\|双轨学制]]隔离的层级屏障 |
 > | **公平假设** | 假定各层级学校教育自然促进思维进阶 | 假定层级文凭反映真实个人生产能力差异 | 揭示高阶层级优先满足特权阶层，底层大众被困于低阶 |
-> | **代表文献** | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | Schultz (1961); Becker (1964) | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]] |
+> | **代表[[Document\|文献]]** | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | Schultz (1961); Becker (1964) | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009)]] |
 
 ---
 
@@ -106,30 +108,24 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　受教育水平的提升是个体认识论信念从朴素绝对主义向理性批判主义演进的认知催化剂
-
-> [!concept-lens] 认知发展与教育年限效应
-> 阐明正规学校教育层级与年限的累积如何系统性改造个体的知识观与认知判断结构。
+> [!concept-proposition] 命题一｜受教育水平的提升是个体[[Epistemological Beliefs|认识论信念]]从朴素绝对主义向理性批判主义演进的认知催化剂
+> **探讨维度　认知发展与教育年限效应** 阐明正规学校教育层级与年限的累积如何系统性改造个体的知识观与认知判断结构。
 
 > [!claim] Greene, J. A. et al.
 > **受教育水平对[[Epistemological Beliefs|认识论信念]]层级的显著预测力** 格林等人的实证研究证明，随着个体受教育年限的增加与教育层级的跃升（从中学生到本科生及研究生），学生显著脱离最初级的“现实主义/绝对主义”认知类群；高阶教育环境所提供的复杂辩论与证据权衡，促使个体将知识理解为需要论证检验的合理解释，确立了受教育水平对认知信念演进的核心解释效力。[[Argument_Greene_2010_JEP|Greene et al. (2010, p. 389)]]
 
 ---
 
-### 命题二　外围受限国家的教育扩张呈现倒金字塔式层级错位，高阶水平膨胀以牺牲基础初等水平为代价
-
-> [!concept-lens] 依附性扩张与层级扭曲
-> 揭示第三世界[[Conditioned State Theory|受限国家]]教育扩张的非理性结构：高等与中等受教育水平超速膨胀，而全民基础初等受教育水平长期停滞。
+> [!concept-proposition] 命题二｜外围[[Conditioned State Theory|受限国家]]的教育扩张呈现倒金字塔式层级错位，高阶水平膨胀以牺牲基础初等水平为代价
+> **探讨维度　依附性扩张与层级扭曲** 揭示第三世界[[Conditioned State Theory|受限国家]]教育扩张的非理性结构：高等与中等受教育水平超速膨胀，而全民基础初等受教育水平长期停滞。
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
 > **倒金字塔式教育层级扩张与合法化补偿** 奥尔莫斯与托雷斯指出，在拉美等外围资本主义国家，教育扩张并非自下而上的民主平权演化，而是呈现出“倒金字塔”畸变：高等教育与中等教育年均增长率超过 240%，而初等教育增长极其缓慢，底层数以百万计的成人文盲绝对规模维持恒定；国家通过向中上阶层过度供给高阶教育机会实施[[Compensatory Legitimation|补偿性合法化]]，掩盖了深层分配不公。[[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009, pp. 81–82)]]
 
 ---
 
-### 命题三　新自由主义结构调整将使用者自费推向中高受教育层级，加剧了教育阶梯的阶层排他性
-
-> [!concept-lens] 成本转嫁与层级阶级封锁
-> 剖析国际金融机构推行的新自由主义改革如何通过学费政策截断底层群体向上攀升受教育阶梯的通道。
+> [!concept-proposition] 命题三｜新自由主义结构调整将使用者自费推向中高受教育层级，加剧了教育阶梯的阶层排他性
+> **探讨维度　成本转嫁与层级阶级封锁** 剖析国际金融机构推行的新自由主义改革如何通过学费政策截断底层群体向上攀升受教育阶梯的通道。
 
 > [!claim] [[Stephen Ball|Ball, S.]] J. / [[Carlos Alberto Torres|Torres, C. A.]]
 > **高阶受教育水平的市场化阶级壁垒** 在[[World Bank|世界银行]]结构调整处方下，公立大学与学术高中被强制推行“使用者自费”与私有化改革；这一阶级策略将中高受教育水平重新定义为由家庭财力购买的私人投资品，使底层贫困子弟因无力支付高昂学杂费而被迫滞留于低阶教育水平，彻底固化了代际阶级藩篱。[[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009, pp. 83–85)]]
@@ -148,7 +144,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **20世纪中叶 — 现代化理论与[[Human Capital Theory|人力资本]]阶梯确立** 舒尔茨与贝克尔将受教育水平抽象为人力资本积累的连续度量指标，假定教育层级提升自动带来生产率跃升与普遍经济繁荣。
 > - **1960s–1970s — 第三世界倒金字塔式层级扩张暴露** [[UNESCO|联合国教科文组织]]（UNESCO, 1974）与拉美经委会普查发现，发展中国家中高等受教育水平超速扩张与全民基础识字停滞形成尖锐对照，暴露出受教育层级背后深层的阶级区隔。[[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009, pp. 81–82)]]
-> - **1980s–1990s — 新自由主义层级自费化与阶级策略成型** 斯蒂芬·鲍尔（1993）与拉美批判学者揭示，教育券与自负盈亏改革加剧了高阶受教育水平的阶级垄断，将各层级学校系统推向商业市场化。
+> - **1980s–1990s — 新自由主义层级自费化与阶级策略成型** 斯蒂芬·鲍尔（1993）与拉美批判学者揭示，[[School Vouchers|教育券]]与自负盈亏改革加剧了高阶受教育水平的阶级垄断，将各层级学校系统推向商业市场化。
 > - **2000s–2010s — 认知发展与[[Epistemological Beliefs|认识论信念]]精细化实证** 格林等学者（2010）借助潜类别与多项回归模型，精确度量了受教育年限从初中到研究生阶段对认识论信念进阶的差异化促进效应。[[Argument_Greene_2010_JEP|Greene et al. (2010)]]
 
 ---

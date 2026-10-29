@@ -29,8 +29,6 @@ tags:
   - theme/educational-governance
   - region/europe
 related_concepts:
-  - "[[PISA Effect]]"
-  - "[[PISA Shock]]"
   - "[[European Education Space]]"
   - "[[Commensuration]]"
   - "[[Space of Equivalence]]"
@@ -39,6 +37,7 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Data Infrastructure]]"
   - "[[Champ]]"
+  - "[[Hard Power]]"
   - "[[Subsidiarity Principle]]"
   - "[[Comparative Turn in Education Policy]]"
   - "[[Objectivism]]"
@@ -48,6 +47,7 @@ related_concepts:
   - "[[PISA Mathematical Literacy]]"
   - "[[Construct]]"
   - "[[Lifelong Learning]]"
+  - "[[Student Motivation]]"
   - "[[Self-Efficacy]]"
   - "[[Learning Strategies]]"
   - "[[Heterogeneity]]"
@@ -111,7 +111,7 @@ related_arguments: []
 sources:
   - "[[sources/Grek_2009_JEdPolicy|Grek_2009_JEdPolicy]]"
 created: 2026-10-21
-updated: 2026-10-27
+updated: 2026-10-29
 status: draft
 ---
 ---
@@ -120,7 +120,7 @@ status: draft
 > 缺乏法定教育管辖权与直接财政制约手段的[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD），如何依托[[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）的大规模量化指标生产确立全球教育政策议程的主导权？这种以数字为媒介的技术治理如何差异化地重塑欧洲主权国家的国内教育政策，并与[[EU|欧洲联盟]]（European Union, EU）协同形塑超国家的[[European Education Space|欧洲教育空间]]？
 
 > [!claim] 核心主张
-> PISA 作为一种新型政治技术，通过生产去情境化、跨国可[[Commensuration|通约]]的指标与排名，构建起独立于主权行政边界的[[Space of Equivalence|等值空间]]，形成深远的 [[PISA Effect|PISA 效应]]；它一方面充当各成员国对内推行争议性改革和对外宣示现代化的策略性 外在化 借用资源，另一方面成为[[European Commission|欧盟委员会]]在不扩大法律职权前提下依循[[Governing by Numbers|数字治理]]协调欧洲教育空间的核心机制。
+> PISA 作为一种新型政治技术，通过生产去情境化、跨国可[[Commensuration|通约]]的指标与排名，构建起独立于主权行政边界的[[Space of Equivalence|等值空间]]，形成深远的 PISA 效应；它一方面充当各成员国对内推行争议性改革和对外宣示现代化的策略性 外在化 借用资源，另一方面成为[[European Commission|欧盟委员会]]在不扩大法律职权前提下依循[[Governing by Numbers|数字治理]]协调欧洲教育空间的核心机制。
 
 > [!concept-lens] 阅读透镜
 > - **对象** PISA 2000 与 2003 年测评周期在芬兰、德国、英国（英格兰与苏格兰）的政策反响，以及欧盟委员会教育文化总司与[[Eurydice|欧洲教育信息网络]]（Education Information Network in Europe, [[Eurydice]]）政策专家的跨国治理实践。
@@ -171,10 +171,10 @@ status: draft
 
 ---
 
-> [!claim] 论证步骤一　经合组织用跨国排名确立全球教育的权威标尺
+> [!claim|step] 论证步骤一　经合组织用跨国排名确立全球教育的权威标尺
 > [[OECD|经合组织]]无法通过法律或信贷条件强推政策，转而通过研发数据指标树立客观权威；测验绕开各国的具体课程，直接考核面向成人市场的现实生活能力，促使学生和学校自发向国际标准看齐。
 
-#### 1. 经合组织虽无法定硬权力，却凭数据指标树立政策权威
+> [!sub-claim] 1. 经合组织虽无法定[[Hard Power|硬权力]]，却凭数据指标树立政策权威
 
 经合组织自 1961 年成立起便以经济合作为核心使命；它既无权制定约束成员国的法律指令，也无法像[[World Bank|世界银行]]那样通过附带条件的贷款要求受援国改革制度。
 
@@ -203,13 +203,13 @@ status: draft
 >
 > *They don’t necessarily want to be making comparisons with countries like them, they often want to be making comparisons with the member countries and the economic part, how far they have got to go in order to catch up … They come to PISA because they want to be compared with these leading countries…. (CP2E)*
 
-#### 2. 测验脱离各国具体课程，把适应市场竞争的责任压给学生个人
+> [!sub-claim] 2. 测验脱离各国具体课程，把适应市场竞争的责任压给学生个人
 
 PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背景，将评估焦点转向 15 岁学生在成年现实生活情境中应用技能的能力。
 
 > [!method-position] 测评[[Epistemology|认识论]]转向的三项重构
 > - **去情境化实用导向** 评估聚焦于测量学生进入劳动力市场所需的应用素养（确立以 [[PISA Reading Literacy]] 与 [[PISA Mathematical Literacy]] 为支柱的测评[[Construct|构念]]），替代了对具体学校课程知识掌握程度的传统考查，同时使无法量化的公民参与、政治理解和历史文化素养边缘化。
-> - **[[Lifelong Learning|终身学习]]理念的前置化** 将传统仅针对成人的终身学习概念拓展至义务教育阶段，要求学生自我报告学习动机、[[Self-Efficacy|自我效能]]与[[Learning Strategies|学习策略]]。
+> - **[[Lifelong Learning|终身学习]]理念的前置化** 将传统仅针对成人的终身学习概念拓展至义务教育阶段，要求学生自我报告[[Student Motivation|学习动机]]、[[Self-Efficacy|自我效能]]与[[Learning Strategies|学习策略]]。
 > - **自我规制主体塑造** 将量化数据的生产与学习主体的积极自我治理相连，把持续技能提升与自我优化的责任深植于个体内部，形成福柯式的[[Governmentality|治理术]]。
 
 > [!warrant]- 技能外包与自我调节主体的生成逻辑
@@ -217,10 +217,10 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 
 ---
 
-> [!claim] 论证步骤二　各国借国际排名为本土既定政策推责或背书
+> [!claim|step] 论证步骤二　各国借国际排名为本土既定政策推责或背书
 > 面对国际排名，各国的具体政策反应大相径庭，但都遵循同一逻辑：当本土改革遭遇阻力或需要正名时，政府便援引外部国际数据作为中立证据，以此压制国内反对声音或证明既有路线的正确性。
 
-#### 1. 芬兰意外夺冠成为全球样板，国内却反常收紧中央必修课
+> [!sub-claim] 1. 芬兰意外夺冠成为全球样板，国内却反常收紧中央必修课
 
 不同国家面对 PISA 结果的反应展示了极大的体制[[Heterogeneity|异质性]]；芬兰在首届测评中的优异表现被国际社会冠以[[Finnish PISA Miracle|芬兰PISA奇迹]]（Simola, 2005），但其国内的制度反应呈现出独特的防御性姿态。
 
@@ -231,7 +231,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 > - **克制的媒体关注度** 芬兰新闻界在公布结果后表现极为平静，仅有 8 个版面的报道篇幅，与德国引发的全民舆论风暴形成鲜明对照（European Network, 2004）。
 > - **政策决策的悖论性收紧** 在获得全球极高声誉的同时，芬兰政府出台政策，通过增加综合学校的必修课比重并向核心学科倾斜来推进体系一体化（Välijärvi et al., 2002, p. 44），展现出评估数据与国内政治决策之间复杂的非对称联动。
 
-#### 2. 德国遭遇成绩落后震荡，借舆论危机全面推行统考与结果问责
+> [!sub-claim] 2. 德国遭遇成绩落后震荡，借舆论危机全面推行统考与结果问责
 
 与芬兰的平静相反，德国在首届 PISA 测评中的落后引爆了深刻的体制危机与社会恐慌（德国 PISA 冲击 / PISA 冲击）。
 
@@ -242,7 +242,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 > - **直接对接测评的项目研发** 尽管国内学界对统计效度存在批评（Wuttke, 2006），各州仍启动了直接对应测评模型的重大改进工程，包括[[Chemie im Kontext|情境中的化学]]项目（Chemie im Kontext, CHIK）、情境中的物理项目（[[Physik im Kontext]], PIKO）以及理科教学增效项目（[[SINUS|Steigerung der Effizienz des mathematisch-naturwissenschaftlichen Unterrichts]], SINUS）（BMBF, 2007）；德国 PISA 联合体定期发布能力监测报告（Prenzel et al., 2004）。
 > - **学校组织的现代性重塑** 路德维希·庞格拉茨（Ludwig Pongratz）将这一改革讨论与 1960 年代的教育大灾难（Bildungskatastrophe）相对照，指出激进改革已超出数据本身的直接要求，其实质是借助外部压力将德国学校改造为自负盈亏、接受全面质量监控的自我管理组织（Pongratz, 2006, p. 472; p. 30）。
 
-#### 3. 英国拿亮眼排名为既有路线背书，英格兰与苏格兰借数据各取所需
+> [!sub-claim] 3. 英国拿亮眼排名为既有路线背书，英格兰与苏格兰借数据各取所需
 
 经合组织将联合王国视为单一国家实体，但在实际操作中[[PISA Response in England|英格兰PISA政策回应]]与苏格兰展现出完全分立的反应机制。
 
@@ -261,7 +261,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 >
 > *...this is putting Scotland on the map. We do quite well in PISA so what more can we extract from that by way of evidence on our position in the world... we have the reassurance of PISA... There wouldn’t be any particular basis for saying, oh because of PISA we must do this or that. (S1, S2)*
 
-#### 4. 四地经验印证共同逻辑：把国际标准当做压制国内反对的护身符
+> [!sub-claim] 4. 四地经验印证共同逻辑：把国际标准当做压制国内反对的护身符
 
 横向审视上述案例，跨国数据在各法域均充当了策略性工具。
 
@@ -278,10 +278,10 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 
 ---
 
-> [!claim] 论证步骤三　欧盟借助经合组织数据在缺乏立法权下整合欧洲教育空间
+> [!claim|step] 论证步骤三　欧盟借助经合组织数据在缺乏立法权下整合欧洲教育空间
 > 欧盟受条约限制不能直接过问成员国教育事务，因而选择出资依靠经合组织生产数据指标；跨国排名带来的同行比较压力，使欧盟在不修改条约、不强制立法的前提下，推动欧洲教育体系步调一致。
 
-#### 1. 欧盟包揽大部分调查费用，直接采纳经合组织指标弥补立法短板
+> [!sub-claim] 1. 欧盟包揽大部分调查费用，直接采纳经合组织指标弥补立法短板
 
 国家层面的数据动员进一步在布鲁塞尔形成回响；欧洲联盟条约严密维护成员国在教育领域的主权独立，布鲁塞尔机构既无法推行欧洲统一大纲，亦无力独立研发庞大的测评体系。
 
@@ -295,7 +295,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 >
 > *We used to have great competition between the two institutions [OECD and the EC] which was that they were research-based, we were policy-based. And we needed that. They needed the policy aspect to mobilise the European consciousness … we are working closer and closer together, we are very very good friends now, there is no conflict. (EU3)*
 
-#### 2. 盲目取经芬兰难见实效，欧陆国家不满英美机构垄断测验技术
+> [!sub-claim] 2. 盲目取经芬兰难见实效，欧陆国家不满英美机构垄断测验技术
 
 欧盟委员会依托 PISA 数据组织跨国同行学习活动（[[Peer-Learning Activities]], PLA），推动各国专家前往芬兰考察[[Individualised Instruction|个别化教学]]与教师培训，试图寻找成功秘诀。
 
@@ -315,7 +315,7 @@ PISA 的技术设计彻底脱离了各个国家具体的教学大纲与文化背
 >
 > *We see the very big reports they publish and it is always Australians, Canadians, Americans that run away with the money. Always. It is ACER that is the Australian one, ACER that sits on the big contracts … France protests, they say this is Anglosaxon, American controlled organisation, we don’t want it. Therefore we should develop a European capability … (EU3)*
 
-#### 3. 跨国排名倒逼各国暗中看齐，但欧盟内部对能否用单一指标治教存在分歧
+> [!sub-claim] 3. 跨国排名倒逼各国暗中看齐，但欧盟内部对能否用单一指标治教存在分歧
 
 在布鲁塞尔决策网络内部，关于量化数据在欧洲治理中的角色存在深刻的哲学分歧。
 

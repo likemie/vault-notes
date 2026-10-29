@@ -10,7 +10,7 @@ aliases:
 summary: "制度分析与政治经济学中衡量成文规则与实际执行之间开放空间的维度；规则不可消除的内生模糊性使日常遵从成为动态博弈过程，高低裁量空间与宏观否决阻力交互决定渐进制度变迁形态与主导行动者筛选"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Ontology]]"
   - "[[Cognitive Decoupling]]"
+  - "[[Zone of Discretion]]"
   - "[[Opportunists]]"
   - "[[Symbionts]]"
   - "[[Theoretical Perspective]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-10-22
 > [!feature] 核心维度与机制特征
 > - **[[Rule Ambiguity|规则内生模糊性]]（Inherent Rule Ambiguity）** 成文法律永远无法预料未来所有情境；立法过程中各派势力的政治妥协往往故意制造原则性、抽象性表述以求法案通过，这直接将冲突推迟至日常执行与司法判例阶段（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 11–12]]）。
 > - **立法与执法的组织分离（Separation of Legislation and Enforcement）** 规则起草者与日常执法官僚的利益存在结构性脱节；官僚与基层执法者在日常监管中享有不可剥夺的自由裁量权，使得政策执行偏离立法原意成为常态。
-> - **普通法系与大陆法系的宏观映射** 裁量权高低映射了英美普通法系（依托法官造法与判例解释，高裁量空间）与欧洲大陆法系（依托成文法典与刚性技术条款，低裁量空间）的深层制度传统（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 20 注4]]）。
+> - **普通法系与大陆法系的宏观映射** 裁量权高低映射了英美普通法系（依托法官造法与判例解释，高[[Zone of Discretion|裁量空间]]）与欧洲大陆法系（依托成文法典与刚性技术条款，低裁量空间）的深层制度传统（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 20 注4]]）。
 > - **双维变迁矩阵的分类杠杆** 与政治[[Veto Possibilities|否决可能性]]交叉构成制度变迁形态的决定性结构维度：
 >   - **高解释执行裁量权** 行动者无需修改法条即可转用规则或放任效能侵蚀，在弱否决下导向[[Institutional Conversion|制度转换]]，在强否决下导向[[Institutional Drift|制度漂移]]。
 >   - **低解释执行裁量权** 规则刚性排除了内部重新部署的空间，变革只能诉诸规则增删与替代，在弱否决下导向[[Institutional Displacement|制度置换]]，在强否决下导向[[Institutional Layering|制度层叠]]。
@@ -112,30 +113,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　规则内生模糊性使规则遵从成为渐进变迁的微观温床
-
-> [!concept-lens] 变迁微观发生学维度
-> 探讨法条与现实落实之间的缝隙如何成为制度演化的动力源泉。
+> [!concept-proposition] 命题一｜[[Rule Ambiguity|规则内生模糊性]]使规则遵从成为渐进变迁的微观温床
+> **探讨维度　变迁微观发生学维度** 探讨法条与现实落实之间的缝隙如何成为制度演化的动力源泉。
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & Thelen, K. (2009)
 > **缝隙作为政治博弈[[Champ|场域]]** 规则成文化并不必然带来行为的确定性与冲突的平息；成文法条永远无法穷尽现实复杂性，且文字解释始终随时代语境变迁而转移。行动者在日常实践中对规则的解释、适用与执行并不是机械的被动服从，而是在规则缝隙中持续进行的资源争夺；微观行动者正是在行政自由裁量与司法解释的“软肋”中撬动渐进演化（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 10–14]]）。
 
 ---
 
-### 命题二　裁量权高低系统决定了变迁采取“内部重构”还是“外部增删”
-
-> [!concept-lens] 形态学分化机制维度
-> 阐明裁量空间如何限定行动者的策略通道。
+> [!concept-proposition] 命题二｜裁量权高低系统决定了变迁采取“内部重构”还是“外部增删”
+> **探讨维度　形态学分化机制维度** 阐明[[Zone of Discretion|裁量空间]]如何限定行动者的策略通道。
 
 > [!claim] Mahoney, J. & Thelen, K. (2009)
 > **内部转用 vs 外部更替的分水岭** 当制度赋予执行者高度的解释与裁量空间时，行动者即便遭遇利益冲突，也倾向于在既有法条内部通过重新部署用途（Redeployment）或策略性不作为来实现诉求，从而催生转换或漂移；相反，当规则边界刚性、裁量空间被极度压缩时，内部变通之门被关闭，不满群体唯有采取在外部引入全新排他性制度（置换）或在边缘层叠新条款（层叠）的显性增删路径（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 20–22]]）。
 
 ---
 
-### 命题三　高裁量空间降低了变革门槛并筛选出机会主义与共生行动者
-
-> [!concept-lens] 行动者筛选机制维度
-> 揭示微观制度属性对博弈角色类型的因果塑造。
+> [!concept-proposition] 命题三｜高裁量空间降低了变革门槛并筛选出机会主义与共生行动者
+> **探讨维度　行动者筛选机制维度** 揭示微观制度属性对博弈角色类型的因果塑造。
 
 > [!claim] Mahoney, J. & Thelen, K. (2009)
 > **裁量空间与低风险博弈角色匹配** 高裁量权大幅降低了挑战现状的政治动员成本与风险门槛。行动者无需冒着被清洗的危险发动起义或潜伏颠覆，只需利用执法软肋即可实现私利；这一环境极大地奖励并培育了顺应政治大势借调规则的[[Opportunists|机会主义者]]，以及在漏洞中违规套利的[[Symbionts|寄生型共生者]]（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 27–29]]）。

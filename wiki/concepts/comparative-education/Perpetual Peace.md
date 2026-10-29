@@ -31,9 +31,9 @@ related_concepts:
   - "[[Enlightenment]]"
   - "[[Normal School]]"
   - "[[Cosmopolitanism]]"
+  - "[[Epistemology]]"
   - "[[Artefact]]"
   - "[[Educational Meliorism]]"
-  - "[[Epistemology]]"
   - "[[Value Neutrality]]"
   - "[[Long Peace]]"
   - "[[Bonsai Army]]"
@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-06
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -143,10 +143,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　永久和平的实现以跨国教育协作与公民理性启蒙作为不可或缺的心灵防线与实践载体
-
-> [!concept-lens] 教育预防论与和平基础设施
-> 阐明启蒙思想家与比较教育始祖如何将抽象的永久和平哲学转化为具体的跨国教育制度网络与反战预防机制。
+> [!concept-proposition] 命题一｜永久和平的实现以跨国教育协作与公民理性启蒙作为不可或缺的心灵防线与实践载体
+> **探讨维度　教育预防论与和平基础设施** 阐明启蒙思想家与比较教育始祖如何将抽象的永久和平哲学转化为具体的跨国教育制度网络与反战预防机制。
 
 > [!claim] [[Marc-Antoine Jullien|Jullien, M.]]-A.
 > **教育是预防流血革命与武装冲突的理性替代方案** 朱利安在目睹大革命恐怖专政与拿破仑对外征伐的浩劫后断言，孤立的政治强制与军事对抗无法带来真正的和平；唯有通过建立跨国比较教育网络、统一优秀教学法规程并推行全人体智德教化，才能构筑起消除国际武装冲突与预防社会暴乱的心灵防线，使教育成为达致欧洲永久和平的决定性工具。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 20–24; cited in Palmer, 1993, p. 205)]]
@@ -156,10 +154,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　永久和平的世界主义伦理构成了比较教育学摆脱技术功利主义的不可让渡之认识论灵魂
-
-> [!concept-lens] 学科起源的伦理问题域
-> 批驳现代[[Behaviorism|行为主义]]实证派将比较教育矮化为去价值化[[Artefact|器物]]借用与国家经济竞争的技术测量工具。
+> [!concept-proposition] 命题二｜永久和平的世界主义伦理构成了比较教育学摆脱技术功利主义的不可让渡之[[Epistemology|认识论]]灵魂
+> **探讨维度　学科起源的伦理问题域** 批驳现代[[Behaviorism|行为主义]]实证派将比较教育矮化为去价值化[[Artefact|器物]]借用与国家经济竞争的技术测量工具。
 
 > [!claim] Wight, M. and [[Eleftherios Klerides|Klerides, E.]]
 > **[[Revolutionism|革命主义]]世界主义传统的道德激情** 怀特与克勒里德斯论证，康德所开创的革命主义传统赋予了比较教育一种强烈的道德使命感：比较教育绝非国家间争夺霸权的技术工具（现实主义），亦非单纯维持现状的制度移植（理性主义），而是一项旨在揭露不平等、促进全人类博爱与消除苦难的世界主义道德事业。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 418–419, 426–429)]]
@@ -169,10 +165,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题三　单方面去武力化无法自发达成永久和平，缺乏硬实力威慑的和平主义幻觉反向加剧地缘脆弱
-
-> [!concept-lens] 现实主义地缘批判与去武力化陷阱
-> 探讨当代战略现实主义对和平主义教条的解构，阐明战略威慑与[[Hard Power|硬实力]]作为维系实质和平不可或缺的现实底座。
+> [!concept-proposition] 命题三｜单方面去武力化无法自发达成永久和平，缺乏[[Hard Power|硬实力]]威慑的和平主义幻觉反向加剧地缘脆弱
+> **探讨维度　现实主义地缘批判与去武力化陷阱** 探讨当代战略现实主义对和平主义教条的解构，阐明战略威慑与[[Hard Power|硬实力]]作为维系实质和平不可或缺的现实底座。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]] & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **战略威慑底座与去武力化地缘风险** 战后八十年大国之间未爆发大战的[[Long Peace|长和平]]，本质上是美国绝对军事优势与战略威慑的结果，而非普遍道德自觉或市场一体化的自然产物。西方盟友（如欧洲各国与日本）将和平视为理所当然的免费公共品，陷入安全搭便车、军队微缩为[[Bonsai Army|盆景军队]]以及固守[[Article 9 of the Japanese Constitution|日本国宪法第九条]]的单方面去武力化困境。在缺乏中央权威的国际无政府丛林中，单方面的道德自省与去武力化非但不能带来永久和平，反而会向威权对手释放软弱信号、破坏地缘力量平衡；唯有以压倒性的软件[[Hard Power|硬实力]]与[[AI Deterrence|人工智能威慑]]构筑坚固防线，才能维系自由世界的和平与生存。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–44, 53–54)]]

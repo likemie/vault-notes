@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -96,20 +96,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　民族的实质是由共同历史牺牲与当下自愿同意维系的道德团结
-
-> [!concept-lens] 政治共同体的精神存在论
-> 探讨现代国家认同如何脱离种族血缘迷信，建立在主观意志与历史道德承诺之上。
+> [!concept-proposition] 命题一｜民族的实质是由共同历史牺牲与当下自愿同意维系的道德团结
+> **探讨维度　政治共同体的精神存在论** 探讨现代国家认同如何脱离种族血缘迷信，建立在主观意志与历史道德承诺之上。
 
 > [!claim] Renan (1882)
 > **民族作为主观意志与历史契约的集合** [[Ernest Renan|欧内斯特·勒南]]论证，地理、语言与种族均不足以界定现代民族；民族的真正基石在于拥有共同的光荣与遗憾，以及在此基础上每天重新确认继续共同生活的政治意愿。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Renan, 1882/2018; Karp & Zamiska, 2025, p. 199)]]
 
 ---
 
-### 命题二　放弃每日确认的国家认同将导致自由民主共和国滑入虚无主义与安全脆弱性
-
-> [!concept-lens] 当代共和国重构与认同危机
-> 探讨后现代西方解构共同历史叙事对国家动员力与技术创新的侵蚀。
+> [!concept-proposition] 命题二｜放弃每日确认的国家认同将导致自由民主共和国滑入虚无主义与安全脆弱性
+> **探讨维度　当代共和国重构与认同危机** 探讨后现代西方解构共同历史叙事对国家动员力与技术创新的侵蚀。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **国家认同解构引发的文明危机** 卡普与扎米斯卡指出，当当代西方知识界与科技精英将国家认同贬抑为狭隘排他并放弃对共同生活意愿的日常确认时，社会必然退化为原子化利己主义与消费主义的附庸；重建[[Technological Republic|技术共和国]]必须重振这种每日公投式的政治承诺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 199–201)]]

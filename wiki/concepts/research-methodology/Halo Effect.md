@@ -64,7 +64,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-06-24
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -123,20 +123,16 @@ updated: 2026-10-25
 
 ## 围绕概念形成的命题
 
-### 命题一　光环效应通过跨构念伪共变系统性侵蚀测验工具的构念效度与区分度
-
-> [!concept-lens] 测量模型与[[Construct|构念]]污染
-> 从心理测量学结构方程视角，揭示主观评价中光环效应如何将独立潜在[[Variable|变量]]扭曲为虚假单因子结构。
+> [!concept-proposition] 命题一｜光环效应通过跨[[Construct|构念]]伪共变系统性侵蚀测验工具的[[Construct Validity|构念效度]]与区分度
+> **探讨维度　测量模型与[[Construct|构念]]污染** 从心理测量学结构方程视角，揭示主观评价中光环效应如何将独立潜在[[Variable|变量]]扭曲为虚假单因子结构。
 
 > [!claim] Thorndike (1920); [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]
 > **伪共变导致[[Construct Validity|构念效度]]坍缩** 光环效应使得评价者在多维评价表（如同时评定清晰度、提问深度、同伴协作与情感关怀）中，倾向于围绕被试的单一综合印象赋分。这种心理机制人为制造了跨维度的虚假高度自相关，压缩了不同特质之间的方差变异，导致原本正交的多维测量模型在统计上退化为单一的评价者主观倾向因子，严重摧毁工具的[[Convergent and Discriminant Validity|区分效度]]与构念有效性。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 198)]]
 
 ---
 
-### 命题二　高推论观察中的光环效应可通过微观时间切分与行为锚定证据链实现有效阻断
-
-> [!concept-lens] 观察方法学与防御体系
-> 探讨如何在高推论质性评定中保留[[Professional Judgment|专业判断]]的同时，建立标准化制度以防御首因效应与光环渗透。
+> [!concept-proposition] 命题二｜高推论观察中的光环效应可通过微观时间切分与行为锚定[[Chain of Evidence|证据链]]实现有效阻断
+> **探讨维度　观察方法学与防御体系** 探讨如何在高推论质性评定中保留[[Professional Judgment|专业判断]]的同时，建立标准化制度以防御首因效应与光环渗透。
 
 > [!claim] [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]]; Harlen (1994)
 > **物理切分与事实[[Chain of Evidence|证据链]]的双重拦截** [[Classroom Observation|课堂观察]]中光环效应的滋生主要源于缺乏具体证据约束的宏观直觉推断。[[World Bank|世界银行]] Teach 工具实证确立的防线表明：通过实施双段 15 分钟的独立时间切分，强制隔断前后观察阶段的认知渗透；要求观察员记录连续事实笔记作为每个要素赋分的唯一证据支撑；并辅以每日晨会锚点视频校准与 80% 考核合格认证线，能够系统性阻断突发事件与首因印象对整体评分的污染，在高推论行为测量中达成可靠的[[Inter-Rater Reliability|评分者间信度]]。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 17–19)]]

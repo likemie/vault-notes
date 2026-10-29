@@ -8,7 +8,7 @@ aliases:
 summary: "运用系统策略与数据库工具从多元渠道定位、筛选和获取相关研究文献的操作性环节（Creswell & Creswell, 2022; Cohen et al., 2011）；服务于理论框架构建与信效度奠基，在大规模系统综述中其语言与数据库检索覆盖边界直接限定实证证据的外部效度（Verger et al., 2019）。"
 type: concept
 domain: "research-methodology"
-related_count: 73
+related_count: 74
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -17,6 +17,7 @@ tags:
   - method/research-process
   - methodology
 related_concepts:
+  - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Research Topic]]"
   - "[[Construct Validity]]"
@@ -99,13 +100,13 @@ related_theories:
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Literature Search
-> 文献检索（Literature Search）是[[Literature Review|文献综述]]的操作性环节，指运用系统策略从学术数据库、图书专著、学术会议与官方机构等多元渠道定位、筛选和获取与[[Research Topic|研究主题]]相关的已有文献的过程。它为文献综述的理论论证提供实证材料基础，本身侧重于技术性信息获取与质量甄别操作（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch. 7]]；[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch. 1]]）。在大规模系统文献综述中，检索所设定的数据库类型与语种边界直接决定了后续综合证据的覆盖广度与代表性（[[Argument_Verger_2019_Discourse|Verger et al., 2019, p. 252]]）。
+> [[Document|文献]]检索（Literature Search）是[[Literature Review|文献综述]]的操作性环节，指运用系统策略从学术数据库、图书专著、学术会议与官方机构等多元渠道定位、筛选和获取与[[Research Topic|研究主题]]相关的已有文献的过程。它为文献综述的理论论证提供实证材料基础，本身侧重于技术性信息获取与质量甄别操作（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch. 7]]；[[Argument_QiMei_2015_EducationalResearchMethods|齐梅, 2015, Ch. 1]]）。在大规模系统文献综述中，检索所设定的数据库类型与语种边界直接决定了后续综合证据的覆盖广度与代表性（[[Argument_Verger_2019_Discourse|Verger et al., 2019, p. 252]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 文献检索聚焦于“如何定位与获取文献”，涉及检索策略编制、布尔语法运用、多源数据库交叉查询与纳入排除标准把控。
@@ -348,40 +349,32 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　文献检索是确立研究信效度与构建理论框架的逻辑起点
-
-> [!concept-lens] 论证推进与信效度奠基维度
-> 探讨文献检索如何从技术性资料收集上升为确立研究可[[Reliability|信度]]、效度与学术合法性的论证基石。
+> [!concept-proposition] 命题一｜[[Document|文献]]检索是确立研究信效度与构建理论框架的逻辑起点
+> **探讨维度　论证推进与信效度奠基维度** 探讨文献检索如何从技术性资料收集上升为确立研究可[[Reliability|信度]]、效度与学术合法性的论证基石。
 
 > [!claim] [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & [[Keith Morrison|Morrison, K.]]
 > **文献检索服务于整套论证目的链条** 文献检索构成了研究论证链条的逻辑起点。通过系统检索与梳理已有文献，研究者为整个课题奠定[[Construct Validity|构念效度]]与[[Content Validity|内容效度]]基础，界定相关理论与实证领域的演进现状，明确关键术语与[[Variable|变量]]的界限，进而识别具有学术价值的研究空白。检索质量直接制约着后续研究设计的科学性与理论深度。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|(Cohen et al., 2011, Ch. 7, pp. 126–127)]]
 
 ---
 
-### 命题二　系统文献检索是识别知识空白与生成研究课题的关键机制
-
-> [!concept-lens] 课题发现与问题提炼维度
-> 探讨研究者如何通过批判性文献检索定位学术前沿并提炼具有理论意义的[[Research Question|研究问题]]。
+> [!concept-proposition] 命题二｜系统文献检索是识别知识空白与生成研究课题的关键机制
+> **探讨维度　课题发现与问题提炼维度** 探讨研究者如何通过批判性文献检索定位学术前沿并提炼具有理论意义的[[Research Question|研究问题]]。
 
 > [!claim] 齐梅
 > **通过文献检索提炼四维选题机制** 文献检索与批判性阅读为发现研究课题提供系统路径：关注已有研究中被忽略的重要盲区以填补知识空白；审视多项研究在相同主题上得出的矛盾结果以展开深层探究；识别已有研究在变量控制与测量方法上的短板以谋求方法改进；把握研究现象的内在联系以建构综合性理论解释框架。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1)]]
 
 ---
 
-### 命题三　大规模系统综述中的文献检索边界决定了实证证据的外推效度
-
-> [!concept-lens] 数据库偏倚与语言覆盖边界维度
-> 检视宏观政策综述中检索来源与语言选择对证据代表性的制约，揭示技术检索边界引发的知识偏倚。
+> [!concept-proposition] 命题三｜大规模[[Systematic Review|系统综述]]中的文献检索边界决定了实证证据的外推效度
+> **探讨维度　数据库偏倚与语言覆盖边界维度** 检视宏观政策综述中检索来源与语言选择对证据代表性的制约，揭示技术检索边界引发的知识偏倚。
 
 > [!claim] [[Argument_Verger_2019_Discourse|Verger et al. (2019)]]
 > **商业索引库与英语发表偏向限制证据代表性** 在针对测试问责（[[Test-Based Accountability|TBA]]）全球扩散的[[Systematic Review|系统综述]]中，文献检索主要依托 Scopus 等商业数据库并局限于英语同行评审文献。这种检索边界虽然保障了纳入文献的方法学基准，但也使得广大非英语国家（如拉美、南欧）的本土经验以及未被国际引文数据库收录的发展中国家实证证据处于边缘地位，对综述结论的全球适用性与普适推广构成了结构性制约。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 252)]]
 
 ---
 
-### 命题四　智能科研环境下人工智能代理检索重构学术分工格局
-
-> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]学术分工与高阶认知聚焦维度
-> 剖析人工智能代理介入文献检索后，研究者如何从繁琐的机械初筛中解放，转向宏观科学方向把控与原创性知识综合。
+> [!concept-proposition] 命题四｜智能科研环境下人工智能代理检索重构学术分工格局
+> **探讨维度　[[Man-Computer Symbiosis|人机共生]]学术分工与高阶认知聚焦维度** 剖析人工智能代理介入文献检索后，研究者如何从繁琐的机械初筛中解放，转向宏观科学方向把控与原创性知识综合。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **文献检索代理化与人类战略综合聚焦假说** 随着[[Generative Artificial Intelligence|生成式人工智能]]与自主研究代理融入科学研究工作流，数以万计的智能代理能够在微观层面高效执行海量跨模态文献检索、模式挖掘与假说生成，打破了传统人工逐篇检索的效率瓶颈。在这种人机协同分工中，人类研究者得以将有限的认知资源集中于重[[Big Science|大科学]]方向的把握、原创性根本命题的构想、跨学科知识综合以及重大伦理价值的决断。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]

@@ -7,7 +7,7 @@ aliases:
 summary: "以异质性小组为基本组织形式，依托积极互赖、面对面互动与个体责任协同促进学生学业成就、高阶思维与社会情感发展的社会建构主义教学范式；二阶元分析证实其对多维产出具有稳健促进效应（ES = 0.71），高阶思维赋能最为突出（ES = 0.76），并受具体技术与学科情境显著调节。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 42
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -35,8 +35,8 @@ related_concepts:
   - "[[Homework]]"
   - "[[Think-Pair-Share]]"
   - "[[Divergent Thinking]]"
-  - "[[Affective Outcomes]]"
   - "[[Academic Achievement]]"
+  - "[[Affective Outcomes]]"
   - "[[Publication Bias]]"
   - "[[Interaction Effect]]"
   - "[[Ecological Validity]]"
@@ -44,9 +44,11 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Problem Solving]]"
+  - "[[Document]]"
   - "[[Attitude Towards Content Domains]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Survey Research]]"
@@ -57,18 +59,21 @@ related_methods:
   - "[[Trim and Fill Method]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Random Assignment]]"
+  - "[[Experimental Research]]"
   - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Sample Size Determination]]"
+  - "[[Confidence Interval]]"
 related_instruments: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[Skills Toward Employment and Productivity]]"
 related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 > [!def] Cooperative Learning
@@ -119,7 +124,7 @@ updated: 2026-10-25
 > - **共同学习法（Learning Together / Johnson & Johnson）** 小组共同完成一份[[Homework\|作业]]或实验报告并接受集体奖励，重点强调五大要素的显性落实与人际反思。
 > - **建设性争议法（Constructive Controversy / Johnson & Johnson）** 针对特定学术或伦理议题将组员分为两派正反方，经历立场辩护、角色互换辩护与最终寻求超越二元的综合共识。
 > - **[[Think-Pair-Share\|思考配对分享]]（Think-Pair-Share / Lyman）** 短周期课堂即时互动策略，依次经历个体独立静思、同桌配对研讨与全班代表分享三个阶段。
-> - **三步访谈法（Three-Step Interview / Kagan）** 组内结对，A 采访 B，随后 B 采访 A，最后在四人组内轮流汇报对方的核心观点。
+> - **三步访谈法（Three-[[Skills Toward Employment and Productivity|Step]] Interview / Kagan）** 组内结对，A 采访 B，随后 B 采访 A，最后在四人组内轮流汇报对方的核心观点。
 > - **内外圈法（Inside-Outside Circle / Kagan）** 学生站成同心圆，内外圈面对面配对分享与讨论，随后旋转指定步数更换新伙伴继续研讨。
 > - **轮流知更鸟（Rally Robin / Kagan）** 同桌两人针对某一发散性问题轮流进行口头快速应答，激发[[Divergent Thinking\|发散思维]]。
 > - **编号抬头法（Numbered Heads Together / Kagan）** 组内成员各自编号，共同研讨确保全员掌握答案；教师随机抽取某一号码的学生代表小组作答。
@@ -130,40 +135,32 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　合作学习对学生的学业成就、高阶思维与情感行为具有稳健的中等促进效应
-
-> [!concept-lens] 认知与[[Affective Outcomes\|非认知产出]]的多维协同赋能机制
-> 考察合作学习在克服单一考试成绩局限后，对认知深度层级（低阶[[Academic Achievement\|学业成就]]与复杂[[Higher-Order Thinking Skills\|高阶思维]]）与非认知情感维度的整体干预效能。
+> [!concept-proposition] 命题一｜合作学习对学生的[[Academic Achievement|学业成就]]、[[Higher-Order Thinking Skills|高阶思维]]与[[Affective Outcomes|情感行为]]具有稳健的中等促进效应
+> **探讨维度　认知与[[Affective Outcomes\|非认知产出]]的多维协同赋能机制** 考察合作学习在克服单一考试成绩局限后，对认知深度层级（低阶[[Academic Achievement\|学业成就]]与复杂[[Higher-Order Thinking Skills\|高阶思维]]）与非认知情感维度的整体干预效能。
 
 > [!claim] Güngör et al.
 > **多维学习成效的均衡促进** [[Meta-meta-analysis\|二阶元分析]]（SOMA）对 15 项一阶[[Meta-analysis\|元分析]]（涵盖 403 项原始实证研究、23 个独立[[Effect Size\|效应量]]）的综合检验表明，合作学习对学生的总体学习结果具有显著且稳健的中等促进效应（$ES = 0.71, 95\%\text{ CI} = [0.55, 0.87]$）。在各项细分产出中，合作学习对高阶思维技能（HOTS）的促进效应最大（$ES = 0.76, 95\%\text{ CI} = [0.42, 1.11]$），其次为学业成就（$ES = 0.71, 95\%\text{ CI} = [0.52, 0.90]$），对[[Affective Outcomes\|情感行为]]亦表现出积极正向影响（$ES = 0.51, 95\%\text{ CI} = [0.17, 0.84]$）。各产出类型间无统计学显著差异（$Q_b(3) = 4.35, p = .23$），[[Fail-Safe N\|失安全系数]]（$N = 4954$）、Egger 回归（$t = 2.08, p = .05$）与[[Trim and Fill Method\|剪补法]]一致证实结论无[[Publication Bias\|发表偏倚]]。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–9)]]
 
 ---
 
-### 命题二　合作学习的干预成效受具体教学技术模式与学科知识结构的显著调节
-
-> [!concept-lens] 技术结构严密度与学科任务形态的[[Interaction Effect\|交互效应]]
-> 探讨不同合作学习分支技术的设计严密度，以及语言、社会科、自然科学与体育学科在[[Task Structure\|任务结构]]上的差异如何调节合作干预的最终产出。
+> [!concept-proposition] 命题二｜合作学习的干预成效受具体教学技术模式与学科知识结构的显著调节
+> **探讨维度　技术结构严密度与学科任务形态的[[Interaction Effect\|交互效应]]** 探讨不同合作学习分支技术的设计严密度，以及语言、社会科、自然科学与体育学科在[[Task Structure\|任务结构]]上的差异如何调节合作干预的最终产出。
 
 > [!claim] Güngör et al.
 > **技术形态与学科领域的[[Heterogeneity\|异质性]]分化** 合作学习的具体教学技术对学习结果存在显著调节效应（$Q_b(3) = 9.36, p = .02$）：高度结构化整合阅读的[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作]]（CIRC）技术（$ES = 2.04, 95\%\text{ CI} = [1.05, 3.03]$）与强调自主探究的小组[[Survey Research\|调查法]]（$ES = 1.08, 95\%\text{ CI} = [0.50, 1.66]$）呈现出极高效应，显著高于[[Jigsaw\|拼图法]]（$ES = 0.72$）与一般合作学习模式（$ES = 0.61$）。在学科领域维度上调节效应同样高度显著（$Q_b(5) = 20.16, p < .01$）：语言学科（$ES = 2.04$）、社会科（$ES = 0.96$）与自然科学（$ES = 0.92$）展现高效应，数学领域呈现中等效应（$ES = 0.70$），而体育教育领域效应极低且不显著（$ES = 0.05, 95\%\text{ CI} = [-1.44, 1.54]$）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 8–10)]]
 
 ---
 
-### 命题三　真实课堂准实验较严格实验室全实验展现出更显著的生态干预效应
-
-> [!concept-lens] 真实教学情境的[[Ecological Validity\|生态效度]]与实验控制张力
-> 分析真实课堂常态化教学干预与高度人工控制的实验室设计在捕捉同伴社会互动长周期机制时的表现差异。
+> [!concept-proposition] 命题三｜真实课堂准实验较严格实验室全实验展现出更显著的生态干预效应
+> **探讨维度　真实教学情境的[[Ecological Validity\|生态效度]]与实验控制张力** 分析真实课堂常态化教学干预与高度人工控制的实验室设计在捕捉同伴社会互动长周期机制时的表现差异。
 
 > [!claim] Güngör et al.
-> **真实课堂生态设计的效应优势** 基础研究的设计类型对二阶元分析效应量产生显著调节（$Q_b(2) = 9.83, p = .01$）。基于[[Quasi-Experimental Designs\|准实验设计]]的元分析研究报告了高达 $ES = 1.11$（$95\%\text{ CI} = [0.72, 1.50], k = 3$）的高效应量，涵盖全实验与准实验混合设计的元分析表现出中等效应（$ES = 0.69, 95\%\text{ CI} = [0.54, 0.84], k = 19$），而基于严格个体[[Random Assignment\|随机化]]全实验设计的瑞士六年级拼图法元分析（Stanczak et al., 2022）效应量则为零（$ES = 0.00, 95\%\text{ CI} = [-0.58, 0.58], k = 1$）。这一反差表明，合作学习依赖班级真实社会情境、师生常态关系与持续性小组文化沉淀。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 8–11)]]
+> **真实课堂生态设计的效应优势** 基础研究的设计类型对二阶元分析效应量产生显著调节（$Q_b(2) = 9.83, p = .01$）。基于[[Quasi-Experimental Designs\|准实验设计]]的元分析研究报告了高达 $ES = 1.11$（$95\%\text{ CI} = [0.72, 1.50], k = 3$）的高效应量，涵盖全实验与准实验混合设计的元分析表现出中等效应（$ES = 0.69, 95\%\text{ CI} = [0.54, 0.84], k = 19$），而基于严格个体[[Random Assignment\|随机化]]全[[Experimental Research|实验设计]]的瑞士六年级拼图法元分析（Stanczak et al., 2022）效应量则为零（$ES = 0.00, 95\%\text{ CI} = [-0.58, 0.58], k = 1$）。这一反差表明，合作学习依赖班级真实社会情境、师生常态关系与持续性小组文化沉淀。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 8–11)]]
 
 ---
 
-### 命题四　教师专业素养与五大要素的规范落实是决定合作学习课堂效能的关键瓶颈
-
-> [!concept-lens] 教学转化中的形式主义陷阱与专业赋能路径
-> 剖析一线教师在实施合作学习时面临的理论理解不足与机械操作问题，阐明专业培训对保障干预质量的核心作用。
+> [!concept-proposition] 命题四｜教师专业素养与五大要素的规范落实是决定合作学习课堂效能的关键瓶颈
+> **探讨维度　教学转化中的形式主义陷阱与专业赋能路径** 剖析一线教师在实施合作学习时面临的理论理解不足与机械操作问题，阐明专业培训对保障干预质量的核心作用。
 
 > [!claim] Güngör et al.
 > **理论素养与规范实施的决定性制约** 合作学习在课堂中的有效应用高度依赖教师对理论基础与操作技术的深刻理解。尽管多数教师主观上认为自己在组织合作学习，但实际活动往往因过于松散、脱离特定方法论规范而沦为形式化的小组扎堆。唯有教师精准落实积极互赖、个体责任与小组反思，并为学生提供充分的合作技能训练时间与结构化[[Scaffolding\|脚手架]]，合作学习才能产生实质性学业与思维增益。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 12)]]
@@ -194,7 +191,7 @@ updated: 2026-10-25
 > > 传统[[Meta-analysis\|元分析]]常认为理科（数学、自然科学）等结构化任务更适合合作学习，而新近二阶综合显示语言学科效应极高，但体育与动作技能领域效应微弱，引发关于合作任务与学科知识形态匹配度的广泛争论。
 > >
 > > - **Kyndt et al. (2013)** 认为理科任务具有明确结构层级，更有利于同伴协作分工。
-> > - **[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]** 指出语言与社会学科表现出高[[Effect Size\|效应量]]，但当前一阶元分析存在严重的软科学文献匮乏偏倚，亟待补充高水平系统综合。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 10–11)]]
+> > - **[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]** 指出语言与社会学科表现出高[[Effect Size\|效应量]]，但当前一阶元分析存在严重的软科学[[Document|文献]]匮乏偏倚，亟待补充高水平系统综合。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 10–11)]]
 >
 > > [!axis] 实验设计控制与真实教学情境的[[Paradigm\|范式]]冲突
 > > 严格[[Random Assignment\|随机化]]实验（[[Randomised Controlled Trials\|随机对照试验]]，RCT）与课堂准实验在合作学习评价上呈现截然相反的结论，引发关于证据层级与[[Ecological Validity\|生态效度]]的学术争鸣。
@@ -273,7 +270,7 @@ updated: 2026-10-25
 > | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.54"><span class="b11"></span></span>0.54 | [0.47, 0.60] | Cohen's $d$ / 随机效应模型 | $k = 51$ / $N = —$ | 干预因素：综合合作学习对混合学科学业成就的干预效应 | — | 多国混合学科与学段，样本规模大但检出[[Publication Bias\|发表偏倚]] |
 > | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.15"><span class="b3"></span></span>0.15 | [0.04, 0.26] | Cohen's $d$ / 随机效应模型 | $k = 19$ / $N = —$ | 干预因素：综合合作学习对混合学科一般态度的干预效应 | — | 多国混合学科与学段，效应显著但整体偏低 |
 > | Kyndt et al. (2013)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.18"><span class="b4"></span></span>0.18 | [−0.05, 0.40] | Cohen's $d$ / 随机效应模型 | $k = 4$ / $N = —$ | 干预因素：综合合作学习对土耳其等地区态度的干预效应 | — | [[Sample Size Determination\|样本量]]较小，置信区间跨零未达统计显著 |
-> | Liu and Lipowski (2021)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.05"><span class="b1"></span></span>0.05 | [−1.30, 1.41] | Cohen's $d$ / 随机效应模型 | $k = 6$ / $N = —$ | 干预因素：综合合作学习对体育内在动机的干预效应 | — | K-12 体育教育，置信区间极宽且效应微弱不显著 |
+> | Liu and Lipowski (2021)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.05"><span class="b1"></span></span>0.05 | [−1.30, 1.41] | Cohen's $d$ / 随机效应模型 | $k = 6$ / $N = —$ | 干预因素：综合合作学习对体育内在动机的干预效应 | — | K-12 体育教育，[[Confidence Interval\|置信区间]]极宽且效应微弱不显著 |
 > | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.58"><span class="b12"></span></span>0.58 | [0.47, 0.70] | Cohen's $d$ / 随机效应模型 | $k = 7$ / $N = —$ | 干预因素：[[Jigsaw\|拼图法]]（Jigsaw）对护理学业成就的干预效应 | — | 高等护理教育临床情境，效应稳健显著 |
 > | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.70"><span class="b14"></span></span>0.70 | [0.13, 1.26] | Cohen's $d$ / 随机效应模型 | $k = 4$ / $N = —$ | 干预因素：拼图法对护理临床[[Critical Thinking\|批判性思维]]的干预效应 | — | 高等护理教育临床决策情境，显著提升批判反思能力 |
 > | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.18"><span class="b24"></span></span>1.18 | [0.53, 1.84] | Cohen's $d$ / 随机效应模型 | $k = 6$ / $N = —$ | 干预因素：拼图法对护理专业态度的干预效应 | — | 高等护理教育，角色互换显著增强专业认同感 |
@@ -300,7 +297,7 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 学科领域互补亚组 | 语言 | ES | E = 1 | <span class="mx-bar ef-bar" title="ES 2.04"><span class="b28"></span></span>2.04 | [1.13, 2.95] | $Q_b(5) = 20.16, \text{df} = 5, p < .01$ |
 > |  |  | 社会科 |  | E = 1 | <span class="mx-bar ef-bar" title="ES 0.96"><span class="b19"></span></span>0.96 | [0.33, 1.59] | — |

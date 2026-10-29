@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-18
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -94,10 +94,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　教学理解源于具身行动者的协同生成并超越单向指标监控
-
-> [!concept-lens] 具身交互与反还原论维度
-> 该命题批判将教学简化为单向数据输入与可见测验输出的[[Behaviorism|行为主义]][[Paradigm|范式]]，论证课堂理解必须依赖师生在物理与[[Phenomenology|现象学]]空间中的动态生成。
+> [!concept-proposition] 命题一｜教学理解源于具身行动者的协同生成并超越单向指标监控
+> **探讨维度　具身交互与反还原论维度** 该命题批判将教学简化为单向数据输入与可见测验输出的[[Behaviorism|行为主义]][[Paradigm|范式]]，论证课堂理解必须依赖师生在物理与[[Phenomenology|现象学]]空间中的动态生成。
 
 > [!claim] [[Thomas Fuchs|Fuchs, T.]] & De Jaegher, H.
 > **互动过程自治性与意义的非还原[[Emergence|涌现]]** 沟通与理解发生在个体具身相互融入的生态界面之中。交互系统具备独立于个体心理表征的动力学特征，任何企图通过外部预设的静态指标来遥控或量化测量这一交互结果的努力，都割裂了意义建构所必需的连续运动感觉协调回路。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 10)]]

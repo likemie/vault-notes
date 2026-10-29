@@ -6,10 +6,10 @@ aliases:
 summary: "运用大数据融合、态势感知软件与人工智能算法整合多源异构线索、识别暴力犯罪网络与优化警力调配的现代治安治理范式；在反恐与打击涉枪暴力中展现出显著效能，但同时在民权保护、程序正义与算法偏见审查方面引发持续的宪政与伦理争辩。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/technology-policy
   - theme/public-safety
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Strategic Compliance]]"
   - "[[Meaningful Human Control]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Network Analysis]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -80,20 +81,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　前沿软件与数据分析系统能够有效打破地方执法的碎片化情报困境并遏制恶性暴力
-
-> [!concept-lens] 治安治理效能与技术工具
-> 探讨数据集成分析在打击复杂有组织犯罪与保护平民生命中的决定性价值。
+> [!concept-proposition] 命题一｜前沿软件与数据分析系统能够有效打破地方执法的碎片化情报困境并遏制恶性暴力
+> **探讨维度　治安治理效能与技术工具** 探讨数据集成分析在打击复杂有组织犯罪与保护平民生命中的决定性价值。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **数据中枢重塑基层治安打击效能** 亚历山大·卡普与尼古拉斯·扎米斯卡指出，现代城市暴力犯罪往往由资金雄厚、组织严密的黑恶团伙实施；警方面临的核心瓶颈并非缺乏线索，而是缺乏能够连接信息孤岛的软件中枢。[[Palantir Technologies|帕兰提尔]]将战区反简易爆炸装置（IED）的 Gotham 平台应用于新奥尔良警方后，证明了先进数据架构能够高效穿透受害人、嫌疑人与证人间的复杂网络，为拯救无辜平民生命提供了至关重要的技术支撑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 174–175)]]
 
 ---
 
-### 命题二　因恐惧技术滥用而全盘禁止算法警务是对真实暴力受害者生命权的体制性漠视
-
-> [!concept-lens] 权利平衡与治理责任
-> 批判以极端避险为由放弃应用技术解决恶性犯罪的虚无主义。
+> [!concept-proposition] 命题二｜因恐惧技术滥用而全盘禁止算法警务是对真实暴力受害者生命权的体制性漠视
+> **探讨维度　权利平衡与治理责任** 批判以极端避险为由放弃应用技术解决恶性犯罪的虚无主义。
 
 > [!claim] Karp, A. C., & Zamiska, N. W.
 > **避险道德说辞掩盖了公共治理渎职** 卡普与扎米斯卡论证指出，尽管民权倡导组织关于侵犯公民自由的担忧必须被严肃对待，但亚马逊、IBM 等大科技企业为免受舆论谴责而单方面全面关停人脸识别等研发、华盛顿政客在暴力犯罪面前推卸责任的做法，构成了对饱受枪患蹂躏社区的背叛。刑事司法的核心挑战在于如何在严守程序正义的前提下合理运用技术救人，而非将未知风险作为彻底放弃治理责任的借口。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 175–177)]]
@@ -101,7 +98,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |:---|:---|:---|:---|
 > | **治安效能赋能** | 数据中枢与算法集成能显著提升对复杂犯罪网络的侦破效能 | 涉枪暴力治理、反恐侦查、新奥尔良警务改革 | [[Alexander Karp]] & [[Nicholas Zamiska]] (2025); Sledge and Vargas (2018) |
 > | **技术避险批判** | 彻底抵制警务科技是转嫁治理成本、漠视受害者生命权的虚伪表态 | 科技企业社会责任、民权争论、司法政策制定 | [[Alexander Karp]] & [[Nicholas Zamiska]] (2025); Stanley (2018) |

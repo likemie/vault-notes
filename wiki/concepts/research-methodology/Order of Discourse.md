@@ -6,7 +6,7 @@ aliases:
 summary: "批判话语分析的核心宏观概念，由诺曼·费尔克拉夫在继承福柯思想基础上系统化。指特定社会领域或制度机构中所有话语实践（包括体裁、话语类型与风格）的总和及其结构化配置方式；表征了特定历史时期权力关系在语言符号领域的相对稳定化分布，其内部边界的松动、渗透与重组是透视制度变迁与意识形态霸权消长的重要依据。"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -38,13 +38,14 @@ related_instruments: []
 related_persons:
   - "[[Norman Fairclough]]"
 related_facts:
+  - "[[Skills Toward Employment and Productivity]]"
   - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-10-22
 > [!citation-card] 费尔克拉夫论话语秩序与话语实践总和
 > 话语实践分析关注文本生产、分发与消费过程。对政策框架的深层阐释，依赖于对话语秩序（即话语实践之总体）以及意义生产的话语过程的考察。对政策文本互文性与互话语性的检验，正是揭示该话语秩序如何被重构的关键进路。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 684)]]
 >
-> *The step following description is the analysis of discursive practice, which focuses on the processes of text production, distribution, and consumption. It involves interpreting the framings, considering the order of various discourses (i.e., the totality of discursive practice), the discursive processes of meaning production.*
+> *The [[Skills Toward Employment and Productivity|step]] following description is the analysis of discursive practice, which focuses on the processes of text production, distribution, and consumption. It involves interpreting the framings, considering the order of various discourses (i.e., the totality of discursive practice), the discursive processes of meaning production.*
 
 > [!boundary]- 概念边界
 > - 区别于抽象的文化背景（[[Discursive Field|话语场域]]） — 话语[[Champ|场域]]界定了社会思考的[[Epistemology|认识论]]范畴与问题边界；话语秩序则聚焦于制度建制内部具体体裁、交际渠道与语态风格的分层配置。
@@ -113,20 +114,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　话语秩序表征着特定历史时期权力关系与意识形态霸权在语言符号领域的稳定化结构
-
-> [!concept-lens] 霸权斗争与[[Discourse|话语]]秩序凝聚
-> [[Critical Discourse Analysis|批判话语分析]]将话语秩序视为政治与经济力量在象征领域达成暂时妥协的符号制度化产物。
+> [!concept-proposition] 命题一｜[[Discourse|话语]]秩序表征着特定历史时期权力关系与意识形态霸权在语言符号领域的稳定化结构
+> **探讨维度　霸权斗争与[[Discourse|话语]]秩序凝聚** [[Critical Discourse Analysis|批判话语分析]]将话语秩序视为政治与经济力量在象征领域达成暂时妥协的符号制度化产物。
 
 > [!claim] [[Norman Fairclough|Fairclough, N.]]
 > **话语秩序作为意识形态霸权的符号制度化形态** 费尔克拉夫指出，占统治地位的社会阶级通过确立特定的话语秩序，使自身的价值主张转化为被全社会普遍接受的“常识”。话语秩序的维系体现了权力的连续性，而对话语秩序主导规范的挑战则直接构成了意识形态霸权争夺的核心阵地。
 
 ---
 
-### 命题二　国家大战略对高等教育的工具化重置驱动了传统高教话语秩序的深刻解构与重组
-
-> [!concept-lens] 跨领域话语殖民与制度重塑
-> 批判政策社会学关注当国家战略任务下达至专业化教育部门时，原有学术话语秩序如何被重组。
+> [!concept-proposition] 命题二｜国家大战略对高等教育的工具化重置驱动了传统高教话语秩序的深刻解构与重组
+> **探讨维度　跨领域话语殖民与制度重塑** 批判政策社会学关注当国家战略任务下达至专业化教育部门时，原有学术话语秩序如何被重组。
 
 > [!claim] Woo, E.
 > **大国外交与产能出海重塑高等教育话语秩序** 伍国雄（Eric Woo, 2023）实证指出，中国[[Belt and Road Initiative|一带一路]]教育政策的推进深刻重置了高等教育既有的话语秩序。在教育部的顶层文件及其实践布局中，原本属于国家发改委的大型基建产能出海话语、属于外交部的[[Geopolitics|地缘政治]]互信叙事，全面渗透并重构了高等教育话语秩序。大学科技攻关被赋予服务重大走廊技术自主的政治任务，高职教育则被直接定位于降低跨国央企施工劳动力成本的培训配套，彰显出国家大局对教育内部话语秩序的系统性重塑。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–687)]]

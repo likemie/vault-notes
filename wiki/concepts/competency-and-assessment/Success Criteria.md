@@ -8,7 +8,7 @@ aliases:
 summary: "伴随学习意图向学生显性呈现的具体质性表现指标、证据特征与进阶阶梯，用于判定学生在何种程度上达成了预期的认知理解与能力目标"
 type: concept
 domain: "competency-and-assessment"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Self-control]]"
   - "[[Variable]]"
   - "[[Learning Progression]]"
+  - "[[Document]]"
   - "[[Creativity]]"
   - "[[Open-Mindedness]]"
 related_theories: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -108,20 +109,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　阶梯式分层成功标准能够将长周期认知任务转化为可见的自我调节支架
-
-> [!concept-lens] [[Scaffolding\|认知支架]]与自我监控机制
-> 探讨阶段性成功标准如何降低认知负荷，支持学生在复杂学习中保持持续的方向感与自我校准。
+> [!concept-proposition] 命题一｜阶梯式分层成功标准能够将长周期认知任务转化为可见的自我调节支架
+> **探讨维度　[[Scaffolding\|认知支架]]与自我监控机制** 探讨阶段性成功标准如何降低认知负荷，支持学生在复杂学习中保持持续的方向感与自我校准。
 
 > [!claim] Clarke, Timperley, & Hattie (2003)
 > **拆解进阶阶梯以赋能自我调节** 在面对复杂的长周期高阶认知任务时，单一的终期目标容易引发学生的认知超载与挫败感；通过设立清晰的阶段性成功标准（如从中期趋势描述到终期因果解释），学生能够直观感知自身在 [[Learning Progression\|学业进阶]] 轨迹上的确切位置，从而依托标准开展精准的自我监控与策略修正。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 17)]]
 
 ---
 
-### 命题二　聚焦因果证据链的成功标准能够有效引导高阶概念整合并抑制表层记忆
-
-> [!concept-lens] 评价标准对深度学习的牵引效应
-> 阐明成功标准如何通过明确证据要求，引导学生从孤立事实记忆走向系统因果论证。
+> [!concept-proposition] 命题二｜聚焦因果[[Chain of Evidence|证据链]]的成功标准能够有效引导高阶概念整合并抑制表层记忆
+> **探讨维度　评价标准对深度学习的牵引效应** 阐明成功标准如何通过明确证据要求，引导学生从孤立事实记忆走向系统因果论证。
 
 > [!claim] [[Argument_Hattie_2005_ACER\|Hattie (2005)]]
 > **因果逻辑导向的评价牵引** 当成功标准明确要求学生整合“诱发因素、中间传导与终极结果”的完整因果链条时，标准的导向作用将彻底阻断学生单纯堆砌孤立史实或概念名词的表层应试惯性，强力牵引学生主动建立知识要素之间的深层结构关联。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 17)]]
@@ -129,7 +126,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 围绕成功标准的核心命题归纳
-> | 命题维度 | 核心理论观点 | 教学实践指向 | 代表文献 |
+> | 命题维度 | 核心理论观点 | 教学实践指向 | 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **阶梯式自我调节支架** | 分阶段成功标准能将长周期任务转化为可见的进阶台阶，支持学生自主监控 | 在单元设计中区分中间过程标准与终期达标标准 | Clarke, Timperley, & Hattie (2003) |
 > | **深层因果证据牵引** | 明确因果[[Chain of Evidence\|证据链]]要求的标准能抑制机械记忆，牵引高阶整合思维 | 将评分与评估关注点聚焦于因果论证的逻辑严密性 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]；Sadler (1989) |

@@ -9,7 +9,7 @@ aliases:
 summary: "实用主义哲学在中国的传播、选择性吸收、制度转译与政治再脉络化历史，揭示外来理论在危机与救国语境中的拆解、重构与话语变形。"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,6 +37,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Ideology Critique]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[Hu Shi]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -106,10 +107,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　实用主义在华接受建立在本土“经世致用”实用传统与译名选择性压印之上
-
-> [!concept-lens] 语义前史与译名对概念内涵的压缩
-> 学者指出：[[Pragmatic Paradigm\|实用主义]]在华接受并非从零开始，而是顺应了清代实学传统，并通过中文译名完成了从命名开始的[[Recontextualization\|再脉络化]]。
+> [!concept-proposition] 命题一｜[[Pragmatic Paradigm|实用主义]]在华接受建立在本土“经世致用”实用传统与译名选择性压印之上
+> **探讨维度　语义前史与译名对概念内涵的压缩** 学者指出：[[Pragmatic Paradigm\|实用主义]]在华接受并非从零开始，而是顺应了清代实学传统，并通过中文译名完成了从命名开始的[[Recontextualization\|再脉络化]]。
 
 > [!claim] [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, pp.71–72)]]
 > - **“用”字对哲学体系的工具化压缩** 强调中文译名“实用主义”中的“用”字来自“有用”，将包含真理论、[[Axiology\|价值论]]与社会思想的完整 Pragmatism 体系压缩为“有用之学”，顺理成章地嵌入“经世致用”的本土轨道。（p.71）
@@ -117,10 +116,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　实用主义原典在民国中国被解构为民主理想与渐进方法的悖论分离
-
-> [!concept-lens] 危机语境下理想与手段的结构性拆解
-> 比较教育学者证明：在缺乏民主与处于救亡危机的社会中，实用主义原本统一的民主目标与渐进方法发生了结构性分离。
+> [!concept-proposition] 命题二｜实用主义原典在民国中国被解构为民主理想与渐进方法的悖论分离
+> **探讨维度　危机语境下理想与手段的结构性拆解** 比较教育学者证明：在缺乏民主与处于救亡危机的社会中，实用主义原本统一的民主目标与渐进方法发生了结构性分离。
 
 > [!claim] [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024, pp.610–623)]]
 > - **民主理想与渐进方法的悖论分离** 证明在急于救国的激进心态下，《新教育》精英高度采纳[[John Dewey\|杜威]]的民主理想，却系统性忽略了其在200余场讲演中强调的“一步一个脚印”的渐进实验方法；在1922新学制中对民主实施了去政治化折算，并采取推倒重来的激进方式。（pp.610–618）
@@ -128,10 +125,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题三　实用主义在当代与建国后中国经历了意识形态批判与现代化话语重构的三重变形
-
-> [!concept-lens] 建国后政治环境中的[[Discourse|话语]]重塑
-> 学者追踪了实用主义在建国后中国政治话语中从反动批判到现代化话语盟友的演变。
+> [!concept-proposition] 命题三｜实用主义在当代与建国后中国经历了[[Ideology Critique|意识形态批判]]与现代化[[Discourse|话语]]重构的三重变形
+> **探讨维度　建国后政治环境中的[[Discourse|话语]]重塑** 学者追踪了实用主义在建国后中国政治话语中从反动批判到现代化话语盟友的演变。
 
 > [!claim] [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, pp.79–93)]]
 > **从反动靶点向[[Quality Education\|素质教育]]话语盟友的三重变形** 详细梳理了杜威思想的三重变形：1950年代被彻底定性为反动主观唯心主义；1980年代通过[[Tao Xingzhi\|陶行知]]恢复名誉并重塑为科学创新符号；1990年代至今被重构为[[Quality Education\|素质教育]]理论基础与反对[[Examination-Oriented Education\|应试教育]]资源，成为“又红又专”的话语盟友。

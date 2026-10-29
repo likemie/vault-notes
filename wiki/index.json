@@ -9711,6 +9711,19 @@
     ]
   },
   {
+    "title": "Salami Publishing",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Salami Publishing.md",
+    "aliases": [
+      "切香肠式发表",
+      "最小可发表单元",
+      "香肠论文",
+      "Salami Slicing",
+      "Least Publishable Unit",
+      "LPU"
+    ]
+  },
+  {
     "title": "Scale Enlargement",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Scale Enlargement.md",
@@ -15755,6 +15768,20 @@
     ]
   },
   {
+    "title": "Benefit of the Doubt in Peer Review",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Benefit of the Doubt in Peer Review.md",
+    "aliases": [
+      "同行评审中的疑罪从无特权",
+      "评审疑罪从无特权",
+      "同行评审声誉庇护效应",
+      "疑罪从无特权",
+      "审稿疑罪从无特权",
+      "Benefit of the Doubt",
+      "Presumption of Quality"
+    ]
+  },
+  {
     "title": "Big Idea Famine",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Big Idea Famine.md",
@@ -15809,6 +15836,17 @@
       "complexity paradox of modern public policy",
       "现代公共政策复杂性悖论",
       "政策复杂性悖论"
+    ]
+  },
+  {
+    "title": "Conceptual and Experimental Innovators",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Conceptual and Experimental Innovators.md",
+    "aliases": [
+      "概念型与实验型创新者",
+      "概念型与实验型创造者",
+      "概念型学者与经验型学者",
+      "Conceptual vs. Experimental Innovators"
     ]
   },
   {
@@ -15999,6 +16037,17 @@
     ]
   },
   {
+    "title": "Goliath's Shadow",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Goliath's Shadow.md",
+    "aliases": [
+      "歌利亚阴影",
+      "歌利亚阴影效应",
+      "权威学术垄断阴影",
+      "顶尖学者主导阴影"
+    ]
+  },
+  {
     "title": "Grand Challenges",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Grand Challenges.md",
@@ -16077,6 +16126,17 @@
       "public utility",
       "Public Utility in Research Funding",
       "长期公共利益"
+    ]
+  },
+  {
+    "title": "Lost Winners",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Lost Winners.md",
+    "aliases": [
+      "遗失的赢家",
+      "错失的诺奖得主",
+      "遗失的获奖者",
+      "晚期突破选拔偏误"
     ]
   },
   {
@@ -16247,6 +16307,20 @@
     ]
   },
   {
+    "title": "Prizewinner Retroactive Spillover Effect",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Prizewinner Retroactive Spillover Effect.md",
+    "aliases": [
+      "重大科学奖项的追溯溢出效应",
+      "科学大奖追溯溢出效应",
+      "诺贝尔奖追溯溢出效应",
+      "声誉追溯溢出效应",
+      "荣誉溢出效应",
+      "Retroactive Citation Spillover",
+      "Post-Award Citation Boost"
+    ]
+  },
+  {
     "title": "Problem of Many Hands",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Problem of Many Hands.md",
@@ -16396,7 +16470,6 @@
       "评审声望偏倚",
       "机构地位偏倚",
       "自选双盲悖论",
-      "Status Bias in Peer Review",
       "Prestige Bias in Peer Review",
       "Optional Double-Blind Paradox"
     ]
@@ -21355,6 +21428,29 @@
     ]
   },
   {
+    "title": "Burden of Knowledge",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Burden of Knowledge.md",
+    "aliases": [
+      "知识负担理论",
+      "知识累积负担理论",
+      "知识负荷假说",
+      "知识门槛理论",
+      "Burden of Knowledge Theory"
+    ]
+  },
+  {
+    "title": "Constant-Probability-of-Success Model",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Constant-Probability-of-Success Model.md",
+    "aliases": [
+      "成功恒定概率模型",
+      "恒定成功概率模型",
+      "机会均等成功模型",
+      "等概率成功模型"
+    ]
+  },
+  {
     "title": "Discovery-Invention Cycle",
     "type": "theory",
     "path": "wiki/theories/science-policy/Discovery-Invention Cycle.md",
@@ -21400,6 +21496,17 @@
     ]
   },
   {
+    "title": "Planck's Principle",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Planck's Principle.md",
+    "aliases": [
+      "普朗克原理",
+      "普朗克假说",
+      "普朗克科学更替假说",
+      "科学范式代际演进假说"
+    ]
+  },
+  {
     "title": "Pool of Knowledge",
     "type": "theory",
     "path": "wiki/theories/science-policy/Pool of Knowledge.md",
@@ -21422,6 +21529,18 @@
     ]
   },
   {
+    "title": "Price's Law",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Price's Law.md",
+    "aliases": [
+      "普赖斯定律",
+      "普赖斯平方根定律",
+      "普莱斯定律",
+      "Price's Square Root Law",
+      "Square Root Law of Scientific Productivity"
+    ]
+  },
+  {
     "title": "Problem-Solution Space for Mission-Oriented Innovation Policy",
     "type": "theory",
     "path": "wiki/theories/science-policy/Problem-Solution Space for Mission-Oriented Innovation Policy.md",
@@ -21435,24 +21554,35 @@
     ]
   },
   {
+    "title": "Random Impact Rule",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Random Impact Rule.md",
+    "aliases": [
+      "随机影响规律",
+      "随机影响法则",
+      "随机冲击定律",
+      "随机影响规则"
+    ]
+  },
+  {
+    "title": "Reputation Velocity Threshold Model",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Reputation Velocity Threshold Model.md",
+    "aliases": [
+      "声望加速度临界阈值模型",
+      "声望促进偏好连接模型",
+      "cx 阈值模型",
+      "Reputation-Boost Preferential Attachment Model",
+      "Crossover Effect of Reputation"
+    ]
+  },
+  {
     "title": "ROAR Framework",
     "type": "theory",
     "path": "wiki/theories/science-policy/ROAR Framework.md",
     "aliases": [
       "ROAR Policy Framework",
       "ROAR Framework for Innovation Policy"
-    ]
-  },
-  {
-    "title": "Shockley's Multiplicative Hurdle Model",
-    "type": "theory",
-    "path": "wiki/theories/science-policy/Shockley's Multiplicative Hurdle Model.md",
-    "aliases": [
-      "肖克利乘法跨栏模型",
-      "肖克利跨栏模型",
-      "乘法跨栏模型",
-      "Multiplicative Hurdle Model",
-      "Shockley's Model of Scientific Productivity"
     ]
   },
   {
@@ -23563,6 +23693,19 @@
     ]
   },
   {
+    "title": "Author Name Disambiguation",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Author Name Disambiguation.md",
+    "aliases": [
+      "著者姓名消歧",
+      "姓名消歧",
+      "作者消歧",
+      "学者身份消歧",
+      "Name Disambiguation",
+      "Author Disambiguation"
+    ]
+  },
+  {
     "title": "Average Variance Extracted",
     "type": "method",
     "path": "wiki/methods/quantitative/Average Variance Extracted.md",
@@ -23673,6 +23816,18 @@
       "Campbell-Stanley notation",
       "experimental design notation",
       "实验设计符号系统"
+    ]
+  },
+  {
+    "title": "Career Shuffling Method",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Career Shuffling Method.md",
+    "aliases": [
+      "生涯序列随机置换法",
+      "生涯随机打乱法",
+      "随机生涯零模型",
+      "Career Shuffling",
+      "Randomized Career Null Model"
     ]
   },
   {
@@ -24263,6 +24418,18 @@
     ]
   },
   {
+    "title": "h-alpha Index",
+    "type": "method",
+    "path": "wiki/methods/quantitative/h-alpha Index.md",
+    "aliases": [
+      "h-alpha指数",
+      "科学领导力指数",
+      "资深署名h指数",
+      "Hirsch's h-alpha",
+      "Leadership-Weighted h-Index"
+    ]
+  },
+  {
     "title": "h-Index",
     "type": "method",
     "path": "wiki/methods/quantitative/h-Index.md",
@@ -24529,6 +24696,19 @@
     ]
   },
   {
+    "title": "m-Quotient",
+    "type": "method",
+    "path": "wiki/methods/quantitative/m-Quotient.md",
+    "aliases": [
+      "赫希m商数",
+      "m商数",
+      "学术增长速率斜率",
+      "Hirsch's m-Quotient",
+      "m-Index",
+      "m-Parameter"
+    ]
+  },
+  {
     "title": "Manipulation Check",
     "type": "method",
     "path": "wiki/methods/quantitative/Manipulation Check.md",
@@ -24791,6 +24971,16 @@
     "path": "wiki/methods/quantitative/Non-intervention Research.md",
     "aliases": [
       "非干预研究"
+    ]
+  },
+  {
+    "title": "o-Index",
+    "type": "method",
+    "path": "wiki/methods/quantitative/o-Index.md",
+    "aliases": [
+      "o指数",
+      "Dorogovtsev-Mendes o-Index",
+      "几何被引指数"
     ]
   },
   {
@@ -25281,6 +25471,21 @@
       "Bartik工具变量",
       "shift-share IV",
       "份额转移工具变量"
+    ]
+  },
+  {
+    "title": "Shockley's Multiplicative Hurdle Model",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Shockley's Multiplicative Hurdle Model.md",
+    "aliases": [
+      "肖克利乘法跨栏模型",
+      "肖克利跨栏模型",
+      "乘法跨栏模型",
+      "八重跨栏独立概率连乘模型",
+      "八重跨栏模型",
+      "八重关卡概率连乘模型",
+      "Multiplicative Hurdle Model",
+      "Shockley's Model of Scientific Productivity"
     ]
   },
   {
@@ -27870,6 +28075,18 @@
     ]
   },
   {
+    "title": "Werner Heisenberg",
+    "type": "person",
+    "path": "wiki/persons/germany/Werner Heisenberg.md",
+    "aliases": [
+      "沃纳·海森堡",
+      "维尔纳·海森堡",
+      "海森堡",
+      "W. Heisenberg",
+      "Heisenberg, W."
+    ]
+  },
+  {
     "title": "Wilhelm Dilthey",
     "type": "person",
     "path": "wiki/persons/germany/Wilhelm Dilthey.md",
@@ -28036,6 +28253,17 @@
     ]
   },
   {
+    "title": "Roberta Sinatra",
+    "type": "person",
+    "path": "wiki/persons/italy/Roberta Sinatra.md",
+    "aliases": [
+      "罗伯塔·西纳特拉",
+      "西纳特拉",
+      "R. Sinatra",
+      "Sinatra, R."
+    ]
+  },
+  {
     "title": "Saint Benedict",
     "type": "person",
     "path": "wiki/persons/italy/Saint Benedict.md",
@@ -28063,6 +28291,18 @@
     "aliases": [
       "大野耐一",
       "Ohno, T."
+    ]
+  },
+  {
+    "title": "Arnout van de Rijt",
+    "type": "person",
+    "path": "wiki/persons/netherlands/Arnout van de Rijt.md",
+    "aliases": [
+      "阿诺特·范德赖特",
+      "阿努特·范德赖特",
+      "范德赖特",
+      "A. van de Rijt",
+      "van de Rijt, A."
     ]
   },
   {
@@ -29614,6 +29854,19 @@
     ]
   },
   {
+    "title": "Alfred J. Lotka",
+    "type": "person",
+    "path": "wiki/persons/us/Alfred J. Lotka.md",
+    "aliases": [
+      "阿尔弗雷德·J·洛特卡",
+      "阿尔弗雷德·洛特卡",
+      "洛特卡",
+      "Alfred James Lotka",
+      "A. J. Lotka",
+      "Lotka, A. J."
+    ]
+  },
+  {
     "title": "Alfred Schutz",
     "type": "person",
     "path": "wiki/persons/us/Alfred Schutz.md",
@@ -29745,6 +29998,17 @@
       "本尼迪克特·安德森",
       "Benedict Richard O'Gorman Anderson",
       "B. Anderson"
+    ]
+  },
+  {
+    "title": "Benjamin F. Jones",
+    "type": "person",
+    "path": "wiki/persons/us/Benjamin F. Jones.md",
+    "aliases": [
+      "本杰明·琼斯",
+      "本杰明·F·琼斯",
+      "B. F. Jones",
+      "Jones, B. F."
     ]
   },
   {
@@ -29966,6 +30230,18 @@
     ]
   },
   {
+    "title": "Dean Keith Simonton",
+    "type": "person",
+    "path": "wiki/persons/us/Dean Keith Simonton.md",
+    "aliases": [
+      "迪恩·凯斯·西蒙顿",
+      "迪恩·西蒙顿",
+      "西蒙顿",
+      "D. K. Simonton",
+      "Simonton, D. K."
+    ]
+  },
+  {
     "title": "Deanna Kuhn",
     "type": "person",
     "path": "wiki/persons/us/Deanna Kuhn.md",
@@ -29982,6 +30258,19 @@
     "aliases": [
       "德博拉·斯通",
       "黛博拉·斯通"
+    ]
+  },
+  {
+    "title": "Derek de Solla Price",
+    "type": "person",
+    "path": "wiki/persons/us/Derek de Solla Price.md",
+    "aliases": [
+      "德里克·德索拉·普赖斯",
+      "德里克·J·德索拉·普赖斯",
+      "普赖斯",
+      "Derek John de Solla Price",
+      "D. J. de Solla Price",
+      "Price, D. J. d. S."
     ]
   },
   {
@@ -30346,6 +30635,18 @@
     ]
   },
   {
+    "title": "Harriet Zuckerman",
+    "type": "person",
+    "path": "wiki/persons/us/Harriet Zuckerman.md",
+    "aliases": [
+      "哈里特·朱克曼",
+      "朱克曼",
+      "Harriet Anne Zuckerman",
+      "H. Zuckerman",
+      "Zuckerman, H."
+    ]
+  },
+  {
     "title": "Henry Barnard",
     "type": "person",
     "path": "wiki/persons/us/Henry Barnard.md",
@@ -30591,6 +30892,19 @@
     ]
   },
   {
+    "title": "James McKeen Cattell",
+    "type": "person",
+    "path": "wiki/persons/us/James McKeen Cattell.md",
+    "aliases": [
+      "詹姆斯·麦基恩·卡特尔",
+      "詹姆斯·M·卡特尔",
+      "J·M·卡特尔",
+      "James Cattell",
+      "J. M. Cattell",
+      "Cattell, J. M."
+    ]
+  },
+  {
     "title": "James Wolfensohn",
     "type": "person",
     "path": "wiki/persons/us/James Wolfensohn.md",
@@ -30660,6 +30974,17 @@
       "乔尔·萨莫夫",
       "萨莫夫",
       "Samoff, J."
+    ]
+  },
+  {
+    "title": "John B. Fenn",
+    "type": "person",
+    "path": "wiki/persons/us/John B. Fenn.md",
+    "aliases": [
+      "约翰·B·芬恩",
+      "约翰·芬恩",
+      "J. B. Fenn",
+      "Fenn, J. B."
     ]
   },
   {
@@ -30842,6 +31167,17 @@
       "肯尼斯·伯克",
       "Burke, K.",
       "Kenneth Duva Burke"
+    ]
+  },
+  {
+    "title": "Kenneth G. Wilson",
+    "type": "person",
+    "path": "wiki/persons/us/Kenneth G. Wilson.md",
+    "aliases": [
+      "肯尼斯·G·威尔逊",
+      "肯尼斯·威尔逊",
+      "K. G. Wilson",
+      "Wilson, K. G."
     ]
   },
   {
@@ -31449,6 +31785,19 @@
       "罗伯特·J. 戈登",
       "Gordon, R. J.",
       "罗伯特·戈登"
+    ]
+  },
+  {
+    "title": "Robert K. Merton",
+    "type": "person",
+    "path": "wiki/persons/us/Robert K. Merton.md",
+    "aliases": [
+      "罗伯特·K·默顿",
+      "罗伯特·默顿",
+      "默顿",
+      "Robert King Merton",
+      "R. K. Merton",
+      "Merton, R. K."
     ]
   },
   {
@@ -44425,6 +44774,11 @@
     "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit01",
     "type": "argument",
     "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+  },
+  {
+    "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit02",
+    "type": "argument",
+    "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
   },
   {
     "title": "Argument_Zhang_2023_PHEI",

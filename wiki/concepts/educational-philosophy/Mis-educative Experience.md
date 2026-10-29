@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-01
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -91,10 +91,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　自上而下的权威灌输与机械操练必然产生扭曲未来生长的反教育经验
-
-> [!concept-lens] 传统教学法的[[Epistemology\|认识论]]局限
-> 探讨传统应试灌输对学习者心智产生的长期负面效果。
+> [!concept-proposition] 命题一｜自上而下的权威灌输与机械操练必然产生扭曲未来生长的反教育经验
+> **探讨维度　传统教学法的[[Epistemology\|认识论]]局限** 探讨传统应试灌输对学习者心智产生的长期负面效果。
 
 > [!claim] [[John Dewey\|Dewey, J.]]
 > **反教育经验的形成机制** 杜威指出，传统学校依靠[[Rote Learning\|死记硬背]]与静态知识传授，强迫儿童专注于缺乏内在吸引力的死板教材，导致学习者产生焦虑与注意力游离。为了维持秩序，教师不得不压抑儿童的身体活动，从而形成掐灭探究本能的反教育经验。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 34–35)]]

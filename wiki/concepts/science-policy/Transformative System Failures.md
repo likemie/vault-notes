@@ -10,7 +10,7 @@ aliases:
 summary: "指阻碍创新系统自发实现社会技术转型与应对重大挑战的四类根本性制度失灵"
 type: concept
 domain: "science-policy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
   - "[[Technology Transfer]]"
+  - "[[Document]]"
   - "[[Public Value]]"
   - "[[Problem of Many Hands]]"
   - "[[Grand Challenges]]"
@@ -45,7 +46,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-22
 > | **核心关切** | 研发投资不足与知识外溢 | 产学研网络割裂与制度阻滞 | 重大社会挑战与不可持续发展锁定 |
 > | **失灵根源** | 价格机制无法内部化外部性 | [[Systems of Innovation\|创新系统]]内部构件连接不畅 | 缺乏转型方向、需求表达与反思机制 |
 > | **政策取向** | 技术中立、普惠税收优惠与研发资助 | 建设中介机构、培育创新集群与[[Technology Transfer\|技术转移]] | 确立国家使命、开展多方共治与引导系统收敛 |
-> | **代表文献** | Arrow (1962); Nelson (1959) | Freeman (1987); Lundvall (1992) | Weber and Rohracher (2012); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
+> | **代表[[Document\|文献]]** | Arrow (1962); Nelson (1959) | Freeman (1987); Lundvall (1992) | Weber and Rohracher (2012); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
 
 ---
 
@@ -122,10 +123,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　变革性系统失灵确立了超越市场与结构失灵的第三代创新政策干预正当性
-
-> [!concept-lens] 政策正当性与[[Paradigm|范式]]跃进
-> 探讨创新政策如何从修正局部市场与网络缺陷，拓展为对经济社会系统整体转型方向的主动塑造与制度赋权。
+> [!concept-proposition] 命题一｜变革性系统失灵确立了超越市场与结构失灵的第三代创新政策干预正当性
+> **探讨维度　政策正当性与[[Paradigm|范式]]跃进** 探讨创新政策如何从修正局部市场与网络缺陷，拓展为对经济社会系统整体转型方向的主动塑造与制度赋权。
 
 > [!claim] Weber, K. M. & Rohracher, H.
 > **转型失灵作为方向性干预的理论基石** 传统政策工具仅能提升创新效率，却无法解决[[Directionality of Innovation|创新的方向性]]问题。应对[[Grand Challenges|重大挑战]]必须同时克服方向性、需求表达、政策协调与[[Reflexivity|反思性]]四大失灵，这要求政策制定者超越被动弥补者角色，成为系统转型的战略引导者与架构搭建者。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
@@ -135,10 +134,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　方向性与反思性的双重失灵导致重大挑战治理陷入社会合法性赤字与过早路径锁定
-
-> [!concept-lens] 治理障碍与制度锁定机制
-> 探讨在缺乏价值共识与反思纠偏机制的情境下，单向度技术攻关如何诱发广泛的社会抵触与资源沉没。
+> [!concept-proposition] 命题二｜方向性与反思性的双重失灵导致重大挑战治理陷入社会合法性赤字与过早路径锁定
+> **探讨维度　治理障碍与制度锁定机制** 探讨在缺乏价值共识与反思纠偏机制的情境下，单向度技术攻关如何诱发广泛的社会抵触与资源沉没。
 
 > [!claim] Wanzenböck, I. et al.
 > **缺乏[[Reflexive Governance|反思性治理]]的[[Path Dependence|技术锁定]]代价** 若政府在[[Problem Finding|问题界定]]仍具高度规范争议时过早挑选并强制推广特定技术（方向性偏误与反思性缺失），不仅会面临来自受损群体的激烈政治抵抗，还会错失更具生态与社会潜力的替代路线，最终造成系统性政策失败。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–486)]]

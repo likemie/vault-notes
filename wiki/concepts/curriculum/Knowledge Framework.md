@@ -23,10 +23,10 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Ways of Knowing]]"
   - "[[Knowledge Questions]]"
-  - "[[Construct]]"
   - "[[Epistemology]]"
-  - "[[Problem Solving]]"
   - "[[Construct Validity]]"
+  - "[[Construct]]"
+  - "[[Problem Solving]]"
   - "[[Falsification]]"
 related_theories: []
 related_methods:
@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-04
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -113,26 +113,20 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　共同分析维度使不同知识领域能够接受结构化比较
-
-> [!concept-lens] 比较结构
-> 跨领域比较需要共同问题，也需要保留各领域的对象、方法和历史差异。知识框架以相同维度组织材料，使比较能够围绕[[Knowledge Production\|知识生产]]机制展开。
+> [!concept-proposition] 命题一｜共同分析维度使不同[[Areas of Knowledge|知识领域]]能够接受结构化比较
+> **探讨维度　比较结构** 跨领域比较需要共同问题，也需要保留各领域的对象、方法和历史差异。知识框架以相同维度组织材料，使比较能够围绕[[Knowledge Production\|知识生产]]机制展开。
 
 > [!claim] Hughes, C.
 > **五维比较结构** 2013 年指南要求从范围与应用、概念语言、知识生产方法、历史发展及个人知识互动考察选定领域。这些维度把领域比较从名称并列推进到结构分析，使学生能够追问不同领域如何形成问题、证据和正当化标准。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 36)]]
 
-### 命题二　知识框架通过领域材料发展知识问题，并连接课程结构与跨学科论证
-
-> [!concept-lens] 课程连接
-> 知识框架位于[[Knowledge Questions\|知识问题]]与[[Areas of Knowledge\|知识领域]]之间。它把开放的一般问题落实到领域的概念、方法和历史材料，再支持论文中的跨学科论证。
+> [!concept-proposition] 命题二｜知识框架通过领域材料发展[[Knowledge Questions|知识问题]]，并连接课程结构与跨学科论证
+> **探讨维度　课程连接** 知识框架位于[[Knowledge Questions\|知识问题]]与[[Areas of Knowledge\|知识领域]]之间。它把开放的一般问题落实到领域的概念、方法和历史材料，再支持论文中的跨学科论证。
 
 > [!claim] Hughes, C.
 > **从[[Domain Analysis\|领域分析]]到论证** 规定题目论文要求处理跨学科知识问题，并允许学生调用课程任何部分。知识框架为比较知识领域提供统一结构，使学生能够围绕不同观点、真实实例和反主张发展论证。框架由此连接课程大纲与评估输出。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 36, 38–40)]]
 
-### 命题三　知识框架能够支持认识论分析，其构念效度仍取决于任务要求的思维活动
-
-> [!concept-lens] 分析范围
-> 结构化考察知识领域能够引发比较、解释和反思。课程是否覆盖完整[[Critical Thinking\|批判性思维]]，还要检查任务与评分是否要求来源评价、推论、决策和创造。
+> [!concept-proposition] 命题三｜知识框架能够支持[[Epistemology|认识论]]分析，其[[Construct Validity|构念效度]]仍取决于任务要求的思维活动
+> **探讨维度　分析范围** 结构化考察知识领域能够引发比较、解释和反思。课程是否覆盖完整[[Critical Thinking\|批判性思维]]，还要检查任务与评分是否要求来源评价、推论、决策和创造。
 
 > [!claim] Hughes, C.
 > **框架与[[Construct\|构念]]覆盖** ToK 的目标和评分描述符强调知识领域联系、不同观点与知识问题，知识框架能够服务这些[[Epistemology\|认识论]]活动。评分要求较少覆盖批判性阅读、评价来源是否可信、假设检验、不确定性判断、[[Problem Solving\|问题解决]]和创造，因此框架的存在不能单独建立完整的[[Construct Validity\|构念效度]]。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 40–43)]]

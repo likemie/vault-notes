@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 72
+related_count: 73
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -61,6 +61,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Infusion Approach]]"
 related_theories:
+  - "[[Discursive Institutionalism]]"
   - "[[Cognitive Load Theory]]"
   - "[[Knowledge Building Theory]]"
 related_methods:
@@ -100,11 +101,11 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 > [!def] Direct Instruction
-> 直接教学（Direct Instruction, DI）是指一种由教师主动规划、高度结构化且循序渐进的显性教学模式。其核心教学流程包括：明确阐述学习目标、小步子分步示范（Modeling）、提供有指导的练习（Guided Practice）、高频检查理解并给予即时矫正性反馈，最终过渡到学生的独立练习与自动化巩固。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 7)]]; [[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 280–281)]]
+> 直接教学（Direct Instruction, [[Discursive Institutionalism|DI]]）是指一种由教师主动规划、高度结构化且循序渐进的显性教学模式。其核心教学流程包括：明确阐述学习目标、小步子分步示范（Modeling）、提供有指导的练习（Guided Practice）、高频检查理解并给予即时矫正性反馈，最终过渡到学生的独立练习与自动化巩固。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 7)]]; [[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 280–281)]]
 >
 > 在学术传统中，直接教学存在广义与狭义之分：
 > 1. **狭义的大写 DI（Direct Instruction）** 专指 Siegfried Engelmann 与 Wes Becker 开发的高度脚本化（Scripted）、基于精细行为分析与快速口头响应的标准化课程补救项目（如美国 Project Follow Through 研究）；
@@ -162,10 +163,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　直接教学通过优化认知负荷在良构知识与程序性技能教学中展现极高效能
-
-> [!concept-lens] 认知架构与技能自动化
-> 探讨直接教学如何通过匹配人类认知架构（有限[[Working Memory\|工作记忆]]与庞大长时记忆）实现基础学科通用[[Academic Achievement\|学业成就]]的高效提升。
+> [!concept-proposition] 命题一｜直接教学通过优化认知负荷在良构知识与[[Procedural Skill|程序性技能]]教学中展现极高效能
+> **探讨维度　认知架构与技能自动化** 探讨直接教学如何通过匹配人类认知架构（有限[[Working Memory\|工作记忆]]与庞大长时记忆）实现基础学科通用[[Academic Achievement\|学业成就]]的高效提升。
 
 > [!claim] [[John Hattie\|Hattie, J.]]
 > **教师作为“激活者”的极高[[Effect Size\|效应量]]** 在可见学习综合体系中，直接教学的合并效应量达 $d = 0.59$（远超 $d = 0.40$ 的发展[[Zone of Desired Effects|铰接点]]），显著高于教师仅充当促进者（Facilitator，如非指导性[[Discovery Learning\|发现学习]] $d = 0.17$）的模式。这表明由教师主动设定目标、清晰示范并监控掌握进度的结构化行为具有强力实证支持。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 433)]]; [[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 7)]]
@@ -175,10 +174,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　孤立的直接教学能提升特定思维技能，但唯有结合学科情境才能实现高阶迁移
-
-> [!concept-lens] [[Higher-Order Thinking Skills\|高阶思维]]与课程模式协同
-> 探讨直接教学在[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]等高阶认知能力培养中的定位与边界。
+> [!concept-proposition] 命题二｜孤立的直接教学能提升特定思维技能，但唯有结合学科情境才能实现高阶迁移
+> **探讨维度　[[Higher-Order Thinking Skills\|高阶思维]]与课程模式协同** 探讨直接教学在[[Critical Thinking\|批判性思维]]与[[Creativity\|创造力]]等高阶认知能力培养中的定位与边界。
 
 > [!claim] Abrami, P. C.
 > **直接独立教学对学科特异思维的高促动与通用迁移瓶颈** 在对 341 项批判性思维教学研究的[[Meta-analysis\|元分析]]中，纯粹脱离学科的直接通用教学在通用批判性思维上效应量适中（$g+ = 0.26$），但在专门测查特定思维技能时展现出高度的靶向精确性（学科特异思维测验中 $g+ = 0.74$）；然而，最高效的综合干预并非孤立的直接教学，而是显性直接教学与学科探究深度融合的显性混合模式（Mixed approach, $g+ = 0.38$）。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 280–281, 293–295)]]
@@ -188,10 +185,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题三　直接教学存在不可忽视的教育副作用与过度脚本化风险
-
-> [!concept-lens] 教育生态与多维目标代价
-> 探讨直接教学在追求短期标准化测验高分时，对学生远期心智品质可能造成的隐性损害。
+> [!concept-proposition] 命题三｜直接教学存在不可忽视的教育副作用与过度脚本化风险
+> **探讨维度　教育生态与多维目标代价** 探讨直接教学在追求短期标准化测验高分时，对学生远期心智品质可能造成的隐性损害。
 
 > [!claim] [[Yong Zhao\|Zhao, Y.]]
 > **短期测验获益与创造力、自主性被抑制的教育副作用** 任何强效教育干预都伴随着副作用。直接教学在拼写、计算等基础技能上得分极高，但在衡量高阶[[Problem Solving\|问题解决]]与自主探究倾向时往往落后。长期接受严格直接教学的学生容易形成依赖标准答案的被动服从习惯，削弱其创造力冒险精神、不确定性耐受力与好奇心。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 7–10)]]
@@ -201,10 +196,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题四　直接教学在长效保持与概念迁移上面临瓶颈，其最大效能依赖于与探究实践的时序协同
-
-> [!concept-lens] 教学时序与概念深层内化
-> 探讨直接教学与学生探究在[[Knowledge Building Theory|知识建构]]不同阶段的功能分工，反思脱离探究练习的单一直接教学在长周期保持上的局限。
+> [!concept-proposition] 命题四｜直接教学在长效保持与概念迁移上面临瓶颈，其最大效能依赖于与探究实践的时序协同
+> **探讨维度　教学时序与概念深层内化** 探讨直接教学与学生探究在[[Knowledge Building Theory|知识建构]]不同阶段的功能分工，反思脱离探究练习的单一直接教学在长周期保持上的局限。
 
 > [!claim] De Jong et al.
 > **长效保持中单一讲授的脆弱性与探究时序互补** 单一的直接教学尽管能减少学习初期的错误并提高即时测验成绩，但在缺乏持续主动探究和情境化练习的情况下，无法促成知识的长效保持与向新情境的远迁移。直接教学与[[Inquiry-Based Learning\|探究式学习]]并非非此即彼的对立[[Paradigm\|范式]]：直接教学可作为探究的前置知识铺垫、探究过程中的即时解释支架，或置于自主探索引发认知冲突之后的概念澄清环节（如[[Productive Failure\|生产性失败]]），二者的时序融合才能达成深度学习。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–10)]]
@@ -214,10 +207,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题五　直接教学属于宏观全学年教学方案，与微观瞬时干预存在不可通约性且在宏观综合中遭遇权重扭曲
-
-> [!concept-lens] 本体范畴与证据加权扭曲
-> 探讨直接教学在宏观证据合成中因干预时长与对照基线差异引发的[[Incommensurability|不可通约性]]（[[Incommensurability]]），以及元分析计算错误如何严重低估其统计权重。
+> [!concept-proposition] 命题五｜直接教学属于宏观全学年教学方案，与微观瞬时干预存在[[Incommensurability|不可通约性]]且在宏观综合中遭遇权重扭曲
+> **探讨维度　本体范畴与证据加权扭曲** 探讨直接教学在宏观证据合成中因干预时长与对照基线差异引发的[[Incommensurability|不可通约性]]（[[Incommensurability]]），以及元分析计算错误如何严重低估其统计权重。
 
 > [!claim] Wecker et al.
 > **宏观全学年方案与微观实验室干预的不可[[Commensuration|通约]]性（[[Category Mistake|德甲联赛隐喻]]）** [[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker, 2016）等人指出，直接教学属于学校层面的“综合教学方案（Comprehensive Pedagogical Programs）”，其实施周期通常以整学期或整学年计，其对比基准为常规常态讲授。在《[[Visible Learning|可见的学习]]》排行榜中，哈蒂将持续一整年的直接教学与仅历时 1.5 小时的受控实验室[[Worked Examples|样例学习]]（Worked Examples, Renkl, 2015）并列比较，犯下了根本性的范畴错误。若将微观样例学习的瞬时效应（$d \approx 0.60$）线性外推至 4 周课程，其理论效应将膨胀至 2.40，但在常规教学中效应必然大幅衰减。将性质迥异的微观瞬时技术与宏观全学年改革排在同一张表上，如同在德甲联赛中强行比较不可通约的对象；教师在实践中并非在直接教学与分布式练习之间做非此即彼的单选，而是探索二者的最优组合。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
@@ -244,7 +235,7 @@ updated: 2026-10-25
 ---
 
 > [!dev-timeline] 概念演变
-> - **1960–1970 年代 — 脚本化 DI 奠基与 Follow Through 试验** Siegfried Engelmann 与 Wes Becker 开发高度脚本化的直接教学模式（DI），并在美国“追踪项目（Project Follow Through）”中横扫 20 余种教学法，奠定了在弱势儿童基础学业补救中的实证基石。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 7)]]
+> - **1960–1970 年代 — 脚本化 [[Discursive Institutionalism|DI]] 奠基与 Follow Through 试验** Siegfried Engelmann 与 Wes Becker 开发高度脚本化的直接教学模式（DI），并在美国“追踪项目（Project Follow Through）”中横扫 20 余种教学法，奠定了在弱势儿童基础学业补救中的实证基石。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 7)]]
 > - **1980 年代 — 显性教学原则提炼与普及** Barak Rosenshine 系统提炼出小步子示范、指导练习与即时反馈等 10 项显性教学原则，直接教学从专门补救课程扩展为通用[[Effective Teaching\|有效教学]][[Paradigm\|范式]]。
 > - **1990–2000 年代 — [[Cognitive Load Theory\|认知负荷理论]]支撑与 CSR 全校改革采纳** 认知负荷理论从[[Working Memory\|工作记忆]]局限性为显性指导提供认知[[Scientific Explanation\|科学解释]]；美国全面学校改革计划（Comprehensive School Reform, CSR）将 Direct Instruction 列为受联邦资助的标杆全校方案之一。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - **2010 年代至今 — 可见学习综合、副作用反思与时序协同模型** Hattie（$d=0.59$）确立其教师激活地位；[[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 确立其在高阶[[Critical Thinking\|批判性思维]]中的显性混合模式；[[Argument_Zhao_2017_JEC\|Zhao (2017)]] 提出教育副作用理论；[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 系统反思直接教学绝对优越论，提出直接教学与[[Inquiry-Based Learning\|探究式学习]]的时序协同模型。

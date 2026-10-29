@@ -10,7 +10,7 @@ aliases:
 summary: "行动者网络理论与后结构主义哲学的核心概念，指异质性的人类与非人类行动者（符号、文本、技术、法律与耐用客体）在动态关联中临时聚合形成的社会-物质网络。它打破结构先验论与本质主义，强调关系物质性、耐用材料的秩序化策略、转译过程与黑箱化，并在断裂与重构中展现权力的生成性。"
 type: concept
 domain: "comparative-education"
-related_count: 47
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -29,13 +29,15 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Doxa]]"
   - "[[Value Neutrality]]"
+  - "[[Habitus]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Venture Philanthropy]]"
   - "[[Knowledge Production]]"
+  - "[[Interactive Whiteboards]]"
+  - "[[Data Infrastructure]]"
   - "[[Topological Spatialisation]]"
   - "[[Rescaling]]"
   - "[[Center of Calculation]]"
-  - "[[Data Infrastructure]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Public-Private Partnership]]"
   - "[[Philanthrocapitalism]]"
@@ -75,7 +77,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -135,53 +137,43 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　社会实体与制度秩序由耐用材料在关系空间中装配而成
-
-> [!concept-lens] 关系物质性与制度固化机制
-> 检视组织实体如何跨越欧几里得地理疆界，依托文本、法规与物质客体构筑跨越时空的持久权威。
+> [!concept-proposition] 命题一｜社会实体与制度秩序由耐用材料在[[Relational Space|关系空间]]中装配而成
+> **探讨维度　关系物质性与制度固化机制** 检视组织实体如何跨越欧几里得地理疆界，依托文本、法规与物质客体构筑跨越时空的持久权威。
 
 > [!claim] Law, J.; Rowe, E.
-> **耐用客体的秩序化策略** 思想瞬时且口头言语短暂，单纯的人际交往无法维系超过数分钟的复杂社会结构。唯有将社会关系具身于耐用材料（durable materials，如法律文本、建筑设施、技术仪器与数据表格）之中，异质网络才能维系形态并产生持续的秩序。埃玛·罗威（Emma Rowe）引入澳大利亚纵贯 5600 公里的防野狗围栏（dingo fence）作为政策装配隐喻：围栏表面上是由铁丝与木桩构成的物理阻隔，但它同时装配了管理委员会、《野狗围栏法》、巡逻承包合同、卫星电话与毒饵，在物理空间与[[Relational Space\|关系空间]]中共同改变了大陆物种习性与风沙地貌；国家[[Educational Brokerage Agency\|证据中介机构]][[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）同样如此，其外表展现为超党派中立实体，但维系其长程运作的正是《公司法》法人实体架构、预算法案修订规则与标准化因果证据量规等耐用材料的战略装配。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 1–3)]]; Law (1992, p. 387)
+> **耐用客体的秩序化策略** 思想瞬时且口头言语短暂，单纯的人际交往无法维系超过数分钟的复杂社会结构。唯有将社会关系具身于耐用材料（durable materials，如法律文本、建筑设施、技术仪器与数据表格）之中，异质网络才能维系形态并产生持续的秩序。埃玛·罗威（Emma Rowe）引入澳大利亚纵贯 5600 公里的防野狗围栏（dingo fence）作为政策装配隐喻：围栏表面上是由铁丝与木桩构成的物理阻隔，但它同时装配了管理委员会、《野狗围栏法》、巡逻承包合同、卫星电话与毒饵，在物理空间与[[Relational Space\|关系空间]]中共同改变了大陆物种[[Habitus|习性]]与风沙地貌；国家[[Educational Brokerage Agency\|证据中介机构]][[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）同样如此，其外表展现为超党派中立实体，但维系其长程运作的正是《公司法》法人实体架构、预算法案修订规则与标准化因果证据量规等耐用材料的战略装配。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 1–3)]]; Law (1992, p. 387)
 
 > [!claim] Segerholm, C., Lindgren, J. & Novak, J.
 > **教育治理作为异质构件的组装网络与督导转换枢纽** 克里斯蒂娜·塞格霍姆（Christina Segerholm）等将教育治理界定为由空间、行动者、政策、实践与权力网络共同组装而成的工作，并将学校督察局视作国家宏观意志与学校一线实践之间的转换枢纽。在督察局内部，实证研究知识与法律条文、统计指标、督导员具身经验及现场斡旋实践共同组装为规制学校的技术装置：常规督导借成功学校研究将国家意图编码为十项督导常模，质量审计则通过专家参考组吸纳学者建言并在终审定稿时清洗批判性结论；这种耐用文本规程的装配，最终使复杂的学校生活服从于国家行政简化与问责合法化的长效治理。[[Argument_Segerholm_Lindgren_Novak_2022_SJER\|(Segerholm et al., 2022, pp. 644, 648–654)]]
 
 ---
 
-### 命题二　装配的去政治化黑箱掩盖了商业资本与非公立权力的深层渗透
-
-> [!concept-lens] 技术中立性假象与隐形权力部署
-> 剖析微观课堂技术或宏观中介机构如何借助装配的“互客体性”与客观科学表象，规避公共民主审议与监管。
+> [!concept-proposition] 命题二｜装配的去政治化黑箱掩盖了商业资本与非公立权力的深层渗透
+> **探讨维度　技术中立性假象与隐形权力部署** 剖析微观课堂技术或宏观中介机构如何借助装配的“互客体性”与客观科学表象，规避公共民主审议与监管。
 
 > [!claim] [[Bruno Latour\|Latour, B.]]; [[Jason Beech\|Beech, J.]]; Rowe, E.
 > **互客体性遮蔽与非公立权力跨界穿透** 布鲁诺·拉图尔（Bruno Latour）强调，社会的生产离不开客体构成的编译网络，即互客体性（interobjectivity）。在微观教育层面，阿根廷国家数字教育项目虽然在法律上明文禁止教育商品化，但通过免费电脑的物理配送，英特尔芯片、微软操作系统及海外软件协议构成的微观装配直接嵌入课堂，在日常教学中实现了跨国资本的技术规制（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）。在宏观政策层面，AERO 对外通过[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与证据量规等技术仪器标榜科学与去政治化，然而其底层装配深嵌于[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）与麦肯锡系[[Venture Philanthropy\|风险慈善]]网络之中；装配通过《公司法》赋予的 18 个月财务保密豁免及立法特许商业分包，使非公立金融资本跨界渗透国家[[Knowledge Production\|知识生产]]标准，彻底架空了民主问责机制。[[Argument_Beech_2015_GSE\|(Beech & Artopoulos, 2015, p. 11)]]; [[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 5, 10–11)]]; Latour (2002, p. 240)
 
 ---
 
-### 命题三　组装具有内在脆断性并在关键物质节点断裂时暴露出建构本质
-
-> [!concept-lens] 异质连接的脆弱性与偶发性断裂
-> 探讨维系社会-物质装配的脆弱平衡，以及非人类构件受损时对整体权力和知识网络的反噬。
+> [!concept-proposition] 命题三｜组装具有内在脆断性并在关键物质节点断裂时暴露出建构本质
+> **探讨维度　异质连接的脆弱性与偶发性断裂** 探讨维系社会-物质装配的脆弱平衡，以及非人类构件受损时对整体权力和知识网络的反噬。
 
 > [!claim] Callon, M.; Fenwick, T.
-> **非人类节点失灵与装配解组** 组装的稳固性完全依赖于转译链条中各异质节点持续不断的作用力平衡。在课堂情境中，一本教科书或一块交互式白板连接着出版商、课程专家、采购部门、电源与软件开发商；当白板断电、网络崩溃或教科书被替换时，原本高度自动化的教学秩序瞬间崩溃，迫使行动者正视非人类客体的存在（Fenwick & Edwards, 2010）。在政策生态中，当新成立实体的企业法律资质、董事交叉任职或免税避税数据被调查性研究与信息公开申请所穿透时，由中立修辞构筑的“客观证据中介”黑箱随即被打破，重新转化为各方政治与学术博弈的争议前沿。[[Argument_Beech_2015_GSE\|(Beech & Artopoulos, 2015, p. 8)]]; [[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 4, 11)]]
+> **非人类节点失灵与装配解组** 组装的稳固性完全依赖于转译链条中各异质节点持续不断的作用力平衡。在课堂情境中，一本教科书或一块[[Interactive Whiteboards|交互式白板]]连接着出版商、课程专家、采购部门、电源与软件开发商；当白板断电、网络崩溃或教科书被替换时，原本高度自动化的教学秩序瞬间崩溃，迫使行动者正视非人类客体的存在（Fenwick & Edwards, 2010）。在政策生态中，当新成立实体的企业法律资质、董事交叉任职或免税避税数据被调查性研究与信息公开申请所穿透时，由中立修辞构筑的“客观证据中介”黑箱随即被打破，重新转化为各方政治与学术博弈的争议前沿。[[Argument_Beech_2015_GSE\|(Beech & Artopoulos, 2015, p. 8)]]; [[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 4, 11)]]
 
 ---
 
-### 命题四　政策装配通过拓扑折叠与数据基础设施跨越传统空间与宪政科层
-
-> [!concept-lens] [[Topological Spatialisation\|拓扑空间化]]与跨[[Rescaling\|尺度重组]]机制
-> 检视技术标准、统一题库与数字[[Center of Calculation\|计算中心]]如何突破欧几里得地理空间与行政管辖边界，在微观教学与宏观治理之间建立直接的拓扑连接。
+> [!concept-proposition] 命题四｜政策装配通过拓扑折叠与[[Data Infrastructure|数据基础设施]]跨越传统空间与宪政科层
+> **探讨维度　[[Topological Spatialisation\|拓扑空间化]]与跨[[Rescaling\|尺度重组]]机制** 检视技术标准、统一题库与数字[[Center of Calculation\|计算中心]]如何突破欧几里得地理空间与行政管辖边界，在微观教学与宏观治理之间建立直接的拓扑连接。
 
 > [!claim] [[Sigrid Hartong\|Hartong, S.]]
 > **拓扑折叠与[[Governing at a Distance\|远处治理]]重组** 政策装配不仅是要素的静态聚合，更是一种拓扑空间化策略。在德国联邦体制中，宪法明确规定各州享有文化主权（Kulturhoheit），禁止联邦设立全国统一学校公开排名榜或直接干预学校教学。然而，通过在柏林联合设立[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）作为国家[[Center of Calculation\|计算中心]]，并装配经[[Item Response Theory\|项目反应理论]]（IRT）校准的国家统一题库、校际比较诊断（[[Vergleichsarbeiten\|VERA]]）与数字化自适应练习平台，[[Policy Network\|政策网络]]将原本距离遥远且层级分隔的国家与国际质量标准直接“折叠”（folding）进地方学校与班级的微观教学实践中。这种拓扑[[Data Infrastructure\|数据基础设施]]的装配，无需对宪法进行刚性修改，便实现了跨尺度的教育政策重组与[[Governing at a Distance\|远处治理]]。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 134–146)]]
 
 ---
 
-### 命题五　权力是异质网络隐蔽运作的装配效应，国家通过制度拼装与慈善资本共生
-
-> [!concept-lens] 隐蔽装配效应与国家-资本共生机制
-> 探讨权力如何摆脱传统单一主权实体的宏观压制模型，作为异质行动者网络持续调配与制度特许的隐蔽效果而生成。
+> [!concept-proposition] 命题五｜权力是异质网络隐蔽运作的装配效应，国家通过制度拼装与慈善资本共生
+> **探讨维度　隐蔽装配效应与国家-资本共生机制** 探讨权力如何摆脱传统单一主权实体的宏观压制模型，作为异质行动者网络持续调配与制度特许的隐蔽效果而生成。
 
 > [!claim] Rowe, E.
 > **权力作为装配效应与异质制度拼装** 埃玛·罗威（Emma Rowe）深化装配理论对国家与资本关系的考察，提出权力体现为异质行动者网络经过长程动员、转译与法律修补后显现的“隐蔽装配效应”（concealed effect of assemblage），超越了预先存在且集中于顶层的实体假定。新自由主义国家作为核心构件主动参与装配：国家通过量身定制税法豁免（如为 [[Australian Schools Plus\|澳大利亚学校加计划]] 专门修订 [[Deductible Gift Recipient\|DGR1]] 税法条款）、修改公共治理与问责规则、创设受《公司法》保护而非传统行政法约束的担保有限公司（如 [[Australian Education Research Organisation\|AERO]]），以及开展定向保密招标（如将 1500 万澳元公立学校领导力培训专向委托给 [[Social Ventures Australia\|SVA]]），在政策生态中主动为风险慈善和营利性咨询机构开辟合法空间。这种装配使商业逻辑与资本截留无缝融入公共教育肌理，并在表面上以“[[Public-Private Partnership|公私合作伙伴关系]]”与中立循证的修辞黑箱化，彻底规避了议会监督与公民社会的民主审议。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 162–165)]]

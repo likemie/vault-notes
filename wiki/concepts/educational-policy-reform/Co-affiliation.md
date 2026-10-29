@@ -33,7 +33,7 @@ related_concepts:
   - "[[Deductible Gift Recipient]]"
   - "[[Philanthrocapitalism]]"
   - "[[Educational Privatisation]]"
-  - "[[Educational Brokerage Agency]]"
+  - "[[Boundary Spanner]]"
   - "[[Knowledge Transfer]]"
   - "[[Paradigm]]"
   - "[[New Public Management]]"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -160,10 +160,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　机构共同从属构筑了跨越公私边界与地理疆域的观念同质性流动通道
-
-> [!concept-lens] 拓扑传导维度：[[Epistemology\|认识论]]同质性与[[Policy Mobility\|政策流动]]通道
-> 探讨精英行动者的多重身份如何充当管道，将特定的市场化、金融化世界观和政策工具超高速导入公共部门。
+> [!concept-proposition] 命题一｜机构共同从属构筑了跨越公私边界与地理疆域的观念同质性流动通道
+> **探讨维度　拓扑传导维度：[[Epistemology\|认识论]]同质性与[[Policy Mobility\|政策流动]]通道** 探讨精英行动者的多重身份如何充当管道，将特定的市场化、金融化世界观和政策工具超高速导入公共部门。
 
 > [!claim] [[Stephen Ball\|Ball, S.]] J. & Exley, S.
 > **多重职位对政策生态的穿透性重塑** [[Policy Network\|政策网络]]绝不仅是由孤立节点组成的扁平图谱，而是一种由在公私部门间穿梭的精英行动者所构成的动态社会过程。行动者同时或先后身兼数职，打破了地理与制度阻隔，使源自跨国金融界与咨询界的企业化逻辑得以深层改写公立教育知识生态（Ball & Exley, 2010）。
@@ -173,10 +171,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　决策精英的多重从属性架空了公共教育治理的传统民主问责机制
-
-> [!concept-lens] 治理政治学维度：异质层级与民主赤字
-> 揭示跨界重叠兼职如何使具有商业利益倾向的特定群体垄断公共科研议程，导致民主监督失效。
+> [!concept-proposition] 命题二｜决策精英的多重从属性架空了公共教育治理的传统民主问责机制
+> **探讨维度　治理政治学维度：异质层级与民主赤字** 揭示跨界重叠兼职如何使具有商业利益倾向的特定群体垄断公共科研议程，导致民主监督失效。
 
 > [!claim] Avelar, M. & Ball, S. J.
 > **异质治理层级对民主代表性的解构** 全球政策网络的共同从属性催生出一种新型的“异质层级”（heterarchy）协调机制；在这一机制中，合法性不再完全依赖选民普选或议会科层问责，而是被置换为跨国精英之间的同侪信任、资金撮合与董事会互选，直接造成了公共决策领域的结构性民主赤字（Avelar & Ball, 2019）。
@@ -186,10 +182,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题三　共同从属网络生成了具有超流动性的异层权力，其权力来源具有结构非确定性
-
-> [!concept-lens] 权力社会学维度：超流动性与关系性权力生成
-> 剖析兼任网络如何在去中心化的表象下重塑资本主义国家实践，使公私权力在高度流动的非正式节点中无缝转化。
+> [!concept-proposition] 命题三｜共同从属网络生成了具有超流动性的异层权力，其权力来源具有结构非确定性
+> **探讨维度　权力社会学维度：超流动性与关系性权力生成** 剖析兼任网络如何在去中心化的表象下重塑资本主义国家实践，使公私权力在高度流动的非正式节点中无缝转化。
 
 > [!claim] Rowe, E.
 > **超流动性与关系性权力的非确定性根源** 埃玛·罗威（Emma Rowe）结合开源网络拓扑分析（Gephi）揭示，由共同从属维系的政策网络并非静态同盟，而是一种高度动态重构的“超流动性”（hypermobility）构型。在澳大利亚教育改革网络中，[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）呈现为物理和人事的辐射中枢，但权力的来源绝非源于传统的科层等级或法定公职，而是“关系性共同从属（relational co-affiliations）的结果”。美洲银行、麦格理银行、麦肯锡及大型矿业资本的高管，与前政府高级文官在 SVA、APS、[[Australian Schools Plus\|澳大利亚学校加计划]]、[[Evidence for Learning\|E4L]] 及 AERO 之间自由流动；他们凭借直通国库部长的政商非正式通道推动专门立法修订（赋予 [[Deductible Gift Recipient\|DGR1]] 避税资质）和非公开政府闭门竞标（1500 万澳元公立校领导力项目）。这种关系性兼职消解了权力责任的具体指向，使商业利益在高度流动与非确定的网络缝隙中完成了对公共教育资源与知识标准的系统性重构。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 527–531)]]
@@ -209,7 +203,7 @@ updated: 2026-10-26
 > - **1970–1980s — 组织社会学与公司治理起源** 组织社会学家（Mizruchi, 1982；Useem, 1984）将共同从属与连锁董事引入公司[[Network Analysis\|网络分析]]，探讨企业间通过共享董事监控市场、抵御风险与整合金融资本。
 > - **2000s — 社会网络分析与二分图理论化** Borgatti、Halgin 等学者将共同从属正式数学化，发展二模网络（two-mode networks / affiliation networks）分析模型，揭示行动者与事件/组织集合间的双向投影机制。
 > - **2010–2019 — 批判[[Policy Network\|政策网络]]与教育异质治理转向** [[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball）及其合作者将该概念引入全球教育政策研究，指出新自由主义政策网络依靠跨国多重从属性运作，推动了[[Educational Privatisation\|教育私有化]]与治理模式的深刻变迁。
-> - **2021–2022 — 证据经济与国家科研企业化应用** 埃玛·罗威（Emma Rowe）结合监管档案调档与法条追踪，将共同从属应用于解构国家级[[Educational Brokerage Agency\|证据经纪人]]（[[Australian Education Research Organisation\|AERO]]）的创生过程，证实了[[Venture Philanthropy\|风险慈善]]、跨国银行家与国家审查委员会之间的利益闭环。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]
+> - **2021–2022 — 证据经济与国家科研企业化应用** 埃玛·罗威（Emma Rowe）结合监管档案调档与法条追踪，将共同从属应用于解构国家级[[Boundary Spanner|证据经纪人]]（[[Australian Education Research Organisation\|AERO]]）的创生过程，证实了[[Venture Philanthropy\|风险慈善]]、跨国银行家与国家审查委员会之间的利益闭环。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]]
 > - **2023 — 异层国家网络与超流动性拓扑建构** 罗威运用开源网络分析软件 Gephi 可视化映射澳大利亚二十年间（2002–2021）由[[Social Ventures Australia\|澳大利亚社会创投]]（SVA）辐射派生的风险慈善中介网络，揭示跨界金融与咨询高管（美洲银行、麦格理银行、麦肯锡）与政府高级官僚在 SVA、APS、[[Australian Schools Plus]]、[[Evidence for Learning\|E4L]] 与 AERO 之间的高频流动与四层控股嵌套，证明共同从属构成了生成异层权力与重构国家实践的核心机制。[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 520–531]]
 
 ---

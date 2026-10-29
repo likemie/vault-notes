@@ -10,7 +10,7 @@ aliases:
 summary: "以应对重大社会挑战和变革性系统转型为核心导向，通过主动塑造与共创市场、战略方向引导、挑选意愿者、三层公共动态能力构建与引领和学习范式推动创新的公共政策体系"
 type: concept
 domain: "science-policy"
-related_count: 60
+related_count: 61
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Public Dynamic Capabilities]]"
   - "[[Lead-and-Learn Paradigm]]"
   - "[[Scientific Uncertainty]]"
+  - "[[Document]]"
   - "[[Grand Challenges]]"
   - "[[Open-Mindedness]]"
   - "[[Innovation Policy Paradigms]]"
@@ -90,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -104,7 +105,7 @@ updated: 2026-10-22
 > - **边界** 不等同于冷战时期封闭垂直攻关的国家科技专项（如[[Manhattan Project|曼哈顿工程]]）；当代第三代使命政策聚焦于具有高度价值争议、系统复杂性与[[Scientific Uncertainty|认知不确定性]]的社会–技术棘手难题。
 
 > [!citation-card] 政策内涵转向
-> 使命导向政策关涉支持变革性系统转型的政策体系。社会挑战往往需要根本性的社会转型，这不仅要求技术变革，还要求制度和行为层面的根本改变，正如社会–技术转型文献所指出的那样。面临当代社会的棘手挑战，使命导向创新政策的核心任务在于确保合法性、广泛公众参与以及多元行动者之间的深度协作。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
+> 使命导向政策关涉支持变革性系统转型的政策体系。社会挑战往往需要根本性的社会转型，这不仅要求技术变革，还要求制度和行为层面的根本改变，正如社会–技术转型[[Document|文献]]所指出的那样。面临当代社会的棘手挑战，使命导向创新政策的核心任务在于确保合法性、广泛公众参与以及多元行动者之间的深度协作。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
 >
 > *MIP relates to policies supporting transformative system change... Societal challenges may need fundamental societal transformations, requiring not just technological, but also institutional and behavioural change... Accordingly, a major part of MIP lies in ensuring legitimacy, broad engagement, and cooperation among multiple actors to govern the wicked challenges of current societies.*
 
@@ -189,30 +190,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　当代使命政策必须应对问题与解决方案双重维度的棘手性而非预设技术确定性
-
-> [!concept-lens] 转型棘手性与去技术盲信
-> 传统使命导向政策（如阿波罗登月工程）预设了问题目标的一致性与技术路径的明确性，而当代社会挑战在[[Problem Finding|问题界定]]与解决方案两端均充斥着广泛的价值争议、系统复杂性与[[Scientific Uncertainty|认知不确定性]]。
+> [!concept-proposition] 命题一｜当代使命政策必须应对问题与解决方案双重维度的棘手性而非预设技术确定性
+> **探讨维度　转型棘手性与去技术盲信** 传统使命导向政策（如阿波罗登月工程）预设了问题目标的一致性与技术路径的明确性，而当代社会挑战在[[Problem Finding|问题界定]]与解决方案两端均充斥着广泛的价值争议、系统复杂性与[[Scientific Uncertainty|认知不确定性]]。
 
 > [!claim] [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]
 > **双重棘手性命题** 当代使命导向创新政策不可将社会问题的界定及其技术方案视为既定前提。社会挑战的解决不仅依赖科技研发，更涉及相互冲突的社会价值权衡、跨部门制度重塑与公众行为变革。政策制定者必须在问题–解决方案空间中[[Dynamic Assessment|动态评估]]挑战的争议性、复杂性与不确定性，方能设计出有效的治理路径。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 474–478)]]
 
 ---
 
-### 命题二　使命的建立与落地是一个通过多元路径实现问题与解决方案收敛的动态过程
-
-> [!concept-lens] 动态收敛机制与路径分异
-> 使命并非自上而下单向宣称的静止目标，而是政策主体、产业部门与社会公众在争议性、复杂性与不确定性中探索并达成共识的收敛过程。
+> [!concept-proposition] 命题二｜使命的建立与落地是一个通过多元路径实现问题与解决方案收敛的动态过程
+> **探讨维度　动态收敛机制与路径分异** 使命并非自上而下单向宣称的静止目标，而是政策主体、产业部门与社会公众在争议性、复杂性与不确定性中探索并达成共识的收敛过程。
 
 > [!claim] [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]
 > **路径收敛命题** 从高度棘手状态走向合法化解决方案存在三条差异化政策路径：通过政治审议与共识重构优先化解问题争议的问题导向路径；通过技术试验与[[Regulatory Sandbox|监管沙盒]]优先收敛技术可行性继而反向重构需求的解决方案导向路径；以及通过[[Reflexivity|反思性]]治理与小步渐进实现问题与方案同步演化的混合演化路径。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 481–485)]]
 
 ---
 
-### 命题三　以社会挑战为导向的挑选意愿者机制能够超越传统产业政策的游说寻租弊端
-
-> [!concept-lens] 垂直政策重构与跨部门共创
-> 传统产业政策因针对特定行业或特定企业直接补贴，极易被利益集团游说俘获并造成公共资源浪费；使命政策通过重构垂直干预靶向消除这一结构性缺陷。
+> [!concept-proposition] 命题三｜以社会挑战为导向的[[Picking the Willing|挑选意愿者]]机制能够超越传统产业政策的游说寻租弊端
+> **探讨维度　垂直政策重构与跨部门共创** 传统产业政策因针对特定行业或特定企业直接补贴，极易被利益集团游说俘获并造成公共资源浪费；使命政策通过重构垂直干预靶向消除这一结构性缺陷。
 
 > [!claim] [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]
 > **[[Picking the Willing|挑选意愿者]]机制与战略方向塑造** 使命导向政策确立了一种新型的垂直干预逻辑，政策不选定特定企业或单一产业（“挑选赢家”），而是选定必须实现的社会转型方向，并“挑选意愿者”（Picking the willing）——即在全经济范围内激励所有愿意致力于解决该挑战的跨行业公私组织。通过以问题为核心拉动跨部门协同和自下而上的多元探索，既避免了特定行业的寻租俘获，又带动了传统低技术产业的系统革新。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–806)]]
@@ -221,20 +216,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题四　公共部门承担早期高风险时必须通过制度设计实现风险与回报的对称共享
-
-> [!concept-lens] 制度对称性与[[Public Value|公共价值]]循环
-> 当公共资金在早期创新中承担了公共风险投资（VC）的功能时，必须构建公私对等的分配机制以避免“风险社会化、收益私有化”。
+> [!concept-proposition] 命题四｜公共部门承担早期高风险时必须通过制度设计实现风险与回报的对称共享
+> **探讨维度　制度对称性与[[Public Value|公共价值]]循环** 当公共资金在早期创新中承担了公共风险投资（VC）的功能时，必须构建公私对等的分配机制以避免“风险社会化、收益私有化”。
 
 > [!claim] [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]
 > **风险收益对称共享命题** 公共机构通过大额早期投资为颠覆性创新承担了极端不确定性与失败损失，因此完全有理由享有与所承担风险相称的回报。政府应在政策工具箱中引入股权保留（或黄金股）、专利特许权使用费提成、收入挂钩型贷款及公共资助产品最高限价机制，将商业突破的经济红利反哺公共创新基金，维护纳税人权益并促进包容性增长。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 
 ---
 
-### 命题五　三代历史演进与公共部门三层动态能力奠定使命政策从“支持与衡量”转向“引领与学习”的组织基石
-
-> [!concept-lens] 制度演化与公共组织能力视阈
-> 剖析使命导向政策在过去一个半世纪中的治理[[Paradigm|范式]]变迁，揭示[[Public Dynamic Capabilities|公共动态能力]]作为使命政策执行底座的理论必然性。
+> [!concept-proposition] 命题五｜三代历史演进与公共部门三层动态能力奠定使命政策从“支持与衡量”转向“[[Lead-and-Learn Paradigm|引领与学习]]”的组织基石
+> **探讨维度　制度演化与公共组织能力视阈** 剖析使命导向政策在过去一个半世纪中的治理[[Paradigm|范式]]变迁，揭示[[Public Dynamic Capabilities|公共动态能力]]作为使命政策执行底座的理论必然性。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **三代演化与公共动态能力命题** 莱纳·[[Rainer Kattel|卡特尔]]与玛丽安娜·[[Mariana Mazzucato|马祖卡托]]指出，使命导向政策经历了从后发追赶（骆驼形态）、[[Big Science|大科学]]攻坚（狮子形态）到社会–技术挑战敏捷实验（儿童形态）的三代历史演进。为应对 21 世纪的复杂社会使命，公共部门必须打破[[New Public Management|新公共管理]]所主导的被动“支持与衡量”模式，在国家政治合法性、政策协同组合与行政敏捷流动三个层级构建[[Public Dynamic Capabilities|公共部门动态能力]]，确立以主动塑造市场、鼓励跨界实验与全生命周期反思学习为特征的[[Lead-and-Learn Paradigm|引领与学习范式]]，从而有效克服现代政策的[[Complexity Paradox|复杂性悖论]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 792–798)]]
@@ -242,7 +233,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **双重棘手性命题** | 批判技术[[Determinism\|决定论]]，主张同时解构问题与方案两端的争议性、复杂性与不确定性 | 面向气候、能源、公共健康等复杂社会转型的顶层设计 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]]; Weber and Rohracher (2012) |
 > | **路径收敛命题** | 揭示使命合法化与技术方案落地的三类动态过程演化机制 | 政策工具组合选择、试验示范区建设与社会各方博弈协调 | 同上（2020）; [[Mariana Mazzucato\|马祖卡托]] |

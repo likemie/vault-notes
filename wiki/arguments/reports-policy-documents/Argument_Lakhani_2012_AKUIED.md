@@ -22,7 +22,7 @@ title: "Argument_Lakhani_2012_AKUIED"
 argument_key: "Argument_Lakhani_2012_AKUIED"
 argument_display_title: "Knower's roles of autonomy for knowledge construction: A case of International Baccalaureate (IB) Curriculum"
 argument_kind: "conference-paper"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#e5e7eb"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Learner Autonomy]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Metacognition]]"
   - "[[Definition of Terms]]"
   - "[[Homework]]"
@@ -70,7 +71,7 @@ related_theories:
   - "[[Knowledge Building Theory]]"
 status: draft
 created: 2026-07-02
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 ---
 
@@ -94,7 +95,7 @@ updated: 2026-10-26
 > Dam 将自主性从单一能力概念扩展为包含**准备度（readiness）** 的双维结构。准备度由两个要素构成：**能力（capacity）**，指独立和在合作中执行学习任务的能力；**意愿（willingness）**，指内在动机或意图强度，即学习者是否真正想要承担学习责任。这一区分意味着自主性不仅是技能训练的结果，还涉及学习者的动机状态和自我信念。
 
 > [!feature] 自主性的操作性特征
-> 综合文献，自主性在操作层面涉及三个核心特征（pp.173–174）：
+> 综合[[Document|文献]]，自主性在操作层面涉及三个核心特征（pp.173–174）：
 >
 > - **内部反思（Internal Reflection）** 自主性体现在个体的信念和欲望是理性和知情反思的结果（Carter, Kramer, & Steiner, 2007, p. 323）。个体经过有意识的反思后形成判断和选择。
 > - **[[Metacognition\|元认知]]意识（Metacognitive Awareness）** 自主性要求对自身认知保持意识（consciousness），包括关注和自评自己知道什么、正在做什么、以及认知和情感状态如何（Hacker & Dunlosky, 1998; Wilkins, 1996; Wenden, 1991）。
@@ -168,7 +169,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 
 ---
 
-> [!claim] 论证步骤一　TOK 作为自主性训练的课程空间
+> [!claim|step] 论证步骤一　TOK 作为自主性训练的课程空间
 > [[Theory of Knowledge\|TOK]] 课程以认知者处于中心位置、环绕[[Ways of Knowing\|认知方式]]和[[Areas of Knowledge\|知识领域]]的结构，为[[Learner Autonomy\|学习者自主性]]提供了制度化的课程空间。但课程结构只设置可能性，可能性能否转化为现实取决于认知者的能力和信心。
 
 > [!chain-link] TOK 的结构特征与自主性空间
@@ -184,7 +185,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 
 ---
 
-> [!claim] 论证步骤二　三种角色：自主性的实证形态
+> [!claim|step] 论证步骤二　三种角色：自主性的实证形态
 > 认知者在 TOK 学习中扮演了三种角色：**提问者（questioning mind）**、**[[Reflexivity\|反思性]]思考者（reflective thinker）** 和 **[[Creativity\|创造性]]沟通者（creative communicator）**。这三种角色是自主性认知循环的三个功能环节：提问启动自主探究，反思对探究所得进行深度加工，创造性表达将加工后的知识输出为可交流的形式。
 
 ---
@@ -240,7 +241,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 
 ---
 
-> [!claim] 论证步骤三　能力与信心：自主性的双条件机制
+> [!claim|step] 论证步骤三　能力与信心：自主性的双条件机制
 > 三种角色的实证分析共同指向一个核心机制：自主性需要通过两个条件的满足来实现。条件一是通过批判性思维知识和技能发展**能力（competence）**，条件二是认知者对自身反思和意义建构能力的**自信（self-confidence）**。能力提供可能性，信心决定可能性是否被实际行使。
 
 > [!chain-link] 条件一：能力建设——批判性思维作为自主性的技能基础
@@ -258,7 +259,7 @@ The Urban Academy 是巴基斯坦卡拉奇的一所私立学校，提供两年�
 
 ---
 
-> [!claim] 论证步骤四　自主的相互依存性与课程建议
+> [!claim|step] 论证步骤四　自主的相互依存性与课程建议
 > 自主性是在社会互动中实现的。即使在最独立的反思中（如 Ariana 在作业中尝试主观经验路径），经验仍根植于社会互动。认知者高度需要课堂中互动、讨论和对话的空间，这是最重要的实证发现之一（p.178）。
 
 > [!interdependence] 自主的相互依存性（autonomous interdependence）

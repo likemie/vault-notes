@@ -7,7 +7,7 @@ aliases:
 summary: "Martens, Niemann, & Krogmann (2024) 与 Steiner-Khamsi et al. 提出的比较教育与全球治理分析概念，指原本缺乏专门教育法定职能的国际组织（如经合组织、世界银行、区域开发银行及贸易联盟），通过将教育重新编码为服务于经济增长、和平、可持续发展或知识经济等核心法定使命的工具性手段，从而合法化自身对教育政策领域的跨界介入与资源动员。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Discourse]]"
   - "[[Grand Theory]]"
+  - "[[Champ]]"
   - "[[Paradigm]]"
   - "[[Soft Power]]"
   - "[[Global Education Governing Complex]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -113,20 +114,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　非专门国际组织通过将教育工具化为核心使命载体实现对教育政策场域的合法性突围
-
-> [!concept-lens] 工具性转译与管辖权突围
-> 探讨国际组织如何在欠缺教育法理授权的先天限制下，运用使命延伸[[Discourse|话语]]完成制度性自我赋权。
+> [!concept-proposition] 命题一｜非专门国际组织通过将教育工具化为核心使命载体实现对教育政策[[Champ|场域]]的合法性突围
+> **探讨维度　工具性转译与管辖权突围** 探讨国际组织如何在欠缺教育法理授权的先天限制下，运用使命延伸[[Discourse|话语]]完成制度性自我赋权。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]
 > **使命衍生的合法化修辞机制** 当国际组织缺乏介入教育的明文法定管辖权时，其介入往往遭遇主权国家与专业学术共同体的管辖权质疑；通过构建“使命性教育嵌入”论述，国际组织巧妙地将教育重新定性为达成其既定法定目标（如宏观经济稳定、减贫、技术就业）的前提条件，使对教育系统的审查和规制演变为对其自身合法核心职能的自然履行，从而彻底消解了跨界干涉的合法性阻力。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 543–544)]]
 
 ---
 
-### 命题二　经济合作与金融规制使命构成了跨界国际组织主导全球教育治理的压倒性轴心
-
-> [!concept-lens] 经济[[Paradigm\|范式]]对教育话语的殖民
-> 分析为何在多元的外延性使命中，经济增长与[[Human Capital Theory\|人力资本]]成为主导全球教育治理的最强力范式。
+> [!concept-proposition] 命题二｜经济合作与金融规制使命构成了跨界国际组织主导全球教育治理的压倒性轴心
+> **探讨维度　经济[[Paradigm\|范式]]对教育话语的殖民** 分析为何在多元的外延性使命中，经济增长与[[Human Capital Theory\|人力资本]]成为主导全球教育治理的最强力范式。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]; Martens et al. (2024)
 > **经济理性对公共教育价值的结构性重构** 尽管和平、人权与可持续发展同属常见的使命延伸话语，但在全球涉教育国际组织中，以经济合作为导向的机构占据了 33.3% 的绝对统治地位；这类组织依托贷款附带条件（[[World Bank]]）与跨国经济指标排名的[[Soft Power\|软权力]]（[[OECD]]），强力将人力资本[[Return on Investment\|投资回报]]率与劳动力市场适应性确立为全球教育改革的最高评价基准，导致人文主义与受教育权传统被边陲化。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541, 544)]]

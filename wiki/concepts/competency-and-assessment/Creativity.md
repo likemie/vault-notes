@@ -11,7 +11,7 @@ aliases:
 summary: "个体或群体在特定情境中综合调动认知、情绪与环境资源生成新颖且适切成果的心理能力与综合表现，在教育与心理学中兼具预测变量与发展结果的双重属性；在科学学与创新政策视阈下，个体科学创造力呈现显著的早年黄金生命周期，易受学术评价增量偏好与共识评审的体制性抑制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 90
+related_count: 97
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -33,17 +33,20 @@ related_concepts:
   - "[[Academic Risk Aversion]]"
   - "[[Divergent Thinking]]"
   - "[[Problem Finding]]"
+  - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Open-Mindedness]]"
   - "[[Falsification]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Social Deafness]]"
+  - "[[Predictive Validity]]"
   - "[[Dependent Variable]]"
   - "[[Academic Achievement]]"
-  - "[[Creativity Training]]"
   - "[[Cooperative Learning]]"
+  - "[[Creativity Training]]"
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Brainstorming]]"
   - "[[Reflexivity]]"
@@ -53,13 +56,13 @@ related_concepts:
   - "[[Cognitive Deskilling]]"
   - "[[AI Agent in Education]]"
   - "[[Scaffolding]]"
+  - "[[Salami Publishing]]"
   - "[[Star Scientists]]"
   - "[[Big Idea Famine]]"
   - "[[Constructive Disobedience]]"
   - "[[Bureaucracy]]"
   - "[[Epistemology]]"
   - "[[Grand Theory]]"
-  - "[[Predictive Validity]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Champ]]"
   - "[[Criterion Problem]]"
@@ -70,9 +73,11 @@ related_concepts:
   - "[[Nature of Innovation]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Jigsaw]]"
+  - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Common Method Variance]]"
+  - "[[Externalization]]"
+  - "[[Metacognition]]"
   - "[[Cognitive Offloading]]"
-  - "[[Generative Artificial Intelligence]]"
   - "[[Critical Thinking Assessment]]"
 related_methods:
   - "[[Effect Size]]"
@@ -80,6 +85,8 @@ related_methods:
   - "[[Three-Level Meta-Analysis]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
+  - "[[Bibliometric Analysis]]"
+  - "[[Sample Size Determination]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
   - "[[Torrance Tests of Creative Thinking]]"
@@ -120,7 +127,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -153,7 +160,7 @@ updated: 2026-10-25
 > [!boundary]- 概念边界
 > - 不等于 [[Divergent Thinking|发散思维]]：发散思维侧重于构想生成阶段的流畅与灵活性，创造力则涵盖[[Problem Finding|问题发现]]、评价选择与产品实现的完整系统。
 > - 不等于 创新（Innovation）：创造力侧重于新颖适切构想的生成，创新侧重于构想在组织、市场或社会实践中的应用、推广与价值转化。
-> - 不等于 文献发表数量（Publication Volume）：在学术建制中，论文发表数量高并不等同于高创造力；切香肠式增量发表往往反映的是规避风险的常规劳动，而非开辟新领域的突破性创造力。
+> - 不等于 [[Document|文献]]发表数量（Publication Volume）：在学术建制中，论文发表数量高并不等同于高创造力；切香肠式增量发表往往反映的是规避风险的常规劳动，而非开辟新领域的突破性创造力。
 > - 不等于 衍生性商业拼贴（Derivative Pastiche）：对既有成熟技术或通信协议的表面重组、界面换皮与商业分销套利，无法等同于推动文明边界跃升的原真创造力。
 
 ---
@@ -194,20 +201,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　创造力具有显著的预测效度不对称性，预测外部成就的效力显著强于外部因素对创造力的预测
-
-> [!concept-lens] [[Variable|变量]]角色与因果联结的不对称性
-> 考察创造力作为[[Independent Variable|自变量]]（预测外部成果）与作为[[Dependent Variable|因变量]]（受外部因素预测）时[[Effect Size|效应量]]级的系统性分化。
+> [!concept-proposition] 命题一｜创造力具有显著的[[Predictive Validity|预测效度]]不对称性，预测外部成就的效力显著强于外部因素对创造力的预测
+> **探讨维度　[[Variable|变量]]角色与因果联结的不对称性** 考察创造力作为[[Independent Variable|自变量]]（预测外部成果）与作为[[Dependent Variable|因变量]]（受外部因素预测）时[[Effect Size|效应量]]级的系统性分化。
 
 > [!claim] Runco et al.
 > **创造力作为预测变量的强效性** 大规模[[Meta-meta-analysis|二阶元分析]]表明，创造力作为预测变量（如预测[[Academic Achievement|学业成就]]、职业创新与身心健康）的效力，显著强于外部认知、人格与环境因素对创造力的预测效应。这表明创造力具有强大的跨情境行为驱动潜能，是个体终身发展的核心促成性资源。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]
 
 ---
 
-### 命题二　创造力在不同教育阶段具有高度可塑性，系统教学干预、合作学习与中短期强化训练能显著促进多维创造潜能
-
-> [!concept-lens] 教学干预、社会建构与时间窗口调节
-> 聚焦专门的[[Creativity Training|创造力训练]]课程、[[Cooperative Learning|合作学习]]策略及实施周期对创造力各[[Construct|构念]]维度的塑造效能。
+> [!concept-proposition] 命题二｜创造力在不同教育阶段具有高度可塑性，系统教学干预、[[Cooperative Learning|合作学习]]与中短期强化训练能显著促进多维创造潜能
+> **探讨维度　教学干预、社会建构与时间窗口调节** 聚焦专门的[[Creativity Training|创造力训练]]课程、[[Cooperative Learning|合作学习]]策略及实施周期对创造力各[[Construct|构念]]维度的塑造效能。
 
 > [!claim] Scott et al.; Runco et al.
 > **专门教育训练对创造力的基准促进效能** 专门的教育干预（如[[Creative Problem Solving|创造性问题解决]] CPS 课程、启发式策略训练）在所有关联因素中展现出最高的促进效应，证实创造力具有明确的教育可塑性。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, p. 7)]]
@@ -220,10 +223,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题三　生成式人工智能作为发散性构想伙伴能显著拓展创意空间，但其有效性受制于文风均质化与探索过早收敛风险
-
-> [!concept-lens] [[Man-Computer Symbiosis|人机协同]]中的发散生成与独创性侵蚀张力
-> 考察生成式 AI 在[[Brainstorming|头脑风暴]]与开放探究中如何打破认知定势，以及非结构化依赖如何抑制深层创意的诞生。
+> [!concept-proposition] 命题三｜[[Generative Artificial Intelligence|生成式人工智能]]作为发散性构想伙伴能显著拓展创意空间，但其有效性受制于文风均质化与探索过早收敛风险
+> **探讨维度　[[Man-Computer Symbiosis|人机协同]]中的发散生成与独创性侵蚀张力** 考察生成式 AI 在[[Brainstorming|头脑风暴]]与开放探究中如何打破认知定势，以及非结构化依赖如何抑制深层创意的诞生。
 
 > [!claim] Li et al.
 > **ChatGPT 对创造性思维的赋能维度与局限机制** 对高等教育实证研究的[[Systematic Review|系统综述]]表明，ChatGPT 作为发散性认知中介展现出强大的创意激发潜能：能有效拓展构想空间并打破头脑风暴僵局，提供多模态结构支架，并促进跨学科视角转换。然而，在缺乏[[Reflexivity|反思性]]规制的自由使用中，模型基于统计概率生成的输出极易导致文风均质化、探索停滞与过早收敛，以及个体独特学术声音的湮没。唯有将 AI 定位于启发式初稿探索，并强制要求学生进行批判性改写与个体化经验注入，才能实现真正的高质量创造。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 7–8, 11)]]
@@ -239,40 +240,32 @@ updated: 2026-10-25
 
 ---
 
-### 命题四　科学创造力存在早年生命周期黄金窗口，当代学术建制的增量偏好与共识评审诱发了体制性风险规避
-
-> [!concept-lens] 科学学、创新经济学与科研制度激励维度
-> 探讨个体科研人员在生命周期各阶段的创造力演变规律，以及现行科研评价体制对高风险、高方差颠覆性创造力的抑制机制。
+> [!concept-proposition] 命题四｜科学创造力存在早年生命周期黄金窗口，当代学术建制的增量偏好与共识评审诱发了体制性风险规避
+> **探讨维度　科学学、创新经济学与科研制度激励维度** 探讨个体科研人员在生命周期各阶段的创造力演变规律，以及现行科研评价体制对高风险、高方差颠覆性创造力的抑制机制。
 
 > [!claim] Jones; Chu & Evans; Kratsios
-> **生命周期创造力窗口与学术风险规避的制度破除** 创新经济学与科学计量学研究证实，基础科学领域的重大颠覆性发现与诺贝尔奖级原创成果主要由科学家在 30 岁上下的早年阶段完成（Jones, 2010）。然而，当代学术评价体制日益被“微小增量（Salami Slicing）”与“共识型同行评议（Consensus-seeking Peer Review）”所绑架。由于低资助率（低于 20%）和论文引用量考核，年轻学者在最具创造力的峰值期被迫规避高风险颠覆性假说，转向迎合[[Star Scientists|明星科学家]]主导的既定[[Paradigm|范式]]进行安全、平庸的微小修补。要重新激活颠覆性创造力，必须推行“非共识资助机制”（如设立仅需单一评委强烈推荐即可立项的 Golden Tickets 制度、抽签资助试验）和“便携式独立人才基金”，使青年探索者摆脱对成熟学术圈子的依附，真正释放探索未知的前沿创造力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–17)]]
+> **生命周期创造力窗口与学术风险规避的制度破除** 创新经济学与[[Bibliometric Analysis|科学计量学]]研究证实，基础科学领域的重大颠覆性发现与诺贝尔奖级原创成果主要由科学家在 30 岁上下的早年阶段完成（Jones, 2010）。然而，当代学术评价体制日益被“微小增量（[[Salami Publishing|Salami Slicing]]）”与“共识型同行评议（Consensus-seeking Peer Review）”所绑架。由于低资助率（低于 20%）和论文引用量考核，年轻学者在最具创造力的峰值期被迫规避高风险颠覆性假说，转向迎合[[Star Scientists|明星科学家]]主导的既定[[Paradigm|范式]]进行安全、平庸的微小修补。要重新激活颠覆性创造力，必须推行“非共识资助机制”（如设立仅需单一评委强烈推荐即可立项的 Golden Tickets 制度、抽签资助试验）和“便携式独立人才基金”，使青年探索者摆脱对成熟学术圈子的依附，真正释放探索未知的前沿创造力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 15–17)]]
 
 ---
 
-### 命题五　原真创造力源于无中生有的原创洞见与跨界重构，而技术拼贴仅是对既有要素的衍生性排列组合
-
-> [!concept-lens] 科技哲学、文化批评与创新形态学维度
-> 探讨真正的开创性原真创造（Genuine Originality）与工业化/商业化衍生性重组（[[Technological Pastiche]]）之间的本质区隔，揭示消费主义与快节奏商业逻辑对深度创造力的稀释机制。
+> [!concept-proposition] 命题五｜原真创造力源于无中生有的原创洞见与跨界重构，而[[Technological Pastiche|技术拼贴]]仅是对既有要素的衍生性排列组合
+> **探讨维度　科技哲学、文化批评与创新形态学维度** 探讨真正的开创性原真创造（Genuine Originality）与工业化/商业化衍生性重组（[[Technological Pastiche]]）之间的本质区隔，揭示消费主义与快节奏商业逻辑对深度创造力的稀释机制。
 
 > [!claim] Karp & Zamiska; Graeber
 > **原真创造力与技术拼贴的[[Ontology|本体论]]分野** 真正的创造力（如 Basquiat 的绘画艺术）表现为打破既有意义框架、直面未知并产出具有独立灵魂的开创性产物；然而在当代以生活方式为主导的科技狂潮中，资本与工程力量日益将创造力退化为“技术拼贴（[[Technological Pastiche]]）”——即对既有成熟组件、现有算法或生活便利设施进行表面化的排列组合与衍生包装（如自动猫砂盆、果汁机、宠物健康项圈）。Graeber (2012) 与 [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] 指出，这种将创造力等同于快速迭代与功能拼凑的倾向，制造了繁荣的创新幻觉，实则掩盖了底层重大构想的枯竭（[[Big Idea Famine]]）。培育真正的创造力，需要超越工具理性与快速套现的束缚，保护直觉、跨界综合以及对根本性重大问题的深度探索。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, pp. 106–107)]]
 
 ---
 
-### 命题六　颠覆性创造力依赖于对群体从众压力的清醒抵抗、认知上的社交失聪以及组织层面的建设性不服从
-
-> [!concept-lens] 认知心理机制与组织微观生态维度
-> 探讨个体如何抵御群体一致性顺从本能与世俗评判，以及创新型工程组织如何制度化包容离经叛道的探索异见。
+> [!concept-proposition] 命题六｜颠覆性创造力依赖于对群体从众压力的清醒抵抗、认知上的[[Social Deafness|社交失聪]]以及组织层面的[[Constructive Disobedience|建设性不服从]]
+> **探讨维度　认知心理机制与组织微观生态维度** 探讨个体如何抵御群体一致性顺从本能与世俗评判，以及创新型工程组织如何制度化包容离经叛道的探索异见。
 
 > [!claim] Karp & Zamiska; Asch; Milgram
 > **反从众抵抗、[[Social Deafness|社交失聪]]与[[Constructive Disobedience|建设性不服从]]对颠覆性创新的保护** 所罗门·阿施线段从众实验（1951）与米尔格拉姆权威服从实验（1961）揭示，人类演化本能天然倾向于屈从群体压力与层级权威，常规[[Bureaucracy|科层制]]组织更是系统性奖励顺从型平庸。然而，开创性创造力必然伴随对既有共识的颠覆与对异类孤独感的承受。卡普与扎米斯卡（2025）指出，真正的科学与工程突破要求个体具备[[Social Deafness|社交失聪]]（Social Deafness）特质——即对外界社交算计、同侪非难与世俗风评保持认知钝感，如同白内障激发了莫奈晚年的抽象表现主义、耳聋促使贝多芬创造全新声响世界一般；同时，卓越的高科技组织必须建立包容[[Constructive Disobedience|建设性不服从]]的微观生态，赋予一线探索者根据实战物理反馈主动修正、抵抗上级平庸指令的自主权，为高风险创造力提供不可或缺的制度庇护。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 136–138)]]
 
 ---
 
-### 命题七　突破性创造力是对既往产物的反叛决裂与无中生有，不受节制的模仿与平庸合群文化构成创造力的致命毒药
-
-> [!concept-lens] 创造[[Epistemology|认识论]]、模仿毒性与创造傲慢维度
-> 探讨人类认知初期必要的模仿本能如何在成熟期转化为扼杀原创的毒素，以及真正颠覆性的从无到有创造为何必须依赖创造性摩擦、反从众狂热与抵抗性共事。
+> [!concept-proposition] 命题七｜突破性创造力是对既往产物的反叛决裂与无中生有，不受节制的模仿与平庸合群文化构成创造力的致命毒药
+> **探讨维度　创造[[Epistemology|认识论]]、模仿毒性与创造傲慢维度** 探讨人类认知初期必要的模仿本能如何在成熟期转化为扼杀原创的毒素，以及真正颠覆性的从无到有创造为何必须依赖创造性摩擦、反从众狂热与抵抗性共事。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]] & [[Nicholas Zamiska|Zamiska, N. W.]]; [[Ralph Waldo Emerson|Emerson, R. W.]]; Kerouac, J.
 > **模仿的创造毒性与从无到有的创造傲慢** 人类最早的学习始于模仿，但在步入成熟创新阶段后，若无法摆脱这一认知幼年期，模仿便会演变为对创造力的致命毒药；硅谷与科技界绝大多数所谓“创新”往往只是对过往验证模式的粗劣复制（Derivative & Retrograde）。真正的突破性创造（无论是白纸上的诗篇、画布上的绘画还是屏幕上的软件代码）本质上是对人类既往所有产物的断然背叛与从无到有（Building from Nothing）的决裂，蕴含着一种坚信人类迄今产物在当前时刻依然不足的“创造傲慢（Hubris of Creation）”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 158)]]
@@ -284,10 +277,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题八　长周期突破性创造力源于审美品味与非委员会决断，自愿自我约束与长程托管是抵御短期主义并实现创造性生产的根本路径
-
-> [!concept-lens] 审美哲学、创新治理机制与自愿自我约束维度
-> 探讨前沿科技与软件构建中审美品味的不可替代性，以及为何自愿限制战术灵活性的“奥德修斯约束”与长程托管是实现长周期创造性生产的根本路径。
+> [!concept-proposition] 命题八｜长周期突破性创造力源于审美品味与非委员会决断，自愿自我约束与长程托管是抵御短期主义并实现创造性生产的根本路径
+> **探讨维度　审美哲学、创新治理机制与自愿自我约束维度** 探讨前沿科技与软件构建中审美品味的不可替代性，以及为何自愿限制战术灵活性的“奥德修斯约束”与长程托管是实现长周期创造性生产的根本路径。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]] & [[Nicholas Zamiska|Zamiska, N. W.]]; Fahlenbrach, R.; Lee, J. M. et al.; Swensen, D.
 > **审美品味与非委员会决断对突破性创造的决定性作用** 软件工程与硬科技构建兼具严密算法与艺术品味，需要对程序架构与工程师性格优劣做出定性裁量。硅谷早期之所以能诞生技术奇迹，根本原因在于它为具备独立审美品味的创始人保留了空间，允许其行使艺术评判权并坚持胜利与失败的[[Grand Theory|宏大叙事]]，而非屈从于平庸合规的委员会协商。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 207–208)]]
@@ -413,12 +404,12 @@ updated: 2026-10-25
 > |  |  | 低 SRL 能力组 |  | k = 25 | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | [0.188, 0.380] | — |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 构念角色互补比较 | 预测变量 | $r$ | E = 84 | <span class="mx-bar ef-bar conv" title="r 0.29 → d ≈ 0.61（d = 2r / √(1 − r²)）"><span class="b12"></span></span>0.29 | [0.18, 0.41] | $F(1, 16.3) = 9.43, p = .007$ |
 > |  |  | 结果变量 |  | E = 80 | <span class="mx-bar ef-bar conv" title="r 0.12 → d ≈ 0.24（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.12 | [0.05, 0.19] | — |
-> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 合作学习教学技术 | CIRC 整合读写 | ES | E = 1 | <span class="mx-bar ef-bar" title="ES 2.04"><span class="b28"></span></span>2.04 | [1.05, 3.03] | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ |
+> | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 合作学习教学技术 | [[Cooperative Integrated Reading and Composition\|CIRC]] 整合读写 | ES | E = 1 | <span class="mx-bar ef-bar" title="ES 2.04"><span class="b28"></span></span>2.04 | [1.05, 3.03] | $Q_b(3) = 9.36, \text{df} = 3, p = .02$ |
 > |  |  | 拼图法 |  | E = 2 | <span class="mx-bar ef-bar" title="ES 1.08"><span class="b22"></span></span>1.08 | [0.50, 1.66] | — |
 > |  |  | 小组调查 |  | E = 6 | <span class="mx-bar ef-bar" title="ES 0.72"><span class="b14"></span></span>0.72 | [0.40, 1.04] | — |
 > |  |  | 综合合作 |  | E = 14 | <span class="mx-bar ef-bar" title="ES 0.61"><span class="b12"></span></span>0.61 | [0.40, 0.81] | — |
 >
-> - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 关联构念** 相关最高；逐组合样本量与 95% CI 未在正文报告，见原图 4；提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关
+> - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 关联构念** 相关最高；逐组合[[Sample Size Determination|样本量]]与 95% CI 未在正文报告，见原图 4；提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关
 > - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 关联构念** 高于全部混合组合，支持表现型测量间存在真实认知重叠
 > - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 关联构念** 混合组合相关居中
 > - **[[Argument_Park_2026_TSC|Park et al. (2026)]] · 关联构念** 混合组合相关最低
@@ -429,7 +420,7 @@ updated: 2026-10-25
 > - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（创造力子构念）** 不良结构情境应对能力提升
 > - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（创造力子构念）** 非认知情绪构念响应相对偏低
 > - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 训练周期** 呈现倒 U 型时间曲线，$< 3$ 年周期不显著（$g = -0.122$）
-> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（干预特征）** 言语符号外化与元认知策略效能最优
+> - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（干预特征）** 言语符号[[Externalization|外化]]与[[Metacognition|元认知]]策略效能最优
 > - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（干预时长）** 呈现显著倒 U 型时间曲线，8–16 周为最优干预窗口，超长周期易诱发[[Cognitive Offloading\|认知外包]]与探索怠惰
 > - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（自主调节学习）** 自我调节构成决定性分水岭，高能动性个体更能突破 AI 算法模板并进行深度创造重组
 > - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（教学模式）** 真实任务驱动的 PBL 更能激发人机协同[[Creative Problem Solving\|创造性问题解决]]潜能

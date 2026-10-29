@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义渐进变迁理论中的四类变革行动者之一，对制度存续持模糊偏好且采取模糊遵从；在弱否决与高裁量权语境下利用规则缝隙重新部署资源以驱动制度转换，在常规政治中因规避风险充当维持现状的惰性盟友，在临界点上通过集体倒戈触发级联变革"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Institutional Displacement]]"
   - "[[Institutional Drift]]"
   - "[[Strategic Compliance]]"
+  - "[[Zone of Discretion]]"
   - "[[Veto Possibilities]]"
   - "[[Paradigm]]"
   - "[[Avatar]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -106,30 +107,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　模糊偏好与规避风险的行为特征构成制度惰性的维持基石
-
-> [!concept-lens] 制度维系与惯性维度
-> 探讨规避风险的理性行动者如何通过日常服从与不作为，为不平等或低效的既有制度提供超常的稳定性支撑。
+> [!concept-proposition] 命题一｜模糊偏好与规避风险的行为特征构成制度惰性的维持基石
+> **探讨维度　制度维系与惯性维度** 探讨规避风险的理性行动者如何通过日常服从与不作为，为不平等或低效的既有制度提供超常的稳定性支撑。
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & Thelen, K. (2009)
 > **风险规避作为制度惰性源泉** 机会主义者对制度没有内在承诺，但由于公然挑战现状需要承担巨大的政治动员成本与惩罚风险，他们理性地选择利用既有体系的既得缝隙谋利，而非冒风险寻求改革。这一规避风险的行为逻辑产生了一个极为关键但常被忽视的宏观系统后果：机会主义者通过其日常服从与不作为，事实上充当了体制既得利益捍卫者的天然盟友。这解释了为何在许多政治体制中，即使对现有制度心怀不满的群体占据多数，打破现状依然比捍卫现状要艰难得多（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 26–27]]）。
 
 ---
 
-### 命题二　弱否决与高裁量权语境筛选出机会主义者作为制度转换的主导力量
-
-> [!concept-lens] 制度变迁与转换维度
-> 阐明特定宏观语境与制度属性如何赋予机会主义者不成比例的行动杠杆，推动既有规则偏离其设计初衷。
+> [!concept-proposition] 命题二｜弱否决与高裁量权语境筛选出机会主义者作为[[Institutional Conversion|制度转换]]的主导力量
+> **探讨维度　制度变迁与转换维度** 阐明特定宏观语境与制度属性如何赋予机会主义者不成比例的行动杠杆，推动既有规则偏离其设计初衷。
 
 > [!claim] Mahoney, J. & Thelen, K. (2009)
-> **裁量空间诱发的借调与转换** 机会主义者在弱[[Veto Possibilities|否决可能性]]与高解释[[Enforcement Discretion|执行裁量权]]的特定制度环境中繁荣生长。在这一语境中，体制挑战者无需诉诸激进的起义策略，因为成文规则与现实执行之间的缝隙足够广阔；同时，体制支持者只要看到挑战者没有公开推翻规章，往往对其在执行端的变通转用睁一只眼闭一只眼。机会主义者正是在此软肋中将现有规则重新部署用于其自身目标，从而在规则形式文本一字未改的情形下，驱动了深刻的[[Institutional Conversion|制度转换]]（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 27–28]]）。
+> **[[Zone of Discretion|裁量空间]]诱发的借调与转换** 机会主义者在弱[[Veto Possibilities|否决可能性]]与高解释[[Enforcement Discretion|执行裁量权]]的特定制度环境中繁荣生长。在这一语境中，体制挑战者无需诉诸激进的起义策略，因为成文规则与现实执行之间的缝隙足够广阔；同时，体制支持者只要看到挑战者没有公开推翻规章，往往对其在执行端的变通转用睁一只眼闭一只眼。机会主义者正是在此软肋中将现有规则重新部署用于其自身目标，从而在规则形式文本一字未改的情形下，驱动了深刻的[[Institutional Conversion|制度转换]]（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 27–28]]）。
 
 ---
 
-### 命题三　关键多数的级联倒戈是起义突破政治僵局的核心动力
-
-> [!concept-lens] 联盟政治与级联动力学维度
-> 揭示中立摇摆群体如何在势均力敌的政治僵局中充当决定性临界力量。
+> [!concept-proposition] 命题三｜关键多数的级联倒戈是起义突破政治僵局的核心动力
+> **探讨维度　联盟政治与级联动力学维度** 揭示中立摇摆群体如何在势均力敌的政治僵局中充当决定性临界力量。
 
 > [!claim] Mahoney, J. & Thelen, K. (2009)
 > **临界规模与偏好逆转级联** 机会主义者在政治联盟博弈中可与任何阵营结盟。[[Insurrectionaries|起义者]]（Insurrectionaries）往往人数较少且处于体制边缘，其抗争成败在根本上取决于能否将机会主义者拉入改革联盟；然而，机会主义者只有在确信变革不可逆转、胜利在望时才会放弃观望立场。一旦起义抗争跨过临界阈值并释放出不可逆信号，原本沉默顺从的机会主义者将集体改变表露偏好迅速倒戈，形成滚雪球般的级联效应（Cascade Effect），彻底瓦解旧秩序（Kuran, 1991; Beissinger, 2002; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 30–31]]）。

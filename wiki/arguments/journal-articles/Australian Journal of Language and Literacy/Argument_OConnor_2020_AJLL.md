@@ -9,7 +9,7 @@ title: "Argument_OConnor_2020_AJLL"
 argument_key: "Argument_OConnor_2020_AJLL"
 argument_display_title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -36,7 +36,9 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Language Experience Approach]]"
+  - "[[Document]]"
   - "[[Socioeconomic Status]]"
+  - "[[Adjunct Aids]]"
   - "[[Positivism]]"
   - "[[Class Size]]"
   - "[[Direct Instruction]]"
@@ -64,7 +66,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-23
+updated: 2026-10-29
 year: 2020
 doi: ""
 citation_aliases:
@@ -142,11 +144,11 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤一：数据输入的分类错误与时代错误
+> [!claim|step] 论证步骤一：数据输入的分类错误与时代错误
 > 哈蒂在计算全语言效应量时，直接引入了将全语言与早期“[[Language Experience Approach\|语言经验法]]”（LEA）混为一谈的元分析，导致底层数据存在严重的分类错误与时代错误。
 
 > [!critique-method] [[Steven Stahl\|斯塔尔]]与米勒的分类混淆 (Stahl & Miller, 1989)
-> 史蒂芬·斯塔尔（Steven Stahl）与戴维·米勒（P. David Miller, 1989）报告全语言对词汇识别 d = 0.17、阅读理解 d = 0.09。然而，为了扩大样本，该研究将 1970 年代才诞生的全语言运动与 1960 年代初的早期“语言经验法”强行合并。[[Steven Stahl\|斯塔尔]]本人在 1994 年的后续元分析中已承认这种做法是“时代错误的” (anachronistic)，并在新研究中剔除了纯语言经验法的文献。但哈蒂在 15 年后出版《VL》时，依然对此分类漏洞未加任何纠正与说明。
+> 史蒂芬·斯塔尔（Steven Stahl）与戴维·米勒（P. David Miller, 1989）报告全语言对词汇识别 d = 0.17、阅读理解 d = 0.09。然而，为了扩大样本，该研究将 1970 年代才诞生的全语言运动与 1960 年代初的早期“语言经验法”强行合并。[[Steven Stahl\|斯塔尔]]本人在 1994 年的后续元分析中已承认这种做法是“时代错误的” (anachronistic)，并在新研究中剔除了纯语言经验法的[[Document|文献]]。但哈蒂在 15 年后出版《VL》时，依然对此分类漏洞未加任何纠正与说明。
 
 > [!case] Case 1: Brazziel and Terrell (1962) [[Behaviorism|行为主义]]“假全语言”研究
 > 该研究仅针对田纳西州 26 名低收入非裔一年级学生，其实验干预是为期 6 周的“家长-教师合作”，并让儿童阅读传统的“阅读准备教材” (readiness readers) 以训练感知、词汇和服从指令。
@@ -157,7 +159,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤二：对负面结果的非批判性接受与偏见忽视
+> [!claim|step] 论证步骤二：对负面结果的非批判性接受与偏见忽视
 > 哈蒂在面对报告全语言产生极度负面效应（d = -0.65）的元分析时，完全放弃了方法论审查与学术警惕，选择性忽略了其中的计算错误以及作者强烈的右翼宗教政治偏见。
 
 > [!critique-data] 极端负面离群值与克拉申的数据重算 (Jeynes & Littell, 2000)
@@ -166,7 +168,7 @@ citation_aliases:
 > - D. 卡林（D. Carline）与 J. 霍夫曼（J. Hoffman, 1976）从 **-0.23** 应修正为 **+0.68**；
 > - P. 兰姆（P. Lamb, 1972）从 **-0.75** 应修正为 **+0.44**；
 > - A. J. 哈里斯（A. J. Harris）与 B. L. 塞瓦（B. L. Serwer, 1966）从 **-0.51** 应修正为 **+0.18**。
-> - 曼宁等（Manning et al., 1989）从 **1.21** 修正为 **1.97** (p.39)。
+> - 曼宁等（Manning et al., 1989）从 **1.21** 修正为 **1.97**。
 > 哈蒂对这些发表在核心期刊上的重大数据计算错误未做任何核实与提及。
 
 > [!case] Dahl and Freppon (1994) 的纯全语言正面发现
@@ -182,7 +184,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤三：对正面结果的选择性修正与定义裁剪
+> [!claim|step] 论证步骤三：对正面结果的选择性修正与定义裁剪
 > 哈蒂在处理显示全语言具有显著正面效应（d = 0.65）的元分析时，采用了截然不同的严苛标准，以“混入拼读”为由，人为删除其中表现突出的原始研究，强行将该元分析的效应量归零。
 
 > [!critique-logic] 哈蒂对全语言定义的概念曲解与双重标准
@@ -190,7 +192,7 @@ citation_aliases:
 > 然而，全语言理论家早就明确，全语言坚决反对的是**脱离文学情境的机械切片拼读训练**，但并不排斥在真实的阅读与写作过程中，自然、流动地讲授音形解码技能。哈蒂强加的孤立定义是对全语言哲学本质的扭曲。
 
 > [!case] Case 3: 披拉·特拉赫滕贝格（Pila Trachtenburg）与安·费鲁贾（Ann Ferruggia, 1989）的“大书共享阅读”（d = 1.7）
-> 该研究属于被哈蒂删除的正面研究之一。其设计是针对高风险初学者进行的“大书共享阅读经验”，让学生在故事大书情境下每天自主挑选一个单词进行音形分析，并使用儿童自己口头复述的文本作为辅助材料进行音形对应训练。这完全符合全语言“在真实语境中流动技能”的哲学，但被哈蒂以“使用了单词表和解码技术”为由粗暴删除，以消除全语言的正面证据。
+> 该研究属于被哈蒂删除的正面研究之一。其设计是针对高风险初学者进行的“大书共享阅读经验”，让学生在故事大书情境下每天自主挑选一个单词进行音形分析，并使用儿童自己口头复述的文本作为[[Adjunct Aids|辅助材料]]进行音形对应训练。这完全符合全语言“在真实语境中流动技能”的哲学，但被哈蒂以“使用了单词表和解码技术”为由粗暴删除，以消除全语言的正面证据。
 
 > [!warning] 全书唯一的“特殊待遇”
 > 在《VL》收录的 800 多项元分析中，**唯有** Gee (1995) 这一项（发现全语言有正面影响 of 元分析）被哈蒂通过选择性删除子研究进行了人工效应量修正。学术审查的双重标准和对正面研究的“精确手术”直接证明了其数据剪裁的预设立场。
@@ -200,7 +202,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤四：数据对“故事”的屈从与教育新自由主义治理
+> [!claim|step] 论证步骤四：数据对“故事”的屈从与教育新自由主义治理
 > 哈蒂以“故事优先于数据”的解释学辩护，背叛了元分析作为客观统计替代方案和叙述性讨论的学术初衷；同时，这一伪科学结论被新自由主义下的技术官僚所利用，绑架了学校的一线教学实践。
 
 > [!critique-logic] “故事”对“数据”的凌驾与统计承诺的背叛

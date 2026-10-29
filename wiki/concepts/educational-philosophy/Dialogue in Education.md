@@ -8,10 +8,10 @@ aliases:
 summary: "教育哲学与教学法中的核心中介，通过师生与生生间平等的经验共享、批判性质询与共同探究，克服单向灌输并促进批判性思维与意识觉醒"
 type: concept
 domain: "educational-philosophy"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - field/educational-philosophy
   - field/critical-pedagogy
@@ -28,11 +28,13 @@ related_concepts:
   - "[[Individualised Instruction]]"
   - "[[Socratic Dialogue]]"
   - "[[Operationalization]]"
+  - "[[Document]]"
   - "[[Reciprocal Peer Questioning]]"
   - "[[Classroom Debate]]"
   - "[[Definition of Terms]]"
   - "[[Problem-Posing Education]]"
   - "[[Heterogeneity]]"
+  - "[[Variable]]"
   - "[[Critical Pedagogy]]"
   - "[[Cognitive Source]]"
 related_theories: []
@@ -56,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -98,7 +100,7 @@ updated: 2026-10-25
 > [!ref-table]- 教育对话 11 项可观察具体技术与实证索引
 > <span class="concept-dialogue-strategy-table-marker" aria-hidden="true"></span>
 >
-> | 策略大类 | 编号与具体技术 | [[Operationalization\|操作化]]定义与教学特征 | 证据规模 $k$ | 效应量 $g+$ (95% CI) | 关联条目 / 代表文献 |
+> | 策略大类 | 编号与具体技术 | [[Operationalization\|操作化]]定义与教学特征 | 证据规模 $k$ | 效应量 $g+$ (95% CI) | 关联条目 / 代表[[Document\|文献]] |
 > |---|---|---|---|---|---|
 > | **教师引导类** | 2.1 教师针对性启发提问<br>（Teacher posing questions） | 教师使用高阶探究性提问激活学生深层思考与理由阐明 | $k = 19$ | $0.38$ $[0.21, 0.56]$ | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
 > | | 2.3 教师个别化指导对话<br>（Dyad with teacher） | 师生一对一深度交流，针对学生认知障碍提供精准脚手架 | $k = 2$ | $0.43$ $[-0.17, 1.04]$ | 同上 |
@@ -118,18 +120,14 @@ updated: 2026-10-25
 
 ## 围绕概念形成的命题
 
-### 命题一　结构化对话是促进批判性思维技能发展的核心教学机制
-
-> [!concept-lens] 认知与互动机制
-> 探讨师生与生生研讨如何从社会建构层面激发深层反思与理由权衡。
+> [!concept-proposition] 命题一｜结构化对话是促进[[Critical Thinking|批判性思维]]技能发展的核心教学机制
+> **探讨维度　认知与互动机制** 探讨师生与生生研讨如何从社会建构层面激发深层反思与理由权衡。
 
 > [!claim] Abrami, P. C., et al.
 > **对话研讨对思维技能的显著促进** [[Meta-analysis\|元分析]]证据显示，教学中融入对话（Dialogue）对通用[[Critical Thinking\|批判性思维]]技能具有显著正向促进效应（$g+ = 0.32, p < .001$），显著优于无对话或对照组教学（$Q_b = 4.53, p = .03$）。在具体对话形态中，教师主导的全班研讨（$g+ = 0.42$）、教师主导的小组研讨（$g+ = 0.41$）与教师针对性提问（$g+ = 0.38$）均表现出最高[[Effect Size\|效应量]]，表明教师在对话中扮演的脚手架与问题推进角色至关重要。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 293–295)]]
 
-### 命题二　对话的促学效果受制于结构化规则与支架支持
-
-> [!concept-lens] 组织与引导边界
-> 探讨自由放任讨论与结构化对话之间的效果差异。
+> [!concept-proposition] 命题二｜对话的促学效果受制于结构化规则与支架支持
+> **探讨维度　组织与引导边界** 探讨自由放任讨论与结构化对话之间的效果差异。
 
 > [!claim] Abrami, P. C., et al.; King, A.
 > **支架与规则决胜于放任漫谈** 实证数据表明，缺乏教师介入且无结构化支架的全班/结对漫谈效应极低（$g+ = 0.04–0.19$）；相反，当引入提问句干支架（学生提问 $g+ = 0.37$）、辩论规则约束（$g+ = 0.32$）或[[Socratic Dialogue\|苏格拉底对话]]质询流程（$g+ = 0.27$）时，同伴互动的认知增益显著提升，证明对话必须依托明确的[[Scaffolding\|认知脚手架]]才能避免流于表层。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]
@@ -148,7 +146,7 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 教师主导对话 | 教师全班讨论 | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.42"><span class="b8"></span></span>0.42 | [0.20, 0.64] | 均 $p < .001$ 显著大于 0 |
 > |  |  | 教师小组讨论 |  | k = 14 | <span class="mx-bar ef-bar" title="Hedges' g 0.41"><span class="b8"></span></span>0.41 | [0.19, 0.63] | — |

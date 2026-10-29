@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -111,21 +111,21 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　跨国量化测试与政策立即可用性追求是导致社会科学深陷历史健忘症的体制性根源
+> [!concept-proposition] 命题一｜跨国量化测试与政策立即可用性追求是导致社会科学深陷历史健忘症的体制性根源
 
 > [!claim] 命题核心主张
 > 二战后比较教育学为了迎合政府机构与多边国际组织（如[[World Bank|世界银行]]、[[OECD]]）对短平快政策方案的急迫需求，大规模引入跨国标准化测试（如[[IEA]]、[[PISA]]）与计量回归分析；这种[[Policy Brokerage|政策中介]]取向将学术合法性完全绑定在即时因果预测上，直接导致耗时耗力、难以直接转化为操作性工具的长时段历史研究遭遇系统性挤压与淘汰。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 145–149, 155–156)]]
 
 ---
 
-### 命题二　硅谷对底层公共研发投资的历史健忘是其陷入技术不可知论与逃避防卫义务的观念庇护所
+> [!concept-proposition] 命题二｜硅谷对底层公共研发投资的历史健忘是其陷入[[Technological Agnosticism|技术不可知论]]与逃避防卫义务的观念庇护所
 
 > [!claim] 命题核心主张
 > [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]指出，当代硅谷软件巨头在面对国家集体防务需求时普遍表现出道德疏离与责任逃避（如抵制[[Project Maven|梅文项目]]）。这种行为的理论温床正是一种系统性的历史健忘症：科技精英集体抹杀了冷战时期美国军方与 [[DARPA]] 在资助底层计算架构、算法与微电子突破中的决定性作用，构建了自身自足创新的虚假神话，从而在享受国家安全庇护的同时自诩为超越国家责任的“[[Cosmopolitanism|世界主义]]无国界公民”。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75)]]
 
 ---
 
-### 命题三　克服历史健忘症的根本出路在于恢复历史批判意识与重建政产协同的公共契约
+> [!concept-proposition] 命题三｜克服历史健忘症的根本出路在于恢复历史批判意识与重建政产协同的公共契约
 
 > [!claim] 命题核心主张
 > 走出历史健忘症，要求在学术研究中确立历史学与经验社会科学的理性综合纲领（通过探索性[[Working Hypothesis|工作假说]]恢复长时段解释力）；在产业政策与国家治理中，则要求正视国家在激进创新中的引领者角色（Mazzucato, 2013），打破自由放任神话，重构科技共同体与国家战略目标深度绑定的[[Technological Republic|技术共和国]]公私契约。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 74–75, 81–82)]]

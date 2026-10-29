@@ -9,7 +9,7 @@ aliases:
 summary: "立足教师专业实践特征与复杂知识库的研究使用新范式，强调将研究证据视为与经验、情境及专业规范动态整合的多元资源之一，确立教师的专业能动性"
 type: concept
 domain: "teacher-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Phronesis]]"
   - "[[Research Literacy]]"
+  - "[[Document]]"
   - "[[Rich and Thick Description]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Implementation Fidelity]]"
@@ -47,7 +48,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -105,20 +106,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　专业敏感型框架将研究证据定位于异质知识库中的协商资源，揭示知识整合过程在应对具体实践问题时的内在张力
-
-> [!concept-lens] 多源[[Knowledge Integration\|知识整合]]与实践权衡
-> 阐明教师如何基于多元的知识基础运用外部科研成果，将研究重心从评价教师个人能力转向理解真实教学中的知识整合需求。
+> [!concept-proposition] 命题一｜专业敏感型框架将研究证据定位于异质知识库中的协商资源，揭示[[Knowledge Integration|知识整合]]过程在应对具体实践问题时的内在张力
+> **探讨维度　多源[[Knowledge Integration\|知识整合]]与实践权衡** 阐明教师如何基于多元的知识基础运用外部科研成果，将研究重心从评价教师个人能力转向理解真实教学中的知识整合需求。
 
 > [!claim] [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]
 > **多源知识协同中的实践张力** 教师的日常教学决策从来不是简单套用单篇论文结论，而是必须在学科知识、时间限制、学生临场反应与科研结论之间进行复杂的权衡与转化；专业敏感型框架指出，外部科研结论在进入课堂时必然面临情境适配的局限，教师对研究的处理不是被动吸收，而是对不同知识适用边界的主动权衡与审慎重构。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, p. 8)]]
 
 ---
 
-### 命题二　专业规范与伦理价值在研究使用中发挥根本性调节作用，未直接使用研究往往反映了合理的情境化价值审慎
-
-> [!concept-lens] 育人伦理与情境化价值把关
-> 考察专业伦理在教师决定是否使用某项研究时的把关作用，破除把不直接套用论文简单等同于观念落后的成见。
+> [!concept-proposition] 命题二｜专业规范与伦理价值在[[Research Utilization|研究使用]]中发挥根本性调节作用，未直接使用研究往往反映了合理的情境化价值审慎
+> **探讨维度　育人伦理与情境化价值把关** 考察专业伦理在教师决定是否使用某项研究时的把关作用，破除把不直接套用论文简单等同于观念落后的成见。
 
 > [!claim] [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]
 > **价值冲突与专业适切性考量** 教师的教学行为深受育人责任的驱动；当某篇科研论文推荐的高效方案（如过度追求短期测验分数的机械训练）与教师对学生身心健康、全面发展的教育信念相冲突时，教师会基于专业伦理主动调整或搁置该方案。这种在有效性（what works）与适切性（what is appropriate）之间的深思熟虑，恰恰是教师专业成熟的体现，必须作为理解[[Research Utilization\|研究使用]]行为的核心[[Variable\|变量]]。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, p. 8)]]
@@ -147,7 +144,7 @@ updated: 2026-10-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议学术文献（1996–2024 年） | [[Critical Review\|批判性综述]]＋系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程 | 证据形态与微观观察缺失比例 | 24 项实证研究中[[Questionnaire\|问卷]]自陈调查 13 项（54%），微观课堂决策观察仅 3 项（12.5%） | — | 凸显既有实证缺乏微观知识整合与互动数据，支撑了转向专业敏感型质性[[Rich and Thick Description\|深描]]的必要性 |
+> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议学术[[Document\|文献]]（1996–2024 年） | [[Critical Review\|批判性综述]]＋系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程 | 证据形态与微观观察缺失比例 | 24 项实证研究中[[Questionnaire\|问卷]]自陈调查 13 项（54%），微观课堂决策观察仅 3 项（12.5%） | — | 凸显既有实证缺乏微观知识整合与互动数据，支撑了转向专业敏感型质性[[Rich and Thick Description\|深描]]的必要性 |
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 同上 | 同上 | 教师[[Research Utilization\|研究使用]]态度与实际行为比较 | [[Survey Research\|调查研究]]普遍报告教师高度认可研究价值，但实际日常教学使用率持续处于极低水平 | — | 证明非使用往往源自情境复杂性与[[Knowledge Integration\|知识整合]]难度，而非教师主观抵触 |
 
 ---

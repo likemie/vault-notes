@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-23
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -119,20 +119,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　效标关联效度的统计有效性严格受制于效标本身的无偏性与测量信度
-
-> [!concept-lens] 效标质量的制约机制
-> 探讨外部效标自身的缺陷如何系统性扭曲效标关联效度的统计推论。
+> [!concept-proposition] 命题一｜效标关联效度的统计有效性严格受制于效标本身的无偏性与测量[[Reliability|信度]]
+> **探讨维度　效标质量的制约机制** 探讨外部效标自身的缺陷如何系统性扭曲效标关联效度的统计推论。
 
 > [!claim] Wolf (1994); [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]
 > **效标测量困境与效标污染** 效标效度面临的最大挑战在于选择合适的效标指标。若效标本身存在不[[Reliability\|可靠性]]或受到外部混杂因素污染（如 [[Academic Achievement\|GPA]] 包含教师打分主观性），即使新工具具有极高的测验品质，计算出的相关系数也会虚假低落，造成“以弯曲的尺子衡量工具”的统计误导。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, p. 225)]]
 
 ---
 
-### 命题二　效标定义的多元性与效标缺失导致复杂特质作为效标时效应量离散且偏低
-
-> [!concept-lens] [[Criterion Problem\|效标问题]]（The Criterion Problem）与[[Variable\|变量]]角色不对称性
-> 探讨复杂心理特质（如[[Creativity\|创造力]]）在作为[[Dependent Variable\|效标变量]]时为何展现出显著低于作为[[Independent Variable\|预测变量]]时的[[Effect Size\|效应量]]与高[[Heterogeneity\|异质性]]。
+> [!concept-proposition] 命题二｜效标定义的多元性与效标缺失导致复杂特质作为效标时[[Effect Size|效应量]]离散且偏低
+> **探讨维度　[[Criterion Problem\|效标问题]]（The Criterion Problem）与[[Variable\|变量]]角色不对称性** 探讨复杂心理特质（如[[Creativity\|创造力]]）在作为[[Dependent Variable\|效标变量]]时为何展现出显著低于作为[[Independent Variable\|预测变量]]时的[[Effect Size\|效应量]]与高[[Heterogeneity\|异质性]]。
 
 > [!claim] Shapiro (1970); [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]
 > **效标问题与效标角色不对称性** 在心理测量中，缺乏统一公认的单一客观效标被称为“效标问题（The Criterion Problem）”。[[Meta-meta-analysis\|二阶元分析]]证实，当创造力作为预测源去预测外部明确效标时，效应量达到 $r = 0.29$；而当创造力自身作为效标结果时，由于各一阶研究在[[Operationalization\|操作化]]定义上的巨大分歧（[[Divergent Thinking\|发散思维]] vs 产品评定 vs 自陈成就），关联系数显著降至 $r = 0.12$（$F(1, 16.3) = 9.43, p = .007$），实证证实了效标界定多元性对效标关联强度的抑制机制。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]

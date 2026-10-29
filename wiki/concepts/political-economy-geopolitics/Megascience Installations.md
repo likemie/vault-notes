@@ -27,9 +27,9 @@ related_concepts:
   - "[[Pilot Scale Platform]]"
   - "[[Geopolitics]]"
   - "[[Valley of Death]]"
+  - "[[Paradigm]]"
   - "[[Science Programs]]"
   - "[[South-South Cooperation]]"
-  - "[[Paradigm]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Return on Investment]]"
   - "[[Heterogeneous Integration]]"
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -111,28 +111,28 @@ updated: 2026-10-25
 
 ---
 
-### 命题一 国际联合共建范式是化解大科学装置极端财务与技术风险的经典治理模型
+> [!concept-proposition] 命题一｜国际联合共建[[Paradigm|范式]]是化解大科学装置极端财务与技术风险的经典治理模型
 
 > [!claim] 跨国多边共建实现财政风险对冲与全球智力聚合
 > 由于前沿大科学装置在工程技术与财政预算上面临极端双重不确定性，国际主流实践普遍确立了多国联合出资的治理模型。单边承担超级对撞机往往因预算超支而面临被叫停的政治风险（如 1993 年美国国会叫停超导超级对撞机 SSC 项目）；深度参与跨国共建（如 CERN、ITER）能够有效降低单边财政合规风险，并最大化吸收全球顶级物理学人才。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, p. 48)]]
 
 ---
 
-### 命题二 地缘脱钩驱动的本土独资大科学装置建设面临严峻的预算挤出与科研孤立风险
+> [!concept-proposition] 命题二｜地缘脱钩驱动的本土独资大科学装置建设面临严峻的预算挤出与科研孤立风险
 
 > [!claim] 追求绝对技术自主的单边战略伴随沉重溢价
 > 在地缘政治限制与技术封锁导向下，采取单边自足策略建设本土大科学装置（如俄罗斯近年建设的系列大[[Science Programs|科学项目]]），虽然能够锁定设施的所有权与使用控制权，但在国家总体科技预算体量有限的情形下，极易对其他基础学科经费造成严重挤出，且面临缺少国际学术要素流动的孤岛化挑战。[[Argument_Dezhina_2022_ECO|(Dezhina & Egerev, 2022, pp. 47–49)]]
 
 ---
 
-### 命题三 大科学设施向产业初创开放并建设中试平台是跨越深科技“死亡之谷”的决定路径
+> [!concept-proposition] 命题三｜大科学设施向产业初创开放并建设中试平台是跨越深科技“死亡之谷”的决定路径
 
 > [!claim] 用户设施从学术象牙塔向国家共性产业基座转型
 > 传统大科学装置以纯学术论文评审作为机时分配的唯一依据，阻断了产业创新者的准入。重构用户准入标准、向硬科技初创企业开放同步辐射与中子散射机时，并配套共享洁净室与 GMP 级中试制造线，能够将原型验证周期从数年压缩至数周，以极低的边际成本盘活国家巨额基建投资。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40–41)]]
 
 ---
 
-### 命题四 大科学用户设施网络与微纳制造基础设施构成后摩尔前沿研究的物理底座
+> [!concept-proposition] 命题四｜大科学用户设施网络与微纳制造基础设施构成后摩尔前沿研究的物理底座
 
 > [!claim] [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
 > **跨部门大科学装置网络协同与普惠式中试准入** 国家科学技术委员会（National Science and Technology Council, NSTC）在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》第二目标（Goal 2, 2.1 节）中明确指出，后摩尔时代半导体底层材料物理探索与先进封装验证高度依赖极端物理表征手段与昂贵微纳洁净室。战略提出全面统筹联邦科研基础设施：依托国家科学基金会（National Science Foundation, NSF）资助的[[National Nanotechnology Coordinated Infrastructure|国家纳米技术协调基础设施]]（National Nanotechnology Coordinated Infrastructure, NNCI）全美 16 个站点与 2000 余台尖端机台，以及能源部（Department of Energy, DOE）所属国家实验室的 28 个世界级大科学用户设施（如同步辐射光源、散裂中子源、超算中心与纳米相材料中心），向高校学者与初创企业开放原子级三维原位缺陷表征、晶格应变分析与多物理场仿真；同时与商务部[[National Semiconductor Technology Center|国家半导体技术中心]]（National Semiconductor Technology Center, NSTC）300mm 先进晶圆基线与[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（[[National Advanced Packaging Manufacturing Program|NAPMP]]）中试线打通，形成从基础材料表征到工业级原型放大的全国重大基础设施互联网络，彻底消除前沿研究的重资产准入门槛。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–23, 38)]]

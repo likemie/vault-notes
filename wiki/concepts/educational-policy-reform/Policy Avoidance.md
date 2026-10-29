@@ -22,10 +22,10 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Shape-Shifting]]"
   - "[[Performance Pay]]"
+  - "[[Media Logic]]"
   - "[[Central Phenomenon]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Evidence-Based Education]]"
-  - "[[Media Logic]]"
   - "[[Falling Standards Template]]"
   - "[[Mediatised Governance]]"
   - "[[Dialogue in Education]]"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -93,20 +93,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　政策规避机制使得缺乏实证支持的激进争议政策在舆论真空中获得默认通过
-
-> [!concept-lens] 媒体沉默对行政专断的合法化护航
-> 探讨大众传媒在面对权力[[Discourse|话语]]时，如何通过对方案细节的集体回避，反向赋权执政精英强推争议性法案。
+> [!concept-proposition] 命题一｜政策规避机制使得缺乏实证支持的激进争议政策在舆论真空中获得默认通过
+> **探讨维度　媒体沉默对行政专断的合法化护航** 探讨大众传媒在面对权力[[Discourse|话语]]时，如何通过对方案细节的集体回避，反向赋权执政精英强推争议性法案。
 
 > [!claim] Grey & Morris
 > **默认许可与争议政策通关** 在英国 2013 年应对 [[PISA]] 的过程中，教育大臣[[Michael Gove\|戈夫]]借危机宣布了包括强制学院化、[[Performance Pay\|绩效工资]]制在内的五大改革支柱；主流媒体在接下来的报道周期中，几乎没有任何一家对这些支柱是否具有实证支持展开追查，也没有揭露其政策取向与 [[OECD]] 倡导建议之间的南辕北辙；媒体的政策规避使得这一套原本在教育界饱受争议的新自由主义重组方案，在公众舆论中如同未经审议的既成事实一般顺利确立。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 124–125)]]
 
 ---
 
-### 命题二　媒介逻辑的技术门槛与发稿时效诱发媒体对复杂政策因果链的结构性逃避
-
-> [!concept-lens] 新闻生产约束对公共审议深度的制度性侵蚀
-> 探讨教育政策本身的跨学科复杂性如何与快节奏新闻业产生结构性错配，迫使记者放弃对政策[[Chain of Evidence\|证据链]]的深度核查。
+> [!concept-proposition] 命题二｜[[Media Logic|媒介逻辑]]的技术门槛与发稿时效诱发媒体对复杂政策因果链的结构性逃避
+> **探讨维度　新闻生产约束对公共审议深度的制度性侵蚀** 探讨教育政策本身的跨学科复杂性如何与快节奏新闻业产生结构性错配，迫使记者放弃对政策[[Chain of Evidence\|证据链]]的深度核查。
 
 > [!claim] Grey & Morris
 > **生产约束与通稿依赖** 审查复杂教育政策（如绩效工资的微观[[Effect Size\|效应量]]、学院化对弱势生的长期排斥）需要扎实的政策社会学素养与耗时费力的数据核查；而在现代快节奏的新闻室中，记者面临即时发稿的巨大压力，天然偏向于直接照搬政客提供的新闻通稿与富有煽动性的现成引语，从而使“政策规避”成为新闻业应对认知超载与时间赤字的制度性本能。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 124–126)]]

@@ -39,8 +39,8 @@ related_theories:
   - "[[Historical Institutionalism]]"
 related_methods: []
 related_persons:
-  - "[[Walter J. M. Kickert]]"
   - "[[Rainer Kattel]]"
+  - "[[Walter J. M. Kickert]]"
 related_facts:
   - "[[Higher Education Autonomy and Quality]]"
   - "[[Higher Education Act of 1965]]"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -132,10 +132,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　深层社会宗派分化通过顶层精英卡特尔协商与比例制均摊维系动态稳态
-
-> [!concept-lens] 协商民主[[Theoretical Perspective|理论视角]]下的政治稳态维持
-> 探讨面对深层宗教与意识形态撕裂的社会，国家如何在缺乏单一同质文化认同的条件下，依托制度化的精英合作避免政权崩溃。
+> [!concept-proposition] 命题一｜深层社会宗派分化通过顶层精英[[Rainer Kattel|卡特尔]]协商与比例制均摊维系动态稳态
+> **探讨维度　协商民主[[Theoretical Perspective|理论视角]]下的政治稳态维持** 探讨面对深层宗教与意识形态撕裂的社会，国家如何在缺乏单一同质文化认同的条件下，依托制度化的精英合作避免政权崩溃。
 
 > [!claim] Lijphart, A. (1968); [[Walter J. M. Kickert|Kickert, W. J. M.]]
 > **精英[[Rainer Kattel|卡特尔]]合作对纵向社会撕裂的制度缝合断言** 阿伦·利普哈特（Arend Lijphart）在 1968 年提出“协商民主”（Consociational Democracy）理论，瓦尔特·基克特（[[Walter J. M. Kickert]]）进一步将其置于公共治理实践中审视：
@@ -144,10 +142,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　宪法教育自由与 100% 财政完全均等必然诱发补偿性过度规制与行政锁死
-
-> [!concept-lens] 宪法均等诉求与细密微观规制的结构性因果链
-> 探讨国家如何在保障私立宗派办学绝对自主的同时，为了防范国家偏私与滥用公帑，被动铸造出反噬自治的[[Red Tape|繁文缛节]]网络。
+> [!concept-proposition] 命题二｜宪法教育自由与 100% 财政完全均等必然诱发补偿性过度规制与行政锁死
+> **探讨维度　宪法均等诉求与细密微观规制的结构性因果链** 探讨国家如何在保障私立宗派办学绝对自主的同时，为了防范国家偏私与滥用公帑，被动铸造出反噬自治的[[Red Tape|繁文缛节]]网络。
 
 > [!claim] [[Walter J. M. Kickert|Kickert, W. J. M.]]
 > **过度规制作为顶层权力均等化协议的制度副产物断言** 瓦尔特·基克特（[[Walter J. M. Kickert]]）论证指出，荷兰教育领域中尾大不掉的[[Red Tape|官僚繁文缛节]]与过度规制（Overregulation），绝非官僚人员的无能或寻租，而是 1917 年宪政妥协的必然产物：
@@ -156,10 +152,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题三　柱状互保结构将教育系统异化为抵御外部劳动力市场的封闭“教育省”
-
-> [!concept-lens] 组织社会学视角下的子系统封闭性与制度防御
-> 阐释由宗派精英、教师协会与咨询委员会构成的[[Neocorporatism|法团主义]]网络，如何将教育治理演变为自我指涉、排斥外部经济诉求的防御堡垒。
+> [!concept-proposition] 命题三｜柱状互保结构将教育系统异化为抵御外部劳动力市场的封闭“教育省”
+> **探讨维度　组织社会学视角下的子系统封闭性与制度防御** 阐释由宗派精英、教师协会与咨询委员会构成的[[Neocorporatism|法团主义]]网络，如何将教育治理演变为自我指涉、排斥外部经济诉求的防御堡垒。
 
 > [!claim] Van Doorn, J. A. A. (1978); [[Walter J. M. Kickert|Kickert, W. J. M.]]
 > **教育省对工商业界诉求的结构性排斥断言** 瓦尔特·基克特（[[Walter J. M. Kickert]]）结合社会学家范多恩的制度分析指出，柱状化体制将荷兰教育塑造成了一个高度自我保护的封闭堡垒：
@@ -168,10 +162,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题四　大众化财政紧缩与世俗化退潮驱动跨宗派大兼并与“负责任社会”解柱转型
-
-> [!concept-lens] 外部环境变迁与[[Historical Institutionalism|历史制度主义]]的解柱化（Depillarization）路径
-> 探讨当传统宗教信仰在社会基层消退且国家面临严重财政危机时，柱体化体制如何通过制度重组与简政放权实现去柱状化转型。
+> [!concept-proposition] 命题四｜大众化财政紧缩与世俗化退潮驱动跨宗派大兼并与“负责任社会”解柱转型
+> **探讨维度　外部环境变迁与[[Historical Institutionalism|历史制度主义]]的解柱化（Depillarization）路径** 探讨当传统宗教信仰在社会基层消退且国家面临严重财政危机时，柱体化体制如何通过制度重组与简政放权实现去柱状化转型。
 
 > [!claim] [[Walter J. M. Kickert|Kickert, W. J. M.]]
 > **危机倒逼下专业逻辑对宗派藩篱的破除断言** 瓦尔特·基克特（[[Walter J. M. Kickert]]）指出，柱状化并非永恒不变的制度铁律，20 世纪 80 年代荷兰通过两大动力实现了历史性的去柱状化破局：

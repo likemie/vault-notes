@@ -88,7 +88,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -159,10 +159,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　RPP 是克服知识生产方式与使用脱节的参与式学术制度载体
-
-> [!concept-lens] [[Knowledge Production\|知识生产]][[Paradigm\|范式]]转型
-> 传统线性[[Knowledge Transfer\|知识转移]]假定学者生产“纯粹知识”再推向实践界，导致严重的理论与实践割裂。RPP 通过将知识生产重心转移到研究者与实践者的协作交汇点，从[[Epistemology\|认识论]]与制度根源上确立了[[Engaged Scholarship\|参与式学术]]的正当性。
+> [!concept-proposition] 命题一｜RPP 是克服[[Knowledge Production|知识生产]]方式与使用脱节的[[Engaged Scholarship|参与式学术]]制度载体
+> **探讨维度　[[Knowledge Production\|知识生产]][[Paradigm\|范式]]转型** 传统线性[[Knowledge Transfer\|知识转移]]假定学者生产“纯粹知识”再推向实践界，导致严重的理论与实践割裂。RPP 通过将知识生产重心转移到研究者与实践者的协作交汇点，从[[Epistemology\|认识论]]与制度根源上确立了[[Engaged Scholarship\|参与式学术]]的正当性。
 
 > [!claim] Van de Ven and Johnson (2006)
 > **理论实践鸿沟的知识生产根源** 理论与实践脱节的本质不是信息未能传达的转移问题，也不是认识论无法[[Commensuration\|通约]]的分割问题，而是知识生产方式本身的问题。学者与实践者作为拥有不同专长的共同探究主体，通过“参与式学术”（Engaged Scholarship）在 RPP 框架下协同开展研究，能够从源头上打破象牙塔与实践现场的制度壁垒，确保知识兼具理论深度与实践关涉度。（Van de Ven & Johnson, 2006；引于 [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 19]]）
@@ -172,10 +170,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　知识共创面临现场关涉度与方法学严谨性的深层治理张力
-
-> [!concept-lens] 严谨性与本土适切性的权衡
-> 协同研究虽然确保了[[Research Question\|研究问题]]紧贴学校实际，但也极易引发学术界对研究方法规范、数据可[[Reliability\|信度]]及外在普适性的质疑。
+> [!concept-proposition] 命题二｜[[Knowledge Co-production|知识共创]]面临现场关涉度与方法学严谨性的深层治理张力
+> **探讨维度　严谨性与本土适切性的权衡** 协同研究虽然确保了[[Research Question\|研究问题]]紧贴学校实际，但也极易引发学术界对研究方法规范、数据可[[Reliability\|信度]]及外在普适性的质疑。
 
 > [!claim] Cooper et al. (2017)
 > **实践者时间与外部支持匮乏限制深化共创** 一线教师在应对繁重日常教学任务的同时参与研究，面临严重的时间贫乏与方法学支撑不足。若缺乏学区和工会的制度化松绑与资源补偿，教师往往倾向于依赖同伴口耳相传的感性经验，难以维持严谨、深度的共同探究过程。（Cooper et al., 2017；引于 [[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 130]]；[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 22]]）
@@ -185,10 +181,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题三　大学科研评价与晋升体制对学者深度投入 RPP 构成结构性抑制
-
-> [!concept-lens] 学术激励机制错位
-> 尽管各国政府日益要求科研体现“社会影响力”，但高等教育内部的同行评议、期刊发表与职称晋升体系仍对应用型合作研究存在显著歧视。
+> [!concept-proposition] 命题三｜大学科研评价与晋升体制对学者深度投入 RPP 构成结构性抑制
+> **探讨维度　学术激励机制错位** 尽管各国政府日益要求科研体现“社会影响力”，但高等教育内部的同行评议、期刊发表与职称晋升体系仍对应用型合作研究存在显著歧视。
 
 > [!claim] Cherney et al. (2012)
 > **学术激励机制与跨界参与的制度错位** 尽管英国科研卓越框架（REF）与澳大利亚同类评估强化了对社会影响力的考核，大学内部的晋升与资源分配仍牢牢受制于高影响因子学术期刊发表。参与 RPP 需要耗费大量时间建立跨界人际信任、打磨通俗转译产品或提供一线培训，这些实质性付出在学术同行评价体系中几乎得不到认可，直接抑制了科研人员长期参与 RPP 的制度意愿。（Cherney et al., 2012；引于 [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 22]]）

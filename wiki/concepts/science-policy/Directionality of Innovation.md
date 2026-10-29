@@ -9,7 +9,7 @@ aliases:
 summary: "指创新活动不仅具有研发投入与扩散速率等数量维度，更具有明确的规范性社会目标与价值取向；公共政策的核心使命在于通过战略引导、规制重构、需求侧牵引与市场塑造，主动克服方向性失灵并引领技术轨道朝向绿色、包容、安全与可持续转型。"
 type: concept
 domain: "science-policy"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Paradigm]]"
   - "[[Emergence]]"
+  - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Complexity Paradox]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -133,40 +134,32 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　创新政策的规范性转向要求国家从修复市场失灵转向克服方向性失灵
-
-> [!concept-lens] 政策正当性基础维度
-> 探讨创新政策干预依据如何从新古典福利经济学向演化制度主义演进。
+> [!concept-proposition] 命题一｜创新政策的规范性转向要求国家从修复[[Market Failure|市场失灵]]转向克服方向性失灵
+> **探讨维度　政策正当性基础维度** 探讨创新政策干预依据如何从新古典福利经济学向演化制度主义演进。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **方向性失灵超越[[Market Failure|市场失灵]]** 传统福利经济学的市场失灵理论能够识别研发投入不足等静态问题，却无法指引能够产生最高社会收益的技术领域；面对不可逆转的气候生态与社会危机，创新政策必须确立方向性，通过克服[[Systems of Innovation|创新系统]]缺乏共同愿景和战略路线图的方向性失灵，为企业和社会的探索活动划定转型航标。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
 
 ---
 
-### 命题二　方向性的有效维系依赖于广泛的分布式主体参与和民主审议
-
-> [!concept-lens] 政治合法性与治理结构维度
-> 探讨创新方向的确定如何防范自上而下的官僚专断与利益集团俘获。
+> [!concept-proposition] 命题二｜方向性的有效维系依赖于广泛的[[Distributed Agency|分布式主体]]参与和民主审议
+> **探讨维度　政治合法性与治理结构维度** 探讨创新方向的确定如何防范自上而下的官僚专断与利益集团俘获。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **[[Distributed Agency|分布式主体]]共塑创新航向** 新一代创新政策的方向性不是封闭科层精英的暗箱决断，而是建立在包含多边国际组织、大型慈善基金会、草根社会运动与广大公众在内的分布式主体（Distributed Agency）网络之上；唯有通过广泛的社会互动与民主审议，创新使命才能获得深厚的政治合法性与社会韧性。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789, 795–796)]]
 
 ---
 
-### 命题三　创新的价值需要审慎的公共评估以防范商业利润俘获
-
-> [!concept-lens] 经济社会学与政治经济学维度
-> 审视创新成果与社会整体福祉之间的非对称关系。
+> [!concept-proposition] 命题三｜创新的价值需要审慎的公共评估以防范商业利润俘获
+> **探讨维度　经济社会学与政治经济学维度** 审视创新成果与社会整体福祉之间的非对称关系。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **警惕技术演进的利益偏离** 创新的社会价值不能被先验地预设为必然增进全社会福利；正如约翰·肯尼思·加尔布雷思（John Kenneth Galbraith, 1973）所指出的，缺乏公共战略引导的市场探索极易被短期商业利润与特定垄断利益所俘获，导致研发资源过度集中于边际性商业优化，而深层社会转型议题长期得不到响应。因此，国家必须依托[[Lead-and-Learn Paradigm|引领与学习范式]]与[[Public Dynamic Capabilities|公共部门动态能力]]，对创新方向进行长期的[[Reflexivity|反思性]]评估与动态修正。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788, 797–798)]]
 
 ---
 
-### 命题四　技术安全化将国家生存与供应链主权上升为创新的最高方向性使命
-
-> [!concept-lens] 地缘科技政治与国家安全使命维度
-> 探讨当代创新方向性如何从和平时期的绿色与社会包容转型，扩展至关乎国家技术主权与战略生存的核心产业攻关。
+> [!concept-proposition] 命题四｜[[Securitization of Technology|技术安全化]]将国家生存与供应链主权上升为创新的最高方向性使命
+> **探讨维度　地缘科技政治与国家安全使命维度** 探讨当代创新方向性如何从和平时期的绿色与社会包容转型，扩展至关乎国家技术主权与战略生存的核心产业攻关。
 
 > [!claim] [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]]; [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
 > **安全化重塑国家创新方向性逻辑** 卓泽林与樊春良的研究表明，在[[Geopolitics|地缘政治]]竞争加剧与全球供应链脱钩背景下，创新的方向性超越了传统的新自由主义中立市场逻辑，甚至在传统绿色转型之外被赋予了更为紧迫的“国家技术安全与主权控制”属性。国家通过《[[CHIPS and Science Act|芯片法案]]》等重大战略立法明确锁定了先进制程制造回流、开源标准控制与工程人才储备等方向性目标，驱动[[Research Universities|研究型大学]]与工业界从自发分散探索转向高度组织化的战略使命攻关，重塑了科学与国家之间的底层社会契约。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–25)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 20–22)]]
@@ -216,7 +209,7 @@ updated: 2026-10-22
 > [!ref-table]- 关键实证案例与政策指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究文献 | 观察情境与样本 | 方向性干预领域 | 政策工具与投入规模 | 核心成效与制度发现 |
+> | 研究[[Document\|文献]] | 观察情境与样本 | 方向性干预领域 | 政策工具与投入规模 | 核心成效与制度发现 |
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | 美国《[[CHIPS and Science Act\|芯片与科学法案]]》与微电子体系重构（2020–2026） | 先进制程本土回流、开源标准掌控与微电子工程人才梯队 | 授权 2000 亿美元研发支出与 527 亿美元直接制造资助，启动 [[Joint University Microelectronics Program 2.0\|JUMP 2.0]] 跨校攻坚 | 促成[[Taiwan Semiconductor Manufacturing Corporation\|台积电]]、英特尔等 24 家企业集聚凤凰城；JUMP 2.0 动员 14 所顶尖大学协同攻坚异构集成，系统验证了国家安全作为创新方向性牵引的巨大动员效能 |
 > | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | 欧盟微电子与通信技术重大项目（[[Important Projects of Common European Interest\|IPCEI ME/CT]]） | 绿色低碳转型与微电子核心元器件自主可控 | 动员 14 个成员国，撬动 81 亿欧元公共补贴与 137 亿欧元私人配套投资 | 组建 180 项跨国攻关合作，将超国家战略方向具体落实为泛欧协同研发网络 |

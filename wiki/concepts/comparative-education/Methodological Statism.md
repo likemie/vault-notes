@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -91,10 +91,8 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　坚持方法论国家主义会使学者陷入国家行政层面的“表象研究”，遮蔽了真正重塑教育版图的全球分散式“远处治理”网络
-
-> [!concept-lens] 治理转向与去国家化
-> 这一命题探讨为何传统的国家政策[[Analytic Framework\|分析框架]]在解释全球化改革时失效。
+> [!concept-proposition] 命题一｜坚持方法论国家主义会使学者陷入国家行政层面的“表象研究”，遮蔽了真正重塑教育版图的全球分散式“[[Governing at a Distance|远处治理]]”网络
+> **探讨维度　治理转向与去国家化** 这一命题探讨为何传统的国家政策[[Analytic Framework\|分析框架]]在解释全球化改革时失效。
 
 > [!claim] [[Roger Dale|Dale, R.]] & Robertson, S.
 > **多边主义与去中心治理的崛起** 指出，在跨国资本主义和全球化背景下，教育政策的制定权正在经历“向上让渡”（至超国家组织）与“向下扩散”（至地方和市场主体）。如果研究者依然固守方法论国家主义，仅仅在“国家教育部做出了什么决定”的层面开展比较，就无法看清诸如 [[OECD]] 等机构通过 benchmarking 数据行使的 **[[Governing at a Distance\|远处治理]]**。这不仅是一种学术上的[[Epistemology\|认识论]]落后，更在客观上配合了新自由主义[[Geopolitics|地缘政治]]将实质性治理冲突“技术化”和“去政治化”的策略。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])

@@ -34,6 +34,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Document]]"
   - "[[Academic Achievement]]"
   - "[[Concept Mapping]]"
   - "[[Independent Variable]]"
@@ -83,14 +84,14 @@ related_arguments:
   - "[[Argument_Qvortrup_2015_Paideia]]"
 status: completed
 created: '2026-05-03'
-updated: 2026-10-23
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Rømer_2018_EPT"
 argument_key: "Argument_Rømer_2018_EPT"
 argument_display_title: "A critique of John Hattie's theory of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 57
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -153,10 +154,10 @@ journal: Educational Philosophy and Theory
 
 ---
 
-> [!claim] 论证步骤一　评价逻辑消解教育传统与学科内容
+> [!claim|step] 论证步骤一　评价逻辑消解教育传统与学科内容
 > 可见学习根本上是一套简化版评价理论对教育概念的殖民与吞噬；它将教育活动化约为可测量的干预与效果，导致传承两百年的欧陆教化概念与规范性教育学整体退场。
 
-#### 1. 评价范式将教育简化为干预目标审查
+> [!sub-claim] 1. 评价[[Paradigm|范式]]将教育简化为干预目标审查
 
 [[John Hattie|哈蒂]]将评价界定为对给定干预政策或项目目标达成程度的回溯性调查，这一设定要求目标、干预和评估必须割裂为互不交互的孤立实体。
 
@@ -176,12 +177,12 @@ journal: Educational Philosophy and Theory
 评价语言对细微教学关系的深度侵入，在可见学习的文本架构与学术修辞中留下了鲜明的制度性痕迹。
 
 > [!feature] 评价霸权在理论文本中的典型表现
-> - **奠基文献的领域偏向** 哈蒂开篇核心引证几乎全部来自评价理论学者（如 Biggs、Walberg、Glass、Bloom、Cronbach、Scriven），缺乏系统性的教学论与教育哲学文献支撑。
+> - **奠基[[Document|文献]]的领域偏向** 哈蒂开篇核心引证几乎全部来自评价理论学者（如 Biggs、Walberg、Glass、Bloom、Cronbach、Scriven），缺乏系统性的教学论与教育哲学文献支撑。
 > - **核心座右铭的技术化定调** 了解自身影响（Know thy impact）将教学转译为数据驱动的统计效应检验，宣称教师应当成为自身教学效果的学习者，直接置换了教育学的问题意识。
 > - **学科内容与精神的退场** 哈蒂虽提及教师应热爱所教学科，但在后续论述中完全蒸发，教师的专业热爱被替换为对提升效应量数值的亢奋激情。
 > - **对规范性教育哲学的轻慢排除** [[Gert Biesta|格特·比斯塔]]（[[Gert Biesta]]）追问教育效率应当服务于何种教育期望，哈蒂仅用四行文字回应称[[Academic Achievement|学业成就]]正是核心期望所在，甚至将 Biesta 误称为女性代词 she，折射出评价范式对规范性质询的拒斥。
 
-#### 2. 原子化指标推崇瓦解整体教育实践
+> [!sub-claim] 2. 原子化指标推崇瓦解整体教育实践
 
 评价理论对教育学的取代遵循着一套内在的概念解构逻辑。
 
@@ -202,10 +203,10 @@ journal: Educational Philosophy and Theory
 
 ---
 
-> [!claim] 论证步骤二　因变量操作化脱节构建封闭自循环体系
+> [!claim|step] 论证步骤二　因变量[[Operationalization|操作化]]脱节构建封闭自循环体系
 > 哈蒂作为[[Meta-analysis|元分析]]核心[[Dependent Variable|因变量]]的学业成就缺乏概念清晰度，其在不同层级学习定义与六万项经验研究的多元测量之间存在无法弥合的[[Operationalization|操作化]]断裂，最终通过自变量与因变量的循环互证构筑起与真实世界脱节的[[Research Cage|研究牢笼]]（research cage）。
 
-#### 1. 学习层级划分脱离经验测量
+> [!sub-claim] 1. 学习层级划分脱离经验测量
 
 哈蒂在理论层面区分了后[[Jean Piaget|皮亚杰]]传统中的不同学习层级，但未能提供操作化支撑。
 
@@ -228,7 +229,7 @@ journal: Educational Philosophy and Theory
 >
 >   克沃特鲁普主张哈蒂元分析已取代传统人文学科教育学，并预言未来元分析本身也将被原始数据库取代；这呈现出一条文化衰退轨迹：人文学科 ➔ 元评价统计 ➔ 原始数据归档，使教育研究沦为数字技术的附庸。
 
-#### 2. 变量循环定义导致系统脱离真实教育世界
+> [!sub-claim] 2. 变量循环定义导致系统脱离真实教育世界
 
 评价理论对学习概念的压缩，最终导致因果因变量体系瓦解。
 
@@ -249,10 +250,10 @@ journal: Educational Philosophy and Theory
 
 ---
 
-> [!claim] 论证步骤三　激进建构主义诱发教学双重瓦解
+> [!claim|step] 论证步骤三　激进建构主义诱发教学双重瓦解
 > 哈蒂在底层全面接纳了[[Radical Constructivism|激进建构主义]]的唯我论学习观，并在取消教师文化权威的废墟上强行嫁接教师中心，制造出教师钻入学生心智内部调控参数的双重无教师结构，在根本上背离了西方教育思想传统。
 
-#### 1. 虚假教师中心演变为内部认知监控
+> [!sub-claim] 1. 虚假教师中心演变为内部认知监控
 
 哈蒂宣称当教师通过学生的眼睛看学习，且学生将自己视为自己的教师时，教学效果达到最大化。
 
@@ -270,7 +271,7 @@ journal: Educational Philosophy and Theory
 > - **第一重瓦解：文化权威中介的丧失** 接受激进建构主义对传统教学论的批判，彻底否定教师作为人类客观学科传统（世界三）与学生相遇的中介人角色，斩断教育走向外部世界的通道。
 > - **第二重瓦解：技术化监控机器的异化** 在消解教师之后试图重塑教师主导，但此种主导异化为教师钻入学生脑海、监控其认知参数的技术操作，脱离了启蒙文化真理的职能，使教师与学生同时沦为评价系统的执行终端。
 
-#### 2. 贬斥被动性与想象力背离西方教化传统
+> [!sub-claim] 2. 贬斥被动性与想象力背离西方教化传统
 
 哈蒂对被动性表现出近乎绝对的偏见与排斥。
 
@@ -287,10 +288,10 @@ journal: Educational Philosophy and Theory
 
 ---
 
-> [!claim] 论证步骤四　逆向反馈催生自下而上的数据集权网络
+> [!claim|step] 论证步骤四　逆向反馈催生自下而上的数据集权网络
 > 哈蒂将反馈概念抽空为不具哲学反思性的技术工具，并通过强调从学生流向教师的归纳反馈，将教师异化为自身教学效果的学徒，进而构筑起由下至上收集数据、自上而下实施集权问责的全国性监控有机体。
 
-#### 1. 归纳反馈将教师异化为教学效果的学徒
+> [!sub-claim] 1. 归纳反馈将教师异化为教学效果的学徒
 
 反馈在可见学习中拥有高达 $d = 0.73$ 的卓越效应，但其哲学内涵却被彻底掏空。
 
@@ -307,7 +308,7 @@ journal: Educational Philosophy and Theory
 > 1. **演绎维度：目标行为的刚性规训** 依据操作化目标架构规约学生行为，剥夺任何教学性敞开的可能，强迫学生在自评与自省中固化为孤立的自调节单元（参见哈蒂 2009 年全页反馈流程图，p. 176）。
 > 2. **归纳维度：教学效果的逆向数据捕获** 收集学生大脑内部的细微反应与指标数据，使教师据此更精细地调整技术干预，完成对教师角色的效果异化。
 
-#### 2. 逐级数据上收形成全景敞视治理架构
+> [!sub-claim] 2. 逐级数据上收形成[[Panopticism|全景敞视]]治理架构
 
 反馈由教学沟通异化为数据索取后，其内置的政治集权化效应随即显现。
 
@@ -322,10 +323,10 @@ journal: Educational Philosophy and Theory
 
 ---
 
-> [!claim] 论证步骤五　误读波普尔导致客观思想世界向主观认知塌缩
+> [!claim|step] 论证步骤五　误读波普尔导致客观思想世界向主观认知塌缩
 > 哈蒂借用[[Karl Popper|卡尔·波普尔]]的[[Popper's Three Worlds Theory|三世界理论]]构建其学习分层，不仅继承了贝雷特对文化世界的化简，更进一步抹杀了客观知识世界（世界三）的独立本体地位，将其完全塌缩为主观心理（世界二）与脑神经生理（世界一），走向了科学实在论的精准反面。
 
-#### 1. 经由贝雷特中介将文化客体化简为科学真假命题
+> [!sub-claim] 1. 经由贝雷特中介将文化客体化简为科学真假命题
 
 波普尔的三个世界涵盖物理世界（世界一）、主观经验世界（世界二）以及由科学理论、书籍与艺术杰作等经典对象构成的思想内容世界（世界三）。
 
@@ -343,7 +344,7 @@ journal: Educational Philosophy and Theory
 > - **封面意象的生理主义还原** 哈蒂与耶茨（2013）《[[Visible Learning|可见的学习]]与学习科学》封面赫然绘制了十六个内部装有测量仪表的脑袋；这一形象不仅脱离了世界三的客观实在性，更直接从世界二（心理）滑向世界一（脑神经机制）。
 > - **批判性理性词汇的空心化包装** 哈蒂借用波普尔关于批判、猜想、实验与[[Falsification|证伪]]等实在论词汇，却将其包装为追求 $d > 0.40$ 的认知教学技术，彻底扭曲了波普尔哲学的原意。
 
-#### 2. 实在论词汇被盗用为激进唯我论的伪装
+> [!sub-claim] 2. 实在论词汇被盗用为激进唯我论的伪装
 
 通过偷换波普尔的[[Central Phenomenon|核心范畴]]，可见学习制造了当代教育哲学中最显著的认识论悖论。
 

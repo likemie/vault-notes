@@ -57,7 +57,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-25
+updated: 2026-10-29
 title: Demand-side Innovation Policy
 aliases:
   - 需求侧创新政策
@@ -121,20 +121,16 @@ aliases:
 
 ---
 
-### 命题一　政府采购合同在产业萌芽期发挥着类似创新竞赛奖金与先导用户的强激励机制
-
-> [!concept-lens] 需求创造与进入门槛降低
-> 探讨公共采购如何通过保障高溢价初期市场与技术择优发包，激励新创企业开展激进研发投资并打破既有巨头垄断。
+> [!concept-proposition] 命题一｜政府采购合同在产业萌芽期发挥着类似创新竞赛奖金与先导用户的强激励机制
+> **探讨维度　需求创造与进入门槛降低** 探讨公共采购如何通过保障高溢价初期市场与技术择优发包，激励新创企业开展激进研发投资并打破既有巨头垄断。
 
 > [!claim] [[David C. Mowery|Mowery, D. C.]]; [[Argument_Schnee_1978_RP|Schnee (1978)]]
 > **采购规模预期对企业自主研发的诱发效应与[[Learning Economy|学习经济]]释放** [[David C. Mowery|大卫·莫厄里]]（David C. Mowery）与[[Jerome E. Schnee|杰罗姆·E·施尼]]（Jerome E. Schnee）指出，战后美国军方与空间部门对高性能半导体和计算机的大规模采购合同，其实质功能类似于高额创新竞赛奖金（Prize）与早期市场托底兜底。德州仪器（Texas Instruments）与[[Fairchild Semiconductor|仙童半导体]]等新创企业正是受到 100% 首发采购前景的激励，主动投入企业自有资金攻克硅晶体管与集成电路（Integrated Circuit, IC）工艺；此外，军方按技术性能指标而非企业规模发包的策略，结合第二货源（[[Second-Sourcing]]）要求，直接降低了行业准入门槛，释放了每累计倍增产量成本下降 20%–30% 的[[Learning Economy|学习经济]]效应，催生了高度竞争的商用芯片市场。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 163–168, 185)]]; [[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 7–9)]]
 
 ---
 
-### 命题二　随着民用商业市场规模扩张，政府采购对技术演进轨迹的引导效力存在递减边界
-
-> [!concept-lens] 军民需求分流与采购规制失灵
-> 探讨当民用市场技术生态成熟并占据主导时，需求侧政府采购为何难以继续单向锁定全行业技术[[Paradigm|范式]]。
+> [!concept-proposition] 命题二｜随着民用商业市场规模扩张，政府采购对技术演进轨迹的引导效力存在递减边界
+> **探讨维度　军民需求分流与采购规制失灵** 探讨当民用市场技术生态成熟并占据主导时，需求侧政府采购为何难以继续单向锁定全行业技术[[Paradigm|范式]]。
 
 > [!claim] Mowery, D. C.
 > **通用商业生态对单一公共采购偏好的脱嵌** 莫厄里通过对比早期通用编程语言 COBOL 与 1980 年代军用 Ada 语言的命运指出，在软件产业早期，军方与商业需求高度重合，国防采购极大加速了 COBOL 的普及；但到 1980 年代商用软件已形成庞大生态与多样化需求，国防部强推 Ada 语言试图统一军民软件标准的努力彻底失败。这表明需求侧政府采购的塑造效力具有严格的生命周期阶段性，一旦民用市场实现自生扩散，公共采购即无法强行扭转[[Technological Trajectories|技术轨道]]。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 180–182, 185–186)]]

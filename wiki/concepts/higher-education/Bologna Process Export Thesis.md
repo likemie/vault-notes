@@ -8,7 +8,7 @@ aliases:
 summary: "欧洲高等教育研究与早期比较区域主义中的理论假说，假定欧洲博洛尼亚进程是全球高等教育政策协调的先导范式与模仿样板，其他区域的一体化动力源于对欧洲经验的单向外生扩散；该假说因忽视非欧区域自主合作历史、官方明确抵制与主权防卫诉求而受到实证证伪"
 type: concept
 domain: "higher-education"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,8 +31,8 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[ASEAN Way]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Global Regionalisms]]"
   - "[[State Educational Sovereignty]]"
+  - "[[Global Regionalisms]]"
 related_theories:
   - "[[Comparative Regionalism]]"
 related_methods:
@@ -42,6 +42,8 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Bologna Process]]"
+  - "[[ASEAN Credit Transfer System]]"
+  - "[[SEAMEO]]"
   - "[[SEAMEO RIHED]]"
   - "[[ASEAN University Network]]"
   - "[[ASEAN]]"
@@ -67,7 +69,7 @@ updated: 2026-10-29
 > [!citation-card] 关键表述：对博洛尼亚输出假说的界定与实证驳斥
 > 在高等教育领域，“博洛尼亚进程输出假说”做出如下预设：欧洲的制度发展激发了其他地区对区域维度的政治兴趣，博洛尼亚进程因而成为该区域高等教育政策合作的唯一样板。我们认为这种扩散论断具有显著的欧洲中心主义倾向，机械地假定扩散是单向且全能的，从而遮蔽了各区域具有本土特性的内生演进机制。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 144)]]
 >
-> *In the higher education sector, the 'Bologna Process export thesis' postulates the following: developments in Europe triggered political interests elsewhere in the regional dimension, ergo the Bologna Process acts as a model for that region’s higher education policy cooperation (Huisman, Adelman, Hsieh, Shams, & Wilkins, 2012; Vögtle & Martens, 2014). We see this diffusion argument as too Eurocentric and simplistic in the way it assumes that diffusion is unidirectional and all-powerful, and it overlooks endogenous regional developments as symbolic of that region’s particularities and its preferred ways of doing things.*
+> *In the higher education sector, the 'Bologna Process export thesis' postulates the following: developments in Europe triggered political interests elsewhere in the regional dimension, ergo the Bologna Process [[ASEAN Credit Transfer System|acts]] as a model for that region’s higher education policy cooperation (Huisman, Adelman, Hsieh, Shams, & Wilkins, 2012; Vögtle & Martens, 2014). We see this diffusion argument as too Eurocentric and simplistic in the way it assumes that diffusion is unidirectional and all-powerful, and it overlooks endogenous regional developments as symbolic of that region’s particularities and its preferred ways of doing things.*
 
 > [!boundary]- 概念边界
 > - **区分于 政策借鉴（[[Policy Borrowing]]）** 政策借鉴强调主权国家或本土组织根据自身治理需求开展[[Active Learning|主动学习]]与改造选择；博洛尼亚进程输出假说则预设了从欧洲核心向边缘被动复制的单向扩散[[Determinism|决定论]]。
@@ -88,7 +90,7 @@ updated: 2026-10-29
 
 > [!feature] 核心要素
 > - **单向扩散论偏见（Unidirectional Diffusion Bias）** 预设欧洲经验具有天然的技术优越性与普遍适用性，将其他区域的制度变迁简化为对布鲁塞尔或博洛尼亚的依附性模仿。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 144)]]
-> - **历史时序误置（Temporal Misattribution）** 忽视非欧区域自主合作的内生时间线；例如东南亚在 1965 年成立 SEAMEO、1970 年创建 [[SEAMEO RIHED|RIHED]] 及 1992 年组建 [[ASEAN University Network|AUN]]，其高教多边合作历史显著早于 1999 年博洛尼亚进程。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]
+> - **历史时序误置（Temporal Misattribution）** 忽视非欧区域自主合作的内生时间线；例如东南亚在 1965 年成立 [[SEAMEO]]、1970 年创建 [[SEAMEO RIHED|RIHED]] 及 1992 年组建 [[ASEAN University Network|AUN]]，其高教多边合作历史显著早于 1999 年博洛尼亚进程。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]
 > - **官方意志的明确抵制（Explicit Official Rejection）** 漠视受援区域官方报告中的主权防卫声明；[[SEAMEO RIHED|东南亚教育部长组织高教中心]]在 2008 年《高教一体化》官方测绘报告中明确指出，鉴于亚洲各国的疑虑，必须明确避免采用博洛尼亚模式。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]
 > - **组织治理逻辑的[[Incommensurability|不可通约性]]（Incommensurable Governance Logic）** 忽视不同区域深层治理哲学的[[Heterogeneity|异质性]]；东南亚依托[[ASEAN Way|东盟方式]]建立松散分工网络以防范超国家集权，与欧洲依托软法协调推动实质趋同的治理逻辑截然不同。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–155)]]
 
@@ -113,20 +115,16 @@ updated: 2026-10-29
 
 ---
 
-### 命题一　跨区域政策制度形式的表面相似性无法充当证实政策单向扩散的充分机制
-
-> [!concept-lens] 形式重合与机制归因的方法论陷阱
-> 批判[[Comparative Regionalism|比较区域主义]]中将指标体系、流动项目或认证指南的形式类似简单归结为欧洲扩散的推论缺陷。
+> [!concept-proposition] 命题一｜跨区域政策制度形式的表面相似性无法充当证实政策单向扩散的充分机制
+> **探讨维度　形式重合与机制归因的方法论陷阱** 批判[[Comparative Regionalism|比较区域主义]]中将指标体系、流动项目或认证指南的形式类似简单归结为欧洲扩散的推论缺陷。
 
 > [!claim] Chou, M.-H. and Ravinet, P.
 > **相似性不等于扩散机制** 周孟娴与宝琳·拉维内（Meng-Hsuan Chou & Pauline Ravinet）指出，欧洲高等教育研究与新比较区域主义学者在观察非欧洲区域的资格框架或质量保障机制时，往往草率将其判定为[[Bologna Process|博洛尼亚进程]]的输出产物。实证田野揭示，跨区域制度表象的相似性不能回答深层因果动力；东南亚引入跨国流动与学分折算主要是为了应对[[ASEAN|东盟]]经济共同体（AEC 2015）建设倒逼，以及满足本国高校在全球[[Knowledge-Based Economy|知识经济]]中的声誉诉求，属于内生驱动与跨国工具挑选，单向扩散论在方法论上犯了以结果倒推意图的假性因果错误。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153, 156)]]
 
 ---
 
-### 命题二　后发区域通过主动划定组织分工防范制度套用以维系国家教育主权
-
-> [!concept-lens] 组织分立作为抵御超国家治理规训的主权防卫屏障
-> 揭示非西方区域如何通过维系多元机构分工，主动化解来自欧洲超国家模板的一体化规训压力。
+> [!concept-proposition] 命题二｜后发区域通过主动划定组织分工防范制度套用以维系[[State Educational Sovereignty|国家教育主权]]
+> **探讨维度　组织分立作为抵御超国家治理规训的主权防卫屏障** 揭示非西方区域如何通过维系多元机构分工，主动化解来自欧洲超国家模板的一体化规训压力。
 
 > [!claim] Chou, M.-H. and Ravinet, P.
 > **双轨分工防范超国家模板移植** 周孟娴与宝琳·拉维内通过对东南亚政策制定者的[[In-depth Interview|深度访谈]]揭示，东南亚高教政策界在探索建立[[Southeast Asian Higher Education Common Space|东南亚高等教育共同空间]]时，清醒认识到全面套用欧洲博洛尼亚模式可能导致超国家机构侵蚀本国教育决策权。为此，东南亚国家依托[[ASEAN Way|东盟方式]]，刻意维持了[[ASEAN University Network|东盟大学联盟]]（负责高校间自愿协作）与[[SEAMEO RIHED|东南亚教育部长组织高教中心]]（负责政府间多边对话）平行并立的二元组织分工，从制度架构上彻底阻隔了决策权向单一超国家集权实体集中的可能，实现了对博洛尼亚输出模板的主动规避与主权防卫。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 152–154)]]
@@ -143,7 +141,7 @@ updated: 2026-10-29
 
 > [!dev-timeline]- 博洛尼亚输出假说的形成与实证争鸣
 > - **2006–2008 — 欧洲学界提出外部维度与样板输出论** 帕维尔·兹加加（Zgaga, 2006）系统探讨博洛尼亚进程的“外部维度”；学界陆续出现将博洛尼亚视作全球区域高教合作通用模板（Template/Model）的政策输出[[Document|文献]]。
-> - **2008 — 东南亚官方报告公开发出规避警告** 东南亚教育部长组织高教中心（SEAMEO RIHED）发布《高教一体化》专题报告，明确提醒成员国对博洛尼亚全面模式保持警惕与防备，驳斥了机械移植建议。
+> - **2008 — 东南亚官方报告公开发出规避警告** 东南亚教育部长组织高教中心（[[SEAMEO]] RIHED）发布《高教一体化》专题报告，明确提醒成员国对博洛尼亚全面模式保持警惕与防备，驳斥了机械移植建议。
 > - **2012–2014 — 扩散假说的理论化主张** 部分欧美学者（如 Huisman et al., 2012; Vögtle & Martens, 2014）将博洛尼亚的全球辐射正式概括为具有示范引领作用的输出假说。
 > - **2017 — 跨区域田野证据对假说的系统[[Falsification|证伪]]** 周孟娴与拉维内发表跨案例深度[[Qualitative Research|质性研究]]，依据历史时序、官方文献拒斥及组织分工[[Heterogeneity|异质性]]，宣告博洛尼亚进程输出假说无法解释东南亚高教合作的真实逻辑。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 143–144, 153–156)]]
 

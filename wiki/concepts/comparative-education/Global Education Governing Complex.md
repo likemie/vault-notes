@@ -6,7 +6,7 @@ aliases:
 summary: "Christian Ydesen (2019) 提出的概念，指由五大政府间组织、主权国家、跨国企业与私人慈善基金会构成的治理网络，通过标准化与可量化知识施展硬事实软权力。"
 type: concept
 domain: "comparative-education"
-related_count: 36
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,7 +23,9 @@ related_concepts:
   - "[[Global Education Industry]]"
   - "[[New Public Management]]"
   - "[[Public-Private Partnership]]"
+  - "[[Discourse]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Naming and Shaming in Education Governance]]"
   - "[[Revoicing]]"
   - "[[Return on Investment]]"
   - "[[Governing by Numbers]]"
@@ -31,6 +33,7 @@ related_concepts:
   - "[[Transfer Space]]"
   - "[[Policy Borrowing]]"
   - "[[Methodological Transnationalism]]"
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Performance Indicators]]"
 related_theories:
@@ -60,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -128,30 +131,24 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　非教育专门机构依靠外延性使命话语重构了全球教育治理格局
-
-> [!concept-lens] 机构跨界与使命扩张
-> 探讨原本服务于经济与地缘协调的国际组织如何成功确立在教育政策领域的权威统治地位。
+> [!concept-proposition] 命题一｜非教育专门机构依靠外延性使命[[Discourse|话语]]重构了全球教育治理格局
+> **探讨维度　机构跨界与使命扩张** 探讨原本服务于经济与地缘协调的国际组织如何成功确立在教育政策领域的权威统治地位。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]
 > **教育从专门领域向综合治理工具的异化** 自 20 世纪 60 年代末以来，大量原本并无教育政策法定授权的国际组织相继在其政策组合中开辟教育板块；这些机构通过将教育锚定于经济增长、和平稳定、可持续发展或全球[[Knowledge-Based Economy\|知识经济]]等工具性使命，成功为自身介入教育事务赋予正当性，最终导致以经济合作为导向的机构占据了全球教育治理中枢的主导权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 544)]]
 
 ---
 
-### 命题二　全球治理复合体依靠指标武器化维系远距离跨国规制
-
-> [!concept-lens] 量化工具与软性问责
-> 分析复合体如何在缺乏强制制裁权的情境下，通过数据技术维持对主权国家的有效调控。
+> [!concept-proposition] 命题二｜全球治理复合体依靠指标武器化维系远距离跨国规制
+> **探讨维度　量化工具与软性问责** 分析复合体如何在缺乏强制制裁权的情境下，通过数据技术维持对主权国家的有效调控。
 
 > [!claim] Ydesen (2019); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]
-> **硬事实充当跨国规制的强制性替代物** 全球教育治理复合体的权力运作高度依赖对量化、标准化与可比较知识的技术垄断；通过大型国际评估（如[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA））与基准数据库，复合体将去情境化的表现指标转化为问责杠杆，诱发国际排名与“点名羞辱”（naming and shaming）机制，从而在国家主权边界内部驱动政策重构。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 539, 549)]]
+> **硬事实充当跨国规制的强制性替代物** 全球教育治理复合体的权力运作高度依赖对量化、标准化与可比较知识的技术垄断；通过大型国际评估（如[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA））与基准数据库，复合体将去情境化的表现指标转化为问责杠杆，诱发国际排名与“[[Naming and Shaming in Education Governance|点名羞辱]]”（naming and shaming）机制，从而在国家主权边界内部驱动政策重构。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 539, 549)]]
 
 ---
 
-### 命题三　跨国治理复合体在多边协同修辞掩护下演化出排他性权力同盟与利基割据
-
-> [!concept-lens] 组织利基与战略割据
-> 剖析国际组织在表面多边协作修辞下如何通过组建排他性联盟争夺全球规制领导权。
+> [!concept-proposition] 命题三｜跨国治理复合体在多边协同修辞掩护下演化出排他性权力同盟与利基割据
+> **探讨维度　组织利基与战略割据** 剖析国际组织在表面多边协作修辞下如何通过组建排他性联盟争夺全球规制领导权。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]
 > **公开平台协作与私下排他联盟的双重结构** 复合体内部各大组织在公开报告中普遍使用高度趋同的中介修辞（如强调推进[[UN Sustainable Development Goals\|可持续发展目标]]、提炼政策洞见），并在数字平台上提供开放数据与研讨资源；然而在争夺核心规制主导权与外部资助时，各大机构表现出强烈的排他性割据倾向——[[World Bank\|世界银行]]联合美英援助机构成立[[Building Evidence in Education\|构建教育证据联盟]]（BE2），[[UNESCO\|联合国教科文组织]]与[[UNICEF\|儿童基金会]]则另立[[Learning Data Compact\|学习数据协定]]，彼此在组织利基上形成严密防范与正面竞争。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 545–546)]]
@@ -182,7 +179,7 @@ updated: 2026-10-26
 > > 争论全球治理复合体是否具有不可阻挡的同质化效力，抑或受制于本土政治过滤。
 > >
 > > - **全球[[Convergence Theory in Comparative Education\|趋同论]]** 强调复合体通过全球目标、排名压力与跨国[[Policy Borrowing\|政策借用]]制造了强大的趋同重力，削弱了主权国家教育体系的本土自主性。
-> > - **[[Methodological Transnationalism\|方法论跨国主义]]论** 指出全球与国家并非外在对立，主权国家在[[Transfer Space\|转移空间]]中策略性动员外部权威以打破国内政治僵局，但在法定行政决策出台阶段实施极其严苛的政治筛选（如挪威实证所示文献损耗率达 95%）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 546–548)]]
+> > - **[[Methodological Transnationalism\|方法论跨国主义]]论** 指出全球与国家并非外在对立，主权国家在[[Transfer Space\|转移空间]]中策略性动员外部权威以打破国内政治僵局，但在法定行政决策出台阶段实施极其严苛的政治筛选（如挪威实证所示[[Document|文献]]损耗率达 95%）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 546–548)]]
 >
 > > [!axis] 民主授权赤字与新自由主义价值偏向
 > > 批评该复合体内部核心经济与金融组织缺乏民选合法性，却主导了公共教育价值导向。

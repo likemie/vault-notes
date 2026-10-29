@@ -7,7 +7,7 @@ summary: "美国当代著名科学技术政策与STS学者，亚利桑那州立�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 17
+person_related_count: 19
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Technology Transfer]]"
   - "[[Reliability]]"
+  - "[[Cognitive Authority]]"
   - "[[Technology-Oriented Social Contract]]"
 related_theories:
   - "[[Social Contract of Science]]"
@@ -39,12 +40,13 @@ related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
 related_persons:
   - "[[Donald Stokes]]"
+  - "[[Robert K. Merton]]"
 related_methods:
   - "[[Analytic Framework]]"
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -73,7 +75,7 @@ updated: 2026-10-22
 > [!work-line] 主要著作
 > - **1994 — *The Fragile Contract? University Science and the Federal Government*** 敏锐捕捉冷战终结后美国科学界与联邦政府在预算削减与间接成本丑闻下的信任裂痕，率先提出[[Social Contract of Science|科学社会契约]]再协商议题。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1056)]]
 > - **2000 — *Between Politics and Science: Assuring the Integrity and Productivity of Research*** 系统构建国家对科学资助的两大治理委托：产出率（Productivity，通过[[Technology Transfer|技术转移]]机构保障）与诚[[Reliability|信度]]（Integrity，通过科研诚信办公室 ORI 保障），奠定科学契约的政治制度主义基础。
-> - **2001 — *Boundary Organizations in Environmental Policy and Science*** 提出“边界组织”理论，阐释科研与决策之间中介机构如何维系认知权威与政治责任的动态平衡。
+> - **2001 — *Boundary Organizations in Environmental Policy and Science*** 提出“边界组织”理论，阐释科研与决策之间中介机构如何维系[[Cognitive Authority|认知权威]]与政治责任的动态平衡。
 
 ---
 
@@ -112,7 +114,7 @@ updated: 2026-10-22
 > > 各方对将政治学经济学委托模型套用于科学界存在不同评价。
 > >
 > > - **新制度主义支持者** 赞赏其打破了传统科学社会学浪漫主义的“纯洁象牙塔”迷思，将权力、资源与自私博弈带入分析。
-> > - **传统科学社会学批评者** 担忧该框架过分预设了科学家的“道德风险”和功利动机，低估了科学共同体自律伦理与默顿规范（CUDOS）的精神感召力。
+> > - **传统科学社会学批评者** 担忧该框架过分预设了科学家的“道德风险”和功利动机，低估了科学共同体自律伦理与[[Robert K. Merton|默顿]]规范（CUDOS）的精神感召力。
 
 ---
 

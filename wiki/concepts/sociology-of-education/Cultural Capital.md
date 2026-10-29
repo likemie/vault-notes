@@ -8,7 +8,7 @@ aliases:
 summary: "Pierre Bourdieu 的核心概念，指个体通过家庭社会化与教育获得并在特定场域中具有交换价值的文化资源（具身化、客体化和制度化）。在大规模教育实证研究中常操作化为家庭藏书量等资源，实证表明其既直接提升学业表现，又通过培育批判性认识论信念间接促进高阶成就。"
 type: concept
 domain: "sociology-of-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Socioeconomic Status]]"
   - "[[Cultural Barrier]]"
+  - "[[Charter Schools]]"
   - "[[Epistemological Beliefs]]"
   - "[[Variable]]"
   - "[[Discourse]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 （文化资本）
@@ -140,10 +141,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　学校教育将优势阶层的文化资本作为隐性筛选机制
-
-> [!concept-lens] 教育再生产维度
-> 探讨教育系统如何通过默认要求特定的文化习惯与品位，将[[Socioeconomic Status|社会经济地位]]的不平等合法化为个人天赋和努力的差距，从而实现阶层再生产。
+> [!concept-proposition] 命题一｜学校教育将优势阶层的文化资本作为隐性筛选机制
+> **探讨维度　教育再生产维度** 探讨教育系统如何通过默认要求特定的文化习惯与品位，将[[Socioeconomic Status|社会经济地位]]的不平等合法化为个人天赋和努力的差距，从而实现阶层再生产。
 
 > [!claim] [[Pierre Bourdieu\|Bourdieu, P.]]
 > **学术选拔的隐性前提** 教育系统倾向于把有教养阶级传递的语言风格、知识广度与审美模式作为默认前提，使得缺乏这些资本的弱势家庭子女在学业选拔中面临系统性不利，从而合法化了社会出身的特权差距。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023, Ch. 2)]]（引自 Bourdieu & Passeron, 1979）
@@ -153,33 +152,27 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　市场化择校中文化资本转化为精细的学校信息扫描技术与惯习壁垒
-
-> [!concept-lens] 市场化[[School Choice\|择校]]维度
-> 探讨在新自由主义教育改革和择校市场中，高学历阶层如何通过文化资本优势扫描优质学校信息，并在选拔和面试中占据优势。
+> [!concept-proposition] 命题二｜市场化[[School Choice|择校]]中文化资本转化为精细的学校信息扫描技术与[[Habitus|惯习]]壁垒
+> **探讨维度　市场化[[School Choice\|择校]]维度** 探讨在新自由主义教育改革和择校市场中，高学历阶层如何通过文化资本优势扫描优质学校信息，并在选拔和面试中占据优势。
 
 > [!claim] Reay, D.
 > **高知家长的择校市场熟悉度** 受过良好教育的父母对教育系统和择校市场有着极高程度的熟悉，能够为子女收集更精准的择校情报并制定微观应对策略，从而确保其进入高表现学校。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 302)]]（引自 Reay, 2004）
 
 > [!claim] Bereményi, B. A. & Carrasco, S.
-> **文化[[Habitus|惯习]]在面试选拔中的优势** 拥有高水平文化资本的家庭，其子女在面对学校的入学面试和测试时更容易展现出符合学校品位的文化特质，从而通过中产阶级特许学校等市场化招生程序的筛选。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 302)]]（引自 Bereményi & Carrasco, 2018）
+> **文化[[Habitus|惯习]]在面试选拔中的优势** 拥有高水平文化资本的家庭，其子女在面对学校的入学面试和测试时更容易展现出符合学校品位的文化特质，从而通过中产阶级[[Charter Schools|特许学校]]等市场化招生程序的筛选。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 302)]]（引自 Bereményi & Carrasco, 2018）
 
 ---
 
-### 命题三　中国县域政策化择校中文化资本因程序简化而弱化并向社会关系妥协
-
-> [!concept-lens] 政策化与小城市择校维度
-> 探讨在中国县域城镇化主导的择校迁移中，由于入学手续高度简化与熟人社会的权力逻辑，文化资本的独立技术门槛作用受限，让位于社会资本的关系交涉。
+> [!concept-proposition] 命题三｜中国县域政策化择校中文化资本因程序简化而弱化并向社会关系妥协
+> **探讨维度　政策化与小城市择校维度** 探讨在中国县域城镇化主导的择校迁移中，由于入学手续高度简化与熟人社会的权力逻辑，文化资本的独立技术门槛作用受限，让位于社会资本的关系交涉。
 
 > [!claim] Teng, Y. & Wang, D.
 > **文化资本的边缘化与妥协** 在县城小学的入学筛选中，由于不设立面试或复杂评估程序，学校信息高度透明，中产阶级所擅长的文化技术优势无从施展。尽管高学历父母有更强的教育期望，但在具体获取稀缺重点学校学位时，文化资本必须向以权力关系变现为核心的社会资本退让，通过熟人关系施压完成入学。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 310)]]
 
 ---
 
-### 命题四　家庭客体化文化资本通过培育批判性认识论信念间接促进高阶学业成就
-
-> [!concept-lens] 认知与[[Epistemology\|认识论]]中介机制维度
-> 探讨家庭客体化文化资本（如家庭藏书量）如何独立于纯经济收入发挥作用，通过塑造学生的[[Epistemological Beliefs\|认识论信念]]进而促进高阶[[Academic Achievement\|学业表现]]。
+> [!concept-proposition] 命题四｜家庭客体化文化资本通过培育批判性[[Epistemological Beliefs|认识论信念]]间接促进高阶[[Academic Achievement|学业成就]]
+> **探讨维度　认知与[[Epistemology\|认识论]]中介机制维度** 探讨家庭客体化文化资本（如家庭藏书量）如何独立于纯经济收入发挥作用，通过塑造学生的[[Epistemological Beliefs\|认识论信念]]进而促进高阶[[Academic Achievement\|学业表现]]。
 
 > [!claim] Trautwein, U. & Lüdtke, O.
 > **文化资本的认识论中介与学业促进** 基于德国 [[TOSCA]] 项目大规模代表性追踪数据，家庭文化资本（家庭藏书量）对高中毕业成就展现出双重促进路径：

@@ -21,6 +21,7 @@ sources:
   - "[[sources/Kazanci_Tinmaz_Sezgin_2023_SO/Kazanci_Tinmaz_Sezgin_2023_SO|Kazanci_Tinmaz_Sezgin_2023_SO]]"
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Document]]"
   - "[[Research Literacy]]"
   - "[[Research Utilization]]"
   - "[[Variable]]"
@@ -78,14 +79,14 @@ related_theories:
 related_persons: []
 status: draft
 created: 2026-08-26
-updated: 2026-10-23
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_key: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_display_title: "Development of the Research Literacy Scale for Teachers"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -94,7 +95,7 @@ journal: "SAGE Open"
 ---
 
 > [!question]
-> 尽管国际政策（如美国《[[Every Student Succeeds Act\|每一个学生成功法案]]》（Every Student Succeeds Act, ESSA）、《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（No Child Left Behind Act, [[No Child Left Behind Act 2001\|NCLB]]））与专业组织（[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）、[[British Educational Research Association\|英国教育研究学会]]与英国皇家艺术学会（BERA-RSA））持续强调[[Evidence-Based Education\|循证教育]]与以研究为基础的教学实践，但在土耳其等许多国家的现实教育情境中，教师参与科研与运用科研的程度普遍极低（如 Kazancı-Tınmaz, 2020 调查显示 82% 的教师从未开展过任何研究且不检索文献；土耳其国民教育部（Ministry of [[National Education]], MoNE）公布的 65 项教师专业能力指标中仅有 3 项涉及科研）。更严峻的是，既有教师[[Research Literacy\|研究素养]]测量工具普遍存在理论根基薄弱、缺乏严格信效度检验（Lawlor et al., 2019 系统综述指出仅 27.77% 的研究利用工具报告了信度证据，仅 38.8% 报告了效度证据）、且割裂了开展研究与使用研究的系统联系。本研究旨在基于[[Theory of Planned Behavior\|计划行为理论]]（Theory of Planned Behavior, TPB）与[[Research Utilization\|研究利用]]模型，开发并验证一套具有坚实心理测量学特质的[[Research Literacy Scale for Teachers\|教师研究素养量表]]（Research Literacy Scale for Teachers, RLS），并实证检验教师的研究素养水平及其受学术期刊阅读和科研参与经验的影响机制。
+> 尽管国际政策（如美国《[[Every Student Succeeds Act\|每一个学生成功法案]]》（Every Student Succeeds Act, ESSA）、《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（No Child Left Behind Act, [[No Child Left Behind Act 2001\|NCLB]]））与专业组织（[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）、[[British Educational Research Association\|英国教育研究学会]]与英国皇家艺术学会（BERA-RSA））持续强调[[Evidence-Based Education\|循证教育]]与以研究为基础的教学实践，但在土耳其等许多国家的现实教育情境中，教师参与科研与运用科研的程度普遍极低（如 Kazancı-Tınmaz, 2020 调查显示 82% 的教师从未开展过任何研究且不检索[[Document|文献]]；土耳其[[National Education|国民教育]]部（Ministry of [[National Education]], MoNE）公布的 65 项教师专业能力指标中仅有 3 项涉及科研）。更严峻的是，既有教师[[Research Literacy\|研究素养]]测量工具普遍存在理论根基薄弱、缺乏严格信效度检验（Lawlor et al., 2019 系统综述指出仅 27.77% 的研究利用工具报告了信度证据，仅 38.8% 报告了效度证据）、且割裂了开展研究与使用研究的系统联系。本研究旨在基于[[Theory of Planned Behavior\|计划行为理论]]（Theory of Planned Behavior, TPB）与[[Research Utilization\|研究利用]]模型，开发并验证一套具有坚实心理测量学特质的[[Research Literacy Scale for Teachers\|教师研究素养量表]]（Research Literacy Scale for Teachers, RLS），并实证检验教师的研究素养水平及其受学术期刊阅读和科研参与经验的影响机制。
 
 > [!claim] 核心主张
 > 教师研究素养是一个由研究意识、研究态度、研究技能与研究使用构成的四维度二阶统整结构；其中研究技能作为知觉行为控制[[Variable\|变量]]贡献了高达 46.90% 的绝大部分方差解释力，构成态度转化为使用行为的核心控制枢纽；实际从事科研与定期追踪学术期刊能显著打破高态度认同与低实践转化的知行断层，对教师素养各维度产生独立的显著赋能效应。
@@ -170,7 +171,7 @@ journal: "SAGE Open"
 
 ---
 
-> [!claim] 论证步骤一　基于行为理论建构操作化构念，通过探索性因子分析确立四因子精简结构与知觉控制核心地位
+> [!claim|step] 论证步骤一　基于行为理论建构操作化构念，通过探索性因子分析确立四因子精简结构与知觉控制核心地位
 > 教师[[Research Literacy\|研究素养]]并非单一技术维度的技能测验，而是一个由研究意识、研究态度、研究技能与[[Research Utilization\|研究使用]]构成的多维结构；其中研究技能作为知觉行为控制[[Variable\|变量]]解释了高达 46.90% 的绝大部分方差，构成态度向实践转化的核心控制枢纽；经[[Exploratory Factor Analysis\|探索性因子分析]]精简所得的 20 题量表具备优良的测量稳定性与结构代表性。
 
 > [!dimension] 教师研究素养的四维[[Construct\|构念]]拆解
@@ -230,7 +231,7 @@ journal: "SAGE Open"
 
 ---
 
-> [!claim] 论证步骤二　通过验证性因子分析确立二阶因子模型，确立构念信效度与跨性别严格测量等值性
+> [!claim|step] 论证步骤二　通过验证性因子分析确立二阶因子模型，确立构念信效度与跨性别严格测量等值性
 > 在全新独立样本中，竞争模型选拔证实单因子模型严重失效，而二阶高阶因子模型拟合优异，证实四维度归属于一个统摄性的全局研究素养构念；量表[[Convergent and Discriminant Validity\|收敛效度]]、区分效度与[[Composite Reliability\|复合信度]]体系完备；跨性别严格[[Measurement Invariance\|测量等值性]]的确立为后续无偏跨群体比较奠定了坚实基础。
 
 > [!example] 图2：[[Research Literacy Scale for Teachers\|RLS]] 一阶四因子模型标准化路径图
@@ -291,7 +292,7 @@ journal: "SAGE Open"
 
 ---
 
-> [!claim] 论证步骤三　实证揭示教师科研态度与实践的结构性断层，验证期刊追踪与科研参与的独立双轨赋能机制
+> [!claim|step] 论证步骤三　实证揭示教师科研态度与实践的结构性断层，验证期刊追踪与科研参与的独立双轨赋能机制
 > 教师群体普遍呈现“高态度认同、低实践行为”的结构性知行断层；追踪学术期刊（输入型）与亲身开展科研（输出型）呈现双轨独立的显著赋能机制：做研究对提升研究技能产生最大主效应，而读期刊对驱动研究使用产生最大主效应，两者互不替代，为精准设计教师专业发展政策提供了经验支点。
 
 > [!tension] 教师研究素养的知行结构性断层

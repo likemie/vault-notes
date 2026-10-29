@@ -9,7 +9,7 @@ aliases:
 summary: "中国近现代政治与集体记忆中的核心历史创伤叙事，指代1840年至1949年受制于列强侵略的屈辱历程，构成了当代国家救亡图存、追求繁荣与实现民族复兴的深层心理机制与合法性根基"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,9 +28,10 @@ related_concepts:
   - "[[Knowledge Diplomacy]]"
   - "[[Education Going Global]]"
   - "[[Retroduction]]"
+  - "[[Public Diplomacy]]"
+  - "[[Geopolitics]]"
   - "[[Research Universities]]"
   - "[[Patriotic Education]]"
-  - "[[Geopolitics]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Variable]]"
   - "[[Technology Transfer]]"
@@ -41,6 +42,7 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Critical Policy Analysis]]"
   - "[[Effect Size]]"
+  - "[[Mixed Methods Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -51,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -107,23 +109,19 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　百年屈辱叙事构成了当代国家强盛与对外战略合法化的心理驱动源泉
-
-> [!concept-lens] 历史创伤与政治动员合法性
-> 探讨集体屈辱记忆如何被制度化整合为执政合法性支撑，为大规模国家战略投入提供不可动摇的道义前提。
+> [!concept-proposition] 命题一｜百年屈辱叙事构成了当代国家强盛与对外战略合法化的心理驱动源泉
+> **探讨维度　历史创伤与政治动员合法性** 探讨集体屈辱记忆如何被制度化整合为执政合法性支撑，为大规模国家战略投入提供不可动摇的道义前提。
 
 > [!claim] Woo, E.
 > **创伤反转与大国行动的正当性纽带** [[Argument_Woo_2023_HEP|Woo (2023)]] 借助[[Retroduction|逆推溯因]]（Retroduction）方法分析指出，[[Belt and Road Initiative|一带一路]]政策之所以能有效动员多部门力量开展跨国教育与科研协同，深层原因在于该倡议被置于洗雪百年屈辱的历史逻辑之中。复兴是屈辱的反面，近代受制于人的历史使得国家追求繁荣不仅被视为发展目标，更被视为纠正西方列强强加的不公、重获历史尊严的崇高实践，赋予跨国政策极强的政治感召力。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–689)]]
 
 > [!claim] [[Argument_Custer_2021_AidData|Custer et al. (2021)]]
-> **教育对外合作作为洗雪历史创伤与重塑文明敬仰的品牌工程** 萨曼莎·库斯特等（Samantha Custer et al.）从对外公共外交与国家品牌战略视角指出，中国将跨国教育合作置于地缘政治战略核心，其实质是在经历百年屈辱之后赢得国际社会对中国价值观、文化与文明敬仰的“国家品牌塑造工程”（Nation-Branding Project）。对外教育交流不仅旨在服务经贸走廊建设与获取留学生资源，更肩负着在后殖民与大国竞争秩序中重构文明合法性、在外国公众与社会精英中塑造对中国发展治理理念认同的政治功能。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 14, 20)]]
+> **教育对外合作作为洗雪历史创伤与重塑文明敬仰的品牌工程** 萨曼莎·库斯特等（Samantha Custer et al.）从[[Public Diplomacy|对外公共外交]]与国家品牌战略视角指出，中国将跨国教育合作置于[[Geopolitics|地缘政治]]战略核心，其实质是在经历百年屈辱之后赢得国际社会对中国价值观、文化与文明敬仰的“国家品牌塑造工程”（Nation-Branding Project）。对外教育交流不仅旨在服务经贸走廊建设与获取留学生资源，更肩负着在后殖民与大国竞争秩序中重构文明合法性、在外国公众与社会精英中塑造对中国发展治理理念认同的政治功能。[[Argument_Custer_2021_AidData|(Custer et al., 2021, pp. 14, 20)]]
 
 ---
 
-### 命题二　历史创伤记忆推动教育与科技被视为洗雪耻辱并防范主权受制的核心物质防线
-
-> [!concept-lens] 科技教育的战略工具化定位
-> 阐释主权受制创伤如何塑造教育与科研的职能定位，使其深度嵌入国家富强与安全自主的宏大工程中。
+> [!concept-proposition] 命题二｜历史创伤记忆推动教育与科技被视为洗雪耻辱并防范主权受制的核心物质防线
+> **探讨维度　科技教育的战略工具化定位** 阐释主权受制创伤如何塑造教育与科研的职能定位，使其深度嵌入国家富强与安全自主的宏大工程中。
 
 > [!claim] Woo, E.
 > **教育科研的战略赋能与大国防线属性** [[Argument_Woo_2023_HEP|Woo (2023)]] 分析表明，在百年屈辱记忆影响下，中国官方始终将教育和科技置于经济建设与地缘竞争的生命线地位。为了避免近代因技术落后而挨打的历史重演，国家通过《高等学校科技创新服务“一带一路”倡议行动计划》等政策，统辖重点[[Research Universities|研究型大学]]攻关核心技术，同时推进高职教育协同产能出海，使高等教育全面服务于提升国家综合国力与国际[[Discourse|话语]]地位。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 685–688)]]
@@ -170,7 +168,7 @@ updated: 2026-10-26
 > |---|---|---|---|---|---|---|
 > | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 全国部属重点大学科技出海布局（2018年） | 政策文本计量与任务分工分析 | 纳入[[Belt and Road Initiative\|一带一路]]科技攻关重点高校数 | 75所重点大学建立联合实验室与前沿[[Technology Transfer\|技术转移]]中心 | — | 展现国家意志下高校集中攻坚前沿技术的调控力度，反映防范技术受制的战略导向 |
 > | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 中国来华留学规模扩张（2018年） | 官方统计年鉴引述 | 沿线发展中国家生源增长情况 | 来华留学生总量达492,185人，非洲与中亚增幅居首 | — | 表明国家通过高教资源倾斜打破西方传统留学垄断，但无法反映生源国的地缘认同深度 |
-> | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | 南亚与中亚 13 国公共外交与地缘政治叙事（2000–2021 年） | 跨国混合方法评估与政策文本考察 | 教育公共外交的地缘政治驱动动机与文明塑造目标 | 将教育合作定性为经历百年屈辱后重构文明敬仰的国家品牌塑造工程，65 所文化中心与 35.8 万份奖学金全面投向周边走廊 | — | 聚焦周边地缘走廊的公共外交实践，反映历史创伤叙事向跨国国家品牌塑造的政治转化 |
+> | [[Argument_Custer_2021_AidData\|Custer et al. (2021)]] | 南亚与中亚 13 国公共外交与地缘政治叙事（2000–2021 年） | 跨国[[Mixed Methods Research\|混合方法]]评估与政策文本考察 | 教育公共外交的地缘政治驱动动机与文明塑造目标 | 将教育合作定性为经历百年屈辱后重构文明敬仰的国家品牌塑造工程，65 所文化中心与 35.8 万份奖学金全面投向周边走廊 | — | 聚焦周边地缘走廊的公共外交实践，反映历史创伤叙事向跨国国家品牌塑造的政治转化 |
 
 ---
 

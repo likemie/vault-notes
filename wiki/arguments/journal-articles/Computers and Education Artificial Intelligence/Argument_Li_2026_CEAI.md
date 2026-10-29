@@ -24,6 +24,7 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Academic Achievement]]"
+  - "[[Student Motivation]]"
   - "[[Convergent Thinking]]"
   - "[[Critical Thinking]]"
   - "[[Divergent Thinking]]"
@@ -34,6 +35,7 @@ related_concepts:
   - "[[Structured Teaching]]"
   - "[[Metacognition]]"
   - "[[Cognitive Offloading]]"
+  - "[[Document]]"
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Student Engagement]]"
@@ -49,7 +51,6 @@ related_concepts:
   - "[[Epistemic Friction]]"
   - "[[General Purpose Technology]]"
   - "[[Central Question]]"
-  - "[[Document]]"
   - "[[General Education]]"
   - "[[Computational Thinking]]"
   - "[[Interaction Effect]]"
@@ -114,14 +115,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-31
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Li_2026_CEAI"
 argument_key: "Argument_Li_2026_CEAI"
 argument_display_title: "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes"
 argument_kind: "journal-article"
-argument_related_count: 82
+argument_related_count: 83
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -134,7 +135,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> [[Generative Artificial Intelligence\|生成式人工智能]]（以 ChatGPT 为代表）在高等教育中的迅速普及引发了关于学生高阶心智发展的广泛争议。既有综述多将[[Higher-Order Thinking Skills\|高阶思维]]笼统合并为一般的[[Academic Achievement\|学业表现]]、学习动机或宽泛的认知参与，未能系统区分[[Convergent Thinking\|收敛性认知加工]]（如[[Critical Thinking\|批判性思维]]）与[[Divergent Thinking\|发散性认知加工]]（如[[Creativity\|创造性思维]]）在人机交互中所受到的[[Heterogeneity\|异质性]]塑造。本研究旨在系统探究：在高等教育不同教学情境与任务设计下，ChatGPT 如何分别塑造大学生的批判性思维与创造性思维？二者在[[Man-Computer Symbiosis|人机协同]]学习中呈现何种共现演进模式？哪些教学调节条件能够促进高阶思维的协同发展并规避认知退化风险？
+> [[Generative Artificial Intelligence\|生成式人工智能]]（以 ChatGPT 为代表）在高等教育中的迅速普及引发了关于学生高阶心智发展的广泛争议。既有综述多将[[Higher-Order Thinking Skills\|高阶思维]]笼统合并为一般的[[Academic Achievement\|学业表现]]、[[Student Motivation|学习动机]]或宽泛的认知参与，未能系统区分[[Convergent Thinking\|收敛性认知加工]]（如[[Critical Thinking\|批判性思维]]）与[[Divergent Thinking\|发散性认知加工]]（如[[Creativity\|创造性思维]]）在人机交互中所受到的[[Heterogeneity\|异质性]]塑造。本研究旨在系统探究：在高等教育不同教学情境与任务设计下，ChatGPT 如何分别塑造大学生的批判性思维与创造性思维？二者在[[Man-Computer Symbiosis|人机协同]]学习中呈现何种共现演进模式？哪些教学调节条件能够促进高阶思维的协同发展并规避认知退化风险？
 
 > [!claim] 核心主张
 > ChatGPT 对大学生认知发展的影响并非技术固有的必然属性，而是高度依存于任务的教学情境与[[Scaffolding\|脚手架]]设计。当嵌入探究导向、反思提示与对话式互动的[[Structured Teaching\|结构化教学]]设计中时，ChatGPT 能够作为认知放大器与中介伙伴，通过促进[[Metacognition\|元认知]]监控、论证建构与发散构想，驱动批判性思维与创造性思维的“双向协同增益”；反之，在缺乏教学支架的非结构化或工具主义应付情境中，ChatGPT 会诱发严重的[[Cognitive Offloading\|认知卸载]]与心智惰性，导致“创造性繁荣伴随批判性萎缩”的非对称发展，乃至批判与创造能力的“双重认知侵蚀”。
@@ -145,7 +146,7 @@ issuing_organization: ""
 > - **贡献** 构建批判性思维（收敛加工）与创造性思维（发散加工）的双透镜整合[[Analytic Framework\|分析框架]]；系统提炼了人机协同认知共现的三大典型轨迹；提出了基于[[Third Generation Activity Theory\|活动理论]]的六大教学干预规制。
 
 > [!contrast-table] 表1：既有关于 ChatGPT 与认知产出的[[Systematic Review\|系统综述]]对比（Existing Systematic Reviews）
-> | 作者与年份 | 综述聚焦（Review Focus） | 认知考察维度（Cognitive Aspects） | 纳入文献规模 | 本综述的超越与推进（Comparative Advance） |
+> | 作者与年份 | 综述聚焦（Review Focus） | 认知考察维度（Cognitive Aspects） | 纳入[[Document\|文献]]规模 | 本综述的超越与推进（Comparative Advance） |
 > |---|---|---|---|---|
 > | **Dimeli and Kostas (2025)** | 高等教育与中等教育中的 ChatGPT 应用 | 一般性认知表现（General Cognitive Performance） | 50 项研究 | 侧重宏观学业成果，未对批判性与创造性思维进行[[Construct\|构念]]分立与机制剖析。 |
 > | **Deng et al. (2024)** | ChatGPT 介入下的学业成果[[Meta-analysis\|元分析]] | 高阶思维（Higher-Order Thinking） | 量化元分析 | 提供合并[[Effect Size\|效应量]]，但未拆解质性反思过程与多样化的教学情境调节[[Variable\|变量]]。 |
@@ -266,7 +267,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　ChatGPT 对批判性思维具有双向[[Interaction Effect|调节效应]]：反思催化与心智惰性并存
+> [!claim|step] 论证步骤一　ChatGPT 对批判性思维具有双向[[Interaction Effect|调节效应]]：反思催化与心智惰性并存
 > ChatGPT 对大学生[[Critical Thinking\|批判性思维]]（[[Convergent Thinking\|收敛性认知加工]]）的影响呈现鲜明的双刃剑特征：在具备显性引导与反思规程的教学情境中，它能作为[[Metacognition\|元认知]]对话[[Scaffolding\|脚手架]]有效催化证据评估、论证深化与事实核查；但在缺乏教学支架的场景中，极易诱发严重的[[Cognitive Offloading\|认知卸载]]、思维怠惰与论证逻辑退化。
 
 > [!ref-table]- 表5：ChatGPT 对批判性思维影响的核心主题、情境与调节[[Variable\|变量]]（Key Themes on Critical Thinking）
@@ -307,7 +308,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　ChatGPT 对创造性思维兼具构想激发与表达均质化的双重属性
+> [!claim|step] 论证步骤二　ChatGPT 对创造性思维兼具构想激发与表达均质化的双重属性
 > ChatGPT 对大学生[[Creativity\|创造性思维]]（[[Divergent Thinking\|发散性认知加工]]）的影响表现为“构想发散赋能”与“表达均质化压制”的复杂张力：它能显著降低创造焦虑、突破思维定势并提供跨学科连接支架；但全盘依赖或后期滥用则会稀释独特的个人学术声音、抑制深层探索迭代，并诱发早熟收敛。
 
 > [!ref-table]- 表6：ChatGPT 对创造性思维影响的核心主题、情境与调节变量（Key Themes on Creative Thinking）
@@ -348,7 +349,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　教学脚手架决定批判与创造性思维的三大共现演进轨迹
+> [!claim|step] 论证步骤三　教学脚手架决定批判与创造性思维的三大共现演进轨迹
 > 高等教育中批判性思维（收敛）与创造性思维（发散）的协同发展绝非技术引入后自发产生的生理副产物，而是受到课程教学结构、任务目标与评价规则的深度调节。实证文献中系统分化出三种截然不同的共现演进模型。
 
 > [!ref-table]- 表7：ChatGPT 整合学习中[[Higher-Order Thinking Skills\|高阶思维]]的三大认知共现模式（Co-occurrence Patterns in ChatGPT-Integrated Learning）
@@ -389,7 +390,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤四　重构生成式 AI 时代的教学干预规制与多源反馈生态
+> [!claim|step] 论证步骤四　重构生成式 AI 时代的教学干预规制与多源反馈生态
 > 为化解[[Generative Artificial Intelligence\|生成式人工智能]]整合中的认知卸载危机并释放其高阶思维潜能，高等教育必须超越单纯的“技术接纳”或“机械禁令”的二元对立，依据[[Third Generation Activity Theory\|活动理论]]全面重组教学规制，构建涵盖六大干预维度的教学法生态。
 
 > [!feature] 促进高阶思维发展的六大教学干预规制

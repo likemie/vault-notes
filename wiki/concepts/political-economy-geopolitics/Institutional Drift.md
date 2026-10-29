@@ -8,10 +8,10 @@ aliases:
 summary: "历史制度主义与公共政策分析中的渐进制度变迁核心机制；指正式制度规则在文本层面保持不变，但在外部社会、经济或人口环境发生显著变迁时，由于关键行动者或否决玩家主动疏于维护、更新与修正法规参数，导致制度实际规制效力、保护覆盖面或利益分配后果发生实质性衰变与侵蚀的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/institutional-change
   - theme/governance
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Enforcement Discretion]]"
   - "[[Institutional Displacement]]"
   - "[[Symbionts]]"
+  - "[[Zone of Discretion]]"
   - "[[Liberalization]]"
 related_theories:
   - "[[Historical Institutionalism]]"
@@ -44,7 +45,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -106,30 +107,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　强否决壁垒与高裁量空间构成制度漂移的结构温床
-
-> [!concept-lens] 制度漂移的宏观与中观生成机制
-> 探讨为何在特定权力结构下，保守势力更倾向于采取不作为与放任漂移策略，而非主动废除旧法。
+> [!concept-proposition] 命题一｜强否决壁垒与高[[Zone of Discretion|裁量空间]]构成制度漂移的结构温床
+> **探讨维度　制度漂移的宏观与中观生成机制** 探讨为何在特定权力结构下，保守势力更倾向于采取不作为与放任漂移策略，而非主动废除旧法。
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & [[Kathleen Thelen|Thelen, K.]]
 > **否决与裁量交互驱动机制** 当反对力量强大到足以封杀任何更新法律的企图，同时行政官僚在日常执行中享有宽泛裁量权时，守旧阵营无需承担废除法律的高昂政治代价；他们仅需行使否决权阻止规则现代化，并策略性放任行政执行松弛，即可借由外部环境的变迁自然掏空制度实质。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 19–21)]]
 
 ---
 
-### 命题二　不作为是一种积极的权力行使与资源再分配策略
-
-> [!concept-lens] 制度不作为的权力分配属性
-> 批判将制度未调整视为中性惰性或技术性疏忽的传统认知，揭示政策不更新背后的政治权力博弈。
+> [!concept-proposition] 命题二｜不作为是一种积极的权力行使与资源再分配策略
+> **探讨维度　制度不作为的权力分配属性** 批判将制度未调整视为中性惰性或技术性疏忽的传统认知，揭示政策不更新背后的政治权力博弈。
 
 > [!claim] [[Jacob S. Hacker|Hacker, J. S.]]
 > **策略性不作为与风险转移** 制度漂移体现为蓄意的政治不作为与风险转嫁；在福利体系与劳动保障中，保守派政治精英通过阻挠将最低工资、失业补贴或医疗福利与通胀挂钩，利用经济变迁实现隐性的福利削减，将社会风险单向转嫁给弱势劳动者。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 17)]]
 
 ---
 
-### 命题三　资本主义经济中制度漂移具有内生偏向市场化的结构非对称性
-
-> [!concept-lens] 制度漂移对市场逻辑的单向倾斜维度
-> 探讨为何在市场经济环境下，制度形式上的“无所作为”必然导致非市场的社会规制向私营市场退让。
+> [!concept-proposition] 命题三｜资本主义经济中制度漂移具有内生偏向市场化的结构非对称性
+> **探讨维度　制度漂移对市场逻辑的单向倾斜维度** 探讨为何在市场经济环境下，制度形式上的“无所作为”必然导致非市场的社会规制向私营市场退让。
 
 > [!claim] [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]]
 > **规制不作为对市场力量的单向赋权** 资本主义市场本身是一台处于持续扩张、技术重构与自我演进中的动态机器；任何非市场规制安排要维系既有效能，都必须投入积极的政治资源进行适应性微调。一旦关键行动者行使否决权选择消极不作为，成文法条的冻结绝不会冻结市场进程；相反，未被更新的制度盲区将自动被私营市场力量所占领。因此，资本主义经济中的制度漂移天生具有推动[[Liberalization|自由化]]与去规制的结构性非对称偏向。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 24–26, 31–34)]]

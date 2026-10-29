@@ -10,10 +10,10 @@ aliases:
 summary: "教师专业发展与循证教育中的核心概念，将教师对科研的参与区分为开展研究（Engagement in research，作为研究者进行行动研究与课题探究）与使用研究（Engagement with research，作为利用者研读学术文献并融入教学决策）两种互补模式；跨国实证调查进一步揭示出一线教师面临被局限为被动数据收集客体及外在制度激励全面缺位的深层结构性断层。"
 type: concept
 domain: "teacher-education"
-related_count: 28
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/teacher-education
   - theme/research-use
@@ -21,6 +21,7 @@ tags:
   - theme/teacher-research
   - theme/knowledge-mobilisation
 related_concepts:
+  - "[[Document]]"
   - "[[Evidence Ecosystem]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
@@ -35,8 +36,9 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Homework]]"
   - "[[Research Utilization]]"
-  - "[[Research Question]]"
   - "[[Discourse]]"
+  - "[[Research Question]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
@@ -58,13 +60,13 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-26
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Engagement in and with Research
-> **教师科研参与（Engagement in and with Research）** 是指教师在专业实践中与科学研究发生关联的两种互补方式：“开展研究”（Engagement in research）是指教师以探究主体身份直接设计与执行研究活动（如[[Action Research\|行动研究]]、基于课堂的微型课题、行动反思与学位研究）；“使用研究”（Engagement with research）是指教师作为实证成果的批判性消费者与利用者，通过检索文献、研读学术期刊并将科研证据融入备课、教学法优化及专业对话（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, pp. 2–4]]）。[[OECD\|经合组织]]（[[OECD]]）跨国实证调查进一步表明，教师科研参与不仅取决于个体专业素养，更深受宏观[[Evidence Ecosystem\|证据生态系统]]中[[Knowledge Production\|知识生产]]分工与制度性激励配置的深刻制约（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 89–92]]）。
+> **教师科研参与（Engagement in and with Research）** 是指教师在专业实践中与科学研究发生关联的两种互补方式：“开展研究”（Engagement in research）是指教师以探究主体身份直接设计与执行研究活动（如[[Action Research\|行动研究]]、基于课堂的微型课题、行动反思与学位研究）；“使用研究”（Engagement with research）是指教师作为实证成果的批判性消费者与利用者，通过检索[[Document|文献]]、研读学术期刊并将科研证据融入备课、教学法优化及专业对话（[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin, 2023, pp. 2–4]]）。[[OECD\|经合组织]]（[[OECD]]）跨国实证调查进一步表明，教师科研参与不仅取决于个体专业素养，更深受宏观[[Evidence Ecosystem\|证据生态系统]]中[[Knowledge Production\|知识生产]]分工与制度性激励配置的深刻制约（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 89–92]]）。
 
 > [!concept-lens] 概念透镜
 > - **核心内涵** 区分教师作为[[Knowledge Production\|知识生产]]者（开展研究）与知识运用者（使用研究）的双重角色及其生态位。
@@ -134,40 +136,32 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　开展研究与使用研究构成教师素养发展的双轨互补路径而非替代关系
-
-> [!concept-lens] 机制分工与双轨互补
-> 探讨做研究与读研究对教师专业能力不同维度的差异化塑造机制。
+> [!concept-proposition] 命题一｜开展研究与使用研究构成教师素养发展的双轨互补路径而非替代关系
+> **探讨维度　机制分工与双轨互补** 探讨做研究与读研究对教师专业能力不同维度的差异化塑造机制。
 
 > [!claim] Kazancı Tınmaz & Sezgin (2023)
 > **差异化促成效应** 亲身开展科研对教师研究技能产生最大促进效应（$\eta^2 = .056$），而追踪教育学术期刊则最强效地驱动日常实践中的[[Research Utilization\|研究使用]]行为（$\eta^2 = .046$）；两者各自独立发挥促成作用，缺一不可。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 12–14)]]
 
 ---
 
-### 命题二　缺乏研究技能支持的单纯态度倡导无法自发带来实践使用
-
-> [!concept-lens] 知行转化瓶颈
-> 解释教师普遍持有极高科研态度认同却难以转化为日常教学行动的深层原因。
+> [!concept-proposition] 命题二｜缺乏研究技能支持的单纯态度倡导无法自发带来实践使用
+> **探讨维度　知行转化瓶颈** 解释教师普遍持有极高科研态度认同却难以转化为日常教学行动的深层原因。
 
 > [!claim] Kazancı Tınmaz & Sezgin (2023)
 > **控制技能的核心瓶颈** 教师群体普遍呈现出极高态度认同（均值 4.37）但行为相对滞后的知行脱节；期刊追踪不显著影响态度，但显著支撑技能与使用，证实打破断层的关键在于通过做研究与用研究切实提升教师的知觉技能控制水平。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 8–14)]]
 
 ---
 
-### 命题三　一线实践者在科研生产中被结构性窄化为被动数据收集工具而丧失核心智力话语权
-
-> [!concept-lens] [[Knowledge Production\|知识生产]]权力失衡
-> 检视宏观教育生态中实践者在研究完整生命周期的生态位异化与客体化表征。
+> [!concept-proposition] 命题三｜一线实践者在科研生产中被结构性窄化为被动数据收集工具而丧失核心智力[[Discourse|话语]]权
+> **探讨维度　[[Knowledge Production\|知识生产]]权力失衡** 检视宏观教育生态中实践者在研究完整生命周期的生态位异化与客体化表征。
 
 > [!claim] [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]
 > **数据苦力与智力边缘化** 跨国调查实证证实，一线教师在知识生产全生命周期中呈现出极度畸形的参与结构：在全样本 37 个系统中，多达 82% 的系统报告教师在研究生产中完全不活跃；在能够参与的系统中，教师的介入高度窄化在数据收集阶段（18 个系统），而在提出[[Research Question\|研究问题]]（5 系统）、方案设计（4 系统）、数据分析（4 系统）与成果传播（5 系统）等核心智力环节极度缺位，导致教师在科研生态中被严重客体化为单向提供课堂数据的被动工具。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 89–90)]]
 
 ---
 
-### 命题四　外在硬性制度激励的全面匮乏是一线教师难以维系长效科研参与的深层制度瓶颈
-
-> [!concept-lens] 制度激励阶差
-> 分析专业学术群体与一线实践者在从事教育科研时所处体制环境的结构性落差。
+> [!concept-proposition] 命题四｜外在硬性制度激励的全面匮乏是一线教师难以维系长效科研参与的深层制度瓶颈
+> **探讨维度　制度激励阶差** 分析专业学术群体与一线实践者在从事教育科研时所处体制环境的结构性落差。
 
 > [!claim] [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]
 > **激励断崖与情怀耗竭** 专业科研人员受岗位职责规定、绩效考评晋升、带薪科研工时与专项薪酬补贴等全套法定外在硬性激励保护；相反，中小学一线教师的外在硬性激励近乎空白，其科研参与几乎完全依赖“改进微观教学实践”等内在道德动力孤军奋战；在缺乏代课工时保障与职务晋升激励的体制荒漠中，单纯依赖个人情怀开展科研极易引发职业倦怠，必须依托[[Doctoral Grant for Teachers\|荷兰教师博士资助计划]]或[[Hungarian Researcher Teacher Scheme\|匈牙利研究型教师职级制度]]等外部制度创新予以系统破局。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 90–92)]]
@@ -197,11 +191,11 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] | 效应项 | 做研究 → 研究技能偏好 | $\eta^2$ | — | <span class="mx-bar ef-bar conv" title="η² .056 → d ≈ 0.49（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b10"></span></span>.056 | — | — |
 > |  |  | 读期刊 → 研究使用偏好 | $\eta^2$ | — | <span class="mx-bar ef-bar conv" title="η² .046 → d ≈ 0.44（d = 2√(v / (1 − v))；两组单因素近似）"><span class="b9"></span></span>.046 | — | — |
-> |  |  | 交互作用 | $\eta^2$ | — | <span class="mx-bar ef-bar conv bound" title="η² ≤ .005 → d ≈ 0.14（d = 2√(v / (1 − v))；两组单因素近似）；下界/上界值"><span class="b3"></span></span>≤ .005 | — | — |
+> |  |  | [[Interaction Effect\|交互作用]] | $\eta^2$ | — | <span class="mx-bar ef-bar conv bound" title="η² ≤ .005 → d ≈ 0.14（d = 2√(v / (1 − v))；两组单因素近似）；下界/上界值"><span class="b3"></span></span>≤ .005 | — | — |
 
 > [!survey-table]- [[OECD\|经合组织]]跨国政策调查关键实证数据：宏观生态与制度激励断层（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]）
 > | 实证测量维度 | 核心量化指标 | 关键数据特征与极值（$N = 37$ 个系统） | 机制诊断与制度启示 |

@@ -9,7 +9,7 @@ aliases:
 summary: "由测量方法本身（而非所测构念的真实差异）造成的系统方差，当多个构念使用同一方法施测时会放大观察相关，威胁构念间关系估计的效度"
 type: concept
 domain: "research-methodology"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Critical Thinking]]"
   - "[[Interaction Effect]]"
+  - "[[Document]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -72,13 +73,11 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　当两个构念都用自陈测量时，共同方法变异会放大观察相关
-
-> [!concept-lens] 测量类型与观察相关的依赖
-> 方法学与心理测量研究关注[[Construct\|构念]]间观察相关在多大程度上随测量方式（主观自陈 vs 客观任务表现）而变化，以及这种变化是否指向共享的方法方差。
+> [!concept-proposition] 命题一｜当两个[[Construct|构念]]都用自陈测量时，共同方法变异会放大观察相关
+> **探讨维度　测量类型与观察相关的依赖** 方法学与心理测量研究关注[[Construct\|构念]]间观察相关在多大程度上随测量方式（主观自陈 vs 客观任务表现）而变化，以及这种变化是否指向共享的方法方差。
 
 > [!claim] [[Argument_Park_2026_TSC\|Park et al. (2026)]]
-> **双主观组合相关虚高** 在[[Meta-analysis\|元分析]]综合学生样本中[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]的相关时，双主观（双自陈）测量组合的合并相关 $r = 0.509$ 显著高于双客观组合（$r = 0.317$）与混合组合（$r = 0.195$–$0.260$），测量类型及其交互项的[[Interaction Effect\|调节效应]]均达显著，方向符合共同方法变异放大观察相关的预测。经典方法学文献（Podsakoff et al., 2003）把这种共享作答倾向称为共同方法偏差的来源。[[Argument_Park_2026_TSC\|(Park et al., 2026, p. 9)]]
+> **双主观组合相关虚高** 在[[Meta-analysis\|元分析]]综合学生样本中[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]的相关时，双主观（双自陈）测量组合的合并相关 $r = 0.509$ 显著高于双客观组合（$r = 0.317$）与混合组合（$r = 0.195$–$0.260$），测量类型及其交互项的[[Interaction Effect\|调节效应]]均达显著，方向符合共同方法变异放大观察相关的预测。经典方法学[[Document|文献]]（Podsakoff et al., 2003）把这种共享作答倾向称为共同方法偏差的来源。[[Argument_Park_2026_TSC\|(Park et al., 2026, p. 9)]]
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |

@@ -8,7 +8,7 @@ aliases:
 summary: "比较史学与社会科学综合纲领中的核心认识论与方法论构念，指基于特定具体历史事实归纳提炼、适用范围明确限定，用于在新的相似情境中定向检验、启发解释与照亮未知现象的探索性假设，是打破普遍因果法则与不可重复个案二元对立的学理桥梁。"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Falsification]]"
+  - "[[Document]]"
   - "[[Historical Amnesia]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-10-22
 > |:-----|:-----|:-----|:-----|
 > | **[[Epistemology\|认识论]]预设** | 相对普适论与情境限定论；规律具有条件性与启发性 | 自然科学一元论；规律是超越时空的恒常因果 | 绝对特殊主义；历史事件完全独特且不可重复 |
 > | **推导逻辑** | 历史归纳与类比演绎的双向互动（诱导性工作假说） | 抽象假设-[[Variable\|变量]][[Operationalization\|操作化]]-大样本统计[[Falsification\|证伪]] | 档案还原与时间线考据 |
-> | **检验机制** | 在跨时代、跨国界的相似情境中考察解释贴合度 | 基于概率显著性水平（p 值）的假设检验 | 考证史料真伪与文献内部自洽 |
+> | **检验机制** | 在跨时代、跨国界的相似情境中考察解释贴合度 | 基于概率显著性水平（p 值）的假设检验 | 考证史料真伪与[[Document\|文献]]内部自洽 |
 > | **最终产出** | 具有历史洞察力的分析透镜与理想类型 | 抽象变量间的标准化数学回归方程 | 详尽具体的编年史或人物事件叙事 |
 
 ---
@@ -88,14 +89,14 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　历史比较研究完全具备科学假说检验的严谨性与学理合法性
+> [!concept-proposition] 命题一｜历史比较研究完全具备科学假说检验的严谨性与学理合法性
 
 > [!claim] 命题核心主张
 > [[Positivism|实证主义]]学者（如诺亚与埃克斯坦）指责历史学缺乏科学性并将其排斥于假说检验之外，是建立在狭隘的自然科学一元论偏见之上。正如历史学家[[Crane Brinton|克莱恩·布林顿]]在比较英、美、法、俄四大革命史时所证明的，历史学家完全能够像病理学家归纳疾病症状一样提炼出有限的工作假说，并在新的历史案例中对其有效性展开严格的实证检验。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152)]]
 
 ---
 
-### 命题二　工作假说是克服学科“历史健忘症”与实现学科理性综合的认识论枢纽
+> [!concept-proposition] 命题二｜工作假说是克服学科“[[Historical Amnesia|历史健忘症]]”与实现学科理性综合的[[Epistemology|认识论]]枢纽
 
 > [!claim] 命题核心主张
 > 走出二战后比较教育学的[[Historical Amnesia|历史健忘症]]危机，绝不意味着放弃实证严谨性退回到主观印象式的漫谈；工作假说恰恰提供了一条融合之道：它既保持了历史学对特殊性、文化意义与复杂脉络的敬畏，又赋予研究以社会科学提炼类型、展开检验与指导政策反思的理论雄心，是实现历史学与社会科学综合纲领的基石。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152, 156)]]

@@ -10,7 +10,7 @@ aliases:
 summary: "从单一问题或起点向多个不同方向生成多样化、新颖与丰富构想的认知探索过程，是创造潜能与发散性认知加工的核心操作化构念。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 53
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -31,17 +31,20 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Problem Finding]]"
   - "[[Man-Computer Symbiosis]]"
+  - "[[Externalization]]"
   - "[[Creativity Training]]"
+  - "[[Scaffolding]]"
   - "[[Working Memory]]"
   - "[[Graphic Organizer]]"
   - "[[Mind Mapping]]"
+  - "[[Interaction Effect]]"
   - "[[Problem Solving]]"
   - "[[Brainstorming]]"
-  - "[[Scaffolding]]"
   - "[[Illusion of Competence]]"
   - "[[Structured Teaching]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Critical Thinking]]"
+  - "[[Document]]"
   - "[[Concept Mapping]]"
   - "[[Creativity Assessment]]"
   - "[[Self-Regulated Learning]]"
@@ -49,9 +52,9 @@ related_concepts:
   - "[[Predictive Validity]]"
   - "[[Criterion Problem]]"
   - "[[Dependent Variable]]"
+  - "[[Cognitive Offloading]]"
   - "[[Publication Bias]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Externalization]]"
 related_theories:
   - "[[Creative Problem Solving]]"
   - "[[Formative Epistemic Injustice]]"
@@ -64,6 +67,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Systematic Review]]"
+  - "[[Meta-regression]]"
   - "[[Random-Effects Model]]"
 related_instruments:
   - "[[Alternate Uses Test]]"
@@ -82,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 （发散思维 / 发散性认知加工）
@@ -158,20 +162,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　发散思维是创造性过程的重要组成部分而非唯一决定要素
-
-> [!concept-lens] 认知构件与整体过程的层级关系
-> 发散思维构成了[[Creativity\|创造潜能]]的基石，但在解释实际创造性成就时，涵盖[[Problem Finding\|问题发现]]与灵活整合的整体创造过程具备更强的关联效应。
+> [!concept-proposition] 命题一｜发散思维是[[Creativity|创造性]]过程的重要组成部分而非唯一决定要素
+> **探讨维度　认知构件与整体过程的层级关系** 发散思维构成了[[Creativity\|创造潜能]]的基石，但在解释实际创造性成就时，涵盖[[Problem Finding\|问题发现]]与灵活整合的整体创造过程具备更强的关联效应。
 
 > [!claim] Runco et al.
 > **发散思维与综合创造过程的效应差异** 在[[Meta-meta-analysis\|二阶元分析]]模型中，发散思维与创造力相关指标的综合[[Effect Size\|效应量]]为 $r = 0.14$（95% [[Confidence Interval\|置信区间]] $[0.04, 0.24]$），而包含问题发现（Abdulla et al., 2020）、酝酿（Sio & Ormerod, 2009）、顿悟（Shen et al., 2016）与灵活整合等多维构件的整体创造过程效应量达到 $r = 0.27$（95% 置信区间 $[0.10, 0.43]$），表明发散思维作为单一构件仅能解释部分创造性变异。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
 
 ---
 
-### 命题二　显式指导语、言语符号外化与认知训练能显著提升发散思维任务表现并存在黄金时间窗口
-
-> [!concept-lens] 发散思维的可塑性、教学干预路径与时间窗口调节
-> 外部教学设计、显式言语反馈与认知策略训练对发散思维表现具有显著的促进效应，表明发散思维是一种高度可塑的认知技能。
+> [!concept-proposition] 命题二｜显式指导语、言语符号[[Externalization|外化]]与认知训练能显著提升发散思维任务表现并存在黄金时间窗口
+> **探讨维度　发散思维的可塑性、教学干预路径与时间窗口调节** 外部教学设计、显式言语反馈与认知策略训练对发散思维表现具有显著的促进效应，表明发散思维是一种高度可塑的认知技能。
 
 > [!claim] Runco et al.
 > **干预与指导对发散生成的促进效应** 针对创造性思维与发散生成的专门干预程序（如[[Creative Problem Solving\|创造性问题解决模型]]、普渡创造性思维计划）及显式指导语（Explicit Instructions; Acar et al., 2020），在一阶与二阶[[Meta-analysis\|元分析]]中均表现出稳健的正向促进效应，证明发散思维能够通过教学设计得到有效激发。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
@@ -181,20 +181,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题三　空间可视化脚手架通过降低工作记忆维持负荷强效赋能发散思维
-
-> [!concept-lens] 空间隐喻与语义联想释放
-> 空间拓扑结构将低阶信息外显化，释放[[Working Memory\|工作记忆]]并激活放射状语义联结，对发散思维的赋能显著超越[[Convergent Thinking\|聚合思维]]。
+> [!concept-proposition] 命题三｜空间可视化[[Scaffolding|脚手架]]通过降低[[Working Memory|工作记忆]]维持负荷强效赋能发散思维
+> **探讨维度　空间隐喻与语义联想释放** 空间拓扑结构将低阶信息外显化，释放[[Working Memory\|工作记忆]]并激活放射状语义联结，对发散思维的赋能显著超越[[Convergent Thinking\|聚合思维]]。
 
 > [!claim] Lei et al.
 > **发散思维对空间表征工具的高度敏感性** 大样本元分析表明，[[Graphic Organizer\|图形组织器]]对发散思维具有强效促进作用，显著高于对聚合思维的促进幅度。特别是以单一主题为中心向外放射多级分支的[[Mind Mapping\|思维导图]]，以极低的结构规则门槛最大化激活了学习者的观念流畅性与联想独创性，证实空间可视化支架是培育发散思维的高效认知工具。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4, 9–11)]]
 
 ---
 
-### 命题四　生成式 AI 具有发散构想催化与思维早熟收敛压制的双向调节效应
-
-> [!concept-lens] [[Man-Computer Symbiosis|人机协同]]发散与心智惰性风险
-> 大模型在[[Problem Solving\|问题解决]]初期能极大降低构想门槛，但自由使用下极易诱发思维早熟收敛与主体性剥落。
+> [!concept-proposition] 命题四｜生成式 AI 具有发散构想催化与思维早熟收敛压制的双向[[Interaction Effect|调节效应]]
+> **探讨维度　[[Man-Computer Symbiosis|人机协同]]发散与心智惰性风险** 大模型在[[Problem Solving\|问题解决]]初期能极大降低构想门槛，但自由使用下极易诱发思维早熟收敛与主体性剥落。
 
 > [!claim] Urban et al.; Awal; Li et al.
 > **AI 发散赋能与早熟收敛张力** 在高等教育实证研究中，生成式 AI 被确认为发散思维与[[Brainstorming\|头脑风暴]]的高效[[Scaffolding\|脚手架]]，能显著提升托兰斯测验（[[Torrance Tests of Creative Thinking\|TTCT]]）及[[Alternate Uses Test\|另类用途测验]]（AUT）的发散流畅性与精细性得分（Urban et al., 2024）；然而，在缺乏强制迭代修改任务的场景中，大量学生在获取首轮 AI 构想后立即停止进一步探索（Awal, 2024），产生严重的[[Illusion of Competence\|能力错觉]]与构想惰性。只有在[[Structured Teaching\|结构化教学]]（如二次解构与多重视角辩护）引导下，AI 的发散潜能才能转化为深层创造力。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 7–8, 11)]]
@@ -208,7 +204,7 @@ updated: 2026-10-26
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表文献 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **过程构件定位** | 发散思维是创造潜能的重要指标，效应适中，属于创造力综合过程构件 | 认知测评与创造力预测 | [[Mark A. Runco\|Runco et al. (2026)]]; Cropley (2006) |
 > | **教学干预可塑性** | 发散思维可通过显式指导语与专门训练显著提升，言语认知干预增益居首，呈现中短期倒 U 型时间窗口 | 课堂思维教学、工作坊与训练课程 | Acar et al. (2020); [[Mark A. Runco\|Runco et al. (2026)]]; [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] |
@@ -265,7 +261,7 @@ updated: 2026-10-26
 > |  |  | 技术型 |  | N = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.552"><span class="b11"></span></span>0.552 | — | — |
 > |  | 结果变量（组织形式） | 独立个体练习 | Hedges' $g$ | N = 48 | <span class="mx-bar ef-bar" title="Hedges' g 0.682"><span class="b14"></span></span>0.682 | [0.501, 0.863] | $Z = 7.38\ (p < .001)$ |
 > |  |  | 小组协作 |  | N = 61 | <span class="mx-bar ef-bar" title="Hedges' g 0.567"><span class="b11"></span></span>0.567 | [0.462, 0.673] | — |
-> |  | 结果变量（干预周期） | < 2 个月 | Hedges' $g$ | N = 30 | <span class="mx-bar ef-bar" title="Hedges' g 0.844"><span class="b17"></span></span>0.844 | — | 元回归解释 13.4% 组间方差 |
+> |  | 结果变量（干预周期） | < 2 个月 | Hedges' $g$ | N = 30 | <span class="mx-bar ef-bar" title="Hedges' g 0.844"><span class="b17"></span></span>0.844 | — | [[Meta-regression\|元回归]]解释 13.4% 组间方差 |
 > |  |  | < 1 周 |  | N = 37 | <span class="mx-bar ef-bar" title="Hedges' g 0.576"><span class="b12"></span></span>0.576 | — | — |
 > |  |  | < 3 年 |  | N = 5 | <span class="mx-bar ef-bar neg" title="Hedges' g −0.122"><span class="b2"></span></span>−0.122 | — | — |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 结果变量（干预时长） | 0~8 周 | Hedges' $g$ | k = 15 | <span class="mx-bar ef-bar" title="Hedges' g 0.494"><span class="b10"></span></span>0.494 | — | $Q_b = 9.106, df = 2, p = 0.011$ |
@@ -280,7 +276,7 @@ updated: 2026-10-26
 > - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（组织形式）** 个体深思有效规避群体评价顾虑与生产力阻塞
 > - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 结果变量（干预周期）** 呈现倒 U 型时间曲线，中短期强化训练最具效能
 > - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（干预时长）** 呈现显著倒 U 型时间曲线，8–16 周为技术接纳与深层内化黄金窗口，长期缺乏支架易致思维怠惰
-> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（自主调节学习）** 自我调节构成决定性分水岭，高能动性学习者有效将 AI 转化为发散中介并防范认知外包
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（自主调节学习）** 自我调节构成决定性分水岭，高能动性学习者有效将 AI 转化为发散中介并防范[[Cognitive Offloading|认知外包]]
 > - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] · 结果变量（教学模式）** 真实任务驱动的项目式探究更能激发高阶发散与方案重组潜能
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果

@@ -7,7 +7,7 @@ aliases:
 summary: "源自大学化学教育并广泛扩散至 K-12 阶段的小组合作探究教学法，依托探索、概念形成与应用三阶段学习环，结合结构化团队角色分配与引导式活动材料，元分析证实其能显著降低课程挂科率并大幅提高学业通过优势比"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 35
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Discovery Learning]]"
   - "[[Direct Instruction]]"
+  - "[[Document]]"
   - "[[Working Memory]]"
   - "[[STEM Education]]"
   - "[[Gatekeepers]]"
@@ -48,6 +49,7 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Questionnaire]]"
   - "[[Prediction Interval]]"
+  - "[[Effect Size]]"
   - "[[Experimental Research]]"
 related_instruments: []
 related_persons:
@@ -62,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -103,7 +105,7 @@ updated: 2026-10-25
 > | **课堂权力结构** | 教师退居幕后担任促进者（Facilitator） | 教师牢牢掌控讲台与讲解节奏 | 导师提供宏观资源，学生自主规划 | 学生自由散漫交流 |
 > | **材料载体** | 高度结构化的三阶段 POGIL 活动单 | 教科书、课件 PPT、黑板板书 | 复杂的劣构真实案例描述 | 课后开放思考题 |
 > | **小组分工机制** | **明确的四重角色分配**（轮流轮换） | 无分工（个体被动听讲） | 团队自发协调分工 | 常见责任分散与搭便车 |
-> | **认知加工路径** | 观察模型 ➔ 自主建构 ➔ 变式应用 | 聆听概念 ➔ 观察例题 ➔ 封闭操练 | 剖析问题 ➔ 查阅文献 ➔ 提出方案 | 意见交换 ➔ 观点妥协 |
+> | **认知加工路径** | 观察模型 ➔ 自主建构 ➔ 变式应用 | 聆听概念 ➔ 观察例题 ➔ 封闭操练 | 剖析问题 ➔ 查阅[[Document\|文献]] ➔ 提出方案 | 意见交换 ➔ 观点妥协 |
 > | **典型实证优势** | **大幅降低课程挂科率（OR 显著提升）** | 短期程序计算掌握速度极快 | 综合实践能力与自主求知欲 | 社交互动活跃 |
 
 ---
@@ -159,30 +161,24 @@ POGIL 的成功运作依赖于“学习环认知进阶”与“合作角色互�
 
 ---
 
-### 命题一　角色化互锁分工能有效分散外在认知负荷并抑制搭便车现象
-
-> [!concept-lens] [[Cognitive Load Theory\|认知负荷理论]]与协同认知维度
-> 解释结构化角色分工如何赋能复杂科学推理。
+> [!concept-proposition] 命题一｜角色化互锁分工能有效分散外在认知负荷并抑制搭便车现象
+> **探讨维度　[[Cognitive Load Theory\|认知负荷理论]]与协同认知维度** 解释结构化角色分工如何赋能复杂科学推理。
 
 > [!claim] Moog, R. S. & Spencer, J. N.
 > **集体[[Working Memory\|工作记忆]]对复杂认知任务的协同分担** 大学科学课程中的前沿概念往往具有极高的内在认知复杂度。单个初学者的[[Working Memory\|工作记忆]]极易在阅读长文本与操纵计算时超载。POGIL 通过将记录、计时、质疑与归纳等外在程序性职责显性分配给不同角色，构成了分布式集体认知系统。学生在相互辩驳中澄清模糊直觉，显著降低了个体的认知压力，使认知资源得以聚焦于深层概念建构。（Moog & Spencer, 2008；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]）
 
 ---
 
-### 命题二　过程导向探究学习环显著提升科学课程通过率并有效降低挂科弃学率
-
-> [!concept-lens] 学业保留率与教育公平维度
-> 剖析 POGIL 对 [[STEM Education\|STEM]] 关键门槛课程（[[Gatekeepers\|gatekeeper]] Courses）通过率的重大影响。
+> [!concept-proposition] 命题二｜过程导向[[Inquiry-Based Learning|探究学习]]环显著提升科学课程通过率并有效降低挂科弃学率
+> **探讨维度　学业保留率与教育公平维度** 剖析 POGIL 对 [[STEM Education\|STEM]] 关键门槛课程（[[Gatekeepers\|gatekeeper]] Courses）通过率的重大影响。
 
 > [!claim] Walker, L. & Warfa, A. M.
 > **课程通过优势比的大幅提升与及格底线保障** 针对全美多所高校与中学 STEM 课堂的权威一阶[[Meta-analysis\|元分析]]表明，尽管 POGIL 对标准化期末测验的平均分提升效应相对温和，但其对课程通过率产生了具有[[Statistical Significance\|统计显著性]]的重大增益：实施 POGIL 的班级其学生顺利通过课程的优势比（Odds Ratio）系统性提升，挂科率与退课率（DFW 率）发生断崖式下跌。这一结果证明，POGIL 能够为处于学业边缘的处境不利学生提供坚实的学习支撑网，有效遏制了传统纯讲授大班下的群体性掉队。（Walker & Warfa, 2017；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]）
 
 ---
 
-### 命题三　POGIL 显著促进学生从被动表面学习转向深层概念理解与长效保持
-
-> [!concept-lens] 学习途径与概念保持维度
-> 检验 POGIL 对高阶[[Scientific Literacy\|科学素养]]与延迟[[Academic Achievement\|学业表现]]的塑造效能。
+> [!concept-proposition] 命题三｜POGIL 显著促进学生从被动表面学习转向深层概念理解与长效保持
+> **探讨维度　学习途径与概念保持维度** 检验 POGIL 对高阶[[Scientific Literacy\|科学素养]]与延迟[[Academic Achievement\|学业表现]]的塑造效能。
 
 > [!claim] Joshi, N. & Lau, S. K.
 > **[[Surface and Deep Learning\|深层学习]]方法与长期抗遗忘表现的质性提升** 实证对比研究表明，经历 POGIL 教学干预的学生在《学习过程[[Questionnaire\|问卷]]》（R-SPQ-2F）上的深层学习途径得分显著提高，表面机械应付倾向大幅降低。在学期末及更长周期的延迟测验中，POGIL 组学生对基本科学规律的因果推理与概念保持显著超越传统讲授班级，证实自发经历探索与概念形成的学生掌握了更为弹性的学科知识。（Joshi & Lau, 2023；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]）
@@ -239,7 +235,7 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 > | Walker and Warfa (2017)（课程通过优势比分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]） | <span class="mx-bar ef-bar conv bound" title="OR &gt; 1.0 → d ≈ 0.00（d = ln(OR) · √3 / π；Logistic 潜变量假设）；下界/上界值"><span class="b0"></span></span>> 1.0 | — | 优势比（Odds Ratio, OR） | 涵盖多项对照实验 | 干预因素：POGIL 教学法对比传统常规讲授大班 | 挂科与退课率（DFW）显著压低（$p < .01$） | 标杆元分析；证实 POGIL 显著提升学生通过关键科学课程的概率，有效保障学业底线 |
 > | Walker and Warfa (2017b)（标准化考试成绩分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 3–4]]） | <span class="mx-bar ef-bar range" title="SMD 0.15–0.20；取区间中点"><span class="b4"></span></span>0.15–0.20 | — | 标准化平均差（SMD） | 涵盖多所大学与高中理科 | 干预因素：POGIL 对比传统[[Direct Instruction\|直接讲授]]的期末考试成绩 | 异质性中等 | 证实期末分数提升相对温和，其核心制度性收益在于保底及格率与概念深度 |
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |

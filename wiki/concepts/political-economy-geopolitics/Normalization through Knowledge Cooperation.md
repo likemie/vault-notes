@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -98,20 +98,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　跨国知识多边网络的密度积累能够消除大国崛起的边缘依附属性
-
-> [!concept-lens] 核心机制与空间转型
-> 探讨新兴国家如何通过多边教育网络织密超越历史遗留的核心-外围不平等格局。
+> [!concept-proposition] 命题一｜跨国知识多边网络的密度积累能够消除大国崛起的边缘依附属性
+> **探讨维度　核心机制与空间转型** 探讨新兴国家如何通过多边教育网络织密超越历史遗留的核心-外围不平等格局。
 
 > [!claim] [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]]
 > **网络资本积累与中心性转移** 传统[[World-Systems Theory|世界体系理论]]假定非西方国家处于[[Knowledge Production|知识生产]]的外围，必须依赖依附核心国家获取学术声誉与技术资源；Chou 与 Demiryol 指出，中国高等教育通过发起并维系复合型多边大学联盟，将双边关系转化为高密度的多边网络，使中国高校在全球高教多边互动中成为连接各节点不可或缺的常规存在，进而从结构上终结了单向依附的边缘属性。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1703–1704)]]
 
 ---
 
-### 命题二　开放大众化网络与精英排他性联盟通过功能分工协同支撑中心性确立
-
-> [!concept-lens] 组织分工与战略互补
-> 探讨不同类型的跨国大学合作组织在实现网络中心性常态化中所承担的互补功能。
+> [!concept-proposition] 命题二｜开放大众化网络与精英排他性联盟通过功能分工协同支撑中心性确立
+> **探讨维度　组织分工与战略互补** 探讨不同类型的跨国大学合作组织在实现网络中心性常态化中所承担的互补功能。
 
 > [!claim] [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]]
 > **双轨制度架构的复合支撑** 开放包容的大众化多边网络（如[[University Alliance of the Silk Road|丝绸之路大学联盟]]）负责大范围扩展伙伴连接基数，降低参与门槛，主要提供公共产品并培育人文互信；严苛筛选的精英旗舰多边网络（如[[Asian Universities Alliance|亚洲大学联盟]]）则集中定向高额资助攻坚前沿战略科技，主导学术规则研制。两类组织逻辑看似矛盾，实则共同服务于网络中心地位的日常化与常态化。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1699–1704)]]

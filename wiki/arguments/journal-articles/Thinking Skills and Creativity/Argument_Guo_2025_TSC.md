@@ -37,6 +37,7 @@ related_concepts:
   - "[[Topological Spatialisation]]"
   - "[[Literature Search]]"
   - "[[Publication Bias]]"
+  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Reliability]]"
   - "[[Externalization]]"
@@ -91,14 +92,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-02
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Guo_2025_TSC"
 argument_key: "Argument_Guo_2025_TSC"
 argument_display_title: "Effect of training programs on the creativity of university students: A multi-level meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 60
+argument_related_count: 61
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -159,7 +160,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成与分布特征 |
 > |---|---|
-> | **文献总体样本** | 共纳入 29 篇实证文献，涵盖 109 个独立效应量；发表时间跨越 2000 年至 2024 年。 |
+> | **[[Document\|文献]]总体样本** | 共纳入 29 篇实证文献，涵盖 109 个独立效应量；发表时间跨越 2000 年至 2024 年。 |
 > | **地理与国别分布** | 涵盖美国（8 项）、中国（含台湾地区，4 项）、英国（2 项）、德国（2 项）、加拿大（2 项）、法国（2 项）、希腊（2 项）、奥地利、土耳其、丹麦、荷兰、约旦、波兰、阿联酋等 14 个国家/地区。 |
 > | **对照组设计类型** | 对照组设计分为五类：a = 无训练对照（3 项）；b = 接受替代性对照训练（20 项）；c = 等待名单/[[Pre-test and Post-test\|前后测]]无干预（5 项）；d/e = 情绪或神经认知对照训练（2 项）。 |
 > | **测量工具多样性** | 涵盖[[Divergent Thinking\|发散思维]]（TTCT、AUT、GAU）、联想重组（RAT、OTT）、真实性设计与作品评价（CEDA、WRT、OSVM）及情绪[[Creativity\|创造力]]量表（ECI）等多模态测量体系。 |
@@ -217,7 +218,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一：文献综合与全域效应估计——确立创造力干预对高校学生的中等促进基准
+> [!claim|step] 论证步骤一：文献综合与全域效应估计——确立创造力干预对高校学生的中等促进基准
 > 实证研究数据有力支持了[[Creativity Training\|创造力训练]]在高等教育阶段的有效性；多层[[Random-Effects Model\|随机效应模型]]表明，创造力干预对大学生的[[Creativity\|创造力]]水平产生中等且高度统计显著的正向促进效应（$g = 0.628, p < 0.001$），且实证结果不存在显著的发表偏倚。
 
 > [!ref-table]- 全域[[Effect Size\|效应量]]与[[Heterogeneity\|异质性]]检验表
@@ -244,7 +245,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二：多维创造力构念响应分化——发散思维与具象表达的优先增益机制
+> [!claim|step] 论证步骤二：多维创造力构念响应分化——发散思维与具象表达的优先增益机制
 > 创造力训练并非对所有创造力成分产生均质影响，而是呈现出明显的构念响应分化：指向发散探索的创造性思维（$g = 0.671$）与图形创造力（$g = 0.644$）获得最显著的提升，词汇（$g = 0.641$）、言语（$g = 0.606$）与[[Problem Solving\|问题解决]]（$g = 0.539$）维持中等增益，而情绪创造力（$g = 0.397$）的干预响应相对偏弱。
 
 > [!ref-table]- 不同创造力子维度的干预效应量分布表
@@ -274,7 +275,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三：干预特征调节机制——时间周期的倒 U 型演变与认知言语训练优势
+> [!claim|step] 论证步骤三：干预特征调节机制——时间周期的倒 U 型演变与认知言语训练优势
 > 创造力训练的效果受教学设计特征与实施环境的显著调节：干预周期呈现倒 U 型曲线关系，中短期干预（$< 2$ 个月）成效最佳（$g = 0.844$），长周期训练效果明显衰减；在教学方式上，言语训练（$g = 0.998$）与思维训练（$g = 0.762$）效果最为显著；在组织形态与对象上，独立练习（$g = 0.682$）优于小组协作（$g = 0.567$），研究生群体的干预响应（$g = 0.991$）高于本科生（$g = 0.613$）。
 
 > [!ref-table]- 调节[[Variable\|变量]]亚组与[[Meta-regression\|元回归分析]]表
@@ -313,7 +314,7 @@ issuing_organization: ""
 > - **< 2 年（g = 0.418）** 效应有所回升但维持在中低水平
 > - **< 3 年（g = -0.122）** 认知定势重构与注意力耗竭，干预效应归零（统计不显著）
 
-#### 实证干预方式与认知机制深度拆解
+> [!sub-claim] 实证干预方式与认知机制深度拆解
 
 > [!case] 案例一　言语训练（Verbal Training，$g = 0.998$）
 > **效应量统计** $N = 15$ 项效应量，**$g = 0.998$**（95% CI $[0.437, 1.560]$），$SE = 0.286$，$Z = 3.485\ (p < .001)$，在所有训练方式中效应量居首。
@@ -385,7 +386,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤四：高等教育实践转化路径——高校创新课程与教学改革框架
+> [!claim|step] 论证步骤四：高等教育实践转化路径——高校创新课程与教学改革框架
 > 基于[[Three-Level Meta-Analysis\|多层元分析]]实证证据，高等教育机构应系统重构创新创业与创造力课程生态，从课程周期配置、核心认知策略嵌入、组织模式平衡及师资专业发展四个维度推进教学改革。
 
 > [!pathways] 高校创造力教学改革四大实施路径

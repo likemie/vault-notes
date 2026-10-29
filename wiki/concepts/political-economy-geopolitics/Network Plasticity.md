@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -98,20 +98,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　社会网络拓扑具备高度可塑性并受能动行动者策略性重组
-
-> [!concept-lens] 组织社会学与微观管理学维度
-> 探讨组织领导者与关键行动者如何超越网络结构的被动约束，通过主动调配关系资源重构网络拓扑。
+> [!concept-proposition] 命题一｜社会网络拓扑具备高度可塑性并受能动行动者策略性重组
+> **探讨维度　组织社会学与微观管理学维度** 探讨组织领导者与关键行动者如何超越网络结构的被动约束，通过主动调配关系资源重构网络拓扑。
 
 > [!claim] Davis, G. F.
 > **网络拓扑的策略性可塑性** 组织内部与组织间的社会网络并非静态结构，而是由管理者的策略性选择动态塑造的。行动者拥有调动资源、切断冗余联系与建立关键连接的能力，网络可塑性是组织突破制度惯性、实现战略变革的核心杠杆。
 
 ---
 
-### 命题二　公共代理人依托网络可塑性重织跨界生态以引导颠覆性技术轨道
-
-> [!concept-lens] 国家创新政策与[[Embedded Network Governance|嵌入型网络治理]]维度
-> 探讨政府专业项目经理如何在前沿产业中调动网络可塑性，克服[[Vertical Disintegration|纵向碎片化]]带来的创新停滞。
+> [!concept-proposition] 命题二｜公共代理人依托网络可塑性重织跨界生态以引导颠覆性[[Technological Trajectories|技术轨道]]
+> **探讨维度　国家创新政策与[[Embedded Network Governance|嵌入型网络治理]]维度** 探讨政府专业项目经理如何在前沿产业中调动网络可塑性，克服[[Vertical Disintegration|纵向碎片化]]带来的创新停滞。
 
 > [!claim] [[Erica Fuchs|Fuchs, E. R. H.]]
 > **运用网络可塑性破除产业碎片化** 在高度[[Vertical Disintegration|纵向离散]]（Vertically Disintegrated）的硬科技领域，分散的学术研究者与工业制造企业缺乏自主协同动力。具备深厚学术声誉与项目发包权的 [[DARPA]] 项目经理，将网络拓扑视为具备高度可塑性的操作对象；他们通过强制学术明星与晶圆厂共同签约、搭建通用测试床等微观非正式机制，主动重构了研发共同体的拓扑结构，使原本孤立的异端构想成功转化为全行业主导的[[Technological Trajectories|技术轨道]]。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1145)]]

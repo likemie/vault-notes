@@ -6,10 +6,10 @@ aliases:
 summary: "认识论认知中衡量知识是驻留于外部权威还是由主体内部积极建构的核心维度，在数字多文本时代进一步拓展为对信息源资质、立场与可信度的批判性评估规程。"
 type: concept
 domain: "educational-psychology"
-related_count: 38
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - "theme/epistemological-beliefs"
   - "level/dimension"
@@ -34,10 +34,12 @@ related_concepts:
   - "[[Absolute Knowing]]"
   - "[[Independent Knowing]]"
   - "[[Construct]]"
+  - "[[Explicit Teaching Strategies]]"
   - "[[Epistemic Cognition]]"
   - "[[Critical Thinking]]"
   - "[[Paradigm]]"
   - "[[Scaffolding]]"
+  - "[[Document]]"
   - "[[Academic Achievement]]"
   - "[[Subjectivism]]"
   - "[[Ecological Validity]]"
@@ -61,7 +63,7 @@ related_arguments:
 status: active
 confidence: high
 created: 2026-08-14
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -107,7 +109,7 @@ updated: 2026-10-25
 > - **[[Women's Ways of Knowing\|女性认知方式]]（Belenky et al., 1986）** 从听凭外界指挥的沉默与[[Received Knowledge\|接收知识]]，发展为个体通过反思发出个人声音的[[Constructed Knowledge\|建构知识]]。
 > - **[[Epistemological Reflection Model\|认识论反思模型]]（Baxter Magolda, 1992）** 从依赖权威灌输的[[Absolute Knowing\|绝对认知]]，发展为主张个人独立声音的[[Independent Knowing\|独立认知]]与环境综合。
 > - **[[Epistemology\|认识论]]维度综合模型（[[Argument_Hofer_1997_RER\|Hofer & Pintrich, 1997]]）** 将知识来源提纯为核心[[Construct\|构念]]，与知识确定性、知识结构简易性及[[Justificatory Standards\|确证标准]]并列为四大支柱。
-> - **多文本认知干预模型（Bråten et al., 2011; [[Argument_Cartiff_2021_JEP\|Cartiff et al., 2021]]）** 将知识来源[[Operationalization\|操作化]]为显性教学策略，通过信源评估干预提升批判性阅读与证据整合水平。
+> - **多文本认知干预模型（Bråten et al., 2011; [[Argument_Cartiff_2021_JEP\|Cartiff et al., 2021]]）** 将知识来源[[Operationalization\|操作化]]为[[Explicit Teaching Strategies|显性教学策略]]，通过信源评估干预提升批判性阅读与证据整合水平。
 
 ---
 
@@ -115,20 +117,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　认知成熟伴随知识来源由外部权威垄断向内部能动建构的重心转移
-
-> [!concept-lens] 认知主体地位的觉醒
-> 知识来源维度的演进表征了个体在认知发展过程中，自我角色从外部客体的附庸向拥有意义建构权的能动主体转变的内在规律。
+> [!concept-proposition] 命题一｜认知成熟伴随知识来源由外部权威垄断向内部能动建构的重心转移
+> **探讨维度　认知主体地位的觉醒** 知识来源维度的演进表征了个体在认知发展过程中，自我角色从外部客体的附庸向拥有意义建构权的能动主体转变的内在规律。
 
 > [!claim] [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]
 > **权威祛魅与主体确认** 个体[[Epistemic Cognition\|认识论认知]]走向成熟的关键标志之一，是完成知识来源的内在化演进。在认知的初级阶段，个体普遍秉持外部依附信念，认为自我如同一个空容器，真理完全由权威机构或专家垄断，学习活动被窄化为对权威结论的忠实复制。伴随教育体验的深化与认知冲突的累积，学习者逐步发现权威之间亦存在分歧与认知盲区，从而开始瓦解对权威的盲信，确认自我作为意义建构者的合法地位。这一转变不仅是[[Epistemology\|认识论]]成熟的基石，也是激发学生[[Critical Thinking\|批判性思维]]与自主探究意愿的核心前提。
 
 ---
 
-### 命题二　显性讲授信源评估规程是打破被动接收并获取高阶学业增益的有效干预路径
-
-> [!concept-lens] 数字信息情境下知识来源信念的教学干预
-> 在数字多文本环境中，单纯抽象强调主体建构并不足以支持学生应对虚假与冲突信息。提供明确的[[Source Evaluation\|信源评估]]策略规程，是重塑知识来源信念并带来稳健学业成效的教学干预支架。
+> [!concept-proposition] 命题二｜显性讲授[[Source Evaluation|信源评估]]规程是打破被动接收并获取高阶学业增益的有效干预路径
+> **探讨维度　数字信息情境下知识来源信念的教学干预** 在数字多文本环境中，单纯抽象强调主体建构并不足以支持学生应对虚假与冲突信息。提供明确的[[Source Evaluation\|信源评估]]策略规程，是重塑知识来源信念并带来稳健学业成效的教学干预支架。
 
 > [!claim] [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]
 > **信源评估教学规程的因果促进机制** 针对认识论认知干预的一阶[[Meta-analysis\|元分析]]表明，在各类教学模式中，显性讲授信源评估规则是成效最为突出的干预[[Paradigm\|范式]]之一。传统的放任式探究或非结构化自由阅读往往导致学生在海量冲突信息中无所适从，甚至退回至选择性采纳符合既有偏见的低阶状态。相反，当教师明确教授如何识别信源专业背景、查验出版机构立场倾向、辨识证据支撑力度等具体操作规程时，学生能够迅速克服对表面权威的盲从或虚无主义怀疑，显著提升多文本整合与深度论证水平。这种将抽象的知识来源信念转化为具体评价规则的[[Scaffolding\|教学支架]]，展现出极强的因果促进效能。
@@ -136,7 +134,7 @@ updated: 2026-10-25
 ---
 
 > [!contrast-table] 围绕知识来源形成的命题归纳
-> | 命题命名 | 核心理论指向 | 适用情境与机制功能 | 代表学者与文献 |
+> | 命题命名 | 核心理论指向 | 适用情境与机制功能 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **权威祛魅假说** | 认知成熟表现为[[Knowledge Production\|知识生成]]主体由外部权威垄断向内部自我建构转移 | 解释学习者从被动容器向[[Learner Autonomy\|自主学习]]与批判性反思的转变 | [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] |
 > | **信源评估教学规程机制** | 显性教授多文本来源评估规则能有效破解盲从依赖并带来突出学业提升 | 适用于数字时代网络冲突信息的跨文本阅读、论辩写作与概念理解 | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] |

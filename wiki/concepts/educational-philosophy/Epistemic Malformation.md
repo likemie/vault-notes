@@ -8,7 +8,7 @@ aliases:
 summary: "由 A. C. Nikolaidis (2021) 提出的教育哲学核心概念，指教育教学安排、评价偏见或技术代劳对个体作为求知者的认知机能、探究习惯与理智美德所造成的系统性扭曲与发育阻滞，构成了成长性认识不正义的微观病理学机制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Humility]]"
   - "[[Learned Helplessness]]"
   - "[[Epistemic Virtues and Vices]]"
+  - "[[Teacher Questioning]]"
   - "[[Operationalization]]"
   - "[[Computerization of Education]]"
   - "[[Alien Intelligence]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -100,20 +101,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　课堂评价中的认识论不相关偏袒会诱发学习者自我认知畸变并扼杀探究动机
-
-> [!concept-lens] 教师评价偏见与发展路径封锁
-> 剖析教学互动中教师对学生非智力表现的无意识倾斜，揭示外在偏倚如何转化为学生内在的认识发育停滞。
+> [!concept-proposition] 命题一｜课堂评价中的[[Epistemology|认识论]]不相关偏袒会诱发学习者自我认知畸变并扼杀探究动机
+> **探讨维度　教师评价偏见与发展路径封锁** 剖析教学互动中教师对学生非智力表现的无意识倾斜，揭示外在偏倚如何转化为学生内在的认识发育停滞。
 
 > [!claim] Nikolaidis, A. C. & Smith, S. J.
 > **非认识特权偏向诱发认知盲目自满** Nikolaidis (2021) 指出，[[Formative Epistemic Injustice|成长性认识不正义]]包含所有导致认知畸变的教育过错。当教师因学生表现出自信、口齿伶俐等与真实理解无关的特质而给予过高信任与特权表彰时，该学生会误以为自己已经掌握客观真理，从而丧失深入经历探究与概念推敲的内在动力。这种由教学评价偏向诱发的认知畸变，过早封闭了学生作为成熟求知者的演进通道。[[Argument_Smith_2026_SPE|Smith (2026, p. 5)]]
 
 ---
 
-### 命题二　生成式人工智能全流程代写通过剥夺高阶工序加剧自加赤字与虚假通胀的双向认知畸变
-
-> [!concept-lens] 算法私厨代劳与读写心智去功能化
-> 结合读写教学前沿实证，解构灵感生成、提纲线性化与反思修改被技术剥离后对学生心智生态的深层破坏。
+> [!concept-proposition] 命题二｜[[Generative Artificial Intelligence|生成式人工智能]]全流程代写通过剥夺高阶工序加剧自加赤字与虚假通胀的双向认知畸变
+> **探讨维度　算法私厨代劳与读写心智去功能化** 结合读写教学前沿实证，解构灵感生成、提纲线性化与反思修改被技术剥离后对学生心智生态的深层破坏。
 
 > [!claim] Smith, S. J.
 > **算法代劳破坏自我[[Reliability|信度]]校准机制** 在读写教育中，构思迫使学生直面空白提取生活经验，提纲迫使学生将网状思维线性化，修改则驱动基于自我评估的观念重构。若教师鼓励学生将这些核心工序外包给生成式 AI，学生表面交出高水平文本，内心却陷入严重的认知畸变：基础薄弱生深信自己缺乏构思能力而陷入技术性[[Learned Helplessness|习得性无助]]（自加信度赤字）；中高水平生则被算法华丽辞藻蒙蔽而产生虚妄自满（虚假信度通胀），一旦脱离技术便瞬间丧失独立表达能力。[[Argument_Smith_2026_SPE|Smith (2026, pp. 6–9)]]
@@ -123,7 +120,7 @@ updated: 2026-10-22
 > [!contrast-table] 认知畸变核心命题梳理
 > | 命题维度 | 核心主张 | 现实表现场景 | 理论贡献者 |
 > |---|---|---|---|
-> | **教学评价诱发命题** | 因外在非认识因素偏袒学生，会导致其丧失反思探究动力，形成早熟性自满畸变 | 传统课堂提问、教师主观表现打分、口头答辩 | Nikolaidis (2021) |
+> | **教学评价诱发命题** | 因外在非认识因素偏袒学生，会导致其丧失反思探究动力，形成早熟性自满畸变 | 传统[[Teacher Questioning\|课堂提问]]、教师主观表现打分、口头答辩 | Nikolaidis (2021) |
 > | **技术代劳双向畸变命题** | 算法代劳高认知增益环节摧毁自我信度校准，同时滋生自加赤字与虚假通胀 | 生成式 AI 辅助写作、大模型一键改写[[Homework\|作业]] | [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 
 ---

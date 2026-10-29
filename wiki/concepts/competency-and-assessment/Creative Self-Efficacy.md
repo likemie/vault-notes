@@ -32,12 +32,12 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Wicked Problem]]"
   - "[[Feedback]]"
+  - "[[Variable]]"
+  - "[[Executive Function]]"
   - "[[Learning Gain]]"
   - "[[Working Memory]]"
   - "[[Common Method Variance]]"
   - "[[Critical Thinking]]"
-  - "[[Variable]]"
-  - "[[Executive Function]]"
   - "[[Research Utilization]]"
   - "[[Heterogeneity]]"
   - "[[Independent Variable]]"
@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -156,40 +156,32 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　创造性自我效能感是预测显性创造表现的核心外认知变量且与成果关联强于发散思维
-
-> [!concept-lens] 外认知效能感与创造表现的直接关联
-> 探讨信念层面的[[Self-Efficacy\|自我效能感]]在多大程度上能够独立预测个体的显性[[Creativity\|创造性]]产出与创新成就。
+> [!concept-proposition] 命题一｜[[Creativity|创造性]][[Self-Efficacy|自我效能感]]是预测显性创造表现的核心外认知[[Variable|变量]]且与成果关联强于[[Divergent Thinking|发散思维]]
+> **探讨维度　外认知效能感与创造表现的直接关联** 探讨信念层面的[[Self-Efficacy\|自我效能感]]在多大程度上能够独立预测个体的显性[[Creativity\|创造性]]产出与创新成就。
 
 > [!claim] Haase et al.; Yodchai et al.; Runco et al.
 > **效能感对真实创造性成果的强预测力** [[Meta-analysis\|元分析]]表明，创造性自我效能感与创造性成果/工作绩效保持着中等偏强的稳健正相关（$r = 0.39 \sim 0.44$），显著高于其与单纯纸笔[[Divergent Thinking\|发散思维]]测验的关联系数（$r = 0.26$）。在[[Meta-meta-analysis\|二阶元分析]]模型中，外认知信念[[Construct\|构念]]大类（包含 CSE）展现出跨领域稳健的实证关联系数（$r = 0.14$）。这一结果证明，具备发散认知潜能仅提供了创新的可能性，只有当个体对自身的创造能力抱有强烈效能信念时，才会主动投入高成本的认知加工与长程探索，推动潜能转化为现实成果。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 3–4)]]
 
 ---
 
-### 命题二　掌握经验与结构化认知训练是塑造创造效能感的最优路径，单纯情绪唤起效用不足
-
-> [!concept-lens] 教学干预路径与效能感生成的实证机制
-> 探讨不同类型的[[Creativity Training\|创造力训练]]教学方式如何差异化影响创造性自我效能感的建立。
+> [!concept-proposition] 命题二｜掌握经验与结构化认知训练是塑造创造效能感的最优路径，单纯情绪唤起效用不足
+> **探讨维度　教学干预路径与效能感生成的实证机制** 探讨不同类型的[[Creativity Training\|创造力训练]]教学方式如何差异化影响创造性自我效能感的建立。
 
 > [!claim] Bandura; Meinel et al.; Guo et al.
 > **掌握经验的主导地位与认知策略支撑** 亲历成功掌握经验是构建自我效能感最强大、最持久的心理信息源。[[Three-Level Meta-Analysis\|多层元分析]]实证表明，依托认知加工、言语策略与结构化思维工具的系统干预（言语训练 $g = 0.998$，思维训练 $g = 0.762$）能显著提升创造表现，并通过掌握经验稳固强化创造性自我效能感；相比之下，脱离结构化认知工具的纯情绪激励与放松训练（$g = -0.066$）无法有效提升创造力或建立稳固效能感。这证明创造信心必须扎根于具体解题策略与成功解决问题的实战掌控感，而非盲目的自我心理按摩。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 6–7, 10)]]
 
 ---
 
-### 命题三　独立个体深思比松散小组协作更利于沉淀效能感，且效能感受测验焦虑与执行功能显著调节
-
-> [!concept-lens] 学习组织形式、个体焦虑与效能感互动
-> 探讨学习组织形态与个体心理特质如何共同调节创造性自我效能感的沉淀与释放。
+> [!concept-proposition] 命题三｜独立个体深思比松散小组协作更利于沉淀效能感，且效能感受测验焦虑与[[Executive Function|执行功能]]显著调节
+> **探讨维度　学习组织形式、个体焦虑与效能感互动** 探讨学习组织形态与个体心理特质如何共同调节创造性自我效能感的沉淀与释放。
 
 > [!claim] Meinel et al.; Guo et al.
 > **个体探究的效能归因优势与焦虑缓冲效应** 多层元分析数据显示，高校创造力训练中独立个体练习的[[Learning Gain\|学习增益]]（$g = 0.682$）显著高于松散的小组协作（$g = 0.567$）。在个体独立解题情境中，学生必须独自经历面对僵局、检索策略并实现突破的完整闭环，其成功探索能清晰归因于“自身能力”，从而深度沉淀个人创造性自我效能感；而在松散小组中易出现“社会惰化”与责任分散。同时，实证研究证实测验焦虑（Test Anxiety）会显著消耗[[Working Memory\|工作记忆]]并压低创造效能感，而训练所获得的策略工具能够充当心理支架，缓冲焦虑对创新的抑制作用。(Meinel et al., 2019; [[Argument_Guo_2025_TSC\|Guo et al., 2025, pp. 7, 10]])
 
 ---
 
-### 命题四　自陈测量的主观共变显著膨胀观察相关，必须结合客观表现工具实施双轨测评
-
-> [!concept-lens] 测量方法学偏倚与[[Common Method Variance\|共同方法变异]]
-> 探讨创造性自我效能感在实证测评中的测量学风险与矫正策略。
+> [!concept-proposition] 命题四｜自陈测量的主观共变显著膨胀观察相关，必须结合客观表现工具实施双轨测评
+> **探讨维度　测量方法学偏倚与[[Common Method Variance\|共同方法变异]]** 探讨创造性自我效能感在实证测评中的测量学风险与矫正策略。
 
 > [!claim] Park et al.; Podsakoff et al.
 > **共同方法变异对效能感相关的人为人为放大** 三水平元分析表明，当创造力与[[Critical Thinking\|批判性思维]]等构念均采用自陈主观测量（如 CSE 量表与自陈思维[[Questionnaire\|问卷]]）时，合并相关高达 $r = 0.509$；而当采用双客观任务表现测验时，相关回落至真实的认知重叠水平（$r = 0.317$），测量类型主效应高度显著（$Q_M(1) = 10.133, p = .002$）。这表明单靠自陈问卷测量创造性自我效能感，极易受到社会赞许性、积极自我偏差及 Likert 量表格式所引发的[[Common Method Variance\|共同方法变异]]（CMV）污染。科学的测评必须将自陈 CSE 量表与标准化发散表现测验（如 [[Abbreviated Torrance Test for Adults\|ATTA]]、[[Test for Creative Thinking-Drawing Production\|TCT-DP]]）或专家产品评定（CAT）相结合。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 8–10)]]

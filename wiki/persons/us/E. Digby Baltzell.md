@@ -9,7 +9,7 @@ summary: "美国著名社会学家、宾夕法尼亚大学教授，创造了WASP
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 4
+person_related_count: 5
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -27,14 +27,15 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Robert K. Merton]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -55,7 +56,7 @@ updated: 2026-10-22
 > - **1915** 出生于费城一个历史悠久的精英家庭。
 > - **1939** 毕业于宾夕法尼亚大学沃顿商学院。
 > - **1942–1945** 二战期间在美国海军服役，担任太平洋战场海军飞行员。
-> - **1953** 获得哥伦比亚大学社会学博士学位，师从罗伯特·K. 默顿（Robert K. Merton）与西摩·马丁·利普塞特（Seymour Martin Lipset）。
+> - **1953** 获得哥伦比亚大学社会学博士学位，师从罗伯特·K. [[Robert K. Merton|默顿]]（Robert K. Merton）与西摩·马丁·利普塞特（Seymour Martin Lipset）。
 > - **1953–1986** 长期任教于宾夕法尼亚大学社会学系。
 > - **1958** 出版成名作《费城绅士》（*Philadelphia Gentlemen: The Making of a National Upper Class*）。
 > - **1964** 出版代表作《新教当权派：美国社会中的贵族与种姓》（*The Protestant Establishment: Aristocracy and Caste in America*）。

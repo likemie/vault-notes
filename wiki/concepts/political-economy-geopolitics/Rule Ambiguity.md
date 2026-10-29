@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -103,20 +103,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　成文规则具有内生不可消除的模糊性，成文法典化无法终结解释冲突
-
-> [!concept-lens] 规则[[Ontology|本体论]]与完备性神话
-> 梳理理性选择制度主义与法律[[Positivism|实证主义]]将规则模糊性视为暂时缺陷的假定，论证成文规则内在的模糊物理属性。
+> [!concept-proposition] 命题一｜成文规则具有内生不可消除的模糊性，成文法典化无法终结解释冲突
+> **探讨维度　规则[[Ontology|本体论]]与完备性神话** 梳理理性选择制度主义与法律[[Positivism|实证主义]]将规则模糊性视为暂时缺陷的假定，论证成文规则内在的模糊物理属性。
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & [[Kathleen Thelen|Thelen, K.]]
 > **模糊性的内生必然性** 传统制度分析假定模糊性会随着重复博弈、判例积累与法律正规化而逐渐消弭；然而，现实政治表明，成文法条越详尽，其界定边缘所暴露出的解释缝隙与管辖冲突反而越多；模糊性是成文规约在面对动态现实世界时不可剥夺的内生特征，试图通过精密设计消除模糊性只是虚妄的技术神话。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–12)]]
 
 ---
 
-### 命题二　规则模糊性为弱势行动者提供了制度内部撬动渐进变迁的微观温床
-
-> [!concept-lens] 权力博弈与微观变迁机制
-> 阐明行动者如何利用规则条文与实际落实之间的缝隙，规避[[Veto Possibilities|政治否决阻力]]以推进实质改革。
+> [!concept-proposition] 命题二｜规则模糊性为弱势行动者提供了制度内部撬动渐进变迁的微观温床
+> **探讨维度　权力博弈与微观变迁机制** 阐明行动者如何利用规则条文与实际落实之间的缝隙，规避[[Veto Possibilities|政治否决阻力]]以推进实质改革。
 
 > [!claim] Mahoney, J. & Thelen, K.
 > **缝隙作为变迁温床** 缺乏政治权力直接推翻旧法律的制度挑战者，正是敏锐地捕捉到规则模糊性所留下的“软肋”，在司法判例与行政裁量中赋予规则全新的政策目标；因此规则模糊性不仅维系着妥协现状，更构成了内生累积质变的孵化器。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 13–14)]]

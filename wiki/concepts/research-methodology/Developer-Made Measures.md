@@ -36,9 +36,9 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Epistemology]]"
   - "[[Rote Learning]]"
+  - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Norm-Referenced Test]]"
-  - "[[Variable]]"
   - "[[Interaction Effect]]"
   - "[[Evidence Standards]]"
 related_theories: []
@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -113,30 +113,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　开发者自编测验因过度对齐课程特定内容造成学业效应量的结构性虚夸
-
-> [!concept-lens] 测验内容敏感性与因果效应虚增
-> 探讨测量工具命题逻辑与干预教学内容重叠时对组间比较[[Effect Size\|效应量]]产生的系统性扭曲。
+> [!concept-proposition] 命题一｜开发者自编测验因过度对齐课程特定内容造成学业[[Effect Size|效应量]]的结构性虚夸
+> **探讨维度　测验内容敏感性与因果效应虚增** 探讨测量工具命题逻辑与干预教学内容重叠时对组间比较[[Effect Size\|效应量]]产生的系统性扭曲。
 
 > [!claim] [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]
 > **自编测验导致效应量被虚构放大** 在早期教育干[[Pilot Testing\|预实验]]中，研究者为了追求显著正向结果，往往倾向于自行编制测验或采用方案内置的诊断试卷；这类测验直接考核干预方案专门讲授的生僻词汇或特定公式，使得未经该方案培训的[[Business as Usual\|常规对照组]]学生在答题时天然处于劣势。这种设计所测得的高效应量反映的实质是“对特定题型的熟悉程度”而非普遍的“学科素养提升”，导致教学效益被系统性高估 50%–100%，构成了阻碍教育决策者获知真实成效的虚假繁荣。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 4, 10)]]
 
 ---
 
-### 命题二　强制排除自编测验并采用第三方独立标准化测试是破解教育研究复现危机的前提
-
-> [!concept-lens] 测量独立性与实证复现[[Reliability\|可靠性]]
-> 探讨在政策证据分级中剔除自编测验对提升研究复现力与公共财政投资安全性的决定性作用。
+> [!concept-proposition] 命题二｜强制排除自编测验并采用第三方独立标准化测试是破解[[Replication in Education Research|教育研究复现]]危机的前提
+> **探讨维度　测量独立性与实证复现[[Reliability\|可靠性]]** 探讨在政策证据分级中剔除自编测验对提升研究复现力与公共财政投资安全性的决定性作用。
 
 > [!claim] [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]
 > **排除自编测验切断实验者期望偏差** 过去许多号称“证据确凿”的教育创新在后续独立多中心试验中遭遇严重[[Replication in Education Research\|复现危机]]，其根源恰在于早期实证依托于小样本、开发者亲自执评与自编测验的三重偏倚放大。随着美国联邦 i3/[[Education Innovation and Research\|EIR]] 计划与英国 [[Education Endowment Foundation\|EEF]] 全面推行[[Evaluator Independence\|第三方独立评估]]，以及 [[Evidence for ESSA]] 和 [[What Works Clearinghouse\|WWC]] 明确将自编测验剔除出确证性评价体系，绝大多数原本依赖自编测验的项目被客观筛除；虽然这导致能够通过严格审查的合格方案比例大幅收缩，但凡是依然能在独立标准化测验中保持正向显著效应的方案，均展现出极高的真实情境复现力与政策可信度。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 4, 10)]]
 
 ---
 
-### 命题三　在高阶认知干预中自编测验具备常规测验所缺失的深层构念敏感度
-
-> [!concept-lens] 测量敏感度与深层思维评估
-> 探讨在复杂认知与[[Epistemology\|认识论]]干预中，自编测验的高效应量究竟源于方法学虚夸，还是反映了常规测验对深层思维变化的测量钝化。
+> [!concept-proposition] 命题三｜在高阶认知干预中自编测验具备常规测验所缺失的深层[[Construct|构念]]敏感度
+> **探讨维度　测量敏感度与深层思维评估** 探讨在复杂认知与[[Epistemology\|认识论]]干预中，自编测验的高效应量究竟源于方法学虚夸，还是反映了常规测验对深层思维变化的测量钝化。
 
 > [!claim] [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]
 > **高阶[[Construct\|构念]]对齐与测量敏感度** 在针对[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]中，研究者自编测验呈现出显著的学业促进效应（$d = 0.651$），而任课教师自编常规期末测验的效应几近于零（$d = 0.012$）。这种显著落差揭示了常规测验与高阶干预之间的目标错配：认识论干预的实际增益集中于高阶论证能力与深层概念转变，学校日常期末考大多考核现成公式套用与机械[[Rote Learning\|死记硬背]]，因而无法测量出深层思维变化；研究者自编测验专为评估概念结构与论证质量而设计，其测得的高效应量主要反映了对深层构念变化的高敏感度，而非单纯的人为过度对齐偏倚。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 488, 492)]]
@@ -157,7 +151,7 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 亚组 | 研究者自编测验 | Cohen's $d$ | k=20, N=2,429 | <span class="mx-bar ef-bar" title="Cohen's d 0.651"><span class="b13"></span></span>0.651 | [0.456, 0.846] | $Q_b = 6.446, df = 1, p < .05$ |
 > |  |  | 任课教师自编常规期末测验 |  | k=5, N=789 | <span class="mx-bar ef-bar" title="Cohen's d 0.012"><span class="b0"></span></span>0.012 | [−0.449, 0.473] | — |

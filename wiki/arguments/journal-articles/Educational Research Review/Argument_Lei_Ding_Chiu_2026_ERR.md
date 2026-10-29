@@ -7,7 +7,7 @@ title: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_key: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_display_title: "The effect of graphic organizers on cultivating higher-order thinking: Evidence from a meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 56
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -49,6 +49,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Wicked Problem]]"
+  - "[[Scoring Rubrics]]"
   - "[[Problem Solving]]"
   - "[[Creativity]]"
   - "[[Brainstorming]]"
@@ -56,7 +57,9 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Heterogeneity]]"
   - "[[Publication Bias]]"
+  - "[[Document]]"
   - "[[Open-Mindedness]]"
+  - "[[Grit]]"
   - "[[Metacognition]]"
   - "[[Reflective Thinking]]"
   - "[[Floor and Ceiling Effects]]"
@@ -95,7 +98,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-25
-updated: 2026-10-23
+updated: 2026-10-29
 ---
 ---
 
@@ -128,7 +131,7 @@ updated: 2026-10-23
 > | 变量类别与维度 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **结果变量：[[Higher-Order Thinking Skills\|高阶思维倾向]]**<br>（HOT Disposition） | 个体主动探究未知、寻求理由、保持开放心智与坚持探究的主观心向与态度习惯。 | 34 项研究采用 5 点李克特量表；代表题项如“我喜欢提出前人从未想象过的问题”（Chiu & Hwang, 2024）。 |
-> | **结果变量：[[Higher-Order Thinking Skills\|高阶认知过程]]**<br>（HOT Cognitive Process） | 面对[[Wicked Problem\|劣构问题]]时执行分析、评估、推论、综合与批判性反驳的即时心智运作。 | 17 项研究采用开放式写作任务与评分量规（Lane, 1993），评估推理深度、反驳质量与证据运用（Khrais & Saleh, 2020）。 |
+> | **结果变量：[[Higher-Order Thinking Skills\|高阶认知过程]]**<br>（HOT Cognitive Process） | 面对[[Wicked Problem\|劣构问题]]时执行分析、评估、推论、综合与批判性反驳的即时心智运作。 | 17 项研究采用开放式写作任务与[[Scoring Rubrics\|评分量规]]（Lane, 1993），评估推理深度、反驳质量与证据运用（Khrais & Saleh, 2020）。 |
 > | **结果变量：[[Higher-Order Thinking Skills\|高阶思维技能]]**<br>（HOT Outcome Skill） | 在特定情境或标准化测验中表现出的分析、推理、批判与[[Problem Solving\|问题解决]]综合能力结果。 | 57 项研究采用标准化多选题，如[[California Critical Thinking Skills Test\|加州批判性思维技能测验]]（California Critical Thinking Skills Test, CCTST, Facione, 1990）与健康教育系统公司护理专业统考（Health Education Systems, Inc., HESI, Morrison et al., 2004）。 |
 > | **结果变量：[[Divergent Thinking\|发散思维]]**<br>（Divergent Thinking） | 面对开放性问题生成新颖、多样且非常规构想与替代方案的[[Creativity\|创造性]]心智加工。 | 采用观念流畅性与独创性测验、[[Brainstorming\|头脑风暴]]方案多样性评分与创造性解题任务（Bin et al., 2022; Chen, 2020）。 |
 > | **结果变量：[[Convergent Thinking\|聚合思维]]**<br>（Convergent Thinking） | 基于严密逻辑规则对信息进行批判性审视、筛选、演绎与收敛至最优解的思维。 | 采用演绎推理测验、论据有效性识别与标准化单项选择推理题（Akinoglu, 2013; Bilik et al., 2020）。 |
@@ -154,7 +157,7 @@ updated: 2026-10-23
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **文献总体样本** | 66 篇独立实证研究，涵盖 72 个独立效应量比较，总样本量 $N = 4{,}824$ 名学生。 |
+> | **[[Document\|文献]]总体样本** | 66 篇独立实证研究，涵盖 72 个独立效应量比较，总样本量 $N = 4{,}824$ 名学生。 |
 > | **学段与地域分布** | 涵盖全球 19 个国家和地区；学段分布包含大学（$k = 49$）、中学（$k = 17$）与小学（$k = 5$）。 |
 > | **学科与干预时长** | 学科分布包含 STEM（$k = 47$）与人文社科（$k = 14$）；干预周期覆盖 4 周以内（$k = 15$）、4 至 12 周（$k = 21$）与 12 周以上（$k = 17$）。 |
 
@@ -183,7 +186,7 @@ updated: 2026-10-23
 
 > [!case] 理论案例解析：Ana 的蒲公英重金属探究与高阶思维三元结构
 > 为直观阐释高阶思维的内在运作机制，论文构建了经典教学情境案例：
-> - **观察与好奇（倾向触发）** 学生 Ana 在工厂附近的重金属污染土壤中看到生长茂盛的蒲公英，心生好奇（Curiosity）；其开放心智（[[Open-Mindedness]]）驱动她查阅学术文献并向植物修复专家请教植物吸收重金属的机制。面对晦涩难懂的学术概念，她的探究坚毅力（Perseverance）促使其克服挫折；其系统性（Systematicity）驱动她设计对照实验，系统对比清洁土壤与污染土壤中的蒲公英根系特征。
+> - **观察与好奇（倾向触发）** 学生 Ana 在工厂附近的重金属污染土壤中看到生长茂盛的蒲公英，心生好奇（Curiosity）；其开放心智（[[Open-Mindedness]]）驱动她查阅学术文献并向植物修复专家请教植物吸收重金属的机制。面对晦涩难懂的学术概念，她的探究[[Grit|坚毅]]力（Perseverance）促使其克服挫折；其系统性（Systematicity）驱动她设计对照实验，系统对比清洁土壤与污染土壤中的蒲公英根系特征。
 > - **认知加工与推论（过程展开）** Ana 借助专业仪器检验发现，污染土壤中的蒲公英含有更多重金属且根系更为错综复杂（**分析 Analysis**）；她审慎评估了根系复杂性与抗毒生存的相关性而非巧合（**评价 Evaluation**）；随后将重金属与根系结构信息综合，[[Creativity\|创造性]]地推论出基因突变可能赋予其特殊根系从而在毒土中存活（**推论与综合 Inference & Synthesis**）；最后她反思其他潜在[[Variable\|变量]]（如土壤 pH 值与水分），展现出高度的[[Metacognition\|元认知]]反思（**[[Reflective Thinking\|反思性思维]] Reflective Thinking**）。
 > - **三元层级映射** Ana 的探究过程生动表明，好奇、开放、坚毅与系统性等思维倾向是点燃探究的发动机；它们驱动了分析、评价、综合等认知过程；而这一系列心智运作最终沉淀为解决复杂真实问题的思维技能。
 
@@ -202,7 +205,7 @@ updated: 2026-10-23
 
 ---
 
-> [!claim] 论证步骤二　高阶思维构念层级与思维类型对图形组织器干预效应的调节机制
+> [!claim|step] 论证步骤二　高阶思维构念层级与思维类型对图形组织器干预效应的调节机制
 > 图形组织器的促学效应在思维[[Construct\|构念]]层级上表现为倾向与过程优先于技能结果，在思维类型上表现为[[Divergent Thinking\|发散思维]]显著优于[[Convergent Thinking\|聚合思维]]。
 
 > [!chain-link] 证据到判断
@@ -244,7 +247,7 @@ updated: 2026-10-23
 
 ---
 
-> [!claim] 论证步骤四　学习者认知发展阶段与宏观社会经济背景的调节效应
+> [!claim|step] 论证步骤四　学习者认知发展阶段与宏观社会经济背景的调节效应
 > 图形组织器的促学收益受学习者[[Meta-Representational Competence\|元表征能力]]与社会技术条件的双重调节，呈现出中学生收益最高、经济与技术发展水平正向赋能的分布格局。
 
 > [!chain-link] 证据到判断

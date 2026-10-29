@@ -22,12 +22,12 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > [!def] English Title
 > 用一段话说明概念的核心含义、适用范围和边界，附 Argument citation。
 
-> [!concept-lens] 概念透镜
+> [!concept-lens|notitle] 概念透镜
 > - **含义** 这个概念指向什么对象、关系或机制。
 > - **用途** 它帮助研究者看见什么问题。
 > - **边界** 它不适合解释什么，或容易与什么概念混淆。
 
-> [!citation-card] 关键表述
+> [!citation-card|notitle] 关键表述
 > 中文译文或中文原文。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 >
 > *Original text or English translation.*
@@ -40,7 +40,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 %% 没有相近概念时可删除本节。可换用 [!tension-table]（强调立场差异）或 [!prop-table]（逐项比较属性）。 %%
 
-> [!contrast-table] 概念辨析
+> [!contrast-table|notitle] 概念辨析
 > | 维度 | 本概念 | [[<相近概念 A>]] | [[<相近概念 B>]] |
 > |------|--------|----------------|----------------|
 > | 分析对象 | 说明 | 说明 | 说明 |
@@ -72,20 +72,18 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 围绕概念形成的命题
 
-%% 按命题类型分节。每节开头用 [!claim] 总结该类命题的共同指向，再用独立 [!claim] 列出各学者观点。最后统一汇总表格。命题类型数量按实际增减。 %%
+%% 按命题类型分节。每节开头用 [!concept-proposition] 写出该类命题及其探讨维度，再用独立 [!claim] 列出各学者观点。最后统一汇总表格。命题类型数量按实际增减。 %%
 
 ---
 
-### 命题一　<用完整判定性陈述句写出第一类命题的核心理论断言>
-
 %% 规则：
-   1. H3 标题必须是完整的判定性陈述句本身，去除英文翻译，以全角空格与“命题一”分隔。
-   2. [!concept-lens] 的标题需替换为本命题类型的探讨维度，正文简述该维度核心问题，不得包含“说明……”等模板指令词。
+   1. 命题写在 [!concept-proposition] 的标题里：“命题一｜<完整的判定性陈述句>”，不写 H3 标题，不加英文翻译。
+   2. 正文以“**探讨维度　<维度名>**”开头，接着简述这类命题围绕的核心机制或理论冲突与学者的共同倾向，不得包含“说明……”等模板指令词。
    3. [!claim] 块内加粗小标题（如“情境的不可移植性”）不得带“命题”后缀。
    4. 学者的核心判定与完整的推导/论证逻辑必须全部写在 [!claim] 块内，不得将论证过程剥离到独立的 exegesis 块中。
    5. 命题聚焦理论推导、因果机制与观点辩护，严禁堆砌具体统计数据（如效应量数值 g/d、样本量 k/N、p 值等）；所有具体实证统计一律收拢在实证数据表格中记录，避免两节内容重复。 %%
-> [!concept-lens] <核心探讨维度名称>
-> 简述这类命题围绕什么核心机制或理论冲突展开，以及各学者的共同倾向。
+> [!concept-proposition] 命题一｜<用完整判定性陈述句写出第一类命题的核心理论断言>
+> **探讨维度　<维度名称>** 简述这类命题围绕什么核心机制或理论冲突展开，以及各学者的共同倾向。
 
 > [!claim] <Lastname, I.>
 > **<论点引导词（不得带“命题”字样）>** 学者的具体判定，以及该判定在文献中是如何被论证、推导和展开的完整逻辑过程。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -95,11 +93,9 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ---
 
-### 命题二　<用完整判定性陈述句写出第二类命题的核心理论断言>
-
 %% 如无第二类命题可删除本节；如有更多类型，复制上方结构继续添加。 %%
-> [!concept-lens] <核心探讨维度名称>
-> 简述这类命题的核心探讨维度与学者共同倾向。
+> [!concept-proposition] 命题二｜<用完整判定性陈述句写出第二类命题的核心理论断言>
+> **探讨维度　<维度名称>** 简述这类命题的核心探讨维度与学者共同倾向。
 
 > [!claim] <Lastname, I.>
 > **<论点引导词（不得带“命题”字样）>** 学者的具体判定及完整论证推导过程。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
@@ -128,7 +124,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
    - 作者自述局限 → [!warning]
    没有充分材料时可删除对应 callout。 %%
 
-> [!debates] 学术争议
+> [!debates|notitle] 学术争议
 >
 > > [!axis] <争议标题>
 > > 说明这个维度上各方争什么，背景与核心问题。
@@ -143,14 +139,14 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 %% 若争论恰好是两方正面对立（二元范式冲突），改用 [!tension]。 %%
 
-> [!tension] 核心张力（仅两方正面对立时使用）
+> [!tension|notitle] 核心张力（仅两方正面对立时使用）
 > - **<立场描述>（蓝方）** 观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 > - **<立场描述>（红方）** 观点说明。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!critique] 外部批评
+> [!critique|notitle] 外部批评
 > - **批评类型** 批评内容，说明批评者是谁、批评对象是什么。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
-> [!warning] 适用局限
+> [!warning|limits] 适用局限
 > 只写原文或学界公认的边界条件，不写你自己的评价。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
@@ -216,5 +212,5 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 %% 记录使用、检验或修正这个概念的研究，说明应用案例与迁移条件。 %%
 
-> [!evidence-grid-a] 相关研究索引
+> [!evidence-grid-a|notitle] 相关研究索引
 > - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何使用、检验或修正这个概念，或说明应用案例与迁移条件。

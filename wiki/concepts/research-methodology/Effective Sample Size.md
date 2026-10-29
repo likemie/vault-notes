@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -116,10 +116,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　整群随机试验由于群内相关系数的存在必然导致名义样本量的统计信息量衰减
-
-> [!concept-lens] 集群聚集与信息冗余机制
-> 探讨教育场景中个体嵌套于班级和学校所必然带来的观测值自相关，以及名义大样本如何掩盖实际推断功效匮乏的方法学陷阱。
+> [!concept-proposition] 命题一｜[[Cluster Randomized Trials|整群随机试验]]由于[[Intraclass Correlation Coefficient|群内相关系数]]的存在必然导致名义[[Sample Size Determination|样本量]]的统计信息量衰减
+> **探讨维度　集群聚集与信息冗余机制** 探讨教育场景中个体嵌套于班级和学校所必然带来的观测值自相关，以及名义大样本如何掩盖实际推断功效匮乏的方法学陷阱。
 
 > [!claim] Hedges, L. V.
 > **集群设计效应的方差膨胀定律** 在学校层级进行[[Random Assignment\|随机分配]]时，即使名义招募了数万名学生，由于同一学校内学生共享教育环境与社区背景，其测验得分残差高度相关（典型 [[Intraclass Correlation Coefficient\|ICC]] 为 0.10–0.25）；若忽视有效[[Sample Size Determination\|样本量]]折算而将学生直接视为独立个体进行简单回归或 t 检验，[[Standard Error\|标准误]]将被严重低估达 2 至 5 倍，导致假阳性错误率从 5% 剧增至 30% 以上；必须严格以有效样本量为基准重新校正参数估计的不确定性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]
@@ -129,10 +127,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　通过扩展独立整群数量实现有效样本量翻番是破解微弱效应与置信区间过宽的决定性途径
-
-> [!concept-lens] 统计精度与证据信息量积累机制
-> 探讨试验机构如何通过大规模招募网络扩增学校总数，以有效样本量的实质增长回应学术界关于教育试验“缺乏信息量”的方法学指责。
+> [!concept-proposition] 命题二｜通过扩展独立整群数量实现有效样本量翻番是破解微弱效应与[[Confidence Interval|置信区间]]过宽的决定性途径
+> **探讨维度　统计精度与证据信息量积累机制** 探讨试验机构如何通过大规模招募网络扩增学校总数，以有效样本量的实质增长回应学术界关于教育试验“缺乏信息量”的方法学指责。
 
 > [!claim] Sanders, M.
 > **有效样本量翻番与试验信息量演进** 早期教育试验常受限于招募能力，平均每项试验仅涵盖 20 至 30 所学校，导致有效样本量过小，其 95% [[Confidence Interval\|置信区间]]宽度达 0.30 个标准差，无法与现实中 0.05 至 0.10 的细微教育干预进展相匹配；自 2014 年起，[[Education Endowment Foundation\|EEF]] 通过国家级招募动员将单项试验[[Scale Enlargement|规模扩充]]至 80 至 100 所学校以上（受试学生常超 8,000 人），推动实际有效样本量翻番，使置信区间显著收窄，从而能够以高确定性将微弱成效与零效应精准剥离。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 56–57)]]

@@ -10,7 +10,7 @@ aliases:
 summary: "起源于循证医学并在公共行政与教育治理中广泛扩散的决策范式与认识论要求，强调以严格实证科学证据（尤其是量化实验评估、随机分配规程与系统评价）作为检验何者有效、制定干预方案与配置公共财政资源的核心依据，并在跨国政策流动中重构了行动者的搜寻机会结构与评估技术硬转移。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -38,9 +38,9 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Discourse]]"
   - "[[New Public Management]]"
+  - "[[Assemblage]]"
   - "[[Academic Achievement]]"
   - "[[Forensic Style of Inspection]]"
-  - "[[Assemblage]]"
   - "[[Professional Judgment]]"
   - "[[Smart Buys]]"
   - "[[Data Literacy]]"
@@ -71,6 +71,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[World Bank]]"
   - "[[Modernising Government]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Legrand_2012_PolStud]]"
   - "[[Argument_Segerholm_Lindgren_Novak_2022_SJER]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -141,10 +142,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　循证治理规范重构了国家跨国政策搜寻的机会结构与定向偏好
-
-> [!concept-lens] 跨国搜寻偏好与[[Epistemology|认识论]]驱动
-> 探讨循证决策要求如何重构行政决策者的理性选择逻辑，导致积淀了深厚实证数据的国家在跨国政策竞争中占据制度吸引力优势。
+> [!concept-proposition] 命题一｜[[Output-Oriented Governance|循证治理]]规范重构了国家跨国政策搜寻的机会结构与定向偏好
+> **探讨维度　跨国搜寻偏好与[[Epistemology|认识论]]驱动** 探讨循证决策要求如何重构行政决策者的理性选择逻辑，导致积淀了深厚实证数据的国家在跨国政策竞争中占据制度吸引力优势。
 
 > [!claim] [[Argument_Legrand_2012_PolStud|Legrand (2012)]]
 > **实证数据充沛度决定借用偏向** 决策者对何者有效的实证偏好，会重塑跨国政策学习的机会结构。当新工党将经验数据确立为重大政策立项门槛时，面对紧迫的政治日程，英国官员在横向对比瑞典、新西兰、澳大利亚与美国时，系统性地倾向于选择美国。除第三条道路的意识形态契合外，更关键的动力在于美国自 1980 年代以来依托州级豁免试验积累了全球最完备的[[Randomised Controlled Trials|随机对照实验]]评估数据库，从而在证据成熟度上压倒了缺乏因果净效应评估的欧洲模式。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 335, 341–342, 344)]]
@@ -154,20 +153,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　循证决策诉求催生评估技术与量化规程的跨国制度化硬转移
-
-> [!concept-lens] 转移客体拓展与方法论硬化
-> 揭示循证压力如何推动跨国[[Policy Mobility|政策流动]]的客体从软性的政策[[Discourse|话语]]与治理理念，实质性拓展到底层的量化实验技术与海外独立评估智库实体。
+> [!concept-proposition] 命题二｜循证决策诉求催生评估技术与量化规程的跨国制度化[[Hard Policy Transfer|硬转移]]
+> **探讨维度　转移客体拓展与方法论硬化** 揭示循证压力如何推动跨国[[Policy Mobility|政策流动]]的客体从软性的政策[[Discourse|话语]]与治理理念，实质性拓展到底层的量化实验技术与海外独立评估智库实体。
 
 > [!claim] [[Argument_Legrand_2012_PolStud|Legrand (2012)]]
 > **评估工具与专业智库机构的跨国[[Hard Policy Transfer|硬转移]]** 循证决策规范对严谨因果评估的追求，直接打通了评估方法论跨国流动的制度通道。英国新工党在推进新政福利改革时，不仅吸收了美国工作优先的治理理念，更将以[[Random Assignment|随机分配]]为代表的社会实验规程引入本土，并直接委托主持美国同类项目的专业评估机构——美国[[MDRC|人力示范研究公司]]（Manpower Demonstration Research Corporation, MDRC）跨境承担英国就业保留与晋升（ERA）示范项目的方案设计与审计。这证明量化评估技术与专业机构本身已成为跨国政策硬转移的重要载体。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–344)]]
 
 ---
 
-### 命题三　循证治理本身作为新型政策模式呈现跨国二次扩散
-
-> [!concept-lens] 循证[[Paradigm|范式]]的跨国再流动
-> 探讨国家本土成型的高度量化[[Output-Oriented Governance|循证治理]]体制，如何反向转化为新型治理典范向更广泛区域进行制度输出。
+> [!concept-proposition] 命题三｜循证治理本身作为新型政策模式呈现跨国二次扩散
+> **探讨维度　循证[[Paradigm|范式]]的跨国再流动** 探讨国家本土成型的高度量化[[Output-Oriented Governance|循证治理]]体制，如何反向转化为新型治理典范向更广泛区域进行制度输出。
 
 > [!claim] Frey, K. & Ledermann, S.
 > **循证政策制定范式的地域扩张** 证据本位政策制定跨越了英美[[New Public Management|新公共管理]]语境，演变为一种跨国通行的元治理范式，在欧洲大陆国家（如荷兰、德国、丹麦与瑞士）的政策评估体系中经历了显著的地理与实质性扩张。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 344–345)]]
@@ -177,10 +172,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题四　证据本位治理可能退化为选择性组装与合法化，而非发现新知
-
-> [!concept-lens] 从理性决策到论证与合法化
-> 探讨当研究知识被用于证明既有政策与机构判断时，证据本位政策如何从理性决策模式转向论证、简化与合法化模式。
+> [!concept-proposition] 命题四｜证据本位治理可能退化为选择性[[Assemblage|组装]]与合法化，而非发现新知
+> **探讨维度　从理性决策到论证与合法化** 探讨当研究知识被用于证明既有政策与机构判断时，证据本位政策如何从理性决策模式转向论证、简化与合法化模式。
 
 > [!claim] [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]]
 > **研究选择、文本铭写与双重合法化** 对[[Swedish Schools Inspectorate|瑞典学校督察局]]的[[Case Study|个案研究]]显示，证据本位治理可以同时包含两种非经典模式。常规督导先选定与提高[[Academic Achievement|学业成绩]]、保障等值性相契合的成功学校研究，再从中提炼评估领域并写入督导指令；这接近戈姆利所说的论证（强化既有意见）；说服（改变意见）的成分较少。质量审计则把研究者纳入参考组、编制知识综述，但最终报告在定稿前经传播秘书处重写，删去参考组讨论过的课程解释与情境因素；这接近史密斯所说的[[Forensic Style of Inspection|取证式调查]]，即证据被[[Assemblage|组装]]来支持政策结论，从冷静分析中浮现的发现居于次要位置。研究在此既提供方法上的“逻辑”（logos），也提供机构信誉上的“品格”（ethos），使督导得以合法化自身并延续特定国家政策。这种实践即“后现代”证据本位政策：信息被用来强化对实践的特定解释、建立共同理解，发现新知识居于次要位置。[[Argument_Segerholm_Lindgren_Novak_2022_SJER|(Segerholm et al., 2022, pp. 648, 651–654)]]
@@ -190,10 +183,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题五　超国家循证话语通过修辞隐喻建构认知层级，并将政策转化阻碍个体责任化
-
-> [!concept-lens] 超国家话语建构与责任个体化批判
-> 剖析超国家组织如何借助语言修辞与象征符号界定循证决策规则，揭示崇尚全球标准化证据对地方实践情境的压制以及责任个体化偏颇。
+> [!concept-proposition] 命题五｜超国家循证话语通过修辞隐喻建构认知层级，并将政策转化阻碍个体责任化
+> **探讨维度　超国家话语建构与责任个体化批判** 剖析超国家组织如何借助语言修辞与象征符号界定循证决策规则，揭示崇尚全球标准化证据对地方实践情境的压制以及责任个体化偏颇。
 
 > [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
 > **修辞隐喻建构、责任个体化与包容性证据生态** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对[[OECD|经合组织]]（OECD）、[[UNESCO|教科文组织]]（UNESCO）与[[World Bank|世界银行]]（World Bank）政策文本的[[Interpretive Policy Analysis|解释性政策分析]]指出，超国家组织通过“爵士乐队”、“[[Smart Buys|智能购买]]”等修辞隐喻战略性推介循证决策，将量化实验与综合证据确立为优先认知层级；当循证政策落地受阻时，超国家话语普遍将其个体化归咎于决策官员缺乏[[Data Literacy|数据素养]]，遮蔽了行政体制内部的制度性与政治性障碍；推进真实的循证决策，必须从单向处方转向涵盖制度使能条件、化解宏观体制张力并确立地方认识论正义的包容性证据生态模型。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 340, 347–351)]]
@@ -268,4 +259,4 @@ updated: 2026-10-26
 > - [[Argument_Legrand_2012_PolStud|Legrand (2012)]] — 系统论证英国新工党如何通过“证据本位”理念驱动跨国政策转移，不仅引入美国积极福利政策方案，而且全盘采纳其[[Random Assignment|随机分配]]评估技术与专业机构（pp. 330–345）。
 > - [[Argument_Segerholm_Lindgren_Novak_2022_SJER|Segerholm et al. (2022)]] — 以[[Swedish Schools Inspectorate|瑞典学校督察局]]为工具性个案，追踪教育研究如何被选择、铭写进督导标准与知识综述，并在报告定稿前被重写，揭示证据本位治理的论证与合法化功能（pp. 642–657）。
 > - [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]] — 结合解释性政策分析（IPA）剖析经合组织、教科文组织与世界银行官方文本，解构超国家循证决策话语的修辞隐喻、认知等级与个体化倾向，重构包容性证据生态模型。
-> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 将循证决策列为 PISA 强化经合组织政策权威的三大合法性支柱之二：广泛可用的国际比较数据创造出跨国知识空间，将量化证据确立为公共辩论中唯一具备合法性的事实形态（引自 Wiseman, 2010），由此赋予 PISA 排名以超越质疑的认识论豁免权。
+> - [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]] — 将循证决策列为 [[PISA]] 强化经合组织政策权威的三大合法性支柱之二：广泛可用的国际比较数据创造出跨国知识空间，将量化证据确立为公共辩论中唯一具备合法性的事实形态（引自 Wiseman, 2010），由此赋予 PISA 排名以超越质疑的认识论豁免权。

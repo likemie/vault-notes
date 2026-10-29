@@ -6,7 +6,7 @@ aliases:
 summary: "教育治理与政策工具分析概念，指将标准化学生评估完全脱钩于惩罚性的物质、科层或声誉后果（不关校、不解聘、不公布公开排行榜），主要限定于校本自我诊断、教学质量支持与系统监测的治理形态。该模式虽外观温和，但借助量化指标构造出的数字等值空间，依然在微观层面诱发无处不在的横向比较与表现主义规训压力。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 13
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,10 +22,12 @@ related_concepts:
   - "[[Research Problem]]"
   - "[[Formative Assessment]]"
   - "[[Homework]]"
+  - "[[Differentiated Instruction]]"
   - "[[Peer Pressure]]"
   - "[[National Large-Scale Assessments]]"
   - "[[School Autonomy]]"
   - "[[Transparency Bypass]]"
+  - "[[Document]]"
 related_theories:
   - "[[Neo-Weberian State]]"
 related_methods: []
@@ -38,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -67,7 +69,7 @@ updated: 2026-10-22
 > | 维度 | 软问责（Soft Accountability） | 高利害问责（High-Stakes [[Test-Based Accountability\|TBA]]） | 内部专业质保（Internal QA） |
 > |---|---|---|---|
 > | 数据工具 | 统一标准化的大规模外测 | 统一标准化的大规模统考 | 课堂[[Homework\|作业]]、校本真实性量规 |
-> | 结果应用 | 教学诊断、课程调整、同行研讨 | 官方排位、绩效调薪、兼并关停 | 教师即时反馈、差异化教学指导 |
+> | 结果应用 | 教学诊断、课程调整、同行研讨 | 官方排位、绩效调薪、兼并关停 | 教师即时反馈、[[Differentiated Instruction\|差异化教学]]指导 |
 > | 连带利害 | 无直接法定物质与职位制裁 | 高度绑定声誉与物质利益 | 无外部行政利害 |
 > | 控制方式 | 自我监控、规范性[[Peer Pressure\|同行压力]] | 市场准入限制、科层惩戒 | 专业反思、师徒互助 |
 
@@ -95,20 +97,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　软问责依赖微观自我技术达成非强制性规范控制
-
-> [!concept-lens] 表现主义在温和环境下的微观渗透
-> 探讨在缺乏行政处分威胁时，数据监测如何通过心理暗示与横向攀比重组学校文化。
+> [!concept-proposition] 命题一｜软问责依赖微观自我技术达成非强制性规范控制
+> **探讨维度　表现主义在温和环境下的微观渗透** 探讨在缺乏行政处分威胁时，数据监测如何通过心理暗示与横向攀比重组学校文化。
 
 > [!claim] Falabella, A.
 > **微观表现规训假说** 软问责并不等同于压力的消除；通过公开平均线与分段能力指标，学校管理层与教师自发启动自我监督与防御性调整，将提高测验得分内化为证明自身专业合格性的道德义务。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 264)]]
 
 ---
 
-### 命题二　软问责为规制型国家向全学段扩张提供了合法化跳板
-
-> [!concept-lens] 政策工具的温和切入与渐进渗透
-> 探讨以支持和诊断面貌出现的工具如何更容易获得基层接纳并实现全覆盖。
+> [!concept-proposition] 命题二｜软问责为规制型国家向全学段扩张提供了合法化跳板
+> **探讨维度　政策工具的温和切入与渐进渗透** 探讨以支持和诊断面貌出现的工具如何更容易获得基层接纳并实现全覆盖。
 
 > [!claim] Verger, A., Fontdevila, C. & Parcerisa, L.
 > **低阻力扩张假说** [[National Large-Scale Assessments|国家大规模评估]]在初创期普遍采用软问责外观，宣称仅作为不带利害的低侵入性监测手段，有效规避了工会与社会的政治抵制；随着测验常态化运行，执政者往往顺理成章地向该系统追加更硬性的问责要求。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 260, 263)]]
@@ -144,4 +142,4 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 系统反思全球教育治理文献中对软问责系统的关注不足，提出应深入揭示微观学校生态中软问责诱发的表现主义压力与多样化挪用。
+> - [[Argument_Verger_2019_Discourse|Verger et al. (2019)]] — 系统反思全球教育治理[[Document|文献]]中对软问责系统的关注不足，提出应深入揭示微观学校生态中软问责诱发的表现主义压力与多样化挪用。

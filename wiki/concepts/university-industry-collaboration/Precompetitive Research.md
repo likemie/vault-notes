@@ -8,7 +8,7 @@ aliases:
 summary: "处于探索阶段、产出的知识产权尚不具备直接商业化价值的共性技术研发活动。在产学合作与产业研发联盟中，前竞争研究充当了多边协同的制度边界：使同行竞争者在共性工艺、行业标准与基础设施层面共享成果与分摊风险，同时保留各自在专有产品设计与商业市场的独立竞争优势；Grindley et al. (1994) 揭示了其在同业横向联盟中的专有权张力及向纵向供应链协同演化的规律。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Public-Private Partnership]]"
   - "[[Return on Investment]]"
+  - "[[Document]]"
   - "[[Cost of Ownership]]"
   - "[[Research Scope]]"
   - "[[Variable]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -123,10 +124,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　前竞争边界设定能够使直接商业竞争者在知识共享中达成合作而不侵蚀个体专有竞争优势
-
-> [!concept-lens] 合作与竞争的制度解耦
-> 探讨多边合作与公私协同如何通过划分前竞争范围，实现共性知识池共建与终端市场残酷竞争的并存。
+> [!concept-proposition] 命题一｜前竞争边界设定能够使直接商业竞争者在知识共享中达成合作而不侵蚀个体专有竞争优势
+> **探讨维度　合作与竞争的制度解耦** 探讨多边合作与公私协同如何通过划分前竞争范围，实现共性知识池共建与终端市场残酷竞争的并存。
 
 > [!claim] [[Argument_Narayan_Spohrer_2025_Metrics|Narayan and Spohrer (2025)]]
 > **分层度量匹配机制** 探索性[[University-Industry Collaboration|产学合作]]绝大多数属于前竞争性质，其产出的知识产权商业价值有限；对前竞争研发套用成熟商业项目的严格知识产权条款是一种制度错配，导致过度的法务谈判损耗合作信任；唯有按研究成熟度分层设立轻量审批机制，才能保障早期前竞争创新的顺畅启动。[[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025, p. 91)]]
@@ -142,10 +141,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　高技术产业联盟中的前竞争研发面临专有权保护与知识扩散的内在张力并自发向近中期通用基础设施演化
-
-> [!concept-lens] [[Industry Affiliate Program|产业联盟]]内部的治理演化与纵向协同
-> 考察在高技术制造业联盟中，直接竞争对手之间的保密防范如何重构前竞争研发的技术定位与组织形态。
+> [!concept-proposition] 命题二｜高技术[[Industry Affiliate Program|产业联盟]]中的前竞争研发面临专有权保护与知识扩散的内在张力并自发向近中期通用基础设施演化
+> **探讨维度　[[Industry Affiliate Program|产业联盟]]内部的治理演化与纵向协同** 考察在高技术制造业联盟中，直接竞争对手之间的保密防范如何重构前竞争研发的技术定位与组织形态。
 
 > [!claim] [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]]
 > **专有权张力与纵向协同转向** [[Sematech]]、日本 [[VLSI Project|VLSI]] 项目 与欧洲 [[ESPRIT]] 的跨国比较表明，直接竞争对手在横向联盟中因担心技术外泄与失去竞争优势，天然难以无保留共享核心制造工艺配方；受成员企业追求可衡量[[Return on Investment|投资回报]]的推动，产业主导的前竞争联盟必然从长周期基础研究逐步收敛为近中期的行业技术路线图、通用标准与设备中试测试平台，并通过转向与上游设备供应商的纵向供应链协同化解专有权冲突。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728, 751–754)]]
@@ -153,7 +150,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 前竞争研究核心命题归纳
-> | 命题类型 | 核心机制与指向 | 适用情境 | 代表学者与文献 |
+> | 命题类型 | 核心机制与指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |:---|:---|:---|:---|
 > | **双层知识产权解耦命题** | 区分共有前竞争知识池与个体产品专项开发，保障竞争对手协同攻关 | 大学–企业联合体、先进制造中心 | [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]]; [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] |
 > | **分层时域矩阵命题** | 依据技术成熟度建立近中远期多轨道计划，以路线图解耦底层共性探索与终端产品竞争 | 行业级多边研发联合体（如半导体） | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] |

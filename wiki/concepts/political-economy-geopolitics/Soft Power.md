@@ -40,8 +40,8 @@ related_concepts:
   - "[[Educational Soft Power]]"
   - "[[Epistemology]]"
   - "[[Open-Mindedness]]"
-  - "[[Winner's Fallacy]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Winner's Fallacy]]"
   - "[[Power Conversion Dilemma]]"
   - "[[Policy Borrowing]]"
   - "[[South-South Cooperation]]"
@@ -102,7 +102,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-29
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -181,50 +181,40 @@ updated: 2026-10-26
 
 ## 围绕概念形成的命题
 
-### 命题一　非强制性吸引力与规范合法性构成国际治理的深层软约束
-
-> [!concept-lens] 规范合法性与自愿认同机制
-> 探讨软实力的深层有效性为何取决于接受方对施展方政策与文化合法性的自愿认可与心理契合，而非外在强行灌输。
+> [!concept-proposition] 命题一｜非强制性吸引力与规范合法性构成国际治理的深层软约束
+> **探讨维度　规范合法性与自愿认同机制** 探讨软实力的深层有效性为何取决于接受方对施展方政策与文化合法性的自愿认可与心理契合，而非外在强行灌输。
 
 > [!claim] Nye, J. S. & 余婧然和谢爱磊
 > **自愿认可决定有效性** 软实力的有效性根本上取决于接受方对施展方政策与文化合法性的自愿认可。缺乏内部合法性的强行文化推销无法转化为真正的国际影响力，反而会激发接受方的文化抵制与对立情绪；唯有当政策与价值被视为公平与正当时，吸引力机制才能转化为深层软约束。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
 
 ---
 
-### 命题二　超国家组织通过将数字硬事实转化为隐蔽的软治理权威
-
-> [!concept-lens] [[Epistemology|认识论]]规制与无形政策趋同
-> 剖析缺乏主权强制力的国际组织如何借助指标、统计与跨国测评将“硬事实”转化为形塑全球政策的隐蔽软权力。
+> [!concept-proposition] 命题二｜超国家组织通过将数字硬事实转化为隐蔽的软治理权威
+> **探讨维度　[[Epistemology|认识论]]规制与无形政策趋同** 剖析缺乏主权强制力的国际组织如何借助指标、统计与跨国测评将“硬事实”转化为形塑全球政策的隐蔽软权力。
 
 > [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]] 等 & [[Argument_Niemann_Martens_2018_GSP|Niemann and Martens (2018)]]
 > **硬事实包裹下的软治理权威** 国际组织在缺乏主权强制力的约束下，通过[[Inquisitive Mode of Governance|探究模式]]输出跨国比较数据与设立[[Performance Indicators|绩效指标]]，确立了无可争议的[[Cognitive Authority|认知权威]]；随后借助[[Meditative Mode of Governance|调解模式]]推介最佳实践模板，巧妙规避了直接干预国家主权的指控。量化“硬事实”所赋予的[[Façade of Rationality|理性外衣]]，使国际组织得以用较低政治成本引导国家教育政策走向标准化与同质化。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–540)]]; [[Argument_Niemann_Martens_2018_GSP|(Niemann & Martens, 2018, pp. 270–272)]]
 
 ---
 
-### 命题三　跨境高等教育中的软实力投射面临地缘工具化异化
-
-> [!concept-lens] [[Geopolitics|地缘政治]]工具化与跨国学术信任侵蚀
-> 审视当学术交流与留学生教育被单向绑定于国家软实力竞争时，如何将跨国合作拖入零和对抗并消解学术信任。
+> [!concept-proposition] 命题三｜跨境高等教育中的软实力投射面临地缘工具化异化
+> **探讨维度　[[Geopolitics|地缘政治]]工具化与跨国学术信任侵蚀** 审视当学术交流与留学生教育被单向绑定于国家软实力竞争时，如何将跨国合作拖入零和对抗并消解学术信任。
 
 > [!claim] [[Jane Knight|Knight, J.]] & 余婧然和谢爱磊
 > **地缘工具化消解互信** 当学术交流、留学生教育和科研合作被过度工具化为国家软实力的地缘政治武器时，教育关系势必被拖入零和博弈的对抗轨道。国家中心主义的权力盘算直接压制了国际学术界固有的[[Open-Mindedness|开放性]]、互惠性与跨国信任纽带，诱发接受国的防御性反弹。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
 
 ---
 
-### 命题四　软实力道义感召是施展国际权力的必要非充分条件
-
-> [!concept-lens] 战略现实主义与权力底盘辩证
-> 检视缺乏物质威慑与伤害筹码支撑的软实力在国际博弈中的脆弱性，破除脱离[[Hard Power|硬实力]]的道义自满。
+> [!concept-proposition] 命题四｜软实力道义感召是施展国际权力的必要非[[Necessary and Sufficient Conditions|充分条件]]
+> **探讨维度　战略现实主义与权力底盘辩证** 检视缺乏物质威慑与伤害筹码支撑的软实力在国际博弈中的脆弱性，破除脱离[[Hard Power|硬实力]]的道义自满。
 
 > [!claim] Karp, A. & Zamiska, N.
 > **缺乏硬底盘诱发[[Winner's Fallacy|胜者自满]]** 否定软实力即是不懂“诱惑的力量”（Power of Seduction）。然而从地缘政治现实主义审视，软实力仅构成国际权力的[[Necessary and Sufficient Conditions|必要条件]]而非[[Necessary and Sufficient Conditions|充分条件]]；在缺乏以算法和先进武器为物质支撑的[[Hard Power|硬实力]]与可信伤害威慑作为后盾时，单方面依赖软实力空谈将诱发严重的[[Winner's Fallacy|胜者自满]]，导致国家在危机外交中丧失实质议价筹码。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 31–32, 228)]]
 
 ---
 
-### 命题五　高等教育软实力对经济硬实力的依附性投射存在深层脆弱性
-
-> [!concept-lens] 经济依附与功利性吸引力退潮
-> 揭示当[[Educational Soft Power|高等教育软实力]]主要依托国家经济补贴与基建项目带动时，其国际认同具有工具性与寄生性特征，面临外部冲击与草根抵制风险。
+> [!concept-proposition] 命题五｜[[Educational Soft Power|高等教育软实力]]对经济硬实力的依附性投射存在深层脆弱性
+> **探讨维度　经济依附与功利性吸引力退潮** 揭示当[[Educational Soft Power|高等教育软实力]]主要依托国家经济补贴与基建项目带动时，其国际认同具有工具性与寄生性特征，面临外部冲击与草根抵制风险。
 
 > [!claim] Woo, Y. Y.
 > **经济依附拉动难掩结构脆弱** 中国以“[[Belt and Road Initiative|一带一路]]”推进的高等教育跨国扩张与软实力投射，实质上高度依附于经济硬实力的诱因与大型基建配套。沿线国家生源的流向主要受丰厚政府奖学金与潜在就业前景的外部功利因素拉动；一旦施展国经济增速放缓或资助减少，基于物质依附的软实力效能将迅速消退。此外，过度依赖自上而下的政府间经济推动极易在合作国引发民间草根社会的警惕与抵制，使软实力投射陷入地缘对抗与不可持续的困境。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]

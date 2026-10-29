@@ -9,7 +9,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介与通用目的技术；在教育中重构人机知识确证分工，其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦；在国家战略与地缘竞争中涌现出通用人工智能火花并引发软硬件层级逆转，成为决定21世纪大国均势与算法威慑的核心软件中枢。"
 type: concept
 domain: "educational-technology"
-related_count: 147
+related_count: 149
 related_level: 14
 related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Data Literacy]]"
   - "[[AI Literacy]]"
   - "[[Epistemic Dependence]]"
+  - "[[Document]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Stances]]"
   - "[[Evaluativist]]"
@@ -78,6 +79,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Problem Solving]]"
   - "[[Learner Autonomy]]"
+  - "[[Paradigm]]"
   - "[[General Education]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Skill of Questioning]]"
@@ -87,7 +89,6 @@ related_concepts:
   - "[[Multiplist]]"
   - "[[Justificatory Standards]]"
   - "[[Scientific Explanation]]"
-  - "[[Paradigm]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Hard Power]]"
   - "[[Technological Agnosticism]]"
@@ -152,6 +153,7 @@ related_persons:
 related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[Genesis Mission]]"
+  - "[[ASEAN Credit Transfer System]]"
   - "[[Universal Parallel Computing Research Centers]]"
   - "[[The Royal Society]]"
   - "[[What Works Clearinghouse]]"
@@ -180,7 +182,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-01
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 > [!def] Generative Artificial Intelligence
@@ -214,14 +216,14 @@ updated: 2026-10-26
 > *Science education must shift from static factual recall to evidence evaluation, data literacy, and AI literacy, equipping young people to critically navigate algorithmic tools and their limitations.*
 
 > [!citation-card] 知识确证分工重组与[[Epistemic Dependence|认识依赖]]视角
-> 认识依赖是指在与知识相关的各项活动中对人工智能系统的依托，涵盖获取信息、接收解释、综合文献、评价质量、选择诠释、消解不确定性以及为知识主张提供辩护。这一界定远比单纯的行为使用频次更为宽广。一个学习者可能频繁使用人工智能，但只要这种交互能够激发质疑、对比与反思修正，其依然保持着高度的[[Epistemic Agency\|认识主体性]]；相反，另一个学习者可能仅仅使用了一次，却在高风险的评价任务中将算法输出奉为终局定论。因此，分析的界限从来不是使用与否，而是协助形态与认知判断之间的实质关系。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–4)]]
+> 认识依赖是指在与知识相关的各项活动中对人工智能系统的依托，涵盖获取信息、接收解释、综合[[Document|文献]]、评价质量、选择诠释、消解不确定性以及为知识主张提供辩护。这一界定远比单纯的行为使用频次更为宽广。一个学习者可能频繁使用人工智能，但只要这种交互能够激发质疑、对比与反思修正，其依然保持着高度的[[Epistemic Agency\|认识主体性]]；相反，另一个学习者可能仅仅使用了一次，却在高风险的评价任务中将算法输出奉为终局定论。因此，分析的界限从来不是使用与否，而是协助形态与认知判断之间的实质关系。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–4)]]
 >
 > *For this review, epistemic dependence refers to reliance on AI systems for knowledge-related activity, including obtaining information, receiving explanations, synthesising sources, evaluating quality, selecting interpretations, resolving uncertainty and justifying claims. This definition is broader than behavioural frequency... The analytic boundary is therefore not use versus non-use. It is the relation between assistance and judgement.*
 
 > [!citation-card] 共生学习伙伴与认识主体性演进视角
 > 生成式人工智能与学习者共同构成共生学习伙伴关系。在此架构中，学习者并非单向接受算法输出的被动受体，而是通过双向互动、提示词工程与证据协调共享认识主体性。生成式 AI 的促学成效关键取决于学习者如何基于自身的[[Epistemic Stances\|认识立场]]（绝对主义、相对主义或评价主义）审视生成内容，并借助双轨教学支架发展出批判性的[[Evaluativist\|评价主义认识立场]]，在保持[[Epistemological Vigilance\|认识论警觉]]的前提下驾驭技术。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
 >
-> *Generative AI acts as a co-thinker and symbiotic learning partner in human-AI Collaborative [[Knowledge Production|Knowledge Construction]]... Strengthening human epistemic agency hinges on pedagogical scaffolding, technological prompting, and the adaptive maturation of epistemic stances.*
+> *Generative AI [[ASEAN Credit Transfer System|acts]] as a co-thinker and symbiotic learning partner in human-AI Collaborative [[Knowledge Production|Knowledge Construction]]... Strengthening human epistemic agency hinges on pedagogical scaffolding, technological prompting, and the adaptive maturation of epistemic stances.*
 
 > [!citation-card] 读写教育中的私厨代劳与[[Formative Epistemic Injustice|成长性认识不正义]]
 > 将生成式人工智能在人文学科或写作教育中比作数学课堂中的计算器是一种危险的误导。计算器仅卸载机械性算术，而学生依然保有对数学解题概念推理的理解与主权；相反，生成式 AI 在构思、提纲与修改全流程代笔，更契合私厨隐喻——学习者向厨师报菜名并享用大餐，却无法掌握基础的烹饪与营养调配技能。在教育中允许或鼓励这种全流程代劳，构成了严重的[[Formative Epistemic Injustice|成长性认识不正义]]（Formative [[Epistemic Injustice]]），使发展中的认知者被系统性剥夺习得核心智力品格与认识能力的机会。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 2–8)]]
@@ -319,10 +321,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　生成式人工智能对高阶思维的塑造并非技术固有属性，而是依存于任务情境与教学脚手架的条件性效应
-
-> [!concept-lens] 认知负荷调配与[[Higher-Order Thinking Skills\|高阶思维]]共现维度
-> 该命题批判了技术[[Determinism\|决定论]]的乐观或悲观立场，确立了教学法介入在生成式技术应用中的决定性分流作用。
+> [!concept-proposition] 命题一｜生成式人工智能对[[Higher-Order Thinking Skills|高阶思维]]的塑造并非技术固有属性，而是依存于任务情境与[[Scaffolding|教学脚手架]]的条件性效应
+> **探讨维度　认知负荷调配与[[Higher-Order Thinking Skills\|高阶思维]]共现维度** 该命题批判了技术[[Determinism\|决定论]]的乐观或悲观立场，确立了教学法介入在生成式技术应用中的决定性分流作用。
 
 > [!claim] Li, C.
 > **结构化探究驱动双向协同增益 vs 非结构化引发非对称侵蚀** 基于对高等教育实证研究的[[Systematic Review\|系统综述]]，ChatGPT 等生成式技术对学生批判性与[[Creativity\|创造性思维]]的影响具有鲜明的情境依赖性。在嵌入反思提示与对话探究的[[Structured Teaching\|结构化教学]]中，AI 作为认知放大器显著驱动了两类思维的协同跃升；反之，在缺乏[[Scaffolding\|教学支架]]的自由使用情境中，工具的表面流畅性麻痹了反思本能，诱发严重的[[Cognitive Offloading\|认知卸载]]，导致创造性发散繁荣伴随批判性审思崩塌的非对称发展，乃至双重认知侵蚀。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 9–11)]]
@@ -338,10 +338,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　生成式人工智能驱动教育评估体系从“单向终稿交付”向“递归探究与认识论摩擦维持”的范式转型
-
-> [!concept-lens] 课程评价变革与[[Epistemology\|认识论]]主体性维度
-> 该命题揭示了生成式技术对传统教育评估假设的根本颠覆，指明了未来课程设计与素养培养的重构方向。
+> [!concept-proposition] 命题二｜生成式人工智能驱动教育评估体系从“单向终稿交付”向“递归探究与[[Epistemic Friction|认识论摩擦]]维持”的[[Paradigm|范式]]转型
+> **探讨维度　课程评价变革与[[Epistemology\|认识论]]主体性维度** 该命题揭示了生成式技术对传统教育评估假设的根本颠覆，指明了未来课程设计与素养培养的重构方向。
 
 > [!claim] [[The Royal Society]]
 > **数智时代[[Scientific Literacy\|科学素养]]从事实复现向证据核验与 AI 素养的重构** 生成式人工智能的普及使得传统的静态事实记忆与套路化文本写作在评估中迅速贬值。科学与[[General Education\|通识教育]]必须转向以证据评估、模型偏见识别、数据批判性审读为核心的综合素养，将[[AI Literacy\|人工智能素养]]确立为现代公民的核心能力基石，推动学生从被动的信息消费者转变为具备[[Epistemological Vigilance\|认识论警觉]]的质询者。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 34–36)]]
@@ -357,30 +355,24 @@ updated: 2026-10-26
 
 ---
 
-### 命题三　生成式人工智能促学效能呈现宏观边际效益递增与文化权力壁垒破除的生态支持特征
-
-> [!concept-lens] 宏观社会文化生态与教育公平机制
-> 该命题批判了“AI 必然加剧数字鸿沟与文化垄断”的单一悲观假定，从宏观系统论视角揭示了技术对资源薄弱与层级森严情境的特殊解构与补偿价值。
+> [!concept-proposition] 命题三｜生成式人工智能促学效能呈现宏观边际效益递增与文化权力壁垒破除的生态支持特征
+> **探讨维度　宏观社会文化生态与教育公平机制** 该命题批判了“AI 必然加剧数字鸿沟与文化垄断”的单一悲观假定，从宏观系统论视角揭示了技术对资源薄弱与层级森严情境的特殊解构与补偿价值。
 
 > [!claim] Chen & Cheung
 > **边际效益递增规律与权力壁垒破除机制的实证确证** 基于[[Third Generation Activity Theory\|活动理论]]（AT-MCSCL）对高校[[Experimental Research\|实验研究]]的调节[[Variable\|变量]]检验表明，生成式 AI 的促学成效在不同宏观情境中呈现出高度分化：① **边际效益递增规律** 在国家 ICT 水平较低与低[[Socioeconomic Status|社会经济地位]]的高校中，由于基础数字与师资资源匮乏，AI 介入带来了雪中送炭式的超额边际增益，展现出缩小教育差距的普惠潜力；② **权力壁垒破除机制** 在高权力距离文化中，传统师生等级森严容易诱发学生的“提问暴露无知”恐惧与求助焦虑，生成式 AI 提供了匿名、即时且无评价威胁的探究中介，有效瓦解了层级威慑心理；③ **人机角色分工** 定位于平等的“学习同伴”比单向灌输的“授课导师”更能激发自主探究。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10–13, 16–18)]]
 
 ---
 
-### 命题四　生成式人工智能中介深刻重组知识确证的劳动力分工，其教育风险在于承载判断型协助对评价性判断的算法置换
-
-> [!concept-lens] 社会认识论与知识确证分工维度
-> 该命题超越单纯认知负荷与行为使用频次的技术视角，从社会[[Epistemic Stances\|认识论立场]]揭示生成式 AI 作为认识中介对人类知识确证劳动力分工的重构机制，确立[[Evaluative Judgement\|评价性判断]]不可替代的规范边界。
+> [!concept-proposition] 命题四｜生成式人工智能中介深刻重组知识确证的劳动力分工，其教育风险在于承载判断型协助对[[Evaluative Judgement|评价性判断]]的算法置换
+> **探讨维度　社会认识论与知识确证分工维度** 该命题超越单纯认知负荷与行为使用频次的技术视角，从社会[[Epistemic Stances\|认识论立场]]揭示生成式 AI 作为认识中介对人类知识确证劳动力分工的重构机制，确立[[Evaluative Judgement\|评价性判断]]不可替代的规范边界。
 
 > [!claim] Du, J., & Yuan, H.
 > **[[Epistemic Dependence\|认识依赖]]的协助形态分层与评价性判断不可替代性** 人工智能介入的教育风险并不取决于单纯的使用频次，而取决于协助形态与认知判断之间的实质关系。生成式 AI 的介入形态涵盖工具型协助（低风险基础操作）、承载型协助（中等风险结构生成）与承载判断型协助（高风险评价委托）。当系统在没有显性人类干预的情况下直接输出质量评级、解释优劣选择或确定性结论时，学习者在不知不觉中将评价性判断（Evaluative Judgement）委托给算法，形成隐蔽而有害的[[Epistemic Dependence\|认识依赖]]；教育治理的核心不在于追求孤立绝缘的绝对认识自主，而在于在不可避免的相互依赖中维系关系性[[Epistemic Agency\|认识主体性]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–7)]]
 
 ---
 
-### 命题五　人机共生学习伙伴关系中学习者认识立场的适应性演进与认识主体性维系
-
-> [!concept-lens] 认识立场自适应转变与[[Man-Computer Symbiosis|人机共生]]认识主体性维度
-> 该命题从认识发生学与人机协同学习视角，阐明学习者面对生成式 AI 输出时，其认识信念如何从被动盲从向批判性审视与多源证据整合跃进，确立教学支架与提示工程对培育[[Evaluativist\|评价主义认识立场]]的决定性支持作用。
+> [!concept-proposition] 命题五｜[[Man-Computer Symbiosis|人机共生]]学习伙伴关系中学习者认识立场的适应性演进与认识主体性维系
+> **探讨维度　认识立场自适应转变与[[Man-Computer Symbiosis|人机共生]]认识主体性维度** 该命题从认识发生学与人机协同学习视角，阐明学习者面对生成式 AI 输出时，其认识信念如何从被动盲从向批判性审视与多源证据整合跃进，确立教学支架与提示工程对培育[[Evaluativist\|评价主义认识立场]]的决定性支持作用。
 
 > [!claim] Wu, J.-Y., Lee, Y.-H., Chai, C. S., & [[Chin-Chung Tsai\|Tsai, C.-C.]]
 > **共生学习伙伴关系中认识立场的演进与双轨支架矩阵** 学习者与生成式人工智能的协作构成了动态共生学习伙伴关系，认识主体性在人机网络中动态流动。学习者在交互中表现出三种分层的认识立场（Epistemic Stances）：① **[[Absolutist\|绝对主义立场]]（[[Absolutist]]）** 将生成式 AI 视为全知权威，被动全盘接受输出，极易诱发严重的算法幻觉盲从与有害的认知卸载；② **[[Multiplist\|相对主义立场]]（[[Multiplist]]）** 将 AI 输出与个人直觉等同为互不相干的主观意见，随意拼贴且缺乏证据[[Justificatory Standards\|辩护标准]]；③ **评价主义立场（[[Evaluativist]]）** 将 AI 视为批判性思维辩友，主动设置探究目标、设计高阶提示、实施多源证据核验并评估观点权衡。为促成认识立场向评价主义演进，教学系统必须构建“技术提示支架（[[Role-playing\|角色扮演]]、[[Chain-of-Thought Prompting\|思维链]]分解、检索增强）+ 教学法支架（交叉核验、同行互评、反思日志）”的双轨干预矩阵，确保学习者在享受技术认知支持的同时牢固捍卫人类认识主体性。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–366)]]
@@ -390,30 +382,24 @@ updated: 2026-10-26
 
 ---
 
-### 命题六　生成式人工智能在人文学科与读写教育中具有私厨代劳特性，必须通过确立异己智能视角与思维全外显防范成长性认识不正义
-
-> [!concept-lens] 人文学科认知生成性与规范性伦理维度
-> 该命题批判了将生成式 AI 机械比作数学计算器的工具主义辩护，从成长性认识正义与写作认知机理出发，确立读写教育中防范认知致残与剥夺核心心智工序的规范性教学底线。
+> [!concept-proposition] 命题六｜生成式人工智能在人文学科与读写教育中具有私厨代劳特性，必须通过确立[[Alien Intelligence|异己智能]]视角与思维全外显防范[[Formative Epistemic Injustice|成长性认识不正义]]
+> **探讨维度　人文学科认知生成性与规范性伦理维度** 该命题批判了将生成式 AI 机械比作数学计算器的工具主义辩护，从成长性认识正义与写作认知机理出发，确立读写教育中防范认知致残与剥夺核心心智工序的规范性教学底线。
 
 > [!claim] Smith, S. J.
 > **私厨代劳批判与思维步骤全透明外显防御** 生成式人工智能在人文学科与写作教学中的广泛应用不能用数学课堂中的计算器进行正当化辩护。计算器仅接管低阶机械算术，学生依然保有对数学概念、解题逻辑与公式推导的核心认知控制；而生成式 AI 在写作中代劳了构思、提纲与修改全过程，实质上充当了全包宴席的私厨。写作本质上是一项不可替代的认知-发现工序：构思阶段迫使学生直面空白并从真实生活经验中提炼论点；提纲阶段训练学生将网状非线性思想转化为清晰的逻辑流；修改阶段则是基于自我评估驱动深层认知重组与观念迭代的关键契机。将这三大工序交由算法代笔，将导致发展中的认知者被剥夺习得组织论证、精确阐述与批判性自省等核心智力品格的机会，构成严重的[[Formative Epistemic Injustice|成长性认识不正义]]。针对该侵害，教育者必须构筑两道防御战线：其一是在认知定位上打破拟人化幻觉，将大模型明确界定为缺乏人类具身生活与伦理关怀的[[Alien Intelligence|异己智能]]，引导学生开展反向修辞审问；其二是在评价机制上推行思维步骤全透明外显（Showing Steps），要求学生提交构思日志、草稿演进版本与查错证据，将评价重心彻底从终稿语言表象转向真实的认知论证过程。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 2–14)]]
 
 ---
 
-### 命题七　生成式人工智能成为国家战略技术竞争的核心叙事与技术型社会契约的动员锚点
-
-> [!concept-lens] 国家创新战略与地缘技术竞争维度
-> 审视生成式 AI 如何从单纯[[General Purpose Technology|通用目的技术]]跃升为国家战略主导权竞争的叙事核心，并重构国家、实验室与企业的动员关系。
+> [!concept-proposition] 命题七｜生成式人工智能成为国家战略技术竞争的核心叙事与[[Technology-Oriented Social Contract|技术型社会契约]]的动员锚点
+> **探讨维度　国家创新战略与地缘技术竞争维度** 审视生成式 AI 如何从单纯[[General Purpose Technology|通用目的技术]]跃升为国家战略主导权竞争的叙事核心，并重构国家、实验室与企业的动员关系。
 
 > [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]
 > **赢得 AI 竞赛作为国家利益核心与动员[[Paradigm|范式]]重构** 樊春良指出，生成式人工智能的发展使得国家战略能力的获取路径发生了根本性重组。2025 年起，美国在退出二战后以大学为核心的传统科学契约过程中，将“赢得人工智能竞赛”确立为国家利益的核心叙事。通过[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（OSTP）牵头制定的“AI 行动计划”与“[[Genesis Mission|创世纪计划]]”（The Genesis Mission），联邦政府确立了“总统定向—联邦统筹—部门执行—公私伙伴”的配置范式，直接依托私营科技巨头与国家实验室展开工程攻关与技术采购，从而在实践中首次具备了绕开传统大学基础研究而直接掌控前沿战略技术能力的现实可行性，驱动[[Technology-Oriented Social Contract|技术型社会契约]]的全面成型。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1062)]]
 
 ---
 
-### 命题八　前沿生成式大模型涌现出通用人工智能火花，驱动软件世纪主从层级逆转并终结消费互联网消极自满
-
-> [!concept-lens] [[Artificial General Intelligence|通用人工智能]]火花、反文化基因超越与软件[[Hard Power|硬实力]]颠覆
-> 探讨生成式大模型如何打破人类心智独占地位，超越 1970 年代[[Counterculture Computing|反文化计算]]运动与 21 世纪初[[Consumer Internet|消费互联网]]的个体主义与政治不可知论局限，确立软件代码作为大国战略硬实力中枢的核心地位。
+> [!concept-proposition] 命题八｜前沿生成式大模型[[Emergence|涌现]]出[[Artificial General Intelligence|通用人工智能]]火花，驱动软件世纪主从层级逆转并终结[[Consumer Internet|消费互联网]]消极自满
+> **探讨维度　[[Artificial General Intelligence|通用人工智能]]火花、反文化基因超越与软件[[Hard Power|硬实力]]颠覆** 探讨生成式大模型如何打破人类心智独占地位，超越 1970 年代[[Counterculture Computing|反文化计算]]运动与 21 世纪初[[Consumer Internet|消费互联网]]的个体主义与政治不可知论局限，确立软件代码作为大国战略硬实力中枢的核心地位。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **软件中枢确立、历史基因超越与战略威慑重构** 卡普与扎米斯卡指出，早期软件、个人计算与人工智能算法发轫于 1970 年代硅谷的反文化运动，其初衷是作为抵御国家集权与官僚体制的个体赋权工具，并最终蜕化为服务于浅层物质娱乐与广告推荐的[[Consumer Internet|消费互联网]]；然而，当代以万亿参数大模型为代表的生成式人工智能，展现出跨越语言、数学与物理常识的通用人工智能（AGI）火花，推动战争形态与大国竞争进入软件世纪。在这一历史性转变中，软件与硬件的主从地位彻底颠倒：软件与大模型跃升为战术决策、全域态势感知与多域协同的指挥中枢，动能物理装备降维为消耗性执行载体；面对严峻的地缘对手竞争，生成式 AI 必须超越[[Technological Agnosticism|技术不可知论]]与消费主义内卷，成为构建[[AI Deterrence|人工智能威慑]]与维系自由社会力量均势的决定性战略基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 18–21, 26–28)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–46)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–99)]]
@@ -426,7 +412,7 @@ updated: 2026-10-26
 > | **教学[[Interaction Effect\|调节效应]]命题** | 技术效应非固有，教学脚手架、[[Self-Regulated Learning\|自主调节能力]]与干预时长窗口共同决定认知增益与子维度级差 | 高等教育人机协同学习、[[STEM Education\|STEM]] 实验探究、基础教育 PBL 项目 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]]; [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] |
 > | **活动系统重构命题** | 评价重点由终稿产出转向提示词轨迹、认识论摩擦维持与苏格拉底式探究支架 | 科学素养课程、数智通识教育、基于项目的全程评价改革 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]]; Medina (2013); [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] |
 > | **生态支持机制命题** | 低 ICT、低 SES 情境呈边际效益递增，高权力距离下破除层级威慑心理 | 跨文化教学、教育公平政策、欠发达地区高校数字化 | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] |
-> | **社会认识论重组命题** | 知识确证分工重组，承载判断型协助置换评价性判断，倡导在相互依赖中维系关系性认识主体性 | 高等教育学术探究、文献综合评估、认识规范培育与学术诚信制度建设 | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] |
+> | **社会认识论重组命题** | 知识确证分工重组，承载判断型协助置换评价性判断，倡导在相互依赖中维系关系性认识主体性 | 高等教育学术探究、[[Document\|文献]]综合评估、认识规范培育与学术诚信制度建设 | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] |
 > | **共生认识演进命题** | 共生伙伴关系中认识立场呈绝对主义向评价主义演进，依赖技术提示与教学双轨支架维系认识主体性 | 人机协同[[Knowledge Production\|知识建构]]、提示词工程教学、[[Inquiry-Based Learning\|探究式学习]]与认识信念发展 | [[Argument_Wu_2025_ER\|Wu et al. (2025)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] |
 > | **成长性认识正义命题** | 破除计算器辩护假定，揭示读写教育中全流程代写的私厨本质与成长性侵害，通过异己智能定位与思维全外显（Showing Steps）防范认知去技能化 | 人文学科与通识读写教育、学术论文指导、思维演进过程性评价改革 | [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 > | **国家战略动员与契约重构命题** | 赢得 AI 竞赛确立为国家核心利益叙事，依托公私伙伴与国家实验室绕开大学基础研究直接获取前沿技术能力 | 大国地缘科技竞争、[[National Innovation System\|国家创新体系]]重构、技术型社会契约 | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] |

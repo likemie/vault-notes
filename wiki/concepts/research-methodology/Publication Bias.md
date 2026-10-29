@@ -8,7 +8,7 @@ aliases:
 summary: "正面或显著结果比零结果或负面结果更可能被发表或传播的系统性倾向，导致已发表文献库系统性高估干预的真实有效性；元分析中常结合漏斗图、Egger检验、剪补法与失安全数进行综合诊断与稳健性校正"
 type: concept
 domain: "research-methodology"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -19,6 +19,7 @@ tags:
   - research-methodology
   - evidence-based-education
 related_concepts:
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Internal Validity]]"
   - "[[Epistemology]]"
@@ -79,11 +80,11 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!def] Publication Bias
-> 发表偏倚（Publication Bias），也称文件抽屉效应（File Drawer Effect），指具有[[Statistical Significance\|统计显著性]]或正向结论的研究比零效应或负面结果的研究更有可能被学术期刊接收、发表或传播的系统性倾向。在教育实证与教学干预评估中，发表偏倚意味着公开学术文献库中的加权平均[[Effect Size\|效应量]]往往系统性高估了干预措施的真实有效性（Rosenthal, 1991; [[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 429]]）。
+> 发表偏倚（Publication Bias），也称文件抽屉效应（File Drawer Effect），指具有[[Statistical Significance\|统计显著性]]或正向结论的研究比零效应或负面结果的研究更有可能被学术期刊接收、发表或传播的系统性倾向。在教育实证与教学干预评估中，发表偏倚意味着公开学术[[Document|文献]]库中的加权平均[[Effect Size\|效应量]]往往系统性高估了干预措施的真实有效性（Rosenthal, 1991; [[Argument_Wolf_2020_JREE\|Wolf et al., 2020, p. 429]]）。
 
 在现代[[Evidence-Based Education|循证教育]]评价中，发表偏倚被视为威胁实证合成[[Internal Validity|内部效度]]的关键偏倚源。[[Meta-analysis|元分析]]研究者通常通过[[Funnel Plot|漏斗图]]（[[Funnel Plot]]）、Egger 线性回归、[[Trim and Fill Method|剪补法]]（[[Trim and Fill Method]]）以及[[Fail-Safe N|失安全数]]（[[Fail-Safe N]]）等多重统计工具对发表偏倚进行系统性审计与效应量下调校正。
 
@@ -139,10 +140,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　学术发表系统的正向偏好通过压制零效应导致元分析平均效应量系统性虚高
-
-> [!concept-lens] 证据池扭曲与效应虚增机制
-> 探讨学术期刊与资助生态对显著结果的偏爱如何系统性抬高公开文献库中的平均[[Effect Size\|效应量]]，导致教育实践的有效性被普遍高估。
+> [!concept-proposition] 命题一｜学术发表系统的正向偏好通过压制零效应导致[[Meta-analysis|元分析]]平均[[Effect Size|效应量]]系统性虚高
+> **探讨维度　证据池扭曲与效应虚增机制** 探讨学术期刊与资助生态对显著结果的偏爱如何系统性抬高公开[[Document|文献]]库中的平均[[Effect Size\|效应量]]，导致教育实践的有效性被普遍高估。
 
 > [!claim] Kraft, M. A.
 > **实证效应分布右偏与干预失败率低估** 基于全美[[Randomised Controlled Trials\|随机对照试验]]（RCT）大样本经验分布指出，已发表文献中的效应量分布已被发表偏倚整体推向较大的正向数值；文献中显示的“36% 效应量低于 0.05”实质上严重低估了教育干预的实际失败率。小样本研究若只发现微弱效应，往往因统计功效不足与结果非显著而被埋没于文件抽屉中。[[Argument_Kraft_2023_ER\|(Kraft, 2023, p. 186)]]
@@ -155,20 +154,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　多重统计校正与剪补模型可有效检验结论稳健性并还原真实因果边界
-
-> [!concept-lens] 稳健性诊断与剪补下调
-> 探讨如何通过[[Funnel Plot\|漏斗图]]、[[Trim and Fill Method\|剪补法]]与[[Fail-Safe N\|失安全数]]等多重统计手段穿透发表偏倚的迷雾，判定核心因果结论是否具有超越发表偏倚的稳健性。
+> [!concept-proposition] 命题二｜多重统计校正与剪补模型可有效检验结论稳健性并还原真实因果边界
+> **探讨维度　稳健性诊断与剪补下调** 探讨如何通过[[Funnel Plot\|漏斗图]]、[[Trim and Fill Method\|剪补法]]与[[Fail-Safe N\|失安全数]]等多重统计手段穿透发表偏倚的迷雾，判定核心因果结论是否具有超越发表偏倚的稳健性。
 
 > [!claim] Cartiff, B. M., et al.
 > **多重诊断与剪补下调确立因果效应抗偏倚稳健性** 在关于[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]中，漏斗图目视不对称性与 Egger 线性回归检验显著提示文献库中存在潜在的抽屉效应；研究者进而调用 Duval & Tweedie 剪补法虚拟填补了 6 项缺失研究，使总体效应量从 $d = 0.509$ 保守下调为 $d = 0.342$（$95\% \text{ CI } [0.155, 0.528]$），下调后的效应量依然高度显著且处于稳健的中等促进区间；同时 Rosenthal 经典失安全数高达 2,593，Orwin 失安全数表明需要 46 项零效应研究才能将平均效应压低至 $0.20$ 基准以下。这一多重互证规程确立了即使在存在显著发表偏倚的情况下，认识论认知干预的核心因果价值依然具有坚实的统计稳健性。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 484–485)]]
 
 ---
 
-### 命题三　二阶元分析复合放大商业出版偏倚，唯有依托解耦出版的开放数据基础设施方能从源头终结抽屉效应
-
-> [!concept-lens] 基础设施解耦与一级全量数据归档
-> 探讨商业学术出版的篇幅与显著性筛选如何导致元数据剥离与偏倚放大，以及中央标准化[[Data Infrastructure|数据基础设施]]如何重塑证据合成[[Paradigm|范式]]。
+> [!concept-proposition] 命题三｜[[Meta-meta-analysis|二阶元分析]]复合放大商业出版偏倚，唯有依托解耦出版的开放[[Data Infrastructure|数据基础设施]]方能从源头终结抽屉效应
+> **探讨维度　基础设施解耦与一级全量数据归档** 探讨商业学术出版的篇幅与显著性筛选如何导致元数据剥离与偏倚放大，以及中央标准化[[Data Infrastructure|数据基础设施]]如何重塑证据合成[[Paradigm|范式]]。
 
 > [!claim] [[Christof Wecker|Wecker, C.]], et al.
 > **商业出版扭曲与全量证据数据基础设施** 商业学术期刊出于篇幅限制常强制删减主要研究的基础统计数据（如实验组与对照组[[Sample Size Determination|样本量]] $n_E, n_C$、标准差 $s_E, s_C$），且因偏好显著正向结果而系统性拒收零效应研究；以 Hattie 为代表的“二阶[[Meta-meta-analysis|元元分析]]”直接抓取各商业期刊发表的一阶元分析进行简单二次汇总，不仅无法消除发表偏倚，反而使抽屉效应与数学估算误差在层级综合中被复合放大。解决该问题的根本出路在于将实证结果归档与商业期刊出版彻底解耦，由学术界建立跨机构的中央开放[[Data Infrastructure|数据基础设施]]（Zentrale Datenbank），强制无条件收集所有经资助实证研究的方法、原始数据矩阵与标准化[[Effect Size|效应量]]（统一采用 Hedges' $g$）；同时在学术评价制度中将数据存缴认定为“适合成果清单的学术产品”（Publikationslisten），从而阻断文件抽屉效应，推动[[Evidence-Based Education|循证教育]]走向动态、透明的一阶元分析。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]

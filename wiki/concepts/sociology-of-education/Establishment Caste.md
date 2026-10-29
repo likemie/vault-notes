@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -64,10 +64,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　种姓化壁垒的瓦解是现代治理机构与科技组织避免系统性衰亡的先决条件
-
-> [!concept-lens] 组织更新与制度存续
-> 阐明长期的制度活力必须依托于持续打破内部种姓结构与吸纳外部新鲜血液。
+> [!concept-proposition] 命题一｜种姓化壁垒的瓦解是现代治理机构与科技组织避免系统性衰亡的先决条件
+> **探讨维度　组织更新与制度存续** 阐明长期的制度活力必须依托于持续打破内部种姓结构与吸纳外部新鲜血液。
 
 > [!claim] Baltzell (1964)
 > **权威合法性依托于开放流通** [[E. Digby Baltzell|巴尔策尔]]在《新教当权派》（*The Protestant Establishment*, 1964）中强调，贤能统治的权威建立在其对新成员的持续吸纳能力之上；一旦封闭成种姓，社会成员对体制的自愿服从便会瓦解，最终引发反体制民粹叛乱。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 78–79)]]

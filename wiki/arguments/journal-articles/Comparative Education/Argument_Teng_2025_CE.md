@@ -10,7 +10,7 @@ title: "Argument_Teng_2025_CE"
 argument_key: "Argument_Teng_2025_CE"
 argument_display_title: "Migration for school choice: urbanisation and rural social stratification in China"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,8 @@ related_concepts:
   - "[[Peidu]]"
   - "[[School Choice]]"
   - "[[Cultural Capital]]"
+  - "[[Charter Schools]]"
+  - "[[School Vouchers]]"
   - "[[Document]]"
   - "[[Causality]]"
   - "[[Value Neutrality]]"
@@ -71,7 +73,7 @@ sources:
 part_of:
 status: draft
 created: 2026-05-26
-updated: 2026-10-26
+updated: 2026-10-29
 year: 2025
 doi: "10.1080/03050068.2024.2398342"
 citation_aliases:
@@ -90,8 +92,8 @@ source_language: en
 
 > [!concept-lens] 阅读透镜
 > - **探讨对象** 湖北省G县 12 所小学的农村家庭（包括县城陪读、乡镇陪读及非陪读）及当地教职工、官员的实证材料。
-> - **核心张力** 中国小城市的择校并非新自由主义的市场化竞争（例如特许学校（[[Partnership Schools Kura Hourua]]）或教育券）驱动，而是由地方政府借助学校撤并与城镇教育集中来实现教育城镇化人口吸纳的政策推拉；政府期望此举能缩小教育差距，但在实际运作中以资本与社会阶级筛选置换了身份壁垒。
-> - **理论贡献** 修正了西方主流文献（[[Document]]）中择校等同于教育市场化的[[Causality\|因果关系]]（Causality）设定，阐明了城镇化政策逻辑下同样能产生极强的择校分层机制；展现了农村社会的阶层分化与资本博弈；并剖析了市场与阶级等非制度因素对行政管辖等制度壁垒的人口筛选替代过程。
+> - **核心张力** 中国小城市的择校并非新自由主义的市场化竞争（例如[[Charter Schools|特许学校]]（[[Partnership Schools Kura Hourua]]）或[[School Vouchers|教育券]]）驱动，而是由地方政府借助学校撤并与城镇教育集中来实现教育城镇化人口吸纳的政策推拉；政府期望此举能缩小教育差距，但在实际运作中以资本与社会阶级筛选置换了身份壁垒。
+> - **理论贡献** 修正了西方主流[[Document|文献]]（[[Document]]）中择校等同于教育市场化的[[Causality\|因果关系]]（Causality）设定，阐明了城镇化政策逻辑下同样能产生极强的择校分层机制；展现了农村社会的阶层分化与资本博弈；并剖析了市场与阶级等非制度因素对行政管辖等制度壁垒的人口筛选替代过程。
 
 ---
 
@@ -164,7 +166,7 @@ source_language: en
 
 ---
 
-> [!claim] 论证步骤一：撤点并校与城镇扩张的政策推拉机制
+> [!claim|step] 论证步骤一：撤点并校与城镇扩张的政策推拉机制
 > 农村[[Peidu\|陪读]]现象并非完全是市场的自发选择，而是地方政府实施以学校集中化为模板的城镇化政策推拉运动所刻意制造的制度性结果。
 
 > [!chain-link] 证据到判断
@@ -201,7 +203,7 @@ source_language: en
 
 ---
 
-> [!claim] 论证步骤二：经济资本是决定农村家庭能否进城陪读的刚性生活门槛
+> [!claim|step] 论证步骤二：经济资本是决定农村家庭能否进城陪读的刚性生活门槛
 > 虽然政府免除了择校费和户籍要求，但县城高额的生活与住房成本构成了看不见的市场化筛选机制，剥夺了最贫困的农村底层家庭进城择校的可能。
 
 > [!ref-table]- 表 5：湖北 G 县随迁陪读与日常生活支出对照表 (2018/2023)
@@ -221,7 +223,7 @@ source_language: en
 
 ---
 
-> [!claim] 论证步骤三：社会资本是决定择校分流的非正式关系网络
+> [!claim|step] 论证步骤三：社会资本是决定择校分流的非正式关系网络
 > 在公共教育服务存在显著梯度（声誉极高的重点小学与普通小学并存）且入学缺乏公开透明程序的背景下，进入哪所具体的城镇学校完全取决于家庭社会资本即非正式熟人网络的权力层级。
 
 > [!chain-link] 证据到判断
@@ -244,7 +246,7 @@ source_language: en
 
 ---
 
-> [!claim] 论证步骤四：文化资本在县域入学中的弱化与折损
+> [!claim|step] 论证步骤四：文化资本在县域入学中的弱化与折损
 > 与西方发达国家中高学历阶层通过微妙的面试技巧、复杂的跨校信息甄别及独特的文化品位来建立择校优势不同，中国县域环境下的[[Cultural Capital\|文化资本]]未能成为独立的技术选拔门槛，而是在很大程度上向社会关系网络的运作妥协与退让。
 
 > [!chain-link] 证据到判断
@@ -254,7 +256,7 @@ source_language: en
 
 ---
 
-> [!claim] 论证步骤五：家庭社会经济地位阶梯分层模型的量化证实
+> [!claim|step] 论证步骤五：家庭社会经济地位阶梯分层模型的量化证实
 > 量化统计与回归模型证实，择校迁移的终点并未走向公平，而是将不同家庭的资本占有量精确地映射为一条社会经济地位细分的垂直阶梯。
 
 > [!chain-link] 证据到判断
@@ -406,7 +408,7 @@ source_language: en
 
 ---
 
-> [!claim] 论证步骤六：陪读对农村薄弱学校产生的毁灭性系统危机
+> [!claim|step] 论证步骤六：陪读对农村薄弱学校产生的毁灭性系统危机
 > 择校迁移的狂潮掏空了农村的优质教育资源，导致留在村庄的薄弱学校在经费、师资、课堂生态与社区信任等多个维度陷入恶性循环的衰败深渊。
 
 > [!chain-link] 证据到判断

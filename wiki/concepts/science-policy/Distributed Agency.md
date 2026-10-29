@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-29
 title: Distributed Agency
 aliases:
   - 分布式主体
@@ -99,20 +99,16 @@ aliases:
 
 ---
 
-### 命题一　分布式主体是应对 21 世纪重大社会挑战使命政策的根本组织特征
-
-> [!concept-lens] 问题性质与主体结构维度
-> 探讨[[Wicked Problem|复杂社会难题]]如何重塑政策参与主体结构。
+> [!concept-proposition] 命题一｜分布式主体是应对 21 世纪重大社会挑战使命政策的根本组织特征
+> **探讨维度　问题性质与主体结构维度** 探讨[[Wicked Problem|复杂社会难题]]如何重塑政策参与主体结构。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **复杂社会转型排斥单一主体霸权** 面对脱碳转型、健康老龄化等[[Wicked Problem|棘手问题]]，由于解决方案涉及全社会的行为习惯改变、商业模式重构与跨部门规制革新，没有任何单一机构能够掌握全部必要知识与权威；唯有承认并依托分布式主体的网络协同，创新政策才能形成广泛的政治合法性与全系统探索动能。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
 
 ---
 
-### 命题二　分布式主体要求国家治理角色从“指令控制者”向“网络编织与引领者”转变
-
-> [!concept-lens] 国家能力与治理[[Paradigm|范式]]维度
-> 审视分布式主体对[[Public Dynamic Capabilities|公共部门动态能力]]的制度诉求。
+> [!concept-proposition] 命题二｜分布式主体要求国家治理角色从“指令控制者”向“网络编织与引领者”转变
+> **探讨维度　国家能力与治理[[Paradigm|范式]]维度** 审视分布式主体对[[Public Dynamic Capabilities|公共部门动态能力]]的制度诉求。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **[[Lead-and-Learn Paradigm|引领与学习范式]]的组织底座** 在分布式主体网络中，国家的核心职能不再是微观干预或强制指令，而是依托[[Lead-and-Learn Paradigm|引领与学习范式]]，通过设立宏观战略方向（[[Directionality of Innovation|创新的方向性]]）、提供[[Patient Capital|耐性资本]]以及搭建[[Agile Governance|敏捷治理]]平台，撬动并统筹全社会的分布式能动性共同攻关。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]

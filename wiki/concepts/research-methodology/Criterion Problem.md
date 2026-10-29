@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -112,20 +112,16 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　效标问题是导致心理潜能作为预测变量与作为结果变量时效应量显著不对称的根本原因
-
-> [!concept-lens] [[Effect Size\|效应量]]不对称性与效标噪声稀释
-> 探讨为何在[[Meta-analysis\|元分析]]中，同一个心理[[Construct\|构念]]在作为前因[[Independent Variable\|自变量]]与作为[[Dependent Variable\|因变量]]效标时表现出截然不同的关联强度。
+> [!concept-proposition] 命题一｜效标问题是导致心理潜能作为[[Independent Variable|预测变量]]与作为[[Dependent Variable|结果变量]]时[[Effect Size|效应量]]显著不对称的根本原因
+> **探讨维度　[[Effect Size\|效应量]]不对称性与效标噪声稀释** 探讨为何在[[Meta-analysis\|元分析]]中，同一个心理[[Construct\|构念]]在作为前因[[Independent Variable\|自变量]]与作为[[Dependent Variable\|因变量]]效标时表现出截然不同的关联强度。
 
 > [!claim] [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; Paek and Runco (2018); Shapiro (1970)
 > **效标[[Heterogeneity\|异质性]]稀释结果关联** 跨 52 项一阶元分析的大规模[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）证实，[[Creativity\|创造力]]作为预测[[Variable\|变量]]时的平均效应量（$r = 0.29$）显著高于其作为结果变量时的效应量（$r = 0.12, F(1, 16.3) = 9.43, p = .007$）。其根本机制在于：当创造力作为结果变量时，各研究采纳的效标极其分散且充斥效标污染与缺失，效标异质性严重稀释了统计关联系数；而当其作为自变量去预测相对客观的外部标准（如学业 [[Academic Achievement\|GPA]]、职业产出）时，标准化的潜能量表展现出更稳定纯净的预测效能。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
 
 ---
 
-### 命题二　多源复合测评矩阵是克服单一效标缺陷的现代心理测量学必由之路
-
-> [!concept-lens] 效标复合化与构念[[Triangulation\|三角互证]]
-> 探讨通过多方法、多特质矩阵（[[Multitrait-Multimethod Matrix\|MTMM]]）整合认知测验、专家评定与自陈[[Questionnaire\|问卷]]以逼近终极效标。
+> [!concept-proposition] 命题二｜多源复合测评矩阵是克服单一效标缺陷的现代心理测量学必由之路
+> **探讨维度　效标复合化与构念[[Triangulation\|三角互证]]** 探讨通过多方法、多特质矩阵（[[Multitrait-Multimethod Matrix\|MTMM]]）整合认知测验、专家评定与自陈[[Questionnaire\|问卷]]以逼近终极效标。
 
 > [!claim] Wolf (1994); Amabile (1982); [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]
 > **多维复合效标矩阵** 任何单一测量工具均无法单独解决效标问题；现代测评倡导将认知潜能测验（如[[Divergent Thinking\|发散思维]]测验、托兰斯测验）、真实产品生态评定（如[[Consensual Assessment Technique\|同感评估技术]] CAT）与日常观念行为自陈（如 [[Creative Achievement Questionnaire\|CAQ]]/[[Runco Ideational Behavior Scale\|RIBS]]）进行复合加权，通过多方法三角互证（Triangulation）最大化抵消个体评定者的主观偏倚与特定任务的情境局限。

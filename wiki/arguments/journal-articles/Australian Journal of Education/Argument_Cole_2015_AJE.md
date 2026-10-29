@@ -33,11 +33,13 @@ related_concepts:
   - "[[Variable]]"
   - "[[Knowledge Questions]]"
   - "[[Creativity, Action, Service]]"
+  - "[[Learning Strategies]]"
   - "[[School Leadership]]"
   - "[[Open-Mindedness]]"
   - "[[Areas of Knowledge]]"
   - "[[Epistemology]]"
   - "[[Causality]]"
+  - "[[Student Motivation]]"
   - "[[Attrition]]"
   - "[[Reliability]]"
   - "[[External Validity]]"
@@ -74,14 +76,14 @@ related_instruments:
   - "[[Academic Self-Concept General Scale]]"
 status: draft
 created: 2026-06-30
-updated: 2026-10-22
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cole_2015_AJE"
 argument_key: "Argument_Cole_2015_AJE"
 argument_display_title: "Critical thinking skills in the International Baccalaureate's 'Theory of Knowledge' subject: Findings from an Australian study"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -193,7 +195,7 @@ journal: "Australian Journal of Education"
 
 ---
 
-> [!claim] 论证步骤一　建立文献基础：显性批判性思维教学优于隐性融入
+> [!claim|step] 论证步骤一　建立文献基础：显性批判性思维教学优于隐性融入
 > 已有的[[Meta-analysis\|元分析]]证据和[[Randomised Controlled Trials\|随机对照实验]]一致表明：
 
 > [!evidence-grid-a] 显性教学的实证优势
@@ -210,7 +212,7 @@ journal: "Australian Journal of Education"
 
 ---
 
-> [!claim] 论证步骤二　阶段一证据：ToK 学生从 11 年级到 12 年级的批判性思维增长
+> [!claim|step] 论证步骤二　阶段一证据：ToK 学生从 11 年级到 12 年级的批判性思维增长
 > [[Critical Thinking Strategies Scale\|CTSS]] 和 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]] 的组间比较均显示 12 年级得分显著高于 11 年级，为 ToK 学习阶段与批判性思维技能之间的正向关系提供了初步证据。
 
 > [!chain-link] 证据到判断
@@ -253,7 +255,7 @@ journal: "Australian Journal of Education"
 
 ---
 
-> [!claim] 论证步骤三　阶段二证据：ToK 实施方式因学校文化和路径而显著分化
+> [!claim|step] 论证步骤三　阶段二证据：ToK 实施方式因学校文化和路径而显著分化
 > 四所 NSW 案例学校虽然都将批判性思维发展纳入学校使命，但在 ToK 的概念化、[[Operationalization\|操作化]]和实际教学质量上存在显著差异。学校 1 和 4 代表了高度结构化的全校跨学科整合（学校 1 和 4）到近乎随意的讨论式教学（学校 2）。这一发现揭示了一个关键命题：ToK 课程框架本身并不自动保证批判性思维的有效培养；学校文化、教师团队的经验结构以及学校赖以运作的知识传统，共同构成了决定 ToK 教学效果的关键调节[[Variable\|变量]]。
 
 ---
@@ -265,7 +267,7 @@ journal: "Australian Journal of Education"
 > | **CT 教学形式** | 基于 ToK 课程指南和 IBO 文件，围绕认识方式与知识[[Domain Analysis\|领域分析]] | 非目的性讨论为主，受学科教师影响大 | 传统哲学教学法，以逻辑论证严密性为核心 | 大学风格技能训练，全校整合的批判性思维路径 |
 > | **ToK and CT 的关系** | 对齐整合，全校统一 [[International Baccalaureate\|IB]] 概念与课程 | 松散间接，CT 主要通过历史、英语等学科传递 | CT 等同于哲学逻辑论证，ToK 是哲学研究子集 | ToK 嵌入全校 CT 计划，课时用于集中提升他处所学 CT 技能 |
 > | **整体效果** | **强** | **弱** | **中等** | **强** |
-> | **核心优势** | 全校整合为核心枢纽，学习策略迁移至各学科 | — | 学生对论证结构有严谨理解，逻辑有效性的深度掌握 | CT 为学校使命核心，已复制课程给非 IB 学生 |
+> | **核心优势** | 全校整合为核心枢纽，[[Learning Strategies\|学习策略]]迁移至各学科 | — | 学生对论证结构有严谨理解，逻辑有效性的深度掌握 | CT 为学校使命核心，已复制课程给非 IB 学生 |
 > | **核心风险** | — | 退化为学生聊天课，隐性融入披 ToK 外衣 | CT 局限在哲学领域，忽视科学和社会科学中的推理应用 | — |
 
 > [!warrant]- 解读：ToK 课程框架 vs 学校实施
@@ -278,7 +280,7 @@ journal: "Australian Journal of Education"
 
 ---
 
-> [!claim] 论证步骤四　阶段三证据：DP 毕业生在大学学术和批判性思维上的全面优势
+> [!claim|step] 论证步骤四　阶段三证据：DP 毕业生在大学学术和批判性思维上的全面优势
 > 完成整个 DP 课程（含 ToK）的学生在进入大学时，[[Critical Thinking Disposition\|批判性思维倾向]]的七个维度均值均高于非 DP 毕业生，而且在三项大学学术准备指标（ATAR、[[Academic Self-Concept\|学术自我概念]]、预期大学成果）上均表现出统计显著的优势。原文没有报告批判性思维倾向组间差异的显著性检验。
 
 > [!contrast-table] 批判性思维倾向比较（[[California Critical Thinking Disposition Inventory\|CCTDI]] 七维度 + 总分）
@@ -356,7 +358,7 @@ journal: "Australian Journal of Education"
 > [!warning] 研究设计局限
 > - **无法分离 ToK 与整个 DP 的效果** DP 毕业生完成的是整个 [[IB Diploma Programme\|IB DP]] 课程（六门学科 + EE + [[Chinese Academy of Sciences|CAS]] + ToK），横断研究设计无法将 ToK 的独立贡献从 DP 的整体效果中分离。这是该研究最根本的推断限制
 > - **横断设计限制[[Causality\|因果推断]]** 11 年级与 12 年级的比较是横断快照而非纵向追踪。即使两组之间存在系统性差异，也无法排除队列效应（cohort effect）或选择性流失的替代解释
-> - **选课效应无法排除** 选择 [[IB Diploma Programme\|IB DP]] 的学生可能在入学前就具有更高的学术能力、更强的学习动机或更支持性的家庭背景。ATAR 差异（$+4.84$分）可能部分或全部反映的是选课效应而非 DP 的培养效应
+> - **选课效应无法排除** 选择 [[IB Diploma Programme\|IB DP]] 的学生可能在入学前就具有更高的学术能力、更强的[[Student Motivation|学习动机]]或更支持性的家庭背景。ATAR 差异（$+4.84$分）可能部分或全部反映的是选课效应而非 DP 的培养效应
 
 > [!warning] 样本与测量局限
 > - **大学阶段 [[California Critical Thinking Disposition Inventory\|CCTDI]] [[Sample Size Determination\|样本量]]小且非代表性** 仅 42 名 DP 毕业生和 126 名非 DP 毕业生完成 CCTDI（商业量表需额外登录致[[Attrition|样本流失]]）。样本为[[Convenience Sampling\|便利抽样]]，来自仅两所大学（悉尼大学、QUT），限制了向更广泛的澳大利亚大学新生群体的推广。因此大学阶段的发现仅能提供**初步（tentative）而非确凿（unequivocal）** 的证据

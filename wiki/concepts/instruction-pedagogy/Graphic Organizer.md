@@ -8,10 +8,10 @@ aliases:
 summary: "通过空间隐喻与视觉拓扑结构表征概念关系、逻辑论证与层级脉络的教学与认知脚手架，能有效卸载低阶信息检索负荷并释放高阶认知资源"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 25
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 32
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/graphic-organizer
   - instruction/pedagogy
@@ -32,18 +32,25 @@ related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
   - "[[Creativity]]"
-  - "[[Self-Scaffolding]]"
   - "[[Meta-Representational Competence]]"
+  - "[[Self-Scaffolding]]"
   - "[[Rote Learning]]"
   - "[[Heterogeneity]]"
+  - "[[Dependent Variable]]"
+  - "[[Divergent Thinking]]"
+  - "[[Convergent Thinking]]"
+  - "[[Construct]]"
+  - "[[Open-Mindedness]]"
+  - "[[Scoring Rubrics]]"
 related_theories:
   - "[[Knowledge Integration]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Prediction Interval]]"
+  - "[[Likert Scale]]"
   - "[[Random-Effects Model]]"
   - "[[Experimental Research]]"
-  - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -52,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -116,30 +123,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　图形组织器通过空间隐喻与认知负荷卸载释放高阶思维加工潜能
-
-> [!concept-lens] 认知负荷卸载与认知资源释放
-> 该命题探讨外在可视化空间工具如何介入人类有限的[[Working Memory\|工作记忆]]容量，通过减少表层文本与碎片事实的检索开销，将心智资源转移至高阶认知加工。
+> [!concept-proposition] 命题一｜图形组织器通过空间隐喻与认知负荷卸载释放[[Higher-Order Thinking Skills|高阶思维]]加工潜能
+> **探讨维度　认知负荷卸载与认知资源释放** 该命题探讨外在可视化空间工具如何介入人类有限的[[Working Memory\|工作记忆]]容量，通过减少表层文本与碎片事实的检索开销，将心智资源转移至高阶认知加工。
 
 > [!claim] Lei, Ding & Chiu
 > **工作记忆释放机制** 图形组织器利用空间隐喻（Spatial Metaphors）表征概念与逻辑关联，将文本中隐含的多维拓扑直接外显化，从而大幅降低了信息保持与线性检索等低阶思维（LOT）的心智消耗；这使大脑能够将更多的工作记忆资源投入到分析、评价、创造、推理与反思等[[Higher-Order Thinking Skills\|高阶思维]]（HOT）过程之中，实证[[Meta-analysis\|元分析]]证实其对学生高阶思维具有显著的中到强促进效应（$g = 0.778$）。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3, 9–11)]]
 
 ---
 
-### 命题二　图形组织器的结构复杂度与操作门槛调节其促学效应量
-
-> [!concept-lens] 组织器类型与结构冗余度
-> 该命题探讨不同形态的图形组织器（[[Mind Mapping\|思维导图]]、[[Argument Mapping\|论证图]]、[[Concept Mapping\|概念图]]）在结构复杂度、形式规则与认知门槛上的差异如何决定其对高阶思维的干预效能。
+> [!concept-proposition] 命题二｜图形组织器的结构复杂度与操作门槛调节其促学[[Effect Size|效应量]]
+> **探讨维度　组织器类型与结构冗余度** 该命题探讨不同形态的图形组织器（[[Mind Mapping\|思维导图]]、[[Argument Mapping\|论证图]]、[[Concept Mapping\|概念图]]）在结构复杂度、形式规则与认知门槛上的差异如何决定其对高阶思维的干预效能。
 
 > [!claim] Lei, Ding & Chiu
 > **结构开销与工具效能级差** 思维导图（Mind Map）因聚焦单一核心概念并向外自由放射，操作规则简洁且结构开销极低，在[[Brainstorming\|头脑风暴]]与构想发散中能最大化释放认知资源，因而促进效应最强（$g = 1.041$）；论证图（Argument Map）具有清晰的线性或树状逻辑论证规则，能有效支撑结构化论辩与批判性写作，效应次之（$g = 0.798$）；而概念图（Concept Map）因包含复杂的交叉连线与严格的关系命名规则，极易诱发较高的外在认知负荷与视觉繁复，效应相对最弱（$g = 0.548$）。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 10–12)]]
 
 ---
 
-### 命题三　学习者的元表征能力与自我脚手架水平决定图形组织器的发展适切性
-
-> [!concept-lens] 认知发展阶段与表征成熟度
-> 该命题探讨学习者的年龄阶段、形式运算能力与[[Self-Scaffolding\|自我脚手架]]能力如何调节图形组织器的干预收益。
+> [!concept-proposition] 命题三｜学习者的[[Meta-Representational Competence|元表征能力]]与[[Self-Scaffolding|自我脚手架]]水平决定图形组织器的发展适切性
+> **探讨维度　认知发展阶段与表征成熟度** 该命题探讨学习者的年龄阶段、形式运算能力与[[Self-Scaffolding\|自我脚手架]]能力如何调节图形组织器的干预收益。
 
 > [!claim] Lei, Ding & Chiu
 > **学段发展倒U型特征** 中学生群体从图形组织器中的获益最大（$g = 1.113$），显著高于小学生（$g = 0.877$）与大学生（$g = 0.659$）。这是因为中学生已具备形式运算与[[Meta-Representational Competence\|元表征能力]]，且能抵抗不相关视觉细节的干扰；相比之下，小学生元表征能力不足且易受[[Seductive Details Effect\|诱人细节效应]]（Seductive Details Effect）干扰，而大学生已具备成熟的内部空间表征与自我[[Scaffolding\|脚手架]]能力（Self-Scaffolding），对外在图形工具的依赖程度相对较低。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 10–12)]]
@@ -186,14 +187,14 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 干预因素（组织器形态） | 思维导图（Mind Mapping） | Hedges' $g$ | k = 16 | <span class="mx-bar ef-bar" title="Hedges' g 1.041"><span class="b21"></span></span>1.041 | [0.704, 1.379] | $Q_b = 9.13, p < .05$；Wald 两两比较均 $p < .001$ |
 > |  | 干预因素（组织器形态） | 论证图（Argument Mapping） | Hedges' $g$ | k = 12 | <span class="mx-bar ef-bar" title="Hedges' g 0.798"><span class="b16"></span></span>0.798 | [0.469, 1.237] | 组间差异显著 |
 > |  | 干预因素（组织器形态） | 概念图（Concept Mapping） | Hedges' $g$ | k = 36 | <span class="mx-bar ef-bar" title="Hedges' g 0.548"><span class="b11"></span></span>0.548 | [0.403, 0.692] | 组间差异显著 |
-> |  | 干预因素（结果变量类型） | 发散思维（Divergent Thinking） | Hedges' $g$ | k = 14 | <span class="mx-bar ef-bar" title="Hedges' g 1.167"><span class="b23"></span></span>1.167 | [0.841, 1.493] | $Q_b = 7.07, p < .01$ |
-> |  | 干预因素（结果变量类型） | 聚合思维（Convergent Thinking） | Hedges' $g$ | k = 55 | <span class="mx-bar ef-bar" title="Hedges' g 0.680"><span class="b14"></span></span>0.680 | [0.535, 0.825] | 组间差异显著 |
-> |  | 干预因素（结果构念层级） | 高阶思维倾向（Dispositions） | Hedges' $g$ | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.945"><span class="b19"></span></span>0.945 | [0.670, 1.221] | $Q_b = 8.66, p < .05$；与技能差异 $W = 53.47, p < .001$ |
+> |  | 干预因素（[[Dependent Variable\|结果变量]]类型） | [[Divergent Thinking\|发散思维]]（Divergent Thinking） | Hedges' $g$ | k = 14 | <span class="mx-bar ef-bar" title="Hedges' g 1.167"><span class="b23"></span></span>1.167 | [0.841, 1.493] | $Q_b = 7.07, p < .01$ |
+> |  | 干预因素（结果变量类型） | [[Convergent Thinking\|聚合思维]]（Convergent Thinking） | Hedges' $g$ | k = 55 | <span class="mx-bar ef-bar" title="Hedges' g 0.680"><span class="b14"></span></span>0.680 | [0.535, 0.825] | 组间差异显著 |
+> |  | 干预因素（结果[[Construct\|构念]]层级） | 高阶思维倾向（Dispositions） | Hedges' $g$ | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 0.945"><span class="b19"></span></span>0.945 | [0.670, 1.221] | $Q_b = 8.66, p < .05$；与技能差异 $W = 53.47, p < .001$ |
 > |  | 干预因素（结果构念层级） | 高阶认知过程（Processes） | Hedges' $g$ | k = 22 | <span class="mx-bar ef-bar" title="Hedges' g 0.912"><span class="b18"></span></span>0.912 | [0.631, 1.194] | 与技能差异 $W = 137.48, p < .001$；与倾向差异不显著 |
 > |  | 干预因素（结果构念层级） | 高阶思维技能结果（Skills） | Hedges' $g$ | k = 29 | <span class="mx-bar ef-bar" title="Hedges' g 0.560"><span class="b11"></span></span>0.560 | [0.411, 0.708] | 组间差异显著 |
 > |  | 干预因素（学习者学段） | 中学生 | Hedges' $g$ | k = 17 | <span class="mx-bar ef-bar" title="Hedges' g 1.113"><span class="b22"></span></span>1.113 | [0.759, 1.467] | $Q_b = 6.61, p < .05$；两两比较均显著 |
@@ -205,8 +206,8 @@ updated: 2026-10-25
 > - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 干预因素（组织器形态）** 交叉网络复杂度高，易带来额外认知负荷
 > - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 干预因素（结果变量类型）** 对生成性与独创性发散构想的促进效应显著强于聚合思维
 > - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 干预因素（结果变量类型）** 侧重逻辑判断与确定性推导
-> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 干预因素（结果构念层级）** 李克特量表测度，激发探究与反思心向
-> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 干预因素（结果构念层级）** 开放性写作与评分量规测度，直接反映思维加工质量
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 干预因素（结果构念层级）** [[Likert Scale|李克特量表]]测度，激发探究与反思心向
+> - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 干预因素（结果构念层级）** [[Open-Mindedness|开放性]]写作与[[Scoring Rubrics|评分量规]]测度，直接反映思维加工质量
 > - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 干预因素（结果构念层级）** 多项选择标准化测验测度，反映远端综合技能
 > - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 干预因素（学习者学段）** 处于形式运算阶段且具抗干扰力，获益最大
 > - **[[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] · 干预因素（学习者学段）** [[Meta-Representational Competence\|元表征能力]]较弱，易受诱人细节干扰

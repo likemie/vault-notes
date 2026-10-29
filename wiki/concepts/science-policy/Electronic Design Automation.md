@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -101,20 +101,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　电子设计自动化是后摩尔时代化解万级工艺复杂性并实现软硬件协同演进的核心技术底座
-
-> [!concept-lens] 复杂性抽象与全栈协同
-> 探讨随着芯片制程步入原子尺度以及[[Heterogeneous Integration|三维异构集成]]的普及，设计软件如何通过多层次抽象模型与人工智能辅助算法，使人类工程师能够驾驭呈指数级膨胀的微电子系统复杂性。
+> [!concept-proposition] 命题一｜电子设计自动化是后摩尔时代化解万级工艺复杂性并实现软硬件协同演进的核心技术底座
+> **探讨维度　复杂性抽象与全栈协同** 探讨随着芯片制程步入原子尺度以及[[Heterogeneous Integration|三维异构集成]]的普及，设计软件如何通过多层次抽象模型与人工智能辅助算法，使人类工程师能够驾驭呈指数级膨胀的微电子系统复杂性。
 
 > [!claim] [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
 > **多物理域建模与智能设计工具的使能作用** 美国[[National Science and Technology Council|国家科学技术委员会]]（National Science and Technology Council, NSTC）指出，后摩尔时代的芯片演进已由传统的二维几何微缩转向多材料、多物理场紧密耦合的三维异构集成。面对数以千亿计的晶体管和跨尺度热耗难题，单纯依靠经验公式与手工微调已彻底失效。必须发展具备跨域联合仿真能力的新一代 EDA 工具，结合人工智能与机器学习算法实现自动化架构空间探索、物理时序快速收敛与缺陷预测，将软硬件[[Co-Design|协同设计]]（Co-Design）原则贯穿于从底层物理材料到上层系统应用的全技术栈中。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 14–16)]]
 
 ---
 
-### 命题二　商业软件寡头垄断与高昂授权门槛加剧了前沿芯片研发的学术准入排斥与地缘战略断点风险
-
-> [!concept-lens] 产业集中度、研发普惠性与地缘科技制衡
-> 探讨主流商业 EDA 软件高度垄断所造成的初创企业与学术界研发鸿沟，以及设计工具链作为不对称战略制衡武器对全球半导体生态的深远影响。
+> [!concept-proposition] 命题二｜商业软件寡头垄断与高昂授权门槛加剧了前沿芯片研发的学术准入排斥与地缘战略断点风险
+> **探讨维度　产业集中度、研发普惠性与地缘科技制衡** 探讨主流商业 EDA 软件高度垄断所造成的初创企业与学术界研发鸿沟，以及设计工具链作为不对称战略制衡武器对全球半导体生态的深远影响。
 
 > [!claim] Karp, A., & Zamiska, N. (2025)
 > **EDA 软件链条的不对称战略控制权** 亚历克斯·卡普（[[Alexander Karp|Alex Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）论证指出，在整个微电子产业价值链中，EDA 软件与先进光刻机并列为西方世界最难以被替代的核心结构性卡点（Choke Point）。由于现代芯片制造深度依赖与先进制程物理特性严格校准的专有算法库，全球 EDA 市场几乎完全被少数几家美国主导的企业（如新思科技 Synopsys、铿腾电子 Cadence 等）所垄断。这种极高的市场与技术集中度不仅赋予了主导国强大的技术断供制约能力，也构筑了全球[[Securitization of Technology|技术安全化]]的核心控制节点。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, pp. 102–106)]]

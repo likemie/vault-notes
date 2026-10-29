@@ -112,7 +112,7 @@ related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
 status: draft
 created: '2026-05-01'
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -176,30 +176,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　提升教学效能必须依托经过实验检验的具体方案而非抽象教学原则
-
-> [!concept-lens] 方案具象化与因果保真度
-> 探讨抽象教学原则为何在实践转化中普遍落空，以及具体结构化项目如何通过工程化开发保障课堂[[Implementation Fidelity\|实施保真度]]。
+> [!concept-proposition] 命题一｜提升教学效能必须依托经过实验检验的具体方案而非抽象教学原则
+> **探讨维度　方案具象化与因果保真度** 探讨抽象教学原则为何在实践转化中普遍落空，以及具体结构化项目如何通过工程化开发保障课堂[[Implementation Fidelity\|实施保真度]]。
 
 > [!claim] [[Robert Slavin\|Slavin, R.]] E.
 > **抽象原则无法自行跨越实践转化鸿沟** 传统教育改革倾向于传播[[Effective Teaching\|有效教学]]的一般原则（如[[Active Learning\|主动学习]]、[[Formative Assessment\|形成性评价]]），但一线教师在繁重日常备课中极难自行研发配套教材、课堂活动与测评工具，遇到阻力即迅速回退至个人传统习惯。只有将科学原理工程化内嵌于具体的教材、教具、技术工具与教师专业发展方案中，并经过严格的对照组实验验证，改革才具备现实可行性与可复制性。[[Argument_Slavin_2002_ER\|(Slavin, 2002, pp. 18–19)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]
 
 ---
 
-### 命题二　循证改革的成功取决于项目存量、独立审查与财政激励三大支柱的制度协同
-
-> [!concept-lens] 政策治理杠杆与供需匹配
-> 分析公共政策如何通过[[Tiered Evidence Grants\|分层资助管线]]、独立审查平台与法定拨款门槛重塑教育采购生态。
+> [!concept-proposition] 命题二｜循证改革的成功取决于项目存量、独立审查与财政激励三大支柱的制度协同
+> **探讨维度　政策治理杠杆与供需匹配** 分析公共政策如何通过[[Tiered Evidence Grants\|分层资助管线]]、独立审查平台与法定拨款门槛重塑教育采购生态。
 
 > [!claim] Slavin, R. E.
 > **三条件框架是驱动教育实践不可逆进步的制度基石** 单纯依靠学术发表无法改变学校实践；循证改革必须同时建立三大支柱：通过联邦分层研发管线（如[[Investing in Innovation Program\|创新投资项目]]（Investing in Innovation, i3）/ [[Education Innovation and Research\|教育创新与研究项目]]（Education Innovation and Research, EIR）、英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF））形成充足的合规项目库；建立面向校长的独立极速转译平台（如 [[Evidence for ESSA]]）；并通过立法（如《[[Every Student Succeeds Act\|每一个学生成功法]]》）将数十亿美元的学校改进拨款与 TIER 1–3 证据方案刚性绑定，从制度上阻断商业营销对公款的侵蚀。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–26)]]
 
 ---
 
-### 命题三　循证改革在非英美语境中的推广必须克服制度、语言与本土证据库的语境化张力
-
-> [!concept-lens] 跨国[[Policy Borrowing\|政策借用]]与本土生态调适
-> 探讨欧洲大陆、中国及法语区在引入证据本位改革时所面临的证据库薄弱、语言壁垒与哲学传统差异。
+> [!concept-proposition] 命题三｜循证改革在非英美语境中的推广必须克服制度、语言与本土证据库的语境化张力
+> **探讨维度　跨国[[Policy Borrowing\|政策借用]]与本土生态调适** 探讨欧洲大陆、中国及法语区在引入证据本位改革时所面临的证据库薄弱、语言壁垒与哲学传统差异。
 
 > [!claim] Pellegrini, M., & Vivanet, G.
 > **欧洲分权体系下的柔性证据知情协调路径** 在欧洲大陆多语言与去中心化治理环境下，刚性实验证据门槛面临严峻的语言壁垒与机构协调困难，[[EU|欧盟]]倾向于采取包容性更强的“证据知情”（[[Evidence-Informed Practice\|EIP]]）软法治理路径，通过网络搭建与能力建设促进证据利用。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, pp. 26–36)]]

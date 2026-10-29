@@ -9,7 +9,7 @@ aliases:
 summary: "将民主参与原则拓展至教育研究证据生产与利用全过程的学术思潮与治理议程，主张终结学者与资助者对科研议程的排他性垄断，将实践者与边缘社群确立为议程设定与知识转化的平等主体，同时反思功利主义实用性修辞对离群弱势群体的潜在排斥"
 type: concept
 domain: "educational-policy-reform"
-related_count: 32
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Democratisation of Expertise]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Research-Practice Partnership]]"
   - "[[Boundary Spanner]]"
   - "[[Reflexivity]]"
@@ -43,8 +44,10 @@ related_theories:
   - "[[Organizational Culture]]"
   - "[[Path Dependence]]"
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Action Research]]"
   - "[[Effect Size]]"
+  - "[[Bibliometric Analysis]]"
   - "[[Research Synthesis]]"
 related_persons:
   - "[[Vivian Tseng]]"
@@ -59,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -86,7 +89,7 @@ updated: 2026-10-22
 > [!contrast-table] 证据生产[[Paradigm\|范式]]演进对照
 > | 比较维度 | 传统学术主导型生产 | 证据民主化协同共创 |
 > |---|---|---|
-> | **问题来源** | 填补学术文献空白或响应国家重点攻关基金指令 | 扎根实践困境与弱势社群真实面临的公平赤字 |
+> | **问题来源** | 填补学术[[Document\|文献]]空白或响应国家重点攻关基金指令 | 扎根实践困境与弱势社群真实面临的公平赤字 |
 > | **行动者地位** | 研究者为主体；教师与学生被物化为受试被试客体 | 实践者、社区、学生与研究者结为平等合作共创者 |
 > | **交付成果** | 英文 SSCI 期刊论文、专著、高门槛因果评估报告 | 长期伙伴关系网络、校本实践改进规程与本土能力建设 |
 > | **激励评价** | 论文发表量、同行引用率、高额竞争性科研经费 | 实践政策改变、[[Organizational Culture\|组织文化]]提升与教育边缘群体处境改善 |
@@ -97,7 +100,7 @@ updated: 2026-10-22
 > - **议程设定的多方协商机制** 终结研究者“代议制”假定，让边缘群体、学生与一线教师在立项初期享有平等的否决权与裁量权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
 > - **长期制度化伙伴关系（[[Research-Practice Partnership\|RPP]]）** 超越以短期项目资助为驱动的“打一枪换一个地方”模式，依托制度化基础设施支撑跨周期互信构建。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 221)]]
 > - **资助规则与交付成果重构** 改革科研基金预算编制，资助跨界沟通中介人（[[Boundary Spanner\|Boundary Spanners]]）与实践方工时成本，将组织赋能列为关键考核交付物。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 221–223)]]
-> - **多元方法学包容与[[Reflexivity\|反身性]]审视** 克服对单一高成本实验设计的迷信，倡导质性、[[Action Research\|行动研究]]与量化评价互补，并将资助者自身的权力关系纳入实证反思。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 223, 225–227)]]
+> - **多元方法学包容与[[Reflexivity\|反身性]]审视** 克服对单一高成本[[Experimental Research|实验设计]]的迷信，倡导质性、[[Action Research\|行动研究]]与量化评价互补，并将资助者自身的权力关系纳入实证反思。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 223, 225–227)]]
 
 > [!logic-map]- 证据民主化治理架构
 > ```mermaid
@@ -114,33 +117,27 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　研究议程多元共创是根除教育科研榨取性弊端与增进实践效用的根本路径
-
-> [!concept-lens] [[Epistemology\|认识论]]批判与权力重构
-> 探讨传统学术界将学校与边缘群体视作单纯数据采掘场的剥削性质，阐述[[Knowledge Production\|知识生产]]主体地位再造的机制。
+> [!concept-proposition] 命题一｜研究议程多元共创是根除教育科研榨取性弊端与增进实践效用的根本路径
+> **探讨维度　[[Epistemology\|认识论]]批判与权力重构** 探讨传统学术界将学校与边缘群体视作单纯数据采掘场的剥削性质，阐述[[Knowledge Production\|知识生产]]主体地位再造的机制。
 
 > [!claim] Tseng, V.
-> **终结榨取式科研与确立受益人主体性** 长期以来大学研究者与资助机构排他性主导科研议程，导致研究过度聚焦文献缝隙而非政策实践两难，甚至将弱势群体物化为索取唾液、考试时间与个人隐私的数据工具，形成典型的榨取式科研；唯有将边缘学生与社群请到议程设定桌前，确立其自我决定的受益人主体地位，才能生产出具有深度互信、切合实际且直面不平等根源的有效证据。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
+> **终结榨取式科研与确立受益人主体性** 长期以来大学研究者与资助机构排他性主导科研议程，导致研究过度聚焦[[Document|文献]]缝隙而非政策实践两难，甚至将弱势群体物化为索取唾液、考试时间与个人隐私的数据工具，形成典型的榨取式科研；唯有将边缘学生与社群请到议程设定桌前，确立其自我决定的受益人主体地位，才能生产出具有深度互信、切合实际且直面不平等根源的有效证据。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
 
 ---
 
-### 命题二　资助机制革新与学术激励重塑是维系民主化协同研究的制度基石
-
-> [!concept-lens] 制度生态与激励机制
-> 分析传统科研资助与大学考核体制对合作共创的挤压，提出重构资助评价要素的制度举措。
+> [!concept-proposition] 命题二｜资助机制革新与学术激励重塑是维系民主化协同研究的制度基石
+> **探讨维度　制度生态与激励机制** 分析传统科研资助与大学考核体制对合作共创的挤压，提出重构资助评价要素的制度举措。
 
 > [!claim] Tseng, V.
 > **重构交付物标准与资助跨界运行成本** 驱动[[Research Utilization\|研究利用]]的是多方信任关系而非冷冰冰的论文报告；传统的科研基金只资助首席专家发表论文，严重忽视了跨界协作所需的沟通中介人、组织协调成本与实践者误工补偿。资助机构必须主动革新，将大学职称评审停钟制度、政策介入贡献及组织能力提升纳入立项与验收指标，并对资助实践自身开展循证元评估。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 221–223)]]
 
 ---
 
-### 命题三　警惕功利主义可用性修辞异化为压制离群弱势群体的制度陷阱
-
-> [!concept-lens] 政治哲学批判与受托伦理反思
-> 批判以满足多数人可用性为名的工具主义改革，指出[[Statistical Normalisation\|统计标准化]]对边缘人群的遮蔽风险。
+> [!concept-proposition] 命题三｜警惕功利主义可用性修辞异化为压制离群弱势群体的制度陷阱
+> **探讨维度　政治哲学批判与受托伦理反思** 批判以满足多数人可用性为名的工具主义改革，指出[[Statistical Normalisation\|统计标准化]]对边缘人群的遮蔽风险。
 
 > [!claim] Yurita, M.
-> **可用性修辞背后的统计正态化排斥** 将是否立即可用作为裁定教育研究质量的标准看似民主，实则极易沦为追求资金性价比与迎合政治主流的功利工具；大规模高成本实验设计往往通过[[Variable\|变量]]控制抹平复杂的学校生态，将处在正态分布两端的离群弱势群体（outliers）作为统计不显著变量剔除，反而加剧社会不平等的再生产。真正的证据民主化必须坚守专业受托伦理，捍卫对两端离群个体的道德关照与多样化探究方法的合法性。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–227)]]
+> **可用性修辞背后的统计正态化排斥** 将是否立即可用作为裁定教育研究质量的标准看似民主，实则极易沦为追求资金性价比与迎合政治主流的功利工具；大规模高成本[[Experimental Research|实验设计]]往往通过[[Variable\|变量]]控制抹平复杂的学校生态，将处在正态分布两端的离群弱势群体（outliers）作为统计不显著变量剔除，反而加剧社会不平等的再生产。真正的证据民主化必须坚守专业受托伦理，捍卫对两端离群个体的道德关照与多样化探究方法的合法性。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–227)]]
 
 ---
 
@@ -199,7 +196,7 @@ updated: 2026-10-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, p. 203)]] | 全球教育与医学科研出版与公共研发投资 | 跨国比较与文献计量分析 | 医疗 vs 教育科研投入与知识综合论文产出比率 | 公共研发支出资金比约为 1.75:1，但高阶[[Research Synthesis\|研究综合]]论文年产出比高达 26:1 | — | 说明教育知识综合与累积性证据生产体系存在系统性供给赤字 |
+> | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, p. 203)]] | 全球教育与医学科研出版与公共研发投资 | 跨国比较与[[Bibliometric Analysis\|文献计量分析]] | 医疗 vs 教育科研投入与知识综合论文产出比率 | 公共研发支出资金比约为 1.75:1，但高阶[[Research Synthesis\|研究综合]]论文年产出比高达 26:1 | — | 说明教育知识综合与累积性证据生产体系存在系统性供给赤字 |
 > | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, p. 204)]] 转述 Makel and Plucker (2014) | 全球前 100 种教育学术期刊 | 期刊论文全景文献计量审查 | 复现性研究发表占比 | 顶级教育期刊中复现性论文占比仅为 0.13% | — | 反映教育科研严重缺乏重复检验与成果稳健性验证机制 |
 > | [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022, p. 214)]] | 匈牙利赫约凯赖斯图尔小学及辐射网络 | 校本[[Action Research\|行动研究]]与区域推广案例 | [[Complex Instruction Programme\|复合教学计划]]（CIP）合作辐射的中小学校数量 | 成功辐射推广至匈牙利全境近 200 所中小学校 | — | 证实大学-学校平等协作组织诊断能够带来系统性规模化辐射成效 |
 

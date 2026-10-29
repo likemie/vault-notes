@@ -9,10 +9,10 @@ aliases:
 summary: "学习者在多源反馈生态中理解反馈价值、调控情绪抗拒、协同做出评价性判断并将其转化为后续实质性改进决策的核心胜任力与行动倾向。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - field/curriculum-instruction
   - theme/formative-assessment
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Paradigm]]"
   - "[[Illusion of Competence]]"
+  - "[[Peer Assessment]]"
   - "[[Epistemic Agency]]"
   - "[[Evaluation Research]]"
   - "[[Student-Teacher Relationship]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 （反馈素养）
@@ -112,10 +113,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　反馈素养是学习者将外部多源评议转化为内部认知重构的能动中介
-
-> [!concept-lens] 认知转化与主体能动性
-> 探讨外部[[Feedback\|教学反馈]]如何跨越单纯的信息供给，通过学习者的主观能动转译与[[Metacognition\|元认知]]整合，转化为长效的心智结构重组。
+> [!concept-proposition] 命题一｜反馈素养是学习者将外部多源评议转化为内部认知重构的能动中介
+> **探讨维度　认知转化与主体能动性** 探讨外部[[Feedback\|教学反馈]]如何跨越单纯的信息供给，通过学习者的主观能动转译与[[Metacognition\|元认知]]整合，转化为长效的心智结构重组。
 
 > [!claim] Carless and Boud (2018)
 > **反馈效能取决于学习者能动转化而非单向信息传递** 论证反馈并非教师端给出评语即可宣告完成的单向事务，其实质效能完全取决于接收者是否具备阐释信息、调控防御情绪并将建议注入后续行动的素养[[Paradigm\|范式]]；若缺乏学习者的主动参与，外部评语仅是滞留于纸面的静态符号。Carless and Boud (2018, pp. 1315–1317)
@@ -125,13 +124,11 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　智能生成时代反馈素养要求以多源对照与辩护决策防范算法结论替代
-
-> [!concept-lens] 算法时代认知委托与判断防线
-> 探讨在大型语言模型（Large Language Model, LLM）具备高度语义流畅性的技术环境下，反馈素养如何充当防范认知懒惰与评价权丧失的防护屏障。
+> [!concept-proposition] 命题二｜智能生成时代反馈素养要求以多源对照与辩护决策防范算法结论替代
+> **探讨维度　算法时代认知委托与判断防线** 探讨在大型语言模型（Large Language Model, LLM）具备高度语义流畅性的技术环境下，反馈素养如何充当防范认知懒惰与评价权丧失的防护屏障。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
-> **自动化反馈必须成为审慎判断的推敲素材而非一键执行的替代方案** 论证大语言模型生成的自动化批注具有极高的语言迷惑性与伪确定性，极易诱发学生的[[Illusion of Competence\|虚假能力错觉]]并放弃批判性审查；高水平的反馈素养要求课程引入“AI 批注—同伴互评—教师指导—经典范例”的多源对照矩阵，迫使学生为每一处采纳或拒绝的修改编写学理辩护词，从而在人机协作中牢牢守住人类的[[Evaluative Judgement\|评价性判断]]与[[Epistemic Agency\|认识主体性]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5, 8–9)]]
+> **自动化反馈必须成为审慎判断的推敲素材而非一键执行的替代方案** 论证大语言模型生成的自动化批注具有极高的语言迷惑性与伪确定性，极易诱发学生的[[Illusion of Competence\|虚假能力错觉]]并放弃批判性审查；高水平的反馈素养要求课程引入“AI 批注—[[Peer Assessment|同伴互评]]—教师指导—经典范例”的多源对照矩阵，迫使学生为每一处采纳或拒绝的修改编写学理辩护词，从而在人机协作中牢牢守住人类的[[Evaluative Judgement\|评价性判断]]与[[Epistemic Agency\|认识主体性]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5, 8–9)]]
 
 ---
 

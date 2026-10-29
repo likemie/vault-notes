@@ -8,7 +8,7 @@ aliases:
 summary: "个体将外部教学支架内化为自主表征系统，能够自发在头脑中构建空间隐喻与逻辑结构以指导高级问题解决的发展认知机制"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Graphic Organizer]]"
   - "[[Blind Spot in Observation]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -85,10 +86,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　自我脚手架水平随学段上升导致外在认知工具的干预效应呈现边际递减
-
-> [!concept-lens] 认知内化与工具冗余假说
-> 随着学习者元表征技能与自我[[Scaffolding\|脚手架]]能力的成熟，显式外在工具提供的组织功能与其内在认知操作发生重叠，产生类似“专业逆转效应”的边际增益下降。
+> [!concept-proposition] 命题一｜自我[[Scaffolding|脚手架]]水平随学段上升导致外在认知工具的干预效应呈现边际递减
+> **探讨维度　认知内化与工具冗余假说** 随着学习者元表征技能与自我[[Scaffolding\|脚手架]]能力的成熟，显式外在工具提供的组织功能与其内在认知操作发生重叠，产生类似“专业逆转效应”的边际增益下降。
 
 > [!claim] Bickhard; Lei, Ding & Chiu
 > **学段发展与自我脚手架的边际递减规律** 在[[Graphic Organizer\|图形组织器]]对[[Higher-Order Thinking Skills\|高阶思维]]促学效应的[[Meta-analysis\|元分析]]中，大学生群体的干预[[Effect Size\|效应量]]（$g = 0.659$）显著低于中学生（$g = 1.113, W = 63.77, p < .001$）。这一结构性差异的根本原因在于大学生已具备强大的自我脚手架能力，无需外部显式图示也能自发进行概念梳理与逻辑反思；而中学生正处于自我脚手架能力形成的关键期，外在支架的精准匹配释放了最大的认知潜能。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 12)]]
@@ -100,7 +99,7 @@ updated: 2026-10-22
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 亚组与效应量 g | 大学生 | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 0.659"><span class="b13"></span></span>0.659 | — | $W = 63.77, p < .001$ |
 > |  |  | 中学生 |  | — | <span class="mx-bar ef-bar" title="Hedges' g 1.113"><span class="b22"></span></span>1.113 | — | — |

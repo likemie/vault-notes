@@ -7,7 +7,7 @@ aliases:
 summary: "OECD 国际学生评估项目（PISA）确立的面向现实生活问题的数学胜任力评价框架，强调学生在复杂多样情境中将现实问题数学化、运用概念规律进行数理推理与计算，以及解释并评估数学结果在现实情境中合理性的完整建构过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 20
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Reliability]]"
   - "[[Achievement and Aptitude Tests]]"
+  - "[[Use of Calculators]]"
   - "[[Variable]]"
   - "[[Governing by Numbers]]"
   - "[[Construct Validity]]"
@@ -39,6 +40,7 @@ related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[TIMSS]]"
+  - "[[Mathematical Reasoning Programme]]"
 related_arguments:
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
@@ -47,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -79,12 +81,12 @@ updated: 2026-10-22
 > | **情境依赖程度** | 强情境依赖：所有任务植根于现实具体情境 | 弱情境或无情境：大量去情境化的纯符号运算题 | 中度情境：兼顾抽象学科知识题与应用问题 |
 > | **内容组织架构** | 四大上位综合大观念（变化与关系、空间与形状等） | 按传统学科门类编排（代数、平面几何、解析几何） | 严格按学科领域（数、代数、几何、数据与概率） |
 > | **核心考查过程** | 数学化建模循环（提出、运用、解释与评价） | 单一求解逻辑（已知条件 $\rightarrow$ 套用公式 $\rightarrow$ 得出答案） | 认知三维度（认知、应用、推理） |
-> | **工具使用文化** | 提倡合理使用科学计算器与数字化计算软件 | 多禁止使用计算器，偏重纸笔人工精确心算笔算 | 根据年级与国家政策有限允许使用基本计算器 |
+> | **工具使用文化** | 提倡合理使用科学计算器与数字化计算软件 | 多禁止[[Use of Calculators\|使用计算器]]，偏重纸笔人工精确心算笔算 | 根据年级与国家政策有限允许使用基本计算器 |
 
 ---
 
 > [!feature] 核心要素
-> - **数学化建模循环（The Modeling Cycle）** 构成评价动态操作的核心主干：① **表征与形式化（Formulate）** 从复杂杂乱的现实情境中识别数学结构、抽象[[Variable|变量]]并建立数学模型；② **运用与求解（Employ）** 应用数学概念、运算法则、图表转换与公理进行逻辑推理、计算与推导；③ **解释与评价（Interpret and Evaluate）** 将数学解反向置入原始现实背景中，检验其是否符合实际常识、边界条件与社会决策约束；④ **数理推理（Mathematical Reasoning）** 贯穿全过程的逻辑演绎、归纳、批判性质疑与策略选择（PISA 2022 进一步将其确立为最高位伞状支柱）。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
+> - **数学化建模循环（The Modeling Cycle）** 构成评价动态操作的核心主干：① **表征与形式化（Formulate）** 从复杂杂乱的现实情境中识别数学结构、抽象[[Variable|变量]]并建立数学模型；② **运用与求解（Employ）** 应用数学概念、运算法则、图表转换与公理进行逻辑推理、计算与推导；③ **解释与评价（Interpret and Evaluate）** 将数学解反向置入原始现实背景中，检验其是否符合实际常识、边界条件与社会决策约束；④ **数理推理（[[Mathematical Reasoning Programme|Mathematical Reasoning]]）** 贯穿全过程的逻辑演绎、归纳、批判性质疑与策略选择（PISA 2022 进一步将其确立为最高位伞状支柱）。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 6–8)]]
 > - **四大宏观内容领域（Overarching Ideas）** 跨越传统分科壁垒的整合维度：① **变化与关系（Change and relationships）**（函数、增长模型、动态系统分析）；② **空间与形状（Space and shape）**（空间感知、透视投影、几何测量与地图导航）；③ **数量（Quantity）**（数值估算、比率与比例、单位换算、量化模式辨识）；④ **不确定性与数据（Uncertainty and data）**（概率事件、统计图表批判分析、抽样推断与风险评估）。
 > - **四大现实应用情境** 确保测评覆盖多样化的个体生活空间：① **个人情境**（家庭理财、购物比价、烹饪配料、个人健康与路线规划）；② **职业情境**（工程测量、库存调度、财务核算、质量控制指标监控）；③ **社会公共情境**（投票统计、国家经济指标分析、城市规划、公共政策数据解读）；④ **科学情境**（天气气候模拟、物理定律检验、医学试验数据分析、生态演变建模）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]
 
@@ -113,20 +115,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　基于现实生活情境的数学化建模循环重塑了知识经济时代的数理胜任力基准
-
-> [!concept-lens] 劳动力市场需求与数学教育[[Paradigm|范式]]翻转
-> 该命题探讨 [[PISA]] 数学框架如何打破传统以符号[[Rote Learning|死记硬背]]为主的应试教学，确立与现代高新技术产业和[[Governing by Numbers|数字治理]]高度吻合的应用型人才培养标准。
+> [!concept-proposition] 命题一｜基于现实生活情境的数学化建模循环重塑了[[Knowledge-Based Economy|知识经济]]时代的数理胜任力基准
+> **探讨维度　劳动力市场需求与数学教育[[Paradigm|范式]]翻转** 该命题探讨 [[PISA]] 数学框架如何打破传统以符号[[Rote Learning|死记硬背]]为主的应试教学，确立与现代高新技术产业和[[Governing by Numbers|数字治理]]高度吻合的应用型人才培养标准。
 
 > [!claim] [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] & [[Argument_Li_2025_HSSC|Li et al. (2025)]]
 > **应用情境抽象与批判性推理的价值确立** 在现代劳动力市场中，几乎所有的纯数值计算与标准化方程求解已被计算机算法和专业软件自动化替代。个人最稀缺的胜任力在于从非结构化的现实业务中提炼关键[[Variable|变量]]、建立数学模型，并对机器输出的量化结果进行常识性检验与批判性审视。PISA 数学素养测评通过三年一轮的全球对标，有力推动了德国、日本、爱沙尼亚等参测国修订国家中小学数学课程标准，普遍压缩死记硬背算法的课时，大幅增加数据分析、概率论与现实项目建模内容。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, pp. 7–8)]]; [[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 
 ---
 
-### 命题二　高度依赖生活情境文本的测评形式在跨国移植中易受语言阅读负荷与文化熟悉度的复合干扰
-
-> [!concept-lens] 测量[[Construct|构念]]纯净度与跨文化等值性挑战
-> 该命题探讨现实情境题型对语言理解的寄生性依赖，如何影响其跨国统计[[Reliability|信度]]与[[Construct Validity|构念效度]]。
+> [!concept-proposition] 命题二｜高度依赖生活情境文本的测评形式在跨国移植中易受语言阅读负荷与文化熟悉度的复合干扰
+> **探讨维度　测量[[Construct|构念]]纯净度与跨文化等值性挑战** 该命题探讨现实情境题型对语言理解的寄生性依赖，如何影响其跨国统计[[Reliability|信度]]与[[Construct Validity|构念效度]]。
 
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] & [[Argument_Zhao_2020_JEC|Zhao (2020)]]
 > **情境化包装引发的构念污染与文化偏误** 由于 PISA 数学试题必须将任务嵌入长篇叙述的现实情境背景中，学生的数学表现往往与其阅读理解能力发生高度共线性；阅读障碍或非母语参测学生在未触及核心数学逻辑前就因题干过长而被筛选淘汰。同时，部分西方中产阶级所熟悉的生活消费情境（如信用卡分期、金融衍生品、特定体育规则），对非西方发展中国家或底层弱势学生构成额外的文化理解阻碍，使测评结果难以完全纯净地反映纯粹的数理推理潜能。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]; [[Argument_Zhao_2020_JEC|(Zhao, 2020)]]

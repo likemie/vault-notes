@@ -9,7 +9,7 @@ aliases:
 summary: "英国人类学家罗宾·邓巴提出的人类群体规模认知上限（约150人）。揭示灵长类及人类大脑新皮质容量决定了个体维持稳定直接社会关系的最大极限；超出该规模的超大规模社群必须依赖语言、共享文化与制度化象征构筑想象链接。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Determinism]]"
 related_theories:
+  - "[[Imagined Community]]"
   - "[[Pluralism]]"
 related_methods: []
 related_instruments: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -92,20 +93,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　人类大脑新皮质容量对面对面直接社交网络规模施加了生物学硬约束
-
-> [!concept-lens] 神经演化与群体规模
-> 探讨人类认知神经生理机制对人际交往网络规模施加的结构性限制及其演化心理学根源。
+> [!concept-proposition] 命题一｜人类大脑新皮质容量对面对面直接社交网络规模施加了生物学硬约束
+> **探讨维度　神经演化与群体规模** 探讨人类认知神经生理机制对人际交往网络规模施加的结构性限制及其演化心理学根源。
 
 > [!claim] Dunbar (1993)
 > **群体规模与新皮质比例的线性演化相关** [[Robin Dunbar|罗宾·邓巴]]通过对灵长类动物大脑新皮质与社群规模的比较研究发现，人类大脑新皮质容量对应的稳定社交关系上限为 148.4 人；狩猎采集社会的经验数据证实，超出这一规模的社群若无正式制度介入便会自然发生分化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Dunbar, 1993; Karp & Zamiska, 2025, p. 190)]]
 
 ---
 
-### 命题二　超越邓巴数上限的超大规模社会协作必须依赖语言与想象的共同体
-
-> [!concept-lens] 宏观组织与文化符号纽带
-> 探讨现代大规模政治经济实体如何利用文化、语言与历史叙事克服生物学认知限制、维系战略协同。
+> [!concept-proposition] 命题二｜超越邓巴数上限的超大规模社会协作必须依赖语言与[[Imagined Community|想象的共同体]]
+> **探讨维度　宏观组织与文化符号纽带** 探讨现代大规模政治经济实体如何利用文化、语言与历史叙事克服生物学认知限制、维系战略协同。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **突破生物学上限的制度化精神纽带** 人类从狩猎采集走向现代国家与高科技工程，本质上是一部依靠语言与文化叙事突破邓巴数限制的历史；当现代西方社会在后现代[[Pluralism|多元主义]]名义下解构共同文化与共享叙事时，不仅破坏了公民信任，更直接瓦解了维系现代科技文明与国家防卫所必需的大规模协作意志。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 190–194)]]

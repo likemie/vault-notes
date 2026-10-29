@@ -34,8 +34,8 @@ related_concepts:
   - "[[Advance Organizers]]"
   - "[[Homework]]"
   - "[[Paradigm]]"
-  - "[[Microteaching]]"
   - "[[Effective Teaching]]"
+  - "[[Microteaching]]"
   - "[[Operationalization]]"
   - "[[Structured Teaching]]"
   - "[[Direct Instruction]]"
@@ -44,9 +44,9 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Scale Development]]"
   - "[[Classroom Observation]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Confidence Interval]]"
 related_instruments: []
 related_persons:
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -114,20 +114,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　教师清晰度通过剔除指令模糊性并降低无关认知负荷显著提升学生的表层理解与深层建构
-
-> [!concept-lens] 探讨维度：认知负荷控制与[[Concept Mapping|概念图]]式加工
-> 认知心理学与教学设计理论指出：学生的[[Working Memory|工作记忆]]容量极其有限；教学过程中的含混表达、跳跃式推理与模糊[[Homework|作业]]要求，构成了吞噬学生认知资源的无关负荷，直接阻碍深层知识图式的构建。
+> [!concept-proposition] 命题一｜教师清晰度通过剔除指令模糊性并降低无关认知负荷显著提升学生的表层理解与深层建构
+> **探讨维度　探讨维度：认知负荷控制与[[Concept Mapping|概念图]]式加工** 认知心理学与教学设计理论指出：学生的[[Working Memory|工作记忆]]容量极其有限；教学过程中的含混表达、跳跃式推理与模糊[[Homework|作业]]要求，构成了吞噬学生认知资源的无关负荷，直接阻碍深层知识图式的构建。
 
 > [!claim] 过程-结果与认知设计[[Paradigm|范式]]命题（Cruickshank, 1985）
 > **无关负荷的消减与认知释放** 唐纳德·克鲁克香克（Donald Cruickshank）系统论证指出：教师清晰度不仅是一项语言修辞技能，更是一种高级教学工程设计。清晰度高的教师善于剔除冗余干扰信息，提供层次分明的认知台阶，使学生能够将有限的工作记忆无损聚焦于高阶分析与[[Problem Solving|问题解决]]之中。
 
 ---
 
-### 命题二　二阶元分析经验证据证实教学清晰度稳居有效教学实践效应量最高梯队
-
-> [!concept-lens] 探讨维度：海量跨国[[Meta-analysis|元分析]]的[[Effect Size|效应量]]汇总与教学共识
-> 循证综合试图确立哪些课堂行为对学习产生普遍强劲的驱动力。跨国综合数据一致将清晰度置于教师实践的核心前列。
+> [!concept-proposition] 命题二｜[[Meta-meta-analysis|二阶元分析]]经验证据证实教学清晰度稳居[[Effective Teaching|有效教学]]实践[[Effect Size|效应量]]最高梯队
+> **探讨维度　探讨维度：海量跨国[[Meta-analysis|元分析]]的[[Effect Size|效应量]]汇总与教学共识** 循证综合试图确立哪些课堂行为对学习产生普遍强劲的驱动力。跨国综合数据一致将清晰度置于教师实践的核心前列。
 
 > [!claim] [[Argument_Terhart_2011_JCS|Terhart (2011, p. 432)]]
 > **教师维度的核心第二排位** [[Ewald Terhart|埃瓦尔德·特哈特]]（Ewald Terhart）在归纳[[John Hattie|哈蒂]]全书 138 个影响因素中教师贡献领域的具体实践时指出，教师清晰度基于跨越数十年、涵盖成千上万师生样本的元分析综合，其合并效应量达到了极为显著的 $d = 0.75$，位列教师所有具体实践要素的第二名（仅次于[[Microteaching|微格教学]]的 $d = 0.88$）。这一实证高度印证了教学论教科书中的经典原则，证明清晰有条理的讲授与示范是保障教学优质高效的核心通则。

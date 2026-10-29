@@ -29,12 +29,12 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Time on Task]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Cognitive Decoupling]]"
   - "[[Decodification]]"
   - "[[Variable]]"
   - "[[Educational Level]]"
   - "[[School Effectiveness]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Class Size]]"
   - "[[Research Universities]]"
   - "[[Dependent Variable]]"
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -109,7 +109,7 @@ updated: 2026-10-25
 在[[International Education|国际教育]]实证研究与系统诊断框架中，学习危机由四个相互咬合的系统性要素构成。
 
 > [!feature] 核心要素
-> - **就学与习得解耦（[[Cognitive Decoupling|decoupling]] of Schooling and Learning）** 适龄儿童在校物理年限的增长无法线性转化为可测量的认知技能积累，形成“有文凭无素养”的空转现象。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 2)]]
+> - **就学与习得解耦（decoupling of Schooling and Learning）** 适龄儿童在校物理年限的增长无法线性转化为可测量的认知技能积累，形成“有文凭无素养”的空转现象。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 2)]]
 > - **基石素养大面积塌陷（Foundational Skills Deficit）** 儿童在基础教育低年级未能牢固掌握语音[[Decodification|解码]]、基础阅读理解与基本数感，导致进入中高年级后由于“阅读障碍”而无法通过阅读学习其他学科知识，劣势呈滚雪球式累积。
 > - **教学质量核心决定性（Teaching as Core School-based Driver）** 实证计量表明，校内诸因素中教师教学效能是解释学生学习方差的最关键[[Variable|变量]]；在发展中国家，连续数年接受优质教师教学能够完全抹平弱势家庭背景带来的学业鸿沟。
 > - **传统行政外在资质失灵（Failure of Static Proxies）** 师范[[Educational Level|学历层次]]、从教年限（超过前两年后）以及教师入职笔试成绩等传统官僚考核指标，在[[Multiple Regression|多元回归]]中均无法显著预测学生学业增长，迫使系统从外在文凭转向微观课堂互动的实测。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–3)]]
@@ -135,7 +135,7 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　学习危机的本质是教学质量危机，优质教学是消解学业鸿沟的最关键校内生产要素
+> [!concept-proposition] 命题一｜学习危机的本质是教学质量危机，优质教学是消解学业鸿沟的最关键校内生产要素
 
 在教育经济学与[[School Effectiveness|学校效能]]研究中，学者强调教师微观课堂实践对学业增益的决定性影响，主张化解学习危机的根本动力在于教学质量的跃升。
 
@@ -147,7 +147,7 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　外在硬件扩张与静态文凭资格无法自动解除学习危机，必须转向微观课堂互动的系统监测
+> [!concept-proposition] 命题二｜外在硬件扩张与静态文凭资格无法自动解除学习危机，必须转向微观课堂互动的系统监测
 
 在教育治理与评估政策分析中，研究者批判了长期依赖外在资质与硬件指标的官僚惯性，论证了引入微观外部[[Classroom Observation|课堂观察]]工具的技术必然性。
 
@@ -164,7 +164,7 @@ updated: 2026-10-25
 对围绕学习危机形成的理论命题进行横向归纳：
 
 > [!contrast-table] 学习危机理论命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表文献 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **教学内核决定命题** | 学习危机本质是教学危机，教师微观互动是决定学业增益的最主要校内力量。 | 基础教育生产函数分析、弱势补偿政策论证、全纳教育改革。 | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] |
 > | **微观实践转向命题** | 摆脱传统文凭崇拜与硬件[[Path Dependence\|路径依赖]]，以微观课堂观察与循证辅导撬动实践变革。 | 督导评估体制转型、教师专业发展设计、系统性教育质量监测。 | 同上 |

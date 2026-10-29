@@ -5,10 +5,10 @@ aliases:
 summary: "一组用于目标导向控制的高阶通用认知调控过程，包含抑制控制、任务转换与工作记忆更新三大核心成分；不仅稳健预测学业成就与高阶思维（创造力与批判性思维），更构成了科学探究推理与概念转变的微观神经认知调控基石。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - executive-function
   - learning-science
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Metacognition]]"
   - "[[Feedback]]"
+  - "[[Document]]"
   - "[[Cognitive Inhibition]]"
   - "[[Cognitive Shifting]]"
   - "[[Self-control]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 > [!def] Executive Function
@@ -94,7 +95,7 @@ updated: 2026-10-26
 > | **核心机制** | 抑制优势反应、任务灵活切换、表征动态更新 | 语音回路、视觉空间模板、情境缓冲与中央执行 | 元认知知识（知人知法）、元认知体验与策略调控 | 流体推理能力与晶体知识储备系统 |
 > | **神经生理基础** | [[Prefrontal Cortex\|前额叶皮层]]（背外侧、眶额、前扣带回等）突触修剪 | 额顶控制网络（Frontoparietal Network）短时神经激活 | 额极皮层及前额叶更高阶联合皮层的多级元表征 | 全脑神经网络传导效率与皮层联络区全局连接 |
 > | **教学与探究作用** | 抑制直觉错误概念，过滤非本质实验刺激，调控多[[Variable\|变量]]探索 | 暂存对比多组实验变量与测量数据，避免认知超载 | 评估假设是否已被充分检验，决定是否修正研究方案 | 快速理解形式化数学推导与高阶抽象符号体系 |
-> | **代表文献** | [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]]; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | Baddeley (2000); Cowan (2001) | Flavell (1979); Schraw (1998) | Spearman (1904); Carroll (1993) |
+> | **代表[[Document\|文献]]** | [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]]; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | Baddeley (2000); Cowan (2001) | Flavell (1979); Schraw (1998) | Spearman (1904); Carroll (1993) |
 
 ---
 
@@ -123,30 +124,24 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　执行功能是学业成就与社会情绪发展的关键纵向预测因素
-
-> [!concept-lens] 发展认知轨迹与[[Academic Achievement\|学业表现]]预测
-> 执行功能不仅为课堂知识吸收奠定注意力与[[Self-control\|自控]]基础，更是跨学科学业表现与品格成熟的早期核心指征。
+> [!concept-proposition] 命题一｜执行功能是[[Academic Achievement|学业成就]]与社会情绪发展的关键纵向预测因素
+> **探讨维度　发展认知轨迹与[[Academic Achievement\|学业表现]]预测** 执行功能不仅为课堂知识吸收奠定注意力与[[Self-control\|自控]]基础，更是跨学科学业表现与品格成熟的早期核心指征。
 
 > [!claim] [[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]]
 > **超越智力常模的学业预测力与社会情绪发展** 大规模经验证据与[[Longitudinal Study\|纵向研究]]表明，执行功能的发展是学生学业成就的关键先决因素与预测指标；时间序列分析表明是早期的执行功能促进了后续学业成就，而非学业成就倒流促成执行功能成熟；执行功能对学业成就变异的预测准确度显著超越传统智商（IQ）测验。此外，执行功能还深入调控儿童的情绪成熟、道德判断、沟通互动与社会认知，是全人发展的神经心理基石。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 4–5)]]
 
 ---
 
-### 命题二　创造力与批判性思维共享执行功能的微观神经认知调控基础
-
-> [!concept-lens] [[Higher-Order Thinking Skills\|高阶思维]]能力的神经认知机制统合
-> 发散性创新与收敛性批判表面取向相反，但在微观神经加工层面深度依赖相同的执行控制过程。
+> [!concept-proposition] 命题二｜[[Creativity|创造力]]与[[Critical Thinking|批判性思维]]共享执行功能的微观神经认知调控基础
+> **探讨维度　[[Higher-Order Thinking Skills\|高阶思维]]能力的神经认知机制统合** 发散性创新与收敛性批判表面取向相反，但在微观神经加工层面深度依赖相同的执行控制过程。
 
 > [!claim] [[Argument_Park_2026_TSC\|Park et al. (2026)]]
 > **高阶思维双翼的共同执行控制机制** [[Meta-analysis\|元分析]]表明，发散生成的[[Creativity\|创造力]]与收敛评价的[[Critical Thinking\|批判性思维]]之间存在中度显著正相关（$r = 0.38$）。两者共同依赖[[Inhibitory Control\|抑制控制]]（压制显而易见的平庸方案或直觉认知偏见）、[[Cognitive Flexibility\|认知灵活性]]（在多重维度与跨学科视角间穿梭）以及[[Working Memory\|工作记忆]]更新等执行功能组件；执行功能的这一共享神经认知基础，为学校课程实施高阶思维联合培养方案提供了强有力的心理学辩护。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]]
 
 ---
 
-### 命题三　抑制控制是科学探究推理技能与概念转变的微观认知调控基石
-
-> [!concept-lens] 科学探究与概念重构的心理调控机制
-> 科学探究绝非单纯的感官操作，其成败取决于学生能否在认知层面主动压制错误直觉并维持严谨的[[Variable\|变量]]控制。
+> [!concept-proposition] 命题三｜抑制控制是科学探究推理技能与概念转变的微观认知调控基石
+> **探讨维度　科学探究与概念重构的心理调控机制** 科学探究绝非单纯的感官操作，其成败取决于学生能否在认知层面主动压制错误直觉并维持严谨的[[Variable\|变量]]控制。
 
 > [!claim] [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
 > **抑制控制对探究技能与概念转变的方差解释** 在科学教育与[[Inquiry-Based Learning\|探究式学习]]中，执行功能（尤其是抑制控制能力）发挥着不可或缺的底层支撑功能。实证研究证实，中学生的抑制控制能力独立解释了科学探究推理技能 **29%** 的方差变异，以及科学概念转变（Conceptual Gain）**28%** 的方差变异（Kwon & Lawson, 2000）；在复杂仿真模拟中，缺乏足够抑制控制的学习者极易被表面生动的无关知觉线索（Salient Perceptual Features）吸引，从而产生认知超载并得出错误归因（Homer & Plass, 2014）；教师提供的结构化支架在认知机制上本质上是对学生执行功能负荷的外部代偿，确保学习者将有限的执行资源聚焦于实质[[Causality\|因果关系]]的推导。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 8)]]
@@ -211,7 +206,7 @@ updated: 2026-10-26
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | **Kwon and Lawson (2000)** | 韩国中学生科学探究追踪样本 | 追踪实验与[[Multiple Regression\|多元回归]]路径分析 | [[Inhibitory Control\|抑制控制]]能力（斯特鲁普测验/镶嵌图形测验）与探究产出 | • 独立解释 **29%** 科学推理技能方差<br>• 独立解释 **28%** 科学概念转变方差 | $p < .01$ | 证实抑制控制对微观探究认知构建具有强力解释力，但未测试教学支架介入后的补偿消除效应。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 8)]] |
-> | **[[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]]** | K-12 学龄儿童与青少年认知发展数据库 | 纵向发展追踪与文献计量综合 | 执行功能各成分发展速率、前额叶[[Myelination\|髓鞘化]]与[[Academic Achievement\|学业成就]] | • 抑制控制在 **3–5 岁**出现关键铰链点<br>• 约 **16 岁至 30 岁初**改善速率逐渐平缓<br>• 纵向预测学业变异准确度超越 IQ | 综合纵向[[Chain of Evidence\|证据链]]证实 | 阐明发展时间表与因果预测方向，但受试群体主要集中于欧美工业化国家样本。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 4–5, 10)]] |
+> | **[[Argument_Bolton_2017_ArchPsych\|Bolton and Hattie (2017)]]** | K-12 学龄儿童与青少年认知发展数据库 | 纵向发展追踪与[[Document\|文献]]计量综合 | 执行功能各成分发展速率、前额叶[[Myelination\|髓鞘化]]与[[Academic Achievement\|学业成就]] | • 抑制控制在 **3–5 岁**出现关键铰链点<br>• 约 **16 岁至 30 岁初**改善速率逐渐平缓<br>• 纵向预测学业变异准确度超越 IQ | 综合纵向[[Chain of Evidence\|证据链]]证实 | 阐明发展时间表与因果预测方向，但受试群体主要集中于欧美工业化国家样本。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 4–5, 10)]] |
 > | **[[Argument_Park_2026_TSC\|Park et al. (2026)]]** | 68 项独立实证研究涉及跨学段学生群体 | 效应量相关[[Meta-analysis\|元分析]]与调节效应检验 | [[Creativity\|创造力]]（发散）与[[Critical Thinking\|批判性思维]]（收敛）之关系 | • 总体加权相关系数 **$r = 0.38$**<br>• 共享抑制控制与任务灵活性方差贡献 | 95% CI [0.33, 0.43], $p < .001$ | 实证确认两者存在共享认知基础，但元分析未直接包含神经影像学并发扫描数据。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]] |
 > | **Homer and Plass (2014)** | 科学虚拟仿真[[Inquiry-Based Learning\|探究学习]]实验 | [[Factorial Design\|析因实验]]设计（符号表征 vs 具象图标） | 视觉表征设计对不同执行功能负荷学生的干扰率 | 具象图标显著分散低抑制控制学生的注意力并增加外生负荷 | 组间差异显著 ($p < .05$) | 揭示知觉诱惑对认知控制的消耗，证实科学探究界面需要微观脚手架约束。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–9)]] |
 

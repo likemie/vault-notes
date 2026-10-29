@@ -24,6 +24,7 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Data-Based Decision Making]]"
   - "[[Research-Informed Teaching Practice]]"
+  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[School Enquiry Cycle]]"
   - "[[Evidence-Informed Decision-Making]]"
@@ -81,14 +82,14 @@ sources:
   - "[[sources/Brown_2017_EducRes|Brown_2017_EducRes]]"
 status: draft
 created: 2026-09-15
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Brown_2017_EducRes"
 argument_key: "Argument_Brown_2017_EducRes"
 argument_display_title: "Combining the best of two worlds: A conceptual proposal for evidence-informed school improvement"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -97,7 +98,7 @@ journal: Educational Research
 ---
 
 > [!question]
-> 21世纪全球金融危机后，欧美多国公共财政紧缩导致教育行政资助持续削减，传统的自上而下指令式改革日渐式微，各国政策重心加速转向自下而上的学校自我改进。这种宏观转型迫使学校与教师必须自主建立三项核心专业能力：识别教学核心问题、探究其深层根因、设计并实施针对性改进举措。在此背景下，学校纷纷寻求[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP）作为支撑路径。然而，当前实践中主导的两条途径——[[Data-Based Decision Making\|基于数据的决策]]（Data-Based Decision-Making, DBDM）与[[Research-Informed Teaching Practice\|研究知情教学实践]]（Research-Informed Teaching Practice, RITP）——长期作为两个互不交融的独立世界平行演进：DBDM 专注于校内数据分析而缺乏外部成熟教学方案，RITP 偏好学术文献研读却往往脱离校本真实需求，二者均未能达成学界设想的融通多元证据的全面 EIP 愿景。如何打破两派的制度与[[Epistemology\|认识论]]壁垒，将校本数据、实践经验与学术研究系统融合，构建一个兼顾诊断与干预的整体性学校与教师改进模型？
+> 21世纪全球金融危机后，欧美多国公共财政紧缩导致教育行政资助持续削减，传统的自上而下指令式改革日渐式微，各国政策重心加速转向自下而上的学校自我改进。这种宏观转型迫使学校与教师必须自主建立三项核心专业能力：识别教学核心问题、探究其深层根因、设计并实施针对性改进举措。在此背景下，学校纷纷寻求[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP）作为支撑路径。然而，当前实践中主导的两条途径——[[Data-Based Decision Making\|基于数据的决策]]（Data-Based Decision-Making, DBDM）与[[Research-Informed Teaching Practice\|研究知情教学实践]]（Research-Informed Teaching Practice, RITP）——长期作为两个互不交融的独立世界平行演进：DBDM 专注于校内数据分析而缺乏外部成熟教学方案，RITP 偏好学术[[Document|文献]]研读却往往脱离校本真实需求，二者均未能达成学界设想的融通多元证据的全面 EIP 愿景。如何打破两派的制度与[[Epistemology\|认识论]]壁垒，将校本数据、实践经验与学术研究系统融合，构建一个兼顾诊断与干预的整体性学校与教师改进模型？
 
 > [!claim] 核心主张
 > DBDM 与 RITP 在认识论功能与操作机制上具有高度的互补性，各自的优势恰好能够镜像弥补对方的结构性短板；通过构建“证据知情学校与教师改进”（[[School Enquiry Cycle\|Evidence-Informed School and Teacher Improvement]], ESTI）八步[[Inquiry Cycle\|探究循环]]，将校本数据诊断、实践者默会智慧与外部学术研究系统化融合，才能实现兼具情境适应性、科学有效性与价值公平性的整体性[[Evidence-Informed Decision-Making\|证据知情决策]]。
@@ -138,7 +139,7 @@ journal: Educational Research
 > | **对称性比较分析** | 采用维度对质方法，从历史脉络、核心目标、实施难点、行动理论、成效证据及优势与缺陷六个基准维度，对 DBDM 与 RITP 展开系统比较与镜像映射。 |
 > | **循证设计模型构建** | 提炼特温特大学数据团队（Data Team）干预模型与伦敦大学学院教育学院研究学习共同体（RLC）项目的实证实施经验，归纳出整合性的 [[School Enquiry Cycle\|ESTI]] 八步探究循环框架。 |
 
-> [!sample-panel]- 案例经验与文献池快照
+> [!sample-panel]- 案例经验与[[Document|文献]]池快照
 > | 样本层面 | 构成 |
 > |---|---|
 > | **文献与政策文本** | 涵盖英格兰、荷兰、美国等国关于数据利用与循证实践的基础文献（如 Lai and Schildkamp, 2013; Mandinach and Gummer, 2016; Nutley, Walter, and Davies, 2002; Stoll et al., 2014）。 |
@@ -161,10 +162,10 @@ journal: Educational Research
 
 ---
 
-> [!claim] 论证步骤一　审视双轨现实：DBDM 与 RITP 呈现各具实证成效却互为孤岛的平行格局
+> [!claim|step] 论证步骤一　审视双轨现实：DBDM 与 RITP 呈现各具实证成效却互为孤岛的平行格局
 > 当代学校改进在实践中形成了 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 两大互不相通的活动领域：前者聚焦校内数据分析以促进问题诊断，后者借助外部学术文献指导教学干预，二者虽各自具备实证成效，但均未能达成全面的[[Evidence-Informed Practice\|证据知情实践]]。
 
-#### 1. 财政紧缩与自下而上自我改进诉求催生学校三大核心能力挑战
+> [!sub-claim] 1. 财政紧缩与自下而上自我改进诉求催生学校三大核心能力挑战
 
 [[International Education|国际教育]]政策正加速转向以学校为重心的自我改进模式，然而金融危机带来的公共财政紧缩使得学校无法继续依赖外部指令与资源倾斜，必须自主培养诊断问题根因与研制干预举措的能力。
 
@@ -174,7 +175,7 @@ journal: Educational Research
 
 面对上述挑战，学校广泛寻求发展 EIP，但在实践演化中分化为两组互不交融的[[Discourse|话语]]体系与活动领域。
 
-#### 2. 基于数据的决策（DBDM）：演进脉络、五阶段理论与数据团队干预
+> [!sub-claim] 2. 基于数据的决策（DBDM）：演进脉络、五阶段理论与[[Data Team Intervention|数据团队]]干预
 
 DBDM 定义为系统分析校内现有数据源，并将分析结果应用于革新教学、课程与学校绩效的动态过程（Schildkamp and Kuiper, 2010, p. 482）。
 
@@ -194,7 +195,7 @@ DBDM 的行动理论包含五大普遍阶段：设定目标、收集数据（围
 > 多项采用[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）的研究表明，数据团队显著提升了教师的[[Data Literacy\|数据素养]]与协作技能，并在部分学校带动了数学与阅读成绩的显著增长（Carlson et al., 2011; Faber and Visscher, 2014; Lai et al., 2014; Poortman and Schildkamp, 2016; Van Geel et al., 2016）。
 > 然而，该干预也清晰暴露了 DBDM 的内在瓶颈：尽管数据团队能够精准定位学业问题的深层诱因，但在第七步“采取行动”时，教师们普遍陷入困惑，苦于不知如何研制出行之有效的教学干预措施（Poortman and Schildkamp, 2016; Schildkamp and Poortman, 2015）。这充分证明，校本数据只能指出病因所在，其自身并不包含现成的教学解决方案。
 
-#### 3. 研究知情教学实践（RITP）：话语转向、双轨行动理论与研究学习共同体
+> [!sub-claim] 3. 研究知情教学实践（RITP）：话语转向、双轨行动理论与[[Research Learning Communities|研究学习共同体]]
 
 与专注于内部数据的 DBDM 相对，RITP 强调借助外部学术研究成果来改进或革新现行教学实践（Cain, 2015; Greany, 2015）。
 
@@ -215,10 +216,10 @@ RITP 的行动理论涵盖教师教学轨与学校领导轨两条平行主线，
 
 ---
 
-> [!claim] 论证步骤二　解构镜像互补：DBDM 与 RITP 的优势与缺陷呈现高度对称的补偿结构
+> [!claim|step] 论证步骤二　解构镜像互补：DBDM 与 RITP 的优势与缺陷呈现高度对称的补偿结构
 > DBDM 与 RITP 在[[Epistemology\|认识论]]功能与操作机制上呈现结构性镜像关系：DBDM 擅长基于校本痛点开展病因诊断但缺乏治疗良方，RITP 拥有丰富的成熟治疗方案却易陷入无靶向追逐热点或千校一面；两派的优势恰好能够填补对方的盲区。
 
-#### 1. 历史、目标、实施、行动理论与成效的系统对照
+> [!sub-claim] 1. 历史、目标、实施、行动理论与成效的系统对照
 
 为清晰呈现两派的内在逻辑与实践边界，论文通过全景基准对照表梳理了 DBDM 与 RITP 在六个维度的异同。
 
@@ -235,7 +236,7 @@ RITP 的行动理论涵盖教师教学轨与学校领导轨两条平行主线，
 
 从上述对比中可见，两派并非不可调和的对立[[Paradigm|范式]]，而是在五个关键实践环节呈现出极为精巧的镜像互补关系。
 
-#### 2. 五重实践维度的缺陷镜像与互补补偿机制
+> [!sub-claim] 2. 五重实践维度的缺陷镜像与互补补偿机制
 
 通过对两派短板与优势的深度对质，可以清晰勾勒出融合操作的理论必要性。
 
@@ -255,10 +256,10 @@ RITP 的行动理论涵盖教师教学轨与学校领导轨两条平行主线，
 
 ---
 
-> [!claim] 论证步骤三　构建统摄模型：ESTI 八步[[Inquiry Cycle|探究循环]]与三大支撑条件实现两界融通
+> [!claim|step] 论证步骤三　构建统摄模型：ESTI 八步[[Inquiry Cycle|探究循环]]与三大支撑条件实现两界融通
 > 融通两界优势的必由之路在于建构系统的“证据知情学校与教师改进”（[[School Enquiry Cycle\|ESTI]]）模型：以八步[[Inquiry Cycle\|探究循环]]为操作骨架，以系统规程、双素养融合与协作意义建构为组织保障，推动教育改进迈向理性审验与本土创生。
 
-#### 1. 证据知情学校与教师改进（ESTI）八步探究循环操作规程
+> [!sub-claim] 1. 证据知情学校与教师改进（ESTI）八步探究循环操作规程
 
 论文系统整合特温特大学数据团队模型与伦敦大学学院教育学院研究学习共同体经验，提出了标准化的 ESTI 八步操作规程。
 
@@ -279,7 +280,7 @@ ESTI 探究循环不仅规范了技术程序，更为实践者提供了一种重
 > ESTI 模型的关键价值在于，它既不生硬否定教师的直觉与经验，也不纵容无休止的外部推诿，而是通过第二步与第三步的探究机制，引导教师将这些主观臆断转化为明确、可检验的实证假设（testable [[Hypothesis|hypotheses]]），并利用客观校本数据（如学生访谈、课堂交互观察记录、形成性[[Homework\|作业]]分析）进行严谨质检与验证（Schildkamp and Poortman, 2015; Schildkamp et al., 2016）。
 > 在荷兰数据团队的实际运行中，多所学校正是通过多源数据的审验，推翻了学生不努力的传统偏见，促使教师群体直面课堂教学法单一、评价反馈滞后等自身能够掌控的内部根因。这种基于证据的对话机制，促成了教师心态的根本性飞跃——从被动抱怨他人应该怎么做，彻底转向主动反思我们能在本校教学中做些什么来促进学生学习（Schildkamp and Poortman, 2015; Schildkamp et al., 2016; Timperley, Kaser, and Halbert, 2014）。这充分证明，ESTI 不仅是一套技术程序，更是一种促进专业能动性与[[Reflexivity\|反思性]]实践的文化重塑机制。
 
-#### 2. ESTI 落地运转的三大核心组织与专业支撑机制
+> [!sub-claim] 2. ESTI 落地运转的三大核心组织与专业支撑机制
 
 ESTI 模型并非单纯的流程拼接，其平稳实施必须依托三项深层次的组织与专业支撑机制。
 

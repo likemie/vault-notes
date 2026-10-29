@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -112,18 +112,14 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　理性主义通过教科书修编与多边学者合作，将比较教育建构为超越地缘对立的民主事业
-
-> [!concept-lens] 科学人道主义与国际理解
-> 这一命题分析早期理性主义如何通过跨国合作制度化。
+> [!concept-proposition] 命题一｜理性主义通过教科书修编与多边学者合作，将比较教育建构为超越地缘对立的民主事业
+> **探讨维度　科学人道主义与国际理解** 这一命题分析早期理性主义如何通过跨国合作制度化。
 
 > [!claim] [[Joseph Lauwerys|Lauwerys, J.]] et al.
 > **国际联盟 IIIC 与欧洲比较教育学社（[[Comparative Education Society in Europe|CESE]]）的和平理性实践** 阐明，在理性主义框架下，比较教育承载着消除民族主义狭隘性的 Pacifist 承诺。两战期间，国际思想合作组织（IIIC，国联下属机构）召集跨国比较，致力于清除学校历史教科书中的偏见与盲区，以构建跨主观客观的学校知识，塑造 Zimmern 提出的“[[International Mind|国际心智]]”；二战后，这一实践在 [[UNESCO]] 科学人道主义倡议下延续。Joseph Lauwerys（英国首位比较教育教授）与 [[Saul B. Robinsohn|Saul Robinsohn]]（UNESCO 教育研究所所长）紧密协作，于 1961 年建立 CESE 学会，旨在通过欧洲教育的跨国学术交换与技术探讨，实现民主化与人类福利的理性增长。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 423–424]])
 
-### 命题二　新自由主义全球化下，比较教育转化为由大数据基准驱动的“远处治理”中介
-
-> [!concept-lens] 规训权力与科学客观性
-> 这一命题解析为何看似[[Value Neutrality|价值中立]]的数据测试会成为强效的跨国行政干预武器。
+> [!concept-proposition] 命题二｜新自由主义全球化下，比较教育转化为由大数据基准驱动的“[[Governing at a Distance|远处治理]]”中介
+> **探讨维度　规训权力与科学客观性** 这一命题解析为何看似[[Value Neutrality|价值中立]]的数据测试会成为强效的跨国行政干预武器。
 
 > [!claim] [[António Nóvoa|Nóvoa, A.]] & Yariv-Mashal, A.
 > **基准测试作为[[Governing at a Distance|远处治理]]的科学神话** 证明，理性主义在当代不再局限于传统的[[Policy Borrowing|政策借用]]，而是发展出强烈的“远处治理”模式。多边组织（如[[OECD|经合组织]] OECD）运用基准测试与大型跨国评估（如 [[PISA]]），以科学客观的数据结果引导舆论，将绩效效率内化为本国教育改革的“免责良方”和“合理追赶”要求。这导致了“人人皆是比较教育者”的繁荣，但也使学科高度服务于新自由主义的[[Human Capital Theory|人力资本]]增殖目的，将受教育者主体性统一纳入“[[Global Citizenship|全球公民]]”和“效率劳动工具”的量化考量。([[Argument_Klerides_2023_CE|Klerides, 2023, pp. 424–425]])

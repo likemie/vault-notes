@@ -12,7 +12,7 @@ aliases:
 summary: "指选拔顶尖机械师与高级技师进驻研究型大学与国家实验室，赋予其正式教职、联合指导权与成果署名权，以弥合工程理论与动手排障断层的师资与培养制度。"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Engineering Education]]"
   - "[[Industrial Commons]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -94,10 +95,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　科学仪器的突破性建造高度依赖物理排障手感与默会知识的制度化传承
-
-> [!concept-lens] 实验技艺与仪器创新
-> 探讨顶尖实验科学如何依赖一线车间手艺与仪器建造直觉，以及理论与手艺割裂对国家科研基础设施的损害。
+> [!concept-proposition] 命题一｜科学仪器的突破性建造高度依赖物理排障手感与[[Tacit Knowledge|默会知识]]的制度化传承
+> **探讨维度　实验技艺与仪器创新** 探讨顶尖实验科学如何依赖一线车间手艺与仪器建造直觉，以及理论与手艺割裂对国家科研基础设施的损害。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **手艺传承与仪器突破** 现代工程与实验科学高度依赖无法被论文文字完全编码的默会经验与排障直觉。当大学教育过度偏向理论数学抽象而剥离车间动手训练时，毕业生将丧失维护与开发尖端科研仪器的能力；通过国家工匠奖学金与驻校实践者项目将高级技师引入科研核心，是重振国家实验探索底座与重[[Big Science|大科学]]仪器自主创新能力的根本制度保障。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–52)]]
@@ -119,7 +118,7 @@ updated: 2026-10-22
 ---
 
 > [!tension] 传统学术评价与实践技艺认可的制度张力
-> - **学术纯洁性与论文导向（蓝方）** 担忧引入非学术背景技师会稀释大学理论深度，且难以融入基于文献引用与影响因子的传统终身教职评审轨道。
+> - **学术纯洁性与论文导向（蓝方）** 担忧引入非学术背景技师会稀释大学理论深度，且难以融入基于[[Document|文献]]引用与影响因子的传统终身教职评审轨道。
 > - **产研协同与硬核排障需求（红方）** 强调脱离实体动手能力的理论科研已导致国家重大仪器受制于人，必须在制度上赋予工匠学者平等学术地位与知识产权。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 48–52)]]
 
 ---

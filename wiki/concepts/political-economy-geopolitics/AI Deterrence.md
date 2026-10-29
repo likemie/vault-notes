@@ -7,7 +7,7 @@ aliases:
 summary: "指在21世纪软件世纪中，大国战略安全与地缘均势不再主要取决于传统动能硬件与核武器物理存量，而转由人工智能算法、自主无人系统、边缘算力与敏捷软件开发能力所决定的新型战略威慑形态。强调软件跃居指挥调度中枢、硬件降维为执行载体，以低成本分布式算法蜂群重构非对称攻防成本，为伦理约束下的民主政体提供常规威慑支柱。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Swarm Intelligence]]"
   - "[[Technological Republic]]"
+  - "[[Document]]"
   - "[[Winner's Fallacy]]"
   - "[[Hard Power]]"
   - "[[Long Peace]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -132,40 +133,32 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　面对地缘对手挑战，战略性人工智能研发不可单边暂停
-
-> [!concept-lens] 战略博弈与单边停滞风险
-> 探讨在缺乏可信多边核查机制的前提下，西方单方面叫停先进大模型研发是否会导致致命的战略失衡。
+> [!concept-proposition] 命题一｜面对地缘对手挑战，战略性人工智能研发不可单边暂停
+> **探讨维度　战略博弈与单边停滞风险** 探讨在缺乏可信多边核查机制的前提下，西方单方面叫停先进大模型研发是否会导致致命的战略失衡。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **打造锐利工具与大国防御责任** 尽管将武器系统与高自主性 AI 软件结合必然伴随着巨大风险，但试图叫停这些技术发展的建议是极其短视且被误导的。历史上的胜利者往往在最危险的时刻滋生盲目自满；西方必须将精力集中于研制决定本世纪均势的下一代 AI 武器软件，而非在道德洁癖与单边暂停中将地缘主导权拱手让人。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 26–28)]]
 
 ---
 
-### 命题二　软件主导硬件重塑战术体系，自主算法彻底颠覆传统工业化武器成本曲线
-
-> [!concept-lens] 软硬件层级逆转与战术经济学
-> 探讨算法如何颠覆重型装备的垄断地位，通过低成本智能蜂群瓦解万亿美元级传统武器平台。
+> [!concept-proposition] 命题二｜软件主导硬件重塑战术体系，自主算法彻底颠覆传统工业化武器成本曲线
+> **探讨维度　软硬件层级逆转与战术经济学** 探讨算法如何颠覆重型装备的垄断地位，通过低成本智能蜂群瓦解万亿美元级传统武器平台。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025, Ch. 4)]]
 > **软件中枢与非对称作战经济学** 卡普与扎米斯卡指出，传统国防采购沉溺于斥资数千亿乃至万亿美元研制单一体积庞大、周期漫长的重型硬件平台（如 F-35 战机项目），然而在现代战场上，这些昂贵平台正迅速沦为数千架单价数千美元的低成本[[Autonomous Drone Swarms|自主无人机蜂群]]的脆弱靶标。软件已经成为决定战场胜负的核心中枢，硬件只是执行载体。AI 威慑依靠的是敏捷迭代的代码与算法所驱动的非对称集群协同，从而彻底颠覆了工业化时代的军费消耗比。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–47)]]
 
 ---
 
-### 命题三　伦理约束下的民主政体必须依托压倒性算法代差构建非对称常规威慑
-
-> [!concept-lens] 民主制度特征与常规威慑重塑
-> 分析崇尚生命价值与法治规范的民主阵营，如何在后原子时代建立令对手不敢妄动的常规制衡力量。
+> [!concept-proposition] 命题三｜伦理约束下的民主政体必须依托压倒性算法代差构建非对称常规威慑
+> **探讨维度　民主制度特征与常规威慑重塑** 分析崇尚生命价值与法治规范的民主阵营，如何在后原子时代建立令对手不敢妄动的常规制衡力量。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025, Ch. 4)]]
 > **压倒性算法代差是民主生存的盾牌** 卡普与扎米斯卡强调，随着原子时代核平衡的高门槛化，地缘侵略更多以灰色地带冲突与常规消耗战形态爆发。威权政体可以不计代价动员人力与实施残酷消耗，而受制于伦理准则与民意监督的民主国家绝不可能采取相同战法。因此，民主政体必须在全域感知、自主规划与协同打击软件上建立绝对的非对称算法代差。唯有让潜在侵略者明确知晓其任何行动都会在秒级内被精准发现并瓦解，才能在不诉诸核毁灭的前提下维持真正的和平。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 46–48)]]
 
 ---
 
-### 命题四　国防采办体制必须从千亿美元硬件平台转向软件优先与敏捷迭代
-
-> [!concept-lens] 国防采办变革与新型[[Manhattan Project|曼哈顿工程]]
-> 批判当前防务预算中 AI 软件占比仅为 0.2% 的结构性错配，呼吁启动国家级战场软件攻坚计划。
+> [!concept-proposition] 命题四｜国防采办体制必须从千亿美元硬件平台转向软件优先与敏捷迭代
+> **探讨维度　国防采办变革与新型[[Manhattan Project|曼哈顿工程]]** 批判当前防务预算中 AI 软件占比仅为 0.2% 的结构性错配，呼吁启动国家级战场软件攻坚计划。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025, Ch. 4)]]
 > **启动面向战场软件的新曼哈顿工程** 卡普与扎米斯卡揭示了严峻的财政错配现实：美国国防采办体系将数万亿美元固化在传统重型硬件项目中，而真正决定未来胜负的人工智能与软件研发预算占比仅约为 0.2%。[[Technological Republic|技术共和国]]必须彻底打破这种过时的采购惯性，设立专门针对前沿战场算法与军用大模型的国家工程机制，赋予顶尖软件工程师与军方联合攻坚的制度自主权，实现防务软件的敏捷开发与持续进化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 47–48, 52–54)]]
@@ -173,7 +166,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 关键机制 | 代表学者与文献 |
+> | 命题类型 | 核心指向 | 关键机制 | 代表学者与[[Document\|文献]] |
 > |:---|:---|:---|:---|
 > | **战略研发不可暂停** | 面对大国战略竞争，民主阵营绝不可单方面叫停前沿武器 AI 研发 | 警惕自满与[[Winner's Fallacy\|胜者谬误]]；维护地缘制衡主动权 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 > | **软硬件层级颠倒** | 软件成为战术指挥中枢，低成本算法蜂群颠覆传统装备成本曲线 | 软件定义作战；破除千亿美元重型硬件陷阱；非对称蜂群打击 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |

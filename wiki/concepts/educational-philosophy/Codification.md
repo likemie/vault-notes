@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -88,10 +88,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　编码是受教者打破沉浸性盲从、确立批判觉察的中介前提
-
-> [!concept-lens] 批判工具中介维度
-> 探讨图像与符号编码如何通过建立反思距离，协助学习者对象化自身受压迫现实。
+> [!concept-proposition] 命题一｜编码是受教者打破沉浸性盲从、确立批判觉察的中介前提
+> **探讨维度　批判工具中介维度** 探讨图像与符号编码如何通过建立反思距离，协助学习者对象化自身受压迫现实。
 
 > [!claim] [[Paulo Freire\|Freire, P.]]
 > **编码的对象化中介功能** 弗莱雷指出，未经编码对象化的现实容易使受压迫者陷入[[Learned Helplessness\|习得性无助]]与宿命论；编码通过将日常生活情境呈现为具体中介，提供了师生共同探究与拆解的客观靶标。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 105; Darwish, 2009, p. 53 注脚61)]]

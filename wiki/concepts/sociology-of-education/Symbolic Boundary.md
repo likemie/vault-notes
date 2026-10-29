@@ -13,13 +13,14 @@ related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-08'
-updated: 2026-10-22
+updated: 2026-10-29
 tags:
   - symbolic-boundary
   - cultural-sociology
   - moral-judgment
   - paradigm/interpretivist
 related_concepts:
+  - "[[Habitus]]"
   - "[[Official Knowledge]]"
   - "[[Cultural Capital]]"
   - "[[Discourse]]"
@@ -31,7 +32,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Tacit Knowledge]]"
   - "[[Champ]]"
-  - "[[Habitus]]"
   - "[[Pragmatic Paradigm]]"
 related_theories: []
 related_methods:
@@ -54,7 +54,7 @@ related_arguments:
 
 > [!concept-lens] 概念透镜
 > - **含义** 指指向行动者或制度通过道德评价在群体间构建主观边界的文化与符号机制。
-> - **用途** 帮助研究者分析高等教育中微观阶层习性导致的互动隔阂（如目标掌控者 vs. 直觉依赖者），以及宏观国家如何通过学校课程将特定文化（如汉儒传统）自然化为[[Official Knowledge\|官方知识]]的边界[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
+> - **用途** 帮助研究者分析高等教育中微观阶层[[Habitus|习性]]导致的互动隔阂（如目标掌控者 vs. 直觉依赖者），以及宏观国家如何通过学校课程将特定文化（如汉儒传统）自然化为[[Official Knowledge\|官方知识]]的边界[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 > - **边界** 不同于客观的社会边界（Social Boundary）；前者属于观念与道德分类的范畴，后者则属于资源分配、法律身份与阶级区隔等硬性社会事实（Lamont & Molnár, 2002）。
 
 > [!citation-card] 关键表述
@@ -100,10 +100,8 @@ related_arguments:
 
 ---
 
-### 命题一　高等教育微观互动中不同阶层习性建构了自我标识与道德拒斥他者的象征边界
-
-> [!concept-lens] 微观阶层习性与大学生自我/他者区隔
-> 探讨大学生的阶层文化背景如何转化为道德评价[[Discourse|话语]]，并在不同学业文化模式之间划出难以逾越的心理界限。
+> [!concept-proposition] 命题一｜高等教育微观互动中不同阶层[[Habitus|习性]]建构了自我标识与道德拒斥他者的象征边界
+> **探讨维度　微观阶层习性与大学生自我/他者区隔** 探讨大学生的阶层文化背景如何转化为道德评价[[Discourse|话语]]，并在不同学业文化模式之间划出难以逾越的心理界限。
 
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]
 > **目标掌控者与直觉依赖者之间的道德话语对立** [[Yajun Zheng\|郑雅君]]发现，精英大学中来自优势阶层的目标掌控者与来自弱势阶层的直觉依赖者不仅存在策略差异，更各自构建了一套道德化话语来标识自我并道德拒斥他者[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 168–172)]]。目标掌控者以“自我负责、有趣”自居，将无目标生活道德判定为“不负责任”；直觉依赖者则以“淳朴、纯真、无套路”自居，将策略性套近乎与选简单课道德判定为“功利心强、动机不纯”。这种象征边界有效地阻断了弱势阶层学生向优势阶层[[Learnology|学习学]]业策略的可能性[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 170)]]。
@@ -116,20 +114,16 @@ related_arguments:
 
 ---
 
-### 命题二　国家通过课程与官方知识将特定汉儒传统塑造为正统中华性，划定国家级的符号象征边界
-
-> [!concept-lens] 宏观课程霸权与国家文化界线构建
-> 探讨国家教育系统如何通过教科书将特定主导群体的文化自然化为全民族的常识，从而划定涵盖与排斥的符号边界。
+> [!concept-proposition] 命题二｜国家通过课程与[[Official Knowledge|官方知识]]将特定汉儒传统塑造为正统中华性，划定国家级的符号象征边界
+> **探讨维度　宏观课程霸权与国家文化界线构建** 探讨国家教育系统如何通过教科书将特定主导群体的文化自然化为全民族的常识，从而划定涵盖与排斥的符号边界。
 
 > [!claim] [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]]
 > **教科书对“中国文化”边界的公式化自然化** [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] 揭示了象征边界在国家教育层面上的宏观运作——国家通过 217 册必修教材系统性地划定“什么是中国文化”的边界[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 65)]]。教材通过将东亚命名为“[[Confucian Heritage Cultures\|儒家文化圈]]”、《论语》列为文化核心、[[Confucius\|孔子]]与西方智者并列，暗中建立了“中国文化 = 儒家文化 = 汉文化”的等式常识[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。这一符号边界将非汉族与非儒家传统排斥在“核心中华性”之外，导致少数民族与信教学生在接受官方课程时产生严重的[[Cultural Disembedding\|文化脱嵌]]与[[Reflexivity\|反思性]]疏离[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 
 ---
 
-### 命题三　象征边界通过阻断跨群体文化传递与资源共享，硬化为再生产结构性不平等的社会边界
-
-> [!concept-lens] 从主观区隔到客观社会不平等硬化
-> 探讨观念上的道德对立与排斥如何阻碍社会资本与[[Cultural Capital\|文化资本]]的流动，最终硬化为客观的社会阶层与族群屏障。
+> [!concept-proposition] 命题三｜象征边界通过阻断跨群体文化传递与资源共享，硬化为再生产结构性不平等的社会边界
+> **探讨维度　从主观区隔到客观社会不平等硬化** 探讨观念上的道德对立与排斥如何阻碍社会资本与[[Cultural Capital\|文化资本]]的流动，最终硬化为客观的社会阶层与族群屏障。
 
 > [!claim] Lamont & Molnár (2002) / [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]
 > **象征边界硬化为社会边界的机制** Lamont & Molnár (2002) 论证，象征边界并非停留在心理活动层面，当道德拒斥导致群体间拒绝互动、否定对方实践的合法性时，象征边界就会“硬化”（harden）为社会边界[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 168)]]。在[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] 的案例中，直觉依赖者对策略行为的道德贬低阻止了他们向目标掌控者获取[[Tacit Knowledge|隐性知识]]，从而巩固了阶层文化资本的不平等传递[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 171)]]。

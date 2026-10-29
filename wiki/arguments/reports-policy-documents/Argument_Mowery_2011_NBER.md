@@ -53,6 +53,7 @@ related_facts:
   - "[[Semi-Automatic Ground Environment]]"
   - "[[1956 IBM Consent Decree]]"
   - "[[European Research Area]]"
+  - "[[ASEAN Economic Community]]"
   - "[[Department of Defense]]"
   - "[[Office of Naval Research]]"
   - "[[DARPA]]"
@@ -64,14 +65,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-03
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: report
 publication_type: report
 title: "Argument_Mowery_2011_NBER"
 argument_key: "Argument_Mowery_2011_NBER"
 argument_display_title: "Federal policy and the development of semiconductors, computer hardware, and computer software: A policy model for climate change R&D? In R"
 argument_kind: "report"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dcfce7"
@@ -140,10 +141,10 @@ issuing_organization: "National Bureau of Economic Research"
 
 ---
 
-> [!claim] 论证步骤一　反垄断同意令与国防先导采购协同催生了去中心化的商用半导体产业
+> [!claim|step] 论证步骤一　反垄断同意令与国防先导采购协同催生了去中心化的商用半导体产业
 > 战后美国半导体产业之所以超越欧洲与日本形成高度竞争的专业化分工结构，并非源于单纯的研发资助，而是 [[1956 AT&T Consent Decree|1956年美国电话电报公司同意令]] 强制开放底层专利与国防采购充当创新竞赛奖金双重制度力量协同塑造的结果。（pp.161–171）
 
-#### 1. 反垄断诉讼威慑与 1956 年同意令打破技术垄断封锁
+> [!sub-claim] 1. 反垄断诉讼威慑与 1956 年同意令打破技术垄断封锁
 
 1947 年[[Bell Labs|贝尔实验室]]发明晶体管后，母公司 AT&T 面临 1949 年美国司法部（Department of Justice, DOJ）提起的反垄断诉讼威胁。面对被依法拆分的生存危机，AT&T 极力避免在商用半导体市场展示垄断力量，主动采取了技术开放策略。（pp.161–162）
 
@@ -151,7 +152,7 @@ issuing_organization: "National Bureau of Economic Research"
 > - **1951 年晶体管技术公开研讨会** 在军方要求与反垄断诉讼威慑下，贝尔实验室于 1951 年 9 月召开历史性研讨会，向 139 名产业界代表、121 名军方人员及 41 名大学科学家公开晶体管全部工艺细节，并出版两卷本技术专著（被称为《[[The Green Book|绿皮书]]》），向支付 2.5 万美元（可抵扣未来专利费）的申请者全面传授制造诀窍。（p.162）
 > - **1956 年反垄断和解协议的严苛约束** 司法部与 AT&T 达成的 同意令 禁止 AT&T 从事受规管公共电信网络服务以外的任何商业制造业务，并责令其以零版税（Royalty-Free）向所有美国企业开放全部既有专利（含晶体管基础专利），以合理且非歧视性费率许可未来专利。该判决彻底清除了新创企业进入商用半导体制造的知识产权壁垒。（pp.162–163）
 
-#### 2. 国防采购充当创新竞赛奖金并降低新创企业进入门槛
+> [!sub-claim] 2. 国防采购充当创新竞赛奖金并降低新创企业进入门槛
 
 冷战初期军方对雷达、声呐及导弹制导系统小型化与高[[Reliability|可靠性]]的极端追求，使其采购合同发挥了超越传统研发资助的[[Market Shaping and Creating|市场塑造]]力量。（pp.163–168）
 
@@ -188,7 +189,7 @@ issuing_organization: "National Bureau of Economic Research"
 >
 > **图表解读** 详尽记录了集成电路产业从 1962 年 100% 依赖军用采购起步，在十余年内迅速向计算机、工业及消费电子商用领域自生扩散的历史轨迹，证实了政府采购在跨越产业早期[[Valley of Death|死亡之谷]]中的决定性杠杆作用。（p.168）
 
-#### 3. 美、欧、日半导体产业演化路径的跨国制度分流
+> [!sub-claim] 3. 美、欧、日半导体产业演化路径的跨国制度分流
 
 在微电子革命初期，美、欧、日三大主要经济体因国防需求结构、反垄断规制强度及国内市场组织形态的差异，走向了截然不同的产业演化路径（pp.160, 169–171）：
 
@@ -202,10 +203,10 @@ issuing_organization: "National Bureau of Economic Research"
 
 ---
 
-> [!claim] 论证步骤二　大学先锋研发、国防战略工程采购与反垄断规制奠定了计算机硬件与软件生态
+> [!claim|step] 论证步骤二　大学先锋研发、国防战略工程采购与反垄断规制奠定了计算机硬件与软件生态
 > 与半导体产业不同，战后计算机硬件与软件产业深度依托大学先锋原型研发，并在国防超级工程采购（[[Semi-Automatic Ground Environment|半自动地面防空系统]] [Semi-Automatic Ground Environment, [[Sage]]]）与 [[1956 IBM Consent Decree|1956年国际商业机器公司同意令]] 的约束下，完成了从封闭专有租赁向开放多元分工体系的制度转型。（pp.171–183）
 
-#### 1. 大学先锋探索与开放式多元计算架构资助
+> [!sub-claim] 1. 大学先锋探索与开放式多元计算架构资助
 
 战后早期美国陆军、海军、空军与 [[National Science Foundation|NSF]] 广泛资助大学开展计算机原型探索，并坚持非专有与公开出版原则，与英苏两国的军事保密体制形成鲜明对照。（pp.171–174）
 
@@ -220,7 +221,7 @@ issuing_organization: "National Bureau of Economic Research"
 > | **[[European Research Area\|ERA]] 1101 (Atlas I)** | \$500 | 海军 / 国家安全局（National Security Agency, NSA） | 1950 |
 > | **Eckert-Mauchly UNIVAC** | \$400–\$500 | 陆军（人口普查局渠道） / 空军 | 1951 |
 > | **MIT Whirlwind** | \$4,000–\$5,000 | 海军 / 空军 | 1951 |
-> | **[[Institute for Advanced Study\|Princeton IAS]] Computer** | \$650 | 陆军 / 海军 / RCA / 原子能委员会（Atomic Energy Commission, AEC） | 1951 |
+> | **[[Institute for Advanced Study\|Princeton IAS]] Computer** | \$650 | 陆军 / 海军 / RCA / 原子能委员会（Atomic Energy Commission, [[ASEAN Economic Community\|AEC]]） | 1951 |
 > | **UC Berkeley CALDIC** | \$95 | 海军（Navy） | 1951 |
 > | **Harvard Mark IV** | 不详 | 空军（Air Force） | 1951 |
 > | **EDVAC** | \$467 | 陆军（Army） | 1952 |
@@ -238,7 +239,7 @@ issuing_organization: "National Bureau of Economic Research"
 > - **多元去中心化资助渠道** 陆海空三军与民政科研机构并行支持不同技术路线（[[Von Neumann Architecture|冯·诺依曼架构]]、旋风工程等），有效规避了单一机构押注特定方案的[[Path Dependence|技术锁定]]风险。（pp.171–173）
 > - **非专有与学术公开原则** 资助协议普遍坚持研究成果公开出版与广泛扩散，打破了军事保密壁垒，奠定了通用计算的基础知识公地。（pp.173–174）
 
-#### 2. 国防战略工程与 [[1956 IBM Consent Decree|1956年国际商业机器公司反垄断同意令]]
+> [!sub-claim] 2. 国防战略工程与 [[1956 IBM Consent Decree|1956年国际商业机器公司反垄断同意令]]
 
 联邦采购支撑了巨型工程研制（如 SAGE 防空系统与 AEC 的 Stretch 超级计算机），而反垄断同意令拆除了 IBM 的专有市场壁垒。（pp.174–178）
 
@@ -252,7 +253,7 @@ issuing_organization: "National Bureau of Economic Research"
 > - **强制租售并举与专利开放** 1956 年同意令要求 IBM 必须提供设备直接购买选项，并以合理低价许可专利、剥离服务局公司（Service Bureau Corporation, SBC），为兼容硬件厂商与第三方服务机构清除了准入障碍。（pp.177–178）
 > - **1969 年反垄断诉讼与软硬件解绑（Unbundling）** 司法部持续的反垄断压力迫使 IBM 在 1969 年主动将软件与硬件定价分离，正式奠定了独立软件供应商（Independent Software Vendors, ISVs）蓬勃发展的制度基础。（pp.179–180）
 
-#### 3. 计算机软件产业的四阶段演进与国防采购效力的生命周期边界
+> [!sub-claim] 3. 计算机软件产业的四阶段演进与国防采购效力的生命周期边界
 
 战后美国软件产业经历了从硬件附庸向独立产业生态的演化历程，这一转变体现为四个具有不同技术与市场特征的历史阶段（pp.178–183）：
 
@@ -286,10 +287,10 @@ issuing_organization: "National Bureau of Economic Research"
 
 ---
 
-> [!claim] 论证步骤三　高校学科建制化与用户端共同发明完成了通用技术范式的闭环
+> [!claim|step] 论证步骤三　高校学科建制化与用户端共同发明完成了通用技术范式的闭环
 > 联邦科研投入推动了大学计算机科学[[Disciplinary Institutionalization|学科建制化]]与高层次人才供给，而标准化计算硬件与软件平台的大规模部署激活了下游用户端广泛的[[Co-invention|共同发明]]，共同奠定了美国信息技术产业的长期全球领导地位。（pp.183–185）
 
-#### 1. 联邦科研资助催生计算机科学学科建制化与人才蓄水池
+> [!sub-claim] 1. 联邦科研资助催生计算机科学学科建制化与人才蓄水池
 
 联邦资金不仅采购设备，更直接构建了大学的基础研发与人才培养网络。（pp.183–184）
 
@@ -297,7 +298,7 @@ issuing_organization: "National Bureau of Economic Research"
 > - **设备与研发基础设施托底** 1960 年代美国大学计算机设备购置经费的 66% 直接来自联邦政府（大学自筹 34%，厂商资助 16%）。[[Office of Naval Research|海军研究办公室]]（Office of Naval Research, ONR）、[[National Science Foundation|NSF]] 与 [[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）长期承担了全美高校计算机科学基础研究的主要预算，并通过设立 [[MOSIS]] 芯片原型流片服务平台 支持大学开展超大规模集成电路（[[VLSI Project|VLSI]]）与精简指令集（RISC）微处理器设计实训。（pp.176, 183）
 > - **博士点与专业人才爆发式扩张** 授予计算机科学博士学位的高校系所从 1960 年的几乎为零，迅猛增加至 1970 年的 42 所、1980 年的 85 所及 1990 年代的逾 150 所，为全美软件与半导体产业输送了庞大的高素质科学家与工程师队伍。（pp.183–184）
 
-#### 2. 用户端共同发明与大规模应用部署推动通用技术演进
+> [!sub-claim] 2. 用户端共同发明与大规模应用部署推动通用技术演进
 
 [[General Purpose Technology|通用目的技术]]不仅取决于上游器件制造，更取决于下游各行业用户为适配新技术所开展的深度流程再造与互补性软件研发。（p.185）
 
@@ -306,10 +307,10 @@ issuing_organization: "National Bureau of Economic Research"
 
 ---
 
-> [!claim] 论证步骤四　冷战信息技术政策范式向气候变化与清洁能源研发迁移的结构性边界
+> [!claim|step] 论证步骤四　冷战信息技术政策范式向气候变化与清洁能源研发迁移的结构性边界
 > 冷战时期信息技术政策所依赖的军用性能溢价、军民双向技术溢出及绿地产业生态在清洁能源领域完全缺失；应对气候变化研发必须直面大宗商品同质性与存量基础设施刚性，审慎构建以碳规制、稳定研发投入与大型基础设施试验为核心的政策组合。（pp.184–186）
 
-#### 1. 能源与信息技术产业的根本属性差异：[[Greenfield vs Brownfield Innovation|绿地创新与棕地创新]]
+> [!sub-claim] 1. 能源与信息技术产业的根本属性差异：[[Greenfield vs Brownfield Innovation|绿地创新与棕地创新]]
 
 许多政策倡导者主张复制冷战信息技术研发模式以加速应对气候变化，但历史制度比较表明，两大部门在底层技术属性、需求形态与市场结构上存在根本性的 [[Greenfield vs Brownfield Innovation|绿地创新与棕地创新]] 张力（pp.184–186）：
 
@@ -321,7 +322,7 @@ issuing_organization: "National Bureau of Economic Research"
 > | **存量网络制约** | **[[Greenfield vs Brownfield Innovation\|绿地新兴产业（Greenfield）]]** 没有庞大遗留基础设施包袱，新创企业可自由构筑全新商业模式。（pp.160–161） | **[[Greenfield vs Brownfield Innovation\|棕地存量公用事业（Brownfield）]]** 深嵌于强监管、极度规避风险且运行周期长达数十年的电网与公用事业存量网络。 |
 > | **技术溢出方向** | **军用向民用高频溢出** 早期军品技术经降价后可直接平移至民用计算与消费市场。（pp.161–168） | **特种军用与通用民用严重脱节** 军用极端能源装备（如核潜艇反应堆、航天单晶硅电池）与民用电网廉价消纳需求成本相差数个数量级。 |
 
-#### 2. 能源研发政策面临的制度短板与理性对策
+> [!sub-claim] 2. 能源研发政策面临的制度短板与理性对策
 
 美国战后能源研发政策长期存在研发经费剧烈波动、缺乏长期稳定性，且严重脱离需求侧采购支持等结构性弊病（美国国家研究委员会 [National Research Council, NRC], 2001）。针对这些深层结构制约，科学政策需要建立逻辑自洽的制度应对链条（pp.185–186）：
 

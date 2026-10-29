@@ -8,7 +8,7 @@ aliases:
 summary: "由 David DeVries 与 Keith Edwards（1973）开创、Robert Slavin 发展的经典合作-竞赛混合教学模式。该方法以同质能力竞赛台（Tournament Tables）替代传统纸笔测验，通过异质小组互助备考与能力均等同伴竞赛，实现低焦虑、高动机的学业掌握与团队赋能。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,8 +23,10 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Learned Helplessness]]"
   - "[[Procedural Knowledge]]"
+  - "[[Student Motivation]]"
   - "[[Gamification]]"
   - "[[Self-Efficacy]]"
+  - "[[Game-Based Learning]]"
   - "[[Student Attitude]]"
   - "[[Business as Usual]]"
   - "[[Peer-Supported Learning]]"
@@ -42,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -52,7 +54,7 @@ updated: 2026-10-25
 
 > [!concept-lens] 概念透镜
 > - **含义** 通过“异质合作备考 + 同质公平竞赛 + 团队集体奖励”的结构设计，化解传统个体竞争导致的学困生[[Learned Helplessness\|习得性无助]]与学优生垄断优势。
-> - **用途** 针对事实性、概念性与[[Procedural Knowledge\|程序性知识]]的系统巩固，大幅提升基础教育与大班教学中的学习动机、课堂参与度与同伴支持。
+> - **用途** 针对事实性、概念性与[[Procedural Knowledge\|程序性知识]]的系统巩固，大幅提升基础教育与大班教学中的[[Student Motivation|学习动机]]、课堂参与度与同伴支持。
 > - **边界** TGT 高度依赖客观化、有明确标准答案的知识内容，不适用于高度开放、劣构或主观探究型课题。
 
 > [!boundary]- 概念边界
@@ -93,20 +95,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　同质能力竞赛台设计通过确保成功的均等机会消解了学困生的习得性无助
-
-> [!concept-lens] 均等成功机会（Equal Opportunity for Success）机制
-> 当低成就学生仅与同等水平的伙伴竞争时，其努力能够直接转化为团队胜势，从而最大化[[Self-Efficacy\|自我效能感]]与同伴接纳度。
+> [!concept-proposition] 命题一｜同质能力竞赛台设计通过确保成功的均等机会消解了学困生的[[Learned Helplessness|习得性无助]]
+> **探讨维度　均等成功机会（Equal Opportunity for Success）机制** 当低成就学生仅与同等水平的伙伴竞争时，其努力能够直接转化为团队胜势，从而最大化[[Self-Efficacy\|自我效能感]]与同伴接纳度。
 
 > [!claim] DeVries & Edwards; Slavin
 > **均等竞争与积极互赖的协同效应** TGT 打破了传统课堂中高成就学生垄断奖励的格局；在低能力竞赛桌上获胜所贡献的团队分数与在高能力竞赛桌上完全相同，促使异质小组全员高度重视并全力辅导学困生，实现学业提升与社会融合的双重收益。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
 
 ---
 
-### 命题二　TGT 游戏化竞技与同伴支持深度契合基础教育阶段学生的动机激活需求
-
-> [!concept-lens] [[Gamification\|游戏化学习]]与社会动机耦合
-> 游戏规则的即时反馈、适度竞争刺激与团队归属感相结合，能够显著降低学习焦虑并提高抗遗忘率。
+> [!concept-proposition] 命题二｜TGT [[Gamification|游戏化]]竞技与同伴支持深度契合基础教育阶段学生的动机激活需求
+> **探讨维度　[[Game-Based Learning|游戏化学习]]与社会动机耦合** 游戏规则的即时反馈、适度竞争刺激与团队归属感相结合，能够显著降低学习焦虑并提高抗遗忘率。
 
 > [!claim] Güngör et al.
 > **游戏化合作模式对学业掌握的稳健支撑** 在[[Meta-meta-analysis\|二阶元分析]]所涵盖的综合[[Cooperative Learning\|合作学习]]研究池中，TGT 作为经典结构化技术之一，证实了将游戏化同伴互动融入常规学科复习能够显著提升基础教育阶段的学业掌握度与[[Student Attitude\|学习态度]]（综合合作效应 $ES = 0.61$）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–6)]]
@@ -122,7 +120,7 @@ updated: 2026-10-25
 ---
 
 > [!dev-timeline] TGT 的发展演进
-> - **1973 — 约翰霍普金斯大学开创** David DeVries 与 Keith Edwards 在约翰霍普金斯大学社会组织研究中心首次设计出 Teams-Games-Tournament 原型，旨在通过[[Gamification\|游戏化]]小组学习改善种族融合与学业动机。
+> - **1973 — 约翰霍普金斯大学开创** David DeVries 与 Keith Edwards 在约翰霍普金斯大学社会组织研究中心首次设计出 Teams-Games-Tournament 原型，旨在通过[[Gamification\|游戏化]]小组学习改善种族融合与[[Student Motivation|学业动机]]。
 > - **1978–1980s — Slavin 体系化与 STL 整合** [[Robert Slavin]] 将 TGT 与 STAD 整合为“学生团队学习（Student Team Learning）”理论框架，确立了动态升降桌规程（Bumping Procedures）并推向全美中小学。
 > - **1990s 至今 — 跨学科实证扩展与数字化游戏化演进** TGT 被广泛引入数学、外语、科学与医学基础课程教学中，现代教育技术将其进一步演变为在线竞答与数字化游戏化[[Cooperative Learning\|合作学习]]平台。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026)]]
 

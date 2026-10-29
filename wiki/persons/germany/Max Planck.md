@@ -8,7 +8,7 @@ summary: "德国理论物理学家、量子论创立者、诺贝尔物理学奖�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 8
+person_related_count: 9
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -27,7 +27,8 @@ related_concepts:
   - "[[Hard Belief]]"
   - "[[Positivism]]"
   - "[[Technological Agnosticism]]"
-related_theories: []
+related_theories:
+  - "[[Planck's Principle]]"
 related_methods: []
 related_instruments: []
 related_persons: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -90,6 +91,7 @@ updated: 2026-10-22
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
+| [[Planck's Principle]] | 理论 | 提出科学新真理依靠旧权威自然退场而取得承认的代际更替理论。 |
 > | [[Epistemology]] | 概念 | 提出[[Scientific Paradigm\|科学范式]]代际演进与认知阻滞的普朗克原理。 |
 > | [[Hard Belief]] | 概念 | 揭示[[Positivism\|实证主义]]对非功利性信念与智识勇气的挤压效应。 |
 > | [[Technological Agnosticism]] | 概念 | 为技术唯理性与避险不可知论的形成提供科学哲学反思。 |

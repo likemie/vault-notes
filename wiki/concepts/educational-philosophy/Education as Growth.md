@@ -7,7 +7,7 @@ aliases:
 summary: "杜威实用主义与批判教育学的核心哲学构念。杜威经典定义“教育即生长”，指儿童以自身经验为中心在环境与社区沟通中持续重组与改组经验的自主过程；批判教育学在此基础上指出单纯理智反思的局限，强调将经验生长升华为打破沉默文化、唤醒批判意识并在解放性实践（praxis）中变革压迫现实。"
 type: concept
 domain: "educational-philosophy"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,12 +29,14 @@ related_concepts:
   - "[[Banking Model of Education]]"
   - "[[Positivism]]"
   - "[[Empiricism]]"
+  - "[[Liberation Theology]]"
   - "[[Conscientization]]"
   - "[[Interaction Effect]]"
   - "[[Educative Experience]]"
   - "[[Mis-educative Experience]]"
   - "[[Reflective Thinking]]"
   - "[[Educational Meliorism]]"
+  - "[[Document]]"
   - "[[Problem Solving]]"
   - "[[Progressive Education]]"
   - "[[Active Learning]]"
@@ -55,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-10-20
+updated: 2026-10-29
 ---
 
 ---
@@ -83,7 +85,7 @@ updated: 2026-10-20
 > [!contrast-table] [[John Dewey|杜威]][[Pragmatic Paradigm|实用主义]]“生长”、[[Paulo Freire|弗莱雷]][[Critical Pedagogy|批判教育学]]“成长”与传统[[Positivism|实证主义]]“发展”系统辨析
 > | 比较维度 | 杜威实用主义：生长（Growth） | 弗莱雷批判[[Paradigm\|范式]]：成长（Growth / [[Praxis]]） | 传统实证主义：发展（Development） |
 > |---|---|---|---|
-> | **理论源泉** | 生物适应隐喻、[[Empiricism\|经验主义]]哲学与民主社会理论 | 辩证唯物主义、后殖民批判与解放神学 | 心理测量学、[[Behaviorism\|行为主义]]与认知阶段论 |
+> | **理论源泉** | 生物适应隐喻、[[Empiricism\|经验主义]]哲学与民主社会理论 | 辩证唯物主义、后殖民批判与[[Liberation Theology\|解放神学]] | 心理测量学、[[Behaviorism\|行为主义]]与认知阶段论 |
 > | **核心机制** | 经验的连续重组与社区民主沟通协作 | 破解[[Culture of Silence\|沉默文化]]与[[Conscientization\|批判意识觉醒]] | 遵循心理量表刻度的阶梯式能力达成 |
 > | **终极归宿** | 个体经验的持续丰富与民主公民自我实现 | 指向解构压迫现实的解放性[[Praxis\|实践]]行动 | 适应外部标准化社会分工与劳动力市场需求 |
 > | **批判矛头** | 反对学科科目本位与成人社会外在目的强加 | 反对[[Banking Model of Education\|储蓄式教育]]与压迫性社会结构 | 关注规范达标，缺乏对既有结构的反思批判 |
@@ -114,40 +116,32 @@ updated: 2026-10-20
 
 ---
 
-### 命题一　教育即经验持续重组与改组的自主过程且除自身之外别无外在预设目的
-
-> [!concept-lens] 经验内在目的性与反外在灌输
-> 阐明[[John Dewey|杜威]]如何确立生长在教育目的论上的绝对中心地位，瓦解将教育作为服务外在功利目标的工具主义取向。
+> [!concept-proposition] 命题一｜教育即经验持续重组与改组的自主过程且除自身之外别无外在预设目的
+> **探讨维度　经验内在目的性与反外在灌输** 阐明[[John Dewey|杜威]]如何确立生长在教育目的论上的绝对中心地位，瓦解将教育作为服务外在功利目标的工具主义取向。
 
 > [!claim] [[John Dewey|Dewey, J.]]
 > **教育即生长与目的内在论** 杜威指出，传统教育的最大弊病在于从外部强加成人社会的既定规范与功利目的。在[[Pragmatic Paradigm|实用主义]]哲学视阈下，生活即是发展，而发展与生长即是生活本身；因此教育过程是一个持续重组、改造与转化经验的自主过程。教育除生长本身之外别无外部目的；衡量学校教育成效的唯一标准，在于该教育能否在个体内部创造继续生长的愿望，并提供使这种愿望转化为现实的具体手段。[[Argument_Darwish_2009_Queens|(Dewey, 1916; cited in Darwish, 2009, pp. 7, 31)]]
 
 ---
 
-### 命题二　生长的理智方向取决于当下经验的教育性质地与反教育性阻滞
-
-> [!concept-lens] 经验品质二分与成长方向性
-> 考察经验质地对个体发展的差异化影响，辨析[[Educative Experience|教育性经验]]与[[Mis-educative Experience|反教育经验]]对后续学习潜力的深层分化。
+> [!concept-proposition] 命题二｜生长的理智方向取决于当下经验的教育性质地与反教育性阻滞
+> **探讨维度　经验品质二分与成长方向性** 考察经验质地对个体发展的差异化影响，辨析[[Educative Experience|教育性经验]]与[[Mis-educative Experience|反教育经验]]对后续学习潜力的深层分化。
 
 > [!claim] [[John Dewey|Dewey, J.]]
 > **教育性经验与反教育经验的品质对立** 杜威强调经验具有鲜明的品质差异。[[Educative Experience|教育性经验]]（Educative Experience）能够丰富主体的当下体验，为通往未来更深刻、更广阔的探究敞开大门，推动理智与道德的持续扩展；相反，[[Mis-educative Experience|反教育经验]]（Mis-educative Experience）如机械[[Rote Learning|死记硬背]]（[[Rote Learning|死记硬背]]）、高压训导与缺乏挑战的重复操练，会使学习者产生情感麻木与厌恶心理，人为收缩其未来获得丰富经验的可能性，造成智力生长的停滞与扭曲。[[Argument_Darwish_2009_Queens|(Dewey, 1938; cited in Darwish, 2009, pp. 25, 31, 47)]]
 
 ---
 
-### 命题三　真实生活情境的具身探究是激发智力生长与克服死知识的核心载体
-
-> [!concept-lens] 真实情境具身性与探究刺激
-> 考察真实生活经验如何将静态学术事实转化为驱动思维生长的探究动力。
+> [!concept-proposition] 命题三｜真实生活情境的具身探究是激发智力生长与克服死知识的核心载体
+> **探讨维度　真实情境具身性与探究刺激** 考察真实生活经验如何将静态学术事实转化为驱动思维生长的探究动力。
 
 > [!claim] [[John Dewey|Dewey, J.]]
 > **真实生活实践对智力生长的奠基作用** 杜威通过对比农场活体动植物照料与课堂死标本教学论证，脱离生活语境的对象课无论多么繁复，都无法替代在真实情境中解决具体问题所获得的直接体验。在园艺、制造与探究活动中，学生直面动植物枯萎或机械故障的实际挑战，调动[[Reflective Thinking|反思性思维]]去克服困难，将抽象科学原理内化为个人经验连续体的一部分。学术事实的本质是刺激探究的媒介，唯有与学习者切身生活建立关联，方能转化为促进智力生长的营养。[[Argument_Darwish_2009_Queens|(Dewey, 1903, 1943; cited in Darwish, 2009, pp. 36–37)]]
 
 ---
 
-### 命题四　批判教育学揭示杜威式生长受制于理想化沟通预设并缺乏变革性实践行动承诺
-
-> [!concept-lens] [[Conscientization|批判意识觉醒]]与实践行动鸿沟
-> 检视[[Critical Pedagogy|批判教育学]]对杜威渐进[[Educational Meliorism|改良主义]]生长观的深刻理论反思。
+> [!concept-proposition] 命题四｜[[Critical Pedagogy|批判教育学]]揭示杜威式生长受制于理想化沟通预设并缺乏变革性实践行动承诺
+> **探讨维度　[[Conscientization|批判意识觉醒]]与实践行动鸿沟** 检视[[Critical Pedagogy|批判教育学]]对杜威渐进[[Educational Meliorism|改良主义]]生长观的深刻理论反思。
 
 > [!claim] [[Paulo Freire|Freire, P.]] / [[Bob Darwish|Darwish, B.]]
 > **平权沟通预设盲区与实践行动鸿沟** 弗莱雷与达尔维什（Bob Darwish）指出，杜威将生长寄托于理性反思与民主沟通，但这一构想盲目预设了社会成员具备平等参与对话的前提条件；在存在阶级统治与[[Culture of Silence|沉默文化]]的现实社会中，平权沟通并不存在。达尔维什借助“肥胖症隐喻”阐明，即便个体拥有高度清晰的健康知识与理智觉察，若缺乏坚定的变革意志与具体行动，依然无法摆脱困境；杜威式生长局限于理智经验的内部重组，未能明确承诺采取政治行动去瓦解结构性压迫，因而必须与弗莱雷的批判意识觉醒和解放性实践（[[Praxis]]）相结合，方能实现真正的自由成长。[[Argument_Darwish_2009_Queens|(Freire, 1970; Darwish, 2009, pp. 7–10, 41–43)]]
@@ -155,7 +149,7 @@ updated: 2026-10-20
 ---
 
 > [!contrast-table] 围绕生长（Growth）形成的四大核心命题归纳
-> | 命题类型 | 核心理论判定 | 关键机制与分析维度 | 代表学者与文献 |
+> | 命题类型 | 核心理论判定 | 关键机制与分析维度 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **内在目的命题** | 教育即经验的持续改组与生长，除生长自身外别无预设外在目的 | 经验重组、自我实现、反外在工具化 | Dewey (1916); [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 > | **经验品质命题** | 生长的方向取决于当下经验的质地，反教育经验会阻碍未来生长 | 连续性原则、[[Interaction Effect\|交互作用]]原则、教育性 vs 反教育经验 | Dewey (1938); [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |

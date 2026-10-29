@@ -8,7 +8,7 @@ aliases:
 summary: "效标关联效度的一种核心形式，衡量测量工具在当前时间点的得分对受试者未来认知表现、学业成就或实际成果的跨期预测能力。在教育测评中涵盖从入学考选拔、高阶创造潜能到微观课堂教学行为对学业增益的实证预测，依赖无偏效标与行为锚定规程进行验证。"
 type: concept
 domain: "research-methodology"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Criterion-related Validity]]"
   - "[[Academic Achievement]]"
   - "[[Construct]]"
+  - "[[Construct Validity]]"
   - "[[Independent Variable]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
@@ -28,14 +29,13 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Class Size]]"
   - "[[Concurrent Validity]]"
-  - "[[Construct Validity]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Content Validity]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Reliability]]"
   - "[[Evaluation Research]]"
   - "[[Paradigm]]"
-  - "[[Empiricism]]"
+  - "[[Document]]"
   - "[[Criterion Problem]]"
   - "[[Chain of Evidence]]"
   - "[[Consequential Validity]]"
@@ -75,6 +75,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Runco_2026_CRJ]]"
   - "[[Argument_WorldBank_2019_Teach]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
 confidence: high
 status: completed
 created: 2026-06-23
@@ -89,7 +90,7 @@ updated: 2026-10-29
 > [!concept-lens] 概念透镜
 > - **含义** 预测效度回答的是：“当前工具测得的分数，能在多大程度上揭示个体在未来的发展轨迹、实际效能或学业增益？”
 > - **用途** 在选拔性考试（如[[Gaokao|高考]]、大学入学考试）、拔尖创新潜能甄拔、教学质量监测（如课堂观察工具赋分）及教育干预追踪中，预测效度是论证工具合法性与外推效力的根本支柱。
-> - **边界** 预测效度侧重于评估测验得分与未来外部效标之间的经验关联强度；工具本身内在理论构念的完整性与真实性则由构念效度负责检验。
+> - **边界** 预测效度侧重于评估测验得分与未来外部效标之间的经验关联强度；工具本身内在[[Construct|理论构念]]的完整性与真实性则由[[Construct Validity|构念效度]]负责检验。
 
 学术界对[[Independent Variable|预测变量]]的角色定位与微观教学行为的跨期效用进行了深入探索。
 
@@ -145,7 +146,7 @@ updated: 2026-10-29
 
 ## 围绕概念形成的命题
 
-### 命题一　跨时间预测效度高度受制于效标测量的无偏性与效标污染控制
+> [!concept-proposition] 命题一｜跨时间预测效度高度受制于效标测量的无偏性与效标污染控制
 
 效标质量的纯洁性构成了衡量预测效度真实程度的先决条件。
 
@@ -157,7 +158,7 @@ updated: 2026-10-29
 
 ---
 
-### 命题二　高阶认知潜能作为预测变量时展现出强劲的预测效度且存在变量角色不对称性
+> [!concept-proposition] 命题二｜高阶认知潜能作为[[Independent Variable|预测变量]]时展现出强劲的预测效度且存在[[Variable|变量]]角色不对称性
 
 潜能测量在纵向追踪中作为[[Independent Variable|预测变量]]还是作为效标结果，其统计关联展现出根本性的非对称性。
 
@@ -169,7 +170,7 @@ updated: 2026-10-29
 
 ---
 
-### 命题三　微观课堂教学行为对学业增益的预测效度显著超越教师静态文凭资质
+> [!concept-proposition] 命题三｜微观课堂教学行为对学业增益的预测效度显著超越教师静态文凭资质
 
 在教育生产函数与教师[[Evaluation Research|评价研究]]中，实证证据推动了预测源从“静态资格”向“课堂实然行为”的[[Paradigm|范式]]转移。
 
@@ -181,10 +182,8 @@ updated: 2026-10-29
 
 ---
 
-### 命题四　科研评价中卷积生产力与影响力的复合指标对未来学术卓越度具备最高预测效度
-
-> [!concept-lens] 科学计量评价与跨期预测效度维度
-> 探讨文献计量指标能否可靠预判学者未来科研卓越度，纵向实证检验各类评价工具的跨期预测效力。
+> [!concept-proposition] 命题四｜科研评价中卷积生产力与影响力的复合指标对未来学术卓越度具备最高预测效度
+> **探讨维度　科学计量评价与跨期预测效度维度** 探讨[[Document|文献]]计量指标能否可靠预判学者未来科研卓越度，纵向实证检验各类评价工具的跨期预测效力。
 
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang and Barabási (2021)]]; Hirsch (2007)
 > **复合计量指标对未来科研产出卓越度的强预测效度命题** 希尔施（Hirsch, 2007）对凝聚态物理学者开展前后跨度各 12 年的生涯追踪表明，单纯发文量（生产力）在预测学者未来表现上效度最弱，篇均被引量次之；$h$ 指数不仅对未来 12 年累积总被引展现出最强预测力，而且在预测学者在随后 12 年发表新作的被引增量时，依然全面超越总引用与发文量，证实了将生产力与影响力卷积的复合指标具备卓越的跨期预测效度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]]
@@ -293,7 +292,7 @@ updated: 2026-10-29
 > |:-----|:-----|:---------|:-----|
 > | [[Criterion-related Validity]] | 概念 | 上位概念 | 预测效度是效标关联效度在存在时间跨度情境下的主要分支形式。 |
 > | [[Concurrent Validity]] | 概念 | 平行概念 | 预测效度与共时效度核心逻辑一致，主要区别在于预测效度具备时间滞后性。 |
-> | [[Construct Validity]] | 概念 | 理论基础 | 预测效度为理论构念提供外在效标关联证据，是现代统一效度框架的关键组成。 |
+> | [[Construct Validity]] | 概念 | 理论基础 | 预测效度为[[Construct\|理论构念]]提供外在效标关联证据，是现代统一效度框架的关键组成。 |
 > | [[Creativity]] | 概念 | 实证对象 | 创造力实证研究确立了其作为预测变量时的稳健预测效度（$r = 0.29$）。 |
 > | [[Effective Teaching]] | 概念 | 效能指向 | [[Classroom Observation\|课堂观察]]工具的预测效度直接衡量其能否有效识别并预测卓越教学行为对学业的增益。 |
 > | [[Teach Classroom Observation Tool]] | 测量工具 | 落地工具 | 实证检验确立其综合评分对学生跨期[[Academic Achievement\|学业成绩]]增长具有 0.08–0.12 SD 的稳健预测力。 |

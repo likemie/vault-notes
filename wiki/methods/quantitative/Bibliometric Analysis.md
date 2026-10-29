@@ -12,9 +12,9 @@ summary: "运用数学与统计学方法对学术文献外部特征、引文网�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 22
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 cssclasses:
   - method-manual
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Heterogeneity]]"
   - "[[Research Utilization]]"
+  - "[[Predictive Validity]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
@@ -45,10 +46,12 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Questionnaire]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Derek de Solla Price]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
 confidence: medium
 status: draft
 created: 2026-10-22
@@ -82,7 +85,7 @@ updated: 2026-10-29
 > [!method-stack] 数据、[[Variable|变量]]与模型
 > - **数据来源** Web of Science 核心合集、Scopus、Dimensions、PubMed 等标准化引文数据库，以及跨学科预印本库。
 > - **核心变量** 历年发文总量、发文年均复合增长率、篇均被引频次、相对引文影响因子、节点度中心度（Degree Centrality）、中介中心度（Betweenness Centrality）。
-> - **分析模型** 普赖斯文献增长模型、布拉德福文献离散定律、共词分析（Co-word Analysis）、文献共被引分析（Co-citation Analysis）、引文关联分析（Bibliographic Coupling）及社区发现聚类算法（如 Louvain 算法、InfoMap）。
+> - **分析模型** [[Derek de Solla Price|普赖斯]]文献增长模型、布拉德福文献离散定律、共词分析（Co-word Analysis）、文献共被引分析（Co-citation Analysis）、引文关联分析（Bibliographic Coupling）及社区发现聚类算法（如 Louvain 算法、InfoMap）。
 > - **可视化技术** 知识图谱网络图、密度热力图、时间线叠加图谱，通过节点尺寸表征被引权重，通过连线粗细表征共现强度。
 
 ---
@@ -124,4 +127,4 @@ updated: 2026-10-29
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024, pp. 29–32)]] — 运用文献计量分析比对公共卫生与教育循证政策研究的发文增长率（30.5% vs 23.6%）与共被引网络，揭示教育证据研究社群高度自指与分散碎片的结构特征。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021, pp. 8–12, 17–23)]] — 基于全球数千万学者与近亿篇学术文献的全量引文数据，运用文献计量分析测定科研生产力的人均百年稳态、对数正态长尾分布与 h 指数的长期前瞻预测效度。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021, pp. 8–12, 17–23)]] — 基于全球数千万学者与近亿篇学术文献的全量引文数据，运用文献计量分析测定科研生产力的人均百年稳态、对数正态长尾分布与 h 指数的长期前瞻[[Predictive Validity|预测效度]]。

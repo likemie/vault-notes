@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -94,10 +94,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　次国家产业集聚与国家创新系统构成共生互补而非替代关系
-
-> [!concept-lens] 空间集聚层级与国家[[Unit of Analysis|分析单位]]的辩证法
-> 探讨次国家产业集聚（Nether Regions）的勃兴是否意味着国家分析单位已经过时。
+> [!concept-proposition] 命题一｜次国家产业集聚与[[National Innovation System|国家创新系统]]构成共生互补而非替代关系
+> **探讨维度　空间集聚层级与国家[[Unit of Analysis|分析单位]]的辩证法** 探讨次国家产业集聚（Nether Regions）的勃兴是否意味着国家分析单位已经过时。
 
 > [!claim] [[Chris Freeman|Freeman, C.]]
 > **下层区域是国家系统的底座** 硅谷或意大利产业区的蓬勃发展，并未削弱[[National Innovation System|国家创新系统]]的不可替代性；次国家产业区所依托的专利法规、主权货币、基础研究资助与国民高等教育体系，全部由国家层面提供保障，[[Agglomeration Externalities|集聚经济]]从工业革命伊始就始终是支撑国家[[Systems of Innovation|创新系统]]的微观基石。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]

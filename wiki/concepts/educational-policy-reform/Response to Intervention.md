@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -147,20 +147,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　通用原则性 RTI 的系统失效源于缺乏经过实验验证的具体教学方案填充
-
-> [!concept-lens] [[Implementation Fidelity\|实施保真度]]与方案具体性
-> 探讨组织流程与教学内容脱节如何导致大型政策干预在大规模实施中流于形式。
+> [!concept-proposition] 命题一｜通用原则性 RTI 的系统失效源于缺乏经过实验验证的具体教学方案填充
+> **探讨维度　[[Implementation Fidelity\|实施保真度]]与方案具体性** 探讨组织流程与教学内容脱节如何导致大型政策干预在大规模实施中流于形式。
 
 > [!claim] [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]
 > **抽象原则无法转化为课堂效能** 联邦政府虽然在《个体残疾人教育法》（IDEA 2004）中确立了 RTI 框架，但美国[[National Center for Education Evaluation and Regional Assistance\|国家教育评估与区域援助中心]]（National Center for Education Evaluation and Regional Assistance, NCEE）的全国[[Cohort Study\|追踪研究]]显示，RTI 未能显著提高后进学生的阅读成绩。其根本原因在于政策仅提供了分层筛选的抽象原则，而未提供具体可操作、有教材和培训配套的循证方案；一线教师因缺乏结构化工具支持，往往退回传统无效的教学惯性中。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
 
 ---
 
-### 命题二　以循证个别与小组辅导充实 Tier 2 与 Tier 3 能有效缩小群体学业鸿沟
-
-> [!concept-lens] [[Tutoring Interventions|辅导干预]]的因果效能与成本效益
-> 分析不同师资类型（教师、助教、有偿志愿者）在一对一与[[Small Group Tuition|小组辅导]]中的实证效能矩阵。
+> [!concept-proposition] 命题二｜以循证个别与[[Small Group Tuition|小组辅导]]充实 Tier 2 与 Tier 3 能有效缩小群体学业鸿沟
+> **探讨维度　[[Tutoring Interventions|辅导干预]]的因果效能与成本效益** 分析不同师资类型（教师、助教、有偿志愿者）在一对一与[[Small Group Tuition|小组辅导]]中的实证效能矩阵。
 
 > [!claim] [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]
 > **经过专业培训的助教辅导效能逼近认证教师** 在阅读和数学领域，由经过系统培训并使用高度结构化材料的教学助教开展的小组辅导（TIER 2）和一对一辅导（Tier 3），其[[Effect Size\|效应量]]（+0.22 至 +0.81）与高成本的认证专业教师相当；这使得公立学校在现有财政约束下，完全有能力常态化铺设覆盖全员的高强度个别化辅导网络。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

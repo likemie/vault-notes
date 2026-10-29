@@ -29,7 +29,7 @@ title: "Argument_Zhao_2025_JIntell"
 argument_key: "Argument_Zhao_2025_JIntell"
 argument_display_title: "Does generative artificial intelligence improve students' higher-order thinking? A meta-analysis based on 29 experiments and quasi-experiments"
 argument_kind: "journal-article"
-argument_related_count: 61
+argument_related_count: 64
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -37,7 +37,7 @@ sources:
   - "[[sources/Zhao_2025_JIntell/Zhao_2025_JIntell|Zhao_2025_JIntell]]"
 journal: "Journal of Intelligence"
 created: 2026-09-05
-updated: 2026-10-26
+updated: 2026-10-29
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Self-Regulated Learning]]"
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[Working Memory]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Zone of Proximal Development]]"
@@ -77,7 +78,9 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Interaction Effect]]"
   - "[[Task Structure]]"
+  - "[[Coding Education]]"
   - "[[Engineering Education]]"
+  - "[[Co-Teaching]]"
   - "[[Socratic Dialogue]]"
   - "[[Fade-out Effect]]"
   - "[[External Validity]]"
@@ -120,7 +123,7 @@ status: draft
 
 > [!concept-lens] 阅读透镜
 > - **对象** 2022 年底 ChatGPT 问世至 2025 年 8 月间公开发表的 29 项中英文实验与准[[Experimental Research\|实验研究]]，涵盖 59 个独立[[Effect Size\|效应量]]与广泛大中小学跨学科教学场景。
-> - **张力** 既有实证文献在“[[Scaffolding\|认知脚手架]]假说”（释放[[Working Memory\|工作记忆]]以激活深层反思）与“捷析学习假说”（机械套用现成结果导致批判与创新能力侵蚀）之间存在严重分歧，且缺乏对高阶思维认知子维度与调节变量的系统量化整合。
+> - **张力** 既有实证[[Document|文献]]在“[[Scaffolding\|认知脚手架]]假说”（释放[[Working Memory\|工作记忆]]以激活深层反思）与“捷析学习假说”（机械套用现成结果导致批判与创新能力侵蚀）之间存在严重分歧，且缺乏对高阶思维认知子维度与调节变量的系统量化整合。
 > - **贡献** 首次针对生成式 AI 与高阶思维的因果关联展开严谨一阶[[Meta-analysis\|元分析]]，确立了“问题解决 $>$ 批判思维 $>$ 创造力”的效应梯度，实证揭示了 8–16 周的中期干预黄金窗口与自主调节学习能力的决定性门槛，构建了[[Man-Computer Symbiosis|人机协同]]促进高阶思维的综合理论模型。
 
 ---
@@ -217,7 +220,7 @@ status: draft
 
 ---
 
-> [!claim] 论证步骤一　生成式 AI 整体显著促进高阶思维：效应量达到中等偏大水平且具备发表稳健性
+> [!claim|step] 论证步骤一　生成式 AI 整体显著促进高阶思维：效应量达到中等偏大水平且具备发表稳健性
 > 基于 29 项实验与准[[Experimental Research\|实验研究]]的一阶[[Meta-analysis\|元分析]]表明，[[Generative Artificial Intelligence\|生成式人工智能]]对学生[[Higher-Order Thinking Skills\|高阶思维]]具有统计学上显著且中等偏大的促进作用（Hedges' $g = 0.609, p < 0.001$）；异质性检验与发表偏倚审计表明该结论稳健可靠，有力证实了生成式 AI 完全有潜力成为有效的外部[[Scaffolding\|认知脚手架]]。
 
 > [!evidence-grid] 支持步骤一主张的证据
@@ -271,7 +274,7 @@ status: draft
 
 ---
 
-> [!claim] 论证步骤二　高阶思维内部呈现显著的维度分化：问题解决获益最深，批判性思维次之，创造力相对有限
+> [!claim|step] 论证步骤二　高阶思维内部呈现显著的维度分化：问题解决获益最深，批判性思维次之，创造力相对有限
 > 生成式 AI 对高阶思维不同维度的促进效果存在明显分化：对以逻辑推理和方案排错为核心的[[Problem Solving\|问题解决能力]]帮助最大（$g = 0.745$）；对注重证据核查与质疑反思的[[Critical Thinking\|批判性思维]]同样有显著提升（$g = 0.691$）；但对高度依赖个人独特创意的[[Creativity\|创造力]]帮助相对有限（$g = 0.444$）。这种效果上的差异，反映出大语言模型基于概率生成内容的特点，与人类不同思维方式之间的契合程度存在明显不同。
 
 > [!evidence-grid] 支持步骤二主张的证据
@@ -318,7 +321,7 @@ status: draft
 
 ---
 
-> [!claim] 论证步骤三　自主调节学习能力与干预周期构成决定促学成效的核心边界调节条件
+> [!claim|step] 论证步骤三　自主调节学习能力与干预周期构成决定促学成效的核心边界调节条件
 > 生成式 AI 并不是包治百病的万灵药，其促学成效很大程度上取决于使用时长与学生自身的自律调控水平：教学干预并非越长越好，而是存在一个 8–16 周的最佳黄金期（呈现明显的倒 U 型曲线）；同时，学生的[[Self-Regulated Learning\|自主调节学习]]能力（SRL）起到了决定性的分流作用（组间差异极显著，$p < 0.001$）——自律强的学生收获巨大，自律弱的学生获益寥寥。只有在清晰的教学引导与学生主动思考的配合下，AI 的促学潜能才能真正稳定发挥。
 
 > [!evidence-grid] 支持步骤三主张的证据
@@ -370,7 +373,7 @@ status: draft
 > 2. **[[Learner Autonomy\|自主学习]]能力是防止思维退化的关键防线** 学生的自我调节学习能力构成了区分最终成效的最关键因素（组间方差 $Q_b = 40.962$）。自律性高的学生能把 AI 当作平等探讨的伙伴和启发思维的“磨刀石”，持续提出深度问题；相反，缺乏自律和反思习惯的学生，很容易沉迷于 AI 给出的现成答案，放弃自己的思考，导致思维训练形同虚设。
 > 3. **教学引导与真实任务是发挥 AI 价值的必要保障** 中小学阶段效果更好（$g = 0.857$），正是因为有老师在课堂上的明确指导、步骤规范和即时监督；而大学生的自主学习环境相对宽松，一旦缺乏指导，就容易滑向直接用 AI 代写、翻译或抄代码的投机行为（Li et al., 2024c; Sun et al., 2024）。这与[[Project-Based Learning\|项目式学习]]（PBL, $g = 0.717$）取得的显著效果一致——只有将 AI 放在真实、复杂且有挑战性的实际任务中，它才能从单纯的“答案生成器”真正转变为“思维加速器”。
 
-> [!case] 代表性实证案例：编程教育中的“捷径式学习”与认知外包反思（Sun et al., 2024）
+> [!case] 代表性实证案例：[[Coding Education|编程教育]]中的“捷径式学习”与认知外包反思（Sun et al., 2024）
 > - **实证观察情境** Sun et al. (2024) 在高校计算机专业《程序设计基础》课程中系统追踪了大学生使用生成式 AI（ChatGPT）的编码行为与认知轨迹。
 > - **认知外包与退化表现** 研究发现，缺乏高自主调节能力的学生在遭遇编程难题时，行为模式高度趋同于“捷径式学习”（Shortcut Learning）：直接复制题目 Prompt 索取完整代码，跳过算法流程设计、变量声明思考与关键语句排错过程；更严重的是，当 ChatGPT 产生含有隐蔽逻辑漏洞的错误代码时，这类学生毫无查错能力，盲目粘贴提交。
 > - **长远后果** 最终测试表明，过度依赖 AI 走捷径的学生在独立编程测验与代码架构解释任务中表现极其糟糕，核心概念理解发生实质性滑坡。这一经典案例为本元分析中“低 SRL 组促学效应仅为 $0.284$”以及“长期干预易诱发认知外包”提供了鲜活的质性微观注脚。
@@ -380,7 +383,7 @@ status: draft
 > - **人机协同交互形态** 学生组成跨学科团队，将 Gen-AI 作为“认知合作者（Cognitive Partner）”融入项目生命周期：AI 不仅协助梳理物理流体力学边界条件、提供多种仿真代码思路，还帮助团队比对不同工程方案的可行性与成本风险，支撑团队进行多次原型迭代。
 > - **成效证实** 实证数据显示，结合了真实 PBL 的人机协同不仅大幅提升了工程方案问题解决效率，而且通过团队集体效能感显著激发了学生的创造性设计思维。Shahzad et al. (2024) 亦在高等教育实证中验证了该模式对创意与表现的联合促进，印证了本元分析中 PBL 亚组高达 $g = 0.717$ 的优异成效。
 
-> [!pathways] 促进高阶思维的人机协同教学建议
+> [!pathways] 促进高阶思维的人机[[Co-Teaching|协同教学]]建议
 > 1. **分阶段逐步撤去[[Scaffolding\|脚手架]]（Phased Scaffolding Fading）** 教学中应避免长期无限制地使用 AI。建议采用“初步引入 $\rightarrow$ 引导协作 $\rightarrow$ 逐步撤去辅助（Fading）$\rightarrow$ 独立反思”的分阶段设计，在学生熟练掌握方法后适时撤去 AI，促使学生独立完成推导论证与创意方案，避免产生思维依赖。（[[Argument_Wang_Liang_Chen_2025_CES|Wang et al., 2025, p. 14]]）
 > 2. **引导式人机互动与启发式提示（Guided Heuristic Prompting）** 避免让学生直接向 AI 索取现成答案。教师可预先设计提示语规范，引导 AI 扮演[[Socratic Dialogue\|苏格拉底式对话]]者，多提供反问、反例、方案对比或排错线索，促使学生始终保持主动思考与质疑探究的状态。（Lee et al., 2024; Gonsalves, 2024, pp. 6, 14）
 > 3. **显性培养自主调节学习能力（SRL）与元认知** 将元认知和自律能力的训练融入日常课程。指导学生如何审视 AI 生成的内容、辨别事实真伪与算法偏见，并通过明确的自评步骤，帮助学生养成“设立目标—监控过程—多方核对—反思改进”的良好[[Learner Autonomy\|自主学习]]习惯。（Xu et al., 2024; Wang & Huang, 2024, pp. 15–16）

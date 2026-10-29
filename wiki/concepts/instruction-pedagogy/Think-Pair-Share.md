@@ -7,7 +7,7 @@ aliases:
 summary: "由 Frank Lyman（1981）提出的一种低门槛、短周期的即时合作学习策略，通过独立思考（Think）、同伴配对研讨（Pair）与全班展示（Share）三阶段结构，保障全体学生的课堂等待时间、认知加工深度与口头参与度。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Totally Pedagogised Society]]"
   - "[[Cooperative Learning]]"
   - "[[Active Learning]]"
+  - "[[Teacher Questioning]]"
   - "[[Scaffolding]]"
   - "[[Group Investigation]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -28,6 +29,7 @@ related_concepts:
   - "[[Structured Teaching]]"
   - "[[Open-Mindedness]]"
   - "[[Heterogeneity]]"
+  - "[[Learning Strategies]]"
   - "[[Academic Achievement]]"
 related_theories: []
 related_methods:
@@ -41,13 +43,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Think-Pair-Share
-> Think-Pair-Share（思考-配对-分享，[[Totally Pedagogised Society\|TPS]]）是由 Frank Lyman（1981）开发的一种多阶段、短周期的即时[[Cooperative Learning\|合作学习]]与[[Active Learning\|主动学习]]策略。该策略将课堂提问与交互过程结构化为三个相继阶段：首先让学生独立静思（Think），随后与相邻同伴结对讨论与相互解释（Pair），最后面向全班分享经过协商提炼的观点（Share），旨在最大化全体学生的课堂参与度、思考等待时间（Wait Time）与认知加工深度。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
+> Think-Pair-Share（思考-配对-分享，[[Totally Pedagogised Society\|TPS]]）是由 Frank Lyman（1981）开发的一种多阶段、短周期的即时[[Cooperative Learning\|合作学习]]与[[Active Learning\|主动学习]]策略。该策略将[[Teacher Questioning|课堂提问]]与交互过程结构化为三个相继阶段：首先让学生独立静思（Think），随后与相邻同伴结对讨论与相互解释（Pair），最后面向全班分享经过协商提炼的观点（Share），旨在最大化全体学生的课堂参与度、思考等待时间（Wait Time）与认知加工深度。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 通过微型时间结构的强制约束，将传统课堂中仅少数积极分子参与的师生单向问答，转化为全体学生均有独立思考与表达机会的同伴互动结构。
@@ -90,20 +92,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　TPS 通过保证充足的思考等待时间与低风险口头排练显著提升深层概念理解
-
-> [!concept-lens] 认知排练与心理安全机制
-> 独立静思提供了深层语义加工的时间窗口，而同伴配对则提供了低风险的观点试错与口头排练机会，有效降低课堂焦虑并激活主动认知。
+> [!concept-proposition] 命题一｜[[Totally Pedagogised Society|TPS]] 通过保证充足的思考等待时间与低风险口头排练显著提升深层概念理解
+> **探讨维度　认知排练与心理安全机制** 独立静思提供了深层语义加工的时间窗口，而同伴配对则提供了低风险的观点试错与口头排练机会，有效降低课堂焦虑并激活主动认知。
 
 > [!claim] Lyman; Slavin
 > **等待时间与同伴协商驱动认知深化** [[Totally Pedagogised Society\|TPS]] 突破了传统课堂“提问即回答”的浅层记忆反应模式；强制性的静思时间保证了复杂[[Higher-Order Thinking Skills\|高阶思维]]的发生，同伴间的促进性对话促使学生在向他人解释概念的过程中完成自我知识结构的重组与精细化加工。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]
 
 ---
 
-### 命题二　作为综合合作学习的基础组件，TPS 广泛赋能各类学科的常态课堂互动
-
-> [!concept-lens] 微结构的普遍可迁移性与嵌入性
-> TPS 具有极高的情境适应性，能够无缝嵌入语言、科学、数学与社科教学中，成为现代[[Constructivist Paradigm\|建构主义]]课堂不可或缺的高频微技术。
+> [!concept-proposition] 命题二｜作为综合[[Cooperative Learning|合作学习]]的基础组件，TPS 广泛赋能各类学科的常态课堂互动
+> **探讨维度　微结构的普遍可迁移性与嵌入性** TPS 具有极高的情境适应性，能够无缝嵌入语言、科学、数学与社科教学中，成为现代[[Constructivist Paradigm\|建构主义]]课堂不可或缺的高频微技术。
 
 > [!claim] Güngör et al.
 > **微技术对大班课堂全员参与的普适支撑** 在[[Meta-meta-analysis\|二阶元分析]]所涵盖的综合[[Cooperative Learning\|合作学习]]研究池中，TPS 是一线教师使用频次最高、普及面最广的即时交互技术，为合作学习整体取得 $ES = 0.71$ 的学业与思维增益奠定了基础层面的全员参与保障。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–6)]]
@@ -138,7 +136,7 @@ updated: 2026-10-25
 >
 > | 一阶元分析 | 效应值 | 95% CI | 效应指标与模型 | $k$ / $N$ | 当前概念角色与总体结果 | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | 综合合作学习研究池，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.61"><span class="b12"></span></span>0.61 | [0.40, 0.81] | Cohen's $d$ / 随机效应模型 | $k = 14$（一阶汇总效应数） / $N = —$ | 干预因素：[[Totally Pedagogised Society\|TPS]] 作为核心组成部分的综合[[Cooperative Learning\|合作学习]]对总体学习产出的促进效应 | — | 在一阶元分析中通常作为常态课堂综合合作学习策略整合报告 |
+> | 综合合作学习研究池，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.61"><span class="b12"></span></span>0.61 | [0.40, 0.81] | Cohen's $d$ / 随机效应模型 | $k = 14$（一阶汇总效应数） / $N = —$ | 干预因素：[[Totally Pedagogised Society\|TPS]] 作为核心组成部分的综合[[Cooperative Learning\|合作学习]]对总体学习产出的促进效应 | — | 在一阶元分析中通常作为常态课堂综合合作[[Learning Strategies\|学习策略]]整合报告 |
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>

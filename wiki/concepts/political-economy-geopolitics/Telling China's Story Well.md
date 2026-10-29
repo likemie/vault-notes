@@ -9,10 +9,10 @@ aliases:
 summary: "中国官方新时代对外传播与意识形态话语建构的战略范式，旨在通过多元主体主动宣介中国发展成就、制度道路与文明价值，以抗衡西方话语霸权并争夺国际话语权"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 36
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept
   - geopolitics
@@ -20,6 +20,7 @@ tags:
   - theme/critical-policy
   - region/china
 related_concepts:
+  - "[[Public Diplomacy]]"
   - "[[Discourse]]"
   - "[[Beijing Consensus]]"
   - "[[Geopolitics]]"
@@ -31,9 +32,14 @@ related_concepts:
   - "[[Language Skills]]"
   - "[[Buen Vivir]]"
   - "[[Cultural Recognition]]"
+  - "[[Educational Diplomacy]]"
+  - "[[Educational Soft Power]]"
+  - "[[Alumnus Effect]]"
+  - "[[Para-Diplomatic Roles]]"
   - "[[Student Mobility]]"
   - "[[South-South Cooperation]]"
   - "[[Education Going Global]]"
+  - "[[International Branch Campus]]"
   - "[[Grand Theory]]"
   - "[[Variable]]"
 related_theories:
@@ -44,10 +50,14 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Semi-structured Interview]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Rui Yang]]"
 related_facts:
-  - "[[Belt and Road Initiative]]"
+  - "[[ASEAN]]"
+  - "[[Xiamen University Malaysia]]"
   - "[[Confucius Institute]]"
+  - "[[Luban Workshop]]"
+  - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_Woo_2023_HEP]]"
   - "[[Argument_Zhu_Yang_2025_HE]]"
@@ -55,13 +65,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Telling China's Story Well
-> 讲好中国故事（Telling China's Story Well，全称“讲好中国故事，传播好中国声音”）是中国官方在新时代确立的对外战略传播与公共外交核心理念。该理念主张突破西方主流媒体与政治叙事对中国形象的垄断定性，动员政府、媒体、高校学者、海外留学生及在华外籍师生等多重主体，生动展示中国发展成就、阐释中国特色社会主义制度优势，并向全球南方国家积极推介治国理政经验，以此构建客观多元的国际[[Discourse|话语]]权。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 686–687)]]
+> 讲好中国故事（Telling China's Story Well，全称“讲好中国故事，传播好中国声音”）是中国官方在新时代确立的对外战略传播与[[Public Diplomacy|公共外交]]核心理念。该理念主张突破西方主流媒体与政治叙事对中国形象的垄断定性，动员政府、媒体、高校学者、海外留学生及在华外籍师生等多重主体，生动展示中国发展成就、阐释中国特色社会主义制度优势，并向全球南方国家积极推介治国理政经验，以此构建客观多元的国际[[Discourse|话语]]权。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 686–687)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种由执政党顶层理念主导、跨部门广泛动员的外向型符号表征与意义建构战略。
@@ -112,26 +122,22 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　跨国教育与对外学术交流被赋予讲好中国故事与宣介发展模式的政治职能
-
-> [!concept-lens] 教育[[Discourse|话语]]工具化维度
-> 探究教育对外合作政策如何将中外师生的人际交往转化为国家叙事建构的制度化通道。
+> [!concept-proposition] 命题一｜跨国教育与对外学术交流被赋予讲好中国故事与宣介发展模式的政治职能
+> **探讨维度　教育[[Discourse|话语]]工具化维度** 探究教育对外合作政策如何将中外师生的人际交往转化为国家叙事建构的制度化通道。
 
 > [!claim] Woo, E.
 > **新时代对外开放文件的政治动员要求** Woo 指出，中央《关于做好新时期教育对外开放工作的若干意见》与教育行动方案将“讲好中国故事”列为核心导向，要求海外留学人员积极宣介国家发展成就、引导在华外籍师生认同中国道路，表明教育交流在深层被视为服务执政党政治抱负与国际话语争夺的强力推进工具。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 686)]]
 
 > [!claim] [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]]
-> **高教作为对外叙事先锋与国情课程时代转向** 朱一和杨锐指出，为化解周边国家对华夏中心秩序重建的疑虑，中国官方对外战略由“和平崛起”推进为“讲好中国故事”，高等教育系统在其中充当了构建国家叙事的先锋阵地。自 2017 年教育部将《中国概况》设为国际学历生必修课以来，课程内容发生深刻转向：由以往聚焦[[Language Skills|语言技能]]与古代传统文化符号，转向全面涵盖当代经济、科技、社会与国家治理实绩，教材中古代与现当代知识点比例达到 1:1.2。半数受访留学生证实教师在课堂中大量讲授当代发展经验与流行文化，推动对外传播转向以展示现代[[Buen Vivir|美好生活]]与经济成就为核心的[[Cultural Recognition|文化认同探索]]。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 8–9, 13)]]
+> **高教作为对外叙事先锋与国情课程时代转向** 朱一和[[Rui Yang|杨锐]]指出，为化解周边国家对华夏中心秩序重建的疑虑，中国官方对外战略由“和平崛起”推进为“讲好中国故事”，高等教育系统在其中充当了构建国家叙事的先锋阵地。自 2017 年教育部将《中国概况》设为国际学历生必修课以来，课程内容发生深刻转向：由以往聚焦[[Language Skills|语言技能]]与古代传统文化符号，转向全面涵盖当代经济、科技、社会与国家治理实绩，教材中古代与现当代知识点比例达到 1:1.2。半数受访留学生证实教师在课堂中大量讲授当代发展经验与流行文化，推动对外传播转向以展示现代[[Buen Vivir|美好生活]]与经济成就为核心的[[Cultural Recognition|文化认同探索]]。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 8–9, 13)]]
 
 > [!claim] [[Argument_Velasco_2022_CSJ|Velasco (2022)]]
-> **东南亚教育外交三大支柱与叙事传导的双重机制** Velasco 考察中国在东南亚的高等教育软实力战略指出，大学通过三大支柱承担讲好中国故事与塑造国家形象的对外职能：其一，通过奖学金吸纳东盟学生（2018 年逾 8 万人），并利用“校友效应”向其本土社会传播积极国家形象；其二，在马来西亚与老挝建立实体分校（如厦大马校与苏大老挝分校），在驻在地提供优质教育与人文交流；其三，在大学内嵌入孔子学院与鲁班工坊开展文化转译。这一跨国高教网络依托“校友效应”与“次外交角色”（para-diplomatic roles）展开叙事传播，但其实际认同塑造效能受制于南海主权争端等硬地缘政治矛盾的对冲。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 83–86)]]
+> **东南亚[[Educational Diplomacy|教育外交]]三大支柱与叙事传导的双重机制** Velasco 考察中国在东南亚的[[Educational Soft Power|高等教育软实力]]战略指出，大学通过三大支柱承担讲好中国故事与塑造国家形象的对外职能：其一，通过奖学金吸纳[[ASEAN|东盟]]学生（2018 年逾 8 万人），并利用“[[Alumnus Effect|校友效应]]”向其本土社会传播积极国家形象；其二，在马来西亚与老挝建立实体分校（如[[Xiamen University Malaysia|厦大马校]]与苏大老挝分校），在驻在地提供优质教育与人文交流；其三，在大学内嵌入[[Confucius Institute|孔子学院]]与[[Luban Workshop|鲁班工坊]]开展文化转译。这一跨国高教网络依托“校友效应”与“[[Para-Diplomatic Roles|次外交角色]]”（para-diplomatic roles）展开叙事传播，但其实际认同塑造效能受制于南海主权争端等硬[[Geopolitics|地缘政治]]矛盾的对冲。[[Argument_Velasco_2022_CSJ|(Velasco, 2022, pp. 83–86)]]
 
 ---
 
-### 命题二　讲好中国故事旨在构建抗衡西方普遍主义霸权的替代性国际话语权
-
-> [!concept-lens] 地缘话语权争夺维度
-> 探究国家叙事构建如何在发展中国家与中等强国中塑造替代西方模式的制度认同。
+> [!concept-proposition] 命题二｜讲好中国故事旨在构建抗衡西方普遍主义霸权的替代性国际话语权
+> **探讨维度　地缘话语权争夺维度** 探究国家叙事构建如何在发展中国家与中等强国中塑造替代西方模式的制度认同。
 
 > [!claim] Halper, S.
 > **发展型治理叙事对新兴经济体的吸引力** Halper 论证指出，对于面临脱贫与社会稳定压力的全球南方国家而言，展现高增长与强秩序的中国治理故事比充满选举摩擦与紧缩周期的西方市场民主模式更具现实感召力；讲好中国故事实质上是向非西方世界输出替代性现代化路径的符号实践。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 689)]]
@@ -151,7 +157,7 @@ updated: 2026-10-26
 > - **2016年 — 深度融入教育对外开放** 中央两办印发《关于做好新时期教育对外开放工作的若干意见》，首次将讲好中国故事与高校境外交流、[[Student Mobility|学生流动]]及来华留学紧密结合。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 686)]]
 > - **2021年 — 国际传播能力系统化提升** 中央政治局就加强我国国际传播能力建设进行集体学习，强调下大气力加强国际传播能力建设，形成同我国综合国力和国际地位相匹配的国际[[Discourse|话语]]权。
 > - **当前阶段 — 融通民间与多边机制** 讲好中国故事全面融入“[[Belt and Road Initiative|一带一路]]”[[Education Going Global|教育出海]]、[[Confucius Institute|孔子学院]]教学与国际青年交流工程中。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 686, 695)]]
-> - **2022年 — 东南亚高教叙事支柱、双重时间机制与地缘制约** [[Argument_Velasco_2022_CSJ|Velasco (2022)]] 考察中国对东盟教育外交，系统提炼出高校境外办学、留学生招募与孔院网络三大实践支柱，揭示“校友效应”与“次外交”双重传导机制及其遭遇的地缘防范制约。
+> - **2022年 — 东南亚高教叙事支柱、双重时间机制与地缘制约** [[Argument_Velasco_2022_CSJ|Velasco (2022)]] 考察中国对东盟教育外交，系统提炼出高校[[International Branch Campus|境外办学]]、留学生招募与孔院网络三大实践支柱，揭示“校友效应”与“次外交”双重传导机制及其遭遇的地缘防范制约。
 > - **2025年 — 高教叙事先锋与国情课程现代转向** [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]] 实证揭示高教系统在对外叙事中承担先锋功能，阐明留学生必修课程《中国概况》由传统历史符号转向当代科技发展、社会治理与脱贫经验的系统呈现，实证确立“[[Cultural Recognition|文化认同探索]]”的叙事机制。
 
 ---

@@ -28,6 +28,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Emergence]]"
   - "[[Research Scope]]"
+  - "[[Document]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Central Question]]"
   - "[[Publication Bias]]"
@@ -101,14 +102,14 @@ sources:
   - "[[sources/Unal_2026_JECR/Unal_2026_JECR|Unal_2026_JECR]]"
 status: draft
 created: 2026-08-25
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Unal_2026_JECR"
 argument_key: "Argument_Unal_2026_JECR"
 argument_display_title: "A second-order meta-analysis on the effects of artificial intelligence applications on student outcomes"
 argument_kind: "journal-article"
-argument_related_count: 70
+argument_related_count: 71
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -121,7 +122,7 @@ issuing_organization: ""
 ---
 
 > [!question]
-> 伴随[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI，如 ChatGPT）与智能导学系统（[[Intelligent Tutoring Systems]], ITS）在教育领域的爆发式增长，关于人工智能教育应用（[[Artificial Intelligence in Education]], AIEd）对学生[[Academic Achievement\|学业成就]]与[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）影响的一阶[[Meta-analysis\|元分析]]（First-Order Meta-analyses, FOMs）大量[[Emergence\|涌现]]。然而，现有元分析结论高度矛盾，报告的综合[[Effect Size\|效应量]]（Effect Size, ES；以标准化均数差 Standardized Mean Difference, SMD 为测度，底层涵盖 Cohen's $d$ 与 Hedges' $g$）在 $ES = .32$（微弱正向）至 $ES = 1.36$（极强正向）之间大幅波动，且各元分析在[[Research Scope\|研究范围]]、学科界定、方法学质量及所纳入的初级研究之间存在严重的文献重叠，使宏观[[Evidence-Based Policy-Making|循证决策]]陷入证据碎片化与不确定性困境。因此，需要采用[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）方法，在系统剔除文献重叠与控制方法学质量的前提下，回答两个[[Central Question\|核心研究问题]]：
+> 伴随[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI，如 ChatGPT）与智能导学系统（[[Intelligent Tutoring Systems]], ITS）在教育领域的爆发式增长，关于人工智能教育应用（[[Artificial Intelligence in Education]], AIEd）对学生[[Academic Achievement\|学业成就]]与[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）影响的一阶[[Meta-analysis\|元分析]]（First-Order Meta-analyses, FOMs）大量[[Emergence\|涌现]]。然而，现有元分析结论高度矛盾，报告的综合[[Effect Size\|效应量]]（Effect Size, ES；以标准化均数差 Standardized Mean Difference, SMD 为测度，底层涵盖 Cohen's $d$ 与 Hedges' $g$）在 $ES = .32$（微弱正向）至 $ES = 1.36$（极强正向）之间大幅波动，且各元分析在[[Research Scope\|研究范围]]、学科界定、方法学质量及所纳入的初级研究之间存在严重的[[Document|文献]]重叠，使宏观[[Evidence-Based Policy-Making|循证决策]]陷入证据碎片化与不确定性困境。因此，需要采用[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）方法，在系统剔除文献重叠与控制方法学质量的前提下，回答两个[[Central Question\|核心研究问题]]：
 > 1. 人工智能（Artificial Intelligence, AI）教育应用对学生的整体学习成果（包括学业成就与高阶思维技能）究竟产生多大程度的综合效应？
 > 2. 这种教育干预效应是否在成果类型、AI 工具类型、教育阶段、学科领域、[[Publication Bias\|发表偏倚]]状态以及元分析方法学质量等调节[[Variable\|变量]]上呈现系统性差异？
 
@@ -236,7 +237,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　现有 FOM 证据分歧与检索筛选：二阶元分析的必要性与 PRISMA 流程
+> [!claim|step] 论证步骤一　现有 FOM 证据分歧与检索筛选：二阶元分析的必要性与 PRISMA 流程
 > 现有 AI 教育一阶[[Meta-analysis\|元分析]]由于[[Research Scope\|研究范围]]差异、学科聚焦局限及方法学决策不同，导致宏观[[Effect Size\|效应量]]在微弱正向（$ES = .32$）至极高正向（$ES = 1.36$）之间剧烈震荡；必须通过严密的 [[PRISMA]] 2020 流程进行系统检索与准入筛选，以建立高质量[[Meta-meta-analysis\|二阶元分析]]数据集。
 
 > [!chain-link] 证据到判断
@@ -256,7 +257,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　初级研究重叠审计与质量评级：GROOVE/CCA 矩阵与 R-AMSTAR 检验
+> [!claim|step] 论证步骤二　初级研究重叠审计与质量评级：GROOVE/CCA 矩阵与 R-AMSTAR 检验
 > 文献重叠会导致初级[[Study Population and Sample\|研究样本]]被重复赋予加权方差，从而人为缩窄[[Confidence Interval\|置信区间]]并膨胀假阳性；必须采用 [[GROOVE]] [[Corrected Covered Area\|校正覆盖面积]]（CCA）矩阵剔除重叠率超过 10% 的元分析，并运用 R-[[AMSTAR]] 验证纳入数据集的方法学高质量属性。
 
 > [!chain-link] 证据到判断
@@ -303,7 +304,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　总体效应合并与[[Heterogeneity|异质性]]检验：AI 对学生成果的中等正向效应
+> [!claim|step] 论证步骤三　总体效应合并与[[Heterogeneity|异质性]]检验：AI 对学生成果的中等正向效应
 > 在[[Random-Effects Model\|随机效应模型]]下，二阶元分析证实人工智能教育应用对学生的整体学习成果产生统计显著的中等程度正向效应（$ES = .67$，95% CI = [.55, .78]，SE = .06）；同时数据集呈现出高度统计[[Heterogeneity\|异质性]]（$I^2 = 84.78\%$），表明真实效应量因教学情境特征产生实质分化。
 
 > [!chain-link] 证据到判断
@@ -330,7 +331,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤四　分类调节变量分析：教育阶段与学科领域的系统性制约机制
+> [!claim|step] 论证步骤四　分类调节变量分析：教育阶段与学科领域的系统性制约机制
 > AI 教育应用的干预效果受到教育阶段与学科领域的显著调节（$p < .05$）：K12 阶段的效应显著弱于高等教育与混合阶段，计算机科学领域的增益最为突出而数学领域最弱；与此同时，不同 AI 工具类型、学习成果类型及方法学质量等级之间未呈现显著差异。
 
 > [!chain-link] 证据到判断
@@ -381,7 +382,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤五　连续调节变量元回归与数据集敏感性分析：研究规模与列表缺失检验
+> [!claim|step] 论证步骤五　连续调节变量元回归与数据集敏感性分析：研究规模与列表缺失检验
 > [[Second-Order Meta-Regression\|二阶元回归]]分析表明，学生样本规模与发表年份不能预测元分析效应量，但纳入的初级研究数量对效应量具有显著的正向预测力；敏感性分析进一步证实，纳入 3 项未提供初级研究清单的 FOM 不会改变二阶综合的稳健性。
 
 > [!chain-link] 证据到判断
@@ -423,7 +424,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤六　发表偏倚综合诊断与证据审慎性：Egger 显著性与右偏漏斗图解读
+> [!claim|step] 论证步骤六　发表偏倚综合诊断与证据审慎性：Egger 显著性与右偏漏斗图解读
 > 四项发表偏倚检验呈现不一致结果：Egger 回归显著提示存在[[Small Study Effects\|小研究效应]]与右偏倾向，但 Begg-Mazumdar 秩相关与[[Trim and Fill Method\|剪补法]]未检测出实质性偏倚；因此必须对二阶效应量保持审慎乐观的解读态度。
 
 > [!chain-link] 证据到判断

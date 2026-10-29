@@ -4,7 +4,7 @@ aliases: [规范范式, normative model, 规则统治范式]
 summary: "道格拉斯提出的方法论上位范式，统摄实证主义与结构功能主义取向，主张人类行为本质上受规则统治，应采纳自然科学方法探究外在因果规律，追求构建普适的宏大理性大厦。"
 type: concept
 domain: "educational-philosophy"
-related_count: 37
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -23,6 +23,8 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Dialogue in Education]]"
   - "[[Determinism]]"
+  - "[[Decodification]]"
+  - "[[Document]]"
   - "[[International Education]]"
   - "[[Creativity]]"
   - "[[Technical Rationality]]"
@@ -54,7 +56,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -118,30 +120,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　人类行为在根本上由先验规则与既定前因所支配，可通过自然科学程序予以客观解码
-
-> [!concept-lens] 行为[[Ontology\|本体论]]与因果律维度
-> 探讨人类活动的本质属性。规范[[Paradigm\|范式]]坚决将人类活动归结为受法则约束的客观行为，主张外在刺激决定行为输出。
+> [!concept-proposition] 命题一｜人类行为在根本上由先验规则与既定前因所支配，可通过自然科学程序予以客观[[Decodification|解码]]
+> **探讨维度　行为[[Ontology\|本体论]]与因果律维度** 探讨人类活动的本质属性。规范[[Paradigm\|范式]]坚决将人类活动归结为受法则约束的客观行为，主张外在刺激决定行为输出。
 
 > [!claim] Douglas, J.
 > **行为受规统治与自然科学调查判定** 人类行为在本质上是受规则所统治的，因此社会科学探究必须采纳自然科学的实证方法；这一导向确立了行为的因果链条始终存在于过去刺激之中，研究者的职责在于运用标准化工具揭示支配这些行为的客观规律，而非揣摩行动者主观多变的心理遁词。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Douglas, 1973 via Cohen et al., 2011, Ch. 1, p. 17)]]
 
 ---
 
-### 命题二　理论构建的根本旨趣在于确立解释宏观集体的普适理性大厦，而非描摹微观情境意义
-
-> [!concept-lens] 理论功能与[[Epistemology\|认识论]]维度
-> 探讨社会研究理论的构建目标。规范范式主张理论应当先于并超越微观个别经验，致力于构建跨越时空的统一解释体系。
+> [!concept-proposition] 命题二｜理论构建的根本旨趣在于确立解释宏观集体的普适理性大厦，而非描摹微观情境意义
+> **探讨维度　理论功能与[[Epistemology\|认识论]]维度** 探讨社会研究理论的构建目标。规范范式主张理论应当先于并超越微观个别经验，致力于构建跨越时空的统一解释体系。
 
 > [!claim] Cohen, Manion & Morrison
 > **宏大理性大厦与集合体实在判定** 规范研究者致力于设计出涵盖人类行为的普遍理论，并借助日益复杂精密的研究方法论予以经验验证；在这一进路中，最根本的实在乃是外在于行动者的集体、制度与社会组织，研究的终极使命是构筑一座逻辑自洽的宏大理性大厦，以实现对社会全体行为的统一解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 18)]]
 
 ---
 
-### 命题三　社会现实是由相互咬合的制度结构构成的功能系统，教育研究肩负改良优化的工程职能
-
-> [!concept-lens] 组织社会学与制度变革维度
-> 探讨教育组织的本质与研究的应用价值。规范范式将学校与组织视作客观功能系统，强调通过实证规律提供政策改善处方。
+> [!concept-proposition] 命题三｜社会现实是由相互咬合的制度结构构成的功能系统，教育研究肩负改良优化的工程职能
+> **探讨维度　组织社会学与制度变革维度** 探讨教育组织的本质与研究的应用价值。规范范式将学校与组织视作客观功能系统，强调通过实证规律提供政策改善处方。
 
 > [!claim] [[Thomas Barr Greenfield\|Greenfield, T. B.]]
 > **系统实在论与社会工程变革判定** 在规范范式与系统组织观中，组织是拥有独立目标、自足法则并自我维持的实体结构，组织结构被赋予了客观规律的刚性；因此教育研究扮演着社会工程师的角色，其价值在于通过诊断组织病理与功能障碍，为决策者制定提升组织效率与系统整合的干预处方。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Greenfield, 1975 via Cohen et al., 2011, Ch. 1, pp. 8–10)]]
@@ -149,7 +145,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 围绕规范范式形成的理论命题总览
-> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
+> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **行为规则统治命题** | 人类行为受规则统治并由过去前因决定，应通过自然[[Scientific Method\|科学方法]]加以探索 | [[Variable\|变量]]化测量、刺激-反应分析、[[Causal Modeling\|因果建模]] | Douglas (1973); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 17)]] |
 > | **宏大理性大厦命题** | 理论的本质是关于集体实在的普遍理性大厦，先验于具体微观情境 | 演绎公理推演、跨情境通则检验、形式化建构 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 18)]] |

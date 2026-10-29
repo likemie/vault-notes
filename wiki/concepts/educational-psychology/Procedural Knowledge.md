@@ -8,7 +8,7 @@ aliases:
 summary: "个体关于‘如何执行任务、运用技能与操作算法’的行动化知识表征；在认知架构中通过产生式规则实现自动化编译以释放工作记忆；元分析因果证据证实，认识论认知干预能大幅促进论证与概念理解，但对程序性知识操作（d = 0.140，不显著）不产生直接促进，确立了认识论认知的任务效能边界。"
 type: concept
 domain: "educational-psychology"
-related_count: 20
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,8 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Rote Learning]]"
   - "[[Scaffolding]]"
+  - "[[Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Construct]]"
 related_theories:
   - "[[Women's Ways of Knowing]]"
@@ -44,7 +46,7 @@ related_persons:
   - "[[Gilbert Ryle]]"
 confidence: high
 created: 2026-08-15
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -85,30 +87,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　程序性知识通过规则编译与自动化实现认知负荷的经济化释放
-
-> [!concept-lens] 认知架构中的技能编译规律
-> 探讨离散认知操作如何通过长期练习转化为流畅的自动化程序，以及对心智资源分配的意义。
+> [!concept-proposition] 命题一｜程序性知识通过规则编译与自动化实现认知负荷的经济化释放
+> **探讨维度　认知架构中的技能编译规律** 探讨离散认知操作如何通过长期练习转化为流畅的自动化程序，以及对心智资源分配的意义。
 
 > [!claim] Anderson, J. R.
 > **产生式编译与技能自动化假说** 约翰·安德森（John R. Anderson）在认知架构理论中指出，个体在掌握复杂任务时必须经历陈述阶段向程序阶段的质变演化。在初始阶段，操作指令以陈述性命题形式保持在[[Working Memory\|工作记忆]]中，调用缓慢且极易发生认知过载；伴随重复练习，认知系统通过产生式合成与参数调优，将离散步骤编译为内隐的程序性单元。这种自动化不仅极大提升了任务执行的准确率与速度，更将有限的意识资源从底层常规计算中解放出来，投入到高阶问题表征与[[Problem Solving\|问题解决]]决策中。
 
 ---
 
-### 命题二　认识论干预在常规程序性任务上存在清晰的效能边界
-
-> [!concept-lens] [[Epistemic Cognition\|认识论认知]]对不同层次任务的因果[[Heterogeneity\|异质性]]
-> 探讨[[Epistemological Beliefs\|认识论信念]]的转变是否能够泛化到所有类型的[[Academic Achievement\|学业表现]]，还是局限于特定深层认知任务。
+> [!concept-proposition] 命题二｜[[Epistemology|认识论]]干预在常规程序性任务上存在清晰的效能边界
+> **探讨维度　[[Epistemic Cognition\|认识论认知]]对不同层次任务的因果[[Heterogeneity\|异质性]]** 探讨[[Epistemological Beliefs\|认识论信念]]的转变是否能够泛化到所有类型的[[Academic Achievement\|学业表现]]，还是局限于特定深层认知任务。
 
 > [!claim] Cartiff, B. M.
 > **任务层级分化与程序性操作的效能脱节** 在认识论认知干预的一阶[[Meta-analysis\|元分析]]中，干预对不同学业成就类型的提升展现出极端的分化特征。针对论证表现（$d = 1.047$）和概念性知识（$d = 0.557$），[[Epistemology\|认识论]]干预带来了中到极大幅度的因果提升；然而，在程序性知识任务（单纯按操作规程执行计算套路，如 Schiefer et al., 2017，$d = 0.140, p > .05$）以及一般常规事实小测验（$d = 0.127, p > .05$）中，干预效应微弱且未能显著异于零。这一数据确立了认识论认知的任务效能边界：认识论提升的核心功能在于打破朴素直觉、激发证据审验与概念重塑；但它无法替代具体学科常规规程的操作演练。如果测评仅仅考查照本宣科的算式套用或机械操作，认识论干预无法产生任何提分奇迹。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 488, 492)]]
 
 ---
 
-### 命题三　程序性知识与概念性知识构成非线性的双向迭代互构关系
-
-> [!concept-lens] [[Procedural Skill\|程序技能]]与概念理解的先后因果之争
-> 探讨究竟是先掌握程序规程才能理解概念原理，还是概念理解先行为程序操作提供支撑。
+> [!concept-proposition] 命题三｜程序性知识与概念性知识构成非线性的双向迭代互构关系
+> **探讨维度　[[Procedural Skill\|程序技能]]与概念理解的先后因果之争** 探讨究竟是先掌握程序规程才能理解概念原理，还是概念理解先行为程序操作提供支撑。
 
 > [!claim] Rittle-Johnson, B.
 > **双向迭代发展模型** 贝瑟尼·里特尔-约翰逊（Bethany Rittle-Johnson）等学者打破了以往“概念先决论”或“技能优先论”的单向对立，提出程序性知识与概念性知识呈现渐进递增的非线性迭代互构。学生对基础概念原理的初步理解能够催生正确的程序性尝试，减少盲目试错；而程序规程的成功实施与练习反馈反过来为学生提供了丰富的经验素材，促使其反思规则背后的逻辑必然性，从而加深概念性知识的整合度。两者并非孤立发展，而是犹如螺旋阶梯般交替促进。
@@ -154,9 +150,9 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量分类 | 论证表现（Argumentation） | Cohen's $d$ | k = 5, N = 477 | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | [0.481, 1.614] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Dependent Variable\|结果变量]]分类 | 论证表现（Argumentation） | Cohen's $d$ | k = 5, N = 477 | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | [0.481, 1.614] | — |
 > |  | 结果变量分类 | 概念性知识（Conceptual） | Cohen's $d$ | k = 19, N = 2,455 | <span class="mx-bar ef-bar" title="Cohen's d 0.557"><span class="b11"></span></span>0.557 | [0.323, 0.791] | — |
 > |  | 结果变量分类 | 陈述性知识（Declarative） | Cohen's $d$ | k = 3, N = 261 | <span class="mx-bar ef-bar" title="Cohen's d 0.494"><span class="b10"></span></span>0.494 | [0.244, 0.743] | — |
 > |  | 结果变量分类 | 一般常规知识测验 | Cohen's $d$ | k = 5, N = 1,529 | <span class="mx-bar ef-bar" title="Cohen's d 0.127"><span class="b3"></span></span>0.127 | [−0.383, 0.637] | — |

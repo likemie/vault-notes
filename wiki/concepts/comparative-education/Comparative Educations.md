@@ -8,7 +8,7 @@ aliases:
 summary: "指 1970 年代中叶以降，由于战后实证主义单一全包容科学范式在治理现实、物理学量子转向与后现代思潮中全面破裂，比较教育学演进为多个理论学派、研究取向与多元真理体制并存竞争的复数化学科格局。"
 type: concept
 domain: "comparative-education"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Discourse]]"
+  - "[[Regimes of Truth]]"
   - "[[Positivism]]"
   - "[[Agendas of Attention]]"
   - "[[Policy Borrowing]]"
@@ -32,10 +33,10 @@ related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Creativity]]"
   - "[[Falsification]]"
+  - "[[Spatial Sortings]]"
   - "[[Champ]]"
   - "[[Ontology]]"
   - "[[Epistemological Break]]"
-  - "[[Spatial Sortings]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Postmodernism]]"
@@ -59,13 +60,13 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Comparative Educations
-> “复数比较教育学”（Comparative Educations）是指 1970 年代中叶以降，伴随二战[[Postpositivism\|后实证主义]]“全包容[[Scientific Paradigm\|科学范式]]”（all-embracing scientific [[Paradigm]]）在政策治理现实、自然科学[[Epistemology\|认识论]]与跨学科学术思潮中的三重解体，比较教育学终结了由单一实证量化与功能主义垄断正统[[Discourse|话语]]的单数时代，演进为由多种理论流派、认识论传统与“真理体制”（regimes of truth）并存竞争的复数化、多极化学科格局。（Cowen, 2000; Altbach, 1991; 引自 [[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]）
+> “复数比较教育学”（Comparative Educations）是指 1970 年代中叶以降，伴随二战[[Postpositivism\|后实证主义]]“全包容[[Scientific Paradigm\|科学范式]]”（all-embracing scientific [[Paradigm]]）在政策治理现实、自然科学[[Epistemology\|认识论]]与跨学科学术思潮中的三重解体，比较教育学终结了由单一实证量化与功能主义垄断正统[[Discourse|话语]]的单数时代，演进为由多种理论流派、认识论传统与“[[Regimes of Truth|真理体制]]”（regimes of truth）并存竞争的复数化、多极化学科格局。（Cowen, 2000; Altbach, 1991; 引自 [[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]）
 
 > [!concept-lens] 概念透镜
 > - **含义** 学科称谓从单数“比较教育学”（Comparative Education）向复数“多个比较教育学”（Comparative Educations）的话语转换，标志着元理论承诺的根本变革：从追求超越时空的单一普遍因果铁律，转向承认多元认识论与方法论传统的正当性并存。
@@ -124,10 +125,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　全包容实证范式霸权的瓦解源于外在政策承诺落空与内在自然科学认识论质变的双重共振
-
-> [!concept-lens] [[Paradigm\|范式]]霸权瓦解的内外动力机制
-> 围绕战[[Postpositivism\|后实证主义]]单一正统何以在 1970 年代中叶迅速失去统摄动能展开，揭示治理失效与自然科学哲学断裂的协同效应。
+> [!concept-proposition] 命题一｜全包容实证[[Paradigm|范式]]霸权的瓦解源于外在政策承诺落空与内在自然科学[[Epistemology|认识论]]质变的双重共振
+> **探讨维度　[[Paradigm\|范式]]霸权瓦解的内外动力机制** 围绕战[[Postpositivism\|后实证主义]]单一正统何以在 1970 年代中叶迅速失去统摄动能展开，揭示治理失效与自然科学哲学断裂的协同效应。
 
 > [!claim] Mattheou, D.
 > **外在治理失败与内在[[Epistemology\|认识论]]质变的双重动因** 马修指出，单一[[Scientific Paradigm\|科学范式]]的衰退并非偶然，而是现实世界危机与自然科学哲学断裂协同作用的产物。在实践层面，实证规划不仅未兑现消除不发达与促进代际流动的诺言，反而在 1970 年代西方经济滞胀面前暴露出其方案的虚妄；在认识论层面，物理学量子力学范式证明了不确定性与混沌才是自然法则的常态，彻底终结了社会科学通过模仿物理学确立普遍必然因果律的独断论调。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 68)]]
@@ -137,10 +136,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　复数化比较教育学体现为多元真理体制共存与政策租客和学术共同体的空间分化
-
-> [!concept-lens] 学科空间的权力分立与真理体制重构
-> 探讨单一正统瓦解后学科内部如何重塑学术版图，以及实证范式与批判范式在不同空间[[Champ\|场域]]中的共生格局。
+> [!concept-proposition] 命题二｜复数化比较教育学体现为多元[[Regimes of Truth|真理体制]]共存与政策租客和学术共同体的[[Spatial Sortings|空间分化]]
+> **探讨维度　学科空间的权力分立与真理体制重构** 探讨单一正统瓦解后学科内部如何重塑学术版图，以及实证范式与批判范式在不同空间[[Champ\|场域]]中的共生格局。
 
 > [!claim] [[Robert Cowen\|Cowen, R.]] & Altbach, P.
 > **多学派并立且无一支配的复数状态** [[Philip Altbach|阿特巴赫]]与考恩明确断定，从 1980 年代起比较教育学已不存在任何占据支配地位的统一范式，因而更准确的定性是复数的“多个比较教育学”；各流派拥有自身独立的[[Ontology\|本体论]]前提与真理体制，定性、历史与批判取向获得了等同的学术合法性，多极化成为学科的核心常态。（Altbach, 1991, p. 493; Cowen, 2000; 引自 [[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]）

@@ -7,7 +7,7 @@ aliases:
 summary: "Apple 提出的批判课程论核心概念，指学校课程中被国家与支配群体选择性界定为合法、正当且值得传授的知识，反映并再生产社会中的文化权力关系与政治霸权"
 type: concept
 domain: "curriculum"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Hidden Curriculum]]"
   - "[[Powerful Knowledge]]"
+  - "[[Time Management]]"
   - "[[Discipline-Based Theory]]"
   - "[[Selectivity]]"
   - "[[Pact of Domination]]"
@@ -32,8 +33,8 @@ related_concepts:
 related_theories:
   - "[[Social Realism]]"
   - "[[Hegemony]]"
-  - "[[Knowledge Building Theory]]"
   - "[[Varieties of Capitalism]]"
+  - "[[Knowledge Building Theory]]"
 related_methods: []
 related_persons:
   - "[[Michael Young]]"
@@ -45,7 +46,7 @@ related_instruments: []
 confidence: high
 status: active
 created: '2026-05-21'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -73,7 +74,7 @@ updated: 2026-10-22
 > | 维度 | 官方知识（Official Knowledge） | [[Hidden Curriculum\|隐性课程]]（Hidden Curriculum） | 强[[Powerful Knowledge\|有力知识]]（Powerful Knowledge） |
 > |---|---|---|---|
 > | **核心视角** | 支配群体利益的合法化与文化加冕 | 规范、服从态度与阶层习惯的隐性传授 | 学科专门化、概念化与非经验的客观知识 |
-> | **载体形式** | 法定大纲、统编教材、国家考试 | 课堂秩序、时间管理、师生权力互动 | 系统化[[Discipline-Based Theory\|学科理论]]体系与抽象概念 |
+> | **载体形式** | 法定大纲、统编教材、国家考试 | 课堂秩序、[[Time Management\|时间管理]]、师生权力互动 | 系统化[[Discipline-Based Theory\|学科理论]]体系与抽象概念 |
 > | **主要理论家** | Michael Apple | Philip Jackson; Samuel Bowles | [[Michael Young]] ([[Social Realism\|社会实在论]]) |
 
 ---
@@ -99,20 +100,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　学校课程并非价值中立的知识载体而是支配群体利益合法化与文化再生产的政治装置
-
-> [!concept-lens] 课程选择性与[[Hegemony\|文化霸权]]
-> 探讨学校课程如何通过选择性合法化主流传统，将特定群体的文化价值观升格为国家常识，进而再生产不平等的[[Cultural Hierarchy\|文化等级]]。
+> [!concept-proposition] 命题一｜学校课程并非[[Value Neutrality|价值中立]]的知识载体而是支配群体利益合法化与文化再生产的政治装置
+> **探讨维度　课程选择性与[[Hegemony\|文化霸权]]** 探讨学校课程如何通过选择性合法化主流传统，将特定群体的文化价值观升格为国家常识，进而再生产不平等的[[Cultural Hierarchy\|文化等级]]。
 
 > [!claim] Michael Apple (1993/2000) & [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]]
 > **课程选择的政治性与文化等级再生产** 学校课程并非中性的自然知识积累，而是国家与支配群体将特定阶层与主流文化传统的知识选择性地合法化为正统的政治过程。在教育实践中，官方知识通过将主导群体的价值观制度化为值得传授的常识，造成边缘化非主流群体与少数民族文化的文化等级再生产。例如在必修教材中，儒家传统常被塑造为中华文化的核心等价物，而少数民族文化则被边缘化呈现。[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 59, 67–68)]]
 
 ---
 
-### 命题二　教科书审查与生产体制的控制权决定了官方知识中的国家认同形态与记忆选择
-
-> [!concept-lens] 国家事权与教科书审查机制
-> 探讨中心控制与去中心化编写体制如何塑造教科书中的国家形象，并使官方知识服务于具体的社会政治目标。
+> [!concept-proposition] 命题二｜教科书审查与[[Varieties of Capitalism|生产体制]]的控制权决定了官方知识中的国家认同形态与记忆选择
+> **探讨维度　国家事权与教科书审查机制** 探讨中心控制与去中心化编写体制如何塑造教科书中的国家形象，并使官方知识服务于具体的社会政治目标。
 
 > [!claim] [[Argument_Xu_2024_CE\|Xu (2024)]]
 > **[[One Country, Two Systems\|一国两制]]下的官方[[Knowledge Production\|知识生产]]双重逻辑** 教科书中的国家形象并非客观历史发现，而是由统治合法性与审查机制决定的官方[[Knowledge Building Theory|知识建构]]。中国大陆通过“教材是国家事权”与集中化统编审查制，将官方知识塑造为“构成性领土 + 大家庭包容”的领土国家叙事；而香港殖民时期及回归后则因殖民合作契约与去中心化机制，形成了以“构成性族群 + 华夏中心”为特征的族裔文化型官方知识。[[Argument_Xu_2024_CE\|(Xu, 2024, pp. 577–579, 586–587)]]

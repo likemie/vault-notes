@@ -39,15 +39,15 @@ related_instruments: []
 related_persons:
   - "[[Andreas Kazamias]]"
   - "[[Theda Skocpol]]"
-related_facts:
-  - "[[Chinese Academy of Sciences]]"
+  - "[[Robert K. Merton]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -70,7 +70,7 @@ updated: 2026-10-22
 > - **1923 年** 获牛津大学哲学博士（D.Phil.）学位，博士论文聚焦法国大革命时期的政治思想；同年返回哈佛大学历史系任教，开启长达 45 年的哈佛教学生涯。
 > - **1938 年** 出版比较历史社会学里程碑著作《革命的解剖》（*The Anatomy of Revolution*），运用病理学与结构类比方法系统比对英、美、法、俄四大革命。
 > - **1942–1945 年** 二战期间受命服务于美国战略情报局（OSS），任欧洲战区特别情报分析官，驻守伦敦与巴黎。
-> - **1946 年** 荣升哈佛大学麦克莱恩古今史讲席教授；当选美国文理[[Chinese Academy of Sciences|科学院]]院士。
+> - **1946 年** 荣升哈佛大学麦克莱恩古今史讲席教授；当选美国文理科学院院士。
 > - **1958 年** 当选美国历史学会（AHA）主席。
 > - **1968 年** 在马萨诸塞州剑桥逝世，享年 70 岁。
 
@@ -129,7 +129,7 @@ updated: 2026-10-22
 
 > [!person-network] 学术谱系与思想网络
 > - **方法论引路人** 卡扎米亚斯（[[Andreas Kazamias]]）在 1963 年与 2009 年论著中将布林顿的方法论引为重构比较教育学历史方法现代合法性的核心基石；
-> - **[[Paradigm\|范式]]共鸣** 与默顿（Robert K. Merton）的“中程理论”形成遥相呼应，共同超越了宏大普适法则与微观[[Empiricism\|经验主义]]碎片的对立。
+> - **[[Paradigm\|范式]]共鸣** 与[[Robert K. Merton|默顿]]（Robert K. Merton）的“中程理论”形成遥相呼应，共同超越了宏大普适法则与微观[[Empiricism\|经验主义]]碎片的对立。
 
 ---
 

@@ -6,7 +6,7 @@ aliases:
 summary: "作为德语教学理论传统的欧陆教学论（Didaktik），关注课程内容的选择价值、人性的教化目的与教学判断，在教育研究中用于协调规训与生成、内容与规范之间的复杂张力。"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Pure Evaluation]]"
   - "[[Central Phenomenon]]"
+  - "[[Document]]"
 related_theories:
   - "[[Radical Constructivism]]"
   - "[[Panopticism]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -111,10 +112,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　课程内容选择必须兼顾学科本体论深度与时代教化正当性
-
-> [!concept-lens] 课程知识的[[Ontology|本体论]]深度与时代性
-> 这类命题关注“教什么”以及“为何教”，探讨什么样的知识具备教化价值，主张在维护学科[[Ontology|本体论]]深度的前提下，围绕全球性、时代性的关键挑战来重组课程内容。
+> [!concept-proposition] 命题一｜课程内容选择必须兼顾学科[[Ontology|本体论]]深度与时代教化正当性
+> **探讨维度　课程知识的[[Ontology|本体论]]深度与时代性** 这类命题关注“教什么”以及“为何教”，探讨什么样的知识具备教化价值，主张在维护学科[[Ontology|本体论]]深度的前提下，围绕全球性、时代性的关键挑战来重组课程内容。
 
 > [!claim] 莉萨·维拉汉
 > [[Discipline-Based Theory|学科理论]]知识是具有因果脉络的深层理论体系。课程必须维护学科自身的本体论深度与逻辑完整性，任何将系统知识拆散为横向能力或技能指标清单的能力本位改革都会损害其教化价值。[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]
@@ -130,10 +129,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　教学行动依赖于协调规训与生成张力的情境化专业判断
-
-> [!concept-lens] 规训与生成之间的教学判断
-> 这类命题关注“如何教”及教师的专业行动逻辑，强调教学论不仅是传递技巧，更是协调知识传授、主体塑造与规范要求之间张力的判断艺术。
+> [!concept-proposition] 命题二｜教学行动依赖于协调规训与生成张力的情境化[[Professional Judgment|专业判断]]
+> **探讨维度　规训与生成之间的教学判断** 这类命题关注“如何教”及教师的专业行动逻辑，强调教学论不仅是传递技巧，更是协调知识传授、主体塑造与规范要求之间张力的判断艺术。
 
 > [!claim] 安德烈亚斯·格鲁施卡
 > 教学设计是一个由教学论（Didaktik）、教化（[[Bildung]]）与规范教育（Erziehung）共同构成的整合性星座（Integrated case of constellation），教师必须基于特定内容在具体时间点以何种安排方式向学生呈现，来做出教学判断。[[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz & Klinge, 2022, pp. 238–239]]
@@ -193,7 +190,7 @@ updated: 2026-10-22
 > | [[Phenomenon-Based Learning]] | 概念 | 芬兰跨学科核心课程将欧洲教学论传统转化为现代探究教学的实践形态。 |
 > | [[Professional Judgment]] | 概念 | 教学论视域下教师协调内容转化、教化目标与规范要求的核心专业品格。 |
 > | [[Visible Learning]] | 概念 | 英美效能主义代表模型，因抽空学科实质内容与教学三角形而成为当代教学论的批判靶标。 |
-> | [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] | 论证 | 考掘教学论批判解放内涵与芬兰跨学科核心课程哲学的代表文献。 |
+> | [[Argument_Schaffar_2024_CogentEdu\|Schaffar and Wolff (2024)]] | 论证 | 考掘教学论批判解放内涵与芬兰跨学科核心课程哲学的代表[[Document\|文献]]。 |
 > | [[Argument_Terhart_2011_JCS\|Terhart (2011)]] | 论证 | 从德语教学论传统系统质问可见学习“实质内容何在”的旗舰批判论文。 |
 > | [[Argument_Rømer_2018_EPT\|Rømer (2018)]] | 论证 | 批判可见学习以评价图式瓦解教学三角形并放逐教学论核心范畴的哲学论证。 |
 

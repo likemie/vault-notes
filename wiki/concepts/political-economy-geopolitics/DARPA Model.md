@@ -9,7 +9,7 @@ aliases:
 summary: "国家主导颠覆性科技创新的组织与管理范式。以防范战略技术突袭为使命，赋予顶尖项目经理（PMs）高度自由裁量权，通过广泛领域资助公告（BAA）与海尔迈耶问卷筛选高风险方案。Fuchs（2010）实证论证其核心本质既非表层采办合同亦非组织文化，而是项目经理依托微观非正式制度重塑研发网络拓扑、引导国家技术轨道的嵌入型网络治理机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Broad Agency Announcement]]"
   - "[[Network Governance]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Other Transaction Authority]]"
   - "[[Embedded Network Governance]]"
   - "[[Corporate Venture Capital]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-10-22
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 突破传统市场价格机制与科层同行评议对颠覆性创新的抑制，在极高不确定性领域实现 0 到 1 的革命性跨越。
-> - **理论争议焦点** 既有文献常将其表面化地归结为“灵活采办合同（如[[Other Transaction Authority|其他交易授权]] OTA）”或“敢于容忍失败的[[Organizational Culture|组织文化]]”；[[Argument_Fuchs_2010_RP|Fuchs (2010)]]明确指出，**DARPA 模式的真正内核是一线项目经理所执行的[[Embedded Network Governance|嵌入型网络治理]]（Embedded Network Governance）**。
+> - **理论争议焦点** 既有[[Document|文献]]常将其表面化地归结为“灵活采办合同（如[[Other Transaction Authority|其他交易授权]] OTA）”或“敢于容忍失败的[[Organizational Culture|组织文化]]”；[[Argument_Fuchs_2010_RP|Fuchs (2010)]]明确指出，**DARPA 模式的真正内核是一线项目经理所执行的[[Embedded Network Governance|嵌入型网络治理]]（Embedded Network Governance）**。
 > - **组织特征** 机构规模极小（数百人）、无自建实验室、项目经理实行 3–5 年严格轮换淘汰制、不采用自下而上的同行评议委员会投票。
 
 > [!citation-card] DARPA 模式的本质：嵌入型网络治理而非形式合同
@@ -112,20 +113,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　DARPA 模式的本质不是表面采办条规与组织文化，而是项目经理的微观嵌入型网络治理
-
-> [!concept-lens] 组织社会学与公共管理学维度
-> 探讨该模式在跨越数十年的宏观政策动荡与领导人更迭中，为何能够维系颠覆性创新策源力。
+> [!concept-proposition] 命题一｜[[DARPA]] 模式的本质不是表面采办条规与[[Organizational Culture|组织文化]]，而是项目经理的微观[[Embedded Network Governance|嵌入型网络治理]]
+> **探讨维度　组织社会学与公共管理学维度** 探讨该模式在跨越数十年的宏观政策动荡与领导人更迭中，为何能够维系颠覆性创新策源力。
 
 > [!claim] [[Erica Fuchs|Fuchs, E. R. H.]]
-> **非正式治理制度对宏观采办变迁的超越** 既有文献将 [[DARPA]] 的成功归功于宽泛的“创新文化”或特定的采购法案（如 1990 年代对高校的直接资助）。然而实证研究显示，在 2001 年[[Tony Tether|托尼·瑟瑟]]推行严苛军工化改组后，表面合同和资助结构被颠覆，但 DARPA 依然持续催生突破；其根本原因在于项目经理之间传承的五大微观非正式制度（识别方向、播撒构想、闭门强制知识流动、中立背书与机制化退出）保持了高度稳定，这构成了 DARPA 模式不可动摇的内核。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144)]]
+> **非正式治理制度对宏观采办变迁的超越** 既有[[Document|文献]]将 [[DARPA]] 的成功归功于宽泛的“创新文化”或特定的采购法案（如 1990 年代对高校的直接资助）。然而实证研究显示，在 2001 年[[Tony Tether|托尼·瑟瑟]]推行严苛军工化改组后，表面合同和资助结构被颠覆，但 DARPA 依然持续催生突破；其根本原因在于项目经理之间传承的五大微观非正式制度（识别方向、播撒构想、闭门强制知识流动、中立背书与机制化退出）保持了高度稳定，这构成了 DARPA 模式不可动摇的内核。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144)]]
 
 ---
 
-### 命题二　项目经理的有限任期与高流动性保障了机构免于利益集团固化与范式锁定
-
-> [!concept-lens] 制度设计与反俘获机制维度
-> 探讨创新机构如何兼顾深厚专业洞察力与组织反腐败、反僵化能力。
+> [!concept-proposition] 命题二｜项目经理的有限任期与高流动性保障了机构免于利益集团固化与[[Paradigm|范式]]锁定
+> **探讨维度　制度设计与反俘获机制维度** 探讨创新机构如何兼顾深厚专业洞察力与组织反腐败、反僵化能力。
 
 > [!claim] [[David C. Mowery|Mowery, D. C.]]; Fuchs, E. R. H.
 > **流动性制度对[[Path Dependence|路径依赖]]的防御** 常规科研资助官僚随着任期延长极易被特定学术圈子或军工巨头“俘获”，陷入渐进改良[[Paradigm|范式]]。DARPA 项目经理 3–5 年即必须离职返回大学或工业界的强制流动机制，使得 PM 没有长期官僚升迁包袱，迫使其在有限任期内全力押注最高风险的革命性构想，有效消除了范式锁死风险。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1135)]]

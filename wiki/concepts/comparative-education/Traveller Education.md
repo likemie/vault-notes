@@ -8,10 +8,10 @@ aliases:
 summary: "旅行者教育是指面向大篷车居民、旅行者以及罗姆/吉普赛族群儿童的专门教育政策与教学干预实践；该领域聚焦于具有漫游传统的少数群体所承受的社会污名、正规学校内部高度结构化的空间区隔引发的文化与身体失调，以及多元文化政策在追求社会融入与尊重社群空间自主性之间的内在张力。"
 type: concept
 domain: "comparative-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/comparative-education
   - theme/migrant-education
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Sedentarism]]"
   - "[[Migrant Children]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Habitus]]"
   - "[[Heterogeneity]]"
   - "[[Intercultural Education]]"
 related_theories: []
@@ -36,7 +37,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-10-25
 
 > [!feature] 核心要素
 > - **漫游污名的社会统合（Social Stigma of Itinerancy）** 尽管大篷车社群内部高度异质（涵盖传统流动家庭、已定居家庭以及冷战后来自中东欧的新罗姆移民），但在主流定居社会眼中均被统一贴上“流窜、不稳定与边缘病态”的社会污名。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
-> - **学校微观空间的结构化规训（Highly Structured Use of Space）** 现代学校依靠被精细分割的教室、走廊走动限制、按钟声起坐以及不得随意外出的微观空间秩序，直接抵触旅行者儿童习惯于宽阔自然营地与灵活移动的身体习性。
+> - **学校微观空间的结构化规训（Highly Structured Use of Space）** 现代学校依靠被精细分割的教室、走廊走动限制、按钟声起坐以及不得随意外出的微观空间秩序，直接抵触旅行者儿童习惯于宽阔自然营地与灵活移动的身体[[Habitus|习性]]。
 > - **多元文化承认与空间同化的政策张力（Recognition vs Containment Paradox）** 英国等国政策一方面通过“旅行者教育服务（Traveller Education Services, TES）”试图在课程中尊重其族群尊严，另一方面学校的日常组织结构却在物质与身体层面强制推行定居化纪律，使教育实践陷入深刻矛盾。
 
 > [!logic-map]- 旅行者教育的制度遭遇与空间失调
@@ -90,20 +91,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　正规学校高度结构化的物理与时间空间区隔引发旅行者儿童深度的文化与身体失调
-
-> [!concept-lens] 空间规训与身体失调维度
-> 探析为何旅行者儿童进入正规学校后普遍遭遇强烈的制度不适，指出空间组织方式如何成为隐性的文化排斥武器。
+> [!concept-proposition] 命题一｜正规学校高度结构化的物理与时间空间区隔引发旅行者儿童深度的文化与身体失调
+> **探讨维度　空间规训与身体失调维度** 探析为何旅行者儿童进入正规学校后普遍遭遇强烈的制度不适，指出空间组织方式如何成为隐性的文化排斥武器。
 
 > [!claim] Levinson, M. & Sparkes, A.
 > **高度结构化空间的文化冲突** 旅行者与吉普赛儿童在主流学校中面临的最深刻困境，并非单纯是认知能力或教材知识的高下，而是源于学校内部“高度结构化的空间使用方式”。学校通过铃声分割时间、墙体封闭活动范围、强制固定座位来规范肉体；对于习惯于开放流动营地、自主支配身体与空间界限的旅行者儿童而言，这种网格化空间构成了深层的文化与身体错位，极易引发违纪指控与退学危机。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
 
 ---
 
-### 命题二　多元文化融合诉求与维持社群空间自主性的愿望构成旅行者教育难以弥合的政策张力
-
-> [!concept-lens] 政策包容与空间区隔张力维度
-> 考察国家教育政策在对待边缘流动群体时，如何在“促进全纳融入”与“防范群体同化”之间反复摇摆。
+> [!concept-proposition] 命题二｜多元文化融合诉求与维持社群空间自主性的愿望构成旅行者教育难以弥合的政策张力
+> **探讨维度　政策包容与空间区隔张力维度** 考察国家教育政策在对待边缘流动群体时，如何在“促进全纳融入”与“防范群体同化”之间反复摇摆。
 
 > [!claim] Derrington, C. & Kendall, S.
 > **中学阶段的文化认同与学业断裂** 吉普赛与旅行者青少年在升入中等教育后，面临愈发严峻的文化同化压力与族群认同危机；家长担忧中学的同龄人文化与封闭环境会瓦解社群伦理，往往在中段选择让子女离校回归大篷车家族经济，导致政策层面的中等教育普及目标与社群自我保护诉求发生激烈正面碰撞。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]

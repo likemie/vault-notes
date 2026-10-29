@@ -7,7 +7,7 @@ aliases:
 summary: "Maxwell 质性效度体系的核心类型之一，指研究忠实捕捉情境与事件对参与者本人的主观意义、术语体系与行动意图的能力；在量化实证与二阶综合中常被延伸指涉推论能否准确反映底层干预与测量真实内涵的解释恰切性。"
 type: concept
 domain: "research-methodology"
-related_count: 44
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -34,6 +34,8 @@ related_concepts:
   - "[[Scientific Explanation]]"
   - "[[Visible Learning]]"
   - "[[Research Question]]"
+  - "[[Writing Programs]]"
+  - "[[Document]]"
   - "[[Rich and Thick Description]]"
   - "[[Qualitative Validity]]"
   - "[[Positivism]]"
@@ -49,10 +51,10 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Research Synthesis]]"
   - "[[Member Checking]]"
+  - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Intervention Research]]"
-  - "[[Effect Size]]"
   - "[[Fieldwork]]"
   - "[[In-depth Interview]]"
   - "[[Umbrella Review]]"
@@ -67,7 +69,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-06-23
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -108,31 +110,27 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　质性解释效度的确立依赖于在忠实呈现主体主观意图与保持批判性分析距离之间保持动态张力
-
-> [!concept-lens] 主体视角与分析责任维度
-> 探讨[[Interpretivism|诠释主义]]研究如何既避免研究者霸权，又防止滑入无批判接纳当事人言论的民粹主义陷阱。
+> [!concept-proposition] 命题一｜质性解释效度的确立依赖于在忠实呈现主体主观意图与保持批判性分析距离之间保持动态张力
+> **探讨维度　主体视角与分析责任维度** 探讨[[Interpretivism|诠释主义]]研究如何既避免研究者霸权，又防止滑入无批判接纳当事人言论的民粹主义陷阱。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Cohen et al. (2011)]]
 > **主体忠实与批判距离平衡** 解释效度虽然强调“从本地人的视角看世界”，但并不等于无条件接受参与者的所有自白。哈默斯利与阿特金森（Hammersley & Atkinson, 1983）强调，参与者对自己行为的解释在[[Epistemology|认识论]]上并不具备绝对的特权位置。真实的解释效度追求的是[[Double Hermeneutic|双重诠释学]]（Double Hermeneutic）下的平衡：一方面研究者必须尽可能忠实于当事人感知世界的范畴体系，杜绝外部理论武断裁剪；另一方面，研究者必须承担起社会[[Scientific Explanation|科学解释]]者的分析责任，洞察被行动者日常常识所遮蔽的深层制度结构与意识形态盲区。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 161–162)]]
 
 ---
 
-### 命题二　二阶宏观综合若脱离底层干预与对照的实质属性，将导致效应量因果解释效度的彻底瓦解
-
-> [!concept-lens] 宏观综合推论与概念对齐维度
-> 探讨量化[[Meta-meta-analysis|元综合]]中将异质研究粗暴汇总为何会摧毁数值的解释效度，揭示标签化归纳对教育决策的误导机制。
+> [!concept-proposition] 命题二｜二阶宏观综合若脱离底层干预与对照的实质属性，将导致[[Effect Size|效应量]]因果解释效度的彻底瓦解
+> **探讨维度　宏观综合推论与概念对齐维度** 探讨量化[[Meta-meta-analysis|元综合]]中将异质研究粗暴汇总为何会摧毁数值的解释效度，揭示标签化归纳对教育决策的误导机制。
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
 > **概念与对照错位摧毁二阶综合解释效度** 在宏观二阶[[Meta-analysis|元分析]]（如《[[Visible Learning|可见的学习]]》）中，解释效度体现为所宣称的“影响因素名称”与底层元分析实际测度的教学实践是否保持一致。卡尔门达尔等学者的[[Metascience|元科学]]审计实证表明，全库仅 19% 满足[[Research Question|研究问题]]纳入基准：
-> 1. **干预内容名不副实** 在写作项目影响因素中直接纳入阅读[[Intervention Research|干预研究]]，使得综合[[Effect Size|效应量]]根本无法解释写作教学的真实效果；
+> 1. **干预内容名不副实** 在[[Writing Programs|写作项目]]影响因素中直接纳入阅读[[Intervention Research|干预研究]]，使得综合[[Effect Size|效应量]]根本无法解释写作教学的真实效果；
 > 2. **对照基线异质混杂** 将新教学法与常规教学对比（效应量通常较大）同新教学法与另一种优质教学法对比（Active Comparison，效应量极小）进行简单平均，导致平均效应量既不能反映该策略对比无干预时的增益，也不能反映对比其他干预时的相对优势。
 > 这种脱离具体教学情境与对照本质的数字平均，彻底瓦解了效应量因果解释效度，使综合排行榜丧失了实质教学指导价值。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–16)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **质性主体与分析平衡** | 在忠实参与者主观意图的同时保留研究者的分析批判距离 | 质性[[Fieldwork\|田野调查]]、[[In-depth Interview\|深度访谈]]与生活史研究 | Maxwell (1992); Hammersley and Atkinson (1983); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] |
 > | **宏观综合推论解释保真** | 严格限定问题对象与对照同质性，防止标签错配摧毁因果推论内涵 | [[Meta-meta-analysis\|二阶元分析]]、[[Umbrella Review\|伞状综述]]与循证政策工具包编制 | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |

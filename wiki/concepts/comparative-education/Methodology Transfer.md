@@ -8,7 +8,7 @@ aliases:
 summary: "政策转移研究中指代评估技术、实验设计、统计测量模型及研究规程跨越国界直接输入的理论概念，表明循证治理不仅促进政策实质内容的借用，而且驱动底层科学评估方法论与专业智库机构的跨国流动。"
 type: concept
 domain: "comparative-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Data Infrastructure]]"
 related_theories: []
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Random Assignment]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
@@ -41,13 +42,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Methodology Transfer
-> **方法论转移（Methodology Transfer）** 指评估技术、实验设计规程、计量统计模型与科学验证规范跨越国界直接扩散并植入他国政策体系的过程。在[[Evidence-Based Policy-Making|循证决策]]（Evidence-Based Policy-Making, EBPM）与以结果为导向的公共治理推动下，[[Policy Borrowing|政策借用]]超越了价值理念与法律文本的表层扩散，延伸为对特定研究方法与量化评估[[Paradigm|范式]]的跨国采纳。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 330, 342–344)]]
+> **方法论转移（Methodology Transfer）** 指评估技术、[[Experimental Research|实验设计]]规程、计量统计模型与科学验证规范跨越国界直接扩散并植入他国政策体系的过程。在[[Evidence-Based Policy-Making|循证决策]]（Evidence-Based Policy-Making, EBPM）与以结果为导向的公共治理推动下，[[Policy Borrowing|政策借用]]超越了价值理念与法律文本的表层扩散，延伸为对特定研究方法与量化评估[[Paradigm|范式]]的跨国采纳。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 330, 342–344)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向研究方法论、实证评价技术标准与实验设计规程在国家之间的流动与制度化植入。
@@ -97,10 +98,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　循证治理范式促使跨国借用由政策内容拓展至评估规程
-
-> [!concept-lens] 政策搜寻深层动力
-> 探讨政策制定者在面对因果验证问责时，如何将海外成熟的评估工具转化为本土政策合法性的技术支撑。
+> [!concept-proposition] 命题一｜[[Output-Oriented Governance|循证治理]][[Paradigm|范式]]促使跨国借用由政策内容拓展至评估规程
+> **探讨维度　政策搜寻深层动力** 探讨政策制定者在面对因果验证问责时，如何将海外成熟的评估工具转化为本土政策合法性的技术支撑。
 
 > [!claim] Legrand, T.
 > **评估规程的制度化吸纳** 蒂莫西·勒格朗（[[Argument_Legrand_2012_PolStud|Legrand, 2012]]）指出，当国家确立何者有效治理准则时，政策制定者在面临紧迫执政日程时，倾向于定向搜寻拥有充沛评估数据的国家经验；此时输入的不仅是政策方案，更将海外成套的实验评估规程与专业机构直接引入本土治理结构。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–344)]]

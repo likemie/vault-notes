@@ -24,9 +24,9 @@ related_concepts:
   - "[[Intellectual Capital]]"
   - "[[Paradigm]]"
   - "[[Tacit Knowledge]]"
+  - "[[National Innovation System]]"
   - "[[Determinism]]"
   - "[[Variable]]"
-  - "[[National Innovation System]]"
 related_theories:
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Dependency Theory]]"
@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -99,10 +99,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　技术赶超不仅是资本与装备的引进，更是国家创新系统的组织整合竞争
-
-> [!concept-lens] 追赶成败的制度[[Determinism|决定论]]
-> 解释为什么相同的引进技术与外资投入在不同后发国家会导出截然相反的经济结局。
+> [!concept-proposition] 命题一｜技术赶超不仅是资本与装备的引进，更是[[National Innovation System|国家创新系统]]的组织整合竞争
+> **探讨维度　追赶成败的制度[[Determinism|决定论]]** 解释为什么相同的引进技术与外资投入在不同后发国家会导出截然相反的经济结局。
 
 > [!claim] [[Chris Freeman|Freeman, C.]]
 > **东亚与拉美分化的深层归因** 1980 年代韩国与巴西的鲜明反差确凿证实了这一点：韩国通过普及[[Education for All|全民教育]]、将工科生密度提升至巴西四倍、将企业研发比重拉升至 65% 并大举投资电信网络，实现了高技术出口赶超；而巴西依赖成套设备引进，忽视本土研发（长期低于 25%）与公共教育滑坡，最终在债务危机与新技术[[Paradigm|范式]]冲击下彻底落后。（[[Argument_Freeman_1995_CJE|Freeman, 1995, pp. 13–15]]）

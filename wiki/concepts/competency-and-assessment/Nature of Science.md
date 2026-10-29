@@ -8,7 +8,7 @@ aliases:
 summary: "对科学作为独特知识生产体系的认识论属性、社会文化嵌入性及其生成机理的元认知理解，区别于陈述性事实记忆与孤立操作技能，构成公民科学素养的重要基石。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -39,11 +39,12 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Research Question]]"
   - "[[Scientific Attitude]]"
+  - "[[Inquiry-Based Learning]]"
   - "[[Direct Instruction]]"
   - "[[Scientism]]"
+  - "[[Scaffolding]]"
   - "[[Positivism]]"
   - "[[Axiology]]"
-  - "[[Inquiry-Based Learning]]"
   - "[[Citizen Science]]"
   - "[[Epistemic Ideals]]"
   - "[[Heterogeneity]]"
@@ -57,10 +58,10 @@ related_theories:
   - "[[Inquiry Cycle]]"
   - "[[Cognitive Load Theory]]"
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Questionnaire]]"
   - "[[Design-Based Research]]"
   - "[[Meta-analysis]]"
-  - "[[Experimental Research]]"
   - "[[Critical Review]]"
 related_instruments:
   - "[[Views of Nature of Science Questionnaire]]"
@@ -71,7 +72,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -91,7 +92,7 @@ updated: 2026-10-22
 
 > [!boundary]- 概念边界
 > - 不等于 **[[Epistemic Cognition\|认识论认知]]（Epistemic Cognition）** — 科学本质侧重于个体对科学作为宏观社会制度与学术共同体的认识论特征的元认知理解（如暂时性、实证性、理论负荷），传统测评倾向考察跨情境的陈述性共识原则；而认识论认知更侧重学习者在具体学术任务中识别[[Epistemic Aims\|认识论目标]]、激活[[Reliable Epistemic Processes\|可靠认识论过程]]与确立[[Justificatory Standards\|辩护标准]]的动态认知机制与即时监控。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, p. 480)]]
-> - 不等于 **[[Scientific Method\|科学方法]]（Scientific Method）** — 科学方法指具体的实验设计、[[Variable\|变量]]控制与数据记录等程序性操作规程；科学本质则是审视这些规程为何有效、结论为何具有暂时性与解释性的元认识论反思。
+> - 不等于 **[[Scientific Method\|科学方法]]（Scientific Method）** — 科学方法指具体的[[Experimental Research|实验设计]]、[[Variable\|变量]]控制与数据记录等程序性操作规程；科学本质则是审视这些规程为何有效、结论为何具有暂时性与解释性的元认识论反思。
 > - 不等于 **学科领域本体知识（Domain-Specific Content）** — 科学本质聚焦于跨越物理、化学、生物等具体学科的宏观认识论特征，不替代具体自然科学学科的事实性与概念性知识。
 
 ---
@@ -148,20 +149,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　探究学习在培育知情科学本质观与认识论实践上具有不可替代的循证优势
-
-> [!concept-lens] 探究实践与[[Epistemology\|认识论]]素养培育机制
-> 探讨[[Direct Instruction\|直接讲授]]与探究教学在高级认识论素养培育上的成效分化，关注学习者如何在探究实践中内化科学本质。
+> [!concept-proposition] 命题一｜[[Inquiry-Based Learning|探究学习]]在培育知情科学本质观与[[Epistemic Practices|认识论实践]]上具有不可替代的循证优势
+> **探讨维度　探究实践与[[Epistemology\|认识论]]素养培育机制** 探讨[[Direct Instruction\|直接讲授]]与探究教学在高级认识论素养培育上的成效分化，关注学习者如何在探究实践中内化科学本质。
 
 > [!claim] [[Ton de Jong\|De Jong, T.]]
 > **[[Epistemic Practices\|认识论实践]]的具身卷入** 汤姆·德容（Ton de Jong）等学者指出，科学教育的目标不仅是记忆静态的学科知识点，更在于掌握科学思维方式与认识论素养。单纯依赖直接讲授将科学知识呈现为现成无争议的定论，极易导致学习者产生盲从权威的[[Scientism\|科学主义]]迷思；唯有在真实的[[Inquiry Cycle\|探究循环]]中直面反常数据、权衡矛盾证据并经历解释模型的构建与同行辩护，学生才能真切内化科学知识的实证性、推论性与暂时性特征。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 10)]]
 
 ---
 
-### 命题二　显性反思教学是促使素朴科学观向知情科学本质观转化的关键教学支架
-
-> [!concept-lens] 科学本质教学的显性化与支架介入
-> 探讨科学本质是伴随动手探究活动自发习得的副产品，还是必须通过教师有意识的显性反思支架才能有效内化。
+> [!concept-proposition] 命题二｜显性反思教学是促使素朴科学观向知情科学本质观转化的关键[[Scaffolding|教学支架]]
+> **探讨维度　科学本质教学的显性化与支架介入** 探讨科学本质是伴随动手探究活动自发习得的副产品，还是必须通过教师有意识的显性反思支架才能有效内化。
 
 > [!claim] Lederman, N. G.
 > **显性反思支架的必要性** 诺曼·莱德曼（Norman G. Lederman）等学者指出，单纯参与动手实验探究（Doing Science）并不必然自发促成对科学本质的深层领悟；许多学生即便利落完成了控制[[Variable\|变量]]实验，依然持有科学理论代表绝对真理的素朴观念。唯有通过教师在探究过程中显性引入认识论维度的提问支架、概念冲突辨析与[[Metacognition\|元认知]]讨论，引导学生跳出具体操作并审视知识的建构机制，素朴的科学观才能稳步演变为知情且审慎的科学本质观。

@@ -8,7 +8,7 @@ aliases:
 summary: "按最终验证结果而非前期投入付费的创新政策工具，涵盖重大技术悬赏奖金、高级市场承诺（AMC）与事后追溯资助；适用于攻坚目标明确但技术路径开放的战略瓶颈，能以高杠杆激发多元解题主体并行试错。"
 type: concept
 domain: "science-policy"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Academic Medical Center]]"
   - "[[Quadratic Funding in Science]]"
   - "[[Grand Challenges]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
 related_theories:
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-10-22
 
 > [!taxonomy] 创新拉动机制的主要工具形态
 > - **重大技术悬赏奖金（Inducement Prize Contests）** 设立数百万至数千万美元奖金池，奖励首个达到严苛物理或工程指标的团队（如 [[DARPA]] 自动驾驶大挑战、安萨里 X 大奖）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
-> - **跨学科开放破译竞赛（Open Decoding Challenges）** 针对特定历史、生物或数学难题开放原始数据，吸引非领域内算法专家攻关（如赫库兰尼姆卷轴碳化文献 CT 扫描图像破译竞赛）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 29)]]
+> - **跨学科开放破译竞赛（Open Decoding Challenges）** 针对特定历史、生物或数学难题开放原始数据，吸引非领域内算法专家攻关（如赫库兰尼姆卷轴碳化[[Document|文献]] CT 扫描图像破译竞赛）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 29)]]
 > - **[[Advance Market Commitments|高级市场承诺]]（Advance Market Commitments, [[Academic Medical Center|AMC]]）** 政府或慈善基金预先承诺，一旦研发出符合特定临床效力的新型疫苗或特定能量密度的储能电池，即以保障价格采购预定规模，彻底消除商业化需求风险。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28–29)]]
 > - **[[Quadratic Funding in Science|二次方配比资助]]（Quadratic Funding）** 依据广泛基层共同体的背书人数而非少数评委打分进行资金配比，探索降低把关者偏倚的新型配置模式。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 30)]]
 
@@ -88,20 +89,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　当攻坚目标明确而技术路径未知时，为结果付费比传统项目资助更能激发多元颠覆解法
-
-> [!concept-lens] 机制设计与激励相容
-> 探讨研发资助中如何最大化激发试错广度并规避评审把关者偏倚。
+> [!concept-proposition] 命题一｜当攻坚目标明确而技术路径未知时，为结果付费比传统项目资助更能激发多元颠覆解法
+> **探讨维度　机制设计与激励相容** 探讨研发资助中如何最大化激发试错广度并规避评审把关者偏倚。
 
 > [!claim] Kratsios, M. J.
 > **将支付节点由过程移至结果能够重塑技术探索拓扑** 项目资助购买的是科研人员的时间与耗材，无论研究是否达到预期，经费均已沉没；拉动机制则将失败风险转移给多元参赛者，同时给予成功者巨大的声誉与财务回报。这使得拥有非主流构想的小型初创团队与跨界青年学者敢于采取非共识策略，从而以远低于传统专款的成本在短期内攻克重大技术卡点（如商业亚轨道飞行、自动驾驶感知）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28–29)]]
 
 ---
 
-### 命题二　拉动机制必须与推动机制协同组合，无法独立承担科学探索全谱系
-
-> [!concept-lens] 资助组合平衡论（组合式资助）
-> 探讨拉动工具的适用边界与政策配置生态。
+> [!concept-proposition] 命题二｜拉动机制必须与推动机制协同组合，无法独立承担科学探索全谱系
+> **探讨维度　资助组合平衡论（组合式资助）** 探讨拉动工具的适用边界与政策配置生态。
 
 > [!claim] Kratsios, M. J.
 > **推动机制负责开辟未知疆界，拉动机制负责攻坚已知缺口** 拉动机制天然要求终点指标能够被客观、无争议地精确度量（如分辨率、飞行高度、电池循环寿命）。对于纯好奇心驱动、旨在揭示自然界全新底层法则的深层基础科学（如早期量子力学、宇宙暗物质探测），由于无法预设具体性能终点，拉动机制完全失效。一个健康的国家科研资助体系必须维持推动式对人稳定资助与拉动式重大瓶颈买单的动态平衡。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28, 30)]]

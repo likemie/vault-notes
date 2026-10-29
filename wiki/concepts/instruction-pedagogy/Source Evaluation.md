@@ -8,10 +8,10 @@ aliases:
 summary: "在多文本阅读与数字化探究中，学习者主动审验作者资质、出版机构意图、潜在利益冲突及文本可信度的批判性认知规程与教学框架；元分析证实显性教授信源评估对学业成就具有高度因果促进效应（d = 0.800）。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 35
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/instruction
   - epistemic-cognition
@@ -21,9 +21,11 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Direct Instruction]]"
   - "[[Reflexivity]]"
+  - "[[Reading Strategies]]"
   - "[[AI Literacy]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Reliability]]"
+  - "[[Document]]"
   - "[[Benevolence]]"
   - "[[Source of Knowledge]]"
   - "[[Epistemological Beliefs]]"
@@ -34,6 +36,7 @@ related_concepts:
   - "[[Epistemological Theories]]"
   - "[[Epistemic Ideals]]"
   - "[[Epistemology]]"
+  - "[[Paradigm]]"
   - "[[Academic Achievement]]"
   - "[[Epistemic Cognition]]"
   - "[[Inquiry-Based Learning]]"
@@ -42,8 +45,10 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Scientific Explanation]]"
   - "[[Critical Thinking]]"
-  - "[[Paradigm]]"
   - "[[Variable]]"
+  - "[[Metacognition]]"
+  - "[[Constructivist Instruction]]"
+  - "[[Problem-Based Learning]]"
   - "[[Epistemic Agency]]"
 related_theories: []
 related_methods:
@@ -60,7 +65,7 @@ related_instruments:
   - "[[Framework for Teaching]]"
 confidence: high
 created: 2026-09-21
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -70,11 +75,11 @@ updated: 2026-10-25
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向阅读与探究过程中的元文本分析机制，强调不仅关注“说了什么（What）”，更关注“谁在说（Who）、为何说（Why）以及依据何种证据（How）”。
-> - **用途** 帮助研究者和教育者看见学生面对信息洪流与生成式算法输出时的批判性甄别能力，指导设计专门的多文本阅读策略与[[AI Literacy|人工智能素养]]课程。
+> - **用途** 帮助研究者和教育者看见学生面对信息洪流与生成式算法输出时的批判性甄别能力，指导设计专门的多文本[[Reading Strategies|阅读策略]]与[[AI Literacy|人工智能素养]]课程。
 > - **边界** 区别于个体对知识本质的哲学信念；它属于操作层面的认知技能、策略体系与教学组织模式。
 
 > [!citation-card] Sperber et al. 及 Han & Gutierez 论[[Man-Computer Symbiosis|人机协同]]中的二手信源评估
-> 在人机协同与多文本探究中，信源评估具体展开为针对沟通中介者专业性、[[Reliability|可靠性]]及潜在偏见的系统审验。面对生成式人工智能时，学习者必须超越表层文本，主动追问算法输出背后的文献依据、权威共识与科学事实基础，防范将概率生成模型误判为无所不知的直接真理源。(Sperber et al., 2010; [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez, 2026, p. 5]])
+> 在人机协同与多文本探究中，信源评估具体展开为针对沟通中介者专业性、[[Reliability|可靠性]]及潜在偏见的系统审验。面对生成式人工智能时，学习者必须超越表层文本，主动追问算法输出背后的[[Document|文献]]依据、权威共识与科学事实基础，防范将概率生成模型误判为无所不知的直接真理源。(Sperber et al., 2010; [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez, 2026, p. 5]])
 >
 > *Source evaluation involves examining whether the source has the competence, [[Benevolence]], and authority to convey truth. In GenAI interactions, learners question the evidence and literature underlying AI claims to guard against algorithmic authority.*
 
@@ -108,30 +113,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　显性讲授信源评估规则是促进多文本理解与学业成效的高增益教学范式
-
-> [!concept-lens] [[Framework for Teaching|教学框架]]对干预[[Effect Size\|效应量]]的调节机制
-> 探讨不同类型的教学组织模式对学生认知与[[Academic Achievement\|学业成绩]]的因果促进效能。
+> [!concept-proposition] 命题一｜显性讲授信源评估规则是促进多文本理解与学业成效的高增益教学[[Paradigm|范式]]
+> **探讨维度　[[Framework for Teaching|教学框架]]对干预[[Effect Size\|效应量]]的调节机制** 探讨不同类型的教学组织模式对学生认知与[[Academic Achievement\|学业成绩]]的因果促进效能。
 
 > [!claim] Cartiff, B. M.
 > **显性信源评估教学的高效应红利** 在对[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]中，教学框架对学业表现展现出显著的调节作用。以显性讲授信源评估为核心框架的[[Intervention Research\|干预研究]]（如 Mason et al., 2014）录得了高达 $d = 0.800$ 的大效应量，与[[Inquiry-Based Learning\|指导式探究]]（$d = 0.808$）共同位列六类教学框架之首。实证表明，单纯让学生沉浸于海量网络信息进行自由探索，极易导致认知超载与盲从表面权威；相反，当教师明确示范并提供具体的信源查验清单（检查作者资历、核实发布机构意图、寻找数据支撑）时，学生能迅速掌握可操作的批判性[[Scaffolding\|脚手架]]，将抽象的怀疑态度转化为有条理的跨文本分析，显著提升深层学业表现。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 485–486, 492)]]
 
 ---
 
-### 命题二　信源评估是将外在教学支架转化为深层知识来源信念的关键桥梁
-
-> [!concept-lens] 策略练习与[[Epistemological Beliefs\|认识论信念]]重塑的动力学机制
-> 探讨具体的阅读与评估行为如何推动学生底层认知结构的质变。
+> [!concept-proposition] 命题二｜信源评估是将外在教学支架转化为深层[[Source of Knowledge|知识来源]]信念的关键桥梁
+> **探讨维度　策略练习与[[Epistemological Beliefs\|认识论信念]]重塑的动力学机制** 探讨具体的阅读与评估行为如何推动学生底层认知结构的质变。
 
 > [!claim] Bråten, I.
 > **认知行为反哺信念成熟假说** 伊瓦尔·布拉滕（Ivar Bråten）等学者指出，个体的认识论信念并非仅通过哲学说教发生转变，而是深度内嵌于具体的[[Problem Solving\|问题解决]]与阅读行为中。信源评估教学迫使学习者直面不同权威之间的观点对立与证据冲突，粉碎了“权威天然代表绝对真理”的朴素绝对主义观念。通过日复一日对信源资质、立场与证据力度的系统审验，学习者逐步确立起“知识是由不同主体在特定情境中基于证据建构”的成熟[[Source of Knowledge\|知识来源]]信念，实现了从被动的信息接收者向审慎的理性评价者的本质飞跃。
 
 ---
 
-### 命题三　生成式 AI 交互重构了信源评估的认知对象，要求从单一网页核查升级为算法输出背后的文献溯源与权威对照
-
-> [!concept-lens] 智能时代信源评估客体演化维度
-> 探讨大语言模型如何遮蔽[[Primary and Secondary Documents|原始文献]]出处，以及学习者如何通过显性提问提示语对 AI 展开二手信源审问。
+> [!concept-proposition] 命题三｜生成式 AI 交互重构了信源评估的认知对象，要求从单一网页核查升级为算法输出背后的[[Document|文献]]溯源与权威对照
+> **探讨维度　智能时代信源评估客体演化维度** 探讨大语言模型如何遮蔽[[Primary and Secondary Documents|原始文献]]出处，以及学习者如何通过显性提问提示语对 AI 展开二手信源审问。
 
 > [!claim] [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]]
 > **[[Man-Computer Symbiosis|人机协同]]中的第二手信源审验与权威共识对照机制** [[Generative Artificial Intelligence|生成式人工智能]]并非一手[[Knowledge Production|知识生产]]者，而是通过统计模型重组互联网数据的第二手信息中介。在利用 GenAI 建构[[Scientific Explanation|科学解释]]时，初中生在显性反思提问提示语（如“这与课本一致吗”、“谁支持该观点”）引导下，系统展开针对 AI 输出的二手信源评估（Second-hand Source Evaluation）：
@@ -170,13 +169,13 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 教学干预模式 | 指导式探究（Guided Inquiry） | Cohen's $d$ | k = 14, N = 2,139 | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | [0.457, 1.159] | — |
 > |  | 教学干预模式 | 信源评估（Source Evaluation） | Cohen's $d$ | k = 2, N = 182 | <span class="mx-bar ef-bar" title="Cohen's d 0.800"><span class="b16"></span></span>0.800 | [0.625, 0.974] | — |
-> |  | 教学干预模式 | 认知与元认知支架 | Cohen's $d$ | k = 6, N = 855 | <span class="mx-bar ef-bar" title="Cohen's d 0.548"><span class="b11"></span></span>0.548 | [0.088, 1.008] | — |
-> |  | 教学干预模式 | 建构主义教学 | Cohen's $d$ | k = 2, N = 141 | <span class="mx-bar ef-bar" title="Cohen's d 0.515"><span class="b10"></span></span>0.515 | [0.155, 0.875] | — |
-> |  | 教学干预模式 | 基于问题的学习（PBL） | Cohen's $d$ | k = 2, N = 146 | <span class="mx-bar ef-bar" title="Cohen's d 0.340"><span class="b7"></span></span>0.340 | [−0.547, 1.226] | — |
+> |  | 教学干预模式 | 认知与[[Metacognition\|元认知]]支架 | Cohen's $d$ | k = 6, N = 855 | <span class="mx-bar ef-bar" title="Cohen's d 0.548"><span class="b11"></span></span>0.548 | [0.088, 1.008] | — |
+> |  | 教学干预模式 | [[Constructivist Instruction\|建构主义教学]] | Cohen's $d$ | k = 2, N = 141 | <span class="mx-bar ef-bar" title="Cohen's d 0.515"><span class="b10"></span></span>0.515 | [0.155, 0.875] | — |
+> |  | 教学干预模式 | [[Problem-Based Learning\|基于问题的学习]]（PBL） | Cohen's $d$ | k = 2, N = 146 | <span class="mx-bar ef-bar" title="Cohen's d 0.340"><span class="b7"></span></span>0.340 | [−0.547, 1.226] | — |
 >
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 教学干预模式** 提供明确步骤指导与[[Variable\|变量]]控制支架
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 教学干预模式** 显性讲授信息源资质与可[[Reliability\|信度]]鉴别规则

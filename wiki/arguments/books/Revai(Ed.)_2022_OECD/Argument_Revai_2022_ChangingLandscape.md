@@ -7,7 +7,7 @@ title: "Argument_Revai_2022_ChangingLandscape"
 argument_key: "Argument_Revai_2022_ChangingLandscape"
 argument_display_title: "The changing landscape of research use in education"
 argument_kind: "book-chapter"
-argument_related_count: 63
+argument_related_count: 64
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -48,8 +48,8 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Champ]]"
   - "[[Interpretive Validity]]"
-  - "[[Positivism]]"
   - "[[Professional Judgment]]"
+  - "[[Positivism]]"
   - "[[Epistemic Governance]]"
   - "[[Operationalization]]"
   - "[[Epistemic Stances]]"
@@ -68,6 +68,7 @@ related_concepts:
   - "[[Research Impact]]"
   - "[[Evidence-Based Policy-Making]]"
   - "[[Publication Bias]]"
+  - "[[Document]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Ecological Validity]]"
   - "[[Gatekeepers]]"
@@ -105,7 +106,7 @@ sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch01_Revai_2022|Ch01_Revai_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 ---
 
@@ -163,7 +164,7 @@ updated: 2026-10-26
 
 ---
 
-> [!claim] 论证步骤一　研究证据的核心功能在于启发专业判断而非替代决策，教育循证必须确立证据与实践智慧互补共生的认识论基石
+> [!claim|step] 论证步骤一　研究证据的核心功能在于启发[[Professional Judgment|专业判断]]而非替代决策，教育循证必须确立证据与实践智慧互补共生的认识论基石
 > [[Evidence-Based Education\|循证教育]][[Discourse|话语]]已从盲目套用医学有效性金标准的[[Positivism\|实证主义]]偏误，转向情境适切的多元证据观；研究证据的核心功能在于启发[[Professional Judgment\|专业判断]]与重塑思维，而非提供机械化的处方。（pp.16–18）
 
 自 2000 年代初期起，[[OECD|经合组织]]（[[OECD]]）[[Centre for Educational Research and Innovation|教育研究与创新中心]]（Centre for Educational Research and Innovation, [[Centre for Educational Research and Innovation|CERI]]）持续关注教育研发与[[Epistemic Governance|知识治理]]，启动了贯穿二十年的循证探究历程。（pp.16–17）
@@ -177,7 +178,7 @@ updated: 2026-10-26
 >
 >   - 等级偏误泛滥：[[Systematic Review\|系统综述]]与[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials, RCT）被奉为金标准，[[Qualitative Research\|质性研究]]与一线经验遭边缘化。
 
-#### 1. 医学证据等级模式向教育领域的机械移植诱发了实证主义偏误与专业性危机
+> [!sub-claim] 1. 医学证据等级模式向教育领域的机械移植诱发了实证主义偏误与专业性危机
 
 在工具主义循证政策推动下，英美等国先后确立了以量化[[Research Synthesis|证据综合]]为导向的中介架构：（p.17）
 
@@ -197,7 +198,7 @@ updated: 2026-10-26
 > - **问题导向的证据适切观** 桑德拉·纳特利（Sandra Nutley）、马丁·鲍威尔（Martin Powell）与休·戴维斯（Hugh Davies）（Nutley et al., 2013）深刻批判了不顾[[Research Question\|研究问题]]而空谈证据等级的教条主义。决策者与一线教师不仅关心某项干预“是否起作用”，更需要理解“在何种情境下、对谁有效、为何起作用、实施成本与伴生风险是什么”。
 > - **质性研究的不可替代性** 探究机制运转过程（How it works）以及教育意义感知（Does it matter）的核心问题，是随机对照试验（RCT）无法回答、而必须依赖质性研究深入挖掘的知识领地（Petticrew & Roberts, 2003）。（p.17）
 
-#### 2. 研究证据与实践知识具有根本异质性，研究的功能在于启发专业判断而非提供自动化处方
+> [!sub-claim] 2. 研究证据与实践知识具有根本异质性，研究的功能在于启发专业判断而非提供自动化处方
 
 实践表明，研究极少直接转化为决策处方，而是以概念性启发方式重塑专业人员的思维底座：（pp.17–18）
 
@@ -216,12 +217,12 @@ updated: 2026-10-26
 
 ---
 
-> [!claim] 论证步骤二　单向信息分发无法自发引发实践变革，唯有全系统激活的“证据生态系统”才能保障知识动员的长效运转
+> [!claim|step] 论证步骤二　单向信息分发无法自发引发实践变革，唯有全系统激活的“证据生态系统”才能保障知识动员的长效运转
 > [[Knowledge Mobilisation\|知识动员]]已从单向信息分发的线性模型与点状伙伴关系，演进为涵盖评估、综合、转译与利用的[[Evidence Ecosystem\|证据生态系统]]；唯有激活系统性使能机制，才能突破微观中介的局限。（pp.18–21）
 
 伴随认识论的深化，学术界对知识如何流动的机制探讨也发生了重大[[Paradigm|范式]]转向。学者们逐步认识到，单纯关注如何把研究结果包装得更好无法解决转化梗阻，必须将知识流动置于宏观制度网络中考量。（p.18）
 
-#### 1. 传统线性推力（Push）与需求拉力（Pull）机制无法自发诱发决策采纳，知识动员展现出嵌套演进特征
+> [!sub-claim] 1. 传统线性推力（Push）与需求拉力（Pull）机制无法自发诱发决策采纳，知识动员展现出嵌套演进特征
 
 艾伦·贝斯特（Allan Best）与贝弗利·霍姆斯（Beverly Holmes）（Best & Holmes, 2010）提出了知识动员的三代嵌套模型，清晰揭示了动员认知的深化历程：线性模型关注信息推送（Push），视受众为被动容器；关系模型强调搭建伙伴关系与网络，打破社群壁垒；复杂系统模型则统摄前两者，将所有主体置于具有非线性反馈的系统之中。（pp.18–19）
 
@@ -240,7 +241,7 @@ updated: 2026-10-26
 > - **团队联合生产（Co-production）** 共同界定实践难题，协同完成研究设计与成果转译；
 > - **全系统能力建设（Capacity Building）** 重点培育兼具学术洞察与实践敏感度的跨界领军人才。(pp.20–21)
 
-#### 2. 新一代证据生态系统将生产、综合、翻译与利用有机统摄，确立了全系统激活的四维支柱
+> [!sub-claim] 2. 新一代证据生态系统将生产、综合、翻译与利用有机统摄，确立了全系统激活的四维支柱
 
 在英国 EEF 等新兴中介实践中，系统论思维被具象化为[[Evidence Ecosystem|证据生态系统]]框架：（pp.20–21）
 
@@ -272,12 +273,12 @@ updated: 2026-10-26
 
 ---
 
-> [!claim] 论证步骤三　期刊至上的学术评价体系阻碍跨界协作，知识共创模式深陷实践相关性与方法严谨性的双重张力
+> [!claim|step] 论证步骤三　期刊至上的学术评价体系阻碍跨界协作，知识共创模式深陷实践相关性与方法严谨性的双重张力
 > 大学现行以高影响因子期刊为导向的学术评价体制与实践导向的知识共创存在深层结构性冲突；多方共创虽能内生保障现实关涉度，但面临严密性与跨情境迁移的治理张力。（pp.21–22）
 
 为何经过二十余年的持续呼吁，系统论范式依然难以在现实中全面兑现？作者深入研究生产的供给侧机制，指出传统大学科研[[Varieties of Capitalism|生产体制]]存在结构性固疾，阻碍了研究向政策与教学的渗透。（pp.21–22）
 
-#### 1. 学院派学术评价对高影响因子期刊的执念遏制了跨界参与，导致研究产出与实践需求产生结构性脱节
+> [!sub-claim] 1. 学院派学术评价对高影响因子期刊的执念遏制了跨界参与，导致研究产出与实践需求产生结构性脱节
 
 安德鲁·范德文（Andrew Van de Ven）与保罗·约翰逊（Paul Johnson）（Van de Ven & Johnson, 2006）曾提出审视理论-实践鸿沟的三种框架：若将鸿沟视为[[Knowledge Production|知识生产]]方式的问题，那么知识由谁生产、在何处生产便直接决定了理论与现场的距离。然而，现行学术体制与这一诉求严重脱节。（pp.19, 21–22）
 
@@ -294,12 +295,12 @@ updated: 2026-10-26
 > - **制度位置与生态后果**
 >   该规制严重挫伤了教育研究生态的理论丰富性与方法多元性；与此同时，私人基金会与智库资本的强势介入虽补充了研发经费，但其先验议程亦对学术研究的独立性构成了潜在侵害（Rasmussen, 2021）。
 
-#### 2. 多主体知识共创虽然保证了现场相关性，但在严密性、复制验证与跨情境可迁移性上面临严峻考验
+> [!sub-claim] 2. 多主体知识共创虽然保证了现场相关性，但在严密性、复制验证与跨情境可迁移性上面临严峻考验
 
 从知识生产的维度看，让教师与政策制定者深度介入研究设计乃至协同开展知识生产（Co-production / [[Engaged Scholarship]]），被普遍视为破解脱节的最优解（Cooper et al., 2017）。然而，协同生产绝非灵丹妙药，伴随着显著的质量控制困境。（pp.21–22）
 
 > [!tension-table] 知识共创模式的双重张力与治理挑战
-> | 机制维度 | 本土情境收益（Benefits） | 系统治理风险与挑战（Challenges） | 代表文献实证支撑 |
+> | 机制维度 | 本土情境收益（Benefits） | 系统治理风险与挑战（Challenges） | 代表[[Document\|文献]]实证支撑 |
 > |---|---|---|---|
 > | **问题相关性** | 教师与官员全程参与，确保研究直击真实痛点，产生高度的主人翁认同感（Ownership）。 | 研究问题易被短期[[Pragmatic Paradigm\|实用主义]]裹挟，忽视宏观基础性理论建构。 | Cooper et al. (2017) |
 > | **资源与时间投入** | 深化一线教师对教学机理的专业反思，提升循证教学效能。 | 教师与决策者面临严重的时间赤字，缺乏外部专业支持易导致参与流于形式。 | Bell et al. (2010) |
@@ -308,12 +309,12 @@ updated: 2026-10-26
 
 ---
 
-> [!claim] 论证步骤四　经验中介机制的有效性亟需因果实证检验，五维系统分析框架确立了跨国证据治理的诊断基底
+> [!claim|step] 论证步骤四　经验中介机制的有效性亟需因果实证检验，五维系统分析框架确立了跨国证据治理的诊断基底
 > OECD [[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]依托覆盖 29 国 37 个教育系统的跨国政策调查与跟进[[In-depth Interview\|深度访谈]]，构建了五维系统分析框架，为破解何者有效的元研究命题奠定实证基底。（pp.24–27）
 
 为了走出理论思辨的藩篱，切实摸清跨国教育体系中知识动员的真实面貌，经合组织（[[OECD]]）于 2021 年正式立项启动[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]，通过大规模标准化政策调查绘制跨国实证基底。（pp.24–27）
 
-#### 1. 政策调查为跨国证据利用构建了覆盖 29 国 37 个教育系统教育部的主管部门画像
+> [!sub-claim] 1. 政策调查为跨国证据利用构建了覆盖 29 国 37 个教育系统教育部的主管部门画像
 
 该调查是国际上首个专注于国家级教育决策中研究动员机制的大规模实证调查。通过面向最高教育行政层级的标准化[[Questionnaire|问卷]]与针对 6 个典型国家的半结构化深度访谈，系统采集了跨国第一手数据。（pp.25–27）
 
@@ -331,7 +332,7 @@ updated: 2026-10-26
 >
 > 问卷回收后，项目组选取了日本、新西兰、挪威、葡萄牙、斯洛文尼亚和南非 6 个在地理区域与治理结构上极具异质性的国家展开半结构化深入访谈，以确保数据的科学解读并深挖典型机制痛点。（p.26）
 
-#### 2. 全书五维分析框架统摄结构、关系、质量、文化与能力，确立了破解“何者有效”的实证路线图
+> [!sub-claim] 2. 全书五维分析框架统摄结构、关系、质量、文化与能力，确立了破解“何者有效”的实证路线图
 
 调查与全书各章立足于一个系统性分析框架，将提升教育研究影响力的关键要素分解为五大互为支撑的维度，为全书后续章节对调查数据的深入挖掘提供了逻辑罗盘。（pp.24–25）
 

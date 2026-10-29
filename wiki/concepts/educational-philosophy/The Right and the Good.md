@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -69,10 +69,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　过度将善的问题驱逐出公共领域会导致现代社会陷入实质道德真空
-
-> [!concept-lens] 道德真空与公共[[Discourse|话语]]萎缩
-> 探讨自由主义程序中立如何由于放弃对崇高之善的追求，反向催生政治极化与民粹主义。
+> [!concept-proposition] 命题一｜过度将善的问题驱逐出公共领域会导致现代社会陷入实质道德真空
+> **探讨维度　道德真空与公共[[Discourse|话语]]萎缩** 探讨自由主义程序中立如何由于放弃对崇高之善的追求，反向催生政治极化与民粹主义。
 
 > [!claim] Heller (1987)
 > **超越正义与[[Buen Vivir|美好生活]]的不可替代性** 匈牙利哲学家[[Ágnes Heller|阿格妮丝·赫勒]]（Ágnes Heller, 1987）在《超越正义》（*Beyond Justice*）中指出，仅有正义的制度骨架无法支撑完满的人类生活；放弃对美好生活、伦理卓越与审美判断的追求，将使整个文明失去灵魂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 80)]]
@@ -82,10 +80,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　对一切价值的无差别包容终将退化为对任何崇高价值的普遍虚无
-
-> [!concept-lens] 相对主义与价值判断困境
-> 揭示包容性口号在走向极端时如何摧毁社会的批判与评价能力。
+> [!concept-proposition] 命题二｜对一切价值的无差别包容终将退化为对任何崇高价值的普遍虚无
+> **探讨维度　相对主义与价值判断困境** 揭示包容性口号在走向极端时如何摧毁社会的批判与评价能力。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **包容一切异化为一无所信** [[Postmodernism|后现代主义]]对所有规范性主张的解构，虽然消除了排他性偏见，但也剥夺了社会做出道德与审美判断的基准；对所有事物的无条件包容，最终不可避免地滑向对任何崇高原则的一无所信。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 73–74, 80–81)]]

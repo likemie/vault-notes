@@ -3,6 +3,7 @@ citation: "Wang, D., & Barabási, A.-L. (2021). The science of science. Cambridg
 extracted_to:
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
 processed_date: 2026-10-27
 ---
 

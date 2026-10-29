@@ -7,7 +7,7 @@ aliases:
 summary: "区分学生在具体任务中采用的表层与深层学习方式，强调学习取向由学习意图、知识基础、任务活动、课程结构与评估情境共同塑造"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -20,6 +20,7 @@ tags:
 related_concepts:
   - "[[Learning Intentions]]"
   - "[[Rote Learning]]"
+  - "[[Note-Taking]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Homework]]"
   - "[[Constructivist Paradigm]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-10-26
 
 > [!boundary]- 概念边界
 > - **不用于给学生分类** 把 Robert 称为表层学习者，会把可改变的学习方式误写成个人缺陷。Robert 在当前任务与教学情境中采用表层方式，更符合原文含义。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 57–58)]]
-> - **不以认知活动名称单独判定** 记笔记、背诵或重复可能服务于复述，也可能为理解和迁移奠定基础；必须结合学习意图、后续加工和评估要求判断。
+> - **不以认知活动名称单独判定** [[Note-Taking|记笔记]]、背诵或重复可能服务于复述，也可能为理解和迁移奠定基础；必须结合学习意图、后续加工和评估要求判断。
 > - **不等于普遍的线性阶段论** 表层知识常是深层理解的重要基础，但不同学习过程未必都遵循先表层、后深层的同一顺序。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 82–89)]]
 
 ---
@@ -138,20 +139,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　学习取向是情境中可改变的活动方式，不代表学生的固定属性
-
-> [!concept-lens] [[Unit of Analysis\|分析单位]]
-> 这一命题以学生在具体任务与教学情境中的活动为解释单位，因而允许教师通过课程设计改变学习取向。
+> [!concept-proposition] 命题一｜学习取向是情境中可改变的活动方式，不代表学生的固定属性
+> **探讨维度　[[Unit of Analysis\|分析单位]]** 这一命题以学生在具体任务与教学情境中的活动为解释单位，因而允许教师通过课程设计改变学习取向。
 
 > [!claim] [[John Biggs\|Biggs, J.]]
 > **从能力归因转向活动解释** 把 Robert 的低投入归因于能力、动机或人格缺陷，会使教学退化为学生筛选。把学习结果理解为学生活动与教学情境交互的结果，教师便可追问如何让 Robert 也开展提问、联系和应用。Susan 在讲授中会自发使用这些活动，Robert 可能只记录和背诵。[[Problem-Based Learning\|问题本位学习]]提高了任务要求，使二人都必须开展较高阶活动。好的教学由此扩大了高阶活动的参与范围，并缩小不同学术取向学生的认知投入差距。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 57–59)]]
 
 ---
 
-### 命题二　深层学习取决于活动与目标的适切程度
-
-> [!concept-lens] 任务适切性
-> 表层与深层的分界不在活动名称，而在学习活动能否产生目标所要求的结果；复杂探究若缺乏知识基础，同样可能只制造混乱。
+> [!concept-proposition] 命题二｜深层学习取决于活动与目标的适切程度
+> **探讨维度　任务适切性** 表层与深层的分界不在活动名称，而在学习活动能否产生目标所要求的结果；复杂探究若缺乏知识基础，同样可能只制造混乱。
 
 > [!claim] Biggs, J.
 > **意义产生于学生的活动** [[Argument_Biggs_1999_HERD\|Marton & Säljö (1976, as cited in Biggs, 1999, pp. 59–60)]] 的阅读研究显示，面向预测考题的学生把文本拆成可能被提问的细节，最终记住零散事实，却没有理解作者要说明什么；面向理解的学生则把细节放回整体论证中，因而看见事实如何共同支持作者的观点。Biggs 据此把表层方式界定为与任务不相称的低阶活动，把深层方式界定为足以处理任务并获得相应结果的活动。
@@ -167,10 +164,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题三　目标、评估与互动条件共同决定学生是否有必要深入学习
-
-> [!concept-lens] 情境塑造机制
-> 学生会根据课程实际奖励的行为分配努力；促进深层学习既要提出理解目标，也要让教学活动、评估任务和社会互动持续支持这些目标。
+> [!concept-proposition] 命题三｜目标、评估与互动条件共同决定学生是否有必要深入学习
+> **探讨维度　情境塑造机制** 学生会根据课程实际奖励的行为分配努力；促进深层学习既要提出理解目标，也要让教学活动、评估任务和社会互动持续支持这些目标。
 
 > [!claim] Biggs, J.
 > **概念改变需要四项条件** 学习包含信息重组和理解方式的改变，信息增长只是其中一部分。要促成这种[[Educative Conceptual Change\|教育性概念改变]]，学生首先要看清目标及其在评估中的体现；其次要感到达到目标确有必要，而这种动机可以由教学产生；再次要能专注于任务，避免在紧迫或设计不当的考试压力下采取防御性应付；最后还要通过同伴与教师的合作和对话，对理解进行塑造、扩展和深化。四项条件共同把理解目标转化为学生实际开展的活动。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 60–61)]]
@@ -180,10 +175,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题四　相同的记忆与重复行为可以服务于不同的学习过程
-
-> [!concept-lens] 文化与过程顺序
-> 可观察行为不能脱离[[Learning Intentions\|学习意图]]和时间序列解释；记忆既可能是复述的终点，也可能是理解、应用与质疑的准备阶段。
+> [!concept-proposition] 命题四｜相同的记忆与重复行为可以服务于不同的学习过程
+> **探讨维度　文化与过程顺序** 可观察行为不能脱离[[Learning Intentions\|学习意图]]和时间序列解释；记忆既可能是复述的终点，也可能是理解、应用与质疑的准备阶段。
 
 > [!claim] [[Jin Li\|Li, J.]]
 > **重复的功能取决于它在完整学习过程中的位置** [[Paradox of the Chinese Learner\|中国学习者悖论]]研究表明，西方观察者容易把安静、背诵和重复直接归为表层学习。[[Argument_Li_2012_Cambridge\|Marton et al. (1996, as cited in Li, 2012, pp. 86–87)]] 发现，记忆可以成为形成深层理解的第一步；[[Argument_Li_2012_Cambridge\|Dahlin & Watkins (2000, as cited in Li, 2012, pp. 86–87)]] 发现，英国学生较常用重复检查是否记住，中国学生则用重复形成更深印象并为理解奠定基础。[[Argument_Li_2012_Cambridge\|Li (2012, pp. 87–88)]] 转述的 Pratt et al. 四步过程依次包含记忆、理解、应用以及质疑和修正。判断学习层次时，需要继续追踪外显行为之后是否发生组织、应用和反思。
@@ -219,7 +212,7 @@ updated: 2026-10-26
 >
 > | 元分析 | 效应值 | 95% CI | 效应指标与模型 | [[Heterogeneity\|异质性]]与预测区间 | [[Dependent Variable\|结果变量]] | k / N | 证据确定性 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Hattie_2015_SOTLP\|Henk & Stahl (1985, as cited in Hattie, 2015b, p. 84)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.34"><span class="b7"></span></span>0.34 | — | Cohen's d；模型未报告 | 未报告 | 听讲时记笔记后的学习结果 | — | 原文未评级；二手转引，不能据此区分表层或深层结果 |
+> | [[Argument_Hattie_2015_SOTLP\|Henk & Stahl (1985, as cited in Hattie, 2015b, p. 84)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.34"><span class="b7"></span></span>0.34 | — | Cohen's d；模型未报告 | 未报告 | 听讲时[[Note-Taking\|记笔记]]后的学习结果 | — | 原文未评级；二手转引，不能据此区分表层或深层结果 |
 > | [[Argument_Hattie_2015_SOTLP\|Henk & Stahl (1985, as cited in Hattie, 2015b, p. 84)]] | <span class="mx-bar ef-bar" title="Cohen's d 1.56"><span class="b28"></span></span>1.56 | — | Cohen's d；模型未报告 | 未报告 | 复习同一批笔记后的学习结果 | — | 原文未评级；结果表明后续加工的效果高于单纯记录，但测量层次未说明 |
 > | [[Argument_Hattie_2015_SOTLP\|Hattie (2015a)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.08"><span class="b2"></span></span>0.08 | — | Cohen's d；二级综合模型未报告 | 各元分析结果约为 −0.30 至 0.32；未报告正式异质性指标 | [[Problem-Based Learning\|问题本位学习]]的总体学习结果 | 9 项元分析 / N 未报告 | 原文未评级；平均值混合了知识获取、技能、评估结果和不同学段 |
 > | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 86)]] | <span class="mx-bar ef-bar neg" title="Cohen's d −0.79"><span class="b16"></span></span>−0.79 | — | Cohen's d；模型未报告 | 未报告 | 问题本位学习中的知识获取 | — | 原文未评级；说明缺乏事实基础时的风险，不能推出问题本位学习普遍无效 |

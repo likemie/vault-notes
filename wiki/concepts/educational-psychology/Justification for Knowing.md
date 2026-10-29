@@ -38,7 +38,7 @@ related_arguments:
   - "[[Argument_Wu_2025_ER]]"
 status: active
 created: 2026-08-14
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -56,20 +56,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　辩护能力的进化标志着知识从客观接受到主观建构的跨越
-
-> [!concept-lens] 评估标准的跃迁
-> 探讨当个体面对冲突的观点或不确定的信息时，判断“相信什么”的依据是如何发生根本转变的。
+> [!concept-proposition] 命题一｜辩护能力的进化标志着知识从客观接受到主观建构的跨越
+> **探讨维度　评估标准的跃迁** 探讨当个体面对冲突的观点或不确定的信息时，判断“相信什么”的依据是如何发生根本转变的。
 
 > [!claim] [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]
 > **[[Justificatory Standards\|辩护标准]]跃迁主张** 随着[[Epistemology\|认识论]]的成熟，个体评价知识合法性的机制会经历彻底的重构。在认知层级较低时，个体由于认为知识是确定的，因此“无需辩护”，只要接受事实或权威的指令即可。随着个体步入多元论（发现权威也有争议），辩护标准可能陷入极端的[[Subjectivism\|主观主义]]，即认为“既然没有绝对真理，那所有观点都是平等的”。只有到达最高阶的认知阶段，个体才能够熟练运用质询规则，能够关联不同视角的证据并权衡其权重。他们不再盲目接受或全盘否定专家，而是基于证据和具体语境，对结论的优劣进行概率性的评价与辩护。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 120)]]
 
 ---
 
-### 命题二　人机协同学习中多重辩护方式是克服算法盲从并实现深度理解的必要路径
-
-> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]中的辩护分化
-> 探讨面对[[Generative Artificial Intelligence\|生成式人工智能]]生成的现成答案时，学习者采用何种辩护机制影响人机协同[[Problem Solving\|问题解决]]的质量。
+> [!concept-proposition] 命题二｜[[Man-Computer Symbiosis|人机协同]]学习中多重辩护方式是克服算法盲从并实现深度理解的必要路径
+> **探讨维度　[[Man-Computer Symbiosis|人机共生]]中的辩护分化** 探讨面对[[Generative Artificial Intelligence\|生成式人工智能]]生成的现成答案时，学习者采用何种辩护机制影响人机协同[[Problem Solving\|问题解决]]的质量。
 
 > [!claim] [[Argument_Wu_2025_ER\|Wu et al. (2025)]]
 > **多重辩护与人机知识验证** 在人机交互中，知识辩护方式直接决定学习者如何处理大模型输出。单一依赖权威辩护的学习者倾向于将大模型当作权威或仅比对教材，直接采信建议；而采用多重辩护（Multiple Justifications）的学习者能够综合个人经验、大模型多轮反馈、领域情境约束与同伴审议，对算法建议展开跨源交叉验证，从而在人机共生中维持[[Epistemic Agency\|认识能动性]]并获得深层理解。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–364)]]

@@ -32,8 +32,8 @@ related_concepts:
   - "[[Research Writing Script]]"
   - "[[Heterogeneity]]"
   - "[[Positivism]]"
-  - "[[Research Question]]"
   - "[[Knowledge Production]]"
+  - "[[Research Question]]"
   - "[[Emergence]]"
   - "[[Scientism]]"
   - "[[Theoretical Standpoint]]"
@@ -159,30 +159,24 @@ updated: 2026-10-29
 
 ---
 
-### 命题一　理论视角处于方法论最高认识论层级并决定知识生产性质
-
-> [!concept-lens] [[Epistemology|认识论]]层级与学科方法论维度
-> 本类命题探讨理论视角在科学探究层级中的位置，厘清方法论（Methodology）与具体方法（Methods）的本质区别。
+> [!concept-proposition] 命题一｜理论视角处于方法论最高[[Epistemology|认识论]]层级并决定[[Knowledge Production|知识生产]]性质
+> **探讨维度　[[Epistemology|认识论]]层级与学科方法论维度** 本类命题探讨理论视角在科学探究层级中的位置，厘清方法论（Methodology）与具体方法（Methods）的本质区别。
 
 > [!claim] [[Val D. Rust|Rust, V. D.]]
 > **方法论层级与理论视角的等同性** 依据罗布森与菲利普斯的研究分层理论，科学研究自上而下包含认识论（Level 1）、策略（Level 2）、方法（Level 3）与方法论（Level 4）。北美学术界常将方法论收窄为统计抽样等技术操作，造成学科认识论贫乏；而在英欧传统与严谨元研究中，方法论是统领[[Paradigm|研究范式]]与概念框架的最高层级，其实质正是“理论视角”。研究者所秉持的理论视角决定了[[Research Question|研究问题]]的性质、材料收集的侧重点以及对跨国教育现象的解释深度。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121–122)]]
 
 ---
 
-### 命题二　理论视角发挥彩虹桥梁功能赋予变量关联以因果解释合法性
-
-> [!concept-lens] 因果机制与写作逻辑维度
-> 本类命题围绕理论视角如何在具体实证研究中发挥作用展开，剖析理论如何连接[[Variable|变量]]与假设。
+> [!concept-proposition] 命题二｜理论视角发挥彩虹桥梁功能赋予[[Variable|变量]]关联以因果解释合法性
+> **探讨维度　因果机制与写作逻辑维度** 本类命题围绕理论视角如何在具体实证研究中发挥作用展开，剖析理论如何连接[[Variable|变量]]与假设。
 
 > [!claim] [[John W. Creswell|Creswell, J. W.]]
 > **彩虹桥梁解释机制** 在实证[[Quantitative Research|量化研究]]中，理论视角作为架设在[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]之间的逻辑彩虹，超越了单纯的[[Document|文献]]标签功能。实证数据本身只能展现变量间的统计相关，唯有理论视角所包含的核心命题与行为/制度机制，才能回答“自变量为何以及如何导致因变量变化”的因果机理。通过五步标准化[[Research Writing Script|写作脚本]]，研究者得以将宏观理论严密演绎为当前课题的可检验假设。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 53, 62–63)]]
 
 ---
 
-### 命题三　理论视角走向多元范式共存标志着学科繁荣与健康多元
-
-> [!concept-lens] 学科元研究与范式演进维度
-> 本类命题聚焦学科发展史上理论视角的分布格局，探讨范式竞争与[[Knowledge Production|知识生产]]的关系。
+> [!concept-proposition] 命题三｜理论视角走向多元范式共存标志着学科繁荣与健康多元
+> **探讨维度　学科元研究与范式演进维度** 本类命题聚焦学科发展史上理论视角的分布格局，探讨范式竞争与[[Knowledge Production|知识生产]]的关系。
 
 > [!claim] Rust, V. D.
 > **理论视角的健康多元态势** 学科的生机植根于多元视角的并存与互补。半个世纪的比较教育学文献计量表明，该领域已打破了20世纪60年代[[Positivism|实证主义]]与[[Structural Functionalism|结构功能主义]]的单一垄断，[[Emergence|涌现]]出涵盖[[Critical Theory|批判理论]]、马克思主义、女性主义、[[Postmodernism|后现代主义]]、新制度主义等至少26种不同的理论视角。未标明明确理论视角的“盲目经验研究”比例持续下降，多元理论视角指导下的实证与阐释研究推动了学科的健康繁荣。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123)]]

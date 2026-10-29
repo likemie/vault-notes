@@ -29,6 +29,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
+  - "[[Document]]"
   - "[[Construct]]"
   - "[[Conversational AI in Education]]"
   - "[[Self-Efficacy]]"
@@ -122,14 +123,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-04
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chen_Cheung_2025_ERR"
 argument_key: "Argument_Chen_Cheung_2025_ERR"
 argument_display_title: "Effect of generative artificial intelligence on university students learning outcomes: A systematic review and meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 92
+argument_related_count: 93
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -152,7 +153,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **研究团队与脉络** 香港中文大学陈树贞（Shuzhen Chen）与[[Alan C. K. Cheung\|张志强]]（Alan C. K. Cheung）承袭[[Evidence-Based Education\|循证教育]]改革（[[Evidence-Based Reform]]）传统与严格实验元分析方法论，将针对实证研究的方法学审视推进至生成式 AI 这一新兴领域。
 > - **对象** 2022 年 12 月至 2025 年 3 月期间发表的 57 项关于生成式 AI 赋能大学生产出的实验与准[[Experimental Research\|实验研究]]（涵盖 97 个效应量估计，$N = 5{,}389$ 名大学生）。
-> - **张力** 早期文献对生成式 AI 促学潜力的“过度乐观估计”与方法学不严密（未控基线差异、依赖自制测验、忽略抽屉文件偏倚）之间的张力，以及工具对认知产出的即时促进与对自主元认知监控潜在抑制之间的张力。
+> - **张力** 早期[[Document|文献]]对生成式 AI 促学潜力的“过度乐观估计”与方法学不严密（未控基线差异、依赖自制测验、忽略抽屉文件偏倚）之间的张力，以及工具对认知产出的即时促进与对自主元认知监控潜在抑制之间的张力。
 > - **贡献** 首次在生成式 AI 元分析中引入基线等效性控制标准（$d < 0.25$），构建基于[[Third Generation Activity Theory\|活动理论]]移动计算机支持协作学习（Activity Theory-Mobile Computer-Supported Collaborative Learning, AT-MCSCL）的多维调节分析框架，系统揭示了边际效益递增假说与权力距离调节机制，并公开全部数据与分析代码以确保透明度与可复现性。
 
 > [!row-contrast] 高等教育生成式 AI 元分析的方法学与结局定位对比
@@ -267,7 +268,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一：基线等效性控制下的大学生成果总体效应与多维产出分化
+> [!claim|step] 论证步骤一：基线等效性控制下的大学生成果总体效应与多维产出分化
 > 在严格排除[[Pre-test and Post-test\|前测]]组间基线差异过大（$d \ge 0.25$）的不合格研究后，生成式 AI 对大学生的总体学习产出仍表现出高度显著的大[[Effect Size\|效应量]]（$g^+ = 0.804$）；但不同学习维度的获益呈现出极不均衡的梯度分化：[[Language Skills\|语言技能]]提升最为剧烈，[[Academic Achievement\|学业成绩]]、[[Affective Outcomes\|情感动机]]与[[Higher-Order Thinking Skills\|高阶思维]]呈现中到大效应，而对[[Metacognition\|元认知]]则未产生统计显著影响。
 
 > [!ma-table]- 多维学习产出效应量与[[Heterogeneity\|异质性]]检验汇总
@@ -306,7 +307,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二：基于活动理论（AT-MCSCL）维度的调节机制检验与微观-宏观生态解构
+> [!claim|step] 论证步骤二：基于活动理论（AT-MCSCL）维度的调节机制检验与微观-宏观生态解构
 > 生成式 AI 的促学成效受到活动系统中学习者、规则与共同体情境要素的显著调节：大一新生与语言学习者获益最为显著；真实课堂、4–12 周中期干预、自编测验与中等[[Sample Size Determination\|样本量]]产生最高效应；在宏观情境上，低 ICT 水平、低 [[Socioeconomic Status|SES]] 地区与高权力距离文化中 AI 展现出显著更强的促学赋能（边际效益递增与权力壁垒破除机制）。
 
 > [!moderator-summary]- 主体、工具、角色与规则特征调节分析
@@ -353,7 +354,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三：发表偏倚压力测试、剪补法调整与批判性实践反思
+> [!claim|step] 论证步骤三：发表偏倚压力测试、剪补法调整与批判性实践反思
 > 现有文献存在不可忽视的发表偏倚与效果高估风险；经 Duval & Tweedie [[Trim and Fill Method\|剪补法]]严密校正后，生成式 AI 对大学生产出的实际真实效应量收敛为中等偏小水平（$g^+ = 0.321$），学界与实践界必须摒弃盲目的技术狂热，警惕“元认知惰性”与代做[[Homework\|作业]]导致的表面虚高，转向深层教学法与评价体系重构。
 
 > [!bias-audit]- 发表偏倚诊断与[[Funnel Plot\|漏斗图]]不对称性检验

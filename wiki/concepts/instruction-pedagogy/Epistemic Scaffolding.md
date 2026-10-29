@@ -6,7 +6,7 @@ aliases:
 summary: "教学法与学习科学概念，指通过使学科认识论规范、评价标准与反思路径显性化以引导学习者评估知识、辩护主张并参与学科核心探究实践的教学支持机制。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 21
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,17 +24,21 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Epistemic Agency]]"
   - "[[Metacognition]]"
+  - "[[Time Management]]"
   - "[[Scientific Explanation]]"
   - "[[Concept Mapping]]"
   - "[[Reflexivity]]"
   - "[[Reliability]]"
   - "[[Cooperative Learning]]"
+  - "[[Authentic Science Practices]]"
+  - "[[Collaborative Learning]]"
   - "[[Epistemological Vigilance]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Ideals]]"
   - "[[Domain Specificity]]"
   - "[[Variable]]"
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Effect Size]]"
   - "[[Multimodal Discourse Analysis]]"
   - "[[Transcription in Qualitative Research]]"
@@ -43,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -71,7 +75,7 @@ updated: 2026-10-22
 > [!contrast-table] [[Epistemology\|认识论]]支架与传统[[Scaffolding\|教学支架]]的辨析
 > | 比较维度 | 认识论支架（Epistemic Scaffolding） | 程序性支架（Procedural Scaffolding） | 概念性支架（Conceptual Scaffolding） | [[Metacognition\|元认知]]支架（Metacognitive Scaffolding） |
 > |---|---|---|---|---|
-> | **核心引导目标** | 知识评估标准、因果辩护与认识论准则 | 任务操作路径、软件使用与实验步骤 | 学科领域概念、事实网络与理论定义 | 时间管理、进度规划与通用注意监控 |
+> | **核心引导目标** | 知识评估标准、因果辩护与认识论准则 | 任务操作路径、软件使用与实验步骤 | 学科领域概念、事实网络与理论定义 | [[Time Management\|时间管理]]、进度规划与通用注意监控 |
 > | **所解决的认知困境** | 不知如何判断算法输出或主张的真伪与充分性 | 不知如何按步骤推进操作流程 | 缺乏完成任务所需的背景知识与事实 | 学习过程缺乏自我规划与通用反思 |
 > | **典型干预形式** | [[Scientific Explanation\|科学解释]]标准量规、认识论反思提问语 | 操作导航、界面提示条、步骤核对表 | [[Concept Mapping\|概念图]]、术语表、知识点摘要卡 | 计划检查清单、进度自评量表 |
 > | **代表性学者** | Lin and Puntambekar (2019); [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] | Quintana et al. (2004) | Reiser (2004) | Zimmerman (2002) |
@@ -104,20 +108,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　显性认识论支架通过外显化学科认识论规范赋能学习者参与真实科学探究与主张辩护
-
-> [!concept-lens] 学科[[Epistemology\|认识论]]外显化与探究参与维度
-> 该命题探讨如何克服传统科学探究中评价准则内隐化所导致的盲目试错，确立显性学科标准作为学习者高阶认知支柱的机制。
+> [!concept-proposition] 命题一｜显性[[Epistemology|认识论]]支架通过外显化学科认识论规范赋能学习者参与[[Authentic Science Practices|真实科学探究]]与主张辩护
+> **探讨维度　学科[[Epistemology\|认识论]]外显化与探究参与维度** 该命题探讨如何克服传统科学探究中评价准则内隐化所导致的盲目试错，确立显性学科标准作为学习者高阶认知支柱的机制。
 
 > [!claim] Lin & Puntambekar
-> **认识论规范显性化对高阶探究实践的奠基机制** 科学探究的核心难点不仅在于操作步骤，更在于学习者往往缺乏评估证据与协调主张的学科认识论准则。显性认识论支架通过在计算机支持的协作学习环境中将科学论证与证据评价的隐性规则转化为可感知的[[Scaffolding\|脚手架]]，能够显著降低学习者的元认识论负荷，使学生能够聚焦于科学证据的因果协调与模型修正。[[Argument_Han_Gutierez_2026_IJSE\|(Lin & Puntambekar, 2019; Barzilai et al., 2020, 引自 Han & Gutierez, 2026, p. 4)]]
+> **认识论规范显性化对高阶探究实践的奠基机制** 科学探究的核心难点不仅在于操作步骤，更在于学习者往往缺乏评估证据与协调主张的学科认识论准则。显性认识论支架通过在计算机支持的[[Collaborative Learning|协作学习]]环境中将科学论证与证据评价的隐性规则转化为可感知的[[Scaffolding\|脚手架]]，能够显著降低学习者的元认识论负荷，使学生能够聚焦于科学证据的因果协调与模型修正。[[Argument_Han_Gutierez_2026_IJSE\|(Lin & Puntambekar, 2019; Barzilai et al., 2020, 引自 Han & Gutierez, 2026, p. 4)]]
 
 ---
 
-### 命题二　学科标准与反思提示语构成的双轨支架在人机协同中实现对算法内容、信源与理解状态的协同监控
-
-> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]学习与多维[[Epistemological Vigilance\|认识论警觉]]激发维度
-> 聚焦[[Generative Artificial Intelligence\|生成式人工智能]]深度介入科学探究的情境，阐明单一支架的局限以及标准与提问双轨协同驱动全面认知审验的内在逻辑。
+> [!concept-proposition] 命题二｜学科标准与反思提示语构成的双轨支架在[[Man-Computer Symbiosis|人机协同]]中实现对算法内容、信源与理解状态的协同监控
+> **探讨维度　[[Man-Computer Symbiosis|人机共生]]学习与多维[[Epistemological Vigilance\|认识论警觉]]激发维度** 聚焦[[Generative Artificial Intelligence\|生成式人工智能]]深度介入科学探究的情境，阐明单一支架的局限以及标准与提问双轨协同驱动全面认知审验的内在逻辑。
 
 > [!claim] [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]]
 > **学科标准与反思提问双轨支架对三维认识论警觉的互补驱动** 在利用生成式人工智能建构[[Scientific Explanation\|科学解释]]时，单一形式的支架难以应对多模态算法输出的复杂性：
@@ -130,7 +130,7 @@ updated: 2026-10-22
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **学科外显化命题** | 使科学确证与论证标准显性化，降低元认识论负荷以支持真实探究 | 计算机支持的协作探究、科学实验设计、论证教学 | Lin and Puntambekar (2019); Barzilai et al. (2020) |
+> | **学科外显化命题** | 使科学确证与论证标准显性化，降低元认识论负荷以支持真实探究 | 计算机支持的协作探究、科学[[Experimental Research\|实验设计]]、论证教学 | Lin and Puntambekar (2019); Barzilai et al. (2020) |
 > | **双轨人机协同命题** | 学科标准与反思提问互补协同，驱动对生成式 AI 输出的多维批判审问与主体能动性维系 | 生成式 AI 辅助科学学习、人机协同科学解释、多模态教学 | [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] |
 
 ---

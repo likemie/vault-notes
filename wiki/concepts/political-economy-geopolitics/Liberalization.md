@@ -9,7 +9,7 @@ aliases:
 summary: "比较政治经济学与批判政策社会学核心概念，既指发达资本主义社会中有组织集体规制向竞争性自由市场逻辑开放的去组织化与风险个体化进程（施特雷克与希伦，2005），也是超国家组织蓄意推进的意识形态工程，通过将全球化本体化与物化以掩蔽意义政治，强行驱动公共部门与教育系统服从全球市场规律（里兹维与林加德，2009；布迪厄，2003）。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Pierre Bourdieu]]"
+  - "[[James C. Scott]]"
 related_facts:
   - "[[OECD]]"
   - "[[International Monetary Fund]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -116,30 +117,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　当代发达经济体的自由化是集体社会规制让位于竞争性市场逻辑的去组织化政治重构
-
-> [!concept-lens] 资本主义演进与去组织化
-> 探讨发达工业国家战后体制转型的主导历史逻辑，界定自由化改革的阶级属性与政治实质。
+> [!concept-proposition] 命题一｜当代发达经济体的自由化是集体社会规制让位于竞争性市场逻辑的去组织化政治重构
+> **探讨维度　资本主义演进与去组织化** 探讨发达工业国家战后体制转型的主导历史逻辑，界定自由化改革的阶级属性与政治实质。
 
 > [!claim] [[Wolfgang Streeck|Streeck, W.]] & [[Kathleen Thelen|Thelen, K.]]
 > **自由化作为有组织资本主义的系统性解构** 施特雷克与希伦指出，当代发达政治经济学所经历的绝非中性的技术微调，而是一场深刻的自由化重塑。无论是[[Varieties of Capitalism|自由市场经济]]还是协调市场经济，都在以不同速率经历“去组织化”（Disorganization）。面对资本全球化与利润空间压缩，工会势力的削弱与雇主对弹性的诉求，瓦解了战后将资本流动性嵌入于社会妥协之中的制度基础。自由化是对战后民主资本主义社会整合假设的根本解耦，其推进深刻重塑了国家的分配版图。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 3–5)]]
 
 ---
 
-### 命题二　自由化改革较非自由主义制度建设具有更低的集体行动门槛，能够经由底层自利规避而默认推进
-
-> [!concept-lens] 渐进变迁的非对称动力学
-> 揭示为何自由化在缺乏社会共识或立法大修的情况下，依然能够以极高效率实现长驱直入。
+> [!concept-proposition] 命题二｜自由化改革较非自由主义制度建设具有更低的集体行动门槛，能够经由底层自利规避而默认推进
+> **探讨维度　渐进变迁的非对称动力学** 揭示为何自由化在缺乏社会共识或立法大修的情况下，依然能够以极高效率实现长驱直入。
 
 > [!claim] Streeck, W. & Thelen, K.
 > **默认达成的非对称演化优势** 施特雷克与希伦提出了极具洞察力的非对称假说：在资本主义市场经济中，建立非自由主义的集体规制是一项极其艰难的政治工程，必须仰赖强有力的政府动员与克服搭便车困境；而自由化却与自利市场主体的天性天然吻合。要推进自由化，政治精英往往无需发动高风险的显性立法对决，只需在监管上睁一只眼闭一只眼，放任企业通过层叠灵活雇佣、利用[[Institutional Drift|制度漂移]]推迟保护标准更新。这种“默认达成”（Achievement by Default）机制使自由化成为[[Theory of Gradual Institutional Change|渐进制度变迁]]最顺畅、最难以阻挡的主导通道。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 32–33)]]
 
 ---
 
-### 命题三　跨国教育治理将全球化本体化为中立客观实体以掩饰经济自由化的意识形态工程与意义政治裁决
-
-> [!concept-lens] 批判政策社会学与全球治理视阈
-> 探讨超国家政策机构如何通过将全球化自然化与去政治化，为激进的经济自由化工程建立无可争议的正统合法性。
+> [!concept-proposition] 命题三｜跨国教育治理将全球化本体化为中立客观实体以掩饰经济自由化的意识形态工程与意义政治裁决
+> **探讨维度　批判政策社会学与全球治理视阈** 探讨超国家政策机构如何通过将全球化自然化与去政治化，为激进的经济自由化工程建立无可争议的正统合法性。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]], & [[Bob Lingard|Lingard, B.]] / [[Pierre Bourdieu|Bourdieu, P.]]
 > **全球化本体化与经济自由化意识形态工程论断** 法扎尔·里兹维与鲍勃·林加德援引皮埃尔·布迪厄（Pierre Bourdieu, 2003）的论断指出，[[OECD|经合组织]]等国际组织对全球化的界定呈现出极强的物化（Reification）与本体化倾向，将其视为个体与国家只能被动适应的客观外部力量。这种[[Discourse|话语]]完全拒绝将全球化视为社会行动者用以解释互联条件的分析范畴，更抹杀了一个根本事实：经合组织所推行的全球化愿景，本质上反映了一项蓄意推进经济自由化的意识形态工程。通过将特定的政治经济哲学特权化，并借助从描述性概念向规范性、[[Performativity|操演性]]概念的滑移（如将“[[Knowledge-Based Economy|知识经济]]”包装为不容置疑的追求），跨国政策机构成功遮蔽了概念背后的“意义政治”（Politics of Meaning），迫使各成员国将公共教育降格为直接服务于全球市场竞争与资本增值的工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 441)]]
@@ -156,7 +151,7 @@ updated: 2026-10-22
 ---
 
 > [!dev-timeline] 概念演变
-> - **1980年代中 — 去组织化资本主义的先声** 克劳斯·奥菲（Claus Offe）以及斯科特·拉什与约翰·厄里（Lash & Urry）提出“去组织化资本主义”命题，揭示战后[[Neocorporatism|新法团主义]]在弹性生产与全球资本冲击下的解体。
+> - **1980年代中 — 去组织化资本主义的先声** 克劳斯·奥菲（Claus Offe）以及[[James C. Scott|斯科特]]·拉什与约翰·厄里（Lash & Urry）提出“去组织化资本主义”命题，揭示战后[[Neocorporatism|新法团主义]]在弹性生产与全球资本冲击下的解体。
 > - **1990年代 — [[Washington Consensus|华盛顿共识]]与新自由主义全球化** [[International Monetary Fund|国际货币基金组织]]与[[OECD|经合组织]]推动以去规制、私有化和紧缩为标志的宏观自由化浪潮。
 > - **2003 — [[Pierre Bourdieu|布迪厄]]批判经济自由化工程与市场暴政** [[Pierre Bourdieu|布迪厄]]出版《反扑：对抗市场暴政》（*Firing Back against the Tyranny of the Market*），揭示全球化并非自然技术过程，而是新自由主义蓄意推进的经济自由化工程。
 > - **2005 — 渐进演化视域下自由化非对称机制的形式化** [[Wolfgang Streeck|施特雷克]]与希伦将自由化确立为穿透协调与自由市场体制的普遍内生主线，首创提出其“默认达成”与底层规避的渐进动力学。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 3–5, 31–33)]]

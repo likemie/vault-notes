@@ -13,7 +13,7 @@ aliases:
 summary: "教育心理学与教学干预研究中指称学生情感领域可观测、可测量产出的操作化概念，涵盖自信心、学科态度、内在动机与一般学习感知等非认知结果变量。理论渊源根植于 Krathwohl et al.（1964）的情感分类学，与学业成就、高阶思维构成学习产出的三大支柱；实证研究表明其在合作学习中具有稳健正向响应（ES = 0.51），但受学科与测量工具影响具有高度情境依赖性。"
 type: concept
 domain: "educational-psychology"
-related_count: 32
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Cooperative Learning]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Problem Solving]]"
   - "[[Metacognition]]"
@@ -38,9 +39,11 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Constructivist Paradigm]]"
   - "[[Task Structure]]"
+  - "[[Student Motivation]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Variable]]"
   - "[[Emergence]]"
+  - "[[Attitude Towards Content Domains]]"
   - "[[Academic Help-Seeking]]"
   - "[[Dependent Variable]]"
   - "[[Publication Bias]]"
@@ -53,6 +56,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Sample Size Determination]]"
+  - "[[Confidence Interval]]"
   - "[[Survey Research]]"
   - "[[Random-Effects Model]]"
 related_instruments: []
@@ -64,7 +68,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -75,7 +79,7 @@ updated: 2026-10-25
 > [!concept-lens] 概念透镜
 > - **含义** 指向学生在非认知层面的态度、情感体验与动力状态，与关注事实记忆的低阶[[Academic Achievement\|学业成就]]及分析批判的[[Higher-Order Thinking Skills\|高阶思维]]共同构成完整的全人学习结果谱系。
 > - **用途** 帮助研究者超越单纯认知分数的局限，评估教学干预（如[[Cooperative Learning\|合作学习]]、[[Generative Artificial Intelligence\|生成式人工智能]]）对学生学习兴趣、学科认同与心理赋能的长效机制。
-> - **边界** 在实证文献中通常作为数据驱动的操作化分类，其具体内涵受限于各研究采用的[[Questionnaire\|问卷]]与量表指标；不同子维度之间[[Heterogeneity\|异质性]]显著，不能简单等同于单一的同质心理特质。
+> - **边界** 在实证[[Document|文献]]中通常作为数据驱动的操作化分类，其具体内涵受限于各研究采用的[[Questionnaire\|问卷]]与量表指标；不同子维度之间[[Heterogeneity\|异质性]]显著，不能简单等同于单一的同质心理特质。
 
 > [!boundary]- 概念边界
 > - 不等于**精神运动域产出（Psychomotor Outcomes）**——精神运动产出聚焦身体动作、实验操作与体能技能表现，属于动作技能领域。
@@ -106,30 +110,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　合作学习等社会建构干预对情感产出具有稳健的正向赋能效应
-
-> [!concept-lens] 教学干预与情感塑造
-> [[Constructivist Paradigm\|社会建构主义]]教学法通过同伴互动、角色互换与积极互赖，能够系统改善学生的学习体验，显著提升非认知维度的积极情感产出。
+> [!concept-proposition] 命题一｜[[Cooperative Learning|合作学习]]等社会建构干预对情感产出具有稳健的正向赋能效应
+> **探讨维度　教学干预与情感塑造** [[Constructivist Paradigm\|社会建构主义]]教学法通过同伴互动、角色互换与积极互赖，能够系统改善学生的学习体验，显著提升非认知维度的积极情感产出。
 
 > [!claim] Güngör et al.
 > **[[Cooperative Learning\|合作学习]]对情感行为具有中等强度的正向促进效应** [[Meta-meta-analysis\|二阶元分析]]表明，合作学习对[[Student Attitude\|学生态度]]、动机与自信心等情感行为具有统计显著的正向促进作用（$ES = 0.51$ $[0.17, 0.84]$），证实小群体协作能有效缓解学习焦虑并强化同伴认同与积极体验。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–7)]]
 
 ---
 
-### 命题二　情感产出的干预效应表现出极强的学科与任务情境依赖性
-
-> [!concept-lens] 情境调节与机制差异
-> 情感产出并非脱离情境的均质反应，其对教学干预的敏感度高度依赖于学科本质特征、[[Task Structure\|任务结构]]及特定合作技术的匹配度。
+> [!concept-proposition] 命题二｜情感产出的干预效应表现出极强的学科与任务情境依赖性
+> **探讨维度　情境调节与机制差异** 情感产出并非脱离情境的均质反应，其对教学干预的敏感度高度依赖于学科本质特征、[[Task Structure\|任务结构]]及特定合作技术的匹配度。
 
 > [!claim] Güngör et al.
 > **学科结构与协作深度主导情感效应的离散度** 物理探究（$ES = 1.26$）与护理临床（$ES = 1.18$）在合作学习下的情感赋能极其显著，源于复杂探究与高协作场景极度需要同伴支持；而在注重体能与独立技能练习的体育教学中情感效应不显著（$ES = 0.05$），表明情感产出的激发必须以深层认知与社会互动为中介。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 9–10)]]
 
 ---
 
-### 命题三　生成式人工智能通过低威胁与即时交互界面满足自主与胜任感以显著激发学习动机
-
-> [!concept-lens] 人工智能交互与非认知心理赋能
-> 智能技术中介如何通过消除现实人际评价压力与提供全天候自适应反馈，转化为学生内在学习动机与学业[[Self-Efficacy\|自我效能感]]的持续提升。
+> [!concept-proposition] 命题三｜[[Generative Artificial Intelligence|生成式人工智能]]通过低威胁与即时交互界面满足自主与胜任感以显著激发[[Student Motivation|学习动机]]
+> **探讨维度　人工智能交互与非认知心理赋能** 智能技术中介如何通过消除现实人际评价压力与提供全天候自适应反馈，转化为学生内在学习动机与学业[[Self-Efficacy\|自我效能感]]的持续提升。
 
 > [!claim] Chen & Cheung
 > **无评价威胁的个性化中介对情感动机状态的稳健促进** [[Meta-analysis\|元分析]]实证表明，在控制[[Pre-test and Post-test\|前测]][[Baseline Standardized Mean Difference\|基线等效性]]（$d < 0.25$）前提下，[[Generative Artificial Intelligence\|生成式人工智能]]对大学生情感动机状态（AMS，涵盖学习动机、学业自我效能感、学科兴趣与技术接纳态度）表现出中到大强度的显著促进效应（$g^+ = 0.617$ $[0.311, 0.922], k = 25$）。基于自我决定理论（SDT）与控制-价值理论，传统师生互动常伴随“提问暴露无知”的现实求助焦虑与权威心理威慑；生成式 AI 提供了随叫随到、无评判威胁的个性化陪伴界面，有效满足了学习者的自主性与胜任感心理需求；且剪补法检验完全未检出发表偏倚（Egger 检验 $p = .963$），证实其情感激励效应具有极高的生态真实性。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10, 15–16)]]
@@ -148,7 +146,7 @@ updated: 2026-10-25
 > [!dev-timeline] 概念演变
 > - **1964 — 情感域分类框架确立** Krathwohl、Bloom 与 Masia 联合出版《教育目标分类学·第二分册：情感域》，确立情感从“接受、反应”到“价值化、组织化、性格化”的层级体系，为情感产出奠定理论基石。
 > - **1980s–2000s — [[Cooperative Learning\|合作学习]]效果研究将情感纳入指标** Johnson & Johnson、Slavin 等学者开展合作学习实证研究，逐步将态度、动机与[[Self-Efficacy\|自我效能]]等非认知[[Variable\|变量]]纳入教学成效评估。
-> - **2010s — 情感子维度一阶[[Meta-analysis\|元分析]][[Emergence\|涌现]]** Çapar & Tarım (2015)、Kyndt et al. (2013)、Liu and Lipowski (2021) 等元分析分别在数学、多学科及体育领域系统量化了教学干预对学科态度与内在动机的效应。
+> - **2010s — 情感子维度一阶[[Meta-analysis\|元分析]][[Emergence\|涌现]]** Çapar & Tarım (2015)、Kyndt et al. (2013)、Liu and Lipowski (2021) 等元分析分别在数学、多学科及体育领域系统量化了教学干预对[[Attitude Towards Content Domains|学科态度]]与内在动机的效应。
 > - **2025 — 智能技术中介与非认知动机交互确证** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 通过大样本元分析证实生成式 AI 对大学生情感动机的稳健中到大效应（$g^+ = 0.617$），揭示了低威胁人机界面消除[[Academic Help-Seeking\|学业求助]]焦虑、破除传统师生权力壁垒的心理机制。
 > - **2026 — [[Meta-meta-analysis\|二阶元分析]]将情感行为确立为独立产出维度** [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 首次通过二阶元分析系统合成情感行为结果，明确其作为学习产出第三大支柱的循证地位，并指出现有测量粒度混合与情境[[Heterogeneity\|异质性]]的研究局限。
 
@@ -172,7 +170,7 @@ updated: 2026-10-25
 > | Çapar & Tarım (2015)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | <span class="mx-bar ef-bar" title="Cohen's d 0.52"><span class="b10"></span></span>0.52 | [−0.20, 1.24] | Cohen's $d$ / 随机效应模型 | $k = 7$ / $N = —$ | [[Dependent Variable\|结果变量]]：综合[[Cooperative Learning\|合作学习]]对数学学科态度的促进效应 | — | 土耳其等地区数学混合学段，跨零未达统计显著 |
 > | Kyndt et al. (2013)，引自前述二阶合成 | <span class="mx-bar ef-bar" title="Cohen's d 0.15"><span class="b3"></span></span>0.15 | [0.04, 0.26] | Cohen's $d$ / 随机效应模型 | $k = 19$ / $N = —$ | 结果[[Variable\|变量]]：面对面合作学习对一般态度的促进效应 | — | 多国混合学科与混合学段，效应显著但整体偏低且检出[[Publication Bias\|发表偏倚]] |
 > | Kyndt et al. (2013b)，引自前述二阶合成 | <span class="mx-bar ef-bar" title="Cohen's d 0.18"><span class="b4"></span></span>0.18 | [−0.05, 0.40] | Cohen's $d$ / 随机效应模型 | $k = 4$ / $N = —$ | 结果变量：合作学习对土耳其等地区[[Student Attitude\|学生态度]]的促进效应 | — | [[Sample Size Determination\|样本量]]较小，置信区间跨零未达统计显著 |
-> | Liu and Lipowski (2021)，引自前述二阶合成 | <span class="mx-bar ef-bar" title="Cohen's d 0.05"><span class="b1"></span></span>0.05 | [−1.30, 1.41] | Cohen's $d$ / 随机效应模型 | $k = 6$ / $N = —$ | 结果变量：合作学习对体育课内在动机的促进效应 | — | K-12 体育教育，置信区间极宽且检出发表偏倚 |
+> | Liu and Lipowski (2021)，引自前述二阶合成 | <span class="mx-bar ef-bar" title="Cohen's d 0.05"><span class="b1"></span></span>0.05 | [−1.30, 1.41] | Cohen's $d$ / 随机效应模型 | $k = 6$ / $N = —$ | 结果变量：合作学习对体育课内在动机的促进效应 | — | K-12 体育教育，[[Confidence Interval\|置信区间]]极宽且检出发表偏倚 |
 > | Özkan & Çetinkaya-Uslusoy (2024)，引自前述二阶合成 | <span class="mx-bar ef-bar" title="Cohen's d 1.18"><span class="b24"></span></span>1.18 | [0.53, 1.84] | Cohen's $d$ / 随机效应模型 | $k = 6$ / $N = —$ | 结果变量：[[Jigsaw\|拼图法]]（Jigsaw）对护理学生专业态度的促进效应 | — | 高等护理教育临床情境，角色互换显著增强专业认同 |
 > | Tanjung et al. (2022)，引自前述二阶合成 | <span class="mx-bar ef-bar" title="Cohen's d 1.26"><span class="b25"></span></span>1.26 | [0.69, 1.88] | Cohen's $d$ / 随机效应模型 | $k = 4$ / $N = —$ | 结果变量：小组[[Survey Research\|调查法]]对物理情感能力的促进效应 | — | 印尼 10-11 年级物理课，探究合作对学科情感与效能感赋能突出 |
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | <span class="mx-bar ef-bar" title="Hedges' g 0.617"><span class="b12"></span></span>0.617 | [0.311, 0.922] | Hedges' $g^+$ / [[Random-Effects Model\|随机效应模型]] | $k = 25$ / $N = —$ | 结果变量：生成式 AI 对大学生情感动机状态（AMS）的干预效应 | $Q(24) = 277.08, p < .001, I^2 = 91.34\%$；剪补法未检出缺失研究 | 严格控制前测基线等效（$d < 0.25$）；包含学习兴趣、学习动机、自我效能感与技术接纳态度；结果稳健 |

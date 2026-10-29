@@ -8,7 +8,7 @@ aliases:
 summary: "一种起源于拉美并广泛扩散至全球的社会与教育干预政策模式，通过向低收入家庭定期发放现金补贴，强制要求其履行儿童入园入学出勤率、定期接受基础健康检查等明确的教育与人力资本投资义务。"
 type: concept
 domain: "comparative-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - theme/social-protection
   - comparative-education
 related_concepts:
+  - "[[Document]]"
   - "[[Policy Conditionalities]]"
   - "[[School Vouchers]]"
   - "[[School Choice]]"
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -49,7 +50,7 @@ updated: 2026-10-25
 > - **边界** 区别于不设行为条件的无条件现金转移（UCTs）以及纯粹的学校实物性资助（如免费餐食、教材配给）。
 
 > [!citation-card] 拉美有条件现金转移支付作为全球南方政策典范
-> 发展情境在既有文献中并未被忽略，例如针对[[World Bank|世界银行]]、[[Policy Conditionalities|贷款附加条件]]、有条件现金转移支付扩散等研究……塞西莉亚·奥索里奥·戈内特（Cecilia Osorio Gonnet, 2018）追踪了在巴西、智利、哥伦比亚和墨西哥参与有条件现金转移支付方案设计与实施的不同专家及官僚，这些专家后续逐步进入世界银行、联合国开发计划署、美洲开发银行等机构任职。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 2, 12–13)]]
+> 发展情境在既有[[Document|文献]]中并未被忽略，例如针对[[World Bank|世界银行]]、[[Policy Conditionalities|贷款附加条件]]、有条件现金转移支付扩散等研究……塞西莉亚·奥索里奥·戈内特（Cecilia Osorio Gonnet, 2018）追踪了在巴西、智利、哥伦比亚和墨西哥参与有条件现金转移支付方案设计与实施的不同专家及官僚，这些专家后续逐步进入世界银行、联合国开发计划署、美洲开发银行等机构任职。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 2, 12–13)]]
 >
 > *The development context has not been ignored in the literature (think of the studies on the World Bank, loan conditionalities, the spread of conditional cash transfers and so forth)... Cecilia Osorio Gonnet (2018, p. 172) traced the different experts and bureaucrats who worked with the design and implementation of Conditional Cash Transfers programs in Brazil, Chile, Colombia and Mexico, and who began to work – in a later stage – at the World Bank, United Nations Development Fund, [[Inter-American Development Bank]] and other agencies of the UN system.*
 
@@ -87,20 +88,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　有条件现金转移支付通过缓解机会成本保障弱势群体的受教育机会
-
-> [!concept-lens] [[Human Capital Theory|人力资本]]积累与教育权利
-> 探讨有条件现金补贴如何重塑底层贫困家庭的就学决策，抵消儿童过早劳动的经济诱因。
+> [!concept-proposition] 命题一｜有条件现金转移支付通过缓解机会成本保障弱势群体的受教育机会
+> **探讨维度　[[Human Capital Theory|人力资本]]积累与教育权利** 探讨有条件现金补贴如何重塑底层贫困家庭的就学决策，抵消儿童过早劳动的经济诱因。
 
 > [!claim] Stone, D., Porto de Oliveira, O., & Pal, L. A.
 > **制度设计变革救助[[Paradigm|范式]]** 巴西家庭补贴与墨西哥发展项目为代表的有条件现金转移支付，将现金支持直接与教育就学及免疫接种挂钩，为欠发达国家提供了摆脱传统西方被动救济框架的实证典范。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 2, 12)]]
 
 ---
 
-### 命题二　官僚与专家网络的跨国穿梭加速了有条件现金转移支付的多边扩散
-
-> [!concept-lens] [[Policy Network|政策网络]]与跨国机构吸纳
-> 探讨全球南方本土设计专家如何通过身份转换打通多边通道，推动方案的全球规模化落地。
+> [!concept-proposition] 命题二｜官僚与专家网络的跨国穿梭加速了有条件现金转移支付的多边扩散
+> **探讨维度　[[Policy Network|政策网络]]与跨国机构吸纳** 探讨全球南方本土设计专家如何通过身份转换打通多边通道，推动方案的全球规模化落地。
 
 > [!claim] Stone, D., Porto de Oliveira, O., & Pal, L. A.
 > **专家流动驱动全球输出** 深度参与拉美 CCTs 方案设计与实操的一线专家与官僚，通过进入[[World Bank|世界银行]]、美洲开发银行等国际多边系统任职，将源于拉美本土的治理模型迅速推向撒哈拉以南非洲和东南亚数十个国家。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 12–13)]]

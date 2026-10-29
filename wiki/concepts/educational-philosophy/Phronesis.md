@@ -9,7 +9,7 @@ aliases:
 summary: "源自亚里士多德实践哲学的核心认识论概念；指在特定道德、教育与工程情境中，个体超越机械规则与算法推演，权衡复杂变量并做出适切行动决断的实践智慧，涵盖课程审议、教师临床判断与产线实验排障手感。"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,10 +31,13 @@ related_concepts:
   - "[[Homework]]"
   - "[[Value Neutrality]]"
   - "[[Theory of Knowledge]]"
+  - "[[Positivism]]"
+  - "[[Epistemic Resources]]"
   - "[[Process Knowledge]]"
   - "[[Assemblage]]"
   - "[[Engineering Education]]"
   - "[[Tyler Rationale]]"
+  - "[[Output-Oriented Governance]]"
   - "[[Creativity]]"
   - "[[Paradigm]]"
   - "[[Curriculum as Product]]"
@@ -43,6 +46,9 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
+  - "[[Experimental Research]]"
+  - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Practitioner Enquiry]]"
 related_instruments: []
 related_persons:
@@ -59,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -122,33 +128,27 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　实践明智是超越技术控制、保障过程课程理性审议的认识论基础
-
-> [!concept-lens] 课程实践审议与价值协商
-> 探讨实践明智如何防止课程设计退化为行为目标控制的技术流水线，确立师生在开放对话中的反思理性。
+> [!concept-proposition] 命题一｜实践明智是超越技术控制、保障过程课程理性审议的[[Epistemology|认识论]]基础
+> **探讨维度　课程实践审议与价值协商** 探讨实践明智如何防止课程设计退化为行为目标控制的技术流水线，确立师生在开放对话中的反思理性。
 
 > [!claim] [[Aristotle]] & Grundy, S.
 > **过程模式与实践审议论** 在《课程：产品、过程与实践》中，格伦迪将 *Phronesis* 确定为[[Curriculum as Process|作为过程的课程]]的指导理性。亚里士多德与格伦迪指出，真正的教育探究无法通过预先编写的标准化目标行为代码来取代；在开放式课程探究（如 [[Theory of Knowledge|TOK]] 知识论讨论）中，师生必须依据实践明智在复杂情境中对多元观点与道德价值展开辩证审议。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 67–68)]]
 
 ---
 
-### 命题二　教师教学机智与临床专业判断本质上体现为教育领域的实践明智
-
-> [!concept-lens] 教师专业决断与即兴应对
-> 探讨优秀教师在瞬息万变的课堂互动中，如何超越教案预设做出适切的教学干预。
+> [!concept-proposition] 命题二｜教师教学机智与临床[[Professional Judgment|专业判断]]本质上体现为教育领域的实践明智
+> **探讨维度　教师专业决断与即兴应对** 探讨优秀教师在瞬息万变的课堂互动中，如何超越教案预设做出适切的教学干预。
 
 > [!claim] Schwab, J. & [[Gert Biesta|Biesta, G.]]
 > **临床判断与实践理性论** 课程学者施瓦布（Joseph Schwab）提出“实践性（The Practical）”命题，指出教育困境无法依靠普适理论定律解决，而必须依赖教师在课堂现场对学生认知状态、情感氛围与意外生成的即时敏锐感知；比斯塔（Gert Biesta）进一步论证，当代教育问责制过度追求可测量的技术产出，严重挤压了教师运用实践明智开展教育性决断的专业自主空间。
 
 > [!claim] [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]
-> **实证偏见下的实践智慧边缘化与认识论正义** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）剖析了当代超国家证据治理体系对教育实践明智的制度性压制。国际证据机构将严谨性狭隘等同于量化实验设计与元分析效应量，使一线教师在真实复杂课堂中日积月累生成的实践智慧（Phronesis）被贬低为不具科学效度的非正规经验。实证主义证据等级推行了割裂本土情境的自上而下认识秩序；克服这一弊端必须倡导认识论正义，打破唯量化因果的知识霸权，确立一线教师实践智慧作为合法认识论资源在证据生态中的核心地位。[[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, pp. 347–350)]]
+> **实证偏见下的实践智慧边缘化与认识论正义** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）剖析了当代超国家证据治理体系对教育实践明智的制度性压制。国际证据机构将严谨性狭隘等同于量化[[Experimental Research|实验设计]]与[[Meta-analysis|元分析]][[Effect Size|效应量]]，使一线教师在真实复杂课堂中日积月累生成的实践智慧（Phronesis）被贬低为不具科学效度的非正规经验。[[Positivism|实证主义]]证据等级推行了割裂本土情境的自上而下认识秩序；克服这一弊端必须倡导认识论正义，打破唯量化因果的知识霸权，确立一线教师实践智慧作为合法[[Epistemic Resources|认识论资源]]在证据生态中的核心地位。[[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, pp. 347–350)]]
 
 ---
 
-### 命题三　工程排障直觉与仪器研制手艺是实体制造公地不可替代的实践智慧
-
-> [!concept-lens] [[Process Knowledge|默会过程知识]]与工程实践直觉
-> 探讨尖端实验科学与高端制造领域中，实践智慧如何作为默会过程知识的核心载体驱动重大技术突破。
+> [!concept-proposition] 命题三｜工程排障直觉与仪器研制手艺是实体制造公地不可替代的实践智慧
+> **探讨维度　[[Process Knowledge|默会过程知识]]与工程实践直觉** 探讨尖端实验科学与高端制造领域中，实践智慧如何作为默会过程知识的核心载体驱动重大技术突破。
 
 > [!claim] Kratsios, M.
 > **现场排障与手艺实践智慧论** 白宫科技政策办公室 2026 年战略报告指出，技术能力不仅包含图纸与设备硬件，更深植于熟练机械师与资深工程师世代传承的实践智慧（Phronesis）。2017 年诺贝尔物理学奖得主赖纳·魏斯（Rainer Weiss）正是凭借青年时期积累的机械加工、电路[[Assemblage|组装]]与现场调优实践智慧，才得以亲手建造出探测引力波的激光干涉引力波天文台（LIGO）原型机。这种非编码的实践智慧构成了国家创新公地与[[Engineering Education|工程教育]]的底层支柱。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51, 56)]]
@@ -169,7 +169,7 @@ updated: 2026-10-26
 > - **1969/1987 — 课程与教育哲学复兴** 施瓦布发表《实践：课程的语言》，葛兰蒂出版《课程：产品、过程与实践》，将 *Phronesis* 引入教育学，批判[[Tyler Rationale|泰勒原理]]式的技术控制主义。[[Argument_Darwish_2009_Queens|(Grundy, 1987, p. 61, 引自 Darwish, 2009)]]
 > - **2000s — 教师专业临床判断与实践探究** [[Stephen Kemmis|凯米斯]]（Stephen Kemmis）等倡导[[Practitioner Enquiry|实践者探究]]（Practitioner Enquiry），强调教师作为具备实践明智的专业实践者而非教条执行者。
 > - **2020s 至今 — 智能时代手艺传承与反纯算力迷思** 面对大语言模型与自动化系统的普及，科学哲学与科技政策学者重新发现 *Phronesis* 在实体工程排障、复杂实验仪器研制与人机共创中的独特价值，强调机器算法无法替代具身实践智慧。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51, 56)]]
-> - **2026 年 — 循证治理中实践智慧的边缘化与认识论正义** [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] 批判超国家证据机构将因果量化实验特权化为唯一科学标准、将教师课堂实践智慧贬低为非正规经验的认识霸权，倡导承认实践智慧合法性的认识论正义（pp. 347–350）。
+> - **2026 年 — [[Output-Oriented Governance|循证治理]]中实践智慧的边缘化与认识论正义** [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] 批判超国家证据机构将因果量化实验特权化为唯一科学标准、将教师课堂实践智慧贬低为非正规经验的认识霸权，倡导承认实践智慧合法性的认识论正义（pp. 347–350）。
 
 ---
 

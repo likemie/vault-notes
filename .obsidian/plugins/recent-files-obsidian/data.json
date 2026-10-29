@@ -1,16 +1,88 @@
 {
   "recentFiles": [
     {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
+      "basename": "m-Quotient",
+      "path": "wiki/methods/quantitative/m-Quotient.md"
+    },
+    {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit01",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+    },
+    {
+      "basename": "h-Index",
+      "path": "wiki/methods/quantitative/h-Index.md"
     },
     {
       "basename": "template-concept",
       "path": "wiki/templates/template-concept.md"
     },
     {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
+      "basename": "Shockley's Multiplicative Hurdle Model",
+      "path": "wiki/methods/quantitative/Shockley's Multiplicative Hurdle Model.md"
+    },
+    {
+      "basename": "o-Index",
+      "path": "wiki/methods/quantitative/o-Index.md"
+    },
+    {
+      "basename": "template-argument",
+      "path": "wiki/templates/template-argument.md"
+    },
+    {
+      "basename": "Argument_Skipp_Tanner_2015_EEF",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md"
+    },
+    {
+      "basename": "template-eef",
+      "path": "wiki/templates/template-eef.md"
+    },
+    {
+      "basename": "template-instrument",
+      "path": "wiki/templates/template-instrument.md"
+    },
+    {
+      "basename": "template-metax",
+      "path": "wiki/templates/template-metax.md"
+    },
+    {
       "basename": "template-argument-textbook",
       "path": "wiki/templates/template-argument-textbook.md"
+    },
+    {
+      "basename": "template-fact-eef-programme",
+      "path": "wiki/templates/template-fact-eef-programme.md"
+    },
+    {
+      "basename": "g-Index",
+      "path": "wiki/methods/quantitative/g-Index.md"
+    },
+    {
+      "basename": "template-person",
+      "path": "wiki/templates/template-person.md"
+    },
+    {
+      "basename": "TEMPLATE-SPEC",
+      "path": "wiki/templates/TEMPLATE-SPEC.md"
+    },
+    {
+      "basename": "template-method",
+      "path": "wiki/templates/template-method.md"
+    },
+    {
+      "basename": "template-fact-program",
+      "path": "wiki/templates/template-fact-program.md"
+    },
+    {
+      "basename": "template-fact-organization",
+      "path": "wiki/templates/template-fact-organization.md"
+    },
+    {
+      "basename": "template-fact-event",
+      "path": "wiki/templates/template-fact-event.md"
     },
     {
       "basename": "template-argument-monograph",
@@ -25,36 +97,12 @@
       "path": "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md"
     },
     {
-      "basename": "Argument_Skipp_Tanner_2015_EEF",
-      "path": "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit01",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
-    },
-    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
     },
     {
       "basename": "template-method-quant",
       "path": "wiki/templates/template-method-quant.md"
-    },
-    {
-      "basename": "template-fact-program",
-      "path": "wiki/templates/template-fact-program.md"
-    },
-    {
-      "basename": "template-instrument",
-      "path": "wiki/templates/template-instrument.md"
-    },
-    {
-      "basename": "template-metax",
-      "path": "wiki/templates/template-metax.md"
-    },
-    {
-      "basename": "template-method",
-      "path": "wiki/templates/template-method.md"
     },
     {
       "basename": "LISA Spatiotemporal Transition",
@@ -65,24 +113,8 @@
       "path": "wiki/methods/quantitative/Longitudinal Study.md"
     },
     {
-      "basename": "h-Index",
-      "path": "wiki/methods/quantitative/h-Index.md"
-    },
-    {
-      "basename": "g-Index",
-      "path": "wiki/methods/quantitative/g-Index.md"
-    },
-    {
       "basename": "Argument_Ryan_2010_HKUP",
       "path": "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_HKUP.md"
-    },
-    {
-      "basename": "Shockley's Multiplicative Hurdle Model",
-      "path": "wiki/theories/science-policy/Shockley's Multiplicative Hurdle Model.md"
-    },
-    {
-      "basename": "template-person",
-      "path": "wiki/templates/template-person.md"
     },
     {
       "basename": "Bibliometric Analysis",
@@ -137,10 +169,6 @@
       "path": "wiki/arguments/journal-articles/Policy and Society/Argument_Stone_2020_PolSoc.md"
     },
     {
-      "basename": "template-fact-eef-programme",
-      "path": "wiki/templates/template-fact-eef-programme.md"
-    },
-    {
       "basename": "Bologna Process",
       "path": "wiki/facts/europe/Bologna Process.md"
     },
@@ -171,34 +199,6 @@
     {
       "basename": "Argument_Zhu_Yang_2025_HE",
       "path": "tmp/callout-design-backup-v4/idp-before/Argument_Zhu_Yang_2025_HE.md"
-    },
-    {
-      "basename": "Alumnus Effect",
-      "path": "wiki/concepts/comparative-education/Alumnus Effect.md"
-    },
-    {
-      "basename": "European Commission",
-      "path": "wiki/facts/eu/European Commission.md"
-    },
-    {
-      "basename": "Argument_Pasias_Roussakis_2009_EuropeanPanopticon",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Pasias_Roussakis_2009_EuropeanPanopticon.md"
-    },
-    {
-      "basename": "EU",
-      "path": "wiki/facts/eu/EU.md"
-    },
-    {
-      "basename": "Europe of Knowledge",
-      "path": "wiki/concepts/comparative-education/Europe of Knowledge.md"
-    },
-    {
-      "basename": "整理结果",
-      "path": "output/eef-programme-design/整理结果.md"
-    },
-    {
-      "basename": "Subsidiarity Principle",
-      "path": "wiki/concepts/comparative-education/Subsidiarity Principle.md"
     }
   ],
   "omittedPaths": [],

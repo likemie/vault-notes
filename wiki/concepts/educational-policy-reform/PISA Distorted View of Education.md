@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学者赵勇等针对经合组织 PISA 提出的批判性学术构念，指 PISA 将经济增长与劳动力市场竞争力作为教育的唯一目的，只评估与经济直接相关的科目，系统性排挤人文、艺术、公民身份、同理心与身心健康等更广泛的教育全人目的。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 10
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,36 +17,42 @@ tags:
   - critique/pisa
   - paradigm/neoliberalism
 related_concepts:
+  - "[[Construct]]"
   - "[[Competitiveness]]"
-  - "[[Critique of PISA]]"
+  - "[[Problem Solving]]"
+  - "[[Whole Person Education]]"
   - "[[PISA Made-up Claim]]"
   - "[[PISA Monolithic View of Education]]"
   - "[[Positional Good]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Paradigm]]"
+  - "[[21st Century Skills and Competencies Discourse]]"
+  - "[[Scientific Literacy]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods: []
 related_persons:
   - "[[Yong Zhao]]"
 related_facts:
-  - "[[OECD]]"
   - "[[PISA]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Zhao_2020_JEC]]"
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] PISA Distorted View of Education
-> **PISA 扭曲的教育观（PISA Distorted View of Education）**，是由华裔比较教育学者[[Yong Zhao|赵勇]]针对经合组织（[[OECD]]）国际学生评估项目（[[PISA]]）提出的批判性学术构念，指 PISA 将推动国家宏观经济增长与提升个体在劳动力市场中的[[Competitiveness|竞争力]]确立为教育系统存在的唯一合法目的。在这种狭隘的新自由主义功利主义导向下，PISA 仅针对与直接经济产出密切关联的领域（阅读、数学、科学、财经素养与问题解决）进行评估，导致人文、艺术、音乐、体育、社会科学、历史和地理等传统学科，以及公民美德、同理心、好奇心、文化认同与身心健康等攸关人类福祉的全人教育目的在基于排名的政策议程中被边缘化与牺牲。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> **[[PISA]] 扭曲的教育观（PISA Distorted View of Education）**，是由华裔比较教育学者[[Yong Zhao|赵勇]]针对[[OECD|经合组织]]（[[OECD]]）国际学生评估项目（[[PISA]]）提出的批判性学术[[Construct|构念]]，指 PISA 将推动国家宏观经济增长与提升个体在劳动力市场中的[[Competitiveness|竞争力]]确立为教育系统存在的唯一合法目的。在这种狭隘的新自由主义功利主义导向下，PISA 仅针对与直接经济产出密切关联的领域（阅读、数学、科学、财经素养与[[Problem Solving|问题解决]]）进行评估，导致人文、艺术、音乐、体育、社会科学、历史和地理等传统学科，以及公民美德、同理心、好奇心、文化认同与身心健康等攸关人类福祉的[[Whole Person Education|全人教育]]目的在基于排名的政策议程中被边缘化与牺牲。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示跨国量化评估如何通过对评价指标的选择性窄化，重构并扭曲民族国家基础教育的根本价值导向。
 > - **用途** 帮助研究者剖析新自由主义绩效问责对全人教育生态的挤出效应，反思“测什么就教什么”引发的系统性政策失真。
-> - **边界** 属于[[Critique of PISA|对 PISA 的批判]]中聚焦价值导向与课程窄化的理论构件，与聚焦实证构念的[[PISA Made-up Claim|捏造的主张]]和关注文化强加的[[PISA Monolithic View of Education|单一教育观]]共同构成批评基石。
+> - **边界** 属于对 PISA 的批判中聚焦价值导向与课程窄化的理论构件，与聚焦实证构念的[[PISA Made-up Claim|捏造的主张]]和关注文化强加的[[PISA Monolithic View of Education|单一教育观]]共同构成批评基石。
 
 > [!citation-card] 赵勇论经济目的垄断对多元教育目的的排挤
 > 虽然为经济参与做准备是教育机构的部分责任，但这绝不能成为唯一的责任。许多国家的教育目的明确包含公民身份、社会正义、好奇心、同理心与身心健康。然而，在基于 PISA 分数与排名的喧嚣讨论中，这些崇高的教育目的经常被遗忘或完全忽视。追求窄化定义的教育目的势必以牺牲更广泛的教育目的为代价。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
@@ -54,7 +60,7 @@ updated: 2026-10-22
 > *While preparing for economic participation is certainly part of the responsibilities of educational institutions, it cannot and should not be the only one... But these educational purposes are often forgotten or ignored in discussions based on PISA scores and rankings.*
 
 > [!boundary]- 概念边界
-> - 不等于否定经济与职业准备的必要性 — 批判针对的是将经济增长与人力资本回报提升为排他性的最高目的，使所有其他教育价值沦为从属。
+> - 不等于否定经济与职业准备的必要性 — 批判针对的是将经济增长与[[Human Capital Theory|人力资本]]回报提升为排他性的最高目的，使所有其他教育价值沦为从属。
 > - 不等于个别学校的课程课时微调 — 扭曲的教育观揭示的是国家教育系统在全球治理竞争压力下整体丧失对“教育究竟为了什么”进行哲学审议的自主性危机。
 
 ---
@@ -78,18 +84,16 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　将经济竞争力作为教育唯一目的直接导致全人教育价值被系统性牺牲
-
-> [!concept-lens] 价值窄化与排挤效应维度
-> 探讨单一追求量化测试成绩对学生全面发展的挤出机制。
+> [!concept-proposition] 命题一｜将经济[[Competitiveness|竞争力]]作为教育唯一目的直接导致[[Whole Person Education|全人教育]]价值被系统性牺牲
+> **探讨维度　价值窄化与排挤效应维度** 探讨单一追求量化测试成绩对学生全面发展的挤出机制。
 
 > [!claim] [[Yong Zhao|Zhao, Y.]]
-> **单一指标对教育全人目的的侵蚀** 赵勇指出，追求窄化定义的教育目的必然以牺牲更广泛的教育价值为代价。当学校体系将全部注意力聚焦于提升 PISA 测验所涵盖的狭隘认知科目时，学生的道德判断力、艺术审美情趣、批判性公民参与意愿以及身心健康均遭受不可逆的制度性损害。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
+> **单一指标对教育全人目的的侵蚀** 赵勇指出，追求窄化定义的教育目的必然以牺牲更广泛的教育价值为代价。当学校体系将全部注意力聚焦于提升 [[PISA]] 测验所涵盖的狭隘认知科目时，学生的道德判断力、艺术审美情趣、批判性公民参与意愿以及身心健康均遭受不可逆的制度性损害。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
 ---
 
-> [!dev-timeline] 构念反思历程
-> - **1990 年代中叶 — 经合组织确立知识经济教育范式** 经合组织将教育系统重新定义为支撑知识经济的核心基础设施。
+> [!dev-timeline] [[Construct|构念]]反思历程
+> - **1990 年代中叶 — [[OECD|经合组织]]确立[[Knowledge-Based Economy|知识经济]]教育[[Paradigm|范式]]** 经合组织将教育系统重新定义为支撑知识经济的核心基础设施。
 > - **2000–2010 — 课程窄化批评全面爆发** 各国课程学者抗议 PISA 导致学校课程陷入“应试对标”，艺术与人文学科边缘化加剧。
 > - **2020 — 确立“扭曲的教育观”概念体系** 赵勇在二十年综述中将此系统化命名为“扭曲的教育观”（Distorted View），深刻解构了经济主义对教育本质的异化。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]
 
@@ -105,8 +109,8 @@ updated: 2026-10-22
 
 > [!debates] 学术争议
 >
-> > [!axis] 核心素养基底 vs 多元全人发展
-> > 围绕阅读、数学与科学素养是否应作为其他一切素养的前提展开辩论。
+> > [!axis] [[21st Century Skills and Competencies Discourse|核心素养]]基底 vs 多元全人发展
+> > 围绕阅读、数学与[[Scientific Literacy|科学素养]]是否应作为其他一切素养的前提展开辩论。
 > >
 > > - **工具理性拥护者** 认为阅读与数理逻辑是掌握所有人文与现代技能的工具性前提，优先保障其质量无可厚非。
 > > - **全人教育批判者** 强调智识工具不能替代人之所以为人的道德、审美与公民价值，将工具升格为主旨是致命的价值颠倒。[[Argument_Zhao_2020_JEC|(Zhao, 2020)]]

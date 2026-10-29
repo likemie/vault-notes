@@ -8,7 +8,7 @@ aliases:
 summary: "教育干预在真实学校中是否按设计要求、足够强度和质量被执行的程度，是打开因果机制黑箱并区分实施失败与理论无效的核心中介"
 type: concept
 domain: "educational-policy-reform"
-related_count: 51
+related_count: 54
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -36,16 +36,19 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Counterfactual]]"
   - "[[Metacognition]]"
+  - "[[Student Motivation]]"
   - "[[Meta-Representational Competence]]"
   - "[[Chain of Evidence]]"
   - "[[Technology Infusion]]"
   - "[[Fade-out Effect]]"
+  - "[[Philosophy in Schools]]"
   - "[[Teacher Professional Agency]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Grandes Ecoles]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Attrition]]"
+  - "[[Document]]"
   - "[[Evidence Standards]]"
 related_theories:
   - "[[Theory of Change]]"
@@ -80,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-23'
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -126,7 +129,7 @@ updated: 2026-10-26
 > - **教师准备与落地执行质量（Teacher Preparation & Quality）** 评估教师接受培训的出勤率、对干预教育学理念的掌握深度，以及在真实课堂人际交互中传授核心教学规程的忠实度。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 112, 120)]]
 > - **干预使用剂量与参与依从性（Dosage & [[Strategic Compliance|compliance]]）** 系统记录学生实际接触干预的频次、单次时长、累计课时达标率，以及数字平台上的后台日志，精准测度从名义分配到实际受领的衰减比例。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 110–112)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 > - **对照组[[Business as Usual\|常态教学]]追踪（Business-as-Usual [[Tracking]]）** 详尽调查对照组学校在实验期间开展的日常教学活动，严密排查对照组是否自发采购竞品或间接接触干预要素，防范因[[Counterfactual\|反事实]]污染导致处理效应被低估。
-> - **因果中介与变化机制验证（Mediating Mechanisms）** 检验理论预设的中介[[Variable\|变量]]（如师生互动模式、[[Metacognition\|元认知]]策略、学习动机）是否在现场被成功激活，验证干预如何经由特定路径传导至最终学业产出。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
+> - **因果中介与变化机制验证（Mediating Mechanisms）** 检验理论预设的中介[[Variable\|变量]]（如师生互动模式、[[Metacognition\|元认知]]策略、[[Student Motivation|学习动机]]）是否在现场被成功激活，验证干预如何经由特定路径传导至最终学业产出。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
 > - **情境支持系统与真实实施成本（Contextual Support & Cost）** 评估学校[[Organizational Culture\|组织文化]]、领导力支持、课表调度排他性以及技术支持；核算时间消耗、师资置换与材料采购等综合成本。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 120–122)]]
 
 > [!logic-map]- 实施保真度在因果评估全生命周期中的监控与调适逻辑
@@ -157,10 +160,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　零结果往往源于现场实施妥协而非干预理论本身的根本无效
-
-> [!concept-lens] 机制黑箱与失败溯源
-> 围绕因果试验中主[[Effect Size\|效应量]]未达显著时的归因困境，学者论证缺乏过程监控的黑箱评估极易将一线执行妥协与师资磨合问题误判为干预原理的破产。
+> [!concept-proposition] 命题一｜零结果往往源于现场实施妥协而非干预理论本身的根本无效
+> **探讨维度　机制黑箱与失败溯源** 围绕因果试验中主[[Effect Size\|效应量]]未达显著时的归因困境，学者论证缺乏过程监控的黑箱评估极易将一线执行妥协与师资磨合问题误判为干预原理的破产。
 
 > [!claim] Craig, P. et al.
 > **实施失败与理论失败的本质区分** 复杂社会与教育干预由多个相互关联的组件构成，对情境高度敏感。在英国医学研究理事会（Medical Research Council，[[Meta-Representational Competence\|MRC]]）复杂干预评估框架中，学者指出干预在终结性评估中呈现出的弱效应或零结果，往往是现场实施失败（implementation failure）或磨合期阵痛（teething problems）的直接体现，绝不能简单等同于干预理论逻辑的根本失效。如果评估缺乏对实施过程的深入剖析，决策者将不可避免地过早抛弃极具潜力的有效理论。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Craig et al., 2008, 引用见 Edovald & Nevill, 2021, p. 53, 引自 Edovald & Nevill, 2021)]]
@@ -173,23 +174,19 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　干预规模化扩张极易因多层级培训稀释导致实施保真度断崖式崩溃
-
-> [!concept-lens] 规模化外推的脆弱性
-> 围绕干预从小规模实验走向全系统推广时的[[Fade-out Effect\|效应衰减]]现象，研究者揭示了盲目扩大[[Sample Size Determination\|样本量]]与维持高保真度之间不可避免的组织冲突。
+> [!concept-proposition] 命题二｜干预规模化扩张极易因多层级培训稀释导致实施保真度断崖式崩溃
+> **探讨维度　规模化外推的脆弱性** 围绕干预从小规模实验走向全系统推广时的[[Fade-out Effect\|效应衰减]]现象，研究者揭示了盲目扩大[[Sample Size Determination\|样本量]]与维持高保真度之间不可避免的组织冲突。
 
 > [!claim] Kitmitto, E. et al.
-> **儿童哲学效果试验中的多层培训稀释危机** 在针对小学高年级儿童哲学（Philosophy for Children，P4C）的干预中，第一阶段小规模[[Efficacy Trial\|效力试验]]中（Hanley et al., 2015），由资助方与开发团队密切监督实施，学生阅读与数学成绩显著提升了约 2 个月的学习进展；然而，当该项目进入第二阶段并在数百所学校开展大规模效果检验时（Kitmitto et al., 2018），为了满足统计功效所需的大样本，项目方不得不仓促招募大量新培训师。多层级的培训稀释导致关键的思辨教学规程在班级层面严重走样变形，最终主效应量归零，生动展示了规模化导致保真度崩溃的现实风险。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Kitmitto et al., 2018, 引用见 Edovald & Nevill, 2021, p. 57, 引自 Edovald & Nevill, 2021)]]
+> **[[Philosophy in Schools|儿童哲学]]效果试验中的多层培训稀释危机** 在针对小学高年级儿童哲学（Philosophy for Children，P4C）的干预中，第一阶段小规模[[Efficacy Trial\|效力试验]]中（Hanley et al., 2015），由资助方与开发团队密切监督实施，学生阅读与数学成绩显著提升了约 2 个月的学习进展；然而，当该项目进入第二阶段并在数百所学校开展大规模效果检验时（Kitmitto et al., 2018），为了满足统计功效所需的大样本，项目方不得不仓促招募大量新培训师。多层级的培训稀释导致关键的思辨教学规程在班级层面严重走样变形，最终主效应量归零，生动展示了规模化导致保真度崩溃的现实风险。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Kitmitto et al., 2018, 引用见 Edovald & Nevill, 2021, p. 57, 引自 Edovald & Nevill, 2021)]]
 
 > [!claim] World Health Organization & ExpandNet
 > **规模化是脆弱的系统重构过程** 世界卫生组织与 Exp and Net (2009) 强调，干预不能简单依靠机械增加学校数量来完成规模化推广。随着试验网络层级增加，最初由专家团队直接传递的操作标准会迅速遭受衰减；如果没有成体系的保真度支持网络，任何规模化都会蜕变为对干预活性成分的形式化稀释。[[Argument_Edovald_Nevill_2021_ECNUROE\|(WHO & ExpandNet, 2009, 引用见 Edovald & Nevill, 2021, p. 57, 引自 Edovald & Nevill, 2021)]]
 
 ---
 
-### 命题三　效力试验向效果试验外推要求明确区分理想实施条件与常态真实生态
-
-> [!concept-lens] 试验情境与外推效度
-> 围绕清算中心与政策制定者在解读干预成效时的外推盲区，学者指出必须严密区分高度受控的理想条件与资源约束下的普通学校情境。
+> [!concept-proposition] 命题三｜效力试验向效果试验外推要求明确区分理想实施条件与常态真实生态
+> **探讨维度　试验情境与外推效度** 围绕清算中心与政策制定者在解读干预成效时的外推盲区，学者指出必须严密区分高度受控的理想条件与资源约束下的普通学校情境。
 
 > [!claim] Ross, S. M. & Morrison, G. R.
 > **理想效力条件与普通常态生态的鸿沟** 严格因果评估往往区分为效力试验（Efficacy Trials，在高度理想、资源充沛且受开发者密切支持的受控条件下测试潜力）与效果试验（[[Effectiveness Trial\|Effectiveness Trials]]，在普通学校、由常态师资在日常时间压力下实施）。若证据审查机构仅将它们混合报告为一个综合效应量，而不详细说明实施保真度维持的具体条件（如所需的专业培训课时、辅导人员配比与技术维护支持），普通学校采购该项目后往往因无法复刻理想支持环境而遭遇预期落空。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 112)]]
@@ -199,10 +196,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题四　实施保真度不能简化为教条复制良性情境调试是项目可持续的关键前提
-
-> [!concept-lens] 规范复制与校本调适的辩证平衡
-> 围绕自上而下的刚性照搬与一线[[Teacher Professional Agency\|教师能动性]]之间的冲突，实证研究论证了在保持核心活性成分的前提下，允许适度校本调适才是项目在复杂生态中生根的机制保障。
+> [!concept-proposition] 命题四｜实施保真度不能简化为教条复制良性情境调试是项目可持续的关键前提
+> **探讨维度　规范复制与校本调适的辩证平衡** 围绕自上而下的刚性照搬与一线[[Teacher Professional Agency\|教师能动性]]之间的冲突，实证研究论证了在保持核心活性成分的前提下，允许适度校本调适才是项目在复杂生态中生根的机制保障。
 
 > [!claim] Ross, S. M. & Morrison, G. R.
 > **情境多重过滤器下的适应性实施法则** 教育创新在进入真实学校时，必须穿过现行课程体系、学区问责压力、既有基础设施、校长领导风格以及社区文化等多重组织过滤器。过于教条地将保真度定义为对每一个技术细节的一字不差照搬，不仅会剥夺教师的专业自主能动性，更会引发一线抵触；合理的地方适应性调整（local adaptations）往往是项目克服组织阻力、实现长效持续运行的必要保障，绝非执行失败的表征。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 111–113)]]
@@ -257,7 +252,7 @@ updated: 2026-10-26
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 全球 1980–2016 年 1,017 项教育试验（Connolly et al., 2018） | 历史文献元调查 | 试验中包含实施与过程评估（IPE）的比例 | 38% | — | 说明早期教育试验极度缺乏保真度与过程数据，超过六成处于机制黑箱状态 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 全球 1980–2016 年 1,017 项教育试验（Connolly et al., 2018） | 历史[[Document\|文献]]元调查 | 试验中包含实施与过程评估（IPE）的比例 | 38% | — | 说明早期教育试验极度缺乏保真度与过程数据，超过六成处于机制黑箱状态 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 针对小学高年级儿童哲学（P4C）的大规模效果试验（Kitmitto et al., 2018） | 大规模整群 [[Randomised Controlled Trials\|RCT]] | 大样本效果检验学业效应（对比小样本[[Efficacy Trial\|效力试验]]的 +2 个月进展） | 主效应未达统计学显著（零结果） | $p > 0.05$ | 实证证实由于培训师队伍过快扩张导致多层级培训稀释，课堂实施保真度崩溃直接抹平了干预效果 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] 资助试验中的实施与过程评估规范化推进（EEF, 2019b） | 机构治理追踪 | 资助试验中强制实施 IPE 与发表独立报告的比例 | 100% 试验整合 IPE；100% 报告全量公开发布 | — | 确立了将 [[TIDieR]] 活性成分界定、对照组常态活动调查与依从性测量深度融合的行业典范 |
 

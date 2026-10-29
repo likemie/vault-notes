@@ -7,10 +7,10 @@ aliases:
 summary: "由雷默（J. C. Ramo）于2004年提出并在后危机时代演进的非西方发展范式与治理模式，强调国家战略规划、实验主义渐进改革、社会稳定与自主创新，在跨国高等教育中体现为国家战略驱动、全额奖学金供给与治国理政经验输出，与新自由主义华盛顿共识形成深刻对照。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 33
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - beijing-consensus
   - political-economy
@@ -30,12 +30,13 @@ related_concepts:
   - "[[International Education]]"
   - "[[Soft Power]]"
   - "[[Internationalization of Higher Education]]"
+  - "[[Developmentalism]]"
+  - "[[South-South Cooperation]]"
   - "[[Policy Framing]]"
   - "[[Community of Shared Future for Mankind]]"
   - "[[Education Going Global]]"
-  - "[[South-South Cooperation]]"
+  - "[[Public Diplomacy]]"
   - "[[People-to-People Connectivity]]"
-  - "[[Developmentalism]]"
   - "[[China Solution]]"
   - "[[Knowledge Production]]"
   - "[[Analytical Stance]]"
@@ -45,6 +46,9 @@ related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Effect Size]]"
+  - "[[Case Study]]"
+  - "[[In-depth Interview]]"
+  - "[[Design-Based Research]]"
 related_persons: []
 related_facts:
   - "[[Luban Workshop]]"
@@ -56,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-19
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -103,23 +107,19 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　北京共识通过发展主义成效与南南合作叙事确立替代西方模式的治理合法性
-
-> [!concept-lens] 治理替代与合法性建构
-> 探讨北京共识如何通过诊断西方治理失灵与倡导共同繁荣，在全球南方重构跨国教育的道义正当性。
+> [!concept-proposition] 命题一｜北京共识通过[[Developmentalism|发展主义]]成效与[[South-South Cooperation|南南合作]]叙事确立替代西方模式的治理合法性
+> **探讨维度　治理替代与合法性建构** 探讨北京共识如何通过诊断西方治理失灵与倡导共同繁荣，在全球南方重构跨国教育的道义正当性。
 
 > [!claim] Woo, E.
 > **替代性全球治理秩序投射** 面对2008年全球金融危机及西方新自由主义治理危机对[[Washington Consensus|华盛顿共识]]公信力的削弱，中国政治精英积极将北京共识建构为更加包容、务实且行之有效的新型现代化[[Paradigm|范式]]。在跨国高等教育政策中，通过[[Policy Framing|诊断性框架]]指出沿线国家技术与人才瓶颈，依托处方性框架供给整套全额奖学金与办学平台，借助[[Community of Shared Future for Mankind|人类命运共同体]]激励性[[Discourse|话语]]，将高等[[Education Going Global|教育出海]]包装为互利共赢的[[South-South Cooperation|南南合作]]事业，力求在全球南方赢得对抗西方话语霸权的制度合法性。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 683–684, 689–691)]]
 
 ---
 
-### 命题二　北京共识跨国教育吸引力对经济硬实力依附构成其长期推进的结构性脆弱根源
-
-> [!concept-lens] [[Soft Power|软实力]]与[[Hard Power|硬实力]]依附
-> 探讨依托经济补贴推进的跨国教育在面对外部地缘环境与东道国社会反弹时的局限性。
+> [!concept-proposition] 命题二｜北京共识跨国教育吸引力对经济[[Hard Power|硬实力]]依附构成其长期推进的结构性脆弱根源
+> **探讨维度　[[Soft Power|软实力]]与[[Hard Power|硬实力]]依附** 探讨依托经济补贴推进的跨国教育在面对外部地缘环境与东道国社会反弹时的局限性。
 
 > [!claim] Woo, E.
-> **物质补贴依附与地缘抗拒风险** 尽管公共外交叙事充满合作共赢与[[People-to-People Connectivity|民心相通]]的崇高修辞，北京共识在高等教育领域的实际投射高度依附于中国经济高速增长所带来的全额财政奖学金与基建就业预期等功利性拉动因素。一旦经济增长放缓或外部大国对抗升级，缺乏深层文化与[[Academic Freedom|学术自由]]价值认同的教育合作极易遭遇冲击；自上而下的政府间推进模式在遭遇合作国本土草根市民社会的透明度质疑与主权主张时，展现出显著的结构性脆弱。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
+> **物质补贴依附与地缘抗拒风险** 尽管[[Public Diplomacy|公共外交]]叙事充满合作共赢与[[People-to-People Connectivity|民心相通]]的崇高修辞，北京共识在高等教育领域的实际投射高度依附于中国经济高速增长所带来的全额财政奖学金与基建就业预期等功利性拉动因素。一旦经济增长放缓或外部大国对抗升级，缺乏深层文化与[[Academic Freedom|学术自由]]价值认同的教育合作极易遭遇冲击；自上而下的政府间推进模式在遭遇合作国本土草根市民社会的透明度质疑与主权主张时，展现出显著的结构性脆弱。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 692–694)]]
 
 ---
 
@@ -162,7 +162,7 @@ updated: 2026-10-25
 > | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 2020年中国政府对非援助配额 | 官方专项计划追踪 | 非洲专项高教奖学金配额 | 12,000 个 | 官方设定指标 | 中国成为向非洲提供高等教育奖学金规模最大的单一国家（p. 679） |
 > | [[Argument_Woo_2023_HEP\|Woo (2023)]] | 截至2019年沿线签约国 | 双边外交与教育协定 | 学历学位互认协议签署国数 | 24 个国家 | 官方统计 | 反映中国高等教育制度标准在沿线国家的制度化吸纳程度（p. 680） |
 > | [[Argument_Woo_2023_HEP\|Woo (2023)]] | [[University Alliance of the Silk Road\|丝绸之路大学联盟]]（UASR） | 跨国高等教育多边联盟 | 吸纳海内外高校成员数 | 130+ 所 | 组织名册统计 | 汇聚五大洲30余个国家和地区院校，构建非西方多边学术合作网络（p. 680） |
-| [[Argument_Zhu_Yang_2023_HEP\|Zhu and Yang (2023)]] | 40 名中柬高教拓展知情人及深圳城市规划院涉外档案 | 定性案例研究（半结构化深度访谈与规划文本互证） | 治理经验认同度、特区模式制度化输出机制 | 14 名知情人自发深入探讨中国发展治理经验；柬埔寨财经部委托深圳市城市规划设计研究院编制总体规划，以深圳经济特区为蓝本规划建设西哈努克港经济特区（SSEZ） | — | 聚焦东南亚友好邻国精英，证实中国发展模式在空间规划层面对发展中国家决策层的务实吸引力（pp. 649–650） |
+| [[Argument_Zhu_Yang_2023_HEP\|Zhu and Yang (2023)]] | 40 名中柬高教拓展知情人及深圳城市规划院涉外档案 | 定性[[Case Study\|案例研究]]（半结构化[[In-depth Interview\|深度访谈]]与规划文本互证） | 治理经验认同度、特区模式制度化输出机制 | 14 名知情人自发深入探讨中国发展治理经验；柬埔寨财经部委托深圳市城市规划[[Design-Based Research\|设计研究]]院编制总体规划，以深圳经济特区为蓝本规划建设西哈努克港经济特区（SSEZ） | — | 聚焦东南亚友好邻国精英，证实中国发展模式在空间规划层面对发展中国家决策层的务实吸引力（pp. 649–650） |
 
 ---
 

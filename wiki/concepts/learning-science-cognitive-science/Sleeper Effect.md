@@ -7,10 +7,10 @@ aliases:
 summary: "学习或态度干预结束后，认知增益或说服效果不仅未随时间消退，反而随时间推移显著放大或充分显现的心理学现象；在认识论认知干预中，深层评价标准的内化沉淀使延时后测效应量达即时后测的两倍以上。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 27
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/learning-mechanisms
   - theme/epistemic-cognition
@@ -38,6 +38,9 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Study Population and Sample]]"
   - "[[Sampling Error]]"
+  - "[[Variable]]"
+  - "[[Dependent Variable]]"
+  - "[[Heterogeneity]]"
 related_theories: []
 related_methods:
   - "[[Pre-test and Post-test]]"
@@ -49,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -89,20 +92,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　认识论认知干预具有延时后测效应量成倍放大的显著沉睡特征
-
-> [!concept-lens] 测评时机对[[Effect Size\|效应量]]的调节机制
-> 探讨教育干预效果在时间维度上的动态演进规律，检验[[Epistemological Beliefs\|认识论信念]]是否具备延时增益特征。
+> [!concept-proposition] 命题一｜[[Epistemic Cognition|认识论认知]]干预具有延时[[Pre-test and Post-test|后测]][[Effect Size|效应量]]成倍放大的显著沉睡特征
+> **探讨维度　测评时机对[[Effect Size\|效应量]]的调节机制** 探讨教育干预效果在时间维度上的动态演进规律，检验[[Epistemological Beliefs\|认识论信念]]是否具备延时增益特征。
 
 > [!claim] Cartiff, B. M.
 > **延时[[Pre-test and Post-test\|后测]]效应翻倍与沉睡者机制确证** 在对[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]中，测评时间点表现出极为显著的[[Interaction Effect\|调节效应]]。施测于干预刚结束时的即时后测平均效应量为中等水平（$d = 0.451$）；而包含延迟追踪的后测研究中，效应量剧增至 $d = 0.966$，达到即时后测的两倍以上，组间差异高度显著（$Q_b = 16.737, p < .001$）。这一发现有力推翻了“干预收益必然随时间消退”的机械假设，证实认识论干预具有深层的内化沉淀机制：学生需要时间将课堂中习得的批判性确证标准、多文本比对策略转化为自发调用的心智习惯，进而在延时任务中爆发出更为强劲的学业促进潜能。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 490–493)]]
 
 ---
 
-### 命题二　浅层应试技能消退与深层认知信念沉淀构成教育效果的二元分殊
-
-> [!concept-lens] 干预[[Construct\|构念]]层次与时间持续性的交互
-> 探讨为何不同类型的教学干预在面对时间流逝时会分化出截然相反的演变轨迹。
+> [!concept-proposition] 命题二｜浅层应试技能消退与深层认知信念沉淀构成教育效果的二元分殊
+> **探讨维度　干预[[Construct\|构念]]层次与时间持续性的交互** 探讨为何不同类型的教学干预在面对时间流逝时会分化出截然相反的演变轨迹。
 
 > [!claim] Barzilai, S.
 > **深层认知信念的时间内化假说** 萨里特·巴齐莱（Sarit Barzilai）等学者指出，以直接教授解题程序或特定知识点为导向的技能干预，往往高度依赖外部[[Scaffolding\|教学支架]]的即时支持，一旦离开教学情境，其效果极易遭遇普遍的消退效应。相反，[[Epistemology\|认识论]]干预重构的是个体“何为可靠知识、如何确证主张”的核心判断尺度。此类干预的完全生效需要学习者在日常自主阅读和多学科探究中经历长期的检验、调适与内化整合。因此，深层认知与认识论信念干预天然具有“延迟显效”的内在时间结构。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, p. 492)]]
@@ -139,13 +138,13 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量时间调节项 | 即时后测（干预刚结束） | Cohen's $d$ | k = 26, N = 4,191 | <span class="mx-bar ef-bar" title="Cohen's d 0.451"><span class="b9"></span></span>0.451 | [0.267, 0.635] | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Dependent Variable\|结果变量]]时间调节项 | 即时后测（干预刚结束） | Cohen's $d$ | k = 26, N = 4,191 | <span class="mx-bar ef-bar" title="Cohen's d 0.451"><span class="b9"></span></span>0.451 | [0.267, 0.635] | — |
 > |  | 结果变量时间调节项 | 延时后测（干预结束后追踪） | Cohen's $d$ | k = 5, N = 485 | <span class="mx-bar ef-bar" title="Cohen's d 0.966"><span class="b19"></span></span>0.966 | [0.802, 1.131] | $Q_b = 16.737, df = 1, p < .001$ |
 >
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果变量时间调节项** 即时考察深层认知变化，效应稳健但受制于内化时间窗口
-> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果变量时间调节项** 效应达到即时测验两倍以上，且组内异质性极小（$I^2 = 23.979\%$）
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 结果变量时间调节项** 效应达到即时测验两倍以上，且组内[[Heterogeneity|异质性]]极小（$I^2 = 23.979\%$）
 
 ---
 

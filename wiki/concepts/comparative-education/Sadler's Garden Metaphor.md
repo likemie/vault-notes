@@ -29,10 +29,10 @@ related_concepts:
   - "[[Space of Flows]]"
   - "[[Assemblage]]"
   - "[[Recontextualization]]"
+  - "[[Policy Borrowing]]"
   - "[[Global Educational Discourse]]"
   - "[[Public-Private Partnership]]"
   - "[[Methodological Nationalism]]"
-  - "[[Policy Borrowing]]"
   - "[[Positivism]]"
   - "[[Performance Indicators]]"
 related_theories:
@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -106,20 +106,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　跨国政策借用的实质后果不在于外来方案整体能否扎根，而在于其携带的评价标准与规训技术对本土生态的不可逆侵蚀
-
-> [!concept-lens] 微观生态变异与隐性规训
-> 探讨外来教育模型在遭遇本土抵制或事实失败后，其残余的技术官僚逻辑与评价工具如何持续重塑基层学校微观生态。
+> [!concept-proposition] 命题一｜跨国[[Policy Borrowing|政策借用]]的实质后果不在于外来方案整体能否扎根，而在于其携带的评价标准与规训技术对本土生态的不可逆侵蚀
+> **探讨维度　微观生态变异与隐性规训** 探讨外来教育模型在遭遇本土抵制或事实失败后，其残余的技术官僚逻辑与评价工具如何持续重塑基层学校微观生态。
 
 > [!claim] [[Jason Beech|Beech, J.]]
 > **作为微生物的外来政策碎片对本土教育生态的深度重组** 杰森·比奇（Jason Beech）指出，比较教育学者长期陷入[[Michael Sadler|萨德勒]]设定的“成活还是枯萎”思维盲区，误以为只要外来改革在政策实施中变形、失效或被废止，借用便告终结。然而以 1990 年代阿根廷与巴西教师教育改革为例，国际组织推销的“[[Global Educational Discourse|全球教育话语]]五支柱”虽然无法作为完整制度落地，反而引发了课程混乱；但其所携带的“教师自主”抽象修辞迫使失去国家统编指南的阿根廷教师全面倒向跨国商业教科书，而巴西则陷入了无法行政管理的见习混乱。外来残枝虽死，但其携带的市场化、能力本位与商业外包等“微生物”已经不可逆转地改变了南美洲的本土教育微观生态。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 354–356)]]
 
 ---
 
-### 命题二　全球化重构了花园漫步的权力结构，跨国资本与超国家机构瓦解了主权国家对制度采撷的垄断权
-
-> [!concept-lens] 行动者扩散与[[Pluri-Scalar Governance|多标度治理]]
-> 探讨漫步主体的多元化如何将传统的双边国家外交互鉴，转变为超越主权地理容器的跨国资本与多标度治理网络。
+> [!concept-proposition] 命题二｜全球化重构了花园漫步的权力结构，跨国资本与超国家机构瓦解了主权国家对制度采撷的垄断权
+> **探讨维度　行动者扩散与[[Pluri-Scalar Governance|多标度治理]]** 探讨漫步主体的多元化如何将传统的双边国家外交互鉴，转变为超越主权地理容器的跨国资本与多标度治理网络。
 
 > [!claim] Beech, J.
 > **漫步者主体由国家官僚向跨国复合实体的跃迁** 比奇论证，萨德勒 1900 年设想的前提是“国家作为一个整体去别国花园采撷”；但在当代全球化情境下，民族国家的主权容器已被穿透。像[[Nord Anglia Education|诺德安达]]（Nord Anglia）和[[GEMS Education|环球教育管理系统]]（GEMS）这样的跨国营利性集团，借由[[Public-Private Partnership|公私伙伴关系]]在海外成片运营学校并直接向多国政府兜售政策咨询；大学在创收驱动下组建发展咨询部门倾销效能方案；超国家联盟（如[[EU|欧盟]]）推行软性指标控制。漫步于世界花园中的新型实体已拥有跨国流动的资本与权力，这要求比较教育学必须彻底抛弃[[Methodological Nationalism|方法论民族主义]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344)]]

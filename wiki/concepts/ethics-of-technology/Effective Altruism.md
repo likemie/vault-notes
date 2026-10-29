@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -101,30 +101,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　单一量化效用计算将复杂人类经验与公民使命降格为空洞的功利主义度量
-
-> [!concept-lens] 伦理学还原论与意义危机
-> 探讨有效利他主义如何通过将道德判断转化为数学优化问题，抽空人类公共生活的文化丰富性与精神深度。
+> [!concept-proposition] 命题一｜单一量化效用计算将复杂人类经验与公民使命降格为空洞的功利主义度量
+> **探讨维度　伦理学还原论与意义危机** 探讨有效利他主义如何通过将道德判断转化为数学优化问题，抽空人类公共生活的文化丰富性与精神深度。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, Ch. 18)]]
 > **空洞功利主义对生命意义的消解** 彼得·辛格（Peter Singer, 1975）奠定的有效利他主义试图以极简的福利最大化公式解决一切道德争议；然而正如英国哲学家罗杰·斯克鲁顿（Roger Scruton, 2000）所深刻批评，这种理论采纳了一种“空洞的功利主义”，将复杂的人类生存意义、审美追求与共同体归属粗暴降格为单一福利指标，使社会丧失了对崇高与卓越生活的辨别能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 212–213)]]
 
 ---
 
-### 命题二　有效利他主义构成了科技寡头逃避国家防卫承诺与推迟面对存在意义的道德避险策略
-
-> [!concept-lens] 科技精英意识形态与政治避险
-> 阐明硅谷精英如何利用有效利他主义作为理论工具，掩盖自身在国家安全与地缘竞争中的政治冷漠与非道德立场。
+> [!concept-proposition] 命题二｜有效利他主义构成了科技寡头逃避国家防卫承诺与推迟面对存在意义的道德避险策略
+> **探讨维度　科技精英意识形态与政治避险** 阐明硅谷精英如何利用有效利他主义作为理论工具，掩盖自身在国家安全与地缘竞争中的政治冷漠与非道德立场。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, Ch. 18)]]
 > **非道德立场与政治责任的剥离** 硅谷科技巨头并非传统意义上的不道德（immoral），而是呈现出一种系统的非道德（amoral）特质；他们借有效利他主义的慈善语言为自身装点廉价的理想主义门面，实质上是为了在享受国家法治、资本与安全保护的同时，回避对民族国家承担防卫责任与实质政治承诺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 213–215)]]
 
 ---
 
-### 命题三　克服有效利他主义的虚无主义危机要求以实质伦理美德与文化特质重铸共同体价值锚桩
-
-> [!concept-lens] 规范重构与文明存续
-> 论证维系现代技术文明必须超越算术功利主义与形式中立，恢复具体的文化特质与古典道德典范。
+> [!concept-proposition] 命题三｜克服有效利他主义的虚无主义危机要求以实质伦理美德与文化特质重铸共同体价值锚桩
+> **探讨维度　规范重构与文明存续** 论证维系现代技术文明必须超越算术功利主义与形式中立，恢复具体的文化特质与古典道德典范。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|Karp & Zamiska (2025, Ch. 18)]]
 > **实质美德对算术功利的超越** 列奥·施特劳斯（Leo Strauss, 1959）警示，对目标的冷漠与漫无目的构成了现代文化虚无主义的温床；[[John Rawls|约翰·罗尔斯]]（John Rawls, 2005）的形式程序中立同样无法提供公共凝聚力。要重铸[[Technological Republic|技术共和国]]，必须汲取[[Lee Kuan Yew|李光耀]]（Lee Kuan Yew, 2000）在治理中倡导儒家[[Junzi|君子]]美德的智慧，以具体的文化特质与共同体[[Civic Rituals|公民仪式]]取代空洞的功利计算。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Karp & Zamiska, 2025, pp. 214–218)]]

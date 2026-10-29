@@ -30,9 +30,9 @@ related_concepts:
   - "[[University-Based Research Infrastructure]]"
   - "[[Center of Calculation]]"
   - "[[Knowledge Exchange]]"
+  - "[[Open-Mindedness]]"
   - "[[General Purpose Technology]]"
   - "[[National Innovation System]]"
-  - "[[Open-Mindedness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Academic Freedom]]"
 related_theories:
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -111,30 +111,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　国防导向的基础与应用研发投入深度重塑了战后大学的学科格局与学术声誉
-
-> [!concept-lens] [[Disciplinary Institutionalization|学科建制]]与学术声誉演进
-> 探讨外部国家安全科研资助如何介入大学内部学科建制，推动新兴学科合法化并重塑大学在全球学术版图中的梯队位次。
+> [!concept-proposition] 命题一｜国防导向的基础与应用研发投入深度重塑了战后大学的学科格局与学术声誉
+> **探讨维度　[[Disciplinary Institutionalization|学科建制]]与学术声誉演进** 探讨外部国家安全科研资助如何介入大学内部学科建制，推动新兴学科合法化并重塑大学在全球学术版图中的梯队位次。
 
 > [!claim] Fabrizio & Mowery
 > **学术精英地位的国防资助基础** 战后诸如斯坦福大学（Stanford University）与麻省理工学院（Massachusetts Institute of Technology, MIT）等美国顶尖高校，正是通过深度依附联邦政府在基础与应用科学工程领域的巨额国防研发支持，才得以极大地扩张其实验室体量、建立前沿计算机科学与电气工程学科建制，并最终奠定其享誉全球的学术卓越地位。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 29)]]
 
 ---
 
-### 命题二　大学构成了连通军民技术知识与高层次人才供给的核心网络桥梁
-
-> [!concept-lens] 知识跨界流动与[[Human Capital Theory|人力资本]]培育
-> 探讨大学在国家[[Systems of Innovation|创新系统]]中作为跨界[[Knowledge Exchange|知识交流]]中介与工业人才摇篮的独特机制。
+> [!concept-proposition] 命题二｜大学构成了连通军民技术知识与高层次人才供给的核心网络桥梁
+> **探讨维度　知识跨界流动与[[Human Capital Theory|人力资本]]培育** 探讨大学在国家[[Systems of Innovation|创新系统]]中作为跨界[[Knowledge Exchange|知识交流]]中介与工业人才摇篮的独特机制。
 
 > [!claim] Fabrizio & Mowery
 > **军民科研交叉融合的枢纽功能** 大学作为基础研究与应用研究的重要承载阵地，不仅直接产出了支撑战后计算机硬件与网络架构的前沿突破，而且通过培养大批活跃于新兴 IT 产业一线的科学家与工程技术人才，在学术界与工业界、国防科研与民用探索之间架起了双向信息互通与知识杂交的关键桥梁。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 36)]]
 
 ---
 
-### 命题三　分散化资助与开放性知识协议培育了大学的探索自由与民用通用技术外溢
-
-> [!concept-lens] 资助体制开放度与技术扩散
-> 探讨相比于集权式军事控制，多元分散的军事实体竞争性拨款与非专利开源协议如何意外保障了大学基础科研的探索自由度与长期外溢效能。
+> [!concept-proposition] 命题三｜分散化资助与[[Open-Mindedness|开放性]]知识协议培育了大学的探索自由与民用[[General Purpose Technology|通用技术]]外溢
+> **探讨维度　资助体制开放度与技术扩散** 探讨相比于集权式军事控制，多元分散的军事实体竞争性拨款与非专利开源协议如何意外保障了大学基础科研的探索自由度与长期外溢效能。
 
 > [!claim] Fabrizio & Mowery
 > **开放协议与多军种分散资助的制度红利** 与西欧中央集权式指令规划不同，战后美国冷战大学体制呈现高度多元分散特征——陆、海、空三军与[[DARPA|国防高级研究计划局]]（DARPA）各自独立拨款，大学研究人员可在不同军种赞助者之间灵活争取资助，从而缓冲了单一军事指令的干预；同时，DARPA 和海军研究局（[[Office of Naval Research]], ONR）等机构长期推行宽容的基础科研资助规范，并在[[ARPANET|阿帕网]]与计算机早期研制中坚持非专利（Public Domain）解密与开放出版政策，这使冷战大学在服务国防战略需求的同时，意外奠定了全美民用[[General Purpose Technology|通用技术]]自主生长的开放知识底座。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29, 36, 39)]]

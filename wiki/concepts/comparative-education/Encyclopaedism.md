@@ -5,10 +5,10 @@ aliases:
 summary: "一种以广泛覆盖既定学科知识和准确复现事实为通识教育标准的课程范式，可解释多科目课程的浅层学习、考试反拨以及能力改革中旧有分科结构的延续。"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/curriculum-theory
   - theme/educational-tradition
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Paradigmatic Learning]]"
   - "[[International Baccalaureate]]"
+  - "[[Encyclopaedic Definition of Knowledge]]"
   - "[[Discourse]]"
   - "[[Theory of Knowledge]]"
   - "[[Geisteswissenschaften]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -87,26 +88,20 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　扩大知识覆盖会在有限课时和内容型考试中产生浅层学习
-
-> [!concept-lens] 广度、深度与课程时间
-> 百科全书课程的主要矛盾来自无限扩张的知识范围与有限学习时间。科目数量、单科内容和考试抽查共同决定学生能否从接触信息推进到形成学科思维。
+> [!concept-proposition] 命题一｜扩大知识覆盖会在有限课时和内容型考试中产生浅层学习
+> **探讨维度　广度、深度与课程时间** 百科全书课程的主要矛盾来自无限扩张的知识范围与有限学习时间。科目数量、单科内容和考试抽查共同决定学生能否从接触信息推进到形成学科思维。
 
 > [!claim] [[Alec Peterson\|Peterson, A. D. C.]]
 > **多科目覆盖产生惰性观念** 19 世纪至 20 世纪前期的欧陆通识课程在拉丁语、希腊语和数学之外陆续加入历史、自然科学、地理与经济。德国大学预科学生一度同时学习十三门科目，每科每周只有一至两课时。快速切换使学生主要记住信息或教师预先整理的解释，难以通过自己的推理把知识变成可使用的思想。减少到约六门性质不同的学科，并在每科保留共同背景与深度范例，才能同时保存通识广度和深入理解。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 38–39, 43–45)]]
 
-### 命题二　跨国课程会暴露共同知识清单无法穷尽世界经验
-
-> [!concept-lens] 国家知识目录与国际通识
-> 国家课程可以围绕本国历史和文化建立知识清单，国际课程同时面对多种传统。每加入一个国家认为不可缺少的内容，其他国家便会提出同等合理的要求，全面覆盖很快失去可行性。
+> [!concept-proposition] 命题二｜跨国课程会暴露共同知识清单无法穷尽世界经验
+> **探讨维度　国家知识目录与国际通识** 国家课程可以围绕本国历史和文化建立知识清单，国际课程同时面对多种传统。每加入一个国家认为不可缺少的内容，其他国家便会提出同等合理的要求，全面覆盖很快失去可行性。
 
 > [!claim] [[Amelia Peterson\|Peterson, A.]] D. C.
 > **国际历史课程迫使通识标准改变** 若法国革命必须进入共同课程，美国、俄国、中国和墨西哥革命也有相近理由，继续扩展又会遗漏更多地区。国际通识因而不能依赖一份供学生记忆的全球事实目录。课程需要选择足够的事实与背景，让学生学习如何判断材料、解释因果和理解历史情境，随后把历史思维用于尚未学过的政治、商业或社会问题。通识性由知道哪些共同事实转向能否使用多种思维方式。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, pp. 41–44, 47)]]
 
-### 命题三　能力改革可以改变政策语言而保留百科全书式课程结构
-
-> [!concept-lens] 政策革新与结构延续
-> 百科全书主义已经嵌入科目分类、教师岗位和课程管理。改革同时面对国际能力[[Discourse|话语]]与国内既有制度时，政策文本可以并置两种逻辑，而无需立即重组全部课程关系。
+> [!concept-proposition] 命题三｜能力改革可以改变政策语言而保留[[Encyclopaedic Definition of Knowledge|百科全书式课程]]结构
+> **探讨维度　政策革新与结构延续** 百科全书主义已经嵌入科目分类、教师岗位和课程管理。改革同时面对国际能力[[Discourse|话语]]与国内既有制度时，政策文本可以并置两种逻辑，而无需立即重组全部课程关系。
 
 > [!claim] [[Jason Beech\|Beech, J.]]
 > **矛盾并置具有政治功能** 1990 年代巴西中等教育改革用能力、技术和跨学科工作组织政策语言，并把课程名义上归入三大领域；各领域内部仍保留物理、化学、历史等传统科目，合计仍为十四门。跨学科能力回应国际机构和改革派，科目延续回应教师及保守力量。百科全书式结构因而能够在革新语言中继续运行，这种组合体现国家层面协调多方要求的方式。[[Argument_Beech_2009_CE\|Beech (2009a, pp. 355–357)]]

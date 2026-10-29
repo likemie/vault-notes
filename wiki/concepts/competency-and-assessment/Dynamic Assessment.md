@@ -9,7 +9,7 @@ aliases:
 summary: "建立在维果茨基最近发展区理论基础之上，通过主考人在测验情境中提供渐进式线索、提示与中介指导，测量个体认知可塑性与潜在学习能力的交互式测评范式"
 type: concept
 domain: "competency-and-assessment"
-related_count: 31
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -32,8 +32,11 @@ related_concepts:
   - "[[Socioeconomic Status]]"
   - "[[Metacognition]]"
   - "[[Working Memory]]"
-  - "[[Visible Learning]]"
+  - "[[Business as Usual]]"
+  - "[[Chain of Evidence]]"
   - "[[Ecological Validity]]"
+  - "[[Document]]"
+  - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Construct Validity]]"
   - "[[Heterogeneity]]"
@@ -61,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 （动态评估）
@@ -121,7 +124,7 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　动态评估中的主考人协助能显著唤醒特殊儿童的学习潜能，展现极高的测验干预增益
+> [!concept-proposition] 命题一｜动态评估中的主考人协助能显著唤醒特殊儿童的学习潜能，展现极高的测验干预增益
 
 通过分级提示介入，测验本身能够转变为强有力的认知促进环境。
 
@@ -133,7 +136,7 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　将动态测验中的主考人提示混淆为常态教学反馈摧毁了实证证据链的生态效度
+> [!concept-proposition] 命题二｜将动态测验中的主考人提示混淆为[[Business as Usual|常态教学]]反馈摧毁了实证[[Chain of Evidence|证据链]]的[[Ecological Validity|生态效度]]
 
 心理学测验情境下的认知潜能诊断程序不能跨情境机械套用到常规课堂教学中。
 
@@ -141,7 +144,7 @@ updated: 2026-10-22
 > 探讨实证综合者如何因忽略施测情境的特殊性，将实验室测验辅助误读为大众化课堂教学举措。
 
 > [!claim] [[Klaus Nielsen|Nielsen, K.]] and Klitmøller, J. (2021a)
-> **临床测验提示不可等同于日常课堂反馈** 尼尔森与克利特默勒通过深度文献细读指出，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中将斯旺森等人的动态评估元分析直接列为支撑其反馈超高效应（$d = 0.73$）的核心证据。斯旺森原文探讨的是为了评估学习潜能而由主考人实施的特定测试辅助（Examiner assistance via cues, hints or prompts in examination），而非师生日常教学交流。哈蒂将测验情境的认知潜能诊断移花接木为常态课堂教学法，抽离了动态评估高度专业化、个别化与昂贵临床测验的物质前提，造成了实证证据的严重泛化失真。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 12–13)]]
+> **临床测验提示不可等同于日常课堂反馈** 尼尔森与克利特默勒通过深度[[Document|文献]]细读指出，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中将斯旺森等人的动态评估元分析直接列为支撑其反馈超高效应（$d = 0.73$）的核心证据。斯旺森原文探讨的是为了评估学习潜能而由主考人实施的特定测试辅助（Examiner assistance via cues, hints or prompts in examination），而非师生日常教学交流。哈蒂将测验情境的认知潜能诊断移花接木为常态课堂教学法，抽离了动态评估高度专业化、个别化与昂贵临床测验的物质前提，造成了实证证据的严重泛化失真。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 12–13)]]
 
 ---
 

@@ -5,10 +5,10 @@ aliases:
 summary: "由公共财政资助、私营非营利或营利机构依据专门契约自主运营的公办民营学校形态；以解除常规学区行政规制换取严格的学业绩效问责，但在多国实践中引发了关于公共责任流失、筛选偏误以及实际学业增值近乎为零的激烈争论。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 16
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 31
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/educational-leadership-administration
   - theme/school-choice
@@ -16,42 +16,57 @@ tags:
   - theme/accountability
   - metax
 related_concepts:
-  - "[[School Choice]]"
-  - "[[School Vouchers]]"
-  - "[[New Public Management]]"
-  - "[[Public-Private Partnership]]"
-  - "[[Endogenous Privatisation]]"
-  - "[[Test-Based Accountability]]"
+  - "[[Educational Management Organisation]]"
   - "[[Academic Achievement]]"
-related_theories:
-  - "[[Neoliberalism in Education]]"
+  - "[[New Public Management]]"
+  - "[[Paradigm]]"
+  - "[[Endogenous Privatisation]]"
+  - "[[School Vouchers]]"
+  - "[[Public-Private Partnership]]"
+  - "[[Catalytic Philanthropy]]"
+  - "[[Test-Based Accountability]]"
+  - "[[Policy Network]]"
+  - "[[Counterfactual]]"
+  - "[[Visible Learning]]"
+  - "[[Document]]"
+  - "[[Discourse]]"
+  - "[[School Choice]]"
+related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
+  - "[[Regression Discontinuity Design]]"
+  - "[[Random Assignment]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Ivan Snook]]"
+  - "[[John Hattie]]"
 related_facts:
+  - "[[Bill & Melinda Gates Foundation]]"
   - "[[Partnership Schools Kura Hourua]]"
-  - "[[What Works Clearinghouse]]"
+  - "[[PISA]]"
+  - "[[Adequate Yearly Progress]]"
+  - "[[No Child Left Behind Act 2001]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
-  - "[[Argument_Rowe_2023_ECNUROE]]"
-  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Verger_2019_Discourse]]"
+  - "[[Argument_Rowe_2023_ECNUROE]]"
   - "[[Argument_Xie_Li_Huang_2021_GEO]]"
+  - "[[Argument_Snook_2009_NZJES]]"
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-27
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Charter Schools
-> 特许学校（Charter Schools），指由公共财政资助、由私营营利或非营利组织、社区团体或教育管理组织依据政府授权的特许合同（Charter）自主运营的独立公立学校形态。特许学校以解除传统学区行政科层规制（如教师编制、工会合同、课程设置与工时限制）为制度前提，承诺达成特定的学业成就指标与经营标准以换取办学资质；若未能达成约定绩效，特许授权机构有权撤销其合同或关闭学校。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 29–30)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019)]]
+> 特许学校（Charter Schools），指由公共财政资助、由私营营利或非营利组织、社区团体或[[Educational Management Organisation|教育管理组织]]依据政府授权的特许合同（Charter）自主运营的独立公立学校形态。特许学校以解除传统学区行政科层规制（如教师编制、工会合同、课程设置与工时限制）为制度前提，承诺达成特定的[[Academic Achievement|学业成就]]指标与经营标准以换取办学资质；若未能达成约定绩效，特许授权机构有权撤销其合同或关闭学校。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 29–30)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 作为[[New Public Management|新公共管理]]范式下的典型制度创新，通过公帑资助与民间运营分离，在公立教育系统内部引入准市场竞争与契约化问责。
-> - **用途** 帮助研究者透视公立教育的内生私有化演进，分析非国家主体如何借助办学合同参与公共资源分配并重组基础教育治理结构。
+> - **含义** 作为[[New Public Management|新公共管理]][[Paradigm|范式]]下的典型制度创新，通过公帑资助与民间运营分离，在公立教育系统内部引入准市场竞争与契约化问责。
+> - **用途** 帮助研究者透视公立教育的[[Endogenous Privatisation|内生私有化]]演进，分析非国家主体如何借助办学合同参与公共资源分配并重组基础教育治理结构。
 > - **边界** 特许学校在法律地位上仍属于免费接受公众入学的公立体系，区别于纯粹依赖家庭学费的私立独立学校；亦区别于赋予家庭资金随生源流动的[[School Vouchers|教育券]]制度。
 
 > [!citation-card] 商业外包与特许办学的公共责任脱身风险
@@ -76,8 +91,8 @@ updated: 2026-10-27
 
 > [!feature] 核心要素
 > - **以自主权置换绩效责任的契约机制** 特许学校与授权机构（如州立大学、地方学区或专门特许委员会）签订 3–5 年期的法定合同。学校在人员招聘、薪资结构、学年日历和教学模式上享有免受州立法规拘束的特例自主权，但必须向授权方证明其学生达到预定绩效，合同期满面临续约或关停裁决。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 29–30)]]
-> - **公私伙伴关系与内生私有化运作** 运营主体通常由特许管理组织（Charter Management Organizations, CMOs）或营利性教育服务提供商介入，将公共教育资金通过管理费、后勤外包与技术采购转化为商业合同，成为公立系统内生私有化的关键渠道。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53)]]
-> - **资本与政策倡导联盟驱动** 特许学校政策运动高度依赖亲市场智库与大型跨国慈善基金会（如比尔及梅琳达·盖茨基金会）的催化慈善资金。基金会不仅直接资助特许网络扩张，更资助支持特许学校立法的政治游说联盟。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023)]]
+> - **[[Public-Private Partnership|公私伙伴关系]]与内生私有化运作** 运营主体通常由特许管理组织（Charter Management Organizations, CMOs）或营利性教育服务提供商介入，将公共教育资金通过管理费、后勤外包与技术采购转化为商业合同，成为公立系统内生私有化的关键渠道。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53)]]
+> - **资本与政策倡导联盟驱动** 特许学校政策运动高度依赖亲市场智库与大型跨国慈善基金会（如比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]）的[[Catalytic Philanthropy|催化慈善]]资金。基金会不仅直接资助特许网络扩张，更资助支持特许学校立法的政治游说联盟。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023)]]
 
 > [!logic-map]- 特许学校的制度运作与利益博弈机制
 > ```mermaid
@@ -98,41 +113,35 @@ updated: 2026-10-27
 
 ---
 
-### 命题一　特许学校以办学自主与市场竞争为由推动公立教育的商业外包与内生私有化
-
-> [!concept-lens] 公私伙伴关系与制度侵蚀维度
-> 探讨特许契约如何将市场契约机制嵌入公立教育，以及私营外包失败时的责任转嫁逻辑。
+> [!concept-proposition] 命题一｜特许学校以办学自主与市场竞争为由推动公立教育的商业外包与[[Endogenous Privatisation|内生私有化]]
+> **探讨维度　[[Public-Private Partnership|公私伙伴关系]]与制度侵蚀维度** 探讨特许契约如何将市场契约机制嵌入公立教育，以及私营外包失败时的责任转嫁逻辑。
 
 > [!claim] [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]]
-> **商业合同外包削弱公共责任法定底线** 奥尼尔等人的政策审查表明，新西兰等国在亲市场智库游说下引入特许学校（Partnership Schools Kura Hourua, PSKH），允许营利与非营利机构依商业合同直接支配公帑办学。这一安排以灵活性为修辞掩盖了深刻的制度风险：私人慈善与商业赞助具有高度不稳定性，无法替代公共财政的普惠均等；更为严重的是，当特许学校经营失败或学业效果不佳时，私营机构可通过破产解约全身而退，而留滞学生的教育受损与安置成本最终只能由国家公立体系被动兜底。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 29–30, 134–136)]]
+> **商业合同外包削弱公共责任法定底线** 奥尼尔等人的政策审查表明，新西兰等国在亲市场智库游说下引入特许学校（[[Partnership Schools Kura Hourua]], PSKH），允许营利与非营利机构依商业合同直接支配公帑办学。这一安排以灵活性为修辞掩盖了深刻的制度风险：私人慈善与商业赞助具有高度不稳定性，无法替代公共财政的普惠均等；更为严重的是，当特许学校经营失败或学业效果不佳时，私营机构可通过破产解约全身而退，而留滞学生的教育受损与安置成本最终只能由国家公立体系被动兜底。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 29–30, 134–136)]]
 
 ---
 
-### 命题二　基于测验的问责制与基金会催化慈善协同加速特许学校政策扩张
-
-> [!concept-lens] 政策网络与全球软治理动员维度
-> 揭示国际评估危机动员、严苛问责制裁与跨国慈善资本如何合流推动特许学校扩散。
+> [!concept-proposition] 命题二｜[[Test-Based Accountability|基于测验的问责制]]与基金会[[Catalytic Philanthropy|催化慈善]]协同加速特许学校政策扩张
+> **探讨维度　[[Policy Network|政策网络]]与全球软治理动员维度** 揭示国际评估危机动员、严苛问责制裁与跨国慈善资本如何合流推动特许学校扩散。
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]]; [[Argument_Verger_2019_Discourse|Verger et al. (2019)]]; [[Argument_Xie_Li_Huang_2021_GEO|谢爱磊等 (2021)]]
-> **问责制裁压力与战略慈善结盟推动结构重组** 跨国政策比较与全球治理研究表明，特许学校政策具有复杂的外部驱动机制。基于测验的问责制（TBA）将特许重组作为惩罚学业达标不合格公立学校的核心制裁工具；同时，跨国比较测验（如 PISA）引发的危机感被商业智库与改革联盟借用，作为推动特许学校立法扩张的正当化证据。另一方面，跨国慈善基金会通过定向资金占据特许倡导联盟总预算的大部，依托催化慈善模式深度渗透公共决策网络，实现了对传统公办体系的战略性重塑。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021)]]
+> **问责制裁压力与战略慈善结盟推动结构重组** 跨国政策比较与全球治理研究表明，特许学校政策具有复杂的外部驱动机制。基于测验的问责制（TBA）将特许重组作为惩罚学业达标不合格公立学校的核心制裁工具；同时，跨国比较测验（如 [[PISA]]）引发的危机感被商业智库与改革联盟借用，作为推动特许学校立法扩张的正当化证据。另一方面，跨国慈善基金会通过定向资金占据特许倡导联盟总预算的大部，依托催化慈善模式深度渗透公共决策网络，实现了对传统公办体系的战略性重塑。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023)]]; [[Argument_Verger_2019_Discourse|(Verger et al., 2019)]]; [[Argument_Xie_Li_Huang_2021_GEO|(谢爱磊等, 2021)]]
 
 ---
 
-### 命题三　元分析证据显示特许学校对学业成就的整体效应量微弱且受制于研究方法质量
-
-> [!concept-lens] 实证评估与方法学偏差维度
-> 检视特许学校声称的学术增值假定，分析其效应量随研究因果严谨性提升而衰减的规律。
+> [!concept-proposition] 命题三｜[[Meta-analysis|元分析]]证据显示特许学校对[[Academic Achievement|学业成就]]的整体[[Effect Size|效应量]]微弱且受制于研究方法质量
+> **探讨维度　实证评估与方法学偏差维度** 检视特许学校声称的学术增值假定，分析其效应量随研究因果严谨性提升而衰减的规律。
 
 > [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]
-> **学业增值假定在严谨反事实检验下趋于消解** 针对倡导者宣称特许学校能显著提高弱势群体分数的断言，斯努克等人的方法学审计指出，早期宏观元分析报告的正向效应量（如 $d = 0.20$）在剔除缺乏对照的低质量研究后，组间差异降低至统计不显著的零水平。约翰·哈蒂《可见的学习》MetaX 全球数据库汇总的 6 项元分析（涵盖 347 项原始研究、780 个效应量）同样证实，特许学校对总体学业成就的加权综合效应量仅为 $d = 0.04$，属于微弱正向效应，证实其并未在宏观尺度上带来超越常规公立学校的实质学业改善。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 181, 192)]]
+> **学业增值假定在严谨[[Counterfactual|反事实]]检验下趋于消解** 针对倡导者宣称特许学校能显著提高弱势群体分数的断言，[[Ivan Snook|斯努克]]等人的方法学审计指出，早期宏观元分析报告的正向效应量（如 $d = 0.20$）在剔除缺乏对照的低质量研究后，组间差异降低至统计不显著的零水平。[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》MetaX 全球数据库汇总的 6 项元分析（涵盖 347 项原始研究、780 个效应量）同样证实，特许学校对总体学业成就的加权综合效应量仅为 $d = 0.04$，属于微弱正向效应，证实其并未在宏观尺度上带来超越常规公立学校的实质学业改善。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 181, 192)]]
 
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心论点 | 机制与制度条件 | 代表学者与文献 |
+> | 命题类型 | 核心论点 | 机制与制度条件 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **私有化与外包命题** | 特许办学以解除规制为名推进商业外包，存在经营失败转嫁公立体系的风险 | 契约化生均拨款、私营管理组织介入、破产解约与兜底脱节 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] |
-> | **问责与慈善动员命题** | 测验问责制裁压力与基金会战略投资协同构建特许扩张的政策网络 | AYP 达标惩罚重组、PISA 危机话语借调、催化慈善资金支持 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]]; [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] |
+> | **问责与慈善动员命题** | 测验问责制裁压力与基金会战略投资协同构建特许扩张的政策网络 | [[Adequate Yearly Progress\|AYP]] 达标惩罚重组、PISA 危机[[Discourse\|话语]]借调、催化慈善资金支持 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; [[Argument_Verger_2019_Discourse\|Verger et al. (2019)]]; [[Argument_Xie_Li_Huang_2021_GEO\|谢爱磊等 (2021)]] |
 > | **实证效应有限命题** | 严谨反事实实证检验表明特许学校对总体学业成就提升近乎为零 | 排除低质量研究后效应消失，全球元分析综合效应量仅为 $d = 0.04$ | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; MetaX 数据库 |
 
 ---
@@ -140,9 +149,9 @@ updated: 2026-10-27
 > [!dev-timeline] 概念演变
 > - **1980 年代末 — 概念提出与契约构想** 美国明尼苏达州教育家与政策分析者提出特许理念，构想允许教师绕过官僚体制自主创办实验性学校，由公帑资助并向学区承担结果责任。
 > - **1991 年 — 首部特许学校法立法** 美国明尼苏达州通过全美第一部《特许学校法》，次年首家特许学校 City Academy 建立，拉开全美特许学校运动序幕。
-> - **2001 年 — 《不让一个孩子掉队》法案将特许重组制度化** 联邦 NCLB 法案将未达年度适当学业进展（AYP）的薄弱学校重组或转制为特许学校列入惩罚措施，特许学校从边缘实验走向全国主流政策工具。
+> - **2001 年 — 《不让一个孩子掉队》法案将特许重组制度化** 联邦 [[No Child Left Behind Act 2001|NCLB]] 法案将未达年度适当学业进展（AYP）的薄弱学校重组或转制为特许学校列入惩罚措施，特许学校从边缘实验走向全国主流政策工具。
 > - **2010 年代 — 全球跨国扩散与多边政策论辩** 特许模式经由跨国智库与政策网络向英国（学院校 Academies）、新西兰（合作学校 PSKH）扩散；同时学界对大型基金会催化慈善推动商业化外包与责任规避展开系统批评。
-> - **2020 年代 — 实证元分析审查确立微弱效应共识** MetaX 全球元分析汇总与多项严格断点回归及抽签随机分配研究确证，除少数严管型特许学校在特定城市有局部增益外，全美宏观特许学校并未展现系统性学业优势。
+> - **2020 年代 — 实证元分析审查确立微弱效应共识** MetaX 全球元分析汇总与多项严格[[Regression Discontinuity Design|断点回归]]及抽签[[Random Assignment|随机分配]]研究确证，除少数严管型特许学校在特定城市有局部增益外，全美宏观特许学校并未展现系统性学业优势。
 
 ---
 
@@ -195,7 +204,7 @@ updated: 2026-10-27
 >
 > | 研究 | 样本与情境 | 研究设计 | 核心指标或政策参数 | 关键统计结果与实证发现 | 解释边界 |
 > |---|---|---|---|---|---|
-> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 美国特许学校政策倡导联盟与慈善资助流向追踪 | 政治网络文献追踪与政策资助分析 | 战略慈善基金在特许倡导组织中的资金占比 | 盖茨基金会在特定特许倡导联盟中的预算占比近 80% | 揭示巨型基金会资本对基层特许立法的决定性塑形作用 |
+> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 美国特许学校政策倡导联盟与慈善资助流向追踪 | 政治网络文献追踪与政策资助分析 | 战略慈善基金在特许倡导组织中的资金占比 | [[Bill & Melinda Gates Foundation\|盖茨基金会]]在特定特许倡导联盟中的预算占比近 80% | 揭示巨型基金会资本对基层特许立法的决定性塑形作用 |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009, p. 192)]] | 针对特许学校提升学业成就元分析的方法学审计 | 元分析文献因果质量重估 | 纳入低质量研究与排除后的效应量变异 | 包含低质量研究时效应量 $d = 0.20$；排除后组间差异降低至 0 | 实证证实特许学校学业增值假定高度源于原始研究的设计偏误 |
 
 ---
@@ -215,4 +224,4 @@ updated: 2026-10-27
 > | [[School Choice\|学校选择]] | 上位范畴 | 特许学校是新自由主义择校改革在供给侧重组的核心载体。 |
 > | [[Public-Private Partnership\|公私伙伴关系]] | 治理机制 | 公帑资助与私营非营利或商业运营分离的典型契约治理形态。 |
 > | [[Test-Based Accountability\|基于测验的问责制]] | 政策联动 | TBA 既是监督特许学校履约的标准，也是倒逼传统薄弱公校转制特许的动力。 |
-> | [[New Public Management\|新公共管理]] | 理论范式 | 特许学校制度充分体现了 NPM 解除内部规制、强化契约问责的理念。 |
+> | [[New Public Management\|新公共管理]] | 理论[[Paradigm\|范式]] | 特许学校制度充分体现了 NPM 解除内部规制、强化契约问责的理念。 |

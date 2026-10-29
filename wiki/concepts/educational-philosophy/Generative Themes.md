@@ -6,10 +6,10 @@ aliases:
 summary: "保罗·弗莱雷解放教育理论的核心课程概念，指从受压迫者具体日常生存境遇与社会矛盾中提取出的、能够引发强烈理智与情感共鸣并促成批判意识觉醒的课程起点主题。"
 type: concept
 domain: "educational-philosophy"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - educational-philosophy
   - freire
@@ -19,9 +19,10 @@ related_concepts:
   - "[[Problem-Posing Education]]"
   - "[[Conscientization]]"
   - "[[Praxis]]"
+  - "[[Active Learning]]"
+  - "[[Epistemology]]"
   - "[[Culture of Silence]]"
   - "[[Critical Pedagogy]]"
-  - "[[Active Learning]]"
   - "[[Decodification]]"
 related_theories: []
 related_methods: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -87,10 +88,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　生成性主题是实现主动学习与批判意识觉醒的必要认识论起点
-
-> [!concept-lens] 批判性课程构建维度
-> 探讨如何通过将课程建立在学习者的切身生成性主题之上，打破[[Culture of Silence\|沉默文化]]并促成批判觉察。
+> [!concept-proposition] 命题一｜生成性主题是实现[[Active Learning|主动学习]]与[[Conscientization|批判意识觉醒]]的必要[[Epistemology|认识论]]起点
+> **探讨维度　批判性课程构建维度** 探讨如何通过将课程建立在学习者的切身生成性主题之上，打破[[Culture of Silence\|沉默文化]]并促成批判觉察。
 
 > [!claim] [[Paulo Freire\|Freire, P.]]
 > **生成性主题的解放力量** 弗莱雷论证指出，唯有当课程内容来自于学习者自身的生成性主题时，学习者才能理解自身生活的辩证性，将切身苦难转化为理智探究对象，进而通过实践改变压迫现实。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 109; Darwish, 2009, p. 47)]]

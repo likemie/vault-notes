@@ -10,7 +10,7 @@ aliases:
 summary: "起源于日本丰田汽车公司、由沃马克（Womack）等人在《改变世界的机器》中系统总结的现代化制造与管理组织范式；核心主张通过准时制库存控制（Just-in-Time, JIT）、看板管理、全面质量管理（TQM）、全员参与持续改进（Kaizen）与多技能轮岗，彻底消除生产流程中的一切过量库存与资源浪费；克里斯·弗里曼（Chris Freeman）将其列为微电子时代技术-经济范式转型中最重要的组织管理创新，论证后发国家吸收现代通用技术必须伴随精益生产等车间微观组织重组。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Total Quality Management]]"
   - "[[Paradigm]]"
   - "[[Homework]]"
+  - "[[General Purpose Technology]]"
   - "[[Intellectual Capital]]"
   - "[[Peer Pressure]]"
   - "[[Geopolitics]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -96,10 +97,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　新通用技术范式的充分吸收必须依托以精益生产为代表的组织管理变革
-
-> [!concept-lens] 技术创新与组织创新的互依性
-> 探讨硬件技术革新（微电子与自动化装备）与微观生产车间管理制度之间密不可分的共生机制。
+> [!concept-proposition] 命题一｜新[[General Purpose Technology|通用技术]][[Paradigm|范式]]的充分吸收必须依托以精益生产为代表的组织管理变革
+> **探讨维度　技术创新与组织创新的互依性** 探讨硬件技术革新（微电子与自动化装备）与微观生产车间管理制度之间密不可分的共生机制。
 
 > [!claim] [[Chris Freeman|Freeman, C.]]
 > **组织创新与技术创新的互依性** 仅仅将微处理器与自动化设备引进到车间并不能自动转化为竞争优势；技术[[Paradigm|范式]]的成功扩散必须伴随着以精益生产体系、多技能轮岗、准时制与持续学习为代表的管理组织重组。后发国家（如 1980 年代韩国抓住日元升值契机吸收精益制造）若能成功实现这一组织跃迁，方能在国际市场上实现工艺质量与成本的赶超。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13, 18)]]

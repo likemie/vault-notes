@@ -6,7 +6,7 @@ aliases:
 summary: "跨越单一国家教育体系、服务跨国流动家庭或本地国际课程需求的学校类型，其历史从侨民国家通道逐步发展出共同课程、跨国资格协调与市场化运营。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -21,9 +21,11 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[State Educational Sovereignty]]"
   - "[[Policy Borrowing]]"
+  - "[[Document]]"
   - "[[Advanced Placement Program]]"
   - "[[Fourth Culture]]"
   - "[[Policy Mobility]]"
+  - "[[Teacher Collaboration]]"
   - "[[Avatar]]"
 related_theories: []
 related_methods: []
@@ -39,8 +41,8 @@ related_facts:
   - "[[Science Technology and Social Change Curriculum Pilot]]"
   - "[[GEMS Education]]"
   - "[[Nord Anglia Education]]"
-  - "[[UNESCO]]"
   - "[[English Schools Foundation Hong Kong]]"
+  - "[[UNESCO]]"
   - "[[Transformation of Singapore International School into United World College of South East Asia]]"
   - "[[United World Colleges Associated Schools Policy 1977]]"
   - "[[Waterford Kamhlaba Admission to United World Colleges]]"
@@ -52,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-17'
-updated: 2026-10-20
+updated: 2026-10-29
 ---
 
 ---
@@ -105,42 +107,32 @@ updated: 2026-10-20
 
 ## 围绕概念形成的命题
 
-### 命题一　跨国升学需求推动国际学校建设共同资格
-
-> [!concept-lens] 学校共同体与国家升学通道
-> 多套国家课程能提供升学出口，也会在同一所学校重复配置教学，并按目标国家分隔学生。
+> [!concept-proposition] 命题一｜跨国升学需求推动国际学校建设共同资格
+> **探讨维度　学校共同体与国家升学通道** 多套国家课程能提供升学出口，也会在同一所学校重复配置教学，并按目标国家分隔学生。
 
 > [!claim] [[Alec Peterson|Peterson, A. D. C.]]
 > **共同资格回应教学与共同生活的双重问题** 战后大学竞争加剧，使学生必须按目标国家的考试准备。日内瓦学校因此要在相同学科内安排不同国家轨道，既重复消耗师资，也让原本共同学习的学生重新按国家背景分组，较小国籍群体尤其难得到相应支持。跨国大学承认的共同课程可缓解这两类问题，但需要教师合作、专门考试组织与大学承认，单一学校难以独立完成。[[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–22, 27–31)]]
 
-### 命题二　跨国生源与国际课程不能自动保证学校联系地方社会
-
-> [!concept-lens] 国际共同体与地方社会
-> 课程的跨国资格作用与学生对周围社会的理解并不相同，学校需要实际的接触与知识应用安排。
+> [!concept-proposition] 命题二｜跨国生源与国际课程不能自动保证学校联系地方社会
+> **探讨维度　国际共同体与地方社会** 课程的跨国资格作用与学生对周围社会的理解并不相同，学校需要实际的接触与知识应用安排。
 
 > [!claim] Peterson, A. D. C.
 > **学术课程可把地方接触纳入[[International Education|国际教育]]** 作者担心发展中国家的国际学校成为较富裕、与村落和贫困城市地区隔离的群体。社会服务旨在跨越这条边界，而营养科学以当地饮食调查把地方接触直接纳入学术文凭，并要求学生综合不同学科知识处理营养问题。这一设计为学术学习与社会理解提供联系途径；它说明课程改革的理由，不构成所有国际学校必然隔离、或这一课程已改善地方贫困的证据。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207)]]
 
-### 命题三　成员多样化需要同时处理组织承诺与学生进入方式
-
-> [!concept-lens] 成员身份、私立结构与社会开放
-> 既有国际学校进入跨国教育运动可以节省创校资源，却仍需判断其学生资助及共同使命如何落实。
+> [!concept-proposition] 命题三｜成员多样化需要同时处理组织承诺与学生进入方式
+> **探讨维度　成员身份、私立结构与社会开放** 既有国际学校进入跨国教育运动可以节省创校资源，却仍需判断其学生资助及共同使命如何落实。
 
 > [!claim] Peterson, A. D. C.
 > **吸收学校不等于复制经典寄宿书院的社会结构** [[United World Colleges|UWC]] 吸收新加坡与沃特福德等既有学校，可避免完全重建书院的资本与经常成本。作者承认不同年龄、不同入学路径的学生都可能形成和平、公正与合作的承诺，但缴费生为主的国际学校中，UWC 奖学金生仍只占一部分，学校在当时记述中仍属私立部门。因此，多样化还需要增加主动选择这种教育的奖学金学生，不能仅以整所学校取得成员身份替代社会开放。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209–213)]]
 
-### 命题四　课程创新的传播取决于教师能力与资格制度的共同支持
-
-> [!concept-lens] 教育价值与学校采用
-> 课程受到认同后，教师能否授课、学生能否选课仍可能阻止采用。
+> [!concept-proposition] 命题四｜课程创新的传播取决于教师能力与资格制度的共同支持
+> **探讨维度　教育价值与学校采用** 课程受到认同后，教师能否授课、学生能否选课仍可能阻止采用。
 
 > [!claim] Peterson, A. D. C.
 > **交流与试验氛围不足以替代实施能力** 营养科学引起其他远东学校兴趣，却没有被它们采用，作者判断主要原因是没有合格教师，小额推广经费也不足以承担在职培训和后续会议。课程若仅列在第六科，还可能被大学要求的额外科学或语言占据选课位置。后续[[Science Technology and Social Change Curriculum Pilot|科学、技术与社会变迁]]试点增加了跨校开发和培训支持，说明课程设计、教师能力与资格安排应同时推进；作者并未证明所有推广失败都出自相同原因。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
 
-### 命题五　跨国教育服务财团的扩张催生全球精英再生产并重塑政策咨询中介网络
-
-> [!concept-lens] 跨国教育集团、全球精英与[[Policy Brokerage|政策中介]]网络
-> 探讨跨国营利性教育公司如何打破早期非营利国际学校形态，通过连锁扩张与政府顾问双重身份主导全球政策转移与阶级再生产。
+> [!concept-proposition] 命题五｜跨国教育服务财团的扩张催生全球精英再生产并重塑政策咨询中介网络
+> **探讨维度　跨国教育集团、全球精英与[[Policy Brokerage|政策中介]]网络** 探讨跨国营利性教育公司如何打破早期非营利国际学校形态，通过连锁扩张与政府顾问双重身份主导全球政策转移与阶级再生产。
 
 > [!claim] Beech & Lauder
 > **跨国连锁集团崛起与全球精英阶层生产** [[Jason Beech|杰森·比奇]]（Jason Beech, 2009b, pp. 343–344）与休·劳德（Hugh Lauder, 2007）指出，21 世纪初国际学校的演进已从早期的外交侨民子弟学校与非营利理想主义试验（如[[International School of Geneva|日内瓦国际学校]]与联合世界书院），全面转向由大型跨国营利性教育管理财团（如[[GEMS Education|环球教育管理系统]] GEMS、[[Nord Anglia Education|诺德安达教育集团]] Nord Anglia 等）主导的全球连锁网络。这类企业不仅在阿联酋、英国、印度、卡塔尔、德国、约旦等多国设立数十所私立高端国际学校，直接服务于跨国资本与本地富裕阶层，加速催生并再生产出具备跨国流动资本的“全球精英阶层”（Global Elite）；更为重要的是，这些公司自诩为“教育变革的催化剂”，组建专业咨询顾问团队直接向多国国家与地方政府提供宏观政策咨询。国际学校因而不再仅仅是闭合的教学机构，而是转变为跨国商业资本纵向穿透民族[[State Educational Sovereignty|国家教育主权]]、深度参与全球教育[[Policy Borrowing|政策借用]]与流动的关键空间节点。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
@@ -151,7 +143,7 @@ updated: 2026-10-20
 > *Global Education Management Systems (GEMS) which, according to its web page, operates more than 65 schools in seven countries (United Arab Emirates, United Kingdom, India, Qatar, Germany, Libya and Jordan) and defines itself as 'a catalyst for education reform through schools, advisory services and the GEMS Foundation'. It has a team of consultants that advise national and regional governments and other schools on educational projects. The operation of companies such as GEMS and Nord Anglia is also interesting because through the expansion of international schools they might be facilitating the formation of a 'global elite' (Lauder, 2007) and simultaneously these companies act as advisors to national and local governments.*
 
 > [!row-contrast] 国际学校的五类制度判断
-> | 命题 | 核心关系 | 解释边界 | 代表文献 |
+> | 命题 | 核心关系 | 解释边界 | 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **共同资格回应跨国升学** | 国家考试重复配置与学校共同体目标 | 共同课程仍需跨国承认及组织能力 | [[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, pp. 15–22)]] |
 > | **国际性需要地方社会联系** | 学术课程、服务与周围社会 | 护照多样和国际课程不能替代实际接触 | [[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987, pp. 204–207)]] |
@@ -183,7 +175,7 @@ updated: 2026-10-20
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 23–25, 27)]] | 1960–2005 年生源变化 | 创始国学生比例 | 1960 年约 70%，2005 年约 30% | 生源变化不能直接证明课程国际性 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 23–25)]] | 布鲁塞尔国际学校十年间 | 美国学生与雇主付费比例 | 美国学生比例由 70% 降至 29%；雇主支付学费比例由 98% 降至 89% | 单校变化不宜视为所有地区的变化幅度 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 26)]] | 香港国际学校运营 | 年学费 | 10,000–20,000 美元 | 原文时期价格，未更新现价或购买力 |
-> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 24–25)]] | 香港英基学校协会 | 本地华人生源 | 40%–50% | 原文时期的生源描述，不代表所有国际学校 |
+> | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 24–25)]] | 香港[[English Schools Foundation Hong Kong\|英基学校协会]] | 本地华人生源 | 40%–50% | 原文时期的生源描述，不代表所有国际学校 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987, pp. 204–206)]] | 营养科学推广 | 资助与采用 | [[UNESCO\|联合国教科文组织]]资助 2,000 美元；马尼拉、雅加达、香港学校未采用，课程仍在新加坡与墨西哥城作为内部第六科 | 专家交流、采用记录与作者解释，未报告学习成效 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, p. 344)]] | 2000 年代跨国集团网络 | [[GEMS Education\|GEMS]] 运营规模 | 在 7 个国家（阿联酋、英国、印度、卡塔尔、德国、利比亚、约旦）运营 65+ 所学校 | 揭示跨国教育集团集连锁办学、咨询顾问与政策游说于一体的全新治理形态 |
 
@@ -241,7 +233,7 @@ updated: 2026-10-20
 ---
 
 > [!evidence-grid] 文献与论证索引
-> - [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–22, 27–31)]] — 国际学校的国家课程并行、教师协作与共同资格创制。
+> - [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–22, 27–31)]] — 国际学校的国家课程并行、[[Teacher Collaboration|教师协作]]与共同资格创制。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 20–33)]] — 市场化、生源变化、文[[Avatar|化身]]份及师资培养条件。
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–216)]] — 地方社会联系、创新课程实施、[[United World Colleges|UWC]] 多样化与公共支持边界。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b, pp. 343–344)]] — 跨国教育集团连锁、全球精英形成与政府政策咨询网络。

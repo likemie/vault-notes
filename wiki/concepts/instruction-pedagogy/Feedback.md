@@ -5,7 +5,7 @@ aliases:
 summary: "围绕学习表现、理解状态与改进行动的信息交互机制，包含目标、当前表现与未来路径三维度；在宏观循证综合中常被泛化并混杂行为强化、教师亲和力与测验提示，其实践效能深度依赖情境、元认知引导与主体间承认。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 60
+related_count: 61
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -30,11 +30,12 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
   - "[[Learning Strategies]]"
+  - "[[Intentionality]]"
   - "[[Technical Rationality]]"
   - "[[Paradigm]]"
-  - "[[Intentionality]]"
   - "[[Problem Solving]]"
   - "[[Construct Validity]]"
+  - "[[Document]]"
   - "[[Dialogue in Education]]"
   - "[[Scaffolding]]"
   - "[[Analytical Stance]]"
@@ -58,8 +59,8 @@ related_theories:
   - "[[Recognition Theory]]"
   - "[[Panopticism]]"
 related_methods:
-  - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Meta-analysis]]"
   - "[[Prediction Interval]]"
   - "[[Questionnaire]]"
   - "[[Meta-meta-analysis]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 > [!def] Feedback
@@ -144,30 +145,24 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　教学反馈具有高度情境依赖性与心理敏感性，平均效应量掩盖了负向抑制效应与注意转向风险
-
-> [!concept-lens] 效应分布与情境[[Heterogeneity|异质性]]
-> 剖析反馈实证研究的真实效应分布，揭示将反馈视作普遍高效干预的统计学盲点。
+> [!concept-proposition] 命题一｜教学反馈具有高度情境依赖性与心理敏感性，平均[[Effect Size|效应量]]掩盖了负向抑制效应与注意转向风险
+> **探讨维度　效应分布与情境[[Heterogeneity|异质性]]** 剖析反馈实证研究的真实效应分布，揭示将反馈视作普遍高效干预的统计学盲点。
 
 > [!claim] Kluger & DeNisi; [[Dylan Wiliam|Wiliam, D.]]
 > **38% 负效应分布与注意力层级转移机制** 克鲁格与德尼西（Kluger & DeNisi, 1996）对 131 项严格实验开展系统[[Meta-analysis|元分析]]表明，尽管反馈干预（FI）总体平均效应为正（$d = 0.38$），但其中高达 38% 的研究产生了负向抑制效应。威廉（[[Argument_Wiliam_2019_ERE|Wiliam, 2019, p. 11]]）据此指出，在超过三分之一的课堂情境中，提供不当反馈反而不如不给反馈。根据[[Feedback Intervention Theory|反馈干预理论]]（FIT），反馈有效性取决于个体的注意力分配：当反馈引导注意力聚焦于任务细节与[[Learning Strategies|学习策略]]时，促进[[Academic Achievement|学业表现]]；当反馈引发自我防卫、焦虑或人际比较时，注意力从任务转向自我，直接损害认知表现（Shute, 2008; [[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a, pp. 11–12]]）。
 
 ---
 
-### 命题二　将反馈还原为行为主义刺激—纠错回路消解了学习者意向性与主体间承认
-
-> [!concept-lens] [[Epistemology|认识论]]前设与交往异化批判
-> 从批判哲学与解释学视界反思[[Technical Rationality|技术理性]][[Paradigm|范式]]对教育关系的工具化降格。
+> [!concept-proposition] 命题二｜将反馈还原为[[Behaviorism|行为主义]]刺激—纠错回路消解了学习者[[Intentionality|意向性]]与主体间承认
+> **探讨维度　[[Epistemology|认识论]]前设与交往异化批判** 从批判哲学与解释学视界反思[[Technical Rationality|技术理性]][[Paradigm|范式]]对教育关系的工具化降格。
 
 > [!claim] [[Klaus Nielsen|Nielsen, K.]] & Klitmøller, J.; Honneth, A.
 > **技术理性控制回路对[[Intentionality|主体意向性]]的消解** 尼尔森等（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）指出，[[John Hattie|哈蒂]]对反馈的界定承袭了[[B. F. Skinner|斯金纳]]—[[Robert Glaser|格拉泽]]（Skinner-Glaser）的[[Behaviorism|行为主义]]谱系，将反馈窄化为修正偏差的外部刺激回路，服务于工程学式的输入—输出控制。这种模式将能动学习者降格为被动响应的技术[[Problem Solving|问题解决]]器，忽略了个体寻求生命意义与社会认同的意向性（intentionality）。[[Axel Honneth|霍耐特]]（Honneth, 1996）的[[Recognition Theory|承认理论]]表明，对个体自主性与意向性的社会承认是人类健全发展的心理基石；若教学评估系统将师生对话矮化为单向纠错代码，便构成了对主体承认的系统性剥夺，导致教学实践的社会异化（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a, pp. 13–15]]）。
 
 ---
 
-### 命题三　宏观二阶综合通过异质拼贴与吸纳低质研究合成了虚假的超级效应量
-
-> [!concept-lens] 元分析[[Construct Validity|构念效度]]与方法学批判
-> 审查宏观循证体系中反馈超级指标的底层数据链，揭示[[Construct|构念]]错位与二次拼贴的失真机制。
+> [!concept-proposition] 命题三｜宏观二阶综合通过异质拼贴与吸纳低质研究合成了虚假的超级效应量
+> **探讨维度　元分析[[Construct Validity|构念效度]]与方法学批判** 审查宏观循证体系中反馈超级指标的底层数据链，揭示[[Construct|构念]]错位与二次拼贴的失真机制。
 
 > [!claim] Nielsen, K. & Klitmøller, J.; Kalmendal et al.
 > **支撑反馈效应 92% 样本的构念名实不符** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_NordPsych|Nielsen & Klitmøller, 2021a]]）细读支撑哈蒂反馈超级效应（$d = 0.73$）中权重占比达 92.4%（$N = 62,761$）的五大核心元分析发现，有四项根本未测量真正的教学反馈：将课堂奖励强化（Lysakowski and Walberg, 1980）、前置教学线索（Lysakowski and Walberg, 1982）、教师身体亲和力（Witt et al., 2004）以及测验诊断辅助（Swanson and Lussier, 2001）机械混合为一体；唯一契合界定的 Kluger and DeNisi (1996) [[Effect Size|效应量]]仅为 $0.38$。卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）的独立复现审计进一步证实全库数据链高度受损，所谓“普遍高效”实为异质拼贴建构的统计假象。
@@ -175,7 +170,7 @@ updated: 2026-10-26
 ---
 
 > [!contrast-table] 教学反馈核心命题归纳
-> | 命题类型 | 核心判断 | 实践机制与情境边界 | 代表学者与文献 |
+> | 命题类型 | 核心判断 | 实践机制与情境边界 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **效应分布与心理敏感** | 反馈是双刃剑，单一均值掩盖 38% 负效应与注意转向风险 | 聚焦任务过程与策略（FT/FP/FR）见效，指向自我评价（FS）引发抑制 | Kluger and DeNisi (1996); [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]]; Shute (2008) |
 > | **主体意向与承认批判** | 行为主义回路将人异化为技术修正器，消解主体意向性 | 真正[[Dialogue in Education\|教育对话]]必须建立在平等互惠交往与主体间相互承认基础之上 | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]]; Honneth (1996) |

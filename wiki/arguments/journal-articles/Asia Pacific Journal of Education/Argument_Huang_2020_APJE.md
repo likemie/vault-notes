@@ -36,6 +36,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Champ]]"
   - "[[Avatar]]"
+  - "[[Recontextualization]]"
   - "[[Policy Mobility]]"
   - "[[Evidence-Based Policy-Making]]"
 related_theories:
@@ -63,14 +64,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-19
-updated: 2026-10-23
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Huang_2020_APJE"
 argument_key: "Argument_Huang_2020_APJE"
 argument_display_title: "The impact of the OECD on education worldwide"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -139,10 +140,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　跨国测评打破国家传统防御，同时显露内在推论自相矛盾
+> [!claim|step] 论证步骤一　跨国测评打破国家传统防御，同时显露内在推论自相矛盾
 > [[OECD]] 在教育版图的扩张伴随着与主权国家既有文化的摩擦，其打着中立旗号的[[Discourse|话语]]体系内部潜藏着理念与方法的脱节。
 
-#### 1. 法国本土传统的妥协与专业意向的群体差异
+> [!sub-claim] 1. 法国本土传统的妥协与专业意向的群体差异
 
 国际测试在进入具有悠久学术传统的国家时遭遇明显阻力。
 
@@ -157,7 +158,7 @@ issuing_organization: ""
 > - **性别维度的结构性鸿沟** 男生与女生在技术工程类职业期望上展现出深层的性别分层，跨国通用能力量表的普及未能自动抹平根植于社会文化与性别规范的偏好差异。
 > - **[[Academic Achievement|学业表现]]分位的阶梯落差** [[Academic Achievement|学业成绩]]处于高分段与低分段的学生群体，其 STEM 职业抱负增长轨迹差异显著，证明单一全国平均分或排名汇总难以支撑针对处境不利群体的精准干预。
 
-#### 2. 国际教学调查推崇的教学主张缺乏实证依据
+> [!sub-claim] 2. 国际教学调查推崇的教学主张缺乏实证依据
 
 对[[Teaching and Learning International Survey|教师教学国际调查]]（Teaching and Learning International Survey, TALIS）正式文本的细读及对五位核心官员的访谈，揭开了官方中立科学面具下的价值倾向。
 
@@ -169,10 +170,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　测评工具绕开国家政治中介，迫使基层学校脱离历史情境
+> [!claim|step] 论证步骤二　测评工具绕开国家政治中介，迫使基层学校脱离历史情境
 > 跨国机构不仅影响中央政府，更通过量化手段直接把管理触角伸向一线校长、教师乃至单所学校，重塑基层主体的认知并带来严重的去情境化风险。
 
-#### 1. 学校领导责任强化与公众舆论受控
+> [!sub-claim] 1. [[School Leadership|学校领导]]责任强化与公众舆论受控
 
 数据治理在基层行动者之间产生了不对称的规训机制。
 
@@ -186,7 +187,7 @@ issuing_organization: ""
 > - **基层学校（跨层级穿透）**
 >   [[PISA for Schools|学校版国际学生评估项目]]绕开中央与地方教育行政部门的政治调节，直接向单所学校提供定制化基准诊断，使单所学校被动深陷去脉络化的全球横向竞争。
 
-#### 2. 校际直接测评造成教育实体的去情境化
+> [!sub-claim] 2. 校际直接测评造成教育实体的去情境化
 
 最深层的认知控制体现为[[PISA for Schools|学校版国际学生评估项目]]（[[PISA]] for Schools）的推广。该项目直接向单个学校出具测评报告和跨国对照排位，削弱了主权政府的政策缓冲作用。
 
@@ -198,10 +199,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　跨国标准重组主权国家课程，并在本土博弈中引发多向变形
+> [!claim|step] 论证步骤三　跨国标准重组主权国家课程，并在本土博弈中引发多向变形
 > 国际测评的真正威慑力在于促使主权国家按照外来模板重订教学目标，并在本土政治生态与选拔文化碰撞中被赋予多重含义与多向变形。
 
-#### 1. 日本与挪威在测评震荡下重组核心课程大纲
+> [!sub-claim] 1. 日本与挪威在测评震荡下重组核心课程大纲
 
 通过日挪两国的比较研究，揭示了跨国测评如何化为国家制度重塑的合法性支点。
 
@@ -212,7 +213,7 @@ issuing_organization: ""
 > | **整合路径** | 测验能力标准直接[[Avatar\|化身]]为**国家教学内容规范**，深度重构基础教育各学科的学习指导要领与学力目标。 | 借助教育体制结构重组，将外来的国际素养基准紧密嵌入国家既有的核心课程框架与评估体系之中。 |
 > | **共同特征** | 突破了以往仅将测评结果视作外部参考的局限，一致将外部技术指标转换为国家系统内部重构课程规范与重建制度合法性的强力武器。 |  |
 
-#### 2. 韩国教育空间对旅行政策的本土重构
+> [!sub-claim] 2. 韩国教育空间对旅行政策的[[Recontextualization|本土重构]]
 
 在韩国案例中，外来政策在与本土激烈的竞争现实碰撞中经历了深刻的空间重构。
 
@@ -220,7 +221,7 @@ issuing_organization: ""
 > - **流动教育事件的认知特权** 基于[[Policy Mobility|政策流动]]理论与再领土化视角，跨国测验不仅是一套考卷，更是一种携带特定比较认识论与统计数字神话的“流动教育事件”，在进入韩国后确立了由数据裁定教育优劣的真理霸权。
 > - **本土选拔文化的复杂再塑** 这项外来输入直接遭遇了韩国极度白热化的[[Gaokao|高考]]升学竞争与考试文化；本土政治与教育行动者反向利用国际测评数据来重新规划国家课程并为国内严苛的升学考试体制背书，使原本普适的跨国话语在本土情境中演变为高度分化、多向博弈的本土变体。
 
-#### 3. 破除数字迷信以守护本土教育的多样生态
+> [!sub-claim] 3. 破除数字迷信以守护本土教育的多样生态
 
 在全球化浪潮下，亚太等转型中经济体尤其需要警惕技术官僚对数字政制的盲目遵从。
 

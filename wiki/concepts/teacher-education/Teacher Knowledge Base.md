@@ -8,7 +8,7 @@ aliases:
 summary: "教师在教育教学实践中所依托的多元复合知识体系，涵盖学科知识、学科教学知识、实践智慧、学情认知与育人伦理，强调在情境中对多源知识进行动态整合与审慎裁决"
 type: concept
 domain: "teacher-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Research Literacy]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Rich and Thick Description]]"
 related_methods:
@@ -47,7 +48,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -108,20 +109,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　教师知识库具有根本的多元异质性，科研证据必须与实践经验和学情展开平权协商
-
-> [!concept-lens] 复合[[Heterogeneity\|异质性]]与[[Knowledge Integration\|知识整合]]
-> 阐明教师知识体系的多源特征，打破将外部科学研究视作唯一权威处方的[[Technical Rationality\|技术理性]]幻想。
+> [!concept-proposition] 命题一｜教师知识库具有根本的多元[[Heterogeneity|异质性]]，科研证据必须与实践经验和学情展开平权协商
+> **探讨维度　复合[[Heterogeneity\|异质性]]与[[Knowledge Integration\|知识整合]]** 阐明教师知识体系的多源特征，打破将外部科学研究视作唯一权威处方的[[Technical Rationality\|技术理性]]幻想。
 
 > [!claim] Shulman (1987); Grimen (2008); [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]
 > **异质知识库中的非线性协商** 专业教师的日常决策从来不是单向套用外部科研处方的线性过程；因为教学情境充满了不确定性与个体差异，外部研究证据必须进入由学科知识、[[Phronesis\|实践智慧]]、微观学情构成的多元知识库中，与其他资源进行平权的相互印证、权衡取舍与动态整合，才能转化为切合特定时空条件的[[Effective Teaching\|有效教学]]行为。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, p. 8)]]
 
 ---
 
-### 命题二　育人伦理与专业规范在教师知识库中充当价值中介，决定科研成果的转化边界
-
-> [!concept-lens] 伦理调节与实践适切性
-> 揭示教育价值观与专业规范在教师调用和转化外部科研知识时的把关机制。
+> [!concept-proposition] 命题二｜育人伦理与专业规范在教师知识库中充当价值中介，决定科研成果的转化边界
+> **探讨维度　伦理调节与实践适切性** 揭示教育价值观与专业规范在教师调用和转化外部科研知识时的把关机制。
 
 > [!claim] Eriksen (2022); Hermansen and Mausethagen (2023); [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]
 > **价值信念对知识使用的中介与过滤** 教学不仅关乎教学成效，更关乎育人伦理与价值追求；在教师知识库中，专业规范与价值信念构成了调节知识转化的核心中介，当某项科研结论所推荐的高效方法可能损害学生长远身心健康或教育公平时，教师会基于育人伦理审慎调整或搁置该方案，这种取舍反映了高度成熟的专业理性而非认知缺陷。[[Argument_Mausethagen_2025_ERR\|(Mausethagen et al., 2025, p. 8)]]
@@ -140,7 +137,7 @@ updated: 2026-10-22
 > - **1986–1987 — 李·舒尔曼提出学科教学知识（PCK）与七大知识库分类** Shulman（1986, 1987）系统奠定了教师知识库理论，确立教师职业独特的专业[[Epistemology\|认识论]]地位。
 > - **2000s — 专业社会学视角下的异质知识库理论** Grimen（2008）从专业研究视角指出，专业人员的知识基础具有先天的多源[[Heterogeneity\|异质性]]，[[Knowledge Integration\|知识整合]]是解决实践难题的关键。
 > - **2022 — 循证实践、[[Phronesis\|实践智慧]]与[[Research Literacy\|研究素养]]的融合** Eriksen（2022）提出专业人员的研究素养是一种守护知识库完整性与调和价值冲突的专业德性。
-> - **2025 — 迈向第四代[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型研究使用概念化]]** [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] 将教师知识库理论作为第四代[[Research Utilization\|研究使用]][[Paradigm\|范式]]的基石，批判 30 年文献对知识整合特征的忽视。
+> - **2025 — 迈向第四代[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型研究使用概念化]]** [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] 将教师知识库理论作为第四代[[Research Utilization\|研究使用]][[Paradigm\|范式]]的基石，批判 30 年[[Document|文献]]对知识整合特征的忽视。
 
 ---
 

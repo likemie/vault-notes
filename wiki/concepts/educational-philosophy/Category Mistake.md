@@ -9,7 +9,7 @@ aliases:
 summary: "指将属于特定逻辑或本体范畴的事物错误归入另一范畴并按后者的规则处理的哲学与方法学谬误；在教育研究与循证排名中，特指将制度条件、个体特征、长周期综合方案与短周期微观变体等异质且不可通约的因素在单一有效性排行榜上强行并列与比较的范畴通约失范"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,7 +29,9 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Variable]]"
   - "[[Scale of Measurement]]"
+  - "[[Spaced Practice]]"
   - "[[Visible Learning]]"
+  - "[[Worked Examples]]"
   - "[[Epistemology]]"
   - "[[Scientific Method]]"
   - "[[Positivism]]"
@@ -60,7 +62,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-10-16
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -99,7 +101,7 @@ updated: 2026-10-22
 > - **逻辑阶次混淆（Logical Type Confusion）** 赖尔以牛津大学参观者隐喻奠定基础：参观者看遍了学院、图书馆、实验室与运动场，却继续追问“大学在哪里”；把属于整体制度组织的“大学”与属于下属构件的“建筑实体”并列，即犯了范畴错误。
 > - **对照基线的彻底不可[[Commensuration|通约]]（[[Incommensurability|incommensurable]] Baseline Conditions）** 实证研究的[[Effect Size|效应量]]永远相对于特定的对照条件（Control Condition）；个体特征以自然常模为基线，微观练习变体以另一种变体为基线，而综合改革方案以常态传统课堂为基线。基线异质导致数值无法横向通约。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 34)]]
 > - **时间跨度与非线性衰减的脱节（Time-scale and Decay Disconnect）** 实验室微观即时测验测得的瞬时高效应，在跨学期真实课堂中会因遗忘曲线与课程稀释发生急剧非线性衰减；将 1.5 小时实验室方案与整年教学方案直接并列构成严重的时间尺度错位。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
-> - **排他排序与互补组合的冲突（Exclusive Ranking vs. Complementary Synthesis）** 排行榜默认自上而下的竞争性替代逻辑（选择效应量大的，抛弃效应量小的）；但在真实教学中，[[Direct Instruction|直接教学]]与分散练习是相辅相成的教学组合构件，强行排他比较属于范畴误导。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 34)]]
+> - **排他排序与互补组合的冲突（Exclusive Ranking vs. Complementary Synthesis）** 排行榜默认自上而下的竞争性替代逻辑（选择效应量大的，抛弃效应量小的）；但在真实教学中，[[Direct Instruction|直接教学]]与[[Spaced Practice|分散练习]]是相辅相成的教学组合构件，强行排他比较属于范畴误导。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 34)]]
 
 > [!logic-map]- 要素关系与教育范畴错配机理
 > ```mermaid
@@ -116,20 +118,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　跨异质本体范畴的单一有效性排序因对照基线与时间尺度的不可通约而构成逻辑谬误
-
-> [!concept-lens] 本体[[Incommensurability|不可通约性]]与排行榜批判
-> 探讨教育影响因素如何分属不同存在阶次，以及为何在单一有效性标尺上对不同范畴因素排定座次会彻底瓦解实践决策的合理性。
+> [!concept-proposition] 命题一｜跨异质本体范畴的单一有效性排序因对照基线与时间尺度的不可[[Commensuration|通约]]而构成逻辑谬误
+> **探讨维度　本体[[Incommensurability|不可通约性]]与排行榜批判** 探讨教育影响因素如何分属不同存在阶次，以及为何在单一有效性标尺上对不同范畴因素排定座次会彻底瓦解实践决策的合理性。
 
 > [!claim] [[Christof Wecker|Wecker, C.]], et al.
-> **德甲联赛隐喻与四大不可[[Commensuration|通约]]本体范畴** [[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》中构建的 138 个影响因素排行榜，犯了根本性的范畴错误。这 138 个因素跨越了四类基线完全不同的本体范畴：制度框架条件（如分流体制，属于宏观外部约束）、个体心理特征（如先验知识，对照基线为自然发育常模）、综合教学方案（如[[Direct Instruction|直接教学]]，持续一整学年，对照基线为常规传统讲授）、微观设计变体（如分布式练习或样例学习，持续 1.5 小时受控实验，对照基线为集中练习）。把这四类因素放在同一张像德甲联赛积分榜一样的排名表中，暗含了教师在实践中必须在直接教学与分布式练习之间做出非此即彼的单选；然而真实的专业教学决策恰恰在于如何寻找二者的最佳动态组合。此外，瞬时实验测得的微观[[Effect Size|效应量]]在长达数月的真实教学中必然剧烈衰减，机械地将其与整年宏观方案同台对标，在方法学与[[Ontology|本体论]]上均不具备合法性。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
+> **德甲联赛隐喻与四大不可[[Commensuration|通约]]本体范畴** [[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》中构建的 138 个影响因素排行榜，犯了根本性的范畴错误。这 138 个因素跨越了四类基线完全不同的本体范畴：制度框架条件（如分流体制，属于宏观外部约束）、个体心理特征（如先验知识，对照基线为自然发育常模）、综合教学方案（如[[Direct Instruction|直接教学]]，持续一整学年，对照基线为常规传统讲授）、微观设计变体（如分布式练习或[[Worked Examples|样例学习]]，持续 1.5 小时受控实验，对照基线为集中练习）。把这四类因素放在同一张像德甲联赛积分榜一样的排名表中，暗含了教师在实践中必须在直接教学与分布式练习之间做出非此即彼的单选；然而真实的专业教学决策恰恰在于如何寻找二者的最佳动态组合。此外，瞬时实验测得的微观[[Effect Size|效应量]]在长达数月的真实教学中必然剧烈衰减，机械地将其与整年宏观方案同台对标，在方法学与[[Ontology|本体论]]上均不具备合法性。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
 
 ---
 
-### 命题二　将整体系统关系误认为并列实体构件是诱发心智主义与量化还原论的共同根源
-
-> [!concept-lens] 哲学源起与系统整体论视角
-> 追溯赖尔对[[René Descartes|笛卡尔]]心物二元论的经典解构，剖析日常语言哲学如何揭示机械还原论背后的范畴误置。
+> [!concept-proposition] 命题二｜将整体系统关系误认为并列实体构件是诱发心智主义与量化还原论的共同根源
+> **探讨维度　哲学源起与系统整体论视角** 追溯赖尔对[[René Descartes|笛卡尔]]心物二元论的经典解构，剖析日常语言哲学如何揭示机械还原论背后的范畴误置。
 
 > [!claim] [[Gilbert Ryle|Ryle, G.]]
 > **机器中的幽灵与牛津大学隐喻** 赖尔（1949）指出，笛卡尔主义将“心灵”视作独立于“肉体”的另一种非物理实体（机器中的幽灵，Ghost in the Machine），正是典型的范畴错误。正如一位外国游客来到牛津大学，参观了贝利奥尔学院、博德利图书馆、谢尔登剧院与科学实验室后，依然问道“请问大学在哪里”，误以为“大学”是与上述建筑物同处一个层级的另一个物理实体；事实上，“大学”是所有这些学院与设施被组织与运转起来的制度化整体架构。在社会与教育科学中，将属于系统运行整体属性或组织关系的构件，降格为同层级离散实体要素并加以孤立量化，必然导致严重的理论虚妄与解释失焦。（Ryle, 1949, pp. 16–18）

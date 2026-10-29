@@ -5,7 +5,7 @@ aliases:
 summary: "Diane Stone (2020) 与 Steiner-Khamsi et al. 倡导的方法论立场，主张超越方法论民族主义与线性层级霸权观，将国家与全球视作相互依存的关系性空间，聚焦全球/国家联结。"
 type: concept
 domain: "comparative-education"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[Discourse]]"
   - "[[Variable]]"
+  - "[[Document]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
@@ -53,7 +54,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -111,30 +112,24 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　全球力量并非绝对外在而是国内行动者策略性动员的产物
-
-> [!concept-lens] 外部性的内在建构
-> 探讨本土行动者如何在面临制度困境时将跨国组织建构为“外在政治力量”以实现合法化突破。
+> [!concept-proposition] 命题一｜全球力量并非绝对外在而是国内行动者策略性动员的产物
+> **探讨维度　外部性的内在建构** 探讨本土行动者如何在面临制度困境时将跨国组织建构为“外在政治力量”以实现合法化突破。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]
 > **外部参考点的工具性动员** 全球行动者并非独立于国家决策之外的纯粹外力；在长期陷入胶着或面临激烈国内争议的特定政策时刻，主权国家的政策行动者往往习惯于工具性地动员国际组织与跨国基准，将其塑造成具有客观权威的“外部裁判”，借此突破国内既得利益的博弈僵局，实现其既定改革路线的政治合法化。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 540)]]
 
 ---
 
-### 命题二　对政府实体的尺度与职能解构是把握跨国治理真实图景的前提
-
-> [!concept-lens] 国家行动者的多元拆解
-> 分析传统政策研究将国家均质化造成的认知盲区，主张在细分治理层级中辨析[[Policy Mobility\|政策流动]]的断裂与重组。
+> [!concept-proposition] 命题二｜对政府实体的尺度与职能解构是把握跨国治理真实图景的前提
+> **探讨维度　国家行动者的多元拆解** 分析传统政策研究将国家均质化造成的认知盲区，主张在细分治理层级中辨析[[Policy Mobility\|政策流动]]的断裂与重组。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]
 > **[[Pluri-Scalar Governance|多尺度治理]]实体的分离与冲突** 将国家政府视为均质统一体的假设遮蔽了不同部门对跨国政策的异质反应；必须将政府拆解为咨询、行政与立法等不同职能主体。实证研究表明，政府委任的专家咨询委员会所采纳的跨国知识，往往在进入行政部门起草法定法令阶段遭到大规模过滤或选择性遗弃，这种政策周期的断裂只有在解构国家主体的视角下才能被准确捕捉。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 540, 546–547)]]
 
 ---
 
-### 命题三　转移空间中的政策流动呈现非线性的选择性过滤与组织利基重构
-
-> [!concept-lens] [[Transfer Space\|转移空间]]与非线性转译
-> 探讨[[Policy Borrowing\|政策借用]]在转移空间中如何摆脱机械扩散假定，表现为中介工具打包与行政过滤的双重重构。
+> [!concept-proposition] 命题三｜[[Transfer Space|转移空间]]中的政策流动呈现非线性的选择性过滤与组织利基重构
+> **探讨维度　[[Transfer Space\|转移空间]]与非线性转译** 探讨[[Policy Borrowing\|政策借用]]在转移空间中如何摆脱机械扩散假定，表现为中介工具打包与行政过滤的双重重构。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]]
 > **转移空间中的非对称转译与组织利基竞争** 政策借用不是跨越国界的机械平移，也不是全球霸权下均质同质化的被动吸纳，而是在“转移空间”（Transfer Space）中发生的复杂转译。在转移空间内部，国际组织依据自身的组织利基提供差异化打包的政策证据（如[[OECD\|经合组织]]横向国别经验借鉴 vs [[World Bank\|世界银行]]自指性实践仓库）；而输入国的主权行政体系则根据本土政治考量与合法性需求实施激进的阶段性过滤。这一发现颠覆了将全球/国家关系预设为等级制、线性与单向霸权的传统偏见。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 540, 546–548)]]
@@ -187,7 +182,7 @@ updated: 2026-10-26
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | 挪威能力课程改革（5 个专家委员会 vs 部长令）；全球 30 个涉教育国际组织 | 跨国政策咨询文献引用网络追踪；国际组织职能分类数据库 | 政策咨询采纳率；经济协调类国际组织在教育中的占比 | 专家委员会共列入 464 篇文献，最终颁布的行政法令仅引用 22 篇（其中 20 篇来自[[OECD\|经合组织]]审查组）；涉教育国际组织中 33.3% 属于经济协调类组织 | — | 实证支持解构国家治理实体的必要性，揭示主权国家在行政出台阶段对跨国中介知识的剧烈自主过滤 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | 挪威能力课程改革（5 个专家委员会 vs 部长令）；全球 30 个涉教育国际组织 | 跨国政策咨询[[Document\|文献]]引用网络追踪；国际组织职能分类数据库 | 政策咨询采纳率；经济协调类国际组织在教育中的占比 | 专家委员会共列入 464 篇文献，最终颁布的行政法令仅引用 22 篇（其中 20 篇来自[[OECD\|经合组织]]审查组）；涉教育国际组织中 33.3% 属于经济协调类组织 | — | 实证支持解构国家治理实体的必要性，揭示主权国家在行政出台阶段对跨国中介知识的剧烈自主过滤 |
 
 ---
 

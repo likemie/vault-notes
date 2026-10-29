@@ -11,7 +11,7 @@ aliases:
 summary: "知识建构理论与学习科学中的核心协作模式：学生打破固定分组与预设脚本，根据涌现的兴趣、认知需求与探究线索自发组队与流动重组，以通透边界促进全班知识共享与深度建构"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 24
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,9 +33,11 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Homework]]"
   - "[[Academic Achievement]]"
+  - "[[Collaborative Learning]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Open-Mindedness]]"
   - "[[Reflective Structuration]]"
+  - "[[Student Motivation]]"
   - "[[Scientific Explanation]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
@@ -55,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -114,10 +116,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　弹性协作通过通透边界与自组织流动打破传统小组的信息孤岛
-
-> [!concept-lens] 社会组织架构维度
-> 本命题阐明弹性协作如何重构课堂社会互动结构，消除传统固定分组导致的小组壁垒与知识隔绝。
+> [!concept-proposition] 命题一｜弹性协作通过通透边界与自组织流动打破传统小组的信息孤岛
+> **探讨维度　社会组织架构维度** 本命题阐明弹性协作如何重构课堂社会互动结构，消除传统固定分组导致的小组壁垒与知识隔绝。
 
 > [!claim] [[Jianwei Zhang|Zhang, J.]] et al.
 > **通透边界与去孤岛化** 张建伟等通过 3 年[[Design-Based Research|设计实验]]实证表明，固定分组模式不可避免地导致小组间形成认知护城河；而弹性协作赋予学生自由组队的权能，促使学生在不同问题领域间高频穿梭，将分散的小组智慧交织成全班互通的知识网络。[[Argument_Zhang_2022_SE\|(Zhang et al., 2022, pp. 892–893)]]; (Zhang et al., 2007, 2009)
@@ -127,10 +127,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　弹性协作显著提升学生的集体认知责任与深度概念建构水平
-
-> [!concept-lens] 认知与[[Knowledge Building Theory|知识建构]]维度
-> 本命题探讨组织形式的灵活性如何转化为深层科学理解与高阶认识责任。
+> [!concept-proposition] 命题二｜弹性协作显著提升学生的[[Epistemic Responsibility|集体认知责任]]与深度概念建构水平
+> **探讨维度　认知与[[Knowledge Building Theory|知识建构]]维度** 本命题探讨组织形式的灵活性如何转化为深层科学理解与高阶认识责任。
 
 > [!claim] [[Marlene Scardamalia|Scardamalia, M.]] & [[Carl Bereiter|Bereiter, C.]]
 > **集体责任与观点持续改进** 斯卡达玛利亚与贝赖特论证，当学生拥有重构协作团队的自由时，他们不再将完成小组[[Homework|作业]]当成应付差事，而是对全班共同体知识库的整体质量产生强烈的集体所有权与[[Epistemic Responsibility|认知责任]]感。(Scardamalia & Bereiter, 2014)
@@ -140,10 +138,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题三　跨组流动创造的意外相遇是驱动集体知识创生的关键动力
-
-> [!concept-lens] 知识涌现与创新动力维度
-> 本命题揭示跨界思想碰撞如何成为科学概念跃升与跨学科整合的催化剂。
+> [!concept-proposition] 命题三｜跨组流动创造的意外相遇是驱动集体知识创生的关键动力
+> **探讨维度　知识涌现与创新动力维度** 本命题揭示跨界思想碰撞如何成为科学概念跃升与跨学科整合的催化剂。
 
 > [!claim] Zhang, J. et al.
 > **意外相遇的创生效能** 张建伟等在五年级人体系统探究中证实，眼睛小组与基因小组、神经反射小组之间的偶然交流（意外相遇，Serendipity of Encounters），直接催生了对虹膜遗传、疲劳反射等跨系统机制的突破性理解，使 81.25% 的总结达到完全科学水平。[[Argument_Zhang_2022_SE\|(Zhang et al., 2022, pp. 916–917)]]
@@ -156,7 +152,7 @@ updated: 2026-10-22
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **命题一：社会组织维度** | 弹性协作打破固定分组壁垒与知识孤岛 | 课堂协作学习组织模式重构 | Zhang et al. (2007, 2009); Sawyer (2007) |
+> | **命题一：社会组织维度** | 弹性协作打破固定分组壁垒与知识孤岛 | 课堂[[Collaborative Learning\|协作学习]]组织模式重构 | Zhang et al. (2007, 2009); Sawyer (2007) |
 > | **命题二：认知深化维度** | 弹性协作促进集体认知责任与深层机制解释 | 科学探究与[[Higher-Order Thinking Skills\|高阶思维]]培养 | Scardamalia and Bereiter (2014); Siqin et al. (2015) |
 > | **命题三：知识创生维度** | 跨组意外相遇催生跨领域概念整合与理论突破 | [[Open-Mindedness\|开放性]]复杂探究与跨学科学习 | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]]; Gloor (2006) |
 
@@ -177,7 +173,7 @@ updated: 2026-10-22
 > > 传统教学论者常担忧取消固定分组会导致小学生认知超载、产生搭便车行为或课堂秩序混乱。
 > >
 > > - **结构化控制派（Kirschner & Erkens, 2013; Fischer et al., 2013）** 主张严格的脚本化协作与固定分工是保证协作学习效率与降低认知负荷的前提。
-> > - **自组织[[Knowledge Building Theory|知识建构]]派（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]; Scardamalia, 2002）** 论证只要辅以公共认知制品（意向领域海报、总结墙）与[[Reflective Structuration|反思性结构化]]支架，弹性协作不仅不会失控，反而能充分激发小学生的自我调控能力与内在学习动机。
+> > - **自组织[[Knowledge Building Theory|知识建构]]派（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]; Scardamalia, 2002）** 论证只要辅以公共认知制品（意向领域海报、总结墙）与[[Reflective Structuration|反思性结构化]]支架，弹性协作不仅不会失控，反而能充分激发小学生的自我调控能力与内在[[Student Motivation|学习动机]]。
 
 ---
 

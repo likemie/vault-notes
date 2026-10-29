@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -117,20 +117,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　生成式人工智能的不完备输出能够转化为激活认识论警觉与深层审验的认知契机
-
-> [!concept-lens] 错误与缺陷的促学价值维度
-> 探讨为何生成式 AI 的生成瑕疵在教学中不仅不是障碍，反而是锻炼学生[[Critical Thinking|批判性思维]]与科学探究能力的核心驱动力。
+> [!concept-proposition] 命题一｜[[Generative Artificial Intelligence|生成式人工智能]]的不完备输出能够转化为激活[[Epistemological Vigilance|认识论警觉]]与深层审验的认知契机
+> **探讨维度　错误与缺陷的促学价值维度** 探讨为何生成式 AI 的生成瑕疵在教学中不仅不是障碍，反而是锻炼学生[[Critical Thinking|批判性思维]]与科学探究能力的核心驱动力。
 
 > [!claim] Han & Gutierez; Zhao et al.; Li et al.
 > **缺陷作为[[Epistemology|认识论]]挑衅与反思契机** 当大模型生成不完整、过度概括或存在机制跳跃的回答时，它扮演了“认识论挑衅者”的角色。这种不完备性打破了学生的认知平衡，迫使他们从单纯的阅读者转变为审判者，主动查阅权威一手教材、重构提示词并补充微观因果机制。[[Meta-analysis|元分析]]与实证综述均表明，面对会犯错的 AI，学生更能建立起健康的怀疑立场，将找茬核验转化为深层批判性思维的训练场。[[Argument_Han_Gutierez_2026_IJSE|(Han & Gutierez, 2026, pp. 6–7, 22–24)]]; [[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 10–13)]]; [[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 6–7)]]
 
 ---
 
-### 命题二　认识论挑衅者角色的实现依赖显性支架与课堂反思规范的协同约束
-
-> [!concept-lens] 教学干预与主体性保障维度
-> 阐明为何没有[[Scaffolding|教学支架]]的自由交互无法自发产生挑衅促学效应，确立显性规范对防止[[Cognitive Offloading|认知卸载]]的决定性作用。
+> [!concept-proposition] 命题二｜认识论挑衅者角色的实现依赖显性支架与课堂反思规范的协同约束
+> **探讨维度　教学干预与主体性保障维度** 阐明为何没有[[Scaffolding|教学支架]]的自由交互无法自发产生挑衅促学效应，确立显性规范对防止[[Cognitive Offloading|认知卸载]]的决定性作用。
 
 > [!claim] Han & Gutierez; Barzilai et al.
 > **双轨支架与协作规范的约束必要性** 算法本身并不具备教学意图；只有在教师预设的“学科评价标准”与“[[Reflexivity|反思性]]提问语”双轨支架下，并且在“同伴联合审议、不盲从输出、多轮迭代修改”的课堂协作规范约束下，AI 生成内容的局限性才能被准确识别并转化为认知挑衅。缺乏支架时，大模型的表层顺畅性只会诱导学生放弃思考，导致严重的认知卸载。[[Argument_Han_Gutierez_2026_IJSE|(Han & Gutierez, 2026, pp. 4–6, 22–24)]]

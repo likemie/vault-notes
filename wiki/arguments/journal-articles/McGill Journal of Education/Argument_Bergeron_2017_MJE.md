@@ -27,6 +27,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Epistemology]]"
   - "[[Falsification]]"
+  - "[[Document]]"
   - "[[Creativity]]"
   - "[[Variable]]"
   - "[[Study Population and Sample]]"
@@ -35,6 +36,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Incommensurability]]"
   - "[[Zone of Desired Effects]]"
+  - "[[Self-reported Grades]]"
   - "[[Creativity Training]]"
   - "[[Critical Thinking]]"
   - "[[Blind Spot in Observation]]"
@@ -47,6 +49,7 @@ related_methods:
   - "[[Inappropriate Baseline Comparisons]]"
   - "[[Common Language Effect Size]]"
   - "[[Random Assignment]]"
+  - "[[Experimental Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Correlational Research]]"
   - "[[Pearson Product-Moment Correlation]]"
@@ -61,16 +64,16 @@ sources:
 part_of: ""
 status: completed
 created: 2026-05-03
-updated: 2026-10-23
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Bergeron_2017_MJE"
 argument_key: "Argument_Bergeron_2017_MJE"
 argument_display_title: "How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 32
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: McGill Journal of Education
 ---
@@ -113,7 +116,7 @@ journal: McGill Journal of Education
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **分析对象** | [[John Hattie\|约翰·哈蒂]] 2008 年专著《[[Visible Learning\|可见的学习]]》及其后续更新文献中涉及的统计合成方法、附录换算表与核心排序。 |
-> | **关联文献** | 包含 Allison et al. (2016) 关于科学错误的《自然》评论、Topphol (2012) 挪威方法学批评、Legewie and DiPrete (2012) 性别成就实证及 Kim (2005) [[Creativity\|创造力]][[Meta-analysis\|元分析]]等。 |
+> | **关联[[Document\|文献]]** | 包含 Allison et al. (2016) 关于科学错误的《自然》评论、Topphol (2012) 挪威方法学批评、Legewie and DiPrete (2012) 性别成就实证及 Kim (2005) [[Creativity\|创造力]][[Meta-analysis\|元分析]]等。 |
 > | **文本情境** | 《麦吉尔教育学刊》（McGill Journal of Education, MJE）论坛发表，因学术反响强烈由法文原版翻译为英文版发表。 |
 
 ---
@@ -145,7 +148,7 @@ journal: McGill Journal of Education
 > [!claim|lead] 步骤一核心主张
 > [[John Hattie|哈蒂]]的方法论仅停留在平均值与未真正利用的标准差计算层面；其[[Meta-meta-analysis|二阶元分析]]包含初等计算错误，在普通语言[[Effect Size|效应量]]中算出了负概率与超过 100% 的荒谬数值。
 
-#### 1. 负概率与超额概率暴露基础数理失范
+> [!sub-claim] 1. 负概率与超额概率暴露基础数理失范
 
 任何接受过基础统计训练的研究者均应知晓概率的严格数学边界，而哈蒂的二阶合成结果却汇报了负概率。
 
@@ -162,7 +165,7 @@ journal: McGill Journal of Education
 > - **事后尸检隐喻** 援引统计学家罗纳德·费希尔（Ronald Fisher）的经典论断：在实验结束后才去咨询统计学家，往往只是请他来做一场尸检，至多只能诊断出实验究竟死于什么原因。
 > - **全流程缺失后果** 在研究方案设计、数据清洗与分析阶段缺乏经验丰富的专业统计学家介入，导致基础运算失误演变为教育决策依据。
 
-#### 2. 组间与组内公式混用破坏测度可比性
+> [!sub-claim] 2. 组间与组内公式混用破坏测度可比性
 
 二阶[[Meta-analysis|元分析]]并置了两套数学逻辑完全不同的效应量公式，误认为二者因缺乏量纲即可直接对比。
 
@@ -185,7 +188,7 @@ journal: McGill Journal of Education
 > [!claim|lead] 步骤二核心主张
 > 每一个效应量都是相对于特定基线总体的相对测量，哈蒂对基线选择的任意性毫无察觉，使得效应量的正负符号与优劣定性完全受制于主观设定的比对方向。
 
-#### 1. 比较基线反转彻底颠覆干预优劣定性
+> [!sub-claim] 1. 比较基线反转彻底颠覆干预优劣定性
 
 面对实证数据集，统计推断必须依循核心问题、测量[[Variable|变量]]、[[Study Population and Sample|目标总体]]、抽样方式以及分配机制进行情境化界定。
 
@@ -201,7 +204,7 @@ journal: McGill Journal of Education
 > | **[[Class Size\|班级规模]]** | **小班比大班** $d \approx +0.20$<br>因低于 0.40 门槛，被武断判定为影响微弱、缺乏干预价值。 | **大班比小班** $d = -0.20$<br>依哈蒂负效应即有害的标准，结论转变为大班教学具有显著损害性。 |
 > | **[[Socioeconomic Status\|社会经济地位]]（SES）** | **富裕比贫困** $d = +0.59$<br>被归因为学者无法改变的既定家庭背景，未能转化为政策行动焦点。 | **贫困比富裕** $d = -0.59$<br>逆转为全书负面冲击最大的要素，突显通过补偿性制度干预不平等的紧迫性。 |
 
-#### 2. 混淆影响因素与文献数量制造虚假均值
+> [!sub-claim] 2. 混淆影响因素与文献数量制造虚假均值
 
 汇总异质研究时混淆总体的做法导致计算出的平均值缺乏现实统计解释力。
 
@@ -220,11 +223,11 @@ journal: McGill Journal of Education
 > [!claim|lead] 步骤三核心主张
 > 受控数值模拟证实，跨研究设计的效应量缺乏普适通用标尺，三种在数学上完全合法的效应量计算公式对同一组数据得出了完全相反的排名，证明排行榜反映的是公式选择而非教学干预的真实效能。
 
-#### 1. 受控模拟证实干预排名取决于公式选择
+> [!sub-claim] 1. 受控模拟证实干预排名取决于公式选择
 
 在受控模拟环境中，四个独立学生组具有相同的初始成绩正态分布（$\mu=75, \sigma=5$），通过[[Random Assignment|随机分配]]实施不同教学法，组 0 为标准对照组（成绩增量为 0，$\sigma=0$），方法 1、2、3 平均分别增加 1、2、3 分，增加值的标准差分别为 1、2、3。
 
-> [!design-notation] 四组受控随机教学实验设计
+> [!design-notation] 四组受控随机教学[[Experimental Research|实验设计]]
 > 参与者随机分配至三个实验组与一个对照组，施测[[Pre-test and Post-test|前测与后测]]：
 >
 > - **对照组（方法 0）** *R₀* ==O₁== `X₀` ==O₂==
@@ -253,7 +256,7 @@ journal: McGill Journal of Education
 > [!figure]- 图 2　四组前后成绩差值分布曲线
 > ![](https://img.mylikemie.icu/sources/Bergeron_2017_MJE/figures/Bergeron_2017_MJE_Fig2_Distribution_Differences.jpg)
 
-#### 2. 相对离散度消除与一致性测量导致维度流失
+> [!sub-claim] 2. 相对离散度消除与一致性测量导致维度流失
 
 不同计算公式所依据的统计假设造成了度量维度的系统性流失。
 
@@ -272,7 +275,7 @@ journal: McGill Journal of Education
 > [!claim|lead] 步骤四核心主张
 > 相关系数向 Cohen's $d$ 的换算公式在 $r \to 1$ 时呈爆炸性发散，且微弱相关即可虚增至[[Zone of Desired Effects|期望效应区]]；将相关性研究包装为因果干预效应量的做法彻底混淆了相关与因果，使整个理论体系滑入伪科学。
 
-#### 1. 换算公式导致弱关联虚增为高效应量
+> [!sub-claim] 1. 换算公式导致弱关联虚增为高效应量
 
 依据 Borenstein et al. (2009) 记录的跨尺度度量转换模型，相关系数向 Cohen's $d$ 的换算在数学上极其敏感，对数据度量空间有着严苛的先决假设。
 
@@ -285,12 +288,12 @@ journal: McGill Journal of Education
 
 这一公式缺陷直接导致了期望效应区的虚假建构。
 
-> [!critique-method] 相关因果混淆实证案例：[[Creativity|创造力]]与自我报告成绩
+> [!critique-method] 相关因果混淆实证案例：[[Creativity|创造力]]与[[Self-reported Grades|自我报告成绩]]
 > - **弱相关跨入期望效应区** 仅仅需要 $r = 0.196$ 的微弱关联，代入公式即可产出 $d = 0.40$，从而跨入哈蒂所谓的[[Zone of Desired Effects|期望效应区]]。然而在一元线性回归模型中，$r = 0.196$ 对应的决定系数仅为 $R^2 = 0.0385$，意味着仅能解释 3.85% 的变异，剩余 96.15% 属于完全未解释的随机噪声。
 > - **创造力横向相关假象** 金（Kim, 2005）的元分析被归结为[[Creativity|创造力]]对学业成就的显著影响，实际上该研究所依据的仅是智商（Intelligence Quotient, IQ）测验与创造力测验得分之间的横向相关，从未测量[[Creativity Training|创造力干预]]带来的因果增益。
 > - **自我报告成绩榜首失范** 效应量雄居榜首的学生自我报告成绩，实质上只是一组学生预估分数与期末真实成绩之间的自相关，根本没有测量实施自我预估组与常规组之间的因果差异，却被包装为最强大的教学干预手段。
 
-#### 2. 伪科学体系呼唤全流程独立专业统计咨询
+> [!sub-claim] 2. 伪科学体系呼唤全流程独立专业统计咨询
 
 初等计算崩溃、基线任意性、公式矛盾与相关因果混淆，共同确立了二阶元分析的伪科学性质。
 

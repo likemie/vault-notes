@@ -30,6 +30,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Paradigm Wars]]"
   - "[[ASEAN Way]]"
+  - "[[Heterogeneity]]"
   - "[[Engrenage]]"
   - "[[Paradigm]]"
 related_theories:
@@ -49,6 +50,7 @@ related_facts:
   - "[[Committee of Permanent Representatives to ASEAN]]"
   - "[[ASEAN Charter]]"
   - "[[Treaty of Amity and Cooperation in Southeast Asia]]"
+  - "[[Court of Justice of the European Union]]"
   - "[[ASEAN Regional Forum]]"
   - "[[Chiang Mai Initiative]]"
   - "[[ASEAN Intergovernmental Commission on Human Rights]]"
@@ -64,7 +66,7 @@ title: "Argument_Murray_Moxon-Browne_2013_JCMS"
 argument_key: "Argument_Murray_Moxon-Browne_2013_JCMS"
 argument_display_title: "The European Union as a template for regional integration? The case of ASEAN and its Committee of Permanent Representatives"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 24
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -129,17 +131,17 @@ journal: "JCMS: Journal of Common Market Studies"
 
 ---
 
-> [!claim] 论证步骤一　欧洲一体化建立在特殊历史条件之上，不构成放之四海而皆准的普适模板
+> [!claim|step] 论证步骤一　欧洲一体化建立在特殊历史条件之上，不构成放之四海而皆准的普适模板
 > 欧洲联盟的超国家治理根植于特定历史土壤，是战后西欧国家应对主权能力衰退、地缘安全威胁以及履行普遍福利承诺的独特制度产物；将其视为放之四海而皆准的普适标杆脱离了具体历史情境。
 
-#### 1. 欧洲一体化源于民族国家功能的现实困境与战后集体安全需求
+> [!sub-claim] 1. 欧洲一体化源于民族国家功能的现实困境与战后集体安全需求
 
 > [!factors] 推动战后西欧走向超国家一体化的关键条件
 > - **民族国家救赎需求** 艾伦·米尔沃德（Alan Milward）的考察表明（Milward, 2000），西欧战后一体化并没有消灭民族国家，反而在国家面临提供无限安全与福利的期望能力鸿沟时拯救了国家；主权国家通过让渡部分权力换取了跨国稳定，从而维持了自身的存续。
 > - **密集陆界与地缘安全保护伞** 欧洲大陆极高的人口密度与密密麻麻的国家疆界，使得领土邻近性带来的摩擦必须通过功能性制度合作化解；冷战格局下北大西洋公约组织（North Atlantic Treaty Organization, NATO）提供了坚实的多边安全保护。
-> - **福利社会契约与超国家法治** 欧洲社会普遍将国家保障从摇篮到坟墓的公民福利视为社会认同的基石；欧洲法院确立了具有直接效力与优先性的超国家司法管辖权，为跨国经济整合提供了不可撼动的法治护栏。
+> - **福利社会契约与超国家法治** 欧洲社会普遍将国家保障从摇篮到坟墓的公民福利视为社会认同的基石；[[Court of Justice of the European Union|欧洲法院]]确立了具有直接效力与优先性的超国家司法管辖权，为跨国经济整合提供了不可撼动的法治护栏。
 
-#### 2. 新地区主义打破了欧盟作为区域一体化唯一标杆的神话
+> [!sub-claim] 2. 新地区主义打破了欧盟作为区域一体化唯一标杆的神话
 
 > [!tension] 区域一体化[[Paradigm Wars|范式之争]]：欧洲经验普适论 vs. 新地区主义多元论
 > - **欧洲经验普适论（蓝方）** 将新功能主义、超国家法治与主权让渡视作衡量全球所有区域项目的单一黄金标准，陷入一体化优越感（integration snobbery, Murray, 2010）。
@@ -151,10 +153,10 @@ journal: "JCMS: Journal of Common Market Studies"
 
 ---
 
-> [!claim] 论证步骤二　东盟坚守协商一致与不干预原则，形塑了截然不同的政府间合作底色
+> [!claim|step] 论证步骤二　东盟坚守协商一致与不干预原则，形塑了截然不同的政府间合作底色
 > 东盟成员国在疆域规模、政治体制与经济繁荣度上存在巨大断层，后殖民国家对国家主权的严密防御促成了以协商一致和不干预内政为核心的[[ASEAN Way|东盟方式]]，排除了建立超国家强制机构的可能。
 
-#### 1. 东南亚各国的巨大异质性与主权防御心理构筑了东盟方式
+> [!sub-claim] 1. 东南亚各国的巨大[[Heterogeneity|异质性]]与主权防御心理构筑了东盟方式
 
 > [!factors] 阻碍东盟超国家转型的四大结构性制约
 > - **领土与经济发展断层** 东盟内部既有群岛国家也有大陆国家，经济繁荣度极端两极分化；区域内贸易仅占总贸易额的 25%，远低于欧盟的 65%，经济相互依存度有限。
@@ -162,7 +164,7 @@ journal: "JCMS: Journal of Common Market Studies"
 > - **绝对主权与不干预信条** 后殖民建国历史强化了主权防御心理，不干预内政与绝对协商一致被奉为圭臬；成员国坚决拒斥超国家机构凌驾于本国主权之上。
 > - **双边轴辐安全依赖** 亚洲推行以美国为中心节点的双边同盟网络（Hemmer & Katzenstein, 2002），东盟自身无法充当集体安全保障者。
 
-#### 2. 历次条约演进强化了行为准则，但始终回避建立强硬履约机构
+> [!sub-claim] 2. 历次条约演进强化了行为准则，但始终回避建立强硬履约机构
 
 > [!dev-timeline] 东盟从安全对话论坛到宪制建构的演进历程
 > - **1967 — 创立奠基** 印尼、马来西亚、菲律宾、新加坡与泰国五国签署《曼谷宣言》，确立以对话缓解冲突的初创目标。
@@ -180,10 +182,10 @@ journal: "JCMS: Journal of Common Market Studies"
 
 ---
 
-> [!claim] 论证步骤三　常驻代表机构无法通过机械模仿跨越履约机制与协商文化的鸿沟
+> [!claim|step] 论证步骤三　常驻代表机构无法通过机械模仿跨越履约机制与协商文化的鸿沟
 > 东盟依据[[ASEAN Charter|《东盟宪章》]]第 12 条直接模仿欧盟 Coreper 设立常驻代表委员会，但二者在法律裁决权、编制规模、议事产出与协商文化上存在本质差异；单凭制度拟态难以形成布鲁塞尔历经数十年演进的[[Engrenage|齿轮啮合]]机制与深层信任。
 
-#### 1. 欧盟常驻代表委员会的成功植根于深层信任、妥协文化与齿轮啮合机制
+> [!sub-claim] 1. 欧盟常驻代表委员会的成功植根于深层信任、妥协文化与齿轮啮合机制
 
 > [!feature] 欧盟 Coreper 协商运行的核心支柱
 > - **严密的科层铺垫网络** 依托约 300 个常设技术工作组对委员会草案进行逐条审查，分流为无需部长辩论直接通过的 A 类事项与需部长谈判的 B 类事项，极大提高了理事会立法运转效能。
@@ -191,7 +193,7 @@ journal: "JCMS: Journal of Common Market Studies"
 > - **雅努斯的双重忠诚** 常驻代表犹如面向两个方向的罗马双面神雅努斯：一面维护本国政府的委托授权，另一面自觉致力于达成共同体妥协；非正式社交网络进一步巩固了这一集体文化。
 > - **庞大的专业外交后盾** 欧洲主要成员国派驻布鲁塞尔的常驻代表团拥有数十乃至数百名部委专业人员，直接参与共同决策程序中与欧洲议会的三方谈判。
 
-#### 2. 东盟常驻代表委员会面临编制匮乏、决策权虚化与非约束性限制
+> [!sub-claim] 2. 东盟常驻代表委员会面临编制匮乏、决策权虚化与非约束性限制
 
 > [!contrast-table] 欧盟 Coreper 与东盟 CPR 的制度现实对照
 > | 比较维度 | [[Coreper\|欧盟常驻代表委员会（Coreper）]] | [[Committee of Permanent Representatives to ASEAN\|东盟常驻代表委员会（CPR）]] |
@@ -201,7 +203,7 @@ journal: "JCMS: Journal of Common Market Studies"
 > | 常设编制资源 | 使团规模达数百人，秘书处专业官僚数以千计 | 各国使团通常仅十几人，东盟秘书处仅约 75 名专业人员 |
 > | 实际业务重心 | 聚焦内部超国家立法谈判与法条折冲 | 聚焦与对话伙伴的穿梭外交与多边外事协调 |
 
-#### 3. 雅加达集中办公为东盟常驻代表积累了务实合作与多边协调的新动力
+> [!sub-claim] 3. 雅加达集中办公为东盟常驻代表积累了务实合作与多边协调的新动力
 
 > [!pathways] 东盟常驻代表委员会的差异化突破路径
 > 1. **雅加达集中驻扎的孵化器效应** 成员国大使长驻雅加达且彼此紧密接触，客观上创造了脱离本国科层掣肘的交流空间，日常非正式互动促成了务实解决问题的协作习惯。
@@ -210,10 +212,10 @@ journal: "JCMS: Journal of Common Market Studies"
 
 ---
 
-> [!claim] 论证步骤四　东盟应在裁量空间内权衡抱负与能力，走出自主的渐进一体化道路
+> [!claim|step] 论证步骤四　东盟应在裁量空间内权衡抱负与能力，走出自主的渐进一体化道路
 > 区域组织在借鉴外部成熟经验时，必须审慎评估雄心壮志与自身承载力之间的平衡区间；避免因照搬脱离本土规范的超国家架构而陷入治理挫败与威信流失。
 
-#### 1. 超越不切实际的制度幻想，避免照搬外来机构引发挫败感
+> [!sub-claim] 1. 超越不切实际的制度幻想，避免照搬外来机构引发挫败感
 
 > [!def] 裁量空间（Zone of Discretion）
 > 区域组织在确立远大一体化抱负与采纳契合自身现实承载力的组织架构之间保持的平衡区间；用于评估制度拟态的有效边界，防止因超前移植超国家机构而陷入治理挫败与合法性赤字。
@@ -221,7 +223,7 @@ journal: "JCMS: Journal of Common Market Studies"
 > [!implication]- 制度拟态超载引发的治理风险
 > 借用成熟一体化组织的机构名称与概念外壳，能够为区域合作注入象征性动力；但若忽视成员国在主权让渡意愿与法治约束上的现实鸿沟，强行移植缺乏运作基础的超国家决策机制，必然诱发普遍的执行失灵，导致成员国精英与公众的深层挫败感。
 
-#### 2. 依靠非正式务实合作网络，逐步积累具有本土韧性的区域治理秩序
+> [!sub-claim] 2. 依靠非正式务实合作网络，逐步积累具有本土韧性的区域治理秩序
 
 > [!chain-link] 东盟区域一体化的务实演进链条
 > - **前提：坚守主权底线与协商舒适度** 承认成员国在政体体制与安全诉求上的客观差异，不盲目追求形式上的超国家司法约束。

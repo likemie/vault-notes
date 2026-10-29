@@ -6,10 +6,10 @@ aliases:
 summary: "Cole 提出的关于后现代课程的功能隐喻。它主张教育（特别是探究性课程）不应追求导向预设的普世真理或统一结论，而应作为一种持续激发群体想象力、甚至将负面情感转化为生产性动力的引擎，借此不断孕育出跨学科的新知识与新探索。"
 type: concept
 domain: "curriculum"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/curriculum
   - concept/postmodernism
@@ -19,6 +19,7 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Emergence]]"
   - "[[Creativity]]"
+  - "[[Competitiveness]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -26,13 +27,14 @@ related_persons:
   - "[[Baruch Spinoza]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Jean-François Lyotard]]"
-related_facts: []
+related_facts:
+  - "[[ASEAN Credit Transfer System]]"
 related_arguments:
   - "[[Argument_Cole_2005_JRIE]]"
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -48,7 +50,7 @@ updated: 2026-10-22
 > [!citation-card] 关键表述
 > 国际斯宾诺莎主义不会导向一个普遍的乌托邦结局……（而是）像一台机器一样，将（课堂的）情境作为决定新智识探究领域建立的**滋养机制**。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
 >
-> *The international Spinozism will not lead to a universal, utopian conclusion... acts like a machine that uses the situation as a **feeder mechanism** to determine the establishment of new areas of intellectual inquiry.*
+> *The international Spinozism will not lead to a universal, utopian conclusion... [[ASEAN Credit Transfer System|acts]] like a machine that uses the situation as a **feeder mechanism** to determine the establishment of new areas of intellectual inquiry.*
 
 ---
 
@@ -77,10 +79,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　在后现代完美信息社会中，教育的核心竞争力在于滋养“想象力”而非传递信息
-
-> [!concept-lens] 后现代知识状况下的课程功能
-> 简述这类命题围绕在信息泛滥时代教育何为而展开。学者主张，当知识获取不再是门槛时，课程必须转型为生产新规则的机制。
+> [!concept-proposition] 命题一｜在后现代完美信息社会中，教育的核心[[Competitiveness|竞争力]]在于滋养“想象力”而非传递信息
+> **探讨维度　后现代知识状况下的课程功能** 简述这类命题围绕在信息泛滥时代教育何为而展开。学者主张，当知识获取不再是门槛时，课程必须转型为生产新规则的机制。
 
 > [!claim] Cole, D. R.
 > 借用[[Jean-François Lyotard\|利奥塔]]对后现代状况的分析，在一个数据向所有人公开的“完美信息博弈”中，额外的绩效不再取决于掌握更多信息，而是取决于能够改变游戏规则的“想象力”。因此，真正的国际化教育应当停止徒劳的权威知识灌输，转而构建一种能够持续激发群体想象力和情感力量的“滋养机制”。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 220–222)]]

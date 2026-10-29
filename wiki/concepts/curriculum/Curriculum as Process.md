@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -87,10 +87,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　过程范式通过实践明智与探究原则保障了知识的内在价值与主体自由
-
-> [!concept-lens] 探究自由与实践审议维度
-> 探讨过程模式如何消除预设控制，恢复教育作为人文学艺与理智审议的本质。
+> [!concept-proposition] 命题一｜过程[[Paradigm|范式]]通过[[Phronesis|实践明智]]与探究原则保障了知识的内在价值与主体自由
+> **探讨维度　探究自由与实践审议维度** 探讨过程模式如何消除预设控制，恢复教育作为人文学艺与理智审议的本质。
 
 > [!claim] Stenhouse, L.
 > **过程[[Paradigm\|范式]]的探究本质** 斯滕豪斯与达维什论证指出，过程模式将知识视为可被持续检视与质询的开放提议，保护了师生的思想自由与理性判断能力。[[Argument_Darwish_2009_Queens\|(Stenhouse, 1975, p. 84; Darwish, 2009, pp. 65–67)]]

@@ -9,7 +9,7 @@ aliases:
 summary: "从国际学校共同资格发展而来的跨国课程与质量保障体系，通过课程核心、考试评价、区域支持和公共治理协调共同标准与地方实施。"
 type: concept
 domain: "curriculum"
-related_count: 54
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -35,10 +35,13 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Chinese Learner]]"
   - "[[Whole Person Education]]"
+  - "[[Teacher Support for Students]]"
+  - "[[Student Motivation]]"
   - "[[Epistemology]]"
   - "[[Knowledge Questions]]"
   - "[[Open-Mindedness]]"
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[International Education]]"
 related_theories:
   - "[[Theory of Mind]]"
@@ -80,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -185,10 +188,8 @@ updated: 2026-10-25
 
 ## 围绕概念形成的命题
 
-### 命题一　IBDP 核心组件与大学准备和高阶认知表现相关
-
-> [!concept-lens] 教育效能
-> 相关研究把 [[Theory of Knowledge|TOK]]、EE 与 [[Chinese Academy of Sciences|CAS]] 视为连接学术学习、反思、自主研究和社会参与的机制。现有结果多为观察性比较或参与者报告，能够说明关联和可能机制，不能把差异全部归因于课程。
+> [!concept-proposition] 命题一｜[[IB Diploma Programme|IBDP]] 核心组件与大学准备和高阶认知表现相关
+> **探讨维度　教育效能** 相关研究把 [[Theory of Knowledge|TOK]]、EE 与 [[Chinese Academy of Sciences|CAS]] 视为连接学术学习、反思、自主研究和社会参与的机制。现有结果多为观察性比较或参与者报告，能够说明关联和可能机制，不能把差异全部归因于课程。
 
 > [!claim] Metli, A. & Akış, D.
 > **核心组件承担不同但互补的教育功能** EE 与独立思考、[[Inquiry-Based Learning|探究学习]]和大学平均绩点（Grade Point Average，[[Academic Achievement|GPA]]）相关；TOK 帮助学生反思[[Knowledge Building Theory|知识建构]]并练习[[Critical Thinking|批判性思维]]；CAS 经验则与服务伦理、自信和公民责任感相关。三者需要相互联系，单独完成任务不等于形成整体学习。[[Argument_Metli_2022_IJEdReform|(Metli & Akış, 2022, pp. 220–221)]]
@@ -198,20 +199,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　IB 课程向亚洲移植时面临西方文化根源与本土情境的潜在冲突
-
-> [!concept-lens] 课程移植与本土化
-> IB 标榜国际化和意识形态中立，但在跨文化实践中，其隐性的西方哲学假设是否普适。
+> [!concept-proposition] 命题二｜IB 课程向亚洲移植时面临西方文化根源与本土情境的潜在冲突
+> **探讨维度　课程移植与本土化** IB 标榜国际化和意识形态中立，但在跨文化实践中，其隐性的西方哲学假设是否普适。
 
 > [!claim] Slethaug, G.
 > **[[Constructivist Paradigm|建构主义]]取向需要经过本地课程翻译** IB 强调多角度思考和开放心态，课程设计带有西方、盎格鲁建构主义传统的影响。直接移植到知识权威关系和课堂互动规范不同的亚洲环境时，探究要求可能与[[Chinese Learner|中国学习者]]或当地课堂文化发生张力。国际性不能由统一文本自动产生，还需要教师把课程原则转化为当地学生能够参与的任务。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 29)]]
 
 ---
 
-### 命题三　跨国课程只有同时维持共同标准与地方实施空间才能扩张
-
-> [!concept-lens] 标准、分权与公共治理
-> IB 的扩张要求考试结果在不同国家具有可比性，也要求学校能够按当地语言、文化和制度条件实施课程。组织分权、教师培训和政府参与共同处理这一张力。
+> [!concept-proposition] 命题三｜跨国课程只有同时维持共同标准与地方实施空间才能扩张
+> **探讨维度　标准、分权与公共治理** IB 的扩张要求考试结果在不同国家具有可比性，也要求学校能够按当地语言、文化和制度条件实施课程。组织分权、教师培训和政府参与共同处理这一张力。
 
 > [!claim] [[Alec Peterson|Peterson, A. D. C.]]
 > **功能分权把共同标准转化为可交付服务** 日内瓦维持政策和国际治理，巴斯集中考试业务，区域办公室承担学校联络与教师培训。这个结构按照工作性质、语言环境和成本配置职能，没有在每个国家复制一套总部。它既缩短组织与学校之间的距离，也保留共同课程和考试的中央协调。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 166–168, 185–187)]]
@@ -221,33 +218,27 @@ updated: 2026-10-25
 
 ---
 
-### 命题四　辅助层级只有改变课程目的才能补足全人教育
-
-> [!concept-lens] 升学准备与终结性学习
-> 严格学术训练可以发展一般心智能力，但大学选拔偏重专门学术表现，未必覆盖行动意愿、道德判断、审美和对社会问题的回应。辅助层级的改革应由学生的后续用途决定。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 199–204)]]
+> [!concept-proposition] 命题四｜辅助层级只有改变课程目的才能补足[[Whole Person Education|全人教育]]
+> **探讨维度　升学准备与终结性学习** 严格学术训练可以发展一般心智能力，但大学选拔偏重专门学术表现，未必覆盖行动意愿、道德判断、审美和对社会问题的回应。辅助层级的改革应由学生的后续用途决定。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 199–204)]]
 
 > [!claim] Peterson, A. D. C.
 > **缩减内容无法自动改变专业预备的取向** 高等教育的学科分化会向下影响大学选拔，教师也可能倾向提前培养未来学者。把辅助课程处理为高级课程的一部分，便于学校混班授课，却仍以继续专业学习为隐含目标。对于不再正式学习该科的学生，课程需要把已有知识转化为校外应用、持续兴趣与社会理解：未来科学工作者应能持续享受文学、历史，未来人文学科学生应理解科学如何发展及影响生活。高级学习保留学术深度，辅助学习提供这种平衡，才能兼顾大学资格与[[Whole Person Education|全人教育]]；作者没有主张取消学术标准或把所有课程改为应用训练。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 200–204)]]
 
 ---
 
-### 命题五　课程创新须同时获得科目位置与教师支持才能扩散
-
-> [!concept-lens] 从教育价值到学校采用
-> 有吸引力的课程方案仍需通过大学入学要求和学校教学能力两道约束，跨学科知识与地方经验不能仅凭大纲进入课堂。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–206)]]
+> [!concept-proposition] 命题五｜课程创新须同时获得科目位置与[[Teacher Support for Students|教师支持]]才能扩散
+> **探讨维度　从教育价值到学校采用** 有吸引力的课程方案仍需通过大学入学要求和学校教学能力两道约束，跨学科知识与地方经验不能仅凭大纲进入课堂。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–206)]]
 
 > [!claim] Peterson, A. D. C.
 > **选课空间与实施能力共同决定创新能否进入文凭** 文凭各组要求已占用多数科目位置，而欧洲科学专业通常要求第二门科学，现代语言专业也可能要求额外语言；这些需求会占用第六科，使仅列在第六组的校本创新对相应学生实际上不可选。即使其他学校认同新课程价值，没有具备相关知识的教师、在职培训和后续交流也难以采用。课程因此既需被认可为满足较有弹性的科目分布要求，又需同步建设教师能力。营养科学推广未能扩散与后续[[Science Technology and Social Change Curriculum Pilot|科学、技术与社会变迁]]试点增加培训投入的对照，支持这一实施解释；作者对失败原因的判断并非经过控制比较的因果验证。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–206)]]
 
 > [!claim] Peterson, A. D. C.
-> **跨学科课程不必等到各门学科完全掌握之后才开始** 古典学本来就结合语言、文学、历史与文化，地理也联系自然与社会知识，学科边界本身并不固定。多数学生不会进入研究生阶段，若把人类问题导向的综合学习延后到专业学习完成后，就会使他们失去这种教育机会。在文凭已有高级学科训练的条件下，提供一个可选的辅助层级综合课程，可以把学术学习联系到现实问题并增强学习动机；这不是要求所有学生放弃学科基础，也不是已证实大学录取不受影响。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–207)]]
+> **跨学科课程不必等到各门学科完全掌握之后才开始** 古典学本来就结合语言、文学、历史与文化，地理也联系自然与社会知识，学科边界本身并不固定。多数学生不会进入研究生阶段，若把人类问题导向的综合学习延后到专业学习完成后，就会使他们失去这种教育机会。在文凭已有高级学科训练的条件下，提供一个可选的辅助层级综合课程，可以把学术学习联系到现实问题并增强[[Student Motivation|学习动机]]；这不是要求所有学生放弃学科基础，也不是已证实大学录取不受影响。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–207)]]
 
 ---
 
-### 命题六　国际性应通过扩大文化参与实现而非压制增长地区
-
-> [!concept-lens] 国际代表性与积极平衡
-> 需要区分学校数量、治理权力和考试标准，才能判断地区增长是否构成支配。平衡政策的目标还包括不同文化为共同教育经验作贡献。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 207–209)]]
+> [!concept-proposition] 命题六｜国际性应通过扩大文化参与实现而非压制增长地区
+> **探讨维度　国际代表性与积极平衡** 需要区分学校数量、治理权力和考试标准，才能判断地区增长是否构成支配。平衡政策的目标还包括不同文化为共同教育经验作贡献。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 207–209)]]
 
 > [!claim] Peterson, A. D. C.
 > **平衡扩张应依靠积极投入而非限制已增长地区** 限制少数试验学校、向所有申请者开放、限制增长过快的地区以及主动支持覆盖不足地区，代表不同的扩张思路。作者反对把某地区学校增多直接推定为治理支配：理事会并不按学校地域份额分配，只有部分席位通过校长会议选举产生。按固定标准而非统计常模评定的考试，也不会因为某类考生增长而自动改变其他人的成绩标准。因此，国际性不需要依靠压低成功地区增长来维护；在行政服务可承受的前提下，应把资源与工作积极配置到流动国际社群及参与不足地区。不同文化学校、教师和学生的贡献改善的是整个组织的教育经验，超出席位平衡本身。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 207–209)]]
@@ -355,7 +346,7 @@ updated: 2026-10-25
 
 ---
 
-> [!evidence-grid] 文献与论证索引
+> [!evidence-grid] [[Document|文献]]与论证索引
 > - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 系统记录 IB 的创生与制度化历程：六年试验把课程、考试、行政与资格承认整合为常设国际资格（Ch. 4），沃特福德加入 [[United World Colleges|UWC]] 推动十一月考试季（Ch. 5），地方课程自主与教师培训使 IB 成为北美公立高中的改革工具（Ch. 6），政府参与、功能分权和核心课程评价又支撑第二个十年的成熟运行（Ch. 7）。
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 199–217)]] — 分析课程复审、终结性学习、创新实施、平衡扩张与公共援助；区分已采用课程、仍在试验的方案及无法由网络规模证明的宏观和平效果。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 分析了 IB 在[[International Education|国际教育]]中的扩张，并讨论了其质量保障机制及被引入非西方语境时的文化张力。

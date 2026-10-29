@@ -8,10 +8,10 @@ aliases:
 summary: "表征新兴大国高等教育国际化战略由被动引进西方经验向主动对外输出模式、提供公共产品与重塑治理规则转变的理论构念，以境外办学、教育对外援助与战略性留学生招生为支柱，并以多边大学联盟为制度化载体。"
 type: concept
 domain: "higher-education"
-related_count: 27
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/higher-education
   - internationalization
@@ -29,14 +29,17 @@ related_concepts:
   - "[[Cultural Diplomacy]]"
   - "[[Epistemic Governance]]"
   - "[[Normalization through Knowledge Cooperation]]"
+  - "[[Knowledge Power]]"
+  - "[[Knowledge Diplomacy]]"
+  - "[[Total War]]"
   - "[[Geopolitics]]"
   - "[[Developmentalism]]"
   - "[[People-to-People Connectivity]]"
-  - "[[Knowledge Diplomacy]]"
   - "[[Research Universities]]"
-  - "[[Knowledge Power]]"
   - "[[Soft Power]]"
   - "[[Competitiveness]]"
+  - "[[Student Mobility]]"
+  - "[[Emergence]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -55,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -112,30 +115,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　外向型高等教育国际化标志着国家从知识接收者向知识规则供给者的角色转型
-
-> [!concept-lens] 角色转变与治理结构
-> 探讨[[Internationalization of Higher Education|高等教育国际化]][[Paradigm|范式]]转型如何重塑新兴国家在全球知识秩序中的身份认同。
+> [!concept-proposition] 命题一｜外向型[[Internationalization of Higher Education|高等教育国际化]]标志着国家从知识接收者向知识规则供给者的角色转型
+> **探讨维度　角色转变与治理结构** 探讨[[Internationalization of Higher Education|高等教育国际化]][[Paradigm|范式]]转型如何重塑新兴国家在全球知识秩序中的身份认同。
 
 > [!claim] Wu (2019a); [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]]
 > **从依附接受转向主动赋形** 早期内向型国际化基于知识差距假定，将西方界定为知识中心，自身作为外围接收者；外向型国际化彻底重构了这一角色假定，通过主动输出教育体系与设立跨国多边平台，将自身定位于区域乃至全球高等教育公共产品的提供者与新治理规则的倡导者。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1697, 1703)]]
 
 ---
 
-### 命题二　外向型国际化通过知识权力与知识外交的双轨运作服务国家总体战略
-
-> [!concept-lens] 动力机制与战略协同
-> 探讨外向型国际化实践中[[Geopolitics|地缘政治]]考量与多边[[Developmentalism|发展主义叙事]]的辩证统一。
+> [!concept-proposition] 命题二｜外向型国际化通过[[Knowledge Power|知识权力]]与[[Knowledge Diplomacy|知识外交]]的双轨运作服务国家[[Total War|总体战]]略
+> **探讨维度　动力机制与战略协同** 探讨外向型国际化实践中[[Geopolitics|地缘政治]]考量与多边[[Developmentalism|发展主义叙事]]的辩证统一。
 
 > [!claim] [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]]
 > **双轨协同论** 外向型高教国际化在制度设计层面展现出明确的分工协同：既通过开放包容的大众化多边网络深化[[People-to-People Connectivity|民心相通]]与践行[[Knowledge Diplomacy|知识外交]]，又依托精简筛选的顶尖[[Research Universities|研究型大学]]网络主导区域学术议程并积蓄[[Knowledge Power|知识权力]]，协同服务于提升大国总体[[Soft Power|软实力]]与常态化网络中心地位。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1697–1705)]]
 
 ---
 
-### 命题三　外向型高教国际化的战略效能受制于校际协议形式化与微观教学断裂
-
-> [!concept-lens] 机制落地与形式化阻滞
-> 探讨当国家宏观外向拓展强劲时，微观高校间合作协议的形式化倾向如何制约实质性知识合作。
+> [!concept-proposition] 命题三｜外向型高教国际化的战略效能受制于校际协议形式化与微观教学断裂
+> **探讨维度　机制落地与形式化阻滞** 探讨当国家宏观外向拓展强劲时，微观高校间合作协议的形式化倾向如何制约实质性知识合作。
 
 > [!claim] [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]]
 > **形式化协议削弱外向拓展实效** 重点大学在推进外向型高教拓展时，常将同发展中国家高校签署合作备忘录（MOU）作为提升自身国际化指标的象征性工具，缺乏长效科研经费配套与深入跟进；加之课堂教学缺乏启发互动，使外向型高教输出面临从宏观政策工具向微观学术互信转化的制度性阻滞（pp. 648–651）。
@@ -151,6 +148,6 @@ updated: 2026-10-25
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 以中柬高等教育拓展为质性案例，系统检验语言培训、留学生流动、高教援助与校际合作四大外向型国际化载体，揭示新型软实力资源的涌现机制与校际协议形式化等深层制约。
+> - [[Argument_Zhu_Yang_2023_HEP|Zhu and Yang (2023)]] — 以中柬高等教育拓展为质性案例，系统检验语言培训、留[[Student Mobility|学生流动]]、高教援助与校际合作四大外向型国际化载体，揭示新型软实力资源的[[Emergence|涌现]]机制与校际协议形式化等深层制约。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]] — 梳理外向型国际化概念谱系，以跨国多边大学联盟为实证对象检验其[[Knowledge Power|知识权力]]与[[Knowledge Diplomacy|知识外交]]运作机制。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 系统记录[[Belt and Road Initiative|一带一路倡议]]下一系列外向型高等教育对外开放政策与校际科技合作实践。

@@ -86,7 +86,7 @@ related_persons:
   - "[[Egon G. Guba]]"
 status: active
 created: 2026-05-31
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -149,50 +149,40 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 
 ---
 
-### 命题一　内部效度是外部效度的必要非充分前提
-
-> [!concept-lens] 因果可信性与外部适用的不对称权衡
-> 探讨内部因果有效性与[[Internal and External Generalizability\|外部推广性]]之间的逻辑顺位与张力。
+> [!concept-proposition] 命题一｜[[Internal Validity|内部效度]]是外部效度的必要非充分前提
+> **探讨维度　因果可信性与外部适用的不对称权衡** 探讨内部因果有效性与[[Internal and External Generalizability\|外部推广性]]之间的逻辑顺位与张力。
 
 > [!claim] Pilliner, A.
 > **内部因果成立是推广的逻辑前置条件** Pilliner (1973) 指出[[Internal Validity\|内部效度]]与外部效度存在根本的不对称关系：没有内部效度，实验就不可能具备外部效度；但一个内部有效的实验，未必具备外部效度。[[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch8)]] 进一步强调，在实验室或人工严密受控条件下消除混淆[[Variable\|变量]]固然最大化了内部因果确证，但这种人为封闭系统恰恰破坏了自然复杂情境中的生态常态，形成内部效度与外部效度的经典权衡。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, p. 168)]]
 
 ---
 
-### 命题二　干预规模扩大引发内部控制与外部生态效度的结构性张力
-
-> [!concept-lens] [[Efficacy Trial\|效力试验]]向[[Effectiveness Trial\|实效试验]]迁移中的实施磨损
-> 探讨当因果试验从高度受控的人工示范走向全域政策推广时，[[Effect Size\|效应量]]系统性衰减的方法学机制。
+> [!concept-proposition] 命题二｜干预规模扩大引发内部控制与外部[[Ecological Validity|生态效度]]的结构性张力
+> **探讨维度　[[Efficacy Trial\|效力试验]]向[[Effectiveness Trial\|实效试验]]迁移中的实施磨损** 探讨当因果试验从高度受控的人工示范走向全域政策推广时，[[Effect Size\|效应量]]系统性衰减的方法学机制。
 
 > [!claim] Edovald, R. & Nevill, C.
 > **规模化拓展中的实施稀释与基线竞争导致[[Fade-out Effect\|效应衰减]]** 追求更高统计功效而盲目扩大试验[[Sample Size Determination\|样本量]]，常与高保真度实施产生直接冲突（Nevill, 2019b；Edovald & Nevill, 2021, p. 57）。在小规模效力试验（Efficacy Trials）阶段，干预提供者能给予教师密集指导与高频支持，保真度极高，易在理想条件下产生积极显著的效应量（如 Hanley et al., 2015 的国际象棋试验）；然而当项目推向大规模实效试验（Effectiveness Trials）阶段时，人员培训模式被层层稀释，外部监控支持减退，且基层学校面临多样化的[[Business as Usual\|常态教学]]（business as usual）高基线竞争，导致效力阶段的积极结果往往在实效阶段无法被成功复制（如 Kitmitto et al., 2018 象棋试验未见显著效果）。大规模推广必须建立前置的扩展试点机制（Scale-up Pilots）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 57)]]
 
 ---
 
-### 命题三　单项试验无法自足确立外部效度，跨情境证据综合构成可推广性的根本基石
-
-> [!concept-lens] 宏观政策外推的[[Research Synthesis|证据综合]][[Paradigm\|范式]]
-> 探讨如何超越单项孤立试验的局限，构建面向系统决策的外部推广效力。
+> [!concept-proposition] 命题三｜单项试验无法自足确立外部效度，跨情境[[Research Synthesis|证据综合]]构成可推广性的根本基石
+> **探讨维度　宏观政策外推的[[Research Synthesis|证据综合]][[Paradigm\|范式]]** 探讨如何超越单项孤立试验的局限，构建面向系统决策的外部推广效力。
 
 > [!claim] Shadish, W. R.
 > **系统证据综合是确立稳健外部效度的必要路径** Shadish, Cook, & Campbell (2002) 论证，任何单项随机试验无论设计多么精良，其外部效度天然受制于特定的抽样时间、地点与人群边界；单项试验的结果只能告诉我们“什么曾经在特定条件下有效”，不能证明普遍有效性。只有通过对多情境、多群体试验开展大规模[[Meta-analysis\|元分析]]与[[Systematic Review\|系统综述]]（如英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]（EEF Teaching and Learning Toolkit）对超过 10,000 项独立试验的编码综合），才能平抑单项试验的抽样偏倚与偶然误差，构建具有广泛指导意义的外部效度证据库（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 54]], 56；Higgins et al., 2015）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
 ---
 
-### 命题四　质性可迁移性依赖情境厚描述而非去情境化统计推断
-
-> [!concept-lens] [[Interpretive Paradigm\|自然主义探究]]的可翻译性与读者判断逻辑
-> 探讨自然主义与[[Qualitative Research\|质性研究]]范式下外部效度的重新概念化。
+> [!concept-proposition] 命题四｜质性可迁移性依赖情境[[Rich and Thick Description|厚描述]]而非去情境化统计推断
+> **探讨维度　[[Interpretive Paradigm\|自然主义探究]]的可翻译性与读者判断逻辑** 探讨自然主义与[[Qualitative Research\|质性研究]]范式下外部效度的重新概念化。
 
 > [!claim] [[Yvonna S. Lincoln\|Lincoln, Y. S.]] & [[Egon G. Guba\|Guba, E. G.]]
 > **研究者提供[[Rich and Thick Description\|厚描述]]，由实践者自主评估可迁移性** 在自然主义与质性研究中，可推广性被重构为可比较性（comparability）与可迁移性（transferability）（Lincoln & Guba, 1985；Eisenhart & Howe, 1992）。自然主义研究者不应试图提供去情境化的可迁移性量化指标，研究者的核心任务是提供足够详尽、生动、情境化的[[Rich and Thick Description\|厚描述]]（thick description），由读者和[[Research Utilization\|研究使用]]者自行对照自身情境判断迁移的可能性。Schofield (1996, p. 209) 进一步提出两条增强质性可迁移性的有效路径：聚焦研究具有典型特征的案例（typical cases），以及开展跨多元现场的多场所研究（multi-site studies）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, pp. 171–172)]]
 
 ---
 
-### 命题五　行政采办中的情境迁移衰减与跨学段降维推断严重侵蚀外部推广效度
-
-> [!concept-lens] 政策执行生态下的因果结论外推异化
-> 探讨当法定循证要求进入地方教育采办场景时，证据结论如何在目标群体与学段错配中发生效度瓦解。
+> [!concept-proposition] 命题五｜行政采办中的情境迁移衰减与跨学段降维推断严重侵蚀外部推广效度
+> **探讨维度　政策执行生态下的因果结论外推异化** 探讨当法定循证要求进入地方教育采办场景时，证据结论如何在目标群体与学段错配中发生效度瓦解。
 
 > [!claim] [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]]
 > **微观情境过度特异与学段供给空白诱发虚假外部概化** 在[[Evidence-Based Education\|循证教育]]政策落地中，教育干预的外部效度面临双重体制性破坏：其一是**证据情境迁移衰减（Transferability Decay）**，严格受控因果试验往往依托高度同质且狭窄的微观样本（如特定年级伴有特定障碍的儿童群体），其实施成效与干预人员的专门指导深度绑定，无法被自然外推至常规学校的全样本、其他学科或高低学段；其二是**跨学段降维推断（Cross-Grade Downgraded Inferences）**，当[[Educational Evidence Clearinghouses\|证据清算中心]]在某些学段面临严重的实证研究供给空白时，行政管理人员为满足法定合规要求，往往援引中学阶段的因果研究为小学阶段的同类采购提供依据，将未经验证的[[Heterogeneity\|异质性]]假设当作既定事实。这种在政策问责压力下发生的证据外推异化，实质上架空了因果实验所追求的外部概化保障。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 177–178)]]

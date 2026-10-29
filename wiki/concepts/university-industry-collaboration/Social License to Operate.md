@@ -25,11 +25,11 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Strategic Compliance]]"
   - "[[Dialogue in Education]]"
+  - "[[Public Engagement with Science]]"
   - "[[Grandes Ecoles]]"
   - "[[Emergence]]"
   - "[[Knowledge Production]]"
   - "[[Academic Freedom]]"
-  - "[[Public Engagement with Science]]"
   - "[[Quasi-markets in Higher Education]]"
 related_theories: []
 related_methods:
@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -104,20 +104,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　公众科学参与是高等院校在动荡时代维系社会运营许可的战略性生命线
-
-> [!concept-lens] 办学存续与社会契约
-> 在高等教育面临财政紧缩、学费高企以及民粹反智浪潮挑战的背景下，公众参与不再是锦上添花的边缘项目，而是捍卫大学立校根基的生存前提。
+> [!concept-proposition] 命题一｜[[Public Engagement with Science|公众科学参与]]是高等院校在动荡时代维系社会运营许可的战略性生命线
+> **探讨维度　办学存续与社会契约** 在高等教育面临财政紧缩、学费高企以及民粹反智浪潮挑战的背景下，公众参与不再是锦上添花的边缘项目，而是捍卫大学立校根基的生存前提。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026, Ch. 6)]]
 > **公众参与作为维系大学存续六大基石的战略投资** 尽管高校面临严峻的通胀与财政赤字，但对公众参与的资助必须被视为面向未来的战略性投资；大学必须认识到其办学存续直接系于六大基石——争取科研支持、维系财政合法性、展现伦理实践、担当对话中枢、启发青年人才以及吸引慈善认可，而公众参与正是构筑这六大基石的唯一不可替代的动态纽带。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 93, 102)]]
 
 ---
 
-### 命题二　社会运营许可的脆弱性要求大学将公众参与从被动公关转向制度全生命周期内嵌
-
-> [!concept-lens] 制度内嵌与契约防线
-> 社会运营许可无法通过事后的危机公关来临时修补，大学必须将公众参与在人事考评、工作量核算及研究生教育中全面制度化，形成主动防御与社会协同的长效生态。
+> [!concept-proposition] 命题二｜社会运营许可的脆弱性要求大学将公众参与从被动公关转向制度全生命周期内嵌
+> **探讨维度　制度内嵌与契约防线** 社会运营许可无法通过事后的危机公关来临时修补，大学必须将公众参与在人事考评、工作量核算及研究生教育中全面制度化，形成主动防御与社会协同的长效生态。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026, Ch. 6)]]
 > **从被动防御危机转向全机构制度化支持** 高校管理层常将公众参与等同于招生宣传或危机公关，导致学者陷入“个体热情”与“制度冷漠”的撕裂；若要真正守护社会运营许可，[[Grandes Ecoles|大学校]]长必须采取系统行动——将公众参与明确写入岗位职责说明书、落实职称晋升认定、纳入工作量分配核算（Workload allocation），并将参与技能深度内嵌于博士生培养方案中，将分散的外挂式劳动升级为受机构长效支撑的核心使命。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 93, 98–99, 102–103)]]

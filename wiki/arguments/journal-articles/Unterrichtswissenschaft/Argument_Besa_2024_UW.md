@@ -7,7 +7,7 @@ title: "Argument_Besa_2024_UW"
 argument_key: "Argument_Besa_2024_UW"
 argument_display_title: "Evidenzfernes Lehrkräftehandeln – braucht die Bildungsforschung eine neue Wissenschaftskommunikation? Unterrichtswissenschaft, 52(2), 251–262"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 34
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -43,18 +43,20 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Boundary Spanner]]"
   - "[[Research Literacy]]"
+  - "[[Document]]"
   - "[[Normal School]]"
   - "[[Business as Usual]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Refutational Evidence]]"
   - "[[Falsification]]"
+  - "[[Co-Teaching]]"
   - "[[Self-Efficacy]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
   - "[[Reliability]]"
-  - "[[Citizen Science]]"
   - "[[Ecological Validity]]"
+  - "[[Citizen Science]]"
   - "[[Champ]]"
   - "[[Ratgeberliteratur]]"
   - "[[Virtual Teacher Staffroom]]"
@@ -70,7 +72,7 @@ related_facts:
   - "[[Forschungsmonitor Schule]]"
 confidence: high
 created: 2026-09-18
-updated: 2026-10-23
+updated: 2026-10-29
 ---
 ---
 
@@ -107,7 +109,7 @@ updated: 2026-10-23
 > | **传播媒介分类学分析** | 建立涵盖五大核心传播载体（学术期刊、实践指南、音视频播客、信息中介、社交网络）的横向对比[[Analytic Framework\|分析框架]]，系统评估各形态的受众覆盖面、互动深度与质量风险。 |
 > | **实证案例与干预证据整合** | 综合提取有关[[Learning Styles\|学习风格神话]]流行度调查、实验性播客干预、指南图书出版普查及清算平台运营数据的多源实证发现。 |
 
-> [!sample-panel]- 文献与分析范围
+> [!sample-panel]- [[Document|文献]]与分析范围
 > | 样本层面 | 构成 |
 > |---|---|
 > | **文献样本** | 德语区与国际关于教师研究使用、科学传播、教育神经神话及媒介分析的核心实证文献（2001–2024 年）。 |
@@ -131,7 +133,7 @@ updated: 2026-10-23
 > [!claim] 核心判断：知识时效局限与[[Neuromyth|神经神话]]弥散
 > 大学[[Normal School\|师范教育]]所能提供的实证知识具有时效性与局限性，而在职教师普遍表现出较低的研究接触意愿与较高的感知负荷，导致缺乏科学依据的经验直觉与伪科学教育神话在学校实践中根深蒂固。
 
-#### 1. 职前教育的知识时效局限与在岗教师的研究负荷感知
+> [!sub-claim] 1. 职前教育的知识时效局限与在岗教师的研究负荷感知
 
 大学师范教育专业课程仅能提供教师职业生涯所需的基础知识，面对源源不断生成的实证发现，教师在职后阶段必须持续更新专业知识库，但实践中普遍存在研究接触意愿低迷的现象。
 
@@ -146,13 +148,13 @@ updated: 2026-10-23
 > - **直接实践指导性缺失** 大多数一级实证研究聚焦于狭窄[[Variable\|变量]]关系的因果检验，缺乏面向课堂情境的[[Operationalization\|操作化]]转化方案，难以直接解答课堂教学的具体方案疑问。
 > - **[[Refutational Evidence\|反驳性证据]]引发的心理防御** 学术文献频繁将焦点置于对教师传统做法与经验直觉的否定与[[Falsification\|证伪]]（widerlegende Evidenz），容易激发教师的专业自尊防御，促使其对科研出版物产生整体抵触心理（Bauer & Kollar, 2023）。
 
-#### 2. 学习风格假说在经验和逻辑上均无法成立且持续扭曲教学资源分配并抑制学生认知发展
+> [!sub-claim] 2. 学习风格假说在经验和逻辑上均无法成立且持续扭曲教学资源分配并抑制学生认知发展
 
 在实证研究证据未能有效转化为实践知识的情况下，未经检验的经验假说极易演变为顽固的教育神经神话，其中以[[Learning Styles|学习风格神话]]（Lerntypenmythos）最具代表性。
 
 > [!evidence-grid] 学习风格神话的认知信念与传播扩散证据
 > - **信念先验性与认知顽固** 职前师范生在入学初期便高度信奉根据偏好感官通道划分的个体[[Learning Styles|学习类型]]，且该信念完全独立于其对大脑神经生理学客观知识的掌握程度（Krammer et al., 2019）。
-> - **概念混淆与内在逻辑冲突** 通道匹配假设缺乏经验支持，在概念上混淆了主观感官偏好与客观认知加工能力，且与多感官协同教学原则存在内在冲突（Bauer & Asberger, 2022; Looß, 2001, p. 255）。
+> - **概念混淆与内在逻辑冲突** 通道匹配假设缺乏经验支持，在概念上混淆了主观感官偏好与客观认知加工能力，且与多感官[[Co-Teaching|协同教学]]原则存在内在冲突（Bauer & Asberger, 2022; Looß, 2001, p. 255）。
 > - **通俗科普与少儿媒体背书** Quarks（2022）等通俗科普节目与 GeoLino 等少儿读物持续将学习风格作为既定事实进行宣传，进一步固化了公众与教师的直觉信念。
 
 该神话在学校实践中的弥散，对课堂教学资源配置与学生发展构成了多维度的实质危害。
@@ -170,7 +172,7 @@ updated: 2026-10-23
 > [!claim] 核心判断：单向传输失效与非线性传播转向
 > [[Knowledge Transfer\|知识转移]]并非科研成果向实践的单向机械投放，唯有将[[Educational Science Communication\|教育科学传播]]理解为尊重实践情境逻辑的非线性、双向乃至多向递归对话，才能为[[Evidence-Based Education\|循证教育]]实践奠定坚实基础。
 
-#### 1. 延续赤字模型的单向传输模式因忽视一线教学情境与实践行动逻辑而遭遇制度性阻滞
+> [!sub-claim] 1. 延续赤字模型的单向传输模式因忽视一线教学情境与实践行动逻辑而遭遇制度性阻滞
 
 长期以来，教育科研界普遍秉持自上而下的线性传输假设，认为只要产出高质量实证研究即可顺畅流入学校课堂（Bromme et al., 2014），该模式本质上延续了将教师预设为缺乏知识的被动容器的[[Deficit Model of Science Communication|赤字模型]]（Deficit Model）。
 
@@ -188,7 +190,7 @@ updated: 2026-10-23
 > | **互动媒介生态** | 封闭于专业学术期刊与大学学术会议 | 依托 Web 2.0 交互媒介、播客、信息中介与数字社群（Dresbach, 2023） |
 > | **核心评价标准** | 单一推崇科研发表影响因子与方法学复杂性 | 兼顾证据[[Reliability\|信度]]（Belastbarkeit）与一线可及性、情境可用性 |
 
-#### 2. 面向实践的科学传播促使研究者转换认知视角并实质性反哺科研设计的生态效度
+> [!sub-claim] 2. 面向实践的科学传播促使研究者转换认知视角并实质性反哺科研设计的[[Ecological Validity|生态效度]]
 
 科学传播不仅是科研成果向学校的单向输出，更对教育研究共同体自身的理论反思与科研设计产生深层促进作用。
 
@@ -206,7 +208,7 @@ updated: 2026-10-23
 > [!claim] 核心判断：媒介差异配置与制度激励重构
 > 不同的科学传播格式在证据严谨性、实践可及度与互动深度上各具优劣；教育研究者必须破除学术声誉顾虑，主动拓展多样化数字载体，依托受众适配语言与研究合成推动证据常态化落地。
 
-#### 1. 专业期刊、经验指南、音视频播客、清算平台与社交网络呈现出证据信度与实践可及度的结构性分化
+> [!sub-claim] 1. 专业期刊、经验指南、音视频播客、清算平台与社交网络呈现出证据信度与实践可及度的结构性分化
 
 德语区教育实践中主要流通着五类科学传播媒介载体，各载体在证据信度、实践可及度与受众互动深度上呈现出显著的结构性分化。
 
@@ -219,7 +221,7 @@ updated: 2026-10-23
 > | **信息中介与清算平台**<br>（Information Broker） | 结构化提炼高阶因果证据与[[Meta-analysis\|元分析]]，提供高质量德语实践评介与培训资源 | 部分平台聚焦 MINT 学科且以教师教育者为主要乘数群体，对一线在岗教师的直接穿透链路较长 | [[Clearing House Unterricht\|CHU]]（下载超1.6万次）；[[Forschungsmonitor Schule\|FMS]] 全学科监测 |
 > | **社交媒体网络**<br>（Social Media-Plattformen） | 覆盖 Twitter、Instagram 与 TikTok，实现去中心化即时交流、同侪情感支持与灵感分享 | 讨论缺乏同行把关，极易被意见领袖垄断，信息质量参差不齐（Fütterer et al., 2021） | [[Virtual Teacher Staffroom\|Twitter-Lehrerzimmer]]（#twitterlehrerzimmer）；TikTok 教育社群 |
 
-#### 2. 克服同行声誉顾虑并采用受众适配的通俗语言是打破伪科学垄断与推动证据落地的关键行动路径
+> [!sub-claim] 2. 克服同行声誉顾虑并采用受众适配的通俗语言是打破伪科学垄断与推动证据落地的关键行动路径
 
 一线教师展现出借助外部读物反思教学的主动意愿，但受困于低质经验材料，教育科研人员有责任提供比学术期刊更易获取、更具吸引力的高质量替代品。
 

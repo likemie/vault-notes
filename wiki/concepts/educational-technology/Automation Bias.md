@@ -13,7 +13,7 @@ aliases:
 summary: "人机交互、认知心理学与人工智能伦理核心构念，指人类操作者过度依赖自动化或人工智能决策支持系统的提示（或沉默），甚至在面对相左证据时仍放弃自主判断或忽视矛盾线索的系统性决策偏差。"
 type: concept
 domain: "educational-technology"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,8 +32,8 @@ related_concepts:
   - "[[Epistemic Friction]]"
   - "[[Cognitive Deskilling]]"
   - "[[Meaningful Human Control]]"
-  - "[[AI Agent in Education]]"
   - "[[Defeater]]"
+  - "[[AI Agent in Education]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Reliability]]"
   - "[[Façade of Rationality]]"
@@ -44,6 +44,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
+  - "[[Experimental Research]]"
   - "[[Research Synthesis]]"
   - "[[Systematic Review]]"
 related_instruments: []
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 （自动化偏差 / 弱自动化偏差与强自动化偏差）
@@ -128,40 +129,32 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　弱自动化偏差根植于认知吝啬，强自动化偏差由过度信任与认识论顺从驱动
-
-> [!concept-lens] 认知启发式视角与[[Trust Calibration|过度信任]]视角的整合
-> 辨析自动化偏差在认知心理学与社会[[Epistemology|认识论]]中的双重机制基础。
+> [!concept-proposition] 命题一｜弱自动化偏差根植于认知吝啬，强自动化偏差由[[Trust Calibration|过度信任]]与[[Epistemic Deference|认识论顺从]]驱动
+> **探讨维度　认知启发式视角与[[Trust Calibration|过度信任]]视角的整合** 辨析自动化偏差在认知心理学与社会[[Epistemology|认识论]]中的双重机制基础。
 
 > [!claim] Mosier et al. (1998); Skitka et al. (2000); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **启发式替代与过度信任的分流** 传统的认知启发式视角将自动化偏差定义为在决策中以系统线索替代警觉性信息搜索的启发式偏误，基于认知吝啬（Cognitive Miser）假说解释了弱自动化偏差；然而，当操作者在已明确感知反常证据的情况下依然放弃自身立场追随系统时，启发式模型无法提供充分解释。强自动化偏差的实质是操作者对系统能力的信任严重超出其客观边界（过度信任），从而在社会认识论层面将系统视作更高权威，发生深层的[[Epistemic Deference|认识论顺从]]（[[Epistemic Deference]]）。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 4–11)]]
 
 ---
 
-### 命题二　强自动化偏差从程序与实质双重维度侵蚀人类操作者的自主能动性
-
-> [!concept-lens] 自主行动能力与社会技术制度架构
-> 解构强自动化偏差如何破坏人类作为独立自主行动者的核心条件。
+> [!concept-proposition] 命题二｜强自动化偏差从程序与实质双重维度侵蚀人类操作者的自主能动性
+> **探讨维度　自主行动能力与社会技术制度架构** 解构强自动化偏差如何破坏人类作为独立自主行动者的核心条件。
 
 > [!claim] [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **信念修正失效与关系性权威削弱** 在程序主义视角下，理性自主要求行动者具备根据新证据修正信念的能力；操作者在面对累积的反向证据时持续顺从系统错误输出，表明其信念修正能力受到系统性抑制，构成了程序性自主的瓦解。在实质主义与关系自主视角下，自动化偏差不仅是个人认知偏差，更是由社会技术系统结构性诱发的：对算法客观中立的社会预设、组织要求偏离系统建议时承担极高举证成本的制度惯性，以及长期依赖导致的人类专业[[Cognitive Deskilling|去技能化]]（Deskilling），共同削弱了操作者将自身视为合法决策权威的自我评价态度，使自主能动性在制度层面受到削弱。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 11–17)]]
 
 ---
 
-### 命题三　强自动化偏差将人在回路退化为形式化橡皮图章，违背高风险情境下的道德能动性义务
-
-> [!concept-lens] 尊严关切与有意义人类控制的捍卫
-> 论证在高风险甚至关乎生死存亡的决策情境中，放弃人类独立道德判断构成了根本性的伦理失职。
+> [!concept-proposition] 命题三｜强自动化偏差将[[Meaningful Human Control|人在回路]]退化为形式化橡皮图章，违背高风险情境下的道德能动性义务
+> **探讨维度　尊严关切与有意义人类控制的捍卫** 论证在高风险甚至关乎生死存亡的决策情境中，放弃人类独立道德判断构成了根本性的伦理失职。
 
 > [!claim] [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **道德判断的不可让渡性与控制架空** 基于人类尊严的伦理立场，关乎人的生命安全与重大利益的决策必须包含对生命内在价值的道德审思与敬畏，而自动化与人工智能系统天然缺乏这种道德关切与理解能力。在自主武器系统、重症医疗诊断或司法风控中保留[[Meaningful Human Control|人在回路]]（Human-in-the-Loop, HITL），核心目的在于注入真实的人类道德能动性（Moral Agency）与[[Meaningful Human Control|有意义的人类控制]]；强自动化偏差使人类操作者退化为被动的橡皮图章（Rubber Stamp），实质上将杀伤或处置裁决权全盘让渡给无道德能力的机器，造成了对人类尊严与道德受托义务的严重背弃。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 17–20)]]
 
 ---
 
-### 命题四　通过反思机器与击败者机制引入认识论摩擦是校准批判性信任的核心路径
-
-> [!concept-lens] 设计干预与人机交互重构
-> 探讨如何利用交互机制打破自动化偏差，培育批判性信任。
+> [!concept-proposition] 命题四｜通过反思机器与[[Defeater|击败者机制]]引入[[Epistemic Friction|认识论摩擦]]是校准批判性信任的核心路径
+> **探讨维度　设计干预与人机交互重构** 探讨如何利用交互机制打破自动化偏差，培育批判性信任。
 
 > [!claim] Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **生产性[[Epistemic Friction|认知摩擦]]对盲从的解构** 克服强自动化偏差不能仅依赖道德说教或增加事后问责，而必须在人机交互节点主动注入[[Epistemic Friction|认识论摩擦]]。主要技术方案包括：
@@ -215,7 +208,7 @@ updated: 2026-10-22
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Jovchevski_2026_PT\|Klingbeil et al. (2024; cited in Jovchevski et al., 2026)]] | 陌生匹配博弈实验 | 六轮修改版信任博弈，第四轮引入人工智能或专家建议 | 参与者独立判断为极可能退出（OUT）情境下的合作（IN）顺从率 | 控制组合作率为 6%；在收到鼓励合作的建议时，标记为专家建议组无显著变化，而标记为人工智能建议组合作率上升至 44% | $p < .01$ | 证实仅将建议贴上人工智能标签即可显著诱发强自动化偏差，推翻参与者基于历史上下文的独立判断 |
-> | [[Argument_Jovchevski_2026_PT\|Dijkstra et al. (1998; cited in Jovchevski et al., 2026)]] | 84 名大学生法律咨询任务 | 2（专家系统 vs 人类顾问）被试间实验设计 | 对完全相同推理逻辑建议的客观性与理性程度评定 | 呈现完全相同推理内容时，被试评定归属于专家系统的建议显著比归属于人类专家的建议更具客观性与理性 | $p < .05$ | 证实社会对机器客观中立的刻板印象为技术系统赋予了不对称的先验认识权威 |
+> | [[Argument_Jovchevski_2026_PT\|Dijkstra et al. (1998; cited in Jovchevski et al., 2026)]] | 84 名大学生法律咨询任务 | 2（专家系统 vs 人类顾问）被试间[[Experimental Research\|实验设计]] | 对完全相同推理逻辑建议的客观性与理性程度评定 | 呈现完全相同推理内容时，被试评定归属于专家系统的建议显著比归属于人类专家的建议更具客观性与理性 | $p < .05$ | 证实社会对机器客观中立的刻板印象为技术系统赋予了不对称的先验认识权威 |
 > | [[Argument_Jovchevski_2026_PT\|Rosbach et al. (2025; cited in Jovchevski et al., 2026)]] | 28 名计算病理学医生 | 人工智能辅助肿瘤细胞占比（Tumor-Cell Percentages, TCP）估算，设时间压力条件 | 冲突咨询中专家顺从错误系统建议（改对为错）的案例频数 | 在 560 次评估中发生 67 次冲突决策；其中 38 次为专家原本正确但改从错误系统提示 | 原文报告频数 | 证实高阶专业人士在面对显微切片明确证据时依然会发生强自动化偏差 |
 > | [[Argument_Jovchevski_2026_PT\|Mosier et al. (1998; cited in Jovchevski et al., 2026)]] | 航线执飞飞行员模拟舱测试 | 高保真飞行模拟实验 | 出现虚假仪表指示时关闭健康引擎的执行错误率 | 即使仪表盘其他多处物理参数均显示正常，绝大多数飞行员依然顺从计算机虚假指示执行了关车动作 | $p < .001$ | 奠定高技术驾驶舱中警觉性替代与执行错误的基础实证证据 |
 

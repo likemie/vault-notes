@@ -7,7 +7,7 @@ aliases:
 summary: "兼具军事国防与民用商业应用潜力的前沿技术范式；在产业生命周期早期表现为国防研发与采购对民用创新的单向衍生溢出，随着民用市场规模反超与技术规范分化，逐渐演进为民用前沿向国防系统回哺的逆向溢出。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - region/us
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Epistemic Infrastructure]]"
   - "[[Technology Transfer]]"
   - "[[Total Factor Productivity]]"
   - "[[General Purpose Technology]]"
@@ -41,13 +42,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Dual-Use Technology
-> 军民两用技术（Dual-Use Technology）是指既具备军事实战与国防安全应用价值，又具备广泛民用工业与商业市场潜力的基础或应用型前沿技术[[Paradigm|范式]]。该概念强调技术知识在军民两大部门间的渗透与流动机制：在产业萌芽与成长初期，军民技术规范高度重叠，国防研发投资与先导采购通过知识基础设施构建、技术衍生（Spinoff）及规模学习效应强力催化民用产业诞生；而当民用商业市场规模反超军用需求后，军民技术要求分化，技术前沿由民用部门主导，演进为由民向军的“逆向技术溢出”（Reverse Spillovers）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–31, 41)]]
+> 军民两用技术（Dual-Use Technology）是指既具备军事实战与国防安全应用价值，又具备广泛民用工业与商业市场潜力的基础或应用型前沿技术[[Paradigm|范式]]。该概念强调技术知识在军民两大部门间的渗透与流动机制：在产业萌芽与成长初期，军民技术规范高度重叠，国防研发投资与先导采购通过[[Epistemic Infrastructure|知识基础设施]]构建、技术衍生（Spinoff）及规模学习效应强力催化民用产业诞生；而当民用商业市场规模反超军用需求后，军民技术要求分化，技术前沿由民用部门主导，演进为由民向军的“逆向技术溢出”（Reverse Spillovers）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–31, 41)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向能够跨越军事实体装备与民用商业产品两套截然不同的需求规制体系，实现双向或单向[[Technology Transfer|技术转移]]的共性知识与工艺。
@@ -94,20 +95,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　军民两用技术在产业萌芽期通过知识基础设施构建、技术衍生与先导采购驱动民用部门爆发式增长
-
-> [!concept-lens] 萌芽期军向民的正向催化机制
-> 围绕冷战初期国防高强度公共投资如何通过三大制度中介渠道克服早期技术与市场不确定性展开。
+> [!concept-proposition] 命题一｜军民两用技术在产业萌芽期通过[[Epistemic Infrastructure|知识基础设施]]构建、技术衍生与先导采购驱动民用部门爆发式增长
+> **探讨维度　萌芽期军向民的正向催化机制** 围绕冷战初期国防高强度公共投资如何通过三大制度中介渠道克服早期技术与市场不确定性展开。
 
 > [!claim] Fabrizio & Mowery
 > **正向催化的三大制度渠道** 战后[[Department of Defense|美国国防部]]对军民两用技术的支持之所以能在半导体、计算机和互联网领域取得空前成功，核心在于其在产业生命周期的萌芽阶段介入，通过三大机制发挥了制度杠杆作用：一是通过巨额基础科研合同支撑大学建立跨学科科研基础设施，培育高层次青年科学家；二是军品先导研制直接释放出面向民用市场的技术原型衍生；三是通过大额先导采购与第二货源强制技术共享，帮助企业跨越早期良率瓶颈，释放规模[[Learning by Doing|干中学]]效应，最终使民用商业芯片与软件价格实现断崖式下跌。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 30–34)]]
 
 ---
 
-### 命题二　随着商业市场成熟与军民需求分化，国防政策主导两用技术的效能发生生命周期衰减并出现逆向溢出
-
-> [!concept-lens] 成熟期军民分化与逆向流动机制
-> 探讨当民用商业市场规模占据支配地位后，国防部门试图强推专属技术标准为何频遭挫折。
+> [!concept-proposition] 命题二｜随着商业市场成熟与军民需求分化，国防政策主导两用技术的效能发生生命周期衰减并出现逆向溢出
+> **探讨维度　成熟期军民分化与逆向流动机制** 探讨当民用商业市场规模占据支配地位后，国防部门试图强推专属技术标准为何频遭挫折。
 
 > [!claim] Fabrizio & Mowery
 > **国防塑造力衰减与逆向技术溢出** 当微电子与软件产业进入成熟期后，民用商业市场规模彻底反超国防订单，军民技术指标出现严重分化（军品偏向特种耐恶劣环境的军规 milspec，而民品追求极低成本、通用算力与丰富开发者生态）。此时国防部自上而下试图主导[[Technological Trajectories|技术轨道]]的努力（如耗资近 9 亿美元的超高速集成电路 VHSIC 计划，以及强推通用 Ada 编程语言）均告受挫。两用技术流动方向发生根本性逆转，国防装备转而深度依赖民用商业前沿技术的“逆向溢出”（Reverse Spillovers）。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 34, 37–38, 41)]]

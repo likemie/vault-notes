@@ -9,7 +9,7 @@ aliases:
 summary: "战后发展中国家通过关税与外汇保护扶持本土工业体系的宏观发展模式；在教育领域诱发了拉美1960年代中高等教育超常规大扩张，但因其依附性与精英偏向，导致基础初等识字停滞与结构性倒金字塔断裂"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,6 +37,7 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Accounts]]"
+  - "[[Effect Size]]"
 related_persons:
   - "[[Liliana Esther Olmos]]"
   - "[[Carlos Alberto Torres]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -112,20 +113,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　进口替代工业化诱发了精英偏向的倒金字塔式教育大扩张
-
-> [!concept-lens] 积累体制对教育层级扩张的非均衡塑造
-> 探讨内向型保护主义工业化如何改变国家教育资源的分配优先级，导致中高等教育过度膨胀与基础教育严重欠账。
+> [!concept-proposition] 命题一｜进口替代工业化诱发了精英偏向的倒金字塔式教育大扩张
+> **探讨维度　积累体制对教育层级扩张的非均衡塑造** 探讨内向型保护主义工业化如何改变国家教育资源的分配优先级，导致中高等教育过度膨胀与基础教育严重欠账。
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
 > **工业化早期的教育扩张悖论** 在 20 世纪 60 年代拉美实施进口替代工业化初期，拉美各国为了满足本土工业化对于技术官僚和专业管理人才的急迫需求，集中举国公共财政向公立大学和学术型中学倾斜。这导致拉美高等教育与中等教育以年均创世界纪录的速度狂飙突进（1960–1970 年间增长率分别高达 247.9% 与 258.3%），而初等大众教育与成人基础识字却长期被漠视，文盲率居高不下。这场教育大扩张不仅没有兑现自由主义者许诺的社会平等与阶级流动，反而将公共财政变成了城市精英锁闭阶层优势的合法化工具。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
 
 ---
 
-### 命题二　外围资本主义的依附性危机终结了国家主导的教育扩张模式
-
-> [!concept-lens] 财政危机与全球积累[[Paradigm|范式]]转移
-> 探讨依附性经济结构内生的国际收支危机如何瓦解进口替代模式，迫使国家从公共教育供给全面后撤。
+> [!concept-proposition] 命题二｜外围资本主义的依附性危机终结了国家主导的教育扩张模式
+> **探讨维度　财政危机与全球积累[[Paradigm|范式]]转移** 探讨依附性经济结构内生的国际收支危机如何瓦解进口替代模式，迫使国家从公共教育供给全面后撤。
 
 > [!claim] Olmos, L. E. & Torres, C. A.
 > **进口替代破产与[[Conditioned State Theory|受限国家]]的新自由主义转型** 进口替代工业化并未真正摆脱对核心帝国主义国家的依附：外围国家为了制造消费品，必须从西方进口昂贵的高端技术设备和资本品，导致结构性外汇短缺与高额主权外债累积。当 1970 年代末全球资本积累转向[[Post-Fordism|后福特主义]]灵活积累并引发 1980 年代[[Latin American Debt Crisis of 1982|拉美债务危机]]时，拉美国家陷入严峻的财政断裂。在[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]的紧缩施压下，国家丧失了维系公共教育投资的财政主权（沦为[[Conditioned State Theory|受限国家]]），进口替代时期的国家全面供给模式彻底解体，教育系统随即被迫滑入削减预算、使用者付费与全面市场化私有化的轨道。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–83)]]
@@ -159,7 +156,7 @@ updated: 2026-10-25
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |

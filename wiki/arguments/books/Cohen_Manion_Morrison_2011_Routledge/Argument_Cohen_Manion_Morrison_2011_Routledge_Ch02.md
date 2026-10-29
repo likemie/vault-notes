@@ -11,9 +11,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02"
 argument_display_title: "Research Methods in Education · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 78
-argument_related_level: 7
-argument_related_stars: "💎💎⭐"
+argument_related_count: 80
+argument_related_level: 8
+argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 book_title: "Research Methods in Education"
 publisher: "Routledge"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
+  - "[[Collaborative Learning]]"
   - "[[Source of Knowledge]]"
   - "[[Fitness for Purpose]]"
   - "[[Research Topic]]"
@@ -67,6 +68,7 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Reliability]]"
   - "[[Consequential Validity]]"
+  - "[[Self Explanation]]"
   - "[[Research Literacy]]"
   - "[[Commensuration]]"
 related_theories:
@@ -115,7 +117,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-16
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 > [!logic-map]- 第2章总体论证结构
 > ```mermaid
@@ -255,7 +257,7 @@ updated: 2026-10-22
 
 [[Ideology Critique|意识形态批判]]的任务是揭示既得利益的运作，向参与者揭示他们可能在无意识地维持着一个要么使他们有权、要么使他们无权的系统（Geuss, 1981）。**对情境的解释可能不是参与者自己接受的那些自然的、理所当然的解释（p.65）**。
 
-#### 哈贝马斯的四阶段反思实践
+> [!sub-claim] 哈贝马斯的四阶段反思实践
 
 哈贝马斯（1972, p. 230）将意识形态批判[[Operationalization|操作化]]为四个阶段（pp.91–100）：
 
@@ -274,7 +276,7 @@ updated: 2026-10-22
 
 意识形态批判在此既有反思的、理论的一面，也有实践的一面。关键引述：**没有反思，批判是空洞的；没有实践，批判是空虚的（p.101）**。
 
-#### 行动研究作为批判理论的实践表达
+> [!sub-claim] 行动研究作为批判理论的实践表达
 
 > [!chain-link] 从意识形态批判到[[Action Research\|行动研究]]
 > **起点** 意识形态不只是理论，它直接影响实践（Eagleton, 1991）。
@@ -316,7 +318,7 @@ updated: 2026-10-22
 > [!claim] 课程不是中立的最佳知识集合，而是意识形态选择
 > 长期以来课程最令人满意的解释被认为来自现代主义、实证主义的解读。其经典表达是 Tyler（1949）的四问原理。但这一原理将课程视为受控的、有序的、预定的和可预测的，**所有这些都是批判理论所反对的实证主义心态元素**。更根本地，课程只包含了可能知识中的一部分，而**选择哪部分知识的辩护过程，揭示了社会中的意识形态和权力决策（pp.121–137）**。
 
-#### Tyler 原理及其批判
+> [!sub-claim] Tyler 原理及其批判
 
 Tyler（1949）的课程四问原理如下：
 
@@ -345,7 +347,7 @@ Tyler（1949）的课程四问原理如下：
 
 **知识不中立**（如现代主义课程中隐含的观点）。**课程是意识形态上可争议的地带（p.137）**。
 
-#### 哈贝马斯三种兴趣在课程中的应用
+> [!sub-claim] 哈贝马斯三种兴趣在课程中的应用
 
 哈贝马斯的三种兴趣为解读课程提供了系统工具（pp.141–143）：
 
@@ -410,7 +412,7 @@ Tyler（1949）的课程四问原理如下：
 > - 实施行动并评估效果
 > - 反思并持续改进
 
-#### Hall 的六条 PR 原则
+> [!sub-claim] Hall 的六条 PR 原则
 
 Hall（2005, pp. 17–19）提出的六条原则完整地表述了 PR 的[[Axiology|价值论]]和方法论基础（pp.175–189）：
 
@@ -450,7 +452,7 @@ BRYCESON et al.（2005, p. 183）将 PR 概括为**三管齐下的活动** 社�
 > | **家庭主义** | familism | 将家庭而非个体作为[[Unit of Analysis\|分析单位]]，遮蔽女性个体的独立经验 |
 > | **性别二分法** | sexual dichotomism | 将性别视为截然不同的社会群体而忽视其共性 |
 
-#### Usher 的七项女性主义研究原则
+> [!sub-claim] Usher 的七项女性主义研究原则
 
 > [!frames-ref] Usher（1996）的七项原则（pp.208–222）
 > 1. **承认性别作为分析类别和组织类别的普遍影响** 性别不仅是一个变量，而是塑造研究全过程的结构性因素。
@@ -461,7 +463,7 @@ BRYCESON et al.（2005, p. 183）将 PR 概括为**三管齐下的活动** 社�
 > 6. **研究者和被研究者的共同参与** 打破研究者与被研究者的等级关系。
 > 7. **解构理论/实践关系** 研究不仅要产生知识，更要改变处境。
 
-#### 女性主义研究方法论的核心原则
+> [!sub-claim] 女性主义研究方法论的核心原则
 
 Denzin（1989）、Mies（1993）、Haig（1999）和 De Laine（2000）提出了系统的女性主义研究方法论原则（pp.337–371）：
 
@@ -477,14 +479,14 @@ Denzin（1989）、Mies（1993）、Haig（1999）和 De Laine（2000）提出�
 > - **情感和感受是研究的组成部分** 不应在客观性的名义下被排除出研究（Edwards & Mauthner, 2002, p. 19）。
 > - **研究是政治活动，带有政治议程** 知识为……（knowledge for）以及知识什么（knowledge what）（Ezzy, 2002, p. 47）。
 
-#### Webb 等的女性主义教学法六项原则
+> [!sub-claim] Webb 等的女性主义教学法六项原则
 
 Webb et al.（2004）将女性主义原则应用于研究方法论的教学情境（pp.323–336）：
 
 > [!frames-ref] Webb et al.（2004）的女性主义教学法六项原则
 > 1. **重构教授–学生关系** 从等级走向平等和共享。
 > 2. **赋权** 为了参与式民主，而非仅仅完成教学任务。
-> 3. **建立社区** 通过协作学习，打破竞争性个人主义。
+> 3. **建立社区** 通过[[Collaborative Learning|协作学习]]，打破竞争性个人主义。
 > 4. **赋予个体声音特权** 不仅仅是讲师的，学生的经验和方法论直觉是合法的[[Source of Knowledge\|知识来源]]。
 > 5. **尊重个人经验的多样性** 根植于性别、种族、族裔、阶级、性取向等。
 > 6. **挑战传统观点** 如知识社会学中关于谁有资格生产知识的预设。
@@ -543,7 +545,7 @@ Webb et al.（2004）将女性主义原则应用于研究方法论的教学情�
 > | **[[Purpose Statement\|研究目的]]** | 发现普遍法则；解释、预测和控制 | 理解主观意义；诠释社会世界的复杂性 | 揭露权力运作；赋权被压迫者；改变社会走向平等与民主 |
 > | **权力观** | 权力不被视为分析类别 | 关注参与者主观视角中的权力体验 | 权力是分析的核心——揭示谁受益、谁被压制、如何改变 |
 > | **合法性标准** | 信度、效度、可复制性、[[External Validity\|可推广性]] | 可[[Reliability\|信度]]、可转移性、确认性、厚描述 | 变革效果（[[Consequential Validity\|结果效度]]）、赋权程度、利益分析的穿透力 |
-> | **局限** | 忽视自我解释能力、忽视能动性；实验室发现琐碎化 | 微观封闭风险、忽视权力结构；主观报告可能不可靠 | 批判与解放的因果链未经验证；理论可能停留在思辨；自身无法避免意识形态立场 |
+> | **局限** | 忽视[[Self Explanation\|自我解释]]能力、忽视能动性；实验室发现琐碎化 | 微观封闭风险、忽视权力结构；主观报告可能不可靠 | 批判与解放的因果链未经验证；理论可能停留在思辨；自身无法避免意识形态立场 |
 > | **典型方法** | [[Randomised Controlled Trials\|随机对照试验]]、调查、[[Causal Modeling\|结构方程建模]] | 深度访谈、参与观察、叙事分析、[[Grounded Theory\|扎根理论]] | 意识形态批判、参与式行动研究、女性主义/[[Critical Ethnography\|批判民族志]] |
 > | **教育研究实例** | 测量"教师反馈对学生成绩的[[Effect Size\|效应量]]" | 理解"教师和学生如何体验课堂互动" | 追问"课程大纲服务于谁的利益，如何改变它" |
 

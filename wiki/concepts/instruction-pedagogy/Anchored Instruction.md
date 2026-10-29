@@ -7,7 +7,7 @@ aliases:
 summary: "由范德堡大学 CTGV 开发的经典情境教学范式，通过富含嵌入式数据的情节性宏观情境故事作为认知锚点，引导学生自主识别子问题并进行多步因果探究"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 13
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,11 +19,14 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Authentic Instruction]]"
   - "[[Open-Mindedness]]"
+  - "[[Worked Examples]]"
   - "[[Problem-Based Learning]]"
   - "[[Wicked Problem]]"
   - "[[Learner Autonomy]]"
   - "[[Grand Challenges]]"
   - "[[Critical Thinking]]"
+  - "[[Variable]]"
+  - "[[Dependent Variable]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Scaffolding]]"
 related_theories:
@@ -38,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -54,7 +57,7 @@ updated: 2026-10-25
 ---
 
 > [!contrast-table] 抛锚式教学与传统例题教学及 PBL 辨析
-> | 维度 | 抛锚式教学（Anchored Instruction） | 传统例题示范（Worked Examples） | [[Problem-Based Learning\|问题本位学习（PBL）]] |
+> | 维度 | 抛锚式教学（Anchored Instruction） | 传统例题示范（[[Worked Examples]]） | [[Problem-Based Learning\|问题本位学习（PBL）]] |
 > |---|---|---|---|
 > | **情境载体** | 叙事性、多媒体宏观情境故事（“锚”） | 孤立、抽象的良构文字题 | 开放、跨学科的现实生活/专业[[Wicked Problem\|劣构问题]] |
 > | **数据呈现** | 隐蔽嵌入故事中，需自主筛选与提取 | 题目直接给出全部已知条件 | 学生需自主通过多元外部渠道检索信息 |
@@ -73,10 +76,8 @@ updated: 2026-10-25
 
 ## 围绕概念形成的命题
 
-### 命题一　宏观情境锚定能够显著降低复杂抽象推理的认知阻力
-
-> [!concept-lens] [[Situative Perspective\|情境认知]]与探究驱动机制
-> 探讨锚点设计如何促进深度学习。
+> [!concept-proposition] 命题一｜宏观情境锚定能够显著降低复杂抽象推理的认知阻力
+> **探讨维度　[[Situative Perspective\|情境认知]]与探究驱动机制** 探讨锚点设计如何促进深度学习。
 
 > [!claim] Abrami, P. C., et al.; CTGV
 > **[[Authentic Instruction\|真实性教学]]的示范基石** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 明确将范德堡 CTGV 的抛锚式教学列为真实性教学范畴的代表性[[Paradigm\|范式]]。[[Meta-analysis\|元分析]]与干预实证表明，通过将抽象概念“锚定”在具有现实挑战性的连续情境中，学生不仅掌握了跨学科知识，更在经历多步决策与数据验证的过程中稳定发展了[[Critical Thinking\|批判性思维]]技能与审慎反思倾向。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286–287)]]
@@ -88,9 +89,9 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量 | 真实性教学整体干预维度 | Hedges' $g$ | k = 96 | <span class="mx-bar ef-bar" title="Hedges' g 0.34"><span class="b7"></span></span>0.34 | [0.24, 0.44] | $Q_b(1) = 4.07, p = .044$ |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | [[Dependent Variable\|结果变量]] | 真实性教学整体干预维度 | Hedges' $g$ | k = 96 | <span class="mx-bar ef-bar" title="Hedges' g 0.34"><span class="b7"></span></span>0.34 | [0.24, 0.44] | $Q_b(1) = 4.07, p = .044$ |
 >
 > - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 结果变量** 纳入真实验与准实验；证实情境锚定与应用解题对[[Higher-Order Thinking Skills\|高阶思维]]的显著赋能
 

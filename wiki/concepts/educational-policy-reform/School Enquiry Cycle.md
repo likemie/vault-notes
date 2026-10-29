@@ -12,7 +12,7 @@ aliases:
 summary: "由Brown et al. 提出的证据知情学校改进模型，将校内基于数据的决策（DBDM）与校外研究知情教学实践（RITP）整合为八步探究闭环；并在证据知情学校系统中确立为防止活动陷阱、依托专业学习共同体检验干预成效的关键迭代引擎。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Professional Learning Community]]"
   - "[[Technical Rationality]]"
   - "[[Engagement in and with Research]]"
+  - "[[Document]]"
   - "[[Academic Achievement]]"
   - "[[Phronesis]]"
   - "[[Reliability]]"
@@ -74,7 +75,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-10-22
 
 > [!boundary]- 概念边界
 > - 不等于单纯的 [[Data-Based Decision Making\|基于数据的决策]]（DBDM） — DBDM 侧重利用校内测试数据发现学情差距，但本身不提供经过验证的教学干预方案；学校探究循环将 DBDM 作为诊断起点，随后主动引入外部学术实证。
-> - 不等于脱离校情的 [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP） — 孤立的 RITP 容易盲目套用学术文献；学校探究循环要求研究方案必须针对校本数据诊断出的特定问题进行情境化转译与课堂验证。
+> - 不等于脱离校情的 [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP） — 孤立的 RITP 容易盲目套用学术[[Document|文献]]；学校探究循环要求研究方案必须针对校本数据诊断出的特定问题进行情境化转译与课堂验证。
 > - 不等于传统的经验型[[Action Research\|行动研究]] — 传统行动研究多依赖教师个人经验直觉与小样本质性反思；学校探究循环强调量化与质性数据的[[Triangulation\|三角验证]]以及外部高质量学术证据的系统输入。
 
 ---
@@ -150,40 +151,32 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　基于数据的诊断与基于研究的干预在学校探究循环中形成互补闭环
-
-> [!concept-lens] 诊断力与干预力的结构性互补
-> 数据能指出“哪里出了问题”，研究能提供“如何解决问题”，二者唯有在[[Inquiry Cycle\|探究循环]]中融合才能产生实质教学效益。
+> [!concept-proposition] 命题一｜基于数据的诊断与基于研究的干预在学校[[Inquiry Cycle|探究循环]]中形成互补闭环
+> **探讨维度　诊断力与干预力的结构性互补** 数据能指出“哪里出了问题”，研究能提供“如何解决问题”，二者唯有在[[Inquiry Cycle\|探究循环]]中融合才能产生实质教学效益。
 
 > [!claim] [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
-> **双轮驱动与有效改进闭环** 长期以来，学校改进面临两大孤立陷阱：一方面，单纯推行 [[Data-Based Decision Making\|DBDM]] 的学校沉迷于制作成绩报表与差距分析，但由于缺乏对外部[[Effective Teaching\|有效教学]]规律的了解，教师往往只能靠拍脑袋提出干预措施；另一方面，孤立推行 [[Research-Informed Teaching Practice\|RITP]] 的学校研读大量理论文献，却因未精准锚定本校真实学情而沦为盲目套用。学校探究循环确立了内部数据与外部研究的协同机制：以校本数据为问题靶向，以学术实证为干预武器，使数据诊断与科学干预在同一工作流中形成严密的逻辑闭环。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 154–156, 165–167)]]
+> **双轮驱动与有效改进闭环** 长期以来，学校改进面临两大孤立陷阱：一方面，单纯推行 [[Data-Based Decision Making\|DBDM]] 的学校沉迷于制作成绩报表与差距分析，但由于缺乏对外部[[Effective Teaching\|有效教学]]规律的了解，教师往往只能靠拍脑袋提出干预措施；另一方面，孤立推行 [[Research-Informed Teaching Practice\|RITP]] 的学校研读大量理论[[Document|文献]]，却因未精准锚定本校真实学情而沦为盲目套用。学校探究循环确立了内部数据与外部研究的协同机制：以校本数据为问题靶向，以学术实证为干预武器，使数据诊断与科学干预在同一工作流中形成严密的逻辑闭环。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 154–156, 165–167)]]
 
 ---
 
-### 命题二　学校探究循环的有效运转高度依赖中层领导构建的协作探究文化
-
-> [!concept-lens] 中介领导力与[[Professional Learning Community\|专业学习共同体]]的组织赋能
-> 探究循环无法靠普通教师自发完成，需要中层领导搭建制度化[[Scaffolding\|脚手架]]与心理安全环境。
+> [!concept-proposition] 命题二｜学校探究循环的有效运转高度依赖中层领导构建的协作探究文化
+> **探讨维度　中介领导力与[[Professional Learning Community\|专业学习共同体]]的组织赋能** 探究循环无法靠普通教师自发完成，需要中层领导搭建制度化[[Scaffolding\|脚手架]]与心理安全环境。
 
 > [!claim] Danielle LaPointe-McEwan et al. (2017) / [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
 > **中层领导作为探究催化者** 学校探究循环的推行门槛较高，涉及数据解读、文献批判与教学试验等多重素养。中层领导（如年级组长、教研室主任、教学指导员）是激活探究循环的关键枢纽。他们一方面担任[[Boundary Spanner\|跨界中介者]]，为一线教师提供文献筛选与数据分析的专业支持；另一方面建立定期研讨制度与容错机制，将教师从单兵作战的孤岛状态转变为彼此信赖的探究共同体。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 129–130)]]
 
 ---
 
-### 命题三　探究循环中的情境化转译必须由教师专业判断统领以防止技术化异化
-
-> [!concept-lens] 抵御照搬脚本与捍卫情境敏感性
-> 研究证据不能直接作为操作指令，必须经过教师专业审议的情境化过滤。
+> [!concept-proposition] 命题三｜探究循环中的情境化转译必须由教师[[Professional Judgment|专业判断]]统领以防止技术化异化
+> **探讨维度　抵御照搬脚本与捍卫情境敏感性** 研究证据不能直接作为操作指令，必须经过教师专业审议的情境化过滤。
 
 > [!claim] Jonathan Sharples (2013) / [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
 > **专业审议作为转译核心** 学校探究循环决非机械照搬研究结论的执行程序。外部[[Experimental Research\|实验研究]]所验证的干预措施只代表统计意义上的概率性规律，并不自动适用于所有班级。在探究循环的情境化设计阶段，教师必须结合班级师生特质、课程进度与文化背景，对研究方案的适用边界、干预强度与实施方式进行审慎权衡与二次开发，确保教学行动兼具科学严谨性与情境生命力。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 165–167)]]
 
 ---
 
-### 命题四　探究循环的成效评价环节是防范活动陷阱与保障持续改进的制度命门
-
-> [!concept-lens] 评价闭环机制与抵御[[Activity Traps\|活动陷阱]]
-> 若探究循环缺乏严格的成效评价协议，频繁的教学尝试将不可避免地退化为忙碌而无效的“活动陷阱”。
+> [!concept-proposition] 命题四｜探究循环的成效评价环节是防范[[Activity Traps|活动陷阱]]与保障持续改进的制度命门
+> **探讨维度　评价闭环机制与抵御[[Activity Traps\|活动陷阱]]** 若探究循环缺乏严格的成效评价协议，频繁的教学尝试将不可避免地退化为忙碌而无效的“活动陷阱”。
 
 > [!claim] [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]; Datnow, A. & Hubbard, L.; Taylor, C. & Spence-Thomas, K.
 > **评价断裂与持续改进危机** 探究循环的核心价值在于通过终点阶段的严格成效评价，决定一项新型教学干预是被深化微调、全面铺开还是坚决终止。然而实证调查表明，学校在探究前端展现出极高热情，但在最关键的“评价新举措对学生学习与体验的实质影响”（Evaluation Stage）时却出现明显的制度性断裂（基线调查中仅 67% 的教师确认学校具备正式评价流程，显著低于其他环节）。若教师不严格评估教学变动对学生真实产出的影响，整个持续改进循环就会失控，极易沦为只注重开会和尝试新方法、却缺乏因果反馈机制的[[Activity Traps\|活动陷阱]]。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 130, 132)]]

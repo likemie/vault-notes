@@ -32,11 +32,11 @@ related_concepts:
   - "[[Epistemic Value]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Selective Affinity]]"
+  - "[[Categorical Funding]]"
   - "[[Politicity of Education]]"
   - "[[Heterogeneity]]"
   - "[[Market Fundamentalism]]"
   - "[[Educational Privatisation]]"
-  - "[[Categorical Funding]]"
   - "[[Washington Consensus]]"
   - "[[Development Education]]"
   - "[[Technical Rationality]]"
@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -121,30 +121,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　跨国金融机构通过信贷附加条件与定向委托研究深度绑定以垄断国际教育政策议程
-
-> [!concept-lens] 资本-智识合流维度
-> 探讨国际多边金融组织如何超越纯粹的资金中介角色，通过定向经费委托与[[Policy Conditionalities|政策附加条件]]的双重锁链，将发展中国家的主权教育规划纳入跨国新自由主义轨道。
+> [!concept-proposition] 命题一｜跨国金融机构通过信贷附加条件与定向[[Categorical Funding|委托研究]]深度绑定以垄断[[International Education|国际教育]]政策议程
+> **探讨维度　资本-智识合流维度** 探讨国际多边金融组织如何超越纯粹的资金中介角色，通过定向经费委托与[[Policy Conditionalities|政策附加条件]]的双重锁链，将发展中国家的主权教育规划纳入跨国新自由主义轨道。
 
 > [!claim] [[Joel Samoff|Samoff, J.]]
 > **智力垄断与信贷合流** [[World Bank|世界银行]]是追求知识与专业技能跨国化的金融-智识复合体核心枢纽，其利用庞大信贷预算招揽受雇专家共同体，使科研课题紧紧依附于贷款审批逻辑。这种合流剥夺了第三世界借贷国独立探索教育发展模式的自主空间，使[[International Education|国际教育]]援助沦为主权债务规训的延伸机制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 ---
 
-### 命题二　技术官僚的工具理性将政治历史性的教育政策诉求过滤为去政治化的量化投入产出分析
-
-> [!concept-lens] 方法论规训维度
-> 探讨该复合体如何通过限定研究方法与评价指标的合法性门槛，系统性消解[[Politicity of Education|教育的政治性]]与阶级矛盾。
+> [!concept-proposition] 命题二｜技术官僚的工具理性将政治历史性的教育政策诉求过滤为去政治化的量化投入产出分析
+> **探讨维度　方法论规训维度** 探讨该复合体如何通过限定研究方法与评价指标的合法性门槛，系统性消解[[Politicity of Education|教育的政治性]]与阶级矛盾。
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
 > **去政治化技术规训** 世界银行通过其雄厚的资金实力与广泛的业务网络，将[[Cost-Benefit Analysis|成本效益分析]]、投入产出分析以及教育收益率测算确立为唯一正当的学术规程。这种技术官僚式的工具理性故意无视[[Conditioned State Theory|受限国家]]的历史殖民遗产与阶级支配现实，将深刻的社会不平等与教育公平问题偷换为单纯的要素配置效率问题，为紧缩政策提供伪中立的科学掩护。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 ---
 
-### 命题三　贷款部门的单一化市场逻辑压制了内部研究人员的理论多元性并与跨国资本集团形成选择性亲和
-
-> [!concept-lens] 组织单一体与跨国利益亲和维度
-> 探讨多边金融机构在微观研究层面的学术[[Heterogeneity|异质性]]为何在宏观政策输出时坍缩为单一的[[Market Fundamentalism|市场原教旨主义]]处方。
+> [!concept-proposition] 命题三｜贷款部门的单一化市场逻辑压制了内部研究人员的理论多元性并与跨国资本集团形成[[Selective Affinity|选择性亲和]]
+> **探讨维度　组织单一体与跨国利益亲和维度** 探讨多边金融机构在微观研究层面的学术[[Heterogeneity|异质性]]为何在宏观政策输出时坍缩为单一的[[Market Fundamentalism|市场原教旨主义]]处方。
 
 > [!claim] [[Daniel Schugurensky|Schugurensky, D.]]
 > **跨国商业圆桌角色** 世界银行在国际高等教育重组中扮演的角色，与[[Business Roundtable|美国商业圆桌会]]议在国内推动企业化教育改革的职能高度吻合。尽管世行下属研究人员存在一定的学术流派差异，但负责贷款发放的高级官僚在实践中坚决推行单一化的市场规训逻辑，使世行政策建议与跨国垄断资本要求削减公共开支、推动[[Educational Privatisation|教育私有化]]的新自由主义议程展现出强烈的[[Selective Affinity|选择性亲和]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 81)]]

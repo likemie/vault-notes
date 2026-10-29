@@ -8,7 +8,7 @@ aliases:
 summary: "Carl Schmitt 的主权理论，主权者的本质不在于制定规则而在于决定例外状态，即谁有权在紧急状态下悬置法律"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Discourse]]"
   - "[[Psychologisation]]"
+  - "[[Paradigm]]"
   - "[[General Education]]"
   - "[[Social-Emotional Learning]]"
   - "[[One Country, Two Systems]]"
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -95,10 +96,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　施米特式主权观通过无限延伸国家安全范畴，在日常治理与教育中确立例外状态的绝对至上性
-
-> [!concept-lens] 危机政治化机制
-> 探析主权者如何通过在[[Discourse|话语]]和制度上将“国家安全”泛化，从而为在学校课程和教育自主权上行使暂停与干预提供合法根据。
+> [!concept-proposition] 命题一｜施米特式主权观通过无限延伸国家安全范畴，在日常治理与教育中确立例外状态的绝对至上性
+> **探讨维度　危机政治化机制** 探析主权者如何通过在[[Discourse|话语]]和制度上将“国家安全”泛化，从而为在学校课程和教育自主权上行使暂停与干预提供合法根据。
 
 > [!claim] Vickers, 2024
 > **国家安全范畴的拉伸与教育规范的[[Epoché\|悬置]]**
@@ -108,10 +107,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　北京宪政学者将施米特决断论与福柯式情感规训相结合，构建了一种威权与心理化协同的复合治理范式
-
-> [!concept-lens] 治理合流机制
-> 剖析威权政权如何在使用强力主权决断悬置法治边界的同时，协同使用柔性的[[Psychologisation\|心理化]]学说抚慰社会不满，形成刚柔并济的双重统治技术。
+> [!concept-proposition] 命题二｜北京宪政学者将施米特决断论与福柯式情感规训相结合，构建了一种威权与[[Psychologisation|心理化]]协同的复合治理[[Paradigm|范式]]
+> **探讨维度　治理合流机制** 剖析威权政权如何在使用强力主权决断悬置法治边界的同时，协同使用柔性的[[Psychologisation\|心理化]]学说抚慰社会不满，形成刚柔并济的双重统治技术。
 
 > [!claim] Vickers, 2024
 > **[[Jiang Shigong\|强世功]]宪政决断论与微观情感规训的共谋**

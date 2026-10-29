@@ -8,7 +8,7 @@ aliases:
 summary: "20世纪下半叶兴起的激进教育批判思潮，主张废除制度化学校的垄断地位，倡导以学习网络与生活化非正式社群替代强制性学校规训"
 type: concept
 domain: "educational-philosophy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Learner Autonomy]]"
   - "[[New Public Management]]"
+  - "[[Flipped Classrooms]]"
   - "[[Creativity]]"
   - "[[Cultural Capital]]"
   - "[[Visible Learning]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-10-16'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -103,10 +104,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　现代学校制度是制造学业失败与异化社会阶层的机器而非解放途径
-
-> [!concept-lens] 制度异化批判维度
-> 聚焦于现代学校在功能上的自相矛盾：其表面标榜普及与启蒙，实质却通过科层化筛拔与[[Credential Inflation|文凭通胀]]剥夺社会大多数人的[[Self-Efficacy|自我效能感]]。
+> [!concept-proposition] 命题一｜现代学校制度是制造学业失败与异化社会阶层的机器而非解放途径
+> **探讨维度　制度异化批判维度** 聚焦于现代学校在功能上的自相矛盾：其表面标榜普及与启蒙，实质却通过科层化筛拔与[[Credential Inflation|文凭通胀]]剥夺社会大多数人的[[Self-Efficacy|自我效能感]]。
 
 > [!claim] Illich, I.
 > **学校垄断论** 现代学校构成了现代社会中最具压迫性的制度垄断之一。学校将学习强制定义为“购买学校服务”的消费过程，将文凭转化为社会排斥的合法凭证，导致未受正规学校教育的人被打上劣等标签，彻底扼杀了社会自发的互助学习机能。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 231)]]
@@ -116,10 +115,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　将教师由学科权威降格为活动协调员是去学校化逻辑向体制内教学论的渗透
-
-> [!concept-lens] 教师角色与专业认同维度
-> 探讨去学校化对“教师去专业化”的激进主张如何在当代主流教育改革及证据[[Discourse|话语]]中被非预期地挪用与包装。
+> [!concept-proposition] 命题二｜将教师由学科权威降格为活动协调员是去学校化逻辑向体制内教学论的渗透
+> **探讨维度　教师角色与专业认同维度** 探讨去学校化对“教师去专业化”的激进主张如何在当代主流教育改革及证据[[Discourse|话语]]中被非预期地挪用与包装。
 
 > [!claim] Golovchin, M. A.
 > **去专业化共振论** 现代[[Evidence-Based Education|循证教育]]学者（如[[John Hattie|约翰·哈蒂]]）将教师核心学科专业知识（$d=0.09$）与师范学历（$d=0.11$）判定为无足轻重的中低效应，力主教师转变为学业反馈与探究过程的“调节者/协调员”，这在本质上暗中借用了去学校化先驱关于“教师应在体制外非专业化工作”的激进逻辑。当这一逻辑被纳入政府改革（如俄罗斯 2016 年放宽非师范人员任教的职业标准）时，不仅无法实现伊里奇设想的自主解放，反而导致教师社会声望沦陷与严重的职业去专业化危机。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 240)]]
@@ -138,7 +135,7 @@ updated: 2026-10-22
 > - **1970 — 伊里奇发表《非学校化社会》（*Deschooling Society*）** 提出打破学校垄断、建立去中心化“伙伴网络”与技能交换中心，引发全球反建制教育震荡。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 231)]]
 > - **1970s–1980s — 霍尔特开创在家上学（Homeschooling）与[[Learner Autonomy|自主学习]]运动** 约翰·霍尔特出版《儿童如何失败》（*How Children Fail*）并创办《不成长于学校》杂志，将去学校化思潮转化为切实的在家上学与自然学习实践。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 231–232)]]
 > - **1980s–1990s — 边缘化与古典教学论复兴** 随着西方工业转型与[[New Public Management|新公共管理主义]]兴起，激进无政府主义色彩的去学校化思潮在官方教育政策中被边缘化，古典教学传统（如塞耶斯的《学习的失落工具》）重回主流。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 232)]]
-> - **2010s–至今 — 数字时代变体与政策[[Discourse|话语]]共振** 在互联网微课、生成式AI与翻转课堂大潮中，去学校化思潮借由“学校终结论”与“教师调节者”话语回潮，成为反思当代循证量化治理及教师去专业化风险的重要理论透镜。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 240)]]
+> - **2010s–至今 — 数字时代变体与政策[[Discourse|话语]]共振** 在互联网微课、生成式AI与[[Flipped Classrooms|翻转课堂]]大潮中，去学校化思潮借由“学校终结论”与“教师调节者”话语回潮，成为反思当代循证量化治理及教师去专业化风险的重要理论透镜。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 232, 240)]]
 
 ---
 

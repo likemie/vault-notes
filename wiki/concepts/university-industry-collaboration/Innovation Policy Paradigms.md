@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-27
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -139,40 +139,32 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　创新政策演化遵循认知盲区不断被识别与超越的累积演进逻辑
-
-> [!concept-lens] 累积演进与工具箱扩展
-> [[Paradigm|范式]]的迭代并非历史断裂，而是政策认知层级的逐次上升与工具箱的持续丰富。
+> [!concept-proposition] 命题一｜创新政策演化遵循认知盲区不断被识别与超越的累积演进逻辑
+> **探讨维度　累积演进与工具箱扩展** [[Paradigm|范式]]的迭代并非历史断裂，而是政策认知层级的逐次上升与工具箱的持续丰富。
 
 > [!claim] Ulrichsen, T. C.
 > **盲区超越与累积演进命题** 创新政策三范式的跃迁本质上是一部公共部门对创新复杂性认知不断深化的历史。范式一解决了科学供给问题但暴露了线性转化的盲区；范式二通过网络与制度协同解决了系统运转效率问题，却暴露了缺乏战略方向性与社会价值导向的盲区；范式三将方向性注入[[Systems of Innovation|创新系统]]，实现了从“要素支持”到“系统连接”再到“价值塑造”的完整理论闭环。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–35)]]
 
 ---
 
-### 命题二　从消极市场修补到主动市场塑造代表了公共干预哲学的根本跃迁
-
-> [!concept-lens] [[Market Shaping and Creating|市场塑造]]范式与[[Public Value|公共价值]]重塑
-> 范式一与范式三在公共部门的角色定位与正当性来源上存在根本对立。
+> [!concept-proposition] 命题二｜从消极市场修补到主动[[Market Shaping and Creating|市场塑造]]代表了公共干预哲学的根本跃迁
+> **探讨维度　[[Market Shaping and Creating|市场塑造]]范式与[[Public Value|公共价值]]重塑** 范式一与范式三在公共部门的角色定位与正当性来源上存在根本对立。
 
 > [!claim] Mazzucato, M.
 > **市场塑造跃迁命题** 传统范式一将国家视为消极的“市场修补者”（Market fixing），干预仅限于纠正外部性与降低企业研发成本；而范式三（[[Mission-Oriented Innovation Policy|使命导向创新政策]]）确立了国家作为“市场塑造与共创者”（Market shaping and creating）的主动角色。公共部门通过早期战略性前瞻投资承担颠覆性创新的极端不确定性，向全社会释放明确的发展预期，从而有效实现对私人资本后续跟进的战略“挤入”（Crowding in）。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–808)]]
 
 ---
 
-### 命题三　现代国家创新治理普遍采取三大范式工具组合共存的混合架构
-
-> [!concept-lens] 混合政策工具组合
-> 现实中的[[National Innovation System|国家创新体系]]并不孤立运行单一范式，而是呈现多范式工具的有机层叠。
+> [!concept-proposition] 命题三｜现代国家创新治理普遍采取三大范式工具组合共存的混合架构
+> **探讨维度　混合政策工具组合** 现实中的[[National Innovation System|国家创新体系]]并不孤立运行单一范式，而是呈现多范式工具的有机层叠。
 
 > [!claim] Lindner et al. & Ulrichsen
 > **混合政策组合命题** 在当代发达国家的科技创新体系中，三大范式以分层互补的形态共存运行。例如，美国同时维系着大规模的大学自由探索基础研究资助（范式一）、[[National Science Foundation|NSF]] [[University-Based Research Center|产学合作研究中心]]与[[Technology Transfer|技术转移]]网络（范式二），并依托《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act|CHIPS Act]]）[[NSF Regional Innovation Engines|区域创新引擎]]与 [[DARPA]]/[[ARPA-E]] 机制推进战略性使命攻坚（范式三要素）。政策制胜的关键在于根据具体创新阶段与社会目标，实现多范式工具箱的精细化组合与协同配置。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 43–44)]]
 
 ---
 
-### 命题四　范式演进驱动大学从孤立的知识生产者转变为社会转型的方向贡献者
-
-> [!concept-lens] 大学生态角色转型
-> 创新政策范式的变革深刻重构了高等教育与科研机构在国家创新系统中的生态位。
+> [!concept-proposition] 命题四｜范式演进驱动大学从孤立的[[Knowledge Production|知识生产]]者转变为社会转型的方向贡献者
+> **探讨维度　大学生态角色转型** 创新政策范式的变革深刻重构了高等教育与科研机构在国家创新系统中的生态位。
 
 > [!claim] Ulrichsen, T. C.
 > **大学生态位演进命题** 伴随政策范式从科学促增长向[[Transformative Change|变革转型]]演进，大学的功能定位经历了三重跃迁：从范式一中专注于向产业单向输出论文与毕业生的“[[Knowledge Production|知识生产]]者”，到范式二中主动参与产学共建与知识双向流动的“系统催化剂”，再到范式三中作为多方利益相关者的“中立召集者”、提供前瞻转型情报的“方向贡献者”以及共同设定公共优先事项的“使命塑造者”。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 34–35)]]

@@ -5,7 +5,7 @@ aliases:
 summary: "Knight 界定的分析概念，指通过高等教育、科学研究与创新合作建立国家间互信互惠关系，超越零和博弈以协同应对全球共同危机。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,13 +25,14 @@ related_concepts:
   - "[[Geopolitics]]"
   - "[[People-to-People Connectivity]]"
   - "[[Paradigm]]"
+  - "[[Discourse]]"
   - "[[Hard Power]]"
   - "[[Developmentalism]]"
   - "[[Outward-Oriented Internationalization]]"
   - "[[Normalization through Knowledge Cooperation]]"
+  - "[[Document]]"
   - "[[International Education]]"
   - "[[Engineering Education]]"
-  - "[[Discourse]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Operationalization]]"
 related_theories:
@@ -43,6 +44,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Jane Knight]]"
+  - "[[Rui Yang]]"
 related_facts:
   - "[[Confucius Institute]]"
   - "[[University Alliance of the Silk Road]]"
@@ -57,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -109,10 +111,8 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　知识外交提供超越地缘博弈的非零和国际合作范式
-
-> [!concept-lens] 合作[[Paradigm|范式]]的价值革新
-> 该命题探讨知识外交如何打破传统现实主义地缘竞争框架，为跨国高等教育交流确立以对等互惠为核心的全新合法性基础。
+> [!concept-proposition] 命题一｜知识外交提供超越地缘博弈的非零和国际合作[[Paradigm|范式]]
+> **探讨维度　合作[[Paradigm|范式]]的价值革新** 该命题探讨知识外交如何打破传统现实主义地缘竞争框架，为跨国高等教育交流确立以对等互惠为核心的全新合法性基础。
 
 > [!claim] [[Jane Knight|Knight, J.]]
 > **多边知识协作解构传统[[Soft Power|软实力]]的零和博弈** 跨境高等教育合作属于以互信互惠和共同应对全球挑战为导向的外交实践。传统的软实力视角将教育交流视为国家扩大单向文化影响力的竞争工具，而知识外交则强调所有参与主体在[[Knowledge Production|知识生产]]与经验互鉴中的对等获益，为多边教育交往提供了非零和的价值合法性。[[Argument_Yu_Xie_2025_JHE|(余婧然和谢爱磊, 2025, p. 11)]]
@@ -122,30 +122,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　官方政策话语容易将知识外交修辞转化为国家地缘战略工具
-
-> [!concept-lens] 政策工具化批判
-> 该命题聚焦国家政策实践对知识外交概念的策略性吸纳，揭示崇高理想叙事与国家[[Hard Power|硬实力]]诉求之间的现实张力。
+> [!concept-proposition] 命题二｜官方政策[[Discourse|话语]]容易将知识外交修辞转化为国家地缘战略工具
+> **探讨维度　政策工具化批判** 该命题聚焦国家政策实践对知识外交概念的策略性吸纳，揭示崇高理想叙事与国家[[Hard Power|硬实力]]诉求之间的现实张力。
 
 > [!claim] Woo, S.
 > **平等伙伴修辞遮蔽不对称依赖与硬实力依附** 主权国家在推动跨国高等教育战略时，倾向于在政策文本中广泛吸收知识外交所倡导的平等、包容与互利共赢叙事；然而在深层资源配置与权力运作中，此类多边合作往往深度依附于国家的经济硬实力与地缘诉求，容易演变为美化单向软实力渗透的修辞外衣。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684, 691–692)]]
 
 ---
 
-### 命题三　知识外交与知识权力在后西方秩序中呈现天下框架下的辩证共生
-
-> [!concept-lens] 超越二元对立的理论综合
-> 该命题旨在弥合[[Geopolitics|地缘政治]]竞争与[[Developmentalism|发展主义]]外交的二元割裂，探讨非西方新兴大国[[Outward-Oriented Internationalization|外向型国际化]]战略中的复合制度逻辑。
+> [!concept-proposition] 命题三｜知识外交与[[Knowledge Power|知识权力]]在后西方秩序中呈现天下框架下的辩证共生
+> **探讨维度　超越二元对立的理论综合** 该命题旨在弥合[[Geopolitics|地缘政治]]竞争与[[Developmentalism|发展主义]]外交的二元割裂，探讨非西方新兴大国[[Outward-Oriented Internationalization|外向型国际化]]战略中的复合制度逻辑。
 
 > [!claim] Chou, M.-H. and Demiryol, T.
-> **开放型外交与精英型权力共同促成[[Normalization through Knowledge Cooperation|网络中心性常态化]]** 主流文献将知识外交与[[Knowledge Power|知识权力]]割裂为发展主义与地缘政治的非此即彼对立，难以解释同一国家战略中两类联盟的长期并行。引入包容等级与平等的[[Tianxia Heuristic|天下启发式框架]]可以发现，开放包容的知识外交网络能够快速扩大连接广度，而排他精英的知识权力联盟则集中引领学术议程，二者辩证协同使新兴大国在全球学术网络中的核心地位实现常态化确立。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
+> **开放型外交与精英型权力共同促成[[Normalization through Knowledge Cooperation|网络中心性常态化]]** 主流[[Document|文献]]将知识外交与[[Knowledge Power|知识权力]]割裂为发展主义与地缘政治的非此即彼对立，难以解释同一国家战略中两类联盟的长期并行。引入包容等级与平等的[[Tianxia Heuristic|天下启发式框架]]可以发现，开放包容的知识外交网络能够快速扩大连接广度，而排他精英的知识权力联盟则集中引领学术议程，二者辩证协同使新兴大国在全球学术网络中的核心地位实现常态化确立。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1702–1705)]]
 
 ---
 
-### 命题四　政产学协同网络可在能力进路下实现长期经济自利与多边互惠的相容共生
-
-> [!concept-lens] 经济自利与多边互惠的共生逻辑
-> 该命题打破[[International Education|国际教育]]必须完全排除经济理性的理想化假定，论证跨国[[Engineering Education|工程教育]]如何兼顾国家海外产业利益与伙伴国自主发展权。
+> [!concept-proposition] 命题四｜政产学协同网络可在[[Capability Approach|能力进路]]下实现长期经济自利与多边互惠的相容共生
+> **探讨维度　经济自利与多边互惠的共生逻辑** 该命题打破[[International Education|国际教育]]必须完全排除经济理性的理想化假定，论证跨国[[Engineering Education|工程教育]]如何兼顾国家海外产业利益与伙伴国自主发展权。
 
 > [!claim] Liu et al.
 > **四方协同突破虚假对立并确立发展[[Capability Approach|能力进路]]** 国际高教合作能够兼容国家长远经济自利。通过政府、行业企业、高校与国际学生四方协同，定向培养关键基建与能源领域的本土技术骨干，既满足了海外产业布局与运营维护的经济理性，又依托阿马蒂亚·森的 [[Capability Approach|能力进路]] 理念有效填补了全球南方国家的基础设施赤字，展现了知识外交在微观工程实践中的互惠实效。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 193–195)]]
@@ -174,7 +168,7 @@ updated: 2026-10-22
 > - **2025 — 微观工程案例实证与政产学四方协同机制**
 >   刘伟（Wei Liu）等学者将简·奈特（Jane Knight）的知识外交五要素框架拓展至高校微观实证，系统呈现中亚油气、东南亚水电与非洲交通基建中校企协同的定向培养模式，确立了知识外交与国家长期经济利益的共生机制。[[Argument_Liu_2025_IndHE|(Liu et al., 2025, pp. 190–195)]]
 > - **2025 — 知识外交与[[Neo-Tributary Perspective|新朝贡视角]]的范式整合**
->   朱柯锦与杨锐（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）结合中柬跨境高等教育实证，主张将强调平等学术自主与跨国知识共享的知识外交，与揭示地缘现实中微观功利互动的新朝贡[[Analytic Framework|分析框架]]以及构想宏观共生秩序的[[Tianxia Heuristic|天下启发式]]深度融合，以破除自上而下行政主导导致的协议虚置困境，全面透视大国跨国高教战略的演进图景。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1052, 1054)]]
+>   朱柯锦与[[Rui Yang|杨锐]]（[[Argument_Zhu_Yang_2025_HE|Zhu & Yang, 2025]]）结合中柬跨境高等教育实证，主张将强调平等学术自主与跨国知识共享的知识外交，与揭示地缘现实中微观功利互动的新朝贡[[Analytic Framework|分析框架]]以及构想宏观共生秩序的[[Tianxia Heuristic|天下启发式]]深度融合，以破除自上而下行政主导导致的协议虚置困境，全面透视大国跨国高教战略的演进图景。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1052, 1054)]]
 
 ---
 

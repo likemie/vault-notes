@@ -6,10 +6,10 @@ aliases:
 summary: "由批判教育学与实用主义提出的三环节课程模型，主张主动学习必须由批判性思维、对话与指向变革不公的实践成长（Praxis）共同构成"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 48
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
 - theme/active-learning
 - field/educational-philosophy
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Problem Solving]]"
+  - "[[Lecturing]]"
   - "[[Scaffolding]]"
   - "[[Working Memory]]"
   - "[[Discovery Learning]]"
@@ -63,6 +64,7 @@ related_persons:
   - "[[Robert Slavin]]"
 related_facts:
   - "[[Success for All]]"
+  - "[[Skills Toward Employment and Productivity]]"
   - "[[Gaokao]]"
   - "[[Best Evidence Synthesis]]"
 related_arguments:
@@ -72,7 +74,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -84,13 +86,13 @@ updated: 2026-10-22
 
 > [!concept-lens] 概念透镜
 > - **含义** 拒绝将学生视作被动接收现成知识的“储蓄容器”，主张学生通过[[Problem Solving\|问题解决]]、对话协商与行动反思主动建构认知图式。
-> - **用途** 审查课程设计是否真正激发学生的认知与社会能动性，并作为评价传统讲授法与探究教学的分水岭。
+> - **用途** 审查课程设计是否真正激发学生的认知与社会能动性，并作为评价传统[[Lecturing|讲授法]]与探究教学的分水岭。
 > - **边界** 区别于无深层认知加工的形式化活动或纯粹放任自流；缺乏结构化[[Scaffolding\|脚手架]]与明确学科目标的主动活动容易导致[[Working Memory\|工作记忆]]超载与学习迷航。
 
 > [!citation-card] 主动学习的三维课程模型
 > 主动学习是一个由三个相互关联步骤组成的课程模型：促进批判性思维、参与对话，并最终指示成长与实践。它深深交织在约翰·杜威与保罗·弗莱雷的思想网络之中。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 1)]]
 >
-> *Active learning is a three interrelated-step model of curriculum: one which indicates growth, involves dialogue, and promotes critical thinking. It is a model intertwined in an intricate web of ideas borrowed from both John Dewey and Paulo Freire.*
+> *Active learning is a three interrelated-[[Skills Toward Employment and Productivity|step]] model of curriculum: one which indicates growth, involves dialogue, and promotes critical thinking. It is a model intertwined in an intricate web of ideas borrowed from both John Dewey and Paulo Freire.*
 
 > [!boundary]- 概念边界
 > - **不等于形式化动手操作（Hands-on without Minds-on）** 纯粹的动手动脚操作若缺乏深层概念冲突、逻辑推演与批判性对话，仍属于低阶被动体验。
@@ -131,20 +133,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　主动学习通过问题化对话与具身实践打破储蓄式教育的异化
-
-> [!concept-lens] [[Critical Pedagogy\|批判教育学]]与[[Pragmatic Paradigm\|实用主义]]的[[Epistemology\|认识论]]融合
-> 学习本质上是行动者在民主共同体中改造经验的社会性过程，被动接收会剥夺学生的批判意识与主体能动性。
+> [!concept-proposition] 命题一｜主动学习通过问题化对话与具身实践打破[[Banking Model of Education|储蓄式教育]]的异化
+> **探讨维度　[[Critical Pedagogy\|批判教育学]]与[[Pragmatic Paradigm\|实用主义]]的[[Epistemology\|认识论]]融合** 学习本质上是行动者在民主共同体中改造经验的社会性过程，被动接收会剥夺学生的批判意识与主体能动性。
 
 > [!claim] Dewey; Freire; Darwish
 > **[[Critical Thinking\|批判性思维]]、对话与实践生长的三位一体** 批判性思维并非孤立的认知技能，它必须依托[[John Dewey\|杜威]]式的“动手做（Doing）”项目与[[Paulo Freire\|弗莱雷]]式的“[[Problem-Posing Education\|提问式教育]]（Problem-Posing）”相融共生。通过在民主对话中揭露现实矛盾，学生从被动客体转化为主动探究者，实现[[Conscientization\|批判意识觉醒]]与个体生长的有机统一。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 1, 6–10)]]
 
 ---
 
-### 命题二　抽象的主动学习通用原则难以自发转化为课堂效能，必须依托具体循证方案实现落地
-
-> [!concept-lens] 政策转化壁垒与结构化载体
-> 探讨为何在政策层面高调倡导主动学习往往以课堂回退至传统讲授告终。
+> [!concept-proposition] 命题二｜抽象的主动学习通用原则难以自发转化为课堂效能，必须依托具体循证方案实现落地
+> **探讨维度　政策转化壁垒与结构化载体** 探讨为何在政策层面高调倡导主动学习往往以课堂回退至传统讲授告终。
 
 > [!claim] [[Robert Slavin\|Slavin, R.]] E.
 > **通用原则的转化困境与经验证方案的不可替代性** 教育改革长久以来陷入推广“主动学习”、“[[Cooperative Learning\|合作学习]]”等抽象通用原则的误区。由于缺乏成套的教材、测评工具与课堂组织细则，一线教师在日常备课中无法独自承受巨大的转化负担，遭遇挫折后迅速回退至最熟悉的传统单向讲授。唯有将主动学习机制内嵌于经过[[Randomised Controlled Trials\|随机对照试验]]（RCT）验证的具体课程方案（如 [[Cooperative Integrated Reading and Composition\|CIRC]]、[[Success for All\|SFA]]）中，才能真正实现大规模课堂质量的稳步提升。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]

@@ -24,7 +24,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!def] Hidden Curriculum
@@ -44,7 +44,7 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　课堂发言秩序可在学科学习同时传递权威关系
+> [!concept-proposition] 命题一｜课堂发言秩序可在学科学习同时传递权威关系
 
 > [!claim] [[Louis Cohen|Cohen, L.]], [[Lawrence Manion|Manion, L.]], & [[Keith Morrison|Morrison, K.]]
 > **互动规则的社会学习** 学生回答[[Knowledge Questions|知识问题]]时，也经历了教师指定发言、评价回答与转换议程的过程。教师主导的回合组织让谁能够发言、谁决定正确答案的权威关系得到反复实践。由会话规则推向隐性课程的解释，依赖这些互动模式持续出现，而不能仅凭一次制止插话就判定教师具有支配意图。善意组织教学和维持群体秩序仍是需要保留的替代解释。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.2)]]

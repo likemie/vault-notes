@@ -48,7 +48,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -105,10 +105,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　研究问题在不同方法论范式中承担差异化的探究与规训功能
-
-> [!concept-lens] 方法论[[Paradigm|范式]]与问题形态
-> 考察研究问题在量化、质性与[[Mixed Methods Research|混合方法研究]]中的认知预设、撰写规程以及是否应当居于统治地位的方法论争议。
+> [!concept-proposition] 命题一｜研究问题在不同方法论[[Paradigm|范式]]中承担差异化的探究与规训功能
+> **探讨维度　方法论[[Paradigm|范式]]与问题形态** 考察研究问题在量化、质性与[[Mixed Methods Research|混合方法研究]]中的认知预设、撰写规程以及是否应当居于统治地位的方法论争议。
 
 > [!claim] [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]
 > **范式驱动的问题分类结构** [[Quantitative Research|量化研究]]问题围绕[[Variable|变量]]关系提出疑问，并与[[Directional and Non-directional Hypotheses|方向性假设]]配套使用以开展统计推论；[[Qualitative Research|质性研究]]仅使用[[Open-Mindedness|开放性]]的核心问题与子问题，严格排除方向性预测以避免先验偏误；混合方法研究则必须同时包含量化问题、质性问题以及专属性的[[Integration in Mixed Methods|混合方法整合]]问题，以此明晰多源数据互证所带来的理论增益。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022)]]
@@ -118,10 +116,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　研究问题明确化依赖范围收窄与变量化语言操作
-
-> [!concept-lens] 问题[[Operationalization|操作化]]与明确化路径
-> 聚焦研究者如何通过[[Literature Search|文献检索]]与变量语言，将宽泛模糊的探究兴趣聚焦转化为切实可行的经验问题。
+> [!concept-proposition] 命题二｜研究问题明确化依赖范围收窄与变量化语言操作
+> **探讨维度　问题[[Operationalization|操作化]]与明确化路径** 聚焦研究者如何通过[[Literature Search|文献检索]]与变量语言，将宽泛模糊的探究兴趣聚焦转化为切实可行的经验问题。
 
 > [!claim] [[Argument_QiMei_2015_EducationalResearchMethods|齐梅 (2015)]]
 > **范围收窄与变量化陈述机制** 缺乏经验的研究者易陷入泛化的问题领域，必须依托[[Literature Review|文献回顾]]识别知识空白，将粗略问题转化为具备两个以上变量、语言清晰明了且容许多元可能性的可检验陈述；在未明确问题内涵前盲目采集资料往往导致数据失效与分析混乱。[[Argument_QiMei_2015_EducationalResearchMethods|(齐梅, 2015, Ch. 1)]]

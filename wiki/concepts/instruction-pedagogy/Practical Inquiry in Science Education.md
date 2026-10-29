@@ -34,7 +34,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -60,10 +60,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　应试大纲回忆导向与资源紧缩导致课堂动手实验课时严重萎缩
-
-> [!concept-lens] 实践教学的体制性困境
-> 当考试评价过度聚焦于事实回忆，且学校生均经费与技术员队伍受限时，耗时的动手探究最容易被讲实验与演示所替代。
+> [!concept-proposition] 命题一｜应试大纲回忆导向与资源紧缩导致课堂动手实验课时严重萎缩
+> **探讨维度　实践教学的体制性困境** 当考试评价过度聚焦于事实回忆，且学校生均经费与技术员队伍受限时，耗时的动手探究最容易被讲实验与演示所替代。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
 > **七年滑坡实证** [[UK Science Education Tracker\|英国科学教育追踪调查]]（SET 2016–2023）表明，英格兰初中高年级学生双周动手实验率从 44% 断崖式降至 26%；大纲超载、应试回忆导向与实验耗材经费短缺构成三重主要根源。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]]

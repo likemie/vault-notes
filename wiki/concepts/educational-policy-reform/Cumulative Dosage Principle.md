@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -96,10 +96,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　教育干预的短期效应衰减本质上是后续教学环境平庸化导致的因果断裂而非干预无效
-
-> [!concept-lens] 效应维持与生态支持维度
-> 探讨如何[[Scientific Explanation\|科学解释]]实证干预在结项后[[Effect Size\|效应量]]逐年稀释的根本机制。
+> [!concept-proposition] 命题一｜教育干预的短期[[Fade-out Effect|效应衰减]]本质上是后续教学环境平庸化导致的因果断裂而非干预无效
+> **探讨维度　效应维持与生态支持维度** 探讨如何[[Scientific Explanation\|科学解释]]实证干预在结项后[[Effect Size\|效应量]]逐年稀释的根本机制。
 
 > [!claim] [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]
 > **环境退化假说与累积剂量抗衰论** [[Robert Slavin\|罗伯特·斯莱文]]（Robert E. Slavin）针对学界对早期干预“[[Fade-out Effect\|效应衰减]]”的广泛质疑指出，绝大多数严格因果研究的评估窗口仅为 1 年或更短（最低门槛 12 周），当受试儿童离开精心构建的高保真实验环境、重新跌入缺乏循证支撑的常规低效课堂时，原先取得的相对优势必然会被日常平庸教学逐步稀释抹平；这并不证明干预本身缺乏效力，而是证明了单次脉冲式干预绝不可能对冲长达十余年的制度化教育劣质。化解衰减危机的唯一科学出路是推行**累积剂量原则**，确保学生在每个学年都能连续接受高保真循证教学，使学业优势在长周期中形成不可逆的复利累加。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]

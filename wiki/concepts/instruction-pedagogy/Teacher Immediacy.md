@@ -9,7 +9,7 @@ aliases:
 summary: "指教师在教学互动中通过眼神接触、微笑、开放姿态、幽默与直呼姓名等言语与非言语行为，缩短师生间物理与心理距离并增进人际亲和感、情感认同与感知学习效果的教学沟通构念"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Operationalization]]"
   - "[[Chain of Evidence]]"
+  - "[[Document]]"
   - "[[Construct Validity]]"
   - "[[Evidence-Based Education]]"
   - "[[Heterogeneity]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 （教师即时性 / 教师亲和力）
@@ -113,7 +114,7 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　教师即时性主要促进情感学习与感知成就，对客观认知成绩的直接影响相对有限
+> [!concept-proposition] 命题一｜教师即时性主要促进情感学习与感知成就，对客观认知成绩的直接影响相对有限
 
 情感满意度与客观知识掌握在测量维度上存在实质分离，教师的人际亲和力并不自动等同于教学法的高效性。
 
@@ -125,7 +126,7 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　将教师人际亲和力混同为教学反馈构成了实证综合中的构念错位与效度污染
+> [!concept-proposition] 命题二｜将教师人际亲和力混同为[[Feedback|教学反馈]]构成了实证综合中的[[Construct|构念]]错位与效度污染
 
 元分析合成如果脱离[[Primary and Secondary Documents|原始文献]]的[[Construct|构念]][[Operationalization|操作化]]定义，极易造成学术概念的严重异质混杂与虚假繁荣。
 
@@ -133,7 +134,7 @@ updated: 2026-10-25
 > 探讨实证综合者如何因词汇表面相似性而混淆完全不同的理论构念，导致底层[[Chain of Evidence|证据链]]的系统性失真。
 
 > [!claim] [[Klaus Nielsen|Nielsen, K.]] and Klitmøller, J. (2021a)
-> **语义偷换导致的实证证据失真** 尼尔森与克利特默勒通过文献学逐项审查揭示，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中将威特等人的元分析作为支持其反馈高效能（$d = 0.73$）的第二大支柱。威特原文全文从未探讨反馈，测量的完全是教师的人际亲和力，且纳入的研究大量依赖缺乏对照组的自陈[[Questionnaire|问卷]]（甚至包含 22 篇未发表的硕士与博士论文）。哈蒂利用亲和力的高自评效应量（$d = 1.15$）粉饰反馈指标，犯下了艾森克所警告的“垃圾进、垃圾出（Garbage in, garbage out）”偏误，彻底摧毁了反馈实证结论的[[Construct Validity|构念效度]]。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 12–13)]]
+> **语义偷换导致的实证证据失真** 尼尔森与克利特默勒通过[[Document|文献]]学逐项审查揭示，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中将威特等人的元分析作为支持其反馈高效能（$d = 0.73$）的第二大支柱。威特原文全文从未探讨反馈，测量的完全是教师的人际亲和力，且纳入的研究大量依赖缺乏对照组的自陈[[Questionnaire|问卷]]（甚至包含 22 篇未发表的硕士与博士论文）。哈蒂利用亲和力的高自评效应量（$d = 1.15$）粉饰反馈指标，犯下了艾森克所警告的“垃圾进、垃圾出（Garbage in, garbage out）”偏误，彻底摧毁了反馈实证结论的[[Construct Validity|构念效度]]。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 12–13)]]
 
 ---
 

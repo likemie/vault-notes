@@ -6,7 +6,7 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位以及导致本土制造脱节而遭受系统性批判。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Emergence]]"
   - "[[Process Knowledge]]"
+  - "[[National Innovation System]]"
   - "[[Total Factor Productivity]]"
   - "[[Market Failure]]"
   - "[[Innovation Ecosystem]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -111,10 +112,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　线性创新模型的单向因果预设违背了现代科技演进的双向网络常态
-
-> [!concept-lens] 因果机制与[[Epistemology|认识论]]有效性
-> 考察科学与技术之间的作用流向究竟是单向自上而下推进，还是双向嵌套循环。
+> [!concept-proposition] 命题一｜线性创新模型的单向因果预设违背了现代科技演进的双向网络常态
+> **探讨维度　因果机制与[[Epistemology|认识论]]有效性** 考察科学与技术之间的作用流向究竟是单向自上而下推进，还是双向嵌套循环。
 
 > [!claim] Kline, S. & Rosenberg, N.
 > **市场与设计的牵引主导性** 创新极少直接发端于前沿基础科学研究，绝大多数技术突破源于工业企业对市场需求的感知以及工程师的试错性重新设计；科学知识在此过程中仅作为既有知识库被检索调用。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]
@@ -124,10 +123,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　线性模型的政策转化在国家创新体系中诱导了严重的系统性扭曲
-
-> [!concept-lens] 政策治理与资源配置异化
-> 探讨依据线性模型制定的科技政策如何对大学、国家实验室与公共资助产生反噬效应。
+> [!concept-proposition] 命题二｜线性模型的政策转化在[[National Innovation System|国家创新体系]]中诱导了严重的系统性扭曲
+> **探讨维度　政策治理与资源配置异化** 探讨依据线性模型制定的科技政策如何对大学、国家实验室与公共资助产生反噬效应。
 
 > [!claim] Caraça, J. et al.
 > **大学使命异化与欧洲悖论** 线性模型诱导政策制定者将大学狭隘地改造为专利生产流水线与商业孵化器，削弱了大学培养高素质批判性人才这一更为根本的知识扩散功能；在[[Total Factor Productivity|全要素生产率]]未达预期时又盲目指责大学转化不力，陷入政策逻辑闭环陷阱。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862, 866–867)]]
@@ -137,10 +134,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题三　线性管道预设导致公共投资收益外溢与本土制造生态断裂
-
-> [!concept-lens] 地缘竞争、[[Research Translation|技术转化]]与[[Process Knowledge|过程知识]]断层
-> 剖析线性分工模型在开放市场与全球地缘竞争环境下引发的国家级战略失灵。
+> [!concept-proposition] 命题三｜线性管道预设导致公共投资收益外溢与本土制造生态断裂
+> **探讨维度　地缘竞争、[[Research Translation|技术转化]]与[[Process Knowledge|过程知识]]断层** 剖析线性分工模型在开放市场与全球地缘竞争环境下引发的国家级战略失灵。
 
 > [!claim] Kratsios, M. J.
 > **公共科学成果的非对称外溢与去工业化陷阱** 线性模型预设基础研究成果发表后，本国市场能自然吸纳并实现产业领先。然而在面对推行产业政策与举国动员的竞争对手时，若本土缺乏测试试验场、[[Pilot Scale Platform|中试平台]]与制造供应链，公开论文和专利将被外国制造商快速获取并建立规模垄断（如平板显示、先进锂电池）；本土去制造化更导致资深技师的排障手感与[[Tacit Knowledge|默会知识]]永久流失，切断了产业前沿对基础物理与材料科学的反馈通路。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 34–35, 48–54)]]

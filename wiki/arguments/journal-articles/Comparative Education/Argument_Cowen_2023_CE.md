@@ -9,9 +9,9 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326–340"
 argument_kind: "journal-article"
-argument_related_count: 65
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 71
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: Comparative Education
 citation: "Cowen, R. (2023). Comparative education: and now? Comparative Education, 59(3), 326–340."
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Heroic, Strange, and Barbaric]]"
   - "[[Conatus]]"
   - "[[Ontology]]"
+  - "[[Document]]"
   - "[[Paideia]]"
   - "[[Four Sins of Comparative Education]]"
   - "[[Scientific Method]]"
@@ -48,11 +49,13 @@ related_concepts:
   - "[[Policy Science in Comparative Education]]"
   - "[[Discourse]]"
   - "[[Research Question]]"
+  - "[[Politics of Knowledge]]"
   - "[[Democratic Education]]"
   - "[[Revolutionism]]"
   - "[[Discipline-Based Theory]]"
   - "[[Academic Freedom]]"
 related_theories:
+  - "[[Policy Instrumentation Theory]]"
   - "[[Critical Theory]]"
   - "[[Convergence Theory in Comparative Education]]"
   - "[[Human Capital Theory]]"
@@ -75,6 +78,7 @@ related_persons:
   - "[[Edmund King]]"
   - "[[Stephen Ball]]"
   - "[[Roger Dale]]"
+  - "[[Jenny Ozga]]"
   - "[[Horace Mann]]"
   - "[[William T. Harris]]"
   - "[[Isaac Kandel]]"
@@ -85,10 +89,12 @@ related_facts:
   - "[[PISA]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[National Security Law]]"
+  - "[[National Education]]"
   - "[[IEA]]"
   - "[[Comparative Education Center at Chicago 1958]]"
   - "[[UNESCO]]"
   - "[[OECD]]"
+  - "[[Skills Toward Employment and Productivity]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
 sources:
@@ -97,7 +103,7 @@ part_of: ""
 related_instruments: []
 status: draft
 created: 2026-06-06
-updated: 2026-10-23
+updated: 2026-10-29
 year: 2023
 doi: ""
 citation_aliases:
@@ -110,7 +116,7 @@ citation_aliases:
 > 比较教育（Comparative Education）作为一门大学学科已陷入制度性繁荣但理论性空洞的危机。学科中积累了大量用于自我合法化（self-legitimation）的陈词滥调（Banalities），而学者们习惯于待在这些舒适区中，未能意识到未来在隐喻层面上已然临近且极具紧迫性。如何将未来即现在这一直觉性隐喻，转化为审视比较教育学科未来的连贯[[Theoretical Perspective\|理论视角]]，是学科面临的核心问题。
 
 > [!claim] 核心主张
-> 比较教育必须摆脱塞浦路斯会议透露的历史主义倒退、[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler, 1900）的[[Pragmatic Paradigm\|实用主义]]政策工具论（practical VALUE）、[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien, 1817）的唯[[Scientism\|科学主义]]（scientism）预测幻觉以及约翰·斯图亚特·密尔（John Stuart Mill, 1843）的机械对比法等历史陈词滥调。学科应直面其学术与政治共谋的本质，并战略性地回归转移（Transfer，即移动即变形的形态变化）与[[Educated Identity\|受教育身份]]（Educated Identity，即伦理与道德拷问）这两个核心基础问题，以此应对监控资本主义（surveillance capitalism）与人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]]，AI）教学（AI pedagogy）时代[[Totally Pedagogised Society\|全盘教育化社会]]（Totally Pedagogised Society）的未来挑战。
+> 比较教育必须摆脱塞浦路斯会议透露的历史主义倒退、[[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler, 1900）的[[Pragmatic Paradigm\|实用主义]][[Policy Instrumentation Theory|政策工具论]]（practical VALUE）、[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien, 1817）的唯[[Scientism\|科学主义]]（scientism）预测幻觉以及约翰·斯图亚特·密尔（John Stuart Mill, 1843）的机械对比法等历史陈词滥调。学科应直面其学术与政治共谋的本质，并战略性地回归转移（Transfer，即移动即变形的形态变化）与[[Educated Identity\|受教育身份]]（Educated Identity，即伦理与道德拷问）这两个核心基础问题，以此应对监控资本主义（surveillance capitalism）与人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]]，AI）教学（AI pedagogy）时代[[Totally Pedagogised Society\|全盘教育化社会]]（Totally Pedagogised Society）的未来挑战。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 比较教育学科（包括学术研究与咨询应用两个维度）的合法化惯例、[[Epistemology\|认识论]]边界与政治预设。
@@ -143,7 +149,7 @@ citation_aliases:
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **文献样本** | 1817年的朱利安文献至2023年的比较教育经典理论文本、专刊文章（包括 Will Brehm、Terri Seddon、[[Daniel Tröhler]] 等的论文）、以及[[Comparative Education Society in Europe\|欧洲比较教育学会]]（Comparative Education Society in Europe，CESE）2018 塞浦路斯会议的主题演讲。 |
+> | **[[Document\|文献]]样本** | 1817年的朱利安文献至2023年的比较教育经典理论文本、专刊文章（包括 Will Brehm、Terri Seddon、[[Daniel Tröhler]] 等的论文）、以及[[Comparative Education Society in Europe\|欧洲比较教育学会]]（Comparative Education Society in Europe，CESE）2018 塞浦路斯会议的主题演讲。 |
 > | **经验情境** | 英国、美国、日本、中国等国的比较教育学科地缘政治定位；大学效率管理政治（如丹麦、法国、海湾国家等）；非西方殖民与极端政治情境（如[[National Security Law\|香港国安法]]、阿富汗、伊朗与乌克兰战争）。 |
 > | **材料限制** | 本文为学科诊断与方向性纲领，不涉及大规模量化实证样本，重在理论建构的广度与启发性。 |
 
@@ -164,7 +170,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤一：学科焦虑与陈词滥调的历史包袱
+> [!claim|step] 论证步骤一：学科焦虑与陈词滥调的历史包袱
 > 比较教育学科虽然在大学建制上获得了巨大成功，但其自我合法化的基础极其虚弱，长期依赖客观上已显陈旧的三大陈词滥调，且面临[[Epistemology\|认识论]]碎片化的危险。
 
 > [!chain-link] 证据到判断
@@ -187,12 +193,12 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤二：学术史上的规训惩罚与当代去殖民化
+> [!claim|step] 论证步骤二：学术史上的规训惩罚与当代去殖民化
 > 重构学术议程总是充满政治阻力。历史上的[[Paradigm\|范式]]转型留下了严重的规训惩罚痕迹，而当代关于去殖民化的争论虽然更为理智，但也极易陷入过度简单化，需要引入精确的非西方殖民警示。
 
 > [!chain-link] 证据到判断
 > - **方法论断裂与规训惩罚的历史** 1970年代初的方法论论战（Methodology Debates）是一场学术惨剧，可被称为方法论分裂（the fracturing）。在这个过程中，偏离传统路径者被强行贴上偏差者（deviants）的标签。一个标志性事件是 [[Edmund King\|埃德蒙·金]]（Edmund King）试图以权威姿态去规训Margaret Scotford Archer（Edmund King, 1979; Edmund King and Margaret Scotford Archer, 1980）。这场公开的学术规训冲突，暴露了当时以 King 为代表的英格兰比较教育学界对结构社会学（无论是历史社会学还是其他流派）的完全排斥与共鸣缺乏。
-> - **当代社会学转向的进步** 当代英格兰社会学和历史社会学学者（如 [[Stephen Ball]]、[[Roger Dale]]、Martin Lawn、Gemma Moss、Jenny Ozga、Susan Robertson 等）做出了重大贡献。一些修正主义与批判作品（如 Peter Ninnes and Greg Burnett, 2003; Marianne Larsen and Sandip Mehta, 2008; Stephen Carney et al., 2012; Terri Seddon and Sandford Levin, 2013）也成功成为理论经典。
+> - **当代社会学转向的进步** 当代英格兰社会学和历史社会学学者（如 [[Stephen Ball]]、[[Roger Dale]]、Martin Lawn、Gemma Moss、[[Jenny Ozga]]、Susan Robertson et al.）做出了重大贡献。一些修正主义与批判作品（如 Peter Ninnes and Greg Burnett, 2003; Marianne Larsen and Sandip Mehta, 2008; Stephen Carney et al., 2012; Terri Seddon and Sandford Levin, 2013）也成功成为理论经典。
 
 > [!warning] 去殖民化讨论的区域局限与精确警示
 > 当下关于殖民主义与去殖民化的讨论（如 Keita Takayama, Arathi Sriprakash and Raewyn Connell, 2017; Edward Vickers, 2020）正方兴未艾。然而，要避免使其堕为偏差者或门徒（disciples）的口水战，学术界必须对非西方殖民（Non-Western colonisation）保持高度敏感与精确的区域警示。
@@ -208,7 +214,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤三：前瞻未来的原则与“全球解读”演变
+> [!claim|step] 论证步骤三：前瞻未来的原则与“全球解读”演变
 > 评估比较教育的前瞻方向必须遵循特定的分类原则，其智识命运取决于它如何阅读地缘政治与经济大叙事（[[Readings of the Global\|全球解读]]）。
 
 > [!chain-link] 证据到判断
@@ -220,7 +226,7 @@ citation_aliases:
 >   5. **全球解读** 学科对外部政治与经济大叙事变化的宏观回应，直接决定了比较教育在不同历史分期中的理解风格与研究议程。
 
 > [!dev-timeline] 全球解读的历史分期演变
-> - **18世纪末至19世纪末：世俗化与民族国家建构** 最早的全球解读源于世俗化阅读，紧密连接革命政治、国家形成和新民族主义。[[Horace Mann]], Egerton Ryerson, [[William T. Harris|William Torrey Harris]], James Kay-Shuttleworth 等人海外考察的目的，是为了发明适合传播初等教育和培训教师的制度（如美国与加拿大对普鲁士国民教育模式的借用）。
+> - **18世纪末至19世纪末：世俗化与民族国家建构** 最早的全球解读源于世俗化阅读，紧密连接革命政治、国家形成和新民族主义。[[Horace Mann]], Egerton Ryerson, [[William T. Harris|William Torrey Harris]], James Kay-Shuttleworth 等人海外考察的目的，是为了发明适合传播初等教育和培训教师的制度（如美国与加拿大对普鲁士[[National Education|国民教育]]模式的借用）。
 > - **19世纪末至一战前：工业竞争与帝国维持** 注意力转向工业革命后果、国际经济竞争及教育系统的重新定义，以维持帝国主义。对外考察与变得现代（或保持本真的斯拉夫或日本身份，如日本明治维新与俄罗斯斯拉夫派的理论抵制）紧密相连。
 > - **两次世界大战之间：意识形态对立与专业沉默** 这一时期对法西斯主义和共产主义政治的专业比较工作极少，形成了学术上的沉默期。
 > - **1945年后至冷战时期：重建、平等与冷战测评竞争** 战后初期聚焦于重建和改善教育机会平等；1950年代自由民主与国家社会主义民主展开教育竞争；冷战期间主要努力投入到通过国际测试衡量教育成功（[[IEA]] 的兴起），并将竞争延伸至第三世界（Le tiers monde）的发展。
@@ -231,7 +237,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤四：四种矛盾理解形式的政治解构
+> [!claim|step] 论证步骤四：四种矛盾理解形式的政治解构
 > 比较教育在学术界中长期共存但深刻矛盾的四种理解形式（Forms of understanding），各自携带了不同的、往往是不透明的政治预设与权力结盟。
 
 > [!dimension] 学术界中长期并存的四种理解形式
@@ -249,7 +255,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤五：绩效管理主义与“演绎理性”的腐蚀
+> [!claim|step] 论证步骤五：绩效管理主义与“演绎理性”的腐蚀
 > 当代大学的微观政治正在将比较教育卷入一场以效率和绩效为名的意识形态话语控制中。这种新型[[Deductive Rationality\|演绎理性]]具有强烈的腐蚀性，极大地扼杀了学术原创性。
 
 > [!warning] 学术界的隐藏讽刺 (Hidden Irony)
@@ -264,7 +270,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤六：重构的二元支点与未来概念需求
+> [!claim|step] 论证步骤六：重构的二元支点与未来概念需求
 > 比较教育必须战略性地回到其智识与道德的起点，以转移和受教育身份重新定义学科议程，并创造能应对 21 世纪危机的原创概念。
 
 > [!success] 核心重构的两个基础问题
@@ -281,14 +287,14 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤七：专刊案例分析：知识遭遇政治的各方表达
+> [!claim|step] 论证步骤七：专刊案例分析：知识遭遇政治的各方表达
 > 本专刊的各篇研究在各自的历史叙事和地缘情境中，以不同的深度呼应了本诊断的核心关切，展现了认识论遭遇政治的矛盾，并发出卡珊德拉式的未来警告。
 
 > [!quad-grid] 专刊重点学者论证矩阵
 > - **Will Brehm (2023)**
 >   **美国比较教育政治史**<br>讲述[[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]]（[[C. Arnold Anderson]] 创立）的历史演变。 Anderson 在1950年代将教育经济学与比较教育融合，推动了[[Human Capital Theory\|人力资本理论]]的全球扩张。Brehm 论证这其实是冷战时期美国遏制共产主义、推广全球霸权的技术官僚规划，进而发出关于世界政治变迁对学科冲击的预警。(Brehm, 2023)
 > - **Maren Elfert (2023)**
->   **国际组织的知识政治**<br>分析[[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization，UNESCO）和[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）之间从早期的人文主义承诺向现代数据化绩效治理的转变。Elfert 揭示了国际组织如何通过知识政治（politics of knowledge）将教育政策简化为可测量的技术性指标，脱离了传统的[[Democratic Education\|民主教育]]关切。(Elfert, 2023)
+>   **国际组织的[[Politics of Knowledge|知识政治]]**<br>分析[[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization，UNESCO）和[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）之间从早期的人文主义承诺向现代数据化绩效治理的转变。Elfert 揭示了国际组织如何通过知识政治（politics of knowledge）将教育政策简化为可测量的技术性指标，脱离了传统的[[Democratic Education\|民主教育]]关切。(Elfert, 2023)
 > - **[[Eleftherios Klerides]] (2023)**
 >   **[[Wight's Three Traditions of International Theory\|国际关系理论]]的重新引入**<br>引入 Martin Wight 的经典国际关系理论三大传统（现实主义、理性主义、[[Revolutionism\|革命主义]]），论证不同时代比较教育的重心和话语体系实际上受地缘政治秩序演变的支配，为[[Discipline-Based Theory\|学科理论]]工作提供跨学科的新解释框架。([[Argument_Klerides_2023_CE\|Klerides, 2023]])
 > - **Terri Seddon (2023)**
@@ -313,7 +319,7 @@ citation_aliases:
 > [!citation-card] 学术[[Legitimation Crisis|合法化危机]]
 > 我们积累了过多惯例化的自我合法化方式；是时候摆脱关于我们过去的舒适陈词滥调，注意到未来至少在隐喻意义上已经是现在，而且是紧迫的。
 >
-> *We have accumulated too many routinised ways to legitimate our academic identity; it is time to step away from comfortable clichés about our past; and to notice that the future is, at least metaphorically, now and urgent.*
+> *We have accumulated too many routinised ways to legitimate our academic identity; it is time to [[Skills Toward Employment and Productivity|step]] away from comfortable clichés about our past; and to notice that the future is, at least metaphorically, now and urgent.*
 
 > [!citation-card] 并存冲突的理解形式
 > 在“学术界”中，我们在相当长的时间里，同时保留了比较教育中相互并存但深刻矛盾的理解形式。

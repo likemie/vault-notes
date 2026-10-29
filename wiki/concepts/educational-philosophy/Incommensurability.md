@@ -8,7 +8,7 @@ aliases:
 summary: "库恩范式理论的核心认识论构念，指不同科学范式之间缺乏中立公认的共同原则、标准或衡量尺度，因而无法在同一逻辑评价体系下直接比较优劣"
 type: concept
 domain: "educational-philosophy"
-related_count: 44
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Metascience]]"
   - "[[Discourse]]"
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Preregistration]]"
 related_theories: []
@@ -51,6 +52,7 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
+  - "[[Experimental Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
@@ -70,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -123,30 +125,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　科学范式之间缺乏公认中立的共同准则因而具有不可通约性
-
-> [!concept-lens] [[Paradigm\|范式]]评价标准的非中立性
-> 阐明范式之间无法在统一的外在认知法庭上分出胜负，论证科学知识演进的非线性断裂特征。
+> [!concept-proposition] 命题一｜[[Scientific Paradigm|科学范式]]之间缺乏公认中立的共同准则因而具有不可[[Commensuration|通约]]性
+> **探讨维度　[[Paradigm\|范式]]评价标准的非中立性** 阐明范式之间无法在统一的外在认知法庭上分出胜负，论证科学知识演进的非线性断裂特征。
 
 > [!claim] Kuhn, T. S.
 > **缺乏共同原则导致范式无法直接[[Commensuration\|通约]]比对** 处于不同范式阵营中的科学家生活在不同的世界之中。他们不仅持有不同的理论主张，更采纳不同的科学实践标准、概念网络与仪器操作规范；由于不存在超脱于所有范式之上的中立衡量标准，两个竞争性范式之间的交锋永远无法仅凭纯粹形式逻辑或经验数据得到完全终结。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]
 
 ---
 
-### 命题二　不可通约性根植于本体论、认识论与人性观的根本哲学对立
-
-> [!concept-lens] 方法论分歧背后的元哲学基础
-> 揭示方法争论深嵌于对社会实在本质与人性假设的根本分歧。
+> [!concept-proposition] 命题二｜不可通约性根植于[[Ontology|本体论]]、[[Epistemology|认识论]]与人性观的根本哲学对立
+> **探讨维度　方法论分歧背后的元哲学基础** 揭示方法争论深嵌于对社会实在本质与人性假设的根本分歧。
 
 > [!claim] Burrell, G. & Morgan, G.
 > **主客观四维假设构筑不可调和的哲学断层** 社会探究在哲学根基上分化为[[Subjectivism\|主观主义]]与[[Objectivism\|客观主义]]两大阵营：[[Ontology\|本体论]]上的实在论 vs [[Nominalism\|唯名论]]、[[Epistemology\|认识论]]上的[[Positivism\|实证主义]] vs [[Interpretive Paradigm\|反实证主义]]、人性论上的[[Determinism\|决定论]] vs [[Voluntarism\|唯意志论]]、方法论上的通则法 vs 表意法。这四组假设相互锚定，构成封闭自洽的世界观网络；研究者无法在信奉社会外在于意识的同时又认定社会纯属语言符号虚构，这种本体论层面的绝缘锁定了范式之间的不可通约性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, pp. 117–118]]
 
 ---
 
-### 命题三　不可通约性直接引爆教育研究范式战争并阻抗二者简单相加
-
-> [!concept-lens] [[Paradigm Wars\|范式战争]]的制度化对抗机制
-> 分析 20 世纪下半叶教育研究界两派阵营如何借由不可通约性构筑学术壁垒，造成共同体分裂。
+> [!concept-proposition] 命题三｜不可通约性直接引爆教育研究[[Paradigm Wars|范式战争]]并阻抗二者简单相加
+> **探讨维度　[[Paradigm Wars\|范式战争]]的制度化对抗机制** 分析 20 世纪下半叶教育研究界两派阵营如何借由不可通约性构筑学术壁垒，造成共同体分裂。
 
 > [!claim] Gage, N. L.
 > **范式忠诚与阵营对峙将方法论争议演变为战争** 在 20 世纪晚期的教育研究中，不可通约性理念被激化为绝对的范式忠诚；实证量化派将质性探究斥为缺乏客观控制的主观诗学，质性诠释派则指责[[Quantitative Research\|量化研究]]为去情境化的机械极权。学者们将研究方法与学术身份政治捆绑，形成了互不承认对方研究成果合法性的长期范式对抗。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]
@@ -156,10 +152,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题四　实用主义混合方法研究以工具效用与实践对话重构不可通约性
-
-> [!concept-lens] [[Mixed Methods Research\|混合方法]]运动对不可通约性教条的超越
-> 阐明第三次方法论运动如何通过转换哲学基准，在保留范式张力的同时实现务实协作。
+> [!concept-proposition] 命题四｜[[Pragmatic Paradigm|实用主义]][[Mixed Methods Research|混合方法研究]]以工具效用与实践对话重构不可通约性
+> **探讨维度　[[Mixed Methods Research\|混合方法]]运动对不可通约性教条的超越** 阐明第三次方法论运动如何通过转换哲学基准，在保留范式张力的同时实现务实协作。
 
 > [!claim] Johnson, R. B. & Onwuegbuzie, A. J.
 > **[[Pragmatic Paradigm\|实用主义]]消解范式不可通约的清教徒主义** 混合方法研究作为第三种研究范式，放弃了在形而上学本体论上纠缠抽象纯洁性；实用主义以“实践有效即为真理”为指针，强调[[Research Question\|研究问题]]决定探究方法，从而以务实包容性打破了非黑即白的不可通约性教条，开辟了跨范式对话与协同探究的第三条道路。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 195]]
@@ -169,10 +163,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题五　实证统计建模中跨实验设计估计不同总体参数具有内在的不可通约性
-
-> [!concept-lens] 统计总体参数的不可通约性（Morris & DeShon 参数断层）
-> 探讨不可通约性如何从定性认识论范式延伸至量化统计建模领域：不同实验设计的[[Effect Size|效应量]]估计的是数学上不可直接通约的异质参数。
+> [!concept-proposition] 命题五｜实证统计建模中跨[[Experimental Research|实验设计]]估计不同总体参数具有内在的不可通约性
+> **探讨维度　统计总体参数的不可通约性（Morris & DeShon 参数断层）** 探讨不可通约性如何从定性认识论范式延伸至量化统计建模领域：不同实验设计的[[Effect Size|效应量]]估计的是数学上不可直接通约的异质参数。
 
 > [!claim] Morris, S. B. & DeShon, R. P. (2002) / [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
 > **组间实验与组内前[[Pre-test and Post-test|后测]]效应量的总体参数不可通约性** 莫里斯与德尚（Morris & DeShon, 2002）在[[Meta-analysis|元分析]]方法论研究中证明，独立样本组间实验设计（Between-subject）与追踪单组前后测的组内设计（Within-subject），其标准化的均值差（SMD）估计的是截然不同的总体参数。组间设计的标准化分母是独立个体间的离散度（$\sigma_{between}$），而组内设计的效应量分母直接受制于前后测配对相关系数（$\rho$）与个体变化分数的变异度（$\sigma_{diff}$）。未经协方差矩阵精确校正而直接对两类数值求算术平均，在数理逻辑上构成了典型的“总体参数不可通约性”谬误。卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）审计揭示，在《[[Visible Learning|可见的学习]]》等二阶综合中，高达 27% 的影响因素肆意将组间实验、组内前后测甚至纯描述性相关系数（$r$）直接混合池化，正是由于无视统计参数的不可通约性，导致其合成的平均效应量沦为无因果意义的数学伪像。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 7–8, 15–16)]]
@@ -221,7 +213,7 @@ updated: 2026-10-22
 
 > [!empirical-divider]
 
-> [!ref-table]- [[Paradigm Wars\|范式战争]]与方法学演化的文献计量实证特征
+> [!ref-table]- [[Paradigm Wars\|范式战争]]与方法学演化的[[Document|文献]]计量实证特征
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |

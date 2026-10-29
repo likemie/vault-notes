@@ -22,8 +22,8 @@ related_concepts:
   - "[[Enforcement Discretion]]"
   - "[[Policy Borrowing]]"
   - "[[Institutional Complementarity]]"
-  - "[[ASEAN Way]]"
   - "[[Habitus]]"
+  - "[[ASEAN Way]]"
   - "[[Document]]"
   - "[[Constructivist Paradigm]]"
 related_theories:
@@ -98,20 +98,16 @@ updated: 2026-10-29
 
 ---
 
-### 命题一　超越适切裁量区间的超前机构移植必然诱发集体履约失灵与合法性挫败
-
-> [!concept-lens] 制度超载维度的致脆机制
-> 该命题探讨当区域组织借用外部成熟架构时，若机构职能远远超出成员国的主权让渡意愿，将直接诱发制度瘫痪与公信力受损。
+> [!concept-proposition] 命题一｜超越适切裁量区间的超前机构移植必然诱发集体履约失灵与合法性挫败
+> **探讨维度　制度超载维度的致脆机制** 该命题探讨当区域组织借用外部成熟架构时，若机构职能远远超出成员国的主权让渡意愿，将直接诱发制度瘫痪与公信力受损。
 
 > [!claim] [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]]
 > **超前架构诱发的制度脱节** [[Philomena Murray|菲洛梅娜·默里]]与爱德华·莫克森-布朗指出，[[ASEAN Charter|《东盟宪章》]]在设立[[Coreper|常驻代表委员会]]与人权机制时直接借鉴了[[EU|欧盟]]外壳，然而在缺乏超国家法律强制管辖与多数表决的前提下，传统不干预原则使[[ASEAN|东盟]]在面对缅甸危机等政治震荡时完全无法启动集体惩戒，导致该组织在国际舆论面前遭遇严重的公信力挫败；这种表层拟态超越了东盟当时的承载边界，反而加剧了成员国精英与公众的挫折感。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523–524)]]
 
 ---
 
-### 命题二　处于裁量空间内部的渐进功能创新能够依托人际互信培育本土合作惯习
-
-> [!concept-lens] 适切区间内的渐进演进机制
-> 该命题关注当机构设置保持在弹性承载区间内时，非正式的人际接触与外事网络如何逐步积累治理资本。
+> [!concept-proposition] 命题二｜处于裁量空间内部的渐进功能创新能够依托人际互信培育本土合作[[Habitus|惯习]]
+> **探讨维度　适切区间内的渐进演进机制** 该命题关注当机构设置保持在弹性承载区间内时，非正式的人际接触与外事网络如何逐步积累治理资本。
 
 > [!claim] [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]]
 > **集中驻扎催生的孵化效应** 默里与莫克森-布朗论证，尽管[[Committee of Permanent Representatives to ASEAN|常驻东盟代表委员会]]（CPR）缺乏类似欧盟 Coreper 的直接立法权，但将十国特命全权大使集中驻扎在雅加达并保持在[[ASEAN Way|东盟方式]]的舒适度之内，使外交官在日常高频次接触中建立了超越本国科层掣肘的深层信任；通过承担对外多边穿梭与伙伴协调任务，CPR 在不打破主权红线的前提下有效激活了渐进的“合作[[Habitus|惯习]]”（Habits of Cooperation）。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 532–534)]]

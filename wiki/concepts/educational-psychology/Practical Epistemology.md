@@ -5,7 +5,7 @@ aliases:
 summary: "学生在学校科学探究过程中实际应用于自身知识建构的隐性认识论观念与话语行动规程，与关于专业科学的形式认识论相对立，可通过立足点、意义裂隙与关系搭建等实践认识论分析方法进行微观刻画。"
 type: concept
 domain: "educational-psychology"
-related_count: 32
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -20,6 +20,8 @@ related_concepts:
   - "[[Formal Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Nature of Science]]"
+  - "[[Learning Strategies]]"
+  - "[[Mnemonic Strategies]]"
   - "[[Reflexivity]]"
   - "[[Epistemic Resources]]"
   - "[[Epistemic Practices]]"
@@ -43,6 +45,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Discourse Analysis]]"
   - "[[Practical Epistemology Analysis]]"
+  - "[[Experimental Research]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Effect Size]]"
@@ -56,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -71,7 +74,7 @@ updated: 2026-10-25
 > [!concept-lens] 概念透镜
 > - **含义** 学生在亲身开展探究活动时原生地运用、关于[[Knowledge Production|知识生成]]与检验的实践性认知规则。
 > - **用途** 解释为何学生在日常探究中的认知表现（如盲目尝试或系统求证）往往与其在标准化问卷中表达的[[Nature of Science\|科学本质]]信念相互脱节，为微观课堂话语互动分析提供分析工具。
-> - **边界** 区别于关于专业科研事业的抽象形式信念，也区别于去学科化的通用学习策略（如记忆术）。
+> - **边界** 区别于关于专业科研事业的抽象形式信念，也区别于去学科化的通用[[Learning Strategies|学习策略]]（如[[Mnemonic Strategies|记忆术]]）。
 
 > [!citation-card] 论实践认识论与形式认识论的根本分离
 > 学生关于专业科学的形式认识论（formal epistemologies）与他们在自身科学探究中运用的实践认识论（practical epistemologies）之间存在实质性差异。形式认识论关注远端的专业科学知识如何产生；实践认识论则指引着近端学生自己在课堂中对知识的建构与辩护。仅仅让学生动手做探究，并不能自发促成实践认识论向形式认识论的跃升。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, pp. 635–636, 648)]]
@@ -134,30 +137,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　学生在探究实践中运用的实践认识论观念往往独立于对专业科学的形式认识论信念
-
-> [!concept-lens] 认知信念的远近端分离
-> 探讨学生自身探究认知与对专业科学理解之间的结构性脱节。
+> [!concept-proposition] 命题一｜学生在探究实践中运用的实践[[Epistemology|认识论]]观念往往独立于对专业科学的[[Formal Epistemology|形式认识论]]信念
+> **探讨维度　认知信念的远近端分离** 探讨学生自身探究认知与对专业科学理解之间的结构性脱节。
 
 > [!claim] [[Argument_Sandoval_2005_SE\|Sandoval (2005)]]
-> **形式与实践[[Epistemology\|认识论]]分离断裂** 学生的实践认识论（近端）与[[Formal Epistemology\|形式认识论]]（远端）在认知结构上高度分离。学生在[[Questionnaire\|问卷调查]]中可能表现出对[[Nature of Science\|科学本质]]的先进理解（如[[Recognition Theory|承认理论]]具有暂定性），但在自己动手进行实验设计与数据解释时，依然表现出朴素[[Positivism\|实证主义]]倾向（如认为单次观测即可证明真理、忽视异常数据）。这种分离表明，传统依赖脱离情境问卷的评估无法真实反映学生的探究认知水平。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, pp. 635–636, 648)]]
+> **形式与实践[[Epistemology\|认识论]]分离断裂** 学生的实践认识论（近端）与[[Formal Epistemology\|形式认识论]]（远端）在认知结构上高度分离。学生在[[Questionnaire\|问卷调查]]中可能表现出对[[Nature of Science\|科学本质]]的先进理解（如[[Recognition Theory|承认理论]]具有暂定性），但在自己动手进行[[Experimental Research|实验设计]]与数据解释时，依然表现出朴素[[Positivism\|实证主义]]倾向（如认为单次观测即可证明真理、忽视异常数据）。这种分离表明，传统依赖脱离情境问卷的评估无法真实反映学生的探究认知水平。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, pp. 635–636, 648)]]
 
 ---
 
-### 命题二　微观课堂话语互动中的认识论演进通过立足点与意义裂隙的跨越而原生地实现
-
-> [!concept-lens] 语言游戏与行动认识论
-> 探讨知识合法性与有效证据如何在师生即时对话序列中生成。
+> [!concept-proposition] 命题二｜微观课堂[[Discourse|话语]]互动中的认识论演进通过立足点与意义裂隙的跨越而原生地实现
+> **探讨维度　语言游戏与行动认识论** 探讨知识合法性与有效证据如何在师生即时对话序列中生成。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]]
 > **[[Discourse|话语]]行动中的认识论生成** 认识论并非深锁于大脑内部的静态表征，而是在微观话语和具身互动中展开的语言游戏。通过考察师生如何确立立足点、在遭遇异常数据时显化意义裂隙，并借助教具与手势搭建关系，研究者能够原生地捕捉学生如何在行动中界定何者算作有效观察与合理证据。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
 
 ---
 
-### 命题三　高水平探究实践需辅以显性认识论反思与元话语才能完成向形式认识论的转化
-
-> [!concept-lens] 显性教学转化机制
-> 探讨动手实践如何升华为对科学本质的成熟领悟。
+> [!concept-proposition] 命题三｜高水平探究实践需辅以显性认识论反思与元话语才能完成向形式认识论的转化
+> **探讨维度　显性教学转化机制** 探讨动手实践如何升华为对科学本质的成熟领悟。
 
 > [!claim] [[Argument_Sandoval_2005_SE\|Sandoval (2005)]]
 > **显性反思的弥合机制** 单纯让学生参与高水平探究活动，无法自发促成其高级实践认识论向专业科学形式认识论的转化。必须在探究过程中引入显性的认识论反思（explicit epistemological reflection），引导学生对比自身在探究中的权衡决策与专业科研团队的[[Knowledge Building Theory|知识建构]]机制，方能实现[[Epistemological Beliefs\|认识论信念]]的系统升级。[[Argument_Sandoval_2005_SE\|(Sandoval, 2005, pp. 649–650)]]

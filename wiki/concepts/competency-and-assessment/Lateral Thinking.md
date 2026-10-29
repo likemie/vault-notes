@@ -8,7 +8,7 @@ aliases:
 summary: "由爱德华·德·博诺开创的非线性思维范式与创造性构想生成体系，直接对标并互补于传统“垂直思维（逻辑推导）”。主张打破大脑自组织神经模式的固有凹槽，通过激发（PO）、随机输入与概念挑战等启发式技术，强迫认知系统横向跳跃至非常规切入点以实现观念重构与顿悟突破。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -47,10 +47,12 @@ related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
 related_persons:
   - "[[Edward de Bono]]"
+related_facts:
+  - "[[Skills Toward Employment and Productivity]]"
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -119,30 +121,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　人类大脑自组织模式的惯性使垂直推演易陷定势，水平思考通过外显扰动实现破局
-
-> [!concept-lens] 自组织心智模型与非线性动力学
-> 神经系统倾向于最小能量原则，自动将新信息塞入旧经验通道；破局需要外在算法施加受控扰动。
+> [!concept-proposition] 命题一｜人类大脑自组织模式的惯性使垂直推演易陷定势，水平思考通过外显扰动实现破局
+> **探讨维度　自组织心智模型与非线性动力学** 神经系统倾向于最小能量原则，自动将新信息塞入旧经验通道；破局需要外在算法施加受控扰动。
 
 > [!claim] de Bono; Diamond
 > **神经模式扰动破局命题** [[Edward de Bono\|德·博诺]]的心智机制理论（The Mechanism of Mind）指出，人类大脑是一个卓越的非对称自组织模式形成网络，其生物学优势在于迅速将重复体验固化为自动化反应模式，但其致命缺陷在于一旦模式形成，思维就会像水流顺着既有河道一样自动滑向最深凹槽。在面对非良构复杂挑战时，单纯依赖逻辑推理只会让既有通道越陷越深；侧向思维通过提供形式化的外部扰动规程（如 PO 与随机词），强行阻断旧模式的自发激活，迫使神经系统在临界状态下自组织出全新的概念重组通道。de Bono (1969, 1970); Diamond (2013)
 
 ---
 
-### 命题二　激发操作（PO）通过允许中间态荒谬成功规避了逻辑系统的过早收敛
-
-> [!concept-lens] 认知评价延迟与假设跳板
-> 传统理性思维的“非真即假”双值逻辑过早清除了潜在的弱连接线索；激发语言算子重构了探索空间。
+> [!concept-proposition] 命题二｜激发操作（PO）通过允许中间态荒谬成功规避了逻辑系统的过早收敛
+> **探讨维度　认知评价延迟与假设跳板** 传统理性思维的“非真即假”双值逻辑过早清除了潜在的弱连接线索；激发语言算子重构了探索空间。
 
 > [!claim] de Bono; Runco et al.
 > **激发跳板规避收敛命题** 认知心理学实验表明，当个体面对荒谬或矛盾陈述时，左半球前额叶逻辑网络会自发诱发错误监控电位（如 N400），迅速否定该输入。德·博诺创造的新词汇算子“PO”本质上是一种[[Metacognition\|元认知]]免责声明（Metacognitive Suspension），它向认知系统发出“不评判真假，仅视作跳板”的执行控制指令。通过合法化“中间步骤的暂时错误”，学习者能够从容在荒谬概念中提取积极属性与功能原型，从而成功规避了传统垂直思维在构思初期的过早收敛，使方案的独创性与跨界性获得质的跃升。de Bono (1970); [[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 391)]]
 
 ---
 
-### 命题三　侧向思维训练有效塑造大学生的认知灵活性与发散问题解决效能
-
-> [!concept-lens] 认知能力可塑性与干预效能
-> 侧向思维不是天生灵感，而是一套可被反复操练并产生广泛迁移的心智操作技能。
+> [!concept-proposition] 命题三｜侧向思维训练有效塑造大学生的[[Cognitive Flexibility|认知灵活性]]与发散[[Problem Solving|问题解决]]效能
+> **探讨维度　认知能力可塑性与干预效能** 侧向思维不是天生灵感，而是一套可被反复操练并产生广泛迁移的心智操作技能。
 
 > [!claim] Guo et al.; Ding et al.
 > **侧向思维促学高效命题** 高校[[Creativity\|创造力]][[Three-Level Meta-Analysis\|多层元分析]]实证表明，以侧向思维谜题、[[Mind Mapping\|思维导图]]与发散探究为核心的“思维训练（Thinking training）”产生了高度统计显著且名列前茅的正向促学效应（$g = 0.762, N = 31$）。实验与教学对照研究（如 CoRT 思维教学项目）进一步印证，长期接受侧向思维训练的学生，在[[Alternate Uses Test\|另类用途测验]]（[[Alternate Uses Test\|AUT]]）与复杂情境推理难题中的表现显著优于常规逻辑教学对照组（$d = 0.55 \sim 0.65$），证实了侧向思维作为高等教育培养心智敏捷性与抗定势能力的卓越教学效能。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 8–10)]]; Ding et al. (2014)
@@ -161,7 +157,7 @@ updated: 2026-10-25
 > [!dev-timeline] 侧向思维理论演进脉络
 > - **1967 年　[[Edward de Bono\|爱德华·德·博诺]]提出“侧向思维”术语** de Bono (1967) 出版《The Use of Lateral Thinking》，首次正式确立 Lateral Thinking [[Construct\|构念]]，牛津英语词典随后正式收录该词条。
 > - **1969 年　出版神经认知基石专著《心智机制》** de Bono (1969) 出版《The Mechanism of Mind》，从非对称自组织神经网络角度系统阐明思维定势与侧向重构的脑科学底座。
-> - **1970 年　经典专著确立四大操作算子体系** de Bono (1970) 出版《Lateral Thinking: [[Creativity]] Step by Step》，正式系统化提炼出 PO、随机输入、概念挑战与侧向谜题等操作技术。
+> - **1970 年　经典专著确立四大操作算子体系** de Bono (1970) 出版《Lateral Thinking: [[Creativity]] [[Skills Toward Employment and Productivity|Step]] by Step》，正式系统化提炼出 PO、随机输入、概念挑战与侧向谜题等操作技术。
 > - **1980–1990 年代　CoRT 思维教学与全球教育推广** 德·博诺开发 CoRT（Cognitive Research Trust）思维课程并拓展出六顶思考帽，在英联邦与全球中小学及跨国企业全面制度化。
 > - **2025 年　[[Three-Level Meta-Analysis\|多层元分析]]实证量化思维训练效能基准** [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 实证确立以侧向思维谜题为核心的思维训练对大学生创造力表现的强效增益（$g = 0.762$）。
 

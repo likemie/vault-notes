@@ -8,10 +8,10 @@ aliases:
 summary: "在教育心理学实证研究中，测量工具与结果变量在特异性颗粒度及学科情境维度上的严格对应匹配，是避免效应量人为衰减的核心方法论法则。"
 type: concept
 domain: "research-methodology"
-related_count: 27
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/methodology
   - educational-measurement
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Academic Achievement]]"
   - "[[Construct]]"
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[Ontology]]"
   - "[[Reliability]]"
@@ -35,10 +36,12 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Justificatory Standards]]"
   - "[[Reliable Epistemic Processes]]"
+  - "[[Rote Learning]]"
   - "[[Developer-Made Measures]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
+  - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
   - "[[Intervention Research]]"
   - "[[Random-Effects Model]]"
@@ -50,7 +53,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 （测量对齐）
@@ -62,7 +65,7 @@ updated: 2026-10-25
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调心理构念并非悬空的通用特质，而是依附于具体情境与任务层级的动态过程；测量标尺必须与目标产出在尺度上保持几何对齐。
-> - **用途** 解释以往文献中实证[[Effect Size\|效应量]]冲突与“虚假不显著”现象，为[[Questionnaire\|问卷]]编制与实验设计提供颗粒度匹配的标准规范。
+> - **用途** 解释以往[[Document|文献]]中实证[[Effect Size\|效应量]]冲突与“虚假不显著”现象，为[[Questionnaire\|问卷]]编制与[[Experimental Research|实验设计]]提供颗粒度匹配的标准规范。
 > - **边界** 它界定的是自[[Variable\|变量]]与因变量之间的测量匹配度，本身不改变构念的[[Ontology\|本体论]]性质，也不能完全替代测量工具自身的内部[[Reliability\|信度]]。
 
 > [!boundary]- 概念边界
@@ -89,9 +92,8 @@ updated: 2026-10-25
 
 ## 理论主张与核心命题
 
-### 命题一　双重测量对齐是释放认识论认知预测效力的决定性方法论红利
-> [!concept-lens] 测量对齐的统计效应假设
-> [[Epistemic Cognition\|认识论认知]]与[[Academic Achievement\|学业成就]]的关联强度不仅取决于理论本身，更受制于测量维度的匹配纯度。
+> [!concept-proposition] 命题一｜双重测量对齐是释放[[Epistemic Cognition|认识论认知]]预测效力的决定性方法论红利
+> **探讨维度　测量对齐的统计效应假设** [[Epistemic Cognition\|认识论认知]]与[[Academic Achievement\|学业成就]]的关联强度不仅取决于理论本身，更受制于测量维度的匹配纯度。
 
 > [!claim] Greene, J.
 > **对齐红利与错配衰减** [[Meta-analysis\|元分析]]证据表明，测量工具的情境对齐能够显著放大对学业成绩的预测效力：
@@ -101,19 +103,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　学科认识论规范的清晰度决定了领域对齐效应的稳健性
-> [!concept-lens] [[Domain Specificity\|学科特异性]]与对齐效应的交互
-> 并不是所有学科的对齐效应表现一致，学科内部知识[[Justificatory Standards\|确证标准]]的明确程度调节着对齐的收益。
+> [!concept-proposition] 命题二｜学科[[Epistemology|认识论]]规范的清晰度决定了领域对齐效应的稳健性
+> **探讨维度　[[Domain Specificity\|学科特异性]]与对齐效应的交互** 并不是所有学科的对齐效应表现一致，学科内部知识[[Justificatory Standards\|确证标准]]的明确程度调节着对齐的收益。
 
 > [!claim] Greene, J.
 > **硬科学领域的对齐稳健性** 在跨学科的亚组分析中，科学（$r = .199$）和数学（$r = .157$）领域的[[Epistemology\|认识论]]对齐测量展现出了最稳健的预测力。这表明自然科学对于证据评估、实验检验和[[Reliable Epistemic Processes\|可靠过程]]具有高度清晰的学科规范，使得学生所持有的[[Epistemological Beliefs\|认识论信念]]能够直接、高效地转化为特定学科的学业成就。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]
 
 ---
 
-### 命题三　干预研究中存在任务特异性对齐反转现象（Alignment Paradox）
-
-> [!concept-lens] 任务敏感性与对齐效应的权衡
-> 在实验[[Intervention Research\|干预研究]]中，对齐效应可能被测量工具自身的[[Construct\|构念]]敏感性反向颠覆。
+> [!concept-proposition] 命题三｜[[Intervention Research|干预研究]]中存在任务特异性对齐反转现象（Alignment Paradox）
+> **探讨维度　任务敏感性与对齐效应的权衡** 在实验[[Intervention Research\|干预研究]]中，对齐效应可能被测量工具自身的[[Construct\|构念]]敏感性反向颠覆。
 
 > [!claim] Cartiff, B. M.
 > **构念敏感性对对齐法则的反转** 在认识论认知干预的一阶元分析中，特异性层级未对齐的研究效应量（$d = 0.808$）反常地显著高于完全对齐的研究（$d = 0.426, Q_b = 7.986, p < .01$）。这一“对齐佯谬”源于测量工具构念敏感性的异质性：未对齐研究通常采用学科领域干预，但评价因变量时选用了研究者针对具体主题自编的深度论证测验（如 Lam & Chan, 2008; Shekoyan, 2009），敏锐捕捉到了认识论提升带来的质性飞跃；相反，完全对齐的研究往往将学科领域干预与全校期末考试或标准化常模测验相对齐，后者充斥着对孤立事实与公式的机械考查，反而稀释掩盖了真实干预红利。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 488, 492)]]
@@ -165,7 +164,7 @@ updated: 2026-10-25
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 学科领域 | 科学 | $r$ | — | <span class="mx-bar ef-bar conv" title="r .199 → d ≈ 0.41（d = 2r / √(1 − r²)）"><span class="b8"></span></span>.199 | — | $Q_{between}$ 显著；预设 |
 > |  |  | 数学 |  | — | <span class="mx-bar ef-bar conv" title="r .157 → d ≈ 0.32（d = 2r / √(1 − r²)）"><span class="b6"></span></span>.157 | — | — |
 >
-> 完全对齐：多选用学校常规期末考或标准化测验，易受机械记忆题稀释；未对齐：采用针对具体主题的自编高阶论证测验，构念敏感度极高；组间：证实干预研究中测验敏感度可超越形式对齐主导效应量
+> 完全对齐：多选用学校常规期末考或标准化测验，易受[[Rote Learning|机械记忆]]题稀释；未对齐：采用针对具体主题的自编高阶论证测验，构念敏感度极高；组间：证实干预研究中测验敏感度可超越形式对齐主导效应量
 >
 > - **[[Argument_Greene_2018_JEP|Greene et al. (2018)]] · 学科领域** 规范明确的硬科学领域对齐收益最大
 

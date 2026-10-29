@@ -25,7 +25,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-05
-updated: 2026-10-20
+updated: 2026-10-29
 ---
 
 ---
@@ -44,10 +44,8 @@ updated: 2026-10-20
 
 ---
 
-### 命题一　教师信念与教学实践存在双向影响关系
-
-> [!concept-lens] 实践与信念的交互机制
-> 简述信念与行为在特定课程经验中是如何相互构建的。
+> [!concept-proposition] 命题一｜教师信念与教学实践存在双向影响关系
+> **探讨维度　实践与信念的交互机制** 简述信念与行为在特定课程经验中是如何相互构建的。
 
 > [!claim] Bergeron, L., & Rogers, L.
 > **实践与信念的互塑** 教师的教学信念直接影响他们所采用的教学实践，而教师在实施特定教学实践（如[[Inquiry-Based Learning\|探究式教学]]、[[Critical Thinking\|批判性思维]]培养）并获得成功后，这种成功的教学经验又会反过来强化并重塑他们的教学信念。[[Argument_Bergeron_2019_JRIE\|(Bergeron & Rogers, 2019, p. 171)]]

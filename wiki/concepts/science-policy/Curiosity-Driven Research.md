@@ -67,7 +67,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -142,20 +142,16 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　自由探索型研究是颠覆性原始创新与长期国家战略技术储备的根本源泉
-
-> [!concept-lens] 颠覆性创新源头与布什[[Paradigm|范式]]
-> 探讨为何缺乏即时实用目的的自由探索，反而是维系国家长期技术突破与不可替代性的战略基石。
+> [!concept-proposition] 命题一｜自由探索型研究是颠覆性原始创新与长期国家战略技术储备的根本源泉
+> **探讨维度　颠覆性创新源头与布什[[Paradigm|范式]]** 探讨为何缺乏即时实用目的的自由探索，反而是维系国家长期技术突破与不可替代性的战略基石。
 
 > [!claim] [[Argument_Fan_2026_BCAS|樊春良 (2026)]]; [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]]
 > **[[Science, The Endless Frontier 1945|布什报告]]的认知逻辑** [[Vannevar Bush|万尼瓦尔·布什]]在《科学——无止境的边疆》中深刻论证：基础研究是所有应用与技术进步的发源地；自由探索虽然无法预先预测具体成果的转化时间与形态，但持续产生的新知识终将以不可预测的方式转化为国家安全、国民健康与普遍社会福祉的坚实基础。
 
 ---
 
-### 命题二　外部功利性问责与技术采购替代正导致自由探索退化为分散边缘形态
-
-> [!concept-lens] 制度退守与边缘化风险
-> 探讨当代科技政策向任务与能力驱动转型对自由探索生态造成的严重生存挤压。
+> [!concept-proposition] 命题二｜外部功利性问责与技术采购替代正导致自由探索退化为分散边缘形态
+> **探讨维度　制度退守与边缘化风险** 探讨当代科技政策向任务与能力驱动转型对自由探索生态造成的严重生存挤压。
 
 > [!claim] Burgess (1993)
 > Burgess（1993）所讨论的时期内，[[Categorical Funding|分类资助]]（categorical funding）的结构性增长正在系统性压缩蓝天研究的空间。当政府和非政府资助机构越来越倾向于赞助政策导向项目时，由研究者好奇心驱动、不以直接政策应用为目标的研究越来越难以获得资助（Burgess, 1993, p. 1）。该趋势也影响研究社区对议题重要性的判断权。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03|(Cohen et al., 2011, pp. 36–37)]]
@@ -169,10 +165,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题三　战略导向下的应用启发计划通过双向机制吸纳自由探索发现
-
-> [!concept-lens] 基础发现向战略创新的接力演化
-> 探讨国家微电子战略如何在推进任务导向攻关的同时，保持对自由探索源头活水的持续资助。
+> [!concept-proposition] 命题三｜战略导向下的应用启发计划通过双向机制吸纳自由探索发现
+> **探讨维度　基础发现向战略创新的接力演化** 探讨国家微电子战略如何在推进任务导向攻关的同时，保持对自由探索源头活水的持续资助。
 
 > [!claim] [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
 > **发现支柱与[[Co-Design|协同设计]]接力** 《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》第一支柱明确强调：突破后摩尔时代物理极限必须依赖在二维材料（TMDs）、神经形态计算与自旋电子学等领域的深层科学探索。[[National Science Foundation|美国国家科学基金会]]（[[National Science Foundation|NSF]]）与能源部（[[Department of Energy|DOE]]）通过设立“未来半导体前沿”（FuSe）等计划，将学者在自由探索中发现的新物理现象与[[Co-Design|协同设计]]（Co-Design）框架对接，构筑起从好奇心驱动的实验室原始发现向 [[Technology Readiness Level|TRL]] 1–4 应用启发研究顺畅流转的制度桥梁。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]

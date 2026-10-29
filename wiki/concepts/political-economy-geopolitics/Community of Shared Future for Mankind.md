@@ -9,10 +9,10 @@ aliases:
 summary: "当代中国外交战略与全球治理哲学的核心话语纲领与社会想象（Social Imaginary）。主张超越传统零和博弈与西方中心主义霸权逻辑，追求持久和平、普遍安全、共同繁荣、开放包容与清洁美丽的全球治理新秩序；在对外政策与教育出海实践中，作为核心激励性框架（Motivational Framing），赋予国家倡议以道德崇高性与多边共赢正当性。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 31
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - political-economy
   - geopolitics
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Hard Power]]"
   - "[[Soft Power]]"
+  - "[[Internationalization of Vocational Education]]"
 related_theories:
   - "[[Hegemony]]"
   - "[[Academic Capitalism]]"
@@ -48,6 +49,7 @@ related_persons: []
 related_facts:
   - "[[Belt and Road Initiative]]"
   - "[[Achieve]]"
+  - "[[Chinese-ASEAN Modern Craftsmanship Institute]]"
   - "[[ASEAN]]"
   - "[[Forum on China-Africa Cooperation]]"
   - "[[Belt and Road Education Action Plan]]"
@@ -58,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -95,7 +97,7 @@ updated: 2026-10-25
 > [!feature] 构建人类命运共同体的五大核心支柱
 > - **政治伙伴支柱（持久和平）** 坚持国家不分大小贫富强弱一律平等，主张以对话解决争端、以协商化解分歧，构建结伴而不结盟的国际新秩序。
 > - **安全协作支柱（普遍安全）** 倡导共同、综合、合作、可持续的安全观，反对单边主义安全与将自身安全建立在他国不安全之上的零和思维。
-> - **经济发展支柱（共同繁荣）** 坚持合作共赢与开放包容，将大型跨国互联互通、产能对接与产业扶贫作为破解全球发展失衡的关键进路，并依托现代工匠学院与双边教育合作紧密服务周边区域命运共同体建设。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–685)]]; [[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288–289, 297–298)]]
+> - **经济发展支柱（共同繁荣）** 坚持合作共赢与开放包容，将大型跨国互联互通、产能对接与产业扶贫作为破解全球发展失衡的关键进路，并依托[[Chinese-ASEAN Modern Craftsmanship Institute|现代工匠学院]]与双边教育合作紧密服务周边区域命运共同体建设。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 684–685)]]; [[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 288–289, 297–298)]]
 > - **文明互鉴支柱（开放包容）** 强调文明多样性是人类进步的不竭源泉，主张以文明交流超越文明隔阂、以文明互鉴超越文明冲突，反对以意识形态划线。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 683–684)]]
 > - **生态环境支柱（清洁美丽）** 秉持人与自然生命共同体理念，协同推进应对气候变化、绿色低碳转型与生态多样性保护多边国际承诺。
 
@@ -123,20 +125,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　人类命运共同体表征着中国外交哲学走出韬光养晦并积极塑造全球治理秩序
-
-> [!concept-lens] [[Geopolitics|地缘政治]]转型与大国叙事重构
-> 国际关系与政治社会学学者关注这一概念如何承载中国从被动融入国际体系向主动提供国际公共产品的战略转变。
+> [!concept-proposition] 命题一｜人类命运共同体表征着中国外交哲学走出韬光养晦并积极塑造全球治理秩序
+> **探讨维度　[[Geopolitics|地缘政治]]转型与大国叙事重构** 国际关系与政治社会学学者关注这一概念如何承载中国从被动融入国际体系向主动提供国际公共产品的战略转变。
 
 > [!claim] Zhao, X.
 > **外交转型里程碑与全球能动性确立** 赵晓春（Zhao, 2018）论证指出，构建人类命运共同体的提出标志着中国地缘政治思维的分水岭，见证了中国外交从传统的“韬光养晦”全面转向具有全球行动主义（Global Activism）色彩的大国作为。西方在应对金融危机及全球大流行中的治理挫折削弱了[[Washington Consensus|华盛顿共识]]的国际信誉，中国依托命运共同体提出了一套融合自身发展型国家实践的替代性全球治理模式。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 688–690)]]
 
 ---
 
-### 命题二　共同体修辞在政策实践中作为激励性框架遮蔽深层地缘经济工具化导向
-
-> [!concept-lens] 政策正当化与意识形态修辞功能
-> 批判政策[[Discourse Analysis|话语分析]]学者着重揭示这一宏大理念在政策文本中如何作为道德框架，协调解决硬性地缘战略扩张面临的合法性摩擦。
+> [!concept-proposition] 命题二｜共同体修辞在政策实践中作为[[Policy Framing|激励性框架]]遮蔽深层地缘经济工具化导向
+> **探讨维度　政策正当化与意识形态修辞功能** 批判政策[[Discourse Analysis|话语分析]]学者着重揭示这一宏大理念在政策文本中如何作为道德框架，协调解决硬性地缘战略扩张面临的合法性摩擦。
 
 > [!claim] Woo, E.
 > **[[Policy Framing|激励性框架]]的修辞赋能与结构性遮蔽** 伍国雄（Eric Woo, 2023）研究表明，在政策框架化过程中，人类命运共同体与文明互鉴构成了典型的激励性框架（Motivational Framing）。政策制定者将[[Education Going Global|教育出海]]与[[Internationalization of Higher Education|高等教育国际化]]描绘为促进区域共享繁荣与命运共担的高尚道德事业，有效调动了跨国合作的积极性。这种充满共赢修辞的[[Grand Theory|宏大叙事]]，在深层[[Discourse|话语实践]]中服务于大国复兴目标，并将教育紧密捆绑于海外基建产能转移与地缘战略布局，展现出深层的工具主义特征。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 683–684, 692–694)]]
@@ -178,4 +176,4 @@ updated: 2026-10-25
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_King_2020_ECNUROE|King (2020)]] — 运用政策[[Discourse Analysis|话语分析]]比对[[Forum on China-Africa Cooperation|中非合作论坛]]与[[Belt and Road Education Action Plan|“一带一路”教育行动]]，揭示命运共同体理念如何通过[[People-to-People Connectivity|民心相通]]、传统文化伦理互鉴（如儒家“立己达人”与非洲“独行快，众行远”）重塑跨大洲教育能力合作的多边正当性（pp. 228–232）。
 > - [[Argument_Woo_2023_HEP|Woo (2023)]] — 将人类命运共同体作为解构中国[[Belt and Road Initiative|一带一路]]教育政策[[Discourse|话语]]的[[Policy Framing|激励性框架]]（Motivational Framing），深入剖析了这一宏大[[Social Imaginary|社会想象]]如何赋予国家高等教育跨国扩张以道义正当性。
-> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合中国与东盟全面战略伙伴关系与周边外交大局，阐明职业教育高水平对外开放如何依托四级政策链条与多边平台网络服务中国—东盟命运共同体建设（pp. 287–289, 297–298）。
+> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 结合中国与东盟全面战略伙伴关系与周边外交大局，阐明[[Internationalization of Vocational Education|职业教育高水平对外开放]]如何依托四级政策链条与多边平台网络服务中国—东盟命运共同体建设（pp. 287–289, 297–298）。

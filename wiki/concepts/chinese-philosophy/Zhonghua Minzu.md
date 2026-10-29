@@ -14,7 +14,7 @@ related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-10-22
+updated: 2026-10-29
 tags:
   - region/china
   - theme/national-identity
@@ -27,9 +27,9 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Second-generation Ethnic Policy]]"
   - "[[Sinicisation]]"
+  - "[[Reflexivity]]"
   - "[[Symbolic Boundary]]"
   - "[[Cultural Disembedding]]"
-  - "[[Reflexivity]]"
   - "[[One Country, Two Systems]]"
   - "[[National Rejuvenation Narrative]]"
   - "[[Grand Theory]]"
@@ -110,30 +110,24 @@ related_arguments:
 
 ---
 
-### 命题一　中华民族“多元一体”话语服务于国家从多民族宪制向单一国族的同化主义转型
-
-> [!concept-lens] 国族建构与同化主义转向
-> 探讨“中华民族”[[Discourse|话语]]如何从社会学学术概念演变为国家政治意志，并为推行[[Second-generation Ethnic Policy\|第二代民族政策]]与通用语言文字改革提供合法性。
+> [!concept-proposition] 命题一｜中华民族“多元一体”[[Discourse|话语]]服务于国家从多民族宪制向单一国族的同化主义转型
+> **探讨维度　国族建构与同化主义转向** 探讨“中华民族”[[Discourse|话语]]如何从社会学学术概念演变为国家政治意志，并为推行[[Second-generation Ethnic Policy\|第二代民族政策]]与通用语言文字改革提供合法性。
 
 > [!claim] Uradyn E. [[Argument_Bulag_2024_CE|Bulag (2024)]]
 > **“多元一体”格局的同化导向与自我牺牲要求** [[Fei Xiaotong\|费孝通]] 1988 年提出的“中华民族多元一体格局”表面上强调多元与一体并存，实质上试图将宪法规定的多民族国家重构为单一国族政治实体。该话语赋予汉文化超自然的同化吸引力，将古代族际战争与近代非汉群体的牺牲解读为“不自觉”与“自觉”融入中华民族一体化的过程，为后来的第二代民族政策与熔炉同化提供了理论正当性[[Argument_Bulag_2024_CE\|(Bulag, 2024, pp. 97, 101–105)]]。
 
 ---
 
-### 命题二　教科书历史叙事中的“中华民族”呈现出领土型与族裔文化型的二元范式对立
-
-> [!concept-lens] 历史教育中的中华民族[[Paradigm\|范式]]分野
-> 探讨历史教科书如何通过不同的[[Analytic Framework\|分析框架]]解读“中华民族”，并在中国大陆与香港形成两种截然不同的国家构建逻辑。
+> [!concept-proposition] 命题二｜教科书历史叙事中的“中华民族”呈现出领土型与族裔文化型的二元[[Paradigm|范式]]对立
+> **探讨维度　历史教育中的中华民族[[Paradigm\|范式]]分野** 探讨历史教科书如何通过不同的[[Analytic Framework\|分析框架]]解读“中华民族”，并在中国大陆与香港形成两种截然不同的国家构建逻辑。
 
 > [!claim] [[Argument_Xu_2024_CE\|Xu (2024)]]
 > **中华民族两种国家观在教科书中的选择性表述** 在历史教育中，“中华民族”并非单一维度的概念，而是分化为领土型与族裔文化型两种范式：中国大陆教科书采取“领土型中国观”（费孝通模式），以当代物理领土为构成性边界、将 56 个民族包容为一家；香港教科书则延续“族裔文化型中国观”（[[Hsu Cho-Yun\|许倬云]]与[[Qian Mu\|钱穆]]模式），以中原汉族文化为构成性边界、将领土呈现为随[[Sinicisation\|汉化]]程度变化的弹性空间[[Argument_Xu_2024_CE\|(Xu, 2024, pp. 575–576, 580–583)]]。
 
 ---
 
-### 命题三　官方教材将“中华民族”重构为以汉儒为正统象征的官方知识，引发少数民族学生的反思性隔阂
-
-> [!concept-lens] [[Official Knowledge\|官方知识]]垄断与边缘主体回应
-> 探讨 217 册必修教材如何将“中华民族”凝聚为国家[[Official Knowledge\|官方知识]]，以及这一单向度叙事在少数民族学生中引起的[[Symbolic Boundary\|符号边界]]与脱嵌感。
+> [!concept-proposition] 命题三｜官方教材将“中华民族”重构为以汉儒为正统象征的[[Official Knowledge|官方知识]]，引发少数民族学生的[[Reflexivity|反思性]]隔阂
+> **探讨维度　[[Official Knowledge\|官方知识]]垄断与边缘主体回应** 探讨 217 册必修教材如何将“中华民族”凝聚为国家[[Official Knowledge\|官方知识]]，以及这一单向度叙事在少数民族学生中引起的[[Symbolic Boundary\|符号边界]]与脱嵌感。
 
 > [!claim] [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]]
 > **官方教科书中的汉儒中心叙事与边缘反思** 2001 课程改革以来出版的 217 册必修教材将“中华民族”叙事高度聚焦于汉族儒家英雄英雄画廊（如[[Confucius\|孔子]]、[[Mencius\|孟子]]）与非汉政权（如北魏孝文帝、清朝康熙帝）尊崇汉儒的汉化过程，将中华民族大一统包装为不可逆转的历史规律。这一[[Official Knowledge\|官方知识]]塑造虽然强化了国族同一性，但因缺乏对少数民族主体的实质代表性，导致少数民族与信教学生产生深刻的[[Cultural Disembedding\|文化脱嵌]]感与[[Reflexivity\|反思性]]疏离[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 65–71)]]。

@@ -6,7 +6,7 @@ aliases:
 summary: "由雪莉·葛兰蒂（Shirley Grundy）基于弗莱雷批判哲学提出的课程范式。强调课程不仅是过程与探究，更必须包含对压迫制度的显性政治解构承诺，将批判意识觉醒与改变不公的社会变革行动（Praxis）作为核心。"
 type: concept
 domain: "curriculum"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Verbalism]]"
   - "[[Dialogue in Education]]"
   - "[[Dehumanization]]"
+  - "[[Culture of Silence]]"
   - "[[Active Learning]]"
   - "[[Theory of Knowledge]]"
 related_theories: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -92,10 +93,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　作为实践的课程是真正实现解放教育与打破沉默文化的唯一课程范式
-
-> [!concept-lens] 课程解放维度
-> 探讨实践[[Paradigm\|范式]]如何通过要求改变压迫结构的行动，防止教育退化为无用的口头学术游戏。
+> [!concept-proposition] 命题一｜作为实践的课程是真正实现解放教育与打破[[Culture of Silence|沉默文化]]的唯一课程[[Paradigm|范式]]
+> **探讨维度　课程解放维度** 探讨实践[[Paradigm\|范式]]如何通过要求改变压迫结构的行动，防止教育退化为无用的口头学术游戏。
 
 > [!claim] Grundy, S.
 > **实践范式的解放承诺** 葛兰蒂与达维什断言，唯有当课程超越纯粹的过程探讨、做出显性的解放承诺并要求变革实践时，[[Active Learning\|主动学习]]才能获得终极的伦理与政治意义。[[Argument_Darwish_2009_Queens\|(Grundy, 1987, p. 102; Darwish, 2009, pp. 68–71, p. 81)]]

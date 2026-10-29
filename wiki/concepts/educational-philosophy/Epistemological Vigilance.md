@@ -7,7 +7,7 @@ aliases:
 summary: "批判性认识论与认知科学概念，指研究者与学习者持续审视日常语言、前科学常识预设及算法表面流畅性以维持认知主体性与深层推理的心智机制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 43
+related_count: 46
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Scientific Method]]"
+  - "[[Artificial Intelligence in Education]]"
   - "[[Epistemic Friction]]"
   - "[[Cognitive Offloading]]"
   - "[[Reliability]]"
@@ -40,8 +41,10 @@ related_concepts:
   - "[[Trust Calibration]]"
   - "[[Metacognition]]"
   - "[[Effective Teaching]]"
+  - "[[Document]]"
   - "[[Working Memory]]"
   - "[[Self-Regulated Learning]]"
+  - "[[Strategy Monitoring]]"
   - "[[Positivism]]"
   - "[[Variable]]"
   - "[[AI Literacy]]"
@@ -71,13 +74,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Epistemological Vigilance
-> [[Epistemology\|认识论]]警觉（Epistemological / Epistemic Vigilance）指认知主体（科学研究者或学习者）在[[Knowledge Production\|知识生产]]、信息接收与[[Man-Computer Symbiosis|人机协同]]交互全程中，**持续对日常语言、前科学自发常识以及技术算法的表面语义流畅性保持的主动质疑、批判审视与事实核查机制**。在社会[[Scientific Method\|科学方法]]论中，它体现为研究者对抗日常概念渗透与对象化预设的终身智识实践；在认知科学与教育人工智能中，它体现为学习者抵御生成式算法误导、维持“[[Epistemic Friction\|认识论摩擦]]”以防范有害[[Cognitive Offloading\|认知卸载]]的核心心智防线。[[Argument_Eacott_2015_EPT\|(Eacott, 2015, p. 322)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–11)]]
+> [[Epistemology\|认识论]]警觉（Epistemological / Epistemic Vigilance）指认知主体（科学研究者或学习者）在[[Knowledge Production\|知识生产]]、信息接收与[[Man-Computer Symbiosis|人机协同]]交互全程中，**持续对日常语言、前科学自发常识以及技术算法的表面语义流畅性保持的主动质疑、批判审视与事实核查机制**。在社会[[Scientific Method\|科学方法]]论中，它体现为研究者对抗日常概念渗透与对象化预设的终身智识实践；在认知科学与[[Artificial Intelligence in Education|教育人工智能]]中，它体现为学习者抵御生成式算法误导、维持“[[Epistemic Friction\|认识论摩擦]]”以防范有害[[Cognitive Offloading\|认知卸载]]的核心心智防线。[[Argument_Eacott_2015_EPT\|(Eacott, 2015, p. 322)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–11)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向主体在面对外部信息与中介工具时，主动评估证据[[Reliability\|可靠性]]、识别概念预设与检验逻辑自洽性的动态反思倾向。
@@ -120,11 +123,11 @@ updated: 2026-10-25
 > [!feature] 核心要素
 > - **日常语言与常识前建构的持续解构** 警惕科学术语对生活日常词汇（如“领导力”、“改进”、“[[Effective Teaching\|有效教学]]”）的无反思套用，揭示这些概念在掩盖权力关系的同时制造的“科学感假象”。[[Argument_Eacott_2015_EPT\|(Eacott, 2015, pp. 322–324)]]
 > - **内容评估维度（Content Evaluation）** 针对算法生成内容的似真性、因果机制完整性、片面性与语境适切性进行严谨检验，排查模型遗漏关键机制或虚构论据的缺陷。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 4–5)]]
-> - **二手[[Source Evaluation|信源评估]]维度（Source Evaluation）** 追问外部输出与算法推论背后的文献依据、权威共识与专业资质，辨识信息中介的利益动机与[[Reliability|可靠性]]。[[Argument_Han_Gutierez_2026_IJSE\|(Sperber et al., 2010; Han & Gutierez, 2026, p. 5)]]
+> - **二手[[Source Evaluation|信源评估]]维度（Source Evaluation）** 追问外部输出与算法推论背后的[[Document|文献]]依据、权威共识与专业资质，辨识信息中介的利益动机与[[Reliability|可靠性]]。[[Argument_Han_Gutierez_2026_IJSE\|(Sperber et al., 2010; Han & Gutierez, 2026, p. 5)]]
 > - **接收者自我评估维度（Receiver Evaluation）** 审视认知主体自身的先验假设、偏见盲区以及对生成内容的真实理解程度，防范表面语义顺从。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 5–6)]]
 > - **生产性“[[Epistemic Friction\|认识论摩擦]]”的主动维持** 在人机互动中主动设置认知阻力与验证关卡，拒绝将判断权全盘让渡，确保[[Working Memory\|工作记忆]]在概念权衡中持续活跃。[[Argument_Li_2026_CEAI\|(Medina, 2013; Li et al., 2026, p. 10)]]
 > - **红队测试与多源证据[[Triangulation\|三角互证]]** 采取对抗性测试思维（如主动寻找模型输出漏洞、对比一手学术文献与同行评议数据），形成事实核查的闭环机制。[[Argument_Li_2026_CEAI\|(Archila et al., 2024; Li et al., 2026, pp. 6, 11)]]
-> - **[[Metacognition\|元认知]]与[[Self-Regulated Learning\|自我调节学习]]的内驱支撑** 依托前瞻规划、策略监控与反思日记，根据探究挑战度动态调节技术调用边界，保持认知主体性。[[Argument_Li_2026_CEAI\|(Zimmerman, 2002; Li et al., 2026, p. 11)]]
+> - **[[Metacognition\|元认知]]与[[Self-Regulated Learning\|自我调节学习]]的内驱支撑** 依托前瞻规划、[[Strategy Monitoring|策略监控]]与反思日记，根据探究挑战度动态调节技术调用边界，保持认知主体性。[[Argument_Li_2026_CEAI\|(Zimmerman, 2002; Li et al., 2026, p. 11)]]
 
 > [!logic-map]- 要素关系与运作机制
 > ```mermaid
@@ -144,10 +147,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　认识论警觉是抵御日常常识渗透与维护科学对象自主建构的终身智识实践
-
-> [!concept-lens] 社会科学[[Knowledge Production\|知识生产]]与对象建构维度
-> 该命题揭示了社会科学家与研究对象之间深层的具身嵌入关系，指出科学研究的最大敌人并非客观技术的匮乏，而是对社会世界的“熟悉性”所滋生的理所当然感。
+> [!concept-proposition] 命题一｜[[Epistemology|认识论]]警觉是抵御日常常识渗透与维护科学对象自主建构的终身智识实践
+> **探讨维度　社会科学[[Knowledge Production\|知识生产]]与对象建构维度** 该命题揭示了社会科学家与研究对象之间深层的具身嵌入关系，指出科学研究的最大敌人并非客观技术的匮乏，而是对社会世界的“熟悉性”所滋生的理所当然感。
 
 > [!claim] [[Scott Eacott\|Eacott, S.]]
 > **日常语言侵蚀与常识性神圣标签批判** 社会科学学者在社会化进程中天然内化了客观结构，因而极易以未经反思的常识视角（[[Doxa]]）建构研究对象。以教育行政为例，“领导力”被树立为不可触碰的神圣标签，大量研究直接借用“质量”、“改进”、“有效”等日常管理[[Discourse|话语]]制造虚假的科学感，而未追问其背后的权力利益分配。[[Epistemology\|认识论]]警觉要求研究者不仅分析对象，更要将“建构对象的过程本身作为对象”，抵抗常识的持续回潮。[[Argument_Eacott_2015_EPT\|(Eacott, 2015, pp. 322–324)]]
@@ -157,10 +158,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　认识论警觉是学习者化解算法表面流畅性迷思并抵御认知卸载的核心防线
-
-> [!concept-lens] [[Man-Computer Symbiosis|人机协同]]学习与高阶心智维持维度
-> 该命题阐明在[[Generative Artificial Intelligence\|生成式人工智能]]深度融入学习活动的背景下，认识论警觉是防止学生从“人机对话伙伴”滑向“被动心智外包”的关键调节[[Variable\|变量]]。
+> [!concept-proposition] 命题二｜认识论警觉是学习者化解算法表面流畅性迷思并抵御[[Cognitive Offloading|认知卸载]]的核心防线
+> **探讨维度　[[Man-Computer Symbiosis|人机协同]]学习与高阶心智维持维度** 该命题阐明在[[Generative Artificial Intelligence\|生成式人工智能]]深度融入学习活动的背景下，认识论警觉是防止学生从“人机对话伙伴”滑向“被动心智外包”的关键调节[[Variable\|变量]]。
 
 > [!claim] Li, C.
 > **显性 AI 素养对认识论警觉的激活与反思放大机制** 大语言模型生成的文本具有极高的表层语义流畅性与语法规范性，若缺乏显性引导，学习者倾向于全盘接受输出，导致严重的[[Cognitive Offloading\|认知卸载]]、事实盲从与论证退化。通过在课程中嵌入显性[[AI Literacy\|人工智能素养]]模块（重点讲授概率生成机制、偏见识别与幻觉侦测）以及反思规程，能够有效激活学习者的认识论警觉，使其将 AI 视为需要审问的对话伙伴而非直接答案提供者，进而驱动[[Critical Thinking\|批判性思维]]的显著增长。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 10–11)]]

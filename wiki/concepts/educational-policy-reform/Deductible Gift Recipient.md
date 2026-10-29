@@ -20,8 +20,8 @@ tags:
   - policy-tools
   - educational-governance
 related_concepts:
-  - "[[Philanthrocapitalism]]"
   - "[[Venture Philanthropy]]"
+  - "[[Philanthrocapitalism]]"
   - "[[Seed Funding]]"
   - "[[Professional Judgment]]"
   - "[[Social Impact Investing]]"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -99,20 +99,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　DGR1 特许立法是资本主义国家将风险慈善制度化装配进公共教育的法定核心载体
-
-> [!concept-lens] 制度与法律装配机制
-> 阐明抽象的[[Philanthrocapitalism\|慈善资本主义]]理念如何通过税法修正案与 DGR1 资质等无生命耐用材料，在主权国家内部完成制度化具身与法定固化。
+> [!concept-proposition] 命题一｜DGR1 特许立法是资本主义国家将[[Venture Philanthropy|风险慈善]]制度化装配进公共教育的法定核心载体
+> **探讨维度　制度与法律装配机制** 阐明抽象的[[Philanthrocapitalism\|慈善资本主义]]理念如何通过税法修正案与 DGR1 资质等无生命耐用材料，在主权国家内部完成制度化具身与法定固化。
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; [[Argument_Rowe_2022_IJER\|Rowe (2022)]]
 > **税收特许管道对异层教育治理的锚定** [[Venture Philanthropy\|风险慈善]]若无国家法律底座的支撑，只能停留在边缘的零星捐赠。在澳大利亚，国家通过《2014年税收与养老金法律修正案（第5号措施）》，破例授予 [[Australian Schools Plus\|Schools Plus]] 全澳 DGR1 特许资质，并配套 500 万澳元政府[[Seed Funding|种子资助]]。这一法定管道打破了州立公立学校无法享受联邦税收抵免的制度隔离，正式在国家层面确立了企业慈善向公立教育合法输送并主导项目的特权通道。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 525, 528, 530)]]
 
 ---
 
-### 命题二　DGR1 制度诱发公共财富向私营中介逆向流动并剥夺公立学校办学自主权
-
-> [!concept-lens] 财富再分配异化与去专业化
-> 揭示依托免税特权运作的慈善资本不仅未能缩减教育差距，反而使公共财政反向滋养私营中介并强化了对学校的商业规训。
+> [!concept-proposition] 命题二｜DGR1 制度诱发公共财富向私营中介逆向流动并剥夺公立学校办学自主权
+> **探讨维度　财富再分配异化与去专业化** 揭示依托免税特权运作的慈善资本不仅未能缩减教育差距，反而使公共财政反向滋养私营中介并强化了对学校的商业规训。
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]
 > **免税中介再分配异化与学校商业附庸化** 实证档案显示，享有 DGR1 资质的 [[Social Ventures Australia\|SVA]] 从政府吸纳的财政资助（121.6 万澳元）远高于其对外发放的赠款（62.5 万澳元，仅占 51%），公共财政逆向流向了机构自身的咨询与行政开销。在此模式下，本应享受全额公共拨款的弱势公立学校沦落为竞逐企业微额赠款的乞讨者，办学自主权与教育[[Professional Judgment\|专业判断]]被迫屈从于商业问责量规。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 527–528)]]

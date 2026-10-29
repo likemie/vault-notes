@@ -32,8 +32,8 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Heterogeneity]]"
   - "[[Global Educational Discourse]]"
-  - "[[Research Translation]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Research Translation]]"
   - "[[School Autonomy]]"
   - "[[Multiplicity]]"
   - "[[Educated Identity]]"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-15
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -138,30 +138,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　流动空间的去领土化逻辑驱使全球政策网络生产脱嵌于历史的漂浮能指
-
-> [!concept-lens] [[Performativity|操演性]]竞争与[[Discourse|话语]]普遍化
-> 揭示全球教育治理主体在流动空间中由于缺乏直接法定主权，如何被迫通过制造脱离具体时空经验的抽象符号以换取跨国流通的最大可接受性。
+> [!concept-proposition] 命题一｜流动空间的去领土化逻辑驱使[[Policy Network|全球政策网络]]生产脱嵌于历史的[[Floating Signifier|漂浮能指]]
+> **探讨维度　[[Performativity|操演性]]竞争与[[Discourse|话语]]普遍化** 揭示全球教育治理主体在流动空间中由于缺乏直接法定主权，如何被迫通过制造脱离具体时空经验的抽象符号以换取跨国流通的最大可接受性。
 
 > [!claim] [[Jason Beech|Beech, J.]]
 > **流动空间与[[Floating Signifier|漂浮能指]]生产假说** 比奇（[[Argument_Beech_2009_CE|Beech, 2009a]]）指出，运行于流动空间中的全球教育[[Policy Network|政策网络]]缺乏主权强制管辖权，必须依托扩大“操演性”（Performativity）和影响力范围来维持自身合法性。为了跨越[[Heterogeneity|异质性]]国家的政治与文化壁垒，网络中的行动者遵循[[Network Society|网络社会]]的电子超文本逻辑，系统性地抽空教育概念（如“能力发展”、“尊重多样性”）在特定历史场景（如泰勒制流水线控制、民权斗争）中的制度起源，将其重塑为含义极其宽泛、脱离历史经验的“[[Floating Signifier|漂浮能指]]”。这种真实虚拟文化使得[[Global Educational Discourse|全球教育话语]]能够作为看似无可置疑的“世界常识”在全球范围内迅速流通。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 350–355)]]
 
 ---
 
-### 命题二　流动空间中的多边机构依托实用主义范式对学术知识进行技术化简化
-
-> [!concept-lens] 跨国[[Research Translation|知识转译]]与实用性过滤
-> 阐明流动空间中主导性国际机构如何将复杂的学术知识剪裁为包含五个核心要素的通用政策包，排斥多元批判视角。
+> [!concept-proposition] 命题二｜流动空间中的多边机构依托[[Pragmatic Paradigm|实用主义范式]]对学术知识进行技术化简化
+> **探讨维度　跨国[[Research Translation|知识转译]]与实用性过滤** 阐明流动空间中主导性国际机构如何将复杂的学术知识剪裁为包含五个核心要素的通用政策包，排斥多元批判视角。
 
 > [!claim] [[Jason Beech|Beech, J.]]
 > **知识实用简化与通用模型假说** 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）在其五位置[[Champ|场域]]模型中进一步阐明，流动空间中的国际组织（[[UNESCO]]、[[World Bank|世界银行]]、[[OECD]]）充当了将全球学术知识转化为政策工具的关键中介。受[[Pragmatic Paradigm|实用主义范式]]支配，多边机构系统性地剥离了学术生产中关于教育价值的辩证交锋与复杂情境制约，将高度分化的教育理论机械简化为包含五个固定要素的通用处方（分权化、[[School Autonomy|学校自主]]、教师专业化、能力本位与质量评估）。这种在流动空间中经过技术化封装的知识，作为“全球教育药方”向外围与半外围国家推销，直接促成了全球教育政策修辞的惊人同质化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–349)]]
 
 ---
 
-### 命题三　流动空间内部呈现多元跨国行动者激烈博弈与争夺话语主导权的争议性
-
-> [!concept-lens] 网络空间[[Multiplicity|多重性]]与反霸权倡导
-> 剖析流动空间绝非西方霸权机构的铁板一块，而是工会、社会运动与多边机构竞相构建同盟、开展政策争夺的动态场域。
+> [!concept-proposition] 命题三｜流动空间内部呈现多元跨国行动者激烈博弈与争夺话语主导权的争议性
+> **探讨维度　网络空间[[Multiplicity|多重性]]与反霸权倡导** 剖析流动空间绝非西方霸权机构的铁板一块，而是工会、社会运动与多边机构竞相构建同盟、开展政策争夺的动态场域。
 
 > [!claim] [[Manuel Castells|Castells, M.]] & [[Jason Beech|Beech, J.]]
 > **流动空间多元抗辩假说** 卡斯特（Castells, 2000c）与比奇（[[Argument_Beech_2009_CE|Beech, 2009a]]）强调，随着信息通信基础设施的全球普及，流动空间不再仅仅是世界银行等传统跨国金融资本的专属特权领地，而是逐渐演变为高度有争议的（Contested）政治空间。全球教师工会联合体（如 [[Education International]]）以及形形色色的国际非政府组织同样在流动空间中构建网络节点，利用电子通信调动跨国草根教师力量，与新自由主义经济导向的国际组织就“教师专业标准”与“公共教育权利”展开激烈的规范争夺，证实流动空间内部具有强烈的政治异质性与动态博弈性。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 352–353)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "批判实在论的核心认识论推理逻辑与反事实反思策略。由 Roy Bhaskar 提出并由 Andrew Sayer 与 Berth Danermark 系统化，旨在超越经验归纳与形式演绎的局限；通过反向追问‘某一可观测经验现象得以成立，实在界必须具备何种深层结构与生成性因果机制’，借助思想实验与反事实分析穿透偶然的经验表象，重构并检验潜藏在深层实在中的客观因果机制。"
 type: concept
 domain: "research-methodology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Retrodiction]]"
   - "[[Creativity]]"
   - "[[Variable]]"
+  - "[[Scientific Explanation]]"
   - "[[Emergence]]"
   - "[[Discourse]]"
   - "[[Geopolitics]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-19
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -110,10 +111,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　科学解释的本质在于反向追问使经验现象成为可能的本体论条件
-
-> [!concept-lens] 机制追问的[[Ontology|本体论]]深度维度
-> 探讨科学[[Causality|因果推断]]如何超越表层[[Variable|变量]]统计相关，深入探寻促成现象出现的深层必然机制。
+> [!concept-proposition] 命题一｜[[Scientific Explanation|科学解释]]的本质在于反向追问使经验现象成为可能的[[Ontology|本体论]]条件
+> **探讨维度　机制追问的[[Ontology|本体论]]深度维度** 探讨科学[[Causality|因果推断]]如何超越表层[[Variable|变量]]统计相关，深入探寻促成现象出现的深层必然机制。
 
 > [!claim] Sayer, A.
 > **因果解释超越经验联结** 安德鲁·萨耶尔（Andrew Sayer, 1992）指出，[[Positivism|实证主义]]因果观将因果关系贬低为两个事件在时间上的恒常相随（A 之后发生 B）；然而，真正的因果必然性取决于客体本身的本质结构（Causal Powers and Liabilities）。逆推溯因的精髓正在于摆脱外在关联的计算，通过思想实验辨识出客体内部决定其行动能力的内在本质联系。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 687)]]
@@ -123,10 +122,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　宏观政策话语的生成机制必须依托逆推溯因穿透表层修辞方能合理解释
-
-> [!concept-lens] 批判政策研究的因果还原维度
-> 探讨在分析自上而下的政策文本群时，如何运用逆推溯因将[[Discourse|话语]]表象还原为国家[[Geopolitics|地缘政治]]与经济转型的深层必然性。
+> [!concept-proposition] 命题二｜宏观政策[[Discourse|话语]]的生成机制必须依托逆推溯因穿透表层修辞方能合理解释
+> **探讨维度　批判政策研究的因果还原维度** 探讨在分析自上而下的政策文本群时，如何运用逆推溯因将[[Discourse|话语]]表象还原为国家[[Geopolitics|地缘政治]]与经济转型的深层必然性。
 
 > [!claim] Woo, E.
 > **跨国高教政策深层生成机制的逆向回溯** 吴（Etienne Woo, 2023）在研究[[Belt and Road Initiative|一带一路]]教育政策时表明，单纯对文本进行语义编码无法解释该政策为何在 2015–2016 年突然作为跨部门国家任务全面铺开。借助逆推溯因法，研究将政策文本定位为结果，反向推导促成其出现所必需的政治与经济前提，最终确认了三大深层生成机制：走出[[Century of Humiliation|百年屈辱]]的集体历史创伤认同、威权发展型国家服务两个一百年目标的执政合法性诉求，以及全球金融危机后输出非西方治理方案的地缘雄心。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]

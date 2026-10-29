@@ -7,7 +7,7 @@ aliases:
 summary: "教育治理与政策工具社会学分析概念，指教师工会抗争与公民退考社会运动在逼退、缓冲或迫使政府取消针对学校与师生的高利害惩罚性措施（如废除教师解聘挂钩、叫停公开排位表）的同时，客观上充当了化解尖锐社会矛盾的制度防火墙，反向促使官方将国家大规模评估包装为中立的诊断改进工具，最终固化并锁定了底层数据基础设施的合法性。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Presence]]"
   - "[[Institutional Displacement]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[National Large-Scale Assessments]]"
 related_theories: []
 related_methods: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -95,20 +96,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　集体抗争对利害后果的切断反向提升了数据基础设施的系统韧性
-
-> [!concept-lens] 阻力吸收与制度演进的逆向强化
-> 探讨社会反抗如何被行政系统吸纳，从而转化为巩固底层技术架构的正向资源。
+> [!concept-proposition] 命题一｜集体抗争对利害后果的切断反向提升了[[Data Infrastructure|数据基础设施]]的系统韧性
+> **探讨维度　阻力吸收与制度演进的逆向强化** 探讨社会反抗如何被行政系统吸纳，从而转化为巩固底层技术架构的正向资源。
 
 > [!claim] Verger, A., Fontdevila, C. & Parcerisa, L.
 > **制度减震加固假说** 集体行动虽然能成功迫使政府修改政策工具的运用方式，却难以撼动工具本身的存在；切断惩戒后果使全员统考褪去了压迫性外观，消解了要求全盘废除数据治理的核心动能，最终实现了规制装置的长期延续。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 261–263)]]
 
 ---
 
-### 命题二　外围制度分层调整保护了核心技术装置免受生存危机
-
-> [!concept-lens] 制度构件的分层弹性
-> 探讨政策工具的构件如何通过牺牲外围可变构件来保全核心数据载体。
+> [!concept-proposition] 命题二｜外围[[Institutional Layering|制度分层]]调整保护了核心技术装置免受生存危机
+> **探讨维度　制度构件的分层弹性** 探讨政策工具的构件如何通过牺牲外围可变构件来保全核心数据载体。
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & [[Kathleen Thelen|Thelen, K.]]
 > **分层保护机制** 问责制是附加在评估工具之上的分层构件；当外部环境出现危机时，行政系统优先剥离引起公愤的分层奖惩规则，从而确保底层测验数据库不受损害。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 251, 263)]]
@@ -126,7 +123,7 @@ updated: 2026-10-22
 > [!dev-timeline] 概念演变
 > - **2000 年代初 — 经验现象显现** 挪威叫停官方排位表、丹麦废止排行榜，但两国全员统考系统毫发无损地持续运转。
 > - **2010 年代中期 — [[Opt-Out Movement|退考运动]]激化** 美国各州在退考潮后取消教师评价与统考硬挂钩，但联邦 [[Every Student Succeeds Act|ESSA]] 依然强制保留 3–8 年级全员统考框架。
-> - **2019 年 — 理论化命名与提炼** 韦尔热等人系统总结全球 158 篇文献，正式提炼出防火墙效应，揭示抗争与数据基底持续维系之间的深层制度辩证关系。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 260–263)]]
+> - **2019 年 — 理论化命名与提炼** 韦尔热等人系统总结全球 158 篇[[Document|文献]]，正式提炼出防火墙效应，揭示抗争与数据基底持续维系之间的深层制度辩证关系。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 260–263)]]
 
 ---
 

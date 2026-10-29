@@ -6,7 +6,7 @@ aliases:
 summary: "发端于拉丁美洲的解放教育范式，主张立足被压迫工农大众的生活经验与阶级境遇，通过提问式对话教学激发批判意识觉醒，培养改造社会结构的政治能动性，与国家威权自上而下的补偿性恩庇扫盲相对立"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -27,10 +27,12 @@ related_concepts:
   - "[[Student-Teacher Relationship]]"
   - "[[Avatar]]"
   - "[[Epistemology]]"
+  - "[[School Vouchers]]"
   - "[[High-Stakes Testing]]"
   - "[[Time-Space Compression]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Global Citizenship]]"
+  - "[[Liberation Theology]]"
   - "[[Educational Privatisation]]"
   - "[[Praxis]]"
   - "[[Politicity of Education]]"
@@ -57,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -115,33 +117,27 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　民众教育彻底解构了自由主义国家“教化主权者”的阶级神话
-
-> [!concept-lens] 政治[[Epistemology|认识论]]与公民权批判
-> 剖析民众教育如何揭穿资产阶级国家将公民身份与正规学校文凭捆绑的虚伪性，确立被压迫者的原发政治主体性。
+> [!concept-proposition] 命题一｜民众教育彻底解构了自由主义国家“教化主权者”的阶级神话
+> **探讨维度　政治[[Epistemology|认识论]]与公民权批判** 剖析民众教育如何揭穿资产阶级国家将公民身份与正规学校文凭捆绑的虚伪性，确立被压迫者的原发政治主体性。
 
 > [!claim] [[Paulo Freire|Freire, P.]] & [[Carlos Alberto Torres|Torres, C. A.]]
 > **破除自上而下赋予权利的资产阶级恩赐假定** 托雷斯指出，近代自由主义国家宣称必须先由公立学校“教化主权者”，然后才能赋予大众充分的公民权，这一逻辑实质上是将未受正规教育的广大工农排除在政治决策之外的阶级排斥策略。1960 年代兴起的民众教育彻底颠倒了这一逻辑：大众无需等待资产阶级国家的恩赐式教化，他们通过反思自身苦难与抗争实践，早已具备不可剥夺的历史创造主体性，教育的功能仅在于唤醒而非赐予这种主体力量（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 84]]）。
 
 ---
 
-### 命题二　民众教育是抵御国家法团主义恩庇收编与去政治化扫盲的根本阵地
-
-> [!concept-lens] 制度对抗与国家理论
-> 探讨自主民众教育如何与威权国家机器争夺大众文化领导权，抵制[[Compensatory Legitimation|补偿性合法化]]策略。
+> [!concept-proposition] 命题二｜民众教育是抵御[[State Corporatism|国家法团主义]]恩庇收编与去政治化扫盲的根本阵地
+> **探讨维度　制度对抗与国家理论** 探讨自主民众教育如何与威权国家机器争夺大众文化领导权，抵制[[Compensatory Legitimation|补偿性合法化]]策略。
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & Torres, C. A.
 > **抵制国家将扫盲转化为维护威权的政治减震器** 两位学者基于拉美特别是墨西哥的历史经验指出，面对合法性危机，威权国家往往通过垄断性工会推行大规模国家扫盲（如 [[INEA]]），企图以微小的边际福利将大众重新吸纳进一党制恩庇体系中。民众教育运动正是在与这种官方收编的激烈博弈中成长起来的，它坚决拒绝脱离政治经济批判的功能性识字，始终坚持将教育权与土地改革、劳动者自治及打破[[Conditioned State Theory|受限国家]]寡头支配的总体斗争紧密捆绑（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, pp. 83–84]]）。
 
 ---
 
-### 命题三　跨国民众教育网络是抵御自上而下新自由主义规训、推动“自下而上全球化”的核心载体
-
-> [!concept-lens] 全球治理与草根抗争
-> 从比较教育学与[[World-Systems Theory|世界体系分析]]视角，审视民众教育如何从一国本土经验扩展为抗击新自由主义政策霸权的跨国社会正义同盟。
+> [!concept-proposition] 命题三｜跨国民众教育网络是抵御自上而下新自由主义规训、推动“自下而上全球化”的核心载体
+> **探讨维度　全球治理与草根抗争** 从比较教育学与[[World-Systems Theory|世界体系分析]]视角，审视民众教育如何从一国本土经验扩展为抗击新自由主义政策霸权的跨国社会正义同盟。
 
 > [!claim] [[Robert Arnove|Arnove, R.]]
-> **自下而上改革方位与政治文化正义取向的契合** 阿诺夫借鉴[[Rolland Paulston|保尔斯顿]]与勒罗伊（Paulston & Leroy, 1980）的非正规教育[[Analytic Framework|分析框架]]，提出了审视教育改革动力的二维矩阵：垂直轴为发起方位（自上而下 vs 自下而上），水平轴为目标取向（经济生产力 vs 政治文化正义）。以私有化、教育券、权力下放和[[High-Stakes Testing|高利害测验]]为核心的主流改革，本质上是由国际金融机构与国家官僚自上而下发起的经济主义议程；而民众教育、社区非正规技能互助与原住民教育主权运动，则代表了**自下而上推进、以社会与文化正义为导向的解放性力量**。在信息通信技术（ICT）构建的全球流散空间中，分散在各国的边缘群体通过跨国民众教育网络实现横向联合，共同探索抵御结构调整与教育商品化危机的“[[Globalization from Below|自下而上的全球化]]”（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 113–114]]）。
+> **自下而上改革方位与政治文化正义取向的契合** 阿诺夫借鉴[[Rolland Paulston|保尔斯顿]]与勒罗伊（Paulston & Leroy, 1980）的非正规教育[[Analytic Framework|分析框架]]，提出了审视教育改革动力的二维矩阵：垂直轴为发起方位（自上而下 vs 自下而上），水平轴为目标取向（经济生产力 vs 政治文化正义）。以私有化、[[School Vouchers|教育券]]、权力下放和[[High-Stakes Testing|高利害测验]]为核心的主流改革，本质上是由国际金融机构与国家官僚自上而下发起的经济主义议程；而民众教育、社区非正规技能互助与原住民教育主权运动，则代表了**自下而上推进、以社会与文化正义为导向的解放性力量**。在信息通信技术（ICT）构建的全球流散空间中，分散在各国的边缘群体通过跨国民众教育网络实现横向联合，共同探索抵御结构调整与教育商品化危机的“[[Globalization from Below|自下而上的全球化]]”（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 113–114]]）。
 
 > [!citation-card] 教育改革方位与自下而上全球化矩阵
 > 面对资本积累危机与[[Time-Space Compression|时空压缩]]，主流教育政策大多由国际和国家层级的官僚机构自上而下发起，并服务于经济生产力目标。与此同时，越来越多的草根倡议旨在建立更加平等的社会与教育体系，并与文化认同运动紧密相连。借由现代信息网络，分散在各国的边缘群体得以联合起来，推动以权利、正义与民主为导向的自下而上的全球化。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 113–114)]]
@@ -161,7 +157,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 民众教育的历史发展脉络
 > - **1960 年代初 — 巴西东北部发轫** [[Paulo Freire|弗莱雷]]在巴西累西腓开展无地甘蔗工人识字试验，开创文化圈（Culture Circles）与[[Dialogue in Education|对话教学]]法，在短短 45 天内帮助文盲工人学会读写并确立政治意识。
-> - **1964–1970s — 军人独裁下的地下转战与拉美扩散** 巴西与阿根廷等国军人政变后，民众教育骨干转入地下，与天主教解放神学（Liberation Theology）基社团深度结合，在智利、尼加拉瓜与萨尔瓦多蓬勃发展。
+> - **1964–1970s — 军人独裁下的地下转战与拉美扩散** 巴西与阿根廷等国军人政变后，民众教育骨干转入地下，与天主教[[Liberation Theology|解放神学]]（Liberation Theology）基社团深度结合，在智利、尼加拉瓜与萨尔瓦多蓬勃发展。
 > - **1980s — 抵抗[[State Corporatism|国家法团主义]]与民主化转型** 面对墨西哥等国推行的威权法团扫盲，拉美民众教育理事会（CEAAL）建立，成为反思[[Compensatory Legitimation|补偿性合法化]]机制的核心学术与行动网络；[[Rolland Paulston|保尔斯顿]]与勒罗伊（Paulston & Leroy, 1980）系统提炼非正规教育自下而上推动社会变革的理论[[Paradigm|范式]]。
 > - **1990s 至今 — 另类全球化与草根社会运动融合** 面对新自由主义[[Educational Privatisation|教育私有化]]冲击，民众教育与巴西无地农民运动（MST）、墨西哥萨帕塔运动（EZLN）结合；[[Robert Arnove|阿诺夫]]（Arnove, 2005, 2009）进一步将其阐发为推动“自下而上全球化”的跨国正义网络。
 

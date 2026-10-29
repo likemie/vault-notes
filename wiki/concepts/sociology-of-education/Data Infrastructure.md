@@ -9,7 +9,7 @@ aliases:
 summary: "围绕教育数据的去情境化抽取、算法通约折算与选择性再呈现而动态装配的社会-技术网络；是充斥算法选择性与即兴调配的实验性系统，深陷简化、通约、时效、公开与博弈五维张力，通过次级代表表象生产分布式治理权力。"
 type: concept
 domain: "sociology-of-education"
-related_count: 50
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -33,8 +33,8 @@ related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
   - "[[Argument_Grek_2009_JEdPolicy]]"
   - "[[Argument_Wecker_2016_ZfE]]"
-  - "[[Argument_Hartong_2018_GSE]]"
   - "[[Argument_Grek_2024_EERJ]]"
+  - "[[Argument_Hartong_2018_GSE]]"
 related_concepts:
   - "[[Assemblage]]"
   - "[[Recontextualization]]"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Data Literacy]]"
   - "[[Evidence-Based Education]]"
+  - "[[Document]]"
   - "[[Subsidiarity Principle]]"
   - "[[European Education Space]]"
   - "[[Performance Indicators]]"
@@ -67,18 +68,22 @@ related_facts:
   - "[[PISA]]"
   - "[[UOE Data Collection]]"
   - "[[International Indicators of Education Systems]]"
+  - "[[European Tertiary Education Register]]"
+  - "[[European Quality Assurance Register for Higher Education]]"
+  - "[[Database of External Quality Assurance Results]]"
   - "[[Vergleichsarbeiten]]"
   - "[[Institute for Educational Quality Improvement]]"
   - "[[Lisbon Strategy]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Massachusetts Department of Elementary and Secondary Education]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
+  - "[[European Education Area]]"
 related_theories:
   - "[[Governing at a Distance]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 ---
@@ -136,56 +141,46 @@ updated: 2026-10-28
 
 ---
 
-### 命题一　数据基础设施是由算法选择与即兴调试持续维系的社会-技术装配系统
-
-> [!concept-lens] 算法偏狭性与试错实践维度
-> 探究基础设施在表面自动化中立修辞与微观行政实践之间的断裂，揭示代码检索与指标加权背后的价值介入。
+> [!concept-proposition] 命题一｜数据基础设施是由算法选择与即兴调试持续维系的社会-技术装配系统
+> **探讨维度　算法偏狭性与试错实践维度** 探究基础设施在表面自动化中立修辞与微观行政实践之间的断裂，揭示代码检索与指标加权背后的价值介入。
 
 > [!claim] [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]]
 > **试错烹饪与算法选择性** 官方流程图描摹的平滑自动化循环在实践中实为理想化修辞；受访官员将围绕数据的工作描述为充满即兴摸索的试错烹饪过程。外部所见的数据图景是由检索程序的筛选指令、指标分项的权重裁决以及技术人员的手工干预严格塑造的社会-技术产物，区别于客观真实的静态镜像。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 4–5)]]
 
 ---
 
-### 命题二　数据基础设施的运行必然受制于简化、通约、时效、公开与博弈等五维结构性治理张力
-
-> [!concept-lens] 制度两难与妥协折中维度
-> 剖析当技术系统嵌入[[School Inspection|学校督导]]、资源分配与行政问责时，行政行动者必须承受的五组深层结构性张力。
+> [!concept-proposition] 命题二｜数据基础设施的运行必然受制于简化、[[Commensuration|通约]]、时效、公开与博弈等五维结构性治理张力
+> **探讨维度　制度两难与妥协折中维度** 剖析当技术系统嵌入[[School Inspection|学校督导]]、资源分配与行政问责时，行政行动者必须承受的五组深层结构性张力。
 
 > [!claim] [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]]
 > **做数据张力塑造数据化边界** 数据基础设施深陷于五组制度两难之中：其一，用户友好型极简呈现与深层情境化精准表达的取舍两难；其二，去地域化统计公平对标与基层认同的本地邻区比较之间的文化断裂；其三，法定截止确立的单一事实来源与高利害微观溯源之间的法治撕裂；其四，激进公开问责信念与防范社会恐慌的防御性控制收紧；其五，问责利益绑定必然诱发的防御性数据操纵与策略博弈。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 5–10)]]
 
 ---
 
-### 命题三　数据基础设施通过次级代表表象生产分布式计算权力
-
-> [!concept-lens] 治理能见度与分布式计算权力维度
-> 分析基础设施如何重组权力形态，以及为何必须由传统数据技能转向批判性基础设施素养。
+> [!concept-proposition] 命题三｜数据基础设施通过次级代表表象生产分布式计算权力
+> **探讨维度　治理能见度与分布式计算权力维度** 分析基础设施如何重组权力形态，以及为何必须由传统数据技能转向批判性基础设施素养。
 
 > [!claim] Kitchin (2014) / Williamson (2017) / [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]]
 > **分布式计算权力与基础设施素养诉求** 教育数字化将治理权力弥散性地固化在分散的算法模型、数据库规则与法定冻结时限之中，由此生产出分布式计算权力；数据系统通过算法指标建构出关于学校的第二手代表表象（Second-hand Representations），垄断了代表学校发声的合法性能见度。面对这一治理现实，仅关注读取现成图表技能的传统[[Data Literacy|数据素养]]已然失效，亟需确立能够洞察、质询并参与重构数据生产全链条的数据基础设施素养。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 10–11)]]
 
 ---
 
-### 命题四　独立于商业出版的中央标准化证据数据基础设施构成终结发表偏倚与实现精准一级元分析的制度基石
-
-> [!concept-lens] 科学证据基础设施与学术评价激励独立
-> 探讨商业学术期刊篇幅限制与显著性筛选如何导致实证元数据大面积剥离，以及中央标准化证据数据基础设施如何从制度上终结[[Publication Bias|发表偏倚]]并重塑[[Evidence-Based Education|循证教育]]。
+> [!concept-proposition] 命题四｜独立于商业出版的中央标准化证据数据基础设施构成终结[[Publication Bias|发表偏倚]]与实现精准一级[[Meta-analysis|元分析]]的制度基石
+> **探讨维度　科学证据基础设施与学术评价激励独立** 探讨商业学术期刊篇幅限制与显著性筛选如何导致实证元数据大面积剥离，以及中央标准化证据数据基础设施如何从制度上终结[[Publication Bias|发表偏倚]]并重塑[[Evidence-Based Education|循证教育]]。
 
 > [!claim] [[Christof Wecker|Wecker, C.]], et al.
-> **克服商业出版扭曲与数据黑箱** 传统实证研究高度依附于商业学术期刊，受制于期刊版面篇幅限制与对[[Statistical Significance|统计显著性]]的发表偏好，致使主要研究的原始统计矩阵（如实验组与对照组[[Sample Size Determination|样本量]] $n_E, n_C$、标准差 $s_E, s_C$）大面积散失，制造了严重的[[Publication Bias|发表偏倚]]与文件抽屉效应；以 Hattie 为代表的二阶[[Meta-meta-analysis|元元分析]]对商业文献进行粗糙综合，更在方法学上造成了无法核验、偏倚复合放大的知识黑箱。
+> **克服商业出版扭曲与数据黑箱** 传统实证研究高度依附于商业学术期刊，受制于期刊版面篇幅限制与对[[Statistical Significance|统计显著性]]的发表偏好，致使主要研究的原始统计矩阵（如实验组与对照组[[Sample Size Determination|样本量]] $n_E, n_C$、标准差 $s_E, s_C$）大面积散失，制造了严重的[[Publication Bias|发表偏倚]]与文件抽屉效应；以 Hattie 为代表的二阶[[Meta-meta-analysis|元元分析]]对商业[[Document|文献]]进行粗糙综合，更在方法学上造成了无法核验、偏倚复合放大的知识黑箱。
 > **全量归档、标准无偏估计与学术成果清单认证** 必须建立由科学共同体独立运营的中央开放数据基础设施（Zentrale Datenbank），强制无条件收集所有经公帑资助实证研究的原始设计参数、数据矩阵与标准化[[Effect Size|效应量]]（统一采用 Hedges' $g$ 无偏估计）；为从根本上激活基础设施的供给动力，必须在科研评价制度中将数据存缴认定为“适合成果清单的学术产品”（Publikationslisten; Stanat, 2012）；依托该基础设施，循证教育得以告别失真的二阶[[Meta-analysis|元分析]]，转向随新研究持续自动更新的动态一级[[Meta-analysis|元分析]]。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
 
 ---
 
-### 命题五　超国家数据基础设施共生使缺乏直接立法权的治理中枢得以协调区域教育空间
-
-> [!concept-lens] 超国家共生与软治理基础设施化
-> 探讨超国家实体在宪制主权受限的情境下，如何通过财政资助与机构嵌合借用外部数据基础设施，实现区域教育政策的一体化协调。
+> [!concept-proposition] 命题五｜超国家数据基础设施共生使缺乏直接立法权的治理中枢得以协调区域教育空间
+> **探讨维度　超国家共生与软治理基础设施化** 探讨超国家实体在宪制主权受限的情境下，如何通过财政资助与机构嵌合借用外部数据基础设施，实现区域教育政策的一体化协调。
 
 > [!claim] Grek, S.
 > **[[EU|欧盟]]与[[OECD|经合组织]]的数据基础设施共生与跨国协调** 索蒂里亚·格雷克（[[Sotiria Grek]]）揭示，数据基础设施在超国家层面的运作呈现跨机构共生特征。受《马斯特里赫特条约》[[Subsidiarity Principle|辅助性原则]]限制，[[EU|欧盟]]缺乏直接立法权与独立的测评开发能力；[[European Commission|欧盟委员会]]通过资助成员国 80% 的 [[PISA]] 调查参与成本、直接采购经合组织 50%–60% 的基础统计数据（依托 [[UOE Data Collection|UOE]] 数据集），并常态嵌入 [[International Indicators of Education Systems|INES]] 指标委员会，深度借用经合组织的数据基础设施。这种跨机构共生使欧盟得以在不修改宪制条约的前提下，依托可比数据与同行学习压力推进[[European Education Space|欧洲教育空间]]的一体化治理。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 32–35)]]
 
-> [!claim] [[Sotiria Grek|Grek, S.]] & Russell, I. (2024)
+> [!claim] Grek, S. & Russell, I. (2024)
 > **微观注册库互联与自组织数据基础设施演进** [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] 进一步揭示，超国家数据基础设施经历了从采购宏观统计指标（如经合组织 PISA 与 UOE 数据集）向建设微观机构数据库互联的纵深演进。欧盟委员会通过资助[[European Tertiary Education Register|欧洲高等教育机构注册库]]（ETER）确立数千所高校的标准化微观档案与唯一识别码，并由[[European Quality Assurance Register for Higher Education|欧洲高等教育质量保障注册局]]（EQAR）建立[[Database of External Quality Assurance Results|外部质量保障结果数据库]]（DEQAR）结构化挂载评估决议。这一基础设施依托统一标识符打通机构识别与专业质保，并通过数据接口直连 ENIC-NARIC 文凭互认网络，在缺乏强制立法权下通过技术互操作性实现了全欧范围内的办学资质自动化免检核验。[[Argument_Grek_2024_EERJ|(Grek & Russell, 2024)]]
 
 ---
@@ -253,7 +248,7 @@ updated: 2026-10-28
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 考察欧洲高等教育机构注册库（ETER）与质保结果数据库（DEQAR）的系统互联，阐明跨国数据基础设施如何从底层打通机构识别与质保认证，支撑欧洲教育区一体化治理。
+> - [[Argument_Grek_2024_EERJ|Grek and Russell (2024)]] — 考察欧洲高等教育机构注册库（ETER）与质保结果数据库（DEQAR）的系统互联，阐明跨国数据基础设施如何从底层打通机构识别与质保认证，支撑[[European Education Area|欧洲教育区]]一体化治理。
 > - [[Argument_Grek_2009_JEdPolicy|Grek (2009)]] — 揭示欧盟如何通过资助 80% 成本、采购 50%–60% 统计数据并嵌入 INES 委员会，依托经合组织数据基础设施在缺乏立法权下协调欧洲教育空间。
 > - [[Argument_Hartong_2018_GSE|Hartong (2018)]] — 系统解剖德国建立跨尺度绩效数据基础设施与国家[[Center of Calculation|计算中心]]的演化过程，论证数据流动如何促成教育政策的[[Topological Spatialisation|拓扑学重组]]。
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 比较美德两地州级教育监测系统，全景剖析数据基础设施的四级技术架构与五维治理张力，首倡培育面向社会-技术系统的数据基础设施素养。

@@ -8,7 +8,7 @@ summary: "20世纪美国结构功能主义社会学泰斗、哈佛大学社会�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Max Weber]]"
+  - "[[Robert K. Merton]]"
   - "[[Niklas Luhmann]]"
 related_facts: []
 related_arguments:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -82,7 +83,7 @@ updated: 2026-10-22
 ---
 
 > [!influence-path] 影响路径
-> - **宏观社会学理论路径** 统领了二战后近三十年的美国社会学[[Discourse|话语]]，培养了默顿（Robert K. Merton）、[[Niklas Luhmann|卢曼]]（Niklas Luhmann）等一代学术大师。
+> - **宏观社会学理论路径** 统领了二战后近三十年的美国社会学[[Discourse|话语]]，培养了[[Robert K. Merton|默顿]]（Robert K. Merton）、[[Niklas Luhmann|卢曼]]（Niklas Luhmann）等一代学术大师。
 > - **社会心理学与动机研究路径** 其关于地位挫折、侵犯性转化为偏执心理与自我辩护机制的分析，持续影响着现代阶层心理学与组织行为学。
 > - **科技政治批判路径** 卡普与扎米斯卡（2025）将帕森斯的怨恨防御论引入对高科技精英回避国家战略责任的分析，揭示了其以社会不公为由放弃公共担当的深层心理机制。
 

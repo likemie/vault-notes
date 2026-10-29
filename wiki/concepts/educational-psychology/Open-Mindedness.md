@@ -9,10 +9,10 @@ aliases:
 summary: "指认识主体在求真与理解等认识论动机驱动下，能够敏锐产生并公允审视替代性视角、依据新事实反思并修正自身信念的稳定理智美德。"
 type: concept
 domain: "educational-psychology"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - educational-psychology
   - virtue-epistemology
@@ -29,6 +29,8 @@ related_concepts:
   - "[[Skill of Questioning]]"
   - "[[Intellectual Emotions]]"
   - "[[Critical Thinking]]"
+  - "[[Deliberate Practice]]"
+  - "[[Effective Teaching]]"
   - "[[Scaffolding]]"
   - "[[Procedural Skill]]"
   - "[[Paradigm]]"
@@ -47,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-23
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 ---
@@ -119,23 +121,19 @@ updated: 2026-10-28
 
 ---
 
-### 命题一　思想开放依赖操作性多视角思考技能与求真内在动机的有机结合
-
-> [!concept-lens] [[Virtue Epistemology|德性责任论]]下的技能与动机双重构件
-> 探讨思想开放为何不能被单纯简化为认知策略或[[Critical Thinking|批判性思维]]技术，阐明品格形成的动机必然性。
+> [!concept-proposition] 命题一｜思想开放依赖操作性多视角思考技能与求真内在动机的有机结合
+> **探讨维度　[[Virtue Epistemology|德性责任论]]下的技能与动机双重构件** 探讨思想开放为何不能被单纯简化为认知策略或[[Critical Thinking|批判性思维]]技术，阐明品格形成的动机必然性。
 
 > [!claim] Naeem, H.
 > **技能与德性品格的本质区分与内在统一** 能够熟练罗列不同观点只是一种[[Value Neutrality|价值中立]]的智力技能，缺乏求真动机的人完全可以将其用于巧言应试、诡辩甚至操纵舆论。思想开放作为一种真正的[[Epistemic Virtues and Vices|理智美德]]，不仅要求主体具备生成与审视替代性视角的认知胜任力，更要求主体怀有对真理与理解等认知善品的内在承诺。只有当探究者将公允审视异见作为自身追求真理的稳定反思习惯时，这种特质才表征了其作为认识主体的品格本质。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 273–274, 278)]]
 
 > [!claim] Baehr, J.
-> **思想开放作为理智品格特征** 思想开放是一种积极的理智德性品格，要求认识主体主动超越既有认知局限，公平善意地倾听不同声音，这一习惯需要长期的刻意练习与反思内化方能养成。引自 [[Argument_Naeem_2026_Episteme|Naeem (2026, p. 270)]]
+> **思想开放作为理智品格特征** 思想开放是一种积极的理智德性品格，要求认识主体主动超越既有认知局限，公平善意地倾听不同声音，这一习惯需要长期的[[Deliberate Practice|刻意练习]]与反思内化方能养成。引自 [[Argument_Naeem_2026_Episteme|Naeem (2026, p. 270)]]
 
 ---
 
-### 命题二　通过提问引导生成多个答案并阐述理由是培养思想开放技能的有效教学路径
-
-> [!concept-lens] [[Scaffolding|教学支架]]与多答案探究规程
-> 探讨如何通过外显的交互设计与提问引导（特别是在[[Man-Computer Symbiosis|人机协同]]学习中）训练学生审视替代视角的[[Procedural Skill|程序性技能]]。
+> [!concept-proposition] 命题二｜通过提问引导生成多个答案并阐述理由是培养思想开放技能的[[Effective Teaching|有效教学]]路径
+> **探讨维度　[[Scaffolding|教学支架]]与多答案探究规程** 探讨如何通过外显的交互设计与提问引导（特别是在[[Man-Computer Symbiosis|人机协同]]学习中）训练学生审视替代视角的[[Procedural Skill|程序性技能]]。
 
 > [!claim] Naeem, H.
 > **提问型导师对思想开放技能的刻意训练** 传统的教学互动往往倾向于诱导唯一的确定性标准答案，强化了思维封闭与权威顺从。提问导师（Q-Tutor）系统通过精巧的提示词工程重构提问逻辑：系统主动提出促使学生生成“不止一个可能答案”的问题，引导学生为每一种可能回答阐述理由，并对这些理由展开辩证对比。这一交互[[Paradigm|范式]]为学生提供了反复实践替代性视角生成的认知脚手架，构筑了思想开放美德所必需的底层技能基石。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 278–280)]]
@@ -145,10 +143,8 @@ updated: 2026-10-28
 
 ---
 
-### 命题三　兴趣锚定的角色叙事能够具象化示范思想开放并依托理智情感推动美德内化
-
-> [!concept-lens] 叙事隐喻、榜样示范与情感内化动力学
-> 探讨抽象的品格规范如何通过具体的故事情境与积极[[Intellectual Emotions|理智情感]]转化为学生自发的德性追求。
+> [!concept-proposition] 命题三｜兴趣锚定的角色叙事能够具象化示范思想开放并依托[[Intellectual Emotions|理智情感]]推动美德内化
+> **探讨维度　叙事隐喻、榜样示范与情感内化动力学** 探讨抽象的品格规范如何通过具体的故事情境与积极[[Intellectual Emotions|理智情感]]转化为学生自发的德性追求。
 
 > [!claim] Naeem, H.
 > **拟人角色叙事与理智情感的品格催化机制** 思想开放等抽象美德难以通过生硬的说教直接传授。通过在 AI 系统中引入基于学生具体兴趣的故事模式（Storytelling Mode），构建生动的拟人角色故事——展现角色在面对不同观点时如何真诚倾听、依据新线索修正看法并取得认知突破——系统为儿童提供了可感知的功能性榜样；这种沉浸式叙事极大地激发了学生的好奇心与着迷感等理智情感，促使其超越功利计算，将开放探究的乐趣转化为自发的求真品格。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 280–282)]]

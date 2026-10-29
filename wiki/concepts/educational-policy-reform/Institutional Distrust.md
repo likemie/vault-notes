@@ -30,7 +30,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -70,20 +70,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　制度性不信任是系统层面压制研究使用与专业能动性的机制
-
-> [!concept-lens] 系统层压制
-> 政策一边要求"用研究"，一边用问责把专业限死，二者共同造成[[Research Utilization\|研究使用]]的象征化。
+> [!concept-proposition] 命题一｜制度性不信任是系统层面压制[[Research Utilization|研究使用]]与专业能动性的机制
+> **探讨维度　系统层压制** 政策一边要求"用研究"，一边用问责把专业限死，二者共同造成[[Research Utilization\|研究使用]]的象征化。
 
 > [!claim] Hagevold, C. G., et al.
 > **结构压制** 问责系统把专业限定在政策指定的狭小能动域，构成制度性不信任；其程度决定研究使用是[[Professional Judgment\|专业判断]]与能动性的权限还是工具性服从。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p.16)]]
 
 ---
 
-### 命题二　摆脱象征性使用需要以信任机制取代制度性不信任
-
-> [!concept-lens] 弥合方向
-> 研究使用的整合化要求把制度性不信任转化为信任的可持续结构。
+> [!concept-proposition] 命题二｜摆脱[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]需要以信任机制取代制度性不信任
+> **探讨维度　弥合方向** 研究使用的整合化要求把制度性不信任转化为信任的可持续结构。
 
 > [!claim] Hagevold, C. G., et al.
 > **信任替代** 把研究使用从象征性推进到整合，需要经由可持续结构培育专业能动性，而不是靠工具性指令；这相当于用信任取代制度性不信任作为治理基础。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp.16, 18)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "在高度复杂与不确定情境下，通过持续监测、多方学习与动态调整来防范路径锁定的现代治理模式"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[New Public Management]]"
   - "[[Performance Indicators]]"
+  - "[[Document]]"
   - "[[Regulatory Sandbox]]"
   - "[[Grand Challenges]]"
 related_theories:
@@ -40,7 +41,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -70,7 +71,7 @@ updated: 2026-10-22
 > | **认知假设** | 完全理性与技术确定性 | 市场竞争与价格信号有效 | 根本不确定性与价值多元冲突 |
 > | **决策机制** | 官僚层级自上而下刚性指令 | 绩效承包、外包与指标考核 | 转型竞技场、多方审议与小步试验 |
 > | **应对不确定性** | 强化预测与行政规制 | 引入竞争机制分散风险 | 持续学习、动态监控与纠偏重构 |
-> | **代表文献** | Weber (1922) | Hood (1991) | Voß & Bornemann (2011); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
+> | **代表[[Document\|文献]]** | Weber (1922) | Hood (1991) | Voß & Bornemann (2011); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
 
 ---
 
@@ -112,10 +113,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　反思性治理通过制度化学习与反馈回路克服不可逆的技术与制度路径锁定
-
-> [!concept-lens] 适应性机制与锁定防范
-> 探讨如何通过制度设计在保持长期战略方向的同时，为不可预见的系统复杂性与负面次生效应保留纠偏空间。
+> [!concept-proposition] 命题一｜[[Reflexivity|反思性]]治理通过制度化学习与反馈回路克服不可逆的技术与制度路径锁定
+> **探讨维度　适应性机制与锁定防范** 探讨如何通过制度设计在保持长期战略方向的同时，为不可预见的系统复杂性与负面次生效应保留纠偏空间。
 
 > [!claim] Voß, J. P. & Bornemann, B.
 > **[[Reflexivity|反思性]]作为复杂转型治理的核心元能力** 在面对高度不可预测的社会生态转型时，任何试图依靠单一控制中心进行全局优化的传统治理方案都会遭遇知识极限。反思性治理的实质是建立一种元治理（Meta-governance）能力，使政策体系能够在互动中识别自身的认知盲区与制度副效应，并通过持续试错完成形态演进。
@@ -125,10 +124,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　使命导向政策的实施成败依赖于对问题界定与方案绩效的双重反思能力
-
-> [!concept-lens] 政策过程与合法性协同
-> 探讨在使命推进中如何协同处理技术成熟度与社会规范认同的动态演变。
+> [!concept-proposition] 命题二｜使命导向政策的实施成败依赖于对[[Problem Finding|问题界定]]与方案绩效的双重反思能力
+> **探讨维度　政策过程与合法性协同** 探讨在使命推进中如何协同处理技术成熟度与社会规范认同的动态演变。
 
 > [!claim] Wanzenböck, I. et al.
 > **过程导向使命政策的反思性内核** 使命政策若缺乏反思性治理，极易蜕变为单向的技术推力政策（陷入第三象限）或遭遇地方邻避抗议而停滞。以英国闭路电视监控（CCTV）和荷兰风电协议为例，政策成功的关键均在于管理机构能够根据外部反馈适时进行反思性转向，将技术功能向真实的公共需求重新对齐，最终实现系统的双重收敛。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 483–487)]]

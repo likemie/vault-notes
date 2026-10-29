@@ -54,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -110,20 +110,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　问题发现能力构成创造性卓越表现的高阶认知瓶颈与决定性前因
-
-> [!concept-lens] 认知瓶颈与高阶[[Creativity|创造潜能]]
-> 探讨在观念生成技能普及的前提下，问题重构能力如何决定真实创造性产出的上限与领域突破性。
+> [!concept-proposition] 命题一｜问题发现能力构成[[Creativity|创造性]]卓越表现的高阶认知瓶颈与决定性前因
+> **探讨维度　认知瓶颈与高阶[[Creativity|创造潜能]]** 探讨在观念生成技能普及的前提下，问题重构能力如何决定真实创造性产出的上限与领域突破性。
 
 > [!claim] Getzels and Csikszentmihalyi (1976); Runco and Okuda (1988)
 > **问题发现驱动高阶创造产出** [[Cohort Study|追踪研究]]证实，在艺术创作与科学探索中，个体在任务初期投入在探索性观察、重构问题框架上的时间与灵活性，对其作品在数年乃至数十年后的艺术成就与专业认可度具有决定性的正向预测力；相比之下，仅擅长解答给定问题的个体难以产生[[Paradigm|范式]]变革级的卓越贡献。
 
 ---
 
-### 命题二　包含问题发现的多维过程测量对创造力的解释力显著超越单一发散思维测验
-
-> [!concept-lens] 测量广度与[[Effect Size|效应量]]增益
-> 探讨创造力心理测量中过程[[Variable|变量]]整合对统计解释力与[[Construct Validity|构念效度]]的提升效应。
+> [!concept-proposition] 命题二｜包含问题发现的多维过程测量对创造力的解释力显著超越单一[[Divergent Thinking|发散思维]]测验
+> **探讨维度　测量广度与[[Effect Size|效应量]]增益** 探讨创造力心理测量中过程[[Variable|变量]]整合对统计解释力与[[Construct Validity|构念效度]]的提升效应。
 
 > [!claim] [[Argument_Runco_2026_CRJ|Runco et al. (2026)]]; Abdulla et al. (2020)
 > **过程测量整合的实证优势** 跨 52 项一阶[[Meta-analysis|元分析]]的大规模[[Meta-meta-analysis|二阶元分析]]（Second-Order Meta-Analysis, SOMA）证实，将问题发现（Problem Finding Tasks; Abdulla et al., 2020）、构想评估（Idea Evaluation Tasks; Runco & Basadur, 1993）等整合测量的综合创造过程，其汇总[[Effect Size|效应量]]达到 **$r = 0.27$**（95% [[Confidence Interval|置信区间]] $[0.10, 0.43]$），显著高于仅测查观念生成的单一[[Divergent Thinking|发散思维]]测验（$r = 0.14$）。在多水平[[Second-Order Meta-Regression|二阶元回归]]中，创造过程展现出明显的正向回归系数（$\beta = 0.16$ vs 发散思维 $\beta = 0.02$），确立了问题发现作为高阶创造过程核心构件的不可替代性。[[Argument_Runco_2026_CRJ|(Runco et al., 2026, pp. 6–8)]]

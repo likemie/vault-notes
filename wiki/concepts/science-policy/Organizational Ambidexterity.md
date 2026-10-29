@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-29
 title: Organizational Ambidexterity
 aliases:
   - 组织双元性
@@ -92,20 +92,16 @@ aliases:
 
 ---
 
-### 命题一　公共部门动态能力本质上是公共组织层面的双元平衡能力
-
-> [!concept-lens] 治理理论演进与跨学科综合维度
-> 探讨企业双元能力理论如何向公共行政学迁移。
+> [!concept-proposition] 命题一｜[[Public Dynamic Capabilities|公共部门动态能力]]本质上是公共组织层面的双元平衡能力
+> **探讨维度　治理理论演进与跨学科综合维度** 探讨企业双元能力理论如何向公共行政学迁移。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **科层秩序与敏捷探索的辩证统一** 传统公共行政理论往往将科层稳定性视为创新的对立面；然而，现代[[Mission-Oriented Innovation Policy|使命导向创新政策]]证明，公共部门若只偏废于利用（导致僵化保守）或只偏废于探索（导致行政失序），均无法应对系统转型。真正的[[Public Dynamic Capabilities|公共部门动态能力]]在于构建组织双元性——以稳固的韦伯式国家能力为基底，在行政与政策层级制度化开辟敏捷实验与快速学习特区。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–797)]]
 
 ---
 
-### 命题二　新公共管理对微观合规的偏执摧毁了公共部门的探索性双元空间
-
-> [!concept-lens] 行政改革反思与能力退化维度
-> 审视 [[New Public Management|NPM]] 改革对公共组织双元结构的破坏。
+> [!concept-proposition] 命题二｜[[New Public Management|新公共管理]]对微观合规的偏执摧毁了公共部门的探索性双元空间
+> **探讨维度　行政改革反思与能力退化维度** 审视 [[New Public Management|NPM]] 改革对公共组织双元结构的破坏。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **合规陷阱扼杀探索动机** [[New Public Management|新公共管理]]改革推行极端量化的短期绩效考核与成本紧缩，迫使官僚机构将全部精力投入到可精准度量的微观利用环节，并把所有高风险的探索职能[[Externalization|外部化]]外包；这种机制彻底破坏了公共组织的双元性结构，导致公共部门丧失了探索未来的内生能力。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 796)]]

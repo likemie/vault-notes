@@ -8,7 +8,7 @@ aliases:
 summary: "Osmany Porto de Oliveira 与 Cecilia Osorio Gonnet (2023) 提出的分析空间概念，指全球与国家/地方尺度交互缠绕的关系性竞技场，用于解构国家内部不同功能部门对外部政策证据的差异化接收、翻译、抗拒与投射机制。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Attrition]]"
+  - "[[Document]]"
   - "[[Externalization]]"
   - "[[Policy Borrowing]]"
   - "[[Recontextualization]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -89,7 +90,7 @@ updated: 2026-10-26
 > [!feature] 核心要素
 > - **主权国家的机构功能层析（Disaggregation of State Functions）** 国家并非铁板一块，转移空间精准区分了负责证据搜集与合法性包装的咨询系统（如政府任命的专家委员会）与手握法定裁量权的行政中枢（如教育部与内阁），揭示出两者在面对外部证据时的根本立场分野。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 540, 547)]]
 > - **尺度交织的关系性网络（Relational Interdependence across Scales）** 全球性指标与国内政策辩论并非“外部推力”与“内部阻力”的对抗，而是相互卷入的共生关系；本土官员将国际测评建构为“外部客观力量”，恰恰是为了在国内政策博弈中获取合法性杠杆。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 540)]]
-> - **政策周期的多阶段断裂机制（Procedural [[Attrition]] along the Policy Cycle）** 证据在转移空间中呈现阶段性过滤：在议程设置阶段，外部指标被广泛借用以营造改革危机感；在行政法规颁布阶段，绝大部分外部文献遭遇断崖式剔除，仅保留符合政治意志的核心条目。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
+> - **政策周期的多阶段断裂机制（Procedural [[Attrition]] along the Policy Cycle）** 证据在转移空间中呈现阶段性过滤：在议程设置阶段，外部指标被广泛借用以营造改革危机感；在行政法规颁布阶段，绝大部分外部[[Document|文献]]遭遇断崖式剔除，仅保留符合政治意志的核心条目。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
 > - **拟似外部参考系的工具性投射（Instrumental Projection of Quasi-External References）** 处于改革僵局中的政治派别，根据自身意图将特定外部国家（如芬兰）或国际组织（如[[OECD\|经合组织]]）投射为绝对权威，作为压制国内异见、达成政治妥协的修辞工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, p. 546)]]
 
 > [!logic-map]- 要素关系
@@ -109,20 +110,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　国家的内部功能层析决定了外部证据在转移空间中呈现阶段性断裂与政治过滤
-
-> [!concept-lens] 国家解构与程序过滤
-> 探讨主权国家在将外部政策知识转化为本土正式法令的过程中，其官僚机器内部功能分工如何造成研究证据的大规模损耗与筛选。
+> [!concept-proposition] 命题一｜国家的内部功能层析决定了外部证据在转移空间中呈现阶段性断裂与政治过滤
+> **探讨维度　国家解构与程序过滤** 探讨主权国家在将外部政策知识转化为本土正式法令的过程中，其官僚机器内部功能分工如何造成研究证据的大规模损耗与筛选。
 
 > [!claim] [[Gita Steiner-Khamsi\|Steiner-Khamsi, G.]] et al.
-> **政策周期中的引文断崖机制** 在政策转移空间内，国家咨询机构与行政决策机构遵循完全不同的运作逻辑。以挪威能力导向课程改革为例，5 个专家委员会在咨询报告中列出 464 篇参考文献，呈现出对国际研究的广泛吸纳；然而教育部最终颁布的法定行政法令仅引用了 22 篇，且其中 20 篇集中于[[OECD\|经合组织]]的[[Definition and Selection of Competencies\|能力界定与选择项目]]。这证明外部证据在转移空间中遭遇了超过 95% 的政治过滤，国家行政官僚系统在终极规制环节行使着绝对的自主决断权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
+> **政策周期中的引文断崖机制** 在政策转移空间内，国家咨询机构与行政决策机构遵循完全不同的运作逻辑。以挪威能力导向课程改革为例，5 个专家委员会在咨询报告中列出 464 篇参考[[Document|文献]]，呈现出对国际研究的广泛吸纳；然而教育部最终颁布的法定行政法令仅引用了 22 篇，且其中 20 篇集中于[[OECD\|经合组织]]的[[Definition and Selection of Competencies\|能力界定与选择项目]]。这证明外部证据在转移空间中遭遇了超过 95% 的政治过滤，国家行政官僚系统在终极规制环节行使着绝对的自主决断权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 547–548)]]
 
 ---
 
-### 命题二　全球与国家并非二元对立，而是在转移空间中通过工具性投射彼此互构
-
-> [!concept-lens] 关系性互构与外在化
-> 探讨本土政策制定者如何通过将全球力量假拟为“外在裁决者”，从而在转移空间内部化解本土改革阻力。
+> [!concept-proposition] 命题二｜全球与国家并非二元对立，而是在转移空间中通过工具性投射彼此互构
+> **探讨维度　关系性互构与外在化** 探讨本土政策制定者如何通过将全球力量假拟为“外在裁决者”，从而在转移空间内部化解本土改革阻力。
 
 > [!claim] Porto de Oliveira, O. & Osorio Gonnet, C.
 > **[[Relational Space\|关系性空间]]中的[[Externalization\|策略性外在化]]** 比较政策转移的核心不是孤立国家的被动采纳，而是全球与本土行动者在转移空间中的相互赋权与共谋。本土政治家并非受制于全球霸权，而是在遭遇旷日持久的国内改革僵局或政党竞争对抗时，主动将经合组织等国际机构或芬兰等标杆国家建构为具有超然公信力的外部裁判，通过这种“仿佛有效”的工具性投射赋予本土改革以不容置疑的正当性。（Porto de Oliveira & Osorio Gonnet, 2023; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al., 2024, pp. 540]], 546）

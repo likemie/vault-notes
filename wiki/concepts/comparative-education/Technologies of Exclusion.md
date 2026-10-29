@@ -8,7 +8,7 @@ aliases:
 summary: "专业知识生产者或治理机构通过创设高门槛的专门术语、复杂心理测量学模型、严苛准入资质与算法黑箱，将非专业公众与外行质疑排斥在决策审议之外的话语与技术屏障。在教育治理中，面对“专家知识民主化”（人人自诩教育专家）带来的普遍公众争鸣，政策中介机构（如世行与 OECD）策略性利用随机对照试验（RCTs）、潜变量 IRT 模型与指标矩阵等排除性技术，为政策决策构筑不可逾越的科学理性与专业权威护城河。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Policy Ambiguity]]"
   - "[[Discourse]]"
+  - "[[Cognitive Authority]]"
   - "[[Return on Investment]]"
   - "[[Evidence-Based Education]]"
   - "[[Governing by Numbers]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -106,10 +107,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　教育知识的天然通俗性倒逼政策中介构建排除性技术以抵御专家知识民主化带来的公信力危机
-
-> [!concept-lens] 认知权威防御与学科边界构筑机制
-> 围绕教育领域人人皆自居专家的特殊生态如何倒逼治理机构引入硬核复杂技术展开。
+> [!concept-proposition] 命题一｜教育知识的天然通俗性倒逼[[Policy Brokerage|政策中介]]构建排除性技术以抵御专家知识民主化带来的公信力危机
+> **探讨维度　[[Cognitive Authority|认知权威]]防御与学科边界构筑机制** 围绕教育领域人人皆自居专家的特殊生态如何倒逼治理机构引入硬核复杂技术展开。
 
 > [!claim] Maasen and Weingart (2005)
 > **专家权威的去圣化危机** 当现代社会将[[Knowledge Production\|知识生产]]全面向公众开放时，专业知识的神秘感被打破，决策者面临多元相悖证据的轰炸，专家意见从崇高裁决沦为派系政治的游说工具。
@@ -119,10 +118,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　排除性技术将不可调和的政治价值取舍异化为纯粹的技术参数调整
-
-> [!concept-lens] 政治去政治化与技术官僚自利循环
-> 围绕技术壁垒如何帮助政府和中介机构逃避价值伦理追责展开。
+> [!concept-proposition] 命题二｜排除性技术将不可调和的政治价值取舍异化为纯粹的技术参数调整
+> **探讨维度　政治去政治化与技术官僚自利循环** 围绕技术壁垒如何帮助政府和中介机构逃避价值伦理追责展开。
 
 > [!claim] Steiner-Khamsi et al.
 > **民主审议的剥夺与免责中介** 借助排除性技术，关于教育究竟应当追求阶层平等还是经济生产率的根本意识形态冲突，被巧妙地偷换为“如何优化[[Return on Investment\|教育投资回报率]]函数”或“如何提升 [[PISA]] 方差解释百分比”的技术课题，从而成功剥夺了大众对重大改革方向的审议权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 538–539)]]

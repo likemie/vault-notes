@@ -4,13 +4,15 @@ aliases: [终结性课程, 终结课程, terminal course]
 summary: "面向学生在某领域最后一次正式学习的课程设计，强调知识应用、持续兴趣和全人教育，而非预设后续专业学习。"
 type: concept
 domain: "curriculum"
-related_count: 8
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags: [theme/curriculum-design, theme/whole-person-education]
 related_concepts:
   - "[[International Baccalaureate]]"
+  - "[[Student Motivation]]"
+  - "[[Teacher Support for Students]]"
 related_persons:
   - "[[Alec Peterson]]"
 related_facts:
@@ -24,7 +26,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -53,25 +55,21 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　最后一次正式学科学习需要按长期用途重新设计
-
-> [!concept-lens] 学科进阶与离校用途
-> 同样的学科可以服务专业准备，也可以帮助学生在离开该领域后继续理解和参与生活。
+> [!concept-proposition] 命题一｜最后一次正式学科学习需要按长期用途重新设计
+> **探讨维度　学科进阶与离校用途** 同样的学科可以服务专业准备，也可以帮助学生在离开该领域后继续理解和参与生活。
 
 > [!claim] [[Alec Peterson|Peterson, A. D. C.]]
 > **缩减内容不能自动改变课程目的** 把高级课程前半部分直接用作辅助课程，有利于同班授课，却沿用了专业准备的目的。未来科学专业学生的文学课程应保留阅读的乐趣与道德判断，未来人文专业学生的科学课程则应形成对科学发展及其社会影响的理解。终结性课程因此需要重新选择学习问题和任务，使知识能够离开学校情境继续发挥作用。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 202–204)]]
 
 ---
 
-### 命题二　保留学科深度能够为问题导向的综合课程提供基础
-
-> [!concept-lens] 学科边界与课程次序
-> 跨学科学习的适宜阶段，取决于学生已有的学习基础和课程用途，不能只由学科名称决定。
+> [!concept-proposition] 命题二｜保留学科深度能够为问题导向的综合课程提供基础
+> **探讨维度　学科边界与课程次序** 跨学科学习的适宜阶段，取决于学生已有的学习基础和课程用途，不能只由学科名称决定。
 
 跨领域问题可以进入终结性课程，但仍需说明它怎样与专门学习配合。
 
 > [!claim] Peterson, A. D. C.
-> **完整掌握所有学科不是综合学习的普遍前提** 古典学结合语言、文学、历史与文化，物理大量使用数学，法国学校长期合教历史与地理，地理本身也结合地球科学和社会研究。这些例子说明学科边界具有历史与制度条件，跨领域内容不能仅因组合了多个学科就被判为不适当。若综合学习必须等到各学科完全掌握、通常进入研究生阶段才开始，多数不再深造的学生便失去了运用知识处理现实问题的机会。IB学生已在三个高级学科学习中获得专门训练，可以在辅助层级选修一门面向人类问题的综合课程，使深度与应用分工。现实问题可能更容易引发学习动机，以及小幅综合不会损害升学竞争，属于支持这一设计的判断，原文没有提供比较效果检验。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 206)]]
+> **完整掌握所有学科不是综合学习的普遍前提** 古典学结合语言、文学、历史与文化，物理大量使用数学，法国学校长期合教历史与地理，地理本身也结合地球科学和社会研究。这些例子说明学科边界具有历史与制度条件，跨领域内容不能仅因组合了多个学科就被判为不适当。若综合学习必须等到各学科完全掌握、通常进入研究生阶段才开始，多数不再深造的学生便失去了运用知识处理现实问题的机会。IB学生已在三个高级学科学习中获得专门训练，可以在辅助层级选修一门面向人类问题的综合课程，使深度与应用分工。现实问题可能更容易引发[[Student Motivation|学习动机]]，以及小幅综合不会损害升学竞争，属于支持这一设计的判断，原文没有提供比较效果检验。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 206)]]
 
 ---
 
@@ -80,7 +78,7 @@ updated: 2026-10-22
 >
 > **围绕现实问题组织多学科知识** 东南亚[[United World Colleges|联合世界书院]]的[[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]以本地饮食调查联系多个学术领域，通过田野活动使学生直接接触学校周围的社会。课程作为校内评估的第六科，适合不以该领域为大学专业的学生；但选课位置、教师准备和后续支持会限制推广，课程理念本身不足以保证采用。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–205)]]
 
-教师支持的具体制度安排见[[Science Technology and Social Change Curriculum Pilot|科学、技术与社会变迁]]课程试点，其中共同开发与在职培训回应了营养科学推广的困难。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
+[[Teacher Support for Students|教师支持]]的具体制度安排见[[Science Technology and Social Change Curriculum Pilot|科学、技术与社会变迁]]课程试点，其中共同开发与在职培训回应了营养科学推广的困难。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
 
 ---
 

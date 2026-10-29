@@ -9,7 +9,7 @@ aliases:
 summary: "知识动员中划分证据供给侧主动单向推送与实践需求端主动吸收牵引的双机制分析模型；揭示传统线性供给之局限并倡导向学校吸收能力与使能条件重构。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Professional Learning Community]]"
   - "[[Co-Design]]"
+  - "[[Document]]"
   - "[[Research Translation]]"
   - "[[Knowledge Transfer]]"
   - "[[Pragmatic Paradigm]]"
@@ -60,7 +61,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -136,20 +137,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　线性供给推送假设忽视了实践情境复杂性，单纯扩大文献供给无法自发诱致教学变革
-
-> [!concept-lens] 供给侧偏误与线性传递失效
-> 探讨为何学术界大量生产的严密证据无法自然在学校现场落地，剖析线性传播模型的结构性盲区。
+> [!concept-proposition] 命题一｜线性供给推送假设忽视了实践情境复杂性，单纯扩大[[Document|文献]]供给无法自发诱致教学变革
+> **探讨维度　供给侧偏误与线性传递失效** 探讨为何学术界大量生产的严密证据无法自然在学校现场落地，剖析线性传播模型的结构性盲区。
 
 > [!claim] Rickinson et al.; Lavis et al.
 > **线性传递假设失效** [[Knowledge Mobilisation\|知识动员]]的线性供给推送模型假定，只要研究者生产出方法学严谨的高等级证据并将其转化为通俗简报，实践端就会自然而然地采纳并应用。[[Mark Rickinson\|马克·里金森]]（Mark Rickinson）与约翰·拉维斯（John Lavis）等学者尖锐指出，这种供给偏误完全脱离了真实的教学现场。研究证据不能自行发声，任何抽象结论都必须经过教育者结合具体学情、资源限制与学校文化的二次审议与情境化重构；缺乏需求端[[Absorptive Capacity\|吸收能力]]与落地支持的单向推送，不仅无法改善教学，反而会导致学校陷入机械采购外来方案或应付行政问责的浅层形式主义。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 183–184)]]
 
 ---
 
-### 命题二　激活需求牵引机制要求系统治理实现战略重构，优先投资学校组织使能条件与工时保障
-
-> [!concept-lens] 需求牵引与组织使能条件
-> 探讨如何从根本上激活实践者的主动求索动力，论证组织使能构件与制度化减负的先决地位。
+> [!concept-proposition] 命题二｜激活需求牵引机制要求系统治理实现战略重构，优先投资学校组织使能条件与工时保障
+> **探讨维度　需求牵引与组织使能条件** 探讨如何从根本上激活实践者的主动求索动力，论证组织使能构件与制度化减负的先决地位。
 
 > [!claim] Rickinson et al.; Torres
 > **使能投资与需求激活** 需求牵引并非教师个体的自发本能，而是高度依赖微观学校组织生态培育与宏观制度减负的使能过程。里金森与米格尔·托雷斯（Miguel Torres）等学者证实，一线教师在缺乏判断信心与遭遇严重时间赤字的情境下，根本无法启动有效的需求牵引；唯有[[School Leadership\|学校领导]]者躬身示范[[Research Translation\|研究转化]]、依托[[Professional Learning Community\|专业学习共同体]]（PLCs）开展集体研讨，并在日常排课中刚性划拨专有研读工时，实践者才能真正形成批判探究心智，完成从被动接收到主动拉动证据的根本转型。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson, Walsh, et al., 2022, pp. 191–195)]]; [[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 49–51)]]

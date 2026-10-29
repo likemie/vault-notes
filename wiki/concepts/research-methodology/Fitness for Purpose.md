@@ -9,7 +9,7 @@ aliases:
 summary: "贯穿研究规划与循证治理的核心方法论与认识论原则；主张研究设计、方法选择、效应量解释与证据评价必须由具体的研究与实践目的决定，而非受制于研究者个人偏好或去情境化的单一证据等级制"
 type: concept
 domain: "research-methodology"
-related_count: 41
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Technical Rationality]]"
   - "[[Cultural Validity]]"
+  - "[[Document]]"
   - "[[Research Question]]"
   - "[[Rich and Thick Description]]"
   - "[[Evaluation Research]]"
@@ -52,6 +53,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Narrative Synthesis]]"
   - "[[Stratified Sampling]]"
+  - "[[Experimental Research]]"
   - "[[Action Research]]"
   - "[[Ethnography]]"
   - "[[Qualitative Interview]]"
@@ -68,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-19
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -113,7 +115,7 @@ updated: 2026-10-26
 > - **研究规划全流程支配（Research Planning Dominance）** 目的适配性贯穿研究规划全过程，包括定向决策（边界约束）、设计与方法论（选择具体战术）、数据分析（匹配分析类型）以及呈现与报告（满足受众诉求）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|(Cohen et al., 2011, Ch. 6, p. 91)]]
 > - **[[Effect Size\|效应量]]实质解释适切性（Substantive Effect Interpretation）** 效应大小的评估必须服务于实际[[Research Purpose\|研究目的]]与评估情境，而非仅依赖任意的[[Statistical Significance\|统计显著性]]水平（如 $p < .05$）；同一效应量在不同决策目标下具有截然不同的实践价值。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17, pp. 339–340)]]
 > - **适切证据的多维拟合构件（Appropriate Evidence Fit）** 在高质量[[Research Utilization\|证据使用]]视域下，适切证据由方法严谨性、教育议题适切性、组织情境适配性与涉众[[Cultural Validity\|文化适切性]]四维互构而成，从[[Epistemology\|认识论]]上取代排他性等级制。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 140–141)]]
-> - **跨部门[[Systematic Review\|系统综述]]纳入准则（Heterogeneous Review Appraisal）** 在质性、量化与[[Mixed Methods Research\|混合方法]]异质共存的复杂研究领域，以目的适配性取代机械的方法学刻度尺，支撑多元文献的筛选、质评与[[Narrative Synthesis\|叙事综合]]。（Popay et al., 2006）
+> - **跨部门[[Systematic Review\|系统综述]]纳入准则（Heterogeneous Review Appraisal）** 在质性、量化与[[Mixed Methods Research\|混合方法]]异质共存的复杂研究领域，以目的适配性取代机械的方法学刻度尺，支撑多元[[Document|文献]]的筛选、质评与[[Narrative Synthesis\|叙事综合]]。（Popay et al., 2006）
 > - **数据分析目的定向性（Purposive Analytic Alignment）** 数据分析手段取决于具体的分析目的（如描述全貌、解释因果、探索主题、检验假设或理解个案特征），分析目的直接决定统计模型或编码策略的选择。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, Ch. 28)]]
 
 > [!logic-map]- 要素关系与适配逻辑
@@ -134,17 +136,15 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　研究目的决定方法选择并支配从设计、抽样到数据分析的全流程规划
-
-> [!concept-lens] 研究规划全流程的支配性约束
-> 研究设计没有唯一的标准模板，[[Research Purpose\|研究目的]]支配着方法论决策的每一环节，任何以方法偏好倒推研究目的的做法都是方法论异化。
+> [!concept-proposition] 命题一｜[[Research Purpose|研究目的]]决定方法选择并支配从设计、抽样到数据分析的全流程规划
+> **探讨维度　研究规划全流程的支配性约束** 研究设计没有唯一的标准模板，[[Research Purpose\|研究目的]]支配着方法论决策的每一环节，任何以方法偏好倒推研究目的的做法都是方法论异化。
 
 > [!claim] 研究规划全流程的目的支配性
 > **目的决定方法与全流程贯穿** 研究者不能简单根据个人偏好、技能习惯或技术恐惧选择方法，更不能因觉得某种方法特殊就人为篡改研究目的；这是“让尾巴摇狗”的严重错误。[[Research Purpose\|研究目的]]必须决定后续的研究类型、[[Research Question\|研究问题]]、抽样策略、伦理立场与资料收集方式。在数据分析阶段，目的适配性要求研究者明确分析旨在完成什么——是描述特征、推断因果、探索主题、检验假设，还是理解个案意义；分析目的直接决定所采纳的分析技术与报告撰写方式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|(Cohen et al., 2011, Ch. 6, p. 91)]]
 
 > [!feature] 三种典型情境的设计适配
 > - **绘制领域全貌或建立可推广论断** $\to$ 大规模调查方法配合[[Stratified Sampling\|分层抽样]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|(Cohen et al., 2011, Ch. 7, p. 118)]]
-> - **评估特定教学干预的因果效果** $\to$ 实验设计或系统性[[Action Research\|行动研究]]模型。
+> - **评估特定教学干预的因果效果** $\to$ [[Experimental Research|实验设计]]或系统性[[Action Research\|行动研究]]模型。
 > - **对特定文化情境或微观群体进行深层理解** $\to$ [[Ethnography\|民族志]]与质性田野[[Rich and Thick Description\|深描]]。
 
 > [!case] 典型失配示例
@@ -153,23 +153,19 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　效应量与统计推断依归于实质目的需求而非任意显著性截断
-
-> [!concept-lens] 统计解释的实质目的依归
-> [[Statistical Significance\|统计显著性]]指标无法反映实践重要性，[[Effect Size\|效应量]]大小必须置于具体研究目的与干预成本效益中进行适配性衡量。
+> [!concept-proposition] 命题二｜[[Effect Size|效应量]]与统计推断依归于实质目的需求而非任意显著性截断
+> **探讨维度　统计解释的实质目的依归** [[Statistical Significance\|统计显著性]]指标无法反映实践重要性，[[Effect Size\|效应量]]大小必须置于具体研究目的与干预成本效益中进行适配性衡量。
 
 > [!claim] Fitz-Gibbon (1985); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch. 17)]]
 > **效应量评判的目的适配性超越** 菲茨-吉本（Fitz-Gibbon, 1985）率先将目的适配性原则引入[[Effect Size\|效应量]]批判：主张以效应量替代[[Statistical Significance\|统计显著性]]（$p$ 值）作为[[Evaluation Research\|评估研究]]的主要指标。效应量是否具有价值，取决于其是否满足具体研究目的与政策决策诉求，而非是否跨过了人为设定的显著性截断点（如 5% 水平）。同一效应量（如 $d = 0.15$）在低成本全员常态干预（如班级座位调整）中极具性价比，而在高成本系统工程中则可能毫无意义。目的适配性将统计解释从机械教条提升为实质性决策裁决。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17, pp. 339–340)]]
 
 ---
 
-### 命题三　循证实践与政策中的“适切证据”以目的适配性打破单一证据等级制
-
-> [!concept-lens] 证据品质的去等级制重构
-> 优质[[Research Utilization\|证据使用]]绝非对单一实验等级制处方的机械依从，而是通过目的适配性评估多元证据与具体教育问题的拟合度。
+> [!concept-proposition] 命题三｜循证实践与政策中的“适切证据”以目的适配性打破单一证据等级制
+> **探讨维度　证据品质的去等级制重构** 优质[[Research Utilization\|证据使用]]绝非对单一实验等级制处方的机械依从，而是通过目的适配性评估多元证据与具体教育问题的拟合度。
 
 > [!claim] 适切证据对单一证据等级制的学理破除
-> **打破证据等级制与确立适切证据基准** 长期以来，[[Evidence-Based Education\|循证教育]]陷入将单一黄金标准（[[Randomised Controlled Trials\|RCT]]）置于塔尖的[[Technical Rationality\|技术理性]]误区。纳特利等（Nutley et al., 2013）与里克森等学者在构建 [[Quality Use of Research Evidence Framework\|QURE]] 框架时指出，高质量证据使用的核心在于“适切研究证据”（Appropriate Research Evidence），而“适切性”的核心灵魂正是目的适配性。面对不同的教育目的（如诊断复杂学情、理解师生互动体验、评估规模化项目效能），适配的方法论类型完全不同；质性深度个案对于理解教学机制同样具有至高价值。在跨领域[[Systematic Review\|系统综述]]与综合质评中，依据目的适配性而非固定工具标尺，能够有效兼容并包质性与量化文献，确保证据使用真正扎根于教育现实。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 140–141, 148)]]
+> **打破证据等级制与确立适切证据基准** 长期以来，[[Evidence-Based Education\|循证教育]]陷入将单一黄金标准（[[Randomised Controlled Trials\|RCT]]）置于塔尖的[[Technical Rationality\|技术理性]]误区。纳特利等（Nutley et al., 2013）与里克森等学者在构建 [[Quality Use of Research Evidence Framework\|QURE]] 框架时指出，高质量证据使用的核心在于“适切研究证据”（Appropriate Research Evidence），而“适切性”的核心灵魂正是目的适配性。面对不同的教育目的（如诊断复杂学情、理解师生互动体验、评估规模化项目效能），适配的方法论类型完全不同；质性深度个案对于理解教学机制同样具有至高价值。在跨领域[[Systematic Review\|系统综述]]与综合质评中，依据目的适配性而非固定工具标尺，能够有效兼容并包质性与量化[[Document|文献]]，确保证据使用真正扎根于教育现实。[[Argument_Rickinson_2022_EducRes\|(Rickinson, Cirkony, et al., 2022, pp. 140–141, 148)]]
 
 ---
 

@@ -7,7 +7,7 @@ aliases:
 summary: "定居主义是一种将固定地域居住、扎根生活与空间稳定视为人类文明、秩序与理性默认基准的认识论偏见与治理意识形态；该观念将物理流动与漫游状态编码为落后、病态或缺乏教化的社会偏常，在现代教育体制中为强制定居化改造、学籍空间壁垒与学校封闭容器规训提供了正当性辩护。"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,8 @@ related_concepts:
   - "[[Temporalization of Space]]"
   - "[[Boarding Schools]]"
   - "[[Migrant Children]]"
+  - "[[Habitus]]"
+  - "[[Home Environment]]"
   - "[[Variable]]"
   - "[[Student Mobility]]"
 related_theories:
@@ -42,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -79,7 +81,7 @@ updated: 2026-10-22
 > - **定居基准的规范化（Normalization of Settlement）** 将稳定的地理扎根预设为主体健全发育、公民资格确认与道德责任承担的必要前置条件。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 361)]]
 > - **流动的病理化与道德贬抑（Pathologization of Movement）** 在政策与学术[[Discourse|话语]]中，底层群体因生计所迫的空间位移被命名为漂泊（[[Transiency]]）或流窜（Itinerancy），与家庭功能失调、学业失败和秩序破坏深度捆绑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
 > - **精英与底层流动的阶层双标（Class-Bifurcated Mobility Coding）** 文化精英跨越国界的自决漫游被加冕为面向未来的国际化美德，而弱势群体的迁徙则被判定为亟待管制的社会风险。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
-> - **同化式空间规训技术（Assimilationist Spatial Disciplining）** 国家依托[[Boarding Schools|寄宿学校]]与封闭教室，强制切断[[Migrant Children|流动儿童]]原有的身体移动习性，强行注入定居作息节律。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
+> - **同化式空间规训技术（Assimilationist Spatial Disciplining）** 国家依托[[Boarding Schools|寄宿学校]]与封闭教室，强制切断[[Migrant Children|流动儿童]]原有的身体移动[[Habitus|习性]]，强行注入定居作息节律。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
 
 > [!logic-map]- 定居主义意识形态在教育系统中的运作逻辑
 > ```mermaid
@@ -98,10 +100,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　现代教育政策通过制造“正常定居”与“病态漂泊”的二元对立合法化制度排斥
-
-> [!concept-lens] 政策[[Discourse|话语]]病理化编码维度
-> 探析教育政策文本如何通过语言修辞，将弱势群体的空间流动性转换为个人品性与家庭环境的内在缺陷。
+> [!concept-proposition] 命题一｜现代教育政策通过制造“正常定居”与“病态漂泊”的二元对立合法化制度排斥
+> **探讨维度　政策[[Discourse|话语]]病理化编码维度** 探析教育政策文本如何通过语言修辞，将弱势群体的空间流动性转换为个人品性与[[Home Environment|家庭环境]]的内在缺陷。
 
 > [!claim] Clifford, J.
 > **静止优位与流动等级论** 人类学与社会理论长期以定居为常态[[Paradigm|范式]]，将原地留存的生活方式视为有待外部开化的落后残余；流动性本身被划分为两极：文化精英的自由旅行被浪漫化为自主能动性，而劳工与难民的迫迁则被赋予依赖与无能的烙印。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 361)]]
@@ -111,10 +111,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　定居主义是国家推动强制定居化教育与同化非定居族群的意识形态支柱
-
-> [!concept-lens] 国家定居化工程与族群规训维度
-> 揭示民族国家为何将传统游牧与大篷车漫游社群视为必须消灭的异质空间力量，以及正规学校在此过程中充当的同化工具角色。
+> [!concept-proposition] 命题二｜定居主义是国家推动强制定居化教育与同化非定居族群的意识形态支柱
+> **探讨维度　国家定居化工程与族群规训维度** 揭示民族国家为何将传统游牧与大篷车漫游社群视为必须消灭的异质空间力量，以及正规学校在此过程中充当的同化工具角色。
 
 > [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]] & Stolpe, I.
 > **定居化寄宿同化机制** 后社会主义蒙古的牧民教育实践证明，定居主义构成了国家消解游牧流动性的核心哲学；国家将正规集中办学作为定居化工程的枢纽，强行将牧民后代吸纳进固定校园，使其脱离转场生产实践以完成国民身份均质化。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]

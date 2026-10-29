@@ -8,10 +8,10 @@ aliases:
 summary: "由行业龙头企业、高水平职业院校与应用型高校联合牵头，汇聚科研机构与政府部门组建的跨区域多边办学与技术创新契约组织，旨在通过全产业链实体捆绑与利益共享机制化解技术技能人才供给与产业需求脱节问题。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 1
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/policy
   - vocational-education
@@ -19,18 +19,27 @@ tags:
   - educational-policy-reform
   - regional-development
   - governance
-related_concepts: []
+related_concepts:
+  - "[[Apprenticeship]]"
+  - "[[Education Going Global]]"
+  - "[[Variable]]"
+  - "[[Emergent Talents]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Wang Yangming]]"
+related_facts:
+  - "[[Chinese-ASEAN Modern Craftsmanship Institute]]"
+  - "[[ASEAN]]"
+  - "[[Belt and Road Initiative]]"
 related_arguments:
   - "[[Argument_Wang_Liang_Chen_2025_CES]]"
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -66,7 +75,7 @@ updated: 2026-10-25
 > [!feature] 核心要素
 > - **互惠共生契约网络（Mutualistic Contractual Matrix）** 打破单纯依赖学校情怀或企业单向捐赠的离散模式，以产业技术红利与高技能人才精准输送形成长期稳态捆绑。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 294–295)]]
 > - **全生命周期人才开发链（Full Lifecycle Development Chain）** 贯通职前学历教育、岗前定制培训与在职继续技能提升，匹配跨国产能转移对本土工程技术队伍的长期运维需求。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, p. 300)]]
-> - **实体化办学载体支撑（Physical Institutional Carrier）** 依托共建的海外应用技术大学、现代工匠学院与联合实训中心，推动产教融合从框架协议进入实体化办学。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 298–299)]]
+> - **实体化办学载体支撑（Physical Institutional Carrier）** 依托共建的海外应用技术大学、[[Chinese-ASEAN Modern Craftsmanship Institute|现代工匠学院]]与联合实训中心，推动产教融合从框架协议进入实体化办学。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 298–299)]]
 
 > [!logic-map]- 行业产教融合共同体多边协同拓扑
 > ```mermaid
@@ -98,12 +107,10 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　跨国跨区域产教融合共同体的效能取决于校企同步出海的制度协同与利益共享机制
+> [!concept-proposition] 命题一｜跨国跨区域产教融合共同体的效能取决于校企同步出海的制度协同与利益共享机制
+> **探讨维度　利益机制与校企协同动力维度** 聚焦跨境职业教育合作中校企协同动力脱节的微观机制，探讨如何通过制度设计实现教育与产业的深度捆绑。
 
-> [!concept-lens] 利益机制与校企协同动力维度
-> 聚焦跨境职业教育合作中校企协同动力脱节的微观机制，探讨如何通过制度设计实现教育与产业的深度捆绑。
-
-> [!claim] Wang, Y.
+> [!claim] [[Wang Yangming|Wang, Y.]]
 > **利益脱节诱发合作浅表化** 当前跨国职业教育合作中校企协同动力匮乏，核心根源在于缺乏跨国制度协同与利益共享机制，导致企业出海后面临本土复合型人才缺口，而职业院校则局限于教材与场地的浅层交流；唯有构建实体化捆绑的产教共生生态圈，方能提升应对国际产能合作的韧性。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 295, 299–301)]]
 
 ---
@@ -116,9 +123,9 @@ updated: 2026-10-25
 ---
 
 > [!dev-timeline] 概念演变
-> - **2010年代 — 现代学徒制与校企合作深化期** 探索“校企双元育人”模式，国家政策重点推进集团化办学与产业学院试点。
+> - **2010年代 — [[Apprenticeship|现代学徒制]]与校企合作深化期** 探索“校企双元育人”模式，国家政策重点推进集团化办学与产业学院试点。
 > - **2022年 — 现代职业教育体系改革“一体两翼”确立** 中共中央办公厅、国务院办公厅印发《关于深化现代职业教育体系建设改革的意见》，正式提出打造市域产教联合体和行业产教融合共同体的战略任务。
-> - **2024年至今 — 产教融合共同体跨国出海实践** 被引入中国—东盟教育合作，成为职教出海服务共建一带一路与国际产能重构的核心载体。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 294–295, 301)]]
+> - **2024年至今 — 产教融合共同体跨国出海实践** 被引入中国—[[ASEAN|东盟]]教育合作，成为[[Education Going Global|职教出海]]服务共建[[Belt and Road Initiative|一带一路]]与国际产能重构的核心载体。[[Argument_Wang_Liang_Chen_2025_CES|(Wang et al., 2025, pp. 294–295, 301)]]
 
 ---
 
@@ -137,14 +144,14 @@ updated: 2026-10-25
 
 > [!empirical-divider]
 
-> [!ref-table]- 其他实证结果（无效应量）
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | 175 所中外职业院校企业联合体与 254 个合作平台 | 典型案例解构与多边平台分布统计 | 产教协同深度与模式特征 | 现有合作多局限于浅层教学点状合作；全生命周期技术人才联合开发机制尚未成熟（pp. 294–296） | — | 质性案例解构与平台调查，揭示共同体建设由松散联盟向实体转型的迫切性 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 探讨行业产教融合共同体赋能新质人才培养的理论逻辑与实践进路，提出打破单校点状模式、升级为跨区域共生生态圈的治理方案（pp. 294–295, 298–301）。
+> - [[Argument_Wang_Liang_Chen_2025_CES|Wang et al. (2025)]] — 探讨行业产教融合共同体赋能[[Emergent Talents|新质人才]]培养的理论逻辑与实践进路，提出打破单校点状模式、升级为跨区域共生生态圈的治理方案（pp. 294–295, 298–301）。

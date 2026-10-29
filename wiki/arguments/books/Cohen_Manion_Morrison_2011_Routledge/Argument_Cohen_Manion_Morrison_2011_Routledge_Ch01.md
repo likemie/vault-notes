@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 127
-argument_related_level: 12
-argument_related_stars: "💎💎💎💎"
+argument_related_count: 131
+argument_related_level: 13
+argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
 book_title: Research Methods in Education
 publication_place: London
@@ -76,11 +76,13 @@ related_concepts:
   - "[[Idiographic]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Falsification]]"
+  - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Response-ability]]"
   - "[[Cultural Capital]]"
   - "[[Hypothesis]]"
   - "[[Research Scope]]"
+  - "[[Self Explanation]]"
   - "[[Decodification]]"
   - "[[Homework]]"
   - "[[Reliability]]"
@@ -119,6 +121,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[In-depth Interview]]"
   - "[[Field Notes]]"
+  - "[[Experimental Research]]"
   - "[[Internal Consistency]]"
   - "[[Design-Based Research]]"
   - "[[Correlational Research]]"
@@ -144,6 +147,7 @@ related_persons:
   - "[[Auguste Comte]]"
   - "[[Anthony Giddens]]"
   - "[[Keith Morrison]]"
+  - "[[Robert K. Merton]]"
   - "[[Karl Popper]]"
   - "[[Peter Medawar]]"
   - "[[Søren Kierkegaard]]"
@@ -166,7 +170,7 @@ related_facts:
 related_arguments: []
 status: draft
 created: 2026-06-16
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 ---
 
@@ -426,7 +430,7 @@ updated: 2026-10-22
 > | **社会实在的基本单位** | **集体** 社会整体、组织系统或制度结构是探究的基本单位。 | **个体** 单独或协同采取行动的个体行动者是探究的基石。 |
 > | **理解的方式** | 识别并构想维持集体存在与稳态运行的客观条件、功能需求及结构关系。 | 诠释个体赋予其自身行动的主观意义，发现支配该行动的主观规则。 |
 > | **理论** | 由科学研究者所构建的、旨在解释并预测人类行为的宏大理性大厦。 | 人们在日常生活中用以理解其生活世界及其中行动的意义集合。 |
-> | **研究** | 通过严格的实验设计、准实验或标准化量表调查，对理论假设进行客观验证。 | 寻找充满意义的人际互动关系，并发现这些主观意义对后续行动产生的实质后果。 |
+> | **研究** | 通过严格的[[Experimental Research\|实验设计]]、准实验或标准化量表调查，对理论假设进行客观验证。 | 寻找充满意义的人际互动关系，并发现这些主观意义对后续行动产生的实质后果。 |
 > | **方法论** | 对现实的抽象化，主要通过数学模型建构与严密量化统计分析实现。 | 为了比较目的对现实的再现，深度聚焦于语言符号与话语意义的质性解析。 |
 > | **社会** | **有序** 社会受一整套高度统合的价值观所支配，且正是由于这些共同价值才使社会秩序成为可能。 | **冲突** 社会充斥着分歧，受掌握核心权力的人的意志与价值观所支配。 |
 > | **组织** | **目标导向** 独立于具体的人；是社会维系秩序的工具，同时服务于宏观社会发展与个人需求。 | **依赖于人及其目标** 组织是某些人所掌控并用以实现其自身认定目标的权力工具。 |
@@ -478,7 +482,7 @@ updated: 2026-10-22
 >     - **2. 经验核查与检验认证** 假说的逻辑推演检验、实验反复复核以及经验事实的系统积累。
 >     - **3. 理论建构与体系化** 探寻规模宏大的普适概括，结构化零散经验并建构系统化理论大厦。
 > - **学术考据与工具治理**
->     - **4. 历史记录与学术考据** 忠实记录科学探索历史进程，沉淀学科文献与学术传承谱系。
+>     - **4. 历史记录与学术考据** 忠实记录科学探索历史进程，沉淀学科[[Document|文献]]与学术传承谱系。
 >     - **5. 技术工具与仪器研制** 研制精密测量仪器，设计标准化研究方法与操作规程。
 >     - **6. 行政执行与组织管理** 维系科学共同体协作规程，保障大型科研机构高效运作。
 > - **社会转化与公共审美**
@@ -494,7 +498,7 @@ updated: 2026-10-22
 
 > [!taxonomy] 科学理论的三大形态谱系（Morrison, 1995a）
 > - **经验理论** 深度根植于经验事实，直接接受实证检验、反驳与证伪，解释具体经验现象。
-> - **宏大理论（Grand Theory）** 高度抽象的思辨性元叙事，如正统马克思主义、功能主义与共识理论。罗伯特·默顿（Robert K. Merton）与德里克·莱德（Derek Layder）批判指出，宏大理论虽然具备“拜占庭式的建筑辉煌和逻辑一致性”，却往往在科学上极度贫瘠，脱离真实世界的流动性、异质性与碎片化特征（Merton, 1949; Layder, 1994）。
+> - **宏大理论（Grand Theory）** 高度抽象的思辨性元叙事，如正统马克思主义、功能主义与共识理论。[[Robert K. Merton|罗伯特·默顿]]（Robert K. Merton）与德里克·莱德（Derek Layder）批判指出，宏大理论虽然具备“拜占庭式的建筑辉煌和逻辑一致性”，却往往在科学上极度贫瘠，脱离真实世界的流动性、异质性与碎片化特征（Merton, 1949; Layder, 1994）。
 > - **[[Critical Theory\|批判理论]]** 聚焦知识与权力的共生纽带，旨在揭示意识形态压迫、打破权力垄断并促进社会正义与解放。
 
 围绕何为优质的经验理论，[[Karl Popper|卡尔·波普尔]]（Karl Popper）、伊姆雷·拉卡托斯（Imre Lakatos）、拉里·劳丹（Larry Laudan）等科学哲学家提炼了有效经验理论的评估准则（Popper, 1968; Lakatos, 1970; Mouly, 1978; Laudan, 1990）：
@@ -600,7 +604,7 @@ updated: 2026-10-22
 实证主义在社会研究实操层面，亦遭遇了来自学科内部关于探究合法性的根本反思：
 
 > [!critique-method] 实证主义社会科学内部的三重方法论危机
-> - **忽视人类自我解释能力与前诠释结构** 自然科学面对的是无意识的“主体-客体”关系，而社会科学则深嵌于双向理解的“主体-主体”关系之中，面对的是一个早已被行动者自身赋予多重意义的前诠释世界（preinterpreted world, Giddens, 1976）。
+> - **忽视人类[[Self Explanation|自我解释]]能力与前诠释结构** 自然科学面对的是无意识的“主体-客体”关系，而社会科学则深嵌于双向理解的“主体-主体”关系之中，面对的是一个早已被行动者自身赋予多重意义的前诠释世界（preinterpreted world, Giddens, 1976）。
 > - **消解人类能动性与行为主义刺激-反应困局** 实证主义将人类描绘为被动受制于外力的机械客体，抹杀了意图、反思与主体自由。诺姆·乔姆斯基（Noam Chomsky）对[[B. F. Skinner|斯金纳]]行为主义的著名批判指出，从外在机械行为根本无法逻辑推导出复杂的内在心智成因（Chomsky, 1959）；德里克·莱德亦指出这激化了能动性与结构的持久张力（Layder, 1994）。
 > - **受控实验发现的平庸琐碎化** 研究者为了追求实验严密性，在实验室中极力隔离并控制变量，其代价是彻底剥离了复杂立体的真实社会情境，最终炮制出的结论往往对一线实践毫无指导价值：极度精密的受控实验最终只呈现了一出在受限人工环境中剪裁合成的“牵线木偶剧”。
 

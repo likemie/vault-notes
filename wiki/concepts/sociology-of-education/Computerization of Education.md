@@ -7,7 +7,7 @@ aliases:
 summary: "由 William Davies (2022) 批判提出并由 Smith (2026) 引入教育哲学的批判社会学概念，指在标准化改革与高利害测验压力下，读写教育系统性向计算机优势能力（信息处理与模式识别）靠拢，从而边缘化并驱逐人类独有的主观阐释与深层理解；在生成式 AI 时代，算法代劳与套路八股形成恶性共谋，前置并加剧了成长性认识不正义。"
 type: concept
 domain: "sociology-of-education"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Paradigm]]"
   - "[[Critical Pedagogy]]"
+  - "[[Conscientization]]"
   - "[[Epistemic Agency]]"
   - "[[Reflexivity]]"
   - "[[Cognitive Deskilling]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-23
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -72,7 +73,7 @@ updated: 2026-10-22
 > [!contrast-table] 教育计算机化与相关教育[[Paradigm|范式]]的对比
 > | 比较维度 | 教育计算机化（Computerization of Education） | 人文主义读写教育（Humanistic Literacy） | [[Critical Pedagogy\|批判教育学]]读写（Critical Literacy） |
 > |---|---|---|---|
-> | **核心认知目标** | 信息检索、模式识别、圈出过渡词与套用结构 | 探索伦理至善、审美体验、意义建构与文本阐释 | 意识化觉醒、反思权力结构与解构意识形态压迫 |
+> | **核心认知目标** | 信息检索、模式识别、圈出过渡词与套用结构 | 探索伦理至善、审美体验、意义建构与文本阐释 | [[Conscientization\|意识化]]觉醒、反思权力结构与解构意识形态压迫 |
 > | **对机器能力的态度** | **盲目对齐** 考核标准向算法可计算、可评分的套路靠拢 | **价值坚守** 强调人类具身体验与精神世界的不可替代性 | **批判审问** 将技术与算法视作必须接受质疑的权力载体 |
 > | **学生角色** | 被动的公式化信息处理器 | 主动的文学体验者与道德探索者 | 具备[[Epistemic Agency\|认识能动性]]的[[Reflexivity\|反思性]]求知主体 |
 > | **技术代劳后果** | 迅速交由大模型代劳，陷入[[Cognitive Deskilling\|去技能化]] | 抵制全流程代笔，维系具身阅读与创作 | 借助[[Alien Intelligence\|异己智能]]视角解构算法偏见 |
@@ -100,10 +101,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　应试标准化与高利害测验驱动了读写教育向计算机信息处理能力的异化对齐
-
-> [!concept-lens] 课程社会学与政策规训维度
-> 探讨标准化测验如何重塑课程形态，使人类读写教育向机器算力优势退化。
+> [!concept-proposition] 命题一｜应试标准化与[[High-Stakes Testing|高利害测验]]驱动了读写教育向计算机信息处理能力的异化对齐
+> **探讨维度　课程社会学与政策规训维度** 探讨标准化测验如何重塑课程形态，使人类读写教育向机器算力优势退化。
 
 > [!claim] Collin & Applebee
 > **从探究至善到应试套路的退化** 英语教育的历史演进展现出深刻的工具化堕落：十九世纪美国读写教育的开端是以理解神学教义、探索道德真理与社会至善为旨归；但随着教育体制全面屈从于政客要求的标准化技能考核，读写教学被彻底窄化为寻找中心句与圈出过渡词的技术八股。Applebee (1974); Collin (2024, pp. 16–21)
@@ -113,10 +112,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　教育计算机化前置诱发并系统放大了生成式人工智能时代的成长性认识不正义
-
-> [!concept-lens] 批判社会[[Epistemology|认识论]]与智能技术共谋维度
-> 剖析大语言模型在学校迅速普及的制度根源，阐明前置体制缺陷与算法代劳的叠加致残机制。
+> [!concept-proposition] 命题二｜教育计算机化前置诱发并系统放大了[[Generative Artificial Intelligence|生成式人工智能]]时代的[[Formative Epistemic Injustice|成长性认识不正义]]
+> **探讨维度　批判社会[[Epistemology|认识论]]与智能技术共谋维度** 剖析大语言模型在学校迅速普及的制度根源，阐明前置体制缺陷与算法代劳的叠加致残机制。
 
 > [!claim] Smith, S. J.
 > **算法与模式化八股的寄生性共谋** 生成式 AI 并非降临在一个探究充分的教育乐土，而是介入了一个早已被计算机化严重扭曲的生态。教育计算机化早已在前置阶段满足了[[Formative Epistemic Injustice|成长性认识不正义]]的三重判据：排斥主观理解导致知识传递受阻、剥夺自由阐释实践、诱发学生盲目的应试通胀或[[Learned Helplessness|习得性无助]]。大语言模型以统计概率模拟模式识别，与学校奖励的无灵魂八股文本天然契合。这种共谋诱使师生将原本仅存的思维过程全盘外包给算法，使原有的[[Epistemic Malformation|认知畸变]]恶化为不可逆的[[Cognitive Deskilling|去技能化]]。[[Argument_Smith_2026_SPE|Smith (2026, pp. 5–6)]]

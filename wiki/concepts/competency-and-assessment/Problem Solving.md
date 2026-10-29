@@ -10,7 +10,7 @@ aliases:
 summary: "指个体在面对阻碍且无直接算法可用时，通过表征初始状态、搜索算子空间、在多重约束下权衡取舍、应用启发式策略与现场排障调试，以克服障碍并达成目标状态的高级认知与实践过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 41
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -34,12 +34,14 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Divergent Thinking]]"
   - "[[AI Hallucination]]"
+  - "[[Transfer Strategies]]"
   - "[[Metacognition]]"
+  - "[[Wicked Problem]]"
   - "[[Concept Mapping]]"
   - "[[Working Memory]]"
+  - "[[Cognitive Offloading]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Educational Affordances]]"
-  - "[[Cognitive Offloading]]"
   - "[[Domain Specificity]]"
   - "[[Epistemic Practices]]"
   - "[[Intelligent Tutoring Systems]]"
@@ -71,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -114,7 +116,7 @@ updated: 2026-10-25
 
 > [!feature] 核心要素
 > - **问题表征与约束空间界定（Problem Space Representation）** 理解问题语义、识别初始状态、明确目标状态并解析材料、物理、成本与安全边界约束，建立内在心智模型。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 156–157)]]
-> - **解题路径搜索与启发式策略应用（Heuristic Search）** 结合领域特定知识，在潜在解空间中运用手段-目的分析（Means-Ends Analysis）、分治法或类比迁移策略探索前进步骤。
+> - **解题路径搜索与启发式策略应用（Heuristic Search）** 结合领域特定知识，在潜在解空间中运用手段-目的分析（Means-Ends Analysis）、分治法或类比[[Transfer Strategies|迁移策略]]探索前进步骤。
 > - **多约束权衡与折中决策（Multi-Constraint Trade-offs）** 在相互冲突的指标（如性能 vs 功耗、精度 vs 成本）之间寻找帕累托最优解，制定工程折中方案。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, p. 157)]]
 > - **方案执行、调试与物理现场排障（Execution & Troubleshooting）** 落实行动方案，在面对系统报错或物理异常时定位根因，动态回溯并修正解题路径与设备参数。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, p. 14)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 52)]]
 > - **[[Metacognition|元认知监控]]与实践反思（Monitoring & [[Reflexivity]]）** 持续评估当前状态与目标状态之间的差距，评估解法的鲁棒性并内化为深层经验图式。
@@ -137,30 +139,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　复杂劣构问题解决高度依赖高质量的问题空间表征与元认知监控
-
-> [!concept-lens] 问题空间表征与认知负荷调控
-> 探讨个体在面对非良构复杂问题时，如何通过准确表征初始状态与约束条件，避免陷入盲目试错的无序搜索，并借助[[Metacognition|元认知监控]]实现自适应路径调整。
+> [!concept-proposition] 命题一｜复杂[[Wicked Problem|劣构问题]]解决高度依赖高质量的问题空间表征与[[Metacognition|元认知监控]]
+> **探讨维度　问题空间表征与认知负荷调控** 探讨个体在面对非良构复杂问题时，如何通过准确表征初始状态与约束条件，避免陷入盲目试错的无序搜索，并借助[[Metacognition|元认知监控]]实现自适应路径调整。
 
 > [!claim] Zhao et al.
 > **深层问题表征与逻辑推演机制** 复杂情境中的问题解决绝非被动的步骤模仿，而是学习者主动进行问题空间表征、边界约束分析与多路径方案构建的高阶认知探索。优质的问题解决表现依赖于个体在头脑中构建清晰的[[Concept Mapping|概念图]]式，进而有效分配[[Working Memory|工作记忆]]资源以推演多种可行性解法。在此过程中，元认知监控发挥着核心导航作用，使解题者能够敏锐识别推理死胡同并及时调整搜索算子。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 7–8, 14)]]
 
 ---
 
-### 命题二　智能工具的程序性契合能显著分担搜索负荷但需防范认知外包
-
-> [!concept-lens] 智能副驾驶与程序性心智协同
-> 探讨[[Generative Artificial Intelligence|生成式人工智能]]与自动化调试工具在问题解决生命周期中的认知[[Educational Affordances|可供性]]，分析其作为“思维副驾驶”对逻辑推演的赋能机制及其引发的心智懒惰风险。
+> [!concept-proposition] 命题二｜智能工具的程序性契合能显著分担搜索负荷但需防范[[Cognitive Offloading|认知外包]]
+> **探讨维度　智能副驾驶与程序性心智协同** 探讨[[Generative Artificial Intelligence|生成式人工智能]]与自动化调试工具在问题解决生命周期中的认知[[Educational Affordances|可供性]]，分析其作为“思维副驾驶”对逻辑推演的赋能机制及其引发的心智懒惰风险。
 
 > [!claim] Zhao et al.
 > **程序性高度契合与[[Cognitive Offloading|认知外包]]反思机制** 问题解决对方案搜索、边界约束分析与迭代测试具有极高的程序性依赖。生成式人工智能具有高维向量关联与语法逻辑解析特质，能高效产出多种候选解法并辅助逻辑验证，与问题解决的程序性需求产生高度契合，从而在[[Man-Computer Symbiosis|人机协同]]中充当强大的“思维副驾驶”。然而，若缺乏强有力的过程性监管与反思引导，学生极易滑向直接索取现成答案的“捷径式学习”，导致底层逻辑推演与手动排错能力的退化。[[Argument_Zhao_2025_JIntell|(Zhao et al., 2025, pp. 14–15)]]
 
 ---
 
-### 命题三　真实工程问题解决遵循多重物理约束下的权衡决策与现场排障规程
-
-> [!concept-lens] [[Domain Specificity|学科特异性]]工程排障与[[Epistemic Practices|认识论实践]]
-> 探讨工程与实验科学中，问题解决如何超越纯认知符号计算，体现为材料约束、原型测试与现场故障排除的具身实践。
+> [!concept-proposition] 命题三｜真实工程问题解决遵循多重物理约束下的权衡决策与现场排障规程
+> **探讨维度　[[Domain Specificity|学科特异性]]工程排障与[[Epistemic Practices|认识论实践]]** 探讨工程与实验科学中，问题解决如何超越纯认知符号计算，体现为材料约束、原型测试与现场故障排除的具身实践。
 
 > [!claim] Kelly, G. J. & Kratsios, M.
 > **多约束折中与现场排障实践论** 真实世界中的工程问题解决以“设计—测试—排障—迭代”为核心[[Epistemology|认识论]]规程，解题者必须在材料极限、制造成本、安全规程与工艺公差之间寻求最优权衡（Trade-offs）。白宫科技政策办公室 2026 报告进一步指出，最关键的问题解决能力往往表现为资深工程师与机械师在产线一线面对异常噪声与良率波动时展现的排障直觉（Troubleshooting Intuition）与[[Phronesis|实践智慧]]，这种物理层面的具身排障经验无法被纯软件算法所取代。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 154–157)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52, 56)]]

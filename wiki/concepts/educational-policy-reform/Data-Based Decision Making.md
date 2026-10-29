@@ -7,10 +7,10 @@ aliases:
 summary: "教育管理与教学中以系统层面和课堂层面的多元数据为依据作出决策的取向，经历目标设定、数据收集、质检分析、改进落实与循环评估的探究过程；虽能精准诊断校本学情病因，但自身不包含现成教学解决方案，亟需与外部研究知情教学实践（RITP）在学校探究循环中深度整合。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 37
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - evidence-informed-practice
   - research-use
@@ -23,6 +23,8 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Research-Informed Teaching Practice]]"
   - "[[Evidence-Based Policy-Making]]"
+  - "[[Document]]"
+  - "[[Differentiated Instruction]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Data Literacy]]"
   - "[[Epistemology]]"
@@ -34,6 +36,7 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Formative Assessment]]"
   - "[[Technical Rationality]]"
+  - "[[Teacher Collaboration]]"
   - "[[Variable]]"
   - "[[Dialogue in Education]]"
   - "[[Paradigm]]"
@@ -62,7 +65,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -71,8 +74,8 @@ updated: 2026-10-22
 > 基于数据的决策（Data-Based Decision-Making, DBDM，亦常称“数据使用”）指教育者系统分析学校内部现存多元数据，将分析结果应用于革新教学、课程与[[School Effectiveness\|学校效能]]，并在实践中执行（如延续、调整或终止）具体干预措施的动态过程（Schildkamp & Kuiper, 2010; Lai & Schildkamp, 2013）。涵盖的数据类型包括输入数据（人口统计背景）、过程数据（[[Classroom Observation|课堂观察]]、师生互动）、情境数据（[[Organizational Culture\|组织文化]]、家长参与）以及结果数据（标准化测验、日常形成性测评、[[Academic Achievement\|学业成就]]与[[Grade Retention\|留级]]率）。在《Educational Research》特刊中，[[Argument_Brown_2017_EducRes\|Brown et al. (2017, pp. 154–157)]] 与 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 129)]] 指出，DBDM 早期过度受行政问责驱动，当代已转向形成性改进取向，承认决策不能由数据单一主导，而应结合教师的默会经验与[[Professional Judgment\|专业判断]]；但 DBDM 与[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）长期平行割裂，亟需在整体性证据知情系统中加以整合。
 
 > [!concept-lens] 概念透镜
-> - **含义** 聚焦以学校自身内部信息系统与课堂评估为基础的[[Evidence-Based Policy-Making|循证决策]]形态，区分于依赖外部学术研究文献的实践路径。
-> - **用途** 帮助学校与教师系统诊断学情短板、分析学业问题深层根因、开展差异化教学调整与校本持续改进。
+> - **含义** 聚焦以学校自身内部信息系统与课堂评估为基础的[[Evidence-Based Policy-Making|循证决策]]形态，区分于依赖外部学术研究[[Document|文献]]的实践路径。
+> - **用途** 帮助学校与教师系统诊断学情短板、分析学业问题深层根因、开展[[Differentiated Instruction|差异化教学]]调整与校本持续改进。
 > - **边界** DBDM 擅长揭示问题病因所在，但数据自身不包含现成的教学解决方案；它属于[[Evidence-Informed Practice\|证据知情实践]]（EIP）的关键拼图之一，必须与[[Professional Judgment\|专业判断]]及外部学术研究深度融合，才能避免退化为机械的数据合规与指标审计。
 
 > [!citation-card] 希尔德坎普与奎珀论基于数据的决策
@@ -127,30 +130,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　课堂数据的层级化感知导致终结性评估在决策中过度主导并边缘化质性证据
-
-> [!concept-lens] 课堂证据认知偏差与决策窄化
-> 探讨实践者对不同形态课堂数据的感知偏倚，揭示终结性测验的绝对支配地位对丰富质性过程证据的挤压机制。
+> [!concept-proposition] 命题一｜课堂数据的层级化感知导致终结性评估在决策中过度主导并边缘化质性证据
+> **探讨维度　课堂证据认知偏差与决策窄化** 探讨实践者对不同形态课堂数据的感知偏倚，揭示终结性测验的绝对支配地位对丰富质性过程证据的挤压机制。
 
 > [!claim] LaPointe-McEwan et al. (2017) / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
 > **终结性评估支配与[[Triangulation\|三角验证]]必要性** 在日常教育实践中，课堂数据并非被等量齐观地对待，而是存在显著的层级感知——正式的终结性评估结果在学校与教学决策中占据绝对支配地位。这种认知偏误导致丰富的[[Formative Assessment\|形成性评价]]、师生日常互动及质性[[Classroom Observation|课堂观察]]等细粒度证据被严重边缘化。教育者必须通过发展[[Data Literacy\|数据素养]]，建立对定性与定量数据进行三角验证（triangulate）的分析视角，才能避免片面依赖标准化考试分数造成的决策失真，做出兼顾学业指标与学生情境的平衡决策。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]
 
 ---
 
-### 命题二　基于数据的决策与研究知情实践在孤立运行中存在双重缺陷并亟需通过学校探究循环加以整合
-
-> [!concept-lens] 内部诊断与外部干预两个世界的结构性割裂
-> 剖析 DBDM 专注于校本数据诊断但缺乏成熟干预良方，与 [[Research-Informed Teaching Practice\|RITP]] 掌握外部有效方案但脱离校本真实学情之间的互补张力。
+> [!concept-proposition] 命题二｜基于数据的决策与研究知情实践在孤立运行中存在双重缺陷并亟需通过[[School Enquiry Cycle|学校探究循环]]加以整合
+> **探讨维度　内部诊断与外部干预两个世界的结构性割裂** 剖析 DBDM 专注于校本数据诊断但缺乏成熟干预良方，与 [[Research-Informed Teaching Practice\|RITP]] 掌握外部有效方案但脱离校本真实学情之间的互补张力。
 
 > [!claim] [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
 > **双轮嵌合与[[School Enquiry Cycle\|学校探究循环]]** 基于数据的决策（DBDM）与研究知情教学实践（RITP）长期被视作两个相对割裂的独立领域，在现实学校中极少真正交融。单纯依赖 DBDM 只能诊断校内存在什么问题与潜在成因，却无法提供经过实证检验的有效干预举措；单纯推行 RITP 则容易使外部学术成果悬浮于空中，缺乏针对本校具体学情的精准锚定。证据知情系统的核心主张在于打破二者壁垒，通过系统的“证据知情学校与教师改进”（ESTI）八步[[Inquiry Cycle\|探究循环]]，将 DBDM 的校本诊断与 RITP 的研究干预有机嵌合，形成学校与教师持续改进的行动闭环。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 154–156, 165–167)]]
 
 ---
 
-### 命题三　基于数据的决策必须超越对易量化指标的单一依赖以防范窄化问责陷阱
-
-> [!concept-lens] 抵御[[Technical Rationality\|技术理性]]陷阱与维护动态社会过程
-> 阐明 DBDM 本质上是复杂的专业审议与社会互动过程，警惕其退化为片面迎合可量化指标的技术主义合规审计。
+> [!concept-proposition] 命题三｜基于数据的决策必须超越对易量化指标的单一依赖以防范窄化问责陷阱
+> **探讨维度　抵御[[Technical Rationality\|技术理性]]陷阱与维护动态社会过程** 阐明 DBDM 本质上是复杂的专业审议与社会互动过程，警惕其退化为片面迎合可量化指标的技术主义合规审计。
 
 > [!claim] [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] / Wentworth et al. (2017)
 > **警惕量化主义与统筹多元成果** 如果学校在决策中落入“只去理解那些容易被量化的组成部分”的陷阱，就会严重扭曲教育生态并损害教师的[[Professional Judgment\|专业判断]]。基于数据的决策必须建立在成熟的[[Theory of Change\|变革理论]]之上，成效评估需区分行为与心智模式等中间成果（intermediate outcomes）以及工具性、概念性与象征性等长期成果（long-term outcomes），坚持多元量化指标与丰富质性描述的有机结合。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 132–133)]]
@@ -168,7 +165,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 基于数据决策的演化路径
 > - **2000s — 美国 [[No Child Left Behind Act 2001\|NCLB]] 法案驱动与高利害问责** 美国颁布《不让一个孩子掉队法案》（NCLB），DBDM 在强问责背景下兴起，早期过度聚焦终结性标准化考试成绩与行政达标监控。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 157)]]
-> - **2010s — 形成性改进转向与[[Data Team Intervention\|数据团队]]模型确立** 国际学界反思数据单一问责弊端，主张数据使用应聚焦课堂教学革新；[[Kim Schildkamp]] 团队在荷兰开发八步数据团队（Data Team）干预模型，推动 DBDM 走向教师协作探究与形成性学情反馈。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 157–158)]]
+> - **2010s — 形成性改进转向与[[Data Team Intervention\|数据团队]]模型确立** 国际学界反思数据单一问责弊端，主张数据使用应聚焦课堂教学革新；[[Kim Schildkamp]] 团队在荷兰开发八步数据团队（Data Team）干预模型，推动 DBDM 走向[[Teacher Collaboration|教师协作]]探究与形成性学情反馈。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 157–158)]]
 > - **2017 — 证据知情视阈下的两界整合（[[School Enquiry Cycle\|ESTI]]）** [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] 与 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] 汇聚国际前沿实证，系统论述 DBDM 与 [[Research-Informed Teaching Practice\|RITP]] 割裂的固有盲区，提出贯通两界的 ESTI 八步[[Inquiry Cycle\|探究循环]]与定性定量[[Triangulation\|三角验证]]机制。
 > - **2020s — 复杂生态、算法审思与质性证据回归** 伴随对大数据与算法偏见的批判性审视，学界与实践界愈发强调将质性课堂证据、学生声音与教师[[Professional Judgment\|专业判断]]置于数据决策的核心枢纽。
 

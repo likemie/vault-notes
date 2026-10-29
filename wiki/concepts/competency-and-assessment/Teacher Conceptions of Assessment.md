@@ -7,10 +7,10 @@ aliases:
 summary: "教师关于评价本质、目的与价值的内隐信念体系，涵盖改进教学、学校问责、学生问责与无关性四种取向，直接决定评价数据在课堂中的实际功用"
 type: concept
 domain: "competency-and-assessment"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 11
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/assessment
   - theme/teacher-beliefs
@@ -18,10 +18,12 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Reliability]]"
+  - "[[Teacher Expectations]]"
   - "[[Reflexivity]]"
   - "[[Formative Assessment]]"
   - "[[Test-Based Accountability]]"
   - "[[Learning Progression]]"
+  - "[[Differentiated Instruction]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
@@ -31,7 +33,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -51,7 +53,7 @@ updated: 2026-10-22
 
 > [!boundary]- 概念边界
 > - 不等于评价素养（Assessment Literacy） — 评价素养侧重命题、统计指标识读及[[Reliability\|信度]]效度检验等技能；教师评价观关注教师对评价目的的价值认同与哲学态度。
-> - 不等于教师期望（Teacher Expectations） — 教师期望特指对特定学生个体学业潜能的高低预判；教师评价观是对评价制度与数据工具本身的认知倾向。
+> - 不等于[[Teacher Expectations|教师期望]]（Teacher Expectations） — 教师期望特指对特定学生个体学业潜能的高低预判；教师评价观是对评价制度与数据工具本身的认知倾向。
 
 ---
 
@@ -67,20 +69,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　无关性取向导致教师用主观轶事证据排斥标准化诊断反馈
-
-> [!concept-lens] 评价信念对证据采纳的认知过滤
-> 探讨评价哲学态度如何系统性扭曲或阻断实证诊断数据的教学转化。
+> [!concept-proposition] 命题一｜无关性取向导致教师用主观轶事证据排斥标准化诊断反馈
+> **探讨维度　评价信念对证据采纳的认知过滤** 探讨评价哲学态度如何系统性扭曲或阻断实证诊断数据的教学转化。
 
 > [!claim] Brown, G. T. L. / [[John Hattie\|Hattie, J.]]
 > **轶事证据偏好与防御性归因机制** 当教师持有评价无关性观念时，其专业反思极易退化为单向度的自我确证。此类教师倾向于认为日常随堂观察与非正式轶事记录（Anecdotal Data）比标准化测量更为真实有效，进而对外部常模反馈采取防御性排斥策略；当实证数据揭示学业停滞或班级落后时，常以“本班学生背景特殊”、“试卷不具真实性”或“时间不足”为由回避对自身教学策略的反思（[[Argument_Hattie_2005_ACER\|Hattie, 2005, pp. 16–17]]）。
 
 ---
 
-### 命题二　将评价结果归因为教学质量而非学生天赋是形成性重构的枢纽
-
-> [!concept-lens] 评价反馈的主体归因转向
-> 探讨评价数据从评判学生转向检验教师教学效能的归因机制。
+> [!concept-proposition] 命题二｜将评价结果归因为教学质量而非学生天赋是形成性重构的枢纽
+> **探讨维度　评价反馈的主体归因转向** 探讨评价数据从评判学生转向检验教师教学效能的归因机制。
 
 > [!claim] Hattie, J.
 > **评价客体的去学生中心化重塑** 证据本位教学的实质性突破取决于教师将评价数据的指涉对象进行根本性置换。传统问责体系将评价结果视作学生个人能力或家庭背景的标签；而在成熟的改进型评价观下，学生的理解断层被严格重构为对教师后续教学行动的即时提示（Cues for Teacher Action）。评价数据由此被重新定义为测量“教师教得如何”而非“学生资质如何”的[[Reflexivity\|反思性]]工具（[[Argument_Hattie_2005_ACER\|Hattie, 2005, p. 17]]）。
@@ -93,6 +91,6 @@ updated: 2026-10-22
 > |---|---|---|
 > | [[Formative Assessment]] | Concept | 教学改进取向的评价观是有效落实形成性评价的认知前提。 |
 > | [[Test-Based Accountability]] | Concept | 基于测试的强问责制常导致教师强化学生与学校问责取向，挤压教学改进取向。 |
-> | [[Learning Progression]] | Concept | 持改进评价观的教师更依赖学业进阶标准实施差异化教学。 |
+> | [[Learning Progression]] | Concept | 持改进评价观的教师更依赖学业进阶标准实施[[Differentiated Instruction\|差异化教学]]。 |
 > | [[John Hattie]] | Person | 在论证证据本位教学与 [[Assessment Tools for Teaching and Learning\|asTTle]] 工具应用时强调教师评价观的先决调节作用。 |
 > | [[Argument_Hattie_2005_ACER\|Hattie, 2005]] | Argument | 明确提出转变教师评价观、将评价解释聚焦于教学反思的核心论点。 |

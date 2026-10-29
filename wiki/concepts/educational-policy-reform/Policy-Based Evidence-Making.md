@@ -9,7 +9,7 @@ aliases:
 summary: "批判性政策研究概念，指决策者预先确立政治意图与改革方案，再对学术研究与经验数据进行选择性筛选、重构或定制以逆向论证政策正当性的政治过程"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Screening Off]]"
   - "[[Rationalized Myth]]"
   - "[[Technical Rationality]]"
+  - "[[Policy Borrowing]]"
   - "[[What Works Movement]]"
   - "[[Paradigm]]"
   - "[[Epistemological Break]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -105,20 +106,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　基于政策的证据制造植根于适宜性逻辑对后果性逻辑的制度性替代
-
-> [!concept-lens] 决策哲学的制度异化
-> 揭示为何政策制定难以遵循纯粹的[[Technical Rationality\|技术理性]]推导，阐明政治合法性考量对因果评估的支配地位。
+> [!concept-proposition] 命题一｜基于政策的证据制造植根于适宜性逻辑对后果性逻辑的制度性替代
+> **探讨维度　决策哲学的制度异化** 揭示为何政策制定难以遵循纯粹的[[Technical Rationality\|技术理性]]推导，阐明政治合法性考量对因果评估的支配地位。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
 > **适宜性逻辑统治** 由于未来政策后果存在不可消除的不确定性，政策制定在本质上服从于适宜性逻辑（即在特定政治与社会语境下何为合适与可接受），而非纯粹的后果性逻辑。当追求性价比与政治生存成为核心规范时，证据被逆向生产以满足制度环境的合法性期待。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 92–94)]]
 
 ---
 
-### 命题二　国际政策借用是逆向证据生产中典型的脱语境化修辞武器
-
-> [!concept-lens] 比较维度的工具化借用
-> 阐明政策制定者如何通过去语境化抽取国际范例来论证本土改革的正当性。
+> [!concept-proposition] 命题二｜国际[[Policy Borrowing|政策借用]]是逆向证据生产中典型的脱语境化修辞武器
+> **探讨维度　比较维度的工具化借用** 阐明政策制定者如何通过去语境化抽取国际范例来论证本土改革的正当性。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
 > **选择性借用与迅速弃用** 在英格兰教师教育政策中，2010 年白皮书密集提及芬兰模式以论证研究导向教学的必要性；但当芬兰模式的高昂公共财政成本与市场化削减开支意图发生冲突时，该模式被迅速淡化弃用。国际经验并非作为严谨因果参照，而是作为可随时替换的修辞筹码。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91–92)]]

@@ -59,7 +59,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -136,30 +136,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　嵌入式自主性是国家克服方向性失灵与有效塑造市场的制度基础
-
-> [!concept-lens] [[Market Shaping and Creating|市场塑造]]与国家能力维度
-> 探讨公共部门如何在不确定环境中确立技术演进方向。
+> [!concept-proposition] 命题一｜嵌入式自主性是国家克服方向性失灵与有效塑造市场的制度基础
+> **探讨维度　[[Market Shaping and Creating|市场塑造]]与国家能力维度** 探讨公共部门如何在不确定环境中确立技术演进方向。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **信息对称与战略定力的融合** 克服[[Directionality of Innovation|创新的方向性]]失灵不仅需要国家确立宏观愿景，更需要公共机构准确掌握前沿技术瓶颈；依托嵌入式自主性，公共部门既能通过扎根产业前沿的嵌入网络获取真实技术信息，又能依托内生自主性做出不受单一寡头利益绑架的宏观战略决断，从而有效实现市场塑造与共创。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 789–790, 796)]]
 
 ---
 
-### 命题二　新公共管理通过消解国家内部自主专长瓦解了嵌入式自主性的平衡
-
-> [!concept-lens] [[New Public Management|NPM]] 行政改革反思维度
-> 审视[[Externalization|外部化]]外包对国家–社会健康互动的破坏。
+> [!concept-proposition] 命题二｜[[New Public Management|新公共管理]]通过消解国家内部自主专长瓦解了嵌入式自主性的平衡
+> **探讨维度　[[New Public Management|NPM]] 行政改革反思维度** 审视[[Externalization|外部化]]外包对国家–社会健康互动的破坏。
 
 > [!claim] [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]]
 > **行政空心化诱发新型利益依附** [[New Public Management|新公共管理]]改革削减了公共部门内部的研发与技术专才，将核心职能外包给私营咨询公司；这不仅掏空了韦伯式精英官僚的自主分析底座，更使得国家与社会的健康嵌入退化为对少数商业咨询寡头的单向依赖（[[Consultocracy|顾问统治]]），彻底打破了嵌入式自主性赖以维系的制度平衡。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 790–791, 795–796)]]
 
 ---
 
-### 命题三　专业化公共执行机构的嵌入式自主性是保障现代产业战略落地与防范监管俘获的制度枢纽
-
-> [!concept-lens] [[Modern Industrial Policy|现代产业政策]]落地机制与公共能力重构
-> 探讨 21 世纪大国产业战略如何在复杂的跨国商业博弈中构建具备对等谈判实力的专业化国家机构。
+> [!concept-proposition] 命题三｜专业化公共执行机构的嵌入式自主性是保障现代产业战略落地与防范监管俘获的制度枢纽
+> **探讨维度　[[Modern Industrial Policy|现代产业政策]]落地机制与公共能力重构** 探讨 21 世纪大国产业战略如何在复杂的跨国商业博弈中构建具备对等谈判实力的专业化国家机构。
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
 > **专业化执行团队对嵌入式自主性的现代重构** 21 世纪产业战略的成败取决于国家执行机构是否具备“嵌入式自主性”。拜登政府《[[CHIPS and Science Act|芯片法案]]》设立的芯片项目办公室（CPO）打破了传统行政官僚选拔体制，直接招募了数十位来自半导体行业的高级管理人员与资深投资分析师；这种高度专业化的队伍使公共部门既能深入理解先进制程代工的真实资本支出模型、技术路线与供应链短板（深度嵌入），又能在谈判中强力施加[[Policy Conditionalities|护栏条款与附加条件]]（保持自主），从而有效防范了公共资金被芯片寡头寻租捕获，确保了国家战略目标的达成。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6–7)]]

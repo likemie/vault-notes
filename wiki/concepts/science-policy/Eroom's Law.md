@@ -7,7 +7,7 @@ aliases:
 summary: "生物医药与科学研发经济学中的核心经验规律（摩尔定律 Moore Law 的反向拼写）：指尽管计算机算力、高通量筛选与基因测序技术呈指数级进步，通胀调整后每十亿美元研发投入所产生的新药获批数量却呈现每九年减半的长期指数级下降趋势；在更广阔的科学政策视阈下，该定律用于表征当代科研边际生产率普遍放缓、行政合规成本膨胀与既有研发组织范式陷入瓶颈的系统性困境。"
 type: concept
 domain: "science-policy"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,12 +28,13 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Red Tape]]"
   - "[[Gold Standard Science]]"
+  - "[[Document]]"
   - "[[Decodification]]"
   - "[[Portfolio-Based Research Funding]]"
   - "[[Clinical Trial]]"
   - "[[Goodhart's Law]]"
-  - "[[Document]]"
-related_theories: []
+related_theories:
+  - "[[Pasteur's Quadrant]]"
 related_methods: []
 related_instruments: []
 related_persons:
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -82,33 +83,27 @@ updated: 2026-10-22
 
 ## 核心理论命题
 
-### 命题一　研发边际效率的长期衰退并非单纯的学科内在认知极限，而是资助行政摩擦与评审保守化的制度产物
-
-> [!concept-lens] 制度经济学与科研生产率
-> 剖析科研产出放缓中“客观探索难度上升”与“主观制度摩擦”的边界。
+> [!concept-proposition] 命题一｜研发边际效率的长期衰退并非单纯的学科内在认知极限，而是资助行政摩擦与评审保守化的制度产物
+> **探讨维度　制度经济学与科研生产率** 剖析科研产出放缓中“客观探索难度上升”与“主观制度摩擦”的边界。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **制度摩擦主导假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，科学界常将厄鲁姆定律归咎于“容易摘的果子已被摘完”的客观难度。然而科技史表明，十九世纪末物理学与临床外科均曾被断言为大厦完工、无法突破，但随后量子革命与现代研究型医院彻底打破了停滞。当前生物医药与前沿科学的效率危机，实质上是源于 1950 年代建立的大学课题组与评审体制无法适应现代高度工程化、数据密集型科研规律的制度性错位。消除行政[[Red Tape|繁文缛节]]与打破资历壁垒，是逆转效率衰退的前提。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 14–16)]]
 
 ---
 
-### 命题二　逆转厄鲁姆定律依赖引入新型聚焦研究组织（FRO）与巴斯德象限双重驱动范式
-
-> [!concept-lens] 组织创新与攻关机制
-> 阐明如何通过突破传统系所模式的新型工程组织克服中等规模研发瓶颈。
+> [!concept-proposition] 命题二｜逆转厄鲁姆定律依赖引入新型[[Focused Research Organization|聚焦研究组织]]（FRO）与[[Pasteur's Quadrant|巴斯德象限]]双重驱动[[Paradigm|范式]]
+> **探讨维度　组织创新与攻关机制** 阐明如何通过突破传统系所模式的新型工程组织克服中等规模研发瓶颈。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **新型组织形态破局假说** 传统大学单 PI 实验室受制于学生毕业轮转，无法维持专职工程团队；营利性药企则因公共品属性难以独占收益而不愿投资基础通用平台。通过设立全额薪酬聘用职业工程师的[[Focused Research Organization|聚焦研究组织]]（FRO），围绕哺乳动物神经动机环路绘制、高精度基因递送平台等明确技术里程碑开展 5–10 年集中攻坚并公开全部数据集，能够精准弥补国家科研生态的断层，大幅缩短药物前置研发周期。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 22–26)]]
 
 ---
 
-### 命题三　生成式 AI 与黄金标准机器核验构成了逆转厄鲁姆定律曲线的核心技术与基础设施杠杆
-
-> [!concept-lens] 智能时代研发[[Paradigm|范式]]跃迁
-> 探讨人工智能如何与自动化实验基础设施协同大幅压低发现与试错边际成本。
+> [!concept-proposition] 命题三｜生成式 AI 与黄金标准机器核验构成了逆转厄鲁姆定律曲线的核心技术与基础设施杠杆
+> **探讨维度　智能时代研发[[Paradigm|范式]]跃迁** 探讨人工智能如何与自动化实验基础设施协同大幅压低发现与试错边际成本。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **智能生成与机器核验协同假说** 逆转厄鲁姆定律必须重构科学工具箱：一方面，依托[[Genesis Mission|创世纪计划]]训练行业基础大模型，将蛋白质结构预测与分子逆向从头设计的时间由数年压缩至数天；另一方面，必须同步建立机器可读的自动化形式化验证与云端实验室核验沙盒，以[[Gold Standard Science|黄金标准科学]]打破不可重复文献对公共预算长达十余年的误导，从根本上重塑国家生物医药与硬科学的研发生产率曲线。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 57–67)]]
+> **智能生成与机器核验协同假说** 逆转厄鲁姆定律必须重构科学工具箱：一方面，依托[[Genesis Mission|创世纪计划]]训练行业基础大模型，将蛋白质结构预测与分子逆向从头设计的时间由数年压缩至数天；另一方面，必须同步建立机器可读的自动化形式化验证与云端实验室核验沙盒，以[[Gold Standard Science|黄金标准科学]]打破不可重复[[Document|文献]]对公共预算长达十余年的误导，从根本上重塑国家生物医药与硬科学的研发生产率曲线。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 57–67)]]
 
 ---
 

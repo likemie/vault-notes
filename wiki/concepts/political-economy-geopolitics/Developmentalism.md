@@ -12,7 +12,7 @@ aliases:
 summary: "以国家引导、资本积累与现代化转型为导向的宏观政治经济学范式与意识形态话语，在战后比较教育中具体化为将教育视作开启现代化大门的工具性范式，在当代跨国高等教育治理中则体现为强调多边对等互惠、公共产品供给与共同应对危机的知识外交叙事。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 37
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -33,9 +33,11 @@ related_concepts:
   - "[[Knowledge Power]]"
   - "[[Classical Geopolitics]]"
   - "[[Geopolitics]]"
+  - "[[Mutual Learning]]"
   - "[[Open-Mindedness]]"
   - "[[Scientism]]"
   - "[[Technical Rationality]]"
+  - "[[Document]]"
   - "[[Lifelong Learning]]"
   - "[[South-South Cooperation]]"
   - "[[Geopolitics of Knowledge]]"
@@ -70,7 +72,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -98,7 +100,7 @@ updated: 2026-10-22
 > | 维度 | 发展主义叙事（[[Knowledge Diplomacy\|知识外交]]） | [[Geopolitics\|地缘政治]]叙事（[[Knowledge Power\|知识权力]]） | [[Dependency Theory\|依附理论]]与后殖民批判 |
 > |------|--------------------------|--------------------------|----------------------|
 > | **基本假定** | 国际体系是通过多边对等合作应对共同危机的共生网络 | 国际体系是国家争夺制度性[[Discourse\|话语]]权与领导力的竞争场所 | 国际体系存在发达中心对欠发达外围的结构性剥削与知识依附 |
-> | **教育功能定位** | 搭建互学互鉴桥梁，培育跨国科技公共产品与民心互通 | 作为战略工具，培育纵向不对称影响力与学术规则主导权 | 作为西方现代化模式单向输出的意识形态装置 |
+> | **教育功能定位** | 搭建[[Mutual Learning\|互学互鉴]]桥梁，培育跨国科技公共产品与民心互通 | 作为战略工具，培育纵向不对称影响力与学术规则主导权 | 作为西方现代化模式单向输出的意识形态装置 |
 > | **合作收益逻辑** | 追求绝对收益与共同繁荣，视声誉为合作的自然伴随结果 | 追求相对收益与战略制衡，防范潜在地缘竞争对手崛起 | 揭露形式平等的援助合作背后潜藏的不对等依附机制 |
 > | **在大学联盟中的体现** | [[University Alliance of the Silk Road\|丝绸之路大学联盟]]（开放大众、去中心化） | [[Asian Universities Alliance\|亚洲大学联盟]]（闭门举荐、精英规程研制） | 批判国际大学网络对非西方本土知识体系的边缘化 |
 
@@ -127,10 +129,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　工具性发展主义范式将教育体系建构为国家现代化与经济增长的战略引擎
-
-> [!concept-lens] 战后工具性发展机制与教育规划
-> 探讨战后比较教育与国际发展援助如何将教育功能工具化，确立教育服务于国家现代化的正当性[[Discourse|话语]]。
+> [!concept-proposition] 命题一｜工具性发展主义[[Paradigm|范式]]将教育体系建构为国家现代化与经济增长的战略引擎
+> **探讨维度　战后工具性发展机制与教育规划** 探讨战后比较教育与国际发展援助如何将教育功能工具化，确立教育服务于国家现代化的正当性[[Discourse|话语]]。
 
 > [!claim] [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]]; [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]]
 > **教育作为现代化的钥匙** 战后第三代比较教育学者在实证[[Scientism|科学主义]]运动的推动下，将[[Human Capital Theory|人力资本理论]]确立为核心基石，并由此形成“工具性发展主义[[Paradigm|范式]]”。该范式将教育判定为开启现代化大门的决定性钥匙，主张通过严谨的跨国统计模型与人力需求测算来指导国家教育投资与国际组织发展援助，使教育系统彻底从人文教化转向服务于国家经济增长的战略基础设施。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–148)]]；[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 64, 67–68)]]
@@ -140,20 +140,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　当代跨国高等教育中的发展主义叙事强调多边公共产品供给与对等共赢
-
-> [!concept-lens] 跨国知识合作中的发展主义叙事与非零和逻辑
-> 探讨新兴国家在推进多边高教合作时如何动员发展主义叙事，构建对等互惠的[[Knowledge Diplomacy|知识外交]]平台。
+> [!concept-proposition] 命题二｜当代跨国高等教育中的发展主义叙事强调多边公共产品供给与对等共赢
+> **探讨维度　跨国知识合作中的发展主义叙事与非零和逻辑** 探讨新兴国家在推进多边高教合作时如何动员发展主义叙事，构建对等互惠的[[Knowledge Diplomacy|知识外交]]平台。
 
 > [!claim] [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024)]]
-> **公共产品供给与非零和知识外交** 周孟萱与德米尔约尔指出，国际关系主流文献往往过度偏重[[Geopolitics|地缘政治]]竞争的[[Knowledge Power|知识权力]]视角，忽视了具有深厚制度基础的发展主义叙事。发展主义叙事将国际高等教育界定为共同应对生存危机的知识外交载体；以[[University Alliance of the Silk Road|丝绸之路大学联盟]]为例，倡议方提供广泛的专项奖学金、联合实验室与交流平台等跨国公共产品，强调包容开放、平等协商与互学互鉴，展现出追求绝对收益与共同繁荣的制度化合作取向。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1698, 1702–1703)]]
+> **公共产品供给与非零和知识外交** 周孟萱与德米尔约尔指出，国际关系主流[[Document|文献]]往往过度偏重[[Geopolitics|地缘政治]]竞争的[[Knowledge Power|知识权力]]视角，忽视了具有深厚制度基础的发展主义叙事。发展主义叙事将国际高等教育界定为共同应对生存危机的知识外交载体；以[[University Alliance of the Silk Road|丝绸之路大学联盟]]为例，倡议方提供广泛的专项奖学金、联合实验室与交流平台等跨国公共产品，强调包容开放、平等协商与[[Mutual Learning|互学互鉴]]，展现出追求绝对收益与共同繁荣的制度化合作取向。[[Argument_Chou_Demiryol_2024_HE|(Chou & Demiryol, 2024, pp. 1696–1698, 1702–1703)]]
 
 ---
 
-### 命题三　批判理论视域下的发展主义被揭示为掩盖权力依附与实施微观治理的规训话语
-
-> [!concept-lens] 后殖民解构与微观主体规训
-> 探讨[[Post-colonial Theory|后殖民理论]]与批判政治经济学如何揭示发展主义话语背后的权力支配与主体化控制机制。
+> [!concept-proposition] 命题三｜[[Critical Theory|批判理论]]视域下的发展主义被揭示为掩盖权力依附与实施微观治理的规训话语
+> **探讨维度　后殖民解构与微观主体规训** 探讨[[Post-colonial Theory|后殖民理论]]与批判政治经济学如何揭示发展主义话语背后的权力支配与主体化控制机制。
 
 > [!claim] [[Argument_Rizvi_2022_Springer|Rizvi (2022)]]; Escobar (1995)
 > **发展话语作为后殖民统治装置** [[Arturo Escobar|阿图罗·埃斯科瓦尔]]（Arturo Escobar）的后殖民发展主义批判指出，“发展”在本质上属于后二战时期由西方中心霸权构建起来的话语装置。该话语通过制造“不发达”的赤字化分类，将第三世界整体框定为在知识、制度与道德上存在内在缺陷并亟待外部拯救的客体，从而在形式上平等的后殖民国际秩序中，持续赋予西方中心国家开展智力干预与资本渗透的合法性。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 28–30)]]

@@ -7,9 +7,9 @@ title: "Argument_Chou_Demiryol_2024_HE"
 argument_key: "Argument_Chou_Demiryol_2024_HE"
 argument_display_title: "Knowledge power or diplomacy? University alliances and the Belt and Road Initiative"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 32
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Higher Education"
 authors:
@@ -44,9 +44,12 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Discourse]]"
   - "[[Paradigm]]"
+  - "[[Mutual Learning]]"
   - "[[Theoretical Perspective]]"
+  - "[[Summer School]]"
   - "[[Student Mobility]]"
   - "[[Epistemic Governance]]"
+  - "[[Document]]"
 related_theories:
   - "[[Tianxia Heuristic]]"
 related_methods:
@@ -69,7 +72,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-19
-updated: 2026-10-23
+updated: 2026-10-29
 ---
 ---
 
@@ -131,10 +134,10 @@ updated: 2026-10-23
 
 ---
 
-> [!claim] 论证步骤一　两类大学联盟在准入、治理与科研机制上呈现鲜明的制度分工
+> [!claim|step] 论证步骤一　两类大学联盟在准入、治理与科研机制上呈现鲜明的制度分工
 > [[University Alliance of the Silk Road|丝绸之路大学联盟]]与[[Asian Universities Alliance|亚洲大学联盟]]在地理辐射、准入遴选标准、治理主导权与科研协同模式上展现出截然分化的制度架构，反映了中国在外向型[[Internationalization of Higher Education|高等教育国际化]]中针对不同目标所采取的组织分工。
 
-#### 1. 丝路联盟与亚洲大学联盟在规模、准入与治理机制上形成全面对照
+> [!sub-claim] 1. 丝路联盟与亚洲大学联盟在规模、准入与治理机制上形成全面对照
 
 两所联盟在吸纳高校范围、准入程序与运作机制上遵循完全不同的设计，呈现出互补的战略定位。
 
@@ -157,7 +160,7 @@ updated: 2026-10-23
 
 制度对比表明，两类联盟根据不同的对外合作需求，分别采用了功能互补的组织设计。
 
-#### 2. 丝路联盟面向全球广泛吸纳院校，亚洲大学联盟严格限制亚洲旗舰名校
+> [!sub-claim] 2. 丝路联盟面向全球广泛吸纳院校，亚洲大学联盟严格限制亚洲旗舰名校
 
 在地理辐射与遴选程序上，两类联盟设立了截然相反的准入门槛。
 
@@ -169,7 +172,7 @@ updated: 2026-10-23
 
 制度细节表明，丝路联盟以广泛联结为导向，而亚洲大学联盟则通过严格筛选维护精英声誉与[[Discourse|话语]]主导权。
 
-#### 3. 丝路联盟依托学科子网分散协同，亚洲大学联盟集中资助战略科研课题
+> [!sub-claim] 3. 丝路联盟依托学科子网分散协同，亚洲大学联盟集中资助战略科研课题
 
 在日常治理与学术活动推进上，两类联盟呈现出分散协同与高强度资助的鲜明分工：
 
@@ -184,10 +187,10 @@ updated: 2026-10-23
 
 ---
 
-> [!claim] 论证步骤二　既有理论将两种联盟模式割裂为知识权力与知识外交的二元对立
+> [!claim|step] 论证步骤二　既有理论将两种联盟模式割裂为知识权力与知识外交的二元对立
 > [[Geopolitics|地缘政治视角]]将 AUA 的精英架构视作挑战西方学术霸权、行使[[Knowledge Power|知识权力]]的战略工具，而[[Developmentalism|发展主义叙事]]则将 UASR 的开放平台视作对等互惠、践行[[Knowledge Diplomacy|知识外交]]的合作典范；主流理论的二元划分无法解释两种逻辑在同一国家战略中的长期共存。
 
-#### 1. 地缘政治视角将精英联盟视作争夺国际规则主导权的知识权力载体
+> [!sub-claim] 1. 地缘政治视角将精英联盟视作争夺国际规则主导权的知识权力载体
 
 国际关系中的地缘政治视角与高等教育学中的知识权力概念紧密结合，聚焦国家如何借助知识体系塑造纵向不对称影响力。
 
@@ -202,18 +205,18 @@ updated: 2026-10-23
 
 在地缘政治视角下，亚洲大学联盟被视为中国重塑知识权力的典型载体：通过排除欧美机构并汇聚亚洲顶尖智力资源，建立自主设定区域学术议程的主导权。
 
-#### 2. 发展主义视角将开放联盟阐释为应对共同危机的知识外交平台
+> [!sub-claim] 2. 发展主义视角将开放联盟阐释为应对共同危机的知识外交平台
 
 与之相对，[[Developmentalism|发展主义叙事]]与知识外交理论侧重于从共同发展与多边公共产品供给的角度审视大学联盟。
 
 > [!feature] 知识外交[[Paradigm|范式]]的三大核心逻辑
 > - **公共产品与绝对收益** [[Developmentalism|发展主义叙事]]强调[[Belt and Road Initiative|一带一路倡议]]通过基础设施与人文联通提供多边公共产品，追求包容性经济增长与共同繁荣。
 > - **双向互惠与协同应对** 知识外交理论主张高等教育国际化旨在跨国协同应对全球危机，突出双向对等的互惠互动与共同应对。
-> - **丝路精神的制度实践** 丝路联盟将和平合作、开放包容、互学互鉴、互利共赢的丝路精神转化为低门槛、大众化的校际多边合作网络。
+> - **丝路精神的制度实践** 丝路联盟将和平合作、开放包容、[[Mutual Learning|互学互鉴]]、互利共赢的丝路精神转化为低门槛、大众化的校际多边合作网络。
 
 发展主义视角认为，中国在合作中获得的知识声誉，是多边开放合作自然伴随的互利成果。
 
-#### 3. 单一的权力竞争或外交合作视角无法单独解释多元并存的布局
+> [!sub-claim] 3. 单一的权力竞争或外交合作视角无法单独解释多元并存的布局
 
 对立的[[Theoretical Perspective|理论视角]]各自抓住了部分现实，但在面对整体图景时均遭遇严重的解释盲区。
 
@@ -224,10 +227,10 @@ updated: 2026-10-23
 
 ---
 
-> [!claim] 论证步骤三　高密度多边合作使中国成为国际学术网络的日常中心，并在[[Tianxia Heuristic|天下观]]中包容等级与平等
+> [!claim|step] 论证步骤三　高密度多边合作使中国成为国际学术网络的日常中心，并在[[Tianxia Heuristic|天下观]]中包容等级与平等
 > 中国并行推进多元组织模式的核心意图在于，通过扩大多对多连接密度使其在全球知识网络中的中心地位常态化；这一实践超越了西方国家中心主义二元视角，在[[Epistemology|认识论]]上契合容纳等级与平等辩证共存的世界中心[[Tianxia Heuristic|天下观]]。
 
-#### 1. 织密多边合作关系使中国在全球学术网络中的中心地位成为常态
+> [!sub-claim] 1. 织密多边合作关系使中国在全球学术网络中的中心地位成为常态
 
 通过知识合作实现常态化（[[Normalization through Knowledge Cooperation|normalization through knowledge cooperation]]）这一判断，阐明了多元网络布局的深层战略逻辑。
 
@@ -239,7 +242,7 @@ updated: 2026-10-23
 
 网络中心地位的常态化，解释了中国如何在同一国家战略中自如结合开放外交与精英合作。
 
-#### 2. 天下观超越西方二元对立，包容学术层级与对等共赢的辩证共存
+> [!sub-claim] 2. 天下观超越西方二元对立，包容学术层级与对等共赢的辩证共存
 
 以天下为透镜审视跨国高等教育治理，为理解复杂的网络关系提供了非西方的认识论工具。
 
@@ -265,7 +268,7 @@ updated: 2026-10-23
 > - **165 / 19** UASR 正式成员与观察员高校总数（所），横跨全球 38 个国家。
 > - **15 / 13** AUA 长期维持的亚洲旗舰[[Research Universities|研究型大学]]数量（所）与覆盖国家数（个）。
 > - **11** UASR 在工程、法学与医学等领域构建的专业学科子联盟数量（个）。
-> - **150–237** UASR 单届暑期学校与国际研习营吸纳的成员高校青年[[Student Mobility|学生流动]]规模（人次）。
+> - **150–237** UASR 单届[[Summer School|暑期学校]]与国际研习营吸纳的成员高校青年[[Student Mobility|学生流动]]规模（人次）。
 > - **\$135K / \$68K** AUA 联合研究计划单项实验类与非实验类合作课题设立的最高资助额度。
 
 > [!implication]- 理论、政策与方法启示
@@ -276,7 +279,7 @@ updated: 2026-10-23
 ---
 
 > [!citation-card] [[Knowledge Power|知识权力]]与[[Knowledge Diplomacy|知识外交]]的界定
-> 知识权力代表了国际关系[[Belt and Road Initiative|一带一路]]文献中的[[Geopolitics|地缘政治]]观点，用以指称中国通过知识领导力生成权力的战略举措；知识外交则指国际高等教育与研究在建立和强化国家间关系中的角色，聚焦通过多国合作应对人类面临的紧迫全球危机。
+> 知识权力代表了国际关系[[Belt and Road Initiative|一带一路]][[Document|文献]]中的[[Geopolitics|地缘政治]]观点，用以指称中国通过知识领导力生成权力的战略举措；知识外交则指国际高等教育与研究在建立和强化国家间关系中的角色，聚焦通过多国合作应对人类面临的紧迫全球危机。
 >
 > *In China's case, we propose that the concept of knowledge power represents the geopolitical viewpoint in IR's BRI literature [...] can be used to refer to China-initiated developments to generate power through knowledge leadership [...] Knight defines knowledge diplomacy as focusing on 'the role of international higher education and research in building and strengthening relations between and among countries' [addressing] pressing global issues facing our planet.*
 

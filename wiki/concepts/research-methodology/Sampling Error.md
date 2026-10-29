@@ -7,7 +7,7 @@ aliases:
 summary: "从同一总体中多次随机抽样时样本统计量围绕总体真实参数的理论波动；度量从样本推断总体的随机不确定性，在元分析中作为研究内抽样方差与研究间真实异质性相对立，其准确估计依赖于样本独立性假设与逆方差加权机制"
 type: concept
 domain: "research-methodology"
-related_count: 40
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -26,8 +26,10 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Variable]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Type I and Type II Errors]]"
   - "[[Visible Learning]]"
+  - "[[Document]]"
   - "[[Problem-Based Learning]]"
   - "[[Direct Instruction]]"
 related_theories:
@@ -66,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-21
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -125,40 +127,32 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　样本量对抽样误差的抑制呈现显著的边际收益递减规律
-
-> [!concept-lens] [[Sample Size Determination|样本量]]规划与统计功效边界
-> 探讨样本规模与抽样误差衰减之间的非线性关系，辨析小样本风险与大样本资源配置的平衡点。
+> [!concept-proposition] 命题一｜[[Sample Size Determination|样本量]]对抽样误差的抑制呈现显著的边际收益递减规律
+> **探讨维度　[[Sample Size Determination|样本量]]规划与统计功效边界** 探讨样本规模与抽样误差衰减之间的非线性关系，辨析小样本风险与大样本资源配置的平衡点。
 
 > [!claim] Cohen, Manion & Morrison; Gorard
 > **样本规模门槛与边际递减规律** 样本量与抽样误差之间存在确定的反比开方关系，少于 30 例的样本处于统计高危区间，允许过大的抽样误差存在并导致极低的统计功效；当样本量超过约 80 例后，单纯依靠增加样本量对压缩抽样误差的边际贡献急剧放缓。若总体中某[[Variable|变量]]本身的变异性（$\sigma$）极大（例如智商测验或复杂教育成就），控制抽样误差所需的样本量远大于低变异变量。大样本的核心意义在于建立足够的统计检验功效，将实质性[[Effect Size|效应量]]从[[Random Sampling|随机抽样]]变异中清晰分离出来。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, Ch. 8, pp. 145, 151–152)]]
 
 ---
 
-### 命题二　固定效应模型将所有研究间变异机械归因于抽样误差，违背教育干预的生态现实
-
-> [!concept-lens] 双层方差分解与同质性破产
-> 探讨[[Meta-analysis|元分析]]中将真实情境[[Heterogeneity|异质性]]降格为抽样误差所引发的推断失真。
+> [!concept-proposition] 命题二｜[[Fixed-Effect Model|固定效应模型]]将所有研究间变异机械归因于抽样误差，违背教育干预的生态现实
+> **探讨维度　双层方差分解与同质性破产** 探讨[[Meta-analysis|元分析]]中将真实情境[[Heterogeneity|异质性]]降格为抽样误差所引发的推断失真。
 
 > [!claim] Higgins; Wecker et al.
 > **[[Fixed-Effect Model|固定效应]]同质性假设与异质性降格批判** [[Fixed-Effect Model|固定效应模型]]假定所有纳入研究均在估计同一个永恒不变的真实参数，所有研究间观察到的离散纯粹是由有限样本的抽样误差（$v_i$）引起的。然而[[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker）等人指出，在复杂教育研究中，受试学生学段、教师素养、教学时长与组织情境千差万别，必然存在显著的[[Between-Study Variance|研究间真实方差]]（$\tau^2 > 0$）。强行假定所有变异皆属抽样误差，会导致合并估计量的[[Confidence Interval|置信区间]]严重虚假收窄，向外推论的超总体效度彻底破产。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]; [[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 39)]]
 
 ---
 
-### 命题三　原始文献重叠违背独立性假设，致使两级元分析的抽样误差被严重低估
-
-> [!concept-lens] 独立性破产与[[Type I and Type II Errors|第一类错误]]率膨胀
-> 探讨主要研究重复纳入如何破坏抽样分布方差的计算基石，制造出虚假精确的统计幻觉。
+> [!concept-proposition] 命题三｜[[Primary and Secondary Documents|原始文献]]重叠违背独立性假设，致使两级元分析的抽样误差被严重低估
+> **探讨维度　独立性破产与[[Type I and Type II Errors|第一类错误]]率膨胀** 探讨主要研究重复纳入如何破坏抽样分布方差的计算基石，制造出虚假精确的统计幻觉。
 
 > [!claim] Wecker et al.; Johnson & Janzen
 > **协方差未校正导致的假性精确与假阳性灾难** [[Meta-meta-analysis|二级元分析]]经典方差公式 $\text{Var}(D) = 1/\sum W_j$ 的严格数理前提是各一阶元分析收录的主要研究互不重叠、协方差为 0。韦克尔等人审计证实，[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》容忍不同一阶元分析之间高达 93% 的主要研究相互重叠。由于重叠研究引入了高度正相关的协方差项（$\text{Cov} > 0$），若仍按独立抽样误差公式相加，会导致分母被虚假人为放大，从而使合并效应量的真实抽样误差（[[Standard Error|标准误]]）被大幅低估，计算出的 $z$ 值虚高，造成第一类错误率（伪阳性）严重失控。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 25, 29–30)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–26)]]
 
 ---
 
-### 命题四　混淆抽样误差（SE）与样本标准差（SD）会导致效应量虚增数倍的灾难性计量事故
-
-> [!concept-lens] 计量审计中的除数混淆事故
-> 探讨一阶文献数据提取中将抽样分布统计量与原始样本分布参数混淆带来的倍增放大效应。
+> [!concept-proposition] 命题四｜混淆抽样误差（SE）与样本标准差（SD）会导致效应量虚增数倍的灾难性计量事故
+> **探讨维度　计量审计中的除数混淆事故** 探讨一阶[[Document|文献]]数据提取中将抽样分布统计量与原始样本分布参数混淆带来的倍增放大效应。
 
 > [!claim] Wecker et al.
 > **标准误作为效应量除数引发的虚假暴增** 在初级研究与元分析数据提取规程中，计算标准化均数差（Cohen's $d$）的分母必须是样本原始数据的联合标准差（SD）。韦克尔等人在对哈蒂引用的 Eisenstaedt et al.（1990）关于“[[Problem-Based Learning|基于问题的学习]]”元分析进行微观数据审计时发现，原作者在提取主要研究数据时，错误地将报告的均值标准误（[[Causal Modeling|SEM]]）当作样本标准差（SD）作为除数代入公式。由于 $\text{SEM} = \text{SD}/\sqrt{N}$，以标准误为除数直接导致效应量被虚假放大了 $\sqrt{N}$ 倍——原本仅为 $d = 0.08$ 的微弱真实效应，被严重误算为 $d = 0.79$ 的显著高效应，暴增近十倍。此类抽样统计量概念混淆若未被严格审计，会彻底污染整座循证证据大厦。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 27)]]

@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪80年代半导体产业界与政策界的主导信条，主张大宗标准化存储芯片（DRAM）的大规模制造是掌握先进微细加工工艺与设备良率学习不可或缺的技术驱动载体；90年代被微观晶圆厂实证标杆数据证伪。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Total Quality Management]]"
   - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Technological Catch-up]]"
 related_theories:
   - "[[Technological Trajectories]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -103,20 +104,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　技术驱动产品假设将先进制造学习能力单向绑定于大宗存储规模，构成了 20 世纪 80 年代权威学界对美国产业碎片化悲观误诊的理论根源
-
-> [!concept-lens] 产业政策误诊与认知锁定
-> 20 世纪 80 年代美国麻省理工学院（MIT）产业生产率委员会与行业游说团体普遍认定，美国多数商用企业退出 DRAM 市场标志着全美半导体制造基底的瓦解。
+> [!concept-proposition] 命题一｜技术驱动产品假设将先进制造学习能力单向绑定于大宗存储规模，构成了 20 世纪 80 年代权威学界对美国产业碎片化悲观误诊的理论根源
+> **探讨维度　产业政策误诊与认知锁定** 20 世纪 80 年代美国麻省理工学院（MIT）产业生产率委员会与行业游说团体普遍认定，美国多数商用企业退出 DRAM 市场标志着全美半导体制造基底的瓦解。
 
 > [!claim] MIT Commission on Industrial Productivity; Macher, J. T., [[David C. Mowery|Mowery, D. C.]], & Hodges, D. A.
 > **大宗驱动神话与结构性误判** 80 年代末以麻省理工学院《美国制造》（Made in America, 1989）为代表的权威诊断，深度依托“技术驱动产品假设”，断言分散化的美国企业无法在资本密集型 DRAM 价格战中对抗日本纵向一体化财团，因而美国半导体产业必将整体衰亡。Macher et al. 指出，这种悲观预测严重忽视了逻辑芯片与微组件（MPU、DSP、ASIC）制造工艺的独特性，将半导体产业整体[[Competitiveness|竞争力]]错误等同于单一存储芯片的制造规模，从而对产业前途作出了系统性误判。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 114, 129)]]
 
 ---
 
-### 命题二　微观制造标杆测量证实复杂逻辑芯片无须依赖存储制造经验，能够独立构建世界级工艺控制与更高劳动生产率
-
-> [!concept-lens] 微观产线实证与工艺独立性
-> 晶圆产线真实的缺陷密度与探针良率测量表明，微处理器与逻辑芯片拥有独立于存储器的工艺演进逻辑。
+> [!concept-proposition] 命题二｜微观制造标杆测量证实复杂逻辑芯片无须依赖存储制造经验，能够独立构建世界级工艺控制与更高劳动生产率
+> **探讨维度　微观产线实证与工艺独立性** 晶圆产线真实的缺陷密度与探针良率测量表明，微处理器与逻辑芯片拥有独立于存储器的工艺演进逻辑。
 
 > [!claim] Macher, J. T., Mowery, D. C., & Hodges, D. A.
 > **实证[[Falsification|证伪]]与独立工艺能力确立** 加州大学伯克利分校竞争性半导体制造（[[Competitive Semiconductor Manufacturing Program|CSM]]）项目的实证标杆数据显示：在 0.7–0.9 微米及亚 0.5 微米 CMOS 逻辑制程中，完全不生产 DRAM 的美国领先晶圆厂，通过推行[[Statistical Process Control|统计过程控制]]（SPC）与[[Total Quality Management|全面质量管理]]（TQM），其缺陷密度从 1990 年的 1.3 个/$\text{cm}^2$ 降至与日本顶级工厂持平，晶圆平均探针良率达到 84%–87%，且直接劳动生产率显著高于日本产线。这些微观物理证据确凿证明：大宗存储芯片并非尖端工艺进化的唯一驱动器，复杂逻辑产品完全能够作为独立的先进工艺学习平台。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 114–118)]]
@@ -163,7 +160,7 @@ updated: 2026-10-26
 > [!ref-table]- 美日半导体制造商晶圆平均探针良率实测对比（[[Argument_Macher_1998_CMR|Macher et al., 1998]], Table 2）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 制程类型与技术线宽 | 美国晶圆厂平均良率（%） | 日本晶圆厂平均良率（%） | 美日良率差距 | 对技术驱动假设的检验含义 | 来源文献 |
+> | 制程类型与技术线宽 | 美国晶圆厂平均良率（%） | 日本晶圆厂平均良率（%） | 美日良率差距 | 对技术驱动假设的检验含义 | 来源[[Document\|文献]] |
 > |:---|:---|:---|:---|:---|:---|
 > | **逻辑制程：1.0–1.2 微米** | 55% | 78% | -23% | 80 年代初美国逻辑制程落后于日本 | Macher et al. (1998, Table 2) |
 > | **逻辑制程：0.7–0.9 微米** | 60% | 60% | 0% | 90 年代初美国逻辑良率完全追平日企 | Macher et al. (1998, Table 2) |

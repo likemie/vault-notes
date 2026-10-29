@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -75,20 +75,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　大语言模型的涌现能力已构成通用人工智能的初级形态
-
-> [!concept-lens] [[Emergence|涌现]]主义与泛化推理
-> 探讨大语言模型在海量语料与自注意力机制驱动下，是否自发演化出了超越单纯记忆的抽象世界模型与通用推理。
+> [!concept-proposition] 命题一｜大语言模型的[[Emergence|涌现]]能力已构成通用人工智能的初级形态
+> **探讨维度　[[Emergence|涌现]]主义与泛化推理** 探讨大语言模型在海量语料与自注意力机制驱动下，是否自发演化出了超越单纯记忆的抽象世界模型与通用推理。
 
 > [!claim] Bubeck et al. (2023)
 > **通用推理火花的实证判定** [[Sébastien Bubeck|塞巴斯蒂安·布贝克]]等学者通过对原始 [[General Purpose Technology|GPT]]-4 模型展开涵盖物理常识、几何绘图、代码合成与[[Theory of Mind|心理理论]]的跨学科测试，论证该模型在无专门微调的情况下能够灵活解决多领域复杂挑战，证明模型已具备形式推理与常识理解能力，可被判定为 AGI 的早期火花。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, p. 19)]]
 
 ---
 
-### 命题二　统计语言拟合并未跨越通向真实认知与因果理解的鸿沟
-
-> [!concept-lens] 怀疑主义与认知本质批判
-> 探讨纯粹的概率生成与词序列统计转移，是否在[[Epistemology|认识论]]上无法触及人类智能的真实理解与[[Counterfactual|反事实]]推演。
+> [!concept-proposition] 命题二｜统计语言拟合并未跨越通向真实认知与因果理解的鸿沟
+> **探讨维度　怀疑主义与认知本质批判** 探讨纯粹的概率生成与词序列统计转移，是否在[[Epistemology|认识论]]上无法触及人类智能的真实理解与[[Counterfactual|反事实]]推演。
 
 > [!claim] Chomsky et al. (2023) & Hofstadter (2023)
 > **模态认知缺陷与[[Stochastic Parrot|随机鹦鹉]]本质** [[Noam Chomsky|诺姆·乔姆斯基]]与[[Douglas Hofstadter|道格拉斯·霍夫施塔特]]分别指出，当前大模型本质上是通过摄入海量语料进行的巧言拼接与模式拟合（[[Stochastic Parrot|随机鹦鹉]]），其根本缺陷在于缺乏区分必然真理、偶然经验事实与不可能情况的模态认知能力，因而并未重构人类心智的内在推理机制。[[Argument_Karp_Zamiska_2025_Technological_Republic|(Karp & Zamiska, 2025, p. 24)]]

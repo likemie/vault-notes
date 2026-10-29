@@ -32,6 +32,7 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Securitization of Technology]]"
   - "[[Process Design Kit]]"
+  - "[[Document]]"
   - "[[Assemblage]]"
   - "[[Grandes Ecoles]]"
   - "[[Curiosity-Driven Research]]"
@@ -46,6 +47,7 @@ related_concepts:
   - "[[Informal Science Learning]]"
   - "[[Public-Private Partnership]]"
   - "[[Grand Challenges]]"
+  - "[[Discourse]]"
   - "[[Patient Capital]]"
   - "[[General Purpose Technology]]"
 related_theories:
@@ -91,14 +93,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-10
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: report
 publication_type: report
 title: "Argument_NSTC_2024_MicroelectronicsResearch"
 argument_key: "Argument_NSTC_2024_MicroelectronicsResearch"
 argument_display_title: "National strategy on microelectronics research (as amended April 2025)"
 argument_kind: "report"
-argument_related_count: 60
+argument_related_count: 62
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -145,7 +147,7 @@ publisher: "Executive Office of the President of the United States"
 > | 样本层面 | 构成 |
 > |---|---|
 > | **战略文本** | 白宫国家科学技术委员会《国家微电子研究战略》（55 页完整报告，2024 年 3 月发布，2025 年 4 月修订版）。 |
-> | **法定与政策文献** | 《2021财年国防授权法案》（P.L. 116-283）、《2022年[[CHIPS and Science Act\|芯片与科学法案]]》（P.L. 117-167）、白宫百日供应链审查报告及工业咨询委员会（IAC）系列报告。 |
+> | **法定与政策[[Document\|文献]]** | 《2021财年国防授权法案》（P.L. 116-283）、《2022年[[CHIPS and Science Act\|芯片与科学法案]]》（P.L. 117-167）、白宫百日供应链审查报告及工业咨询委员会（IAC）系列报告。 |
 > | **覆盖机构与网络** | 包含 DOC（NSTC、[[National Advanced Packaging Manufacturing Program\|NAPMP]]、NIST）、DOD（DARPA、[[Microelectronics Commons]]）、[[Department of Energy\|DOE]]（国家实验室设施）、NSF（[[National Nanotechnology Coordinated Infrastructure\|NNCI]] 用户设施网络）及全美产学研合作项目。 |
 
 ---
@@ -166,10 +168,10 @@ publisher: "Executive Office of the President of the United States"
 
 ---
 
-> [!claim] 论证步骤一　面对物理极限与制造外包危机确立全技术栈跨部委协同战略
+> [!claim|step] 论证步骤一　面对物理极限与制造外包危机确立全技术栈跨部委协同战略
 > 美国微电子产业面临本土制造产能严重萎缩与传统物理微缩收益放缓的双重挑战，必须打破单一部门分散资助格局，依托法定跨部委机制推行贯穿材料到系统的全技术栈跨部门协同。（pp. 1–3, 8–10）
 
-#### 1. 制造外包与物理微缩放缓阻断了传统技术升级路径
+> [!sub-claim] 1. 制造外包与物理微缩放缓阻断了传统技术升级路径
 
 微电子器件是现代数字经济与国防系统的物质基石，其技术演进正处于重大转折期。
 
@@ -184,7 +186,7 @@ publisher: "Executive Office of the President of the United States"
 > [!figure]- 图1：微电子技术发展全周期转化路径
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig1_Technology_Development_Pathway.png)
 
-#### 2. 微电子领导力小组委员会统筹全技术栈双向研发流程
+> [!sub-claim] 2. 微电子领导力小组委员会统筹全技术栈双向研发流程
 
 为克服各部门分散管理带来的资源分散，联邦政府建立了顶层跨部门协同架构。
 
@@ -206,10 +208,10 @@ publisher: "Executive Office of the President of the United States"
 
 ---
 
-> [!claim] 论证步骤二　异构集成、全栈协同设计与硬件安全共同构成后摩尔时代技术主攻方向
+> [!claim|step] 论证步骤二　异构集成、全栈协同设计与硬件安全共同构成后摩尔时代技术主攻方向
 > 战略第一目标（Goal 1）聚焦六大前沿科研领域，将研发重心确立为利用[[Heterogeneous Integration|三维异构集成]]突破单芯片物理极限、依靠全栈协同设计提高系统整体能效，并将[[Hardware Security|硬件安全]]作为系统内生要素贯穿始终。（pp. 10–20）
 
-#### 1. 宽禁带材料与非冯·诺依曼计算架构突破单芯片物理与能耗极限
+> [!sub-claim] 1. 宽禁带材料与非冯·诺依曼计算架构突破单芯片物理与能耗极限
 
 为满足人工智能、移动通信和边缘计算等复杂场景的要求，必须从底层半导体材料与芯片体系架构两端同步创新。
 
@@ -221,7 +223,7 @@ publisher: "Executive Office of the President of the United States"
 > [!figure]- 图：半导体算力演进曲线与未来三维异构驱动力
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig_Computing_Power_3DHI.png)
 
-#### 2. 三维芯粒堆叠与内生硬件安全机制保障系统性能与物理可信
+> [!sub-claim] 2. 三维芯粒堆叠与内生硬件安全机制保障系统性能与物理可信
 
 后摩尔时代提升芯片整体效能与安全性的关键，在于将多个独立制造的功能单元紧密集成并在设计前端根植防护。
 
@@ -240,10 +242,10 @@ publisher: "Executive Office of the President of the United States"
 
 ---
 
-> [!claim] 论证步骤三　联邦化开放中试与表征设施网络是跨越从实验室到代工厂中试断层的物质基础
+> [!claim|step] 论证步骤三　联邦化开放中试与表征设施网络是跨越从实验室到代工厂中试断层的物质基础
 > 战略第二目标（Goal 2）旨在构建并贯通从微观材料制备到晶圆级中试加工的基础设施网络，通过开放设计工具与先进封装测试平台消除硬件创新的重资产准入门槛。（pp. 20–28）
 
-#### 1. 国家纳米技术设施网络与设计网关打破大学和小微企业的重资产壁垒
+> [!sub-claim] 1. 国家纳米技术设施网络与设计网关打破大学和小微企业的重资产壁垒
 
 针对高校师生和小微企业无力独立建设昂贵洁净室的现实，联邦政府推行开放共享的基础设施支持体系。
 
@@ -255,7 +257,7 @@ publisher: "Executive Office of the President of the United States"
 > [!figure]- 图3：国家纳米技术协调基础设施（NNCI）用户设施网络
 > ![](https://img.mylikemie.icu/sources/NSTC_2024_MicroelectronicsResearch/figures/NSTC_2024_MicroelectronicsResearch_Fig3_NNCI_Network.jpg)
 
-#### 2. 国家半导体技术中心与先进封装计划弥合商业量产前的工艺匹配差距
+> [!sub-claim] 2. 国家半导体技术中心与先进封装计划弥合商业量产前的工艺匹配差距
 
 打通从原理验证样机到商业规模化生产的中间工程环节。
 
@@ -268,10 +270,10 @@ publisher: "Executive Office of the President of the United States"
 
 ---
 
-> [!claim] 论证步骤四　多层级工程教育与技能认证管道是解决半导体全谱系人才短缺的根本支撑
+> [!claim|step] 论证步骤四　多层级工程教育与技能认证管道是解决半导体全谱系人才短缺的根本支撑
 > 战略第三目标（Goal 3）提出全谱系微电子人才开发方案，通过基础教育普及、非学位技能认证、[[Apprenticeship|学徒制]]与高层次科研训练，系统性缓解从一线产线技师到领军科学家的人力资源缺口。（pp. 29–37）
 
-#### 1. 从中小学科普启发到研究生前沿科研贯通全链条人才培养
+> [!sub-claim] 1. 从中小学科普启发到研究生前沿科研贯通全链条人才培养
 
 半导体人才供给的长期保障依赖于从早期教育阶段建立宽广的生源基础。
 
@@ -295,10 +297,10 @@ publisher: "Executive Office of the President of the United States"
 
 ---
 
-> [!claim] 论证步骤五　公私合作联合体、共性路线图与创业扶持形成技术向产业转化的持续循环
+> [!claim|step] 论证步骤五　公私合作联合体、共性路线图与创业扶持形成技术向产业转化的持续循环
 > 战略第四目标（Goal 4）强调通过[[Public-Private Partnership|公私合作伙伴关系]]（PPP）、产业共性技术路线图指引、产学研人员双向交流以及全周期创业扶持，加速科研成果向实体产业转化，形成技术演进与再投入的良性循环。（pp. 37–47）
 
-#### 1. 产学研联合体与产业技术路线图引导研发资金紧密对接实际需求
+> [!sub-claim] 1. 产学研联合体与产业技术路线图引导研发资金紧密对接实际需求
 
 搭建跨界协同的制度平台，使公共研发投入能够紧扣产业前沿的技术痛点。
 
@@ -308,7 +310,7 @@ publisher: "Executive Office of the President of the United States"
 > - **编制技术路线图与设立重大攻关目标（Roadmaps & [[Grand Challenges]], 4.3）** 借鉴国际半导体技术路线图（ITRS/IRDS）经验，定期发布行业共性技术指标，引导科研资源集中攻关。（pp. 44）
 > - **建立产学研人员双向流动机制（Stakeholder Exchange, 4.4）** 推行高校教师企业学术休假制度，鼓励企业工程师驻校授课与政府科研人员交流，打破体制壁垒。（pp. 44–45）
 
-#### 2. 战略风险投资与国际标准制定提升本土初创企业生存率与全球话语权
+> [!sub-claim] 2. 战略风险投资与国际标准制定提升本土初创企业生存率与全球[[Discourse|话语]]权
 
 为高风险硬件初创团队提供早期生存支持，并在国际技术治理中确立优势。
 

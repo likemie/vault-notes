@@ -8,10 +8,10 @@ aliases:
 summary: "源自法国理性主义与折衷主义哲学的精英中等教育通识理念，融合古典人文与现代科学，基于官能心理学与心智训练全面磨砺普遍理性，为中央集权体制选拔培育具备卓越行政才能的治理精英。"
 type: concept
 domain: "educational-philosophy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/culture-generale
   - theme/humanism
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Research Universities]]"
   - "[[Cultural Capital]]"
+  - "[[Technical Rationality]]"
   - "[[Paradigm]]"
   - "[[Scientific Paradigm]]"
   - "[[Critical Dualism]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -129,10 +130,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　普通文化通过文理融通与官能磨砺培育具有普遍理性与严整思维的智性心智
-
-> [!concept-lens] 课程[[Epistemology\|认识论]]与心智训练维度
-> 该命题探讨[[Culture Générale|普通文化]]如何打破人文学科与自然科学的二元对立，依据[[Faculty Psychology\|官能心理学]]构建文理整合的心智训练机制。
+> [!concept-proposition] 命题一｜普通文化通过文理融通与官能磨砺培育具有普遍理性与严整思维的智性心智
+> **探讨维度　课程[[Epistemology\|认识论]]与心智训练维度** 该命题探讨[[Culture Générale|普通文化]]如何打破人文学科与自然科学的二元对立，依据[[Faculty Psychology\|官能心理学]]构建文理整合的心智训练机制。
 
 > [!claim] [[Victor Cousin\|Cousin, V.]]
 > **文理平衡与官能全面陶冶** 库森在考察普鲁士中等教育后论证指出，古典语言文字是对人类精神最高本质的探索，而数学与物理则是对形式逻辑与客观观察官能的最佳锻炼。普通文化绝不排斥现代科学，而是主张将科学纳入以人文学科为统领的整全架构中，使年轻人的理智、心灵与审美官能得到均匀而协调的锻炼。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 30)]]；引自 Brewer (1971: 91–92); Halls (1965: 2)
@@ -142,10 +141,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　古典普通文化构筑了法兰西中央集权精英选拔与国家治理的合法性根基
-
-> [!concept-lens] 政治社会学与国家建制维度
-> 该命题探讨普通文化如何与法国中央集权体制相结合，承担起国家统治精英的政治社会化与合法性再生产功能。
+> [!concept-proposition] 命题二｜古典普通文化构筑了法兰西中央集权精英选拔与国家治理的合法性根基
+> **探讨维度　政治社会学与国家建制维度** 该命题探讨普通文化如何与法国中央集权体制相结合，承担起国家统治精英的政治社会化与合法性再生产功能。
 
 > [!claim] Mattheou, D.
 > **服务民族国家的精英培育取向** 马修指出，19 世纪后半叶欧洲中等教育人文学科的核心使命是为刚刚确立的民族国家行政机器输送合格人才。在法国，普通文化是国家意志与行政理性的集中体现，国家通过统一的大纲、严格的督导与会考，确保所有进入公共管理层的精英共享相同的理性语法、国家认同与公共责任感。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]
@@ -155,10 +152,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题三　战后民主化浪潮与技术理性崛起促使排他性普通文化经历深刻危机与功能重构
-
-> [!concept-lens] 现代性变迁与[[Paradigm\|范式]]转型维度
-> 该命题探讨第二次世界大战后，面对工业经济起飞与社会民主化需求，古典普通文化如何因阶层区隔与缺乏实用功能而遭遇严厉批判与改革。
+> [!concept-proposition] 命题三｜战后民主化浪潮与[[Technical Rationality|技术理性]]崛起促使排他性普通文化经历深刻危机与功能重构
+> **探讨维度　现代性变迁与[[Paradigm\|范式]]转型维度** 该命题探讨第二次世界大战后，面对工业经济起飞与社会民主化需求，古典普通文化如何因阶层区隔与缺乏实用功能而遭遇严厉批判与改革。
 
 > [!claim] Mattheou, D.
 > **古典人文教化防线的战后破产** 二战浩劫宣告了欧洲[[Paideia\|古典教化]]理想的道德神话破灭；受过高级普通文化熏陶的精英阶层不仅未能构筑抵御野蛮暴政的堤坝，反而在极权官僚体制中充当推手。战后欧洲急切渴望社会经济重建，教育被迅速重新定义为服务于经济增长、产业技能与社会平等的工具，迫使以古典学为核心的传统普通文化让位于注重实用技能与量化实证的现代[[Scientific Paradigm\|科学范式]]。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]；引自 Davies (1997: 899); Mazower (1998: 185)

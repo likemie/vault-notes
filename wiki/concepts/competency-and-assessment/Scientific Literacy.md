@@ -10,7 +10,7 @@ aliases:
 summary: "个体理解科学运作机制、批判性评估多源证据质量、接纳科学知识暂定性与不确定性，并在日常生活和公共审议中做出理性判断的核心公民素养，涵盖科学本质理解、证据辨析、认识论实践、抵御虚假信息与大模型幻觉，以及在公共政策中坚守基于客观实证可复现性与学术卓越的“金标准科学”评价心智。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 73
+related_count: 75
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Examination-Oriented Education]]"
   - "[[Humility]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Document]]"
   - "[[Output-Oriented Governance]]"
   - "[[Direct Instruction]]"
   - "[[Interaction Effect]]"
@@ -64,6 +65,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Competitiveness]]"
   - "[[Diversity, Equity, and Inclusion]]"
+  - "[[Student Motivation]]"
   - "[[Engineering Education]]"
   - "[[Socioscientific Issues]]"
 related_facts:
@@ -103,7 +105,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -175,10 +177,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　科学教育范式必须从少数专业精英预备转向面向全体公民的科学素养培育
-
-> [!concept-lens] [[Citizen Science|公民科学]]素养[[Paradigm|范式]]与专业管网选拔冲突
-> 科学教育长期深陷为少数未来科学家奠基与为全体未来公民提供素养支撑的双重张力，当代课程哲学明确主张将全民科学素养置于首要地位。
+> [!concept-proposition] 命题一｜科学教育[[Paradigm|范式]]必须从少数专业精英预备转向面向全体公民的科学素养培育
+> **探讨维度　[[Citizen Science|公民科学]]素养[[Paradigm|范式]]与专业管网选拔冲突** 科学教育长期深陷为少数未来科学家奠基与为全体未来公民提供素养支撑的双重张力，当代课程哲学明确主张将全民科学素养置于首要地位。
 
 > [!claim] Millar and Osborne (1998)
 > **公民导向范式转型** 科学教育必须从服务于大学专业学科输送少数预备科研人员的狭隘管网（[[STEM Education|STEM]] Pipeline）思维中解脱出来，首要使命在于为所有未来的公民提供理解科技争议、评估媒体报告、参与现代社会生活所需的科学素养。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
@@ -191,10 +191,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　真正的科学素养本质在于接纳证据暂定性与理解科学不确定性而非死记定论
-
-> [!concept-lens] [[Nature of Science|科学本质]]认知与证据演进机制
-> 传统[[Examination-Oriented Education|应试教育]]将科学歪曲为绝对确定事实的集合，阻碍了学生对真实科研探索逻辑的领会。
+> [!concept-proposition] 命题二｜真正的科学素养本质在于接纳证据暂定性与理解[[Scientific Uncertainty|科学不确定性]]而非死记定论
+> **探讨维度　[[Nature of Science|科学本质]]认知与证据演进机制** 传统[[Examination-Oriented Education|应试教育]]将科学歪曲为绝对确定事实的集合，阻碍了学生对真实科研探索逻辑的领会。
 
 > [!claim] Kerr et al. (2022)
 > **透明沟通不确定性强化公众信任** 大规模代表性公众[[Randomised Controlled Trials|随机对照实验]]证实：无论是采用数值[[Confidence Interval|置信区间]]还是定性限定词，向公众坦诚披露科学证据的局限性与不确定性，绝不会削弱公众对科学事实或科学家个人的信任；相反，[[Epistemology|认识论]]上的[[Humility|谦逊]]能显著提升公众对科学家的诚[[Reliability|信度]]感知。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
@@ -207,53 +205,43 @@ updated: 2026-10-26
 
 ---
 
-### 命题三　在数字智能时代科学素养构成了抵御网络虚假信息与算法幻觉的核心认知免疫屏障
-
-> [!concept-lens] 算法传播生态中的认知防御机制
-> 新兴媒体成为首要科学信息渠道（PAS 2025: 40%），要求科学素养必须深度融合证据溯源能力。
+> [!concept-proposition] 命题三｜在数字智能时代科学素养构成了抵御网络虚假信息与算法幻觉的核心认知免疫屏障
+> **探讨维度　算法传播生态中的认知防御机制** 新兴媒体成为首要科学信息渠道（PAS 2025: 40%），要求科学素养必须深度融合证据溯源能力。
 
 > [!claim] Sumner et al. (2014)
 > **穿透源头过度营销的批判性鉴别力** 里程碑实证研究证明，大众媒体上的夸大失真高达三分之一以上直接发端于大学新闻通稿的过度营销（Overselling）；具备科学素养的公民能够穿透耸人听闻的新闻标题，审视其原始研究设计是动物实验还是人体临床、是相关性还是因果推论。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
 
 > [!claim] West and Bergstrom (2021)
-> **对抗算法污染的批判性证据素养** 在[[Generative Artificial Intelligence|生成式人工智能]]与推荐算法主导的信息环境中，科学素养不仅意味着辨别传统的错误论断，更意味着识别由大语言模型生成的看似严谨、实则虚构的伪学术文献与模型幻觉（[[AI Hallucination]]）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 61)]]
+> **对抗算法污染的批判性证据素养** 在[[Generative Artificial Intelligence|生成式人工智能]]与推荐算法主导的信息环境中，科学素养不仅意味着辨别传统的错误论断，更意味着识别由大语言模型生成的看似严谨、实则虚构的伪学术[[Document|文献]]与模型幻觉（[[AI Hallucination]]）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 61)]]
 
 ---
 
-### 命题四　立法与政策制定群体的证据素养短板构成现代循证治理的制度瓶颈
-
-> [!concept-lens] 政策决策者的证据素养与信息中介依赖
-> 科学素养不仅涵盖中小学生或普通公民的通识素养，更是高级公共政策制定者与立法者履行公职、实现[[Output-Oriented Governance|循证治理]]的前提条件。
+> [!concept-proposition] 命题四｜立法与政策制定群体的证据素养短板构成现代[[Output-Oriented Governance|循证治理]]的制度瓶颈
+> **探讨维度　政策决策者的证据素养与信息中介依赖** 科学素养不仅涵盖中小学生或普通公民的通识素养，更是高级公共政策制定者与立法者履行公职、实现[[Output-Oriented Governance|循证治理]]的前提条件。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|The Royal Society (2026, Ch. 5)]]
 > **立法者信源偏误与全政策社群技能建设** YouGov 2025 针对 108 名英国国会议员的实证调查表明，高达 55% 的议员主要依赖带有立场倾向的智库，仅 22% 使用议会专属法定科技机构（POST），仅 12% 查阅国家学术院综合报告；面对开放互联网（47%）与生成式 AI 工具的隐性渗透，议员普遍缺乏判断证据可靠性与稳健性的规程；[[The Royal Society|皇家学会]]建议十六明确强调，国家必须在整个政策社群（包括政府部委与议会两院）全面推行科学、技术、工程与数学（STEM）研究和数据分析技能培训。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05|(The Royal Society, 2026, Ch. 5, pp. 82–83, 88)]]
 
 ---
 
-### 命题五　科学素养的有效培育依赖于支架式探究与直接教学的协同而非孤立放任探索
-
-> [!concept-lens] 教学交互与证据探究协同机制
-> 科学素养的养成依赖于教师精心设计的支架式探究与结构化[[Direct Instruction|直接教学]]的紧密互补，超越了单一孤立探究或灌输的教学局限。
+> [!concept-proposition] 命题五｜科学素养的有效培育依赖于支架式探究与[[Direct Instruction|直接教学]]的协同而非孤立放任探索
+> **探讨维度　教学交互与证据探究协同机制** 科学素养的养成依赖于教师精心设计的支架式探究与结构化[[Direct Instruction|直接教学]]的紧密互补，超越了单一孤立探究或灌输的教学局限。
 
 > [!claim] [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]]
 > **探究指导[[Interaction Effect|调节效应]]与教学最佳平衡点** [[International Large-Scale Assessments|国际大规模学生评估]]（PISA 2015）跨国实证数据揭示，科学素养与课堂探究教学频率呈非线性倒 U 型曲线（Chen et al., 2017），当支架式探究与直接教学紧密结合时达到科学表现的最佳平衡点（Sweet Spot）；教师指导是核心调节[[Variable|变量]]（Aditomo & Klieme, 2020），缺乏教师指导的孤立探究与科学素养显著负相关，而在全部 16 个高成效教育系统中，教师主导的支架式探究均呈稳健正相关；同时探究活动类型存在极高维度[[Heterogeneity|异质性]]（Cairns, 2019），基于[[Experimental Research|实验设计]]与数据推论的动手探究显著促进科学素养，而缺乏先验知识支撑的泛化课堂争论则表现为负向关联。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, pp. 5–6)]]
 
 ---
 
-### 命题六　科学素养要求坚守基于学术卓越与实证可复现性的客观评价，抵御非学术性意识形态偏误的侵蚀
-
-> [!concept-lens] 科学学、科研诚信与国家科技治理维度
-> 探讨科学素养在科研资助评审与科技评价制度中的延伸应用，确立“金标准科学”对非学术意识形态干扰的抵御机制。
+> [!concept-proposition] 命题六｜科学素养要求坚守基于学术卓越与实证可复现性的客观评价，抵御非学术性意识形态偏误的侵蚀
+> **探讨维度　科学学、科研诚信与国家科技治理维度** 探讨科学素养在科研资助评审与科技评价制度中的延伸应用，确立“金标准科学”对非学术意识形态干扰的抵御机制。
 
 > [!claim] Kratsios
 > **金标准科学与科研评价去意识形态化** 真实的科学素养要求学术界与科研管理部门严格捍卫经验证据的可检验性、原始数据透明度与方法学可复现性（Reproducibility）。2020 年代初，美国联邦科研资助中出现非科学筛选条件泛滥的严重偏差（例如 [[National Science Foundation|NSF]] 资助指南中包含非学术意识形态要求的比例从 2021 年不足 1% 激增至 2024 年的 25% 以上），严重挤压了纯粹学术卓越与科学价值的评价空间。依据《恢复金标准科学行政令》（[[Restoring Gold Standard Science Executive Order]]），国家层面的科学素养建设必须确立“择优资助（Merit-based Funding）”原则，将科研立项与成果评价严格限定在科学严谨性、实证稳健性与重大突破潜能上，防范非学术教条对国家创新基石的系统性侵蚀。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 24–25)]]
 
 ---
 
-### 命题七　大规模跨国测评驱动科学素养从“学校学科知识大纲”向“面向成人生活的功能性情境应用”范式重塑
-
-> [!concept-lens] 跨国测评导向与课程知识重构
-> 探讨国际大规模评估（如 [[PISA]]）如何通过解绑特定国家课程大纲，将科学素养重新界定为应对成人现实生活与未来劳动力市场挑战的功能性核心能力，并反向驱动国家科学课程的情境化重塑。
+> [!concept-proposition] 命题七｜大规模跨国测评驱动科学素养从“学校学科知识大纲”向“面向成人生活的功能性情境应用”范式重塑
+> **探讨维度　跨国测评导向与课程知识重构** 探讨国际大规模评估（如 [[PISA]]）如何通过解绑特定国家课程大纲，将科学素养重新界定为应对成人现实生活与未来劳动力市场挑战的功能性核心能力，并反向驱动国家科学课程的情境化重塑。
 
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
 > **脱离课程大纲的成人生活功能性科学素养** 索蒂里亚·格雷克（[[Sotiria Grek]]）指出，[[OECD|经合组织]]在 PISA 中对科学素养的技术界定彻底打破了传统国家教学大纲的束缚：评估跳过各受测国具体的物理、化学或生物学科知识要点，转而测量 15 岁学生在真实成人生活情境中理解科学概念、识别科学证据并做出合理解释的功能性生活能力。这种去情境化的大规模测评确立了全球可比标尺，将科学素养重塑为面向未来[[Knowledge-Based Economy|知识经济]]与劳动力市场适应力的通用能力指标。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 26–27)]]
@@ -320,7 +308,7 @@ updated: 2026-10-26
 > |---|---|---|---|---|
 > | **[[OECD]] [[PISA]] 2015 科学素养跨国测评** | 全球 54 万名 15 岁学生的大规模跨国测评数据（72 个国家/经济体） | 探究式科学教学频率（IBST）、教师指导水平、科学素养表现分 | • 倒 U 型关系：低到中度探究伴随最高素养表现，过度孤立探究表现骤降（Chen et al., 2017）<br>• 教师指导调节：无指导探究与素养负相关，支架式探究在全部 16 个高成效体系中均为正相关（Aditomo & Klieme, 2020）<br>• 维度差异：实验操作与数据结论正向预测素养，无准备辩论负向预测（Cairns, 2019） | 实证打破了纯粹探究优于直接教学或直接教学排斥探究的二元对立，证明探究与直接教学协同、高教师指导介入是科学素养养成的关键制度设计。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 5–6)]] |
 > | **[[National Science Foundation\|NSF]] 资助指南意识形态条款监测（2021–2024）** | 美国 NSF 2021–2024 年全量公开项目招标书（Solicitations） | 非学术性意识形态筛选要求（如 [[Diversity, Equity, and Inclusion\|DEI]] 强制条款）占比 | 包含非学术意识形态筛选要求的招标书比例从 2021 年的 **$< 1\%$** 激增至 2024 年的 **$> 25\%$** | 揭示非科学筛选条件对学术评价标准的系统性渗透，凸显恢复金标准科学与择优资助的紧迫性。[[Argument_Kratsios_2026_OSTP\|(Kratsios, 2026, p. 24)]] |
-> | **[[UK Science Education Tracker\|SET 2023]] [[Longitudinal Study\|纵向调查]]** | 英格兰 14–16 岁中学生全国代表性样本 | 课堂动手实验频率、科学学习动机与素养感知 | 每两周至少进行一次动手实验的比例从 2016 年的 **44%** 骤降至 2023 年的 **26%** | 应试导向与课时压缩严重削弱探究教学，危机全员科学素养生成根基。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]] |
+> | **[[UK Science Education Tracker\|SET 2023]] [[Longitudinal Study\|纵向调查]]** | 英格兰 14–16 岁中学生全国代表性样本 | 课堂动手实验频率、科学[[Student Motivation\|学习动机]]与素养感知 | 每两周至少进行一次动手实验的比例从 2016 年的 **44%** 骤降至 2023 年的 **26%** | 应试导向与课时压缩严重削弱探究教学，危机全员科学素养生成根基。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]] |
 > | **[[Public Attitudes to Science\|PAS 2025]] 全英调查** | 英国全国 16 岁及以上成年代表性样本（$N=5,281$） | 信息获取渠道、信息充足感、网络真实性甄别自信 | • **40%** 通过数字新媒体首要获取科学信息<br>• **60%** 感到获取科学信息过少<br>• 仅 **40%** 有信心辨别网络科学信息真伪 | 公众对科学信息具有强烈渴求，但面对数字算法环境存在显著的证据素养自信落差。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, pp. 57–58)]] |
 > | **YouGov 2025 英国议员调查** | 英国下议院 108 名国会议员专属[[Questionnaire\|问卷调查]] | 科学信息获取主要渠道、信息[[Reliability\|可靠性]]甄别及 AI 使用 | • **55%** 依赖智库与倡导团体<br>• **48%** 依赖大学学者<br>• **47%** 依赖互联网开放检索<br>• 仅 **22%** 使用 POST，仅 **12%** 使用国家学术院<br>• 仅 **5%** 自述使用 AI | 定量揭示立法决策群体在科学信源上的偏误结构，缺乏鉴别可靠性的规范规程，凸显全政策社群 STEM 与数据分析素养培训的紧迫性。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, pp. 82–83)]] |
 > | **Kerr et al. (2022) PNAS Nexus** | 英国与美国公众大规模在线[[Randomised Controlled Trials\|随机对照实验]] | 科学[[Scientific Uncertainty\|证据不确定性]]披露模式与公众信任度 | 向公众坦诚披露科学证据的不确定性（[[Confidence Interval\|置信区间]]），**未显著降低**公众对事实的信任度与对科学家个人的诚信评价 | 推翻了承认不确定性会削弱科学权威的传统偏见，证明透明性沟通提升信任。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 61)]] |

@@ -30,8 +30,8 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Causality]]"
   - "[[Statistical Analysis Plan]]"
-  - "[[Clinical Trial]]"
   - "[[Replication in Education Research]]"
+  - "[[Clinical Trial]]"
   - "[[Preregistration]]"
   - "[[Reliability]]"
   - "[[Evidence Standards]]"
@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -141,40 +141,32 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　研发者自研自评存在显著的效应量夸大与测验过度贴合偏倚
-
-> [!concept-lens] 方法学偏倚与内隐利益
-> 研发者在学术声誉与商业转化动机的驱动下，在测验工具选择与数据采集环节存在固有的自利倾向，破坏测量的客观性。
+> [!concept-proposition] 命题一｜研发者自研自评存在显著的[[Effect Size|效应量]]夸大与测验过度贴合偏倚
+> **探讨维度　方法学偏倚与内隐利益** 研发者在学术声誉与商业转化动机的驱动下，在测验工具选择与数据采集环节存在固有的自利倾向，破坏测量的客观性。
 
 > [!claim] Wadhwa et al.
 > **自评[[Effect Size\|效应量]]的虚高规律** 元评估表明，开发者自评研究所报告的平均效应量在统计上系统性高于独立第三方评估，且测验工具的贴合度是解释这一差距的核心来源。采用自编测验的研究不仅夸大干预真实效能，而且在独立团队尝试进行全州标准化测验复制时往往难以重现预期的因果效应。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 11–15)]]
 
 ---
 
-### 命题二　评估独立性必须依托多方资助协议切断财务与人事依附关系
-
-> [!concept-lens] 制度治理与合同结构
-> 仅靠伦理道德约束无法保障评估独立，必须通过制度设计将评估机构的委托权、资金拨付权与研发者彻底剥离。
+> [!concept-proposition] 命题二｜评估独立性必须依托多方资助协议切断财务与人事依附关系
+> **探讨维度　制度治理与合同结构** 仅靠伦理道德约束无法保障评估独立，必须通过制度设计将评估机构的委托权、资金拨付权与研发者彻底剥离。
 
 > [!claim] Edovald & Nevill
 > **财务与人事依附对研究设计的扭曲** 如果制度允许受资助的开发者自行遴选并支付评估机构（如美国 i3 项目的部分实践），评估团队容易在商业依附下妥协，顺应开发者偏好放弃执行难度极高的大规模[[Randomised Controlled Trials\|随机对照试验]]（RCT）而转向缺乏基线控制的[[Quasi-Experimental Designs\|准实验设计]]（QED）。只有通过居间资助机构分别订立独立合同，才能在体制上切断研发者对评估方案与数据报告的潜在干预。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]]
 
 ---
 
-### 命题三　独立评估权责必须涵盖随机分配、客观统考测量与全流程公开
-
-> [!concept-lens] [[Causality\|因果推断]]核心环节的控制权
-> 独立性不仅是身份标签，更是因果推断核心技术环节的刚性操作权限。
+> [!concept-proposition] 命题三｜独立评估权责必须涵盖[[Random Assignment|随机分配]]、客观统考测量与全流程公开
+> **探讨维度　[[Causality\|因果推断]]核心环节的控制权** 独立性不仅是身份标签，更是因果推断核心技术环节的刚性操作权限。
 
 > [!claim] Edovald & Nevill
 > **核心四环节的绝对控制权** 独立评估标准要求[[Random Assignment\|随机化]]分组、主要结果数据采集、统计分析及最终报告撰写四项核心工作必须由独立评估者完全自主执行。评估者直接对接国家行政数据库（如[[National Pupil Database\|英国国家学生数据库]] NPD），消除经由项目方传递数据造成的信息污染，并强制预先锁定[[Statistical Analysis Plan\|统计分析计划]]（Statistical Analysis Plan, SAP），确保无论试验得出正向、负向还是零效应，报告均必须全文公开。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51, 53)]]
 
 ---
 
-### 命题四　系统推行第三方独立评估是大规模破解教育科学复现危机的制度钥匙
-
-> [!concept-lens] 科学复现性与公共政策公信力
-> 教育干预的大规模不可复现主要源于早期小样本开发者自评，制度化的第三方独立评估为教育证据确立了类似现代医学[[Clinical Trial\|临床试验]]的确定性公信力。
+> [!concept-proposition] 命题四｜系统推行第三方独立评估是大规模破解教育科学[[Replication in Education Research|复现危机]]的制度钥匙
+> **探讨维度　科学复现性与公共政策公信力** 教育干预的大规模不可复现主要源于早期小样本开发者自评，制度化的第三方独立评估为教育证据确立了类似现代医学[[Clinical Trial\|临床试验]]的确定性公信力。
 
 > [!claim] [[Robert Slavin\|Slavin, R.]] E.
 > **第三方独立评估破除[[Replication in Education Research\|复现危机]]** 传统教育研究因过度依赖开发者自评与自编测验，导致大量方案在推广后出现严重的效果衰减与复现危机。随着美国 i3/[[Education Innovation and Research\|EIR]] 计划与英国 [[Education Endowment Foundation\|EEF]] 全面推行大规模第三方独立评估、[[Preregistration\|预注册]]与标准化独立测验（如 Woodcock-Johnson、国家统考），教育实证方案的复现[[Reliability\|可靠性]]得到质的飞跃，使循证改革具备了坚实的实践公信力。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24, 27)]]

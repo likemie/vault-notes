@@ -51,7 +51,7 @@ sources:
 part_of:
 status: draft
 created: 2026-07-13
-updated: 2026-10-22
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Cole_2005_JRIE"
@@ -114,7 +114,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一：传统 IB 知识论面临的黑格尔式困境
+> [!claim|step] 论证步骤一：传统 IB 知识论面临的黑格尔式困境
 > IB 课程的核心机制遵循了[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的教化（[[Bildung]]）路径，将学生预设为等待知识填充并被要求进行强行反思的“空无认知者”（[[Empty Knower]]）。这导致了教育目标的异化，使反思课程沦为市场体制下的工具技能训练。
 
 > [!chain-link] 证据到判断
@@ -130,7 +130,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二：解构权威——斯宾诺莎的情感政治与欲力 (Conatus)
+> [!claim|step] 论证步骤二：解构权威——斯宾诺莎的情感政治与欲力 (Conatus)
 > [[Baruch Spinoza\|斯宾诺莎]]的物质一元论消解了理智与情感的二元对立，为教育提供了以“[[Conatus\|欲力]]（Conatus）”为核心的内在性平面。在此平面上，一切诸如焦虑与反叛等负面情绪不仅不是应该被取消的违纪行为，反而是被掩盖的“情感政治”，必须通过想象力进行表征和重构。
 
 > [!chain-link] 证据到判断
@@ -146,7 +146,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三：超越市民社会与社会契约——“国际斯宾诺莎课程”的群体政治与后现代转向
+> [!claim|step] 论证步骤三：超越市民社会与社会契约——“国际斯宾诺莎课程”的群体政治与后现代转向
 > 传统的黑格尔式教化通过“否定”原则，最终服务于将个体（通过剥夺其自然权利）整合进以“需求系统（市场经济）”为基础的市民社会与契约国家；而[[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]拒斥这种社会契约论，主张将课堂的负面情绪转化为生产力，以纯粹内在的“群体力量（potentia multitudine）”和想象力作为跨学科创新的后现代[[Feeder Mechanism\|滋养机制]]。
 
 > [!chain-link] 证据到判断

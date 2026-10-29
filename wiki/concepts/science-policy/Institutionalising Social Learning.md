@@ -9,7 +9,7 @@ aliases:
 summary: "在复杂公共治理与转型政策中，通过多方参与、共同愿景塑造与反思性试验实现集体认知收敛的制度化过程"
 type: concept
 domain: "science-policy"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Scientific Uncertainty]]"
   - "[[Unit of Analysis]]"
   - "[[Self-Efficacy]]"
+  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Mission-Oriented Innovation Policy]]"
 related_theories:
@@ -37,7 +38,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -67,7 +68,7 @@ updated: 2026-10-22
 > | **[[Unit of Analysis\|分析单位]]** | 跨部门治理网络与社会–技术系统 | 个体学习者与其直接观察环境 | 单一企业或科层组织内部构架 |
 > | **核心机制** | 框架重构、[[Participatory Research\|参与式研究]]与多方愿景协商 | 观察榜样、替代强化与[[Self-Efficacy\|自我效能]] | 单环/双环反馈、惯例更新与知识库积累 |
 > | **处理对象** | 跨界棘手挑战与价值争议 | 行为习得与社会认知发展 | 组织运营效率与战略环境适应 |
-> | **代表文献** | Ison et al. (2015); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] | Bandura (1977) | Argyris & Schön (1978); March (1991) |
+> | **代表[[Document\|文献]]** | Ison et al. (2015); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] | Bandura (1977) | Argyris & Schön (1978); March (1991) |
 
 ---
 
@@ -109,10 +110,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　制度化社会学习通过重塑认知框架实现棘手问题的柔性驯服与价值收敛
-
-> [!concept-lens] [[Wicked Problem|棘手问题]]驯服与认知重构
-> 探讨复杂社会矛盾如何在制度化的社会学习过程中，通过科学证据呈现与公众伦理协商逐步实现争议弥合。
+> [!concept-proposition] 命题一｜制度化社会学习通过重塑认知框架实现[[Wicked Problem|棘手问题]]的柔性驯服与价值收敛
+> **探讨维度　[[Wicked Problem|棘手问题]]驯服与认知重构** 探讨复杂社会矛盾如何在制度化的社会学习过程中，通过科学证据呈现与公众伦理协商逐步实现争议弥合。
 
 > [!claim] Ison, R. L. et al.
 > **社会学习作为适应性治理的制度基础设施** 面对气候变化与生态退化等高度不确定性挑战，线性的科学评估直接指导决策模式必然失效。必须将社会学习作为系统性治理的常态化机制，通过在组织间建立制度化的反思与学习通道，提升治理系统对外部动态环境的自适应能力。
@@ -122,10 +121,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　早期广泛试错与多方反馈构建了使命政策筛选可行方案的自适应学习机制
-
-> [!concept-lens] 政策自适应学习机制
-> 探讨重大攻关专项在推进中如何通过分布式探索实现高效的技术与制度筛选。
+> [!concept-proposition] 命题二｜早期广泛试错与多方反馈构建了使命政策筛选可行方案的自适应学习机制
+> **探讨维度　政策自适应学习机制** 探讨重大攻关专项在推进中如何通过分布式探索实现高效的技术与制度筛选。
 
 > [!claim] Wanzenböck, I. et al.
 > **早期学习方法防范资源沉没与技术盲动** 过程导向的使命政策应当在方案探索早期保持宽口径资助，鼓励大量不同学科背景与技术路线的团队开展探索性试验。通过制度化的社会与技术反馈机制持续汲取经验，能够及早看清候选方案的真实社会效益与次生风险，为后续集中资源推进重大工程奠定坚实认知基础。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 486)]]

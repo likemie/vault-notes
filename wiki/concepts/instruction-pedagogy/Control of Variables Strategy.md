@@ -8,7 +8,7 @@ aliases:
 summary: "科学探究与实验设计中的核心过程技能，指在检验因果假设时仅系统改变一个焦点自变量并保持其他所有潜在混杂变量恒定，以确立无混淆因果推论。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Heterogeneity]]"
 related_theories: []
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Factorial Design]]"
   - "[[Meta-analysis]]"
   - "[[Intervention Research]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -60,7 +61,7 @@ updated: 2026-10-26
 > [[Variable\|变量]]控制策略（Control of Variables Strategy, CVS）指在科学实验与实证探究中，为了确定某一因素对结果的因果效应，学习者或研究者仅系统操纵单一焦点[[Independent Variable\|自变量]]（Focal Variable），同时保持所有其他可能产生影响的外部变量（Extraneous Variables）严格恒定的程序性策略。该策略旨在消除实验中的混淆因素（Confounding），从而使观察到的[[Dependent Variable\|因变量]]变化能够被唯一地归因于目标自变量。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 4)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向科学推理与实验设计中最基本的因果分离程序，即通过成对对比消除竞争性解释。
+> - **含义** 指向科学推理与[[Experimental Research|实验设计]]中最基本的因果分离程序，即通过成对对比消除竞争性解释。
 > - **用途** 帮助教学设计者诊断学习者在科学探究中的逻辑推理水平，并作为[[Direct Instruction\|直接教学]]与[[Inquiry-Based Learning\|探究式学习]]相对效能争论的关键基准任务。
 > - **边界** 仅适用于能够进行正交变量分离的良构实验系统，难以直接套用于高度复杂、多变量非线性交互或非实验性的社会观察领域。
 
@@ -105,10 +106,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　变量控制策略的习得机制无需单一依赖显性规则灌输
-
-> [!concept-lens] 规则讲授与探究体验的习得效能
-> 围绕[[Variable\|变量]]控制策略应通过直接显性规则传授抑或通过探究实践内生建构，学界展开了长达数十年的实证检验，[[Meta-analysis\|元分析]]证据表明两种路径在策略掌握上并无统计显著差异。
+> [!concept-proposition] 命题一｜[[Variable|变量]]控制策略的习得机制无需单一依赖显性规则灌输
+> **探讨维度　规则讲授与探究体验的习得效能** 围绕[[Variable\|变量]]控制策略应通过直接显性规则传授抑或通过探究实践内生建构，学界展开了长达数十年的实证检验，[[Meta-analysis\|元分析]]证据表明两种路径在策略掌握上并无统计显著差异。
 
 > [!claim] Schwichow et al.
 > **显性规则教学与探究发现的等效性** 针对 72 项探讨学生如何学习变量控制策略的[[Intervention Research\|干预研究]]进行的元分析表明，显性传授变量控制规则的教学干预，在促进策略习得方面并未表现出优于非显性规则探究的相对优势。学习者在具有合理支持的实验探究环境中同样能够有效归纳并掌握该策略。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 4–5)]]
@@ -118,10 +117,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　教学支架与前置指导在复杂变量空间中具有时序等价性
-
-> [!concept-lens] 支架介入时机与策略习得
-> 探究情境中变量维度的复杂性对学习者的[[Working Memory\|工作记忆]]构成挑战，教学干预的关键在于提供有效支架，而非必须将显性规则前置。
+> [!concept-proposition] 命题二｜[[Scaffolding|教学支架]]与前置指导在复杂变量空间中具有时序等价性
+> **探讨维度　支架介入时机与策略习得** 探究情境中变量维度的复杂性对学习者的[[Working Memory\|工作记忆]]构成挑战，教学干预的关键在于提供有效支架，而非必须将显性规则前置。
 
 > [!claim] Lazonder & Egberink
 > **前置规则指导与过程中支架的等价性** 在学生开展科学探究之前显性讲授变量控制策略，与在探究进行过程中通过系统[[Scaffolding\|脚手架]]（如提示卡、引导性提问与即时反馈）引导学生发现并维持变量控制，对最终的探究技能发展具有完全同等的促进效果。教学设计的关键不在于是否“前置讲授”，而在于探究全周期中是否获得了精准的认知支持。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 9)]]

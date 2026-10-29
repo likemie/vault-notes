@@ -14,7 +14,7 @@ aliases:
 summary: "教师、同伴或技术工具在学习者最近发展区内提供的临时性认知与教学支持结构，通过任务拆解、启发提示与系统性渐隐，协助学习者跨越能力边界并将外部支持内化为自主心智能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 65
+related_count: 66
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Alternative Hypothesis]]"
   - "[[Wicked Problem]]"
   - "[[Structured Teaching]]"
+  - "[[Document]]"
   - "[[Justificatory Standards]]"
   - "[[Trust Calibration]]"
   - "[[Epistemic Friction]]"
@@ -98,7 +99,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 > [!def] Scaffolding
@@ -167,10 +168,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　外部脚手架的促学增益高度取决于向最近发展区的精准匹配与动态校准
-
-> [!concept-lens] 动态适应与能力发展
-> 围绕脚手架介入强度与学习者心理发展基线之间的契合机制展开。当外部支持精准投射于[[Zone of Proximal Development\|潜在发展区]]间时，能够有效释放心智潜能；脱离动态校准的静态支持则极易失效。
+> [!concept-proposition] 命题一｜外部脚手架的促学增益高度取决于向[[Zone of Proximal Development|最近发展区]]的精准匹配与动态校准
+> **探讨维度　动态适应与能力发展** 围绕脚手架介入强度与学习者心理发展基线之间的契合机制展开。当外部支持精准投射于[[Zone of Proximal Development\|潜在发展区]]间时，能够有效释放心智潜能；脱离动态校准的静态支持则极易失效。
 
 > [!claim] Wood et al.; Liu et al.
 > **动态自适应匹配的认知支撑价值** 学习者在独立面对[[Wicked Problem|劣构问题]]时，有限的注意力和认知资源容易被表面琐碎的操作细节消耗殆尽，导致深层意义建构受阻。外部脚手架通过动态感知认知断点，精准承担了那些暂时超出学习者能力的基础任务，使学生能够集中精力攻克处于其认知前沿的判断与评估挑战。智能交互技术通过自适应评估感知学习者的认知状态，提供即时个性化线索，使得学生能够在支持下顺利完成独立无法达成的高阶探究，从而证明脚手架的本质不是提供现成拐杖，而是搭建通往更高认知发展水平的临时桥梁。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, p. 2)]]
@@ -180,10 +179,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　缺乏系统性渐隐的过度支架会诱发认知外包并侵蚀自主思维能力
-
-> [!concept-lens] 支架滞留与认知依赖风险
-> 围绕长期持续支持是否会导致学生从“借力探索”滑向“心智委托”的理论争议。脚手架若不主动退场，将由认知跳板异化为思维惰性的温床。
+> [!concept-proposition] 命题二｜缺乏系统性渐隐的过度支架会诱发[[Cognitive Offloading|认知外包]]并侵蚀自主思维能力
+> **探讨维度　支架滞留与认知依赖风险** 围绕长期持续支持是否会导致学生从“借力探索”滑向“心智委托”的理论争议。脚手架若不主动退场，将由认知跳板异化为思维惰性的温床。
 
 > [!claim] Wang et al.; Zhao et al.
 > **支架渐隐缺失诱发心智惰性** 教学支架具有严格的生命周期性。如果教学系统或智能工具在学习者跨越入门瓶颈后依然长期提供全面细致的答案提示或步骤代劳，学生往往会演变为捷径式操作，直接跳过探索推导、方案比对与差错审视的深层动脑环节。这种未经渐隐的持续外部辅助，在客观上剥夺了学生经受挫折反思和自主试错的宝贵心智演练机会，最终诱发对外部工具的严重认知依赖，导致独立[[Problem Solving\|问题解决能力]]与独创性表现出现滑坡。因此，分阶段系统性撤除辅助是保证脚手架促学价值最终沉淀为个人自主素养的充要条件。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 5–6, 14–15)]]
@@ -193,10 +190,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题三　科学探究中的脚手架支持在多种形态间具有功能等价性且受先验知识显著调节
-
-> [!concept-lens] 支架形态等价性与先验知识调节
-> 探讨理科探究中多样化支架形式的效能机制，以及学习者个体背景对支架需求的边界约束。
+> [!concept-proposition] 命题三｜科学探究中的脚手架支持在多种形态间具有功能等价性且受先验知识显著调节
+> **探讨维度　支架形态等价性与先验知识调节** 探讨理科探究中多样化支架形式的效能机制，以及学习者个体背景对支架需求的边界约束。
 
 > [!claim] Lazonder & Harmsen; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
 > **六大指导支架类型的促学等价性** [[Meta-analysis\|元分析]]实证表明，在辅助科学[[Inquiry-Based Learning\|探究学习]]中，过程约束、状态概览、提示、启发线索、结构支架与直接解释等六种指导形式均能稳定提升成效（平均提升 $d = 0.50$），且指导类型之间并未呈现显著的[[Interaction Effect\|调节效应]]差异。这表明脚手架的核心功能在于适时分担[[Working Memory\|工作记忆]]的搜索与维护负荷，促成证据协调，而非必须依赖全盘[[Direct Instruction\|直接讲授]]。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 4)]]
@@ -206,20 +201,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题四　双轨干预支架矩阵是促进学习者认识立场向评价主义演进并维系认识主体性的必要条件
-
-> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]双轨支架与[[Epistemic Stances\|认识立场]]演进维度
-> 探讨生成式技术环境下脚手架如何超越单纯的步骤简化，转向协同重塑认识信念，确立技术提示与教学法双轨干预对发展高阶评价性心智的充要性。
+> [!concept-proposition] 命题四｜双轨干预支架矩阵是促进学习者[[Epistemic Stances|认识立场]]向评价主义演进并维系[[Epistemic Agency|认识主体性]]的[[Necessary and Sufficient Conditions|必要条件]]
+> **探讨维度　[[Man-Computer Symbiosis|人机共生]]双轨支架与[[Epistemic Stances\|认识立场]]演进维度** 探讨生成式技术环境下脚手架如何超越单纯的步骤简化，转向协同重塑认识信念，确立技术提示与教学法双轨干预对发展高阶评价性心智的充要性。
 
 > [!claim] Wu, J.-Y., Lee, Y.-H., Chai, C. S., & [[Chin-Chung Tsai\|Tsai, C.-C.]]
-> **双轨干预支架对[[Evaluativist\|评价主义认识立场]]的培育机制** 在人机协同探究中，学习者若缺乏外在支架引导，极易滞留在绝对主义（盲从 AI 答案与算法幻觉）或相对主义（随意拼贴主观观点）阶段。唯有建立双轨干预支架矩阵，才能催化其向评价主义认识立场演进：① **技术提示支架** 运用[[Role-playing\|角色扮演]]指令赋予 AI 特定专家视角，结合[[Chain-of-Thought Prompting\|思维链]]（CoT）分步提示解构推理链条，并通过检索增强生成提供可溯源依据；② **教学法支架** 设计跨文献交叉核验、同伴盲评辩难、反思日志追踪与教师启发式追问规程。双轨支架共同构筑了人机共生学习的安全防线，确保认知负荷在合理卸载的同时，[[Epistemic Agency\|认识主体性]]与证据[[Justificatory Standards\|确证标准]]由人类牢固掌控。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–365)]]
+> **双轨干预支架对[[Evaluativist\|评价主义认识立场]]的培育机制** 在人机协同探究中，学习者若缺乏外在支架引导，极易滞留在绝对主义（盲从 AI 答案与算法幻觉）或相对主义（随意拼贴主观观点）阶段。唯有建立双轨干预支架矩阵，才能催化其向评价主义认识立场演进：① **技术提示支架** 运用[[Role-playing\|角色扮演]]指令赋予 AI 特定专家视角，结合[[Chain-of-Thought Prompting\|思维链]]（CoT）分步提示解构推理链条，并通过检索增强生成提供可溯源依据；② **教学法支架** 设计跨[[Document|文献]]交叉核验、同伴盲评辩难、反思日志追踪与教师启发式追问规程。双轨支架共同构筑了人机共生学习的安全防线，确保认知负荷在合理卸载的同时，[[Epistemic Agency\|认识主体性]]与证据[[Justificatory Standards\|确证标准]]由人类牢固掌控。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–365)]]
 
 ---
 
-### 命题五　智能决策中的认知脚手架必须兼顾抗辩性支持与反思摩擦以校准批判性信任并防范自动化偏差
-
-> [!concept-lens] 认知安全防护与可抗辩性支架
-> 探讨在安全关键与高风险决策中，脚手架如何从单纯的“效率减负”转向“抗辩权支持”与“认知安全防护”，防范[[Trust Calibration|过度信任]]与[[Automation Bias|强自动化偏差]]。
+> [!concept-proposition] 命题五｜智能决策中的认知脚手架必须兼顾抗辩性支持与反思摩擦以校准批判性信任并防范[[Automation Bias|自动化偏差]]
+> **探讨维度　认知安全防护与可抗辩性支架** 探讨在安全关键与高风险决策中，脚手架如何从单纯的“效率减负”转向“抗辩权支持”与“认知安全防护”，防范[[Trust Calibration|过度信任]]与[[Automation Bias|强自动化偏差]]。
 
 > [!claim] Veluwenkamp & Buijsman; [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **[[Defeater|反驳型击败者]]与反思机器的抗辩支架机制** 在智能决策支持中，传统脚手架若仅单向降低信息检索负荷，极易诱发认知吝啬并导致操作者盲从错误建议（强自动化偏差）。研究指出，必须将脚手架拓展为支持人类独立审议与抗辩的认知安全机制：① **反驳型击败者（Rebutting Defeaters）** 自动呈现支持不相容结论的临床指标或反向证据，为操作者提供直接抗辩算法提示的证据脚手架，打破算法建议的默认权威；② **反思机器（Reflection Machines）** 通过开放式[[Socrates|苏格拉底]]追问搭建审议所有权的思考脚手架。二者协同向交互回路注入生产性[[Epistemic Friction|认识论摩擦]]，确保操作者在技术支持下维持批判性信任与[[Meaningful Human Control|有意义的人类控制]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
@@ -308,7 +299,7 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 支架持续时长 | 中期（8–16 周） | Hedges' $g$ | k = 31 | <span class="mx-bar ef-bar" title="Hedges' g 0.759"><span class="b15"></span></span>0.759 | [0.576, 0.943] | $Q_b = 9.106, df = 2, p = .011$ |
 > |  |  | 长期（> 16 周，未渐隐） |  | k = 13 | <span class="mx-bar ef-bar" title="Hedges' g 0.372"><span class="b7"></span></span>0.372 | [0.196, 0.549] | — |

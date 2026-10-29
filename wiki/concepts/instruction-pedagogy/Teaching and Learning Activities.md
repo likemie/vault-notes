@@ -9,7 +9,7 @@ aliases:
 summary: "为促使学生开展目标认知行为而安排的教学与学习活动，可由教师、同伴或学生组织，是连接课程目标与学习结果的实施环节。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 13
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,9 +22,12 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Metacognition]]"
   - "[[Class Size]]"
+  - "[[Advance Organizers]]"
   - "[[Concept Mapping]]"
   - "[[Student Engagement]]"
+  - "[[Note-Taking]]"
   - "[[Surface and Deep Learning]]"
+  - "[[Time Management]]"
   - "[[Problem-Based Learning]]"
   - "[[Problem Solving]]"
   - "[[Learning Portfolio]]"
@@ -38,7 +41,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -82,7 +85,7 @@ updated: 2026-10-22
 > | **教师控制** | 讲授、指定阅读 | 接收经过选择的内容 |
 > | **教师控制** | 思维示范 | 展示概念技能 |
 > | **教师控制** | 提问 | 澄清理解、发现错误 |
-> | **教师控制** | 先行组织者 | 建立结构、预览内容 |
+> | **教师控制** | [[Advance Organizers\|先行组织者]] | 建立结构、预览内容 |
 > | **教师控制** | [[Concept Mapping\|概念图]] | 建立结构、形成概览 |
 > | **教师控制** | 辅导课 | 详细阐释、澄清理解 |
 > | **教师控制** | 实验 | 程序操作、知识应用 |
@@ -101,39 +104,33 @@ updated: 2026-10-22
 > [!example] Figure 1：学生取向、教学方法与投入水平
 > ![](https://img.mylikemie.icu/sources/Biggs_1999_HERD/figures/Biggs_1999_HERD_Fig1_Student_Orientation_Teaching_Method_Engagement.jpg)
 >
-> 图中横轴表示教学方法要求的学生活动从被动端移向主动端，纵轴表示[[Student Engagement\|学生投入]]的认知层次。活动要求提高后，原本主要记笔记和背诵的 Robert 也必须提问、推测、应用和检验方案，他与 Susan 的投入差距因而缩小。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 58–59, Figure 1)]]
+> 图中横轴表示教学方法要求的学生活动从被动端移向主动端，纵轴表示[[Student Engagement\|学生投入]]的认知层次。活动要求提高后，原本主要[[Note-Taking|记笔记]]和背诵的 Robert 也必须提问、推测、应用和检验方案，他与 Susan 的投入差距因而缩小。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 58–59, Figure 1)]]
 
 ---
 
 ## 围绕概念形成的命题
 
-### 命题一　教学活动应根据它最可能引出的学习来选择，而不能只按形式或内容名称判断
-
-> [!concept-lens] 活动与认知行为的对应
-> 这一命题关注课程如何从预期理解反推学生必须开展的活动，而不是从教师熟悉的教学形式出发安排课程。
+> [!concept-proposition] 命题一｜教学活动应根据它最可能引出的学习来选择，而不能只按形式或内容名称判断
+> **探讨维度　活动与认知行为的对应** 这一命题关注课程如何从预期理解反推学生必须开展的活动，而不是从教师熟悉的教学形式出发安排课程。
 
 > [!claim] [[John Biggs\|Biggs, J.]]
 > **活动形式必须接受目标检验** 大学课程常希望学生能够运用知识，却主要由教师讲述知识应如何运用。学生能够谈论某项知识，不代表能够在实际情境中使用它。教师需要先明确目标行为，再判断讲授、提问、实验、小组活动或[[Learner Autonomy\|自主学习]]中的哪一种安排最可能使学生亲自完成该行为；活动覆盖相同内容并不足以构成对齐。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 66–68)]]
 
 ---
 
-### 命题二　活动由谁控制不会自动决定其认知层次
-
-> [!concept-lens] 控制方式与学习质量
-> 这一命题区分活动组织权与认知要求，避免把教师控制等同于被动学习、把学生控制等同于[[Surface and Deep Learning\|深层学习]]。
+> [!concept-proposition] 命题二｜活动由谁控制不会自动决定其认知层次
+> **探讨维度　控制方式与学习质量** 这一命题区分活动组织权与认知要求，避免把教师控制等同于被动学习、把学生控制等同于[[Surface and Deep Learning\|深层学习]]。
 
 > [!claim] Biggs, J.
-> **控制主体提供机会而非结果保证** 教师控制的提问、思维示范、实验和[[Concept Mapping\|概念图]]可以促成澄清、应用和知识结构化；同伴教学的作用取决于学生承担何种角色；学生自主活动也可能只停留在一般时间管理。活动的组织主体会改变互动结构，却不能替代对学生实际认知行为的判断。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 67–68, Table 1)]]
+> **控制主体提供机会而非结果保证** 教师控制的提问、思维示范、实验和[[Concept Mapping\|概念图]]可以促成澄清、应用和知识结构化；同伴教学的作用取决于学生承担何种角色；学生自主活动也可能只停留在一般[[Time Management|时间管理]]。活动的组织主体会改变互动结构，却不能替代对学生实际认知行为的判断。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 67–68, Table 1)]]
 
 ---
 
-### 命题三　资源限制会约束活动选择，但不构成放弃对齐的理由
-
-> [!concept-lens] 可行性与目标要求
-> 这一命题讨论大班、时间和资源条件如何限制教学选择，以及教师仍能保留哪些设计责任。
+> [!concept-proposition] 命题三｜资源限制会约束活动选择，但不构成放弃对齐的理由
+> **探讨维度　可行性与目标要求** 这一命题讨论大班、时间和资源条件如何限制教学选择，以及教师仍能保留哪些设计责任。
 
 > [!claim] Biggs, J.
-> **大班仍可安排生成性活动** 大班教师可能倾向把讲授视为唯一可行方式，但讲授可以加入提问、思维示范、先行组织者或概念图，也可以把部分活动交给学习伙伴、小组或学生自己完成。资源条件会缩小选项，却不改变活动应当服务目标行为的原则。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 67–68, 74)]]
+> **大班仍可安排生成性活动** 大班教师可能倾向把讲授视为唯一可行方式，但讲授可以加入提问、思维示范、[[Advance Organizers|先行组织者]]或概念图，也可以把部分活动交给学习伙伴、小组或学生自己完成。资源条件会缩小选项，却不改变活动应当服务目标行为的原则。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 67–68, 74)]]
 
 ---
 

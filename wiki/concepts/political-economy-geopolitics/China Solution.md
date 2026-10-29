@@ -8,7 +8,7 @@ aliases:
 summary: "当代中国外交大战略与全球治理哲学的核心规范性概念。指中国依托自身发展型国家实践、制度治理效能与现代化经验，向国际社会提供的一套区别于西方新自由主义模式的跨国公共产品与治理方案；在高等教育与知识外交实践中，通过输出中国工程技术标准、建立联合攻关网络与推动非西方治理经验互鉴，充当重塑国际权力与知识格局的关键话语透镜。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,10 +32,10 @@ related_concepts:
   - "[[Knowledge Diplomacy]]"
   - "[[Research Translation]]"
   - "[[Cultural Recognition]]"
+  - "[[Soft Power]]"
   - "[[Critical Pedagogy]]"
   - "[[Internationalization of Higher Education]]"
   - "[[South-South Cooperation]]"
-  - "[[Soft Power]]"
   - "[[Geopolitics]]"
   - "[[Developmentalism]]"
   - "[[Technology Transfer]]"
@@ -45,7 +45,8 @@ related_methods:
   - "[[Narrative Analysis]]"
   - "[[Discourse Analysis]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Rui Yang]]"
 related_facts:
   - "[[Belt and Road Initiative]]"
 related_arguments:
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-19
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -119,23 +120,19 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　中国方案作为替代性全球治理叙事有效回应了华盛顿共识的制度失灵
-
-> [!concept-lens] 治理危机与替代模式供给
-> 政治经济学学者探讨后西方时代的国际秩序演进，评估中国治理经验对广大发展中国家的制度吸引力。
+> [!concept-proposition] 命题一｜中国方案作为替代性全球治理叙事有效回应了[[Washington Consensus|华盛顿共识]]的制度失灵
+> **探讨维度　治理危机与替代模式供给** 政治经济学学者探讨后西方时代的国际秩序演进，评估中国治理经验对广大发展中国家的制度吸引力。
 
 > [!claim] Halper, S.
 > **威权发展型治理对全球南方的强大吸引力** 斯特凡·哈尔珀（Stefan Halper, 2010）论证指出，在面对西方治理失灵的背景下，中国治理模式对发展中国家展现出更强的吸引力。面对市场民主带来的社会撕裂与经济动荡，许多非西方中等强国倾向于接纳中国方案所代表的强政府统筹、高经济增长、社会秩序稳定以及生活水平快速改善的务实发展路径。[[Argument_Woo_2023_HEP|(Woo, 2023, p. 688)]]
 
 > [!claim] [[Argument_Zhu_Yang_2025_HE|Zhu and Yang (2025)]]
-> **威斯特伐利亚体系的补充选项与[[Cultural Recognition|文化认同探索]]** 朱一和杨锐考察中柬高教流动发现，受援国学员倾向将中国发展经验与治理实践视作国际公共产品以及威斯特伐利亚普世[[Paradigm|范式]]的实用补充，而非唯一排他的意识形态真理。留学生群体对当代中国消除绝对贫困、工业化与社会治理成效表现出高度理性认同，并主动从中汲取本国现代化的治理灵感，印证了中国方案作为替代性发展路径在周边国家获得的务实文化认同。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 9–10, 13)]]
+> **威斯特伐利亚体系的补充选项与[[Cultural Recognition|文化认同探索]]** 朱一和[[Rui Yang|杨锐]]考察中柬高教流动发现，受援国学员倾向将中国发展经验与治理实践视作国际公共产品以及威斯特伐利亚普世[[Paradigm|范式]]的实用补充，而非唯一排他的意识形态真理。留学生群体对当代中国消除绝对贫困、工业化与社会治理成效表现出高度理性认同，并主动从中汲取本国现代化的治理灵感，印证了中国方案作为替代性发展路径在周边国家获得的务实文化认同。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 9–10, 13)]]
 
 ---
 
-### 命题二　中国方案借由高等教育出海与技术标准辐射实现大国软实力与国家意志的柔性投射
-
-> [!concept-lens] [[Knowledge Diplomacy|知识外交]]与技术自主化
-> [[Critical Pedagogy|批判教育学]]研究者揭示国家如何将教育国际合作打造为输出本国发展模式与技术规范的制度化轨道。
+> [!concept-proposition] 命题二｜中国方案借由高等[[Education Going Global|教育出海]]与技术标准辐射实现大国[[Soft Power|软实力]]与国家意志的柔性投射
+> **探讨维度　[[Knowledge Diplomacy|知识外交]]与技术自主化** [[Critical Pedagogy|批判教育学]]研究者揭示国家如何将教育国际合作打造为输出本国发展模式与技术规范的制度化轨道。
 
 > [!claim] Woo, E.
 > **[[Internationalization of Higher Education|高等教育国际化]]作为推广中国方案的制度化通道** 伍国雄（Eric Woo, 2023）实证指出，新时代教育对外开放政策明确赋予[[Education Going Global|教育出海]]以“[[Telling China's Story Well|讲好中国故事]]”与“推广[[Beijing Consensus|中国模式]]”的核心使命。通过设立面向沿线国家的政府奖学金、建立丝路大学联盟以及由重点大学统筹科技转移中心，中国成功将高等教育打造为系统阐发中国治理经验、推广中国技术标准的知识外交网络，进而服务于重塑全球治理秩序的长远大局。[[Argument_Woo_2023_HEP|(Woo, 2023, pp. 687–692)]]

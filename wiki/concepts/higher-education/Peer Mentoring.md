@@ -8,7 +8,7 @@ aliases:
 summary: "由高年级或更有经验的同辈向新手学习者提供学术支持、认知脚手架与社会情感共情的对等指导模式，在高等教育与主动学习中广泛应用"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,12 @@ related_concepts:
   - "[[Homework]]"
   - "[[Construct]]"
   - "[[Academic Achievement]]"
+  - "[[Academic Anxiety]]"
   - "[[Academic Self-Concept]]"
+  - "[[Time Management]]"
+  - "[[Collaborative Learning]]"
+  - "[[Variable]]"
+  - "[[Dependent Variable]]"
 related_theories: []
 related_methods:
   - "[[Experimental Research]]"
@@ -38,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -69,22 +74,20 @@ updated: 2026-10-25
 
 > [!feature] 同伴导师的核心功能维度
 > - **学术与认知支持** 在探究性学习与解题过程中提供提问句干支架、思路梳理与同伴反馈，协助受训者度过认知瓶颈期。
-> - **心理与社会情感支持** 分享克服挫折的个人经验，提供低威胁环境下的倾听与共情，降低学业焦虑并建立[[Academic Self-Concept\|学术自我概念]]。
-> - **角色榜样与文化融入** 示范高校学术规范、时间管理技能与批判性反思习惯，引导新手融入学术共同体。
+> - **心理与社会情感支持** 分享克服挫折的个人经验，提供低威胁环境下的倾听与共情，降低[[Academic Anxiety|学业焦虑]]并建立[[Academic Self-Concept\|学术自我概念]]。
+> - **角色榜样与文化融入** 示范高校学术规范、[[Time Management|时间管理]]技能与批判性反思习惯，引导新手融入学术共同体。
 
 > [!taxonomy] 同伴[[Mentorship\|导师制]]的实施形态
 > - **一对一导师结对（One-on-One Dyad）** 高年级与低年级学生建立固定的一对一指导契约，定期开展深度交流。
-> - **小组同伴导师制（Small-Group Mentoring）** 一位资深同伴导师带领 3–5 名新手展开专题探究与协作学习。
+> - **小组同伴导师制（Small-Group Mentoring）** 一位资深同伴导师带领 3–5 名新手展开专题探究与[[Collaborative Learning|协作学习]]。
 > - **嵌入式课程同伴导师（Embedded Course Mentors）** 选拔优秀学长深入探究式课堂，在小组研讨中充当讨论引导员（Facilitator）。
 
 ---
 
 ## 围绕概念形成的命题
 
-### 命题一　同伴导师通过低威胁情境与近同辈认知脚手架赋能高阶探究
-
-> [!concept-lens] 心理安全与认知建构机制
-> 探讨近同辈互动如何降低认知焦虑并促进深度反思。
+> [!concept-proposition] 命题一｜同伴导师通过低威胁情境与近同辈[[Scaffolding|认知脚手架]]赋能高阶探究
+> **探讨维度　心理安全与认知建构机制** 探讨近同辈互动如何降低认知焦虑并促进深度反思。
 
 > [!claim] Abrami, P. C., et al.; Topping, K. J.
 > **同伴导师的认知催化价值** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 指出，[[Mentorship\|导师制]]在探究教学中包含教师专家指导与同伴导师（Peer Mentoring）两种核心形态。实证表明，同伴导师由于具备相似的认知视角，能够更敏锐地识别同伴在理解复杂概念时的关键盲区，在无权威威慑的轻松氛围下激发受训者勇于暴露错误、质疑假设并展开深度论辩。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287, 298)]]
@@ -96,9 +99,9 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量 | 导师指导（含同伴导师与教师导师）作为干预维度 | Hedges' $g$ | k = 28 | <span class="mx-bar ef-bar" title="Hedges' g 0.39"><span class="b8"></span></span>0.39 | [0.23, 0.55] | 复合策略 A+D+M 达到 $g+ = 0.57$（$z = 1.98, p = .024$） |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | [[Dependent Variable\|结果变量]] | 导师指导（含同伴导师与教师导师）作为干预维度 | Hedges' $g$ | k = 28 | <span class="mx-bar ef-bar" title="Hedges' g 0.39"><span class="b8"></span></span>0.39 | [0.23, 0.55] | 复合策略 A+D+M 达到 $g+ = 0.57$（$z = 1.98, p = .024$） |
 >
 > - **[[Argument_Abrami_2015_RER|Abrami et al. (2015)]] · 结果变量** 证实导师作为认知催化剂的核心功能
 

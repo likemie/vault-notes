@@ -9,10 +9,10 @@ aliases:
 summary: "教育技术与循证干预假说，主张在初始数字化基础设施薄弱（低 ICT）或社会经济背景脆弱（低 SES）的低资源环境中引入技术工具，所产生的相对促学增量和边际附加值显著高于高资源饱和环境"
 type: concept
 domain: "educational-technology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/educational-technology
   - education-economics
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Individualised Instruction]]"
   - "[[Learning Gap]]"
   - "[[Heterogeneity]]"
+  - "[[Variable]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-05'
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 （边际效益假说）
@@ -112,10 +113,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　国家与区域数字化基础设施水平与教育技术干预效应量呈现显著负向调节
-
-> [!concept-lens] 技术基线与边际回报反比机制
-> 探讨宏观技术环境（ICT Level）如何调节教育技术促学效应的实际收益幅度。
+> [!concept-proposition] 命题一｜国家与区域数字化基础设施水平与教育技术干预[[Effect Size|效应量]]呈现显著负向调节
+> **探讨维度　技术基线与边际回报反比机制** 探讨宏观技术环境（ICT Level）如何调节教育技术促学效应的实际收益幅度。
 
 > [!claim] [[OECD]]
 > **低数字化发展区域的超额技术回报** 在技术发展水平相对滞后的地区，由于学生此前极度匮乏数字化学习支持，教育技术的初次系统性引入往往能带来比高度发达地区更为显著的相对学业增益。[[Argument_Chen_Cheung_2025_ERR\|(OECD, 2015, 2023; 引自 Chen & Cheung, 2025, pp. 6, 18)]]
@@ -125,10 +124,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　弱势社会经济地位学习者通过智能化自适应中介获得超越优势群体的相对补偿
-
-> [!concept-lens] 弱势群体阶层补偿机制
-> 探讨[[Socioeconomic Status|社会经济地位]]（SES）在智能化教育工具介入时的调节作用及公平意涵。
+> [!concept-proposition] 命题二｜弱势[[Socioeconomic Status|社会经济地位]]学习者通过智能化自适应中介获得超越优势群体的相对补偿
+> **探讨维度　弱势群体阶层补偿机制** 探讨[[Socioeconomic Status|社会经济地位]]（SES）在智能化教育工具介入时的调节作用及公平意涵。
 
 > [!claim] Cheung & Slavin
 > **循证干预中弱势群体的资源弹性** 在大规模教育实证干预中，缺乏课外补习和家庭[[Cultural Capital\|文化资本]]支持的弱势学生对高质量[[Individualised Instruction\|个性化教学]]干预表现出更高的敏感度与提升空间。[[Argument_Chen_Cheung_2025_ERR\|(Cheung & Slavin, 2013, 2016; 引自 Chen & Cheung, 2025, pp. 6, 18)]]
@@ -184,7 +181,7 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 宏观技术环境调节 | 低 ICT 国家 | Hedges' $g$ | k = 20 | <span class="mx-bar ef-bar" title="Hedges' g 1.764"><span class="b28"></span></span>1.764 | [1.285, 2.243] | $Q_B = 21.691, p < 0.001$ |
 > |  | 宏观技术环境调节 | 中 ICT 国家 | Hedges' $g$ | k = 60 | <span class="mx-bar ef-bar" title="Hedges' g 0.609"><span class="b12"></span></span>0.609 | [0.405, 0.814] | 同上 |

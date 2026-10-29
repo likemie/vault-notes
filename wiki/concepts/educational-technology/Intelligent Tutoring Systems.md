@@ -10,7 +10,7 @@ aliases:
 summary: "利用人工智能算法对学习者认知状态、知识掌握与解题步骤（以及科学探究过程）进行细致建模并提供自适应个性化教学指导的计算机系统，涵盖良构问题解题分步支架与探究式智能导师系统（Inq-ITS），由领域模型、学生模型、教学模型与交互界面四大经典构件组成。"
 type: concept
 domain: "educational-technology"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -73,6 +73,7 @@ related_methods:
 related_persons:
   - "[[Socrates]]"
 related_facts:
+  - "[[Skills Toward Employment and Productivity]]"
   - "[[Inq-Blotter]]"
   - "[[Inq-ITS]]"
 related_arguments:
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 > [!def] Intelligent Tutoring Systems
@@ -100,7 +101,7 @@ updated: 2026-10-25
 > [!citation-card] 步骤级自适应脚手架机制
 > 智能导师系统通过将领域知识图谱与动态学生认知状态模型相结合，能够实时感知学习者的每一步解题操作，精准在[[Zone of Proximal Development\|最近发展区]]内提供分步提示与自适应变式演练。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2–3)]]
 >
-> *Intelligent Tutoring Systems leverage domain knowledge graphs and dynamic learner models to track step-by-step problem-solving operations, delivering adaptive scaffolding and individualized hints within the learner's zone of proximal development.*
+> *Intelligent Tutoring Systems leverage domain knowledge graphs and dynamic learner models to track [[Skills Toward Employment and Productivity|step]]-by-step problem-solving operations, delivering adaptive scaffolding and individualized hints within the learner's zone of proximal development.*
 
 > [!citation-card] 辅导系统与数字化工具促学效能定位
 > 辅导与智能辅导系统以结构化方式传授新概念与技能，包含自适应诊断与分步线索提示；在中学数学与自然科学教学中，其对[[Academic Achievement\|学业成就]]的促学效应显著优于传统的重复操练软件与非线性超媒体系统。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 15)]]
@@ -176,10 +177,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　步骤级自适应诊断与逐级线索脚手架能有效降低外在认知负荷并促进程序技能内化
-
-> [!concept-lens] 认知负荷调控与解题步骤支持
-> 该命题探讨智能导师系统如何打破传统课件一次性终结评判的局限，通过在解题推导的关键节点实时接入分步线索，防止学习者[[Working Memory\|工作记忆]]资源耗竭，从而优化[[Procedural Skill\|程序性技能]]的习得效率。
+> [!concept-proposition] 命题一｜步骤级自适应诊断与逐级线索[[Scaffolding|脚手架]]能有效降低外在认知负荷并促进[[Procedural Skill|程序技能]]内化
+> **探讨维度　认知负荷调控与解题步骤支持** 该命题探讨智能导师系统如何打破传统课件一次性终结评判的局限，通过在解题推导的关键节点实时接入分步线索，防止学习者[[Working Memory\|工作记忆]]资源耗竭，从而优化[[Procedural Skill\|程序性技能]]的习得效率。
 
 > [!claim] Liu et al.
 > **步骤级自适应线索对程序性技能建构的促进机制** 智能导师系统通过将领域知识分解为细粒度认知产生式规则，能够实时捕获学习者在每一个运算或推导步骤上的中间状态。当系统检测到停顿或错误时，并不直接抛出终极答案，而是在学习者的[[Zone of Proximal Development\|最近发展区]]内动态提供逐级递进的定向线索（Hints），使学习者能够自主维持[[Problem Solving\|问题解决]]的问题空间，显著减轻外在认知负荷，实现对解题程序性技能的深度内化。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 2, 6–7)]]
@@ -189,10 +188,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　智能导师系统在良构理科概念与技能建构上的促学效能显著超越传统操练程序与超媒体系统
-
-> [!concept-lens] 技术功能[[Paradigm\|范式]]与学科知识形态的效能分化
-> 该命题关注不同数字化技术形态在知识传授效能上的根本差异，探讨为何具备认知诊断与结构化辅导能力的系统在数理学科中呈现出显著高于一般数字工具的因果效益。
+> [!concept-proposition] 命题二｜智能导师系统在良构理科概念与技能建构上的促学效能显著超越传统操练程序与超媒体系统
+> **探讨维度　技术功能[[Paradigm\|范式]]与学科知识形态的效能分化** 该命题关注不同数字化技术形态在知识传授效能上的根本差异，探讨为何具备认知诊断与结构化辅导能力的系统在数理学科中呈现出显著高于一般数字工具的因果效益。
 
 > [!claim] Hillmayr et al.
 > **自适应辅导系统在理科学科建构中的结构性优势** 数字化工具对学生[[Academic Achievement\|学业成就]]的提升并非均质同构，其促学力量根本上取决于软件的功能机制类型。传统操练程序虽能提供即时反馈，但因缺乏新知识引导机制，仅对低阶记忆熟练度产生局部影响；超媒体系统因非线性特征极易造成认知超载；而辅导与智能辅导系统（Tutorials & ITS）凭借自适应水平诊断与概念分步展开，精准对接中学生在数学与自然科学中的概念转变需求，其实证促学效应显著高于其他工具形态。引自 [[Argument_Knogler_2025_BB\|Knogler et al. (2025, p. 15)]]
@@ -202,20 +199,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题三　智能导师系统的教学效能深度依附于教师专业教学法培训的协同调节
-
-> [!concept-lens] [[Man-Computer Symbiosis|人机协同]]教学与专业支持的调节机制
-> 该命题反思“技术替代教师”的工程主义预设，阐明智能教学工具并非封闭独立的教学黑箱，其促学潜能必须通过教师的教学法设计与课堂整合方能充分释放。
+> [!concept-proposition] 命题三｜智能导师系统的教学效能深度依附于教师专业教学法培训的协同调节
+> **探讨维度　[[Man-Computer Symbiosis|人机协同]]教学与专业支持的调节机制** 该命题反思“技术替代教师”的工程主义预设，阐明智能教学工具并非封闭独立的教学黑箱，其促学潜能必须通过教师的教学法设计与课堂整合方能充分释放。
 
 > [!claim] Knogler et al.
 > **教师专业培训对智能教学工具成效的决定性调节** 国际[[Meta-analysis\|元分析]]证据有力证实，技术硬件与自适应软件的引入本身并不能自动保证学习成就的提升；教师是否接受过针对数字化工具的学科教学法培训，构成了调节干预成效最为显著的关键[[Variable\|变量]]。未受专业培训的教师往往将智能系统退化为简单的电子题库或自习放任工具；唯有教师掌握如何将系统的自适应诊断反馈融入课堂分层讨论与精准干预时，智能辅导系统的教学促学价值才能最大化释放。引自 [[Argument_Knogler_2025_BB\|Knogler et al. (2025, p. 15)]]
 
 ---
 
-### 命题四　探究式智能导师系统通过过程数据挖掘与人机双轨支架实现复杂科学探究技能的远迁移
-
-> [!concept-lens] 科学探究劣构情境中的算法诊断与人机协同支架机制
-> 突破传统 ITS 局限于良构解题的范式瓶颈，探讨数据挖掘与教师决策看板如何协同支持学生在高阶探究中的假说检验与变量控制。
+> [!concept-proposition] 命题四｜探究式智能导师系统通过过程数据挖掘与人机双轨支架实现复杂科学探究技能的远迁移
+> **探讨维度　科学探究劣构情境中的算法诊断与人机协同支架机制** 突破传统 ITS 局限于良构解题的范式瓶颈，探讨数据挖掘与教师决策看板如何协同支持学生在高阶探究中的假说检验与变量控制。
 
 > [!claim] [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
 > **过程日志挖掘与人机双轨探究支架支持** 现代探究式智能导师系统（Inquiry-based Intelligent Tutoring Systems, [[Inq-ITS]]）打破了传统 ITS 局限于良构符号计算的范围瓶颈，通过教育数据挖掘技术实时解析学生在虚拟科学实验室中的动态操作（如假设提出、[[Control of Variables Strategy\|变量控制策略]] CVS 与数据解读）。系统内置的虚拟对话[[AI Agent in Education\|智能体]]（Rex）在算法检测到探究阻碍时自动推送分层微观[[Scaffolding\|脚手架]]，纵向追踪实验证实此种干预不仅促进即时探究技能，更实现了跨学期的远距离知识迁移（Gobert et al., 2013, 2023）；更为关键的是，系统结合实时决策看板（[[Inq-Blotter]]）将算法诊断的学生探究卡点实时推送给任课教师，指导教师精准进行现场面对面干预，获得教师针对性提示的学生在后续任务中技能获得显著额外提升（Dickler et al., 2021），确立了“算法实时微观代偿+教师现场宏观引导”的人机协同双轨探究教学模式。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 9–10)]]
@@ -312,7 +305,7 @@ updated: 2026-10-25
 > | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | Hillmayr et al. (2020)，引自 [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] | 结果变量 | 学业成就 | Hedges' $g$ | — | <span class="mx-bar ef-bar" title="Hedges' g 0.65"><span class="b13"></span></span>0.65 | — | 工具类型比较及教师培训调节检验显著（$p < .001$） |
-> |  |  | 学科态度 |  | — | <span class="mx-bar ef-bar" title="Hedges' g 0.45"><span class="b9"></span></span>0.45 | — | — |
+> |  |  | [[Attitude Towards Content Domains\|学科态度]] |  | — | <span class="mx-bar ef-bar" title="Hedges' g 0.45"><span class="b9"></span></span>0.45 | — | — |
 > | Gerard et al. (2015)，引自 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 干预因素（自动化自适应指导） | 科学探究平台（WISE）NLP 自适应支架 | Hedges' $g$ | k = 41 | <span class="mx-bar ef-bar" title="Hedges' g 0.34"><span class="b7"></span></span>0.34 | — | 与常规课堂指导对比显著 |
 >
 > - **[[Argument_Liu_2026_CHBR|Liu et al. (2026)]] · 干预因素（智能体技术类型）** 聚焦基础教育理科解题与规则引导场景，在四大技术形态中汇总点估计最高

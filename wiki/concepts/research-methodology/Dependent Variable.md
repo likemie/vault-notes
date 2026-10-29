@@ -11,7 +11,7 @@ aliases:
 summary: "实验或量化研究中被观察和测量的结果变量，其变化被假定为自变量的操纵或选择所导致，是因果推断中的输出条件"
 type: concept
 domain: "research-methodology"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ tags:
   - causal-inference
   - experiment
 related_concepts:
+  - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Causality]]"
   - "[[Construct]]"
@@ -29,7 +30,6 @@ related_concepts:
   - "[[Student Engagement]]"
   - "[[Visible Learning]]"
   - "[[Academic Achievement]]"
-  - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[Reliability]]"
   - "[[External Validity]]"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Evaluation Research]]"
   - "[[Positivism]]"
+  - "[[Student Motivation]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -59,11 +60,11 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!def] Dependent Variable
-> 因变量（dependent variable）是实验或[[Quantitative Research\|量化研究]]中的**输出变量**，即**结果变量（outcome variable）**。因变量的变化被假定为[[Independent Variable\|自变量]]的操纵或选择所导致，通过测量因变量在干预前后的变化来评估干预的效应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）。
+> 因[[Variable|变量]]（dependent variable）是实验或[[Quantitative Research\|量化研究]]中的**输出变量**，即**结果变量（outcome variable）**。因变量的变化被假定为[[Independent Variable\|自变量]]的操纵或选择所导致，通过测量因变量在干预前后的变化来评估干预的效应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）。
 
 在真实验中，因变量在[[Pre-test and Post-test|前测]]和后测两个时间点被测量，前后测之间的差异（控制组与实验组对比）提供了干预效应的估计。在[[Ex Post Facto Research|事后回溯研究]]中，因变量是已发生的自然结果，回溯性地搜索可能的原因变量。
 
@@ -112,10 +113,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　因变量操作化对理论构念的偏离会导致因果逻辑倒置
-
-> [!concept-lens] 因[[Variable|变量]][[Construct Validity|构念效度]]与因果单向性
-> 探讨量化[[Causality|因果推断]]中因变量的[[Operationalization|操作化]]边界，揭示当评价导向的测验结果被泛化为抽象[[Construct|理论构念]]时所产生的测量失真与循环定义风险。
+> [!concept-proposition] 命题一｜因[[Variable|变量]][[Operationalization|操作化]]对[[Construct|理论构念]]的偏离会导致因果逻辑倒置
+> **探讨维度　因[[Variable|变量]][[Construct Validity|构念效度]]与因果单向性** 探讨量化[[Causality|因果推断]]中因变量的[[Operationalization|操作化]]边界，揭示当评价导向的测验结果被泛化为抽象[[Construct|理论构念]]时所产生的测量失真与循环定义风险。
 
 > [!claim] Cohen et al.
 > **因变量操作化充分性与因果效应测量** 因变量必须具备对[[Independent Variable|自变量]]操纵的敏感性与充分的测量效度。因变量与其所代表理论构念之间的对应关系构成了[[Internal Validity|内部效度]]的核心；如果因变量的[[Definition of Terms|操作性定义]]不充分或代理指标失当，测量结果将无法反映理论构念的真实状态，使得因果推断指向错误的对象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch16, pp. 330–337)]]
@@ -149,7 +148,7 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 小麦肥料实验中，小麦的生长和产量是因[[Variable\|变量]]；Bhadwal and Panda (1991) 的研究中，学生的学习习惯和态度是因变量；资源可用性×学习动机的[[Factorial Design\|因子设计]]中，考试成绩是因变量。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — 小麦肥料实验中，小麦的生长和产量是因[[Variable\|变量]]；Bhadwal and Panda (1991) 的研究中，学生的学习习惯和态度是因变量；资源可用性×[[Student Motivation|学习动机]]的[[Factorial Design\|因子设计]]中，考试成绩是因变量。
 > - [[Argument_Rømer_2018_EPT|Rømer (2018)]] — 针对《[[Visible Learning|可见的学习]]》展开教育哲学与概念批判，系统论证其因变量（学习/[[Academic Achievement|学业成就]]）存在的[[Construct|构念]]混淆、效度模糊，以及评价导向的因变量反向规训[[Independent Variable|自变量]]（教学）所导致的因果逻辑倒置（pp. 6–7）。
 
 ---

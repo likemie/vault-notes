@@ -10,7 +10,7 @@ aliases:
 summary: "以连续提问、澄清假设、呈现反例与暴露认知矛盾为核心的启发式教学对话策略，在哲学思辨与理科探究中作为关键言语支架促进概念重构与批判性思维发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 37
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Scaffolding]]"
   - "[[Socratic Elenchus]]"
+  - "[[Teacher Questioning]]"
   - "[[Dialogue in Education]]"
   - "[[Banking Model of Education]]"
   - "[[Champ]]"
@@ -45,6 +46,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Epistemic Deference]]"
   - "[[Heterogeneity]]"
+  - "[[Artificial Intelligence in Education]]"
   - "[[Creativity]]"
 related_theories: []
 related_methods:
@@ -67,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -95,7 +97,7 @@ updated: 2026-10-25
 > [!boundary]- 概念边界
 > - 不等于 [[Socratic Elenchus\|苏格拉底驳诘法]]（Elenchus） — 后者侧重古典哲学层面的辩论交锋与彻底摧毁对方的虚假知性；本概念侧重现代教育与教学法中建构性、支持性的认知支架干预。
 > - 不等于 苏格拉底辅导风格 — 后者多指家庭社会化与母子互动中的文化养育风格，侧重情感支持与日常启发。
-> - 不等于 教师普通课堂提问 — 普通提问多为事实抽查或封闭性应答；苏格拉底对话必须包含假设审查、反常证据推演与连续因果链条追问。
+> - 不等于 教师普通[[Teacher Questioning|课堂提问]] — 普通提问多为事实抽查或封闭性应答；苏格拉底对话必须包含假设审查、反常证据推演与连续因果链条追问。
 
 ---
 
@@ -130,40 +132,32 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　苏格拉底对话通过认知冲突与连续反思显著促进批判性思维技能
-
-> [!concept-lens] 认知干预与思维发展
-> 探讨诘问式言语互动如何激活深层推理与高阶[[Metacognition\|元认知监控]]。
+> [!concept-proposition] 命题一｜[[Socrates|苏格拉底]]对话通过认知冲突与连续反思显著促进[[Critical Thinking|批判性思维]]技能
+> **探讨维度　认知干预与思维发展** 探讨诘问式言语互动如何激活深层推理与高阶[[Metacognition\|元认知监控]]。
 
 > [!claim] [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]]
 > **[[Meta-analysis\|元分析]]实证支持** 大规模元分析表明，在[[Critical Thinking\|批判性思维]]干预中运用[[Socrates\|苏格拉底]]对话能够产生稳定的正向促进效应（$k = 8, g+ = 0.27, 95\%\text{ CI} = [-0.01, 0.55]$）。通过连续追问促使学生澄清概念、辨识假设并权衡理由，直接激活了高阶认知监控与思维自洽性。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286, 294)]]
 
 ---
 
-### 命题二　苏格拉底对话的实操效能依赖于安全的对话环境与教师脚手架素养
-
-> [!concept-lens] 对话契约与心理安全
-> 探讨如何防止启发性质询退化为审查式提问或形式主义。
+> [!concept-proposition] 命题二｜苏格拉底对话的实操效能依赖于安全的对话环境与教师[[Scaffolding|脚手架]]素养
+> **探讨维度　对话契约与心理安全** 探讨如何防止启发性质询退化为审查式提问或形式主义。
 
 > [!claim] [[Argument_Darwish_2009_Queens\|Darwish (2009)]]
 > **心理安全与民主对话契约** 纯粹的技术性追问若脱离了关怀与尊重，容易使学生产生被审问的焦虑与防卫心理。有效的苏格拉底对话必须建立在心理安全与互信契约之上，教师应当作为支持性[[Scaffolding\|认知脚手架]]参与共同探索，而非居高临下评判对错的法官。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 9–10)]]
 
 ---
 
-### 命题三　理科探究中的苏格拉底式诘问作为言语支架能有效破除直觉迷思并引导深层概念建构
-
-> [!concept-lens] 科学探究与概念转变
-> 阐明理科课堂中苏格拉底对话作为非讲授型指导支持科学概念建构的机制。
+> [!concept-proposition] 命题三｜理科探究中的苏格拉底式诘问作为言语支架能有效破除直觉迷思并引导深层概念建构
+> **探讨维度　科学探究与概念转变** 阐明理科课堂中苏格拉底对话作为非讲授型指导支持科学概念建构的机制。
 
 > [!claim] McDermott; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
 > **非讲授型探究指导与直觉迷思消解** 在科学探究教学中，苏格拉底对话构成了教师指导的重要载体。以华盛顿大学物理教育组（Physics Education Group）在《物理探究》课程中的实践为代表，面对电路、光学或力学中的深层直觉迷思（如认为电流在串联灯泡中被逐渐“消耗”），教师绝不直接抛出欧姆定律等现成公式，而是通过连续的苏格拉底式提问引导学生亲自动手搭建对照电路、观察并解释反常亮度差异。这种对话充当了高阶言语支架，既避免了无指导纯探索的漫无边际，又维护了学生的[[Epistemic Agency\|认识能动性]]，促使学生在解决认知冲突中实现深层概念转变。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]
 
 ---
 
-### 命题四　基于大语言模型的苏格拉底式质询智能体通过动态开放追问注入认识论摩擦以抵御算法顺从与自动化偏差
-
-> [!concept-lens] [[Man-Computer Symbiosis|人机协同]]决策与对抗性质询
-> 探讨如何利用大语言模型的开放语义生成能力，将苏格拉底对话从传统人际教学拓展为智能交互决策中的认知安全防护机制。
+> [!concept-proposition] 命题四｜基于大语言模型的苏格拉底式质询[[AI Agent in Education|智能体]]通过动态开放追问注入[[Epistemic Friction|认识论摩擦]]以抵御算法顺从与[[Automation Bias|自动化偏差]]
+> **探讨维度　[[Man-Computer Symbiosis|人机协同]]决策与对抗性质询** 探讨如何利用大语言模型的开放语义生成能力，将苏格拉底对话从传统人际教学拓展为智能交互决策中的认知安全防护机制。
 
 > [!claim] Xi et al.; [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **对抗性质询[[AI Agent in Education|智能体]]与[[Epistemic Friction|认识论摩擦]]注入** 在高风险决策与复杂探究情境中，操作者或学习者极易因认知节省倾向与界面流畅性而盲目顺从算法建议（[[Automation Bias|自动化偏差]]）。研究指出，通过将大语言模型配置为反思机器（Reflection Machines, RMs），在关键操作节点发起自适应的苏格拉底式追问（例如“你为何接受该诊断建议？”、“存在哪些冲突证据支持[[Alternative Hypothesis|替代假设]]？”），能够主动向决策流中注入生产性[[Epistemic Friction|认识论摩擦]]。与静态警告弹窗或固定格式表单不同，基于语言模型的苏格拉底追问具备不可预测性与语义自适应性，能够有效抵御形式化应对（Resisting Routinization），迫使人类主体调动[[Reflexivity|反思性]]卷入并阐明判断理由，从而在保障人机协同效率的同时维系[[Meaningful Human Control|有意义的人类控制]]与认知主体性。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–23)]]
@@ -231,4 +225,4 @@ updated: 2026-10-25
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 阐述对话在克服储蓄式灌输、建立批判性共同探究中的哲学与教学机制。
 > - [[Argument_Li_2012_Cambridge\|Li (2012)]] — 分析苏格拉底式提问引导在文化母子学习对话与心智启蒙中的体现。
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 提出基于大语言模型的反思机器（Reflection Machines），将苏格拉底对话[[Operationalization|操作化]]为[[Man-Computer Symbiosis|人机协同]]决策中的对抗性质询[[AI Agent in Education|智能体]]，通过注入生产性[[Epistemic Friction|认识论摩擦]]抵御[[Automation Bias|自动化偏差]]并维系有意义人类控制。
-> - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 在教育人工智能（Q-Tutor）交互设计中反思苏格拉底式提问的收敛性预设局限，提出由苏格拉底几何诱导向心理治疗式开放探究对话跃迁，以捍卫学习者的思想作者权与[[Creativity|创造力]]美德。
+> - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 在[[Artificial Intelligence in Education|教育人工智能]]（Q-Tutor）交互设计中反思苏格拉底式提问的收敛性预设局限，提出由苏格拉底几何诱导向心理治疗式开放探究对话跃迁，以捍卫学习者的思想作者权与[[Creativity|创造力]]美德。

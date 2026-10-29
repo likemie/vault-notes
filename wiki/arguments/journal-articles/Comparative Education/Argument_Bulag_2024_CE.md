@@ -20,6 +20,7 @@ related_concepts:
   - "[[Avatar]]"
   - "[[Retrotopia]]"
   - "[[Dialogue in Education]]"
+  - "[[Document]]"
   - "[[Second-generation Ethnic Policy]]"
   - "[[Grand Theory]]"
   - "[[Pragmatic Paradigm]]"
@@ -47,14 +48,14 @@ sources:
 part_of:
 status: draft
 created: 2026-05-25
-updated: 2026-10-23
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Bulag_2024_CE"
 argument_key: "Argument_Bulag_2024_CE"
 argument_display_title: "The wheel of history and minorities' 'self-sacrifice' for the Chinese nation"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -132,7 +133,7 @@ citation_aliases:
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > | --- | --- |
-> | **政策文献** | 中共官方关于内蒙古双语教育改革的文件、国家通用语言文字推广法令、以及新疆和西藏相关的早期同化性语言政策法令。 |
+> | **政策[[Document\|文献]]** | 中共官方关于内蒙古双语教育改革的文件、国家通用语言文字推广法令、以及新疆和西藏相关的早期同化性语言政策法令。 |
 > | **学术文本** | 包括赵汀阳《天下体系》、[[Pan Yue\|潘岳]]“[[Wuhu Ruhua\|五胡入华]]”历史叙事文集、费孝通“多元一体”讲稿，以及西方建构论学者（如杜磊，Dru Gladney；墨磊宁，Thomas Mullaney）和人权学者（如《新疆元年》）的专著与报告。 |
 > | **个案材料** | 2020 年内蒙古双语改革抗议记录、11 例内蒙古少数民族自杀个案统计，重点关注基层蒙古族干部苏日娜（Surnaa）的遗书原件翻译文本。 |
 > | **研究性质** | 跨学科概念建构与批评话语分析，并非一手实证定量/定性[[Fieldwork\|田野研究]]。 |
@@ -154,7 +155,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤一：现有西方批评框架的三个政治悖论
+> [!claim|step] 论证步骤一：现有西方批评框架的三个政治悖论
 > 西方的灭绝种族与[[Settler Colonialism\|定居殖民主义]]批评框架虽然强力揭发了中国国家暴力，但在政治效果上存在严重的自我否定悖论，实质上削弱了少数民族的反殖民自决权与宪法自治权。
 
 > [!critique] 西方批评框架的三重政治悖论
@@ -170,7 +171,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤二：西方后殖民学术与中国政策之间的非意图合谋
+> [!claim|step] 论证步骤二：西方后殖民学术与中国政策之间的非意图合谋
 > 中共在 2000 年代以来的民族政策转型（去政治化与同化），通过非意图合谋挪用了西方后殖民批判与社会建构论的概念工具（如将政治民族 minzu 降格为去政治的族群 zuqun），从而为其提供了拆除少数民族自治法律屏障的学术正当性。
 
 > [!chain-link] 学术与政策“非意图合谋”的演进链
@@ -191,7 +192,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤三：中华民族建构的怀旧乌托邦与“自我牺牲”机制
+> [!claim|step] 论证步骤三：中华民族建构的怀旧乌托邦与“自我牺牲”机制
 > [[National Rejuvenation Narrative|中华民族伟大复兴]]本质上是一场[[Retrotopia\|怀旧乌托邦]]与修复性怀旧的国家工程；其核心的话语逻辑并非仅仅是暴力同化，而是通过一系列历史重构神话，要求少数民族主动并自愿进行文化与身份的自我牺牲（self-sacrifice），从而完成对国家道德正当性的自我论证。
 
 > [!def] 怀旧乌托邦与修复性怀旧
@@ -211,7 +212,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤四：内蒙古双语教育危机中“自我牺牲”的实践运作
+> [!claim|step] 论证步骤四：内蒙古双语教育危机中“自我牺牲”的实践运作
 > [[2020 Inner Mongolia Bilingual Education Reform\|2020 年内蒙古双语教育改革]]危机以及官方的后续反应，具体而微地展现了自我牺牲逻辑在实践层面的三重运作机制，体现了模范自治区从自治权保障向族群特殊性主动放弃（即模范牺牲）的本质转型。
 
 > [!factors] “自我牺牲”逻辑的三重实践机制

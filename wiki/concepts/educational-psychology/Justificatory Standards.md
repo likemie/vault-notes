@@ -7,7 +7,7 @@ aliases:
 summary: "在认识论认知模型中，个体或共同体在评价知识主张、证据可信度与理论解释时所依据的细粒度准则，涵盖个体认知试探法与共同体社会协商的实践规范。"
 type: concept
 domain: "educational-psychology"
-related_count: 35
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -34,6 +34,8 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
+  - "[[Inquiry-Based Learning]]"
+  - "[[Source Evaluation]]"
 related_theories:
   - "[[AIR Model of Epistemic Cognition]]"
   - "[[Toulmin's Argumentation Model]]"
@@ -55,11 +57,12 @@ related_arguments:
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Hofer_1997_RER]]"
   - "[[Argument_Cartiff_2021_JEP]]"
-related_instruments: []
+related_instruments:
+  - "[[Framework for Teaching]]"
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -119,30 +122,24 @@ updated: 2026-10-25
 
 ## 围绕概念形成的命题
 
-### 命题一　确证标准是预测信息甄别行为与解释探究分歧的关键微观黑盒
-
-> [!concept-lens] 确证标准对认知加工与争议解决的机制决定维度
-> 探讨为何抽象的[[Epistemological Beliefs\|认识论信念]]无法预测行为，揭示细粒度确证标准对证据采信与信息甄别的直接决定作用。
+> [!concept-proposition] 命题一｜确证标准是预测信息甄别行为与解释探究分歧的关键微观黑盒
+> **探讨维度　确证标准对认知加工与争议解决的机制决定维度** 探讨为何抽象的[[Epistemological Beliefs\|认识论信念]]无法预测行为，揭示细粒度确证标准对证据采信与信息甄别的直接决定作用。
 
 > [!claim] [[Clark A. Chinn\|Chinn, C. A.]] et al.
 > **细粒度标准决定行为分野** 粗放地测量个体“是否相信证据”或“是否信任权威”无法解释真实探究行为。两名在[[Questionnaire\|问卷]]上同样标榜相信权威的学习者，面对冲突材料时会表现出完全相反的加工策略：依赖盲信标准者无视方法缺陷直接采信，而持有理性共识标准者则深入审查作者的研究设计与[[Sample Size Determination\|样本量]]。决定学习者能否识破伪科学的不是抽象信念，而是其头脑中调动的细粒度确证标准。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 151–155)]]
 
 ---
 
-### 命题二　确证标准是学科实践文化规训与课堂微观话语协商的共同产物
-
-> [!concept-lens] 确证标准的情境生成与社会互动维度
-> 考察确证标准究竟是个体固有的静态心智特质，还是共同体互动中的实践规范。
+> [!concept-proposition] 命题二｜确证标准是学科实践文化规训与课堂微观[[Discourse|话语]]协商的共同产物
+> **探讨维度　确证标准的情境生成与社会互动维度** 考察确证标准究竟是个体固有的静态心智特质，还是共同体互动中的实践规范。
 
 > [!claim] [[William A. Sandoval|Sandoval, W. A.]] et al.
 > **情境依赖与社会互动建构** 确证标准并非个体跨情境固化的心理特质，而是高度情境化且在社会互动流中动态建构的。同一个体在面对科学实验、历史史料或宗教文本时会主动切换完全不同的确证标准；在科学课堂探究中，什么是可接受的[[Evidence Standards\|证据标准]]并非由教师单向告知，而是通过师生、生生对话辩驳逐步析出的集体实践契约。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, pp. 471–472)]]
 
 ---
 
-### 命题三　确证标准在科学论证评价中具象化为认识论理想并驱动实质转向
-
-> [!concept-lens] 确证标准向论证规范[[Operationalization\|操作化]]的理论进阶维度
-> 探讨确证标准如何在当代科学论证评价中转化为系统操作框架，推动评价超越外在句法结构。
+> [!concept-proposition] 命题三｜确证标准在科学论证评价中具象化为[[Epistemic Ideals|认识论理想]]并驱动实质转向
+> **探讨维度　确证标准向论证规范[[Operationalization\|操作化]]的理论进阶维度** 探讨确证标准如何在当代科学论证评价中转化为系统操作框架，推动评价超越外在句法结构。
 
 > [!claim] Duncan, R. G. & Chinn, C. A.
 > **操作化为[[Epistemic Ideals\|认识论理想]]** 在科学论证与建模实践中，确证标准进一步操作化为针对认识产出的规范性评价量规——认识论理想（[[Epistemic Ideals]]）。传统基于[[Toulmin's Argumentation Model\|图尔敏模型]]或 CER 框架的评价只核对论证部件的形式有无，无法识别披着完备外衣的伪科学诡辩；唯有将评价标准下沉至实证确证准则（如证据契合度、多源收敛印证、设计决定性与直接性），才能真实衡量论证的知识确证力。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202–204, 209–211)]]
@@ -190,10 +187,10 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架 | 指导式探究 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b = 17.491, p < .01$；预设 |
-> |  |  | 信源评估 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.800"><span class="b16"></span></span>0.800 | — | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预[[Framework for Teaching\|教学框架]] | [[Inquiry-Based Learning\|指导式探究]] | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b = 17.491, p < .01$；预设 |
+> |  |  | [[Source Evaluation\|信源评估]] |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.800"><span class="b16"></span></span>0.800 | — | — |
 > |  | 干预与测验对齐 | 未对齐测验 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b = 7.986, p < .01$；预设 |
 > |  |  | 完全对齐测验 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.426"><span class="b9"></span></span>0.426 | — | — |
 > |  | 成就类型 | 论证表现 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | — | $Q_b = 8.940, p < .05$；预设 |

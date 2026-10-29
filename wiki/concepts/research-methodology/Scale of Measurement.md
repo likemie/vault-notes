@@ -8,7 +8,7 @@ aliases:
 summary: "量化研究中将理论构念转化为可分析数据的赋值法则与度量层级，涵盖分类量表（名义、顺序）与连续量表（等距、比率），其心理计量属性与量程灵敏度直接决定了统计模型推断效度与因果评价公信力。"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Developer-Made Measures]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Predictive Validity]]"
+  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Cross-cultural Validity]]"
   - "[[Academic Achievement]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -123,7 +124,7 @@ updated: 2026-10-22
 为根治测量尺度质量参差不齐的痼疾，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）前置建立了国家级测量工具审查基础设施：
 
 > [!feature] 现代循证评估的测量尺度基础设施
-> - **[[SPECTRUM]] 数据库（非认知与社会情感测量工具库）** 针对市场上非认知与心理韧性量表良莠不齐的现实，EEF 委托曼彻斯特大学迈克尔·威格斯沃思（Wigelsworth et al., 2017）开展超大规模系统文献审查，严格审核数百种量表的心理计量属性（[[Reliability\|信度]]、[[Construct Validity\|结构效度]]、预测效度、[[Cross-cultural Validity\|跨文化效度]]及学校可行性），建立起权威的非认知测量工具准入目录（[EEF SPECTRUM Database](https://educationendowmentfoundation.org.uk/spectrum-essential-skills-and-non-academic-outcomes/spectrum-database)）。
+> - **[[SPECTRUM]] 数据库（非认知与社会情感测量工具库）** 针对市场上非认知与心理韧性量表良莠不齐的现实，EEF 委托曼彻斯特大学迈克尔·威格斯沃思（Wigelsworth et al., 2017）开展超大规模系统[[Document|文献]]审查，严格审核数百种量表的心理计量属性（[[Reliability\|信度]]、[[Construct Validity\|结构效度]]、预测效度、[[Cross-cultural Validity\|跨文化效度]]及学校可行性），建立起权威的非认知测量工具准入目录（[EEF SPECTRUM Database](https://educationendowmentfoundation.org.uk/spectrum-essential-skills-and-non-academic-outcomes/spectrum-database)）。
 > - **[[Academic Achievement\|学业成就]]测量数据库（Attainment Measures Database）** 系统收录并审查面向 6–18 岁学生的标准化[[Norm-Referenced Test\|常模参照测验]]，针对阅读、数学与科学等学科提供详细的心理计量评级与量程诊断（[Attainment Measures Database](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/attainment-measures-database/am-database)）。
 > - **学前早期测量数据库（Early Years Measures Database）** 专门评估面向 0–6 岁儿童早期语言、读写、数学与社会情感发展的测量工具，确保学前教育试验采用高敏感度、宽量程的测量尺度（[Early Years Measures Database](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/early-years-measures-database-2/early-years-measures-database)）。
 
@@ -131,30 +132,24 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　测量尺度的数学属性对统计推断模型的选择构成刚性约束
-
-> [!concept-lens] 尺度层级与参数/非参数检验的对应法则
-> 测量尺度在数学上拥有的信息量决定了数据分析的统计合法性边界。
+> [!concept-proposition] 命题一｜测量尺度的数学属性对统计推断模型的选择构成刚性约束
+> **探讨维度　尺度层级与参数/非参数检验的对应法则** 测量尺度在数学上拥有的信息量决定了数据分析的统计合法性边界。
 
 > [!claim] [[John W. Creswell\|Creswell, J. W.]] & [[J. David Creswell\|Creswell, J. D.]]
 > **统计模型与尺度匹配的刚性原则** [[Quantitative Research\|量化研究]]者在选择假设检验方法时必须严格受制于[[Dependent Variable\|因变量]]与[[Independent Variable\|自变量]]的测量尺度属性。名义尺度与顺序尺度数据由于缺乏相等的测量间距，不能计算具有数学意义的算术均值与方差，原则上必须采用非参数统计方法（如[[Chi-Squared Test\|卡方检验]]、Mann-Whitney U 检验、Kruskal-Wallis 检验）；而等距尺度与比率尺度数据具有相等的度量间距，在满足分布假定下支持均值、标准差计算及参数检验（如 $t$ 检验、[[Analysis of Variance\|方差分析]] ANOVA、多元线性回归）。量表类型的混淆与误判将直接破坏统计推论的有效性。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 56)]]
 
 ---
 
-### 命题二　终结性测量尺度的独立性与常模代表性决定了实验因果推断的外部推广效度
-
-> [!concept-lens] 开发者自编特异性与国家普查常模标尺的张力
-> 测量尺度是干预开发者量身定制还是依托国家常模，直接决定了[[Effect Size\|效应量]]的真实含金量。
+> [!concept-proposition] 命题二｜终结性测量尺度的独立性与常模代表性决定了实验[[Causality|因果推断]]的外部推广效度
+> **探讨维度　开发者自编特异性与国家普查常模标尺的张力** 测量尺度是干预开发者量身定制还是依托国家常模，直接决定了[[Effect Size\|效应量]]的真实含金量。
 
 > [!claim] Edovald, T. & Nevill, C.
 > **自编测验效应虚高与国家行政统考锚定准则** 采用由干预开发者自编的非标准化测验（[[Developer-Made Measures\|Inherent Measures]]）作为结局尺度，会因为题目与干预内容的深度重叠而诱发严重的测量偏差，使效应量被人为夸大高达 100%。为了保障证据的科学客观性，现代循证评估机构（如 [[Education Endowment Foundation\|EEF]]）确立了刚性准则：主要结局指标严禁采用任何自编测验，必须强制优先锚定[[National Pupil Database\|国家学生数据库]]（NPD）官方标准化统考客观尺度，以确保测量结果能够无缝对接全社会公认的高利害学业基准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
 ---
 
-### 命题三　测量尺度的有效量程截断会系统性扭曲干预的真实因果效应量
-
-> [!concept-lens] 难度分布失衡引发[[Floor and Ceiling Effects\|天花板与地板效应]]的因果遮蔽
-> 测量尺度的两端量程是否充分，决定了干预对不同能力受试者的真实边际改善能否被观测。
+> [!concept-proposition] 命题三｜测量尺度的有效量程截断会系统性扭曲干预的真实因果效应量
+> **探讨维度　难度分布失衡引发[[Floor and Ceiling Effects\|天花板与地板效应]]的因果遮蔽** 测量尺度的两端量程是否充分，决定了干预对不同能力受试者的真实边际改善能否被观测。
 
 > [!claim] Hodgen, J.
 > **测验量程截断与因果效应人为低估** 商业标准化测验在常态学生群体中极易遭遇有效量程受限的心理计量缺陷。当试卷题项难度分布不当、缺乏足够的区分梯度时，高学力学生会轻易触及满分顶格（天花板效应），基础薄弱学生会大面积得零分（地板效应）。这种测量尺度的非线性截断抹平了干预组与对照组在分布两端的真实微观差距，导致模型估计出的效应量出现系统性向下偏倚，造成对有效干预的严重误杀。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Hodgen et al., 2019; Edovald & Nevill, 2021, p. 54)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "在试验数据收集或解盲前由独立评估团队预先制定并公开发布的详尽技术法典，硬性锁定主要模型、协变量、集群校正与敏感性分析规则，是根除数据钓鱼与消解模型依赖性的制度基石"
 type: concept
 domain: "research-methodology"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -29,8 +29,9 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Dependent Variable]]"
   - "[[Attrition]]"
-  - "[[Paradigm]]"
   - "[[Preregistration]]"
+  - "[[Paradigm]]"
+  - "[[Document]]"
   - "[[Clinical Trial]]"
   - "[[Heterogeneity]]"
 related_theories:
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -127,20 +128,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　统计分析计划（SAP）将预注册从宽泛的意向声明升格为具有约束力的技术契约
-
-> [!concept-lens] 探讨维度：开放科学从宏观倡导向微观技术规范的[[Paradigm\|范式]]演进
-> 科学社会学与量化方法学研究表明：仅在网站上简略登记研究假说，依然为研究者保留了巨大的操纵空间；唯有代码级的先验 SAP 才能真正终结假阳性危机。
+> [!concept-proposition] 命题一｜统计分析计划（SAP）将[[Preregistration|预注册]]从宽泛的意向声明升格为具有约束力的技术契约
+> **探讨维度　探讨维度：开放科学从宏观倡导向微观技术规范的[[Paradigm\|范式]]演进** 科学社会学与量化方法学研究表明：仅在网站上简略登记研究假说，依然为研究者保留了巨大的操纵空间；唯有代码级的先验 SAP 才能真正终结假阳性危机。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 51–53)]]
 > **[[Path Dependence|技术锁定]]根除选择性报告** 传统社会科学研究中，正向显著结果的发表几率比零结果高出 40%（Franco et al., 2014）。许多研究者即使[[Preregistration\|预注册]]了假说，仍会在后端通过“更换协[[Variable\|变量]]”或“删除不显著亚组”实现显著。[[Education Endowment Foundation\|EEF]] 的实践表明，强制评估团队在接触数据前独立提交长篇 SAP，并将具体分析模型、协变量定义和聚类校正方法固定在公开服务器上，使得任何事后迎合资助方或学术期刊审稿人的暗室操作在技术上彻底失去空间。
 
 ---
 
-### 命题二　SAP 构成了循证中介机构实施证据质量评级与跨试验横向比较的制度红线
-
-> [!concept-lens] 探讨维度：证据清算机构的标准化治理基础设施
-> 证据生态学研究揭示：缺乏预注册 SAP 的因果证据无法在[[Meta-meta-analysis\|二阶元分析]]工具包中获得高公信力的横向排位。
+> [!concept-proposition] 命题二｜SAP 构成了循证中介机构实施证据质量评级与跨试验横向比较的制度红线
+> **探讨维度　探讨维度：证据清算机构的标准化治理基础设施** 证据生态学研究揭示：缺乏预注册 SAP 的因果证据无法在[[Meta-meta-analysis\|二阶元分析]]工具包中获得高公信力的横向排位。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, pp. 51–53, 57)]]; The EEF (2018, 2019c)
 > **[[EEF Padlock Security Rating\|挂锁安全评级]]的准入刚性** EEF 在《挂锁安全评级体系》（Padlock Rating）中将“是否严格遵循预注册 SAP”作为评定证据安全性的核心扣分指标。若某项试验未能在数据收集前发布 SAP，或最终报告严重违背 SAP 且未作充分方法学解释，该研究将被直接扣减 1 把挂锁甚至判定为证据不可靠。正是得益于 SAP 的全面制度化推行，EEF 资助的已发表试验中高达 85% 获得了 3 把锁及以上的极高安全评级，为全球教育证据清算树立了标杆。
@@ -148,7 +145,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **技术契约命题** | 阐明 SAP 如何通过算法级预先规约剥夺事后分析自由度，根除选择性报告 | 开放科学、试验方案审查、统计推断防偏倚 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Franco et al. (2014) |
 > | **制度红线命题** | 论证 SAP 作为证据等级评定与跨项目可比性制度门槛的刚性治理功能 | 证据中介机构运营、[[What Works Clearinghouse\|WWC]]/EEF 清算标准 | The EEF (2018, 2019c); Boulay et al. (2018) |

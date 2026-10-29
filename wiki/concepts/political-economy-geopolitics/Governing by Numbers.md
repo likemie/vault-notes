@@ -16,7 +16,7 @@ aliases:
 summary: "指通过量化指标、跨国测评与数据比较实现全球教育治理的软性机制，又译数目化治理或以数字治理。Grek (2009) 奠基该概念，Rizvi 与 Lingard (2009) 揭示经合组织依托 PISA 自建跨国等价空间并推行“数字即政策”，以技术排位压制价值判断并维系知识经济社会想象；Steiner-Khamsi et al.（2024）进一步拓展为数目化治理 2.0，聚焦信息过载下政策中介的证据包装与组织利基争夺。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -29,6 +29,7 @@ tags:
   - theme/global-governance
 related_concepts:
   - "[[Policy Brokerage]]"
+  - "[[Document]]"
   - "[[Space of Equivalence]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
@@ -94,7 +95,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-05
-updated: 2026-10-27
+updated: 2026-10-29
 ---
 
 ---
@@ -106,7 +107,7 @@ updated: 2026-10-27
 > - **含义** 教育治理依托数据生产、排名比较、指标标准化以及政策中介的证据包装，以软治理方式引导各国教育政策向特定方向协调推进。
 > - **用途** 用于分析国际组织（尤其是 [[OECD]] 与[[World Bank|世界银行]]）如何通过评估工具以“软治理”方式重塑各国教育政策议程，以及量化数据如何在政治决策中获得合法性。
 > - **边界** 不等于传统自上而下的科层治理或法律强制——数字治理依赖的是信息的权威性和比较压力，而非直接命令；亦非中立的科学传播，数据生产与中介转译本身包含政治性的分类、标准化与排他性网络逻辑。
-> - **译名与消歧** 英文标题兼具 *Governing by Numbers*（动名词形态，强调治理实践）与 *Governance by Numbers*（名词形态，如 Steiner-Khamsi et al., 2024；Supiot, 2017）；中文文献并存“数目化治理”（承接统计政治学与计算理性传统，如谢爱磊等 2021）与“数字治理 / 以数字治理”（如 Grek 2009 与 Steiner-Khamsi 2024 译介）。需严格区别于电子政务与信息通信技术层面的“数字化治理 / 数字治理”（Digital Governance）。
+> - **译名与消歧** 英文标题兼具 *Governing by Numbers*（动名词形态，强调治理实践）与 *Governance by Numbers*（名词形态，如 Steiner-Khamsi et al., 2024；Supiot, 2017）；中文[[Document|文献]]并存“数目化治理”（承接统计政治学与计算理性传统，如谢爱磊等 2021）与“数字治理 / 以数字治理”（如 Grek 2009 与 Steiner-Khamsi 2024 译介）。需严格区别于电子政务与信息通信技术层面的“数字化治理 / 数字治理”（Digital Governance）。
 
 > [!citation-card] 数字治理 2.0 的研究议程
 > 数字治理 2.0 比较研究计划基于多学科（历史、政治学、跨学科政策研究）的解释框架，提出一种跨国的、关系性的调查方法，聚焦全球/国家的关联，考察国际组织如何将政策中介发展为全球治理工具，以及主权国家政府在政策周期各阶段的策略性应对。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, p. 538)]]
@@ -169,10 +170,8 @@ updated: 2026-10-27
 
 ---
 
-### 命题一　跨国量化评估构筑起无需强制法律的远距离软治理机制
-
-> [!concept-lens] 软治理与排名问责
-> 探讨国际组织如何将教育系统表现转化为跨国数据，从而行使[[Soft Power\|软性权力]]。
+> [!concept-proposition] 命题一｜跨国量化评估构筑起无需强制法律的远距离软治理机制
+> **探讨维度　软治理与排名问责** 探讨国际组织如何将教育系统表现转化为跨国数据，从而行使[[Soft Power\|软性权力]]。
 
 > [!claim] [[Argument_Grek_2009_JEdPolicy|Grek (2009)]]
 > **信息生产与软性权力机制** [[PISA]] 代表的数字治理机制通过将教育系统表现量化为跨国可比的排名和数据，使 [[OECD]] 能够在不对各国施加法律强制的情况下引导全球教育改革方向。[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, pp. 23–26, 34–35)]]
@@ -185,20 +184,16 @@ updated: 2026-10-27
 
 ---
 
-### 命题二　数字治理 2.0 将治理中枢拓展至政策中介的证据筛选与周期博弈
-
-> [!concept-lens] 信息过载与政策周期过滤
-> 探讨从 1.0 的测验排名推进至 2.0 阶段的[[Policy Brokerage|政策中介]]竞争与国家政策周期的多阶段过滤。
+> [!concept-proposition] 命题二｜数字治理 2.0 将治理中枢拓展至[[Policy Brokerage|政策中介]]的证据筛选与周期博弈
+> **探讨维度　信息过载与政策周期过滤** 探讨从 1.0 的测验排名推进至 2.0 阶段的[[Policy Brokerage|政策中介]]竞争与国家政策周期的多阶段过滤。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]
 > **中介证据包装与行政出台阶段的政治过滤** 在信息过载与[[Surplus of Evidence|证据过剩]]的数字经济下，数字治理进入 2.0 阶段；国际组织转向通过长期扮演政策中介，将测评工具与辅助知识打包以确立组织利基。在国家政策周期中，跨国中介证据在议程设置阶段被广泛动员，但在行政部门颁布法令的法定决策阶段，主权国家官僚往往展现出强烈的自主筛选与政治过滤倾向。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 544–547)]]
 
 ---
 
-### 命题三　量化知识的深度武器化激化了跨国治理复合体内部的利基争夺
-
-> [!concept-lens] 知识武器化与利基壁垒
-> 分析各大国际组织如何将指标与测评工具转化为维系自身排他性权力同盟与资助地盘的武器。
+> [!concept-proposition] 命题三｜量化知识的深度武器化激化了跨国治理复合体内部的利基争夺
+> **探讨维度　知识武器化与利基壁垒** 分析各大国际组织如何将指标与测评工具转化为维系自身排他性权力同盟与资助地盘的武器。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, Martens, et al. (2024)]]
 > **量化知识的排他性武器化与多边利基割据** 在数字治理 2.0 阶段，量化指标与测评工具不仅被用于向受测主权国家施加问责压力，更在跨国机构之间被深度“武器化”（weaponised），演变为各大国际组织维系专属治理领地、防范职能被蚕食的防御性制度武器。尽管跨国组织在修辞上高调宣称多边协同（如发起 [[Building Evidence in Education|BE2]] 智库联盟），但在实践中极力捍卫自身不可替代的测量品牌与项目资助利基。例如当[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]共同发起“[[Learning Data Compact|学习数据协定]]”（Learning Data Compact）意图整合多边评估格局时，经合组织明确拒绝加入，转而独立与德国开发署合作推广 [[PISA for Development|PISA-D]]，揭示出数字治理表面量化中立性掩盖下的跨国地盘割据与制度权力同盟。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi, Martens, et al., 2024, pp. 539, 549–550)]]
@@ -254,7 +249,7 @@ updated: 2026-10-27
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024, p. 547)]] | 挪威能力课程改革（5 个专家委员会文献 vs 最终颁布的部长令） | 跨国政策咨询文献引用网络追踪分析 | 专家委员会参考文献总数 vs 最终进入部长令的文献数 | 专家委员会总计列入 464 篇文献，最终仅有 22 篇被部长令引用；且被引的 22 篇中有 20 篇全部来自专门审查[[OECD\|经合组织]] DeSeCo 项目的同一专家委员会 | — | 强有力证明国家行政当局在法定决策阶段对数字治理中介知识的极端选择性吸收与政治过滤 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024, p. 547)]] | 挪威能力课程改革（5 个专家委员会[[Document\|文献]] vs 最终颁布的部长令） | 跨国政策咨询文献引用网络追踪分析 | 专家委员会参考文献总数 vs 最终进入部长令的文献数 | 专家委员会总计列入 464 篇文献，最终仅有 22 篇被部长令引用；且被引的 22 篇中有 20 篇全部来自专门审查[[OECD\|经合组织]] DeSeCo 项目的同一专家委员会 | — | 强有力证明国家行政当局在法定决策阶段对数字治理中介知识的极端选择性吸收与政治过滤 |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024, pp. 544, 549)]] | 全球 30 个涉教育政府间组织（IOs）；世界银行 [[Systems Approach for Better Education Results\|SABER]] 与教育回报率数据库 | 跨国治理机构职能数据库追踪；多边政策工具计量普查 | 经济类国际组织占比；指标与基准工具规模 | 涉教育国际组织中 33.3% 为非专门的经济合作协调组织；[[World Bank\|世界银行]] SABER 涵盖 1,600 余项系统性指标，政策仓库汇聚 1,120 项教育回报率自指性研究 | — | 实证揭示跨界经济组织在数字治理中的主导地位，以及跨国中介依赖自指性量化证据建构组织利基的规模 |
 > | [[Argument_Grek_2009_JEdPolicy\|Grek (2009, pp. 25, 29, 32)]] | 芬兰、德国与英国对 PISA 2000 的政策与媒体反响；[[European Commission\|欧盟委员会]]与 OECD 的跨国教育数据合作 | 多层级质性案例比较；政策档案与[[Elite Interview\|关键知情人访谈]] | 媒体报道篇幅；PISA 预算在经合组织教育局占比；[[EU\|欧盟]][[Lisbon Strategy\|里斯本战略]]指标对 OECD 数据的依赖率 | 德国媒体刊发 687 个版面，芬兰仅 8 个版面，英国首发日刊发 9 篇主要报纸头条；PISA 占经合组织教育局预算约 30%；欧盟里斯本战略指标报告中 50%–60% 数据来自 OECD（[[UOE Data Collection\|UOE]] 占 60%），欧盟承担 80% 成员国参与成本 | — | 实证印证数字治理通过媒体危机动员、跨国等价[[Space Production\|空间生产]]与超国家机构间的数据资助共生发挥规制功能 |
 

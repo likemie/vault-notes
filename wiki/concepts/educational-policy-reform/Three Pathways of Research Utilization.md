@@ -9,7 +9,7 @@ aliases:
 summary: "由吉塔·施泰纳-哈姆西等学者在联合国教科文组织全球战略审查中系统阐发的研究利用行动框架，基于贝斯特与霍姆斯（2010）三代模型及奥利弗等（2021）跨国中介实践研究，将循证政策转化重构为线性产品型、关系协同型与系统制度型三大共存互补路径，突破了单一自上而下的政策简报推送范式。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 16
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ tags:
 related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[Research Utilization]]"
+  - "[[Document]]"
   - "[[Knowledge Production]]"
   - "[[Policy Fellowships and Placements]]"
   - "[[Knowledge Co-production]]"
@@ -31,6 +32,7 @@ related_concepts:
 related_theories:
   - "[[Knowledge-to-Action Models]]"
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Deliberative Policy Dialogue]]"
   - "[[Systematic Review]]"
 related_instruments: []
@@ -45,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -53,7 +55,7 @@ updated: 2026-10-26
 > [!concept-lens] 概念透镜
 > - **含义** 指涉将科学研究证据转化为政策规划与实践行动时必须同步推进的三大相互依赖的行动维度：产品型线性转化、关系型协同网络与系统型制度生态。
 > - **用途** 用于诊断政策部门为何陷入“海量简报发布却收效甚微”的困局，并指导跨国组织和教育部委系统性规划循证支持举措。
-> - **边界** 属于宏观与中观[[Output-Oriented Governance|循证治理]]的综合干预框架，不直接规定单项实证研究在实验设计中的内部有效性标准。
+> - **边界** 属于宏观与中观[[Output-Oriented Governance|循证治理]]的综合干预框架，不直接规定单项实证研究在[[Experimental Research|实验设计]]中的内部有效性标准。
 
 > [!def] Three Pathways of [[Research Utilization]]
 > 研究证据利用三维路径（Three Pathways of Research Utilization）是由吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者在[[UNESCO|联合国教科文组织]]《[[Global Education Monitoring Report|全球教育监测报告]]》背景战略审查中确立的治理框架。该框架基于艾伦·贝斯特与鲍勃·霍姆斯（Allan Best & Bob J. Holmes, 2010）提出的三代知识转化演进理论，并结合凯瑟琳·奥利弗等（Kathryn Oliver et al., 2021）在 41 国逾 2,000 项倡议中提炼的 9 大中介实践，系统界定了有效促进实证采纳的三大协同路径：**线性路径（Linear Approaches，以产品为中心）**、**关系型路径（Relational Approaches，以人际协同为中心）** 与**系统型路径（Systemic Approaches，以使能制度为中心）**。框架强调这三条路径构成累积共存、层层递进且相互支撑的共生生态。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 15–16, 40–43, 66–67)]]
@@ -67,7 +69,7 @@ updated: 2026-10-26
 > ![图5.2：全球教育循证治理变革建议三轨架构总览](https://img.mylikemie.icu/sources/Steiner-Khamsi_2024_UNESCO/figures/Steiner-Khamsi_2024_UNESCO_Fig5-2_Summary_Recommendations_Tracks.jpg)
 
 > [!feature] 核心要素
-> - **线性路径（Linear Approaches / Relevant Products）** 聚焦研究产出的单向分发与吸收。通过研究者“推送（Push）”政策简报、最佳实践清单（What Works），或决策者通过议会图书馆服务“拉取（Pull）”定制化文献，侧重于降低信息获取门槛与提高文本可读性。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 15, 66)]]
+> - **线性路径（Linear Approaches / Relevant Products）** 聚焦研究产出的单向分发与吸收。通过研究者“推送（Push）”政策简报、最佳实践清单（What Works），或决策者通过议会图书馆服务“拉取（Pull）”定制化[[Document|文献]]，侧重于降低信息获取门槛与提高文本可读性。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 15, 66)]]
 > - **关系型路径（Relational Approaches / Collaborative Relationships）** 聚焦[[Knowledge Production|知识生产]]者与使用者之间的互动与技能培养。通过组建跨部门研究联合体、召开[[Deliberative Policy Dialogue|避风港政策对话]]、推行学者与官员轮岗挂职（[[Policy Fellowships and Placements|Policy Fellowships]]），将单向传达拓展为双向互学与知识共同生产（[[Knowledge Co-production|Co-production]]）。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 15–16, 66)]]
 > - **系统型路径（Systemic Approaches / Enabling Systems）** 聚焦构建促进知识流动的体制化环境。通过确立跨部门战略领导力、设立部委常设知识转化平台（如 KTPs 架构）、改革高校与智库对政策贡献的考核激励机制，并配置长期可预测的专属资金流，保障循证生态免受政党轮替冲击。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 16, 66–67)]]
 
@@ -85,20 +87,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　单纯依赖线性产品推送存在边际递减，必须由关系型协同提供信任土壤
-
-> [!concept-lens] 线性模式的认知局限与关系型互补
-> 考察为何仅靠优化简报排版和搭建数据库无法自发驱动政策采纳。
+> [!concept-proposition] 命题一｜单纯依赖线性产品推送存在边际递减，必须由关系型协同提供信任土壤
+> **探讨维度　线性模式的认知局限与关系型互补** 考察为何仅靠优化简报排版和搭建数据库无法自发驱动政策采纳。
 
 > [!claim] [[Gita Steiner-Khamsi|Steiner-Khamsi, G.]] et al.
 > **信息超载与关系信任的不可替代性** 吉塔·施泰纳-哈姆西（Gita Steiner-Khamsi）等学者指出，在海量[[Surplus of Evidence|证据过剩]]背景下，单纯增设网站与印发简报只会加剧决策者的甄别负荷，甚至引发对商业化营销研究的犬儒主义怀疑。公共卫生领域的[[Systematic Review|系统综述]]表明，被动式信息推送效果最弱；决策者真正采纳证据的前提是与研究团队建立长期的互信关系。只有通过联合界定改革议题与共同生产知识，才能使外部证据获得本土行政合法性。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 14–16, 34–35)]]
 
 ---
 
-### 命题二　关系型合作若缺乏系统型制度与专属资金支撑，极易因人事更迭而碎片化瓦解
-
-> [!concept-lens] 制度化使能环境对人际协作的托底作用
-> 探讨如何防止个别学者与官员之间的私人关系因政党轮替或调离而中断。
+> [!concept-proposition] 命题二｜关系型合作若缺乏系统型制度与专属资金支撑，极易因人事更迭而碎片化瓦解
+> **探讨维度　制度化使能环境对人际协作的托底作用** 探讨如何防止个别学者与官员之间的私人关系因政党轮替或调离而中断。
 
 > [!claim] Steiner-Khamsi, G. et al.
 > **系统制度化对组织脆弱性的免疫机制** 课题研究团队论证，依赖个别开明官员或明星学者的微观人际网络极度脆弱。发展中国家部委高官平均任期仅为 12–14 个月，政党轮替常导致既有合作全盘搁置。克服这种脆弱性必须向系统型路径升级：通过在部委内部设立法定证据评估处室、建立国家知识转化平台（KTPs）以及设立长效专属资助，使证据利用从自发的人际互动固化为科层规程。[[Argument_Steiner-Khamsi_2024_UNESCO|(Steiner-Khamsi, Faul, et al., 2024, pp. 35–37, 40–43)]]

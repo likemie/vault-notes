@@ -8,7 +8,7 @@ aliases:
 summary: "以真实驱动性问题为核心、以持续协作探究为路径、以生成并公开展示真实制品为导向的学生中心教学模式，能显著激发创造力与高阶思维，但高度依赖认知脚手架与自我调节能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -56,13 +56,14 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John Dewey]]"
-related_facts: []
+related_facts:
+  - "[[ASEAN Credit Transfer System]]"
 related_arguments:
   - "[[Argument_Zhao_2025_JIntell]]"
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 > [!def] Project-Based Learning
@@ -81,7 +82,7 @@ updated: 2026-10-25
 > [!citation-card] 项目式学习的定义与认知定位
 > 项目式学习强调以学习者为中心、探究驱动的活动，学生通过参与现实世界的项目来[[Constructed Knowledge\|建构知识]]。在此情境下，生成式人工智能可充当有价值的认知伙伴，提供多元资源与多维视角，赋能学生自主探索和解决复杂问题。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]
 >
-> *PBL emphasizes learner-centered, inquiry-driven activities, where students engage in real-world projects to [[Construct]] knowledge. In this context, Gen-AI acts as a valuable cognitive partner, offering diverse resources and perspectives, and enabling students to explore and solve complex problems autonomously.*
+> *PBL emphasizes learner-centered, inquiry-driven activities, where students engage in real-world projects to [[Construct]] knowledge. In this context, Gen-AI [[ASEAN Credit Transfer System|acts]] as a valuable cognitive partner, offering diverse resources and perspectives, and enabling students to explore and solve complex problems autonomously.*
 
 ---
 
@@ -119,20 +120,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　项目式学习依托真实情境与制品导向深度激活高阶思维
-
-> [!concept-lens] 真实情境与高阶认知参与
-> 探究驱动型任务如何通过打破被动听讲模式，将认知负荷转化为促进深层理解的生成性投入，从而全面激活学习者的[[Divergent Thinking\|发散思维]]、[[Critical Thinking\|批判性思维]]与综合[[Creativity\|创造力]]。
+> [!concept-proposition] 命题一｜项目式学习依托真实情境与制品导向深度激活[[Higher-Order Thinking Skills|高阶思维]]
+> **探讨维度　真实情境与高阶认知参与** 探究驱动型任务如何通过打破被动听讲模式，将认知负荷转化为促进深层理解的生成性投入，从而全面激活学习者的[[Divergent Thinking\|发散思维]]、[[Critical Thinking\|批判性思维]]与综合[[Creativity\|创造力]]。
 
 > [!claim] Zhao et al.
 > **探究驱动与[[Higher-Order Thinking Skills\|高阶思维]]的深度赋能机制** 项目式学习强调以学习者为中心的探究活动，学生通过投身现实世界项目来[[Constructed Knowledge\|建构知识]]体系。相较于传统被动灌输式的课堂组织，项目式学习要求学生综合运用多学科概念以应对复杂挑战，这种深度的认知投入促使学生跳出线性思维定式，在方案设计中持续进行方案发散与批判性审思，显著激发了学生的高阶思维潜能。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12, 16)]]
 
 ---
 
-### 命题二　智能认知伙伴的融入显著放大项目式学习的探究效能
-
-> [!concept-lens] 智能认知伙伴与探究[[Scaffolding\|脚手架]]协同
-> 探讨[[Generative Artificial Intelligence\|生成式人工智能]]等前沿技术在复杂项目式任务中如何超越信息源角色，演化为多维认知脚手架与协作探究伙伴，实现[[Educational Affordances\|技术可供性]]与教学法的高阶协同。
+> [!concept-proposition] 命题二｜智能认知伙伴的融入显著放大项目式学习的探究效能
+> **探讨维度　智能认知伙伴与探究[[Scaffolding\|脚手架]]协同** 探讨[[Generative Artificial Intelligence\|生成式人工智能]]等前沿技术在复杂项目式任务中如何超越信息源角色，演化为多维认知脚手架与协作探究伙伴，实现[[Educational Affordances\|技术可供性]]与教学法的高阶协同。
 
 > [!claim] Zhao et al.
 > **智能认知伙伴与自主探究协同机制** 在项目式学习情境中，生成式人工智能能够充当有价值的认知伙伴，为处于复杂探究过程中的学生提供多元化的资源支撑与多重视角启发，赋能学生自主探索并解决复杂问题。当技术工具与探究驱动型教学深度融合时，技术的生成潜能与教学模式的高交互特质产生乘数效应，能够更有力地支撑高阶思维的发展。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 16)]]

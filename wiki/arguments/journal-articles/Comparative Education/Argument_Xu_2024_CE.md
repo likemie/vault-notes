@@ -9,7 +9,7 @@ title: "Argument_Xu_2024_CE"
 argument_key: "Argument_Xu_2024_CE"
 argument_display_title: "'One country, two narratives' of China as a nation: comparing Chinese history education in mainland China and Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -26,6 +26,7 @@ tags:
   - method/comparative-analysis
   - paradigm/constructivist
 related_concepts:
+  - "[[Document]]"
   - "[[Research Question]]"
   - "[[Paradigm]]"
   - "[[Zhonghua Minzu]]"
@@ -54,7 +55,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-26
-updated: 2026-10-23
+updated: 2026-10-29
 year: 2024
 doi: ""
 citation_aliases:
@@ -66,7 +67,7 @@ citation_aliases:
 > [!question]
 > 学校历史教育如何塑造学生关于集体归属与外人界限的集体记忆？在多民族国家以及存在中心-边缘张力的体制下，历史教科书既可以作为凝聚国家的制度纽带，也可以成为强化族群对立的文化装置。
 >
-> 既有研究已指出大陆历史课程倾向将中国叙述为统一多民族国家，而香港历史课程倾向将其叙述为以汉族为中心的族裔文化国家。然而，既有文献存在两大关键理论与经验缺口：
+> 既有研究已指出大陆历史课程倾向将中国叙述为统一多民族国家，而香港历史课程倾向将其叙述为以汉族为中心的族裔文化国家。然而，既有[[Document|文献]]存在两大关键理论与经验缺口：
 >
 > 1. **缺乏直接比较与近期数据更新** 早期代表性研究（如 Lo 2004, 2007）数据陈旧，且两地初中中国历史教科书的直接量化与定性对比分析极为匮乏，无法反映过去十年两地政治整合加速后的教育实况。
 > 2. **族群视角遮蔽了领土维度** 绝大多数研究过度关注少数民族在教科书中的呈现与边饰化，忽视了执政党在国家叙事中极为强调的领土完整性。Baranovitch (2010) 曾明确指出：统一多民族国家观将中国设定为领土国家（territorial nation），其国界锚定于物理领土；而族裔文化观则将国界锚定于汉族。
@@ -145,7 +146,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤一　分析工具构建：从 Brubaker 理论模型到国家观对比指标
+> [!claim|step] 论证步骤一　分析工具构建：从 Brubaker 理论模型到国家观对比指标
 > 理解两地教科书叙事差异的前提，是建立一个能将族群与领土要素解耦的分析架构。Brubaker 的构成性与表达性模型与 Lu (2017) 的对比指标共同构成了量化与定性分析的检查清单。
 
 > [!contrast-table] 构成性与表达性框架在国家建构中的两种运作模式
@@ -157,7 +158,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤二　族群维度（血缘与文化原初边界 vs 政治与领土包容大家庭）
+> [!claim|step] 论证步骤二　族群维度（血缘与文化原初边界 vs 政治与领土包容大家庭）
 > 在族群维度（Ethnicity，香港占比 6.71% vs 大陆占比 3.90%），香港教科书将汉族设立为中国不可动摇的原初边界，而大陆教科书切断了华夏族与现代国家的唯一绑定，将所有民族包容进[[Zhonghua Minzu\|中华民族]]大家庭。
 
 > [!tension] 族群认同与边界定义的路径冲突
@@ -170,7 +171,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤三　领土与地理政治维度（动态历史疆界 vs 当代版图古代逆向投影）
+> [!claim|step] 论证步骤三　领土与地理政治维度（动态历史疆界 vs 当代版图古代逆向投影）
 > 领土维度（Territory）是两组教材差异最悬殊的领域（大陆占比 21.90% vs 香港占比 5.55%，篇幅相差近 4 倍）。大陆教科书将当代中华人民共和国领土边界逆向投影至古代，香港教科书则承认领土随朝代兴替而历史性变化。
 
 > [!exegesis]- 文本修辞与地图命名策略解密
@@ -185,7 +186,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤四　政治军事冲突维度（外族侵略保卫战 vs 大家庭内部冲突与统一大业）
+> [!claim|step] 论证步骤四　政治军事冲突维度（外族侵略保卫战 vs 大家庭内部冲突与统一大业）
 > 政治冲突（Political Conflicts，香港占比 39.42% vs 大陆占比 24.11%）在香港教材中被描绘为独立的政权间侵略与保卫战，且压倒性站在汉方（86.15%）；在大陆教材中则被再构造成同属一个国家的大家庭内部摩擦或统一大业。
 
 > [!contrast-table] 军事冲突的动词修辞与视角差异
@@ -206,7 +207,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤五　文化互动维度（显性汉化同化论 vs 隐性先进性与风险回避）
+> [!claim|step] 论证步骤五　文化互动维度（显性汉化同化论 vs 隐性先进性与风险回避）
 > 文化互动（Cultural Interactions）是两地篇幅最高的主题（大陆 50.08% vs 香港 48.32%）。两地均承认汉文化优越性（非汉向汉学习占比：香港 79.37% vs 大陆 72.26%），但香港教材显性宣扬[[Sinicisation\|汉化]]与同化，而大陆教材采用隐性表述并回避敏感的非汉压迫政策。
 
 > [!evidence-grid] 汉文化优越性表达的显性与隐性文本证据
@@ -217,7 +218,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤六　社会政治驱动力拆解与两地叙事体制的历史演进
+> [!claim|step] 论证步骤六　社会政治驱动力拆解与两地叙事体制的历史演进
 > 两地教科书的一国两叙绝非偶然，而是根植于两地截然不同的社会政治体制、国家统治需要与历史遗产。大陆模式驱动于国家事权集中控制，香港模式则源于殖民时期合作契约与[[Qian Mu\|钱穆]]等文化保守主义者的学术遗产，并在 2019 年后迎来了自上而下的强行转型。
 
 > [!dev-timeline] 两地教科书社会政治驱动力与历史演变脉络
@@ -228,7 +229,7 @@ citation_aliases:
 
 ---
 
-> [!claim] 论证步骤七　理论总结：历史教育中的国家建构本质上是社会政治情境下的历史重释
+> [!claim|step] 论证步骤七　理论总结：历史教育中的国家建构本质上是社会政治情境下的历史重释
 > 历史教育中的国家建构本质上是一种重新阐释过去以反映当前情境与需求的社会政治实践。教科书不是记录历史的中性工具，而是制造[[Official Knowledge\|官方知识]]的政治-文化装置。
 
 > [!warrant]- 最终推理桥梁

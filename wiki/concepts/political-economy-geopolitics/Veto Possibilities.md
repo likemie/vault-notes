@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -101,20 +101,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　政治否决可能性限定行动者的策略可行域并排除激进直接替代
-
-> [!concept-lens] 结构约束与策略筛选
-> 阐明政治语境中的否决阻力如何压缩行动者的行动方案空间。
+> [!concept-proposition] 命题一｜政治否决可能性限定行动者的策略可行域并排除激进直接替代
+> **探讨维度　结构约束与策略筛选** 阐明政治语境中的否决阻力如何压缩行动者的行动方案空间。
 
 > [!claim] [[James Mahoney|Mahoney, J.]] & [[Kathleen Thelen|Thelen, K.]]
 > **直接替代路径的结构性封杀** 当政治体系中存在强否决可能性时，任何旨在废除既有规则（置换）或公开通过立法重立目标（转换）的尝试都会在立法院或司法端遭遇致命阻击；因此，强否决可能性在结构上强制筛选行动者放弃正面交锋，转而寻求不触动旧规则外壳的迂回演化路径。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 19–20)]]
 
 ---
 
-### 命题二　强否决可能性构筑了旧规则形式免于废除但放任实质侵蚀的掩体
-
-> [!concept-lens] 制度形式维系与实质效能脱节
-> 论证强否决阻力如何反向促成[[Institutional Layering|制度层叠]]与[[Institutional Drift|制度漂移]]。
+> [!concept-proposition] 命题二｜强否决可能性构筑了旧规则形式免于废除但放任实质侵蚀的掩体
+> **探讨维度　制度形式维系与实质效能脱节** 论证强否决阻力如何反向促成[[Institutional Layering|制度层叠]]与[[Institutional Drift|制度漂移]]。
 
 > [!claim] Mahoney, J. & Thelen, K.
 > **否决掩体与内生侵蚀** 强否决阻力表面上捍卫了旧制度法条的完整性，防止守旧派被公开剥夺；但这一刚性保护机制同时刺激了挑战者在旧体制顶端附加新层叠规则，或诱使套利者在缺乏规则更新的情形下放任制度效能漂移；强否决最终常常孕育出最深刻的实质性制度侵蚀。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 20–22)]]

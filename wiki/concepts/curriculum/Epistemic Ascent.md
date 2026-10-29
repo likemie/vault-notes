@@ -7,10 +7,10 @@ aliases:
 summary: "学习者在学科中从具体经验与运算规则向高阶抽象概念体系逐步演进的认知与课程发展路径；在实证因果数据匮乏情境下，学科公理演进与认识论上升成为课程标准与学习进阶研制的根本推理基石"
 type: concept
 domain: "curriculum"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/curriculum
   - epistemology
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Formative Assessment]]"
   - "[[Problem Solving]]"
+  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Regulative and Instructional Discourse]]"
   - "[[Powerful Knowledge]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-06'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -113,20 +114,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　在实证因果证据缺乏的课程领域，学科公理推演构成了认识论上升设定的根本推理基石
-
-> [!concept-lens] 实证盲区下的规范性学科演绎机制
-> 探讨当大规模[[Experimental Research|实验研究]]或实证因果数据缺位时，课程标准研制团队如何确立跨学段概念深化与年级分布的合理依据。
+> [!concept-proposition] 命题一｜在实证因果证据缺乏的课程领域，学科公理推演构成了[[Epistemology|认识论]]上升设定的根本推理基石
+> **探讨维度　实证盲区下的规范性学科演绎机制** 探讨当大规模[[Experimental Research|实验研究]]或实证因果数据缺位时，课程标准研制团队如何确立跨学段概念深化与年级分布的合理依据。
 
 > [!claim] [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]]
-> **学科逻辑推演对因果实证空白的替代功能** 起草全美[[Common Core State Standards|共同核心州立标准]]（CCSS）时，小学低段数学尚有成熟的儿童认知发展心理学证据支持，但初高中高阶数学标准面临严重的因果实证文献空白。起草专家（Daro, McCallum, Zimba）依托数学学科自身的公理结构与概念进阶规律，从数与代数的基本性质推演到高阶函数与微积分准备，通过严格的学科逻辑演绎确立了标准的年级纵向布局；该案例表明，在实证数据无法覆盖的领域，严密的学科内生[[Epistemology|认识论]]上升推演充当了不可或缺的理性决策基础。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 14, 22)]]
+> **学科逻辑推演对因果实证空白的替代功能** 起草全美[[Common Core State Standards|共同核心州立标准]]（CCSS）时，小学低段数学尚有成熟的儿童认知发展心理学证据支持，但初高中高阶数学标准面临严重的因果实证[[Document|文献]]空白。起草专家（Daro, McCallum, Zimba）依托数学学科自身的公理结构与概念进阶规律，从数与代数的基本性质推演到高阶函数与微积分准备，通过严格的学科逻辑演绎确立了标准的年级纵向布局；该案例表明，在实证数据无法覆盖的领域，严密的学科内生[[Epistemology|认识论]]上升推演充当了不可或缺的理性决策基础。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 14, 22)]]
 
 ---
 
-### 命题二　认识论上升若脱离一线教学实践的具象检验，易异化为脱离课堂现实的抽象学术推演
-
-> [!concept-lens] 抽象学科逻辑与具体课堂情境的现实张力
-> 探讨高度抽象的学术公理推演如何转化为一线普通教师可教、普通学生可学的现实课程进程。
+> [!concept-proposition] 命题二｜认识论上升若脱离一线教学实践的具象检验，易异化为脱离课堂现实的抽象学术推演
+> **探讨维度　抽象学科逻辑与具体课堂情境的现实张力** 探讨高度抽象的学术公理推演如何转化为一线普通教师可教、普通学生可学的现实课程进程。
 
 > [!claim] [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]]
 > **规约[[Discourse|话语]]挤压与概念标记缺失的双重危机** 在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中，虽然政策文本宣称关注认识论上升，但由于[[Regulative and Instructional Discourse|规约性话语]]压倒了教学性话语，[[Big Ideas|大概念]]往往沦为宽泛的价值宣言，未能与学科具体的概念层次和认识论结构精准对接，导致认识论上升缺乏明确的概念标记和教学路标，课程设计出现系统性认识论混乱。[[Argument_McPhail_2023_JCS|(McPhail et al., 2023, pp. 520–523)]]

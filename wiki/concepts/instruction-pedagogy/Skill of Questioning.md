@@ -11,7 +11,7 @@ aliases:
 summary: "指认识主体在探究过程中有效构思、表达、调整和深化问题的可习得认知程序性技能。区别于作为理智品格的美德，提问技能聚焦于问题结构的精细化与探究路径的定向。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ tags:
   - philosophy-of-education
 related_concepts:
   - "[[Epistemology]]"
+  - "[[Deliberate Practice]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Scaffolding]]"
   - "[[Epistemic Virtues and Vices]]"
@@ -37,12 +38,13 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Counterfactual]]"
   - "[[Man-Computer Symbiosis]]"
+  - "[[Generative Artificial Intelligence]]"
   - "[[Cognitive Deskilling]]"
   - "[[Working Memory]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Critical Thinking]]"
+  - "[[Teacher Questioning]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Generative Artificial Intelligence]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Virtue Epistemology]]"
@@ -57,13 +59,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Skill of Questioning
-> 提问技能（Skill of Questioning）是指认识主体在学习与求知过程中，能够清晰表达自身认知缺口、合逻辑地构建具有高阶认知价值的问题、并依据探究情境灵活调整问题焦点与层次的可习得智力技能。在教育[[Epistemology|认识论]]中，提问技能构成了智力技能（Intellectual Skills）的核心支柱，其可以通过刻意练习与外部支架训练掌握；但拥有提问技能并不等同于具备追求真理的理智品格，若缺乏对认知善品（Epistemic Goods）的内在热爱，提问技能可能被异化为诡辩或功利性应试工具。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 272–274)]]
+> 提问技能（Skill of Questioning）是指认识主体在学习与求知过程中，能够清晰表达自身认知缺口、合逻辑地构建具有高阶认知价值的问题、并依据探究情境灵活调整问题焦点与层次的可习得智力技能。在教育[[Epistemology|认识论]]中，提问技能构成了智力技能（Intellectual Skills）的核心支柱，其可以通过[[Deliberate Practice|刻意练习]]与外部支架训练掌握；但拥有提问技能并不等同于具备追求真理的理智品格，若缺乏对认知善品（Epistemic Goods）的内在热爱，提问技能可能被异化为诡辩或功利性应试工具。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 272–274)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认知主体识别知识边界、将模糊好奇转化为结构化探究指令并推动深层理解的程序性智力操作能力。
@@ -110,10 +112,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　提问技能是驱动个性化理解与深层探究的程序性认知中枢
-
-> [!concept-lens] 认知机制与理解建构
-> 探讨提问技能如何作为[[Scaffolding|认知脚手架]]，将静态信息转化为学习者的个性化[[Knowledge Building Theory|知识建构]]。
+> [!concept-proposition] 命题一｜提问技能是驱动个性化理解与深层探究的程序性认知中枢
+> **探讨维度　认知机制与理解建构** 探讨提问技能如何作为[[Scaffolding|认知脚手架]]，将静态信息转化为学习者的个性化[[Knowledge Building Theory|知识建构]]。
 
 > [!claim] Naeem, H.
 > **认知图式的主动连接** 学生的理解具有高度个性化特征，取决于其将新概念与独特前序知识相联结的方式。提问技能使学习者能够主动构想符合自身认知结构的高质量问题，从而引导有价值的探究路径并实现深层概念理解，避免沦为被动的信息接收者。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 274–276)]]
@@ -123,10 +123,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　提问技能是开启多元视角、通往思想开放与认知去中心化的核心程序通道
-
-> [!concept-lens] 提问驱动的视角转换与[[Open-Mindedness|思想开放]]
-> 探讨提问技能如何通过激活[[Counterfactual|反事实]]追问与多元解释生成，打破非黑即白的二元论，为养成思想开放美德奠定技术基石。
+> [!concept-proposition] 命题二｜提问技能是开启多元视角、通往[[Open-Mindedness|思想开放]]与认知去中心化的核心程序通道
+> **探讨维度　提问驱动的视角转换与[[Open-Mindedness|思想开放]]** 探讨提问技能如何通过激活[[Counterfactual|反事实]]追问与多元解释生成，打破非黑即白的二元论，为养成思想开放美德奠定技术基石。
 
 > [!claim] [[Argument_Naeem_2026_Episteme\|Naeem (2026)]]
 > **多答案追问规约与思想开放技能的习得** 提问技能不仅用于澄清已知，更是打破思维僵化与先入偏见的关键工具。在[[Man-Computer Symbiosis|人机协同]]或教学探究中，通过引导学生构思能够诱导“多个可能答案”而非单一标准答案的开放性问题，并追问不同回答背后的论据支撑，提问技能直接训练了认识主体生成和审视替代性视角的胜任力。这一程序性操作构成了培育[[Open-Mindedness|思想开放]]（Open-Mindedness）[[Epistemic Virtues and Vices|理智美德]]不可或缺的技能阶梯。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 273, 278–280)]]
@@ -136,10 +134,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题三　生成式人工智能可作为提问技能的反向训练脚手架而非答案替代机
-
-> [!concept-lens] 人机交互重构与[[Cognitive Deskilling|去技能化]]防范
-> 探讨如何通过转变人工智能交互[[Paradigm|范式]]，将技术从引发认知退化的答案机器重塑为强化提问技能的启发式对话伙伴。
+> [!concept-proposition] 命题三｜[[Generative Artificial Intelligence|生成式人工智能]]可作为提问技能的反向训练脚手架而非答案替代机
+> **探讨维度　人机交互重构与[[Cognitive Deskilling|去技能化]]防范** 探讨如何通过转变人工智能交互[[Paradigm|范式]]，将技术从引发认知退化的答案机器重塑为强化提问技能的启发式对话伙伴。
 
 > [!claim] Naeem, H.
 > **提问导师系统的双向训练范式** 传统聊天机器人直接提供现成答案，剥夺了学生锻炼[[Working Memory|工作记忆]]与推理的机会，导致认知去技能化。通过设计专门的提问导师（Question-Tutor, Q-Tutor），系统在 AI 主导探究与学生主导练习双模式间切换，内置直接答案拦截规则，通过分步追问与反向启发训练学生的提问技能，从而激活深度认知加工。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 275–278)]]
@@ -157,7 +153,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 提问技能的理论演进
 > - **古典时期 — [[Socrates|苏格拉底]][[Socratic Dialogue|产婆术]]** 将提问确立为破除虚假知识、引出真知的辩证法核心。
-> - **20 世纪末 — [[Critical Thinking|批判性思维]]与提问分类学** Elder and Paul (1998) 与 Dillon (1990) 系统建立批判性提问技能与课堂提问策略分类。
+> - **20 世纪末 — [[Critical Thinking|批判性思维]]与提问分类学** Elder and Paul (1998) 与 Dillon (1990) 系统建立批判性提问技能与[[Teacher Questioning|课堂提问]]策略分类。
 > - **2016–2018 年 — [[Virtue Epistemology|美德认识论]]转向** Lani Watson 提出善于提问教育论，将提问技能界定为发展[[Epistemic Virtues and Vices|理智美德]]的[[21st Century Skills and Competencies Discourse|关键能力]]通道。
 > - **2026 年 — [[Generative Artificial Intelligence|生成式人工智能]]交互重塑** Hadeel Naeem 提出提问导师架构，将提问技能作为抵抗生成式 AI [[Cognitive Deskilling|认知去技能化]]、培育理智美德的根本途径。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 269–286)]]
 

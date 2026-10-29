@@ -11,9 +11,9 @@ title: "Argument_Wecker_2016_ZfE"
 argument_key: "Argument_Wecker_2016_ZfE"
 argument_display_title: "Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 43
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: Zeitschrift für Erziehungswissenschaft
 citation: "Wecker, C., Vogel, F., & Hetmanek, A. (2016). Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]. *Zeitschrift für Erziehungswissenschaft*, 20, 21–40. https://doi.org/10.1007/s11618-016-0696-0"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Scientific Method]]"
   - "[[Heterogeneity]]"
+  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Sampling Error]]"
   - "[[Unit of Analysis]]"
@@ -42,10 +43,13 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Study Population and Sample]]"
   - "[[Direct Instruction]]"
+  - "[[Web-Based Learning]]"
   - "[[Dependent Variable]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Variable]]"
   - "[[Commensuration]]"
+  - "[[Worked Examples]]"
+  - "[[Spaced Practice]]"
   - "[[Incommensurability]]"
   - "[[Publication Bias]]"
   - "[[Data Infrastructure]]"
@@ -79,7 +83,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-23
+updated: 2026-10-29
 ---
 ---
 
@@ -92,7 +96,7 @@ updated: 2026-10-23
 > [!concept-lens] 阅读透镜
 > - **对象** 哈蒂（2009）《可见的学习》附录 A 与附录 B 所收录的 800 余项一级元分析数据基础、计算程序以及 138 个影响因素的效应量排名体系。
 > - **张力** 宏大综合愿景与方法学脆弱性之间的张力；[[Fixed-Effect Model|固定效应模型]]假定与教育研究[[Heterogeneity|异质性]]现实之间的张力；粗放二级聚合与实在论因果机制之间的张力。
-> - **贡献** 严格从固定效应数学模型推导出二级元分析必须满足的 6 项方法论要求并证明其等价性条件；通过数值案例重构证实哈蒂数据中存在标准误混淆、未加权平均和极端文献重叠等系统性漏洞；提出建设中央标准化证据数据库作为未来[[Evidence-Based Education|循证教育]]研究的制度性解决方案。
+> - **贡献** 严格从固定效应数学模型推导出二级元分析必须满足的 6 项方法论要求并证明其等价性条件；通过数值案例重构证实哈蒂数据中存在标准误混淆、未加权平均和极端[[Document|文献]]重叠等系统性漏洞；提出建设中央标准化证据数据库作为未来[[Evidence-Based Education|循证教育]]研究的制度性解决方案。
 
 ---
 
@@ -147,7 +151,7 @@ updated: 2026-10-23
 > [!claim|lead] 步骤一核心主张
 > 二级[[Fixed-Effect Model|固定效应]]元分析在数学上等价于对所有原始研究直接进行加权合并，其充要条件是各一级元分析纳入的样本完全独立且互不重叠；一旦存在重复文献，经典方差公式失效且[[Standard Error|标准误]]会被严重低估。
 
-#### 1. 固定效应模型的代数等价性：当原始研究独立时二级加权等价于一级合成
+> [!sub-claim] 1. 固定效应模型的代数等价性：当原始研究独立时二级加权等价于一级合成
 
 哈蒂明确声明其计算建立在[[Fixed-Effect Model|固定效应模型]]之上（Hattie, 2009, p. 12），该模型假定所有纳入研究均在估计同一个恒定真实效应，样本变异完全源于[[Sampling Error|抽样误差]]。从该假定出发，克里斯托夫·[[Christof Wecker|韦克尔]]（Christof Wecker）等人推导了[[Research Synthesis|证据综合]]的参数规约与跨层加权代数结构：
 
@@ -195,7 +199,7 @@ updated: 2026-10-23
 > - **协方差失效公理** 若同一篇文献在多个元分析中重复出现，跨元分析的一级效应量之间会产生未知的正相关，导致二级方差公式 (9) 失效，计算出的方差远小于实际方差，造成统计检验虚假显著。
 > - **精度反比公理** 二级合成必须严格按照各元分析精度的倒数（$W_j = 1/v_{d_j}$）进行加权，高精度研究占大权重，简单算术平均会彻底破坏统计估计的有效性。
 
-#### 2. 宏观证据合成必须逐级满足六项环环相扣的方法学规范
+> [!sub-claim] 2. 宏观证据合成必须逐级满足六项环环相扣的方法学规范
 
 在固定效应模型下，任何宏观证据汇总都必须逐级经过六个环环相扣的操作环节，前一环节的失真将直接导致后续所有估计失效：
 
@@ -214,7 +218,7 @@ updated: 2026-10-23
 确立了六项方法论基准后，韦克尔等人对照哈蒂自身宣称的研究标准与《[[Visible Learning|可见的学习]]》实际数据，对各个分析环节展开了系统的经验核查。
 
 > [!claim|lead] 步骤二核心主张
-> 哈蒂在数据提取和二级计算的所有环节均存在严重的低级计算错误与模型违背：误把标准误当标准差使个别效应量虚增十倍，硬造假标准误使[[Direct Instruction|直接教学]]权重被削减过半，忽略 93% 的文献重叠且滥用简单平均，导致网络学习排名从第 26 位骤跌至第 98 位。
+> 哈蒂在数据提取和二级计算的所有环节均存在严重的低级计算错误与模型违背：误把标准误当标准差使个别效应量虚增十倍，硬造假标准误使[[Direct Instruction|直接教学]]权重被削减过半，忽略 93% 的文献重叠且滥用简单平均，导致[[Web-Based Learning|网络学习]]排名从第 26 位骤跌至第 98 位。
 
 以下将基础文献质量与二级操作程序的缺陷进行对照总览：
 
@@ -232,7 +236,7 @@ updated: 2026-10-23
 > | **(5) 效应量的加权估计** | - 放弃逆方差加权规则，直接对各个元分析的效应量取简单算术平均。 |
 > | **(6) 确定合并标准误与置信区间** | - 荒谬地对各个元分析的标准误计算算术平均值，违背统计学常识。<br>- 未汇报总体合并效应量的置信区间与假设检验，数据残缺导致读者无法复核。 |
 
-#### 1. 一级文献数据严重污染：混淆标准差与标准误使个别效应量虚增十倍
+> [!sub-claim] 1. 一级文献数据严重污染：混淆标准差与标准误使个别效应量虚增十倍
 
 在数据输入端，一级元分析在效应量指标选择与数据提取环节便已存在严重的结构性污染：
 
@@ -254,7 +258,7 @@ updated: 2026-10-23
 
 如果说一级文献的问题尚属外部输入偏差，那么二级汇总阶段的违规操作则完全产生于哈蒂自身的研究执行。
 
-#### 2. 二级汇总严重违背统计学规则：未加权平均与忽略重叠导致排名虚高
+> [!sub-claim] 2. 二级汇总严重违背统计学规则：未加权平均与忽略重叠导致排名虚高
 
 在二级统计操作中，哈蒂全面违背了统计学公理，导致合成效应量与排名发生系统性扭曲：
 
@@ -297,7 +301,7 @@ updated: 2026-10-23
 > [!claim|lead] 步骤三核心主张
 > 二级汇总无法保留对教学至关重要的调节[[Variable|变量]]，固定效应模型在教育研究中出现双重失配，且 138 个因素属于基线完全不同的异质范畴，建立单一排行榜构成根本性的[[Category Mistake|范畴错误]]，在逻辑上如同在德甲联赛中强行比较不可[[Commensuration|通约]]的对象。
 
-#### 1. 单一均值抹平教学情境差异且固定效应模型在教育研究中完全不适用
+> [!sub-claim] 1. 单一均值抹平教学情境差异且固定效应模型在教育研究中完全不适用
 
 宏观二级汇总最大的代价，是系统性抹杀了干预措施在不同条件下的调节变量：
 
@@ -315,13 +319,13 @@ updated: 2026-10-23
 
 比模型失配更严重的，是排行榜所依赖的比较逻辑在[[Ontology|本体论]]上根本无法立足。
 
-#### 2. 影响因素基线不同且干预时长不可比：单一排行榜存在根本性[[Category Mistake|范畴错误]]
+> [!sub-claim] 2. 影响因素基线不同且干预时长不可比：单一排行榜存在根本性[[Category Mistake|范畴错误]]
 
 把 138 个性质完全不同的因素放在同一张排行榜上排定座次，犯了严重的本体论范畴错误：
 
 > [!critique-fatal] 跨范畴强行比较的三重本体论逻辑破裂
-> - **干预时长的时空错位** 样例学习（Renkl, 2015）在 1.5 小时受控实验室测得即时效应 $d \approx 0.60$；若线性外推至 4 周课程其累积效应理论上高达 2.40，但在常规教学中效应量必然大幅衰减；而直接教学项目持续整整一年，将微观瞬时实验与宏观全年改革并列比较毫无意义。
-> - **对照基准的彻底不可通约** 德甲联赛隐喻表明，制度条件、个体特征、宏观模式与微观参数这四类因素的对照基线完全不同，教师面对直接教学与分散练习不可能做非此即彼的单选。
+> - **干预时长的时空错位** [[Worked Examples|样例学习]]（Renkl, 2015）在 1.5 小时受控实验室测得即时效应 $d \approx 0.60$；若线性外推至 4 周课程其累积效应理论上高达 2.40，但在常规教学中效应量必然大幅衰减；而直接教学项目持续整整一年，将微观瞬时实验与宏观全年改革并列比较毫无意义。
+> - **对照基准的彻底不可通约** 德甲联赛隐喻表明，制度条件、个体特征、宏观模式与微观参数这四类因素的对照基线完全不同，教师面对直接教学与[[Spaced Practice|分散练习]]不可能做非此即彼的单选。
 > - **关节点神话的实证破灭** [[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）与[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）等大规模追踪实证表明，每学期实际成长仅约 0.20 到 0.40；且从受损数据中算出的 0.40 早已失去基准效度。
 
 德甲联赛隐喻深刻展现了这一[[Category Mistake|范畴错误]]与[[Incommensurability|不可通约性]]：拜仁慕尼黑与汉堡 SV 在好日子和坏日子里虽都同列积分榜，但教师在实践中面对直接教学与分散练习并非做非此即彼的单选，而是探索二者的最优组合。具体而言，这 138 个因素跨越了四类基线完全不可比的本体范畴：
@@ -345,7 +349,7 @@ updated: 2026-10-23
 > [!claim|lead] 步骤四核心主张
 > 哈蒂整合全球实证研究的愿景具有里程碑意义；针对商业学术期刊[[Publication Bias|发表偏倚]]与数据黑箱对二级综合的根本阻碍，循证教育学的真正出路在于建立中央标准化证据数据库，将未来研究转向基于主要研究的一级大样本精准综合。
 
-#### 1. 哈蒂揭示了实证研究浪费的现实危机但商业期刊发表体制阻碍了科学综合
+> [!sub-claim] 1. 哈蒂揭示了实证研究浪费的现实危机但商业期刊发表体制阻碍了科学综合
 
 哈蒂的工作拥有宝贵而持久的功绩，其真正的历史贡献在于把一个长久存在的结构性危机摆在了公众面前：全球公共财政投入了海量经费开展教育实证研究，但这些研究产出的成果往往碎片化、充斥发表偏倚且缺乏透明度，导致教育学很难形成可靠的科学积累。现行学术期刊体制构成了不可逾越的屏障：
 
@@ -354,7 +358,7 @@ updated: 2026-10-23
 > - **原始数据与参数矩阵隐匿** 版面限制导致关键的原始数据、每项研究的样本量和标准差普遍被隐藏，形成不可查证的数据黑箱。
 > - **口径冲突与二阶拼凑脆弱** 各元分析作者在数据提取时口径不一，导致二级汇总变成了建立在流沙之上的粗放拼凑。
 
-#### 2. 建立独立于期刊的中央证据库并直接基于原始数据进行一级大样本综合
+> [!sub-claim] 2. 建立独立于期刊的中央证据库并直接基于原始数据进行一级大样本综合
 
 要摆脱宏观综合的困境，不能指望在受污染的已发表元分析上修补，而必须重构实证研究的数据归档基础设施。韦克尔等人正式提出了**中央标准化证据数据库（Central Evidence Database）** 的系统方案：
 

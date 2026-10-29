@@ -7,9 +7,9 @@ aliases:
 summary: "指超越新古典狭隘“公共品”修补的整体性治理与创新范式；强调国家、市场与社会在应对重大战略挑战与社会技术转型的全价值链中共同创造、塑造市场，并通过制度化附加条件与护栏条款确保公共投资创造普惠的集体经济、社会与生态福祉；同时强调技术发展必须实质交付于满足公众普遍利益与国家核心职能（如国防安全、医疗突破与高效公共服务），防范因技术被狭隘私人消费主义俘获而导致公共能力空心化与民主政体合法性危机。"
 type: concept
 domain: "science-policy"
-related_count: 69
-related_level: 6
-related_stars: "💎💎"
+related_count: 70
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/governance
@@ -35,8 +35,8 @@ related_concepts:
   - "[[Citizen Science]]"
   - "[[Modern Industrial Policy]]"
   - "[[Apprenticeship]]"
-  - "[[Discourse]]"
   - "[[Economic Fundamentalism]]"
+  - "[[Discourse]]"
   - "[[Doxa]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Strategic Autonomy]]"
   - "[[Lifelong Learning]]"
   - "[[Variable]]"
+  - "[[Document]]"
   - "[[Research Translation]]"
   - "[[Patient Capital]]"
   - "[[Governing by Numbers]]"
@@ -96,7 +97,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -159,80 +160,64 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　公共价值超越新古典静态公共品修补并确立了全价值链共创逻辑
-
-> [!concept-lens] 价值创造[[Paradigm|范式]]与国家角色定位
-> 阐释公共部门如何从消极修补市场缺陷转变为主动塑造市场与共创价值。
+> [!concept-proposition] 命题一｜公共价值超越新古典静态公共品修补并确立了全价值链共创逻辑
+> **探讨维度　价值创造[[Paradigm|范式]]与国家角色定位** 阐释公共部门如何从消极修补市场缺陷转变为主动塑造市场与共创价值。
 
 > [!claim] [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]
 > **全链条共创与[[Market Shaping and Creating|市场塑造]]逻辑** [[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）指出，新古典[[Market Failure|市场失灵]]框架将公共部门限制在“修补赛道缺陷”的消极角色中，认为国家投资必然挤出私人投资；而公共价值理论指出，从互联网、全球卫星定位系统（Global Positioning System, GPS）到重磅生物医药，最具颠覆性的现代技术均源于公共资金在全价值链上的早期战略引领。国家通过明确长期转型方向，不仅创造了公共品，更为整个私营经济创造了庞大的全新市场空间与商业机会。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]
 
 ---
 
-### 命题二　动态系统评估是衡量公共价值外溢与结构转型的科学标尺
-
-> [!concept-lens] 评估工具与[[Reflexive Governance|反思性治理]]
-> 批判静态[[Cost-Benefit Analysis|成本收益分析]]的局限性，构建面向长期社会转型的[[Dynamic Assessment|动态评估]]体系。
+> [!concept-proposition] 命题二｜动态系统评估是衡量公共价值外溢与结构转型的科学标尺
+> **探讨维度　评估工具与[[Reflexive Governance|反思性治理]]** 批判静态[[Cost-Benefit Analysis|成本收益分析]]的局限性，构建面向长期社会转型的[[Dynamic Assessment|动态评估]]体系。
 
 > [!claim] [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]
 > **动态评估超越静态成本收益分析** 传统[[Cost-Benefit Analysis|成本收益分析]]（Cost-Benefit Analysis, CBA）与净现值计算基于静态线性假定，无法有效捕捉创新活动在跨部门联动中引发的技术溢出、组织能力积累与预期挤入效应（Crowding In）。衡量公共价值必须采用全流程动态监测与[[Reflexivity|反思性]]评估，将评价重心置于是否培育了去中心化探索网络、是否推动了传统产业绿色转型以及是否达成了预设的社会使命里程碑。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 
 ---
 
-### 命题三　公共价值的维系必须依赖公私部门风险共担与收益对等共享契约
-
-> [!concept-lens] 产权分配与创新收益社会化
-> 揭示传统产业政策中风险社会化与收益私人化的结构性失衡，确立对等回报机制。
+> [!concept-proposition] 命题三｜公共价值的维系必须依赖公私部门风险共担与收益对等共享契约
+> **探讨维度　产权分配与创新收益社会化** 揭示传统产业政策中风险社会化与收益私人化的结构性失衡，确立对等回报机制。
 
 > [!claim] [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]
 > **风险收益对称与社会回报契约** 在传统产业政策中，公共资金承担了最高风险的基础与中试研发，而企业商业化成功后的超额垄断利润却被股东完全捕获，导致纳税人面临“既出资研发又购买高价产品”的双重支付不公。将公共价值落实于制度，要求在公私资助协议中嵌入认股权证、特许权提成、研发收益再投资承诺及民生产品价格上限条款，以实现公共价值的保值与增值。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 809–810)]]
 
 ---
 
-### 命题四　民主协商与公众共创是确保公共价值战略方向合法性的政治根基
-
-> [!concept-lens] 民主参与与使命合法性
-> 探讨如何通过广泛的社会协商防范技术官僚专断与特殊利益集团俘获。
+> [!concept-proposition] 命题四｜民主协商与公众共创是确保公共价值战略方向合法性的政治根基
+> **探讨维度　民主参与与使命合法性** 探讨如何通过广泛的社会协商防范技术官僚专断与特殊利益集团俘获。
 
 > [!claim] [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]
 > **公众共创与防范利益俘获** 决定社会向何种方向转型不能仅依赖少数精英技术官僚的闭门研判。通过将[[Citizen Science|公民科学]]、公民大会与社会多元代表深度嵌入使命定义与监督流程，使公共价值的内涵真正反映普通公众的切身利益与诉求，有效避免重大战略被狭隘的既得利益游说集团俘获。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805, 809–811)]]
 
 ---
 
-### 命题五　制度化附加条件与护栏条款是确保公共投资创造公共价值的操作性契约杠杆
-
-> [!concept-lens] [[Modern Industrial Policy|现代产业政策]]契约治理与社会回报机制
-> 阐明如何通过法定附加条件将巨额公共资本补贴转化为包容性劳工福祉与社区公共价值。
+> [!concept-proposition] 命题五｜[[Policy Conditionalities|制度化附加条件]]与护栏条款是确保公共投资创造公共价值的操作性契约杠杆
+> **探讨维度　[[Modern Industrial Policy|现代产业政策]]契约治理与社会回报机制** 阐明如何通过法定附加条件将巨额公共资本补贴转化为包容性劳工福祉与社区公共价值。
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
 > **附加条件契约与公共价值护栏** 埃利萨贝思·雷诺兹（Elisabeth B. Reynolds）指出，21 世纪现代产业战略的成败不仅取决于财政投入的绝对规模，更取决于政策执行的契约机制设计（The "How"）。为防范公共资金沦为私营企业的无偿输血，政府必须在资助协议中嵌入严格的[[Policy Conditionalities|制度化附加条件]]（Conditionalities）与护栏条款（Guardrails）：在《芯片与科学法》（[[CHIPS and Science Act]], CHIPS Act）中，对申请超过 1.5 亿美元补贴的半导体制造企业强制要求提供可负担的优质托儿服务（Child Care）以吸纳女性与多元技能人才，设立超额利润分成（Upside Profit Sharing）机制使财政分享商业化暴利，并严禁企业利用补贴资金进行股票回购（Stock Buyback）；在《[[Inflation Reduction Act|通胀削减法]]》（Inflation Reduction Act, [[International Reading Association|IRA]]）中，将现行工资（Prevailing Wage）与注册[[Apprenticeship|学徒制]]（Registered Apprenticeship）标准作为享受 5 倍税收抵免的前置条件；能源部（[[Department of Energy]], DOE）更在竞争性资助中引入占 20% 评分权重的社区利益计划（Community Benefits Plan, CBP），并强制落实“环境正义 40 倡议”（Justice40 Initiative，确保 40% 的气候投资收益流向历史弱势社区）。这一系列契约工具将公共价值从抽象理念转化为具法律约束力的操作性杠杆。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 5, 8–13)]]
 
 ---
 
-### 命题六　超国家公共价值创造依赖中央集中财政资源以防范单一市场福利分裂
-
-> [!concept-lens] 政体财政结构与跨区域公共价值均等化
-> 探讨在多层级治理体系中，缺乏统一超国家公共资金池是否会导致公共价值追求演变为成员国之间的零和博弈与区域发展鸿沟。
+> [!concept-proposition] 命题六｜超国家公共价值创造依赖中央集中财政资源以防范单一市场福利分裂
+> **探讨维度　政体财政结构与跨区域公共价值均等化** 探讨在多层级治理体系中，缺乏统一超国家公共资金池是否会导致公共价值追求演变为成员国之间的零和博弈与区域发展鸿沟。
 
 > [!claim] [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]
 > **超国家财政赤字对公共价值的稀释与单一市场扭曲** 公共价值的实现不仅在于微观企业契约层面的条件设定，更取决于宏观治理架构是否拥有支撑全域普惠福祉的公共财政基石。在具备统一主权财政的美国，联邦政府集中出资能确保供应链安全、高薪就业与托儿保障等公共价值在全国重点产区由中央统一规范与落地；然而，在[[EU|欧盟]]多层级体系下，由于缺乏超国家自主税收与统一工业基金，[[European Commission|欧盟委员会]]追求的“欧洲半导体韧性与自主”公共价值，在操作中被迫蜕变为放宽国家援助规则并依赖成员国国库资助（如 [[Important Projects of Common European Interest|IPCEI]] 框架）。这种机制导致德国、法国等财政盈余大国能够大肆动用本国财政补贴跨国巨头以独占产业溢出，而南欧和东欧成员国因财政空间逼仄被严重边缘化，不仅使全欧统一的劳工与社会福利附加条件化为泡影，更引发了跨国巨头在成员国之间的补贴竞价与寻租套利，反向侵蚀了单一市场的公平竞争与区域凝聚力这一最高欧盟公共价值。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14, 16–17)]]
 
 ---
 
-### 命题七　国家核心职能的技术公共价值交付失败将诱发深层政体合法性危机
-
-> [!concept-lens] 技术交付能力、普遍利益与现代国家政治合法性
-> 剖析当技术红利被私人消费主义完全垄断、公共部门沦为[[Innovation Desert|创新荒漠]]时，国家政体面临的合法性赤字。
+> [!concept-proposition] 命题七｜国家核心职能的技术公共价值交付失败将诱发深层政体合法性危机
+> **探讨维度　技术交付能力、普遍利益与现代国家政治合法性** 剖析当技术红利被私人消费主义完全垄断、公共部门沦为[[Innovation Desert|创新荒漠]]时，国家政体面临的合法性赤字。
 
 > [!claim] Karp, A. & Zamiska, N.
 > **普遍利益交付脱节与合法性危机** 亚历克斯·卡普（[[Alexander Karp|Alex Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）基于尤尔根·[[Jürgen Habermas|哈贝马斯]]（Jürgen Habermas）的合法性理论指出，公共价值的核心在于技术必须服务于社会的“可普遍化利益”（Generalizable Interests），包括国家安全防御、先进医疗与优质教育基础设施。若自由市场将前沿科技全盘导向照片分享、在线广告与算法外卖等浅层私人消费，而国家公共部门深陷采购繁冗与防卫型官僚文化，导致公共技术能力严重退化为“[[Innovation Desert|创新荒漠]]”，公众将对民主国家解决重大实际问题的能力彻底丧失信心，从而引爆深刻的政体合法性危机。重塑[[Technological Republic|技术共和国]]的实质，就是重建国家利用前沿技术交付核心公共价值的能力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–9)]]
 
 ---
 
-### 命题八　新自由主义经济基要主义侵蚀了教育作为民主公物的本真公共价值并将其异化为投资工具
-
-> [!concept-lens] 教育本质的规范位移：从民主公民权的公共物品到[[Human Capital Theory|人力资本]]投资的混合商品
-> 探讨超国家政策[[Discourse|话语]]如何将教育从保障平等与民主参与的纯粹公共物品降格为追求竞争优势与私人溢价的公私混合商品。
+> [!concept-proposition] 命题八｜新自由主义[[Economic Fundamentalism|经济基要主义]]侵蚀了教育作为民主公物的本真公共价值并将其异化为投资工具
+> **探讨维度　教育本质的规范位移：从民主公民权的公共物品到[[Human Capital Theory|人力资本]]投资的混合商品** 探讨超国家政策[[Discourse|话语]]如何将教育从保障平等与民主参与的纯粹公共物品降格为追求竞争优势与私人溢价的公私混合商品。
 
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]]
 > **[[Economic Fundamentalism|经济基要主义]]对教育公共价值的异化与残余化** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）在解构[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）全球教育政策转向时指出，在战后社会民主主义妥协时期，教育被视为促进人人平等、保障公民民主参与和建设包容社会的典型“纯粹公共物品”（Pure Public Good），具有不可剥夺的民主公物本真公共价值。然而自 1990 年代中期起，经合组织等超国家机构推行“经济基要主义”（Economic Fundamentalism），将新自由主义全球化本体化为[[Doxa|不言自明]]的客观铁律，建构起一套狭隘排他的“[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]”。在这一话语转型中，教育的公共价值被系统性空心化与工具化：教育被降格为追求国家全球竞争优势与个体劳动力市场超额溢价的“公私混合投资商品”（Mixed Good）。教育公平、性别平权与公民素养等实质正义维度并未被彻底废除，而是被“残余化”（Residualized）与工具化收编——公平被窄化为形式上的准入平等以确保人力资本储备最大化，社会资本被降格为防范社会排斥干扰经济增长的维稳工具。这一转型标志着国家教育治理从创造普惠平等的民主公共价值，彻底倒向了服务于私人市场[[Return on Investment|投资回报率]]的技术官僚规训。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 448–452)]]
@@ -317,7 +302,7 @@ updated: 2026-10-25
 > | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] | 美国《芯片与科学法》（390 亿美元直接制造补贴）与《[[Inflation Reduction Act\|通胀削减法]]》（超 3700 亿美元气候激励） | 政策[[Process Tracing\|过程追踪]]与契约治理分析 | 托儿服务门槛、税收抵免倍数、社区利益计划（CBP）权重、环境正义目标 | 资助额 **>1.5 亿美元** 必须提供托儿方案；满足现行工资与[[Apprenticeship\|学徒制]]可获 **5 倍** 清洁能源税收抵免；[[Department of Energy\|DOE]] 竞争性资助中 CBP 占 **20% 评分权重**；Justice40 规定 **40% 气候收益** 流向弱势社区 | 联邦法案法定条款与实施细则（原文报告） | 证实[[Policy Conditionalities\|制度化附加条件]]将宏观产业补贴有效锚定于劳工福祉与包容性增长等公共价值目标 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 欧盟“[[Horizon Europe\|地平线欧洲]]”（Horizon Europe，约 1000 亿欧元）使命型研发框架 | 政策框架构建与国际案例比较 | 使使命导向设计、跨部门研发联动、公共价值评估 | 围绕气候、癌症、海洋等确立 **5 大重大社会使命**；推动全[[EU\|欧盟]]科研资金从点状补贴转向跨部门公共价值共创网络 | 欧盟委员会官方政策采纳文本（原文报告） | 确立了超越[[Market Failure\|市场失灵]]修补、以公共价值为导向的顶层使命设计逻辑 |
 > | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | 欧盟《[[European Chips Act\|欧洲芯片法案]]》与 IPCEI ME/CT 跨国协同机制 | 比较政治经济学与多层级治理分析 | 欧盟直接预算份额、成员国国家援助规模、跨国技术协作项目数、超额利润回缴规则 | 欧盟自有预算仅 **33 亿欧元**（号称撬动 430 亿）；14 国提供 **81 亿欧元** 国家援助并撬动 **137 亿欧元** 私人资本；覆盖 **56 家企业与 68 个项目**；建立 **180 项跨国研发合作** | 官方立项数据与法案条文核查（原文报告） | 揭示多层级政体下超国家财政工具缺失对全域公共价值创造的制度约束与区域分化风险 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|Karp & Zamiska (2025)]] | 冷战防务科技合作 vs. 现代硅谷商业偏向（1940s–2020s） | [[Historical Institutionalism\|历史制度主义]]与批判政治哲学 | 联邦研发早期占比、消费广告营收集中度、公共部门采购周期 | 1960 年代联邦政府承担全美近三分之二研发支出并采购早期全部硅微芯片；当代顶尖科技企业广告营收达 80% 以上，公共防务采购流程长达数年并形成“[[Innovation Desert\|创新荒漠]]” | 历史文献与产业演进分析 | 证实当技术完全被消费主义捕获而公共交付停滞时，政体将面临深层合法性危机 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|Karp & Zamiska (2025)]] | 冷战防务科技合作 vs. 现代硅谷商业偏向（1940s–2020s） | [[Historical Institutionalism\|历史制度主义]]与批判政治哲学 | 联邦研发早期占比、消费广告营收集中度、公共部门采购周期 | 1960 年代联邦政府承担全美近三分之二研发支出并采购早期全部硅微芯片；当代顶尖科技企业广告营收达 80% 以上，公共防务采购流程长达数年并形成“[[Innovation Desert\|创新荒漠]]” | 历史[[Document\|文献]]与产业演进分析 | 证实当技术完全被消费主义捕获而公共交付停滞时，政体将面临深层合法性危机 |
 
 ---
 

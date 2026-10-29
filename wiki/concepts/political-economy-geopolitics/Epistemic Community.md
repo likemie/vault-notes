@@ -9,7 +9,7 @@ aliases:
 summary: "由彼得·哈斯（Peter Haas）界定、国际关系与公共政策学广泛使用的治理概念。指享有共同核心原则、因果信念、效度检验标准及政策关切的跨国专业专家网络；在缺乏超国家法律强制力与金融借贷制裁手段的情境下，跨国组织通过凝聚认知共同体确立知识霸权与议程设置权，成为远处掌舵的专业话语支柱。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 33
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -31,6 +31,10 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Space of Equivalence]]"
   - "[[Knowledge Mediation]]"
+  - "[[Evidence Culture]]"
+  - "[[Gatekeepers]]"
+  - "[[Smart Buys]]"
+  - "[[Data Literacy]]"
   - "[[Governing by Numbers]]"
   - "[[Big Science]]"
   - "[[Technical Rationality]]"
@@ -53,17 +57,19 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
-  - "[[World Bank]]"
-  - "[[OECD AHELO Project]]"
   - "[[UNESCO]]"
+  - "[[World Bank]]"
+  - "[[Global Education Evidence Advisory Panel]]"
+  - "[[OECD AHELO Project]]"
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Xie_Li_Huang_2021_GEO]]"
   - "[[Argument_Campbell_2026_JPCC]]"
   - "[[Argument_Morgan_Shahjahan_2014_CE]]"
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -110,10 +116,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　跨国认知共同体在不确定性情境下掌握了国家政策议程的界定权
-
-> [!concept-lens] 危机情境下的政策知识垄断
-> 探讨当主权国家面对经济全球化冲击、技术转型不确定性或跨国评测失败（如 [[PISA]] 震荡）时，认知共同体如何趁虚而入重塑国家核心利益与改革方向。
+> [!concept-proposition] 命题一｜跨国认知共同体在不确定性情境下掌握了国家政策议程的界定权
+> **探讨维度　危机情境下的政策知识垄断** 探讨当主权国家面对经济全球化冲击、技术转型不确定性或跨国评测失败（如 [[PISA]] 震荡）时，认知共同体如何趁虚而入重塑国家核心利益与改革方向。
 
 > [!claim] Haas, P. M.
 > **不确定性作为专家权力之源** 彼得·哈斯（Haas, 1992）提出，在复杂技术环境与危机不确定性下，缺乏专业技能的国家决策者不得不向认知共同体寻求政策解释与因果对策；认知共同体通过提供权威信息与情境界定，实际上直接代行了国家政策议程设置与利益偏好构建。
@@ -123,16 +127,14 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　认知共同体依靠技术中立表象掩蔽并固化新自由主义意识形态霸权
-
-> [!concept-lens] 专家理性的去政治化技术
-> 探讨认知共同体如何将高度争议的阶级、公平与文化权力冲突转化为看似纯粹客观的统计测量问题。
+> [!concept-proposition] 命题二｜认知共同体依靠技术中立表象掩蔽并固化新自由主义意识形态霸权
+> **探讨维度　专家理性的去政治化技术** 探讨认知共同体如何将高度争议的阶级、公平与文化权力冲突转化为看似纯粹客观的统计测量问题。
 
 > [!claim] Henry et al.
 > **[[Knowledge Mediation|知识中介]]的去政治化功能** 亨利等人指出，经合组织认知共同体最强大的力量在于其将政治决断去政治化的技术能力；通过复杂精巧的高阶统计学包装与标准化数据发布，共同体将新自由主义对教育的功利主义改造呈现为不证自明的客观公理，使任何批判性反思都被污名化为不讲科学的非理性抗拒。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444, 451)]]
 
 > [!claim] [[Argument_Campbell_2026_JPCC|Campbell et al. (2026)]]
-> **超国家守门网络建构证据文化与认知层级** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对经合组织、联合国教科文组织与世界银行官方文本的分析指出，跨国认知共同体（包括全球教育证据顾问小组（Global Education Evidence Advisory Panel, GEEAP）等专家网络）作为知识守门人深度塑造证据文化。共同体借助“爵士乐队”、“智能购买”等修辞隐喻，赋予量化因果评估与全球综合证据以排他性话语特权，同时将政策执行受阻个体化归咎于官员数据素养短板，完成了对地方实践情境的认识论规训。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 341, 347–348)]]
+> **超国家守门网络建构[[Evidence Culture|证据文化]]与认知层级** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对经合组织、[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]官方文本的分析指出，跨国认知共同体（包括全球教育证据顾问小组（[[Global Education Evidence Advisory Panel]], GEEAP）等专家网络）作为知识[[Gatekeepers|守门人]]深度塑造证据文化。共同体借助“爵士乐队”、“[[Smart Buys|智能购买]]”等修辞隐喻，赋予量化因果评估与全球综合证据以排他性[[Discourse|话语]]特权，同时将政策执行受阻个体化归咎于官员[[Data Literacy|数据素养]]短板，完成了对地方实践情境的[[Epistemology|认识论]]规训。[[Argument_Campbell_2026_JPCC|(Campbell et al., 2026, pp. 341, 347–348)]]
 
 ---
 

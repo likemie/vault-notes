@@ -7,7 +7,7 @@ aliases:
 summary: "由安德鲁·范德文与保罗·约翰逊（2006）开创的学术探究范式，主张将理论与实践的脱节界定为知识生产方式问题，通过学者与实践者在复杂现实问题上的平等合作与协同探究，从源头上弥合学术象牙塔与实践现场的制度与认识论鸿沟。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Commensuration]]"
   - "[[Heterogeneity]]"
+  - "[[Document]]"
   - "[[Research-Practice Partnership]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Epistemology]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-10-22
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 强调知识生产主体的多元共创与民主化，将一线教育工作者从单纯的“研究受众或数据提供者”提升为“平等的联合探究者”。
-> - **理论用途** 解释为什么传统的单向研究分发与文献推送无法有效促进学校变革，为[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）与全系统[[Knowledge Mobilisation\|知识动员]]提供[[Epistemology\|认识论]]正当性。
+> - **理论用途** 解释为什么传统的单向研究分发与[[Document|文献]]推送无法有效促进学校变革，为[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）与全系统[[Knowledge Mobilisation\|知识动员]]提供[[Epistemology\|认识论]]正当性。
 > - **边界限定** 它不是降低学术严密性的随意经验总结，也不是学者充当外包商业咨询或培训讲师；它要求在兼顾学理严谨性的同时直面实践前沿的复杂性。
 
 > [!citation-card] 理论实践鸿沟的知识生产本质
@@ -122,20 +123,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　理论与实践的脱节本质上是知识生产方式问题而非单纯的信息传播失效
-
-> [!concept-lens] [[Knowledge Production\|知识生产]]方式的[[Epistemology\|认识论]]归因
-> 探讨理论为何难以指导实践，批判将脱节单纯归咎于传播技术或实践者能力赤字的线性偏见。
+> [!concept-proposition] 命题一｜理论与实践的脱节本质上是[[Knowledge Production|知识生产]]方式问题而非单纯的信息传播失效
+> **探讨维度　[[Knowledge Production\|知识生产]]方式的[[Epistemology\|认识论]]归因** 探讨理论为何难以指导实践，批判将脱节单纯归咎于传播技术或实践者能力赤字的线性偏见。
 
 > [!claim] Van de Ven and Johnson (2006) / [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]
 > **知识生产决定理论距离** 知识在何处生产、如何生产以及由谁生产，决定了理论与现场的距离。传统大学体制假定学者独立在实验室或书斋中生产“科学真理”，再由外部渠道推销给一线学校，这种生产方式从起点就剥离了复杂的组织情境与人际动态。唯有将研究前沿迁移至学校与政策现场，让实践者作为共同主体参与知识的孕育与打磨，才能从源头上消除理论与实践的隔绝。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 19, 21–22)]]
 
 ---
 
-### 命题二　现行学院派期刊评价体系与参与式学术所需的时间和信任投入存在深层制度性冲突
-
-> [!concept-lens] 学术激励机制对[[Knowledge Co-production\|知识共创]]的挤压
-> 探讨为何参与式学术受到广泛政策倡导，但在大学体制内却遭遇普遍的制度性冷遇。
+> [!concept-proposition] 命题二｜现行学院派期刊评价体系与参与式学术所需的时间和信任投入存在深层制度性冲突
+> **探讨维度　学术激励机制对[[Knowledge Co-production\|知识共创]]的挤压** 探讨为何参与式学术受到广泛政策倡导，但在大学体制内却遭遇普遍的制度性冷遇。
 
 > [!claim] Cherney et al. (2012) / Burkhardt and Schoenfeld (2021) / [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]]
 > **学术激励错位遏制协同参与** 大学内部的职称晋升、聘任考核与科研资源分配高度依赖在高影响因子学术期刊上的论文发表。参与式学术需要研究者深入实践基层，投入大量的时间与情感劳动以建立人际互信、协调组织矛盾并解决微观学情难题。然而，这些耗费巨大精力的合作过程在现行绩效评价中难以折算为有效业绩，导致学术人员面临参与协同的严重机会成本，驱使学者避开深层合作而回归纯书斋式发表。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 22)]]

@@ -9,7 +9,7 @@ aliases:
 summary: "学习者为了达成学业目标，主动对自身的认知过程、动机体验和行为策略进行规划、监控、评价与反思性调整的循环性心理与行为系统"
 type: concept
 domain: "competency-and-assessment"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Meta-analysis]]"
   - "[[Questionnaire]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
 related_instruments:
@@ -60,7 +61,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-31
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 > [!def] Self-Regulated Learning
@@ -128,30 +129,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　显性元认知支架是激活技术增强环境中自我调节学习的关键前提
-
-> [!concept-lens] [[Metacognition\|元认知]][[Scaffolding\|脚手架]]与自主监控
-> 探讨外部教学提示词与反思规程如何转化为学习者内部的自我调节操作。
+> [!concept-proposition] 命题一｜显性[[Metacognition|元认知]]支架是激活技术增强环境中自我调节学习的关键前提
+> **探讨维度　[[Metacognition\|元认知]][[Scaffolding\|脚手架]]与自主监控** 探讨外部教学提示词与反思规程如何转化为学习者内部的自我调节操作。
 
 > [!claim] Li, C.; Cui, H.; Hagedorn, L. S.
 > **支架驱动的自我调节激活** 在高等教育使用[[Generative Artificial Intelligence\|生成式人工智能]]的实证研究中，自我调节学习能力的发挥高度依存于显性教学支架。当教师嵌入[[Reflexivity\|反思性]]引导问题、同行比对任务或结构化提示工程训练时，学生表现出高频的思维监控与自我纠错行为（17 项研究证实）；反之，当缺乏反思提示时，学生极易出现元[[Cognitive Offloading\|认知卸载]]，放弃自我监控与调整。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 6–7, 10–12)]]
 
 ---
 
-### 命题二　高水平自我调节学习能够抵御技术依赖并维持批判性认知主体性
-
-> [!concept-lens] 认知主体性与抗依赖机制
-> 探讨学习者自主调控能力对防范人工智能盲从和认知外包的防御作用。
+> [!concept-proposition] 命题二｜高水平自我调节学习能够抵御技术依赖并维持批判性认知主体性
+> **探讨维度　认知主体性与抗依赖机制** 探讨学习者自主调控能力对防范人工智能盲从和认知外包的防御作用。
 
 > [!claim] Zimmerman, B. J.; Azevedo, R.; Li, C.
 > **自我调节抵御技术顺从** 具备较强自我调节学习能力的学生能够将人工智能定位为“协作对话伙伴”而非“答案供给者”。他们通过主动设立检验标准、持续提问和交叉验证，有效规避了语义流畅性带来的证实偏误，在大模型交互中始终保持认知的自主权与批判性审视。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 7–9)]]
 
 ---
 
-### 命题三　自我调节学习在人机协同中承担风险中和中枢与成效断层分流的决定性调节功能
-
-> [!concept-lens] 风险中和中枢与群体认知分水岭
-> 探讨学习者内在自我调节能力如何充当认知缓冲与控制中枢，既中和智能算法对思维深度的侵蚀风险，又主导了[[Man-Computer Symbiosis|人机协同]]促学成效的断层式两极分化。
+> [!concept-proposition] 命题三｜自我调节学习在[[Man-Computer Symbiosis|人机协同]]中承担风险中和中枢与成效断层分流的决定性调节功能
+> **探讨维度　风险中和中枢与群体认知分水岭** 探讨学习者内在自我调节能力如何充当认知缓冲与控制中枢，既中和智能算法对思维深度的侵蚀风险，又主导了[[Man-Computer Symbiosis|人机协同]]促学成效的断层式两极分化。
 
 > [!claim] [[Wang Yangming\|Wang, Y.]]; Huang, R.; [[Yong Zhao\|Zhao, Y.]]
 > **风险中和机制与认知分水岭** 生成式 AI 对思维发展的赋能并非无条件成立，自我调节学习构成了至关重要的中枢调节机制。理论上，大语言模型交互具有即时满足与表层流畅的特质，极易诱发心智惰性与盲目顺从；SRL 通过持续的监控、反思与策略调整，充当了不可或缺的“风险中和器”，有效抵消了算法幻觉、认知外包与思维惰性等潜在负面效应。在机制分流上，高自律学习者主动设定目标、将 AI 视为协同副驾驶并批判性吸收其输出，从而实现认知图式的跃升；而低自律学习者缺乏目标校准与审验能力，极易被算法牵引而滑向被动顺从与虚假理解，致使技术赋能严重受限。[[Argument_Zhao_2025_JIntell\|(Wang & Huang, 2024; Zhao et al., 2025, pp. 11–12, 16)]]
@@ -268,12 +263,12 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025, pp. 11–12)]] | 亚组 | 高 SRL 能力组 | Hedges' $g$ | k=31 | <span class="mx-bar ef-bar" title="Hedges' g 0.863"><span class="b17"></span></span>0.863 | [0.679, 1.048] | $Q_b = 40.962, df = 1, p < 0.001$ |
 > |  |  | 低 SRL 能力组（生成式 AI 促进高阶思维） |  | k=25（总 k=56） | <span class="mx-bar ef-bar" title="Hedges' g 0.284"><span class="b6"></span></span>0.284 | [0.188, 0.380] | — |
 >
-> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025, pp. 11–12)]] · 亚组** 自主调节能力是决定生成式技术促学成效的核心个体分水岭；两组置信区间完全不重叠，确证低自律学习者极难单纯依靠工具获得高阶思维飞跃
+> - **[[Argument_Zhao_2025_JIntell|Zhao et al. (2025, pp. 11–12)]] · 亚组** 自主调节能力是决定生成式技术促学成效的核心个体分水岭；两组[[Confidence Interval|置信区间]]完全不重叠，确证低自律学习者极难单纯依靠工具获得高阶思维飞跃
 
 > [!ref-table]- 其他实证结果（无[[Effect Size\|效应量]]）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

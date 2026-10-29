@@ -9,10 +9,10 @@ aliases:
 summary: "由迈克尔·波兰尼（Michael Polanyi）提出、福雷与伦德瓦尔（Foray & Lundvall）引入知识经济学的认识论概念。指植根于个体实践行动、经验感知与身体机能之中，难以用形式化语言、符号或数字完全编码和传授的个人知识；在数字时代与编码知识形成互补，成为决定持续学习力与创新能力的核心资本。"
 type: concept
 domain: "educational-philosophy"
-related_count: 35
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 48
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept
   - epistemology
@@ -37,6 +37,11 @@ related_concepts:
   - "[[Intellectual Capital]]"
   - "[[Lifelong Learning]]"
   - "[[Positivism]]"
+  - "[[Output-Oriented Governance]]"
+  - "[[Evidence-Based Policy-Making]]"
+  - "[[Technical Rationality]]"
+  - "[[Phronesis]]"
+  - "[[Policy Mobility]]"
   - "[[Objectivism]]"
   - "[[Problem Solving]]"
   - "[[Pragmatic Paradigm]]"
@@ -46,9 +51,15 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Powerful Knowledge]]"
 related_theories:
+  - "[[Epistemic Injustice]]"
   - "[[Phenomenology]]"
   - "[[Social Realism]]"
-related_methods: []
+related_methods:
+  - "[[Experimental Research]]"
+  - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
+  - "[[Qualitative Research]]"
+  - "[[Interpretive Policy Analysis]]"
 related_instruments: []
 related_persons:
   - "[[Dominique Foray]]"
@@ -56,6 +67,8 @@ related_persons:
   - "[[Michael Young]]"
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
+  - "[[UNESCO]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
@@ -65,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -113,10 +126,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　编码知识的技术廉价化导致默会知识与持续学习能力成为核心经济资本
-
-> [!concept-lens] [[Knowledge-Based Economy|知识经济]]下的相对价值反转
-> 探讨为什么在信息技术高度发达、知识搜索唾手可得的后工业时代，教育体系反而降低了对事实记忆的要求，转而全面押注于以默会能力为导向的终身素养。
+> [!concept-proposition] 命题一｜编码知识的技术廉价化导致默会知识与持续学习能力成为核心经济资本
+> **探讨维度　[[Knowledge-Based Economy|知识经济]]下的相对价值反转** 探讨为什么在信息技术高度发达、知识搜索唾手可得的后工业时代，教育体系反而降低了对事实记忆的要求，转而全面押注于以默会能力为导向的终身素养。
 
 > [!claim] Foray & Lundvall
 > **学习型经济的相对稀缺转移** [[Dominique Foray|多米尼克·福雷]]与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]指出，数字化革命将编码知识推向无限丰裕，导致[[Rote Learning|死记硬背]]的事实性知识在劳动力市场迅速贬值；相反，那些支撑个体快速吸收新信息、在不确定情境中做出权衡决断以及协同创新的默会技能，成为了无法被机器替代的唯一核心生产力要素。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
@@ -126,23 +137,19 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　默会知识的获得依赖深度的具身实践而非符号化单向灌输
-
-> [!concept-lens] 学习方式的实践转向
-> 探讨默会知识独特的认知获取规律如何颠覆传统赫尔巴特式的“讲台授课”模式。
+> [!concept-proposition] 命题二｜默会知识的获得依赖深度的具身实践而非符号化单向灌输
+> **探讨维度　学习方式的实践转向** 探讨默会知识独特的认知获取规律如何颠覆传统赫尔巴特式的“讲台授课”模式。
 
 > [!claim] Polanyi, M.
 > **意会维度的实践优先性** 迈克尔·波兰尼（Polanyi, 1966）深刻揭示，无论是外科医生的触诊诊断、艺术家的运笔手感，还是自然科学家的科学直觉，本质上都依赖行动者在长期的试错、观察与模仿中内化的综合感知框架；这种知识绝不可能通过阅读操作规程单向灌输获得，必须通过全身心卷入的具身活动才能实现传递。
 
 ---
 
-### 命题三　实证主义证据等级制排斥情境化实践默会知识并诱发认识论不公正
-
-> [!concept-lens] 循证治理中的认识论排斥与正义诉求
-> 超国家循证决策体系将因果识别与量化实验树立为最高准绳，割裂了深植于本土与教育一线的默会经验。
+> [!concept-proposition] 命题三｜[[Positivism|实证主义]]证据等级制排斥情境化实践默会知识并诱发[[Epistemic Injustice|认识论不公]]正
+> **探讨维度　[[Output-Oriented Governance|循证治理]]中的认识论排斥与正义诉求** 超国家[[Evidence-Based Policy-Making|循证决策]]体系将因果识别与量化实验树立为最高准绳，割裂了深植于本土与教育一线的默会经验。
 
 > [!claim] [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]
-> **证据等级制对实践默会知识的边缘化与认识论正义** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对经合组织、世界银行与教科文组织证据政策的批判分析指出，超国家机构标榜的客观中立证据体系，推行了以量化因果评估为首要准绳的认识等级，将严谨性狭隘等同于实验研究与元分析效应量。这一技术理性体系排斥了深嵌于具体历史与文化情境中的质性研究、实践默会知识与本土传统，将一线教师与本土社区的默会经验贬低为缺乏科学效度的非正规经验。研究者与决策团队之间的沟通断层根源在于全球知识供给与本土现实需求之间的认识论鸿沟，推进包容性证据生态必须倡导认识论正义，赋予教师实践智慧与社区默会知识合法地位。[[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, pp. 347–350)]]
+> **证据等级制对实践默会知识的边缘化与认识论正义** 坎贝尔等（[[Argument_Campbell_2026_JPCC|Campbell et al., 2026]]）基于对经合组织、[[World Bank|世界银行]]与[[UNESCO|教科文组织]]证据政策的批判分析指出，超国家机构标榜的客观中立证据体系，推行了以量化因果评估为首要准绳的认识等级，将严谨性狭隘等同于[[Experimental Research|实验研究]]与[[Meta-analysis|元分析]][[Effect Size|效应量]]。这一[[Technical Rationality|技术理性]]体系排斥了深嵌于具体历史与文化情境中的[[Qualitative Research|质性研究]]、实践默会知识与本土传统，将一线教师与本土社区的默会经验贬低为缺乏科学效度的非正规经验。研究者与决策团队之间的沟通断层根源在于全球知识供给与本土现实需求之间的认识论鸿沟，推进包容性证据生态必须倡导认识论正义，赋予教师[[Phronesis|实践智慧]]与社区默会知识合法地位。[[Argument_Campbell_2026_JPCC\|(Campbell et al., 2026, pp. 347–350)]]
 
 > [!claim] [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]]
 > **治理边缘草根默会知识对全球正统教条的反向重构** 戴安娜·斯通等（[[Argument_Stone_2020_PolSoc|Stone et al., 2020]]）基于公共卫生减害政策跨国流动案例指出，传统技术官僚理性将政策简化为中央与国际机构自上而下颁布的标准化禁令。然而，基层实务人员在治理边缘就地探索出的针具交换与替代疗法等草根默会知识（Tacit Knowledge），通过跨国城市网络横向传播，逐步自下而上渗透至地方立法，最终迫使国家管理部门与国际多边组织修正既有禁令教条。这证明一线行动者的情境化实践默会知识不仅具有独立的合法性，更能反向重塑被全球技术官僚垄断的正式制度规范。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 2–3, 5–6)]]
@@ -154,7 +161,7 @@ updated: 2026-10-25
 > |---|---|---|---|
 > | **相对价值反转** | 信息技术普及导致编码知识贬值，默会学习能力转变为核心经济资产 | 知识经济演进与后工业劳动力市场变革 | Foray & Lundvall; Rizvi & Lingard |
 > | **具身实践获取** | 默会知识无法脱离身体与实践情境，必须依托浸润式经验习得 | 课堂教学法改革、职业教育与科研[[Apprenticeship\|学徒制]] | Polanyi; Nonaka |
-> | **认识论正义与去边缘化** | 批判实证主义证据等级制对实践与本土默会知识的排斥，揭示草根默会知识反向重构全球正统规范的效能 | 超国家教育治理、全球循证决策、跨国政策流动与城市治理创新 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]; [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] |
+> | **认识论正义与去边缘化** | 批判实证主义证据等级制对实践与本土默会知识的排斥，揭示草根默会知识反向重构全球正统规范的效能 | 超国家教育治理、全球循证决策、跨国[[Policy Mobility\|政策流动]]与城市治理创新 | [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]]; [[Argument_Stone_2020_PolSoc\|Stone et al. (2020)]] |
 
 ---
 
@@ -189,7 +196,7 @@ updated: 2026-10-25
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 结合解释性政策分析与跨国城市治理案例，揭示一线实务团队的草根默会知识如何打破中心-边缘单向依附并反向重构全球正统政策规程（pp. 2–6）。
+> - [[Argument_Stone_2020_PolSoc|Stone et al. (2020)]] — 结合[[Interpretive Policy Analysis|解释性政策分析]]与跨国城市治理案例，揭示一线实务团队的草根默会知识如何打破中心-边缘单向依附并反向重构全球正统政策规程（pp. 2–6）。
 > - [[Argument_Campbell_2026_JPCC\|Campbell et al. (2026)]] — 批判超国家机构以技术理性与因果评估特权化排斥一线实践默会知识的等级制，倡导承认教师与本土默会经验合法性的认识论正义（pp. 347–350）。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 445–447)]] — 阐释[[Knowledge-Based Economy|知识经济]]如何依托默会知识与编码知识的二分，将全球教育目标重塑为实用技能与[[Lifelong Learning|终身学习]]能力。
 > - [[Argument_Chou_Demiryol_2024_HE|Chou and Demiryol (2024, p. 1697)]] — 在跨国高等教育与[[Knowledge Diplomacy|知识外交]]分析中，揭示非正式网络规范与制度性隐性知识在全球[[Knowledge Power|知识权力]]配置与跨国政策动员中的关键中介作用。

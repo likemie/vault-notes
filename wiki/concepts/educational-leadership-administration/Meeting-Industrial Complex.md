@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -83,10 +83,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　会议狂热构成大企业抽干创造力并迫使顶尖人才外流的制度性漏斗
-
-> [!concept-lens] 组织病理学与智力耗竭维度
-> 剖析大企业会议文化如何将稀缺的[[Creativity|创造性]]脑力扭曲为内耗性政治防卫。
+> [!concept-proposition] 命题一｜会议狂热构成大企业抽干[[Creativity|创造力]]并迫使顶尖人才外流的制度性漏斗
+> **探讨维度　组织病理学与智力耗竭维度** 剖析大企业会议文化如何将稀缺的[[Creativity|创造性]]脑力扭曲为内耗性政治防卫。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **会议政治化与人才外流断言** 卡普与扎米斯卡论证指出，美国传统大企业模式已沦为一种毫不掩饰的榨取性体制，其最具破坏性的特征就是会议工业复合体将员工绝大部分精力耗费在防卫内部威胁、结盟与争权上；硅谷初创企业正是大企业会议折磨与心理窒息的直接受益者——无数厌倦了[[Performativity|表演性]]政治的天才工程师作为文化流亡者逃离了传统公司。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 126–128)]]

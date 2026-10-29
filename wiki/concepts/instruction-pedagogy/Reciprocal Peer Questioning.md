@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -82,10 +82,8 @@ updated: 2026-10-25
 
 ## 围绕概念形成的命题
 
-### 命题一　提问句干支架通过促进认知精细加工显著提升思维技能
-
-> [!concept-lens] 认知建构机制
-> 探讨生成问题与深度解释对思维的促进作用。
+> [!concept-proposition] 命题一｜提问句干支架通过促进认知精细加工显著提升思维技能
+> **探讨维度　认知建构机制** 探讨生成问题与深度解释对思维的促进作用。
 
 > [!claim] Abrami, P. C., et al.; King, A.
 > **同伴互问的高效能实证支持** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 在[[Meta-analysis\|元分析]]中特别将 King 的对等同伴提问法列为示范案例。实证检验显示，学生自主生成提问策略获得了显著的正向效应（$k = 4, g+ = 0.37, 95\%\text{ CI} = [-0.02, 0.77]$）。认知心理学表明，为了提出高阶问题并向同伴解释答案，学生必须在[[Working Memory\|工作记忆]]中重组认知结构、建立新旧知识联结，这种“生成性精细加工”（Generative Elaboration）直接驱动了[[Critical Thinking\|批判性思维]]的巩固。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285, 294)]]

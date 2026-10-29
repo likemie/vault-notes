@@ -10,7 +10,7 @@ aliases:
 summary: "指个体与公众在面对自然现象、实证证据与公共决策时所秉持的理性探究倾向与价值取向，涵盖实证怀疑、拥抱不确定性、开放反思等认识论心智，并在历史教育改革（如1920年代民国新教育）与现代公众科学态度调查（如PAS 2025）中扮演核心话语功能。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Deficit Model of Science Communication]]"
   - "[[Science Journalism]]"
   - "[[Praxis]]"
+  - "[[Document]]"
   - "[[Citizen Science]]"
   - "[[Public Engagement with Science]]"
   - "[[Reflective Thinking]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -127,10 +128,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　科学态度构成了1920年代民国新教育运动从激进民主向适应国情与渐进实验的范式转向
-
-> [!concept-lens] [[Paradigm\|范式]]转向与本土政治语境
-> 比较教育研究揭示，1923 年后军阀混战危局与激进课改受挫，促使教育阵营从《新教育》的民主理想转向《新教育评论》的科学态度。
+> [!concept-proposition] 命题一｜科学态度构成了1920年代民国[[New Education Movement|新教育运动]]从激进民主向适应国情与渐进实验的[[Paradigm|范式]]转向
+> **探讨维度　[[Paradigm\|范式]]转向与本土政治语境** 比较教育研究揭示，1923 年后军阀混战危局与激进课改受挫，促使教育阵营从《新教育》的民主理想转向《新教育评论》的科学态度。
 
 > [!claim] [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024, pp. 619–621)]]
 > **从《新教育》民主范式向《新教育评论》科学态度范式转型** 详细阐述 1925 年[[Tao Xingzhi\|陶行知]]主持的《新教育评论》创刊号确立科学态度为新教育核心原则。改革者深刻检讨了此前对国际潮流的盲目崇拜，教育目标从追赶世界转向适应国情与国家建设。
@@ -139,30 +138,24 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　现代科学态度要求超越事实记忆并接纳科学知识的暂定性与不确定性
-
-> [!concept-lens] [[Nature of Science\|科学本质]]与证据评估
-> 面对数字信息爆炸与伪科学泛滥，科学态度的核心不再是记忆孤立的科学定理，而是理解科学探索本身的实证逻辑。
+> [!concept-proposition] 命题二｜现代科学态度要求超越事实记忆并接纳科学知识的暂定性与不确定性
+> **探讨维度　[[Nature of Science\|科学本质]]与证据评估** 面对数字信息爆炸与伪科学泛滥，科学态度的核心不再是记忆孤立的科学定理，而是理解科学探索本身的实证逻辑。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, pp. 30–31)]]
 > **[[Scientific Uncertainty\|科学不确定性]]理解与证据质量批判审视** 强调科学[[Knowledge Production\|知识生成]]是动态演进的实证探索过程，[[Scientific Literacy\|科学素养]]的核心在于具备评估多源证据质量、识别数据偏差以及接纳科学知识暂定性（Provisional Nature）的态度倾向。缺乏对不确定性的理性认知，往往导致公众在面对动态修正的科学共识（如公共卫生危机中的指引调整）时陷入极端怀疑论或反智主义。
 
 ---
 
-### 命题三　公众对科学的高度信任与信息渴求呼唤从单向普及转向实质性科技民主审议
-
-> [!concept-lens] 科技治理中的公众参与态度
-> 民意调查揭示出公众对科学发展抱有高度正向态度，但制度化参与渠道的匮乏制约了科学与社会的良性协同。
+> [!concept-proposition] 命题三｜公众对科学的高度信任与信息渴求呼唤从单向普及转向实质性科技民主审议
+> **探讨维度　科技治理中的公众参与态度** 民意调查揭示出公众对科学发展抱有高度正向态度，但制度化参与渠道的匮乏制约了科学与社会的良性协同。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026, pp. 47–48)]]
 > **信息渴求高涨与决策边缘化的结构性矛盾** 依托 2025 年全英公众对科学态度调查（PAS 2025）指出，87% 的受访公众高度信任高校科学家，62% 的公众明确表示渴望获取更多科学信息；然而仅有 12% 的受访者认为公众在科技重大决策中得到了充分参与。健康的科学态度不仅包括公众对科学知识的向往，更包括科学共同体对公众多元诉求与价值关切的主动倾听，必须彻底废弃[[Deficit Model of Science Communication\|赤字模型]]，构建双向协商制度。
 
 ---
 
-### 命题四　面对算法媒介环境的科学态度要求从末日恐慌回避转向赋能型解决方案求知
-
-> [!concept-lens] 媒介消费心理与建设性传播
-> 传统轰动式灾难恐慌报道正在造成公众对[[Science Journalism\|科学新闻]]的心理防卫性回避，科学态度体现为对建设性出路的积极探寻。
+> [!concept-proposition] 命题四｜面对算法媒介环境的科学态度要求从末日恐慌回避转向赋能型解决方案求知
+> **探讨维度　媒介消费心理与建设性传播** 传统轰动式灾难恐慌报道正在造成公众对[[Science Journalism\|科学新闻]]的心理防卫性回避，科学态度体现为对建设性出路的积极探寻。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|The Royal Society (2026, pp. 57, 63)]]
 > **解决方案导向与科学求知赋能** 面对气候与健康危机，铺天盖地的灾难性警报极易诱发受众的无力感与“新闻回避”（News Avoidance）；健康的公众科学态度并不等于麻木或虚无，而表现为对“[[Solutions Journalism\|解决方案新闻]]”（Solutions Journalism）的强烈需求——即不仅展示严峻挑战，更依托严密科学证据评估潜在干预措施的有效性与社会可行性，从而将焦虑转化为理性的公民行动。
@@ -170,7 +163,7 @@ updated: 2026-10-26
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境与[[Praxis\|实践]]机制 | 代表文献 / 来源 |
+> | 命题类型 | 核心指向 | 适用情境与[[Praxis\|实践]]机制 | 代表[[Document\|文献]] / 来源 |
 > |---|---|---|---|
 > | **范式转向与国情适应** | 揭示民国[[New Education Movement\|新教育运动]]从激进民主向科学态度的转型 | 比较教育史、教育范式演进 | [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] |
 > | **[[Epistemology\|认识论]]与不确定性接纳** | 强调掌握多源证据批判与科学暂定性认知的核心地位 | 科学课程改革、[[Citizen Science\|公民科学]]素养 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 30)]] |

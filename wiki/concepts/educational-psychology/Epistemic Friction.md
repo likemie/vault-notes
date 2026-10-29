@@ -8,7 +8,7 @@ aliases:
 summary: "源自社会认识论、学习科学与人机交互核心构念，指个体在遭遇相左证据、异质观点或复杂决策任务时所经历的生产性阻力与反思张力，是激活元认知监控、深度推理与校准批判性信任的必要机制。"
 type: concept
 domain: "educational-psychology"
-related_count: 45
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Epistemic Value]]"
   - "[[Cognitive Offloading]]"
+  - "[[Structured Teaching]]"
   - "[[Scaffolding]]"
   - "[[Educational Affordances]]"
   - "[[Homework]]"
@@ -52,6 +53,7 @@ related_concepts:
   - "[[Evaluative Judgement]]"
   - "[[Variable]]"
   - "[[Literature Review]]"
+  - "[[Peer Assessment]]"
   - "[[Epistemic Dependence]]"
   - "[[Scientific Uncertainty]]"
   - "[[AI Literacy]]"
@@ -74,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 （[[Epistemology|认识论]]摩擦 / 生产性认知摩擦）
@@ -150,20 +152,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　高阶思维的发展以生产性认识论摩擦为必要认知前提
-
-> [!concept-lens] 认知建构与心智发展规律
-> 阐明人类高阶心智能力并非在自动化与顺滑接受中习得，而必须在克服认知阻力的挣扎过程中得以塑形。
+> [!concept-proposition] 命题一｜[[Higher-Order Thinking Skills|高阶思维]]的发展以生产性[[Epistemology|认识论]]摩擦为必要认知前提
+> **探讨维度　认知建构与心智发展规律** 阐明人类高阶心智能力并非在自动化与顺滑接受中习得，而必须在克服认知阻力的挣扎过程中得以塑形。
 
 > [!claim] Medina (2013); [[Argument_Li_2026_CEAI|Li et al. (2026)]]
 > **生产性摩擦的[[Epistemic Value|认识论价值]]** 无论是社会批判意识还是高阶[[Critical Thinking|批判性思维]]，都高度依赖于认知主体在面对异质观念、复杂反例时所经历的[[Epistemology|认识论]]摩擦。这种摩擦是打断直觉式思维（System 1）、迫使长时记忆图式进行适应性重组与深度加工的必要心理动力学条件。[[Argument_Li_2026_CEAI|(Medina, 2013; Li et al., 2026, p. 10)]]
 
 ---
 
-### 命题二　生成式 AI 的表面语义流畅性天然消除认识论摩擦，诱发心智惰性
-
-> [!concept-lens] 技术特性引发的心智旁路机制
-> 解构大语言模型如何通过极高的语言表达质量绕过学习者的认知防线。
+> [!concept-proposition] 命题二｜生成式 AI 的表面语义流畅性天然消除认识论摩擦，诱发心智惰性
+> **探讨维度　技术特性引发的心智旁路机制** 解构大语言模型如何通过极高的语言表达质量绕过学习者的认知防线。
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
 > **无摩擦陷阱与有害[[Cognitive Offloading|认知卸载]]** 大语言模型生成的文本具有权威的语调与规整的语法结构，这种表面语义流畅性为学生提供了无阻力的答案通道。在缺乏显性教学引导的情境下，学生倾向于直接采纳模型输出，天然切除了本来需要由学习者自主经历的阅读、提取、论证与校验过程，造成严重的有害认知卸载与[[Creativity|创造性]]早熟收敛。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 2, 7–8, 10)]]
@@ -173,30 +171,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题三　生产性认识摩擦与浪费性摩擦的甄别是智能时代人机交互的分水岭
-
-> [!concept-lens] 认知劳动分工与生产性阻力保护
-> 论证技术应用并非消灭一切心智阻力，而是消除工具性浪费、保留探究性摩擦。
+> [!concept-proposition] 命题三｜生产性认识摩擦与浪费性摩擦的甄别是智能时代人机交互的分水岭
+> **探讨维度　认知劳动分工与生产性阻力保护** 论证技术应用并非消灭一切心智阻力，而是消除工具性浪费、保留探究性摩擦。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]]
 > **浪费性摩擦与生产性认识摩擦的实质分野** 在人机交互与教学设计中，必须严格区分两类摩擦：其一是繁琐格式排错、机械文件[[Transcription in Qualitative Research|转录]]与低效界面翻找所引发的“浪费性摩擦”，这类负担过度消耗[[Working Memory|工作记忆]]，应当利用工具予以消除以增进可及性；其二是直面反常证据时的困惑、权衡对立解释时的挣扎以及对论证前提的批判审视，这属于维系[[Metacognition|元认知监控]]与深层图式建构的“生产性认识摩擦”。若系统以全流程代劳连根抹平生产性摩擦，将导致学习者与专业决策者核心评价能力的退化。[[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 5–6)]]
 
 ---
 
-### 命题四　结构化教学设计的核心功能在于按需重构认识论摩擦
-
-> [!concept-lens] [[Scaffolding|教学支架]]与认知阻力重塑
-> 阐明教育者在智能化时代的角色转变：从传统的“知识传递者”转变为“生产性摩擦的设计师”。
+> [!concept-proposition] 命题四｜[[Structured Teaching|结构化教学设计]]的核心功能在于按需重构认识论摩擦
+> **探讨维度　[[Scaffolding|教学支架]]与认知阻力重塑** 阐明教育者在智能化时代的角色转变：从传统的“知识传递者”转变为“生产性摩擦的设计师”。
 
 > [!claim] [[Argument_Li_2026_CEAI|Li et al. (2026)]]
 > **结构化支架对摩擦的再注入** 教学系统不能寄希望于学生在面对顺滑 AI 输出时自发维持摩擦。有效的教学法必须通过结构化设计（如提示词迭代链追踪、对抗性红队查错任务、概念对比量规与口头答辩），主动在人机交互流程中植入反思关卡，将外部[[Educational Affordances|技术可供性]]引导至对核心概念的深度批判审思中。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 11–13)]]
 
 ---
 
-### 命题五　在安全关键人机决策中通过反思机器与反驳型击败者注入认识论摩擦是校准批判性信任的核心路径
-
-> [!concept-lens] 人机决策安全与批判性[[Trust Calibration|信任校准]]
-> 探讨如何利用界面交互机制打破[[Automation Bias|强自动化偏差]]，恢复人类实质控制权。
+> [!concept-proposition] 命题五｜在安全关键人机决策中通过反思机器与[[Defeater|反驳型击败者]]注入认识论摩擦是校准批判性信任的核心路径
+> **探讨维度　人机决策安全与批判性[[Trust Calibration|信任校准]]** 探讨如何利用界面交互机制打破[[Automation Bias|强自动化偏差]]，恢复人类实质控制权。
 
 > [!claim] Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **反思机器与[[Defeater|击败者]]对批判性信任的重建** 克服强自动化偏差与[[Epistemic Deference|认识论顺从]]不能仅凭操作者个人警觉，必须在技术交互界面嵌入结构化认识论摩擦：
@@ -263,7 +255,7 @@ updated: 2026-10-22
 > - **大学科学写作中的对抗性红队查错规程（[[Argument_Li_2026_CEAI|Li et al., 2026]]）**
 >   教师要求学生利用 ChatGPT 生成[[Literature Review|文献综述]]初稿后，强制执行“红队查错（Red-teaming）”任务：逐条核查生成文本中的引文真实性、数据准确性与论点逻辑漏洞，强制制造认识论摩擦，有效破除学生对流畅文本的盲信。
 > - **高年级科研方法课的对抗性质询与反思决策规程（[[Argument_Du_Yuan_2026_AIS|Du & Yuan, 2026]]）**
->   教师要求学生完成[[Blended Learning|混合式教学]]方案设计后调用 AI 辅助反馈，随后强制执行四步规程：禁止一键采纳，构建“AI反馈—同伴互评—教师范例”多源对比矩阵；使用反思问题进行对抗性质询；在提交最终[[Homework|作业]]时附带《反思决策日志》阐明采纳或拒绝特定建议的理论依据，使技术成为制造生产性认识摩擦的对话靶子。
+>   教师要求学生完成[[Blended Learning|混合式教学]]方案设计后调用 AI 辅助反馈，随后强制执行四步规程：禁止一键采纳，构建“AI反馈—[[Peer Assessment|同伴互评]]—教师范例”多源对比矩阵；使用反思问题进行对抗性质询；在提交最终[[Homework|作业]]时附带《反思决策日志》阐明采纳或拒绝特定建议的理论依据，使技术成为制造生产性认识摩擦的对话靶子。
 > - **基于提示词追踪的反思日志教学法（Prompt Trail Reflection）**
 >   学生在提交最终设计方案时，必须同时附上人机交互对话记录与思维反思日记，详细阐述自己如何质疑 AI 的第一版方案并迭代提示词，将评价重点从静态结果转向动态的认识论挣扎过程。
 

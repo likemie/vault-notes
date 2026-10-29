@@ -11,10 +11,10 @@ aliases:
 summary: "Geertz 提出的质性研究核心范畴，要求超越行为表面物理记录，将行动嵌入完整社会文化脉络，囊括意义、主观诠释与不可观察的情境要素，使读者获得现场共鸣并支持自然主义概括。"
 type: concept
 domain: "research-methodology"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 62
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - research-methodology
   - qualitative-research
@@ -38,9 +38,11 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Trustworthiness]]"
   - "[[Evaluation Research]]"
+  - "[[Paradigm]]"
+  - "[[Evidence-Based Policy-Making]]"
+  - "[[State Simplification]]"
   - "[[Double Hermeneutic]]"
   - "[[Lesson Study]]"
-  - "[[Paradigm]]"
   - "[[Interpretive Paradigm]]"
   - "[[Operationalization]]"
   - "[[Epistemic Agency]]"
@@ -74,6 +76,7 @@ related_persons:
   - "[[Robert E. Stake]]"
   - "[[Jianwei Zhang]]"
 related_facts:
+  - "[[ASEAN Credit Transfer System]]"
   - "[[PISA]]"
   - "[[Swedish Schools Inspectorate]]"
 related_arguments:
@@ -89,7 +92,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -138,7 +141,7 @@ updated: 2026-10-22
 > - **使隐性文化知识显性化** Spindler and Spindler（1992, pp. 72–74）指出，大量支配人类日常行动的社会文化规则是默会的，甚至行动者自身亦日用而不知。深描的关键任务正是将这种潜沉的[[Tacit Knowledge|默会知识]]对读者予以系统阐明。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, Ch. 11, p. 407)]]
 
 > [!feature] Carspecken（1996）深描操作六构件
-> - **言语行为（Speech acts）** 记录参与者说了什么、如何说以及[[Discourse|话语]]互动的微观时序结构。
+> - **言语行为（Speech [[ASEAN Credit Transfer System|acts]]）** 记录参与者说了什么、如何说以及[[Discourse|话语]]互动的微观时序结构。
 > - **非语言沟通（Non-verbal communication）** 细致记录身体姿态、眼神对视、面部微表情与物理空间距离的使用。
 > - **低推断词汇描述（Low-inference vocabulary）** 优先使用贴近经验事实本身的词汇，避免过早掺入研究者未经检验的抽象评判。
 > - **时间节点与时机记录（Temporal marking）** 精确捕捉互动发生的节奏、停顿与时序转折点。
@@ -162,10 +165,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　深描要求将人类行动嵌入社会文化脉络并捕捉行动者赋予的主观意义
-
-> [!concept-lens] [[Ontology\|本体论]]与[[Epistemology\|认识论]]维度
-> 本命题确立深描区别于传统[[Behaviorism|行为主义]]观察的根本认识论分水岭：人类行动是由主观意图与符号价值浸润的社会实践，超越了纯粹生理痉挛或物理位移的机械表象。
+> [!concept-proposition] 命题一｜深描要求将人类行动嵌入社会文化脉络并捕捉行动者赋予的主观意义
+> **探讨维度　[[Ontology\|本体论]]与[[Epistemology\|认识论]]维度** 本命题确立深描区别于传统[[Behaviorism|行为主义]]观察的根本认识论分水岭：人类行动是由主观意图与符号价值浸润的社会实践，超越了纯粹生理痉挛或物理位移的机械表象。
 
 > [!claim] Geertz, C.
 > **文化之网与意义阐释** 格尔茨认为人是悬挂在自身编织的意义之网中的动物，文化的分析是一门探究意义的解释科学，区别于单纯寻找普遍因果规律的受控实验科学。深描的本质任务就在于解析社会[[Discourse|话语]]的流动，把不可观察的参与者诠释、制度传统与细微意图编织进文本之中，将稍纵即逝的事件转化为可供反复查阅与批判反思的智力记述。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, Ch. 11, pp. 403–404)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, Ch. 28, p. 538)]]
@@ -181,10 +182,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　深描构成质性研究可信度、情境共鸣与自然主义概括的核心基石
-
-> [!concept-lens] 方法论效度维度
-> 本命题探讨深描如何在摒弃[[Positivism\|实证主义]]统计外推与控制实验的前提下，确立质性探究独特的合法性标准与效度支撑机制。
+> [!concept-proposition] 命题二｜深描构成[[Qualitative Research|质性研究]]可[[Reliability|信度]]、情境共鸣与[[Naturalistic Generalization|自然主义概括]]的核心基石
+> **探讨维度　方法论效度维度** 本命题探讨深描如何在摒弃[[Positivism\|实证主义]]统计外推与控制实验的前提下，确立质性探究独特的合法性标准与效度支撑机制。
 
 > [!claim] [[Yvonna S. Lincoln\|Lincoln, Y. S.]] & [[Egon G. Guba\|Guba, E. G.]]
 > **可[[Reliability\|信度]]与迁移性基准** 林肯与古巴明确将深描界定为[[Qualitative Research\|质性研究]]建构“可信度（[[Trustworthiness]]）”的关键操作工具；由于质性研究不谋求统计概率外推，唯有通过提供极其详尽充实的深描，外部决策者与实践者才能审慎[[Evaluation Research\|评估研究]]结论向自身新情境迁移的可能性与边界条件。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, Ch. 11, p. 404)]]
@@ -193,14 +192,12 @@ updated: 2026-10-22
 > **[[Naturalistic Generalization\|自然主义概括]]机制** 斯塔克指出[[Case Study\|案例研究]]中的深描为读者开展“自然主义概括”提供了心理基础；读者借助深描传递的经验质感，将案例中的冲突、抉择与智慧与自身的实践处境进行直觉性对比与[[Creativity\|创造性]]借用，实现自然主义概括而非机械统计推断。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, Ch. 11, pp. 444–445)]]
 
 > [!claim] Segerholm, C., Lindgren, J. & Novak, J.
-> **工具性个案研究中深描对微观治理机制的解析** 遵循罗伯特·斯塔克（Robert E. Stake, 1995, 2006）的工具性个案研究范式，对[[Swedish Schools Inspectorate|瑞典学校督察局]]的内部运作展开全景深描。研究通过对常规督导起草僵局的详实叙事档案，以及对质量审计专家参考组会议交锋与传播秘书处定稿删改的微观深描，呈现了证据本位政策制定与治理实践中未被官方承认的具身经验、人际斡旋与文本规程转换机制；深描通过扎实微观证据与自然主义概括，阐明国家简化如何借由循证外衣规制学校，其效度立足于机制解析深度而非统计样本代表性。[[Argument_Segerholm_Lindgren_Novak_2022_SJER\|(Segerholm et al., 2022, pp. 643, 645–646, 652–654)]]
+> **工具性个案研究中深描对微观治理机制的解析** 遵循罗伯特·斯塔克（Robert E. Stake, 1995, 2006）的工具性个案[[Paradigm|研究范式]]，对[[Swedish Schools Inspectorate|瑞典学校督察局]]的内部运作展开全景深描。研究通过对常规督导起草僵局的详实叙事档案，以及对质量审计专家参考组会议交锋与传播秘书处定稿删改的微观深描，呈现了[[Evidence-Based Policy-Making|证据本位政策制定]]与治理实践中未被官方承认的具身经验、人际斡旋与文本规程转换机制；深描通过扎实微观证据与自然主义概括，阐明[[State Simplification|国家简化]]如何借由循证外衣规制学校，其效度立足于机制解析深度而非统计样本代表性。[[Argument_Segerholm_Lindgren_Novak_2022_SJER\|(Segerholm et al., 2022, pp. 643, 645–646, 652–654)]]
 
 ---
 
-### 命题三　深描是选择性写作的学术纪律而非无节制的数据堆砌
-
-> [!concept-lens] 文本生产与写作纪律维度
-> 本命题澄清关于深描的常见方法论误读，揭示深描在面对海量现场材料时所必须遵守的提炼纪律与分析约束。
+> [!concept-proposition] 命题三｜深描是选择性写作的学术纪律而非无节制的数据堆砌
+> **探讨维度　文本生产与写作纪律维度** 本命题澄清关于深描的常见方法论误读，揭示深描在面对海量现场材料时所必须遵守的提炼纪律与分析约束。
 
 > [!claim] Swain, J.
 > **1% 的选择性纪律** 斯温犀利指出，最终呈现的深描报告往往只包含收集数据的不到 1%，即使全部数据加总也仅占研究者全部经历的微小碎片；对情境细节的忠诚与必然的选择性写作之间始终存在着根本张力，优秀的深描体现为精准筛选最具解释力和代表性的典型片段，对海量日常经验展开高度自律的理论提炼。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|(Cohen et al., 2011, Ch. 11, p. 443)]]
@@ -210,10 +207,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题四　深描能够穿透机械行为编码而解码情境索引性与默契秩序
-
-> [!concept-lens] 微观互动与方法论批判维度
-> 本命题聚焦深描与量化系统观察工具在[[Lesson Study\|课堂研究]]中的正面交锋，彰显深描在[[Decodification\|解码]]微观语言密语与权力协商中的不可替代性。
+> [!concept-proposition] 命题四｜深描能够穿透机械行为编码而[[Decodification|解码]]情境[[Indexicality|索引性]]与默契秩序
+> **探讨维度　微观互动与方法论批判维度** 本命题聚焦深描与量化系统观察工具在[[Lesson Study\|课堂研究]]中的正面交锋，彰显深描在[[Decodification\|解码]]微观语言密语与权力协商中的不可替代性。
 
 > [!claim] Walker, R. & Adelman, C.
 > **[[Indexicality\|索引性]]破译与行为编码局限** 沃克与阿德尔曼通过经典中学的“草莓事件”实证论证：预设类别的行为量化观察系统（如 [[Flanders Interaction Analysis Categories\|FIAC]]）仅能记录外在行为的表面序列（如批评-提问-激惹-混乱），彻底抹杀了话语中浓缩的情境索引性（indexicality）；深描揭示出看似叛逆的打断实质上是高度信赖的师生幽默默契，有力证明了缺乏深描的行为测度在教育复杂性面前的认识论贫困。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 20–21)]]

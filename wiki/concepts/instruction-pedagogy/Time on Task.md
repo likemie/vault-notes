@@ -11,7 +11,7 @@ aliases:
 summary: "学习者在课堂教学过程中实际专注投入于教师所提供学习活动的时间总量或比例。作为有效教学与学业成就的基础性前置条件，它反映了潜在教学机会向实质学习经历的转化效率；在世界银行Teach等工具中，通过瞬时定格快照操作化为教师提供学习活动与学生在轨人数的客观状态判定，但实证研究一致表明单纯增加在轨时间若缺乏高推论教学质量支撑，无法自发带来深层认知与社会情感技能发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Effective Teaching]]"
   - "[[Critical Thinking]]"
+  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Strategic Compliance]]"
   - "[[Class Size]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 > [!def] Time on Task
@@ -133,7 +134,7 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　任务在轨时间是认知习得的必要但非充分前提，其效用严格受制于教学实践质量
+> [!concept-proposition] 命题一｜任务在轨时间是认知习得的必要但非充分前提，其效用严格受制于教学实践质量
 
 在[[Effective Teaching|有效教学]]与教育计量学脉络中，学者普遍主张将时间利用视为[[Academic Achievement|学业表现]]的基础门槛，强调单纯延长在轨时间无法自发转化为高级认知成果。
 
@@ -145,7 +146,7 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　课堂过渡迟滞与并发行政事务是侵蚀在轨时间的主要制度性损耗源
+> [!concept-proposition] 命题二｜课堂过渡迟滞与并发行政事务是侵蚀在轨时间的主要制度性损耗源
 
 在[[Classroom Management|课堂管理]]与微观生态学研究中，研究者聚焦于课堂组织环节对时间资产的隐性吞噬，揭示常规管理效能对在轨时间的决定性影响。
 
@@ -162,7 +163,7 @@ updated: 2026-10-25
 对上述关于任务在轨时间的核心命题进行横向系统归纳：
 
 > [!contrast-table] 任务在轨时间理论命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表文献 |
+> | 命题类型 | 核心指向 | 适用情境 | 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **认知生产必要前提命题** | 在轨时间是学业成就的基础保障，但其价值取决于教学指导与支持的质量水平。 | 基础教育全科课堂、教育生产函数建模、宏观教学效能诊断。 | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] |
 > | **微观组织损耗防范命题** | 清晰的过渡管理与结构化任务设计能够最大限度阻断行政事务对注意力的吞噬。 | 班级管理常规构建、职前教师技能训练、课堂低效诊断。 | 同上 |

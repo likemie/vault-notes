@@ -9,7 +9,7 @@ aliases:
 summary: "二战后盛行于英美社会学与比较教育学的核心宏观理论范式，将社会视为由相互依存的子系统构成的有机均衡系统，强调教育承担着社会化、人才选拔与劳动力分流的客观功能，以价值共识、社会整合与适应性演进维系现代功绩制民主社会。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -42,6 +42,7 @@ related_persons:
   - "[[Talcott Parsons]]"
   - "[[C. Arnold Anderson]]"
   - "[[Philip Foster]]"
+  - "[[Robert K. Merton]]"
   - "[[Rolland Paulston]]"
   - "[[Michael Sadler]]"
 related_facts:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -75,7 +76,7 @@ updated: 2026-10-22
 > - **形成路径** 从观察社会的稳定与再生产需求出发，将教育抽象为社会系统内部的专门化功能构件，通过建构社会化（Socialization）与分流配置（Allocation）两大机制，解释教育如何衔接个人能动性与宏观社会结构的秩序需求。
 
 > [!dev-timeline] 理论版本与贡献
-> - **1957 — 中层功能分析与越轨功能修正** 罗伯特·金·默顿（Robert K. Merton）提出显功能（Manifest Functions）、潜功能（Latent Functions）与功能失调（Dysfunctions）概念，打破了早期帕森斯体系绝对功能不可替代的先验教条。
+> - **1957 — 中层功能分析与越轨功能修正** 罗伯特·金·[[Robert K. Merton|默顿]]（Robert K. Merton）提出显功能（Manifest Functions）、潜功能（Latent Functions）与功能失调（Dysfunctions）概念，打破了早期帕森斯体系绝对功能不可替代的先验教条。
 > - **1960s — 比较教育芝加哥学派的操作化** 安德森与福斯特将功能主义引入比较教育，主张超越历史个案白描，运用大规模跨国实证统计检验学校教育对劳动力市场选拔与社会流动的客观恒常规律。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 146–147)]]
 > - **1965 — 跨国政治发展与教育功能整合** 詹姆斯·S·科尔曼（James S. Coleman）在《教育与政治发展》（*Education and Political Development*）中将功能主义扩展至政治社会化与现代国家构建研究，强调教育对政治一体化的支撑作用。
 > - **1970s — 激进冲突[[Paradigm|范式]]的全面解构** 激进批判学者与[[Dependency Theory|依附理论]]学者揭露结构功能主义的保守主义意识形态底色，证明其假定的公平功绩制本质上是资产阶级维系不平等的合法化外衣。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–154)]]

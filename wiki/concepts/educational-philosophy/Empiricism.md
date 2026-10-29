@@ -12,7 +12,7 @@ aliases:
 summary: "科学探究四大基本假设之一，主张可靠知识源自感官观察与直接经验，理论必须依托经验证据支撑，奠定了实证科学方法、Mouly 经验演化五步进程以及现代软件工程即兴经验科学的认识论基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 54
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -29,8 +29,10 @@ related_concepts:
   - "[[Variable]]"
   - "[[Feedback]]"
   - "[[Construct]]"
+  - "[[Theoretical Perspective]]"
   - "[[Geisteswissenschaften]]"
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Document]]"
   - "[[Objectivism]]"
   - "[[Reflexivity]]"
   - "[[Disciplina and Doctrina]]"
@@ -80,7 +82,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-09
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -155,50 +157,40 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　理论命题的学术立足性在根本上取决于支撑它的客观经验证据的性质与强度
-
-> [!concept-lens] 证据效度与理论检验维度
-> 探讨科学知识的合法化根基。经验主义将经验证据确立为理论存续的唯一裁决法庭。
+> [!concept-proposition] 命题一｜理论命题的学术立足性在根本上取决于支撑它的客观经验证据的性质与强度
+> **探讨维度　证据效度与理论检验维度** 探讨科学知识的合法化根基。经验主义将经验证据确立为理论存续的唯一裁决法庭。
 
 > [!claim] Barratt & Cohen et al.
 > **经验可验证性与证据判定** 科学探究中的经验性意味着能够通过观察与直接体验进行复核；任何科学假说或[[Construct|理论构念]]的可维持性，绝非取决于其逻辑的繁复程度，而完全取决于经验证据从概率角度为其提供的确认支持。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Barratt, 1971 via Cohen et al., 2011, Ch. 1, pp. 15–16)]]
 
 ---
 
-### 命题二　实证科学遵循从经验感知到分类量化、再到关系发现与逼近真理的阶梯式演进序列
-
-> [!concept-lens] 科学发展进程与程序演进维度
-> 探讨[[Scientific Method|经验科学]]的具体操作路径。Mouly 阐明了经验材料如何逐步升华至科学理论。
+> [!concept-proposition] 命题二｜实证科学遵循从经验感知到分类量化、再到关系发现与逼近真理的阶梯式演进序列
+> **探讨维度　科学发展进程与程序演进维度** 探讨[[Scientific Method|经验科学]]的具体操作路径。Mouly 阐明了经验材料如何逐步升华至科学理论。
 
 > [!claim] Mouly, G. J.
 > **经验演化五步进程判定** 科学探究必然经历从基础感官经验积累，到数据分类整理、精密测量量化，再到功能关系发现与逐步逼近真理的五步演进过程；这一秩序化进程将杂乱无章的生活事实转化为严密的经验规律。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Mouly, 1978 via Cohen et al., 2011, Ch. 1, p. 15)]]
 
 ---
 
-### 命题三　纯粹经验事实并非无前提中立存在，所有经验观察在认识论上皆受到理论视角的渗透
-
-> [!concept-lens] 后实证反思与理论负载维度
-> 探讨素朴经验论的[[Epistemology|认识论]]困境。科学哲学揭示了观察与理论的共谋关系。
+> [!concept-proposition] 命题三｜纯粹经验事实并非无前提中立存在，所有经验观察在[[Epistemology|认识论]]上皆受到[[Theoretical Perspective|理论视角]]的渗透
+> **探讨维度　后实证反思与理论负载维度** 探讨素朴经验论的[[Epistemology|认识论]]困境。科学哲学揭示了观察与理论的共谋关系。
 
 > [!claim] Popper, K.
 > **观察渗透理论与超越素朴经验论判定** 不存在未被解释的纯粹感官经验；一切[[Observation Method|科学观察]]都是选择性的，必然受到假说、前见与[[Paradigm|范式]]框架的指引与渗透，因此经验主义必须扬弃素朴归纳法，转型为以批判性检验和推测[[Falsification|证伪]]为核心的批判经验传统。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Popper, 1968 via Cohen et al., 2011, Ch. 1, p. 27)]]
 
 ---
 
-### 命题四　方法论经验主义将经验探究窄化为去情境化实证量化规训，遮蔽了人文学科与批判解释维度
-
-> [!concept-lens] 学科认识论与唯方法论主义批判维度
-> 探讨经验主义在社会科学与教育研究中的异化形态。卡扎米亚斯揭示了方法论经验主义对学科历史深度与[[Geisteswissenschaften|精神科学]]身份的削蔽。
+> [!concept-proposition] 命题四｜方法论经验主义将经验探究窄化为去情境化实证量化规训，遮蔽了人文学科与批判解释维度
+> **探讨维度　学科认识论与唯方法论主义批判维度** 探讨经验主义在社会科学与教育研究中的异化形态。卡扎米亚斯揭示了方法论经验主义对学科历史深度与[[Geisteswissenschaften|精神科学]]身份的削蔽。
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M. & Schwartz, K.
 > **方法论经验主义与唯方法论主义批判判定** 20 世纪 1960–1970 年代战后实证[[Scientism|科学主义]]运动将教育研究推向以诺亚（[[Harold Noah]]）、埃克斯坦（[[Max Eckstein]]）及芝加哥学派[[Human Capital Theory|人力资本理论]]家萨查洛普洛斯（[[George Psacharopoulos]]）为代表的方法论经验主义（methodological empiricism）乃至唯方法论主义（methodologism）。该范式秉持科学一元论假定，试图将学科改造为完全等同于自然科学的去情境化假设检验、[[Variable|变量]]控制与大[[Sample Size Determination|样本量]]化分析体系（如[[IEA|国际教育成就评价协会]]（IEA）早期跨国数学成就测试）。卡扎米亚斯强调，比较教育学并非狭隘的经验社会科学（empirical social science），而是深植于德语精神科学（*Geisteswissenschaften*）传统的阐释性、解释学与批判性人文科学；将经验探究等同于量化方法论主义，不仅导致学科陷入无历史性（ahistorical）的学术失忆症，更使量化指标沦为官僚统治与外部资助机构推行既定政策的[[Social Science as Legitimation Alibi|合法化借口]]。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias & Schwartz, 1977; Kazamias, 2009a, pp. 143, 147–149)]]
 
 ---
 
-### 命题五　工程技术构建是一门基于实战反馈与即兴试错的经验观察性科学
-
-> [!concept-lens] 复杂自适应系统与工程实践拓展维度
-> 探讨经验主义从自然科学和哲学认识论向技术工程实践与自适应组织的纵深拓展。
+> [!concept-proposition] 命题五｜工程技术构建是一门基于实战反馈与即兴试错的经验观察性科学
+> **探讨维度　复杂自适应系统与工程实践拓展维度** 探讨经验主义从自然科学和哲学认识论向技术工程实践与自适应组织的纵深拓展。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **工程经验主义与即兴试错法则判定** 软件工程与前沿技术系统的构建并非象牙塔式的先验理论推演，而是一门基于客观物理世界交互与用户实战检验的经验观察性科学（empirical and observational science）。在面对高度不确定的复杂环境时，工程师与技术组织必须秉持喜剧演员杰里·赛恩菲尔德（Jerry Seinfeld）式的极简经验主义准则——只要管用就去尝试（try whatever works），将技术迭代视为不断接受现实检验的即兴剧场，以真实运行结果作为衡量系统优劣与组织效能的唯一基准，坚决扬弃官僚式的先验公理与权威教条。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 122–123)]]
@@ -206,7 +198,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 围绕经验主义形成的理论命题总览
-> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
+> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与[[Document\|文献]] |
 > |---|---|---|---|
 > | **证据立足准则命题** | 理论的有效性完全由可复核的感官经验证据提供概率性确证 | 观察检验、概率推断、证据支持度评估 | Barratt (1971); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 15–16)]] |
 > | **程序阶梯演进命题** | 经验科学遵循经验、分类、量化、关系发现到逼近真理的五阶段递进 | 分类系统化、精确测量、函数建模 | Mouly (1978) |

@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-01
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -95,10 +95,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　教育性经验的判定取决于其对未来连续生长的促进作用而非即时快感
-
-> [!concept-lens] 经验品质的评价维度
-> 探讨教育经验的[[Epistemology\|认识论]]标准，强调经验的价值在于其时间轴上的向外扩展性。
+> [!concept-proposition] 命题一｜教育性经验的判定取决于其对未来连续生长的促进作用而非即时快感
+> **探讨维度　经验品质的评价维度** 探讨教育经验的[[Epistemology\|认识论]]标准，强调经验的价值在于其时间轴上的向外扩展性。
 
 > [!claim] [[John Dewey\|Dewey, J.]]
 > **生长的连续性判定** 杜威指出，衡量一项经验是否具备教育性，唯一的理想与标准是其能否促进个体的持续生长（Growth）。经验若仅仅在当下令人满足却导致未来的求知敏感度退化，则不具备教育性价值。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 30–31)]]

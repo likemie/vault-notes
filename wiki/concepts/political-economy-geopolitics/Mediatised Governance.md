@@ -8,7 +8,7 @@ aliases:
 summary: "一种由政治迫切性与媒介逻辑共同驱动的治理形态，指出政策行动者与大众媒体通过选择性建构危机叙事并规避具体方案审视，使全球评估数据转化为推动本土激进改革的合法化工具"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Media Logic]]"
   - "[[Construct]]"
+  - "[[Mediatisation of Education Policy]]"
   - "[[Governance by Spin]]"
   - "[[Policy Avoidance]]"
   - "[[Discourse]]"
@@ -51,7 +52,7 @@ related_methods: []
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -71,7 +72,7 @@ updated: 2026-10-26
 > *England demonstrates a form of 'mediatised governance', in which the original OECD messages were interpreted according not only to political imperatives, but by the media in a synergic process driven by media logic which allowed PISA to be referenced and used to [[Construct]] a crisis of standards and justify urgent reforms. The resulting emphasis on the negative frames... ensured that more complex, nuanced or long-term policy initiatives which accord less comfortably with newsworthiness values were largely absent.*
 
 > [!boundary]- 概念边界
-> - **不同于中介传播（Mediation）** 中介传播仅指通过大众媒体传递中立信息的静态过程；媒介化（Mediatisation）则是一种动态的元进程（meta-process），迫使政治主体遵循媒体的制作逻辑、叙事格式与时间约束进行政策表达。
+> - **不同于中介传播（Mediation）** 中介传播仅指通过大众媒体传递中立信息的静态过程；媒介化（[[Mediatisation of Education Policy|Mediatisation]]）则是一种动态的元进程（meta-process），迫使政治主体遵循媒体的制作逻辑、叙事格式与时间约束进行政策表达。
 > - **不同于纯粹的[[Governance by Spin\|舆论操控]]（[[Governance by Spin]]）** 舆论操控聚焦于政府公关团队主动管理并掩盖政策争议的单向技术；媒介化治理则涵盖媒体自身基于商业竞争与新闻价值而主动参与的议程共谋与[[Policy Avoidance\|政策规避]]，媒体并非政府的被动传声筒。
 > - **不同于超国家自上而下统摄（Global Governance）** 全球治理理论常假设超国家组织通过软法与指标迫使各国政策同质化；媒介化治理则表明国内行动者拥有极强的主体性，利用跨国评估工具的可塑性反向服务于国内政治角力。
 
@@ -138,20 +139,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　跨国评估数据的可塑性使得政策行动者能够通过遗漏话语建构本土教育危机
-
-> [!concept-lens] 政治修辞与国际数据的选择性重构
-> 探讨国内政治精英如何利用国际评估报告的复杂性与多重文本特性，通过系统性过滤与修辞重塑，将实证稳定的学业数据包装为刻不容缓的制度危机。
+> [!concept-proposition] 命题一｜跨国评估数据的可塑性使得政策行动者能够通过遗漏[[Discourse|话语]]建构本土教育危机
+> **探讨维度　政治修辞与国际数据的选择性重构** 探讨国内政治精英如何利用国际评估报告的复杂性与多重文本特性，通过系统性过滤与修辞重塑，将实证稳定的学业数据包装为刻不容缓的制度危机。
 
 > [!claim] [[Argument_Grey_2018_CE\|Grey and Morris (2018)]]
 > **评估工具的可塑性与危机修辞建构** 跨国评估数据具有极强的数据可塑性（plasticity）。政治行动者在面对国际测验数据时，并非客观汲取政策建议，而是依据本土选举与党派利益实施遗漏[[Discourse|话语]]（discourse of omission）。在英格兰案例中，政府官方声明彻底过滤掉了 [[OECD]] 关于分轨分流损害教育公平、[[Rote Learning\|死记硬背]]属于旧官僚系统、[[Performance Pay\|绩效工资]]无法提升教师质量等关键结论，反而借由停滞、下滑、被全球竞争者甩在身后等高度情绪化的警句，在学业总分实证稳定的客观背景下生造出一场国家教育危机，以此为其私有化与严苛问责的新自由主义改革议程披上国际循证的合法化外衣。（pp. 116–120）
 
 ---
 
-### 命题二　大众媒体的运作逻辑促成了对改革细则的政策规避并消解了第四权力的问责职能
-
-> [!concept-lens] 新闻生态与公共审视功能的制度性异化
-> 探讨媒体自身的新闻价值与生产机制如何在放大危机感的同时，主动[[Screening Off\|屏蔽]]对公共政策方案的实质性审查，导致民主问责机制失效。
+> [!concept-proposition] 命题二｜大众媒体的运作逻辑促成了对改革细则的[[Policy Avoidance|政策规避]]并消解了第四权力的问责职能
+> **探讨维度　新闻生态与公共审视功能的制度性异化** 探讨媒体自身的新闻价值与生产机制如何在放大危机感的同时，主动[[Screening Off\|屏蔽]]对公共政策方案的实质性审查，导致民主问责机制失效。
 
 > [!claim] [[Argument_Grey_2018_CE\|Grey and Morris (2018)]]
 > **[[Media Logic\|媒介逻辑]]驱动下的[[Policy Avoidance\|政策规避]]与第四权力缺失** 大众媒体在介入教育政策传播时受到自身商业机制与新闻价值的深度制约。媒体偏好坏消息、冲突与跨国排行榜竞争，惯常套用[[Falling Standards Template\|水平下降模板]]将测验发布简化为具有轰动效应的头条新闻；然而，媒体对政府借危机推行的高度争议性政策举措（如扩大自主学校、强化惩罚性督导、推行教师绩效工资）却表现出集体性的政策规避（policy avoidance）。媒体既未对具体改革方案的实证有效性展开追问，亦未揭示政府政策主张与国际组织原始报告之间的尖锐矛盾，使得传统民主社会中媒体作为第四权力监督执政者、捍卫公共利益的核心宪制功能在此类跨国评估事件中彻底瘫痪。（pp. 121–125）

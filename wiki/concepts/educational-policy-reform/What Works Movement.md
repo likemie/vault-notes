@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪末兴起于英美澳等国的公共治理与教育改革运动，主张以因果推断量化证据识别有效干预，依托法定知识中介组织转化证据，重塑公共财政配置与专业实践。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 61
+related_count: 62
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Mediation]]"
   - "[[Business as Usual]]"
+  - "[[Document]]"
   - "[[Professional Judgment]]"
   - "[[Return on Investment]]"
   - "[[Research-Practice Gap]]"
@@ -90,7 +91,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -119,7 +120,7 @@ updated: 2026-10-25
 > | 比较维度 | 英国 [[Education Endowment Foundation\|教育捐赠基金会]]（EEF） | 美国 [[What Works Clearinghouse\|什么样的有效清算所]]（WWC） | 澳大利亚 [[Australian Education Research Organisation\|教育研究组织]]（AERO） |
 > |:---|:---|:---|:---|
 > | **成立时间与法定性质** | 2011 年成立；独立慈善信托基金（由[[Sutton Trust\|萨顿信托]]联合教育捐赠创设，获政府 1.25 亿英镑注资）。 | 2002 年依据《教育科学改革法案》（ESRA）成立；属联邦教育部 [[Institute of Education Sciences\|IES]] 直属官方评估平台。 | 2020 年由联邦与各州政府联合资助成立；全国性独立教育证据中介实体。 |
-> | **运作机制与资助权限** | **资助者与评估委托者** 直接资助学校项目并强制委托独立专家库进行 [[Randomised Controlled Trials\|RCT]] 评估。 | **证据审查与评级中心** 自身通常不直接资助试验，专门对公开发表的文献进行质量筛选评级。 | **知识转化与标准制定者** 聚焦将高阶证据合成为实践指南，参与国家教师培养标准。 |
+> | **运作机制与资助权限** | **资助者与评估委托者** 直接资助学校项目并强制委托独立专家库进行 [[Randomised Controlled Trials\|RCT]] 评估。 | **证据审查与评级中心** 自身通常不直接资助试验，专门对公开发表的[[Document\|文献]]进行质量筛选评级。 | **知识转化与标准制定者** 聚焦将高阶证据合成为实践指南，参与国家教师培养标准。 |
 > | **评估独立性规约** | **极高规约** 强制签署三方资助协议，随机化、主数据采集与报告撰写全由独立评估者完成（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 50–51]]）。 | **技术导向规约** 主要审查研究设计指标（流失率等），未对研发者经济与人事依附做刚性隔离。 | **倡导型规约** 强调证据透明度与方法学严格性，依赖外部同行评议与[[Meta-analysis\|元分析]]。 |
 > | **核心决策转化载体** | [[EEF Teaching and Learning Toolkit\|教学与学习工具包]]：将效应量通俗转化为“额外学习月数”与成本星级。 | Practice Guides 与 Intervention Reports：提供循证干预评级索引（从无保留到达标）。 | Evidence Guides 与 Practice Rubrics：围绕显性教学等核心教学法输出实操规程。 |
 > | **与教师[[Professional Judgment\|专业判断]]关系** | 工具包作为“指导罗盘”，强调教师依据学校情境裁量；深入推进基层[[Research Schools Network\|研究学校网络]]。 | 早期与高利害问责直接挂钩，受到技术官僚化批评；近年逐步增强实践指导弹性。 | 深度介入职前教师教育与国家督导标准，面临侵蚀教师专业自主权的学术争鸣（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 4–6]]）。 |
@@ -156,40 +157,32 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　公共教育政策与财政投资必须建立在严谨可复制的因果干预证据之上
-
-> [!concept-lens] 政策正当性与[[Causality\|因果推断]]
-> 循证运动主张，公共教育开支不应依附于政治偏好或未经检验的商业炒作，[[Counterfactual\|反事实]]因果设计是评估干预成效与保障[[Return on Investment\|投资回报]]的伦理基石。
+> [!concept-proposition] 命题一｜公共教育政策与财政投资必须建立在严谨可复制的因果干预证据之上
+> **探讨维度　政策正当性与[[Causality\|因果推断]]** 循证运动主张，公共教育开支不应依附于政治偏好或未经检验的商业炒作，[[Counterfactual\|反事实]]因果设计是评估干预成效与保障[[Return on Investment\|投资回报]]的伦理基石。
 
 > [!claim] [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]
 > **循证标准的法定化与投资重塑** 将严密科学研究证据写入教育法案（如美国《不让一个孩子掉队法》[[No Child Left Behind Act 2001\|NCLB]] 及《每一个学生成功法》ESSA），打破了教育界长期存在的“经验自负”。只有具备高安全等级因果证据的项目才能获得最高阶联邦资金支持，从而驱动教育研发从虚构理论转向扎实的实证迭代（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, pp. 175–178]]）。
 
 ---
 
-### 命题二　知识中介机构的制度公信力依赖于结构性独立性与双向转化机制
-
-> [!concept-lens] 制度治理与中介功能
-> 中介机构并非单纯的信息邮局，其存在价值在于通过切断利益关联确立证据公信力，并通过通俗转化填补[[Research-Practice Gap\|研究与实践的鸿沟]]。
+> [!concept-proposition] 命题二｜[[Educational Brokerage Agency|知识中介机构]]的制度公信力依赖于结构性独立性与双向转化机制
+> **探讨维度　制度治理与中介功能** 中介机构并非单纯的信息邮局，其存在价值在于通过切断利益关联确立证据公信力，并通过通俗转化填补[[Research-Practice Gap\|研究与实践的鸿沟]]。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]
 > **中介机构的制度独立性与二阶合成** 传统高校发表体制容易造成[[Publication Bias\|发表偏倚]]与研发者自利，[[Educational Brokerage Agency\|知识中介机构]]通过推行独立的评估者专家库竞标、三方资助协议与 NPD 国家客观统考测量，有效根除了自评夸大。同时，中介机构将复杂的[[Meta-analysis\|元分析]]统计模型提炼为通俗的“额外学习月数”决策指标，实现了科学严谨性与基层实用性的制度平衡（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–51]]）。
 
 ---
 
-### 命题三　证明“何者无效”对遏制公共财政浪费具有与证实“有效”同等的决策价值
-
-> [!concept-lens] 证据价值的重估与常态基线
-> 传统循证研究热衷于追逐“灵丹妙药”式的高正向效应，而大规模实践检验表明，揭示流行干预的无效性是循证科学最大的公共收益。
+> [!concept-proposition] 命题三｜证明“何者无效”对遏制公共财政浪费具有与证实“有效”同等的决策价值
+> **探讨维度　证据价值的重估与常态基线** 传统循证研究热衷于追逐“灵丹妙药”式的高正向效应，而大规模实践检验表明，揭示流行干预的无效性是循证科学最大的公共收益。
 
 > [!claim] [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]
 > **去魅价值与[[Business as Usual\|常态教学]]高基线** 英国十年 200 余项大规模试验表明，大部分昂贵商业项目的净效应极其微弱（中位[[Effect Size\|效应量]]仅 $d=0.06$），这反映出常态教学（Business as Usual）本身具备极高基线水平。循证运动证明了众多流行方案（如[[Growth Mindset\|成长型思维]]大班干预、某些单向资料推送）对统考净成绩并无促进，从而使学校免于耗费数以亿计的公共资金与教师精力在无效干预上（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 55–56]]）。
 
 ---
 
-### 命题四　去情境化的技术理性面临侵蚀教师专业判断力与加剧商业合谋的合法性危机
-
-> [!concept-lens] 批判视角与专业生态
-> 批评者指出，将循证运动推向极致可能导致医学隐喻的过度简化，并为大型私人慈善资本与咨询公司提供控制学校的合法性遮羞布。
+> [!concept-proposition] 命题四｜去情境化的[[Technical Rationality|技术理性]]面临侵蚀教师[[Professional Judgment|专业判断力]]与加剧商业合谋的合法性危机
+> **探讨维度　批判视角与专业生态** 批评者指出，将循证运动推向极致可能导致医学隐喻的过度简化，并为大型私人慈善资本与咨询公司提供控制学校的合法性遮羞布。
 
 > [!claim] [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]]
 > **权力重构与专业自主权削弱** 循证中介机构（如澳大利亚 [[Australian Education Research Organisation\|AERO]]、美国商业清算所）往往与特定慈善资本或智库深度绑定，以客观科学为幌子推行高度规训的教学法配方（如窄化的显性教学）。这种自上而下的证据治理忽视了学校的复杂社会阶级情境，将教学窄化为可标准化的流水线行为，系统剥夺了一线教师依据具体学生动态行使[[Professional Judgment\|专业判断]]的合法性（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 1–6]]）。
@@ -200,7 +193,7 @@ updated: 2026-10-25
 > | [[Output-Oriented Governance\|循证治理]]体系 | 核心政策机构 / 载体 | 动员规模与覆盖广度 | 核心实证参数与成效产出 | 方法学与制度特色 | 核心实证来源 |
 > |:---|:---|:---|:---|:---|:---|
 > | **英国循证改革体系** | [[Education Endowment Foundation\|EEF]] / [[What Works Network\|WWN]] | 资助逾 **200 项**现场试验；动员全英 **50% 以上**的中小学校；涵盖逾 160 万名学生。 | 仅少量项目实现统计显著正效应；商业干预中位效应量 **$d = 0.06$**；**85%** 试验获 3+ 安全挂锁。 | 强制三方资助协议；对接[[National Pupil Database\|国家学生数据库]] NPD 统考；绑定定性[[Implementation and Process Evaluation\|过程评估]]（IPE）。 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–56]]；White, 2019 |
-> | **美国联邦循证体系** | [[Institute of Education Sciences\|IES]] / [[What Works Clearinghouse\|WWC]] | 覆盖全美教育科学改革法案（ESRA）与 [[Every Student Succeeds Act\|ESSA]] 资助；设立 10 余个区域教育实验室。 | 审查数万篇文献；获得“无保留达标”（Meets Without Reservations）认证比例不足 **20%**。 | 严苛的方法学技术审查；早期侧重[[Internal Validity\|内部效度]]；受资助者自聘评估导致部分 [[Quasi-Experimental Designs\|QED]] 妥协。 | Boulay et al., 2018；[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]] |
+> | **美国联邦循证体系** | [[Institute of Education Sciences\|IES]] / [[What Works Clearinghouse\|WWC]] | 覆盖全美教育科学改革法案（ESRA）与 [[Every Student Succeeds Act\|ESSA]] 资助；设立 10 余个区域教育实验室。 | 审查数万篇[[Document\|文献]]；获得“无保留达标”（Meets Without Reservations）认证比例不足 **20%**。 | 严苛的方法学技术审查；早期侧重[[Internal Validity\|内部效度]]；受资助者自聘评估导致部分 [[Quasi-Experimental Designs\|QED]] 妥协。 | Boulay et al., 2018；[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]] |
 > | **澳大利亚循证体系** | [[Australian Education Research Organisation\|AERO]] | 联动联邦与 8 个州/领地教育行政部门；覆盖全国公立学校与教师培养机构。 | 输出覆盖显性教学、[[Formative Assessment\|形成性评估]]等核心实践指南；驱动职前教师教育认证改革。 | 强调证据在国家标准中的[[Disciplina and Doctrina\|规训]]作用；受到学术界关于侵蚀[[Professional Judgment\|专业判断力]]的方法论争鸣。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 1–6]] |
 
 ---

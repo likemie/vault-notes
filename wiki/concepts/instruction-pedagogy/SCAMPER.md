@@ -9,7 +9,7 @@ aliases:
 summary: "由奥斯本提出雏形并由埃伯尔系统化的创造性思维启发式检核表，通过“替代、合并、调适、修改、移作他用、消除、逆向重组”七大外显思维操作算子，为学习者突破心理固着与展开非线性概念重构提供结构化认知支架。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Concept Mapping]]"
   - "[[Heterogeneity]]"
+  - "[[Problem Solving]]"
   - "[[Homework]]"
   - "[[Mind Mapping]]"
 related_theories:
@@ -58,7 +59,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -129,30 +130,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　外显操作算子显著减轻观念发散时的外在认知迷航
-
-> [!concept-lens] 认知负荷与启发式定向
-> 完全无约束的自由发散容易引发注意力涣散与心智衰竭；结构化算子提供了明确的认知搜索线索。
+> [!concept-proposition] 命题一｜外显操作算子显著减轻观念发散时的外在认知迷航
+> **探讨维度　认知负荷与启发式定向** 完全无约束的自由发散容易引发注意力涣散与心智衰竭；结构化算子提供了明确的认知搜索线索。
 
 > [!claim] Scott et al.; Eberle; Guo et al.
 > **算子定向卸载负荷命题** [[Meta-analysis\|元分析]]表明，教授显性观念生成策略（如 SCAMPER 启发式检核表）对[[Creativity\|创造性]]表现产生中等至强效的显著促进（$d = 0.68 \sim 0.70$），显著高于无策略指导的纯发散练习（$d = 0.45$）。其核心认知机制在于：SCAMPER 为学习者提供了预先封装的思维路径，学习者无需在无边无际的记忆空间中盲目碰运气，只需按部就班调用“替代、消除、反转”等算子即可定向激活动态长时记忆网络，从而大幅降低了[[Working Memory\|工作记忆]]中的外在组织负荷。Scott, Leritz and Mumford (2004); [[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
 
 ---
 
-### 命题二　SCAMPER 算子通过强制概念组合有效瓦解功能固着
-
-> [!concept-lens] 心理固着打破与非典型语义重组
-> 习惯性经验将物体绑定于特定用途；强制性设问能够迫使认知系统进行远距离概念整合。
+> [!concept-proposition] 命题二｜SCAMPER 算子通过强制概念组合有效瓦解功能固着
+> **探讨维度　心理固着打破与非典型语义重组** 习惯性经验将物体绑定于特定用途；强制性设问能够迫使认知系统进行远距离概念整合。
 
 > [!claim] Ozyaprak; Torrance
 > **功能固着突破命题** 准[[Experimental Research\|实验研究]]证实，接受 SCAMPER 训练的学生在[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（[[Torrance Tests of Creative Thinking\|TTCT]]）的“灵活性（Flexibility）”与“独创性（Originality）”维度上均获得极显著的提升（$p < .001$）。尤其在“移作他用（P）”与“反转重排（R）”算子的引导下，学习者能够克服由于过度熟悉所导致的功能固着（Functional Fixedness），产生突破传统概念范畴边界的高质量远距联想构想。Ozyaprak (2016)
 
 ---
 
-### 命题三　标准化技术型训练在赋予具象支架的同时存在远迁移阻力
-
-> [!concept-lens] 工具依从性与领域迁移瓶颈
-> 过于程式化的规则套用虽然能在局部任务中快速见效，但若缺乏[[Metacognition\|元认知]]深层反思，难以自发迁移至完全陌生的领域。
+> [!concept-proposition] 命题三｜标准化技术型训练在赋予具象支架的同时存在远迁移阻力
+> **探讨维度　工具依从性与领域迁移瓶颈** 过于程式化的规则套用虽然能在局部任务中快速见效，但若缺乏[[Metacognition\|元认知]]深层反思，难以自发迁移至完全陌生的领域。
 
 > [!claim] Guo et al.; Ritter & Mostert
 > **技术型训练的有效性与迁移权衡命题** 高校[[Three-Level Meta-Analysis\|多层元分析]]表明，以 SCAMPER 和 [[TRIZ]] 为代表的“技术型训练（Technique-based training）”能够产生高度统计显著的正向促进（$g = 0.552, p < .001, N = 20$），但其效应量显著低于综合性的言语训练（$g = 0.998$）与认知灵活性思维训练（$g = 0.762$）。深层机理表明：技术型工具为发散思维提供了具象的认知锚点，但易导致学生产生“机械套用算子”的工具依赖；唯有将 SCAMPER 与深层元认知策略监控深度整合，才能克服情境依赖并实现高水平的远迁移。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 8–10)]]
@@ -210,8 +205,8 @@ updated: 2026-10-25
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 训练类别 | 言语训练 | Hedges' $g$ | N=11 | <span class="mx-bar ef-bar" title="Hedges' g 0.998"><span class="b20"></span></span>0.998 | — | 亚组差异显著 |
 > |  |  | 思维训练 |  | N=31 | <span class="mx-bar ef-bar" title="Hedges' g 0.762"><span class="b15"></span></span>0.762 | — | — |
 > |  |  | 技术型训练 |  | N=20 | <span class="mx-bar ef-bar" title="Hedges' g 0.552"><span class="b11"></span></span>0.552 | — | — |
-> | Scott, Leritz and Mumford (2004) | 效标类型 | 发散思维观念流畅性 | Cohen's $d$ | k = 54 | <span class="mx-bar ef-bar" title="Cohen's d 0.72"><span class="b14"></span></span>0.72 | — | 差异显著（$p < .05$） |
-> |  |  | 复杂问题解决成果独创性 |  | k = 46 | <span class="mx-bar ef-bar" title="Cohen's d 0.58"><span class="b12"></span></span>0.58 | — | — |
+> | Scott, Leritz and Mumford (2004) | 效标类型 | [[Divergent Thinking\|发散思维]]观念流畅性 | Cohen's $d$ | k = 54 | <span class="mx-bar ef-bar" title="Cohen's d 0.72"><span class="b14"></span></span>0.72 | — | 差异显著（$p < .05$） |
+> |  |  | [[Problem Solving\|复杂问题解决]]成果独创性 |  | k = 46 | <span class="mx-bar ef-bar" title="Cohen's d 0.58"><span class="b12"></span></span>0.58 | — | — |
 >
 > - **Scott, Leritz and Mumford (2004) · 干预方式** 证实仅提供发散机会效果较弱，必须提供如 SCAMPER 般的结构化思维算子支架
 > - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 训练类别** 技术型工具提供了明确的局部操作规范，但在缺乏宏观认知框架时远迁移相对滞后

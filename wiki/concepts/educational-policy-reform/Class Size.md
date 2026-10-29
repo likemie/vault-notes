@@ -34,12 +34,12 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Epistemology]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Socioeconomic Status]]"
   - "[[Neo-Taylorism]]"
   - "[[Visible Learning]]"
   - "[[Self-reported Grades]]"
   - "[[Global Education Reform Movement]]"
   - "[[Zone of Desired Effects]]"
-  - "[[Socioeconomic Status]]"
   - "[[Discourse]]"
   - "[[Performance Pay]]"
   - "[[Positivism]]"
@@ -103,7 +103,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 > [!def] Class Size
@@ -188,10 +188,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　班级规模与学业成就存在稳定的负相关，但控制质量是关键调节变量
-
-> [!concept-lens] 证据聚合与方法控制调节
-> 探讨方法学质量如何系统性重塑[[Variable|变量]]关联，解释缺乏严格控制的研究如何低估班级规模的实质价值。
+> [!concept-proposition] 命题一｜班级规模与[[Academic Achievement|学业成就]]存在稳定的负相关，但控制质量是关键调节[[Variable|变量]]
+> **探讨维度　证据聚合与方法控制调节** 探讨方法学质量如何系统性重塑[[Variable|变量]]关联，解释缺乏严格控制的研究如何低估班级规模的实质价值。
 
 > [!claim] Glass and Smith (1978)
 > **控制质量决定曲线斜率** 格拉斯与史密斯整合 77 项研究与 725 项比较，构建了一条揭示班级规模与[[Academic Achievement|学业成就]]负相关的连续回归曲线。分析显示年级、学科与学生能力的亚组差异均未动摇这一基本形态，唯独实验控制质量构成了决定性调节变量：在实验控制充分的研究中，曲线呈现显著陡峭的上升趋势；而在控制不充分的研究中，曲线趋向平缓。缺乏严格控制的研究系统性低估了小班的真实效果，为分层呈现[[Meta-analysis|元分析]]证据提供了经典范例。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, pp. 357–360)]]
@@ -207,20 +205,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　单纯缩减班额面临高昂财政成本，其成本效益常劣于同等预算下的定向教学干预
-
-> [!concept-lens] 成本效益与政策替代方案
-> 探讨即便小班具有统计显著正效应，在相同财政约束下是否应优先选择更具成本效益与补偿效能的教学支持策略。
+> [!concept-proposition] 命题二｜单纯缩减班额面临高昂财政成本，其成本效益常劣于同等预算下的定向教学干预
+> **探讨维度　成本效益与政策替代方案** 探讨即便小班具有统计显著正效应，在相同财政约束下是否应优先选择更具成本效益与补偿效能的教学支持策略。
 
 > [!claim] [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]]
 > **缩班政策的高成本与低边际产出** 法国教育部在弱势地区一、二年级推行班额从 24 人减至 12 人的大规模改革（[[French Class Size Reduction]]），Campbell 协作网元分析显示其阅读效应微弱而数学效应未达统计显著。佩莱格里尼与维瓦内特论断：缩减班额属于财政耗费极高而边际产出相对温和的政策，同等预算若投入高针对性成人个别化辅导或教师循证[[Feedback|教学反馈]]，往往能产生更为强劲的学业补偿效果。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 27–28)]]
 
 ---
 
-### 命题三　班级规模本身无法作为独立分析单元，其效应取决于教师教学范式转型与系统变量交互
-
-> [!concept-lens] 动态复杂系统与教学[[Paradigm|范式]]交互
-> 探讨班级规模如何与教师教学策略、学生背景及物质资源构成不可分割的交互系统，解构将班级规模孤立化的机械因果观。
+> [!concept-proposition] 命题三｜班级规模本身无法作为独立[[Unit of Analysis|分析单元]]，其效应取决于教师教学[[Paradigm|范式]]转型与系统变量交互
+> **探讨维度　动态复杂系统与教学[[Paradigm|范式]]交互** 探讨班级规模如何与教师教学策略、学生背景及物质资源构成不可分割的交互系统，解构将班级规模孤立化的机械因果观。
 
 > [!claim] Berger (1982); [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]]
 > **班级规模的非独立[[Unit of Analysis|分析单元]]属性** 伯格（1982）与尼尔森与克利特默勒（2021a）论证指出，班级规模在[[Epistemology|认识论]]上根本无法作为有意义的独立分析单元。班级规模必然与学生先备能力、社会家庭背景、教师专业素养及课堂动力学紧密交织。单纯缩减人数不会自动产生成就增益；若教师在 15 人的班级里依然沿袭面向 40 人的全班灌输范式，小班的潜能便无法激活。将教学法未作调整导致的平庸表现直接归罪于班级规模本身无效，犯下了将多变量复杂系统简化为单一线性因果的归因偏误。[[Argument_Nielsen_2021_NordPsych|(Nielsen & Klitmøller, 2021a, pp. 5–7)]]
@@ -233,10 +227,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题四　班级规模无效论被建构为新自由主义财政紧缩与阶级盲教学思维的实证护盾
-
-> [!concept-lens] 政治经济学动因与阶级盲技术主义批判
-> 探讨元分析如何通过清洗社会阶层变量与高频修辞轰炸，将班级规模转化为免除国家办学责任并推行[[Neo-Taylorism|新泰勒主义]]管理的实证工具。
+> [!concept-proposition] 命题四｜班级规模无效论被建构为新自由主义财政紧缩与[[Socioeconomic Status|阶级盲教学思维]]的实证护盾
+> **探讨维度　政治经济学动因与阶级盲技术主义批判** 探讨元分析如何通过清洗社会阶层变量与高频修辞轰炸，将班级规模转化为免除国家办学责任并推行[[Neo-Taylorism|新泰勒主义]]管理的实证工具。
 
 > [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
 > **词频统计反差揭示新自由主义政策偏好** 约翰逊与简森对《[[Visible Learning|可见的学习]]》全书进行词频统计显示，班级规模一词被提及高达 95 次，遍布 16 个章节，反反复复向读者灌输缩减班额无用的观念；其出现频次比全书效应量排名第一的[[Self-reported Grades|自我报告成绩]]（仅提 6 次）高出整整 16 倍。该书的数据呈现深嵌于[[Global Education Reform Movement|全球教育改革运动]]（GERM）的新自由主义政治经济学，承载着明确的政策导向，有别于纯粹中立的技术分析——通过将班额效应量压低至 $d=0.21$（排第 108 位），为政府削减教育预算、抵制教师工会关于班额上限的诉求提供了强大的科学护盾。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–32)]]

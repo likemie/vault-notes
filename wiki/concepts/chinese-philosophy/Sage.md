@@ -10,7 +10,7 @@ aliases:
 summary: "指在儒家与比较哲学传统中体现最高道德卓越、普世仁爱与知行合一的终极理想人格；在比较政治学与现代治理反思中，该概念亦被用于指称将公职人员预设为不计世俗回报之无私修道者或哲学王的“圣人治理假设”，构成透视道德教化、社会流动与公共激励机制的跨文化理论透镜。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 31
+related_count: 33
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -26,15 +26,17 @@ related_concepts:
   - "[[Junzi]]"
   - "[[Red Tape]]"
   - "[[Paradigm]]"
+  - "[[Student Motivation]]"
   - "[[Self-Cultivation]]"
   - "[[Technical Rationality]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Epistemology]]"
   - "[[The Great Learning]]"
-  - "[[Discourse]]"
   - "[[Creativity]]"
+  - "[[Discourse]]"
   - "[[Technological Republic]]"
   - "[[Engineering Mindset]]"
+  - "[[Document]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
@@ -62,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -72,7 +74,7 @@ updated: 2026-10-26
 
 > [!concept-lens] 概念透镜
 > - **含义** 在哲学与学习传统中指向道德修养与天下关怀的终极[[Paradigm|范式]]；在公共治理与政治经济学中指向预设从政者无私奉献的“圣人治理假设”。
-> - **用途** 帮助研究者透视东亚学习动机中“由内圣而外王”的精神动力，以及在现代公共行政中反思道德理想主义与制度激励设计之间的张力。
+> - **用途** 帮助研究者透视东亚[[Student Motivation|学习动机]]中“由内圣而外王”的精神动力，以及在现代公共行政中反思道德理想主义与制度激励设计之间的张力。
 > - **边界** 区别于宗教中脱离世俗社会、遁世修行的苦行僧；儒家圣人深植于世俗伦常（齐家治国平天下），强调以道德实践化解社会危机。
 
 > [!citation-card] 李瑾论圣人与普世仁爱
@@ -130,40 +132,32 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　圣人是儒家学习传统的最高德性阶梯与普世仁爱终极范式
-
-> [!concept-lens] 儒家德性伦理与学习层级维度
-> 阐明圣人在儒家人格进阶（士 → [[Junzi|君子]] → 圣人）中的顶端位置，以及其超越血缘差序的普世关怀内核。
+> [!concept-proposition] 命题一｜圣人是[[Confucian Learning Tradition|儒家学习传统]]的最高德性阶梯与普世[[Benevolence|仁爱]]终极[[Paradigm|范式]]
+> **探讨维度　儒家德性伦理与学习层级维度** 阐明圣人在儒家人格进阶（士 → [[Junzi|君子]] → 圣人）中的顶端位置，以及其超越血缘差序的普世关怀内核。
 
 > [!claim] [[Confucius]], [[Mencius]], & [[Jin Li|Li, J.]]
 > **德性最高阶梯与普世[[Benevolence|仁爱]]断言** 李瑾指出，在儒家传统的人格光谱中，“士”是初入德性之门的学徒，“[[Junzi|君子]]”是在日常生活中自发实践道德的模范，而“圣人”则是连孔子本人都自谦未能达到的终极境界；圣人的核心特质在于突破个体的家庭与宗族界限，将同理心与仁爱无差别地推及整个人类社会，成为历代学者矢志追求的精神灯塔。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 41–44)]]
 
 ---
 
-### 命题二　宋明理学将圣人从不可企及的历史图腾转化为人人可达的心性工夫
-
-> [!concept-lens] [[Neo-Confucianism|新儒家]][[Epistemology|认识论]]与成德工夫维度
-> 探讨程朱理学与陆王心学如何通过认识论变革，打破圣人的贵族与学问垄断，确立普遍成圣的实践路径。
+> [!concept-proposition] 命题二｜[[Neo-Confucianism|宋明理学]]将圣人从不可企及的历史图腾转化为人人可达的心性工夫
+> **探讨维度　[[Neo-Confucianism|新儒家]][[Epistemology|认识论]]与成德工夫维度** 探讨程朱理学与陆王心学如何通过认识论变革，打破圣人的贵族与学问垄断，确立普遍成圣的实践路径。
 
 > [!claim] [[Cheng Brothers]], [[Zhu Xi|Zhu, X.]], [[Wang Yangming|Wang, Y.]], & [[Jin Li|Li, J.]]
 > **平民化成圣路径与知行合一断言** 李瑾系统梳理宋明理学的转向指出：[[Cheng Brothers|二程]]将修养目标直接从君子提升为圣人，确立“格物致知”以“穷理”的路径；[[Zhu Xi|朱熹]]整合《大学》[[The Great Learning|八条目]]，将成圣确立为所有人天赋均等、无人没有资格的自我完善责任；[[Wang Yangming|王阳明]]进一步倡导“致良知”与“知行合一”，打破了书本学术造诣与社会阶层的壁垒，宣布凡夫俗子只要在事上磨练、扩充本心良知即可成圣，彻底实现了圣人概念的平民化与普及化。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 44–47)]]
 
 ---
 
-### 命题三　现代转型中圣人原型由宗法道德典范重塑为民主与科学的创造性先锋
-
-> [!concept-lens] 比较教育与概念现代性转换维度
-> 阐释在中西思想碰撞中，中国知识界如何借用传统的“圣人”[[Discourse|话语]]容纳现代科学、民主与[[Creativity|创造性]]智力领袖。
+> [!concept-proposition] 命题三｜现代转型中圣人原型由宗法道德典范重塑为民主与科学的[[Creativity|创造性]]先锋
+> **探讨维度　比较教育与概念现代性转换维度** 阐释在中西思想碰撞中，中国知识界如何借用传统的“圣人”[[Discourse|话语]]容纳现代科学、民主与[[Creativity|创造性]]智力领袖。
 
 > [!claim] Keenan, B. C., & Schulte, B.
 > **现代圣人与思想启蒙重构断言** 舒尔特（Barbara Schulte）援引基南（Keenan）的研究指出，1919 年蔡元培在孔子诞辰 2470 周年与[[John Dewey|约翰·杜威]]（[[John Dewey]]）六十寿辰演讲中，将杜威塑造成替代性的“现代圣人”；通过将杜威倡导的民主、男女平等与创造性思维，与传统孔子恪守皇权、男尊女卑与“述而不作”相对比，中国现代学者在解构封建宗法圣人图腾的同时，重构了以科学探索与社会民主改造为核心的现代圣人典范。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 75)]]
 
 ---
 
-### 命题四　公共治理中将从政者假定为道德圣人会诱发激励扭曲与特权寡头化
-
-> [!concept-lens] 比较政治哲学与公共制度设计维度
-> 解构西方与传统治理中将公职人员预设为不计世俗回报之“圣人/神职人员”的制度病理，确立现实主义激励对称原则。
+> [!concept-proposition] 命题四｜公共治理中将从政者假定为道德圣人会诱发激励扭曲与特权寡头化
+> **探讨维度　比较政治哲学与公共制度设计维度** 解构西方与传统治理中将公职人员预设为不计世俗回报之“圣人/神职人员”的制度病理，确立现实主义激励对称原则。
 
 > [!claim] [[Lee Kuan Yew|Lee, K. Y.]], [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **反思圣职者假设与市场激励重构断言** 亚历山大·卡普与尼古拉斯·扎米斯卡指出，从[[Plato|柏拉图]]《理想国》的哲学王到现代西方对公职人员微薄薪酬的道德固守，社会常陷入将治理者假定为清贫“圣人”或“神职人员”的乌托邦迷思；这种虚伪的禁欲主义不仅无法杜绝腐败，反而使公共部门沦为无需薪酬的富豪阶层游乐场或离职变现跳板；李光耀（[[Lee Kuan Yew]]）在新加坡推行公务员薪酬对标私营部门政策，直面真实人性与利益诉求，以权责对称的市场化激励取代空洞的圣人道德绑架，成功为公共部门持续吸纳顶尖工程与治理人才。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 179–183)]]
@@ -230,7 +224,7 @@ updated: 2026-10-26
 > | [[Benevolence]] | 概念 | 核心德性内核：仁是圣人品格的本质，圣人将仁爱无差别扩展至全人类。 |
 > | [[Self-Cultivation]] | 概念 | 实践工夫路径：修身是儒家[[The Great Learning\|八条目]]的枢纽，为所有人提供了成圣的修养起点。 |
 > | [[Take the World Upon Oneself]] | 概念 | 担当伦理体现：以天下为己任展现了圣人超越自利、承担苍生重量的社会责任感。 |
-> | [[The Great Learning]] | 概念 | 经典文献依据：确立格物、致知、诚意、正心、修身、齐家、治国、平天下之成圣通途。 |
+> | [[The Great Learning]] | 概念 | 经典[[Document\|文献]]依据：确立格物、致知、诚意、正心、修身、齐家、治国、平天下之成圣通途。 |
 > | [[Confucian Learning Tradition]] | 理论 | 文化理论母体：确立以德性完善和天下关怀为核心的东亚学习传统模型。 |
 > | [[Neo-Confucianism]] | 理论 | 理论推进[[Paradigm\|范式]]：程朱理学与陆王心学系统推动了圣人概念的平民化与心性化。 |
 > | [[Engineering Mindset]] | 概念 | 现代治理对照：工程思维强调实战交付与现实激励，破除传统的空头道德教条。 |

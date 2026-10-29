@@ -9,7 +9,7 @@ aliases:
 summary: "指个体在正式获得合格教师资格（QTS）并独立执教前所接受的系统性专业职前准备阶段，涵盖大学本位培养、校本学徒制及混合临床实践模式"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,10 +30,11 @@ related_concepts:
   - "[[Paradigm Wars]]"
   - "[[Research Literacy]]"
   - "[[New Public Management]]"
-  - "[[Rationalized Myth]]"
   - "[[Evidence Era]]"
+  - "[[Rationalized Myth]]"
   - "[[Teacher Qualifications]]"
   - "[[Technical Rationality]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Elite Interview]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -109,20 +110,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　大学学术浸润与校本学徒技能培训构成教师职前准备的长期范式博弈
-
-> [!concept-lens] 培养阵地与专业[[Paradigm Wars\|范式之争]]
-> 探讨教师职前准备究竟应当以大学学术研究为根基，还是以中小学校本学徒实践为核心。
+> [!concept-proposition] 命题一｜大学学术浸润与校本学徒技能培训构成教师职前准备的长期[[Paradigm|范式]]博弈
+> **探讨维度　培养阵地与专业[[Paradigm Wars\|范式之争]]** 探讨教师职前准备究竟应当以大学学术研究为根基，还是以中小学校本学徒实践为核心。
 
 > [!claim] Menter et al.
 > **大学教育与校本学徒的[[Paradigm\|范式]]张力** 教师培养长期存在两种范式冲突：一方主张大学是培育批判性反思、[[Research Literacy\|研究素养]]与专业自主权的必要摇篮；另一方（由[[New Public Management\|新公共管理]]与保守党政策推动）则将教学定义为可以在现场模仿习得的手艺（craft），主张将培训重心全盘转移至中小学现场，削弱高等教育机构的中间盘剥。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 89–90)]]
 
 ---
 
-### 命题二　证据时代下国家通过强制课程清单对职前培训实施远程微观集权
-
-> [!concept-lens] 循证修辞与治理集权
-> 揭示表面上的办学主体多元化如何与国家层面的课程内容控制强化并存。
+> [!concept-proposition] 命题二｜[[Evidence Era|证据时代]]下国家通过强制课程清单对职前培训实施远程微观集权
+> **探讨维度　循证修辞与治理集权** 揭示表面上的办学主体多元化如何与国家层面的课程内容控制强化并存。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
 > **[[Rationalized Myth\|合理化神话]]下的中央远程控制** 在[[Evidence Era\|证据时代]]，英格兰政府虽然在供给侧推进学校主导（School-led）的市场化分权，但在需求侧却借助[[Rationalized Myth\|合理化神话]]与[[Carter Review of Initial Teacher Training\|卡特审查]]，出台了高度精细的核心内容框架（[[Initial Teacher Training Core Content Framework\|CCF]]），通过规定新教师“必须了解什么”和“必须如何做”，实现了国家对职前培训知识内容的空前中央微观集权。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–94)]]
@@ -180,5 +177,5 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 历时追踪 1983–2019 年英格兰 ITT 政策文献与 20 位[[Elite Interview\|精英访谈]]，揭示从测量时代向[[Evidence Era\|证据时代]]的合法化[[Paradigm\|范式]]演进与国家把关机制。
+> - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 历时追踪 1983–2019 年英格兰 ITT 政策[[Document|文献]]与 20 位[[Elite Interview\|精英访谈]]，揭示从测量时代向[[Evidence Era\|证据时代]]的合法化[[Paradigm\|范式]]演进与国家把关机制。
 

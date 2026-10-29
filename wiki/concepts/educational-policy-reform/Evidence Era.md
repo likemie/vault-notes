@@ -6,7 +6,7 @@ aliases:
 summary: "由 Helgetun & Menter 提出的教育治理范式概念，指教育政策合法化超越单纯依靠量化指标的测量时代，演进为借助学术引用、国际最佳实践、医学类比与随机对照试验等多维证据修辞确立正当性的治理新阶段"
 type: concept
 domain: "educational-policy-reform"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Rationalized Myth]]"
   - "[[Governing by Numbers]]"
   - "[[Discourse]]"
+  - "[[Document]]"
   - "[[Reflexivity]]"
   - "[[Performance Indicators]]"
   - "[[Causality]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -66,7 +67,7 @@ updated: 2026-10-22
 > - **边界** 并不意味着政策制定真正变得完全由科学理性主导，而是指诉诸证据成为了政策合法化不可或缺的制度性仪式与文化认知脚本。
 
 > [!citation-card] 从测量时代向证据时代的范式演进
-> 证据时代比测量时代更为贴切，因为政策的新型合法化形式根植于研究文献、经验观察与教育[[Reflexivity\|反思性]]论证的综合体，其范畴远超大规模数据测量本身；尽管大规模数据仍居于核心，但它不再单独发挥作用。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 96)]]
+> 证据时代比测量时代更为贴切，因为政策的新型合法化形式根植于研究[[Document|文献]]、经验观察与教育[[Reflexivity\|反思性]]论证的综合体，其范畴远超大规模数据测量本身；尽管大规模数据仍居于核心，但它不再单独发挥作用。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 96)]]
 >
 > *The term 'evidence era' has become more apt than 'age of measurement' to indicate how even though large-scale data uses are still central, they are not alone, and require new forms of problematization.*
 
@@ -108,20 +109,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　证据时代标志着政策合法化从单一量化数据向多维学术修辞的范式升级
-
-> [!concept-lens] 合法化机制的修辞演进
-> 探讨教育政策为何超越简单的指标审计，演进为系统性吸纳学术引文与实验修辞的复合治理模式。
+> [!concept-proposition] 命题一｜证据时代标志着政策合法化从单一量化数据向多维学术修辞的[[Paradigm|范式]]升级
+> **探讨维度　合法化机制的修辞演进** 探讨教育政策为何超越简单的指标审计，演进为系统性吸纳学术引文与实验修辞的复合治理模式。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
-> **合法化形式的学术化跃迁** 政策合法化不再仅仅依赖量化[[Performance Indicators\|绩效指标]]，而是广泛吸收学术文献、研究反思与临床证据；1983 年白皮书《教学质量》仅有 7 条内部报告引用，而 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]包含 34 条学术与国际引文，标志着政策文本从行政指令向学术化论证的彻底转型。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–91, p. 96)]]
+> **合法化形式的学术化跃迁** 政策合法化不再仅仅依赖量化[[Performance Indicators\|绩效指标]]，而是广泛吸收学术[[Document|文献]]、研究反思与临床证据；1983 年白皮书《教学质量》仅有 7 条内部报告引用，而 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]包含 34 条学术与国际引文，标志着政策文本从行政指令向学术化论证的彻底转型。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–91, p. 96)]]
 
 ---
 
-### 命题二　证据在证据时代被建构为主导性合理化神话并维系中央远程控制
-
-> [!concept-lens] 治理神话与权力把关
-> 揭示证据时代表象下的[[Scientism\|科学主义]]光环与深层政治集权之间的制度张力。
+> [!concept-proposition] 命题二｜证据在证据时代被建构为主导性[[Rationalized Myth|合理化神话]]并维系中央远程控制
+> **探讨维度　治理神话与权力把关** 揭示证据时代表象下的[[Scientism\|科学主义]]光环与深层政治集权之间的制度张力。
 
 > [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
 > **[[Rationalized Myth\|合理化神话]]与守门把关** 诉诸证据已演变为一种不可挑战的主导性[[Rationalized Myth\|合理化神话]]；政府通过充当[[Gatekeepers\|守门人]]，在倡导分权办学的表象下，借助[[Carter Review of Initial Teacher Training\|卡特审查]]与核心框架实施严格的远程中央控制，使证据生产在适宜性逻辑驱动下演进为[[Policy-Based Evidence-Making\|基于政策的证据制造]]。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91–95)]]

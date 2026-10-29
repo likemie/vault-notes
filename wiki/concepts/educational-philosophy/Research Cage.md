@@ -6,7 +6,7 @@ aliases:
 summary: "批判性认识论概念，指简陋评价理论主导下自变量与因变量相互循环界定的自洽封闭系统，虽具备统计信度，却割裂与外部现实的实质接触导致效度耗散。"
 type: concept
 domain: "educational-philosophy"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Critique of Evidence-Based Education]]"
   - "[[International Education]]"
+  - "[[Engrenage]]"
   - "[[Pure Evaluation]]"
 related_theories:
   - "[[Radical Constructivism]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-10-18'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -116,20 +117,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　评价化因变量的反向界定使实证因果推论陷入自循环互证
-
-> [!concept-lens] [[Variable|变量]]相互界定的自洽闭锁
-> 探讨评价[[Paradigm|范式]]如何通过压缩[[Dependent Variable|因变量]]的哲学内涵，反客为主地决定教学[[Independent Variable|自变量]]，导致[[Positivism|实证主义]]因果链条在概念层面彻底崩塌。
+> [!concept-proposition] 命题一｜评价化[[Dependent Variable|因变量]]的反向界定使实证因果推论陷入自循环互证
+> **探讨维度　[[Variable|变量]]相互界定的自洽闭锁** 探讨评价[[Paradigm|范式]]如何通过压缩[[Dependent Variable|因变量]]的哲学内涵，反客为主地决定教学[[Independent Variable|自变量]]，导致[[Positivism|实证主义]]因果链条在概念层面彻底崩塌。
 
 > [!claim] [[Thomas Aastrup Rømer|Rømer, T. A.]]
 > **因果因变量系统的概念瓦解** [[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中将因变量界定为极为狭隘的评价化学习结果，这种评价学习反向规定并塑造了何为教学自变量；当因变量与自变量完全依循同一套评价语言相互定义时，研究者事实上不可能建立起干预与结果之间真正的客观因果关联，实证体系因而退化为内部自足的文字游戏。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 6)]]
 
 ---
 
-### 命题二　统计内部一致性的繁荣以割裂外部环境对应性为代价
-
-> [!concept-lens] 高[[Reliability|信度]]与零效度的[[Epistemology|认识论]]代价
-> 探讨测量层面的高度标准化与聚合计算如何以牺牲概念与客观世界的真实对应为代价，产生无客体的数据空转。
+> [!concept-proposition] 命题二｜统计[[Internal Consistency|内部一致性]]的繁荣以割裂外部环境对应性为代价
+> **探讨维度　高[[Reliability|信度]]与零效度的[[Epistemology|认识论]]代价** 探讨测量层面的高度标准化与聚合计算如何以牺牲概念与客观世界的真实对应为代价，产生无客体的数据空转。
 
 > [!claim] Rømer, T. A.
 > **客观客体丧失与效度贫困** 研究牢笼之所以能够展现出极高的统计信度与聚合一致性，正是因为它在[[Operationalization|操作化]]过程中剔除了所有难以量化的现实干扰、情境复杂性与文化实质；这种高度可重复的统计一致性换取的是效度的全面瓦解，使教育科学彻底丢失了它原本旨在探究的客观事物与真理世界。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 6)]]
@@ -177,7 +174,7 @@ updated: 2026-10-22
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Dependent Variable]] | 概念 | 指认因[[Variable\|变量]][[Academic Achievement\|学业成就]]缺乏[[Operationalization\|操作化]]清晰度，为牢笼形成提供概念破口。 |
-> | [[Independent Variable]] | 概念 | 揭示自变量教学干预反向依附于评价化因变量的循环嵌合机制。 |
+> | [[Independent Variable]] | 概念 | 揭示自变量教学干预反向依附于评价化因变量的循环[[Engrenage\|嵌合机制]]。 |
 > | [[Pure Evaluation]] | 概念 | 提供研究牢笼形成的先验[[Paradigm\|范式]]动力，以目标审查置换教育本体。 |
 > | [[Radical Constructivism]] | 理论 | 与牢笼的唯我论[[Epistemology\|认识论]]基础呼应，共同排斥外部客观世界。 |
 > | [[Philosophical Analysis in Education]] | 方法 | 作为解构研究牢笼自循环假象的核心批判工具。 |

@@ -8,10 +8,10 @@ aliases:
 summary: "在认识论认知AIR模型中，用于评估科学模型、解释、论证与证据等认识产出质量的规范性标准与评价准则。"
 type: concept
 domain: "educational-psychology"
-related_count: 37
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation
@@ -24,8 +24,8 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Determinism]]"
   - "[[Epistemic Agency]]"
-  - "[[Evidence Standards]]"
   - "[[Generative Artificial Intelligence]]"
+  - "[[Evidence Standards]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Scientific Explanation]]"
   - "[[Operationalization]]"
@@ -41,6 +41,9 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
   - "[[Academic Achievement]]"
+  - "[[Variable]]"
+  - "[[Inquiry-Based Learning]]"
+  - "[[Source Evaluation]]"
   - "[[Epistemic Dependence]]"
   - "[[Cognitive Offloading]]"
 related_theories:
@@ -58,11 +61,12 @@ related_arguments:
   - "[[Argument_Sandoval_2005_SE]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
   - "[[Argument_Chinn_2011_EducPsychol]]"
-related_instruments: []
+related_instruments:
+  - "[[Framework for Teaching]]"
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -124,30 +128,24 @@ updated: 2026-10-25
 
 ## 围绕概念形成的命题
 
-### 命题一　认识论理想决定了科学证据评价与论证建构的实质品质
-
-> [!concept-lens] 论证评价的[[Epistemology\|认识论]]实质维度
-> 聚焦论证质量究竟是由外在句法结构还是内在评价准则所决定，揭示结构完备与认识论劣质共存的根源。
+> [!concept-proposition] 命题一｜[[Epistemology|认识论]]理想决定了科学证据评价与论证建构的实质品质
+> **探讨维度　论证评价的[[Epistemology\|认识论]]实质维度** 聚焦论证质量究竟是由外在句法结构还是内在评价准则所决定，揭示结构完备与认识论劣质共存的根源。
 
 > [!claim] Duncan, R. G. & [[Clark A. Chinn\|Chinn, C. A.]]
 > **评价准则[[Determinism\|决定论]]证实质** 论证质量的高低不仅取决于是否具备主张、证据与推理等外在形式部件，更取决于论证者在证据选择与模型辩护时激活了何种认识论理想。仅按外在结构评分，气候变暖否定论或反疫苗言论同样能展现出复杂句法与反驳要素；唯有审视论证是否贯彻了全域证据契合、多源收敛印证、直接性与设计决定性等优质认识论理想，才能甄别科学论证的真实确证力。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 203–204, 209–211)]]
 
 ---
 
-### 命题二　认识论理想具有深刻的学科实体知识依附性与情境特异性
-
-> [!concept-lens] 认识论理想与学科实体知识的纠缠维度
-> 探讨认识论准则是否为抽象中立的通用法则，分析学科实体机制对理想合理激活的决定性约束。
+> [!concept-proposition] 命题二｜认识论理想具有深刻的学科实体知识依附性与情境特异性
+> **探讨维度　认识论理想与学科实体知识的纠缠维度** 探讨认识论准则是否为抽象中立的通用法则，分析学科实体机制对理想合理激活的决定性约束。
 
 > [!claim] Duncan, R. G. & Chinn, C. A.
 > **理想与领域知识深度纠缠** 认识论理想并非脱离具体内容的抽象通用公式，而是与特定学科领域的实体知识紧密交织。在生物学中评估动物实验证据对人类模型的支持力度，取决于对不同物种免疫生理机制与演化同源性的实体理解；若缺乏相应学科知识，论证者容易机械套用推论直接性理想，将极具机制启发价值的跨物种收敛证据草率排斥。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 214, 221–222)]]
 
 ---
 
-### 命题三　认识论理想的有效掌握依赖共同体元认识论审议与认识主体性确立
-
-> [!concept-lens] 认识论理想的社会协商与教学培养维度
-> 考察学习者如何从被动接受外在评价规则走向主动理解并践行高阶认识论标准。
+> [!concept-proposition] 命题三｜认识论理想的有效掌握依赖共同体元认识论审议与[[Epistemic Agency|认识主体性]]确立
+> **探讨维度　认识论理想的社会协商与教学培养维度** 考察学习者如何从被动接受外在评价规则走向主动理解并践行高阶认识论标准。
 
 > [!claim] Duncan, R. G. & Chinn, C. A.
 > **元认识论辩护培育主体性** 优质认识论理想的内化无法依赖现成规则清单的灌输，而必须让学习者直面探究中的证据冲突与混淆噪音，开展元认识论审议（meta-epistemic discussions）。学生通过向共同体辩护为何某种理想（如多源收敛）在当下任务中优于个人孤立感知，逐步确立公共认识标准，从而成为知识与准则的共同建构者，培育平等的[[Epistemic Agency\|认识主体性]]（epistemic agency）。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 208, 222–223)]]
@@ -157,10 +155,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题四　生成式人工智能的通用合成抹平学科认识论理想，催生向关系性认识主体性的规范理想转向
-
-> [!concept-lens] 算法均质化与规范重塑
-> 探讨大语言模型无差别表层流畅性如何侵蚀分化的学科[[Evidence Standards\|证据标准]]，阐明人机时代规范性认识理想的重构路径。
+> [!concept-proposition] 命题四｜[[Generative Artificial Intelligence|生成式人工智能]]的通用合成抹平学科认识论理想，催生向关系性认识主体性的规范理想转向
+> **探讨维度　算法均质化与规范重塑** 探讨大语言模型无差别表层流畅性如何侵蚀分化的学科[[Evidence Standards\|证据标准]]，阐明人机时代规范性认识理想的重构路径。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **算法抹平学科证据标准与关系性主体性重塑** 各学科对于何为有效证据、合理解释与正当推论拥有严格分化的认识论理想（Goldman et al., 2016）：历史学依赖一手档案溯源与版本考证；实证科学依赖受控随机实验、统计功效与[[Effect Size\|效应量]]检验；哲学伦理学依赖概念严密性与命题有效性。然而，[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）的通用综合语调抹平了这些学科分化，以表面流畅的无差别假答案掩盖证据缺陷，阻碍了学生进入专业知识共同体的认识论社会化。同时，传统追求完全脱离外部支持的孤立自足认识理想在智能时代已不现实；教育应当确立“关系性认识主体性”这一新型规范性认识理想，引导学生在依托工具的同时牢固掌握对证据充分性与学科标准的最终裁决权。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 6–7)]]
@@ -217,10 +213,10 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架 | 指导式探究 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b = 17.491, p < .01$；预设 |
-> |  |  | 信源评估 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.800"><span class="b16"></span></span>0.800 | — | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预[[Framework for Teaching\|教学框架]] | [[Inquiry-Based Learning\|指导式探究]] | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.808"><span class="b16"></span></span>0.808 | — | $Q_b = 17.491, p < .01$；预设 |
+> |  |  | [[Source Evaluation\|信源评估]] |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.800"><span class="b16"></span></span>0.800 | — | — |
 > |  |  | PBL |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.340"><span class="b7"></span></span>0.340 | — | — |
 > |  | 成就类型 | 论证表现 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 1.047"><span class="b21"></span></span>1.047 | — | $Q_b = 8.940, p < .05$；预设 |
 > |  |  | 概念性知识 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.557"><span class="b11"></span></span>0.557 | — | — |

@@ -7,7 +7,7 @@ aliases:
 summary: "由戴维·莫斯（David Mosse）提出并被政策流动与国际发展研究广泛引用的批判性构念，指代由国际组织官员、跨国顾问、发展技术官僚及非政府组织精英构成的封闭职业亚文化圈与跨国制度场域，具有将地方复杂政治实践去政治化为标准化技术工具的过滤机制。"
 type: concept
 domain: "comparative-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Policy Ambassador]]"
   - "[[Policy Network]]"
   - "[[Grandes Ecoles]]"
+  - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Paradigm]]"
 related_facts:
   - "[[World Bank]]"
@@ -32,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-25
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -83,20 +84,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　援助国度的科层机制对激进地方知识施加驯化与去政治化转化
-
-> [!concept-lens] 知识驯化与过滤机制
-> 探讨国际发展科层体系如何通过自身[[Habitus|惯习]]与项目规范，将南方基层批判性方案重构为符合新自由主义管理[[Paradigm|范式]]的技术工具。
+> [!concept-proposition] 命题一｜援助国度的科层机制对激进[[Local Knowledge in Evidence-Based Policy|地方知识]]施加驯化与去政治化转化
+> **探讨维度　知识驯化与过滤机制** 探讨国际发展科层体系如何通过自身[[Habitus|惯习]]与项目规范，将南方基层批判性方案重构为符合新自由主义管理[[Paradigm|范式]]的技术工具。
 
 > [!claim] Stone, D., Porto de Oliveira, O., & Pal, L. A.
 > **科层同质化与方案裁剪** 援助国度拥有独特的运行逻辑，国际多边组织在搜寻和包装全球南方经验时，倾向于消除其内生于本土抗争的激进政治诉求，将原本服务于社会正义的模型强行重构为符合多边捐助标准的通用工具。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 12, 16)]]
 
 ---
 
-### 命题二　政策大使通过穿梭进入援助国度打破了单向度的知识依附
-
-> [!concept-lens] 行动者能动性与空间渗透
-> 探讨南方政策专家如何借由[[Policy Ambassador|政策大使]]身份进入国际援助生态圈，反向重构全球治理议题。
+> [!concept-proposition] 命题二｜[[Policy Ambassador|政策大使]]通过穿梭进入援助国度打破了单向度的知识依附
+> **探讨维度　行动者能动性与空间渗透** 探讨南方政策专家如何借由[[Policy Ambassador|政策大使]]身份进入国际援助生态圈，反向重构全球治理议题。
 
 > [!claim] Stone, D., Porto de Oliveira, O., & Pal, L. A.
 > **网络渗透与主动权转移** 伴随国际发展合作形态的变迁，来自全球南方的政策倡导者与政策大使逐步获得进入援助国度的职业通道与发言权，推动治理倡议的主动权向全球南方网络拓扑转移。[[Argument_Stone_2020_PolSoc|(Stone et al., 2020, pp. 12, 16)]]

@@ -7,7 +7,7 @@ aliases:
 summary: "涵盖个体在数字化社会中理解、解读与批判评估数据的通识能力，以及教育者在学校探究中系统采集质检多源数据、超越单一终结性评价、进行定性定量三角验证的专业实践胜任力；虽能精准诊断学情病因，但自身不包含现成教学策略，亟需与研究素养协同驱动完整的学校探究循环。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Grade Retention]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Document]]"
   - "[[Evidence-Informed Practice]]"
   - "[[School Enquiry Cycle]]"
   - "[[Research-Informed Teaching Practice]]"
@@ -76,7 +77,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -144,40 +145,32 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　数据素养是数字时代公民跨学科理性决策与公共参与的通用基石
-
-> [!concept-lens] [[Knowledge-Based Economy\|知识经济]]的底层胜任力
-> 现代社会公共议题高度依赖数据模型与统计表征，缺乏通识数据素养将导致公民丧失实质性参与民主对话与抵御虚假信息的能力。
+> [!concept-proposition] 命题一｜数据素养是数字时代公民跨学科理性决策与公共参与的通用基石
+> **探讨维度　[[Knowledge-Based Economy\|知识经济]]的底层胜任力** 现代社会公共议题高度依赖数据模型与统计表征，缺乏通识数据素养将导致公民丧失实质性参与民主对话与抵御虚假信息的能力。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
 > **全员贯穿必修** [[The Royal Society|英国皇家学会]]《Mathematical Futures》与《科学为社会》报告共同指出，数据素养必须打破数学单科藩篱，作为横向线索贯穿科学、地理与社会科学大纲，成为面向 18 岁所有学习者的核心必修素养，支撑公民在真实复杂情境中开展概率推理与数据批判。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 31)]]
 
 ---
 
-### 命题二　教育者数据素养是突破终结性评估单一主导并实现多元证据三角验证的核心能力
-
-> [!concept-lens] 克服课堂数据层级感知与评价窄化
-> 课堂数据在学校实践中往往被感知为具有严格的层级性，正式终结性评估常年支配决策，导致形成性与质性课堂证据被边缘化。
+> [!concept-proposition] 命题二｜教育者数据素养是突破终结性评估单一主导并实现多元证据[[Triangulation|三角验证]]的核心能力
+> **探讨维度　克服课堂数据层级感知与评价窄化** 课堂数据在学校实践中往往被感知为具有严格的层级性，正式终结性评估常年支配决策，导致形成性与质性课堂证据被边缘化。
 
 > [!claim] LaPointe-McEwan et al. (2017) / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
 > **[[Triangulation\|三角验证]]与平衡决策** 正如学术研究存在方法层级一样，课堂数据在实践中也存在显著的层级感知，正式的终结性测验数据往往占据绝对支配地位。教育者必须通过发展数据素养，确立审视课堂多元证据的广阔视野，学会对定量测试与[[Qualitative Observation\|质性观察]]材料进行三角验证（triangulate），从而避免落入单一量化分数的决策陷阱，做出兼顾学业指标与学生发展情境的平衡决策。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 129)]]
 
 ---
 
-### 命题三　数据素养能精准诊断学情病因但无法直接推导干预举措，必须与研究素养协同驱动完整探究循环
-
-> [!concept-lens] 内部诊断与外部干预的双轮驱动
-> 孤立的数据素养往往使学校决策局限于校内数据的现状诊断，缺乏成熟干预策略；孤立的[[Research Literacy\|研究素养]]则容易使外部文献脱离校本现实。
+> [!concept-proposition] 命题三｜数据素养能精准诊断学情病因但无法直接推导干预举措，必须与[[Research Literacy|研究素养]]协同驱动完整[[Inquiry Cycle|探究循环]]
+> **探讨维度　内部诊断与外部干预的双轮驱动** 孤立的数据素养往往使学校决策局限于校内数据的现状诊断，缺乏成熟干预策略；孤立的[[Research Literacy\|研究素养]]则容易使外部[[Document|文献]]脱离校本现实。
 
 > [!claim] [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
 > **双素养整合驱动[[Inquiry Cycle\|探究循环]]** 推动真正的[[Evidence-Informed Practice\|证据知情实践]]（EIP）必须同时依托数据素养与研究素养。数据素养帮助教育者基于校内数据精准定位问题诱因与真实学情痛点，但数据自身绝不包含现成的教学解决方案；研究素养则帮助教育者从外部实证研究中检索、评估和转译成熟有效的教学干预方案。只有将两种素养协同整合于系统的[[School Enquiry Cycle\|学校探究循环]]（ESTI）中，才能使 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 紧密交融，支持教师的专业探究与学校的持续改进。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 156, 159, 166–167)]]
 
 ---
 
-### 命题四　孤立识读数据集的传统技能无力应对算法黑箱，批判性治理亟需拓展为数据基础设施素养
-
-> [!concept-lens] 批判性数据治理与系统介入维度
-> 传统数据素养仅关注现成数据集的操作与图表分析，无法穿透算法加权、指标冻结与去地域化[[Commensuration\|通约]]背后的社会-技术黑箱。
+> [!concept-proposition] 命题四｜孤立识读数据集的传统技能无力应对算法黑箱，批判性治理亟需拓展为[[Data Infrastructure|数据基础设施]]素养
+> **探讨维度　批判性数据治理与系统介入维度** 传统数据素养仅关注现成数据集的操作与图表分析，无法穿透算法加权、指标冻结与去地域化[[Commensuration\|通约]]背后的社会-技术黑箱。
 
 > [!claim] Gray et al. (2018) / [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]]
 > **超越数据集识读的基础设施批判介入** 现代教育治理权力弥散于分散的算法模型与系统管道之中，单纯掌握下载表格或[[Descriptive Analysis\|描述统计]]计算的数据素养已完全无法应对治理黑箱。行动者必须发展[[Data Infrastructure\|数据基础设施]]素养（Data Infrastructure Literacy），具备解释、质询与介入创造、存储和流转数据的更广泛社会-技术系统的能力，包括审查检索脚本的过滤偏见、质疑综合指标的通约加权、理解法定截止节点的冻结时限，并对系统架构展开民主协商。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 10–11)]]

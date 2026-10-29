@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -100,20 +100,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　反驳型击败者为人类操作者提供实质认知支架，是打破强自动化偏差与维系可抗辩性的充要条件
-
-> [!concept-lens] [[Scaffolding|认知支架]]与抗辩权赋能
-> 探讨如何通过界面反向证据呈现，将击败者转化为支持人类独立审议与决策纠偏的有效工具。
+> [!concept-proposition] 命题一｜反驳型击败者为人类操作者提供实质[[Scaffolding|认知支架]]，是打破[[Automation Bias|强自动化偏差]]与维系可抗辩性的充要条件
+> **探讨维度　[[Scaffolding|认知支架]]与抗辩权赋能** 探讨如何通过界面反向证据呈现，将击败者转化为支持人类独立审议与决策纠偏的有效工具。
 
 > [!claim] Veluwenkamp and Buijsman (2025); [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **击败者机制的可抗辩性支持** 在智能决策支持系统中，强[[Automation Bias|自动化偏差]]往往由于操作者推翻算法建议面临极高的时间搜索成本与制度抗辩阻力。研究指出，通过在交互界面中引入反驳型击败者（Rebutting Defeaters），系统在推荐某一方案的同时自动呈现支持竞争性假设的客观反常数据，实质上为人类操作者搭建了行使独立批判与反驳算法的认知[[Scaffolding|脚手架]]。这种设计显著降低了抗辩的认知门槛，使操作者能够依据实质证据驳回错误算法提示，从而真正维系了[[Meaningful Human Control|有意义的人类控制]]。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 23–25)]]
 
 ---
 
-### 命题二　击败者机制与反思机器的协同构建了抵御过度信任的认知安全防护体系
-
-> [!concept-lens] 认知安全与[[Trust Calibration|信任校准]]
-> 探讨击败者如何与[[Socrates|苏格拉底]]式追问协同，构筑[[Man-Computer Symbiosis|人机协同]]决策的综合防护网。
+> [!concept-proposition] 命题二｜击败者机制与反思机器的协同构建了抵御[[Trust Calibration|过度信任]]的认知安全防护体系
+> **探讨维度　认知安全与[[Trust Calibration|信任校准]]** 探讨击败者如何与[[Socrates|苏格拉底]]式追问协同，构筑[[Man-Computer Symbiosis|人机协同]]决策的综合防护网。
 
 > [!claim] [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]]
 > **击败者与反思机器的双重安全防线** 击败者机制负责提供证据维度的认知反常（反驳事实），而反思机器（Reflection Machines）负责提供程序维度的理性追问（审思理由）。二者协同构成了向人机交互回路注入生产性[[Epistemic Friction|认识论摩擦]]的完整系统，有效打破了算法客观性迷信与例行公事化应对，实现了对过度信任的动态阻断与批判性信任校准。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]

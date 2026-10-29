@@ -9,7 +9,7 @@ aliases:
 summary: "指人类意识内在指向特定对象、寻求生存意义与建构社会价值的先在属性；在教育哲学中，主体意向性强调学习者与教师是探求生活世界意义的主动行动者，构成了抵抗行为主义机械因果控制与新泰勒主义量化规训的核心本体论根基"
 type: concept
 domain: "educational-philosophy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Positivism]]"
   - "[[Independent Variable]]"
+  - "[[Document]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Critical Theory]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-17
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 （主体意向性 / 意向性）
@@ -119,7 +120,7 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　技术理性通过将意向性置换为效率变量，制造了去情境的技术问题解决器假象
+> [!concept-proposition] 命题一｜[[Technical Rationality|技术理性]]通过将意向性置换为效率[[Variable|变量]]，制造了去情境的技术[[Problem Solving|问题解决]]器假象
 
 现代实证教学工程借用认知心理学术语包装行为控制逻辑，在深层[[Epistemology|认识论]]上抹杀了学生的主体能动性。
 
@@ -131,7 +132,7 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　剥夺主体意向性构成了对社会承认的系统性蔑视，必然导致教育关系的深度异化
+> [!concept-proposition] 命题二｜剥夺主体意向性构成了对社会承认的系统性蔑视，必然导致教育关系的深度异化
 
 制度化地放逐师生意向性不仅存在方法论偏误，更在规范层面上引发道德与社会灾难。
 
@@ -174,4 +175,4 @@ updated: 2026-10-22
 > | [[Recognition Theory\|承认理论]] | 规范理论依托 | [[Axel Honneth\|霍耐特]]的承认理论将承认意向性确立为主体人格自主的生命基石。 |
 > | [[Visible Learning\|可见的学习]] | 理论批判靶向 | 尼尔森等揭示可见学习通过[[Self-Efficacy\|自我效能]]等[[Variable\|变量]]偷换概念，将学生降格为技术纠错器。 |
 > | [[Neo-Taylorism\|新泰勒主义]] | 治理异化后果 | 抹杀意向性后的教育技术，被行政官僚吸纳为监控教师与[[Disciplina and Doctrina\|规训]]学生的新泰勒主义工具。 |
-> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 批判提出文献 | 论文结论部分的核心论点，直指[[John Hattie\|哈蒂]]缺乏对人类意向性的概念化（pp. 13–15）。 |
+> | [[Argument_Nielsen_2021_NordPsych\|Nielsen and Klitmøller (2021a)]] | 批判提出[[Document\|文献]] | 论文结论部分的核心论点，直指[[John Hattie\|哈蒂]]缺乏对人类意向性的概念化（pp. 13–15）。 |

@@ -8,10 +8,10 @@ aliases:
 summary: "在认识论认知AIR模型中，用于生成可信、有效认识产出的因果性认识过程及其适用与保障条件。"
 type: concept
 domain: "educational-psychology"
-related_count: 37
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation
@@ -26,6 +26,8 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Epistemic Ideals]]"
   - "[[Clinical Trial]]"
+  - "[[Habitus]]"
+  - "[[Document]]"
   - "[[Epistemological Understanding]]"
   - "[[Metacognition]]"
   - "[[Inquiry-Based Learning]]"
@@ -45,6 +47,7 @@ related_theories:
   - "[[Reliabilism]]"
   - "[[AIR Model of Epistemic Cognition]]"
 related_methods:
+  - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
   - "[[Blinding]]"
   - "[[Systematic Review]]"
@@ -62,7 +65,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-10
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -71,7 +74,7 @@ updated: 2026-10-25
 > 可靠[[Epistemology\|认识论]]过程（Reliable Epistemic Processes）是个体或科学共同体为了达成[[Epistemic Aims\|认识目标]]而采纳的、能够在特定因果条件下稳定产出真实知识与高质量认识产出的探究程序与[[Epistemic Practices\|认知实践]]流程。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202, 209)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 支撑证据生成与[[Knowledge Production\|知识生产]]的[[Causality\|因果性]]实践操作，如标准化观察规程、控制[[Variable\|变量]]实验设计、无偏采样、双盲对照以及大范围[[Meta-analysis\|元分析]]集成。
+> - **含义** 支撑证据生成与[[Knowledge Production\|知识生产]]的[[Causality\|因果性]]实践操作，如标准化观察规程、控制[[Variable\|变量]][[Experimental Research|实验设计]]、无偏采样、双盲对照以及大范围[[Meta-analysis\|元分析]]集成。
 > - **用途** 用于审查证据的来源[[Reliability\|信度]]，判断论证引述的事实与数据究竟是由可靠科学程序产生，还是源于有缺陷的偶发观察、有偏样本或虚假相关。
 > - **边界** 认识论过程是具体的生成行动（做研究与采数据的流程），而非评价产出结果好坏的标准（[[Epistemic Ideals]]），亦非探究追求的目的本身（[[Epistemic Aims]]）。
 
@@ -87,8 +90,8 @@ updated: 2026-10-25
 ---
 
 > [!feature] 科学实践中两类典型可靠过程及其条件
-> - **观察实践的可靠过程与条件（Observation Processes）** 包括在无遮挡和适宜距离下进行观察、将观察方案与研究对象的生物学生活史及习性严格对齐、观察者具备专业鉴别资质、在空间与时间跨度上保持系统记录、使用自动化或增强仪器拓展人类感官、采用防范偏差的[[Blinding\|盲法]]或评分员一致性检验。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 219)]]
-> - **证据整合的可靠过程与条件（Evidence Integration Processes）** 包括基于大体量证据合成（[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]与共识报告）而非单一孤立研究作出判断、采用全面检索方案定位全部相关文献杜绝选择性报告（cherry-picking）、依靠熟稔全域证据的领域同行综合评估、使用不带偏见的客观程序按证据质量赋予权重。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 220)]]
+> - **观察实践的可靠过程与条件（Observation Processes）** 包括在无遮挡和适宜距离下进行观察、将观察方案与研究对象的生物学生活史及[[Habitus|习性]]严格对齐、观察者具备专业鉴别资质、在空间与时间跨度上保持系统记录、使用自动化或增强仪器拓展人类感官、采用防范偏差的[[Blinding\|盲法]]或评分员一致性检验。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 219)]]
+> - **证据整合的可靠过程与条件（Evidence Integration Processes）** 包括基于大体量证据合成（[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]与共识报告）而非单一孤立研究作出判断、采用全面检索方案定位全部相关[[Document|文献]]杜绝选择性报告（cherry-picking）、依靠熟稔全域证据的领域同行综合评估、使用不带偏见的客观程序按证据质量赋予权重。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 220)]]
 > - **同行评议与批判反思的社会过程（Social Vetting Processes）** 包括科学共同体内部公开接受同行评议、开放辩驳、多元视角检验以及长期共识凝聚机制，防范商业利益或媒体追求耸动收视率导致的虚假平衡报道。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 209–211)]]
 
 > [!logic-map]- 可靠[[Epistemology\|认识论]]过程与因果保障条件
@@ -113,40 +116,32 @@ updated: 2026-10-25
 
 ## 围绕概念形成的命题
 
-### 命题一　知识证据的可信度由生成该证据之认识过程的因果可靠性所决定
-
-> [!concept-lens] 过程因果[[Reliability\|可靠性]]对证据信度的决定维度
-> 探究证据的可接受性从何而来，论证为何证据缺陷本质上属于生成程序的方法论与[[Epistemology\|认识论]]失效。
+> [!concept-proposition] 命题一｜知识证据的可[[Reliability|信度]]由生成该证据之认识过程的因果可靠性所决定
+> **探讨维度　过程因果[[Reliability\|可靠性]]对证据信度的决定维度** 探究证据的可接受性从何而来，论证为何证据缺陷本质上属于生成程序的方法论与[[Epistemology\|认识论]]失效。
 
 > [!claim] Duncan, R. G. & [[Clark A. Chinn\|Chinn, C. A.]]
 > **因果可靠性决定证据合法性** 在科学论证中，证据的不可接受性（unacceptability）本质上根源于其生成过程在方法论上的不可靠。例如，仅凭个人十年间两次孤立目击而声称冰川未消退，或者仅统计极少数疫苗突破感染病例而断言疫苗失效，之所以是劣质论证，是因为其依赖了记忆失真、观察无系统性以及忽略分母基数的不可靠认知过程；相反，优质论证必然建立在对其因果生成过程与适用条件的严格审查之上。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 210–211, 216)]]
 
 ---
 
-### 命题二　对可靠过程约束条件的元认识论审视构成科学推理素养的高阶质性标尺
-
-> [!concept-lens] 过程可靠性条件的元[[Epistemological Understanding\|认识论理解]]维度
-> 探讨科学推理素养评价应关注形式修辞还是对研究设计约束条件的质性洞察。
+> [!concept-proposition] 命题二｜对可靠过程约束条件的元认识论审视构成科学推理素养的高阶质性标尺
+> **探讨维度　过程可靠性条件的元[[Epistemological Understanding\|认识论理解]]维度** 探讨科学推理素养评价应关注形式修辞还是对研究设计约束条件的质性洞察。
 
 > [!claim] Duncan, R. G. & Chinn, C. A.
 > **认识论条件审视超越单纯句法结构** 在科学探究与论证中，即便论证表述在句法形式上相对简短，只要论辩者能够敏锐识别物理环境遮挡对野外视觉的干扰、时空抽样代表性的不足、研究设计中潜藏的混淆[[Variable\|变量]]，或者指出门诊就医样本无法代表健康总体的抽样偏误，便展现了对认识过程因果条件的深刻洞察。这种对过程可靠性条件的元认识论审视，是评价高质量科学论证的核心质性维度。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 216–218)]]
 
 ---
 
-### 命题三　可靠认识论过程的有效执行依赖共同体社会协商与方法因果理解
-
-> [!concept-lens] 可靠过程的社会性与机制理解维度
-> 考察可靠过程是机械教条还是包含因果机理与社会规范的理性实践。
+> [!concept-proposition] 命题三｜可靠认识论过程的有效执行依赖共同体社会协商与方法因果理解
+> **探讨维度　可靠过程的社会性与机制理解维度** 考察可靠过程是机械教条还是包含因果机理与社会规范的理性实践。
 
 > [!claim] Duncan, R. G. & Chinn, C. A.
 > **社会协商与因果机理双重驱动** 可靠认识过程不是孤立操作技巧的盲目执行，其可靠性是由科学共同体长期的规范协商与严格质询所确立的社会契约。掌握可靠过程不仅要求知晓操作规程，更要求在[[Metacognition\|元认知]]层面理解其因果机制（例如理解双[[Blinding\|盲法]]如何通过阻断主观期望与安慰剂效应保障客观性），并能根据研究对象的物理生态约束灵活调适，防范方法教条主义。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 207–208, 222–223)]]
 
 ---
 
-### 命题四　可靠认识论过程的有效习得必须依赖显性规程示范而非无指导的自由探索
-
-> [!concept-lens] 过程教学的可干预性与支架必要性维度
-> 探讨学习者能否在缺乏指导的自由探索中自发掌握可靠认识论过程，揭示显性教学规程在培养高阶认知表现中的因果决定性。
+> [!concept-proposition] 命题四｜可靠认识论过程的有效习得必须依赖显性规程示范而非无指导的自由探索
+> **探讨维度　过程教学的可干预性与支架必要性维度** 探讨学习者能否在缺乏指导的自由探索中自发掌握可靠认识论过程，揭示显性教学规程在培养高阶认知表现中的因果决定性。
 
 > [!claim] [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]
 > **显性教学规程决定过程可靠性** 可靠认识过程（如变量控制、双盲检验、多源信源甄别）属于人类漫长科学实践积累的高度反直觉文化工具，初学者极难在缺乏外部指导的开放探究中自发领会。认识论干预的一阶[[Meta-analysis\|元分析]]表明，显性讲授可靠过程操作规程的[[Framework for Teaching|教学框架]]（如[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]）取得了突出的学业促进效应；而缺乏程序支架的无指导自由探索（如基于问题的开放学习与自由辩论）则收效甚微且在统计上不显著。这一实证因果对比表明，可靠认识论过程的内化必须依托结构化的[[Scaffolding\|认知支架]]与显性示范，才能转化为个体的稳健科学推理能力。

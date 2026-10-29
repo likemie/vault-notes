@@ -17,6 +17,7 @@ tags: []
 related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Cognition]]"
+  - "[[Document]]"
   - "[[Ontology]]"
   - "[[Epistemological Naturalism]]"
   - "[[Causal Processes]]"
@@ -80,14 +81,14 @@ sources:
 part_of: 
 status: draft
 created: 2026-08-18
-updated: 2026-10-23
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Sandoval_2016_RRE"
 argument_key: "Argument_Sandoval_2016_RRE"
 argument_display_title: "Understanding and promoting thinking about knowledge: Origins, issues, and future directions of research on epistemic cognition"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 55
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -106,7 +107,7 @@ issuing_organization: ""
 > 认识论认知研究处于充满活力但极度分裂的状态。跨越知识概念化、领域普遍性与情境性、发展轨迹、测量方法等四大核心断层线，并采用[[Integrative Pluralism\|整合的多元主义]]（integrative [[Pluralism]]）视角统合个体内在认知与社会文化情境，是指导复杂信息时代教育实践的前提。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 心理学与教育学关于认识论认知与个人[[Epistemology\|认识论]]（personal epistemology）的267篇高被引核心文献。
+> - **对象** 心理学与教育学关于认识论认知与个人[[Epistemology\|认识论]]（personal epistemology）的267篇高被引核心[[Document|文献]]。
 > - **张力** [[Cognitive Constructivism\|个体建构主义]]关注内部心理表征，情境视角关注社会实践，二者在[[Ontology\|本体论]]和方法论上存在深度割裂。
 > - **贡献** 绘制领域诊断图，界定不同派别争论的底层分歧点，为[[Mixed Methods Research\|混合方法研究]]和跨语境迁移指明道路。
 
@@ -152,7 +153,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一 认识论认知研究的多源流拼图
+> [!claim|step] 论证步骤一 认识论认知研究的多源流拼图
 > [[Epistemology\|认识论]]认知并非统一的领域，而是由哲学[[Epistemology\|认识论]]的转向、个人认识论的模型建构、发展心理学的早期基础，以及学科教育中的特异性实践共同拼凑而成的复杂网络。
 
 > [!chain-link] 证据到判断
@@ -179,7 +180,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二 断层线一 知识与认知的本体论决裂
+> [!claim|step] 论证步骤二 断层线一 知识与认知的本体论决裂
 > 社会科学领域的“文化转向（cultural turn）”引发了认识论认知研究中的第一条深层断层线：学界在知识与认知的本质定义上存在[[Ontology\|本体论]]层级的严重分歧。这种分歧导致研究在[[Unit of Analysis\|分析单元]]（unit of analysis）、发展路径的解释机制以及测量干预方法上产生了极大的张力。
 
 > [!tension] 个体心智建构 vs. 分布式社会实践
@@ -193,7 +194,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三 断层线二 领域争议掩盖的情境特异性（General vs. Specific vs. Contextual）
+> [!claim|step] 论证步骤三 断层线二 领域争议掩盖的情境特异性（General vs. Specific vs. Contextual）
 > 学界长期纠结于个人的[[Epistemological Beliefs\|认识论信念]]究竟是“领域一般（domain-general）”还是“领域特殊（domain-specific）”的，但这场争论实际上由于颗粒度过粗，掩盖了更核心的问题：即个体的认识论认知对微观的具体任务情境（situational context）具有极高的特异性与依赖性。
 
 > [!chain-link] 领域论争的演进与破局
@@ -209,7 +210,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤四 断层线三 发展轨迹的合法性危机（Developmental Trajectories）
+> [!claim|step] 论证步骤四 断层线三 发展轨迹的合法性危机（Developmental Trajectories）
 > 传统研究普遍假定个人的认识论会遵循一条“从低级盲信到高级批判”的单向线性发展轨迹。然而，实证证据的高度异质性对这种带有强烈规训色彩的“发展阶梯”的合法性提出了致命挑战。
 
 > [!chain-link] 发展模型与实证数据的冲突
@@ -225,7 +226,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤五 断层线四 测量手段与方法论危机（Methodological Crisis）
+> [!claim|step] 论证步骤五 断层线四 测量手段与方法论危机（Methodological Crisis）
 > 上述本体论与情境性的底层分裂直接投射到了方法论层面，导致当前该领域陷入了严重依赖封闭量表与纯外部推论的测量危机，必须全面转向混合测量的[[Triangulation\|三角验证]]。
 
 > [!chain-link] 测量工具的困境与推论危机
@@ -241,7 +242,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤六 迈向整合的多元主义
+> [!claim|step] 论证步骤六 迈向整合的多元主义
 > 面对上述本体论、情境性、发展观与方法论的四大深度撕裂，任何试图建立“大一统理论（grand unifying theory）”的尝试都注定失败。作者呼吁，该领域必须走向一种[[Integrative Pluralism\|整合的多元主义]]（integrative pluralism），通过在多个“聚合层级”上协同作战，来统合当前碎片化的[[Paradigm\|研究范式]]。
 
 > [!chain-link] 从割裂走向整合的论证路径

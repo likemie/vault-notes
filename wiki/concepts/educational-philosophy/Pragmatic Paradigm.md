@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动与方法自由），并剖析跨国治理中将教育窄化为绩效精算的实用主义范式与紧迫实用主义认知盲区。"
 type: concept
 domain: "educational-philosophy"
-related_count: 67
+related_count: 68
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -44,11 +44,12 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Discourse]]"
   - "[[Quality Education]]"
-  - "[[Grand Theory]]"
   - "[[Engineering Mindset]]"
+  - "[[Grand Theory]]"
   - "[[Global Educational Discourse]]"
   - "[[Educational Meliorism]]"
   - "[[Discursive Field]]"
+  - "[[Document]]"
   - "[[Commensuration]]"
   - "[[Research Ethics]]"
   - "[[Technological Republic]]"
@@ -94,7 +95,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -190,10 +191,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一（哲学层面）　实用主义哲学将真理定义为情境行动中经受检验的有效后果
-
-> [!concept-lens] 哲学层面：真理的工具性、情境性与实验方法
-> 实用主义哲学家（Peirce, James, Dewey）首先主张真理并非超验存在的静止摹本，而是在历史与社会情境中通过试错、行动与反思形成的“担保性断言”。
+> [!concept-proposition] 命题一｜（哲学层面）　实用主义哲学将真理定义为情境行动中经受检验的有效后果
+> **探讨维度　哲学层面：真理的工具性、情境性与实验方法** 实用主义哲学家（Peirce, James, Dewey）首先主张真理并非超验存在的静止摹本，而是在历史与社会情境中通过试错、行动与反思形成的“担保性断言”。
 
 > [!claim] Dewey (1916)
 > **渐进实验与一步一个脚印** [[John Dewey|杜威]]强调探究必须立足于现实情境，否定脱离社会条件的激进空想，主张教育与社会重组“只能零碎地完成，一步一个脚印”（Dewey [1916] 2018, pp. 146–147）。
@@ -206,10 +205,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题二（方法论层次）　实用主义研究范式以研究问题为中心并视方法为适合目的的工具
-
-> [!concept-lens] 方法论层次：[[Research Question|研究问题]]驱动与方法选择自由
-> [[Mixed Methods Research|混合方法研究]]学者随后将古典实用主义哲学[[Operationalization|操作化]]为方法论[[Paradigm|范式]]：放弃无休止的[[Paradigm Wars|范式战争]]，以研究问题为最高准则，推行适应目的的方法[[Pluralism|多元主义]]。
+> [!concept-proposition] 命题二｜（方法论层次）　实用主义[[Paradigm|研究范式]]以[[Research Question|研究问题]]为中心并视方法为[[Fitness for Purpose|适合目的]]的工具
+> **探讨维度　方法论层次：[[Research Question|研究问题]]驱动与方法选择自由** [[Mixed Methods Research|混合方法研究]]学者随后将古典实用主义哲学[[Operationalization|操作化]]为方法论[[Paradigm|范式]]：放弃无休止的[[Paradigm Wars|范式战争]]，以研究问题为最高准则，推行适应目的的方法[[Pluralism|多元主义]]。
 
 > [!claim] [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022, Ch. 1)]]
 > **方法选择的选择自由** 实用主义范式打破了单一形而上学体系的限制，研究者有自由选择最能满足研究问题需求的方法与技术。
@@ -219,10 +216,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题三（跨国与实践层）　实用主义在跨国传播与现实危机中易遭遇哲学理想与方法手段的解耦
-
-> [!concept-lens] 实践应用层：现实政治危机中实用主义理论构件的拆解与重构
-> 比较教育学者进一步指出：当实用主义哲学传播到缺乏民主或处于危机的社会时，其哲学层面的“民主理想（目标）”与方法论层次的“渐进实验（手段）”常常发生分道扬镳。
+> [!concept-proposition] 命题三｜（跨国与实践层）　实用主义在跨国传播与现实危机中易遭遇哲学理想与方法手段的解耦
+> **探讨维度　实践应用层：现实政治危机中实用主义理论构件的拆解与重构** 比较教育学者进一步指出：当实用主义哲学传播到缺乏民主或处于危机的社会时，其哲学层面的“民主理想（目标）”与方法论层次的“渐进实验（手段）”常常发生分道扬镳。
 
 > [!claim] [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]]
 > **民主目标与渐进方法的悖论分离** 证明在民国中国，实用主义被拆解为民主、渐进实验、[[Scientific Attitude|科学态度]]等碎片；急于救国的改革者拥抱民主目标却抛弃渐进方法，展示了实用主义在跨国[[Knowledge Transfer|知识转移]]中的结构性拆解。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp. 610–611, 622]]）
@@ -232,10 +227,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题四（比较教育学方法论层）　实用主义问题求解传统催生比较教育的假设-演绎问题法与实用互动范式
-
-> [!concept-lens] 比较教育学方法论争鸣与多元范式演进
-> 探讨实用主义从杜威反思思维向比较教育学“假设-演绎[[Problem Approach|问题法]]”及微观批判范式的演化逻辑。
+> [!concept-proposition] 命题四｜（比较教育学方法论层）　实用主义问题求解传统催生比较教育的假设-演绎[[Problem Approach|问题法]]与实用互动范式
+> **探讨维度　比较教育学方法论争鸣与多元范式演进** 探讨实用主义从杜威反思思维向比较教育学“假设-演绎[[Problem Approach|问题法]]”及微观批判范式的演化逻辑。
 
 > [!claim] Holmes (1965) & [[Argument_Rust_2009_Reflections|Rust et al. (2009)]]
 > **杜威反思思维与假设-演绎问题法** [[Brian Holmes|布莱恩·霍姆斯]]依据[[John Dewey|杜威]]（Dewey, 1910, *How We Think*）的问题求解传统与[[Karl Popper|卡尔·波普尔]]（Karl Popper）的批判理性主义，在比较教育学中倡导“问题法（Problem Approach）”与“假设-演绎法（Hypothetico-deductive Approach）”，向[[George Bereday|乔治·贝雷迪]]（George Bereday）的纯经验描述与归纳法传统发起有力挑战，强调在具体社会背景中检验改革假设并预测行动后果。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 128–129)]]
@@ -245,20 +238,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题五（工程与治理认识论层）　实用主义投身具体经验的求真精神构成了现代工程思维与反教条治理的哲学基石
-
-> [!concept-lens] 现代工程哲学与技术治理认识论
-> 探讨古典实用主义气质如何超越传统教育学界限，成为现代工程师以物理实测为准绳、直面复杂系统动态现实的认识论底座。
+> [!concept-proposition] 命题五｜（工程与治理认识论层）　实用主义投身具体经验的求真精神构成了现代[[Engineering Mindset|工程思维]]与反教条治理的哲学基石
+> **探讨维度　现代工程哲学与技术治理认识论** 探讨古典实用主义气质如何超越传统教育学界限，成为现代工程师以物理实测为准绳、直面复杂系统动态现实的认识论底座。
 
 > [!claim] Dewey (1922) & [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]]
 > **投身具体事物激流与抗拒教条概括** [[John Dewey|杜威]]在《实用主义美国》（*Pragmatic America*, 1922）中阐明，实用主义气质愿意走下高傲超然的教条神坛，投身具体事物的泥泞激流之中；在给予完全赞同前查明系统如何运作，坚决抵制过于宽泛轻率的[[Grand Theory|宏大理论]]概括。卡普与扎米斯卡（2025）指出，硅谷之所以能够推动计算机与现代软件工程的爆发，其精神源头正是这种放下宏大意识形态束缚、一切以代码和物理运行结果为尺度的实用主义[[Engineering Mindset|工程思维]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp and Zamiska, 2025, pp. 160–161)]]
 
 ---
 
-### 命题六（全球治理与去政治化层）　超国家组织借助实用主义范式将教育目的伦理辩论降格为劳动力精算并因紧迫实用主义诱发认知盲区
-
-> [!concept-lens] 全球政策治理与去政治化话语维度
-> 探讨实用主义在当代跨国治理实践中被工具化挪用为“解题理性（Problem-Solving Rationality）”的机制：将新自由主义意识形态伪装为中立务实的实效工具，以技术官僚管理取代教育本质价值的民主协商，以及国际机构因“紧迫实用主义”陷入认知盲区。
+> [!concept-proposition] 命题六｜（全球治理与去政治化层）　超国家组织借助实用主义范式将教育目的伦理辩论降格为劳动力精算并因紧迫实用主义诱发认知盲区
+> **探讨维度　全球政策治理与去政治化话语维度** 探讨实用主义在当代跨国治理实践中被工具化挪用为“解题理性（Problem-Solving Rationality）”的机制：将新自由主义意识形态伪装为中立务实的实效工具，以技术官僚管理取代教育本质价值的民主协商，以及国际机构因“紧迫实用主义”陷入认知盲区。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
 > **实用主义转向与宏观治理去政治化** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）在冷战后发生根本性政策转向，放弃了关于教育本质目的、社会学条件与民主伦理的广泛哲学辩论，将全部治理能量聚焦于劳动力技能精算与绩效管理的“实用主义范式（Pragmatic Paradigm）”。这种以解决问题为幌子的实用主义操作，不仅没有消除意识形态，反而将新自由主义对经济效率与[[Human Capital Theory|人力资本]]增值的偏好包装为不可置疑的技术常识，实现了全球教育治理深层的去政治化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 451–452)]]
@@ -274,7 +263,7 @@ updated: 2026-10-26
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 所属层次 | 核心指向 | 适用情境 | 代表学者与文献 |
+> | 命题类型 | 所属层次 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |:---|:---|:---|:---|:---|
 > | **行动后果与真理工具论** | 层次一：哲学层面 | 将真理定义为情境行动中经受检验的有效后果，实证证据仅是探究假设而非行动规则 | 认识论与探究哲学 | Dewey (1916, 1929); Cherryholmes (1992); [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] |
 > | **问题驱动与方法自由** | 层次二：方法论层次 | 强调方法服务于研究问题，主张适合目的与技术自由 | [[Mixed Methods Research\|混合方法研究]]设计 | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |

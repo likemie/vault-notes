@@ -10,10 +10,10 @@ aliases:
 summary: "源自生态心理学与教育技术学的核心构念，指技术工具在特定教学情境中与学习者及任务环境交互时所展现出的、可被感知并支持特定认知与教学行动的客观使能属性。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - field/educational-technology
   - field/learning-sciences
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Evaluative Judgement]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Ontology]]"
+  - "[[Document]]"
   - "[[Variable]]"
   - "[[AI Agent in Education]]"
   - "[[Problem Solving]]"
@@ -68,7 +69,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 （教育技术可供性 / 可供性）
@@ -142,40 +143,32 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　技术可供性是技术特性、学习者认知特征与任务环境动态交互的关系性涌现
-
-> [!concept-lens] 关系性与情境化本质
-> 批判将技术视为灵丹妙药的技术[[Determinism\|决定论]]，确立可供性的生态系统观。
+> [!concept-proposition] 命题一｜技术可供性是技术特性、学习者认知特征与任务环境动态交互的关系性[[Emergence|涌现]]
+> **探讨维度　关系性与情境化本质** 批判将技术视为灵丹妙药的技术[[Determinism\|决定论]]，确立可供性的生态系统观。
 
 > [!claim] Kirschner et al. (2004); [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
 > **可供性的关系性[[Emergence\|涌现]]** 技术的教育价值并不预先封装在软件代码之中，而是在学习者与任务环境交互时被动态感知与激活。缺乏高阶认知准备的学习者无法感知复杂[[Scaffolding\|认知脚手架]]的可供性，唯有在三者良性匹配时，技术潜能才能转化为有效学习行为。[[Argument_Li_2026_CEAI\|(Kirschner et al., 2004; Li et al., 2026, pp. 2–3)]]
 
 ---
 
-### 命题二　生成式 AI 展现出“认知使能”与“心智外包”的双向可供性二元张力
-
-> [!concept-lens] 生成式技术的独特双刃剑属性
-> 揭示大语言模型区别于传统单向教育技术的内在矛盾性。
+> [!concept-proposition] 命题二｜生成式 AI 展现出“认知使能”与“心智外包”的双向可供性二元张力
+> **探讨维度　生成式技术的独特双刃剑属性** 揭示大语言模型区别于传统单向教育技术的内在矛盾性。
 
 > [!claim] [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
 > **双向可供性二元张力** 生成式 AI 既提供了强大的发散构想与视角拓展可供性（在 31 项研究中促进[[Creativity\|创造力]]），同时也提供了极易诱发被动顺从与学术声音剥落的“代工可供性”（在 20 项研究中诱发构想惰性）。这种双向可供性的共存要求教育研究必须同时审视其促学机制与风险边界。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2, 4–8)]]
 
 ---
 
-### 命题三　教学任务的结构化设计决定技术潜在可供性向高阶心智发展的实际转化效能
-
-> [!concept-lens] 教学干预与可供性兑现
-> 确立教学设计在转化技术可供性中的决定性地位。
+> [!concept-proposition] 命题三｜教学任务的结构化设计决定技术潜在可供性向高阶心智发展的实际转化效能
+> **探讨维度　教学干预与可供性兑现** 确立教学设计在转化技术可供性中的决定性地位。
 
 > [!claim] Bower (2008); [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
 > **支架对可供性转化的决定作用** 潜在的技术可供性唯有在[[Structured Teaching\|结构化教学]]框架（如探究导向提示词设计、[[Reflexivity\|反思性]]日志、辩护答辩）的引导下，才能转化为促进批判性与创造性思维的实际学习成果；非结构化的工具主义使用则必然滑向[[Cognitive Offloading\|认知卸载]]与思维退化。[[Argument_Li_2026_CEAI\|(Bower, 2008; Li et al., 2026, pp. 10–13)]]
 
 ---
 
-### 命题四　技术可供性通过社会技术中介路径重组知识确证劳动分工并决定认识依赖性质
-
-> [!concept-lens] 社会技术中介与[[Epistemic Dependence\|认识依赖]]机制
-> 超越微观认知负荷视角，从社会[[Epistemology\|认识论]]视阈审视技术可供性如何通过流畅权威、无摩擦委托与不透明综合重塑主体的知识确证分工。
+> [!concept-proposition] 命题四｜技术可供性通过社会技术中介路径重组知识确证劳动分工并决定[[Epistemic Dependence|认识依赖]]性质
+> **探讨维度　社会技术中介与[[Epistemic Dependence\|认识依赖]]机制** 超越微观认知负荷视角，从社会[[Epistemology\|认识论]]视阈审视技术可供性如何通过流畅权威、无摩擦委托与不透明综合重塑主体的知识确证分工。
 
 > [!claim] [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]
 > **可供性向有害认识依赖的机制转化** 技术的教育可供性并非决定论式的因果链条，而是通过特定社会技术路径改变认识劳动力分工。当大语言模型的“即时响应”与“语言流畅”等技术可供性与追求效率的考核制度结合时，极易转化为无摩擦委托（压缩论证中间动作）与不透明综合（掩盖证据源头谱系）的中介机制，进而诱发学习者对[[Evaluative Judgement\|评价性判断]]的放弃；唯有当可供性设计满足可质疑性、可恢复性与证据可追溯性时，技术才能兑现为维系关系性主体性的生产性认识依赖。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–7)]]
@@ -209,7 +202,7 @@ updated: 2026-10-22
 > > - **社会建构论** 强调行动者的素养、文化背景与社会实践塑造了可供性的实际样态。
 >
 > > [!axis] 泛化滥用倾向与概念边界模糊
-> > 批评教育技术文献中常将“可供性”作为普通“优点/功能（Benefits/Features）”的华丽代名词，丧失了其独特的关系性理论解释力。
+> > 批评教育技术[[Document|文献]]中常将“可供性”作为普通“优点/功能（Benefits/Features）”的华丽代名词，丧失了其独特的关系性理论解释力。
 
 ---
 

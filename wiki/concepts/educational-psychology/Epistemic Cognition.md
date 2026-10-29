@@ -5,7 +5,7 @@ aliases:
 summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 73
+related_count: 77
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -14,6 +14,7 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Justificatory Standards]]"
+  - "[[Document]]"
   - "[[Epistemological Beliefs]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Generative Artificial Intelligence]]"
@@ -36,10 +37,10 @@ related_concepts:
   - "[[Causal Processes]]"
   - "[[Causality]]"
   - "[[Epistemic Climate]]"
+  - "[[Reliability]]"
   - "[[Academic Achievement]]"
   - "[[Measurement Alignment]]"
   - "[[Procedural Knowledge]]"
-  - "[[Reliability]]"
   - "[[Authentic Science Practices]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Knowledge Production]]"
@@ -48,6 +49,9 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
+  - "[[Variable]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Fade-out Effect]]"
   - "[[Ontology]]"
   - "[[Publication Bias]]"
   - "[[Interaction Effect]]"
@@ -94,7 +98,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 （[[Epistemology|认识论]]认知）
 
@@ -104,7 +108,7 @@ updated: 2026-10-25
 > [[Epistemic Cognition\|认识论认知]]是指个体在获取、理解、证成和运用知识时，对“知识本质”（知识是什么）和“认知过程”（如何获得知识）的潜在信念、标准与思维过程。它回答了学习者内心深处的终极问题：“我如何知道我所知道的是真的？”
 
 > [!concept-lens] 概念透镜
-> - **含义** 这个概念指向学生在面对复杂信息时，调用的知识[[Justificatory Standards\|确证标准]]与心智过程。相比于早期文献中常用的“[[Epistemological Beliefs\|认识论信念]]（Epistemological Beliefs）”，它是一个更为宽泛且具包容性的伞形术语，强调认知的动态性、情境性和社会互动性。
+> - **含义** 这个概念指向学生在面对复杂信息时，调用的知识[[Justificatory Standards\|确证标准]]与心智过程。相比于早期[[Document|文献]]中常用的“[[Epistemological Beliefs\|认识论信念]]（Epistemological Beliefs）”，它是一个更为宽泛且具包容性的伞形术语，强调认知的动态性、情境性和社会互动性。
 > - **用途** 它帮助研究者看见为什么学生在面临学术任务时会采取不同的探究深度，以及为何他们对同一论据会有完全不同的采信标准。
 > - **[[Man-Computer Symbiosis|人机共生]]视界** 在[[Generative Artificial Intelligence\|生成式人工智能]]介入的复杂技术环境中，[[Epistemology\|认识论]]认知拓展为学习者在人机交互中校准算法信任、调适[[Epistemic Stances\|认识立场]]与维持[[Epistemic Agency\|认识主体性]]的高级调控机制。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
 > - **边界** 它不适合解释缺乏“追求真实（truth）”动机的纯智力游戏或单纯的话术辩论。
@@ -150,9 +154,8 @@ updated: 2026-10-25
 
 ## 理论主张与核心命题
 
-### 命题一　认识论认知不再是脱域的稳定特质，而是高度依赖情境的动态微观资源库
-> [!concept-lens] 理论模型的微观构成与结构假设
-> 早期研究视[[Epistemology\|认识论]]为宏大的阶段性发展产物或跨领域的稳定信念，但当代学者倾向于将其拆解为微观的知识结构与[[Justificatory Standards\|确证标准]]，并强调情境的绝对主导地位。
+> [!concept-proposition] 命题一｜[[Epistemology|认识论]]认知不再是脱域的稳定特质，而是高度依赖情境的动态微观资源库
+> **探讨维度　理论模型的微观构成与结构假设** 早期研究视[[Epistemology\|认识论]]为宏大的阶段性发展产物或跨领域的稳定信念，但当代学者倾向于将其拆解为微观的知识结构与[[Justificatory Standards\|确证标准]]，并强调情境的绝对主导地位。
 
 > [!claim] Chinn, C.
 > **扩展五组件框架** 认识论认知是由五个高度情境化的组件构成的微观网络：
@@ -170,9 +173,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　认识论认知的实证预测效力绝对依赖于测量颗粒度的对齐与工具信度
-> [!concept-lens] 认识论认知的实证方法论法则
-> 长期以来关于认识论是否真正影响[[Academic Achievement\|学业成绩]]的实证分歧，实则源于测量方法上的粗糙和颗粒度错配。
+> [!concept-proposition] 命题二｜认识论认知的实证预测效力绝对依赖于测量颗粒度的对齐与工具[[Reliability|信度]]
+> **探讨维度　认识论认知的实证方法论法则** 长期以来关于认识论是否真正影响[[Academic Achievement\|学业成绩]]的实证分歧，实则源于测量方法上的粗糙和颗粒度错配。
 
 > [!claim] Greene, J.
 > **[[Measurement Alignment\|对齐法则]]与高阶认知强关联** 实证预测效力依赖于以下法则：
@@ -186,20 +188,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题三　认识论认知在学科论证中展现为目标、理想与可靠过程三元架构的实质协调
-
-> [!concept-lens] 论证评价中认识论认知的实践具身与学科实质维度
-> 探究认识论认知在[[Authentic Science Practices|真实科学探究]]任务中如何外显化，论证科学论证评估何以必须超越外在句法结构而转向认识论实质。
+> [!concept-proposition] 命题三｜认识论认知在学科论证中展现为目标、理想与[[Reliable Epistemic Processes|可靠过程]]三元架构的实质协调
+> **探讨维度　论证评价中认识论认知的实践具身与学科实质维度** 探究认识论认知在[[Authentic Science Practices|真实科学探究]]任务中如何外显化，论证科学论证评估何以必须超越外在句法结构而转向认识论实质。
 
 > [!claim] Duncan, R. G. & [[Clark A. Chinn\|Chinn, C. A.]]
 > **[[AIR Model of Epistemic Cognition\|AIR]]三元协调决定论证实质** 认识论认知在科学论证实践中具体具身为探究目标（[[Epistemic Aims]]）、评价准则（[[Epistemic Ideals]]）与生成程序（[[Reliable Epistemic Processes]]）三者的协同运作。传统基于 Toulmin 或 CER 的结构分析仅能评价主张、数据与推理等表面句法部件，无法甄别结构完备但缺乏认识论确证力的伪科学论证；唯有深入考察论证者在证据选择、模型裁决与方法质询中调动的认识论理想（如全证据契合、多源收敛）及对过程因果条件的审视，才能揭示认识论认知的真实运作水准，并以此作为培育学生[[Epistemic Agency\|认识主体性]]的核心杠杆。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202–204, 209–211, 222–223)]]
 
 ---
 
-### 命题四　人工智能中介环境中认识论认知表现为适应性认识立场的动态调适与双轨支架干预响应
-
-> [!concept-lens] [[Man-Computer Symbiosis|人机共生]]认识论与干预机制
-> 探讨[[Generative Artificial Intelligence\|生成式人工智能]]嵌入学习情境后，认识论认知如何从个体内隐的静态信念系统拓展为在人机交互回路中动态调适[[Epistemic Stances\|认识立场]]与应对[[Cognitive Offloading\|认知卸载]]的高阶调控机制。
+> [!concept-proposition] 命题四｜人工智能中介环境中认识论认知表现为[[Epistemic Stances|适应性认识立场]]的动态调适与双轨支架干预响应
+> **探讨维度　[[Man-Computer Symbiosis|人机共生]]认识论与干预机制** 探讨[[Generative Artificial Intelligence\|生成式人工智能]]嵌入学习情境后，认识论认知如何从个体内隐的静态信念系统拓展为在人机交互回路中动态调适[[Epistemic Stances\|认识立场]]与应对[[Cognitive Offloading\|认知卸载]]的高阶调控机制。
 
 > [!claim] Wu et al.
 > **适应性认识立场的动态调适与双轨支架矩阵** 在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）深度介入的学习环境中，认识论认知不再仅仅是个体内隐的静态特质，而是表现为学习者在人机交互中动态调适三种[[Epistemic Stances\|认识立场]]（绝对主义、相对主义、评价主义）的高级调控能力：
@@ -276,18 +274,18 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 教育阶段 | 初中 | $r$ | — | <span class="mx-bar ef-bar conv" title="r .246 → d ≈ 0.51（d = 2r / √(1 − r²)）"><span class="b10"></span></span>.246 | — | $Q_{between} = 15.111, p < .05$；预设 |
 > |  |  | 混合阶段 |  | — | <span class="mx-bar ef-bar conv" title="r .233 → d ≈ 0.48（d = 2r / √(1 − r²)）"><span class="b10"></span></span>.233 | — | — |
 > |  |  | 大学 |  | — | <span class="mx-bar ef-bar conv" title="r .131 → d ≈ 0.26（d = 2r / √(1 − r²)）"><span class="b5"></span></span>.131 | — | — |
-> |  | 认识论构念 | 知识发展 | $r$ | — | <span class="mx-bar ef-bar conv" title="r .274 → d ≈ 0.57（d = 2r / √(1 − r²)）"><span class="b11"></span></span>.274 | — | $Q_{between} = 57.955, p < .001$；预设 |
+> |  | 认识论[[Construct\|构念]] | 知识发展 | $r$ | — | <span class="mx-bar ef-bar conv" title="r .274 → d ≈ 0.57（d = 2r / √(1 − r²)）"><span class="b11"></span></span>.274 | — | $Q_{between} = 57.955, p < .001$；预设 |
 > |  |  | 一般认识论认知 |  | — | <span class="mx-bar ef-bar conv" title="r .266 → d ≈ 0.55（d = 2r / √(1 − r²)）"><span class="b11"></span></span>.266 | — | — |
 > |  |  | 多种证成 |  | — | <span class="mx-bar ef-bar conv" title="r .225 → d ≈ 0.46（d = 2r / √(1 − r²)）"><span class="b9"></span></span>.225 | — | — |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架 | 指导式探究 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d .808"><span class="b16"></span></span>.808 | — | $Q_{between} = 17.491, p < .01$；预设 |
 > |  |  | 信源评估 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .800"><span class="b16"></span></span>.800 | — | — |
 > |  |  | 支架 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .663"><span class="b13"></span></span>.663 | — | — |
-> |  |  | 建构主义 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .479"><span class="b10"></span></span>.479 | — | — |
+> |  |  | [[Constructivist Paradigm\|建构主义]] |  | — | <span class="mx-bar ef-bar" title="Cohen's d .479"><span class="b10"></span></span>.479 | — | — |
 > |  |  | PBL |  | — | <span class="mx-bar ef-bar" title="Cohen's d .340"><span class="b7"></span></span>.340 | — | — |
 > |  |  | 论证 |  | — | <span class="mx-bar ef-bar" title="Cohen's d .134"><span class="b3"></span></span>.134 | — | — |
 > |  | 干预时长 | 中期 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d .925"><span class="b18"></span></span>.925 | — | $Q_{between} = 8.863, p < .05$；预设 |
@@ -301,15 +299,15 @@ updated: 2026-10-25
 > |  | 认识论认知构念 | 总体认识论认知 | $r$ | — | <span class="mx-bar ef-bar conv" title="r 0.288 → d ≈ 0.60（d = 2r / √(1 − r²)）"><span class="b12"></span></span>0.288 | — | $F(7, 498) = 3.193, p = .002$；预设 |
 > |  |  | 学习速度 |  | — | <span class="mx-bar ef-bar conv" title="r 0.207 → d ≈ 0.42（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.207 | — | — |
 > |  |  | 知识确证 |  | — | <span class="mx-bar ef-bar conv" title="r 0.187 → d ≈ 0.38（d = 2r / √(1 − r²)）"><span class="b8"></span></span>0.187 | — | — |
-> |  |  | 学习能力与知识来源 |  | — | <span class="mx-bar ef-bar conv" title="r 0.174 → d ≈ 0.35（d = 2r / √(1 − r²)）"><span class="b7"></span></span>0.174 | — | — |
+> |  |  | 学习能力与[[Source of Knowledge\|知识来源]] |  | — | <span class="mx-bar ef-bar conv" title="r 0.174 → d ≈ 0.35（d = 2r / √(1 − r²)）"><span class="b7"></span></span>0.174 | — | — |
 > |  |  | 确定性 |  | — | <span class="mx-bar ef-bar conv" title="r 0.122 → d ≈ 0.25（d = 2r / √(1 − r²)）"><span class="b5"></span></span>0.122 | — | — |
 >
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预教学框架** 显性指导与证据评估策略能防范劣构探究中的认知超载
-> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预时长** 短期干预教学浓度高且测验更贴合；长周期干预存在效应衰退与常规教学稀释
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预时长** 短期干预教学浓度高且测验更贴合；长周期干预存在[[Fade-out Effect|效应衰退]]与常规教学稀释
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 教育阶段** 中小学生处于认识论可塑关键期；大学生已有信念相对固化
 > - **[[Argument_Song_Choi_2026_FPSYG|Song and Choi (2026)]] · 学段** 高学段应试升学与课外补习强化了机械记诵，弱化了高级认识论认知的作用
 > - **[[Argument_Song_Choi_2026_FPSYG|Song and Choi (2026)]] · 认识论认知构念** 学习本质（外围）与认识本质（核心）效应明显，[[Ontology\|本体论]]维度的知识本质与学习成果关联较弱
-> - **[[Argument_Song_Choi_2026_FPSYG|Song and Choi (2026)]] · 分析方式** 领域特异性、测量对齐、量表极性、成果类型均不显著（多元元回归 $p = 0.126 / 0.277 / 0.159 / 0.828$）；成果类型不显著反映东亚文化将学习视为自我修养与持续努力，高级认识论认知产生全域性促进
+> - **[[Argument_Song_Choi_2026_FPSYG|Song and Choi (2026)]] · 分析方式** [[Domain Specificity|领域特异性]]、测量对齐、量表极性、成果类型均不显著（多元元回归 $p = 0.126 / 0.277 / 0.159 / 0.828$）；成果类型不显著反映东亚文化将学习视为自我修养与持续努力，高级认识论认知产生全域性促进
 
 > [!ma-table]- 稳健性与偏倚
 > <span class="concept-meta-robustness-table-marker" aria-hidden="true"></span>

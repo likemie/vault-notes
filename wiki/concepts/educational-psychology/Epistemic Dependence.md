@@ -8,7 +8,7 @@ aliases:
 summary: "学习者在知识获取、解释生成与判断辩护等任务中依赖外部系统的认识关系，在人工智能介入下被区分为保有反思质疑的生产性依赖与剥离评价性判断的有害性依赖。"
 type: concept
 domain: "educational-psychology"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -18,6 +18,7 @@ tags:
   - theme/epistemic-agency
   - paradigm/social-epistemology
 related_concepts:
+  - "[[Document]]"
   - "[[Scientific Uncertainty]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Evaluative Judgement]]"
@@ -61,13 +62,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Epistemic Dependence
-> **认识依赖（Epistemic Dependence）** 是指认知主体在开展与知识相关的核心活动（包括获取信息、接收解释、综合多源文献、评估学术质量、选择理论诠释、消解[[Scientific Uncertainty\|认知不确定性]]以及为知识主张提供辩护）时，对外部知识源、社会专家或技术系统所形成的信赖与依托关系。在人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）特别是[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）与大语言模型（Large Language Model, LLM）介入教育的语境下，认识依赖本身并不构成教育上的失败，而应区分为两种根本形态：**生产性认识依赖（Productive Epistemic Reliance）** 能够在人机交互中激发深入对比、显化证据不确定性并拓展学习者的协作审议能力；**有害性认识依赖（Harmful Epistemic Dependence）** 则将不可替代的[[Evaluative Judgement\|评价性判断]]委托给算法黑箱，剥离中间认识动作，导致学习者丧失独立复现推理与批判质疑的能力。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–5)]]
+> **认识依赖（Epistemic Dependence）** 是指认知主体在开展与知识相关的核心活动（包括获取信息、接收解释、综合多源[[Document|文献]]、评估学术质量、选择理论诠释、消解[[Scientific Uncertainty\|认知不确定性]]以及为知识主张提供辩护）时，对外部知识源、社会专家或技术系统所形成的信赖与依托关系。在人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）特别是[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）与大语言模型（Large Language Model, LLM）介入教育的语境下，认识依赖本身并不构成教育上的失败，而应区分为两种根本形态：**生产性认识依赖（Productive Epistemic Reliance）** 能够在人机交互中激发深入对比、显化证据不确定性并拓展学习者的协作审议能力；**有害性认识依赖（Harmful Epistemic Dependence）** 则将不可替代的[[Evaluative Judgement\|评价性判断]]委托给算法黑箱，剥离中间认识动作，导致学习者丧失独立复现推理与批判质疑的能力。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–5)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画学习者与中介技术在[[Knowledge Production\|知识生产]]与确证劳动力分工中的相互作用状态，核心在于界定判断权究竟是被工具延伸还是被算法替代。
@@ -143,30 +144,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　认识依赖并非单纯的行为使用频率而是辅助支持与认知判断之间的结构性关系
-
-> [!concept-lens] 认知劳动分工与判断权转移维度
-> 聚焦人机交互中的权能分配，辨析工具性素材生成与核心学术评价标准确立之间的本质界限。
+> [!concept-proposition] 命题一｜认识依赖并非单纯的行为使用频率而是辅助支持与认知判断之间的结构性关系
+> **探讨维度　认知劳动分工与判断权转移维度** 聚焦人机交互中的权能分配，辨析工具性素材生成与核心学术评价标准确立之间的本质界限。
 
 > [!claim] Du & Yuan
 > **判断型协助对认知控制权的深刻重构** 认识依赖的本质不在于技术使用的绝对频次，而在于技术介入究竟是辅助了人类判断还是取代了人类判断。工具性协助仅仅是心智操作在物理媒介上的延展，学习者依然把持评价标准；而承载判断型的协助直接裁决何为有力论点、何为恰当证据与何为学术质量，一旦这种判断被算法全面接管，学习者便失去了在真实认识挫折中发展专业鉴别力的可能。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 4)]]
 
 ---
 
-### 命题二　四条社会技术路径驱动认识依赖从工具性辅助向评价性判断的全面委派异化
-
-> [!concept-lens] [[Educational Affordances\|技术可供性]]与制度诱因协同机制
-> 解构流畅度错觉、[[Cognitive Offloading\|认知卸载]]、信息压缩与高校制度化采购如何合力诱发不可逆的心智依赖。
+> [!concept-proposition] 命题二｜四条社会技术路径驱动认识依赖从工具性辅助向[[Evaluative Judgement|评价性判断]]的全面委派异化
+> **探讨维度　[[Educational Affordances\|技术可供性]]与制度诱因协同机制** 解构流畅度错觉、[[Cognitive Offloading\|认知卸载]]、信息压缩与高校制度化采购如何合力诱发不可逆的心智依赖。
 
 > [!claim] Du & Yuan
 > **四重异化路径的系统推演** 认识依赖的演变依托四条平行交织的机制路径：第一，**流畅权威与个性化社会存在感**利用语言的连贯性麻痹学习者的批判警觉，促成信任错位并放弃评价准则；第二，**无摩擦委派与认识动作剥离**借助追求结果的考核激励，将检索、比对与起草等中间认知加工压缩殆尽，使学生丧失对不确定性的耐受力；第三，**不透明综合与证据结构隐匿**抹平学科论证规范，以单一语调掩盖学术分歧与原始证据来源；第四，**制度化依赖与分布式权威失调**通过高校默认采购与平台捆绑，强行将责任单向压在学生身上，并隐蔽再生产主流文化与知识霸权。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 5–7)]]
 
 ---
 
-### 命题三　抵御有害认识依赖要求确立关系性认识主体性并建构跨层次的分布式治理与认识正义
-
-> [!concept-lens] 规范导向与制度赋权维度
-> 阐明克服有害依赖并非回归反技术的前现代孤立，而必须在人机相互依赖中重建责任机制与认识平等。
+> [!concept-proposition] 命题三｜抵御有害认识依赖要求确立关系性[[Epistemic Agency|认识主体性]]并建构跨层次的分布式治理与认识正义
+> **探讨维度　规范导向与制度赋权维度** 阐明克服有害依赖并非回归反技术的前现代孤立，而必须在人机相互依赖中重建责任机制与认识平等。
 
 > [!claim] Du & Yuan
 > **关系性[[Epistemic Agency\|认识主体性]]与制度防线的确立** 规范性的终极目标是建构关系性认识主体性，即确保学习者在相互依赖的网络中持续拥有提问、核查、比对、辩护与负责的权能。防范有害依赖不能仅靠个体的道德自律或事后查重惩戒，必须实施多层次协同变革：在技术设计上要求声明来源与不确定性；在教学中重构生产性摩擦并推行[[Lateral Reading\|横向阅读]]与多源[[Triangulation\|三角互证]]；在评价中显化过程推演与无技术迁移能力；在治理中落实涵盖供应商、高校与教师的分布式责任伦理，全面捍卫知识多样性与认识正义。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 7–9)]]

@@ -9,7 +9,7 @@ aliases:
 summary: "由中央或联邦教育行政部门主导，面向特定学段或年龄群体实施的标准化外部学业成就测评体系。作为规制型治理中扩张最快的数据密集型政策工具，它在技术上充当系统监测基础设施，在政治上常与基于测验的问责制绑定，并在政体行政传统调节下经历从抽样到全样、从诊断到高利害惩戒的分层演化。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[School Choice]]"
   - "[[Reliability]]"
+  - "[[Document]]"
   - "[[Creativity]]"
   - "[[Variable]]"
 related_methods:
@@ -63,7 +64,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -118,20 +119,16 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　国家大规模评估凭借低侵入性技术外观具有自主扩张与功能异化的制度惯性
-
-> [!concept-lens] 工具自主性与制度演进惯性
-> 这类命题探讨国家大规模评估如何在技术中立性的合法性包装下逐步扩张其制度版图，并从初期的数据收集工具异化为刚性的问责支柱。
+> [!concept-proposition] 命题一｜国家大规模评估凭借低侵入性技术外观具有自主扩张与功能异化的制度惯性
+> **探讨维度　工具自主性与制度演进惯性** 这类命题探讨国家大规模评估如何在技术中立性的合法性包装下逐步扩张其制度版图，并从初期的数据收集工具异化为刚性的问责支柱。
 
 > [!claim] Verger, A. et al.
 > **低侵入性合法性与单向度累加扩张** 安东尼·维格（Antoni Verger）等指出，国家大规模评估通常以非侵入性、用于纯粹诊断和质量监控的中立技术工具形态引入，这一策略极大地消解了政治争议与教师抵抗。然而，一旦技术设施和组织网络建成，该工具便遵循[[Historical Institutionalism|历史制度主义]]的累加积聚逻辑（[[Institutional Layering|Layering]]），自发从早期的代表性抽样扩展为普查性全员统考，从特定基础学段纵向延伸至学前与高中学段，并横向吸纳增值模型与绩效追踪技术，最终演变为难以撼动的官僚规制中枢。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 255–257)]]
 
 ---
 
-### 命题二　国家大规模评估的治理后果深度受制于政体行政传统的选择性适配与利益调控
-
-> [!concept-lens] 行政体制对评估后果的差异化塑造
-> 这类命题挑战评估工具全球同质化的机械假设，探讨本土行政传统与政治制度对评估工具功能的重塑与过滤机制。
+> [!concept-proposition] 命题二｜国家大规模评估的治理后果深度受制于政体行政传统的选择性适配与利益调控
+> **探讨维度　行政体制对评估后果的差异化塑造** 这类命题挑战评估工具全球同质化的机械假设，探讨本土行政传统与政治制度对评估工具功能的重塑与过滤机制。
 
 > [!claim] Verger, A. et al.
 > **行政传统对评估后果利害性的三维分化** 维格等基于全球多国经验指出，国家大规模评估在落地后承载何种治理后果，严格取决于其所处的政体行政传统：[[New Public Management|新公共管理]]市场化国家（如英美智）将评估结果与家长[[School Choice|择校]]、公开排位和行政惩戒深度挂钩，形成不断强化的硬问责；[[Neo-Weberian State|新韦伯主义国家]]（如北欧诸国）将评估作为抵消地方分权失控、维护公办教育最低质量基准的调控器，因测量[[Reliability|信度]]与专业自治诉求而普遍叫停了全国性官方排位表；[[Napoleonic Administrative Tradition|拿破仑行政传统]]国家（如意、西）则因常任文官教师的高自主性与工会博弈，使国家评估长期徘徊于试点试错与政策摇摆之间。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 252–255)]]
@@ -150,7 +147,7 @@ updated: 2026-10-22
 > - **1980s — 规制型治理萌芽与早期国家统考建立** 英美新右派与[[New Public Management|新公共管理]]改革兴起，英国《[[Education Reform Act 1988|1988年教育改革法]]》确立关键学段国家统考，智利引入 [[SIMCE]] 统考，国家评估开始被用于支撑家长[[School Choice|择校]]与市场竞争。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 249, 252)]]
 > - **2000s — 全员全样普查化与高利害问责捆绑** 美国《不让一个孩子掉队》法案（[[No Child Left Behind Act 2001|NCLB]]）强制 3–8 年级全员统考并挂钩学业年均进步（[[Adequate Yearly Progress|AYP]]）刚性制裁，国家评估从宏观系统监测工具正式转变为高利害问责的物质基础设施。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, p. 256)]]
 > - **2010s — 测评技术精细化与商业测试支持群体成型** 增值评估模型（VAM）、拼读筛查（Phonics Check）等新工具层出不穷，培生等跨国出版与测评集团深入介入国家统考设计与运营，形成强大的制度锁定利益联盟。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 256–260)]]
-> - **2019 — 全球扩散轨迹解构与行政传统分化定型** 维格等通过对 158 篇文献的[[Systematic Review|系统综述]]，确立了国家大规模评估在三种政体传统中的差异化演化规律与分层扩张模型。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 248–270)]]
+> - **2019 — 全球扩散轨迹解构与行政传统分化定型** 维格等通过对 158 篇[[Document|文献]]的[[Systematic Review|系统综述]]，确立了国家大规模评估在三种政体传统中的差异化演化规律与分层扩张模型。[[Argument_Verger_2019_Discourse|(Verger et al., 2019, pp. 248–270)]]
 
 ---
 

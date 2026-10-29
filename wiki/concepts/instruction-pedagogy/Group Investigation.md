@@ -7,10 +7,10 @@ aliases:
 summary: "由 Shlomo Sharan 与 Yael Sharan（1992）基于杜威实用主义与社会建构理论开发的民主探究型合作学习模式。通过全班确定总主题、小组自主分工规划、资料搜集探究、报告综合形成、全班展示与多维评价六步规程，实现高阶思维与深度学科素养的协同发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - "instruction/pedagogy"
   - "theme/cooperative-learning"
@@ -25,6 +25,8 @@ related_concepts:
   - "[[Jigsaw]]"
   - "[[Brainstorming]]"
   - "[[Research Question]]"
+  - "[[Document]]"
+  - "[[Peer Assessment]]"
   - "[[Cooperative Integrated Reading and Composition]]"
   - "[[Academic Achievement]]"
   - "[[Rote Learning]]"
@@ -46,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -78,10 +80,10 @@ updated: 2026-10-25
 > [!feature] 小组[[Survey Research\|调查法]]的六步标准教学规程
 > - **第一阶段：确定主题与分组（Identifying the Topic and Organizing Groups）** 教师提出一个宏观多维的研究领域，全班通过[[Brainstorming\|头脑风暴]]提出子议题；学生根据个人兴趣加入特定子课题小组（2–6 人）。
 > - **第二阶段：规划调查方案（Planning the Investigation）** 组员共同确定[[Research Question\|研究问题]]、信息检索渠道、实验或调查方案，并明确个人责任分工。
-> - **第三阶段：实施调查探究（Carrying Out the Investigation）** 组员分别搜集多源数据与文献资料，在组内汇总、核对、解释、质疑并归纳分析，提炼核心结论。
+> - **第三阶段：实施调查探究（Carrying Out the Investigation）** 组员分别搜集多源数据与[[Document|文献]]资料，在组内汇总、核对、解释、质疑并归纳分析，提炼核心结论。
 > - **第四阶段：准备汇报展示（Planning the Presentation）** 小组提炼核心成果，规划面向全班展示的形式（如研讨会、多媒体演示、模拟辩论或实验演示），确保全员承担展示角色。
 > - **第五阶段：汇报成果展示（Presenting the Project）** 各小组依次向全班汇报成果，其他同学进行倾听、提问与评议。
-> - **第六阶段：多[[Meta-meta-analysis\|元综合]]评价（Evaluating the Investigation）** 结合小组自评、同伴互评与教师评价，综合考核探究深度、合作质量与展示表现。
+> - **第六阶段：多[[Meta-meta-analysis\|元综合]]评价（Evaluating the Investigation）** 结合小组自评、[[Peer Assessment|同伴互评]]与教师评价，综合考核探究深度、合作质量与展示表现。
 
 > [!logic-map]- 小组调查法全流程闭环模型
 > ```mermaid
@@ -100,10 +102,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　开放式探究与深度社会协商是驱动理工科深层概念建构与情感赋能的强效引擎
-
-> [!concept-lens] 科学探究与效能感协同机制
-> 当学生经历真实的科研探究流程并自主掌控调查路径时，其学科动机、效能感与高阶概念理解将产生质的跃迁。
+> [!concept-proposition] 命题一｜开放式探究与深度社会协商是驱动理工科深层概念建构与情感赋能的强效引擎
+> **探讨维度　科学探究与效能感协同机制** 当学生经历真实的科研探究流程并自主掌控调查路径时，其学科动机、效能感与高阶概念理解将产生质的跃迁。
 
 > [!claim] Sharan & Sharan; Tanjung et al.; Güngör et al.
 > **小组[[Survey Research\|调查法]]展现出极高层级的干预效益** [[Meta-meta-analysis\|二阶元分析]]表明，小组调查法在所有合作技术亚组中呈现出仅次于 [[Cooperative Integrated Reading and Composition\|CIRC]] 的极高效益（$ES = 1.08, 95\%\text{ CI} = [0.50, 1.66]$）；在一阶物理课堂实验中，小组调查法对物理[[Academic Achievement\|学业成就]]（$ES = 0.96$）与物理学习情感能力（$ES = 1.26$）均产生巨大促进，证实自主探究对突破传统理科教学[[Rote Learning\|死记硬背]]具有决定性价值。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–9)]]

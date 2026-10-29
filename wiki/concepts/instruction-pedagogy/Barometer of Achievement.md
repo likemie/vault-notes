@@ -9,7 +9,7 @@ aliases:
 summary: "John Hattie 在《可见学习》中用于直观展示效应量区间的半圆形仪表盘图表，直接移植自其此前主导开发的 asTTle 行政全网监控软件，被批判为将工业泰勒制控制逻辑与全景监视物化为教学图腾的伪科学视觉修辞。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 31
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -25,10 +25,13 @@ related_concepts:
   - "[[Tracking]]"
   - "[[Zone of Desired Effects]]"
   - "[[Learning Analytics]]"
+  - "[[Document]]"
   - "[[Neo-Taylorism]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Self-Regulated Learning]]"
+  - "[[Teacher Effects]]"
   - "[[Professional Judgment]]"
+  - "[[Scientism]]"
   - "[[Performativity]]"
   - "[[Learning Intentions]]"
   - "[[Evidence-Based Education]]"
@@ -60,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-16"
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -80,7 +83,7 @@ updated: 2026-10-22
 
 > [!boundary]- 概念边界
 > - 不等于 [[Zone of Desired Effects|期望效应区]]（Zone of Desired Effects） — 期望效应区是数值门槛标准（$d \ge 0.40$），成就气压计是将该数值阈值及各区间可视化的仪表盘媒介载体。
-> - 不等于仪表板数据分析系统（Dashboard Analytics） — 现代[[Learning Analytics|学习分析]]仪表板反映真实的个体学习行为日志，而成就气压计是对跨异质性文献的宏观[[Meta-meta-analysis|二阶元分析]]合成值的静态符号拟态。
+> - 不等于仪表板数据分析系统（Dashboard Analytics） — 现代[[Learning Analytics|学习分析]]仪表板反映真实的个体学习行为日志，而成就气压计是对跨异质性[[Document|文献]]的宏观[[Meta-meta-analysis|二阶元分析]]合成值的静态符号拟态。
 > - 不适用于动态微观课堂互动 — 无法反映师生对话质量、情境生成性问题与人际伦理关怀。
 
 ---
@@ -97,7 +100,7 @@ updated: 2026-10-22
 
 > [!feature] 核心要素
 > - **半圆表盘与指针（Dial and Needle）** 模拟物理压力表或汽车速度表构造，指针指示特定教学策略的汇总[[Effect Size|效应量]]点估计。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
-> - **彩色分区（Color-Coded Zones）** 将表盘自左至右划分为负效应区（红色）、自然发展效应区（黄色）、典型教师效应区（蓝色）和[[Zone of Desired Effects|期望效应区]]（绿色），强化直观的情感评价倾向。
+> - **彩色分区（Color-Coded Zones）** 将表盘自左至右划分为负效应区（红色）、自然发展效应区（黄色）、典型[[Teacher Effects|教师效应]]区（蓝色）和[[Zone of Desired Effects|期望效应区]]（绿色），强化直观的情感评价倾向。
 > - **铰接点中线刻度（Hinge Point, $d = 0.40$）** 在表盘正上方或核心转折处显著标出 $0.40$ 刻度，作为衡量教学优劣的视觉分界。
 > - **行政全网监控基因（[[Assessment Tools for Teaching and Learning|asTTle]] Origin）** 继承自学校行政管理软件中监控 6 个学科测验进展的后台界面，内嵌[[Panopticism|全景敞视]]监视机制。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 
@@ -116,20 +119,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　气压计图表源于行政问责与全景监控软件，将技术官僚的管理控制逻辑物化为教学图腾
-
-> [!concept-lens] [[Neo-Taylorism|新泰勒主义]]管理逻辑与软件视觉迁移
-> 探讨气压计图表如何将最初用于行政层面对教师实施联网监视的技术界面，转化为指导日常课堂教学的规范性符号。
+> [!concept-proposition] 命题一｜气压计图表源于行政问责与全景监控软件，将技术官僚的管理控制逻辑物化为教学图腾
+> **探讨维度　[[Neo-Taylorism|新泰勒主义]]管理逻辑与软件视觉迁移** 探讨气压计图表如何将最初用于行政层面对教师实施联网监视的技术界面，转化为指导日常课堂教学的规范性符号。
 
 > [!claim] Johnson & Janzen
 > **全景监视界面向课堂教学符号的异化迁移** 泰勒（Frederick Taylor）在 1911 年通过工时秒表拆解工人劳动节奏，开启了剥夺基层自主权的工业科学管理。[[John Hattie|哈蒂]]在出版《可见学习》前主持开发了 [[Assessment Tools for Teaching and Learning|asTTle]] 评估软件，其关键卖点在于向管理层提供能够全网实时监视全校 6 个科目教师软件使用情况的后台仪表盘。书中反复出现的气压计图表正是直接搬用自这一行政监控界面。这一视觉迁移将原本用于自上而下考核与问责的技术工具，神圣化为衡量教师专业成效的教学图腾，体现了典型的[[Neo-Taylorism|新泰勒主义]]管理诉求：把丰富的育人实践降格为仪表刻度，削弱教师的[[Professional Judgment|专业判断]]，迫使基层教师听令于外部技术指标。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 
 ---
 
-### 命题二　半圆形仪表盘将丰富的人文育人实践压缩为机械刻度，强化了教育领域的科学主义与表演性危机
-
-> [!concept-lens] 视觉物化修辞与[[Performativity|表演性危机]]
-> 探讨仪表盘式视觉呈现如何配合医学手术隐喻，诱发一线学校追求形式主义指标的职业异化。
+> [!concept-proposition] 命题二｜半圆形仪表盘将丰富的人文育人实践压缩为机械刻度，强化了教育领域的[[Scientism|科学主义]]与[[Performativity|表演性危机]]
+> **探讨维度　视觉物化修辞与[[Performativity|表演性危机]]** 探讨仪表盘式视觉呈现如何配合医学手术隐喻，诱发一线学校追求形式主义指标的职业异化。
 
 > [!claim] Johnson & Janzen
 > **仪表盘物化修辞诱发去专业化与表演性异化** 气压计图表通过模仿精密物理仪器的表盘刻度，赋予[[Meta-meta-analysis|二阶元分析]]未经加权的简单均值以虚假的硬科学权威。这种将教育简化为速度表读数的做法，与保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]将教学比附为外科手术与高山救援的论调高度契合。然而，真实的学校教育是一项植根于特定社区的人际伦理实践，绝非对照仪表打卡。当气压计指标被澳大利亚维多利亚州等地转化为刚性的高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）时，一线教师被要求在上课铃响前于白板抄写[[Learning Intentions|学习意图]]以备巡查，导致严重的[[Performativity|表演性]]危机，教师沦为应试流水线上的装配工，而学生被异化为产出分数的冰冷数据点。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]

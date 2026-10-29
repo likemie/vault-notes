@@ -7,7 +7,7 @@ aliases:
 summary: "断裂平衡理论（PET）的核心分析概念，指特定政策议题在公众和政治精英心目中的符号化表征、价值框架与社会建构；它由实证信息、核心价值与情感修辞共同编织而成，决定了政策被认知为中立的专业自治还是急需政府介入的治理危机，是政策企业家瓦解既有政策垄断的关键话语杠杆。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Industry Affiliate Program]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Document]]"
 related_theories:
   - "[[Punctuated Equilibrium Theory]]"
 related_methods:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -88,20 +89,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　积极政策形象是维系既有政策垄断与抵御外部干预的合法性外壳
-
-> [!concept-lens] [[Punctuated Equilibrium Theory|政策垄断]]的[[Discourse|话语]]防御机制
-> 在常规政治时期，封闭的政策铁三角通过输出象征公共利益或专业理性的正向形象，使外部政治家与公众确信现状运行良好，从而将挑战者排除在决策议程之外。
+> [!concept-proposition] 命题一｜积极政策形象是维系既有[[Punctuated Equilibrium Theory|政策垄断]]与抵御外部干预的合法性外壳
+> **探讨维度　[[Punctuated Equilibrium Theory|政策垄断]]的[[Discourse|话语]]防御机制** 在常规政治时期，封闭的政策铁三角通过输出象征公共利益或专业理性的正向形象，使外部政治家与公众确信现状运行良好，从而将挑战者排除在决策议程之外。
 
 > [!claim] Baumgartner, F. R. & Jones, B. D.
 > **正向形象对制度垄断的[[Screening Off|屏蔽]]效应** 鲍姆加特纳与琼斯论证，任何稳固的政策垄断都依赖两大支柱：排他性的制度场所与积极向上的政策形象。只要有关某一政策领域的公共话语保持正面定性（例如将核电工业界定为清洁无限的现代科技先锋、将美国各州自主确定课程大纲界定为神圣不可侵犯的地方自治与民主基石），外界宏观政治领袖便缺乏动机介入该子系统，从而赋予了官僚与利益共同体长达数十年的排他性管辖权。(Baumgartner & Jones, 1993)
 
 ---
 
-### 命题二　政策形象的负面重塑通过激活宏观政治注意力摧毁政策垄断
-
-> [!concept-lens] 政策形象翻转的注意力级联机制
-> 当[[Policy Entrepreneur|政策企业家]]通过事实证据与价值叙事成功瓦解原有正面形象并重塑为负面危机时，将引发媒体曝光与非专业政治领袖的强势介入，形成制度雪崩。
+> [!concept-proposition] 命题二｜政策形象的负面重塑通过激活宏观政治注意力摧毁政策垄断
+> **探讨维度　政策形象翻转的注意力级联机制** 当[[Policy Entrepreneur|政策企业家]]通过事实证据与价值叙事成功瓦解原有正面形象并重塑为负面危机时，将引发媒体曝光与非专业政治领袖的强势介入，形成制度雪崩。
 
 > [!claim] McDonnell, L. M. & Weatherford, M. S.
 > **实证指标动员对百年分权垄断的颠覆** 麦克唐纳与韦瑟福德指出，美国各州各学区自主制定课程大纲的政策垄断之所以在 2000 年代末被迅速击穿，核心在于政策企业家策略性地摧毁了旧有形象。他们不再抽象争辩联邦干涉与地方自由的哲学优劣，而是密集动员实证指标：以国家教育统计中心的映射数据揭露各州自设合格线制造虚假及格率的丑闻，以 [[TIMSS]] 跨国数据批判课程浅薄涣散。这一全新的负面形象成功将地方自主重构为“各州为应付考核竞相造假，严重危害美国[[Knowledge-Based Economy|知识经济]]国际[[Competitiveness|竞争力]]”的道德与安全危机，迅速唤醒了两党州长的宏观注意力，最终瓦解了各州长达一个世纪的分权垄断。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–11)]]
@@ -141,6 +138,6 @@ updated: 2026-10-22
 > | [[Venue Shopping]] | 概念 | 与场所转换构成打破政策垄断的“一硬一软”双轮驱动策略。 |
 > | [[Policy Entrepreneur]] | 概念 | 政策形象重塑的能动策划者与危机叙事动员主体。 |
 > | [[Common Core State Standards]] | 政策事实 | 政策形象从“地方自主”翻转为“经济危机”从而促成国家改革的标志性案例。 |
-> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录政策企业家动员实证指标重塑各州标准形象以摧毁政策垄断的研究。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证[[Document\|文献]] | 详细记录政策企业家动员实证指标重塑各州标准形象以摧毁政策垄断的研究。 |
 
 ---

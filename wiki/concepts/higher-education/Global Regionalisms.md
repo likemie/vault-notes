@@ -9,7 +9,7 @@ aliases:
 summary: "指高等教育被整合进跨国区域政治经济项目并成为划定地理合作边界、塑造地缘竞争优势与建构区域身份核心支柱的政治建构现象；在分析视阈上经历了从单纯考察超国家组织对教育的单向影响，向审视教育在想象与建构世界区域本身中的主动性转向，并分化出欧洲全域趋同的旗舰模式与东南亚主权防卫的多轨竞逐模式。"
 type: concept
 domain: "higher-education"
-related_count: 40
+related_count: 42
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Avatar]]"
   - "[[Discourse]]"
+  - "[[Interaction Effect]]"
   - "[[Variable]]"
   - "[[State Educational Sovereignty]]"
   - "[[Falsification]]"
@@ -38,7 +39,6 @@ related_concepts:
   - "[[Regulatory Regionalism]]"
   - "[[Competitiveness]]"
   - "[[Politics of Knowledge]]"
-  - "[[Interaction Effect]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Europe of Knowledge]]"
   - "[[Public Value]]"
@@ -57,10 +57,12 @@ related_facts:
   - "[[EU]]"
   - "[[ASEAN]]"
   - "[[European Commission]]"
+  - "[[ASEAN Credit Transfer System]]"
   - "[[European Standards and Guidelines]]"
   - "[[ASEAN University Network]]"
   - "[[Bologna Process]]"
   - "[[SEAMEO RIHED]]"
+  - "[[ASEAN Economic Community]]"
   - "[[Lisbon Strategy]]"
   - "[[Horizon Europe]]"
 related_arguments:
@@ -112,7 +114,7 @@ updated: 2026-10-29
 > [!feature] 高等教育区域主义的核心构成要素
 > - **国家权威的制度化参与与边界划定** 区域主义区别于民间学术交往的核心特征，在于国家权威（主权国家政府、超国家行政机构或多边政府间组织）的直接介入；国家权威通过制定联合宣言、设立秘书处与出台互认框架，界定区域高等教育协调的地理范围与成员资格。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 144)]]
 > - **知识经济的地缘竞争想象** 各区域普遍以全球[[Knowledge-Based Economy|知识经济]]竞争为认知框架想象自身战略地位；高等教育被界定为关乎区域长期创新生产力、高技能劳动力储备与国际竞争优势的核心基础设施。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 41–42)]]
-> - **规制性政策工具箱（Regulatory Toolbox）** 区域治理依托一系列技术化规制工具落地，涵盖统一的学分转换与累加系统（如欧洲 ECTS、东盟 ACTS）、跨国高等教育质量保障指南（如 [[European Standards and Guidelines|ESG]]、[[ASEAN University Network|AUN]]-QA）以及区域资历框架。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147–149)]]; [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 11–12)]]
+> - **规制性政策工具箱（Regulatory Toolbox）** 区域治理依托一系列技术化规制工具落地，涵盖统一的学分转换与累加系统（如欧洲 ECTS、东盟 [[ASEAN Credit Transfer System|ACTS]]）、跨国高等教育质量保障指南（如 [[European Standards and Guidelines|ESG]]、[[ASEAN University Network|AUN]]-QA）以及区域资历框架。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147–149)]]; [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 11–12)]]
 > - **宏观外交规范与多标度治理架构** 区域主义的演进形态深刻受制于区域[[Geopolitics|地缘政治]]文化；欧洲依托超国家机构与自愿协调形成一体化旗舰架构，东南亚则依托不干涉内政与协商一致的“[[ASEAN Way|东盟方式]]”，构建由大学联盟网络与部委政策中心平级并立的多轨治理架构。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 151–154)]]
 
 > [!logic-map]- 高等教育区域主义的生成机制与模式分化
@@ -137,40 +139,32 @@ updated: 2026-10-29
 
 ---
 
-### 命题一　高等教育区域主义从单纯适应外部区域组织转向主动建构世界区域空间本身的认识论演进
-
-> [!concept-lens] 区域建构的[[Epistemology|认识论]]转向
-> 探讨高等教育研究如何突破早期将区域视为既定地理容器的技术局限，确立教育政策在想象、界定与重塑世界区域空间秩序中的能动作用。
+> [!concept-proposition] 命题一｜高等教育区域主义从单纯适应外部区域组织转向主动建构世界区域空间本身的[[Epistemology|认识论]]演进
+> **探讨维度　区域建构的[[Epistemology|认识论]]转向** 探讨高等教育研究如何突破早期将区域视为既定地理容器的技术局限，确立教育政策在想象、界定与重塑世界区域空间秩序中的能动作用。
 
 > [!claim] Robertson et al. / Parreira do Amaral
 > **教育从被动反映空间到主动想象与生产世界区域** [[Susan L. Robertson|苏珊·罗伯逊]]（Susan L. Robertson）团队与[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|帕雷拉·杜阿马拉尔（Marcelo Parreira do Amaral, 2022）]]指出，早期研究多将区域主义视为给定的外在环境，仅考察超国家经济组织对教育政策的单向冲击。全球区域比较证实，教育是国家政府与跨国精英主动想象、划界并生产“世界区域（World Regions）”本身的关键制度载体。通过确立区域[[Student Mobility|学生流动]]项目、共同科研空间与区域质量基准，政策行动者在地理空间中塑造出共享的文[[Avatar|化身]]份与[[Geopolitics|地缘政治]]合法性，使高等教育成为区域政治项目得以具象化存在的核心力量。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 41–42)]]
 
 ---
 
-### 命题二　区域治理传统与知识经济话语的交互作用塑造了旗舰趋同与多轨竞逐的制度类型分化
-
-> [!concept-lens] 宏观传统与政策理念的双重动力机制
-> 探讨宏观区域合作规范与全球[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]如何作为解释[[Variable|变量]]，驱动欧洲与东南亚演进出截然不同的高等教育区域治理模式。
+> [!concept-proposition] 命题二｜区域治理传统与[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]的[[Interaction Effect|交互作用]]塑造了旗舰趋同与多轨竞逐的制度类型分化
+> **探讨维度　宏观传统与政策理念的双重动力机制** 探讨宏观区域合作规范与全球[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]如何作为解释[[Variable|变量]]，驱动欧洲与东南亚演进出截然不同的高等教育区域治理模式。
 
 > [!claim] Chou & Ravinet
 > **旗舰模式与竞逐模式的制度类型分化** 周孟萱（Meng-Hsuan Chou）与波琳·拉维内（Pauline Ravinet）基于[[Discursive Institutionalism|话语制度主义]]框架，通过欧洲与东南亚的跨区域案例比较论证指出，两地高等教育区域合作展现出两类互不相同的制度类型。欧洲依托[[Bologna Process|博洛尼亚进程]]演进出追求全域实质趋同的“旗舰模式（Flagship Model）”：[[European Commission|欧盟委员会]]将知识经济话语转化为将高等教育纳入核心统一市场的合法性支点，借助软法治理（[[Peer Debriefing|同行审议]]、资历框架、质量保障标准）推动 48 个签约国向三周期统一学制实质靠拢。东南亚则立足不干涉内政与协商一致的“[[ASEAN Way|东盟方式]]（[[ASEAN]] Way）”，演进出名校结网与部委协调并立的“竞逐模式（Competitive Model）”：各国政府在后殖民历史防卫[[State Educational Sovereignty|国家教育主权]]，明确拒绝设立超国家监管实体，转而扶持[[ASEAN University Network|东盟大学联盟]]（AUN）负责顶尖大学学术对齐、[[SEAMEO RIHED|东南亚教育部长组织高教中心]]负责政府间多边对话，通过自愿协商与技术兼容达成务实合作，形成多帆友好竞逐格局。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 147–155)]]
 
 ---
 
-### 命题三　基于实地田野的部门跨区域比较实证推翻了博洛尼亚向外单向扩散的理论假说
-
-> [!concept-lens] 欧洲中心主义扩散论的经验[[Falsification|证伪]]
-> 探讨扎根实地田野的政策部门比较如何挑战国际关系与比较政治学中预设的欧洲模式全球单向扩散假说。
+> [!concept-proposition] 命题三｜基于实地田野的部门跨区域比较实证推翻了博洛尼亚向外单向扩散的理论假说
+> **探讨维度　欧洲中心主义扩散论的经验[[Falsification|证伪]]** 探讨扎根实地田野的政策部门比较如何挑战国际关系与比较政治学中预设的欧洲模式全球单向扩散假说。
 
 > [!claim] Chou & Ravinet
-> **博洛尼亚单向扩散假说的实证破产与多元内生动力确立** 周孟萱与拉维内系统检视了主流[[Comparative Regionalism|比较区域主义]][[Document|文献]]中预设的三大扩散机制（政策借鉴、规制竞争与规范模仿），指出这一理论假定非欧洲区域必然通过直接照搬或竞争性反应吸收博洛尼亚模板。然而，基于两地 53 场深度政策访谈与文本分析的实证调查表明，三大扩散机制在东南亚田野中均未能成立。东南亚决策者明确意识到欧洲模式与本土发展阶段的脱节，主动抵制任何全盘照搬博洛尼亚的企图；区域合作的深化完全由 2015 年东盟经济共同体建成的内生期限所驱动。这一实证发现[[Falsification|证伪]]了欧洲中心主义的单向扩散假说，表明比较区域主义必须跳出抽象组织形态比较，以政策部门为基本[[Unit of Analysis|分析单位]]，深入发掘发展中国家区域治理的自主逻辑。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–156)]]
+> **博洛尼亚单向扩散假说的实证破产与多元内生动力确立** 周孟萱与拉维内系统检视了主流[[Comparative Regionalism|比较区域主义]][[Document|文献]]中预设的三大扩散机制（政策借鉴、规制竞争与规范模仿），指出这一理论假定非欧洲区域必然通过直接照搬或竞争性反应吸收博洛尼亚模板。然而，基于两地 53 场深度政策访谈与文本分析的实证调查表明，三大扩散机制在东南亚田野中均未能成立。东南亚决策者明确意识到欧洲模式与本土发展阶段的脱节，主动抵制任何全盘照搬博洛尼亚的企图；区域合作的深化完全由 2015 年[[ASEAN Economic Community|东盟经济共同体]]建成的内生期限所驱动。这一实证发现[[Falsification|证伪]]了欧洲中心主义的单向扩散假说，表明比较区域主义必须跳出抽象组织形态比较，以政策部门为基本[[Unit of Analysis|分析单位]]，深入发掘发展中国家区域治理的自主逻辑。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–156)]]
 
 ---
 
-### 命题四　区域主义规制工具与使命导向科研将高等教育工具化为地缘政治与经济竞争的附属支柱
-
-> [!concept-lens] 规制区域主义与功能工具化异化
-> 探讨超国家实体如何依托技术化规制工具与战略科研计划，将高等教育与学术研究全面改造为地缘经济竞争的政策工具。
+> [!concept-proposition] 命题四｜区域主义规制工具与使命导向科研将高等教育工具化为地缘政治与经济竞争的附属支柱
+> **探讨维度　规制区域主义与功能工具化异化** 探讨超国家实体如何依托技术化规制工具与战略科研计划，将高等教育与学术研究全面改造为地缘经济竞争的政策工具。
 
 > [!claim] Parreira do Amaral / Thompson
 > **规制区域主义深化与学科层级化分工** 帕雷拉·杜阿马拉尔（[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral, 2022]]）与汤普森（Thompson & Parreira do Amaral, 2022）指出，随着全球区域主义演进，超国家机构日益通过规制区域主义（[[Regulatory Regionalism]]）工具网络对大学施加深层调控。在欧洲，[[Lisbon Strategy|里斯本战略]]将高等教育深度锚定为建设全球最具[[Competitiveness|竞争力]]知识经济体的支柱；在“[[Horizon Europe|地平线欧洲]]（[[Horizon Europe]]）”等大型资助框架中，学术研究被严格要求服务于超国家战略设立的特定使命（如气候适应、癌症攻坚与数字主权）。这一规制转向不仅导致社会科学与人文学科沦为技术工程解决方案的辅助性附庸，加剧了学科内部的层级分化，更将原本具有文化传承、民主培育与社会正义使命的高等教育体系，狭隘地简化为服务于地缘政治经济集团抗衡的排他性工具。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 42–43)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "在循证教育改革与量化政策评估中，指依据高斯正态分布假说，将平均效应量与集中趋势作为衡量干预有效性最高标尺的认识论与治理机制；该机制在方法学上将正态分布两端的异质性个体与极端弱势群体视为可忽略的离群值（Outliers），在治理上迎合追求高性价比（Value for Money）的政治多数派修辞，从而在制度层面造成对边缘学童的系统性忽视并剥夺教师的情境化专业判断权。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Statistical Significance]]"
+  - "[[Experimental Research]]"
 related_instruments: []
 related_persons:
   - "[[Dirk Van Damme]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -111,10 +112,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　功利主义可用性与均值导向因果实验在数学本质上以牺牲两极离群弱势群体为代价
-
-> [!concept-lens] 数理逻辑与[[Epistemology\|认识论]]暴力
-> 探讨追求集中趋势的实证实验设计如何在数学结构上内置了对边缘个体的系统性遮蔽。
+> [!concept-proposition] 命题一｜功利主义可用性与均值导向因果实验在数学本质上以牺牲两极离群弱势群体为代价
+> **探讨维度　数理逻辑与[[Epistemology\|认识论]]暴力** 探讨追求集中趋势的实证[[Experimental Research|实验设计]]如何在数学结构上内置了对边缘个体的系统性遮蔽。
 
 > [!claim] Yurita, M.
 > **均值崇拜的伦理代价** 因果实验所追求的[[Statistical Significance\|统计显著性]]，在数学推导上是以牺牲正态分布两端的离群值为代价的。处于[[Academic Achievement\|学业表现]]或生存境遇两极的孩子（如严重学习障碍学童或身处重度社会隔离家庭的边缘群体），在计算平均[[Effect Size\|效应量]]时被当成无关紧要的随机方差予以剔除。以所谓科学有效为导向的宏观政策，实质上是用全体纳税人的公共资源强化对主流正常人群的服务，造成了对两极个体的合法性剥夺。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 225–227)]]
@@ -124,10 +123,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　物有所值财政修辞利用正态化证据迎合主流选民并制造虚假政策共识
-
-> [!concept-lens] 政治经济学与治理修辞批判
-> 剖析[[New Public Management\|新公共管理]]如何借用正态化量化证据在政策博弈中制造迎合选民的虚假治理共识。
+> [!concept-proposition] 命题二｜物有所值财政修辞利用正态化证据迎合主流选民并制造虚假政策共识
+> **探讨维度　政治经济学与治理修辞批判** 剖析[[New Public Management\|新公共管理]]如何借用正态化量化证据在政策博弈中制造迎合选民的虚假治理共识。
 
 > [!claim] Yurita, M.
 > **虚假共识与多数人暴政** 在公共财政追求高性价比（Value for money）的规制下，政策制定者倾向于资助能够快速给出确定性平均效应量的大规模实验。这种研究向公众宣扬某种干预能普遍提升所有学生的成绩，刻意掩盖了同一干预完全可能对部分特殊学童产生严重反效果的残酷事实。可用性修辞实质上制造了一种迎合主流选民的虚假民主共识，扼杀了少数群体的抗辩空间。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–226)]]
@@ -137,10 +134,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题三　将统计正态化结论奉为教条严重削弱了教师基于具体情境因材施教的专业受托伦理
-
-> [!concept-lens] [[Teacher Professional Agency\|教师专业自主权]]与[[Phronesis\|实践智慧]]
-> 探讨机械套用平均效应量处方对教育者临床实践判断所造成的[[Cognitive Deskilling|去技能化]]危害。
+> [!concept-proposition] 命题三｜将统计正态化结论奉为教条严重削弱了教师基于具体情境因材施教的专业受托伦理
+> **探讨维度　[[Teacher Professional Agency\|教师专业自主权]]与[[Phronesis\|实践智慧]]** 探讨机械套用平均效应量处方对教育者临床实践判断所造成的[[Cognitive Deskilling|去技能化]]危害。
 
 > [!claim] Yurita, M.
 > **去技能化与受托伦理危机** 教育从根本上是一项高度道德化、情境化的受托事业，其精髓在于教师敏锐觉察眼前具体儿童的独特困顿并施以个性化支持。当基于正态化产出的[[Effective Teaching\|有效教学]]技术被法制化为强制执行标准时，教师的临床实践智慧（Phronesis）被彻底[[Epoché\|悬置]]，教育者被迫退化为机械比对规程的操作工，最终丧失了对那些无法被标准处方拯救的边缘孩子的道德关照。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–225)]]

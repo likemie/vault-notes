@@ -7,7 +7,7 @@ aliases:
 summary: "教师在真实课堂情境中协同分享、测试、实施与改进教学实践的双向互动过程，由 Fielding 与 Sebba 等提出并成为英格兰国家学校领导力学院的核心范式，旨在彻底超越传统单向线性移植的优秀实践转移模型，构成专业学习共同体与证据知情学校微观落地的核心机制"
 type: concept
 domain: "teacher-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Research-Engaged School]]"
   - "[[Knowledge Mobilisation]]"
+  - "[[Document]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -131,10 +132,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一 实践经验不可脱离脉络单向转移，唯有双向情境化共创方能实现真实转化
-
-> [!concept-lens] 实践转化的[[Epistemology\|认识论]]机理
-> 阐明缄默知识与教学情境复杂性对外部证据吸收的制约。
+> [!concept-proposition] 命题一｜实践经验不可脱离脉络单向转移，唯有双向情境化共创方能实现真实转化
+> **探讨维度　实践转化的[[Epistemology\|认识论]]机理** 阐明缄默知识与教学情境复杂性对外部证据吸收的制约。
 
 > [!claim] 实践的情境锚定性与不可转移律
 > 教学实践高度依附于具体的班级生态与[[Student-Teacher Relationship\|师生关系]]，无法作为标准包裹被单向转授；任何旨在改变[[Business as Usual\|常态教学]]的努力，都必须通过两名及以上教师在具体课堂现场的双向互动与共同创生来实现（Fielding et al., 2005; Sebba et al., 2012）。
@@ -144,10 +143,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二 联合实践发展是专业学习共同体将外部研究证据落地的核心操作中枢
-
-> [!concept-lens] 证据生态从文本到课堂的机制衔接
-> 揭示专业学习共同体（PLC）如何避免沦为空洞清谈的关键机制。
+> [!concept-proposition] 命题二｜联合实践发展是专业学习共同体将外部研究证据落地的核心操作中枢
+> **探讨维度　证据生态从文本到课堂的机制衔接** 揭示专业学习共同体（PLC）如何避免沦为空洞清谈的关键机制。
 
 > [!claim] JPD 作为证据知情教学的微观操作支柱
 > 专业学习共同体（PLC）若缺乏正式的 JPD 机制，极易退化为脱离实际的宏观议论或情感支持团体；唯有依托 JPD 建立协作测试与微调的制度系统，外部科学证据与探究数据才能真正介入常态化教学行为（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 125]]）。
@@ -157,10 +154,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题三 依托课例检验的联合实践发展通过底层假设审思有效规避活动陷阱
-
-> [!concept-lens] 实践反思的组织学习机制
-> 阐释深层协同探究如何阻断形式主义合规与虚假教改。
+> [!concept-proposition] 命题三｜依托课例检验的联合实践发展通过底层假设审思有效规避活动陷阱
+> **探讨维度　实践反思的组织学习机制** 阐释深层协同探究如何阻断形式主义合规与虚假教改。
 
 > [!claim] 审思因果行动理论以阻断活动陷阱
 > 依托 JPD 开展课例探究与同侪观课，迫使教师团队跳出“执行活动清单”的表层思维，持续追问干预背后的“行动理论”（Theories of Action）及其在特定情境下的有效支撑条件，从而阻断教学活动脱离学习结果的“活动陷阱”（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, pp. 123, 125]]；Cartwright, 2013）。
@@ -221,4 +216,4 @@ updated: 2026-10-25
 > | [[Chris Brown]] | Person | 主持 RLC 实证研究，将 JPD 纳入学校循证领导力四因素结构模型的核心学者。 |
 > | [[Toby Greany]] | Person | 本文合作者，深入分析 JPD 在教学学校联盟与自我改进系统中的实践成效与工作量困境。 |
 > | [[Nancy Cartwright]] | Person | 提出干预起效依赖于底层行动理论与情境支持因素，为 JPD 提供了因果哲学依据。 |
-> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]] | Argument | 揭示学校微观研究转化机制、确立 JPD 与课例研究防范活动陷阱的关键文献。 |
+> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]] | Argument | 揭示学校微观研究转化机制、确立 JPD 与课例研究防范活动陷阱的关键[[Document\|文献]]。 |

@@ -27,16 +27,19 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Operationalization]]"
+  - "[[Document]]"
   - "[[Avatar]]"
   - "[[Competitiveness]]"
+  - "[[Grand Challenges]]"
   - "[[Variable]]"
   - "[[Big Science]]"
   - "[[Reproducibility Crisis]]"
-  - "[[Grand Challenges]]"
+  - "[[Geopolitics]]"
   - "[[Diversity, Equity, and Inclusion]]"
   - "[[General Purpose Technology]]"
   - "[[Mission-Oriented Research]]"
   - "[[Curiosity-Driven Research]]"
+  - "[[Cognitive Authority]]"
   - "[[Gold Standard Science]]"
   - "[[Strategic Compliance]]"
 related_theories:
@@ -59,6 +62,7 @@ related_facts:
   - "[[Office of Science and Technology Policy]]"
   - "[[CHIPS and Science Act]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
+  - "[[ASEAN Economic Community]]"
   - "[[Office of Naval Research]]"
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
@@ -78,17 +82,17 @@ sources:
 part_of:
 status: draft
 created: 2026-10-05
-updated: 2026-10-23
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Fan_2026_BCAS"
 argument_key: "Argument_Fan_2026_BCAS"
 argument_display_title: "科学还是无止境的边疆吗——从“科学的社会契约”看美国科学政策的过去与未来"
 argument_kind: "journal-article"
-argument_related_count: 48
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dbeafe"
+argument_related_count: 52
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "中国科学院院刊"
 ---
 ---
@@ -128,7 +132,7 @@ journal: "中国科学院院刊"
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **政策与战略文献** | 涵盖 1940 年代 [[Office of Scientific Research and Development\|OSRD]] 档案、1945 年[[Science, The Endless Frontier 1945\|布什报告]]、1957 年人造卫星危机后白宫政策、1976 年 [[Office of Science and Technology Policy\|OSTP]] 设立法案、2022 年《[[CHIPS and Science Act\|芯片与科学法案]]》、2025 年《[[Restoring Gold Standard Science Executive Order\|恢复黄金标准的科学]]》行政令等关键国家级文献。 |
+> | **政策与战略[[Document\|文献]]** | 涵盖 1940 年代 [[Office of Scientific Research and Development\|OSRD]] 档案、1945 年[[Science, The Endless Frontier 1945\|布什报告]]、1957 年人造卫星危机后白宫政策、1976 年 [[Office of Science and Technology Policy\|OSTP]] 设立法案、2022 年《[[CHIPS and Science Act\|芯片与科学法案]]》、2025 年《[[Restoring Gold Standard Science Executive Order\|恢复黄金标准的科学]]》行政令等关键国家级文献。 |
 > | **财政与预算数据** | 梳理 1957—1967 年科技政策黄金十年、1990 年代财政赤字缩减、2025 年联邦研发预算削减与扣留拨款（impoundment）等核心研发支出演变脉络。 |
 > | **理论与学术争鸣** | 纳入布什、斯托克斯、希拉·斯劳特（[[Sheila Slaughter]]）、大卫·古斯顿（[[David Guston]]）、迈克尔·克拉齐奥斯（[[Michael Kratsios]]）等核心学者与政策制定者的经典文本与言论。 |
 
@@ -146,10 +150,10 @@ journal: "中国科学院院刊"
 
 ---
 
-> [!claim] 论证步骤一　战时科研动员确立了政府资助与学术自治的互惠模式，布什报告奠定战后契约原型
+> [!claim|step] 论证步骤一　战时科研动员确立了政府资助与学术自治的互惠模式，布什报告奠定战后契约原型
 > 二战危机倒逼美国政府放弃自建集权科研官僚体系，开创了通过研发合同将任务委托大学并赋予科学家高度自治的互惠合作机制；《科学——无止境的边疆》将战时实践升华为和平时期的制度原则，确立了二战后[[Social Contract of Science|科学社会契约]]的原型。
 
-#### 1. 二战生存危机促发 OSRD 研发合同制与科学家治理自主权
+> [!sub-claim] 1. 二战生存危机促发 OSRD 研发合同制与科学家治理自主权
 
 二战爆发前美国联邦科研规模微弱且局限于实用领域，生死存亡的战争压力迫使决策中枢探索新型科技动员模式。
 
@@ -158,7 +162,7 @@ journal: "中国科学院院刊"
 > - **动员逻辑** 政府不自建庞大科研队伍，而是通过研发合同将雷达、近炸引信、原子弹早期攻关及青霉素工业化生产等战略任务委托给民间大学。
 > - **自治赋权** 赋予科学家在技术路线、研究方法与团队组织上的完全自主权，开创了国家提供资源、科学家自主攻坚的合作先例。
 
-#### 2. 布什报告将战时实践升华为和平时期的三项制度基石
+> [!sub-claim] 2. 布什报告将战时实践升华为和平时期的三项制度基石
 
 战时实践证明自主科研能大幅提升国家解决战略难题的效能，布什以此为由推动和平时期科研资助制度化。
 
@@ -172,15 +176,15 @@ journal: "中国科学院院刊"
 > [!policy-design] 战后分布式多元资助网络的制度落地
 > - **政策目标** 建立长期稳定支持大学基础研究的制度化管道，维系国家前沿科技储备。
 > - **适用对象** 全美[[Research Universities|研究型大学]]、医学院、独立科研机构及青年科学人才。
-> - **政策工具** 依托原子能委员会（AEC）、[[Office of Naval Research|海军研究办公室]]（ONR）、国家卫生研究院（[[National Institutes of Health|NIH]]）及 1950 年设立的国家科学基金会（[[National Science Foundation|NSF]]）提供分布式经费。
+> - **政策工具** 依托原子能委员会（[[ASEAN Economic Community|AEC]]）、[[Office of Naval Research|海军研究办公室]]（ONR）、国家卫生研究院（[[National Institutes of Health|NIH]]）及 1950 年设立的国家科学基金会（[[National Science Foundation|NSF]]）提供分布式经费。
 > - **约束机制** 建立同行评议立项机制，确保政府资助、学者自治与长远公共回报的互惠契约逻辑落地生根。
 
 ---
 
-> [!claim] 论证步骤二　美苏冷战将国家安全确立为最高合法性，换取了科学界的高自治与经费黄金期（1945—1989）
+> [!claim|step] 论证步骤二　美苏冷战将国家安全确立为最高合法性，换取了科学界的高自治与经费黄金期（1945—1989）
 > 美苏冷战将国家安全确立为资助科学的统摄性正当性来源，在长达四十年的时间里庇护了基础研究的长周期探索，并为科学界换取了历史上极其罕见的“高自治—高嵌入”治理结构与经费黄金期。
 
-#### 1. 人造卫星危机促使冷战竞争向国家科技体系升级
+> [!sub-claim] 1. 人造卫星危机促使冷战竞争向国家科技体系升级
 
 1957 年苏联人造卫星发射震惊美国决策层，将美苏对抗从军事防卫推向科技储备与创新能力的体系竞争。
 
@@ -189,7 +193,7 @@ journal: "中国科学院院刊"
 > - **战略共识** 美国决策层深刻认识到，冷战胜负取决于依托科研创新、教育体系和顶尖科技储备的综合国力竞争。
 > - **政治行动** [[Dwight D. Eisenhower|艾森豪威尔]]总统直接在白宫设立全职总统科学顾问，组建[[President's Science Advisory Committee|总统科学顾问委员会]]（PSAC），全面开启国家竞争技术化纪元。
 
-#### 2. 国家安全统摄下维系高自治与高资助的五大制度支柱
+> [!sub-claim] 2. 国家安全统摄下维系高自治与高资助的五大制度支柱
 
 在国家安全目标的统领下，科学界与联邦政府之间形成了极其默契的互惠权利义务关系。
 
@@ -210,10 +214,10 @@ journal: "中国科学院院刊"
 
 ---
 
-> [!claim] 论证步骤三　冷战终结与赤字攀升削弱了安全正当性，迫使科学界转向巴斯德象限以自证经济与社会价值（1990—2009）
+> [!claim|step] 论证步骤三　冷战终结与赤字攀升削弱了安全正当性，迫使科学界转向巴斯德象限以自证经济与社会价值（1990—2009）
 > 苏联解体打破了国家安全对科研资助的天然背书，面对财政赤字与问责压力，科学界通过确立[[Pasteur's Quadrant|巴斯德象限]]与应用启发基础研究概念，自证对经济[[Competitiveness|竞争力]]与社会繁荣的贡献，推动契约进入以自证价值为前提的再协商期。
 
-#### 1. 安全红利消退与财政赤字引发的“重新签约”辩论
+> [!sub-claim] 1. 安全红利消退与财政赤字引发的“重新签约”辩论
 
 后冷战时期联邦预算压力激增，国会与公众不再无条件接受“只要给钱就能产生回报”的假设。
 
@@ -221,7 +225,7 @@ journal: "中国科学院院刊"
 > - **立论一：削减科研预算与强化问责（国会与公众视角）** 冷战终结后国家安全紧迫感减弱，面对巨额联邦财政赤字，纳税人经费必须用于能立竿见影提振经济与就业的实用领域，科学界必须接受外部经济问责。
 > - **立论二：捍卫自由探索与长远储备（科学共同体视角）** 基础科学具有不可预测性，过早追求实用化将扼杀真正的颠覆性创新，国家仍应保持对大学基础探索的机构性兜底。
 
-#### 2. 巴斯德象限与跨部门协同：四项制度重构举措
+> [!sub-claim] 2. 巴斯德象限与跨部门协同：四项制度重构举措
 
 面对合法性危机，决策层与学术界共同寻求制度妥协，重构了基础研究的认知[[Paradigm|范式]]与政策工具。
 
@@ -236,10 +240,10 @@ journal: "中国科学院院刊"
 
 ---
 
-> [!claim] 论证步骤四　刚性问责、重大挑战与科研安全审查，终结了基础科学无需自证的免检地位（2010—2024）
+> [!claim|step] 论证步骤四　刚性问责、[[Grand Challenges|重大挑战]]与科研安全审查，终结了基础科学无需自证的免检地位（2010—2024）
 > 绩效问责刚性化、重大社会挑战导向以及[[Research Security|科研安全]]合规审查，全面瓦解了基础科学无条件获得资助的制度共识；国家在关键技术攻关上越来越多地绕开传统大学，使传统契约深陷合法性与自治双重危机。
 
-#### 1. 刚性绩效问责与国家重大挑战剥夺科学的免检资助地位
+> [!sub-claim] 1. 刚性绩效问责与国家重大挑战剥夺科学的免检资助地位
 
 2010 年前后三项标志性制度变革同时发力，使科学从为什么值得资助、如何接受评价到解决什么问题均失去自明性。
 
@@ -250,7 +254,7 @@ journal: "中国科学院院刊"
 
 伴随[[Big Science|大科学]]巨额研发成本膨胀与学术界“[[Reproducibility Crisis|可重复性危机]]”发酵，公众对科学的无条件信任显著消退。
 
-#### 2. 地缘政治安全化与国家战略技术获取路径向学术体系外转移
+> [!sub-claim] 2. [[Geopolitics|地缘政治]]安全化与国家战略技术获取路径向学术体系外转移
 
 在长达十余年的政治极化与大国竞争加剧过程中，科学社会契约经历了由局部张力向全面危机的系统性滑移。
 
@@ -264,10 +268,10 @@ journal: "中国科学院院刊"
 
 ---
 
-> [!claim] 论证步骤五　2025 年政策转向标志着美国退出传统契约，全面转向以技术能力获取为核心的替代形态
+> [!claim|step] 论证步骤五　2025 年政策转向标志着美国退出传统契约，全面转向以技术能力获取为核心的替代形态
 > 2025 年起美国科技治理逻辑展现出结构性断裂，政策实践由应对内部张力转向主动退出二战后传统契约；依托总统定向指令、战略技术聚焦与行政程序审计，全面确立了以技术能力获取为核心的替代性“[[Technology-Oriented Social Contract|技术型社会契约]]”。
 
-#### 1. 2025 年科技治理再集中、再动员与四项关键规约杠杆
+> [!sub-claim] 1. 2025 年科技治理再集中、再动员与四项关键规约杠杆
 
 2025 年特朗普开启第二任期后，白宫科技政策办公室在[[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Michael Kratsios]]）主持下转向激进的再集中与再动员模式，其目标是确立排他性全球技术霸权。
 
@@ -285,7 +289,7 @@ journal: "中国科学院院刊"
 > - **惩罚性预算调整与行政扣留** 动用扣留拨款（impoundment）裁量权，全面冻结或削减气候变化、公共卫生、成瘾医学及 [[Diversity, Equity, and Inclusion|DEI]] 领域的科研经费。
 > - **受限与政治化自治** 颁布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准的科学]]》行政令，以数据透明和方法复现为名强化行政审计，学术自治滑向受限自治。
 
-#### 2. 技术型社会契约成型与两种治理模式的本质对立
+> [!sub-claim] 2. 技术型社会契约成型与两种治理模式的本质对立
 
 这一系列变革标志着[[Technology-Oriented Social Contract|技术型社会契约]]的成型，展现出与二战后传统契约截然相反的运行逻辑。
 
@@ -305,10 +309,10 @@ journal: "中国科学院院刊"
 
 ---
 
-> [!claim] 论证步骤六　科学无止境边疆从免检制度前提退化为待证命题，全球科研生态走向三轨分化
+> [!claim|step] 论证步骤六　科学无止境边疆从免检制度前提退化为待证命题，全球科研生态走向三轨分化
 > 布什报告所确立的“科学无止境边疆”由一项免受干预的免检制度前提，退化为一个必须不断自证合规与效用的待正当化命题；未来全球科研生态将沿三轨分化，中国科技治理应保持对自由探索的长期战略定力，探索多元协同创新模式。
 
-#### 1. 制度基石动摇导致未来科研组织模式走向三轨分化
+> [!sub-claim] 1. 制度基石动摇导致未来科研组织模式走向三轨分化
 
 无止境边疆三大制度基石（对长期价值的默认信任、对失败的高容忍度、免受政治干涉的自治保障）的消解，推动科研组织形式走向结构性重组。
 
@@ -317,7 +321,7 @@ journal: "中国科学院院刊"
 > - **应用启发型研究（Use-Inspired Research）** 依托巴斯德象限范式，在公私合作研发网络中持续扮演连接机理理解与工程应用的实用枢纽。
 > - **[[Curiosity-Driven Research|自由探索型研究]]（Curiosity-Driven Research）** 在联邦稳定资助撤离与制度保护削弱的挤压下，逐步退缩为小众化、分散化乃至依赖私人慈善资本的边缘形态。
 
-#### 2. 全球科技治理重塑与中国基础研究的战略协同定力
+> [!sub-claim] 2. 全球科技治理重塑与中国基础研究的战略协同定力
 
 面对全球科技治理碎片化与阵营化风险，单纯模仿西方短期功利性做法将严重动摇原始创新根基。
 
@@ -337,7 +341,7 @@ journal: "中国科学院院刊"
 > [!contrast-table] 二战后美国[[Social Contract of Science|科学社会契约]]演化的四阶段五维比较表
 > | 分析维度 | 契约稳定期（1945—1989） | 再协商与再定义期（1990—2009） | 危机与重构期（2010—2024） | 2025 年起技术型替代期 |
 > |:---|:---|:---|:---|:---|
-> | **合法性基础** | 国家安全独大；科学象征民主、自由与现代化，科学家代表国家理性 | 经济[[Competitiveness\|竞争力]]、社会相关性与公共问责；科学须自证应用转化潜力 | 宏大社会挑战导向；政党极化冲击信任，[[Research Security\|科研安全]]全面上升为国家议题 | 关键新兴技术领先、再工业化与安全供应链；行政可验证性取代认知权威 |
+> | **合法性基础** | 国家安全独大；科学象征民主、自由与现代化，科学家代表国家理性 | 经济[[Competitiveness\|竞争力]]、社会相关性与公共问责；科学须自证应用转化潜力 | 宏大社会挑战导向；政党极化冲击信任，[[Research Security\|科研安全]]全面上升为国家议题 | 关键新兴技术领先、再工业化与安全供应链；行政可验证性取代[[Cognitive Authority\|认知权威]] |
 > | **制度与资源支持** | 建立多元分布式资助体系；研发经费黄金十年，基础研究获信任型托底 | 转向竞争性项目制与跨部门公私协同；设立 [[National Science and Technology Council\|NSTC]]、ATP 与纳米倡议 | 经费总额虽未大减但预期高度不稳定；资金向战略技术与产业法案倾斜 | 总统统筹与公私伙伴；向国家实验室与企业集中，动用资金扣留惩罚非优先领域 |
 > | **自治空间** | 高自治与高嵌入；[[President's Science Advisory Committee\|PSAC]] 参与最高决策，同行评议保障立项充分自主 | 自治附带透明度与合规前提；科学家维持学术评价主导权但需自证价值 | 国际合作、学者流动全面纳入安全合规审查；自治受政治与安全双重挤压 | 颁布《[[Restoring Gold Standard Science Executive Order\|恢复黄金标准的科学]]》行政令；行政深度介入议题选择，自治极度收缩 |
 > | **功能期待** | 储备应对未来不确定性的战略技术潜能；无短期即时回报压力 | 推动经济繁荣、创造就业与解决环境健康问题；确立[[Pasteur's Quadrant\|巴斯德象限]][[Paradigm\|范式]] | 承担解决国家重大战略挑战与社会公平责任；多重功能负载剧增 | 产出快速、可量化、可审计的实用技术成果；探索未知功能被系统性弱化 |

@@ -11,7 +11,7 @@ aliases:
 summary: "基于逻辑规则与领域证据，对多重线索与信息进行批判性审视、筛选、演绎推导并收敛至唯一最优解的确定性认知加工过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
+  - "[[Variable]]"
   - "[[Generative Artificial Intelligence]]"
 related_theories:
   - "[[Creative Problem Solving]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 （聚合思维 / 收敛性认知加工）
@@ -139,30 +140,24 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　聚合思维与发散思维的协同互补构成高阶思维与创造力的完整闭环
-
-> [!concept-lens] 双重思维过程与[[Creativity\|创造力]]生成循环
-> 复杂问题求解与创造力生成并非仅由[[Divergent Thinking\|发散思维]]单向驱动，必须经历发散生成与聚合收敛的交替循环。
+> [!concept-proposition] 命题一｜聚合思维与[[Divergent Thinking|发散思维]]的协同互补构成[[Higher-Order Thinking Skills|高阶思维]]与[[Creativity|创造力]]的完整闭环
+> **探讨维度　双重思维过程与[[Creativity\|创造力]]生成循环** 复杂问题求解与创造力生成并非仅由[[Divergent Thinking\|发散思维]]单向驱动，必须经历发散生成与聚合收敛的交替循环。
 
 > [!claim] Ezzeldin (2017); [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]]; [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]
 > **双元思维闭环机制** 发散思维负责在问题初期打破认知定势、广泛搜索远距离语义联结并生成大量候选假设；聚合思维则在后续阶段提供严密的逻辑约束，负责对候选构想进行可行性检验、因果论证与精准优化。缺乏聚合思维的创造力容易沦为空洞的幻想，而缺乏发散思维的推理则容易陷入机械套用，二者协同构成了完整的[[Higher-Order Thinking Skills\|高阶思维]]闭环。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]; [[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
 
 ---
 
-### 命题二　外在认知脚手架对聚合思维的促学效应受形式逻辑约束呈现中等稳健幅度
-
-> [!concept-lens] 结构化[[Scaffolding\|脚手架]]与收敛推理边界
-> 空间可视化工具对聚合思维具有稳健的促进效应，但因其受严格形式逻辑规则的内在约束，其促进幅度显著低于无拘束的发散思维。
+> [!concept-proposition] 命题二｜外在[[Scaffolding|认知脚手架]]对聚合思维的促学效应受形式逻辑约束呈现中等稳健幅度
+> **探讨维度　结构化[[Scaffolding\|脚手架]]与收敛推理边界** 空间可视化工具对聚合思维具有稳健的促进效应，但因其受严格形式逻辑规则的内在约束，其促进幅度显著低于无拘束的发散思维。
 
 > [!claim] [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]]
 > **聚合思维的干预效应边界** 在大样本[[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]中，[[Graphic Organizer\|图形组织器]]对聚合思维具有高度稳健的显著促进效应（$g = 0.680$），但显著低于对发散思维的促进幅度（$g = 1.167, Q_b = 7.07, p < .01$）。这是因为聚合思维测验通常采用标准答案明确的封闭式多选题或严格演绎任务，空间图示虽能帮助梳理推论步骤，但最终答案仍受制于形式逻辑与确定性规则的严格束缚；相比之下，空间分支结构能最大化激活语义联想网络，对自由发散思维的释放效应更为剧烈。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 9–11)]]
 
 ---
 
-### 命题三　生成式 AI 对聚合思维的赋能依赖于强制性反思规程与认识论摩擦
-
-> [!concept-lens] [[Cognitive Offloading\|认知卸载]]与[[Epistemic Friction\|认识论摩擦]]的教学平衡
-> 大模型的高流畅度极易诱发心智怠惰，唯有外部强制反思规程才能将 AI 转化为聚合思维的催化剂。
+> [!concept-proposition] 命题三｜生成式 AI 对聚合思维的赋能依赖于强制性反思规程与[[Epistemic Friction|认识论摩擦]]
+> **探讨维度　[[Cognitive Offloading\|认知卸载]]与[[Epistemic Friction\|认识论摩擦]]的教学平衡** 大模型的高流畅度极易诱发心智怠惰，唯有外部强制反思规程才能将 AI 转化为聚合思维的催化剂。
 
 > [!claim] Strobl et al. (2024); Fan et al. (2025); [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
 > **AI 介入聚合思维的条件敏感性** 在 67 项高等教育实证综述中，ChatGPT 对聚合性批判思维的影响高度依赖教学脚手架：在设计了“双轨对比与反思批注”（Strobl et al., 2024）或“辩难对手对抗”（Sykes, 2024）的结构化课堂中，AI 带来了良性的[[Epistemic Friction\|认识论摩擦]]，显著激活了学生的[[Metacognition\|元认知监控]]（$n=27$）与论证逻辑深化（$n=22$）；但在自由使用环境中，学生倾向于全盘外包核心推理劳动，导致 21 项研究报告了严重的思维怠惰与论证碎片化（Fan et al., 2025; Wang et al., 2024），证实了聚合思维在人机交互中的脆弱性。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 6–7, 10–11)]]
@@ -215,7 +210,7 @@ updated: 2026-10-26
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 结果变量（思维类型） | 发散思维（Divergent Thinking） | Hedges' $g$ | k = 14 | <span class="mx-bar ef-bar" title="Hedges' g 1.167"><span class="b23"></span></span>1.167 | [0.841, 1.493] | $Q_b = 7.07, p < .01$；两组差异极显著 |
 > |  | 结果变量（思维类型） | 聚合思维（Convergent Thinking） | Hedges' $g$ | k = 55 | <span class="mx-bar ef-bar" title="Hedges' g 0.680"><span class="b14"></span></span>0.680 | [0.535, 0.825] | 组间差异显著 |

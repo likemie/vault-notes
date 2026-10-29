@@ -21,8 +21,8 @@ tags:
 related_concepts:
   - "[[Long Peace]]"
   - "[[AI Deterrence]]"
-  - "[[Hard Power]]"
   - "[[Paradigm]]"
+  - "[[Hard Power]]"
   - "[[Bonsai Army]]"
 related_theories: []
 related_methods: []
@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -96,10 +96,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　工业化总体战逻辑消除平民与战斗员界限，推升战争破坏力至物理极限
-
-> [!concept-lens] 打击目标全域化与工业化杀伤
-> 该命题揭示总体战如何将战争从军队前线对决异化为国家整体产能与人口存量的灭绝性对抗。
+> [!concept-proposition] 命题一｜工业化总体战逻辑消除平民与战斗员界限，推升战争破坏力至物理极限
+> **探讨维度　打击目标全域化与工业化杀伤** 该命题揭示总体战如何将战争从军队前线对决异化为国家整体产能与人口存量的灭绝性对抗。
 
 > [!claim] [[Erich Ludendorff|Ludendorff, E.]]
 > **平民与工业基础设施的合法打击化** 鲁登道夫在其 1935 年论著《总体战》中系统确立了现代工业战争的极限制胜法则，指出当战争变成国民整体生命力与生产潜能的对抗时，全体人民本身理所当然地成为军事行动的直接承受者与打击目标，从而在法理与战略层面彻底废弃了传统骑士战争对非战斗人员的保护原则。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Ludendorff, 1935; cited in Karp & Zamiska, 2025, p. 39)]]
@@ -109,10 +107,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　总体战的终极毁灭风险倒逼大国建立战略均势，反向奠定了大国长和平
-
-> [!concept-lens] 恐怖平衡与[[Long Peace|长和平]]机制
-> 该命题探讨总体战杀伤力演进至核武器阶段后，如何反向催生出大国不敢轻易发动全面战争的威慑机制。
+> [!concept-proposition] 命题二｜总体战的终极毁灭风险倒逼大国建立战略均势，反向奠定了大国[[Long Peace|长和平]]
+> **探讨维度　恐怖平衡与[[Long Peace|长和平]]机制** 该命题探讨总体战杀伤力演进至核武器阶段后，如何反向催生出大国不敢轻易发动全面战争的威慑机制。
 
 > [!claim] Nobel, A.
 > **终极恐怖作为最可靠的和平守护者** 诺贝尔在见证硝化甘油炸药在普法战争中被迅速改装为残酷武器后指出，唯一能够阻止国家发动战争的不是道德自律，而是不可承受的恐怖毁灭；更强大的武器而非更弱的武器才是和平最可靠的守护者。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Nobel, 1891; cited in Karp & Zamiska, 2025, p. 38)]]
@@ -122,10 +118,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题三　软件世纪与算法精度对传统总体战动能消耗范式的颠覆
-
-> [!concept-lens] 软硬件关系逆转与现代精准威慑
-> 该命题分析 21 世纪软件与人工智能如何改变总体战的传统形态。
+> [!concept-proposition] 命题三｜软件世纪与算法精度对传统总体战动能消耗[[Paradigm|范式]]的颠覆
+> **探讨维度　软硬件关系逆转与现代精准威慑** 该命题分析 21 世纪软件与人工智能如何改变总体战的传统形态。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]] & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **算法主导决策终结粗放动能总体战** 卡普与扎米斯卡指出，21 世纪软件与人工智能跃居指挥决策中枢，使军事威慑从依赖 20 世纪耗资巨大、无差别破坏的重型动能平台与工业消耗战，转向基于高度敏捷、低成本分布式算法蜂群的精准战术压制；遵循法治与人道伦理的现代民主国家，唯有在算法与软件[[Hard Power|硬实力]]上建立压倒性代差优势，方能在不滑入无底线总体战泥潭的前提下慑止潜在威权侵略。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–47)]]

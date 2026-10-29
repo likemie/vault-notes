@@ -29,6 +29,7 @@ related_concepts:
   - "[[Grand Challenges]]"
   - "[[Wicked Problem]]"
   - "[[Public Value]]"
+  - "[[Document]]"
   - "[[Open-Mindedness]]"
   - "[[Network Governance]]"
   - "[[Reflexivity]]"
@@ -73,14 +74,14 @@ sources:
 part_of:
 status: draft
 created: 2026-10-03
-updated: 2026-10-23
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Mazzucato_2018_ICC"
 argument_key: "Argument_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policies: challenges and opportunities"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -124,7 +125,7 @@ argument_related_color: "#dbeafe"
 > | 样本层面 | 构成 |
 > |---|---|
 > | **政策与机构样本** | [[DARPA\|美国国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）、[[National Institutes of Health\|美国国立卫生研究院]]（National Institutes of Health, NIH）、美国国家航空航天局（National Aeronautics and Space Administration, NASA）、[[Department of Energy\|美国能源部]]（Department of Energy, DOE）；德国能源转型规划（Energiewende）、德国联邦环境部、[[KfW\|德国复兴信贷银行]]（Kreditanstalt für Wiederaufbau, KfW）；巴西国家经济社会发展银行（Brazilian Development Bank, BNDES）及技术基金（Technological Fund, FUNTEC）；欧洲投资银行（European Investment Bank, EIB）；[[Horizon Europe Missions\|欧盟地平线欧洲战略规划文件]]。 |
-> | **文献与实证材料** | 涵盖产业政策、演化创新经济学、金融资本、研发风险投资、药品专利垄断与英国广播公司（British Broadcasting Corporation, BBC）等多领域的经典与前沿实证研究文献。 |
+> | **[[Document\|文献]]与实证材料** | 涵盖产业政策、演化创新经济学、金融资本、研发风险投资、药品专利垄断与英国广播公司（British Broadcasting Corporation, BBC）等多领域的经典与前沿实证研究文献。 |
 > | **材料情境** | 跨越发达经济体与新兴经济体在颠覆性技术突破、清洁能源、重磅生物医药及生态环保领域的真实政策试验与制度演进。 |
 
 ---
@@ -148,10 +149,10 @@ argument_related_color: "#dbeafe"
 
 ---
 
-> [!claim] 论证步骤一　新一代使命导向政策必须从冷战科技壮举转向应对复杂的重大社会难题
+> [!claim|step] 论证步骤一　新一代使命导向政策必须从冷战科技壮举转向应对复杂的重大社会难题
 > 传统使命导向政策聚焦于在封闭系统内攻克既定、高度清晰的国防与航天工程技术指标；而新一代使命导向政策必须直面具有高度系统复杂性、[[Open-Mindedness|开放性]]与价值争议性的[[Wicked Problem|复杂社会难题]]，其核心任务在于驱动技术创新、制度安排与大众行为模式的协同变革。
 
-#### 1. 现代使命政策的成败取决于技术在全社会的广泛扩散与制度协同而非封闭工程攻关
+> [!sub-claim] 1. 现代使命政策的成败取决于技术在全社会的广泛扩散与制度协同而非封闭工程攻关
 
 > [!tension] 经典科技工程攻关 vs 现代社会挑战型使命的治理转向
 > - **经典工程使命（冷战时期）** 由少数技术官僚和顶尖科学家封闭主导，追求既定狭窄的国防航天技术指标，极少考虑成果向民用体系的经济扩散。
@@ -170,7 +171,7 @@ argument_related_color: "#dbeafe"
 > [!case] [[Richard Nelson|理查德·纳尔逊]]“登月与贫民窟”之问与社会难题的系统复杂性
 > 理查德·纳尔逊（Richard R. Nelson）在其经典著作《登月与贫民窟》（*The Moon and the Ghetto*）中提出了深刻质问：为何人类能够成功登上月球，却无法解决城市贫民窟中的贫困与不平等？这一质问揭示出当代重大社会难题不同于纯工程攻关——贫困无法脱离营养、医疗、基础设施、教育与税收再分配的系统互联而孤立解决；当代社会使命是典型的[[Wicked Problem|棘手问题]]，具有高度的系统交织性与价值争议性，需要技术创新、刚性规制重塑与公众行为习惯变革的深度协同。
 
-#### 2. 组合式管理与跨部门协同是防范使命泛化与利益俘获的核心制度准则
+> [!sub-claim] 2. 组合式管理与跨部门协同是防范使命泛化与利益俘获的核心制度准则
 
 > [!feature] 现代使命导向政策的四大治理准则
 > - **精准界定的战略挑战** 任务目标必须足够具体清晰，以便设立明确的中期里程碑、可交付成果与动态问责机制，防止因治理目标过于宽泛而沦为行政空话或被既得利益集团俘获。
@@ -180,10 +181,10 @@ argument_related_color: "#dbeafe"
 
 ---
 
-> [!claim] 论证步骤二　公共部门必须通过市场塑造引领创新方向并以挑选意愿者规避传统寻租弊端
+> [!claim|step] 论证步骤二　公共部门必须通过市场塑造引领创新方向并以挑选意愿者规避传统寻租弊端
 > 使命导向政策要求公共部门彻底摆脱新古典经济学被动的弥补[[Market Failure|市场失灵]]框架，转向主动的[[Market Shaping and Creating|市场塑造与市场共创]]；在政策实施机制上摒弃对特定企业直接补贴的挑选赢家旧模式，转向以解决重大社会挑战为靶向的[[Picking the Willing|挑选意愿者]]新逻辑。
 
-#### 1. 以重大社会挑战为靶向挑选意愿者能够倒逼传统产业转型并规避企业游说俘获
+> [!sub-claim] 1. 以重大社会挑战为靶向挑选意愿者能够倒逼传统产业转型并规避企业游说俘获
 
 > [!critique-fatal] 传统垂直产业扶持与专利盒补贴的制度缺陷
 > 传统垂直产业政策直接针对特定工业部门（如钢铁、煤炭、造船）进行指令性干预或排他性直接补贴，极易沦为私人企业游说集团谋取私利的寻租工具（Buchanan, 2003）。例如，多国推行的专利盒（Patent Box）税收减免政策对已形成的垄断专利利润降低税率，实证研究表明其完全未能带来任何新增研发投资，造成公共财政资金的严重浪费（Griffith et al., 2010）。
@@ -195,7 +196,7 @@ argument_related_color: "#dbeafe"
 > - **挑选赢家（Picking winners）** 政府直接挑选特定企业或单一垂直行业给予排他性直接补贴；极易遭受利益集团游说俘获，并在不确定性环境下押错技术路径。
 > - **[[Picking the Willing|挑选意愿者]]（Picking the willing）** 政府选定必须发生系统转型的重大社会挑战方向，在全经济范围内激励所有愿意为达成使命而共同攻关的跨行业、跨所有制组织。
 
-#### 2. 国家在前沿领域的早期战略引领能够明确市场预期并拉动私人资本协同跟进
+> [!sub-claim] 2. 国家在前沿领域的早期战略引领能够明确市场预期并拉动私人资本协同跟进
 
 > [!concept-lens] 市场塑造与公共引领的理论逻辑
 > - **对象** 摆脱以弥补外部性为唯一正当性的新古典被动修补观，将国家重新定位为主动开辟技术疆界与产业前景的前瞻引领者。
@@ -216,10 +217,10 @@ argument_related_color: "#dbeafe"
 
 ---
 
-> [!claim] 论证步骤三　使命实施需要探索型公共组织提供耐性资本并建立对等的风险收益分享契约
+> [!claim|step] 论证步骤三　使命实施需要探索型公共组织提供[[Patient Capital|耐性资本]]并建立对等的风险收益分享契约
 > 使命导向政策的实施必须依赖具备试错自主权与组合管理能力的去中心化探索型公共机构；同时必须彻底扭转风险社会化、收益私有化的分配失衡，构建公私对等的风险共担与收益共享机制。
 
-#### 1. 具备试错自主权的公共机构与开发性银行是跨越创新周期的核心支撑
+> [!sub-claim] 1. 具备试错自主权的公共机构与开发性银行是跨越创新周期的核心支撑
 
 > [!tension] 创新投资性质与跨周期耐受力的制度对照
 > - **私人风险资本（VC）** 追逐 3–5 年短期退出套利与高额流动性回报；对具有数年至数十年漫长研发周期、高技术不确定性的基础前沿领域缺乏耐性。
@@ -231,7 +232,7 @@ argument_related_color: "#dbeafe"
 > [!feature] [[Public Dynamic Capabilities|公共部门动态能力]]与机构学习（[[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato, 2018]]; Cohen & Levinthal, 1990; Johnson, 1992）
 > 实施使命导向政策必须在公共机构内部系统培育[[Public Dynamic Capabilities|公共部门动态能力]]，在探索、投资与实验过程中持续积累[[Absorptive Capacity|吸收能力]]与机构学习（Institutional Learning），并推动公立科研机构与[[Entrepreneurial University|创业型大学]]向解决复杂社会挑战的使命共创枢纽演进，坚决避免因过度依赖私营咨询机构而陷入组织[[Cognitive Deskilling|去技能化]]。
 
-#### 2. 公共资金承担早期高风险时必须通过股权特许权与价格约束分享创新回报
+> [!sub-claim] 2. 公共资金承担早期高风险时必须通过股权特许权与价格约束分享创新回报
 
 > [!critique-fatal] “风险社会化与收益私有化”的制度双重标准
 > 当公共资金资助的项目遭遇失败时，政府被广泛谴责为行政干预无效与浪费纳税人资金；而当公共资助孵化出商业奇迹时，巨额暴利却被私人资本独占并全部归功于企业家远见。这种公共部门承担极端高风险、私人资本独享商业红利的制度失衡严重侵蚀了公共财政的长期可持续性。
@@ -253,10 +254,10 @@ argument_related_color: "#dbeafe"
 
 ---
 
-> [!claim] 论证步骤四　ROAR 治理框架与五大实施标准能够将宏大社会难题转化为自下而上的多元探索组合
+> [!claim|step] 论证步骤四　ROAR 治理框架与五大实施标准能够将宏大社会难题转化为自下而上的多元探索组合
 > 使命导向政策的系统落地必须依托涵盖战略路径、组织能力、[[Dynamic Assessment|动态评估]]与收益分享的 ROAR 治理框架，并严格依据五大遴选标准将宏大的社会挑战拆解为跨部门、自下而上的多元探索项目组合。
 
-#### 1. ROAR 框架重构了方向设定、组织学习、动态评估与回报分配的政策工具箱
+> [!sub-claim] 1. ROAR 框架重构了方向设定、组织学习、动态评估与回报分配的政策工具箱
 
 > [!quad-grid] ROAR 政策[[Educational Governance Framework|治理分析框架]]
 > - **战略路径与方向（Routes & directions）** 公共政策如何主动确立变革方向？如何激发自下而上的民主审议以确保长期合法性？如何在确保广泛动员的同时精准界定具体使命？
@@ -264,7 +265,7 @@ argument_related_color: "#dbeafe"
 > - **[[Public Value|公共价值]]动态评估（Assessment）** 如何超越静态成本收益分析与单纯的挤出/挤入核算？如何建立涵盖全价值链溢出与系统转型的公共价值动态测量指标体系？
 > - **风险与收益共享（Risks & rewards）** 如何设计新型公私合作机制，使公共部门在承担早期颠覆性研发高风险的同时，能够享有与所承担风险相称的公平回报？
 
-#### 2. 明确时限指标与多元技术探索相结合是确保使命有效落地的五大基本准则
+> [!sub-claim] 2. 明确时限指标与多元技术探索相结合是确保使命有效落地的五大基本准则
 
 > [!feature] 使命遴选与推进的五大核心标准
 > - **宏大、鼓舞人心且具备广泛社会相关性** 使命必须能激发广泛社会共鸣，使公众清晰感知到科研创新与日常福祉的紧密联结。
@@ -286,7 +287,7 @@ argument_related_color: "#dbeafe"
 > - **基层：自下而上项目组合（R&I Projects）**
 >   由企业、科研院所与公民社会自下而上提交并实施的多元化探索与试错项目组合。
 
-#### 3. “无塑海洋”使命展示了如何通过量化目标拉动跨行业跨学科自下而上项目攻坚
+> [!sub-claim] 3. “无塑海洋”使命展示了如何通过量化目标拉动跨行业跨学科自下而上项目攻坚
 
 > [!example] 图2：无塑海洋使命的跨部门与自下而上项目组合结构（A Plastic-Free Ocean Mission）
 > ![](https://img.mylikemie.icu/sources/Mazzucato_2018_ICC/figures/Mazzucato_2018_ICC_Fig2_Plastic_Free_Ocean_Mission.jpg)

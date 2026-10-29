@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -94,20 +94,16 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　技术乌托邦主义在解构国家认同后必然被狭隘的消费主义市场狂热所收编
-
-> [!concept-lens] 价值真空与资本异化
-> 探讨乌托邦理想在缺乏实质共同体信念与[[Public Value|公共价值]]引导时，如何迅速退化为快消资本工具。
+> [!concept-proposition] 命题一｜技术乌托邦主义在解构国家认同后必然被狭隘的消费主义市场狂热所收编
+> **探讨维度　价值真空与资本异化** 探讨乌托邦理想在缺乏实质共同体信念与[[Public Value|公共价值]]引导时，如何迅速退化为快消资本工具。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **道德真空与市场收编** 1960 至 1970 年代对传统体制的批判摧毁了旧有特权，但未能确立新的集体价值；技术乌托邦主义留下的道德真空迅速被市场力量占据，导致一代科技领袖将“构建（Build）”口号退化为单纯追逐广告变现与社交快消软件，放弃了关乎人类文明攀登的宏伟国家事业。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. xiv, 13; Sandel, 1998, p. 217)]]
 
 ---
 
-### 命题二　技术乌托邦主义的政治避险心态是导致公共部门出现创新荒漠的主观根源
-
-> [!concept-lens] 政治冷漠与公共创新赤字
-> 探讨科技精英的道德中立与避险策略对公共服务技术现代化的抑制作用。
+> [!concept-proposition] 命题二｜技术乌托邦主义的政治避险心态是导致公共部门出现[[Innovation Desert|创新荒漠]]的主观根源
+> **探讨维度　政治冷漠与公共创新赤字** 探讨科技精英的道德中立与避险策略对公共服务技术现代化的抑制作用。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **公共回避与[[Innovation Desert|创新荒漠]]蔓延** 科技精英将国家视为走向衰退的帝国，对涉及政治争议与严苛问责的公共领域（地方执法、医疗、教育与防务采办）抱持极度迟疑；这种将技术剥离于公共责任的乌托邦纯洁性追求，直接导致大面积公共部门沦为排斥前沿技术的[[Innovation Desert|创新荒漠]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 14–15)]]

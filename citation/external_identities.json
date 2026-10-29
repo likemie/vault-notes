@@ -1818,6 +1818,14 @@
       ],
       "title": ""
     },
+    "Alberts et al., 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
+      ],
+      "title": ""
+    },
     "Alberts, 2011": {
       "doi": "",
       "isbn": "",
@@ -5688,7 +5696,8 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
-        "wiki/concepts/higher-education/The 41st Chair.md"
+        "wiki/concepts/higher-education/The 41st Chair.md",
+        "wiki/concepts/science-policy/Prizewinner Retroactive Spillover Effect.md"
       ],
       "title": ""
     },
@@ -5696,7 +5705,17 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/concepts/science-policy/Goliath's Shadow.md",
         "wiki/concepts/university-industry-collaboration/Star Scientists.md"
+      ],
+      "title": ""
+    },
+    "Azoulay et al., 2020": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
       ],
       "title": ""
     },
@@ -10906,6 +10925,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/concepts/science-policy/Benefit of the Doubt in Peer Review.md",
         "wiki/concepts/science-policy/Status Bias in Peer Review.md"
       ],
       "title": ""
@@ -13752,6 +13772,14 @@
       ],
       "title": ""
     },
+    "Broad, 1981": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Salami Publishing.md"
+      ],
+      "title": ""
+    },
     "Broad, 2007": {
       "doi": "",
       "isbn": "",
@@ -15286,6 +15314,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/educational-philosophy/Cognitive Decoupling.md",
         "wiki/concepts/educational-philosophy/Value Neutrality.md"
       ],
       "title": ""
@@ -17618,7 +17647,8 @@
       "seen_in": [
         "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
         "wiki/arguments/journal-articles/Globalisation, Societies and Education/Argument_Beech_2015_GSE.md",
-        "wiki/concepts/comparative-education/Government to Governance Shift.md"
+        "wiki/concepts/comparative-education/Government to Governance Shift.md",
+        "wiki/concepts/comparative-education/Performativity.md"
       ],
       "title": ""
     },
@@ -22777,6 +22807,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/instruments/tests/Torrance Tests of Creative Thinking.md"
+      ],
+      "title": ""
+    },
+    "Crane, 1967": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Goliath's Shadow.md"
       ],
       "title": ""
     },
@@ -34167,6 +34205,23 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/journal-articles/Intersect/Argument_Chan_2015_Intersect.md"
+      ],
+      "title": ""
+    },
+    "Fortunato et al., 2014": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/concepts/science-policy/Lost Winners.md"
+      ],
+      "title": ""
+    },
+    "Fortunato et al., 2018": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/us/Derek de Solla Price.md"
       ],
       "title": ""
     },
@@ -46130,7 +46185,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/methods/quantitative/h-Index.md"
+        "wiki/methods/quantitative/h-Index.md",
+        "wiki/methods/quantitative/m-Quotient.md"
       ],
       "title": ""
     },
@@ -46157,8 +46213,8 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/methods/quantitative/h-Index.md"
+        "wiki/methods/quantitative/h-Index.md",
+        "wiki/methods/quantitative/h-alpha Index.md"
       ],
       "title": ""
     },
@@ -48113,6 +48169,14 @@
       "isbn": "",
       "seen_in": [],
       "title": "The impact of formative peer feedback on higher education students' academic writing: a Meta-Analysis"
+    },
+    "Hull et al., 1978": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
+      ],
+      "title": ""
     },
     "Hulleman et al., 2010": {
       "datasets": [
@@ -51876,6 +51940,14 @@
       "seen_in": [],
       "title": "Meta-analysis of reading interventions for students with learning and emotional disabilities. Unpublished doctoral dissertation, University of North Texas"
     },
+    "Jones, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
+      ],
+      "title": ""
+    },
     "Jones, 2009a": {
       "doi": "",
       "isbn": "",
@@ -51888,7 +51960,9 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/concepts/competency-and-assessment/Creativity.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/concepts/competency-and-assessment/Creativity.md",
+        "wiki/concepts/science-policy/Conceptual and Experimental Innovators.md"
       ],
       "title": ""
     },
@@ -57395,6 +57469,14 @@
       ],
       "title": ""
     },
+    "Kraut & Resnick, 2012": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/persons/netherlands/Arnout van de Rijt.md"
+      ],
+      "title": ""
+    },
     "Krcmaric et al., 2023": {
       "doi": "",
       "isbn": "",
@@ -60712,6 +60794,14 @@
       "seen_in": [],
       "title": "An evaluation of an after-school partnership program  The effects on young children's performance"
     },
+    "Lehman, 1953": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
+      ],
+      "title": ""
+    },
     "Lehmann, 2007": {
       "doi": "",
       "isbn": "",
@@ -61677,7 +61767,9 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md",
+        "wiki/concepts/science-policy/Lost Winners.md",
         "wiki/facts/us/Inq-ITS.md"
       ],
       "title": ""
@@ -62898,7 +62990,9 @@
       ],
       "doi": "",
       "isbn": "",
-      "seen_in": [],
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
+      ],
       "title": "Effectiveness of the flipped classroom on the development of self-directed learning in nursing education: A meta-analysis."
     },
     "Liu et al., 2019": {
@@ -69661,7 +69755,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/higher-education/Matthew Effect in Academia.md"
+        "wiki/concepts/higher-education/Matthew Effect in Academia.md",
+        "wiki/concepts/science-policy/Goliath's Shadow.md"
       ],
       "title": ""
     },
@@ -78375,6 +78470,15 @@
       "seen_in": [
         "wiki/concepts/educational-policy-reform/Selective Education.md",
         "wiki/facts/uk/Eleven-plus Exam.md"
+      ],
+      "title": ""
+    },
+    "Packalen & Bhattacharya, 2019": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/concepts/science-policy/Goliath's Shadow.md"
       ],
       "title": ""
     },
@@ -93840,7 +93944,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-        "wiki/concepts/science-policy/Scientific Productivity.md"
+        "wiki/concepts/science-policy/Scientific Productivity.md",
+        "wiki/methods/quantitative/Shockley's Multiplicative Hurdle Model.md"
       ],
       "title": ""
     },
@@ -94401,6 +94506,7 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
+        "wiki/concepts/educational-philosophy/Cognitive Decoupling.md",
         "wiki/concepts/educational-philosophy/Value Neutrality.md"
       ],
       "title": ""
@@ -94753,7 +94859,9 @@
       "doi": "",
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/concepts/science-policy/Lost Winners.md"
       ],
       "title": ""
     },
@@ -102894,6 +103002,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/concepts/academic-writing/Conference-Centric Publication Model.md",
         "wiki/concepts/higher-education/Matthew Effect in Academia.md",
+        "wiki/concepts/science-policy/Benefit of the Doubt in Peer Review.md",
         "wiki/concepts/science-policy/Status Bias in Peer Review.md"
       ],
       "title": ""
@@ -114393,6 +114502,14 @@
       "seen_in": [],
       "title": "Teaching Together  Pilot study of a tiered language and literacy intervention with Head Start teachers and linguistically diverse families"
     },
+    "Zuckerman, 1977": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/Benefit of the Doubt in Peer Review.md"
+      ],
+      "title": ""
+    },
     "Zukin, 2020": {
       "doi": "",
       "isbn": "",
@@ -116172,6 +116289,14 @@
       "isbn": "",
       "seen_in": [
         "wiki/persons/us/Nicholas Zamiska.md"
+      ],
+      "title": ""
+    },
+    "托雷斯, 2009": {
+      "doi": "",
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/educational-philosophy/Conscientization.md"
       ],
       "title": ""
     },

@@ -10,7 +10,7 @@ aliases:
 summary: "实验或量化研究中被有意识操纵、控制或选择以观察其对因变量效应的变量，是因果推断中的输入条件"
 type: concept
 domain: "research-methodology"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,12 +20,13 @@ tags:
   - causal-inference
   - experiment
 related_concepts:
+  - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Causality]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[Definition of Terms]]"
-  - "[[Variable]]"
+  - "[[Student Motivation]]"
   - "[[Interaction Effect]]"
   - "[[Academic Achievement]]"
   - "[[Research Cage]]"
@@ -36,11 +37,11 @@ related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Ex Post Facto Research]]"
+  - "[[Experimental Research]]"
   - "[[Analytic Framework]]"
   - "[[Pre-test and Post-test]]"
   - "[[Factorial Design]]"
   - "[[Meta-analysis]]"
-  - "[[Experimental Research]]"
   - "[[Causal Modeling]]"
 related_persons: []
 related_facts: []
@@ -50,16 +51,16 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!def] Independent Variable
-> 自变量（independent variable）是实验或[[Quantitative Research\|量化研究]]中的**输入变量**，被有意识地操纵、控制或选择，以观察其变化对[[Dependent Variable\|因变量]]（结果变量）产生的效应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）。
+> 自[[Variable|变量]]（independent variable）是实验或[[Quantitative Research\|量化研究]]中的**输入变量**，被有意识地操纵、控制或选择，以观察其变化对[[Dependent Variable\|因变量]]（结果变量）产生的效应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）。
 
 在真实验中，自变量被主动操纵（manipulated），例如施加一种新的教学方法、给予不同剂量的干预。在[[Ex Post Facto Research|事后回溯研究]]中，自变量已经自然发生，研究者只能根据既有条件进行观测选择，无法主动操纵，但分析逻辑保持一致：考察自变量的不同水平或取值如何与因变量的变化相关联。
 
 > [!concept-lens] 自变量在[[Causality\|因果推断]]中的角色
-> - **含义** 自变量是因果链条中的**前因**，被假定为对因变量产生影响的变量。在实验设计中，自变量是可以控制的条件或处理。
+> - **含义** 自变量是因果链条中的**前因**，被假定为对因变量产生影响的变量。在[[Experimental Research|实验设计]]中，自变量是可以控制的条件或处理。
 > - **用途** 通过操纵自变量的不同水平（如干预的有无、干预的不同强度），检验因果假设：自变量的变化是否系统性地引起了因变量的变化。
 > - **边界** 自变量不等于原因本身，它只是原因的[[Operationalization\|操作化]]指标。一个自变量能否真正代表[[Construct\|理论构念]]取决于[[Definition of Terms\|操作性定义]]的有效性。自变量与因变量的区分只在特定研究设计中成立，同一变量在不同研究中可以扮演不同角色。
 
@@ -85,7 +86,7 @@ updated: 2026-10-22
 > - **可操纵性** 在真实验中，研究者主动控制和改变自变量的水平（如施加或不施加干预）。在准实验和[[Ex Post Facto Research\|事后回溯研究]]中，自变量的水平自然存在，研究者通过选择具有不同特征的组别展开观察比较（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16]]）。
 > - **多水平取值** 自变量可以有两个或多个水平。最简单的形式是二分类（有/无干预），也可以有多个水平（如低/中/高剂量的干预），或连续取值（如学习时间长度）（pp. 323–324）。
 > - **控制与隔离** 在真实验中，除被操纵的自变量外，其他可能影响[[Dependent Variable\|因变量]]的变量必须被控制或保持恒定，这是[[Causality\|因果推断]]的核心前提（pp. 312–313）。
-> - **[[Definition of Terms\|操作性定义]]** 自变量必须通过[[Operationalization\|操作化]]使其可测量或可操纵。抽象的[[Construct\|构念]]（如学习动机）需要通过具体的操作（如特定的激励方案）转化为可实施的自变量（p. 330）。
+> - **[[Definition of Terms\|操作性定义]]** 自变量必须通过[[Operationalization\|操作化]]使其可测量或可操纵。抽象的[[Construct\|构念]]（如[[Student Motivation|学习动机]]）需要通过具体的操作（如特定的激励方案）转化为可实施的自变量（p. 330）。
 > - **优先级排序** 当存在多个候选自变量时，最重要的变量在实验中操纵，其他的保持恒定或作为协变量处理（p. 330）。
 
 [[Factorial Design|因子设计]]中，两个或多个自变量同时被操纵，每个自变量的不同水平组合构成不同的实验条件。此时不仅可以检验每个自变量的主效应（main effect），还可以检验自变量之间的[[Interaction Effect|交互效应]]（interaction effect），即一个自变量的效应是否依赖于另一个自变量的水平（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al., 2011, Ch16, pp. 323–324]]）。
@@ -96,10 +97,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　自变量与因变量的因果单向性要求自变量具备独立的理论实体地位
-
-> [!concept-lens] [[Causality|因果推断]]与[[Construct|构念]]独立性
-> 探讨自[[Variable|变量]]在因果实验与[[Meta-analysis|元分析]]综合中的本体独立性，防范[[Dependent Variable|因变量]]反向规训自变量导致的循环自指危机。
+> [!concept-proposition] 命题一｜自[[Variable|变量]]与[[Dependent Variable|因变量]]的因果单向性要求自变量具备独立的理论实体地位
+> **探讨维度　[[Causality|因果推断]]与[[Construct|构念]]独立性** 探讨自[[Variable|变量]]在因果实验与[[Meta-analysis|元分析]]综合中的本体独立性，防范[[Dependent Variable|因变量]]反向规训自变量导致的循环自指危机。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Cohen et al. (2011)]]
 > **可操纵性与因果输入的实体地位** 自变量作为因果推断的前因输入，必须通过[[Definition of Terms|操作性定义]]明确其操作水平与隔离控制边界。[[Experimental Research|实验研究]]的内在有效性建立在对自变量的主动操纵与对混杂变量的有效隔离之上，唯有保持自变量作为前因条件的独立可识别性，才能确证观察到的输出变化确系由自变量所引起。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011, Ch16, pp. 312–313, 330)]]
@@ -131,7 +130,7 @@ updated: 2026-10-22
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — Kgaile and Morrison (2006) 识别了七个影响[[School Effectiveness\|学校效能]]的自[[Variable\|变量]]；小麦肥料实验中肥料是有无施加作为自变量；资源可用性（3 水平）和学习动机（3 水平）在[[Factorial Design\|因子设计]]中各为自变量。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011, Ch16)]] — Kgaile and Morrison (2006) 识别了七个影响[[School Effectiveness\|学校效能]]的自[[Variable\|变量]]；小麦肥料实验中肥料是有无施加作为自变量；资源可用性（3 水平）和[[Student Motivation|学习动机]]（3 水平）在[[Factorial Design\|因子设计]]中各为自变量。
 > - [[Argument_Rømer_2018_EPT\|Rømer (2018)]] — 批判可见学习中自变量的原子化还原以及自变量与[[Dependent Variable|因变量]]循环互证所构建的[[Research Cage|封闭研究牢笼]]。（pp. 4–6）
 
 ---

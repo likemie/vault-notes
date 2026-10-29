@@ -22,6 +22,7 @@ related_concepts:
   - "[[Engineering Education]]"
   - "[[Apprenticeship]]"
   - "[[Shape-Shifting]]"
+  - "[[Document]]"
   - "[[Tacit Knowledge]]"
   - "[[Competitiveness]]"
   - "[[Research Universities]]"
@@ -32,7 +33,6 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Phronesis]]"
   - "[[Research Translation]]"
-  - "[[Document]]"
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -81,7 +81,7 @@ updated: 2026-10-22
 
 > [!feature] 产业公地的四大核心构件
 > - **密集的本地专业技术供应商网络（Dense Supplier Networks）** 数以千计的中小零部件加工商、特种化学品合成点与精密仪器维修工坊，能够提供小时级的极速打样与工装夹具即时调试。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 54)]]
-> - **深厚沉淀的[[Process Knowledge|默会过程知识]]与工匠技艺（Tacit Process Knowledge）** 资深技师在数十万小时产线实践中积累的振动感知、热[[Shape-Shifting|形变]]调优与材料排障直觉，构成了无法被文献轻易窃取的技术护城河。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48)]]
+> - **深厚沉淀的[[Process Knowledge|默会过程知识]]与工匠技艺（Tacit Process Knowledge）** 资深技师在数十万小时产线实践中积累的振动感知、热[[Shape-Shifting|形变]]调优与材料排障直觉，构成了无法被[[Document|文献]]轻易窃取的技术护城河。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48)]]
 > - **紧密贴近的产研物理互动回路（Proximate R&D-Manufacturing Loop）** 大学研究人员、国家实验室团队与工厂产线工人处于同一物理生态内，使得前沿理论能够即时接受量产良率检验，一线工程瓶颈能够反向哺育基础科学研究。
 > - **平民化建造文化与技能转化基底（Grassroots Building Culture）** 贯通社区学院短期技能认证、企业[[Apprenticeship|注册学徒制]]、车库创客空间与民间试验基地的广泛动手建造网络。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52–56)]]
 
@@ -89,30 +89,24 @@ updated: 2026-10-22
 
 ## 核心理论命题
 
-### 命题一　研发与实体制造的地理割裂将导致默会过程知识断流，诱发底层工程设计能力的系统性退化
-
-> [!concept-lens] [[Tacit Knowledge|默会知识]]与设计制造共生
-> 剖析为何技术无法仅凭发表文献传递，以及离岸制造如何切断创新源头。
+> [!concept-proposition] 命题一｜研发与实体制造的地理割裂将导致[[Process Knowledge|默会过程知识]]断流，诱发底层工程设计能力的系统性退化
+> **探讨维度　[[Tacit Knowledge|默会知识]]与设计制造共生** 剖析为何技术无法仅凭发表[[Document|文献]]传递，以及离岸制造如何切断创新源头。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **[[Process Knowledge|过程知识]]不可编码与设计退化假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，技术能力由实体硬件、显性规程与默会[[Process Knowledge|过程知识]]三重维度构成。正如哈里·科林斯（Harry Collins）在激光复制困境中所证实的，缺乏现场技师的言传身教，任何实验室都无法仅凭公开论文复现仪器。当一个国家将实体制造大规模外包时，伴随产线迁移而流失的不仅是就业岗位，更是熟练技师在良率攻坚中积累的调优直觉。失去制造现场的研究人员将无法感知物理原子的真实约束，导致其理论设计日益脱离实际工程并最终丧失定义下一代产品的能力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–50)]]
 
 ---
 
-### 命题二　单纯论文层面的科学卓越无法自发维系国家技术领导权，产业公地是避免公共研发投资收益外溢的必备吸收器
-
-> [!concept-lens] 创新经济学与公共品收益捕获
-> 揭示原创科学发现与本土产业承接能力之间的脱节风险。
+> [!concept-proposition] 命题二｜单纯论文层面的科学卓越无法自发维系国家技术领导权，产业公地是避免公共研发投资收益外溢的必备吸收器
+> **探讨维度　创新经济学与公共品收益捕获** 揭示原创科学发现与本土产业承接能力之间的脱节风险。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **本土转化吸收器假说** 历史经验表明，单向开放且缺乏本土制造承接的科学体制将面临严重的战略外溢：美国公共资金率先奠定了平板显示技术、先进锂电池化学与极紫外（EUV）光刻的核心物理原理，但由于本土产业公地萎缩、缺乏规模化试制生态，量产工艺与巨额产业供应链红利被海外竞争对手全面捕获。科学发现本身不会自发转化为国家繁荣；唯有当国家拥有深厚而紧密的本土产业公地作为吸收器时，纳税人投资的基础研究成果才能真正转化为本土产业[[Competitiveness|竞争力]]与高薪就业。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 10, 34–35)]]
 
 ---
 
-### 命题三　重振产业公地依赖高等工程教育转型、新型工匠学徒制与社区学院技能网络的系统对齐
-
-> [!concept-lens] 技能生态学与教育制度重构
-> 阐明如何通过重构[[Engineering Education|工程教育]]、设立国家工匠奖学金与赋权社区学院以再造国家技能底座。
+> [!concept-proposition] 命题三｜重振产业公地依赖[[Engineering Education|高等工程教育]]转型、新型工匠[[Apprenticeship|学徒制]]与社区学院技能网络的系统对齐
+> **探讨维度　技能生态学与教育制度重构** 阐明如何通过重构[[Engineering Education|工程教育]]、设立国家工匠奖学金与赋权社区学院以再造国家技能底座。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **技能基底与[[Apprenticeship|学徒制]]重振假说** 重建产业公地必须打破单一[[Research Universities|研究型大学]]门第垄断：高等工程教育必须改革重理论轻动手的弊端，将车间排障与学徒实训计入学分；国家科研体系需设立“国家工匠奖学金”与“[[Practitioner-in-Residence|驻校实践者项目]]”，选拔顶尖技师进驻国家实验室并享有成果共同署名权；同时借助《[[Workforce Pell Grants 2025|劳动力佩尔助学金]]》将覆盖全美 40% 本科生的社区学院网络与战略半导体和生物制造产业集群对齐，形成代际相传的动手建造文化。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52–56)]]

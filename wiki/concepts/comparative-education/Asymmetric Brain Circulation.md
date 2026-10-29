@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-30'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -60,10 +60,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题类型一　非对称循环下的科学系统退化机制（Academic Degradation Mechanisms）
-
-> [!concept-lens] 非对称循环下的科学系统退化机制
-> 讨论当一个国家长期陷入非对称人才循环时，其内部学术生态和研究质量的演变规律。
+> [!concept-proposition] 命题类型一｜非对称循环下的科学系统退化机制（Academic Degradation Mechanisms）
+> **探讨维度　非对称循环下的科学系统退化机制** 讨论当一个国家长期陷入非对称人才循环时，其内部学术生态和研究质量的演变规律。
 
 > [!claim] 核心智力赤字命题
 > 当流出的学者在学术产出和学科前沿性上远高于流入的区域学者时，即便科学人口总量通过移民或引进实现“数字平衡”，由于高端人才循环通道被阻断，该系统的“双向学术信息流”将出现严重质性赤字，导致前沿创新的发生率大幅衰减。([[Argument_Dezhina_2022_ECO\|Dezhina & Egerev, 2022, pp. 37, 41]])

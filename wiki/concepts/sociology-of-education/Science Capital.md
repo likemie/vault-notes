@@ -32,7 +32,7 @@ related_methods: []
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -59,20 +59,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　家庭科学资本的阶层分化直接决定青少年的科学抱负与 STEM 轨迹
-
-> [!concept-lens] 资本不平等与阶层再生产
-> 科学并非纯粹中立的竞技场，科学资本的占有量直接决定了青少年能否将科学发展视作自身可行的人生路径。
+> [!concept-proposition] 命题一｜家庭科学资本的阶层分化直接决定青少年的科学抱负与 [[STEM Education|STEM]] 轨迹
+> **探讨维度　资本不平等与阶层再生产** 科学并非纯粹中立的竞技场，科学资本的占有量直接决定了青少年能否将科学发展视作自身可行的人生路径。
 
 > [!claim] Archer et al. (2020) & [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
 > **ASPIRES 追踪实证** 伦敦大学学院 ASPIRES 纵向追踪表明，高[[Socioeconomic Status|社会经济地位]]家庭子女拥有显著更丰富的科学资本，其表达科学抱负的概率远高于弱势群体；学校教育若缺乏针对性补偿机制，将进一步放大阶层马太效应。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 32)]]
 
 ---
 
-### 命题二　科学资本教学法（Science Capital Teaching Approach）能够有效赋权弱势群体
-
-> [!concept-lens] 教学法赋能介入
-> 通过将科学教学与学生多元文化背景、日常生活经验及社区问题相联结，能显著拓宽学生对“谁能从事科学”的认知。
+> [!concept-proposition] 命题二｜科学资本教学法（Science Capital Teaching Approach）能够有效赋权弱势群体
+> **探讨维度　教学法赋能介入** 通过将科学教学与学生多元文化背景、日常生活经验及社区问题相联结，能显著拓宽学生对“谁能从事科学”的认知。
 
 > [!claim] 普惠探究与认同构建
 > 依托 [[CREST Awards]]、IRIS 等真实科研课题与课外拓展，为缺乏家庭科学资源的弱势学生提供实践平台，能有效打破学科刻板印象并激发内在科学抱负。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32–33)]]

@@ -58,32 +58,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/templates/template-argument.md",
+                "file": "wiki/templates/template-concept.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "template-argument"
+              "title": "template-concept"
             }
           },
           {
-            "id": "d2c2692e91b4a6b5",
+            "id": "c2ae20d6d231fcfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
+                "file": "wiki/methods/quantitative/m-Quotient.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit01"
+              "title": "m-Quotient"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,7 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 399.18359375
+    "width": 321.359375
   },
   "right": {
     "id": "ec50234132d5cb15",
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiki/concepts/educational-policy-reform/Critique of Evidence-Based Education.md",
+                "file": "wiki/methods/quantitative/m-Quotient.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Critique of Evidence-Based Education 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -261,13 +261,23 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "75f7104c0ad79662",
+            "type": "leaf",
+            "state": {
+              "type": "embed-outline",
+              "state": {},
+              "icon": "list-tree",
+              "title": "Embed outline"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -288,52 +298,54 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "a2aa5f6545a9eecb",
+  "active": "c2ae20d6d231fcfa",
   "lastOpenFiles": [
-    "wiki/templates/template-concept.md",
-    "wiki/templates/template-argument-textbook.md",
-    "wiki/templates/template-argument-monograph.md",
-    "Claude outputs/formula-reading-preview.png",
-    "wiki/templates/template-argument-edited-volume.md",
-    "wiki/templates/template-argument.md",
-    "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md",
-    "wiki/arguments/reports-policy-documents/Argument_Skipp_Tanner_2015_EEF.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-001/result.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-006/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-006/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-005/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-005/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-004/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-004/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-002/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-003/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-003/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-001/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-001/prompt.md",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-002/batch-result.schema.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/state.json",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-006",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-005",
+    "output/related-updates/Argument_Wang_Barabasi_2021_Cambridge_Unit02-b83ab967/batch-004",
+    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+    "wiki/persons/germany/Werner Heisenberg.md",
+    "wiki/persons/italy/Roberta Sinatra.md",
+    "wiki/persons/us/Kenneth G. Wilson.md",
+    "wiki/persons/us/John B. Fenn.md",
+    "wiki/persons/us/Dean Keith Simonton.md",
+    "wiki/persons/us/Benjamin F. Jones.md",
+    "wiki/methods/quantitative/Career Shuffling Method.md",
+    "wiki/concepts/science-policy/Lost Winners.md",
+    "wiki/concepts/science-policy/Goliath's Shadow.md",
+    "wiki/concepts/science-policy/Conceptual and Experimental Innovators.md",
+    "wiki/theories/science-policy/Constant-Probability-of-Success Model.md",
+    "wiki/theories/science-policy/Planck's Principle.md",
+    "wiki/theories/science-policy/Burden of Knowledge.md",
+    "wiki/theories/science-policy/Random Impact Rule.md",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-6_Older_Entrepreneurs_Likelihood_of_Success.jpg",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-5_Academic_Career_of_John_Fenn.jpg",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-4_Career_Patterns_of_Nobel_Laureates_Lost_Winners.jpg",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-3_Random_Impact_Rules_Across_Creative_Domains.jpg",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-2_Random_Impact_Rule_P_t_star.jpg",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-1_Publication_History_Kenneth_Wilson_Drop_Pin.jpg",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_4-5_Michelangelo_vs_Picasso.jpg",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_4-4_Theorists_vs_Empiricists_Nobel_Laureates.jpg",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_4-3_Shifts_in_Age_Distribution_of_Great_Innovation.jpg",
+    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_4-2_Age_Distribution_of_Great_Innovation.jpg",
     "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
-    "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md",
-    "wiki/templates/template-method-quant.md",
-    "wiki/templates/template-fact-program.md",
-    "Claude outputs/method-flat-motion.gif",
-    "Claude outputs/method-flat-preview.png",
-    "tmp/method-manual-v6/fit_block.txt",
-    "tmp/method-manual-v6/formula_block.txt",
-    "tmp/method-manual-v6/tokens.txt",
-    "tmp/method-manual-v6/gen6_src.css",
-    "tmp/method-manual-v6/gen6.py",
-    "tmp/method-manual-v6",
-    "wiki/templates/template-instrument.md",
-    "wiki/templates/template-metax.md",
-    "wiki/templates/template-method.md",
-    "wiki/methods/quantitative/LISA Spatiotemporal Transition.md",
-    "wiki/methods/quantitative/Longitudinal Study.md",
     "wiki/methods/quantitative/h-Index.md",
-    "Claude outputs/method-manual-v2.png",
-    "wiki/methods/quantitative/g-Index.md",
-    "wiki/arguments/books/Ryan(Ed.)_2010_HKUP/Argument_Ryan_2010_HKUP.md",
-    "wiki/concepts/science-policy/Status Bias in Peer Review.md",
-    "Claude outputs/method-manual-motion.gif",
-    "Claude outputs/method-manual-before-after.png",
-    "wiki/concepts/science-policy/Reverse Matthew Effect in Academia.md",
-    "wiki/theories/science-policy/Lotka's Law.md",
-    "tmp/method-manual-v5/gen.py",
-    "tmp/method-manual-v5",
-    "wiki/theories/science-policy/Shockley's Multiplicative Hurdle Model.md",
-    "wiki/templates/template-person.md",
-    "wiki/persons/us/Pierre Azoulay.md",
-    "wiki/assets/geogebra/hirsch_h_index_v2.ggb",
-    "wiki/assets/geogebra/shockley_lognormal_v2.ggb",
-    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_3-2_Matthew_Effect_Field_Experiment_Barnstars.jpg",
-    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_3-1_Crossover_Effect_Reputation_Citations.jpg",
-    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_2-2_Predictive_Power_of_h_Index.jpg",
-    "books/Wang_Barabasi_2021_Cambridge/figures/Figure_2-1_Calculation_of_h_Index_Einstein_Higgs.jpg"
+    "wiki/templates/template-concept.md",
+    "未命名.canvas",
+    "wiki/methods/quantitative/m-Quotient.md"
   ]
 }

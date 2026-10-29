@@ -47,7 +47,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -106,20 +106,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　上游参与是保障科学研究社会运营许可与规避前沿颠覆性技术社会抵制的核心前提
-
-> [!concept-lens] 科技社会合法性与前瞻审议
-> 面对人工智能、合成生物学与基因编辑等高风险前沿技术，缺乏早期公众审议的技术发展往往会在进入应用期后遭遇强烈的公众不信任与政治反弹。
+> [!concept-proposition] 命题一｜上游参与是保障科学研究[[Social License to Operate|社会运营许可]]与规避前沿颠覆性技术社会抵制的核心前提
+> **探讨维度　科技社会合法性与前瞻审议** 面对人工智能、合成生物学与基因编辑等高风险前沿技术，缺乏早期公众审议的技术发展往往会在进入应用期后遭遇强烈的公众不信任与政治反弹。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026)]]
 > **[[Social License to Operate\|社会运营许可]]的源头构建** 现代大学与科研机构维系长期公共资金支持的关键在于保有“社会运营许可”（Licence to Operate）；若将公众参与降格为成果问世后的公关洗白，极易引发公众对科技利益暗箱操作的警惕；唯有在上游阶段坦诚披露科技路线的不确定性并吸纳公众价值关切，才能在全社会奠定深层信任基石。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, pp. 93, 102)]]
 
 ---
 
-### 命题二　平权协同共创能够拓宽科研问题视野并实质性提升前沿研究的社会相关性与质量
-
-> [!concept-lens] [[Epistemology\|认识论]]多样性与科研质量反哺
-> 非专业公众、社区代表与患者拥有的具身化经验（Lived experience），能够为传统学术框架提供至关重要的经验补充。
+> [!concept-proposition] 命题二｜平权协同共创能够拓宽科研问题视野并实质性提升前沿研究的社会相关性与质量
+> **探讨维度　[[Epistemology\|认识论]]多样性与科研质量反哺** 非专业公众、社区代表与患者拥有的具身化经验（Lived experience），能够为传统学术框架提供至关重要的经验补充。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026)]]
 > **[[Knowledge Production\|知识生产]]认识论的互补增益** 64% 的英国科研人员在实证调查中明确认同公众参与能显著提升科研本身的质量；在医学和环境研究中，通过引入[[Patient and Public Involvement\|患者与公众参与]]（[[Patient and Public Involvement\|PPI]]）以及大规模[[Citizen Science\|公民科学]]共创，一线学者不仅能够优化[[Clinical Trial\|临床试验]]方案依从度，更能精准捕捉以往被量化模型忽视的真实世界[[Variable\|变量]]。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, pp. 92, 95)]]

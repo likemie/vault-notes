@@ -8,48 +8,63 @@ aliases:
 summary: "政治学与话语制度主义中用以解释思想理念如何塑造政治行为与制度选择的核心分析框架，由马丁·卡斯滕森与薇薇安·施密特系统建构；涵盖通过理念行使权力（说服与规范吸引）、支配理念之权力（控制意义与议程排他）以及内置于理念之权力（制度化结构的先验权威）三元维度，揭示了理念如何依托制度合法性与话语互动转化为实质性的政治统治力量。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 3
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/political-economy
   - concept/discursive-institutionalism
   - theme/power-theory
   - theme/policy-ideas
 related_concepts:
+  - "[[Discourse]]"
+  - "[[Construct]]"
+  - "[[Determinism]]"
+  - "[[Epistemic Community]]"
   - "[[Knowledge Power]]"
+  - "[[Champ]]"
   - "[[Soft Power]]"
-related_theories: []
-related_methods: []
+  - "[[Lifelong Learning]]"
+  - "[[Open Method of Coordination]]"
+  - "[[Subsidiarity Principle]]"
+related_theories:
+  - "[[Discursive Institutionalism]]"
+  - "[[Historical Institutionalism]]"
+  - "[[Path Dependence]]"
+related_methods:
+  - "[[Meta-analysis]]"
 related_instruments: []
-related_persons: []
-related_facts: []
+related_persons:
+  - "[[Nafsika Alexiadou]]"
+related_facts:
+  - "[[European Commission]]"
+  - "[[European Education Area]]"
 related_arguments:
   - "[[Argument_Alexiadou_Rambla_2023_EERJ]]"
 confidence: high
 status: draft
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Ideational Power
-> 理念权力（Ideational Power）是指政策行动者在特定制度情境中，依托概念、规范、因果叙事与话语结构，影响其他能动者的认知与规范性信念、重塑政策偏好并施加政治影响力的能力。马丁·卡斯滕森与薇薇安·施密特（Carstensen & Schmidt, 2016）确立了该构念的三元分析维度：通过理念行使权力（Power through ideas，说服与理性辩论）、支配理念之权力（Power over ideas，控制议程与排他性意义建构）以及内置于理念之权力（Power in ideas，制度化理念内嵌的先验权威）。在教育与社会政策分析中，该概念解释了技术性改革倡议如何转化为深层的理念合法性博弈。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 856–858)]]
+> 理念权力（Ideational Power）是指政策行动者在特定制度情境中，依托概念、规范、因果叙事与[[Discourse|话语]]结构，影响其他能动者的认知与规范性信念、重塑政策偏好并施加政治影响力的能力。马丁·卡斯滕森与薇薇安·施密特（Carstensen & Schmidt, 2016）确立了该[[Construct|构念]]的三[[Meta-analysis|元分析]]维度：通过理念行使权力（Power through ideas，说服与理性辩论）、支配理念之权力（Power over ideas，控制议程与排他性意义建构）以及内置于理念之权力（Power in ideas，制度化理念内嵌的先验权威）。在教育与社会政策分析中，该概念解释了技术性改革倡议如何转化为深层的理念合法性博弈。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 856–858)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向思想理念如何作为能动者施加政治支配、控制议程或维系既有制度霸权的独立权力形态。
-> - **用途** 帮助研究者超越单纯的物质利益决定论或制度理性选择模型，考察政策变迁中话语交锋、意义界定与历史合法性积累的因果效能。
+> - **用途** 帮助研究者超越单纯的物质利益[[Determinism|决定论]]或制度理性选择模型，考察政策变迁中话语交锋、意义界定与历史合法性积累的因果效能。
 > - **边界** 理念权力的有效性高度受制于具体的组织层级、条约规则与制度化权属分配，不能脱离现实制度载体单独发生效力。
 
 > [!citation-card] 卡斯滕森与施密特界定理念权力的作用机制
-> 卡斯滕森与施密特（2016）将理念权力界定为行动者影响他人认知与规范信念的能力，指出这种权力既存在于具体的组织结构与制度形式之中，也体现为行政官僚与认识共同体成员的个人说服能力。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 857)]]
+> 卡斯滕森与施密特（2016）将理念权力界定为行动者影响他人认知与规范信念的能力，指出这种权力既存在于具体的组织结构与制度形式之中，也体现为行政官僚与[[Epistemic Community|认识共同体]]成员的个人说服能力。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, p. 857)]]
 >
 > *Ideational power is defined as the capacity of policy actors to 'influence other actors’ normative and cognitive beliefs' (Carstensen and Schmidt, 2016: 321). This suggests that power is both invested in organizations, their structural and institutional forms, and in individual agents who may act in the capacity of administrators, civil servants, or members of an epistemic community.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Knowledge Power]]：知识权力侧重专家知识、计量技术与证据体系对治理对象的远距离规训；理念权力聚焦于政策行动者在审议场域中如何运用概念与规范叙事影响彼此的政治选择。
+> - 不等于 [[Knowledge Power]]：知识权力侧重专家知识、计量技术与证据体系对治理对象的远距离规训；理念权力聚焦于政策行动者在审议[[Champ|场域]]中如何运用概念与规范叙事影响彼此的政治选择。
 > - 不等于 [[Soft Power]]：软力量主要关注跨国文化吸引力与国家形象输出；理念权力特指政策制定与制度化过程中具体话语的认知与规范效能。
 
 ---
@@ -85,23 +100,19 @@ updated: 2026-10-28
 
 ---
 
-### 命题一　内置于理念的权威对激进话语重构构成结构性否决
+> [!concept-proposition] 命题一｜内置于理念的权威对激进[[Discourse|话语]]重构构成结构性否决
+> **探讨维度　制度化理念与政策变迁边界** 探讨深层历史制度中形成的理念权威，如何对行政技术官僚自上而下的政策颠覆构成刚性约束。
 
-> [!concept-lens] 制度化理念与政策变迁边界
-> 探讨深层历史制度中形成的理念权威，如何对行政技术官僚自上而下的政策颠覆构成刚性约束。
-
-> [!claim] Alexiadou, N. & Rambla, X.
-> **历史合法性对行政技术官僚激进重构的约束机制** 亚历克夏杜与兰布拉指出，行政技术官僚依托职位权力提出的新理念，若缺乏深层制度化理念的支撑，极易在闭门审议中遭遇挫败。欧委会起草团队试图以包容取代终身学习，但终身学习作为内嵌于条约第 165 条与二十年开放协调法的先验权威理念，具备强大的“内置于理念之权力”，促使各成员国在波尔图峰会上形成集体主权防御，最终推翻了激进草案。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 857, 862–864)]]
+> [!claim] [[Nafsika Alexiadou|Alexiadou, N.]] & Rambla, X.
+> **历史合法性对行政技术官僚激进重构的约束机制** 亚历克夏杜与兰布拉指出，行政技术官僚依托职位权力提出的新理念，若缺乏深层制度化理念的支撑，极易在闭门审议中遭遇挫败。[[European Commission|欧委会]]起草团队试图以包容取代[[Lifelong Learning|终身学习]]，但终身学习作为内嵌于条约第 165 条与二十年[[Open Method of Coordination|开放协调法]]的先验权威理念，具备强大的“内置于理念之权力”，促使各成员国在波尔图峰会上形成集体主权防御，最终推翻了激进草案。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 857, 862–864)]]
 
 ---
 
-### 命题二　支配理念之权力在非对称制度规则下具有决定性排他效能
-
-> [!concept-lens] 制度规则与意义控制的非对称性
-> 探讨少数否决者如何利用特定决策程序规则，实现对政策文本核心概念的排他性控制。
+> [!concept-proposition] 命题二｜支配理念之权力在非对称制度规则下具有决定性排他效能
+> **探讨维度　制度规则与意义控制的非对称性** 探讨少数否决者如何利用特定决策程序规则，实现对政策文本核心概念的排他性控制。
 
 > [!claim] Alexiadou, N. & Rambla, X.
-> **共识决机制放大否决者对政策词汇的控制力** 支配理念之权力不仅体现在推动新议程，更体现在利用制度规则压制特定话语。在欧洲教育区审议中，少数保守成员国利用辅助性原则与理事会协商一致规则，对“性别平等”概念实施词汇封杀，迫使决议删除所有约束性动词并弱化为附属修辞，证实了支配理念之权力的实质有效性高度依附于决策体制的规则分配。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 861–862)]]
+> **共识决机制放大否决者对政策词汇的控制力** 支配理念之权力不仅体现在推动新议程，更体现在利用制度规则压制特定话语。在[[European Education Area|欧洲教育区]]审议中，少数保守成员国利用[[Subsidiarity Principle|辅助性原则]]与理事会协商一致规则，对“性别平等”概念实施词汇封杀，迫使决议删除所有约束性动词并弱化为附属修辞，证实了支配理念之权力的实质有效性高度依附于决策体制的规则分配。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 861–862)]]
 
 ---
 
@@ -114,8 +125,8 @@ updated: 2026-10-28
 ---
 
 > [!dev-timeline] 概念演变
-> - **2008 — 理论奠基** 薇薇安·施密特确立话语制度主义作为第四种新制度主义，强调理念与话语在解释制度变迁中的动态功能。
-> - **2016 — 分析模型系统化** 马丁·卡斯滕森与施密特在《欧洲公共政策杂志》正式建构“理念权力”三元分析模型（通过理念、支配理念与内置于理念）。
+> - **2008 — 理论奠基** 薇薇安·施密特确立[[Discursive Institutionalism|话语制度主义]]作为第四种新制度主义，强调理念与话语在解释制度变迁中的动态功能。
+> - **2016 — 分析模型系统化** 马丁·卡斯滕森与施密特在《欧洲公共政策杂志》正式建构“理念权力”三[[Meta-analysis|元分析]]模型（通过理念、支配理念与内置于理念）。
 > - **2023 — 教育政策实证拓展** 亚历克夏杜与兰布拉将理念权力模型引入超国家教育政策研究，解构欧洲教育区战略制定过程中的机构博弈。
 
 ---
@@ -126,10 +137,10 @@ updated: 2026-10-28
 > > 争论理念究竟具备推动政策变迁的独立动力，还是行动者掩盖阶级利益与国家实力的装饰性修辞。
 > >
 > > - **话语制度主义者** 坚持理念与话语具备内生建构力，能界定利益本身并重塑政策行动者的自我认同与行动选项。[[Argument_Alexiadou_Rambla_2023_EERJ|(Alexiadou & Rambla, 2023, pp. 856–857)]]
-> > - **理性选择与历史制度主义者** 认为理念主要担当协调信念与降低交易成本的辅助工具，最终决策取决于权力分配与实质物质利益。
+> > - **理性选择与[[Historical Institutionalism|历史制度主义]]者** 认为理念主要担当协调信念与降低交易成本的辅助工具，最终决策取决于权力分配与实质物质利益。
 >
-> > [!axis] 理念权力的微观能动性与宏观结构决定论
-> > 考察个体官员的说服策略是否足以突破既有体制的路径依赖。
+> > [!axis] 理念权力的微观能动性与宏观结构[[Determinism|决定论]]
+> > 考察个体官员的说服策略是否足以突破既有体制的[[Path Dependence|路径依赖]]。
 
 ---
 

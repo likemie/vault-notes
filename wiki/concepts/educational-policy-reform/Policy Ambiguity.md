@@ -7,7 +7,7 @@ aliases:
 summary: "指公共政策制定中针对同一客观情境或治理问题同时并存多种互不相容、无法通约的思考方式与价值取向的生态特征。在信息过量时代，更多知识证据无法自发消除歧义性，反而加剧解释撕裂，促使决策者将数字作为理性表象的脚手架以应对多元分歧。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Literature Review]]"
   - "[[Variable]]"
+  - "[[Document]]"
 related_theories:
   - "[[Multiple Streams Framework]]"
   - "[[Post-structuralism]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -123,10 +124,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　信息过量时代证据的无节制供给无法消除决策歧义，反而加剧了解释冲突与政治撕裂
-
-> [!concept-lens] 信息冗余与歧义扩散
-> 深入阐明信息技术与循证运动的发展为何没有带来技术官僚所预期的共识政治，反而成为政策冲突的助燃剂。
+> [!concept-proposition] 命题一｜信息过量时代证据的无节制供给无法消除决策歧义，反而加剧了解释冲突与政治撕裂
+> **探讨维度　信息冗余与歧义扩散** 深入阐明信息技术与循证运动的发展为何没有带来技术官僚所预期的共识政治，反而成为政策冲突的助燃剂。
 
 > [!claim] Feldman, M. S.
 > **组织信息生产的符号功能超越决策功能** 官僚组织生产海量信息的首要动机往往不是为了在决策前消除认知模糊，而是作为展现自身理性运作、专业素养与审慎形象的组织符号；信息越充裕，组织内部对信息的解读分支便越繁杂，歧义性深植于官僚生态结构之中。
@@ -136,10 +135,8 @@ updated: 2026-10-26
 
 ---
 
-### 命题二　数字作为理性表象的脚手架为歧义性决策保留政治叙事自由
-
-> [!concept-lens] [[Commensuration\|通约化]][[Scaffolding\|脚手架]]与叙事自由
-> 揭示量化指标如何同时实现“对外压制价值争论”与“对内保留政治阐释自由”的双重功能。
+> [!concept-proposition] 命题二｜[[Façade of Rationality|数字作为理性表象的脚手架]]为歧义性决策保留政治叙事自由
+> **探讨维度　[[Commensuration\|通约化]][[Scaffolding\|脚手架]]与叙事自由** 揭示量化指标如何同时实现“对外压制价值争论”与“对内保留政治阐释自由”的双重功能。
 
 > [!claim] Zahariadis, N.
 > **多源流中的[[Problem Finding\|问题界定]]与歧义性操纵** [[Policy Entrepreneur\|政策企业家]]在多源流耦合过程中的核心本领，在于利用指标和聚焦事件重新界定政策问题；通过将复杂的价值冲突转化为简单的指标差距，政策企业家能够引导官僚注意力，促成[[Policy Window|政策之窗]]的开启。
@@ -194,7 +191,7 @@ updated: 2026-10-26
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | 挪威能力导向课程改革（5 个法定专家委员会 vs 教育部行政法令） | 政策咨询网络引文追踪与文献计量 | 专家咨询报告引文（464篇）与法定行政法令引文（22篇）的对应度 | 464 篇专家引文在行政法令中仅存 22 篇，流失率高达 95.3%；仅存 22 篇中 20 篇来自[[OECD\|经合组织]] [[Definition and Selection of Competencies\|DeSeCo]] 项目 | — | 强实证支持：行政当局在面对教育歧义性时，对多元学术证据实施政治过滤，排他性诉诸权威跨国中介指标 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024)]] | 挪威能力导向课程改革（5 个法定专家委员会 vs 教育部行政法令） | 政策咨询网络引文追踪与[[Document\|文献]]计量 | 专家咨询报告引文（464篇）与法定行政法令引文（22篇）的对应度 | 464 篇专家引文在行政法令中仅存 22 篇，流失率高达 95.3%；仅存 22 篇中 20 篇来自[[OECD\|经合组织]] [[Definition and Selection of Competencies\|DeSeCo]] 项目 | — | 强实证支持：行政当局在面对教育歧义性时，对多元学术证据实施政治过滤，排他性诉诸权威跨国中介指标 |
 
 ---
 

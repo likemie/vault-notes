@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -80,10 +80,8 @@ updated: 2026-10-25
 
 ## 围绕概念形成的命题
 
-### 命题一　动态试错与复盘反思显著提升实证推理与批判性决策效能
-
-> [!concept-lens] 认知反馈机制
-> 探讨模拟环境如何促进深层反思。
+> [!concept-proposition] 命题一｜动态试错与复盘反思显著提升实证推理与批判性决策效能
+> **探讨维度　认知反馈机制** 探讨模拟环境如何促进深层反思。
 
 > [!claim] Abrami, P. C., et al.
 > **[[Meta-analysis\|元分析]]实证支持** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 的元分析表明，情境模拟（Simulations）作为独立子策略干预具有稳健的正向促进效应（$k = 23, g+ = 0.26, 95\%\text{ CI} = [0.09, 0.43]$）。模拟环境允许学生直观观察到自身错误假设导致的即时系统后果，这种强烈的因果反馈结合事后复盘，强力驱动了[[Metacognition\|元认知]]监控与批判性自我纠正。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287, 294)]]

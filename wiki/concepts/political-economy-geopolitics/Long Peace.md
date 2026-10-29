@@ -22,8 +22,8 @@ related_concepts:
   - "[[Total War]]"
   - "[[Winner's Fallacy]]"
   - "[[Bonsai Army]]"
-  - "[[Paradigm]]"
   - "[[Hard Power]]"
+  - "[[Paradigm]]"
   - "[[AI Deterrence]]"
   - "[[Technological Republic]]"
   - "[[Cosmopolitanism]]"
@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -115,30 +115,24 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　长和平的历史持久性依托于绝对战略威慑而非道德自觉
-
-> [!concept-lens] 威慑恐怖与大国博弈成本函数
-> 探讨大国避免直接战争的根本动因，剖析终极毁灭性武器如何重塑大国博弈的理性选择。
+> [!concept-proposition] 命题一｜长和平的历史持久性依托于绝对战略威慑而非道德自觉
+> **探讨维度　威慑恐怖与大国博弈成本函数** 探讨大国避免直接战争的根本动因，剖析终极毁灭性武器如何重塑大国博弈的理性选择。
 
 > [!claim] [[John Lewis Gaddis|Gaddis, J. L.]]; Nobel, A.
 > **终极毁灭恐怖作为和平守护者** 西方社会对和平常态的理解长期建立在对战略威慑本质的误读之上。正如[[Alfred Nobel|阿尔弗雷德·诺贝尔]]在 1891 年的断言：“唯一能够阻止国家发动战争的只有恐怖；更强大的武器才是和平最可靠的守护者”。1945 年核武器的诞生将[[Total War|总体战]]的破坏推向极限，正是这种不可承受的恐怖毁灭均势，铸就了战后八十年大国无大战的长和平奇迹。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gaddis, 1987; Nobel, 1891; cited in Karp & Zamiska, 2025, pp. 37–41)]]
 
 ---
 
-### 命题二　长期无大战的和平自满反向瓦解了维系安全秩序的防务与硬实力意志
-
-> [!concept-lens] 和平自满与同盟去武力化危机
-> 探讨连续数代人未经历大国战争所带来的心理麻痹，以及由此诱发的同盟防务空洞化。
+> [!concept-proposition] 命题二｜长期无大战的和平自满反向瓦解了维系安全秩序的防务与[[Hard Power|硬实力]]意志
+> **探讨维度　和平自满与同盟去武力化危机** 探讨连续数代人未经历大国战争所带来的心理麻痹，以及由此诱发的同盟防务空洞化。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]] & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **和平自满对安全底座的侵蚀** 连续三代人未经历世界大战，使西方盟友普遍将和平繁荣误判为无需支付代价的天然背景。欧洲盟友长期依赖美国防务搭便车导致军队微缩为缺乏实战深度的[[Bonsai Army|盆景军队]]，日本固守宪法第九条单方面去武力化。这种由长和平滋生出的和平自满，反向向潜在侵略者释放了软弱信号，动摇了战后安全体系的根基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 41–44)]]
 
 ---
 
-### 命题三　原子均势向软件世纪演进要求以人工智能与非对称算法重构战略威慑
-
-> [!concept-lens] 技术形态转型与威慑[[Paradigm|范式]]重塑
-> 探讨战场决胜中枢由重型硬件向算法软件转移的历史进程，以及如何在新世纪重筑长和平防线。
+> [!concept-proposition] 命题三｜原子均势向软件世纪演进要求以人工智能与非对称算法重构战略威慑
+> **探讨维度　技术形态转型与威慑[[Paradigm|范式]]重塑** 探讨战场决胜中枢由重型硬件向算法软件转移的历史进程，以及如何在新世纪重筑长和平防线。
 
 > [!claim] Karp, A. C. & Zamiska, N. W.
 > **从核均势走向算法[[Hard Power|硬实力]]威慑** 原子时代正在终结，软件世纪已经全面降临。在现代战场上，软件已跃升为指挥决策中枢，传统动能硬件退化为执行载体。维系未来大国长和平的基石，不再仅仅是静态的核武库，而是由战场大模型、[[Autonomous Drone Swarms|自主无人机蜂群]]与边缘算法构成的新型[[AI Deterrence|人工智能威慑]]体系。民主政体唯有发起面向实战 AI 的新[[Manhattan Project|曼哈顿工程]]，方能延续长和平的历史纪录。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 44–47)]]

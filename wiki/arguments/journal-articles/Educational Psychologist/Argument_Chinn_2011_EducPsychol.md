@@ -60,7 +60,7 @@ sources:
   - "[[sources/Chinn_2011_EducPsychol|Chinn_2011_EducPsychol]]"
 status: draft
 created: 2026-08-17
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Chinn_2011_EducPsychol"
@@ -119,7 +119,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一 引入认识目标与价值的必然性
+> [!claim|step] 论证步骤一 引入认识目标与价值的必然性
 > 必须将[[Epistemic Aims\|认识目标]]和[[Epistemic Value\|认识价值]]（epistemic VALUE）确立为模型的第一组件，因为它们决定了后续认知策略的选择。
 
 > [!warrant]- 哲学辩护（概念合法性）
@@ -145,7 +145,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二 解构并深化知识结构的单维连续体
+> [!claim|step] 论证步骤二 解构并深化知识结构的单维连续体
 > 知识结构的信念不能被简化为心理学现有的简单至复杂的单维连续体，必须在更细的粒度上进行多维重构。
 
 > [!warrant]- 哲学辩护（概念合法性）
@@ -170,7 +170,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三 为证词正名与[[Justificatory Standards|确证标准]]的细化
+> [!claim|step] 论证步骤三 为证词正名与[[Justificatory Standards|确证标准]]的细化
 > 将诉诸权威视为低级信念是错误的。权威应当被去污名化并概念化为证词（testimony），同时[[Justificatory Standards\|确证标准]]必须实现情境特异化。
 
 > [!warrant]- 哲学辩护（概念合法性）
@@ -201,7 +201,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤四 建立美德与恶习作为独立的动力基础
+> [!claim|step] 论证步骤四 建立美德与恶习作为独立的动力基础
 > [[Epistemic Virtues and Vices\|认识论美德与恶习]]（epistemic virtues and vices）必须被确立为框架的独立组件，构成个体是否愿意克服困难达到认识目标的性情基础。
 
 > [!warrant]- 哲学辩护（概念合法性）
@@ -233,7 +233,7 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤五 引入可靠因果过程的评价
+> [!claim|step] 论证步骤五 引入可靠因果过程的评价
 > 必须将对[[Causal Processes\|因果过程]]能否可靠达成认识目标的信念及其生效条件纳入认识论认知框架。
 
 > [!warrant]- 哲学辩护（概念合法性）

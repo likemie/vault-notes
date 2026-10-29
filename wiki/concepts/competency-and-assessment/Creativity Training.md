@@ -11,7 +11,7 @@ aliases:
 summary: "通过显性认知策略、启发式重构工具、建构主义探究环境与情境指导语，系统识别、激发与提升个体与群体创造潜能的教育教学干预方案。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 54
+related_count: 56
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -59,6 +59,8 @@ related_concepts:
   - "[[Criterion Problem]]"
   - "[[Heterogeneity]]"
   - "[[Project-Based Learning]]"
+  - "[[Dependent Variable]]"
+  - "[[Construct]]"
 related_theories:
   - "[[Creative Problem Solving]]"
   - "[[Knowledge Building Theory]]"
@@ -84,7 +86,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 > [!def] Creativity Training
@@ -252,10 +254,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　创造潜能具有高度的教育可塑性且专门教学干预在各类影响因素中效应最强
-
-> [!concept-lens] [[Creativity\|创造力]]的教育可塑性与干预效能
-> 探讨创造力究竟是不可改变的天赋特质，还是能够通过系统教学设计与认知训练获得显著提升的心理潜能。
+> [!concept-proposition] 命题一｜[[Creativity|创造潜能]]具有高度的教育可塑性且专门教学干预在各类影响因素中效应最强
+> **探讨维度　[[Creativity\|创造力]]的教育可塑性与干预效能** 探讨创造力究竟是不可改变的天赋特质，还是能够通过系统教学设计与认知训练获得显著提升的心理潜能。
 
 > [!claim] Runco et al.
 > **教育干预在各类相关因素中效应最大** [[Meta-meta-analysis\|二阶元分析]]表明，在各类与创造力相关的因素中，专门的教育教学干预与创造力呈现出最大的关联[[Effect Size\|效应量]]（$r = 0.20$, 95% [[Confidence Interval\|置信区间]] $[0.10, 0.29]$），显著超越认知相关因素（$r = 0.12$）、外认知人格动机因素（$r = 0.14$）以及人口学背景[[Variable\|变量]]（$r = 0.07$），有力证实了人类创造潜能对教育干预的高度响应性。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
@@ -268,10 +268,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　包含问题重构与评价选择的全流程复合训练效能显著优于单一技巧训练
-
-> [!concept-lens] 干预深度与全流程创造循环
-> 探讨创造力教学究竟应停留在浅层的[[Brainstorming\|头脑风暴]]构想生成技巧，还是必须涵盖从[[Problem Finding\|问题界定]]、策略生成到方案评价的完整闭环。
+> [!concept-proposition] 命题二｜包含问题重构与评价选择的全流程复合训练效能显著优于单一技巧训练
+> **探讨维度　干预深度与全流程创造循环** 探讨创造力教学究竟应停留在浅层的[[Brainstorming\|头脑风暴]]构想生成技巧，还是必须涵盖从[[Problem Finding\|问题界定]]、策略生成到方案评价的完整闭环。
 
 > [!claim] Scott et al.; Ma
 > **复合训练包的优势效应** 整合了问题发现、[[Divergent Thinking\|发散思维]]练习、概念重组启发式工具与构想评估标准的系统课程（如 [[Creative Problem Solving\|CPS]] 模型 $d = 0.74 \sim 0.77$、PCTP 方案 $d = 0.63$），其在各年龄段与不同领域的促进效应与迁移稳定性显著超越孤立单一的自由联想练习。
@@ -281,10 +279,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题三　干预周期呈现倒 U 型非线性调节规律且中短期强化干预具备最优效能
-
-> [!concept-lens] 时间跨度、认知饱和与动机疲劳调节
-> 探讨创造力干预时长并非线性越长越好，而是受到策略精熟度、动机倦怠与[[Habituation\|习惯化]]定势的非线性调节。
+> [!concept-proposition] 命题三｜干预周期呈现倒 U 型非线性调节规律且中短期强化干预具备最优效能
+> **探讨维度　时间跨度、认知饱和与动机疲劳调节** 探讨创造力干预时长并非线性越长越好，而是受到策略精熟度、动机倦怠与[[Habituation\|习惯化]]定势的非线性调节。
 
 > [!claim] Guo et al.
 > **干预周期的倒 U 型时间窗口** 多层元分析与[[Meta-regression\|元回归]]表明，干预周期在元回归中解释了 13.4% 的组间方差（$\Delta\tau = 0.074$）：$< 2$ 个月（4–8 周）的中短期训练产生最强促进效应（$g = 0.844$），构成认知策略精熟与动机维持的最佳黄金窗口；而长达数年的超长周期训练因常规化倦怠与[[Habituation\|习惯化]]定势，干预效应明显衰退甚至不显著（$< 3$ 年 $g = -0.122, p = .522$）。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 6–8)]]
@@ -294,10 +290,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题四　言语符号即时外化与独立沉思组织形式展现出最强干预增益
-
-> [!concept-lens] 教学媒介与互动形式的认知机制
-> 探讨不同教学方式（言语 vs 思维 vs 技术 vs 情绪）与组织形态（个体练习 vs 小组协作）对创造力激发的差异化效能。
+> [!concept-proposition] 命题四｜言语符号即时[[Externalization|外化]]与独立沉思组织形式展现出最强干预增益
+> **探讨维度　教学媒介与互动形式的认知机制** 探讨不同教学方式（言语 vs 思维 vs 技术 vs 情绪）与组织形态（个体练习 vs 小组协作）对创造力激发的差异化效能。
 
 > [!claim] Guo et al.
 > **言语训练与独立沉思的优势路径** 在各类干预方式中，言语训练通过口头叙述与另类用途即时表达，加速远距离语义检索并解除语义抑制，获得最高效应量（$g = 0.998$）；在组织形式上，独立个体练习（$g = 0.682$）显著优于小组协作（$g = 0.567$），证实个体深思能有效规避群体互动中的评价顾虑（Evaluation Apprehension）与生产力阻塞（Production Blocking）。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 7–9)]]
@@ -426,7 +420,7 @@ updated: 2026-10-25
 > |  |  | 观念质量 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.38"><span class="b8"></span></span>0.38 | — | — |
 > | Rose and Lin (1984) | 测验类型 | 言语 | Cohen's $d$ | — | <span class="mx-bar ef-bar" title="Cohen's d 0.58"><span class="b12"></span></span>0.58 | — | — |
 > |  |  | 图形 |  | — | <span class="mx-bar ef-bar" title="Cohen's d 0.36"><span class="b7"></span></span>0.36 | — | — |
-> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 结果变量（子构念） | 创造性思维 | Hedges' $g$ | N = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.671"><span class="b13"></span></span>0.671 | — | 构念间响应分化显著 |
+> | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | [[Dependent Variable\|结果变量]]（子[[Construct\|构念]]） | 创造性思维 | Hedges' $g$ | N = 24 | <span class="mx-bar ef-bar" title="Hedges' g 0.671"><span class="b13"></span></span>0.671 | — | 构念间响应分化显著 |
 > |  |  | 图形 |  | N = 27 | <span class="mx-bar ef-bar" title="Hedges' g 0.644"><span class="b13"></span></span>0.644 | — | — |
 > |  |  | 词汇 |  | N = 16 | <span class="mx-bar ef-bar" title="Hedges' g 0.641"><span class="b13"></span></span>0.641 | — | — |
 > |  |  | 言语 |  | N = 23 | <span class="mx-bar ef-bar" title="Hedges' g 0.606"><span class="b12"></span></span>0.606 | — | — |
@@ -454,7 +448,7 @@ updated: 2026-10-25
 > - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 干预特征（训练周期）** 呈现倒 U 型时间曲线，中短期强化干预具备最优效能
 > - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 干预特征（训练方式）** 言语符号外化与元认知策略效能最优
 > - **[[Argument_Guo_2025_TSC|Guo et al. (2025)]] · 干预特征（组织形式）** 个体深思有效规避群体评价顾虑与生产力阻塞
-> - **Scott et al. (2004) · 干预内容** 结构化教学显著优于放任型活动
+> - **Scott et al. (2004) · 干预内容** [[Structured Teaching|结构化教学]]显著优于放任型活动
 > - **Sio and Ormerod (2009) · 酝酿期任务负荷** 极端高负荷会阻碍无意识加工
 > - **[[Argument_Runco_2026_CRJ|Runco et al. (2026)]] · 关联因素类型比较** 预设分析；组间未达统计显著，但教育干预点估计最高，证实创造力具有明确可塑性
 

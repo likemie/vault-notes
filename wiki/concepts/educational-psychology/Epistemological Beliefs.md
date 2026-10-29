@@ -3,7 +3,7 @@ title: Epistemological Beliefs
 summary: "关于个体对知识本质及认知过程的假设与信念。该研究领域经历了从早期一维发展阶段模型，到 Schommer 多维独立量表，再到被重构为“认识论理论”核心四维度，以及近期被拆分为本体论与认识论认知（EOC）的演变过程。"
 type: concept
 domain: "educational-psychology"
-related_count: 46
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -15,6 +15,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Certainty of Knowledge]]"
   - "[[Wicked Problem]]"
+  - "[[Learning Strategies]]"
   - "[[Rote Learning]]"
   - "[[Variable]]"
   - "[[Metacognition]]"
@@ -25,6 +26,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Construct]]"
   - "[[Epistemological Theories]]"
+  - "[[Web-Based Learning]]"
   - "[[Disciplinary Socialization]]"
   - "[[Ontology]]"
   - "[[Generative Artificial Intelligence]]"
@@ -66,7 +68,7 @@ related_arguments:
   - "[[Argument_Lodewyk_2007_EducPsych]]"
 status: active
 created: 2026-08-13
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -76,7 +78,7 @@ updated: 2026-10-22
 
 > [!concept-lens] 概念透镜
 > - **含义** 探讨学生如何理解[[Certainty of Knowledge\|知识的确定性]]、简单性、来源以及如何为其辩护。
-> - **用途** 作为理解学生在面对[[Wicked Problem|劣构问题]]或复杂学术任务时，为何采取特定学习策略（如[[Rote Learning\|死记硬背]]或深度精加工）的关键中介[[Variable\|变量]]，并可用于预测阅读理解、[[Metacognition\|元认知]]监控和[[Academic Achievement\|学业成绩]]。
+> - **用途** 作为理解学生在面对[[Wicked Problem|劣构问题]]或复杂学术任务时，为何采取特定[[Learning Strategies|学习策略]]（如[[Rote Learning\|死记硬背]]或深度精加工）的关键中介[[Variable\|变量]]，并可用于预测阅读理解、[[Metacognition\|元认知]]监控和[[Academic Achievement\|学业成绩]]。
 > - **技术与[[Man-Computer Symbiosis|人机共生]]视界** 在数字与人工智能环境中，认识论信念调节学习者与技术交互时的信息导航与[[Cognitive Offloading\|认知卸载]]模式，且在适切[[Scaffolding\|教学支架]]下可被技术环境逆向重塑。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–361)]]
 > - **边界** 严格的认识论信念应当仅聚焦于“知识与认知本身”。它不同于隐性智力理论（如能力是否固定）或对学习难度的预期（如学习快慢）。
 
@@ -91,7 +93,7 @@ updated: 2026-10-22
 > - **20 世纪 70-80 年代 — 发展阶段论起源** Perry (1970) 等人首创对大学生认知发展历程的探究，将[[Epistemology\|认识论]]信念视为一种从二元论、多元论到相对主义的单向、结构化的发展阶段。
 > - **1990 年 — 量化与多维独立转向** Schommer (1990) 提出了“认识论信念”量表（Epistemological [[Questionnaire]]），打破了阶段论假设，主张个体的认识论信念由多个相互独立的维度构成，开辟了大规模[[Quantitative Research\|量化研究]]。
 > - **1997 年 — 理论重构阶段** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 系统梳理了过往六大模型，剔除了诸如固定智力等非纯粹的认识论维度，提炼出四大核心共性维度，并倡导将该[[Construct\|构念]]升级为更具内部连贯性的“[[Epistemological Theories\|认识论理论]]（epistemological theories）”。
-> - **2004 年 — 网络学习环境与信念双向重塑假说** [[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai）系统提出网络环境认识论信念假说，指出认识论信念不仅调节网络信息搜寻策略，开放的超媒体环境在支架引导下更能逆向重塑个体的认识论信念。
+> - **2004 年 — [[Web-Based Learning|网络学习]]环境与信念双向重塑假说** [[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai）系统提出网络环境认识论信念假说，指出认识论信念不仅调节网络信息搜寻策略，开放的超媒体环境在支架引导下更能逆向重塑个体的认识论信念。
 > - **2007 年 — 大规模纵向追踪与因果/社会化检验** [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] 基于德国 [[TOSCA]] 追踪数据，通过结构方程模型证实知识确定性信念在控制智力与家庭背景后仍能显著独立预测[[Academic Achievement\|学业成就]]，并揭示了学科选择中的自我选择与大学[[Disciplinary Socialization\|学科社会化]]双重机制。
 > - **2008-2010 年 — 阶段论与维度论的整合与重定** Greene et al. 提出整合性的 [[Epistemic and Ontological Cognition\|EOC]] 模型，将对“[[Certainty of Knowledge\|知识的确定性]]与简单性”的信念重新界定为“[[Ontology\|本体论]]认知”（ontological cognition），并通过[[Factor Mixture Modeling\|因子混合模型]]将独立维度的测量分数成功聚类回个人的认知发展阶段中。
 > - **2021 年 — [[Meta-analysis\|元分析]]证实聚焦证据确证模型的干预优势** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 通过认识论干预元分析证实，基于多维信念模型与证据协调等聚焦知识本质与确证机制的现代模型干预能产生中等以上提分效果（$d \approx 0.63$），而基于 Schommer 宽泛认知信念模型的干预则无显著效果（$d = 0.185$），为构念边界净化提供了因果实证支持。
@@ -115,10 +117,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　个体认识论假设是由多个相对独立的维度构成的连续体
-
-> [!concept-lens] 多维独立性与量表测量
-> 探讨个体的[[Epistemology\|认识论]]信念是否必须同步发展，以及能否通过量化工具独立预测[[Academic Achievement\|学业表现]]。
+> [!concept-proposition] 命题一｜个体[[Epistemology|认识论假设]]是由多个相对独立的维度构成的连续体
+> **探讨维度　多维独立性与量表测量** 探讨个体的[[Epistemology\|认识论]]信念是否必须同步发展，以及能否通过量化工具独立预测[[Academic Achievement\|学业表现]]。
 
 > [!claim] Schommer (1990)
 > **独立维度假说与学业预测** 个体的各项认识论假设不必是整合在同一阶段的结构，而是可以在某些信念维度上显得成熟，而在其他维度上保持幼稚。这种不均衡分布能够通过量表进行测量。基于此主张，Schommer 提出了包含以下独立维度的测量模型：
@@ -132,40 +132,32 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　个体的认识论信念不仅是离散的维度，而是具有解释力的“个人理论”
-
-> [!concept-lens] 维度的连贯互构
-> 探讨各个认识论维度之间是否存在内在逻辑关联，以及它们如何构成一个指导认知的整体框架。
+> [!concept-proposition] 命题二｜个体的认识论信念不仅是离散的维度，而是具有解释力的“个人理论”
+> **探讨维度　维度的连贯互构** 探讨各个认识论维度之间是否存在内在逻辑关联，以及它们如何构成一个指导认知的整体框架。
 
 > [!claim] [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]
 > **理论连贯性主张** 个体的认识论信念并非像 Schommer 宣称的那样完全相互独立。相反，基于 Wellman 等人关于“什么是理论”的判定标准，如果一个人在“确定知识”维度上持有幼稚观点（认为知识绝对对错），那么他极有可能在“知识来源”维度上也持有幼稚观点（认为知识由权威传授）。这种内在的强关联性证明，各项维度之间是连贯互构的。因此，这些信念构成了指导他们认知世界的一套连贯的“个人理论（personal theories）”，而不是一组零散的观念集合。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 117-118)]]
 
 ---
 
-### 命题三　认识论信念应与本体论认知相区分，并具有发展阶段的类属性
-
-> [!concept-lens] 维度整合与[[Domain Specificity\|领域特殊性]]
-> 探讨如何将多维独立信念重新整合为发展阶段，并在不同学科之间体现出差异。
+> [!concept-proposition] 命题三｜认识论信念应与[[Ontology|本体论认知]]相区分，并具有发展阶段的类属性
+> **探讨维度　维度整合与[[Domain Specificity\|领域特殊性]]** 探讨如何将多维独立信念重新整合为发展阶段，并在不同学科之间体现出差异。
 
 > [!claim] [[Argument_Greene_2010_JEP\|Greene et al. (2010)]]
 > **多维阶段融合模型与领域特殊性** Greene et al. 提出整合性的[[Epistemic and Ontological Cognition\|认识论与本体论认知]]（[[Epistemic and Ontological Cognition\|EOC]]）模型，认为“[[Simplicity of Knowledge\|知识的简单性]]与确定性”属于[[Ontology\|本体论]]层面的分类，而“辩护方式”属于认识论层面。同时，借助量化的多维度测量与[[Factor Mixture Modeling\|因子混合模型]]聚类，可以识别出个体的特定信念组合档案，从而映射出其所处的发展阶段（现实主义者、教条主义者、怀疑论者、理性主义者）。研究还证实，认识论发展并非绝对领域一般性，个体在劣构领域（如历史）中的认知往往先于良构领域（如数学）发展。[[Argument_Greene_2010_JEP\|(Greene et al., 2010, pp. 245-247)]]
 
 ---
 
-### 命题四　聚焦知识本质与确证机制的现代认识论干预显著优于宽泛的学习特质信念
-
-> [!concept-lens] 理论模型指导干预的因果分野
-> 探讨指导教学设计的[[Epistemological Theories\|认识论理论]]框架如何实质调节对学业成就的促进成效。
+> [!concept-proposition] 命题四｜聚焦知识本质与确证机制的现代认识论干预显著优于宽泛的学习特质信念
+> **探讨维度　理论模型指导干预的因果分野** 探讨指导教学设计的[[Epistemological Theories\|认识论理论]]框架如何实质调节对学业成就的促进成效。
 
 > [!claim] Cartiff, B. M.
 > **[[Construct\|构念]]纯化与理论模型干预效能分野** 在[[Epistemic Cognition\|认识论认知]]干预的一阶[[Meta-analysis\|元分析]]中，基于不同理论模型的干预方案在学业产出上存在显著分野。以 [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 多维信念模型（$d = 0.625$）以及 Kuhn / Barzilai 发展协调模型（$d = 0.633$）为指导的教学干预，能够带来中等至大程度的稳健学业增益；相反，基于 Schommer (1990) 宽泛认知信念模型（混入了固定能力、快速学习等非认识论特质）的干预方案，平均[[Effect Size\|效应量]]仅为 $d = 0.185$（未达[[Statistical Significance\|统计显著性]]）。这一因果证据从实践干预维度有力确证了 Hofer 和 Pintrich 的理论主张：只有将认识论信念严格聚焦于“知识的本质”与“辩护来源”（而非泛化的学习意志力或智力特质），教学干预才能精准激活学生的深度证据检验与论证推理能力。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 486, 492)]]
 
 ---
 
-### 命题五　技术中介与人工智能交互中认识论信念的调节与逆向重塑机制
-
-> [!concept-lens] 数字化与[[Man-Computer Symbiosis|人机共生]]学习情境
-> 探讨学习者的认识论信念如何调节其在数字化与智能中介环境中的认知策略，以及技术环境如何反向驱动认识论信念演进。
+> [!concept-proposition] 命题五｜技术中介与人工智能交互中认识论信念的调节与逆向重塑机制
+> **探讨维度　数字化与[[Man-Computer Symbiosis|人机共生]]学习情境** 探讨学习者的认识论信念如何调节其在数字化与智能中介环境中的认知策略，以及技术环境如何反向驱动认识论信念演进。
 
 > [!claim] Tsai & Wu et al.
 > **认识论信念在技术环境中的双向互动机制** 学习者对知识本质与来源的认识论信念在数字与[[Generative Artificial Intelligence\|生成式人工智能]]环境中展现出双向互动规律：
@@ -190,7 +182,7 @@ updated: 2026-10-22
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预指导理论 | Kuhn 与 Barzilai 发展协调模型 | Cohen's $d$ | k = 5, N = 396 | <span class="mx-bar ef-bar" title="Cohen's d 0.633"><span class="b13"></span></span>0.633 | [0.293, 0.973] | — |
 > |  | 干预指导理论 | Hofer 与 Pintrich 多维信念模型 | Cohen's $d$ | k = 10, N = 1,736 | <span class="mx-bar ef-bar" title="Cohen's d 0.625"><span class="b12"></span></span>0.625 | [0.251, 1.000] | — |
@@ -202,7 +194,7 @@ updated: 2026-10-22
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预指导理论** 聚焦确定性、简单性、来源与辩护四维度
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预指导理论** 整合[[Ontology\|本体论认知]]与多文本任务认知
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预指导理论** 关注微观认知资源，但效应[[Confidence Interval\|置信区间]]跨零
-> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预指导理论** 关注劣构问题的[[Reflexivity\|反思性]]判断层级
+> - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预指导理论** 关注[[Wicked Problem|劣构问题]]的[[Reflexivity\|反思性]]判断层级
 > - **[[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] · 干预指导理论** 混入固定能力与快速学习等特质，未达统计显著
 
 > [!ref-table]- 其他实证结果

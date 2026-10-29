@@ -6,7 +6,7 @@ aliases:
 summary: "在认识论认知模型中，个体对特定认识成就（如深层机制理解、理论建构或实操技巧）所赋予的相对主观价值与意义评估，决定了探究资源与认知努力的分配。"
 type: concept
 domain: "educational-psychology"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Axiology]]"
   - "[[Epistemic Cognition]]"
+  - "[[Learning Strategies]]"
   - "[[Variable]]"
   - "[[Pragmatic Paradigm]]"
 related_persons:
@@ -34,7 +35,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -87,20 +88,16 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　认识论价值是决定探究目标确立与深层认知投入的核心决策函数
-
-> [!concept-lens] 价值对目标确立与努力投入的决定机制
-> 探讨个体为何在面对复杂知识时产生不同的参与深度，揭示[[Epistemology\|认识论]]价值对高成本认知策略的驱动机制。
+> [!concept-proposition] 命题一｜[[Epistemology|认识论]]价值是决定探究目标确立与深层认知投入的核心决策函数
+> **探讨维度　价值对目标确立与努力投入的决定机制** 探讨个体为何在面对复杂知识时产生不同的参与深度，揭示[[Epistemology\|认识论]]价值对高成本认知策略的驱动机制。
 
 > [!claim] [[Clark A. Chinn\|Chinn, C. A.]] et al.
 > **价值权衡驱动认知投入** 学习者是否采纳指向深层理解的[[Epistemic Aims\|认识目标]]，取决于其对该认知成就所赋予的认识论价值是否足以抵消高昂的认知努力与试错成本。若学生未能体会到因果机制理解的知性价值，即便其具备反思能力，也会因成本收益不划算而策略性选择表层应对；唯有通过课堂教学凸显深度理解的认识论价值，才能激发个体持续承担探究负荷。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 145–147)]]
 
 ---
 
-### 命题二　学科认识论价值的多样性规范塑造了领域特异的探究实践规范
-
-> [!concept-lens] 价值规范的学科文化与领域依附维度
-> 考察学术共同体的价值取向如何形塑具体学科的方法偏好与评价准则。
+> [!concept-proposition] 命题二｜学科认识论价值的多样性规范塑造了领域特异的探究实践规范
+> **探讨维度　价值规范的学科文化与领域依附维度** 考察学术共同体的价值取向如何形塑具体学科的方法偏好与评价准则。
 
 > [!claim] Chinn, C. A. et al.
 > **共同体价值形塑学科规范** 认识论价值不仅存在于个体心智中，更体现为特定学科共同体的文化规范。不同的学科对何种认识产出具有高价值持有不同判据：某些领域珍视高度抽象的数学模型，另一些领域则赋予精湛的实验操作规程与野外标本鉴别以崇高价值。理解学科特定的认识论价值，是学习者融入学科探究文化与形成专业[[Epistemic Agency\|认识主体性]]的核心前提。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 146)]]
@@ -117,7 +114,7 @@ updated: 2026-10-22
 
 > [!dev-timeline] 概念演变
 > - **1986–2003 — 哲学[[Axiology\|价值论]]探讨** Goldman (1986) 与 Kvanvig (2003) 探讨重大真理与深层理解在[[Epistemology\|认识论]]中的内在价值，确立了认识论价值作为认知哲学范畴的合法性。
-> - **2011 — 纳入扩展[[Epistemic Cognition\|认识论认知]]构件** Chinn 等学者将认识论价值与[[Epistemic Aims\|认识目标]]结合并列，作为解释学习策略选择与学科文化差异的关键心理与哲学[[Variable\|变量]]。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
+> - **2011 — 纳入扩展[[Epistemic Cognition\|认识论认知]]构件** Chinn 等学者将认识论价值与[[Epistemic Aims\|认识目标]]结合并列，作为解释[[Learning Strategies|学习策略]]选择与学科文化差异的关键心理与哲学[[Variable\|变量]]。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 > - **2014至今 — 与科学实践及[[Epistemic Agency\|认识主体性]]融合** 认识论价值逐渐与学科探究共同体协商、科学建模实践及培育边缘群体的认识主体性深度融合，成为科学文化育人的重要视角。
 
 ---

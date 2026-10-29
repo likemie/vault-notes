@@ -10,7 +10,7 @@ aliases:
 summary: "发生在传统学校课堂之外、具有自愿性与情境化的科学学习形态，涵盖科技馆、探索中心与公民科学。既是维系公民科学素养的文化基建，也是国家微电子等战略产业开展早期启蒙、破除认知盲区并培育多元人才池的先导阵地。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Socioeconomic Status]]"
   - "[[Praxis]]"
+  - "[[Document]]"
   - "[[Engineering Education]]"
   - "[[Apprenticeship]]"
   - "[[Curiosity-Driven Research]]"
@@ -63,7 +64,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -122,40 +123,32 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　非正式科学学习构成现代社会必不可少的社会与文化基础设施
-
-> [!concept-lens] 基础设施定位与公共品属性
-> 科学参与不仅是教育部门的内部事务，更是与公共图书馆、城市绿地和艺术场馆并列的核心公共品。
+> [!concept-proposition] 命题一｜非正式科学学习构成现代社会必不可少的社会与文化基础设施
+> **探讨维度　基础设施定位与公共品属性** 科学参与不仅是教育部门的内部事务，更是与公共图书馆、城市绿地和艺术场馆并列的核心公共品。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026, pp. 48, 52)]]
 > **社会文化基础设施定位与制度性保障** 科学探索中心、博物馆、科学节与在地化社区项目共同构成了区域创新与社会凝聚的文化网络；若任由其在财政紧缩与运营成本激增中萎缩，将不可逆地加剧边缘社区的文化排斥与科学疏离。国家必须在政府采购中纳入 10% 社会价值条款，并落实比照文化艺术部门同等的财税激励平权。
 
 ---
 
-### 命题二　非正式科学参与的育人效能具有跨生命周期的长期累积性与公平补偿价值
-
-> [!concept-lens] 累积效应与资本重塑
-> 单次场馆参观看似微小，但贯穿一生的多次积极科学遭遇能够深度重塑个体的科学认同（Science Identity）。
+> [!concept-proposition] 命题二｜非正式科学参与的育人效能具有跨生命周期的长期累积性与公平补偿价值
+> **探讨维度　累积效应与资本重塑** 单次场馆参观看似微小，但贯穿一生的多次积极科学遭遇能够深度重塑个体的科学认同（Science Identity）。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026, pp. 50–52)]]
 > **全周期累积效应与国家长期队列追踪** 伦敦大学学院（UCL）ASPIRES 等纵向追踪表明，学校教育与非正式学习的有机协同对弥合低[[Socioeconomic Status|社会经济地位]]家庭的[[Science Capital\|科学资本]]匮乏具有不可替代的补偿作用；单一场馆的孤立测评无法捕捉其终身影响，亟需由国家学术院联合资助方发起跨越数十年的国家长期队列[[Cohort Study\|追踪研究]]。
 
 ---
 
-### 命题三　以社区为中心的在地化平权项目能够有效打破自选受众壁垒与阶层文化排斥
-
-> [!concept-lens] 空间与阶层平权机制
-> 传统场馆的高昂门票与精英表达容易导致受众自选（Self-selecting audiences），必须通过资源下沉与社区共创实现包容。
+> [!concept-proposition] 命题三｜以社区为中心的在地化平权项目能够有效打破自选受众壁垒与阶层文化排斥
+> **探讨维度　空间与阶层平权机制** 传统场馆的高昂门票与精英表达容易导致受众自选（Self-selecting audiences），必须通过资源下沉与社区共创实现包容。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026, p. 43)]]
 > **打破自选壁垒与社区自主赋权** 无论是国家级顶级化石巡展（[[Dippy on Tour]] 在弱势地区实现 84% 首次访客率），还是将资助直接授予草根团体的社区科研基金（The Ideas Fund），均证明将科研主导权与文化资源下沉到在地社区，是打破高科学资本精英垄断的最有效路径。（Haywood & Moussouri, 2017; Dawson, 2019）
 
 ---
 
-### 命题四　关键战略产业早期认知引导与微电子非正式科普生态构建
-
-> [!concept-lens] 战略产业认知启蒙与人才管道源头拓展
-> 探讨如何通过校外非正式科学网络打破前沿高精尖制造业的“隐形黑箱”，激发多元青少年对微电子领域的早期抱负。
+> [!concept-proposition] 命题四｜关键战略产业早期认知引导与微电子非正式科普生态构建
+> **探讨维度　战略产业认知启蒙与人才管道源头拓展** 探讨如何通过校外非正式科学网络打破前沿高精尖制造业的“隐形黑箱”，激发多元青少年对微电子领域的早期抱负。
 
 > [!claim] [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
 > **微电子公众科普与多元职业通路引导** [[National Science and Technology Council|国家科学技术委员会]]（National Science and Technology Council, NSTC）在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》第三目标（Goal 3, 3.2 节）中指出，半导体产业长期受困于“隐形产业”（Invisible Industry）的公众认知盲区，K-12 阶段学生与家长对芯片制造与硬件工程缺乏具身体验。战略提出系统激活全美非正式科学教育网络（National Informal [[STEM Education]] Network, NISE Network）、各地科技馆（Science Museums）、探索中心及创客空间（Maker Spaces）：通过开发晶圆动手加工互动模型、微纳超净室虚拟现实漫游体验、芯片微缩科学秀与青年挑战赛，将高门槛的深科技概念转化为可感知的探究式游戏；打破芯片制造仅属于“少数顶尖名校博士”的精英刻板印象，向早期青少年及历史代表性不足群体（Underrepresented Groups）普及半导体操作员、设备技师与工艺工程师的职业通路，从源头拓展国家硬科技人才蓄水池。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 34–35)]]
@@ -163,7 +156,7 @@ updated: 2026-10-26
 ---
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | [[Praxis\|实践]]机制与政策含义 | 关键来源 / 代表文献 |
+> | 命题类型 | 核心指向 | [[Praxis\|实践]]机制与政策含义 | 关键来源 / 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **社会文化基础设施** | 超越课堂补充，确立为支撑社区繁荣的核心公共品 | 政府采购 10% 社会价值，落实财税平权与长期战略基金 | The British Academy (2026); [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026)]] |
 > | **长期累积与公平补偿** | 贯穿全生命周期的多次积极科学遭遇累积科学资本 | 推广 GLOs 框架，发起国家级长期队列追踪研究 | UCL ASPIRES (2025); 同上 |

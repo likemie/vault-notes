@@ -71,6 +71,7 @@ related_persons:
   - "[[René Descartes]]"
   - "[[Lev Vygotsky]]"
 related_facts:
+  - "[[ASEAN Credit Transfer System]]"
   - "[[CREATES Project]]"
 related_arguments: []
 sources:
@@ -78,14 +79,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-22
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Naeem_2026_Episteme"
 argument_key: "Argument_Naeem_2026_Episteme"
 argument_display_title: "Teaching skills and intellectual virtues with generative AI"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 47
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -198,10 +199,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　[[Generative Artificial Intelligence|生成式人工智能]]直接输出答案会剥夺认知挣扎，导致学生的思维机能与创造力发生双重去技能化
+> [!claim|step] 论证步骤一　[[Generative Artificial Intelligence|生成式人工智能]]直接输出答案会剥夺认知挣扎，导致学生的思维机能与创造力发生双重去技能化
 > 教育的根本目的在于锤炼学生生物机体固有的认知能力、传授智力技能并养成[[Epistemic Virtues and Vices|理智美德]]；不加节制地使用生成式 AI 直接获取答案会彻底绕过必要的认知挣扎，引发内生思维机能萎缩与集体创意同质化的双重[[Cognitive Deskilling|去技能化]]危机。
 
-#### 1. 教育的核心在于发展学生自身的思维机能，外部技术若直接代劳答案便沦为让心智萎缩的拐杖
+> [!sub-claim] 1. 教育的核心在于发展学生自身的思维机能，外部技术若直接代劳答案便沦为让心智萎缩的拐杖
 
 > [!goal] 教育的三重[[Epistemic Aims|认识论目标]]层次
 > - **内生认知机能（Onboard Cognitive Abilities）**
@@ -225,7 +226,7 @@ issuing_organization: ""
 > | **[[Value Neutrality\|价值中立]]性** | 具有高度的工具性与价值中立性；缺乏求真动机的人完全可以运用高超的逻辑辩论技能去诡辩、误导公众或服务于欺骗。 | 具有内在规范性与求真指向；主体必须出于对真理与理解的真诚热爱而行动，无法被恶意挪用而不失其美德属性。 |
 > | **二者依存关系** | 可以脱离理智美德而独立存在；一个人可以拥有卓越技能却品格恶劣。 | **必须建立在熟练的智力技能基础之上**；缺乏基本的分析与论证技能，空有求真热情无法达成真正的美德行为。 |
 
-#### 2. 大脑认知机能遵循用进废退规律，长期把构思与写作外包给算法会导致独立推理能力退化
+> [!sub-claim] 2. 大脑认知机能遵循用进废退规律，长期把构思与写作外包给算法会导致独立推理能力退化
 
 > [!case] 思想实验：钢琴家技能退化隐喻与内生认知萎缩
 > 假设有一位从小接受极其严苛音乐训练、琴艺精湛绝伦的钢琴演奏家。如果这位演奏家因某种原因连续数年完全停止弹奏钢琴，他的演奏技能便不可能保持原样；由于长期缺乏实际弹奏练习，其手指的灵敏度、指尖的触键感知、手眼神经协调以及肌肉记忆都将发生无可挽回的衰退。
@@ -240,7 +241,7 @@ issuing_organization: ""
 > - **内生认知机能的用进废退退化**
 >   长期回避高认知负荷训练，使学生自身脱离算法后无法独立组织严密的长篇学术论证，形成严重的工具依附。
 
-#### 3. 把创意构思外包给算法不仅削弱个人的原创信心，更会导致整个群体的想法高度雷同与平庸
+> [!sub-claim] 3. 把创意构思外包给算法不仅削弱个人的原创信心，更会导致整个群体的想法高度雷同与平庸
 
 > [!def] 创造力的本质与去技能化机理
 > 玛格丽特·博登（Margaret Boden, 1998, 2004）将创造力界定为认识主体生成新颖且有价值可能性的能力（The ability to generate novel and valuable possibilities）。纳伊姆指出，创造力并非神秘不可解的天赋，而是一种深植于认知加工过程的智力能力与理智美德，同样遵循刻意练习与用进废退的机体发展规律。若一开始就将灵感发散外包给算法，学生将丧失在未知中试错探索的心理体验，削弱原创自信。
@@ -263,10 +264,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　将人工智能改造为拦截直接答案的提问导师，能引导学生在追问中把新知识融入个人经验并实现深层理解
+> [!claim|step] 论证步骤二　将人工智能改造为拦截直接答案的提问导师，能引导学生在追问中把新知识融入个人经验并实现深层理解
 > 人工智能绝不应被用作答案输出机，而必须重塑为严格拦截直接答案、以双模态交互训练提问技能的提问导师（Q-Tutor）；通过从事实检索向因果反思的问题序列演进，促使学生将新概念与独特个人生活经验深度交织，从而把握解释性关联并达成深层理解。
 
-#### 1. 善于提问是驱动自主探究的核心技能，但现有的教育大模型和辅导系统大多只会直接给出答案
+> [!sub-claim] 1. 善于提问是驱动自主探究的核心技能，但现有的教育大模型和辅导系统大多只会直接给出答案
 
 > [!def] 提问技能的核心界定与通衢功能（Watson, 2018）
 > 拉尼·沃森（Lani Watson, 2018）将提问技能严谨界定为：“在正确的时间，向正确的对象，提出正确的问题，以获取相关且有价值的信息（Asking the right questions, at the right time, to the right person to elicit relevant and worthwhile information）”。它具有三重核心属性：
@@ -282,7 +283,7 @@ issuing_organization: ""
 > - **谷歌教育模型 LearnLM 的教学法困境（Jurenka et al., 2024）**
 >   谷歌研发的 LearnLM 系列模型尝试通过微调使 AI 引导学生自行推导答案；然而研发团队报告指出，由于缺乏明确针对不同学段与学科的系统教学法，模型极难在多轮对话中稳定维持启发状态，经常退化为机械提示。
 
-#### 2. 提问导师必须硬性拦截现成答案，并在示范提问与辅导学生提问的双模态中训练探究技能
+> [!sub-claim] 2. 提问导师必须硬性拦截现成答案，并在示范提问与辅导学生提问的双模态中训练探究技能
 
 > [!proc] Q-Tutor 系统的核心交互规程与双模态架构
 > 1. **直接答案拦截规则（Direct Answer Interception Rule）**
@@ -306,7 +307,7 @@ issuing_organization: ""
 > - **维系探究生态的真实性**
 >   使人机对话始终保持鲜活、真实与[[Presence|沉浸感]]，让儿童体验到思维被倾听、被拓展的智力愉悦。
 
-#### 3. 真正的理解在于看清事物背后的因果关联，借助生活经验把抽象概念转化为个人知识
+> [!sub-claim] 3. 真正的理解在于看清事物背后的因果关联，借助生活经验把抽象概念转化为个人知识
 
 > [!def] 深层理解的[[Epistemology|认识论]]本质：把握解释性关联
 > 邓肯·普里查德（Pritchard, 2009）与费代丽卡·马尔法蒂（Federica Malfatti, 2025）阐明，理解超越了孤立命题知识的[[Rote Learning|机械记忆]]，其本质在于**把握解释性关联（Grasping Explanatory Connections）**——即认识主体能够清晰洞悉知识碎片在整体逻辑网络中是如何相互衔接、因果支撑并提供系统解释的。
@@ -333,10 +334,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　借助心理治疗式对话赋予学生思想自主权，并通过兴趣故事唤起[[Intellectual Emotions|理智情感]]以培育理智美德
+> [!claim|step] 论证步骤三　借助心理治疗式对话赋予学生思想自主权，并通过兴趣故事唤起[[Intellectual Emotions|理智情感]]以培育理智美德
 > 理智美德的养成要求操作性智力技能与对真理的内在热爱高度统一；Q-Tutor 必须摒弃[[Plato|柏拉图]][[Socrates|苏格拉底]][[Meno|回忆说]]的诱导式预设，转向心理治疗式的自主意义建构以确立学生的作者权；进一步依托贴合学生具体兴趣的拟人化叙事模式唤起好奇与着迷等[[Intellectual Emotions|理智情感]]，方能促使提问技能最终升华为思想开放与理智创造力等稳定的理智美德。
 
-#### 1. 人机对话应借鉴心理治疗而非苏格拉底的预设引导，让学生在开放启发中确立对思想的自主作者权
+> [!sub-claim] 1. 人机对话应借鉴心理治疗而非苏格拉底的预设引导，让学生在开放启发中确立对思想的自主作者权
 
 > [!critique] 柏拉图[[Meno|《美诺篇》]]苏格拉底问答法的预设局限
 > 在[[Meno|《美诺篇》]]（*Meno*）中，苏格拉底通过连续追问引导童奴推导出几何定理，以此证明灵魂先验知晓真理的回忆说（Theory of Recollection）。纳伊姆指出其核心认识论缺陷：**苏格拉底心中始终预设了唯一的标准答案**。其提问属于收敛性诱导修辞，旨在把学生强力拉入预设的认知轨道，压抑了学生自由探索多元解释的可能。
@@ -354,7 +355,7 @@ issuing_organization: ""
 > - **双重创造力的阶梯式贯通**
 >   儿童不仅在当下实现个人层面的新颖性（Psychological Creativity, P-creativity，产生对自身而言全新的见解），更为未来跨越至人类历史层面的新颖性（Historical Creativity, H-creativity，产生推动文明进步的创见）筑牢了心智基石。（Boden, 1998; p. 281）
 
-#### 2. 强制要求多元解释与设想反事实情境，能促使学生跳出思维定势并养成思想开放与创造力
+> [!sub-claim] 2. 强制要求多元解释与设想反事实情境，能促使学生跳出思维定势并养成思想开放与创造力
 
 > [!contrast-table] Q-Tutor 针对思想开放与理智创造力的技能训练支架
 > | 培养目标 | 针对的核心思维弱点 | Q-Tutor 的具体追问机制与设计规范 |
@@ -368,7 +369,7 @@ issuing_organization: ""
 > 3. **非人具身认知视角转换** “**假若你此刻突然[[Avatar|化身]]为一只在花园中飞舞的蝴蝶，你会如何看待身边的花朵与世界？你会做出什么行为？（What would you do if you were a butterfly?）**”
 > 4. **[[René Descartes|笛卡尔]]式怀疑主义认识论反思** “**假若你的大脑在此时此刻实际上正在熟睡并做着一场无比真实的梦，你该如何证明你现在是清醒的？（What if your brain is dreaming right now?）**”
 
-#### 3. 提问技能本身不等于求真品格，结合学生兴趣的拟人故事能唤起好奇与着迷等理智情感以促成美德内化
+> [!sub-claim] 3. 提问技能本身不等于求真品格，结合学生兴趣的拟人故事能唤起好奇与着迷等理智情感以促成美德内化
 
 > [!tension] 技能熟练度与求真动机的[[Ontology|本体论]]分离
 > - **技能中立与恶德风险（蓝方立场）**
@@ -401,7 +402,7 @@ issuing_organization: ""
 > - **机制三：积极情感体验实现求真动机内化** 探索过程中获得的理智愉悦消解了功利主义应试心态，促使学生将对具体故事的着迷升华为对探索未知与发现真理本身的持久热爱。
 > - **结论：思想开放与创造力等理智美德的稳固确立** 熟练的底层提问技能与纯粹的求真动机实现深度统一，最终沉淀为不受外界诱惑动摇的健全理智品格。
 
-#### 4. 人工智能虽无真实意识却能在功能上生动示范美德行为，其育人效果可通过长程实证测量加以验证
+> [!sub-claim] 4. 人工智能虽无真实意识却能在功能上生动示范美德行为，其育人效果可通过长程实证测量加以验证
 
 > [!debates] 关于人工智能参与美德品格教育的哲学反思与辩驳
 >
@@ -439,7 +440,7 @@ issuing_organization: ""
 > [!citation-card] [[Skill of Questioning|善于提问技能]]对把握解释性关联与深层理解的建构功能
 > 善于提问能够开启更深层次的理解。所谓理解，意味着把握解释性关联——即能够看清各个知识片段是如何以一种连贯且具解释力的方式有机拼合在一起的。善于提问宛如一束聚光灯，照亮了学生正在努力领会的概念的多元维度。它推动学生超越浮于表面的事实信息，去深度探寻观念背后的为什么与如何发生。
 >
-> *Learning how to question well unlocks deeper levels of understanding. Understanding means grasping explanatory connections – the ability to see how pieces of information fit together in a coherent and explanatory way. Questioning well acts like a spotlight, illuminating different angles of a concept students are trying to grasp. It helps students move beyond surface-level facts to explore the ‘why’ and ‘how’ behind ideas.*
+> *Learning how to question well unlocks deeper levels of understanding. Understanding means grasping explanatory connections – the ability to see how pieces of information fit together in a coherent and explanatory way. Questioning well [[ASEAN Credit Transfer System|acts]] like a spotlight, illuminating different angles of a concept students are trying to grasp. It helps students move beyond surface-level facts to explore the ‘why’ and ‘how’ behind ideas.*
 
 > [!citation-card] 超越[[Socrates|苏格拉底]]几何诱导：心理治疗师对话模型与思想作者权
 > 我认为我们应当将提问导师的对话风格塑造成心理治疗师的模样（而不是照搬苏格拉底）。心理治疗师探讨我们情绪与生活事件的方式，在于启发我们得出属于自己的深层理解……这种方式极其有效，因为我们所找到的答案深深植根于我们个人的信念系统，以及我们在具体生活情境中与新见解所建立的独一无二的联结。以心理治疗师风格交流的生成式人工智能，能够真正激励学生萌生独创性的新思想。

@@ -9,7 +9,7 @@ aliases:
 summary: "贯穿微电子系统从底层材料、电路设计、晶圆制造、异构封装到现场部署全生命周期的安全防护学科与工程实践，旨在防范硬件木马、物理侧信道攻击、逆向工程、供应链伪造与篡改，并在架构根基处建立可度量验证的零信任硬件信任根。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Screening Off]]"
   - "[[Electronic Design Automation]]"
+  - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Variable]]"
 related_theories: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -97,20 +98,16 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　硬件安全是构建主权可信计算底座与国家安全系统的基石
-
-> [!concept-lens] 信任根基与国家安全保障
-> 围绕现代关键基础设施对微电子器件的深度依赖，探讨物理层安全对国防、能源与通信系统的决定性作用。
+> [!concept-proposition] 命题一｜硬件安全是构建主权可信计算底座与国家安全系统的基石
+> **探讨维度　信任根基与国家安全保障** 围绕现代关键基础设施对微电子器件的深度依赖，探讨物理层安全对国防、能源与通信系统的决定性作用。
 
 > [!claim] [[National Science and Technology Council|NSTC]]
 > **硬件信任作为不可替代的安全锚点** 现代信息系统的信任链条自底向上层层建立，任何上层软件加密与协议防御都建立在底层硬件真实可靠的假设之上。如果微电子硬件本身被植入恶意逻辑或存在物理漏洞，敌对势力便可在毫无软件日志痕迹的情况下窃取核心机密或瘫痪整个系统。因此，必须将硬件安全确立为最高优先级的国家战略技术基石。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 3, 10, 18–19)]]
 
 ---
 
-### 命题二　全生命周期安全协同设计是破解非可信全球供应链风险的必然选择
-
-> [!concept-lens] 供应链全球化与非可信制造环境
-> 围绕半导体代工与封装环节高度离岸化的现实，探讨如何在不可信制造环境下保证终端芯片的绝对安全。
+> [!concept-proposition] 命题二｜全生命周期安全[[Co-Design|协同设计]]是破解非可信全球供应链风险的必然选择
+> **探讨维度　供应链全球化与非可信制造环境** 围绕半导体代工与封装环节高度离岸化的现实，探讨如何在不可信制造环境下保证终端芯片的绝对安全。
 
 > [!claim] NSTC
 > **设计端内生免疫化解制造端外部风险** 面对全球化代工与复杂外包分工带来的潜在供应链安全风险，单纯依靠事后抽样破坏性检测无法实现全面防御。必须依托全栈[[Co-Design|协同设计]]（Co-Design）思想，在前端设计中嵌入轻量级自鉴权模块、混淆逻辑与零信任验证协议，使芯片即使在不受信任的海外代工厂生产，也能在最终封装与激活阶段抵御篡改与木马激活。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 13, 18–19)]]
@@ -118,7 +115,7 @@ updated: 2026-10-22
 ---
 
 > [!contrast-table] 硬件安全核心命题概览
-> | 命题方向 | 核心论断 | 技术与政策意涵 | 代表文献 |
+> | 命题方向 | 核心论断 | 技术与政策意涵 | 代表[[Document\|文献]] |
 > |---|---|---|---|
 > | **国家可信计算根基** | 硬件完整性是整个计算栈信任链条的物理支点 | 驱动国防与关键基础设施专用可信微电子研发计划 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 3, 10)]] |
 > | **供应链安全防御** | 前置全栈协同安全设计能够免疫非可信代工环节风险 | 指导开发新一代安全EDA工具与零信任硬件标准 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 13, 18–19)]] |

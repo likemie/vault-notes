@@ -6,10 +6,10 @@ aliases:
 summary: "探讨中国在历史文明传统、当代治理经验与大国崛起轨迹上自具独特性的政治与学术构想，涵盖基于天下体系的文明优越论与融合现代科学技术、发展模式与善意关照的实用主义例外论，兼具大国认同构建功能与地缘战略张力"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/political-economy-geopolitics
   - geopolitics
@@ -18,6 +18,7 @@ tags:
   - ideology
 related_concepts:
   - "[[Paradigm]]"
+  - "[[Public Diplomacy]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Benevolence]]"
   - "[[Developmentalism]]"
@@ -25,6 +26,7 @@ related_concepts:
   - "[[Pride in Learning]]"
   - "[[Hard Power]]"
   - "[[STEM Education]]"
+  - "[[Champ]]"
   - "[[Innovation Hub]]"
   - "[[Discourse]]"
   - "[[Geopolitics]]"
@@ -40,16 +42,18 @@ related_methods:
 related_facts:
   - "[[ASEAN]]"
   - "[[Belt and Road Initiative]]"
+related_persons:
+  - "[[Rui Yang]]"
 confidence: medium
 status: draft
 created: 2026-10-20
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Chinese Exceptionalism
-> 中国例外论指一种主张中国在历史传统、文明形态、现代化道路与全球秩序构想上自具独特性且不适用西方普世发展[[Paradigm|范式]]的政治与学术构想。当代研究将其阐释为兼具大国卓越追求与道德善意展示的复合心智，在跨国高等教育与公共外交中表现为融合传统[[Tianxia Heuristic|天下观]]念与现代科学技术、发展经验的[[Pragmatic Paradigm|实用主义]]形态。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1044, 1051)]]
+> 中国例外论指一种主张中国在历史传统、文明形态、现代化道路与全球秩序构想上自具独特性且不适用西方普世发展[[Paradigm|范式]]的政治与学术构想。当代研究将其阐释为兼具大国卓越追求与道德善意展示的复合心智，在跨国高等教育与[[Public Diplomacy|公共外交]]中表现为融合传统[[Tianxia Heuristic|天下观]]念与现代科学技术、发展经验的[[Pragmatic Paradigm|实用主义]]形态。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1044, 1051)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向中国在探索国家崛起、制度构建与国际交往时依托本土历史哲学与当代成就形成的独特性信念。
@@ -99,10 +103,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　中国例外论由传统文明优越论向兼顾科学理性与当代治理经验的实用主义形态演进
-
-> [!concept-lens] 例外论内涵演化
-> 探讨中国例外论如何从古代基于儒学伦理的华夏中心文明构想，吸收西方科学向外看的世界观，转变为以制度效能、科技实力和现代化经验为支柱的[[Pragmatic Paradigm|实用主义]]形态。
+> [!concept-proposition] 命题一｜中国例外论由传统文明优越论向兼顾科学理性与当代治理经验的[[Pragmatic Paradigm|实用主义]]形态演进
+> **探讨维度　例外论内涵演化** 探讨中国例外论如何从古代基于儒学伦理的华夏中心文明构想，吸收西方科学向外看的世界观，转变为以制度效能、科技实力和现代化经验为支柱的[[Pragmatic Paradigm|实用主义]]形态。
 
 > [!claim] Ho (2019)
 > **卓越与善意的双重特质** 提出中国例外论的内在实质在于自视为卓越与善意的结合体，大国对外政策不仅追求被国际社会公认为具有实力的卓越国家，更致力于被认同为具有道德担当与友善姿态的良善国家。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1051)]]
@@ -112,10 +114,8 @@ updated: 2026-10-22
 
 ---
 
-### 命题二　高等教育机构是国家展演卓越成就与展现包容善意的核心制度场域
-
-> [!concept-lens] 制度载体与行动机制
-> 探讨大学系统如何在国家战略驱动下承担双重功能，一方面作为知识创新策源地展示科技与学术实力，另一方面作为公共外交平台释放善意优惠。
+> [!concept-proposition] 命题二｜高等教育机构是国家展演卓越成就与展现包容善意的核心制度[[Champ|场域]]
+> **探讨维度　制度载体与行动机制** 探讨大学系统如何在国家战略驱动下承担双重功能，一方面作为知识创新策源地展示科技与学术实力，另一方面作为[[Public Diplomacy|公共外交]]平台释放善意优惠。
 
 > [!claim] Pan and Lo (2018)
 > **世界一流大学作为例外论支点** 阐明中国大陆高校被国家赋予建设全球知识[[Innovation Hub|创新中心]]的战略任务，这一制度建设正是中国例外论寻求国际学术[[Discourse|话语]]权与大国地位认可的核心支柱。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1045–1046)]]
@@ -137,7 +137,7 @@ updated: 2026-10-22
 > - **古代先秦至清中叶 — 华夏中心朝贡文明论** 确立以儒家伦理为核心的宗主国天下秩序观，认为华夏处于天下之中且具备天然的道德与礼乐优越性。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1044)]]
 > - **2012 年 — [[Neo-Tributary Perspective|新朝贡秩序]]与非西方替代方案讨论** 雅克（Martin Jacques）与卡拉汉（William Callahan）在国际政治学界提出中国例外论正在复兴，被部分精英视为解决全球治理赤字的非西方秩序方案。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1044)]]
 > - **2019 年 — 卓越与善意理论框架** 何（Benjamin Ho）完成专著性论述，确立中国例外论由追求被承认为卓越与善意构成的双重结构。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, p. 1051)]]
-> - **2025 年 — 高等教育[[Pragmatic Paradigm|实用主义]]例外论实证确立** 朱柯锦与杨锐将该概念引入比较高教实证分析，系统提炼出融通传统世界观与现代科学理性、以大学为主要展演舞台的实用主义中国例外论模型。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1051–1054)]]
+> - **2025 年 — 高等教育[[Pragmatic Paradigm|实用主义]]例外论实证确立** 朱柯锦与[[Rui Yang|杨锐]]将该概念引入比较高教实证分析，系统提炼出融通传统世界观与现代科学理性、以大学为主要展演舞台的实用主义中国例外论模型。[[Argument_Zhu_Yang_2025_HE|(Zhu & Yang, 2025, pp. 1051–1054)]]
 
 ---
 

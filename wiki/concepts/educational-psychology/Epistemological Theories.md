@@ -3,7 +3,7 @@ title: Epistemological Theories
 summary: "关于个体的认识论信念不是零散独立的观点，而是构成了一种具有内部连贯性的“个人理论”。该构念由 Hofer and Pintrich 提出，包含四大核心认识论维度。"
 type: concept
 domain: "educational-psychology"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Source of Knowledge]]"
   - "[[Justification for Knowing]]"
   - "[[Domain Specificity]]"
+  - "[[Document]]"
   - "[[Ontology]]"
   - "[[Metacognition]]"
 related_theories:
@@ -33,7 +34,7 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 status: active
 created: 2026-08-13
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -70,15 +71,13 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　个体的认识论信念在心智中以连贯的“个人理论”形式存在
-
-> [!concept-lens] 维度的连贯互构
-> 探讨个体对于知识各维度的信念是否各自为政，还是共同构成了一个指导思维和感知的底层解释框架。
+> [!concept-proposition] 命题一｜个体的[[Epistemological Beliefs|认识论信念]]在心智中以连贯的“个人理论”形式存在
+> **探讨维度　维度的连贯互构** 探讨个体对于知识各维度的信念是否各自为政，还是共同构成了一个指导思维和感知的底层解释框架。
 
 > [!claim] [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]]
 > **个人理论主张** 个体的[[Epistemological Beliefs\|认识论信念]]并非零散的事实集合，而是以相互关联、内部一致的方式构成了某种具有[[Domain Specificity\|领域特殊性]]或一般性的“朴素理论（naive theories）”。
 > 
-> 借助概念转变文献中关于“[[Theory of Mind\|心智理论]]（Theory of Mind）”的视角，如果个体在某一维度的承诺（如绝对主义）会引导其以特定方式感知和思考经验，则该信念系统便起到了理论的指导作用。为了证明其不仅是一组松散观点，研究者引入了 Wellman (1990) 关于“知识如何构成理论”的判定标准：
+> 借助概念转变[[Document|文献]]中关于“[[Theory of Mind\|心智理论]]（Theory of Mind）”的视角，如果个体在某一维度的承诺（如绝对主义）会引导其以特定方式感知和思考经验，则该信念系统便起到了理论的指导作用。为了证明其不仅是一组松散观点，研究者引入了 Wellman (1990) 关于“知识如何构成理论”的判定标准：
 > - **存在[[Ontology\|本体论]]区分** [[Epistemology\|认识论]]理论区分了不同类型的知识。
 > - **提供因果解释框架** 它们能解释为什么不同的观点会存在冲突。
 > - **具有内部连贯性** 各项维度彼此强关联。如果一个人在“确定知识”维度上持有幼稚观点（认为知识绝对对错），那么他极有可能在“[[Source of Knowledge\|知识来源]]”维度上也持有幼稚观点（认为知识由权威传授）。

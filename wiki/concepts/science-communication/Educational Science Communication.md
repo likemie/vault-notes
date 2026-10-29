@@ -10,7 +10,7 @@ aliases:
 summary: "面向教师、教育管理者与公众开展的教育研究成果阐释、中介与双向对话形态，主张超越单向线性传输与学术声誉顾虑，借助播客、清算平台及社交网络实现受众适配的证据转化。"
 type: concept
 domain: "science-communication"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Virtual Teacher Staffroom]]"
   - "[[Refutational Evidence]]"
+  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Evidence-Based Education]]"
   - "[[Variable]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -114,10 +115,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　单向线性知识传输无法契合复杂教学实践情境且容易加剧教师的认知防御与研究疏离
-
-> [!concept-lens] 实践情境性与教师认知防卫
-> 探讨传统学术文献为何在一线教学中难以转化，以及单向[[Falsification\|证伪]][[Discourse|话语]]如何引发实践者的心理排斥。
+> [!concept-proposition] 命题一｜单向线性知识传输无法契合复杂教学实践情境且容易加剧教师的认知防御与研究疏离
+> **探讨维度　实践情境性与教师认知防卫** 探讨传统学术[[Document|文献]]为何在一线教学中难以转化，以及单向[[Falsification\|证伪]][[Discourse|话语]]如何引发实践者的心理排斥。
 
 > [!claim] Gräsel (2019)
 > **情境适配是转移发生的先决条件** 科学研究成果无法直接作为行动指令被教师吸收，唯有将其转化为契合特定学校与课堂生态的实践情境语言，才能为证据知情行动奠定认知基础。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 253, 258)]]
@@ -130,10 +129,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题二　基于数字播客与社交网络的非线性多向互动能够有效提升科学证据的实践可及度与沟通深度
-
-> [!concept-lens] 数字媒介生态与受众连接效能
-> 探讨 Web 2.0、音频播客及[[Virtual Teacher Staffroom\|虚拟教师休息室]]在拓展教育证据传播覆盖面与互动深度上的独特优势。
+> [!concept-proposition] 命题二｜基于数字播客与社交网络的非线性多向互动能够有效提升科学证据的实践可及度与沟通深度
+> **探讨维度　数字媒介生态与受众连接效能** 探讨 Web 2.0、音频播客及[[Virtual Teacher Staffroom\|虚拟教师休息室]]在拓展教育证据传播覆盖面与互动深度上的独特优势。
 
 > [!claim] Dresbach (2023)
 > **Web 2.0 媒介的双向沟通效能** 新兴数字交互格式为教育学与教育科学的知识转移提供了结构性机遇，使平等、实时的专业对话和协作式[[Knowledge Building Theory|知识建构]]成为可能。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 253)]]
@@ -146,10 +143,8 @@ updated: 2026-10-25
 
 ---
 
-### 命题三　学术评价体系对研究合成与通俗转译的制度认可构成了驱动研究者投身教育科学传播的关键制度前提
-
-> [!concept-lens] 科研制度激励与学术文化反思
-> 探讨学术体制内部的发表评价与同行文化如何制约或激励研究人员投身面向实践的科学传播。
+> [!concept-proposition] 命题三｜学术评价体系对研究合成与通俗转译的制度认可构成了驱动研究者投身教育科学传播的关键制度前提
+> **探讨维度　科研制度激励与学术文化反思** 探讨学术体制内部的发表评价与同行文化如何制约或激励研究人员投身面向实践的科学传播。
 
 > [!claim] Kerres et al. (2022)
 > **研究合成作为独立学术价值的确认** 学术界必须确立[[Meta-analysis\|元分析]]、[[Systematic Review\|系统综述]]与针对实践提炼的研究合成具备独立的学术创新价值，彻底改变将其贬低为简单摘要的狭隘评价取向。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 258)]]

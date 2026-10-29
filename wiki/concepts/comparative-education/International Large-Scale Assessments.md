@@ -9,7 +9,7 @@ aliases:
 summary: "由政府间组织或跨国学术联盟（如 OECD、IEA）主持，采用标准化跨文化心理测量学技术（如 IRT、矩阵抽样）与代表性概率抽样，对不同国家和地区的学生或成年人群体的认知素养与背景变量进行系统测度与比较分析的大型评价范式。作为“硬事实施展软权力”与数字治理的物质技术中枢，推动全球教育从“投入要素规制”迈向“基于产出与排名的绩效规制”，但亦因诱发 PISA 冲击、课程狭窄化及全球趋同而饱受批判。"
 type: concept
 domain: "comparative-education"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Educational Privatisation]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
@@ -123,20 +124,16 @@ updated: 2026-10-26
 
 ---
 
-### 命题一　跨国大规模评估通过量化指标体系将主权教育政策转化为不可逆转的全球中介市场
-
-> [!concept-lens] [[Governing by Numbers\|数字治理]]技术的制度化扩张机制
-> 围绕测评如何超越单纯测量工具而演变为规制帝国的核心母体展开。
+> [!concept-proposition] 命题一｜跨国大规模评估通过量化指标体系将主权教育政策转化为不可逆转的全球中介市场
+> **探讨维度　[[Governing by Numbers\|数字治理]]技术的制度化扩张机制** 围绕测评如何超越单纯测量工具而演变为规制帝国的核心母体展开。
 
 > [!claim] Steiner-Khamsi et al.
 > **指标规制的不归路** 跨国比较与指标生产一旦启动，便具备自发繁衍的生命力；[[OECD\|经合组织]]从 1980 年代开发 [[International Indicators of Education Systems\|INES]] 指标，到 2000 年 [[PISA]] 放榜，再到衍生出教师调查（[[Teaching and Learning International Survey\|TALIS]]）、成人能力（[[Programme for the International Assessment of Adult Competencies\|PIAAC]]）与发展中国家版（[[PISA for Development\|PISA-D]]），构建了一个主权国家无法退出、且必须持续采购其知识产品的规制自指系统。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi, Martens, et al., 2024, pp. 541–543)]]
 
 ---
 
-### 命题二　测评结果激发的周期性外部危机是国家内部强推争议性改革的合法化燃料
-
-> [!concept-lens] 危机叙事与政策[[Externalization\|外部化]]借用动力学
-> 围绕政府如何借测评排名打破国内政治僵局展开。
+> [!concept-proposition] 命题二｜测评结果激发的周期性外部危机是国家内部强推争议性改革的合法化燃料
+> **探讨维度　危机叙事与政策[[Externalization\|外部化]]借用动力学** 围绕政府如何借测评排名打破国内政治僵局展开。
 
 > [!claim] Martens (2007)
 > **硬事实的[[Soft Power\|软权力]]杠杆** 跨国排名以“科学客观硬事实”的外观，构成了摧毁国内保守集团抗拒心理的最强软权力；落后名次引发的“PISA 冲击”能够迅速在公众中制造教育落后必将导致国家经济衰亡的恐慌，为执政者强推市场化或标准化改革铺平道路。
@@ -189,7 +186,7 @@ updated: 2026-10-26
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024, pp. 547–548)]] | 挪威国家能力课程改革（5 个专家委员会文献 vs 教育部法定行政法令） | 政策咨询引文网络全样本追踪 | 国际组织测评工具文献垄断率 | 专家委员会引用的 464 篇文献在最终法令中仅存 22 篇，而仅存的 22 篇中有 20 篇全部来自专门审议 [[OECD]] ILSAs 衍生项目（[[Definition and Selection of Competencies\|DeSeCo]]）的单一委员会 | 全样本审查 | 实证揭示主权国家行政当局在决策阶段对跨国大规模测评体系衍生指标具有绝对压倒性的引用偏好 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, et al. (2024, pp. 547–548)]] | 挪威国家能力课程改革（5 个专家委员会[[Document\|文献]] vs 教育部法定行政法令） | 政策咨询引文网络全样本追踪 | 国际组织测评工具文献垄断率 | 专家委员会引用的 464 篇文献在最终法令中仅存 22 篇，而仅存的 22 篇中有 20 篇全部来自专门审议 [[OECD]] ILSAs 衍生项目（[[Definition and Selection of Competencies\|DeSeCo]]）的单一委员会 | 全样本审查 | 实证揭示主权国家行政当局在决策阶段对跨国大规模测评体系衍生指标具有绝对压倒性的引用偏好 |
 
 ---
 

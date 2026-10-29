@@ -9,10 +9,10 @@ aliases:
 summary: "冷战时期美国国防部在半导体与集成电路采购中强制推行的制度性采购规程，要求中标主承包商必须向竞争对手交叉许可全部专利与制造工艺诀窍以保障供应链安全；该需求侧政策在客观上打破了技术垄断壁垒，加速了默会工艺知识的跨企业流动，奠定了战后硅谷去中心化、高竞争性的微电子产业生态"
 type: concept
 domain: "science-policy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/science-policy
   - theme/innovation-economics
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Source Evaluation]]"
   - "[[General Purpose Technology]]"
   - "[[Tacit Knowledge]]"
+  - "[[Document]]"
   - "[[Technological Catch-up]]"
   - "[[Innovation Ecosystem]]"
   - "[[Geopolitics]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -113,20 +114,16 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　第二货源机制在客观上解构了技术垄断并成为微电子技术扩散的核心通道
-
-> [!concept-lens] 知识溢出与技术扩散机制
-> 探讨该机制如何超越传统的专利公开原则，通过强制移交隐性工艺经验打破技术独占。
+> [!concept-proposition] 命题一｜第二货源机制在客观上解构了技术垄断并成为微电子技术扩散的核心通道
+> **探讨维度　知识溢出与技术扩散机制** 探讨该机制如何超越传统的专利公开原则，通过强制移交隐性工艺经验打破技术独占。
 
 > [!claim] [[David C. Mowery|Mowery, D. C.]]
-> **[[Tacit Knowledge|默会知识]]的制度化强制外溢** 莫厄里论证指出，二战后微电子技术的关键瓶颈不在于公开文献中的科学原理，而在于高度专有、难以成文表达的晶圆掺杂、扩散与光刻良率控制诀窍。美国军方推行的第二货源采购要求，从制度上剥夺了先发创新企业将突破性半导体器件锁定为排他性专有资产的可能。为了获得利润丰厚的民兵导弹和[[Apollo Program|阿波罗计划]]军品合同，先发厂商被迫向竞争对手开放整套制造工艺；这种非自愿的[[Technology Transfer|技术转移]]极大地缩短了全行业的[[Technological Catch-up|技术追赶]]周期，使整个美国半导体产业在极短时间内掌握了集成电路制造能力。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 164–165)]]
+> **[[Tacit Knowledge|默会知识]]的制度化强制外溢** 莫厄里论证指出，二战后微电子技术的关键瓶颈不在于公开[[Document|文献]]中的科学原理，而在于高度专有、难以成文表达的晶圆掺杂、扩散与光刻良率控制诀窍。美国军方推行的第二货源采购要求，从制度上剥夺了先发创新企业将突破性半导体器件锁定为排他性专有资产的可能。为了获得利润丰厚的民兵导弹和[[Apollo Program|阿波罗计划]]军品合同，先发厂商被迫向竞争对手开放整套制造工艺；这种非自愿的[[Technology Transfer|技术转移]]极大地缩短了全行业的[[Technological Catch-up|技术追赶]]周期，使整个美国半导体产业在极短时间内掌握了集成电路制造能力。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 164–165)]]
 
 ---
 
-### 命题二　第二货源机制与能力本位采购协同塑造了硅谷高度竞争的专业化产业组织生态
-
-> [!concept-lens] 产业组织形态与进入壁垒
-> 探讨需求侧规制如何改变半导体产业结构，培育独立专业化厂商主导的硅谷模式。
+> [!concept-proposition] 命题二｜第二货源机制与能力本位采购协同塑造了硅谷高度竞争的专业化产业组织生态
+> **探讨维度　产业组织形态与进入壁垒** 探讨需求侧规制如何改变半导体产业结构，培育独立专业化厂商主导的硅谷模式。
 
 > [!claim] Fabrizio & Mowery
 > **扶持独立专业化新创企业并抵御纵向一体化垄断** 法布里奇奥与莫厄里通过美欧跨国制度对比指出，西欧的电子产业长期被飞利浦、西门子等纵向一体化电气巨头垄断，巨头往往将前沿元器件封锁在企业内部以保护存量真空管投资。与此相反，[[Department of Defense|美国国防部]]门的采购政策坚持能力本位，敢于向缺乏军品生产历史的新创企业发放先导大单，并推行第二货源交叉许可。这不仅大幅降低了微电子新创企业的进入门槛，催生了仙童、德州仪器、英特尔、AMD 等大批专业化独立商用半导体企业（Merchant Firms），更造就了去中心化、高频技术扩散的硅谷[[Innovation Ecosystem|创新生态]]。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 34)]]; [[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 165–171)]]

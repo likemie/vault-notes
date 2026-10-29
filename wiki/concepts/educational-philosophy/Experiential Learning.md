@@ -7,10 +7,10 @@ aliases:
 summary: "以经验及其重组促进学习与成长的教育概念，借连续性与个体—环境交互判定经验价值，并分析学术学习、社会服务与地方实践如何相互联系。"
 type: concept
 domain: "educational-philosophy"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - field/educational-philosophy
   - theme/active-learning
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[International Baccalaureate]]"
   - "[[Education as Growth]]"
+  - "[[Document]]"
   - "[[Active Learning]]"
 related_theories: []
 related_methods:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -84,34 +85,26 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　经验的教育价值取决于它如何影响后续成长
-
-> [!concept-lens] 经验品质与连续性
-> 判断经验学习不能止于活动发生，还需要看学生以后能否获得更广阔、更有意义的经验。
+> [!concept-proposition] 命题一｜经验的教育价值取决于它如何影响后续成长
+> **探讨维度　经验品质与连续性** 判断经验学习不能止于活动发生，还需要看学生以后能否获得更广阔、更有意义的经验。
 
 > [!claim] Dewey（经 Darwish 转述）
 > **经验可以促进成长，也可以限制成长** 每项经验吸收先前经验，并改变后续经验的品质与方向，因此活动参与本身不是教育价值的充分依据。麻木、思维停滞及对学习的厌恶会削弱学生继续获得丰富经验的可能，属于反[[Educative Experience|教育性经验]]。教师应安排能够增加理解并打开后续选择的经验，以连续重组的成长作为判定依据。[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 30–33)]]
 
-### 命题二　教师需要协调学习者内部条件与客观环境
-
-> [!concept-lens] [[Interaction Effect|交互作用]]与教育者职责
-> 学习经验产生于学生的兴趣、既有知识与客观环境的相互作用，课程安排必须处理二者的关系。
+> [!concept-proposition] 命题二｜教师需要协调学习者内部条件与客观环境
+> **探讨维度　[[Interaction Effect|交互作用]]与教育者职责** 学习经验产生于学生的兴趣、既有知识与客观环境的相互作用，课程安排必须处理二者的关系。
 
 > [!claim] Dewey（经 Darwish 转述）
 > **从生活经验出发仍需专业的环境组织** 相同活动对不同学生可能形成不同经验，因为内部条件与客观条件的组合不同。教师需要熟悉社区的物理、历史、经济和职业资源，再把这些资源组织为适应学生需求与能力的教育条件。经验学习由此要求有判断的课程安排；放任学生随意活动并不能替代环境调控与经验重组。[[Argument_Darwish_2009_Queens|Darwish (2009, pp. 32–33)]]
 
-### 命题三　社会服务与学术课程的联系可以扩大经验学习的教育用途
-
-> [!concept-lens] 知识应用与社会接触
-> 关键问题是怎样使[[International Schools|国际学校]]学生的学术学习更直接联系周围社会，而非让服务与课堂成为彼此分离的教育部分。
+> [!concept-proposition] 命题三｜社会服务与学术课程的联系可以扩大经验学习的教育用途
+> **探讨维度　知识应用与社会接触** 关键问题是怎样使[[International Schools|国际学校]]学生的学术学习更直接联系周围社会，而非让服务与课堂成为彼此分离的教育部分。
 
 > [!claim] [[Alec Peterson|Peterson, A. D. C.]]
 > **理解问题与行动意愿需要在课程中相互连接** 营养科学以当地饮食调查让学生接触周围社会，并综合不同学科知识解释人类问题；这一联系有望减少国际学校与村落、贫困城市地区之间的隔离。Peterson 因而要求社会服务的经验学习与学术课程的理智学习更紧密整合，在严格学科学习之中增加回应社会问题的机会。该论证说明课程设计的理由与可能机制，尚不能证明参加服务一定提高[[Academic Achievement|学业成绩]]或产生持久国际理解。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207)]]
 
-### 命题四　地方问题导向的经验课程需要相应实施条件
-
-> [!concept-lens] 课程价值与实施可行性
-> 一项课程受到认可，仍可能因教师与选课安排不足而无法进入实际学习。
+> [!concept-proposition] 命题四｜地方问题导向的经验课程需要相应实施条件
+> **探讨维度　课程价值与实施可行性** 一项课程受到认可，仍可能因教师与选课安排不足而无法进入实际学习。
 
 > [!claim] Peterson, A. D. C.
 > **教师能力、课程位置与资源共同约束采用** 营养科学受到其他学校关注，却未扩散为常规选项，作者判断缺少合格教师及培训是主要原因。大学专业入学要求还可能占用第六科，使相应学生无法选择创新课程。后续[[Science Technology and Social Change Curriculum Pilot|科学、技术与社会变迁]]试点把跨校开发和在职培训同步安排，说明实施支持需要成为课程开发的一部分；它的最终效果在本章仍未确定。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
@@ -182,6 +175,6 @@ updated: 2026-10-22
 > | [[Learning by Doing]] | 概念 | 经验学习的具体教学操作体现。 |
 > | [[Education as Growth]] | 概念 | 连续性与[[Interaction Effect\|交互作用]]所指向的教育终极目标。 |
 
-> [!evidence-grid] 文献与论证索引
+> [!evidence-grid] [[Document|文献]]与论证索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 214–215)]] — 讨论社会服务、学术课程与地方发展实践的整合，以及教师和制度支持。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 详细分析杜威《经验与教育》中的连续性与交互作用原则及其在[[Active Learning|主动学习]]中的地位。

@@ -33,8 +33,8 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Academic Freedom]]"
   - "[[Scientific Method]]"
-  - "[[Epistemology]]"
   - "[[Document]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Path Dependence]]"
@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -101,30 +101,24 @@ updated: 2026-10-22
 
 ## 核心理论命题
 
-### 命题一　缺乏主动配置与实证反馈的科研资助体系会将既得利益惯性误认为国家战略优先序
-
-> [!concept-lens] 偶然组合与[[Path Dependence|路径依赖]]
-> 剖析联邦科研资助若仅依赖传统院系面板评审与上一年度历史基数，为何必然导致资助流向固化与系统性学术避险。
+> [!concept-proposition] 命题一｜缺乏主动配置与实证反馈的科研资助体系会将既得利益惯性误认为国家战略优先序
+> **探讨维度　偶然组合与[[Path Dependence|路径依赖]]** 剖析联邦科研资助若仅依赖传统院系面板评审与上一年度历史基数，为何必然导致资助流向固化与系统性学术避险。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]; [[Argument_Stephan_2013_NBER|Stephan (2013)]]
 > **偶然组合与在位者垄断假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，美国联邦政府每年分配约 2000 亿美元研发经费，但长期缺乏系统性的顶层组合配置框架。当资助机构仅仅被动汇总各个学科评审面板通过的项目时，其形成的资助组合并非基于科学发现前沿的理性设计，而是由消耗经费的同一批高校在位者和资深学者主导的“偶然组合”（Accidental Portfolio）。在极低的资助率下，共识评审迫使青年学者回避高风险探索并退守增量课题，导致巨额公共预算在[[Red Tape|繁文缛节]]中固化为保守平庸的利益分配。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 20, 30–31)]]; [[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 41–44)]]
 
 ---
 
-### 命题二　组合式科研资助依托巴斯德象限实现使命导向攻关与纯好奇自由探索的结构性互补
-
-> [!concept-lens] 探索-利用权衡与知识池再充实
-> 阐明战略用途驱动的研究与看似无功利的基础探索在国家研发大盘中的互补关系。
+> [!concept-proposition] 命题二｜组合式科研资助依托[[Pasteur's Quadrant|巴斯德象限]]实现使命导向攻关与纯好奇自由探索的结构性互补
+> **探讨维度　探索-利用权衡与知识池再充实** 阐明战略用途驱动的研究与看似无功利的基础探索在国家研发大盘中的互补关系。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]; [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]]
 > **双重驱动与不可预测性兼容假说** 组合式资助绝非将所有经费押注于短期应用或预设技术的[[Pragmatic Paradigm|实用主义]]清单，而是对不同认知领域采取清晰的策略区分：在瓶颈明确、方向清晰的领域（如量子通信器件、蛋白质结构预测），依托[[Pasteur's Quadrant|巴斯德象限]]组织跨学科工程团队集中攻关；在迷雾重重、前沿未知的领域，则坚定保留对纯数学、抽象物理等纯好奇心探索的支持（如黎曼微分几何在百年后成为广义相对论与密码学基石）。组合式资助的艺术在于明确何处战略攻坚能加速进步、何处只能依托好奇心进行去中心化探索，从而持久充实全社会的公共知识池。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 30)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–37)]]
 
 ---
 
-### 命题三　多元机制设计与元科学随机对照实验是克服同行评议系统性偏倚的制度解药
-
-> [!concept-lens] 机制设计与科学治理实证化
-> 探讨如何通过引入非共识选拔工具与受控政策实验，识别并扶持真正具备颠覆性潜力的突破性科学。
+> [!concept-proposition] 命题三｜多元机制设计与[[Metascience|元科学]][[Randomised Controlled Trials|随机对照实验]]是克服同行评议系统性偏倚的制度解药
+> **探讨维度　机制设计与科学治理实证化** 探讨如何通过引入非共识选拔工具与受控政策实验，识别并扶持真正具备颠覆性潜力的突破性科学。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
 > **多元选拔与[[Metascience|元科学]]实验确证假说** 传统同行评议在识别劣质研究上极为有效，但在面对颠覆性、非共识成果时往往因过度折衷妥协而扼杀真正创新。组合式资助框架基于机制设计理论引入多元选拔通道：通过“[[Golden Ticket Mechanism|金券机制]]”打破群体平庸共识，通过为期七年千万美元级的“对人资助”赋予拔尖科学家充分的[[Academic Freedom|学术自由]]。更关键的是，资助机构必须设立具有法定授权的[[Metascience|元科学]]部门，通过开展[[Randomised Controlled Trials|随机对照试验]]（如对比盲审、金券制与打分制的产出质量）以[[Scientific Method|科学方法]]评估资助政策本身，建立自我纠错与动态优化的国家科研治理闭环。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26–28, 31–32)]]
@@ -136,7 +130,7 @@ updated: 2026-10-22
 > [!ref-table]- 组合式科研资助实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究文献 | 样本与情境 | 研究设计与指标 | 原始实证结果 | 理论解释边界 |
+> | 研究[[Document\|文献]] | 样本与情境 | 研究设计与指标 | 原始实证结果 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 20)]] | 美国联邦年度研发支出与资助机构网络 | 宏观预算计量与资助组合结构分析 | 联邦机构每年分配研发经费逾 2,000 亿美元，但传统单课题组项目制占据绝对支配地位 | 确立了组合式配置的宏观体量基数，揭示单一模式无法适配复杂国家创新需求的结构性矛盾 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 27)]] | 霍华德·休斯医学研究所（HHMI）长期对人资助学者与联邦 [[National Institutes of Health\|NIH]] 资助对照组 | 准实验因果对比分析（产出质量与新颖性） | 获得长周期、免考核“对人资助”的学者，产出高影响标志性论文的概率接近对照组的 2 倍（200%），且更倾向开辟全新前沿路线 | 实证检验了“对人资助”作为组合核心机制在激发突破性创新与承担高风险上的显著优势 |

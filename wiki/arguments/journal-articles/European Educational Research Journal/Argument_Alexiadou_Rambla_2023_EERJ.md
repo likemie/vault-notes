@@ -2,7 +2,7 @@
 summary: "运用话语制度主义与理念权力框架，结合对欧盟委员会与欧盟理事会九位核心决策官员的精英深度访谈与二十年跨期战略文本分析，系统解构欧洲教育区（European Education Area, EEA）战略议程的建构动力，详尽揭示终身学习存废与性别表述在波尔图峰会闭门磋商中的话语博弈，以及教育文化总司与就业总司在欧洲学期财政监控下的深层科层分割与主权边界守卫机制"
 type: argument
 authors:
-  - "Alexiadou, N."
+  - "[[Nafsika Alexiadou|Alexiadou, N.]]"
   - "Rambla, X."
 source_language: en
 citation: "Alexiadou, N., & Rambla, X. (2023). Education policy governance and the power of ideas in constructing the new European Education Area. European Educational Research Journal, 22(6), 852–869. https://doi.org/10.1177/14749041221121388"
@@ -28,14 +28,12 @@ related_concepts:
   - "[[Ideational Power]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
-  - "[[Champ]]"
   - "[[Competitiveness]]"
   - "[[Academic Attrition]]"
   - "[[Employability]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Peer Pressure]]"
   - "[[Geopolitics]]"
-  - "[[Central Phenomenon]]"
   - "[[Socioeconomic Status]]"
   - "[[Academic Achievement]]"
   - "[[Apprenticeship]]"
@@ -50,7 +48,8 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Transcription in Qualitative Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Nafsika Alexiadou]]"
 related_facts:
   - "[[Lisbon Strategy]]"
   - "[[European Commission]]"
@@ -58,25 +57,25 @@ related_facts:
   - "[[European Education Area]]"
   - "[[European Semester]]"
   - "[[Education and Training 2020]]"
+  - "[[European Pillar of Social Rights]]"
   - "[[EU Skills Agenda]]"
   - "[[English Schools Foundation Hong Kong]]"
   - "[[Success for All]]"
-  - "[[Achieve]]"
-  - "[[Reach]]"
+  - "[[ASEAN Credit Transfer System]]"
 related_arguments: []
 sources:
   - "[[sources/Alexiadou_Rambla_2023_EERJ|Alexiadou_Rambla_2023_EERJ]]"
 part_of:
 status: draft
 created: 2026-10-28
-updated: 2026-10-28
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Alexiadou_Rambla_2023_EERJ"
 argument_key: "Argument_Alexiadou_Rambla_2023_EERJ"
 argument_display_title: "Education policy governance and the power of ideas in constructing the new European Education Area"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 36
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -96,7 +95,7 @@ issuing_organization: ""
 > 新政策理念要在超国家治理中确立权威，必须依托长期形成的制度结构，并获得关键行动者的政治支持。欧盟委员会起草团队试图以包容替代终身学习并拔高性别平等议题，这种认知重构因触碰成员国主权红线及二十年[[Open Method of Coordination|开放协调法]]（Open Method of Coordination, OMC）的传统积累，遭到欧盟理事会与成员国的普遍抵制和纠偏。[[Lifelong Learning|终身学习]]理念因横跨教育与就业两大领域而展现出持久的制度韧性；但教育文化总司与就业总司的职能分割，加之[[European Semester|欧洲学期]]的宏观财政约束，使欧洲教育政策在扩大影响力的同时，始终面临自主权受限的结构性困境。
 
 > [!concept-lens] 阅读透镜
-> - **关注对象** 瑞典学者[[Nafsika Alexiadou|纳夫西卡·亚历克夏杜（Nafsika Alexiadou）]]与西班牙学者哈维尔·兰布拉（Xavier Rambla）聚焦欧盟委员会教育文化总司（DG-EAC）、委员会主席内阁、欧盟理事会教育委员会高级官员及核心战略政策文件。
+> - **关注对象** 瑞典学者[[Nafsika Alexiadou|纳夫西卡·亚历克夏杜]]（Nafsika Alexiadou）与西班牙学者哈维尔·兰布拉（Xavier Rambla）聚焦欧盟委员会教育文化总司（DG-EAC）、委员会主席内阁、欧盟理事会教育委员会高级官员及核心战略政策文件。
 > - **制度张力** 超国家技术官僚的改革诉求与主权国家维持[[Subsidiarity Principle|辅助性原则]]（Subsidiarity Principle）及既有 OMC 工具箱之间的对立；教育自主发展目标与宏观经济治理（[[European Semester|欧洲学期]]）劳动力市场导向之间的张力。
 > - **理论洞见** 引入[[Discursive Institutionalism|话语制度主义]]的[[Ideational Power|理念权力]]视角，还原从委员会公报到理事会决议的闭门协商过程，揭示理念层级与制度惯性如何共同塑造超国家教育政策的连续性与妥协形态。
 
@@ -109,22 +108,22 @@ issuing_organization: ""
 > | **理念权力框架**<br>[[Ideational Power]] | 马丁·卡斯滕森（Martin B. Carstensen）与施密特提炼的分析模型。细化为通过理念行使权力（说服能力）、支配理念之权力（控制意义与排他能力）以及内置于理念之权力（制度化结构的先验权威），用以阐明不同层级政策官僚如何运用思想资源维系或改变政策方向。（Carstensen & Schmidt, 2016） |
 
 > [!warrant]- 理论如何支撑论证
-> 话语制度主义连接了宏观制度结构与微观政策行动者之间的动态关联。在欧洲教育区议程设定中，欧盟委员会与理事会不仅是遵循条约规则的行政实体，更是由具体官员组成的互动[[Champ|场域]]。各级官员在互动中运用认知性理念界定政策问题，运用规范性理念寻求价值正当性；协调性话语促成了闭门妥协，交流性话语则负责向公众展现最终愿景。理念权力模型清晰揭示了技术官僚的主观创新主张在遭遇条约传统与历史制度权威时妥协退让的机制。
+> 话语制度主义连接了宏观制度结构与微观政策行动者之间的动态关联。在欧洲教育区议程设定中，欧盟委员会与理事会不仅是遵循条约规则的行政实体，更是由具体官员组成的互动场域。各级官员在互动中运用认知性理念界定政策问题，运用规范性理念寻求价值正当性；协调性话语促成了闭门妥协，交流性话语则负责向公众展现最终愿景。理念权力模型清晰揭示了技术官僚的主观创新主张在遭遇条约传统与历史制度权威时妥协退让的机制。
 
 ---
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **战略政策文献分析**<br>[[Documentary Analysis]] | 选取欧盟委员会 2020 年公报、委员会工作人员工作文件、欧盟理事会 2021 年战略框架决议及附件，并向前追溯 2000 年里斯本战略与 2009 年《[[Education and Training 2020|教育与培训 2020]]》战略框架（Education and Training 2020, ET2020）决议，比对各阶段指标、议程重点与话语转变。 |
-> | **半结构化精英深度访谈**<br>[[Elite Interview]] | 借鉴[[Nafsika Alexiadou|纳夫西卡·亚历克夏杜]]的政策执行制度情境访谈分析规程（Alexiadou, 2001），于 2021 年对 9 位具有直接内部准入资格的欧盟高级官员开展[[In-depth Interview\|深度访谈]]，覆盖政策出台背景、历史连续性、机构互动及理念驱动力。 |
+> | **战略政策文献分析**<br>[[Documentary Analysis]] | 选取欧盟委员会 2020 年公报、委员会工作人员工作文件、欧盟理事会 2021 年战略框架决议及附件，并向前追溯 2000 年里斯本战略与 2009 年《[[Education and Training 2020\|教育与培训 2020]]》战略框架（Education and Training 2020, ET2020）决议，比对各阶段指标、议程重点与话语转变。 |
+> | **半结构化精英深度访谈**<br>[[Elite Interview]] | 借鉴[[Nafsika Alexiadou\|纳夫西卡·亚历克夏杜]]的政策执行制度情境访谈分析规程（Alexiadou, 2001），于 2021 年对 9 位具有直接内部准入资格的欧盟高级官员开展[[In-depth Interview\|深度访谈]]，覆盖政策出台背景、历史连续性、机构互动及理念驱动力。 |
 > | **归纳主题分析**<br>Thematic Analysis | 遵循质性主题分析规程，系统归纳受访官员对教育政策目标、机构间权责博弈与实施障碍的表述，提炼协调性话语的核心议题。 |
 > | **话语解读与质性诠释**<br>Discursive Interpretation | 解读访谈与文本中行动者如何使用合法化论据，审视深层理念结构如何对哪些政策方案具备政治可行性构成隐性制约。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **文本样本** | 欧盟委员会《在 2025 年前建成欧洲教育区》公报（文档编号 `COM(2020) 625 final`）及工作文件（文档编号 `SWD(2020) 212 final`）；欧盟理事会决议（2021/C 66/01）；欧洲议会决议（2020/2243(INI)）；《教育与培训 2010》战略框架（Education and Training 2010, ET2010）与 [[Education and Training 2020|ET2020]] 历史基准文件。 |
+> | **文本样本** | 欧盟委员会《在 2025 年前建成欧洲教育区》公报（文档编号 `COM(2020) 625 final`）及工作文件（文档编号 `SWD(2020) 212 final`）；欧盟理事会决议（2021/C 66/01）；欧洲议会决议（2020/2243(INI)）；《教育与培训 2010》战略框架（Education and Training 2010, ET2010）与 [[Education and Training 2020\|ET2020]] 历史基准文件。 |
 > | **访谈样本** | 9 位欧盟政策决策精英：4 位 DG-EAC 政策官员（受访者 1、3、6、7）、3 位欧盟理事会常驻专员（受访者 4、8、9）、1 位 DG-EAC 专员加布里埃尔（Mariya Gabriel）内阁成员（受访者 5）、1 位欧盟委员会主席冯德莱恩（Ursula von der Leyen）内阁高级官员（受访者 2）。 |
 > | **材料情境** | 访谈于 2021 年欧洲教育区决议审议期间进行，时长 60 至 80 分钟，全程英文录音并完整匿名[[Transcription in Qualitative Research\|转录]]。 |
 
@@ -146,16 +145,16 @@ issuing_organization: ""
 
 ## 论证结构
 
-> [!claim] 论证步骤一　[[European Education Area|欧洲教育区]]沿袭了二十年的[[Human Capital Theory|人力资本]]投资与就业导向
+> [!claim|step] 论证步骤一　[[European Education Area|欧洲教育区]]沿袭了二十年的[[Human Capital Theory|人力资本]]投资与就业导向
 > 梳理 2000 年[[Lisbon Strategy|里斯本战略]]、2009 年 [[Education and Training 2020|ET2020]] 框架至 2021 年欧洲教育区战略文本，核心量化指标高度重合；[[EU|欧盟]]始终把教育作为提升劳动力市场[[Competitiveness|竞争力]]的工具，通过跨国可比数据持续监控基础技能、[[Academic Attrition|早期离校]]与高等教育比例。
 
-#### 1. 核心指标二十年保持稳定，始终紧扣就业与技能获取
+> [!sub-claim] 1. 核心指标二十年保持稳定，始终紧扣就业与技能获取
 
 二十年来，欧盟教育政策在形式上维持软法协调，实质上始终服务于统一劳动力市场的技能需求。这一连续性直接反映在三期战略指标的设计中（见表 1）：
 
 > [!row-contrast] 表 1：早期战略框架与欧洲教育区（EEA）政策理念与指标演进对照
 >
-> | 政策议题领域 | 里斯本战略目标（2000 年） | [[Education and Training 2020|ET2020 基准指标]]（2009 年） | 欧洲教育区（EEA）目标指标（2021 年） |
+> | 政策议题领域 | 里斯本战略目标（2000 年） | [[Education and Training 2020\|ET2020 基准指标]]（2009 年） | 欧洲教育区（EEA）目标指标（2021 年） |
 > |:---|:---|:---|:---|
 > | **早期离校** | 到 2010 年，仅具备初中以下学历且未参与后续教育培训的 18–24 岁青年比例减半。 | 到 2020 年，早期离开教育与培训的比例应低于 10%。 | 到 2030 年，早期离开教育与培训的比例应低于 9%。 |
 > | **基础素养** | 将所有联网的中小学校与培训中心建为面向全民的综合学习中心，采用适宜方法覆盖各类群体。 | 到 2020 年，15 岁学生在阅读、数学和科学领域的低成就比例应低于 15%。 | 到 2030 年，15 岁学生在阅读、数学和科学领域的低成就比例应低于 15%。 |
@@ -165,7 +164,7 @@ issuing_organization: ""
 > | **终身学习参与率** | 2000 年底前界定终身学习基本技能，但未设定具体统计比例指标。 | 到 2020 年，25–64 岁成年人参与终身学习的平均比例至少达到 15%（按过去 4 周计）。 | 到 2025 年，25–64 岁成年人在过去 12 个月内参与过学习的比例至少达到 47%。 |
 > | **学前教育普及** | 提请大幅增加人力资源投资，以期实现高水平公共教育供给。 | 到 2020 年，4 岁至法定小学入学年龄儿童参与早期儿童教育的比例至少达到 95%。 | 到 2030 年，3 岁至法定小学入学年龄儿童参与早期儿童教育与关爱的比例至少达到 96%。 |
 
-#### 2. 欧盟回避直接财政投入，转用跨国比较数据倒逼成员国改革
+> [!sub-claim] 2. 欧盟回避直接财政投入，转用跨国比较数据倒逼成员国改革
 
 > [!policy-context] 超国家教育治理的人力资本导向与指标监控特征
 > - **制度依据** 欧洲理事会里斯本峰会结论、欧盟理事会 2009 年决议、2017 年《[[European Pillar of Social Rights|欧洲社会权利支柱]]》（EPSR）及 2021 年欧洲教育区战略框架决议。
@@ -180,10 +179,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　成员国依靠主权防线否决了委员会激进的理念重构
+> [!claim|step] 论证步骤二　成员国依靠主权防线否决了委员会激进的理念重构
 > [[European Commission|欧盟委员会]] 2020 年公报试图用包容替代终身学习并将性别平等单列；但在理事会闭门磋商中，各成员国坚守[[Subsidiarity Principle|辅助性原则]]与共识决规则，不仅推翻了委员会的激进提议、重新确立终身学习的战略核心地位，还将性别议题降格为修辞点缀。
 
-#### 1. 理事会全面改写委员会框架，重新确立成员国的议程主导权
+> [!sub-claim] 1. 理事会全面改写委员会框架，重新确立成员国的议程主导权
 
 欧盟委员会在 2020 年 9 月的公报中打破传统政策分类，提出了六大维度，试图构建一套由委员会主导的新[[Discourse|话语]]体系。但在提交给理事会审议后，这一框架被彻底重构（见表 2）：
 
@@ -201,11 +200,11 @@ issuing_organization: ""
 > [!voice] 欧洲议会的制度审议立场
 > 欧洲议会在 2021 年决议中明确指出，欧盟委员会的方案主要停留在宏观轮廓层面；议会明确欢迎欧盟理事会对委员会提案所作的修正，高度肯定理事会重新确立职业教育与培训以及终身学习机会的支柱地位。
 
-#### 2. 委员会试图用包容替代终身学习，被成员国联手纠偏
+> [!sub-claim] 2. 委员会试图用包容替代终身学习，被成员国联手纠偏
 
 > [!tension] 终身学习存废背后的话语重构与制度权威对抗
 > - **欧盟委员会认知转向主张（蓝方）** 将教育质量界定为基础技能达标，将包容置于总体核心地位，把终身学习窄化为面向弱势群体的弥补性救济手段。起草团队主张全民成功等于失去重点，终身学习应当聚焦于挽救在正规教育体制中受挫的人群。
-> - **欧盟理事会制度权威立场（红方）** 坚决抵制对[[Central Phenomenon|核心范畴]]的降格。理事会与资深技术官员强调终身学习是涵盖全生命周期的全人概念，更是欧盟二十年教育治理积累的核心合法性基石，放弃终身学习被视为颠覆既有制度根基的冒进之举。
+> - **欧盟理事会制度权威立场（红方）** 坚决抵制对核心范畴的降格。理事会与资深技术官员强调终身学习是涵盖全生命周期的全人概念，更是欧盟二十年教育治理积累的核心合法性基石，放弃终身学习被视为颠覆既有制度根基的冒进之举。
 
 > [!case] 案例：波尔图非正式峰会上成员国联手捍卫终身学习
 > - **波尔图非正式峰会危机爆发** 2021 年 2 月，欧盟各成员国教育部代表在葡萄牙波尔图举行非正式理事会会议，核心焦点直指委员会公报中终身学习独立维度的被剔除与拆解。
@@ -217,7 +216,7 @@ issuing_organization: ""
 > - **受访者 1（DG-EAC 资深政策官员）** 表达内部抵触：“成员国在战略框架中强调的核心概念正是终身学习：从学前教育到成人学习，融入非正规与非正式学习。这正是成员国极力想要保留的根基。”
 > - **受访者 9（欧盟理事会专员）** 亮明主权归属立场：“下一个战略框架的产权应当真正来自成员国一方，其所有权必须落在理事会阵地。我们所有人都极力渴望对这一进程施加影响。”
 
-#### 3. 四个保守国动用共识否决权，性别平等被降格为修辞点缀
+> [!sub-claim] 3. 四个保守国动用共识否决权，性别平等被降格为修辞点缀
 
 > [!critique] 价值倡导遭遇主权红线的政治现实
 > - **超国家价值倡导的制度脆弱性** 欧盟委员会虽试图将性别平等升格为独立核心维度，但在缺乏硬法约束的软法协调领域，其政策倡导高度依赖成员国政治意愿。
@@ -230,10 +229,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤三　部门分立与财政紧缩削弱了欧洲教育政策的独立性
+> [!claim|step] 论证步骤三　部门分立与财政紧缩削弱了欧洲教育政策的独立性
 > 容克改革将职业教育与成人学习划归就业总司，导致普通教育与技能培训被人为割裂为平行的双头轨道；教育文化总司虽然借由[[European Semester|欧洲学期]]获得了可观的建设资金，但同时也受到宏观经济部门紧缩开支的严苛制约，导致教育治理难以保持独立自主。
 
-#### 1. 职能人为拆分为两大总司，导致教育政策碎片化与双头竞争
+> [!sub-claim] 1. 职能人为拆分为两大总司，导致教育政策碎片化与双头竞争
 
 > [!event-context] 容克委员会科层重组事件背景
 > - **重组契机** 2014 年容克（Jean-Claude Juncker）执掌欧盟委员会，推行行政科层大规模重组。
@@ -249,27 +248,27 @@ issuing_organization: ""
 > | **主导战略平台** | 欧洲教育区（European Education Area, EEA）。 | 欧洲技能议程（European [[EU Skills Agenda\|Skills Agenda]]）与就业战略。 |
 > | **管辖教育阶段** | 学前教育、中小学基础教育、高等教育及教师专业发展。 | 职业教育与培训（VET）、[[Apprenticeship\|学徒制]]、成人技能提升与再培训。 |
 > | **治理话语取向** | 强调教育质量、公民素养、文化认同、公平包容与教育系统内部连续性。 | 强调劳动力市场供需匹配、岗位生产力、技能短缺填补与宏观经济抗逆力。 |
-> | **对成员国对话渠道** | 与成员国教育部开展以软性同侪学习为主的双边对话。 | 借由[[European Semester|欧洲学期]]与成员国劳动及财政部门展开更具问责色彩的政策审议。 |
+> | **对成员国对话渠道** | 与成员国教育部开展以软性同侪学习为主的双边对话。 | 借由[[European Semester\|欧洲学期]]与成员国劳动及财政部门展开更具问责色彩的政策审议。 |
 
 > [!case] 案例：欧洲技能议程与欧洲教育区的双重平行对话
 > - **条约赋权与话语竞争** 容克改革后，DG-EAC 主导推进欧洲教育区，而 DG-EMPL 则独立运作《欧洲技能议程》。就业总司依托欧盟条约第 148 条的直接协调权，在内部官僚竞争中占据显著优势。
 > - **平行双轨与磋商负担** 受访者 4（理事会专员）指出，总司分立割裂了教育政策的整体性，迫使各成员国教育部与劳动部不得不分别与委员会开展两套平行的双边政策对话。
 > - **理事会非正式意见书抗议** 受访者 8 证实，理事会在非正式意见书（Non-paper）中对教育政策的碎片化表达了深度忧虑，敦促委员会摆脱部门利益之争，重塑覆盖全生命周期的连贯教育治理体系。
 
-#### 2. 欧洲学期虽带来大额建设资金，却带来宏观财政紧缩压力
+> [!sub-claim] 2. 欧洲学期虽带来大额建设资金，却带来宏观财政紧缩压力
 
 > [!chain-link] 超国家教育治理软硬机制演进链
 > - **前提：宏观战略定位将教育议题嵌入欧盟核心** 里斯本战略、欧洲 2020 战略与《[[European Pillar of Social Rights|欧洲社会权利支柱]]》将早期离校与高等教育完成率列为顶层指标，使教育文化总司摆脱边缘地位，成功获取超国家合法性。
-> - **机制：资金与学期绑定提升了超国家政策吸引力** [[Performance Indicators|教育指标]]挂钩[[European Semester|欧洲学期]]国别建议后，成员国得以直接吸纳约三分之一的欧洲社会基金（European Social Fund Plus, [[English Schools Foundation Hong Kong|ESF]]+），赋予了软性教育合作空前强大的物质支撑。
+> - **机制：资金与学期绑定提升了超国家政策吸引力** [[Performance Indicators|教育指标]]挂钩[[European Semester|欧洲学期]]国别建议后，成员国得以直接吸纳约三分之一的欧洲社会基金（European Social Fund Plus, ESF+），赋予了软性教育合作空前强大的物质支撑。
 > - **制约：宏观财政部门主导带来结构性紧缩压力** [[European Semester|欧洲学期]]由经济金融事务总司（Directorate-General for Economic and Financial Affairs, DG-Economy）与就业总司主导，宏观官僚坚持赤字控制教条，在经济危机期倒逼成员国削减教育支出，导致政策诉求产生内在冲突。
 > - **结论：主权防御机制将超国家治理重新锁定于软法** 面对委员会借集中平台强化硬约束的意图，成员国坚决捍卫国家事权底线，排除了集权化常设机构，将欧洲教育治理牢固约束在 [[Open Method of Coordination|OMC]] 传统工具箱内。
 
 > [!case] 案例：欧洲社会基金预算与经济金融部门的紧缩冲动
-> - **欧洲学期的资金吸纳效应** 教育目标挂钩欧洲学期国别建议后，教育领域得以直接调配高达三分之一的欧洲社会基金（ESF+）预算，有力资助了成员国的学校基建与培训项目（受访者 3、6）。
+> - **欧洲学期的资金吸纳效应** 教育目标挂钩欧洲学期国别建议后，教育领域得以直接调配高达三分之一的欧洲社会基金（[[English Schools Foundation Hong Kong|ESF]]+）预算，有力资助了成员国的学校基建与培训项目（受访者 3、6）。
 > - **经济金融部门的紧缩教条** 欧洲学期由经济金融事务总司与就业总司主导，其宏观官僚秉持严苛的赤字控制教条，在经济波动期持续向成员国施加削减公共教育支出的结构性压力（受访者 1）。
 > - **长期投资与短期紧缩的冲突** 超国家层面对大额基建资金的物质激励，与宏观财政部门对公共支出的紧缩监控产生激烈碰撞，严重制约了教育政策追求长期稳定投入的自主空间。
 
-#### 3. 委员会力推集中管理平台，理事会坚守软法传统保卫主权
+> [!sub-claim] 3. 委员会力推集中管理平台，理事会坚守软法传统保卫主权
 
 > [!tension] 集中治理模式与传统开放协调法的机制对立
 > - **欧盟委员会集中协调诉求（蓝方）** 在 2020 年公报中提出集中化的促成型治理框架（Enabling Framework），主张在教育文化部长理事会与其他专业理事会配置间建立定期联合讨论机制以推进全政府协同，设立欧洲教育区指导委员会（Steering Board）并搭建常设平台，强化超国家政策监控。
@@ -294,24 +293,24 @@ issuing_organization: ""
 ---
 
 > [!citation-card] 终身学习被视作包容性维度的替代方案
-> 宣称[[Success for All|人人成功]]，往往意味着没有人真正成功。在我们看来，包容的实质在于切断学生的社会经济背景与其学业成就之间的关联，将政策重点精准聚焦于处境不利群体。终身学习本质上应当归入包容维度：当一个人的成长起点不利时，终身学习能够将工作与教育结合起来，帮助其重回上升通道。许多人之所以缺乏教育经历，是因为正规教育给他们带来了痛苦与挫折。因此，终身学习的关键在于架起工作与教育之间的桥梁，教育体系必须找到办法，去疗愈那些曾在正规教育体制中遭受挫败的人。
+> 宣称人人成功，往往意味着没有人真正成功。在我们看来，包容的实质在于切断学生的社会经济背景与其学业成就之间的关联，将政策重点精准聚焦于处境不利群体。终身学习本质上应当归入包容维度：当一个人的成长起点不利时，终身学习能够将工作与教育结合起来，帮助其重回上升通道。许多人之所以缺乏教育经历，是因为正规教育给他们带来了痛苦与挫折。因此，终身学习的关键在于架起工作与教育之间的桥梁，教育体系必须找到办法，去疗愈那些曾在正规教育体制中遭受挫败的人。
 >
-> *When you say 'success for all' it means success for nobody... for us, inclusion is not the "for all", but precisely the decoupling between socio-economic background of students and their educational achievements... lifelong learning is essentially the inclusion dimension. When you’ve had a bad start, lifelong learning should allow you to, by combining work and education, to be on an upward trend... lifelong learning is really about paying attention to these bridges between work and education, and education has to find a way to heal those who have been hurt in formal systems of education.*
+> *When you say '[[Success for All|success for all]]' it means success for nobody... for us, inclusion is not the "for all", but precisely the decoupling between socio-economic background of students and their educational achievements... lifelong learning is essentially the inclusion dimension. When you’ve had a bad start, lifelong learning should allow you to, by combining work and education, to be on an upward trend... lifelong learning is really about paying attention to these bridges between work and education, and education has to find a way to heal those who have been hurt in formal systems of education.*
 
 > [!citation-card] 欧盟理事会对成员国主权与共识决策的坚持
 > 教育属于国家事权，因此提交给理事会审议的文件必须以协商一致为前提。在教育委员会内部，我们进行充分讨论；在文件审议结束时，会询问是否有任何成员国持有红线或保留意见，随后由委员会主席确认是否达成共识。欧盟委员会官员虽然列席会议并可自由交流，但这本质上是一个协同协商的过程，最终决定权始终在成员国手中。
 >
-> *Education is a national competence, so the decision on the [[Document|document]] that will be presented to the Council for approval needs to be agreed on a consensual agreement – Within the Education Committee we discuss, and at the end of the examination of the documents, we ask if any member state has any red line or reservation. Then, the Chair of the Education Committee concludes that the Education Committee reaches a consensual agreement... because it’s a co-creation process and a collaborative way of working, but at the end the decision is with the member states.*
+> *Education is a national competence, so the decision on the document that will be presented to the Council for approval needs to be agreed on a consensual agreement – Within the Education Committee we discuss, and at the end of the examination of the documents, we ask if any member state has any red line or reservation. Then, the Chair of the Education Committee concludes that the Education Committee reaches a consensual agreement... because it’s a co-creation process and a collaborative way of working, but at the end the decision is with the member states.*
 
 > [!citation-card] 委员会内部科层分割导致双重平行对话
 > 内部的官僚政治不可忽视，不同的科层等级与不同的分管专员深刻影响着政策产出。目前由教育文化总司推进欧洲教育区，由就业总司推进技能议程，两套架构在很大程度上形成了竞争关系。欧洲教育区公报由教育文化总司起草，就业总司随后介入协商，这也导致最终公报显得不够平衡。就业总司在委员会内部拥有极强的话语权。对理事会而言，委员会步调一致至关重要，但目前两个总司的声音并不统一，直接迫使成员国不得不与委员会开展两套平行的双边对话。
 >
-> *the truth is that bureaucratic politics matters, having a different hierarchy, different commissioners... we now have a European Education Area managed by EAC, and on the other hand the skills agenda managed by Employment. And these are more or less competing frameworks... for us in the Council, it’s truly important that the Commission acts as one. And sometimes we don’t feel that DG-EAC and DG-Employment speak with the same voice... But then member states, instead of having a unique bilateral dialogue with the Commission, we have two bilateral, parallel dialogues.*
+> *the truth is that bureaucratic politics matters, having a different hierarchy, different commissioners... we now have a European Education Area managed by EAC, and on the other hand the skills agenda managed by Employment. And these are more or less competing frameworks... for us in the Council, it’s truly important that the Commission [[ASEAN Credit Transfer System|acts]] as one. And sometimes we don’t feel that DG-EAC and DG-Employment speak with the same voice... But then member states, instead of having a unique bilateral dialogue with the Commission, we have two bilateral, parallel dialogues.*
 
 > [!citation-card] 欧洲教育区决议对委员会公报的法律与政治效力覆盖
 > 我的看法比较传统。通常的决策顺序是委员会先行提出提案，就像去年九月那样，列明优先事项、达成路径以及建议指标。随后由成员国形成自己的应对框架，自主决定取舍。对我来说，2021 年 2 月 18 日的理事会决议毫无疑问是纲领性文件。正是这项决议最终敲定了量化指标，直接取代并覆盖了委员会公报中的提议。
 >
-> *I’m a bit old-school... The logical sequence is that we (Commission) come with a proposal, as in September last year. We said, 'we think these are the priorities', how we want to [[Achieve|achieve]] these priorities, and we suggest to the member states to do it. And, 'these are the targets we want to [[Reach|reach]]'. Then it’s up to the member states to come with a framework. They see it and decide, 'this part I like, this part I don’t like'. For me, it is definitely the 18th February 2021 Resolution that is our guiding document. That decided the targets. It superseded the targets that were mentioned in the Communication.*
+> *I’m a bit old-school... The logical sequence is that we (Commission) come with a proposal, as in September last year. We said, 'we think these are the priorities', how we want to achieve these priorities, and we suggest to the member states to do it. And, 'these are the targets we want to reach'. Then it’s up to the member states to come with a framework. They see it and decide, 'this part I like, this part I don’t like'. For me, it is definitely the 18th February 2021 Resolution that is our guiding [[Document|document]]. That decided the targets. It superseded the targets that were mentioned in the Communication.*
 
 ---
 

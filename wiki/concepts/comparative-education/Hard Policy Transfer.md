@@ -9,7 +9,7 @@ aliases:
 summary: "政策转移研究中指代政策技术、评价工具、法律文本或具体操作规程直接硬性复制的分析概念，区别于理念与话语扩散的软政策转移；在跨国教育与社会政策治理中，硬政策转移常体现为国际组织或主权国家将标准化指标体系、评估规程及专业执行机构跨国直接复制。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Operationalization]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Experimental Research]]"
   - "[[Random Assignment]]"
   - "[[Analytic Framework]]"
 related_instruments:
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-19
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -69,7 +70,7 @@ updated: 2026-10-25
 > *Soft policy transfer encompasses the diffusion of ideas whereas hard policy transfer facilitates the diffusion of policy practices and instruments. In the case of the former, there is room for those agents involved in policy transfer to adapt ideas to the local context. However, hard policy transfer entails a process of 'copying' practices and instruments that leaves little room for adaptation by local agents.*
 
 > [!citation-card] 评估技术规程与海外智库的跨境硬转移
-> 跨国政策转移不仅限于抽象的话语或宏观政策方案，评估技术本身及其具体的操作规程同样构成了独立的政策转移载体。在推行积极劳动力市场改革过程中，英国中央行政体系不仅吸收了美式工作优先理念，而且直接成套引进了美式[[Randomised Controlled Trials|随机对照实验]]规程，并跨国聘请美国专业智库全权负责本土示范项目的实验设计与技术运行，确立了评估技术硬转移的制度形态。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–345)]]
+> 跨国政策转移不仅限于抽象的话语或宏观政策方案，评估技术本身及其具体的操作规程同样构成了独立的政策转移载体。在推行积极劳动力市场改革过程中，英国中央行政体系不仅吸收了美式工作优先理念，而且直接成套引进了美式[[Randomised Controlled Trials|随机对照实验]]规程，并跨国聘请美国专业智库全权负责本土示范项目的[[Experimental Research|实验设计]]与技术运行，确立了评估技术硬转移的制度形态。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–345)]]
 >
 > *Policy transfer can entail the transfer of evaluation technologies and methodologies themselves, not merely substantive policies... The UK government adopted the US experimental methodology, contracting [[MDRC]] to design and run the UK [[Employment Retention and Advancement|Employment Retention and Advancement demonstration]].*
 
@@ -101,30 +102,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　直接照搬现成工具必然引发跨文化排异与测量失效
-
-> [!concept-lens] 工具照搬的文化局限性
-> 该命题反思硬政策转移的技术前提，揭示忽视文化深层差异与学科[[Heterogeneity|异质性]]的机械移植必然遭遇效度危机。
+> [!concept-proposition] 命题一｜直接照搬现成工具必然引发跨文化排异与测量失效
+> **探讨维度　工具照搬的文化局限性** 该命题反思硬政策转移的技术前提，揭示忽视文化深层差异与学科[[Heterogeneity|异质性]]的机械移植必然遭遇效度危机。
 
 > [!claim] Morgan & Shahjahan
 > **直接照搬导致的跨文化水土不服** 国际组织在研制跨国测评工具时，为了节约研发成本与时间，倾向于采取硬政策转移策略直接照搬单一大国（如美国）的现成测验（如 [[Collegiate Learning Assessment|CLA]] 表现性任务）。然而由于题目的情境设定深植于特定的美国本土文化生活背景，在跨国翻译与多国高校实施中遭遇了严重的跨文化理解偏差与高校师生排异，最终迫使研发团队大幅重构框架，不得不增补传统多项选择客观题以作妥协。[[Argument_Morgan_Shahjahan_2014_CE|(Morgan & Shahjahan, 2014, pp. 200–201)]]
 
 ---
 
-### 命题二　评估技术规程与海外智库可作为独立载体完成硬转移
-
-> [!concept-lens] 政策评估工具的硬转移机制
-> 探讨硬政策转移如何突破传统政策文本与法律条文的局限，将量化实验评估技术、设计规程及专业执行机构作为独立载体跨国植入。
+> [!concept-proposition] 命题二｜评估技术规程与海外智库可作为独立载体完成硬转移
+> **探讨维度　政策评估工具的硬转移机制** 探讨硬政策转移如何突破传统政策文本与法律条文的局限，将量化实验评估技术、设计规程及专业执行机构作为独立载体跨国植入。
 
 > [!claim] Legrand, T.
-> **评估技术规程与机构的跨境硬转移** 跨国政策转移不仅限于抽象的[[Discourse|话语]]、宏观政策理念或实体法律条文的借用，量化实证评估技术（如[[Random Assignment|随机分配]]实验规程）与专业智库机构同样能够作为独立的政策载体实现跨国硬转移。英国政府在推行新工党福利改革过程中，不仅借鉴了美国的工作优先理念，更直接将美式[[Randomised Controlled Trials|随机对照实验]]规程引入本土，并跨国聘请美国[[MDRC|人力示范研究公司]]（MDRC）全权负责英国就业保留与晋升（ERA）示范项目的实验设计与现场运行审计，确立了政策评估技术作为跨国硬转移独立客体的制度形态。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–345)]]
+> **评估技术规程与机构的跨境硬转移** 跨国政策转移不仅限于抽象的[[Discourse|话语]]、宏观政策理念或实体法律条文的借用，量化实证评估技术（如[[Random Assignment|随机分配]]实验规程）与专业智库机构同样能够作为独立的政策载体实现跨国硬转移。英国政府在推行新工党福利改革过程中，不仅借鉴了美国的工作优先理念，更直接将美式[[Randomised Controlled Trials|随机对照实验]]规程引入本土，并跨国聘请美国[[MDRC|人力示范研究公司]]（MDRC）全权负责英国就业保留与晋升（ERA）示范项目的[[Experimental Research|实验设计]]与现场运行审计，确立了政策评估技术作为跨国硬转移独立客体的制度形态。[[Argument_Legrand_2012_PolStud|(Legrand, 2012, pp. 342–345)]]
 
 ---
 
-### 命题三　刚性工具复制与弹性理念扩散构成政策转移的双轨形态
-
-> [!concept-lens] 软硬机制的二分[[Analytic Framework|分析框架]]
-> 该命题确立了政策转移的载体刚性划分，指出制度移植的深度取决于给予本土行动者的解释弹性。
+> [!concept-proposition] 命题三｜刚性工具复制与弹性[[Soft Policy Transfer|理念扩散]]构成政策转移的双轨形态
+> **探讨维度　软硬机制的二分[[Analytic Framework|分析框架]]** 该命题确立了政策转移的载体刚性划分，指出制度移植的深度取决于给予本土行动者的解释弹性。
 
 > [!claim] Stone, D.
 > **政策转移机制的软硬二分** 跨国[[Policy Mobility|政策流动]]在机制上分化为两条不同轨道：[[Soft Policy Transfer|软政策转移]]通过理念、概念[[Paradigm|范式]]与专业话语的扩散发挥作用，为本土行动者的自发调适留出充足空间；硬政策转移则通过制度结构、技术规程、测评量规与法律条文的直接复制展开，排斥地方随意变通，构成了强控制力的刚性制度移植。 (Stone, 1999, 2004)

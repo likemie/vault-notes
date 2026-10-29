@@ -10,7 +10,7 @@ aliases:
 summary: "指个体在面对复杂问题时自发、持续运用批判性思维的内在动力、态度倾向与心智习性，与认知技能构成双元支柱；不仅包括求真、开放与审慎，还要求抵御平庸合群与脆弱性文化，具备直面认知不适的心理韧性与推翻既有理论的实验求实精神。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 31
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -22,6 +22,7 @@ tags:
   - theme/engineering-mindset
 related_concepts:
   - "[[Critical Thinking]]"
+  - "[[Habitus]]"
   - "[[Mentorship]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Pragmatic Paradigm]]"
@@ -32,9 +33,11 @@ related_concepts:
   - "[[Authentic Instruction]]"
   - "[[Humility]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
   - "[[Problem Finding]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
+  - "[[Variable]]"
   - "[[Dialogue in Education]]"
   - "[[Publication Bias]]"
   - "[[Creativity]]"
@@ -45,6 +48,7 @@ related_theories:
 related_methods:
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
+  - "[[True Experimental Design]]"
 related_instruments:
   - "[[California Critical Thinking Disposition Inventory]]"
 related_persons:
@@ -61,13 +65,13 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
 
 > [!def] Critical Thinking Disposition
-> [[Critical Thinking|批判性思维]]倾向（Critical Thinking Disposition，亦称批判性思维意向、批判精神或批判性心智习性）是指个体在面对日常情境、学术探究、复杂组织决策与客观现实挑战时，主动、自觉且持续运用批判性思维技能的内在动力、情意态度与心理韧性。它解答了个体“不仅能够思考（Can do），而且愿意并主动去思考（Will do）”的情意动力学机制。根据美国哲学学会（APA）[[APA Delphi Consensus on Critical Thinking|德尔菲专家共识]]与现代认知哲学，批判性思维倾向不仅涵盖求真、开放与审慎，更要求个体具备抵御平庸从众（Likability as a Jail）、承受认知不适并敢于随时推翻自身既有理论的实验反教条品格。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 277–278)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–161)]]
+> [[Critical Thinking|批判性思维]]倾向（Critical Thinking Disposition，亦称批判性思维意向、批判精神或批判性心智[[Habitus|习性]]）是指个体在面对日常情境、学术探究、复杂组织决策与客观现实挑战时，主动、自觉且持续运用批判性思维技能的内在动力、情意态度与心理韧性。它解答了个体“不仅能够思考（Can do），而且愿意并主动去思考（Will do）”的情意动力学机制。根据美国哲学学会（APA）[[APA Delphi Consensus on Critical Thinking|德尔菲专家共识]]与现代认知哲学，批判性思维倾向不仅涵盖求真、开放与审慎，更要求个体具备抵御平庸从众（Likability as a Jail）、承受认知不适并敢于随时推翻自身既有理论的实验反教条品格。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 277–278)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–161)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认知技能背后的情意动力与心智习性系统，强调批判精神的自发激活、求真承诺与心理韧性。
@@ -122,30 +126,24 @@ updated: 2026-10-25
 
 ---
 
-### 命题一　批判性思维倾向可通过明确教学干预显著培育
-
-> [!concept-lens] 可教性与干预效能维度
-> 探讨思维倾向是否仅为不可更改的性格特质，抑或能在学校教育与系统训练中被有效塑造。
+> [!concept-proposition] 命题一｜[[Critical Thinking|批判性思维]]倾向可通过明确教学干预显著培育
+> **探讨维度　可教性与干预效能维度** 探讨思维倾向是否仅为不可更改的性格特质，抑或能在学校教育与系统训练中被有效塑造。
 
 > [!claim] Abrami et al.
 > **思维倾向的实证可塑性与干预增益** 针对 25 项真实验与准[[Experimental Research|实验研究]]的[[Meta-analysis|元分析]]证实，教学干预能够显著提升学习者的[[Critical Thinking|批判性思维]]倾向（$g+ = 0.23, 95\%\text{ CI } [0.06, 0.40], p < .001$）。出版偏倚检验显示结果稳健，从统计学上确证了批判精神与理性习性并非纯粹先天禀赋，而是可通过教学实践获得实质塑造。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 296–297)]]
 
 ---
 
-### 命题二　导师指导在培育批判性思维倾向中发挥最核心的催化塑造功能
-
-> [!concept-lens] 教学策略与情意习性养成机制维度
-> 探讨不同微观教学策略在塑造思维态度与心智习性时的差异化效能。
+> [!concept-proposition] 命题二｜导师指导在培育批判性思维倾向中发挥最核心的催化塑造功能
+> **探讨维度　教学策略与情意[[Habitus|习性]]养成机制维度** 探讨不同微观教学策略在塑造思维态度与心智习性时的差异化效能。
 
 > [!claim] Abrami et al.
 > **[[Mentorship|导师制]]对思维倾向的峰值促进作用** 对比不同教学策略对思维倾向的培养效果发现：单纯的对话策略获得 $g+ = 0.27$（$k = 12$），[[Authentic Instruction|真实性教学]]获得 $g+ = 0.29$（$k = 8$），而**融入[[Mentorship|导师制]]（Mentoring）的教学干预获得了最高的效果量（$g+ = 0.38, k = 5$）**。机制在于批判性思维倾向本质上是一种态度认同与实践习性，导师通过身体力行地展示面对错误时的智识[[Humility|谦逊]]、对复杂问题的求知执着以及对异见的开放包容，发挥了强有力的“榜样示范（Role Modeling）”功能。[[Argument_Abrami_2015_RER|(Abrami et al., 2015, pp. 296–298)]]
 
 ---
 
-### 命题三　批判性思维倾向要求抵御合群从众与脆弱性文化，具备直面认知不适与反教条实验精神
-
-> [!concept-lens] 心理韧性、反从众与工程[[Epistemology|认识论]]维度
-> 探讨个体如何在现实组织与文化压力中保持批判精神，抵御过度保护主观脆弱性所带来的认知退化。
+> [!concept-proposition] 命题三｜批判性思维倾向要求抵御合群从众与脆弱性文化，具备直面认知不适与反教条实验精神
+> **探讨维度　心理韧性、反从众与工程[[Epistemology|认识论]]维度** 探讨个体如何在现实组织与文化压力中保持批判精神，抵御过度保护主观脆弱性所带来的认知退化。
 
 > [!claim] Friedman, R. A.; [[Alexander Karp|Karp, A. C.]] & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **直面认知不适与抵御脆弱性文化** 理查德·弗里德曼（Richard Alan Friedman）与卡普、扎米斯卡指出，过度迎合个体主观脆弱性（如高校滥用“触发预警 / Trigger Warnings”将课堂不适体验夸大为实质伤害）正在催生脆弱的“受害抱怨机制”，严重削弱学习者的心理韧性与批判性面对异见的勇气；真正的批判性思维倾向要求个体具备在不适中保持审慎理性与分寸感（Sense of Proportion）的精神强度。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–157)]]
@@ -154,7 +152,7 @@ updated: 2026-10-25
 > **逃离理论尸体与反教条实验精神** 爱默生（Ralph Waldo Emerson）在 1841 年《自立》中指出，“为了非从众，世界会用不悦抽打你”，批判者必须敢于承受大众指责并随时“丢弃过去的理论尸体”；杜威（John Dewey, 1922）与卡普、扎米斯卡进一步强调，这种批判性习性构成了[[Engineering Mindset|工程思维]]的反教条基石——抑制轻率宏大概括，以彻底的实验精神面对物理证据与系统反馈，勇于根据真实数据动态修正既有判断。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 158–161)]]
 
 > [!claim-table] 批判性思维倾向核心命题汇总
-> | 命题编号 | 核心理论断言 | 代表学者与文献 | 认识论／方法论取向 |
+> | 命题编号 | 核心理论断言 | 代表学者与[[Document\|文献]] | 认识论／方法论取向 |
 > |---|---|---|---|
 > | **命题一** | 批判性思维倾向可通过明确教学干预显著培育 | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 实证元分析、认知可塑性 |
 > | **命题二** | 导师指导在培育批判性思维倾向中发挥最核心的催化塑造功能 | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 角色示范、情意习性转化 |
@@ -199,13 +197,13 @@ updated: 2026-10-25
 > [!ma-table]- 亚组与调节分析
 > <span class="concept-subgroup-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 调节变量 | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
+> | 研究 | 调节[[Variable\|变量]] | 水平 | 效应指标 | $k$ | 效应值 | 95% CI | 显著性或组间检验 |
 > | --- | --- | --- | --- | --- | --- | --- | --- |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015, Table 9)]] | 教学策略 | [[Mentorship\|导师制]]（Mentoring） |  | 5 | <span class="mx-bar ef-bar" title="Hedges' g 0.38"><span class="b8"></span></span>0.38 | [0.03, 0.73] | — |
 > |  |  | [[Authentic Instruction\|真实性教学]]（Authentic） |  | 8 | <span class="mx-bar ef-bar" title="Hedges' g 0.29"><span class="b6"></span></span>0.29 | [0.05, 0.53] | — |
 > |  |  | [[Dialogue in Education\|对话]]研讨（Dialogue） |  | 12 | <span class="mx-bar ef-bar" title="Hedges' g 0.27"><span class="b5"></span></span>0.27 | [−0.01, 0.55] | — |
 >
-> 真实验设计（True Experiments）：真实验与准实验结论高度一致。；已发表文献（Published）：组间差异不显著，排除了显著[[Publication Bias\|发表偏倚]]。；导师制（Mentoring）：导师指导产生最强促进效应。；真实性教学（Authentic）：真实情境激发理性探究承诺。；对话研讨（Dialogue）：观点交锋促成思维开放。
+> [[True Experimental Design|真实验设计]]（True Experiments）：真实验与准实验结论高度一致。；已发表文献（Published）：组间差异不显著，排除了显著[[Publication Bias\|发表偏倚]]。；导师制（Mentoring）：导师指导产生最强促进效应。；真实性教学（Authentic）：真实情境激发理性探究承诺。；对话研讨（Dialogue）：观点交锋促成思维开放。
 
 ---
 

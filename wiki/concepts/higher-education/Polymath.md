@@ -8,7 +8,7 @@ aliases:
 summary: "指具备深厚跨学科认知广度与工程/实践创造力、能够自由穿透学科壁垒并参与国家战略治理的人格与知识形态。在近代科学专业化（1834 年科学家一词出现）之前，以富兰克林、杰斐逊等为代表的博学传统是早期技术共和国的政治与科学根基；现代学科过度区隔与代议技术人才匮乏使其成为跨学科治理反思的重要范畴。"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -78,20 +79,16 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　前专业化时代的博学传统是早期技术共和国高效治理的核心保障
-
-> [!concept-lens] 通识治理与科技决策
-> 探讨博学者如何将技术直觉与国家战略意志无缝融通。
+> [!concept-proposition] 命题一｜前专业化时代的博学传统是早期[[Technological Republic|技术共和国]]高效治理的核心保障
+> **探讨维度　通识治理与科技决策** 探讨博学者如何将技术直觉与国家战略意志无缝融通。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **博学治国与战略自信** 早期美国政治领袖本身即是卓越的科学家与工程师（如[[Michael Fullan|富兰]]克林颠覆性的电学革命、杰斐逊的农机与密码机设计）；这种跨学科素养赋予了政治高层对重大技术战略直接评判与决策的自信，构建了国家意志与科学探索同频共振的[[Technological Republic|技术共和国]]传统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 5–6)]]
 
 ---
 
-### 命题二　现代学科极度专门化挤压了代议政治中的工程人才并诱发决策盲区
-
-> [!concept-lens] 专业化弊端与代议失衡
-> 探讨现代代议政治中科学家与工程师极度边缘化所带来的治理风险。
+> [!concept-proposition] 命题二｜现代学科极度专门化挤压了代议政治中的工程人才并诱发决策盲区
+> **探讨维度　专业化弊端与代议失衡** 探讨现代代议政治中科学家与工程师极度边缘化所带来的治理风险。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
 > **代议技术人才断崖与治理迟钝** 现代大学与学术评价体制过度奖励狭窄专精而惩罚跨界探索；这一演进不仅消解了博学传统，更导致当代立法机构被法律专业人士全面垄断（全美各州议员中科学家与工程师仅占 1.3%），在面临 AI 与软件时代的复杂技术博弈时，政治决策层陷入了严重的理解障碍与制度性迟钝。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 5–6, 155)]]
@@ -119,7 +116,7 @@ updated: 2026-10-22
 > > [!axis] 知识爆炸时代通才的可行性
 > > 争论在当代庞大的知识体量下，个体是否仍有可能成为真正具有原创贡献的博学者。
 > >
-> > - **怀疑专精派** 认为当今单一微观领域的文献积累已耗尽个人精力，博学往往流于蜻蜓点水式的平庸。
+> > - **怀疑专精派** 认为当今单一微观领域的[[Document|文献]]积累已耗尽个人精力，博学往往流于蜻蜓点水式的平庸。
 > > - **跨界重组派** 坚持重大[[Paradigm|范式]]突破（如 AI 与现代战场感知重组）高度依赖能够穿透多领域的通识认知者，广度是催生深层洞见的催化剂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 5–6)]]
 
 ---

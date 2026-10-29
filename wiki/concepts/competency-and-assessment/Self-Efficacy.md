@@ -9,7 +9,7 @@ aliases:
 summary: "阿尔伯特·班杜拉提出的社会认知动机核心构念，指个体对自身在特定任务情境中组织并执行必要行动以达成特定目标的胜任信念；通过预期、努力持久度与目标设定调节学习与教学，并在支架式探究与认识论实践中作为亲历掌握经验塑造的学科胜任信念与科学知者身份认同关键成果。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Construct]]"
   - "[[Epistemological Beliefs]]"
+  - "[[Student Motivation]]"
   - "[[Academic Achievement]]"
   - "[[Metacognition]]"
   - "[[Operationalization]]"
@@ -34,22 +35,22 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Theory of Knowledge]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Neuromyth]]"
   - "[[Learning Styles]]"
   - "[[Variable]]"
+  - "[[Epistemic Practices]]"
   - "[[Epistemology]]"
   - "[[Discourse]]"
   - "[[Direct Instruction]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Nature of Science]]"
   - "[[Epistemic Agency]]"
-  - "[[Epistemic Practices]]"
   - "[[Lifelong Learning]]"
   - "[[Differentiated Instruction]]"
   - "[[Learner Autonomy]]"
   - "[[Learning Strategies]]"
   - "[[Classroom Management]]"
   - "[[Educational Science Communication]]"
-  - "[[Neuromyth]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Refutational Evidence]]"
   - "[[Voluntarism]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---
@@ -108,7 +109,7 @@ updated: 2026-10-25
 > |---|---|---|---|---|
 > | **分析对象** | 对特定任务行动胜任力的主观判断 | 对自我整体价值与身份的情感性评价 | 经客观测量确证的知识与技能储备 | 对知识本质、来源与确定性的深层认知结构 |
 > | **核心机制** | 预期能否达成目标，调节努力与坚韧性 | 维持自我价值感，调节情绪安全与自尊防御 | 决定任务完成的技术上限与客观产出质量 | 影响对复杂问题、证据反驳与专业实践的理解方式 |
-> | **适用情境** | 任务层面的学习动机、教师教学胜任力评估 | 全局性心理健康与人格发展研究 | [[Academic Achievement\|学业成就]]测量与标准化专业能力认证 | 教师教学决策、科学理解与教学法反思 |
+> | **适用情境** | 任务层面的[[Student Motivation\|学习动机]]、教师教学胜任力评估 | 全局性心理健康与人格发展研究 | [[Academic Achievement\|学业成就]]测量与标准化专业能力认证 | 教师教学决策、科学理解与教学法反思 |
 
 ---
 
@@ -141,40 +142,32 @@ flowchart LR
 
 ---
 
-### 命题一　教学实践成效与教师认识论信念之间存在双向重塑机制，成功的高阶探究教学显著提升教师自我效能感
-
-> [!concept-lens] [[Teacher Beliefs\|教师信念]]与实践经验的双向交互
-> 揭示教师自我效能感在真实课堂教学实践中与教学策略、[[Epistemological Beliefs\|认识论信念]]动态交互生成；面对复杂教学挑战取得的成功经验对提升教师教学效能具有驱动作用。
+> [!concept-proposition] 命题一｜教学实践成效与教师[[Epistemological Beliefs|认识论信念]]之间存在双向重塑机制，成功的高阶探究教学显著提升教师自我效能感
+> **探讨维度　[[Teacher Beliefs\|教师信念]]与实践经验的双向交互** 揭示教师自我效能感在真实课堂教学实践中与教学策略、[[Epistemological Beliefs\|认识论信念]]动态交互生成；面对复杂教学挑战取得的成功经验对提升教师教学效能具有驱动作用。
 
 > [!claim] [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers, 2015]]
 > **探究教学经验对教师效能感与认识论信念的反向强化** 教师信念与教学实践之间存在深刻的双向重塑机制。全球跨国大规模调查显示，当教师长期承担高挑战性、注重[[Critical Thinking\|批判性思维]]与跨学科探究的复杂课程（如[[International Baccalaureate\|国际文凭]]项目的[[Theory of Knowledge\|知识论]]课程（Theory of Knowledge, TOK））并积累成熟经验时，其教学信心与自我效能感相较于新手教师显著提高（中等教龄组[[Effect Size\|效应量]] $d = 0.40$，资深组 $d = 0.51$），并反向推动其认识论信念向[[Constructivist Paradigm\|建构主义]]与审辩取向深化。[[Argument_Bergeron_2015_TeachingTOK\|(Bergeron & Rogers, 2015, pp. 9–10 引用 Buehl & Beck, 2015)]]
 
 ---
 
-### 命题二　教学中的本质主义定型与教育神经神话会系统性削弱学生的任务自我效能感并诱发回避行为
-
-> [!concept-lens] 本质主义标签对学习效能信念的认知束缚
-> 阐明缺乏科学依据的伪科学教育神话（如[[Learning Styles\|学习风格假说]]）如何通过将学习者固化为单一感官类型，破坏学生在多通道任务中的胜任信念，形成人为的认知设限与动机抑制。
+> [!concept-proposition] 命题二｜教学中的本质主义定型与[[Neuromyth|教育神经神话]]会系统性削弱学生的任务自我效能感并诱发回避行为
+> **探讨维度　本质主义标签对学习效能信念的认知束缚** 阐明缺乏科学依据的伪科学教育神话（如[[Learning Styles\|学习风格假说]]）如何通过将学习者固化为单一感官类型，破坏学生在多通道任务中的胜任信念，形成人为的认知设限与动机抑制。
 
 > [!claim] [[Argument_Besa_2024_UW\|Besa, 2024]]
 > **本质主义分类定型对学习者自我效能感的习得性削弱** 在缺乏实证转译的课堂实践中广泛流行的[[Learning Styles\|学习风格神话]]（Lerntypenmythos），诱导教师、学生与家长将学习者划分为“视觉型”、“听觉型”或“动觉型”等孤立类别。这种本质主义分类（Nancekivell et al., 2020）诱使学生将特定感官通道的偏好错误等同于自身能力的不可变边界，极大地削弱了学生在非偏好通道或多模态深度学习任务上的自我效能感，导致其主动回避需要综合运用多元表征的复杂认知活动，在心理层面上造成自我设限与潜能抑制。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 252)]]
 
 ---
 
-### 命题三　自我效能感通过预期塑造、努力持久度与目标设定三大心理机制调节个体的深度学习与动机维持
-
-> [!concept-lens] 社会认知动机调控机制
-> 阐明自我效能信念如何作为中枢心理[[Variable\|变量]]，直接支配学习者在面对学业挑战时的努力分配、目标导向与认知坚持度。
+> [!concept-proposition] 命题三｜自我效能感通过预期塑造、努力持久度与目标设定三大心理机制调节个体的深度学习与动机维持
+> **探讨维度　社会认知动机调控机制** 阐明自我效能信念如何作为中枢心理[[Variable\|变量]]，直接支配学习者在面对学业挑战时的努力分配、目标导向与认知坚持度。
 
 > [!claim] [[Argument_Li_2012_Cambridge\|Li, 2012]]
-> **效能信念对学习动机与抱负水平的决定性调控** 在语言习得与复杂学业任务中，自我效能感构成主动调控未来动机的主导力量。高自我效能感能够促使学习者主动设定更具挑战性的近端与远端目标，在遭遇挫折时保持更强的抗逆力与投入度；相反，低效能信念会使学习者在任务启动前即产生失败预期，大幅减少努力投入并诱发拖延与回避行为。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 58–60, 65)]]
+> **效能信念对[[Student Motivation|学习动机]]与抱负水平的决定性调控** 在语言习得与复杂学业任务中，自我效能感构成主动调控未来动机的主导力量。高自我效能感能够促使学习者主动设定更具挑战性的近端与远端目标，在遭遇挫折时保持更强的抗逆力与投入度；相反，低效能信念会使学习者在任务启动前即产生失败预期，大幅减少努力投入并诱发拖延与回避行为。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 58–60, 65)]]
 
 ---
 
-### 命题四　支架式科学探究与课堂认识论实践通过具身掌握经验显著培育学生的学科自我效能感与知者身份认同
-
-> [!concept-lens] 科学探究情境中的自我效能生成与[[Epistemology\|认识论]]动因
-> 探讨自主探究与微观[[Discourse|话语]]协商实践相较于单向[[Direct Instruction\|直接讲授]]，如何通过引导学生深度参与真实科学[[Knowledge Building Theory|知识建构]]，直接提供亲历掌握经验以提升其学科自我效能感，并建立合法的科学知者身份。
+> [!concept-proposition] 命题四｜支架式科学探究与课堂[[Epistemic Practices|认识论实践]]通过具身掌握经验显著培育学生的学科自我效能感与知者身份认同
+> **探讨维度　科学探究情境中的自我效能生成与[[Epistemology\|认识论]]动因** 探讨自主探究与微观[[Discourse|话语]]协商实践相较于单向[[Direct Instruction\|直接讲授]]，如何通过引导学生深度参与真实科学[[Knowledge Building Theory|知识建构]]，直接提供亲历掌握经验以提升其学科自我效能感，并建立合法的科学知者身份。
 
 > [!claim] [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
 > **探究体验对科学自我效能感与认识论动因的独特培育** 在科学教育与教学法争论中，教学成效的衡量不能窄化为孤立的概念性事实测验。实证研究明确表明，[[Inquiry-Based Learning\|探究式学习]]在激发学生的[[Nature of Science\|科学本质]]（Nature of Science, NOS）认知、探究实践素养、科学学习兴趣以及自我效能感等非认知与认识论维度上具有直接讲授无法替代的独特育人价值；依照[[Albert Bandura\|班杜拉]]的社会认知理论，亲历掌握经验（Mastery Experiences）是自我效能感最稳固的信息来源，在支架式探究中，学生通过自主提出假设、[[Design-Based Research\|设计实验]]并解决真实认知阻碍，亲身获得了作为“知识发现者与检验者”的具身掌握体验，从而显著强化了面对复杂科学挑战时的胜任信念与认识论动因（[[Epistemic Agency]]）。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 10)]]
@@ -184,10 +177,8 @@ flowchart LR
 
 ---
 
-### 命题五　大规模跨国测评将自我效能感制度化为终身学习与知识经济的关键非认知胜任力指标
-
-> [!concept-lens] 跨国治理中的非认知[[Construct|构念]][[Operationalization|操作化]]
-> 探讨国际评估体系如何将自我效能感从个体内在的心理动力构念，转换为衡量国家[[Human Capital Theory|人力资本]]潜力与学生应对未来生活挑战的标准化政策指标。
+> [!concept-proposition] 命题五｜大规模跨国测评将自我效能感制度化为[[Lifelong Learning|终身学习]]与[[Knowledge-Based Economy|知识经济]]的关键非认知胜任力指标
+> **探讨维度　跨国治理中的非认知[[Construct|构念]][[Operationalization|操作化]]** 探讨国际评估体系如何将自我效能感从个体内在的心理动力构念，转换为衡量国家[[Human Capital Theory|人力资本]]潜力与学生应对未来生活挑战的标准化政策指标。
 
 > [!claim] Grek
 > **自我效能感在大规模测评中的制度化与非认知素养测度** 索蒂里亚·格雷克（[[Sotiria Grek]]）指出，[[OECD|经济合作与发展组织]]（[[OECD]]）推行的[[PISA]]测评将自我效能感确立为核心的非认知心理指标。PISA 聚焦于学生在面对现实生活挑战时的通用胜任力，摆脱了依附特定国家课程大纲的测验模式；[[Questionnaire|问卷]]系统测查学生的学习动机、自主规制策略以及对自身学术任务胜任力的信念（自我效能感）。通过标准化心理测量技术，学生内在的效能信念被转化为跨国可比的数据指标，成为界定现代[[Knowledge-Based Economy|知识经济]]中“有效[[Lifelong Learning|终身学习]]者”的核心判准[[Argument_Grek_2009_JEdPolicy|(Grek, 2009, p. 27)]]。

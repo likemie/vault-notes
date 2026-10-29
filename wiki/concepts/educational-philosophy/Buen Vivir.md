@@ -8,7 +8,7 @@ aliases:
 summary: "源自安第斯原住民宇宙观的生态伦理与整体繁荣哲学，强调人与自然（Pachamama）、跨代际社群及精神传统的互依和谐共生；在教育哲学与批判发展学中，构成解构西方人类中心主义、新自由主义人力资本论与单纯经济增长神话的核心替代范式。"
 type: concept
 domain: "educational-philosophy"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Productization of the Mind]]"
   - "[[The Right and the Good]]"
+  - "[[Document]]"
   - "[[Technological Agnosticism]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -93,14 +94,14 @@ updated: 2026-10-22
 
 ---
 
-### 命题一　从人力资本到生态共生：Buen Vivir 对教育功利化与心智产品化的批判
+> [!concept-proposition] 命题一｜从[[Human Capital Theory|人力资本]]到生态共生：Buen Vivir 对教育功利化与[[Productization of the Mind|心智产品化]]的批判
 
 > [!claim] 命题核心主张
 > 当代全球教育政策深受[[Human Capital Theory|人力资本]]论主导，将受教育者异化为劳动力市场中可定价的技能资产（如名校毕业生高度集中于金融咨询等变现行业，导致严重的[[Productization of the Mind|心智产品化]]）。Buen Vivir 提供了根本性的解毒剂：它主张真正的“好教育”不是帮助个体在文凭军备竞赛中胜出以实现更多的个人消费（*vivir mejor*），而是引导受教育者理解自身的消费抉择如何嵌于生态系统与他人福祉之中，在测量与排名之外重建关于生命意义与伦理责任的深层感知。[[Argument_Amos_2022_Springer|(Amos, 2022, pp. 64–65)]]
 
 ---
 
-### 命题二　正义骨架与美好生活血肉：Buen Vivir 与实质伦理哲学的共鸣
+> [!concept-proposition] 命题二｜正义骨架与美好生活血肉：Buen Vivir 与实质伦理哲学的共鸣
 
 > [!claim] 命题核心主张
 > 在西方政治哲学讨论中，[[John Rawls|约翰·罗尔斯]]等自由主义者主张“[[The Right and the Good|正当优先于善]]”（The Priority of Right over Good），导致公共[[Discourse|话语]]退守于形式化、无菌化的程序中立，正如[[Ágnes Heller|阿格妮丝·赫勒]]所警示的“只有冰冷的正义骨架，丧失了美好生活的血肉”（Heller, 1987; [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）。Buen Vivir 作为非西方本土哲学中关于“善与美好生活”（The Good Life）的充实表达，展现了文明若要走出后现代解构带来的价值虚无，必须敢于在公共领域重新界定何为值得过的高贵、和谐生活，将制度的正义骨架与实质伦理血肉有机熔融。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 80–82)]]
@@ -126,5 +127,5 @@ updated: 2026-10-22
 > | [[Posthumanism]] | 概念 | 理论共鸣，西方生态后人类主义打破人类中心主义的跨文化对话伙伴。 |
 > | [[Human Capital Theory]] | 理论 | 批判靶向，Buen Vivir 坚决拒绝将教育矮化为提高经济生产率与个体消费能力的功利工具。 |
 > | [[Ágnes Heller]] | 人物 | 哲学家，其论“正义是骨架，美好生活是血肉”与 Buen Vivir 追求充实生活意义的主张深度互通。 |
-> | [[Argument_Amos_2022_Springer\|Amos (2022)]] | 论证 | 母体文献，系统论述 Buen Vivir、Ubuntu 与后人类主义在教育哲学中的家族相似性与跨文化潜力。 |
+> | [[Argument_Amos_2022_Springer\|Amos (2022)]] | 论证 | 母体[[Document\|文献]]，系统论述 Buen Vivir、Ubuntu 与后人类主义在教育哲学中的家族相似性与跨文化潜力。 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06\|Karp & Zamiska (2025)]] | 论证 | 思想参照，批判现代公共[[Discourse\|话语]]从“美好生活”的实质讨论中撤退所导致的伦理真空与[[Technological Agnosticism\|技术不可知论]]。 |

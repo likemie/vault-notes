@@ -31,6 +31,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
+  - "[[Document]]"
   - "[[Knowledge Bank]]"
   - "[[Paradigm]]"
   - "[[Knowledge Mediation]]"
@@ -38,6 +39,7 @@ related_concepts:
   - "[[Online Education]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Heterogeneity]]"
+  - "[[General Purpose Technology]]"
   - "[[Gamification]]"
   - "[[School Autonomy]]"
   - "[[Academic Achievement]]"
@@ -95,14 +97,14 @@ sources:
 part_of: ""
 status: active
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-10-29
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Zapp_2017_IJED"
 argument_key: "Argument_Zapp_2017_IJED"
 argument_display_title: "The World Bank and education: Governing (through) knowledge"
 argument_kind: "journal-article"
-argument_related_count: 65
+argument_related_count: 67
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -159,7 +161,7 @@ issuing_organization: ""
 
 ## 研究方法
 
-实证考察依托多源纵向统计数据库、文献引文索引与项目运营档案展开：
+实证考察依托多源纵向统计数据库、[[Document|文献]]引文索引与项目运营档案展开：
 
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
@@ -195,10 +197,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤一　信贷份额见顶倒逼世界银行转向智识输出
+> [!claim|step] 论证步骤一　信贷份额见顶倒逼世界银行转向智识输出
 > 世界银行教育贷款在经历三十年扩张后面临资本总额与资金份额双重上限；受制于微弱的外部出资占比，世行于 1996 年确立[[Knowledge Bank|知识银行]]战略，并将教育部门作为数字化转型的先导试验田。
 
-#### 1. 教育贷款占比回落显露单纯信贷扩张的制度上限
+> [!sub-claim] 1. 教育贷款占比回落显露单纯信贷扩张的制度上限
 
 自 1962 年向突尼斯发放首笔 500 万美元中等技术教育贷款以来，世界银行教育信贷呈现出波动增长的历时轨迹。
 
@@ -218,7 +220,7 @@ issuing_organization: ""
 > - **边际效用递减驱动治理重心移向认知规训** 当硬通货信贷无法垄断[[Discourse|话语]]权时，世行必须转向生产客观实证知识与普适基准以重塑对主权国家的深层影响力。
 > - **世界银行由资金银行向理念银行战略转型** 资本供给模式的制度上限最终倒逼全行确立知识银行战略，实现全球教育治理[[Paradigm|范式]]向[[Epistemic Governance|认知治理]]的根本重构。
 
-#### 2. 教育知识管理试验将世行重塑为全球智识中枢
+> [!sub-claim] 2. 教育知识管理试验将世行重塑为全球智识中枢
 
 1996 年 10 月，世界银行时任行长[[James Wolfensohn|詹姆斯·沃尔芬森]]在年会演讲中正式提出建设[[Knowledge Bank|知识银行]]的战略倡议，拉开了全行动员的知识转型序幕。
 
@@ -237,7 +239,7 @@ issuing_organization: ""
 > - **2000** 创立[[Global Development Learning Network|全球发展学习网络]]（Global Development Learning Network, GDLN）；启动[[Development Gateway|发展网关]]（Development Gateway）推进全球发展数据与援助透明化。
 > - **2004** 在上海举办全球扶贫大会并启动全球学习计划。
 > - **2010** 推出开放发展战略，开启开放知识与开放数据倡议；启动[[Skills Toward Employment and Productivity|就业与生产力技能项目]]（STEP）。
-> - **2012** [[Open Knowledge Repository|开放知识库]]（OKR）正式上线运行，实现全球文献免费开放下载。
+> - **2012** [[Open Knowledge Repository|开放知识库]]（OKR）正式上线运行，实现全球[[Document|文献]]免费开放下载。
 > - **2013** 创设[[Open Learning Campus|开放学习园区]]（OLC），构建跨国[[Online Education|在线教育]]平台。
 > - **2014** 全面推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）量规对标体系。
 
@@ -253,10 +255,10 @@ issuing_organization: ""
 
 ---
 
-> [!claim] 论证步骤二　实体化科研建制促成世行教育学术产出超越顶尖大学
+> [!claim|step] 论证步骤二　实体化科研建制促成世行教育学术产出超越顶尖大学
 > 世界银行依托专职科研机构（DEC）与独立研发预算，建立了不依赖外部大学的自主科研体系；其在教育领域的学术发表规模呈现爆发式增长，年发文量达到全球顶尖大学均值的三倍。
 
-#### 1. 常设科研编制与专属预算保障世行自主生产微观实证
+> [!sub-claim] 1. 常设科研编制与专属预算保障世行自主生产微观实证
 
 获取世界银行科研规模的准确数据极具挑战性，因为官方口径严格将常规的国别经济与部门工作（Economic and Sector Work, ESW）、《世界发展报告》（WDR）及世行学院成果排除在正式科研统计之外。
 
@@ -269,7 +271,7 @@ issuing_organization: ""
 
 这些实体科研投入确保了世界银行能够在微观计量层面自主生成极具技术权威的国别实证结论（例如莫桑比克教育普及障碍与近期改革成效实证分析）。
 
-#### 2. 教育学术成果激增确立世行在发展研究领域的发表霸权
+> [!sub-claim] 2. 教育学术成果激增确立世行在发展研究领域的发表霸权
 
 世界银行出版物组合在过去三十年间经历了结构性转型，从早期的政策白皮书演变为高度学术化的专著与工作文稿库。
 
@@ -291,10 +293,10 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 
 ---
 
-> [!claim] 论证步骤三　集中化数字仓储与对标量规确立全球指标垄断
+> [!claim|step] 论证步骤三　集中化数字仓储与对标量规确立全球指标垄断
 > 世界银行通过开放知识库（OKR）与全球测评数据库集中收储实证文献；同时借助 SABER 与 STEP 跨国诊断工具，将各国[[Heterogeneity|异质性]]的教育体制纳入标准化的四级成熟度量规，构筑起高度自指的实证封闭圈。
 
-#### 1. 集中化文献库与多源测评拼接垄断全球教育实证档案
+> [!sub-claim] 1. 集中化文献库与多源测评拼接垄断全球教育实证档案
 
 世界银行不仅储存自身科研成果，更将自身塑造为汇聚全球教育知识的数字化中央清算所。
 
@@ -302,7 +304,7 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 > - **开放知识库（OKR）** 2012 年正式上线，收录全行 19,000 余份智力成果；教育是其中最大的单一领域，收录逾 6,900 份免费文献。2013 年单年下载量即达 225 万次，日均下载达 6,164 次，成为全球最具辐射力的数据仓库。
 > - **多源学生评估数据库合并** [[EdStats|教育统计查询系统]]（EdStats）整合了覆盖 242 个国家和地区的 3,261 项指标，更将高收入国家的国际测验（如[[PISA|国际学生评估项目]] [Programme for International Student Assessment, PISA]、[[TIMSS|国际数学与科学趋势研究]] [Trends in International Mathematics and Science Study, TIMSS]）与全球南方的区域性评估（如南部和东部非洲教育质量监测联合会 ([[SACMEQ|Southern and Eastern Africa Consortium for Monitoring Educational Quality]], SACMEQ)、法语国家教育系统分析项目 [Programme d'Analyse des Systèmes Éducatifs de la CONFEMEN, [[PASEC]]]、[[LLECE|拉丁美洲教育质量评估实验室]] [Latin American Laboratory for Assessment of the Quality of Education, LLECE] 及其第二次区域比较与解释性研究 [Second Regional Comparative and Explanatory Study, SERCE]）融合至统一中枢，构建了跨国教育成就的全球度量衡。
 
-#### 2. 四级成熟度量规将主权教育体制转译为通用技术指标
+> [!sub-claim] 2. 四级成熟度量规将主权教育体制转译为[[General Purpose Technology|通用技术]]指标
 
 在数据整合之上，世界银行推出了直接针对国家教育治理体制的量规工具。
 
@@ -319,7 +321,7 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 > - **覆盖国别样本** 首轮覆盖亚美尼亚、玻利维亚、哥伦比亚、格鲁吉亚、加纳、老挝、斯里兰卡、越南及中国云南省等 9 个国家和地区。
 > - **制度治理导向** 将实证度量触角由基础教育体制向后延伸至全生命周期[[Human Capital Theory|人力资本]]与劳动力市场供需匹配。
 
-#### 3. 高比例自我引证与新古典学派偏好筑牢实证自指封闭圈
+> [!sub-claim] 3. 高比例自我引证与新古典学派偏好筑牢实证自指封闭圈
 
 1978 至 2013 年间历届《世界发展报告》与《教育部门战略》的引文网络计量分析，呈现出鲜明的实证自指倾向：
 
@@ -334,10 +336,10 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 
 ---
 
-> [!claim] 论证步骤四　虚拟研修与巨额信贷将主权国家改造为实地实验场
+> [!claim|step] 论证步骤四　虚拟研修与巨额信贷将主权国家改造为实地实验场
 > 世界银行通过开放学习园区（OLC）向各国官员灌输标准化改革处方，设立国际声誉奖励笼络本土技术精英，并借助十亿美元级贷款项目将微观管理规程深植入主权国家教育体系。
 
-#### 1. 全球虚拟研修平台定向规训借款国技术官僚思维
+> [!sub-claim] 1. 全球虚拟研修平台定向规训借款国技术官僚思维
 
 世界银行的教学与培训使命构成了认知治理中极少受到关注的一环。
 
@@ -346,7 +348,7 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 > - **名校与专业平台联手** 与剑桥大学、爱默生学院、Coursera、edX 等机构建立深度合作，开展[[Gamification|游戏化]]、体验式、同行互评的高阶互动培训，并对合格学员发放获得学术认证的专业证书。
 > - **核心处方课程灌输** 核心课程紧密围绕世行提倡的新自由主义治理机制展开，如[[School Autonomy|学校自主]]与问责、早期儿童发展、学生学业评价及教师激励政策，定向培育认同世行技术方案的借款国技术官僚后备军。
 
-#### 2. 十亿美元级借贷项目将主权国教育体制转变为微观实验场
+> [!sub-claim] 2. 十亿美元级借贷项目将主权国教育体制转变为微观实验场
 
 自 1947 年以来，世界银行已在教育领域实施了超过 10,000 个项目，累计投资 690 亿美元；在 1998 至 2013 年间，其直接介入了全球 110 个国家的教育体制改革。
 
@@ -360,7 +362,7 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 > - **体制覆盖密度** 项目实施范围覆盖罗马尼亚全境 80% 的公立普通高中与 85% 的公立大学学院，重点针对弱势群体集中的薄弱学校。
 > - **核心治理重点与规程** 针对高中毕业考试（Baccalaureate）通过率低、大一新生辍学率高这一关键瓶颈，世行依托诊断模型引入竞争性校级拨款、补救辅导计划、社会情感辅导及以学生为中心的教学评价大纲，将外部量规全面嵌入该国向欧洲高等教育区过渡的制度管道。
 
-#### 3. 声誉奖励与跨部门项目渗透促使各国主动依从世行标准
+> [!sub-claim] 3. 声誉奖励与跨部门项目渗透促使各国主动依从世行标准
 
 除了直接借贷外，包含教育构件的项目在世行多边业务中持续扩散。
 
@@ -396,7 +398,7 @@ Scopus 文献计量数据进一步揭示了世界银行在教育学科领域的�
 
 > [!finding-cards] 核心发现
 > 1. **国际组织[[Epistemic Governance|认知治理]][[Analytic Framework|分析框架]]的理论奠基** Scott (2001) 制度化三支柱理论与 Jakobi (2009) 治理工具分类在此拓展为涵盖[[Knowledge Production|知识生产]]、知识管理与知识传播三维机制的全球教育认知治理模型，填补了以往研究偏重硬性制裁与规范议程的分析缺口。
-> 2. **教育部门作为世行知识转向的核心试验田** 自[[James Wolfensohn|沃尔芬森]] 1996 年提出[[Knowledge Bank|知识银行]]战略以来，教育部门率先通过建立[[Educational Knowledge Management System|教育知识管理系统]]（EKMS）开展数字化知识集散试验，推动世界银行演进为全球规模最大的教育科研生产基地，其文献发表量达到顶尖大学均值的三倍。
+> 2. **教育部门作为世行知识转向的核心试验田** 自[[James Wolfensohn|沃尔芬森]] 1996 年提出[[Knowledge Bank|知识银行]]战略以来，教育部门率先通过建立[[Educational Knowledge Management System|教育知识管理系统]]（EKMS）开展数字化知识集散试验，推动世界银行演进为全球规模最大的教育科研生产基地，其[[Document|文献]]发表量达到顶尖大学均值的三倍。
 > 3. **政策[[Discourse|话语]]的高度学术化与自指性封闭风险** 战略文献纵向引文分析显示，世行报告已从 1970 年代缺乏引证的行政文本演进为拥有上千条引文的学术巨著；然而正如批判学者[[Robin Broad|罗宾·布罗德]]（[[Robin Broad]], 2006）所揭示的“[[Paradigm|范式]]维护”机制，世行高密度的自引特征形成了自我引证的实证支持循环，强化了特定微观计量[[Paradigm|范式]]的[[Epistemology|认识论]]统治地位。
 > 4. **标准化度量与虚拟培训实现全球认知常识塑造** 依托 [[Open Knowledge Repository|OKR]] 文献库、[[Systems Approach for Better Education Results|SABER]] 政策诊断量规、[[Skills Toward Employment and Productivity|STEP]] 技能测试以及[[Open Learning Campus|开放学习园区]]（OLC）在线培训，世行实现了从数据采集、标准确立、人员认证到项目贷款的全链条覆盖，确立了全球教育改革常识的定义权。
 

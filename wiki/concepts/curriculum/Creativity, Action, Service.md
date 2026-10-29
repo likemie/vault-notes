@@ -10,7 +10,7 @@ aliases:
 summary: "国际文凭大学预科项目的核心要素，通过创意表达、身体活动、社区服务与反思，使学科学习与真实责任发生联系。"
 type: concept
 domain: "curriculum"
-related_count: 23
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,11 +25,13 @@ related_concepts:
   - "[[Theoretical Knowledge]]"
   - "[[Theory of Knowledge]]"
   - "[[Extended Essay]]"
+  - "[[Extracurricular Activities]]"
   - "[[International Schools]]"
   - "[[Concurrency of Learning]]"
   - "[[Epistemology]]"
   - "[[Knowledge Questions]]"
   - "[[Research Question]]"
+  - "[[Teacher Collaboration]]"
   - "[[Experiential Learning]]"
 related_theories: []
 related_methods:
@@ -51,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---
@@ -67,7 +69,7 @@ updated: 2026-10-22
 > [!boundary]- 早期 CASS 与后来 CAS 共享理念，但制度边界不同
 > - **早期 CASS** 中央要求学校保护非学术学习时间、提供机会并附活动记录，不主张用统一分数评定每名学生。
 > - **后来 CAS** 把完成经验与反思明确纳入文凭要求，同时仍与 EE 和 TOK 的学术评分方式不同。
-> - **不等于任意课外活动** 看电影、踢球或参加社团不会因发生在课外就自动具有 CAS 价值；需要结合真实任务、学生责任、持续参与和反思判断。
+> - **不等于任意[[Extracurricular Activities|课外活动]]** 看电影、踢球或参加社团不会因发生在课外就自动具有 CAS 价值；需要结合真实任务、学生责任、持续参与和反思判断。
 
 ---
 
@@ -126,7 +128,7 @@ updated: 2026-10-22
 
 ## 围绕概念形成的命题
 
-### 命题一　CAS 的最低共同性应是机会、指导与记录，而不是统一活动清单
+> [!concept-proposition] 命题一｜[[Chinese Academy of Sciences|CAS]] 的最低共同性应是机会、指导与记录，而不是统一活动清单
 
 > [!claim] [[Alec Peterson\|Peterson, A. D. C.]]
 > **中央制度应保障学习条件，学校应根据地方需要设计项目** 早期 CASS 先保护每周非学术学习时间，后来的扩张又表明，各地需要不同、活动传统不同，[[International Baccalaureate|IBO]] 也没有督学体系查核每个项目。因此，可行的共同边界是要求学校提供机会、教师给予指导、学生承担真实责任，并以详细档案呈现经历。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 45–46)]]；[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 182–184)]]
@@ -134,15 +136,13 @@ updated: 2026-10-22
 > [!warrant]- 共同标准与地方差异可以通过责任结构连接
 > 莫希的医疗支持和公共工程、Bellaire 的学生自组织、大西洋学院的海上救援与城市学校的日常陪伴，活动表面不同，却都能由真实需要、持续参与、学生责任和可追踪记录加以判断。共同性因而来自学习责任，不是项目名称相同。
 
-### 命题二　强制打卡可能产生形式合规，却损害真实参与
+> [!concept-proposition] 命题二｜强制打卡可能产生形式合规，却损害真实参与
 
 > [!claim] [[Alec Peterson\|Peterson, A. D. C.]]
 > **质量保障要监测学校是否提供良好条件，不应把所有经验压缩为分数** 彼得森担心，若把文凭资格直接系于形式参与，抵制者可能只完成最低动作，并破坏其他学生的合作经验。他因而支持加强教师指导和文凭附件中的详细档案，不赞成把 CASS 纳入普通积分体系。这是他对当时制度的规范性判断，不是后来 [[Chinese Academy of Sciences|CAS]] 要求的现状说明。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 182–184)]]
 
-### 命题三　核心组件只有共享问题与证据，才能形成并发学习
-
-> [!concept-lens] 跨组件[[Concurrency of Learning|并发学习]]（Concurrency of Learning）
-> 探究 CAS 如何与 [[Theory of Knowledge|TOK]] 和 EE 共享问题、证据和反思，从相互分离的任务转为系统联动。
+> [!concept-proposition] 命题三｜核心组件只有共享问题与证据，才能形成[[Concurrency of Learning|并发学习]]
+> **探讨维度　跨组件[[Concurrency of Learning|并发学习]]（Concurrency of Learning）** 探究 CAS 如何与 [[Theory of Knowledge|TOK]] 和 EE 共享问题、证据和反思，从相互分离的任务转为系统联动。
 
 > [!claim] Metli, A. & Akış, D.
 > **作为[[Epistemology|认识论]]现实锚点与实践出口的 CAS** 
@@ -171,7 +171,7 @@ updated: 2026-10-22
 ---
 
 > [!warning] 适用局限
-> - **系统性实践脱节** 在国家课程、高利害大学入学考试和 [[IB Diploma Programme|IBDP]] 并行的学校中，课业压力、课表僵化、教师协作时间不足和反思机制单一，容易使 [[Chinese Academy of Sciences|CAS]] 退化为孤立任务，未能与学科教学、[[Theory of Knowledge|TOK]] 和 EE 形成连贯。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 221, 226)]]
+> - **系统性实践脱节** 在国家课程、高利害大学入学考试和 [[IB Diploma Programme|IBDP]] 并行的学校中，课业压力、课表僵化、[[Teacher Collaboration|教师协作]]时间不足和反思机制单一，容易使 [[Chinese Academy of Sciences|CAS]] 退化为孤立任务，未能与学科教学、[[Theory of Knowledge|TOK]] 和 EE 形成连贯。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 221, 226)]]
 > - **强制参与的反作用** 若文凭资格依赖学生形式上完成活动，少数抵制者可能只做最低动作，并损害真正参与者的共同经验；[[International Baccalaureate|IBO]] 又没有督学体系独立验证个人参与。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 182–183)]]
 > - **服务可能复制不平等** 若项目只从学生需要成长出发，而不让社区成员定义需求、反馈效果和调整关系，服务容易转为家长主义。
 > - **章内案例不等于效果证明** 海上救援、自然保护和日常陪伴展示了可能形态，但原文没有对学生或社区结果做系统前[[Pre-test and Post-test|后测]]量。
