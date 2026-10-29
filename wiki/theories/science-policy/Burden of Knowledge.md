@@ -10,7 +10,7 @@ aliases:
 summary: "由 Benjamin F. Jones (2009) 提出的创新经济学理论；指出随着人类知识存量呈指数扩张，后继学者抵达前沿所需的前置受训时间大幅延长，挤压了个体全生命周期的有效创新窗口，导致科研巅峰年龄后移与人均产出率放缓，促使科学组织转向团队协作。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 1
+theory_related_count: 2
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -27,10 +27,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -81,10 +82,10 @@ updated: 2026-10-29
 >
 > **应用实例** 美国各大国家实验室与研究型大学青年学者独立立项普遍推迟，促使科研资助机构针对青年学者设立专门早期职业奖项以平衡知识负担阻碍。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 39–40, 45)]]
 
-> [!theory-proposition] 命题三｜知识负担加重倒逼科研组织形态从个体主导转向多学科团队协作
-> **解释** 当个体面对指数扩张的知识前沿无法在单一生涯内穷尽相邻领域的工具与理论时，深化专业化导致个体知识结构愈发狭窄。为实现重组突破，科研活动转向规模化团队，通过多学科专家协同分摊知识攀爬成本。
+> [!theory-proposition] 命题三｜知识负担加重促使个体分工极度窄化并倒逼团队协作
+> **解释** 当个体面对指数扩张的知识存量无法在单一生涯内穷尽相邻领域的工具与理论时，科学家与发明家普遍采取深度专业化策略以快速抵达前沿，从而导致科学界“通才的消亡”（death of the renaissance man）。对独立发明人连续专利申请大数据的实证表明，个体发明人日益局限在单一技术门类内部，向无关新领域拓展的能力持续衰退。知识负担加剧使得单枪匹马跨界攀爬变得难以承受，迫使学者转向团队合作，通过整合异质分工拼图来攻克复杂科学挑战。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 88–89)]]
 >
-> **应用实例** 跨学科大科学装置与人类基因组计划等现代科研工程，单篇成果署名团队规模持续扩张，反映出跨领域团队协作对个体认知负荷的有效分担。
+> **应用实例** 现代微观专利申请与自然科学前沿大科学装置（如 CERN 大型强子对撞机、引力波探测 LIGO 实验）研究中，单篇成果署名作者数动辄达数百甚至上千人，反映出跨学科团队分摊个体知识攀爬成本的制度必然性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, pp. 81–83, 88–89)]]
 
 ---
 

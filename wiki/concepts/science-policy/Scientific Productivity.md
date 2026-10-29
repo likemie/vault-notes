@@ -10,7 +10,7 @@ aliases:
 summary: "科研人员向学术领域贡献与传播知识单元的速率，通常以同行评审出版物数量度量；实证表明人均年均产出在百年尺度上保持约2篇的长期稳定，在个体层面呈现极度不均衡的对数正态长尾分布，且单纯生产力与长远学术影响存在实质性脱钩。"
 type: concept
 domain: "science-policy"
-related_count: 20
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,8 +30,11 @@ related_concepts:
   - "[[Predictive Validity]]"
   - "[[Evaluative Validity]]"
   - "[[Variable]]"
+  - "[[Hot Streak]]"
+  - "[[Q-Factor]]"
 related_theories:
   - "[[Lotka's Law]]"
+  - "[[Q-Model]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[h-Index]]"
@@ -46,10 +49,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -68,9 +72,10 @@ updated: 2026-10-29
 > *Scholarly publications are the primary mode of communication in science... individual productivity has stayed quite stable over the past century... among the many metrics used to quantify scientific excellence, productivity is the least predictive.*
 
 > [!boundary]- 概念边界
-> - 不等于 学术影响力（Scientific Impact）— 生产力是成果产出的供给端速率指标；影响力取决于学术界同行的后续引用、检验与吸收深度。
-> - 不等于 学术声望（Scientific Eminence）— 声望是学术共同体与[[Social Regime|社会体制]]赋予学者地位的符号资本；尽管高产学者往往享有较高声望，但极少数凭借个别划时代突破奠定历史地位的学者并不依赖高产维持声誉。
-> - 不等于 教学与服务贡献 — [[Document|文献]]计量视域下的生产力仅统计出版物，排除了指导研究生、同行评议、编委会服务与社会公共参与等深层学术职能。
+> - 区别于 学术影响力（Scientific Impact）：生产力是成果产出的供给端速率指标；影响力取决于学术界同行的后续引用、检验与吸收深度。
+> - 区别于 学术声望（Scientific Eminence）：声望是学术共同体与[[Social Regime|社会体制]]赋予学者地位的符号资本；尽管高产学者往往享有较高声望，但极少数凭借个别划时代突破奠定历史地位的学者并不依赖高产维持声誉。
+> - 区别于 [[Hot Streak|学术爆发期]]：爆发期指学者单篇成果质量与影响力的局部跳升，而在此期间年均发文生产力保持基线平稳。
+> - 区别于 教学与服务贡献：[[Document|文献]]计量视域下的生产力仅统计出版物，排除了指导研究生、同行评议、编委会服务与社会公共参与等深层学术职能。
 
 ---
 
@@ -115,6 +120,9 @@ updated: 2026-10-29
 > [!claim] [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]]
 > **指标脱钩与预测低效** 尽管卓越科学家通常具备较高产出，但多产学者中绝大多数未能形成长久的学术贡献。产出总量容易受到切香肠式碎化发表、追求[[Salami Publishing|最小可发表单元]]（LPUs）以及大型实验平台技术人员名誉挂名的严重稀释。在预判学者长远学术声望与未来重[[Big Science|大科学]]发现时，发文总量是[[Document|文献]]计量指标中预测力最弱的一个，必须结合被引卷积指标与代表作实质研读进行综合评定。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 15–16)]]
 
+> [!claim] Sinatra et al. (2016); Heckman and Moktan (2020); [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]]
+> **同行评审对平庸发表的降分惩罚与生产力预测垫底** 在预测诺贝尔奖得主的受试者工作特征（Receiver Operating Characteristic, ROC）多指标竞争中，发文篇数 $N$ 的预测准确率垫底，曲线接近随机对角线，而基于均质能力的 Q 因子拔得头筹。顶尖大学经济学教授双盲评审实验进一步表明，在顶级期刊代表作清单后补充中低层级发表，简历平均得分从 8.1 分显著下滑至 7.6 分，证实高水平同行内在关注成果的均质水准，单纯提高产出篇数并不能替代实质质量，反而会稀释学术声誉。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 67–70)]]
+
 ---
 
 > [!contrast-table] 所有命题归纳
@@ -122,7 +130,7 @@ updated: 2026-10-29
 > |---|---|---|---|
 > | **宏观增长机制** | 知识膨胀源于科研队伍基数扩张而非人均产出大幅提高 | 科技人力资源规划与科研增长趋势研判 | Dong et al. (2014) |
 > | **微观分布形态** | 产出服从对数正态厚尾分布，源于多重能力连乘放大 | 科研人员聘用、梯队建设与顶尖人才激励 | Shockley (1957) |
-> | **[[Evaluative Validity\|评价效度]]边界** | 单纯发文数量是预测长期学术突破最弱的指标 | 高校长聘评审、科研绩效评估与代表作评价 | [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]] |
+> | **[[Evaluative Validity\|评价效度]]边界** | 单纯发文数量是预测长期学术突破最弱的指标 | 高校长聘评审、科研绩效评估与代表作评价 | [[Argument_Wang_Barabasi_2021_Cambridge\|Wang and Barabási (2021)]]; Sinatra et al. (2016); Heckman and Moktan (2020) |
 
 ---
 
@@ -151,8 +159,12 @@ updated: 2026-10-29
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 全球 5,300 万研究者与近 9,000 万篇跨学科文献（1900–2015） | 跨世纪大规模[[Bibliometric Analysis\|文献计量分析]] | 科学家总量、发文总量与人均年均发文量 | 人均年发文量 20 世纪稳定在约 2 篇；至 2015 年微增至约 2.5 篇 | 文献时间序列平稳拟合 | 说明总成果扩张由科研人员基数膨胀驱动，个体人均产出率保持高度稳态 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 全球 1,500 余万发表成果的科学家（1996–2011 纵向追踪） | 终身连续产出队列追踪 | 持续发表学者比例、总发文占比与高被引贡献率 | 不足 1% 保持每年至少 1 篇产出；该群体生产全库 41.7% 学术文献及 87.1% 被引超千次成果 | 该书全量统计数据 | 揭示科研生产力的极度倾斜，少数核心学者承载绝大多数持续知识增量 |
 > | [[Argument_Wang_Barabasi_2021_Cambridge_Unit01\|Wang & Barabási (2021)]] | 美国[[National Research Council\|国家研究委员会]]（NRC）博士点项目教研人员产出数据 | 跨学科院系生产力比对调查 | 院系教师五年期平均发表量跨学科差异 | 历史学为 1.2 篇；化学为 10.5 篇；生态学 5.1 篇 vs 药学 9.5 篇 | 机构官方普查数据 | 证实学科文化与知识载体深刻决定产出基准，不可直接跨学科比对篇数 |
+| [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]]; Heckman and Moktan (2020) | 全球排名前 10% 顶尖大学经济学系 44 所院校知名教授 | 虚构学术简历双盲评分实地实验 | 短简历（仅顶级期刊）vs 长简历（顶级加中低档期刊）评分 | 短简历平均评分 8.1 分；增补中低档发表的长简历评分显著下降至 7.6 分 | 双盲对照组间差异显著（$p < .05$） | 证实顶尖同行重视成果均质水准而非发表篇数，单纯增量平庸发表招致降分惩罚 |
+| [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]]; Sinatra et al. (2016) | 《物理评论》跨世纪物理学者引文网络与诺贝尔物理学奖得主样本 | 多指标受试者工作特征（ROC）竞争检验 | 预测诺贝尔奖的曲线下面积（AUC）：发文量 $N$、总被引、h 指数与 Q 因子 | 发文量 $N$ 的受试者工作特征曲线下面积（AUC）最低，在所有指标中排名垫底；Q 因子 AUC 最高 | 竞赛对比显著 | 证实单纯发文量在识别顶尖卓越成就上预测力最弱 |
+| [[Argument_Wang_Barabasi_2021_Cambridge_Unit03\|Wang & Barabási (2021)]] | 经历爆发期的跨学科科学家队列（按生涯发文时序测度） | 爆发期内外发文频次对比分析 | 爆发期与非爆发期年均发文篇数 | 爆发期内学者年均发文篇数与基线期相比无统计学差异（保持平稳） | 差异不显著（$p > .10$） | 证实学术爆发期由单篇成果质量提高驱动，并非由发文生产力的短期激增所致 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021)]] — 结合跨世纪全量文献计量与微观队列追踪，系统论证科研生产力的人均长期稳态、对数正态分布特征及其与学术影响力的脱钩关系。
+> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]] — 结合诺贝尔奖 ROC 预测竞赛、顶尖经济学教授简历评审实地实验与爆发期生产力平稳性，进一步证实发文篇数在预测顶尖学术卓越上的实质局限。

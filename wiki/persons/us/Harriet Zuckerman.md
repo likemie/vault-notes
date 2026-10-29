@@ -40,6 +40,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit04]]"
 confidence: high
 status: completed
 created: "2026-10-29"
@@ -63,7 +64,7 @@ updated: 2026-10-29
 > [!timeline] 生平与职涯
 > - **1937** 出生于美国纽约市。
 > - **1958** 毕业于巴纳德学院获得学士学位。
-> - **1965** 在哥伦比亚大学获得社会学博士学位，师从[[Robert K. Merton|罗伯特·K·默顿]]。
+> - **1965** 在哥伦比亚大学获得社会学博士学位，师从[[Robert K. Merton|罗伯特·K·默顿]]；基于 1963 年对全美 55 位诺贝尔奖得主中 41 位的深度访谈，揭示顶尖科学精英对团队合作具有内生偏好，这一特质赋予其长期的学术竞争优势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit04|(Wang & Barabási, 2021, p. 88)]]
 > - **1965–1992** 执教于哥伦比亚大学社会学系，历任助理教授、副教授、教授及系主任。
 > - **1977** 出版代表作《科学精英：美国的诺贝尔奖获得者》（*Scientific Elite: Nobel Laureates in the United States*）。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 28)]]
 > - **1991–2010** 出任安德鲁·W·梅隆基金会（Andrew W. Mellon Foundation）高级副总裁，主导美国人文学科与高等教育资助战略。

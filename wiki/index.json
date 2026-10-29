@@ -15830,6 +15830,17 @@
     ]
   },
   {
+    "title": "Coauthorship Network",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Coauthorship Network.md",
+    "aliases": [
+      "合著网络",
+      "科学合著网络",
+      "合作出版网络",
+      "scientific collaboration network"
+    ]
+  },
+  {
     "title": "Commercial Off-The-Shelf",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Commercial Off-The-Shelf.md",
@@ -16165,6 +16176,15 @@
     ]
   },
   {
+    "title": "Invisible College",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Invisible College.md",
+    "aliases": [
+      "无形学院",
+      "隐形学院"
+    ]
+  },
+  {
     "title": "Lead-and-Learn Paradigm",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Lead-and-Learn Paradigm.md",
@@ -16309,6 +16329,17 @@
     ]
   },
   {
+    "title": "Peer Effects in Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Peer Effects in Science.md",
+    "aliases": [
+      "科学中的同伴效应",
+      "学术同侪效应",
+      "科研同伴效应",
+      "Peer Effects in Academia"
+    ]
+  },
+  {
     "title": "Permissionless Innovation",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Permissionless Innovation.md",
@@ -16449,6 +16480,17 @@
       "二次方资助",
       "Quadratic Funding",
       "Quadratic Research Funding"
+    ]
+  },
+  {
+    "title": "Reflection Problem",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Reflection Problem.md",
+    "aliases": [
+      "反射问题",
+      "倒影问题",
+      "reflection problem in peer effects",
+      "曼斯基反射问题"
     ]
   },
   {
@@ -21689,6 +21731,18 @@
     ]
   },
   {
+    "title": "Small-World Collaboration Model",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Small-World Collaboration Model.md",
+    "aliases": [
+      "小世界协作模型",
+      "小世界网络协作理论",
+      "Small-World Network Theory in Collaboration",
+      "Uzzi-Spiro Small World Model",
+      "乌齐-斯皮罗小世界模型"
+    ]
+  },
+  {
     "title": "Social Contract of Science",
     "type": "theory",
     "path": "wiki/theories/science-policy/Social Contract of Science.md",
@@ -25503,6 +25557,15 @@
     ]
   },
   {
+    "title": "Relative Team Impact",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Relative Team Impact.md",
+    "aliases": [
+      "相对团队影响力",
+      "RTI"
+    ]
+  },
+  {
     "title": "Repeated Measures Design",
     "type": "method",
     "path": "wiki/methods/quantitative/Repeated Measures Design.md",
@@ -28395,6 +28458,18 @@
     ]
   },
   {
+    "title": "Paul Erdős",
+    "type": "person",
+    "path": "wiki/persons/hungary/Paul Erdős.md",
+    "aliases": [
+      "保罗·埃尔德什",
+      "埃尔德什",
+      "P. Erdős",
+      "Erdős, P.",
+      "Paul Erdos"
+    ]
+  },
+  {
     "title": "Ágnes Heller",
     "type": "person",
     "path": "wiki/persons/hungary/Ágnes Heller.md",
@@ -30241,6 +30316,17 @@
     "aliases": [
       "鲍勃·利奇",
       "Robert Leach"
+    ]
+  },
+  {
+    "title": "Brian Uzzi",
+    "type": "person",
+    "path": "wiki/persons/us/Brian Uzzi.md",
+    "aliases": [
+      "布赖恩·乌齐",
+      "乌齐",
+      "B. Uzzi",
+      "Uzzi, B."
     ]
   },
   {
