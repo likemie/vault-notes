@@ -118,11 +118,7 @@ updated: 2026-10-30
 > >
 > > 调节滑块可观察到：无论将个人发文生产力峰值设定在青年期（如 $t_{\text{peak}} = 10$ 年）还是推迟至成熟期（如 $t_{\text{peak}} = 25$ 年），随机置换的反事实曲线 $P_{\text{rand}}(t^*)$ 始终与年发文速率曲线完美重合；这证实重大科学突破的时序波峰完全受发文抽样频率驱动，而非源于青年期的生理创造力优势。
 > >
-> > ```geogebra
-> > file: wiki/assets/geogebra/career_shuffling_null_model.ggb
-> > height: 480
-> > toolbar: false
-> > ```
+> > ![[wiki/assets/geogebra/career_shuffling_null_model.ggb|480]]
 >
 > ---
 >

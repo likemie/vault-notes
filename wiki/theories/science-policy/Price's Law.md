@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -66,11 +66,7 @@ updated: 2026-10-29
 >
 > 调节滑块可直观验证：当学术人口从百人小科学膨胀至数千人大科学时，生产半数文献的核心精英规模仅按平方根低速增长，其在总体人口中的相对比重从 10% 迅速稀释至 2%，印证大科学时代人均核心产出的结构性稀释。
 >
-> ```geogebra
-> file: wiki/assets/geogebra/price_law_elite.ggb
-> height: 480
-> toolbar: false
-> ```
+> ![[wiki/assets/geogebra/price_law_elite.ggb|480]]
 
 ---
 

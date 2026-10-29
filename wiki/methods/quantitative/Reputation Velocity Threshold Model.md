@@ -130,11 +130,7 @@ updated: 2026-10-30
 > >
 > > 调节滑块可观察到：先验学术声誉赋予新成果显著的早期引文初速度，降低成果被同行忽略的风险；然而一旦累积引文跨越临界阈值 $c_x$，声誉促进项归零，成果引文轨迹完全贴合经典质量偏好连接基准线。
 > >
-> > ```geogebra
-> > file: wiki/assets/geogebra/reputation_threshold_model.ggb
-> > height: 480
-> > toolbar: false
-> > ```
+> > ![[wiki/assets/geogebra/reputation_threshold_model.ggb|480]]
 
 ---
 

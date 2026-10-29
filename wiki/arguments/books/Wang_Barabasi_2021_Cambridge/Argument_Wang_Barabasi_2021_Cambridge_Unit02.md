@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit02"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit02"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 37
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -40,6 +40,9 @@ related_concepts:
   - "[[Experimental Innovators]]"
   - "[[Goliath's Shadow]]"
   - "[[Lost Winners]]"
+  - "[[The Graying of Science]]"
+  - "[[Nobel Prize Lag]]"
+  - "[[Age and High-Growth Entrepreneurship]]"
   - "[[Deliberate Practice]]"
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"
@@ -141,7 +144,7 @@ updated: 2026-10-30
 > 科学成就的年龄分布在宏观上展现出稳固的中年峰值，这一特征直接受制于前置知识积累要求、知识负担对有效创新窗口的挤压，以及演绎或归纳的研究认知范式。（pp. 39–50）
 
 > [!sub-claim] 1. 科研经费向资深学者集中，年轻学者获得独立资助的年龄大幅推迟
-> 资助机构内部经历着青年与资深学者的结构性逆转，青年科研人员独立起步年龄大幅后移并跨越奠基性突破窗口（Alberts et al., 2014, pp. 39–43; 图 4-1）。
+> 资助机构内部经历着青年与资深学者的结构性逆转，[[The Graying of Science|科学界老龄化]]使青年科研人员独立起步年龄大幅后移并跨越奠基性突破窗口（Alberts et al., 2014, pp. 39–43; 图 4-1）。
 
 > [!evidence-grid] NIH 资助格局历时性逆转与首资年龄挤压
 > - **青年与资深占比逆转** 1980 年 NIH 核心 R01 资助中 36 岁及以下青年学者占比达 18%，66 岁及以上资深学者不足 1%；至 2010 年资深学者增长十倍，青年学者降至 7%，两群体比例从 1:18 彻底倒转为 2:1（Alberts et al., 2014, pp. 39–40; 图 4-1）。
@@ -198,8 +201,8 @@ updated: 2026-10-30
 > - **6.0** 整个 20 世纪诺贝尔奖得主与重大发明家峰值年龄累计后移年限（年）
 > - **31.0** 20 世纪末科学研究人员正式进入科研活跃期的平均起始年龄（相比 1900 年的 23.0 岁）
 
-> [!case] 诺贝尔奖授奖时滞持续拉长与候选人寿命竞赛
-> 在现代科学体系中，推迟发生的不仅是重大发现的做出时机，学术承认的正式降临同样经历了极其剧烈的滞后（Fortunato et al., 2014, p. 46）。在科学家产出足以匹配诺贝尔奖级别的突破性发现与其最终登台领奖之间，存在一条持续拉长的时间裂隙。
+> [!case] [[Nobel Prize Lag|诺贝尔奖授奖时滞]]持续拉长与候选人寿命竞赛
+> 在现代科学体系中，推迟发生的不仅是重大发现的做出时机，学术承认的正式降临同样经历了极其剧烈的滞后，形成了深刻的[[Nobel Prize Lag|诺贝尔奖授奖时滞]]（Fortunato et al., 2014, p. 46）。在科学家产出足以匹配诺贝尔奖级别的突破性发现与其最终登台领奖之间，存在一条持续拉长的时间裂隙。
 >
 > | 学科领域 | 1940 年以前等待超过 20 年的得主占比 | 1985 年以后等待超过 20 年的得主占比 | 增幅倍数 |
 > |---|---|---|---|
@@ -344,8 +347,8 @@ updated: 2026-10-30
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_5-5_Academic_Career_of_John_Fenn.jpg)
 > *芬恩在被耶鲁大学强制退休后继续开展科研，其毕生最高被引代表作在 1988 年（71 岁）产出，直接助力斩获 2002 年诺贝尔化学奖（p. 58）。*
 
-> [!case] 硅谷年轻创业者神话的破灭：全美 270 万创始人微观实证
-> 青年等于创造力的教条不仅盛行于学术界，在商业创新与科技创业领域同样根深蒂固（Azoulay et al., 2020, p. 58）。硅谷主流媒体与顶级风投对年轻创始人展现出高度一致的追捧：
+> [!case] 硅谷年轻创业者神话的破灭与[[Age and High-Growth Entrepreneurship|高成长创业中的年龄优势]]
+> 青年等于创造力的教条不仅盛行于学术界，在商业创新与科技创业领域同样根深蒂固，而全口径行政实证揭示了[[Age and High-Growth Entrepreneurship|高成长创业中的年龄优势]]（Azoulay et al., 2020, p. 58）。硅谷主流媒体与顶级风投对年轻创始人展现出高度一致的追捧：
 >
 > - **硅谷 TechCrunch 创新奖得主** 平均年龄 31 岁
 > - **《Inc.》与《Entrepreneur》年度顶级创业者** 平均年龄 29 岁

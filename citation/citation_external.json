@@ -25901,6 +25901,8 @@
     "Zenner et al., 2014": "Zenner et al., 2014",
     "Zepeda (2015)": "Zepeda, 2015",
     "Zepeda, 2015": "Zepeda, 2015",
+    "Zerhouni (2002)": "Zerhouni, 2002",
+    "Zerhouni, 2002": "Zerhouni, 2002",
     "Zerilli et al. (2024)": "Zerilli et al., 2024",
     "Zerilli et al., 2024": "Zerilli et al., 2024",
     "Zettler-Greeley (2018)": "Zettler-Greeley, 2018",
@@ -29961,6 +29963,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/concepts/science-policy/The Graying of Science.md",
         "wiki/facts/us/National Institutes of Health.md"
       ],
       "title": ""
@@ -36449,7 +36452,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/concepts/science-policy/Age and High-Growth Entrepreneurship.md"
       ],
       "title": ""
     },
@@ -83728,7 +83732,8 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
-        "wiki/concepts/science-policy/Lost Winners.md"
+        "wiki/concepts/science-policy/Lost Winners.md",
+        "wiki/concepts/science-policy/Nobel Prize Lag.md"
       ],
       "title": ""
     },
@@ -113093,6 +113098,7 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/concepts/science-policy/Age and High-Growth Entrepreneurship.md",
         "wiki/theories/science-policy/Burden of Knowledge.md"
       ],
       "title": ""
@@ -129101,6 +129107,7 @@
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
         "wiki/arguments/journal-articles/Studies in Higher Education/Argument_Erdem_2026_SHE.md",
         "wiki/concepts/science-policy/Lost Winners.md",
+        "wiki/concepts/science-policy/Nobel Prize Lag.md",
         "wiki/facts/us/Inq-ITS.md"
       ],
       "title": ""
@@ -214619,6 +214626,21 @@
       "isbn": "",
       "seen_in": [],
       "title": "Direct instruction of metacognition benefits adolescent science learning, transfer, and motivation  An in vivo study"
+    },
+    "Zerhouni, 2002": {
+      "aliases": [
+        "Zerhouni, 2002",
+        "Zerhouni (2002)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Zerhouni, 2002"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/science-policy/The Graying of Science.md"
+      ],
+      "title": ""
     },
     "Zerilli et al., 2024": {
       "aliases": [

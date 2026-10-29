@@ -8,7 +8,7 @@ aliases:
 summary: "由李继文、尹运涛、桑托·福图纳托与王大顺（Li et al., 2019）提出的科学计量学概念；指在诺贝尔科学奖等不可死后追授的终身荣誉存在漫长授奖时滞的现实下，那些在学术生涯中晚期才取得同等量级重大突破的科学家，因寿命期望不足而在评奖周期中遭受系统性筛除的生存偏差现象。"
 type: concept
 domain: "science-policy"
-related_count: 4
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,7 +17,9 @@ tags:
   - theme/scientific-career
   - theme/nobel-prize
   - concept/selection-bias
-related_concepts: []
+related_concepts:
+  - "[[Nobel Prize Lag]]"
+  - "[[The Graying of Science]]"
 related_theories:
   - "[[Random Impact Rule]]"
 related_methods:
@@ -31,7 +33,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -67,7 +69,7 @@ updated: 2026-10-29
 
 > [!feature] 核心要素
 > - **不可追授原则** 顶级科技大奖的章程普遍规定候选人在揭晓时必须健在，将个体的生理寿命直接设定为获得学术承认的前置门槛。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 57)]]
-> - **指数延长的授奖时滞** 科学检验周期的延长使得当代重大成果获得诺奖的平均等待时长超过 20 年，晚年做出重大成果的学者极易在等待中逝世。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 45, 57)]]
+> - **指数延长的授奖时滞** 科学检验周期的延长使得当代重大成果获得诺奖的平均等待时长超过 20 年，[[Nobel Prize Lag|授奖时滞]]让晚年做出重大成果的学者极易在等待中逝世。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 45, 57)]]
 > - **选拔偏倚矫正** 在计量分析中剔除受到存活偏误影响的单篇获奖代表作后，诺贝尔奖得主生涯中其他高被引成果的时序分布完全恢复为平直的随机分布。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, p. 57)]]
 
 > [!logic-map]- 要素关系

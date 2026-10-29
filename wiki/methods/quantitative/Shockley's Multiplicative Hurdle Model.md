@@ -169,11 +169,7 @@ updated: 2026-10-30
 > >
 > > 增大滑块 $\sigma$ 时可直观观察曲线峰值急剧左移变窄、右侧长尾显著抬升延伸，模拟单项技能方差在连乘机制下演变为极端厚尾分布的过程。
 > >
-> > ```geogebra
-> > file: wiki/assets/geogebra/shockley_lognormal.ggb
-> > height: 480
-> > toolbar: false
-> > ```
+> > ![[wiki/assets/geogebra/shockley_lognormal.ggb|480]]
 
 ---
 

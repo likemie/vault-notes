@@ -15733,6 +15733,21 @@
     ]
   },
   {
+    "title": "Age and High-Growth Entrepreneurship",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Age and High-Growth Entrepreneurship.md",
+    "aliases": [
+      "高成长创业中的年龄优势",
+      "年轻创业者神话",
+      "创业年龄优势",
+      "中年创业优势",
+      "年龄与极速成长型创业",
+      "Myth of the Young Entrepreneur",
+      "Middle-Age Entrepreneurship Advantage",
+      "Age and Extreme Startup Success"
+    ]
+  },
+  {
     "title": "Agile Governance",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Agile Governance.md",
@@ -16230,6 +16245,21 @@
     ]
   },
   {
+    "title": "Nobel Prize Lag",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Nobel Prize Lag.md",
+    "aliases": [
+      "诺贝尔奖授奖时滞",
+      "诺奖授奖时滞",
+      "科学承认时滞",
+      "诺贝尔奖等待时滞",
+      "发现与授奖时滞",
+      "Nobel Prize Delay",
+      "Nobel Lag",
+      "Recognition Lag in Science"
+    ]
+  },
+  {
     "title": "Organizational Ambidexterity",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Organizational Ambidexterity.md",
@@ -16527,6 +16557,20 @@
     "aliases": [
       "技术型社会契约",
       "能力中心型契约"
+    ]
+  },
+  {
+    "title": "The Graying of Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/The Graying of Science.md",
+    "aliases": [
+      "科学界老龄化",
+      "科研队伍老龄化",
+      "学术队伍老龄化",
+      "科学家队伍老龄化",
+      "Graying of Science",
+      "Aging of Science",
+      "Aging of the Scientific Workforce"
     ]
   },
   {

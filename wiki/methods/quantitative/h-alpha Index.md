@@ -123,11 +123,7 @@ updated: 2026-10-30
 > >
 > > 调节双滑块可直观验证希尔施的核心论断：一位参与巨型工程但缺乏独立引领的学者（如 $h=30, \alpha=0.20 \implies h_\alpha=6$），其实质科学领导力不仅远低于其表面声誉，还会被小团队独立引领者（如 $h=16, \alpha=1.00 \implies h_\alpha=16$）显著反超。
 > >
-> > ```geogebra
-> > file: wiki/assets/geogebra/hirsch_h_alpha.ggb
-> > height: 480
-> > toolbar: false
-> > ```
+> > ![[wiki/assets/geogebra/hirsch_h_alpha.ggb|480]]
 
 ---
 

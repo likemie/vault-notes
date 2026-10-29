@@ -96,11 +96,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > >
 > > 一句话说明拖动滑块时应观察什么。
 > >
-> > ```geogebra
-> > file: wiki/assets/geogebra/<文件名>.ggb
-> > height: 480
-> > toolbar: false
-> > ```
+> > ![[wiki/assets/geogebra/<文件名>.ggb|480]]
 
 > [!software-impl] 软件实现
 > - **数据来源** 数据库、导出格式与口径差异。

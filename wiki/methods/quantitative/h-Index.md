@@ -151,11 +151,7 @@ updated: 2026-10-30
 > >
 > > 拖动滑块可看到 $m$ 受 $n$ 与 $c$ 中较小一方限制。
 > >
-> > ```geogebra
-> > file: wiki/assets/geogebra/hirsch_h_index.ggb
-> > height: 480
-> > toolbar: false
-> > ```
+> > ![[wiki/assets/geogebra/hirsch_h_index.ggb|480]]
 
 > [!software-impl] 软件实现
 > - **数据来源** Web of Science、Scopus、Google Scholar 覆盖范围不同，同一学者的 $h$ 会不同，报告时须注明数据库与检索日期。

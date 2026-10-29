@@ -10,10 +10,10 @@ summary: "法裔美籍实证经济学家与科学学学者，麻省理工学院�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 20
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1970"
 died: ""
 lifespan: "1970–至今"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Matthew Effect in Academia]]"
   - "[[The 41st Chair]]"
   - "[[Star Scientists]]"
+  - "[[Age and High-Growth Entrepreneurship]]"
   - "[[Paradigm]]"
   - "[[Creativity]]"
   - "[[Causality]]"
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -78,7 +79,7 @@ updated: 2026-10-29
 > - **2011** 在《美国经济评论》（AER）发表针对 HHMI 资助模式的研究，证实对早期失败的宽容与长周期支持显著提升高风险探索性成果的产出概率。
 > - **2014** 在《管理科学》（Management Science）发表《马太效应：事实还是神话？》（Matthew: Effect or Fable?），依托 HHMI 评选准自然实验证实外生声望符号具备独立于个体天资的引文因果力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 33–37)]]
 > - **2019** 在《美国经济评论》（AER）发表《科学真理真的随着反对者死去而胜利吗？》（Does Science Advance One Funeral at a Time?），通过 452 位生命科学明星学者猝逝准自然实验实证检验普朗克原理，揭示“歌利亚阴影”阻碍新人进场的因果机制。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 49–50)]]
-> - **2020** 在《美国经济评论：洞见》（AER: Insights）发表《年龄与高成长创业》（Age and High-Growth Entrepreneurship），运用美国 270 万初创企业全量税收与人口档案证实，全美增长最快的前 0.1% 高科技企业创始人平均年龄为 45 岁，打破硅谷年轻极客神话。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 58–59)]]
+> - **2020** 在《美国经济评论：洞见》（AER: Insights）发表《年龄与高成长创业》（[[Age and High-Growth Entrepreneurship]]），运用美国 270 万初创企业全量税收与人口档案证实，全美增长最快的前 0.1% 高科技企业创始人平均年龄为 45 岁，打破硅谷年轻极客神话。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 58–59)]]
 
 ---
 
@@ -123,4 +124,5 @@ updated: 2026-10-29
 > |:-----|:-----|:-----|
 > | [[The 41st Chair]] | 概念 | 设计 HHMI 终审落选对照组，确立准自然实验度量第四十一把交椅声望溢价的因果范式。 |
 > | [[Matthew Effect in Academia]] | 概念 | 实证剥离个体天资与增量资助，证明声望符号自身诱发引文集聚的独立因果性。 |
+> | [[Age and High-Growth Entrepreneurship]] | 概念 | 基于 270 万全量微观普查与税收数据证实极速成长型初创企业创始人的中年经验优势。 |
 > | [[Quasi-Experimental Designs]] | 方法 | 倡导将[[Regression Discontinuity Design\|断点回归]]与准自然实验方法深度引入科学经济学与科学学研究。 |

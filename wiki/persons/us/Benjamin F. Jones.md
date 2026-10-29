@@ -9,7 +9,7 @@ summary: "美籍创新经济学家与科学学者，西北大学凯洛格管理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 4
+person_related_count: 6
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -24,6 +24,8 @@ tags:
 related_concepts:
   - "[[Conceptual Innovators]]"
   - "[[Experimental Innovators]]"
+  - "[[The Graying of Science]]"
+  - "[[Age and High-Growth Entrepreneurship]]"
 related_theories:
   - "[[Burden of Knowledge]]"
 related_methods: []
@@ -104,3 +106,5 @@ updated: 2026-10-30
 > | [[Burden of Knowledge]] | 理论 | 形式化建立知识前沿扩张推迟科研起步并挤压创新有效期的核心理论。 |
 > | [[Conceptual Innovators]] | 概念 | 实证测定概念演绎创新者在生涯早期（均值 35.8 岁）集中爆发的峰值规律。 |
 > | [[Experimental Innovators]] | 概念 | 实证测定经验归纳创新者在成熟期（均值 56.0 岁）达到成就巅峰的演进特征。 |
+> | [[The Graying of Science]] | 概念 | 揭示国家级基金 PI 首资年龄（42 岁）与顶尖突破窗口（41 岁）的时序脱节。 |
+> | [[Age and High-Growth Entrepreneurship]] | 概念 | 合作证实全美极速成长企业创始人平均年龄为 45 岁，确立中年创业经验优势。 |
