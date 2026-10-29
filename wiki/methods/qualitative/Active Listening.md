@@ -11,6 +11,8 @@ method_related_count: 1
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - research-methodology
   - interview
@@ -21,7 +23,7 @@ related_concepts: []
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-16
+updated: 2026-10-29
 ---
 
 ---

@@ -16,6 +16,8 @@ method_related_count: 39
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#fef3c7"
+cssclasses:
+  - method-manual
 tags:
   - method/design-based
   - mixed-methods
@@ -71,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-12
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

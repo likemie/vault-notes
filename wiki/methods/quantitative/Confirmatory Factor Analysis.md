@@ -11,6 +11,8 @@ method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags: []
 related_concepts:
   - "[[Variable]]"
@@ -43,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-10-20
+updated: 2026-10-29
 ---
 
 ---

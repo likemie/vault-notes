@@ -10,6 +10,8 @@ method_related_count: 65
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#fef3c7"
+cssclasses:
+  - method-manual
 tags:
   - method/action-research
   - source/textbook
@@ -88,7 +90,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-06-25
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

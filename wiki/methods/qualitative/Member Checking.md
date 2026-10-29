@@ -13,6 +13,8 @@ method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/qualitative
   - research-methodology
@@ -39,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-16
+updated: 2026-10-29
 ---
 
 > [!def] Member Checking

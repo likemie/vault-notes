@@ -14,6 +14,8 @@ method_related_count: 76
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/documentary-analysis
   - paradigm/qualitative
@@ -105,7 +107,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 ---

@@ -15,6 +15,8 @@ method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - mtmm
   - construct-validity
@@ -54,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-21
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

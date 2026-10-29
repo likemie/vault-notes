@@ -14,6 +14,8 @@ method_related_count: 29
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/propensity-score-matching
   - method/quantitative
@@ -58,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

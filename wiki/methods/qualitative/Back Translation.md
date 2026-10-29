@@ -13,6 +13,8 @@ method_related_count: 9
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/research-methods
   - theme/cross-cultural
@@ -31,7 +33,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-24
-updated: 2026-10-16
+updated: 2026-10-29
 ---
 
 ---

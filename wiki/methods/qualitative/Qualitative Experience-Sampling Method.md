@@ -9,6 +9,8 @@ method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags: [method/qualitative, data-collection, theme/language]
 related_concepts:
   - "[[Falsification]]"
@@ -27,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 > [!def] Qualitative Experience-Sampling Method

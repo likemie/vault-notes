@@ -13,6 +13,8 @@ method_related_count: 7
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/field-access
   - method/qualitative-research
@@ -29,7 +31,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 status: draft
 created: 2026-06-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!def] Walford's Four-Stage Access Model

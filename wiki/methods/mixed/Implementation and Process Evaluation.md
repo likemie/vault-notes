@@ -15,6 +15,8 @@ method_related_count: 53
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#fef3c7"
+cssclasses:
+  - method-manual
 tags:
   - method/mixed-methods
   - method/evaluation
@@ -83,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

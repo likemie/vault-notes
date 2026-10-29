@@ -13,6 +13,8 @@ method_related_count: 32
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/qualitative
   - paradigm/ethnography
@@ -60,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

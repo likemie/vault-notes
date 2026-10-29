@@ -10,6 +10,8 @@ method_related_count: 120
 method_related_level: 12
 method_related_stars: "💎💎💎💎"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - meta-analysis
   - effect-size
@@ -146,7 +148,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

@@ -14,6 +14,8 @@ method_related_count: 8
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/experimental
   - quantitative-research

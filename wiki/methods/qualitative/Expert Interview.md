@@ -14,6 +14,8 @@ method_related_count: 46
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/qualitative
   - research-methodology
@@ -74,7 +76,7 @@ related_persons:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

@@ -14,6 +14,8 @@ method_related_count: 5
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 related_count: 5
 related_level: 0
 related_stars: "☆"
@@ -33,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

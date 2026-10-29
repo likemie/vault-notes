@@ -13,6 +13,8 @@ method_related_count: 75
 method_related_level: 7
 method_related_stars: "💎💎⭐"
 method_related_color: "#fef3c7"
+cssclasses:
+  - method-manual
 tags:
   - mixed-methods
   - research-methodology
@@ -102,7 +104,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

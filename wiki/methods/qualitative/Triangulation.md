@@ -14,6 +14,8 @@ method_related_count: 32
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/qualitative
   - method/mixed
@@ -57,7 +59,7 @@ related_arguments:
 related_instruments: []
 status: draft
 created: 2026-06-01
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

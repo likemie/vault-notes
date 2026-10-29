@@ -12,6 +12,8 @@ method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - data-collection
   - sensitive-research
@@ -49,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

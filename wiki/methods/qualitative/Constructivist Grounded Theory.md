@@ -10,6 +10,8 @@ method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
 - constructivist-grounded-theory
 - qualitative-research
@@ -38,7 +40,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!info] 定义

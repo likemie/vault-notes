@@ -13,6 +13,8 @@ method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/qualitative
   - research-synthesis
@@ -65,7 +67,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

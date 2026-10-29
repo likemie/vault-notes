@@ -11,6 +11,8 @@ method_related_count: 7
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/archival
   - method/historical
@@ -31,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!info] 定义

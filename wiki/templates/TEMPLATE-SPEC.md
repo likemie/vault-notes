@@ -363,6 +363,7 @@ Method 页写研究方法、研究设计、资料收集方法、分析方法、�
 - 来源报告的参照基准、阈值或常模写入 `[!ref-table]- 参照基准与阈值`，逐行附 Argument；Method 页不使用 Concept 的实证数据表格与 marker。
 - 指标有清楚的提出和修正历程时，可用 `[!dev-timeline]- 方法演变`；变体指标另有独立条目时，在 `[!entry-map]` 中以“变体”关系链接。
 - `method_type` 使用 `qualitative`、`quantitative` 或 `mixed`。
+- Method 条目 frontmatter 固定写 `cssclasses: [method-manual]`，启用方法页样式（见 `CALLOUTS.md` 第 14 节）。`[!method-fit]` 的三条按适合、谨慎、不适合的顺序写，样式按顺序着色。
 - 复杂量化模型仍写 `method_type: quantitative`；不要为每种模型另造 YAML 类型。
 - `## 定义` 优先用 `[!method-scope]` 区分研究对象、问题类型、分析单位和输出形式。
 - `## 方法定位` 说明认识论前提、方法层级、有效性标准和不能回答的问题。优先用 `[!method-position]` 写认识论定位，用 `[!method-stack]` 写方法层级。质性方法写研究者位置与可信度；量化方法写测量、模型选择和效度；复杂评价模型必须说明是否能支持因果推断。方法层级中的相关方法链接优先写成子列表，不塞入表格单元。

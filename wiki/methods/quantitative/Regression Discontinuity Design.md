@@ -17,6 +17,8 @@ method_related_count: 39
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/regression-discontinuity
   - method/quasi-experimental-design
@@ -72,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

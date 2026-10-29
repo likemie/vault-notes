@@ -14,6 +14,8 @@ method_related_count: 41
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - qualitative
   - methodology
@@ -70,7 +72,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-28
+updated: 2026-10-29
 ---
 
 ---

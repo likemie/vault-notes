@@ -14,6 +14,8 @@ method_related_count: 34
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - confidence-interval
   - standard-error
@@ -64,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-05
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

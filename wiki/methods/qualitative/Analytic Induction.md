@@ -11,6 +11,8 @@ method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/data-analysis
   - paradigm/qualitative
@@ -33,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!def] Analytic Induction

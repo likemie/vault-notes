@@ -19,6 +19,8 @@ method_related_count: 46
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - data-collection
   - method/role-playing
@@ -83,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-03
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

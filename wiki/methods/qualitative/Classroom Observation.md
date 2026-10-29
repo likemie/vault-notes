@@ -14,6 +14,8 @@ method_related_count: 53
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/data-collection
   - method/observation
@@ -83,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

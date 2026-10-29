@@ -12,6 +12,8 @@ method_related_count: 48
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/qualitative
   - data-collection

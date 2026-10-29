@@ -15,6 +15,8 @@ method_related_count: 38
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/research-methods
   - theme/validity
@@ -62,7 +64,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: stable
 created: 2026-06-24
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

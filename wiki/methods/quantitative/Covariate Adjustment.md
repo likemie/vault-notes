@@ -13,6 +13,8 @@ method_related_count: 40
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/covariate-adjustment
   - method/quantitative
@@ -69,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

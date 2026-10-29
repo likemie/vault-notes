@@ -10,6 +10,8 @@ method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
 - carnivalesque-analysis
 - qualitative-research
@@ -33,7 +35,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!info] 定义

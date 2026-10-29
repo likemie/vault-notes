@@ -11,6 +11,8 @@ method_related_count: 29
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/experimental
   - quantitative-research
@@ -50,7 +52,7 @@ related_arguments:
 related_facts: []
 status: draft
 created: 2026-07-13
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!def] True Experimental Design

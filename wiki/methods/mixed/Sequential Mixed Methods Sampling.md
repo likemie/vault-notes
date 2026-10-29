@@ -10,6 +10,8 @@ method_related_count: 9
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#fef3c7"
+cssclasses:
+  - method-manual
 tags:
   - method/sampling
   - mixed-methods
@@ -31,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-10-20
+updated: 2026-10-29
 ---
 
 > [!def] Sequential Mixed Methods Sampling

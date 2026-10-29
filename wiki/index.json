@@ -21349,6 +21349,19 @@
     ]
   },
   {
+    "title": "Lotka's Law",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Lotka's Law.md",
+    "aliases": [
+      "洛特卡定律",
+      "洛特卡反平方定律",
+      "洛特卡幂律",
+      "科学生产力反比平方定律",
+      "Lotka's Power Law",
+      "Inverse Square Law of Scientific Productivity"
+    ]
+  },
+  {
     "title": "Pasteur's Quadrant",
     "type": "theory",
     "path": "wiki/theories/science-policy/Pasteur's Quadrant.md",

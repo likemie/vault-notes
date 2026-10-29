@@ -13,6 +13,8 @@ method_related_count: 30
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#fef3c7"
+cssclasses:
+  - method-manual
 tags:
   - method/sampling
   - qualitative-research
@@ -56,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-10-20
+updated: 2026-10-29
 ---
 
 > [!def] Non-probability Sampling

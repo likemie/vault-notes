@@ -11,6 +11,8 @@ method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/participatory
   - theory/critical
@@ -37,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-16
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!def] Participatory Research

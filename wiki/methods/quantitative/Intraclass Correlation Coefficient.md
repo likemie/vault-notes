@@ -15,6 +15,8 @@ method_related_count: 46
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/quantitative
   - method/statistical
@@ -76,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

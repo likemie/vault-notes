@@ -15,6 +15,8 @@ method_related_count: 103
 method_related_level: 10
 method_related_stars: "💎💎💎⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - qualitative-research
   - educational-psychology
@@ -133,7 +135,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-05
-updated: 2026-10-23
+updated: 2026-10-29
 ---
 
 ---

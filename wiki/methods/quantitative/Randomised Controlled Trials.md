@@ -14,6 +14,8 @@ method_related_count: 161
 method_related_level: 16
 method_related_stars: "💎💎💎💎💎⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/experimental
   - paradigm/positivist
@@ -189,7 +191,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 > [!def] Randomised Controlled Trials

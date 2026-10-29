@@ -14,6 +14,8 @@ method_related_count: 5
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/questionnaire
   - method/survey
@@ -31,7 +33,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

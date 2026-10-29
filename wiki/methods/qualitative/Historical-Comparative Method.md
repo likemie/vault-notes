@@ -14,6 +14,8 @@ method_related_count: 92
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - qualitative-methods
   - comparative-education
@@ -122,7 +124,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 > [!def] Historical-Comparative Method

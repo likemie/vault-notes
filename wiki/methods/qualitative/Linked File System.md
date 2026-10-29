@@ -12,6 +12,8 @@ method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/data-protection
   - theme/sensitive-research
@@ -32,7 +34,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 status: draft
 created: 2026-06-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!def] Linked File System

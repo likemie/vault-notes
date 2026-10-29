@@ -15,6 +15,8 @@ method_related_count: 17
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/quantitative
   - method/benchmarking
@@ -47,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-04
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

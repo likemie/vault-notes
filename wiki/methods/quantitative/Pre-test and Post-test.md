@@ -15,6 +15,8 @@ method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - subject/research-methodology
   - experiment
@@ -37,7 +39,7 @@ related_arguments:
 related_facts: []
 status: draft
 created: 2026-07-13
-updated: 2026-10-16
+updated: 2026-10-29
 ---
 
 > [!def] Pre-test and Post-test

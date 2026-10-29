@@ -12,6 +12,8 @@ method_related_count: 46
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/intent-to-treat-analysis
   - method/quantitative
@@ -71,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

@@ -12,6 +12,8 @@ method_related_count: 34
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/qualitative
   - theme/network-ethnography
@@ -60,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

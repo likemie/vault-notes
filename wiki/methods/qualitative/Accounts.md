@@ -9,6 +9,8 @@ method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags: [method/qualitative, data-collection, paradigm/interpretive, theme/language]
 related_concepts:
   - "[[Social Episodes]]"
@@ -39,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-25
+updated: 2026-10-29
 ---
 
 ---

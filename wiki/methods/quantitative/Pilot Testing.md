@@ -17,6 +17,8 @@ method_related_count: 42
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/procedural
   - quantitative-research
@@ -75,7 +77,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-05-31
-updated: 2026-10-20
+updated: 2026-10-29
 ---
 
 ## 定义

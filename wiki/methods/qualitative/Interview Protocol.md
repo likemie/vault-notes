@@ -12,6 +12,8 @@ method_related_count: 30
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/qualitative
   - research-methodology
@@ -51,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!example] 图9.2：访谈协议或指南示例

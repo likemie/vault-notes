@@ -13,6 +13,8 @@ method_related_count: 4
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/quantitative
   - theme/educational-aid
@@ -28,7 +30,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-22
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

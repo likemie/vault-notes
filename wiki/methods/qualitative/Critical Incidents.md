@@ -13,6 +13,8 @@ method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/data-collection
   - method/observation
@@ -36,7 +38,7 @@ related_concepts:
   - "[[Classroom Management]]"
 status: draft
 created: 2026-07-23
-updated: 2026-10-20
+updated: 2026-10-29
 ---
 
 ---

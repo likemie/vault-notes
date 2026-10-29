@@ -9,6 +9,8 @@ method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
+cssclasses:
+  - method-manual
 tags: [mixed-methods, research-methodology, data-analysis]
 related_concepts:
   - "[[Variable]]"
@@ -33,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 > [!def] Data Transformation

@@ -12,6 +12,8 @@ method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/data-collection
   - paradigm/qualitative
@@ -43,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-10-20
+updated: 2026-10-29
 ---
 
 > [!def] Non-participant Observation

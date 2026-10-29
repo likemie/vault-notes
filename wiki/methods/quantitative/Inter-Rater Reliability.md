@@ -14,6 +14,8 @@ method_related_count: 62
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/research-methods
   - theme/reliability
@@ -88,7 +90,7 @@ related_theories:
   - "[[Classical Test Theory]]"
 status: active
 created: 2026-06-01
-updated: 2026-10-20
+updated: 2026-10-29
 ---
 
 > [!def] Inter-Rater Reliability

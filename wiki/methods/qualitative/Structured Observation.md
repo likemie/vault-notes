@@ -13,6 +13,8 @@ method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/data-collection
   - method/observation
@@ -48,7 +50,7 @@ related_theories:
   - "[[Behaviorism]]"
 status: draft
 created: 2026-07-23
-updated: 2026-10-20
+updated: 2026-10-29
 ---
 
 ---

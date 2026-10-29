@@ -13,6 +13,8 @@ method_related_count: 5
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#fef3c7"
+cssclasses:
+  - method-manual
 tags:
   - research-methodology
   - mixed-methods
@@ -30,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-10-16
+updated: 2026-10-29
 ---
 
 > [!info] 定义

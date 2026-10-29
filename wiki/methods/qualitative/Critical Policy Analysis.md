@@ -13,6 +13,8 @@ method_related_count: 48
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/qualitative
   - theme/policymaking
@@ -76,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-27
+updated: 2026-10-29
 ---
 
 ---

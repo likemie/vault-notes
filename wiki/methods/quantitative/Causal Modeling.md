@@ -12,6 +12,8 @@ method_related_count: 29
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - causal-modeling
   - structural-equation-modeling
@@ -55,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-10-20
+updated: 2026-10-29
 ---
 
 > [!def] Causal Modeling

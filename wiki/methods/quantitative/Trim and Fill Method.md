@@ -14,6 +14,8 @@ method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - "method/quantitative"
   - "statistics/meta-analysis"
@@ -51,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

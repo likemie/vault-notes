@@ -11,6 +11,8 @@ method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/experimental
   - quantitative-research
@@ -34,7 +36,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-07-13
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!def] Parametric Design

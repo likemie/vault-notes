@@ -16,6 +16,8 @@ method_related_count: 6
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/questionnaire
   - method/survey
@@ -33,7 +35,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!def] Contingency Questions

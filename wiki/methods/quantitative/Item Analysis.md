@@ -20,6 +20,8 @@ method_related_count: 7
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - theme/measurement
   - theme/assessment
@@ -38,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

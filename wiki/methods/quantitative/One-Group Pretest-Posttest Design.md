@@ -10,6 +10,8 @@ method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/pre-experimental
   - quantitative-research
@@ -30,7 +32,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-07-13
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!def] One-Group Pretest-Posttest Design

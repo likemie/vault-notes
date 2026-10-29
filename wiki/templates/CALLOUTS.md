@@ -45,6 +45,36 @@ updated: 2026-10-21
 
 - CSS 位置：`argument-callouts.css` 末尾 `11 Component designs` 段，由 `tmp/callout-design-backup-v4/gen.py` 生成。新增组件时把名字加进对应形态的列表即可获得整套样式。
 
+### 14 · v5 Method Manual：方法页工具手册（2026-10-29）
+
+Method 条目改为“一个组件一种形态”，不再统一套用纸面容器、眉标、衬线标题和白卡。样式在独立 snippet `.obsidian/snippets/method-manual.css`，由 `tmp/method-manual-v5/gen.py` 生成；在“外观 → CSS 代码片段”关闭它即回到 v4.1。
+
+| 组件 | 形态 | 动效 |
+| --- | --- | --- |
+| def | 无框导语，左侧渐变色条 | 色条自上而下画出 |
+| method-scope | 规格表：标签列 + 值列，行间发丝线 | 悬停时整行底色由左扫入 |
+| method-position | 十字分隔的四象限，角标编号 | 悬停淡底 |
+| method-stack | 竖轨 + 节点；子列表为芯片 | 节点放大填色，芯片右移浮起 |
+| citation-card | 渐变大引号 + 中文正文，英文原文退为灰色脚注 | — |
+| dev-timeline | 去掉外框，保留节点轨道 | — |
+| formula-set | 点阵蓝图底 | 底纹缓慢平移 |
+| formula-step | 主卡：描边编号、公式铭牌、小号标签，相邻步骤以虚线相连 | 编号由下而上填色，公式铭牌掠过一道光 |
+| example（卡内） | 方格工作纸 + 虚线框 + WORKED EXAMPLE 标签 | — |
+| result-reading | 绿色读数条 | — |
+| method-limits（卡内） | 琥珀细条，无标签 | — |
+| software-impl | 箭头清单 | 箭头右移 |
+| formula（代码） | 深色终端，三色窗口点 | — |
+| method-fit | 前三条依次为适合（绿 ✓）、谨慎（琥珀 !）、不适合（红 ✕） | 图标弹出，悬停上浮 |
+| method-limits（页面级） | 琥珀编号清单 | — |
+| ref-table / entry-map | 圆角数据表，等宽数字 | 行悬停左侧色条 |
+| evidence-grid-a | 箭头索引 | 箭头右移 |
+
+- 组件标题统一为“等宽色标 + 无衬线标题”，色标文字由 CSS 生成（SPEC、VALIDITY、STACK、FLOW、RUN、FIT、CAVEATS、REF、LINKS、USED IN、HISTORY）。
+- 生效范围：method-* / formula-* / software-impl / result-reading 全站生效；def、citation-card、example、formula、ref-table、entry-map、evidence-grid-a、dev-timeline 只在 frontmatter 含 `cssclasses: [method-manual]` 的页面生效，避免影响 Concept、Theory 与 Argument。
+- `method-fit` 依赖条目顺序：第一条写适合使用，第二条写谨慎使用，第三条写不适合使用。
+- 滚动入场使用 scroll-driven animation（`animation-timeline: view()`），不支持时直接显示；系统开启“减少动态效果”时关闭全部动画与过渡。
+- 修改样式时改 `gen.py` 再生成，不直接手改 CSS。
+
 ### 12 · Visible Learning MetaX 模块（2026-10-22）
 
 `[!metax]` 总览、`[!metax-ma]` 元分析明细、`[!metax-errata]` 勘误，均由 `scripts/metax_sync.py` 生成。位置：实证数据组的最前面（MetaX → 原始研究 → 一阶 / 二阶元分析 → 亚组与调节分析 → 其他实证结果），同步脚本自动插入。眉标（VISIBLE LEARNING METAX / META-ANALYSES · 元分析 / ERRATA · 勘误）和表头中文全部由 CSS `content` 生成，Markdown 表头只写代号，因此“变量、元分析、效应量”等词不进入正文。三者整块受 `wiki_linker.py` 保护，不参与补链。CSS 位置：`argument-callouts.css` 末尾 `12 · Visible Learning MetaX` 段。

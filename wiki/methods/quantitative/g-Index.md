@@ -12,6 +12,8 @@ method_related_count: 4
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/quantitative
   - method/indicator

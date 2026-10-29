@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "Shockley's Multiplicative Hurdle Model",
-      "path": "wiki/theories/science-policy/Shockley's Multiplicative Hurdle Model.md"
+      "basename": "h-Index",
+      "path": "wiki/methods/quantitative/h-Index.md"
+    },
+    {
+      "basename": "template-metax",
+      "path": "wiki/templates/template-metax.md"
+    },
+    {
+      "basename": "template-instrument",
+      "path": "wiki/templates/template-instrument.md"
+    },
+    {
+      "basename": "template-method-quant",
+      "path": "wiki/templates/template-method-quant.md"
+    },
+    {
+      "basename": "g-Index",
+      "path": "wiki/methods/quantitative/g-Index.md"
     },
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit01",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
+    },
+    {
+      "basename": "Shockley's Multiplicative Hurdle Model",
+      "path": "wiki/theories/science-policy/Shockley's Multiplicative Hurdle Model.md"
     },
     {
       "basename": "template-argument-monograph",
@@ -27,14 +47,6 @@
     {
       "basename": "template-person",
       "path": "wiki/templates/template-person.md"
-    },
-    {
-      "basename": "template-method-quant",
-      "path": "wiki/templates/template-method-quant.md"
-    },
-    {
-      "basename": "h-Index",
-      "path": "wiki/methods/quantitative/h-Index.md"
     },
     {
       "basename": "Argument_Murray_Moxon-Browne_2013_JCMS",
@@ -187,18 +199,6 @@
     {
       "basename": "Argument_SpronkenSmith_2024_AEHE",
       "path": "wiki/arguments/journal-articles/Assessment & Evaluation in Higher Education/Argument_SpronkenSmith_2024_AEHE.md"
-    },
-    {
-      "basename": "Project_Details",
-      "path": "file:/Users/shaoyangwu/Downloads/data-f42d5409-84c3-4470-a77a-0759d3fd2426-1782823498-b319b966-batch-0000/Claude_Backup_Export/projects/个人信息填写_019e8678/Project_Details.md"
-    },
-    {
-      "basename": "伍绍杨_个人资料",
-      "path": "file:/Users/shaoyangwu/Downloads/data-f42d5409-84c3-4470-a77a-0759d3fd2426-1782823498-b319b966-batch-0000/Claude_Backup_Export/projects/个人信息填写_019e8678/docs/伍绍杨_个人资料.md"
-    },
-    {
-      "basename": "Critique of Meta-analysis",
-      "path": "wiki/concepts/research-methodology/Critique of Meta-analysis.md"
     }
   ],
   "omittedPaths": [],

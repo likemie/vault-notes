@@ -12,6 +12,8 @@ method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/action-research
   - paradigm/critical
@@ -53,7 +55,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-19
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

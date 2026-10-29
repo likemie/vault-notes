@@ -4,6 +4,8 @@ aliases: []
 summary: ""
 type: method
 method_type: qualitative
+cssclasses:
+  - method-manual
 tags: []
 related_concepts: []
 related_theories: []

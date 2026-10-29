@@ -14,6 +14,8 @@ method_related_count: 37
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/data-collection
   - source/textbook
@@ -64,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-25
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

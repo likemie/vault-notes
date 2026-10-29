@@ -13,6 +13,8 @@ method_related_count: 55
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/data-collection
   - method/survey
@@ -81,7 +83,7 @@ related_theories: []
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

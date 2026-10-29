@@ -12,6 +12,8 @@ method_related_count: 32
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/research-methods
   - method/data-analysis
@@ -58,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

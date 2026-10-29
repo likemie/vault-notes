@@ -4,6 +4,8 @@ aliases: []
 summary: ""
 type: method
 method_type: quantitative
+cssclasses:
+  - method-manual
 tags:
   - method/quantitative
 related_concepts: []

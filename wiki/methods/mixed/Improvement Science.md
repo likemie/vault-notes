@@ -10,6 +10,8 @@ method_related_count: 18
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
+cssclasses:
+  - method-manual
 tags:
 - improvement-science
 - evidence-based-education
@@ -44,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!info] 定义

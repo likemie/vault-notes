@@ -14,6 +14,8 @@ method_related_count: 61
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - qualitative-research
   - ethnography
@@ -88,7 +90,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-10-27
+updated: 2026-10-29
 ---
 
 > [!def] Ethnography

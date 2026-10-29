@@ -13,6 +13,8 @@ method_related_count: 32
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/quantitative
   - theme/educational-evaluation
@@ -61,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-21
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

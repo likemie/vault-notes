@@ -15,6 +15,8 @@ method_related_count: 31
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - theme/measurement
   - method/test-theory
@@ -60,7 +62,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-07-24
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

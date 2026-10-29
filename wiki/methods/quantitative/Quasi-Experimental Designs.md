@@ -15,6 +15,8 @@ method_related_count: 85
 method_related_level: 8
 method_related_stars: "💎💎⭐⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/quasi-experimental-design
   - method/quantitative
@@ -116,7 +118,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

@@ -13,6 +13,8 @@ method_related_count: 64
 method_related_level: 6
 method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - quantitative-research
   - survey
@@ -91,7 +93,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

@@ -13,6 +13,8 @@ method_related_count: 8
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/qualitative
   - data-collection
@@ -30,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

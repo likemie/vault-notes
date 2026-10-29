@@ -1,6 +1,7 @@
 {
   "theme": "obsidian",
   "enabledCssSnippets": [
-    "argument-callouts"
+    "argument-callouts",
+    "method-manual"
   ]
 }

@@ -14,6 +14,8 @@ method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/prompt-engineering
   - theme/ai-in-education
@@ -51,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-20
+updated: 2026-10-29
 ---
 
 ---

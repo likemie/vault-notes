@@ -12,6 +12,8 @@ method_related_count: 34
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
 - single-case-design
 - scd
@@ -62,7 +64,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ## 概念辨析：两种含义

@@ -11,6 +11,8 @@ method_related_count: 26
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/ex-post-facto
   - research-design
@@ -50,7 +52,7 @@ related_facts: []
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

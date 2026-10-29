@@ -14,6 +14,8 @@ method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - subject/research-methodology
   - causal-inference
@@ -50,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

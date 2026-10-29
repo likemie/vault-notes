@@ -12,6 +12,8 @@ method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/textbook-analysis
   - method/comparative-analysis
@@ -47,7 +49,7 @@ related_facts:
 confidence: high
 status: draft
 created: '2026-05-26'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

@@ -11,6 +11,8 @@ method_related_count: 6
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - metax
   - cognitive-task-analysis
@@ -30,7 +32,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!info] 定义

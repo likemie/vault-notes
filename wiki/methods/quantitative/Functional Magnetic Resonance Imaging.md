@@ -12,6 +12,8 @@ method_related_count: 5
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
 - fmri
 - neuroimaging
@@ -30,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 > [!info] 定义

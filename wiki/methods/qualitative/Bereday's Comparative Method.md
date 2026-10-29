@@ -16,6 +16,8 @@ method_related_count: 32
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
+cssclasses:
+  - method-manual
 tags:
   - method/qualitative
   - subject/comparative-education
@@ -63,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---

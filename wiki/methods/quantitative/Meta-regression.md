@@ -12,6 +12,8 @@ method_related_count: 53
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dcfce7"
+cssclasses:
+  - method-manual
 tags:
   - method/statistical
   - meta-analysis
@@ -78,7 +80,7 @@ related_facts:
   - "[[World Bank]]"
 confidence: high
 created: 2026-08-19
-updated: 2026-10-22
+updated: 2026-10-29
 ---
 
 ---

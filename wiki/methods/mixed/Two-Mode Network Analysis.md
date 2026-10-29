@@ -15,6 +15,8 @@ method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
+cssclasses:
+  - method-manual
 tags:
   - method/mixed
   - data-analysis
@@ -53,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-23
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
