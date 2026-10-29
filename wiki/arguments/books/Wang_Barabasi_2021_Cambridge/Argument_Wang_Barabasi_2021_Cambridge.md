@@ -7,7 +7,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge"
 argument_display_title: "The Science of Science"
 argument_kind: "book"
-argument_related_count: 6
+argument_related_count: 7
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#ede9fe"
@@ -38,7 +38,7 @@ related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
 status: "draft"
 created: "2026-10-27"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 > [!monograph-profile] 阅读档案

@@ -9,10 +9,10 @@ summary: "意大利复杂网络科学家与计算科学学者，哥本哈根信�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 5
-person_related_level: 0
-person_related_stars: "☆"
-person_related_color: "#e5e7eb"
+person_related_count: 13
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1983"
 died: ""
 lifespan: "1983–至今"
@@ -21,21 +21,26 @@ tags:
   - theme/network-science
   - theme/science-of-science
   - theme/computational-social-science
-related_concepts: []
+related_concepts:
+  - "[[Metascience]]"
+  - "[[Counterfactual]]"
+  - "[[Paradigm]]"
+  - "[[Creativity]]"
+  - "[[Emergence]]"
+  - "[[Document]]"
 related_theories:
   - "[[Random Impact Rule]]"
-  - "[[Q-Model]]"
 related_methods:
   - "[[Career Shuffling Method]]"
-  - "[[Drop-pin Projection]]"
-  - "[[Bibliometric Analysis]]"
   - "[[Q-Factor]]"
+  - "[[Drop-pin Projection]]"
+  - "[[Random Sampling]]"
+  - "[[Bibliometric Analysis]]"
 related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
-  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
 confidence: high
 status: active
 created: 2026-10-29
@@ -46,7 +51,7 @@ updated: 2026-10-30
 
 > [!person-profile] 人物档案
 > - **身份位置** 意大利计算社会科学与复杂系统物理学者，哥本哈根信息技术大学计算机科学教授，网络与数据科学中心研究负责人。
-> - **核心角色** 当代科学学（Science of Science）新一代领军学者，将统计物理反事实零模型与大规模引文计量数据深度融合。
+> - **核心角色** 当代科学学（[[Metascience|Science of Science]]）新一代领军学者，将统计物理[[Counterfactual|反事实]]零模型与大规模引文计量数据深度融合。
 > - **代表贡献** 领衔在《科学》（*Science*）发表关于个体艺术与科学职业演化的奠基性论著，系统提出[[Random Impact Rule|随机影响规律]]并开发[[Career Shuffling Method|生涯序列随机置换法]]。
 
 > [!citation-card] 西纳特拉论科学影响的随机发生机制
@@ -67,19 +72,19 @@ updated: 2026-10-30
 ---
 
 > [!work-line] 主要论著
-> - **2016 — *Quantifying the Evolution of Individual Artistic and Scientific Careers*（《科学》）** 形式化确立随机影响法则与 Q 因子模型，揭示科学突破发生时序的随机本质。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 51–56)]]
+> - **2016 — *Quantifying the Evolution of Individual Artistic and Scientific Careers*（《科学》）** 形式化确立随机影响法则与 [[Q-Factor|Q 因子]]模型，揭示科学突破发生时序的随机本质。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 51–56)]]
 > - **2017 — *A Century of Physics*（《自然·物理》）** 运用引文全网大数据绘制 20 世纪物理学知识流动与概念交融图谱。
 
 ---
 
 > [!claim] 核心思想
-> 罗伯塔·西纳特拉（Roberta Sinatra）强调，科学家的职业生涯轨迹受制于微观随机事件与宏观稳态特征的双重塑造。将统计物理学的系综与零模型分析范式引入人类学术活动，能够有效破除传统社会学直觉中的认知偏见，揭示前沿探索在充满不确定性的表象背后所遵循的普遍数理规律。
+> 罗伯塔·西纳特拉（Roberta Sinatra）强调，科学家的职业生涯轨迹受制于微观随机事件与宏观稳态特征的双重塑造。将统计物理学的系综与零模型分析[[Paradigm|范式]]引入人类学术活动，能够有效破除传统社会学直觉中的认知偏见，揭示前沿探索在充满不确定性的表象背后所遵循的普遍数理规律。
 
 ---
 
 > [!influence-path] 影响路径
-> - **理论路径** 确立随机影响法则，将达尔文主义创造力假说与现代统计物理学相衔接，重构了学术生命周期的理论认知。
-> - **方法路径** 开发生涯序列随机置换法与图钉投影模型，提供了一套检验时间序列独立性与排除生产力波动的标准化计算工具。
+> - **理论路径** 确立随机影响法则，将达尔文主义[[Creativity|创造力]]假说与现代统计物理学相衔接，重构了学术生命周期的理论认知。
+> - **方法路径** 开发生涯序列随机置换法与[[Drop-pin Projection|图钉投影]]模型，提供了一套检验时间序列独立性与排除生产力波动的标准化计算工具。
 > - **学术评价与政策路径** 论证持续资助高产年长学者的合理性，为科技资助机构破除唯年轻化年龄门槛提供了计量学证据支持。
 
 > [!evidence-grid-a] 相关研究索引
@@ -95,8 +100,8 @@ updated: 2026-10-30
 
 > [!debates] 学术争议
 >
-> > [!axis] 单篇成果纯随机涌现 vs 连胜爆发局部聚集
-> > 西纳特拉等强调单篇成果影响力在发表序列中服从均匀随机抽样；后续连胜爆发期研究揭示学者在特定阶段存在连续产出高质量成果的爆发聚集，引发关于局部聚集与全局随机的理论调和争鸣。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 54–56)]]
+> > [!axis] 单篇成果纯随机[[Emergence|涌现]] vs 连胜爆发局部聚集
+> > 西纳特拉等强调单篇成果影响力在发表序列中服从均匀[[Random Sampling|随机抽样]]；后续连胜爆发期研究揭示学者在特定阶段存在连续产出高质量成果的爆发聚集，引发关于局部聚集与全局随机的理论调和争鸣。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 54–56)]]
 
 ---
 
@@ -107,4 +112,4 @@ updated: 2026-10-30
 > | [[Random Impact Rule]] | 理论 | 领衔提出并形式化随机影响法则，证实成果影响力在职业序列中均匀随机分布。 |
 > | [[Career Shuffling Method]] | 方法 | 研发在固定学者发文节奏下随机重组被引次序的反事实零模型方法。 |
 > | [[Drop-pin Projection]] | 方法 | 引入学者生涯图钉投影法，实现全生命周期作品时序与十年引文高度的降维表达。 |
-> | [[Bibliometric Analysis]] | 方法 | 将统计物理系综置换模型深度融入微观文献计量与生涯轨迹分析。 |
+> | [[Bibliometric Analysis]] | 方法 | 将统计物理系综置换模型深度融入微观[[Document\|文献]]计量与生涯轨迹分析。 |

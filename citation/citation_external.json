@@ -8647,6 +8647,8 @@
     "Gillis et al., 2016": "Gillis et al., 2016",
     "Gillon (2022)": "Gillon, 2022",
     "Gillon, 2022": "Gillon, 2022",
+    "Gilovich et al. (1985)": "Gilovich et al., 1985",
+    "Gilovich et al., 1985": "Gilovich et al., 1985",
     "Gilson (2004)": "Gilson, 2004",
     "Gilson, 2004": "Gilson, 2004",
     "Ginns (2005)": "Ginns, 2005",
@@ -10169,6 +10171,8 @@
     "Heckathorn (2002)": "Heckathorn, 2002",
     "Heckathorn, 1997": "Heckathorn, 1997",
     "Heckathorn, 2002": "Heckathorn, 2002",
+    "Heckman & Moktan (2020)": "Heckman & Moktan, 2020",
+    "Heckman & Moktan, 2020": "Heckman & Moktan, 2020",
     "Heclo (1978)": "Heclo, 1978",
     "Heclo, 1978": "Heclo, 1978",
     "Hedges & Olkin (1980)": "Hedges & Olkin, 1980",
@@ -89931,6 +89935,21 @@
       "seen_in": [],
       "title": "A better start literacy approach  Effectiveness of Tier 1 and Tier 2 support within a response to teaching framework"
     },
+    "Gilovich et al., 1985": {
+      "aliases": [
+        "Gilovich et al., 1985",
+        "Gilovich et al. (1985)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Gilovich et al., 1985"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/theories/science-policy/Hot-Streak Model.md"
+      ],
+      "title": ""
+    },
     "Gilson, 2004": {
       "aliases": [
         "Gilson, 2004",
@@ -101190,6 +101209,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08.md"
+      ],
+      "title": ""
+    },
+    "Heckman & Moktan, 2020": {
+      "aliases": [
+        "Heckman & Moktan, 2020",
+        "Heckman & Moktan (2020)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Heckman & Moktan, 2020"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
       ],
       "title": ""
     },
@@ -131089,7 +131123,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
       ],
       "title": "Effectiveness of the flipped classroom on the development of self-directed learning in nursing education: A meta-analysis."
     },
@@ -183901,6 +183936,7 @@
       "seen_in": [
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md",
         "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md",
+        "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md",
         "wiki/concepts/science-policy/Lost Winners.md",
         "wiki/methods/quantitative/Career Shuffling Method.md",
         "wiki/persons/us/Harvey C. Lehman.md"

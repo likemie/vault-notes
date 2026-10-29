@@ -16023,6 +16023,18 @@
     ]
   },
   {
+    "title": "Exploration-Exploitation in Science",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Exploration-Exploitation in Science.md",
+    "aliases": [
+      "科研中的探索与利用",
+      "探索－利用策略",
+      "探索后利用模式",
+      "Exploration and Exploitation in Science",
+      "Exploration Followed by Exploitation"
+    ]
+  },
+  {
     "title": "Focused Research Organization",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Focused Research Organization.md",
@@ -16116,6 +16128,18 @@
       "三维异构集成",
       "Chiplet",
       "芯粒技术"
+    ]
+  },
+  {
+    "title": "Hot Streak",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Hot Streak.md",
+    "aliases": [
+      "学术爆发期",
+      "生涯热手期",
+      "创造力爆发期",
+      "热手效应 (科学学)",
+      "Hot Streaks in Creative Careers"
     ]
   },
   {
@@ -21536,6 +21560,17 @@
       "Ergas Taxonomy",
       "使命导向与扩散导向技术政策分类",
       "mission-oriented and diffusion-oriented technology policy"
+    ]
+  },
+  {
+    "title": "Hot-Streak Model",
+    "type": "theory",
+    "path": "wiki/theories/science-policy/Hot-Streak Model.md",
+    "aliases": [
+      "学术爆发期模型",
+      "热手模型",
+      "Hot-Streak Model of Creative Careers",
+      "爆发期生成模型"
     ]
   },
   {
@@ -45005,6 +45040,11 @@
     "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit02",
     "type": "argument",
     "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
+  },
+  {
+    "title": "Argument_Wang_Barabasi_2021_Cambridge_Unit03",
+    "type": "argument",
+    "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
   },
   {
     "title": "Argument_Zhang_2023_PHEI",
