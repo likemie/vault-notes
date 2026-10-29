@@ -8,7 +8,7 @@ aliases:
 summary: "由刘路（Lu Liu）与王大顺、Albert-László Barabási et al. (2018) 提出的创造性职业生涯时序动力学理论；在平稳基线学术表现之上引入局部持续的高位激发状态，解释顶尖代表作在生涯序列中显著成簇出现（前后紧邻概率达随机预期的 1.57 倍）的经验事实，并与代表作在整体生命周期中的随机影响规律统一起来。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 14
+theory_related_count: 16
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"

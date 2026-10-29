@@ -9,7 +9,7 @@ aliases:
 summary: "由 Roberta Sinatra、王大顺与 Albert-László Barabási (2016) 提出的科学学生涯规律理论；通过反事实生涯序列置换零模型，证实学者在生涯不同阶段产出最高影响力代表作的概率完全由发文生产力演进曲线所驱动，单篇成果影响力在发表序列中服从均匀随机分布，打破了青年期天赋创造力垄断重大科学突破的传统迷思。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 4
+theory_related_count: 9
 theory_related_level: 0
 theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-29
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -132,9 +132,9 @@ updated: 2026-10-29
 > > [!axis] 单篇随机分布 vs 连胜爆发聚集（Hot Hand / Hot Streak）
 > > 随机影响法则假定各篇成果影响力独立随机出现；后续研究发现在随机背景下学者往往经历集中的连胜爆发期（[[Hot Streak|学术爆发期]]），在数年内连续产出代表作，引发关于局部聚集与全局随机的理论调和争鸣。
 > >
-> > - **Liu et al. (2018); [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang & Barabási (2021)]]** 提出[[Hot-Streak Model|爆发期模型]]，实证揭示爆发期内部成果虽存在强自相关，但爆发期在学者全生涯中的降临起点随机分布，从而在微观局部聚集与宏观全域随机之间建立了数理统一。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 76–77)]]
+> > - **Liu et al. (2018); [[Argument_Wang_Barabasi_2021_Cambridge_Unit03|Wang and Barabási (2021)]]** 提出[[Hot-Streak Model|爆发期模型]]，实证揭示爆发期内部成果虽存在强自相关，但爆发期在学者全生涯中的降临起点随机分布，从而在微观局部聚集与宏观全域随机之间建立了数理统一。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 76–77)]]
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang & Barabási (2021)]] — 依托物理学者全样本及跨艺术与电影大数据确立随机影响法则（[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|第 2 单元]]），并通过爆发期起点的全域随机性实现宏观随机律与微观成簇聚集的数理调和（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|第 3 单元]]）。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 依托物理学者全样本及跨艺术与电影大数据确立随机影响法则（[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|第 2 单元]]），并通过爆发期起点的全域随机性实现宏观随机律与微观成簇聚集的数理调和（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|第 3 单元]]）。

@@ -12,7 +12,7 @@ summary: "运用数学与统计学方法对学术文献外部特征、引文网�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -52,10 +52,11 @@ related_facts: []
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_UNESCO]]"
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
 confidence: medium
 status: draft
 created: 2026-10-22
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -127,4 +128,4 @@ updated: 2026-10-29
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Steiner-Khamsi_2024_UNESCO|Steiner-Khamsi, Faul, et al. (2024, pp. 29–32)]] — 运用文献计量分析比对公共卫生与教育循证政策研究的发文增长率（30.5% vs 23.6%）与共被引网络，揭示教育证据研究社群高度自指与分散碎片的结构特征。
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit01|Wang & Barabási (2021, pp. 8–12, 17–23)]] — 基于全球数千万学者与近亿篇学术文献的全量引文数据，运用文献计量分析测定科研生产力的人均百年稳态、对数正态长尾分布与 h 指数的长期前瞻[[Predictive Validity|预测效度]]。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 基于大数据文献计量分析测定科研生产力稳态分布与 h 指数预测效度（[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|第 1 单元]]），并依托十年引文窗口与共现矩阵建模个体能力稳态与学术爆发期规律（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|第 3 单元]]）。

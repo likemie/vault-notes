@@ -255,7 +255,7 @@ Total entries: **260**
 > - [[Preferential Attachment in Academia]] — 由 Derek de Solla Price (1965) 与 Albert-László Barabási (1999) 发展的引文网络演化理论，阐明学术成果获取新引用的速率与已累积引用量成正比（dc/dt ∝ c）；Petersen et al. (2014) 跨越模型进一步证明，学术声望仅在成果面世早期（c < cx）提供暂态红利，越过阈值后纯粹优先连接机制接管，长期影响回归发现本身的内在价值。
 > - [[Price's Law]] — 由 Derek de Solla Price (1963) 在《小科学，大科学》中提出的科学计量学经验分布定律；指出在特定学术共同体中，全部学术文献的 50% 由总学术人口的平方根（k = √N）贡献，揭示了科研知识生产中极端精英集中的平方根分布特征与学术分层结构。
 > - [[Problem-Solution Space for Mission-Oriented Innovation Policy]] — 基于争议性、复杂性与不确定性解构社会问题与创新方案，划分二维象限并阐释三条收敛治理路径的政策分析框架
-> - [[Q-Model]] — 由 Roberta Sinatra、王大顺与 Albert-László Barabási (2016) 提出的科学学生涯影响生成机制理论；将学者单篇论著的学术影响形式化为课题初始潜力（r）与学者个体稳定能力因子（Q）的乘积（c_10 = r * Q_i），克服了假定学术成果纯凭抽签运气的随机模型（R-model）在解释高产学者代表作突破时的系统性偏差，揭示出普遍学术运气与个体稳态能力的共存机制。
+> - [[Q-Model]] — 由 Roberta Sinatra、王大顺与 Albert-László Barabási (2016) 提出的科学学生涯影响生成机制理论；将学者单篇论著的学术影响形式化为课题初始潜力（r）与学者个体稳定能力因子（Q）的乘积（十年被引量由构想潜力与个体能力因子相乘决定），克服了假定学术成果纯凭抽签运气的随机模型（R-model）在解释高产学者代表作突破时的系统性偏差，揭示出普遍学术运气与个体稳态能力的共存机制。
 > - [[Random Impact Rule]] — 由 Roberta Sinatra、王大顺与 Albert-László Barabási (2016) 提出的科学学生涯规律理论；通过反事实生涯序列置换零模型，证实学者在生涯不同阶段产出最高影响力代表作的概率完全由发文生产力演进曲线所驱动，单篇成果影响力在发表序列中服从均匀随机分布，打破了青年期天赋创造力垄断重大科学突破的传统迷思。
 > - [[ROAR Framework]] — 由玛丽安娜·马祖卡托提出的使命导向创新政策分析框架，涵盖战略路径与方向（Routes）、探索型组织能力（Organizations）、公共价值动态评估（Assessment）以及风险收益对称共享（Risks and Rewards）四大核心维度
 > - [[Small-World Collaboration Model]] — 由 Brian Uzzi 与 Jarrett Spiro (2005) 提出的网络拓扑与团队创造力理论；指出协作网络的小世界特性（W）与团队创造力及绩效呈现倒 U 形非线性关联，适度的小世界网络拓扑在促进信息跨群流动与维持认知多样性之间达成最优平衡。

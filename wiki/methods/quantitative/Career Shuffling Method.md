@@ -12,7 +12,7 @@ summary: "由 Roberta Sinatra et al. (2016) 提出的科学学生涯纵向引文
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 3
+method_related_count: 8
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -24,15 +24,20 @@ tags:
   - theme/scientometrics
   - theme/science-of-science
 related_concepts: []
-related_theories: []
+related_theories:
+  - "[[Random Impact Rule]]"
+  - "[[Q-Model]]"
+  - "[[Hot-Streak Model]]"
 related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[Drop-pin Projection]]"
+  - "[[Q-Factor]]"
 related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit02]]"
+  - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit03]]"
 confidence: high
 status: active
 created: 2026-10-29
@@ -46,7 +51,7 @@ updated: 2026-10-30
 
 > [!method-scope] 方法范围
 > - **研究对象** 拥有长周期连续发表记录的学者、艺术家或导演的全生命周期作品序列与影响力计量数据。
-> - **问题类型** 反事实零模型构建、时间序列独立性检验与机制剥离。
+> - **问题类型** 反事实零模型构建、时间序列独立性检验、个体能力稳态验证与代表作时序成簇识别。
 > - **分析单位** 学术生涯跨越 20 年以上的学者个体。
 > - **输出形式** 真实与随机置换条件下的巅峰产出学术年龄分布曲线 $P(t^*)$、相对发表位置累积分布函数 $P_>(N^*/N)$。
 
@@ -68,6 +73,11 @@ updated: 2026-10-30
 > - **数据收集** 学术文献全量引文数据库、基于机器学习的高精度学者同名消歧。
 > - **分析方法** 蒙特卡洛无放回置换算法、经验概率密度估计与柯尔莫哥洛夫－斯米尔诺夫检验。
 > - **辅助技术** [[Drop-pin Projection|生涯图钉投影]]（Drop-pin Projection）、长周期被引窗口标准化（如 $c_{10}$）。
+
+> [!dev-timeline] 方法演化
+> - **2016 — 代表作时序随机性检验** [[Roberta Sinatra|罗伯塔·西纳特拉]]（Roberta Sinatra）等在《科学》（*Science*）论著中通过打乱引文序列检验最高成果出现时间 $t^*$ 与相对位次 $N^*/N$，确立[[Random Impact Rule|随机影响法则]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|(Wang & Barabási, 2021, pp. 52–56)]]
+> - **2016 — 全生命周期能力稳态检验** 西纳特拉等将长周期物理学者生涯等分为早晚期，基于随机置换零模型测定波动置信带，证实 95.1% 学者的 Q 因子波动落入纯随机置换带，验证了能力的终身平稳性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 66–67)]]
+> - **2018 — 局域成簇与零模型偏离检验** 刘禄（Lu Liu）等通过置换发文时序构建间隔方差零模型，发现真实生涯中最高与次高代表作紧邻发表概率是随机预期的 1.57 倍，突破了独立置换假定并促成[[Hot-Streak Model|爆发期模型]]确立。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–74)]]
 
 ---
 
@@ -170,7 +180,7 @@ updated: 2026-10-30
 
 > [!method-limits] 方法局限
 > - **偏误来源** 生涯筛选生存偏误（仅能纳入长周期存续学者）、初期消歧错误引发的虚假发表、长周期引文窗口的时滞滞后。
-> - **适用边界** 结论适用于解释单篇成果影响力的相对出现顺序，不适用于推导学者整体学术能力的形成原因。
+> - **适用边界** 结论适用于解释单篇成果影响力的相对出现顺序，不适用于推导学者整体学术能力的形成原因。此外，传统生涯随机置换法假定成果影响力时序完全独立；实证揭示真实代表作存在局域成簇聚集现象（连续出现概率是随机预期的 1.57 倍），促使后续引入非平稳激发的[[Hot-Streak Model|爆发期模型]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|(Wang & Barabási, 2021, pp. 72–74)]]
 > - **误用风险** 容易被误读为科学研究全凭运气盲动，忽视了学者内在能力参数对平均引文基准的决定性作用。
 > - **补救方式** 结合品质因子模型进行个体能力标准化；对诺贝尔奖得主剔除直接获奖论著以校正生存偏误。
 
@@ -181,11 +191,14 @@ updated: 2026-10-30
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Random Impact Rule]] | 理论 | 为随机影响法则提供直接的核心反事实数理验证方法。 |
+> | [[Q-Model]] | 理论 | 生涯置换检验排除了生理年龄衰减，验证了 Q 因子的终身平稳性。 |
+> | [[Hot-Streak Model]] | 拓展理论 | 针对真实生涯偏离独立置换零模型的成簇现象，构建局域非平稳激发模型。 |
 > | [[Constant-Probability-of-Success Model]] | 理论 | 为置换实验的随机抽样结果提供达尔文试错认知解释。 |
+> | [[Q-Factor]] | 检验对象 | 通过早晚期置换检验确认 Q 因子不受年龄自然衰减影响。 |
 > | [[Author Name Disambiguation]] | 前置方法 | 提供干净可靠的学者全生命周期发表序列作为置换分析的输入基础。 |
 > | [[Bibliometric Analysis]] | 上位方法 | 属于文献计量分析中微观学者轨迹反事实建模的专门延伸分支。 |
 
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Wang_Barabasi_2021_Cambridge_Unit02|Wang & Barabási (2021)]] — 运用生涯序列随机置换法对 2,856 位长期活跃的物理学家发表序列展开反事实模拟，证实代表作时序分布曲线的波峰完全受生产力曲线驱动，确立了随机影响法则。
+> - [[Argument_Wang_Barabasi_2021_Cambridge|Wang and Barabási (2021)]] — 运用生涯置换零模型确立随机影响法则（[[Argument_Wang_Barabasi_2021_Cambridge_Unit02|第 2 单元]]），并将其拓展至早晚期能力稳态检验与代表作成簇偏离识别（[[Argument_Wang_Barabasi_2021_Cambridge_Unit03|第 3 单元]]）。
