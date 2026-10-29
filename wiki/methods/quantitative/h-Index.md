@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-10-29"
-updated: 2026-10-29
+updated: 2026-10-30
 ---
 
 ---
@@ -152,7 +152,7 @@ updated: 2026-10-29
 > > 拖动滑块可看到 $m$ 受 $n$ 与 $c$ 中较小一方限制。
 > >
 > > ```geogebra
-> > file: wiki/assets/geogebra/hirsch_h_index_v2.ggb
+> > file: wiki/assets/geogebra/hirsch_h_index.ggb
 > > height: 480
 > > toolbar: false
 > > ```

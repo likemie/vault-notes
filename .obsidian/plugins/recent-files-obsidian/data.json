@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Random Impact Rule",
+      "path": "wiki/theories/science-policy/Random Impact Rule.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit02",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit02.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Alexiadou_Rambla_2023_EERJ",
       "path": "wiki/arguments/journal-articles/European Educational Research Journal/Argument_Alexiadou_Rambla_2023_EERJ.md"
-    },
-    {
-      "basename": "European Semester",
-      "path": "wiki/facts/eu/European Semester.md"
     }
   ],
   "omittedPaths": [],

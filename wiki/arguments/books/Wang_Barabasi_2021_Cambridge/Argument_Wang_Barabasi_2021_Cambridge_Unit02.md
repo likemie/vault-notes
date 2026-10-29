@@ -374,22 +374,22 @@ updated: 2026-10-30
 
 ## 关键引用
 
-> [!citation-card]- 知识攀爬成本与前沿探索时间的冲突
+> [!citation-card] 知识攀爬成本与前沿探索时间的冲突
 > 站在巨人的肩膀上必须首先爬上巨人的后背。伴随科学体量的不断扩大，学者抵达前沿所需攀爬的时间日益漫长。如果科学家倾向于在年轻时取得突破，那么在前期专业受训中每多消耗一分钟，用于推进科学前沿的时间就少了一分钟，直接压缩了个体的终身总创新产出。（pp. 44–45）
 >
 > *In order to stand on a giant's shoulders, one must first climb up his back. But the greater the body of knowledge, the longer the climb. Clearly, education is an important prerequisite for innovation. Yet if scientists tend to innovate when they are young, then each additional minute they spend in training is one less minute they can spend pushing science forward, potentially reducing the total career output of individual scientists.*
 
-> [!citation-card]- 概念型先验突破与经验型长期积累的认知分野
+> [!citation-card] 概念型先验突破与经验型长期积累的认知分野
 > [[Werner Heisenberg|沃纳·海森堡]]是一位典型的[[Conceptual Innovators|概念型创新者]]，采用演绎方式并应用先验抽象法则；而查尔斯·达尔文从事的是[[Experimental Innovators|实验型创新]]工作，必须花费五年时间随贝格尔号环球航行以收集扎实的生活标本。对既定领域缺乏根深蒂固的敬畏有利于概念型创新者打破教条，而长期的实物搜集与技能打磨则赋予了实验型创新者无可替代的后发优势。（pp. 46–48）
 >
 > *Conceptual innovators work deductively, applying [[Abstract|abstract]] principles. This type of work tends to be more theoretical and derived from a priori logic... By contrast, Charles Darwin, who did experimental work, needed time to accumulate the evidence necessary to develop his theories. Indeed, the trip itself took five years.*
 
-> [!citation-card]- [[Random Impact Rule|随机影响法则]]的核心数理内涵
+> [!citation-card] [[Random Impact Rule|随机影响法则]]的核心数理内涵
 > [[Counterfactual|反事实]]打乱曲线与真实曲线的完全重叠表明，巅峰发表时间的波动完全可由学者终身[[Scientific Productivity|科研生产力]]的变动所解释。青年科学家在生涯早期拥有不成比例的突破，关键在于他们身处发文产出最密集的活跃时期，高频尝试驱动了影响力的显现。在对生产力进行校正后，重大突破在职业生涯各个阶段完全随机发生，这就是随机影响法则。（pp. 54–55）
 >
 > *The fact that the two distributions are the same indicates that variations in P(t*) are fully explained by changes in productivity throughout a career... young scientists have a disproportionate number of breakthroughs early in their career not because youth and [[Creativity|creativity]] are intertwined, but simply because they're in their most productive period. In other words, when we adjust for productivity, high impact work will occur randomly over the course of a career. We call this the random impact rule.*
 
-> [!citation-card]- 保持持续尝试对晚期突破的决定性意义
+> [!citation-card] 保持持续尝试对晚期突破的决定性意义
 > 随机影响法则赋予了生产力全新的意义：持续不断的尝试是实现期待已久突破的核心保障。对于那些绝不停止探索的人而言，重大突破始终保有实现的可能。[[John B. Fenn|约翰·芬恩]]在被耶鲁大学强制退休后转校继续实验并最终斩获诺贝尔奖的历程，与随机影响法则共同昭示我们，只要不在生涯后期放弃发文生产力，学术影响绝不衰减。（pp. 56–58）
 >
 > *The random impact rule thus offers a new perspective on the role of productivity: it tells us that trying over and over is important for making that long-awaited breakthrough... for those that keep trying, the breakthrough may not be as elusive. A wonderful example is offered by John Fenn... for those who do not let their productivity drop in the later part of their career, impact may not wane.*

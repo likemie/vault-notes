@@ -53,7 +53,7 @@ updated: 2026-10-30
 > - **代表贡献** 1991 年在《美国经济评论》（AER）主导设计了学术史上首个针对单盲与双盲同行评审的大规模[[Randomised Controlled Trials|随机对照试验]]，证实机构声望在单盲评审中带来虚高录用偏倚。
 
 > [!citation-card] 布兰克论双盲评审对机构声誉溢价的抑制效应
-> 在《美国经济评论》开展的严格随机双盲实验表明，隐去作者与机构信息直接导致顶尖名校文稿的录用率从 48.7% 显著跌落至 43.1%，证实单盲评审赋予了知名机构额外的声誉加分；而双盲机制显著改善了非顶尖机构及女性学者所受的审阅相对劣势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 30–31)]]
+> 在《美国经济评论》开展的严格随机双盲实验表明，隐去署名学者与机构信息直接导致顶尖名校文稿的录用率从 48.7% 显著跌落至 43.1%，证实单盲评审赋予了知名机构额外的声誉加分；而双盲机制显著改善了非顶尖机构及女性学者所受的审阅相对劣势。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 30–31)]]
 >
 > *[[Blinding|Double-blind]] review reduced acceptance rates for top-tier institutions from 48.7 percent to 43.1 percent... suggesting that single-blind reviewing introduces status bias favoring prestigious institutions.*
 
@@ -78,7 +78,7 @@ updated: 2026-10-30
 ---
 
 > [!claim] 核心思想
-> 学术审稿人尽管主观上追求客观学术标准，但在掌握作者身份信息时，无意识的社会声望认知会系统性转化为评审决断的启发式捷径。唯有通过制度化的盲审阻断机制，才能将评价重心牢固锚定在研究论证质量本身。
+> 学术审稿人尽管主观上追求客观学术标准，但在掌握文稿署名身份信息时，无意识的社会声望认知会系统性转化为评审决断的启发式捷径。唯有通过制度化的盲审阻断机制，才能将评价重心牢固锚定在研究论证质量本身。
 
 > [!influence-path] 影响路径
 > - **理论路径** 为科学社会学与高等教育评价提供了经济学因果实证支柱，使同行[[Status Bias in Peer Review|评审声望偏倚]]从思辨性讨论转变为可量化测量的结构性偏差。
