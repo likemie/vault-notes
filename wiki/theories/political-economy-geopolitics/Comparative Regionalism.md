@@ -8,7 +8,7 @@ aliases:
 summary: "国际关系学与国际政治经济学核心分析范式；主张超越以欧洲联盟为唯一样板的欧洲中心主义与特例论二分陷阱，通过跨地域、多尺度的制度与规范经验比较，系统解释不同区域组织在一体化动力、微观制度架构、主权让渡意愿及本土规范互动中的多样化治理路径。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 21
+theory_related_count: 22
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -21,6 +21,7 @@ tags:
 related_concepts:
   - "[[Emergence]]"
   - "[[Constructivist Paradigm]]"
+  - "[[Norm Localisation]]"
   - "[[Zone of Discretion]]"
   - "[[Engrenage]]"
   - "[[Institutional Mimesis]]"
@@ -68,7 +69,7 @@ updated: 2026-10-29
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 阿米塔夫·阿查亚（Amitav Acharya）与阿拉斯泰尔·伊恩·约翰斯顿（Alastair Iain Johnston）（2007）、亚历克斯·沃利-拉克（Alex Warleigh-Lack）与本·罗莎蒙德（Ben Rosamond）（2010）、[[Philomena Murray|菲洛梅娜·默里]]（[[Philomena Murray]]）（2010, 2013）等学者系统推进了新区域主义与比较区域主义研究进路。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 524–525)]]
 > - **原初问题** 20 世纪末至 21 世纪初，冷战后全球各地[[Emergence|涌现]]大量区域合作实验（如[[ASEAN|东南亚国家联盟]]、非洲联盟、南方共同市场），然而既有研究要么照搬欧洲联盟标准指责这些组织“制度不力”与“一体化欠发达”，要么彻底放弃跨区对话陷入区域特殊主义。
-> - **理论资源与材料** 汲取[[Constructivist Paradigm|社会建构主义]]的规范本土化视角、历史制度主义的[[Path Dependence|路径依赖理论]]，以及东南亚、非洲、拉丁美洲的大量多边治理实证材料。
+> - **理论资源与材料** 汲取[[Constructivist Paradigm|社会建构主义]]的[[Norm Localisation|规范本土化]]视角、历史制度主义的[[Path Dependence|路径依赖理论]]，以及东南亚、非洲、拉丁美洲的大量多边治理实证材料。
 > - **形成路径** 从宏观批判欧洲一体化研究中的“一体化势利”（Integration Snobbery）起步，逐步转向对不同区域组织在微观委员会运作、常驻外交官社交网络与条约执行机制的精细化比较。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 524–526)]]
 
 > [!dev-timeline] 理论版本与贡献

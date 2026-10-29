@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 42
+fact_related_count: 44
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -25,6 +25,7 @@ tags:
   - regional-cooperation
 related_concepts:
   - "[[Geopolitics]]"
+  - "[[ASEAN Way]]"
   - "[[Educational Diplomacy]]"
   - "[[Student Mobility]]"
   - "[[Research Universities]]"
@@ -51,6 +52,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[ASEAN Charter]]"
+  - "[[Treaty of Amity and Cooperation in Southeast Asia]]"
   - "[[ASEAN University Network]]"
   - "[[Committee of Permanent Representatives to ASEAN]]"
   - "[[Belt and Road Initiative]]"
@@ -94,10 +96,10 @@ updated: 2026-10-29
 > [!org-evolution] 组织发展历程
 > - **1967–1990** **初创奠基与冷战地缘合作**
 >
->   以安全互信与[[Geopolitics|地缘政治]]协调为主，确立不干预内政与协商一致的“东盟方式”（ASEAN Way）。
+>   以安全互信与[[Geopolitics|地缘政治]]协调为主，确立不干预内政与协商一致的“[[ASEAN Way|东盟方式]]”（ASEAN Way）。
 >
 >   - **1967** 创始五国签署《曼谷宣言》，东盟正式成立。
->   - **1976** 召开首届东盟首脑会议，签署《东南亚友好合作条约》（TAC）。
+>   - **1976** 召开首届东盟首脑会议，签署[[Treaty of Amity and Cooperation in Southeast Asia|《东南亚友好合作条约》]]（TAC）。
 >   - **1984** 文莱独立后加入，成员国增至六国。
 >
 > - **1990–2010** **全域扩员与高等教育网络构建**

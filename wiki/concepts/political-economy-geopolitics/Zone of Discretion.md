@@ -7,7 +7,7 @@ aliases:
 summary: "区域一体化组织在确立远大制度抱负与采纳契合自身现实承载力的组织架构之间保持的平衡区间；作为评估制度拟态有效边界的分析透镜，用于防止因超前移植缺乏政治意愿与履约机制的超国家机构而陷入治理挫败与合法性赤字。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Enforcement Discretion]]"
   - "[[Policy Borrowing]]"
   - "[[Institutional Complementarity]]"
+  - "[[ASEAN Way]]"
   - "[[Habitus]]"
   - "[[Document]]"
   - "[[Constructivist Paradigm]]"
@@ -113,7 +114,7 @@ updated: 2026-10-29
 > 该命题关注当机构设置保持在弹性承载区间内时，非正式的人际接触与外事网络如何逐步积累治理资本。
 
 > [!claim] [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]]
-> **集中驻扎催生的孵化效应** 默里与莫克森-布朗论证，尽管[[Committee of Permanent Representatives to ASEAN|常驻东盟代表委员会]]（CPR）缺乏类似欧盟 Coreper 的直接立法权，但将十国特命全权大使集中驻扎在雅加达并保持在东盟方式的舒适度之内，使外交官在日常高频次接触中建立了超越本国科层掣肘的深层信任；通过承担对外多边穿梭与伙伴协调任务，CPR 在不打破主权红线的前提下有效激活了渐进的“合作[[Habitus|惯习]]”（Habits of Cooperation）。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 532–534)]]
+> **集中驻扎催生的孵化效应** 默里与莫克森-布朗论证，尽管[[Committee of Permanent Representatives to ASEAN|常驻东盟代表委员会]]（CPR）缺乏类似欧盟 Coreper 的直接立法权，但将十国特命全权大使集中驻扎在雅加达并保持在[[ASEAN Way|东盟方式]]的舒适度之内，使外交官在日常高频次接触中建立了超越本国科层掣肘的深层信任；通过承担对外多边穿梭与伙伴协调任务，CPR 在不打破主权红线的前提下有效激活了渐进的“合作[[Habitus|惯习]]”（Habits of Cooperation）。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 532–534)]]
 
 ---
 

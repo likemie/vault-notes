@@ -8,7 +8,7 @@ aliases:
 summary: "源自法语机器齿轮传动咬合的隐喻，在区域一体化与超国家治理研究中专指国家科层官僚与区域常设机构在微观委员会网络中通过密集日常互动、专业审议与双重忠诚形成的深层政策偏好融合机制，以欧盟常驻代表委员会及其下属数百个常设工作组为典型体现。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Zone of Discretion]]"
   - "[[Champ]]"
   - "[[Constructivist Paradigm]]"
+  - "[[ASEAN Way]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -140,4 +141,4 @@ updated: 2026-10-29
 ---
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 系统借用 Engrenage 隐喻剖析欧盟 Coreper 的微观决策生态，并检视东盟 CPR 能否在东盟方式框架内培育本土合作[[Habitus|惯习]]（pp. 531–535）。
+> - [[Argument_Murray_Moxon-Browne_2013_JCMS|Murray and Moxon-Browne (2013)]] — 系统借用 Engrenage 隐喻剖析欧盟 Coreper 的微观决策生态，并检视东盟 CPR 能否在[[ASEAN Way|东盟方式]]框架内培育本土合作[[Habitus|惯习]]（pp. 531–535）。

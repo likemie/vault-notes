@@ -40,6 +40,8 @@
     "AFD, 2015": "AFD, 2015",
     "AFP (2019)": "AFP, 2019",
     "AFP, 2019": "AFP, 2019",
+    "AHRD (2012)": "AHRD, 2012",
+    "AHRD, 2012": "AHRD, 2012",
     "AITSL (2017)": "AITSL, 2017",
     "AITSL (2021)": "AITSL, 2021",
     "AITSL, 2017": "AITSL, 2017",
@@ -6209,6 +6211,8 @@
     "Dorothy Heathcote, 1991": "Dorothy Heathcote, 1991",
     "Dorsett (2014)": "Dorsett, 2014",
     "Dorsett, 2014": "Dorsett, 2014",
+    "Dosch (2011)": "Dosch, 2011",
+    "Dosch, 2011": "Dosch, 2011",
     "Doshi & Hauser (2024)": "Doshi & Hauser, 2024",
     "Doshi & Hauser, 2024": "Doshi & Hauser, 2024",
     "Dosi (1981)": "Dosi, 1981",
@@ -10878,7 +10882,9 @@
     "Hui et al., 2025": "Hui et al., 2025",
     "Huimin (2021)": "Huimin, 2021",
     "Huimin, 2021": "Huimin, 2021",
+    "Huisman et al. (2012)": "Huisman et al., 2012",
     "Huisman et al. (2019)": "Huisman et al., 2019",
+    "Huisman et al., 2012": "Huisman et al., 2012",
     "Huisman et al., 2019": "Huisman et al., 2019",
     "Hulleman et al. (2010)": "Hulleman et al., 2010",
     "Hulleman et al., 2010": "Hulleman et al., 2010",
@@ -11458,8 +11464,12 @@
     "Jessop (2007)": "Jessop, 2007",
     "Jessop, 2005": "Jessop, 2005",
     "Jessop, 2007": "Jessop, 2007",
+    "Jetschke & Lenz (2013)": "Jetschke & Lenz, 2013",
+    "Jetschke & Lenz, 2013": "Jetschke & Lenz, 2013",
     "Jetschke & Murray (2012)": "Jetschke & Murray, 2012",
     "Jetschke & Murray, 2012": "Jetschke & Murray, 2012",
+    "Jetschke et al. (2015)": "Jetschke et al., 2015",
+    "Jetschke et al., 2015": "Jetschke et al., 2015",
     "Jeynes & Littell (2000a)": "Jeynes & Littell, 2000a",
     "Jeynes & Littell (2000b)": "Jeynes & Littell, 2000b",
     "Jeynes & Littell, 2000": "Jeynes & Littell, 2000a",
@@ -17581,7 +17591,9 @@
     "Onarheim & Friis-Olivarius (2013)": "Onarheim & Friis-Olivarius, 2013",
     "Onarheim & Friis-Olivarius, 2013": "Onarheim & Friis-Olivarius, 2013",
     "Ong (2006)": "Ong, 2006",
+    "Ong (2007)": "Ong, 2007",
     "Ong, 2006": "Ong, 2006",
+    "Ong, 2007": "Ong, 2007",
     "Onuoha (2014)": "Onuoha, 2014",
     "Onuoha, 2014": "Onuoha, 2014",
     "Onwuegbuzie & Johnson (2006)": "Onwuegbuzie & Johnson, 2006",
@@ -24246,6 +24258,8 @@
     "Vygotsky, 1978": "Vygotsky, 1978",
     "Välijärvi et al. (2002)": "Välijärvi et al., 2002",
     "Välijärvi et al., 2002": "Välijärvi et al., 2002",
+    "Vögtle & Martens (2014)": "Vögtle & Martens, 2014",
+    "Vögtle & Martens, 2014": "Vögtle & Martens, 2014",
     "W. Brian Arthur (1989)": "W. Brian Arthur, 1989",
     "W. Brian Arthur, 1989": "W. Brian Arthur, 1989",
     "W. D. (1995)": "W. D., 1995",
@@ -25795,6 +25809,8 @@
     "Zevenbergen, 2003": "Zevenbergen, 2003",
     "Zewelanji N. Serpell (2020)": "Zewelanji N. Serpell, 2020",
     "Zewelanji N. Serpell, 2020": "Zewelanji N. Serpell, 2020",
+    "Zgaga (2006)": "Zgaga, 2006",
+    "Zgaga, 2006": "Zgaga, 2006",
     "Zha et al. (2019)": "Zha et al., 2019",
     "Zha et al., 2019": "Zha et al., 2019",
     "Zhai et al. (2024)": "Zhai et al., 2024",
@@ -27088,6 +27104,21 @@
       "isbn": "",
       "seen_in": [
         "wiki/concepts/political-economy-geopolitics/Economic and Industrial Espionage.md"
+      ],
+      "title": ""
+    },
+    "AHRD, 2012": {
+      "aliases": [
+        "AHRD, 2012",
+        "AHRD (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "AHRD, 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/global/ASEAN Intergovernmental Commission on Human Rights.md"
       ],
       "title": ""
     },
@@ -72018,6 +72049,21 @@
       "seen_in": [],
       "title": "Mind the gap  Evaluation report and executive summary"
     },
+    "Dosch, 2011": {
+      "aliases": [
+        "Dosch, 2011",
+        "Dosch (2011)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Dosch, 2011"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/ASEAN Way.md"
+      ],
+      "title": ""
+    },
     "Doshi & Hauser, 2024": {
       "aliases": [
         "Doshi & Hauser, 2024",
@@ -89441,7 +89487,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md"
+        "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md",
+        "wiki/facts/global/Chiang Mai Initiative.md"
       ],
       "title": "Trade Relations between Europe and East Asia"
     },
@@ -106191,6 +106238,22 @@
       "seen_in": [],
       "title": "Effects Of Classroom Active Breaks On Academic-related Outcomes In Children: A Systematic Review And Meta-analysis"
     },
+    "Huisman et al., 2012": {
+      "aliases": [
+        "Huisman et al., 2012",
+        "Huisman et al. (2012)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Huisman et al., 2012"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md",
+        "wiki/concepts/higher-education/Bologna Process Export Thesis.md"
+      ],
+      "title": ""
+    },
     "Huisman et al., 2019": {
       "aliases": [
         "Huisman et al., 2019",
@@ -110382,6 +110445,21 @@
       ],
       "title": ""
     },
+    "Jetschke & Lenz, 2013": {
+      "aliases": [
+        "Jetschke & Lenz, 2013",
+        "Jetschke & Lenz (2013)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jetschke & Lenz, 2013"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Bologna Process Export Thesis.md"
+      ],
+      "title": ""
+    },
     "Jetschke & Murray, 2012": {
       "aliases": [
         "Jetschke & Murray, 2012",
@@ -110396,6 +110474,21 @@
         "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md"
       ],
       "title": "Diffusing Regional Integration: The EU and Southeast Asia"
+    },
+    "Jetschke et al., 2015": {
+      "aliases": [
+        "Jetschke et al., 2015",
+        "Jetschke et al. (2015)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Jetschke et al., 2015"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/political-economy-geopolitics/Norm Localisation.md"
+      ],
+      "title": ""
     },
     "Jeynes & Littell, 2000a": {
       "aliases": [
@@ -120154,7 +120247,9 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md"
+        "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md",
+        "wiki/concepts/higher-education/Bologna Process Export Thesis.md",
+        "wiki/concepts/political-economy-geopolitics/ASEAN Way.md"
       ],
       "title": ""
     },
@@ -148508,7 +148603,8 @@
       ],
       "isbn": "",
       "seen_in": [
-        "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md"
+        "wiki/arguments/journal-articles/Policy and Society/Argument_Chou_2017_PolSoc.md",
+        "wiki/concepts/political-economy-geopolitics/ASEAN Way.md"
       ],
       "title": ""
     },
@@ -154472,6 +154568,21 @@
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Moisio_2022_Springer.md",
         "wiki/arguments/books/Parreira do Amaral(Ed.)_2022_Springer/Argument_Rizvi_2022_Springer.md",
         "wiki/concepts/political-economy-geopolitics/Geopolitics of Knowledge.md"
+      ],
+      "title": ""
+    },
+    "Ong, 2007": {
+      "aliases": [
+        "Ong, 2007",
+        "Ong (2007)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Ong, 2007"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/facts/global/ASEAN Regional Forum.md"
       ],
       "title": ""
     },
@@ -202613,6 +202724,21 @@
       ],
       "title": ""
     },
+    "Vögtle & Martens, 2014": {
+      "aliases": [
+        "Vögtle & Martens, 2014",
+        "Vögtle & Martens (2014)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Vögtle & Martens, 2014"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Bologna Process Export Thesis.md"
+      ],
+      "title": ""
+    },
     "W. Brian Arthur, 1989": {
       "aliases": [
         "W. Brian Arthur, 1989",
@@ -213642,6 +213768,21 @@
         "wiki/concepts/educational-policy-reform/Scientifically Based Research.md",
         "wiki/theories/educational-policy-reform/Navigational Framework for Educational Researchers.md",
         "wiki/theories/educational-policy-reform/Six-Stage Model of Policymaking.md"
+      ],
+      "title": ""
+    },
+    "Zgaga, 2006": {
+      "aliases": [
+        "Zgaga, 2006",
+        "Zgaga (2006)"
+      ],
+      "doi": "",
+      "identity_keys": [
+        "Zgaga, 2006"
+      ],
+      "isbn": "",
+      "seen_in": [
+        "wiki/concepts/higher-education/Bologna Process Export Thesis.md"
       ],
       "title": ""
     },

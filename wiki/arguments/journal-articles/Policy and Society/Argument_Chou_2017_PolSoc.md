@@ -7,7 +7,7 @@ title: "Argument_Chou_2017_PolSoc"
 argument_key: "Argument_Chou_2017_PolSoc"
 argument_display_title: "Higher education regionalism in Europe and Southeast Asia: Comparing policy ideas"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 49
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -33,13 +33,16 @@ tags:
   - region/southeast-asia
   - level/higher-ed
 related_concepts:
+  - "[[Bologna Process Export Thesis]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Discourse]]"
   - "[[Global Regionalisms]]"
+  - "[[ASEAN Way]]"
   - "[[Falsification]]"
   - "[[Unit of Analysis]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
+  - "[[Norm Localisation]]"
   - "[[Heterogeneity]]"
   - "[[Document]]"
   - "[[Informed Consent]]"
@@ -59,6 +62,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Scale of Measurement]]"
 related_theories:
+  - "[[Comparative Regionalism]]"
   - "[[Discursive Institutionalism]]"
 related_methods:
   - "[[Comparative Case Study]]"
@@ -68,7 +72,6 @@ related_methods:
   - "[[Peer Debriefing]]"
   - "[[Fieldwork]]"
   - "[[In-depth Interview]]"
-  - "[[Cohort Study]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -96,10 +99,10 @@ updated: 2026-10-29
 ---
 
 > [!question]
-> 跨国高等教育区域合作如何在复杂的国际治理中形成持续动力？欧洲主导的 [[Bologna Process|博洛尼亚进程]]输出假说 能否解释东南亚的高教合作经验？宏观区域传统与全球[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]如何塑造不同区域的政策理念、组织分工与治理结构？
+> 跨国高等教育区域合作如何在复杂的国际治理中形成持续动力？欧洲主导的[[Bologna Process Export Thesis|博洛尼亚进程输出假说]]能否解释东南亚的高教合作经验？宏观区域传统与全球[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]如何塑造不同区域的政策理念、组织分工与治理结构？
 
 > [!claim] 核心主张
-> 欧洲与东南亚的[[Global Regionalisms|高等教育区域主义]]属于两种截然不同的制度类型。两地演进深受各自区域合作传统与全球知识话语的影响：欧洲依托博洛尼亚进程形成了追求全域趋同的旗舰模式；东南亚立足[[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN）倡导的东盟方式，发展出名校结网与部委协调并立的竞逐模式。这一实证发现[[Falsification|证伪]]了欧洲政策单向扩散的理论假说，表明比较区域主义应当以具体政策部门为[[Unit of Analysis|分析单位]]，立足实地田野开展扎根研究。
+> 欧洲与东南亚的[[Global Regionalisms|高等教育区域主义]]属于两种截然不同的制度类型。两地演进深受各自区域合作传统与全球知识话语的影响：欧洲依托[[Bologna Process|博洛尼亚进程]]形成了追求全域趋同的旗舰模式；东南亚立足[[ASEAN|东南亚国家联盟]]（Association of Southeast Asian Nations, ASEAN）倡导的[[ASEAN Way|东盟方式]]，发展出名校结网与部委协调并立的竞逐模式。这一实证发现[[Falsification|证伪]]了欧洲政策单向扩散的理论假说，表明[[Comparative Regionalism|比较区域主义]]应当以具体政策部门为[[Unit of Analysis|分析单位]]，立足实地田野开展扎根研究。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 欧洲（[[EU|欧洲联盟]]（European Union, EU）与博洛尼亚进程 48 个参与国）与东南亚（ASEAN 十国与东南亚教育部长组织）的高等教育区域一体化倡议、多边治理机构及关键政策官员与决策者。
@@ -113,7 +116,9 @@ updated: 2026-10-29
 > |----------|----------|
 > | **[[Discursive Institutionalism\|话语制度主义（Discursive Institutionalism, DI）]]**<br>Schmidt (2008) | 强调理念与话语在解释制度变迁中的核心效力。将观念细化为双重分析功能：作为被解释变量（追踪高等教育区域主义核心政策理念的起源、分化与制度化）与解释变量（考察宏观区域整合传统与知识经济话语如何作为深层动力驱动政策变迁）。 |
 > | **[[Global Regionalisms\|高等教育区域主义（Higher Education Regionalism）]]**<br>Chou and Ravinet (2015) | 界定包含国家权威（国家、超国家或国际层面）参与、旨在界定特定地理区域内高等教育政策协调边界的政治建构项目，提供超越微观大学跨境流动与宏观地缘经济的部门政策分析单位。 |
-> | **东盟方式（ASEAN Way）**<br>Koga (2010); Narine (2008) | 建立在不干涉内政、协商一致、非正式互动与非约束性承诺基础上的区域外交与治理规范，解释了东南亚国家为何主动避免设立超国家集权实体，并刻意维系多元分散的组织分工。 |
+> | **[[ASEAN Way\|东盟方式（ASEAN Way）]]**<br>Koga (2010); Narine (2008) | 建立在不干涉内政、协商一致、非正式互动与非约束性承诺基础上的区域外交与治理规范，解释了东南亚国家为何主动避免设立超国家集权实体，并刻意维系多元分散的组织分工。 |
+> | **[[Bologna Process Export Thesis\|博洛尼亚进程输出假说（Bologna Process Export Thesis）]]**<br>Huisman et al. (2012) | 预设欧洲经验是全球高教协调样板的欧洲中心主义扩散命题；本研究通过东南亚内生时序、官方文本拒斥与双轨分工实证对其进行系统证伪。 |
+> | **[[Norm Localisation\|规范本土化（Norm Localisation）]]**<br>Acharya (2004, 2015) | 揭示本土行动者如何主动转译、修剪与适配外部规范；解释东南亚如何主动重构跨国观念以契合本土认知先验与主权防卫需求，突破了被动模仿博洛尼亚模板的理论假设。 |
 > | **比较区域主义扩散机制（Diffusion Mechanisms）**<br>Börzel and Risse (2016) | 梳理主流扩散理论预设的三大机制（政策借鉴、规制竞争、规范模仿），为实证检验并证伪博洛尼亚进程输出假说提供精确的分析靶标。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -183,17 +188,17 @@ updated: 2026-10-29
 
 > [!quad-grid] 欧洲高教旗舰模式成型的四大支柱
 > - **公民欧洲的政治需求** 1980 年代欧洲一体化重启时，决策层为了摆脱单一经济共同体的局限，试图通过高教交流培育欧洲公民认同，同时为统一市场提供具有跨国机动性的专业人才。
-> - **新欧洲治理的软法机制** 1990 年代传统指令性集中立法模式面临阻力，以自愿协商、最佳实践分享和[[Peer Debriefing|同行审议]]压力为特征的软法治理，成为突破主权阻力、推动政策协调的关键方式 (Ravinet, 2011)。
+> - **新欧洲治理的软法机制** 1990 年代传统指令性集中立法模式面临阻力，以自愿协商、最佳实践分享和同行审议压力为特征的软法治理，成为突破主权阻力、推动政策协调的关键方式 (Ravinet, 2011)。
 > - **知识经济的全球竞争压力** 全球化要求各国强化高技能劳动力供给，欧盟顺势将高等教育界定为关乎全欧经济增长与创新竞争的核心引擎。
 > - **欧洲法院的司法切入点** 欧洲法院 1980 年代对职业培训范围的司法解释，为欧盟委员会介入高教合作提供了关键法律依据 (Pépin, 2006)。
 
 > [!warrant]- 步骤一论证逻辑收束：从资助流动到全域趋同旗舰模式的治理演进
-> 欧洲高教合作历程展现了功能主义与观念建构的相互强化。由于直接立法权受到民族国家严格防御，欧洲联盟委员会借助软法治理（自愿协调、同行审议与最佳实践共享）规避了主权对立；同时借助全球知识经济竞争话语，将高等教育重新锚定为关乎全欧经济增长的核心部门。两大机制相互支撑，使欧洲突破了早期分散的单项资助，最终演进为以博洛尼亚进程为牵引、追求全域实质趋同的旗舰模式。
+> 欧洲高教合作历程展现了功能主义与观念建构的相互强化。由于直接立法权受到民族国家严格防御，欧洲联盟委员会借助软法治理（自愿协调、[[Peer Debriefing|同行审议]]与最佳实践共享）规避了主权对立；同时借助全球知识经济竞争话语，将高等教育重新锚定为关乎全欧经济增长的核心部门。两大机制相互支撑，使欧洲突破了早期分散的单项资助，最终演进为以博洛尼亚进程为牵引、追求全域实质趋同的旗舰模式。
 
 ---
 
 > [!claim] 论证步骤二　东南亚恪守[[ASEAN|东盟]]方式捍卫主权，演化出大学结网与部委协调并立的竞逐模式
-> 东南亚多边教育合作早于欧洲博洛尼亚进程。面对深厚的后殖民历史记忆与强烈的国家主权诉求，东南亚国家坚持不干涉内政与协商一致的东盟方式，刻意避开建立超国家集权机构。两大多边平台由此确立分工：[[ASEAN University Network|东盟大学联盟]]专注于少数顶尖大学的务实结网，[[SEAMEO RIHED|东南亚教育部长组织高教中心]]则负责各国教育部的政策沟通。在经济共同体建设倒逼下，全球知识话语成为合法化合作的有效工具，促成了多帆并进的竞逐模式。
+> 东南亚多边教育合作早于欧洲博洛尼亚进程。面对深厚的后殖民历史记忆与强烈的国家主权诉求，东南亚国家坚持不干涉内政与协商一致的[[ASEAN Way|东盟方式]]，刻意避开建立超国家集权机构。两大多边平台由此确立分工：[[ASEAN University Network|东盟大学联盟]]专注于少数顶尖大学的务实结网，[[SEAMEO RIHED|东南亚教育部长组织高教中心]]则负责各国教育部的政策沟通。在经济共同体建设倒逼下，全球知识话语成为合法化合作的有效工具，促成了多帆并进的竞逐模式。
 
 #### 1. 东南亚高教合作起步更早，在发展中确立高校与部委双轨分工
 
@@ -204,7 +209,7 @@ updated: 2026-10-29
 > - **2010 年代至今 — 弹性伞式框架下建设共同空间** 面对 AUN 与 RIHED 多年积累的大量分散项目，东南亚各方提出建设[[Southeast Asian Higher Education Common Space|东南亚高等教育共同空间]]。这一概念用于包容并理顺既有机制，充当弹性的伞式平台，通过东盟互联互通总体规划（[[People-to-People Connectivity]]）推动校际学分互认与质保经验对话，在充分尊重制度多样性的前提下促进务实连通。
 
 > [!citation-card] 东南亚刻意分立高校与部委职能以防范集权
-> 区域历史遗产与东盟方式促成了东盟大学联盟与高教中心这种独特的分工格局。各成员国普遍希望严格区分主权政府官员与东盟代表的决策权限，防止权力混杂并防范超国家机构的出现。
+> 区域历史遗产与[[ASEAN Way|东盟方式]]促成了东盟大学联盟与高教中心这种独特的分工格局。各成员国普遍希望严格区分主权政府官员与东盟代表的决策权限，防止权力混杂并防范超国家机构的出现。
 >
 > *Our interviewees repeatedly referred to the ASEAN Way, and the region's historical legacy, as responsible for the singular organisational division of labour – i.e. AUN and RIHED – for South-East Asian higher education regionalism. This approach reflects participating member states' general preference to prevent any potential co-mingling of decision-making powers between state officials and ASEAN representatives.*
 
@@ -243,8 +248,8 @@ updated: 2026-10-29
 
 ---
 
-> [!claim] 论证步骤三　东南亚自主抵制博洛尼亚模式，[[Falsification|证伪]]了单向政策扩散假说
-> 欧洲与东南亚的高等教育区域建设代表了两类截然不同的治理路径。实地调研与官方报告证实，东南亚政策制定者明确拒绝全盘照搬博洛尼亚模式。这一发现推翻了比较区域主义[[Document|文献]]中预设的单向扩散假说，表明区域治理不存在单一发展范本。比较区域主义必须跳出欧洲中心主义，以具体政策部门为基本[[Unit of Analysis|分析单位]]，立足实地[[Fieldwork|田野调查]]发掘多元内生动力。
+> [!claim] 论证步骤三　东南亚自主抵制博洛尼亚模式，[[Falsification|证伪]]了[[Bologna Process Export Thesis|博洛尼亚进程输出假说]]
+> 欧洲与东南亚的高等教育区域建设代表了两类截然不同的治理路径。实地调研与官方报告证实，东南亚政策制定者明确拒绝全盘照搬博洛尼亚模式。这一发现推翻了[[Comparative Regionalism|比较区域主义]][[Document|文献]]中预设的单向扩散假说，表明区域治理不存在单一发展范本。比较区域主义必须跳出欧洲中心主义，以具体政策部门为基本[[Unit of Analysis|分析单位]]，立足实地[[Fieldwork|田野调查]]发掘多元内生动力。
 
 #### 1. 欧洲旗舰统领与东南亚多帆竞逐代表两类本质不同的治理路径
 
@@ -261,13 +266,13 @@ updated: 2026-10-29
 
 #### 2. 东南亚官方明确排斥博洛尼亚模板，三大政策扩散机制全部失灵
 
-> [!critique-data] 对博洛尼亚进程输出假说三大扩散机制的实证证伪
+> [!critique-data] 对[[Bologna Process Export Thesis|博洛尼亚进程输出假说]]三大扩散机制的实证证伪
 > - **经验借鉴机制（Lesson-Drawing）在田野中破产** 主流扩散理论假定后发区域会主动借鉴成熟组织的先进治理方案以提高效率；然而东南亚教育部长组织高教中心 2008 年受命开展的官方测绘报告明确指出，博洛尼亚模式在亚洲引发了广泛疑虑，在规划本土进程时必须审慎规避其自上而下的同构趋同路径 (SEAMEO RIHED, 2008, p. 82)。
 > - **制度竞争机制（Competition）在实证中失灵** 扩散理论假定其他区域为争夺全球生源与声誉，会被动效仿欧洲建立防御性同构架构；东南亚国家在实践中保持审慎态度，继续深耕微观学科合作网络与双边学分协议，其制度演化高度遵循本土发展逻辑。
-> - **规范模仿机制（Emulation）在经验上脱靶** 扩散理论假定区域组织为寻求国际合法性会模仿主导型国际组织的规范与仪式；东南亚行动者始终将后殖民国家主权防卫与东盟方式置于最高规范位阶，断然拒绝为了所谓的国际前沿合法性而牺牲国内教育制度自主权。
+> - **规范模仿机制（Emulation）在经验上脱靶** 扩散理论假定区域组织为寻求国际合法性会模仿主导型国际组织的规范与仪式；东南亚行动者始终将后殖民国家主权防卫与[[ASEAN Way|东盟方式]]置于最高规范位阶，断然拒绝为了所谓的国际前沿合法性而牺牲国内教育制度自主权。
 
 > [!citation-card] 东南亚明确拒绝将博洛尼亚进程作为效仿样板
-> 东南亚政策官员的访谈记录以及官方评估报告均表明，博洛尼亚输出假说及比较区域主义的扩散预设过于简单且具误导性。东南亚行动者在寻求最佳实践时，明确拒绝将博洛尼亚进程作为应当效仿的样板。各国在建设高教空间时坚持捍卫主权，探索出一条立足本土的多边协调路径。
+> 东南亚政策官员的访谈记录以及官方评估报告均表明，博洛尼亚输出假说及比较区域主义的扩散预设过于简单且具误导性。阿米塔夫·阿查亚（Amitav Acharya）的[[Norm Localisation|规范本土化]]（Norm Localisation）概念更为准确地解释了这一进程：概念虽会流动，但其落地完全受制于本土行动者主动行使的转译与裁量权威。东南亚行动者在寻求最佳实践时，明确拒绝将博洛尼亚进程作为应当效仿的样板。各国在建设高教空间时坚持捍卫主权，探索出一条立足本土的多边协调路径。
 >
 > *Our findings indicate that the 'Bologna Process export thesis' and the diffusion assumptions of comparative regionalism are too simplistic and misleading... in their search for 'best practices' South-East Asian actors explicitly rejected the Bologna Process as the model that should be embraced.*
 
@@ -310,7 +315,7 @@ updated: 2026-10-29
 ---
 
 > [!warning] 自述局限
-> 东南亚区域高教治理相关的学术文献与官方档案在可获取性上显著少于欧洲，客观上存在材料非对称性；SHARE 项目等当代区域间合作倡议在调研期间仍处于推进阶段，其对两地权力关系的长期重塑效应尚待后续[[Cohort Study\|追踪研究]]检验。
+> 东南亚区域高教治理相关的学术文献与官方档案在可获取性上显著少于欧洲，客观上存在材料非对称性；SHARE 项目等当代区域间合作倡议在调研期间仍处于推进阶段，其对两地权力关系的长期重塑效应尚待后续追踪研究检验。
 
 ---
 

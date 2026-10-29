@@ -9156,6 +9156,17 @@
     ]
   },
   {
+    "title": "Bologna Process Export Thesis",
+    "type": "concept",
+    "path": "wiki/concepts/higher-education/Bologna Process Export Thesis.md",
+    "aliases": [
+      "博洛尼亚进程输出假说",
+      "博洛尼亚模式出口论",
+      "Bologna Export Thesis",
+      "Export Thesis"
+    ]
+  },
+  {
     "title": "Canon Wars",
     "type": "concept",
     "path": "wiki/concepts/higher-education/Canon Wars.md",
@@ -12065,6 +12076,16 @@
     ]
   },
   {
+    "title": "ASEAN Way",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/ASEAN Way.md",
+    "aliases": [
+      "东盟方式",
+      "东盟模式",
+      "ASEAN-Way"
+    ]
+  },
+  {
     "title": "Banal Imperialism",
     "type": "concept",
     "path": "wiki/concepts/political-economy-geopolitics/Banal Imperialism.md",
@@ -13063,6 +13084,16 @@
     "aliases": [
       "新质生产力",
       "xin zhi sheng chan li"
+    ]
+  },
+  {
+    "title": "Norm Localisation",
+    "type": "concept",
+    "path": "wiki/concepts/political-economy-geopolitics/Norm Localisation.md",
+    "aliases": [
+      "规范本土化",
+      "规范本土化理论",
+      "Norm Localization"
     ]
   },
   {
@@ -35099,6 +35130,29 @@
     "subtype": "organization"
   },
   {
+    "title": "ASEAN Intergovernmental Commission on Human Rights",
+    "type": "fact",
+    "path": "wiki/facts/global/ASEAN Intergovernmental Commission on Human Rights.md",
+    "aliases": [
+      "AICHR",
+      "东盟政府间人权委员会",
+      "东南亚国家联盟政府间人权委员会",
+      "东盟人权委员会"
+    ],
+    "subtype": "organization"
+  },
+  {
+    "title": "ASEAN Regional Forum",
+    "type": "fact",
+    "path": "wiki/facts/global/ASEAN Regional Forum.md",
+    "aliases": [
+      "ARF",
+      "东盟地区论坛",
+      "东南亚国家联盟地区论坛"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Asian Infrastructure Investment Bank",
     "type": "fact",
     "path": "wiki/facts/global/Asian Infrastructure Investment Bank.md",
@@ -35668,6 +35722,19 @@
     "subtype": "policy"
   },
   {
+    "title": "Chiang Mai Initiative",
+    "type": "fact",
+    "path": "wiki/facts/global/Chiang Mai Initiative.md",
+    "aliases": [
+      "CMI",
+      "CMIM",
+      "清迈倡议",
+      "清迈倡议多边化",
+      "Chiang Mai Initiative Multilateralisation"
+    ],
+    "subtype": "policy"
+  },
+  {
     "title": "Childhood Obesity Governance",
     "type": "fact",
     "path": "wiki/facts/global/Childhood Obesity Governance.md",
@@ -35786,6 +35853,18 @@
       "THE世界大学影响力排名",
       "Times Higher Education Impact Ranking",
       "THE SDG ranking"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "Treaty of Amity and Cooperation in Southeast Asia",
+    "type": "fact",
+    "path": "wiki/facts/global/Treaty of Amity and Cooperation in Southeast Asia.md",
+    "aliases": [
+      "TAC",
+      "东南亚友好合作条约",
+      "《东南亚友好合作条约》",
+      "巴厘条约"
     ],
     "subtype": "policy"
   },

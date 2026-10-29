@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,8 +25,12 @@ tags:
   - theme/asean
   - theme/diplomatic-governance
 related_concepts:
+  - "[[ASEAN Way]]"
+  - "[[Academic Self-Concept]]"
+  - "[[Habitus]]"
   - "[[Institutional Mimesis]]"
-  - "[[Organizational Culture]]"
+  - "[[Theoretical Perspective]]"
+  - "[[Document]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[Historical Institutionalism]]"
@@ -39,6 +43,9 @@ related_facts:
   - "[[ASEAN]]"
   - "[[Coreper]]"
   - "[[ASEAN Charter]]"
+  - "[[European Commission]]"
+  - "[[EU]]"
+  - "[[Achieve]]"
 related_arguments:
   - "[[Argument_Murray_Moxon-Browne_2013_JCMS]]"
 confidence: high
@@ -50,12 +57,12 @@ updated: 2026-10-29
 ---
 
 > [!claim] 核心定位
-> 常驻东盟代表委员会（Committee of Permanent Representatives to ASEAN, CPR，简称常驻东盟代表委员会）是[[ASEAN|东南亚国家联盟（Association of Southeast Asian Nations, ASEAN）]]依据《[[ASEAN Charter|东盟宪章]]》设立的常设大使级政治与行政协调机构。各成员国委派常设于雅加达的特命全权大使出任代表，承担统筹三大共同体理事会业务、协调各成员国国家秘书处与主导外部对话伙伴穿梭外交的中枢职能。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523, 532–534)]]
+> 常驻[[ASEAN|东盟]]代表委员会（[[Coreper|Committee of Permanent Representatives]] to ASEAN, CPR，简称常驻东盟代表委员会）是东南亚国家联盟（Association of Southeast Asian Nations, ASEAN）依据《[[ASEAN Charter|东盟宪章]]》设立的常设大使级政治与行政协调机构。各成员国委派常设于雅加达的特命全权大使出任代表，承担统筹三大共同体理事会业务、协调各成员国国家秘书处与主导外部对话伙伴穿梭外交的中枢职能。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523, 532–534)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2007 年由东盟名人小组（Eminent Persons Group, EPG）建议提出并正式载入《东盟宪章》，2008 年底伴随宪章生效正式设立并在 2009 年全面运转；旨在应对日益密集的多边议程，改变传统依靠临时分散部长会议的科层碎片化局面。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523, 533)]]
 > - **总部地点 / 业务辐射** 设于印度尼西亚雅加达，与东盟秘书处驻扎同城；直接管辖东盟十个成员国派驻雅加达的常设外交使团体系。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 533)]]
-> - **法人属性与组织性质** 依据《东盟宪章》设立的政府间条约辅助机构，直属东盟首脑峰会与东盟协调理事会管辖，严格恪守不干预内政与协商一致的“东盟方式”。
+> - **法人属性与组织性质** 依据《东盟宪章》设立的政府间条约辅助机构，直属东盟首脑峰会与东盟协调理事会管辖，严格恪守不干预内政与协商一致的“[[ASEAN Way|东盟方式]]”。
 > - **核心宗旨与法定职责** 支援东盟政治安全、经济、社会文化三大共同体理事会与各部门部长级机构；落实领导人峰会与协调理事会交办的任务；与东盟秘书长及成员国国家秘书处保持常态化联络；统筹与外部对话伙伴的国际合作。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523, 532–533)]]
 
 ---
@@ -63,7 +70,7 @@ updated: 2026-10-29
 > [!org-evolution] 组织发展历程
 > - **1967–2007** **前身机制与常设化倡议期**
 >
->   东盟早期日常联络主要依托轮值主席国外长主持的东盟常设委员会（ASC）；伴随一体化进程推进，缺乏常设大使级机构的弊端日益凸显。
+>   东盟早期日常联络主要依托轮值主席国外长主持的东盟常设委员会（[[Academic Self-Concept|ASC]]）；伴随一体化进程推进，缺乏常设大使级机构的弊端日益凸显。
 >
 >   - **1992** 成员国讨论提升东盟常设委员会效能的方案。
 >   - **2007** 优素福·瓦南迪（Jusuf Wanandi）与东盟名人小组（EPG）正式向峰会建议：将常设委员会升格为常设于雅加达、拥有政府明确授权的大使级常驻代表委员会。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 533)]]
@@ -79,7 +86,7 @@ updated: 2026-10-29
 >
 >   CPR 在雅加达逐步形成固定的议事规程，积极扮演东盟面向外部大国对话的统一业务窗口。
 >
->   - **2010** 应欧洲联盟委员会与德国政府邀请，CPR 派团访问布鲁塞尔与[[Coreper|欧盟常驻代表委员会]]开展业务交流与机构能力建设。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 522–523)]]
+>   - **2010** 应[[European Commission|欧洲联盟委员会]]与德国政府邀请，CPR 派团访问布鲁塞尔与[[EU|欧盟]]常驻代表委员会开展业务交流与机构能力建设。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 522–523)]]
 >   - **2011** 牵头磋商并敲定《东盟—美国合作行动计划》；启动面向中国与印度的正式对话访问。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 534)]]
 >   - **2012** 常态化开展“东盟+3”（中日韩）CPR 大使磋商机制，并将沟通渠道延伸至地区民间社会组织。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 534)]]
 
@@ -92,7 +99,7 @@ updated: 2026-10-29
 > - **外部对话联络组** 对接派驻东盟的大国对话伙伴大使，统筹多边发展合作倡议与部长声明文本折冲。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 534)]]
 
 > [!pathways] 业务运行机制与外交社会化
-> - **雅加达集中办公的孵化器效应** 十国大使长驻雅加达且物理距离高度邻近，客观上脱离了本国行政科层的瞬时牵制，在高频次日常非正式交往中培养出默契与合作惯习。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 532)]]
+> - **雅加达集中办公的孵化器效应** 十国大使长驻雅加达且物理距离高度邻近，客观上脱离了本国行政科层的瞬时牵制，在高频次日常非正式交往中培养出默契与合作[[Habitus|惯习]]。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 532)]]
 > - **弥补东盟秘书处的科层资源约束** 在东盟秘书处编制有限的现实下，CPR 承担了跨部门统筹与部长会议预备工作，拓展了自身的官僚协调空间。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 532)]]
 > - **外部驱动型多边凝聚路径** CPR 将大量精力倾注于与大国对话伙伴的密集磋商，通过“外部伙伴多边化”倒逼内部机制团结。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 534)]]
 > - **协商一致与非约束性沟通** 恪守东盟方式，不推行强制多数表决，所有成果文件与行动计划均以全体成员国舒适度与底线共识为前提。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 528)]]
@@ -132,7 +139,7 @@ updated: 2026-10-29
 
 > [!debates] 核心争议交锋
 >
-> > [!axis] 制度拟态的效能边界：机构借用 vs. 超国家权力缺失
+> > [!axis] [[Institutional Mimesis|制度拟态]]的效能边界：机构借用 vs. 超国家权力缺失
 > > 批评 CPR 虽在形式上直接借用了欧盟 Coreper 的名称与大使常驻机制，但在实质上因缺乏超国家权力让渡而无法产出具有法律效力的一体化规则。
 > >
 > > - **批评视角（反方）** 学术界指出，Coreper 展现的高效决策依赖于直接生效的超国家法制与 A/B 类议程筛选权；CPR 仅能产出不具强制管辖权的软性建议，在面对缅甸危机等政治震荡时无法实施集体约束，容易陷入“形式移植但实质空心”的治理困境。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523, 532–533)]]
@@ -147,7 +154,7 @@ updated: 2026-10-29
 > [!citation-card] 代表性反思：制度拟态的复制限度
 > 若东盟试图通过所谓制度拟态走捷径，无法保证这种模仿能够取得成效；形式的直接移植并不意味着能够自动获得支撑该机制有效运转的政治意愿与规范土壤。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 532)]]
 >
-> *Thus if ASEAN attempts a quick fix by a process of what might be termed 'institutional mimesis' there is no guarantee that it will succeed. Neither is it to be assumed that this is what the CPR wishes to achieve.*
+> *Thus if ASEAN attempts a quick fix by a process of what might be termed 'institutional mimesis' there is no guarantee that it will succeed. Neither is it to be assumed that this is what the CPR wishes to [[Achieve|achieve]].*
 
 ---
 
@@ -160,10 +167,10 @@ updated: 2026-10-29
 > | [[Coreper]] | Fact (Organization) | 欧盟常驻代表委员会，东盟设立 CPR 时的制度拟态借鉴原型。 |
 > | [[Institutional Mimesis]] | Concept | 解释东盟借用欧盟大使常设架构推进一体化抱负的核心概念。 |
 > | [[Institutional Isomorphism]] | Theory | 解释跨国区域组织之间出现结构性趋同与形式借鉴的理论框架。 |
-> | [[Historical Institutionalism]] | Theory | 剖析“东盟方式”与国家主权防卫传统对 CPR 制度变迁产生路径依赖的理论视角。 |
+> | [[Historical Institutionalism]] | Theory | 剖析“东盟方式”与国家主权防卫传统对 CPR 制度变迁产生[[Path Dependence\|路径依赖]]的[[Theoretical Perspective\|理论视角]]。 |
 > | [[Path Dependence]] | Theory | 阐明东盟不干涉内政与协商一致传统如何锁定 CPR 的非强制性运作模式。 |
 > | [[Comparative Policy Analysis]] | Method | 对照欧盟 Coreper 与东盟 CPR 决策架构与制度效能的研究方法。 |
-> | [[Argument_Murray_Moxon-Browne_2013_JCMS\|Murray and Moxon-Browne (2013)]] | Argument | 系统比较 Coreper 与 CPR 运作逻辑、评估制度拟态限度的核心文献。 |
+> | [[Argument_Murray_Moxon-Browne_2013_JCMS\|Murray and Moxon-Browne (2013)]] | Argument | 系统比较 Coreper 与 CPR 运作逻辑、评估制度拟态限度的核心[[Document\|文献]]。 |
 
 ---
 

@@ -12,7 +12,7 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 51
+fact_related_count: 53
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Regimes of Truth]]"
   - "[[Open Method of Coordination]]"
+  - "[[Bologna Process Export Thesis]]"
   - "[[Global Regionalisms]]"
   - "[[Commensuration]]"
   - "[[European Education Space]]"
@@ -48,6 +49,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Panopticism]]"
+  - "[[Comparative Regionalism]]"
   - "[[Governing at a Distance]]"
 related_methods:
   - "[[Peer Debriefing]]"
@@ -189,9 +191,9 @@ updated: 2026-10-29
 > > - **官方文化主义修辞** 1999 年《索邦宣言》声称欧洲不仅属于欧元与银行，也必须成为以知识为基础的智识与文化共同体。
 > > - **福柯权力-知识理论批判** [[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|Pasias and Roussakis (2009)]] 解构指出，“知识欧洲”构成了欧盟权力-知识的规训蓝图；欧盟委员会积极介入博洛尼亚进程，其实质是将高等教育学位与学分改造为适应全球劳动力流动、可消费且可替换的商业化无形资本，依托[[Open Method of Coordination|开放协调法]]（OMC）与资历框架将高校纳入[[Panopticism|全景敞视]]监控网络。[[Argument_Pasias_Roussakis_2009_EuropeanPanopticon|(Pasias & Roussakis, 2009, pp. 480, 488–492)]]
 >
-> > [!axis] 争议五：博洛尼亚进程输出假说与[[Global Regionalisms|全球区域主义]]的多元自主性
+> > [!axis] 争议五：[[Bologna Process Export Thesis|博洛尼亚进程输出假说]]与[[Global Regionalisms|全球区域主义]]的多元自主性
 > > 博洛尼亚进程是全球高等教育区域合作的普适模板，还是特定历史制度脉络的区域产物？
-> > - **输出假说（Export Thesis）** 传统欧洲高等教育研究与新比较区域主义常预设博洛尼亚进程作为全球高等教育一体化的标准范本，主张其他地理区域主要通过政策借鉴、竞争或模仿吸收其经验。
+> > - **输出假说（Export Thesis）** 传统欧洲高等教育研究与新[[Comparative Regionalism|比较区域主义]]常预设博洛尼亚进程作为全球高等教育一体化的标准范本，主张其他地理区域主要通过政策借鉴、竞争或模仿吸收其经验。
 > > - **实证批判** [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] 通过实地调研指出，东南亚等地区早在博洛尼亚进程之前已开展内生的高教政策合作；[[SEAMEO RIHED]]的区域测绘报告明确警惕博洛尼亚的大一统路径并建议规避；东南亚国家基于国家主权维护与[[ASEAN|东盟]]方式，自主选择了以大学结网与政府柔性协调并存的多元化路径，反驳了单向扩散预设。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 153–156)]]
 >
 > > [!axis] 争议六：政府间博洛尼亚进程的动能衰竭与认识论基础设施转型

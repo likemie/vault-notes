@@ -29,6 +29,7 @@ related_concepts:
   - "[[Zone of Discretion]]"
   - "[[Champ]]"
   - "[[Paradigm Wars]]"
+  - "[[ASEAN Way]]"
   - "[[Engrenage]]"
   - "[[Paradigm]]"
 related_theories:
@@ -47,6 +48,10 @@ related_facts:
   - "[[ASEAN]]"
   - "[[Committee of Permanent Representatives to ASEAN]]"
   - "[[ASEAN Charter]]"
+  - "[[Treaty of Amity and Cooperation in Southeast Asia]]"
+  - "[[ASEAN Regional Forum]]"
+  - "[[Chiang Mai Initiative]]"
+  - "[[ASEAN Intergovernmental Commission on Human Rights]]"
 related_arguments: []
 sources:
   - "[[sources/Murray_Moxon-Browne_2013_JCMS|Murray_Moxon-Browne_2013_JCMS]]"
@@ -59,9 +64,9 @@ title: "Argument_Murray_Moxon-Browne_2013_JCMS"
 argument_key: "Argument_Murray_Moxon-Browne_2013_JCMS"
 argument_display_title: "The European Union as a template for regional integration? The case of ASEAN and its Committee of Permanent Representatives"
 argument_kind: "journal-article"
-argument_related_count: 17
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 22
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "JCMS: Journal of Common Market Studies"
 ---
@@ -105,7 +110,7 @@ journal: "JCMS: Journal of Common Market Studies"
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **核心文本** | [[ASEAN Charter\|《东盟宪章》]]（重点审查第 12 条）、《东南亚友好合作条约》（Treaty of Amity and Cooperation in Southeast Asia, TAC）、《马斯特里赫特条约》、《里斯本条约》（第 240 条）。 |
+> | **核心文本** | [[ASEAN Charter\|《东盟宪章》]]（重点审查第 12 条）、[[Treaty of Amity and Cooperation in Southeast Asia\|《东南亚友好合作条约》（TAC）]]、《马斯特里赫特条约》、《里斯本条约》（第 240 条）。 |
 > | **官方报告** | 东盟名人小组报告（ASEAN Eminent Persons Group, 2007）、东盟经济共同体记分牌（2010）、《东盟共同体统计数据 2010》、东盟年度工作报告（2010–2012）。 |
 > | **外交实践材料** | 2010 年 4 月东盟常驻代表委员会因冰岛火山灰延期访欧纪实、2011–2012 年东盟加三 CPR 会议通报、东盟常驻使团双边外事记录。 |
 
@@ -147,7 +152,7 @@ journal: "JCMS: Journal of Common Market Studies"
 ---
 
 > [!claim] 论证步骤二　东盟坚守协商一致与不干预原则，形塑了截然不同的政府间合作底色
-> 东盟成员国在疆域规模、政治体制与经济繁荣度上存在巨大断层，后殖民国家对国家主权的严密防御促成了以协商一致和不干预内政为核心的东盟方式，排除了建立超国家强制机构的可能。
+> 东盟成员国在疆域规模、政治体制与经济繁荣度上存在巨大断层，后殖民国家对国家主权的严密防御促成了以协商一致和不干预内政为核心的[[ASEAN Way|东盟方式]]，排除了建立超国家强制机构的可能。
 
 #### 1. 东南亚各国的巨大异质性与主权防御心理构筑了东盟方式
 
@@ -163,14 +168,15 @@ journal: "JCMS: Journal of Common Market Studies"
 > - **1967 — 创立奠基** 印尼、马来西亚、菲律宾、新加坡与泰国五国签署《曼谷宣言》，确立以对话缓解冲突的初创目标。
 > - **1971 — 确立和平中立区** 签署《和平、自由和中立区宣言》（Zone of Peace, Freedom and Neutrality, ZOPFAN），致力于抵御大国外部干涉。
 > - **1976 — 奠定行为准则** 签署《东南亚友好合作条约》（TAC）与《东盟第一协约宣言》，确立和平解决争端与尊重主权的法律原则。
+> - **1994 — 发起多边安全对话** 创立[[ASEAN Regional Forum|东盟地区论坛]]（ARF），构建亚太地区唯一包容主要大国的官方安全对话机制。
 > - **1995 — 无核化安全承诺** 签署《东南亚无核武器区条约》（Southeast Asia Nuclear Weapon-Free Zone, SEANWFZ），首度设立条约执行委员会。
-> - **1997 — 危机驱动功能合作** 亚洲金融危机促成清迈倡议货币互换网络，借鉴欧洲经验但深嵌于非西方规范之中（Gilson, 2004）。
+> - **1997 — 危机驱动功能合作** 亚洲金融危机促成[[Chiang Mai Initiative|清迈倡议]]（Chiang Mai Initiative, CMI）货币互换网络，借鉴欧洲经验但深嵌于非西方规范之中（Gilson, 2004）。
 > - **2007 — 宪章颁布与拟态确立** 签署[[ASEAN Charter|《东盟宪章》]]，确立三大支柱、法人地位、领导人峰会常态化及常驻代表委员会。
 
 > [!case] 缅甸危机折射出东盟履约问责机制的软肋
 > - **危机背景** 2007 年新加坡峰会前夕，缅甸爆发严重的国内政治冲突与军政府镇压事件，全球舆论高度关注东盟的治理能力与人权立场。
 > - **峰会博弈** 在东盟四十周年庆典峰会上，缅甸并未受到实质性审查或制裁；面对缅甸使团的强硬反对，2008 年东盟峰会甚至取消了邀请联合国特使汇报的原定议程。
-> - **制度病理** [[ASEAN Charter|《东盟宪章》]]虽在形式上引入人权机构倡议，但在缺乏法律强制管辖与有效履约机制的情境下，不干预原则彻底瘫痪了集体问责能力。
+> - **制度病理** [[ASEAN Charter|《东盟宪章》]]虽在形式上引入[[ASEAN Intergovernmental Commission on Human Rights|东盟政府间人权委员会]]（AICHR），但在缺乏法律强制管辖与有效履约机制的情境下，不干预原则彻底瘫痪了集体问责能力。
 
 ---
 
@@ -200,7 +206,7 @@ journal: "JCMS: Journal of Common Market Studies"
 > [!pathways] 东盟常驻代表委员会的差异化突破路径
 > 1. **雅加达集中驻扎的孵化器效应** 成员国大使长驻雅加达且彼此紧密接触，客观上创造了脱离本国科层掣肘的交流空间，日常非正式互动促成了务实解决问题的协作习惯。
 > 2. **弥补东盟秘书处的能力赤字** 在东盟秘书处仅有 75 名专业人员的严苛编制约束下，CPR 承担了跨部门统筹与部长会议预备工作，拓展了自身的官僚协调空间。
-> 3. **作为多边外交对话枢纽的突破** CPR 承担起东盟加一、东盟加三（中日韩）的定期磋商职责，组织代表团赴中国、印度与美国开展战略沟通，使外部维度成为拉动其内部凝聚力的关键动力。
+> 3. **作为多边外交对话枢纽的突破** CPR 承担起东盟加一、东盟加三（中日韩）以及协助东盟地区论坛（ARF）的定期磋商职责，组织代表团赴中国、印度与美国开展战略沟通，使外部维度成为拉动其内部凝聚力的关键动力。
 
 ---
 
