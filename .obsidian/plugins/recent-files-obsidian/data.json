@@ -5,6 +5,14 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit01.md"
     },
     {
+      "basename": "Reputation Velocity Threshold Model",
+      "path": "wiki/methods/quantitative/Reputation Velocity Threshold Model.md"
+    },
+    {
+      "basename": "h-alpha Index",
+      "path": "wiki/methods/quantitative/h-alpha Index.md"
+    },
+    {
       "basename": "m-Quotient",
       "path": "wiki/methods/quantitative/m-Quotient.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "ASEAN",
       "path": "wiki/facts/global/ASEAN.md"
-    },
-    {
-      "basename": "Argument_Velasco_2022_CSJ",
-      "path": "wiki/arguments/journal-articles/Chinese Studies Journal/Argument_Velasco_2022_CSJ.md"
-    },
-    {
-      "basename": "Argument_Zhu_Yang_2025_HE",
-      "path": "tmp/callout-design-backup-v4/idp-before/Argument_Zhu_Yang_2025_HE.md"
     }
   ],
   "omittedPaths": [],

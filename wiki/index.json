@@ -21570,18 +21570,6 @@
     ]
   },
   {
-    "title": "Reputation Velocity Threshold Model",
-    "type": "theory",
-    "path": "wiki/theories/science-policy/Reputation Velocity Threshold Model.md",
-    "aliases": [
-      "声望加速度临界阈值模型",
-      "声望促进偏好连接模型",
-      "cx 阈值模型",
-      "Reputation-Boost Preferential Attachment Model",
-      "Crossover Effect of Reputation"
-    ]
-  },
-  {
     "title": "ROAR Framework",
     "type": "theory",
     "path": "wiki/theories/science-policy/ROAR Framework.md",
@@ -25352,6 +25340,19 @@
       "within-subjects design",
       "受试者内设计",
       "crossover design"
+    ]
+  },
+  {
+    "title": "Reputation Velocity Threshold Model",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Reputation Velocity Threshold Model.md",
+    "aliases": [
+      "声望加速度临界阈值模型",
+      "声望促进偏好连接模型",
+      "cx 阈值模型",
+      "Reputation-Boost Preferential Attachment Model",
+      "Crossover Effect of Reputation",
+      "声望临界阈值模型"
     ]
   },
   {
