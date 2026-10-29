@@ -6,7 +6,7 @@ aliases:
   - Hirsch index
   - 希尔施指数
   - Hirsch-Index
-summary: "由 Jorge E. Hirsch (2005) 提出的文献计量评价指标，界定为至多有 h 篇论文分别获得至少 h 次引用；通过非线性卷积生产力与被引频次平衡发文总量与长远学术影响，并对学者未来累积成就与新产出成果展现出较强预测效度。"
+summary: "由 Jorge E. Hirsch (2005) 提出的文献计量评价指标，界定为至多有 h 项成果分别获得至少 h 次引用；通过非线性卷积生产力与被引频次平衡发文总量与长远学术影响，并对学者未来累积成就与新产出成果展现出较强预测效度。"
 type: concept
 domain: "science-policy"
 related_count: 12

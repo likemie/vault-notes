@@ -59,8 +59,8 @@ updated: 2026-10-29
 > - **1953** 出生于阿根廷布宜诺斯艾利斯，后在布宜诺斯艾利斯大学完成物理学本科学业。
 > - **1980** 在芝加哥大学获得物理学博士学位，随后在加州大学圣塔芭芭拉分校理论物理研究所开展博士后研究。
 > - **1983** 加入加州大学圣迭戈分校（UCSD）物理系任教，长期从事凝聚态超导机制、玻色化与电子关联理论研究。
-> - **2005** 在《美国国家科学院院刊》（PNAS）发表开创性论文《量化个人科研产出成就的指标》（An index to quantify an individual's scientific research output），正式确立 $h$ 指数定义与数学模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 17–18)]]
-> - **2007** 发表长程引文追踪论文，证实 $h$ 指数对学者未来新增成果的学术表现具备优于传统竞争指标的[[Predictive Validity|预测效度]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]]
+> - **2005** 在《美国国家科学院院刊》（PNAS）发表开创性论著《量化个人科研产出成就的指标》（An index to quantify an individual's scientific research output），正式确立 $h$ 指数定义与数学模型。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 17–18)]]
+> - **2007** 发表长程引文追踪专题研究，证实 $h$ 指数对学者未来新增成果的学术表现具备优于传统竞争指标的[[Predictive Validity|预测效度]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]]
 > - **2019** 针对团队科研中普遍存在的合著搭便车与挂名失真问题，进一步提出 $h_\alpha$ 指数以度量学者的实质学术引领力。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
 
 ---
@@ -68,7 +68,7 @@ updated: 2026-10-29
 > [!work-line] 主要著作
 > - **2005 — *An index to quantify an individual's scientific research output*** 提出 $h$ 指数定义、几何算法与职业晋升参考标尺，开启全球科研量化评价新纪元。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 17–20)]]
 > - **2007 — *Does the h index have predictive power?*** 运用长达 24 年的凝聚态物理学者引文纵向数据，系统确证 $h$ 指数对未来科研累积成就的前瞻预测效度。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 21–23)]]
-> - **2019 — *hα: An index to quantify an individual's scientific leadership in coauthored publications*** 提出基于资深作者身份加权的 $h_\alpha$ 领导力指数，修正多作者合著带来的指标虚胖。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
+> - **2019 — *hα: An index to quantify an individual's scientific leadership in coauthored publications*** 提出基于资深学者身份加权的 $h_\alpha$ 领导力指数，修正多学者合著带来的指标虚胖。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
 
 ---
 
@@ -76,7 +76,7 @@ updated: 2026-10-29
 > 学术成果的评价既不能被追求发表数量的计件思维所绑架，也不能被少数单篇合著爆款成果的偶然爆发所遮蔽。学者的学术贡献是由发文生产力与其论著被引频次深度卷积而成的累积结构。一个能够有效预测学者长远潜能的量化工具，必须在排除平庸碎片发表的同时，抵御单篇极端离群值的偶然扰动。然而，任何量化指标都只是学术卓越的粗略代理[[Variable|变量]]，绝不能替代基于实质代表作的深度同行评议与对学者育人服务等全方位贡献的综合考量。
 
 > [!citation-card] 希尔施论合著团队中的学术引领力
-> 在多作者合作日益主导科研的背景下，一个不仅具备高 h 指数而且拥有高 hα/h 比值的学者，才是真正将智力领军能力贯穿于自身学术生涯的核心科学家。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
+> 在科研团队合作日益普遍的背景下，一个不仅具备高 h 指数而且拥有高 hα/h 比值的学者，才是真正将智力领军能力贯穿于自身学术生涯的核心科学家。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
 >
 > *Among all the papers that contribute to the h-index of a scientist, only those where he or she was the most senior author... are counted toward the hα-index. This suggests that a high h-index in conjunction with a high hα/h ratio is a hallmark of scientific leadership.*
 
