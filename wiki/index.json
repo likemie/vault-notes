@@ -35113,6 +35113,18 @@
     "subtype": "organization"
   },
   {
+    "title": "Committee of Permanent Representatives to ASEAN",
+    "type": "fact",
+    "path": "wiki/facts/global/Committee of Permanent Representatives to ASEAN.md",
+    "aliases": [
+      "CPR",
+      "常驻东盟代表委员会",
+      "东盟常驻代表委员会",
+      "Committee of Permanent Representatives (ASEAN)"
+    ],
+    "subtype": "organization"
+  },
+  {
     "title": "Development Economics Vice Presidency",
     "type": "fact",
     "path": "wiki/facts/global/Development Economics Vice Presidency.md",
@@ -35587,6 +35599,17 @@
       "教科文组织-世界银行合作协定",
       "UNESCO-World Bank Cooperative Agreement 1964",
       "UNESCO-World Bank Cooperative Agreement"
+    ],
+    "subtype": "policy"
+  },
+  {
+    "title": "ASEAN Charter",
+    "type": "fact",
+    "path": "wiki/facts/global/ASEAN Charter.md",
+    "aliases": [
+      "东盟宪章",
+      "《东盟宪章》",
+      "The ASEAN Charter"
     ],
     "subtype": "policy"
   },

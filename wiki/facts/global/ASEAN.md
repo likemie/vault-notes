@@ -99,7 +99,7 @@ updated: 2026-10-29
 >   - **1995** 越南加入；同年成立[[ASEAN University Network|东盟大学网络]]（ASEAN University Network, AUN），构建区域高等教育质保与学分转换框架。
 >   - **1997–1999** 老挝、缅甸与柬埔寨相继加入，完成东盟十国一体化版图。
 >   - **2007** 东盟峰会确立 2015 年建成东盟经济共同体（AEC）的决定性时间表，横向倒逼东盟社会文化共同体（ASCC）加速推进高等教育学分互认与人员流动对接。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 153)]]
->   - **2007–2008** 签署并生效《东盟宪章》，正式确立东盟独立法人地位，依据第 12 条设立常驻东盟代表委员会（CPR），推动首脑会议改为每年两次并组建东盟协调理事会。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
+>   - **2007–2008** 签署并生效[[ASEAN Charter|《东盟宪章》]]，正式确立东盟独立法人地位，依据第 12 条设立[[Committee of Permanent Representatives (ASEAN)|常驻东盟代表委员会（CPR）]]，推动首脑会议改为每年两次并组建东盟协调理事会。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, p. 523)]]
 >
 > - **2010–至今** **共同体建成与地缘[[Educational Diplomacy|教育外交]]枢纽**
 >
@@ -116,7 +116,7 @@ updated: 2026-10-29
 > [!actor-grid] 组织治理架构
 > - **最高决策机构（东盟峰会）** 由成员国国家元首或政府首脑组成的东盟峰会（ASEAN Summit），每年召开两次，决定战略发展方针与核心政策议程。
 > - **执行与统筹机构（东盟协调理事会与秘书处）** 外交部长组成的协调理事会统领全局；设于雅加达的东盟秘书处由东盟秘书长领导，下设政治安全、经济、社会文化三个共同体事务部门。
-> - **常设预备与对外协调中介（[[Coreper|常驻代表委员会]]）** 依据《东盟宪章》设立的常驻东盟代表委员会（CPR），由成员国派驻雅加达的大使级代表组成，负责支援三大共同体理事会、协调东盟国家秘书处并统筹与外部对话伙伴的国际合作。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523, 532–533)]]
+> - **常设预备与对外协调中介（常驻代表委员会）** 依据[[ASEAN Charter|《东盟宪章》]]设立的[[Committee of Permanent Representatives (ASEAN)|常驻东盟代表委员会（CPR）]]，由成员国派驻雅加达的大使级代表组成，负责支援三大共同体理事会、协调东盟国家秘书处并统筹与外部对话伙伴的国际合作。[[Argument_Murray_Moxon-Browne_2013_JCMS|(Murray & Moxon-Browne, 2013, pp. 523, 532–533)]]
 > - **教育专门治理机制（东盟教育部长会议）** 东盟教育部长会议（ASEAN Education Ministers Meeting, ASED）及其高级别官员会议（SOM-ED），负责制定区域教育合作战略与工作计划。
 > - **高等教育协作平台（东盟大学网络）** 东盟大学网络（AUN）汇聚区域内顶尖[[Research Universities|研究型大学]]，执行高等教育质量保障评价（AUN-QA）及区域学分转换系统（ACTS）。
 
@@ -199,7 +199,9 @@ updated: 2026-10-29
 > | [[Confucius Institute]] | Fact (Program) | 深度嵌入东盟十国大学建制、推广语言文化与学术交流的合作网络。 |
 > | [[China-ASEAN Education Cooperation Week]] | Fact (Program) | 中国与东盟政府间教育合作与人文交流的旗舰平台。 |
 > | [[Internationalization of Vocational Education]] | Concept | 双边经贸扩张与国际产能重组背景下职业技术人才跨国培养的核心概念。 |
-> | [[Coreper]] | Fact (Organization) | 欧盟常驻代表委员会，东盟依据《东盟宪章》设立常驻代表委员会（CPR）时的[[Institutional Mimesis\|制度拟态]]借鉴原型。 |
+> | [[Coreper]] | Fact (Organization) | 欧盟常驻代表委员会，东盟设立常驻东盟代表委员会（CPR）时的[[Institutional Mimesis\|制度拟态]]借鉴原型。 |
+> | [[Committee of Permanent Representatives (ASEAN)]] | Fact (Organization) | 依据《东盟宪章》第 12 条设立的常驻雅加达大使级协调与外事支持机构。 |
+> | [[ASEAN Charter]] | Fact (Policy) | 2007 年签署并于 2008 年生效的东盟最高宪制性条约，确立法人地位与三大支柱。 |
 > | [[Argument_Zhu_Yang_2025_HE\|Zhu and Yang (2025)]] | Argument | 实证分析东盟第一大贸易伙伴背景下中国在东盟（柬埔寨）的高等教育地缘拓展。 |
 > | [[Argument_Velasco_2022_CSJ\|Velasco (2022)]] | Argument | 系统剖析面向东盟的教育外交三大支柱及地缘领土争端下的权力转化困境。 |
 > | [[Argument_Wang_Liang_Chen_2025_CES\|Wang et al. (2025)]] | Argument | 剖析中国—东盟职业教育高水平开放合作的价值立意、逻辑要点与产教生态圈实践进路。 |

@@ -6,177 +6,149 @@ aliases:
   - ERASMUS
   - Erasmus+
   - European Community Action Scheme for the Mobility of University Students
-summary: "欧洲共同体1987年设立的高等教育跨国流动旗舰资助项目；通过ECTS学分转换互认与专项奖学金，前20年资助逾150万名大学生跨国研修，成为构建欧洲教育空间、塑造超国家欧洲认同与网络化就业能力的标志性制度工具。"
+summary: "欧洲共同体于 1987 年设立的高等教育跨国学生流动旗舰资助工程；通过 ECTS 学分互认与专项奖学金，将学生流动确立为欧洲高教合作的标志性超级品牌，并在突破 1% 流动率瓶颈与学制壁垒中直接催生了博洛尼亚进程。"
 type: fact
 subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 0
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "1987–至今"
-issuing_organization: "[[European Commission|欧洲联盟委员会（European Commission）]]"
+initiator_organization: "[[European Commission|欧洲联盟委员会]]"
 tags:
+  - fact/program
   - region/eu
   - level/higher-ed
   - theme/student-mobility
   - theme/european-integration
-  - erasmus
-  - higher-education
-related_concepts:
-  - "[[Student Mobility]]"
-  - "[[European Education Space]]"
-  - "[[Employability]]"
-  - "[[Teacher Mobility]]"
-  - "[[Lifelong Learning]]"
-  - "[[Dynamic Assessment]]"
-  - "[[Internationalization of Higher Education]]"
-  - "[[Language Skills]]"
-  - "[[Cultural Capital]]"
-  - "[[Heterogeneity]]"
-  - "[[Social Imaginary]]"
-  - "[[Discourse]]"
-  - "[[Transiency]]"
-  - "[[Competitiveness]]"
-  - "[[Academic Inbreeding]]"
-  - "[[Paradigm]]"
-related_theories:
-  - "[[Governmentality]]"
-  - "[[Spatial Governmentality]]"
-  - "[[Governing at a Distance]]"
-related_methods:
-  - "[[Cohort Study]]"
-related_persons:
-  - "[[Socrates]]"
-  - "[[José Luis García Garrido]]"
-related_facts:
-  - "[[EU]]"
-  - "[[Bologna Process]]"
-  - "[[European Commission]]"
-  - "[[TEMPUS]]"
-  - "[[No Child Left Behind Act 2001]]"
-related_arguments:
-  - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
-  - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
+related_concepts: []
+related_theories: []
+related_methods: []
+related_instruments: []
+related_persons: []
+related_facts: []
+related_arguments: []
 confidence: high
-status: draft
+status: active
 created: 2026-10-10
-updated: 2026-10-26
+updated: 2026-10-29
 ---
 
 ---
 
-> [!program-context] 政策与历史背景
-> - **发起主体与出台时间** [[EU|欧洲共同体]]（European Community，欧盟前身）部长理事会于 1987 年 6 月正式通过决议设立，全称为“欧洲共同体大[[Student Mobility|学生流动]]行动方案”（European Community Action Scheme for the Mobility of University Students，缩写为 ERASMUS），项目名称同时致敬欧洲文艺复兴时期著名人文主义学者德西德里乌斯·伊拉斯谟（Desiderius Erasmus）。
-> - **一体化面临的文化瓶颈** 1980 年代中后期，欧洲一体化虽然在共同市场与经贸关税同盟层面取得显著突破，但在深层文化认同与超国家公民归属感（Europeanness）培育上遭遇严重停滞。各国高等教育体系彼此割裂封闭、文凭互不认可，严重制约了劳动力与高层次专业人才的自由流动。
-> - **制度位置与功能定位** 伊拉斯谟计划是欧洲联盟历史上规模最大、持续时间最长且政治象征意义最为深远的高等教育跨国流动旗舰工程；它构成了后续[[Bologna Process|博洛尼亚进程]]（Bologna Process）的先行制度试验田，也是构建[[European Education Space|欧洲教育空间]]（European Education Space, EES）的核心制度基石。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> [!claim] 项目定位
+> 欧洲共同体于 1987 年设立的高等教育跨国流动旗舰资助项目；通过为大学生提供跨国研修奖学金并依托欧洲学分转换与累积系统（ECTS）推行校际互认，成为构建欧洲教育空间、培育超国家公民认同与网络化就业能力的超级品牌。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]；[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 149, 154)]]
+
+> [!program-context] 项目背景
+> - **立项时间 / 周期** 欧洲共同体部长理事会于 1987 年 6 月正式通过决议设立，全称为“欧洲共同体大学生流动行动方案”（ERASMUS），经历苏格拉底计划、终身学习计划（LLP）整合后，于 2014 年升级为涵盖教育、培训与青年的“Erasmus+”，常态化运营至今。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> - **发起方与资助机制** 由[[European Commission|欧洲联盟委员会]]牵头发起并全额由欧盟预算拨款资助；通过专项奖学金补贴跨国交通与生活差价，强制要求接收高校免除流动学生的学费与注册费。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 149)]]
+> - **覆盖范围与对象** 覆盖欧盟全体成员国、欧洲自由贸易联盟国家、候选国及全球伙伴国的高校在读本科生、研究生、专任教师（教师流动）以及青年事务专员。
+> - **核心问题导向** 1980 年代中后期欧洲一体化重启时，共同市场面临深层文化认同停滞与各国封闭割裂的学制壁垒；欧委会此前缺乏教育条约立法授权，迫切需要通过资助流动这一最具政治共识的工具推动高教合作。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 149)]]；[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 ---
 
-> [!claim] 核心机制
-> 伊拉斯谟计划旨在通过为欧洲大学生提供为期 3 至 12 个月的跨国研修奖学金，并依托欧洲学分转换与累加系统（European Credit Transfer and Accumulation System, ECTS）实现校际学分无缝互认，打破主权民族国家的教育边界，将跨国流动性（[[Student Mobility|学生流动性]]）塑造为培育欧洲公民认同与适应去规制化劳动力市场的弹性就业胜任力（[[Employability]]-related Competencies）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> [!claim] 核心干预／机制假说
+> 通过提供个人流动奖学金、实施欧洲学分转换系统（ECTS）以及签署校际互免学费协议，打破民族国家的学籍与学制壁垒，将跨国流动性塑造为培育欧洲公民认同与适应去规制化劳动力市场的弹性就业胜任力。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
-> [!program-design] 项目设计要素
-> - **资助对象** [[EU|欧盟]]成员国（后扩展至欧洲自由贸易联盟及候选国）高等教育机构的正式在读本科生、硕士研究生，以及高校专任教师与学术骨干（[[Teacher Mobility|教师流动]]）。
-> - **核心政策工具**
->   1. **个人流动奖学金（Mobility Grants）** 由欧盟财政专项预算出资，补贴学生因跨国求学产生的交通与异地生活成本差异，免除留学生在接收高校的额外学费；
->   2. **欧洲学分转换与累加系统（ECTS）** 统一设定每学年 60 ECTS 学分标准与学习成果量度，强制派出学校全面认可学生在国外高校取得的课程学分与成绩记录；
->   3. **机构间双边协议（Inter-institutional Agreements）** 推动成员国高校签署标准化合作协议，确立课程匹配大纲与互免学费机制。
-> - **制度演进与整合框架**
->   - **1987–1994 年** 独立运作阶段，专注大学本科生双边交换试点；
->   - **1995–2006 年** 纳入欧盟“[[Socrates|苏格拉底]]计划”（SOCRATES）整体行动框架的高等教育分支；
->   - **2007–2013 年** 深度整合进欧盟统摄性的“[[Lifelong Learning|终身学习]]计划”（Lifelong Learning Programme, LLP），与中小学夸美纽斯计划（COMENIUS）及职业教育达芬奇计划（LEONARDO [[Dynamic Assessment|DA]] VINCI）协同并进；
->   - **2014 年至今** 升级整合为“Erasmus+”框架，涵盖教育、培训、青年与体育全领域，预算规模翻倍扩展。
+> [!policy-design] 方案设计
+> - **项目目标** 促进欧洲内部师生自由流动，强化欧洲青年的一体化公民意识，提升毕业生在统一劳动力市场中的就业能力与国际竞争力。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]；[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 149)]]
+> - **覆盖对象** 欧洲高等教育区全境公立与私立高校在读大学生、青年学者及教学管理骨干。
+> - **干预措施**
+>   - **个人流动奖学金（Mobility Grants）** 专项补贴学生跨国生活与交通成本，免除接收校额外学杂费。
+>   - **欧洲学分转换与累加系统（ECTS）** 统一设立每学年 60 ECTS 学分基准与以预期学习成果（Learning Outcomes）为核心的折算量规，保障派出校全额认定海外修读学分。
+>   - **伊拉斯谟大学宪章与机构间协议** 确立高校合作准入标准，规范课程匹配、学术互认与全过程学生服务支持。
+> - **实施控制** 依托成员国设立的“Erasmus 国家办事处”（National Agencies）实施合规审查、资金审计与周期性毕业生追踪调查。
 
----
-
-> [!dev-timeline] 项目演进历程
-> - **1987 年 创立与首期启动** [[EU|欧洲共同体]]通过建立 ERASMUS 的决议，首年即吸引 3244 名来自 11 个成员国的大学生跨国研修。
-> - **1989 年 ECTS 试点推行** [[European Commission|欧盟委员会]]正式推出欧洲学分转换系统（ECTS）试点，为消除学生跨国流动中的学籍阻碍确立透明度工具。
-> - **1995 年 纳入 [[Socrates]] 框架** 设立苏格拉底计划，将伊拉斯谟计划升格为欧盟促进[[Internationalization of Higher Education|高等教育国际化]]与欧洲维度塑造的核心支柱。
-> - **1999 年 催生[[Bologna Process|博洛尼亚进程]]** 伊拉斯谟计划的多年实践直接催生了 29 国教育部长签署《博洛尼亚宣言》，开启全欧学制三级架构（学士、硕士、博士）一体化改革。
-> - **2007 年 20 周年里程碑与[[Lifelong Learning|终身学习]]整合** 计划迎来设立 20 周年，官方统计累计流动学生总数突破 **150 万人**；同年度正式并入欧盟“终身学习计划（LLP 2007–2013）”，将跨国流动性法定确立为劳动者必须持有的终身职业素养。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
-> - **2014 年 升级为 Erasmus+** 欧盟启动 Erasmus+（2014–2020），总预算大幅增至 147 亿欧元，向全球非欧盟伙伴国开放更广阔的联合双学位与流动通道。
-
----
-
-> [!actor-grid] 实施治理结构
-> - **主导决策方** [[EU|欧洲联盟]]委员会教育、青年、体育与文化总司（DG EAC），负责制定战略指标、分配年度财政预算并发布项目实施指南。
-> - **国家执行机构** 各成员国设立的“Erasmus 国家办事处”（National Agencies），负责向本国高校下拨流动专项基金、审核派出与接收资质并监督合规性。
-> - **基层高校组织** 欧洲各大学国际合作处与院系协调员，负责与海外院校签署对口协议、开展学生外语及文化遴选、执行 ECTS 学分转换审核。
-> - **参与主体** 欧洲青年大学生、中青年大学骨干教师，以及辐射至欧盟周边地区的进修学者。
-
-> [!pathways] 实施机制与网络化运转
-> - **学籍保障与双向豁免机制** 参与高校必须严格签署《伊拉斯谟大学宪章》（Erasmus Charter for Higher Education），承诺保障流动学生在海外研修期间免除学费、注册费及考试费，回国后全额承认海外所获 ECTS 学分。
-> - **超国家辐射网络与衍生项目** 依托伊拉斯谟的成熟架构，欧盟相继孵化出针对非成员国高校的“[[TEMPUS|天普计划]]”（[[TEMPUS]]）以及面向全球高端硕士研究生的“伊拉斯谟世界计划”（Erasmus Mundus），形成以布鲁塞尔为枢纽的全球高等教育制度辐射网络。
-
----
-
-> [!finding-cards] 历史成效与制度定性
-> - **塑造超国家欧洲认同与“伊拉斯谟世代”** 社会学考证普遍指出，伊拉斯谟计划成功催生了具有强烈超国家归属感的“伊拉斯谟世代”（Erasmus Generation）。跨国跨文化共同生活显著消解了狭隘的民族主义偏见，将流动的公民体验固化为对欧洲一体化的深层政治认同。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 362)]]
-> - **构建欧洲高等教育一体化与透明度规范** 依托伊拉斯谟推行的 ECTS 学分互认规则，彻底打破了以往欧洲各国大学互不信任、自成体系的割裂状态，倒逼全欧高校重构以学生学习产出（Learning Outcomes）为导向的课程模块。
-> - **培育网络化弹性[[Employability|就业能力]]** 项目将跨文化适应力、多[[Language Skills|语言能力]]与国际网络人脉转化为毕业生进入跨国劳动力市场的核心资历，使跨国流动经验成为顶尖跨国企业雇主高度青睐的[[Cultural Capital|文化资本]]。
-> - **成员国吸纳分化与流动性虚荣诱惑（西班牙悖论）** 虽然伊拉斯谟计划在整体上推动了欧洲一体化，但在成员国层面的吸纳机制呈现显著[[Heterogeneity|异质性]]。例如西班牙成为全欧吸引伊拉斯谟学生最多的国家；然而，比较调查显示，驱动欧洲青年涌入西班牙高校的决定性因素并非大学学术声誉或教学科研质量，而是西班牙语的语言吸引力、地中海气候、旅游休闲生活方式与低廉的生活成本。这种外部非学术吸引力常被本国大学当局与政界误判为高等教育质量优异的证明，产生自满麻痹效应。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 333)]]
-
-> [!effect-table]- 项目发展里程碑与实证规模数据
-> <span class="fact-policy-eval-table-marker" aria-hidden="true"></span>
+> [!citation-card] Chou & Ravinet 评述伊拉斯谟计划的共识确立与制度地位
+> 1986 年获批并于 1987 年正式实施的伊拉斯谟计划改变了欧洲高等教育的合作格局。该计划确立了资助学生流动这一最具共识的政策理念，成功让此前缺乏条约授权的欧委会走到高教合作的舞台中央；伊拉斯谟经历成为欧洲青年文化的象征，确立了欧洲高教合作的标志性超级品牌。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 149)]]
 >
-> | 评估指标 / 历史节点 | 考察情境与统计口径 | 核心实证规模 / 数据发现 | 政策与制度启示 |
-> |---|---|---|---|
-> | **首期启动规模（1987）** | 11 个欧共体初创成员国 | 首年参与学生仅 **3,244** 人 | 确立了[[Student Mobility\|跨国学生流动]]的双边互免学费制度原型 |
-> | **20 周年累计规模（2007）** | 31 个欧洲协约国高校网络 | 跨国研修大学生累计突破 **150 万**人；年流动量超 15 万人 | 证实跨国流动从少数精英特权演变为制度化的大众跨国教育实践。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, p. 362)]] |
-> | **30 周年累计规模（2017）** | 全欧及国际合作院校 | 累计受益学生突破 **400 万**人，涵盖教师与青年工作者超 900 万人 | 成为全球规模最大、最具影响力的超国家高等教育合作网络 |
-> | **跨国吸纳极点与声誉悖论（西班牙案例）** | 欧盟高等教育跨国流动接收国统计（2000 年代中叶） | 西班牙稳居全欧吸引伊拉斯谟留学生**首位**；但全国高校在软科世界大学学术排名与泰晤士高等教育世界大学排名中位次低迷，高校教职内部近亲繁殖率畸高。[[Argument_Garcia_Garrido_2009_SpainEU\|(García Garrido, 2009, pp. 332–333)]] | 证实学生流动规模与学术质量之间存在脱节；非学术因素（气候、语言、休闲、生活成本）成为主导流动决策的隐性驱动力 |
-> | **欧洲认同感测量** | 欧盟委员会毕业生追踪调查（2014） | **83%** 的参与学生报告跨国研修后其“欧洲公民意识与认同”显著提升 | 证实物理流动对解构国家狭隘认同、构筑超国家[[Social Imaginary\|社会想象]]的政治功能 |
+> *The adoption of the Erasmus Programme in 1986, and its launch in 1987, shifted the landscape for European higher education cooperation... It provided the Commission with the platform to put higher education on the European agenda. Although funding was modest and only a fraction of students participated, the Erasmus experience became an emblem of European youth culture and established higher education as an area of cooperation.*
 
 ---
 
-> [!debates] 政策争议与理论批判
->
-> > [!axis] 争议一：新自由主义[[Governmentality|治理术]]与劳动力市场风险个体化
-> > 超国家机构对“流动性”的高调赞颂究竟是为了促进全人发展，还是为了规训劳动力自负盈亏？
-> > - **官方政策修辞** 宣称跨国流动提升了青年的适应力、全球视野与终身[[Employability|就业能力]]，能够保障其在竞争激烈的全球经济中立足。
-> > - **批判学者解构** 瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）与索贝与菲舍尔（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, p. 363]]）尖锐指出，伊拉斯谟计划将跨国流动从早期的文化交融工具，异化为将劳动力市场风险个人化的空间[[Governmentality|治理术]]。官方[[Discourse|话语]]将应对宏观经济动荡与结构性失业的责任转嫁给个体，要求劳动者必须具备无休止的“流动灵活性”，流动的缺席被责难为个人的能力缺陷。
->
-> > [!axis] 争议二：阶层代表性失衡与“精英特权俱乐部”偏见
-> > 伊拉斯谟奖学金是否实现了教育公平，还是再生产了中产以上阶层的[[Cultural Capital|文化资本]]？
-> > - **社会学实证批评** 尽管计划提供一定补贴，但生活成本高昂的西欧与北欧城市依然给低收入家庭学生造成显著的财务壁垒。多国[[Cohort Study|追踪研究]]表明，参与伊拉斯谟项目的学生中，父母拥有大学文凭及高收入背景的比例显著畸高，该项目在很大程度上沦为优势阶层镀金的特权渠道。
->
-> > [!axis] 争议三：跨大西洋道德双标——精英的流动与游民的漂泊
-> > 为何同一具肉体的空间位移，在欧洲高等教育中被颂扬，在底层社会却被病态化？
-> > - **空间社会学洞见** [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe and Fischer (2009)]] 对比美国 [[No Child Left Behind Act 2001|NCLB]] 将中小学生转校贬为“漂泊”（[[Transiency]]），指出欧洲对伊拉斯谟流动的道德美化，根源于其主体属于文化与知识精英；空间流动的道德价值完全取决于主体的社会阶层。
->
-> > [!axis] 争议四：流动性虚假繁荣与学术质量赤字（“伊拉斯谟悖论”）
-> > 跨国留学生数量的激增能否等同于大学教育质量与学术声誉的提升？
-> > - **官方政绩修辞** 大学行政当局与政客习惯将庞大的伊拉斯谟学生流入量作为本国高等教育具备国际[[Competitiveness|竞争力]]和成功对标[[European Education Space|欧洲教育空间]]的实证依据。
-> > - **批判学者解构** [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido]]）尖锐指出，这种流动性繁荣在西班牙等南欧国家制造了虚假的质量安慰剂。吸引欧洲学生的是宜人气候、低廉物价和休闲生活，而非严谨学术；与此同时，大学内部充斥着高达 95% 的[[Academic Inbreeding|学术近亲繁殖]]与地方保护主义。将伊拉斯谟生源吸引力混同于学术声誉，掩盖了高校深层的制度性质量赤字。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 333)]]
-
-> [!citation-card] 论伊拉斯谟流动性话语的政治与个人理性异化
-> 索贝与菲舍尔援引帕帕齐巴的批判分析指出，[[EU|欧盟]]伊拉斯谟计划所倡导的流动性话语，深刻反映了新自由主义[[Spatial Governmentality|空间治理术]]将宏观失业风险转嫁为个人适应责任的演变逻辑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
->
-> *"Papatsiba (2005) looks at the historical and current rationales for [[Student Mobility]] in the ERASMUS program, arguing that there has been an important shift... into an orientation focused on the development of individual employability-related competencies... in which individuals are held responsible for their own adaptability in an unpredictable globalized labor market."*
-
-> [!citation-card] 论伊拉斯谟生源吸引力与大学声誉脱节的假象
-> 西班牙如今是伊拉斯谟计划中吸引学生最多的国家。然而显而易见的是，决定这种吸引力的因素与其说是西班牙大学的声誉，不如说是其他因素：语言、气候、旅游吸引力、生活成本等。西班牙学术当局应当将这一好消息视为真正改进其机构的挑战，而非自我麻痹的镇静剂。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 333)]]
->
-> *"However, in contrast, Spain is now the country which attracts most students in the Erasmus programme. It seems clear that the factors which determine this attraction are not so much to do with the prestige of the Spanish universities but rather other factors: language, climate, tourist attractions, cost of living, etc... The Spanish academic authorities should use this good news not as a tranquillising element but rather as a challenge to really improve its institutions."*
+> [!dev-timeline] 项目推进历程
+> - **1987–1994 — 创立起步与试点试验期** 1987 年欧洲共同体正式启动项目，首年仅吸引来自 11 国的 3,244 名学生；1989 年开始试点欧洲学分转换系统（ECTS），初步探索消除学籍壁垒。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 362)]]
+> - **1995–2006 — 架构整合与瓶颈显现期** 纳入欧盟“苏格拉底计划”（SOCRATES）；实践中逐渐显露出单纯资助流动的结构瓶颈（各国学制长短不一且学分难折算），直接催生了 1999 年旨在消除深层学制壁垒的[[Bologna Process|博洛尼亚进程]]。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 149–150)]]
+> - **2007–2013 — 终身学习计划整合期** 迎来 20 周年里程碑，累计资助突破 150 万人；并入终身学习计划（LLP），将流动性深度绑定劳动力市场就业能力话语。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> - **2014–至今 — Erasmus+ 升级与常态化拓展** 升级整合为 Erasmus+，总预算提升至 147 亿欧元（后续期进一步扩增），全面向全球伙伴国拓展双学位与流动网络。
 
 ---
 
-> [!entry-map] 条目关联
->
-> | 条目 | 类型 | 在知识网络中的定位与功能 |
-> |:-----|:-----|:-------------------------|
-> | [[European Education Space]] | Concept | **上位治理空间** 伊拉斯谟计划是欧盟委员会构建欧洲教育空间与[[Social Imaginary\|社会想象]]的核心支柱。 |
-> | [[Student Mobility]] | Concept | **核心治理客体** 该计划构成了全球高等教育阶段制度化学生流动最经典、规模最大的实践[[Paradigm\|范式]]。 |
-> | [[Employability]] | Concept | **功能[[Discourse\|话语]]靶向** 跨国流动性被官方话语包装为提升青年就业胜任力与个人弹性的终身资本。 |
-> | [[TEMPUS]] | Fact (Program) | **外围辐射衍生** [[EU\|欧盟]]将伊拉斯谟的校际合作与学分互认经验推广至非成员国及东欧邻国的平行项目。 |
-> | [[Bologna Process]] | Fact (Policy) | **体制对齐框架** 博洛尼亚进程的三级学位与欧洲学分互认改革，直接奠定并扩展了伊拉斯谟计划的制度土壤。 |
-> | [[Spatial Governmentality]] | Theory | **解释理论工具** 透视超国家机构如何通过空间流动调控与网络化连接对青年劳动力实施[[Governing at a Distance\|远距治理]]。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | 论证 | 深入解构伊拉斯谟流动性政策话语如何将劳动力市场风险个体化的学术文献。 |
-> | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | 论证 | 揭示西班牙成为伊拉斯谟第一大接收国背后的非学术驱动机制，批判将流动规模混同于大学质量的自满假象。 |
-> | [[José Luis García Garrido]] | 人物 | 比较教育学者，深入剖析伊拉斯谟计划在南欧大学实践中的流动性悖论与大学近亲繁殖。 |
+> [!actor-grid] 实施协同矩阵
+> - **发起与资助方** 欧洲联盟委员会教育、青年、体育与文化总司（DG EAC），统筹制定战略指标、分配财政配额并发布执行指南。
+> - **国家执行中枢** 各成员国设立的 Erasmus 国家办事处（National Agencies），负责校际名额分配、资金拨付、资质合规审查与质量监督。
+> - **一线执行高校** 各大学国际合作处与院系教学委员会，负责签署校际双边协议、课程学分互换核销与留学生日常管理。
+> - **受益对象** 欧洲公私立院校在校青年学生、青年学者以及辐射至全球的合作项目研究人员。
+
+> [!pathways] 实施路径与管理
+> - **学籍豁免与学分强制互认** 高校签署《伊拉斯谟大学宪章》，承诺为流动学生免除境外学费，并无条件承认经 ECTS 认证的海外研修成果。
+> - **多层级衍生辐射网络** 依托伊拉斯谟核心模式，欧盟相继设立针对东欧等非成员国的[[TEMPUS|天普计划]]（TEMPUS）及面向全球卓越研究生的伊拉斯谟世界计划（Erasmus Mundus），形成全球性辐射网络。
+> - **从单一资助向全域学制对齐转向** 当单纯资助遭遇 1% 流动率瓶颈与学制异质性障碍后，欧盟将伊拉斯谟与博洛尼亚进程、里斯本战略紧密交织，推动成员国实施学士-硕士-博士三级学制改革。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 149–150)]]
 
 ---
+
+> [!indicators] 评估指标体系
+> - **投入与覆盖指标** 欧盟年度财政预算投入总额、参与高等教育机构总数、双边合作协议数量。
+> - **过程与流动性指标** 年度实际跨境流动学生人次、平均研修月数、ECTS 学分平均转换完成率。
+> - **结果与长远影响指标** 欧洲公民认同感增值率（毕业生调查）、跨国就业率、多语言能力达标率及雇主满意度。
+
+> [!finding-cards] 核心实证结论
+> - **催生超国家“伊拉斯谟世代”认同** 跨国生活与求学显著消解了地方民族偏见，83% 的受访学生确认跨国研修强化了欧洲公民归属感，构成了欧洲一体化的社会学心理基石。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 362)]]
+> - **推动全欧高教学制结构趋同** ECTS 的普及和学生流动需求彻底打破了各国大学相互封闭的学制藩篱，直接驱动了全欧转向以学习成果为导向的三级连续学位体系。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 149–150)]]
+> - **1% 瓶颈与单纯流动资助的制度局限** 实证统计表明，即便在项目高度成熟期，受助学生长期仅占欧洲在校大学生总数的 1% 左右（如 2012–2013 学年在 33 国 2018 万在校生中仅资助约 27 万人）；单纯资助流动遭遇根本瓶颈，无法替代深层政策协调。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 149)]]
+> - **非学术因素驱动与西班牙悖论** 西班牙成为吸引伊拉斯谟生源最多的国家，但实证调查揭示决定流动的主因是语言、气候、低生活成本与休闲文化，而非大学学术声誉；高校教职高达 95% 的近亲繁殖表明流动性虚荣掩盖了本土质量短板。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
+
+> [!stat-cards]- 关键实证数据
+> - **1%** （比例） 每年受助学生占欧洲在校大学生总数的长期平均比例，揭示流动受助规模的结构性上限。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 149)]]
+> - **270,000** （人） 2012–2013 学年伊拉斯谟计划资助学生总数（当年 33 国在校大学生总计 2018 万人）。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 149)]]
+> - **4,000,000** （人） 截至 2017 年设立 30 周年时，伊拉斯谟计划累计受益学生突破的实证规模。
+> - **83%** （比例） 欧盟委员会毕业生追踪调查中报告其“欧洲公民意识与认同”显著提升的学生占比。
+
+---
+
+> [!debates] 核心争议
+>
+> > [!axis] 新自由主义空间治理术 vs 劳动力市场风险个体化
+> > 围绕高调赞颂流动性是服务于全人发展还是规训劳动力自负盈亏展开学术批评。
+> > - **官方政策修辞** 宣称跨国流动提升了青年的适应力、全球视野与终身就业能力，保障其在竞争激烈的全球经济中立足。
+> > - **空间治理术解构** Papatsiba (2005) 与索贝和菲舍尔指出，伊拉斯谟计划将跨国流动异化为将劳动力市场风险个人化的空间治理术，把宏观经济动荡与失业责任转嫁给个体，要求劳动者具备无休止的“流动灵活性”。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
+>
+> > [!axis] 单纯资助流动理念的局限性与博洛尼亚政策转向
+> > 围绕教育区域一体化能否单靠资金资助流动达成展开理论反思。
+> > - **流动资助优先论** 欧委会早期主张通过无偿奖学金资助绕开主权立法争议，以文化与人际交流培育欧洲认同。
+> > - **深层学制壁垒批判** [[Argument_Chou_2017_PolSoc|Chou and Ravinet (2017)]] 指出，欧洲决策者逐渐认识到单纯资助学生流动作为高教区域主义的核心理念存在根本缺陷；仅靠资金补助无法消除学制长度不同、学分无法折算等结构性壁垒，促使政策重心从单纯流动资助转向博洛尼亚进程的制度化政策协调与就业竞争力建构。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 149–150)]]
+>
+> > [!axis] 阶层代表性失衡与文化资本再生产
+> > 伊拉斯谟奖学金是否实现了教育公平，还是沦为优势阶层镀金特权。
+> > - **社会学实证批评** 尽管计划提供一定补贴，但西欧与北欧高昂的生活成本依然形成显著财务壁垒；追踪研究表明参与者中父母拥有大学文凭及高收入背景的比例显著偏高，固化了优势阶层的文化资本。
+>
+> > [!axis] 流动性虚假繁荣与学术质量赤字（西班牙悖论）
+> > 跨国留学生数量的激增能否等同于大学教育质量与学术声誉的提升。
+> > - **官方政绩修辞** 大学当局与政客习惯将庞大的伊拉斯谟学生流入量作为本国高等教育具备国际竞争力的证明。
+> > - **比较学者实证批判** 加西亚·加里多尖锐指出，在西班牙等国吸引学生的决定性因素是气候、语言、物价与休闲，而非严谨学术；大学内部充斥着严重的学术近亲繁殖与地方保护，流动性吸引力掩盖了质量危机。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 333)]]
+
+> [!lessons] 经验教训与启示
+> - **实施教训** 单纯依靠财政资助和微观流动补贴无法自发消除各国深层的学制不兼容壁垒，且面临 1% 受益率天花板与阶层参与倾斜；过度沉迷于生源流入规模易引发忽视本土学术质量建设的自满假象。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, p. 149)]]；[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 333)]]
+> - **对未来高教区域合作的启示** 跨国高等教育区域建设必须将资金资助的人际流动与宏观学制结构（学位分层、学分累积、质保准则）的深层协调紧密结合，才能实现可持续的互认互通。[[Argument_Chou_2017_PolSoc|(Chou & Ravinet, 2017, pp. 149–150)]]
+
+---
+
+> [!entry-map] 相关条目网络
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[European Education Space]] | Concept | 伊拉斯谟计划是欧盟委员会构建欧洲教育空间与社会想象的核心支柱。 |
+> | [[Student Mobility]] | Concept | 该计划构成了全球高等教育阶段制度化跨国学生流动的标志性范式。 |
+> | [[Employability]] | Concept | 跨国流动性被官方话语包装为提升青年就业胜任力与个人弹性的终身资本。 |
+> | [[Global Regionalisms]] | Concept | 伊拉斯谟作为超级品牌，奠定了欧洲全域趋同旗舰模式的社会认同基础。 |
+> | [[TEMPUS]] | Fact (Program) | 欧盟将伊拉斯谟的校际合作与学分互认经验推广至非成员国及东欧邻国的平行项目。 |
+> | [[Bologna Process]] | Fact (Policy) | 伊拉斯谟实践直接催生的全欧学制三级架构与质保一体化改革进程。 |
+> | [[European Commission]] | Fact (Organization) | 凭借伊拉斯谟计划成功突破条约限制、走向欧洲高教合作舞台中央的常设执行机构。 |
+> | [[Spatial Governmentality]] | Theory | 透视超国家机构如何通过空间流动调控与网络化连接对青年劳动力实施远距治理。 |
+> | [[Argument_Chou_2017_PolSoc\|Chou and Ravinet (2017)]] | Argument | 剖析伊拉斯谟计划确立欧委会高教主导权、遭遇 1% 流动率瓶颈并催生博洛尼亚政策协调转向的核心文献。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe and Fischer (2009)]] | Argument | 深入解构伊拉斯谟流动性政策话语如何将劳动力市场风险个体化的学术文献。 |
+> | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | Argument | 揭示西班牙成为伊拉斯谟第一大接收国背后的非学术驱动机制，批判将流动规模混同于大学质量的自满假象。 |
+> | [[José Luis García Garrido]] | Person | 深入剖析伊拉斯谟计划在南欧大学实践中的流动性悖论与学术近亲繁殖的比较教育学者。 |
