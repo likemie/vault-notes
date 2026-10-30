@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit03",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
+    },
+    {
+      "basename": "h-Index",
+      "path": "wiki/methods/quantitative/h-Index.md"
+    },
+    {
+      "basename": "Q-Model",
+      "path": "wiki/theories/science-policy/Q-Model.md"
+    },
+    {
+      "basename": "Hot-Streak Model",
+      "path": "wiki/theories/science-policy/Hot-Streak Model.md"
+    },
+    {
+      "basename": "Q-Factor",
+      "path": "wiki/methods/quantitative/Q-Factor.md"
+    },
+    {
       "basename": "Microsoft Academic Graph",
       "path": "wiki/facts/us/Microsoft Academic Graph.md"
     },
@@ -59,10 +79,6 @@
     {
       "basename": "o-Index",
       "path": "wiki/methods/quantitative/o-Index.md"
-    },
-    {
-      "basename": "h-Index",
-      "path": "wiki/methods/quantitative/h-Index.md"
     },
     {
       "basename": "Shockley's Multiplicative Hurdle Model",
@@ -183,22 +199,6 @@
     {
       "basename": "Argument_Murray_Moxon-Browne_2013_JCMS",
       "path": "wiki/arguments/journal-articles/JCMS Journal of Common Market Studies/Argument_Murray_Moxon-Browne_2013_JCMS.md"
-    },
-    {
-      "basename": "Argument_Wang_Barabasi_2021_Cambridge",
-      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge.md"
-    },
-    {
-      "basename": "template-method-quant",
-      "path": "wiki/templates/template-method-quant.md"
-    },
-    {
-      "basename": "LISA Spatiotemporal Transition",
-      "path": "wiki/methods/quantitative/LISA Spatiotemporal Transition.md"
-    },
-    {
-      "basename": "Longitudinal Study",
-      "path": "wiki/methods/quantitative/Longitudinal Study.md"
     }
   ],
   "omittedPaths": [],

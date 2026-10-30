@@ -10,7 +10,7 @@ summary: "由 Antonis Sidiropoulos et al. (2007) 提出的时间加权文献计�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 7
+method_related_count: 9
 method_related_level: 0
 method_related_stars: "☆"
 method_related_color: "#dcfce7"
@@ -31,7 +31,9 @@ related_methods:
   - "[[Bibliometric Analysis]]"
   - "[[m-Quotient]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
@@ -74,7 +76,7 @@ updated: 2026-10-30
 
 > [!dev-timeline] 方法演变
 > - **2007 年 — 理论提出** Sidiropoulos 等人在 *Information Processing & Management* 提出广义希尔施指数族（Generalized Hirsch Indexes），正式定义当代 $h^c$ 指数。
-> - **2021 年 — 科学学系统化梳理** 王大顺与巴拉巴西在专著中将 $h^c$ 指数与 $m$ 商数并列，作为解决传统 $h$ 指数时间累积偏差的代表性经典工具。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
+> - **2021 年 — 科学学系统化梳理** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]在专著中将 $h^c$ 指数与 $m$ 商数并列，作为解决传统 $h$ 指数时间累积偏差的代表性经典工具。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, p. 26)]]
 
 ---
 

@@ -11,7 +11,7 @@ summary: "由 Jorge E. Hirsch (2005) 提出的文献计量指标；基于 h 指�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -37,6 +37,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Jorge E. Hirsch]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Wang_Barabasi_2021_Cambridge_Unit01]]"
@@ -79,7 +81,7 @@ updated: 2026-10-30
 
 > [!dev-timeline] 方法演变
 > - **2005 — 原始提出** 乔治·希尔施在 PNAS 奠基论著中提出 $h$ 指数的同时导出线性累积模型 $h = mt$ 与 $m$ 商数。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 18–20)]]
-> - **2021 — 科学学系统化梳理** 王大顺与巴拉巴西在专著中将 $m$ 商数作为解决 $h$ 指数“时间依赖性”缺陷的核心标准[[Paradigm|范式]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 19, 26)]]
+> - **2021 — 科学学系统化梳理** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]在专著中将 $m$ 商数作为解决 $h$ 指数“时间依赖性”缺陷的核心标准[[Paradigm|范式]]。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 19, 26)]]
 
 ---
 

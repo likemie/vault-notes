@@ -13,7 +13,7 @@ summary: "由 William Shockley (1957) 提出的科学生产力数学测度与概
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 20
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -47,6 +47,8 @@ related_persons:
   - "[[William Shockley]]"
   - "[[Alfred J. Lotka]]"
   - "[[Derek de Solla Price]]"
+  - "[[Dashun Wang]]"
+  - "[[Albert-László Barabási]]"
 related_facts:
   - "[[Bell Labs]]"
 related_arguments:
@@ -92,7 +94,7 @@ updated: 2026-10-30
 > [!dev-timeline] 方法演变
 > - **1957 — 原始模型提出** 肖克利在《美国物理学杂志》发表[[Bell Labs|贝尔实验室]]与国家实验室实证统计，确立八重关卡划分、概率连乘公式与对数正态分布。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 11, 13)]]
 > - **2007 — 跨学科大样本检验** Fronczak 等人利用 INSPECT 文献库对 300 万学者发表全量数据进行统计拟合，实证检验了对数正态分布的经验稳健性。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 11–12)]]
-> - **2021 — 科学学框架的系统阐释** 王大顺与巴拉巴西在教材中将肖克利模型形式化，结合 GeoGebra 模拟确立其在科学生产力分析中的标准地位。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 13–16)]]
+> - **2021 — 科学学框架的系统阐释** [[Dashun Wang|王大顺]]与[[Albert-László Barabási|巴拉巴西]]在专著中将肖克利模型形式化，结合 GeoGebra 模拟确立其在科学生产力分析中的标准地位。[[Argument_Wang_Barabasi_2021_Cambridge_Unit01|(Wang & Barabási, 2021, pp. 13–16)]]
 
 ---
 
