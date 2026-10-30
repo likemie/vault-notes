@@ -23769,12 +23769,13 @@ html body .callout.callout.callout.callout.callout.callout:is([data-callout="fra
 }
 html body .callout.callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])::before, html body .callout.callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])::after { display: none !important; }
 html body .callout.callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-title {
-  position: relative !important; align-items: flex-start !important;
+  position: relative !important; align-items: flex-start !important; width: 100% !important; box-sizing: border-box;
   margin: 0 0 .65rem !important; padding: 0 0 1rem !important;
   background: none !important; border: 0 !important; box-shadow: none !important;
 }
 html body .callout.callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-title .callout-title-inner {
-  position: relative !important; padding: 0 76px 0 0 !important; border: 0 !important;
+  position: relative !important; flex: 1 1 0% !important; min-width: 0 !important; width: auto !important; max-width: none !important;
+  padding: 0 84px 0 0 !important; border: 0 !important; box-sizing: border-box;
   font-family: var(--ac-serif) !important; font-size: 1.15em !important;
   font-weight: 500 !important; letter-spacing: .015em !important; line-height: 1.5 !important;
   color: var(--text-normal) !important;
@@ -23889,6 +23890,64 @@ html body .callout.callout.callout.callout.callout.callout[data-callout="method-
 /* Keep the module heading close to its column labels; lift rows with tone, not shadows. */
 html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-title { padding-bottom: .7rem !important; margin-bottom: .2rem !important; }
 html body.theme-dark .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] { --fm-row: color-mix(in srgb, var(--background-secondary) 96%, var(--text-normal)); }
+/* Research design table: a clear header and continuous reading rows, without card blocks. */
+html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content table { border-collapse: separate !important; border-spacing: 0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content :is(th, td) { text-align: left !important; text-align-last: auto !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content thead th {
+  padding: .65rem 1rem !important;
+  background: color-mix(in srgb, var(--fm-accent) 7%, transparent) !important;
+  border-top: 1px solid var(--fm-edge) !important;
+  border-bottom: 1px solid var(--fm-edge) !important;
+  color: var(--fm-ink) !important; font-weight: 600 !important; letter-spacing: .035em !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content thead th:first-child { border-radius: 4px 0 0 4px !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content thead th:last-child { border-radius: 0 4px 4px 0 !important; }
+html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody td {
+  padding: 1rem !important; background: transparent !important;
+  border: 0 !important; border-bottom: 1px solid var(--fm-soft) !important;
+  border-radius: 0 !important; line-height: 1.8 !important;
+  transform: none !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody td:first-child {
+  position: relative !important; padding-left: 1.05rem !important; padding-right: 1.4rem !important;
+  border-left: 0 !important; color: var(--fm-ink) !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody td:first-child::before {
+  content: ""; display: block !important; position: absolute;
+  left: .1rem; top: 1.4rem; width: 5px; height: 5px; border: 1px solid var(--fm-accent);
+  border-radius: 50%; background: transparent; opacity: .65;
+  transition: background-color 180ms ease, opacity 180ms ease !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody td:first-child strong {
+  font-weight: 500 !important; line-height: 1.7 !important;
+}
+html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody tr:last-child td { border-bottom: 0 !important; }
+@media (hover: hover) {
+  html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody tr:hover td {
+    background: color-mix(in srgb, var(--fm-accent) 4%, transparent) !important;
+    transform: none !important;
+  }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody tr:hover td:first-child::before { background: var(--fm-accent); opacity: 1; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody tr:hover td:first-child strong { transform: translateX(2px); }
+}
+@container (max-width: 520px) {
+  html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) tbody tr {
+    padding: 1rem 0 !important; margin: 0 !important; background: transparent !important;
+    border: 0 !important; border-bottom: 1px solid var(--fm-soft) !important; border-radius: 0 !important;
+  }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) tbody tr:last-child { border-bottom: 0 !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content table:not(:has(tr > :nth-child(3))) td:first-child { padding-left: .9rem !important; padding-bottom: .5rem !important; }
+  html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-content tbody td:first-child::before { top: .55rem; left: 0; }
+}
+/* Keep heading artwork separate from the text in narrow panes as well. */
+@container (max-width: 360px) {
+  html body .callout.callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-title .callout-title-inner { padding-right: 60px !important; }
+  html body .callout.callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-title .callout-title-inner::after { width: 44px; height: 31px; top: 6px; }
+}
+@container (max-width: 260px) {
+  html body .callout.callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-title .callout-title-inner { padding-right: 0 !important; }
+  html body .callout.callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"]) > .callout-title .callout-title-inner::after, html body .callout.callout.callout.callout.callout.callout[data-callout="method-panel"] > .callout-title::before { display: none !important; }
+}
 @keyframes fm-editorial-reveal { from { opacity: .6; transform: translateY(5px); } to { opacity: 1; transform: none; } }
 @media (prefers-reduced-motion: reduce) {
   html body .callout.callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout], html body .callout.callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout] *, html body .callout.callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout] *::before, html body .callout.callout.callout.callout.callout.callout:is([data-callout="framework-table"], [data-callout="method-panel"])[data-callout][data-callout][data-callout][data-callout] *::after { animation: none !important; transition: none !important; }

@@ -5,6 +5,14 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
     },
     {
+      "basename": "Hyperauthorship",
+      "path": "wiki/concepts/science-policy/Hyperauthorship.md"
+    },
+    {
+      "basename": "Collective Intelligence",
+      "path": "wiki/concepts/learning-science-cognitive-science/Collective Intelligence.md"
+    },
+    {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit04",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit04.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Drop-pin Projection",
       "path": "wiki/methods/quantitative/Drop-pin Projection.md"
-    },
-    {
-      "basename": "Conceptual Innovators",
-      "path": "wiki/concepts/science-policy/Conceptual Innovators.md"
-    },
-    {
-      "basename": "template-argument",
-      "path": "wiki/templates/template-argument.md"
     }
   ],
   "omittedPaths": [],
