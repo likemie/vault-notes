@@ -15817,6 +15817,16 @@
     ]
   },
   {
+    "title": "Clustering Coefficient",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Clustering Coefficient.md",
+    "aliases": [
+      "集聚系数",
+      "聚类系数",
+      "聚集系数"
+    ]
+  },
+  {
     "title": "Co-Design",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Co-Design.md",
@@ -15902,6 +15912,17 @@
       "Blue-Sky Research",
       "Blue Skies Research",
       "蓝天研究"
+    ]
+  },
+  {
+    "title": "Death of Distance",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Death of Distance.md",
+    "aliases": [
+      "地理距离消亡论",
+      "距离之死",
+      "距离的死亡",
+      "地理消亡假说"
     ]
   },
   {
@@ -16007,6 +16028,16 @@
     ]
   },
   {
+    "title": "Erdős Number",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Erdős Number.md",
+    "aliases": [
+      "埃尔德什数",
+      "埃尔德斯数",
+      "Erdos Number"
+    ]
+  },
+  {
     "title": "Eroom's Law",
     "type": "concept",
     "path": "wiki/concepts/science-policy/Eroom's Law.md",
@@ -16069,6 +16100,18 @@
       "De-weaning",
       "Funding Exit Strategy",
       "Weaning mechanism"
+    ]
+  },
+  {
+    "title": "Giant Component",
+    "type": "concept",
+    "path": "wiki/concepts/science-policy/Giant Component.md",
+    "aliases": [
+      "巨连通分支",
+      "巨组件",
+      "巨分支",
+      "Giant Connected Component",
+      "GCC"
     ]
   },
   {
@@ -27506,6 +27549,16 @@
     ]
   },
   {
+    "title": "Lu Liu",
+    "type": "person",
+    "path": "wiki/persons/china/Lu Liu.md",
+    "aliases": [
+      "刘路",
+      "L. Liu",
+      "Liu, L."
+    ]
+  },
+  {
     "title": "Ma Rong",
     "type": "person",
     "path": "wiki/persons/china/Ma Rong.md",
@@ -29573,6 +29626,18 @@
     "aliases": [
       "Pampaka, M.",
       "玛丽亚·潘帕卡"
+    ]
+  },
+  {
+    "title": "Mark Newman",
+    "type": "person",
+    "path": "wiki/persons/uk/Mark Newman.md",
+    "aliases": [
+      "马克·纽曼",
+      "纽曼",
+      "Mark E. J. Newman",
+      "M. E. J. Newman",
+      "Newman, M. E. J."
     ]
   },
   {
@@ -32276,6 +32341,17 @@
     ]
   },
   {
+    "title": "Stefan Wuchty",
+    "type": "person",
+    "path": "wiki/persons/us/Stefan Wuchty.md",
+    "aliases": [
+      "斯特凡·武赫蒂",
+      "武赫蒂",
+      "S. Wuchty",
+      "Wuchty, S."
+    ]
+  },
+  {
     "title": "Stephen L. Carter",
     "type": "person",
     "path": "wiki/persons/us/Stephen L. Carter.md",
@@ -34185,6 +34261,17 @@
       "千人计划",
       "Thousand Talents Plan",
       "TTP"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Yongle Encyclopedia",
+    "type": "fact",
+    "path": "wiki/facts/china/Yongle Encyclopedia.md",
+    "aliases": [
+      "永乐大典",
+      "永乐大典编纂工程",
+      "Yongle Dadian"
     ],
     "subtype": "program"
   },
@@ -43829,6 +43916,17 @@
       "实验室嵌入式创业倡议",
       "LEEP",
       "DOE LEEP"
+    ],
+    "subtype": "program"
+  },
+  {
+    "title": "Laser Interferometer Gravitational-Wave Observatory",
+    "type": "fact",
+    "path": "wiki/facts/us/Laser Interferometer Gravitational-Wave Observatory.md",
+    "aliases": [
+      "LIGO",
+      "激光干涉引力波天文台",
+      "激光干涉引力波观测站"
     ],
     "subtype": "program"
   },

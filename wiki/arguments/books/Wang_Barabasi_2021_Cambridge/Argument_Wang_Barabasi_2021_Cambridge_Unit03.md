@@ -11,7 +11,7 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit03"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit03"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -46,6 +46,7 @@ related_instruments: []
 related_persons:
   - "[[Roberta Sinatra]]"
   - "[[John B. Fenn]]"
+  - "[[Lu Liu]]"
 related_facts: []
 related_arguments: []
 sources:
@@ -232,7 +233,7 @@ updated: 2026-10-30
 
 > [!sub-claim] 1. 顶尖代表作在时间上紧密相邻，前后脚诞生的概率远超随机预期
 
-> [!evidence-grid] 代表作时空自相关成簇实证（Liu et al., 2018）
+> [!evidence-grid] 代表作时空自相关成簇实证（[[Lu Liu|刘路]]等，Liu et al., 2018）
 > - **头两项代表作紧邻发表概率提升 1.57 倍** 测度个人最佳代表作 $N^\ast$ 与次佳代表作 $N^{\ast\ast}$ 相对位置的联合概率矩阵表明，两项巅峰成果紧邻出现的概率达纯随机预期的 1.57 倍，对角线区域显著隆起（pp. 72–74; 图 7-1）。
 > - **第三代表作同样在邻近时空涌现** 扩展至第三高峰成果的测定证实，高影响突破呈现出局域紧密成簇的系统性规律（p. 74）。
 > - **跨学科与跨文化领域的普适性** 这种代表作成簇特征在 20,040 位科学家、3,480 位艺术画家以及 6,233 位电影导演的职业生涯中均获得稳健验证（pp. 74–76）。

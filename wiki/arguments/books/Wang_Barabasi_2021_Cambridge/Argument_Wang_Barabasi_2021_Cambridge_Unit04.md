@@ -11,9 +11,9 @@ title: "Argument_Wang_Barabasi_2021_Cambridge_Unit04"
 argument_key: "Argument_Wang_Barabasi_2021_Cambridge_Unit04"
 argument_display_title: "The Science of Science"
 argument_kind: "book-chapter"
-argument_related_count: 18
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 26
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "The Science of Science"
 publisher: "Cambridge University Press"
@@ -55,7 +55,11 @@ related_persons:
   - "[[Paul Erdős]]"
   - "[[Pierre Azoulay]]"
   - "[[Harriet Zuckerman]]"
-related_facts: []
+  - "[[Stefan Wuchty]]"
+  - "[[Mark Newman]]"
+related_facts:
+  - "[[Yongle Encyclopedia]]"
+  - "[[Laser Interferometer Gravitational-Wave Observatory]]"
 related_arguments: []
 sources:
   - "[[books/Wang_Barabasi_2021_Cambridge/Wang_Barabasi_2021_Cambridge|Wang_Barabasi_2021_Cambridge]]"
@@ -155,7 +159,7 @@ updated: "2026-10-30"
 > - **发明专利技术研发** 美国专利商标局 210 万件专利数据显示，团队发明专利占比同步大幅上扬，技术攻关全面走向集体分工协作（p. 86）。
 
 > [!contrast-table] 科学生产组织模式的百年历史对比（1915 vs 2015）
-> | 比较维度 | 1915 年广义相对论创立 | 2015 年引力波协同探测 |
+> | 比较维度 | 1915 年广义相对论创立 | 2015 年引力波协同探测（[[Laser Interferometer Gravitational-Wave Observatory|LIGO]]） |
 > |---|---|---|
 > | 组织模式 | 单人独立探索（爱因斯坦一人独立完成） | 超大规模跨机构协同（1,000+ 位学者联合署名） |
 > | 物质与仪器基础 | 经典纸笔推演与纯粹思想实验 | 耗资 11 亿美元的超高真空激光干涉大科学装置 |
@@ -166,7 +170,7 @@ updated: "2026-10-30"
 > 耗资约 38 亿美元的人类基因组计划不仅开启了现代基因组学革命，更带动了高达 7,960 亿美元的直接经济增长，并创造了 310,000 个高科技就业岗位（Battelle Technology Partnership Practice, 2011, p. 82）。
 
 > [!example] 专栏 8.1 前现代超大规模团队协同：明代《永乐大典》编纂
-> 创意与学术领域的团队合作自古有之。编纂于明代永乐年间的《永乐大典》是人类历史上规模最为庞大的手写纸质类书，全书包含 22,937 卷、分装为 11,095 册。这一宏大文化工程由明成祖朱棣于 1403 年下诏启动，组织了超过 2,000 名学者历时整整 5 年协同编纂完成，展现了前现代时期依托大规模人力协同攻克巨型知识工程的卓越范例（pp. 87–88）。
+> 创意与学术领域的团队合作自古有之。编纂于明代永乐年间的[[Yongle Encyclopedia|《永乐大典》]]是人类历史上规模最为庞大的手写纸质类书，全书包含 22,937 卷、分装为 11,095 册。这一宏大文化工程由明成祖朱棣于 1403 年下诏启动，组织了超过 2,000 名学者历时整整 5 年协同编纂完成，展现了前现代时期依托大规模人力协同攻克巨型知识工程的卓越范例（pp. 87–88）。
 
 > [!figure]- 图8-2：中国明代编纂《永乐大典》的超大规模团队合作
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_8-2_Yongle_Encyclopedia.jpg)
@@ -298,7 +302,7 @@ updated: "2026-10-30"
 
 > [!figure]- 图10-2：不同学科合署学者数分布的重尾异质性特征
 > ![](https://img.mylikemie.icu/books/Wang_Barabasi_2021_Cambridge/figures/Figure_10-2_Collaboration_Networks_Heterogeneous.jpg)
-> *生物学、物理学与数学三大基础学科合著网络度分布 $P(k)$ 对比。双对数坐标轴下所有学科曲线均展现出显著的重尾特征；生物学分布尾部最长，物理学次之，数学衰减最快（Newman, 2001, p. 105）。*
+> *物理学家[[Mark Newman|马克·纽曼]]（Mark Newman, 2001, p. 105）对生物学、物理学与数学三大基础学科合著网络度分布 $P(k)$ 的对比实测。双对数坐标轴下所有学科曲线均展现出显著的重尾特征；生物学分布尾部最长，物理学次之，数学衰减最快。*
 
 > [!contrast-table] 生物学、物理学与数学合著网络拓扑特征对比
 > | 学科领域 | 度分布重尾特征 | 团队规模结构 | 知识生产劳动分工机制 | 代表性学者分布 |
