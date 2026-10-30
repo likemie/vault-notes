@@ -9,6 +9,14 @@
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit05.md"
     },
     {
+      "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit06",
+      "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit06.md"
+    },
+    {
+      "basename": "John B. Fenn",
+      "path": "wiki/persons/us/John B. Fenn.md"
+    },
+    {
       "basename": "Turn-Taking Equality",
       "path": "wiki/concepts/learning-science-cognitive-science/Turn-Taking Equality.md"
     },
@@ -75,10 +83,6 @@
     {
       "basename": "Argument_Wang_Barabasi_2021_Cambridge_Unit03",
       "path": "wiki/arguments/books/Wang_Barabasi_2021_Cambridge/Argument_Wang_Barabasi_2021_Cambridge_Unit03.md"
-    },
-    {
-      "basename": "John B. Fenn",
-      "path": "wiki/persons/us/John B. Fenn.md"
     },
     {
       "basename": "Laser Interferometer Gravitational-Wave Observatory",
@@ -195,10 +199,6 @@
     {
       "basename": "o-Index",
       "path": "wiki/methods/quantitative/o-Index.md"
-    },
-    {
-      "basename": "Shockley's Multiplicative Hurdle Model",
-      "path": "wiki/methods/quantitative/Shockley's Multiplicative Hurdle Model.md"
     }
   ],
   "omittedPaths": [],
